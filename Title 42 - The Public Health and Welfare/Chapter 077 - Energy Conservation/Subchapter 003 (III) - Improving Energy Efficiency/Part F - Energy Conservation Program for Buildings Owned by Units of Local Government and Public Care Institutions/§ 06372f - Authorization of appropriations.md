@@ -4,7 +4,7 @@
 
 (b) For the purpose of making technical assistance grants under this part to States and to units of local government and public care institutions, there is hereby authorized to be appropriated not to exceed $17,500,000 for the fiscal year ending September 30, 1978, and $32,500,000 for the fiscal year ending September 30, 1979, such funds to remain available until expended.
 
-(c) For the expenses of the Secretary in administering the provisions of this part, there are hereby authorized to be appropriated such sumsas may be necessary for each fiscal year in the two consecutive fiscal year periods ending September 30, 1979, such funds to remain available until expended.
+(c) For the expenses of the Secretary in administering the provisions of this part, there are hereby authorized to be appropriated such sums as may be necessary for each fiscal year in the two consecutive fiscal year periods ending September 30, 1979, such funds to remain available until expended.
 
 (Pub. L. 94–163, title III, §400G, as added Pub. L. 95–619, title III, §311(a), Nov. 9, 1978, 92 Stat. 3253.)
 

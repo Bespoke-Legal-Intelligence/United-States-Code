@@ -194,7 +194,7 @@ Subsecs. (e)(1), (h). Pub. L. 95–454, §906(a)(15), substituted “Office” f
 
 1974—Subsec. (a). Pub. L. 93–246, §1(a), struck out introductory text “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, now incorporated in subsec. (b)(1) of this section, required Commission determination of average of subscription charges, and reenacted remainder of existing provisions, substituting “beginning date of each contract year” for “beginning date of the adjustment”.
 
-Subsec. (b)(1). Pub. L. 93–246, §1(a), incorporated introductory text of former subsec. (a) reading “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, as initial text of provisions designated as subsec. (b)(1), substituted provision for amount of biweekly Government contribution equal to 50 percent of average subscription charge for applicable pay periods commencing in 1974 and 60 percent for applicable pay periods commencing in 1975, and annually thereafter, for former subsec. (a) provision for an amount equal to 40 percent of average of subscription charges and former subsec. (b) provision for 50 percent of subscription charge where the biweekly subscription charge was less than twice the Government contribution.
+Subsec. (b)(1). Pub. L. 93–246, §1(a), incorporated introductory text of former subsec. (a) reading “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, as initial text of provisions designated as subsec. (b)(1), substituted provision for amount of biweekly Government contribution equal to 50 percent of average subscription charge for applicable pay periods commencing in 1974 and 60 percent for applicable pay periods commencing in 1975, and annually thereafter, for former subsec. (a) provision for an amount equal to 40 percent of averageof subscription charges and former subsec. (b) provision for 50 percent of subscription charge where the biweekly subscription charge was less than twice the Government contribution.
 
 Subsec. (b)(2). Pub. L. 93–246, §1(a), added par. (2).
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 109–435 effective Oct. 1, 2006, see section 805(a) of Pub
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–375 applicable with respect to Federal employees called or ordered to activeduty on or after Sept. 14, 2001, see section 1101(c) of Pub. L. 108–375, set out as a note under section 8905a of this title.
+Amendment by Pub. L. 108–375 applicable with respect to Federal employees called or ordered to active duty on or after Sept. 14, 2001, see section 1101(c) of Pub. L. 108–375, set out as a note under section 8905a of this title.
 
 #### Effective Date of 2001 Amendment
 
@@ -286,7 +286,7 @@ Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508,
 
 #### Contributions by United States Postal Service to Employees Health Benefits Fund
 
-Pub. L. 100–203, title VI, §6003, Dec. 22, 1987, 101 Stat. 1330–277, directed Postal Service to pay $160,000,000 in fiscal year 1988 and $270,000,000 in fiscal year 1989 intoEmployee Health Benefits Fund in addition to any amount deposited into Fund pursuant to this section in each such fiscal year.
+Pub. L. 100–203, title VI, §6003, Dec. 22, 1987, 101 Stat. 1330–277, directed Postal Service to pay $160,000,000 in fiscal year 1988 and $270,000,000 in fiscal year 1989 into Employee Health Benefits Fund in addition to any amount deposited into Fund pursuant to this section in each such fiscal year.
 
 #### Employees Serving on Part-Time Career Employment Basis on October 10, 1978
 

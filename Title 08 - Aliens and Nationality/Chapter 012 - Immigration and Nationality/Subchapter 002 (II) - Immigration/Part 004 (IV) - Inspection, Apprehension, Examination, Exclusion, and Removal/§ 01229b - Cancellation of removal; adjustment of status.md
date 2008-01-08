@@ -72,7 +72,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (B) Duration of parole
 
-&emsp;&emsp;The grant of parole shall extend from the time of the grant of relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to the time the application for adjustment of status filed by aliens covered under this paragraph has been finally adjudicated. Applications for adjustment of status filed by aliens covered under this paragraph shall be treated as if the applicants were VAWA self-petitioners. Failure by the alien granted relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to exercise due diligence in filing a visa petition on behalf of an alien described in clause (i) or (ii) may result in revocation of parole.
+&emsp;&emsp;The grant of parole shall extend from the time of the grant of relief under subsection\(b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to the time the application for adjustment of status filed by aliens covered under this paragraph has been finally adjudicated. Applications for adjustment of status filed by aliens covered under this paragraph shall be treated as if the applicants were VAWA self-petitioners. Failure by the alien granted relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to exercise due diligence in filing a visa petition on behalf of an alien described in clause (i) or (ii) may result in revocation of parole.
 
 #### (5) Application of domestic violence waiver authority
 
@@ -140,7 +140,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 #### References in Text
 
-Section 1254 of this title, referred to in subsecs. (b)(2)(B), (C), (4), (c)(6), and (e)(1), (3)(B), was repealedby Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.
+Section 1254 of this title, referred to in subsecs. (b)(2)(B), (C), (4), (c)(6), and (e)(1), (3)(B), was repealed by Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.
 
 Section 1182(c) of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–208, div. C, title III, §304(b), Sept. 30, 1996, 110 Stat. 3009–597.
 
@@ -190,7 +190,7 @@ Subsec. (e). Pub. L. 105–100, §204(a), amended heading and text of subsec. (e
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–386, div. B, title V, §1504(c), Oct. 28, 2000, 114 Stat. 1524, provided that: “Any individual who becomes eligible for relief by reason of the enactment of the amendments made by subsections (a) and (b) \[amending this section\], shall be eligible to file a motion to reopen pursuant to section 240(c)(6)(C)(iv) \[now 8 U.S.C. 1229a(c)(7)(C)(iv)\]. The amendments made by subsections (a) and (b) shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 587 \[3009–587\]). Such portions of the amendments made by subsection (b) that relate to section 244(a)(3) \[8 U.S.C. 1254(a)(3)\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) shall take effect as if included in subtitle G \[§40701 et seq.\] of title IV of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 1953 et seq.) \[see Tables for classification\].”
+Pub. L. 106–386, div. B, title V, §1504(c), Oct. 28, 2000, 114 Stat. 1524, provided that: “Any individual who becomes eligible for relief by reason of the enactment of the amendments made by subsections (a) and (b) \[amending this section\], shall be eligible to file a motion to reopen pursuant to section 240(c)(6)(C)(iv) \[now8 U.S.C. 1229a(c)(7)(C)(iv)\]. The amendments made by subsections (a) and (b) shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 587 \[3009–587\]). Such portions of the amendments made by subsection (b) that relate to section 244(a)(3) \[8 U.S.C. 1254(a)(3)\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) shall take effect as if included in subtitle G \[§40701 et seq.\] of title IV of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 1953 et seq.) \[see Tables for classification\].”
 
 Pub. L. 106–386, div. B, title V, §1506(b)(2), Oct. 28, 2000, 114 Stat. 1527, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 587 \[3009–587\]).”
 
@@ -200,7 +200,7 @@ Section 204(e) of Pub. L. 105–100 provided that: “The amendments made by thi
 
 #### Effective Date
 
-Section effective on the first day of the first month beginning more than 180 days after Sept. 30, 1996, with certain transitional provisions including provision thatsubsec. (d)(1), (2) of this section be applicable to notices to appear issued before, on, or after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section effective on the first day of the first month beginning more than 180 days after Sept. 30, 1996, with certain transitional provisions including provision that subsec. (d)(1), (2) of this section be applicable to notices to appear issued before, on, or after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

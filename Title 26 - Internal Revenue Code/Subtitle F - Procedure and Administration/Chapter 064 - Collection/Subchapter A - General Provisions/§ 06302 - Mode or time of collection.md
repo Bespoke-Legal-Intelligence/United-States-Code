@@ -202,7 +202,7 @@ Pub. L. 101–239, §7507(a), redesignated former subsec. (f) as (g).
 
 Subsec. (h). Pub. L. 101–239, §7632(a), redesignated former subsec. (g) as (h).
 
-1988—Subsec. (d). Pub. L. 100–647 substituted “Time for payment of manufacturers’ excise tax on sporting goods” for “Time for payment of manufacturers excise tax on sport fishing equipment” in heading and amended text generally. Prior to amendment, subsec. (d) readas follows: “The tax imposed by section 4161(a) (relating to manufacturers excise tax on sport fishing equipment) shall be due and payable on the date for filing the return for such tax.”
+1988—Subsec. (d). Pub. L. 100–647 substituted “Time for payment of manufacturers’ excise tax on sporting goods” for “Time for payment of manufacturers excise tax on sport fishing equipment” in heading and amended text generally. Prior to amendment, subsec. (d) read as follows: “The tax imposed by section 4161(a) (relating to manufacturers excise tax on sport fishing equipment) shall be due and payable on the date for filing the return for such tax.”
 
 Subsec. (e). Pub. L. 100–418 substituted “For” for “(1) For” and struck out par. (2) which read as follows: “For depositary requirements applicable to the windfall profit tax imposed by section 4986, see section 4995(b).”
 
@@ -292,7 +292,7 @@ Pub. L. 105–34, title IX, §901(e), Aug. 5, 1997, 111 Stat. 872, provided that
 
 #### Waiver of Penalty Through June 30, 1998, on Small Businesses Failing To Make Electronic Fund Transfers of Taxes
 
-Pub. L. 105–34, title IX, §931, Aug. 5, 1997, 111 Stat. 881, provided that: “No penalty shall be imposed under theInternal Revenue Code of 1986 solely by reason of a failure by a person to use the electronic fund transfer system established under section 6302(h) of such Code if—
+Pub. L. 105–34, title IX, §931, Aug. 5, 1997, 111 Stat. 881, provided that: “No penalty shall be imposed under the Internal Revenue Code of 1986 solely by reason of a failure by a person to use the electronic fund transfer system established under section 6302(h) of such Code if—
 
 &emsp;“(1) such person is a member of a class of taxpayers first required to use such system on or after July 1, 1997, and
 

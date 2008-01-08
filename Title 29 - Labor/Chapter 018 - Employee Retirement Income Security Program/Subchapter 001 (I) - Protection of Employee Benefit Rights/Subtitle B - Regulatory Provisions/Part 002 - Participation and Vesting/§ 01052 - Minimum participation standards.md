@@ -6,7 +6,7 @@
 
 &emsp;(ii) the date on which he completes 1 year of service.
 
-(B)(i) In the case of any plan which provides that after not more than 2 years of service each participant has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable at the time such benefit accrues, clause (ii) of subparagraph (A) shall be applied by substituting “2 years of service” for “1 year of service”.
+(B)(i) In the case of any plan which provides that after not more than 2 years of service each participant has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable at the time such benefit accrues, clause (ii)of subparagraph (A) shall be applied by substituting “2 years of service” for “1 year of service”.
 
 (ii) In the case of any plan maintained exclusively for employees of an educational organization (as defined in section 170(b)(1)(A)(ii) of title 26) by an employer which is exempt from tax under section 501(a) of title 26, which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable at the time such benefit accrues, clause (i) of subparagraph (A) shall be applied by substituting “26” for “21”. This clause shall not apply to any plan to which clause (i) applies.
 
@@ -66,7 +66,7 @@
 
 (C) The hours described in subparagraph (B) shall be treated as hours of service as provided in this paragraph—
 
-&emsp;(i) only in the year in which the absence from work begins, if a participant would be prevented from incurring a 1-year break in service in such year solely because the period of absence is treated as hours of service as provided in subparagraph (A); or
+&emsp;(i) only in the year in which the absence from work begins, if a participant would beprevented from incurring a 1-year break in service in such year solely because the period of absence is treated as hours of service as provided in subparagraph (A); or
 
 &emsp;(ii) in any other case, in the immediately following year.
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 98–397 applicable to plan years beginning after Dec. 31, 
 
 #### Regulations
 
-Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each toissue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
+Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 

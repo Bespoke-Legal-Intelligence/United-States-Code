@@ -2,11 +2,11 @@
 
 #### (a) Incorporation of necessary programs and policies
 
-In each Economic Report after October 27, 1978, the President shall incorporate (as part of the five-year numerical goals in each Economic Report) medium-term annual numerical goals specified in section 1022(a)(2)(B) of this title, and in each President's Budget submitted immediately prior thereto, the President shall incorporate the programs and policies the President deems necessary to achieve such medium-term goals and a balanced Federal budget and to achieve reasonable price stability as rapidly as feasible as provided for in section 1022b(b) of this title.
+In each Economic Report after October 27, 1978, the President shall incorporate (as part ofthe five-year numerical goals in each Economic Report) medium-term annual numerical goals specified in section 1022(a)(2)(B) of this title, and in each President's Budget submitted immediately prior thereto, the President shall incorporate the programs and policies the President deems necessary to achieve such medium-term goals and a balanced Federal budget and to achieve reasonable price stability as rapidly as feasible as provided for in section 1022b(b) of this title.
 
 #### (b) Interim numerical goals for initial Economic Reports
 
-The medium-term goals in the first three Economic Reports and, subject to the provisions of subsection (d) of this section, in each EconomicReport thereafter shall include (as part of the five-year goals in each Economic Report) interim numerical goals for—
+The medium-term goals in the first three Economic Reports and, subject to the provisions of subsection (d) of this section, in each Economic Report thereafter shall include (as part of the five-year goals in each Economic Report) interim numerical goals for—
 
 &emsp;(1) reducing the rate of unemployment, as set forth pursuant to section 1022(d) of this title, to not more than 3 per centum among individuals aged twenty and over and 4 per centum among individuals aged sixteen and over within a period not extending beyond the fifth calendar year after the first such Economic Report;
 

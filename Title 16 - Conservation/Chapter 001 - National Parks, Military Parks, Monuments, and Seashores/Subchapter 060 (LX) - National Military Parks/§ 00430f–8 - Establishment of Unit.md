@@ -8,7 +8,7 @@ There is established in the States of Mississippi and Tennessee the Corinth Unit
 
 The Unit shall be comprised of—
 
-&emsp;(1) the tract consisting of approximately 20 acres generally depicted as “Battery Robinett Boundary” on the Map; and
+&emsp;(1) approximately 950 acres, as generally depicted on the Map; and
 
 &emsp;(2) any additional land that the Secretary determines to be suitable for inclusion in the Unit that—
 
@@ -20,5 +20,9 @@ The Unit shall be comprised of—
 
 The Map shall be on file and available for public inspection in the office of the Director of the National Park Service.
 
-(Pub. L. 106–271, §4, Sept. 22, 2000, 114 Stat. 793.)
+(Pub. L. 106–271, §4, Sept. 22, 2000, 114 Stat. 793; Pub. L. 110–161, div. F, title I, §127(2), Dec. 26, 2007, 121 Stat. 2122.)
+
+#### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 110–161 added par. (1) and struck out former par. (1) which read as follows: “the tract consisting of approximately 20 acres generally depicted as ‘Battery Robinett Boundary’ on the Map; and”.
 

@@ -30,7 +30,7 @@
 
 To comply with the limitation under subsection (b) of this section, an individual or entity shall provide to the Secretary—
 
-&emsp;(1) a certification by a certified public accountant or another third party that is acceptable to the Secretary that the average adjusted gross income of the individual or entity does not exceed the limitation specified in that subsection; or
+&emsp;(1) a certification by a certified public accountant or another third party that is acceptable to the Secretary that the average adjusted gross income of the individual or entitydoes not exceed the limitation specified in that subsection; or
 
 &emsp;(2) information and documentation regarding the adjusted gross income of the individual or entity through other procedures established by the Secretary.
 

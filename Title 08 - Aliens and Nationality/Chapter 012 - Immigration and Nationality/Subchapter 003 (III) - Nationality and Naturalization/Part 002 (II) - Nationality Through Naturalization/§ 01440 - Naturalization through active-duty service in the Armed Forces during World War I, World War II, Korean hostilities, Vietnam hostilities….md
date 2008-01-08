@@ -14,7 +14,7 @@ A person filing an application under subsection (a) of this section shall comply
 
 &emsp;(3) service in the military, air or naval forces of the United States shall be proved by a duly authenticated certification from the executive department under which the applicant served or is serving, which shall state whether the applicant served honorably in an active-duty status during either World War I or during a period beginning September 1, 1939, and ending December 31, 1946, or during a period beginning June 25, 1950, and ending July 1, 1955, or during a period beginning February 28, 1961, and ending on a date designated by the President by Executive order as the date of termination of the Vietnam hostilities, or thereafter during any other period which the President by Executive order shall designate as a period in which Armed Forces of the United States are or were engaged in military operations involving armed conflict with a hostile foreign force, and was separated from such service under honorable conditions; and
 
-&emsp;(4) notwithstanding any other provision of law, no fee shall be charged or collected fromthe applicant for filing a petition for naturalization or for the issuance of a certificate of naturalization upon citizenship being granted to the applicant, and no clerk of any State court shall charge or collect any fee for such services unless the laws of the State require such charge to be made, in which case nothing more than the portion of the fee required to be paid to the State shall be charged or collected.
+&emsp;(4) notwithstanding any other provision of law, no fee shall be charged or collected from the applicant for filing a petition for naturalization or for the issuance of a certificate of naturalization upon citizenship being granted to the applicant, and no clerk of any State court shall charge or collect any fee for such services unless the laws of the State require such charge to be made, in which case nothing more than the portion of the fee required to be paid to the State shall be charged or collected.
 
 #### (c) Revocation
 
@@ -54,7 +54,7 @@ Subsec. (b)(3), (4). Pub. L. 101–649, §407(b)(5)(B), (C), redesignated par. (
 
 Subsec. (b)(1). Pub. L. 90–633, §6, inserted reference to provisions of section 1429 of this title as they relate to deportability.
 
-Subsec. (b)(4). Pub. L. 90–633, §2, inserted reference to the period of the Vietnam hostilities and to any other subsequent period which the President by Executive order designates as a period in which the Armed Forces of the United States were engaged in military operations involving armed conflict with a hostile foreign force.
+Subsec. (b)(4). Pub. L. 90–633, §2, inserted reference to the period of the Vietnam hostilities and to any other subsequent period which the President by Executive order designates as a period in which the Armed Forcesof the United States were engaged in military operations involving armed conflict with a hostile foreign force.
 
 1961—Subsecs. (a), (b)(4). Pub. L. 87–301 inserted “or during a period beginning June 25, 1950, and ending July 1, 1955”.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Naturalization of Natives of Philippines Through Certain Active-Duty Service During World War II
 
@@ -108,7 +108,7 @@ Ex. Ord. No. 12939, Nov. 22, 1994, 59 F.R. 61231, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 1440 of title 8, United States Code, and in order to provide expedited naturalization for aliens and noncitizen nationals who served in an active-duty status in the Armed Forces of the United States during the period of the Persian Gulf Conflict, it is hereby ordered as follows:
 
-For the purpose of determining qualification for the exception from the usual requirements for naturalization, the period of Persian Gulf Conflict military operations in which the Armed Forces of the United States were engaged in armed conflict with a hostile force commenced on August 2, 1990, and terminated on April 11, 1991. Those persons serving honorably in active-duty status in the Armed Forces of the United States during this period are eligible for naturalization in accordance with the statutory exception to the naturalization requirements, as provided in section 1440(b) of title 8, United States Code.
+For the purpose of determining qualification for the exception from the usual requirements for naturalization, the period of Persian Gulf Conflict military operations in which the Armed Forces of the United States were engaged in armed conflict with a hostile force commenced on August 2, 1990, and terminated on April 11, 1991. Those persons serving honorably in active-duty status in the Armed Forces of the United States during this period are eligible for naturalization in accordancewith the statutory exception to the naturalization requirements, as provided in section 1440(b) of title 8, United States Code.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

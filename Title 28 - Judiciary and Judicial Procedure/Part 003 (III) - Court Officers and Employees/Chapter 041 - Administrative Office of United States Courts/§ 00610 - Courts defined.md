@@ -34,7 +34,7 @@ Those provisions of this section which related to the Tax Court were eliminated 
 
 1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1978—Pub. L. 95–598 directed the amendment of section by substituting “, district courts, and bankruptcy courts” for “and district courts”, which amendmentdid not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598 directed the amendment of section by substituting “, district courts, and bankruptcy courts” for “and district courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 1958—Pub. L. 85–508 struck out provisions which included District Court for Territory of Alaska within definition of court. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 

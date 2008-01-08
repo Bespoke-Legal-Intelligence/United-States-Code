@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) in the case of any person enrolled in the educational benefits program provided by chapter 32 of this title makes an irrevocable election, pursuant to procedures referred to in subparagraph (C) of this paragraph, before such separation to receive benefits under this section in lieu of benefits under such chapter 32; and
 
-&emsp;&emsp;(E) before such separation elects to receive assistance under this section pursuant to procedures referred to in subparagraph (C) of this paragraph; or
+&emsp;&emsp;(E) before such separation elects to receive assistance under this section pursuant toprocedures referred to in subparagraph (C) of this paragraph; or
 
 &emsp;(2) the Secretary, in consultation with the Secretary of Defense, shall, subject to the availability of appropriations, allow an individual who—
 
@@ -44,7 +44,7 @@
 
 (3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) of this subsection shall remain in such account to make payments of benefits to such individual under section 3015(f) of this title.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4404(a), Oct. 23, 1992, 106 Stat. 2704; amendedPub. L. 103–446, title XII, §1201(d)(5), (e)(11), (f)(3), Nov. 2, 1994, 108 Stat. 4684, 4685, 4687; Pub. L. 105–368, title II, §203(a), title X, §1005(b)(6), Nov. 11, 1998, 112 Stat. 3326, 3365; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4404(a), Oct. 23, 1992, 106 Stat. 2704; amended Pub. L. 103–446, title XII, §1201(d)(5), (e)(11), (f)(3), Nov. 2, 1994, 108 Stat. 4684, 4685, 4687; Pub. L. 105–368, title II, §203(a), title X, §1005(b)(6), Nov. 11, 1998, 112 Stat. 3326, 3365; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
 
 #### Amendments
 

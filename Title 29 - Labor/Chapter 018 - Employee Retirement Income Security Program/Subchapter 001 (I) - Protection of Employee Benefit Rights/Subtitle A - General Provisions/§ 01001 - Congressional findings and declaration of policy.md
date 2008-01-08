@@ -306,7 +306,7 @@ The transfers provided for in Section 102 of this Plan shall not affect the abil
 
 (i) amendments to regulations issued pursuant to subsections 202(a)(3), 203(b)(2) and (3)(A), 204(b)(3)(A), (C), and (E), and 210(a)(2) of ERISA \[29 U.S.C. 1052(a)(3), 1053(b)(2) and (3)(A), 1054(b)(3)(A), (C), and (E), and 1060(a)(2)\], and subsections 410(a)(3) and 411(a)(5), (6)(A), and (b)(3)(A), (C), and (E), 413(b)(4) and (c)(3) and 414(f) of the Code \[26 U.S.C. 410(a)(3) and 411(a)(5), (6)(A), and (b)(3)(A), (C), and (E), 413 (b)(4) and (c)(3) and 414(f)\];
 
-(ii) regulations issued pursuant to subsections 204(b)(3)(D), 302(d)(2), and 304(d)(1), (d)(2), and (e)(2)(A) of ERISA \[29 U.S.C. 1054(b)(3)(D), 1082(d)(2), and 1084(d)(1), (d)(2), and (e)(2)(A)\], and subsections 411(b)(3)(D), 412(c)(2) and 431(d)(1), (d)(2), and (e)(2)(A) of the Code \[26 U.S.C. 411(b)(3)(D), 412(c)(2) and 431(d)(1), (d)(2), and (e)(2)(A)\]; and \[As amended Pub. L. 109–280, title I, §107(c), Aug. 17, 2006, 120 Stat. 820.\]
+(ii) regulations issued pursuant to subsections 204(b)(3)(D), 302(d)(2), and 304(d)(1), (d)(2), and (e)(2)(A) of ERISA \[29 U.S.C. 1054(b)(3)(D), 1082(d)(2), and 1084(d)(1), (d)(2), and (e)(2)(A)\], and subsections 411(b)(3)(D), \[former\] 412(c)(2) and 431(d)(1), (d)(2), and (e)(2)(A) of the Code \[26 U.S.C. 411(b)(3)(D), \[former\] 412(c)(2) and 431(d)(1), (d)(2), and (e)(2)(A)\]; and \[As amended Pub. L. 109–280, title I, §107(c), Aug. 17, 2006, 120 Stat. 820.\]
 
 (iii) revenue rulings (within the meaning of 26 CFR Section 601.201(a)(6)), revenue procedures, and similar publications, if the rulings, procedures and publications are issued under one of the statutory provisions listed in (i) and (ii) of this subsection; and
 
@@ -336,7 +336,7 @@ The provisions of this Reorganization Plan shall become effective at such time o
 
 Today I am submitting to the Congress my fourth Reorganization Plan for 1978. This proposal is designed to simplify and improve the unnecessarily complex administrative requirements of the Employee Retirement Income Security Act of 1974 (ERISA) \[see Short Title note set out under this section\]. The new plan will eliminate overlap and duplication in the administration of ERISA and help us achieve our goal of well regulated private pension plans.
 
-ERISA was an essential step in the protection of worker pension rights. Its administrative provisions, however, have resulted in bureaucratic confusion and have been justifiably criticized by employers and unions alike. The biggest problem has been overlapping jurisdictional authority. Under current ERISA provisions, the Departments of Treasury and Labor both have authority to issue regulations and decisions.
+ERISA was an essential step in the protection of worker pension rights. Its administrative provisions, however, have resulted in bureaucratic confusion and have been justifiably criticized by employers andunions alike. The biggest problem has been overlapping jurisdictional authority. Under current ERISA provisions, the Departments of Treasury and Labor both have authority to issue regulations and decisions.
 
 This dual jurisdiction has delayed a good many important rulings and, more importantly, produced bureaucratic runarounds and burdensome reporting requirements.
 

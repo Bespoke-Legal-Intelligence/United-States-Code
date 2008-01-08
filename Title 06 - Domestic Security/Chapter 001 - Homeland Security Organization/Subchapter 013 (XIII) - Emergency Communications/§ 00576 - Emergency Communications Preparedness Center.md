@@ -32,7 +32,7 @@ The Center shall—
 
 #### Codification
 
-Another section 1806 of Pub. L. 107–296 is classified to section 596 of this title.
+Another section 1806 of Pub. L. 107–296 was renumbered section 1906 and is classified to section 596 of this title.
 
 <i><sup>1</sup></i><i> So in original. Subsection (b) of this section does not contain a paragraph (1).</i>
 

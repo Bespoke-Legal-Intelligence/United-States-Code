@@ -50,7 +50,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 #### (6) Denial of deduction to dependents
 
-&emsp;No deduction shall be allowed under this section to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
+&emsp;No deduction shall be allowed under this section to any individual with respect to whom adeduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
 
 #### (7) Medicare eligible individuals
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (ii) Safe harbor for absence of preventive care deductible
 
-&emsp;&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason offailing to have a deductible for preventive care if the absence of a deductible for such care is required by State law.
+&emsp;&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care if the absence of a deductible for such care is required by State law.
 
 #### (3) Permitted insurance
 
@@ -300,7 +300,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (2) shall not apply to any amount paid or distributed from an Archer MSA to the account holder to the extent the amount received is paid into an Archer MSA or a health savings account (as defined in section 223(d)) for the benefit of such holdernot later than the 60th day after the day on which the holder receives the payment or distribution.
+&emsp;&emsp;Paragraph (2) shall not apply to any amount paid or distributed from an Archer MSA to the account holder to the extent the amount received is paid into an Archer MSA or a health savings account (as defined in section 223(d)) for the benefit of such holder not later than the 60th day after the day on which the holder receives the payment or distribution.
 
 #### (B) Limitation
 
@@ -378,7 +378,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### (A) In general
 
-&emsp;&emsp;The term “active MSA participant” means, with respect to any taxable year, any individual who is the account holder of anyArcher MSA into which any contribution was made which was excludable from gross income under section 106(b), or allowable as a deduction under this section, for such taxable year.
+&emsp;&emsp;The term “active MSA participant” means, with respect to any taxable year, any individual who is the account holder of any Archer MSA into which any contribution was made which was excludable from gross income under section 106(b), or allowable as a deduction under this section, for such taxable year.
 
 #### (B) Special rule for cut-off years before 2007
 
@@ -402,7 +402,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### (iii) Self-employed individuals
 
-&emsp;&emsp;&emsp;In the case of an individual described in subclause (II) of subsection (c)(1)(A)(iii), the cut-off date is November 1 of the cut-off year.
+&emsp;&emsp;&emsp;In the case of an individual described in subclause (II) of subsection (c)(1)(A)(iii),the cut-off date is November 1 of the cut-off year.
 
 #### (iv) Special rules for 1997
 
@@ -458,7 +458,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;&emsp;&emsp;(i) 90 percent of the sum determined under subparagraph (A) for such calendar year, plus
 
-&emsp;&emsp;&emsp;(ii) the product of 2.5 and the number of Archer MSAs established during the portion of such year preceding July 1 (basedon the reports required under paragraph (4)) for taxable years beginning in such year,
+&emsp;&emsp;&emsp;(ii) the product of 2.5 and the number of Archer MSAs established during the portion of such year preceding July 1 (based on the reports required under paragraph (4)) for taxable years beginning in such year,
 
 > &emsp;&emsp;exceeds 750,000.
 
@@ -510,9 +510,9 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 (Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title II, §207(19), title III, §322(a), (b), Oct. 4, 2004, 118 Stat. 1178, 1183; Pub. L. 109–432, div. A, title I, §117(a), (b), Dec. 20, 2006, 120 Stat. 2941.)
 
-#### Adjustment of Annual Deductible Amounts for Taxable Years Beginning in 2007
+#### Adjustment of Annual Deductible Amounts for Taxable Years Beginning in 2008
 
-<i>For adjustment of annual deductible amounts in determining “high deductible health plan” under subsection (c)(2)(A) of this section for taxable years beginning in 2007, see section 3.22 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of annual deductible amounts in determining “high deductible health plan” under subsection (c)(2)(A) of this section for taxable years beginning in 2008, see section 3.23 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -646,7 +646,7 @@ Pub. L. 108–311, title III, §322(c), Oct. 4, 2004, 118 Stat. 1183, provided t
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) ofPub. L. 108–173, set out as a note under section 62 of this title.
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -670,7 +670,7 @@ Section applicable to taxable years beginning after Dec. 31, 1996, see section 3
 
 Pub. L. 109–432, div. A, title I, §117(c), Dec. 20, 2006, 120 Stat. 2942, provided that:
 
-“(1) The report required by section 220(j)(4) of the Internal Revenue Code of 1986 to be made on August 1, 2005, or August 1, 2006, as the case may be, shall be treated as timely if made before the close of the 90-day period beginning on the date of the enactment of this Act \[Dec. 20, 2006\].
+“(1) The report required by section 220(j)(4) of the Internal Revenue Code of 1986 to be made on August 1, 2005, or August 1, 2006, as the case may be, shall be treated as timely if made before the close of the 90-dayperiod beginning on the date of the enactment of this Act \[Dec. 20, 2006\].
 
 “(2) The determination and publication required by section 220(j)(5) of such Code with respect to calendar year 2005 or calendar year 2006, as the case may be, shall be treated as timely if made before the close of the 120-day period beginning on the date of the enactment of this Act. If the determination under the preceding sentence is that 2005 or 2006 is a cut-off year under section 220(i) of such Code, the cut-off date under such section 220(i) shall be the last day of such 120-day period.”
 

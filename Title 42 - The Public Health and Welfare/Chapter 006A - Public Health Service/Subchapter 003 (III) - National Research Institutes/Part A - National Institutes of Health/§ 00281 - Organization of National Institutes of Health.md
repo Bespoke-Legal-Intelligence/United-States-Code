@@ -20,7 +20,7 @@ The following agencies of the National Institutes of Health are national researc
 
 &emsp;(6) The National Institute of Allergy and Infectious Diseases.
 
-&emsp;(7) The National Institute of Child Health and Human Development.
+&emsp;(7) The Eunice Kennedy Shriver National Institute of Child Health and Human Development.
 
 &emsp;(8) The National Institute of Dental and Craniofacial Research.
 
@@ -174,7 +174,7 @@ The following agencies of the National Institutes of Health are national researc
 
 &emsp;&emsp;(B) Members appointed by the Secretary from among individuals who are not officers or employees of the United States. Such members shall include—
 
-&emsp;&emsp;&emsp;(i) individuals representing the interests of public or private institutions of highereducation that have historically received funds from NIH to conduct research; and
+&emsp;&emsp;&emsp;(i) individuals representing the interests of public or private institutions of higher education that have historically received funds from NIH to conduct research; and
 
 &emsp;&emsp;&emsp;(ii) individuals representing the interests of private entities that have received funds from NIH to conduct research or that have broad expertise regarding how the National Institutes of Health functions, exclusive of private entities to which clause (i) applies.
 
@@ -256,7 +256,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (4) Congressional review
 
-&emsp;An organizational change under subsection (d)(2) that is initiated pursuant to paragraph\(1) shall be carried out by regulation in accordance with the procedures for substantive rules under section 553 of title 5. A rule under the preceding sentence shall be considered a major rule for purposes of chapter 8 of such title (relating to congressional review of agency rulemaking).
+&emsp;An organizational change under subsection (d)(2) that is initiated pursuant to paragraph (1) shall be carried out by regulation in accordance with the procedures for substantive rules under section 553 of title 5. A rule under the preceding sentence shall be considered a major rule for purposes of chapter 8 of such title (relating to congressional review of agency rulemaking).
 
 #### (g) Definitions
 
@@ -274,9 +274,11 @@ For purposes of this subchapter:
 
 For purposes of this subchapter, a reference to the National Institutes of Health includes its agencies.
 
-(July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amended Pub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388; Pub. L. 106–525, title I, §101(b)(1), Nov. 22, 2000, 114 Stat. 2501; Pub. L. 106–580, §3(e), Dec. 29, 2000, 114 Stat. 3091; Pub. L. 109–482, title I, §§101(a), (b), 108(a), Jan. 15, 2007, 120 Stat. 3675, 3676, 3697.)
+(July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amended Pub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388; Pub. L. 106–525, title I, §101(b)(1), Nov. 22, 2000, 114 Stat. 2501; Pub. L. 106–580, §3(e), Dec. 29, 2000, 114 Stat. 3091; Pub. L. 109–482, title I, §§101(a), (b), 108(a), Jan. 15, 2007, 120 Stat. 3675, 3676, 3697; Pub. L. 110–154, §1(b)(1), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### Amendments
+
+2007—Subsec. (b)(7). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
 2007—Pub. L. 109–482, §101(a), reenacted section catchline without change and amended text generally, substituting provisions consisting of subsecs. (a) to (d)(1) for former subsecs. (a) to (d) which related to: in subsec. (a), relationship to Public Health Service; in subsec. (b), list of national research institutes that were agencies; in subsec. (c), establishment of additional institutes and reorganization or abolition of institutes; and, in subsec. (d), definition of “national research institute”. See below.
 
@@ -306,7 +308,7 @@ Subsec. (b)(2)(D). Pub. L. 103–43, §§1511(b)(1)(B), 1521(1), added subpar. (
 
 1992—Subsec. (b)(1)(N) to (P). Pub. L. 102–321 added subpars. (N) to (P).
 
-1988—Subsec. (b)(1)(J), (M). Pub. L. 100–553 and Pub. L. 100–607 made identical amendments, striking out “and Communicative” after “Neurological” in subpar. (J), and adding subpar. (M). Pub. L. 100–690 amended subsec. (b)(1) to read as if the amendments by Pub. L. 100–607 had not been enacted.
+1988—Subsec. (b)(1)(J), (M). Pub. L. 100–553 and Pub. L. 100–607 made identical amendments, striking out “and Communicative” after “Neurological” in subpar.\(J), and adding subpar. (M). Pub. L. 100–690 amended subsec. (b)(1) to read as if the amendments by Pub. L. 100–607 had not been enacted.
 
 #### Effective Date of 2007 Amendment
 

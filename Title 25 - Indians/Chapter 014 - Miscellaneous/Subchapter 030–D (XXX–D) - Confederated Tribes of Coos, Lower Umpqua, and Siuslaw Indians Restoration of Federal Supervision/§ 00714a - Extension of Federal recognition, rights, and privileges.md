@@ -10,7 +10,7 @@ Except as provided in subscription <sup>1</sup> (c) of this section, all rights
 
 #### (c) Hunting, fishing, or trapping rights not granted or restored
 
-This subchapter shall not grant or restore any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, to any member of the Tribe, nor shall any presumption be created by this subchapter as to the existence or nonexistence of such rights.
+This subchapter shall not grant or restore any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, to any member of the Tribe, norshall any presumption be created by this subchapter as to the existence or nonexistence of such rights.
 
 #### (d) Effect on property rights and other obligations
 

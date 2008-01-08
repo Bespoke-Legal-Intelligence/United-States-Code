@@ -14,7 +14,7 @@
 
 &emsp;(4) for the acquisition of dairy products (as defined in section 111(e) of the Dairy Production Stabilization Act of 1983 (7 U.S.C. 4502(e)), the acquisition of edible fats or oils, and the acquisition of food products prepared from edible fats or oils, provide a required payment date of not later than 10 days after the date on which a proper invoice for the amount due has been received by the agency acquiring such dairy products, fats, oils, or food products;
 
-&emsp;(5) require periodic payments, in the case of a property or service contract which does not prohibit periodic payments for partial deliveries or other contract performance during the contract period, upon—
+&emsp;(5) require periodic payments, in the case of a property or service contract which does notprohibit periodic payments for partial deliveries or other contract performance during the contract period, upon—
 
 &emsp;&emsp;(A) submission of an invoice for property delivered or services performed during the contract period, if an invoice is required by the contract; and
 

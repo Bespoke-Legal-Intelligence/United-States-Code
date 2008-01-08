@@ -10,7 +10,7 @@
 
 &emsp;(4) “tribally controlled college or university” means an institution of higher education which is formally controlled, or has been formally sanctioned, or chartered, by the governing body of an Indian tribe or tribes, except that no more than one such institution shall be recognized with respect to any such tribe;
 
-&emsp;(5) “institution of higher education” means an institution of higher education as definedby section 1001 <sup>1</sup> of title 20, except that clause (2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior;
+&emsp;(5) “institution of higher education” means an institution of higher education as defined by section 1001 <sup>1</sup> of title 20, except that clause (2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior;
 
 &emsp;(6) “national Indian organization” means an organization which the Secretary finds is nationally based, represents a substantial Indian constituency, and has expertise in the field of Indian education;
 
@@ -24,7 +24,7 @@
 
 &emsp;(2) Credits earned in classes offered during a summer term shall be counted toward the computation of the Indian student count in the succeeding fall term.
 
-&emsp;(3) Credits earned by any student who has not obtained a high school degree or its equivalent shall be counted toward the computation of the Indian student count if the institution at which the student is in attendance has established criteria for the admission of such student on the basis of the student's ability to benefit from the education or training offered. The institution shall be presumed to have established such criteria if the admission procedures for such studies include counseling or testing that measures the student's aptitude to successfully complete the course in which the student has enrolled. No credits earned by such student for purposes of obtaining a high school degree or its equivalent shall be counted toward the computation of the Indian student count.
+&emsp;(3) Credits earned by any student who has not obtained a high school degree or its equivalent shall be counted toward the computation of the Indian student count if the institution at which the student is in attendance has established criteria for the admission of such student on the basis of the student's ability to benefit from the education or training offered.The institution shall be presumed to have established such criteria if the admission procedures for such studies include counseling or testing that measures the student's aptitude to successfully complete the course in which the student has enrolled. No credits earned by such student for purposes of obtaining a high school degree or its equivalent shall be counted toward the computation of the Indian student count.
 
 &emsp;(4) Indian students earning credits in any continuing education program of a tribally controlled college or university shall be included in determining the sum of all credit hours.
 
@@ -70,10 +70,6 @@ Subsec. (b). Pub. L. 98–192, §1(4), added subsec. (b).
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-#### Short Title of 1990 Amendment
-
-Section 401 of title IV of Pub. L. 95–471, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat.804, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
-
 #### Short Title of 1986 Amendment
 
 Section 1 of Pub. L. 99–428 provided that: “This Act \[amending this section and sections 640c–1, 1808 to 1810, 1812, 1813, and 1836 of this title\] may be cited as the ‘Tribally Controlled Community College Assistance Amendments of 1986’.”
@@ -81,6 +77,8 @@ Section 1 of Pub. L. 99–428 provided that: “This Act \[amending this section
 #### Short Title
 
 Pub. L. 95–471, §1, Oct. 17, 1978, 92 Stat. 1325, as amended by Pub. L. 105–244, title IX, §901(b)(1), Oct. 7, 1998, 112 Stat. 1827, provided: “That this Act \[enacting this chapter and section 640c–1 of this title, amending section 640c of this title, and enacting provisions set out as notes under sections 640a and 640c–1 of this title\] may be cited as the ‘Tribally Controlled College or University Assistance Act of 1978’.”
+
+Pub. L. 95–471, title IV, §401, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 804, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
 
 #### Additional Conforming Amendments
 
@@ -100,7 +98,7 @@ Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, provided th
 
 #### Executive Order No. 13021
 
-Ex. Ord. No. 13021, Oct. 19, 1996, 61 F.R. 54929, as amended by Ex. Ord. No. 13104, Oct. 19, 1998, 63 F.R. 56535, which established the President's Board of Advisors on Tribal Colleges and Universities and the White House Initiative on Tribal Colleges and Universities in the Department of Education and required a Five-Year Federal Plan regarding tribal colleges and universities, was revoked by Ex. Ord. No. 13270, §10, July 3, 2002, 67 F.R. 45291, set out below.
+Ex. Ord. No. 13021, Oct. 19, 1996, 61 F.R. 54929, as amended by Ex. Ord. No. 13104, Oct. 19, 1998, 63 F.R.56535, which established the President's Board of Advisors on Tribal Colleges and Universities and the White House Initiative on Tribal Colleges and Universities in the Department of Education and required a Five-Year Federal Plan regarding tribal colleges and universities, was revoked by Ex. Ord. No. 13270, §10, July 3, 2002, 67 F.R. 45291, set out below.
 
 #### Ex. Ord. No. 13270. Tribal Colleges and Universities
 
@@ -148,7 +146,7 @@ Sec. 5. <i>Department and Agency Participation</i>. Each participating executive
 
 Sec. 6. <i>Three-Year Federal Plan</i>. (a) <i>Content</i>. Each agency identified by the Secretary shall develop and implement a Three-Year Plan of the agency's efforts to fulfill the purposes of this order. These Three-Year Plans shall include annual performance indicators and appropriate measurable objectives for the agency. Among other relevant issues, the plans shall address how the agency intends to increase the capacity of tribal colleges to compete effectively for any available grants, contracts, cooperative agreements, and any other Federal resources, and to encourage tribal colleges to participate in Federal programs. The plans also may emphasize access to high-quality educational opportunities for economically disadvantaged Indian students, consistent with requirements of the No Child Left Behind Act of 2001 \[see Short Title of 2002 Amendment note set out under 20 U.S.C. 6301\]; the preservation and revitalization of tribal languages and cultural traditions; and innovative approaches to better link tribal colleges with early childhood, elementary, and secondary education programs. The agency's performance indicators and objectives should be clearly reflected in the agency's annual budget submission to the Office of Management and Budget. To facilitate the attainment of these performance indicators and objectives, the head of each agency identified by the Secretary, shall provide, as appropriate, technical assistance and information to tribal colleges regarding the program activities of the agency and the preparation of applications or proposals for grants, contracts, or cooperative agreements.
 
-(b) <i>Submission</i>. Each agency shall submit its Three-Year Plan to the WHITCU. In consultation with the Board, the WHITCU shall then review these Three-Year Plans and develop an integrated Three-Year Plan for Assistance to Tribal Colleges, which the Secretary shall review and submit to the President. Agencies may revise their Three-Year Plans within the three-year period.
+(b) <i>Submission</i>. Each agency shall submit its Three-Year Plan to the WHITCU. In consultation with theBoard, the WHITCU shall then review these Three-Year Plans and develop an integrated Three-Year Plan for Assistance to Tribal Colleges, which the Secretary shall review and submit to the President. Agencies may revise their Three-Year Plans within the three-year period.
 
 (c) <i>Annual Performance Reports</i>. Each agency shall submit to the WHITCU an Annual Performance Report that measures the agency's performance against the objectives set forth in its Three-Year Plan. In consultation with the Board, the WHITCU shall review and combine Annual Performance Reports into one annual report, which shall be submitted to the Secretary for review, in consultation with the Office of Management and Budget.
 
@@ -182,5 +180,5 @@ Term of President's Board of Advisors on Tribal Colleges and Universities extend
 
 Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

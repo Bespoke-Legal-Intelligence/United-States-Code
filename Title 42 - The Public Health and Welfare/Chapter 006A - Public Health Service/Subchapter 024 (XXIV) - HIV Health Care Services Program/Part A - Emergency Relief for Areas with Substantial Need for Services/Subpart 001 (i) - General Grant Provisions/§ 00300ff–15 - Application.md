@@ -90,7 +90,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under section 300ff–11 of this title to an eligible area unless the eligible area provides assurancesthat in the provision of services with assistance provided under the grant—
+&emsp;The Secretary may not make a grant under section 300ff–11 of this title to an eligible area unless the eligible area provides assurances that in the provision of services with assistance provided under the grant—
 
 &emsp;&emsp;(A) in the case of individuals with an income less than or equal to 100 percent of the official poverty line, the provider will not impose charges on any such individual for the provision of services under the grant;
 
@@ -100,7 +100,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 &emsp;&emsp;&emsp;(ii) will impose the charge according to a schedule of charges that is made available to the public;
 
-&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
+&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent ofsuch poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
 
 &emsp;&emsp;(D) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 

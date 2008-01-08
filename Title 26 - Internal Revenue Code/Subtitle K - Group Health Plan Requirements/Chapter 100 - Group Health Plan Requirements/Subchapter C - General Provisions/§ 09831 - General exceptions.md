@@ -16,7 +16,7 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 #### (1) Limited, excepted benefits
 
-&emsp;The requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(2) if the benefits—
+&emsp;The requirements of this chapter shall not apply to any group health plan in relation toits provision of excepted benefits described in section 9832(c)(2) if the benefits—
 
 &emsp;&emsp;(A) are provided under a separate policy, certificate, or contract of insurance; or
 
@@ -44,5 +44,5 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable with respect to group health plans for plan years beginning on orafter Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as a note under section 4980D of this title.
+Amendment by Pub. L. 105–34 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as a note under section 4980D of this title.
 

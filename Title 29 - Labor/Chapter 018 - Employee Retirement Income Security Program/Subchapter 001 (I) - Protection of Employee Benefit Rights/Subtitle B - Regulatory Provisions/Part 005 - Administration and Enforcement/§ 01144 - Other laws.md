@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 (B) Neither an employee benefit plan described in section 1003(a) of this title, which is not exempt under section 1003(b) of this title (other than a plan established primarily for the purpose of providing death benefits), nor any trust established under such a plan, shall be deemed to be an insurance company or other insurer, bank, trust company, or investment company or to be engaged in the business of insurance or banking for purposes of any law of any State purporting to regulate insurance companies, insurance contracts, banks, trust companies, or investment companies.
 
-(3) Nothing in this section shall be construed to prohibit use by the Secretary of services orfacilities of a State agency as permitted under section 1136 of this title.
+(3) Nothing in this section shall be construed to prohibit use by the Secretary of services or facilities of a State agency as permitted under section 1136 of this title.
 
 (4) Subsection (a) of this section shall not apply to any generally applicable criminal law of a State.
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 104–191 applicable with respect to group health plans for
 
 #### Effective Date of 1989 Amendment
 
-Section 7894(f)(2)(B) of Pub. L. 101–239 provided that: “The amendment made by this paragraph \[amendingthis section\] shall take effect as if included in section 301 of Public Law 97–473.”
+Section 7894(f)(2)(B) of Pub. L. 101–239 provided that: “The amendment made by this paragraph \[amending this section\] shall take effect as if included in section 301 of Public Law 97–473.”
 
 Section 7894(f)(3)(B) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section\] shall take effect as if included in section 302 of Public Law 97–473.”
 

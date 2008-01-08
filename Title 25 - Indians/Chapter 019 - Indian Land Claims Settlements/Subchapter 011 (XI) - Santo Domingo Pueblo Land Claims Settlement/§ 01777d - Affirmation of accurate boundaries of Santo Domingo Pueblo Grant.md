@@ -22,7 +22,7 @@ Nothing in this subchapter or in the Settlement Agreement shall be construed to�
 
 &emsp;(1) cloud title to federally administered lands or non-Indian or other Indian lands, with regard to claims of title which are extinguished pursuant to section 1777c of this title; or
 
-&emsp;(2) affect actions taken prior to November 1, 2000, to manage federally administered landswithin the boundaries of the Santo Domingo Pueblo Grant.
+&emsp;(2) affect actions taken prior to November 1, 2000, to manage federally administered lands within the boundaries of the Santo Domingo Pueblo Grant.
 
 (Pub. L. 106–425, §6, Nov. 1, 2000, 114 Stat. 1895.)
 

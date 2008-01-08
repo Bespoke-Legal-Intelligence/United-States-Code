@@ -2,7 +2,7 @@
 
 New appointments shall be made at the minimum rate of the appropriate grade. However, under regulations prescribed by the Office of Personnel Management which provide for such considerations as the existing pay or unusually high or unique qualifications of the candidate, or a special need of the Government for his services, the head of an agency may appoint, with the approval of the Office in each specific case, an individual to a position at such a rate above the minimum rate of the appropriate grade as the Office may authorize for this purpose. The approval of the Office in each specific case is not required with respect to an appointment made by the Librarian of Congress.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 90–83, §1(19), Sept. 11, 1967, 81 Stat. 199; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(26)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–509, title V, §529 \[title I, §106, title II, §211(b)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1449, 1461.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 90–83, §1(19), Sept. 11, 1967, 81 Stat. 199; Pub. L.95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(26)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–509, title V, §529 \[title I, §106, title II, §211(b)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1449, 1461.)
 
 Historical and Revision Notes<br>1966
 

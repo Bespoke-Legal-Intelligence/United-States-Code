@@ -44,7 +44,7 @@ Functions vested by this section in Secretary of Labor or Civil Service Commissi
 
 #### Severability
 
-Pub. L. 101–433, title III, §301, Oct. 16, 1990, 104 Stat. 984, provided that: “If any provision of this Act \[see Short Title of 1990 Amendment note above\], or an amendment made by this Act, or the application of such provision to any person or circumstances is heldto be invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons and circumstances, shall not be affected thereby.”
+Pub. L. 101–433, title III, §301, Oct. 16, 1990, 104 Stat. 984, provided that: “If any provision of this Act \[see Short Title of 1990 Amendment note above\], or an amendment made by this Act, or the application of such provision to any person or circumstances is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons and circumstances, shall not be affected thereby.”
 
 #### Congressional Finding
 

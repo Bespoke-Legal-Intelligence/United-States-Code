@@ -32,7 +32,7 @@ Applicability.—This section applies only to procurements of covered property a
 
 (e)
 
-Submission of Certified Cost or Pricing Data.—If a procurement under subsection (a) is a procurement of a commercial item, the Secretary may, notwithstanding section 2306a (b)(1)(B) of this title, require the submission of certified cost or pricing data under section 2306a(a) of this title.
+Submission of Certified Cost or Pricing Data.—If a procurement under subsection (a) is a procurement of a commercial item, the Secretary may, notwithstanding section 2306a(b)(1)(B) of this title, require the submission of certified cost or pricing data under section 2306a(a) of this title.
 
 (Added Pub. L. 104–201, div. A, title VIII, §832(a), Sept. 23, 1996, 110 Stat. 2616; amended Pub. L. 105–261, div. A, title VIII, §809(a)–(d), Oct. 17, 1998, 112 Stat. 2085, 2086; Pub. L. 106–65, div. A, title VIII, §815(b), Oct. 5, 1999, 113 Stat. 712.)
 

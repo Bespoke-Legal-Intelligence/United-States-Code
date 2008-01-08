@@ -2,7 +2,7 @@
 
 #### (a) To Secretary
 
-(1) There are authorized to be appropriated to the Secretary, to carry out the functions of theDepartment of Energy under this chapter, $2,000,000 for fiscal year 1989, $20,000,000 for fiscal year 1990, $25,000,000 for fiscal year 1991, $17,968,000 for fiscal year 1992, and $18,091,000 for each of the fiscal years 1993 through 1997, to be derived from sums authorized under section 13451(e) of title 42.
+(1) There are authorized to be appropriated to the Secretary, to carry out the functions of the Department of Energy under this chapter, $2,000,000 for fiscal year 1989, $20,000,000 for fiscal year 1990, $25,000,000 for fiscal year 1991, $17,968,000 for fiscal year 1992, and $18,091,000 for each of the fiscal years 1993 through 1997, to be derived from sums authorized under section 13451(e) of title 42.
 
 (2) Funds previously appropriated for the steel research and development initiative—
 

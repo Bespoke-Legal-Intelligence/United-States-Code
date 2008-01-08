@@ -18,7 +18,7 @@ If the petitioner, or any other person, organization, or group found by the Secr
 
 &emsp;&emsp;(i) sales or production, or both, of such firm have decreased absolutely, or
 
-&emsp;&emsp;(ii) sales or production, or both, of an article that accounted for not less than 25 percent of the total production or sales of thefirm during the 12-month period preceding the most recent 12-month period for which data are available have decreased absolutely, and
+&emsp;&emsp;(ii) sales or production, or both, of an article that accounted for not less than 25 percent of the total production or sales of the firm during the 12-month period preceding the most recent 12-month period for which data are available have decreased absolutely, and
 
 &emsp;(C) increases of imports of articles like or directly competitive with articles which are produced by such firm contributed importantly to such total or partial separation, or threat thereof, and to such decline in sales or production.
 
@@ -60,5 +60,5 @@ Subsec. (c)(2). Pub. L. 99–272, §13002(b)(2), amended par. (2) generally, des
 
 #### Termination Date
 
-No technical assistance to be provided under this part after Sept. 30, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No technical assistance to be provided under this part after Dec. 31, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

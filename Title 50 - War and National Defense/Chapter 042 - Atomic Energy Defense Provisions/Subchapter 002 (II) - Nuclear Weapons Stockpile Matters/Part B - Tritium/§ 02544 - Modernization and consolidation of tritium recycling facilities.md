@@ -12,7 +12,7 @@ The Secretary of Energy shall carry out activities at the Savannah River Site, S
 
 Of the funds authorized to be appropriated to the Department of Energy pursuant to section 3101 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201), not more than $9,000,000 shall be available for activities under subsection (a).
 
-(Pub. L. 107–314, div. D, title XLII, §4234, formerly Pub. L. 104–201, div. C, title XXXI, §3134, Sept. 23, 1996, 110 Stat. 2830; renumbered Pub. L. 107–314, div. D, title XLII, §4234, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(19), Nov. 24, 2003, 117 Stat. 1762.)
+(Pub. L. 107–314, div. D, title XLII, §4234, formerly Pub. L. 104–201, div. C, title XXXI, §3134, Sept. 23, 1996, 110 Stat. 2830; renumbered Pub. L.107–314, div. D, title XLII, §4234, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(19), Nov. 24, 2003, 117 Stat. 1762.)
 
 #### References in Text
 

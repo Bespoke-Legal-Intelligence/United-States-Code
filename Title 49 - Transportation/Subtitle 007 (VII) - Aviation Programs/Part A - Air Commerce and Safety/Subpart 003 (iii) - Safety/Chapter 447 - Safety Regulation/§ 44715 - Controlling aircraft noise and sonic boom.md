@@ -24,7 +24,7 @@ Considerations and Consultation.—When prescribing a standard or regulation und
 
 &emsp;(3) consider whether the standard or regulation is consistent with the highest degree of safety in air transportation or air commerce in the public interest;
 
-&emsp;(4) consider whether the standard or regulation is economically reasonable, technologically practicable, and appropriate for the applicable aircraft, aircraft engine, appliance, or certificate; and
+&emsp;(4) consider whether the standard or regulation is economically reasonable, technologically practicable, and appropriate for theapplicable aircraft, aircraft engine, appliance, or certificate; and
 
 &emsp;(5) consider the extent to which the standard or regulation will carry out the purposes of this section.
 

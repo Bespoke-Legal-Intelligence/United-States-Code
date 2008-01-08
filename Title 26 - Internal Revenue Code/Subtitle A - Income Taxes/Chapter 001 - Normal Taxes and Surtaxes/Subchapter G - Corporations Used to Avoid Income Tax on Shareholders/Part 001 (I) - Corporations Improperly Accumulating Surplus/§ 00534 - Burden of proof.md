@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In any proceeding before the Tax Court involving a notice of deficiency based in whole or in part on the allegation that all or any part of the earnings and profits have been permitted to accumulate beyond the reasonable needs of thebusiness, the burden of proof with respect to such allegation shall—
+In any proceeding before the Tax Court involving a notice of deficiency based in whole or in part on the allegation that all or any part of the earnings and profits have been permitted to accumulate beyond the reasonable needs of the business, the burden of proof with respect to such allegation shall—
 
 &emsp;(1) if notification has not been sent in accordance with subsection (b), be on the Secretary, or
 

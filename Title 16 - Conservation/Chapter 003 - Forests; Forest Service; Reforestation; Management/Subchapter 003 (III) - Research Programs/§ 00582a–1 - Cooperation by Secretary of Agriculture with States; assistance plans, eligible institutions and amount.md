@@ -14,7 +14,7 @@ The Hatch Act of March 2, 1887, as amended, referred to in text, is act Mar. 2, 
 
 #### Amendments
 
-1981—Pub. L. 97–98 inserted provision that if more than one institution within a State are certified asqualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complimentary programs of forestry research for the State.
+1981—Pub. L. 97–98 inserted provision that if more than one institution within a State are certified as qualifying for assistance, then it shall be the responsibility of such institutions, in agreement with the Secretary, to develop complimentary programs of forestry research for the State.
 
 #### Effective Date of 1981 Amendment
 

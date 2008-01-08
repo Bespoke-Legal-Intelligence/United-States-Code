@@ -6,7 +6,7 @@
 
 &emsp;(2) for any person to fail to furnish any notification or other material or information required by section 360<i>ll</i> or 360nn of this title; or to fail to comply with the requirements of section 360<i>ll</i>(f) of this title;
 
-&emsp;(3) for any person to fail or to refuse to establish or maintain records required by this part or to permit access by the Secretary or any of his duly authorized representatives to, or the copying of, such records, or to permitentry or inspection, as required by or pursuant to section 360nn of this title;
+&emsp;(3) for any person to fail or to refuse to establish or maintain records required by this part or to permit access by the Secretary or any of his duly authorized representatives to, or the copying of, such records, or to permit entry or inspection, as required by or pursuant to section 360nn of this title;
 
 &emsp;(4) for any person to fail or to refuse to make any report required pursuant to section 360nn(b) of this title or to furnish or preserve any information required pursuant to section 360nn(f) of this title; or
 

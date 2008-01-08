@@ -12,7 +12,9 @@
 
 (f) The Secretary of Energy may determine and fix the maximum age limit for an original appointment to a position as a nuclear materials courier, as defined by section 8331(27) or 8401(33).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 92–297, §2(a), May 16, 1972, 86 Stat. 141; Pub. L. 93–350, §1, July 12, 1974, 88 Stat. 355; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 100–238, title I, §103(a)(1), Jan. 8, 1988, 101 Stat. 1744; Pub. L. 105–261, div. C, title XXXI, §3154(a), Oct. 17, 1998, 112 Stat. 2254.)
+(g) The Secretary of Homeland Security may determine and fix the maximum age limit for an original appointment to a position as a customs and border protection officer, as defined by section 8401(36).
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 92–297, §2(a), May 16, 1972, 86 Stat. 141; Pub. L. 93–350, §1, July 12, 1974, 88 Stat. 355; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 100–238, title I, §103(a)(1), Jan. 8, 1988, 101 Stat. 1744; Pub. L. 105–261, div. C, title XXXI, §3154(a), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 110–161, div. E, title V, §535(c), Dec. 26, 2007, 121 Stat. 2076.)
 
 Historical and Revision Notes
 
@@ -38,6 +40,8 @@ For definition of Secretary, referred to in subsec. (b), see section 2109 of thi
 
 #### Amendments
 
+2007—Subsec. (g). Pub. L. 110–161 added subsec. (g).
+
 1998—Subsec. (a). Pub. L. 105–261, §3154(a)(1), substituted “(d), (e), and (f)” for “and (d)”.
 
 Subsec. (f). Pub. L. 105–261, §3154(a)(2), added subsec. (f).
@@ -54,6 +58,88 @@ Subsec. (d). Pub. L. 93–350, §1(2), added subsec. (d).
 
 1972—Pub. L. 92–297 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
+#### Effective Date of 2007 Amendment; Transition Rules
+
+Pub. L. 110–161, div. E, title V, §535(e), Dec. 26, 2007, 121 Stat. 2077, provided that:
+
+“(1)
+
+Effective date.—The amendments made by this section \[amending this section and sections 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title\] shall become effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after the date of the enactment of this Act \[Dec. 26, 2007\].
+
+“(2)
+
+Transition rules.—
+
+&emsp;“(A)
+
+Nonapplicability of mandatory separation provisions to certain individuals.—The amendments made by subsections (a)(3) and (b)(6) \[amending sections 8335 and 8425 of this title\], respectively, shall not apply to an individual first appointed as a customs and border protection officer before the effective date under paragraph (1).
+
+&emsp;“(B)
+
+Treatment of prior cbpo service.—
+
+&emsp;&emsp;“(i)
+
+General rule.—Except as provided in clause (ii), nothing in this section \[amending this section and sections 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title and enacting provisions set out as a note under this section\] or any amendment made by this section shall be considered toapply with respect to any service performed as a customs and border protection officer before the effective date under paragraph (1).
+
+&emsp;&emsp;“(ii)
+
+Exception.—Service described in section 8331(31) or 8401(36) of title 5, United States Code (as amended by this section) rendered before the effective date under paragraph (1) may be taken into account to determine if an individual who is serving on or after such effective date then qualifies as a customs and border protection officer by virtue of holding a supervisory or administrative position in the Department of Homeland Security.
+
+&emsp;“(C)
+
+Minimum annuity amount.—The annuity of an individual serving as a customs and border protection officer on the effective date under paragraph (1) pursuant to an appointment made before that date shall, to the extent that its computation is based on service rendered as a customs and border protection officer on or after that date, be at least equal to the amount that would be payable—
+
+&emsp;&emsp;“(i) to the extent that such service is subject to the Civil Service Retirement System, by applying section 8339(d) of title 5, United States Code, with respect to such service; and
+
+&emsp;&emsp;“(ii) to the extent such service is subject to the Federal Employees’ Retirement System, by applying section 8415(d) of title 5, United States Code, with respect to such service.
+
+&emsp;“(D)
+
+Rule of construction.—Nothing in the amendment made by subsection (c) \[amending this section\] shall be considered to apply with respect to any appointment made before the effective date under paragraph (1).
+
+“(3)
+
+Election.—
+
+&emsp;“(A)
+
+Incumbent defined.—For purposes of this paragraph, the term ‘incumbent’ means an individual who is serving as a customs and border protection officer on the date of the enactment of this Act.
+
+&emsp;“(B)
+
+Notice requirement.—Not later than 30 days after the date of the enactment of this Act, the Director of the Office of Personnel Management shall take measures reasonably designed to ensure that incumbents are notified as to their election rights under this paragraph, and the effect of making or not making a timely election.
+
+&emsp;“(C)
+
+Election available to incumbents.—
+
+&emsp;&emsp;“(i)
+
+In general.—An incumbent may elect, for all purposes, either—
+
+&emsp;&emsp;&emsp;“(I) to be treated in accordance with the amendments made by subsection (a) or (b) \[amending sections 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title\], as applicable; or
+
+&emsp;&emsp;&emsp;“(II) to be treated as if subsections (a) and (b) had never been enacted.
+
+&nbsp;&nbsp;“Failure to make a timely election under this paragraph shall be treated in the same way as an election made under subclause (I) on the last day allowable under clause (ii).
+
+&emsp;&emsp;“(ii)
+
+Deadline.—An election under this paragraph shall not be effective unless it is made at least 14 days before the effective date under paragraph (1).
+
+“(4)
+
+Definition.—For purposes of this subsection, the term ‘customs and border protection officer’ has the meaning given such term by section 8331(31) or 8401(36) of title 5, United States Code (as amended by this section).
+
+“(5)
+
+Exclusion.—Nothing in this section or any amendment made by this section shall be considered to afford any election or to otherwise apply with respect to any individual who, as of the day before the date of the enactment of this Act—
+
+&emsp;“(A) holds a position within U.S. Customs and Border Protection; and
+
+&emsp;“(B) is considered a law enforcement officer for purposes of subchapter III of chapter 83 or chapter 84 of title 5, United States Code, by virtue of such position.”
+
 #### Effective Date of 1988 Amendment
 
 Section 103(f) of Pub. L. 100–238 provided that: “This section, and the amendments made by this section \[amending this section and sections 8401 and 8704 of this title and enacting provisions set out as a note under section 8334 of this title\], shall be effective as of January 1, 1987.”
@@ -69,6 +155,10 @@ Section 7 of Pub. L. 93–350 provided that: “The amendments made by the first
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under section 3381 of this title.
+
+#### Regulations
+
+Pub. L. 110–161, div. E, title V, §535(d), Dec. 26, 2007, 121 Stat. 2077, provided that: “Any regulations necessary to carry out the amendments made by this section \[amending this section and sections 8331, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title\] shall be prescribed by the Director of the Office of Personnel Management in consultation with the Secretary of Homeland Security.”
 
 #### United States Park Police; Age Limits for Original Appointments
 

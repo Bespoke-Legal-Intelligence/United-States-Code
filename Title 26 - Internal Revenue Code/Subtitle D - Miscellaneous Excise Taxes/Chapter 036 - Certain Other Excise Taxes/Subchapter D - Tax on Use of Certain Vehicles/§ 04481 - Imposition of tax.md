@@ -122,7 +122,7 @@ Subsec. (e). Pub. L. 87–61, §203(b)(1), substituted “before October 1, 1972
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–14, §9(d), May 31, 2005, 119 Stat. 336, provided that: “The amendments made by this section\[amending this section and sections 4482, 4483, 9503, and 9504 of this title\] shall take effect on the date of the enactment of this Act \[May 31, 2005\].”
+Pub. L. 109–14, §9(d), May 31, 2005, 119 Stat. 336, provided that: “The amendments made by this section \[amending this section and sections 4482, 4483, 9503, and 9504 of this title\] shall take effect on the date of the enactment of this Act \[May 31, 2005\].”
 
 #### Effective Date of 2004 Amendment
 
@@ -134,7 +134,7 @@ Section 507(d) of Pub. L. 100–17 provided that: “The amendments made by subs
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 734(f) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
+Amendment by section 734(f) of Pub. L. 98–369 effective, except as otherwise provided, as if included in theprovisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
 Section 901(c) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] (and the provisions of subsection (b) \[set out below\]) shall take effect on July 1, 1984.”
 

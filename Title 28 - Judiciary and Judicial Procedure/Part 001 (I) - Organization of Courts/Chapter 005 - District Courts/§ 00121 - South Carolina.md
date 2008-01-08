@@ -46,7 +46,7 @@ South Carolina constitutes one judicial district comprising eleven divisions.
 
 &emsp;&emsp;Court for the Beaufort Division shall be held at Beaufort.
 
-(June 25, 1948, ch. 646, 62 Stat. 889; Pub. L. 89–242, §1(a), Oct. 7, 1965, 79 Stat. 951; Pub. L. 99–657, §2,Nov. 14, 1986, 100 Stat. 3670; Pub. L. 102–140, title III, §304, Oct. 28, 1991, 105 Stat. 810.)
+(June 25, 1948, ch. 646, 62 Stat. 889; Pub. L. 89–242, §1(a), Oct. 7, 1965, 79 Stat. 951; Pub. L. 99–657, §2, Nov. 14, 1986, 100 Stat. 3670; Pub. L. 102–140, title III, §304, Oct. 28, 1991, 105 Stat. 810.)
 
 #### Historical and Revision Notes
 

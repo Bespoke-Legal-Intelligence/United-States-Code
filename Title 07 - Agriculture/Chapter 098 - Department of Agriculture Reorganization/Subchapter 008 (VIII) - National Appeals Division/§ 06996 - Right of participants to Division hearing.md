@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, a participant shall have the right to
 
 #### (b) Time for appeal
 
-To be entitled to a hearing under section 6997 of this title, a participant shall request thehearing not later than 30 days after the date on which the participant first received notice of the adverse decision.
+To be entitled to a hearing under section 6997 of this title, a participant shall request the hearing not later than 30 days after the date on which the participant first received notice of the adverse decision.
 
 (Pub. L. 103–354, title II, §276, Oct. 13, 1994, 108 Stat. 3230.)
 

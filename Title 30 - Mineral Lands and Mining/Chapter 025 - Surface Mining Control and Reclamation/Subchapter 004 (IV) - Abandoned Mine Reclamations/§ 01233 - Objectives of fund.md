@@ -46,7 +46,7 @@ Subsec. (a)(4), (5). Pub. L. 109–432, §203(1)(D), struck out pars. (4) and (5
 
 “(4) the protection, repair, replacement, construction, or enhancement of public facilities such as utilities, roads, recreation, and conservation facilities adversely affected by coal mining practices;
 
-“(5) the development of publicly owned land adversely affected by coal mining practices including land acquired as provided in this subchapter for recreation and historic purposes, conservation, and reclamation purposes and open space benefits.”
+“(5) the development of publicly owned land adversely affected by coal mining practices includingland acquired as provided in this subchapter for recreation and historic purposes, conservation, and reclamation purposes and open space benefits.”
 
 Subsec. (b). Pub. L. 109–432, §203(2)(A), substituted “Water supply restoration” for “Utilities and other facilities” in heading.
 

@@ -22,7 +22,7 @@ A country whose activities directly or indirectly affect rhinoceros or tiger pop
 
 #### (c) Project review and approval
 
-Within 30 days of receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d) of this section. Not later than 6 months after receiving a final project proposal, and subject to the availability of funds, the Secretary, after consulting with the Administrator, shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal, to the Administrator, and to each country within which the project is to be conducted.
+Within 30 days of receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d) of this section. Not later than 6 months after receiving a final project proposal, and subject to the availability of funds, the Secretary, after consulting with the Administrator, shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal and to the Administrator.
 
 #### (d) Criteria for approval
 
@@ -42,9 +42,11 @@ To the maximum extent practical, in determining whether to approve project propo
 
 Each person that receives assistance under this section for a project shall provide periodic reports, as the Secretary considers necessary, to the Secretary and the Administrator. Each report shall include all information requested by the Secretary, after consulting with the Administrator, for evaluating the progress and success of the project.
 
-(Pub. L. 103–391, §5, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 107–112, §5, Jan. 8, 2002, 115 Stat. 2098.)
+(Pub. L. 103–391, §5, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 107–112, §5, Jan. 8, 2002, 115 Stat. 2098; Pub. L. 110–132, §3(a), Dec. 6, 2007, 121 Stat. 1360.)
 
 #### Amendments
+
+2007—Subsec. (c). Pub. L. 110–132 substituted “and to the Administrator” for “, to the Administrator, and to each country within which the project is to be conducted” in third sentence.
 
 2002—Subsec. (e). Pub. L. 107–112 amended heading and text generally. Prior to amendment, text read as follows: “To the maximum extent practical, the Secretary should give consideration to projects which will enhance sustainable development programs to ensure effective, long-term conservation of rhinoceros and tigers.”
 

@@ -6,7 +6,7 @@ There is hereby established an honorary award for the recognition of outstanding
 
 #### (b) Description
 
-The Director's Award shall be presented by the Director or by the Attorney General to public safety officers for distinguished service in the field of public safety.
+The Director's Award shall be presented by the Director or by the Attorney General to publicsafety officers for distinguished service in the field of public safety.
 
 #### (c) Award
 

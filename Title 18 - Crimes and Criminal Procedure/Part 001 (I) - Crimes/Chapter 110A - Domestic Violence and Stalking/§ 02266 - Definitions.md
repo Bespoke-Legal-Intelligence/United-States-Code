@@ -56,7 +56,7 @@ State.—The term “State” includes a State of the United States, the Distric
 
 &emsp;(9)
 
-Travel in interstate or foreign commerce.—The term “travel in interstate or foreign commerce” does not include travel from 1 State to another by an individual who is amember of an Indian tribe and who remains at all times in the territory of the Indian tribe of which the individual is a member.
+Travel in interstate or foreign commerce.—The term “travel in interstate or foreign commerce” does not include travel from 1 State to another by an individual who is a member of an Indian tribe and who remains at all times in the territory of the Indian tribe of which the individual is a member.
 
 &emsp;(10)
 

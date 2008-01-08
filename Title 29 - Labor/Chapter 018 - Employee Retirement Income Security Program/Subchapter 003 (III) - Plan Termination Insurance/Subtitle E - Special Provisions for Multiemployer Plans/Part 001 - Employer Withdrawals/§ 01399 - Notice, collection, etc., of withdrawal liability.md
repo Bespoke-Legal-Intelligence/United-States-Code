@@ -36,7 +36,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (1)(A)(i) Except as provided in subparagraphs (B) and (D) of this paragraph and in paragraphs (4) and (5), an employer shall pay the amount determined under section 1391 of this title, adjusted if appropriate first under section 1389 of this title and then under section 1386 of this title over the period of years necessary to amortize the amount in level annual payments determined under subparagraph (C), calculated as if the first payment were made on the first day of the plan year following the plan year in which the withdrawal occurs and as if each subsequent payment were made on the first day of each subsequent plan year. Actual payment shall commence in accordance with paragraph (2).
 
-(ii) The determination of the amortization period described in clause (i) shall be based on theassumptions used for the most recent actuarial valuation for the plan.
+(ii) The determination of the amortization period described in clause (i) shall be based on the assumptions used for the most recent actuarial valuation for the plan.
 
 (B) In any case in which the amortization period described in subparagraph (A) exceeds 20 years, the employer's liability shall be limited to the first 20 annual payments determined under subparagraph (C).
 
@@ -88,7 +88,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (6) Except as provided in paragraph (1)(A)(ii), interest under this subsection shall be charged at rates based on prevailing market rates for comparable obligations, in accordance with regulations prescribed by the corporation.
 
-(7) A multiemployer plan may adopt rules for other terms and conditions for the satisfactionof an employer's withdrawal liability if such rules—
+(7) A multiemployer plan may adopt rules for other terms and conditions for the satisfaction of an employer's withdrawal liability if such rules—
 
 &emsp;(A) are consistent with this chapter, and
 

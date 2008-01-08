@@ -6,7 +6,7 @@ Within the boundaries of the lakeshore the Secretary of the Interior (hereinafte
 
 #### (b) Liability of United States under contracts contingent on appropriations
 
-In exercising his authority to acquire property subsection (a) of this section, the Secretary may enter into contracts requiring the expenditure, when appropriated, of funds authorized to be appropriated by section 460u–8 of this title, but the liability of the United States under any such contract shall be contingent on the appropriation of funds sufficient to fulfill the obligations thereby incurred.
+In exercising his authority to acquire property under subsection (a) of this section, the Secretary may enter into contracts requiring the expenditure, when appropriated, of funds authorized to be appropriated by section 460u–8 of this title, but the liability of the United States under any such contract shall be contingent on the appropriation of funds sufficient to fulfill the obligations thereby incurred.
 
 (Pub. L. 89–761, §2, Nov. 5, 1966, 80 Stat. 1309; Pub. L. 96–612, §1(3), (4), Dec. 28, 1980, 94 Stat. 3575.)
 

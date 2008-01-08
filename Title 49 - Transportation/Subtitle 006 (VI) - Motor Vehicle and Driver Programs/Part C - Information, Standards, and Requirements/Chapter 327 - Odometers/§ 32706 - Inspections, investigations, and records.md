@@ -32,7 +32,7 @@ Records and Information Requirements.—(1) To enable the Secretary to decide wh
 
 &emsp;(C) to allow an officer or employee designated by the Secretary to inspect relevant records of the dealer or distributor.
 
-(2) This subsection and subsection (e)(1)(B) of this section do not authorize the Secretary to require a dealer or distributor to provide information on a regular periodic basis.
+(2) This subsection and subsection (e)(1)(B) of this section do not authorize the Secretary torequire a dealer or distributor to provide information on a regular periodic basis.
 
 (e)
 

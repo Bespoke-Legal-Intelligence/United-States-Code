@@ -6,7 +6,7 @@ Worker Adjustment and Retraining Notification Rights.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), no employing office shall be closed or mass layoff ordered within the meaning of section 3 of the Worker Adjustment and Retraining Notification Act until the end of a 60-day period after the employing office serves written notice of such prospective closing or layoff to representatives of covered employees or, if there are no representatives, to covered employees.
+In general.—Except as provided in paragraph (2), no employing office shall be closed or mass layoff ordered within the meaning of section 3 of the Worker Adjustment and Retraining Notification Act until the end of a 60-day period after the employing office serves written notice of such prospective closing orlayoff to representatives of covered employees or, if there are no representatives, to covered employees.
 
 &emsp;(2)
 
@@ -22,7 +22,7 @@ In general.—In the event that a President (hereinafter in this paragraph refer
 
 &emsp;&emsp;(B)
 
-Description of individuals.—An individual described in this subparagraph is anycovered employee serving pursuant to an appointment made during—
+Description of individuals.—An individual described in this subparagraph is any covered employee serving pursuant to an appointment made during—
 
 &emsp;&emsp;&emsp;(i) the term of office of the previous President; or
 

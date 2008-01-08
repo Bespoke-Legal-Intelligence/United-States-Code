@@ -14,7 +14,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) ends with (and includes) the earlier of—
 
-&emsp;&emsp;&emsp;(i) the day on which a determination is made with respect to the eligibility of the woman for medical assistance under the State plan, or
+&emsp;&emsp;&emsp;(i) the day on which a determination is made with respect to the eligibility of thewoman for medical assistance under the State plan, or
 
 &emsp;&emsp;&emsp;(ii) in the case of a woman who does not file an application by the last day of the month following the month during which the provider makes the determination referred to in subparagraph (A), such last day; and
 
@@ -118,7 +118,7 @@ Subsec. (d)(1)(B). Pub. L. 100–360, §411(k)(16)(A), substituted “by a provi
 
 Section 4605(c) of Pub. L. 101–508 provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendarquarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+“(1) The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 “(2) The amendment made by subsection (b) \[amending this section\] shall be effective as if included in the enactment of section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, enacting this section\].”
 

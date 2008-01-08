@@ -23,6 +23,7 @@
 |  |  |
 | :--- | ---: |
 | [921\.](Subchapter%20001%20%28I%29%20-%20Security%20of%20United%20States%20Seaports/Part%20B%20-%20Port%20Operations/%C2%A7%2000921%20-%20Domestic%20radiation%20detection%20and%20imaging.md) | Domestic radiation detection and imaging. |
+| [921a.](Subchapter%20001%20%28I%29%20-%20Security%20of%20United%20States%20Seaports/Part%20B%20-%20Port%20Operations/%C2%A7%2000921a%20-%20Integration%20of%20detection%20equipment%20and%20technologies.md) | Integration of detection equipment and technologies. |
 | [922\.](Subchapter%20001%20%28I%29%20-%20Security%20of%20United%20States%20Seaports/Part%20B%20-%20Port%20Operations/%C2%A7%2000922%20-%20Inspection%20of%20car%20ferries%20entering%20from%20abroad.md) | Inspection of car ferries entering from abroad. |
 | [923\.](Subchapter%20001%20%28I%29%20-%20Security%20of%20United%20States%20Seaports/Part%20B%20-%20Port%20Operations/%C2%A7%2000923%20-%20Random%20searches%20of%20containers.md) | Random searches of containers. |
 | [924\.](Subchapter%20001%20%28I%29%20-%20Security%20of%20United%20States%20Seaports/Part%20B%20-%20Port%20Operations/%C2%A7%2000924%20-%20Threat%20assessment%20screening%20of%20port%20truck%20drivers.md) | Threat assessment screening of port truck drivers. |

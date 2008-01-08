@@ -10,7 +10,7 @@ With respect to projects for which awards of grants, cooperative agreements, or 
 
 #### (b) Requirement of application
 
-The Director may not, with respect to any program under this subchapter authorizing the provision of grants, cooperative agreements, or contracts, provide any such financial assistance unless an application for the assistance is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Director determines to be necessary to carry out the program involved.
+The Director may not, with respect to any program under this subchapter authorizing the provision of grants, cooperative agreements, or contracts, provide any such financial assistance unless an application for the assistance is submitted to the Secretary and the application is in such form, is made in such manner, and containssuch agreements, assurances, and information as the Director determines to be necessary to carry out the program involved.
 
 #### (c) Provision of supplies and services in lieu of funds
 

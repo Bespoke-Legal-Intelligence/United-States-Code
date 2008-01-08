@@ -36,11 +36,11 @@ Loan guaranties under this subchapter shall be on such terms and conditions as t
 
 #### (e) Limitations on amount of guaranty; exceptions; procedures applicable
 
-The amount of the guaranty for any loan for a project shall not exceed $100,000,000: <i>Provided</i>, That in the case of a guaranty under subsection (b)(5) of this section, the amount of the guaranty for any loan for a project shall not exceed $50,000,000 and the amount of the guaranty for any combination of loans for any single qualified borrower shall not exceed $200,000,000, unless the Secretary of Energy determines in writing that a guaranty in excess of these amounts is in the national interest. Any such determination shall be submitted to the Speaker of the House and the Committee on Science, Space, and Technology of the House of Representatives, and to the President of the Senate and the Committee on Energy and Natural Resources of the Senate, accompanied by a full and complete report on the proposed project and guaranty. The proposed guaranty or commitment to guarantee shall not be finalized under authority granted by this chapter prior to the expiration of thirty calendar days (not including any date on which either House of Congress is not in session) from the date on which such report is received by the Speaker of the House and the President of the Senate.
+The amount of the guaranty for any loan for a project shall not exceed $100,000,000: <i>Provided</i>, That in the case of a guaranty under subsection (b)(5) of this section, the amount of the guaranty for any loan for a project shall not exceed $50,000,000 and the amount of the guaranty for any combination of loans for any single qualified borrower shall not exceed $200,000,000, unless the Secretary of Energy determines in writing that a guaranty in excess of these amounts is inthe national interest. Any such determination shall be submitted to the Speaker of the House and the Committee on Science, Space, and Technology of the House of Representatives, and to the President of the Senate and the Committee on Energy and Natural Resources of the Senate, accompanied by a full and complete report on the proposed project and guaranty. The proposed guaranty or commitment to guarantee shall not be finalized under authority granted by this chapter prior to the expiration of thirty calendar days (not including any date on which either House of Congress is not in session) from the date on which such report is received by the Speaker of the House and the President of the Senate.
 
 #### (f) “Qualified borrower” defined
 
-As used in this subchapter, the term “qualified borrower” means any public or private agency, institution, association, partnership, corporation, political subdivision, or other legalentity which (as determined by the head of the designated agency) has presented satisfactory evidence of an interest in geothermal resources and is capable of performing research or completing the development and production of energy in an acceptable manner.
+As used in this subchapter, the term “qualified borrower” means any public or private agency, institution, association, partnership, corporation, political subdivision, or other legal entity which (as determined by the head of the designated agency) has presented satisfactory evidence of an interest in geothermal resources and is capable of performing research or completing the development and production of energy in an acceptable manner.
 
 #### (g) Payment of interest; criteria
 
@@ -80,7 +80,7 @@ Subsecs. (g) to (j). Pub. L. 95–238, §509, added subsecs. (g) to (j).
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Transfer of Functions
 

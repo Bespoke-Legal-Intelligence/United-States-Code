@@ -18,7 +18,7 @@
 
 #### (b) Interest
 
-Such agreements shall provide that interest accrue on the payment deferred under suchagreement at a concessional rate as determined appropriate by the Secretary.
+Such agreements shall provide that interest accrue on the payment deferred under such agreement at a concessional rate as determined appropriate by the Secretary.
 
 #### (c) Duration
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 104–127, §204(2), struck out “less than 10 nor” befo
 
 Subsec. (d). Pub. L. 104–127, §204(3), substituted “developing country or private entity” for “recipient country” and “5 years” for “7 years”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring President to consider efforts of recipients to increase agricultural production, determine amount needed in foreign currencies, protect other markets for United States commodities, make sales only to friendly countries, use private trade channels whenever practicable, consider expansion of markets, prevent resale by recipients, obtain favorable exchange rates, emphasize production of food crops, assist friendly countries in avoiding Communist domination, require payment of at least 5 per centum of purchase price upon delivery in dollars or convertible currency, obtain commitments from recipients to publicize source of food, require convertibility of foreign currencies, avoid displacement of sales that would otherwise have been made, assure United States obtains fair share in increase of commercial purchases by recipients, assure convertibility of foreign currencies at uniform exchange rates, and favor countries promoting private sector in allocation of commodities.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring President to consider efforts of recipients to increase agricultural production, determine amount needed in foreign currencies, protect other markets for United States commodities, make sales only to friendly countries, use private trade channels whenever practicable, consider expansion of markets, prevent resale by recipients, obtain favorable exchange rates, emphasize production of food crops, assist friendly countries in avoiding Communist domination, require payment of at least 5 per centum of purchase price upon delivery in dollars or convertible currency, obtain commitmentsfrom recipients to publicize source of food, require convertibility of foreign currencies, avoid displacement of sales that would otherwise have been made, assure United States obtains fair share in increase of commercial purchases by recipients, assure convertibility of foreign currencies at uniform exchange rates, and favor countries promoting private sector in allocation of commodities.
 
 1987—Subsec. (r). Pub. L. 100–202 added subsec. (r).
 
@@ -114,7 +114,7 @@ Subsec. (m). Pub. L. 89–808 redesignated provisions of former section 1701(g) 
 
 Subsec. (n). Pub. L. 89–808 incorporated in provisions added as subsec. (n) part of former section 1734 of this title requiring the Secretary to take such reasonable precautions as he determines necessary to avoid replacing any sales which the Secretary found and determined would otherwise be made for cash dollars.
 
-1964—Subsec. (a). Pub. L. 88–638, §1(4), directed the President to classify expenditures under this chapter asfor international affairs and finance rather than for agriculture and agricultural resources.
+1964—Subsec. (a). Pub. L. 88–638, §1(4), directed the President to classify expenditures under this chapter as for international affairs and finance rather than for agriculture and agricultural resources.
 
 Subsec. (b). Pub. L. 88–638, §1(5), substituted “1965” for “1962”, “1966” for “1964”, and “$2,700,000,000 plus any amount by which agreements entered into in prior years have called or will call for appropriations to reimburse the Commodity Credit Corporation in amounts less than authorized for such prior years by this chapter as in effect during such years” for “$4,500,000,000”.
 

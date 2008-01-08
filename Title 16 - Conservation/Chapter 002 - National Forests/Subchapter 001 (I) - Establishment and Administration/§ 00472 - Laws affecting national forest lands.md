@@ -10,7 +10,7 @@ Section 471 of this title, referred to in text, was in the original a reference 
 
 #### Codification
 
-Words “subject to the provisions for national forests established under subdivision (b) of section 471 of thistitle,” which had been inserted by the original codifiers of the 1926 ed. of the Code, have been omitted because of the repeal of section 471 of this title by Pub. L. 94–579.
+Words “subject to the provisions for national forests established under subdivision (b) of section 471 of this title,” which had been inserted by the original codifiers of the 1926 ed. of the Code, have been omitted because of the repeal of section 471 of this title by Pub. L. 94–579.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

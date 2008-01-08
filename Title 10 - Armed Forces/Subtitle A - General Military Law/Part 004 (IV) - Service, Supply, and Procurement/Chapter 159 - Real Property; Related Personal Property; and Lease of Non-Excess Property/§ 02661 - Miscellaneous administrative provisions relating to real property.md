@@ -50,8 +50,6 @@ Subsec. (c). Pub. L. 108–375, §2821(a)(1), added subsec. (c).
 
 #### Pilot Program to Provide Additional Tools for Efficient Operation of Military Installations
 
-Pub. L. 107–107, div. B, title XXVIII, §2813, Dec. 28, 2001, 115 Stat. 1308, provided that:
-
 Pub. L. 107–107, div. B, title XXVIII, §2813, Dec. 28, 2001, 115 Stat. 1308, authorized the Secretary of Defense, until Dec. 31, 2005, to carry out a pilot program, known as the “Pilot Efficient Facilities Initiative”, for purposes of determining the potential for increasing the efficiency and effectiveness of the operation of military installations.
 
 #### Study of Establishment of Land Management and Training Center

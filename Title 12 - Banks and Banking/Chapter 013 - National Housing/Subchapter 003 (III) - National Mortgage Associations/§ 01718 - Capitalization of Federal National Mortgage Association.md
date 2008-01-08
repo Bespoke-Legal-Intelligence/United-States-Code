@@ -32,7 +32,7 @@ Subsecs. (d), (f). Pub. L. 102–550, §1381(d)(3), (4), redesignated subsec. (f
 
 1988—Subsec. (a). Pub. L. 100–242 inserted after first sentence “The corporation may eliminate such rights of cumulative voting by a resolution adopted by its board of directors and approved by the holders of a majority of the shares of common stock voting in person or by proxy at the annual meeting, or other special meeting, at which such resolution is considered.”
 
-1982—Subsec. (a). Pub. L. 97–320, §707(a)(1), inserted provision that the corporation may have preferred stock on such terms and conditions as the board of directors shall prescribe.
+1982—Subsec. (a). Pub. L. 97–320, §707(a)(1), inserted provision that the corporation may have preferredstock on such terms and conditions as the board of directors shall prescribe.
 
 Pub. L. 97–320, §707(a)(2), struck out “common” before “stock at all times”.
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 93–383, §806(h), substituted provisions relating to purc
 
 Subsec. (d). Pub. L. 93–383, §806(i), struck out subsec. (d) authorizing issuance of preferred stock to Secretary of the Treasury.
 
-Subsec. (e). Pub. L. 93–383, §806(i), struck out subsec. (e) relating to exchange of preferred stock delivered toSecretary of the Treasury pursuant to subsec. (d) of this section.
+Subsec. (e). Pub. L. 93–383, §806(i), struck out subsec. (e) relating to exchange of preferred stock delivered to Secretary of the Treasury pursuant to subsec. (d) of this section.
 
 1970—Subsec. (b). Pub. L. 91–609 substituted “may accumulate” and “private sources” for “shall accumulate” and “private and other sources”, respectively, struck out “nor less than 1 per centum” after “2 per centum”, and inserted “with the approval of the Secretary of Housing and Urban Development” after “as determined from time to time by the corporation”.
 
@@ -98,5 +98,5 @@ For effective date of amendment by title VIII of Pub. L. 90–448, see section 8
 
 #### Special Assistance Funds of Association for Financing Low-Cost Homes
 
-Section 1006 of Pub. L. 89–754, title X, Nov. 3, 1966, 80 Stat. 1285, provided that the Congress found that the sharp decline in new home construction over the past year threatened to undercut the present high level ofprosperity and employment as such declines had in the past; that the substantial reduction which had taken place had its greatest impact on families of modest income who were seeking to achieve the goal of homeownership; that this decline in homebuilding was due primarily to the shortage of mortgage financing on terms which moderate income families could afford; and that national policy objectives in the field of housing and community development were thereby being thwarted. The Congress therefore expressed its intent that the special assistance funds made available to the Federal National Mortgage Association for the financing of new low-cost homes by the Act of September 10, 1966 (Public Law 89–556) \[amending sections 1718, 1719, and 1720 of this title\], should be released immediately to halt the continuing decline in the construction of new homes for families of moderate incomes.
+Section 1006 of Pub. L. 89–754, title X, Nov. 3, 1966, 80 Stat. 1285, provided that the Congress found that the sharp decline in new home construction over the past year threatened to undercut the present high level of prosperity and employment as such declines had in the past; that the substantial reduction which had taken place had its greatest impact on families of modest income who were seeking to achieve the goal of homeownership; that this decline in homebuilding was due primarily to the shortage of mortgage financing on terms which moderate income families could afford; and that national policy objectives in the field of housing and community development were thereby being thwarted. The Congress therefore expressed its intent that the special assistance funds made available to the Federal National Mortgage Association for the financing of new low-cost homes by the Act of September 10, 1966 (Public Law 89–556) \[amending sections 1718, 1719, and 1720 of this title\], should be released immediately to halt the continuing decline in the construction of new homes for families of moderate incomes.
 

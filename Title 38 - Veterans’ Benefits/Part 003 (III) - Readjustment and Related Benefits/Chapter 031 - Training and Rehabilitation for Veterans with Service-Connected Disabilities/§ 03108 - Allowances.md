@@ -37,7 +37,7 @@
 
 (c)(1) In any case in which the vocational rehabilitation program for a veteran includes training on the job by an employer in any month, such employer shall be required to submit to the Secretary a statement in writing showing any wage, compensation, or other income paid (directly or indirectly) by the employer to such veteran for such month. Based upon such written statement, the Secretary is authorized to reduce the subsistence allowance of such veteran to an amount considered equitable and just in accordance with criteria which the Secretary shall establish in regulations which the Secretary shall prescribe.
 
-(2) A veteran pursuing on-job training or work experience as part of a vocational rehabilitation program in a Federal, State, or local government agency or federally recognized Indian tribe under the provisions of section 3115(a)(1) of this title without pay or for nominal pay shall be paid the appropriate subsistence allowance rate provided in subsection (b) of this section for an institutional program.
+(2) A veteran pursuing on-job training or work experience as part of a vocational rehabilitation program in a Federal, State, or local government agency or federally recognized Indian tribeunder the provisions of section 3115(a)(1) of this title without pay or for nominal pay shall be paid the appropriate subsistence allowance rate provided in subsection (b) of this section for an institutional program.
 
 (d)(1) The Secretary shall, in accordance with regulations which the Secretary shall prescribe, define full-time and each part-time status for veterans participating in rehabilitation programs under this chapter.
 

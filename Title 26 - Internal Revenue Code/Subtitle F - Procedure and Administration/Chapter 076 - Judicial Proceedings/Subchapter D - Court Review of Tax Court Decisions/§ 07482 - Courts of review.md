@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(A) in the case of a petitioner seeking redetermination of tax liability other than a corporation, the legal residence of the petitioner,
 
-&emsp;&emsp;(B) in the case of a corporation seeking redetermination of tax liability, the principalplace of business or principal office or agency of the corporation, or, if it has no principal place of business or principal office or agency in any judicial circuit, then the office to which was made the return of the tax in respect of which the liability arises,
+&emsp;&emsp;(B) in the case of a corporation seeking redetermination of tax liability, the principal place of business or principal office or agency of the corporation, or, if it has no principal place of business or principal office or agency in any judicial circuit, then the office to which was made the return of the tax in respect of which the liability arises,
 
 &emsp;&emsp;(C) in the case of a person seeking a declaratory decision under section 7476, the principal place of business, or principal office or agency of the employer,
 

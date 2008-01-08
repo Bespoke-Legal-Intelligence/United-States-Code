@@ -58,7 +58,7 @@
 
 (h) The provisions of this section shall be implemented in a manner consistent with procedures applicable under regulations prescribed by the Equal Employment Opportunity Commission.
 
-(Added Pub. L. 105–114, title I, §101(a)(1), Nov. 21, 1997, 111 Stat. 2278; amended Pub. L. 105–368, titleIV, §403(d)(2), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 108–170, title IV, §405(a), Dec. 6, 2003, 117 Stat. 2063.)
+(Added Pub. L. 105–114, title I, §101(a)(1), Nov. 21, 1997, 111 Stat. 2278; amended Pub. L. 105–368, title IV, §403(d)(2), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 108–170, title IV, §405(a), Dec. 6, 2003, 117 Stat. 2063.)
 
 #### Amendments
 

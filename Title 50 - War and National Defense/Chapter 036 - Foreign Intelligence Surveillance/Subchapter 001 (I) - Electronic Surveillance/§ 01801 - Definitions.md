@@ -50,7 +50,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(C) to affect the conduct of a government by assassination or kidnapping; and
 
-&emsp;&emsp;(3) occur totally outside the United States, or transcend national boundaries in terms of the means by which they are accomplished, the persons they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum.
+&emsp;&emsp;(3) occur totally outside the United States, or transcend national boundaries in terms ofthe means by which they are accomplished, the persons they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum.
 
 &emsp;(d) “Sabotage” means activities that involve a violation of chapter 105 of title 18, or that would involve such a violation if committed against the United States.
 
@@ -143,6 +143,10 @@ Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided 
 #### Effective Date; Exception
 
 Pub. L. 95–511, title VII, §701, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401, and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412; renumbered title VII, §701, Pub. L. 108–458, title VI, §6002(a)(1), Dec. 17, 2004, 118 Stat. 3743, provided that: “The provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provision set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\].”
+
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–55, §1, Aug. 5, 2007, 121 Stat. 552, provided that: “This Act \[enacting sections 1805a to 1805c of this title, amending section 1803 of this title, and enacting provisions set out as a note under section 1803 of this title\] may be cited as the ‘Protect America Act of 2007’.”
 
 #### Short Title of 2000 Amendment
 

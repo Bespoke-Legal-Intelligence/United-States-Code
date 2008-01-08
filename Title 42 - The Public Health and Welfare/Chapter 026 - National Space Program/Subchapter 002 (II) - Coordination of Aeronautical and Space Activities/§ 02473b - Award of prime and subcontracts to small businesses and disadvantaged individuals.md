@@ -2,7 +2,7 @@
 
 The NASA Administrator shall annually establish a goal of at least 8 per centum of the total value of prime and subcontracts awarded in support of authorized programs, including the space station by the time operational status is obtained, which funds will be made available to small business concerns or other organizations owned or controlled by socially and economically disadvantaged individuals (within the meaning of section 637(a)(5) and (6) of title 15), including Historically Black Colleges and Universities that are part B institutions (as defined in section 1061(2) of title 20), Hispanic-serving institutions (as defined in section 1101a(a)(5) of title 20), Tribal Colleges or Universities (as defined in section 1059c(b)(3) of title 20), Alaskan <sup>1</sup> Native-serving institutions (as defined in section 1059d(b)(2) of title 20), Native Hawaiian-serving institutions (as defined in section 1059d(b)(4) of title 20), and minority educational institutions (as defined by the Secretary of Education pursuant to the General Education Provisions Act (20 U.S.C. 1221 et seq.)).
 
-To facilitate progress in reaching this goal, the NASA Administrator shall submit withinone year from Nov. 9, 1989, a plan describing the process to be followed to achieve the prescribed level of participation in the shortest practicable time.
+To facilitate progress in reaching this goal, the NASA Administrator shall submit within one year from Nov. 9, 1989, a plan describing the process to be followed to achieve the prescribed level of participation in the shortest practicable time.
 
 (Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 863; Pub. L. 109–155, title VI, §611, Dec. 30, 2005, 119 Stat. 2932.)
 

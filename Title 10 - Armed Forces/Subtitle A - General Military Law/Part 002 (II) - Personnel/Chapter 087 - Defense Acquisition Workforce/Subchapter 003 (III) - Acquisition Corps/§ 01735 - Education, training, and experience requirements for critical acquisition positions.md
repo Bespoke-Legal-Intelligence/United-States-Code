@@ -18,7 +18,7 @@ Program Managers and Deputy Program Managers.—Before being assigned to a posit
 
 &emsp;&emsp;(B) a program manager of a significant nonmajor defense acquisition program, must have at least six years of experience in acquisition;
 
-&emsp;&emsp;(C) a deputy program manager of a major defense acquisition program, must have at least six years of experience in acquisition, at least two years of which were performed in a systems program office or similar organization; and
+&emsp;&emsp;(C) a deputy program manager of a major defense acquisition program, must have at least six years of experience in acquisition,at least two years of which were performed in a systems program office or similar organization; and
 
 &emsp;&emsp;(D) a deputy program manager of a significant nonmajor defense acquisition program, must have at least four years of experience in acquisition.
 
@@ -55,6 +55,4 @@ Senior Contracting Officials.—Before a person may be assigned to a critical ac
 #### Fulfillment Standards for Mandatory Training
 
 For provisions relating to development of fulfillment standards for purposes of the training requirements of this section, see section 812(c) of Pub. L. 102–484, set out as a note under section 1723 of this title.
-
-§1736
 

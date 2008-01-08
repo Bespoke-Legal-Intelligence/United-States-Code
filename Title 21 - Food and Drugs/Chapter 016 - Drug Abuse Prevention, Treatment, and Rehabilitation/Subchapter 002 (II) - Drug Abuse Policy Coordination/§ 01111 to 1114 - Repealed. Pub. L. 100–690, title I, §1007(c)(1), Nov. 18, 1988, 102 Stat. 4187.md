@@ -16,7 +16,7 @@ Section 1113, Pub. L. 92–255, title II, §203, as added Pub. L. 96–181, §4,
 
 A prior section 1113, Pub. L. 92–255, title II, §203, as added Pub. L. 94–237, §4(b), Mar. 19, 1976, 90 Stat. 242, which provided for the appointment and functions of Deputy Director of the Office of Drug Abuse Policy, was omitted in the general revision of this subchapter by Pub. L. 96–181, §4, Jan. 2, 1980, 93 Stat. 1309.
 
-Another prior section 1113, Pub. L. 92–255, title II, §203, Mar. 21, 1972, 86 Stat. 68, which provided for theappointment of a Deputy Director of the Special Office for Drug Abuse Prevention, was repealed by Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67, eff. June 30, 1975.
+Another prior section 1113, Pub. L. 92–255, title II, §203, Mar. 21, 1972, 86 Stat. 68, which provided for the appointment of a Deputy Director of the Special Office for Drug Abuse Prevention, was repealed by Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67, eff. June 30, 1975.
 
 Section 1114, Pub. L. 92–255, title II, §204, as added Pub. L. 96–181, §4, Jan. 2, 1980, 93 Stat. 1310, related to acceptance of uncompensated services.
 

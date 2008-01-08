@@ -8,7 +8,7 @@
 
 &emsp;(2) place or direct the placement of bait on or adjacent to an area for the purpose of causing, inducing, or allowing any person to take or attempt to take any migratory game bird by the aid of baiting on or over the baited area.
 
-(July 3, 1918, ch. 128, §3, 40 Stat. 755; June 20, 1936, ch. 634, §2, 49 Stat. 1556; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 105–312, title I, §102, Oct. 30, 1998, 112 Stat. 2956.)
+(July 3, 1918, ch. 128, §3, 40 Stat. 755; June 20, 1936, ch. 634, §2, 49 Stat. 1556; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat.1433; Pub. L. 105–312, title I, §102, Oct. 30, 1998, 112 Stat. 2956.)
 
 #### Amendments
 
@@ -26,11 +26,11 @@ Transfer of functions of Secretary of Agriculture to Secretary of the Interior b
 
 #### Delegation of Functions
 
-For delegation to Secretary of the Interior of authority vested in President, see Ex. Ord. No. 10752, Feb. 12,1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
+For delegation to Secretary of the Interior of authority vested in President, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
 
 Secretary of the Interior empowered to promulgate regulations under this section without approval, ratification, or other action of President, see section 2(b) of Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under section 301 of Title 3, The President.
 
 #### Report on Effects of 1998 Amendments
 
-Pub. L. 105–312, title I, §104, Oct. 30, 1998, 112 Stat. 2956, provided that: “Not later than 5 years after the date of enactment of this Act \[Oct. 30, 1998\], the Secretary of the Interior shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report analyzing the effect of the amendments made by section 2 \[probably should be section 102, which amended this section\], and the general practice of baiting, on migratory bird conservation and law enforcement efforts under the Migratory Bird Treaty Act (16 U.S.C. 701 et seq.) \[16 U.S.C. 703 et seq.\].”
+Pub. L. 105–312, title I, §104, Oct. 30, 1998, 112 Stat. 2956, provided that: “Not later than 5 years after the date of enactment of this Act \[Oct. 30, 1998\], the Secretary of the Interior shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report analyzing the effect of the amendments made by section 2 \[probably should be section 102, which amended this section\], and the general practice of baiting, on migratory bird conservation and law enforcement efforts under the Migratory Bird Treaty Act (16 U.S.C. 701 et seq.) \[16 U.S.C. 703 et seq.\].”
 

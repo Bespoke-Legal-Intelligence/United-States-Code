@@ -2,7 +2,7 @@
 
 #### (a) Secretary of the Treasury as subscribing authority
 
-The Secretary of the Treasury is authorized to subscribe on behalf of the United States to fivethousand one hundred shares of the capital stock of the Corporation: <i>Provided, however</i>, That the subscription shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+The Secretary of the Treasury is authorized to subscribe on behalf of the United States to five thousand one hundred shares of the capital stock of the Corporation: <i>Provided, however</i>, That the subscription shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 #### (b) Authorization of appropriations
 

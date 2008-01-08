@@ -12,7 +12,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) a commercial vessel transporting passengers engaged in gambling aboard the vessel beyond the territorial waters of the United States,
 
-> &emsp;&emsp;during which passengers embark or disembark the vessel in the United States. Such term shall not include any voyage on any vessel owned or operated by the United States, a State, or any agency or subdivision thereof.
+> &emsp;&emsp;during which passengers embark or disembark the vessel in the United States.Such term shall not include any voyage on any vessel owned or operated by the United States, a State, or any agency or subdivision thereof.
 
 #### (B) Exception for certain voyages on passenger vessels
 

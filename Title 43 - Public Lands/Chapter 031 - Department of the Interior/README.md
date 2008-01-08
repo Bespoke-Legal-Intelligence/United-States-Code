@@ -51,6 +51,7 @@
 | [1474c.](%C2%A7%2001474c%20-%20North%20American%20Wetlands%20Conservation%20Fund%3B%20availability%20of%20fines%20or%20forfeitures.md) | North American Wetlands Conservation Fund; availability of fines or forfeitures. |
 | [1474d.](%C2%A7%2001474d%20-%20Environmental%20Improvement%20and%20Restoration%20Fund.md) | Environmental Improvement and Restoration Fund. |
 | [1474e.](%C2%A7%2001474e%20-%20Sums%20received%20by%20the%20Bureau%20of%20Land%20Management%20for%20the%20sale%20of%20seeds.md) | Sums received by the Bureau of Land Management for the sale of seeds. |
+| [1474f.](%C2%A7%2001474f%20-%20Sums%20received%20by%20the%20Bureau%20of%20Land%20Management%20from%20vendors%20under%20enterprise%20information%20technology-procurements.md) | Sums received by the Bureau of Land Management from vendors under enterprise information technology-procurements. |
 | [1475\.](%C2%A7%2001475%20-%20Bureau%20of%20Reclamation%20acceptance%20of%20services%20of%20volunteers.md) | Bureau of Reclamation acceptance of services of volunteers. |
 | [1475a.](%C2%A7%2001475a%20-%20Participation%20of%20non-Federal%20entities%20in%20contract%20negotiations%20and%20source%20selection%20proceedings.md) | Participation of non-Federal entities in contract negotiations and source selection proceedings. |
 | [1475b](%C2%A7%2001475b%20-%20Volunteer%20authority.md) | Volunteer authority. |
@@ -111,6 +112,7 @@
 - [&sect; 01474c - North American Wetlands Conservation Fund; availability of fines or forfeitures](%C2%A7%2001474c%20-%20North%20American%20Wetlands%20Conservation%20Fund%3B%20availability%20of%20fines%20or%20forfeitures.md)
 - [&sect; 01474d - Environmental Improvement and Restoration Fund](%C2%A7%2001474d%20-%20Environmental%20Improvement%20and%20Restoration%20Fund.md)
 - [&sect; 01474e - Sums received by the Bureau of Land Management for the sale of seeds](%C2%A7%2001474e%20-%20Sums%20received%20by%20the%20Bureau%20of%20Land%20Management%20for%20the%20sale%20of%20seeds.md)
+- [&sect; 01474f - Sums received by the Bureau of Land Management from vendors under enterprise information technology-procurements](%C2%A7%2001474f%20-%20Sums%20received%20by%20the%20Bureau%20of%20Land%20Management%20from%20vendors%20under%20enterprise%20information%20technology-procurements.md)
 - [&sect; 01475 - Bureau of Reclamation acceptance of services of volunteers](%C2%A7%2001475%20-%20Bureau%20of%20Reclamation%20acceptance%20of%20services%20of%20volunteers.md)
 - [&sect; 01475a - Participation of non-Federal entities in contract negotiations and source selection proceedings](%C2%A7%2001475a%20-%20Participation%20of%20non-Federal%20entities%20in%20contract%20negotiations%20and%20source%20selection%20proceedings.md)
 - [&sect; 01475b - Volunteer authority](%C2%A7%2001475b%20-%20Volunteer%20authority.md)

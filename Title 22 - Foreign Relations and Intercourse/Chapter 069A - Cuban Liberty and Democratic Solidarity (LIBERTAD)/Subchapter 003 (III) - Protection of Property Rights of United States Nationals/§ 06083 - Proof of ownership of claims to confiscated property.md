@@ -8,7 +8,7 @@
 
 #### (2) Claims not certified
 
-&emsp;If in an action under this subchapter a claim has not been so certified by the Foreign Claims Settlement Commission, the courtmay appoint a special master, including the Foreign Claims Settlement Commission, to make determinations regarding the amount and ownership of the claim. Such determinations are only for evidentiary purposes in civil actions brought under this subchapter and do not constitute certifications under title V of the International Claims Settlement Act of 1949.
+&emsp;If in an action under this subchapter a claim has not been so certified by the Foreign Claims Settlement Commission, the court may appoint a special master, including the Foreign Claims Settlement Commission, to make determinations regarding the amount and ownership of the claim. Such determinations are only for evidentiary purposes in civil actions brought under this subchapter and do not constitute certifications under title V of the International Claims Settlement Act of 1949.
 
 #### (3) Effect of determinations of foreign or international entities
 

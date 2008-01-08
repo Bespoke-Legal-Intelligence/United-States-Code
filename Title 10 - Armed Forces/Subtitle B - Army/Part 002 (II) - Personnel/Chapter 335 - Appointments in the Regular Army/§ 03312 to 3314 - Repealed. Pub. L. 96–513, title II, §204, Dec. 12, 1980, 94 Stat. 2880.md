@@ -1,7 +1,5 @@
 ### \[§§3312 to 3314. Repealed. Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880\]
 
-§3314
-
 Section 3312, act Aug. 10, 1956, ch. 1041, 70A Stat. 193, provided that an officer who is promoted in Regular Army is considered to have accepted his promotion on date of the order announcing it, unless he expressly declines it, without the need to take oath of office upon promotion if his service since last taking it has been continuous. See section 626 of this title.
 
 Section 3313, act Aug. 10, 1956, ch. 1041, 70A Stat. 193, provided that in time of war or national emergency declared by Congress or President, President may suspend operation of provision of law relating to promotion, mandatory retirement, or separation of commissioned officers of the Regular Army. See section 123(a) and (b) of this title.
@@ -11,8 +9,4 @@ Section 3314, added Pub. L. 85–861, §1(79)(A), Sept. 2, 1958, 72 Stat. 1467, 
 #### Effective Date of Repeal
 
 Repeal effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
-
-§3351
-
-### <b>\[CHAPTER 337—REPEALED\]</b>
 

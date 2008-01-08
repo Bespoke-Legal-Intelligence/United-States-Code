@@ -16,7 +16,7 @@ For purposes of this section, in the case of an individual who was in a missing 
 
 #### (1) In general
 
-&emsp;In the case of any individual who dies while a military or civilian employee of the UnitedStates, if such death occurs as a result of wounds or injury which was incurred while the individual was a military or civilian employee of the United States and which was incurred in a terroristic or military action, any tax imposed by this subtitle shall not apply—
+&emsp;In the case of any individual who dies while a military or civilian employee of the United States, if such death occurs as a result of wounds or injury which was incurred while the individual was a military or civilian employee of the United States and which was incurred in a terroristic or military action, any tax imposed by this subtitle shall not apply—
 
 &emsp;&emsp;(A) with respect to the taxable year in which falls the date of his death, and
 
@@ -56,7 +56,7 @@ For purposes of this section, in the case of an individual who was in a missing 
 
 &emsp;&emsp;(A) deferred compensation which would have been payable after death if the individual had died other than as a specified terrorist victim, or
 
-&emsp;&emsp;(B) amounts payable in the taxable year which would not have been payable in such taxable year but for an action taken after September 11, 2001.
+&emsp;&emsp;(B) amounts payable in the taxable year which would not have been payable in suchtaxable year but for an action taken after September 11, 2001.
 
 #### (4) Specified terrorist victim
 
@@ -96,7 +96,7 @@ Subsec. (d). Pub. L. 107–134, §101(a), added subsec. (d).
 
 1984—Subsec. (c). Pub. L. 98–259 added subsec. (c).
 
-Subsec. (c)(1). Pub. L. 98–369, §722(g)(2), which directed amendment of par. (1) of this section by substituting “as a result of wounds or injury which was incurred while the individual was a military or civilian employee of the United States and which was incurred”for “as a result of wounds or injury incurred” was executed to par. (1) of subsec. (c) to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 98–369, §722(g)(2), which directed amendment of par. (1) of this section by substituting “as a result of wounds or injury which was incurred while the individual was a military or civilian employee of the United States and which was incurred” for “as a result of wounds or injury incurred” was executed to par. (1) of subsec. (c) to reflect the probable intent of Congress.
 
 Subsec. (c)(2)(A). Pub. L. 98–369, §722(g)(3), inserted “which a preponderance of the evidence indicates was”.
 
@@ -148,7 +148,7 @@ Section 1(b) of Pub. L. 98–259 as amended by Pub. L. 98–369, div. A, title V
 
 “(1)
 
-In general.—The amendment made by subsection (a) \[amending this section\] shall apply with respect to all taxable years (whether beginning before, on, or after the date of enactment of this Act \[Apr. 10, 1984\]) of individuals dying after November 17, 1978, as a result of wounds or injuries incurred after such date.
+In general.—The amendment made by subsection (a) \[amending this section\] shall apply with respect to all taxable years (whether beginning before,on, or after the date of enactment of this Act \[Apr. 10, 1984\]) of individuals dying after November 17, 1978, as a result of wounds or injuries incurred after such date.
 
 “(2)
 

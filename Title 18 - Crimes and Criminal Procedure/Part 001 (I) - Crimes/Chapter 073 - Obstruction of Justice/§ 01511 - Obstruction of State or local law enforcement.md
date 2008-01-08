@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) involves five or more persons who conduct, finance, manage, supervise, direct, or own all or part of such business; and
 
-&emsp;&emsp;(iii) has been or remains in substantially continuous operation for a period in excess of thirty days or has a gross revenue of $2,000 in any single day.
+&emsp;&emsp;(iii) has been or remains in substantially continuous operation for a period in excessof thirty days or has a gross revenue of $2,000 in any single day.
 
 &emsp;(2) “gambling” includes but is not limited to pool-selling, bookmaking, maintaining slot machines, roulette wheels, or dice tables, and conducting lotteries, policy, bolita or numbers games, or selling chances therein.
 

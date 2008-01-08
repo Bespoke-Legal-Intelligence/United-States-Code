@@ -132,7 +132,7 @@ Continuation of current rules.—Except as provided in subparagraph (B), any pet
 
 &emsp;&emsp;“(B)
 
-Permitting withdrawal and consideration of application under new rules.—In the case of any petition for naturalization which may be pending in any court on January 1, 1992, the petitioner may withdraw such petition and have the petitioner's application for naturalization considered under the amendments made by this title \[amending thissection, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, and repealing section 1459 of this title\], but only if the petition is withdrawn not later than 3 months after the effective date.
+Permitting withdrawal and consideration of application under new rules.—In the case of any petition for naturalization which may be pending in any court on January 1, 1992, the petitioner may withdraw such petition and have the petitioner's application for naturalization considered under the amendments made by this title \[amending this section, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, and repealing section 1459 of this title\], but only if the petition is withdrawn not later than 3 months after the effective date.
 
 &emsp;“(3)
 

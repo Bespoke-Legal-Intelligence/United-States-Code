@@ -98,7 +98,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (A) In general
 
-&emsp;&emsp;To the extent needed to fulfill all plans of care described in paragraph (2), a skilled nursing facility must provide, directly or under arrangements (or, with respect to dental services, under agreements) with others for the provision of—
+&emsp;&emsp;To the extent needed to fulfill all plans of care described in paragraph (2), a skillednursing facility must provide, directly or under arrangements (or, with respect to dental services, under agreements) with others for the provision of—
 
 &emsp;&emsp;&emsp;(i) nursing services and specialized rehabilitative services to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident;
 
@@ -118,7 +118,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (B) Qualified persons providing services
 
-&emsp;&emsp;Services described in clauses (i), (ii), (iii), (iv), and (vi) of subparagraph (A) must beprovided by qualified persons in accordance with each resident's written plan of care.
+&emsp;&emsp;Services described in clauses (i), (ii), (iii), (iv), and (vi) of subparagraph (A) must be provided by qualified persons in accordance with each resident's written plan of care.
 
 #### (C) Required nursing care
 
@@ -160,7 +160,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (C) Competency
 
-&emsp;&emsp;The skilled nursing facility must not permit an individual, other than in a training and competency evaluation program approved by the State, to serve as a nurse aide or provide services of a type for which the individual has not demonstrated competency and must not use such an individual as a nurse aide unless the facility has inquired of any State registry established under subsection (e)(2)(A) of this section that the facility believes will include information concerning the individual.
+&emsp;&emsp;The skilled nursing facility must not permit an individual, other than in a trainingand competency evaluation program approved by the State, to serve as a nurse aide or provide services of a type for which the individual has not demonstrated competency and must not use such an individual as a nurse aide unless the facility has inquired of any State registry established under subsection (e)(2)(A) of this section that the facility believes will include information concerning the individual.
 
 #### (D) Re-training required
 
@@ -260,7 +260,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (x) Refusal of certain transfers
 
-&emsp;&emsp;&emsp;The right to refuse a transfer to another room within the facility, if a purpose ofthe transfer is to relocate the resident from a portion of the facility that is a skilled nursing facility (for purposes of this subchapter) to a portion of the facility that is not such a skilled nursing facility.
+&emsp;&emsp;&emsp;The right to refuse a transfer to another room within the facility, if a purpose of the transfer is to relocate the resident from a portion of the facility that is a skilled nursing facility (for purposes of this subchapter) to a portion of the facility that is not such a skilled nursing facility.
 
 #### (xi) Other rights
 
@@ -330,7 +330,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;&emsp;(I) in a case described in clause (iii) or (iv) of subparagraph (A);
 
-&emsp;&emsp;&emsp;&emsp;(II) in a case described in clause (ii) of subparagraph (A), where the resident'shealth improves sufficiently to allow a more immediate transfer or discharge;
+&emsp;&emsp;&emsp;&emsp;(II) in a case described in clause (ii) of subparagraph (A), where the resident's health improves sufficiently to allow a more immediate transfer or discharge;
 
 &emsp;&emsp;&emsp;&emsp;(III) in a case described in clause (i) of subparagraph (A), where a more immediate transfer or discharge is necessitated by the resident's urgent medical needs; or
 
@@ -382,7 +382,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (i) No preemption of stricter standards
 
-&emsp;&emsp;&emsp;Subparagraph (A) shall not be construed as preventing States or political subdivisions therein from prohibiting, under State or local law, the discrimination against individuals who are entitled to medical assistance under this subchapter with respect to admissions practices of skilled nursing facilities.
+&emsp;&emsp;&emsp;Subparagraph (A) shall not be construed as preventing States or political subdivisions therein from prohibiting, under State or local law, the discriminationagainst individuals who are entitled to medical assistance under this subchapter with respect to admissions practices of skilled nursing facilities.
 
 #### (ii) Contracts with legal representatives
 
@@ -404,7 +404,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (i) Deposit
 
-&emsp;&emsp;&emsp;The facility must deposit any amount of personal funds in excess of $100 with respect to a resident in an interest bearing account (or accounts) that is separate from any of the facility's operating accounts and credits <sup>3</sup> all interest earned onsuch separate account to such account. With respect to any other personal funds, the facility must maintain such funds in a non-interest bearing account or petty cash fund.
+&emsp;&emsp;&emsp;The facility must deposit any amount of personal funds in excess of $100 with respect to a resident in an interest bearing account (or accounts) that is separate from any of the facility's operating accounts and credits <sup>3</sup> all interest earned on such separate account to such account. With respect to any other personal funds, the facility must maintain such funds in a non-interest bearing account or petty cash fund.
 
 #### (ii) Accounting and records
 
@@ -460,7 +460,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(i) the Secretary may waive, for such periods as he deems appropriate, specific provisions of such Code which if rigidly applied would result in unreasonable hardship upon a facility, but only if such waiver would not adversely affect the health and safety of residents or personnel, and
 
-&emsp;&emsp;&emsp;(ii) the provisions of such Code shall not apply in any State if the Secretary finds that in such State there is in effect a fire and safety code, imposed by State law, which adequately protects residents of and personnel in skilled nursing facilities.
+&emsp;&emsp;&emsp;(ii) the provisions of such Code shall not apply in any State if the Secretary finds that in such State there is in effect a fire and safety code, imposed by State law,which adequately protects residents of and personnel in skilled nursing facilities.
 
 #### (3) Sanitary and infection control and physical environment
 
@@ -522,7 +522,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;(A) one of the instruments designated under subsection (f)(6)(B) of this section, or
 
-&emsp;&emsp;(B) an instrument which the Secretary has approved as being consistent with the minimum data set of core elements, common definitions, and utilization guidelines specified by the Secretary under subsection (f)(6)(A) of this section.
+&emsp;&emsp;(B) an instrument which the Secretary has approved as being consistent with the minimum data set of core elements, commondefinitions, and utilization guidelines specified by the Secretary under subsection (f)(6)(A) of this section.
 
 #### (f) Responsibilities of Secretary relating to skilled nursing facility requirements
 
@@ -650,7 +650,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a finding of neglect under subparagraph (C), the State shall establisha procedure to permit a nurse aide to petition the State to have his or her name removed from the registry upon a determination by the State that—
+&emsp;&emsp;&emsp;In the case of a finding of neglect under subparagraph (C), the State shall establish a procedure to permit a nurse aide to petition the State to have his or her name removed from the registry upon a determination by the State that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the employment and personal history of the nurse aide does not reflect a pattern of abusive behavior or neglect; and
 
@@ -896,7 +896,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 Where requirements or obligations under this section are identical to those provided under section 1396r of this title, the fulfillment of those requirements or obligations under section 1396r of this title shall be considered to be the fulfillment of the corresponding requirements or obligations under this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1819, as added and amended Pub. L. 100–203, title IV, §§4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, 101 Stat. 1330–160, 1330–175, 1330–179, 1330–182;Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, 102 Stat. 800–805, as amended Pub. L. 100–485, title VI, §608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, 102 Stat. 2422, 2423; Pub. L. 101–239, title VI, §6901(b)(1), (3), (d)(4), Dec. 19, 1989, 103 Stat. 2298, 2301; Pub. L. 101–508, title IV, §§4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, 104 Stat. 1388–46 to 1388–50, 1388–54, 1388–116; Pub. L. 102–375, title VII, §708(a)(1)(A), Sept. 30, 1992, 106 Stat. 1291; Pub. L. 103–432, title I, §§106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, 108 Stat. 4406–4408; Pub. L. 105–15, §1, May 15, 1997, 111 Stat. 34; Pub. L. 105–33, title IV, §§4432(b)(5)(A), 4755(a), Aug. 5, 1997, 111 Stat. 421, 526; Pub. L. 106–554, §1(a)(6) \[title IX, §941(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 108–173, title VII, §736(a)(8), title IX, §932(c)(2), Dec. 8, 2003, 117 Stat. 2355, 2401.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1819, as added and amended Pub. L. 100–203, title IV, §§4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, 101 Stat. 1330–160, 1330–175, 1330–179, 1330–182; Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, 102 Stat. 800–805, as amended Pub. L. 100–485, title VI, §608(d)(27)(A), (C), (D), (I), (L), Oct. 13, 1988, 102 Stat. 2422, 2423; Pub. L. 101–239, title VI, §6901(b)(1), (3), (d)(4), Dec. 19, 1989, 103 Stat. 2298, 2301; Pub. L. 101–508, title IV, §§4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, 104 Stat. 1388–46 to 1388–50, 1388–54, 1388–116; Pub. L. 102–375, title VII, §708(a)(1)(A), Sept. 30, 1992, 106 Stat. 1291; Pub. L. 103–432, title I, §§106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, 108 Stat. 4406–4408; Pub. L. 105–15, §1, May 15, 1997, 111 Stat. 34; Pub. L. 105–33, title IV, §§4432(b)(5)(A), 4755(a), Aug. 5, 1997, 111 Stat. 421, 526; Pub. L. 106–554, §1(a)(6) \[title IX, §941(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 108–173, title VII, §736(a)(8), title IX, §932(c)(2), Dec. 8, 2003, 117 Stat. 2355, 2401.)
 
 #### References in Text
 
@@ -970,7 +970,7 @@ Subsec. (b)(5)(F)(i). Pub. L. 101–508, §4008(h)(2)(F), substituted “(G)) or
 
 Subsec. (c)(1)(A). Pub. L. 101–508, §4008(h)(2)(G)(B)\[(ii)\], inserted at end “A resident's exercise of a right to refuse transfer under clause (x) shall not affect the resident's eligibility or entitlement to benefits under this subchapter or to medical assistance under subchapter XIX of this chapter.”
 
-Subsec. (c)(1)(A)(iv). Pub. L. 101–508, §4008(h)(2)(H), inserted before period at end “and to access to currentclinical records of the resident upon request by the resident or the resident's legal representative, within 24 hours (excluding hours occurring during a weekend or holiday) after making such a request”.
+Subsec. (c)(1)(A)(iv). Pub. L. 101–508, §4008(h)(2)(H), inserted before period at end “and to access to current clinical records of the resident upon request by the resident or the resident's legal representative, within 24 hours (excluding hours occurring during a weekend or holiday) after making such a request”.
 
 Subsec. (c)(1)(A)(x), (xi). Pub. L. 101–508, §4008(h)(2)(G)(i), added cl. (x) and redesignated former cl. (x) as (xi).
 
@@ -1054,7 +1054,7 @@ Pub. L. 100–360, §411(<i>l</i>)(1)(A)(viii), formerly §411(<i>l</i>)(1)(A)(v
 
 Subsec. (e)(5). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(ix), formerly §411(<i>l</i>)(1)(A)(viii), as redesignated by Pub. L. 100–485, §608(d)(27)(A), substituted “1990” for “1989” in introductory provisions.
 
-Subsec. (f)(2)(A)(i)(I). Pub. L. 100–360, §411(<i>l</i>)(2)(J), substituted “recognition of mental health and socialservice needs” for “cognitive, behavioral and social care”.
+Subsec. (f)(2)(A)(i)(I). Pub. L. 100–360, §411(<i>l</i>)(2)(J), substituted “recognition of mental health and social service needs” for “cognitive, behavioral and social care”.
 
 Subsec. (f)(3). Pub. L. 100–360, §411(<i>l</i>)(2)(I), inserted “and discharges” after “transfers” in heading and in text.
 
@@ -1104,7 +1104,7 @@ Section 4432(d) of Pub. L. 105–33 provided that: “The amendments made by thi
 
 #### Effective Date of 1994 Amendment
 
-Section 106(c)(1)(B) of Pub. L. 103–432 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
+Section 106(c)(1)(B) of Pub. L. 103–432 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
 
 Section 106(c)(2)(B) of Pub. L. 103–432 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of OBRA–1987 \[Pub. L. 100–203\].”
 
@@ -1276,7 +1276,7 @@ Section 6901(b)(2) of Pub. L. 101–239 provided that: “The Secretary of Healt
 
 Section 6901(b)(4)(B)–(D) of Pub. L. 101–239 provided that:
 
-“(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and section 1396r(b)(5)(A) of this title\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and section 1396r(e)(1)(A) of this title\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
+“(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and section 1396r(b)(5)(A) of this title\] (of having completed a training and competency evaluation programapproved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and section 1396r(e)(1)(A) of this title\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
 
 “(C) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act), if such aide was found competent (whether or not by the State), before July 1, 1989, after the completion of a course of nurse aide training of at least 100 hours duration.
 

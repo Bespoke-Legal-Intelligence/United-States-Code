@@ -2,7 +2,7 @@
 
 (a)(1) It is the policy of the Congress that the privilege of sending mail as franked mail shall be established under this section in order to assist and expedite the conduct of the official business, activities, and duties of the Congress of the United States.
 
-(2) It is the intent of the Congress that such official business, activities, and duties cover all matters which directly or indirectly pertain to the legislative process or to any congressional representative functions generally, or to the functioning, working, or operating of the Congress and the performance of official duties in connection therewith, and shall include, but notbe limited to, the conveying of information to the public, and the requesting of the views of the public, or the views and information of other authority of government, as a guide or a means of assistance in the performance of those functions.
+(2) It is the intent of the Congress that such official business, activities, and duties cover all matters which directly or indirectly pertain to the legislative process or to any congressional representative functions generally, or to the functioning, working, or operating of the Congress and the performance of official duties in connection therewith, and shall include, but not be limited to, the conveying of information to the public, and the requesting of the views of the public, or the views and information of other authority of government, as a guide or a means of assistance in the performance of those functions.
 
 (3) It is the intent of the Congress that mail matter which is frankable specifically includes, but is not limited to—
 
@@ -42,7 +42,7 @@
 
 &emsp;(C) mail matter which specifically solicits political support for the sender or any other person or any political party, or a vote or financial assistance for any candidate for any public office.
 
-> The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at or delivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
+> The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, asthe Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at or delivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
 
 (6)(A) It is the intent of Congress that a Member of, or Member-elect to, Congress may not mail any mass mailing as franked mail—
 
@@ -88,7 +88,7 @@
 
 (4) Any franked mail which is mailed under this subsection shall be mailed at the equivalent rate of postage which assures that the mail will be sent by the most economical means practicable.
 
-(5) The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulationsgoverning any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection
+(5) The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations governing any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection
 
 (6)(A) Any Member of, or Member-elect to, the House of Representatives entitled to make any mailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 
@@ -152,7 +152,7 @@ Subsec. (a)(6)(F). Pub. L. 101–163, §318(4), added subpar. (F).
 
 1981—Subsec. (a)(3)(F). Pub. L. 97–69, §1, struck out provision relating to mail matter expressing condolences to a person who has suffered a loss.
 
-Subsec. (a)(5). Pub. L. 97–69, §2(a), inserted provision relating to brief references in otherwise frankable mailin subpar. (B)(i), and struck out subpar. (D) which related to mass mailing mailed at or delivered to any postal facility less than 28 days immediately before the date of any primary or general election in which the Member or Member-elect was a candidate for public office. See subsec. (a)(6) of this section.
+Subsec. (a)(5). Pub. L. 97–69, §2(a), inserted provision relating to brief references in otherwise frankable mail in subpar. (B)(i), and struck out subpar. (D) which related to mass mailing mailed at or delivered to any postal facility less than 28 days immediately before the date of any primary or general election in which the Member or Member-elect was a candidate for public office. See subsec. (a)(6) of this section.
 
 Subsec. (a)(6). Pub. L. 97–69, §2(b), added par. (6).
 
@@ -216,7 +216,7 @@ Pub. L. 103–283, title I, §§5, 6, July 22, 1994, 108 Stat. 1427, provided th
 
 “
 
-Sec. 5. Effective October 1, 1994, each of the figures contained in section 506(b)(3)(A)(iii) of the Supplemental Appropriations Act, 1973 (2 U.S.C. 58(b)(3)(A)(iii)) is increased by $50,000: <i>Provided</i>, That, in any fiscal year beginning with fiscal year 1995, a Senator may use funds provided for official office expenses, but not to exceed $50,000, for mass mailing, as defined in section 6(b)(1) and all such mass mailings shall be under the frank.
+Sec. 5. Effective October 1, 1994, each of the figures contained in section 506(b)(3)(A)(iii) of the Supplemental Appropriations Act, 1973 (2 U.S.C.58(b)(3)(A)(iii)) is increased by $50,000: <i>Provided</i>, That, in any fiscal year beginning with fiscal year 1995, a Senator may use funds provided for official office expenses, but not to exceed $50,000, for mass mailing, as defined in section 6(b)(1) and all such mass mailings shall be under the frank.
 
 “
 

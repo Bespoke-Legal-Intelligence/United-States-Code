@@ -32,11 +32,13 @@
 
 &emsp;&emsp;&emsp;(iii) carried out, as appropriate, with a minimum degree of notice to involved parties regarding the timing and details of such exercises, consistent with safety considerations;
 
-&emsp;&emsp;&emsp;(iv) designed to provide for systematic evaluation of readiness; and
+&emsp;&emsp;&emsp;(iv) designed to provide for the systematic evaluation of readiness and enhance operational understanding of the incident command system and relevant mutual aid agreements;
 
-&emsp;&emsp;&emsp;(v) designed to address the unique requirements of populations with special needs; and
+&emsp;&emsp;&emsp;(v) designed to address the unique requirements of populations with special needs, including the elderly; and
 
-&emsp;&emsp;(B) shall provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises that—
+&emsp;&emsp;&emsp;(vi) designed to promptly develop after-action reports and plans for quickly incorporating lessons learned into future operations; and
+
+&emsp;&emsp;(B) shall include a selection of model exercises that State, local, and tribal governments can readily adapt for use and provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises (whether a model exercise program or an exercise designed locally) that—
 
 &emsp;&emsp;&emsp;(i) conform to the requirements under subparagraph (A);
 
@@ -52,5 +54,15 @@
 
 &emsp;&emsp;(B) To test and evaluate the readiness of Federal, State, local, and tribal governments to respond and recover in a coordinated and unified manner to catastrophic incidents.
 
-(Pub. L. 109–295, title VI, §648, Oct. 4, 2006, 120 Stat. 1427.)
+(Pub. L. 109–295, title VI, §648, Oct. 4, 2006, 120 Stat. 1427; Pub. L. 110–53, title IV, §§402, 403, Aug. 3, 2007, 121 Stat. 302, 303.)
+
+#### Amendments
+
+2007—Subsec. (b)(2)(A)(iv) to (vi). Pub. L. 110–53, §402, added cls. (iv) to (vi) and struck out former cls. (iv) and (v) which read as follows:
+
+“(iv) designed to provide for systematic evaluation of readiness; and
+
+“(v) designed to address the unique requirements of populations with special needs; and”.
+
+Subsec. (b)(2)(B). Pub. L. 110–53, §403, in introductory provisions, substituted “shall include a selection of model exercises that State, local, and tribal governments can readily adapt for use and provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises (whether a model exercise program or an exercise designed locally)” for “shall provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises”.
 

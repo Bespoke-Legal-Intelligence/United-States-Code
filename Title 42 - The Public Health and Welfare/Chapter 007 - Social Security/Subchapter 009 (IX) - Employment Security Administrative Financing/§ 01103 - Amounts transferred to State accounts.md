@@ -2,7 +2,7 @@
 
 #### (a) Determination and certification by Secretary of Labor
 
-(1) If as of the close of any fiscal year after the fiscal year ending June 30, 1972, the amount inthe extended unemployment compensation account has reached the limit provided in section 1105(b)(2) of this title and the amount in the Federal unemployment account has reached the limit provided in section 1102(a) of this title and all advances and interest pursuant to section 1105(d) of this title and section 1323 of this title have been repaid, and there remains in the employment security administration account any amount over the amount provided in section 1101(f)(3)(A) of this title, such excess amount, except as provided in subsection (b) of this section, shall be transferred (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund.
+(1) If as of the close of any fiscal year after the fiscal year ending June 30, 1972, the amount in the extended unemployment compensation account has reached the limit provided in section 1105(b)(2) of this title and the amount in the Federal unemployment account has reached the limit provided in section 1102(a) of this title and all advances and interest pursuant to section 1105(d) of this title and section 1323 of this title have been repaid, and there remains in the employment security administration account any amount over the amount provided in section 1101(f)(3)(A) of this title, such excess amount, except as provided in subsection (b) of this section, shall be transferred (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund.
 
 (2) Each State's share of the funds to be transferred under this subsection as of any October 1—
 
@@ -46,7 +46,7 @@
 
 &emsp;(C) the money is withdrawn and the expenses are incurred after such date of enactment,
 
-&emsp;(D)(i) the appropriation law limits the total amount which may be obligated under such appropriation at any time to an amount which does not exceed, at any such time, the amount by which—
+&emsp;(D)(i) the appropriation law limits the total amount which may be obligated under such appropriation at any time to an amount whichdoes not exceed, at any such time, the amount by which—
 
 &emsp;&emsp;(I) the aggregate of the amounts transferred to the account of such State pursuant to subsections (a) and (b) of this section, exceeds
 
@@ -132,7 +132,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;(3) $85,000,000 to the account of Mississippi in the Unemployment Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V,§5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603; Pub. L. 107–147, title II, §209(a)(1), (b), Mar. 9, 2002, 116 Stat. 31; Pub. L. 109–91, title II, §201, Oct. 20, 2005, 119 Stat. 2093.)
+(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603; Pub. L. 107–147, title II, §209(a)(1), (b), Mar. 9, 2002, 116 Stat. 31; Pub. L. 109–91, title II, §201, Oct. 20, 2005, 119 Stat. 2093.)
 
 #### References in Text
 

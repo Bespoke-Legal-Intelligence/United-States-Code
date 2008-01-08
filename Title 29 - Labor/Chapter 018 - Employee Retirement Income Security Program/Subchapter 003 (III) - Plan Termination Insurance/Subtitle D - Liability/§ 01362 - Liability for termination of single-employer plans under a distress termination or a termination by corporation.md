@@ -36,13 +36,11 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 #### (c) Liability to section 1342 trustee
 
-A person described in subsection (a) of this section shall be subject to liability under this subsection to the trustee appointed under subsection (b) or (c) of section 1342 of this title. Theliability of such person under this subsection shall consist of—
+A person described in subsection (a) of this section shall be subject to liability under this subsection to the trustee appointed under subsection (b) or (c) of section 1342 of this title. The liability of such person under this subsection shall consist of—
 
-&emsp;(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
+&emsp;(1) the sum of the shortfall amortization charge (within the meaning of section 1083(c)(1) of this title and 430(d)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of shortfall amortization installments (if any) determined for succeeding plan years under section 1083(c)(2) of this title and section 430(d)(2) of title 26 (which, for purposes of this subparagraph, shall include any increase in such sum which would result if all applications for waivers of the minimum funding standard under section 1082(c) of this title and section 412(c) of title 26 which are pending with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year), and
 
-&emsp;(2) the outstanding balance of the amount of waived funding deficiencies of the plan waived before such date under section 1083 of this title or section 412(d) of title 26 (if any), and
-
-&emsp;(3) the outstanding balance of the amount of decreases in the minimum funding standard allowed before such date under section 1084 of this title or section 412(e) of title 26 (if any),
+&emsp;(2) the sum of the waiver amortization charge (within the meaning of section 1083(e)(1) of this title and 430(e)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of waiver amortization installments (if any) determined for succeeding plan years under section 1083(e)(2) of this title and section 430(e)(2) of title 26,
 
 > together with interest (at a reasonable rate) calculated from the termination date in accordance with regulations prescribed by the corporation. The liability under this subsection shall be due and payable to such trustee as of the termination date, in cash or securities acceptable to such trustee.
 
@@ -86,15 +84,15 @@ If an employer ceases operations at a facility in any location and, as a result 
 
 (Pub. L. 93–406, title IV, §4062, Sept. 2, 1974, 88 Stat. 1029; Pub. L. 95–598, title III, §321(b), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §403(g), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11011(a), (b), Apr. 7, 1986, 100 Stat. 253, 257; Pub. L. 100–203, title IX, §9312(b)(1), (2)(A), (B)(ii), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §§7881(f)(2), (10)(A), (B), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445; Pub. L. 109–280, title I, §107(b)(4), Aug. 17, 2006, 120 Stat. 819.)
 
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 109–280, title I, §107(b)(4), (e), Aug. 17, 2006, 120 Stat. 819, 820, provided that, applicable to plan years beginning after 2007, subsection (c) of this section is amended by striking out paragraphs (1) to (3) and adding new paragraphs (1) and (2) to read as follows:</i>
-
-&emsp;<i>(1) the sum of the shortfall amortization charge (within the meaning of section 1083(c)(1) of this title and 430(d)(1) of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of</i><i>shortfall amortization installments (if any) determined for succeeding plan years under section 1083(c)(2) of this title and section 430(d)(2) of title 26 (which, for purposes of this subparagraph, shall include any increase in such sum which would result if all applications for waivers of the minimum funding standard under section 1082(c) of this title and section 412(c) of title 26 which are pending with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year), and</i>
-
-&emsp;<i>(2) the sum of the waiver amortization charge (within the meaning of section 1083(e)(1) of this title and 430(e)(1) of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of waiver amortization installments (if any) determined for succeeding plan years under section 1083(e)(2) of this title and section 430(e)(2) of title 26,</i>
-
 #### Amendments
+
+2006—Subsec. (c)(1) to (3). Pub. L. 109–280 added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
+
+“(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
+
+“(2) the outstanding balance of the amount of waived funding deficiencies of the plan waived before such date under section 1083 of this title or section 412(d) of title 26 (if any), and
+
+“(3) the outstanding balance of the amount of decreases in the minimum funding standard allowed before such date under section 1084 of this title or section 412(e) of title 26 (if any),”.
 
 1989—Subsec. (a). Pub. L. 101–239, §7881(f)(2), inserted “and” at end of par. (1), redesignated par. (3) as (2), substituted “subsection (c)” for “subsection (d)”, and struck out former par. (2) which read as follows: “liability to the trust established pursuant to section 1341(c)(3)(B)(ii) or (iii) of this title or section 1342(i) of this title, to the extent provided in subsection (c) of this section, and”.
 
@@ -180,5 +178,7 @@ For special rules on applicability of amendments by subtitles A (§§101–107) 
 
 #### Special Delayed Payment Rule
 
-Section 11012(d) of Pub. L. 99–272 provided that: “In the case of a distress termination under section 4041(c) of the Employee Retirement Income Security Act of 1974 (as amended by section 11009) \[29 U.S.C. 1341(c)\] pursuant to a notice of intent to terminate filed before January 1, 1987, no payment of liability otherwise payable as provided in section 4062(c)(2)(B) of such Act \[29 U.S.C. 1362(c)(2)(B)\] (as amended by this section \[Act\]) shall be required to be made before January 1, 1989.”
+Pub. L. 99–272, title XI, §11012(d), Apr. 7, 1986, 100 Stat. 260, provided that: “In the case of a distress termination under section 4041(c) of the Employee Retirement Income Security Act of 1974 (as amended by section 11009) \[29 U.S.C. 1341(c)\] pursuant to a notice of intent to terminate filed before January 1, 1987, no payment of liability otherwise payable as provided in section 4062(c)(2)(B) of such Act \[former 29 U.S.C. 1362(c)(2)(B)\] (as amended by this section \[Act\]) shall be required to be made before January 1, 1989.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

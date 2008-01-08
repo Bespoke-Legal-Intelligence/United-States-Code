@@ -34,7 +34,7 @@ For purposes of this section, the term “prohibited transaction” means any tr
 
 #### (c) Future status of organizations denied exemption
 
-Any organization described in section 501(c) (17) or (18) or subsection (a)(1)(B) which is denied exemption under section 501(a) by reason of subsection (a) of this section, with respect to any taxable year following the taxable year in which notice of denial of exemption was received, may, under regulations prescribed by the Secretary, file claim for exemption, and if the Secretary, pursuant to such regulations, is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall be exempt with respect to taxable years after the year in which such claim is filed.
+Any organization described in section 501(c) (17) or (18) or subsection (a)(1)(B) which is denied exemption under section 501(a) by reason of subsection (a) of this section, with respect to any taxable year following the taxable year in which notice of denial of exemption was received, may, under regulations prescribed by the Secretary, file claim for exemption, and if the Secretary,pursuant to such regulations, is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall be exempt with respect to taxable years after the year in which such claim is filed.
 
 #### \[(d) Repealed. Pub. L. 101–508, title XI, §11801(a)(22), Nov. 5, 1990, 104 Stat. 1388–521\]
 
@@ -94,7 +94,7 @@ Subsec. (g). Pub. L. 93–406, §2003(b)(5), struck out subsec. (g) which covere
 
 1969—Subsec. (a)(1)(A). Pub. L. 91–172, §§101(j)(7), 121(b)(6)(B)(ii), redesignated subpar. (B) as (A) and inserted reference to section 501(c)(18). Former subpar. (A), referring to organizations described in section 501(c)(3) and to prohibited transactions engaged in after July 1, 1950, was struck out.
 
-Subsec. (a)(1)(B). Pub. L. 91–172, §101(j)(7), redesignated subpar. (C) as (B). Former subpar. (B), referring to organizations described in section 501(c)(17) was amended by addition of a reference to section 501(c)(18), and redesignated as subpar. (A).
+Subsec. (a)(1)(B). Pub. L. 91–172, §101(j)(7), redesignated subpar. (C) as (B). Former subpar. (B), referringto organizations described in section 501(c)(17) was amended by addition of a reference to section 501(c)(18), and redesignated as subpar. (A).
 
 Subsec. (a)(1)(C). Pub. L. 91–172, §§101(j)(7), 121(b)(6)(B)(i), added subpar. (C). Former subpar. (C), dealing with organizations described in section 401(a) and with prohibited transactions engaged in after Mar. 1, 1954, was redesignated as subpar. (B).
 
@@ -110,7 +110,7 @@ Subsec. (e). Pub. L. 91–172, §101(j)(11), (14), redesignated subsec. (h) as (
 
 Subsec. (f). Pub. L. 91–172, §101(j)(12), (14), redesignated subsec. (i) as (f) and substituted “Subsection (b)(1)” for “Subsection (c)(1)” and “subsection (e)” for “subsection (h)”. Former subsec. (f), defining “gift or bequest”, was struck out.
 
-Subsec. (g). Pub. L. 91–172, §101(j)(13), (14), redesignated subsec. (j) as (g) and substituted “subsection (b)”for “subsection (c)” in par. (1). Former subsec. (g) redesignated (d).
+Subsec. (g). Pub. L. 91–172, §101(j)(13), (14), redesignated subsec. (j) as (g) and substituted “subsection (b)” for “subsection (c)” in par. (1). Former subsec. (g) redesignated (d).
 
 Subsecs. (h) to (j). Pub. L. 91–172, §101(j)(14), redesignated subsecs. (h), (i), and (j) as (e), (f), and (g), respectively. Former subsecs. (e) and (f) were struck out and former subsec. (g) was redesignated (d).
 

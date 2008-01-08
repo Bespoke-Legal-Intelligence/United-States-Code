@@ -54,7 +54,7 @@
 
 #### (2) Innovative oil pollution technology
 
-&emsp;The program established under this subsection shall provide for research, development, and demonstration of new or improved technologies which are effective in preventingor mitigating oil discharges and which protect the environment, including—
+&emsp;The program established under this subsection shall provide for research, development, and demonstration of new or improved technologies which are effective in preventing or mitigating oil discharges and which protect the environment, including—
 
 &emsp;&emsp;(A) development of improved designs for vessels and facilities, and improved operational practices;
 
@@ -132,7 +132,7 @@
 
 #### (8) Regional research program
 
-&emsp;(A) Consistent with the research plan in subsection (b) of this section, the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (1989).
+&emsp;(A) Consistent with the research plan in subsection (b) of this section, the InteragencyCommittee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (1989).
 
 &emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
@@ -215,6 +215,10 @@ Subsec. (f). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §
 1990—Subsec. (c)(6). Pub. L. 101–537, §2002(1), and Pub. L. 101–646, §4002(1), as amended by Pub. L. 104–332, §2(h)(1), made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
 
 Subsec. (f). Pub. L. 101–537, §2002(2), and Pub. L. 101–646, §4002(2), as amended by Pub. L. 104–332, amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
+
+#### Transfer of Functions
+
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 #### Delegation of Functions
 

@@ -74,7 +74,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (i) Restriction on representation
 
-&emsp;&emsp;&emsp;In addition to any restriction under section 205(c) of title 18, United States Code, except as provided in subsections (d) through (i) of section 205 of such title, such individual (except in the proper discharge of official duties) shall not, with or without compensation, represent anyone to or before any officer or employee of—
+&emsp;&emsp;&emsp;In addition to any restriction under section 205(c) of title 18, United States Code,except as provided in subsections (d) through (i) of section 205 of such title, such individual (except in the proper discharge of official duties) shall not, with or without compensation, represent anyone to or before any officer or employee of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Oversight Board or the Internal Revenue Service on any matter;
 
@@ -248,7 +248,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 #### (A) Term
 
-&emsp;&emsp;The members of the Oversight Board shall elect for a 2-year term a chairperson fromamong the members appointed under subsection (b)(1)(A).
+&emsp;&emsp;The members of the Oversight Board shall elect for a 2-year term a chairperson from among the members appointed under subsection (b)(1)(A).
 
 #### (B) Powers
 
@@ -306,7 +306,7 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1998 Amendment
 

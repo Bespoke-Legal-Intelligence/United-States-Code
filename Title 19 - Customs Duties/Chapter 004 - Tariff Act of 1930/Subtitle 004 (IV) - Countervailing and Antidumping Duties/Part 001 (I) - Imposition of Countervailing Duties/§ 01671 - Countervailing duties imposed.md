@@ -66,7 +66,7 @@ For purposes of this part, if the members (or other participating entities) of a
 
 Whenever the administering authority has reasonable grounds to believe or suspect that an upstream subsidy, as defined in section 1677–1(a)(1) <sup>1</sup> of this title, is being paid or bestowed, the administering authority shall investigate whether an upstream subsidy has in fact been paid or bestowed, and if so, shall include the amount of the upstream subsidy as provided in section 1677–1(a)(3) <sup>2</sup> of this title.
 
-(June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1), 613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917.)
+(June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1),613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917.)
 
 #### Amendments
 
@@ -214,7 +214,7 @@ Functions of President under subsec. (b) of this section delegated to United Sta
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Investigations Pending on January 1, 1980
 
@@ -284,7 +284,7 @@ Determination by the commission.—Within 180 days after the date on which it re
 
 Effect of determination.—
 
-“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of imposition of countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or inpart, under section 751(d) of such Act \[section 1675(d) of this title\].
+“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of imposition of countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or in part, under section 751(d) of such Act \[section 1675(d) of this title\].
 
 “(B) Negative determination.—Upon being notified by the Commission of a negative determination under paragraph (2), the administering authority shall revoke the countervailing duty order, and publish notice in the Federal Register of the revocation.
 

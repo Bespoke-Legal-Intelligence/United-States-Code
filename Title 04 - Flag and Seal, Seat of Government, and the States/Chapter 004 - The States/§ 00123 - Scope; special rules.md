@@ -10,7 +10,7 @@ Additional Taxable Charges.—If a taxing jurisdiction does not otherwise subjec
 
 (c)
 
-Nontaxable Charges.—If a taxing jurisdiction does not subject charges for mobile telecommunications services to taxation, a customer may not rely upon the nontaxability of charges for mobile telecommunications services unless the customer's home service provider separately states the charges for nontaxable mobile telecommunications services from taxable charges or the home service provider elects, after receiving a written request from the customer in the form required by the provider, to provide verifiable data based upon the home service provider's books and records that are kept in the regular course of business that reasonably identifies the nontaxable charges.
+Nontaxable Charges.—If a taxing jurisdiction does not subject charges for mobile telecommunications services to taxation, a customer may not rely upon the nontaxability of charges for mobile telecommunications services unless the customer's home service provider separately states the charges for nontaxable mobile telecommunications services from taxable charges or the home service provider elects, after receiving a written request from the customer in the form required by the provider, toprovide verifiable data based upon the home service provider's books and records that are kept in the regular course of business that reasonably identifies the nontaxable charges.
 
 (Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 630.)
 

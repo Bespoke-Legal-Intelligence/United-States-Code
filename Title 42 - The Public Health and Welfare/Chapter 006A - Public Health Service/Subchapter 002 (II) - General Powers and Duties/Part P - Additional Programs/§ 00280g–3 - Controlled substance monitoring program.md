@@ -18,7 +18,7 @@
 
 #### (B) Additional amounts
 
-&emsp;&emsp;In making payments under a grant under paragraph (1) for a fiscal year, the Secretary shall allocate to each State with an application approved under this section an additional amount which bears the same ratio to the amount appropriated to carry out this section for that fiscal year and remaining after amounts are made available under subparagraph (A) as the number of pharmacies of the State bears to the number of pharmacies of all States with applications approved under this section (as determined by the Secretary), except that the Secretary may adjust the amount allocated to a State under this subparagraph after taking into consideration the budget cost estimate for the State's controlled substance monitoring program.
+&emsp;&emsp;In making payments under a grant under paragraph (1) for a fiscal year, the Secretary shall allocate to each State with an application approved under this section an additional amount which bears the same ratio to the amount appropriated to carry out this section for that fiscal year and remaining after amounts are made available under subparagraph (A) as the number of pharmacies of the State bears to the number of pharmacies of all States with applications approved under this section (as determined by the Secretary), except that the Secretary may adjust the amount allocated to a State under this subparagraph after taking into consideration the budget cost estimate forthe State's controlled substance monitoring program.
 
 #### (3) Term of grants
 
@@ -48,7 +48,7 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 &emsp;&emsp;&emsp;(vi) criteria for access to the database, and procedures to ensure that information in the database is accurate;
 
-&emsp;&emsp;&emsp;(vii) criteria for the use and disclosure of information, including a description of thecertification process to be applied to requests for information under subsection (f) of this section;
+&emsp;&emsp;&emsp;(vii) criteria for the use and disclosure of information, including a description of the certification process to be applied to requests for information under subsection (f) of this section;
 
 &emsp;&emsp;&emsp;(viii) penalties for the unauthorized use and disclosure of information maintained in the State controlled substance monitoring program in violation of applicable State law or regulation;
 
@@ -84,7 +84,7 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 #### (d) Reporting requirements
 
-In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection (a)(1)(B) of this section submit to the Secretary for approval a statement of why such compliance is not feasible or is contrary to the best interests of public health in such State, with the following:
+In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection\(a)(1)(B) of this section submit to the Secretary for approval a statement of why such compliance is not feasible or is contrary to the best interests of public health in such State, with the following:
 
 &emsp;(1) The State shall require dispensers to report to such State each dispensing in the State of a controlled substance to an ultimate user not later than 1 week after the date of such dispensing.
 
@@ -118,7 +118,7 @@ In implementing or improving a controlled substance monitoring program under thi
 
 &emsp;&emsp;(J) Such other information as may be required by State law to be reported under this subsection.
 
-&emsp;(4) The State shall require dispensers to report information under this section in accordance with the electronic format specified bythe Secretary under subsection (h) of this section, except that the State may waive the requirement of such format with respect to an individual dispenser that is unable to submit such information by electronic means.
+&emsp;(4) The State shall require dispensers to report information under this section in accordance with the electronic format specified by the Secretary under subsection (h) of this section, except that the State may waive the requirement of such format with respect to an individual dispenser that is unable to submit such information by electronic means.
 
 #### (e) Database
 
@@ -156,7 +156,7 @@ In implementing or improving a controlled substance monitoring program under thi
 
 &emsp;In consultation with practitioners, dispensers, and other relevant and interested stakeholders, a State receiving a grant under subsection (a) of this section—
 
-&emsp;&emsp;(A) shall establish a program to notify practitioners and dispensers of information that will help identify and prevent the unlawful diversion or misuse of controlled substances; and
+&emsp;&emsp;(A) shall establish a program to notify practitioners and dispensers of informationthat will help identify and prevent the unlawful diversion or misuse of controlled substances; and
 
 &emsp;&emsp;(B) may, to the extent permitted under State law, notify the appropriate authorities responsible for carrying out drug diversion investigations if the State determines that information in the database maintained by the State under subsection (e) of this section indicates an unlawful diversion or abuse of a controlled substance.
 
@@ -188,7 +188,7 @@ The Secretary shall specify a uniform electronic format for the reporting, shari
 
 #### (4) Federal privacy requirements
 
-&emsp;Nothing in this section shall be construed to supersede any Federal privacy or confidentiality requirement, including the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Actof 1996 (Public Law 104–191; 110 Stat. 2033) and section 290dd–2 of this title.
+&emsp;Nothing in this section shall be construed to supersede any Federal privacy or confidentiality requirement, including the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 2033) and section 290dd–2 of this title.
 
 #### (5) No Federal private cause of action
 
@@ -260,7 +260,7 @@ For purposes of this section:
 
 &emsp;(2) The term “controlled substance” means a drug that is included in schedule II, III, or IV of section 812(c) of title 21.
 
-&emsp;(3) The term “dispense” means to deliver a controlled substance to an ultimate user by, or pursuant to the lawful order of, a practitioner, irrespective of whether the dispenseruses the Internet or other means to effect such delivery.
+&emsp;(3) The term “dispense” means to deliver a controlled substance to an ultimate user by, or pursuant to the lawful order of, a practitioner, irrespective of whether the dispenser uses the Internet or other means to effect such delivery.
 
 &emsp;(4) The term “dispenser” means a physician, pharmacist, or other person that dispenses a controlled substance to an ultimate user.
 

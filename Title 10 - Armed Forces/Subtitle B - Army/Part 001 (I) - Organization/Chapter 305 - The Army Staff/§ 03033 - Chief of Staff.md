@@ -144,5 +144,5 @@ Section 405 of title IV of Pub. L. 90–22 provided that: “The amendments made
 
 #### Waiver of Qualifications for Appointment as Service Chief
 
-Pub. L. 99–433, title V, §532(c), Oct. 1, 1986, 100 Stat. 1063, as amended by Pub. L. 100–26, §11(b), Apr. 21, 1987, 101 Stat. 289; Pub. L. 100–180, div. A, title XIII, §1314(a)(3), Dec. 4, 1987, 101 Stat. 1175, provided that the President may waive, on a case-by-case basis, requirements for appointment as Service Chief provided for in sections 3033(a)(2), 5033(a)(2), 5043(a)(2), and 8033(a)(2) of this title, for a period of four years after Oct. 1, 1986.
+Pub. L. 99–433, title V, §532(c), Oct. 1, 1986, 100 Stat. 1063, as amended by Pub. L. 100–26, §11(b), Apr. 21, 1987,101 Stat. 289; Pub. L. 100–180, div. A, title XIII, §1314(a)(3), Dec. 4, 1987, 101 Stat. 1175, provided that the President may waive, on a case-by-case basis, requirements for appointment as Service Chief provided for in sections 3033(a)(2), 5033(a)(2), 5043(a)(2), and 8033(a)(2) of this title, for a period of four years after Oct. 1, 1986.
 

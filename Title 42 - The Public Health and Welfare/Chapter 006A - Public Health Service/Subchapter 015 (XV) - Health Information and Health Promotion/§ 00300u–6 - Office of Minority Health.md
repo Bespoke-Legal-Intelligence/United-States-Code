@@ -20,7 +20,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 &emsp;(6) Ensure that the National Center for Health Statistics collects data on the health status of each minority group.
 
-&emsp;(7) With respect to individuals who lack proficiency in speaking the English language, enter into contracts with public and nonprofit private providers of primary health services for the purpose of increasing the access of theindividuals to such services by developing and carrying out programs to provide bilingual or interpretive services.
+&emsp;(7) With respect to individuals who lack proficiency in speaking the English language, enter into contracts with public and nonprofit private providers of primary health services for the purpose of increasing the access of the individuals to such services by developing and carrying out programs to provide bilingual or interpretive services.
 
 &emsp;(8) Support a national minority health resource center to carry out the following:
 
@@ -48,7 +48,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (3) Chair
 
-&emsp;The chairperson of the Committee shall be selected by the Secretary from among the members of the voting members of the Committee. The term of office of the chairperson shall be 2 years.
+&emsp;The chairperson of the Committee shall be selected by the Secretary from among themembers of the voting members of the Committee. The term of office of the chairperson shall be 2 years.
 
 #### (4) Composition
 
@@ -94,7 +94,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b) of this section, the Secretary acting through the DeputyAssistant Secretary may make awards of grants, cooperative agreements, and contracts to public and nonprofit private entities.
+&emsp;In carrying out subsection (b) of this section, the Secretary acting through the Deputy Assistant Secretary may make awards of grants, cooperative agreements, and contracts to public and nonprofit private entities.
 
 #### (2) Process for making awards
 
@@ -112,7 +112,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (2) Agency reports
 
-&emsp;Not later than February 1, 1999, and biennially thereafter, the heads of the Public Health Service agencies shall submit to the Deputy Assistant Secretary a report summarizing the minority health activities of each of the respective agencies.
+&emsp;Not later than February 1, 1999, and biennially thereafter, the heads of the Public Health Service agencies shall submit to the DeputyAssistant Secretary a report summarizing the minority health activities of each of the respective agencies.
 
 #### (g) Definitions
 
@@ -188,7 +188,7 @@ Section 1(b) of Pub. L. 101–527 provided that: “The Congress finds that—
 
 &emsp;“(4) the incidence of infant mortality among minorities is almost double that for the general population;
 
-&emsp;“(5) Blacks, Hispanics, and Native Americans constitute approximately 12 percent, 7.9 percent, and 0.01 percent, respectively, of the population of the United States;
+&emsp;“(5) Blacks, Hispanics, and Native Americans constitute approximately 12 percent, 7.9 percent, and 0.01percent, respectively, of the population of the United States;
 
 &emsp;“(6) Blacks, Hispanics, and Native Americans in the United States constitute approximately 3 percent, 4 percent, and less than 0.01 percent, respectively, of physicians, 2.7 percent, 1.7 percent, and less than 0.01 percent, respectively, of dentists, and 4.5 percent, 1.6 percent, and less than 0.01 percent, respectively, of nurses;
 

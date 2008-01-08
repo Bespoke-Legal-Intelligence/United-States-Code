@@ -16,7 +16,7 @@ Words “herein” and “this Act”, referred to in the three paragraphs of su
 
 The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July second, eighteen hundred and ninety, referred to in subsec. (a), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of this title.
 
-The Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four, referred to in subsec. (a), is act Aug. 27, 1894, ch. 349, 28 Stat. 509, as amended, known as the Wilson Tariff Act. Sections seventy-three to seventy-six thereof are set out as sections 8 to 11 of this title.
+The Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundredand ninety-four, referred to in subsec. (a), is act Aug. 27, 1894, ch. 349, 28 Stat. 509, as amended, known as the Wilson Tariff Act. Sections seventy-three to seventy-six thereof are set out as sections 8 to 11 of this title.
 
 The Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’,” approved February twelfth, nineteen hundred and thirteen, referred to in subsec. (a), is act Feb. 12, 1913, ch. 40, 37 Stat. 667, as amended, which is classified to sections 8 and 11 of this title.
 

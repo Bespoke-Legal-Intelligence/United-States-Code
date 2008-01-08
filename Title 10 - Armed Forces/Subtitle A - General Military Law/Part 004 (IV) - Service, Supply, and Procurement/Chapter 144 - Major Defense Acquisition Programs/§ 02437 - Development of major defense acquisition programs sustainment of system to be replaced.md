@@ -52,5 +52,3 @@ A prior section 2437, added Pub. L. 99–500, §101(c) \[title X, §906(a)(1)\],
 
 Pub. L. 108–375, div. A, title VIII, §805(b), Oct. 28, 2004, 118 Stat. 2009, provided that: “Section 2437 of title 10, United States Code, as added by subsection (a), shall apply with respect to a major defense acquisition program for a system that is under development as of the date of the enactment of this Act \[Oct. 28, 2004\] and is not expected to reach initial operational capability before October 1, 2008. The Secretary of Defense shall require that a sustainment plan under that section be developed not later than one year after the date of the enactment of this Act for the existing system that the system under development is intended to replace.”
 
-§2438
-

@@ -8,7 +8,7 @@
 
 (d) No agency or official of the executive branch of the Federal Government may establish any regulation, program, or policy or take any other action which precludes, directly or indirectly, the Secretaries concerned from exercising the authority provided in this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 85–861, §1(49), Sept. 2, 1958, 72 Stat. 1459; Pub. L.99–167, title VIII, §821, Dec. 3, 1985, 99 Stat. 991; Pub. L. 109–364, div. B, title XXVIII, §2825(c)(1), (d)(1)(A), Oct. 17, 2006, 120 Stat. 2477.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 85–861, §1(49), Sept. 2, 1958, 72 Stat. 1459; Pub. L. 99–167, title VIII, §821, Dec. 3, 1985, 99 Stat. 991; Pub. L. 109–364, div. B, title XXVIII, §2825(c)(1), (d)(1)(A), Oct. 17, 2006, 120 Stat. 2477.)
 
 Historical and Revision Notes<br>1956
 

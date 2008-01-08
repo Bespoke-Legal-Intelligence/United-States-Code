@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(i) the collection, processing and transmission of applicant data to students, institutions and authorized third parties, as provided for in section 1090 of this title;
 
-&emsp;&emsp;&emsp;(ii) design and technical specifications for software development and systems supporting the delivery of student financialassistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;&emsp;&emsp;(ii) design and technical specifications for software development and systems supporting the delivery of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
 
 &emsp;&emsp;&emsp;(iii) all software and hardware acquisitions and all information technology contracts related to the delivery and management of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;(D) The evaluation rating of the performance of the Chief Operating Officer and senior managers under subsections (d)(4) and (e)(2) of this section, including the amounts of bonus compensation awarded to these individuals.
 
-&emsp;&emsp;(E) Recommendations for legislative and regulatory changes to improve service tostudents and their families, and to improve program efficiency and integrity.
+&emsp;&emsp;(E) Recommendations for legislative and regulatory changes to improve service to students and their families, and to improve program efficiency and integrity.
 
 &emsp;&emsp;(F) Other such information as the Director of the Office of Management and Budget shall prescribe for performance based organizations.
 
@@ -164,7 +164,7 @@
 
 #### (B) Transmittal
 
-&emsp;&emsp;The final agreement, and any revision to the final agreement, shall be transmitted to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, and made publicly available.
+&emsp;&emsp;The final agreement, and any revision to the final agreement, shall be transmitted tothe Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, and made publicly available.
 
 #### (5) Compensation
 
@@ -230,7 +230,7 @@
 
 #### (4) Report
 
-&emsp;Each year, the Ombudsman shall submit a report to the Chief Operating Officer, for inclusion in the annual report under subsection (c)(2) of this section, that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
+&emsp;Each year, the Ombudsman shall submit a report to the Chief Operating Officer, for inclusion in the annual report under subsection\(c)(2) of this section, that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
 
 #### (g) Personnel flexibility
 
@@ -264,7 +264,7 @@ The Secretary shall allocate from funds made available under section 1087h of th
 
 The Chief Financial Officer Act of 1990, referred to in subsec. (c)(2)(B), probably means the Chief Financial Officers Act of 1990, Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
-The Government Performance and Results Act of 1993, referred to in subsecs. (c)(2)(B) and (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31,Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsecs. (c)(2)(B) and (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsecs. (e)(1)(A) and (g)(3), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -275,6 +275,8 @@ A prior section 1018, Pub. L. 89–329, title I, §141, as added Pub. L. 100–4
 Another prior section 1018, Pub. L. 89–329, title I, §118, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1382, defined terms used in former part D of this subchapter, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 #### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

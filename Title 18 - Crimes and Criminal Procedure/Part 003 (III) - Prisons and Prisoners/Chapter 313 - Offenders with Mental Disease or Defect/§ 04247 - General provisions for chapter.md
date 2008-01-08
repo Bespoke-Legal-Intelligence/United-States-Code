@@ -30,7 +30,7 @@ Psychiatric or Psychological Examination.—A psychiatric or psychological exami
 
 (c)
 
-Psychiatric or Psychological Reports.—A psychiatric or psychological report ordered pursuant to this chapter shall be prepared by the examiner designated to conduct the psychiatric or psychological examination, shall be filed with the court with copies provided to thecounsel for the person examined and to the attorney for the Government, and shall include—
+Psychiatric or Psychological Reports.—A psychiatric or psychological report ordered pursuant to this chapter shall be prepared by the examiner designated to conduct the psychiatric or psychological examination, shall be filed with the court with copies provided to the counsel for the person examined and to the attorney for the Government, and shall include—
 
 &emsp;(1) the person's history and present symptoms;
 
@@ -92,7 +92,7 @@ Authority and Responsibility of the Attorney General.—The Attorney General—
 
 (j) Sections 4241, 4242, 4243, and 4244 do not apply to a prosecution under an Act of Congress applicable exclusively to the District of Columbia or the Uniform Code of Military Justice.
 
-(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2065; Pub. L. 100–690, title VII, §§7044, 7047(a), Nov. 18, 1988, 102 Stat. 4400, 4401; Pub. L. 103–322, title XXXIII, §330003(d), Sept. 13,1994, 108 Stat. 2141; Pub. L. 105–33, title XI, §11204(2), (3), Aug. 5, 1997, 111 Stat. 739; Pub. L. 109–248, title III, §302(3), July 27, 2006, 120 Stat. 619.)
+(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2065; Pub. L. 100–690, title VII, §§7044, 7047(a), Nov. 18, 1988, 102 Stat. 4400, 4401; Pub. L. 103–322, title XXXIII, §330003(d), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 105–33, title XI, §11204(2), (3), Aug. 5, 1997, 111 Stat. 739; Pub. L. 109–248, title III, §302(3), July 27, 2006, 120 Stat. 619.)
 
 #### References in Text
 

@@ -204,7 +204,7 @@ Section 11403(d) of Pub. L. 101–508 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and repealing provisions set out below\] shall apply to taxable years beginning after December 31, 1989.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and repealing provisions set out below\] shall apply to taxable years beginning after December 31, 1989.
 
 “(2)
 

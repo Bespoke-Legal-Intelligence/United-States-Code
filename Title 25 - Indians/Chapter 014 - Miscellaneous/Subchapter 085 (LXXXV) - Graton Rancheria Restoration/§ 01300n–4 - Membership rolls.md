@@ -12,7 +12,7 @@ Not later than 1 year after December 27, 2000, the Secretary shall, after consul
 
 &emsp;(B) such individual was not listed on the Graton Indian Rancheria distribution list, but met the requirements that had to be met to be listed on the Graton Indian Rancheria distribution list;
 
-&emsp;(C) such individual is identified as an Indian from the Graton, Marshall, Bodega, Tomales, or Sebastopol, California, vicinities, in documents prepared by or at the direction of the Bureau of Indian Affairs, or in any other public or California mission records; or
+&emsp;(C) such individual is identified as an Indian from the Graton, Marshall, Bodega, Tomales, or Sebastopol, California, vicinities, in documents prepared by or at the direction of theBureau of Indian Affairs, or in any other public or California mission records; or
 
 &emsp;(D) such individual is a lineal descendant of an individual, living or dead, identified in subparagraph (A), (B), or (C).
 

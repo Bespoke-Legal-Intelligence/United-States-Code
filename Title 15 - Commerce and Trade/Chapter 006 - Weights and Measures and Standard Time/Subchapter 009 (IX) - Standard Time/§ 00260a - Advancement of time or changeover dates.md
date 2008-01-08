@@ -2,11 +2,11 @@
 
 #### (a) Duration of period; State exemption
 
-During the period commencing at 2 o'clock antemeridian on the first Sunday of April of each year and ending at 2 o'clock antemeridian on the last Sunday of October of each year, the standard time of each zone established by sections 261 to 264 of this title, as modified by section 265 of this title, shall be advanced one hour and such time as so advanced shall for the purposes of such sections 261 to 264, as so modified, be the standard time of such zone during such period; however, (1) any State that lies entirely within one time zone may by law exempt itself from the provisions of this subsection providing for the advancement of time, but only if that law provides that the entire State (including all political subdivisions thereof) shall observe the standard time otherwise applicable during that period, and (2) any State with parts thereof in more than one time zone may by law exempt either the entire State as provided in (1) or may exempt the entire area of the State lying within any time zone.
+During the period commencing at 2 o'clock antemeridian on the second Sunday of March of each year and ending at 2 o'clock antemeridian on the first Sunday of November of each year, the standard time of each zone established bysections 261 to 264 of this title, as modified by section 265 of this title, shall be advanced one hour and such time as so advanced shall for the purposes of such sections 261 to 264, as so modified, be the standard time of such zone during such period; however, (1) any State that lies entirely within one time zone may by law exempt itself from the provisions of this subsection providing for the advancement of time, but only if that law provides that the entire State (including all political subdivisions thereof) shall observe the standard time otherwise applicable during that period, and (2) any State with parts thereof in more than one time zone may by law exempt either the entire State as provided in (1) or may exempt the entire area of the State lying within any time zone.
 
 #### (b) State laws superseded
 
-It is hereby declared that it is the express intent of Congress by this section to supersede anyand all laws of the States or political subdivisions thereof insofar as they may now or hereafter provide for advances in time or changeover dates different from those specified in this section.
+It is hereby declared that it is the express intent of Congress by this section to supersede any and all laws of the States or political subdivisions thereof insofar as they may now or hereafter provide for advances in time or changeover dates different from those specified in this section.
 
 #### (c) Violations; enforcement
 
@@ -14,11 +14,9 @@ For any violation of the provisions of this section the Secretary of Transportat
 
 (Pub. L. 89–387, §3, Apr. 13, 1966, 80 Stat. 107; Pub. L. 92–267, Mar. 30, 1972, 86 Stat. 116; Pub. L. 97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 99–359, §2(b), July 8, 1986, 100 Stat. 764; Pub. L. 109–58, title I, §110(a), Aug. 8, 2005, 119 Stat. 615.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 109–58, title I, §110(a), (b), Aug. 8, 2005, 119 Stat. 615, provided that, effective Mar. 1, 2007, subsection (a) of this section is amended by substituting “second Sunday of March” for “first Sunday of April” and “first Sunday of November” for “last Sunday of October”.</i>
-
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–58 substituted “second Sunday of March” for “first Sunday of April” and “first Sunday of November” for “last Sunday of October”.
 
 1986—Subsec. (a). Pub. L. 99–359 substituted “first Sunday of April” for “last Sunday of April”.
 
@@ -86,7 +84,7 @@ Pub. L. 93–182, Dec. 15, 1973, 87 Stat. 707, as amended by Pub. L. 93–434, O
 
 Ex. Ord. No. 11751, Dec. 15, 1973, 38 F.R. 34725, provided:
 
-By virtue of the authority vested in me by section 3(b) of the Emergency Daylight Savings Time Energy Conservation Act of 1973 (Public Law 93–182) (hereinafter “the Act”) \[formerly set out above\], section 301 oftitle 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 3(b) of the Emergency Daylight Savings Time Energy Conservation Act of 1973 (Public Law 93–182) (hereinafter “the Act”) \[formerly set out above\], section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
 Section 1. The Secretary of Transportation (hereinafter “the Secretary”) is hereby designated and empowered to exercise the authority vested in me by section 3(b) of the Act \[formerly set out above\] to grant an exemption from section 3(a) of the Act (which establishes daylight saving time as standard time), or a realignment of a time zone limit, pursuant to a proclamation of a Governor of a State finding that the exemption or realignment is necessary to avoid undue hardship or to conserve fuel in the State or a part thereof.
 

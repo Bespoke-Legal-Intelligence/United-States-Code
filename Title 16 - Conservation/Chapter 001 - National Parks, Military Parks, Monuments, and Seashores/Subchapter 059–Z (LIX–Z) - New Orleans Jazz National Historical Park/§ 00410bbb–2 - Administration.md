@@ -26,7 +26,7 @@ In furtherance of the purposes of this subchapter—
 
 &emsp;(2) the Secretary is authorized to enter into cooperative agreements with the city of New Orleans, the State of Louisiana, and other appropriate public and private organizations under which the other parties to the agreement may contribute to the acquisition, construction, operation, and maintenance of the interpretive center and to the operation of educational and interpretive programs to further the purposes of this subchapter; and
 
-&emsp;(3) the Secretary, in consultation with the New Orleans Jazz Commission, is authorizedto provide grants or technical assistance to public and private organizations.
+&emsp;(3) the Secretary, in consultation with the New Orleans Jazz Commission, is authorized to provide grants or technical assistance to public and private organizations.
 
 #### (f) Jazz educational programs
 

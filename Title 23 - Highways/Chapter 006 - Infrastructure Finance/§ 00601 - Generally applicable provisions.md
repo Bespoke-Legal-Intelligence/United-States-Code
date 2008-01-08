@@ -390,7 +390,7 @@ Special rule for urbanized areas of over 200,000.—Funds that are apportioned o
 
 “(c)
 
-Forms of Assistance From Infrastructure Banks.—An infrastructure bank established under this section may make loans or provide other assistance to a public or private entity in an amount equal to all or part of the cost of carrying out a project eligible for assistance under this section. The amount of any loan or other assistance provided for such project may be subordinated to any other debt financing for the project. Initial assistance provided with respect to a project from Federal funds contributed to an infrastructure bank under this section may not be made in the form of a grant.
+Forms of Assistance From Infrastructure Banks.—An infrastructure bank established under this section may make loans or provide other assistance to a public or private entity in an amount equal to all or part of the cost of carrying out a project eligible for assistance under this section. The amount of any loan or other assistance provided for such project may be subordinated to any other debt financing for the project. Initial assistance provided with respect to a projectfrom Federal funds contributed to an infrastructure bank under this section may not be made in the form of a grant.
 
 “(d)
 
@@ -412,7 +412,7 @@ Infrastructure Bank Requirements.—In order to establish an infrastructure bank
 
 &emsp;&emsp;“(C) invested in United States Treasury securities, bank deposits, or such other financing instruments as the Secretary may approve to earn interest to enhance the leveraging of projects assisted by the bank;
 
-&emsp;“(4) provide that the repayment of a loan or other assistance from an account of the bank under thissection shall be consistent with the repayment provisions of section 129(a)(7) of title 23, United States Code, except to the extent the Secretary determines that such provisions are not consistent with this section;
+&emsp;“(4) provide that the repayment of a loan or other assistance from an account of the bank under this section shall be consistent with the repayment provisions of section 129(a)(7) of title 23, United States Code, except to the extent the Secretary determines that such provisions are not consistent with this section;
 
 &emsp;“(5) ensure that any loan from the bank will bear interest at or below market interest rates, as determined by the State, to make the project that is the subject of the loan feasible;
 

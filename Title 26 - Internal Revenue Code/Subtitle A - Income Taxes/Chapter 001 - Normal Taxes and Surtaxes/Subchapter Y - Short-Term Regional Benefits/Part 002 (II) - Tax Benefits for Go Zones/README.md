@@ -9,15 +9,15 @@
 | [1400Q.](%C2%A7%2001400Q%20-%20Special%20rules%20for%20use%20of%20retirement%20funds.md) | Special rules for use of retirement funds. |
 | [1400R.](%C2%A7%2001400R%20-%20Employment%20relief.md) | Employment relief. |
 | [1400S.](%C2%A7%2001400S%20-%20Additional%20tax%20relief%20provisions.md) | Additional tax relief provisions. |
-| [1400T.](%C2%A7%2001400T%20-%20Special%20rules%20for%20mortgage%20revenue%20bonds.md) | Special rules for mortgage revenue bonds.<sup>1</sup> |
+| [1400T.](%C2%A7%2001400T%20-%20Special%20rules%20for%20mortgage%20revenue%20bonds.md) | Special rules for mortgage revenue bonds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2005—Pub. L. 109–135, title I, §§102(b), 103(b)(3), title II, §201(b)(3), Dec. 21, 2005, 119 Stat. 2594, 2595, 2607, added items 1400O to 1400S.
+2007—Pub. L. 110–172, §11(a)(27), Dec. 29, 2007, 121 Stat. 2487, added item 1400T.
 
-<i><sup>1</sup></i><i> Editorially supplied. Section 1400T added by Pub. L. 109–135 without corresponding amendment of part analysis.</i>
+2005—Pub. L. 109–135, title I, §§102(b), 103(b)(3), title II, §201(b)(3), Dec. 21, 2005, 119 Stat. 2594, 2595, 2607, added items 1400O to 1400S.
 
 
 ---

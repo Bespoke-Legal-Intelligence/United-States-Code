@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) in the case of a change or modification made to a prime contract referred to in subparagraph (A)(i), the price adjustment is expected to exceed $500,000;
 
-&emsp;&emsp;(ii) in the case of a change or modification made to a prime contract that was entered into on or before October 13, 1994, and that has been modified pursuant to paragraph (6), the price adjustment is expected to exceed $500,000; and
+&emsp;&emsp;(ii) in the case of a change or modification made to a prime contract that was entered into on or before October 13, 1994, and thathas been modified pursuant to paragraph (6), the price adjustment is expected to exceed $500,000; and
 
 &emsp;&emsp;(iii) in the case of a change or modification not covered by clause (i) or (ii), the price adjustment is expected to exceed $100,000.
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(ii) in the case of a change or modification to a subcontract referred to in subparagraph (C)(iii), the price adjustment is expected to exceed $100,000.
 
-(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the procuring activity concerned to submit such data under subsection (c) of this section) shall be required to certify that, to thebest of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
+(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the procuring activity concerned to submit such data under subsection (c) of this section) shall be required to certify that, to the best of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 
 (3) Cost or pricing data required to be submitted under paragraph (1) (or under subsection (c) of this section), and a certification required to be submitted under paragraph (2), shall be submitted—
 
@@ -90,7 +90,7 @@
 
 #### (1) Authority to require submission
 
-&emsp;When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on theprices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
+&emsp;When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 
 #### (2) Limitations on authority
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;(ii) at the current rate prescribed by the Secretary of the Treasury under section 6621 of title 26; and
 
-&emsp;(B) if the submission of such defective data was a knowing submission, for an additionalamount equal to the amount of the overpayment.
+&emsp;(B) if the submission of such defective data was a knowing submission, for an additional amount equal to the amount of the overpayment.
 
 (2) Any liability under this subsection of a contractor that submits cost or pricing data but refuses to submit the certification required by subsection (a)(2) of this section with respect to the cost or pricing data shall not be affected by the refusal to submit such certification.
 

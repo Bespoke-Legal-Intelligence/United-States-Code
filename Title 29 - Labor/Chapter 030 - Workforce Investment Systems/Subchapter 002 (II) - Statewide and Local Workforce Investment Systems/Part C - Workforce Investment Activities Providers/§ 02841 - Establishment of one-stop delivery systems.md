@@ -112,7 +112,7 @@ Consistent with the State plan, the local board for a local area, with the agree
 
 &emsp;&emsp;&emsp;(i) through a competitive process; or
 
-&emsp;&emsp;&emsp;(ii) in accordance with an agreement reached between the local board and a consortium of entities that, at a minimum, includes 3 or more of the one-stop partners described in subsection (b)(1) of this section; and
+&emsp;&emsp;&emsp;(ii) in accordance with an agreement reached between the local board and a consortium of entities that, at a minimum,includes 3 or more of the one-stop partners described in subsection (b)(1) of this section; and
 
 &emsp;&emsp;(B) may be a public or private entity, or consortium of entities, of demonstrated effectiveness, located in the local area, which may include—
 
@@ -172,7 +172,7 @@ The Community Services Block Grant Act, referred to in subsec. (b)(1)(B)(x), is 
 
 The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(iv), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(iv), is Pub. L. 101–610, Nov.16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 This Act, referred to in subsec. (f)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 

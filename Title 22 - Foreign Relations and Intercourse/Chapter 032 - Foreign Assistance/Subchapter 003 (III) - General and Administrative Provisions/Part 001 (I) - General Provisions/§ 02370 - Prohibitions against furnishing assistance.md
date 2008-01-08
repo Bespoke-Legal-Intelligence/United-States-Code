@@ -26,7 +26,7 @@ No assistance shall be furnished on a loan basis under part I of subchapter I of
 
 &emsp;(C) has imposed or enforced discriminatory taxes or other exactions, or restrictive maintenance or operational conditions, or has taken other actions, which have the effect of nationalizing, expropriating, or otherwise seizing ownership or control of property so owned,
 
-> and such country, government agency, or government subdivision fails within a reasonable time (not more than six months after such action, or, in the event of a referral to the Foreign Claims Settlement Commission of the United States within such period as provided herein, not more than twenty days after the report of the Commission is received) to take appropriate steps, which may include arbitration, to discharge its obligations under international law toward such citizen or entity, including speedy compensation for such property in convertible foreign exchange, equivalent to the full value thereof, as required by international law, or fails to take steps designed to provide relief from such taxes, exactions, or conditions, as the case may be; and such suspension shall continueuntil the President is satisfied that appropriate steps are being taken, and provisions of this subsection shall not be waived with respect to any country unless the President determines and certifies that such a waiver is important to the national interests of the United States. Such certification shall be reported immediately to Congress.
+> and such country, government agency, or government subdivision fails within a reasonable time (not more than six months after such action, or, in the event of a referral to the Foreign Claims Settlement Commission of the United States within such period as provided herein, not more than twenty days after the report of the Commission is received) to take appropriate steps, which may include arbitration, to discharge its obligations under international law toward such citizen or entity, including speedy compensation for such property in convertible foreign exchange, equivalent to the full value thereof, as required by international law, or fails to take steps designed to provide relief from such taxes, exactions, or conditions, as the case may be; and such suspension shall continue until the President is satisfied that appropriate steps are being taken, and provisions of this subsection shall not be waived with respect to any country unless the President determines and certifies that such a waiver is important to the national interests of the United States. Such certification shall be reported immediately to Congress.
 
 Upon request of the President (within seventy days after such action referred to in subparagraphs (A), (B), or (C) of this paragraph, the Foreign Claims Settlement Commission of the United States (established pursuant to Reorganization Plan No. 1 of 1954, 68 Stat. 1279) is hereby authorized to evaluate expropriated property, determining the full value of any property nationalized, expropriated, or seized, or subjected to discriminatory or other actions as aforesaid, for purposes of this subsection and to render an advisory report to the President within ninety days after such request. Unless authorized by the President, the Commission shall not publish its advisory report except to the citizen or entity owning such property. There is hereby authorized to be appropriated such amount, to remain available until expended, as may be necessary from time to time to enable the Commission to carry out expeditiously its functions under this subsection.
 
@@ -46,7 +46,7 @@ Upon request of the President (within seventy days after such action referred to
 
 &emsp;Tibet,<sup>1</sup>
 
-(2) Notwithstanding the provisions of paragraph (1) of this subsection, the President may remove a country, for such period as the President determines, from the application of this subsection, and other provisions which reference this subsection, if the President determines and reports to the Congress that such action is important to the national interest of the United States. It is the sense of the Congress that when consideration is given to authorizing assistance to a country removed from the application of this subsection, one of the factors to be weighed, among others, is whether the country in question is giving evidence of fostering the establishment of a genuinely democratic system, with respect for internationally recognized human rights.
+(2) Notwithstanding the provisions of paragraph (1) of this subsection, the President may remove a country, for such period as the President determines, from the application of this subsection, and other provisions which reference this subsection, if the President determines and reports to the Congress that such action is important to the national interest of the United States. It is the sense of the Congress that whenconsideration is given to authorizing assistance to a country removed from the application of this subsection, one of the factors to be weighed, among others, is whether the country in question is giving evidence of fostering the establishment of a genuinely democratic system, with respect for internationally recognized human rights.
 
 #### (g) Use of assistance funds to compensate owners for expropriated or nationalized property; waiver for land reform programs
 
@@ -126,7 +126,7 @@ In any decision to provide or continue to provide any program of assistance to a
 
 (3) The Secretary of State shall prepare and submit to the Congress each year a report containing a description of the amount of nuclear fuel and related assistance and credits provided by any country, or any entity of a country, to Cuba during the preceding year, including the terms of each transfer of such fuel, assistance, or credits.
 
-(Pub. L. 87–195, pt. III, §620, Sept. 4, 1961, 75 Stat. 444; Pub. L. 87–565, pt. III, §301(d), Aug. 1, 1962, 76 Stat. 260; Pub. L. 88–205, pt. III, §301(e), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–633, pt. III, §301(d)–(g), Oct. 7, 1964, 78 Stat. 1013; Pub. L. 89–171, pt. III, §301(d), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(h), Sept. 19, 1966, 80 Stat. 805, 806; Pub. L. 90–137, pt. III, §301(f), Nov. 14, 1967, 81 Stat. 459; Pub. L. 90–554, pt. III, §301(c), Oct. 8, 1968, 82 Stat. 963; Pub. L. 91–175, pt. III, §303, Dec. 30, 1969, 83 Stat. 820; Pub. L. 92–226, pt. III, §301, Feb. 7, 1972, 86 Stat. 27; Pub. L. 93–189, §15, Dec. 17, 1973, 87 Stat. 722; Pub. L. 93–559, §§22–24, 44, Dec. 30, 1974, 88 Stat. 1801, 1802, 1813; Pub. L. 94–104, §2(c)(1), (2), Oct. 6, 1975, 89 Stat. 509; Pub. L. 94–329, title IV, §403, title VI, §606, June 30, 1976, 90 Stat. 757, 768; Pub. L. 95–88, title I, §123(a), (b), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–92, §22(d), Aug. 4, 1977, 91 Stat. 624; Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737; Pub. L. 95–424, title I, §§102(g)(2)(F), 115(k), title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 943, 952, 959; Pub. L. 96–533, title II, §203, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title VII, §§702, 707, 734(a)(1), (13), (b), Dec. 29, 1981, 95 Stat. 1544, 1546, 1560; Pub. L. 99–83, title XII, §§1202, 1203, Aug. 8, 1985, 99 Stat. 276, 277; Pub. L. 102–511, title IX, §901, Oct. 24, 1992, 106 Stat. 3355; Pub. L. 103–199, title VII, §705(3), Dec. 17, 1993, 107 Stat. 2328; Pub. L. 103–306, title V, §573, Aug. 23, 1994, 108 Stat. 1653; Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2810(a), Oct. 21, 1998, 112 Stat. 2681–850.)
+(Pub. L. 87–195, pt. III, §620, Sept. 4, 1961, 75 Stat. 444; Pub. L. 87–565, pt. III, §301(d), Aug. 1, 1962, 76 Stat. 260; Pub. L. 88–205, pt. III, §301(e), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–633, pt. III, §301(d)–(g), Oct. 7, 1964, 78 Stat. 1013; Pub. L. 89–171, pt. III, §301(d), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(h), Sept. 19, 1966, 80 Stat. 805, 806; Pub. L. 90–137, pt. III, §301(f), Nov. 14, 1967, 81 Stat. 459; Pub. L. 90–554, pt. III, §301(c), Oct. 8, 1968, 82 Stat. 963; Pub. L. 91–175, pt. III, §303, Dec. 30, 1969, 83 Stat. 820; Pub. L. 92–226, pt. III, §301, Feb. 7, 1972, 86 Stat. 27; Pub. L. 93–189, §15, Dec. 17, 1973, 87 Stat. 722; Pub. L. 93–559, §§22–24, 44, Dec. 30, 1974, 88 Stat. 1801, 1802, 1813; Pub. L. 94–104, §2(c)(1), (2), Oct. 6, 1975, 89 Stat. 509; Pub. L. 94–329, title IV, §403, title VI, §606, June 30, 1976, 90 Stat. 757, 768; Pub. L. 95–88, title I, §123(a), (b), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–92, §22(d), Aug. 4, 1977, 91 Stat. 624; Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737; Pub. L. 95–424, title I, §§102(g)(2)(F), 115(k), title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 943, 952, 959; Pub. L. 96–533, title II, §203, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title VII, §§702, 707, 734(a)(1), (13), (b), Dec. 29, 1981, 95 Stat. 1544, 1546, 1560; Pub. L. 99–83, title XII, §§1202, 1203, Aug. 8, 1985, 99 Stat. 276, 277; Pub. L. 102–511, title IX, §901, Oct. 24, 1992, 106 Stat. 3355; Pub. L. 103–199, title VII,§705(3), Dec. 17, 1993, 107 Stat. 2328; Pub. L. 103–306, title V, §573, Aug. 23, 1994, 108 Stat. 1653; Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2810(a), Oct. 21, 1998, 112 Stat. 2681–850.)
 
 #### Amendment of Section
 
@@ -148,7 +148,7 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 Subsec. (s)(2) of this section, which required the President to report annually to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate on actions taken to carry out this provision, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 26 of House Document No. 103–7.
 
-Subsec. (x) was omitted pursuant to Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737, which provided that subsec. (x) be of no further force and effect upon thePresident's determination and certification of certain conditions precedent which was made by Presidential Memorandum dated Sept. 26, 1978. See notes set out below.
+Subsec. (x) was omitted pursuant to Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737, which provided that subsec. (x) be of no further force and effect upon the President's determination and certification of certain conditions precedent which was made by Presidential Memorandum dated Sept. 26, 1978. See notes set out below.
 
 #### Amendments
 
@@ -188,7 +188,7 @@ Subsec. (w). Pub. L. 95–424, §502(d)(1), struck out subsec. (w) relating to s
 
 Subsec. (a)(3). Pub. L. 95–88, §123(a)(2), struck out par. (3) which had directed that no funds be used to furnish assistance to countries which had not taken steps to prevent ships or aircraft of their registry from transporting equipment, materials, or commodities to Cuba.
 
-Subsec. (n). Pub. L. 95–88, §123(b), struck out subsec. (n) which had prohibited the giving of aid to countries that sold or furnished to North Vietnam, or permitted their ships or aircraft to carry to or from North Vietnam, equipment, materials, or commodities, unless the President determined that the giving of aid was in the national interest.
+Subsec. (n). Pub. L. 95–88, §123(b), struck out subsec. (n) which had prohibited the giving of aid to countriesthat sold or furnished to North Vietnam, or permitted their ships or aircraft to carry to or from North Vietnam, equipment, materials, or commodities, unless the President determined that the giving of aid was in the national interest.
 
 Subsec. (x)(1). Pub. L. 95–92 substituted “1978” for “1976, the period beginning July 1, 1976, and ending September 30, 1976, and the fiscal year 1977,” and provisions authorizing $175,000,000 during the fiscal year 1978 for Turkey as the total value of defense articles and services sold to such country, for provisions authorizing $125,000,000 during the fiscal year 1976, and the period beginning July 1, 1976, and ending Sept. 30, 1976, and $125,000,000 during the fiscal year 1977 for Turkey as the total value of defense articles and services sold to such country.
 
@@ -240,7 +240,7 @@ Subsec. (<i>l</i>). Pub. L. 89–171, §301(d)(3), substituted “December 31, 1
 
 Subsecs. (n), (<i>o</i>). Pub. L. 89–171, §301(d)(4), added subsecs. (n) and (<i>o</i>).
 
-1964—Subsec. (e). Pub. L. 88–633, §301(d), designated existing provisions as par. (1), redesignated subpars. (1) to (3) thereof as subpars. (A) to (C), substituted therein “subparagraphs (A), (B), or (C) of this paragraph” for “paragraphs (1), (2), or (3) of this subsection”, and added par. (2).
+1964—Subsec. (e). Pub. L. 88–633, §301(d), designated existing provisions as par. (1), redesignated subpars. (1)to (3) thereof as subpars. (A) to (C), substituted therein “subparagraphs (A), (B), or (C) of this paragraph” for “paragraphs (1), (2), or (3) of this subsection”, and added par. (2).
 
 Subsec. (f). Pub. L. 88–633, §301(e), inserted “(including its captive constituent republics)” after “Union of Soviet Socialist Republics”.
 
@@ -262,7 +262,7 @@ Subsecs. (e) to (h). Pub. L. 87–565, §301(d)(3), added subsecs. (e) to (h).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2810(b), Oct. 21, 1998, 112 Stat. 2681–851, provided that: “Section 620(y) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2370(y)\], as added by subsection (a), shall applywith respect to assistance provided in fiscal years beginning on or after the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2810(b), Oct. 21, 1998, 112 Stat. 2681–851, provided that: “Section 620(y) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2370(y)\], as added by subsection (a), shall apply with respect to assistance provided in fiscal years beginning on or after the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Effective Date of 1985 Amendment
 
@@ -314,7 +314,7 @@ Section 726(b), (c) of Pub. L. 97–113, as amended by Pub. L. 99–83, title VI
 
 Section 406 of Pub. L. 94–329, as amended by Pub. L. 95–384, §§10(b)(5), 12(c)(5), Sept. 26, 1978, 92 Stat. 735, 737, set forth limitations with respect to assistance, sales and credit for Chile, prior to repeal by Pub. L. 97–113, title VII, §726(a), Dec. 29, 1981, 95 Stat. 1554.
 
-Section 25 of Pub. L. 93–559 provided that notwithstanding any other provision of law, the total amount of assistance that was to be made available for Chile under this chapter, and the Foreign Military Sales Act, section 2751 et seq. of this title, during fiscal year 1975, was not to exceed $25,000,000, none of which was to be made available for the purpose of providing military assistance (including security supporting assistance, sales, credit sales, or guaranties or the furnishing by any means of excess defense articles or items from stockpiles of the Department of Defense), prior to repeal by Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.
+Section 25 of Pub. L. 93–559 provided that notwithstanding any other provision of law, the total amount of assistance that was to be made available for Chile under this chapter, and the Foreign Military Sales Act, section 2751 et seq. of this title, during fiscal year 1975, was not to exceed $25,000,000, none of which was to be made available for the purpose of providing military assistance (including security supporting assistance,sales, credit sales, or guaranties or the furnishing by any means of excess defense articles or items from stockpiles of the Department of Defense), prior to repeal by Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Assistance for El Salvador
 
@@ -456,7 +456,7 @@ Section 728 of Pub. L. 97–113, as amended by Pub. L. 97–233, Aug. 10, 1982, 
 
 #### Caribbean Development Bank; Assumption of Member Loans
 
-Section 315 of Pub. L. 96–533 provided: “Notwithstanding section 620(r) of the Foreign Assistance Act of 1961 \[subsec. (r) of this section\], the President may, after consultation with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives, make arrangements at his discretion for the assumption by the recipient members of the Caribbean Development Bank of any loans made to the Bank under the authority of that Act \[this chapter\].”
+Section 315 of Pub. L. 96–533 provided: “Notwithstanding section 620(r) of the Foreign Assistance Act of 1961 \[subsec. (r) of this section\], the President may, after consultation with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, make arrangements at his discretion for the assumption by the recipient members of the Caribbean Development Bank of any loans made to the Bank under the authority of that Act \[this chapter\].”
 
 #### Soviet Military Personnel and Activities in Cuba; Reports to Congress
 
@@ -486,7 +486,7 @@ Pursuant to the authority vested in me by Section 13(a) of the International Sec
 
 (1) that the resumption of full military cooperation with Turkey is in the national interest of the United States and in the interest of the North Atlantic Treaty Organization; and
 
-(2) that the Government of Turkey is acting in good faith to achieve a just and peaceful settlement of the Cyprus problem, the early peaceable return of refugees to their homes and properties, and continued removal of Turkish military troops from Cyprus in the context of a solution to the Cyprus problem, and the early serious resumption of inter-communal talks aimed at a just, negotiated settlement.
+(2) that the Government of Turkey is acting in good faith to achieve a just and peaceful settlement of theCyprus problem, the early peaceable return of refugees to their homes and properties, and continued removal of Turkish military troops from Cyprus in the context of a solution to the Cyprus problem, and the early serious resumption of inter-communal talks aimed at a just, negotiated settlement.
 
 You are requested on my behalf to report this determination and certification to the Congress.
 
@@ -562,7 +562,7 @@ Pub. L. 87–872, title I, §107, Oct. 23, 1962, 76 Stat. 1165.
 
 #### Restrictions on Assistance to Countries Selling, Furnishing or Permitting Ships To Carry Certain Items to North Vietnam
 
-Pub. L. 91–194, title I, §116, Feb. 9, 1970, 84 Stat. 10, forbid assistance under the Foreign Assistance Act of 1961, as amended, to any country that sold, furnished or permitted any ships under its registry to carry to North Vietnam certain enumerated items unless the President determined that the withholding of such assistance was contrary to the national interest of the United States and reported such determination to Congress.
+Pub. L. 91–194, title I, §116, Feb. 9, 1970, 84 Stat. 10, forbid assistance under the Foreign Assistance Act of 1961, as amended, to any country that sold, furnished or permitted any ships under its registry to carry to North Vietnam certain enumerated items unless the President determined that the withholding of such assistance was contrary to the national interest of theUnited States and reported such determination to Congress.
 
 Similar provisions were contained in the following prior acts:
 
@@ -592,7 +592,7 @@ NOW, THEREFORE, I, JOHN F. KENNEDY, President of the United States of America, a
 
 1\. Hereby proclaim an embargo upon trade between the United States and Cuba in accordance with paragraphs 2 and 3 of this proclamation.
 
-2\. Hereby prohibit, effective 12:01 A.M., Eastern Standard Time, February 7, 1962, the importation into the United States of all goods of Cuban origin and all goods imported from or through Cuba; and I hereby authorize and direct the Secretary of the Treasury to carry out such prohibition, to make such exceptionsthereto, by license or otherwise, as he determines to be consistent with the effective operation of the embargo hereby proclaimed, and to promulgate such rules and regulations as may be necessary to perform such functions.
+2\. Hereby prohibit, effective 12:01 A.M., Eastern Standard Time, February 7, 1962, the importation into the United States of all goods of Cuban origin and all goods imported from or through Cuba; and I hereby authorize and direct the Secretary of the Treasury to carry out such prohibition, to make such exceptions thereto, by license or otherwise, as he determines to be consistent with the effective operation of the embargo hereby proclaimed, and to promulgate such rules and regulations as may be necessary to perform such functions.
 
 3\. AND FURTHER, I do hereby direct the Secretary of Commerce, under the provisions of the Export Control Act of 1949, as amended (50 U.S.C. App. 2021–2032), to continue to carry out the prohibition of all exports from the United States to Cuba, and I hereby authorize him, under that Act, to continue, make, modify or revoke exceptions from such prohibition.
 

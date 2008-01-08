@@ -198,7 +198,7 @@ Amendment by section 102 of Pub. L. 96–513 effective Sept. 15, 1981, but the a
 
 Amendment by section 511(4) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513.
 
-Section 1001(a)(2) of Pub. L. 96–342 provided that: “The amendments made by paragraph (1) \[amendingthis section\] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1981.”
+Section 1001(a)(2) of Pub. L. 96–342 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1981.”
 
 #### Applicability of Provisions Relating to Funds Not Heretofore Required To Be Authorized
 
@@ -246,7 +246,7 @@ Pub. L. 105–85, div. A, title XII, §§1203, 1206, Nov. 18, 1997, 111 Stat. 19
 
 “(a)
 
-Limitation.—No funds appropriated or otherwise made available for the Department of Defense for fiscal year 1998 or any subsequent fiscal year may be used for the deployment of any United States ground combat forces in the Republic of Bosnia and Herzegovina after June 30, 1998, unless the President, not later than May 15, 1998, and after consultation with the bipartisan leadership of the two Houses of Congress, transmits to Congress a certification—
+Limitation.—No funds appropriated or otherwise made available for the Department of Defense for fiscal year 1998 or any subsequent fiscal year may be used for the deployment of any United States ground combatforces in the Republic of Bosnia and Herzegovina after June 30, 1998, unless the President, not later than May 15, 1998, and after consultation with the bipartisan leadership of the two Houses of Congress, transmits to Congress a certification—
 
 &emsp;“(1) that the continued presence of United States ground combat forces, after June 30, 1998, in the Republic of Bosnia and Herzegovina is required in order to meet the national security interests of the United States; and
 

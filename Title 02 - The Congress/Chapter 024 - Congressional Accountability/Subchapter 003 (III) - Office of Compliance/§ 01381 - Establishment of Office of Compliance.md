@@ -26,7 +26,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (B) Incompatible office
 
-&emsp;&emsp;No member of the Board appointed under subsection (b) of this section may hold or may have held the position of Member of the House of Representatives or Senator, may hold the position of officer or employee of the House of Representatives, Senate, or instrumentality or other entity of the legislative branch, or may have held such a position (other than the position of an officer or employee of the General Accounting Office Personnel Appeals Board,<sup>2</sup> an officer or employee of the Office of Fair Employment Practices of the House of Representatives, or officer or employee of the Office of Senate Fair Employment Practices) within 4 years of the date of appointment.
+&emsp;&emsp;No member of the Board appointed under subsection (b) of this section may hold or may have held the position of Member of the House of Representatives or Senator, may hold the position of officer or employee of the House of Representatives, Senate, or instrumentality or other entity of the legislative branch (other than the Office), or may have held such a position (other than the position of an officer or employee of the General Accounting Office Personnel Appeals Board,<sup>2</sup> an officer or employee of the Office of Fair Employment Practices of the House of Representatives, or officer or employee of the Office of Senate Fair Employment Practices) within 4 years of the date of appointment.
 
 #### (3) Vacancies
 
@@ -74,7 +74,17 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (1) Per diem
 
-&emsp;Each member of the Board shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Board. The rate of pay of a member may be prorated based on the portion of the day during which the member is engaged in the performance of Board duties.
+#### (A) Rate of compensation for each day
+
+&emsp;&emsp;Each member of the Board shall be compensated, for each day (including travel time) during which such member is engaged in the performance of the duties of the Board, at a rate equal to the daily equivalent of the lesser of—
+
+&emsp;&emsp;&emsp;(i) the highest annual rate of compensation of any officer of the Senate; or
+
+&emsp;&emsp;&emsp;(ii) the highest annual rate of compensation of any officer of the House of Representatives.
+
+#### (B) Authority to prorate
+
+&emsp;&emsp;The rate of pay of a member may be prorated based on the portion of the day during which the member is engaged in the performance of Board duties.
 
 #### (2) Travel expenses
 
@@ -102,7 +112,7 @@ The Office shall be open for business, including receipt of requests for counsel
 
 Members of the Board and officers and employees of the Office shall file the financial disclosure reports required under title I of the Ethics in Government Act of 1978 with the Clerk of the House of Representatives.
 
-(Pub. L. 104–1, title III, §301, Jan. 23, 1995, 109 Stat. 24; Pub. L. 108–349, §1(a), Oct. 21, 2004, 118 Stat. 1389.)
+(Pub. L. 104–1, title III, §301, Jan. 23, 1995, 109 Stat. 24; Pub. L. 108–349, §1(a), Oct. 21, 2004, 118 Stat. 1389; Pub. L. 110–161, div. H, title I, §1101(a), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, §1, Dec. 26, 2007, 121 Stat. 2459.)
 
 #### References in Text
 
@@ -113,6 +123,10 @@ This chapter, referred to in subsec. (h)(3), was in the original “this Act”,
 The Ethics in Government Act of 1978, referred to in subsec. (k), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
+
+2007—Subsec. (d)(2)(B). Pub. L. 110–164 substituted “legislative branch (other than the Office),” for “legislative branch,”.
+
+Subsec. (g)(1). Pub. L. 110–161 added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Each member of the Board shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Board. The rate of pay of a member may be prorated based on the portion of the day during which the member is engaged in the performance of Board duties.”
 
 2004—Subsec. (e)(1). Pub. L. 108–349 amended second sentence generally. Prior to amendment, second sentence read as follows: “A member of the Board who is appointed to a term of office of more than 3 years shall only be eligible for appointment for a single term of office.”
 
@@ -126,7 +140,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–349, §1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: “The amendment made by subsection (a)\[amending this section\] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
+Pub. L. 108–349, §1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

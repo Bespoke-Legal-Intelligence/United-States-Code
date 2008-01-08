@@ -12,7 +12,7 @@ Ownership.—The United States Government shall retain ownership of the corporat
 
 (b)
 
-Maintenance and Expenses.—Those buildings shall remain under the supervision of theAdministrator of General Services. However, the corporation shall care for and maintain the buildings without expense to the Government.
+Maintenance and Expenses.—Those buildings shall remain under the supervision of the Administrator of General Services. However, the corporation shall care for and maintain the buildings without expense to the Government.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493.)
 
@@ -44,7 +44,7 @@ In subsection (b), the words “Administrator of General Services” are substit
 
 #### Permanent Building for District of Columbia Chapter
 
-Act July 1, 1947, ch. 195, 61 Stat. 241, as amended by Pub. L. 100–637, §1, Nov. 8, 1988, 102 Stat. 3325, provided: “That authority be, and is hereby, given to the American National Red Cross to erect upon the south half of square 104 in the city of Washington, District of Columbia, a permanent building for the use of the District of Columbia Chapter, American National Red Cross, in connection with its work, in cooperation with the Government of the United States and its responsibilities under its charter granted by the Congress of the United States.
+Act July 1, 1947, ch. 195, 61 Stat. 241, as amended by Pub. L. 100–637, §1, Nov. 8, 1988, 102 Stat. 3325, provided:“That authority be, and is hereby, given to the American National Red Cross to erect upon the south half of square 104 in the city of Washington, District of Columbia, a permanent building for the use of the District of Columbia Chapter, American National Red Cross, in connection with its work, in cooperation with the Government of the United States and its responsibilities under its charter granted by the Congress of the United States.
 
 “
 

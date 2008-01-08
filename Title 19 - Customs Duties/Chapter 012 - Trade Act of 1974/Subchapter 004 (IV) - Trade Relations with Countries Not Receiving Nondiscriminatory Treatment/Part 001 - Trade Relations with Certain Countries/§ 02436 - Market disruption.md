@@ -2,7 +2,7 @@
 
 #### (a) Investigation by International Trade Commission; report; publication
 
-(1) Upon the filing of a petition by an entity described in section 2252(a) of this title, upon request of the President or the United States Trade Representative, upon resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Financeof the Senate, or on its own motion, the International Trade Commission (hereafter in this section referred to as the “Commission”) shall promptly make an investigation to determine, with respect to imports of an article which is the product of a Communist country, whether market disruption exists with respect to an article produced by a domestic industry.
+(1) Upon the filing of a petition by an entity described in section 2252(a) of this title, upon request of the President or the United States Trade Representative, upon resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the International Trade Commission (hereafter in this section referred to as the “Commission”) shall promptly make an investigation to determine, with respect to imports of an article which is the product of a Communist country, whether market disruption exists with respect to an article produced by a domestic industry.
 
 (2) The provisions of subsections (a)(3), (b)(4),<sup>1</sup> and (c)(4) of section 2252 of this title shall apply with respect to investigations by the Commission under paragraph (1).
 
@@ -22,7 +22,7 @@ With respect to any affirmative determination of the Commission under subsection
 
 &emsp;(A) the President may take action under such sections 2252 and 2253 of this title only with respect to imports from the country or countries involved of the article with respect to which the affirmative determination was made; and
 
-&emsp;(B) if such action consists of, or includes, an orderly marketing agreement, such agreement shall be entered into within 60 days after the import relief determination date.
+&emsp;(B) if such action consists of, or includes, an orderly marketing agreement, such agreementshall be entered into within 60 days after the import relief determination date.
 
 #### (c) Products of Communist countries
 
@@ -46,7 +46,7 @@ For purposes of this section—
 
 &emsp;&emsp;(i) Imports of an article shall be considered to be increasing rapidly if there has been a significant increase in such imports (either actual or relative to domestic production) during a recent period of time.
 
-&emsp;&emsp;(ii) The term “significant cause” refers to a cause which contributes significantly tothe material injury of the domestic industry, but need not be equal to or greater than any other cause.
+&emsp;&emsp;(ii) The term “significant cause” refers to a cause which contributes significantly to the material injury of the domestic industry, but need not be equal to or greater than any other cause.
 
 &emsp;(C) The Commission, in determining whether market disruption exists, shall consider, among other factors—
 
@@ -88,7 +88,7 @@ Subsec. (e)(2). Pub. L. 100–418, §1411(a)(3), designated existing provisions 
 
 #### Change of Name
 
-“United States Trade Representative” substituted for “Special Representative for Trade Negotiations” in subsec. (a)(1), pursuant to Reorg. Plan No. 3 of 1979, §1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
+“United States Trade Representative” substituted for “Special Representative for Trade Negotiations” insubsec. (a)(1), pursuant to Reorg. Plan No. 3 of 1979, §1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
 
 #### Effective Date of 1988 Amendment
 

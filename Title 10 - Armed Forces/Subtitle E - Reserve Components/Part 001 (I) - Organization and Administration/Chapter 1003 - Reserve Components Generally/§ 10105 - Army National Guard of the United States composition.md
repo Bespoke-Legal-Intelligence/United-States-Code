@@ -98,7 +98,7 @@ Establishment of Personnel Account.—The Secretary of the Army shall establish 
 
 “(b)
 
-Use of Account.—Until a member of the Army Selected Reserve has completed the minimum training necessary for deployment, the member may not be assigned to fill a position in a Selected Reserve unit butshall be carried in the account established under subsection (a).
+Use of Account.—Until a member of the Army Selected Reserve has completed the minimum training necessary for deployment, the member may not be assigned to fill a position in a Selected Reserve unit but shall be carried in the account established under subsection (a).
 
 “(c)
 
@@ -226,5 +226,5 @@ Use of Designators.—(1) The Secretary shall establish procedures to link the U
 
 #### “SEC. 1137. STUDY OF IMPLEMENTATION FOR ALL RESERVE COMPONENTS.
 
-“The Secretary of Defense shall conduct an assessment of the feasibility of implementing the provisions of this title for all reserve components. Not later than December 31, 1993, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing a plan for such implementation.”
+“The Secretary of Defense shall conduct an assessment of the feasibility of implementing the provisionsof this title for all reserve components. Not later than December 31, 1993, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing a plan for such implementation.”
 

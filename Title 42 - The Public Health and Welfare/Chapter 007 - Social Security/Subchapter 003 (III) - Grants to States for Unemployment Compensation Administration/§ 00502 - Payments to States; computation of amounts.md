@@ -10,7 +10,7 @@ Out of the sums appropriated therefor, the Secretary of the Treasury shall, upon
 
 #### (c) Mailing costs
 
-No portion of the cost of mailing a statement under section 6050B(b) of the Internal RevenueCode of 1986 (relating to unemployment compensation) shall be treated as not being a cost for the proper and efficient administration of the State unemployment compensation law by reason of including with such statement information about the earned income credit provided by section 32 of the Internal Revenue Code of 1986. The preceding sentence shall not apply if the inclusion of such information increases the postage required to mail such statement.
+No portion of the cost of mailing a statement under section 6050B(b) of the Internal Revenue Code of 1986 (relating to unemployment compensation) shall be treated as not being a cost for the proper and efficient administration of the State unemployment compensation law by reason of including with such statement information about the earned income credit provided by section 32 of the Internal Revenue Code of 1986. The preceding sentence shall not apply if the inclusion of such information increases the postage required to mail such statement.
 
 (Aug. 14, 1935, ch. 531, title III, §302, 49 Stat. 626; Aug. 10, 1939, ch. 666, title III, §301, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Pub. L. 98–369, div. B, title VI, §2663(b)(1), July 18, 1984, 98 Stat. 1165; Pub. L. 99–603, title I, §121(b)(3), Nov. 6, 1986, 100 Stat. 3390; Pub. L. 102–318, title III, §302(a), July 3, 1992, 106 Stat. 297; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

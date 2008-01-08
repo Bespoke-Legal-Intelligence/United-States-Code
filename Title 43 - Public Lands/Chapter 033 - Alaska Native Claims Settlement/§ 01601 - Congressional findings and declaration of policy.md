@@ -38,7 +38,7 @@ Pub. L. 105–333, §14, Oct. 31, 1998, 112 Stat. 3136, provided that: “This A
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–415, §1, Oct. 14, 1992, 106 Stat. 2112, provided that: “This Act \[amending sections 1606, 1617,1620, 1621, 1626, and 1634 of this title and section 3198 of Title 16, Conservation, and enacting provisions set out as notes under section 852 of this title and section 539 of Title 16\] may be cited as the ‘Alaska Land Status Technical Corrections Act of 1992’.”
+Pub. L. 102–415, §1, Oct. 14, 1992, 106 Stat. 2112, provided that: “This Act \[amending sections 1606, 1617, 1620, 1621, 1626, and 1634 of this title and section 3198 of Title 16, Conservation, and enacting provisions set out as notes under section 852 of this title and section 539 of Title 16\] may be cited as the ‘Alaska Land Status Technical Corrections Act of 1992’.”
 
 #### Short Title of 1988 Amendment
 
@@ -56,7 +56,7 @@ Section 26 of Pub. L. 92–203 provided that: “To the extent that there is a c
 
 #### Severability
 
-Section 27 of Pub. L. 92–203, as amended by Pub. L. 100–241, §13, Feb. 3, 1988, 101 Stat. 1810, provided that: “The provisions of this Act, as amended \[enacting this chapter\], and the Alaska Native Claims Settlement Act Amendments of 1987 \[Pub. L. 100–241, see Short Title of 1988 Amendment note above\] are severable. If any provision of either Act is determined by a court of competent jurisdiction to be invalid, such invalidity shall not affect the validity of any other provision of either Act.”
+Section 27 of Pub. L. 92–203, as amended by Pub. L. 100–241, §13, Feb. 3, 1988, 101 Stat. 1810, provided that:“The provisions of this Act, as amended \[enacting this chapter\], and the Alaska Native Claims Settlement Act Amendments of 1987 \[Pub. L. 100–241, see Short Title of 1988 Amendment note above\] are severable. If any provision of either Act is determined by a court of competent jurisdiction to be invalid, such invalidity shall not affect the validity of any other provision of either Act.”
 
 #### Congressional Findings and Declaration of Policy
 

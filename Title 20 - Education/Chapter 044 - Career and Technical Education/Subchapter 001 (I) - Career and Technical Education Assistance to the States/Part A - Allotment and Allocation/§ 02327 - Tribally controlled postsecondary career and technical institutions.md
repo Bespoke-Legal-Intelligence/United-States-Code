@@ -16,11 +16,11 @@ Amounts made available under this section shall be used for career and technical
 
 #### (2) Per capita determination
 
-&emsp;For the purposes of paragraph (1), the per capita payment for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled postsecondary career and technical institutions under this section for such program year by the sum of the Indian student counts of such institutions for such program year. The Secretary shall, on the basis of the most accurate data available from the institutions, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this section.
+&emsp;For the purposes of paragraph (1), the per capita payment for any fiscal year shall be determined by dividing the amount available forgrants to tribally controlled postsecondary career and technical institutions under this section for such program year by the sum of the Indian student counts of such institutions for such program year. The Secretary shall, on the basis of the most accurate data available from the institutions, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this section.
 
 #### (3) Indirect costs
 
-&emsp;Notwithstanding any other provision of law or regulation, the Secretary shall not requirethe use of a restricted indirect cost rate for grants issued under this section.
+&emsp;Notwithstanding any other provision of law or regulation, the Secretary shall not require the use of a restricted indirect cost rate for grants issued under this section.
 
 #### (d) Applications
 

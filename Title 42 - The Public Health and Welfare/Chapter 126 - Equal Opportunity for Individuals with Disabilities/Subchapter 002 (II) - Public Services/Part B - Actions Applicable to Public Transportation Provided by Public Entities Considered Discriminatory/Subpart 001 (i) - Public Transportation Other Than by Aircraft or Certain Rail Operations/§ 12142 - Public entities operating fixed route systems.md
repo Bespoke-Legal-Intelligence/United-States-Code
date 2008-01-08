@@ -2,7 +2,7 @@
 
 #### (a) Purchase and lease of new vehicles
 
-It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates a fixed route system to purchase or lease a newbus, a new rapid rail vehicle, a new light rail vehicle, or any other new vehicle to be used on such system, if the solicitation for such purchase or lease is made after the 30th day following July 26, 1990, and if such bus, rail vehicle, or other vehicle is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
+It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates a fixed route system to purchase or lease a new bus, a new rapid rail vehicle, a new light rail vehicle, or any other new vehicle to be used on such system, if the solicitation for such purchase or lease is made after the 30th day following July 26, 1990, and if such bus, rail vehicle, or other vehicle is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
 
 #### (b) Purchase and lease of used vehicles
 
@@ -24,7 +24,7 @@ Subject to subsection (c)(1) of this section, it shall be considered discriminat
 
 #### (A) General rule
 
-&emsp;&emsp;If a public entity operates a fixed route system any segment of which is included on the National Register of Historic Places and if making a vehicle of historic character to be used solely on such segment readily accessible to and usable by individuals with disabilities would significantly alter the historic character of such vehicle, the public entity only has to make (or to purchase or lease a remanufactured vehicle with) those modifications which are necessary to meet the requirements of paragraph (1) and which do not significantly alter the historic character of such vehicle.
+&emsp;&emsp;If a public entity operates a fixed route system any segment of which is included on the National Register of Historic Places andif making a vehicle of historic character to be used solely on such segment readily accessible to and usable by individuals with disabilities would significantly alter the historic character of such vehicle, the public entity only has to make (or to purchase or lease a remanufactured vehicle with) those modifications which are necessary to meet the requirements of paragraph (1) and which do not significantly alter the historic character of such vehicle.
 
 #### (B) Vehicles of historic character defined by regulations
 

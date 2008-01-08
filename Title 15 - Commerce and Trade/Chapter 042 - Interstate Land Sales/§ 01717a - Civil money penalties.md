@@ -8,7 +8,7 @@
 
 #### (2) Amount of penalty
 
-&emsp;The amount of the penalty, as determined by the Secretary, may not exceed $1,000 for each violation, except that the maximum penalty for all violations by a particular person duringany 1-year period shall not exceed $1,000,000. Each violation of this chapter, or any rule, regulation, or order issued under this chapter, shall constitute a separate violation with respect to each sale or lease or offer to sell or lease. In the case of a continuing violation, as determined by the Secretary, each day shall constitute a separate violation.
+&emsp;The amount of the penalty, as determined by the Secretary, may not exceed $1,000 for each violation, except that the maximum penalty for all violations by a particular person during any 1-year period shall not exceed $1,000,000. Each violation of this chapter, or any rule, regulation, or order issued under this chapter, shall constitute a separate violation with respect to each sale or lease or offer to sell or lease. In the case of a continuing violation, as determined by the Secretary, each day shall constitute a separate violation.
 
 #### (b) Agency procedures
 

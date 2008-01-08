@@ -48,7 +48,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 &emsp;(B) will meet the obligation of the facility under clause (1) of section 291c(e) of this title.
 
-(2) The Secretary may waive the recovery rights of the United States under subsection (a)(2) of this section with respect to a facility inany State if the Secretary determines, in accordance with regulations, that there is good cause for waiving such rights with respect to such facility.
+(2) The Secretary may waive the recovery rights of the United States under subsection (a)(2) of this section with respect to a facility in any State if the Secretary determines, in accordance with regulations, that there is good cause for waiving such rights with respect to such facility.
 
 #### (e) Lien
 
@@ -58,7 +58,7 @@ The right of recovery of the United States under subsection (a) of this section 
 
 #### Prior Provisions
 
-A prior section 291i, act July 1, 1944, ch. 373, title VI, §631, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 19, 1948, ch. 544, 62 Stat. 531; Oct. 25, 1949, ch. 722, §9, 63 Stat. 901; July 12, 1954, ch. 471, §4(c)–(f), 68 Stat. 465, 466; Aug. 1, 1956, ch. 852, §19(a), (b), 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §31(c), 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §29(d), 74 Stat. 419; Oct. 5, 1961, Pub. L. 87–395, §5, 75 Stat. 826; Sept. 25, 1962, Pub. L. 87–688, §4(a)(2), 76 Stat. 587, related to allotment percentages, and contained various definitions, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291b of this title.
+A prior section 291i, act July 1, 1944, ch. 373, title VI, §631, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041;amended June 19, 1948, ch. 544, 62 Stat. 531; Oct. 25, 1949, ch. 722, §9, 63 Stat. 901; July 12, 1954, ch. 471, §4(c)–(f), 68 Stat. 465, 466; Aug. 1, 1956, ch. 852, §19(a), (b), 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §31(c), 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §29(d), 74 Stat. 419; Oct. 5, 1961, Pub. L. 87–395, §5, 75 Stat. 826; Sept. 25, 1962, Pub. L. 87–688, §4(a)(2), 76 Stat. 587, related to allotment percentages, and contained various definitions, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291b of this title.
 
 Provisions similar to those comprising this section were contained in section 291h(e) of this title, act July 1, 1944, ch. 373, title VI, §625, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §3(c), 63 Stat. 899, 901; July 12, 1954, ch. 471, §4(b), 68 Stat. 464, prior to the general amendment of this subchapter by Pub. L. 88–443.
 

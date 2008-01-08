@@ -1,6 +1,6 @@
 ### §70302. International measures for seaport and vessel security
 
-Congress encourages the President to continue to seek agreement on international seaport and vessel security through the International Maritime Organization. In developing an agreement, each member country of the International Maritime Organization should consult with appropriate private sector interests in that country. The agreement would establish seaport and vessel security measures and could include—
+Congress encourages the President to continue to seek agreement on international seaport and vessel security through the International Maritime Organization. In developing an agreement,each member country of the International Maritime Organization should consult with appropriate private sector interests in that country. The agreement would establish seaport and vessel security measures and could include—
 
 &emsp;(1) seaport screening of cargo and baggage similar to that done at airports;
 

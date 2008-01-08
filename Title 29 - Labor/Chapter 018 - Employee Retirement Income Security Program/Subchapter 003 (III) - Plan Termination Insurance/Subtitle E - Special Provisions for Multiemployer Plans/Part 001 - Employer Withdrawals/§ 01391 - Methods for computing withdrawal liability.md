@@ -70,7 +70,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;(iii) any amount which the plan sponsor determines to be uncollectible or unassessable in that plan year for other reasons under standards not inconsistent with regulations prescribed by the corporation.
 
-(C) The unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the reallocated unfunded vested benefits for the plan year, reduced by 5 percent of such reallocated unfunded vested benefits for each succeeding plan year.
+(C) The unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the reallocated unfunded vested benefits for the plan year, reduced by 5 percentof such reallocated unfunded vested benefits for each succeeding plan year.
 
 (D) An employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the product of—
 
@@ -106,7 +106,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the numerator of which is the total amount required to be contributed under the plan by the employer for the last 5 plan years ending before the date on which the employer withdraws, and
 
-&emsp;&emsp;(II) the denominator of which is the total amount contributed under the plan by allemployers for the last 5 plan years ending before the date on which the employer withdraws, increased by the amount of any employer contributions owed with respect to earlier periods which were collected in those plan years, and decreased by any amount contributed by an employer who withdrew from the plan under this part during those plan years.
+&emsp;&emsp;(II) the denominator of which is the total amount contributed under the plan by all employers for the last 5 plan years ending before the date on which the employer withdraws, increased by the amount of any employer contributions owed with respect to earlier periods which were collected in those plan years, and decreased by any amount contributed by an employer who withdrew from the plan under this part during those plan years.
 
 (D) The corporation may by regulation permit adjustments in any denominator under this section, consistent with the purposes of this subchapter, where such adjustment would be appropriate to ease administrative burdens of plan sponsors in calculating such denominators.
 
@@ -158,7 +158,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the numerator of which is the amount determined under clause (ii)(I) of this subparagraph, less the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in such clause (ii)(I) which are attributable to service with the employer; and
 
-&emsp;&emsp;(II) the denominator of which is the amount determined under clause (ii)(II) of this subparagraph, reduced by the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in suchclause (ii)(II) which are attributable to service with respect to the employers described in such clause (ii)(II).
+&emsp;&emsp;(II) the denominator of which is the amount determined under clause (ii)(II) of this subparagraph, reduced by the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in such clause (ii)(II) which are attributable to service with respect to the employers described in such clause (ii)(II).
 
 (E) The amount of the plan's unfunded vested benefits for a plan year preceding the plan year in which an employer withdraws, which is not attributable to service with employers who have an obligation to contribute under the plan in the plan year preceding the plan year in which such employer withdraws, is equal to—
 
@@ -178,7 +178,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (F) The employer's proportional share described in subparagraph (A)(ii) for a plan year is the amount determined under subparagraph (E) for the employer, but not in excess of an amount which bears the same ratio to the sum of the amounts determined under subparagraph (E) for all employers under the plan as the amount determined under subparagraph (C) for the employer bears to the sum of the amounts determined under subparagraph (C) for all employers under the plan.
 
-(G) The corporation may prescribe by regulation other methods which a plan may adopt for allocating assets to determine the amount of the unfunded vested benefits attributable to service with the employer and to determine the employer's share of unfunded vested benefits not attributable to service with employers who have an obligation to contribute under the plan in the plan year in which the employer withdraws.
+(G) The corporation may prescribe by regulation other methods which a plan may adopt for allocating assets to determine the amount of the unfunded vested benefits attributable to service with the employer and to determine the employer's share of unfunded vested benefits notattributable to service with employers who have an obligation to contribute under the plan in the plan year in which the employer withdraws.
 
 (5)(A) The corporation shall prescribe by regulation a procedure by which a plan may, by amendment, adopt any other alternative method for determining an employer's allocable share of unfunded vested benefits under this section, subject to the approval of the corporation based on its determination that adoption of the method by the plan would not significantly increase the risk of loss to plan participants and beneficiaries or to the corporation.
 

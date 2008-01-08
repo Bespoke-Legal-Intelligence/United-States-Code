@@ -14,7 +14,7 @@
 
 #### (B) Alternative environmental protection procedure
 
-&emsp;&emsp;In lieu of applying environmental protection procedures otherwise applicable, the Secretary may by regulation provide for the release of funds for specific projects to theDepartment of Hawaiian Home Lands if the Director of the Department assumes all of the responsibilities for environmental review, decisionmaking, and action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and such other provisions of law as the regulations of the Secretary specify, that would apply to the Secretary were the Secretary to undertake those projects as Federal projects.
+&emsp;&emsp;In lieu of applying environmental protection procedures otherwise applicable, the Secretary may by regulation provide for the release of funds for specific projects to the Department of Hawaiian Home Lands if the Director of the Department assumes all of the responsibilities for environmental review, decisionmaking, and action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and such other provisions of law as the regulations of the Secretary specify, that would apply to the Secretary were the Secretary to undertake those projects as Federal projects.
 
 #### (2) Regulations
 
@@ -44,7 +44,7 @@
 
 #### (2) Effect of approval
 
-&emsp;The approval of the Secretary of a certification described in paragraph (1) shall be deemed to satisfy the responsibilities of the Secretary under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and such other provisions of law as the regulations of the Secretary specify to the extent that those responsibilities relate to the releases of funds for projects that are covered by that certification.
+&emsp;The approval of the Secretary of a certification described in paragraph (1) shall be deemed to satisfy the responsibilities of theSecretary under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and such other provisions of law as the regulations of the Secretary specify to the extent that those responsibilities relate to the releases of funds for projects that are covered by that certification.
 
 #### (c) Certification
 

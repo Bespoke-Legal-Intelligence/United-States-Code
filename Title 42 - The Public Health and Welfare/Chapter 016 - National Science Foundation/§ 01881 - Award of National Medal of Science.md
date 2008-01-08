@@ -116,5 +116,7 @@ Term of the President's Committee on the National Medal of Science extended unti
 
 Term of the President's Committee on the National Medal of Science extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the National Medal of Science extended until Sept. 30, 2007, by Ex. Ord. No. 13385, §1(j), Sept. 29, 2005, 70 F.R. 57989, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the National Medal of Science extended until Sept. 30, 2007, by Ex. Ord. No. 13385, §1(j), Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on the National Medal of Science extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

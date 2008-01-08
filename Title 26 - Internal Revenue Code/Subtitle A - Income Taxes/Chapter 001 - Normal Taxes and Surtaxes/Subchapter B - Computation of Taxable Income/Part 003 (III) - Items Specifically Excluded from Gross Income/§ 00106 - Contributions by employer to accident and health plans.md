@@ -154,7 +154,7 @@ Subsec. (b)(6). Pub. L. 106–554 §1(a)(7) \[title II, §202(a)(2)\], substitut
 
 Subsec. (b)(7). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(A)\], substituted “Archer MSAs” for “medical savings accounts”.
 
-1996—Pub. L. 104–191, §301(c)(1), amended text generally. Prior to amendment, text read as follows: “Grossincome of an employee does not include employer-provided coverage under an accident or health plan.”
+1996—Pub. L. 104–191, §301(c)(1), amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include employer-provided coverage under an accident or health plan.”
 
 Subsec. (c). Pub. L. 104–191, §321(c)(2), added subsec. (c).
 

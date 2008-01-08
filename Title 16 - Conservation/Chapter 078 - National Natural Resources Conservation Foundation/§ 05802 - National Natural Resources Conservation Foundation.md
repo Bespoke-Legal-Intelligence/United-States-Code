@@ -18,7 +18,7 @@ The Foundation shall—
 
 &emsp;(5) encourage, accept, and administer private gifts of money and real and personal property for the benefit of, or in connection with, the conservation and related activities and services of the Department, particularly the Natural Resources Conservation Service;
 
-&emsp;(6) undertake, conduct, and encourage educational, technical, and other assistance, andother activities, that support the conservation and related programs administered by the Department (other than activities carried out on National Forest System lands), particularly the Natural Resources Conservation Service, except that the Foundation may not enforce or administer a regulation of the Department; and
+&emsp;(6) undertake, conduct, and encourage educational, technical, and other assistance, and other activities, that support the conservation and related programs administered by the Department (other than activities carried out on National Forest System lands), particularly the Natural Resources Conservation Service, except that the Foundation may not enforce or administer a regulation of the Department; and
 
 &emsp;(7) raise private funds to promote the purposes of the Foundation.
 

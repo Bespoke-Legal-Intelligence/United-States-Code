@@ -34,15 +34,13 @@ General.—In this chapter—
 
 &emsp;&emsp;(B) dual fueled automobile.
 
-&emsp;(3) except as provided in section 32908 of this title, “automobile” means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways (except a vehicle operated only on a rail line), and rated at—
+&emsp;(3) except as provided in section 32908 of this title, “automobile” means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways and rated at less than 10,000 pounds gross vehicle weight, except—
 
-&emsp;&emsp;(A) not more than 6,000 pounds gross vehicle weight; or
+&emsp;&emsp;(A) a vehicle operated only on a rail line;
 
-&emsp;&emsp;(B) more than 6,000, but less than 10,000, pounds gross vehicle weight, if the Secretary decides by regulation that—
+&emsp;&emsp;(B) a vehicle manufactured in different stages by 2 or more manufacturers, if no intermediate or final-stage manufacturer of that vehicle manufactures more than 10,000 multi-stage vehicles per year; or
 
-&emsp;&emsp;&emsp;(i) an average fuel economy standard under this chapter for the vehicle is feasible; and
-
-&emsp;&emsp;&emsp;(ii) an average fuel economy standard under this chapter for the vehicle will result in significant energy conservation or the vehicle is substantially used for the same purposes as a vehicle rated at not more than 6,000 pounds gross vehicle weight.
+&emsp;&emsp;(C) a work truck.
 
 &emsp;(4) “automobile manufactured by a manufacturer” includes every automobile manufactured by a person that controls, is controlled by, or is under common control with the manufacturer, but does not include an automobile manufactured by the person that is exported not later than 30 days after the end of the model year in which the automobile is manufactured.
 
@@ -50,11 +48,13 @@ General.—In this chapter—
 
 &emsp;(6) “average fuel economy standard” means a performance standard specifying a minimum level of average fuel economy applicable to a manufacturer in a model year.
 
-&emsp;(7) “dedicated automobile” means an automobile that operates only on alternative fuel.
+&emsp;(7) “commercial medium- and heavy-duty on-highway vehicle” means an on-highway vehicle with a gross vehicle weight rating of 10,000 pounds or more.
 
-&emsp;(8) “dual fueled automobile” means an automobile that—
+&emsp;(8) “dedicated automobile” means an automobile that operates only on alternative fuel.
 
-&emsp;&emsp;(A) is capable of operating on alternative fuel and on gasoline or diesel fuel;
+&emsp;(9) “dual fueled automobile” means an automobile that—
+
+&emsp;&emsp;(A) is capable of operating on alternative fuel or a mixture of biodiesel and diesel fuel meeting the standard established by the American Society for Testing and Materials or under section 211(u) of the Clean Air Act (42 U.S.C. 7545(u)) for fuel containing 20 percent biodiesel (commonly known as “B20”) and on gasoline or diesel fuel;
 
 &emsp;&emsp;(B) provides equal or superior energy efficiency, as calculated for the applicable model year during fuel economy testing for the United States Government, when operating on alternative fuel as when operating on gasoline or diesel fuel;
 
@@ -62,7 +62,7 @@ General.—In this chapter—
 
 &emsp;&emsp;(D) for a passenger automobile, meets or exceeds the minimum driving range prescribed under subsection (c) of this section.
 
-&emsp;(9) “fuel” means—
+&emsp;(10) “fuel” means—
 
 &emsp;&emsp;(A) gasoline;
 
@@ -70,31 +70,39 @@ General.—In this chapter—
 
 &emsp;&emsp;(C) other liquid or gaseous fuel that the Secretary decides by regulation to include in this definition as consistent with the need of the United States to conserve energy.
 
-&emsp;(10) “fuel economy” means the average number of miles traveled by an automobile foreach gallon of gasoline (or equivalent amount of other fuel) used, as determined by the Administrator under section 32904(c) of this title.
+&emsp;(11) “fuel economy” means the average number of miles traveled by an automobile for each gallon of gasoline (or equivalent amount of other fuel) used, as determined by the Administrator under section 32904(c) of this title.
 
-&emsp;(11) “import” means to import into the customs territory of the United States.
+&emsp;(12) “import” means to import into the customs territory of the United States.
 
-&emsp;(12) “manufacture” (except under section 32902(d) of this title) means to produce or assemble in the customs territory of the United States or to import.
+&emsp;(13) “manufacture” (except under section 32902(d) of this title) means to produce or assemble in the customs territory of the United States or to import.
 
-&emsp;(13) “manufacturer” means—
+&emsp;(14) “manufacturer” means—
 
 &emsp;&emsp;(A) a person engaged in the business of manufacturing automobiles, including a predecessor or successor of the person to the extent provided under regulations prescribed by the Secretary; and
 
 &emsp;&emsp;(B) if more than one person is the manufacturer of an automobile, the person specified under regulations prescribed by the Secretary.
 
-&emsp;(14) “model” means a class of automobiles as decided by regulation by the Administrator after consulting and coordinating with the Secretary.
+&emsp;(15) “model” means a class of automobiles as decided by regulation by the Administrator after consulting and coordinating with the Secretary.
 
-&emsp;(15) “model year”, when referring to a specific calendar year, means—
+&emsp;(16) “model year”, when referring to a specific calendar year, means—
 
 &emsp;&emsp;(A) the annual production period of a manufacturer, as decided by the Administrator, that includes January 1 of that calendar year; or
 
 &emsp;&emsp;(B) that calendar year if the manufacturer does not have an annual production period.
 
-&emsp;(16) “passenger automobile” means an automobile that the Secretary decides by regulation is manufactured primarily for transporting not more than 10 individuals, but does not include an automobile capable of off-highway operation that the Secretary decides by regulation—
+&emsp;(17) “non-passenger automobile” means an automobile that is not a passenger automobile or a work truck.
+
+&emsp;(18) “passenger automobile” means an automobile that the Secretary decides by regulation is manufactured primarily for transporting not more than 10 individuals, but does not include an automobile capable of off-highway operation that the Secretary decides by regulation—
 
 &emsp;&emsp;(A) has a significant feature (except 4-wheel drive) designed for off-highway operation; and
 
 &emsp;&emsp;(B) is a 4-wheel drive automobile or is rated at more than 6,000 pounds gross vehicle weight.
+
+&emsp;(19) “work truck” means a vehicle that—
+
+&emsp;&emsp;(A) is rated at between 8,500 and 10,000 pounds gross vehicle weight; and
+
+&emsp;&emsp;(B) is not a medium-duty passenger vehicle (as defined in section 86.1803–01 of title 40, Code of Federal Regulations, as in effect on the date of the enactment of the Ten-in-Ten Fuel Economy Act).
 
 (b)
 
@@ -112,7 +120,7 @@ Minimum Driving Ranges for Dual Fueled Passenger Automobiles.—(1) The Secretar
 
 (3) In prescribing a minimum driving range under paragraph (1) of this subsection and in taking an action under paragraph (2) of this subsection, the Secretary shall consider the purpose set forth in section 3 of the Alternative Motor Fuels Act of 1988 (Public Law 100–494, 102 Stat. 2442), consumer acceptability, economic practicability, technology, environmental impact, safety, drivability, performance, and other factors the Secretary considers relevant.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1056.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1056; Pub. L. 110–140, title I, §103(a), Dec. 19, 2007, 121 Stat. 1501.)
 
 Historical and Revision Notes
 
@@ -218,7 +226,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §501(8), (9); added Dec. 22, 197
 
 In this chapter, the word “model” is substituted for “model type” for consistency in this part.
 
-In subsection (a)(3), before clause (A), the words “except as provided in section 32908 of this title” are added for clarity. The word “line” is added for consistency in the revised title and with other titles of the United States Code. The words “or rails” are omitted because of 1:1. The text of 15:2001(1) (last sentence) is omitted because of 49:322(a). The text of 15:2001(13) and (14) is omitted as surplus because the complete names of the Secretary of Transportation and Administrator of the Environmental Protection Agency are used the first time the terms appear in a section. The text of 15:2001\(related to 15:2011) is omitted because 15:2011 is outside the scope of the restatement. See section 4(c) of the bill.
+In subsection (a)(3), before clause (A), the words “except as provided in section 32908 of this title” are added for clarity. The word “line” is added for consistency in the revised title and with other titles of the United States Code. The words “or rails” are omitted because of 1:1. The text of 15:2001(1) (last sentence) is omitted because of 49:322(a). The text of 15:2001(13) and (14) is omitted as surplus because the complete names of the Secretary of Transportation and Administrator of the Environmental Protection Agency are used the first time the terms appear in a section. The text of 15:2001 (related to 15:2011) is omitted because 15:2011 is outside the scope of the restatement. See section 4(c) of the bill.
 
 In subsection (a)(4), the words “ ‘automobile manufactured by a manufacturer’ includes” are substituted for “Any reference in this subchapter to automobiles manufactured by a manufacturer shall be deemed—(1) to include” to eliminate unnecessary words. The word “every” is substituted for “all” because of the restatement. The words “but does not include” are substituted for “to exclude” for consistency. The words “manufactured by the person” are substituted for “manufactured (within the meaning of paragraph (1))” to eliminate unnecessary words.
 
@@ -236,5 +244,39 @@ In subsection (c)(1), the words “For purposes of the definitions in paragraph 
 
 #### References in Text
 
+The date of the enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (a)(19)(B), is the date of enactment of subtitle A (§§101–113) of title I of Pub. L. 110–140, which was approved Dec. 19, 2007.
+
 Section 3 of the Alternative Motor Fuels Act of 1988, referred to in subsec. (c)(3), is section 3 of Pub. L. 100–494, which is set out as a note under section 6374 of Title 42, The Public Health and Welfare.
+
+#### Amendments
+
+2007—Subsec. (a)(3). Pub. L. 110–140, §103(a)(1), added par. (3) and struck out former par. (3) which read as follows: “except as provided in section 32908 of this title, ‘automobile’ means a 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways (except a vehicle operated only on a rail line), and rated at—
+
+&emsp;“(A) not more than 6,000 pounds gross vehicle weight; or
+
+&emsp;“(B) more than 6,000, but less than 10,000, pounds gross vehicle weight, if the Secretary decides by regulation that—
+
+&emsp;&emsp;“(i) an average fuel economy standard under this chapter for the vehicle is feasible; and
+
+&emsp;&emsp;“(ii) an average fuel economy standard under this chapter for the vehicle will result in significant energy conservation or the vehicle is substantially used for the same purposes as a vehicle rated at not more than 6,000 pounds gross vehicle weight.”
+
+Subsec. (a)(7), (8). Pub. L. 110–140, §103(a)(2), (3), added par. (7) and redesignated former par. (7) as (8). Former par. (8) redesignated (9).
+
+Subsec. (a)(9). Pub. L. 110–140, §103(a)(2), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+
+Subsec. (a)(9)(A). Pub. L. 110–140, §103(a)(4), inserted “or a mixture of biodiesel and diesel fuel meeting the standard established by the American Society for Testing and Materials or under section 211(u) of the Clean Air Act (42 U.S.C. 7545(u)) for fuel containing 20 percent biodiesel (commonly known as ‘B20’)” after “alternative fuel”.
+
+Subsec. (a)(10) to (16). Pub. L. 110–140, §103(a)(2), redesignated pars. (9) to (15) as (10) to (16), respectively. Former par. (16) redesignated (17).
+
+Subsec. (a)(17). Pub. L. 110–140, §103(a)(6), added par. (17). Former par. (17) redesignated (18).
+
+Pub. L. 110–140, §103(a)(2), redesignated par. (16) as (17).
+
+Subsec. (a)(18). Pub. L. 110–140, §103(a)(5), redesignated par. (17) as (18).
+
+Subsec. (a)(19). Pub. L. 110–140, §103(a)(7), added par. (19).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

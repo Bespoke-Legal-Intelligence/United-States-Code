@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) The aggregate number of all immigration applications and petitions received, and processed, by the Department.
 
-&emsp;&emsp;(B) Region-by-region statistics on the aggregate number of immigration applications and petitions filed by an alien (or filed on behalf of an alien) and denied, disaggregated by category of denial and application or petition type.
+&emsp;&emsp;(B) Region-by-region statistics on the aggregate number of immigration applicationsand petitions filed by an alien (or filed on behalf of an alien) and denied, disaggregated by category of denial and application or petition type.
 
 &emsp;&emsp;(C) The quantity of backlogged immigration applications and petitions that have been processed, the aggregate number awaiting processing, and a detailed plan for eliminating the backlog.
 
@@ -35,4 +35,10 @@ It is the sense of Congress that—
 &emsp;(2) the Secretary should undertake efforts to guarantee that concerns regarding the quality and efficiency of immigration services are addressed after such effective date.
 
 (Pub. L. 107–296, title IV, §478, Nov. 25, 2002, 116 Stat. 2211.)
+
+#### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

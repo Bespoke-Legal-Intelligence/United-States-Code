@@ -34,7 +34,7 @@ The Commission may make such bylaws, rules, and regulations as it considers nece
 
 #### (f) Functions
 
-The Commission shall advise the Secretary on the management and development of the park.The Secretary, or his designee, shall from time to time, but at least semiannually, meet and consult with the Commission on matters relating to the management and development of the park.
+The Commission shall advise the Secretary on the management and development of the park. The Secretary, or his designee, shall from time to time, but at least semiannually, meet and consult with the Commission on matters relating to the management and development of the park.
 
 #### (g) Termination
 

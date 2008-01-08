@@ -94,7 +94,7 @@ Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, provi
 
 “(a)
 
-Establishment of Joint Technology Office on Hypersonics.—The Secretary of Defense shall establish within the Office of the Secretary of Defense a joint technology office on hypersonics. The office shall carry out the program required under subsection (b), and shall have such other responsibilities relating to hypersonics as the Secretary shall specify.
+Establishment of Joint Technology Office on Hypersonics.—The Secretary of Defense shall establish within the Office of the Secretary of Defense a joint technology office on hypersonics. The office shall carryout the program required under subsection (b), and shall have such other responsibilities relating to hypersonics as the Secretary shall specify.
 
 “(b)
 
@@ -210,7 +210,7 @@ Report.—Not later than January 31, 2005, the Director of Defense Research and 
 
 &emsp;“(5) A list of program capability goals and objectives.
 
-&emsp;“(6) An outline of the role of basic and applied research in support of the development and maturation of advanced vacuum electronics technologies needed to meet the requirements of the Department of Defense.
+&emsp;“(6) An outline of the role of basic and applied research in support of the development and maturationof advanced vacuum electronics technologies needed to meet the requirements of the Department of Defense.
 
 &emsp;“(7) Assessment of global capabilities in vacuum electronics technologies and the effect of those capabilities on the national security and economic competitiveness of the United States.”
 
@@ -402,7 +402,7 @@ Cooperation With Industry.—(1) The Secretary shall carry out the program in co
 
 “(2) The Secretary may enter into a cooperative agreement with one or more companies selected under paragraph (1) to establish an entity for carrying out activities required by subsection (c).
 
-“(3) The Secretary shall ensure that companies referred to in paragraph (1) collectively contribute, in cash or in kind, not less than one-half of the total cost of carrying out the program under this section.
+“(3) The Secretary shall ensure that companies referred to in paragraph (1) collectively contribute, incash or in kind, not less than one-half of the total cost of carrying out the program under this section.
 
 “(e)
 
@@ -596,7 +596,7 @@ Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, as am
 
 Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
 
-Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667;Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502, provided that:
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, titleII, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502, provided that:
 
 “(a)
 
@@ -678,7 +678,7 @@ General Rule.—In conducting or supporting clinical research, the Secretary of 
 
 “(b)
 
-Waiver Authority.—The requirement in subsection (a) regarding women and members of minority groups who are members of the Armed Forces may be waived by the Secretary of Defense with respect to a project of clinical research if the Secretary determines that the inclusion, as subjects in the project, of women and members of minority groups, respectively—
+Waiver Authority.—The requirement in subsection (a) regarding women and members of minority groups who are members of the Armed Forces may be waived by the Secretary of Defense with respect to a project of clinical research if the Secretary determinesthat the inclusion, as subjects in the project, of women and members of minority groups, respectively—
 
 &emsp;“(1) is inappropriate with respect to the health of the subjects;
 

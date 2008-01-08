@@ -10,7 +10,7 @@ The Secretary may release to the public the names, addresses, and locations of a
 
 #### (b) Confidentiality
 
-Except as otherwise provided by law, an officer, employee, or agent of the Department shallnot divulge confidential business information obtained during a warehouse examination or other function performed as part of the duties of the officer, employee, or agent under this chapter.
+Except as otherwise provided by law, an officer, employee, or agent of the Department shall not divulge confidential business information obtained during a warehouse examination or other function performed as part of the duties of the officer, employee, or agent under this chapter.
 
 (Aug. 11, 1916, ch. 313, pt. C, §14, as added Pub. L. 106–472, title II, §201, Nov. 9, 2000, 114 Stat. 2068.)
 

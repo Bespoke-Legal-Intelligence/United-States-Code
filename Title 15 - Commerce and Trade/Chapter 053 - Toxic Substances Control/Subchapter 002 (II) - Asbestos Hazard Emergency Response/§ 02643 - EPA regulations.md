@@ -6,7 +6,7 @@ Within 360 days after October 22, 1986, the Administrator shall promulgate regul
 
 #### (b) Inspection
 
-The Administrator shall promulgate regulations which prescribe procedures, including the use of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material is present in a school building under the authority of a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) an inspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the “Guidance for Controlling Asbestos-Containing Materials in Buildings” (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
+The Administrator shall promulgate regulations which prescribe procedures, including the use of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material is present in a school building under the authorityof a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) an inspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the “Guidance for Controlling Asbestos-Containing Materials in Buildings” (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
 
 #### (c) Circumstances requiring response actions
 
@@ -54,7 +54,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (4) Response action for potentially damaged asbestos
 
-&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(C) ofthis section, methods for responding shall include methods identified in chapters 3 and 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”, unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become damaged, deteriorated, or delaminated.
+&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(C) of this section, methods for responding shall include methods identified in chapters 3 and 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”, unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become damaged, deteriorated, or delaminated.
 
 #### (5) Response action for potentially significantly damaged asbestos
 
@@ -74,7 +74,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 &emsp;&emsp;(C) describe the circumstances in which asbestos removal is necessary to protect human health.
 
-&emsp;Such information or advisory shall be based on the best available scientific evidence and shall be revised, republished, and redistributed as appropriate, to reflect new scientific findings.
+&emsp;Such information or advisory shall be based on the best available scientific evidence andshall be revised, republished, and redistributed as appropriate, to reflect new scientific findings.
 
 #### (e) Implementation
 
@@ -134,7 +134,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 &emsp;&emsp;&emsp;(ii) A statement that the contractor is accredited by another State which has adopted a contractor accreditation plan under section 2646(b) of this title or is accredited pursuant to an Administrator-approved course under section 2646(c) of this title.
 
-&emsp;&emsp;(I) An evaluation of resources needed to successfully complete response actions and carry out reinspection, surveillance, and operation and maintenance activities.
+&emsp;&emsp;(I) An evaluation of resources needed to successfully complete response actions andcarry out reinspection, surveillance, and operation and maintenance activities.
 
 #### (2) Statement by contractor
 
@@ -178,7 +178,7 @@ Any change made in the “Guidance for Controlling Asbestos-Containing Material 
 
 #### (2) Regulations
 
-&emsp;The Secretary of Defense, in cooperation with the Administrator, shall, to the extentfeasible and consistent with the national security, take such action as may be necessary to provide for the identification, inspection, and management (including abatement) of asbestos in any building used by the Department of Defense as an overseas school for dependents of members of the Armed Forces. Such identification, inspection, and management (including abatement) shall, subject to the preceding sentence, be carried out in a manner comparable to the manner in which a local educational agency is required to carry out such activities with respect to a school building under this subchapter.
+&emsp;The Secretary of Defense, in cooperation with the Administrator, shall, to the extent feasible and consistent with the national security, take such action as may be necessary to provide for the identification, inspection, and management (including abatement) of asbestos in any building used by the Department of Defense as an overseas school for dependents of members of the Armed Forces. Such identification, inspection, and management (including abatement) shall, subject to the preceding sentence, be carried out in a manner comparable to the manner in which a local educational agency is required to carry out such activities with respect to a school building under this subchapter.
 
 #### (m) Waiver
 

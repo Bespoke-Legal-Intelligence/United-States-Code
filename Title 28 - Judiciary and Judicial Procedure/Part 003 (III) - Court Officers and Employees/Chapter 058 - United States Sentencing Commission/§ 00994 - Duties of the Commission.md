@@ -32,7 +32,7 @@
 
 (b)(1) The Commission, in the guidelines promulgated pursuant to subsection (a)(1), shall, for each category of offense involving each category of defendant, establish a sentencing range that is consistent with all pertinent provisions of title 18, United States Code.
 
-(2) If a sentence specified by the guidelines includes a term of imprisonment, the maximum of the range established for such a term shall not exceed the minimum of that range by more than the greater of 25 percent or 6 months, except that, if the minimum term of the range is 30 years or more, the maximum may be life imprisonment.
+(2) If a sentence specified by the guidelines includes a term of imprisonment, the maximum ofthe range established for such a term shall not exceed the minimum of that range by more than the greater of 25 percent or 6 months, except that, if the minimum term of the range is 30 years or more, the maximum may be life imprisonment.
 
 (c) The Commission, in establishing categories of offenses for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
 
@@ -122,7 +122,7 @@
 
 &emsp;(2) the general inappropriateness of imposing consecutive terms of imprisonment for an offense of conspiring to commit an offense or soliciting commission of an offense and for an offense that was the sole object of the conspiracy or solicitation.
 
-(m) The Commission shall insure that the guidelines reflect the fact that, in many cases, current sentences do not accurately reflect the seriousness of the offense. This will require that, as a starting point in its development of the initial sets of guidelines for particular categories of cases, the Commission ascertain the average sentences imposed in such categories of cases prior to the creation of the Commission, and in cases involving sentences to terms of imprisonment, the length of such terms actually served. The Commission shall not be bound by such average sentences, and shall independently develop a sentencing range that is consistent with thepurposes of sentencing described in section 3553(a)(2) of title 18, United States Code.
+(m) The Commission shall insure that the guidelines reflect the fact that, in many cases, current sentences do not accurately reflect the seriousness of the offense. This will require that, as a starting point in its development of the initial sets of guidelines for particular categories of cases, the Commission ascertain the average sentences imposed in such categories of cases prior to the creation of the Commission, and in cases involving sentences to terms of imprisonment, the length of such terms actually served. The Commission shall not be bound by such average sentences, and shall independently develop a sentencing range that is consistent with the purposes of sentencing described in section 3553(a)(2) of title 18, United States Code.
 
 (n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower sentence than would otherwise be imposed, including a sentence that is lower than that established by statute as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense.
 
@@ -138,7 +138,7 @@
 
 &emsp;(3) use of existing Federal facilities, such as those currently within military jurisdiction.
 
-(r) The Commission, not later than two years after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect, and thereafter whenever it finds it advisable, shall recommend to the Congress that it raise or lower the grades, or otherwise modify the maximum penalties, of those offenses for which such an adjustment appears appropriate.
+(r) The Commission, not later than two years after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect, and thereafter whenever it finds it advisable,shall recommend to the Congress that it raise or lower the grades, or otherwise modify the maximum penalties, of those offenses for which such an adjustment appears appropriate.
 
 (s) The Commission shall give due consideration to any petition filed by a defendant requesting modification of the guidelines utilized in the sentencing of such defendant, on the basis of changed circumstances unrelated to the defendant, including changes in—
 
@@ -256,9 +256,13 @@ For termination, effective May 15, 2000, of provisions in subsec. (w) of this se
 
 #### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines
 
+Pub. L. 110–179, §5, Jan. 7, 2008, 121 Stat. 2557.—Fraud or theft offenses in connection with major disasters or emergencies.
+
+Pub. L. 110–177, title II, §209, Jan. 7, 2008, 121 Stat. 2538.—Online threats against United States officials, judges, or law enforcement officers and immediate family members.
+
 Pub. L. 109–476, §4, Jan. 12, 2007, 120 Stat. 3571.—Fraud in obtaining confidential phone records information of covered entity.
 
-Pub. L. 109–295, title V, §551(d), Oct. 4, 2006, 120 Stat. 1390.—Offenses involving border tunnels and passages.
+Pub. L. 109–295, title V, §551(d), Oct. 4, 2006, 120 Stat. 1390; Pub. L. 110–161, div. E, title V, §553(c), Dec. 26, 2007, 121 Stat. 2082.—Offenses involving border tunnels and passages.
 
 Pub. L. 109–248, title I, §141(b), July 27, 2006, 120 Stat. 602.—Offenses committed by person who fails to register as sex offender.
 
@@ -322,7 +326,7 @@ Pub. L. 106–310, div. B, title XXXVI, §§3663, 3664, Oct. 17, 2000, 114 Stat.
 
 Pub. L. 106–160, §3, Dec. 9, 1999, 113 Stat. 1774.—Electronic theft offenses.
 
-Pub. L. 105–318, §4, Oct. 30, 1998, 112 Stat. 3009.—Crimes against intellectual property.
+Pub. L. 105–318, §4, Oct. 30, 1998, 112 Stat. 3009.—Fraud and related activity in connection with identification documents and information.
 
 Pub. L. 105–314, title V, Oct. 30, 1998, 112 Stat. 2980.—Sexual abuse, transportation for illegal sexual activity, and distribution of pornography.
 
@@ -444,7 +448,7 @@ Expiration of Authority.—The authority of the Commission under paragraphs (1) 
 
 #### Submission to Congress of Initial Sentencing Guidelines
 
-Provisions directing that the United States Sentencing Commission submit to Congress within 30 months of Oct. 12, 1984, the initial sentencing guidelines promulgated pursuant to subsec. (a)(1) of this section, see section 235(a)(1)(B)(i) of Pub. L. 98–473, as amended, setout as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
+Provisions directing that the United States Sentencing Commission submit to Congress within 30 months of Oct. 12, 1984, the initial sentencing guidelines promulgated pursuant to subsec. (a)(1) of this section, see section 235(a)(1)(B)(i) of Pub. L. 98–473, as amended, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of Sentencing Guidelines
 

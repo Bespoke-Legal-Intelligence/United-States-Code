@@ -2,7 +2,7 @@
 
 #### (a) Apportionment of funds
 
-Any State desiring to avail itself of the benefits of this chapter shall, by its State fish and game department, submit programs or projects for fish restoration in either of the following two ways:
+Any State desiring to avail itself of the benefits of this chapter shall, by its State fish andgame department, submit programs or projects for fish restoration in either of the following two ways:
 
 (1) The State shall prepare and submit to the Secretary of the Interior a comprehensive fish and wildlife resource management plan which shall insure the perpetuation of these resources for the economic, scientific, and recreational enrichment of the people. Such plan shall be for a period of not less than five years and be based on projections of desires and needs of the people for a period of not less than fifteen years. It shall include provisions for updating at intervals of not more than three years and be provided in a format as may be required by the Secretary of the Interior. If the Secretary of the Interior finds that such plans conform to standards established by him and approves such plans, he may finance up to 75 per centum of the cost of implementing segments of those plans meeting the purposes of this chapter from funds apportioned under this chapter upon his approval of an annual agreement submitted to him.
 

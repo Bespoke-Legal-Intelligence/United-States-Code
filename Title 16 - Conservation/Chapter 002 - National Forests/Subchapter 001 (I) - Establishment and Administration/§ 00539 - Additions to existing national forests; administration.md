@@ -20,7 +20,7 @@ Pub. L. 102–415, §6, Oct. 14, 1992, 106 Stat. 2113, provided that:
 
 “(a)
 
-Boundary Adjustment.—The boundary of the Chugach National Forest, Alaska, is modified to include the approximately 9,300 acres as generally depicted on the map entitled ‘Official Map, Boundary Modification, Chugach National Forest’ and dated September 1988. The map shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
+Boundary Adjustment.—The boundary of the Chugach National Forest, Alaska, is modified to include the approximately 9,300 acres as generally depicted on the map entitled ‘Official Map, BoundaryModification, Chugach National Forest’ and dated September 1988. The map shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
 
 “(b)
 

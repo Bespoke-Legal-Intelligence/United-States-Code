@@ -46,7 +46,7 @@ In this section:
 
 #### Codification
 
-Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1997, and also as part of the Combatting Proliferation of Weapons of Mass Destruction Act of 1996, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
+Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1997, and also as part ofthe Combatting Proliferation of Weapons of Mass Destruction Act of 1996, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
 
 #### Change of Name
 

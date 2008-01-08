@@ -12,7 +12,7 @@
 
 (ii) The Secretary shall not have any authority given expressly to diplomatic or consular officers.
 
-(4) The Secretary is authorized to promulgate such rules and regulations as may be necessaryto carry out the functions of the Secretary of State and the Department of State. Unless otherwise specified in law, the Secretary may delegate authority to perform any of the functions of the Secretary or the Department to officers and employees under the direction and supervision of the Secretary. The Secretary may delegate the authority to redelegate any such functions.
+(4) The Secretary is authorized to promulgate such rules and regulations as may be necessary to carry out the functions of the Secretary of State and the Department of State. Unless otherwise specified in law, the Secretary may delegate authority to perform any of the functions of the Secretary or the Department to officers and employees under the direction and supervision of the Secretary. The Secretary may delegate the authority to redelegate any such functions.
 
 #### (b) Under Secretaries
 
@@ -94,7 +94,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (1) In general
 
-&emsp;There shall be established within the Department of State in the immediate office of the Secretary of State a Coordinator of United States Government Activities to Combat HIV/AIDS Globally, who shall be appointed by the President, by and with the advice and consent of the Senate. The Coordinator shall report directly to the Secretary.
+&emsp;There shall be established within the Department of State in the immediate office of the Secretary of State a Coordinator of UnitedStates Government Activities to Combat HIV/AIDS Globally, who shall be appointed by the President, by and with the advice and consent of the Senate. The Coordinator shall report directly to the Secretary.
 
 #### (2) Authorities and duties; definitions
 
@@ -239,6 +239,44 @@ Section 161(b) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(f)(2),
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of this title.
+
+#### Coordinator of United States Government Activities Providing Basic Education Assistance in Developing Countries
+
+Pub. L. 110–161, div. J, title VI, §664(b), (c), Dec. 26, 2007, 121 Stat. 2349, provided that:
+
+“(b)
+
+Coordinator.—There shall be established within the Department of State in the immediate office of the Director of United States Foreign Assistance, a Coordinator of United States Government activities to provide basic education assistance in developing countries (hereinafter in this section referred to as the ‘Coordinator’).
+
+“(c)
+
+Responsibilities.—That \[sic\] the Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government that provide assistance in developing countries for basic education. The individual serving as the Coordinator may not hold any other position in the Federal Government during the individual's time of service as Coordinator.”
+
+#### Advisor for Activities Relating to Indigenous Peoples Internationally
+
+Pub. L. 110–161, div. J, title VI, §699B, Dec. 26, 2007, 121 Stat. 2369, provided that:
+
+“(a)
+
+Advisor.—After consultation with the Committees on Appropriations and not later than 90 days after the enactment of this Act \[Dec. 26, 2007\], there shall be established within the Department of State in the immediate office of the Director of United States Foreign Assistance an Advisor for Activities Relating to Indigenous Peoples Internationally (hereinafter in this section referred to as the ‘Advisor’), who shall be appointed by the Director. The Advisor shall report directly to the Director.
+
+“(b)
+
+Responsibilities.—The Advisor shall:
+
+&emsp;“(1) Advise the Director of United States Foreign Assistance and the Administrator of the United States Agency for International Development on matters relating to the rights and needs of indigenous peoples internationally and should represent the United States Government on such matters in meetings with foreign governments and multilateral institutions.
+
+&emsp;“(2) Provide for the oversight and coordination of all resources, programs, projects, and activities of the United States Government to protect the rights and address the needs of indigenous peoples internationally.
+
+&emsp;“(3) Develop and coordinate assistance strategies with specific goals, guidelines, benchmarks, and impact assessments (including support for local indigenous peoples’ organizations).
+
+“(c)
+
+Funds.—Of the funds appropriated by this Act under the heading ‘Diplomatic and Consular Programs’ \[121 Stat. 2277\], not less than $250,000 shall be made available for implementing the provisions of this section.
+
+“(d)
+
+Report.—Not later than one year after the enactment of this Act \[Dec. 26, 2007\], the Secretary shall submit a report to the Committees on Appropriations describing progress made in implementing this section.”
 
 #### Consultation
 

@@ -70,7 +70,7 @@ Subsecs. (c) to (e). Pub. L. 102–88, §603, added subsecs. (c) and (d) and red
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L.108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Limitation on Transfer of Funds Between CIA and Department of Defense; Congressional Notification Required
 
@@ -102,7 +102,7 @@ Pub. L. 102–172, title VIII, §8089, Nov. 26, 1991, 105 Stat. 1193, provided t
 
 #### Enhanced Security Countermeasures Capabilities; Application of Section
 
-Pub. L. 99–169, title IV, §401(c), Dec. 4, 1985, 99 Stat. 1006, provided that the amendment made by section 401(a) of Pub. L. 99–169, enacting this section, would not apply with respect to funds appropriated to the Director of Central Intelligence under the heading “
+Pub. L. 99–169, title IV, §401(c), Dec. 4, 1985, 99 Stat. 1006, provided that the amendment made by section401(a) of Pub. L. 99–169, enacting this section, would not apply with respect to funds appropriated to the Director of Central Intelligence under the heading “
 
 enhanced security countermeasures capabilities” in the Supplemental Appropriations Act, 1985, Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 311.
 

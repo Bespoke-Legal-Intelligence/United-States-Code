@@ -12,7 +12,7 @@ The membership roll of the tribe is established and open.
 
 &emsp;(B) that individual was entitled to be on the membership roll of the tribe on August 13, 1954, but was not listed; or
 
-&emsp;(C) that individual is a descendant of an individual, living or dead, described in subparagraph (A) or (B) and possesses at least one-fourth degree of blood of members of the tribe, living or dead, or individuals who are or would have been eligible to be members under this paragraph.
+&emsp;(C) that individual is a descendant of an individual, living or dead, described in subparagraph (A) or (B) and possesses at least one-fourth degree of blood of members of the tribe, living or dead, or individuals who are or wouldhave been eligible to be members under this paragraph.
 
 (2) After the first election of the tribal governing body is held pursuant to section 713d(d) of this title, the provisions of the constitution and bylaws adopted in accordance with section 713d(a) of this title shall govern membership in the tribe.
 

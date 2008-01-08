@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 &emsp;(6) The term “System” means John H. Chafee Coastal Barrier Resources System established by section 3503(a) of this title.
 
-&emsp;(7) The term “System unit” means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers,included within the John H. Chafee Coastal Barrier Resources System established by section 3503 of this title.
+&emsp;(7) The term “System unit” means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the John H. Chafee Coastal Barrier Resources System established by section 3503 of this title.
 
 (Pub. L. 97–348, §3, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 99–272, title XIV, §14001(b)(5), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–707, title II, §204(c)(2), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 101–591, §2(a), (b)(1), (c), Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(2), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §4(a)(1), (2), Nov. 13, 2000, 114 Stat. 2396.)
 
@@ -52,7 +52,7 @@ Par. (1)(A). Pub. L. 101–591, §2(a), redesignated cls. (ii) and (iii) as (i) 
 
 Par. (6). Pub. L. 101–591, §2(b)(1), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘system maps’ means—
 
-&emsp;“(A) the maps that are entitled ‘Coastal Barrier Resources System’, numbered A01 through T12 (but excluding maps T02 and T03) and dated September 30, 1982, and the maps numbered T02A and T03A and dated December 8, 1982; and
+&emsp;“(A) the maps that are entitled ‘Coastal Barrier Resources System’, numbered A01 through T12 (but excluding maps T02 and T03) and dated September 30,1982, and the maps numbered T02A and T03A and dated December 8, 1982; and
 
 &emsp;“(B) the maps prepared under section 3503(b) of this title and any modification to those maps under that section.”
 
@@ -61,6 +61,10 @@ Par. (6). Pub. L. 101–591, §2(b)(1), amended par. (6) generally. Prior to ame
 1986—Par. (1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Par. (3). Pub. L. 99–272 struck out subpar. (A) relating to general revenue-sharing grants made under section 6702 of title 31, and redesignated subpars. (B) to (E) as (A) to (D), respectively.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1986 Amendment
 

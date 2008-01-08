@@ -20,7 +20,7 @@ Subsection (a) of this section shall not limit or otherwise affect any provision
 
 For purposes of this section—
 
-&emsp;(1) The term “conservation measures” means such energy conservation measures, asdetermined by the Commission, as were implemented after the base period established under the curtailment plan in effect on November 9, 1978.
+&emsp;(1) The term “conservation measures” means such energy conservation measures, as determined by the Commission, as were implemented after the base period established under the curtailment plan in effect on November 9, 1978.
 
 &emsp;(2) The term “local distribution company” means any person engaged in the transportation, or local distribution, of natural gas and the sale of natural gas for ultimate consumption.
 

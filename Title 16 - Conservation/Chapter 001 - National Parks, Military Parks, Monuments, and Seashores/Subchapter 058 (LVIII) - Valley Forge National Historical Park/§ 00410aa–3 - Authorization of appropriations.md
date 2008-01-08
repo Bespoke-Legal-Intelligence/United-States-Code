@@ -18,10 +18,6 @@
 
 1980—Subsec. (a). Pub. L. 96–287 substituted “$13,895,000” for “$8,622,000”.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Authorizations Effective October 1, 1980
 
 Authorizations of moneys appropriated under Pub. L. 96–287 effective Oct. 1, 1980, see section 401 of Pub. L. 96–287, set out as a note under section 410gg–5 of this title.

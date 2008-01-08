@@ -36,7 +36,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) plant a second crop on the same acreage for harvest in the same crop year; and
 
-&emsp;&emsp;&emsp;(ii) collect an indemnity payment established by the Corporation for the first crop, but not to exceed 35 percent of the insurable loss for the first crop.
+&emsp;&emsp;&emsp;(ii) collect an indemnity payment established by the Corporation for the firstcrop, but not to exceed 35 percent of the insurable loss for the first crop.
 
 #### (2) Effect of no loss to second crop
 
@@ -118,7 +118,7 @@ Except in the case of double cropping described in subsection (d) of this sectio
 
 #### Prior Provisions
 
-A prior section 1508a, act Feb. 16, 1938, ch. 30, title V, §508A, as added Aug. 14, 1989, Pub. L. 101–82, title VI, §604, 103 Stat. 587; amended Aug. 10, 1993, Pub. L. 103–66, title XIV, §1403(b)(3), 107 Stat. 334, related to crop insurance yield coverage, prior to repeal by Pub. L. 103–354, title I, §§107, 120, Oct. 13, 1994, 108 Stat. 3197, 3208, effective Oct. 13, 1994, and applicable to provision of crop insurance beginning with 1995 crop year.
+A prior section 1508a, act Feb. 16, 1938, ch. 30, title V, §508A, as added Aug. 14, 1989, Pub. L. 101–82, title VI, §604, 103 Stat. 587; amended Aug. 10, 1993, Pub. L. 103–66,title XIV, §1403(b)(3), 107 Stat. 334, related to crop insurance yield coverage, prior to repeal by Pub. L. 103–354, title I, §§107, 120, Oct. 13, 1994, 108 Stat. 3197, 3208, effective Oct. 13, 1994, and applicable to provision of crop insurance beginning with 1995 crop year.
 
 #### Effective Date
 

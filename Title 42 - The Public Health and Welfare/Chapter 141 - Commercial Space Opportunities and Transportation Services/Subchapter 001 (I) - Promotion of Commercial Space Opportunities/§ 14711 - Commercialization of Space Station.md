@@ -26,6 +26,10 @@ The Congress declares that a priority goal of constructing the International Spa
 
 (Pub. L. 105–303, title I, §101, Oct. 28, 1998, 112 Stat. 2845.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Space Station Commercial Development Demonstration Program
 
 Pub. L. 106–74, title IV, §434, Oct. 20, 1999, 113 Stat. 1097, as amended by Pub. L. 106–391, title II, §204, Oct. 30, 2000, 114 Stat. 1590, provided that:

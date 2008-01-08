@@ -8,7 +8,7 @@
 
 (d) The annual leave provided by this subchapter, including annual leave that will accrue to an employee during the year, may be granted at any time during the year as the head of the agency concerned may prescribe.
 
-(e) If an officer excepted from this subchapter by section 6301(2)(x)–(xiii) of this title, without a break in service, again becomes subject to this subchapter on completion of his service as an excepted officer, the unused annual and sickleave standing to his credit when he was excepted from this subchapter is deemed to have remained to his credit.
+(e) If an officer excepted from this subchapter by section 6301(2)(x)–(xiii) of this title, without a break in service, again becomes subject to this subchapter on completion of his service as an excepted officer, the unused annual and sick leave standing to his credit when he was excepted from this subchapter is deemed to have remained to his credit.
 
 (f) An employee who uses excess annual leave credited because of administrative error may elect to refund the amount received for the days of excess leave by lump-sum or installment payments or to have the excess leave carried forward as a charge against later-accruing annual leave, unless repayment is waived under section 5584 of this title.
 

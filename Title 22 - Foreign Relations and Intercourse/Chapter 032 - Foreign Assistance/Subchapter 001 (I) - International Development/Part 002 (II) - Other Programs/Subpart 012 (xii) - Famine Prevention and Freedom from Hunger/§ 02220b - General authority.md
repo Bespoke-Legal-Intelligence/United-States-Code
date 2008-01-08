@@ -22,7 +22,7 @@ Programs under this subpart shall be carried out so as to—
 
 &emsp;&emsp;(A) developing capacity in the cooperating nation for classroom teaching in agriculture, plant and animal sciences, human nutrition, and vocational and domestic arts and other relevant fields appropriate to local needs;
 
-&emsp;&emsp;(B) agricultural research to be conducted in the cooperating nations, at international agricultural research centers, or in the United States;
+&emsp;&emsp;(B) agricultural research to be conducted in the cooperating nations, at internationalagricultural research centers, or in the United States;
 
 &emsp;&emsp;(C) the planning, initiation, and development of extension services through which information concerning agriculture, environment, and related subjects will be made available directly to agriculturalists in the agriculturally developing nations by means of education and demonstration; or
 

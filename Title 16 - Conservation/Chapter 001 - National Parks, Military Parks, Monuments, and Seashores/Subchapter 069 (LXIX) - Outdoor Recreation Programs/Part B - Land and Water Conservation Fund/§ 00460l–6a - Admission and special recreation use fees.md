@@ -6,7 +6,7 @@
 
 #### (i) Covering of fees collected into special account for agency established in Treasury
 
-(1)(A), (B) Repealed. Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2205, 119 Stat. 526.
+(1)(A), (B) Repealed. Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, asamended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2205, 119 Stat. 526.
 
 (C)
 
@@ -44,7 +44,7 @@ When authorized by the head of the collecting agency, volunteers at designated a
 
 &emsp;(3) the provision of assistance and information to visitors to the designated area.
 
-> The Secretary shall require a surety bond for any such volunteer performing services under this subsection. Funds available to the collecting agency may be used to cover the cost of any such surety bond. The head of the collecting agency may enter into arrangements with qualified public or private entities pursuant to which such entities may sell (without cost to the United States) annual admission permits (including Golden Eagle Passports) at any appropriate location. Such arrangements shall require each such entity to reimburse the United States for the full amount to be received from the saleof such permits at or before the agency delivers the permits to such entity for sale.
+> The Secretary shall require a surety bond for any such volunteer performing services under this subsection. Funds available to the collecting agency may be used to cover the cost of any such surety bond. The head of the collecting agency may enter into arrangements with qualified public or private entities pursuant to which such entities may sell (without cost to the United States) annual admission permits (including Golden Eagle Passports) at any appropriate location. Such arrangements shall require each such entity to reimburse the United States for the full amount to be received from the sale of such permits at or before the agency delivers the permits to such entity for sale.
 
 #### (<i>l</i>) Charge for transportation provided by National Park Service for viewing National Park System units; charge in lieu of admission fee; maximum charge; apportionment and expenditure of charges
 
@@ -54,7 +54,7 @@ When authorized by the head of the collecting agency, volunteers at designated a
 
 #### (m) Admission fee at National Park System units where primary public access is provided by concessioner; maximum fee
 
-Where the primary public access to a unit of the National Park System is provided by a concessioner, the Secretary may charge an admission fee at such units only to the extent that the total of the fee charged by the concessioner for access to the unit and the admission fee does not exceed the maximum amount of the admission fee which could otherwise be imposed under subsection (a) <sup>1</sup> of this section.
+Where the primary public access to a unit of the National Park System is provided by a concessioner, the Secretary may charge an admission fee at such units only to the extent that thetotal of the fee charged by the concessioner for access to the unit and the admission fee does not exceed the maximum amount of the admission fee which could otherwise be imposed under subsection (a) <sup>1</sup> of this section.
 
 #### (n) Commercial tour use fees
 
@@ -98,7 +98,7 @@ A prior section 4 of Pub. L. 88–578 was renumbered section 5 and is classified
 
 Subsec. (i)(1)(C)(i). Pub. L. 109–54, §132(b), substituted “Notwithstanding section 107” for “Notwithstanding subparagraph (A), section 315(c) of section 101(c) of the Omnibus Consolidated Recessions and Appropriations Act of 1996 (16 U.S.C. 460<i>l</i>–6a note; Public Law 104–134), or section 107” and “account under section 6806(a) of this title” for “account under subparagraph (A)”.
 
-2004—Subsecs. (a) to (g). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(a), struck out subsec. (a) relating to admission fees, Golden Eagle and Golden Age Passports, and permits, subsec. (b) relating to recreation use fees, collection, campgrounds at lakes or reservoirs, and fees for Golden Age passport permittees,subsec. (c) relating to special recreation permits, subsec. (d) relating to criteria, posting, and uniformity of fees, subsec. (e) relating to establishment of rules and regulations, enforcement powers, and penalty for violations, subsec. (f) relating to contracts with any public or private entity to provide visitor registration services, and subsec. (g) relating to effect on Federal and State laws.
+2004—Subsecs. (a) to (g). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(a), struck out subsec. (a) relating to admission fees, Golden Eagle and Golden Age Passports, and permits, subsec. (b) relating to recreation use fees, collection, campgrounds at lakes or reservoirs, and fees for Golden Age passport permittees, subsec. (c) relating to special recreation permits, subsec. (d) relating to criteria, posting, and uniformity of fees, subsec. (e) relating to establishment of rules and regulations, enforcement powers, and penalty for violations, subsec. (f) relating to contracts with any public or private entity to provide visitor registration services, and subsec. (g) relating to effect on Federal and State laws.
 
 Subsec. (i). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(a), struck out subsec. (i), relating to covering fees collected into special account for agency established in Treasury, covered agencies, availability of funds, and allocation of National Park Service funds, except for paragraph (1)(C), relating to units at which entrance fees or admissions fees cannot be collected.
 
@@ -236,7 +236,7 @@ Availability.—Each amount withheld by the Secretary \[of the Army\] shall be a
 
 #### Recreational Fee Demonstration Program
 
-Pub. L. 108–447, div. E, title III, §319, Dec. 8, 2004, 118 Stat. 3097, provided that: “A project undertaken by the Forest Service under the Recreation Fee Demonstration Program as authorized by section 315 of the Department of the Interior and Related Agencies Appropriations Act for Fiscal Year 1996, as amended \[Pub. L. 104–134, title I, §101(c), formerly set out below\], shall not result in—
+Pub. L. 108–447, div. E, title III, §319, Dec. 8, 2004, 118 Stat. 3097, provided that: “A project undertaken by theForest Service under the Recreation Fee Demonstration Program as authorized by section 315 of the Department of the Interior and Related Agencies Appropriations Act for Fiscal Year 1996, as amended \[Pub. L. 104–134, title I, §101(c), formerly set out below\], shall not result in—
 
 &emsp;“(1) displacement of the holder of an authorization to provide commercial recreation services on Federal lands. Prior to initiating any project, the Secretary shall consult with potentially affected holders to determine what impacts the project may have on the holders. Any modifications to the authorization shall be made within the terms and conditions of the authorization and authorities of the impacted agency; and
 
@@ -276,7 +276,7 @@ Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstandi
 
 #### Establishment and Collection of Use or Royalty Fees for Manufacture, Reproduction, or Use of “Golden Eagle Insignia”
 
-Section 3(a) of Pub. L. 92–347 provided that: “The Secretary of the Interior may establish and collect use orroyalty fees for the manufacture, reproduction, or use of ‘The Golden Eagle Insignia’, originated by the Department of the Interior and announced in the December 3, 1970, issue of the Federal Register (35 Federal Register 18376) as the official symbol for Federal recreation areas designated for recreation fee collection. Any fees collected pursuant to this subsection shall be covered into the Land and Water Conservation Fund.”
+Section 3(a) of Pub. L. 92–347 provided that: “The Secretary of the Interior may establish and collect use or royalty fees for the manufacture, reproduction, or use of ‘The Golden Eagle Insignia’, originated by the Department of the Interior and announced in the December 3, 1970, issue of the Federal Register (35 Federal Register 18376) as the official symbol for Federal recreation areas designated for recreation fee collection. Any fees collected pursuant to this subsection shall be covered into the Land and Water Conservation Fund.”
 
 #### Termination of Rights in “Golden Eagle Insignia”
 

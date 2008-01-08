@@ -1,10 +1,14 @@
 ### §429. Brices Cross Roads and Tupelo battlefields in Mississippi; establishment
 
-For the purpose of commemorating the battles of Brices Cross Roads, Mississippi, and Tupelo, Mississippi, the Secretary of the Army is authorized and directed to (1) acquire not to exceed one acre of land, free of cost to the United States, at each of the above-named battle fields, (2) fence each parcel of land so acquired, (3) build an approach to each such parcel of land, and (4) erect a suitable marker on each such parcel of land.
+For the purpose of commemorating the battles of Brices Cross Roads, Mississippi, and Tupelo, Mississippi, the Secretary of the Interior is authorized and directed to (1) acquire not to exceed one acre of land, free of cost to the United States, at each of the above-named battle fields, (2) fence each parcel of land so acquired, (3) build an approach to each such parcel of land, and (4) erect a suitable marker on each such parcel of land.
 
-(Feb. 21, 1929, ch. 289, §1, 45 Stat. 1254; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
+(Feb. 21, 1929, ch. 289, §1, 45 Stat. 1254; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933.)
 
-#### Change of Name
+#### Transfer of Functions
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70 A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+“Secretary of the Interior” substituted in text for “Secretary of War” pursuant to Reorg. Plan No. 3 of 1950, §§1, 2; Ex. Ord. No. 6166, §2; and Ex. Ord. No. 6228, §1. See below.
+
+Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees, transferred the functions of other officers, employees, and agencies of the Department of the Interior, with certain exceptions, to the Secretary of the Interior, with power to delegate.
+
+Ex. Ord. No. 6166, §2, and Ex. Ord. No. 6228, §1, set out as a note under section 901 of Title 5, transferred the administrative functions of Brices Cross Roads and Tupelo battlefield sites to the Department of the Interior.
 

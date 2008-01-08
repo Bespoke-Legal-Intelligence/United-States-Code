@@ -8,7 +8,7 @@ It shall be the duty of the Commission to study problems and questions with resp
 
 &emsp;(3) whether the findings of the Commission should affect the control, disposition, and preservation of records and documents of agencies within the Executive Office of the President created for short-term purposes by the President;
 
-&emsp;(4) the recordkeeping procedures of the White House Office, with a view toward establishing means to determine which records and documents are produced by or on behalf of the President;
+&emsp;(4) the recordkeeping procedures of the White House Office, with a view toward establishing means to determine which records anddocuments are produced by or on behalf of the President;
 
 &emsp;(5) the nature of rules and procedures which should apply to the control, disposition, and preservation of records and documents produced by Presidential task forces, commissions, and boards;
 

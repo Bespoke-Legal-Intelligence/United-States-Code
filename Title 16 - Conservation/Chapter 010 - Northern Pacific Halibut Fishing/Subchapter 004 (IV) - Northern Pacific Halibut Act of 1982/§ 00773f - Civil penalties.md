@@ -50,11 +50,11 @@ The Secretary may compromise, modify, or remit, with or without conditions, any 
 
 #### (4) Transfers of ownership
 
-&emsp;Transfer of ownership of a vessel, a permit, or any interest in a permit, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, permit, or interest in a permit, by sale or otherwise, the owner shall disclose in writing to the prospective transferee the existence of any permit sanction that will be in effect or pending with respect to the vessel, permit, or interest at the time of the transfer.
+&emsp;Transfer of ownership of a vessel, a permit, or any interest in a permit, by sale or otherwise, shall not extinguish any permit sanction that is in effect or is pending at the time of transfer of ownership. Before executing the transfer of ownership of a vessel, permit, or interest in a permit, by sale or otherwise, the owner shall disclose in writing to the prospective transferee the existence of any permitsanction that will be in effect or pending with respect to the vessel, permit, or interest at the time of the transfer.
 
 #### (5) Reinstatement
 
-&emsp;In the case of any permit that is suspended under this subsection for nonpayment of a civil penalty, criminal fine, or any amount in settlement of a civil forfeiture, the Secretary shall reinstate the permit upon payment ofthe penalty, fine, or settlement amount and interest thereon at the prevailing rate.
+&emsp;In the case of any permit that is suspended under this subsection for nonpayment of a civil penalty, criminal fine, or any amount in settlement of a civil forfeiture, the Secretary shall reinstate the permit upon payment of the penalty, fine, or settlement amount and interest thereon at the prevailing rate.
 
 #### (6) Hearing
 

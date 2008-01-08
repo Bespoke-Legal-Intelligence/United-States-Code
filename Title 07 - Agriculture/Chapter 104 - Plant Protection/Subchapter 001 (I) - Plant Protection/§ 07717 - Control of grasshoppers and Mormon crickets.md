@@ -40,7 +40,7 @@ Subject to the availability of funds pursuant to this section, the Secretary sha
 
 #### (2) Control on State lands
 
-&emsp;Out of funds made available under this section, the Secretary shall pay 50 percent of thecost of grasshopper or Mormon cricket control on State lands.
+&emsp;Out of funds made available under this section, the Secretary shall pay 50 percent of the cost of grasshopper or Mormon cricket control on State lands.
 
 #### (3) Control on private lands
 

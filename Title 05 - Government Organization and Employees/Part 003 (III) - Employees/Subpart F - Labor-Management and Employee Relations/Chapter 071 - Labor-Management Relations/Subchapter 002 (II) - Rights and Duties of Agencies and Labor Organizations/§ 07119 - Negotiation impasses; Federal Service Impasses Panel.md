@@ -10,7 +10,7 @@
 
 (c)(1) The Federal Service Impasses Panel is an entity within the Authority, the function of which is to provide assistance in resolving negotiation impasses between agencies and exclusive representatives.
 
-(2) The Panel shall be composed of a Chairman and at least six other members, who shall be appointed by the President, solely on the basis of fitness to perform the duties and functions involved, from among individuals who are familiar with Government operations and knowledgeable in labor-management relations.
+(2) The Panel shall be composed of a Chairman and at least six other members, who shall be appointed by the President, solely on the basis of fitness to perform the duties and functions involved, from among individuals who are familiarwith Government operations and knowledgeable in labor-management relations.
 
 (3) Of the original members of the Panel, 2 members shall be appointed for a term of 1 year, 2 members shall be appointed for a term of 3 years, and the Chairman and the remaining members shall be appointed for a term of 5 years. Thereafter each member shall be appointed for a term of 5 years, except that an individual chosen to fill a vacancy shall be appointed for the unexpired term of the member replaced. Any member of the Panel may be removed by the President.
 

@@ -2,7 +2,7 @@
 
 #### (a) Additional assistance for Poland
 
-A portion of the agricultural commodities described in subsection (c) of this section may bemade available and sold or bartered in Poland to generate local currencies to be used—
+A portion of the agricultural commodities described in subsection (c) of this section may be made available and sold or bartered in Poland to generate local currencies to be used—
 
 &emsp;(1) to complement the assistance for Poland authorized by sections 5413(b), 5421, and 5423 of this title, and
 
@@ -16,7 +16,7 @@ The uses of local currencies generated under this section should emphasize the d
 
 #### (c) Commodities subject to requirements
 
-Subsection (a) of this section applies with respect to agricultural commodities made available for Poland for fiscal years 1990, 1991, and 1992 under section 1431(b) of title 7, the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 and following), and section 1736<i>o</i> of title 7.
+Subsection (a) of this section applies with respect to agricultural commodities made available for Poland for fiscal years 1990, 1991, and1992 under section 1431(b) of title 7, the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 and following), and section 1736<i>o</i> of title 7.
 
 #### (d) Other uses not precluded
 

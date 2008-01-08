@@ -2,7 +2,7 @@
 
 #### (a) Compensation provided
 
-An individual who receives, or has received, $100,000 under section 5 of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note) for a claim made under that Act (hereafter in this section referred to as a “covered uranium employee”), or the survivor of that covered uranium employee if the employee is deceased, shall receive compensation under this section in the amount of $50,000.
+An individual who receives, or has received, $100,000 under section 5 of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note) for a claim made under that Act (hereafter in thissection referred to as a “covered uranium employee”), or the survivor of that covered uranium employee if the employee is deceased, shall receive compensation under this section in the amount of $50,000.
 
 #### (b) Medical benefits
 

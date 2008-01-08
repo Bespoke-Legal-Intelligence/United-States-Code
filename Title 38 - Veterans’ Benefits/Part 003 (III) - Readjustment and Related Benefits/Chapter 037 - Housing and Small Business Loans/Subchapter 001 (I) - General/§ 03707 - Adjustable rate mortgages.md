@@ -38,5 +38,5 @@ The National Housing Act, referred to in subsecs. (a) and (c)(3), is act June 27
 
 #### Annual Reports on Adjustable Rate Mortgages Guaranteed Under This Section
 
-Section 3(b) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31, 1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Section 3(b) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit adjustable rate mortgage report to Committees on Veterans’ Affairs of Senate and House of Representatives no later than Dec. 31,1993, containing description of project carried out under this section and thereafter to transmit annual reports to such committees with respect to default rates and other information concerning loans guaranteed under this section prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 

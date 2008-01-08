@@ -36,7 +36,7 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 &emsp;&emsp;(E) the existing State and Federal regulatory and management authorities applicable to the area and the adequacy of those authorities to fulfill the purposes and policies of this chapter;
 
-&emsp;&emsp;(F) the manageability of the area, including such factors as its size, its ability to be identified as a discrete ecological unit with definable boundaries, its accessibility, and its suitability for monitoring and enforcement activities;
+&emsp;&emsp;(F) the manageability of the area, including such factors as its size, its ability to be identified as a discrete ecological unit with definable boundaries, its accessibility, andits suitability for monitoring and enforcement activities;
 
 &emsp;&emsp;(G) the public benefits to be derived from sanctuary status, with emphasis on the benefits of long-term protection of nationally significant resources, vital habitats, and resources which generate tourism;
 
@@ -54,7 +54,7 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 &emsp;In making determinations and findings, the Secretary shall consult with—
 
-&emsp;&emsp;(A) the Committee on Resources of the House of Representatives and the Committeeon Commerce, Science, and Transportation of the Senate;
+&emsp;&emsp;(A) the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate;
 
 &emsp;&emsp;(B) the Secretaries of State, Defense, Transportation, and the Interior, the Administrator, and the heads of other interested Federal agencies;
 
@@ -115,6 +115,10 @@ Subsec. (b)(1)(A). Pub. L. 102–587, §2103(b)(1), inserted “maintenance of c
 Subsec. (b)(3). Pub. L. 102–587, §2103(b)(2), substituted “1434(a)(2)” for “1434(a)(1)”, inserted “, governmental,” after “other commercial” and after “any commercial”, and inserted at end: “The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
 
 1984—Pub. L. 98–498 amended section generally, substituting provisions relating to sanctuary designation standards for provisions relating to penalties. See section 1437(b) of this title.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2000 Amendment
 

@@ -14,7 +14,7 @@ Establishment of Position of Assistant Secretary of Labor for Veterans’ Employ
 
 Program Functions.—The Secretary shall carry out the following functions:
 
-&emsp;(1) Except as expressly provided otherwise, carry out all provisions of this chapter andchapter 43 of this title through the Assistant Secretary of Labor for Veterans’ Employment and Training and administer through such Assistant Secretary all programs under the jurisdiction of the Secretary for the provision of employment and training services designed to meet the needs of all veterans and persons eligible for services furnished under this chapter.
+&emsp;(1) Except as expressly provided otherwise, carry out all provisions of this chapter and chapter 43 of this title through the Assistant Secretary of Labor for Veterans’ Employment and Training and administer through such Assistant Secretary all programs under the jurisdiction of the Secretary for the provision of employment and training services designed to meet the needs of all veterans and persons eligible for services furnished under this chapter.
 
 &emsp;(2) In order to make maximum use of available resources in meeting such needs, encourage all such programs, and all grantees and contractors under such programs to enter into cooperative arrangements with private industry and business concerns (including small business concerns owned by veterans or disabled veterans), educational institutions, trade associations, and labor unions.
 
@@ -34,7 +34,7 @@ Program Functions.—The Secretary shall carry out the following functions:
 
 &emsp;(7) Establish, and update as appropriate, a comprehensive performance accountability system (as described in subsection (f)) and carry out annual performance reviews of veterans employment, training, and placement services provided through employment service delivery systems, including through disabled veterans’ outreach program specialists and through local veterans’ employment representatives in States receiving grants, contracts, or awards under this chapter.
 
-&emsp;(8) With advice and assistance from the Advisory Committee on Veterans Employment and <sup>1</sup> Training, and Employer Outreach established under section 4110 of this title, furnish information to employers (through meetings in person with hiring executives of corporations and otherwise) with respect to the training and skills of veterans and disabled veterans, and the advantages afforded employers by hiring veterans with such training and skills, and to facilitate employment of veterans and disabled veterans through participation in labor exchanges (Internet-based and otherwise), and other means.
+&emsp;(8) With advice and assistance from the Advisory Committee on Veterans Employmentand <sup>1</sup> Training, and Employer Outreach established under section 4110 of this title, furnish information to employers (through meetings in person with hiring executives of corporations and otherwise) with respect to the training and skills of veterans and disabled veterans, and the advantages afforded employers by hiring veterans with such training and skills, and to facilitate employment of veterans and disabled veterans through participation in labor exchanges (Internet-based and otherwise), and other means.
 
 (c)
 
@@ -234,7 +234,7 @@ Section effective Dec. 1, 1976, see section 703(c) of Pub. L. 94–502, set out 
 
 Section 504(b), (c) of Pub. L. 96–466 provided that:
 
-“(b) Any reference in any law, regulation, directive, or other document to the Deputy Assistant Secretary of Labor for Veterans’ Employment shall be deemed to be a reference to the Assistant Secretary of Labor for Veterans’ Employment.
+“(b) Any reference in any law, regulation, directive, or other document to the Deputy Assistant Secretaryof Labor for Veterans’ Employment shall be deemed to be a reference to the Assistant Secretary of Labor for Veterans’ Employment.
 
 “(c) Notwithstanding any other provision of law, the position of Deputy Assistant Secretary of Labor for Veterans’ Employment, as constituted on the day before the date of the enactment of this section \[Oct. 17, 1980\], shall remain in existence until a person has been appointed to and has qualified for the position of Assistant Secretary of Labor for Veterans’ Employment (established by the amendments made by subsection (a) \[amending sections 2002 and 2002A \[now 4102 and 4102A\] of this title\]).”
 

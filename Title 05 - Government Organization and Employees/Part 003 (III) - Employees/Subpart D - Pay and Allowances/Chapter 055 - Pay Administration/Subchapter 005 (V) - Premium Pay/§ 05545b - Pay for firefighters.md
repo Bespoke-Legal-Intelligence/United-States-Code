@@ -48,7 +48,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §641(b)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Effective Date
 
-Section effective on first day of first applicable pay period which begins on or after Oct. 1, 1998, see section 101(h) \[title VI, §628(e)\] of Pub. L. 105–277, set out as an Effective Date of 1998 Amendment note under section 4109 of this title.
+Section effective on first day of first applicable pay period which begins on or after Oct. 1, 1998, see section101(h) \[title VI, §628(e)\] of Pub. L. 105–277, set out as an Effective Date of 1998 Amendment note under section 4109 of this title.
 
 #### Regulations
 

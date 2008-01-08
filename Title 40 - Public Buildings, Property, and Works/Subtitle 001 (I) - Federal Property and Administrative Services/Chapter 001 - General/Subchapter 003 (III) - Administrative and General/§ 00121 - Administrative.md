@@ -408,7 +408,7 @@ Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the inter
 
 #### Ex. Ord. No. 13327. Federal Real Property Asset Management
 
-Ex. Ord. No. 13327, Feb. 4, 2004, 69 F.R. 5897, provided:
+Ex. Ord. No. 13327, Feb. 4, 2004, 69 F.R. 5897, as amended by Ex. Ord. No. 13423, §11(c), Jan. 24, 2007, 72 F.R. 3923, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 121(a) of title 40, United States Code, and in order to promote the efficient and economical use of Federal real property resources in accordance with their value as national assets and in the best interests of the Nation, it is hereby ordered as follows:
 
@@ -432,7 +432,7 @@ Sec. 3. <i>Establishment and Responsibilities of Agency Senior Real Property Off
 
 (v) identify and pursue goals, with appropriate deadlines, consistent with and supportive of the agency's asset management plan and measure progress against such goals;
 
-(vi) incorporate planning and management requirements for historic property under Executive Order 13287 of March 3, 2003 \[16 U.S.C. 470h–2 note\], and for environmental management under Executive Order 13148 of April 21, 2000 \[42 U.S.C. 4321 note\]; and
+(vi) incorporate planning and management requirements for historic property under Executive Order 13287 of March 3, 2003 \[16 U.S.C. 470h–2 note\], and for environmental management under other executive orders; and
 
 (vii) identify any other information and pursue any other actions necessary to the appropriate development and implementation of the agency asset management plan.
 

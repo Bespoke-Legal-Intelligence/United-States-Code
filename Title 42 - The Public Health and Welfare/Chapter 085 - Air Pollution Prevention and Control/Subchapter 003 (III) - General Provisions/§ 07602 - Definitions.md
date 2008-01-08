@@ -36,7 +36,7 @@ When used in this chapter—
 
 (j) Except as otherwise expressly provided, the terms “major stationary source” and “major emitting facility” mean any stationary facility or source of air pollutants which directly emits, or has the potential to emit, one hundred tons per year or more of any air pollutant (including any major emitting facility or source of fugitive emissions of any such pollutant, as determined by rule by the Administrator).
 
-(k) The terms “emission limitation” and “emission standard” mean a requirement established by the State or the Administrator which limits the quantity, rate, or concentration of emissions of air pollutants on a continuous basis, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction, and any design,equipment, work practice or operational standard promulgated under this chapter..<sup>1</sup>
+(k) The terms “emission limitation” and “emission standard” mean a requirement established by the State or the Administrator which limits the quantity, rate, or concentration of emissions of air pollutants on a continuous basis, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction, and any design, equipment, work practice or operational standard promulgated under this chapter..<sup>1</sup>
 
 (<i>l</i>) The term “standard of performance” means a requirement of continuous emission reduction, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction.
 
@@ -94,7 +94,7 @@ Provisions similar to those in subsecs. (b) and (d) of this section were contain
 
 Subsec. (b)(5). Pub. L. 101–549, §107(a)(3), added par. (5).
 
-Subsec. (g). Pub. L. 101–549, §108(j)(2), inserted at end “Such term includes any precursors to the formation of any air pollutant, to the extent the Administrator has identified such precursor or precursors for the particular purpose for which the term ‘air pollutant’ is used.”
+Subsec. (g). Pub. L. 101–549, §108(j)(2), inserted at end “Such term includes any precursors to the formation ofany air pollutant, to the extent the Administrator has identified such precursor or precursors for the particular purpose for which the term ‘air pollutant’ is used.”
 
 Subsec. (h). Pub. L. 101–549, §109(b), inserted before period at end “, whether caused by transformation, conversion, or combination with other air pollutants”.
 

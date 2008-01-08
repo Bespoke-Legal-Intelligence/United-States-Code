@@ -74,7 +74,7 @@
 
 #### (6) Timeframe for making an eligibility determination
 
-&emsp;The designated State unit shall determine whether an individual is eligible for vocationalrehabilitation services under this subchapter within a reasonable period of time, not to exceed 60 days, after the individual has submitted an application for the services unless—
+&emsp;The designated State unit shall determine whether an individual is eligible for vocational rehabilitation services under this subchapter within a reasonable period of time, not to exceed 60 days, after the individual has submitted an application for the services unless—
 
 &emsp;&emsp;(A) exceptional and unforeseen circumstances beyond the control of the designated State unit preclude making an eligibility determination within 60 days and the designated State unit and the individual agree to a specific extension of time; or
 
@@ -246,7 +246,7 @@
 
 #### (G) Confidentiality
 
-&emsp;&emsp;Discussions that occur during the mediation process shall be confidential and may not be used as evidence in any subsequent due process hearing or civil proceeding. The parties to the mediation process may be required to sign a confidentiality pledge prior to the commencement of such process.
+&emsp;&emsp;Discussions that occur during the mediation process shall be confidential and maynot be used as evidence in any subsequent due process hearing or civil proceeding. The parties to the mediation process may be required to sign a confidentiality pledge prior to the commencement of such process.
 
 #### (H) Construction
 
@@ -298,7 +298,7 @@
 
 &emsp;&emsp;&emsp;(ii) not overturn or modify the decision of the hearing officer, or part of the decision, that supports the position of the applicant or eligible individual unless the reviewing official concludes, based on clear and convincing evidence, that the decision of the impartial hearing officer is clearly erroneous on the basis of being contrary to the approved State plan, this chapter (including regulations implementing this chapter) or any State regulation or policy that is consistent with the Federal requirements specified in this subchapter;
 
-&emsp;&emsp;&emsp;(iii) make a final decision with respect to the matter in a timely manner and provide such decision in writing to the applicant or eligible individual, or, as appropriate, the applicant's representative orindividual's representative, and to the designated State unit, including a full report of the findings and the grounds for such decision; and
+&emsp;&emsp;&emsp;(iii) make a final decision with respect to the matter in a timely manner and provide such decision in writing to the applicant or eligible individual, or, as appropriate, the applicant's representative or individual's representative, and to the designated State unit, including a full report of the findings and the grounds for such decision; and
 
 &emsp;&emsp;&emsp;(iv) not delegate the responsibility for making the final decision to any officer or employee of the designated State unit.
 
@@ -318,7 +318,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any party aggrieved by a final decision described in subparagraph (I), may bring a civil action for review of such decision. The action may be brought in any State court of competent jurisdiction or in a district court of the United States of competent jurisdiction without regard to the amount in controversy.
+&emsp;&emsp;&emsp;Any party aggrieved by a final decision described in subparagraph (I), may bring a civil action for review of such decision. The action may be brought in any Statecourt of competent jurisdiction or in a district court of the United States of competent jurisdiction without regard to the amount in controversy.
 
 #### (ii) Procedure
 
@@ -376,7 +376,7 @@
 
 #### (d) Policies and procedures
 
-Each designated State agency, in consultation with the State Rehabilitation Council, if theState has such a council, shall, consistent with section 720(a)(3)(C) of this title, develop and implement written policies and procedures that enable each individual who is an applicant for or eligible to receive vocational rehabilitation services under this subchapter to exercise informed choice throughout the vocational rehabilitation process carried out under this subchapter, including policies and procedures that require the designated State agency—
+Each designated State agency, in consultation with the State Rehabilitation Council, if the State has such a council, shall, consistent with section 720(a)(3)(C) of this title, develop and implement written policies and procedures that enable each individual who is an applicant for or eligible to receive vocational rehabilitation services under this subchapter to exercise informed choice throughout the vocational rehabilitation process carried out under this subchapter, including policies and procedures that require the designated State agency—
 
 &emsp;(1) to inform each such applicant and eligible individual (including students with disabilities who are making the transition from programs under the responsibility of an educational agency to programs under the responsibility of the designated State unit), through appropriate modes of communication, about the availability of, and opportunities to exercise, informed choice, including the availability of support services for individuals with cognitive or other disabilities who require assistance in exercising informed choice, throughout the vocational rehabilitation process;
 

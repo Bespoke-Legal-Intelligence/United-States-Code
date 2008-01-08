@@ -2,39 +2,37 @@
 
 As used in this chapter, unless the context otherwise requires, the term—
 
-&emsp;(1) “Office” means the Office of Technology Policy established under section 3704 of this title.
+&emsp;(1) “Secretary” means the Secretary of Commerce.
 
-&emsp;(2) “Secretary” means the Secretary of Commerce.
+&emsp;(2) “Centers” means the Cooperative Research Centers established under section 3705 or 3707 of this title.
 
-&emsp;(3) “Under Secretary” means the Under Secretary of Commerce for Technology appointed under section 3704(b)(1) of this title.
+&emsp;(3) “Nonprofit institution” means an organization owned and operated exclusively for scientific or educational purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual.
 
-&emsp;(4) “Centers” means the Cooperative Research Centers established under section 3705 or 3707 of this title.
+&emsp;(4) “Federal laboratory” means any laboratory, any federally funded research and development center, or any center established under section 3705 or 3707 of this title that is owned, leased, or otherwise used by a Federal agency and funded by the Federal Government, whether operated by the Government or by a contractor.
 
-&emsp;(5) “Nonprofit institution” means an organization owned and operated exclusively for scientific or educational purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual.
+&emsp;(5) “Supporting agency” means either the Department of Commerce or the National Science Foundation, as appropriate.
 
-&emsp;(6) “Federal laboratory” means any laboratory, any federally funded research and development center, or any center established under section 3705 or 3707 of this title that is owned, leased, or otherwise used by a Federal agency and funded by the Federal Government, whether operated by the Government or by a contractor.
+&emsp;(6) “Federal agency” means any executive agency as defined in section 105 of title 5 and the military departments as defined in section 102 of such title, as well as any agency of the legislative branch of the Federal Government.
 
-&emsp;(7) “Supporting agency” means either the Department of Commerce or the National Science Foundation, as appropriate.
+&emsp;(7) “Invention” means any invention or discovery which is or may be patentable or otherwise protected under title 35 or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.).
 
-&emsp;(8) “Federal agency” means any executive agency as defined in section 105 of title 5 and the military departments as defined in section 102 of such title, as well as any agency of the legislative branch of the Federal Government.
+&emsp;(8) “Made” when used in conjunction with any invention means the conception or first actual reduction to practice of such invention.
 
-&emsp;(9) “Invention” means any invention or discovery which is or may be patentable or otherwise protected under title 35 or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.).
+&emsp;(9) “Small business firm” means a small business concern as defined in section 632 of this title and implementing regulations of the Administrator of the Small Business Administration.
 
-&emsp;(10) “Made” when used in conjunction with any invention means the conception or first actual reduction to practice of such invention.
+&emsp;(10) “Training technology” means computer software and related materials which are developed by a Federal agency to train employees of such agency, including but not limited to software for computer-based instructional systems and for interactive video disc systems.
 
-&emsp;(11) “Small business firm” means a small business concern as defined in section 632 of this title and implementing regulations of the Administrator of the Small Business Administration.
+&emsp;(11) “Clearinghouse” means the Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation established by section 3704a of this title.
 
-&emsp;(12) “Training technology” means computer software and related materials which are developed by a Federal agency to train employees of such agency, including but not limited to software for computer-based instructional systems and for interactive video disc systems.
-
-&emsp;(13) “Clearinghouse” means the Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation established by section 3704a of this title.
-
-(Pub. L. 96–480, §4, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–502, §9(b)(2), (d), Oct. 20, 1986, 100 Stat. 1795, 1796; Pub. L. 100–418, title V, §5122(b), Aug.23, 1988, 102 Stat. 1439; Pub. L. 100–519, title II, §201(d)(1), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–245, title III, §304, Feb. 14, 1992, 106 Stat. 20; Pub. L. 106–404, §7(1), (2), Nov. 1, 2000, 114 Stat. 1745.)
+(Pub. L. 96–480, §4, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–502, §9(b)(2), (d), Oct. 20, 1986, 100 Stat. 1795, 1796; Pub. L. 100–418, title V, §5122(b), Aug. 23, 1988, 102 Stat. 1439; Pub. L. 100–519, title II, §201(d)(1), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–245, title III, §304, Feb. 14, 1992, 106 Stat. 20; Pub. L. 106–404, §7(1), (2), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 110–69, title III, §3002(c)(3), Aug. 9, 2007, 121 Stat. 586.)
 
 #### References in Text
 
-The Plant Variety Protection Act, referred to in par. (9), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
+The Plant Variety Protection Act, referred to in par. (7), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
 
 #### Amendments
+
+2007—Pub. L. 110–69 redesignated pars. (2) and (4) to (13) as (1) and (2) to (11), respectively, and struck out pars. (1) and (3) which defined “Office” and “Under Secretary”, respectively.
 
 2000—Pars. (4), (6). Pub. L. 106–404 made technical amendments to references in original act which appear in text as references to sections 3705 and 3707 of this title.
 

@@ -28,7 +28,7 @@ Each appropriate Federal banking agency shall prescribe standards, by regulation
 
 Each appropriate Federal banking agency shall, for all insured depository institutions, prescribe—
 
-&emsp;(1) standards prohibiting as an unsafe and unsound practice any employment contract, compensation or benefit agreement, fee arrangement, perquisite, stock option plan, postemployment benefit, or other compensatory arrangement that—
+&emsp;(1) standards prohibiting as an unsafe and unsound practice any employment contract, compensation or benefit agreement, fee arrangement, perquisite, stock option plan,postemployment benefit, or other compensatory arrangement that—
 
 &emsp;&emsp;(A) would provide any executive officer, employee, director, or principal shareholder of the institution with excessive compensation, fees or benefits; or
 
@@ -106,7 +106,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 &emsp;&emsp;(B) may do 1 or more of the following until the deficiency has been corrected:
 
-&emsp;&emsp;&emsp;(i) Prohibit the institution from permitting its average total assets during any calendar quarter to exceed its average total assets during the preceding calendar quarter, or restrict the rate at which the average total assets of the institution may increase from one calendar quarter to another.
+&emsp;&emsp;&emsp;(i) Prohibit the institution from permitting its average total assets during anycalendar quarter to exceed its average total assets during the preceding calendar quarter, or restrict the rate at which the average total assets of the institution may increase from one calendar quarter to another.
 
 &emsp;&emsp;&emsp;(ii) Require the institution to increase its ratio of tangible equity to assets.
 

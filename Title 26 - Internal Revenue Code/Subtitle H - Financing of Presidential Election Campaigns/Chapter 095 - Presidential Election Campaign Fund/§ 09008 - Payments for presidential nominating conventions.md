@@ -16,7 +16,7 @@ The Secretary shall maintain in the fund, in addition to any account which he ma
 
 #### (3) Payments
 
-&emsp;Upon receipt of certification from the Commission under subsection (g), the Secretary shall make payments from the appropriate account maintained under subsection (a) to the national committee of a major party or minor party which elects to receive its entitlement under this subsection. Such payments shall be available for use by such committee in accordance with the provisions of subsection (c).
+&emsp;Upon receipt of certification from the Commission under subsection (g), the Secretary shall make payments from the appropriate account maintained under subsection (a) to the national committee of a major party or minor party which elects to receive its entitlement under this subsection. Such payments shall beavailable for use by such committee in accordance with the provisions of subsection (c).
 
 #### (4) Limitation
 

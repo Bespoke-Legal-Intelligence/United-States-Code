@@ -30,7 +30,7 @@ Nothing in this chapter shall be deemed or construed to authorize the Office to 
 
 #### (e) Assistance to tribes
 
-(1) The Office shall provide technical assistance and training to any Indian tribe or tribal organization upon request. Technical assistance and training shall include (but not be limited to) assistance for the development of—
+(1) The Office shall provide technical assistance and training to any Indian tribe or tribalorganization upon request. Technical assistance and training shall include (but not be limited to) assistance for the development of—
 
 &emsp;(A) tribal codes and rules of procedure;
 

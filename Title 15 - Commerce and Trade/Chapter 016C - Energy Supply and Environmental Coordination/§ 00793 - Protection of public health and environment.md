@@ -2,11 +2,11 @@
 
 #### (a) Distribution of low sulfur fuel
 
-Any allocation program provided for in section 792 of this title or in the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> shall, to the maximum extent practicable, include measures to assure that available low sulfur fuel will be distributed on a priority basis to those areas of the United States designated by the Administrator of the Environmental Protection Agency as requiring low sulfur fuel to avoid or minimize adverse impact on public health.
+Any allocation program provided for in section 792 of this title or in the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> shall, to the maximum extent practicable,include measures to assure that available low sulfur fuel will be distributed on a priority basis to those areas of the United States designated by the Administrator of the Environmental Protection Agency as requiring low sulfur fuel to avoid or minimize adverse impact on public health.
 
 #### (b) Study of chronic effects of sulfur oxide emissions among exposed populations
 
-In order to determine the health effects of emissions of sulfur oxides to the air resulting from any conversions to burning coal to which section 119 <sup>1</sup> of the Clean Air Act \[42 U.S.C. 1857c–10\] applies, the Department of Health and Human Services shall, through the National Institute of Environmental Health Sciences and in cooperation with the Environmental ProtectionAgency, conduct a study of chronic effects among exposed populations. The sum of $3,500,000 is authorized to be appropriated for such a study. In order to assure that long-term studies can be conducted without interruption, such sums as are appropriated shall be available until expended.
+In order to determine the health effects of emissions of sulfur oxides to the air resulting from any conversions to burning coal to which section 119 <sup>1</sup> of the Clean Air Act \[42 U.S.C. 1857c–10\] applies, the Department of Health and Human Services shall, through the National Institute of Environmental Health Sciences and in cooperation with the Environmental Protection Agency, conduct a study of chronic effects among exposed populations. The sum of $3,500,000 is authorized to be appropriated for such a study. In order to assure that long-term studies can be conducted without interruption, such sums as are appropriated shall be available until expended.
 
 #### (c) Major Federal actions significantly affecting the quality of the human environment
 

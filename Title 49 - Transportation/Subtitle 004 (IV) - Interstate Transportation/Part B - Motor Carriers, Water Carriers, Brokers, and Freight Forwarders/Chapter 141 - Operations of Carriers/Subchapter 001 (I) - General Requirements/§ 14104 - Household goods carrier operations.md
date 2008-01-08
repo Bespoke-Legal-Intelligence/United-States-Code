@@ -32,7 +32,7 @@ Factors to consider.—In establishing performance standards under this paragrap
 
 &emsp;&emsp;&emsp;(vi) the need to set the level of performance at a level designed to encourage carriers to offer service responsive to shipper needs.
 
-&emsp;&emsp;(3)
+&emsp;(3)
 
 Limitations on statutory construction.—Nothing in this section shall be construed to limit the Secretary's authority to require reports from motor carriers providing transportation of household goods or to require such carriers to provide specified information to consumers concerning their past performance.
 
@@ -50,7 +50,7 @@ In general.—Except as otherwise provided in this subsection, every motor carri
 
 &emsp;&emsp;(B)
 
-Waiver.—A shipper may elect to waive a physical survey under this paragraph by written agreement signed by the shipper before the shipment is loaded. A copy of the waiver agreement must be retained as an addendum to the bill of lading and shall be subject to the same record inspection andpreservation requirements of the Secretary as are applicable to bills of lading.
+Waiver.—A shipper may elect to waive a physical survey under this paragraph by written agreement signed by the shipper before the shipment is loaded. A copy of the waiver agreement must be retained as an addendum to the bill of lading and shall be subject to the same record inspection and preservation requirements of the Secretary as are applicable to bills of lading.
 
 &emsp;&emsp;(C)
 

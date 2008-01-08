@@ -16,7 +16,7 @@
 
 #### (3) Minimum and maximum values
 
-&emsp;Except as provided in subsection (b), the Postal Service shall collect the full face valueof each stamp sold under this section for the applicable hunting year.
+&emsp;Except as provided in subsection (b), the Postal Service shall collect the full face value of each stamp sold under this section for the applicable hunting year.
 
 #### (4) Validity
 
@@ -88,9 +88,9 @@ Subsec. (b). Pub. L. 95–552, §1(3), added subsec. (b).
 
 1976—Pub. L. 94–273 substituted “the year” for “the fiscal year” and “each year” for “each fiscal year”.
 
-Pub. L. 94–215 authorized sale of stamps by the Department of the Interior, substituted provision for prescription of regulations jointly by the Postal Service and the Secretary of the Interior for prior provision for such prescription by the Postal Service and provision for sale of stamps at any establishment, facility, or location as the Postal Service and the Secretary of the Interior shall direct and authorize for prior provision for sale of stamps at such post offices other than first- and second-class post offices as the Postal Service shall direct and inserted provision respecting deposit of funds from sale of stamps by the Department of the Interior in the migratory bird conservation fund; and substituted “September” for “June” in relation to redemption of blocks of stamps, designated existing provisions as cls. (A) and (B), and substituted “consignment to any person, including, but not limited to, “retail dealers” for “consignment to retail dealers” in cl. (A) and “by any such person” for “by such dealers” in cl. (B), respectively.
+Pub. L. 94–215 authorized sale of stamps by the Department of the Interior, substituted provision for prescription of regulations jointly by the Postal Service and the Secretary of the Interior for prior provision for such prescription by the Postal Service and provision for sale of stamps at any establishment, facility, or location as the Postal Service and the Secretary of the Interior shall direct and authorize for prior provisionfor sale of stamps at such post offices other than first- and second-class post offices as the Postal Service shall direct and inserted provision respecting deposit of funds from sale of stamps by the Department of the Interior in the migratory bird conservation fund; and substituted “September” for “June” in relation to redemption of blocks of stamps, designated existing provisions as cls. (A) and (B), and substituted “consignment to any person, including, but not limited to, “retail dealers” for “consignment to retail dealers” in cl. (A) and “by any such person” for “by such dealers” in cl. (B), respectively.
 
-1971—Pub. L. 92–214 substituted “Postal Service” for “Post Office Department” and “Postmaster General” and inserted provisions authorizing the collection of up to $5 for each stamp sold to be determined by the Secretary of the Interior after taking into consideration,among other matters, the increased cost of lands needed for the conservation of migratory birds.
+1971—Pub. L. 92–214 substituted “Postal Service” for “Post Office Department” and “Postmaster General” and inserted provisions authorizing the collection of up to $5 for each stamp sold to be determined by the Secretary of the Interior after taking into consideration, among other matters, the increased cost of lands needed for the conservation of migratory birds.
 
 1958—Pub. L. 85–585 increased cost of stamp from $2 to $3.
 

@@ -156,5 +156,5 @@ Pub. L. 107–299, §3(b)(2), Nov. 26, 2002, 116 Stat. 2346, provided that:
 
 #### Notice of Reorganization
 
-Pub. L. 105–160, §9(d), Mar. 6, 1998, 112 Stat. 27, provided that: “The Secretary of Commerce shall provide notice to the Committees on Science, Resources, and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 45 days before any major reorganization of any program, project, or activity of the National Sea Grant College Program.”
+Pub. L. 105–160, §9(d), Mar. 6, 1998, 112 Stat. 27, provided that: “The Secretary of Commerce shall provide notice to the Committees on Science \[now Science and Technology\], Resources \[now Natural Resources\], and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 45 days before any major reorganization of any program, project, or activity of the National Sea Grant College Program.”
 

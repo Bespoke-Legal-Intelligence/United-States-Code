@@ -20,5 +20,3 @@ Sept. 19, 1951, ch. 407, §101(e), 65 Stat. 327.
 
 The word “made” is substituted for the words “manufactured or produced”. The words “United States” are substituted for the word “Government”.
 
-§9534
-

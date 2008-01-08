@@ -2,7 +2,7 @@
 
 #### (a) Research or statistical information; immunity from process; prohibition against admission as evidence or use in any proceedings
 
-No officer or employee of the Federal Government, and no recipient of assistance under the provisions of this chapter shall use or reveal any research or statistical information furnished under this chapter by any person and identifiable to any specific private person for any purpose other than the purpose for which it was obtained in accordance with this chapter. Such information and copies thereof shall be immune from legal process, and shall not, without the consent of the person furnishing such information, be admitted as evidence or used for anypurpose in any action, suit, or other judicial, legislative, or administrative proceedings.
+No officer or employee of the Federal Government, and no recipient of assistance under the provisions of this chapter shall use or reveal any research or statistical information furnished under this chapter by any person and identifiable to any specific private person for any purpose other than the purpose for which it was obtained in accordance with this chapter. Such information and copies thereof shall be immune from legal process, and shall not, without the consent of the person furnishing such information, be admitted as evidence or used for any purpose in any action, suit, or other judicial, legislative, or administrative proceedings.
 
 #### (b) Criminal history information; disposition and arrest data; procedures for collection, storage, dissemination, and current status; security and privacy; availability for law enforcement, criminal justice, and other lawful purposes; automated systems: review, challenge, and correction of information
 
@@ -16,7 +16,7 @@ All criminal intelligence systems operating through support under this chapter s
 
 Any person violating the provisions of this section, or of any rule, regulation, or order issued thereunder, shall be fined not to exceed $10,000, in addition to any other penalty imposed by law.
 
-(Pub. L. 90–351, title I, §812, formerly §818, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1213; renumbered §812 and amended Pub. L. 98–473, title II, §609B(f), (k), Oct. 12, 1984, 98 Stat. 2093, 2096; Pub. L. 109–162, title XI, §1115(c), Jan. 5, 2006, 119 Stat. 3104.)
+(Pub. L. 90–351, title I, §812, formerly §818, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat.1213; renumbered §812 and amended Pub. L. 98–473, title II, §609B(f), (k), Oct. 12, 1984, 98 Stat. 2093, 2096; Pub. L. 109–162, title XI, §1115(c), Jan. 5, 2006, 119 Stat. 3104.)
 
 #### Prior Provisions
 

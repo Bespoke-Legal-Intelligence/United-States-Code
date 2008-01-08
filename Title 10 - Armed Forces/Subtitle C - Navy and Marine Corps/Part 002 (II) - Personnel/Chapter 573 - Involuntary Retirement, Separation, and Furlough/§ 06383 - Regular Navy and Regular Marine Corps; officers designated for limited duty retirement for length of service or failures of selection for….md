@@ -272,5 +272,3 @@ Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 8
 
 For transition provisions relating to limited-duty officers of the Regular Navy or Regular Marine Corps, see section 616 of Pub. L. 96–513, set out as a note under section 611 of this title.
 
-§6384
-

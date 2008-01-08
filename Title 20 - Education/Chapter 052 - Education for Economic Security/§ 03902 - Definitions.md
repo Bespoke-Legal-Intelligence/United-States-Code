@@ -36,7 +36,7 @@ This chapter, referred to in par. (11), was in the original “this title” and
 
 #### Amendments
 
-2006—Par. (1). Pub. L. 109–270 substituted “area career and technical education school” for “area vocationaleducation school” and “section 2302(3) of this title.” for “section 2471(3) of this title..”
+2006—Par. (1). Pub. L. 109–270 substituted “area career and technical education school” for “area vocational education school” and “section 2302(3) of this title.” for “section 2471(3) of this title..”
 
 2002—Par. (3). Pub. L. 107–110, §1076(<i>l</i>)(1)(A), substituted “7801 of this title” for “198(a)(7) of the Elementary and Secondary Education Act of 1965”.
 

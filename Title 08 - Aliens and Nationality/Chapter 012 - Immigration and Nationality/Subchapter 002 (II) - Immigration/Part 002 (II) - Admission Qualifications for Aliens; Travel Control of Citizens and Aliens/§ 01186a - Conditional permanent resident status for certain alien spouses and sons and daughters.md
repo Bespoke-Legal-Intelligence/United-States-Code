@@ -170,7 +170,7 @@ In this section:
 
 > &emsp;by virtue of a marriage which was entered into less than 24 months before the date the alien obtains such status by virtue of such marriage, but does not include such an alien who only obtains such status as a result of section 1153(d) of this title.
 
-&emsp;(2) The term “alien son or daughter” means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the son or daughter of an individual through a qualifying marriage.
+&emsp;(2) The term “alien son or daughter” means an alien who obtains the status of an alienlawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the son or daughter of an individual through a qualifying marriage.
 
 &emsp;(3) The term “qualifying marriage” means the marriage described to in paragraph (1).
 

@@ -42,7 +42,7 @@ A drug or device—
 
 &emsp;(iii) Statutory or regulatory requirements for the reporting of adverse reactions to drugs and devices and procedures to withdraw approval and remove drugs and devices found not to be safe or effective.
 
-&emsp;(iv) Statutory or regulatory requirements that the labeling and promotion of drugs anddevices must be in accordance with the approval of the drug or device.
+&emsp;(iv) Statutory or regulatory requirements that the labeling and promotion of drugs and devices must be in accordance with the approval of the drug or device.
 
 &emsp;(v) The valid marketing authorization system in such country or countries is equivalent to the systems in the countries described in clauses (i) and (ii) of subparagraph (A).
 
@@ -96,7 +96,7 @@ A drug or device intended for formulation, filling, packaging, labeling, or furt
 
 (2) The holder of an approved application for the export of a drug or device under this subsection shall report to the Secretary—
 
-&emsp;(A) the receipt of any credible information indicating that the drug or device is being or may have been exported from a country for which the Secretary made a finding underparagraph (1)(A) to a country for which the Secretary cannot make such a finding; and
+&emsp;(A) the receipt of any credible information indicating that the drug or device is being or may have been exported from a country for which the Secretary made a finding under paragraph (1)(A) to a country for which the Secretary cannot make such a finding; and
 
 &emsp;(B) the receipt of any information indicating adverse reactions to such drug.
 

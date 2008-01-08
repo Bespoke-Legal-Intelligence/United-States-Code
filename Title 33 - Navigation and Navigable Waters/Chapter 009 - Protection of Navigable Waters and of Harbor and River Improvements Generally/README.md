@@ -43,21 +43,23 @@
 | [426c.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426c%20-%20Report%20by%20Coastal%20Engineering%20Research%20Center.md) | Report by Coastal Engineering Research Center. |
 | [426d.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426d%20-%20Payment%20of%20expenses.md) | Payment of expenses. |
 | [426e.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426e%20-%20Federal%20aid%20in%20protection%20of%20shores.md) | Federal aid in protection of shores. |
+| 426e–1. | Shore protection projects. |
 | [426f.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426f%20-%20Reimbursements.md) | Reimbursements. |
-| [426g.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426g%20-%20Authorization%20of%20small%20projects%20not%20specifically%20authorized%3B%20expenditures%3B%20local%20cooperation%3B%20work%20to%20be%20complete%3B%20exceptions.md) | Authorization of small projects not specifically authorized; expenditures; local cooperation; work to be complete; exceptions. |
+| [426g.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426g%20-%20Storm%20and%20hurricane%20restoration%20and%20impact%20minimization%20program.md) | Storm and hurricane restoration and impact minimization program. |
 | 426g–1. | State and regional plans. |
-| [426h.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426h%20-%20National%20shoreline%20erosion%20control%20development%20and%20demonstration%20program.md) | National shoreline erosion control development and demonstration program. |
+| [426h.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426h%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93114%2C%20title%20II%2C%20%C2%A72038%28b%29%2C%20Nov.%208%2C%202007%2C%20121%20Stat.%201100.md) | Repealed. |
 | 426h–1. | Definitions. |
 | [426i.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426i%20-%20Shore%20damage%20prevention%20or%20mitigation.md) | Shore damage prevention or mitigation. |
 | 426i–1. | Construction of shoreline protection projects by non-Federal interests. |
 | 426i–2. | National coastal data bank. |
-| [426j.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426j%20-%20Placement%20on%20State%20beaches%20of%20sand%20dredged%20in%20constructing%20and%20maintaining%20navigation%20inlets%20and%20channels%20adjacent%20to%20such%20beaches.md) | Placement on State beaches of sand dredged in constructing and maintaining navigation inlets and channels adjacent to such beaches. |
+| [426j.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426j%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93114%2C%20title%20II%2C%20%C2%A72037%28b%29%281%29%2C%20Nov.%208%2C%202007%2C%20121%20Stat.%201096.md) | Repealed. |
 | [426k.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426k%20-%20Five%20year%20demonstration%20program%20to%20temporarily%20increase%20diversion%20of%20water%20from%20Lake%20Michigan%20at%20Chicago%2C%20Illinois.md) | Five year demonstration program to temporarily increase diversion of water from Lake Michigan at Chicago, Illinois. |
 | 426<i>l.</i> | Protection of Lake Ontario. |
 | [426m.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426m%20-%20Collection%20and%20removal%20of%20drift%20and%20debris%20from%20publicly%20maintained%20commercial%20boat%20harbors%20and%20adjacent%20land%20and%20water%20areas.md) | Collection and removal of drift and debris from publicly maintained commercial boat harbors and adjacent land and water areas. |
 | [426n.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426n%20-%20Technical%20assistance%20to%20States%20and%20local%20governments%3B%20cost%20sharing.md) | Technical assistance to States and local governments; cost sharing. |
 | 426<i>o.</i> | Great Lakes material disposal. |
 | 426<i>o</i>–1. | Great Lakes dredging levels adjustment. |
+| 426<i>o</i>–2. | Great Lakes navigation and protection. |
 | [426p.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426p%20-%20Corps%20of%20Engineers.md) | Corps of Engineers. |
 | 427 to 430. Repealed. |  |
 
@@ -131,6 +133,7 @@
 | [467d.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467d%20-%20National%20dam%20inventory.md) | National dam inventory. |
 | [467e.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467e%20-%20Interagency%20Committee%20on%20Dam%20Safety.md) | Interagency Committee on Dam Safety. |
 | [467f.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467f%20-%20National%20dam%20safety%20program.md) | National dam safety program. |
+| 467f–1. | Lock and dam security. |
 | [467g.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467g%20-%20Research.md) | Research. |
 | 467g–1. | Dam safety training. |
 | [467h.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467h%20-%20Reports.md) | Reports. |

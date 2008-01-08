@@ -12,7 +12,7 @@ The Foundation shall have the authority, within the limits of available appropri
 
 &emsp;(e) to acquire by purchase, lease, loan, gift, or condemnation, and to hold and dispose of by grant, sale, lease, or loan, real and personal property of all kinds necessary for, or resulting from, the exercise of authority granted by this chapter;
 
-&emsp;(f) to receive and use funds donated by others, if such funds are donated without restriction other than that they be used in furtherance of one or more of the general purposes of the Foundation;
+&emsp;(f) to receive and use funds donated by others, if such funds are donated without restriction other than that they be used in furtherance of one or more of the general purposes of the Foundation, except that funds may be donated for specific prize competitions for “basic research” as defined in the Office of Management and Budget Circular No. A–11;
 
 &emsp;(g) to publish or arrange for the publication of scientific and engineering information so as to further the full dissemination of information of scientific or engineering value consistent with the national interest, without regard to the provisions of section 501 of title 44;
 
@@ -24,15 +24,17 @@ The Foundation shall have the authority, within the limits of available appropri
 
 &emsp;(k) during the 5-year period beginning on August 21, 1986, to indemnify grantees, contractors, and subcontractors associated with the Ocean Drilling Program under the provisions of section 2354 of title 10 with all approvals and certifications required by such indemnification made by the Director.
 
-(May 10, 1950, ch. 171, §11, 64 Stat. 153; Pub. L. 86–232, §6, Sept. 8, 1959, 73 Stat. 468; Pub. L.90–407, §9, July 18, 1968, 82 Stat. 365; Pub. L. 99–159, title I, §110(a)(14), Nov. 22, 1985, 99 Stat. 891; Pub. L. 99–383, §7(d), Aug. 21, 1986, 100 Stat. 814.)
+(May 10, 1950, ch. 171, §11, 64 Stat. 153; Pub. L. 86–232, §6, Sept. 8, 1959, 73 Stat. 468; Pub. L. 90–407, §9, July 18, 1968, 82 Stat. 365; Pub. L. 99–159, title I, §110(a)(14), Nov. 22, 1985, 99 Stat. 891; Pub. L. 99–383, §7(d), Aug. 21, 1986, 100 Stat. 814; Pub. L. 110–69, title VII, §7023, Aug. 9, 2007, 121 Stat. 686.)
 
 #### Codification
 
-In subsec. (d), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C., sec. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31U.S.C., sec. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 In subsec. (g), “section 501 of title 44” substituted for “section 87 of the Act of January 12, 1895 (28 Stat. 622), and section 11 of the Act of March 1, 1919 (40 Stat. 1270; 44 U.S.C., sec. 111)” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, the first section of which enacted Title 44, Public Printing and Documents.
 
 #### Amendments
+
+2007—Subsec. (f). Pub. L. 110–69 inserted before semicolon at end “, except that funds may be donated for specific prize competitions for ‘basic research’ as defined in the Office of Management and Budget Circular No. A–11”.
 
 1986—Subsec. (k). Pub. L. 99–383 added subsec. (k).
 

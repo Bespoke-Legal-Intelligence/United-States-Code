@@ -58,7 +58,7 @@ For purposes of this part, the term “governmental plan” means a plan establi
 
 #### (D) Association with church
 
-&emsp;&emsp;An organization, whether a civil law corporation or otherwise, is associated with a church or a convention or association of churches if it shares common religious bonds and convictions with that church or convention or association of churches.
+&emsp;&emsp;An organization, whether a civil law corporation or otherwise, is associated with a church or a convention or association ofchurches if it shares common religious bonds and convictions with that church or convention or association of churches.
 
 #### (E) Special rule in case of separation from plan
 
@@ -118,7 +118,7 @@ For purposes of this part, the term “governmental plan” means a plan establi
 
 #### (C) Effect on non-denominational plans
 
-&emsp;&emsp;If a duly ordained, commissioned, or licensed minister of a church in the exercise of his or her ministry participates in achurch plan (within the meaning of this section) and in the exercise of such ministry is employed by an employer not otherwise participating in such church plan, then such employer may exclude such minister from being treated as an employee of such employer for purposes of applying sections 401(a)(3), 401(a)(4), and 401(a)(5), as in effect on September 1, 1974, and sections 401(a)(4), 401(a)(5), 401(a)(26), 401(k)(3), 401(m), 403(b)(1)(D) (including section 403(b)(12)), and 410 to any stock bonus, pension, profit-sharing, or annuity plan (including an annuity described in section 403(b) or a retirement income account described in section 403(b)(9)). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purpose of, and prevent the abuse of, this subparagraph.
+&emsp;&emsp;If a duly ordained, commissioned, or licensed minister of a church in the exercise of his or her ministry participates in a church plan (within the meaning of this section) and in the exercise of such ministry is employed by an employer not otherwise participating in such church plan, then such employer may exclude such minister from being treated as an employee of such employer for purposes of applying sections 401(a)(3), 401(a)(4), and 401(a)(5), as in effect on September 1, 1974, and sections 401(a)(4), 401(a)(5), 401(a)(26), 401(k)(3), 401(m), 403(b)(1)(D) (including section 403(b)(12)), and 410 to any stock bonus, pension, profit-sharing, or annuity plan (including an annuity described in section 403(b) or a retirement income account described in section 403(b)(9)). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purpose of, and prevent the abuse of, this subparagraph.
 
 #### (D) Compensation taken into account only once
 
@@ -168,23 +168,23 @@ For purposes of this part, the term “governmental plan” means a plan establi
 
 &emsp;&emsp;(ii) a plan that meets the criteria in subparagraph (A) and (B) of paragraph (1) of this subsection or that is described in subparagraph (E) may, pursuant to procedures prescribed by the Pension Benefit Guaranty Corporation, elect to be a multiemployer plan, if—
 
-&emsp;&emsp;&emsp;(I) for each of the 3 plan years immediately before the date of enactment of the Pension Protection Act of 2006, the plan has met those criteria or is so described,
+&emsp;&emsp;&emsp;(I) for each of the 3 plan years immediately preceding the first plan year for which the election under this paragraph is effective with respect to the plan, the plan has met those criteria or is so described,
 
 &emsp;&emsp;&emsp;(II) substantially all of the plan's employer contributions for each of those plan years were made or required to be made by organizations that were exempt from tax under section 501, and
 
 &emsp;&emsp;&emsp;(III) the plan was established prior to September 2, 1974.
 
-&emsp;(B) An election under this paragraph shall be effective for all purposes under this Act <sup>1</sup> and under the Employee Retirement Income Security Act of 1974, starting with the first plan year ending after the date of the enactment of the Pension Protection Act of 2006.
+&emsp;(B) An election under this paragraph shall be effective for all purposes under this Act <sup>1</sup> and under the Employee Retirement Income Security Act of 1974, starting with any plan year beginning on or after January 1, 1999, and ending before January 1, 2008, as designated by the plan in the election made under subparagraph (A)(ii).
 
-&emsp;(C) Once made, an election under this paragraph shall be irrevocable, except that a plandescribed in subparagraph (A)(ii) shall cease to be a multiemployer plan as of the plan year beginning immediately after the first plan year for which the majority of its employer contributions were made or required to be made by organizations that were not exempt from tax under section 501.
+&emsp;(C) Once made, an election under this paragraph shall be irrevocable, except that a plan described in subparagraph (A)(ii) shall cease to be a multiemployer plan as of the plan year beginning immediately after the first plan year for which the majority of its employer contributions were made or required to be made by organizations that were not exempt from tax under section 501.
 
 &emsp;(D) The fact that a plan makes an election under subparagraph (A)(ii) does not imply that the plan was not a multiemployer plan prior to the date of the election or would not be a multiemployer plan without regard to the election.
 
-&emsp;(E) A plan is described in this subparagraph if it is a plan—
+&emsp;(E) A plan is described in this subparagraph if it is a plan sponsored by an organization which is described in section 501(c)(5) and exempt from tax under section 501(a) and which was established in Chicago, Illinois, on August 12, 1881.
 
-&emsp;&emsp;(i) that was established in Chicago, Illinois, on August 12, 1881; and
+&emsp;(F)
 
-&emsp;&emsp;(ii) sponsored by an organization described in section 501(c)(5) and exempt from tax under section 501(a).
+Maintenance under collective bargaining agreement.—For purposes of this title and the Employee Retirement Income Security Act of 1974, a plan making an election under this paragraph shall be treated as maintained pursuant to a collective bargaining agreement if a collective bargaining agreement, expressly or otherwise, provides for or permits employer contributions to the plan by one or more employers that are signatory to such agreement, or participation in the plan by one or more employees of an employer that is signatory to such agreement, regardless of whether the plan was created, established, or maintained for such employees by virtue of another document that is not a collective bargaining agreement.
 
 #### (g) Plan administrator
 
@@ -252,7 +252,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 #### (B) Applicable percentage
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means, with respect to each of the plans described in clauses (i) and (ii) of subparagraph (A), the percentage determined by dividing—
+&emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means, with respectto each of the plans described in clauses (i) and (ii) of subparagraph (A), the percentage determined by dividing—
 
 &emsp;&emsp;&emsp;(i) the excess (if any) of—
 
@@ -428,7 +428,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;&emsp;A plan meets the requirements of this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) such plan is a money purchase pension plan with a nonintegrated employer contribution rate for each participant of at least 10 percent of compensation,
+&emsp;&emsp;&emsp;(i) such plan is a money purchase pension plan with a nonintegrated employercontribution rate for each participant of at least 10 percent of compensation,
 
 &emsp;&emsp;&emsp;(ii) such plan provides for full and immediate vesting, and
 
@@ -1300,7 +1300,7 @@ $2,500.
 
 &emsp;&emsp;The term “qualified cash or deferred arrangement” has the meaning given such term by section 401(k)(2).
 
-(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d),Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, §2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140, title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311; (As amended Pub. L. 104–188, title I, §§1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, 110 Stat. 1798, 1802, 1803, 1807, 1817, 1822, 1824, 1883; Pub. L. 105–34, title XV, §1522(a), title XVI, §1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, 111 Stat. 1070, 1089, 1090, 1092; Pub. L. 105–206, title VI, §6018(c), July 22, 1998, 112 Stat. 822; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§631(a), 635(a)–(c), June 7, 2001, 115 Stat. 111, 117; Pub. L. 107–147, title IV, §411(<i>o</i>)(3)–(8), Mar. 9, 2002, 116 Stat. 48, 49; Pub. L. 108–311, title IV, §408(a)(15), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(c), title IX, §§902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, §1106(b), Aug. 17, 2006, 120 Stat. 853, 1036, 1040, 1051, 1052, 1062.)
+(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d),Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, §2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140, title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311; (As amended Pub. L. 104–188, title I, §§1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, 110 Stat. 1798, 1802, 1803, 1807, 1817, 1822, 1824, 1883; Pub. L. 105–34, title XV, §1522(a), title XVI, §1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, 111 Stat. 1070, 1089, 1090, 1092; Pub. L. 105–206, title VI, §6018(c), July 22, 1998, 112 Stat. 822; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§631(a), 635(a)–(c), June 7, 2001, 115 Stat. 111, 117; Pub. L. 107–147, title IV, §411(<i>o</i>)(3)–(8), Mar. 9, 2002, 116 Stat. 48, 49; Pub. L. 108–311, title IV, §408(a)(15), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(c), title IX, §§902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, §1106(b), Aug. 17, 2006, 120 Stat. 853, 1036, 1040, 1051, 1052, 1062; Pub. L. 110–28, title VI, §6611(a)(2), (b)(2), May 25, 2007, 121 Stat. 180, 181.)
 
 #### References in Text
 
@@ -1308,15 +1308,25 @@ The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (d), means a
 
 The International Organizations Immunities Act (59 Stat. 669), referred to in subsec. (d), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. The Act also amended several other laws including the Internal Revenue Code of 1939. For exemption from taxation of income of international organizations and of the compensation of employees thereof, see sections 892 and 893 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f) (3), (5), (6)(B), (<i>l</i>)(1), (2)(E), and (w)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 3(37)(A)(iii) and 404(c)(5) of the Act are classified to sections 1002(37)(A)(iii) and 1104(c)(5) of Title 29, respectively. Section 4403(b) and (c) of the Employee Retirement Income Security Act of 1974 probably means section 4303(b) and (c) of such Act which is classified to section 1453(b) and (c) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(3), (5), (6)(B), (F), (<i>l</i>)(1), (2)(E), and (w)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 3(37)(A)(iii) and 404(c)(5) of the Act are classified to sections 1002(37)(A)(iii) and 1104(c)(5) of Title 29, respectively. Section 4403(b) and (c) of the Employee Retirement Income Security Act of 1974 probably means section 4303(b) and (c) of such Act which is classified to section 1453(b) and (c) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of the enactment of the Multiemployer Pension Plan Amendments Act of 1980, referred to in subsec. (f)(4), (5), means the date of the enactment of Pub. L. 96–364, which was approved Sept. 26, 1980.
 
 Effective date of the Multiemployer Pension Plan Amendments Act of 1980, referred to in subsec. (f)(5), probably means the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980, which was approved Sept. 26, 1980.
 
-The date of enactment of the Pension Protection Act of 2006, referred to in subsec. (f)(6)(A), (B), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
-
 #### Amendments
+
+2007—Subsec. (f)(6)(A)(ii)(I). Pub. L. 110–28, §6611(a)(2)(A), substituted “for each of the 3 plan years immediately preceding the first plan year for which the election under this paragraph is effective with respect to the plan,” for “for each of the 3 plan years immediately before the date of enactment of the Pension Protection Act of 2006,”.
+
+Subsec. (f)(6)(B). Pub. L. 110–28, §6611(a)(2)(B), substituted “starting with any plan year beginning on or after January 1, 1999, and ending before January 1, 2008, as designated by the plan in the election made under subparagraph (A)(ii)” for “starting with the first plan year ending after the date of the enactment of the Pension Protection Act of 2006”.
+
+Subsec. (f)(6)(E). Pub. L. 110–28, §6611(b)(2), substituted “if it is a plan sponsored by an organization which is described in section 501(c)(5) and exempt from tax under section 501(a) and which was established in Chicago, Illinois, on August 12, 1881.” for “if it is a plan—
+
+&emsp;“(i) that was established in Chicago, Illinois, on August 12, 1881; and
+
+&emsp;“(ii) sponsored by an organization described in section 501(c)(5) and exempt from tax under section 501(a).”
+
+Subsec. (f)(6)(F). Pub. L. 110–28, §6611(a)(2)(C), added subpar. (F).
 
 2006—Subsec. (d). Pub. L. 109–280, §906(a)(1), inserted at end “The term ‘governmental plan’ includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40)), a subdivision of an Indian tribal government (determined in accordance with section 7871(d)), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).”
 
@@ -1448,7 +1458,7 @@ Not more than 50 officers taken into account.—For purposes of paragraph (1)(D)
 
 &emsp;“(B)
 
-At least 1 officer taken into account.—If for any year no officer of the employer is described in paragraph (1)(D), the highest paid officer of the employer for such year shall be treated as described in such paragraph.”
+At least 1 officer taken into account.—If for any year no officer of the employer is described inparagraph (1)(D), the highest paid officer of the employer for such year shall be treated as described in such paragraph.”
 
 Subsec. (q)(6). Pub. L. 104–188, §1431(b)(1), (c)(1)(A), redesignated par. (9) as (6) and struck out former par. (6) which related to treatment of families of 5-percent owners or of highly compensated employees.
 
@@ -1570,7 +1580,7 @@ Subsec. (n)(2)(B). Pub. L. 99–514, §1151(i)(2), inserted “(6 months in the 
 
 Subsec. (n)(3). Pub. L. 99–514, §1151(i)(3), substituted “Requirements” for “Pension requirements” in heading, substituted “requirements” for “pension requirements” in text, and added subpar. (C).
 
-Subsec. (n)(4). Pub. L. 99–514, §1146(a)(2), substituted “Time when first considered as employee” for “Time when leased employee is first considered as employee” in heading and amended text generally. Prior toamendment, text read as follows: “In the case of any leased employee, paragraph (1) shall apply only for purposes of determining whether the pension requirements listed in paragraph (3) are met for periods after the close of the 1-year period referred to in paragraph (2); except that years of service for the recipient shall be determined by taking into account the entire period for which the leased employee performed services for the recipient (or related persons).”
+Subsec. (n)(4). Pub. L. 99–514, §1146(a)(2), substituted “Time when first considered as employee” for “Time when leased employee is first considered as employee” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of any leased employee, paragraph (1) shall apply only for purposes of determining whether the pension requirements listed in paragraph (3) are met for periods after the close of the 1-year period referred to in paragraph (2); except that years of service for the recipient shall be determined by taking into account the entire period for which the leased employee performed services for the recipient (or related persons).”
 
 Subsec. (n)(5). Pub. L. 99–514, §1146(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “This subsection shall not apply to any leased employee if such employee is covered by a plan which is maintained by the leasing organization if, with respect to such employee, such plan—
 
@@ -1662,6 +1672,10 @@ Subsec. (g)(2)(C). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his dele
 
 Subsec. (<i>l</i>). Pub. L. 94–455, §1901(a)(64)(B), substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–28, title VI, §6611(c), May 25, 2007, 121 Stat. 181, provided that: “The amendments made by this section \[amending this section and section 1002 of Title 29, Labor\] shall take effect as if included in section 1106 of the Pension Protection Act of 2006 \[Pub. L. 109–280\].”
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 902(d)(1) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, see section 902(g) of Pub. L. 109–280, set out as a note under section 401 of this title.
@@ -1728,7 +1742,7 @@ Section 11703(b)(2) of Pub. L. 101–508 provided that: “The amendment made by
 
 #### Effective Date of 1989 Amendments
 
-Amendment by sections 7811(m)(5) and 7813(b) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by sections 7811(m)(5) and 7813(b) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, towhich such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Amendment by section 7841(a)(2) of Pub. L. 101–239 applicable to transfers after Dec. 19, 1989, in taxable years ending after such date, see section 7841(a)(3) of Pub. L. 101–239, set out as a note under section 408 of this title.
 
@@ -1836,7 +1850,7 @@ Plans in existence on november 30, 1980.—In the case of a plan in existence on
 
 Section 407(c) of Pub. L. 96–364 provided that: “The amendments made by this section \[amending this section and section 1002 of Title 29, Labor\] shall be effective as of January 1, 1974.”
 
-Amendment by sections 207 and 208(a) of Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub.L. 96–364, set out as an Effective Date note under section 418 of this title.
+Amendment by sections 207 and 208(a) of Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub. L. 96–364, set out as an Effective Date note under section 418 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -1912,7 +1926,7 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Study Reflecting Allocation of Assets
 
-Section 6067(b) of Pub. L. 100–647 directed Secretary of the Treasury or his delegate, in consultation with Federal Deposit Insurance Corporation, to conduct a study with respect to proper method of allocating assets in case of a transaction to which the amendment made by such section and, not later than Jan. 1, 1990 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559) to report results of such study to Committee on Ways and Means of House of Representatives and to Committee on Finance of Senate.
+Section 6067(b) of Pub. L. 100–647 directed Secretary of the Treasury or his delegate, in consultation withFederal Deposit Insurance Corporation, to conduct a study with respect to proper method of allocating assets in case of a transaction to which the amendment made by such section and, not later than Jan. 1, 1990 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559) to report results of such study to Committee on Ways and Means of House of Representatives and to Committee on Finance of Senate.
 
 #### Plan Amendments Not Required Until January 1, 1998
 

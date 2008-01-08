@@ -24,7 +24,7 @@ Funds in the Navajo Rehabilitation Trust Fund, including any interest or investm
 
 #### (e) Conceptual framework for expenditure of funds
 
-By December 1, 1989, the Secretary of the Interior, with the advice of the Navajo Tribe and the Office of Navajo and Hopi Indian Relocation, shall submit to the Congress a conceptual framework for the expenditure of the funds authorized for the Navajo Rehabilitation Trust Fund. Such framework is to be consistent with the purposes described in subsection (d) of this section.
+By December 1, 1989, the Secretary of the Interior, with the advice of the Navajo Tribe and theOffice of Navajo and Hopi Indian Relocation, shall submit to the Congress a conceptual framework for the expenditure of the funds authorized for the Navajo Rehabilitation Trust Fund. Such framework is to be consistent with the purposes described in subsection (d) of this section.
 
 #### (f) Termination of Trust Fund
 

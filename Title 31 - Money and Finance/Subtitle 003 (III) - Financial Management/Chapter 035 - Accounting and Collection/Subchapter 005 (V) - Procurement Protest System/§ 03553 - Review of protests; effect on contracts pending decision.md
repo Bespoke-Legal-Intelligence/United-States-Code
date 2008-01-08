@@ -26,7 +26,7 @@
 
 (d)(1) A contractor awarded a Federal agency contract may, during the period described in paragraph (4), begin performance of the contract and engage in any related activities that result in obligations being incurred by the United States under the contract unless the contracting officer responsible for the award of the contract withholds authorization to proceed with performance of the contract.
 
-(2) The contracting officer may withhold an authorization to proceed with performance of the contract during the period described in paragraph (4) if the contracting officer determines in writing that—
+(2) The contracting officer may withhold an authorization to proceed with performance ofthe contract during the period described in paragraph (4) if the contracting officer determines in writing that—
 
 &emsp;(A) a protest is likely to be filed; and
 
@@ -54,7 +54,7 @@
 
 &emsp;(A) the date that is 10 days after the date of the contract award; or
 
-&emsp;(B) the date that is 5 days after the debriefing date offered to an unsuccessful offeror forany debriefing that is requested and, when requested, is required.
+&emsp;(B) the date that is 5 days after the debriefing date offered to an unsuccessful offeror for any debriefing that is requested and, when requested, is required.
 
 (e) The authority of the head of the procuring activity to make findings and to authorize the award and performance of contracts under subsections (c) and (d) of this section may not be delegated.
 
@@ -104,7 +104,7 @@ Subsec. (f). Pub. L. 103–355, §1403(c), designated existing provisions as par
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–375 applicable to protests filed under this subchapter that relate to studies initiated under Office of Management and Budget Circular A–76 on or after the end of the 90-day period beginning on Oct. 28, 2004, see section 326(d) of Pub. L. 108–375, set out as a note under section 3551 of this title.
+Amendment by Pub. L. 108–375 applicable to protests filed under this subchapter that relate to studies initiated under Office of Management and Budget CircularA–76 on or after the end of the 90-day period beginning on Oct. 28, 2004, see section 326(d) of Pub. L. 108–375, set out as a note under section 3551 of this title.
 
 #### Effective Date of 1996 Amendment
 

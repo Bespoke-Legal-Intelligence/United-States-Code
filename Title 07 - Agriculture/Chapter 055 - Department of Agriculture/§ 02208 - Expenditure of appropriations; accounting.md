@@ -26,7 +26,7 @@ Pub. L. 105–86, title VII, §716, Nov. 18, 1997, 111 Stat. 2106, provided that
 
 Hereafter: (a)
 
-Compliance With Buy American Act.—None of the funds made available in this Act \[see Tables for classification\] may be expended by an entity unless the entity agrees that in expending the fundsthe entity will comply with sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a–10c; popularly known as the ‘Buy American Act’).
+Compliance With Buy American Act.—None of the funds made available in this Act \[see Tables for classification\] may be expended by an entity unless the entity agrees that in expending the funds the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a–10c; popularly known as the ‘Buy American Act’).
 
 “(b)
 

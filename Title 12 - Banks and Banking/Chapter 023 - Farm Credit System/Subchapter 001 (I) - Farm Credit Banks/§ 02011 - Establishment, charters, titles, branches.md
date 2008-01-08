@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The banks established pursuant to the merger of each District Federal Intermediate CreditBank and Federal Land Bank (hereinafter referred to in this subchapter as “Farm Credit Banks”), as provided in section 410 of the Agricultural Credit Act of 1987, shall be Federally chartered instrumentalities of the United States.
+The banks established pursuant to the merger of each District Federal Intermediate Credit Bank and Federal Land Bank (hereinafter referred to in this subchapter as “Farm Credit Banks”), as provided in section 410 of the Agricultural Credit Act of 1987, shall be Federally chartered instrumentalities of the United States.
 
 #### (b) Charters
 
@@ -90,7 +90,7 @@ In general.—Not later than June 30, 1993, except as provided in subparagraph (
 
 &emsp;&emsp;&emsp;“(ii)
 
-Merger of entire bank.—Notwithstanding subparagraph (B), or any other provision of law, the Farm Credit Administration shall approve a merger of the Federal Intermediate Credit Bank of Jackson only if the Bank (as chartered on the date of enactment of this subsection \[Oct. 28,1992\], except as provided in subparagraph (B)(ii)(II)(bb)) merges in its entirety with a Farm Credit Bank.
+Merger of entire bank.—Notwithstanding subparagraph (B), or any other provision of law, the Farm Credit Administration shall approve a merger of the Federal Intermediate Credit Bank of Jackson only if the Bank (as chartered on the date of enactment of this subsection \[Oct. 28, 1992\], except as provided in subparagraph (B)(ii)(II)(bb)) merges in its entirety with a Farm Credit Bank.
 
 &emsp;&emsp;&emsp;“(iii)
 
@@ -166,7 +166,7 @@ Arbitrated merger.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than 30 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), an arbitrator (orpanel of arbitrators) shall be named by the American Arbitration Association in accordance with the Commercial Arbitration Rules of the American Arbitration Association to serve as the arbitrator referred to in this paragraph.
+In general.—Not later than 30 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), an arbitrator (or panel of arbitrators) shall be named by the American Arbitration Association in accordance with the Commercial Arbitration Rules of the American Arbitration Association to serve as the arbitrator referred to in this paragraph.
 
 &emsp;&emsp;“(B)
 
@@ -216,7 +216,7 @@ Content of plan; farm credit bank.—The plan developed and submitted under clau
 
 Content of plan; agricultural credit associations.—If the arbitrator determines that the chartering of agricultural credit associations in the States of Alabama, Louisiana, and Mississippi will be in the best interests of the farmers, ranchers, and aquatic producers eligible to borrow from Farm Credit System associations, the plan required under this subparagraph shall also include, based on submissions from the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas, provisions for the establishment of agricultural credit associations to operate in the States, subject to approval in the referendum under subparagraph (F). Such provisions shall include provisions regarding the following matters:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) A proposal for the establishment of an agricultural credit association in each of the geographic areas specified in subparagraph (F)(iii) (the charters of which, if validly issued under subparagraph (G)(i) pursuant to approval in the referendum under subparagraph (F), shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) A proposal for the establishment of an agricultural credit association in each of the geographic areas specified in subparagraph (F)(iii) (the charters of which, if validly issued under subparagraph (G)(i) pursuant to approval in thereferendum under subparagraph (F), shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) The initial composition, if the proposal for the establishment of agricultural credit associations is approved, of the board of directors of each such agricultural credit association (which shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
 
@@ -288,9 +288,9 @@ Publication of results.—The results of the vote under this subparagraph, as ta
 
 Implementation.—Not later than 10 days after the date of the receipt of the results of the referendum conducted under subparagraph (F), the Farm Credit Administration shall issue such charters or charter amendments and take such other regulatory actions as may be necessary to implement the merger or mergers as provided for under the certified plan. In this regard, the Farm Credit Administration shall—
 
-&emsp;&emsp;&emsp;“(i) issue a charter or charter amendment and take any such other regulatory actions as may be necessary to provide for the establishment of an agricultural credit association in each of the geographic areas described in subparagraph (F)(iii) where a majority of the farmer-borrowers of both the production credit association and the Federal land bank association voted under subparagraph (F)(i) that they preferred to have credit delivered through an agricultural credit association (which charter shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations); and
+&emsp;&emsp;&emsp;“(i) issue a charter or charter amendment and take any such other regulatory actions as may benecessary to provide for the establishment of an agricultural credit association in each of the geographic areas described in subparagraph (F)(iii) where a majority of the farmer-borrowers of both the production credit association and the Federal land bank association voted under subparagraph (F)(i) that they preferred to have credit delivered through an agricultural credit association (which charter shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations); and
 
-&emsp;&emsp;&emsp;“(ii) not issue a charter or charter amendment or take any such other regulatory action to provide for the establishment of an agricultural credit association in any of the geographic areas described in subparagraph (F)(iii) where less than amajority of the farmer-borrowers of the production credit association or the Federal land bank association voted in the referendum under subparagraph (F)(i) that they preferred to have credit delivered through an agricultural credit association (provided that the charter of any remaining association in such geographic area shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
+&emsp;&emsp;&emsp;“(ii) not issue a charter or charter amendment or take any such other regulatory action to provide for the establishment of an agricultural credit association in any of the geographic areas described in subparagraph (F)(iii) where less than a majority of the farmer-borrowers of the production credit association or the Federal land bank association voted in the referendum under subparagraph (F)(i) that they preferred to have credit delivered through an agricultural credit association (provided that the charter of any remaining association in such geographic area shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
 
 &emsp;&emsp;“(H)
 
@@ -354,7 +354,7 @@ Agency determinations.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—Any petition for review of a determination or other action of the Farm Credit Administration or the Farm Credit System Insurance Corporation under this subsection shall be filed in the United States Court of Appeals for the District of Columbia Circuit not later than 10 days after the determination, or the petition shall be barred. The court shall have exclusive jurisdiction to determine the proceeding in accordance with standard procedures as supplemented by procedures hereinafter provided and no other district court or court of appeals of the United States shall have jurisdiction over any such challenge in any proceeding instituted prior to, on, or after the date of enactment of this subsection. The review of any determination or action of the Farm Credit Administration or the Farm Credit System Insurance Corporation under this subsection shall be based on the examination of all of the information before the Farm Credit Administration or the Farm Credit System Insurance Corporation, as the case may be, at the time the determination was made. The court reviewing the determination or action shall not enter a stay or order of mandamus unless the court has determined, after notice and a hearing before a panel of the court, that the agency action complained of was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
+In general.—Any petition for review of a determination or other action of the Farm Credit Administration or the Farm Credit System Insurance Corporation under this subsection shall be filed in the United States Court of Appeals for the District of Columbia Circuit not later than 10 days after the determination, or the petition shall be barred. The court shall have exclusive jurisdiction to determine the proceeding in accordance with standard procedures as supplemented by procedures hereinafter provided and no otherdistrict court or court of appeals of the United States shall have jurisdiction over any such challenge in any proceeding instituted prior to, on, or after the date of enactment of this subsection. The review of any determination or action of the Farm Credit Administration or the Farm Credit System Insurance Corporation under this subsection shall be based on the examination of all of the information before the Farm Credit Administration or the Farm Credit System Insurance Corporation, as the case may be, at the time the determination was made. The court reviewing the determination or action shall not enter a stay or order of mandamus unless the court has determined, after notice and a hearing before a panel of the court, that the agency action complained of was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
 &emsp;&emsp;&emsp;“(ii)
 

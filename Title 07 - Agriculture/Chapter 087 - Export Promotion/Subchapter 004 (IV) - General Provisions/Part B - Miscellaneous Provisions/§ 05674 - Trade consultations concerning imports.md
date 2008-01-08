@@ -10,7 +10,7 @@ The Secretary shall consult with the United States Trade Representative prior to
 
 #### (c) Monitoring compliance with sanitary and phytosanitary measures
 
-The Secretary shall monitor the compliance of World Trade Organization member countries with the sanitary and phytosanitary measures of the Agreement on Agriculture of the Uruguay Round of Multilateral Trade Negotiations of the General Agreement on Tariffs and Trade. If the Secretary has reason to believe that any country may have failed to meet the commitment on sanitary and phytosanitary measures under the Agreement in a manner that adversely impacts the exports of a United States agricultural commodity, the Secretary shall—
+The Secretary shall monitor the compliance of World Trade Organization member countries with the sanitary and phytosanitary measures of the Agreement on Agriculture of the Uruguay Round of Multilateral Trade Negotiations of theGeneral Agreement on Tariffs and Trade. If the Secretary has reason to believe that any country may have failed to meet the commitment on sanitary and phytosanitary measures under the Agreement in a manner that adversely impacts the exports of a United States agricultural commodity, the Secretary shall—
 
 &emsp;(1) provide such information to the United States Trade Representative of the circumstances surrounding the matter arising under this subsection; and
 

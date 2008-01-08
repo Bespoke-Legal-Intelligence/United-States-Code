@@ -18,7 +18,7 @@
 
 (2) The Commission may exercise any power under the following sections to the extent the Commission determines such power to be necessary to the exercise of any function within the jurisdiction of the Commission:
 
-&emsp;(A) sections 4, 301, 302, 306 through 309, and 312 through 316 of the Federal Power Act \[16U.S.C. 797, 825, 825a, 825e to 825h, 825k to 825<i>o</i>\]; and
+&emsp;(A) sections 4, 301, 302, 306 through 309, and 312 through 316 of the Federal Power Act \[16 U.S.C. 797, 825, 825a, 825e to 825h, 825k to 825<i>o</i>\]; and
 
 &emsp;(B) sections 8, 9, 13 through 17, 20, and 21 of the Natural Gas Act \[15 U.S.C. 717g, 717h, 717<i>l</i> to 717p, 717s, 717t\].
 

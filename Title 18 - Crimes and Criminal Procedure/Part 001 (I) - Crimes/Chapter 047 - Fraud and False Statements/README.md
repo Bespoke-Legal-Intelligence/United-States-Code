@@ -46,10 +46,13 @@
 | [1037\.](%C2%A7%2001037%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20electronic%20mail.md) | Fraud and related activity in connection with electronic mail. |
 | [1038\.](%C2%A7%2001038%20-%20False%20information%20and%20hoaxes.md) | False information and hoaxes. |
 | [1039\.](%C2%A7%2001039%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20obtaining%20confidential%20phone%20records%20information%20of%20a%20covered%20entity.md) | Fraud and related activity in connection with obtaining confidential phone records information of a covered entity. |
+| [1040\.](%C2%A7%2001040%20-%20Fraud%20in%20connection%20with%20major%20disaster%20or%20emergency%20benefits.md) | Fraud in connection with major disaster or emergency benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–179, §2(b), Jan. 7, 2008, 121 Stat. 2557, added item 1040.
 
 2007—Pub. L. 109–476, §3(b), Jan. 12, 2007, 120 Stat. 3571, added item 1039.
 
@@ -137,3 +140,4 @@ Pub. L. 104–191, title II, §244(b), Aug. 21, 1996, 110 Stat. 2017, added item
 - [&sect; 01037 - Fraud and related activity in connection with electronic mail](%C2%A7%2001037%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20electronic%20mail.md)
 - [&sect; 01038 - False information and hoaxes](%C2%A7%2001038%20-%20False%20information%20and%20hoaxes.md)
 - [&sect; 01039 - Fraud and related activity in connection with obtaining confidential phone records information of a covered entity](%C2%A7%2001039%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20obtaining%20confidential%20phone%20records%20information%20of%20a%20covered%20entity.md)
+- [&sect; 01040 - Fraud in connection with major disaster or emergency benefits](%C2%A7%2001040%20-%20Fraud%20in%20connection%20with%20major%20disaster%20or%20emergency%20benefits.md)

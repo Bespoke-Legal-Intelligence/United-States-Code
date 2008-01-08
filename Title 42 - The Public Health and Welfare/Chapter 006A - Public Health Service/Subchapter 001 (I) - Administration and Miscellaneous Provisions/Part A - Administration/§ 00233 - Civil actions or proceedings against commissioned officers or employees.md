@@ -110,11 +110,11 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (k) Estimate of annual claims by Attorney General; criteria; establishment of fund; transfer of funds to Treasury accounts
 
-(1)(A) For each fiscal year, the Attorney General, in consultation with the Secretary, shall estimate by the beginning of the year the amount of all claims which are expected to arise under this section (together with related fees and expenses of witnesses) for which payment is expected to be made in accordance with section 1346 and chapter 171 of title 28 from the acts or omissions, during the calendar year that begins during that fiscal year, of entities described in subsection (g)(4) of this section and of officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities.
+(1)(A) For each fiscal year, the Attorney General, in consultation with the Secretary, shall estimate by the beginning of the year the amount of all claims which are expected to arise under this section (together with related feesand expenses of witnesses) for which payment is expected to be made in accordance with section 1346 and chapter 171 of title 28 from the acts or omissions, during the calendar year that begins during that fiscal year, of entities described in subsection (g)(4) of this section and of officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities.
 
 (B) The estimate under subparagraph (A) shall take into account—
 
-&emsp;(i) the value and frequency of all claims for damage for personal injury, including death, resulting from the performance of medical,surgical, dental, or related functions by entities described in subsection (g)(4) of this section or by officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities who are deemed to be employees of the Public Health Service under subsection (g)(1) of this section that, during the preceding 5-year period, are filed under this section or, with respect to years occurring before this subsection takes effect, are filed against persons other than the United States,
+&emsp;(i) the value and frequency of all claims for damage for personal injury, including death, resulting from the performance of medical, surgical, dental, or related functions by entities described in subsection (g)(4) of this section or by officers, employees, or contractors (subject to subsection (g)(5) of this section) of such entities who are deemed to be employees of the Public Health Service under subsection (g)(1) of this section that, during the preceding 5-year period, are filed under this section or, with respect to years occurring before this subsection takes effect, are filed against persons other than the United States,
 
 &emsp;(ii) the amounts paid during that 5-year period on all claims described in clause (i), regardless of when such claims were filed, adjusted to reflect payments which would not be permitted under section 1346 and chapter 171 of title 28, and
 
@@ -146,7 +146,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(B) The risk exposure of such entities.
 
-&emsp;(C) The value of private sector risk-management services, and the value of risk-management services and procedures required as acondition of receiving a grant under section 254b, 254b, or 256a of this title.<sup>4</sup>
+&emsp;(C) The value of private sector risk-management services, and the value of risk-management services and procedures required as a condition of receiving a grant under section 254b, 254b, or 256a of this title.<sup>4</sup>
 
 &emsp;(D) A comparison of the costs and the benefits to taxpayers of maintaining medical malpractice liability coverage for such entities pursuant to this section, taking into account—
 
@@ -196,7 +196,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;(ii) The free clinic may accept voluntary donations for the provision of the service by the health care practitioner to the individual.
 
-&emsp;(E) Before the service is provided, the health care practitioner or the free clinic provides written notice to the individual of the extent to which the legal liability of the health care practitioner is limited pursuant to this subsection (or in the case of an emergency, the written notice is provided to the individual as soon after the emergency as is practicable). If the individual is a minor or is otherwise legally incompetent, the condition under this subparagraph is that the written notice be provided to a legal guardian or other person with legal responsibility for the care of the individual.
+&emsp;(E) Before the service is provided, the health care practitioner or the free clinic provides written notice to the individual of the extent to which the legal liability of the health care practitioner is limited pursuant to this subsection (or in the case of an emergency, the written notice is provided to the individual as soon after the emergency as is practicable). If the individual is a minor or is otherwise legally incompetent, the condition under this subparagraph is that the written notice beprovided to a legal guardian or other person with legal responsibility for the care of the individual.
 
 &emsp;(F) At the time the service is provided, the health care practitioner is licensed or certified in accordance with applicable law regarding the provision of the service.
 
@@ -244,13 +244,13 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(II) reports under paragraph (6)(C) may be submitted to the Congress.
 
-(ii) For the first fiscal year for which an appropriation is made under subparagraph (A) of paragraph (6), if an estimate under subparagraph (C) of such paragraph has not been made for the calendar year beginning in such fiscal year, the transfer under subparagraph (D) of such paragraph shall be made notwithstanding the lack of the estimate, and the transfer shall be made in an amount equal to the amount of such appropriation.
+(ii) For the first fiscal year for which an appropriation is made under subparagraph (A) ofparagraph (6), if an estimate under subparagraph (C) of such paragraph has not been made for the calendar year beginning in such fiscal year, the transfer under subparagraph (D) of such paragraph shall be made notwithstanding the lack of the estimate, and the transfer shall be made in an amount equal to the amount of such appropriation.
 
 #### (p) Administration of smallpox countermeasures by health professionals
 
 #### (1) In general
 
-&emsp;For purposes of this section, and subject to other provisions of this subsection, a coveredperson shall be deemed to be an employee of the Public Health Service with respect to liability arising out of administration of a covered countermeasure against smallpox to an individual during the effective period of a declaration by the Secretary under paragraph (2)(A).
+&emsp;For purposes of this section, and subject to other provisions of this subsection, a covered person shall be deemed to be an employee of the Public Health Service with respect to liability arising out of administration of a covered countermeasure against smallpox to an individual during the effective period of a declaration by the Secretary under paragraph (2)(A).
 
 #### (2) Declaration by Secretary concerning countermeasure against smallpox
 
@@ -328,7 +328,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (ii) Tolling of statute of limitations
 
-&emsp;&emsp;&emsp;The time limit for filing a claim under this subsection, or for filing an actionbased on such claim, shall be tolled during the pendency of a request for benefits or compensation under part C of this subchapter.
+&emsp;&emsp;&emsp;The time limit for filing a claim under this subsection, or for filing an action based on such claim, shall be tolled during the pendency of a request for benefits or compensation under part C of this subchapter.
 
 #### (iii) Construction
 
@@ -390,7 +390,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;&emsp;(i)(I) used to prevent or treat smallpox (including the vaccinia or another vaccine); or
 
-&emsp;&emsp;&emsp;&emsp;(II) used to control or treat the adverse effects of vaccinia inoculation or of administration of another covered countermeasure; and
+&emsp;&emsp;&emsp;(II) used to control or treat the adverse effects of vaccinia inoculation or of administration of another covered countermeasure; and
 
 &emsp;&emsp;&emsp;(ii) specified in a declaration under paragraph (2).
 
@@ -552,7 +552,7 @@ Section 5 of Pub. L. 104–299, as amended by Pub. L. 104–208, div. A, title I
 
 #### Effective Date of 1995 Amendment
 
-Section 5(c) of Pub. L. 104–73 provided that: “If, on the day before the date of the enactment of this Act \[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[subsec. (g) of this section\], the condition under paragraph (1)(D) of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date.”
+Section 5(c) of Pub. L. 104–73 provided that: “If, on the day before the date of the enactment of this Act\[Dec. 26, 1995\], an entity was deemed to be an employee of the Public Health Service for purposes of section 224(g) of the Public Health Service Act \[subsec. (g) of this section\], the condition under paragraph (1)(D) of such section (as added by subsection (a) of this section) that an application be approved with respect to the entity does not apply until the expiration of the 180-day period beginning on such date.”
 
 #### Effective Date of 1992 Amendment
 

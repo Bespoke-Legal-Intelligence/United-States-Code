@@ -22,7 +22,7 @@
 
 &emsp;(D) Programs to develop improved methods of providing emergency medical services for persons with such diseases.
 
-&emsp;(E) Programs of continuing education for health and allied health professionals in the diagnosis, prevention, and treatment of suchdiseases and the maintenance of health to reduce the incidence of such diseases and information programs for the public respecting the prevention and early diagnosis and treatment of such diseases and the maintenance of health.
+&emsp;(E) Programs of continuing education for health and allied health professionals in the diagnosis, prevention, and treatment of such diseases and the maintenance of health to reduce the incidence of such diseases and information programs for the public respecting the prevention and early diagnosis and treatment of such diseases and the maintenance of health.
 
 (3) The research, training, and demonstration activities carried out through any such center may relate to any one or more of the diseases referred to in paragraph (1) of this subsection.
 

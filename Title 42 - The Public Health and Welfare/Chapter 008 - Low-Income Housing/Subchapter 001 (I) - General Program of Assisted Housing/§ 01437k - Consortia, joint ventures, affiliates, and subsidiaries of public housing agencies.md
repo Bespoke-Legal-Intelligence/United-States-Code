@@ -18,7 +18,7 @@
 
 #### (A) Agreement
 
-&emsp;&emsp;Each consortium described in paragraph (1) shall be formed and operated in accordance with a consortium agreement, and shall be subject to the requirements of a joint public housing agency plan, which shall be submitted by the consortium in accordance with section 1437c–1 of this title.
+&emsp;&emsp;Each consortium described in paragraph (1) shall be formed and operated in accordance with a consortium agreement, and shall be subject to the requirements of a jointpublic housing agency plan, which shall be submitted by the consortium in accordance with section 1437c–1 of this title.
 
 #### (B) Minimum requirements
 

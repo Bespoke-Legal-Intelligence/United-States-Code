@@ -160,7 +160,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (2) Application
 
-&emsp;A grant may not be awarded to an agency or organization under paragraph (1) unless theagency or organization has submitted an application to the Commissioner at such time, in such form, in accordance with such procedures, and containing such information as the Commissioner may require, including—
+&emsp;A grant may not be awarded to an agency or organization under paragraph (1) unless the agency or organization has submitted an application to the Commissioner at such time, in such form, in accordance with such procedures, and containing such information as the Commissioner may require, including—
 
 &emsp;&emsp;(A) a description of the manner in which an interpreter training program will be developed and operated during the 5-year period following the date on which a grant is received by the applicant under this subsection;
 
@@ -178,7 +178,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (2) Compensation
 
-&emsp;An expert or consultant appointed or serving under contract pursuant to this section shall be compensated at a rate, subject to approval of the Commissioner, that shall not exceed the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5. Such an expert or consultant may be allowed travel and transportation expenses in accordance with section 5703 of title 5.
+&emsp;An expert or consultant appointed or serving under contract pursuant to this section shall be compensated at a rate, subject to approval of the Commissioner, that shall not exceed the daily equivalent of the rate of pay for level 4of the Senior Executive Service Schedule under section 5382 of title 5. Such an expert or consultant may be allowed travel and transportation expenses in accordance with section 5703 of title 5.
 
 #### (3) In-service training of rehabilitation personnel
 

@@ -1,0 +1,42 @@
+### §17021. Biomass-based diesel and biodiesel labeling
+
+#### (a) In general
+
+Each retail diesel fuel pump shall be labeled in a manner that informs consumers of the percent of biomass-based diesel or biodiesel that is contained in the biomass-based diesel blend or biodiesel blend that is offered for sale, as determined by the Federal Trade Commission.
+
+#### (b) Labeling requirements
+
+Not later than 180 days after December 19, 2007, the Federal Trade Commission shall promulgate biodiesel labeling requirements as follows:
+
+&emsp;(1) Biomass-based diesel blends or biodiesel blends that contain less than or equal to 5 percent biomass-based diesel or biodiesel by volume and that meet ASTM D975 diesel specifications shall not require any additional labels.
+
+&emsp;(2) Biomass-based diesel blends or biodiesel blends that contain more than 5 percent biomass-based diesel or biodiesel by volume but not more than 20 percent by volume shall be labeled “contains biomass-based diesel or biodiesel in quantities between 5 percent and 20 percent”.
+
+&emsp;(3) Biomass-based diesel or biodiesel blends that contain more than 20 percent biomass based or biodiesel by volume shall be labeled “contains more than 20 percent biomass-based diesel or biodiesel”.
+
+#### (c) Definitions
+
+In this section:
+
+#### (1) ASTM
+
+&emsp;The term “ASTM” means the American Society of Testing and Materials.
+
+#### (2) Biomass-based diesel
+
+&emsp;The term “biomass-based diesel” means biodiesel as defined in section 13220(f) of this title.
+
+#### (3) Biodiesel
+
+&emsp;The term “biodiesel” means the monoalkyl esters of long chain fatty acids derived from plant or animal matter that meet—
+
+&emsp;&emsp;(A) the registration requirements for fuels and fuel additives under this section; and
+
+&emsp;&emsp;(B) the requirements of ASTM standard D6751.
+
+#### (4) Biomass-based diesel and biodiesel blends
+
+&emsp;The terms “biomass-based diesel blend” and “biodiesel blend” means a blend of “biomass-based diesel” or “biodiesel” fuel that is blended with petroleum-based diesel fuel.
+
+(Pub. L. 110–140, title II, §205, Dec. 19, 2007, 121 Stat. 1529.)
+

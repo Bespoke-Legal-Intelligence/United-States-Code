@@ -9,9 +9,7 @@ part 3—funding
 
 - [&sect; 01081 - Coverage](%C2%A7%2001081%20-%20Coverage.md)
 - [&sect; 01082 - Minimum funding standards](%C2%A7%2001082%20-%20Minimum%20funding%20standards.md)
-- [&sect; 01083 - Variance from minimum funding standard](%C2%A7%2001083%20-%20Variance%20from%20minimum%20funding%20standard.md)
-- [&sect; 01084 - Extension of amortization periods](%C2%A7%2001084%20-%20Extension%20of%20amortization%20periods.md)
-- [&sect; 01085 - Alternative minimum funding standard](%C2%A7%2001085%20-%20Alternative%20minimum%20funding%20standard.md)
-- [&sect; 01085a - Security for waivers of minimum funding standard and extensions of amortization period](%C2%A7%2001085a%20-%20Security%20for%20waivers%20of%20minimum%20funding%20standard%20and%20extensions%20of%20amortization%20period.md)
-- [&sect; 01085b - Security required upon adoption of plan amendment resulting in significant underfunding](%C2%A7%2001085b%20-%20Security%20required%20upon%20adoption%20of%20plan%20amendment%20resulting%20in%20significant%20underfunding.md)
-- [&sect; 01086 - Effective dates](%C2%A7%2001086%20-%20Effective%20dates.md)
+- [&sect; 01083 - Minimum funding standards for single-employer defined benefit pension plans](%C2%A7%2001083%20-%20Minimum%20funding%20standards%20for%20single-employer%20defined%20benefit%20pension%20plans.md)
+- [&sect; 01084 - Minimum funding standards for multiemployer plans](%C2%A7%2001084%20-%20Minimum%20funding%20standards%20for%20multiemployer%20plans.md)
+- [&sect; 01085 - Additional funding rules for multiemployer plans in endangered status or critical status](%C2%A7%2001085%20-%20Additional%20funding%20rules%20for%20multiemployer%20plans%20in%20endangered%20status%20or%20critical%20status.md)
+- [&sect; 01085a, 1085b, 1086 - Repealed. Pub. L. 109&#8211;280, title I, &sect;101(a), Aug. 17, 2006, 120 Stat. 784](%C2%A7%2001085a%2C%201085b%2C%201086%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93280%2C%20title%20I%2C%20%C2%A7101%28a%29%2C%20Aug.%2017%2C%202006%2C%20120%20Stat.%20784.md)

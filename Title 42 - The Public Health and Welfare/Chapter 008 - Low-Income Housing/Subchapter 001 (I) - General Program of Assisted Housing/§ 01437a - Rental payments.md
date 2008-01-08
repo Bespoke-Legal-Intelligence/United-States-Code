@@ -8,7 +8,7 @@
 
 &emsp;(B) 10 per centum of the family's monthly income; or
 
-&emsp;(C) if the family is receiving payments for welfare assistance from a public agency and apart of such payments, adjusted in accordance with the family's actual housing costs, is specifically designated by such agency to meet the family's housing costs, the portion of such payments which is so designated.
+&emsp;(C) if the family is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the family's actual housing costs, is specifically designated by such agency to meet the family's housing costs, the portion of such payments which is so designated.
 
 (2)
 
@@ -76,7 +76,7 @@ Minimum rental amount.—
 
 &emsp;(A)
 
-Requirement.—Notwithstanding paragraph (1) of this subsection, the method for rent determination elected pursuant to paragraph (2)(A) of this subsection by a family residing in public housing, section 1437f(<i>o</i>)(2) of this title, or section 206(d) of the Housing and Urban-Rural Recovery Act of 1983 (including paragraph (5) of such section), the following entities shall require the following families to pay a minimum monthly rental amount\(which amount shall include any amount allowed for utilities) of not more than $50 per month, as follows:
+Requirement.—Notwithstanding paragraph (1) of this subsection, the method for rent determination elected pursuant to paragraph (2)(A) of this subsection by a family residing in public housing, section 1437f(<i>o</i>)(2) of this title, or section 206(d) of the Housing and Urban-Rural Recovery Act of 1983 (including paragraph (5) of such section), the following entities shall require the following families to pay a minimum monthly rental amount (which amount shall include any amount allowed for utilities) of not more than $50 per month, as follows:
 
 &emsp;&emsp;(i) Each public housing agency shall require the payment of such minimum monthly rental amount, which amount shall be determined by the agency, by—
 
@@ -186,7 +186,7 @@ Displaced person.—The term “displaced person” means a person displaced by 
 
 Near-elderly person.—The term “near-elderly person” means a person who is at least 50 years of age but below the age of 62.
 
-(4) The term “income” means income from all sources of each member of the household, as determined in accordance with criteria prescribed by the Secretary, in consultation with the Secretary of Agriculture, except that any amountsnot actually received by the family and any amounts which would be eligible for exclusion under section 1382b(a)(7) of this title may not be considered as income under this paragraph.
+(4) The term “income” means income from all sources of each member of the household, as determined in accordance with criteria prescribed by the Secretary, in consultation with the Secretary of Agriculture, except that any amounts not actually received by the family and any amounts which would be eligible for exclusion under section 1382b(a)(7) of this title may not be considered as income under this paragraph.
 
 (5)
 
@@ -236,7 +236,7 @@ Earned income of minors.—The amount of any earned income of a member of the fa
 
 &emsp;(B)
 
-Permissive exclusions for public housing.—In determining adjusted income, a public housing agency may, in the discretion of the agency, establish exclusions from the annual income of a family residing in a public housing dwelling unit. Such exclusions may include the following amounts:
+Permissive exclusions for public housing.—In determining adjusted income, a public housing agency may, in the discretion of the agency, establish exclusions from the annualincome of a family residing in a public housing dwelling unit. Such exclusions may include the following amounts:
 
 &emsp;&emsp;(i)
 
@@ -280,7 +280,7 @@ program.—For purposes of the program for tenant-based assistance under section
 
 &emsp;&emsp;&emsp;(I) the Secretary or another public or private nonprofit entity that by contract agrees to receive assistance amounts under section 1437f of this title and enter into housing assistance payments contracts with owners and perform the other functions of public housing agency under section 1437f of this title; or
 
-&emsp;&emsp;&emsp;(II) notwithstanding any provision of State or local law, a public housing agencyfor another area that contracts with the Secretary to administer a program for housing assistance under section 1437f of this title, without regard to any otherwise applicable limitations on its area of operation.
+&emsp;&emsp;&emsp;(II) notwithstanding any provision of State or local law, a public housing agency for another area that contracts with the Secretary to administer a program for housing assistance under section 1437f of this title, without regard to any otherwise applicable limitations on its area of operation.
 
 (7) The term “State” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands.
 
@@ -312,7 +312,7 @@ When used in reference to public housing:
 
 (1) The term “development” means any or all undertakings necessary for planning, land acquisition, demolition, construction, or equipment, in connection with a low-income housing project. The term “development cost” comprises the costs incurred by a public housing agency in such undertakings and their necessary financing (including the payment of carrying charges), and in otherwise carrying out the development of such project, but does not include the costs associated with the demolition of or remediation of environmental hazards associated with public housing units that will not be replaced on the project site, or other extraordinary site costs as determined by the Secretary. Construction activity in connection with a low-income housing project may be confined to the reconstruction, remodeling, or repair of existing buildings.
 
-(2) The term “operation” means any or all undertakings appropriate for management, operation, services, maintenance, security (including the cost of security personnel), or financing in connection with a low-income housing project. The term also means the financing of tenant programs and services for families residing in low-income housing projects, particularly where there is maximum feasible participation of the tenants in the development and operation of such tenant programs and services. As used in this paragraph, the term “tenant programs and services” includes the development and maintenance of tenant organizations which participate in the management of low-income housing projects; the training of tenants to manage and operate such projects and the utilization of their services in project management and operation; counseling on household management, housekeeping, budgeting, money management, child care, and similar matters; advice as to resources for job training and placement, education, welfare, health, and other community services; services which are directly related to meeting tenant needs and providing a wholesome living environment; and referral to appropriate agencies in the community when necessary for the provision of such services. To the maximum extent available and appropriate, existing public and private agencies in the community shall be used for the provision of such services.
+(2) The term “operation” means any or all undertakings appropriate for management, operation, services, maintenance, security (including the cost of security personnel), or financing in connection with a low-income housing project. The term also means the financing of tenant programs and services for families residing in low-income housing projects, particularly where there is maximum feasible participation of the tenants in the development and operation of such tenant programs and services. As used in this paragraph, the term “tenant programs and services” includes the development and maintenance of tenant organizations which participate in the management of low-income housing projects; the training of tenants to manage and operate such projects and the utilization of their services in project management and operation;counseling on household management, housekeeping, budgeting, money management, child care, and similar matters; advice as to resources for job training and placement, education, welfare, health, and other community services; services which are directly related to meeting tenant needs and providing a wholesome living environment; and referral to appropriate agencies in the community when necessary for the provision of such services. To the maximum extent available and appropriate, existing public and private agencies in the community shall be used for the provision of such services.
 
 (3) The term “acquisition cost” means the amount prudently required to be expended by a public housing agency in acquiring property for a low-income housing project.
 
@@ -342,7 +342,7 @@ When used in reference to public housing:
 
 &emsp;&emsp;(B)(i) whose income increases as a result of employment of a member of the family who was previously unemployed for 1 or more years;
 
-&emsp;&emsp;(ii) whose earned income increases during the participation of a family member in anyfamily self-sufficiency or other job training program; or
+&emsp;&emsp;(ii) whose earned income increases during the participation of a family member in any family self-sufficiency or other job training program; or
 
 &emsp;&emsp;(iii) who is or was, within 6 months, assisted under any State program for temporary assistance for needy families funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] and whose earned income increases.
 
@@ -404,7 +404,7 @@ The Immigration and Nationality Act, referred to in subsec. (a)(3)(B)(i)(I), is 
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(3)(B)(i)(I), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
 
-Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec.\(b)(6)(B)(ii), is section 503(a) of Pub. L. 105–276 which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (b)(6)(B)(ii), is section 503(a) of Pub. L. 105–276 which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 The Social Security Act, referred to in subsec. (d)(3)(B)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -442,7 +442,7 @@ Subsec. (b)(3)(A). Pub. L. 105–276, §506(2)(A), struck out at end “In deter
 
 Subsec. (b)(3)(B). Pub. L. 105–276, §506(2)(B), substituted “public housing agency plan” for “regulations of the Secretary” in second sentence.
 
-Subsec. (b)(3)(E). Pub. L. 105–276, §506(3), inserted at end “Notwithstanding any other provision of law, no individual shall be considered a person with disabilities, for purposes of eligibility for low-income housing under this subchapter, solely on the basis of any drug or alcohol dependence. The Secretary shall consult with other appropriate Federal agencies to implement the preceding sentence.”
+Subsec. (b)(3)(E). Pub. L. 105–276, §506(3), inserted at end “Notwithstanding any other provision of law, no individual shall be considered a person with disabilities, for purposes of eligibility for low-income housingunder this subchapter, solely on the basis of any drug or alcohol dependence. The Secretary shall consult with other appropriate Federal agencies to implement the preceding sentence.”
 
 Subsec. (b)(5). Pub. L. 105–276, §508(a), amended par. (5) generally, substituting present provisions for provisions which had defined “adjusted income” as income which remained after excluding $550 for each member of family in household under 18 years of age, disabled, or a student, $400 for any elderly or disabled family, the amount by which medical and related expenses exceeded 3 percent of income, child care expenses, 10 percent of earned income, and any payment made for support and maintenance of nonresident child, spouse, or former spouse.
 
@@ -482,7 +482,7 @@ Subsec. (f). Pub. L. 105–276, §508(d)(1), added subsec. (f).
 
 &emsp;“(B) allow families to pay ceiling rents referred to in subparagraph (A), unless, with respect to any family, the ceiling rent established under this paragraph would exceed the amount payable as rent by that family under paragraph (1).” for
 
-“(2)(A) Any public housing agency may provide that each family residing in a public housing project ownedand operated by such agency (or in low-income housing assisted under section 1437f of this title that contains more than 2,000 dwelling units) shall pay as monthly rent an amount determined by such agency to be appropriate that does not exceed a maximum amount that—
+“(2)(A) Any public housing agency may provide that each family residing in a public housing project owned and operated by such agency (or in low-income housing assisted under section 1437f of this title that contains more than 2,000 dwelling units) shall pay as monthly rent an amount determined by such agency to be appropriate that does not exceed a maximum amount that—
 
 &emsp;“(i) is established by such agency and approved by the Secretary;
 
@@ -556,7 +556,7 @@ Subsec. (b)(3). Pub. L. 101–625, §574, inserted sentence at end relating to e
 
 Pub. L. 101–625, §573(a), substituted “(D) and any other single persons. In no event may any single person under clause (D) be provided a housing unit assisted under this chapter of 2 bedrooms or more.” for “(D) other single persons in circumstances described in regulations of the Secretary.” in first sentence, struck out after first sentence “In no event shall more than 15 per centum of the units under the jurisdiction of any public housing agency be occupied by single persons under clause (D).”, and struck out third from last sentence which was executed (to reflect the probable intent of Congress) by striking out third sentence from end which read as follows: “The Secretary may increase the limitation described in the second sentence of this paragraph to not more than 30 per centum if, following consultation with the public housing agency involved, the Secretary determines that the dwelling units involved are neither being occupied, nor are likely to be occupied within the next 12 months, by families or persons described in clauses (A), (B), and (C), due to the condition or location of such dwelling units, and that such dwelling units may be occupied if made available to single persons described in clause (D).”
 
-Subsec. (b)(4). Pub. L. 101–625, §573(b), inserted before period at end “, except that any amounts not actuallyreceived by the family may not be considered as income under this paragraph”.
+Subsec. (b)(4). Pub. L. 101–625, §573(b), inserted before period at end “, except that any amounts not actually received by the family may not be considered as income under this paragraph”.
 
 Subsec. (b)(5)(A). Pub. L. 101–625, §573(c)(1), substituted “$550” for “$480”.
 
@@ -696,7 +696,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Transitional Ceiling Rents
 
-Pub. L. 105–276, title V, §519(d), Oct. 21, 1998, 112 Stat. 2561, provided that: “Notwithstanding section 3(a)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437a\[(a)\](1)), during the period ending upon the later of the implementation of the formulas established pursuant to subsections (d)(2) and (e)(2) of \[section 9 of\] such Act \[42 U.S.C. 1437g(d)(2), (e)(2)\] (as amended by this section) and October 1, 1999, a public housing agencymay take any of the following actions with respect to public housing:
+Pub. L. 105–276, title V, §519(d), Oct. 21, 1998, 112 Stat. 2561, provided that: “Notwithstanding section 3(a)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437a\[(a)\](1)), during the period ending upon the later of the implementation of the formulas established pursuant to subsections (d)(2) and (e)(2) of \[section 9 of\] such Act \[42 U.S.C. 1437g(d)(2), (e)(2)\] (as amended by this section) and October 1, 1999, a public housing agency may take any of the following actions with respect to public housing:
 
 &emsp;“(1)
 
@@ -746,7 +746,7 @@ Repayment of Additional Rent Paid Under HUD Housing Programs Because of Failure 
 
 &emsp;“(1)
 
-Authority.—To the extent that amounts are provided in appropriation Acts for payments under this subsection, the Secretary of Housing and Urban Development shall make payments to qualified individuals in the amount determined under paragraph (3).
+Authority.—To the extent that amounts are provided in appropriation Acts for payments underthis subsection, the Secretary of Housing and Urban Development shall make payments to qualified individuals in the amount determined under paragraph (3).
 
 &emsp;“(2)
 
@@ -788,7 +788,7 @@ Section 573(e) of Pub. L. 101–625 provided that: “The amendments made by sub
 
 #### Median Area Income
 
-Section 567 of Pub. L. 100–242 provided that: “For purposes of calculating the median income for any area that is not within a metropolitan statistical area (asestablished by the Office of Management and Budget) for programs under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the National Housing Act \[12 U.S.C. 1701 et seq.\], or title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], the Secretary of Housing and Urban Development or the Secretary of Agriculture (as appropriate) shall use whichever of the following is higher:
+Section 567 of Pub. L. 100–242 provided that: “For purposes of calculating the median income for any area that is not within a metropolitan statistical area (as established by the Office of Management and Budget) for programs under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the National Housing Act \[12 U.S.C. 1701 et seq.\], or title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], the Secretary of Housing and Urban Development or the Secretary of Agriculture (as appropriate) shall use whichever of the following is higher:
 
 &emsp;“(1) the median income of the county in which the area is located; or
 

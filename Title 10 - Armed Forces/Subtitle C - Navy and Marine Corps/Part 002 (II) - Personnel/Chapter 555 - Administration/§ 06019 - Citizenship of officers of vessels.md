@@ -18,5 +18,3 @@ Historical and Revision Notes
 
 R.S. 1428.
 
-§6020
-

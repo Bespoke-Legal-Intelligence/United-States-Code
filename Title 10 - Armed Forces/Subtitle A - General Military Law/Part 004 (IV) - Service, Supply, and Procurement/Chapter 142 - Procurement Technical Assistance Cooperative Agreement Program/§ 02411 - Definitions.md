@@ -56,5 +56,5 @@ Par. (2). Pub. L. 100–180, §807(b)(2), substituted “means—” for “mean
 
 #### Effective Date of 1985 Amendment
 
-Section 919(d) of Pub. L. 99–145 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section and sections 2412 to 2415 of this title\] shall take effect on October 1, 1985.”
+Section 919(d) of Pub. L. 99–145 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 2412 to 2415 of this title\] shall take effect on October 1, 1985.”
 

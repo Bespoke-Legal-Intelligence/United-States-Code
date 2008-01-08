@@ -14,7 +14,7 @@ Any individual director, officer, or employee of a firm constructing, or supplyi
 
 &emsp;(3) the capability to prevent or mitigate the consequences of accidents which could result in an unplanned offsite release of quantities of fission products in excess of the limits established by the Commission.
 
-> The provisions of this subsection shall be prominently posted at each site where a utilization facility required to be licensed under section 2133 or 2134(b) of this title is under construction and on the premises of each plant where components for such a facility are fabricated.
+> The provisions of this subsection shall be prominently posted at each site where a utilization facility required to be licensed under section 2133or 2134(b) of this title is under construction and on the premises of each plant where components for such a facility are fabricated.
 
 #### (c) Criminal penalties
 

@@ -38,9 +38,9 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;&emsp;&emsp;(ii) Where only one spouse filed a separate return prior to the making of the joint return, and the other spouse had less than the exemption amount of gross income for such taxable year—on the date of the filing of such separate return (but not earlier than the last date prescribed by law for the filing of such separate return); or
 
-&emsp;&emsp;&emsp;(iii) Where only one spouse filed a separate return prior to the making of thejoint return, and the other spouse had gross income of the exemption amount or more for such taxable year—on the date of the filing of such joint return.
+&emsp;&emsp;&emsp;(iii) Where only one spouse filed a separate return prior to the making of the joint return, and the other spouse had gross income of the exemption amount or more for such taxable year—on the date of the filing of such joint return.
 
-> &emsp;&emsp;For purposes of this subparagraph, the term “exemption amount” has the meaning given to such term by section 151(d). For purposes of clauses (ii) and (iii), if the spouse whose gross income is being compared to the exemption amount is 65 or over, such clauses shall be applied by substituting “the sum of the exemption amount and the additional standard deduction under section 63(c)(2) by reason of section 63(f)(1)(A)” for “the exemption amount”.
+> &emsp;&emsp;For purposes of this subparagraph, the term “exemption amount” has the meaning given to such term by section 151(d). For purposes of clauses (ii) and (iii), if the spouse whose gross income is being compared to the exemption amount is 65 or over, such clauses shall be applied by substituting “the sum of the exemption amount and the additionalstandard deduction under section 63(c)(2) by reason of section 63(f)(1)(A)” for “the exemption amount”.
 
 #### (B) Credit or refund
 
@@ -196,7 +196,7 @@ For purposes of this section and subtitle A—
 
 &emsp;If any election under this subsection applies for any 2 individuals for any taxable year, such 2 individuals shall be ineligible to make an election under this subsection for any subsequent taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975,88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I,§104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
 
 #### Amendments
 
@@ -244,7 +244,7 @@ Subsec. (h)(1). Pub. L. 95–600, §701(u)(15)(C), substituted “chapters 1 and
 
 1976—Subsec. (b)(2)(C). Pub. L. 94–455, §1906(a)(1)(A), struck out “of the United States” after “Tax Court”.
 
-Subsec. (d). Pub. L. 94–455, §1906(a)(1)(B), (C), substituted in heading “Special rules” for “Definitions”,in par. (1)(A) “of such year; or” for “of such year; and”, and in par. (1)(B) “of such death;” for “of such death; and”.
+Subsec. (d). Pub. L. 94–455, §1906(a)(1)(B), (C), substituted in heading “Special rules” for “Definitions”, in par. (1)(A) “of such year; or” for “of such year; and”, and in par. (1)(B) “of such death;” for “of such death; and”.
 
 Subsec. (e)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -332,13 +332,13 @@ Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 102(b)(2) of Pub. L. 95–600 effective with respect to taxable years beginning afterDec. 31, 1978, see section 102(d)(1) of Pub. L. 95–600, set out as a note under section 151 of this title.
+Amendment by section 102(b)(2) of Pub. L. 95–600 effective with respect to taxable years beginning after Dec. 31, 1978, see section 102(d)(1) of Pub. L. 95–600, set out as a note under section 151 of this title.
 
 Section 701(u)(15)(E) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this paragraph \[amending this section and section 6401 of this title\]—
 
 &emsp;“(i) to the extent that they relate to chapter 1 or 5 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, sections 1 et seq. and 1491 et seq. of this title, respectively\], shall apply to taxable years ending on or after December 31, 1975, and
 
-&emsp;“(ii) to the extent that they relate to wage withholding under chapter 24 of such Code \[section 3401 et seq. of this title\], shall apply to remuneration paid on or after the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Nov. 6, 1978\].”
+&emsp;“(ii) to the extent that they relate to wage withholding under chapter 24 of such Code \[section 3401 et seq. of this title\], shall apply to remuneration paid onor after the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
 Section 701(u)(16)(B) of Pub. L. 95–600 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 

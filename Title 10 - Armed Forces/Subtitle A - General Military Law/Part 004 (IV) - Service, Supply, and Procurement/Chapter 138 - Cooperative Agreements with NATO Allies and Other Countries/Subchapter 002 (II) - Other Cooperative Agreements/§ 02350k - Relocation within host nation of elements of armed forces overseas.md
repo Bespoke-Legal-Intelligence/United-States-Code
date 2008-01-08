@@ -8,7 +8,7 @@ Authority To Accept Contributions.—The Secretary of Defense may accept contrib
 
 Use of Contributions.—The Secretary may use a contribution accepted under subsection (a) only for payment of costs incurred in connection with the relocation concerning which the contribution was made. Those costs include the following:
 
-&emsp;(1) Design and construction services, including development and review of statements of work, master plans and designs, acquisition of construction, and supervision and administration of contracts relating thereto.
+&emsp;(1) Design and construction services, including development and review of statements ofwork, master plans and designs, acquisition of construction, and supervision and administration of contracts relating thereto.
 
 &emsp;(2) Transportation and movement services, including packing, unpacking, storage, and transportation.
 

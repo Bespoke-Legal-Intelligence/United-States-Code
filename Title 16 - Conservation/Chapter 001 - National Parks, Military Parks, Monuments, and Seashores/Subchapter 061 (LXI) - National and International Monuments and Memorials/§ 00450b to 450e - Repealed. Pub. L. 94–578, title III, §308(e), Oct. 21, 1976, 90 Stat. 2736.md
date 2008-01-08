@@ -4,7 +4,7 @@ Section 450b, acts June 18, 1930, ch. 520, §1, 46 Stat. 777; Aug. 13, 1935, ch.
 
 Section 450c, acts June 18, 1930, ch. 520, §2, 46 Stat. 777; Aug. 13, 1935, ch. 520, §1, 49 Stat. 613, authorized appropriation of $100,000 for the Appomattox Court House National Historical Park.
 
-Section 450d, acts June 18, 1930, ch. 520, §3, 46 Stat. 777; Aug. 13, 1935, ch. 520, §1, 49 Stat. 613, authorizedSecretary of the Interior to accept donations of land or buildings within boundaries of the park.
+Section 450d, acts June 18, 1930, ch. 520, §3, 46 Stat. 777; Aug. 13, 1935, ch. 520, §1, 49 Stat. 613, authorized Secretary of the Interior to accept donations of land or buildings within boundaries of the park.
 
 Section 450d–1, acts July 17, 1953, ch. 227, 67 Stat. 181; Apr. 15, 1954, ch. 142, 68 Stat. 54, authorized exchange of land in park for adjacent non-Federal land.
 

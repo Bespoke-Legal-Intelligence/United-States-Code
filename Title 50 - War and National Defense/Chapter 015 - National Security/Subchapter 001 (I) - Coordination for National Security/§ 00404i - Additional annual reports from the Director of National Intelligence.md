@@ -24,7 +24,7 @@
 
 &emsp;(A) Of all individuals employed in the element during the fiscal year involved, the aggregate percentage of such individuals who are covered persons.
 
-&emsp;(B) Of all individuals employed in the element during the fiscal year involved at the levels referred to in clauses (i) and (ii), the percentage of covered persons employed at such levels:
+&emsp;(B) Of all individuals employed in the element during the fiscal year involved at thelevels referred to in clauses (i) and (ii), the percentage of covered persons employed at such levels:
 
 &emsp;&emsp;(i) Positions at levels 1 through 15 of the General Schedule.
 
@@ -120,9 +120,13 @@ Pub. L. 107–306, §821(1), redesignated subsec. (d) as (e).
 
 Subsec. (f). Pub. L. 107–306, §822(1), redesignated subsec. (e) as (f).
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 2004 Amendment
 
-For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005,70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

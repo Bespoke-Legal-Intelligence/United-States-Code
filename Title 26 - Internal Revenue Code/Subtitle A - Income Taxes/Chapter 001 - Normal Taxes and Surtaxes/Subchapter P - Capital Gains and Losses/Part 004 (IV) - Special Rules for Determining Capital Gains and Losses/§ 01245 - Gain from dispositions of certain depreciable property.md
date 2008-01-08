@@ -68,7 +68,7 @@
 
 #### (4) Like kind exchanges; involuntary conversions, etc.
 
-&emsp;If property is disposed of and gain (determined without regard to this section) is not recognized in whole or in part under section 1031 or 1033, then the amount of gain taken into account by the transferor under subsection (a)(1) shall not exceed the sum of—
+&emsp;If property is disposed of and gain (determined without regard to this section) is not recognized in whole or in part under section 1031 or 1033, then the amount of gain takeninto account by the transferor under subsection (a)(1) shall not exceed the sum of—
 
 &emsp;&emsp;(A) the amount of gain recognized on such disposition (determined without regard to this section), plus
 
@@ -312,7 +312,7 @@ Amendment by Pub. L. 99–514 not applicable to any property placed in service b
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–121 applicable with respect to property placed in service by the taxpayer after May 8, 1985, with specified exceptions, see section 105(b) of Pub. L. 99–121, set out as a note under section 168 of this title.
+Amendment by Pub. L. 99–121 applicable with respect to property placed in service by the taxpayer after May 8, 1985, with specified exceptions, see section 105(b) ofPub. L. 99–121, set out as a note under section 168 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -320,7 +320,7 @@ Amendment by Pub. L. 98–369 applicable with respect to property placed in serv
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

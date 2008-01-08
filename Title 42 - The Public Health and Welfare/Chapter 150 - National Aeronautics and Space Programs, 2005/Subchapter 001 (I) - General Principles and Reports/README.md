@@ -6,6 +6,8 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 16611 - Responsibilities, policies, and plans](%C2%A7%2016611%20-%20Responsibilities%2C%20policies%2C%20and%20plans.md)
+- [&sect; 16611a - NASA's contribution to innovation](%C2%A7%2016611a%20-%20NASA%27s%20contribution%20to%20innovation.md)
+- [&sect; 16611b - NASA annual budget justification](%C2%A7%2016611b%20-%20NASA%20annual%20budget%20justification.md)
 - [&sect; 16612 - Reports](%C2%A7%2016612%20-%20Reports.md)
 - [&sect; 16613 - Baselines and cost controls](%C2%A7%2016613%20-%20Baselines%20and%20cost%20controls.md)
 - [&sect; 16614 - Foreign launch vehicles](%C2%A7%2016614%20-%20Foreign%20launch%20vehicles.md)

@@ -68,7 +68,7 @@ The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2),
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(2)(A), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
-Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), isclassified generally to this subchapter. Section 258 of the Act is classified to this section.
+Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is classified generally to this subchapter. Section 258 of the Act is classified to this section.
 
 #### Prior Provisions
 

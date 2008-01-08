@@ -58,7 +58,7 @@ Respondent.—In any action under this chapter, only an employer or a potential 
 
 Fees, Court Costs.—(1) No fees or court costs may be charged or taxed against any person claiming rights under this chapter.
 
-(2) In any action or proceeding to enforce a provision of this chapter by a person under subsection (a)(2) who obtained private counsel for such action or proceeding, the court may awardany such person who prevails in such action or proceeding reasonable attorney fees, expert witness fees, and other litigation expenses.
+(2) In any action or proceeding to enforce a provision of this chapter by a person under subsection (a)(2) who obtained private counsel for such action or proceeding, the court may award any such person who prevails in such action or proceeding reasonable attorney fees, expert witness fees, and other litigation expenses.
 
 (i)
 

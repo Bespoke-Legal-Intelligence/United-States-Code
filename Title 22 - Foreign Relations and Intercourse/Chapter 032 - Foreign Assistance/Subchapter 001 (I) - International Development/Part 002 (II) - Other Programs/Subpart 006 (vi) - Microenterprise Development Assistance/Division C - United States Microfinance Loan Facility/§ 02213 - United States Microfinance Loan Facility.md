@@ -84,7 +84,7 @@ Section was formerly classified to section 2152b of this title.
 
 #### Prior Provisions
 
-A prior section 2213, Pub. L. 87–195, pt. I, §253, as added Pub. L. 87–565, pt. I, §106, Aug. 1, 1962, 76 Stat. 258; amended Pub. L. 88–205, pt. I, §106(c), Dec. 16, 1963, 77 Stat. 383, related to availability of receipts from loans for Alliance for Progress, prior to repeal by Pub. L. 95–424, title I, §102(g)(1)(A), title VI, §605, Oct. 6, 1978, 92 Stat. 942, 961, effective Oct. 1, 1978.
+A prior section 2213, Pub. L. 87–195, pt. I, §253, as added Pub. L. 87–565, pt. I, §106, Aug. 1, 1962, 76 Stat.258; amended Pub. L. 88–205, pt. I, §106(c), Dec. 16, 1963, 77 Stat. 383, related to availability of receipts from loans for Alliance for Progress, prior to repeal by Pub. L. 95–424, title I, §102(g)(1)(A), title VI, §605, Oct. 6, 1978, 92 Stat. 942, 961, effective Oct. 1, 1978.
 
 #### Amendments
 

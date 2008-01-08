@@ -60,7 +60,7 @@ References.—Any reference to the Veterans Health Services and Research Adminis
 
 #### Department of Veterans Affairs Act
 
-Pub. L. 100–527, §§1–12, 14, 16, 18, Oct. 25, 1988, 102 Stat. 2635–2642, 2644, 2645, 2648, as amended by Pub. L. 101–94, title IV, §401, Aug. 16, 1989, 103 Stat. 628; Pub. L. 101–576, title II, §205(c)(2), Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–83, §3, Aug. 6, 1991, 105 Stat. 402, provided that:
+Pub. L. 100–527, §§1–12, 14, 16, 18, Oct. 25, 1988, 102 Stat. 2635–2642, 2644, 2645, 2648, as amended by Pub. L. 101–94, title IV, §401, Aug. 16, 1989, 103 Stat. 628; Pub. L. 101–576,title II, §205(c)(2), Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–83, §3, Aug. 6, 1991, 105 Stat. 402, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -68,7 +68,7 @@ Pub. L. 100–527, §§1–12, 14, 16, 18, Oct. 25, 1988, 102 Stat. 2635–2642,
 
 #### “SEC. 2. ESTABLISHMENT OF VETERANS’ ADMINISTRATION AS AN EXECUTIVE DEPARTMENT.
 
-“The Veterans’ Administration is hereby redesignated as the Department of Veterans Affairs and shallbe an executive department in the executive branch of the Government.
+“The Veterans’ Administration is hereby redesignated as the Department of Veterans Affairs and shall be an executive department in the executive branch of the Government.
 
 #### “\[SECS. 3 to 5. Repealed. Pub. L. 102–83, §3(3), Aug. 6, 1991, 105 Stat. 402.\]
 
@@ -164,7 +164,7 @@ Compensation for Continued Service.—Any person—
 
 #### “SEC. 14. ADDITIONAL CONFORMING AMENDMENTS.
 
-“After consultation with the appropriate committees of the Congress, the Secretary of Veterans Affairs shallprepare and submit to the Congress proposed legislation containing technical and conforming amendments to title 38, United States Code, and to other provisions of law, which reflect the changes made by this Act. Such legislation shall be submitted not later than 6 months after the date of enactment of this Act \[Oct. 25, 1988\].
+“After consultation with the appropriate committees of the Congress, the Secretary of Veterans Affairs shall prepare and submit to the Congress proposed legislation containing technical and conforming amendments to title 38, United States Code, and to other provisions of law, which reflect the changes made by this Act. Such legislation shall be submitted not later than 6 months after the date of enactment of this Act \[Oct. 25, 1988\].
 
 #### “\[SEC. 16. Repealed. Pub. L. 102–83, §3(3), Aug. 6, 1991, 105 Stat. 402.\]
 

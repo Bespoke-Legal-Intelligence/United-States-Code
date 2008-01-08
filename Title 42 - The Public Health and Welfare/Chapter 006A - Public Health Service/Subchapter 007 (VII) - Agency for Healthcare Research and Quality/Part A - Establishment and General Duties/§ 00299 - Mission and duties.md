@@ -160,7 +160,7 @@ Findings.—Congress finds the following:
 
 Purposes.—The purposes of this section are—
 
-&emsp;“(1) to provide for a nationwide public debate about improving the health care system to provide every American with the ability to obtain quality, affordable health care coverage; and
+&emsp;“(1) to provide for a nationwide public debate about improving the health care system to provide everyAmerican with the ability to obtain quality, affordable health care coverage; and
 
 &emsp;“(2) to provide for a vote by Congress on the recommendations that result from the debate.
 
@@ -244,7 +244,7 @@ The health report to the american people.—Not later than 90 days after the hea
 
 &emsp;&emsp;&emsp;“(iii) the source of coverage and payment, including reimbursement, for health care services;
 
-&emsp;&emsp;&emsp;“(iv) the reasons people are uninsured or underinsured and the cost to taxpayers, purchasers ofhealth services, and communities when Americans are uninsured or underinsured;
+&emsp;&emsp;&emsp;“(iv) the reasons people are uninsured or underinsured and the cost to taxpayers, purchasers of health services, and communities when Americans are uninsured or underinsured;
 
 &emsp;&emsp;&emsp;“(v) the impact on health care outcomes and costs when individuals are treated in all stages of disease;
 
@@ -302,7 +302,7 @@ Topics.—The community meetings shall, at a minimum, address the following ques
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) How should health care coverage be financed?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) What trade-offs are the American public willing to make in either benefits or financing to ensure access to affordable, high quality health care coverage and services?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) What trade-offs are the American public willing to make in either benefits or financingto ensure access to affordable, high quality health care coverage and services?
 
 &emsp;&emsp;&emsp;“(iv)
 
@@ -362,7 +362,7 @@ Administration Review and Comments.—Not later than 45 days after receiving the
 
 “(p)
 
-Required Congressional Action.—Not later than 45 days after receiving the report submitted by the President under subsection (<i>o</i>), each committee of jurisdiction of Congress, the Committee on Finance of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Ways and Means of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, \[and the\] Committee on Education and the Workforce of the House of Representatives, shall hold at least 1 hearing on such report and on the final recommendations of the Working Group submitted under subsection (i).
+Required Congressional Action.—Not later than 45 days after receiving the report submitted by the President under subsection (<i>o</i>), each committee of jurisdiction of Congress, the Committee on Finance of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Ways and Means of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, \[and the\] Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives, shall hold at least 1 hearing on such report and on the final recommendations of the Working Group submitted under subsection (i).
 
 “(q)
 
@@ -375,6 +375,8 @@ In general.—There are authorized to be appropriated to carry out this section,
 &emsp;“(2)
 
 Health report to the american people.—There are authorized to be appropriated for the preparation and dissemination of the Health Report to the American People described in subsection (h)(3), such sums as may be necessary for the fiscal year in which the report is required to be submitted.”
+
+\[Functions of President under section 1014(<i>o</i>)(1) of Pub. L. 108–173, set out above, delegated to Secretary of Health and Human Services by Memorandum of President of the United States, Jan. 5, 2007, 72 F.R. 1133.\]
 
 #### Executive Order No. 13017
 

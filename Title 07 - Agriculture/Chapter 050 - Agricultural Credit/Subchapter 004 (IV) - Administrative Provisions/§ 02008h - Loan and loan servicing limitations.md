@@ -28,7 +28,7 @@ The Secretary may not make a direct operating loan under subchapter II of this c
 
 &emsp;&emsp;&emsp;(ii) is current on payments under a confirmed reorganization plan under chapters <sup>1</sup> 11, 12, or 13 of title 11; or
 
-&emsp;&emsp;&emsp;(iii) received debt forgiveness on not more than 1 occasion resulting directly and primarily from a major disaster or emergency designated by the President on or after April 4, 1996, under the Robert T.Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+&emsp;&emsp;&emsp;(iii) received debt forgiveness on not more than 1 occasion resulting directly and primarily from a major disaster or emergency designated by the President on or after April 4, 1996, under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
 #### (B) Emergency loans
 
@@ -62,7 +62,7 @@ In general.—Except as provided in paragraph (2), the Secretary may not make or
 
 “(2)
 
-Exception.—The Secretary may make a direct or guaranteed farm operating loan for paying annual farm or ranch operating expenses of a borrower who was restructured with a write-down under section 2001 of this title.”
+Exception.—The Secretary may make a direct or guaranteed farm operating loan for paying annual farmor ranch operating expenses of a borrower who was restructured with a write-down under section 2001 of this title.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “chapter”.</i>
 

@@ -6,7 +6,7 @@
 
 &emsp;The Secretary, acting through the Centers for Disease Control and Prevention, shall—
 
-&emsp;&emsp;(A) enter into cooperative agreements with States and other entities to conduct sentinel surveillance or other special studiesthat would determine the prevalence in various age groups and populations of specific types of human papillomavirus (referred to in this section as “HPV”) in different sites in various regions of the United States, through collection of special specimens for HPV using a variety of laboratory-based testing and diagnostic tools; and
+&emsp;&emsp;(A) enter into cooperative agreements with States and other entities to conduct sentinel surveillance or other special studies that would determine the prevalence in various age groups and populations of specific types of human papillomavirus (referred to in this section as “HPV”) in different sites in various regions of the United States, through collection of special specimens for HPV using a variety of laboratory-based testing and diagnostic tools; and
 
 &emsp;&emsp;(B) develop and analyze data from the HPV sentinel surveillance system described in subparagraph (A).
 

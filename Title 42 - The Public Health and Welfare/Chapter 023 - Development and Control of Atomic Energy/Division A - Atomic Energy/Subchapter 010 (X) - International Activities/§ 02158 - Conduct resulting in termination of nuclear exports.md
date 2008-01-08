@@ -44,10 +44,6 @@
 
 1994—Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in closing provisions.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–58, title VI, §632(b), Aug. 8, 2005, 119 Stat. 789, provided that: “Subsection b. of section 129 of Atomic Energy Act of 1954 \[42 U.S.C. 2158(b)\], as added by subsection (a) of this section, shall apply with respect to exports that have been approved for transfer as of the date of the enactment of this Act \[Aug. 8, 2005\] but have not yet been transferred as of that date.”

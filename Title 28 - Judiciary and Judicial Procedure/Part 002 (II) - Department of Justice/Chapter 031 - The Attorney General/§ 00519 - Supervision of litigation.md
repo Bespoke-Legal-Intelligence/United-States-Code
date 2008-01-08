@@ -82,7 +82,7 @@ Section 1. <i>Guidelines to Promote Just and Efficient Government Civil Litigati
 
 (1) <i>Review of Proposed Document Requests</i>. Each agency within the executive branch shall establish a coordinated procedure for the conduct and review of document discovery undertaken in litigation directly by that agency when that agency is litigation counsel. The procedure shall include, but is not necessarily limited to, review by a senior lawyer prior to service or filing of the request in litigation to determine that the request is not cumulative or duplicative, unreasonable, oppressive, unduly burdensome or expensive, taking into account the requirements of the litigation, the amount in controversy, the importance of the issues at stake in the litigation, and whether the documents can be obtained from some other source that is more convenient, less burdensome, or less expensive.
 
-(2) <i>Discovery Motions</i>. Before petitioning a court to resolve a discovery motion or petitioning a court to impose sanctions for discovery abuses, litigation counsel shall attempt to resolve the dispute with opposing counsel. If litigation counsel makes a discovery motionconcerning the dispute, he or she shall represent in that motion that any attempt at resolution was unsuccessful or impracticable under the circumstances.
+(2) <i>Discovery Motions</i>. Before petitioning a court to resolve a discovery motion or petitioning a court to impose sanctions for discovery abuses, litigation counsel shall attempt to resolve the dispute with opposing counsel. If litigation counsel makes a discovery motion concerning the dispute, he or she shall represent in that motion that any attempt at resolution was unsuccessful or impracticable under the circumstances.
 
 (e) <i>Sanctions</i>. Litigation counsel shall take steps to seek sanctions against opposing counsel and opposing parties where appropriate.
 
@@ -184,7 +184,7 @@ Sec. 5. <i>Coordination by the Department of Justice.</i>
 
 (a) The Attorney General shall coordinate efforts by Federal agencies to implement sections 1, 2 and 4 of this order.
 
-(b) To implement the principles and purposes announced by this order, the Attorney General is authorized to issue guidelines implementing sections 1 and 4 of this order for the Department of Justice. Such guidelines shall serve as models for internal guidelines that may be issued by other agencies pursuant to this order.
+(b) To implement the principles and purposes announced by this order, the Attorney General is authorized to issue guidelines implementing sections 1 and 4of this order for the Department of Justice. Such guidelines shall serve as models for internal guidelines that may be issued by other agencies pursuant to this order.
 
 Sec. 6. <i>Definitions</i>. For purposes of this order:
 

@@ -16,7 +16,7 @@ If a grievance is not resolved under Department procedures (which have been nego
 
 &emsp;(A) the date as of which the grievant is no longer assigned to such post; or
 
-&emsp;(B) the expiration of the 18-month period beginning on the date of the occurrence giving rise to the grievance or the last such occurrence, as the case may be.
+&emsp;(B) the expiration of the 18-month period beginning on the date of the occurrence givingrise to the grievance or the last such occurrence, as the case may be.
 
 (Pub. L. 96–465, title I, §1104, Oct. 17, 1980, 94 Stat. 2144; Pub. L. 102–138, title I, §153(b), Oct. 28, 1991, 105 Stat. 673; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §330(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, §317, Sept. 30, 2002, 116 Stat. 1379.)
 

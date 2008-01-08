@@ -22,5 +22,5 @@ Section 1 of Pub. L. 93–454 provided that: “This Act \[enacting this chapter
 
 “Secretary of Energy” substituted in text for “Secretary of the Interior” pursuant to Pub. L. 95–91, §302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
 
-Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
+Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42,with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 

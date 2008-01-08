@@ -176,7 +176,7 @@
 
 &emsp;&emsp;(A) the spouse's expenses for rent or mortgage payment (including principal and interest), taxes and insurance and, in the case of a condominium or cooperative, required maintenance charge, for the community spouse's principal residence, and
 
-&emsp;&emsp;(B) the standard utility allowance (used by the State under section 2014(e) of title 7) or,if the State does not use such an allowance, the spouse's actual utility expenses,
+&emsp;&emsp;(B) the standard utility allowance (used by the State under section 2014(e) of title 7) or, if the State does not use such an allowance, the spouse's actual utility expenses,
 
 > &emsp;exceeds 30 percent of the amount described in paragraph (3)(A)(i), except that, in the case of a condominium or cooperative, for which a maintenance charge is included under subparagraph (A), any allowance under subparagraph (B) shall be reduced to the extent the maintenance charge includes utility expenses.
 
@@ -272,7 +272,7 @@ In this section:
 
 &emsp;(2) The term “community spouse” means the spouse of an institutionalized spouse.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1924, as added Pub. L. 100–360, title III, §303(a)(1)(B), July 1, 1988, 102 Stat. 754; amended Pub. L. 100–485, title VI, §608(d)(16)(A), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(3), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), Nov. 5, 1990, 104 Stat. 1388–192, 1388–198; Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), Aug. 10, 1993, 107 Stat. 627, 647; Pub. L. 103–252, title I, §125(b), May 18, 1994, 108 Stat. 650; Pub. L. 105–33, title IV, §4802(b)(1), Aug. 5, 1997, 111 Stat. 548; Pub. L. 109–171, title VI, §6013(a), Feb. 8, 2006, 120 Stat. 64.)
+(Aug. 14, 1935, ch. 531, title XIX, §1924, as added Pub. L. 100–360, title III, §303(a)(1)(B), July 1, 1988, 102 Stat. 754; amended Pub. L. 100–485, title VI, §608(d)(16)(A), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(3), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), Nov. 5, 1990, 104 Stat. 1388–192, 1388–198; Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), Aug. 10, 1993, 107 Stat.627, 647; Pub. L. 103–252, title I, §125(b), May 18, 1994, 108 Stat. 650; Pub. L. 105–33, title IV, §4802(b)(1), Aug. 5, 1997, 111 Stat. 548; Pub. L. 109–171, title VI, §6013(a), Feb. 8, 2006, 120 Stat. 64.)
 
 #### Prior Provisions
 
@@ -346,7 +346,7 @@ Section 303(g) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 
 “(B) Section 1924 of the Social Security Act \[this section\] (as inserted by subsection (a)) shall only apply to institutionalized individuals who begin continuous periods of institutionalization on or after September 30, 1989, except that subsections (b) and (d) of such section (and so much of subsection (e) of such section as relates to such other subsections) shall apply as of such date to individuals institutionalized on or after such date.
 
-“(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section 1902(a)(51)(B) of the Social Security Act \[section 1396a(a)(51)(B) of this title\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+“(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section 1902(a)(51)(B) of the Social Security Act \[section 1396a(a)(51)(B) of this title\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment ofthis Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 “(B) Section 1917(c) of the Social Security Act \[section 1396p(c) of this title\], as amended by subsection (b) of this section, shall apply to resources disposed of on or after July 1, 1988, except that such section shall not apply with respect to inter-spousal transfers occurring before October 1, 1989.
 

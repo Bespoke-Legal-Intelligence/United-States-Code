@@ -6,7 +6,7 @@
 
 (c)(1) The procedures prescribed under subsection (a) shall designate an official at the agency who shall determine whether or not the reemployment of a person referred to in subsection (b) by the agency is impossible or unreasonable.
 
-(2) Upon making a determination that the reemployment by the agency of a person referred to in subsection (b) is impossible or unreasonable, the official referred to in paragraph (1) shall notify the person and the Director of the Office of Personnel Management of such determination.
+(2) Upon making a determination that the reemployment by the agency of a person referredto in subsection (b) is impossible or unreasonable, the official referred to in paragraph (1) shall notify the person and the Director of the Office of Personnel Management of such determination.
 
 (3) A determination pursuant to this subsection shall not be subject to judicial review.
 

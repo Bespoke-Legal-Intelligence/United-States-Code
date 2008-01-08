@@ -48,7 +48,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(C) waste gases from industrial operations.
 
-&emsp;(7)(A) The terms “electric powerplant” and “powerplant” mean any stationary electric generating unit, consisting of a boiler, a gasturbine, or a combined cycle unit, which produces electric power for purposes of sale or exchange and—
+&emsp;(7)(A) The terms “electric powerplant” and “powerplant” mean any stationary electric generating unit, consisting of a boiler, a gas turbine, or a combined cycle unit, which produces electric power for purposes of sale or exchange and—
 
 &emsp;&emsp;(i) has the design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 100 million Btu's per hour or greater; or
 
@@ -116,7 +116,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(A) construction in accordance with final drawings or equivalent design documents (as defined by the Secretary, by rule) began on or after that date; or
 
-&emsp;&emsp;(B)(i) construction or acquisition had been contracted for on or after that date, or (ii) ifthe construction or acquisition had been contracted for before such date, such construction or acquisition could be canceled, rescheduled, or modified to comply with the applicable requirements of this chapter—
+&emsp;&emsp;(B)(i) construction or acquisition had been contracted for on or after that date, or (ii) if the construction or acquisition had been contracted for before such date, such construction or acquisition could be canceled, rescheduled, or modified to comply with the applicable requirements of this chapter—
 
 &emsp;&emsp;&emsp;(I) without imposing substantial financial penalty, as determined under rules prescribed by the Secretary; and
 
@@ -162,7 +162,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(B) any other form of useful energy (such as steam, gas, or heat) which is, or will be, used for industrial, commercial, or space heating purposes.
 
-&emsp;(20) The term “cost”, unless the context indicates otherwise, means total costs (both operating and capital) incurred over the estimated remaining useful life of an electric powerplant, discounted to present value, as determined by the Secretary (in the case of powerplants, in consultation with the State regulatory authorities). In the case of an electric powerplant, such costs shall take into account any change required in the use of existing electric powerplants in the relevant dispatching system and other economic factors which are included in planning for the production, transmission, and distribution of electric power within such system.
+&emsp;(20) The term “cost”, unless the context indicates otherwise, means total costs (both operating and capital) incurred over the estimated remaining useful life of an electric powerplant, discounted to present value, as determined by the Secretary (in the case of powerplants, in consultation with the State regulatory authorities). In the case of an electric powerplant, such costs shall take into account any change required in the use of existing electric powerplants in the relevant dispatching system and other economic factors whichare included in planning for the production, transmission, and distribution of electric power within such system.
 
 &emsp;(21) The term “State regulatory authority” means any State agency which has ratemaking authority with respect to the sale of electricity by any State regulated electric utility.
 
@@ -170,7 +170,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(23) The term “electric utility” means any person, including any affiliate, or Federal agency which sells electric power.
 
-&emsp;(24) The term “affiliate”, when used in relation to a person, means another person whichcontrols, is controlled by, or is under common control with, such person.
+&emsp;(24) The term “affiliate”, when used in relation to a person, means another person which controls, is controlled by, or is under common control with, such person.
 
 &emsp;(25) The term “Federal agency” means each authority of the Government of the United States, whether or not it is within or subject to review by another agency, but does not include—
 
@@ -238,7 +238,7 @@ Subsec. (a)(20). Pub. L. 100–42, §1(c)(2)(E), struck out “or major fuel-bur
 
 Subsec. (b)(1). Pub. L. 100–42, §1(c)(2)(F), struck out “or major fuel-burning installation” after “used by a powerplant” in introductory provisions.
 
-Subsec. (b)(1)(D). Pub. L. 100–42, §1(c)(2)(G), substituted a period for “, except that for purposes of the prohibition under section 8311(2) of this title against powerplants being constructed without the capabilityof using coal or another alternate fuel, only permits, licenses, and approvals for the construction of such synthetic gas facilities shall be required under this subparagraph to be certified and documented.”
+Subsec. (b)(1)(D). Pub. L. 100–42, §1(c)(2)(G), substituted a period for “, except that for purposes of the prohibition under section 8311(2) of this title against powerplants being constructed without the capability of using coal or another alternate fuel, only permits, licenses, and approvals for the construction of such synthetic gas facilities shall be required under this subparagraph to be certified and documented.”
 
 Subsec. (b)(2). Pub. L. 100–42, §1(c)(2)(F), struck out “or major fuel-burning installation” after “by any powerplant” in introductory provisions.
 

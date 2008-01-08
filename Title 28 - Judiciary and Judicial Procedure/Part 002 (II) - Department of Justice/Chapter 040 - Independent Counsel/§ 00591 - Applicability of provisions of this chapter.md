@@ -34,7 +34,7 @@ In general.—When the Attorney General determines that an investigation or pros
 
 &emsp;(2)
 
-Members of congress.—When the Attorney General determines that it would be in the public interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
+Members of congress.—When the Attorney General determines that it would be in thepublic interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
 (d)
 
@@ -60,7 +60,7 @@ Recusal of Attorney General.—
 
 When recusal is required.—(A) If information received under this chapter involves the Attorney General, the next most senior official in the Department of Justice who is not also recused shall perform the duties assigned under this chapter to the Attorney General.
 
-&emsp;(B) If information received under this chapter involves a person with whom the AttorneyGeneral has a personal or financial relationship, the Attorney General shall recuse himself or herself by designating the next most senior official in the Department of Justice who is not also recused to perform the duties assigned under this chapter to the Attorney General.
+&emsp;(B) If information received under this chapter involves a person with whom the Attorney General has a personal or financial relationship, the Attorney General shall recuse himself or herself by designating the next most senior official in the Department of Justice who is not also recused to perform the duties assigned under this chapter to the Attorney General.
 
 &emsp;(2)
 

@@ -26,7 +26,7 @@ The Secretary of State shall designate one of the Assistant Secretaries of State
 
 #### (1) In general
 
-&emsp;The Assistant Secretary shall have as his principal responsibility the overall supervision (including oversight of policy and resources) within the Department of State of all mattersrelating to verification and compliance with international arms control, nonproliferation, and disarmament agreements or commitments.
+&emsp;The Assistant Secretary shall have as his principal responsibility the overall supervision (including oversight of policy and resources) within the Department of State of all matters relating to verification and compliance with international arms control, nonproliferation, and disarmament agreements or commitments.
 
 #### (2) Participation of the Assistant Secretary
 
@@ -84,7 +84,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1102\], Nov. 29, 1
 
 &emsp;“(1)
 
-Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means the Committee on International Relations and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.
+Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means the Committee on International Relations \[now Committee on Foreign Affairs\] and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.
 
 &emsp;“(2)
 

@@ -54,7 +54,7 @@ If the MOX production objective is not achieved as of January 1, 2012, the Secre
 
 &emsp;(1) not later than January 1, 2014, not less than 1 metric ton of defense plutonium or defense plutonium materials; and
 
-&emsp;(2) not later than January 1, 2020, an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site betweenApril 15, 2002 and January 1, 2020, but not processed by the MOX facility.
+&emsp;(2) not later than January 1, 2020, an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the Savannah River Site between April 15, 2002 and January 1, 2020, but not processed by the MOX facility.
 
 #### (d) Economic and impact assistance
 

@@ -6,7 +6,7 @@ This part shall apply to any employee benefit plan described in section 1003(a) 
 
 &emsp;(1) a plan which is unfunded and is maintained by an employer primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees; or
 
-&emsp;(2) any agreement described in section 736 of title 26, which provides payments to a retiredpartner or deceased partner or a deceased partner's successor in interest.
+&emsp;(2) any agreement described in section 736 of title 26, which provides payments to a retired partner or deceased partner or a deceased partner's successor in interest.
 
 #### (b) Securities or policies deemed to be included in plan assets
 

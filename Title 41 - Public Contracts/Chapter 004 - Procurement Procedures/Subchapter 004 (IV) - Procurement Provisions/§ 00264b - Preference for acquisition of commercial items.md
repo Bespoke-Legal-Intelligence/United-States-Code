@@ -22,7 +22,7 @@ The head of each executive agency shall ensure that procurement officials in tha
 
 &emsp;(1) acquire commercial items or nondevelopmental items other than commercial items to meet the needs of the executive agency;
 
-&emsp;(2) require prime contractors and subcontractors at all levels under the executive agency contracts to incorporate commercial items or nondevelopmental items other than commercial items as components of items supplied to the executive agency;
+&emsp;(2) require prime contractors and subcontractors at all levels under the executiveagency contracts to incorporate commercial items or nondevelopmental items other than commercial items as components of items supplied to the executive agency;
 
 &emsp;(3) modify requirements in appropriate cases to ensure that the requirements can be met by commercial items or, to the extent that commercial items suitable to meet the executive agency's needs are not available, nondevelopmental items other than commercial items;
 

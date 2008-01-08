@@ -6,6 +6,10 @@ In unusual and exigent circumstances, the Board of Governors of the Federal Rese
 
 (Dec. 23, 1913, ch. 6, §13 (pars.), 38 Stat. 263; Sept. 7, 1916, ch. 461, 39 Stat. 752; Mar. 4, 1923, ch. 252, title IV, §402, 42 Stat. 1478; July 21, 1932, ch. 520, §210, 47 Stat. 715; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §322, 49 Stat. 704, 714; Pub. L. 102–242, title IV, §473, Dec. 19, 1991, 105 Stat. 2386.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+
 #### Codification
 
 Section is comprised of the second and third pars. of section 13 of act Dec. 23, 1913, as amended. The act of Mar 4, 1923, split the second par. of section 13, as amended in 1916 (39 Stat. 752), into two pars., the first of which constitutes the first par. of this section and the second as section 344 of this title. The act of July 21, 1932, added the second par. of this section which was designated to follow the second par. of section 13. For classification to this title of other pars. of section 13, see Codification note set out under section 342 of this title.

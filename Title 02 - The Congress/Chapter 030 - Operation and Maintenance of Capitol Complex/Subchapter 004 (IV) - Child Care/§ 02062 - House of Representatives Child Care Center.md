@@ -54,7 +54,7 @@ In carrying out subsection (a) of this section, the Chief Administrative Officer
 
 As used in this section—
 
-&emsp;(1) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
+&emsp;(1) the term “Member of the House of Representatives” means a Representative in, or aDelegate or Resident Commissioner to, the Congress;
 
 &emsp;(2) the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
 
@@ -140,7 +140,7 @@ Definitions.—For the purpose of this section—
 
 &emsp;“(B) the employee is subject to chapter 84 of such title as of the date of enactment of this Act.
 
-“(2) Credit for service described in paragraph (1)(A) shall not be allowed under this section unless there is paid into the Civil Service Retirement and Disability Fund, by or on behalf of the employee involved, an amount equal to the deductions from pay which would have been payable under applicable provisions of law, for the period of service involved, if such employee were then a Congressional employee, including interest (computed in the same way as interest under subsection (b)(2)). Retirement credit may not be allowed under this section for any such service unless the full amount of the deposit required under the preceding sentence has been paid.
+“(2) Credit for service described in paragraph (1)(A) shall not be allowed under this section unless there is paid into the Civil Service Retirement and Disability Fund, by or on behalf of the employee involved, an amount equal to the deductions from pay which would have been payable under applicable provisions of law, for the period of service involved, if such employee were then a Congressional employee, including interest\(computed in the same way as interest under subsection (b)(2)). Retirement credit may not be allowed under this section for any such service unless the full amount of the deposit required under the preceding sentence has been paid.
 
 “(d)
 

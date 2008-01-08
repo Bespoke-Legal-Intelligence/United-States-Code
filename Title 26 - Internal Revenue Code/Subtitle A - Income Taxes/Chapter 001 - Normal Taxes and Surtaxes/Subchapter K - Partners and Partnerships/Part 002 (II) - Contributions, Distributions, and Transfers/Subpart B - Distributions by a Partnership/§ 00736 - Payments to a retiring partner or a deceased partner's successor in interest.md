@@ -12,7 +12,7 @@ Payments made in liquidation of the interest of a retiring partner or a deceased
 
 #### (1) General rule
 
-&emsp;Payments made in liquidation of the interest of a retiring partner or a deceased partnershall, to the extent such payments (other than payments described in paragraph (2)) are determined, under regulations prescribed by the Secretary, to be made in exchange for the interest of such partner in partnership property, be considered as a distribution by the partnership and not as a distributive share or guaranteed payment under subsection (a).
+&emsp;Payments made in liquidation of the interest of a retiring partner or a deceased partner shall, to the extent such payments (other than payments described in paragraph (2)) are determined, under regulations prescribed by the Secretary, to be made in exchange for the interest of such partner in partnership property, be considered as a distribution by the partnership and not as a distributive share or guaranteed payment under subsection (a).
 
 #### (2) Special rules
 

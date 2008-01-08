@@ -12,7 +12,7 @@ Projects supported under section 13572(a)(1) of this title may include—
 
 #### (b) Criteria
 
-The Secretary shall establish criteria for the selection of generation projects under section 13572(a)(1) of this title. The Secretary may modify the criteria as appropriate to reflect improvements in equipment, except that the criteria shall not be modified to be less stringent. The selection criteria shall include—
+The Secretary shall establish criteria for the selection of generation projects under section13572(a)(1) of this title. The Secretary may modify the criteria as appropriate to reflect improvements in equipment, except that the criteria shall not be modified to be less stringent. The selection criteria shall include—
 
 &emsp;(1) prioritization of projects whose installation is likely to result in significant air quality improvements in nonattainment air quality areas;
 
@@ -64,7 +64,7 @@ There are authorized to be appropriated to the Secretary to carry out section 13
 
 #### (e) Applicability
 
-No technology, or level of emission reduction, shall be treated as adequately demonstrated for purpose <sup>1</sup> of section 7411 of this title, achievablefor purposes of section 7479 of this title, or achievable in practice for purposes of section 7501 of this title solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under section 13572(a)(1) of this title.
+No technology, or level of emission reduction, shall be treated as adequately demonstrated for purpose <sup>1</sup> of section 7411 of this title, achievable for purposes of section 7479 of this title, or achievable in practice for purposes of section 7501 of this title solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under section 13572(a)(1) of this title.
 
 (Pub. L. 102–486, title XXXI, §3103, as added Pub. L. 109–58, title IV, §421(a), Aug. 8, 2005, 119 Stat. 758.)
 

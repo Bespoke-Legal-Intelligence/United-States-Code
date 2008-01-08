@@ -64,3 +64,7 @@ The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b), (c)
 
 Section was enacted as part of the Fish and Wildlife Programs Improvement and National Wildlife Refuge System Centennial Act of 2000, and not as part of the Pittman-Robertson Wildlife Restoration Act which comprises this chapter.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

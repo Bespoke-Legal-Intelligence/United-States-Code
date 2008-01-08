@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, student financial assistance receive
 
 #### Prior Provisions
 
-A prior section 1087uu, Pub. L. 89–329, title IV, §479B, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472, related to exclusion of student financial assistance for attendance costs in determining student eligibility for assistance under any other program funded in whole or part with Federal funds, prior to repeal by section 14(27) of Pub. L. 100–50.
+A prior section 1087uu, Pub. L. 89–329, title IV, §479B, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986,100 Stat. 1472, related to exclusion of student financial assistance for attendance costs in determining student eligibility for assistance under any other program funded in whole or part with Federal funds, prior to repeal by section 14(27) of Pub. L. 100–50.
 
 #### Amendments
 

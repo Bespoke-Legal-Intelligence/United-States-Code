@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) all employees of the members of an affiliated service group (as defined in section 414(m)) shall be treated as employed by a single employer, and
 
-&emsp;&emsp;(C) leased employees (as defined in section 414(n)(2)) shall be treated as employees ofthe person for whom they perform services to the extent they are so treated under section 414(n).
+&emsp;&emsp;(C) leased employees (as defined in section 414(n)(2)) shall be treated as employees of the person for whom they perform services to the extent they are so treated under section 414(n).
 
 #### (c) Nonconforming group health plan
 

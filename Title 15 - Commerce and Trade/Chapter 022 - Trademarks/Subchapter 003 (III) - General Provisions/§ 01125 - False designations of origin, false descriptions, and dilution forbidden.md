@@ -2,9 +2,9 @@
 
 #### (a) Civil action
 
-(1) Any person who, on or in connection with any goods or services, or any container for goods, uses in commerce any word, term, name, symbol, or device, or any combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which—
+(1) Any person who, on or in connection with any goods or services, or any container forgoods, uses in commerce any word, term, name, symbol, or device, or any combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which—
 
-&emsp;(A) is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation,connection, or association of such person with another person, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another person, or
+&emsp;(A) is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation, connection, or association of such person with another person, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another person, or
 
 &emsp;(B) in commercial advertising or promotion, misrepresents the nature, characteristics, qualities, or geographic origin of his or her or another person's goods, services, or commercial activities,
 
@@ -72,7 +72,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;&emsp;(A) the claimed trade dress, taken as a whole, is not functional and is famous; and
 
-&emsp;&emsp;(B) if the claimed trade dress includes any mark or marks registered on the principal register, the unregistered matter, taken as a whole, is famous separate and apart from any fame of such registered marks.
+&emsp;&emsp;(B) if the claimed trade dress includes any mark or marks registered on the principalregister, the unregistered matter, taken as a whole, is famous separate and apart from any fame of such registered marks.
 
 #### (5) Additional remedies
 
@@ -140,7 +140,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (D) A person shall be liable for using a domain name under subparagraph (A) only if that person is the domain name registrant or that registrant's authorized licensee.
 
-(E) As used in this paragraph, the term “traffics in” refers to transactions that include, but are not limited to, sales, purchases, loans, pledges, licenses, exchanges of currency, and any other transfer for consideration or receipt in exchange for consideration.
+(E) As used in this paragraph, the term “traffics in” refers to transactions that include, butare not limited to, sales, purchases, loans, pledges, licenses, exchanges of currency, and any other transfer for consideration or receipt in exchange for consideration.
 
 (2)(A) The owner of a mark may file an in rem civil action against a domain name in the judicial district in which the domain name registrar, domain name registry, or other domain name authority that registered or assigned the domain name is located if—
 

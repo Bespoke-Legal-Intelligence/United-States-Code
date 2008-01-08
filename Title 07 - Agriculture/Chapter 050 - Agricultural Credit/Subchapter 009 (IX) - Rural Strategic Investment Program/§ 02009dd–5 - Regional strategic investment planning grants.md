@@ -12,7 +12,7 @@ A regional plan for a region covered by a Regional Board shall, to the maximum e
 
 &emsp;(2) basic services within the region;
 
-&emsp;(3) opportunities for economic diversification and innovation within the region, with particular attention to entrepreneurial support and innovation;
+&emsp;(3) opportunities for economic diversification and innovation within the region, withparticular attention to entrepreneurial support and innovation;
 
 &emsp;(4) the current and future human resource capacity of the region;
 

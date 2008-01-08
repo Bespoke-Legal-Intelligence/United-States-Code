@@ -116,7 +116,7 @@ Requirements.—Subparagraph (A) shall apply to any construction loan—
 
 &emsp;&emsp;&emsp;“(ii) under which the lender has acquired from the lender originating the mortgage loan for purchase of the residence, before the making of the construction loan—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) documentation demonstrating that the buyer of the residence intends to purchase the residence and has the ability to obtain a mortgage loan sufficient to purchase the residence; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) documentation demonstrating that the buyer of the residence intends to purchase theresidence and has the ability to obtain a mortgage loan sufficient to purchase the residence; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) any other documentation from the mortgage lender that the appropriate Federal banking agency may consider appropriate to provide assurance of the buyer's intent to purchase the property (including written commitments and letters of intent);
 

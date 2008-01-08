@@ -30,7 +30,7 @@ In General.—The Federal Retirement Thrift Investment Board (in this section re
 
 “(b)
 
-Report on Financial Literacy Efforts.—The Board shall annually report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform of the House of Representatives on its Thrift Savings Plan education efforts on behalf of plan participants.
+Report on Financial Literacy Efforts.—The Board shall annually report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives on its Thrift Savings Plan education efforts on behalf of plan participants.
 
 “(c)
 
@@ -42,5 +42,5 @@ Strategy.—As part of the retirement training offered by Office of Personnel Ma
 
 &emsp;&emsp;“(B) provide information related to how Federal employees can receive additional information on how to plan for retirement and calculate what their retirement investment should be in order to meet their retirement goals; and
 
-&emsp;“(2) submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform of the House of Representatives on the strategy described under paragraph (1).”
+&emsp;“(2) submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives on the strategy described under paragraph (1).”
 

@@ -6,6 +6,7 @@
 | :--- | ---: |
 | [6601\.](Subchapter%20001%20%28I%29%20-%20National%20Science%2C%20Engineering%2C%20and%20Technology%20Policy%20and%20Priorities/%C2%A7%2006601%20-%20Congressional%20findings%3B%20priority%20goals.md) | Congressional findings; priority goals. |
 | [6602\.](Subchapter%20001%20%28I%29%20-%20National%20Science%2C%20Engineering%2C%20and%20Technology%20Policy%20and%20Priorities/%C2%A7%2006602%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
+| [6603\.](Subchapter%20001%20%28I%29%20-%20National%20Science%2C%20Engineering%2C%20and%20Technology%20Policy%20and%20Priorities/%C2%A7%2006603%20-%20Sense%20of%20Congress%20on%20innovation%20acceleration%20research.md) | Sense of Congress on innovation acceleration research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,6 +22,8 @@
 | [6616\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006616%20-%20Additional%20functions%20of%20Director.md) | Additional functions of Director. |
 | [6617\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006617%20-%20Coordination%20with%20other%20organizations.md) | Coordination with other organizations. |
 | [6618\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006618%20-%20Major%20science%20and%20technology%20proposals.md) | Major science and technology proposals. |
+| [6619\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006619%20-%20National%20coordination%20of%20research%20infrastructure.md) | National coordination of research infrastructure. |
+| [6620\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006620%20-%20Release%20of%20scientific%20research%20results.md) | Release of scientific research results. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

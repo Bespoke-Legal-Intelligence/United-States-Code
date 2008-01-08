@@ -6,7 +6,7 @@ The Secretary of the Department in which the Coast Guard is operating may issue 
 
 #### References in Text
 
-The International Regulations, referred to in text, are the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of this title.
+The International Regulations, referred to in text, are the International Regulations for Preventing Collisions at Sea, 1972, which are maintained and published by the United States Coast Guard, U.S. Department of Homeland Security, in the publication <i>Navigation Rules</i>, which is available for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
 
 #### Amendments
 

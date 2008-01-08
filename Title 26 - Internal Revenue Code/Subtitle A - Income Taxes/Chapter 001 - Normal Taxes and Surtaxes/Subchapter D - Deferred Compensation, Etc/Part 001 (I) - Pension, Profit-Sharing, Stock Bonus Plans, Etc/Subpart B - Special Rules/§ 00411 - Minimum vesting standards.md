@@ -122,7 +122,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (D) Withdrawal of mandatory contribution
 
-&emsp;&emsp;&emsp;(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant.
+&emsp;&emsp;&emsp;(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitableright to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in subsection (c)(2)(C)) made by such participant.
 
 &emsp;&emsp;&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of subsection (c)(2)(C) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
@@ -144,9 +144,9 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;(ii) benefit payments under the plan may be suspended under section 418E or under section 4281 of the Employee Retirement Income Security Act of 1974.
 
-#### (G) Treatment of matching contributions forfeited by reason of excess deferral or contribution
+#### (G) Treatment of matching contributions forfeited by reason of excess deferral or contribution or erroneous automatic contribution
 
-&emsp;&emsp;A matching contribution (within the meaning of section 401(m)) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B), an excess deferral under section 402(g)(2)(A), or an excess aggregate contribution under section 401(m)(6)(B).
+&emsp;&emsp;A matching contribution (within the meaning of section 401(m)) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B), an excess deferral under section 402(g)(2)(A), an erroneous automatic contribution under section 414(w), or an excess aggregate contribution under section 401(m)(6)(B).
 
 #### (4) Service included in determination of nonforfeitable percentage
 
@@ -200,7 +200,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (B) 1 year of service after 1-year break in service
 
-&emsp;&emsp;For purposes of paragraph (4), in the case of any employee who has any 1-year break inservice, years of service before such break shall not be required to be taken into account until he has completed a year of service after his return.
+&emsp;&emsp;For purposes of paragraph (4), in the case of any employee who has any 1-year break in service, years of service before such break shall not be required to be taken into account until he has completed a year of service after his return.
 
 #### (C) 5 consecutive 1-year breaks in service under defined contribution plan
 
@@ -326,7 +326,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;(B) disability benefits not in excess of the qualified disability benefit.
 
-> &emsp;For purposes of this paragraph, a qualified disability benefit is a disability benefit provided by a plan which does not exceed the benefit which would be provided for the participant if he separated from the service at normal retirement age. For purposes of this paragraph, the early retirement benefit under a plan shall be determined without regard to any benefits commencing before benefits payable under title II of the Social Security Act become payable which—
+> &emsp;For purposes of this paragraph, a qualified disability benefit is a disability benefit provided by a plan which does not exceed the benefitwhich would be provided for the participant if he separated from the service at normal retirement age. For purposes of this paragraph, the early retirement benefit under a plan shall be determined without regard to any benefits commencing before benefits payable under title II of the Social Security Act become payable which—
 
 &emsp;&emsp;(i) do not exceed such social security benefits, and
 
@@ -358,7 +358,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (D) Special rule for rollover contributions
 
-&emsp;&emsp;A plan shall not fail to meet the requirements of this paragraph if, under the termsof the plan, the present value of the nonforfeitable accrued benefit is determined without regard to that portion of such benefit which is attributable to rollover contributions (and earnings allocable thereto). For purposes of this subparagraph, the term “rollover contributions” means any rollover contribution under sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3)(A)(ii), and 457(e)(16).
+&emsp;&emsp;A plan shall not fail to meet the requirements of this paragraph if, under the terms of the plan, the present value of the nonforfeitable accrued benefit is determined without regard to that portion of such benefit which is attributable to rollover contributions (and earnings allocable thereto). For purposes of this subparagraph, the term “rollover contributions” means any rollover contribution under sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3)(A)(ii), and 457(e)(16).
 
 #### \[(12) Repealed. Pub. L. 109–280, title IX, §904(a)(2), Aug. 17, 2006, 120 Stat. 1049\]
 
@@ -468,7 +468,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 &emsp;&emsp;&emsp;&emsp;(II) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 401(a)(14)(C), and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to subsection (a)(3)(B), then any requirement of this subparagraph for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefit payable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
 
-&emsp;&emsp;&nbsp;The preceding provisions of this clause shall apply in accordance with regulationsof the Secretary. Such regulations may provide for the application of the preceding provisions of this clause, in the case of any such employee, with respect to any period of time within a plan year.
+&emsp;&emsp;&nbsp;The preceding provisions of this clause shall apply in accordance with regulations of the Secretary. Such regulations may provide for the application of the preceding provisions of this clause, in the case of any such employee, with respect to any period of time within a plan year.
 
 #### (iv) Disregard of subsidized portion of early retirement benefit
 
@@ -508,7 +508,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (B) Less than full time service
 
-&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit to which he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
+&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (C), in the case ofany employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit to which he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
 
 #### (C) Less than 1,000 hours of service during year
 
@@ -572,7 +572,7 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 #### (iv) Special rules for early retirement subsidies
 
-&emsp;&emsp;&emsp;For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+&emsp;&emsp;&emsp;For purposes of clause (iii)(I), the plan shall credit the accumulation account orsimilar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
 #### (v) Applicable plan amendment
 
@@ -776,10 +776,6 @@ A trust shall not constitute a qualified trust under section 401(a) unless the p
 
 (Added Pub. L. 93–406, title II, §1012(a), Sept. 2, 1974, 88 Stat. 901; amended Pub. L. 94–455, title XIX, §§1901(a)(62), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–364, title II, §206, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 98–397, title II, §202(b), (c), (d)(2), (e)(2), (3), (f), 205, title III, §301(a)(1), Aug. 23, 1984, 98 Stat. 1437, 1439, 1440, 1449, 1450; Pub. L. 99–509, title IX, §§9202(b), 9203(b)(2), Oct. 21, 1986, 100 Stat. 1977, 1979; Pub. L. 99–514, title XI, §§1113(a), (b), (d)(B), 1114(b)(10), 1139(a), title XVIII, §1898(a)(1)(A), (4)(A), (d)(1)(A), (2)(A), (f)(1)(A), Oct. 22, 1986, 100 Stat. 2446, 2447, 2451, 2487, 2941, 2943, 2955, 2956; Pub. L. 100–203, title IX, §9346(b), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 100–647, title I, §1018(t)(8)(B), Nov. 10, 1988, 102 Stat. 3589; Pub. L. 101–239, title VII, §§7861(a)(5)(A), (6)(A), 7871(a)(1), (2), (b)(1), 7881(m)(1), Dec. 19, 1989, 103 Stat. 2430, 2435, 2443; Pub. L. 102–318, title V, §521(b)(44), July 3, 1992, 106 Stat. 313; Pub. L. 103–465, title VII, §767(a)(1), Dec. 8, 1994, 108 Stat. 5037; Pub. L. 104–188, title I, §1442(a), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(a)(1), (2)(A), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(a), 645(a)(1), (b)(1), 648(a)(1), June 7, 2001, 115 Stat. 115, 123, 125, 127; Pub. L. 108–311, title IV, §408(a)(14), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(b), title VII, 701(b), title IX, §§902(d)(2)(A), (B), 904(a), Aug. 17, 2006, 120 Stat. 853, 984, 1038, 1048.)
 
-#### Amendment of Subsection (a)(3)(G)
-
-<i>Pub. L. 109–280, title IX, §902(d)(2)(A), (B), (g), Aug. 17, 2006, 120 Stat. 1038, 1039, provided that, applicable to plan years beginning after Dec. 31, 2007, subsection (a)(3)(G) of this section is amended by inserting “or erroneous automatic contribution” after “or contribution” in heading and “an erroneous automatic contribution under section 414(w),” after “402(g)(2)(A),” in text.</i>
-
 #### References in Text
 
 Section 4281 of the Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(3)(F)(i), (ii) and (d)(6)(A), is classified to section 1441 of Title 29, Labor.
@@ -797,6 +793,8 @@ The Social Security Act, referred to in subsecs. (a)(9) and (b)(1)(G), is act Au
 2006—Subsec. (a)(2). Pub. L. 109–280, §904(a)(1), reenacted heading without change and amended text of par. (2) generally, substituting provisions relating to vesting requirements under defined benefit plans and defined contribution plans for provisions relating to 5-year vesting and 3 to 7 year vesting under all plans.
 
 Subsec. (a)(3)(C). Pub. L. 109–280, §114(b)(1), substituted “412(c)(2)” for “412(c)(8)”.
+
+Subsec. (a)(3)(G). Pub. L. 109–280, §902(d)(2)(A), (B), inserted “or erroneous automatic contribution” after “or contribution” in heading and “an erroneous automatic contribution under section 414(w),” after “402(g)(2)(A),” in text.
 
 Subsec. (a)(12). Pub. L. 109–280, §904(a)(2), struck out par. (12), which related to faster vesting for matching contributions by employers.
 
@@ -850,7 +848,7 @@ In general.—For purposes of subparagraph (A), the present value shall be calcu
 
 “(ii)
 
-Applicable interest rate.—For purposes of clause (i), the term ‘applicable interest rate’ means the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
+Applicable interest rate.—For purposes of clause (i), the term ‘applicable interest rate’ means theinterest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
 
 1992—Subsec. (d)(3). Pub. L. 102–318 inserted at end “For purposes of this paragraph, in the case of the complete discontinuance of contributions under a profit-sharing or stock bonus plan, such plan shall be treated as having terminated on the day on which the plan administrator notifies the Secretary (in accordance with regulations) of the discontinuance.”
 
@@ -884,7 +882,7 @@ In general.—In the case of a defined benefit plan providing an annual benefit 
 
 Appropriate conversion factor.—For purposes of clause (i), the term ‘appropriate conversion factor’ means the factor necessary to convert an amount equal to the accumulated contributions to a single life annuity (without ancillary benefits) commencing at normal retirement age and shall be 10 percent for a normal retirement age of 65 years. For other normal retirement ages the conversion factor shall be determined in accordance with regulations prescribed by the Secretary.”
 
-Subsec. (c)(2)(C)(iii). Pub. L. 101–239, §7881(m)(1)(A), amended cl. (iii) generally. Prior to amendment, cl.\(iii) read as follows: “interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 for the 1st month of a plan year) from the beginning of the first plan year to which subsection (a)(2) applies (by reason of the applicable effective date) to the date upon which the employee would attain normal retirement age.”
+Subsec. (c)(2)(C)(iii). Pub. L. 101–239, §7881(m)(1)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 for the 1st month of a plan year) from the beginning of the first plan year to which subsection (a)(2) applies (by reason of the applicable effective date) to the date upon which the employee would attain normal retirement age.”
 
 Subsec. (c)(2)(E). Pub. L. 101–239, §7881(m)(1)(C), struck out subpar. (E) which read as follows: “
 
@@ -1006,7 +1004,7 @@ Pub. L. 109–280, title IX, §904(c), Aug. 17, 2006, 120 Stat. 1050, provided t
 
 “(1)
 
-In general.—Except as provided in paragraphs (2) and (4), the amendments made by this section \[amending this section and section 1053 of Title 29, Labor\] shall apply to contributions for plan years beginning after December 31, 2006.
+In general.—Except as provided in paragraphs (2) and (4), the amendments made by this section\[amending this section and section 1053 of Title 29, Labor\] shall apply to contributions for plan years beginning after December 31, 2006.
 
 “(2)
 
@@ -1056,7 +1054,7 @@ Collective bargaining agreements.—In the case of a plan maintained pursuant to
 
 Service required.—With respect to any plan, the amendments made by this section shall not apply to any employee before the date that such employee has 1 hour of service under such plan in any plan year to which the amendments made by this section apply.”
 
-Pub. L. 107–16, title VI, §645(a)(3), June 7, 2001, 115 Stat. 125, provided that: “The amendments made by this subsection \[amending this section and section 1054of Title 29, Labor\] shall apply to years beginning after December 31, 2001.”
+Pub. L. 107–16, title VI, §645(a)(3), June 7, 2001, 115 Stat. 125, provided that: “The amendments made by this subsection \[amending this section and section 1054 of Title 29, Labor\] shall apply to years beginning after December 31, 2001.”
 
 Pub. L. 107–16, title VI, §648(c), June 7, 2001, 115 Stat. 128, provided that: “The amendments made by this section \[amending this section, section 457 of this title, and section 1053 of Title 29, Labor\] shall apply to distributions after December 31, 2001.”
 
@@ -1152,7 +1150,7 @@ Special rule for collective bargaining agreements.—In the case of a plan maint
 
 “(3)
 
-Participation required.—The amendments made by this section shall not apply to any employeewho does not have 1 hour of service in any plan year to which the amendments made by this section apply.
+Participation required.—The amendments made by this section shall not apply to any employee who does not have 1 hour of service in any plan year to which the amendments made by this section apply.
 
 “(4)
 
@@ -1200,7 +1198,7 @@ Special rule.—In the case of a plan maintained by a corporation incorporated o
 
 Section 1898(a)(1)(C) of Pub. L. 99–514 provided that: “The amendments made by this paragraph \[amending this section and section 1053 of Title 29, Labor\] shall apply to contributions made for plan years beginning after the date of the enactment of this Act \[Oct. 22, 1986\]; except that, in the case of a plan described in section 302(b) of the Retirement Equity Act of 1984 \[section 302(b) of Pub. L. 98–397, set out as a note under section 1001 of Title 29\], such amendments shall not apply to any plan year to which the amendments made by such Act \[see Short Title of 1984 Amendment note set out under section 1001 of Title 29\] do not apply by reason of such section 302(b).”
 
-Amendment by section 1898(a)(4)(A), (d)(1)(A), (2)(A), (f)(1)(A) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except as otherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
+Amendment by section 1898(a)(4)(A), (d)(1)(A), (2)(A), (f)(1)(A) of Pub. L. 99–514 effective as if included in the provision of the Retirement Equity Act of 1984, Pub. L. 98–397, to which such amendment relates, except asotherwise provided, see section 1898(j) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 Amendment by section 9202(b) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only to employees who have 1 hour of service in any plan year to which amendment applies, with special rule for collectively bargained plans, and amendment by section 9203(b)(2) of Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only with respect to service performed on or after such date, see section 9204(a), (b) of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of Title 29, Labor.
 
@@ -1384,7 +1382,7 @@ For provisions directing that if during the period beginning Dec. 22, 1987, and 
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
@@ -1398,13 +1396,13 @@ For provisions directing that if any amendments made by sections 9202(b) and 920
 
 #### Alternate Methods of Satisfying Requirements for Vesting and Accrued Benefits
 
-Section 1012(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any plan maintained on January 1, 1974, if, not later than 2 years after the date of the enactment of this Act \[Sept. 2, 1974\], the plan administrator petitions the Secretary of Labor, the Secretary of Labor may prescribe an alternate method which shall be treated as satisfying the requirements of subsection (a)(2) of section 411 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], or of subsection (b)(1) (other than subparagraph (D) thereof) of such section 411, or of both such provisions for a period of not more than 4 years. The Secretary may prescribe such alternate method only when he finds that—
+Pub. L. 93–406, title II, §1012(c), Sept. 2, 1974, 88 Stat. 913, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any plan maintained on January 1, 1974, if, not later than 2 years after the date of the enactment of this Act \[Sept. 2, 1974\], the plan administrator petitions the Secretary of Labor, the Secretary of Labor may prescribe an alternate method which shall be treated as satisfying the requirements of subsection (a)(2) of section 411 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], or of subsection (b)(1) (other than subparagraph (D) thereof) of such section 411, or of both such provisions for a period of not more than 4 years. The Secretary may prescribe such alternate method only when he finds that—
 
 &emsp;“(1) the application of such requirements would increase the costs of the plan to such an extent that there would result a substantial risk to the voluntary continuation of the plan or a substantial curtailment of benefit levels or the levels of employees’ compensation,
 
 &emsp;“(2) the application of such requirements or discontinuance of the plan would be adverse to the interests of plan participants in the aggregate, and
 
-&emsp;“(3) a waiver or extension of time granted under section 412(d) or (e) would be inadequate.
+&emsp;“(3) a waiver or extension of time granted under \[former\] section 412(d) or (e) would be inadequate.
 
 > In the case of any plan with respect to which an alternate method has been prescribed under the preceding provisions of this subsection for a period of not more than 4 years, if, not later than 1 year before the expiration of such period, the plan administrator petitions the Secretary of Labor for an extension of such alternate method, and the Secretary makes the findings required by the preceding sentence, such alternate method may be extended for not more than 3 years.”
 

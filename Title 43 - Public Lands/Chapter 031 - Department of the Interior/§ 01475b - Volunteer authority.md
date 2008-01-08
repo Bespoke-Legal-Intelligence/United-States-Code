@@ -12,7 +12,7 @@ The Secretary of the Interior may recruit, train, and accept, without regard to 
 
 #### (2) Private property
 
-&emsp;No volunteer services authorized by this Act may be conducted on private property unlessthe officer or employee charged with supervising the volunteer obtains appropriate consent to enter the property from the property owner.
+&emsp;No volunteer services authorized by this Act may be conducted on private property unless the officer or employee charged with supervising the volunteer obtains appropriate consent to enter the property from the property owner.
 
 #### (3) Hazardous duty
 
@@ -24,7 +24,7 @@ The Secretary of the Interior may recruit, train, and accept, without regard to 
 
 #### (c) Provision of services and costs
 
-The Secretary may provide for services and costs incidental to the utilization of volunteers, including transportation, supplies, uniforms, lodging, subsistence (without regard to place of residence), recruiting, training, supervision, and awards and recognition (including nominal cash awards).
+The Secretary may provide for services and costs incidental to the utilization of volunteers,including transportation, supplies, uniforms, lodging, subsistence (without regard to place of residence), recruiting, training, supervision, and awards and recognition (including nominal cash awards).
 
 #### (d) Federal employment status of volunteers
 

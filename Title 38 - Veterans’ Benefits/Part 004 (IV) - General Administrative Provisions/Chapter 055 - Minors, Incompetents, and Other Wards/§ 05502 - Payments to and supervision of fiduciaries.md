@@ -86,7 +86,7 @@ Subsecs. (f), (g). Pub. L. 93–295, §301(d), repealed subsec. (f) which permit
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–454 effective on the first day of the seventh month beginning after Dec. 10, 2004, see section 507(a) of Pub. L. 108–454, set out as a note under section 5312 of this title.
+Amendment by Pub. L. 108–454 effective on the first day of the seventh month beginning after Dec. 10, 2004,see section 507(a) of Pub. L. 108–454, set out as a note under section 5312 of this title.
 
 #### Effective Date of 1974 Amendment
 

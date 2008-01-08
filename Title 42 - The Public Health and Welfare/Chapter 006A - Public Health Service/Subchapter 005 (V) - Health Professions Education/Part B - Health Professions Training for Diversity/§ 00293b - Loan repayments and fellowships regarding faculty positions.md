@@ -90,7 +90,7 @@
 
 #### (5) Definition
 
-&emsp;For purposes of this subsection, the term “underrepresented minority individuals”means individuals who are members of racial or ethnic minority groups that are underrepresented in the health professions including nursing.
+&emsp;For purposes of this subsection, the term “underrepresented minority individuals” means individuals who are members of racial or ethnic minority groups that are underrepresented in the health professions including nursing.
 
 (July 1, 1944, ch. 373, title VII, §738, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3532.)
 
@@ -100,7 +100,7 @@ Subpart III of part D of subchapter II of this chapter, referred to in subsec. (
 
 #### Prior Provisions
 
-A prior section 293b, act July 1, 1944, ch. 373, title VII, §738, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2025, related to loan repayments and fellowships regarding faculty positions, prior to the general amendment of this part by Pub. L. 105–392.
+A prior section 293b, act July 1, 1944, ch. 373, title VII, §738, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992,106 Stat. 2025, related to loan repayments and fellowships regarding faculty positions, prior to the general amendment of this part by Pub. L. 105–392.
 
 Another prior section 293b, act July 1, 1944, ch. 373, title VII, §722, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 168; amended Aug. 16, 1968, Pub. L. 90–490, title I, §§102(a), 104(a), 82 Stat. 773, 774; Nov. 18, 1971, Pub. L. 92–157, title I, §102(b), (j)(4), (7), 85 Stat. 431, 436, 437; Oct. 12, 1976, Pub. L. 94–484, title III, §304, 90 Stat. 2255; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2723(e), 95 Stat. 916, related to amounts of grants and grants for multipurpose facilities, prior to the general revision of this subchapter by Pub. L. 102–408.
 

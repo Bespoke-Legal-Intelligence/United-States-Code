@@ -10,7 +10,7 @@
 
 (1) As part of the recruitment and training program, the directors of the laboratories referred to in subsection (a)(1) may employ undergraduate students, graduate students, and postdoctoral fellows to carry out research sponsored by such laboratories for military or nonmilitary dual-use programs related to nuclear weapons stockpile stewardship.
 
-(2) Of the amounts authorized to be appropriated to the Secretary of Energy in section 3101(a)(1) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337) forweapons activities for core research and development and allocated by the Secretary for education initiatives, $5,000,000 shall be available for employing students and fellows to carry out research referred to in paragraph (1). The amount available under this paragraph shall be allocated equally among the laboratories referred to in subsection (a)(1).
+(2) Of the amounts authorized to be appropriated to the Secretary of Energy in section 3101(a)(1) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337) for weapons activities for core research and development and allocated by the Secretary for education initiatives, $5,000,000 shall be available for employing students and fellows to carry out research referred to in paragraph (1). The amount available under this paragraph shall be allocated equally among the laboratories referred to in subsection (a)(1).
 
 #### (c) Establishment of retiree corps
 

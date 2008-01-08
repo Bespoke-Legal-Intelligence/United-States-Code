@@ -6,7 +6,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 &emsp;(2) developing, in consultation with other appropriate executive agencies, a national policy and strategic plan for, identifying priorities, goals, objectives and policies for, and coordinating the Federal Government's civilian efforts to identify and develop countermeasures to chemical, biological,,<sup>1</sup> and other emerging terrorist threats, including the development of comprehensive, research-based definable goals for such efforts and development of annual measurable objectives and specific targets to accomplish and evaluate the goals for such efforts;
 
-&emsp;(3) supporting the Under Secretary for Information Analysis and Infrastructure Protection, by assessing and testing homeland security vulnerabilities and possible threats;
+&emsp;(3) supporting the Under Secretary for Intelligence and Analysis and the Assistant Secretary for Infrastructure Protection, by assessing and testing homeland security vulnerabilities and possible threats;
 
 &emsp;(4) conducting basic and applied research, development, demonstration, testing, and evaluation activities that are relevant to any or all elements of the Department, through both intramural and extramural programs, except that such responsibility does not extend to human health-related research and development activities;
 
@@ -34,9 +34,11 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 &emsp;(14) developing and overseeing the administration of guidelines for merit review of research and development projects throughout the Department, and for the dissemination of research conducted or sponsored by the Department.
 
-(Pub. L. 107–296, title III, §302, Nov. 25, 2002, 116 Stat. 2163; Pub. L. 109–347, title V, §501(b)(2), Oct. 13, 2006, 120 Stat. 1935.)
+(Pub. L. 107–296, title III, §302, Nov. 25, 2002, 116 Stat. 2163; Pub. L. 109–347, title V, §501(b)(2), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(1)(C), Aug. 3, 2007, 121 Stat. 334.)
 
 #### Amendments
+
+2007—Par. (3). Pub. L. 110–53 substituted “Under Secretary for Intelligence and Analysis and the Assistant Secretary for Infrastructure Protection” for “Under Secretary for Information Analysis and Infrastructure Protection”.
 
 2006—Pars. (2), (5)(A). Pub. L. 109–347 struck out “radiological, nuclear” after “biological,”.
 

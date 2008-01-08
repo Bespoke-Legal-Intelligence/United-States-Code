@@ -6,7 +6,7 @@ For the purposes of this part:
 
 &emsp;(2) The term “Reclamation program” means any activity authorized under the Federal reclamation laws (the Act of June 17, 1902 (32 Stat. 388, chapter 1093; 43 U.S.C. 371)),<sup>1</sup> and Acts supplementary thereto and amendatory thereof).
 
-&emsp;(3) The term “Reclamation project” means any water supply or water delivery project constructed or administered by the Bureau of Reclamation under the Federal reclamation laws (the Act of June 17, 1902 (32 Stat. 388, chapter 1093; 43 U.S.C. 371), and Acts supplementary thereto and amendatory thereof).
+&emsp;(3) The term “Reclamation project” means any water supply or water delivery project constructed or administered by the Bureau of Reclamation under the Federal reclamation laws (the Act of June 17, 1902 (32 Stat. 388, chapter 1093; 43 U.S.C. 371),<sup>2</sup> and Acts supplementary thereto and amendatory thereof).
 
 &emsp;(4) The term “Secretary” means the Secretary of the Interior.
 
@@ -16,7 +16,9 @@ For the purposes of this part:
 
 This part, referred to in text, was in the original “this title”, meaning title XXVIII of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4690, which enacted sections 460<i>l</i>–31 to 460<i>l</i>–34 of this title and amended sections 460<i>l</i>–13 to 460<i>l</i>–15 and 460<i>l</i>–18 of this title.
 
-The Federal reclamation laws, referred to in pars. (2) and (3), include act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, which are classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of act June 17, 1902 to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June 17, 1902, referred to in pars. (2) and (3), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. However, section 371 of Title 43 is act Dec. 5, 1924, ch. 4, §4, subsec. A, 43 Stat. 701. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
-<i><sup>1</sup></i><i> So in original. There should probably be only a single closing parenthesis.</i>
+<i><sup>1</sup></i><i> So in original. There should probably be only a single closing parenthesis. See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

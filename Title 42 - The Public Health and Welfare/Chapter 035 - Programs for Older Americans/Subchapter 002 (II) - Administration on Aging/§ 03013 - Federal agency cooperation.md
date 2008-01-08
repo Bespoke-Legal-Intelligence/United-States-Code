@@ -60,7 +60,7 @@ For the purposes of subsection (a) of this section, programs related to the obje
 
 (2) The officials referred to in paragraph (1) shall include the Secretary of Labor and the Secretary of Housing and Urban Development, and may include, at the direction of the President, the Attorney General, the Secretary of Transportation, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Homeland Security, the Commissioner of Social Security, and such other Federal officials as the President may direct. An official described in this paragraph may appoint a designee to carry out the official's duties under paragraph (1).
 
-(3) The Secretary of Health and Human Services shall serve as the first chairperson of the Committee, for 1 term, and the Secretary of Housing and Urban Development shall serve as the chairperson for the following term. After that following term, the Committee shall select a chairperson from among the members of the Committee, and any member may serve as the chairperson. No member may serve as the chairperson for more than 1 consecutive term.
+(3) The Secretary of Health and Human Services shall serve as the first chairperson of theCommittee, for 1 term, and the Secretary of Housing and Urban Development shall serve as the chairperson for the following term. After that following term, the Committee shall select a chairperson from among the members of the Committee, and any member may serve as the chairperson. No member may serve as the chairperson for more than 1 consecutive term.
 
 (4) For purposes of this subsection, a term shall be a period of 2 calendar years.
 
@@ -90,7 +90,7 @@ For the purposes of subsection (a) of this section, programs related to the obje
 
 &emsp;(E) actively seek input from and consult with nongovernmental experts and organizations, including public health interest and research groups and foundations about the activities described in subparagraphs (A) through (F);
 
-&emsp;(F) identify any barriers and impediments, including barriers and impediments in statutory and regulatory law, to the access and useby older individuals of federally funded programs and services; and
+&emsp;(F) identify any barriers and impediments, including barriers and impediments in statutory and regulatory law, to the access and use by older individuals of federally funded programs and services; and
 
 &emsp;(G) work with States to better provide housing, health care, and other supportive services to older individuals by—
 
@@ -114,7 +114,7 @@ For the purposes of subsection (a) of this section, programs related to the obje
 
 (8) On the request of the Committee, any Federal Government employee may be detailed to the Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
-(Pub. L. 89–73, title II, §203, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 32; amended Pub. L. 95–478, title I, §102(b), Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(d), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title II, §203, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§104(a), 105(b), 106(b), Nov. 29, 1987, 101 Stat. 929, 930; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–375, title II, §203, title IX, §904(a)(5), Sept. 30, 1992, 106 Stat. 1210, 1306; Pub. L. 103–82, title IV, §405(g)(2), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(4), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 105–220, title II, §251(b)(3), Aug. 7, 1998, 112 Stat. 1080; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–402, title IV, §401(b)(9)(A), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title II, §202(1), Nov. 13, 2000, 114 Stat. 2230; Pub. L. 109–365, title II, §203, Oct. 17, 2006, 120 Stat. 2532.)
+(Pub. L. 89–73, title II, §203, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 32; amended Pub. L. 95–478, title I, §102(b), Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(d), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title II, §203, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§104(a), 105(b), 106(b), Nov. 29, 1987, 101 Stat. 929, 930; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–375, title II, §203, title IX, §904(a)(5), Sept. 30, 1992, 106 Stat. 1210, 1306; Pub. L. 103–82, title IV, §405(g)(2), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(4), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 105–220, title II, §251(b)(3), Aug. 7, 1998, 112 Stat. 1080;Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–402, title IV, §401(b)(9)(A), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title II, §202(1), Nov. 13, 2000, 114 Stat. 2230; Pub. L. 109–365, title II, §203, Oct. 17, 2006, 120 Stat. 2532.)
 
 #### References in Text
 
@@ -136,7 +136,7 @@ The Public Health Service Act, referred to in subsec. (b)(10), is act July 1, 19
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (b)(11), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see note set out under section 8621 of this title and Tables.
 
-The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (b)(12), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (b)(12), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 The Community Services Block Grant Act, referred to in subsec. (b)(13), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
@@ -164,7 +164,7 @@ Subsec. (b)(17). Pub. L. 106–402 substituted “Developmental Disabilities Ass
 
 1998—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(25)(A)(i)\], struck out “the Job Training Partnership Act and” after “in carrying out”.
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(A)(i)\], substituted last sentence for former last sentence which read as follows: “In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out the Job Training Partnership Act (29 U.S.C. 1501 et seq.).”
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(A)(i)\], substituted last sentence for former last sentence which read as follows: “In particular, the Secretary ofLabor shall consult and cooperate with the Assistant Secretary in carrying out the Job Training Partnership Act (29 U.S.C. 1501 et seq.).”
 
 Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(25)(A)(ii)\], added par. (1) and struck out former par. (1) which read as follows: “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,”.
 

@@ -232,6 +232,8 @@ Subsec. (c)(4). Pub. L. 107–50, §8(b), inserted at end “The Administrator s
 
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Findings
 
 Pub. L. 106–554, §1(a)(9) \[title I, §111(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674, provided that: “Congress finds that—

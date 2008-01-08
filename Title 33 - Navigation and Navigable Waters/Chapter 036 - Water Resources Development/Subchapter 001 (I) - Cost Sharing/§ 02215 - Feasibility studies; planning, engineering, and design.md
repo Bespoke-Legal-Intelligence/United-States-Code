@@ -42,21 +42,47 @@
 
 &emsp;This subsection shall not apply to any water resources study primarily designed for the purposes of navigational improvements in the nature of dams, locks, and channels on the Nation's system of inland waterways.
 
+#### (3) Detailed project reports
+
+&emsp;The requirements of this subsection that apply to a feasibility study also shall apply to a study that results in a detailed project report, except that—
+
+&emsp;&emsp;(A) the first $100,000 of the costs of a study that results in a detailed project report shall be a Federal expense; and
+
+&emsp;&emsp;(B) paragraph (1)(C)(ii) shall not apply to such a study.
+
 #### (b) Planning and engineering
 
-The Secretary shall not initiate any planning or engineering authorized by this Act for a water resources project until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the planning and engineering during the period of the planning and engineering. Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.
+The Secretary shall not initiate any planning or engineering for a water resources project until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the planning and engineering during the period of the planning and engineering. Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.
 
 #### (c) Design
 
 Costs of design of a water resources project shall be shared in the same percentage as the purposes of such project.
 
-(Pub. L. 99–662, title I, §105, Nov. 17, 1986, 100 Stat. 4088; Pub. L. 101–640, title III, §301, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §203(a), Oct. 12, 1996, 110 Stat. 3677; Pub. L. 106–541, title II, §225, Dec. 11, 2000, 114 Stat. 2598.)
+#### (d) Definitions
+
+In this section, the following definitions apply:
+
+#### (1) Detailed project report
+
+&emsp;The term “detailed project report” means a report for a project not specifically authorized by Congress in law or otherwise that determines the feasibility of the project with a level of detail appropriate to the scope and complexity of the recommended solution and sufficient to proceed directly to the preparation of contract plans and specifications. The term includes any associated environmental impact statement and mitigation plan. For a project for which the Federal cost does not exceed $1,000,000, the term includes a planning and design analysis document.
+
+#### (2) Feasibility study
+
+&emsp;The term “feasibility study” means a study that results in a feasibility report under section 2282 of this title, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a study that results in a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
+
+(Pub. L. 99–662, title I, §105, Nov. 17, 1986, 100 Stat. 4088; Pub. L. 101–640, title III, §301, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II,§203(a), Oct. 12, 1996, 110 Stat. 3677; Pub. L. 106–541, title II, §225, Dec. 11, 2000, 114 Stat. 2598; Pub. L. 110–114, title II, §2043(a), Nov. 8, 2007, 121 Stat. 1101.)
 
 #### References in Text
 
-This Act, referred to in subsec. (b), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+The Water Resources Development Act of 2000, referred to in subsec. (d)(2), is Pub. L. 106–541, Dec. 11, 2000, 114 Stat. 2572. Title VI of the Act is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 2201 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (a)(3). Pub. L. 110–114, §2043(a)(1), added par. (3).
+
+Subsec. (b). Pub. L. 110–114, §2043(a)(2), struck out “authorized by this Act” before “for a water resources project”.
+
+Subsec. (d). Pub. L. 110–114, §2043(a)(3), added subsec. (d).
 
 2000—Subsec. (a)(1)(E). Pub. L. 106–541 substituted “The” for “Not more than 1/2 of the”.
 
@@ -64,7 +90,7 @@ This Act, referred to in subsec. (b), is Pub. L. 99–662, Nov. 17, 1986, 100 St
 
 Subsec. (a)(2). Pub. L. 104–303, §203(a)(2), inserted heading.
 
-1990—Subsec. (b). Pub. L. 101–640 inserted at end “Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent ofthe cost of the feasibility study shall be treated as costs of construction.”
+1990—Subsec. (b). Pub. L. 101–640 inserted at end “Costs of planning and engineering of projects for which non-Federal interests contributed 50 percent of the cost of the feasibility study shall be treated as costs of construction.”
 
 #### Effective Date of 1996 Amendment
 

@@ -26,7 +26,7 @@ Section was formerly classified to section 71 of this title.
 
 1978—Pub. L. 95–445 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1967—Pub. L. 90–201, §§3, 12(a), (b), struck out “interstate or foreign” before “commerce” in two places, substituted “Secretary shall” for “Secretary, at his discretion, may”, and struck out “of Agriculture” after“Secretary”, included horses, mules, and other equines, and horses, mules, or other equines in the list of animals, and substituted “adulterated” for “unsound, unhealthful, unwholesome, or otherwise unfit for human food”, respectively.
+1967—Pub. L. 90–201, §§3, 12(a), (b), struck out “interstate or foreign” before “commerce” in two places, substituted “Secretary shall” for “Secretary, at his discretion, may”, and struck out “of Agriculture” after “Secretary”, included horses, mules, and other equines, and horses, mules, or other equines in the list of animals, and substituted “adulterated” for “unsound, unhealthful, unwholesome, or otherwise unfit for human food”, respectively.
 
 #### Effective Date of 2005 Amendment
 

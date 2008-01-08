@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided in this subchapter, the settlement lands shall be subject to the civil and criminal laws and jurisdiction of the State of Rhode Island.
+Except as otherwise provided in this subchapter, the settlement lands shall be subject tothe civil and criminal laws and jurisdiction of the State of Rhode Island.
 
 #### (b) Treatment of settlement lands under Indian Gaming Regulatory Act
 

@@ -32,7 +32,7 @@
 
 #### (5) Information required for release
 
-&emsp;If an examination is conducted, any information required for release shall be provided, either electronically or in paper form, to the Customs Service at the port of examination. The absence of such information does not limit the authority of the Customs Service to conduct an examination.
+&emsp;If an examination is conducted, any information required for release shall be provided,either electronically or in paper form, to the Customs Service at the port of examination. The absence of such information does not limit the authority of the Customs Service to conduct an examination.
 
 #### (b) Testing laboratories
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(A) shall establish the conditions required for the laboratories to receive and maintain accreditation for purposes of this subsection;
 
-&emsp;&emsp;(B) shall establish the conditions regarding the suspension and revocation of accreditation, which may include the imposition of a monetary penalty not to exceed $100,000 and such penalty is in addition to the recovery, from a gauger or laboratory accreditedunder paragraph (1), of any loss of revenue that may have occurred, but the Customs Service—
+&emsp;&emsp;(B) shall establish the conditions regarding the suspension and revocation of accreditation, which may include the imposition of a monetary penalty not to exceed $100,000 and such penalty is in addition to the recovery, from a gauger or laboratory accredited under paragraph (1), of any loss of revenue that may have occurred, but the Customs Service—
 
 &emsp;&emsp;&emsp;(i) may seek to recover lost revenue only in cases where the gauger or laboratory intentionally falsified the analysis or gauging report in collusion with the importer; and
 
@@ -116,7 +116,7 @@ Except in the case of merchandise with respect to which the determination of adm
 
 #### (5) Effect of failure to make determination
 
-&emsp;(A) The failure by the Customs Service to make a final determination with respect tothe admissibility of detained merchandise within 30 days after the merchandise has been presented for customs examination, or such longer period if specifically authorized by law, shall be treated as a decision of the Customs Service to exclude the merchandise for purposes of section 1514(a)(4) of this title.
+&emsp;(A) The failure by the Customs Service to make a final determination with respect to the admissibility of detained merchandise within 30 days after the merchandise has been presented for customs examination, or such longer period if specifically authorized by law, shall be treated as a decision of the Customs Service to exclude the merchandise for purposes of section 1514(a)(4) of this title.
 
 &emsp;(B) For purposes of section 1581 of title 28, a protest against the decision to exclude the merchandise which has not been allowed or denied in whole or in part before the 30th day after the day on which the protest was filed shall be treated as having been denied on such 30th day.
 

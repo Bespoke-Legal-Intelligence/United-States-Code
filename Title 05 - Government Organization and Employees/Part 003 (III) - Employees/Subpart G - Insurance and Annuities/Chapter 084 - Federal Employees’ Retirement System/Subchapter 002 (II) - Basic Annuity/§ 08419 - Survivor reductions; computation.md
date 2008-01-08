@@ -4,7 +4,7 @@
 
 (2)(A) If no survivor annuity under section 8442 is to be provided for, but one or more survivor annuities under section 8445 involving a total of less than the entirety of the amount referred to in subsection (b)(2) of such section are to be provided for, the annuity of the annuitant involved (as computed under section 8415, or under section 8452 (including subsection (a)(2) of such section, if applicable)) or one-half of the annuity, if jointly designated for this purpose by the employee or Member and the spouse of the employee or Member under procedures prescribed by the Office of Personnel Management, shall be reduced by an appropriate percentage determined under subparagraph (B).
 
-(B) The Office shall prescribe regulations under which an appropriate reduction under this paragraph, not to exceed a total of 10 percent, shall be made.
+(B) The Office shall prescribe regulations under which an appropriate reduction under thisparagraph, not to exceed a total of 10 percent, shall be made.
 
 (b)(1) Any reduction in an annuity for the purpose of providing a survivor annuity for the current spouse of a retired employee or Member shall be terminated for each full month—
 

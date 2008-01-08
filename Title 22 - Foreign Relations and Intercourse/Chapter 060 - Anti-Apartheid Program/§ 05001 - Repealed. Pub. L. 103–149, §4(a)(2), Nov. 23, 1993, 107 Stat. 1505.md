@@ -110,7 +110,7 @@ Other Provisions.—The following provisions are repealed or amended as follows:
 
 &emsp;“(8)(A) Section 901(j)(2)(C) of the Internal Revenue Code of 1986 (26 U.S.C. 901(j)(2)(C)) is repealed.
 
-&emsp;“(B) Subparagraph (A) shall not be construed as affecting any of the transitional rules contained in Revenue Ruling 92–62 which apply by reason of thetermination of the period for which section 901(j) of the Internal Revenue Code of 1986 was applicable to South Africa.
+&emsp;“(B) Subparagraph (A) shall not be construed as affecting any of the transitional rules contained in Revenue Ruling 92–62 which apply by reason of the termination of the period for which section 901(j) of the Internal Revenue Code of 1986 was applicable to South Africa.
 
 &emsp;“(9) The table in section 502(b) of the Trade Act of 1974 (19 U.S.C. 2462(b)) is amended by striking ‘Republic of South Africa’.
 
@@ -234,7 +234,7 @@ United states government procurement.—To the extent not inconsistent with the 
 
 “(a)
 
-In General.—The President should encourage other donors, particularly Japan and the European Community countries, to expand their activities in support of the transition to nonracial democracy in South Africa.
+In General.—The President should encourage other donors, particularly Japan and the EuropeanCommunity countries, to expand their activities in support of the transition to nonracial democracy in South Africa.
 
 “(b)
 

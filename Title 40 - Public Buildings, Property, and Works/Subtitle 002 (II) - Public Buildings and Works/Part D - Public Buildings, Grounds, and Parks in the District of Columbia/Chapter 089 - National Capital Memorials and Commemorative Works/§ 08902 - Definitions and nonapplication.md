@@ -18,7 +18,7 @@ Reserve.—The term “Reserve” means the great cross-axis of the Mall, which 
 
 &emsp;(4)
 
-Sponsor.—The term “sponsor” means a public agency, or an individual, group or organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code, and which is authorized by Congress to establish acommemorative work in the District of Columbia and its environs.
+Sponsor.—The term “sponsor” means a public agency, or an individual, group or organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code, and which is authorized by Congress to establish a commemorative work in the District of Columbia and its environs.
 
 (b)
 

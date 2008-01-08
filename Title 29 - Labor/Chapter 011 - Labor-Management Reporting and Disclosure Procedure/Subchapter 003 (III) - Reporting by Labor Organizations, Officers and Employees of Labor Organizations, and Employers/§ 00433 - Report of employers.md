@@ -10,7 +10,7 @@ Every employer who in any fiscal year made—
 
 &emsp;(3) any expenditure, during the fiscal year, where an object thereof, directly or indirectly, is to interfere with, restrain, or coerce employees in the exercise of the right to organize and bargain collectively through representatives of their own choosing, or is to obtain information concerning the activities of employees or a labor organization in connection with a labor dispute involving such employer, except for use solely in conjunction with an administrative or arbitral proceeding or a criminal or civil judicial proceeding;
 
-&emsp;(4) any agreement or arrangement with a labor relations consultant or other independent contractor or organization pursuant to which such person undertakes activities where an object thereof, directly or indirectly, is to persuade employees to exercise or not to exercise, or persuade employees as to the manner of exercising, the right to organize and bargain collectively through representatives of their own choosing, or undertakes to supply such employer with information concerning the activities of employees or a labor organization in connection with a labor dispute involving such employer, except information for use solely in conjunction with an administrative or arbitral proceeding or a criminal or civil judicial proceeding; or
+&emsp;(4) any agreement or arrangement with a labor relations consultant or other independent contractor or organization pursuant towhich such person undertakes activities where an object thereof, directly or indirectly, is to persuade employees to exercise or not to exercise, or persuade employees as to the manner of exercising, the right to organize and bargain collectively through representatives of their own choosing, or undertakes to supply such employer with information concerning the activities of employees or a labor organization in connection with a labor dispute involving such employer, except information for use solely in conjunction with an administrative or arbitral proceeding or a criminal or civil judicial proceeding; or
 
 &emsp;(5) any payment (including reimbursed expenses) pursuant to an agreement or arrangement described in subdivision (4);
 
@@ -32,7 +32,7 @@ Nothing in this section shall be construed to require any employer or other pers
 
 #### (d) Exemption from filing requirements generally
 
-Nothing contained in this section shall be construed to require an employer to file a report under subsection (a) of this section unless he has made an expenditure, payment, loan, agreement,or arrangement of the kind described therein. Nothing contained in this section shall be construed to require any other person to file a report under subsection (b) of this section unless he was a party to an agreement or arrangement of the kind described therein.
+Nothing contained in this section shall be construed to require an employer to file a report under subsection (a) of this section unless he has made an expenditure, payment, loan, agreement, or arrangement of the kind described therein. Nothing contained in this section shall be construed to require any other person to file a report under subsection (b) of this section unless he was a party to an agreement or arrangement of the kind described therein.
 
 #### (e) Services by and payments to regular officers, supervisors, and employees of employer
 

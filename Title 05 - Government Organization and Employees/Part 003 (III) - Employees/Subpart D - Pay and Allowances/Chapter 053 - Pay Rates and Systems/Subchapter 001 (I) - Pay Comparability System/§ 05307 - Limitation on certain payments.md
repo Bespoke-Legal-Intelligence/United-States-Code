@@ -26,7 +26,7 @@
 
 (3)(A) The Office of Personnel Management and the Office of Management and Budget jointly shall promulgate such regulations as may be necessary to carry out this subsection, including the criteria and procedures in accordance with which any determinations under this subsection shall be made.
 
-(B) An agency's certification under this subsection shall be for a period of 2 calendar years, except that such certification may be terminated at any time, for purposes of either or both of those years, upon a finding that the actions of such agency have not remained in conformance with applicable requirements.
+(B) An agency's certification under this subsection shall be for a period of 2 calendar years,except that such certification may be terminated at any time, for purposes of either or both of those years, upon a finding that the actions of such agency have not remained in conformance with applicable requirements.
 
 (C) Any certification or decertification under this subsection shall be made by the Office of Personnel Management, with the concurrence of the Office of Management and Budget.
 

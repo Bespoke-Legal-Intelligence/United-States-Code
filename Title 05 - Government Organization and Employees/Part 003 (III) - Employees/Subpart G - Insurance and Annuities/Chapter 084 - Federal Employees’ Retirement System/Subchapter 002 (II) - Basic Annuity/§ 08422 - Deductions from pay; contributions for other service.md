@@ -33,6 +33,7 @@
 | &nbsp; | 7\.75 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.9 | January 1, 2000, to December 31, 2000. |
 | &nbsp; | 7\.5 | After December 31, 2000. |
+| Customs and border protection officer | 7\.5 | After June 29, 2008. |
 
 (b) Each employee or Member is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this subchapter, or under subchapter IV or V of this chapter, based on the service of the employee or Member.
 
@@ -44,7 +45,7 @@
 
 (e)(1)(A) Except as provided in subparagraph (B), and subject to paragraph (6), each employee or Member who has performed military service before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office shall issue, to the agency by which the employee is employed, or, in the case of a Member or a Congressional employee, to the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, an amount equal to 3 percent of the amount of the basic pay paid under section 204 of title 37 to the employee or Member for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based on estimates of such basic pay provided to the Office under paragraph (4).
 
-(B) In any case where military service interrupts creditable civilian service under this subchapter and reemployment pursuant to chapter 43 of title 38 occurs on or after August 1, 1990, the deposit payable under this paragraph may not exceed the amount that would have been deducted and withheld under subsection (a)(1) from basic pay during civilian service if the employee had not performed the period of military service.
+(B) In any case where military service interrupts creditable civilian service under this subchapter and reemployment pursuant to chapter 43 of title 38 occurs on or after August 1, 1990, the deposit payable under this paragraph maynot exceed the amount that would have been deducted and withheld under subsection (a)(1) from basic pay during civilian service if the employee had not performed the period of military service.
 
 (2) Any deposit made under paragraph (1) more than two years after the later of—
 
@@ -84,17 +85,17 @@
 
 &emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent.
 
-(g) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have beendeducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under section 8334(e).
+(g) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under section 8334(e).
 
 (h) No deposit may be made with respect to service credited under section 8411(b)(6).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, §1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, §122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, §1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, §122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(4), Dec. 26, 2007, 121 Stat. 2076.)
 
 #### References in Text
 
 Section 3101(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B), is classified to section 3101(a) of Title 26, Internal Revenue Code.
 
-Section 8415(k), referred to in subsec. (d)(2), probably means the section 8415(k) added by Pub. L. 107–135, title I, §122(a), Jan. 23, 2002, 115 Stat. 2451, and redesignated by Pub. L. 108–92, which relates to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration.
+Section 8415(k), referred to in subsec. (d)(2), probably means the section 8415(k) added by Pub. L. 107–135, title I, §122(a), Jan. 23, 2002, 115 Stat. 2451, and redesignatedby Pub. L. 108–92, which relates to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration.
 
 The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
@@ -103,6 +104,8 @@ Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, refe
 The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+2007—Subsec. (a)(3). Pub. L. 110–161 inserted table for customs and border protection officer.
 
 2003—Subsec. (d)(2). Pub. L. 108–176, which directed the substitution of “8415(j)” for “8415(i)”, could not be executed because “8415(i)” did not appear subsequent to amendment by Pub. L. 108–92. See below.
 
@@ -164,6 +167,10 @@ Subsec. (e)(2)(B). Pub. L. 103–353, §5(d)(2), inserted before comma at end �
 
 1988—Subsec. (e)(5). Pub. L. 100–238 added par. (5).
 
+#### Effective Date of 2007 Amendment; Transition Rules
+
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
+
 #### Effective Date of 2003 Amendments
 
 Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
@@ -176,7 +183,7 @@ Amendment by Pub. L. 107–135 effective 60 days after Jan. 23, 2002, and applic
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–107 applicable only to separations from service as an employee of the United States on or after Dec. 28, 2001, see section 1132(c) of Pub. L. 107–107, set out as a note under section 8332 of this title.
+Amendment by Pub. L. 107–107 applicable only to separations from service as an employee of the UnitedStates on or after Dec. 28, 2001, see section 1132(c) of Pub. L. 107–107, set out as a note under section 8332 of this title.
 
 #### Effective Date of 2000 Amendments
 

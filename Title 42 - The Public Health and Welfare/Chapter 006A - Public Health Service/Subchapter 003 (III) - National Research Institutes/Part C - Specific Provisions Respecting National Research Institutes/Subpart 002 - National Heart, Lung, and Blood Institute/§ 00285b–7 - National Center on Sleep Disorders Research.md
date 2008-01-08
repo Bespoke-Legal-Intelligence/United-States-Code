@@ -32,7 +32,7 @@ The general purpose of the Center is—
 
 &emsp;(v) The Director of the National Institute on Aging.
 
-&emsp;(vi) The Director of the National Institute of Child Health and Human Development.
+&emsp;(vi) The Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development.
 
 &emsp;(vii) The Director of the National Institute of Neurological Disorders and Stroke.
 
@@ -58,7 +58,11 @@ The general purpose of the Center is—
 
 The Director of the Center, in cooperation with the Centers for Disease Control and Prevention, is authorized to coordinate activities with the Department of Transportation, the Department of Defense, the Department of Education, the Department of Labor, and the Department of Commerce to collect data, conduct studies, and disseminate public information concerning the impact of sleep disorders and sleep deprivation.
 
-(July 1, 1944, ch. 373, title IV, §424, as added Pub. L. 103–43, title V, §503, June 10, 1993, 107 Stat. 159.)
+(July 1, 1944, ch. 373, title IV, §424, as added Pub. L. 103–43, title V, §503, June 10, 1993, 107 Stat. 159; amended Pub. L. 110–154, §1(b)(5), Dec. 21, 2007, 121 Stat. 1827.)
+
+#### Amendments
+
+2007—Subsec. (c)(3)(B)(vi). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
 #### Change of Name
 

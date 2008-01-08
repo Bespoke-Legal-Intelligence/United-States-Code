@@ -218,7 +218,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 #### (5) Report
 
-&emsp;Upon completion of the studies conducted under paragraph (1), the Director shall submit to Congress a report on the findings of the studies, together with determinations basedupon such studies that would affect the definitions set forth under subsection (e) of this section that are used in the formula set forth in subsection (c) of this section.
+&emsp;Upon completion of the studies conducted under paragraph (1), the Director shall submit to Congress a report on the findings of the studies, together with determinations based upon such studies that would affect the definitions set forth under subsection (e) of this section that are used in the formula set forth in subsection (c) of this section.
 
 #### (6) Projection of costs
 

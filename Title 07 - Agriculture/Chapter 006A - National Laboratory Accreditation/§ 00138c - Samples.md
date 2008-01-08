@@ -12,7 +12,7 @@
 
 #### (3) Testing methods
 
-&emsp;Samples shall be tested by the laboratory according to methods specifically approved forsuch purpose by alternate methods of demonstrated adequacy or equivalence, as determined in regulations established under this chapter.
+&emsp;Samples shall be tested by the laboratory according to methods specifically approved for such purpose by alternate methods of demonstrated adequacy or equivalence, as determined in regulations established under this chapter.
 
 #### (b) Results of testing
 

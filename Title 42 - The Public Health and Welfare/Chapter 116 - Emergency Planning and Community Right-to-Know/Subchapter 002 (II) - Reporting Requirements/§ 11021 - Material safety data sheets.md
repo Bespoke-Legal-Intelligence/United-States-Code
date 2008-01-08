@@ -48,7 +48,7 @@ The Administrator may establish threshold quantities for hazardous chemicals bel
 
 #### (d) Initial submission and updating
 
-(1) The initial material safety data sheet or list required under this section with respect to ahazardous chemical shall be provided before the later of—
+(1) The initial material safety data sheet or list required under this section with respect to a hazardous chemical shall be provided before the later of—
 
 &emsp;(A) 12 months after October 17, 1986, or
 

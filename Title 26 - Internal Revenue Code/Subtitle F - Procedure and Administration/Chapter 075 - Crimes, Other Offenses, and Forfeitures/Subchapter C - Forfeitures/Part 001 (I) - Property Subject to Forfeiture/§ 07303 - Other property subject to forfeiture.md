@@ -14,7 +14,7 @@ There may be seized and forfeited to the United States the following:
 
 &emsp;All property to which any false or fraudulent instrument involved in the offense described in section 7207 relates.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 868; Pub. L. 85–881, §1(c), Sept. 2, 1958, 72 Stat. 1704; Pub. L. 93–490, §3(b)(5), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIX, §1904(b)(8)(G), (9)(D), Oct. 4, 1976, 90 Stat. 1816.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 868; Pub. L. 85–881, §1(c), Sept. 2, 1958, 72 Stat. 1704; Pub. L.93–490, §3(b)(5), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIX, §1904(b)(8)(G), (9)(D), Oct. 4, 1976, 90 Stat. 1816.)
 
 #### Amendments
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–490 applicable to filled cheese manufactured, imported, or sold after Oct. 26,1974, see section 3(c) of Pub. L. 93–490, set out as an Effective Date of Repeal note under sections 4831 to 4834 of this title.
+Amendment by Pub. L. 93–490 applicable to filled cheese manufactured, imported, or sold after Oct. 26, 1974, see section 3(c) of Pub. L. 93–490, set out as an Effective Date of Repeal note under sections 4831 to 4834 of this title.
 

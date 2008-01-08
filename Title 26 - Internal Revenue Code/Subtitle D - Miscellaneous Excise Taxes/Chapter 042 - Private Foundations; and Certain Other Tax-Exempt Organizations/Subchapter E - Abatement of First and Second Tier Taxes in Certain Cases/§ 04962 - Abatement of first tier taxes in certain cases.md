@@ -12,19 +12,21 @@ If it is established to the satisfaction of the Secretary that—
 
 #### (b) Qualified first tier tax
 
-For purposes of this section, the term “qualified first tier tax” means any first tier tax imposed by subchapter A, C, or D of this chapter, except that such term shall not include the tax imposed by section 4941(a) (relating to initial tax on self-dealing).
+For purposes of this section, the term “qualified first tier tax” means any first tier tax imposed by subchapter A, C, D, or G of this chapter, except that such term shall not include the tax imposed by section 4941(a) (relating to initial tax on self-dealing).
 
 #### (c) Special rule for tax on political expenditures of section 501(c)(3) organizations
 
 In the case of the tax imposed by section 4955(a), subsection (a)(1) shall be applied by substituting “not willful and flagrant” for “due to reasonable cause and not to willful neglect”.
 
-(Added Pub. L. 98–369, div. A, title III, §305(a), July 18, 1984, 98 Stat. 783; amended Pub. L. 100–203, title X, §10712(b)(1), (2), (4), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 105–34, title XVI, §1603(a), Aug. 5, 1997, 111 Stat. 1096.)
+(Added Pub. L. 98–369, div. A, title III, §305(a), July 18, 1984, 98 Stat. 783; amended Pub. L. 100–203, title X, §10712(b)(1), (2), (4), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 105–34, title XVI, §1603(a), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 110–172, §3(h), Dec. 29, 2007, 121 Stat. 2475.)
 
 #### Prior Provisions
 
 A prior section 4962 was renumbered section 4963 of this title.
 
 #### Amendments
+
+2007—Subsec. (b). Pub. L. 110–172 substituted “D, or G” for “or D”.
 
 1997—Subsec. (b). Pub. L. 105–34 substituted “subchapter A, C, or D” for “subchapter A or C”.
 
@@ -35,6 +37,10 @@ Subsec. (a). Pub. L. 100–203, §10712(b)(2), substituted “any qualified firs
 Subsec. (b). Pub. L. 100–203, §10712(b)(1), added subsec. (b) and struck out former subsec. (b) “Private foundation first tier tax” which read as follows: “For purposes of this section, the term ‘private foundation first tier tax’ means any first tier tax imposed by subchapter A of chapter 42, except that such term shall not include the tax imposed by section 4941(a) (relating to initial tax on self-dealing).”
 
 Subsec. (c). Pub. L. 100–203, §10712(b)(1), added subsec. (c).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 1997 Amendment
 

@@ -8,7 +8,7 @@ The Secretary of Education (referred to in this section as the “Secretary”),
 
 #### (1) In general
 
-&emsp;Under the program under subsection (a), the Secretary may award scholarship to fully orpartially pay the tuition costs of eligible individuals enrolled in 2-year associate's degree programs at community colleges or other colleges and universities that focus on providing the fundamental skills and training that is of immediate use to a beginning coal miner.
+&emsp;Under the program under subsection (a), the Secretary may award scholarship to fully or partially pay the tuition costs of eligible individuals enrolled in 2-year associate's degree programs at community colleges or other colleges and universities that focus on providing the fundamental skills and training that is of immediate use to a beginning coal miner.
 
 #### (2) Skills
 

@@ -64,7 +64,7 @@ National security system.—The term “national security system” means an inf
 
 &emsp;(16)
 
-Plan of action and milestones.—The term “plan of action and milestones”, means a plan used as a basis for the quarterly reporting requirements of the Office of Management andBudget that includes the following information:
+Plan of action and milestones.—The term “plan of action and milestones”, means a plan used as a basis for the quarterly reporting requirements of the Office of Management and Budget that includes the following information:
 
 &emsp;&emsp;(A) A description of the security weakness.
 

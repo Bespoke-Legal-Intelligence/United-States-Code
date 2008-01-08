@@ -40,7 +40,7 @@ The Congress finds that:
 
 &emsp;(17) The authority of the Congress under the United States Constitution to legislate in matters affecting the aboriginal or indigenous peoples of the United States includes the authority to legislate in matters affecting the native peoples of Alaska and Hawaii.
 
-&emsp;(18) In furtherance of the trust responsibility for the betterment of the conditions of NativeHawaiians, the United States has established a program for the provision of comprehensive health promotion and disease prevention services to maintain and improve the health status of the Hawaiian people.
+&emsp;(18) In furtherance of the trust responsibility for the betterment of the conditions of Native Hawaiians, the United States has established a program for the provision of comprehensive health promotion and disease prevention services to maintain and improve the health status of the Hawaiian people.
 
 &emsp;(19) This historical and unique legal relationship has been consistently recognized and affirmed by the Congress through the enactment of Federal laws which extend to the Hawaiian people the same rights and privileges accorded to American Indian, Alaska Native, Eskimo, and Aleut communities, including the Native American Programs Act of 1974 \[42 U.S.C. 2991 et seq.\]; the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\]; the National Museum of the American Indian Act \[20 U.S.C. 80q et seq.\]; and the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\].
 
@@ -86,7 +86,7 @@ The Health Professions Reauthorization Act of 1988, referred to in par. (20), is
 
 The Nursing Shortage Reduction and Education Extension Act of 1988, referred to in par. (20), is title VII of Pub. L. 100–607, Nov. 4, 1988, 102 Stat. 3153. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 201 of this title and Tables.
 
-The Handicapped Programs Technical Amendments Act of 1988, referred to in par. (20), is Pub. L. 100–630,Nov. 7, 1988, 102 Stat. 3289. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1400 of Title 20, Education, and Tables.
+The Handicapped Programs Technical Amendments Act of 1988, referred to in par. (20), is Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1400 of Title 20, Education, and Tables.
 
 The Indian Health Care Amendments of 1988, referred to in par. (20), is Pub. L. 100–713, Nov. 23, 1988, 102 Stat. 4784. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1601 of Title 25, Indians, and Tables.
 

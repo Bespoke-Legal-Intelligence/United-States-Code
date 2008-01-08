@@ -50,7 +50,7 @@ Calculation of Service.—(1) For purposes of calculating an annuity under this 
 
 (2)(A) In the case of an individual who is a bankruptcy judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a United States magistrate judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of a magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
-(B) In the case of an individual who is a magistrate judge to whom this section applies andwho retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
+(B) In the case of an individual who is a magistrate judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
 (h)
 
@@ -294,7 +294,7 @@ Retirement annuity under title 5 and section 377 of title 28.—A bankruptcy jud
 
 &emsp;&emsp;“(i) in the case of a judge or magistrate judge who retires with less than 8 years of service, the annuity under subsection (c) of section 377 of title 28, United States Code, shall be equal to that proportion of the salary being received at the time the judge or magistrate judge leaves office which the years of service bears to 14, subject to a reduction in accordance with subsection (c) of such section 377 if the bankruptcy judge or magistrate judge is under age 65 at the time he or she leaves office, and
 
-&emsp;&emsp;“(ii) the aggregate amount of the annuity initially payable on retirement under this subsection may not exceed the rate of pay for the bankruptcy judge or magistrate judge which is in effect on the day before the retirement becomes effective.
+&emsp;&emsp;“(ii) the aggregate amount of the annuity initially payable on retirement under this subsection may not exceed the rate of pay for the bankruptcyjudge or magistrate judge which is in effect on the day before the retirement becomes effective.
 
 “(2)
 

@@ -8,7 +8,7 @@ Each river basin commission shall be composed of members appointed as follows:
 
 (c) One member from each State which lies wholly or partially within the area, river basin, or group of river basins for which the commission is established, and the appointment of each such member shall be made in accordance with the laws of the State which he represents. In the absence of governing provisions of State law, such State members shall be appointed and serve at the pleasure of the Governor;
 
-(d) One member appointed by any interstate agency created by an interstate compact to which the consent of Congress has been given, and whose jurisdiction extends to the waters ofthe area, river basin, or group of river basins for which the river basin commission is created;
+(d) One member appointed by any interstate agency created by an interstate compact to which the consent of Congress has been given, and whose jurisdiction extends to the waters of the area, river basin, or group of river basins for which the river basin commission is created;
 
 (e) When deemed appropriate by the President, one member, who shall be appointed by the President, from the United States section of any international commission created by a treaty to which the consent of the Senate has been given, and whose jurisdiction extends to the waters of the area, river basin, or group of river basins for which the river basin commission is established.
 

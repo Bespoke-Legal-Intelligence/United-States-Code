@@ -32,7 +32,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 &emsp;(ii) passenger automobiles not manufactured domestically by that manufacturer (or excluded from this category under paragraph (5) of this subsection).
 
-(B) Passenger automobiles described in subparagraph (A)(i) and (ii) of this paragraph are deemed to be manufactured by separate manufacturers under this chapter.
+(B) Passenger automobiles described in subparagraph (A)(i) and (ii) of this paragraph are deemed to be manufactured by separate manufacturers under this chapter, except for the purposes of section 32903.
 
 (2) In this subsection (except as provided in paragraph (3)), a passenger automobile is deemed to be manufactured domestically in a model year if at least 75 percent of the cost to the manufacturer is attributable to value added in the United States or Canada, unless the assembly of the automobile is completed in Canada and the automobile is imported into the United States more than 30 days after the end of the model year.
 
@@ -42,7 +42,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 &emsp;(i) A manufacturer that began assembling automobiles in Mexico before model year 1992 may elect, during the period from January 1, 1997, through January 1, 2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election.
 
-&emsp;(ii) For a manufacturer that began assembling automobiles in Mexico after model year 1991, subparagraph (A) of this paragraph applies to all automobiles manufactured by thatmanufacturer beginning with the model year that begins after January 1, 1994, or the model year beginning after the date the manufacturer begins assembling automobiles in Mexico, whichever is later.
+&emsp;(ii) For a manufacturer that began assembling automobiles in Mexico after model year 1991, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994, or the model year beginning after the date the manufacturer begins assembling automobiles in Mexico, whichever is later.
 
 &emsp;(iii) A manufacturer not described in clause (i) or (ii) of this subparagraph that assembles automobiles in the United States or Canada, but not in Mexico, may elect, during the period from January 1, 1997, through January 1, 2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election. However, if the manufacturer begins assembling automobiles in Mexico before making an election under this subparagraph, this clause does not apply, and the manufacturer is subject to clause (ii) of this subparagraph.
 
@@ -70,28 +70,6 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 &emsp;(iv) the model or models are manufactured domestically before the end of the 4th model year covered by the plan.
 
-(6)(A) A manufacturer may file with the Secretary of Transportation a petition for an exemption from the requirement of separate calculations under paragraph (1)(A) of this subsection if the manufacturer began automobile production or assembly in the United States—
-
-&emsp;(i) after December 22, 1975, and before May 1, 1980; or
-
-&emsp;(ii) after April 30, 1980, if the manufacturer has engaged in the production or assembly in the United States for at least one model year ending before January 1, 1986.
-
-(B) The Secretary of Transportation shall grant the exemption unless the Secretary finds that the exemption would result in reduced employment in the United States related to motor vehicle manufacturing during the period of the exemption. An exemption under this paragraph is effective for 5 model years or, if requested by the manufacturer, a longer period provided by the Secretary in the order granting the exemption. The exemption applies to passenger automobiles manufactured by that manufacturer during the period of the exemption.
-
-(C) Before granting an exemption, the Secretary of Transportation shall provide notice of, and reasonable opportunity for, written or oral comment about the petition. The period for comment shall end not later than 60 days after the petition is filed, except that the Secretary may extend the period for not more than another 30 days. The Secretary shall decide whether to grant or deny the exemption, and publish notice of the decision in the Federal Register, not later than 90 days after the petition is filed, except that the Secretary may extend the time for decision to a later date (not later than 150 days after the petition is filed) if the Secretary publishes notice of, and reasons for, the extension in the Federal Register. If the Secretary does not make a decision within the time provided in this subparagraph, the petition is deemed to have been granted. Not later than 30 days after the end of the decision period, the Secretary shall submit a written statement of the reasons for not making a decision to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Commerce of the House of Representatives.
-
-(7)(A) A person adversely affected by a decision of the Secretary of Transportation granting or denying an exemption may file, not later than 30 days after publication of the notice of the decision, a petition for review in the United States Court of Appeals for the District of Columbia Circuit. That court has exclusive jurisdiction to review the decision and to affirm, remand, or set aside the decision under section 706(2)(A)–(D) of title 5.
-
-(B) A judgment of the court under this subparagraph may be reviewed by the SupremeCourt under section 1254 of title 28. Application for review by the Supreme Court must be made not later than 30 days after entry of the court's judgment.
-
-(C) A decision of the Secretary of Transportation on a petition for an exemption under this paragraph may be reviewed administratively or judicially only as provided in this paragraph.
-
-(8) Notwithstanding section 32903 of this title, during a model year when an exemption under this paragraph is effective for a manufacturer—
-
-&emsp;(A) credit may not be earned under section 32903(a) of this title by the manufacturer; and
-
-&emsp;(B) credit may not be made available under section 32903(b)(2) of this title for the manufacturer.
-
 (c)
 
 Testing and Calculation Procedures.—The Administrator shall measure fuel economy for each model and calculate average fuel economy for a manufacturer under testing and calculation procedures prescribed by the Administrator. However, except under section 32908 of this title, the Administrator shall use the same procedures for passenger automobiles the Administrator used for model year 1975 (weighted 55 percent urban cycle and 45 percent highway cycle), or procedures that give comparable results. A measurement of fuel economy or a calculation of average fuel economy (except under section 32908) shall be rounded off to the nearest .1 of a mile a gallon. The Administrator shall decide on the quantity of other fuel that is equivalent to one gallon of gasoline. To the extent practicable, fuel economy tests shall be carried out with emissions tests under section 206 of the Clean Air Act (42 U.S.C. 7525).
@@ -104,7 +82,7 @@ Effective Date of Procedure or Amendment.—The Administrator shall prescribe a 
 
 Reports and Consultation.—The Administrator shall report measurements and calculations under this section to the Secretary of Transportation and shall consult and coordinate with the Secretary in carrying out this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1062; Pub. L. 103–429, §6(36), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(63), Oct. 11, 1996, 110 Stat. 3395.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1062; Pub. L. 103–429, §6(36), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(63), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 110–140, title I, §§104(b)(2), 113(a), Dec. 19, 2007, 121 Stat. 1503, 1508.)
 
 Historical and Revision Notes
 
@@ -170,7 +148,7 @@ Subsection (a)(2)(A) is substituted for “as defined in section 2012(b)(2) of t
 
 In subsection (a)(2)(B), before clause (i), the words “the Administrator shall include in the calculation of average fuel economy” are substituted for “the average fuel economy will be calculated . . . to include” for clarity. The text of 15:2003(a)(3)(B) is omitted as executed. The words “determine and propose” are substituted for “propose” for clarity and consistency with the authority of the Secretary under the source provisions. The words “based on the following factors” are substituted for “Determination of these fuel economy values will take into account the following parameters” for clarity and to eliminate unnecessary words. The factors in clauses (i)–(iv) are applied to revisions in fuel economy values for clarity and consistency with the authority of the Secretary under the source provisions. In clause (iv), the words “patterns of use” are substituted for “driving patterns” for clarity.
 
-In subsection (b)(1), before clause (A), the text of 15:2003(b)(2)(A)–(D) is omitted as executed. In clause (A), the words “is imported . . . more than 30 days after” are substituted for “is not imported . . . prior to the expiration of 30 days following” for clarity and for consistency in the revised chapter. The words “The EPA Administrator may prescribe rules for purposes of carrying out this subparagraph” are omitted as surplus because of the authority of the Administrator to prescribe regulations under section 32910(d) of the revised title. The term “regulations” is used in section 32910(d) instead of “rules” for consistency in the revised title and because the terms are synonymous. In clause (B), the words “which is imported by a manufacturer in model year 1978 or any subsequent year, as the case may be, and” are omitted as surplus.
+In subsection (b)(1), before clause (A), the text of 15:2003(b)(2)(A)–(D) is omitted as executed. In clause (A), the words “is imported . . . more than 30 days after” are substituted for “is not imported . . . prior to the expiration of 30 days following” for clarity and for consistency in the revised chapter. The words “The EPA Administrator may prescribe rules for purposes of carrying out this subparagraph” are omitted as surplus because of the authority of the Administrator to prescribe regulations under section 32910(d) of the revised title. The term “regulations” is used in section 32910(d) instead of “rules” for consistency in the revised title and because the terms are synonymous. In clause (B), the words “which is imported by a manufacturer inmodel year 1978 or any subsequent year, as the case may be, and” are omitted as surplus.
 
 In subsection (b)(2)(A), before clause (i), the words “Except as provided in paragraphs (4) and (5) of this subsection” are added for clarity. The words “the Administrator shall make separate calculations” are substituted for “In calculating average fuel economy . . . the EPA Administrator shall separate the total number of passenger automobiles manufactured by a manufacturer into the following two categories” and “The EPA Administrator shall calculate the average fuel economy of each such separate category” to eliminate unnecessary words. In clauses (i) and (ii), the reference in the parenthetical to paragraph (3) is substituted for the reference in the source to paragraph (3), which apparently should have been a reference to paragraph (4). The text of 15:2003(b)(1)(A) (words in parentheses) and (B) (words in parentheses) is omitted as executed.
 
@@ -226,6 +204,10 @@ This makes conforming amendments necessary because of the restatement of 15:2003
 
 #### Amendments
 
+2007—Subsec. (b)(1)(B). Pub. L. 110–140, §104(b)(2), inserted “, except for the purposes of section 32903” before period at end.
+
+Subsec. (b)(6) to (8). Pub. L. 110–140, §113(a), struck out pars. (6) to (8) which related to exemption from separate calculations requirement, judicial review of denial of petition, and unavailability of section 32903(a) and (b)(2) credits during model year when exemption is effective, respectively.
+
 1996—Subsec. (b)(6)(C). Pub. L. 104–287 substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
 
 1994—Subsec. (b)(1). Pub. L. 103–429, §6(36)(B), added par. (1) and struck out former par. (1) which read as follows: “In this subsection—
@@ -256,7 +238,19 @@ Subsec. (b)(6)(A). Pub. L. 103–429, §6(36)(D), substituted “paragraph (1)(A
 
 Subsec. (b)(7), (8). Pub. L. 103–429, §6(36)(A), redesignated pars. (5) and (6) as (7) and (8), respectively.
 
-#### Change of Name
+#### Effective Date of 2007 Amendment
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over mattersrelating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+#### Effect of Repeal on Existing Exemptions
+
+Pub. L. 110–140, title I, §113(b), (c), Dec. 19, 2007, 121 Stat. 1508, provided that:
+
+“(b)
+
+Effect of Repeal on Existing Exemptions.—Any exemption granted under section 32904(b)(6) of title 49, United States Code, prior to the date of the enactment of this Act \[Dec. 19, 2007\] shall remain in effect subject to its terms through model year 2013.
+
+“(c)
+
+Accrual and Use of Credits.—Any manufacturer holding an exemption under section 32904(b)(6) of title 49, United States Code, prior to the date of the enactment of this Act may accrue and use credits under sections 32903 and 32905 of such title beginning with model year 2011.”
 

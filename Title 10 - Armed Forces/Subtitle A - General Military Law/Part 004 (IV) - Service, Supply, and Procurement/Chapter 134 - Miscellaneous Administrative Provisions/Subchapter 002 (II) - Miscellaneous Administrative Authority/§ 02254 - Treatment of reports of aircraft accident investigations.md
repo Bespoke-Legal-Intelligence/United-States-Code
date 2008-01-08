@@ -8,7 +8,7 @@ In General.—(1) Whenever the Secretary of a military department conducts an ac
 
 (b)
 
-Public Disclosure of Certain Accident Investigation Information.—(1) The Secretary concerned, upon request, shall publicly disclose unclassified tapes, scientific reports, and other factual information pertinent to an aircraft accident investigation, before the release of thefinal accident investigation report relating to the accident, if the Secretary concerned determines—
+Public Disclosure of Certain Accident Investigation Information.—(1) The Secretary concerned, upon request, shall publicly disclose unclassified tapes, scientific reports, and other factual information pertinent to an aircraft accident investigation, before the release of the final accident investigation report relating to the accident, if the Secretary concerned determines—
 
 &emsp;(A) that such tapes, reports, or other information would be included within and releasable with the final accident investigation report; and
 

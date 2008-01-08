@@ -102,7 +102,7 @@ In addition to the authority conferred on the Chief Executive Officer under any 
 
 &emsp;(9) consolidate the reports to Congress required under the national service laws, and the report required under section 9106 of title 31, into a single report, and submit the report to Congress on an annual basis; and
 
-&emsp;(10) generally perform such functions and take such steps consistent with the objectives and provisions of the national service laws, as the Chief Executive Officer determines to be necessary or appropriate to carry out such provisions.
+&emsp;(10) generally perform such functions and take such steps consistent with the objectives and provisions of the national service laws, asthe Chief Executive Officer determines to be necessary or appropriate to carry out such provisions.
 
 #### (d) Delegation
 
@@ -184,7 +184,7 @@ In an action described in subsection (c)(7) of this section—
 
 #### References in Text
 
-Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452,as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452, as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Public Law 91–378, referred to in subsec. (b)(10)(A), is Pub. L. 91–378, Aug. 13, 1970, 84 Stat. 794, as amended, popularly known as the Youth Conservation Corps Act of 1970, which is classified generally to chapter 37 (§1701 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 16 and Tables.
 

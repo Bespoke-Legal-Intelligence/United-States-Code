@@ -48,7 +48,7 @@
 
 #### (7) Final committee report
 
-&emsp;If the committee is not terminated under paragraph (6), the rulemaking committee shall submit a report containing a proposed rule by not later than 1 month before the target date of publication.
+&emsp;If the committee is not terminated under paragraph (6), the rulemaking committee shallsubmit a report containing a proposed rule by not later than 1 month before the target date of publication.
 
 #### (8) Interim, final effect
 

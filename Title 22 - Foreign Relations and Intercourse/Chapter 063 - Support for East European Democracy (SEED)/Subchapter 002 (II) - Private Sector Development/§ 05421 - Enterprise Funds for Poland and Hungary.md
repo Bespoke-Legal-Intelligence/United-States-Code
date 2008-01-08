@@ -82,7 +82,7 @@ Funds appropriated to the President pursuant to subsection (b) of this section s
 
 #### (g) Matters to be considered by Enterprise Funds
 
-In carrying out this section, each Enterprise Fund shall take into account such considerations as internationally recognized worker rights and other internationally recognized human rights, environmental factors, United States economic and employment effects, and the likelihood of commercial viability of the activity receiving assistance from the Enterprise Fund.
+In carrying out this section, each Enterprise Fund shall take into account such considerations as internationally recognized worker rights and other internationally recognized human rights, environmental factors, United States economic and employment effects, andthe likelihood of commercial viability of the activity receiving assistance from the Enterprise Fund.
 
 #### (h) Retention of interest
 
@@ -136,7 +136,7 @@ The Enterprise Funds shall ensure—
 
 #### (p) Annual reports
 
-Each Enterprise Fund shall publish an annual report, which shall include a comprehensive anddetailed description of the Enterprise Fund's operations, activities, financial condition, and accomplishments under this section for the preceding fiscal year. This report shall be published not later than January 31 each year, beginning in 1991.
+Each Enterprise Fund shall publish an annual report, which shall include a comprehensive and detailed description of the Enterprise Fund's operations, activities, financial condition, and accomplishments under this section for the preceding fiscal year. This report shall be published not later than January 31 each year, beginning in 1991.
 
 (Pub. L. 101–179, title II, §201, Nov. 28, 1989, 103 Stat. 1305; Pub. L. 104–107, title II, \[(v)\], Feb. 12, 1996, 110 Stat. 714; Pub. L. 105–118, title V, §588, Nov. 26, 1997, 111 Stat. 2438; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

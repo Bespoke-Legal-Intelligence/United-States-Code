@@ -1,6 +1,6 @@
 ### §312. Inspector General
 
-(a) There is in the Department an Inspector General, who is appointed by the President, by and with the advice and consent of the Senate, as provided in the Inspector General Act of 1978 (5 U.S.C. App.). The Inspector General performs the functions, has the responsibilities, and exercises the powers specified in that Act.
+(a) There is in the Department an Inspector General, who is appointed by the President, by and with the advice and consent of the Senate, as provided in the Inspector General Act of 1978 (5 U.S.C. App.). The Inspector General performsthe functions, has the responsibilities, and exercises the powers specified in that Act.
 
 (b)(1) The Secretary shall provide for not less than 40 full-time positions in the Office of Inspector General in addition to the number of such positions in that office on March 15, 1989.
 

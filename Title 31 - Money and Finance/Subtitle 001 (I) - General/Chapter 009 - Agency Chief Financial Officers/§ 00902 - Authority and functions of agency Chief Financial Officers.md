@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(C) the audit report transmitted to the head of the agency under section 3521(f) of this title;
 
-&emsp;&emsp;(D) a summary of the reports on internal accounting and administrative control systems submitted to the President and the Congress under the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public Law 97–255); and
+&emsp;&emsp;(D) a summary of the reports on internal accounting and administrative control systems submitted to the President and theCongress under the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public Law 97–255); and
 
 &emsp;&emsp;(E) other information the head of the agency considers appropriate to fully inform the President and the Congress concerning the financial management of the agency;
 

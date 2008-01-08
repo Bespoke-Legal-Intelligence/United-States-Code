@@ -18,7 +18,7 @@ Any interim regulation necessary or appropriate to carry out any action proposed
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay RoundAgreements Act. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of this title and Tables.
 
 #### Uruguay Round Agreements: Entry Into Force
 

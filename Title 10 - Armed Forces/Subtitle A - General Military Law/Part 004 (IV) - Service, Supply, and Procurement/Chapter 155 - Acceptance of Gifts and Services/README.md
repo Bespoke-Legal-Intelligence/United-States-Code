@@ -65,7 +65,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to provide t
 
 “(b)
 
-Authority.—A member of the Armed Forces described in subsection (c) may accept gifts as provided inthe regulations authorized in subsection (a), notwithstanding section 7353 of title 5, United States Code.
+Authority.—A member of the Armed Forces described in subsection (c) may accept gifts as provided in the regulations authorized in subsection (a), notwithstanding section 7353 of title 5, United States Code.
 
 “(c)
 

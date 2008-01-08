@@ -24,7 +24,7 @@ Minimum Requirements of Inspection Standards.—The standards established under 
 
 (c)
 
-Training Program for Bridge Inspectors.—The Secretary, in cooperation with theState transportation departments, shall establish a program designed to train appropriate governmental employees to carry out highway bridge inspections. Such training program shall be revised from time to time to take into account new and improved techniques.
+Training Program for Bridge Inspectors.—The Secretary, in cooperation with the State transportation departments, shall establish a program designed to train appropriate governmental employees to carry out highway bridge inspections. Such training program shall be revised from time to time to take into account new and improved techniques.
 
 (d)
 

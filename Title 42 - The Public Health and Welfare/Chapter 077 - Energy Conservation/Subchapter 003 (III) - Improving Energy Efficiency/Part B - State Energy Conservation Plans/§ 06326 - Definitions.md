@@ -24,7 +24,7 @@ As used in this part—
 
 &emsp;&emsp;(B) 15 years after the purchase and installation of such measure,
 
-> &emsp;whichever is less. Such term does not include (i) the purchase or installation of any appliance, (ii) any conversion from one fuel or source of energy to another which is of a type which the Secretary, by rule, determines is ineligible on the basis that such type of conversion is inconsistent with national policy with respect to energy conservation or reduction of imports of fuels, or (iii) any measure, or type of measure, which the Secretary determinesdoes not have as its primary purpose an improvement in efficiency of energy use.
+> &emsp;whichever is less. Such term does not include (i) the purchase or installation of any appliance, (ii) any conversion from one fuel or source of energy to another which is of a type which the Secretary, by rule, determines is ineligible on the basis that such type of conversion is inconsistent with national policy with respect to energy conservation or reduction of imports of fuels, or (iii) any measure, or type of measure, which the Secretary determines does not have as its primary purpose an improvement in efficiency of energy use.
 
 &emsp;(5) The term “industrial plant” means any fixed equipment or facility which is used in connection with, or as part of, any process or system for industrial production or output.
 

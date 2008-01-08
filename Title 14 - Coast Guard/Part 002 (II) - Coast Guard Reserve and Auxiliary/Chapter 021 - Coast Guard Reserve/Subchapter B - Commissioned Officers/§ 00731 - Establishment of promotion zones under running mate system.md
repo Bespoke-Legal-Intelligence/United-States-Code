@@ -20,7 +20,7 @@ Consideration for Promotion.—If promotion zones are determined as authorized u
 
 (c)
 
-Consideration of Officers Below the Zone.—If the Secretary authorizes the selection of officers for promotion from below the promotion zone in accordance with section 729(d)(3) of this title, the number of officers to be considered from below the zone may be established through the application of the running mate system under this subchapter or otherwise asthe Secretary determines to be appropriate to meet the needs of the Coast Guard.
+Consideration of Officers Below the Zone.—If the Secretary authorizes the selectionof officers for promotion from below the promotion zone in accordance with section 729(d)(3) of this title, the number of officers to be considered from below the zone may be established through the application of the running mate system under this subchapter or otherwise as the Secretary determines to be appropriate to meet the needs of the Coast Guard.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1011; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(1), (2)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–100; Pub. L. 107–295, title IV, §411(b), Nov. 25, 2002, 116 Stat. 2118.)
 

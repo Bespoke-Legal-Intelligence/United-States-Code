@@ -8,10 +8,6 @@ The Administrator of the agency primarily responsible for administering subchapt
 
 References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date
 
 Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.

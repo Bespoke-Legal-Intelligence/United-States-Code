@@ -10,7 +10,7 @@
 
 &emsp;(4) encourage the development and maintenance of an adequate data base for human resources in science, engineering, and technology, including the development of appropriate models to forecast future manpower requirements, and assess the impact of major governmental and public programs on human resources and their utilization;
 
-&emsp;(5) initiate studies and analyses, including systems analyses and technology assessments, of alternatives available for the resolution ofcritical and emerging national and international problems amendable to the contributions of science and technology and, insofar as possible, determine and compare probable costs, benefits, and impacts of such alternatives;
+&emsp;(5) initiate studies and analyses, including systems analyses and technology assessments, of alternatives available for the resolution of critical and emerging national and international problems amendable to the contributions of science and technology and, insofar as possible, determine and compare probable costs, benefits, and impacts of such alternatives;
 
 &emsp;(6) advise the President on the extent to which the various scientific and technological programs, policies, and activities of the Federal Government are likely to affect the achievement of the priority goals of the Nation as set forth in section 6601(b) of this title;
 
@@ -36,7 +36,7 @@
 
 (B) The Panel shall perform such functions as the Chairman may prescribe, and shall meet at the call of the Chairman.
 
-(4) Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5, including traveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b) <sup>2</sup> of title 5 for persons in government service employed intermittently.
+(4) Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5, includingtraveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b) <sup>2</sup> of title 5 for persons in government service employed intermittently.
 
 (Pub. L. 94–282, title II, §205, May 11, 1976, 90 Stat. 464; Pub. L. 97–375, title II, §215(2), (4), Dec. 21, 1982, 96 Stat. 1826, 1827.)
 

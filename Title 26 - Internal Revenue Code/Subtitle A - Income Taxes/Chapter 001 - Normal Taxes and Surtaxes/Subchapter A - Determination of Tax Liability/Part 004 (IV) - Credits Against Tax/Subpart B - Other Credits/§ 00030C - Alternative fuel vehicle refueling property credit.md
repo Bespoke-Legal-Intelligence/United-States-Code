@@ -6,7 +6,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (b) Limitation
 
-The credit allowed under subsection (a) with respect to any alternative fuel vehicle refueling property shall not exceed—
+The credit allowed under subsection (a) with respect to all qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year at a location shall not exceed—
 
 &emsp;(1) $30,000 in the case of a property of a character subject to an allowance for depreciation, and
 
@@ -14,17 +14,19 @@ The credit allowed under subsection (a) with respect to any alternative fuel veh
 
 #### (c) Qualified alternative fuel vehicle refueling property
 
-#### (1) In general
+For purposes of this section, the term “qualified alternative fuel vehicle refueling property” has the same meaning as the term “qualified clean-fuel vehicle refueling property” would have under section 179A if—
 
-&emsp;Except as provided in paragraph (2), the term “qualified alternative fuel vehicle refueling property” has the meaning given to such term by section 179A(d),<sup>1</sup> but only with respect to any fuel—
+&emsp;(1) paragraph (1) of section 179A(d) did not apply to property installed on property whichis used as the principal residence (within the meaning of section 121) of the taxpayer, and
 
-&emsp;&emsp;(A) at least 85 percent of the volume of which consists of one or more of the following: ethanol, natural gas, compressed natural gas, liquefied natural gas, liquefied petroleum gas, or hydrogen, or
+&emsp;(2) only the following were treated as clean-burning fuels for purposes of section 179A(d):
 
-&emsp;&emsp;(B) any mixture of biodiesel (as defined in section 40A(d)(1)) and diesel fuel (as defined in section 4083(a)(3)), determined without regard to any use of kerosene and containing at least 20 percent biodiesel.
+&emsp;&emsp;(A) Any fuel at least 85 percent of the volume of which consists of one or more of the following: ethanol, natural gas, compressed natural gas, liquified natural gas, liquefied petroleum gas, or hydrogen.
 
-#### (2) Residential property
+&emsp;&emsp;(B) Any mixture—
 
-&emsp;In the case of any property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, paragraph (1) of section 179A(d) shall not apply.
+&emsp;&emsp;&emsp;(i) which consists of two or more of the following: biodiesel (as defined in section 40A(d)(1)), diesel fuel (as defined in section 4083(a)(3)), or kerosene, and
+
+&emsp;&emsp;&emsp;(ii) at least 20 percent of the volume of which consists of biodiesel (as so defined) determined without regard to any kerosene in such mixture.
 
 #### (d) Application with other credits
 
@@ -76,17 +78,45 @@ This section shall not apply to any property placed in service—
 
 &emsp;(2) in the case of any other property, after December 31, 2009.
 
-(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636.)
-
-#### References in Text
-
-Section 179A(d), referred to in subsec. (c)(1), defines “qualified clean-fuel vehicle refueling property”, not “qualified alternative fuel vehicle refueling property”.
+(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479.)
 
 #### Amendments
+
+2007—Subsec. (b). Pub. L. 110–172, §6(b)(1), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The credit allowed under subsection (a) with respect to any alternative fuel vehicle refueling property shall not exceed—”.
+
+Subsec. (c). Pub. L. 110–172, §6(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the term ‘qualified alternative fuel vehicle refueling property’ has the meaning given to such term by section 179A(d), but only with respect to any fuel—
+
+&emsp;“(A) at least 85 percent of the volume of which consists of one or more of the following: ethanol, natural gas, compressed natural gas, liquefied natural gas, liquefied petroleum gas, or hydrogen, or
+
+&emsp;“(B) any mixture of biodiesel (as defined in section 40A(d)(1)) and diesel fuel (as defined in section 4083(a)(3)), determined without regard to any use of kerosene and containing at least 20 percent biodiesel.
+
+“(2)
+
+Residential property.—In the case of any property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, paragraph (1) of section 179A(d) shall not apply.”
 
 2005—Subsec. (d)(2)(A). Pub. L. 109–135, §412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
 Subsec. (e)(2). Pub. L. 109–135, §402(k), inserted at end “For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–172, §6(e), Dec. 29, 2007, 121 Stat. 2481, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 41, 45J, 4041, 4042, 4082, and 6430 of this title, and enacting provisions set out as a note under section 6430 of this title\] shall take effect as if included in the provisions of the Energy Policy Act of 2005 \[Pub. L. 109–58\] to which they relate.
+
+“(2)
+
+Nonapplication of exemption for off-highway business use.—The amendment made by subsection\(d)(3) \[amending section 4041 of this title\] shall apply to fuel sold for use or used after the date of the enactment of this Act \[Dec. 29, 2007\].
+
+“(3)
+
+Amendment made by the safetea–lu.—The amendment made by subsection (d)(2)(C)(ii) \[amending section 4082 of this title\] shall take effect as if included in section 11161 of the SAFETEA–LU \[Pub. L. 109–59\].”
 
 #### Effective Date of 2005 Amendment
 

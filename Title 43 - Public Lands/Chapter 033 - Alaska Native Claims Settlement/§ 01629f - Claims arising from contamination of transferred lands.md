@@ -16,5 +16,9 @@
 
 (Pub. L. 92–203, §40, as added Pub. L. 104–42, title I, §103, Nov. 2, 1995, 109 Stat. 354.)
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “means a”.</i>
 

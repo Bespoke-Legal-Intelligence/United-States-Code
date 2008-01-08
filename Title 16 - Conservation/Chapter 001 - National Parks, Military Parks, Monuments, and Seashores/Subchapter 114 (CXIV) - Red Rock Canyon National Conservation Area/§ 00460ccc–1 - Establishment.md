@@ -10,7 +10,7 @@
 
 #### (b) Legal description
 
-(1) As soon as practicable after November 16, 1990, the Secretary shall file a legal description of the conservation area established by subsection (a) of this section with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives, and such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographic errors in <sup>1</sup> legal description.
+(1) As soon as practicable after November 16, 1990, the Secretary shall file a legal description of the conservation area established by subsection (a) of this section with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives, and such legal description shall have the same force and effect as if included inthis subchapter, except that the Secretary may correct clerical and typographic errors in <sup>1</sup> legal description.
 
 (2) The legal description described in paragraph (1) shall be on file and available for public inspection in the office of the Director of the Bureau of Land Management, Department of the Interior.
 
@@ -22,7 +22,7 @@ In case of any discrepancy between or among the map described in subsection (a) 
 
 #### References in Text
 
-The Red Rock Canyon National Conservation Area Protection and Enhancement Act of 2002, referred to in subsec. (a)(2), is title I of Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 1995, which amended this section and enactedprovisions set out as a note under section 460ccc–4 of this title. For complete classification of this Act to the Code, see Tables.
+The Red Rock Canyon National Conservation Area Protection and Enhancement Act of 2002, referred to in subsec. (a)(2), is title I of Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 1995, which amended this section and enacted provisions set out as a note under section 460ccc–4 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -34,7 +34,7 @@ The Red Rock Canyon National Conservation Area Protection and Enhancement Act of
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### Potential Conservation Lands
 

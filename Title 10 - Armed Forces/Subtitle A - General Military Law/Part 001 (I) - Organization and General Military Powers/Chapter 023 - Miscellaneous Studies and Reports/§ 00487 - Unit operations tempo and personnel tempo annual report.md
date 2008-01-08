@@ -20,7 +20,7 @@ Specific Requirements.—(1) Until such time as the Secretary of Defense develop
 
 &emsp;(B) the number of members who received each rate of allowance paid;
 
-&emsp;(C) the number of members who received the allowance for one month, for two months, for three months, for four months, for five months, for six months, and for more than six months; and
+&emsp;(C) the number of members who received the allowance for one month, for two months, forthree months, for four months, for five months, for six months, and for more than six months; and
 
 &emsp;(D) the total amount spent on the allowance.
 

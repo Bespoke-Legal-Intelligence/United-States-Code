@@ -36,7 +36,7 @@ If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221
 
 #### (A) Federal employees
 
-&emsp;&emsp;In the case of remuneration received from the United States or a wholly-owned instrumentality thereof during any calendar year, each head of a Federal agency or instrumentality who makes a return pursuant to section 3122 and each agent, designated by the head of a Federal agency or instrumentality, who makes a return pursuant to such section shall, for purposes of this subsection, be deemed a separate employer; and the term “wages” includes for purposes of this subsection the amount, not to exceed an amount equal to the contribution and benefit base (as determined under section 230 of the Social Security Act) for any calendar year with respect to which such contribution and benefit base is effective, determined by each such head or agent as constituting wages paid to an employee.
+&emsp;&emsp;In the case of remuneration received from the United States or a wholly-owned instrumentality thereof during any calendar year, each head of a Federal agency or instrumentality who makes a return pursuant to section 3122 and each agent, designated by the head of a Federal agency or instrumentality, who makes a return pursuant to such section shall, for purposes of this subsection, be deemed a separate employer; and the term“wages” includes for purposes of this subsection the amount, not to exceed an amount equal to the contribution and benefit base (as determined under section 230 of the Social Security Act) for any calendar year with respect to which such contribution and benefit base is effective, determined by each such head or agent as constituting wages paid to an employee.
 
 #### (B) State employees
 

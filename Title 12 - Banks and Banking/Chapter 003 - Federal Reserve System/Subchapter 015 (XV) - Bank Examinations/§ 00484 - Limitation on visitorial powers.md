@@ -12,7 +12,7 @@ R.S. §5240 derived from act June 3, 1864, ch. 106, §54, 13 Stat. 116, which wa
 
 Section is comprised of sixth par. of R.S. §5240, as amended. See Codification note set out under section 481 of this title.
 
-Section 412 of Pub. L. 97–320, set out in the credit of this section, was amended by section 23(a) of Pub. L. 97–457 to correct an error in the directory language of section 412 of Pub. L. 97–320. That amendment involved only directory language and not the content of the text being amended by Pub. L. 97–320 so no change in thetext of this section resulted from the amendment by Pub. L. 97–457.
+Section 412 of Pub. L. 97–320, set out in the credit of this section, was amended by section 23(a) of Pub. L. 97–457 to correct an error in the directory language of section 412 of Pub. L. 97–320. That amendment involved only directory language and not the content of the text being amended by Pub. L. 97–320 so no change in the text of this section resulted from the amendment by Pub. L. 97–457.
 
 #### Amendments
 

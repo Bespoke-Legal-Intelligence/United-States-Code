@@ -8,7 +8,7 @@
 
 #### (b) Mission
 
-The mission of the National Counterintelligence Executive shall be to serve as the head of national counterintelligence for the United States Government.
+The mission of the National Counterintelligence Executive shall be to serve as thehead of national counterintelligence for the United States Government.
 
 #### (c) Duties
 

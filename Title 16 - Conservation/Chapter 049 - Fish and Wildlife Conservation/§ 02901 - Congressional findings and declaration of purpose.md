@@ -20,7 +20,7 @@ It is the purpose of this chapter—
 
 &emsp;(1) to provide financial and technical assistance to the States for the development, revision, and implementation of conservation plans and programs for nongame fish and wildlife; and
 
-&emsp;(2) to encourage all Federal departments and agencies to utilize their statutory and administrative authority, to the maximum extent practicable and consistent with each agency's statutory responsibilities, to conserve and to promote conservation of nongame fish and wildlife and their habitats, in furtherance of the provisions of this chapter.
+&emsp;(2) to encourage all Federal departments and agencies to utilize their statutory and administrative authority, to the maximum extent practicable and consistent with each agency's statutory responsibilities, to conserve and to promote conservation of nongame fish andwildlife and their habitats, in furtherance of the provisions of this chapter.
 
 (Pub. L. 96–366, §2, Sept. 29, 1980, 94 Stat. 1322.)
 

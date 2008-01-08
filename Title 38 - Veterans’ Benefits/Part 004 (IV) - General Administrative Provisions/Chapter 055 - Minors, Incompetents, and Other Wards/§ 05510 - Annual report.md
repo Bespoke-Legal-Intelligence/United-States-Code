@@ -4,7 +4,7 @@ The Secretary shall include in the Annual Benefits Report of the Veterans Benefi
 
 &emsp;(1) The number of beneficiaries in each category (veteran, surviving spouse, child, adult disabled child, or parent).
 
-&emsp;(2) The types of benefit being paid (compensation, pension, dependency and indemnity compensation, death pension or benefits payable to a disabled child under chapter 18 of this title).
+&emsp;(2) The types of benefit being paid (compensation, pension, dependency and indemnitycompensation, death pension or benefits payable to a disabled child under chapter 18 of this title).
 
 &emsp;(3) The total annual amounts and average annual amounts of benefits paid to fiduciaries for each category and type of benefit.
 

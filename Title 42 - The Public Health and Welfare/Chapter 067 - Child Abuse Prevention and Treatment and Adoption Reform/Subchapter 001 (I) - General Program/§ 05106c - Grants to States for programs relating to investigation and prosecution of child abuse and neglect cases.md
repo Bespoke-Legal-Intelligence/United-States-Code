@@ -72,7 +72,7 @@ Before a State receives assistance under this section, and at three year interva
 
 &emsp;Subject to the provisions of paragraph (2), before a State receives assistance under this section, a State shall adopt recommendations of the State task force in each of the following categories—
 
-&emsp;&emsp;(A) investigative, administrative, and judicial handling of cases of child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal, in a manner which reduces the additional trauma to the child victim and the victim's family and which also ensures procedural fairness to the accused;
+&emsp;&emsp;(A) investigative, administrative, and judicial handling of cases of child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal, in a manner which reduces the additional trauma to the childvictim and the victim's family and which also ensures procedural fairness to the accused;
 
 &emsp;&emsp;(B) experimental, model and demonstration programs for testing innovative approaches and techniques which may improve the prompt and successful resolution of civil and criminal court proceedings or enhance the effectiveness of judicial and administrative action in child abuse and neglect cases, particularly child sexual abuse and exploitation cases, including the enhancement of performance of court-appointed attorneys and guardians ad litem for children, and which also ensure procedural fairness to the accused; and
 
@@ -136,7 +136,7 @@ Subsec. (e)(1)(B). Pub. L. 102–295, §116(a)(6)(B), which directed substitutio
 
 Subsec. (e)(1)(C). Pub. L. 102–295, §116(a)(6)(C), inserted “, protocols” after “regulations” and “and exploitation” after “sexual abuse”.
 
-1989—Subsec. (b)(1). Pub. L. 101–126, §3(b)(5), made technical amendments to references to section 5106a of this title to reflect renumbering of corresponding section of original act.
+1989—Subsec. (b)(1). Pub. L. 101–126, §3(b)(5), made technical amendments to references to section 5106a ofthis title to reflect renumbering of corresponding section of original act.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ The Secretary of the Interior (hereinafter referred to in this subchapter as the
 
 #### (b) Plans
 
-Any such project in the Washington conservation area must be in accordance with a comprehensive enhancement plan developed and agreed to by the State of Washington and the Washington tribal coordinating body within 18 months after December 22, 1980. Any enhancement project in the Columbia River conservation area must be in accordance with a comprehensive enhancement plan developed and agreed to by the State of Washington, the State of Oregon, and the Columbia River tribal coordinating body within 18 months after December 22, 1980. Such plans must be approved by the Secretary, in consultation with the Secretary of Commerce, as provided in this subchapter. The States shall solicit and consider the comments and views of interested commercial and recreational fishermen, and other interested parties, in developing the comprehensive enhancement plan.
+Any such project in the Washington conservation area must be in accordance with a comprehensive enhancement plan developed and agreed to by the State of Washington and the Washington tribal coordinating body within 18 months after December 22, 1980. Any enhancement project in the Columbia River conservation area must be in accordance with a comprehensive enhancement plan developed and agreed to by the State of Washington, the State of Oregon, and the Columbia River tribal coordinating body within 18 months after December 22, 1980. Such plans must be approved by the Secretary, in consultation with the Secretary of Commerce, as provided in this subchapter. The States shallsolicit and consider the comments and views of interested commercial and recreational fishermen, and other interested parties, in developing the comprehensive enhancement plan.
 
 #### (c) Scope
 
@@ -44,7 +44,7 @@ Each comprehensive enhancement plan shall include such standards, restrictions, 
 
 &emsp;(D) provide a copy of the plan to and consult with the Secretary of State and the Secretary of Commerce, with respect to the effect of such plan on any international fisheries; and
 
-&emsp;(E) determine whether the State of Washington or the State of Oregon, as appropriate, andthe treaty tribes, acting through their chosen agency or agencies, have the authority to carry out the plan in accordance with this chapter, and in accordance with standards included within the plan.
+&emsp;(E) determine whether the State of Washington or the State of Oregon, as appropriate, and the treaty tribes, acting through their chosen agency or agencies, have the authority to carry out the plan in accordance with this chapter, and in accordance with standards included within the plan.
 
 (3) The Secretary, in consultation with the Secretary of Commerce, shall not approve a comprehensive enhancement plan unless the State of Washington or the State of Oregon, or both, as appropriate, and the treaty tribes, acting through the appropriate tribal coordinating body, agree not to undertake any salmon or steelhead enhancement project, using funds provided pursuant to this subchapter or otherwise, that would be inconsistent with the plan.
 

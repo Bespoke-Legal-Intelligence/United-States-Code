@@ -12,7 +12,7 @@
 
 #### (b) Determinations by President respecting number of admissions for humanitarian concerns
 
-If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a) of this section, the President may fix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by thePresident after the appropriate consultation provided under this subsection.
+If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a) of this section, the President may fix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after the appropriate consultation provided under this subsection.
 
 #### (c) Admission by Attorney General of refugees; criteria; admission status of spouse or child; applicability of other statutory requirements; termination of refugee status of alien, spouse or child
 
@@ -128,7 +128,7 @@ Pub. L. 106–484, Nov. 9, 2000, 114 Stat. 2195, as amended by Pub. L. 107–258
 
 “(a)
 
-Asylum for Eligible Aliens.—Notwithstanding any other provision of law, the Attorney General shallgrant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
+Asylum for Eligible Aliens.—Notwithstanding any other provision of law, the Attorney General shall grant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
 
 “(b)
 
@@ -210,7 +210,7 @@ In general.—Except as provided in subparagraph (B), the term ‘American Korea
 
 &emsp;&emsp;“(B)
 
-Exclusion.—Such term does not include an individual with respect to whom it is officially determined under section 552(c) of title 37, United States Code, that such individual is officially absent from such individual's post of duty without authority.
+Exclusion.—Such term does not include an individual with respect to whom it is officially determined under section 552(c) of title 37, UnitedStates Code, that such individual is officially absent from such individual's post of duty without authority.
 
 &emsp;“(2)
 
@@ -280,7 +280,7 @@ Missing status.—The term ‘missing status’, with respect to the Persian Gul
 
 &emsp;“(3)
 
-Persian gulf war.—The term ‘Persian Gulf War’ means the period beginning on August 2, 1990,and ending on the date thereafter prescribed by Presidential proclamation or by law.”
+Persian gulf war.—The term ‘Persian Gulf War’ means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.”
 
 #### “SEC. 4. BROADCASTING INFORMATION ON THE ‘BRING THEM HOME ALIVE’ PROGRAM.
 
@@ -340,7 +340,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[No
 
 #### Establishing Categories of Aliens for Purposes of Refugee Determinations
 
-Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, §534(m)(1), Nov. 14, 2005, 119 Stat. 2211, provided that:
+Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, §534(m)(1), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(1), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(1), Dec. 26, 2007, 121 Stat. 2329, provided that:
 
 “(a)
 
@@ -364,7 +364,7 @@ Establishment of Categories.—
 
 &emsp;“(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
-&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, and 2006 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, and 2008 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 “(c)
 
@@ -378,11 +378,11 @@ Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Eac
 
 Period of Application.—
 
-&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2006.
+&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2008.
 
-&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2006.
+&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2008.
 
-&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2006.”
+&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2008.”
 
 \[Pub. L. 109–102, §534(m)(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting “2005, and 2006” for “and 2005”, could not be executed.\]
 
@@ -396,7 +396,7 @@ Period of Application.—
 
 #### El Salvadoran Refugees
 
-Pub. L. 97–113, title VII, §731, Dec. 29, 1981, 95 Stat. 1557, provided that: “It is the sense of the Congress that the administration should continue to review, on a case-by-case basis, petitions for extended voluntary departure made by citizens of El Salvador who claim that they are subject to persecution in their homeland, and should take full account of the civil strife in El Salvador in making decisions on such petitions.”
+Pub. L. 97–113, title VII, §731, Dec. 29, 1981, 95 Stat. 1557, provided that: “It is the sense of the Congress thatthe administration should continue to review, on a case-by-case basis, petitions for extended voluntary departure made by citizens of El Salvador who claim that they are subject to persecution in their homeland, and should take full account of the civil strife in El Salvador in making decisions on such petitions.”
 
 #### Time for Determinations by President for Fiscal Year 1980
 
@@ -405,6 +405,8 @@ Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2008–1, Oct. 2, 2007, 72 F.R. 58991.
 
 Presidential Determination No. 2007–1, Oct. 11, 2006, 71 F.R. 64435.
 
@@ -462,7 +464,7 @@ Presidential Determination No. 80–28, Sept. 30, 1980, 45 F.R. 68365.
 
 #### Ex. Ord. No. 12208. Consultations on the Admission of Refugees
 
-Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R.34617; Ex. Ord. No. 13286, §49, Feb. 28, 2003, 68 F.R. 10628, provided:
+Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, §49, Feb. 28, 2003, 68 F.R. 10628, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 

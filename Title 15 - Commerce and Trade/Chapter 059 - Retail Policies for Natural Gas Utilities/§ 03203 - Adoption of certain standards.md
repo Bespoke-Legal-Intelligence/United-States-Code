@@ -6,7 +6,7 @@ Not later than 2 years after November 9, 1978 (or after October 24, 1992, in the
 
 &emsp;(1) adopt the standard established by subsection (b)(1) of this section, if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate and is consistent with otherwise applicable State law, and
 
-&emsp;(2) adopt the standards established by paragraphs (2), (3) and (4) of subsection (b) of this section, if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law.
+&emsp;(2) adopt the standards established by paragraphs (2), (3) <sup>2</sup> (4), (5), and (6) of subsection (b) of this section, if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law.
 
 > For purposes of any determination under paragraphs (1) and (2) and any review of such determination in any court under section 3207 of this title, the purposes of this chapter supplement State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
 
@@ -30,6 +30,34 @@ The following Federal standards are hereby established:
 
 &emsp;The rates charged by any State regulated gas utility shall be such that the utility's prudent investments in, and expenditures for, energy conservation and load shifting programs and for other demand-side management measures which are consistent with the findings and purposes of the Energy Policy Act of 1992 are at least as profitable (taking into account the income lost due to reduced sales resulting from such programs) as prudent investments in, and expenditures for, the acquisition or construction of supplies and facilities. This objective requires that (A) regulators link the utility's net revenues, at least in part, to the utility's performance in implementing cost-effective programs promoted by this section; and (B) regulators ensure that, for purposes of recovering fixed costs, including its authorized return, the utility's performance is not affected by reductions in its retail sales volumes.
 
+#### (5) Energy efficiency
+
+&emsp;Each natural gas utility shall—
+
+&emsp;&emsp;(A) integrate energy efficiency resources into the plans and planning processes of the natural gas utility; and
+
+&emsp;&emsp;(B) adopt policies that establish energy efficiency as a priority resource in the plans and planning processes of the natural gas utility.
+
+#### (6) Rate design modifications to promote energy efficiency investments
+
+#### (A) In general
+
+&emsp;&emsp;The rates allowed to be charged by a natural gas utility shall align utility incentives with the deployment of cost-effective energy efficiency.
+
+#### (B) Policy options
+
+&emsp;&emsp;In complying with subparagraph (A), each State regulatory authority and each nonregulated utility shall consider—
+
+&emsp;&emsp;&emsp;(i) separating fixed-cost revenue recovery from the volume of transportation or sales service provided to the customer;
+
+&emsp;&emsp;&emsp;(ii) providing to utilities incentives for the successful management of energy efficiency programs, such as allowing utilities to retain a portion of the cost-reducing benefits accruing from the programs;
+
+&emsp;&emsp;&emsp;(iii) promoting the impact on adoption of energy efficiency as 1 of the goals of retail rate design, recognizing that energy efficiency must be balanced with other objectives; and
+
+&emsp;&emsp;&emsp;(iv) adopting rate designs that encourage energy efficiency for each customer class.
+
+> &emsp;&emsp;For purposes of applying the provisions of this chapter <sup>3</sup> to this paragraph, any reference in this chapter <sup>3</sup> to November 9, 1978, shall be treated as a reference to December 19, 2007.
+
 #### (c) Procedural requirements
 
 Each State regulatory authority (with respect to each gas utility for which it has ratemaking authority) and each nonregulated gas utility, within the 2-year period specified in subsection (a) of this section, shall adopt, pursuant to subsection (a) of this section, each of the standards established by subsection (b) of this section, or, with respect to any such standard which is not adopted, such authority or nonregulated gas utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
@@ -42,19 +70,31 @@ If a State regulatory authority implements a standard established by subsection 
 
 &emsp;(2) implement such standard so as to assure that utility actions would not provide such utilities with unfair competitive advantages over such small businesses.
 
-(Pub. L. 95–617, title III, §303, Nov. 9, 1978, 92 Stat. 3150; Pub. L. 102–486, title I, §115(b)–(d), Oct. 24, 1992, 106 Stat. 2803, 2804.)
+(Pub. L. 95–617, title III, §303, Nov. 9, 1978, 92 Stat. 3150; Pub. L. 102–486, title I, §115(b)–(d), Oct. 24, 1992, 106 Stat. 2803, 2804; Pub. L. 110–140, title V, §532(b), (c), Dec. 19, 2007, 121 Stat. 1666, 1667.)
 
 #### References in Text
 
 The Energy Policy Act of 1992, referred to in subsec. (b)(4), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare and Tables.
 
+#### Codification
+
+This chapter, referred to in subsec. (b)(6), was in the original “this subtitle”, which was translated as meaning title III of Pub. L. 95–617 to reflect the probable intent of Congress.
+
 #### Amendments
+
+2007—Subsec. (a)(2). Pub. L. 110–140, §532(c), which directed substitution of “(4), (5), and (6)” for “and (4)” insubsec. (a), was executed by making the substitution in subsec. (a)(2) to reflect the probable intent of Congress.
+
+Subsec. (b)(5), (6). Pub. L. 110–140, §532(b), added pars. (5) and (6).
 
 1992—Subsec. (a). Pub. L. 102–486, §115(d), in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b) of this section)” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
 
 Subsec. (b)(3), (4). Pub. L. 102–486, §115(b), added pars. (3) and (4).
 
 Subsec. (d). Pub. L. 102–486, §115(c), added subsec. (d).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Report to President and Congress on Encouragement of Integrated Resource Planning and Investments in Conservation and Energy Efficiency by Electric Utilities
 
@@ -65,4 +105,8 @@ Section 115(e) of Pub. L. 102–486 provided that: “The report under section 1
 The definitions of State and system cost in section 2602 of Title 16, Conservation, apply to this section.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. A comma probably should appear.</i>
+
+<i><sup>3</sup></i><i> See Codification note below.</i>
 

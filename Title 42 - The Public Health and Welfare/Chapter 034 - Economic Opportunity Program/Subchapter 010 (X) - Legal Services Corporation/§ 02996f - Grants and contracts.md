@@ -134,7 +134,7 @@ Section 2809 of this title, referred to in subsec. (c), was repealed by Pub. L. 
 
 Subsec. (a)(2)(C). Pub. L. 95–222, §9(b)(1), expanded existing provisions by requiring the Corporation to establish procedures for determining and implementing priorities and criteria for such priorities, and inserted provisions relating to appropriate training and support services.
 
-Subsec. (a)(5). Pub. L. 95–222, §9(c), in introductory text inserted prohibition relating to influencing the passage or defeat of State proposals by initiative referendum, in subpar. (A) substituted provisions relating to representation by an employee of a recipient for any eligible client, for provisions relating to representation by an attorney as attorney for any eligible client, and in subpar. (B) designated existing provision as cl. (i), inserted exception for testifying, drafting, or reviewing measures, and added cl. (ii).
+Subsec. (a)(5). Pub. L. 95–222, §9(c), in introductory text inserted prohibition relating to influencing the passage or defeat of State proposals by initiative referendum, in subpar. (A) substituted provisions relating to representation by an employee of a recipient for anyeligible client, for provisions relating to representation by an attorney as attorney for any eligible client, and in subpar. (B) designated existing provision as cl. (i), inserted exception for testifying, drafting, or reviewing measures, and added cl. (ii).
 
 Subsec. (a)(6). Pub. L. 95–222, §7(b), struck out provisions relating to prohibitions against political activities by staff attorneys of the types described under cls. (B) and (C) of this par. and section 1502(a) of title 5.
 

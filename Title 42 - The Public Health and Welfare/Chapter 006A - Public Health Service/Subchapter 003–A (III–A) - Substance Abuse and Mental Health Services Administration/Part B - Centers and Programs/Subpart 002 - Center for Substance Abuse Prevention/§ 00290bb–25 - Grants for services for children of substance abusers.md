@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) the entity will identify children who may be eligible for medical assistance under a State program under title XIX or XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\].
 
-&emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) <sup>1</sup> regarding the provision of services under paragraph (1), the requirement established in such subparagraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
+&emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) <sup>1</sup> regarding the provision of services under paragraph (1), the requirement established in suchsubparagraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
 &emsp;(ii) A determination by the Secretary of whether an organization referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard to whether the organization accepts voluntary donations regarding the provision of services to the public.
 
@@ -380,7 +380,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date
 
-Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Construction
 

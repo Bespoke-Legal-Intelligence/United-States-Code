@@ -36,7 +36,7 @@ Recovery plan.—Not later than 6 months after the date of enactment of this Act
 
 “(2)
 
-Annual report.—Not later than 2 years after the date of enactment of this Act, and annually thereafter, the Secretary of Commerce shall submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Resources on—
+Annual report.—Not later than 2 years after the date of enactment of this Act, and annually thereafter, the Secretary of Commerce shall submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Resources \[now Committee on Natural Resources\] on—
 
 &emsp;“(A) the actions taken under the recovery plan and other law relating to recovery of Klamath River Coho salmon, and how those actions are specifically contributing to its recovery;
 

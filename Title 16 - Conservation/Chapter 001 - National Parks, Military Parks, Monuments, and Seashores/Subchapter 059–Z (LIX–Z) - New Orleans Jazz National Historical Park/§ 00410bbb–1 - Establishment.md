@@ -24,7 +24,3 @@ The historical park shall consist of lands and interests therein as follows:
 
 Public Law 101–499, referred to in subsec. (b)(3)(B)(i), is Pub. L. 101–499, Nov. 2, 1990, 104 Stat. 1209, which is not classified to the Code.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

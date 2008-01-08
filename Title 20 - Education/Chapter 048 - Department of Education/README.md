@@ -88,6 +88,7 @@
 | [3487\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/Part%20B%20-%20General%20Administrative%20Provisions/%C2%A7%2003487%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93382%2C%20title%20II%2C%20%C2%A7271%28a%29%281%29%2C%20Oct.%2020%2C%201994%2C%20108%20Stat.%203929.md) | Repealed. |
 | [3488\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/Part%20B%20-%20General%20Administrative%20Provisions/%C2%A7%2003488%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [3489\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/Part%20B%20-%20General%20Administrative%20Provisions/%C2%A7%2003489%20-%20General%20extension%20of%20authorizations.md) | General extension of authorizations. |
+| [3490\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/Part%20B%20-%20General%20Administrative%20Provisions/%C2%A7%2003490%20-%20Potential%20financial%20interests%20or%20impaired%20objectivity%20of%20covered%20individuals%20or%20entities.md) | Potential financial interests or impaired objectivity of covered individuals or entities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -46,7 +46,7 @@
 
 #### (J) Noncompliance
 
-&emsp;&emsp;A lender, holder, or servicer designated under subparagraph (A) that fails to service loans or otherwise comply with applicable program regulations shall be considered in violation of the Federal False Claims Act.
+&emsp;&emsp;A lender, holder, or servicer designated under subparagraph (A) that fails to serviceloans or otherwise comply with applicable program regulations shall be considered in violation of the Federal False Claims Act.
 
 #### (b) Subrogation
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of Federal or State law, a debt that is a lo
 
 #### (2) Relationship to claim for payment
 
-&emsp;With respect to an eligible lender or holder that has commenced an action pursuant to subsection (a) of this section, the Secretary shall make the payment required in such subsection, or deny the claim for such payment, not later than 60 days after the date on which the Secretary determines that the lender or holder has made reasonable efforts to secure a judgment and collect on the judgment entered into pursuant to this subsection.
+&emsp;With respect to an eligible lender or holder that has commenced an action pursuant to subsection (a) of this section, the Secretary shall make the payment required in such subsection, or deny the claim for such payment, not later than 60 days after the date on which the Secretary determines that the lender or holder has made reasonable efforts to secure ajudgment and collect on the judgment entered into pursuant to this subsection.
 
 #### (3) State court judgments
 

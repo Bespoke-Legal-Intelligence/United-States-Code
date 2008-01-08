@@ -12,7 +12,7 @@ For purposes of this subtitle, the term “common trust fund” means a fund mai
 
 &emsp;&emsp;&emsp;(i) which the Secretary determines are established pursuant to a State law which is substantially similar to the Uniform Gifts to Minors Act as published by the American Law Institute, and
 
-&emsp;&emsp;&emsp;(ii) with respect to which the bank establishes, to the satisfaction of the Secretary, that it has duties and responsibilitiessimilar to duties and responsibilities of a trustee or guardian; and
+&emsp;&emsp;&emsp;(ii) with respect to which the bank establishes, to the satisfaction of the Secretary, that it has duties and responsibilities similar to duties and responsibilities of a trustee or guardian; and
 
 &emsp;(2) in conformity with the rules and regulations, prevailing from time to time, of the Board of Governors of the Federal Reserve System or the Comptroller of the Currency pertaining to the collective investment of trust funds by national banks.
 
@@ -54,7 +54,7 @@ No gain or loss shall be realized by the common trust fund by the admission or w
 
 #### (f) Different taxable years of common trust fund and participant
 
-If the taxable year of the common trust fund is different from that of a participant, the inclusions with respect to the taxable income of the common trust fund, in computing the taxable income of the participant for its taxable year, shall be based upon the taxable income of the common trust fund for any taxable year of the common trust fund ending within or with the taxable year of the participant.
+If the taxable year of the common trust fund is different from that of a participant, the inclusions with respect to the taxable income of the common trust fund, in computing the taxable income of the participant for its taxable year, shall be based upon the taxable income of thecommon trust fund for any taxable year of the common trust fund ending within or with the taxable year of the participant.
 
 #### (g) Net operating loss deduction
 
@@ -86,7 +86,7 @@ The benefit of the deduction for net operating losses provided by section 172 sh
 
 #### (A) In general
 
-&emsp;&emsp;In determining whether the transfer referred to in paragraph (1)(A) is in exchangesolely for stock in one or more regulated investment companies, the assumption by any such company of a liability of the common trust fund shall be disregarded.
+&emsp;&emsp;In determining whether the transfer referred to in paragraph (1)(A) is in exchange solely for stock in one or more regulated investment companies, the assumption by any such company of a liability of the common trust fund shall be disregarded.
 
 #### (B) Special rule where assumed liabilities exceed basis
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 301(b)(3) of Pub. L. 97–34 applicable to taxable years ending after Sept. 30, 1981, and amendment by section 301(b)(6)(A) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 301(d) of Pub. L. 97–34, set out as a note under section 265 of this title.
+Amendment by section 301(b)(3) of Pub. L. 97–34 applicable to taxable years ending after Sept. 30, 1981, andamendment by section 301(b)(6)(A) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 301(d) of Pub. L. 97–34, set out as a note under section 265 of this title.
 
 #### Effective and Termination Dates of 1980 Amendment
 

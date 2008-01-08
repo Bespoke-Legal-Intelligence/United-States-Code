@@ -24,7 +24,7 @@
 
 #### (5) Commencement of proceedings
 
-&emsp;The Attorney General shall place an alien detained under paragraph (1) in removal proceedings, or shall charge the alien with a criminal offense, not later than 7 days after the commencement of such detention. If the requirement of the preceding sentence is not satisfied, the Attorney General shall release the alien.
+&emsp;The Attorney General shall place an alien detained under paragraph (1) in removal proceedings, or shall charge the alien with a criminal offense, not later than 7 days after the commencement of such detention. If the requirement of the preceding sentence is notsatisfied, the Attorney General shall release the alien.
 
 #### (6) Limitation on indefinite detention
 

@@ -26,7 +26,7 @@
 
 &emsp;(12) Chair the Chief Financial Officers Council established by section 302 of the Chief Financial Officers Act of 1990.
 
-&emsp;(13) Communicate with the financial officers of State and local governments, and foster the exchange with those officers of informationconcerning financial management standards, techniques, and processes.
+&emsp;(13) Communicate with the financial officers of State and local governments, and foster the exchange with those officers of information concerning financial management standards, techniques, and processes.
 
 &emsp;(14) Issue such other policies and directives as may be necessary to carry out this section, and perform any other function prescribed by the Director.
 

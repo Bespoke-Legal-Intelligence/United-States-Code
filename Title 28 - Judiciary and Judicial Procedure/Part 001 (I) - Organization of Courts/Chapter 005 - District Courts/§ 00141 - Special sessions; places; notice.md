@@ -6,7 +6,7 @@
 
 (b)(1) Special sessions of the district court may be held at such places within the United States outside the district as the nature of the business may require and upon such notice as the court orders, upon a finding by either the chief judge of the district court (or, if the chief judge is unavailable, the most senior available active judge of the district court) or the judicial council of the circuit that, because of emergency conditions, no location within the district is reasonably available where such special sessions could be held.
 
-(2) Pursuant to this subsection, any business which may be transacted at a regular session of a district court may be transacted at a special session conducted outside the district, except that a criminal trial may not be conducted at aspecial session outside the State in which the crime has been committed unless the defendant consents to such a criminal trial.
+(2) Pursuant to this subsection, any business which may be transacted at a regular session of a district court may be transacted at a special session conducted outside the district, except that a criminal trial may not be conducted at a special session outside the State in which the crime has been committed unless the defendant consents to such a criminal trial.
 
 (3) Notwithstanding any other provision of law, in any case in which special sessions are conducted pursuant to this section, the district court may summon jurors—
 

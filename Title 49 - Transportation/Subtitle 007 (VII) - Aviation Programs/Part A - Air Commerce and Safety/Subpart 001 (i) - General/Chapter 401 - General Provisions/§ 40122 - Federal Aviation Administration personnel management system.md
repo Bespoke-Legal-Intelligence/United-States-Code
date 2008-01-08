@@ -6,11 +6,11 @@ In General.—
 
 &emsp;(1)
 
-Consultation and negotiation.—In developing and making changes to the personnel management system initially implemented by the Administrator of the Federal Aviation Administration on April 1, 1996, the Administrator shall negotiate with the exclusive bargaining representatives of employees of the Administration certified under section 7111 of title 5 and consult with other employees of the Administration.
+Consultation and negotiation.—In developing and making changes to the personnelmanagement system initially implemented by the Administrator of the Federal Aviation Administration on April 1, 1996, the Administrator shall negotiate with the exclusive bargaining representatives of employees of the Administration certified under section 7111 of title 5 and consult with other employees of the Administration.
 
 &emsp;(2)
 
-Mediation.—If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel managementsystem shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die.
+Mediation.—If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die.
 
 &emsp;(3)
 
@@ -78,7 +78,7 @@ Effective date.—This subsection shall take effect on April 1, 1996.
 
 (h)
 
-Right To Contest Adverse Personnel Actions.—An employee of the Federal Aviation Administration who is the subject of a major adverse personnel action may contest the action either through any contractual grievance procedure that is applicable to the employee as a member of the collective bargaining unit or through the Administration's internal process relating to review of major adverse personnel actions of the Administration, known as Guaranteed Fair Treatment, or under section 40122(g)(3).
+Right To Contest Adverse Personnel Actions.—An employee of the Federal Aviation Administration who is the subject of a major adverse personnel action may contest the action either through any contractual grievance procedure that is applicable to the employee as a member of the collective bargaining unit or through the Administration's internal process relating to review of major adverse personnelactions of the Administration, known as Guaranteed Fair Treatment, or under section 40122(g)(3).
 
 (i)
 

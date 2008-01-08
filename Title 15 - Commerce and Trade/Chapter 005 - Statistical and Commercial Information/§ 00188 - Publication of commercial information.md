@@ -1,6 +1,6 @@
 ### §188. Publication of commercial information
 
-The Secretary of Commerce shall publish official notifications, from time to time, of such commercial information communicated to him by diplomatic and consular officers, as he may deem important to the public interests, in such newspapers, not to exceed three in number, as he may select.
+The Secretary of Commerce shall publish official notifications, from time to time, of such commercial information communicated to him by diplomatic and consular officers, as he may deem important to the public interests, in suchnewspapers, not to exceed three in number, as he may select.
 
 (R.S. §211; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736.)
 

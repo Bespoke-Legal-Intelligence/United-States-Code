@@ -1502,6 +1502,8 @@ Section 407 of act June 27, 1952, provided that: “Except as provided in subsec
 
 #### Short Title of 2007 Amendment
 
+Pub. L. 110–53, title VII, §711(a), Aug. 3, 2007, 121 Stat. 338, provided that: “This section \[amending section 1187 of this title and enacting provisions set out as notes under section 1187 of this title\] may be cited as the ‘Secure Travel and Counterterrorism Partnership Act of 2007’.”
+
 Pub. L. 109–477, §1, Jan. 12, 2007, 120 Stat. 3572, provided that: “This Act \[enacting and amending provisions set out as notes under section 1182 of this title\] may be cited as the ‘Physicians for Underserved Areas Act’.”
 
 #### Short Title of 2006 Amendment
@@ -1518,7 +1520,7 @@ Pub. L. 109–162, title VIII, §831, Jan. 5, 2006, 119 Stat. 3066, provided tha
 
 Pub. L. 109–13, div. B, §1, May 11, 2005, 119 Stat. 302, provided that: “This division \[enacting section 1778 of this title, amending this section, sections 1157 to 1159, 1182, 1184, 1227, 1229a, 1231, 1252, and 1356 of this title, and section 1028 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under this section, sections 1157, 1158, 1182, 1184, 1227, 1252, 1712, and 1721 of this title, and section 30301 of Title 49, Transportation, amending provisions set out as notes under sections 1103, 1153, and 1184 of this title, and repealing provisions set out as a note under section 30301 of Title 49\] may be cited as the ‘REAL ID Act of 2005’.”
 
-Pub. L. 109–13, div. B, title IV, §401, May 11, 2005, 119 Stat. 318, provided that: “This title \[amending sections 1184 and 1356 of this title and enacting and amending provisions set out as notes under section 1184 of thistitle\] may be cited as the ‘Save Our Small and Seasonal Businesses Act of 2005’.”
+Pub. L. 109–13, div. B, title IV, §401, May 11, 2005, 119 Stat. 318, provided that: “This title \[amending sections 1184 and 1356 of this title and enacting and amending provisions set out as notes under section 1184 of this title\] may be cited as the ‘Save Our Small and Seasonal Businesses Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
@@ -1578,7 +1580,7 @@ Pub. L. 106–95, §1, Nov. 12, 1999, 113 Stat. 1312, provided that: “This Act
 
 Pub. L. 105–277, div. A, §101(h) \[title IX, §901\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–538, provided that: “This title \[enacting sections 1377 and 1378 of this title and provisions set out as a note under section 1255 of this title\] may be cited as the ‘Haitian Refugee Immigration Fairness Act of 1998’.”
 
-Pub. L. 105–277, div. C, title IV, §401(a), Oct. 21, 1998, 112 Stat. 2681–641, provided that: “This title \[enacting section 1869c of Title 42, The Public Health and Welfare, amending this section and sections 1182, 1184, and 1356 of this title, and enacting provisions set out as notes under sections 1182 and 1184 of this title and sections 2701 and 2916 of Title 29, Labor\] may be cited as the ‘American Competitiveness and Workforce Improvement Act of 1998’.”
+Pub. L. 105–277, div. C, title IV, §401(a), Oct. 21, 1998, 112 Stat. 2681–641, provided that: “This title \[enactingsection 1869c of Title 42, The Public Health and Welfare, amending this section and sections 1182, 1184, and 1356 of this title, and enacting provisions set out as notes under sections 1182 and 1184 of this title and sections 2701 and 2916 of Title 29, Labor\] may be cited as the ‘American Competitiveness and Workforce Improvement Act of 1998’.”
 
 #### Short Title of 1997 Amendments
 
@@ -1630,7 +1632,7 @@ Pub. L. 99–639, §1, Nov. 10, 1986, 100 Stat. 3537, provided that: “This Act
 
 Pub. L. 99–605, §1(a), Nov. 6, 1986, 100 Stat. 3449, provided that: “This Act \[amending sections 1522 to 1524 of this title and enacting provisions set out as notes under section 1522 of this title\] may be cited as the ‘Refugee Assistance Extension Act of 1986’.”
 
-Section 1(a) of Pub. L. 99–603 provided that: “This Act \[enacting sections 1160, 1161, 1186, 1187, 1255a, 1324a, 1324b, 1364, and 1365 of this title and section 1437r of Title 42, The Public Health and Welfare, amending this section, sections 1152, 1184, 1251, 1252, 1254, 1255, 1258, 1259, 1321, 1324, and 1357 of this title, section 2025 of Title 7, Agriculture, section 1546 of Title 18, Crimes and Criminal Procedure, sections 1091 and 1096 of Title 20, Education, sections 1802, 1813, and 1851 of Title 29, Labor, and sections 303, 502, 602, 603, 672, 673, 1203, 1320b–7, 1353, 1396b, and 1436a of Title 42, repealing section 1816 of Title 29, enacting provisions set out as notes under this section and sections 1152, 1153, 1160, 1186, 1187, 1253, 1255a, 1259, 1324a, and 1324b of this title,section 1802 of Title 29, and sections 405, 502, and 1320b–7 of Title 42, and amending provisions set out as notes under this section and section 1383 of Title 42\] may be cited as the ‘Immigration Reform and Control Act of 1986’.”
+Section 1(a) of Pub. L. 99–603 provided that: “This Act \[enacting sections 1160, 1161, 1186, 1187, 1255a, 1324a, 1324b, 1364, and 1365 of this title and section 1437r of Title 42, The Public Health and Welfare, amending this section, sections 1152, 1184, 1251, 1252, 1254, 1255, 1258, 1259, 1321, 1324, and 1357 of this title, section 2025 ofTitle 7, Agriculture, section 1546 of Title 18, Crimes and Criminal Procedure, sections 1091 and 1096 of Title 20, Education, sections 1802, 1813, and 1851 of Title 29, Labor, and sections 303, 502, 602, 603, 672, 673, 1203, 1320b–7, 1353, 1396b, and 1436a of Title 42, repealing section 1816 of Title 29, enacting provisions set out as notes under this section and sections 1152, 1153, 1160, 1186, 1187, 1253, 1255a, 1259, 1324a, and 1324b of this title, section 1802 of Title 29, and sections 405, 502, and 1320b–7 of Title 42, and amending provisions set out as notes under this section and section 1383 of Title 42\] may be cited as the ‘Immigration Reform and Control Act of 1986’.”
 
 #### Short Title of 1982 Amendment
 
@@ -1680,7 +1682,7 @@ Section 405 of act June 27, 1952, provided in part that:
 
 “(a) Nothing contained in this Act \[this chapter\], unless otherwise specifically provided therein, shall be construed to affect the validity of any declaration of intention, petition for naturalization, certificate of naturalization, certificate of citizenship, warrant of arrest, order or warrant of deportation, order of exclusion, or other document or proceeding which shall be valid at the time this Act \[this chapter\] shall take effect; or to affect any prosecution, suit, action, or proceedings, civil or criminal, brought, or any status, condition, right in process of acquisition, act, thing, liability, obligation, or matter, civil or criminal done or existing, at the time this Act \[this chapter\] shall take effect; but as to all such prosecutions, suits, actions, proceedings, statutes, conditions, rights, acts, things, liabilities, obligations, or matters the statutes or parts of statutes repealed by this Act \[this chapter\] are, unless otherwise specifically provided therein, hereby continued in force and effect. When an immigrant, in possession of an unexpired immigrant visa issued prior to the effective date of this Act \[this chapter\], makes application for admission, his admissibility shall be determined under the provisions of law in effect on the date of the issuance of such visa. An application for suspension of deportation under section 19 of the Immigration Act of 1917, as amended \[former section 155 of this title\], or for adjustment of status under section 4 of the Displaced Persons Act of 1948, as amended \[former section 1953 of Appendix to Title 50\], which is pending on the date of enactment of this Act \[June 27, 1952\], shall be regarded as a proceeding within the meaning of this subsection.
 
-“(b) Except as otherwise specifically provided in title III \[subchapter III of this chapter\], any petition for naturalization heretofore filed which may be pending at the time this Act \[this chapter\] shall take effect shallbe heard and determined in accordance with the requirements of law in effect when such petition was filed.
+“(b) Except as otherwise specifically provided in title III \[subchapter III of this chapter\], any petition for naturalization heretofore filed which may be pending at the time this Act \[this chapter\] shall take effect shall be heard and determined in accordance with the requirements of law in effect when such petition was filed.
 
 “(c) Except as otherwise specifically provided in this Act \[this chapter\], the repeal of any statute by this Act \[this chapter\] shall not terminate nationality heretofore lawfully acquired nor restore nationality heretofore lost under any law of the United States or any treaty to which the United States may have been a party.
 
@@ -1746,7 +1748,7 @@ Section 404 of act June 27, 1952, as amended by acts Dec. 29, 1981, Pub. L. 97�
 
 #### Special Immigrant Status for Persons Serving as Translators With United States Armed Forces
 
-Pub. L. 109–163, div. A, title X, §1059, Jan. 6, 2006, 119 Stat. 3443, provided that:
+Pub. L. 109–163, div. A, title X, §1059, Jan. 6, 2006, 119 Stat. 3443, as amended by Pub. L. 110–28, title III, §3812, May 25, 2007, 121 Stat. 151; Pub. L. 110–36, §1, June 15, 2007, 121 Stat. 227; Pub. L. 110–161, div. J, title VI, §699J, Dec. 26, 2007, 121 Stat. 2373, provided that:
 
 “(a)
 
@@ -1766,11 +1768,11 @@ Principal aliens.—An alien is described in this subsection if the alien—
 
 &emsp;&emsp;“(A) is a national of Iraq or Afghanistan;
 
-&emsp;&emsp;“(B) worked directly with United States Armed Forces as a translator for a period of at least 12 months;
+&emsp;&emsp;“(B) worked directly with United States Armed Forces, or under Chief of Mission authority, as a translator or interpreter for a period of at least 12 months;
 
-&emsp;&emsp;“(C) obtained a favorable written recommendation from a general or flag officer in the chain of command of the United States Armed Forces unit that was supported by the alien; and
+&emsp;&emsp;“(C) obtained a favorable written recommendation from the Chief of Mission or a general or flag officer in the chain of command of the United States Armed Forces unit that was supported by the alien; and
 
-&emsp;&emsp;“(D) before filing the petition described in subsection (a)(1), cleared a background check and screening, as determined by a general or flag officer in the chain of command of the United States Armed Forces unit that was supported by the alien.
+&emsp;&emsp;“(D) before filing the petition described in subsection (a)(1), cleared a background check and screening, as determined by the Chief of Mission or a general or flag officer in the chain of command of the United States Armed Forces unit that was supported by the alien.
 
 &emsp;“(2)
 
@@ -1782,15 +1784,49 @@ Numerical Limitations.—
 
 &emsp;“(1)
 
-In general.—The total number of principal aliens who may be provided special immigrant status under this section during any fiscal year shall not exceed 50.
+In general.—The total number of principal aliens who may be provided special immigrant status under this section—
+
+&emsp;&emsp;“(A) during each of the fiscal years 2007 and 2008, shall not exceed 500; and
+
+&emsp;&emsp;“(B) during any other fiscal year shall not exceed 50.
 
 &emsp;“(2)
 
-Counting against special immigrant cap.—For purposes of the application of sections 201 through 203 of the Immigration and Nationality Act (8 U.S.C. 1151–1153) in any fiscal year, aliens eligible to be provided status under this section shall be treated as special immigrants described in section 101(a)(27) of such Act (8 U.S.C. 1101(a)(27)) who are not described in subparagraph (A), (B), (C), or (K) of such section.
+Aliens exempt from employment-based numerical limitations.—For purposes of the application of sections 201 through 203 of the Immigration and Nationality Act (8 U.S.C. 1151–1153) in any fiscal year, aliens eligible to be provided status under this section shall be treated as special immigrants described in section 101(a)(27) of such Act (8 U.S.C. 1101(a)(27)) who are not described in subparagraph (A), (B), (C), or (K) of such section and shall not be counted against the numerical limitations under sections 201(d), 202(a), and 203(b)(4) of the Immigration and Nationality Act (8 U.S.C. 1151(d), 1152(a), and 1153(b)(4)).
+
+&emsp;“(3)
+
+Carry forward.—If the numerical limitation described in paragraph (1) is not reached during a given fiscal year, the numerical limitation for the following fiscal year shall be increased by a number equal to the difference between the number of visas authorized for the given fiscal year and the number of aliens provided special immigrant status during the given fiscal year.
 
 “(d)
 
+Adjustment of Status.—Notwithstanding paragraphs (2), (7) and (8) of section 245(c) of the Immigration and Nationality Act (8 U.S.C. 1255(c)), the Secretary of Homeland Security may adjust the status of an alien to that of a lawful permanent resident under section 245(a) of such Act if the alien—
+
+&emsp;“(1) was paroled or admitted as a nonimmigrant into the United States; and
+
+&emsp;“(2) is otherwise eligible for special immigrant status under this section and under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\].
+
+“(e)
+
+Naturalization.—
+
+&emsp;“(1)
+
+In general.—An absence from the United States described in paragraph (2) shall not be considered to break any period for which continuous residence in the United States is required for naturalization under title III of the Immigration and Nationality Act (8 U.S.C. 1401 et seq.).
+
+&emsp;“(2)
+
+Absence described.—An absence described in this paragraph is an absence from the United States due to a person's employment by the Chief of Mission or United States Armed Forces, under contract with the Chief of Mission or United States Armed Forces, or by a firm or corporation under contract with the Chief of Mission or United States Armed Forces, if—
+
+&emsp;&emsp;“(A) such employment involved working with the Chief of Mission or United States Armed Forces as a translator or interpreter; and
+
+&emsp;&emsp;“(B) the person spent at least a portion of the time outside of the United States working directly with the Chief of Mission or United States Armed Forces as a translator or interpreter in Iraq or Afghanistan.
+
+“(f)
+
 Application of Immigration and Nationality Act Provisions.—The definitions in subsections (a) and (b) of section 101 of the Immigration and Nationality Act (8 U.S.C. 1101) shall apply in the administration of this section.”
+
+\[Pub. L. 110–28 and Pub. L. 110–36 made identical amendments to section 1059 of Pub. L. 109–163, set out above, except for the redesignation of subsec. (d) and addition of subsec. (e). Amendments by Pub. L. 110–36 were executed in lieu of the amendments by Pub. L. 110–28, to reflect the probable intent of Congress.\]
 
 #### Battered Immigrant Women; Findings and Purposes
 
@@ -2010,7 +2046,7 @@ Section 225 of Pub. L. 103–416, as amended by Pub. L. 104–132, title IV, §4
 
 #### Report on Admission of Certain Nonimmigrants
 
-Section 202(b) of Pub. L. 102–232 directed Comptroller General, by not later than Oct. 1, 1994, to submit to Committees on the Judiciary of Senate and of House of Representatives a report containing information relating to the admission of artists, entertainers, athletes, and related support personnel as nonimmigrants under 8 U.S.C. 1101(a)(15)(O), (P), and information on the laws, regulations, and practices in effect in other countries that affect United States citizens and permanent resident aliens in the arts, entertainment, and athletics, in order to evaluate the impact of such admissions, laws, regulations, and practices on such citizens and aliens, directed Chairman of the Committee on the Judiciary of Senate to make the report available to interested parties and to hold a hearing respecting the report and directed such Committee to report to Senate its findings and any legislation it deems appropriate.
+Section 202(b) of Pub. L. 102–232 directed Comptroller General, by not later than Oct. 1, 1994, to submit to Committees on the Judiciary of Senate and of House of Representatives a report containing information relating to the admission of artists, entertainers, athletes, and related support personnel as nonimmigrants under 8 U.S.C. 1101(a)(15)(O), (P), and information on the laws, regulations, and practices in effect in other countriesthat affect United States citizens and permanent resident aliens in the arts, entertainment, and athletics, in order to evaluate the impact of such admissions, laws, regulations, and practices on such citizens and aliens, directed Chairman of the Committee on the Judiciary of Senate to make the report available to interested parties and to hold a hearing respecting the report and directed such Committee to report to Senate its findings and any legislation it deems appropriate.
 
 #### Delay Until April 1, 1992, in Implementation of Provisions Relating to Nonimmigrant Artists, Athletes, Entertainers, and Fashion Models
 
@@ -2096,7 +2132,7 @@ Meetings, Staff, and Authority of Commission.—The provisions of subsections (e
 
 Authorization of Appropriations.—(1) There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this section.
 
-“(2) Notwithstanding any other provision of this section, the authority to make payments, or to enter into contracts, under this section shall be effective only to such extent, or in such amounts, as are provided in advance in appropriations Acts.
+“(2) Notwithstanding any other provision of this section, the authority to make payments, or to enter intocontracts, under this section shall be effective only to such extent, or in such amounts, as are provided in advance in appropriations Acts.
 
 “(g)
 
@@ -2134,7 +2170,7 @@ Aliens Covered.—An alien is described in this subsection if—
 
 &emsp;“(2) the welfare of the employee or such an immediate family member is subject to a clear threat due directly to the employee's employment with the United States Government or under a United States Government official; and
 
-&emsp;“(3) the principal officer in Hong Kong, in the officer's discretion, has recommended the granting of special immigrant status to such alien in exceptionalcircumstances and the Secretary of State approves such recommendation and finds that it is in the national interest to grant such status.
+&emsp;“(3) the principal officer in Hong Kong, in the officer's discretion, has recommended the granting of special immigrant status to such alien in exceptional circumstances and the Secretary of State approves such recommendation and finds that it is in the national interest to grant such status.
 
 “(c)
 
@@ -2202,7 +2238,7 @@ Pub. L. 101–189, div. A, title IX, §937, Nov. 29, 1989, 103 Stat. 1538, provi
 
 #### Extension of H–1 Status for Certain Registered Nurses Through December 31, 1989
 
-Pub. L. 100–658, §4, Nov. 15, 1988, 102 Stat. 3909, provided that: “The Attorney General shall provide for the extension through December 31, 1989, of nonimmigrant status under section 101(a)(15)(H)(i) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(H)(i)\] for an alien to perform temporarily services as a registerednurse in the case of an alien who has had such status for a period of at least 5 years if—
+Pub. L. 100–658, §4, Nov. 15, 1988, 102 Stat. 3909, provided that: “The Attorney General shall provide for the extension through December 31, 1989, of nonimmigrant status under section 101(a)(15)(H)(i) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(H)(i)\] for an alien to perform temporarily services as a registered nurse in the case of an alien who has had such status for a period of at least 5 years if—
 
 &emsp;“(1) such status has not expired as of the date of the enactment of this Act \[Nov. 15, 1988\] but would otherwise expire during 1988 or 1989, due only to the time limitation with respect to such status; or
 
@@ -2234,7 +2270,7 @@ Pub. L. 100–202, §101(e) \[title V, §584\], Dec. 22, 1987, 101 Stat. 1329–
 
 &emsp;“(B) they are issued an immigrant visa and depart from Vietnam on or after March 22, 1988.
 
-“(2) The provisions of paragraphs (4), (5), and (7)(A) of section 212(a) of the Immigration and Nationality Act \[8 U.S.C. 1182(a)(4), (5), and (7)(A)\] shall not be applicable to any alien seeking admission to the United States under this section, and the Attorney General on the recommendation of a consular officer may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest. Any such waiver by the Attorney General shall be in writing and shall be granted only on an individual basis following an investigation by a consular officer.
+“(2) The provisions of paragraphs (4), (5), and (7)(A) of section 212(a) of the Immigration and Nationality Act \[8 U.S.C. 1182(a)(4), (5), and (7)(A)\] shall not be applicable to any alien seeking admission to the United States under this section, and the Attorney General on the recommendation of a consular officer may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph\(3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest. Any such waiver by the Attorney General shall be in writing and shall be granted only on an individual basis following an investigation by a consular officer.
 
 “(3) Notwithstanding section 221(c) of the Immigration and Nationality Act \[8 U.S.C. 1201(c)\], immigrant visas issued to aliens under this section shall be valid for a period of one year.
 
@@ -2254,7 +2290,7 @@ Pub. L. 100–202, §101(e) \[title V, §584\], Dec. 22, 1987, 101 Stat. 1329–
 
 “(d) The Attorney General, in cooperation with the Secretary of State, shall report to Congress 1 year, 2 years, and 3 years, after the date of the enactment of this Act \[Dec. 22, 1987\] on the implementation of this section. Each such report shall include the number of aliens who are issued immigrant visas and who are admitted to the United States under this section and number of waivers granted under subsection (a)(2) and the reasons for granting such waivers.
 
-“(e) Except as otherwise specifically provided in this section, the definitions contained in the Immigrationand Nationality Act \[8 U.S.C. 1101 et seq.\] shall apply in the administration of this section and nothing contained in this section shall be held to repeal, amend, alter, modify, effect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of such Act or any other law relating to immigration, nationality, or naturalization. The fact that an alien may be eligible to be granted the status of having been lawfully admitted for permanent residence under this section shall not preclude the alien from seeking such status under any other provision of law for which the alien may be eligible.”
+“(e) Except as otherwise specifically provided in this section, the definitions contained in the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] shall apply in the administration of this section and nothing contained in this section shall be held to repeal, amend, alter, modify, effect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of such Act or any other law relating to immigration, nationality, or naturalization. The fact that an alien may be eligible to be granted the status of having been lawfully admitted for permanent residence under this section shall not preclude the alien from seeking such status under any other provision of law for which the alien may be eligible.”
 
 \[Section 307(<i>l</i>)(8) of Pub. L. 102–232 provided that the amendment made by that section to section 101(e) \[title V, §584(a)(2)\] of Pub. L. 100–202, set out above, is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.\]
 
@@ -2292,7 +2328,7 @@ Supplemental Authorization of Appropriations for Wage and Hour Enforcement.—Th
 
 #### Eligibility of H–2 Agricultural Workers for Certain Legal Assistance
 
-Section 305 of Pub. L. 99–603 provided that: “A nonimmigrant worker admitted to or permitted to remain in the United States under section 101(a)(15)(H)(ii)(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii)(a)) for agricultural labor or service shall be considered to be an alien described in section 101(a)(20) of such Act (8 U.S.C. 1101(a)(20)) for purposes of establishing eligibility for legal assistance under the Legal Services Corporation Act (42 U.S.C. 2996 et seq.), but only with respect to legal assistance on matters relating to wages, housing, transportation, and other employment rights as provided in the worker's specific contract under which the nonimmigrant was admitted.”
+Section 305 of Pub. L. 99–603 provided that: “A nonimmigrant worker admitted to or permitted to remain in the United States under section 101(a)(15)(H)(ii)(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii)(a)) for agricultural labor or service shall be considered to be an alien described in section 101(a)(20) of such Act (8 U.S.C. 1101(a)(20)) for purposesof establishing eligibility for legal assistance under the Legal Services Corporation Act (42 U.S.C. 2996 et seq.), but only with respect to legal assistance on matters relating to wages, housing, transportation, and other employment rights as provided in the worker's specific contract under which the nonimmigrant was admitted.”
 
 #### Denial of Crew Member Nonimmigrant Visa in Case of Strikes
 
@@ -2312,7 +2348,7 @@ Section 601 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(r), Oct. 2
 
 #### Treatment of Departures From Guam
 
-Section 2 of Pub. L. 99–505 provided that: “In the administration of section 101(a)(15)(D)(ii) of theImmigration and Nationality Act \[8 U.S.C. 1101(a)(15)(D)(ii)\] (added by the amendment made by section 1 of this Act), an alien crewman shall be considered to have departed from Guam after leaving the territorial waters of Guam, without regard to whether the alien arrives in a foreign state before returning to Guam.”
+Section 2 of Pub. L. 99–505 provided that: “In the administration of section 101(a)(15)(D)(ii) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(D)(ii)\] (added by the amendment made by section 1 of this Act), an alien crewman shall be considered to have departed from Guam after leaving the territorial waters of Guam, without regard to whether the alien arrives in a foreign state before returning to Guam.”
 
 #### Alien Employees of American University of Beirut
 
@@ -2372,7 +2408,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 It is a fundamental right and duty for a nation to protect the integrity of its borders and its laws. This Administration shall stand firm against illegal immigration and the continued abuse of our immigration laws. By closing the back door to illegal immigration, we will continue to open the front door to legal immigrants.
 
-My Administration has moved swiftly to reverse the course of a decade of failed immigration policies. Our initiatives have included increasing overall Border personnel by over 50 percent since 1993. We also are strengthening worksite enforcement and work authorization verification to deter employment of illegalaliens. Asylum rules have been reformed to end abuse by those falsely claiming asylum, while offering protection to those in genuine fear of persecution. We are cracking down on smugglers of illegal aliens and reforming criminal alien deportation for quicker removal. And we are the first Administration to obtain funding to reimburse States for a share of the costs of incarcerating criminal illegal aliens.
+My Administration has moved swiftly to reverse the course of a decade of failed immigration policies. Our initiatives have included increasing overall Border personnel by over 50 percent since 1993. We also are strengthening worksite enforcement and work authorization verification to deter employment of illegal aliens. Asylum rules have been reformed to end abuse by those falsely claiming asylum, while offering protection to those in genuine fear of persecution. We are cracking down on smugglers of illegal aliens and reforming criminal alien deportation for quicker removal. And we are the first Administration to obtain funding to reimburse States for a share of the costs of incarcerating criminal illegal aliens.
 
 While we already are doing more to stem the flow of illegal immigration than has any previous Administration, more remains to be done. In conjunction with the Administration's unprecedented budget proposal to support immigration initiatives, this directive provides a blueprint of policies and priorities for this Administration's continuing work to curtail illegal immigration. With its focus on strong border deterrence backed up by effective worksite enforcement, removal of criminal and other deportable aliens and assistance to states, this program protects the security of our borders, our jobs and our communities for all Americans—citizens and legal immigrants alike.
 

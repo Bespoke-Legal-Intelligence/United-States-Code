@@ -14,7 +14,7 @@
 
 #### (2) Preliminary applications
 
-&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for useby eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
+&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for use by eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
 
 #### (b) Contents
 

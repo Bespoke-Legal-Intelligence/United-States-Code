@@ -10,7 +10,7 @@ Any facility receiving natural gas from an Alaska natural gas transportation pro
 
 #### (b) Additional pipelines
 
-Except as provided in section 720a(d) of this title, nothing in this chapter shall preclude or otherwise affect a future natural gas pipelinethat may be constructed to deliver natural gas to Fairbanks, Anchorage, Matanuska-Susitna Valley, or the Kenai peninsula or Valdez or any other site in the State for consumption within or distribution outside the State.
+Except as provided in section 720a(d) of this title, nothing in this chapter shall preclude or otherwise affect a future natural gas pipeline that may be constructed to deliver natural gas to Fairbanks, Anchorage, Matanuska-Susitna Valley, or the Kenai peninsula or Valdez or any other site in the State for consumption within or distribution outside the State.
 
 #### (c) Rate coordination
 

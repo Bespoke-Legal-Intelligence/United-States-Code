@@ -32,7 +32,7 @@ In the case of any qualified timber property with respect to which the taxpayer 
 
 &emsp;&emsp;&emsp;(ii) the Secretary shall, under regulations prescribed by him, apportion such dollar limitation among the component members of such controlled group.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the term “controlled group” has the meaning assigned to it by section 1563(a), except that the phrase “more than 50 percent” shall be substituted for the phrase “at least 80 percent” each place it appears in section 1563(a)(1).
+> &emsp;&emsp;For purposes of the preceding sentence, the term “controlled group” has the meaning assigned to it by section 1563(a), except that the phrase “more than 50 percent” shall besubstituted for the phrase “at least 80 percent” each place it appears in section 1563(a)(1).
 
 #### (B) Partnerships and S corporations
 
@@ -118,7 +118,7 @@ Subsec. (c)(4), (5). Pub. L. 108–357, §322(c)(3), added pars. (4) and (5) and
 
 #### Effective Date of 2005 Amendment
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs CreationAct of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 

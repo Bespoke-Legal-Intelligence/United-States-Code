@@ -10,9 +10,11 @@ The Director of the National Science Foundation (hereafter in sections 1862h to 
 
 &emsp;(3) the establishment of innovative partnership arrangements that—
 
-&emsp;&emsp;(A) involve associate-degree-granting colleges and other appropriate public and private sector entities, and
+&emsp;&emsp;(A) involve associate-degree-granting colleges and other appropriate public and private sector entities,<sup>1</sup>
 
-&emsp;&emsp;(B) provide for private sector donations, faculty opportunities to have short-term assignments with industry, sharing of program costs, equipment loans, and the cooperative use of laboratories, plants, and other facilities, and provision for state-of-the-art work experience opportunities for students enrolled in such programs;
+&emsp;&emsp;(B) provide for private sector donations, faculty opportunities to have short-term assignments with industry, sharing of program costs, equipment loans, and the cooperative use of laboratories, plants, and other facilities, and provision for state-of-the-art work experience opportunities for students enrolled in such programs; and
+
+&emsp;&emsp;(C) encourage participation of individuals identified in section 1885a or 1885b of this title;
 
 &emsp;(4) the acquisition of state-of-the-art instrumentation essential to programs designed to prepare and upgrade students in scientific and advanced-technology fields; and
 
@@ -58,6 +60,14 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 &emsp;The Director shall make grants to associate-degree-granting colleges with outstanding mathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
 
+#### (3) Mentor training grants
+
+&emsp;The Director shall—
+
+&emsp;&emsp;(A) establish a program to encourage and make grants available to institutions of higher education that award associate degrees to recruit and train individuals from the fields of science, technology, engineering, and mathematics to mentor students who are described in section 1885a or 1885b of this title in order to assist those students in identifying, qualifying for, and enteringhigher-paying technical jobs in those fields; and
+
+&emsp;&emsp;(B) make grants available to associate-degree-granting colleges to carry out the program identified in subsection <sup>2</sup> (A).
+
 #### (d) Coordination with other Federal departments
 
 In carrying out this section, the Director shall consult, cooperate, and coordinate, to enhance program effectiveness and to avoid duplication, with the programs and policies of other relevant Federal agencies. In carrying out subsection (c) of this section, the Director shall coordinate activities with programs receiving assistance under part B of title I of the Higher Education Act of 1965 \[20 U.S.C. 1011 et seq.\].
@@ -96,9 +106,9 @@ As used in this section—
 
 &emsp;(4) the term “eligible partnership” means one or more associate-degree-granting colleges in partnership with one or more separate bachelor-degree-granting institutions; and
 
-&emsp;(5) the term “local educational agency” has the meaning given such term in section 2891(12) <sup>1</sup> of title 20.
+&emsp;(5) the term “local educational agency” has the meaning given such term in section 2891(12) <sup>3</sup> of title 20.
 
-(Pub. L. 102–476, §3, Oct. 23, 1992, 106 Stat. 2297; Pub. L. 105–244, title I, §102(a)(13)(B), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 107–368, §21(a), (b), Dec. 19, 2002, 116 Stat. 3064.)
+(Pub. L. 102–476, §3, Oct. 23, 1992, 106 Stat. 2297; Pub. L. 105–244, title I, §102(a)(13)(B), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 107–368, §21(a), (b), Dec. 19, 2002, 116 Stat. 3064; Pub. L. 110–69, title VII, §7031(a), Aug. 9, 2007, 121 Stat. 710.)
 
 #### References in Text
 
@@ -106,13 +116,19 @@ Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (f), was 
 
 The Higher Education Act of 1965, referred to in subsecs. (c)(1)(C) and (d), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part B of title I of the Act is classified generally to part B (§1011 et seq.) of subchapter I of chapter 28 of Title 20, Education. Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585, amended title I of the Act generally and part B, which formerly related to articulation agreements, now relates to additional general provisions. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-Section 2891(12) of title 20, referred to in subsec. (g)(5), was in the original “section 1471(12) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2891(12)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, titleI, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to definitions, see section 7801 of Title 20, Education.
+Section 2891(12) of title 20, referred to in subsec. (g)(5), was in the original “section 1471(12) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2891(12)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to definitions, see section 7801 of Title 20, Education.
 
 #### Codification
 
 Section was enacted as part of the Scientific and Advanced-Technology Act of 1992, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+2007—Subsec. (a)(3)(A). Pub. L. 110–69, §7031(a)(1)(A), which directed striking out “and” after the semicolon, was executed by striking out “and” after the comma, to reflect the probable intent of Congress.
+
+Subsec. (a)(3)(B), (C). Pub. L. 110–69, §7031(a)(1)(B), (C), substituted “; and” for semicolon in subpar. (B) and added subpar. (C).
+
+Subsec. (c)(3). Pub. L. 110–69, §7031(a)(2), added par. (3).
 
 2002—Subsec. (a). Pub. L. 107–368, §21(a)(1), inserted “, and to improve the quality of their core education courses in science and mathematics” after “education in advanced-technology fields” in introductory provisions.
 
@@ -128,5 +144,9 @@ Subsec. (c)(1)(B)(iii), (iv). Pub. L. 107–368, §21(b), added cls. (iii) and (
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

@@ -42,7 +42,7 @@ Pub. L. 104–113, §1, Mar. 7, 1996, 110 Stat. 775, provided that: “This Act 
 
 Pub. L. 102–245, §1, Feb. 14, 1992, 106 Stat. 7, provided that: “This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and section 6618 of Title 42, The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and section 6683 of Title 42, enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and section 6611 of Title 42, and amending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘American Technology Preeminence Act of 1991’.”
 
-Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: “This title \[enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘Technology Administration Authorization Act of 1991’.”
+Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: “This title \[enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, andamending provisions set out as a note under section 278<i>l</i> of this title\] may be cited as the ‘Technology Administration Authorization Act of 1991’.”
 
 #### Short Title of 1989 Amendment
 
@@ -130,7 +130,7 @@ Issues.—The function of the Commission shall be to address the following issue
 
 &emsp;“(3) To what extent do high capital costs in general inhibit investment in projects with long-term payoffs, such as the development and commercialization of new technology?
 
-&emsp;“(4) To what extent does the structure of the financial services industry in the United States affect theflow of capital to advanced technology investment, and to what extent do current practices in the equity markets raise the cost of capital and inhibit the availability of capital to fund research and development, purchase advanced manufacturing equipment, and fund other investments necessary to commercialize advanced technology?
+&emsp;“(4) To what extent does the structure of the financial services industry in the United States affect the flow of capital to advanced technology investment, and to what extent do current practices in the equity markets raise the cost of capital and inhibit the availability of capital to fund research and development, purchase advanced manufacturing equipment, and fund other investments necessary to commercialize advanced technology?
 
 &emsp;“(5) In what ways do Government regulations influence the cost of capital in the United States?
 
@@ -222,7 +222,7 @@ Membership and Procedures.—(1) The Commission shall be composed of 15 members,
 
 “(4) The Secretary shall appoint a Commission chairman from among the members of the Commission. The chairman shall call the first meeting of the Commission within 90 days after the date of enactment of this Act \[Feb. 14, 1992\].
 
-“(5) The Secretary and the Administrator of the Office of Federal Procurement Policy shall provide suchstaff as may be required by the Commission to carry out its responsibilities.
+“(5) The Secretary and the Administrator of the Office of Federal Procurement Policy shall provide such staff as may be required by the Commission to carry out its responsibilities.
 
 “(6) Members of the Commission, other than full-time employees of the Federal Government, while attending meetings of the Commission or otherwise performing duties of the Commission while away from their homes or regular places of business, shall be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
 
@@ -304,7 +304,7 @@ Ex. Ord. No. 13185, Dec. 28, 2000, 66 F.R. 701, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to keep the Federal Government-University research partnership strong, it is hereby ordered as follows:
 
-Section 1. <i>Principles of the Government-University Partnership</i>. The partnership in science and technology that has evolved between the Federal Government and American universities has yielded benefits that are vital to each. It continues to prove exceptionally productive, successfully promoting the discovery of knowledge, stimulating technological innovation, improving the quality of life, educating and training the next generation of scientists and engineers, and contributing to America's economic prosperity and national security. In order to reaffirm and strengthen this partnership, this order sets forth the following guiding and operating principles that are fully described in the April 1999 National Science and Technology Council report, “Renewing the Government-University Partnership.” These principles shall provide the framework for the development and analysis of all future Federal policies, rules, and regulations for the Federal Government-University research partnership.
+Section 1. <i>Principles of the Government-University Partnership</i>. The partnership in science and technology thathas evolved between the Federal Government and American universities has yielded benefits that are vital to each. It continues to prove exceptionally productive, successfully promoting the discovery of knowledge, stimulating technological innovation, improving the quality of life, educating and training the next generation of scientists and engineers, and contributing to America's economic prosperity and national security. In order to reaffirm and strengthen this partnership, this order sets forth the following guiding and operating principles that are fully described in the April 1999 National Science and Technology Council report, “Renewing the Government-University Partnership.” These principles shall provide the framework for the development and analysis of all future Federal policies, rules, and regulations for the Federal Government-University research partnership.
 
 (a) The guiding principles that shall govern interactions between the Federal Government and universities that perform research are:
 

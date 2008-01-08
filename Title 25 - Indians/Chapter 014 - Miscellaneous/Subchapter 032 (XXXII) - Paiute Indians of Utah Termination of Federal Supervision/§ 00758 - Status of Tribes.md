@@ -2,7 +2,7 @@
 
 #### (a) Revocation of corporate charter
 
-Effective on the date of the proclamation provided for in section 757 of this title, the corporate charter issued pursuant to the Act of June 18, 1934 (48 Stat. 984), as amended \[25 U.S.C. 461 et seq.\], to the Kanosh Band of Paiute Indians of the Kanosh Reservation, Utah, and ratified by the band on August 15, 1943, and to the Shivwits Band of Paiute Indians of the Shivwits Reservation, Utah, and ratified by the band on August 30, 1941, are revoked.
+Effective on the date of the proclamation provided for in section 757 of this title, the corporate charter issued pursuant to the Act of June 18, 1934 (48 Stat. 984), as amended \[25 U.S.C. 461 et seq.\], to the Kanosh Band of Paiute Indians of the Kanosh Reservation, Utah, and ratified by the band on August 15, 1943, and to theShivwits Band of Paiute Indians of the Shivwits Reservation, Utah, and ratified by the band on August 30, 1941, are revoked.
 
 #### (b) Termination of Federal power
 

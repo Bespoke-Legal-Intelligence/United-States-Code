@@ -16,7 +16,7 @@ Act of October 7, 1964, referred to in subsec. (a), is act Oct. 7, 1964, Pub. L.
 
 The Indian Claims Commission, referred to in subsec. (a), terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
-Acts of July 1, 1946, August 4, 1955, and July 14, 1960, referred to in subsec. (a), are, respectively, act July 1, 1946, ch. 529, 60 Stat. 348, known as the Interior Department Appropriation Act, 1947, act Aug. 4, 1955, ch. 541, 69 Stat. 450, known as the Supplemental Appropriation Act, 1956, and act July 14, 1960, Pub. L. 86–651, 74 Stat. 509, known as the Supplemental Appropriation Act, 1961. Those portions of the acts which appropriated the funds referred to were not classified to the Code.
+Acts of July 1, 1946, August 4, 1955, and July 14, 1960, referred to in subsec. (a), are, respectively, act July 1, 1946, ch. 529, 60 Stat. 348, known as the Interior Department Appropriation Act, 1947, act Aug. 4, 1955, ch. 541, 69 Stat. 450, known as the Supplemental AppropriationAct, 1956, and act July 14, 1960, Pub. L. 86–651, 74 Stat. 509, known as the Supplemental Appropriation Act, 1961. Those portions of the acts which appropriated the funds referred to were not classified to the Code.
 
 #### Codification
 

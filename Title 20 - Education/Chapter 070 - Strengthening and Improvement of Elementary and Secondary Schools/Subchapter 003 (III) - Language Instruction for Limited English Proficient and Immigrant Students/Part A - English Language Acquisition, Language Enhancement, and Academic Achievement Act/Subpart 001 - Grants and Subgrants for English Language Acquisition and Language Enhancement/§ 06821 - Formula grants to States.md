@@ -46,7 +46,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 &emsp;&emsp;(A) 0.5 percent or $5,000,000 of such amount, whichever is greater, for payments to eligible entities that are defined under section 6822(a) of this title for activities, approved by the Secretary, consistent with this subpart;
 
-&emsp;&emsp;(B) 0.5 percent of such amount for payments to outlying areas, to be allotted in accordance with their respective needs for assistance under this subpart, as determined by the Secretary, for activities, approved by the Secretary, consistent with this subpart;
+&emsp;&emsp;(B) 0.5 percent of such amount for payments to outlying areas, to be allotted in accordance with their respective needs for assistance under this subpart, as determinedby the Secretary, for activities, approved by the Secretary, consistent with this subpart;
 
 &emsp;&emsp;(C) 6.5 percent of such amount for national activities under sections 6861 and 7013 of this title, except that not more than 0.5 percent of such amount shall be reserved for evaluation activities conducted by the Secretary and not more than $2,000,000 of such amount may be reserved for the National Clearinghouse for English Language Acquisition and Language Instruction Educational Programs described in section 7013 of this title; and
 
@@ -116,7 +116,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 #### References in Text
 
-Subparts 1 and 3 of part A of title VII (as in effect on the day before January 8, 2002), referred to in subsec. (c)(2)(A)(i), means subparts 1 and 3 of part A of title VII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3719, 3732, which were classified generally to subparts 1 (§7421 et seq.) and 3 (§7471 et seq.) of part A of subchapter VII of this chapter prior to the general amendment of subchapter VII of this chapter by Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1907.
+Subparts 1 and 3 of part A of title VII (as in effect on the day before January 8, 2002), referred to in subsec. (c)(2)(A)(i), means subparts 1 and 3 of part A of title VII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3719, 3732, which were classified generally to subparts 1 (§7421 et seq.) and 3 (§7471 et seq.) of part A of subchapter VII of this chapter priorto the general amendment of subchapter VII of this chapter by Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1907.
 
 #### Prior Provisions
 

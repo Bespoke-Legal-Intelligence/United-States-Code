@@ -44,7 +44,7 @@ In an application submitted under subsection (a) of this section, the State shal
 
 &emsp;&emsp;(G)(i) Paragraphs (1)(B), (8), (10), and (19) <sup>1</sup> of section 2020(e) of this title shall apply with respect to the participants in the Project in the same manner as such paragraphs apply with respect to participants in the food stamp program.
 
-&emsp;&emsp;(ii) Each individual who contacts the State in person during office hours to make what may reasonably be interpreted as an oral or written request to participate in the Project shall receive and shall be permitted to file on the same day that such contact is first made, an application form to participate in the Project.
+&emsp;&emsp;(ii) Each individual who contacts the State in person during office hours to make whatmay reasonably be interpreted as an oral or written request to participate in the Project shall receive and shall be permitted to file on the same day that such contact is first made, an application form to participate in the Project.
 
 &emsp;&emsp;(iii) The Project shall provide for telephone contact by, mail delivery of forms to and mail return of forms by, and subsequent home or telephone interview with, the elderly persons, physically or mentally handicapped, and persons otherwise unable, solely because of transportation difficulties and similar hardships, to appear in person.
 

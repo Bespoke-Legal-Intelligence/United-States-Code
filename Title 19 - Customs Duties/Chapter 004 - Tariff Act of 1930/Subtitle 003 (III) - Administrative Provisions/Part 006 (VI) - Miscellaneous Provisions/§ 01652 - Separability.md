@@ -1,6 +1,6 @@
 ### §1652. Separability
 
-If any provision of this chapter, or the application thereof to any person or circumstances, is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
+If any provision of this chapter, or the application thereof to any person or circumstances, is held invalid, the remainder of the chapter, andthe application of such provision to other persons or circumstances, shall not be affected thereby.
 
 (June 17, 1930, ch. 497, title IV, §652, 46 Stat. 763.)
 

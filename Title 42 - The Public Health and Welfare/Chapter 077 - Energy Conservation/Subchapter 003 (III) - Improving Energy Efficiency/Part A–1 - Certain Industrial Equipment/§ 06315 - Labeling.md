@@ -30,7 +30,7 @@ Subject to subsection (h) of this section, not later than 12 months after the Se
 
 #### (e) Labeling rules for air conditioning and heating equipment
 
-Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks under section 6314 of this title, the Secretary shall prescribe labeling rules under this section for such equipment. Such rules shall provide that the labeling of any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, packaged terminal air conditioner, packaged terminal heat pump, warm-air furnace, packaged boiler, storage water heater, instantaneous water heater, and unfired hot water storage tank manufactured after the 12-month period beginning on the date the Secretary prescribes such rules shall—
+Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, walk-in coolers and walk-in freezers, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks under section 6314 of this title, the Secretary shall prescribe labeling rules under this section for such equipment. Such rules shall provide that the labeling of any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, walk-in coolers and walk-in freezers, packaged terminal air conditioner, packaged terminal heat pump, warm-air furnace, packaged boiler, storage water heater, instantaneous water heater, and unfired hot water storage tank manufactured after the 12-month period beginning on the date the Secretary prescribes such rules shall—
 
 &emsp;(1) indicate the energy efficiency of the equipment on the permanent nameplate attached to such equipment or other nearby permanent marking;
 
@@ -74,13 +74,15 @@ A labeling rule under this section shall not apply to any article of covered equ
 
 Until such time as labeling rules under this section take effect with respect to a type (or class) of covered equipment, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type (or class) of covered equipment.
 
-(Pub. L. 94–163, title III, §344, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3271; amended Pub. L. 102–486, title I, §122(c), Oct. 24, 1992, 106 Stat. 2809; Pub. L. 109–58, title I, §136(g), Aug. 8, 2005, 119 Stat. 643.)
+(Pub. L. 94–163, title III, §344, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3271; amended Pub. L. 102–486, title I, §122(c), Oct. 24, 1992, 106 Stat. 2809; Pub. L. 109–58, title I, §136(g), Aug. 8, 2005, 119 Stat. 643; Pub. L. 110–140, title III, §312(d), Dec. 19, 2007, 121 Stat. 1567.)
 
 #### References in Text
 
 The Federal Trade Commission Act, referred to in subsec. (k), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 #### Amendments
+
+2007—Subsec. (e). Pub. L. 110–140 inserted “walk-in coolers and walk-in freezers,” after “commercial clothes washers,” in two places in introductory provisions.
 
 2005—Subsec. (e). Pub. L. 109–58 inserted “very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers,” after “large commercial package air conditioning and heating equipment,” in two places in introductory provisions.
 
@@ -89,4 +91,8 @@ The Federal Trade Commission Act, referred to in subsec. (k), is act Sept. 26, 1
 Subsec. (c). Pub. L. 102–486, §122(c)(2), substituted “shall include” for “may include”.
 
 Subsecs. (d) to (k). Pub. L. 102–486, §122(c)(3), (4), added subsecs. (d) and (e) and redesignated former subsecs. (d) to (i) as (f) to (k), respectively.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

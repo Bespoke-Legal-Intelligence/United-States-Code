@@ -8,7 +8,7 @@ Subject to subsection (d) of this section, a group health plan, and a health ins
 
 &emsp;(2) such exclusion extends for a period of not more than 12 months (or 18 months in the case of a late enrollee) after the enrollment date; and
 
-&emsp;(3) the period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage (if any, asdefined in subsection (c)(1) of this section) applicable to the participant or beneficiary as of the enrollment date.
+&emsp;(3) the period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage (if any, as defined in subsection (c)(1) of this section) applicable to the participant or beneficiary as of the enrollment date.
 
 #### (b) Definitions
 
@@ -38,7 +38,7 @@ For purposes of this part—
 
 #### (4) Waiting period
 
-&emsp;The term “waiting period” means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
+&emsp;The term “waiting period” means, with respect to a group health plan and an individualwho is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
 
 #### (c) Rules relating to crediting previous coverage
 
@@ -188,7 +188,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iii) a person becomes such a dependent of the individual through marriage, birth, or adoption or placement for adoption,
 
-> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person (or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
+> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person\(or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
 
 #### (B) Dependent special enrollment period
 
@@ -242,7 +242,7 @@ For purposes of this part—
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(1)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B\(§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Public Health Service Act, referred to in subsec. (g)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 

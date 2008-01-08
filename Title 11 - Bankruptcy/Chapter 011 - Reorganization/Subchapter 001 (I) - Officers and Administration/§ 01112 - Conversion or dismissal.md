@@ -70,7 +70,7 @@
 
 (f) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 98–353, title III, §505, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §§224, 256, Oct. 27, 1986, 100 Stat. 3102, 3114; Pub. L. 103–394, title II, §217(c),Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §442(a), Apr. 20, 2005, 119 Stat. 115.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 98–353, title III, §505, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §§224, 256, Oct. 27, 1986, 100 Stat. 3102, 3114; Pub. L. 103–394, title II, §217(c), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §442(a), Apr. 20, 2005, 119 Stat. 115.)
 
 #### Historical and Revision Notes
 

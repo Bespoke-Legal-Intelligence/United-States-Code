@@ -14,7 +14,7 @@
 
 &emsp;(B) Each soft-tissue sarcoma becoming manifest to a degree of disability of 10 percent or more other than osteosarcoma, chondrosarcoma, Kaposi's sarcoma, or mesothelioma.
 
-&emsp;(C) Chloracne or another acneform disease consistent with chloracne becoming manifest to a degree of disability of 10 percent or more within one year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
+&emsp;(C) Chloracne or another acneform disease consistent with chloracne becoming manifest to a degree of disability of 10 percent or more within one year after the last date on which the veteran performed active military, naval,or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
 &emsp;(D) Hodgkin's disease becoming manifest to a degree of disability of 10 percent or more.
 

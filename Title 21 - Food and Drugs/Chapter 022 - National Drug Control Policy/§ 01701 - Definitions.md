@@ -132,6 +132,10 @@ Par. (11). Pub. L. 109–469, §101(f), amended par. (11) generally. Prior to am
 
 Pars. (12), (13). Pub. L. 109–469, §101(g), added pars. (12) and (13).
 
+#### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–469, §1(a), Dec. 29, 2006, 120 Stat. 3502, provided that: “This Act \[enacting sections 1708a, 1714, 2001 to 2003, and 2011 to 2014 of this title, amending this section, sections 823, 1524, 1532, 1702 to 1708, 1710 to 1712 of this title, and section 458 of Title 6, Domestic Security, repealing sections 1509, 1709, and 1801 to 1804 of this title, enacting provisions set out as notes under this section, sections 1532, 1705, 1706, and 2001 of this title, and section 112 of Title 32, National Guard, amending provisions set out as a note under section 1521 of this title, and repealing provisions set out as a note under section 1801 of this title\] may be cited as the ‘Office of National Drug Control Policy Reauthorization Act of 2006’.”
@@ -164,7 +168,7 @@ Ex. Ord. No. 13165, Aug. 9, 2000, 65 F.R. 49469, as amended by Ex. Ord. No. 1328
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Office of National Drug Control \[Policy\] Reauthorization Act of 1998, (21 U.S.C. 1701 <i>et seq</i>.), and in order to develop recommendations for Federal agency actions to address the use of drugs in sports, in particular among young people, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The use of drugs in sports has reached a level that endangers not just the legitimacy of athletic competition but also the lives and health of athletes—from the elite ranks to youth leagues. The National Household Survey on Drug Abuse issued in 1999 found that in just 1 year's time the rate of steroiduse among young people rose roughly 50 percent among both sexes and across all age groups. It is the policy of my Administration to take the steps needed to help eliminate illicit or otherwise banned drug use and doping in sports at the State, national, and international level.
+Section 1. <i>Policy</i>. The use of drugs in sports has reached a level that endangers not just the legitimacy of athletic competition but also the lives and health of athletes—from the elite ranks to youth leagues. The National Household Survey on Drug Abuse issued in 1999 found that in just 1 year's time the rate of steroid use among young people rose roughly 50 percent among both sexes and across all age groups. It is the policy of my Administration to take the steps needed to help eliminate illicit or otherwise banned drug use and doping in sports at the State, national, and international level.
 
 Sec. 2. <i>Establishment of a White House Task Force on Drug Use in Sports</i>. (a) There is established a White House Task Force on Drug Use in Sports (Task Force). The Task Force shall comprise the co-vice chairs of the White House Olympic Task Force (the “Olympic Task Force Vice Chairs”), and representatives designated by the Office of National Drug Control Policy, the Department of Health and Human Services, the Department of Labor, the President's Council on Physical Fitness and Sports, the Office of Management and Budget, the National Security Council, the Department of State, the Department of the Treasury, the Department of Education, the Department of Justice, the Department of Transportation, the Department of Homeland Security, the National Institute on Drug Abuse, and the Substance Abuse and Mental Health Services Administration.
 

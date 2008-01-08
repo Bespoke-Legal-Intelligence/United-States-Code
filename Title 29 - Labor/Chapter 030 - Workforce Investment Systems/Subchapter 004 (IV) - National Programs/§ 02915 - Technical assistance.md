@@ -18,7 +18,7 @@
 
 #### (1) Authority
 
-&emsp;Of the amounts available pursuant to section 2862(a)(2) of this title, the Secretary shall reserve not more than 5 percent of such amounts to provide technical assistance to States that do not meet the State performance measures described in section 2871 of this title with respect to employment and training activities for dislocated workers. Using such reserved funds, the Secretary may provide such assistance to other States, local areas, and other entities involved in providing assistance to dislocated workers, to promote the continuous improvement of assistance provided to dislocated workers, under this chapter.
+&emsp;Of the amounts available pursuant to section 2862(a)(2) of this title, the Secretary shall reserve not more than 5 percent of such amounts to provide technical assistance to States that do not meet the State performance measures described in section 2871 of this title with respect to employment and training activities for dislocated workers. Using such reserved funds, the Secretary may provide such assistance to other States, local areas, and other entities involved in providing assistance to dislocated workers, to promote thecontinuous improvement of assistance provided to dislocated workers, under this chapter.
 
 #### (2) Training
 

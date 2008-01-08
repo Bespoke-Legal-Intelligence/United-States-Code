@@ -70,7 +70,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (v) Training
 
-&emsp;&emsp;&emsp;The plan shall provide a training program for emergency procedures describedin the plan which will not diminish the requirements for mandatory health and safety training currently required under section 825 of this title.
+&emsp;&emsp;&emsp;The plan shall provide a training program for emergency procedures described in the plan which will not diminish the requirements for mandatory health and safety training currently required under section 825 of this title.
 
 #### (vi) Local coordination
 

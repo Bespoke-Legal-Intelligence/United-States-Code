@@ -48,7 +48,7 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;&emsp;(A) through both intake and followup screening, that only targeted low-income children are furnished child health assistance under the State child health plan;
 
-&emsp;&emsp;(B) that children found through the screening to be eligible for medical assistanceunder the State medicaid plan under subchapter XIX of this chapter are enrolled for such assistance under such plan;
+&emsp;&emsp;(B) that children found through the screening to be eligible for medical assistance under the State medicaid plan under subchapter XIX of this chapter are enrolled for such assistance under such plan;
 
 &emsp;&emsp;(C) that the insurance provided under the State child health plan does not substitute for coverage under group health plans;
 

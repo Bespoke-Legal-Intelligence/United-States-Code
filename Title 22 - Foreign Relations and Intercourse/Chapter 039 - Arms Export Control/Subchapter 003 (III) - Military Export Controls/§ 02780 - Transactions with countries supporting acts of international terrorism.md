@@ -36,7 +36,7 @@ The following transactions by the United States Government are prohibited:
 
 &emsp;&emsp;(B) Selling, leasing, loaning, granting, or otherwise providing any munitions item to any country described in subsection (d) of this section.
 
-&emsp;&emsp;(C) Selling, leasing, loaning, granting, or otherwise providing any munitions item toany recipient which is not the government of or a person in a country described in subsection (d) of this section if the United States person has reason to know that the munitions item will be made available to any country described in subsection (d) of this section.
+&emsp;&emsp;(C) Selling, leasing, loaning, granting, or otherwise providing any munitions item to any recipient which is not the government of or a person in a country described in subsection (d) of this section if the United States person has reason to know that the munitions item will be made available to any country described in subsection (d) of this section.
 
 &emsp;&emsp;(D) Taking any other action which would facilitate the acquisition, directly or indirectly, of any munitions item by the government of any country described in subsection (d) of this section, or any person acting on behalf of that government, if the United States person has reason to know that that action will facilitate the acquisition of that item by such a government or person.
 
@@ -160,11 +160,11 @@ As used in this section—
 
 &emsp;(5) the term “unsafeguarded special nuclear material” has the meaning given that term in section 6305(8) of this title.
 
-(Pub. L. 90–629, ch. 3, §40, as added Pub. L. 99–399, title V, §509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, §2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, §321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, §822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L.106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, §1204, Sept. 30, 2002, 116 Stat. 1427.)
+(Pub. L. 90–629, ch. 3, §40, as added Pub. L. 99–399, title V, §509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, §2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, §321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, §822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, §1204, Sept. 30, 2002, 116 Stat. 1427.)
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961,75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 40(d) of the Arms Export Control Act, referred to in subsec. (f)(2)(A), is classified to subsec. (d) of this section.
 
@@ -195,10 +195,6 @@ Prohibition.—Except as provided in subsection (b) of this section, items on th
 “(b)
 
 Waiver.—The President may waive the prohibition contained in subsection (a) of this section in the case of a particular export if the President determines that the export is important to the national interests of the United States and submits to the Congress a report justifying that determination and describing the proposed export. Any such waiver shall expire at the end of 90 days after it is granted unless the Congress enacts a law extending the waiver.”
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

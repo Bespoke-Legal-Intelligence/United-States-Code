@@ -182,11 +182,11 @@ Plan and Recommendations.—
 
 &emsp;“(1)
 
-Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program.
+Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program.
 
 &emsp;“(2)
 
-Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change.”
+Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change.”
 
 #### Study and Report Relating to Use of Private Food Establishments and Caterers Under School Lunch Program and School Breakfast Program
 
@@ -198,5 +198,5 @@ Pub. L. 101–624, title XVII, §1779, Nov. 28, 1990, 104 Stat. 3816, directed S
 
 #### Comprehensive Study of Benefits of Programs; Report to Congress
 
-Pub. L. 93–150, §10, Nov. 7, 1973, 87 Stat. 564, directed Secretary of Agriculture to carry out a comprehensive study to determine if the benefits of the National School Lunch Act and the Child Nutrition Act are accruing to the maximum extent possible to all of the nation's school children, and to determine if regional cost differentials exist in Alaska and other States so as to require additional reimbursement, such report with recommendations to be submitted to Congress no later than June 30, 1974.
+Pub. L. 93–150, §10, Nov. 7, 1973, 87 Stat. 564, directed Secretary of Agriculture to carry out a comprehensive study to determine if the benefits of the National School Lunch Act and the Child Nutrition Act are accruing to the maximum extent possible to all of the nation's school children, and to determine if regional costdifferentials exist in Alaska and other States so as to require additional reimbursement, such report with recommendations to be submitted to Congress no later than June 30, 1974.
 

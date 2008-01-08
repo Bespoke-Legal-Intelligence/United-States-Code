@@ -14,7 +14,7 @@ Federal agencies authorized to construct or operate water-control projects are a
 
 #### (d) Project costs
 
-The cost of planning for and the construction or installation and maintenance of such means and measures adopted to carry out the conservation purposes of this section shall constitute an integral part of the cost of such projects: <i>Provided</i>, That such cost attributable to the development and improvement of wildlife shall not extend beyond that necessary for (1) land acquisition, (2) facilities as specifically recommended in water resource project reports, (3) modification of the project, and (4) modification of project operations, but shall not include the operation of wildlife facilities.
+The cost of planning for and the construction or installation and maintenance of such means and measures adopted to carry out the conservation purposes of this section shall constitute an integral part of the cost of such projects: <i>Provided</i>, That such cost attributable to the development and improvement of wildlife shall not extend beyond that necessary for (1) land acquisition, (2) facilities as specifically recommended in water resource project reports, (3) modification of the project, and (4) modification ofproject operations, but shall not include the operation of wildlife facilities.
 
 #### (e) Transfer of funds
 

@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any dispute between a processor and a producer, or group of producers, with respect to the sharing of the allocation to the processor shall be resolved through arbitration by the Secretary on the request of either party.
+&emsp;&emsp;Any dispute between a processor and a producer, or group of producers, with respect tothe sharing of the allocation to the processor shall be resolved through arbitration by the Secretary on the request of either party.
 
 #### (B) Period
 
@@ -52,7 +52,7 @@
 
 #### (2) Establishment of proportionate shares
 
-&emsp;If the Secretary determines under paragraph (1) that the quantity of sugarcane produced by producers in the area covered by a State allotment for a crop year will be in excess of the quantity needed to enable processors to fill the allotment for the crop year and provide a normal carryover inventory of sugar, the Secretary shall establish a proportionate sharefor each sugarcane-producing farm that limits the acreage of sugarcane that may be harvested on the farm for sugar or seed during the crop year the allotment is in effect as provided in this subsection. Each such proportionate share shall be subject to adjustment under paragraph (7) and section 1359cc(g) of this title.
+&emsp;If the Secretary determines under paragraph (1) that the quantity of sugarcane produced by producers in the area covered by a State allotment for a crop year will be in excess of the quantity needed to enable processors to fill the allotment for the crop year and provide a normal carryover inventory of sugar, the Secretary shall establish a proportionate share for each sugarcane-producing farm that limits the acreage of sugarcane that may be harvested on the farm for sugar or seed during the crop year the allotment is in effect as provided in this subsection. Each such proportionate share shall be subject to adjustment under paragraph (7) and section 1359cc(g) of this title.
 
 #### (3) Method of determining
 
@@ -102,7 +102,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a sugarcane processing facility subject to this subsection is closed and the sugarcane growers that delivered sugarcane to the facility prior to closure elect to deliver their sugarcane to another processing company, the growers may petition the Secretary tomodify allocations under this subpart to allow the delivery.
+&emsp;&emsp;If a sugarcane processing facility subject to this subsection is closed and the sugarcane growers that delivered sugarcane to the facility prior to closure elect to deliver their sugarcane to another processing company, the growers may petition the Secretary to modify allocations under this subpart to allow the delivery.
 
 #### (B) Increased allocation for processing company
 

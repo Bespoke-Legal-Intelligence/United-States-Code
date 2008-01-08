@@ -20,7 +20,7 @@ It shall be unlawful for a labor organization—
 
 &emsp;(1) to exclude or to expel from its membership, or otherwise to discriminate against, any individual because of his age;
 
-&emsp;(2) to limit, segregate, or classify its membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, orwould limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's age;
+&emsp;(2) to limit, segregate, or classify its membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's age;
 
 &emsp;(3) to cause or attempt to cause an employer to discriminate against an individual in violation of this section.
 
@@ -36,7 +36,7 @@ It shall be unlawful for an employer, labor organization, or employment agency t
 
 It shall not be unlawful for an employer, employment agency, or labor organization—
 
-&emsp;(1) to take any action otherwise prohibited under subsections (a), (b), (c), or (e) of this section where age is a bona fide occupational qualification reasonably necessary to the normal operation of the particular business, or where the differentiation is based on reasonable factors other than age, or where such practices involve an employee in a workplace in a foreign country, and compliance with such subsections would cause such employer, or a corporation controlled by such employer, to violate the laws of the country in which such workplace is located;
+&emsp;(1) to take any action otherwise prohibited under subsections (a), (b), (c), or (e) of this section where age is a bona fide occupationalqualification reasonably necessary to the normal operation of the particular business, or where the differentiation is based on reasonable factors other than age, or where such practices involve an employee in a workplace in a foreign country, and compliance with such subsections would cause such employer, or a corporation controlled by such employer, to violate the laws of the country in which such workplace is located;
 
 &emsp;(2) to take any action otherwise prohibited under subsection (a), (b), (c), or (e) of this section—
 
@@ -88,7 +88,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;(B) if distribution of benefits under such plan with respect to such employee has not commenced as of the end of such year in accordance with section 1056(a)(3) of this title and section 401(a)(14)(C) of title 26, and the payment of benefits under such plan with respect to such employee is not suspended during such plan year pursuant to section 1053(a)(3)(B) of this title or section 411(a)(3)(B) of title 26, then any requirement of this subsection for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of any adjustment in the benefit payable under the plan during such plan year attributable to the delay in the distribution of benefits after the attainment of normal retirement age.
 
-> The provisions of this paragraph shall apply in accordance with regulations of the Secretary of the Treasury. Such regulations shall provide for the application of the preceding provisions of this paragraph to all employee pension benefit plans subject to this subsection and may provide for the application of such provisions, in the case of any such employee, with respect to any period of time within a plan year.
+> The provisions of this paragraph shall apply in accordance with regulations of the Secretary of the Treasury. Such regulations shall provide for the application of the preceding provisions of this paragraph to all employee pension benefit plans subject to this subsection and may providefor the application of such provisions, in the case of any such employee, with respect to any period of time within a plan year.
 
 (4) Compliance with the requirements of this subsection with respect to an employee pension benefit plan shall constitute compliance with the requirements of this section relating to benefit accrual under such plan.
 
@@ -164,7 +164,7 @@ Rate of benefit accrual.—Subject to clause (iv), the requirements of this clau
 
 &emsp;&emsp;(iv)
 
-Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amountof any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
 &emsp;&emsp;(v)
 
@@ -364,7 +364,7 @@ Subsec. (j)(1). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(2)\]\], subst
 
 &emsp;&emsp;“(II) age 55; and” for “and the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and”.
 
-1990—Subsec. (f)(2). Pub. L. 101–433, §103(1), added par. (2) and struck out former par. (2) which read as follows: “to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except that no such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or”.
+1990—Subsec. (f)(2). Pub. L. 101–433, §103(1), added par. (2) and struck out former par. (2) which read as follows:“to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except that no such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or”.
 
 Subsecs. (i), (j). Pub. L. 101–433, §103(2), redesignated subsec. (i), relating to employment as firefighter or law enforcement officer, as (j).
 
@@ -456,7 +456,7 @@ Collectively Bargained Agreements.—With respect to any employee benefits provi
 
 &emsp;“(3) any provision of which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4))); and
 
-&emsp;“(4) that contains any provision that would be superseded (in whole or part) by this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title, but for the operation of this section,
+&emsp;“(4) that contains any provision that would be superseded (in whole or part) by this title \[amendingthis section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title, but for the operation of this section,
 
 > this title and the amendments made by this title shall not apply until the termination of such collective bargaining agreement or June 1, 1992, whichever occurs first.
 
@@ -642,7 +642,7 @@ Section 101(a) \[title I, §119\[1(c)\]\] of Pub. L. 104–208 provided that: �
 
 #### Transfer of Functions
 
-Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization andEmployees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
 #### Study and Guidelines for Performance Tests
 

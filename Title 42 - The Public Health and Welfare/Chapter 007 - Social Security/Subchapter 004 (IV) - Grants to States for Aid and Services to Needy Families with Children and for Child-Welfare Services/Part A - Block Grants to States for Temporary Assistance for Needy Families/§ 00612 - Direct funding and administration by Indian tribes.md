@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Labor shall award a grant in accordance with this paragraph toan Indian tribe for each fiscal year specified in section 603(a)(5)(H) of this title for which the Indian tribe is a welfare-to-work tribe, in such amount as the Secretary of Labor deems appropriate, subject to subparagraph (B) of this paragraph.
+&emsp;&emsp;The Secretary of Labor shall award a grant in accordance with this paragraph to an Indian tribe for each fiscal year specified in section 603(a)(5)(H) of this title for which the Indian tribe is a welfare-to-work tribe, in such amount as the Secretary of Labor deems appropriate, subject to subparagraph (B) of this paragraph.
 
 #### (B) Welfare-to-work tribe
 

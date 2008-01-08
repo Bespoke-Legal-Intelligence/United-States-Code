@@ -28,6 +28,14 @@ Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear”
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “multiyear” for “five-year”.
 
+#### Major Force Program Category for Space
+
+Pub. L. 110–116, div. A, title VIII, §8111, Nov. 13, 2007, 121 Stat. 1339, provided that: “The Secretary of Defense shall create a major force program category for space for the Future Years Defense Program of the Department of Defense. The Secretary of Defense shall designate an official in the Office of the Secretary of Defense to provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category.”
+
+#### Request for Funds for Ongoing Military Operation Overseas
+
+Pub. L. 110–116, div. A, title VIII, §8116, Nov. 13, 2007, 121 Stat. 1340, provided that: “Any request for funds for a fiscal year after fiscal year 2008 for an ongoing military operation overseas, including operations in Afghanistan and Iraq, shall be included in the annual budget of the President for such fiscal year as submitted to Congress under section 1105(a) of title 31, United States Code.”
+
 #### Annual Report on Personnel Security Investigations for Industry and National Industrial Security Program
 
 Pub. L. 109–364, div. A, title III, §347(a), (b), Oct. 17, 2006, 120 Stat. 2158, provided that:
@@ -178,9 +186,11 @@ Pub. L. 107–64, §131, Nov. 5, 2001, 115 Stat. 482.
 
 #### Budget Justification Documents for Costs of Armed Forces’ Participation in Contingency Operations
 
-Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: “The budget of the President for fiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003.”
+Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: “The budget of the President forfiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 110–116, div. A, title VIII, §8091, Nov. 13, 2007, 121 Stat. 1335.
 
 Pub. L. 109–289, div. A, title VIII, §8089, Sept. 29, 2006, 120 Stat. 1294.
 
@@ -264,5 +274,5 @@ Section 1402(b) of Pub. L. 101–510 provided for limitations on obligation by S
 
 #### Mission Oriented Presentation of Department of Defense Matters in Budget
 
-Section 1404 of Pub. L. 101–510 directed President to submit with budget submitted to Congress each year of programs of Department of Defense, a budget that organizes programs within major functional category 050\(National Defense) on basis of major roles and missions of Department of Defense, prior to repeal by Pub. L. 102–484, div. A, title X, §1002(b), Oct. 23, 1992, 106 Stat. 2480. See section 222 of this title.
+Section 1404 of Pub. L. 101–510 directed President to submit with budget submitted to Congress each year of programs of Department of Defense, a budget that organizes programs within major functional category 050 (National Defense) on basis of major roles and missions of Department of Defense, prior to repeal by Pub. L. 102–484, div. A, title X, §1002(b), Oct. 23, 1992, 106 Stat. 2480. See section 222 of this title.
 

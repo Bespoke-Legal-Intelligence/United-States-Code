@@ -50,7 +50,7 @@
 
 (2) Paragraph (1) of this subsection shall not apply to an issue of a publication if the total paid circulation of such issue is less than 10,000 copies.
 
-(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within the county in which it is published, but distributed outside such county on postal carrier routes originating in the county of publication, shall be treated as if they were distributed within the county of publication.
+(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within the county in which it is published, but distributedoutside such county on postal carrier routes originating in the county of publication, shall be treated as if they were distributed within the county of publication.
 
 (4)(A) In the case of an issue of a publication, any number of copies of which are mailed at the rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title, any copies of such issue which are distributed outside the county of publication (excluding any copies subject to paragraph (3)) shall be subject to rates of postage provided for under this paragraph.
 
@@ -94,9 +94,9 @@
 
 (B) The Postal Service shall establish procedures to carry out this paragraph, including procedures for mailer certification of compliance with the conditions specified in paragraph (1)(D) or subsection (m), as applicable, and verification of such compliance.
 
-(k)(1) No person or organization shall mail, or cause to be mailed by contractual agreement or otherwise, at the rates for mail under former section 4452(b) or 4452(c) of this title, any matter to which those rates do not apply.
+(k)(1) No person or organization shall mail, or cause to be mailed by contractual agreement orotherwise, at the rates for mail under former section 4452(b) or 4452(c) of this title, any matter to which those rates do not apply.
 
-(2) The Postal Service may assess a postage deficiency in the amount of the unpaid postage against any person or organization which violates paragraph (1) of this subsection. This assessment shall be deemed the final decision of the Postal Service, unless the party against whom the deficiency is assessed appeals it in writing within thirty days to the postmaster of the office where the mailing was entered. Such an appeal shall be considered by an official designated by the Postal Service, other than the postmaster of the office where the mailing was entered, who shall issue a decision as soon as practicable. This decision shall be deemed final unless the party against whom the deficiency was assessed appeals it in writing within thirty days to a further reviewing official designatedby the Postal Service, who shall issue the final decision on the matter.
+(2) The Postal Service may assess a postage deficiency in the amount of the unpaid postage against any person or organization which violates paragraph (1) of this subsection. This assessment shall be deemed the final decision of the Postal Service, unless the party against whom the deficiency is assessed appeals it in writing within thirty days to the postmaster of the office where the mailing was entered. Such an appeal shall be considered by an official designated by the Postal Service, other than the postmaster of the office where the mailing was entered, who shall issue a decision as soon as practicable. This decision shall be deemed final unless the party against whom the deficiency was assessed appeals it in writing within thirty days to a further reviewing official designated by the Postal Service, who shall issue the final decision on the matter.
 
 (3) The Postal Service shall maintain procedures for the prompt collection of postage deficiencies arising from the violation of paragraph (1) of this subsection, and may in its discretion, follow the issuance of a final decision regarding a deficiency under paragraph (2) of this subsection deduct the amount of that deficiency incurred during the previous 12 months from any postage accounts or other monies of the violator in its possession.
 
@@ -148,7 +148,7 @@ Subsec. (a)(7). Pub. L. 106–384, §1(e), added par. (7).
 
 1998—Subsec. (b)(3). Pub. L. 105–244 substituted “section 101” for “section 1201(a)” and struck out “(20 U.S.C. 1141(a))” after “Act of 1965”.
 
-1996—Subsec. (b)(3). Pub. L. 104–255 inserted before period “, and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency”.
+1996—Subsec. (b)(3). Pub. L. 104–255 inserted before period “, and includes a nonprofit organization that coordinates a network of college-level courses that issponsored primarily by nonprofit educational institutions for an older adult constituency”.
 
 1994—Subsec. (j)(1)(D)(III). Pub. L. 103–329 added cl. (III).
 
@@ -156,7 +156,7 @@ Subsec. (a)(7). Pub. L. 106–384, §1(e), added par. (7).
 
 “(1) Except as provided in paragraph (2) of this subsection, rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in accordance with applicable provisions of this chapter.
 
-“(2) Rates of postage for a class of mail or kind of mailer referred to in paragraph (1) of this subsection shall be established in accordance with the requirement that the direct and indirect postal costs attributable to such class of mail or kind of mailer (excluding any other costs of the Postal Service) shall be borne by such class of mail or kind of mailer, as the case may be: <i>Provided, however</i>, That with respect to mail under former section 4452(b) and 4452(c) of this title the preceding limitation shall apply only to rates of postage for letter shaped pieces, as such pieces aredefined in the associated classification and rate schedules.”
+“(2) Rates of postage for a class of mail or kind of mailer referred to in paragraph (1) of this subsection shall be established in accordance with the requirement that the direct and indirect postal costs attributable to such class of mail or kind of mailer (excluding any other costs of the Postal Service) shall be borne by such class of mail or kind of mailer, as the case may be: <i>Provided, however</i>, That with respect to mail under former section 4452(b) and 4452(c) of this title the preceding limitation shall apply only to rates of postage for letter shaped pieces, as such pieces are defined in the associated classification and rate schedules.”
 
 Subsec. (i). Pub. L. 103–123, §704(a)(3)(A), struck out subsec. (i) which defined “reduced-rate category” and “regular-rate category” and provided method for determining costs recovered by revenues plus appropriations for reduced-rate categories and for the purpose of distinguishing costs recovered from regular-rate categories and reduced-rate categories and determining appropriation requests relating to reduced-rate categories.
 
@@ -240,7 +240,7 @@ Section 2 of Pub. L. 101–509 provided that:
 
 “(a)
 
-In General.—The United States Postal Service may forbear from the collection of any postage deficiency assessed against an organization authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, if the assessment of that deficiency arises from a violation of the cooperative mailing regulations of the Postal Service set forth at section 625.5 of the Domestic Mail Manual,and the Postal Service has made no determination that the organization knowingly or willfully violated such regulations. If any organizations authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, has paid on its own behalf all or part of a postage deficiency which the Postal Service would forbear from collecting under this section, the Postal Service may refund to that organization the amount which it has paid.
+In General.—The United States Postal Service may forbear from the collection of any postage deficiency assessed against an organization authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, if the assessment of that deficiency arises from a violation of the cooperative mailing regulations of the Postal Service set forth at section 625.5 of the Domestic Mail Manual, and the Postal Service has made no determination that the organization knowingly or willfully violated such regulations. If any organizations authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, has paid on its own behalf all or part of a postage deficiency which the Postal Service would forbear from collecting under this section, the Postal Service may refund to that organization the amount which it has paid.
 
 “(b)
 

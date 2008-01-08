@@ -1,5 +1,7 @@
 Part A—Drugs and Devices
 
+<i><sup>1</sup></i><i> So in original. Probably should be “in section”.</i>
+
 
 ---
 
@@ -9,11 +11,15 @@ Part A—Drugs and Devices
 - [&sect; 00352 - Misbranded drugs and devices](%C2%A7%2000352%20-%20Misbranded%20drugs%20and%20devices.md)
 - [&sect; 00353 - Exemptions and consideration for certain drugs, devices, and biological products](%C2%A7%2000353%20-%20Exemptions%20and%20consideration%20for%20certain%20drugs%2C%20devices%2C%20and%20biological%20products.md)
 - [&sect; 00353a - Pharmacy compounding](%C2%A7%2000353a%20-%20Pharmacy%20compounding.md)
+- [&sect; 00353b - Prereview of television advertisements](%C2%A7%2000353b%20-%20Prereview%20of%20television%20advertisements.md)
 - [&sect; 00354 - Veterinary feed directive drugs](%C2%A7%2000354%20-%20Veterinary%20feed%20directive%20drugs.md)
 - [&sect; 00355 - New drugs](%C2%A7%2000355%20-%20New%20drugs.md)
+- [&sect; 00355&#8211;1 - Risk evaluation and mitigation strategies](%C2%A7%2000355%E2%80%931%20-%20Risk%20evaluation%20and%20mitigation%20strategies.md)
 - [&sect; 00355a - Pediatric studies of drugs](%C2%A7%2000355a%20-%20Pediatric%20studies%20of%20drugs.md)
 - [&sect; 00355b - Adverse-event reporting](%C2%A7%2000355b%20-%20Adverse-event%20reporting.md)
 - [&sect; 00355c - Research into pediatric uses for drugs and biological products](%C2%A7%2000355c%20-%20Research%20into%20pediatric%20uses%20for%20drugs%20and%20biological%20products.md)
+- [&sect; 00355d - Internal committee for review of pediatric plans, assessments, deferrals, and waivers](%C2%A7%2000355d%20-%20Internal%20committee%20for%20review%20of%20pediatric%20plans%2C%20assessments%2C%20deferrals%2C%20and%20waivers.md)
+- [&sect; 00355e - Pharmaceutical security](%C2%A7%2000355e%20-%20Pharmaceutical%20security.md)
 - [&sect; 00356 - Fast track products](%C2%A7%2000356%20-%20Fast%20track%20products.md)
 - [&sect; 00356&#8211;1 - Accelerated approval of priority countermeasures](%C2%A7%2000356%E2%80%931%20-%20Accelerated%20approval%20of%20priority%20countermeasures.md)
 - [&sect; 00356a - Manufacturing changes](%C2%A7%2000356a%20-%20Manufacturing%20changes.md)
@@ -23,11 +29,12 @@ Part A—Drugs and Devices
 - [&sect; 00358 - Authority to designate official names](%C2%A7%2000358%20-%20Authority%20to%20designate%20official%20names.md)
 - [&sect; 00359 - Nonapplicability of subchapter to cosmetics](%C2%A7%2000359%20-%20Nonapplicability%20of%20subchapter%20to%20cosmetics.md)
 - [&sect; 00360 - Registration of producers of drugs or devices](%C2%A7%2000360%20-%20Registration%20of%20producers%20of%20drugs%20or%20devices.md)
-- [&sect; 00360a - Repealed. Pub. L. 91&#8211;513, title II, &sect;701(a), Oct. 27, 1970, 84 Stat. 1281](%C2%A7%2000360a%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93513%2C%20title%20II%2C%20%C2%A7701%28a%29%2C%20Oct.%2027%2C%201970%2C%2084%20Stat.%201281.md)
+- [&sect; 00360a - Clinical trial guidance for antibiotic drugs](%C2%A7%2000360a%20-%20Clinical%20trial%20guidance%20for%20antibiotic%20drugs.md)
 - [&sect; 00360b - New animal drugs](%C2%A7%2000360b%20-%20New%20animal%20drugs.md)
 - [&sect; 00360c - Classification of devices intended for human use](%C2%A7%2000360c%20-%20Classification%20of%20devices%20intended%20for%20human%20use.md)
 - [&sect; 00360d - Performance standards](%C2%A7%2000360d%20-%20Performance%20standards.md)
 - [&sect; 00360e - Premarket approval](%C2%A7%2000360e%20-%20Premarket%20approval.md)
+- [&sect; 00360e&#8211;1 - Pediatric uses of devices](%C2%A7%2000360e%E2%80%931%20-%20Pediatric%20uses%20of%20devices.md)
 - [&sect; 00360f - Banned devices](%C2%A7%2000360f%20-%20Banned%20devices.md)
 - [&sect; 00360g - Judicial review](%C2%A7%2000360g%20-%20Judicial%20review.md)
 - [&sect; 00360h - Notification and other remedies](%C2%A7%2000360h%20-%20Notification%20and%20other%20remedies.md)
@@ -36,3 +43,4 @@ Part A—Drugs and Devices
 - [&sect; 00360k - State and local requirements respecting devices](%C2%A7%2000360k%20-%20State%20and%20local%20requirements%20respecting%20devices.md)
 - [&sect; 00360l - Postmarket surveillance](%C2%A7%2000360l%20-%20Postmarket%20surveillance.md)
 - [&sect; 00360m - Accredited persons](%C2%A7%2000360m%20-%20Accredited%20persons.md)
+- [&sect; 00360n - Priority review to encourage treatments for tropical diseases](%C2%A7%2000360n%20-%20Priority%20review%20to%20encourage%20treatments%20for%20tropical%20diseases.md)

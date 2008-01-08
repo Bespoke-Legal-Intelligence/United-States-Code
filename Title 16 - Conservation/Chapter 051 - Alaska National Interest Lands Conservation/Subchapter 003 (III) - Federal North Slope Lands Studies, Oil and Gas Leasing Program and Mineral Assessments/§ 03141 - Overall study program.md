@@ -8,7 +8,7 @@ The Secretary shall initiate and carry out a study of all Federal lands (other t
 
 The study shall utilize a systematic interdisciplinary approach to—
 
-&emsp;(1) assess the potential oil and gas resources of these lands and make recommendationsconcerning future use and management of those resources including an evaluation of alternative transportation routes needed for oil and gas development;
+&emsp;(1) assess the potential oil and gas resources of these lands and make recommendations concerning future use and management of those resources including an evaluation of alternative transportation routes needed for oil and gas development;
 
 &emsp;(2) review the wilderness characteristics, and make recommendations for wilderness designation, of these lands; and
 
@@ -38,7 +38,7 @@ The Secretary shall submit the study and his findings to the President and the C
 
 #### (f) Selection and conveyance of land by State and Natives unaffected
 
-Nothing in this subchapter shall be construed as impeding, delaying, or otherwise affecting the selection and conveyance of land to the State pursuant to the Alaska Statehood Act, or any other Federal law referred to in section 3102(3)(A) of this title, and to the Natives pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and this Act.
+Nothing in this subchapter shall be construed as impeding, delaying, or otherwise affecting theselection and conveyance of land to the State pursuant to the Alaska Statehood Act, or any other Federal law referred to in section 3102(3)(A) of this title, and to the Natives pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and this Act.
 
 (Pub. L. 96–487, title X, §1001, Dec. 2, 1980, 94 Stat. 2448.)
 

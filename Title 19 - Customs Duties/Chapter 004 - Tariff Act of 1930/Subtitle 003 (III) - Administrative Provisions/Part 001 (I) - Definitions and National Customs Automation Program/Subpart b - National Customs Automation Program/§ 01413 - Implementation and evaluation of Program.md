@@ -42,7 +42,7 @@
 
 #### (2) Implementation
 
-&emsp;(A) The Secretary may implement on a permanent basis any Program component referred to in paragraph (1) on or after the date which is 30 days after paragraph (1)(D) is complied with.
+&emsp;(A) The Secretary may implement on a permanent basis any Program component referred to in paragraph (1) on or after the datewhich is 30 days after paragraph (1)(D) is complied with.
 
 &emsp;(B) For purposes of subparagraph (A), the 30 days shall be computed by excluding—
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(ii) a report on such component for each of the 3 full fiscal years occurring after December 8, 1993, which report shall be transmitted not later than the 90th day after the close of each such year; and
 
-&emsp;&emsp;(D) not later than the 90th day after the close of fiscal year 1994, and annually thereafter through fiscal year 2000, transmit to the Committees a written evaluation with respect to the implementation and effect onusers of each of the planned Program components listed in section 1411(a)(2) of this title.
+&emsp;&emsp;(D) not later than the 90th day after the close of fiscal year 1994, and annually thereafter through fiscal year 2000, transmit to the Committees a written evaluation with respect to the implementation and effect on users of each of the planned Program components listed in section 1411(a)(2) of this title.
 
 > &emsp;In carrying out the provisions of this paragraph, the Secretary shall publish requests for comments in the Customs Bulletin and shall consult with the trade community, including importers, brokers, shippers, and other affected parties.
 

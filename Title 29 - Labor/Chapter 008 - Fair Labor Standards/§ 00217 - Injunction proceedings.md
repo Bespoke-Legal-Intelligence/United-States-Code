@@ -6,7 +6,7 @@ The district courts, together with the United States District Court for the Dist
 
 #### Amendments
 
-1961—Pub. L. 87–30 substituted “, including in the case of violations of section 215(a)(2) of this title the restraint of any withholding of payment of minimum wages or overtime compensation found by the court to be due to employees under this chapter (except sums which employees are barred from recovering, at the time of the commencement of the action to restrain the violations, by virtue of the provisions of section 255 of this title” for “: <i>Provided</i>, That no court shall have jurisdiction, in any action brought by the Administrator to restrain such violations, to order the paymentto employees of unpaid minimum wages or unpaid overtime compensation or an additional equal amount as liquidated damages in such action”.
+1961—Pub. L. 87–30 substituted “, including in the case of violations of section 215(a)(2) of this title the restraint of any withholding of payment of minimum wages or overtime compensation found by the court to be due to employees under this chapter (except sums which employees are barred from recovering, at the time of the commencement of the action to restrain the violations, by virtue of the provisions of section 255 of this title” for “: <i>Provided</i>, That no court shall have jurisdiction, in any action brought by the Administrator to restrain such violations, to order the payment to employees of unpaid minimum wages or unpaid overtime compensation or an additional equal amount as liquidated damages in such action”.
 
 1960—Pub. L. 86–624 struck out reference to the District Court for Territory of Alaska.
 

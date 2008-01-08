@@ -78,7 +78,7 @@ Each eligible partnership receiving a grant under section 1023 of this title sha
 
 #### (A) Eligible States and eligible applicants
 
-&emsp;&emsp;If the Secretary determines that an eligible State or eligible applicant is not makingsubstantial progress in meeting the purposes, goals, objectives, and measures, as appropriate, by the end of the second year of a grant under this part, then the grant payment shall not be made for the third year of the grant.
+&emsp;&emsp;If the Secretary determines that an eligible State or eligible applicant is not making substantial progress in meeting the purposes, goals, objectives, and measures, as appropriate, by the end of the second year of a grant under this part, then the grant payment shall not be made for the third year of the grant.
 
 #### (B) Eligible partnerships
 
@@ -101,6 +101,8 @@ A prior section 1026, Pub. L. 89–329, title II, §206, Nov. 8, 1965, 79 Stat. 
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2002 Amendment
 

@@ -28,7 +28,7 @@
 
 (2) For purposes of this title, the term “unacceptable performance” with respect to an employee of the Internal Revenue Service covered by a performance management system established under this section means performance of the employee which fails to meet a retention standard established under this section.
 
-(c)(1) The Secretary of the Treasury may establish an awards program designed to provideincentives for and recognition of organizational, group, and individual achievements by providing for granting awards to employees who, as individuals or members of a group, contribute to meeting the performance goals and objectives established under this chapter by such means as a superior individual or group accomplishment, a documented productivity gain, or sustained superior performance.
+(c)(1) The Secretary of the Treasury may establish an awards program designed to provide incentives for and recognition of organizational, group, and individual achievements by providing for granting awards to employees who, as individuals or members of a group, contribute to meeting the performance goals and objectives established under this chapter by such means as a superior individual or group accomplishment, a documented productivity gain, or sustained superior performance.
 
 (2) A cash award under subchapter I of chapter 45 may be granted to an employee of the Internal Revenue Service without the need for any approval under section 4502(b).
 

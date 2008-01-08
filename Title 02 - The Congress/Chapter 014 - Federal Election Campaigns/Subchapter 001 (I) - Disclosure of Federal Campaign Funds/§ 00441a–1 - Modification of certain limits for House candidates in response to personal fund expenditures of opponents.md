@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The aggregate amount of contributions accepted by a candidate or a candidate's authorized committee under the increasedlimit under paragraph (1) and not otherwise expended in connection with the election with respect to which such contributions relate shall, not later than 50 days after the date of such election, be used in the manner described in subparagraph (B).
+&emsp;&emsp;The aggregate amount of contributions accepted by a candidate or a candidate's authorized committee under the increased limit under paragraph (1) and not otherwise expended in connection with the election with respect to which such contributions relate shall, not later than 50 days after the date of such election, be used in the manner described in subparagraph (B).
 
 #### (B) Return to contributors
 

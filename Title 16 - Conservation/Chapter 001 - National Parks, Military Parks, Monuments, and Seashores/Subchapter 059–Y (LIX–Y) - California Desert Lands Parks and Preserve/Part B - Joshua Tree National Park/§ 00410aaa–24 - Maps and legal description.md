@@ -4,9 +4,5 @@ Within six months after October 31, 1994, the Secretary shall file maps and lega
 
 (Pub. L. 103–433, title IV, §404, Oct. 31, 1994, 108 Stat. 4488.)
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “a legal”.</i>
 

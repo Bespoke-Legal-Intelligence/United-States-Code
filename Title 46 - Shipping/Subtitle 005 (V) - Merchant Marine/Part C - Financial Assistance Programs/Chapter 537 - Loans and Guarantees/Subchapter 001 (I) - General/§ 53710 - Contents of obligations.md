@@ -6,7 +6,7 @@ In General.—An obligation guaranteed under this chapter must—
 
 &emsp;(1) provide for payments by the obligor satisfactory to the Secretary;
 
-&emsp;(2) provide for interest (exclusive of guarantee fees and other fees) at a rate not more than the annual rate on the unpaid principal that the Secretary determines is reasonable, considering the range of interest rates prevailing in the private market for similar loans and the risks assumed by the Secretary;
+&emsp;(2) provide for interest (exclusive of guarantee fees and other fees) at a rate not more than the annual rate on the unpaid principal that the Secretary determines is reasonable,considering the range of interest rates prevailing in the private market for similar loans and the risks assumed by the Secretary;
 
 &emsp;(3) have a maturity date satisfactory to the Secretary, but—
 
@@ -104,7 +104,7 @@ June 29, 1936, ch. 858, title XI, §1104A(b)(3)–(7), (h) \[§1104A formerly §
 
 46 App.:1274(h).
 
-During review of this bill, the American Bureau of Shipping, through counsel, explained that it disagrees with an existing interpretation by the Maritime Administration of language restated in subsection (a)(4)(A) of this section, and requested the Committee to clarify that this codification should not be construed as a ratification of that regulatory interpretation. The Committee therefore states that this codification should not be construed as an expression of any opinion whatsoever concerning any such administrative interpretation.
+During review of this bill, the American Bureau of Shipping, through counsel, explained that it disagrees with an existing interpretation by the Maritime Administration of language restated in subsection (a)(4)(A) of this section, and requested the Committeeto clarify that this codification should not be construed as a ratification of that regulatory interpretation. The Committee therefore states that this codification should not be construed as an expression of any opinion whatsoever concerning any such administrative interpretation.
 
 In subsection (a)(3), the words “subject to the provisions of paragraph (2) of subsection (c) of this section” are omitted as unnecessary.
 

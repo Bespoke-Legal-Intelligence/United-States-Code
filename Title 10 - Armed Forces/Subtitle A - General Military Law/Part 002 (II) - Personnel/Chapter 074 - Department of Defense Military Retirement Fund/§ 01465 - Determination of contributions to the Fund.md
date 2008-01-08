@@ -56,7 +56,7 @@ Amendment of section by Pub. L. 99–500 and Pub. L. 99–591 is based on sectio
 
 #### Amendments
 
-2006—Subsec. (b)(1)(A)(ii). Pub. L. 109–364, §591 (a)(1)(A), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title” for “to members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only)”.
+2006—Subsec. (b)(1)(A)(ii). Pub. L. 109–364, §591(a)(1)(A), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title” for “to members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only)”.
 
 Subsec. (b)(1)(B)(ii). Pub. L. 109–364, §591(a)(1)(B), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
 

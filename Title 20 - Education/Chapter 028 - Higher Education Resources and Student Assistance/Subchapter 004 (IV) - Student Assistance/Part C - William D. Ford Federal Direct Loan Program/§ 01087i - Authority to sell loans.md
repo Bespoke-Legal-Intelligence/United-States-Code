@@ -4,6 +4,10 @@ The Secretary, in consultation with the Secretary of the Treasury, is authorized
 
 (Pub. L. 89–329, title IV, §459, as added Pub. L. 105–244, title IV, §455, Oct. 7, 1998, 112 Stat. 1718.)
 
+#### Prior Provisions
+
+A prior section 1087i, Pub. L. 89–329, title IV, §459, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 575, which related to schedule of regulatory activities by Secretary under Federal direct loan demonstration program, was omitted in the general amendment of this part by Pub. L. 103–66.
+
 #### Effective Date
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.

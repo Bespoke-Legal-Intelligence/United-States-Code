@@ -56,7 +56,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(4) o
 
 #### (f) Indication of dispute by consumer
 
-If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) of this title that information regarding a consumer who <sup>1</sup> was furnished to the agency is disputed by the consumer, the agency shall indicate that fact ineach consumer report that includes the disputed information.
+If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) of this title that information regarding a consumer who <sup>1</sup> was furnished to the agency is disputed by the consumer, the agency shall indicate that fact in each consumer report that includes the disputed information.
 
 #### (g) Truncation of credit card and debit card numbers
 
@@ -138,7 +138,7 @@ Subsecs. (e), (f). Pub. L. 104–208, §2406(d), added subsecs. (e) and (f).
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed byFederal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 Amendment by section 412 of Pub. L. 108–159 effective at end of 15-month period beginning on Dec. 4, 2003, see section 412(g) of Pub. L. 108–159, set out as a note under section 1681b of this title.
 

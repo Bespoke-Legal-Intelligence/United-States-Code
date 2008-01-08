@@ -20,7 +20,3 @@ A prior section 603 of Pub. L. 95–501 enacted provisions set out as a note und
 
 Pub. L. 104–127, §241(c)(2), in last sentence, substituted “or in a consolidated report” for “, in a consolidated report, or in the Long-Term Agricultural Trade Strategy Report (and annual updates to such report) prepared under section 5711 of this title”.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

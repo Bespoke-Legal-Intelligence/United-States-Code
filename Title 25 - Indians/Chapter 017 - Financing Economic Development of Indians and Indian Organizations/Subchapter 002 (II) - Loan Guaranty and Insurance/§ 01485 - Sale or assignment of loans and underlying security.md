@@ -108,7 +108,7 @@ Findings.—Congress finds that—
 
 &emsp;“(1) the Indian Financing Act of 1974 (25 U.S.C. 1451 et seq.) was intended to provide Native American borrowers with access to commercial sources of capital that otherwise would not be available through the guarantee or insurance of loans by the Secretary of the Interior;
 
-&emsp;“(2) although the Secretary of the Interior has made loan guarantees and insurance available, use ofthose guarantees and that insurance by lenders to benefit Native American business borrowers has been limited;
+&emsp;“(2) although the Secretary of the Interior has made loan guarantees and insurance available, use of those guarantees and that insurance by lenders to benefit Native American business borrowers has been limited;
 
 &emsp;“(3) twenty-seven years after the date of enactment of the Indian Financing Act of 1974 (25 U.S.C. 1451 et seq.) \[Pub. L. 93–262, which was approved Apr. 12, 1974\], the promotion and development of Native American-owned business remains an essential foundation for growth of economic and social stability of Native Americans;
 

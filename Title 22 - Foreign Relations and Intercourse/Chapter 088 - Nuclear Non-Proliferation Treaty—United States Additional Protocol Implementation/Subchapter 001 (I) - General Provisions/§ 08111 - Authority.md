@@ -6,7 +6,7 @@ The President is authorized to implement and carry out the provisions of this ch
 
 #### (b) Included authority
 
-For any executive agency designated under subsection (a) that does not currently possessthe authority to conduct site vulnerability assessments and related activities, the authority provided in subsection (a) includes such authority.
+For any executive agency designated under subsection (a) that does not currently possess the authority to conduct site vulnerability assessments and related activities, the authority provided in subsection (a) includes such authority.
 
 #### (c) Exception
 

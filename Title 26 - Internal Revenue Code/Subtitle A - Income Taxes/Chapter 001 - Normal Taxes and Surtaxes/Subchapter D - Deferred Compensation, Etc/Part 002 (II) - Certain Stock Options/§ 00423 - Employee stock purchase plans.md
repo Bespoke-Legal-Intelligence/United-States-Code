@@ -28,7 +28,7 @@ For purposes of this part, the term “employee stock purchase plan” means a p
 
 &emsp;&emsp;(D) highly compensated employees (within the meaning of section 414(q));
 
-&emsp;(5) under the terms of the plan, all employees granted such options shall have the same rights and privileges, except that the amount of stock which may be purchased by any employee under such option may bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of employees, and the plan may provide that no employee may purchase more than a maximum amount of stock fixed under the plan;
+&emsp;(5) under the terms of the plan, all employees granted such options shall have the samerights and privileges, except that the amount of stock which may be purchased by any employee under such option may bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of employees, and the plan may provide that no employee may purchase more than a maximum amount of stock fixed under the plan;
 
 &emsp;(6) under the terms of the plan, the option price is not less than the lesser of—
 

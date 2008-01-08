@@ -40,7 +40,7 @@
 
 #### (A) Establishment of Office
 
-&emsp;&emsp;The Secretary may establish an Office for Interoperability and Compatibility within the Directorate of Science and Technology to carry out this subsection.
+&emsp;&emsp;The Secretary may establish an Office for Interoperability and Compatibility withinthe Directorate of Science and Technology to carry out this subsection.
 
 #### (B) Functions
 
@@ -120,7 +120,7 @@ Not later than 18 months after December 17, 2004, the President shall establish 
 
 &emsp;&emsp;Nothing in this subsection shall be construed—
 
-&emsp;&emsp;&emsp;(i) to prohibit the obligation of amounts pursuant to a letter of intent under thissubsection in the same fiscal year as the letter of intent is issued; or
+&emsp;&emsp;&emsp;(i) to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued; or
 
 &emsp;&emsp;&emsp;(ii) to apply to, or replace, Federal assistance intended for interoperable communications that is not provided pursuant to a commitment under this subsection.
 
@@ -134,9 +134,13 @@ Any applicant requesting funding assistance from the Secretary for interoperable
 
 &emsp;(3) describe how the planned use of spectrum and resources for interoperable communications is compatible with surrounding capabilities and interoperable communications plans of Federal, State, and local governmental entities, military installations, foreign governments, critical infrastructure, and other relevant entities;
 
-&emsp;(4) include a 5-year plan for the dedication of Federal, State, and local government and private resources to achieve a consistent, secure, and effective interoperable communications system, including planning, system design and engineering, testing and technology development, procurement and installation, training, and operations and maintenance; and
+&emsp;(4) include a 5-year plan for the dedication of Federal, State, and local government and private resources to achieve a consistent, secure, and effective interoperable communications system, including planning, system design and engineering, testing and technology development, procurement and installation, training, and operations and maintenance;
 
-&emsp;(5) describe how such 5-year plan meets or exceeds any applicable standards and grant requirements established by the Secretary.
+&emsp;(5) describe how such 5-year plan meets or exceeds any applicable standards and grant requirements established by the Secretary;
+
+&emsp;(6) include information on the governance structure used to develop the plan, including such information about all agencies and organizations that participated in developing the plan and the scope and timeframe of the plan; and
+
+&emsp;(7) describe the method by which multi-jurisdictional, multidisciplinary input is provided from all regions of the jurisdiction, including any high-threat urban areas located in the jurisdiction, and the process for continuing to incorporate such input.
 
 #### (g) Definitions
 
@@ -144,7 +148,7 @@ In this section:
 
 #### (1) Interoperable communications
 
-&emsp;The term “interoperable communications” means the ability of emergency response providers and relevant Federal, State, and local government agencies to communicate with each other as necessary, through a dedicated public safety network utilizing information technology systems and radio communications systems, and to exchange voice, data, or video with one another on demand, in real time, as necessary.
+&emsp;The term “interoperable communications” means the ability of emergency response providers and relevant Federal, State, and local government agencies to communicate with each other as necessary, through a dedicated public safety network utilizing information technology systems and radio communications systems, and to exchange voice, data, and video with one another on demand, in real time, as necessary.
 
 #### (2) Emergency response providers
 
@@ -166,7 +170,7 @@ In this section:
 
 &emsp;It is the sense of Congress that interoperable emergency communications systems and radios should continue to be deployed as soon as practicable for use by the first responder community, and that upgraded and new digital communications systems and new digital radios must meet prevailing national, voluntary consensus standards for interoperability.
 
-(Pub. L. 108–458, title VII, §7303, Dec. 17, 2004, 118 Stat. 3843.)
+(Pub. L. 108–458, title VII, §7303, Dec. 17, 2004, 118 Stat. 3843; Pub. L. 110–53, title III, §301(c), Aug. 3, 2007, 121 Stat. 299.)
 
 #### References in Text
 
@@ -178,6 +182,14 @@ Section is comprised of section 7303 of Pub. L. 108–458. Subsec. (d) of sectio
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
+Section 301(c) of Pub. L. 110–53, which directed the amendment of section 7303 of the “Intelligence Reform and Terrorist Prevention Act of 2004”, was executed to this section, which is section 7303 of the Intelligence Reform and Terrorism Prevention Act of 2004, to reflect the probable intent of Congress. See 2007 Amendment notes below.
+
+#### Amendments
+
+2007—Subsec. (f)(6), (7). Pub. L. 110–53, §301(c)(1), added pars. (6) and (7). See Codification note above.
+
+Subsec. (g)(1). Pub. L. 110–53, §301(c)(2), substituted “and video” for “or video”. See Codification note above.
+
 #### Effective Date
 
 Pub. L. 108–458, title VII, §7308, Dec. 17, 2004, 118 Stat. 3849, provided that: “Notwithstanding any other provision of this Act \[see Tables for classification\], this subtitle \[subtitle C (§§7301–7308) of title VII of Pub. L. 108–458, enacting this section and section 321 of this title, amending sections 238 and 312 of this title, and enacting provisions set out as notes under this section and section 5196 of Title 42, The Public Health and Welfare\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\].”
@@ -185,6 +197,58 @@ Pub. L. 108–458, title VII, §7308, Dec. 17, 2004, 118 Stat. 3849, provided th
 #### Transfer of Functions
 
 For transfer of the SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards, to the Director for Emergency Communications, see section 571(d)(1) of this title.
+
+#### Cross Border Interoperability Reports
+
+Pub. L. 110–53, title XXII, §2203, Aug. 3, 2007, 121 Stat. 541, provided that:
+
+“(a)
+
+In General.—Not later than 90 days after the date of enactment of this Act \[Aug. 3, 2007\], the Federal Communications Commission, in consultation with the Department of Homeland Security's Office of Emergency Communications, the Office of Management of \[sic\] Budget, and the Department of State shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce on—
+
+&emsp;“(1) the status of the mechanism established by the President under section 7303(c) of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 194(c)) for coordinating cross border interoperability issues between—
+
+&emsp;&emsp;“(A) the United States and Canada; and
+
+&emsp;&emsp;“(B) the United States and Mexico;
+
+&emsp;“(2) the status of treaty negotiations with Canada and Mexico regarding the coordination of the re-banding of 800 megahertz radios, as required under the final rule of the Federal Communication Commission in the ‘Private Land Mobile Services; 800 MHz Public Safety Interface Proceeding’ (WT Docket No. 02–55; ET Docket No. 00–258; ET Docket No. 95–18, RM–9498; RM–10024; FCC 04–168) including the status of any outstanding issues in the negotiations between—
+
+&emsp;&emsp;“(A) the United States and Canada; and
+
+&emsp;&emsp;“(B) the United States and Mexico;
+
+&emsp;“(3) communications between the Commission and the Department of State over possible amendments to the bilateral legal agreements and protocols that govern the coordination process for license applications seeking to use channels and frequencies above Line A;
+
+&emsp;“(4) the annual rejection rate for the last 5 years by the United States of applications for new channels and frequencies by Canadian private and public entities; and
+
+&emsp;“(5) any additional procedures and mechanisms that can be taken by the Commission to decrease the rejection rate for applications by United States private and public entities seeking licenses to use channels and frequencies above Line A.
+
+“(b)
+
+Updated Reports to Be Filed on the Status of Treaty of \[sic\] Negotiations.—The Federal Communications Commission, in conjunction with the Department of Homeland Security, the Office of Management of Budget, and the Department of State shall continually provide updated reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives on the status of treaty negotiations under subsection (a)(2) until the appropriate United States treaty has been revised with each of—
+
+&emsp;“(1) Canada; and
+
+&emsp;“(2) Mexico.
+
+“(c)
+
+International Negotiations To Remedy Situation.—Not later than 90 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary of the Department of State shall report to Congress on—
+
+&emsp;“(1) the current process for considering applications by Canada for frequencies and channels by United States communities above Line A;
+
+&emsp;“(2) the status of current negotiations to reform and revise such process;
+
+&emsp;“(3) the estimated date of conclusion for such negotiations;
+
+&emsp;“(4) whether the current process allows for automatic denials or dismissals of initial applications by the Government of Canada, and whether such denials or dismissals are currently occurring; and
+
+&emsp;“(5) communications between the Department of State and the Federal Communications Commission pursuant to subsection (a)(3).”
+
+#### Submission of Reports to Appropriate Congressional Committees
+
+Pub. L. 110–53, title XXII, §2205, Aug. 3, 2007, 121 Stat. 543, provided that: “In addition to the committees specifically enumerated to receive reports under this title \[enacting provisions set out as note under this section, section 701 of this title, and section 247d–3a of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 309 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\], any report transmitted under the provisions of this title shall also be transmitted to the appropriate congressional committees (as defined in section 2(2) of the Homeland Security Act of 2002 (6 U.S.C. 101(2))).”
 
 #### Regional Model Strategic Plan Pilot Projects
 

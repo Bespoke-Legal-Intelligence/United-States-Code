@@ -24,7 +24,7 @@ Jan. 31, 1965—Pub. L. 88–452, title III, §331, Aug. 20, 1964, 78 Stat. 525.
 
 1973—Pub. L. 93–86 inserted “for milk or cows producing such milk” after “The Secretary of Agriculture is authorized to make indemnity payments” and “(but only since August 10, 1973, in the case of indemnity payments not authorized prior to August 10, 1973)” after “January 1, 1964” and substituted “, and to make indemnity payments for dairy products at fair market value to” for “and” after “remove their milk” and “of” for “it contained” before “residues of chemicals”.
 
-1970—Pub. L. 91–524 inserted “and manufacturers of dairy products who have been directed since November 30, 1970, to remove their dairy products,” after “milk”, in first sentence, and substituted “Any indemnity payment to any farmer shall continue” for “Such indemnity payments shall continue to each dairy farmer” in second sentence.
+1970—Pub. L. 91–524 inserted “and manufacturers of dairy products who have been directed since November30, 1970, to remove their dairy products,” after “milk”, in first sentence, and substituted “Any indemnity payment to any farmer shall continue” for “Such indemnity payments shall continue to each dairy farmer” in second sentence.
 
 #### Effective Date of 1977 Amendment
 

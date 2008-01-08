@@ -24,7 +24,7 @@ At the request of the Committee on Appropriations of either House, the Committee
 
 #### (d) Assignment of office personnel to committees and joint committees
 
-At the request of the Committee on the Budget of either House, personnel of the Office shall be assigned, on a temporary basis, to assist such committee. At the request of any other committee of either House or any joint committee of the Congress, personnel of the Office may be assigned, on a temporary basis, to assist such committee or joint committee with respect to matters directly related to the applicable provisions of subsection (b) or (c) of this section.
+At the request of the Committee on the Budget of either House, personnel of the Office shallbe assigned, on a temporary basis, to assist such committee. At the request of any other committee of either House or any joint committee of the Congress, personnel of the Office may be assigned, on a temporary basis, to assist such committee or joint committee with respect to matters directly related to the applicable provisions of subsection (b) or (c) of this section.
 
 #### (e) Reports to budget committees
 
@@ -68,7 +68,7 @@ The Director may equip the Office with up-to-date computer capability (upon appr
 
 &emsp;&emsp;(iii) the effect of Federal private sector mandates in the bill or joint resolution on the national economy, including the effect on productivity, economic growth, full employment, creation of productive jobs, and international competitiveness of United States goods and services.
 
-(Pub. L. 93–344, title II, §202, July 12, 1974, 88 Stat. 304; Pub. L. 99–177, title II, §221, Dec. 12, 1985, 99 Stat. 1060; Pub. L. 101–508, title XIII, §13112(a)(3), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 104–4, title I, §102(1), Mar. 22, 1995, 109 Stat. 60; Pub. L. 104–186, title II, §213, Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–33, title X, §10103, Aug. 5, 1997, 111 Stat. 678.)
+(Pub. L. 93–344, title II, §202, July 12, 1974, 88 Stat. 304; Pub. L. 99–177, title II, §221, Dec. 12, 1985, 99 Stat. 1060; Pub. L. 101–508, title XIII,§13112(a)(3), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 104–4, title I, §102(1), Mar. 22, 1995, 109 Stat. 60; Pub. L. 104–186, title II, §213, Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–33, title X, §10103, Aug. 5, 1997, 111 Stat. 678.)
 
 #### Amendments
 

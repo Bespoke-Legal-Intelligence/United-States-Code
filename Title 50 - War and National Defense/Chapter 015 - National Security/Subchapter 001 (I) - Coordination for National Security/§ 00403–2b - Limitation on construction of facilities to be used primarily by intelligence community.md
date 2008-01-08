@@ -56,7 +56,7 @@ Section was enacted as part of the Intelligence Authorization Act for Fiscal Yea
 
 2003—Subsec. (a). Pub. L. 108–177, §314(a), substituted “$5,000,000” for “$750,000” in pars. (1) and (2) and “$1,000,000” for “$500,000” in two places in par. (2).
 
-Subsec. (b)(2). Pub. L. 108–177, §314(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, substituted “7-day period” for “21-day period”, and added subpar. (B).
+Subsec. (b)(2). Pub. L. 108–177, §314(b), designated existing provisions as subpar. (A), redesignated formersubpars. (A) to (C) as cls. (i) to (iii), respectively, substituted “7-day period” for “21-day period”, and added subpar. (B).
 
 #### Change of Name
 

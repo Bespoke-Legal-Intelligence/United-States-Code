@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(iii) whose conditions of employment provide for their return transportation to the United States or its territories or possessions including the Commonwealth of Puerto Rico; or
 
-&emsp;&emsp;(B)(i) who were at the time of employment temporarily absent, for the purpose of travelor formal study, from the United States, or from their respective places of residence in its territories or possessions including the Commonwealth of Puerto Rico; and
+&emsp;&emsp;(B)(i) who were at the time of employment temporarily absent, for the purpose of travel or formal study, from the United States, or from their respective places of residence in its territories or possessions including the Commonwealth of Puerto Rico; and
 
 &emsp;&emsp;(ii) who, during the temporary absence, have maintained residence in the United States or its territories or possessions including the Commonwealth of Puerto Rico but outside the area of employment.
 
@@ -72,7 +72,7 @@
 
 &emsp;(B) “45 days” in subsection (b) shall be deemed to read “90 days”.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 519; Pub. L. 93–181, §3, Dec. 14, 1973, 87 Stat. 705; Pub. L.95–454, title IV, §410, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, §2(a)(39), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–465, title II, §2312(b), Oct. 17, 1980, 94 Stat. 2166; Pub. L. 97–89, title VIII, §802, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(k), May 30, 1988, 102 Stat. 582; Pub. L. 102–378, §2(53), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–484, div. D, title XLIV, §4434, Oct. 23, 1992, 106 Stat. 2722; Pub. L. 103–337, div. A, title III, §341(c), div. B, title XXVIII, §2816(a), Oct. 5, 1994, 108 Stat. 2720, 3056; Pub. L. 103–356, title II, §201(a), Oct. 13, 1994, 108 Stat. 3411; Pub. L. 105–261, div. A, title XI, §1105, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 106–65, div. A, title XI, §1103(a), Oct. 5, 1999, 113 Stat. 776.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 519; Pub. L. 93–181, §3, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–454, title IV, §410, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, §2(a)(39), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–465, title II, §2312(b), Oct. 17, 1980, 94 Stat. 2166; Pub. L. 97–89, title VIII, §802, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(k), May 30, 1988, 102 Stat. 582; Pub. L. 102–378, §2(53), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–484, div. D, title XLIV, §4434, Oct. 23, 1992, 106 Stat. 2722; Pub. L. 103–337, div. A, title III, §341(c), div. B, title XXVIII, §2816(a), Oct. 5, 1994, 108 Stat. 2720, 3056; Pub. L. 103–356, title II, §201(a), Oct. 13, 1994, 108 Stat. 3411; Pub. L. 105–261, div. A, title XI, §1105, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 106–65, div. A, title XI, §1103(a), Oct. 5, 1999, 113 Stat. 776.)
 
 Historical and Revision Notes
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 410 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review ofprovisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by section 410 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 Amendment by section 906(a)(2), (3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 

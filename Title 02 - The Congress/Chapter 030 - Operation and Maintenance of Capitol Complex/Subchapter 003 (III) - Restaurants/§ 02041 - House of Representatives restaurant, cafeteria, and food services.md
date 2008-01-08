@@ -42,7 +42,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 Pub. L. 104–53, title I, §107A, Nov. 19, 1995, 109 Stat. 522, as amended by Pub. L. 104–197, title I, §101(a), Sept. 16, 1996, 110 Stat. 2400, provided that:
 
-“(a) Subject to the direction of the Committee on House Oversight of the House of Representatives, theamounts deposited in the account specified in subsection (b) from vending operations of the House of Representatives Restaurant System shall be available to pay the cost of goods sold for such operations.
+“(a) Subject to the direction of the Committee on House Oversight of the House of Representatives, the amounts deposited in the account specified in subsection (b) from vending operations of the House of Representatives Restaurant System shall be available to pay the cost of goods sold for such operations.
 
 “(b) The account referred to in subsection (a) is the special deposit account established for the House of Representatives Restaurant by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (40 U.S.C. 174k note) \[former 40 U.S.C. 174k\].”
 

@@ -756,9 +756,11 @@ Pub. L. 109–163, §3, Jan. 6, 2006, 119 Stat. 3152.
 
 Pub. L. 108–375, §3, Oct. 28, 2004, 118 Stat. 1825.
 
-Pub. L. 109–148, div. A, title VIII, §8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilities sustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies of the Committee on Appropriations of the House of Representatives.
+Pub. L. 109–148, div. A, title VIII, §8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilities sustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies \[subcommittee jurisdiction now in Subcommittee on Military Construction, Veterans Affairs, and Related Agencies and Subcommittee on Defense\] of the Committee on Appropriations of the House of Representatives.
 
 The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives:
+
+Pub. L. 110–116, div. A, title VIII, §8027, Nov. 13, 2007, 121 Stat. 1320.
 
 Pub. L. 109–289, div. A, title VIII, §8025, Sept. 29, 2006, 120 Stat. 1279.
 

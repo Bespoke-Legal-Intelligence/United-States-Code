@@ -42,7 +42,7 @@ It is the purpose of this section—
 
 #### (D) Requirement
 
-&emsp;&emsp;Notwithstanding any other provision of this paragraph, Western Governors University shall be considered eligible to participate in the demonstration program authorized under this section. In addition to the waivers described in paragraph (2), the Secretary may waive the provisions of subchapter I of this chapter and this part and part G of this subchapter for such university that the Secretary determines to be appropriate because of the unique characteristics of such university. In carrying out the preceding sentence, the Secretary shall ensure that adequate program integrity and accountability measures apply to such university's participation in the demonstration program authorized under this section.
+&emsp;&emsp;Notwithstanding any other provision of this paragraph, Western Governors University shall be considered eligible to participate in the demonstration program authorized under this section. In addition to the waivers described in paragraph (2), the Secretary may waive the provisions of subchapter I of this chapter and this part and part G of this subchapter for such university that the Secretary determines to be appropriate because of the unique characteristicsof such university. In carrying out the preceding sentence, the Secretary shall ensure that adequate program integrity and accountability measures apply to such university's participation in the demonstration program authorized under this section.
 
 #### (c) Application
 
@@ -126,7 +126,7 @@ The Secretary shall make available to the public and to the Committee on Labor a
 
 #### (B) Additional reports
 
-&emsp;&emsp;The Secretary shall provide additional reports to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives on an annual basis regarding—
+&emsp;&emsp;The Secretary shall provide additional reports to the Committee on Labor and HumanResources of the Senate and the Committee on Education and the Workforce of the House of Representatives on an annual basis regarding—
 
 &emsp;&emsp;&emsp;(i) the demonstration programs authorized under this section; and
 
@@ -175,6 +175,8 @@ A prior section 1093, Pub. L. 89–329, title IV, §486, as added Pub. L. 96–3
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1998 Amendment
 

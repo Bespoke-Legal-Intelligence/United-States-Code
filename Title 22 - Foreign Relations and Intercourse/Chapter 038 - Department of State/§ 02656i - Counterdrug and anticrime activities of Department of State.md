@@ -10,7 +10,7 @@
 
 &emsp;In establishing the strategy, the Secretary shall—
 
-&emsp;&emsp;(A) coordinate with the Office of National Drug Control Policy in the development of clear, specific, and measurable counterdrugobjectives for the Department that support the goals and objectives of the National Drug Control Strategy;
+&emsp;&emsp;(A) coordinate with the Office of National Drug Control Policy in the development of clear, specific, and measurable counterdrug objectives for the Department that support the goals and objectives of the National Drug Control Strategy;
 
 &emsp;&emsp;(B) develop specific and, to the maximum extent practicable, quantifiable measures of performance relating to the objectives, including annual and long-term measures of performance, for purposes of assessing the success of the Department in meeting the objectives;
 
@@ -69,4 +69,8 @@
 &emsp;Not later than 180 days after October 21, 1998, the Secretary shall submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report on the status of any proposals for action or on action undertaken to improve staffing and personnel management at diplomatic missions of the United States in order to carry out the responsibility set forth in paragraph (1).
 
 (Pub. L. 105–277, div. G, subdiv. B, title XXII, §2214, Oct. 21, 1998, 112 Stat. 2681–812.)
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

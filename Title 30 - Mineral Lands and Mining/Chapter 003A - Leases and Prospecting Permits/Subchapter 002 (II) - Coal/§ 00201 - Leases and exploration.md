@@ -56,7 +56,7 @@ The Clean Air Act, referred to in subsec. (a)(3)(E), is act July 14, 1955, ch. 3
 
 #### Codification
 
-Section is comprised of subsecs. (a) and (b) of section 2 of act Feb. 25, 1920, as amended by section 1 of act June 3, 1948. Subsec. (c) of section 2 of act Feb. 25, 1920, is classified to section 202 of this title. Subsec. (d) of said section 2, as added by Pub. L. 94–377, §5(b), Aug. 4, 1976, 90 Stat. 1086, is classified to section 202a of this title.
+Section is comprised of subsecs. (a) and (b) of section 2 of act Feb. 25, 1920, as amended by section 1 of actJune 3, 1948. Subsec. (c) of section 2 of act Feb. 25, 1920, is classified to section 202 of this title. Subsec. (d) of said section 2, as added by Pub. L. 94–377, §5(b), Aug. 4, 1976, 90 Stat. 1086, is classified to section 202a of this title.
 
 #### Amendments
 

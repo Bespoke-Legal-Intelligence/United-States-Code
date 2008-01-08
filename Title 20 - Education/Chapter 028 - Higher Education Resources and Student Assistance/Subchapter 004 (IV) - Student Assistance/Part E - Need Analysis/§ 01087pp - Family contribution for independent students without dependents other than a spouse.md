@@ -69,7 +69,7 @@ Percentages for Computation of State and Other Tax Allowance
 
 #### (3) Allowance for social security taxes
 
-&emsp;The allowance for social security taxes is equal to the amount earned by the student (and spouse, if appropriate), multiplied by the social security withholding rate appropriateto the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
+&emsp;The allowance for social security taxes is equal to the amount earned by the student (and spouse, if appropriate), multiplied by the social security withholding rate appropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
 
 #### (4) Employment expenses allowance
 
@@ -126,7 +126,8 @@ Asset Protection Allowances for Families and Students
 | If the age of the student is— | And the student is |  |
 | :--- | :---: | ---: |
 | married | single |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then the allowance is— |  |  |
+| &nbsp; |  |  |
+| (1)then the allowance is— |  |  |
 |  |  |  |
 |  |  |  |
 | 25 or less | &nbsp;$  0 | &nbsp;&nbsp;&nbsp;$0 |
@@ -179,7 +180,33 @@ Asset Protection Allowances for Families and Students
 
 In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's contribution from income or assets.
 
-(Pub. L. 89–329, title IV, §476, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100–50, §14(1), (3), (4), (13)–(17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103–208, §2(g)(6), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(h), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV,§474, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(b)(1), Feb. 8, 2006, 120 Stat. 173.)
+(Pub. L. 89–329, title IV, §476, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100–50, §14(1), (3), (4), (13)–(17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103–208, §2(g)(6), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(h), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §474, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(b)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(b), Sept. 27, 2007, 121 Stat. 801.)
+
+#### Amendment of Subsection (b)(1)(A)(iv)
+
+<i>Pub. L. 110–84, title VI, §601(b), (e), Sept. 27, 2007, 121 Stat. 801, 804, provided that, effective July 1, 2009, subsection (b)(1)(A)(iv) of this section is amended to read as follows:</i>
+
+&emsp;&emsp;&emsp;<i>“(iv) an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) for single or separated students, or married students where both are enrolled pursuant to subsection (a)(2)—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(aa) for academic year 2009–2010, $7,000;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(bb) for academic year 2010–2011, $7,780;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(cc) for academic year 2011–2012, $8,550; and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(dd) for academic year 2012–2013, $9,330; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) for married students where 1 is enrolled pursuant to subsection (a)(2)—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(aa) for academic year 2009–2010, $11,220;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(bb) for academic year 2010–2011, $12,460;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(cc) for academic year 2011–2012, $13,710; and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(dd) for academic year 2012–2013, $14,960;”.</i>
 
 #### Amendments
 
@@ -232,6 +259,10 @@ Subsec. (c)(2)(C). Pub. L. 100–50, §14(4), added table and struck out former 
 | $325,001 or more | $169,000 plus 100 percent of NW over $325,000”. |
 
 Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub. L. 110–84, set out as a note under section 1087<i>oo</i> of this title.
 
 #### Effective Date of 2006 Amendment
 

@@ -32,7 +32,7 @@ Pub. L. 106–43 inserted “, including as a result of dilution under section 
 
 #### Effective Date of 1999 Amendments
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 Amendment by Pub. L. 106–43 effective Aug. 5, 1999, and applicable only to any application for registration filed on or after Jan. 16, 1996, see section 2(e) of Pub. L. 106–43, set out as a note under section 1052 of this title.
 

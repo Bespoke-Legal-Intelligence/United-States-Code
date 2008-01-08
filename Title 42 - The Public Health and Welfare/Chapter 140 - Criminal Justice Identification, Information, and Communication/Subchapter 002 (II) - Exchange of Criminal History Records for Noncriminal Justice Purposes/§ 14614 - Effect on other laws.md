@@ -16,7 +16,7 @@ Nothing in the Compact shall interfere in any manner with—
 
 &emsp;&emsp;(C) the Brady Handgun Violence Prevention Act (Public Law 103–159; 107 Stat. 1536);
 
-&emsp;&emsp;(D) the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322;108 Stat. 2074) or any amendment made by that Act;
+&emsp;&emsp;(D) the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 2074) or any amendment made by that Act;
 
 &emsp;&emsp;(E) the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.); or
 
@@ -52,7 +52,7 @@ The Brady Handgun Violence Prevention Act, referred to in subsec. (b)(1)(C), is 
 
 The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (b)(1)(D), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (b)(1)(E), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, referred to in subsec. (b)(1)(E), is act Sept. 1, 1937, ch. 896, as revisedgenerally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(1)(F), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 

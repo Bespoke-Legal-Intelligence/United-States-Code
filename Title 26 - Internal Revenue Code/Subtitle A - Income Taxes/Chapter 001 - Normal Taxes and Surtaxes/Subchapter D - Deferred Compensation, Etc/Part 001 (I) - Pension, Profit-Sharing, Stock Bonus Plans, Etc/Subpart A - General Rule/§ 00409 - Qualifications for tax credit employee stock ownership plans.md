@@ -106,7 +106,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (A) In general
 
-&emsp;&emsp;A plan which otherwise meets the requirements of this subsection or of section 4975(e)(7) shall not be considered to have failed to meet the requirements of section 401(a) merely because under the plan the benefits may be distributed in cash or in the form of employer securities.
+&emsp;&emsp;A plan which otherwise meets the requirements of this subsection or of section 4975(e)(7) shall not be considered to have failed to meet the requirements of section401(a) merely because under the plan the benefits may be distributed in cash or in the form of employer securities.
 
 #### (B) Exception for certain plans restricted from distributing securities
 
@@ -174,7 +174,7 @@ A plan which otherwise meets the requirements of this section shall not be treat
 
 #### (j) Conditional contributions to the plan
 
-A plan which otherwise meets the requirements of this section shall not be treated as failing to satisfy such requirements (or as failing to satisfy the requirements of section 401(a) of this title or of section 403(c)(1) of the Employee Retirement Income Security Act of 1974) merely because of the return of a contribution (or a provision permitting such a return) if—
+A plan which otherwise meets the requirements of this section shall not be treated as failing to satisfy such requirements (or as failing to satisfy the requirements of section 401(a) of this title or of section 403(c)(1) of the Employee Retirement Income Security Act of 1974) merelybecause of the return of a contribution (or a provision permitting such a return) if—
 
 &emsp;(1) the contribution to the plan is conditioned on a determination by the Secretary that such plan meets the requirements of this section,
 
@@ -320,7 +320,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;&emsp;(i) 5 years, or
 
-&emsp;&emsp;&emsp;(ii) in the case of a participant with an account balance in excess of $800,000, 5 years plus 1 additional year (but not more than 5 additional years) for each $160,000 or fraction thereof by which such balance exceeds $800,000.
+&emsp;&emsp;&emsp;(ii) in the case of a participant with an account balance in excess of $800,000, 5years plus 1 additional year (but not more than 5 additional years) for each $160,000 or fraction thereof by which such balance exceeds $800,000.
 
 #### (2) Cost-of-living adjustment
 
@@ -418,7 +418,7 @@ A plan meets the requirements of this subsection if—
 
 #### (5) Treatment of synthetic equity
 
-&emsp;For purposes of paragraphs (3) and (4), in the case of a person who owns synthetic equity in the S corporation, except to the extent provided in regulations, the shares of stock in such corporation on which such synthetic equity is based shall be treated as outstanding stock in such corporation and deemed-owned shares of such person if such treatment of synthetic equity of 1 or more such persons results in—
+&emsp;For purposes of paragraphs (3) and (4), in the case of a person who owns synthetic equity inthe S corporation, except to the extent provided in regulations, the shares of stock in such corporation on which such synthetic equity is based shall be treated as outstanding stock in such corporation and deemed-owned shares of such person if such treatment of synthetic equity of 1 or more such persons results in—
 
 &emsp;&emsp;(A) the treatment of any person as a disqualified person, or
 
@@ -660,7 +660,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section 1172(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting section 2057 of this title and amending this section and section 4979A of this title\] shall apply to sales after the date of the enactment of this Act \[Oct. 22, 1986\] with respect to which an election is made by the executor of an estate who is required to file the return of the tax imposed by the Internal Revenue Code of 1986 on a date (including extensions) after the date of the enactment of this Act.”
 
-Section 1174(a)(2) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011B(i)(2), Nov. 10, 1988, 102 Stat. 3492, provided that: “The amendment made by this subsection \[amending this section\] shall apply to distributions after December 31, 1984.”
+Section 1174(a)(2) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011B(i)(2), Nov. 10, 1988, 102Stat. 3492, provided that: “The amendment made by this subsection \[amending this section\] shall apply to distributions after December 31, 1984.”
 
 Section 1174(b)(3) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section\] shall apply to distributions attributable to stock acquired after December 31, 1986.”
 
@@ -684,7 +684,7 @@ Section 1854(f)(4)(A), (B) of Pub. L. 99–514 provided that:
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(r)(15) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(15) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Redesignation of section 409A as 409 by section 491(e)(1) of Pub. L. 98–369 effective Jan. 1, 1984, see section 491(f)(3) of Pub. L. 98–369, set out as a note under section 401 of this title.
 

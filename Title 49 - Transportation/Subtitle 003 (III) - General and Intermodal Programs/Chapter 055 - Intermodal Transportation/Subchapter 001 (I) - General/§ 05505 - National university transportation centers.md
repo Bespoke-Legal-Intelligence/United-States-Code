@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Establishment and operation.—The Secretary of Transportation shall make grantsunder this section to eligible nonprofit institutions of higher learning to establish and operate national university transportation centers.
+Establishment and operation.—The Secretary of Transportation shall make grants under this section to eligible nonprofit institutions of higher learning to establish and operate national university transportation centers.
 
 &emsp;(2)
 

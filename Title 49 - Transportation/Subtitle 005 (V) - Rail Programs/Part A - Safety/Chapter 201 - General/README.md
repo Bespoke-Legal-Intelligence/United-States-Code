@@ -9,7 +9,12 @@
 | [20103\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020103%20-%20General%20authority.md) | General authority. |
 | [20104\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020104%20-%20Emergency%20authority.md) | Emergency authority. |
 | [20105\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020105%20-%20State%20participation.md) | State participation. |
-| [20106\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020106%20-%20National%20uniformity%20of%20regulation.md) | National uniformity of regulation. |
+| [20106\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020106%20-%20Preemption.md) | National uniformity of regulation.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [20107\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020107%20-%20Inspection%20and%20investigation.md) | Inspection and investigation. |
 | [20108\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020108%20-%20Research%2C%20development%2C%20testing%2C%20and%20training.md) | Research, development, testing, and training. |
 | [20109\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020109%20-%20Employee%20protections.md) | Employee protections. |

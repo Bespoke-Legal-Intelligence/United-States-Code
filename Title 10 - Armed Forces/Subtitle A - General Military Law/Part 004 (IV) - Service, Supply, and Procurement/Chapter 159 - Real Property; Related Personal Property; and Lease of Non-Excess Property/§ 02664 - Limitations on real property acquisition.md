@@ -50,7 +50,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Codification
 
-The text of section 2661(c) of this title, which was transferred to this section and redesignated subsec. (b) by Pub. L. 109–163, §2821(d), was based on Pub. L. 108–375, div. B, title XXVIII, §2821(a)(1), Oct. 28, 2004, 118 Stat. 2129.
+The text of section 2661(c) of this title, which was transferred to this section and redesignated subsec. (b)by Pub. L. 109–163, §2821(d), was based on Pub. L. 108–375, div. B, title XXVIII, §2821(a)(1), Oct. 28, 2004, 118 Stat. 2129.
 
 #### Prior Provisions
 

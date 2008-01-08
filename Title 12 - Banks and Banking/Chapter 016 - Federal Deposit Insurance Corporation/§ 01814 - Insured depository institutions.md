@@ -8,7 +8,7 @@
 
 #### (2) Savings associations
 
-&emsp;Each savings association the accounts of which were insured by the Federal Savings andLoan Insurance Corporation on the day before August 9, 1989, shall be, without application or approval, an insured depository institution.
+&emsp;Each savings association the accounts of which were insured by the Federal Savings and Loan Insurance Corporation on the day before August 9, 1989, shall be, without application or approval, an insured depository institution.
 
 #### (b) Continuation of insurance upon becoming a member bank
 

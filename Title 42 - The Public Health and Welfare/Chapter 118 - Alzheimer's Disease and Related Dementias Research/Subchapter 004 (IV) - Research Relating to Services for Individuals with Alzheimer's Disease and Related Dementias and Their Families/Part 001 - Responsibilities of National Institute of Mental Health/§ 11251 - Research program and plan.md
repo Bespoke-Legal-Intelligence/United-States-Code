@@ -12,7 +12,7 @@ The Director of the National Institute of Mental Health shall—
 
 &emsp;&emsp;(A) mental health services and treatment modalities relevant to the mental, behavioral, and psychological problems associated with Alzheimer's disease and related dementias;
 
-&emsp;&emsp;(B) the most effective methods for providing comprehensive multidimensional assessments to obtain information about the current functioning of, and needs for the careof, individuals with Alzheimer's disease and related dementias;
+&emsp;&emsp;(B) the most effective methods for providing comprehensive multidimensional assessments to obtain information about the current functioning of, and needs for the care of, individuals with Alzheimer's disease and related dementias;
 
 &emsp;&emsp;(C) the optimal range, types, and cost-effectiveness of services and specialized care for individuals with Alzheimer's disease and related dementias and for their families, in community and residential settings (including home care, day care, and respite care), and in institutional settings, particularly with respect to—
 
@@ -46,7 +46,7 @@ A prior section 931 of Pub. L. 99–660, which was classified to section 11231 o
 
 Subsec. (b). Pub. L. 102–507, §7(a)(2), designated par. (1) as entire subsec. and redesignated former par. (1)(A) as par. (1), former par. (1)(A)(i) to (vii) as par. (1)(A) to (G), respectively, former par. (1)(A)(iii)(I) to (IV) as par. (1)(C)(i) to (iv), respectively, and former par. (1)(B) as par. (2).
 
-Subsec. (b)(1). Pub. L. 102–507, §7(a)(1)(C)(i), substituted “The Director of the National Institute of Mental Health shall” for “Within 6 months after November 14, 1986, the Director of the National Institute of Mental Health shall prepare and transmit to the Chairman of the Council a plan for the research to be conducted under subsection (a) of this section. The plan shall” in introductory provisions.
+Subsec. (b)(1). Pub. L. 102–507, §7(a)(1)(C)(i), substituted “The Director of the National Institute ofMental Health shall” for “Within 6 months after November 14, 1986, the Director of the National Institute of Mental Health shall prepare and transmit to the Chairman of the Council a plan for the research to be conducted under subsection (a) of this section. The plan shall” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 102–507, §7(a)(1)(C)(ii)(I), substituted “ensure that the research conducted under subsection (a) of this section includes” for “provide for” in introductory provisions.
 

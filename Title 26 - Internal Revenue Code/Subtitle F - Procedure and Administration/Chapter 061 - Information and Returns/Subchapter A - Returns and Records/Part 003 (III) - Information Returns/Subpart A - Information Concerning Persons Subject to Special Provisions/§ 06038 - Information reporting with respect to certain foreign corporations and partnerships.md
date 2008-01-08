@@ -54,7 +54,7 @@
 
 #### (2) Increase in penalty where failure continues after notification
 
-&emsp;If any failure described in paragraph (1) continues for more than 90 days after the day on which the Secretary mails notice of such failure to the United States person, such person shall pay a penalty (in addition to the amount required under paragraph (1)) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues with respect to any annual accounting period after the expiration of such 90-day period. The increase in any penalty under this paragraph shall not exceed $50,000.
+&emsp;If any failure described in paragraph (1) continues for more than 90 days after the day on which the Secretary mails notice of such failure to the United States person, such person shall pay a penalty (in addition to the amount required under paragraph (1)) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues with respect to any annual accounting period after the expiration of such 90-day period. The increase in anypenalty under this paragraph shall not exceed $50,000.
 
 #### (c) Penalty of reducing foreign tax credit
 
@@ -196,7 +196,7 @@ Subsec. (c)(4)(C). Pub. L. 99–514, §1202(c)(2), substituted “post-1986 undi
 
 Subsec. (b). Pub. L. 97–248, §338(a), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 97–248, §338(a), (b), (c)(1), (3), redesignated former subsec. (b) as (c), substituted “Penalty of reducing foreign tax credit” for “Effect of failure to furnish information” in heading, inserted “of such failure” after “90 days or more after notice” in par. (1), added par. (3), redesignated former par. (3) as (4), and in par. (4) inserted reference to subsection (b) in subpar. (B). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 97–248, §338(a), (b), (c)(1), (3), redesignated former subsec. (b) as (c), substituted “Penalty of reducing foreign tax credit” for “Effect of failure to furnish information” in heading, inserted “of such failure” after “90 days or more after notice” in par. (1), added par. (3), redesignated former par. (3) as\(4), and in par. (4) inserted reference to subsection (b) in subpar. (B). Former subsec. (c) redesignated (d).
 
 Subsecs. (d), (e). Pub. L. 97–248, §338(a), redesignated former subsec. (c) as (d). Former subsec. (d), relating to definitions, redesignated (e).
 
@@ -258,5 +258,5 @@ Section 20(e)(1) of Pub. L. 87–834 provided that: “The amendments made by su
 
 #### Effective Date
 
-Section 6(c) of Pub. L. 86–780, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shall apply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) for its annual accounting periods beginning after December 31, 1960.”
+Section 6(c) of Pub. L. 86–780, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shallapply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) for its annual accounting periods beginning after December 31, 1960.”
 

@@ -26,7 +26,3 @@ A prior section 3 of Pub. L. 100–205 was renumbered section 4 and is classifie
 
 1994—Subsec. (d). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

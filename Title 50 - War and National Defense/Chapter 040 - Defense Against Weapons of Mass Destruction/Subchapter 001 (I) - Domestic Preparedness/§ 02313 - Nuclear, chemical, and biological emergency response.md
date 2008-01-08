@@ -42,7 +42,7 @@ Responsible Senior Official.—The Secretary of Defense shall designate a senior
 
 Duties.—The official designated pursuant to subsection (a) shall—
 
-&emsp;“(1) identify technology items and equipment developed or being developed by Department of Defense components that have the potential to enhance public safety and improve homeland security;
+&emsp;“(1) identify technology items and equipment developed or being developed by Department of Defensecomponents that have the potential to enhance public safety and improve homeland security;
 
 &emsp;“(2) cooperate with appropriate Federal Government officials outside the Department of Defense to evaluate whether such technology items and equipment would be useful to first responders;
 

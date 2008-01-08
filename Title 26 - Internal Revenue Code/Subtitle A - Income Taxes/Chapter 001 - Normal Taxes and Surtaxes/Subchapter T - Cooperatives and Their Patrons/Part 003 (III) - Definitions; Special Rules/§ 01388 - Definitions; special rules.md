@@ -86,7 +86,7 @@ For purposes of this subchapter, the term “per-unit retain certificate” mean
 
 #### (1) Defined
 
-&emsp;For purposes of this subchapter, the term “qualified per-unit retain certificate” meansany per-unit retain certificate which the distributee has agreed, in the manner provided in paragraph (2), to take into account at its stated dollar amount as provided in section 1385(a).
+&emsp;For purposes of this subchapter, the term “qualified per-unit retain certificate” means any per-unit retain certificate which the distributee has agreed, in the manner provided in paragraph (2), to take into account at its stated dollar amount as provided in section 1385(a).
 
 #### (2) Manner of obtaining agreement
 
@@ -146,7 +146,7 @@ For purposes of this subchapter, in the case of any organization to which part I
 
 &emsp;&emsp;&emsp;(ii) states generally the identity of the offsetting allocation units, and
 
-&emsp;&emsp;&emsp;(iii) states briefly what rights, if any, its patrons may have to additional financial information of such organization under terms of its charter, articles of incorporation, or bylaws, or under any provision of law.
+&emsp;&emsp;&emsp;(iii) states briefly what rights, if any, its patrons may have to additional financialinformation of such organization under terms of its charter, articles of incorporation, or bylaws, or under any provision of law.
 
 #### (B) Certain information need not be provided
 

@@ -38,7 +38,7 @@
 
 (d) Whenever any person, who is designated by law or regulation to accept service of process to which an agency is subject under this section, is effectively served with any such process or with interrogatories, such person shall respond thereto within thirty days (or within such longer period as may be prescribed by applicable State law) after the date effective service thereof is made, and shall, as soon as possible but not later than fifteen days after the date effective service is made, send written notice that such process has been so served (together with a copy thereof) to the affected employee at his or her duty station or last-known home address.
 
-(e) No employee whose duties include responding to interrogatories pursuant to requirements imposed by this section shall be subject to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by such employee in connection with the carrying out of any of such employee's duties which pertain directly or indirectly to the answering of any such interrogatory.
+(e) No employee whose duties include responding to interrogatories pursuant to requirements imposed by this section shall be subject to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosureof information made by such employee in connection with the carrying out of any of such employee's duties which pertain directly or indirectly to the answering of any such interrogatory.
 
 (f) Agencies affected by legal process under this section shall not be required to vary their normal pay and disbursement cycles in order to comply with any such legal process.
 
@@ -58,7 +58,7 @@
 
 &emsp;(C) by the Chief Justice of the United States or his designee for the judicial branch of the Government.
 
-(2) Such regulations shall provide that an agency's administrative costs in executing agarnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.
+(2) Such regulations shall provide that an agency's administrative costs in executing a garnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.
 
 (k)(1) No later than 180 days after the date of the enactment of this Act, the Secretaries of the Executive departments concerned shall promulgate regulations to carry out the purposes of this section with regard to members of the uniformed services.
 
@@ -90,7 +90,7 @@ Subsec. (k)(3). Pub. L. 109–241 substituted “Secretary of Homeland Security�
 
 1997—Subsec. (j)(2). Pub. L. 105–85, §1105(1), added par. (2) and struck out former par. (2) which read as follows: “Such regulations shall provide that an agency's administrative costs incurred in executing legal process to which the agency is subject under this section shall be deducted from the amount withheld from the pay of the employee concerned pursuant to the legal process.”
 
-Subsec. (k)(3), (4). Pub. L. 105–85, §1105(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations.”
+Subsec. (k)(3), (4). Pub. L. 105–85, §1105(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntaryallotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations.”
 
 Subsec. (<i>l</i>). Pub. L. 105–85, §1105(3), struck out subsec. (<i>l</i>) which read as follows: “The amount of an agency's administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall be credited to the appropriation, fund, or account from which such administrative costs were paid.”
 

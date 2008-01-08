@@ -78,7 +78,7 @@ Section 208(b) of Pub. L. 94–329 provided that: “The amendment made by subse
 
 #### Delegation of Functions
 
-Functions of President under this section and section 580 of Pub. L. 100–461, see Similar Provisions note below, except those functions relating to determinations of a rate of interest which is less than the market rate, delegated to Secretary of Defense, to be exercised in consultation with Secretary of State and Secretary of the Treasury, by section 1(e) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under this section and section 580 of Pub. L. 100–461, see Similar Provisions note below, except those functions relating to determinations of a rate of interest which is less than the market rate, delegated to Secretary of Defense, to be exercised in consultation with Secretary of State and Secretaryof the Treasury, by section 1(e) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
 #### Similar Provisions
 

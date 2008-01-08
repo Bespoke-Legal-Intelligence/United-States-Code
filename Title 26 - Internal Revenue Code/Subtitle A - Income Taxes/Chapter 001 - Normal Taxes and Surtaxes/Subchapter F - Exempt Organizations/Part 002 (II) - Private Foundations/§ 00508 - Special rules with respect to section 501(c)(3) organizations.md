@@ -44,7 +44,7 @@ Except as provided in subsection (c), any organization (including an organizatio
 
 &emsp;No gift or bequest made to an organization shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such gift or bequest is made—
 
-&emsp;&emsp;(A) to a private foundation or a trust described in section 4947 in a taxable year forwhich it fails to meet the requirements of subsection (e) (determined without regard to subsection (e)(2)), or
+&emsp;&emsp;(A) to a private foundation or a trust described in section 4947 in a taxable year for which it fails to meet the requirements of subsection (e) (determined without regard to subsection (e)(2)), or
 
 &emsp;&emsp;(B) to any organization in a period for which it is not treated as an organization described in section 501(c)(3) by reason of subsection (a).
 
@@ -122,5 +122,5 @@ Section effective Jan. 1, 1970, except that subsecs. (a), (b), and (c) effective
 
 #### Savings Provision
 
-Limits on inclusion of provisions inconsistent with subsec. (e) of this section in governing instruments, seesection 101(<i>l</i>)(6) of Pub. L. 91–172, set out as a note under section 4940 of this title.
+Limits on inclusion of provisions inconsistent with subsec. (e) of this section in governing instruments, see section 101(<i>l</i>)(6) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 

@@ -128,7 +128,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(i) inform such individual of the provisions of paragraph (1) and section 1396p(c) of this title providing for a period of ineligibility for benefits under this subchapter and subchapter XIX of this chapter, respectively, for individuals who make certain dispositions of resources for less than fair market value, and inform such individual that information obtained pursuant to clause (ii) will be made available to the State agency administering a State plan under subchapter XIX of this chapter (as provided in subparagraph (B)); and
 
-&emsp;(ii) obtain from such individual information which may be used in determining whether or not a period of ineligibility for such benefits would be required by reason of paragraph (1) or section 1396p(c) of this title.
+&emsp;(ii) obtain from such individual information which may be used in determining whether or not a period of ineligibility for such benefitswould be required by reason of paragraph (1) or section 1396p(c) of this title.
 
 (B) The Commissioner of Social Security shall make the information obtained under subparagraph (A)(ii) available, on request, to any State agency administering a State plan approved under subchapter XIX of this chapter.
 
@@ -188,7 +188,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;&emsp;(III) a person or entity (including a court) acting at the direction of, or on the request of, the individual or spouse.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1470; amended Pub. L. 94–569, §5, Oct. 20, 1976, 90 Stat. 2700; Pub. L. 95–171, §9(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–611, §5(a), Dec. 28, 1980, 94 Stat. 3567; Pub. L. 97–248, title I, §185(a), (b), Sept. 3, 1982, 96 Stat. 406; Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), July 18, 1984, 98 Stat. 1132, 1168; Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–304; Pub. L. 100–360, title III, §303(c)(1), July 1, 1988, 102 Stat. 762; Pub. L. 100–647, title VIII, §8103(b), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 101–239, title VIII, §§8013(b), 8014(a), Dec. 19, 1989, 103 Stat. 2465; Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), Aug. 15, 1994, 108 Stat. 1478, 1544; Pub. L. 104–193, title II, §213(b), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(b), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §§205(a), 206(a), Dec. 14, 1999, 113 Stat. 1833, 1834; Pub. L. 108–203, title I, §101(c)(2), title IV, §§431(a), (b), 435(b), Mar. 2, 2004, 118 Stat. 496, 539, 540.)
+(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1470; amended Pub. L. 94–569, §5, Oct. 20, 1976, 90 Stat. 2700; Pub. L. 95–171, §9(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–611, §5(a), Dec. 28, 1980, 94 Stat. 3567; Pub. L. 97–248, title I, §185(a), (b), Sept. 3, 1982, 96 Stat. 406; Pub. L. 98–369, div.B, title VI, §§2614, 2663(g)(5), July 18, 1984, 98 Stat. 1132, 1168; Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–304; Pub. L. 100–360, title III, §303(c)(1), July 1, 1988, 102 Stat. 762; Pub. L. 100–647, title VIII, §8103(b), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 101–239, title VIII, §§8013(b), 8014(a), Dec. 19, 1989, 103 Stat. 2465; Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), Aug. 15, 1994, 108 Stat. 1478, 1544; Pub. L. 104–193, title II, §213(b), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(b), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §§205(a), 206(a), Dec. 14, 1999, 113 Stat. 1833, 1834; Pub. L. 108–203, title I, §101(c)(2), title IV, §§431(a), (b), 435(b), Mar. 2, 2004, 118 Stat. 496, 539, 540.)
 
 #### References in Text
 
@@ -204,7 +204,7 @@ Section 1396p(e)(3) of this title, referred to in subsec. (c)(1)(F)(ii), was red
 
 #### Amendments
 
-2004—Subsec. (a)(7). Pub. L. 108–203, §431(a), substituted “limited to the first 9 months” for “limited tothe first 6 months” and struck out “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “month in which such amount is received”.
+2004—Subsec. (a)(7). Pub. L. 108–203, §431(a), substituted “limited to the first 9 months” for “limited to the first 6 months” and struck out “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “month in which such amount is received”.
 
 Subsec. (a)(11). Pub. L. 108–203, §431(b), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “for the month of receipt and the following month, any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);”.
 
@@ -292,7 +292,7 @@ Pub. L. 106–169, title II, §206(c), Dec. 14, 1999, 113 Stat. 1837, provided t
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–306 applicable to gifts made on or after the date that is 2 years before Oct. 28,1998, see section 7(c) of Pub. L. 105–306, set out as a note under section 1382a of this title.
+Amendment by Pub. L. 105–306 applicable to gifts made on or after the date that is 2 years before Oct. 28, 1998, see section 7(c) of Pub. L. 105–306, set out as a note under section 1382a of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -346,7 +346,7 @@ Section 185(c) of Pub. L. 97–248 provided that: “The amendment made by this 
 
 #### Effective Date of 1980 Amendment
 
-Section 5(c) of Pub. L. 96–611 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications for benefits under title XVI of the Social Security Act \[this subchapter\] filed on or after the first day of the first month which begins at least 60 days after the date of enactment of this Act \[Dec. 28, 1980\].”
+Section 5(c) of Pub. L. 96–611 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications forbenefits under title XVI of the Social Security Act \[this subchapter\] filed on or after the first day of the first month which begins at least 60 days after the date of enactment of this Act \[Dec. 28, 1980\].”
 
 #### Effective Date of 1977 Amendment
 

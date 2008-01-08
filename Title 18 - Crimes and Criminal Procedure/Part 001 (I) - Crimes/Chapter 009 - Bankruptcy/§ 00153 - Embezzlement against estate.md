@@ -6,7 +6,7 @@ Offense.—A person described in subsection (b) who knowingly and fraudulently a
 
 (b)
 
-Person to Whom Section Applies.—A person described in this subsection is one who has access to property or documents belonging to an estate by virtue of the person's participation in the administration of the estate as a trustee, custodian, marshal, attorney, or other officer of the court or as an agent, employee, or other person engaged by such an officer to perform a service with respect to the estate.
+Person to Whom Section Applies.—A person described in this subsection is one who has access to property or documents belonging to an estate by virtue of the person's participation inthe administration of the estate as a trustee, custodian, marshal, attorney, or other officer of the court or as an agent, employee, or other person engaged by such an officer to perform a service with respect to the estate.
 
 (June 25, 1948, ch. 645, 62 Stat. 690; Pub. L. 95–598, title III, §314(a)(1), (d)(1), (2), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, §312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4139; Pub. L. 104–294, title VI, §601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
 

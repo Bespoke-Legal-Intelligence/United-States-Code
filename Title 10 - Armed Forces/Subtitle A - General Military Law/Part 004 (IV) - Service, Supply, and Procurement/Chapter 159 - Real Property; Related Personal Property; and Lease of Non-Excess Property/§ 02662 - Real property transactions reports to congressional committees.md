@@ -48,7 +48,7 @@ Reports on Transactions Involving Intelligence Components.—Whenever a transact
 
 (g)
 
-Exceptions for Transactions for War and Certain Emergency and Other Operations.—(1) The reporting requirement set forth in subsection (a) shall not apply with respect to a real property transaction otherwise covered by that subsection, and the reporting requirement set forth in subsection (e) shall not apply with respect to a real property transaction otherwise covered by that subsection, if the Secretary concerned determines that the transaction is made as a result of any of the following:
+Exceptions for Transactions for War and Certain Emergency and Other Operations.—(1) The reporting requirement set forth in subsection (a) shall not apply with respect to a real property transaction otherwise covered by that subsection, and the reporting requirement set forth in subsection (e) shall not apply with respect to a real property transaction otherwisecovered by that subsection, if the Secretary concerned determines that the transaction is made as a result of any of the following:
 
 &emsp;(A) A declaration of war.
 
@@ -60,7 +60,7 @@ Exceptions for Transactions for War and Certain Emergency and Other Operations.�
 
 &emsp;(E) A contingency operation.
 
-(2) The reporting requirement set forth in subsection (a) shall not apply with respect to a realproperty transaction otherwise covered by that subsection if the Secretary concerned determines that—
+(2) The reporting requirement set forth in subsection (a) shall not apply with respect to a real property transaction otherwise covered by that subsection if the Secretary concerned determines that—
 
 &emsp;(A) an event listed in paragraph (1) is imminent; and
 

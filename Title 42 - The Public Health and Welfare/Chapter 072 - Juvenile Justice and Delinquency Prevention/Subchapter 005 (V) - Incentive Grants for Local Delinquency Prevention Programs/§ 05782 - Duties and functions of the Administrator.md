@@ -4,7 +4,7 @@ The Administrator shall—
 
 &emsp;(1) issue such rules as are necessary or appropriate to carry out this subchapter;
 
-&emsp;(2) make such arrangements as are necessary and appropriate to facilitate coordination andpolicy development among all activities funded through the Department of Justice relating to delinquency prevention (including the preparation of an annual comprehensive plan for facilitating such coordination and policy development);
+&emsp;(2) make such arrangements as are necessary and appropriate to facilitate coordination and policy development among all activities funded through the Department of Justice relating to delinquency prevention (including the preparation of an annual comprehensive plan for facilitating such coordination and policy development);
 
 &emsp;(3) provide adequate staff and resources necessary to properly carry out this subchapter; and
 
@@ -27,4 +27,8 @@ Another section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, 
 #### Prior Provisions
 
 A prior section 5782, Pub. L. 93–415, title V, §503, as added Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, defined “State advisory group”, prior to the general amendment of this subchapter by Pub. L. 107–273.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

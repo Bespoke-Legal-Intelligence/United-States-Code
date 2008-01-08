@@ -16,7 +16,7 @@ When used in this chapter, the term “limited retail dealer” means any frater
 
 #### Repeal of Section and Amendment and Redesignation of Section 5124 as 5122
 
-<i>Pub. L. 109–59, title XI, §11125(a)(1)(D), (b)(6), (c), Aug. 10, 2005, 119 Stat. 1953, 1955,</i><i>1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date:</i>
+<i>Pub. L. 109–59, title XI, §11125(a)(1)(D), (b)(6), (c), Aug. 10, 2005, 119 Stat. 1953, 1955, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date:</i>
 
 <i>(1) this section is repealed; and</i>
 
@@ -34,7 +34,7 @@ When used in this chapter, the term “limited retail dealer” means any frater
 
 #### <i>(1) Retail dealer in liquors</i>
 
-&emsp;<i>The term “retail dealer in liquors” means any dealer (other than a retail dealer in beer or a limited retail dealer) who sells, or offers for sale, distilled spirits, wines, or beer, to any person other than a dealer.</i>
+&emsp;<i>The term “retail dealer in liquors” means any dealer (other than a retail dealer in beer or a lim</i><i>ited retail dealer) who sells, or offers for sale, distilled spirits, wines, or beer, to any person other than a dealer.</i>
 
 #### <i>(2) Retail dealer in beer</i>
 

@@ -30,7 +30,7 @@ Definitions.—In this subchapter:
 
 &emsp;(2) The term “intelligence collection activities” means the collection of foreign intelligence and counterintelligence information.
 
-(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 437; amended Pub. L. 104–93, title V, §503, Jan. 6, 1996, 109 Stat. 973; Pub. L. 105–272, title V, §501, Oct. 20, 1998, 112 Stat. 2404; Pub. L. 106–398, §1 \[\[div. A\], title X, §1077\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282; Pub. L. 107–314, div. A, title X, §1053, Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–375, div. A, title IX, §921, Oct. 28, 2004, 118 Stat. 2029; Pub. L. 109–364, div. A, title IX, §931, Oct. 17, 2006, 120 Stat. 2362.)
+(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 437; amended Pub. L. 104–93, titleV, §503, Jan. 6, 1996, 109 Stat. 973; Pub. L. 105–272, title V, §501, Oct. 20, 1998, 112 Stat. 2404; Pub. L. 106–398, §1 \[\[div. A\], title X, §1077\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282; Pub. L. 107–314, div. A, title X, §1053, Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–375, div. A, title IX, §921, Oct. 28, 2004, 118 Stat. 2029; Pub. L. 109–364, div. A, title IX, §931, Oct. 17, 2006, 120 Stat. 2362.)
 
 #### Amendments
 

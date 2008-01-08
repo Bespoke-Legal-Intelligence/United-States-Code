@@ -10,7 +10,7 @@ The Secretary shall require that the mortgagee make available to the mortgagor, 
 
 #### (c) Number of mortgages and loans
 
-The aggregate number of mortgages and loans insured under this section in any fiscal yearmay not exceed 30 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year.
+The aggregate number of mortgages and loans insured under this section in any fiscal year may not exceed 30 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year.
 
 #### (d) Adjustable rate mortgage with initial fixed rate of interest
 

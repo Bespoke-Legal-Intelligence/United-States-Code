@@ -24,7 +24,7 @@ The Federal Unemployment Tax Act, referred to in subsec. (c), is act Aug. 16, 19
 
 #### Amendments
 
-2001—Subsec. (c). Pub. L. 107–16, §§532(c)(12), 901, temporarily struck out “section 2011(c) (relating to refundsdue to credit for State taxes),” after “see”. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (c). Pub. L. 107–16, §§532(c)(12), 901, temporarily struck out “section 2011(c) (relating to refunds due to credit for State taxes),” after “see”. See Effective and Termination Dates of 2001 Amendment note below.
 
 1956—Subsec. (c). Act June 29, 1956, inserted reference to section 6421 of this title.
 

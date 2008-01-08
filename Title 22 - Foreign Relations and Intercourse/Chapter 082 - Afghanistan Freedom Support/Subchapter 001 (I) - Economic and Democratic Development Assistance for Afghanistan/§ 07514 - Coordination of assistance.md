@@ -60,6 +60,10 @@ The coordinator designated under subsection (a) of this section shall have the r
 
 Subsecs. (c), (d). Pub. L. 108–458, §7104(d), added subsecs. (c) and (d).
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Findings
 
 Pub. L. 108–458, title VII, §7104(c)(1), Dec. 17, 2004, 118 Stat. 3781, provided that: “Congress makes the following findings:

@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is hereby established in the Treasury of the United States a trust fund to be known as the “Inland Waterways Trust Fund”, consistingof such amounts as may be appropriated or credited to such Trust Fund as provided in this section or section 9602(b).
+There is hereby established in the Treasury of the United States a trust fund to be known as the “Inland Waterways Trust Fund”, consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section or section 9602(b).
 
 #### (b) Transfer to Trust Fund of amounts equivalent to certain taxes
 

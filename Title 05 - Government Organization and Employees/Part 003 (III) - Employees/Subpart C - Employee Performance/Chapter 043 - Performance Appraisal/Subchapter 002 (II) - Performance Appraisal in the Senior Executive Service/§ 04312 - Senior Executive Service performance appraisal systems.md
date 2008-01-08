@@ -12,7 +12,7 @@
 
 (b) Each performance appraisal system established by an agency under subsection (a) of this section shall provide—
 
-&emsp;(1) that, on or before the beginning of each rating period, performance requirements foreach senior executive in the agency are established in consultation with the senior executive and communicated to the senior executive;
+&emsp;(1) that, on or before the beginning of each rating period, performance requirements for each senior executive in the agency are established in consultation with the senior executive and communicated to the senior executive;
 
 &emsp;(2) that written appraisals of performance are based on the individual and organizational performance requirements established for the rating period involved; and
 

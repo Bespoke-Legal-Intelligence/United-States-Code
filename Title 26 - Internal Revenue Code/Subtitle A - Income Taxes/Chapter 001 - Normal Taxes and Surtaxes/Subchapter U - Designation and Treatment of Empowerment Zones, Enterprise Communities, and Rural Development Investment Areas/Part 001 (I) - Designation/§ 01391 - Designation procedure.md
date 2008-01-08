@@ -126,7 +126,7 @@ No area may be designated under this section unless the application for such des
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The parcels described in subparagraph (A)(iii) shall not be taken into account in determining whether the requirement of subparagraph (A) or (B) of section 1392(a)(3) is met.
+&emsp;&emsp;&emsp;The parcels described in subparagraph (A)(iii) shall not be taken into account indetermining whether the requirement of subparagraph (A) or (B) of section 1392(a)(3) is met.
 
 #### (ii) Special rule for rural areas
 

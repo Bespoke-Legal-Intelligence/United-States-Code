@@ -52,7 +52,7 @@ In general.—Each State shall carry out a statewide transportation planning pro
 
 &emsp;&emsp;(D) increase the accessibility and mobility of people and freight;
 
-&emsp;&emsp;(E) protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
+&emsp;&emsp;(E) protect and enhance the environment, promote energy conservation, improve thequality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
 
 &emsp;&emsp;(F) enhance the integration and connectivity of the transportation system, across and between modes throughout the State, for people and freight;
 
@@ -154,7 +154,7 @@ Existing system.—The statewide transportation plan should include capital, ope
 
 &emsp;(8)
 
-Publication of long-range transportation plans.—Each long-range transportation plan prepared by a State shall be published or otherwise made available, including\(to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web.
+Publication of long-range transportation plans.—Each long-range transportation plan prepared by a State shall be published or otherwise made available, including (to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web.
 
 (g)
 

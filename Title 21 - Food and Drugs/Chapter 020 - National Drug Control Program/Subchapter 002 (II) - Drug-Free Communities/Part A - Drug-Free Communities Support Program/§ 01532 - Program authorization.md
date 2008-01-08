@@ -68,7 +68,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;(C)(i) provide a description of substance abuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
 
-&emsp;&emsp;(ii) identify substance abuse programs and service gaps, which, at a minimum, includes programs and gaps relating to the use andabuse of drugs referenced in section 1523(9)(A) of this title, in the community;
+&emsp;&emsp;(ii) identify substance abuse programs and service gaps, which, at a minimum, includes programs and gaps relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
 &emsp;&emsp;(D) develop a strategic plan to reduce substance abuse among youth, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in a comprehensive and long-term fashion; and
 

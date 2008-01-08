@@ -120,17 +120,19 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 &emsp;&emsp;&emsp;&emsp;(II) the corporation was an S corporation for such taxable year.
 
-#### (B) Gross receipts from sales of capital assets (other than stock and securities)
-
-&emsp;&emsp;For purposes of this paragraph, in the case of dispositions of capital assets (other than stock and securities), gross receipts from such dispositions shall be taken into account only to the extent of the capital gain net income therefrom.
-
-#### (C) Passive investment income defined
+#### (B) Gross receipts from the sales of certain assets
 
 &emsp;&emsp;For purposes of this paragraph—
 
+&emsp;&emsp;&emsp;(i) in the case of dispositions of capital assets (other than stock and securities), gross receipts from such dispositions shall be taken into account only to the extent of the capital gain net income therefrom, and
+
+&emsp;&emsp;&emsp;(ii) in the case of sales or exchanges of stock or securities, gross receipts shall be taken into account only to the extent of the gains therefrom.
+
+#### (C) Passive investment income defined
+
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “passive investment income” means gross receipts derived from royalties, rents, dividends, interest, annuities, and sales or exchanges of stock or securities (gross receipts from such sales or exchanges being taken into account for purposes of this paragraph only to the extent of gains therefrom).
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “passive investment income” means gross receipts derived from royalties, rents, dividends, interest, and annuities.
 
 #### (ii) Exception for interest on notes from sales of inventory
 
@@ -140,43 +142,17 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 &emsp;&emsp;&emsp;If the S corporation meets the requirements of section 542(c)(6) for the taxable year, the term “passive investment income” shall not include gross receipts for the taxable year which are derived directly from the active and regular conduct of a lending or finance business (as defined in section 542(d)(1)).
 
-#### (iv) Treatment of certain liquidations
+#### (iv) Treatment of certain dividends
 
-&emsp;&emsp;&emsp;Gross receipts derived from sales or exchanges of stock or securities shall not include amounts received by an S corporation which are treated under section 331 (relating to corporate liquidations) as payments in exchange for stock where the S corporation owned more than 50 percent of each class of stock of the liquidating corporation.
+&emsp;&emsp;&emsp;If an S corporation holds stock in a C corporation meeting the requirements ofsection 1504(a)(2), the term “passive investment income” shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.
 
-#### (D) Special rule for options and commodity dealings
+#### (v) Exception for banks, etc.
 
-#### (i) In general
+&emsp;&emsp;&emsp;In the case of a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)),<sup>1</sup> the term “passive investment income” shall not include—
 
-&emsp;&emsp;&emsp;In the case of any options dealer or commodities dealer, passive investment income shall be determined by not taking into account any gain or loss (in the normal course of the taxpayer's activity of dealing in or trading section 1256 contracts) from any section 1256 contract or property related to such a contract.
+&emsp;&emsp;&emsp;&emsp;(I) interest income earned by such bank or company, or
 
-#### (ii) Definitions
-
-&emsp;&emsp;&emsp;For purposes of this subparagraph—
-
-#### (I) Options dealer
-
-&emsp;&emsp;&emsp;&emsp;The term “options dealer” has the meaning given such term by section 1256(g)(8).
-
-#### (II) Commodities dealer
-
-&emsp;&emsp;&emsp;&emsp;The term “commodities dealer” means a person who is actively engaged in trading section 1256 contracts and is registered with a domestic board of trade which is designated as a contract market by the Commodities Futures Trading Commission.
-
-#### (III) Section 1256 contract
-
-&emsp;&emsp;&emsp;&emsp;The term “section 1256 contract” has the meaning given to such term by section 1256(b).
-
-#### (E) Treatment of certain dividends
-
-&emsp;&emsp;If an S corporation holds stock in a C corporation meeting the requirements of section 1504(a)(2), the term “passive investment income” shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.
-
-#### (F) Exception for banks; etc.
-
-&emsp;&emsp;In the case of a bank (as defined in section 581),<sup>1</sup> a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)),<sup>2</sup> the term “passive investment income” shall not include—
-
-&emsp;&emsp;&emsp;(i) interest income earned by such bank or company, or
-
-&emsp;&emsp;&emsp;(ii) dividends on assets required to be held by such bank or company, including stock in the Federal Reserve Bank, the Federal Home Loan Bank, or the Federal Agricultural Mortgage Bank or participation certificates issued by a Federal Intermediate Credit Bank.
+&emsp;&emsp;&emsp;&emsp;(II) dividends on assets required to be held by such bank or company, including stock in the Federal Reserve Bank, the Federal Home Loan Bank, or the Federal Agricultural Mortgage Bank or participation certificates issued by a Federal Intermediate Credit Bank.
 
 #### (e) Treatment of S termination year
 
@@ -252,11 +228,11 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 If—
 
-&emsp;(1) an election under subsection (a), section 1361(b)(3)(B)(ii), or section 1361(c)(1)(A)(ii) by any corporation—
+&emsp;(1) an election under subsection (a) or section 1361(b)(3)(B)(ii) by any corporation—
 
-&emsp;&emsp;(A) was not effective for the taxable year for which made (determined without regard to subsection (b)(2)) by reason of a failure to meet the requirements of section 1361(b) or to obtain shareholder consents, or
+&emsp;&emsp;(A) was not effective for the taxable year for which made (determined without regardto subsection (b)(2)) by reason of a failure to meet the requirements of section 1361(b) or to obtain shareholder consents, or
 
-&emsp;&emsp;(B) was terminated under paragraph (2) or (3) of subsection (d), section 1361(b)(3)(C), or section 1361(c)(1)(D)(iii),
+&emsp;&emsp;(B) was terminated under paragraph (2) or (3) of subsection (d) or section 1361(b)(3)(C),
 
 &emsp;(2) the Secretary determines that the circumstances resulting in such ineffectiveness or termination were inadvertent,
 
@@ -268,15 +244,19 @@ If—
 
 &emsp;(4) the corporation for which the election was made or the termination occurred, and each person who was a shareholder in such corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of such corporation as an S corporation or a qualified subchapter S subsidiary, as the case may be) as may be required by the Secretary with respect to such period,
 
-> then, notwithstanding the circumstances resulting in such ineffectiveness or termination, such corporation shall be treated as an S corporation or a qualified subchapter S subsidiary, as the case may be <sup>3</sup> during the period specified by the Secretary.
+> then, notwithstanding the circumstances resulting in such ineffectiveness or termination, such corporation shall be treated as an S corporation or a qualified subchapter S subsidiary, as the case may be <sup>2</sup> during the period specified by the Secretary.
 
 #### (g) Election after termination
 
 If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (<i>l</i>), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, §532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title II, §§231(b), 237(a), 238(a), Oct. 22, 2004, 118 Stat. 1433, 1436; Pub. L. 109–135, title IV, §413(b), Dec. 21, 2005, 119 Stat. 2641.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (<i>l</i>), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, §532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title II, §§231(b), 237(a), 238(a), Oct. 22, 2004, 118 Stat. 1433, 1436; Pub. L. 109–135, title IV, §413(b), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 110–28, title VIII, §8231(a), May 25, 2007, 121 Stat. 196; Pub. L. 110–172, §11(a)(25), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### Amendments
+
+2007—Subsec. (d)(3)(B) to (F). Pub. L. 110–28 added subpars. (B) and (C) and struck out former subpar. (B), which related to gross receipts from dispositions of capital assets (other than stock and securities) being taken into account only to the extent of the capital gain net income therefrom, subpar. (C), which defined passive investment income, subpar. (D), which provided that, in the case of any options dealer or commodities dealer, passive investment income was to be determined by not taking into account any gain or loss from any section 1256 contract or property related to such a contract, subpar. (E), which related to certain dividends not being treated as passive investment income if an S corporation held stock in a C corporation meeting the requirements of section 1504(a)(2), and subpar. (F), which related to the exception from passive investment income for banks and depository institution holding companies.
+
+Subsec. (f)(1). Pub. L. 110–172 substituted “or section 1361(b)(3)(B)(ii)” for “, section 1361(b)(3)(B)(ii), or section 1361(c)(1)(A)(ii)” in introductory provisions and “or section 1361(b)(3)(C)” for “, section 1361(b)(3)(C), or section 1361(c)(1)(D)(iii)” in subpar. (B).
 
 2005—Subsec. (d)(3)(F). Pub. L. 109–135 substituted “a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” for “a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a))), or a financial holding company (within the meaning of section 2(p) of such Act)”.
 
@@ -294,7 +274,7 @@ Pub. L. 108–357, §231(b)(2), inserted “or section 1361(c)(1)(D)(iii)” aft
 
 Subsec. (f)(3)(A). Pub. L. 108–357, §238(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “so that the corporation is a small business corporation, or”.
 
-Subsec. (f)(4). Pub. L. 108–357, §238(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the corporation, and each person who was ashareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,”.
+Subsec. (f)(4). Pub. L. 108–357, §238(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,”.
 
 1999—Subsec. (d)(3)(C)(ii). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
@@ -350,6 +330,10 @@ Subsec. (e)(6)(C). Pub. L. 98–369, §721(g)(1), added subpar. (C).
 
 Subsec. (e)(6)(D). Pub. L. 98–369, §721(t), added subpar. (D).
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–28, title VIII, §8231(b), May 25, 2007, 121 Stat. 197, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[May 25, 2007\].”
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 413(d) of Pub. L. 109–135, set out as a note under section 1361 of this title.
@@ -388,7 +372,7 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 
 #### Treatment of Certain Elections Under Prior Law
 
-Section 1317(b) of Pub. L. 104–188 provided that: “For purposes of section 1362(g) of the Internal Revenue Codeof 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
+Section 1317(b) of Pub. L. 104–188 provided that: “For purposes of section 1362(g) of the Internal Revenue Code of 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
 
 #### Subchapter S Election
 
@@ -400,9 +384,7 @@ Section 102(d)(3) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, titl
 
 > then such dealer shall be treated as having received approval for and adopted a taxable year beginning on the first day during 1984 on which it was a small business corporation (as so defined) or such other day as may be permitted under regulations and ending on the date determined under section 1378 of such Code and such election shall be effective for such taxable year.”
 
-<i><sup>1</sup></i><i> So in original. The comma probably should be “or”.</i>
+<i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 
-<i><sup>2</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

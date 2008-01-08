@@ -28,7 +28,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 > No interest shall accrue on such deferred interest.
 
-(ii) A State meets the requirements of this clause for any calendar year if the rate of insured unemployment (as determined for purposes of section 203 of the Federal-State Extended Unemployment Compensation Act of1970) under the State law of the period consisting of the first 6 months of the preceding calendar year equaled or exceeded 7.5 percent.
+(ii) A State meets the requirements of this clause for any calendar year if the rate of insured unemployment (as determined for purposes of section 203 of the Federal-State Extended Unemployment Compensation Act of 1970) under the State law of the period consisting of the first 6 months of the preceding calendar year equaled or exceeded 7.5 percent.
 
 (4) The interest rate determined under this paragraph with respect to any calendar year is a percentage (but not in excess of 10 percent) determined by dividing—
 
@@ -54,7 +54,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 &emsp;(II) have had, for taxable year 1982, an average unemployment tax rate which was equal to or greater than 2.0 percent of the total of the wages (as determined without any limitation on amount) attributable to such State subject to contribution under the State unemployment compensation law with respect to such taxable year.
 
-> In the case of the first year for which there is a deferral (over a 4-year period) of the interest otherwise payable for such year, the applicable percentage shall be 25 percent. In the case of the second such year, the applicable percentage shall be 35 percent. In the case of the third such year, the applicable percentage shall be 50 percent.
+> In the case of the first year for which there is a deferral (over a 4-year period) of the interestotherwise payable for such year, the applicable percentage shall be 25 percent. In the case of the second such year, the applicable percentage shall be 35 percent. In the case of the third such year, the applicable percentage shall be 50 percent.
 
 (C)(i) The base year is the first year for which deferral under this provision is requested and subsequently granted. The Secretary of Labor shall estimate the unemployment rate for the base year. To determine whether a State meets the requirements of subparagraph (B)(ii)(I), the Secretary of Labor shall determine the percentage by which the benefits and taxes in the base year with the application of the action referred to in subparagraph (B)(ii)(I) are lower or greater, as the case may be, than such benefits and taxes would have been without the application of such action. In making this determination, the Secretary shall deem the application of the action referred to in subparagraph (B)(ii)(I) to have been effective for the base year to the same extent as such action is effective for the year following the year for which the deferral is sought. Once a deferral is approved under clause (ii)(I) of subparagraph (B) a State must continue to maintain its solvency effort. Failure to do so shall result in the State being required to make immediate payment of all deferred interest.
 
@@ -68,7 +68,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 Interest paid by States in accordance with this section shall be credited to the Federal unemployment account established by section 1104(g) of this title in the Unemployment Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983,97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604.)
+(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983, 97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604.)
 
 #### References in Text
 

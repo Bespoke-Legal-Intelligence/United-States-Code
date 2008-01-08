@@ -8,7 +8,7 @@
 
 #### (2) Commission action
 
-&emsp;The Commission shall initiate a single proceeding to implement the recommendations from the Joint Board required by paragraph (1) and shall complete such proceeding within 15 months after February 8, 1996. The rules established by such proceeding shall include a definition of the services that are supported by Federal universal service support mechanisms and a specific timetable for implementation. Thereafter, the Commission shall completeany proceeding to implement subsequent recommendations from any Joint Board on universal service within one year after receiving such recommendations.
+&emsp;The Commission shall initiate a single proceeding to implement the recommendations from the Joint Board required by paragraph (1) and shall complete such proceeding within 15 months after February 8, 1996. The rules established by such proceeding shall include a definition of the services that are supported by Federal universal service support mechanisms and a specific timetable for implementation. Thereafter, the Commission shall complete any proceeding to implement subsequent recommendations from any Joint Board on universal service within one year after receiving such recommendations.
 
 #### (b) Universal service principles
 
@@ -74,7 +74,7 @@ After the date on which Commission regulations implementing this section take ef
 
 #### (f) State authority
 
-A State may adopt regulations not inconsistent with the Commission's rules to preserve and advance universal service. Every telecommunications carrier that provides intrastate telecommunications services shall contribute, on an equitable and nondiscriminatory basis, in a manner determined by the State to the preservation and advancement of universal service in that State. A State may adopt regulations to provide for additional definitions and standards to preserve and advance universal service within that State only to the extent that such regulations adopt additional specific, predictable, andsufficient mechanisms to support such definitions or standards that do not rely on or burden Federal universal service support mechanisms.
+A State may adopt regulations not inconsistent with the Commission's rules to preserve and advance universal service. Every telecommunications carrier that provides intrastate telecommunications services shall contribute, on an equitable and nondiscriminatory basis, in a manner determined by the State to the preservation and advancement of universal service in that State. A State may adopt regulations to provide for additional definitions and standards to preserve and advance universal service within that State only to the extent that such regulations adopt additional specific, predictable, and sufficient mechanisms to support such definitions or standards that do not rely on or burden Federal universal service support mechanisms.
 
 #### (g) Interexchange and interstate services
 
@@ -90,7 +90,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (B) Educational providers and libraries
 
-&emsp;&emsp;All telecommunications carriers serving a geographic area shall, upon a bona fide request for any of its services that are within the definition of universal service under subsection (c)(3) of this section, provide such services to elementary schools, secondary schools, and libraries for educational purposes at rates less than the amounts charged for similar services to other parties. The discount shall be an amount that the Commission, with respect to interstate services, and the States, with respect to intrastate services, determine is appropriate and necessary to ensure affordable access to and use of such services by such entities. A telecommunications carrier providing service under this paragraph shall—
+&emsp;&emsp;All telecommunications carriers serving a geographic area shall, upon a bona fide request for any of its services that are withinthe definition of universal service under subsection (c)(3) of this section, provide such services to elementary schools, secondary schools, and libraries for educational purposes at rates less than the amounts charged for similar services to other parties. The discount shall be an amount that the Commission, with respect to interstate services, and the States, with respect to intrastate services, determine is appropriate and necessary to ensure affordable access to and use of such services by such entities. A telecommunications carrier providing service under this paragraph shall—
 
 &emsp;&emsp;&emsp;(i) have an amount equal to the amount of the discount treated as an offset to its obligation to contribute to the mechanisms to preserve and advance universal service, or
 
@@ -132,7 +132,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (iii) Public notice; hearing
 
-&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board,local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 <sup>1</sup> of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
+&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 <sup>1</sup> of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
 
 #### (B) Certification with respect to minors
 
@@ -212,7 +212,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (II) Failure to comply
 
-&emsp;&emsp;&emsp;&emsp;A school that has failed to comply with a certification as described in clause (ii) may remedy the failure by ensuring the use of its computers in accordance with such certification. Upon submittal to the Commission of a certification or other appropriate evidence of such remedy, the school shall be eligible for services at discount rates under this subsection.
+&emsp;&emsp;&emsp;&emsp;A school that has failed to comply with a certification as described in clause (ii) may remedy the failure by ensuring the use of its computers in accordance with such certification. Uponsubmittal to the Commission of a certification or other appropriate evidence of such remedy, the school shall be eligible for services at discount rates under this subsection.
 
 #### (6) Requirements for certain libraries with computers having Internet access
 
@@ -374,7 +374,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (I) Technology protection measure
 
-&emsp;&emsp;The term “technology protection measure” means a specific technology that blocks or filters Internet access to the material covered by a certification under paragraph (5) or (6) to which such certification relates.
+&emsp;&emsp;The term “technology protection measure” means a specific technology thatblocks or filters Internet access to the material covered by a certification under paragraph (5) or (6) to which such certification relates.
 
 #### (i) Consumer protection
 

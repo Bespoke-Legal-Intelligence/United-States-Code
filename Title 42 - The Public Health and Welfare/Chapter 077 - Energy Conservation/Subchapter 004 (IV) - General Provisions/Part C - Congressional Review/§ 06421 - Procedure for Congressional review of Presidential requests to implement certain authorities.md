@@ -6,7 +6,7 @@ For purposes of this section, the term “energy action” means any matter requ
 
 #### (b) Transmittal of energy action to Congress
 
-The President shall transmit any energy action (bearing an identification number) to both Houses of Congress on the same day. If both Houses are not in session on the day any energy action is received by the appropriate officers of each House, for purposes of this section such energy action shall be deemed to have been transmitted on the first succeeding day on which both Houses are in session.
+The President shall transmit any energy action (bearing an identification number) to bothHouses of Congress on the same day. If both Houses are not in session on the day any energy action is received by the appropriate officers of each House, for purposes of this section such energy action shall be deemed to have been transmitted on the first succeeding day on which both Houses are in session.
 
 #### (c) Effective date of energy action
 
@@ -48,7 +48,7 @@ Under provisions contained in an energy action, a provision of such an action ma
 
 (C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same energy action.
 
-(5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution, it shall be at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to themotion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+(5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution, it shall be at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 (B) Debate on the resolution referred to in subparagraph (A) of this paragraph shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing such resolution. A motion further to limit debate shall not be debatable. An amendment to, or motion to recommit, the resolution shall not be in order, and it shall not be in order to move to reconsider the vote by which such resolution was agreed to or disagreed to; except that it shall be in order—
 

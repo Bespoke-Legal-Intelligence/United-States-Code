@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) Any amounts remaining shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendarquarters immediately preceding the beginning of that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year which would cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
+> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginning of that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year which would cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Articles containing distilled spirits
 
@@ -186,7 +186,7 @@ Subsec. (b)(1). Pub. L. 85–859, §204(18), substituted “section 5314” for 
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title I, §114(b), Dec. 20, 2006, 120 Stat. 2940, provided that: “The amendment made bysubsection (a) \[amending this section\] shall apply to articles brought into the United States after December 31, 2005.”
+Pub. L. 109–432, div. A, title I, §114(b), Dec. 20, 2006, 120 Stat. 2940, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to articles brought into the United States after December 31, 2005.”
 
 #### Effective Date of 2005 Amendment
 
@@ -342,7 +342,7 @@ Second transfer of incremental increase in cover over attributable to periods be
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Payment to Puerto Rico or Virgin Islands of Amounts With Respect to Medicines, etc. Unfit for Beverage Purposes
 

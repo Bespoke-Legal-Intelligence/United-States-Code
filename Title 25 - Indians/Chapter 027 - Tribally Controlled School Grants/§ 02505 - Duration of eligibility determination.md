@@ -96,7 +96,7 @@ With respect to a tribally controlled school that receives assistance under this
 
 #### References in Text
 
-The Single Audit Act of 1984, referred to in subsec. (b)(1)(B), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act of 1984, referred to in subsec. (b)(1)(B), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under section 7501 of Title 31. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B)(iv)(I), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 

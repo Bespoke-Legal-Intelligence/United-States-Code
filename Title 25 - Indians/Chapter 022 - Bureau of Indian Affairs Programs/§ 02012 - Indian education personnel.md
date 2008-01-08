@@ -40,7 +40,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;(A) lists of qualified and interviewed applicants for education positions be maintained in each agency and area office of the Bureau from among individuals who have applied at the agency or area level for an education position or who have applied at the national level and have indicated in such application an interest in working in certain areas or agencies;
 
-&emsp;&emsp;(B) a local school board shall have the authority to waive on a case-by-case basis, any formal education or degree qualifications established by regulation pursuant to subsection (b)(2) of this section, in order for a tribal member to be hired in an education position to teach courses on tribal culture and language and that subject to subsection (e)(2) of this section, a determination by a school board that such a person be hired shall be instituted by the supervisor of the school involved; and
+&emsp;&emsp;(B) a local school board shall have the authority to waive on a case-by-case basis, any formal education or degree qualifications established by regulation pursuant to subsection (b)(2) of this section, in order for a tribal member to be hired in an education position to teach courses on tribal cultureand language and that subject to subsection (e)(2) of this section, a determination by a school board that such a person be hired shall be instituted by the supervisor of the school involved; and
 
 &emsp;&emsp;(C) that <sup>1</sup> it shall not be a prerequisite to the employment of an individual in an education position at the local level that—
 
@@ -98,7 +98,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (3) Statutory construction
 
-&emsp;Except as expressly provided, nothing in this section shall be construed as conferring uponlocal school boards authority over, or control of, educators at Bureau-funded schools or the authority to issue management decisions.
+&emsp;Except as expressly provided, nothing in this section shall be construed as conferring upon local school boards authority over, or control of, educators at Bureau-funded schools or the authority to issue management decisions.
 
 #### (4) Appeals
 
@@ -110,7 +110,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Action by board
 
-&emsp;&emsp;&emsp;A copy of such statement shall be submitted to the local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal.
+&emsp;&emsp;&emsp;A copy of such statement shall be submitted to the local school board and suchboard shall be afforded an opportunity to respond, in writing, to such appeal.
 
 #### (iii) Overturning of determination
 
@@ -274,7 +274,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Consistent rates
 
-&emsp;&emsp;&emsp;The rates established under clause (i) shall be consistent with the rates paid forindividuals in the same positions, with the same tenure and training, as the teachers and counselors, in any other school within whose boundaries the Bureau school is located.
+&emsp;&emsp;&emsp;The rates established under clause (i) shall be consistent with the rates paid for individuals in the same positions, with the same tenure and training, as the teachers and counselors, in any other school within whose boundaries the Bureau school is located.
 
 #### (iii) Decreases
 
@@ -340,7 +340,7 @@ Upon termination of employment with the Bureau, any annual leave remaining to th
 
 #### (i) Transfer of remaining sick leave upon transfer, promotion, or reemployment
 
-In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remainingleave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) of this section shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
+In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) of this section shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
 
 #### (j) Ineligibility for employment of voluntarily terminated educators
 
@@ -442,7 +442,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(I) classroom or other instruction or the supervision or direction of classroom or other instruction;
 
-&emsp;&emsp;&emsp;(II) any activity (other than teaching) which requires academic credits in educational theory and practice equal to theacademic credits in educational theory and practice required for a bachelor's degree in education from an accredited institution of higher education;
+&emsp;&emsp;&emsp;(II) any activity (other than teaching) which requires academic credits in educational theory and practice equal to the academic credits in educational theory and practice required for a bachelor's degree in education from an accredited institution of higher education;
 
 &emsp;&emsp;&emsp;(III) any activity in or related to the field of education notwithstanding that academic credits in educational theory and practice are not a formal requirement for the conduct of such activity; or
 
@@ -498,7 +498,7 @@ Another prior section 2012, Pub. L. 95–561, title XI, §1132, Nov. 1, 1978, 92
 
 #### Adjustments to Rates of Basic Compensation or Annual Salary Rates for Education Positions
 
-Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193, provided in part: “That in fiscal year 1997 and thereafter, notwithstanding the provisions of \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) \[see now 25 U.S.C. 2012(g)(1)(A), (B)\], upon the recommendation of either (i) a local school board and school supervisor for an education position in a Bureau of Indian Affairs operated school, or (ii) an Agency school board and education line officer for an Agency education position, the Secretary \[of the Interior\] shall establish adjustments to the rates of basic compensation or annual salary rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) for education positions at the school or the Agency, at a level not less than that for comparable positions in the nearest public school district, and the adjustment shall be deemed to be a change to basic pay and shall not be subject to collective bargaining: <i>Provided further</i>, That any reduction to rates of basic compensation or annual salary rates below the rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) shall apply only to educators appointed after June 30, 1997, and shall not affect the right of an individual employed on June 30, 1997, in an education position, to receive the compensation attached to such position under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) so long as the individual remains in the same position at the same school”.
+Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193, provided in part: “That in fiscal year 1997 and thereafter, notwithstanding the provisions of \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) \[see now 25 U.S.C. 2012(g)(1)(A), (B)\], upon the recommendation of either (i) a local school board and school supervisor for an education position in a Bureau of Indian Affairs operated school, or (ii) an Agency school board and education line officer for an Agency education position, the Secretary \[of the Interior\] shall establish adjustments to the rates of basic compensation or annual salary rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) for education positions at the school or the Agency, at a level not less than that for comparable positions in the nearest public school district, and the adjustment shall be deemed to be a change to basic pay and shall not be subject to collective bargaining: <i>Provided further</i>, That any reduction to rates of basic compensation or annual salary ratesbelow the rates established under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) shall apply only to educators appointed after June 30, 1997, and shall not affect the right of an individual employed on June 30, 1997, in an education position, to receive the compensation attached to such position under \[former\] 25 U.S.C. 2012(h)(1)(A) and (B) so long as the individual remains in the same position at the same school”.
 
 Similar provisions were contained in the following prior appropriation act:
 

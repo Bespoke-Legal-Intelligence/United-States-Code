@@ -8,7 +8,7 @@
 
 #### (2) On foundation manager
 
-&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any foundation manager in an act of self-dealing between a disqualified person and a private foundation, knowing that it is such an act, a tax equal to 5 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who participated in the act of self-dealing.
+&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on theparticipation of any foundation manager in an act of self-dealing between a disqualified person and a private foundation, knowing that it is such an act, a tax equal to 5 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who participated in the act of self-dealing.
 
 #### (b) Additional taxes
 
@@ -62,7 +62,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;(D) the furnishing of goods, services, or facilities by a private foundation to a disqualified person shall not be an act of self-dealing if such furnishing is made on a basis no more favorable than that on which such goods, services, or facilities are made available to the general public;
 
-&emsp;&emsp;(E) except in the case of a government official (as defined in section 4946(c)), the payment of compensation (and the payment or reimbursement of expenses) by a private foundation to a disqualified person for personal services which are reasonable and necessary to carrying out the exempt purpose ofthe private foundation shall not be an act of self-dealing if the compensation (or payment or reimbursement) is not excessive;
+&emsp;&emsp;(E) except in the case of a government official (as defined in section 4946(c)), the payment of compensation (and the payment or reimbursement of expenses) by a private foundation to a disqualified person for personal services which are reasonable and necessary to carrying out the exempt purpose of the private foundation shall not be an act of self-dealing if the compensation (or payment or reimbursement) is not excessive;
 
 &emsp;&emsp;(F) any transaction between a private foundation and a corporation which is a disqualified person (as defined in section 4946(a)), pursuant to any liquidation, merger, redemption, recapitalization, or other corporate adjustment, organization, or reorganization, shall not be an act of self-dealing if all of the securities of the same class as that held by the foundation are subject to the same terms and such terms provide for receipt by the foundation of no less than fair market value;
 
@@ -124,7 +124,7 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 #### Codification
 
-Section 1212(a)(1), (2) of Pub. L. 109–280, which directed the amendment of section 4941 without specifying the act to be amended, was executed to this section,which is section 4941 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+Section 1212(a)(1), (2) of Pub. L. 109–280, which directed the amendment of section 4941 without specifying the act to be amended, was executed to this section, which is section 4941 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
 

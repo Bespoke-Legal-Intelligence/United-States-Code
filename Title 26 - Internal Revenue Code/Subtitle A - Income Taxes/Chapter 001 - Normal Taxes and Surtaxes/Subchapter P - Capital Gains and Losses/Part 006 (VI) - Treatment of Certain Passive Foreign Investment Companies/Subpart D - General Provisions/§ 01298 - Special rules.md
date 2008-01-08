@@ -20,7 +20,7 @@ For purposes of this part—
 
 #### (B) 50-percent limitation not to apply to PFIC
 
-&emsp;&emsp;For purposes of determining whether a shareholder of a passive foreign investment company is treated as owning stock owned directly or indirectly by or for such company, subparagraph (A) shall be applied without regard to the 50-percent limitation contained therein. Section 1297(e) shall not apply in determining whether a corporation is a passive foreign investment company for purposes of this subparagraph.
+&emsp;&emsp;For purposes of determining whether a shareholder of a passive foreign investment company is treated as owning stock owned directly or indirectly by or for such company, subparagraph (A) shall be applied without regard to the 50-percent limitation contained therein. Section 1297(d) shall not apply in determining whether a corporation is a passive foreign investment company for purposes of this subparagraph.
 
 #### (3) Partnerships, etc.
 
@@ -28,7 +28,7 @@ For purposes of this part—
 
 #### (4) Options
 
-&emsp;To the extent provided in regulations, if any person has an option to acquire stock, such stock shall be considered as owned by such person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
+&emsp;To the extent provided in regulations, if any person has an option to acquire stock, suchstock shall be considered as owned by such person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
 
 #### (5) Successive application
 
@@ -90,11 +90,7 @@ For purposes of this part—
 
 &emsp;Except as provided in regulations, if a taxpayer uses any stock in a passive foreign investment company as security for a loan, the taxpayer shall be treated as having disposed of such stock.
 
-#### (7) Coordination with section 1246 <sup>1</sup>
-
-&emsp;Section 1246 <sup>1</sup> shall not apply to earnings and profits of any company for any taxable year beginning after December 31, 1986, if such company is a passive foreign investment company for such taxable year.
-
-#### (8) Treatment of certain foreign corporations owning stock in 25-percent owned domestic corporation
+#### (7) Treatment of certain foreign corporations owning stock in 25-percent owned domestic corporation
 
 #### (A) In general
 
@@ -110,7 +106,7 @@ For purposes of this part—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “qualified stock” means any stock in a C corporation which is a domestic corporation and which is not a regulated investment company or real estate investment trust.
 
-#### (9) Treatment of certain subpart F inclusions
+#### (8) Treatment of certain subpart F inclusions
 
 &emsp;Any amount included in gross income under section 951(a)(1)(B) shall be treated as a distribution received with respect to the stock.
 
@@ -188,17 +184,19 @@ For purposes of this part—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part.
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2573, §1297; amended Pub. L. 100–647, title I, §1012(p)(10), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, 102 Stat. 3517–3519, 3522; Pub. L. 101–239, title VII, §7811(i)(4), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13231(d)(2), (4), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §§1501(b)(10), (11), 1703(i)(5), (6), Aug. 20, 1996, 110 Stat. 1826, 1876; renumbered §1298 and amended Pub. L. 105–34, title XI, §1122(a), (e), Aug. 5, 1997, 111 Stat. 972, 977; Pub. L. 105–206, title VI, §6011(b)(2), July 22, 1998, 112 Stat. 818.)
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2573, §1297; amended Pub. L. 100–647, title I, §1012(p)(10), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, 102 Stat. 3517–3519, 3522; Pub. L. 101–239, title VII, §7811(i)(4), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13231(d)(2), (4), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §§1501(b)(10), (11), 1703(i)(5), (6), Aug. 20, 1996, 110 Stat. 1826, 1876; renumbered §1298 and amended Pub. L. 105–34, title XI, §1122(a), (e), Aug. 5, 1997, 111 Stat. 972, 977; Pub. L. 105–206, title VI, §6011(b)(2), July 22, 1998, 112 Stat. 818; Pub. L. 110–172, §11(a)(24)(C), (f)(2), Dec. 29, 2007, 121 Stat. 2487, 2489.)
 
 #### References in Text
 
-Section 951(f), referred to in subsec. (b)(5)(B), was redesignated section 951(d) by Pub. L. 108–357, title IV, §413(c)(16), Oct. 22, 2004, 118 Stat. 1508.
-
-Section 1246, referred to in subsec. (b)(7), was repealed by Pub. L. 108–357, title IV, §413(a)(2), Oct. 22, 2004, 118 Stat. 1506.
+Section 951(f), referred to in subsec. (b)(5)(B), was redesignated section 951(d) by Pub. L. 108–357, title IV, §413(c)(16), Oct. 22, 2004, 118 Stat. 1508, and subsequently was redesignated section 951(c) by Pub. L. 110–172, §11(g)(13), Dec. 29, 2007, 121 Stat. 2490.
 
 Section 1296, referred to in subsec. (d)(2)(A), was renumbered section 1297 and a new section 1296 was added by Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972.
 
 #### Amendments
+
+2007—Subsec. (a)(2)(B). Pub. L. 110–172, §11(a)(24)(C), substituted “Section 1297(d)” for “Section 1297(e)”.
+
+Subsec. (b)(7) to (9). Pub. L. 110–172, §11(f)(2), redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “Section 1246 shall not apply to earnings and profits of any company for any taxable year beginning after December 31, 1986, if such company is a passive foreign investment company for such taxable year.”
 
 1998—Subsec. (a)(2)(B). Pub. L. 105–206 inserted at end “Section 1297(e) shall not apply in determining whether a corporation is a passive foreign investment company for purposes of this subparagraph.”
 
@@ -243,6 +241,10 @@ Subsec. (b)(6). Pub. L. 100–647, §1012(p)(20), substituted “Except as provi
 Subsec. (b)(8). Pub. L. 100–647, §1012(p)(24), added par. (8).
 
 Subsecs. (c), (d). Pub. L. 100–647, §1012(p)(35), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by section 11(f)(2) of Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 11(f)(4) of Pub. L. 110–172, set out as a note under section 904 of this title.
 
 #### Effective Date of 1998 Amendment
 

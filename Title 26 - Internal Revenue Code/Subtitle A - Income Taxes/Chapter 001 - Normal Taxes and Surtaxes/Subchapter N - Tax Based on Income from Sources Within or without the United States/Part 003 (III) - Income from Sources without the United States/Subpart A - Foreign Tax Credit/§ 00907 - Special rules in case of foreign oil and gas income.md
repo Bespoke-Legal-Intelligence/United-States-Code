@@ -128,7 +128,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 #### (3) Special rules
 
-&emsp;(A) In the case of any taxable year which is an unused credit year under this subsection and which is an unused credit year under section 904(c), the provisions of this subsection shall be applied before section 904(c).
+&emsp;(A) In the case of any taxable year which is an unused credit year under this subsectionand which is an unused credit year under section 904(c), the provisions of this subsection shall be applied before section 904(c).
 
 &emsp;(B) For purposes of determining the amount of taxes paid or accrued in any taxable year which may be deemed paid or accrued in a preceding or succeeding taxable year under section 904(c), any tax deemed paid or accrued in such preceding or succeeding taxable year under this subsection shall be considered to be tax paid or accrued in such preceding or succeeding taxable year.
 
@@ -190,7 +190,7 @@ Subsec. (b). Pub. L. 95–600, §701(u)(8)(B), substituted provisions relating t
 
 1976—Subsec. (a). Pub. L. 94–455, §1035(a), substituted “oil and gas extraction taxes” for “income, war profits, and excess profits taxes” after “the amount of any” and, in par. (2), substituted “the percentage which is the sum of the normal tax rate and the surtax rate for the taxable year specified in section 11” for provisions giving the percentage multiplier for years ending 1975, 1976, and after 1976.
 
-Subsec. (b). Pub. L. 94–455, §§1032(b)(1), 1035(b), inserted provisions making a distinction between corporations and other taxpayers and rules applicable to each and, as amended, struck out provision requiringthe overall limitation, rather than the per-country limitation, be applied in the case of a corporation to foreign oil-related income and, a taxpayer other than a corporation, to foreign oil and gas extraction income.
+Subsec. (b). Pub. L. 94–455, §§1032(b)(1), 1035(b), inserted provisions making a distinction between corporations and other taxpayers and rules applicable to each and, as amended, struck out provision requiring the overall limitation, rather than the per-country limitation, be applied in the case of a corporation to foreign oil-related income and, a taxpayer other than a corporation, to foreign oil and gas extraction income.
 
 Subsec. (c)(5). Pub. L. 94–455, §1035(d)(2), added par. (5).
 

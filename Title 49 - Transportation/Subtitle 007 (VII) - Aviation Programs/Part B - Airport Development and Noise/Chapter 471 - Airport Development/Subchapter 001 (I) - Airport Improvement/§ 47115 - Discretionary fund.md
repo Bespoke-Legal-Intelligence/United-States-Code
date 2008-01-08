@@ -62,7 +62,7 @@ General rule.—Subject to paragraph (2), in deciding whether or not to distribu
 
 &emsp;(2)
 
-Required finding.—Paragraph (1) shall apply only when the Secretary finds that theamount of revenues used by the airport for purposes other than capital or operating costs in the airport's fiscal year preceding the date of the application for discretionary funds exceeds the amount of such revenues in the airport's first fiscal year ending after August 23, 1994, adjusted by the Secretary for changes in the Consumer Price Index of All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+Required finding.—Paragraph (1) shall apply only when the Secretary finds that the amount of revenues used by the airport for purposes other than capital or operating costs in the airport's fiscal year preceding the date of the application for discretionary funds exceeds the amount of such revenues in the airport's first fiscal year ending after August 23, 1994, adjusted by the Secretary for changes in the Consumer Price Index of All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
 (g)
 

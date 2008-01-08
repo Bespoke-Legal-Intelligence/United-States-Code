@@ -1,7 +1,5 @@
 ### \[§§5401 to 5409. Repealed. Pub. L. 96–513, title III, §311(a), Dec. 12, 1980, 94 Stat. 2889\]
 
-§5409
-
 Section 5401, act Aug. 10, 1956, ch. 1041, 70A Stat. 297, prescribed authorized strength of Regular Navy in enlisted members. See section 521 et seq. of this title.
 
 Section 5402, act Aug. 10, 1956, ch. 1041, 70A Stat. 297, prescribed authorized strength of Regular Marine Corps. See section 521 et seq. of this title.
@@ -23,6 +21,4 @@ Section 5409, acts Aug. 10, 1956, ch. 1041, 70A Stat. 298; Aug. 3, 1961, Pub. L.
 #### Effective Date of Repeal
 
 Repeal effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
-
-§5410
 

@@ -38,7 +38,7 @@
 
 &emsp;(A) an election under section 8434(a)(2)(E) of this title, or
 
-&emsp;(B) any court decree, order, or agreement (described in subsection (c)(2), without regard to subparagraph (B) of such subsection) which relates to such deceased individual and such former spouse,
+&emsp;(B) any court decree, order, or agreement (described in subsection (c)(2), without regardto subparagraph (B) of such subsection) which relates to such deceased individual and such former spouse,
 
 > expressly provides for such survivor annuity.
 
@@ -90,11 +90,11 @@ Subsec. (e)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(
 
 Subsec. (e)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(i)\]\], inserted “or withdrawal” after “loan”.
 
-Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(ii)\]\], which directed insertion of “and (h)” after “8344(g)”, was executed by making the insertion after “8433(g)” to reflect the probable intent of Congress.
+Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(ii)\]\], which directed insertion of “and (h)” after “8344(g)”, was executed by making the insertionafter “8433(g)” to reflect the probable intent of Congress.
 
 Subsec. (g). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(A)\]\], inserted “or withdrawals” after “loans”.
 
-Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(B)\]\], which directed insertion of “and (h)” after“8344(g)” was executed by making the insertion after “8433(g)” to reflect the probable intent of Congress.
+Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(B)\]\], which directed insertion of “and (h)” after “8344(g)” was executed by making the insertion after “8433(g)” to reflect the probable intent of Congress.
 
 1994—Subsec. (a)(1)(A). Pub. L. 103–226, §9(d)(1), substituted “subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)” for “subsection (b)(3), (b)(4), (c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)”.
 

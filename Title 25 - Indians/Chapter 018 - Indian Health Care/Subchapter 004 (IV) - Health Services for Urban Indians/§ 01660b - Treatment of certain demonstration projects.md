@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, the Oklahoma City Clinic demonstration project and the Tulsa Clinic demonstration project shall be treated as service units in the allocation of resources and coordination of care and shall not be subject to the provisions of the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] for the term of such projects. The Secretary shall provide assistance to such projects in the development of resources and equipment and facility needs.
+Notwithstanding any other provision of law, the Oklahoma City Clinic demonstration projectand the Tulsa Clinic demonstration project shall be treated as service units in the allocation of resources and coordination of care and shall not be subject to the provisions of the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] for the term of such projects. The Secretary shall provide assistance to such projects in the development of resources and equipment and facility needs.
 
 #### (b) Report
 

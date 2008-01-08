@@ -80,6 +80,10 @@ Subsec. (g). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(B)\], a
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions relating to the disposal of Federal property on the Pribilof Islands for provisions relating to the medical and dental care of Pribilof Islands natives. See section 1164 of this title.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
@@ -108,7 +112,7 @@ Obligations of Secretary.—In carrying out cleanup activities under subsection 
 
 “(c)
 
-Resolution of Federal Responsibilities.—(1) Within 9 months after the date of enactment of this section \[Jan. 6, 1996\], and after consultation with the Secretary of the Interior, the State of Alaska, and local entities and residents of the Pribilof Islands, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Resources of the House of Representatives, a report proposing necessary actions by the Secretary of Commerce and Congress to resolve all claims with respect to, and permit the final implementation, fulfillment and completion of—
+Resolution of Federal Responsibilities.—(1) Within 9 months after the date of enactment of this section \[Jan. 6, 1996\], and after consultation with the Secretary of the Interior, the State of Alaska, and local entities and residents of the Pribilof Islands, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives, a report proposing necessary actions by the Secretary of Commerce and Congress to resolve all claims with respect to, and permit the final implementation, fulfillment and completion of—
 
 &emsp;“(A) the land conveyance entitlements of local entities and residents of the Pribilof Islands under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.);
 
@@ -142,7 +146,7 @@ Low-Interest Loan Program.—
 
 &emsp;“(1)
 
-Capitalization of revolving fund.—Of amounts authorized under subsection (f) for each of fiscal years 2001, 2002, 2003, 2004, and 2005, the Secretary may provide to the State of Alaska up to$2,000,000 per fiscal year to capitalize a revolving fund to be used by the State for loans under this subsection.
+Capitalization of revolving fund.—Of amounts authorized under subsection (f) for each of fiscal years 2001, 2002, 2003, 2004, and 2005, the Secretary may provide to the State of Alaska up to $2,000,000 per fiscal year to capitalize a revolving fund to be used by the State for loans under this subsection.
 
 &emsp;“(2)
 

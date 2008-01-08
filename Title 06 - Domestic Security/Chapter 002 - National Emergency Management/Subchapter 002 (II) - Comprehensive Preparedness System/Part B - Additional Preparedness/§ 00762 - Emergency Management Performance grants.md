@@ -1,6 +1,0 @@
-### §762. Emergency Management Performance grants
-
-There is authorized to be appropriated for the Emergency Management Performance Grants Program for fiscal year 2008, an amount equal to the amount appropriated for the program for fiscal year 2007 and an additional $175,000,000.
-
-(Pub. L. 109–295, title VI, §662, Oct. 4, 2006, 120 Stat. 1433.)
-

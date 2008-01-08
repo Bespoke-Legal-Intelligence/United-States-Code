@@ -20,7 +20,7 @@
 
 #### Codification
 
-Section was formerly classified to section 170t of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 170t of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
@@ -30,23 +30,19 @@ Section was formerly classified to section 170t of Title 5 prior to the general 
 
 Pub. L. 92–226 substituted provisions constituting subsecs. (a) and (b) and prohibiting any State Department appropriation on and after July 1, 1972, without a prior congressional legislative authorization, and requiring the State Department and Federal agencies to furnish information to congressional committees for former provisions constituting the entire section and authorizing and making appropriations available for the State Department.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Future Assistance Projections
 
 Pub. L. 101–513, title V, §581, Nov. 5, 1990, 104 Stat. 2046, directed that the Congressional Presentation Documents of departments and agencies included within this Act should contain funding projections for each of its major program components for each of the three years following the year for which new budget or other authority was being requested and provided that the requirements of this section were effective for Congressional Presentation Documents submitted for fiscal year 1992.
 
 #### Report on Expenditures Made From Appropriation for Emergencies in Diplomatic and Consular Service
 
-Pub. L. 100–204, title I, §124, Dec. 22, 1987, 101 Stat. 1341, as amended by Pub. L. 102–138, title I, §114, Oct. 28, 1991, 105 Stat. 655, provided that: “The Secretary of State shall provide to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives within 30 days after the end of each quarter of the fiscal year a complete report, including amount, payee, and purpose, of all expenditures made from the appropriation for ‘Emergencies in the Diplomatic and Consular Service’ for that quarter. Items included in each such report concerning representation, official travel, and gifts shall be submitted in unclassified form.”
+Pub. L. 100–204, title I, §124, Dec. 22, 1987, 101 Stat. 1341, as amended by Pub. L. 102–138, title I, §114, Oct. 28, 1991, 105 Stat. 655, provided that: “The Secretary of State shall provide to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives within 30 days after the end of each quarter of the fiscal year a complete report, including amount, payee, and purpose, of all expenditures made from the appropriation for ‘Emergencies in the Diplomatic and Consular Service’ for that quarter. Items included in each such report concerning representation, official travel, and gifts shall be submitted in unclassified form.”
 
 #### Information-Sharing Arrangement Between Department of State and Congressional Committees
 
 Pub. L. 95–426, title I, §122, Oct. 7, 1978, 92 Stat. 970, as amended by Pub. L. 97–241, title V, §505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: “The Congress finds that—
 
-&emsp;“(1) international political, economic, and other studies prepared systematically by analysts of the Department of State as needed background information for executive branch policymakers could be similarly valuable to the Committee on International Relations \[now Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate in fulfilling their responsibilities; and
+&emsp;“(1) international political, economic, and other studies prepared systematically by analysts of the Department of State as needed background information for executive branch policymakers could be similarly valuable to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate in fulfilling their responsibilities; and
 
 &emsp;“(2) a formal information-sharing arrangement between the Department of State and such congressional committees could therefore serve the national interest, provided that controls on dissemination are established which insure that neither the process of analysis nor necessary confidentiality is jeopardized.”
 

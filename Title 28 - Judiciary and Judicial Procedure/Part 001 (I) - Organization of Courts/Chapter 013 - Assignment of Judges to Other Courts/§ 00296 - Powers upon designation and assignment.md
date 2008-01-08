@@ -2,11 +2,11 @@
 
 A justice or judge shall discharge, during the period of his designation and assignment, all judicial duties for which he is designated and assigned. He may be required to perform any duty which might be required of a judge of the court or district or circuit to which he is designated and assigned.
 
-Such justice or judge shall have all the powers of a judge of the court, circuit or district to which he is designated and assigned, except thepower to appoint any person to a statutory position or to designate permanently a depository of funds or a newspaper for publication of legal notices.
+Such justice or judge shall have all the powers of a judge of the court, circuit or district to which he is designated and assigned, except the power to appoint any person to a statutory position or to designate permanently a depository of funds or a newspaper for publication of legal notices. However, a district judge who has retired from regular active service under section 371(b) of this title, when designated and assigned to the court to which such judge was appointed, having performed in the preceding calendar year an amount of work equal to or greater than the amount of work an average judge in active service on that court would perform in 6 months, and having elected to exercise such powers, shall have the powers of a judge of that court to participate in appointment of court officers and magistrate judges, rulemaking, governance, and administrative matters.
 
 A justice or judge who has sat by designation and assignment in another district or circuit may, notwithstanding his absence from such district or circuit or the expiration of the period of his designation and assignment, decide or join in the decision and final disposition of all matters submitted to him during such period and in the consideration and disposition of applications for rehearing or further proceedings in such matters.
 
-(June 25, 1948, ch. 646, 62 Stat. 901.)
+(June 25, 1948, ch. 646, 62 Stat. 901; Pub. L. 110–177, title V, §503, Jan. 7, 2008, 121 Stat. 2542.)
 
 #### Historical and Revision Notes
 
@@ -23,4 +23,8 @@ Section is made applicable to retired justices of the Supreme Court by inclusion
 The second sentence of the revised section was substituted for the provision of section 18 of title 28, U.S.C., 1940 ed., which subjected circuit judges to the same assignments of duty as the circuit judges of the circuit to which they are designated and assigned. The revised section extends this requirement and makes it applicable to all designated and assigned judges.
 
 The provision in the last paragraph of said section 22 that the action of the assigned judge in writing filed with the clerk of court where the trial or hearing was held shall be valid as if such action had been taken by him within the district and within the period of his designation, was omitted as surplusage. See section 295 of this title.
+
+#### Amendments
+
+2008—Pub. L. 110–177 inserted at end of second par. “However, a district judge who has retired from regular active service under section 371(b) of this title, when designated and assigned to the court to which such judge was appointed, having performed in the preceding calendar year an amount of work equal to or greater than the amount of work an average judge in active service on that court would perform in 6 months, and having elected to exercise such powers, shall have the powers of a judge of that court to participate in appointment of court officers and magistrate judges, rulemaking, governance, and administrative matters.”
 

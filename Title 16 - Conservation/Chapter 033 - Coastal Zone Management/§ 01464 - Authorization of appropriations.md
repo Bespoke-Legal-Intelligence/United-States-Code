@@ -48,7 +48,7 @@ Subsecs. (b) to (d). Pub. L. 104–150, §4(2), (3), redesignated subsecs. (c) a
 
 “(3) such sums, not to exceed $1,000,000 for the fiscal year ending September 30, 1986, and not to exceed $1,500,000 for each of the fiscal years occurring during the period beginning October 1, 1986, and ending September 30, 1990, as may be necessary for grants under section 1456b of this title, to remain available until expended;
 
-“(4) such sums, not to exceed $2,500,000 for the fiscal year ending September 30, 1986, not to exceed $3,800,000 for the fiscal year ending September 30, 1987, $4,500,000 for the fiscal year ending September 30, 1988, $5,000,000 for the fiscal year ending September 30, 1989, and $5,500,000 for the fiscal year ending September 30, 1990, as may be necessary for grants under section 1461 of this title, to remain available until expended; and
+“(4) such sums, not to exceed $2,500,000 for the fiscal year ending September 30, 1986, not to exceed $3,800,000 for the fiscal year ending September 30, 1987, $4,500,000 for the fiscal year ending September 30, 1988, $5,000,000 for the fiscal year ending September 30, 1989, and$5,500,000 for the fiscal year ending September 30, 1990, as may be necessary for grants under section 1461 of this title, to remain available until expended; and
 
 “(5) such sums, not to exceed $3,300,000 for the fiscal year ending September 30, 1986, not to exceed $3,300,000 for the fiscal year ending September 30, 1987, $3,300,000 for the fiscal year ending September 30, 1988, $4,000,000 for the fiscal year ending September 30, 1989, and $4,000,000 for the fiscal year ending September 30, 1990, as may be necessary for administrative expenses incident to the administration of this chapter.”
 
@@ -70,7 +70,7 @@ Subsec. (a)(2). Pub. L. 96–464, §13(1), added par. (2). Former par. (2) redes
 
 Subsec. (a)(3). Pub. L. 96–464, §13(1), substituted authorization of appropriation of $75,000,000 for each of the fiscal years 1981 through 1988, for authorization of appropriation of $50,000,000 for each of the fiscal year years 1977 and 1978, and $130,000,000 for each of the fiscal years 1979 through 1988.
 
-Subsec. (a)(4). Pub. L. 96–464, §13(1), redesignated par. (5) as (4) and substituted authorization of appropriation of $3,000,000 for each of the fiscal years 1981 through 1985, for authorization of appropriation of $5,000,000 for each of the fiscal years 1977 through 1980. Former par. (4), which authorized appropriation of $5,000,000 for eachof the fiscal years 1979 through 1983 for grants under section 1456a(c)(2) of this title, was struck out.
+Subsec. (a)(4). Pub. L. 96–464, §13(1), redesignated par. (5) as (4) and substituted authorization of appropriation of $3,000,000 for each of the fiscal years 1981 through 1985, for authorization of appropriation of $5,000,000 for each of the fiscal years 1977 through 1980. Former par. (4), which authorized appropriation of $5,000,000 for each of the fiscal years 1979 through 1983 for grants under section 1456a(c)(2) of this title, was struck out.
 
 Subsec. (a)(5). Pub. L. 96–464, §13(1), combined in par. (5), authorization of appropriation of $31,000,000 for grants under section 1461 of this title for fiscal years 1977 through 1980 formerly contained in pars. (7) and (8), and authorized appropriation of $9,000,000 for grants under section 1461 of this title for fiscal years 1981 through 1985. Former par. (5) redesignated (4).
 

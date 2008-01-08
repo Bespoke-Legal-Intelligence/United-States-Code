@@ -18,7 +18,7 @@ Upon a request by the Secretary, the Attorney General shall bring an action in a
 
 #### (d) Vessels; liability in rem; exempt vessels; consent or privy of owners or bareboat charterers
 
-Any vessel, except a public vessel engaged in noncommercial activities, used in a violation ofthis chapter or of any rule or regulation issued pursuant to this chapter, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation, a consenting party or privy to such violation.
+Any vessel, except a public vessel engaged in noncommercial activities, used in a violation of this chapter or of any rule or regulation issued pursuant to this chapter, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation, a consenting party or privy to such violation.
 
 (Pub. L. 93–627, §15, Jan. 3, 1975, 88 Stat. 2140; Pub. L. 101–380, title IV, §4302(m), Aug. 18, 1990, 104 Stat. 539.)
 

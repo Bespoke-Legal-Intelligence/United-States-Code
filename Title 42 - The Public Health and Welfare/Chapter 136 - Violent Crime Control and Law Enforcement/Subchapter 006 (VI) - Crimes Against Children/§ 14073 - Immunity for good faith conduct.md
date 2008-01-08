@@ -18,7 +18,7 @@ Section was enacted as part of the Pam Lychner Sexual Offender Tracking and Iden
 
 #### Effective Date of Repeal
 
-Repeal of section effective before the later of 3 years after July 27, 2006, or 1 year after the date on which the software described in section 16923 of this title is available, see section 129(b) of Pub. L. 109–248, set out as a note under section 14071 of this title.
+Repeal of section effective before the later of 3 years after July 27, 2006, or 1 year after the date on which thesoftware described in section 16923 of this title is available, see section 129(b) of Pub. L. 109–248, set out as a note under section 14071 of this title.
 
 #### Effective Date
 

@@ -76,7 +76,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (2) Access to records
 
-&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to be records necessary in the performance of functions assigned by that Act to the Inspector General.
+&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to berecords necessary in the performance of functions assigned by that Act to the Inspector General.
 
 #### (3) “Record” defined
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (6) Compromise
 
-&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1) of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lenderor agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
+&emsp;Until a matter is referred to the Attorney General, any civil penalty under paragraph (1) of this subsection may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the Secretary shall consider the appropriateness of the penalty to the resources of the lender or guaranty agency subject to the determination; the gravity of the violation, failure, or substantial misrepresentation; the frequency and persistence of the violation, failure, or substantial misrepresentation; and the amount of any losses resulting from the violation, failure, or substantial misrepresentation. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the lender or agency charged, unless the lender or agency has, in the case of a final agency determination, commenced proceedings for judicial review within 90 days of the determination, in which case the deduction may not be made during the pendency of the proceeding.
 
 #### (h) Authority of the Secretary to impose and enforce limitations, suspensions, and terminations
 
@@ -188,7 +188,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (i) Authority to sell defaulted loans
 
-In the event that all other collection efforts have failed, the Secretary is authorized to selldefaulted student loans assigned to the United States under this part to collection agencies, eligible lenders, guaranty agencies, or other qualified purchaser on such terms as the Secretary determines are in the best financial interests of the United States. A loan may not be sold pursuant to this subsection if such loan is in repayment status.
+In the event that all other collection efforts have failed, the Secretary is authorized to sell defaulted student loans assigned to the United States under this part to collection agencies, eligible lenders, guaranty agencies, or other qualified purchaser on such terms as the Secretary determines are in the best financial interests of the United States. A loan may not be sold pursuant to this subsection if such loan is in repayment status.
 
 #### (j) Authority of Secretary to take emergency actions against lenders
 
@@ -202,7 +202,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;(C) determines that the likelihood of loss outweighs the importance of following the limitation, suspension, or termination procedures authorized in subsection (h) of this section;
 
-> &emsp;the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to the lender (by registered mail, return receipt requested), take emergency action to stop the issuance of guarantee commitments and the payment of interest benefits and special allowance to the lender.
+> &emsp;the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to the lender (by registered mail, return receipt requested), takeemergency action to stop the issuance of guarantee commitments and the payment of interest benefits and special allowance to the lender.
 
 #### (2) Length of emergency action
 
@@ -326,7 +326,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (3) Common reporting formats
 
-&emsp;The Secretary shall promulgate standards including necessary rules, regulations (including the definitions of all relevant terms), and procedures so as to require all lenders andguaranty agencies to report information on all aspects of loans made under this part in uniform formats, so as to permit the direct comparison of data submitted by individual lenders, servicers, or guaranty agencies.
+&emsp;The Secretary shall promulgate standards including necessary rules, regulations (including the definitions of all relevant terms), and procedures so as to require all lenders and guaranty agencies to report information on all aspects of loans made under this part in uniform formats, so as to permit the direct comparison of data submitted by individual lenders, servicers, or guaranty agencies.
 
 #### (4) Electronic forms
 
@@ -344,7 +344,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (3) Plan for use required
 
-&emsp;The Secretary shall submit a plan, for inclusion in the materials accompanying the President's budget each fiscal year, detailing the expenditure of funds authorized by this section to accomplish the 5 percent reduction in defaults. At the conclusion of the fiscal year, the Secretary shall report the Secretary's findings and activities concerning the expenditure of funds and whether the performance measure was met. If the performance measure was not met, the Secretary shall report the following:
+&emsp;The Secretary shall submit a plan, for inclusion in the materials accompanying the President's budget each fiscal year, detailing theexpenditure of funds authorized by this section to accomplish the 5 percent reduction in defaults. At the conclusion of the fiscal year, the Secretary shall report the Secretary's findings and activities concerning the expenditure of funds and whether the performance measure was met. If the performance measure was not met, the Secretary shall report the following:
 
 &emsp;&emsp;(A) why the goal was not met, including an indication of any managerial deficiencies or of any legal obstacles;
 
@@ -457,6 +457,8 @@ Subsecs. (k) to (p). Pub. L. 102–325, §425(e), added subsecs. (k) to (p).
 Subsec. (g)(2)(A)(i), (B). Pub. L. 100–50, §10(y), substituted “misrepresentation” for “representation”.
 
 #### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (d) Working condition fringe defined
 
-For purposes of this section, the term “working condition fringe” means any property or services provided to an employee of the employer to the extent that, if the employee paid for such property or services, such payment would be allowable as a deduction under section 162 or 167.
+For purposes of this section, the term “working condition fringe” means any property orservices provided to an employee of the employer to the extent that, if the employee paid for such property or services, such payment would be allowable as a deduction under section 162 or 167.
 
 #### (e) De minimis fringe defined
 
@@ -358,9 +358,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177.)
 
-#### Qualified Transportation Fringe Benefit Exclusion Adjustment for Taxable Years Beginning in 2007
+#### Qualified Transportation Fringe Benefit Exclusion Adjustment for Taxable Years Beginning in 2008
 
-<i>For adjustment of qualified transportation fringe benefit exclusion amount under this section for taxable years beginning in 2007, see section 3.13 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of qualified transportation fringe benefit exclusion amount under this section for taxable years beginning in 2008, see section 3.13 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 

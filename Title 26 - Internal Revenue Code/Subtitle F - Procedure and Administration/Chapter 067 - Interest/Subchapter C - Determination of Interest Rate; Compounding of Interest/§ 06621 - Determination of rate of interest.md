@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (iii) Exception for letters or notices involving small amounts
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, any letter or notice shall be disregarded if theamount of the deficiency or proposed deficiency (or the assessment or proposed assessment) set forth in such letter or notice is not greater than $100,000 (determined by not taking into account any interest, penalties, or additions to tax).
+&emsp;&emsp;&emsp;For purposes of this paragraph, any letter or notice shall be disregarded if the amount of the deficiency or proposed deficiency (or the assessment or proposed assessment) set forth in such letter or notice is not greater than $100,000 (determined by not taking into account any interest, penalties, or additions to tax).
 
 #### (3) Large corporate underpayment
 
@@ -144,7 +144,7 @@ Pub. L. 97–34, §711(c), substituted “January 1” for “February 1”.
 
 Subsec. (c). Pub. L. 97–34, §711(b), struck out “90 percent of” before “the average predominant prime rate”.
 
-1979—Subsec. (a). Pub. L. 96–167 substituted provisions setting the annual rate established under this section to be such adjusted rate as is established by the Secretary under subsec. (b) of this section for provision that the rate of interest under sections 6601(a), 6602,6611(a), 6332(c)(1), and 7426(g) of this title, and under section 2411(a) of title 28 was to be 9 percent per annum, or such adjusted rate as was established by the Secretary under subsection (b).
+1979—Subsec. (a). Pub. L. 96–167 substituted provisions setting the annual rate established under this section to be such adjusted rate as is established by the Secretary under subsec. (b) of this section for provision that the rate of interest under sections 6601(a), 6602, 6611(a), 6332(c)(1), and 7426(g) of this title, and under section 2411(a) of title 28 was to be 9 percent per annum, or such adjusted rate as was established by the Secretary under subsection (b).
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

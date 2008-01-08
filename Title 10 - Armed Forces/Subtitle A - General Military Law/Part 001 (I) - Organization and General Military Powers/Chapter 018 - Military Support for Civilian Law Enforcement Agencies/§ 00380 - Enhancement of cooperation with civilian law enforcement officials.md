@@ -24,5 +24,5 @@
 
 #### Amendments
 
-1988—Pub. L. 100–456 amended section generally, substituting provisions relating to annual briefing of lawenforcement personnel of each State by Secretary of Defense and Attorney General and establishment of offices and telephone communication with those offices regarding surplus military equipment for provisions requiring the Secretary to report to Congress on the availability of assistance, etc., to civilian law enforcement and drug interdiction agencies and to convene a conference and requiring the Comptroller General to monitor and report on the Secretary's compliance with those requirements.
+1988—Pub. L. 100–456 amended section generally, substituting provisions relating to annual briefing of law enforcement personnel of each State by Secretary of Defense and Attorney General and establishment of offices and telephone communication with those offices regarding surplus military equipment for provisions requiring the Secretary to report to Congress on the availability of assistance, etc., to civilian law enforcement and drug interdiction agencies and to convene a conference and requiring the Comptroller General to monitor and report on the Secretary's compliance with those requirements.
 

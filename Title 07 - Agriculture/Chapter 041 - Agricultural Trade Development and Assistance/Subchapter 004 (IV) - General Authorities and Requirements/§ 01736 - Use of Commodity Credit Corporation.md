@@ -38,7 +38,7 @@ The funds, facilities, and authorities of the Commodity Credit Corporation may b
 
 Funds shall be available under this chapter only to the extent provided in advance in appropriation Acts.
 
-(July 10, 1954, ch. 469, title IV, §406, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(5), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 94–161, title II, §214, Dec. 20, 1975, 89 Stat. 855; Pub. L. 101–508, title I, §1204(b)(2), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §323, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §215, Apr. 4, 1996, 110 Stat. 956.)
+(July 10, 1954, ch. 469, title IV, §406, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(5), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, §2(E),Nov. 11, 1966, 80 Stat. 1536; Pub. L. 94–161, title II, §214, Dec. 20, 1975, 89 Stat. 855; Pub. L. 101–508, title I, §1204(b)(2), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §323, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §215, Apr. 4, 1996, 110 Stat. 956.)
 
 #### Amendments
 

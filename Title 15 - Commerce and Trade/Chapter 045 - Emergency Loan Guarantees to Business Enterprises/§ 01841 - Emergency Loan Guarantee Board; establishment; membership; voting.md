@@ -10,7 +10,7 @@ Section 1 of Pub. L. 92–70 provided that: “This Act \[enacting this chapter\
 
 #### Emergency Steel Loan Guarantees and Emergency Oil and Gas Guaranteed Loans
 
-Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat.1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, §205, Nov. 22, 2005, 119 Stat. 2315, provided that:
+Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, §205, Nov. 22, 2005, 119 Stat. 2315; Pub. L. 110–161, div. B, title I, §105, Dec. 26, 2007, 121 Stat. 1892, provided that:
 
 #### “CHAPTER 1
 
@@ -26,9 +26,9 @@ Short Title.—This chapter may be cited as the ‘Emergency Steel Loan Guarante
 
 Congressional Findings.—Congress finds that—
 
-&emsp;“(1) the United States steel industry has been severely harmed by a record surge of more than 40,000,000 tons of steel imports into the United States in 1998, caused by the world financial crisis;
+&emsp;“(1) the United States steel industry has been severely harmed by a record surge of more than 40,000,000 tons of steel imports into the United States since 1998, caused by the world financial crisis;
 
-&emsp;“(2) this surge in imports resulted in the loss of more than 10,000 steel worker jobs in 1998, and was the imminent cause of three bankruptcies by medium-sized steel companies, Acme Steel, Laclede Steel, and Geneva Steel;
+&emsp;“(2) this surge in imports resulted in the loss of more than 10,000 steel worker jobs since 1998, and was the imminent cause of three bankruptcies by medium-sized steel companies, Acme Steel, Laclede Steel, and Geneva Steel;
 
 &emsp;“(3) the crisis also forced almost all United States steel companies into—
 
@@ -62,7 +62,7 @@ Qualified steel company.—The term ‘qualified steel company’ means any comp
 
 &emsp;&emsp;“(B) is engaged in the production and manufacture of a product defined by the American Iron and Steel Institute as a basic steel mill product, including ingots, slab and billets, plates, flat-rolled steel, sections and structural products, bars, rail type products, pipe and tube, and wire rod; and
 
-&emsp;&emsp;“(C) has experienced layoffs, production losses, or financial losses since the beginning of the steel import crisis, in January 1998 or that operates substantial assets of a company that meets these qualifications.
+&emsp;&emsp;“(C) has experienced layoffs, production losses, or financial losses since the beginning of the steel import crisis in 1998, and thereafter, or that operates substantial assets of a company that meets these qualifications.
 
 “(d)
 
@@ -144,7 +144,7 @@ In general.—Except as provided in subparagraphs (B) and (C), any loan guarante
 
 Increased level one.—A loan guarantee may be provided under this section in excess of 85 percent, but not more than 90 percent, of the amount of principal of the loan, if—
 
-&emsp;&emsp;&emsp;“(i) the aggregate amount of loans guaranteed at such percentage and outstanding under thissection at any one time does not exceed $100,000,000; and
+&emsp;&emsp;&emsp;“(i) the aggregate amount of loans guaranteed at such percentage and outstanding under this section at any one time does not exceed $100,000,000; and
 
 &emsp;&emsp;&emsp;“(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
 
@@ -166,7 +166,7 @@ Salaries and Administrative Expenses.—For necessary expenses to administer the
 
 “(k)
 
-Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2007.
+Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2009.
 
 “(<i>l</i>)
 
@@ -193,6 +193,12 @@ I74“(rescissions)
 Sec. 102. (a) Of the funds available in the nondefense category to the agencies of the Federal Government, $145,000,000 are hereby rescinded: <i>Provided</i>, That rescissions pursuant to this subsection shall be taken only from administrative and travel accounts: <i>Provided further</i>, That rescissions shall be taken on a pro rata basis from funds available to every Federal agency, department, and office in the executive branch, including the Office of the President.
 
 “(b) Within 30 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Director of the Office of Management and Budget shall submit to the Committees on Appropriations of the House of Representatives and the Senate a listing of the amounts by account of the reductions made pursuant to the provisions of subsection (a) of this section.
+
+“SEC. 103. SALARIES AND ADMINISTRATIVE EXPENSES.
+
+“(a) In addition to funds made available under section 101(j) of the Emergency Steel Loan Guarantee Act of 1999 (15 U.S.C. 1841 note), up to $1,000,000 in funds made available under section 101(f) of such Act may be used for salaries and administrative expenses to administer the Emergency Steel Loan Guarantee Program.
+
+“(b) Funds made available for salaries and administrative expenses to administer the Emergency Steel Loan Guarantee Program shall remain available until expended.
 
 #### “CHAPTER 2
 
@@ -276,7 +282,7 @@ Authority.—
 
 &emsp;“(1)
 
-In general.—The Program may guarantee loans provided to qualified oil and gas companies byprivate banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
+In general.—The Program may guarantee loans provided to qualified oil and gas companies by private banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
 
 &emsp;“(2)
 
@@ -361,6 +367,8 @@ Sec. 202. (a) Of the funds available in the nondefense category to the agencies 
 Sec. 301. No part of any appropriation contained in the Act shall remain available for obligation beyond the current fiscal year unless expressly so provided herein.
 
 “This Act may be cited as the ‘Emergency Steel Loan Guarantee and Emergency Oil and Gas Guaranteed Loan Act of 1999’.”
+
+\[Pub. L. 110–161, div. B, title I, §105(c), Dec. 26, 2007, 121 Stat. 1893, which directed amendment of section 101(c)(3)(C) of Pub. L. 106–51, set out above, by substituting “in 1998, and thereafter,” for “, in 1998”, was executed by making the substitution for “, in January 1998” to reflect the probable intent of Congress.\]
 
 \[Pub. L. 107–63, title III, §336(b), Nov. 5, 2001, 115 Stat. 472, provided that: “The amendments made by this section \[amending section 101 of Pub. L. 106–51, set out above\] shall apply only with respect to any guarantee issued on or after the date of the enactment of this Act \[Nov. 5, 2001\].”\]
 

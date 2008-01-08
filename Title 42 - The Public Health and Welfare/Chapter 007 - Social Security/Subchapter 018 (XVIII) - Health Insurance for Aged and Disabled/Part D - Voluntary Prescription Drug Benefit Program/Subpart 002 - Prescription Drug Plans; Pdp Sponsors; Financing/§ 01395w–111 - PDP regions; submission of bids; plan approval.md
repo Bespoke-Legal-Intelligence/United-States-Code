@@ -174,7 +174,7 @@
 
 #### (1) Conditions for approval of limited risk plans
 
-&emsp;The Secretary may only approve a limited risk plan (as defined in paragraph (4)(A)) for a PDP region if the access requirements under section 1395w–103(a) of this title would not be met for the region but for the approval of such a plan (or a fallback prescription drug plan under subsection (g) of this section).
+&emsp;The Secretary may only approve a limited risk plan (as defined in paragraph (4)(A)) for aPDP region if the access requirements under section 1395w–103(a) of this title would not be met for the region but for the approval of such a plan (or a fallback prescription drug plan under subsection (g) of this section).
 
 #### (2) Rules
 
@@ -236,7 +236,7 @@
 
 #### (V) <sup>2</sup> No national fallback plan
 
-&emsp;&emsp;&emsp;The Secretary shall not enter into a contract with a single fallback entity for theoffering of fallback plans throughout the United States.
+&emsp;&emsp;&emsp;The Secretary shall not enter into a contract with a single fallback entity for the offering of fallback plans throughout the United States.
 
 #### (2) Eligible fallback entity
 
@@ -250,7 +250,7 @@
 
 #### (3) Fallback service area
 
-&emsp;For purposes of this subsection, the term “fallback service area” means, for a PDP region with respect to a year, any area within such region for which the Secretary determines before the beginning of the year that the access requirements of the first sentence of section 1395w–103(a) of this title will not be met for part D eligible individuals residing in the area for the year.
+&emsp;For purposes of this subsection, the term “fallback service area” means, for a PDP region with respect to a year, any area within such region for which the Secretary determines before the beginning of the year thatthe access requirements of the first sentence of section 1395w–103(a) of this title will not be met for part D eligible individuals residing in the area for the year.
 
 #### (4) Fallback prescription drug plan
 
@@ -312,7 +312,7 @@
 
 #### (C) Entity not permitted to market or brand fallback prescription drug plans
 
-&emsp;&emsp;An eligible fallback entity with a contract under this subsection may not engage in anymarketing or branding of a fallback prescription drug plan.
+&emsp;&emsp;An eligible fallback entity with a contract under this subsection may not engage in any marketing or branding of a fallback prescription drug plan.
 
 #### (h) Annual report on use of limited risk plans and fallback plans
 
@@ -328,7 +328,7 @@ In order to promote competition under this part and in carrying out this part, t
 
 #### (j) Coordination of benefits
 
-A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutical Assistance Programs and Rx plans under sections 1395w–133 and 1395w–134 of this title to coordinate benefits with the plan and, in connection with such coordination with such a Program, not to impose fees that are unrelated to the cost of coordination.
+A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutical Assistance Programs and Rx plans under sections1395w–133 and 1395w–134 of this title to coordinate benefits with the plan and, in connection with such coordination with such a Program, not to impose fees that are unrelated to the cost of coordination.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–11, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2092.)
 

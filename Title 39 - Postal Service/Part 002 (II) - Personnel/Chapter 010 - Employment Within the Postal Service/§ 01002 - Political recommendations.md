@@ -10,7 +10,7 @@
 
 &emsp;(4) any other individual or organization.
 
-(b) Except as provided in subsection (e) of this section, a person or organization referred to in clause (1), (2), (3), or (4) of subsection (a) of this section is prohibited from making or transmitting to the Postal Service, or to any other officer or employee of the Government of the United States, any recommendation or statement, oral or written, with respect to any person who requests or is under consideration for any such appointment, promotion, assignment, transfer, or designation. The Postal Service and any officer or employee of the Government of the United States, subject to subsection (e) of this section—
+(b) Except as provided in subsection (e) of this section, a person or organization referred to in clause (1), (2), (3), or (4) of subsection (a) of this section is prohibited from making or transmitting to the Postal Service, or to any other officer or employee of the Government of the United States, any recommendation or statement, oral or written, with respect to any person who requests or is under consideration forany such appointment, promotion, assignment, transfer, or designation. The Postal Service and any officer or employee of the Government of the United States, subject to subsection (e) of this section—
 
 &emsp;(1) shall not solicit, request, consider, or accept any such recommendation or statement; and
 

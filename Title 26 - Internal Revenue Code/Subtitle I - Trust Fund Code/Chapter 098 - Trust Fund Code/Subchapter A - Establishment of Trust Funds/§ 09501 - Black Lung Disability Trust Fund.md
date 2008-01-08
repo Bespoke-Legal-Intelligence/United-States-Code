@@ -52,7 +52,7 @@ Amounts in the Black Lung Disability Trust Fund shall be available, as provided 
 
 &emsp;&emsp;&emsp;(ii) has not made a payment within 30 days after that payment is due,
 
-> &emsp;&emsp;except that, in the case of a claim filed on or after the date of the enactment of the BlackLung Benefits Revenue Act of 1981, amounts will be available under this subparagraph only for benefits accruing after the date of such initial determination, or
+> &emsp;&emsp;except that, in the case of a claim filed on or after the date of the enactment of the Black Lung Benefits Revenue Act of 1981, amounts will be available under this subparagraph only for benefits accruing after the date of such initial determination, or
 
 &emsp;&emsp;(B) there is no operator who is liable for the payment of such benefits,
 
@@ -102,9 +102,11 @@ Section 103(d)(2) of Pub. L. 97–119 provided that: “The Black Lung Disabilit
 
 #### Funds to Remain Available
 
-Pub. L. 109–149, title I, Dec. 30, 2005, 119 Stat. 2839, provided in part that: “In fiscal year 2006 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund, to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\], as amended; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
+Pub. L. 110–161, div. G, title I, Dec. 26, 2007, 121 Stat. 2162, provided in part that: “In fiscal year 2008 andthereafter, such sums as may be necessary from the Black Lung Disability Trust Fund, to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\]; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–149, title I, Dec. 30, 2005, 119 Stat. 2839.
 
 Pub. L. 108–447, div. F, title I, Dec. 8, 2004, 118 Stat. 3118.
 
@@ -114,7 +116,7 @@ Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 303.
 
 #### Moratorium on Interest Accruals on Indebtedness of Black Lung Disability Trust Fund
 
-Pub. L. 99–272, title XIII, §13203(b), Apr. 7, 1986, 100 Stat. 312, provided that: “No interest shall accrue for the period beginning on October 1, 1985, and ending onSeptember 30, 1990, with respect to any repayable advance to the Black Lung Disability Trust Fund.”
+Pub. L. 99–272, title XIII, §13203(b), Apr. 7, 1986, 100 Stat. 312, provided that: “No interest shall accrue for the period beginning on October 1, 1985, and ending on September 30, 1990, with respect to any repayable advance to the Black Lung Disability Trust Fund.”
 
 #### Provisions Relating to Payment of Benefits to Miners and Eligible Survivors of Miners To Take Effect as Rules and Regulations of Secretary of Labor
 

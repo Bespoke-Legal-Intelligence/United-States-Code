@@ -8,7 +8,7 @@ The Congress finds as follows:
 
 &emsp;(2) Section 2, Article 5 of the bylaws of the Global Fund provides for the International Bank for Reconstruction and Development to serve as the initial collection trustee for the Global Fund.
 
-&emsp;(3) The trustee agreement signed between the Global Fund and the International Bank for Reconstruction and Development narrows the range of duties to include receiving and investing funds from donors, disbursing the funds upon the instruction of the Global Fund, reporting on trust fund resources to donors and the Global Fund, and providing an annual external audit report to the Global Fund.
+&emsp;(3) The trustee agreement signed between the Global Fund and the International Bankfor Reconstruction and Development narrows the range of duties to include receiving and investing funds from donors, disbursing the funds upon the instruction of the Global Fund, reporting on trust fund resources to donors and the Global Fund, and providing an annual external audit report to the Global Fund.
 
 #### (b) Authority for United States participation
 
@@ -60,7 +60,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 &emsp;(ii) Any amount made available under this subsection that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance.
 
-&emsp;(iii) Any amount made available under this subsection that is withheld by reason of clause (ii) or (iii) of subparagraph (A) is authorized to be made available to carry out section 2151b–2 of this title. Amounts made available under the preceding sentence are in addition to amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance.
+&emsp;(iii) Any amount made available under this subsection that is withheld by reason of clause\(ii) or (iii) of subparagraph (A) is authorized to be made available to carry out section 2151b–2 of this title. Amounts made available under the preceding sentence are in addition to amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance.
 
 &emsp;(iv) Notwithstanding clause (i), after July 31 of each of the fiscal years 2004 through 2008, any amount made available under this subsection that is withheld by reason of subparagraph (A)(i) is authorized to be made available to carry out sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
@@ -149,6 +149,10 @@ This chapter, referred to in subsec. (e)(2)(B), was in the original a reference 
 2004—Subsec. (d)(4)(A)(vi). Pub. L. 108–199, §595(1), added cl. (vi).
 
 Subsec. (d)(4)(B)(iv). Pub. L. 108–199, §595(2), added cl. (iv).
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Delegation of Functions
 

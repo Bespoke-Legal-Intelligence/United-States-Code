@@ -80,7 +80,7 @@ Factors To Be Considered.—In developing standards under subsection (a), the Se
 
 “(c)
 
-Maintenance of Effort.—The standards developed and implemented under subsection (a) shall ensurethat the United States and each State will not reduce its respective level of staffing of motor carrier safety inspectors in international border areas from its average level staffing for fiscal year 2000.
+Maintenance of Effort.—The standards developed and implemented under subsection (a) shall ensure that the United States and each State will not reduce its respective level of staffing of motor carrier safety inspectors in international border areas from its average level staffing for fiscal year 2000.
 
 “(d)
 

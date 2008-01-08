@@ -4,7 +4,7 @@
 
 (b) An involuntary case against a person is commenced by the filing with the bankruptcy court of a petition under chapter 7 or 11 of this title—
 
-&emsp;(1) by three or more entities, each of which is either a holder of a claim against such person that is not contingent as to liability or the subject of a bona fide dispute as to liability or amount, or an indenture trustee representing such a holder, if such noncontingent,undisputed claims aggregate at least $10,000 more than the value of any lien on property of the debtor securing such claims held by the holders of such claims;
+&emsp;(1) by three or more entities, each of which is either a holder of a claim against such person that is not contingent as to liability or the subject of a bona fide dispute as to liability or amount, or an indenture trustee representing such a holder, if such noncontingent, undisputed claims aggregate at least $10,000 more than the value of any lien on property of the debtor securing such claims held by the holders of such claims;
 
 &emsp;(2) if there are fewer than 12 such holders, excluding any employee or insider of such person and any transferee of a transfer that is voidable under section 544, 545, 547, 548, 549, or 724(a) of this title, by one or more of such holders that hold in the aggregate at least $10,000 of such claims;
 
@@ -68,9 +68,9 @@
 
 (2) If the debtor is an individual and the court dismisses a petition under this section, the court may enter an order prohibiting all consumer reporting agencies (as defined in section 603(f) of the Fair Credit Reporting Act (15 U.S.C. 1681a(f))) from making any consumer report (as defined in section 603(d) of that Act) that contains any information relating to such petition or to the case commenced by the filing of such petition.
 
-(3) Upon the expiration of the statute of limitations described in section 3282 of title 18, for a violation of section 152 or 157 of such title, the court, upon the motion of the debtor and for good cause, may expunge any records relating to a petition filed under this section.
+(3) Upon the expiration of the statute of limitations described in section 3282 of title 18, for aviolation of section 152 or 157 of such title, the court, upon the motion of the debtor and for good cause, may expunge any records relating to a petition filed under this section.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2559; Pub. L. 98–353, title III, §§426, 427, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §§204, 254, 283(b), Oct. 27, 1986, 100 Stat. 3097, 3105, 3116; Pub. L. 103–394,title I, §108(b), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title III, §332(b), title VIII, §802(d)(2), title XII, §1234(a), Apr. 20, 2005, 119 Stat. 103, 146, 204.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2559; Pub. L. 98–353, title III, §§426, 427, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §§204, 254, 283(b), Oct. 27, 1986, 100 Stat. 3097, 3105, 3116; Pub. L. 103–394, title I, §108(b), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title III, §332(b), title VIII, §802(d)(2), title XII, §1234(a), Apr. 20, 2005, 119 Stat. 103, 146, 204.)
 
 #### Historical and Revision Notes
 
@@ -164,7 +164,7 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 #### Effective Date of 1984 Amendment
 
-Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect to cases filed 90 days afterJuly 10, 1984, and amendment by section 426(b) of Pub. L. 98–353 effective July 10, 1984, see section 552(a), (b) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, and amendment by section 426(b) of Pub. L. 98–353 effective July 10, 1984, see section 552(a), (b) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Adjustment of Dollar Amounts
 

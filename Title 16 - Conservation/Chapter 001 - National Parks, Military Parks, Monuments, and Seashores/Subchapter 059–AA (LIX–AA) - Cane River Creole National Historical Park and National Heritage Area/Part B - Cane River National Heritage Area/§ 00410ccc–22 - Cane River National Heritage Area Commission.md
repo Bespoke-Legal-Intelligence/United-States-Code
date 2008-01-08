@@ -60,7 +60,7 @@ In furtherance of the purposes of this subchapter, the Commission is authorized 
 
 &emsp;(1) procure temporary and intermittent services to the same extent that is authorized by section 3109(b) of title 5, but at rates determined by the Commission to be reasonable;
 
-&emsp;(2) accept the services of personnel detailed from the State of Louisiana or any political subdivision thereof, and may reimburse the State or political subdivision for such services;
+&emsp;(2) accept the services of personnel detailed from the State of Louisiana or any political subdivision thereof, and may reimburse theState or political subdivision for such services;
 
 &emsp;(3) upon the request of the Commission, the head of any Federal agency may detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties;
 
@@ -70,7 +70,7 @@ In furtherance of the purposes of this subchapter, the Commission is authorized 
 
 &emsp;(6) make grants to assist in the preparation of studies that identify, preserve, and plan for the management of the heritage area;
 
-&emsp;(7) notwithstanding any other provision of law, seek and accept donations of funds orservices from individuals, foundations, or other public or private entities and expend the same for the purposes of providing services and programs in furtherance of the purposes of this subchapter;
+&emsp;(7) notwithstanding any other provision of law, seek and accept donations of funds or services from individuals, foundations, or other public or private entities and expend the same for the purposes of providing services and programs in furtherance of the purposes of this subchapter;
 
 &emsp;(8) assist others in developing educational, informational, and interpretive programs and facilities;
 

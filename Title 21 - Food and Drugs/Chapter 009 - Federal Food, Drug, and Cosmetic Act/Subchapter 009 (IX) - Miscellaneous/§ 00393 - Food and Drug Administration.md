@@ -86,7 +86,7 @@ The Secretary shall annually prepare and publish in the Federal Register and sol
 
 &emsp;(3) identifies any regulatory policy that has a significant negative impact on compliance with any objective of the plan or any statutory obligation and sets forth any proposed revision to any such regulatory policy.
 
-(June 25, 1938, ch. 675, §903, as added Pub. L. 100–607, title V, §503(a), Nov. 4, 1988, 102 Stat. 3121; amended Pub. L. 100–690, title II, §2631, Nov. 18, 1988, 102 Stat. 4244; Pub. L. 105–115, title IV, §§406, 414, Nov. 21, 1997, 111 Stat. 2369, 2377.)
+(June 25, 1938, ch. 675, §903, as added Pub. L. 100–607, title V, §503(a), Nov. 4, 1988, 102 Stat.3121; amended Pub. L. 100–690, title II, §2631, Nov. 18, 1988, 102 Stat. 4244; Pub. L. 105–115, title IV, §§406, 414, Nov. 21, 1997, 111 Stat. 2369, 2377.)
 
 #### References in Text
 

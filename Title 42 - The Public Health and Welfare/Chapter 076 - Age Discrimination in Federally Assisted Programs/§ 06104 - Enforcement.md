@@ -2,7 +2,7 @@
 
 #### (a) Methods of achieving compliance with regulations
 
-The head of any Federal department or agency who prescribes regulations under section 6103 of this title may seek to achieve compliance with any such regulation—
+The head of any Federal department or agency who prescribes regulations under section 6103 ofthis title may seek to achieve compliance with any such regulation—
 
 &emsp;(1) by terminating, or refusing to grant or to continue, assistance under the program or activity involved to any recipient with respect to whom there has been an express finding on the record, after reasonable notice and opportunity for hearing, of a failure to comply with any such regulation; or
 
@@ -10,7 +10,7 @@ The head of any Federal department or agency who prescribes regulations under se
 
 #### (b) Limitations on termination of, or on refusal to grant or to continue, assistance; disbursement of withheld funds to achiever agencies
 
-Any termination of, or refusal to grant or to continue, assistance under subsection (a)(1) of this section shall be limited to the particularpolitical entity or other recipient with respect to which a finding has been made under subsection (a)(1) of this section. Any such termination or refusal shall be limited in its effect to the particular program or activity, or part of such program or activity, with respect to which such finding has been made. No such termination or refusal shall be based in whole or in part on any finding with respect to any program or activity which does not receive Federal financial assistance. Whenever the head of any Federal department or agency who prescribes regulations under section 6103 of this title withholds funds pursuant to subsection (a) of this section, he may, in accordance with regulations he shall prescribe, disburse the funds so withheld directly to any public or nonprofit private organization or agency, or State or political subdivision thereof, which demonstrates the ability to achieve the goals of the Federal statute authorizing the program or activity while complying with regulations issued under section 6103 of this title.
+Any termination of, or refusal to grant or to continue, assistance under subsection (a)(1) of this section shall be limited to the particular political entity or other recipient with respect to which a finding has been made under subsection (a)(1) of this section. Any such termination or refusal shall be limited in its effect to the particular program or activity, or part of such program or activity, with respect to which such finding has been made. No such termination or refusal shall be based in whole or in part on any finding with respect to any program or activity which does not receive Federal financial assistance. Whenever the head of any Federal department or agency who prescribes regulations under section 6103 of this title withholds funds pursuant to subsection (a) of this section, he may, in accordance with regulations he shall prescribe, disburse the funds so withheld directly to any public or nonprofit private organization or agency, or State or political subdivision thereof, which demonstrates the ability to achieve the goals of the Federal statute authorizing the program or activity while complying with regulations issued under section 6103 of this title.
 
 #### (c) Advice as to failure to comply with regulation; determination that compliance cannot be secured by voluntary means
 

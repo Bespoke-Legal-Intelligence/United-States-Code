@@ -72,7 +72,7 @@ Response after submitting removal request to the notification system.—Not late
 
 &emsp;(3)
 
-Effectiveness of election.—An election under paragraph (1) shall remain in effect, unless an individual (or other duly authorized person) notifies the promoter in writing that such individual—
+Effectiveness of election.—An election under paragraph (1) shall remain in effect, unless an individual (or other duly authorizedperson) notifies the promoter in writing that such individual—
 
 &emsp;&emsp;(A) has changed the election; and
 
@@ -92,7 +92,7 @@ In general.—An individual who receives one or more mailings in violation of su
 
 &emsp;&emsp;(C) both such actions.
 
-> &emsp;It shall be an affirmative defense in any action brought under this subsection that the defendant has established and implemented, with duecare, reasonable practices and procedures to effectively prevent mailings in violation of subsection (d). If the court finds that the defendant willfully or knowingly violated subsection (d), the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B).
+> &emsp;It shall be an affirmative defense in any action brought under this subsection that the defendant has established and implemented, with due care, reasonable practices and procedures to effectively prevent mailings in violation of subsection (d). If the court finds that the defendant willfully or knowingly violated subsection (d), the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B).
 
 &emsp;(2)
 

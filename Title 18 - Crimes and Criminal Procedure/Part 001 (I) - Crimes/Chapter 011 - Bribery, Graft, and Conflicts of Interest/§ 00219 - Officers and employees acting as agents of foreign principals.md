@@ -24,11 +24,11 @@ A prior section 219 was renumbered section 214.
 
 1990—Subsec. (c). Pub. L. 101–647 substituted “Government” for “Governments” before “thereof”.
 
-1986—Subsec. (a). Pub. L. 99–646, §30(1), designated first par. as subsec. (a) and amended it generally, whichprior to amendment read as follows: “Whoever, being a public official of the United States in the executive, legislative, or judicial branch of the Government or in any agency of the United States, including the District of Columbia, is or acts as an agent of a foreign principal required to register under the Foreign Agents Registration Act of 1938, as amended, shall be fined not more than $10,000 or imprisoned for not more than two years, or both.”
+1986—Subsec. (a). Pub. L. 99–646, §30(1), designated first par. as subsec. (a) and amended it generally, which prior to amendment read as follows: “Whoever, being a public official of the United States in the executive, legislative, or judicial branch of the Government or in any agency of the United States, including the District of Columbia, is or acts as an agent of a foreign principal required to register under the Foreign Agents Registration Act of 1938, as amended, shall be fined not more than $10,000 or imprisoned for not more than two years, or both.”
 
 Subsec. (b). Pub. L. 99–646, §30(2), designated second par. as subsec. (b).
 
-Subsec. (c). Pub. L. 99–646, §30(2), (3), designated third par. as subsec. (c) and substituted “Delegate” for “Delegate from the District of Columbia” and “branch of Government” for “branch of Government, or a juror”.
+Subsec. (c). Pub. L. 99–646, §30(2), (3), designated third par. as subsec. (c) and substituted “Delegate” for“Delegate from the District of Columbia” and “branch of Government” for “branch of Government, or a juror”.
 
 1984—Pub. L. 98–473 substituted “a public official” for “an officer or employee” in first par., and inserted par. defining “public official”.
 

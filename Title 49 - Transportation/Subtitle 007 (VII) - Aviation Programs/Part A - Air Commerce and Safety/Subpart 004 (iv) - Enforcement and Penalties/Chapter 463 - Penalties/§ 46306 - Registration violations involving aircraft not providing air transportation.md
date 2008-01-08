@@ -44,7 +44,7 @@ Controlled Substance Criminal Penalty.—(1) In this subsection, “controlled s
 
 &emsp;(A) is punishable by death or imprisonment of more than one year under a law of the United States or a State; or
 
-&emsp;(B) that is provided is related to an act punishable by death or imprisonment for more than one year under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance).
+&emsp;(B) that is provided is related to an act punishable by death or imprisonment for more than one year under a law of the United Statesor a State related to a controlled substance (except a law related to simple possession of a controlled substance).
 
 (3) A term of imprisonment imposed under paragraph (2) of this subsection shall be served in addition to, and not concurrently with, any other term of imprisonment imposed on the individual.
 

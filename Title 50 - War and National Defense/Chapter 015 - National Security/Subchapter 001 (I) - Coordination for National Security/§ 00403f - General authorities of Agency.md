@@ -10,7 +10,7 @@ In the performance of its functions, the Central Intelligence Agency is authoriz
 
 &emsp;(3) Reimburse other Government agencies for services of personnel assigned to the Agency, and such other Government agencies are authorized, without regard to provisions of law to the contrary, so to assign or detail any officer or employee for duty with the Agency;
 
-&emsp;(4) Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within theUnited States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, and the protection of current and former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices;
+&emsp;(4) Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within the United States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, and the protection of current and former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices;
 
 &emsp;(5) Make alterations, improvements, and repairs on premises rented by the Agency, and pay rent therefor;
 
@@ -96,9 +96,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 109–289, div. A, title VIII, §8045(b), Sept. 29, 2006, 120 Stat. 1283, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 110–116, div. A, title VIII, §8048(b), Nov. 13, 2007, 121 Stat. 1325, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–289, div. A, title VIII, §8045(b), Sept. 29, 2006, 120 Stat. 1283.
 
 Pub. L. 109–148, div. A, title VIII, §8052(b), Dec. 30, 2005, 119 Stat. 2710.
 

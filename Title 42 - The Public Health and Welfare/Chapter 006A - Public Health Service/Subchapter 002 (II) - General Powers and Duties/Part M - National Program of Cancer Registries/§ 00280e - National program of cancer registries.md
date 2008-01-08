@@ -4,7 +4,7 @@
 
 #### (1) Statewide cancer registries
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control, may make grants to States, or may make grants or enter into contracts with academic or nonprofit organizations designated by the State to operate the State's cancer registry in lieu of making a grant directly to the State, to support the operation of population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data concerning—
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control, may make grants to States, or may make grants or enterinto contracts with academic or nonprofit organizations designated by the State to operate the State's cancer registry in lieu of making a grant directly to the State, to support the operation of population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data concerning—
 
 &emsp;&emsp;(A) demographic information about each case of cancer;
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;(iii) a means for the statewide cancer registry to access all records of physicians and surgeons, hospitals, outpatient clinics, nursing homes, and all other facilities, individuals, or agencies providing such services to patients which would identify cases of cancer or would establish characteristics of the cancer, treatment of the cancer, or medical status of any identified patient;
 
-&emsp;&emsp;&emsp;(iv) for the reporting of cancer case data to the statewide cancer registry in such aformat, with such data elements, and in accordance with such standards of quality timeliness and completeness, as may be established by the Secretary;
+&emsp;&emsp;&emsp;(iv) for the reporting of cancer case data to the statewide cancer registry in such a format, with such data elements, and in accordance with such standards of quality timeliness and completeness, as may be established by the Secretary;
 
 &emsp;&emsp;&emsp;(v) for the protection of the confidentiality of all cancer case data reported to the statewide cancer registry, including a prohibition on disclosure to any person of information reported to the statewide cancer registry that identifies, or could lead to the identification of, an individual cancer patient, except for disclosure to other State cancer registries and local and State health officers;
 

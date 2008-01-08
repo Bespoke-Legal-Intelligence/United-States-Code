@@ -28,7 +28,7 @@ The Board shall hold meetings as provided in regulations adopted by the Commissi
 
 1985—Subsec. (b). Pub. L. 99–223 inserted provisions relating to compensation of members of the Board who hold no other office with either the Government of the United States or the Republic of Panama for which they receive pay.
 
-1984—Subsec. (c). Pub. L. 98–217 inserted provisions under which the Secretary of Defense or the officer ofthe Department of Defense designated by the Secretary may act by proxy for other members of the Board.
+1984—Subsec. (c). Pub. L. 98–217 inserted provisions under which the Secretary of Defense or the officer of the Department of Defense designated by the Secretary may act by proxy for other members of the Board.
 
 #### Effective Date of 1988 Amendment
 

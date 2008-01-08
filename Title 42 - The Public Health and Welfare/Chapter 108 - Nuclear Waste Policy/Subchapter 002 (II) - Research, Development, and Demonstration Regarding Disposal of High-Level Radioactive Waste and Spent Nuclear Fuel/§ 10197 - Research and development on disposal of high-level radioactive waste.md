@@ -78,7 +78,7 @@ The system of engineered barriers and selected geology used in a test and evalua
 
 (3)(A) The Commission shall carry out a continuing analysis of the activities undertaken under this section to evaluate the adequacy of the consideration of public health and safety issues.
 
-(B) The Commission shall report to the President, the Secretary, and the Congress as the Commission considers appropriate with respect to the conduct of activities under this section.
+(B) The Commission shall report to the President, the Secretary, and the Congress as theCommission considers appropriate with respect to the conduct of activities under this section.
 
 #### (g) Environmental review
 
@@ -94,7 +94,7 @@ The Secretary shall prepare an environmental impact statement under section 102(
 
 &emsp;(A) 5 years after the date on which the initial repository begins operation; or
 
-&emsp;(B) at such time as the Secretary determines that the continued operation of a test andevaluation facility is not necessary for research, development, and demonstration purposes;
+&emsp;(B) at such time as the Secretary determines that the continued operation of a test and evaluation facility is not necessary for research, development, and demonstration purposes;
 
 > whichever occurs sooner.
 

@@ -52,7 +52,7 @@ In subsection (b), the words “Comptroller General” are substituted for “Co
 
 1990—Pub. L. 101–510 amended text generally. Prior to amendment, text read as follows:
 
-“(a) Each appropriation account established under section 1552 of this title is accounted for separately and remains available until expended to pay obligations chargeable against any appropriation from which the account is derived.
+“(a) Each appropriation account established under section 1552 of this title is accounted for separately andremains available until expended to pay obligations chargeable against any appropriation from which the account is derived.
 
 “(b) Under regulations prescribed by the Comptroller General, obligations under subsection (a) of this section may be paid without prior action of the Comptroller General. However, this subchapter does not—
 

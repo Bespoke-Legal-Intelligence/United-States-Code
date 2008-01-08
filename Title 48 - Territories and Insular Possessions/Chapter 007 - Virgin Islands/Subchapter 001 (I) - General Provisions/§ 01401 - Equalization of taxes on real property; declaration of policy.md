@@ -1,6 +1,0 @@
-### §1401. Equalization of taxes on real property; declaration of policy
-
-It is the policy of Congress to equalize and more equitably to distribute existing taxes on real property in the Virgin Islands of the United States and to reduce the burden of taxation now imposed on land in productive use in such islands.
-
-(May 26, 1936, ch. 450, §1, 49 Stat. 1372.)
-

@@ -106,7 +106,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (B) Independent appraisal
 
-&emsp;&emsp;If the borrower, based on a separate current appraisal, objects to the decision of the Secretary regarding an appraisal, the borrower and the Secretary shall mutually agree, to the extent practicable, on an independent appraiser who shall conduct another appraisal of the borrower's property. The average of the two appraisals that are closest in value shall become the final appraisal under this paragraph. The borrower and the Secretary shall each pay one-half of the cost of the independent appraisal.
+&emsp;&emsp;If the borrower, based on a separate current appraisal, objects to the decision of the Secretary regarding an appraisal, the borrower and the Secretary shall mutually agree, to the extent practicable, on an independent appraiser who shall conduct another appraisal of the borrower's property. The average of the two appraisals that are closest in value shall become the final appraisalunder this paragraph. The borrower and the Secretary shall each pay one-half of the cost of the independent appraisal.
 
 #### (d) Principal and interest write-down
 
@@ -198,7 +198,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (f) Determination to restructure
 
-If the appeal process results in a determination that a loan is eligible for restructuring, the Secretary shall restructure the loan in the manner consistent with this section, taking into consideration the restructuring recommendations, if any, of the appeals officer.
+If the appeal process results in a determination that a loan is eligible for restructuring, theSecretary shall restructure the loan in the manner consistent with this section, taking into consideration the restructuring recommendations, if any, of the appeals officer.
 
 #### (g) Prerequisites to foreclosure or liquidation
 

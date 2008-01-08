@@ -46,5 +46,9 @@ Definition.—In this section, the term “logistic support, supplies, and servi
 
 The Arms Export Control Act, referred to in subsec. (b)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 <i><sup>1</sup></i><i> Another section 127c is set out after this section.</i>
 

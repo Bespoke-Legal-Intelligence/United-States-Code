@@ -20,7 +20,7 @@
 
 (d) Whoever attempts to violate subsection (a) shall be punished by imprisonment for not more than twenty years.
 
-(e) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49. For purposes of this subsection, the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
+(e) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is anational of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49. For purposes of this subsection, the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
 (f) In the course of enforcement of subsection (a)(4) and any other sections prohibiting a conspiracy or attempt to violate subsection (a)(4), the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 
@@ -90,7 +90,7 @@ Subsec. (b). Pub. L. 109–248, §213(2), substituted “in interstate” for �
 
 Guidelines.—The United States Sentencing Commission is directed to amend the existing guidelines for the offense of ‘kidnapping, abduction, or unlawful restraint,’ by including the following additional specific offense characteristics: If the victim was intentionally maltreated (i.e., denied either food or medical care) to a life-threatening degree, increase by 4 levels; if the victim was sexually exploited (i.e., abused, used involuntarily for pornographic purposes) increase by 3 levels; if the victim was placed in the care or custody of another person who does not have a legal right to such care or custody of the child either in exchange for money or other consideration, increase by 3 levels; if the defendant allowed the child to be subjected to any of the conduct specified in this section by another person, then increase by 2 levels.”
 
-1998—Subsec. (a)(1). Pub. L. 105–314, §702(a), inserted “, regardless of whether the person was alive whentransported across a State boundary if the person was alive when the transportation began” before semicolon at end.
+1998—Subsec. (a)(1). Pub. L. 105–314, §702(a), inserted “, regardless of whether the person was alive when transported across a State boundary if the person was alive when the transportation began” before semicolon at end.
 
 Subsec. (a)(5). Pub. L. 105–314, §702(b), substituted “described” for “designated”.
 

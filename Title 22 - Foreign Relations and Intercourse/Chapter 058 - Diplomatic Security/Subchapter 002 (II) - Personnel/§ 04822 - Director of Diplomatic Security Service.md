@@ -6,9 +6,9 @@ Any such Diplomatic Security Service should be headed by a Director designated b
 
 #### Amendments
 
-1994—Pub. L. 103–236 substituted “Any such” for “The” in first sentence, struck out last sentence which read as follows: “The Director shall act under the supervision and direction of the Assistant Secretary for Diplomatic Security.”, and directed the substitution of “should” for “shall” in first, third, and fourth sentences, which was executed to first, second, and third sentences to reflect the probable intent of Congress and the striking out of last sentence which also was the fourth sentence. See H.Rept. 103–126, pp. 168, 169.
+1994—Pub. L. 103–236 substituted “Any such” for “The” in first sentence, struck out last sentence which read as follows: “The Director shall act under the supervision and direction of the Assistant Secretary for Diplomatic Security.”, and directed the substitution of “should” for “shall” in first, third, and fourth sentences, which was executed to first, second, and third sentences to reflect the probable intent of Congress andthe striking out of last sentence which also was the fourth sentence. See H.Rept. 103–126, pp. 168, 169.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective,or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 

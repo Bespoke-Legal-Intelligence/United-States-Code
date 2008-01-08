@@ -24,7 +24,7 @@ This subchapter, referred to in par. sixth, was in the original â€œthis sectionâ
 
 #### Codification
 
-Section is comprised of a part of section 25A, formerly section 25(a), which was added to act Dec. 23, 1913, ch. 6, by act Dec. 24, 1919.
+Section is comprised of par. 4 (undesignated) of section 25A of act Dec. 23, 1913, which comprises this subchapter. For complete classification of section 25A of this Act, see Codification note set out under section 611 of this title.
 
 #### Change of Name
 

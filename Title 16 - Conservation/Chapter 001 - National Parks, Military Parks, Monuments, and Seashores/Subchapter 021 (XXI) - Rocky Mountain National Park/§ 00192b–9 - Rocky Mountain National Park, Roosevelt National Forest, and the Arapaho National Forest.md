@@ -10,7 +10,7 @@ The Secretary of the Interior, with respect to lands added or transferred by thi
 
 #### (c) Transfer of certain areas by the Bureau of Land Management
 
-The Federal lands within the administrative jurisdiction of the Bureau of Land Management and within the areas referred to as E–2 and GL–3 on the map referred to in subsection (a) of this section shall be transferred to Rocky Mountain National Park without transfer of funds.
+The Federal lands within the administrative jurisdiction of the Bureau of Land Management and within the areas referred to as E–2 and GL–3on the map referred to in subsection (a) of this section shall be transferred to Rocky Mountain National Park without transfer of funds.
 
 #### (d) City of Longmont, Colorado; retention of certain areas for the development of a reservoir
 

@@ -14,7 +14,7 @@ A summons issued under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall
 
 &emsp;For purposes of paragraph (1), the term “third-party recordkeeper” means—
 
-&emsp;&emsp;(A) any mutual savings bank, cooperative bank, domestic building and loan association, or other savings institution chartered and supervised as a savings and loan or similar association under Federal or State law, any bank (as defined in section 581), or any credit union (within the meaning of section 501(c)(14)(A)),
+&emsp;&emsp;(A) any mutual savings bank, cooperative bank, domestic building and loan association, or other savings institution charteredand supervised as a savings and loan or similar association under Federal or State law, any bank (as defined in section 581), or any credit union (within the meaning of section 501(c)(14)(A)),
 
 &emsp;&emsp;(B) any consumer reporting agency (as defined under section 603(f) of the Fair Credit Reporting Act (15 U.S.C. 1681a(f))),
 

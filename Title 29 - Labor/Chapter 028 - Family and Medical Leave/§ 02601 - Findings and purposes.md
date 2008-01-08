@@ -62,5 +62,5 @@ Collective bargaining agreements.—In the case of a collective bargaining agree
 
 #### Short Title
 
-Section 1(a) of Pub. L. 103–3 provided that: “This Act \[enacting this chapter, sections 60m and 60n of Title 2,The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amending section 2105 of Title 5, and enacting provisions set out above\] may be cited as the ‘Family and Medical Leave Act of 1993’.”
+Section 1(a) of Pub. L. 103–3 provided that: “This Act \[enacting this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amending section 2105 of Title 5, and enacting provisions set out above\] may be cited as the ‘Family and Medical Leave Act of 1993’.”
 

@@ -98,7 +98,7 @@ The submission of any adverse event report in compliance with this section shall
 
 #### (1) In general
 
-&emsp;No State or local government shall establish or continue in effect any law, regulation,order, or other requirement, related to a mandatory system for adverse event reports for dietary supplements, that is different from, in addition to, or otherwise not identical to, this section.
+&emsp;No State or local government shall establish or continue in effect any law, regulation, order, or other requirement, related to a mandatory system for adverse event reports for dietary supplements, that is different from, in addition to, or otherwise not identical to, this section.
 
 #### (2) Effect of section
 
@@ -112,7 +112,7 @@ The submission of any adverse event report in compliance with this section shall
 
 &emsp;&emsp;&emsp;(i) be made publicly available pursuant to any State or other law requiring disclosure of information or records; or
 
-&emsp;&emsp;&emsp;(ii) otherwise be disclosed or distributed to any party without the written consent of the Secretary and the person submitting such information to the Secretary.
+&emsp;&emsp;&emsp;(ii) otherwise be disclosed or distributed to any party without the written consentof the Secretary and the person submitting such information to the Secretary.
 
 #### (C) Use of safety reports
 

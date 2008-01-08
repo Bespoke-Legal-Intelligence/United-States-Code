@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each registration shall remain in force for 10 years, except that the registration of any markshall be canceled by the Director for failure to comply with the provisions of subsection (b) of this section, upon the expiration of the following time periods, as applicable:
+Each registration shall remain in force for 10 years, except that the registration of any mark shall be canceled by the Director for failure to comply with the provisions of subsection (b) of this section, upon the expiration of the following time periods, as applicable:
 
 &emsp;(1) For registrations issued pursuant to the provisions of this chapter, at the end of 6 years following the date of registration.
 
@@ -52,7 +52,7 @@ Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\],
 
 Subsec. (f). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner”.
 
-1998—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to affidavits of continuing use, registrations published under other provisions of law, and notification of acceptance or refusal of affidavits.
+1998—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to affidavits of continuinguse, registrations published under other provisions of law, and notification of acceptance or refusal of affidavits.
 
 1988—Subsec. (a). Pub. L. 100–667 substituted “ten” for “twenty” and “setting forth those goods or services recited in the registration on or in connection with which the mark is in use in commerce and attaching to the affidavit a specimen or facsimile showing current use of the mark, or showing that any” for “showing that said mark is in use in commerce or showing that its”.
 

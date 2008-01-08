@@ -6,7 +6,7 @@ Within the Office of Deputy Secretary, there shall be a Director of Shared Servi
 
 #### (b) Functions
 
-The Director of Shared Services shall be responsible for the coordination of resources forthe Bureau of Border Security and the Bureau of Citizenship and Immigration Services, including—
+The Director of Shared Services shall be responsible for the coordination of resources for the Bureau of Border Security and the Bureau of Citizenship and Immigration Services, including—
 
 &emsp;(1) information resources management, including computer databases and information technology;
 

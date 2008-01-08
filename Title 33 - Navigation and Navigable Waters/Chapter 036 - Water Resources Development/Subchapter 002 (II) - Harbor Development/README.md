@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—HARBOR DEVELOPMENT
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 
@@ -18,3 +16,4 @@
 - [&sect; 02239 - Repealed. Pub. L. 101&#8211;640, title IV, &sect;412(f), Nov. 28, 1990, 104 Stat. 4650](%C2%A7%2002239%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93640%2C%20title%20IV%2C%20%C2%A7412%28f%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204650.md)
 - [&sect; 02240 - Emergency response services](%C2%A7%2002240%20-%20Emergency%20response%20services.md)
 - [&sect; 02241 - Definitions](%C2%A7%2002241%20-%20Definitions.md)
+- [&sect; 02242 - Remote and subsistence harbors](%C2%A7%2002242%20-%20Remote%20and%20subsistence%20harbors.md)

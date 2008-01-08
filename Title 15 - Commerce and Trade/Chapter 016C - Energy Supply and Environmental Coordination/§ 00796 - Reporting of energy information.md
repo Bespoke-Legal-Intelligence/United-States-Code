@@ -16,13 +16,13 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;(D) to administer oaths.
 
-(2) For the purpose of verifying the accuracy of any energy information requested, acquired, or collected by the Federal Energy Administrator, the Federal Energy Administrator, or any officer or employer <sup>2</sup> duly designated by him, upon presenting appropriate credentials and a written notice from the Federal Energy Administrator to the owner, operator, or agent in charge, may—
+(2) For the purpose of verifying the accuracy of any energy information requested, acquired, or collected by the Federal Energy Administrator, the Federal Energy Administrator, orany officer or employer <sup>2</sup> duly designated by him, upon presenting appropriate credentials and a written notice from the Federal Energy Administrator to the owner, operator, or agent in charge, may—
 
 &emsp;(A) enter, at reasonable times, any business premise or facility; and
 
 &emsp;(B) inspect, at reasonable times and in a reasonable manner, any such premise or facility, inventory and sample any stock of energy resources therein, and examine and copy books, records, papers, or other documents, relating to any such energy information.
 
-(3) Any United States district court within the jurisdiction of which any inquiry is carried onmay, upon petition by the Attorney General at the request of the Federal Energy Administrator, in the case of refusal to obey a subpena or order of the Federal Energy Administrator issued under this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
+(3) Any United States district court within the jurisdiction of which any inquiry is carried on may, upon petition by the Attorney General at the request of the Federal Energy Administrator, in the case of refusal to obey a subpena or order of the Federal Energy Administrator issued under this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
 #### (c) Development of initial report; quarterly reports; accounting practices
 
@@ -72,7 +72,7 @@ As used in this section:
 
 &emsp;(1) The term “energy information” includes (A) all information in whatever form on (i) fuel reserves, exploration, extraction, and energy resources (including petrochemical feedstocks) wherever located; (ii) production, distribution, and consumption of energy and fuels wherever carried on; and (B) matters relating to energy and fuels, such as corporate structure and proprietary relationships, costs, prices, capital investment, and assets, and other matters directly related thereto, wherever they exist.
 
-&emsp;(2) The term “person” means any natural person, corporation, partnership, association, consortium, or any entity organized for a common business purpose, wherever situated,domiciled, or doing business, who directly or through other persons subject to their control does business in any part of the United States.
+&emsp;(2) The term “person” means any natural person, corporation, partnership, association, consortium, or any entity organized for a common business purpose, wherever situated, domiciled, or doing business, who directly or through other persons subject to their control does business in any part of the United States.
 
 &emsp;(3) The term “United States” when used in the geographical sense means the States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 

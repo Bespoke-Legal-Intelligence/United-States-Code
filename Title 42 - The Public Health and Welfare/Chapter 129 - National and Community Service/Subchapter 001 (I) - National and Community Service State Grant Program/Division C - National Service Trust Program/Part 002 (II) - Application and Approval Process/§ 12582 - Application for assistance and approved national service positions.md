@@ -22,7 +22,7 @@ In order to have adequate information upon which to consider an application unde
 
 &emsp;(7) A description of the manner in which the national service programs referred to in paragraphs (1) and (2) will involve participants—
 
-&emsp;&emsp;(A) in projects that build an ethic of civic responsibility and produce a positive change in the lives of participants through training and participation in meaningful service experiences and opportunities for reflection on such experiences; and
+&emsp;&emsp;(A) in projects that build an ethic of civic responsibility and produce a positive change in the lives of participants through trainingand participation in meaningful service experiences and opportunities for reflection on such experiences; and
 
 &emsp;&emsp;(B) in leadership positions in implementing and evaluating the program.
 

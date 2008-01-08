@@ -42,7 +42,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (B) Core indicators of performance for career and technical education students at the postsecondary level
 
-&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performance for career and technical education students at the postsecondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
+&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performancefor career and technical education students at the postsecondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
 
 &emsp;&emsp;&emsp;(i) Student attainment of challenging career and technical skill proficiencies, including student achievement on technical assessments, that are aligned with industry-recognized standards, if available and appropriate.
 
@@ -166,7 +166,7 @@ The purpose of this section is to establish and support State and local performa
 
 &emsp;&emsp;&emsp;&emsp;(I) disaggregate data for each of the indicators of performance under paragraph (2) for the categories of students described in section 6311(h)(1)(C)(i) of this title and section 2302(29) of this title that are served under this chapter; and
 
-&emsp;&emsp;&emsp;&emsp;(II) identify and quantify any disparities or gaps in performance between anysuch category of students and the performance of all students served by the eligible recipient under this chapter.
+&emsp;&emsp;&emsp;&emsp;(II) identify and quantify any disparities or gaps in performance between any such category of students and the performance of all students served by the eligible recipient under this chapter.
 
 #### (iii) Nonduplication
 

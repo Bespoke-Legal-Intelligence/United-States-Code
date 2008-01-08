@@ -8,7 +8,7 @@ The Secretary, in consultation with appropriate Federal, State, local, and triba
 
 The strategic plan required under subsection (a) shall—
 
-&emsp;(1) describe the roles, responsibilities, and authorities of Federal, State, local, and tribal government agencies and private-sector stakeholders that relate to the security of themovement of containers through the international supply chain;
+&emsp;(1) describe the roles, responsibilities, and authorities of Federal, State, local, and tribal government agencies and private-sector stakeholders that relate to the security of the movement of containers through the international supply chain;
 
 &emsp;(2) identify and address gaps and unnecessary overlaps in the roles, responsibilities, or authorities described in paragraph (1);
 

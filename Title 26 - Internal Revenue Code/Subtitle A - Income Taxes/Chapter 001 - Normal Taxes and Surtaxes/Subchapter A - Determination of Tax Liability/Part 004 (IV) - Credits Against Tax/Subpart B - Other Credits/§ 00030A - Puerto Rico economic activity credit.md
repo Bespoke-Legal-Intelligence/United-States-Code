@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the sale or exchange of substantially all of the assets used by the taxpayer in the active conduct of such trade or business.
 
-> &emsp;In the case of any taxable year beginning after December 31, 2001, the aggregate amount of taxable income taken into account under thepreceding sentence (and in applying subsection (d)) shall not exceed the adjusted base period income of such corporation, as determined in the same manner as under section 936(j).
+> &emsp;In the case of any taxable year beginning after December 31, 2001, the aggregate amount of taxable income taken into account under the preceding sentence (and in applying subsection (d)) shall not exceed the adjusted base period income of such corporation, as determined in the same manner as under section 936(j).
 
 #### (2) Qualified domestic corporation
 
@@ -72,7 +72,7 @@ The amount of the credit determined under subsection (a) for any taxable year sh
 
 &emsp;&emsp;(C) 65 percent of the depreciation allowances for the taxable year with respect to long-life qualified tangible property.
 
-&emsp;(3) If the qualified domestic corporation does not have an election to use the method described in section 936(h)(5)(C)(ii) (relating to profit split) in effect for the taxable year, the amount of the qualified possession income taxes for the taxable year allocable to nonsheltered income.
+&emsp;(3) If the qualified domestic corporation does not have an election to use the method described in section 936(h)(5)(C)(ii) (relating toprofit split) in effect for the taxable year, the amount of the qualified possession income taxes for the taxable year allocable to nonsheltered income.
 
 #### (e) Administrative provisions
 
@@ -110,7 +110,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §311(d)\], Dec. 21, 2000, 114 Stat. 2
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job ProtectionAct of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date
 

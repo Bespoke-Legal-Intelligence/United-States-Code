@@ -38,7 +38,7 @@ The Toxic Substances Control Act, referred to in subsec. (b)(2)(A), (3)(A), is P
 
 Subsec. (a)(1). Pub. L. 101–637, §11(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are hereby authorized to be appropriated for the asbestos abatement program not more than $50,000,000 for the fiscal year ending on September 30, 1984, $50,000,000 for the fiscal year ending on September 30, 1985, and $100,000,000 for each of the five succeeding fiscal years. In addition, for such purposes there are authorized to be appropriated out of the Asbestos Trust Fund established by section 4022 of this title $25,000,000 for each of fiscal years 1987, 1988, 1989, and 1990.”
 
-Subsec. (b)(2). Pub. L. 101–637, §11(b), added par. (2) and struck out former par. (2) which read as follows: “Of those sums appropriated for the implementation of this subchapter, up to 10 per centum shall be reservedduring the fiscal year ending September 30, 1984, and up to 5 per centum for the fiscal year ending September 30, 1985, for the administration of this subchapter and for programs including, but not limited to, the following:
+Subsec. (b)(2). Pub. L. 101–637, §11(b), added par. (2) and struck out former par. (2) which read as follows: “Of those sums appropriated for the implementation of this subchapter, up to 10 per centum shall be reserved during the fiscal year ending September 30, 1984, and up to 5 per centum for the fiscal year ending September 30, 1985, for the administration of this subchapter and for programs including, but not limited to, the following:
 
 &emsp;“(A) the establishment of a training center for contractors, engineers, school employees, parents and other personnel to provide instruction on asbestos assessment and abatement;
 

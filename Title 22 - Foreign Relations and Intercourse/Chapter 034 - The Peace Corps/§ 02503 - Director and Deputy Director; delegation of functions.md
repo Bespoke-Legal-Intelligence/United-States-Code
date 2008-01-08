@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The President may appoint, by and with the advice and consent of the Senate, a Director ofthe Peace Corps and a Deputy Director of the Peace Corps.
+The President may appoint, by and with the advice and consent of the Senate, a Director of the Peace Corps and a Deputy Director of the Peace Corps.
 
 #### (b) Exercise of functions by Director
 

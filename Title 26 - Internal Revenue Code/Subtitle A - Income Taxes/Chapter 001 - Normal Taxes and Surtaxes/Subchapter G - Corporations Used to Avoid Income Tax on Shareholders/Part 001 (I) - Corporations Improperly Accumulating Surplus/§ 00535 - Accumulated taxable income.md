@@ -10,7 +10,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (1) Taxes
 
-&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law.
+&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paidby a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law.
 
 #### (2) Charitable contributions
 
@@ -102,7 +102,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (1) General rule
 
-&emsp;For purposes of subsection (a), in the case of a corporation other than a mere holding or investment company the accumulated earnings credit is (A) an amount equal to such part of the earnings and profits for the taxable year as are retained for the reasonable needs of the business, minus (B) the deduction allowed by subsection (b)(6). For purposes of this paragraph, the amount of the earnings and profits for the taxable year which are retained is the amount by which the earnings and profits for the taxable year exceed the dividends paid deduction (as defined in section 561) for such year.
+&emsp;For purposes of subsection (a), in the case of a corporation other than a mere holding or investment company the accumulated earnings credit is (A) an amount equal to such part of the earnings and profits for the taxable year as are retained for the reasonable needs of the business, minus (B) the deduction allowed by subsection (b)(6). For purposes of this paragraph, the amount of the earnings and profitsfor the taxable year which are retained is the amount by which the earnings and profits for the taxable year exceed the dividends paid deduction (as defined in section 561) for such year.
 
 #### (2) Minimum credit
 
@@ -266,5 +266,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

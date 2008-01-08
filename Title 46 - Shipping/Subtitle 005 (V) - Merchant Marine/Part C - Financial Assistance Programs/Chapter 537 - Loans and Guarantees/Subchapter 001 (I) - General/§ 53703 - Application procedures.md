@@ -20,7 +20,7 @@ Certification of Review.—The Secretary may not guarantee or make a commitment 
 
 #### Amendments Not Shown in Text
 
-<i>Subsec. (a) of this section was derived from section 1274(n) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(G), (b)(7), Jan. 6, 2006, 119 Stat. 3555, 3556. Section 1274(n) of the former Appendix to this title was amended by striking “Secretary” each place it appears (except in par. (1) the first place it appears) and inserting “Secretary or Administrator”, by striking “Secretary” each place it appears (except the first) and inserting “Administrator”, and by striking “The Secretary of Transportation” in par. (1) and inserting “The Administrator”.</i>
+<i>Subsec. (a) of this section was derived from section 1274(n) of the former Appendix to this title,</i><i>which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(G), (b)(7), Jan. 6, 2006, 119 Stat. 3555, 3556. Section 1274(n) of the former Appendix to this title was amended by striking “Secretary” each place it appears (except in par. (1) the first place it appears) and inserting “Secretary or Administrator”, by striking “Secretary” each place it appears (except the first) and inserting “Administrator”, and by striking “The Secretary of Transportation” in par. (1) and inserting “The Administrator”.</i>
 
 <i>Subsec. (b) of this section was derived from section 1274(l) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555. Section 1274(l) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
 

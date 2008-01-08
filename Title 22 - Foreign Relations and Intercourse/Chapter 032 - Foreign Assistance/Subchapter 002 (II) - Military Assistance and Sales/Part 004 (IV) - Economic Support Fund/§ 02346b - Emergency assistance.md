@@ -12,7 +12,7 @@ Section was classified to section 2346d of this title prior to renumbering by Pu
 
 #### Prior Provisions
 
-A prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 97–113, title II, §202, Dec. 29, 1981, 95 Stat. 1530, related to grants for eastern Mediterranean programs, prior to repeal by Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210.
+A prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 97–113, title II, §202, Dec. 29, 1981, 95 Stat.1530, related to grants for eastern Mediterranean programs, prior to repeal by Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210.
 
 Another prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 96–533, title II, §202, Dec. 16, 1980, 94 Stat. 3143, related to Central American economic support, prior to repeal by Pub. L. 97–113, §202, Dec. 29, 1981, 95 Stat. 1529.
 

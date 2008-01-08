@@ -26,7 +26,7 @@
 
 #### (5) Assistance
 
-&emsp;(A) The Administrator shall make available to the appropriate agency of each State, as designated by the Governor of such State, a list of high risk areas within each State, including a delineation of such areas and any other data available to the Administrator for schools in that State. To assist such agencies, the Administrator also shall provide guidance and data detailing the risks associated with high radon levels, technical guidance and related information concerning testing for radonwithin schools, and methods of reducing radon levels.
+&emsp;(A) The Administrator shall make available to the appropriate agency of each State, as designated by the Governor of such State, a list of high risk areas within each State, including a delineation of such areas and any other data available to the Administrator for schools in that State. To assist such agencies, the Administrator also shall provide guidance and data detailing the risks associated with high radon levels, technical guidance and related information concerning testing for radon within schools, and methods of reducing radon levels.
 
 &emsp;(B) In addition to the assistance authorized by subparagraph (A), the Administrator is authorized to make available to the appropriate agency of each State, as designated by the Governor of such State, devices suitable for use by such agencies in conducting tests for radon within the schools under the jurisdiction of any such State agency. The Administrator is authorized to make available to such agencies the use of laboratories of the Environmental Protection Agency, or to recommend laboratories, to evaluate any such devices for the presence of radon levels.
 

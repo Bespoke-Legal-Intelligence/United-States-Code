@@ -2,6 +2,10 @@ Part 6—
 
 Adjustment Assistance for Farmers
 
+#### Termination Date
+
+No adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+
 
 ---
 

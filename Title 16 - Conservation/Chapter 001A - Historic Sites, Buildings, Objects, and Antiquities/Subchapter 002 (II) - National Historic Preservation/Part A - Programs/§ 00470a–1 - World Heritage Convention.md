@@ -2,11 +2,11 @@
 
 #### (a) United States participation
 
-The Secretary of the Interior shall direct and coordinate United States participation in the Convention Concerning the Protection of the World Cultural and Natural Heritage, approved by the Senate on October 26, 1973, in cooperation with the Secretary of State, the Smithsonian Institution, and the Advisory Council on Historic Preservation. Whenever possible, expenditures incurred in carrying out activities in cooperation with other nations and international organizations shall be paid for in such excess currency of the country or area where the expense is incurred as may be available to the United States.
+The Secretary of the Interior shall direct and coordinate United States participation in the Convention Concerning the Protection of the World Cultural and Natural Heritage, approved by the Senate on October 26, 1973, in cooperation with the Secretary of State, the SmithsonianInstitution, and the Advisory Council on Historic Preservation. Whenever possible, expenditures incurred in carrying out activities in cooperation with other nations and international organizations shall be paid for in such excess currency of the country or area where the expense is incurred as may be available to the United States.
 
 #### (b) Nomination of property to World Heritage Committee
 
-The Secretary of the Interior shall periodically nominate properties he determines are of international significance to the World Heritage Committee on behalf of the United States. No property may be so nominated unless it has previously been determined to be of national significance. Each such nomination shall include evidence of such legal protections as may be necessary to ensure preservation of the property and its environment (including restrictive covenants, easements, or other forms of protection). Before making any such nomination, theSecretary shall notify the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
+The Secretary of the Interior shall periodically nominate properties he determines are of international significance to the World Heritage Committee on behalf of the United States. No property may be so nominated unless it has previously been determined to be of national significance. Each such nomination shall include evidence of such legal protections as may be necessary to ensure preservation of the property and its environment (including restrictive covenants, easements, or other forms of protection). Before making any such nomination, the Secretary shall notify the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
 
 #### (c) Nomination of non-Federal property to World Heritage Committee
 
@@ -21,8 +21,4 @@ Section was enacted as part of the National Historic Preservation Act Amendments
 #### Amendments
 
 1994—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

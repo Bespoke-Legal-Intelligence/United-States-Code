@@ -29,6 +29,7 @@
 | [44923\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044923%20-%20Airport%20security%20improvement%20projects.md) | Airport security improvement projects. |
 | [44924\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044924%20-%20Repair%20station%20security.md) | Repair station security. |
 | [44925\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044925%20-%20Deployment%20and%20use%20of%20detection%20equipment%20at%20airport%20screening%20checkpoints.md) | Deployment and use of detection equipment at airport screening checkpoints. |
+| [44926\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044926%20-%20Appeal%20and%20redress%20process%20for%20passengers%20wrongly%20delayed%20or%20prohibited%20from%20boarding%20a%20flight.md) | Appeal and redress process for passengers wrongly delayed or prohibited from boarding a flight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -59,6 +60,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 110–53, title XVI, §1606(b), Aug. 3, 2007, 121 Stat. 483, added item 44926.
 
 2004—Pub. L. 108–458, title IV, §4013(b), Dec. 17, 2004, 118 Stat. 3720, added item 44925.
 

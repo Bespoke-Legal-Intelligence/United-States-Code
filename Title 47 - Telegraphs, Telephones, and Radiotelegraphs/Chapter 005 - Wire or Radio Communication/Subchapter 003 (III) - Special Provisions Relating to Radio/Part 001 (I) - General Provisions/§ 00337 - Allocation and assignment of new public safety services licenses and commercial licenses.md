@@ -164,7 +164,7 @@ Reports.—(1) Not later than 30 days after the date of the enactment of this Ac
 
 &emsp;“(A) describe the course of the competitive bidding process required by subsection (a) through September 30, 2000, including the amount of any receipts from the competitive bidding process deposited in the Treasury as of September 30, 2000; and
 
-&emsp;“(B) if the course of the competitive bidding process has included any deviations from the schedule setforth under paragraph (1)(A), an explanation for such deviations from the schedule.
+&emsp;“(B) if the course of the competitive bidding process has included any deviations from the schedule set forth under paragraph (1)(A), an explanation for such deviations from the schedule.
 
 “(4) Each report required by this subsection shall be prepared by the agency concerned without influence of any other Federal department or agency.
 

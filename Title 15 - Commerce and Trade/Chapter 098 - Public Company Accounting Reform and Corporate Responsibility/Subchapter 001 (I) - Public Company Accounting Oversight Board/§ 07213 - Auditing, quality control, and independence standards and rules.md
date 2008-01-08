@@ -50,7 +50,7 @@
 
 &emsp;&emsp;In carrying out this subsection, the Board—
 
-&emsp;&emsp;&emsp;(i) may adopt as its rules, subject to the terms of section 7217 of this title, any portion of any statement of auditing standards or other professional standards that the Board determines satisfy the requirements of paragraph (1), and that were proposed by 1 or more professional groups of accountants that shall be designated or recognized by the Board, by rule, for such purpose, pursuant to this paragraph or 1 or more advisory groups convened pursuant to paragraph (4); and
+&emsp;&emsp;&emsp;(i) may adopt as its rules, subject to the terms of section 7217 of this title, any portion of any statement of auditing standards or other professional standards that the Board determines satisfy the requirements of paragraph (1), and that were proposed by 1 or more professional groups of accountants that shall be designated or recognized by the Board, by rule, for such purpose, pursuant to this paragraph or 1 ormore advisory groups convened pursuant to paragraph (4); and
 
 &emsp;&emsp;&emsp;(ii) notwithstanding clause (i), shall retain full authority to modify, supplement, revise, or subsequently amend, modify, or repeal, in whole or in part, any portion of any statement described in clause (i).
 

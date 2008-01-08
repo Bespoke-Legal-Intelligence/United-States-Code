@@ -16,7 +16,7 @@ Except as provided in subsection (b), no amount shall be included in the gross i
 
 #### (2) Key employees
 
-&emsp;In the case of a key employee (within the meaning of section 416(i)(1)), subsection (a) shall not apply to any benefit attributable to a plan for which the statutory nontaxable benefits provided to key employees exceed 25 percent of the aggregate of such benefits provided for all employees under the plan. For purposes of the preceding sentence, statutory nontaxable benefits shall be determined without regard to the last sentence of subsection (f).
+&emsp;In the case of a key employee (within the meaning of section 416(i)(1)), subsection (a) shall not apply to any benefit attributable to a plan for which the statutory nontaxable benefits provided to key employees exceed 25 percent of the aggregate of such benefits provided for all employees under the plan. For purposes of the preceding sentence, statutory nontaxable benefits shall be determined without regard to the second sentence of subsection (f).
 
 #### (3) Year of inclusion
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (f) Qualified benefits defined
 
-For purposes of this section, the term “qualified benefit” means any benefit which, with theapplication of subsection (a), is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 106(b), 117, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79 and such term includes any other benefit permitted under regulations. Such term shall not include any product which is advertised, marketed, or offered as long-term care insurance.
+For purposes of this section, the term “qualified benefit” means any benefit which, with the application of subsection (a), is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 106(b), 117, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79 and such term includes any other benefit permitted under regulations. Such term shall not include any product which is advertised, marketed, or offered as long-term care insurance.
 
 #### (g) Special rules
 
@@ -128,7 +128,7 @@ For purposes of this section, the term “qualified benefit” means any benefit
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177.)
+(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485.)
 
 #### Codification
 
@@ -139,6 +139,8 @@ Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendment
 A prior section 125 was renumbered section 140 of this title.
 
 #### Amendments
+
+2007—Subsec. (b)(2). Pub. L. 110–172 substituted “second sentence” for “last sentence”.
 
 2004—Subsec. (e)(1)(D). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
@@ -220,7 +222,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) ofPub. L. 108–173, set out as a note under section 62 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -296,7 +298,7 @@ General transitional rule.—Any cafeteria plan in existence on February 10, 198
 
 “(B)
 
-Special transition rule for advance election benefit banks.—Any benefit offered under a cafeteria plan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations because an employee was assured of receiving (in cash or any other benefit) amounts available but unused for covered reimbursement during the year without regard to whether he incurred covered expenses, will not fail to be a nontaxable benefit under such applicable section solely because of such failure. The preceding sentence shall apply only with respect to benefits provided under cafeteria plans before the earlier of—
+Special transition rule for advance election benefit banks.—Any benefit offered under a cafeteriaplan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations because an employee was assured of receiving (in cash or any other benefit) amounts available but unused for covered reimbursement during the year without regard to whether he incurred covered expenses, will not fail to be a nontaxable benefit under such applicable section solely because of such failure. The preceding sentence shall apply only with respect to benefits provided under cafeteria plans before the earlier of—
 
 &emsp;“(i) July 1, 1985, or
 

@@ -40,3 +40,7 @@ For each of the fiscal years 2002 through 2006, there are authorized to be appro
 
 (Pub. L. 106–567, title III, §324, Dec. 27, 2000, 114 Stat. 2846.)
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

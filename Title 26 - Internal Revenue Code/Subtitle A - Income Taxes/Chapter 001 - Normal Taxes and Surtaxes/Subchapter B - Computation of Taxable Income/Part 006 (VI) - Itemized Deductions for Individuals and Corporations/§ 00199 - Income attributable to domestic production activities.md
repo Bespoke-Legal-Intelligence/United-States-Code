@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (6) Qualified film
 
-&emsp;The term “qualified film” means any property described in section 168(f)(3) if not less than 50 percent of the total compensation relating to the production of such property is compensation for services performed in the United States by actors, production personnel, directors, and producers. Such term does not include property with respect to which records are required to be maintained under section 2257 of title 18, United States Code.
+&emsp;The term “qualified film” means any property described in section 168(f)(3) if not less than 50 percent of the total compensation relating to the production of such property is compensation for services performed in theUnited States by actors, production personnel, directors, and producers. Such term does not include property with respect to which records are required to be maintained under section 2257 of title 18, United States Code.
 
 #### (7) Related persons
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 #### (B) Special rule for applying wage limitation
 
-&emsp;&emsp;In the case of any taxpayer described in subparagraph (A), for purposes of applyingthe limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services performed in Puerto Rico.
+&emsp;&emsp;In the case of any taxpayer described in subparagraph (A), for purposes of applying the limitation under subsection (b) for any taxable year, the determination of W–2 wages of such taxpayer shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services performed in Puerto Rico.
 
 #### (C) Termination
 

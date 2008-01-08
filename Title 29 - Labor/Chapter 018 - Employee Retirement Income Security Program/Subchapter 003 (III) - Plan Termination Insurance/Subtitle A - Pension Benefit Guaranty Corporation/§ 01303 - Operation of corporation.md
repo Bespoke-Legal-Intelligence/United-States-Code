@@ -14,13 +14,13 @@ In the case of contumacy by, or refusal to obey a subpena issued to, any person,
 
 #### (d) Cooperation with other governmental agencies
 
-In order to avoid unnecessary expense and duplication of functions among government agencies, the corporation may make such arrangements or agreements for cooperation or mutual assistance in the performance of its functions under this subchapter as is practicable and consistent with law. The corporation may utilize the facilities or services of any department, agency, or establishment of the United States or of any State or political subdivision of a State, including the services of any of its employees, with the lawful consent of such department, agency, or establishment. The head of each department, agency, or establishment of the United States shall cooperate with the corporation and, to the extent permitted by law, provide such information and facilities as it may request for its assistance in the performance of its functions under this subchapter. The Attorney General or his representative shall receive from the corporation for appropriate action such evidence developed in the performance of its functions under this subchapter as may be found to warrant consideration for criminal prosecution under the provisions of this or any other Federal law.
+In order to avoid unnecessary expense and duplication of functions among government agencies, the corporation may make such arrangements or agreements for cooperation or mutual assistance in the performance of its functions under this subchapter as is practicable and consistent with law. The corporation may utilize the facilities or services of any department, agency, or establishment of the United States orof any State or political subdivision of a State, including the services of any of its employees, with the lawful consent of such department, agency, or establishment. The head of each department, agency, or establishment of the United States shall cooperate with the corporation and, to the extent permitted by law, provide such information and facilities as it may request for its assistance in the performance of its functions under this subchapter. The Attorney General or his representative shall receive from the corporation for appropriate action such evidence developed in the performance of its functions under this subchapter as may be found to warrant consideration for criminal prosecution under the provisions of this or any other Federal law.
 
 #### (e) Civil actions by corporation; jurisdiction; process; expeditious handling of case; costs; limitation on actions
 
-(1) Civil actions may be brought by the corporation for appropriate relief, legal or equitable or both, to enforce (A) the provisions of this subchapter, and (B) in the case of a plan which is covered under this subchapter (other than a multiemployer plan) and for which the conditions for imposition of a lien described in section 1082(f)(1)(A) and (B) of this title or section 412(n)(1)(A) and (B) of title 26 have been met, section 1082 of this title and section 412 of title 26.
+(1) Civil actions may be brought by the corporation for appropriate relief, legal or equitable or both, to enforce (A) the provisions of this subchapter, and (B) in the case of a plan which is covered under this subchapter (other than a multiemployer plan) and for which the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26 have been met, section 1082 of this title and section 412 of title 26.
 
-(2) Except as otherwise provided in this subchapter, where such an action is brought in adistrict court of the United States, it may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
+(2) Except as otherwise provided in this subchapter, where such an action is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
 
 (3) The district courts of the United States shall have jurisdiction of actions brought by the corporation under this subchapter without regard to the amount in controversy in any such action.
 
@@ -68,15 +68,11 @@ In order to avoid unnecessary expense and duplication of functions among governm
 
 (C) In the case of fraud or concealment, the period described in subparagraph (A)(ii) shall be extended to 6 years after the applicable date specified in subparagraph (B).
 
-(6) The district courts of the United States have jurisdiction of actions brought under this subsection without regard to the amount in controversy.
+(6) The district courts of the United States have jurisdiction of actions brought under thissubsection without regard to the amount in controversy.
 
 (7) In any suit, action, or proceeding in which the corporation is a party, or intervenes under section 1451 of this title, in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States district court for the district or division in which such suit, action, or proceeding is pending by following any procedure for removal now or hereafter in effect.
 
 (Pub. L. 93–406, title IV, §4003, Sept. 2, 1974, 88 Stat. 1006; Pub. L. 96–364, title IV, §§402(a)(2), 403(k), Sept. 26, 1980, 94 Stat. 1297, 1302; Pub. L. 98–620, title IV, §402(33), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 99–272, title XI, §§11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, 100 Stat. 262, 264, 274; Pub. L. 103–465, title VII, §§773(a), 776(b)(1), Dec. 8, 1994, 108 Stat. 5044, 5048; Pub. L. 109–280, title I, §107(b)(2), title IV, §411(a)(2), Aug. 17, 2006, 120 Stat. 819, 935.)
-
-#### Amendment of Subsection (e)(1)
-
-<i>Pub. L. 109–280, title I, §107(b)(2), (e), Aug. 17, 2006, 120 Stat. 819, 820, provided that, applicable to plan years beginning after 2007, subsection (e)(1) of this section is amended by substituting “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.</i>
 
 #### References in Text
 
@@ -85,6 +81,8 @@ Section 1349 of this title, referred to in subsec. (f)(4), was repealed by Pub. 
 #### Amendments
 
 2006—Subsec. (b). Pub. L. 109–280, §411(a)(2), substituted “under this subchapter, the Director, any member” for “under this subchapter, any member” and “designated by the Director or chairman” for “designated by the chairman”.
+
+Subsec. (e)(1). Pub. L. 109–280, §107(b)(2), substituted “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.
 
 1994—Subsec. (a). Pub. L. 103–465, §776(b)(1), inserted “and whether section 1350(a) of this title has been satisfied” before period at end of second sentence.
 

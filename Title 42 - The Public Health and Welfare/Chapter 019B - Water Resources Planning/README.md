@@ -5,6 +5,7 @@
 | [1962\.](%C2%A7%2001962%20-%20Congressional%20statement%20of%20policy.md) | Congressional statement of policy. |
 | 1962–1. | Effect on existing laws. |
 | 1962–2. | Congressional statement of objectives. |
+| 1962–3. | Water resources principles and guidelines. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -59,7 +60,7 @@
 | 1962d–4. | Northeastern United States water supply. |
 | 1962d–5. | Water resources development projects involving navigation, flood control, and shore protection. |
 | 1962d–5a. | Reimbursement to States. |
-| 1962d–5b. | Water resources projects; written agreement requirement. |
+| 1962d–5b. | Written agreement requirement for water resources projects. |
 | 1962d–5c. | Non-Federal public bodies, installment construction payments. |
 | 1962d–5d. | Authorization of Secretary of the Army to contract with States and political subdivisions for increased law enforcement services during peak visitation periods; authorization of appropriations. |
 | 1962d–5e. | Wetland areas. |
@@ -94,6 +95,7 @@
 - [&sect; 01962 - Congressional statement of policy](%C2%A7%2001962%20-%20Congressional%20statement%20of%20policy.md)
 - [&sect; 01962&#8211;1 - Effect on existing laws](%C2%A7%2001962%E2%80%931%20-%20Effect%20on%20existing%20laws.md)
 - [&sect; 01962&#8211;2 - Congressional statement of objectives](%C2%A7%2001962%E2%80%932%20-%20Congressional%20statement%20of%20objectives.md)
+- [&sect; 01962&#8211;3 - Water resources principles and guidelines](%C2%A7%2001962%E2%80%933%20-%20Water%20resources%20principles%20and%20guidelines.md)
 - [Subchapter 001 (I) - Water Resources Council](Subchapter%20001%20%28I%29%20-%20Water%20Resources%20Council/README.md)
 - [Subchapter 002 (II) - River Basin Commissions](Subchapter%20002%20%28II%29%20-%20River%20Basin%20Commissions/README.md)
 - [Subchapter 003 (III) - Financial Assistance to States for Comprehensive Planning Grant Authorizations](Subchapter%20003%20%28III%29%20-%20Financial%20Assistance%20to%20States%20for%20Comprehensive%20Planning%20Grant%20Authorizations/README.md)

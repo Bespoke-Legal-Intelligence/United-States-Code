@@ -70,7 +70,7 @@ Excise Tax Fuel Reporting.—
 
 In general.—Not later than 90 days after the date of enactment of the SAFETEA–LU, the Secretary shall enter into a memorandum of understanding with the Commissioner of the Internal Revenue Service for the purposes of—
 
-&emsp;&emsp;(A) the additional development of capabilities needed to support new reporting requirements and databases established under such Act and the American Jobs Creation Act of 2004 (Public Law 108–357), and such other reporting requirements and database development as may be determined by the Secretary, in consultation with the Commissioner of the Internal Revenue Service, to be useful in the enforcement of fuel excise taxes, including provisions recommended by the Fuel Tax Enforcement Advisory Committee,
+&emsp;&emsp;(A) the additional development of capabilities needed to support new reporting requirements and databases established under such Act and the American Jobs Creation Act of 2004 (Public Law 108–357), and such other reporting requirements and database development as may be determined by the Secretary, in consultation with the Commissioner of the Internal Revenue Service, to be useful in the enforcement of fuel excisetaxes, including provisions recommended by the Fuel Tax Enforcement Advisory Committee,
 
 &emsp;&emsp;(B) the completion of requirements needed for the electronic reporting of fuel transactions from carriers and terminal operators,
 
@@ -78,7 +78,7 @@ In general.—Not later than 90 days after the date of enactment of the SAFETEA�
 
 &emsp;&emsp;(D) the collection, analysis, and sharing of information on fuel distribution and compliance or noncompliance with fuel taxes, and
 
-&emsp;&emsp;(E) the development, completion, operation, and maintenance of an electronicclaims filing system and database and an electronic database of heavy vehicle highway use payments.
+&emsp;&emsp;(E) the development, completion, operation, and maintenance of an electronic claims filing system and database and an electronic database of heavy vehicle highway use payments.
 
 &emsp;(2)
 
@@ -142,7 +142,7 @@ Subsec. (e). Pub. L. 93–87, §122(b), inserted introductory text “Except as 
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Highway Use Tax Evasion Projects
 
@@ -150,7 +150,7 @@ Pub. L. 102–240, title VIII, §8002(g), (h), Dec. 18, 1991, 105 Stat. 2204, 22
 
 “(g)
 
-Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportation shall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretaryof the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
+Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportation shall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
 
 “\[(h) Repealed. Pub. L. 105–178, title I, §1114(b)(3)(B), June 9, 1998, 112 Stat. 154.\]”
 

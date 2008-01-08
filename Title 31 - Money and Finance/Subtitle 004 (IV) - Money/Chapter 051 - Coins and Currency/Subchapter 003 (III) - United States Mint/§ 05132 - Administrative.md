@@ -2,7 +2,7 @@
 
 (a)(1) Except as provided in this chapter, the Secretary of the Treasury shall deposit in the Treasury as miscellaneous receipts amounts the Secretary receives from the operations of the United States Mint. Expenditures made from appropriated funds which are subsequently determined to be properly chargeable to the Numismatic Public Enterprise Fund established by section 5134 shall be reimbursed by such Fund to the appropriation. The Secretary shall annually sell to the public, directly and by mail, sets of uncirculated and proof coins minted under paragraphs (1) through (6) of section 5112(a) of this title, and shall solicit such sales through the use of the customer list of the United States Mint. Except with respect to amounts deposited in the Numismatic Public Enterprise Fund in accordance with section 5134, the Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under section 5122 to pay officers and employees.
 
-(2)(A) In addition to the coins described in paragraph (1), the Secretary shall sell annuallyto the public directly and by mail, sets of proof coins minted under paragraphs (1) through (6) of section 5112(a).
+(2)(A) In addition to the coins described in paragraph (1), the Secretary shall sell annually to the public directly and by mail, sets of proof coins minted under paragraphs (1) through (6) of section 5112(a).
 
 (B) Notwithstanding any other provision of law, for purposes of this paragraph—
 
@@ -94,7 +94,7 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 
 #### References in Text
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 #### Amendments
 

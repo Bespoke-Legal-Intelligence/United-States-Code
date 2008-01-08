@@ -112,7 +112,7 @@ Pub. L. 98–94, §923(a)(1), (2)(C), in footnote 1 of table, substituted “Bef
 
 Pub. L. 96–342 inserted “who first became a member of the armed forces before the date of the enactment of the Department of Defense Authorization Act, 1981, and” after “of an armed force” wherever appearing.
 
-1967—Subsec. (d). Pub. L. 90–207, §2(a)(2)(A), inserted “increased by any applicable adjustments in that pay under section 1401a of this title after he initially became entitled to that pay” after “retired,”.
+1967—Subsec. (d). Pub. L. 90–207, §2(a)(2)(A), inserted “increased by any applicable adjustments in that payunder section 1401a of this title after he initially became entitled to that pay” after “retired,”.
 
 Subsec. (e). Pub. L. 90–207, §2(a)(2)(B), added subsec. (e).
 

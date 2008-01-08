@@ -18,7 +18,7 @@ As Trustee for the Miccosukee Tribe, the Secretary shall—
 
 &emsp;&emsp;(B) in conjunction with the land transfer referred to in subparagraph (A), transfer no land other than the land referred to in that subparagraph to the Florida Department of Transportation; and
 
-&emsp;(4) upon finding that all necessary conditions precedent to the transfer of Floridalands from the State of Florida to the United States have been or will be met so that the Agreement has been or will be fulfilled but for the execution of that land transfer and related land transfers, receive and accept in trust for the use and benefit of the Miccosukee Tribe ownership of all land identified in the Settlement Agreement for transfer to the United States.
+&emsp;(4) upon finding that all necessary conditions precedent to the transfer of Florida lands from the State of Florida to the United States have been or will be met so that the Agreement has been or will be fulfilled but for the execution of that land transfer and related land transfers, receive and accept in trust for the use and benefit of the Miccosukee Tribe ownership of all land identified in the Settlement Agreement for transfer to the United States.
 
 (Pub. L. 105–83, title VII, §705, Nov. 14, 1997, 111 Stat. 1625.)
 

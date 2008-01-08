@@ -24,7 +24,7 @@ In order to pay for the increase in the United States subscription to the Bank p
 
 &emsp;(A) Taiwan, Republic of China, should remain a full member of the Asian Development Bank, and that its status within that body should remain unaltered no matter how the issue of the People's Republic of China's application for membership is disposed of;
 
-&emsp;(B) the President and the Secretary of State should express support of Taiwan, Republic ofChina, making it clear that the United States will not countenance attempts to expel Taiwan, Republic of China, from the Asian Development Bank; and
+&emsp;(B) the President and the Secretary of State should express support of Taiwan, Republic of China, making it clear that the United States will not countenance attempts to expel Taiwan, Republic of China, from the Asian Development Bank; and
 
 &emsp;(C) the Secretary of the Senate and Clerk of the House shall transmit a copy of this resolution to the President with the request that he transmit such copy to the Board of Governors of the Asian Development Bank.
 

@@ -30,7 +30,7 @@ In carrying on activities which further the purposes of this chapter, subject to
 
 (3) This subsection applies to contracts for the procurement of property or services, or both, for the operation, maintenance, and support of programs, facilities, and installations for or related to telecommunication activities, newswire services, and the distribution of books and other publications in foreign countries.
 
-(4)(A) Notwithstanding the other provisions of this subsection, the Broadcasting Board of Governors is authorized to enter into contracts for periods not to exceed 7 years for circuit capacity to distribute radio and television programs and is authorized to enter into contracts for periodsnot to exceed ten years to acquire local broadcasting services outside the United States.
+(4)(A) Notwithstanding the other provisions of this subsection, the Broadcasting Board of Governors is authorized to enter into contracts for periods not to exceed 7 years for circuit capacity to distribute radio and television programs and is authorized to enter into contracts for periods not to exceed ten years to acquire local broadcasting services outside the United States.
 
 (B) The authority of this paragraph may be exercised for a fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
 

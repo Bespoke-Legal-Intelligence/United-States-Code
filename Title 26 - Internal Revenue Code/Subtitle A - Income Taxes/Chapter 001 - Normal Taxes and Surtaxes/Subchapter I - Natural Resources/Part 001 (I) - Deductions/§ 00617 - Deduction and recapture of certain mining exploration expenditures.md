@@ -112,7 +112,7 @@ For purposes of this section
 
 #### (3) Disposal of coal or domestic iron ore with a retained economic interest
 
-&emsp;A transaction which constitutes a disposal of coal or iron ore under section 631(c) shall be treated as a disposition. In such a case, the excess referred to in subsection (d)(1)(B) shall be treated as equal to the gain (if any) referred to in section 631(c).
+&emsp;A transaction which constitutes a disposal of coal or iron ore under section 631(c) shall betreated as a disposition. In such a case, the excess referred to in subsection (d)(1)(B) shall be treated as equal to the gain (if any) referred to in section 631(c).
 
 #### (g) Special rules relating to partnership property
 
@@ -140,7 +140,7 @@ In the case of any expenditures paid or incurred before the development stage fo
 
 &emsp;&emsp;<b>For election of 10-year amortization of expenditures allowable as a deduction under this section, see section 59(e).</b>
 
-(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V,§504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
+(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, §504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
 
 #### Amendments
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 411(b)(2)(B) of Pub. L. 99–514 applicable to costs paid or incurred after Dec. 31, 1986, in taxable years ending after such date, with transition rule, see section 411(c) of Pub. L. 99–514 set out as a note under section 263 of this title.
+Amendment by section 411(b)(2)(B) of Pub. L. 99–514 applicable to costs paid or incurred after Dec. 31, 1986,in taxable years ending after such date, with transition rule, see section 411(c) of Pub. L. 99–514 set out as a note under section 263 of this title.
 
 Amendment by section 413(b) of Pub. L. 99–514 applicable to any disposition of property placed in service by taxpayer after Dec. 31, 1986, but inapplicable if such property was acquired pursuant to written contract entered into before Sept. 26, 1985, and binding at all times thereafter, see section 413(c) of Pub. L. 99–514, set out as a note under section 1254 of this title.
 

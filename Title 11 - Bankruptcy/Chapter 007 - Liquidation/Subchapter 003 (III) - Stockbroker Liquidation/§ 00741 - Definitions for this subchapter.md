@@ -86,7 +86,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(x) a master agreement that provides for an agreement or transaction referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subparagraph, except that such master agreement shall be considered to be a securities contract under this subparagraph only with respect to each agreement or transaction under such master agreement that is referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix); or
 
-&emsp;&emsp;&emsp;(xi) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this subparagraph, including any guarantee or reimbursement obligation by or to a stockbroker, securities clearing agency, financial institution, or financial participant in connection with any agreement or transaction referred to in this subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
+&emsp;&emsp;&emsp;(xi) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this subparagraph, including any guarantee or reimbursement obligation by or to a stockbroker, securities clearingagency, financial institution, or financial participant in connection with any agreement or transaction referred to in this subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
 
 &emsp;&emsp;(B) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan;
 
@@ -154,7 +154,7 @@ Par. (4)(A)(i). Pub. L. 98–353, §482(3), substituted “from and that is the 
 
 Par. (6)(A)(i). Pub. L. 98–353, §482(4), inserted a comma after “petition” and “any” after “except”.
 
-Par. (7). Pub. L. 98–353, §482(5), amended par. (7) generally, inserting provisions relating to options for the purchase or sale of certificates of deposit, or a group or index of securities (including any interest therein orbased on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies.
+Par. (7). Pub. L. 98–353, §482(5), amended par. (7) generally, inserting provisions relating to options for the purchase or sale of certificates of deposit, or a group or index of securities (including any interest therein or based on the value thereof), or any option entered into on a national securities exchange relating to foreign currencies.
 
 Par. (8). Pub. L. 98–353, §482(6), inserted “a final settlement payment,”.
 

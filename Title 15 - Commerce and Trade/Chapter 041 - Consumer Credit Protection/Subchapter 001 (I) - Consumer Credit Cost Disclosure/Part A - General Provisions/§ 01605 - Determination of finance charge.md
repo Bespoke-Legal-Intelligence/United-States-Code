@@ -26,7 +26,7 @@ Charges or premiums for credit life, accident, or health insurance written in co
 
 #### (c) Property damage and liability insurance premiums included in finance charge
 
-Charges or premiums for insurance, written in connection with any consumer credit transaction, against loss of or damage to property or against liability arising out of the ownership or use of property, shall be included in the finance charge unless a clear and specific statement in writing is furnished by the creditor to the person to whom the credit is extended, setting forth the cost of the insurance if obtained from or through the creditor, and stating that the person to whom the credit is extended may choose the person through which the insurance is to be obtained.
+Charges or premiums for insurance, written in connection with any consumer credit transaction, against loss of or damage to property or against liability arising out of the ownership or use of property, shall be included in the finance charge unless a clear and specific statement in writing is furnished by the creditor to the person to whom the credit is extended, setting forththe cost of the insurance if obtained from or through the creditor, and stating that the person to whom the credit is extended may choose the person through which the insurance is to be obtained.
 
 #### (d) Items exempted from computation of finance charge in all credit transactions
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 #### Regulations
 
-Section 2(b)(3) of Pub. L. 104–29 provided that: “The Board of Governors of the Federal Reserve System shall promulgate regulations implementing the amendment made by paragraph (1) \[amending this section\] by no later than 6 months after the date of the enactment of this Act \[Sept. 30, 1995\].”
+Section 2(b)(3) of Pub. L. 104–29 provided that: “The Board of Governors of the Federal Reserve System shall promulgate regulations implementing the amendment made by paragraph (1) \[amending this section\] byno later than 6 months after the date of the enactment of this Act \[Sept. 30, 1995\].”
 
 #### Ensuring That Finance Charges Reflect Cost of Credit
 

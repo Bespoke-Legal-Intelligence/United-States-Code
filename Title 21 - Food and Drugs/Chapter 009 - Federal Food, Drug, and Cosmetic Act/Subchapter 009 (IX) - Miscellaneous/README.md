@@ -15,3 +15,4 @@
 - [&sect; 00397 - Contracts for expert review](%C2%A7%2000397%20-%20Contracts%20for%20expert%20review.md)
 - [&sect; 00398 - Notices to States regarding imported food](%C2%A7%2000398%20-%20Notices%20to%20States%20regarding%20imported%20food.md)
 - [&sect; 00399 - Grants to States for inspections](%C2%A7%2000399%20-%20Grants%20to%20States%20for%20inspections.md)
+- [&sect; 00399a - Office of the Chief Scientist](%C2%A7%2000399a%20-%20Office%20of%20the%20Chief%20Scientist.md)

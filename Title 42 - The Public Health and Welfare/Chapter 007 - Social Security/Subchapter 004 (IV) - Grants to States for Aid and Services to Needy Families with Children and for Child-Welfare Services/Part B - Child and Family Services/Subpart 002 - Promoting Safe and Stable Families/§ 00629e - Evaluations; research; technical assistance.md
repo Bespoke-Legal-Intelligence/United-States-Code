@@ -34,7 +34,7 @@ Of the amount reserved under section 629f(b)(1) of this title for a fiscal year,
 
 #### (d) Technical assistance
 
-To the extent funds are available therefor, the Secretary shall provide technical assistancethat helps States and Indian tribes or tribal consortia to—
+To the extent funds are available therefor, the Secretary shall provide technical assistance that helps States and Indian tribes or tribal consortia to—
 
 &emsp;(1) develop research-based protocols for identifying families at risk of abuse and neglect of use in the field;
 

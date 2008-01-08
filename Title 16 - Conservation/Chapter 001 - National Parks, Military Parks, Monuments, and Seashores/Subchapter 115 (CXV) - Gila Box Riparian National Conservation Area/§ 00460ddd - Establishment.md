@@ -76,7 +76,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct.21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The public land laws, referred to in subsec. (e), are classified generally to Title 43.
 
@@ -90,13 +90,9 @@ The Sentencing Reform Act of 1984, referred to in subsec. (<i>l</i>), is chapter
 
 1994—Subsecs. (c), (k). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Short Title
 
-Section 1 of Pub. L. 101–628 provided that: “Titles I through III of this Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set outunder section 1132 of this title\] may be cited as the ‘Arizona Desert Wilderness Act of 1990’.”
+Section 1 of Pub. L. 101–628 provided that: “Titles I through III of this Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Arizona Desert Wilderness Act of 1990’.”
 
 #### Termination of Advisory Committees
 

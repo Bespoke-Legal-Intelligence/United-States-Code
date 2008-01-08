@@ -36,7 +36,7 @@ This section was enacted as part of the Housing and Community Development Amendm
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–276 inserted before period at end “, or a project which receives project-based assistance under section 1437f of title 42 or enhanced vouchers under the Low-Income Housing Preservation and Resident Homeownership Act of 1990, the provisions of the Emergency Low Income Housing Preservation Act of 1987, or the Multifamily Assisted Housing Reform and Affordability Act of 1997”.
+1998—Subsec. (a). Pub. L. 105–276 inserted before period at end “, or a project which receives project-basedassistance under section 1437f of title 42 or enhanced vouchers under the Low-Income Housing Preservation and Resident Homeownership Act of 1990, the provisions of the Emergency Low Income Housing Preservation Act of 1987, or the Multifamily Assisted Housing Reform and Affordability Act of 1997”.
 
 1988—Subsec. (a). Pub. L. 100–242, §183(a), inserted reference to section 1701q of this title.
 

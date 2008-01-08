@@ -6,7 +6,7 @@ Every national banking association operating foreign branches shall conduct the 
 
 #### Codification
 
-Section is comprised of a part of section 25 of act Dec. 23, 1913, as amended, which comprises this subchapter.
+Section is comprised of the sixth undesignated par. of section 25 of act Dec. 23, 1913, which comprises this subchapter. For classification of other pars. of section 25 of this Act, see Codification note under section 601 of this title.
 
 The words “national banking association operating foreign branches” were in the original “such banking association”.
 

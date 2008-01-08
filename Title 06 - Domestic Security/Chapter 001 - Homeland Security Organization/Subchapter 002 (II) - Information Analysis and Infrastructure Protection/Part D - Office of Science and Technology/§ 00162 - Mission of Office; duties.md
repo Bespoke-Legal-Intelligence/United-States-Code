@@ -6,7 +6,7 @@ The mission of the Office shall be—
 
 &emsp;(1) to serve as the national focal point for work on law enforcement technology; and
 
-&emsp;(2) to carry out programs that, through the provision of equipment, training, and technical assistance, improve the safety and effectiveness of law enforcement technology and improve access to such technology by Federal, State, and local law enforcement agencies.
+&emsp;(2) to carry out programs that, through the provision of equipment, training, and technical assistance, improve the safety and effectiveness of law enforcement technology andimprove access to such technology by Federal, State, and local law enforcement agencies.
 
 #### (b) Duties
 
@@ -86,7 +86,7 @@ The Director of the Office shall include with the budget justification materials
 
 &emsp;(1) For the period of 5 fiscal years beginning with the fiscal year for which the budget is submitted—
 
-&emsp;&emsp;(A) the Director's assessment of the needs of Federal, State, and local law enforcement agencies for assistance with respect to law enforcement technology and other matters consistent with the mission of the Office; and
+&emsp;&emsp;(A) the Director's assessment of the needs of Federal, State, and local law enforcementagencies for assistance with respect to law enforcement technology and other matters consistent with the mission of the Office; and
 
 &emsp;&emsp;(B) a strategic plan for meeting such needs of such law enforcement agencies.
 

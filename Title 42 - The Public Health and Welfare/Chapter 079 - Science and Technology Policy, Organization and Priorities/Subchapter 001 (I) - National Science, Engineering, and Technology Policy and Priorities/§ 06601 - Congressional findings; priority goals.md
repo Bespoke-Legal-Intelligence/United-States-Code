@@ -194,7 +194,9 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 13237. Creation of the President's Council on Bioethics
 
@@ -252,11 +254,11 @@ Sec. 4. <i>Administration.</i>
 
 Sec. 5. <i>General Provisions.</i>
 
-(a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Council, any functions of the President under that Act, exceptthat of reporting to the Congress, shall be performed by the Secretary of Health and Human Services in accordance with the guidelines that have been issued by the Administrator of General Services.
+(a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Council, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Health and Human Services in accordance with the guidelines that have been issued by the Administrator of General Services.
 
 (b) The Council shall terminate 2 years from the date of this order unless extended by the President prior to that date.
 
-(c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
+(c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at lawor equity by a party against the United States, its agencies, its officers, or any person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -264,7 +266,9 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Term of President's Council on Bioethics extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Council on Bioethics extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Council on Bioethics extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of President's Council on Bioethics extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Strengthened Protections for Human Subjects of Classified Research
 
@@ -306,7 +310,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 (d) The agencies shall jointly propose to require that in classified research involving human subjects, two additional elements of information be provided to potential subjects when consent is sought from subjects:
 
-(i) the identity of the sponsoring Federal agency. Exceptions are allowed if the head of the sponsoring agency determines that providing this information could compromise intelligence sources or methods and that the research involves no more than minimal risk tosubjects. The determination about sources and methods is to be made in consultation with the Director of Central Intelligence and the Assistant to the President for National Security Affairs. The determination about risk is to be made in consultation with the Director of the White House Office of Science and Technology Policy.
+(i) the identity of the sponsoring Federal agency. Exceptions are allowed if the head of the sponsoring agency determines that providing this information could compromise intelligence sources or methods and that the research involves no more than minimal risk to subjects. The determination about sources and methods is to be made in consultation with the Director of Central Intelligence and the Assistant to the President for National Security Affairs. The determination about risk is to be made in consultation with the Director of the White House Office of Science and Technology Policy.
 
 (ii) a statement that the project is “classified” and an explanation of what classified means.
 

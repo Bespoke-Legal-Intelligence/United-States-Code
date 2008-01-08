@@ -2,7 +2,7 @@
 
 #### (a) Amount of grants; conditions
 
-The Office is authorized to make grants to other organizations to pay up to 75 per centum (or, with respect to fiscal years commencingafter the expiration of three years following the effective date of the grant provisions of this chapter, up to 50 per centum) of the costs of providing training to professional, administrative, or technical employees and officials of State or local governments if the Office—
+The Office is authorized to make grants to other organizations to pay up to 75 per centum (or, with respect to fiscal years commencing after the expiration of three years following the effective date of the grant provisions of this chapter, up to 50 per centum) of the costs of providing training to professional, administrative, or technical employees and officials of State or local governments if the Office—
 
 &emsp;(1) finds that State or local governments have requested the proposed program;
 

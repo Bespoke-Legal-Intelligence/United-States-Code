@@ -16,7 +16,7 @@ If the determination by a court that the taxpayer is liable for a second tier ta
 
 #### (2) Suit must be brought to determine liability
 
-&emsp;If, within 90 days after the day on which his claim for refund is denied, the person against whom the second tier tax was assessed fails to begin a proceeding described in section 7422 for the determination of his liability for such tax, paragraph (1) shall cease to apply with respectto such tax, effective on the day following the close of the 90-day period referred to in this paragraph.
+&emsp;If, within 90 days after the day on which his claim for refund is denied, the person against whom the second tier tax was assessed fails to begin a proceeding described in section 7422 for the determination of his liability for such tax, paragraph (1) shall cease to apply with respect to such tax, effective on the day following the close of the 90-day period referred to in this paragraph.
 
 #### (3) Suspension of running of period of limitations on collection
 
@@ -24,7 +24,7 @@ If the determination by a court that the taxpayer is liable for a second tier ta
 
 #### (4) Jeopardy collection
 
-&emsp;If the Secretary makes a finding that the collection of the second tier tax is in jeopardy, nothing in this subsection shall prevent the immediate collection of such tax.
+&emsp;If the Secretary makes a finding that the collection of the second tier tax is in jeopardy,nothing in this subsection shall prevent the immediate collection of such tax.
 
 (Added Pub. L. 96–596, §2(c)(1), Dec. 24, 1980, 94 Stat. 3472; amended Pub. L. 99–514, title XVIII, §1899A(50), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

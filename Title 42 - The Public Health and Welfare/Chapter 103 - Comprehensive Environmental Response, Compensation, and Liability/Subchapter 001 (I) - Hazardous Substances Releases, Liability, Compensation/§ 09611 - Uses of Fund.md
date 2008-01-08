@@ -72,7 +72,7 @@ Research, development, and demonstration costs under section 9660.—The cost of
 
 &emsp;(11)
 
-Local government reimbursement.—Reimbursements to local governments undersection 9623 of this title, except that during the 8-fiscal year period beginning October 1, 1986, not more than 0.1 percent of the total amount appropriated from the Fund may be used for such reimbursements.
+Local government reimbursement.—Reimbursements to local governments under section 9623 of this title, except that during the 8-fiscal year period beginning October 1, 1986, not more than 0.1 percent of the total amount appropriated from the Fund may be used for such reimbursements.
 
 &emsp;(12)
 
@@ -122,7 +122,7 @@ The President shall use the money in the Post-closure Liability Fund for any of 
 
 #### (k) Inspector General
 
-In each fiscal year, the Inspector General of each department, agency, or instrumentality of the United States which is carrying out any authority of this chapter shall conduct an annual audit of all payments, obligations, reimbursements, or other uses of the Fund in the prior fiscal year, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The audit shall include an examination of a sample of agreements with States (in accordance with the provisions of the Single Audit Act \[31 U.S.C. 7501 et seq.\]) carrying out response actions under this subchapter and an examination of remedial investigations and feasibility studies prepared for remedial actions. The Inspector General shall submit to the Congress an annual report regarding the audit report required under this subsection. The report shall contain such recommendations as the Inspector General deems appropriate. Each department, agency, or instrumentality of the United States shall cooperate with its inspector general in carrying out this subsection.
+In each fiscal year, the Inspector General of each department, agency, or instrumentality of the United States which is carrying out any authority of this chapter shall conduct an annual audit of all payments, obligations, reimbursements, or other uses of the Fund in the prior fiscal year, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The audit shall include an examination of a sample of agreements with States (in accordance with the provisions of the Single Audit Act \[31 U.S.C. 7501 et seq.\]) carrying out response actions under this subchapter and an examination of remedial investigations and feasibility studies prepared for remedial actions. The Inspector General shall submit to the Congress an annual reportregarding the audit report required under this subsection. The report shall contain such recommendations as the Inspector General deems appropriate. Each department, agency, or instrumentality of the United States shall cooperate with its inspector general in carrying out this subsection.
 
 #### (<i>l</i>) Foreign claimants
 
@@ -174,7 +174,7 @@ Not later than 90 days after October 17, 1986, the President shall develop and i
 
 #### (1) In general
 
-&emsp;The following sums are authorized to be appropriated, out of any money in the Treasurynot otherwise appropriated, to the Hazardous Substance Superfund:
+&emsp;The following sums are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund:
 
 &emsp;&emsp;(A) For fiscal year 1987, $212,500,000.
 
@@ -216,7 +216,7 @@ Subsection (f) of section 118 of the Superfund Amendments and Reauthorization Ac
 
 Subchapter II of this chapter, referred to in subsec. (e)(2), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
-The Single Audit Act, referred to in subsec. (k), probably means the Single Audit Act of 1984, Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act, referred to in subsec. (k), probably means the Single Audit Act of 1984, Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under section 7501 of Title 31. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
 
 The Outer Continental Shelf Lands Act as amended, referred to in subsec. (<i>l</i>)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
@@ -244,7 +244,7 @@ Subsec. (p)(1)(F) to (H). Pub. L. 101–508, §6301(8), added subpars. (F) to (H
 
 1989—Subsec. (c)(12). Pub. L. 101–144, which directed that section 9611(c)(12) of the Superfund Amendments and Reauthorization Act of 1986 be amended by substituting “$20,000,000” for “$10,000,000”, was executed by making the substitution in subsec. (c)(12) of this section, as the probable intent of Congress because the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, does not contain a section 9611, but section 111(d)(2) of Pub. L. 99–499 enacted subsec. (c)(12) of this section.
 
-1986—Subsec. (a). Pub. L. 99–499, §111(a), (b), inserted heading and “For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, and such sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund).” in introductory provisions, substituted “Payment” for “payment” in pars. (1) to (4), aperiod for a semicolon in pars. (1) and (2), and a period for “; and” in par. (3), and added pars. (5) and (6).
+1986—Subsec. (a). Pub. L. 99–499, §111(a), (b), inserted heading and “For the purposes specified in this section there is authorized to be appropriated from the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 not more than $8,500,000,000 for the 5-year period beginning on October 17, 1986, and such sums shall remain available until expended. The preceding sentence constitutes a specific authorization for the funds appropriated under title II of Public Law 99-160 (relating to payment to the Hazardous Substances Trust Fund).” in introductory provisions, substituted “Payment” for “payment” in pars. (1) to (4), a period for a semicolon in pars. (1) and (2), and a period for “; and” in par. (3), and added pars. (5) and (6).
 
 Subsec. (b). Pub. L. 99–499, §§111(c)(1), 207(d)(1), designated existing provisions as par. (1), inserted “, or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation” in par. (1), and added par. (2).
 
@@ -252,7 +252,7 @@ Subsec. (c). Pub. L. 99–499, §§111(d), 207(d)(2), in par. (1), substituted �
 
 Subsec. (e)(2). Pub. L. 99–499, §111(e), inserted at end “No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances.”
 
-Subsec. (e)(3). Pub. L. 99–499, §111(f), inserted before the period at end “; except that money in the Fund shall be available for the provision of alternative water supplies (including the reimbursement of costs incurred by a municipality) in any case involving groundwater contamination outside the boundaries of a federally owned facility in which the federally owned facility is not the only potentially responsible party”.
+Subsec. (e)(3). Pub. L. 99–499, §111(f), inserted before the period at end “; except that money in the Fund shall be available for the provision of alternative water supplies (including the reimbursement of costs incurred by a municipality) in any case involving groundwater contamination outside the boundaries of a federallyowned facility in which the federally owned facility is not the only potentially responsible party”.
 
 Subsec. (f). Pub. L. 99–499, §207(d)(3), inserted “or Indian tribe”.
 

@@ -36,7 +36,7 @@ Upon the request of a State water pollution control agency, personnel of the Env
 
 #### Environmental Court Feasibility Study
 
-Section 9 of Pub. L. 92–500 authorized the President, acting through the Attorney General, to study the feasibility of establishing a separate court or court system with jurisdiction over environmental matters and required him to report the results of his study, together with his recommendations, to Congress not later than one year after Oct. 18, 1972.
+Section 9 of Pub. L. 92–500 authorized the President, acting through the Attorney General, to study the feasibility of establishing a separate court or court system with jurisdiction over environmental matters and required him to report the results of his study, togetherwith his recommendations, to Congress not later than one year after Oct. 18, 1972.
 
 #### Transfer of Public Health Service Officers
 

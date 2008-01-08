@@ -30,7 +30,7 @@ Pub. L. 105–277, §1335(k)(3), substituted “Broadcasting Board of Governors�
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 1335(k)(3) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277,set out as an Effective Date note under section 6531 of this title.
+Amendment by section 1335(k)(3) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 Amendment by section 1422(b)(4)(C) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
 

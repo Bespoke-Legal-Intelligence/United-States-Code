@@ -2,7 +2,7 @@
 
 #### (a) Emergency mass feeding
 
-The President is authorized and directed to assure that adequate stocks of food will be ready and conveniently available for emergency mass feeding or distribution in any area of the United States which suffers a major disaster or emergency.
+The President is authorized and directed to assure that adequate stocks of food will be ready and conveniently available for emergency massfeeding or distribution in any area of the United States which suffers a major disaster or emergency.
 
 #### (b) Funds for purchase of food commodities
 

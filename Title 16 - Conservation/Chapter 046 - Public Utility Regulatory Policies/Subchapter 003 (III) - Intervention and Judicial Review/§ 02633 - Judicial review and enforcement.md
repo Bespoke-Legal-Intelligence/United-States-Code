@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, no court of the United States shall 
 
 (2) Any person (including the Secretary) may obtain review in the appropriate court of the United States of any determination made under subchapter I or II of this chapter or this subchapter by a Federal agency if such person (or the Secretary) intervened or otherwise participated in the original proceeding or if otherwise applicable law permits such review. Such court shall have jurisdiction to grant appropriate relief. Any person (including the Secretary) may bring an action to enforce the requirements of subchapter I or II of this chapter or this subchapter with respect to any Federal agency in the appropriate court of the United States and such court shall have jurisdiction to grant appropriate relief.
 
-(3) In addition to his authority to obtain review under paragraph (1) or (2), the Secretary may also participate as an amicus curiae in any review by any court of an action arising underthe provisions of subchapter I or II of this chapter or this subchapter.
+(3) In addition to his authority to obtain review under paragraph (1) or (2), the Secretary may also participate as an amicus curiae in any review by any court of an action arising under the provisions of subchapter I or II of this chapter or this subchapter.
 
 #### (d) Other authority of Secretary
 

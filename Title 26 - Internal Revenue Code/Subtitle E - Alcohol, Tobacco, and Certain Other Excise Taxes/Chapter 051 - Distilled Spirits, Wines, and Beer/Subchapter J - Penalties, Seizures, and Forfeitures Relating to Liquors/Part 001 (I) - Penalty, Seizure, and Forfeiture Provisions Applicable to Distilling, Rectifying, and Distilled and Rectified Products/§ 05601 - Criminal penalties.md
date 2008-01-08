@@ -58,7 +58,7 @@ Any person who—
 
 #### (12) Unlawful removal or concealment of distilled spirits
 
-&emsp;removes, other than as authorized by law, any distilled spirits on which the tax has not been paid or determined, from the place of manufacture or storage, or from any instrument of transportation, or conceals spirits so removed; or
+&emsp;removes, other than as authorized by law, any distilled spirits on which the tax has notbeen paid or determined, from the place of manufacture or storage, or from any instrument of transportation, or conceals spirits so removed; or
 
 #### (13) Creation of fictitious proof
 

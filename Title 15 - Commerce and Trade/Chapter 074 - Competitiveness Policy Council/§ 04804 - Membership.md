@@ -62,7 +62,7 @@ A member of the Council shall not serve as an agent for a foreign principal or a
 
 #### (f) Expenses
 
-Each member of the Council, while engaged in duties as a member of the Council, shall be paidactual travel expenses, and per diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with subchapter I of chapter 57 of title 5.
+Each member of the Council, while engaged in duties as a member of the Council, shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with subchapter I of chapter 57 of title 5.
 
 #### (g) Quorum
 

@@ -266,7 +266,7 @@ Sept. 3, 1982, Pub. L. 97–248, §503(a)(12), 96 Stat. 673; Dec. 30, 1987, Pub.
 
 49 App.:2202(a)(23).
 
-In this section, before clause (1), the words “In this subchapter” are substituted for “As used in this chapter” and “Whenever in this chapter reference is made to . . . such reference shall mean” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
+In this section, before clause (1), the words “In this subchapter” are substituted for “As used in this chapter” and “Whenever in this chapter reference is madeto . . . such reference shall mean” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
 Clause (1) restates the definition of “air carrier airport” that was contained in section 11(1) of the Airport and Airway Development Act of 1970 as in effect both on February 18, 1980, and immediately before September 3, 1982. The clause is added to this section to eliminate the cross-references to definitions in section 11 of the Airport and Airway Development Act of 1970 that are contained in the source provisions restated in sections 47106(d) and 47119(a) of the revised title. Because some of the terms used in the definition of “air carrier airport” were themselves defined in section 11, the definitions of those terms are incorporated in the definition added in clause (1) to the extent they differ from the definitions of those terms restated in this section. The words “Secretary of Transportation” and “Secretary” are substituted for “Civil Aeronautics Board” because of the transfer of authority under 49 App.:1551(b)(1)(E).
 

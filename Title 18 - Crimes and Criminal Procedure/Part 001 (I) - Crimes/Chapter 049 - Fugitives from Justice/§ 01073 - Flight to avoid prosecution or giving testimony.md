@@ -46,7 +46,7 @@ Pub. L. 96–611, §10, Dec. 28, 1980, 94 Stat. 3573, provided that:
 
 “(a) In view of the findings of the Congress and the purposes of sections 6 to 10 of this Act set forth in section 302 \[probably means section 7 of Pub. L. 96–611, set out as a note under section 1738A of Title 28, Judiciary and Judicial Procedure\], the Congress hereby expressly declares its intent that section 1073 of title 18, United States Code, apply to cases involving parental kidnaping and interstate or international flight to avoid prosecution under applicable State felony statutes.
 
-“(b) The Attorney General of the United States, not later than 120 days after the date of the enactment of this section \[Dec. 28, 1980\] (and once every 6 monthsduring the 3-year period following such 120-day period), shall submit a report to the Congress with respect to steps taken to comply with the intent of the Congress set forth in subsection (a). Each such report shall include—
+“(b) The Attorney General of the United States, not later than 120 days after the date of the enactment of this section \[Dec. 28, 1980\] (and once every 6 months during the 3-year period following such 120-day period), shall submit a report to the Congress with respect to steps taken to comply with the intent of the Congress set forth in subsection (a). Each such report shall include—
 
 &emsp;“(1) data relating to the number of applications for complaints under section 1073 of title 18, United States Code in cases involving parental kidnaping;
 

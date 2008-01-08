@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 5, 1939, ch. 449, §3, 53 Stat. 1211.
 
-The word “proper” is omitted as unnecessary. The words “as required by” are substituted for “either by metes and bounds, or otherwise according to” to eliminate unnecessary words.
+The word “proper” is omitted as unnecessary. The words “as required by” are substituted for “either bymetes and bounds, or otherwise according to” to eliminate unnecessary words.
 

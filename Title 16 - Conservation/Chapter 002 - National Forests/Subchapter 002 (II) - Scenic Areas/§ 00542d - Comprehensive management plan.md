@@ -2,7 +2,7 @@
 
 #### (a) Boundaries
 
-The research site shall consist of approximately thirty-one thousand acres, including a principle <sup>1</sup> research facility of approximatelyone thousand acres. The boundaries are depicted on a map entitled “Langmuir Research Site”, dated August 1980, which is on file and available for public inspection in the office of the Chief, Forest Service, United States Department of Agriculture.
+The research site shall consist of approximately thirty-one thousand acres, including a principle <sup>1</sup> research facility of approximately one thousand acres. The boundaries are depicted on a map entitled “Langmuir Research Site”, dated August 1980, which is on file and available for public inspection in the office of the Chief, Forest Service, United States Department of Agriculture.
 
 #### (b) Development of plan
 
@@ -41,10 +41,6 @@ The National Forest Management Act of 1976, referred to in subsec. (b), is Pub. 
 #### Amendments
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “principal”.</i>
 

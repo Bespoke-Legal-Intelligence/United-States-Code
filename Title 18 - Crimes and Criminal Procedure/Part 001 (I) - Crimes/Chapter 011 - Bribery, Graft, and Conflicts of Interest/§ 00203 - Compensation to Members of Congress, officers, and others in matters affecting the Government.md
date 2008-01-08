@@ -18,7 +18,7 @@
 
 &emsp;(1) demands, seeks, receives, accepts, or agrees to receive or accept any compensation for any representational services, as agent or attorney or otherwise, rendered or to be rendered either personally or by another, at a time when such person is an officer or employee of the District of Columbia, in relation to any proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which the District of Columbia is a party or has a direct and substantial interest, before any department, agency, court, officer, or commission; or
 
-&emsp;(2) knowingly gives, promises, or offers any compensation for any such representational services rendered or to be rendered at a time when the person to whom the compensation is given, promised, or offered, is or was an officer or employee of the District of Columbia;
+&emsp;(2) knowingly gives, promises, or offers any compensation for any such representational services rendered or to be rendered at a timewhen the person to whom the compensation is given, promised, or offered, is or was an officer or employee of the District of Columbia;
 
 > shall be subject to the penalties set forth in section 216 of this title.
 
@@ -78,7 +78,7 @@ Subsec. (a). Pub. L. 99–646, §47(a)(1), (2), substituted “indirectly—” 
 
 Subsec. (a)(1). Pub. L. 99–646, §47(a)(1), substituted “(1) demands, seeks, receives, accepts, or agrees to receive or accept any” for “receives or agrees to receive, or asks, demands, solicits, or seeks, any” and “personally or by” for “by himself or”, redesignated former par. (1) as subpar. (A) and substituted “such person” for “he” and “Delegate, Delegate Elect” for “Delegate from the District of Columbia, Delegate Elect from the District of Columbia”, redesignated former par. (2) as subpar. (B) and substituted “such person” for “he”, and in closing provisions substituted “commission; or” for “commission, or”.
 
-Subsec. (a)(2). Pub. L. 99–646, §47(a)(2), redesignated former subsec. (b) as par. (2) and substituted “knowingly gives” for “Whoever, knowingly, otherwise than as provided by law for the proper discharge of officialduties, directly or indirectly gives” and “employee;” for “employee—”.
+Subsec. (a)(2). Pub. L. 99–646, §47(a)(2), redesignated former subsec. (b) as par. (2) and substituted “knowingly gives” for “Whoever, knowingly, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly gives” and “employee;” for “employee—”.
 
 Subsecs. (b), (c). Pub. L. 99–646, §47(a)(3), (4), redesignated former subsec. (c) as (b) and substituted “parties—” for “parties”, “such employee” for “he”, “otherwise; or” for “otherwise, or”, and “in which such employee is serving except that paragraph (2) of this subsection” for “in which he is serving: <i>Provided</i>, That clause (2)”. Former subsec. (b) redesignated (a)(2).
 

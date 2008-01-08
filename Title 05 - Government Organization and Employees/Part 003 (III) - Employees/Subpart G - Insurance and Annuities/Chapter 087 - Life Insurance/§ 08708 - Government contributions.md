@@ -14,7 +14,7 @@
 
 &emsp;(B) shall not be made with respect to any individual for months after the calendar month in which such individual becomes 65 years of age; and
 
-&emsp;(C) shall, in the case of any individual who elects coverage under subparagraph (B) of section 8706(b)(3) of this title, be equal to the amount which would apply under this subsection if such individual had instead elected coverage under subparagraph (A) of such section.
+&emsp;(C) shall, in the case of any individual who elects coverage under subparagraph (B) of section 8706(b)(3) of this title, be equal to the amount which would apply under this subsection if such individual had instead electedcoverage under subparagraph (A) of such section.
 
 (3) The United States Postal Service shall pay the contributions required under this subsection with respect to any individual who—
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) commences receiving compensation under subchapter I of chapter 81 of this title (because of disease or injury to the individual) after December 31, 1989, if the position last held by the individual before commencing to receive such compensation was within the United States Postal Service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–206, title IV, §403, Dec. 16, 1967, 81 Stat. 647; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–303, §2, May 29, 1990, 104Stat. 250; Pub. L. 104–186, title II, §215(18), Aug. 20, 1996, 110 Stat. 1746.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–206, title IV, §403, Dec. 16, 1967, 81 Stat. 647; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–303, §2, May 29, 1990, 104 Stat. 250; Pub. L. 104–186, title II, §215(18), Aug. 20, 1996, 110 Stat. 1746.)
 
 Historical and Revision Notes
 

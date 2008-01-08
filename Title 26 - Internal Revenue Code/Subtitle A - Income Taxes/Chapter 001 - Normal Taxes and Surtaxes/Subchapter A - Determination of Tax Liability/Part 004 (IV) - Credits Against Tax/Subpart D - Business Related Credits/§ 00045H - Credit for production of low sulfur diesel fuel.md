@@ -10,7 +10,7 @@ For purposes of section 38, the amount of the low sulfur diesel fuel production 
 
 &emsp;The aggregate credit determined under subsection (a) for any taxable year with respect to any facility shall not exceed—
 
-&emsp;&emsp;(A) 25 percent of the qualified capital costs incurred by the small business refiner with respect to such facility, reduced by
+&emsp;&emsp;(A) 25 percent of the qualified costs incurred by the small business refiner with respect to such facility, reduced by
 
 &emsp;&emsp;(B) the aggregate credits determined under this section for all prior taxable years with respect to such facility.
 
@@ -30,9 +30,9 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the average daily domestic refinery run or average retained production of which for all facilities of the taxpayer for the 1-year period ending on December 31, 2002, did not exceed 205,000 barrels.
 
-#### (2) Qualified capital costs
+#### (2) Qualified costs
 
-&emsp;The term “qualified capital costs” means, with respect to any facility, those costs paid or incurred during the applicable period for compliance with the applicable EPA regulations with respect to such facility, including expenditures for the construction of new process operation units or the dismantling and reconstruction of existing process units to be used in the production of low sulfur diesel fuel, associated adjacent or offsite equipment (including tankage, catalyst, and power supply), engineering, construction period interest, and sitework.
+&emsp;The term “qualified costs” means, with respect to any facility, those costs paid or incurred during the applicable period for compliance with the applicable EPA regulations with respect to such facility, including expenditures for the construction of new process operation units or the dismantling and reconstruction of existing process units to be used in the production of low sulfur diesel fuel, associated adjacent or offsite equipment (including tankage, catalyst, and power supply), engineering, construction period interest, and sitework.
 
 #### (3) Applicable EPA regulations
 
@@ -46,23 +46,19 @@ For purposes of this section—
 
 &emsp;The term “low sulfur diesel fuel” means diesel fuel with a sulfur content of 15 parts per million or less.
 
-#### (d) Reduction in basis
-
-For purposes of this subtitle, if a credit is determined under this section for any expenditure with respect to any property, the increase in basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined.
-
-#### (e) Special rule for determination of refinery runs
+#### (d) Special rule for determination of refinery runs
 
 For purposes <sup>1</sup> this section and section 179B(b), in the calculation of average daily domestic refinery run or retained production, only refineries which on April 1, 2003, were refineries of the refiner or a related person (within the meaning of section 613A(d)(3)), shall be taken into account.
 
-#### (f) Certification
+#### (e) Certification
 
 #### (1) Required
 
-&emsp;No credit shall be allowed unless, not later than the date which is 30 months after the first day of the first taxable year in which the low sulfur diesel fuel production credit is determined with respect to a facility, the small business refiner obtains certification from the Secretary, after consultation with the Administrator of the Environmental Protection Agency, that the taxpayer's qualified capital costs with respect to such facility will result in compliance with the applicable EPA regulations.
+&emsp;No credit shall be allowed unless, not later than the date which is 30 months after the first day of the first taxable year in which the low sulfur diesel fuel production credit is determined with respect to a facility, the small business refiner obtains certification from the Secretary, after consultation with the Administrator of the Environmental Protection Agency, that the taxpayer's qualified costs with respect to such facility will result in compliance with the applicable EPA regulations.
 
 #### (2) Contents of application
 
-&emsp;An application for certification shall include relevant information regarding unit capacities and operating characteristics sufficient for the Secretary, after consultation with the Administrator of the Environmental Protection Agency, to determine that such qualified capital costs are necessary for compliance with the applicable EPA regulations.
+&emsp;An application for certification shall include relevant information regarding unit capacities and operating characteristics sufficient for the Secretary, after consultation with the Administrator of the Environmental Protection Agency, to determine that such qualified costs are necessary for compliance with the applicable EPA regulations.
 
 #### (3) Review period
 
@@ -76,7 +72,7 @@ For purposes <sup>1</sup> this section and section 179B(b), in the calculation 
 
 &emsp;&emsp;(B) such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
-#### (g) Cooperative organizations
+#### (f) Cooperative organizations
 
 #### (1) Apportionment of credit
 
@@ -108,7 +104,33 @@ For purposes <sup>1</sup> this section and section 179B(b), in the calculation 
 
 > &emsp;The increase under subparagraph (B) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
 
-(Added Pub. L. 108–357, title III, §339(a), Oct. 22, 2004, 118 Stat. 1481.)
+#### (g) Election to not take credit
+
+No credit shall be determined under subsection (a) for the taxable year if the taxpayer elects not to have subsection (a) apply to such taxable year.
+
+(Added Pub. L. 108–357, title III, §339(a), Oct. 22, 2004, 118 Stat. 1481; amended Pub. L. 110–172, §7(a)(1)(A), (2)(A), (3)(A), (B), Dec. 29, 2007, 121 Stat. 2481, 2482.)
+
+#### Amendments
+
+2007—Subsec. (b)(1)(A). Pub. L. 110–172, §7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”.
+
+Subsec. (c)(2). Pub. L. 110–172, §7(a)(3)(B), struck out “capital” before “costs” in heading.
+
+Pub. L. 110–172, §7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”.
+
+Subsec. (d). Pub. L. 110–172, §7(a)(1)(A), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “For purposes of this subtitle, if a credit is determined under this section for any expenditure with respect to any property, the increase in basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined.”
+
+Subsec. (e). Pub. L. 110–172, §7(a)(1)(A), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (e)(1), (2). Pub. L. 110–172, §7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”.
+
+Subsec. (f). Pub. L. 110–172, §7(a)(1)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (g). Pub. L. 110–172, §7(a)(2)(A), added subsec. (g). Former subsec. (g) redesignated (f).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
 
 #### Effective Date
 

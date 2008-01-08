@@ -6,7 +6,7 @@ The expense of transporting the remains of customs officers and employees who di
 
 #### (b) Transportation on foreign ships
 
-Notwithstanding the provisions of section 601 of the Merchant Marine Act, 1928, or of any other law, any allowance, within the limitations prescribed by law, for travel or shipping expenses incurred on a foreign ship by any officer or employee of the Bureau of Customs or theCustoms Service, shall be credited if the Secretary of the Treasury certifies to the Comptroller General that transportation on such foreign ship was necessary to protect the revenue.
+Notwithstanding the provisions of section 601 of the Merchant Marine Act, 1928, or of any other law, any allowance, within the limitations prescribed by law, for travel or shipping expenses incurred on a foreign ship by any officer or employee of the Bureau of Customs or the Customs Service, shall be credited if the Secretary of the Treasury certifies to the Comptroller General that transportation on such foreign ship was necessary to protect the revenue.
 
 (June 17, 1930, ch. 497, title IV, §645(a), (c), 46 Stat. 761; Aug. 2, 1946, ch. 744, §2, 60 Stat. 807.)
 
@@ -30,5 +30,5 @@ Bureau of Customs redesignated United States Customs Service by Treasury Departm
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Bureau of Customs and Customs Service, referred to in text, were under Department of the Treasury.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization andEmployees. Bureau of Customs and Customs Service, referred to in text, were under Department of the Treasury.
 

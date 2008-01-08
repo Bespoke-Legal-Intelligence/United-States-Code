@@ -2,7 +2,7 @@
 
 #### (a) Excess expenses
 
-(1) It shall be unlawful for an eligible candidate of a political party for President and Vice President in a presidential election or any of his authorized committees knowingly and willfully to incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004 with respect to such election. Itshall be unlawful for the national committee of a major party or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under section 9008(d), unless the incurring of such expenses is authorized by the Commission under section 9008(d)(3).
+(1) It shall be unlawful for an eligible candidate of a political party for President and Vice President in a presidential election or any of his authorized committees knowingly and willfully to incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004 with respect to such election. It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under section 9008(d), unless the incurring of such expenses is authorized by the Commission under section 9008(d)(3).
 
 (2) Any person who violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year or both. In the case of a violation by an authorized committee, any officer or member of such committee who knowingly and willfully consents to such violation shall be fined not more than $5,000, or imprisoned not more than one year, or both.
 
@@ -46,7 +46,7 @@
 
 #### (f) Unauthorized expenditures and contributions
 
-(1) Except as provided in paragraph (2), it shall be unlawful for any political committee which is not an authorized committee with respect to the eligible candidates of a political party for President and Vice President in a presidential election knowingly and willfully to incur expenditures to further the election of such candidates, which would constitute qualified campaign expenses if incurred by an authorized committee of such candidates, in an aggregate amount exceeding $1,000.
+(1) Except as provided in paragraph (2), it shall be unlawful for any political committee which is not an authorized committee with respect to theeligible candidates of a political party for President and Vice President in a presidential election knowingly and willfully to incur expenditures to further the election of such candidates, which would constitute qualified campaign expenses if incurred by an authorized committee of such candidates, in an aggregate amount exceeding $1,000.
 
 (2) This subsection shall not apply to (A) expenditures by a broadcaster regulated by the Federal Communications Commission, or by a periodical publication, in reporting the news or in taking editorial positions, or (B) expenditures by any organization described in section 501(c) which is exempt from tax under section 501(a) in communicating to its members the views of that organization.
 

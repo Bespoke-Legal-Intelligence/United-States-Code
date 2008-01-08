@@ -18,7 +18,7 @@ The President of the United States is authorized to designate a Federal agency o
 
 #### Amendments
 
-1991—Pub. L. 102–138 inserted provisions at end limiting the authority of a Federal agency or agencies to fail to qualify visual or auditory material as being of international educational character and providing that any material that receives a certificate of international educational character not be labeled as propaganda.
+1991—Pub. L. 102–138 inserted provisions at end limiting the authority of a Federal agency or agencies to fail to qualify visual or auditory material as being of international educational character and providing thatany material that receives a certificate of international educational character not be labeled as propaganda.
 
 #### Ex. Ord. No. 11311. Implementation of Beirut Agreement Relating to Audio-Visual Materials
 

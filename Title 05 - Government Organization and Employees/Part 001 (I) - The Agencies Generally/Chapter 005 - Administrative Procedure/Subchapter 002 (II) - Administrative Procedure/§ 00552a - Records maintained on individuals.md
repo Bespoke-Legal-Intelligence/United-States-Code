@@ -80,7 +80,7 @@ Conditions of Disclosure.—No agency shall disclose any record which is contain
 
 &emsp;(6) to the National Archives and Records Administration as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, or for evaluation by the Archivist of the United States or the designee of the Archivist to determine whether the record has such value;
 
-&emsp;(7) to another agency or to an instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity if the activity is authorized by law, and if the head of the agency or instrumentality has made a written request to the agency whichmaintains the record specifying the particular portion desired and the law enforcement activity for which the record is sought;
+&emsp;(7) to another agency or to an instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity if the activity is authorized by law, and if the head of the agency or instrumentality has made a written request to the agency which maintains the record specifying the particular portion desired and the law enforcement activity for which the record is sought;
 
 &emsp;(8) to a person pursuant to a showing of compelling circumstances affecting the health or safety of an individual if upon such disclosure notification is transmitted to the last known address of such individual;
 
@@ -102,7 +102,7 @@ Accounting of Certain Disclosures.—Each agency, with respect to each system of
 
 &emsp;&emsp;(B) the name and address of the person or agency to whom the disclosure is made;
 
-&emsp;(2) retain the accounting made under paragraph (1) of this subsection for at least five years or the life of the record, whichever is longer, after the disclosure for which the accounting is made;
+&emsp;(2) retain the accounting made under paragraph (1) of this subsection for at least fiveyears or the life of the record, whichever is longer, after the disclosure for which the accounting is made;
 
 &emsp;(3) except for disclosures made under subsection (b)(7) of this section, make the accounting made under paragraph (1) of this subsection available to the individual named in the record at his request; and
 
@@ -218,7 +218,7 @@ Civil Remedies.—Whenever any agency
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
-(3)(A) In any suit brought under the provisions of subsection (g)(1)(B) of this section, the court may enjoin the agency from withholding the records and order the production to the complainant of any agency records improperly withheld from him. In such a case the court shall determine the matter de novo, and may examine the contents of any agency records in camera to determine whether the records or any portion thereof may be withheld under any of the exemptions set forth in subsection (k) of this section, and the burden is on the agency to sustain its action.
+(3)(A) In any suit brought under the provisions of subsection (g)(1)(B) of this section, the court may enjoin the agency from withholding therecords and order the production to the complainant of any agency records improperly withheld from him. In such a case the court shall determine the matter de novo, and may examine the contents of any agency records in camera to determine whether the records or any portion thereof may be withheld under any of the exemptions set forth in subsection (k) of this section, and the burden is on the agency to sustain its action.
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
@@ -248,7 +248,7 @@ General Exemptions.—The head of any agency may promulgate rules, in accordance
 
 &emsp;(1) maintained by the Central Intelligence Agency; or
 
-&emsp;(2) maintained by an agency or component thereof which performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and the activities of prosecutors, courts, correctional, probation, pardon, or parole authorities, and which consists of (A) information compiled for the purpose of identifying individual criminal offenders and alleged offenders and consisting only of identifying data and notations of arrests, the nature and disposition of criminal charges, sentencing, confinement, release, and parole and probation status; (B) information compiled forthe purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or (C) reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision.
+&emsp;(2) maintained by an agency or component thereof which performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and the activities of prosecutors, courts, correctional, probation, pardon, or parole authorities, and which consists of (A) information compiled for the purpose of identifying individual criminal offenders and alleged offenders and consisting only of identifying data and notations of arrests, the nature and disposition of criminal charges, sentencing, confinement, release, and parole and probation status; (B) information compiled for the purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or (C) reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision.
 
 > At the time rules are adopted under this subsection, the agency shall include in the statement required under section 553(c) of this title, the reasons why the system of records is to be exempted from a provision of this section.
 
@@ -258,7 +258,7 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 &emsp;(1) subject to the provisions of section 552(b)(1) of this title;
 
-&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
+&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date ofthis section, under an implied promise that the identity of the source would be held in confidence;
 
 &emsp;(3) maintained in connection with providing protective services to the President of the United States or other individuals pursuant to section 3056 of title 18;
 
@@ -550,7 +550,7 @@ Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1999 Amendment
 
@@ -582,7 +582,7 @@ Exceptions.—The amendment made by sections 3(b), 6, 7, and 8 of this Act \[ame
 
 “(c)
 
-Effective Date Delayed for Existing Programs.—In the case of any matching program (as defined in section 552a(a)(8) of title 5, United States Code,as added by section 5 of this Act) in operation before June 1, 1989, the amendments made by this Act (other than the amendments described in subsection (b)) shall take effect January 1, 1990, if—
+Effective Date Delayed for Existing Programs.—In the case of any matching program (as defined in section 552a(a)(8) of title 5, United States Code, as added by section 5 of this Act) in operation before June 1, 1989, the amendments made by this Act (other than the amendments described in subsection (b)) shall take effect January 1, 1990, if—
 
 &emsp;“(1) such matching program is identified by an agency as being in operation before June 1, 1989; and
 
@@ -602,7 +602,7 @@ Section 8 of Pub. L. 93–579 provided that: “The provisions of this Act \[ena
 
 #### Short Title of 1990 Amendment
 
-Section 7201(a) of Pub. L. 101–508 provided that: “This section \[amending this section and enacting provisions set out as notes below\] may be cited as the ‘Computer Matching and Privacy Protection Amendments of 1990’.”
+Section 7201(a) of Pub. L. 101–508 provided that: “This section \[amending this section and enacting provisionsset out as notes below\] may be cited as the ‘Computer Matching and Privacy Protection Amendments of 1990’.”
 
 #### Short Title of 1989 Amendment
 
@@ -627,114 +627,6 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (s) 
 #### Delegation of Functions
 
 Functions of Director of Office of Management and Budget under this section delegated to Administrator for Office of Information and Regulatory Affairs by section 3 of Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2825, set out as a note under section 3503 of Title 44, Public Printing and Documents.
-
-#### Privacy and Data Protection Policies and Procedures
-
-Pub. L. 108–447, div. H, title V, §522, Dec. 8, 2004, 118 Stat. 3268, provided that:
-
-“(a)
-
-Privacy Officer.—Each agency shall have a Chief Privacy Officer to assume primary responsibility for privacy and data protection policy, including—
-
-&emsp;“(1) assuring that the use of technologies sustain, and do not erode, privacy protections relating to the use, collection, and disclosure of information in an identifiable form;
-
-&emsp;“(2) assuring that technologies used to collect, use, store, and disclose information in identifiable form allow for continuous auditing of compliance with stated privacy policies and practices governing the collection, use and distribution of information in the operation of the program;
-
-&emsp;“(3) assuring that personal information contained in Privacy Act systems of records is handled in full compliance with fair information practices as defined in the Privacy Act of 1974 \[see Short Title of 1974 Amendment note, set out above\];
-
-&emsp;“(4) evaluating legislative and regulatory proposals involving collection, use, and disclosure of personal information by the Federal Government;
-
-&emsp;“(5) conducting a privacy impact assessment of proposed rules of the Department on the privacy of information in an identifiable form, including the type of personally identifiable information collected and the number of people affected;
-
-&emsp;“(6) preparing a report to Congress on an annual basis on activities of the Department that affect privacy, including complaints of privacy violations, implementation of section 552a of title 5, 11 \[sic\] United States Code, internal controls, and other relevant matters;
-
-&emsp;“(7) ensuring that the Department protects information in an identifiable form and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction;
-
-&emsp;“(8) training and educating employees on privacy and data protection policies to promote awareness of and compliance with established privacy and data protection policies; and
-
-&emsp;“(9) ensuring compliance with the Departments established privacy and data protection policies.
-
-“(b)
-
-Establishing Privacy and Data Protection Procedures and Policies.—
-
-&emsp;“(1) \[sic\]
-
-In general.—Within 12 months of enactment of this Act \[Dec. 8, 2004\], each agency shall establish and implement comprehensive privacy and data protection procedures governing the agency's collection, use, sharing, disclosure, transfer, storage and security of information in an identifiable form relating to the agency employees and the public. Such procedures shall be consistent with legal and regulatory guidance, including OMB regulations, the Privacy Act of 1974, and section 208 of the E-Government Act of 2002 \[section 208 of Pub. L. 107–347, set out in a note under section 3501 of Title 44, Public Printing and Documents\].
-
-“(c)
-
-Recording.—Each agency shall prepare a written report of its use of information in an identifiable form, along with its privacy and data protection policies and procedures and record it with the Inspector General of the agency to serve as a benchmark for the agency. Each report shall be signed by the agency privacy officer to verify that the agency intends to comply with the procedures in the report. By signing the report the privacy officer also verifies that the agency is only using information in identifiable form as detailed in the report.
-
-“(d)
-
-Independent, Third-Party Review.—
-
-&emsp;“(1)
-
-In general.—At least every 2 years, each agency shall have performed an independent, third party review of the use of information in identifiable form as the privacy and data protection procedures of the agency to—
-
-&emsp;&emsp;“(A) determine the accuracy of the description of the use of information in identifiable form;
-
-&emsp;&emsp;“(B) determine the effectiveness of the privacy and data protection procedures;
-
-&emsp;&emsp;“(C) ensure compliance with the stated privacy and data protection policies of the agency and applicable laws and regulations; and
-
-&emsp;&emsp;“(D) ensure that all technologies used to collect, use, store, and disclose information in identifiable form allow for continuous auditing of compliance with stated privacy policies and practices governing the collection, use and distribution of information in the operation of the program.
-
-&emsp;“(2)
-
-Purposes.—The purposes of reviews under this subsection are to—
-
-&emsp;&emsp;“(A) ensure the agency's description of the use of information in an identifiable form is accurate and accounts for the agency's current technology and its processing of information in an identifiable form;
-
-&emsp;&emsp;“(B) measure actual privacy and data protection practices against the agency's recorded privacy and data protection procedures;
-
-&emsp;&emsp;“(C) ensure compliance and consistency with both online and offline stated privacy and data protection policies; and
-
-&emsp;&emsp;“(D) provide agencies with ongoing awareness and recommendations regarding privacy and data protection procedures.
-
-&emsp;“(3)
-
-Requirements of review.—The Inspector General of each agency shall contract with an independent, third party that is a recognized leader in privacy consulting, privacy technology, data collection and data use management, and global privacy issues, to—
-
-&emsp;&emsp;“(A) evaluate the agency's use of information in identifiable form;
-
-&emsp;&emsp;“(B) evaluate the privacy and data protection procedures of the agency; and
-
-&emsp;&emsp;“(C) recommend strategies and specific steps to improve privacy and data protection management.
-
-&emsp;“(4)
-
-Content.—Each review under this subsection shall include—
-
-&emsp;&emsp;“(A) a review of the agency's technology, practices and procedures with regard to the collection, use, sharing, disclosure, transfer and storage of information in identifiable form;
-
-&emsp;&emsp;“(B) a review of the agency's stated privacy and data protection procedures with regard to the collection, use, sharing, disclosure, transfer, and security of personal information in identifiable form relating to agency employees and the public;
-
-&emsp;&emsp;“(C) a detailed analysis of agency intranet, network and Websites for privacy vulnerabilities, including—
-
-&emsp;&emsp;&emsp;“(i) noncompliance with stated practices, procedures and policies; and
-
-&emsp;&emsp;&emsp;“(ii) risks for inadvertent release of information in an identifiable form from the website of the agency; and
-
-&emsp;&emsp;“(D) a review of agency compliance with this Act \[div. H of Pub. L. 108–447, see Tables for classification\].
-
-“(e)
-
-Report.—
-
-&emsp;“(1)
-
-In general.—Upon completion of a review, the Inspector General of an agency shall submit to the head of that agency a detailed report on the review, including recommendations for improvements or enhancements to management of information in identifiable form, and the privacy and data protection procedures of the agency.
-
-&emsp;“(2)
-
-Internet availability.—Each agency shall make each independent third party review, and each report of the Inspector General relating to that review available to the public.
-
-“(f)
-
-Definition.—In this section, the definition of ‘identifiable form’ is consistent with Public Law 107–347, the E-Government Act of 2002 \[see Tables for classification\], and means any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.”
 
 #### Publication of Guidance Under Subsection (p)(1)(A)(ii)
 

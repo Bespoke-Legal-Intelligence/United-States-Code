@@ -2,7 +2,7 @@
 
 #### (a) Trustees and insurance companies
 
-The trustee of a trust described in section 401(a) which is exempt from tax under section 501(a) to which contributions have been paid under a plan on behalf of any owner-employee (as defined in section 401(c)(3)), and each insurance company or other person which is the issuer of a contract purchased by such a trust, orpurchased under a plan described in section 403(a), contributions for which have been paid on behalf of any owner-employee, shall file such returns (in such form and at such times), keep such records, make such identification of contracts and funds (and accounts within such funds), and supply such information, as the Secretary shall by forms or regulations prescribe.
+The trustee of a trust described in section 401(a) which is exempt from tax under section 501(a) to which contributions have been paid under a plan on behalf of any owner-employee\(as defined in section 401(c)(3)), and each insurance company or other person which is the issuer of a contract purchased by such a trust, or purchased under a plan described in section 403(a), contributions for which have been paid on behalf of any owner-employee, shall file such returns (in such form and at such times), keep such records, make such identification of contracts and funds (and accounts within such funds), and supply such information, as the Secretary shall by forms or regulations prescribe.
 
 #### (b) Owner-employees
 
@@ -76,9 +76,9 @@ Subsec. (e)(1) to (3). Pub. L. 104–188, §1602(b)(6), added pars. (1) and (2) 
 
 “(3) both such employer or plan administrator and such person,”.
 
-Subsec. (f)(1). Pub. L. 104–188, §1455(d)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For provisions relating to penalties for failure to file a return required by this section, see section 6652(e).”
+Subsec. (f)(1). Pub. L. 104–188, §1455(d)(1), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: “For provisions relating to penalties for failure to file a return required by this section, see section 6652(e).”
 
-1992—Subsec. (d)(1)(A). Pub. L. 102–318, §522(b)(2)(E), which directed the substitution of “section 3405(d)(3)”for “section 3405(d)(1)”, could not be executed because of the prior amendment by Pub. L. 102–318, §522(b)(2)(D). See below.
+1992—Subsec. (d)(1)(A). Pub. L. 102–318, §522(b)(2)(E), which directed the substitution of “section 3405(d)(3)” for “section 3405(d)(1)”, could not be executed because of the prior amendment by Pub. L. 102–318, §522(b)(2)(D). See below.
 
 Pub. L. 102–318, §522(b)(2)(D), substituted “3405(e)(1)” for “3405(d)(1)”.
 
@@ -170,5 +170,5 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

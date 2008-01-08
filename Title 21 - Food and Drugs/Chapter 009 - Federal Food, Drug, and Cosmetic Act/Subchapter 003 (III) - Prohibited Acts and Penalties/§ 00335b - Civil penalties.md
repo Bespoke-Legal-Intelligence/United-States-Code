@@ -24,7 +24,7 @@ Any person that the Secretary finds—
 
 &emsp;(7) is an individual debarred under section 335a of this title and, during the period of debarment, provided services in any capacity to a person that had an approved or pending drug product application,
 
-> shall be liable to the United States for a civil penalty for each such violation in an amountnot to exceed $250,000 in the case of an individual and $1,000,000 in the case of any other person.
+> shall be liable to the United States for a civil penalty for each such violation in an amount not to exceed $250,000 in the case of an individual and $1,000,000 in the case of any other person.
 
 #### (b) Procedure
 

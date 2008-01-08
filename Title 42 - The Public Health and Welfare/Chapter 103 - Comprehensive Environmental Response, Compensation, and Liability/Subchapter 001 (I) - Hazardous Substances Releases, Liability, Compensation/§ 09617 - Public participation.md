@@ -12,7 +12,7 @@ Before adoption of any plan for remedial action to be undertaken by the Presiden
 
 #### (b) Final plan
 
-Notice of the final remedial action plan adopted shall be published and the plan shall be made available to the public before commencement of any remedial action. Such final plan shall be accompanied by a discussion of any significant changes (and the reasons for such changes) in the proposed plan and a response to each of the significant comments, criticisms, and new datasubmitted in written or oral presentations under subsection (a) of this section.
+Notice of the final remedial action plan adopted shall be published and the plan shall be made available to the public before commencement of any remedial action. Such final plan shall be accompanied by a discussion of any significant changes (and the reasons for such changes) in the proposed plan and a response to each of the significant comments, criticisms, and new data submitted in written or oral presentations under subsection (a) of this section.
 
 #### (c) Explanation of differences
 
@@ -34,7 +34,7 @@ For the purposes of this section, publication shall include, at a minimum, publi
 
 #### (1) Authority
 
-&emsp;Subject to such amounts as are provided in appropriations Acts and in accordance with rules promulgated by the President, the President may make grants available to any group of individuals which may be affected by a release or threatened release at any facility which is listed on the National Priorities List under the National Contingency Plan. Such grants may be used to obtain technical assistance in interpreting information with regard to the nature of the hazard, remedial investigation and feasibility study, record of decision, remedial design, selection and construction of remedial action, operation and maintenance, or removal action at such facility.
+&emsp;Subject to such amounts as are provided in appropriations Acts and in accordance with rules promulgated by the President, the President may make grants available to any group of individuals which may be affected by a release or threatened release at any facility which is listed on the National Priorities List under the National Contingency Plan. Such grants may be used to obtain technical assistance in interpreting information with regardto the nature of the hazard, remedial investigation and feasibility study, record of decision, remedial design, selection and construction of remedial action, operation and maintenance, or removal action at such facility.
 
 #### (2) Amount
 

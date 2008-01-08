@@ -22,7 +22,7 @@ Provisions similar to those comprising this section were contained in a prior se
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–34 substituted “if there is such proof of exportation as the Secretary may by regulations require.” for “on the submission of such evidence, records, and certification indicating exportation as the Secretary may by regulations prescribe.”
+1997—Subsec. (c). Pub. L. 105–34 substituted “if there is such proof of exportation as the Secretary may by regulations require.” for “on the submission of suchevidence, records, and certification indicating exportation as the Secretary may by regulations prescribe.”
 
 1979—Subsec. (a). Pub. L. 96–39, §807(a)(15)(A), struck out “for storage therein pending exportation” after “customs bonded warehouse”.
 

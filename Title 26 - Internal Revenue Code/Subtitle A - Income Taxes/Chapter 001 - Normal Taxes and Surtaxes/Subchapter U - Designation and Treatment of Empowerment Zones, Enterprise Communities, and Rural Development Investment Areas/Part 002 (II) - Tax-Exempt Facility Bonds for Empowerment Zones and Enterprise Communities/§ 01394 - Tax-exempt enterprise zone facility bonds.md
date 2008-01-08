@@ -38,13 +38,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business during the startup period if—
 
-&emsp;&emsp;&emsp;&emsp;(I) as of the beginning of the startup period, it is reasonably expected that such business will be an enterprise zone business (as defined in section 1397C as modified by this paragraph) at the end of such period, and
+&emsp;&emsp;&emsp;&emsp;(I) as of the beginning of the startup period, it is reasonably expected that such business will be an enterprise zonebusiness (as defined in section 1397C as modified by this paragraph) at the end of such period, and
 
 &emsp;&emsp;&emsp;&emsp;(II) such business makes bona fide efforts to be such a business.
 
 #### (iii) Reduced requirements after testing period
 
-&emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone or an enterprisecommunity. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
+&emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone or an enterprise community. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
 
 #### (C) Definitions relating to subparagraph (B)
 
@@ -144,7 +144,7 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 #### (ii) Current refunding not taken into account
 
-&emsp;&emsp;&emsp;In the case of a refunding (or series of refundings) of a bond designated under thisparagraph, the refunding obligation shall be treated as designated under this paragraph (and shall not be taken into account in applying subparagraph (B)) if—
+&emsp;&emsp;&emsp;In the case of a refunding (or series of refundings) of a bond designated under this paragraph, the refunding obligation shall be treated as designated under this paragraph (and shall not be taken into account in applying subparagraph (B)) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
 

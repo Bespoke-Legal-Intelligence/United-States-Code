@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Administrator of the Federal Aviation Administration maymake grants to institutions of higher education to establish and operate regional centers of air transportation excellence. The locations shall be distributed in a geographically fair way.
+General Authority.—The Administrator of the Federal Aviation Administration may make grants to institutions of higher education to establish and operate regional centers of air transportation excellence. The locations shall be distributed in a geographically fair way.
 
 (b)
 
@@ -52,7 +52,7 @@ Expenditure Agreements.—A grant may be made under this section in a fiscal yea
 
 (f)
 
-Government's Share of Costs.—The United States Government's share of a grant under this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out.
+Government's Share of Costs.—The United States Government's share of a grantunder this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out.
 
 (g)
 

@@ -30,5 +30,5 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 #### Suspension of Subsection (a) During 1980
 
-Pub. L. 96–39, title VIII, §808(c)(1), July 26, 1979, 93 Stat. 291, set out as a note under section 5061 of thistitle, provided that subsec. (a) of this section was not to apply during 1980.
+Pub. L. 96–39, title VIII, §808(c)(1), July 26, 1979, 93 Stat. 291, set out as a note under section 5061 of this title, provided that subsec. (a) of this section was not to apply during 1980.
 

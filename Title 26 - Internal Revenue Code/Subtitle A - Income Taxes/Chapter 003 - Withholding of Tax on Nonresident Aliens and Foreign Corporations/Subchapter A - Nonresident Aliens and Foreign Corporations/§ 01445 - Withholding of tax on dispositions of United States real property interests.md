@@ -78,11 +78,11 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (B) Request
 
-&emsp;&emsp;At the request of the transferor or transferee, the Secretary shall determine, withrespect to any disposition, the transferor's maximum tax liability.
+&emsp;&emsp;At the request of the transferor or transferee, the Secretary shall determine, with respect to any disposition, the transferor's maximum tax liability.
 
 #### (C) Refund of excess amounts withheld
 
-&emsp;&emsp;Subject to such terms and conditions as the Secretary may by regulations prescribe, a transferor may seek and obtain a refund of any amounts withheld under this section in excess of the transferor's maximum tax liability.
+&emsp;&emsp;Subject to such terms and conditions as the Secretary may by regulations prescribe,a transferor may seek and obtain a refund of any amounts withheld under this section in excess of the transferor's maximum tax liability.
 
 #### (2) Authority of Secretary to prescribe reduced amount
 
@@ -176,7 +176,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (3) Distributions by certain domestic corporations to foreign shareholders
 
-&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
+&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to aforeign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
 
 #### (4) Taxable distributions by domestic or foreign partnerships, trusts, or estates
 
@@ -244,7 +244,7 @@ Subsec. (e)(6), (7). Pub. L. 109–222, §505(b), added par. (6) and redesignate
 
 1988—Subsec. (e)(1). Pub. L. 100–647 inserted “(or, to the extent provided in regulations, 28 percent)” after “to 34 percent”.
 
-1986—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “it is not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
+1986—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “itis not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
 
 Subsec. (d)(1)(A). Pub. L. 99–514, §1810(f)(3)(B), substituted “paragraph (2)” for “paragraph (2)(A)”.
 

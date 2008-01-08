@@ -2,7 +2,7 @@
 
 #### (a) Coordination
 
-The President, through the National Science and Technology Council, shall coordinate andsupport a national research program to improve understanding of the role of the oceans in human health.
+The President, through the National Science and Technology Council, shall coordinate and support a national research program to improve understanding of the role of the oceans in human health.
 
 #### (b) Implementation plan
 
@@ -18,7 +18,7 @@ Within 1 year after December 8, 2004, the National Science and Technology Counci
 
 &emsp;(5) consider and use, as appropriate, reports and studies conducted by Federal agencies and departments, the National Research Council, the Ocean Research Advisory Panel, the Commission on Ocean Policy and other expert scientific bodies;
 
-&emsp;(6) make recommendations for the coordination of program activities with ocean and human health-related activities of other national and international organizations; and
+&emsp;(6) make recommendations for the coordination of program activities with ocean andhuman health-related activities of other national and international organizations; and
 
 &emsp;(7) estimate Federal funding for research activities to be conducted under the program.
 
@@ -64,7 +64,7 @@ Beginning with the first year occurring more than 24 months after December 8, 20
 
 &emsp;(1) a summary of the achievements of Federal oceans and human health research, including Federally supported external research, during the preceding fiscal year;
 
-&emsp;(2) an analysis of the progress made toward achieving the goals and objectives of the plandeveloped under subsection (b), including identification of trends and emerging trends;
+&emsp;(2) an analysis of the progress made toward achieving the goals and objectives of the plan developed under subsection (b), including identification of trends and emerging trends;
 
 &emsp;(3) a copy or summary of the plan and any changes made in the plan;
 

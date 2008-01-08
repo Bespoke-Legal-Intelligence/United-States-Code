@@ -42,7 +42,7 @@
 
 #### (3) Impartial officer
 
-&emsp;The hearing under this subsection shall be conducted by an officer or employee who has had no prior involvement with respect to the unpaid tax specified in subsection (a)(3)(A) before the first hearing under this section or section 6330. A taxpayer may waive the requirement of this paragraph.
+&emsp;The hearing under this subsection shall be conducted by an officer or employee who hashad no prior involvement with respect to the unpaid tax specified in subsection (a)(3)(A) before the first hearing under this section or section 6330. A taxpayer may waive the requirement of this paragraph.
 
 #### (4) Coordination with section 6330
 

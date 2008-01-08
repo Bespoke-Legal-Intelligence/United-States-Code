@@ -86,7 +86,7 @@ This chapter, referred to in subsec. (c)(5)(B), was in the original “this Act�
 
 #### Prior Provisions
 
-A prior section 313, Pub. L. 107–296, title V, §503, Nov. 25, 2002, 116 Stat. 2213; Pub. L. 108–276, §3(c)(3), July 21, 2004, 118 Stat. 853; Pub. L. 109–417, title III, §301(c)(2), Dec. 19, 2006, 120 Stat. 2854, related to the transfer ofcertain functions to the Secretary of Homeland Security, prior to repeal by Pub. L. 109–295, title VI, §611(3), Oct. 4, 2006, 120 Stat. 1395.
+A prior section 313, Pub. L. 107–296, title V, §503, Nov. 25, 2002, 116 Stat. 2213; Pub. L. 108–276, §3(c)(3), July 21, 2004, 118 Stat. 853; Pub. L. 109–417, title III, §301(c)(2), Dec. 19, 2006, 120 Stat. 2854, related to the transfer of certain functions to the Secretary of Homeland Security, prior to repeal by Pub. L. 109–295, title VI, §611(3), Oct. 4, 2006, 120 Stat. 1395.
 
 #### Change of Name
 

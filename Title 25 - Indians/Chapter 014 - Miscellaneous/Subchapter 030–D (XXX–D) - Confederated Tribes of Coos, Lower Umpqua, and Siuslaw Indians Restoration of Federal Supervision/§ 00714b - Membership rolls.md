@@ -10,7 +10,7 @@ The membership roll is declared open. The Interim Council and tribal officials u
 
 &emsp;(a) that individual's name was listed on the Tribe's Census Roll of 1940;
 
-&emsp;(b) that individual was entitled to be listed on the Tribe's Census Roll of January 1, 1940but was not so listed. Any person placed on the membership roll must be listed on the January 1, 1940 Census Roll of the Grand Ronde-Siletz Indian Agency of nonreservation Indians as Coos, Lower Umpqua, or Siuslaw, be a descendant of such a person, or be a descendant of public domain allotee <sup>1</sup> of Western Oregon who was a member of one of these three tribes.
+&emsp;(b) that individual was entitled to be listed on the Tribe's Census Roll of January 1, 1940 but was not so listed. Any person placed on the membership roll must be listed on the January 1, 1940 Census Roll of the Grand Ronde-Siletz Indian Agency of nonreservation Indians as Coos, Lower Umpqua, or Siuslaw, be a descendant of such a person, or be a descendant of public domain allotee <sup>1</sup> of Western Oregon who was a member of one of these three tribes.
 
 &emsp;(c) that individual is a direct lineal descendant of an individual, living or dead, identified by subparagraph (a) or (b); and
 

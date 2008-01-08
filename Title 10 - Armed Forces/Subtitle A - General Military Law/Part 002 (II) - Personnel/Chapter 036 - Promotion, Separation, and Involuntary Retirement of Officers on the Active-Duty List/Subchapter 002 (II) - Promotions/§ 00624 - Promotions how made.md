@@ -16,7 +16,7 @@
 
 &emsp;(ii) would be eligible for consideration for promotion to the next higher grade by a selection board convened under section 611(a) of this title upon the convening of such a board.
 
-(b)(1) A regular officer who is promoted under this section is appointed in the regular grade to which promoted and a reserve officer who is promoted under this section is appointed in the reserve grade to which promoted.
+(b)(1) A regular officer who is promoted under this section is appointed in the regular grade towhich promoted and a reserve officer who is promoted under this section is appointed in the reserve grade to which promoted.
 
 (2) The date of rank of an officer appointed to a higher grade under this section is determined under section 741(d) of this title.
 
@@ -56,7 +56,7 @@ Pub. L. 109–364, §511(a)(1), substituted “prescribed by the Secretary of De
 
 Subsec. (d)(1)(E). Pub. L. 109–364, §511(a)(2)(A)–(C), added subpar. (E).
 
-Subsec. (d)(2). Pub. L. 109–364, §511(a)(3), in first sentence inserted “has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or” before “is mentally, physically,” and in second sentence substituted “If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to beamong the officers best qualified for promotion to such grade” for “If the Secretary concerned later determines that the officer is qualified for promotion to such grade”.
+Subsec. (d)(2). Pub. L. 109–364, §511(a)(3), in first sentence inserted “has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or” before “is mentally, physically,” and in second sentence substituted “If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to such grade” for “If the Secretary concerned later determines that the officer is qualified for promotion to such grade”.
 
 Pub. L. 109–364, §511(a)(1), substituted “prescribed by the Secretary of Defense” for “prescribed by the Secretary concerned”.
 

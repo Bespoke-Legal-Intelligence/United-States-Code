@@ -16,7 +16,7 @@
 
 #### (2) Organization must meet 60-percent asset test of section 7701(a)(19)
 
-&emsp;This section shall apply to an association or bank referred to in paragraph (1) only if it meets the requirements of section 7701(a)(19)(C).
+&emsp;This section shall apply to an association or bank referred to in paragraph (1) only if itmeets the requirements of section 7701(a)(19)(C).
 
 #### (b) Addition to reserves for bad debts
 
@@ -44,7 +44,7 @@
 
 #### (C) Overall limitation on paragraph
 
-&emsp;&emsp;The amount determined under this paragraph shall not exceed the amount necessary to increase the balance at the close of thetaxable year of the reserve for losses on qualifying real property loans to 6 percent of such loans outstanding at such time.
+&emsp;&emsp;The amount determined under this paragraph shall not exceed the amount necessary to increase the balance at the close of the taxable year of the reserve for losses on qualifying real property loans to 6 percent of such loans outstanding at such time.
 
 #### (D) Computation of taxable income
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (4) Treatment of interests in REMIC's
 
-&emsp;A regular or residual interest in a REMIC shall be treated as a qualifying real property loan; except that, if less than 95 percent of theassets of such REMIC are qualifying real property loans (determined as if the taxpayer held the assets of the REMIC), such interest shall be so treated only in the proportion which the assets of such REMIC consist of such loans. For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.
+&emsp;A regular or residual interest in a REMIC shall be treated as a qualifying real property loan; except that, if less than 95 percent of the assets of such REMIC are qualifying real property loans (determined as if the taxpayer held the assets of the REMIC), such interest shall be so treated only in the proportion which the assets of such REMIC consist of such loans. For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.
 
 #### (e) Distributions to shareholders
 
@@ -174,7 +174,7 @@ Subsections (a), (b), (c), and (d) shall not apply to any taxable year beginning
 
 &emsp;&emsp;&emsp;&emsp;(I) the balance of such reserves as of the close of the taxpayer's last taxable year beginning before January 1, 1988, or
 
-&emsp;&emsp;&emsp;&emsp;(II) the balance of the reserves described in subclause (I), reduced in the same manner as under section585(b)(2)(B)(ii) on the basis of the taxable years described in clause (i) and this clause.
+&emsp;&emsp;&emsp;&emsp;(II) the balance of the reserves described in subclause (I), reduced in the same manner as under section 585(b)(2)(B)(ii) on the basis of the taxable years described in clause (i) and this clause.
 
 #### (B) Special rule for thrifts which become small banks
 

@@ -32,7 +32,7 @@
 
 #### (c) Yurok tribal membership option
 
-(1) Any person on the Settlement Roll may elect to become a member of the Yurok Tribeand shall be entitled to participate in the organization of such tribe as provided in section 1300i–8 of this title.
+(1) Any person on the Settlement Roll may elect to become a member of the Yurok Tribe and shall be entitled to participate in the organization of such tribe as provided in section 1300i–8 of this title.
 
 (2) All persons making an election under this subsection shall form the base roll of the Yurok Tribe for purposes of organization pursuant to section 1300i–8 of this title and the Secretary shall determine the quantum of “Indian blood” if any pursuant to the criteria established in the March 31, 1982, decision of the United States Court of Claims in the case of Jesse Short et al. v. United States, (Cl. Ct. No. 102–63).
 

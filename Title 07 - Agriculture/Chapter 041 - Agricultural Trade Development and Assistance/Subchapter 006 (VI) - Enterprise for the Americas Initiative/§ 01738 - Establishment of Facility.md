@@ -10,7 +10,7 @@ Subchapter effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set ou
 
 #### Executive Order No. 12757
 
-Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, as amended by Ex. Ord. No. 12823, Dec. 3, 1992, 57 F.R. 57645; Ex. Ord. No. 13028, Dec. 3, 1996, 61 F.R. 64589; Ex. Ord. No. 13131, July 22, 1999, 64 F.R. 40733, which related to implementation of the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act of 1998, was revoked by Ex. Ord. No. 13345, §6(a), July 8, 2004, 69 F.R. 41903, set out below.
+Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, as amended by Ex. Ord. No. 12823, Dec. 3, 1992, 57 F.R.57645; Ex. Ord. No. 13028, Dec. 3, 1996, 61 F.R. 64589; Ex. Ord. No. 13131, July 22, 1999, 64 F.R. 40733, which related to implementation of the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act of 1998, was revoked by Ex. Ord. No. 13345, §6(a), July 8, 2004, 69 F.R. 41903, set out below.
 
 #### Ex. Ord. No. 13345. Assigning Foreign Affairs Functions and Implementing the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act
 

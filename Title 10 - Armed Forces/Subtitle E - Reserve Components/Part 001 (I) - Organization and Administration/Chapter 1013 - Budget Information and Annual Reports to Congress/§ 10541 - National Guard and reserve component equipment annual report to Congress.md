@@ -28,11 +28,11 @@
 
 &emsp;(7) For each item of major equipment reported under paragraph (3) in a report for one of the three previous years under this section as an item expected to be procured for the Selected Reserve or to be transferred to the Selected Reserve, the quantity of such equipment actually procured for or transferred to the Selected Reserve.
 
-&emsp;(8) A statement of the current status of the compatibility of equipment between the Army reserve components and active forces of theArmy, the effect of that level of incompatibility on combat effectiveness, and a plan to achieve full equipment compatibility.
+&emsp;(8) A statement of the current status of the compatibility of equipment between the Army reserve components and active forces of the Army, the effect of that level of incompatibility on combat effectiveness, and a plan to achieve full equipment compatibility.
 
 (c) Each report under this section shall be expressed in the same format and with the same level of detail as the information presented in the annual Five Year Defense Program Procurement Annex prepared by the Department of Defense.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1714, §115b; amended Pub. L. 102–484, div. A, title XI, §1134, Oct. 23, 1992, 106 Stat. 2541; renumbered §10541 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(2), Oct. 5, 1994, 108 Stat. 2982.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1714, §115b; amended Pub. L. 102–484, div. A, title XI, §1134, Oct. 23, 1992, 106 Stat. 2541; renumbered §10541and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(2), Oct. 5, 1994, 108 Stat. 2982.)
 
 #### Prior Provisions
 

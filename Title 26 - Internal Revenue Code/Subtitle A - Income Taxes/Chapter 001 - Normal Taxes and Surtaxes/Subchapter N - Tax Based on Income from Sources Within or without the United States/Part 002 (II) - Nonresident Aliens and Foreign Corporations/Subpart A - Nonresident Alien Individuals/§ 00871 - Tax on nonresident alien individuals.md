@@ -46,7 +46,7 @@
 
 #### (c) Participants in certain exchange or training programs
 
-For purposes of this section, a nonresident alien individual who (without regard to this subsection) is not engaged in trade or business within the United States and who is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(15)(F), (J), (M), or (Q)), shall be treated as a nonresident alien individual engaged in trade or business within the United States, and any income described in the second sentence of section 1441(b) which is received by such individual shall, to theextent derived from sources within the United States, be treated as effectively connected with the conduct of a trade or business within the United States.
+For purposes of this section, a nonresident alien individual who (without regard to this subsection) is not engaged in trade or business within the United States and who is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(15)(F), (J),\(M), or (Q)), shall be treated as a nonresident alien individual engaged in trade or business within the United States, and any income described in the second sentence of section 1441(b) which is received by such individual shall, to the extent derived from sources within the United States, be treated as effectively connected with the conduct of a trade or business within the United States.
 
 #### (d) Election to treat real property income as income connected with United States business
 
@@ -216,9 +216,9 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;&emsp;(ii) any amount of interest solely by reason of the fact that the interest is paid with respect to nonrecourse or limited recourse indebtedness,
 
-&emsp;&emsp;&emsp;(iii) any amount of interest all or substantially all of which is determined by reference to any other amount of interest not described in subparagraph (A) (or by reference to the principal amount of indebtedness on which such other interest is paid),
+&emsp;&emsp;&emsp;(iii) any amount of interest all or substantially all of which is determined byreference to any other amount of interest not described in subparagraph (A) (or by reference to the principal amount of indebtedness on which such other interest is paid),
 
-&emsp;&emsp;&emsp;(iv) any amount of interest solely by reason of the fact that the debtor or a relatedperson enters into a hedging transaction to manage the risk of interest rate or currency fluctuations with respect to such interest,
+&emsp;&emsp;&emsp;(iv) any amount of interest solely by reason of the fact that the debtor or a related person enters into a hedging transaction to manage the risk of interest rate or currency fluctuations with respect to such interest,
 
 &emsp;&emsp;&emsp;(v) any amount of interest determined by reference to—
 
@@ -296,7 +296,7 @@ For purposes of this section and section 881—
 
 #### (j) Exemption for certain gambling winnings
 
-No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds from a wager placed in any of the following games: blackjack, baccarat, craps, roulette, or big-6 wheel. The preceding sentence shall not apply in any case where the Secretary determines by regulation that the collection of the tax is administratively feasible.
+No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds from a wagerplaced in any of the following games: blackjack, baccarat, craps, roulette, or big-6 wheel. The preceding sentence shall not apply in any case where the Secretary determines by regulation that the collection of the tax is administratively feasible.
 
 #### (k) Exemption for certain dividends of regulated investment companies
 
@@ -358,7 +358,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (C) Short-term capital gain dividend
 
-&emsp;&emsp;For purposes of this paragraph, the term “short-term capital gain dividend” means any dividend (or part thereof) which is designated by the regulated investment company as a short-term capital gain dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including amounts so designated with respect to dividends paid afterthe close of the taxable year described in section 855) is greater than the qualified short-term gain of the company for such taxable year, the portion of each distribution which shall be a short-term capital gain dividend shall be only that portion of the amounts so designated which such qualified short-term gain bears to the aggregate amount so designated. Such term shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2007.
+&emsp;&emsp;For purposes of this paragraph, the term “short-term capital gain dividend” means any dividend (or part thereof) which is designated by the regulated investment company as a short-term capital gain dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including amounts so designated with respect to dividends paid after the close of the taxable year described in section 855) is greater than the qualified short-term gain of the company for such taxable year, the portion of each distribution which shall be a short-term capital gain dividend shall be only that portion of the amounts so designated which such qualified short-term gain bears to the aggregate amount so designated. Such term shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2007.
 
 #### (D) Qualified short-term gain
 
@@ -402,7 +402,7 @@ Section 207 of the Social Security Act, referred to in subsec. (a)(3)(A), is cla
 
 Section 932(c), referred to in subsec. (a)(3), was repealed and a new section 932(c) of this title, which does not relate to taxation of social security benefits, was enacted by Pub. L. 99–514, title XII, §§1272(d)(1), 1274(a), Oct. 22, 1986, 100 Stat. 2594, 2596.
 
-The Trade Act of 1974, referred to in subsec. (f)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (f)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generallyto subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
 #### Amendments
 
@@ -670,7 +670,7 @@ Amendment by section 1901(b)(3)(I) of Pub. L. 94–455 effective for taxable yea
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable only with respect to distributions or payments made after Dec. 31,1973, in taxable years beginning after Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
+Amendment by Pub. L. 93–406 applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
 
 #### Effective Date of 1971 Amendment
 

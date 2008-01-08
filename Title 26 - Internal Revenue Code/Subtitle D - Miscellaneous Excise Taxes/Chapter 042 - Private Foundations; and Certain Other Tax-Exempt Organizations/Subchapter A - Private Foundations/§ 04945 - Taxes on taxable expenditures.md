@@ -76,7 +76,7 @@ Subsection (d)(2) shall not apply to any amount paid or incurred by any organiza
 
 &emsp;(3) substantially all of the income of which is expended directly for the active conduct of the activities constituting the purpose or function for which it is organized and operated,
 
-&emsp;(4) substantially all of the support (other than gross investment income as defined insection 509(e)) of which is received from exempt organizations, the general public, governmental units described in section 170(c)(1), or any combination of the foregoing; not more than 25 percent of such support is received from any one exempt organization (for this purpose treating private foundations which are described in section 4946(a)(1)(H) with respect to each other as one exempt organization); and not more than half of the support of which is received from gross investment income, and
+&emsp;(4) substantially all of the support (other than gross investment income as defined in section 509(e)) of which is received from exempt organizations, the general public, governmental units described in section 170(c)(1), or any combination of the foregoing; not more than 25 percent of such support is received from any one exempt organization (for this purpose treating private foundations which are described in section 4946(a)(1)(H) with respect to each other as one exempt organization); and not more than half of the support of which is received from gross investment income, and
 
 &emsp;(5) contributions to which for voter registration drives are not subject to conditions that they may be used only in specified States, possessions of the United States, or political subdivisions or other areas of any of the foregoing, or the District of Columbia, or that they may be used in only one specific election period.
 
@@ -142,7 +142,7 @@ Subsec. (d)(4)(A). Pub. L. 109–280, §1244(b), amended subpar. (A) generally. 
 
 1986—Subsec. (g)(2). Pub. L. 99–514 inserted “(without regard to paragraph (3) thereof)” after “section 74(b)”.
 
-1984—Subsec. (d)(4). Pub. L. 98–369, in amending par. (4) generally, divided existing provisions into subpars.\(A) and (B) and inserted reference in subpar. (A) to exempt foundations (as defined in section 4940(d)(2)).
+1984—Subsec. (d)(4). Pub. L. 98–369, in amending par. (4) generally, divided existing provisions into subpars. (A) and (B) and inserted reference in subpar. (A) to exempt foundations (as defined in section 4940(d)(2)).
 
 1980—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(F), substituted “taxable period” for “correction period”.
 

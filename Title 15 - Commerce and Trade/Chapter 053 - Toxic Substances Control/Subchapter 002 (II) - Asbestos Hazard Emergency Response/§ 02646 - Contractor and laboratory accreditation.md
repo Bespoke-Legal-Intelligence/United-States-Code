@@ -34,7 +34,7 @@ A person may not—
 
 &emsp;&emsp;&emsp;(ii) Health hazards of asbestos and the relationship between asbestos exposure and disease.
 
-&emsp;&emsp;&emsp;(iii) Assessing the risk of asbestos exposure through a knowledge of percentage weight of asbestos-containing material, friability, age, deterioration, location and accessibility of materials, and advantagesand disadvantages of dry and wet response action methods.
+&emsp;&emsp;&emsp;(iii) Assessing the risk of asbestos exposure through a knowledge of percentage weight of asbestos-containing material, friability, age, deterioration, location and accessibility of materials, and advantages and disadvantages of dry and wet response action methods.
 
 &emsp;&emsp;&emsp;(iv) Respirators and their use, care, selection, degree of protection afforded, fitting, testing, and maintenance and cleaning procedures.
 
@@ -104,7 +104,7 @@ A person may not—
 
 &emsp;(B) uses a laboratory (or laboratories) which is accredited under the program developed under subsection (d) of this section.
 
-(2) This subsection shall apply to any financial assistance provided under the Asbestos School Hazard Abatement Act of 1984 \[20 U.S.C. 4011 etseq.\] for activities performed after the following dates:
+(2) This subsection shall apply to any financial assistance provided under the Asbestos School Hazard Abatement Act of 1984 \[20 U.S.C. 4011 et seq.\] for activities performed after the following dates:
 
 &emsp;(A) In the case of activities performed by persons, after the date which is one year after October 22, 1986.
 
@@ -120,7 +120,7 @@ Not later than August 31, 1988, and every three months thereafter until August 3
 
 The Defense Dependents’ Education Act of 1978, referred to in subsec. (b)(2), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
-The Asbestos School Hazard Abatement Act of 1984, referred to in subsec. (e)(2), is title V of Pub. L. 98–377, Aug. 11, 1984, 98 Stat. 1287, as amended, which is classified generally to subchapter V (§4011 et seq.) of chapter 52 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 4011 of Title 20 and Tables.
+The Asbestos School Hazard Abatement Act of 1984, referred to in subsec. (e)(2), is title V of Pub. L. 98–377,Aug. 11, 1984, 98 Stat. 1287, as amended, which is classified generally to subchapter V (§4011 et seq.) of chapter 52 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 4011 of Title 20 and Tables.
 
 #### Amendments
 

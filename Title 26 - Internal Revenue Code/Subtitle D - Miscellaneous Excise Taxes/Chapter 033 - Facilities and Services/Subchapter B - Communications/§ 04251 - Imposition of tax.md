@@ -105,7 +105,7 @@ For purposes of subsections (a) and (b), in the case of communications services 
 | During 1980 or 1981 | 2 |
 | During 1982, 1983, or 1984 | 1” |
 
-Subsec. (b). Pub. L. 97–248 added subsec. (b) and struck out former subsec. (b) which provided that the tax imposed by former subsec. (a) would not apply to amounts paid pursuant to bills first rendered on or after January 1, 1985.
+Subsec. (b). Pub. L. 97–248 added subsec. (b) and struck out former subsec. (b) which provided that the tax imposed by former subsec. (a) would not apply toamounts paid pursuant to bills first rendered on or after January 1, 1985.
 
 1981—Subsec. (a)(2). Pub. L. 97–34, §821(a), substituted “During 1982, 1983, or 1984” for “During 1982” in table.
 
@@ -159,7 +159,7 @@ Subsec. (c). Pub. L. 89–44, §302, added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -181,7 +181,7 @@ Amendment by Pub. L. 90–285 effective Mar. 31, 1968, see section 1(b) of Pub. 
 
 #### Effective Date of 1966 Amendment
 
-Section 202(c) of Pub. L. 89–368 provided that: “The amendments made by subsections (a) \[amending this section\] and (b) \[amending section 4253 of this title\] shall apply to amounts paid pursuant to bills first rendered on or after April 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after such date for services which were rendered before such date and for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered, subject to the provision of section 701(b)(2) of the Excise Tax Reduction Act of 1965 \[see Effective Date of 1965 Amendment note below\], shall apply to the amounts paid for such services.”
+Section 202(c) of Pub. L. 89–368 provided that: “The amendments made by subsections (a) \[amending this section\] and (b) \[amending section 4253 of this title\] shall apply to amounts paid pursuant to bills first rendered on or after April 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after such date for services which were rendered before such date and for which noprevious bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered, subject to the provision of section 701(b)(2) of the Excise Tax Reduction Act of 1965 \[see Effective Date of 1965 Amendment note below\], shall apply to the amounts paid for such services.”
 
 #### Effective Date of 1965 Amendment
 

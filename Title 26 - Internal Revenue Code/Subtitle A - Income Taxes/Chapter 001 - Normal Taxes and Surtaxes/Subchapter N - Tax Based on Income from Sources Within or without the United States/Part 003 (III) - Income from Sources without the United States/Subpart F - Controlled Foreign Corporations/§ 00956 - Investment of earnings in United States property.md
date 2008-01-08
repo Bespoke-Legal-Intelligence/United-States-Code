@@ -34,7 +34,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;If any foreign corporation ceases to be a controlled foreign corporation during any taxable year—
 
-&emsp;&emsp;(A) the determination of any United States shareholder's pro rata share shall be madeon the basis of stock owned (within the meaning of section 958(a)) by such shareholder on the last day during the taxable year on which the foreign corporation is a controlled foreign corporation,
+&emsp;&emsp;(A) the determination of any United States shareholder's pro rata share shall be made on the basis of stock owned (within the meaning of section 958(a)) by such shareholder on the last day during the taxable year on which the foreign corporation is a controlled foreign corporation,
 
 &emsp;&emsp;(B) the average referred to in subsection (a)(1)(A) for such taxable year shall be determined by only taking into account quarters ending on or before such last day, and
 
@@ -88,19 +88,17 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;(H) an amount of assets of the controlled foreign corporation equal to the earnings and profits accumulated after December 31, 1962, and excluded from subpart F income under section 952(b);
 
-&emsp;&emsp;(I) to the extent provided in regulations prescribed by the Secretary, property which is otherwise United States property which is held by a FSC and which is related to the export activities of such FSC;
+&emsp;&emsp;(I) deposits of cash or securities made or received on commercial terms in the ordinary course of a United States or foreign person's business as a dealer in securities or in commodities, but only to the extent such deposits are made or received as collateral or margin for (i) a securities loan, notional principal contract, options contract, forward contract, or futures contract, or (ii) any other financial transaction in which the Secretary determines that it is customary to post collateral or margin;
 
-&emsp;&emsp;(J) deposits of cash or securities made or received on commercial terms in the ordinary course of a United States or foreign person's business as a dealer in securities or in commodities, but only to the extent such deposits are made or received as collateral or margin for (i) a securities loan, notional principal contract, options contract, forward contract, or futures contract, or (ii) any other financial transaction in which the Secretary determines that it is customary to post collateral or margin;
+&emsp;&emsp;(J) an obligation of a United States person to the extent the principal amount of the obligation does not exceed the fair market value of readily marketable securities sold or purchased pursuant to a sale and repurchase agreement or otherwise posted or received as collateral for the obligation in the ordinary course of its business by a United States or foreign person which is a dealer in securities or commodities;
 
-&emsp;&emsp;(K) an obligation of a United States person to the extent the principal amount of the obligation does not exceed the fair market value of readily marketable securities sold or purchased pursuant to a sale and repurchase agreement or otherwise posted or received as collateral for the obligation in the ordinary course of its business by a United States or foreign person which is a dealer in securities or commodities;
-
-&emsp;&emsp;(L) securities acquired and held by a controlled foreign corporation in the ordinary course of its business as a dealer in securities if—
+&emsp;&emsp;(K) securities acquired and held by a controlled foreign corporation in the ordinary course of its business as a dealer in securities if—
 
 &emsp;&emsp;&emsp;(i) the dealer accounts for the securities as securities held primarily for sale to customers in the ordinary course of business, and
 
-&emsp;&emsp;&emsp;(ii) the dealer disposes of the securities (or such securities mature while held bythe dealer) within a period consistent with the holding of securities for sale to customers in the ordinary course of business; and
+&emsp;&emsp;&emsp;(ii) the dealer disposes of the securities (or such securities mature while held by the dealer) within a period consistent with the holding of securities for sale to customers in the ordinary course of business; and
 
-&emsp;&emsp;(M) an obligation of a United States person which—
+&emsp;&emsp;(L) an obligation of a United States person which—
 
 &emsp;&emsp;&emsp;(i) is not a domestic corporation, and
 
@@ -110,7 +108,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;&emsp;&emsp;(II) a partnership, estate, or trust in which the controlled foreign corporation, or any related person (as defined in section 954(d)(3)), is a partner, beneficiary, or trustee immediately after the acquisition of any obligation of such partnership, estate, or trust by the controlled foreign corporation.
 
-> &emsp;For purposes of subparagraphs (J), (K), and (L), the term “dealer in securities” has the meaning given such term by section 475(c)(1), and the term “dealer in commodities” has the meaning given such term by section 475(e), except that such term shall include a futures commission merchant.
+> &emsp;For purposes of subparagraphs (I), (J), and (K), the term “dealer in securities” has the meaning given such term by section 475(c)(1), and the term “dealer in commodities” has the meaning given such term by section 475(e), except that such term shall include a futures commission merchant.
 
 #### (3) Certain trade or service receivables acquired from related United States persons
 
@@ -134,13 +132,17 @@ For purposes of subsection (a), a controlled foreign corporation shall, under re
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to prevent the avoidance of the provisons <sup>2</sup> of this section through reorganizations or otherwise.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1015; amended Pub. L. 94–455, title X, §1021(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1618, 1834; Pub. L. 98–369, div. A, title I, §123(b), title VIII, §801(d)(8), July 18, 1984, 98 Stat. 646, 996; Pub. L. 99–514, title XVIII, §1810(c)(1), Oct. 22, 1986, 100 Stat. 2824; Pub. L. 103–66, title XIII, §13232(a), (b), Aug. 10, 1993, 107 Stat. 501; Pub. L. 104–188, title I, §1501(b)(2), (3), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1173(a), title XVI, §1601(e), Aug. 5, 1997, 111 Stat. 988, 1090; Pub. L. 108–357, title IV, §407(a), (b), title VIII, §837(a), Oct. 22, 2004, 118 Stat. 1498, 1499, 1596.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1015; amended Pub. L. 94–455, title X, §1021(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1618, 1834; Pub. L. 98–369, div. A, title I, §123(b), title VIII, §801(d)(8), July 18, 1984, 98 Stat. 646, 996; Pub. L. 99–514, title XVIII, §1810(c)(1), Oct. 22, 1986, 100 Stat. 2824; Pub. L. 103–66, title XIII, §13232(a), (b), Aug. 10, 1993, 107 Stat. 501; Pub. L. 104–188, title I, §1501(b)(2), (3), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1173(a), title XVI, §1601(e), Aug. 5, 1997, 111 Stat. 988, 1090; Pub. L. 108–357, title IV, §407(a), (b), title VIII, §837(a), Oct. 22, 2004, 118 Stat. 1498, 1499, 1596; Pub. L. 110–172, §11(g)(15)(A), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### References in Text
 
 Section 953(a)(1), referred to in subsec. (c)(2)(E), was subsequently amended, and section 953(a)(1) no longer describes contracts. However, contracts are described elsewhere in that section.
 
 #### Amendments
+
+2007—Subsec. (c)(2). Pub. L. 110–172, §11(g)(15)(A)(ii), substituted “subparagraphs (I), (J), and (K)” for “subparagraphs (J), (K), and (L)” in concluding provisons.
+
+Subsec. (c)(2)(I) to (M). Pub. L. 110–172, §11(g)(15)(A)(i), redesignated subpars. (J) to (M) as (I) to (L), respectively, and struck out former subpar. (I) which read as follows: “to the extent provided in regulations prescribed by the Secretary, property which is otherwise United States property which is held by a FSC and which is related to the export activities of such FSC;”.
 
 2004—Subsec. (c)(2). Pub. L. 108–357, §407(b), substituted “, (K), and (L)” for “and (K)” in concluding provisions.
 

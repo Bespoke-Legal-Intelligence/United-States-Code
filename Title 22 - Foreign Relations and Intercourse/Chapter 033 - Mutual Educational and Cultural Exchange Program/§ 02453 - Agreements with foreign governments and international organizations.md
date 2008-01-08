@@ -6,7 +6,7 @@ The Director of the United States Information Agency is authorized to enter into
 
 #### (b) Creation or continuation of binational or multinational educational and cultural foundations and commissions
 
-Such agreements may also provide for the creation or continuation of binational or multinational educational and cultural foundations and commissions for the purpose of administering programs in furtherance of the purposes of this chapter.
+Such agreements may also provide for the creation or continuation of binational or multinational educational and cultural foundationsand commissions for the purpose of administering programs in furtherance of the purposes of this chapter.
 
 #### (c) United States participation in programs
 
@@ -26,7 +26,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State, see Ex. Ord. No. 11034, June 25,1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
+Functions of President under this section delegated to Secretary of State, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

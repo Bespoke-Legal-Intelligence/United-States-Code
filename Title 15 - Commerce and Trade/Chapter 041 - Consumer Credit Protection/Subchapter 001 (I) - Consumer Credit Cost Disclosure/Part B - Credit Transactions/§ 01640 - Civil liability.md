@@ -6,7 +6,7 @@ Except as otherwise provided in this section, any creditor who fails to comply w
 
 &emsp;(1) any actual damage sustained by such person as a result of the failure;
 
-&emsp;(2)(A)(i) in the case of an individual action twice the amount of any finance charge in connection with the transaction, (ii) in thecase of an individual action relating to a consumer lease under part E of this subchapter, 25 per centum of the total amount of monthly payments under the lease, except that the liability under this subparagraph shall not be less than $100 nor greater than $1,000, or (iii) in the case of an individual action relating to a credit transaction not under an open end credit plan that is secured by real property or a dwelling, not less than $200 or greater than $2,000; or
+&emsp;(2)(A)(i) in the case of an individual action twice the amount of any finance charge in connection with the transaction, (ii) in the case of an individual action relating to a consumer lease under part E of this subchapter, 25 per centum of the total amount of monthly payments under the lease, except that the liability under this subparagraph shall not be less than $100 nor greater than $1,000, or (iii) in the case of an individual action relating to a credit transaction not under an open end credit plan that is secured by real property or a dwelling, not less than $200 or greater than $2,000; or
 
 &emsp;(B) in the case of a class action, such amount as the court may allow, except that as to each member of the class no minimum recovery shall be applicable, and the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same creditor shall not be more than the lesser of $500,000 or 1 per centum of the net worth of the creditor;
 
@@ -18,7 +18,7 @@ Except as otherwise provided in this section, any creditor who fails to comply w
 
 #### (b) Correction of errors
 
-A creditor or assignee has no liability under this section or section 1607 of this title or section 1611 of this title for any failure to comply with any requirement imposed under this part or part E of this subchapter, if within sixty days after discovering an error, whether pursuant to a final written examination report or notice issued under section 1607(e)(1) of this title or through the creditor's or assignee's own procedures, and prior to the institution of an action under this section or the receipt of written notice of the error from the obligor, the creditor or assignee notifies the person concerned of the error and makes whatever adjustments in the appropriate account are necessary to assure that the person will not be required to pay an amount in excess of the charge actually disclosed, or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
+A creditor or assignee has no liability under this section or section 1607 of this title or section 1611 of this title for any failure to comply with any requirement imposed under this part or part E of this subchapter, if within sixty days after discovering an error, whether pursuant to a final written examination report or notice issued under section 1607(e)(1) of this title or through the creditor's or assignee's own procedures, and prior to the institution of an action under this section or the receipt of written notice of the error from the obligor, the creditor or assignee notifies the person concerned of the error and makes whatever adjustments in the appropriate account are necessary to assure that the person will not be required to pay anamount in excess of the charge actually disclosed, or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
 
 #### (c) Unintentional violations; bona fide errors
 
@@ -30,7 +30,7 @@ When there are multiple obligors in a consumer credit transaction or consumer le
 
 #### (e) Jurisdiction of courts; limitations on actions; State attorney general enforcement
 
-Any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation. This subsection does not bar a person from asserting a violation of this subchapter in an action to collect the debt which was brought more than one year from the date of the occurrence of the violation as a matter of defense by recoupment or set-off in such action, except as otherwise provided by State law. An action to enforce a violation of section 1639 of this title may also be brought by the appropriate Stateattorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 1607 of this title and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
+Any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation. This subsection does not bar a person from asserting a violation of this subchapter in an action to collect the debt which was brought more than one year from the date of the occurrence of the violation as a matter of defense by recoupment or set-off in such action, except as otherwise provided by State law. An action to enforce a violation of section 1639 of this title may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 1607 of this title and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
 
 &emsp;(1) intervene in the action;
 
@@ -68,7 +68,7 @@ A person may not take any action to offset any amount for which a creditor or as
 
 &emsp;&emsp;&emsp;(ii) to properly make any other disclosure required under section 1638 of this title as a result of the failure described in clause (i); or
 
-&emsp;&emsp;&emsp;(iii) to provide proper notice of rescission rights under section 1635(a) of this title due to the selection by the creditor of the incorrect form from among the model forms prescribed by the Board or from among forms based on such model forms.
+&emsp;&emsp;&emsp;(iii) to provide proper notice of rescission rights under section 1635(a) of thistitle due to the selection by the creditor of the incorrect form from among the model forms prescribed by the Board or from among forms based on such model forms.
 
 #### (2) Exceptions for certain alleged violations
 
@@ -92,7 +92,7 @@ Subsec. (i). Pub. L. 104–12 added subsec. (i).
 
 1994—Subsec. (a)(4). Pub. L. 103–325, §153(a), added par. (4).
 
-Subsec. (e). Pub. L. 103–325, §153(b), inserted at end “An action to enforce a violation of section 1639 of this title may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which theviolation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 1607 of this title and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
+Subsec. (e). Pub. L. 103–325, §153(b), inserted at end “An action to enforce a violation of section 1639 of this title may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 1607 of this title and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
 
 &emsp;“(1) intervene in the action;
 

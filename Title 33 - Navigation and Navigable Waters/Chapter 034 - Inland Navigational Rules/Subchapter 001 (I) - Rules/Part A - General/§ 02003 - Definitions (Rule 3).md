@@ -60,7 +60,7 @@ These Rules and Inland Rules, referred to in text, mean the Inland Navigational 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–591, Dec. 24, 1980, 94 Stat. 3415, as amended, known as the Inland Navigational Rules Act of 1980, which enacted this chapter, amended sections 151, 1604, 1605, and 1608 of this title, repealed sections 154 to 159, 171 to 183, 191, 192, 201 to 213, 221, 222, 232, 241 to 244, 251 to 262, 271, 272, 281 to 295, 301 to 303, 311 to 323, 331, 341 to 356, 360, and 360a of this title and sections 526b, 526c, and 526d of former Title 46, Shipping, and enacted provisions set out as notes under section 2001 of this title. For complete classification of this Act to the Code see Short Title note set out under section 2001 of this title and Tables.
 
-For the International Regulations for Preventing Collisions at Sea, 1972, referred to in par. (q), see International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of this title.
+The International Regulations for Preventing Collisions at Sea, 1972, referred to in par. (q), are maintained and published by the United States Coast Guard, U.S. Department of Homeland Security, in the publication <i>Navigation Rules</i>, which is available for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
 
 #### Codification
 

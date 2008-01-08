@@ -2,7 +2,7 @@
 
 #### (a) Contracts
 
-(1) Each agency shall establish a program of incentives for conserving, and otherwise makingmore efficient use of, energy as a result of entering into contracts under subchapter VII of this chapter.
+(1) Each agency shall establish a program of incentives for conserving, and otherwise making more efficient use of, energy as a result of entering into contracts under subchapter VII of this chapter.
 
 (2) The Secretary shall, not later than 18 months after October 24, 1992, and after consultation with the Director of the Office of Management and Budget, the Secretary of Defense, and the Administrator of General Services, develop appropriate procedures and methods for use by agencies to implement the incentives referred to in paragraph (1).
 
@@ -36,10 +36,6 @@
 
 (4) If an agency satisfies the criteria which generally apply to other customers of a utility incentive program, such agency may not be denied collection of rebates or other incentives.
 
-(5)(A) An amount equal to fifty percent of the energy and water cost savings realized by an agency (other than the Department of Defense) with respect to funds appropriated for any fiscal year beginning after fiscal year 1992 (including financial benefits resulting from energy savings performance contracts under subchapter VII of this chapter and utility energy efficiency rebates) shall, subject to appropriation, remain available for expenditure by such agency for additional energy efficiency measures which may include related employee incentive programs, particularly at those facilities at which energy savings were achieved.
-
-(B) Agencies shall establish a fund and maintain strict financial accounting and controls for savings realized and expenditures made under this subsection. Records maintained pursuant to this subparagraph shall be made available for public inspection upon request.
-
 #### (d) Financial incentive program for facility energy managers
 
 (1) The Secretary shall, in consultation with the Task Force established pursuant to section 8257 of this title, establish a financial bonus program to reward, with funds made available for such purpose, outstanding Federal facility energy managers in agencies and the United States Postal Service.
@@ -64,15 +60,21 @@
 
 #### (e) Retention of energy and water savings
 
-An agency may retain any funds appropriated to that agency for energy expenditures, water expenditures, or wastewater treatment expenditures, at buildings subject to the requirements of section 8253(a) and (b) of this title, that are not made because of energy savings or water savings. Except as otherwise provided by law, such funds may be used only for energy efficiency, water conservation, or unconventional and renewable energy resources projects. Suchprojects shall be subject to the requirements of section 3307 of title 40.
+An agency may retain any funds appropriated to that agency for energy expenditures, waterexpenditures, or wastewater treatment expenditures, at buildings subject to the requirements of section 8253(a) and (b) of this title, that are not made because of energy savings or water savings. Except as otherwise provided by law, such funds may be used only for energy efficiency, water conservation, or unconventional and renewable energy resources projects. Such projects shall be subject to the requirements of section 3307 of title 40.
 
-(Pub. L. 95–619, title V, §546, Nov. 9, 1978, 92 Stat. 3278; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(f), Oct. 24, 1992, 106 Stat. 2846; Pub. L. 109–58, title I, §102(f), Aug. 8, 2005, 119 Stat. 607.)
+(Pub. L. 95–619, title V, §546, Nov. 9, 1978, 92 Stat. 3278; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(f), Oct. 24, 1992, 106 Stat. 2846; Pub. L. 109–58, title I, §102(f), Aug. 8, 2005, 119 Stat. 607; Pub. L. 110–140, title V, §516, Dec. 19, 2007, 121 Stat. 1659.)
 
 #### References in Text
 
 Section 8262e of this title, referred to in subsec. (d)(2)(G), was in the original “section 159” and was translated as meaning section 159 of Pub. L. 102–486, title I, Oct. 24, 1992, 106 Stat. 2857, which enacted section 8262e of this title, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2007—Subsec. (c)(5). Pub. L. 110–140 struck out par. (5) which read as follows:
+
+“(5)(A) An amount equal to fifty percent of the energy and water cost savings realized by an agency (other than the Department of Defense) with respect to funds appropriated for any fiscal year beginning after fiscal year 1992 (including financial benefits resulting from energy savings performance contracts under subchapter VII of this chapter and utility energy efficiency rebates) shall, subject to appropriation, remain available for expenditure by such agency for additional energy efficiency measures which may include related employee incentive programs, particularly at those facilities at which energy savings were achieved.
+
+“(B) Agencies shall establish a fund and maintain strict financial accounting and controls for savings realized and expenditures made under this subsection. Records maintained pursuant to this subparagraph shall be made available for public inspection upon request.”
 
 2005—Subsec. (e). Pub. L. 109–58 added subsec. (e).
 
@@ -83,6 +85,10 @@ Subsec. (b). Pub. L. 102–486, §152(f)(4), added subsec. (b). Former subsec. (
 Subsecs. (c), (d). Pub. L. 102–486, §152(f)(3), (4), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “The portion of the funds appropriated to an agency for energy expenses for a fiscal year that is equal to the amount of cost savings realized by such agency for such year from contracts entered into under subchapter VII of this chapter shall remain available for obligation, without further appropriation, to undertake additional energy conservation measures.”
 
 1988—Pub. L. 100–615 amended section generally, substituting statement of incentives for agencies for provisions relating to energy performance targets for Federal buildings.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Energy Efficiency and Water Conservation Measures; Use of Rebates and Savings
 

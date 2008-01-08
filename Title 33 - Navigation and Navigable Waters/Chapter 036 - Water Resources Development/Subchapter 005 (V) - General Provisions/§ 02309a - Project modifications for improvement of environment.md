@@ -2,7 +2,7 @@
 
 #### (a) Determination of need
 
-The Secretary is authorized to review water resources projects constructed by the Secretaryto determine the need for modifications in the structures and operations of such projects for the purpose of improving the quality of the environment in the public interest and to determine if the operation of such projects has contributed to the degradation of the quality of the environment.
+The Secretary is authorized to review water resources projects constructed by the Secretary to determine the need for modifications in the structures and operations of such projects for the purpose of improving the quality of the environment in the public interest and to determine if the operation of such projects has contributed to the degradation of the quality of the environment.
 
 #### (b) Authority to make modifications
 
@@ -34,17 +34,17 @@ The Secretary shall coordinate any actions taken pursuant to this section with a
 
 #### (g) Nonprofit entities
 
-Notwithstanding section 1962d–5b of title 42, a non-Federal sponsor for any project carried out under this section may include a nonprofit entity, with the consent of the affected local government.
+Notwithstanding section 1962d–5b of title 42, a non-Federal sponsor for any project carried outunder this section may include a nonprofit entity, with the consent of the affected local government.
 
 #### (h) Authorization of appropriations
 
-There is authorized to be appropriated not to exceed $25,000,000 annually to carry out this section.
+There is authorized to be appropriated not to exceed $40,000,000 annually to carry out this section.
 
 #### (i) Definition
 
 In this section, the term “water resources project constructed by the Secretary” includes a water resources project constructed or funded jointly by the Secretary and the head of any other Federal agency (including the Natural Resources Conservation Service).
 
-(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, §506, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title II, §210(c), Dec. 11, 2000, 114 Stat. 2592.)
+(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, §506, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title II, §210(c), Dec. 11, 2000, 114 Stat. 2592; Pub. L. 110–114, title II, §2024, Nov. 8, 2007, 121 Stat. 1079.)
 
 #### Codification
 
@@ -53,6 +53,8 @@ Subsec. (f) of this section, which required the Secretary to transmit biennial r
 Section was formerly set out as a note under section 2294 of this title.
 
 #### Amendments
+
+2007—Subsec. (h). Pub. L. 110–114 substituted “$40,000,000” for “$25,000,000”.
 
 2000—Subsecs. (g) to (i). Pub. L. 106–541 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
@@ -78,7 +80,7 @@ Subsec. (e). Pub. L. 102–580, §202(2), substituted “$25,000,000” for “$
 
 1990—Subsec. (a). Pub. L. 101–640, §304(a), struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
 
-Subsec. (b). Pub. L. 101–640, §304(b), substituted “program” for “demonstration program in the 5-year periodbeginning on the date of enactment of this Act” and struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
+Subsec. (b). Pub. L. 101–640, §304(b), substituted “program” for “demonstration program in the 5-year period beginning on the date of enactment of this Act” and struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
 
 Subsec. (d). Pub. L. 101–640, §304(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the review conducted under subsection (a) and on the demonstration program conducted under subsection (b). Such report shall contain any recommendations of the Secretary concerning modification and extension of such program.”
 

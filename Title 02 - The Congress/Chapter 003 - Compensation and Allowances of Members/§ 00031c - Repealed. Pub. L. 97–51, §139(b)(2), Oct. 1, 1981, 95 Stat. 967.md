@@ -4,5 +4,5 @@ Section, acts July 9, 1952, ch. 598, 66 Stat. 467; Aug. 1, 1953, ch. 304, title 
 
 #### Effective Date of Repeal
 
-Repeal applicable to taxable years beginning after Dec. 31, 1980, see section 139(b)(3) of Pub. L. 97–51, as amended, set out as an Effective Date of 1981 Amendment note under section 162 of Title 26, Internal Revenue Code.
+Repeal applicable to taxable years beginning after Dec. 31, 1980, see section 139(b)(3) of Pub. L. 97–51, asamended, set out as an Effective Date of 1981 Amendment note under section 162 of Title 26, Internal Revenue Code.
 

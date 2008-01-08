@@ -12,7 +12,7 @@
 
 &emsp;(5) employ experts and consultants or organizations thereof, as authorized by section 3109 of title 5;
 
-&emsp;(6) prescribe the manner in which its general business may be conducted and the privileges granted to it by law may be exercised and enjoyed;
+&emsp;(6) prescribe the manner in which its general business may be conducted and the privilegesgranted to it by law may be exercised and enjoyed;
 
 &emsp;(7) exercise all powers specifically granted by the provisions of this subchapter and such incidental powers as shall be necessary to carry out the power so granted;
 

@@ -4,11 +4,11 @@
 
 #### (1) Applicability
 
-&emsp;The provisions of this subsection shall not apply to the Commonwealth of Puerto Ricounless the Legislative Assembly of the Commonwealth of Puerto Rico expressly consents thereto in the manner prescribed in the constitution of the Commonwealth of Puerto Rico, for the enactment of a law.
+&emsp;The provisions of this subsection shall not apply to the Commonwealth of Puerto Rico unless the Legislative Assembly of the Commonwealth of Puerto Rico expressly consents thereto in the manner prescribed in the constitution of the Commonwealth of Puerto Rico, for the enactment of a law.
 
 #### (2) In general
 
-&emsp;Distilled spirits for the purposes authorized in section 5214(a)(2) and (3), denatured distilled spirits, and articles, as described in this paragraph, produced or manufactured in Puerto Rico, may be brought into the United States free of any tax imposed by section 5001(a)(10) <sup>1</sup> or 7652(a)(1) for disposal under the same conditions as like spirits, denatured spirits, and articles, produced or manufactured in the United States; and the provisions of this chapter and regulations promulgated thereunder (and all other provisions of the internal revenue laws applicable to the enforcement thereof, including the penalties of special application thereto) relating to the production, bonded warehousing, and denaturation of distilled spirits, to the withdrawal of distilled spirits or denatured distilled spirits, and to the manufacture of articles from denatured distilled spirits, shall, insofar as applicable, extend to and apply in Puerto Rico in respect of—
+&emsp;Distilled spirits for the purposes authorized in section 5214(a)(2) and (3), denatured distilledspirits, and articles, as described in this paragraph, produced or manufactured in Puerto Rico, may be brought into the United States free of any tax imposed by section 5001(a)(10) <sup>1</sup> or 7652(a)(1) for disposal under the same conditions as like spirits, denatured spirits, and articles, produced or manufactured in the United States; and the provisions of this chapter and regulations promulgated thereunder (and all other provisions of the internal revenue laws applicable to the enforcement thereof, including the penalties of special application thereto) relating to the production, bonded warehousing, and denaturation of distilled spirits, to the withdrawal of distilled spirits or denatured distilled spirits, and to the manufacture of articles from denatured distilled spirits, shall, insofar as applicable, extend to and apply in Puerto Rico in respect of—
 
 &emsp;&emsp;(A) distilled spirits for shipment to the United States for the purposes authorized in section 5214(a)(2) and (3);
 
@@ -60,7 +60,7 @@ Section 5001(a)(10), referred to in subsec. (a)(2), was redesignated section 500
 
 #### Prior Provisions
 
-A prior section 5314, act Aug. 16, 1954, ch. 736, 68A Stat. 659, related to officers and agents authorized to investigate, issue search warrants, and prosecute for violations, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5557 of this title.
+A prior section 5314, act Aug. 16, 1954, ch. 736, 68A Stat. 659, related to officers and agents authorized to investigate, issue search warrants, and prosecute forviolations, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5557 of this title.
 
 Provisions similar to those comprising subsec. (a)(2) of this section were contained in prior section 5318, act Aug. 16, 1954, ch. 736, 68A Stat. 660, prior to the general revisions of this chapter by Pub. L. 85–859.
 

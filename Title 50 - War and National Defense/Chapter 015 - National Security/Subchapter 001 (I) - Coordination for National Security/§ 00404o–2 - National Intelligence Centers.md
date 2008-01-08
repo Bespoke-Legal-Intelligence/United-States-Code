@@ -18,7 +18,7 @@ The Director of National Intelligence shall, to the extent appropriate and pract
 
 Pursuant to the direction of the Director of National Intelligence, each national intelligence center under subsection (a) of this section may, in the area of intelligence responsibility assigned to such center—
 
-&emsp;(1) have primary responsibility for providing all-source analysis of intelligence based upon intelligence gathered both domestically and abroad;
+&emsp;(1) have primary responsibility for providing all-source analysis of intelligence based uponintelligence gathered both domestically and abroad;
 
 &emsp;(2) have primary responsibility for identifying and proposing to the Director of National Intelligence intelligence collection and analysis and production requirements; and
 

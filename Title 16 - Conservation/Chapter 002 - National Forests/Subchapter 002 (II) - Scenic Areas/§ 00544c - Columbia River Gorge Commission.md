@@ -24,7 +24,7 @@
 
 (4) A majority of the members of the Commission shall constitute a quorum. The members of the Commission shall select from among themselves a Chairman by majority vote of the members appointed from each State.
 
-(5) Except for the ex-officio member appointed pursuant to paragraph (1)(C)(iv), the members and officers and employees of the Commission shall not be officers or employees of the United States for any purpose. The Commission shall appoint, fix compensation for, and assign and delegate duties to such officers and employees as the Commission deems necessary to fulfill its functions under sections 544 to 544p of this title. The compensation of Commission members shall be fixed by State law. The compensation of Commission members, officers, and employees and the expenses of the Commission shall be paid from funds provided to the Commission by the States.
+(5) Except for the ex-officio member appointed pursuant to paragraph (1)(C)(iv), the membersand officers and employees of the Commission shall not be officers or employees of the United States for any purpose. The Commission shall appoint, fix compensation for, and assign and delegate duties to such officers and employees as the Commission deems necessary to fulfill its functions under sections 544 to 544p of this title. The compensation of Commission members shall be fixed by State law. The compensation of Commission members, officers, and employees and the expenses of the Commission shall be paid from funds provided to the Commission by the States.
 
 #### (b) Applicable law
 

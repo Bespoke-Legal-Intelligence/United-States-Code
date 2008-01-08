@@ -116,7 +116,7 @@ Nothing in this section may be construed to prevent a public housing agency from
 
 #### (f) De minimis exception to demolition requirements
 
-Notwithstanding any other provision of this section, in any 5-year period a public housingagency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned by the public housing agency, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents or the demolished unit was beyond repair.
+Notwithstanding any other provision of this section, in any 5-year period a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned by the public housing agency, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents or the demolished unit was beyond repair.
 
 #### (g) Uniform Relocation and Real Property Acquisition Act
 
@@ -124,7 +124,7 @@ The Uniform Relocation and Real Property Acquisition Policies Act of 1970 \[42 U
 
 #### (h) Relocation and replacement
 
-Of the amounts appropriated for tenant-based assistance under section 1437f of this title in any fiscal year, the Secretary may use such sums as are necessary for relocation and replacement housing for dwelling units that are demolished and disposed of from the public housing inventory (in addition to other amounts that may be available for such purposes).
+Of the amounts appropriated for tenant-based assistance under section 1437f of this title in anyfiscal year, the Secretary may use such sums as are necessary for relocation and replacement housing for dwelling units that are demolished and disposed of from the public housing inventory (in addition to other amounts that may be available for such purposes).
 
 (Sept. 1, 1937, ch. 896, title I, §18, as added Pub. L. 98–181, title II, §214(a), Nov. 30, 1983, 97 Stat. 1184; amended Pub. L. 100–242, title I, §§112(b)(9), 121, 170(f), Feb. 5, 1988, 101 Stat. 1824, 1837, 1867; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title IV, §412, title V, §§512(a), 513(b), (c), 572, Nov. 28, 1990, 104 Stat. 4159, 4194–4196, 4236; Pub. L. 102–550, title I, §§111(b)(2), 116(a)–(c), Oct. 28, 1992, 106 Stat. 3688, 3693, 3694; Pub. L. 104–19, title I, §1002(a), July 27, 1995, 109 Stat. 235; Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–276, title V, §531(a), Oct. 21, 1998, 112 Stat. 2570.)
 
@@ -182,7 +182,7 @@ Subsecs. (e), (f). Pub. L. 102–550, §116(c), added subsec. (e) and redesignat
 
 1990—Subsec. (a)(2)(A)(i). Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing” wherever appearing.
 
-Subsec. (a)(2)(B). Pub. L. 101–625, §572, substituted “low-income families” for “lower income families” and “low-income housing” for “lower income housing” wherever appearing.
+Subsec. (a)(2)(B). Pub. L. 101–625, §572, substituted “low-income families” for “lower income families” and“low-income housing” for “lower income housing” wherever appearing.
 
 Pub. L. 101–625, §512(a), inserted before first comma “, which, in the case of scattered-site housing of a public housing agency, shall be in an amount that bears the same ratio to the total of such costs and obligations as the number of units disposed of bears to the total number of units of the project at the time of disposition”.
 

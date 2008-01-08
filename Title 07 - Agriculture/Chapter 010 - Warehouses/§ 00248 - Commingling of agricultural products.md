@@ -6,7 +6,7 @@ A warehouse operator may commingle agricultural products in a manner approved by
 
 #### (b) Liability
 
-A warehouse operator shall be severally liable to each depositor or holder for the care and redelivery of the share of the depositor and holderof the commingled agricultural product to the same extent and under the same circumstances as if the agricultural products had been stored separately.
+A warehouse operator shall be severally liable to each depositor or holder for the care and redelivery of the share of the depositor and holder of the commingled agricultural product to the same extent and under the same circumstances as if the agricultural products had been stored separately.
 
 (Aug. 11, 1916, ch. 313, pt. C, §9, as added Pub. L. 106–472, title II, §201, Nov. 9, 2000, 114 Stat. 2065.)
 

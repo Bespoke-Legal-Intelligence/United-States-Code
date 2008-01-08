@@ -46,7 +46,7 @@ The Secretary shall develop guidelines for the conduct of research within the Sy
 
 The Secretary shall take such action as is necessary to promote and coordinate the use of the System for research purposes including—
 
-&emsp;(1) requiring that the National Oceanic and Atmospheric Administration, in conducting or supporting estuarine research, give priority consideration to research that uses the System; and
+&emsp;(1) requiring that the National Oceanic and Atmospheric Administration, in conducting orsupporting estuarine research, give priority consideration to research that uses the System; and
 
 &emsp;(2) consulting with other Federal and State agencies to promote use of one or more reserves within the System by such agencies when conducting estuarine research.
 
@@ -70,7 +70,7 @@ The Secretary shall take such action as is necessary to promote and coordinate t
 
 (B) The amount of the financial assistance provided under paragraph (1)(A)(ii) and (iii) and paragraph (1)(B) may not exceed 70 percent of the costs incurred to achieve the purposes described in those paragraphs with respect to a reserve; except that the amount of the financial assistance provided under paragraph (1)(A)(iii) may be up to 100 percent of any costs for activities that benefit the entire System.
 
-(C) Notwithstanding subparagraphs (A) and (B), financial assistance under this subsection provided from amounts recovered as a result of damage to natural resources located in the coastal zone may be used to pay 100 percent ofthe costs of activities carried out with the assistance.
+(C) Notwithstanding subparagraphs (A) and (B), financial assistance under this subsection provided from amounts recovered as a result of damage to natural resources located in the coastal zone may be used to pay 100 percent of the costs of activities carried out with the assistance.
 
 #### (f) Evaluation of System performance
 
@@ -116,7 +116,7 @@ Subsec. (e)(3)(A). Pub. L. 101–508, §6214(b), (d), substituted “percent” 
 
 Subsec. (e)(3)(B). Pub. L. 101–508, §6214(c), (d), substituted “70 percent” for “50 per centum”, struck out “of subsection (e) of this section” after “paragraph (1)(B)” and inserted before period at end “; except that the amount of the financial assistance provided under paragraph (1)(A)(iii) may be up to 100 percent of any costs for activities that benefit the entire System”.
 
-1986—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: “The Secretary may, in accordance with this section and in accordance with such rules and regulations as the Secretary shall promulgate, make grants to any coastal state for the purpose of—
+1986—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: “The Secretarymay, in accordance with this section and in accordance with such rules and regulations as the Secretary shall promulgate, make grants to any coastal state for the purpose of—
 
 &emsp;“(1) acquiring, developing, or operating estuarine sanctuaries, to serve as natural field laboratories in which to study and gather data on the natural and human processes occurring within the estuaries of the coastal zone; and
 

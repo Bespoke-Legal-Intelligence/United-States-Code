@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), for fiscal year 1994 and subsequent fiscal years, the Secretary may make a grant under section 300x–21 of this title only if the State involved has in effect a law providing that it is unlawful for any manufacturer, retailer, or distributor of tobacco products to sell or distribute any such product to any individual under the age of 18.
+&emsp;Subject to paragraph (2), for fiscal year 1994 and subsequent fiscal years, the Secretary may make a grant under section 300x–21 of thistitle only if the State involved has in effect a law providing that it is unlawful for any manufacturer, retailer, or distributor of tobacco products to sell or distribute any such product to any individual under the age of 18.
 
 #### (2) Delayed applicability for certain States
 

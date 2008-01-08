@@ -18,9 +18,9 @@
 
 &emsp;&emsp;(D) Four private individuals with interests in improving relations between the United States and eligible foreign states, designated by the Librarian of Congress.
 
-&emsp;&emsp;(E) The chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair) and the chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the Senate.
+&emsp;&emsp;(E) The chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives and the chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the Senate.
 
-> &emsp;Each member appointed under this paragraph shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of theterm. Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
+> &emsp;Each member appointed under this paragraph shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of the term. Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
 #### (b) Purpose and authority of the Center
 
@@ -132,7 +132,7 @@ In this section, the term “eligible foreign state” means—
 
 &emsp;(3) any other country that is designated by the Board, except that the Board shall notify the Committees on Appropriations of the Senate and the House of Representatives of the designation at least 90 days before the designation is to take effect.
 
-(Pub. L. 106–554, §1(a)(2) \[title III, §313\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 108–7, div. H, title I, §1401(a), Feb. 20, 2003, 117 Stat. 382; Pub. L. 108–447, div. G, title I, §§1501, 1502, Dec. 8, 2004, 118 Stat. 3192; Pub. L. 109–13, div. A, title III, §3402(b), May 11, 2005, 119 Stat. 272.)
+(Pub. L. 106–554, §1(a)(2) \[title III, §313\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 108–7, div. H, title I, §1401(a), Feb. 20, 2003, 117 Stat. 382; Pub. L. 108–447, div. G, title I, §§1501, 1502, Dec. 8, 2004, 118 Stat. 3192; Pub. L. 109–13, div. A, title III, §3402(b), May 11, 2005, 119 Stat. 272; Pub. L. 109–289, div. B, title II, §20703(d)(6), as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 39.)
 
 #### References in Text
 
@@ -140,7 +140,9 @@ Section 3011 of the 1999 Emergency Supplemental Appropriations Act, referred to 
 
 #### Amendments
 
-2005—Subsec. (a)(2)(E). Pub. L. 109–13 substituted “chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair)” for “chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives”.
+2007—Subsec. (a)(2)(E). Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, §3402(b), and amended this section to read as if Pub. L. 109–13, §3402(b), had not been enacted. See 2005 Amendment note below.
+
+2005—Subsec. (a)(2)(E). Pub. L. 109–13, §3402(b), which substituted “chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair)” for “chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives”, was repealed by Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5. See Construction of 2005 Amendment note below.
 
 2004—Subsec. (a)(2). Pub. L. 108–447, §1502(1), substituted “11 members” for “nine members” in introductory provisions.
 
@@ -150,7 +152,7 @@ Subsec. (j)(3). Pub. L. 108–447, §1501, added par. (3).
 
 2003—Pub. L. 108–7, §1401(a)(1), substituted “Open World Leadership Center” for “Center for Russian Leadership Development” in section catchline.
 
-Subsec. (a)(1). Pub. L. 108–7, §1401(a)(2)(A), substituted “a center to be known as the ‘Open World Leadership Center (the ‘Center’)” for “a center to be known as the ‘Center for Russian Leadership Development’ (the ‘Center’)”.
+Subsec. (a)(1). Pub. L. 108–7, §1401(a)(2)(A), substituted “a center to be known as the ‘Open WorldLeadership Center (the ‘Center’)” for “a center to be known as the ‘Center for Russian Leadership Development’ (the ‘Center’)”.
 
 Subsec. (a)(2). Pub. L. 108–7, §1401(a)(2)(B)(i), inserted “(the ‘Board’)” after “Board of Trustees” in introductory provisions.
 
@@ -175,6 +177,10 @@ Subsec. (j). Pub. L. 108–7, §1401(a)(6), added subsec. (j).
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–7, div. H, title I, §1401(b), Feb. 20, 2003, 117 Stat. 382, provided that: “The amendments made by this section \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Feb. 20, 2003\].”
+
+#### Construction of 2005 Amendment
+
+Pub. L. 109–289, div. B, title II, §20703(d)(6), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 39, provided that: “Section 3402 of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 272) \[amending this section and provisions set out as a note under section 132b of this title\] is repealed, and each provision of law amended by such section is restored as if such section had not been enacted into law.”
 
 #### Russian Leadership Program
 
@@ -270,7 +276,7 @@ Membership.—The Advisory Board under paragraph (1) shall consist of—
 
 &emsp;&emsp;“(A) two members appointed by the Speaker of the House of Representatives, of whom one shall be designated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
 
-&emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate and one shall be designated by the Minority Leader of the Senate;
+&emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate andone shall be designated by the Minority Leader of the Senate;
 
 &emsp;&emsp;“(C) the Librarian of Congress;
 

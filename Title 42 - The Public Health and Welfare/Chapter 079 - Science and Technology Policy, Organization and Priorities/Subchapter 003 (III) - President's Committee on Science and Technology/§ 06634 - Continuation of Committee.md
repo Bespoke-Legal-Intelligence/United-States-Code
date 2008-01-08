@@ -2,7 +2,7 @@
 
 (a) Ninety days after submission of the final report prepared under section 6633 of this title, the Committee shall cease to exist, unless the President, before the expiration of the ninety-day period, makes a determination that it is advantageous for the Committee to continue in being.
 
-(b) If the President determines that it is advantageous for the Committee to continue in being, (1) the Committee shall exercise such functions as are prescribed by the President; and (2) the members of the Committee shall serve at the pleasure of the President.
+(b) If the President determines that it is advantageous for the Committee to continue in being, (1) the Committee shall exercise suchfunctions as are prescribed by the President; and (2) the members of the Committee shall serve at the pleasure of the President.
 
 (Pub. L. 94–282, title III, §304, May 11, 1976, 90 Stat. 470.)
 

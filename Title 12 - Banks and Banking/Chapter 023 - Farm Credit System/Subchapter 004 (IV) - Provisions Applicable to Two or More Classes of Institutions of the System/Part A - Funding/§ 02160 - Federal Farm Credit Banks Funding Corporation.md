@@ -36,7 +36,7 @@ The Corporation—
 
 &emsp;&emsp;(C) Two voting members shall be appointed by the members elected under subparagraphs (A) and (B) after the elected members have received recommendations for such appointments from, and consulted with, the Secretary of the Treasury and the Chairman of the Board of Governors of the Federal Reserve System. The appointed members shall be selected from United States citizens—
 
-&emsp;&emsp;&emsp;(i) who are not borrowers from, shareholders in, or employees or agents of any System institution, who are not affiliated with the Farm Credit Administration, and who are not actively engaged with a bankor investment organization that is a member of the Corporation's selling group for System-wide securities; and
+&emsp;&emsp;&emsp;(i) who are not borrowers from, shareholders in, or employees or agents of any System institution, who are not affiliated with the Farm Credit Administration, and who are not actively engaged with a bank or investment organization that is a member of the Corporation's selling group for System-wide securities; and
 
 &emsp;&emsp;&emsp;(ii) who are experienced or knowledgeable in corporate and public finance, agricultural economics, and financial reporting and disclosure.
 

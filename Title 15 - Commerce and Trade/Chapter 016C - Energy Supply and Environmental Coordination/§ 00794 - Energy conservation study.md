@@ -2,7 +2,7 @@
 
 #### (a) Study of conservation methods
 
-The Federal Energy Administrator shall conduct a study on potential methods of energy conservation and, not later than six months after June 22, 1974, shall submit to Congress a report on the results of such study. The study shall include, but not be limited to, the following:
+The Federal Energy Administrator shall conduct a study on potential methods of energy conservation and, not later than six months after June 22, 1974, shall submit to Congress areport on the results of such study. The study shall include, but not be limited to, the following:
 
 &emsp;(1) the energy conservation potential of restricting exports of fuels or energy-intensive products, or goods, including an analysis of balance-of-payments and foreign relations implications of any such restrictions;
 

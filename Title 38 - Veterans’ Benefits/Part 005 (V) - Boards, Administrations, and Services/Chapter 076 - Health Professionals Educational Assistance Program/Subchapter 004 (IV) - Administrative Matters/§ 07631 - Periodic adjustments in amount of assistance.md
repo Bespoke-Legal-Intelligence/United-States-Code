@@ -6,7 +6,7 @@
 
 (b) For purposes of this section:
 
-&emsp;(1) The term “maximum monthly stipend amount” means the maximum monthly stipend that may be paid to a participant in the Scholarship Program specified in section 7613(b) of this title and as previously adjusted (if at all) in accordance with this section.
+&emsp;(1) The term “maximum monthly stipend amount” means the maximum monthly stipend that may be paid to a participant in the Scholarship Program specified in section7613(b) of this title and as previously adjusted (if at all) in accordance with this section.
 
 &emsp;(2) The term “maximum tuition reimbursement amount” means the maximum amount of tuition reimbursement provided to a participant in the Tuition Reimbursement Program specified in section 7622(e) of this title and as previously adjusted (if at all) in accordance with this section.
 

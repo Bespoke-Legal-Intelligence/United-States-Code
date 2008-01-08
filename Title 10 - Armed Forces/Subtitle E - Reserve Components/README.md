@@ -10,7 +10,7 @@
 | [<b>1006.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201006%20-%20Reserve%20Component%20Commands/README.md) | <b>Reserve Component Commands</b> | <b>10171</b> |
 | [<b>1007.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201007%20-%20Administration%20of%20Reserve%20Components/README.md) | <b>Administration of Reserve Components</b> | <b>10201</b> |
 | [<b>1009.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201009%20-%20Reserve%20Forces%20Policy%20Boards%20and%20Committees/README.md) | <b>Reserve Forces Policy Boards and Committees</b> | <b>10301</b> |
-| <b>1011.</b> | <b>National Guard Bureau</b> | <b>10501</b> |
+| [<b>1011.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201011%20-%20National%20Guard%20Bureau/README.md) | <b>National Guard Bureau</b> | <b>10501</b> |
 | [<b>1013.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20Administration/Chapter%201013%20-%20Budget%20Information%20and%20Annual%20Reports%20to%20Congress/README.md) | <b>Budget Information and Annual Reports to Congress</b> | <b>10541</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,7 +41,6 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>1401.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201401%20-%20Applicability%20and%20Reserve%20Active-Status%20Lists/README.md) | <b>Applicability and Reserve Active-Status Lists</b> | <b>14001</b> |
-| Chap. |  | Sec. |
 | [<b>1403.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201403%20-%20Selection%20Boards/README.md) | <b>Selection Boards</b> | <b>14101</b> |
 | [<b>1405.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201405%20-%20Promotions/README.md) | <b>Promotions</b> | <b>14301</b> |
 | [<b>1407.</b>](Part%20003%20%28III%29%20-%20Promotion%20and%20Retention%20of%20Officers%20on%20the%20Reserve%20Active-Status%20List/Chapter%201407%20-%20Failure%20of%20Selection%20for%20Promotion%20and%20Involuntary%20Separation/README.md) | <b>Failure of Selection for Promotion and Involuntary Separation</b> | <b>14501</b> |

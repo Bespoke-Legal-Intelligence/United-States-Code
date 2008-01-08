@@ -64,7 +64,7 @@ Effective July 1, 1974, no defense article shall be furnished to any country on 
 
 (2)(A) No agency performing functions under this part shall, in employing or assigning personnel to participate in the performance of any such function, whether in the United States or abroad, take into account the exclusionary policies or practices of any foreign government where such policies or practices are based upon race, religion, national origin, or sex.
 
-(B) Each contract entered into by any such agency for the performance of any function under this part shall contain a provision to the effect that no person, partnership, corporation, or other entity performing functions pursuant to such contract, shall, in employing or assigning personnel to participate in the performanceof any such function, whether in the United States or abroad, take into account the exclusionary policies or practices of any foreign government where such policies or practices are based upon race, religion, national origin, or sex.
+(B) Each contract entered into by any such agency for the performance of any function under this part shall contain a provision to the effect that no person, partnership, corporation, or other entity performing functions pursuant to such contract, shall, in employing or assigning personnel to participate in the performance of any such function, whether in the United States or abroad, take into account the exclusionary policies or practices of any foreign government where such policies or practices are based upon race, religion, national origin, or sex.
 
 (3) The President shall promptly transmit reports to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate concerning any transaction in which any United States person (as defined in section 7701(a)(30) of title 26) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the furnishing of assistance under this part, or education and training under part V of this subchapter, to any foreign country. Such reports shall include (A) a description of the facts and circumstances of any such discrimination, (B) the response thereto on the part of the United States or any agency or employee thereof, and (C) the result of such response, if any.
 
@@ -133,10 +133,6 @@ Subsec. (e). Pub. L. 92–226, §201(c), repealed provisions respecting conditio
 1966—Subsec. (e). Pub. L. 89–583 added subsec. (e).
 
 1962—Subsecs. (c), (d). Pub. L. 87–565 added subsecs. (c) and (d).
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

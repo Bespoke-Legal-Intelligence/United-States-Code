@@ -16,7 +16,7 @@
 
 &emsp;Notwithstanding paragraph (1)—
 
-&emsp;&emsp;(A) if a tolerance is in effect under this section for a pesticide chemical residue in or on a raw agricultural commodity, a pesticide chemical residue that is present in or on a processed food because the food is madefrom that raw agricultural commodity shall not be considered unsafe within the meaning of section 342(a)(2)(B) of this title despite the lack of a tolerance for the pesticide chemical residue in or on the processed food if the pesticide chemical has been used in or on the raw agricultural commodity in conformity with a tolerance under this section, such residue in or on the raw agricultural commodity has been removed to the extent possible in good manufacturing practice, and the concentration of the pesticide chemical residue in the processed food is not greater than the tolerance prescribed for the pesticide chemical residue in the raw agricultural commodity; or
+&emsp;&emsp;(A) if a tolerance is in effect under this section for a pesticide chemical residue in or on a raw agricultural commodity, a pesticide chemical residue that is present in or on a processed food because the food is made from that raw agricultural commodity shall not be considered unsafe within the meaning of section 342(a)(2)(B) of this title despite the lack of a tolerance for the pesticide chemical residue in or on the processed food if the pesticide chemical has been used in or on the raw agricultural commodity in conformity with a tolerance under this section, such residue in or on the raw agricultural commodity has been removed to the extent possible in good manufacturing practice, and the concentration of the pesticide chemical residue in the processed food is not greater than the tolerance prescribed for the pesticide chemical residue in the raw agricultural commodity; or
 
 &emsp;&emsp;(B) if an exemption for the requirement for a tolerance is in effect under this section for a pesticide chemical residue in or on a raw agricultural commodity, a pesticide chemical residue that is present in or on a processed food because the food is made from that raw agricultural commodity shall not be considered unsafe within the meaning of section 342(a)(2)(B) of this title.
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the Administrator is not able to identify a level of exposure to the residue at which the residue will not cause or contribute to a known or anticipated harm to human health (referred to in this section as a “nonthreshold effect”);
 
-&emsp;&emsp;&emsp;&emsp;(II) the lifetime risk of experiencing the nonthreshold effect is appropriately assessed by quantitative risk assessment; and
+&emsp;&emsp;&emsp;&emsp;(II) the lifetime risk of experiencing the nonthreshold effect is appropriatelyassessed by quantitative risk assessment; and
 
 &emsp;&emsp;&emsp;&emsp;(III) with regard to any known or anticipated harm to human health for which the Administrator is able to identify a level at which the residue will not cause such harm (referred to in this section as a “threshold effect”), the Administrator determines that the level of aggregate exposure is safe.
 
@@ -132,7 +132,7 @@
 
 #### (D) Factors
 
-&emsp;&emsp;In establishing, modifying, leaving in effect, or revoking a tolerance or exemption for a pesticide chemical residue, the Administrator shall consider, among other relevant factors—
+&emsp;&emsp;In establishing, modifying, leaving in effect, or revoking a tolerance or exemptionfor a pesticide chemical residue, the Administrator shall consider, among other relevant factors—
 
 &emsp;&emsp;&emsp;(i) the validity, completeness, and reliability of the available data from studies of the pesticide chemical and pesticide chemical residue;
 
@@ -266,7 +266,7 @@
 
 &emsp;&emsp;&emsp;(xiii) such other data and information as the Administrator requires by regulation to support the petition.
 
-> &emsp;&emsp;If information or data required by this subparagraph is available to the Administrator, the person submitting the petition may cite the availability of the information or data in lieu of submitting it. The Administrator may require a petition to be accompanied by samples of the pesticide chemical with respect to which the petition is filed.
+> &emsp;&emsp;If information or data required by this subparagraph is available to the Administrator, the person submitting the petition may cite the availability of the information or data in lieu of submitting it. The Administratormay require a petition to be accompanied by samples of the pesticide chemical with respect to which the petition is filed.
 
 #### (B) Modification or revocation
 
@@ -332,7 +332,7 @@
 
 &emsp;&emsp;&emsp;(i) requiring the submission to the Administrator by one or more interested persons of a notice identifying the person or persons who will submit the required data and information;
 
-&emsp;&emsp;&emsp;(ii) describing the type of data and information required to be submitted to the Administrator and stating why the data and information could not be obtained under the authority of section 3(c)(2)(B) of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136a(c)(2)(B)\] or section4 of the Toxic Substances Control Act \[15 U.S.C. 2603\];
+&emsp;&emsp;&emsp;(ii) describing the type of data and information required to be submitted to the Administrator and stating why the data and information could not be obtained under the authority of section 3(c)(2)(B) of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136a(c)(2)(B)\] or section 4 of the Toxic Substances Control Act \[15 U.S.C. 2603\];
 
 &emsp;&emsp;&emsp;(iii) describing the reports of the Administrator required to be prepared during and after the collection of the data and information;
 
@@ -374,7 +374,7 @@
 
 #### (2) Record and jurisdiction
 
-&emsp;A copy of the petition under paragraph (1) shall be forthwith transmitted by the clerk of the court to the Administrator, or any officer designated by the Administrator for that purpose, and thereupon the Administrator shall file in the court the record of the proceedings on which the Administrator based the order or regulation, as provided in section 2112 of title 28. Upon the filing of such a petition, the court shall have exclusive jurisdiction to affirm or set aside the order or regulation complained of in whole or in part. As to orders issued following a public evidentiary hearing, the findings of the Administrator with respect to questions of fact shall be sustained only if supported bysubstantial evidence when considered on the record as a whole.
+&emsp;A copy of the petition under paragraph (1) shall be forthwith transmitted by the clerk of the court to the Administrator, or any officer designated by the Administrator for that purpose, and thereupon the Administrator shall file in the court the record of the proceedings on which the Administrator based the order or regulation, as provided in section 2112 of title28. Upon the filing of such a petition, the court shall have exclusive jurisdiction to affirm or set aside the order or regulation complained of in whole or in part. As to orders issued following a public evidentiary hearing, the findings of the Administrator with respect to questions of fact shall be sustained only if supported by substantial evidence when considered on the record as a whole.
 
 #### (3) Additional evidence
 
@@ -474,7 +474,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (5) Pesticide residues resulting from lawful application of pesticide
 
-&emsp;Notwithstanding any other provision of this chapter, if a tolerance or exemption for a pesticide chemical residue in or on a food has been revoked, suspended, or modified under this section, an article of that food shall not be deemed unsafe solely because of the presence of such pesticide chemical residue in oron such food if it is shown to the satisfaction of the Secretary that—
+&emsp;Notwithstanding any other provision of this chapter, if a tolerance or exemption for a pesticide chemical residue in or on a food has been revoked, suspended, or modified underthis section, an article of that food shall not be deemed unsafe solely because of the presence of such pesticide chemical residue in or on such food if it is shown to the satisfaction of the Secretary that—
 
 &emsp;&emsp;(A) the residue is present as the result of an application or use of a pesticide at a time and in a manner that was lawful under the Federal Insecticide, Fungicide, and Rodenticide Act; and
 
@@ -506,6 +506,10 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 &emsp;All fees collected under paragraph (1) shall be deposited in the Reregistration and Expedited Processing Fund created by section 4(k) of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136a–1(k)\]. Such fees shall be available to the Administrator, without fiscal year limitation, for the performance of the Administrator's services or functions as specified in paragraph (1).
 
+#### (3) Prohibition
+
+&emsp;During the period beginning on October 1, 2007, and ending on September 30, 2012, the Administrator shall not collect any tolerance fees under paragraph (1).
+
 #### (n) National uniformity of tolerances
 
 #### (1) “Qualifying pesticide chemical residue” defined
@@ -528,7 +532,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (3) Limitation
 
-&emsp;The Administrator may make the determination described in paragraph (2)(B)(ii) only by issuing a rule in accordance with the procedure set forth in subsection (d) or (e) of this section and only if the Administrator issues a proposed rule and allows a period of not less than 30 days for comment on the proposed rule. Any such rule shall be reviewable in accordance with subsections (g) and (h) of this section.
+&emsp;The Administrator may make the determination described in paragraph (2)(B)(ii) onlyby issuing a rule in accordance with the procedure set forth in subsection (d) or (e) of this section and only if the Administrator issues a proposed rule and allows a period of not less than 30 days for comment on the proposed rule. Any such rule shall be reviewable in accordance with subsections (g) and (h) of this section.
 
 #### (4) State authority
 
@@ -682,7 +686,7 @@ The Administrator may, upon the request of any person who has obtained an experi
 
 Nothing in this section shall be construed to amend or modify the provisions of the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] or the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
 
-(June 25, 1938, ch. 675, §408, as added July 22, 1954, ch. 559, §3, 68 Stat. 511; amended Pub. L. 85–791, §20, Aug. 28, 1958, 72 Stat. 947; Pub. L. 91–515, title VI, §601(d)(1), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–157, title III, §303(a), Nov. 18, 1971, 85 Stat. 464; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 98–620, title IV, §402(25)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(7), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(k), Aug. 13, 1993, 107 Stat. 776; Pub. L. 104–170, title IV, §405, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 105–324, §2(b), Oct. 30, 1998, 112 Stat. 3036.)
+(June 25, 1938, ch. 675, §408, as added July 22, 1954, ch. 559, §3, 68 Stat. 511; amended Pub. L. 85–791, §20, Aug. 28, 1958, 72 Stat. 947; Pub. L. 91–515, title VI, §601(d)(1), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–157, title III, §303(a), Nov. 18, 1971, 85 Stat. 464; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 98–620, title IV, §402(25)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(7), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(k), Aug. 13, 1993, 107 Stat. 776; Pub. L. 104–170, title IV, §405, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 105–324, §2(b), Oct. 30, 1998, 112 Stat. 3036; Pub. L. 110–94, §4(d)(2), Oct. 9, 2007, 121 Stat. 1002.)
 
 #### References in Text
 
@@ -702,9 +706,11 @@ August 3, 1996, referred to in subsecs. (k), (n)(1)(B), (2)(A), and (p)(1), (2),
 
 #### Amendments
 
+2007—Subsec. (m)(3). Pub. L. 110–94 added par. (3).
+
 1998—Subsec. (j)(4). Pub. L. 105–324 added par. (4).
 
-1996—Pub. L. 104–170 amended section generally, substituting, in subsec. (a), provisions relating to requirement for tolerance or exemption for provisions relating to conditions for safety; in subsec. (b), provisions relating to authority and standard for tolerance for provisions relating to establishment of tolerances; in subsec. (c), provisions relating to authority and standard for exemptions for provisions relating to exemptions; in subsec. (d), provisions relating to petition for tolerance or exemption for provisions relating to regulations pursuant to petition, publication of notice, time for issuance, referral to advisory committees, effective date, and hearings; in subsec. (e), provisions relating to action on Administrator's own initiative for provisions relating to regulations pursuant to Administrator'sproposals; in subsec. (f), provisions relating to special data requirements for provisions relating to data submitted as confidential; in subsec. (g), provisions relating to effective date, objections, hearings, and administrative review for provisions relating to advisory committees and their appointment, composition, compensation, and clerical assistance; in subsec. (h), provisions relating to judicial review for provisions relating to right of consultation; in subsec. (i), provisions relating to confidentiality and use of data for provisions relating to judicial review; in subsec. (j), provisions relating to status of previously issued regulations for provisions relating to temporary tolerances; in subsec. (k), provisions relating to transitions for provisions relating to regulations based on public hearings before January 1, 1953; in subsec. (<i>l</i>), provisions relating to harmonization with action under other laws for provisions relating to pesticides under Federal Insecticide, Fungicide, and Rodenticide Act, functions of Administrator of Environmental Protection Agency, certifications, hearings, time limitations, opinions, and regulations; in subsec. (m), provisions relating to fees for provisions relating to amendment of regulations; in subsec. (n), provisions relating to national uniformity of tolerances for provisions relating to guaranties; in subsec. (<i>o</i>), provisions relating to consumer right to know for provisions relating to payment of fees, services or functions conditioned on payment, and waiver or refund of fees; and adding subsecs. (p) to (s).
+1996—Pub. L. 104–170 amended section generally, substituting, in subsec. (a), provisions relating to requirement for tolerance or exemption for provisions relating to conditions for safety; in subsec. (b), provisions relating to authority and standard for tolerance for provisions relating to establishment of tolerances; in subsec. (c), provisions relating to authority and standard for exemptions for provisions relating to exemptions; in subsec. (d), provisions relating to petition for tolerance or exemption for provisions relating to regulations pursuant to petition, publication of notice, time for issuance, referral to advisory committees, effective date, and hearings; in subsec. (e), provisions relating to action on Administrator's own initiative for provisions relating to regulations pursuant to Administrator's proposals; in subsec. (f), provisions relating to special data requirements for provisions relating to data submitted as confidential; in subsec. (g), provisions relating to effective date, objections, hearings, and administrative review for provisions relating to advisory committees and their appointment, composition, compensation, and clerical assistance; in subsec. (h), provisions relating to judicial review for provisions relating to right of consultation; in subsec. (i), provisions relating to confidentiality and use of data for provisions relating to judicial review; in subsec. (j), provisions relating to status of previously issued regulations for provisions relating to temporary tolerances; in subsec. (k), provisions relating to transitions for provisions relating to regulations based on public hearings before January 1, 1953; in subsec. (<i>l</i>), provisions relating to harmonization with action under other laws for provisions relating to pesticides under Federal Insecticide, Fungicide, and Rodenticide Act, functions of Administrator of Environmental Protection Agency, certifications, hearings, time limitations, opinions, and regulations; in subsec. (m), provisions relating to fees for provisions relating to amendment of regulations; in subsec. (n), provisions relating to national uniformity of tolerances for provisions relating to guaranties; in subsec. (<i>o</i>), provisions relating to consumer right to know for provisions relating to payment of fees, services or functions conditioned on payment, and waiver or refund of fees; and adding subsecs. (p) to (s).
 
 1993—Pub. L. 103–80, §3(k)(6), substituted “Administrator” for “Secretary” wherever appearing except when followed by “of Agriculture”.
 
@@ -733,6 +739,10 @@ Subsec. (g). Pub. L. 102–571 substituted “379e” for “376”.
 1958—Subsec. (i)(2). Pub. L. 85–791, §20(a), in first sentence, substituted “transmitted by the clerk of the court to the Secretary, or” for “served upon the Secretary, or upon”, substituted “file in the court the record of the proceedings” for “certify and file in the court a transcript of the proceedings and the record”, and inserted “as provided in section 2112 of title 28”, and which, in second sentence, substituted “the filing of such petition” for “such filing”.
 
 Subsec. (i)(3). Pub. L. 85–791, §20(b), in first sentence, substituted “transmitted by the clerk of the court to the Secretary of Agriculture, or” for “served upon the Secretary of Agriculture, or upon”, substituted “file in the court the record of the proceedings” for “certify and file in the court a transcript of the proceedings and the record”, and inserted “as provided in section 2112 of title 28”, and, in second sentence, substituted “the filing of such petition” for “such filing”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–94 effective Oct. 1, 2007, see section 6 of Pub. L. 110–94, set out as a note under section 136a of Title 7, Agriculture.
 
 #### Effective Date of 1984 Amendment
 

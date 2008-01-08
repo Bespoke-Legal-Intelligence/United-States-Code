@@ -2,7 +2,7 @@
 
 #### (a) Collection of information
 
-Within nine months after October 11, 1996, the Secretary shall, after consultation with the Gulf Council and South Atlantic Council, conclude the collection of information in the program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of such Councils. Within the same time period, the Secretary shall make available to the public aggregated summaries of information collected prior to June 30, 1994 under such program.
+Within nine months after October 11, 1996, the Secretary shall, after consultation with the GulfCouncil and South Atlantic Council, conclude the collection of information in the program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of such Councils. Within the same time period, the Secretary shall make available to the public aggregated summaries of information collected prior to June 30, 1994 under such program.
 
 #### (b) Identification of stock
 
@@ -49,4 +49,8 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, me
 #### Prior Provisions
 
 A prior section 405 of Pub. L. 94–265, amended section 971 of this title and enacted provisions formerly set out as a note under section 971 of this title, prior to being amended generally by Pub. L. 104–297.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

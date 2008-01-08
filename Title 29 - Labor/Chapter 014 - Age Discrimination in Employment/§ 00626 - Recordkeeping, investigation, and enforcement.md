@@ -2,7 +2,7 @@
 
 #### (a) Attendance of witnesses; investigations, inspections, records, and homework regulations
 
-The Equal Employment Opportunity Commission shall have the power to make investigations and require the keeping of records necessary or appropriate for the administration of this chapter in accordance with the powers and procedures provided in sections 209 and 211 of this title.
+The Equal Employment Opportunity Commission shall have the power to make investigations and require the keeping of records necessary or appropriate for the administration ofthis chapter in accordance with the powers and procedures provided in sections 209 and 211 of this title.
 
 #### (b) Enforcement; prohibition of age discrimination under fair labor standards; unpaid minimum wages and unpaid overtime compensation; liquidated damages; judicial relief; conciliation, conference, and persuasion
 
@@ -48,7 +48,7 @@ Section 259 of this title shall apply to actions under this chapter. If a charge
 
 &emsp;(G) the agreement provides that for a period of at least 7 days following the execution of such agreement, the individual may revoke the agreement, and the agreement shall not become effective or enforceable until the revocation period has expired;
 
-&emsp;(H) if a waiver is requested in connection with an exit incentive or other employment termination program offered to a group or class of employees, the employer (at the commencement of the period specified in subparagraph (F)) informs the individual in writing in a manner calculated to be understood by the average individual eligible to participate, as to—
+&emsp;(H) if a waiver is requested in connection with an exit incentive or other employment termination program offered to a group or class of employees, the employer (at the commencement of the period specified in subparagraph (F)) informs the individual in writing in a manner calculated to be understood by theaverage individual eligible to participate, as to—
 
 &emsp;&emsp;(i) any class, unit, or group of individuals covered by such program, any eligibility factors for such program, and any time limits applicable to such program; and
 

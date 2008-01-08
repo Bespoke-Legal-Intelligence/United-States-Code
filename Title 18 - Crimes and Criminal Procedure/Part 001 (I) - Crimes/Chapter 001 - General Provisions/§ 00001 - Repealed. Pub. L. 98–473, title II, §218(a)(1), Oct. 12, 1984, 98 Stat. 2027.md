@@ -6,7 +6,15 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–179, §1, Jan. 7, 2008, 121 Stat. 2556, provided that: “This Act \[enacting section 1040 of this title, amending sections 1341 and 1343 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007’.”
+
 #### Short Title of 2007 Amendment
+
+Pub. L. 110–151, §1, Dec. 21, 2007, 121 Stat. 1821, provided that: “This Act \[amending section 1091 of this title\] may be cited as the ‘Genocide Accountability Act of 2007’.”
+
+Pub. L. 110–22, §1, May 3, 2007, 121 Stat. 88, provided that: “This Act \[enacting section 49 of this title and amending section 2156 of Title 7, Agriculture\] may be cited as the ‘Animal Fighting Prohibition Enforcement Act of 2007’.”
 
 Pub. L. 109–481, §1, Jan. 12, 2007, 120 Stat. 3673, provided that: “This Act \[enacting section 706a of this title\] may be cited as the ‘Geneva Distinctive Emblems Protection Act of 2006’.”
 
@@ -38,7 +46,7 @@ Pub. L. 109–177, title VI, §601, Mar. 9, 2006, 120 Stat. 251, provided that: 
 
 Pub. L. 108–458, title VI, §6701, Dec. 17, 2004, 118 Stat. 3764, provided that: “This subtitle \[subtitle H (§§6701–6704) of title VI of Pub. L. 108–458, enacting section 1038 of this title, amending sections 1001, 1505, and 1958 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Stop Terrorist and Military Hoaxes Act of 2004’.”
 
-Pub. L. 108–458, title VI, §6801, Dec. 17, 2004, 118 Stat. 3766, provided that: “This subtitle \[subtitle I\(§§6801–6803) of title VI of Pub. L. 108–458, enacting section 832 of this title, amending sections 175b, 1961, 2332a, and 2332b of this title and sections 2077 and 2122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175b of this title\] may be cited as the ‘Weapons of Mass Destruction Prohibition Improvement Act of 2004’.”
+Pub. L. 108–458, title VI, §6801, Dec. 17, 2004, 118 Stat. 3766, provided that: “This subtitle \[subtitle I (§§6801–6803) of title VI of Pub. L. 108–458, enacting section 832 of this title, amending sections 175b, 1961, 2332a, and 2332b of this title and sections 2077 and 2122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175b of this title\] may be cited as the ‘Weapons of Mass Destruction Prohibition Improvement Act of 2004’.”
 
 Pub. L. 108–458, title VI, §6901, Dec. 17, 2004, 118 Stat. 3769, provided that: “This subtitle \[subtitle J (§§6901–6911) of title VI of Pub. L. 108–458, enacting sections 175c, 2332g, and 2332h of this title, amending sections 1956, 2332b, and 2516 of this title, section 2778 of Title 22, Foreign Relations and Intercourse, and sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175c of this title\] may be cited as the ‘Prevention of Terrorist Access to Destructive Weapons Act of 2004’.”
 

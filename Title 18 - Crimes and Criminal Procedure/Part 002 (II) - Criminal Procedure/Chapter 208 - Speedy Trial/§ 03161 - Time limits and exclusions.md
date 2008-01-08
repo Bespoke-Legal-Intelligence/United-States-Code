@@ -2,7 +2,7 @@
 
 (a) In any case involving a defendant charged with an offense, the appropriate judicial officer, at the earliest practicable time, shall, after consultation with the counsel for the defendant and the attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
 
-(b) Any information or indictment charging an individual with the commission of an offense shall be filed within thirty days from the date on which such individual was arrested or served with a summons in connection with such charges. If an individual has been charged with a felony in a district in which no grand jury has been in session during such thirty-day period, the period of time for filing of the indictment shall be extended an additional thirty days.
+(b) Any information or indictment charging an individual with the commission of an offenseshall be filed within thirty days from the date on which such individual was arrested or served with a summons in connection with such charges. If an individual has been charged with a felony in a district in which no grand jury has been in session during such thirty-day period, the period of time for filing of the indictment shall be extended an additional thirty days.
 
 (c)(1) In any case in which a plea of not guilty is entered, the trial of a defendant charged in an information or indictment with the commission of an offense shall commence within seventy days from the filing date (and making public) of the information or indictment, or from the date the defendant has appeared before a judicial officer of the court in which such charge is pending, whichever date last occurs. If a defendant consents in writing to be tried before a magistrate judge on a complaint, the trial shall commence within seventy days from the date of such consent.
 
@@ -18,7 +18,7 @@
 
 (g) Notwithstanding the provisions of subsection (c) of this section, for the first twelve-calendar-month period following the effective date of this section as set forth in section 3163(b) of this chapter, the time limit with respect to the period between arraignment and trial imposed by subsection (c) of this section shall be one hundred and eighty days, for the second such twelve-month period such time limit shall be one hundred and twenty days, and for the third such period such time limit with respect to the period between arraignment and trial shall be eighty days.
 
-(h) The following periods of delay shall be excluded in computing the time within which aninformation or an indictment must be filed, or in computing the time within which the trial of any such offense must commence:
+(h) The following periods of delay shall be excluded in computing the time within which an information or an indictment must be filed, or in computing the time within which the trial of any such offense must commence:
 
 &emsp;(1) Any period of delay resulting from other proceedings concerning the defendant, including but not limited to—
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(G) delay resulting from any proceeding relating to the transfer of a case or the removal of any defendant from another district under the Federal Rules of Criminal Procedure;
 
-&emsp;&emsp;(H) delay resulting from transportation of any defendant from another district, or to and from places of examination or hospitalization, except that any time consumed in excess of ten days from the date an order of removal or an order directing such transportation, and the defendant's arrival at the destination shall be presumed to be unreasonable;
+&emsp;&emsp;(H) delay resulting from transportation of any defendant from another district, or to and from places of examination or hospitalization, except that any time consumed in excess of ten days from the date an orderof removal or an order directing such transportation, and the defendant's arrival at the destination shall be presumed to be unreasonable;
 
 &emsp;&emsp;(I) delay resulting from consideration by the court of a proposed plea agreement to be entered into by the defendant and the attorney for the Government; and
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(iii) Whether, in a case in which arrest precedes indictment, delay in the filing of the indictment is caused because the arrest occurs at a time such that it is unreasonable to expect return and filing of the indictment within the period specified in section 3161(b), or because the facts upon which the grand jury must base its determination are unusual or complex.
 
-&emsp;&emsp;(iv) Whether the failure to grant such a continuance in a case which, taken as a whole, is not so unusual or so complex as to fall within clause (ii), would deny the defendant reasonable time to obtain counsel,would unreasonably deny the defendant or the Government continuity of counsel, or would deny counsel for the defendant or the attorney for the Government the reasonable time necessary for effective preparation, taking into account the exercise of due diligence.
+&emsp;&emsp;(iv) Whether the failure to grant such a continuance in a case which, taken as a whole, is not so unusual or so complex as to fall within clause (ii), would deny the defendant reasonable time to obtain counsel, would unreasonably deny the defendant or the Government continuity of counsel, or would deny counsel for the defendant or the attorney for the Government the reasonable time necessary for effective preparation, taking into account the exercise of due diligence.
 
 &emsp;(C) No continuance under subparagraph (A) of this paragraph shall be granted because of general congestion of the court's calendar, or lack of diligent preparation or failure to obtain available witnesses on the part of the attorney for the Government.
 
@@ -126,7 +126,7 @@ Words “magistrate judge” substituted for “magistrate” in subsec. (c)(1) 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–473 effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set outas an Effective Date note under section 3505 of this title.
+Amendment by Pub. L. 98–473 effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set out as an Effective Date note under section 3505 of this title.
 
 #### Short Title of 1979 Amendment
 

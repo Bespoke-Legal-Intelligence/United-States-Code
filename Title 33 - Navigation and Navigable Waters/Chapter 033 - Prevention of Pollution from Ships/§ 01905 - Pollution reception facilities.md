@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 100–220, §2103(c), amended subsec. (c) generally. Prior 
 
 &emsp;“(2) shall be available for inspection upon the request of the master, other person in charge, or agent of a seagoing ship using or intending to use the port or terminal.
 
-> The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by him in the manner prescribed by regulation.”
+> The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretaryand acted on by him in the manner prescribed by regulation.”
 
 Subsec. (e). Pub. L. 100–220, §2103(d), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
 

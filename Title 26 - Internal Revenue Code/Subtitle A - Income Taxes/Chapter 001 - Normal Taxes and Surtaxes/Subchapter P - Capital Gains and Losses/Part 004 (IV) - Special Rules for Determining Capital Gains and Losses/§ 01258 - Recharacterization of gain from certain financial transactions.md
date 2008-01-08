@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;&emsp;If any position with a built-in loss becomes part of a conversion transaction—
 
-&emsp;&emsp;&emsp;(i) for purposes of applying this subtitle to such position for periods after such position becomes part of such transaction, such position shall be taken into accountat its fair market value as of the time it became part of such transaction, except that
+&emsp;&emsp;&emsp;(i) for purposes of applying this subtitle to such position for periods after such position becomes part of such transaction, such position shall be taken into account at its fair market value as of the time it became part of such transaction, except that
 
 &emsp;&emsp;&emsp;(ii) upon the disposition or other termination of such position in a transaction in which gain or loss is recognized, such built-in loss shall be recognized and shall have a character determined without regard to this section.
 

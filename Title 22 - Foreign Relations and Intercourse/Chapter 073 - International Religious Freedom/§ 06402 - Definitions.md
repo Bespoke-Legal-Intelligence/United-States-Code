@@ -60,7 +60,7 @@ In this chapter:
 
 #### (12) Special Adviser
 
-&emsp;The term “Special Adviser” means the Special Adviser to the President on International Religious Freedom described in section 402(i) of title 50.
+&emsp;The term “Special Adviser” means the Special Adviser to the President on International Religious Freedom described in section 402(i) of title 50.<sup>2</sup>
 
 #### (13) Violations of religious freedom
 
@@ -86,7 +86,11 @@ In this chapter:
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 
+Section 402(i) of title 50, referred to in par. (12), was redesignated section 402(k) by Pub. L. 110–53, title XVIII, §1841(g)(1), Aug. 3, 2007, 121 Stat. 500.
+
 #### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

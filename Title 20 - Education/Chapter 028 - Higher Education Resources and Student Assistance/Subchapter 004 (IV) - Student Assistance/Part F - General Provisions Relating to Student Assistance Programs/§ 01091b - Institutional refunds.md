@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;After determining the eligibility of the student for a late disbursement or post-withdrawal disbursement (as required in regulations prescribed by the Secretary), the institution of higher education shall contact the borrower and obtain confirmation that the loan funds are still required by the borrower. In making such contact, the institution shall explain to the borrower the borrower'sobligation to repay the funds following any such disbursement. The institution shall document in the borrower's file the result of such contact and the final determination made concerning such disbursement.
+&emsp;&emsp;After determining the eligibility of the student for a late disbursement or post-withdrawal disbursement (as required in regulations prescribed by the Secretary), the institution of higher education shall contact the borrower and obtain confirmation that the loan funds are still required by the borrower. In making such contact, the institution shall explain to the borrower the borrower's obligation to repay the funds following any such disbursement. The institution shall document in the borrower's file the result of such contact and the final determination made concerning such disbursement.
 
 #### (B) Return
 
@@ -128,7 +128,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment forwhich a return of funds is required. Such excess funds shall be credited in the following order:
+&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
 
 &emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title for the payment period or period of enrollment for which a return of funds is required.
 
@@ -214,7 +214,7 @@ Subsec. (a)(3)(B)(ii). Pub. L. 109–171, §8022(2), inserted “(as determined 
 
 Subsec. (a)(3)(C)(i). Pub. L. 109–171, §8022(3), substituted “grant assistance under subparts 1 and 3 of part A, or loan assistance under parts B, C, and D,” for “grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42”.
 
-Subsec. (a)(4)(A). Pub. L. 109–171, §8022(4), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “If the student has received less grant or loan assistance than the amount earned as calculated under subparagraph (A) of paragraph (3), the institution of higher education shall comply with the procedures for late disbursement specified by the Secretary in regulations.”
+Subsec. (a)(4)(A). Pub. L. 109–171, §8022(4), amended heading and text of subpar. (A) generally. Prior toamendment, text read as follows: “If the student has received less grant or loan assistance than the amount earned as calculated under subparagraph (A) of paragraph (3), the institution of higher education shall comply with the procedures for late disbursement specified by the Secretary in regulations.”
 
 Subsec. (b)(1). Pub. L. 109–171, §8022(5), inserted “not later than 45 days from the determination of withdrawal” after “return” in introductory provisions.
 

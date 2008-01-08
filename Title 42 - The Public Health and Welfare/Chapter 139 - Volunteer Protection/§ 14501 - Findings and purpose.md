@@ -30,7 +30,7 @@ The Congress finds and declares that—
 
 #### (b) Purpose
 
-The purpose of this chapter is to promote the interests of social service program beneficiaries and taxpayers and to sustain the availability of programs, nonprofit organizations, and governmental entities that depend on volunteer contributions by reforming the laws to provide certain protections from liability abuses related tovolunteers serving nonprofit organizations and governmental entities.
+The purpose of this chapter is to promote the interests of social service program beneficiaries and taxpayers and to sustain the availability of programs, nonprofit organizations, and governmental entities that depend on volunteer contributions by reforming the laws to provide certain protections from liability abuses related to volunteers serving nonprofit organizations and governmental entities.
 
 (Pub. L. 105–19, §2, June 18, 1997, 111 Stat. 218.)
 

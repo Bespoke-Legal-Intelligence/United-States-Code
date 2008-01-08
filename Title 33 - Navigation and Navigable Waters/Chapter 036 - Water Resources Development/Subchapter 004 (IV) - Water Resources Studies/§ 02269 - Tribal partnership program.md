@@ -8,19 +8,21 @@ In this section, the term “Indian tribe” has the meaning given the term in s
 
 #### (1) In general
 
-&emsp;In cooperation with Indian tribes and the heads of other Federal agencies, the Secretary may study and determine the feasibility of carrying out water resources development projects that—
+&emsp;In cooperation with Indian tribes and the heads of other Federal agencies, the Secretary may carry out water-related planning activities and study and determine the feasibility of carrying out water resources development projects that—
 
 &emsp;&emsp;(A) will substantially benefit Indian tribes; and
 
-&emsp;&emsp;(B) are located primarily within Indian country (as defined in section 1151 of title 18) or in proximity to Alaska Native villages.
+&emsp;&emsp;(B) are located primarily within Indian country (as defined in section 1151 of title 18, and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations) or in proximity to Alaska Native villages.
 
 #### (2) Matters to be studied
 
 &emsp;A study conducted under paragraph (1) may address—
 
-&emsp;&emsp;(A) projects for flood damage reduction, environmental restoration and protection, and preservation of cultural and natural resources; and
+&emsp;&emsp;(A) projects for flood damage reduction, environmental restoration and protection, and preservation of cultural and natural resources;
 
-&emsp;&emsp;(B) such other projects as the Secretary, in cooperation with Indian tribes and the heads of other Federal agencies, determines to be appropriate.
+&emsp;&emsp;(B) watershed assessments and planning activities; and
+
+&emsp;&emsp;(C) such other projects as the Secretary, in cooperation with Indian tribes and the heads of other Federal agencies, determines to be appropriate.
 
 #### (c) Consultation and coordination with Secretary of the Interior
 
@@ -42,7 +44,7 @@ In this section, the term “Indian tribe” has the meaning given the term in s
 
 #### (A) In general
 
-&emsp;&emsp;Any cost-sharing agreement for a study under subsection (b) of this section shall be subject to the ability of the non-Federal interest to pay.
+&emsp;&emsp;Any cost-sharing agreement for a study under subsection (b) of this section shall besubject to the ability of the non-Federal interest to pay.
 
 #### (B) Use of procedures
 
@@ -54,13 +56,23 @@ In this section, the term “Indian tribe” has the meaning given the term in s
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to carry out subsection (b) of this section $5,000,000 for each of fiscal years 2002 through 2006, of which not more than $1,000,000 may be used with respect to any 1 Indian tribe.
+There is authorized to be appropriated to carry out subsection (b) of this section $5,000,000 for each of fiscal years 2002 through 2012, of which not more than $1,000,000 may be used with respect to any 1 Indian tribe.
 
-(Pub. L. 106–541, title II, §203, Dec. 11, 2000, 114 Stat. 2588.)
+(Pub. L. 106–541, title II, §203, Dec. 11, 2000, 114 Stat. 2588; Pub. L. 110–114, title II, §2011, Nov. 8, 2007, 121 Stat. 1074.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 110–114, §2011(a)(1), inserted “carry out water-related planning activities and” after “the Secretary may” in introductory provisions.
+
+Subsec. (b)(1)(B). Pub. L. 110–114, §2011(a)(2), inserted “, and including lands that are within the jurisdictional area of an Oklahoma Indian tribe, as determined by the Secretary of the Interior, and are recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations” after “section 1151 of title 18”.
+
+Subsec. (b)(2). Pub. L. 110–114, §2011(a)(3), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (e). Pub. L. 110–114, §2011(b), substituted “2012” for “2006”.
 
 #### “Secretary” Defined
 

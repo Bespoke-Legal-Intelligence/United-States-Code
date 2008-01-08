@@ -8,7 +8,7 @@ Subject to valid existing rights, the Pine Ridge National Recreation Area design
 
 &emsp;(2) preservation and protection of forest, aquatic and grassland habitat;
 
-&emsp;(3) protection and conservation of special areas having uncommon or outstanding wilderness, biological, geological, recreational,cultural, historical or archeological, and scientific, or other values contributing to the public benefit;
+&emsp;(3) protection and conservation of special areas having uncommon or outstanding wilderness, biological, geological, recreational, cultural, historical or archeological, and scientific, or other values contributing to the public benefit;
 
 &emsp;(4) the continuation of existing livestock grazing uses;
 
@@ -34,7 +34,7 @@ Nothing in this subchapter shall be construed as affecting the jurisdiction or r
 
 #### (f) Comprehensive management plan
 
-Within eighteen months after October 20, 1986, the Secretary shall develop and submit to the Committee on Interior and Insular Affairs and the Committee on Agriculture of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a comprehensive management plan for the national recreation area designated by this subchapter.
+Within eighteen months after October 20, 1986, the Secretary shall develop and submit to the Committee on Interior and Insular Affairs andthe Committee on Agriculture of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a comprehensive management plan for the national recreation area designated by this subchapter.
 
 #### (g) Public participation in development of management plan
 
@@ -52,5 +52,5 @@ This subchapter, referred to in subsec. (e), was in the original “this Act”,
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

@@ -36,7 +36,11 @@ The President may prescribe regulations necessary to carry out the provisions of
 
 #### (j) Additional employee employment rights
 
-Anything in sections 205 and 207 of title 18 to the contrary notwithstanding, officers and employees of the United States assigned to an Indian tribe as authorized under section 3372 of title 5, or section 48 of this title and former officers and employees of the United States employed by Indian tribes may act as agents or attorneys for or appear on behalf of such tribes in connection wth <sup>1</sup> any matter pending before any department, agency, court, or commission, including any matter in which the United States is a party or has a direct and substantial interest: <i>Provided</i>, That each such officer or employee or former officer or employee must advise in writing the head of the department, agency, court, or commission with which he is dealing or appearing on behalf of the tribe of any personal and substantial involvement he may have had as an officer or employee of the United States in connection with the matter involved.
+Anything in sections 205 and 207 of title 18 to the contrary notwithstanding—
+
+&emsp;(1) an officer or employee of the United States assigned to a tribal organization (as defined in section 450b(<i>l</i>) of this title) or an inter-tribal consortium (as defined in section 458aaa of this title), as authorized under section 3372 of title 5 or section 48 of this title may act as agent or attorney for, and appear on behalf of, such tribal organization or inter-tribal consortium in connection with any matter related to a tribal governmental activity or Federal Indian program or service pending before any department, agency, court, or commission, including any matter in which the United States is a party or has a direct and substantial interest: <i>Provided</i>, That such officer or employee must advise in writing the head of the department, agency, court, or commission with which the officer or employee is dealing or appearing on behalf of the tribal organization or inter-tribal consortium of any personal and substantial involvement with the matter involved; and
+
+&emsp;(2) a former officer or employee of the United States who is carrying out official duties as an employee or as an elected or appointed official of a tribal organization (as defined in section 450b(<i>l</i>) of this title) or inter-tribal consortium (as defined in section 458aaa of this title) may act as agent or attorney for, and appear on behalf of, such tribal organization or intra-tribal consortium in connection with any matter related to a tribal governmental activity or Federal Indian program or service pending before any department, agency, court, or commission, including any matter in which the United States is a party or has a direct and substantial interest: <i>Provided</i>, That such former officer or employee must advise in writing the head of the department, agency, court, or commission with which the former officer or employee is dealing or appearing on behalf of the tribal organization or inter-tribal consortium of any personal and substantial involvement that he or she may have had as an officer or employee of the United States in connection with the matter involved.
 
 #### (k), (<i>l</i>) Omitted
 
@@ -44,7 +48,7 @@ Anything in sections 205 and 207 of title 18 to the contrary notwithstanding, of
 
 The status of an Indian (as defined in section 479 of this title) appointed (except temporary appointments) to the Federal service under an excepted appointment under the authority of section 472 of this title, or any other provision of law granting a preference to Indians in personnel actions, shall be converted to a career appointment in the competitive service after three years of continuous service and satisfactory performance. The conversion shall not alter the Indian's eligibility for preference in personnel actions.
 
-(Pub. L. 93–638, title I, §104, formerly §105, Jan. 4, 1975, 88 Stat. 2208; Pub. L. 89–702, title II, §210(a), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 99–221, §3(a), Dec. 26, 1985, 99 Stat. 1735; renumbered §104 and amended Pub. L. 100–472, title II, §203, Oct. 5, 1988, 102 Stat. 2290; Pub. L. 101–301, §2(a)(6), May 24, 1990, 104 Stat. 206.)
+(Pub. L. 93–638, title I, §104, formerly §105, Jan. 4, 1975, 88 Stat. 2208; Pub. L. 89–702, title II, §210(a), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 99–221, §3(a), Dec. 26, 1985, 99 Stat. 1735; renumbered §104 and amended Pub. L. 100–472, title II, §203, Oct. 5, 1988, 102 Stat. 2290; Pub. L. 101–301, §2(a)(6), May 24, 1990, 104 Stat. 206; Pub. L. 110–81, title I, §104(b), Sept. 14, 2007, 121 Stat. 740.)
 
 #### Codification
 
@@ -55,6 +59,8 @@ Section is comprised of section 104 of Pub. L. 93–638. Subsecs. (a) to (d) of 
 A prior section 104 of Pub. L. 93–638 was renumbered section 103 by Pub. L. 100–472 and is classified to section 450h of this title.
 
 #### Amendments
+
+2007—Subsec. (j). Pub. L. 110–81 amended subsec. (j) generally. Prior to amendment, text read as follows: “Anything in sections 205 and 207 of title 18 to the contrary notwithstanding, officers and employees of the United States assigned to an Indian tribe as authorizedunder section 3372 of title 5, or section 48 of this title and former officers and employees of the United States employed by Indian tribes may act as agents or attorneys for or appear on behalf of such tribes in connection wth any matter pending before any department, agency, court, or commission, including any matter in which the United States is a party or has a direct and substantial interest: <i>Provided</i>, That each such officer or employee or former officer or employee must advise in writing the head of the department, agency, court, or commission with which he is dealing or appearing on behalf of the tribe of any personal and substantial involvement he may have had as an officer or employee of the United States in connection with the matter involved.”
 
 1990—Subsec. (m). Pub. L. 101–301 substituted “an Indian (as defined in section 479 of this title) appointed (except temporary appointments)” for “an Indian appointed”.
 
@@ -69,6 +75,10 @@ Subsec. (m). Pub. L. 100–472, §203(f), added subsec. (m).
 1985—Subsec. (e). Pub. L. 99–221 substituted “1988” for “1985”.
 
 1983—Subsec. (e). Pub. L. 89–702, §210(a), as added by Pub. L. 98–129, inserted “, the city of St. Paul, Alaska, the city of St. George, Alaska, upon incorporation, or the Village Corporations of St. Paul and St. George Islands established pursuant to section 1607 of title 43”.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–81, title I, §105(d), Sept. 14, 2007, 121 Stat. 741, provided that: “The amendments made by section 104 \[amending this section and section 207 of Title 18, Crimes and Criminal Procedure\] shall take effect on the date of the enactment of this Act \[Sept. 14, 2007\], except that section 104(j)(2) of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450i(j)(2)\] (as amended by section 104(b)) shall apply to individuals who leave Federal office or employment to which such amendments apply on or after the 60th day after the date of the enactment of this Act.”
 
 #### Pribilof Island Natives Employed by Federal Government on October 28, 1983
 
@@ -85,6 +95,4 @@ Section 1. The Office of Personnel Management is hereby designated and empowered
 Sec. 2. The Office of Personnel Management shall, after consultation with the Department of the Interior and the Department of Health and Human Services, issue regulations, as it deems appropriate, providing for the establishment, granting, and exercise of reemployment rights for employees who leave Federal employment for employment by an Indian tribal organization under provisions of the act.
 
 Sec. 3. The Secretary of Labor is hereby designated and empowered to exercise, without approval, ratification, or other action by the President, the authority vested in the President by section 105(i) of the act \[subsec. (i) of this section\] to issue regulations necessary to carry out the provisions of section 105(e)(1) of the act \[subsec. (e)(1) of this section\], except as provided in section 1 of this order.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “with”.</i>
 

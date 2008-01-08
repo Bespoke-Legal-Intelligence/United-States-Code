@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(C) who are not eligible to be retired under any provision of law (other than by reason of eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993) and are not within two years of becoming so eligible.
 
-(c)(1) In the case of an action under subsection (b)(2), the Secretary of the military department concerned shall specify the number of officers described in that subsection which a selection board convened under section 611(b) of this title pursuant to the authority of that subsection may recommend for early retirement. Such number may not be more than 30 percent of the number of officers considered in each grade in each competitive category.
+(c)(1) In the case of an action under subsection (b)(2), the Secretary of the military departmentconcerned shall specify the number of officers described in that subsection which a selection board convened under section 611(b) of this title pursuant to the authority of that subsection may recommend for early retirement. Such number may not be more than 30 percent of the number of officers considered in each grade in each competitive category.
 
 (2) In the case of an action authorized under subsection (b)(2), the Secretary of Defense may also authorize the Secretary of the military department concerned when convening a selection board under section 611(b) of this title to consider regular officers on the active-duty list for early retirement to include within the officers to be considered by the board reserve officers on the active-duty list on the same basis as regular officers.
 
@@ -78,7 +78,7 @@ Subsec. (d)(2)(B). Pub. L. 109–364, §623(b)(2)(B), inserted “, except that
 
 Subsec. (c)(3). Pub. L. 102–484, §503, added par. (3).
 
-1991—Subsec. (b)(2)(C). Pub. L. 102–190, §503(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Officers holding a regular grade below the grade of colonel or, in the case of the Navy, captain who are not eligible for retirement under section 3911, 6323, or 8911 of this title but who after two additional years of active service as a commissioned officer would be eligible for retirement under one of those sections and whose names are not on a list of officers recommended for promotion.”
+1991—Subsec. (b)(2)(C). Pub. L. 102–190, §503(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Officers holding a regulargrade below the grade of colonel or, in the case of the Navy, captain who are not eligible for retirement under section 3911, 6323, or 8911 of this title but who after two additional years of active service as a commissioned officer would be eligible for retirement under one of those sections and whose names are not on a list of officers recommended for promotion.”
 
 Subsec. (c). Pub. L. 102–190, §503(b)(2), designated existing provisions as par. (1) and added par. (2).
 

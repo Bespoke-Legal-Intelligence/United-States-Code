@@ -2,7 +2,7 @@
 
 #### (a) Federal agencies affected
 
-All personnel actions affecting employees or applicants for employment who are at least 40years of age (except personnel actions with regard to aliens employed outside the limits of the United States) in military departments as defined in section 102 of title 5, in executive agencies as defined in section 105 of title 5 (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Regulatory Commission, in those units in the government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Printing Office, the Government Accountability Office, and the Library of Congress shall be made free from any discrimination based on age.
+All personnel actions affecting employees or applicants for employment who are at least 40 years of age (except personnel actions with regard to aliens employed outside the limits of the United States) in military departments as defined in section 102 of title 5, in executive agencies as defined in section 105 of title 5 (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Regulatory Commission, in those units in the government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Printing Office, the Government Accountability Office, and the Library of Congress shall be made free from any discrimination based on age.
 
 #### (b) Enforcement by Equal Employment Opportunity Commission and by Librarian of Congress in the Library of Congress; remedies; rules, regulations, orders, and instructions of Commission: compliance by Federal agencies; powers and duties of Commission; notification of final action on complaint of discrimination; exemptions: bona fide occupational qualification
 
@@ -42,7 +42,7 @@ Any personnel action of any department, agency, or other entity referred to in s
 
 #### References in Text
 
-The amendments made to this section by the Age Discrimination in Employment Act Amendments of1978, referred to in subsec. (g)(1), are amendments by section 5(a) and (e) of Pub. L. 95–256, which amended subsecs. (a), (f), and (g) of this section.
+The amendments made to this section by the Age Discrimination in Employment Act Amendments of 1978, referred to in subsec. (g)(1), are amendments by section 5(a) and (e) of Pub. L. 95–256, which amended subsecs. (a), (f), and (g) of this section.
 
 #### Amendments
 
@@ -76,5 +76,5 @@ Section effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as
 
 #### Transfer of Functions
 
-“Equal Employment Opportunity Commission” substituted for “Civil Service Commission” in subsecs. (b) and (g) pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Civil Service Commission to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+“Equal Employment Opportunity Commission” substituted for “Civil Service Commission” in subsecs. (b) and (g) pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R.19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Civil Service Commission to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 

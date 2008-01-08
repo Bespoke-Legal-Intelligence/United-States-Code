@@ -6,7 +6,7 @@ Reporting Requirements.—After September 30, 1996, a State may establish, maint
 
 (b)
 
-Payment.—After September 30, 1996, a State may establish, maintain, or enforce a lawor regulation that provides for the payment of a fuel use tax only if the law or regulation conforms with the International Fuel Tax Agreement as it applies to collection of a fuel use tax by a single base State and proportional sharing of fuel use taxes charged among the States where a commercial motor vehicle is operated.
+Payment.—After September 30, 1996, a State may establish, maintain, or enforce a law or regulation that provides for the payment of a fuel use tax only if the law or regulation conforms with the International Fuel Tax Agreement as it applies to collection of a fuel use tax by a single base State and proportional sharing of fuel use taxes charged among the States where a commercial motor vehicle is operated.
 
 (c)
 

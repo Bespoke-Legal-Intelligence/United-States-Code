@@ -94,11 +94,11 @@ A person who, in good faith, produces tangible things under an order pursuant to
 
 (D) Any production or nondisclosure order not explicitly modified or set aside consistent with this subsection shall remain in full effect.
 
-(3) A petition for review of a decision under paragraph (2) to affirm, modify, or set aside an order by the Government or any person receiving such order shall be made to the court of review established under section 1803(b) of this title, which shall have jurisdiction to considersuch petitions. The court of review shall provide for the record a written statement of the reasons for its decision and, on petition by the Government or any person receiving such order for writ of certiorari, the record shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
+(3) A petition for review of a decision under paragraph (2) to affirm, modify, or set aside an order by the Government or any person receiving such order shall be made to the court of review established under section 1803(b) of this title, which shall have jurisdiction to consider such petitions. The court of review shall provide for the record a written statement of the reasons for its decision and, on petition by the Government or any person receiving such order for writ of certiorari, the record shall be transmitted under seal to the Supreme Court of the United States, which shall have jurisdiction to review such decision.
 
 (4) Judicial proceedings under this subsection shall be concluded as expeditiously as possible. The record of proceedings, including petitions filed, orders granted, and statements of reasons for decision, shall be maintained under security measures established by the Chief Justice of the United States, in consultation with the Attorney General and the Director of National Intelligence.
 
-(5) All petitions under this subsection shall be filed under seal. In any proceedings under this subsection, the court shall, upon request of the Government, review ex parte and in camera any Government submission, or portions thereof, which may include classified information.
+(5) All petitions under this subsection shall be filed under seal. In any proceedings under thissubsection, the court shall, upon request of the Government, review ex parte and in camera any Government submission, or portions thereof, which may include classified information.
 
 #### (g) Minimization procedures
 
@@ -164,7 +164,7 @@ Subsec. (c). Pub. L. 109–177, §106(c), (d), amended subsec. (c) generally. Pr
 
 Subsec. (d). Pub. L. 109–177, §106(e), amended subsec. (d) generally. Prior to amendment, text read as follows: “No person shall disclose to any other person (other than those persons necessary to produce the tangible things under this section) that the Federal Bureau of Investigation has sought or obtained tangible things under this section.”
 
-Subsec. (d)(2)(C). Pub. L. 109–178, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
+Subsec. (d)(2)(C). Pub. L. 109–178, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
 Subsec. (f). Pub. L. 109–178, §3, amended subsec. (f) generally. Prior to amendment, subsec. (f) provided for judicial proceedings relating to challenging an order to produce tangible things.
 

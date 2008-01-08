@@ -4,7 +4,7 @@ For offenders who were at the time of commission of their offenses subject to hi
 
 &emsp;(1) a system for the remission or suspension of the unexecuted part of the sentences of selected offenders;
 
-&emsp;(2) a system for the restoration to duty of such offenders who have had the unexecuted part of their sentences remitted or suspended and who have not been discharged; and
+&emsp;(2) a system for the restoration to duty of such offenders who have had the unexecutedpart of their sentences remitted or suspended and who have not been discharged; and
 
 &emsp;(3) a system for the enlistment of such offenders who have had the unexecuted part of their sentences remitted and who have been discharged.
 

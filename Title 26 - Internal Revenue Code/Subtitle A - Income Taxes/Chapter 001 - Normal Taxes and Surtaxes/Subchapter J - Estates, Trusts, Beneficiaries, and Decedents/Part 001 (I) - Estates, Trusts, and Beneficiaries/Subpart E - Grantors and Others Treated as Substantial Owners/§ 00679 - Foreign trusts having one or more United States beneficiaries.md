@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A United States person who directly or indirectly transfers property to a foreign trust\(other than a trust described in section 6048(a)(3)(B)(ii)) shall be treated as the owner for his taxable year of the portion of such trust attributable to such property if for such year there is a United States beneficiary of any portion of such trust.
+&emsp;A United States person who directly or indirectly transfers property to a foreign trust (other than a trust described in section 6048(a)(3)(B)(ii)) shall be treated as the owner for his taxable year of the portion of such trust attributable to such property if for such year there is a United States beneficiary of any portion of such trust.
 
 #### (2) Exceptions
 
@@ -50,7 +50,7 @@
 
 #### (B) Treatment of undistributed income
 
-&emsp;&emsp;For purposes of this section, undistributed net income for periods before such individual's residency starting date shall be taken into account in determining the portion of the trust which is attributable to property transferred by such individual to such trust but shall not otherwise be taken into account.
+&emsp;&emsp;For purposes of this section, undistributed net income for periods before such individual's residency starting date shall be takeninto account in determining the portion of the trust which is attributable to property transferred by such individual to such trust but shall not otherwise be taken into account.
 
 #### (C) Residency starting date
 

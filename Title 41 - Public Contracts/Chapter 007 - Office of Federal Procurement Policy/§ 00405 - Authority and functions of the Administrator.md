@@ -12,7 +12,7 @@ The Administrator shall provide overall direction of procurement policy and lead
 
 #### (b) Government-wide procurement regulations
 
-In any instance in which the Administrator determines that the Department of Defense, the National Aeronautics and Space Administration, and the General Services Administration are unable to agree on or fail to issue Government-wide regulations, procedures and forms in a timely manner, including any such regulations, procedures, and forms as are necessary to implement prescribed policy initiated by the Administrator under subsection (a) of this section, the Administrator shall, with due regard for applicable laws and the program activities ofthe executive agencies and consistent with the policies and functions set forth in this chapter, prescribe Government-wide regulations, procedures and forms which shall be followed by executive agencies in the procurement of—
+In any instance in which the Administrator determines that the Department of Defense, the National Aeronautics and Space Administration, and the General Services Administration are unable to agree on or fail to issue Government-wide regulations, procedures and forms in a timely manner, including any such regulations, procedures, and forms as are necessary to implement prescribed policy initiated by the Administrator under subsection (a) of this section, the Administrator shall, with due regard for applicable laws and the program activities of the executive agencies and consistent with the policies and functions set forth in this chapter, prescribe Government-wide regulations, procedures and forms which shall be followed by executive agencies in the procurement of—
 
 &emsp;(1) property other than real property in being;
 
@@ -138,7 +138,7 @@ Nothing in this chapter shall be construed to—
 
 The Administrator shall submit to Congress, on an annual basis, an assessment of the progress made in executive agencies in implementing the policy regarding major acquisitions that is stated in section 263(a) of this title. The Administrator shall use data from existing management systems in making the assessment.
 
-(Pub. L. 93–400, §6, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §5, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2732(b)(1), July 18, 1984, 98 Stat. 1199; Pub. L. 100–679, §3(a), Nov. 17, 1988, 102 Stat. 4055; Pub. L. 103–355, title I, §1091(b)(2), title V, §§5051(b), 5091, title VII, §7108, Oct. 13, 1994, 108 Stat. 3272, 3351, 3361, 3378; Pub. L.104–106, div. D, title XLIII, §§4307(b), 4321(h)(1), (2), 4322(a)(1), div. E, title LVI, §5607(d), Feb. 10, 1996, 110 Stat. 668, 675, 677, 702; Pub. L. 104–201, div. A, title X, §1074(f)(1), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title VIII, §851(b), title X, §1073(g)(2)(B), Nov. 18, 1997, 111 Stat. 1851, 1906; Pub. L. 105–135, title VI, §604(f)(1), Dec. 2, 1997, 111 Stat. 2634.)
+(Pub. L. 93–400, §6, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §5, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2732(b)(1), July 18, 1984, 98 Stat. 1199; Pub. L. 100–679, §3(a), Nov. 17, 1988, 102 Stat. 4055; Pub. L. 103–355, title I, §1091(b)(2), title V, §§5051(b), 5091, title VII, §7108, Oct. 13, 1994, 108 Stat. 3272, 3351, 3361, 3378; Pub. L. 104–106, div. D, title XLIII, §§4307(b), 4321(h)(1), (2), 4322(a)(1), div. E, title LVI, §5607(d), Feb. 10, 1996, 110 Stat. 668, 675, 677, 702; Pub. L. 104–201, div. A, title X, §1074(f)(1), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title VIII, §851(b), title X, §1073(g)(2)(B), Nov. 18, 1997, 111 Stat. 1851, 1906; Pub. L. 105–135, title VI, §604(f)(1), Dec. 2, 1997, 111 Stat. 2634.)
 
 #### References in Text
 
@@ -242,6 +242,10 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Amendment by Pub. L. 96–83 effective Oct. 1, 1979, see section 12 of Pub. L. 96–83, set out as a note under section 401 of this title.
 
+#### Pilot Program To Inventory Cost and Size of Service Contracts
+
+Pub. L. 110–161, div. D, title VII, §748, Dec. 26, 2007, 121 Stat. 2035, provided that: “No later than 180 days after enactment of this Act \[Dec. 26, 2007\], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System's Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services.”
+
 #### Federal Support for Enhancement of State and Local Anti-Terrorism Response Capabilities
 
 Pub. L. 108–136, div. A, title VIII, §803, Nov. 24, 2003, 117 Stat. 1541, provided that:
@@ -270,7 +274,7 @@ Establishment.—Not later than 90 days after the date of the enactment of this 
 
 Membership.—The panel shall be composed of at least nine individuals who are recognized experts in acquisition law and Government acquisition policy. In making appointments to the panel, the Administrator shall—
 
-&emsp;“(1) consult with the Secretary of Defense, the Administrator of General Services, the Committees on Armed Services and Government Reform of the House of Representatives, and the Committees on Armed Services and Governmental Affairs of the Senate; and
+&emsp;“(1) consult with the Secretary of Defense, the Administrator of General Services, the Committees on Armed Services and Government Reform \[now Oversight and Government Reform\] of the House of Representatives, and the Committees on Armed Services and Governmental Affairs of the Senate; and
 
 &emsp;“(2) ensure that the members of the panel reflect the diverse experiences in both the public and private sectors, including academia.
 
@@ -290,7 +294,7 @@ Duties.—The panel shall—
 
 “(d)
 
-Report.—Not later than 18 months after the establishment of the panel, the panel shall submit to the Administrator and to the Committees on Armed Services and Government Reform of the House of Representatives and the Committees on Armed Services and Governmental Affairs of the Senate a report containing a detailed statement of the findings, conclusions, and recommendations of the panel.”
+Report.—Not later than 18 months after the establishment of the panel, the panel shall submit to the Administrator and to the Committees on Armed Services and Government Reform \[now Oversight and Government Reform\] of the House of Representatives and the Committees on Armed Services and Governmental Affairs of the Senate a report containing a detailed statement of the findings, conclusions, and recommendations of the panel.”
 
 #### Center of Excellence in Service Contracting
 
@@ -352,7 +356,7 @@ Data Collection Required.—The Federal Procurement Data System described in sec
 
 “(b)
 
-Definition.—In this section, the term ‘simplified acquisition threshold’ has the meaning given such term in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).”
+Definition.—In this section, the term ‘simplified acquisition threshold’ has the meaning given such termin section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).”
 
 #### Profit Methodology Study
 

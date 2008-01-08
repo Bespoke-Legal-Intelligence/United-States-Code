@@ -1,6 +1,6 @@
 ### §580d. Use of Forest Service structures or improvements and land by public and private agencies, etc.; terms
 
-The Secretary of Agriculture, under such regulations as he may prescribe and at rates and for periods not exceeding thirty years as determined by him, is authorized to permit the use by public and private agencies, corporations, firms, associations, or individuals, of structures or improvements under the administrative control of the Forest Service and land used in connection therewith: <i>Provided</i>, That as all or a part of the consideration for permits issued under this section, the Secretary may require the permittees at their expense to renovate, recondition, improve, and maintain the structures and land to a satisfactory standard.
+The Secretary of Agriculture, under such regulations as he may prescribe and at rates and for periods not exceeding thirty years as determined by him, is authorized to permit the use by public and private agencies, corporations, firms, associations, or individuals, of structures or improvements under the administrative control of the Forest Service and land used in connectiontherewith: <i>Provided</i>, That as all or a part of the consideration for permits issued under this section, the Secretary may require the permittees at their expense to renovate, recondition, improve, and maintain the structures and land to a satisfactory standard.
 
 (Apr. 24, 1950, ch. 97, §7, 64 Stat. 84; Pub. L. 105–277, div. A, §101(e) \[title III, §346\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298.)
 
@@ -126,7 +126,7 @@ Notice of changes to conveyance list.—If the Secretary proposes to convey an a
 
 &emsp;“(3)
 
-Notice of use of authority.—At least once a year, the Secretary shall submit to the Committee on Agriculture, the Committee on Appropriations, and the Committee on Resources of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report containing a description of all conveyances of National Forest System land made by the Secretary under this title or other conveyance authorities during the period covered by the report.
+Notice of use of authority.—At least once a year, the Secretary shall submit to the Committee on Agriculture, the Committee on Appropriations, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report containing a description of all conveyances of National Forest System land made by the Secretary under this title or other conveyance authorities during the period covered by the report.
 
 “(f)
 
@@ -212,7 +212,7 @@ Lead-based paint and asbestos abatement.—Notwithstanding any provision of law 
 
 &emsp;&emsp;“(A) provide notice to the person or entity acquiring the administrative site of the presence of the lead-based paint or asbestos-containing building material; and
 
-&emsp;&emsp;“(B) obtain written assurance from the person or entity acquiring the administrative site that theperson or entity will comply with applicable Federal, State, and local laws relating to the management of the lead-based paint and asbestos-containing building materials.
+&emsp;&emsp;“(B) obtain written assurance from the person or entity acquiring the administrative site that the person or entity will comply with applicable Federal, State, and local laws relating to the management of the lead-based paint and asbestos-containing building materials.
 
 &emsp;“(4)
 

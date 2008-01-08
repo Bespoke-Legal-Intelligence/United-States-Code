@@ -32,11 +32,11 @@ Consideration.—(1) The Secretary concerned may require as consideration for a 
 
 &emsp;(B) a reduction in charges for utility services provided by the utility or entity concerned to the military installation at which the utility system is located.
 
-(2) If the utility services proposed to be provided as consideration under paragraph (1) are subject to regulation by a Federal or State agency, any reduction in the rate charged for the utility services shall be subject to establishment or approval by that agency.
+(2) If the utility services proposed to be provided as consideration under paragraph (1) are subject to regulation by a Federal or Stateagency, any reduction in the rate charged for the utility services shall be subject to establishment or approval by that agency.
 
 (d)
 
-Contracts for Utility Services.—(1) Except as provided in paragraph (2), a contract for the receipt of utility services as consideration under subsection (c), or any other contract forutility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 10 years.
+Contracts for Utility Services.—(1) Except as provided in paragraph (2), a contract for the receipt of utility services as consideration under subsection (c), or any other contract for utility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 10 years.
 
 (2) The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective. The economic analysis submitted to the congressional defense committees under subsection (a)(2) for the conveyance of the utility system, or part thereof, with regard to which the utility services contract will be entered into by the Secretary concerned shall include the determination required by this paragraph, an explanation of the need for the longer term contract, and a comparison of costs between a 10-year contract and the longer-term contract.
 

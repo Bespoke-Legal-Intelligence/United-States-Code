@@ -2,7 +2,7 @@
 
 #### (a) Rates and sources; deposits in Fund
 
-(1) Except as otherwise provided in this section, 7.25 percent of the basic salary received by each participant shall be deducted from the salary and contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld frombasic salary and the amounts contributed by the employing agency.
+(1) Except as otherwise provided in this section, 7.25 percent of the basic salary received byeach participant shall be deducted from the salary and contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld from basic salary and the amounts contributed by the employing agency.
 
 (2) Notwithstanding the percentage limitation contained in paragraph (1) of this subsection—
 
@@ -48,7 +48,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 (2) Notwithstanding paragraph (1), a special contribution for prior nondeposit service as a National Guard technician which would be creditable toward retirement under subchapter III of chapter 83 of title 5, and for which a special contribution has not been made, shall be equal to the special contribution for such service computed in accordance with the schedule in paragraph (1) multiplied by the percentage of such service that is creditable under section 4056 of this title.
 
-(3) Special contributions under this subsection shall include interest computed from the midpoint of each service period included in the computation, or from the date refund was paid, to the date of payment of the special contributionor commencing date of annuity, whichever is earlier. <sup>2</sup> Interest shall be compounded at the annual rate of 4 percent to December 31, 1976, and 3 percent thereafter. No interest shall be charged on special contributions for any period of separation from Government service which began before October 1, 1956. Special contributions may be paid in installments (including by allotment of pay) when authorized by the Secretary of State.
+(3) Special contributions under this subsection shall include interest computed from the midpoint of each service period included in the computation, or from the date refund was paid, to the date of payment of the special contribution or commencing date of annuity, whichever is earlier. <sup>2</sup> Interest shall be compounded at the annual rate of 4 percent to December 31, 1976, and 3 percent thereafter. No interest shall be charged on special contributions for any period of separation from Government service which began before October 1, 1956. Special contributions may be paid in installments (including by allotment of pay) when authorized by the Secretary of State.
 
 (4) Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of a participant described in section 4071b(c) of this title shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent.
 
@@ -86,11 +86,11 @@ A participant or survivor may make a special contribution at any time before rec
 
 Effective with respect to pay periods beginning after December 31, 1986, in administering this section with respect to a participant described in section 4071b(c) of this title whose service is employment for the purposes of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and chapter 21 of title 26, contributions to the Fund and interest thereon shall be computed as if section 8334(k) of title 5 were applicable.
 
-(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, §101(a) \[title V, §505(d)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(a)(2), Sept. 30, 2002, 116 Stat. 1384.)
+(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2),405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, §101(a) \[title V, §505(d)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(a)(2), Sept. 30, 2002, 116 Stat. 1384.)
 
 #### Amendment of Section
 
-<i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the second sentence of subsec. (d)(3) of this section, applicable (i) to contributions for civilian service performed on or after the first day of</i><i>Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
+<i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the second sentence of subsec. (d)(3) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
 
 #### References in Text
 
@@ -148,7 +148,7 @@ Pub. L. 99–335, §405(a)(2), added subsec. (h).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–228, div. A, title III, §322(c)(2), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(2) \[amending this section\] and (b)(2) \[amending section 4071e of this title\] shall take effect with the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act \[Sept. 30, 2002\].”
+Pub. L. 107–228, div. A, title III, §322(c)(2), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(2) \[amending this section\] and\(b)(2) \[amending section 4071e of this title\] shall take effect with the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act \[Sept. 30, 2002\].”
 
 #### Effective Date of 2000 Amendment
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a noteunder section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1988 Amendment
 

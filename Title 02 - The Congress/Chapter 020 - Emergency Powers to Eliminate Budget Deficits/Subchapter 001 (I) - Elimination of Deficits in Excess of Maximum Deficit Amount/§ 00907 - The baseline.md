@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For any budget year, the baseline refers to a projection of current-year levels of new budget authority, outlays, revenues, and the surplus or deficit into the budget year and the outyears based on laws enacted through the applicable date.
+For any budget year, the baseline refers to a projection of current-year levels of new budgetauthority, outlays, revenues, and the surplus or deficit into the budget year and the outyears based on laws enacted through the applicable date.
 
 #### (b) Direct spending and receipts
 
@@ -30,7 +30,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (c) Discretionary appropriations
 
-For the budget year and each outyear, the baseline shall be calculated using the followingassumptions regarding all amounts other than those covered by subsection (b) of this section:
+For the budget year and each outyear, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b) of this section:
 
 #### (1) Inflation of current-year appropriations
 

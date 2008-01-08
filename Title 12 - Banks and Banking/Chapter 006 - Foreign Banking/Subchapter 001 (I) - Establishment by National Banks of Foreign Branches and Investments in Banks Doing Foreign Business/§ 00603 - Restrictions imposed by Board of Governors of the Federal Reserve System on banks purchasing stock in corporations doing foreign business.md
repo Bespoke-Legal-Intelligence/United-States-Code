@@ -6,7 +6,7 @@ Before any national bank shall be permitted to purchase stock in any corporation
 
 #### Codification
 
-Section is comprised of a part of section 25 of act Dec. 23, 1913, as amended, which comprises this subchapter.
+Section is comprised of the fifth undesignated par. of section 25 of act Dec. 23, 1913, which comprises this subchapter. For classification of other pars. of section 25 of this Act, see Codification note under section 601 of this title.
 
 #### Change of Name
 

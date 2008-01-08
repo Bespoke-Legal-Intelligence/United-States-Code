@@ -88,7 +88,3 @@ Service academies.—For purposes of this subsection, the term ‘service academ
 
 &emsp;“(C) The United States Air Force Academy.”
 
-### <b>\[CHAPTER 405—REPEALED\]</b>
-
-§4381
-

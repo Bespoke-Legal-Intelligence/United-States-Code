@@ -40,7 +40,7 @@ The terms “officer of the customs” and “customs officer” mean any office
 
 #### (j) Customs waters
 
-The term “customs waters” means, in the case of a foreign vessel subject to a treaty or other arrangement between a foreign government and the United States enabling or permitting the authorities of the United States to board, examine,search, seize, or otherwise to enforce upon such vessel upon the high seas the laws of the United States, the waters within such distance of the coast of the United States as the said authorities are or may be so enabled or permitted by such treaty or arrangement and, in the case of every other vessel, the waters within four leagues of the coast of the United States.
+The term “customs waters” means, in the case of a foreign vessel subject to a treaty or other arrangement between a foreign government and the United States enabling or permitting the authorities of the United States to board, examine, search, seize, or otherwise to enforce upon such vessel upon the high seas the laws of the United States, the waters within such distance of the coast of the United States as the said authorities are or may be so enabled or permitted by such treaty or arrangement and, in the case of every other vessel, the waters within four leagues of the coast of the United States.
 
 #### (k) Hovering vessel
 
@@ -94,7 +94,7 @@ The term “reconciliation” means an electronic process, initiated at the requ
 
 The term “reconfigured entry” means an entry filed on an import activity summary statement which substitutes for all or part of 1 or more entries filed under section 1484(a)(1)(A) of this title or filed on a reconciliation entry that aggregates the entry elements to be reconciled under section 1484(b) of this title for purposes of liquidation, reliquidation, or protest.
 
-(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; Pub. L. 91–271, title III, §301(c), June 2, 1970, 84 Stat. 288; Pub. L. 99–570, title III, §3111, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §634, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 104–295, §§3(a)(6)(A), 18(a), Oct. 11, 1996, 110 Stat. 3515, 3524; Pub. L. 108–7, div. J, title I, §127(b), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(a), (c), title II, §2106, Dec. 3, 2004, 118 Stat. 2581, 2582, 2598.)
+(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; Pub. L. 91–271, title III, §301(c), June 2, 1970, 84 Stat. 288; Pub. L. 99–570, title III, §3111, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §634, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 104–295, §§3(a)(6)(A), 18(a), Oct. 11, 1996, 110 Stat. 3515, 3524; Pub. L. 108–7, div. J, title I, §127(b), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(a), (c), title II, §2106, Dec. 3, 2004, 118 Stat. 2581, 2582, 2598.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ Words “the Philippine Islands” formerly set out in subsec. (h) were omitted 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §401, 42Stat. 948, which superseded R.S. §§2766 and Section 401 of the 1922 act was superseded by section 401 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §401, 42 Stat. 948, which superseded R.S. §§2766 and Section 401 of the 1922 act was superseded by section 401 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
 
 Section III of the Underwood Tariff Act of Oct. 3, 1913, ch. 16, 38 Stat. 181, amending the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, was repealed by section 643 of the act of Sept. 21, 1922, ch. 356, title IV, 42 Stat. 989.
 

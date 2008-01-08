@@ -10,7 +10,7 @@ Section is comprised of second par. of section 16 of act Dec. 23, 1913. For clas
 
 #### Amendments
 
-2003—Pub. L. 108–100 inserted “or any other asset of a Federal Reserve bank” before period at end of third sentence and “, or are otherwise held by or on behalf of,” after “in the vaults of” in last sentence.
+2003—Pub. L. 108–100 inserted “or any other asset of a Federal Reserve bank” before period at end of thirdsentence and “, or are otherwise held by or on behalf of,” after “in the vaults of” in last sentence.
 
 1999—Pub. L. 106–122 substituted “acceptances acquired under section 92, 342 to 348, 349 to 352, 361, 372, or 373 of this title” for “acceptances acquired under the provisions of sections 92, 342 to 347, 347c, 347d, 361, 372, and 373 of this title”.
 
@@ -20,7 +20,7 @@ Section is comprised of second par. of section 16 of act Dec. 23, 1913. For clas
 
 1968—Pub. L. 90–349 added Special Drawing Right certificates to the types of allowable collateral security which may be tendered for Federal Reserve notes.
 
-1945—Act June 12, 1945, substituted “, or direct obligations of the United States.” for proviso after “goldcertificates” in first sentence which limited period during which direct obligations of the United States could be accepted as collateral security.
+1945—Act June 12, 1945, substituted “, or direct obligations of the United States.” for proviso after “gold certificates” in first sentence which limited period during which direct obligations of the United States could be accepted as collateral security.
 
 1943—Act May 25, 1943, substituted “June 30, 1945” for “June 30, 1943,” in proviso.
 

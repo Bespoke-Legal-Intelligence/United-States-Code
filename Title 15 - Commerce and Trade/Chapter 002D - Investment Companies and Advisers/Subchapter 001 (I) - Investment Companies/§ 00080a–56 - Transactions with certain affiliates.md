@@ -56,7 +56,7 @@ The provisions of subsection (d) of this section shall apply to the following pe
 
 Notwithstanding subsection (d) of this section, a person described in subsection (e) of this section may engage in a proposed transaction described in subsection (d) of this section if such proposed transaction is approved by the required majority (as defined in subsection (<i>o</i>) of this section) of the directors of or general partners in the business development company on the basis that—
 
-&emsp;(1) the terms thereof, including the consideration to be paid or received, are reasonable and fair to the shareholders or partners of the business development company and do not involve overreaching of such company or its shareholders or partners on the part of any person concerned;
+&emsp;(1) the terms thereof, including the consideration to be paid or received, are reasonable and fair to the shareholders or partners of the business development company and do not involve overreaching of such company or itsshareholders or partners on the part of any person concerned;
 
 &emsp;(2) the proposed transaction is consistent with the interests of the shareholders or partners of the business development company and is consistent with the policy of such company as recited in filings made by such company with the Commission under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], its registration statement and reports filed under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], and its reports to shareholders or partners; and
 

@@ -38,7 +38,7 @@ National Aviation Research Plan.—(1) The Administrator of the Federal Aviation
 
 (2)(A) The plan shall describe, for a 5-year period, the research, engineering, and development that the Administrator of the Federal Aviation Administration considers necessary—
 
-&emsp;(i) to ensure the continued capacity, safety, and efficiency of aviation in the United States, considering emerging technologies and forecasted needs of civil aeronautics; and
+&emsp;(i) to ensure the continued capacity, safety, and efficiency of aviation in the UnitedStates, considering emerging technologies and forecasted needs of civil aeronautics; and
 
 &emsp;(ii) to provide the highest degree of safety in air travel.
 
@@ -123,6 +123,10 @@ Subsec. (c)(2)(A). Pub. L. 104–264, §1105(1), substituted “5-year period”
 Subsec. (c)(2)(B). Pub. L. 104–264, §1105(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) set out the requirements for research plans including specific requirements for the first two years of the plan, for the 3rd, 4th, and 5th years, and for the 6th and subsequent years.
 
 Subsec. (c)(3). Pub. L. 104–264, §1105(3), inserted “, including a description of the dissemination to the private sector of research results and a description of any new technologies developed” after “during the prior fiscal year”.
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology ofHouse of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2000 Amendment
 

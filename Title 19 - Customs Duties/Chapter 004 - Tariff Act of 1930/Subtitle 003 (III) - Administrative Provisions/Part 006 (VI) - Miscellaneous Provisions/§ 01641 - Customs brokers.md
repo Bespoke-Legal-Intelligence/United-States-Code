@@ -18,7 +18,7 @@ As used in this section:
 
 #### (2) Licenses for individuals
 
-&emsp;The Secretary may grant an individual a customs broker's license only if that individual is a citizen of the United States. Before granting the license, the Secretary may require an applicant to show any facts deemed necessary to establish that the applicant is ofgood moral character and qualified to render valuable service to others in the conduct of customs business. In assessing the qualifications of an applicant, the Secretary may conduct an examination to determine the applicant's knowledge of customs and related laws, regulations and procedures, bookkeeping, accounting, and all other appropriate matters.
+&emsp;The Secretary may grant an individual a customs broker's license only if that individual is a citizen of the United States. Before granting the license, the Secretary may require an applicant to show any facts deemed necessary to establish that the applicant is of good moral character and qualified to render valuable service to others in the conduct of customs business. In assessing the qualifications of an applicant, the Secretary may conduct an examination to determine the applicant's knowledge of customs and related laws, regulations and procedures, bookkeeping, accounting, and all other appropriate matters.
 
 #### (3) Licenses for corporations, etc.
 
@@ -110,7 +110,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;A customs broker, applicant, or other person directly affected may appeal any decision of the Secretary denying or revoking a license or permit under subsection (b) or (c) of this section, or revoking or suspending a license or permit or imposing a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, by filing in the Court of International Trade, within 60 days after the issuance of the decision or order, a written petition requesting that the decision or order be modified or set aside in whole or in part. A copy of the petition shall be transmitted promptly by theclerk of the court to the Secretary or his designee. In cases involving revocation or suspension of a license or permit or imposition of a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, after receipt of the petition, the Secretary shall file in court the record upon which the decision or order complained of was entered, as provided in section 2635(d) of title 28.
+&emsp;A customs broker, applicant, or other person directly affected may appeal any decision of the Secretary denying or revoking a license or permit under subsection (b) or (c) of this section, or revoking or suspending a license or permit or imposing a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, by filing in the Court of International Trade, within 60 days after the issuance of the decision or order, a written petition requesting that the decision or order be modified or set aside in whole or in part. A copy of the petition shall be transmitted promptly by the clerk of the court to the Secretary or his designee. In cases involving revocation or suspension of a license or permit or imposition of a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, after receipt of the petition, the Secretary shall file in court the record upon which the decision or order complained of was entered, as provided in section 2635(d) of title 28.
 
 #### (2) Consideration of objections
 
@@ -130,7 +130,7 @@ As used in this section:
 
 #### (6) Failure to appeal
 
-&emsp;If an appeal is not filed within the time limits specified in this section, the decision by the Secretary shall be final and conclusive. In the case of a monetary penalty imposed under subsection (d)(2)(B) of this section, if the amount is not tendered within 60 days after the decision becomes final, the license shall automatically be suspended until payment is made to the Customs Service.
+&emsp;If an appeal is not filed within the time limits specified in this section, the decision bythe Secretary shall be final and conclusive. In the case of a monetary penalty imposed under subsection (d)(2)(B) of this section, if the amount is not tendered within 60 days after the decision becomes final, the license shall automatically be suspended until payment is made to the Customs Service.
 
 #### (f) Regulations by the Secretary
 
@@ -160,7 +160,7 @@ The Secretary may prescribe such rules and regulations relating to the customs b
 
 The Secretary may prescribe reasonable fees and charges to defray the costs of the Customs Service in carrying out the provisions of this section, including, but not limited to, a fee for licenses issued under subsection (b) of this section and fees for any test administered by him or under his direction; except that no separate fees shall be imposed to defray the costs of an individual audit or of individual disciplinary proceedings of any nature.
 
-(June 17, 1930, ch. 497, title IV, §641, 46 Stat. 759; Aug. 26, 1935, ch. 689, §§3–5, 49 Stat. 864, 865; Pub. L. 85–791, §8, Aug. 28, 1958, 72 Stat. 945; Pub. L. 91–271, title III, §301(jj), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §113, Oct. 3, 1978, 92 Stat. 898; Pub. L. 96–417, title VI, §611, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 98–573, title II, §212(a), Oct. 30, 1984, 98 Stat. 2978; Pub. L. 99–514, title XVIII, §1888(8), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title VI, §648, Dec. 8, 1993, 107 Stat. 2207; Pub. L. 104–295, §21(e)(11), Oct. 11, 1996, 110 Stat.3531; Pub. L. 105–258, title III, §302(b), Oct. 14, 1998, 112 Stat. 1916.)
+(June 17, 1930, ch. 497, title IV, §641, 46 Stat. 759; Aug. 26, 1935, ch. 689, §§3–5, 49 Stat. 864, 865; Pub. L. 85–791, §8, Aug. 28, 1958, 72 Stat. 945; Pub. L. 91–271, title III, §301(jj), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §113, Oct. 3, 1978, 92 Stat. 898; Pub. L. 96–417, title VI, §611, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 98–573, title II, §212(a), Oct. 30, 1984, 98 Stat. 2978; Pub. L. 99–514, title XVIII, §1888(8), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title VI, §648, Dec. 8, 1993, 107 Stat. 2207; Pub. L. 104–295, §21(e)(11), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 105–258, title III, §302(b), Oct. 14, 1998, 112 Stat. 1916.)
 
 #### Prior Provisions
 

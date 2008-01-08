@@ -18,7 +18,7 @@ Each State shall, as expeditiously as practicable, undertake a continuing progra
 
 #### (b) Environmental Protection Agency program
 
-If the Administrator determines that any State program under subsection (a) of this section is not adequately providing information respecting the sites in such State referred to in subsection (a) of this section, the Administrator shall notify the State. If within ninety days following such notification, the State program has not been revised or amended in such manner as will adequately provide such information, the Administrator shall carry out the inventory program in such State. In any such case—
+If the Administrator determines that any State program under subsection (a) of this section is not adequately providing information respecting the sites in such State referred to insubsection (a) of this section, the Administrator shall notify the State. If within ninety days following such notification, the State program has not been revised or amended in such manner as will adequately provide such information, the Administrator shall carry out the inventory program in such State. In any such case—
 
 &emsp;(1) the Administrator shall have the authorities provided with respect to State programs under subsection (a) of this section;
 

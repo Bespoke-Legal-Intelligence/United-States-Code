@@ -96,7 +96,7 @@ Notice to Prisoners of Regulations.—The regulations promulgated by the Directo
 
 (j)
 
-Notice Before Public Comment Period.—Before the beginning of any period a proposed regulation under this section is open to public comment, the Director shall provide written and oral notice of the provisions of that proposed regulation to groups that advocate on behalf of Federal prisoners and to each prisoner subject to such proposed regulation.
+Notice Before Public Comment Period.—Before the beginning of any period a proposed regulation under this section is open to public comment, the Director shall provide written and oral notice of the provisions of that proposedregulation to groups that advocate on behalf of Federal prisoners and to each prisoner subject to such proposed regulation.
 
 (k)
 

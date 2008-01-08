@@ -8,7 +8,7 @@
 
 #### (2) On the management
 
-&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any organization manager in the excess benefit transaction, knowing that it is such a transaction, a tax equal to 10 percent of the excess benefit, unless such participation is not willful and is due to reasonablecause. The tax imposed by this paragraph shall be paid by any organization manager who participated in the excess benefit transaction.
+&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any organization manager in the excess benefit transaction, knowing that it is such a transaction, a tax equal to 10 percent of the excess benefit, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any organization manager who participated in the excess benefit transaction.
 
 #### (b) Additional tax on the disqualified person
 
@@ -46,7 +46,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) any grant, loan, compensation, or other similar payment provided by such organization to a person described in subparagraph (B), and
 
-&emsp;&emsp;&emsp;&emsp;(II) any loan provided by such organization to a disqualified person (other than an organization described in paragraph (1), (2), or (4) of section 509(a)), and
+&emsp;&emsp;&emsp;&emsp;(II) any loan provided by such organization to a disqualified person (other than an organization described in subparagraph (C)(ii)), and
 
 &emsp;&emsp;&emsp;(ii) the term “excess benefit” includes, with respect to any transaction described in clause (i), the amount of any such grant, loan, compensation, or other similar payment.
 
@@ -70,7 +70,11 @@ For purposes of this section—
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Such term shall not include any organization described in paragraph (1), (2), or (4) of section 509(a).
+&emsp;&emsp;&emsp;Such term shall not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) any organization described in paragraph (1), (2), or (4) of section 509(a), and
+
+&emsp;&emsp;&emsp;&emsp;(II) any organization which is treated as described in such paragraph (2) by reason of the last sentence of section 509(a) and which is a supported organization (as defined in section 509(f)(3)) of the organization to which subparagraph (A) applies.
 
 #### (4) Authority to include certain other private inurement
 
@@ -182,13 +186,17 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “investment advisor” means, with respect to any sponsoring organization (as defined in section 4966(d)(1)), any person (other than an employee of such organization) compensated by such organization for managing the investment of, or providing investment advice with respect to, assets maintained in donor advised funds (as defined in section 4966(d)(2)) owned by such organization.
 
-(Added Pub. L. 104–168, title XIII, §1311(a), July 30, 1996, 110 Stat. 1475; amended Pub. L. 109–280,title XII, §§1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, 120 Stat. 1074, 1098, 1099, 1104.)
+(Added Pub. L. 104–168, title XIII, §1311(a), July 30, 1996, 110 Stat. 1475; amended Pub. L. 109–280, title XII, §§1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, 120 Stat. 1074, 1098, 1099, 1104; Pub. L. 110–172, §3(i), Dec. 29, 2007, 121 Stat. 2475.)
 
 #### Codification
 
 Sections 1212(a)(3), 1232(a), (b), and 1242(a), (b) of Pub. L. 109–280, which directed the amendment of section 4958 without specifying the act to be amended, were executed to this section, which is section 4958 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+2007—Subsec. (c)(3)(A)(i)(II). Pub. L. 110–172, §3(i)(1), substituted “subparagraph (C)(ii)” for “paragraph (1), (2), or (4) of section 509(a)”.
+
+Subsec. (c)(3)(C)(ii). Pub. L. 110–172, §3(i)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Such term shall not include any organization described in paragraph (1), (2), or (4) of section 509(a).”
 
 2006—Subsec. (c)(2). Pub. L. 109–280, §1232(b)(1), added par. (2). Former par. (2) redesignated (3). See Codification note above.
 
@@ -213,6 +221,10 @@ Subsec. (f)(1)(F). Pub. L. 109–280, §1242(a), redesignated subpar. (E) as (F)
 Subsec. (f)(6). Pub. L. 109–280, §1232(b)(2), inserted “, except that in the case of any correction of an excess benefit transaction described in subsection (c)(2), no amount repaid in a manner prescribed by the Secretary may be held in any donor advised fund” after “standards”. See Codification note above.
 
 Subsec. (f)(7), (8). Pub. L. 109–280, §1232(a)(2), added pars. (7) and (8). See Codification note above.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2006 Amendment
 

@@ -150,7 +150,7 @@ Sec. 5. <i>Duties of the Director of the Center</i>. In implementing the policy 
 
 (b) correlate, analyze, evaluate, integrate, and produce reports on terrorism information;
 
-(c) disseminate transnational terrorism information, including current terrorism threat analysis, to the President, the Vice President in the performance of Executive functions, the Secretaries of State, Defense, and Homeland Security, the Attorney General, the Director of Central Intelligence, and other officials of the executive branch as appropriate;
+(c) disseminate transnational terrorism information, including current terrorism threat analysis, to the President, the Vice President in the performance of Executive functions, the Secretaries of State, Defense,and Homeland Security, the Attorney General, the Director of Central Intelligence, and other officials of the executive branch as appropriate;
 
 (d) support the Department of Homeland Security, and the Department of Justice, and other appropriate agencies, in fulfillment of their responsibility to disseminate terrorism information, consistent with applicable law, Executive Orders and other Presidential guidance, to State and local government officials, and other entities, and coordinate dissemination of terrorism information to foreign governments when approved by the Director of Central Intelligence;
 
@@ -180,7 +180,7 @@ Sec. 6. <i>Duties of the Heads of Agencies</i>. (a) To implement the policy set 
 
 Sec. 7. <i>Definitions</i>. As used in this order:
 
-(a) the term “agency” has the meaning set forth for the term “executive agency” in section 105 of title 5,United States Code, together with the Department of Homeland Security, but includes the Postal Rate Commission and the United States Postal Service and excludes the Government Accountability Office;
+(a) the term “agency” has the meaning set forth for the term “executive agency” in section 105 of title 5, United States Code, together with the Department of Homeland Security, but includes the Postal Rate Commission and the United States Postal Service and excludes the Government Accountability Office;
 
 (b) the term “Intelligence Community” has the meaning set forth for that term in section 3.4(f) of Executive Order 12333 of December 4, 1981, as amended \[50 U.S.C. 401 note\];
 

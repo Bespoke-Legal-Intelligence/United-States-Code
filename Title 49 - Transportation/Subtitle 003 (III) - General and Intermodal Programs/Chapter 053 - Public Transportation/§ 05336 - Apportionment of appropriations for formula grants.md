@@ -36,7 +36,7 @@ Based on Fixed Guideway Revenue Vehicle-Miles, Route-Miles, and Passenger-Miles.
 
 &emsp;(C) Under subparagraph (A) of this paragraph, fixed guideway revenue vehicle- or route-miles, and passengers served on those miles, in an urbanized area with a population of less than 200,000, where the miles and passengers served otherwise would be attributable to an urbanized area with a population of at least 1,000,000 in an adjacent State, are attributable to the governmental authority in the State in which the urbanized area with a population of less than 200,000 is located. The authority is deemed an urbanized area with a population of at least 200,000 if the authority makes a contract for the service.
 
-&emsp;(D) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not be reduced if the recipient, after satisfying the Secretary of Transportation that energy or operating efficiencies would be achieved, reduces revenue vehicle-miles but provides the same frequency of revenue service to the same number of riders.
+&emsp;(D) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not bereduced if the recipient, after satisfying the Secretary of Transportation that energy or operating efficiencies would be achieved, reduces revenue vehicle-miles but provides the same frequency of revenue service to the same number of riders.
 
 (c) <sup>1</sup>
 
@@ -82,7 +82,7 @@ Amounts Not Apportioned to Designated Recipients.—The chief executive officer 
 
 Transfers of Apportionments.—(1) The chief executive officer of a State may transfer any part of the State's apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c) of this title or amounts apportioned to urbanized areas under this subsection. The chief executive officer may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
 
-(2) The chief executive officer of a State may transfer any part of the State's apportionmentunder section 5311(c) of this title to supplement amounts apportioned to the State under subsection (a)(1) of this section.
+(2) The chief executive officer of a State may transfer any part of the State's apportionment under section 5311(c) of this title to supplement amounts apportioned to the State under subsection (a)(1) of this section.
 
 (3) The chief executive officer of a State may use throughout the State amounts of a State's apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
 

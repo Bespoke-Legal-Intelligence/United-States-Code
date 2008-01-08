@@ -18,7 +18,7 @@ If such service is made by mail, the summons may be served by the marshal or by 
 
 (f) When there is an unanticipated shortage of available petit jurors drawn from the qualified jury wheel, the court may require the marshal to summon a sufficient number of petit jurors selected at random from the voter registration lists, lists of actual voters, or other lists specified in the plan, in a manner ordered by the court consistent with sections 1861 and 1862 of this title.
 
-(g) Any person summoned for jury service who fails to appear as directed shall be ordered by the district court to appear forthwith and show cause for his failure to comply with the summons. Any person who fails to show good cause for noncompliance with a summons may be fined not more than $100 or imprisoned not more than three days, or both.
+(g) Any person summoned for jury service who fails to appear as directed shall be ordered bythe district court to appear forthwith and show cause for his failure to comply with the summons. Any person who fails to show good cause for noncompliance with a summons may be fined not more than $100 or imprisoned not more than three days, or both.
 
 (June 25, 1948, ch. 646, 62 Stat. 952; May 24, 1949, ch. 179, §96, 63 Stat. 103; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 91–543, Dec. 11, 1970, 84 Stat. 1408; Pub. L. 95–572, §2(b), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 97–463, §2, Jan. 12, 1983, 96 Stat. 2531; Pub. L. 100–702, title VIII, §801, Nov. 19, 1988, 102 Stat. 4657.)
 

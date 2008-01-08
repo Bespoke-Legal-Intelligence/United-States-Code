@@ -18,7 +18,7 @@
 
 &emsp;(D) A description of the technologies and facilities necessary to carry out the environmental restoration activities.
 
-&emsp;(E) A description of the waste management activities, including identification of specificprojects, necessary to continue to operate the Department of Energy facilities or to decontaminate and decommission the facilities, as the case may be.
+&emsp;(E) A description of the waste management activities, including identification of specific projects, necessary to continue to operate the Department of Energy facilities or to decontaminate and decommission the facilities, as the case may be.
 
 &emsp;(F) A description of research and development activities for waste management.
 

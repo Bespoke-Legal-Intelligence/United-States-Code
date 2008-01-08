@@ -24,10 +24,6 @@ Subsec. (b). Pub. L. 101–626, §104(a), added cl. (5).
 
 Subsec. (c). Pub. L. 101–626, §104(b), substituted “the southeast Alaska commercial fishing industry, and the Alaska Land Use Council.” for “and the Alaska Land Use Council”.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to reporting to Congress, every two years, on the status of the Tongass National Forest, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 48 of House Document No. 103–7.

@@ -66,7 +66,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;The principal negotiating objectives of the United States with respect to unfair trade practices are—
 
-&emsp;&emsp;(A) to improve the provisions of the GATT and nontariff measure agreements in order to define, deter, discourage the persistent use of, and otherwise discipline unfair trade practices having adverse trade effects, including forms of subsidy and dumping and other practices not adequately covered such as resource input subsidies, diversionary dumping, dumped or subsidized inputs, and export targeting practices;
+&emsp;&emsp;(A) to improve the provisions of the GATT and nontariff measure agreements in orderto define, deter, discourage the persistent use of, and otherwise discipline unfair trade practices having adverse trade effects, including forms of subsidy and dumping and other practices not adequately covered such as resource input subsidies, diversionary dumping, dumped or subsidized inputs, and export targeting practices;
 
 &emsp;&emsp;(B) to obtain the application of similar rules to the treatment of primary and nonprimary products in the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the GATT (relating to subsidies and countervailing measures); and
 
@@ -302,7 +302,7 @@ The functions conferred upon the President by section 5003(d)(1) (“Internation
 
 Sec. 3–201. <i>Authority to Review Certain Mergers, Acquisitions, and Takeovers.</i>
 
-(1) Executive Order No. 11858, as amended \[15 U.S.C. 78b note\], regarding the Committee on Foreign Investment in the United States (the “Committee”) is further amended as follows:
+(1) Executive Order No. 11858, as amended \[50 U.S.C. App. 2170 note\], regarding the Committee on Foreign Investment in the United States (the “Committee”) is further amended as follows:
 
 (A) By adding new Sections 7 and 8 as follows:
 
@@ -360,7 +360,7 @@ Any actions or determinations taken or made by an officer or agency under the Om
 
 Sec. 5–102. <i>Regulatory Review</i>. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291 of February 17, 1981 \[formerly 5 U.S.C. 601 note\], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act \[50 U.S.C. App. 2401 et seq.\], determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof \[50 U.S.C. App. 2407(b)\].
 
-Sec. 5–201. <i>Offsets</i>. The negotiating functions under section 825(c) of the Defense Authorization Act \[10 U.S.C. 2532 note\], as may be ordered by the President, are hereby jointly delegated to the Secretary of Defense and the United States Trade Representative. These functions shall be coordinated with the Secretary of State and conducted in consultation with the Secretaries of Commerce, Labor and the Treasury.
+Sec. 5–201. <i>Offsets</i>. The negotiating functions under section 825(c) of the Defense Authorization Act \[10U.S.C. 2532 note\], as may be ordered by the President, are hereby jointly delegated to the Secretary of Defense and the United States Trade Representative. These functions shall be coordinated with the Secretary of State and conducted in consultation with the Secretaries of Commerce, Labor and the Treasury.
 
 Sec. 5–202. <i>Reporting Functions</i>. The reporting functions of the President under section 825(d) of the Defense Authorization Act \[10 U.S.C. 2532 note\] are delegated to the Director of the Office of Management and Budget. The Director may further delegate to the heads of Executive departments and agencies responsibility for preparing particular sections of such reports. The heads of Executive departments and agencies shall, to the extent permitted by law, provide the Director with such information as may be necessary for the effective performance of these functions.
 

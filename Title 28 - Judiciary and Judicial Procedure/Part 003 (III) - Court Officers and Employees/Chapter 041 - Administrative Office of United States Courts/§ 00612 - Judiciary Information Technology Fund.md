@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Availability of Fund.—There is hereby established in the Treasury of the United States a special fund to be known as the “Judiciary Information Technology Fund” (hereafter in this section referred to as the “Fund”). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technology needs in accordance with subsections (b) and (c)(2).
+Establishment and Availability of Fund.—There is hereby established in the Treasury of the United States a special fund to be known as the “Judiciary Information Technology Fund” (hereafter in this section referred to as the “Fund”). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of theUnited States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technology needs in accordance with subsections (b) and (c)(2).
 
 (b)
 
@@ -174,7 +174,7 @@ Pub. L. 104–106, §5602(a)(3), (4), redesignated subsec. (m) as (<i>l</i>) and
 
 “(<i>l</i>)
 
-Definition.—For purposes of this section, the term ‘automatic data processing equipment’ has the meaning given that term in section 111(a)(2)(A) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2)(A)).”
+Definition.—For purposes of this section, the term ‘automatic data processing equipment’ has themeaning given that term in section 111(a)(2)(A) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2)(A)).”
 
 Subsec. (m). Pub. L. 104–106, §5602(a)(3), redesignated subsec. (m) as (<i>l</i>).
 

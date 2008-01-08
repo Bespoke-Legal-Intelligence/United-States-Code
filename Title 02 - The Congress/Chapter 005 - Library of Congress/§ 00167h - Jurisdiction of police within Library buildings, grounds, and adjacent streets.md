@@ -4,11 +4,19 @@ The police provided for in section 167 of this title shall have the power, withi
 
 (Aug. 4, 1950, ch. 561, §9, 64 Stat. 412; Pub. L. 93–198, title VII, §739(g)(9), Dec. 24, 1973, 87 Stat. 829; Pub. L. 100–135, §1(b)(1), Oct. 16, 1987, 101 Stat. 811.)
 
+#### Repeal of Section
+
+<i>Pub. L. 110–161, div. H, title I, §1004(d)(1)(B), Dec. 26, 2007, 121 Stat. 2233, and Pub. L. 110–178, §4(a)(2), Jan. 7, 2008, 121 Stat. 2551, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+
 #### Amendments
 
 1987—Pub. L. 100–135 substituted “The police” for “The special police”.
 
 1973—Pub. L. 93–198 inserted reference to violations of any law of the District of Columbia.
+
+#### Effective Date of Repeal
+
+Pub. L. 110–161, div. H, title I, §1004(d)(1)(B), Dec. 26, 2007, 121 Stat. 2233, and Pub. L. 110–178, §4(a)(2), Jan. 7, 2008, 121 Stat. 2551, provided that this section is repealed on Oct. 1, 2009.
 
 #### Effective Date of 1987 Amendment
 
@@ -16,5 +24,5 @@ Amendment by Pub. L. 100–135 applicable with respect to pay periods beginning 
 
 #### Effective Date of 1973 Amendment
 
-Section 771(d) of Pub. L. 93–198 provided that the amendment made by Pub. L. 93–198 is effective Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue inthe charter referendum accept the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
+Section 771(d) of Pub. L. 93–198 provided that the amendment made by Pub. L. 93–198 is effective Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accept the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
 

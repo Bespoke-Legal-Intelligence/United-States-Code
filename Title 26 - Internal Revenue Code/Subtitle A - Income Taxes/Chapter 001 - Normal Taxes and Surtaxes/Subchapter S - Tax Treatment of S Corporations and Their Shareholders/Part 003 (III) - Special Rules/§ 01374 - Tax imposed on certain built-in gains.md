@@ -12,7 +12,7 @@ If for any taxable year beginning in the recognition period an S corporation has
 
 #### (2) Net operating loss carryforwards from C years allowed
 
-&emsp;Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed for purposes of this section as a deduction against the net recognized built-in gain of the S corporation for the taxable year. For purposes of determining the amount of any such loss which may be carried to subsequent taxable years, the amount of the net recognized built-in gain shall betreated as taxable income. Rules similar to the rules of the preceding sentences of this paragraph shall apply in the case of a capital loss carryforward arising in a taxable year for which the corporation was a C corporation.
+&emsp;Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed for purposes of this section as a deduction against the net recognized built-in gain of the S corporation for the taxable year. For purposes of determining the amount of any such loss which may be carried to subsequent taxable years, the amount of the net recognized built-in gain shall be treated as taxable income. Rules similar to the rules of the preceding sentences of this paragraph shall apply in the case of a capital loss carryforward arising in a taxable year for which the corporation was a C corporation.
 
 #### (3) Credits
 
@@ -164,7 +164,7 @@ A prior section 1374, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 7
 
 1997—Subsec. (d)(7). Pub. L. 105–34 inserted at end “For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
 
-1989—Subsec. (b)(3)(B). Pub. L. 101–239, §7811(c)(8), inserted at end “A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.”
+1989—Subsec. (b)(3)(B). Pub. L. 101–239, §7811(c)(8), inserted at end “A similar rule shall apply in the case ofthe minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.”
 
 Subsec. (d)(2)(A)(i). Pub. L. 101–239, §7811(c)(4), struck out “(except as provided in subsection (b)(2))” after “taxable year if”.
 

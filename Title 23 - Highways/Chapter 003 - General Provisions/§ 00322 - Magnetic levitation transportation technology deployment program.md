@@ -8,7 +8,7 @@ Definitions.—In this section, the following definitions apply:
 
 Eligible project costs.—The term “eligible project costs”—
 
-&emsp;&emsp;(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways, propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads, and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and
+&emsp;&emsp;(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways,propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads, and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and
 
 &emsp;&emsp;(B) includes the costs of preconstruction planning activities.
 
@@ -28,7 +28,7 @@ Financial Assistance.—
 
 &emsp;(1)
 
-In general.—The Secretary shall make available financial assistance to pay the Federal share of full project costs of eligible projects selected under this section. Financialassistance made available under this section and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
+In general.—The Secretary shall make available financial assistance to pay the Federal share of full project costs of eligible projects selected under this section. Financial assistance made available under this section and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
 
 &emsp;(2)
 

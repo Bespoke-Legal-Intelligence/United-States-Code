@@ -116,7 +116,7 @@ Incorporation of past experience and practice.—The policy developed under para
 
 &emsp;“(4)
 
-Procedures.—The policy shall include procedures to be followed by the military departments in the provision of casualty assistance to survivors and next of kin of military decedents. The procedures shall be uniform across the military departments except to the extent necessary to reflect the traditional practices or customs of a particular military department.
+Procedures.—The policy shall include procedures to be followed by the military departments in the provision of casualty assistance to survivors andnext of kin of military decedents. The procedures shall be uniform across the military departments except to the extent necessary to reflect the traditional practices or customs of a particular military department.
 
 “(b)
 

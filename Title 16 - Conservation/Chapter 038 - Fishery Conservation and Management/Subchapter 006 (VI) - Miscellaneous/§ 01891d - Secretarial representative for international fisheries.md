@@ -26,3 +26,7 @@ This section shall take effect on January 1, 2009.
 
 Section was enacted as part of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

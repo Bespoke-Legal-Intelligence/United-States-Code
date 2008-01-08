@@ -12,7 +12,7 @@ The Administrator shall—
 
 &emsp;&emsp;&emsp;(i) describes the functions performed by the Administration;
 
-&emsp;&emsp;&emsp;(ii) sets forth in detail the organization of the Administration, the location of its offices (including regional, State, and local offices), the names and phone numbers of Administration officials, and other appropriate information concerning the operation of the Administration;
+&emsp;&emsp;&emsp;(ii) sets forth in detail the organization of the Administration, the location of its offices (including regional, State, and localoffices), the names and phone numbers of Administration officials, and other appropriate information concerning the operation of the Administration;
 
 &emsp;&emsp;&emsp;(iii) delineates the role that State, and Federal governments will or may perform in achieving the purposes of this chapter; and
 

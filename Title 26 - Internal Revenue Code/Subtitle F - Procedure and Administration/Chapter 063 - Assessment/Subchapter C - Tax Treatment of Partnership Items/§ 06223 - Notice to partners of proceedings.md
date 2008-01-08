@@ -8,7 +8,7 @@ The Secretary shall mail to each partner whose name and address is furnished to 
 
 &emsp;(2) the final partnership administrative adjustment resulting from any such proceeding.
 
-> A partner shall not be entitled to any notice under this subsection unless the Secretary hasreceived (at least 30 days before it is mailed to the tax matters partner) sufficient information to enable the Secretary to determine that such partner is entitled to such notice and to provide such notice to such partner.
+> A partner shall not be entitled to any notice under this subsection unless the Secretary has received (at least 30 days before it is mailed to the tax matters partner) sufficient information to enable the Secretary to determine that such partner is entitled to such notice and to provide such notice to such partner.
 
 #### (b) Special rules for partnership with more than 100 partners
 
@@ -92,7 +92,7 @@ For purposes of this subchapter—
 
 #### (f) Only one notice of final partnership administrative adjustment
 
-If the Secretary mails a notice of final partnership administrative adjustment for a partnership taxable year with respect to a partner, the Secretary may not mail another such notice to such partner with respect to the same taxable year of the same partnership in the absence of ashowing of fraud, malfeasance, or misrepresentation of a material fact.
+If the Secretary mails a notice of final partnership administrative adjustment for a partnership taxable year with respect to a partner, the Secretary may not mail another such notice to such partner with respect to the same taxable year of the same partnership in the absence of a showing of fraud, malfeasance, or misrepresentation of a material fact.
 
 #### (g) Tax matters partner must keep partners informed of proceedings
 

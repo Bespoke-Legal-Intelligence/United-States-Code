@@ -24,7 +24,7 @@ The on-site manager appointed under subsection (a) of this section shall—
 
 &emsp;(3) meet with all participants to seek assurances that those steps or activities are being completed on schedule; and
 
-&emsp;(4) suspend United States participation in a project when a non-United States participantfails to complete a scheduled step or activity on time, unless directed by the Secretary of Defense to resume United States participation.
+&emsp;(4) suspend United States participation in a project when a non-United States participant fails to complete a scheduled step or activity on time, unless directed by the Secretary of Defense to resume United States participation.
 
 #### (d) Authority to manage more than one project
 

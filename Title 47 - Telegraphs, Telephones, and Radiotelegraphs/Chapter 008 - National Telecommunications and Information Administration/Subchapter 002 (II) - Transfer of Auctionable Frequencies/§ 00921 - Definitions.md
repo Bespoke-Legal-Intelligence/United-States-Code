@@ -68,41 +68,5 @@ Pub. L. 106–65, div. A, title X, §1062(c)(1), Oct. 5, 1999, 113 Stat. 768, pr
 
 #### Assessment of Electromagnetic Spectrum Reallocation
 
-Pub. L. 102–538, title I, §156, as added by Pub. L. 106–65, div. A, title X, §1062(a), Oct. 5, 1999, 113 Stat. 767, provided that:
-
-“(a)
-
-Review and Assessment of Electromagnetic Spectrum Reallocation.—
-
-&emsp;“(1)
-
-Review and assessment required.—The Secretary of Commerce, acting through the Assistant Secretary and in coordination with the Chairman of the Federal Communications Commission, shall convene an interagency review and assessment of—
-
-&emsp;&emsp;“(A) the progress made in implementation of national spectrum planning;
-
-&emsp;&emsp;“(B) the reallocation of Federal Government spectrum to non-Federal use, in accordance with the amendments made by title VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 258) \[enacting section 337 of this title, amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title\]; and
-
-&emsp;&emsp;“(C) the implications for such reallocations to the affected Federal executive agencies.
-
-&emsp;“(2)
-
-Coordination.—The assessment shall be conducted in coordination with affected Federal executive agencies through the Interdepartmental Radio Advisory Committee.
-
-&emsp;“(3)
-
-Cooperation and assistance.—Affected Federal executive agencies shall cooperate with the Assistant Secretary in the conduct of the review and assessment and furnish the Assistant Secretary with such information, support, and assistance, not inconsistent with law, as the Assistant Secretary may consider necessary in the performance of the review and assessment.
-
-&emsp;“(4)
-
-Attention to particular subjects required.—In the conduct of the review and assessment, particular attention shall be given to—
-
-&emsp;&emsp;“(A) the effect on critical military and intelligence capabilities, civil space programs, and other Federal Government systems used to protect public safety of the reallocated spectrum described in paragraph (1)(B) of this subsection;
-
-&emsp;&emsp;“(B) the anticipated impact on critical military and intelligence capabilities, future military and intelligence operational requirements, national defense modernization programs, and civil space programs, and other Federal Government systems used to protect public safety, of future potential reallocations to non-Federal use of bands of the electromagnetic spectrum that are currently allocated for use by the Federal Government; and
-
-&emsp;&emsp;“(C) future spectrum requirements of agencies in the Federal Government.
-
-“(b)
-
-Submission of Report.—The Secretary of Commerce, in coordination with the heads of the affected Federal executive agencies, and the Chairman of the Federal Communications Commission shall submit to the President, the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services, the Committee on Commerce \[now Committee on Energy and Commerce\], and the Committee on Science of the House of Representatives, not later than October 1, 2000, a report providing the results of the assessment required by subsection (a).”
+Pub. L. 102–538, title I, §156, as added by Pub. L. 106–65, div. A, title X, §1062(a), Oct. 5, 1999, 113 Stat. 767, required the Secretary of Commerce to convene an interagency review and assessment of the progress made in implementation of national spectrum planning, the reallocation of Federal Government spectrum to non-Federal use, and the implications for such reallocations to the affected Federal executive agencies and to submit to the President and committees of Congress, not later than Oct. 1, 2000, a report on the assessment.
 

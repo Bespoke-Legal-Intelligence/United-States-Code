@@ -78,7 +78,7 @@ As used in this part:
 
 #### (7) Restructure and restructuring
 
-&emsp;The terms “restructure” and “restructuring” include rescheduling, reamortization, renewal, deferral of principal or interest, monetary concessions, and the taking of any other action to modify the terms of, or forbear on, a loan in any way that will make it probable that the operations of the borrower will become financially viable.
+&emsp;The terms “restructure” and “restructuring” include rescheduling, reamortization, renewal, deferral of principal or interest, monetary concessions, and the taking of any other action to modify the terms of, or forbear on, a loan in any way that will make it probablethat the operations of the borrower will become financially viable.
 
 #### (b) Notice
 

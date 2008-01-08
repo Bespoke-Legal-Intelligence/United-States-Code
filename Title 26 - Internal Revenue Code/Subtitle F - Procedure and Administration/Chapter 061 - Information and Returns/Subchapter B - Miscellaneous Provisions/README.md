@@ -13,7 +13,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6107\.](%C2%A7%2006107%20-%20Income%20tax%20return%20preparer%20must%20furnish%20copy%20of%20return%20to%20taxpayer%20and%20must%20retain%20a%20copy%20or%20list.md) | Income tax return preparer must furnish copy of return to taxpayer and must retain a copy or list. |
+| [6107\.](%C2%A7%2006107%20-%20Tax%20return%20preparer%20must%20furnish%20copy%20of%20return%20to%20taxpayer%20and%20must%20retain%20a%20copy%20or%20list.md) | Tax return preparer must furnish copy of return to taxpayer and must retain a copy or list. |
 | [6108\.](%C2%A7%2006108%20-%20Statistical%20publications%20and%20studies.md) | Publication of statistics of income.<sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,6 +32,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 110–28, title VIII, §8246(a)(2)(C)(ii), May 25, 2007, 121 Stat. 201, substituted “Tax return preparer” for “Income tax return preparer” in item 6107.
 
 2004—Pub. L. 108–357, title VIII, §815(b)(1), (4), Oct. 22, 2004, 118 Stat. 1582, 1583, substituted “Disclosure of reportable transactions” for “Registration of tax shelters” in item 6111 and “Material advisors of reportable transactions must keep lists of advisees, etc.” for “Organizers and sellers of potentially abusive tax shelters must keep lists of investors” in item 6112.
 
@@ -68,7 +70,7 @@
 - [&sect; 06104 - Publicity of information required from certain exempt organizations and certain trusts](%C2%A7%2006104%20-%20Publicity%20of%20information%20required%20from%20certain%20exempt%20organizations%20and%20certain%20trusts.md)
 - [&sect; 06105 - Confidentiality of information arising under treaty obligations](%C2%A7%2006105%20-%20Confidentiality%20of%20information%20arising%20under%20treaty%20obligations.md)
 - [&sect; 06106 - Repealed. Pub. L. 94&#8211;455, title XII, &sect;1202(h)(1), Oct. 4, 1976, 90 Stat. 1688](%C2%A7%2006106%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XII%2C%20%C2%A71202%28h%29%281%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201688.md)
-- [&sect; 06107 - Income tax return preparer must furnish copy of return to taxpayer and must retain a copy or list](%C2%A7%2006107%20-%20Income%20tax%20return%20preparer%20must%20furnish%20copy%20of%20return%20to%20taxpayer%20and%20must%20retain%20a%20copy%20or%20list.md)
+- [&sect; 06107 - Tax return preparer must furnish copy of return to taxpayer and must retain a copy or list](%C2%A7%2006107%20-%20Tax%20return%20preparer%20must%20furnish%20copy%20of%20return%20to%20taxpayer%20and%20must%20retain%20a%20copy%20or%20list.md)
 - [&sect; 06108 - Statistical publications and studies](%C2%A7%2006108%20-%20Statistical%20publications%20and%20studies.md)
 - [&sect; 06109 - Identifying numbers](%C2%A7%2006109%20-%20Identifying%20numbers.md)
 - [&sect; 06110 - Public inspection of written determinations](%C2%A7%2006110%20-%20Public%20inspection%20of%20written%20determinations.md)

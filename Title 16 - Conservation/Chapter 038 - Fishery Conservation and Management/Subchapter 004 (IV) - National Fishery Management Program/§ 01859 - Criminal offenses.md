@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 101–627, §115(b), substituted “$100,000” for “$50,
 
 #### Effective Date of 1983 Amendment
 
-Section 11(b) of Pub. L. 97–453 provided that: “The amendment made by subsection (a) \[amending this section\] applies with respect to offenses committed undersection 309 \[this section\] on or after the date of the enactment of this Act \[Jan. 12, 1983\].”
+Section 11(b) of Pub. L. 97–453 provided that: “The amendment made by subsection (a) \[amending this section\] applies with respect to offenses committed under section 309 \[this section\] on or after the date of the enactment of this Act \[Jan. 12, 1983\].”
 
 #### Effective Date
 

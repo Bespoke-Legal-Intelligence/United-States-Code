@@ -1,6 +1,6 @@
 ### §8213. Pilot program assistance
 
-(a) Subject to subsection (b) of this section, the Secretary may enter into an agreement to provide to any college or university which is primarily supported by the State in which it is located (hereinafter in this subchapter referred to as “institution”) the following assistance to enable such institution to establish a new medical school:
+(a) Subject to subsection (b) of this section, the Secretary may enter into an agreement toprovide to any college or university which is primarily supported by the State in which it is located (hereinafter in this subchapter referred to as “institution”) the following assistance to enable such institution to establish a new medical school:
 
 &emsp;(1) The extension, alteration, remodeling, improvement, or repair of buildings and structures (including, as part of a lease made under paragraph (1), the provision of equipment) provided under paragraph (1) to the extent necessary to make them suitable for use as medical school facilities.
 

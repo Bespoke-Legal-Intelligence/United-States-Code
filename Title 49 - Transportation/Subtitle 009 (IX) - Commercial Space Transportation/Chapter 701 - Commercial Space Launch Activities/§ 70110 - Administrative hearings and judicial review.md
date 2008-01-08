@@ -18,7 +18,7 @@ Administrative Hearings.—The Secretary of Transportation shall provide an oppo
 
 Judicial Review.—A final action of the Secretary under this chapter is subject to judicial review as provided in chapter 7 of title 5.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1335; Pub. L. 105–303, title I, §102(a)(10), Oct. 28, 1998,112 Stat. 2849; Pub. L. 108–492, §2(c)(20), Dec. 23, 2004, 118 Stat. 3981.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1335; Pub. L. 105–303, title I, §102(a)(10), Oct. 28, 1998, 112 Stat. 2849; Pub. L. 108–492, §2(c)(20), Dec. 23, 2004, 118 Stat. 3981.)
 
 Historical and Revision Notes
 

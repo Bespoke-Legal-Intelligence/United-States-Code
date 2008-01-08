@@ -1,5 +1,5 @@
 
-6 U.S.C.<br>United States Code, 2006 Edition<br>Title 6 - DOMESTIC SECURITY<br>From the U.S. Government Publishing Office, www.gpo.gov
+6 U.S.C.<br>United States Code, 2007 Edition<br>Title 6 - DOMESTIC SECURITY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 6—DOMESTIC SECURITY
 
@@ -8,6 +8,8 @@
 | [<b>1.</b>](Chapter%20001%20-%20Homeland%20Security%20Organization/README.md) | <b>Homeland Security Organization</b> | <b>101</b> |
 | [<b>2.</b>](Chapter%20002%20-%20National%20Emergency%20Management/README.md) | <b>National Emergency Management</b> | <b>701</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Security%20and%20Accountability%20for%20Every%20Port/README.md) | <b>Security and Accountability for Every Port</b> | <b>901</b> |
+| [<b>4.</b>](Chapter%20004%20-%20Transportation%20Security/README.md) | <b>Transportation Security</b> | <b>1101</b> |
+| [<b>5.</b>](Chapter%20005%20-%20Border%20Infrastructure%20and%20Technology%20Modernization/README.md) | <b>Border Infrastructure and Technology Modernization</b> | <b>1401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -57,3 +59,5 @@ Section 15, act July 30, 1947, ch. 390, 61 Stat. 650, which related to bonds and
 - [Chapter 001 - Homeland Security Organization](Chapter%20001%20-%20Homeland%20Security%20Organization/README.md)
 - [Chapter 002 - National Emergency Management](Chapter%20002%20-%20National%20Emergency%20Management/README.md)
 - [Chapter 003 - Security and Accountability for Every Port](Chapter%20003%20-%20Security%20and%20Accountability%20for%20Every%20Port/README.md)
+- [Chapter 004 - Transportation Security](Chapter%20004%20-%20Transportation%20Security/README.md)
+- [Chapter 005 - Border Infrastructure and Technology Modernization](Chapter%20005%20-%20Border%20Infrastructure%20and%20Technology%20Modernization/README.md)

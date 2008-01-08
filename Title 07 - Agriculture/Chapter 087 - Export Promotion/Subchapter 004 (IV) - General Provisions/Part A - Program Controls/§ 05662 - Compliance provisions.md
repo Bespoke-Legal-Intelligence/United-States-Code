@@ -34,5 +34,5 @@ The provisions of section 1001 of title 18 shall apply to any false certificatio
 
 #### Amendments
 
-1996—Subsec. (a)(2), (3). Pub. L. 104–127 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “The Secretary may require by regulation an exporter or other participant in the programs to make records available to the Secretary with respect to non-program transactions if such records would pertain directly to the review ofprogram-related transactions undertaken by such exporter or participant, as determined by the Secretary.”
+1996—Subsec. (a)(2), (3). Pub. L. 104–127 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “The Secretary may require by regulation an exporter or other participant in the programs to make records available to the Secretary with respect to non-program transactions if such records would pertain directly to the review of program-related transactions undertaken by such exporter or participant, as determined by the Secretary.”
 

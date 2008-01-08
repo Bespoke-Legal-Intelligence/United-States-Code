@@ -52,11 +52,11 @@ The Secretary may prescribe terms and conditions under which amenable species th
 
 Act of August 27, 1958, referred to in subsec. (a), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, as amended, which is classified generally to chapter 48 (§1901 et seq.) of Title 7, Agriculture. Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, §5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat.1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this act to the Code, see section 301 of this title and Tables.
 
 #### Codification
 
-Subsec. (e) of this section, which required the Secretary to submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a comprehensive and detailed written annual report on the administration of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
+Subsec. (e) of this section, which required the Secretary to submit to the Committee on Agriculture of the House of Representatives and the Committee onAgriculture, Nutrition, and Forestry of the Senate a comprehensive and detailed written annual report on the administration of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
 
 Section was formerly classified to section 88 of this title.
 

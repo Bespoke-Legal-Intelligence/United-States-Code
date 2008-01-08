@@ -6,7 +6,7 @@ Beginning in fiscal year 2005 and thereafter, the Secretary of State is authoriz
 
 #### Codification
 
-Section appears under the headings “Administration of Foreign Affairs” and “Diplomatic and Consular Programs” in title IV of div. B of Pub. L. 108–447. It was enacted as part of the Department of State and Related Agency Appropriations Act, 2005, and also as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005, and as part of the Consolidated Appropriations Act, 2005, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
+Section appears under the headings “Administration of Foreign Affairs” and “Diplomatic and Consular Programs” in title IV of div. B of Pub. L. 108–447. It was enacted as part of the Department of State and Related Agency Appropriations Act, 2005, and also as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005, and as part of the Consolidated Appropriations Act,2005, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
 
 #### Authority to Administratively Amend Surcharges
 

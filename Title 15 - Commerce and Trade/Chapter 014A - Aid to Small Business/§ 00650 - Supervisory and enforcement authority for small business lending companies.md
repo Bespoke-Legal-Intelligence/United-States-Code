@@ -26,7 +26,7 @@ The Administrator is authorized—
 
 #### (c) Civil action
 
-If a small business lending company violates this chapter, the Administrator may institute a civil action in an appropriate district court toterminate the rights, privileges, and franchises of the company under this chapter.
+If a small business lending company violates this chapter, the Administrator may institute a civil action in an appropriate district court to terminate the rights, privileges, and franchises of the company under this chapter.
 
 #### (d) Revocation or suspension of loan authority
 
@@ -64,7 +64,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (f) Procedure for revocation or suspension of loan authority and for cease and desist order
 
-(1) Before revoking or suspending authority under subsection (d) of this section or issuing a cease and desist order under subsection (e) of this section, the Administrator shall serve an order to show cause upon the small business lending company, non-Federally regulated lender, or other person why an order revoking or suspending the authority or a cease and desist order should not be issued. The order to show cause shall contain a statement of the matters of fact and law asserted by the Administrator and the legal authority and jurisdiction under which a hearing is to be held, and shall set forth that a hearing will be held before an administrative law judge at a time and place stated in the order. Such hearing shall be conducted pursuant to the provisions of sections 554, 556, and 557 of title 5. If after hearing, or a waiver thereof, the Administrator determines that an order revoking or suspending the authority or a cease and desist order should be issued, the Administrator shall promptly issue such order, which shall include a statement of the findings of the Administrator and the grounds and reasons therefor and specify the effective date of the order, and shall cause the order to be served on the small business lending company, non-Federally regulated lender, or other person involved.
+(1) Before revoking or suspending authority under subsection (d) of this section or issuing a cease and desist order under subsection (e) of this section, the Administrator shall serve an order to show cause upon the small business lending company, non-Federally regulated lender, or other person why an order revoking or suspending the authority or a cease and desist order should not be issued. The order to show cause shall contain a statement of the matters of fact and law asserted by the Administrator and the legal authority and jurisdiction under which a hearing is to be held, and shall set forth that a hearing will be held before an administrative law judge at a time and place stated in theorder. Such hearing shall be conducted pursuant to the provisions of sections 554, 556, and 557 of title 5. If after hearing, or a waiver thereof, the Administrator determines that an order revoking or suspending the authority or a cease and desist order should be issued, the Administrator shall promptly issue such order, which shall include a statement of the findings of the Administrator and the grounds and reasons therefor and specify the effective date of the order, and shall cause the order to be served on the small business lending company, non-Federally regulated lender, or other person involved.
 
 (2) Witnesses summoned before the Administrator shall be paid by the party at whose instance they were called the same fees and mileage that are paid witnesses in the courts of the United States.
 
@@ -198,7 +198,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 (2) The Administrator may by rules and regulations that shall be codified in the Code of Federal Regulations, after an opportunity for notice and comment, or upon application of an interested party, at any time previous to such failure, by order, after notice and opportunity for hearing which shall be conducted pursuant to sections 554, 556, and 557 of title 5, exempt in whole or in part, any small business lending company or non-Federally regulated lender from paragraph (1), upon such terms and conditions and for such period of time as it deems necessary and appropriate, if the Administrator finds that such action is not inconsistent with the public interest or the protection of the Administration. The Administrator may for the purposes of this section make any alternative requirements appropriate to the situation.
 
-(Pub. L. 85–536, §2\[23\], as added Pub. L. 98–473, title I, §111A(a), Oct. 12, 1984, 98 Stat. 1965; Pub.L. 108–447, div. K, title I, §161, Dec. 8, 2004, 118 Stat. 3458.)
+(Pub. L. 85–536, §2\[23\], as added Pub. L. 98–473, title I, §111A(a), Oct. 12, 1984, 98 Stat. 1965; Pub. L. 108–447, div. K, title I, §161, Dec. 8, 2004, 118 Stat. 3458.)
 
 #### Prior Provisions
 

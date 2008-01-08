@@ -2,7 +2,7 @@
 
 #### (a) Agency responsibility
 
-In support of the national preparedness system, the President shall ensure that each Federal agency with coordinating, primary, or supporting responsibilities under the National Response Plan—
+In support of the national preparedness system, the President shall ensure that each Federal agency with responsibilities under the National Response Plan—
 
 &emsp;(1) has the operational capability to meet the national preparedness goal, including—
 
@@ -14,11 +14,13 @@ In support of the national preparedness system, the President shall ensure that 
 
 &emsp;&emsp;(D) the command, control, and communication channels to make, monitor, and communicate decisions;
 
-&emsp;(2) complies with the National Incident Management System;
+&emsp;(2) complies with the National Incident Management System, including credentialing of personnel and typing of resources likely needed to respond to a natural disaster, act of terrorism, or other man-made disaster in accordance with section 320 of this title;
 
-&emsp;(3) develops, trains, and exercises rosters of response personnel to be deployed when the agency is called upon to support a Federal response; and
+&emsp;(3) develops, trains, and exercises rosters of response personnel to be deployed when the agency is called upon to support a Federal response;
 
-&emsp;(4) develops deliberate operational plans and the corresponding capabilities, including crisis planning, to respond effectively to natural disasters, acts of terrorism, and other man-made disasters in support of the National Response Plan to ensure a coordinated Federal response.
+&emsp;(4) develops deliberate operational plans and the corresponding capabilities, including crisis planning, to respond effectively to natural disasters, acts of terrorism, and other man-made disasters in support of the National Response Plan to ensure a coordinated Federal response; and
+
+&emsp;(5) regularly updates, verifies the accuracy of, and provides to the Administrator the information in the inventory required under section 751 of this title.
 
 #### (b) Operational plans
 
@@ -78,7 +80,7 @@ To expedite the provision of assistance under the National Response Plan, the Pr
 
 #### (d) Certification
 
-The President shall certify on an annual basis that each Federal agency with coordinating, primary, or supporting responsibilities under the National Response Plan complies with subsections (a) and (b).
+The President shall certify to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives on an annual basis that each Federal agency with responsibilities under the National Response Plan complies with subsections (a) and (b).
 
 #### (e) Construction
 
@@ -88,5 +90,15 @@ Nothing in this section shall be construed to limit the authority of the Secreta
 
 &emsp;(2) the allocation of Department of Defense resources.
 
-(Pub. L. 109–295, title VI, §653, Oct. 4, 2006, 120 Stat. 1430.)
+(Pub. L. 109–295, title VI, §653, Oct. 4, 2006, 120 Stat. 1430; Pub. L. 110–53, title IV, §407, Aug. 3, 2007, 121 Stat. 304.)
+
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 110–53, §407(1)(A), struck out “coordinating, primary, or supporting” before “responsibilities” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 110–53, §407(1)(B), inserted “, including credentialing of personnel and typing of resources likely needed to respond to a natural disaster, act of terrorism, or other man-made disaster in accordance with section 320 of this title” before semicolon at end.
+
+Subsec. (a)(5). Pub. L. 110–53, §407(1)(C)–(E), added par. (5).
+
+Subsec. (d). Pub. L. 110–53, §407(2), inserted “to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives” after “certify” and struck out “coordinating, primary, or supporting” before “responsibilities”.
 

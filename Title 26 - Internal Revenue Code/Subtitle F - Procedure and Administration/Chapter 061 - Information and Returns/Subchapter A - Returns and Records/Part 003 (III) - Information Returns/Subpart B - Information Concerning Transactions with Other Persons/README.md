@@ -51,11 +51,11 @@ Subpart B—Information Concerning Transactions With Other Persons
 
 #### Amendments
 
-2006—Pub. L. 109–280, title XII, §1211(a)(2), Aug. 17, 2006, 120 Stat. 1073, which directed the amendment of the analysis for subpart B of part III of subchapter A of chapter 61 by adding item 6050V, without specifying theact to be amended, was executed by adding item 6050V to this analysis, which is part of chapter 61 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+2006—Pub. L. 109–280, title XII, §1211(a)(2), Aug. 17, 2006, 120 Stat. 1073, which directed the amendment of the analysis for subpart B of part III of subchapter A of chapter 61 by adding item 6050V, without specifying the act to be amended, was executed by adding item 6050V to this analysis, which is part of chapter 61 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 Pub. L. 109–280, title VIII, §844(d)(3), Aug. 17, 2006, 120 Stat. 1013, added item 6050U.
 
-2004—Pub. L. 108–357, title VIII, §882(c)(2), Oct. 22, 2004, 118 Stat. 1630, which directed amendment of the analysis for subpart A of part II of subchapter A of chapter 61 of this title by substituting “Returns relating to certain donated property” for “Returns relating to certain dispositions of donated property” in item 6050L, was executed by making the substitution in item 6050L in the analysis for this subpart, to reflect the probable intent of Congress.
+2004—Pub. L. 108–357, title VIII, §882(c)(2), Oct. 22, 2004, 118 Stat. 1630, which directed amendment of the analysis for subpart A of part II of subchapter A of chapter 61 of this title by substituting “Returns relating to certain donated property” for “Returns relatingto certain dispositions of donated property” in item 6050L, was executed by making the substitution in item 6050L in the analysis for this subpart, to reflect the probable intent of Congress.
 
 Pub. L. 108–357, title VIII, §805(c), Oct. 22, 2004, 118 Stat. 1574, added item 6043A.
 

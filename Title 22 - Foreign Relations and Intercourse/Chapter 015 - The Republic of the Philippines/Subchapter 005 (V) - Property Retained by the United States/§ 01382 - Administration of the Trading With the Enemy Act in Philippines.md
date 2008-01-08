@@ -6,7 +6,7 @@ The Trading With the Enemy Act of October 6, 1917 (40 Stat. 411), as amended, sh
 
 #### References in Text
 
-The Trading With the Enemy Act of October 6, 1917, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act of October 6, 1917, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix,War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -30,7 +30,7 @@ Ex. Ord. No. 9876, July 24, 1947, 12 F.R. 4981, authorized the delegation of cer
 
 #### Executive Order No. 9921
 
-Ex. Ord. No. 9921, Jan 10, 1948, 13 F.R. 171, authorized the Philippine Alien Property Administrator to transfer certain property to the Republic of the Philippines, and was omitted under the authority of Ex. Ord. No.10254, set out below, which terminated the Alien Property Administration.
+Ex. Ord. No. 9921, Jan 10, 1948, 13 F.R. 171, authorized the Philippine Alien Property Administrator to transfer certain property to the Republic of the Philippines, and was omitted under the authority of Ex. Ord. No. 10254, set out below, which terminated the Alien Property Administration.
 
 #### Ex. Ord. No. 10254. Termination of Philippine Alien Property Administration and Transfer of Functions to Department of Justice
 

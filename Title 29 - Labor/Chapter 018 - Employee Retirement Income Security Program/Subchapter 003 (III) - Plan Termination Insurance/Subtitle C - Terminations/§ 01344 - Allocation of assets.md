@@ -10,7 +10,7 @@ In the case of the termination of a single-employer plan, the plan administrator
 
 &emsp;(3) Third, in the case of benefits payable as an annuity—
 
-&emsp;&emsp;(A) in the case of the benefit of a participant or beneficiary which was in pay status as of the beginning of the 3-year period ending on the termination date of the plan, to each such benefit, based on the provisions of the plan (as in effect during the 5-year period ending on such date) under which such benefit would be the least,
+&emsp;&emsp;(A) in the case of the benefit of a participant or beneficiary which was in pay status as of the beginning of the 3-year period ending on the termination date of the plan, toeach such benefit, based on the provisions of the plan (as in effect during the 5-year period ending on such date) under which such benefit would be the least,
 
 &emsp;&emsp;(B) in the case of a participant's or beneficiary's benefit (other than a benefit described in subparagraph (A)) which would have been in pay status as of the beginning of such 3-year period if the participant had retired prior to the beginning of the 3-year period and if his benefits had commenced (in the normal form of annuity under the plan) as of the beginning of such period, to each such benefit based on the provisions of the plan (as in effect during the 5-year period ending on such date) under which such benefit would be the least.
 
@@ -52,7 +52,7 @@ For purposes of subsection (a) of this section—
 
 #### (c) Increase or decrease in value of assets
 
-Any increase or decrease in the value of the assets of a single-employer plan occurring during the period beginning on the later of (1) the date a trustee is appointed under section 1342(b) of this title or (2) the date on which the plan is terminated is to be allocated between the plan and the corporation in the manner determined by the court (in the case of a court-appointed trustee) or as agreed upon by the corporation and the plan administrator in any other case. Any increase or decrease in the value of the assets of a single-employer plan occurring after the date on which the plan is terminated shall be credited to, or suffered by, the corporation.
+Any increase or decrease in the value of the assets of a single-employer plan occurring during the period beginning on the later of (1) the date a trustee is appointed under section 1342(b) of this title or (2) the date on which the plan is terminated is to be allocated between the planand the corporation in the manner determined by the court (in the case of a court-appointed trustee) or as agreed upon by the corporation and the plan administrator in any other case. Any increase or decrease in the value of the assets of a single-employer plan occurring after the date on which the plan is terminated shall be credited to, or suffered by, the corporation.
 
 #### (d) Distribution of residual assets; restrictions on reversions pursuant to recently amended plans; assets attributable to employee contributions; calculation of remaining assets
 
@@ -240,7 +240,7 @@ Section 9311(a)(2) of Pub. L. 100–203, as amended by Pub. L. 101–239, title 
 
 #### Special Temporary Rule for Termination of Single-Employer Plan
 
-For special temporary rule relating to requirements to be met before the final distribution of assets in thecase of the termination of certain single-employer plans with respect to which the amount payable to the employer pursuant to subsec. (d) of this section exceeds $1,000,000, see section 11008(d) of Pub. L. 99–272, set out as a note under section 1341 of this title.
+For special temporary rule relating to requirements to be met before the final distribution of assets in the case of the termination of certain single-employer plans with respect to which the amount payable to the employer pursuant to subsec. (d) of this section exceeds $1,000,000, see section 11008(d) of Pub. L. 99–272, set out as a note under section 1341 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

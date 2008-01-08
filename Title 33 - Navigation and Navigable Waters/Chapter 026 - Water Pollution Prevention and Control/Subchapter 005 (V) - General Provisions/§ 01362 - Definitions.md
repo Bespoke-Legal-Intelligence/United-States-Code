@@ -4,7 +4,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (1) The term “State water pollution control agency” means the State agency designated by the Governor having responsibility for enforcing State laws relating to the abatement of pollution.
 
-(2) The term “interstate agency” means an agency of two or more States established by orpursuant to an agreement or compact approved by the Congress, or any other agency of two or more States, having substantial powers or duties pertaining to the control of pollution as determined and approved by the Administrator.
+(2) The term “interstate agency” means an agency of two or more States established by or pursuant to an agreement or compact approved by the Congress, or any other agency of two or more States, having substantial powers or duties pertaining to the control of pollution as determined and approved by the Administrator.
 
 (3) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
@@ -36,7 +36,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (17) The term “schedule of compliance” means a schedule of remedial measures including an enforceable sequence of actions or operations leading to compliance with an effluent limitation, other limitation, prohibition, or standard.
 
-(18) The term “industrial user” means those industries identified in the Standard Industrial Classification Manual, Bureau of the Budget, 1967, as amended and supplemented, under the category of “Division D—Manufacturing” and such other classes of significant waste producers as, by regulation, the Administrator deems appropriate.
+(18) The term “industrial user” means those industries identified in the Standard Industrial Classification Manual, Bureau of the Budget,1967, as amended and supplemented, under the category of “Division D—Manufacturing” and such other classes of significant waste producers as, by regulation, the Administrator deems appropriate.
 
 (19) The term “pollution” means the man-made or man-induced alteration of the chemical, physical, biological, and radiological integrity of water.
 

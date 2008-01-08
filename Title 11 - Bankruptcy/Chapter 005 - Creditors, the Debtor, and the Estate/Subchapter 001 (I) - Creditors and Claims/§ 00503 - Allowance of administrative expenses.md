@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(A) the payment is part of a program that is generally applicable to all full-time employees; and
 
-&emsp;&emsp;(B) the amount of the payment is not greater than 10 times the amount of the mean severance pay given to nonmanagement employees during the calendar year in which the payment is made; or
+&emsp;&emsp;(B) the amount of the payment is not greater than 10 times the amount of themean severance pay given to nonmanagement employees during the calendar year in which the payment is made; or
 
 &emsp;(3) other transfers or obligations that are outside the ordinary course of business and not justified by the facts and circumstances of the case, including transfers made to, or obligations incurred for the benefit of, officers, managers, or consultants hired after the date of the filing of the petition.
 

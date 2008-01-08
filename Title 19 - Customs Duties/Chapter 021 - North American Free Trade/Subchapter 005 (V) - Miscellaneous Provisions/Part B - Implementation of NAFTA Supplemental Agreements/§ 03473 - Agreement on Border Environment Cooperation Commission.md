@@ -12,13 +12,13 @@
 
 #### (b) Civil actions involving Commission
 
-For the purpose of any civil action which may be brought within the United States by or against the Border Environment Cooperation Commission in accordance with the Border Environment Cooperation Agreement (including an action brought to enforce an arbitral award against the Commission), the Commission shall be deemed to be an inhabitant of the Federal judicial district in which its principal office within the United States, or its agent appointed for the purpose of accepting service or notice ofservice, is located. Any such action to which the Commission is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States (including the courts enumerated in section 460 of title 28) shall have original jurisdiction of any such action. When the Commission is a defendant in any action in a State court, it may at any time before trial remove the action into the appropriate district court of the United States by following the procedure for removal provided in section 1446 of title 28.
+For the purpose of any civil action which may be brought within the United States by or against the Border Environment Cooperation Commission in accordance with the Border Environment Cooperation Agreement (including an action brought to enforce an arbitral award against the Commission), the Commission shall be deemed to be an inhabitant of the Federal judicial district in which its principal office within the United States, or its agent appointed for the purpose of accepting service or notice of service, is located. Any such action to which the Commission is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States (including the courts enumerated in section 460 of title 28) shall have original jurisdiction of any such action. When the Commission is a defendant in any action in a State court, it may at any time before trial remove the action into the appropriate district court of the United States by following the procedure for removal provided in section 1446 of title 28.
 
 #### (c) Definitions
 
 As used in this section—
 
-&emsp;(1) the term “Border Environment Cooperation Agreement” means the November 1993 Agreement Between the Government of the United States of America and the Government of the United Mexican States Concerning the Establishment of a Border Environment Cooperation Commission and a North American Development Bank;
+&emsp;(1) the term “Border Environment Cooperation Agreement” means the November 1993Agreement Between the Government of the United States of America and the Government of the United Mexican States Concerning the Establishment of a Border Environment Cooperation Commission and a North American Development Bank;
 
 &emsp;(2) the terms “Border Environment Cooperation Commission” and “Commission” mean the commission established pursuant to Chapter I of the Border Environment Cooperation Agreement; and
 
@@ -62,5 +62,5 @@ Sec. 9. Any summaries of public comments or conclusions of investigations and au
 
 Sec. 10. The authority of the President under section 6 of Public Law 102–532; 7 U.S.C. 5404, to establish an advisory board to be known as the Good Neighbor Environmental Board is delegated to the Administrator of the Environmental Protection Agency.
 
-Sec. 11. This order is intended only to improve the internal management of the executive branch and is notintended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 11. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 

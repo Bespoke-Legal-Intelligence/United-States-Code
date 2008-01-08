@@ -8,7 +8,7 @@ From the amount allotted to each State under section 2321 of this title for a fi
 
 &emsp;(2) not more than 10 percent to carry out State leadership activities described in section 2344 of this title, of which—
 
-&emsp;&emsp;(A) an amount equal to not more than 1 percent of the amount allotted to the State under section 2321 of this title for the fiscal year shall be made available to serve individuals in State institutions, such as State correctional institutions and institutions that serve individuals with disabilities; and
+&emsp;&emsp;(A) an amount equal to not more than 1 percent of the amount allotted to the Stateunder section 2321 of this title for the fiscal year shall be made available to serve individuals in State institutions, such as State correctional institutions and institutions that serve individuals with disabilities; and
 
 &emsp;&emsp;(B) not less than $60,000 and not more than $150,000 shall be available for services that prepare individuals for non-traditional fields; and
 

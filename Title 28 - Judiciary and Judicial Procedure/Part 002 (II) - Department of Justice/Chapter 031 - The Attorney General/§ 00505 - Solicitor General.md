@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 R.S. §347 (less last sentence).
 
-So much of R.S. §347 as relates to the pay of the Solicitor General is omitted as superseded by §303(c) of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 416, which is codified in section 5314 of title 5, United States Code.
+So much of R.S. §347 as relates to the pay of the Solicitor General is omitted as superseded by §303(c) of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 416,which is codified in section 5314 of title 5, United States Code.
 
 #### Prior Provisions
 

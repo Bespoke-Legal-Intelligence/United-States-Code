@@ -30,7 +30,7 @@
 
 #### (ii) Lowest income dual eligible individuals
 
-&emsp;&emsp;&emsp;In the case of an individual not described in clause (i) who is a full-benefit dual eligible individual and whose income does not exceed 100 percent of the poverty line applicable to a family of the size involved, the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2)of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed $1 for a generic drug or a preferred drug that is a multiple source drug (as defined in section 1396r–8(k)(7)(A)(i) of this title) and $3 for any other drug, or, if less, the copayment amount applicable to an individual under clause (iii).
+&emsp;&emsp;&emsp;In the case of an individual not described in clause (i) who is a full-benefit dual eligible individual and whose income does not exceed 100 percent of the poverty line applicable to a family of the size involved, the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed $1 for a generic drug or a preferred drug that is a multiple source drug (as defined in section 1396r–8(k)(7)(A)(i) of this title) and $3 for any other drug, or, if less, the copayment amount applicable to an individual under clause (iii).
 
 #### (iii) Other individuals
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may provide that part D eligible individuals not described in subclause (I) who are determined for purposes of the State plan under subchapter XIX of this chapter to be eligible for medical assistance under clause (i), (iii), or (iv) of section 1396a(a)(10)(E) of this title are treated as being determined to be subsidy eligible individuals described in paragraph (1).
 
-&emsp;&emsp;&nbsp;Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referred to in subclause (II) are substantially the same as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
+&emsp;&emsp;&nbsp;Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referredto in subclause (II) are substantially the same as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
 
 #### (C) Income determinations
 
@@ -160,7 +160,7 @@
 
 #### (iv) Methodology flexibility
 
-&emsp;&emsp;&emsp;The Secretary may permit a State in making eligibility determinations for premium and cost-sharing subsidies under this section to use the same asset or resource methodologies that are used with respect to eligibility for medical assistance for medicare cost-sharing described in section 1396d(p) of this title so long as the Secretary determines that the use ofsuch methodologies will not result in any significant differences in the number of individuals determined to be subsidy eligible individuals.
+&emsp;&emsp;&emsp;The Secretary may permit a State in making eligibility determinations for premium and cost-sharing subsidies under this section to use the same asset or resource methodologies that are used with respect to eligibility for medical assistance for medicare cost-sharing described in section 1396d(p) of this title so long as the Secretary determines that the use of such methodologies will not result in any significant differences in the number of individuals determined to be subsidy eligible individuals.
 
 #### (F) Treatment of territorial residents
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;(ii) for a subsequent year shall be the dollar amounts specified in this clause (or clause (i)) for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
 
-> &emsp;&emsp;Any amount established under clause (i) or (ii), that is based on an increase of $1 or $3, that is not a multiple of 5 cents or 10 cents, respectively, shall be rounded to the nearest multiple of 5 cents or 10 cents, respectively.
+> &emsp;&emsp;Any amount established under clause (i) or (ii), that is based on an increase of $1 or $3,that is not a multiple of 5 cents or 10 cents, respectively, shall be rounded to the nearest multiple of 5 cents or 10 cents, respectively.
 
 #### (B) Reduced deductible
 

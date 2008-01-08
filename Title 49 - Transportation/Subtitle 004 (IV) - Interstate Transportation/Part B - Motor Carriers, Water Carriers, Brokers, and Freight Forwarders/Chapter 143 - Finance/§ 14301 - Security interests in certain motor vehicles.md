@@ -18,11 +18,11 @@ Security interest.—The term “security interest” means an interest (includi
 
 &emsp;(4)
 
-Perfection.—The term “perfection”, as related to a security interest, means takingaction (including public filing, recording, notation on a certificate of title, and possession of collateral by the secured party), or the existence of facts, required under law to make a security interest enforceable against general creditors and subsequent lien creditors of a debtor, but does not include compliance with requirements related only to the establishment of a valid security interest between the debtor and the secured party.
+Perfection.—The term “perfection”, as related to a security interest, means taking action (including public filing, recording, notation on a certificate of title, and possession of collateral by the secured party), or the existence of facts, required under law to make a security interest enforceable against general creditors and subsequent lien creditors of a debtor, but does not include compliance with requirements related only to the establishment of a valid security interest between the debtor and the secured party.
 
 (b)
 
-Requirements for Perfection of Security Interest.—A security interest in a motor vehicle owned by, or in the possession and use of, a carrier registered under section 13902 of this title and owing payment or performance of an obligation secured by that security interest is perfected in all jurisdictions against all general, and subsequent lien, creditors of, and all persons taking a motor vehicle by sale (or taking or retaining a security interest in a motor vehicle) from, that carrier when—
+Requirements for Perfection of Security Interest.—A security interest in a motor vehicle owned by, or in the possession and use of, a carrier registered under section 13902 of this title and owing payment or performance of an obligation secured by that security interest is perfected in all jurisdictions against all general, and subsequent lien, creditors of, and allpersons taking a motor vehicle by sale (or taking or retaining a security interest in a motor vehicle) from, that carrier when—
 
 &emsp;(1) a certificate of title is issued for a motor vehicle under a law of a jurisdiction that requires or permits indication, on a certificate or title, of a security interest in the motor vehicle if the security interest is indicated on the certificate;
 

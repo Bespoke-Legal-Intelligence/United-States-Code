@@ -40,7 +40,7 @@ In subsection (b)(4), the word “media” is substituted for “newspapers, rad
 
 #### National Moment of Remembrance
 
-Pub. L. 106–579, Dec. 28, 2000, 114 Stat. 3078, provided that:
+Pub. L. 106–579, Dec. 28, 2000, 114 Stat. 3078, as amended by Pub. L. 110–161, div. H, title I, §1502(e), Dec. 26, 2007, 121 Stat. 2250, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -262,7 +262,7 @@ Information From Federal Agencies.—
 
 &emsp;“(1)
 
-In general.—The Commission may secure directly from a Federal agency such information as the Commission considers necessary to carry out this Act.
+In general.—The Commission may secure directly from a Federal agency such information as theCommission considers necessary to carry out this Act.
 
 &emsp;“(2)
 
@@ -286,7 +286,7 @@ Authority To Procure and To Make Legal Agreements.—
 
 &emsp;“(1)
 
-In general.—Subject to the availability of appropriations, to carry out this Act, the Chairpersonor Vice Chairperson of the Commission or the Executive Director and White House Liaison may, on behalf of the Commission—
+In general.—Subject to the availability of appropriations, to carry out this Act, the Chairperson or Vice Chairperson of the Commission or the Executive Director and White House Liaison may, on behalf of the Commission—
 
 &emsp;&emsp;“(A) procure supplies, services, and property; and
 
@@ -416,7 +416,7 @@ Civil service status.—The detail of any officer or employee under this subsect
 
 “(e)
 
-Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
+Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission mayprocure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
 
 “(f)
 
@@ -432,7 +432,7 @@ In general.—The Commission may enter into a cooperative agreement with another
 
 &emsp;“(2)
 
-Administrative support services.—On the request of the Commission, the Administrator of General Services shall provide to the Commission, on areimbursable basis, any administrative support services and any property, equipment, or office space that the Commission determines to be necessary to carry out this Act.
+Administrative support services.—On the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, any administrative support services and any property, equipment, or office space that the Commission determines to be necessary to carry out this Act.
 
 “(g)
 
@@ -548,19 +548,7 @@ Duties.—The Executive Director and White House Liaison shall—
 
 Compensation.—The Executive Director and White House Liaison may be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the Executive Director and White House Liaison is engaged in the performance of the duties of the Commission.
 
-#### “SEC. 11. AUDIT OF FINANCIAL TRANSACTIONS.
-
-“(a)
-
-In General.—The Comptroller General of the United States shall audit, on an annual basis, the financial transactions of the Commission (including financial transactions involving donated funds) in accordance with generally accepted auditing standards.
-
-“(b)
-
-Access.—The Commission shall ensure that the Comptroller General, in conducting an audit under this section, has—
-
-&emsp;“(1) access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission, as necessary to facilitate the audit; and
-
-&emsp;“(2) full ability to verify the financial transactions of the Commission, including access to any financial records or securities held for the Commission by depositories, fiscal agents, or custodians.
+#### “\[SEC. 11. Repealed. Pub. L. 110–161, div. H, title I, §1502(e), Dec. 26, 2007, 121 Stat. 2250.\]
 
 #### “SEC. 12. AUTHORIZATION OF APPROPRIATIONS.
 

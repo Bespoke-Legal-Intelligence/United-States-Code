@@ -104,11 +104,11 @@ Initial construction defined.—For purposes of this subsection, the term “ini
 
 &emsp;(4) The operating authority and the amount of fares charged for passage on such ferry shall be under the control of the State or other public entity, and all revenues derived therefrom shall be applied to actual and necessary costs of operation, maintenance, and <sup>1</sup> repair, debt service, negotiated management fees, and, in the case of a privately operated toll ferry, for a reasonable rate of return.
 
-&emsp;(5) Such ferry may be operated only within the State (including the islands which comprise the State of Hawaii and the islands which comprise any territory of the United States) or between adjoining States or between a point in a State and a point in the Dominion of Canada. Except with respect to operations between the islands which comprise the State of Hawaii, operations between the islands which comprise any territory of the United States, operations between a point in a State and a point in the Dominion of Canada, and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada, no part of such ferry operation shall be in any foreign or international waters.
+&emsp;(5) Such ferry may be operated only within the State (including the islands which comprise the State of Hawaii and the islands which comprise any territory of the United States) or between adjoining States or between a point in a State and a point in the Dominion of Canada. Except with respect to operations between the islands which comprise the State of Hawaii, operations between the islands which comprise any territory of the United States, operations between a point in a State and a point in the Dominion of Canada, and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in theDominion of Canada, no part of such ferry operation shall be in any foreign or international waters.
 
 &emsp;(6) No such ferry shall be sold, leased, or otherwise disposed of without the approval of the Secretary. The Federal share of any proceeds from such a disposition shall be credited to the unprogramed balance of Federal-aid highway funds of the same class last apportioned to such State. Any amount so credited shall be in addition to all other funds then apportioned to such State and available for expenditure in accordance with the provisions of this title.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139,Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 104–59, title III, §313(a)–(c), Nov. 28, 1995, 109 Stat. 585, 586; Pub. L. 105–178, title I, §§1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, 112 Stat. 136, 185, 189; Pub. L. 105–206, title IX, §9003(d)(5), July 22, 1998, 112 Stat. 840; Pub. L. 109–59, title I, §1801(f), Aug. 10, 2005, 119 Stat. 1456.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139, Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 104–59, title III, §313(a)–(c), Nov. 28, 1995, 109 Stat. 585, 586; Pub. L. 105–178, title I, §§1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, 112 Stat. 136, 185, 189; Pub. L. 105–206, title IX, §9003(d)(5), July 22, 1998, 112 Stat. 840; Pub. L. 109–59, title I, §1801(f), Aug. 10, 2005, 119 Stat. 1456.)
 
 #### References in Text
 
@@ -214,7 +214,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriatedor made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Effective Date of 1968 Amendment
 
@@ -472,7 +472,7 @@ Contents.—The database shall contain current information regarding ferry syste
 
 “(3)
 
-Update report.—Using information collected through the database, the Secretary shall periodically modify as appropriate the report submitted under section 1207(c) of the Transportation Equity Act for the21st Century \[Pub. L. 105–178\] (23 U.S.C. 129 note; 112 Stat. 185–186).
+Update report.—Using information collected through the database, the Secretary shall periodically modify as appropriate the report submitted under section 1207(c) of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (23 U.S.C. 129 note; 112 Stat. 185–186).
 
 “(4)
 
@@ -582,11 +582,11 @@ Interstate system defined.—In this subsection, the term ‘Interstate System�
 
 #### Continuation of Existing Agreements
 
-Section 1012(d) of title I of Pub. L. 102–240 provided that: “Unless modified under section 129(a)(6) of such title \[this title\], as amended by subsection (a) of this section, agreements entered into under section 119(e) or 129 of such title before the effective date of this title \[Dec. 18, 1991\] and in effect on the day before such effective date shall continue in effect on and after such effective date in accordance with the provisions of such agreement and such section 119(e) or 129.”
+Section 1012(d) of title I of Pub. L. 102–240 provided that: “Unless modified under section 129(a)(6) of suchtitle \[this title\], as amended by subsection (a) of this section, agreements entered into under section 119(e) or 129 of such title before the effective date of this title \[Dec. 18, 1991\] and in effect on the day before such effective date shall continue in effect on and after such effective date in accordance with the provisions of such agreement and such section 119(e) or 129.”
 
 #### Construction of Ferry Boats and Ferry Terminal Facilities
 
-Pub. L. 102–240, title I, §1064, Dec. 18, 1991, 105 Stat. 2005, as amended by Pub. L. 102–388, title III, §332, Oct.6, 1992, 106 Stat. 1550; Pub. L. 105–178, title I, §1207(b), June 9, 1998, 112 Stat. 185, which directed the Secretary to carry out a program for construction of ferry boats and ferry terminal facilities in accordance with section 129(c) of this title, was repealed by Pub. L. 109–59, title I, §1801(c), Aug. 10, 2005, 119 Stat. 1456. See section 147 of this title.
+Pub. L. 102–240, title I, §1064, Dec. 18, 1991, 105 Stat. 2005, as amended by Pub. L. 102–388, title III, §332, Oct. 6, 1992, 106 Stat. 1550; Pub. L. 105–178, title I, §1207(b), June 9, 1998, 112 Stat. 185, which directed the Secretary to carry out a program for construction of ferry boats and ferry terminal facilities in accordance with section 129(c) of this title, was repealed by Pub. L. 109–59, title I, §1801(c), Aug. 10, 2005, 119 Stat. 1456. See section 147 of this title.
 
 #### Study To Determine Extent of Bonded Indebtedness of States for Construction of Toll Roads Incorporated Into Interstate System
 

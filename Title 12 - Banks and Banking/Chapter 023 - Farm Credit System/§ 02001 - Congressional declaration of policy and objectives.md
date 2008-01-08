@@ -2,7 +2,7 @@
 
 (a) It is declared to be the policy of the Congress, recognizing that a prosperous, productive agriculture is essential to a free nation and recognizing the growing need for credit in rural areas, that the farmer-owned cooperative Farm Credit System be designed to accomplish the objective of improving the income and well-being of American farmers and ranchers by furnishing sound, adequate, and constructive credit and closely related services to them, their cooperatives, and to selected farm-related businesses necessary for efficient farm operations.
 
-(b) It is the objective of this chapter to continue to encourage farmer- and rancher-borrowers participation in the management, control, and ownership of a permanent system of credit for agriculture which will be responsive to the credit needs of all types of agricultural producers having a basis for credit, and to modernize and improve the authorizations and means for furnishing such credit and credit for housing in rural areas made available through the institutions constituting the Farm Credit System as herein provided.
+(b) It is the objective of this chapter to continue to encourage farmer- and rancher-borrowers participation in the management, control, and ownership of a permanent system of credit for agriculture which will be responsive to the credit needs of all types of agricultural producers having a basis for credit, and to modernizeand improve the authorizations and means for furnishing such credit and credit for housing in rural areas made available through the institutions constituting the Farm Credit System as herein provided.
 
 (c) It is declared to be the policy of Congress that the credit needs of farmers, ranchers, and their cooperatives are best served if the institutions of the Farm Credit System provide equitable and competitive interest rates to eligible borrowers, taking into consideration the creditworthiness and access to alternative sources of credit for borrowers, the cost of funds, including any costs of defeasance under section 2159(b) of this title, the operating costs of the institution, including the costs of any loan loss amortization under section 2254(b) of this title, the cost of servicing loans, the need to retain earnings to protect borrowers’ stock, and the volume of net new borrowing. Further, it is declared to be the policy of Congress that Farm Credit System institutions take action in accordance with the Farm Credit Act Amendments of 1986 in such manner that borrowers from the institutions derive the greatest benefit practicable from that Act: <i>Provided</i>, That in no case is any borrower to be charged a rate of interest that is below competitive market rates for similar loans made by private lenders to borrowers of equivalent creditworthiness and access to alternative credit.
 
@@ -70,7 +70,7 @@ Authority.—The Farm Credit Administration Board shall issue such regulations a
 
 &emsp;“(2)
 
-Timing.—To the extent the Farm Credit Administration is required to issue regulations to implement this Act and the amendments made by this Act, the Farm Credit Administration shall issue suchregulations as expeditiously as possible, and, except as otherwise provided in this Act, not later than 180 days after the date of the enactment of this Act \[Jan. 6, 1988\].
+Timing.—To the extent the Farm Credit Administration is required to issue regulations to implement this Act and the amendments made by this Act, the Farm Credit Administration shall issue such regulations as expeditiously as possible, and, except as otherwise provided in this Act, not later than 180 days after the date of the enactment of this Act \[Jan. 6, 1988\].
 
 “(b)
 
@@ -130,13 +130,13 @@ Items in Study.—In conducting the study, the Secretary shall base the study on
 
 &emsp;“(2) rural demand for credit from the United States banking system, the ability of banks to meet the demand, and the extent to which banks provide loans to satisfy the demand;
 
-&emsp;“(3) rural demand for credit from the Secretary, the ability of the Secretary to meet the demand, and the extent to which the Secretary provides loans to satisfy the demand;
+&emsp;“(3) rural demand for credit from the Secretary, the ability of the Secretary to meet the demand, and theextent to which the Secretary provides loans to satisfy the demand;
 
 &emsp;“(4) rural demand for credit from other Federal agencies, the ability of the agencies to meet the demand, and the extent to which the agencies provide loans to satisfy the demand;
 
 &emsp;“(5) what measure or measures exist to gauge the overall demand for rural credit, the extent to which rural demand for credit is satisfied, and what the measures have demonstrated;
 
-&emsp;“(6) a comparison of the interest rates and terms charged by the Farm Credit System Farm CreditBanks, production credit associations, and banks for cooperatives with the rates and terms charged by the banks of the United States for credit of comparable risk and maturity;
+&emsp;“(6) a comparison of the interest rates and terms charged by the Farm Credit System Farm Credit Banks, production credit associations, and banks for cooperatives with the rates and terms charged by the banks of the United States for credit of comparable risk and maturity;
 
 &emsp;“(7) the advantages and disadvantages of the modernization and expansion proposals of the Farm Credit System on the Farm Credit System, the United States banking system, rural users of credit, local rural communities, and the Federal Government, including—
 

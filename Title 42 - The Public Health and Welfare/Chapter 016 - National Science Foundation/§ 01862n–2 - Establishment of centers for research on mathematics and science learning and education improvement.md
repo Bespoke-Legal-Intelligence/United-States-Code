@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;(A) The Director shall award grants to institutions of higher education (or consortia thereof) to establish multidisciplinary Centers for Research on Learning and Education Improvement.
+&emsp;(A) The Director shall award grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof) to establish multidisciplinary Centers for Research on Learning and Education Improvement.
 
 &emsp;(B) Grants shall be awarded under this paragraph on a competitive, merit-reviewed basis.
 
@@ -26,7 +26,7 @@
 
 #### (1) Application
 
-&emsp;An institution of higher education (or a consortium of such institutions) seeking funding under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
+&emsp;An institution of higher education or an eligible nonprofit organization (or a consortium thereof) seeking funding under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
 
 &emsp;&emsp;(A) the initial research projects that will be undertaken by the Center and the process by which new projects will be identified;
 
@@ -52,7 +52,7 @@
 
 #### (3) Awards
 
-&emsp;The Director shall ensure, to the extent practicable, that the Centers funded under this section conduct research and develop educational practices designed to improve the educational performance of a broad range of students, including individuals identified in section 1885a or 1885b of this title.
+&emsp;The Director shall ensure, to the extent practicable, that the Centers funded underthis section conduct research and develop educational practices designed to improve the educational performance of a broad range of students, including individuals identified in section 1885a or 1885b of this title.
 
 #### (c) Annual conference
 
@@ -70,11 +70,21 @@ The Director shall coordinate with the Secretary of Education in—
 
 &emsp;&emsp;(B) can use the research to improve such teachers’ performance in the classroom.
 
-(Pub. L. 107–368, §11, Dec. 19, 2002, 116 Stat. 3053.)
+(Pub. L. 107–368, §11, Dec. 19, 2002, 116 Stat. 3053; Pub. L. 110–69, title VII, §7006(b), Aug. 9, 2007, 121 Stat. 679.)
 
 #### Codification
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+
+2007—Subsec. (a)(1)(A). Pub. L. 110–69, §7006(b)(1), inserted “or eligible nonprofit organizations” after “institutions of higher education”.
+
+Subsec. (b)(1). Pub. L. 110–69, §7006(b)(2), (3), in introductory provisions, inserted “or an eligible nonprofit organization” after “institution of higher education” and substituted “thereof” for “of such institutions”.
+
+#### Funding for Centers
+
+Pub. L. 110–69, title VII, §7006(a), Aug. 9, 2007, 121 Stat. 679, provided that: “The Director \[of the National Science Foundation\] shall continue to carry out the program of Centers for Research on Learning and Education Improvement as established in section 11 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–2).”
 
 #### Definitions
 

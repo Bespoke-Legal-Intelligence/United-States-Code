@@ -14,7 +14,7 @@
 
 #### (b) Voluntary or mandatory retirement with authorization for immediate annuity; computation of annuity
 
-(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title under conditions authorizing an immediate annuity for participants in the Foreign Service Retirement and Disability System or for participants in the Foreign Service Pension System, and who has completed at least 5 years as a member of the Foreign Service, shall be entitled to an immediate annuity computed under paragraph (2).
+(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title under conditions authorizing an immediate annuity for participantsin the Foreign Service Retirement and Disability System or for participants in the Foreign Service Pension System, and who has completed at least 5 years as a member of the Foreign Service, shall be entitled to an immediate annuity computed under paragraph (2).
 
 (2) An annuity under paragraph (1) shall be computed—
 
@@ -32,7 +32,7 @@
 
 (4) A disability annuity under this part required to be redetermined under section 8452(b) of title 5, or computed under section 8452(c) or (d) of such title 5, shall be recomputed or computed using the formula in subsection (b)(2)(A) of this section rather than section 8415 of such title 5 (as stated in section 8452(b)(2)(A) and 8452(c) and (d) of such title). Such annuity shall also be computed in accordance with the preceding sentence if, as of the day on which such annuity commences or is restored, the annuitant satisfies the age and service requirements for entitlement to an immediate annuity under section 4051 of this title.
 
-(5) A former participant entitled to a deferred annuity under section 8413(b) of title 5 shall not be subject to section 8415(f)(1) of such title 5 if the former participant has 20 years of servicecreditable under this part and is at least 50 years of age as of the date on which the annuity is to commence.
+(5) A former participant entitled to a deferred annuity under section 8413(b) of title 5 shall not be subject to section 8415(f)(1) of such title 5 if the former participant has 20 years of service creditable under this part and is at least 50 years of age as of the date on which the annuity is to commence.
 
 (6)(A) The amount of a survivor annuity for a widow or widower of a participant or former participant shall be 50 percent of an annuity computed for the deceased under this part rather than under section 8415 of such title 5 (as stated in sections 8442(a)(1), (b)(1)(B), and (c)(2) of such title).
 
@@ -68,7 +68,7 @@ Subsec. (b)(3). Pub. L. 105–382, which directed the insertion of “4010a,” 
 
 Pub. L. 105–277, §2312(b)(2), substituted “4010, or 4010a” for “or 4010”.
 
-1993—Subsec. (b)(2)(A)(ii). Pub. L. 103–178 substituted “under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b))” for “under title II of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees or under section 302(a) or 303(b) of that Act”.
+1993—Subsec. (b)(2)(A)(ii). Pub. L. 103–178 substituted “under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b))” for “under title II of the Central Intelligence AgencyRetirement Act of 1964 for Certain Employees or under section 302(a) or 303(b) of that Act”.
 
 1986—Subsec. (b)(1). Pub. L. 99–556, §406(a), substituted “as a member of the Foreign Service” for “of service subject to this subchapter”.
 

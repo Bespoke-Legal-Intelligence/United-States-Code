@@ -50,7 +50,7 @@
 
 #### (2) Supplies and services in lieu of award funds
 
-&emsp;(A) Upon the request of a recipient of an award of a grant or contract under paragraph\(1), the Secretary may, subject to subparagraph (B), provide supplies, equipment, and services for the purpose of aiding the recipient in carrying out the purposes for which the award is made and, for such purposes, may detail to the recipient any officer or employee of the Department of Health and Human Services.
+&emsp;(A) Upon the request of a recipient of an award of a grant or contract under paragraph (1), the Secretary may, subject to subparagraph (B), provide supplies, equipment, and services for the purpose of aiding the recipient in carrying out the purposes for which the award is made and, for such purposes, may detail to the recipient any officer or employee of the Department of Health and Human Services.
 
 &emsp;(B) With respect to a request described in subparagraph (A), the Secretary shall reduce the amount of payments under the award involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 

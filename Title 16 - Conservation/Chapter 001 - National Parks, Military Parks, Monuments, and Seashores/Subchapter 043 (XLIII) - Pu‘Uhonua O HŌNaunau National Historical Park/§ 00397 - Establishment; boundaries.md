@@ -58,7 +58,7 @@ Beginning at a pipe in concrete at the northeast corner of this parcel, the coor
 
 1\. Three hundred fifty-eight degrees twenty-three minutes two hundred sixty and four-tenths feet along the remainder of L. C. Aw. 11216:34 to M. Kekauonohi;
 
-2\. Ninety-three degrees thirty minutes two hundred and sixty-nine feet along the same,along stone wall, along lot 2 of the subdivision by B. P. Bishop estate;
+2\. Ninety-three degrees thirty minutes two hundred and sixty-nine feet along the same, along stone wall, along lot 2 of the subdivision by B. P. Bishop estate;
 
 3\. Eighty-two degrees no minutes three hundred and eighteen feet along same to the east side of fifty-foot road;
 
@@ -122,5 +122,5 @@ Pub. L. 107–340, §1, Dec. 16, 2002, 116 Stat. 2889, provided that: “This Ac
 
 #### Admission of Hawaii as State
 
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug.21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
 

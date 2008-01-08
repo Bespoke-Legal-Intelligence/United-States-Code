@@ -4,7 +4,7 @@
 
 (2) A person may not be appointed as Secretary of the Navy within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
-(b) Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Navy is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Navy, including the following functions:
+(b) Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Navy is responsible for, and has the authority necessary to conduct, all affairs ofthe Department of the Navy, including the following functions:
 
 &emsp;(1) Recruiting.
 
@@ -84,7 +84,7 @@ Pub. L. 108–375, div. B, title XXVIII, §2823, Oct. 28, 2004, 118 Stat. 2132, 
 
 “(a)
 
-Authority to Acquire Complete Title.—If real property owned by the United States and used as a Navy homeport is subject to a reversionary interest of any kind, the Secretary of the Navy may enter into an agreement with the holder of the reversionary interest to acquire the reversionary interest and thereby securefor the United States all right, title, and interest in and to the property.
+Authority to Acquire Complete Title.—If real property owned by the United States and used as a Navy homeport is subject to a reversionary interest of any kind, the Secretary of the Navy may enter into an agreement with the holder of the reversionary interest to acquire the reversionary interest and thereby secure for the United States all right, title, and interest in and to the property.
 
 “(b)
 
@@ -168,7 +168,7 @@ Liability and Indemnification.—(1) The Secretary may not enter into a cooperat
 
 “(2) The Secretary may not enter into an agreement under subsection (b) with the State concerned for the provision of prerelease employment training directly by the Secretary unless the agreement with the State concerned includes provisions that the State shall—
 
-&emsp;“(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training exceptto the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
+&emsp;“(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training except to the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
 
 &emsp;“(B) hold harmless and indemnify the United States from and against any suit, claim, demand, action, or liability arising out of any claim for personal injury or property damage that may result from, or in connection with, the provision of the training except to the extent that the personal injury or property damage results from a wrongful act or omission of Federal Government personnel.
 

@@ -36,7 +36,7 @@
 
 &emsp;(B) at the time of the separation on which entitlement to the annuity is based, is at least 62 years of age and has completed at least 20 years of service;
 
-> but does not apply in the case of a Congressional employee, military technician (dual status), law enforcement officer, member of the Supreme Court Police, firefighter, nuclear materials courier, or air traffic controller.
+> but does not apply in the case of a Congressional employee, military technician (dual status), law enforcement officer, member of the Supreme Court Police, firefighter, nuclear materials courier, air traffic controller, or customs and border protection officer <sup>1</sup>
 
 (i) The annuity of a Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member in that position to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, shall, subject to a deposit in the Fund as provided under section 8422(g), be computed as though the rate of basic pay which would otherwise have been in effect during that period of service had been in effect.
 
@@ -86,7 +86,7 @@
 
 &emsp;(B) a survivor annuity under subchapter IV, if based on the service of an individual who dies before separating from service.
 
-(k) <sup>1</sup> The annuity of an employee retiring under this chapter with service credited under section 8411(b)(6) shall be reduced by the amount necessary to ensure that the present value of the annuity payable to the employee under this subchapter is actuarially equivalent to the present value of the annuity that would be payable to the employee under this subchapter if it were computed—
+(k) <sup>2</sup> The annuity of an employee retiring under this chapter with service credited under section 8411(b)(6) shall be reduced by the amount necessary to ensure that the present value of the annuity payable to the employee under this subchapter is actuarially equivalent to the present value of the annuity that would be payable to the employee under this subchapter if it were computed—
 
 &emsp;(1) on the basis of service that does not include service credited under section 8411(b)(6); and
 
@@ -94,17 +94,19 @@
 
 > The amount of the reduction shall be computed under regulations prescribed by the Office of Personnel Management for the administration of this subsection.
 
-(k) <sup>1</sup> In computing an annuity under this subchapter, the total service of an employee who retires from the position of a registered nurse with the Veterans Health Administration on an immediate annuity, or dies while employed in that position leaving any survivor entitled to an annuity, includes the days of unused sick leave to the credit of that employee under a formal leave system, except that such days shall not be counted in determining average pay or annuity eligibility under this subchapter.
+(k) <sup>2</sup> In computing an annuity under this subchapter, the total service of an employee who retires from the position of a registered nurse with the Veterans Health Administration on an immediate annuity, or dies while employed in that position leaving any survivor entitled to an annuity, includes the days of unused sick leave to the credit of that employee under a formal leave system, except that such days shall not be counted in determining average pay or annuity eligibility under this subchapter.
 
 (<i>l</i>) In the case of any annuity computation under this section that includes, in the aggregate, at least 2 months of credit under section 8411(d) for any period while receiving benefits under subchapter I of chapter 81, the percentage otherwise applicable under this section for that period so credited shall be increased by 1 percentage point.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(1), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–571, §3(c)(1), Dec. 28, 2000, 114 Stat. 3055; Pub. L. 107–107, div. A, title XI, §1132(b)(3), Dec. 28, 2001, 115 Stat. 1244; Pub. L. 107–135, title I, §122(a), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(a), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(1), Dec. 12, 2003, 117 Stat. 2530.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(1), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–571, §3(c)(1), Dec. 28, 2000, 114 Stat. 3055; Pub. L. 107–107, div. A, title XI, §1132(b)(3), Dec. 28, 2001, 115 Stat. 1244; Pub. L.107–135, title I, §122(a), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(a), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(1), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(3), Dec. 26, 2007, 121 Stat. 2076.)
 
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (j), is the date of enactment of Pub. L. 106–571, which was approved Dec. 28, 2000.
 
 #### Amendments
+
+2007—Subsec. (h)(2). Pub. L. 110–161 substituted “air traffic controller, or customs and border protection officer” for “or air traffic controller.” in concluding provisions.
 
 2003—Subsecs. (e) to (h). Pub. L. 108–176, §226(b)(1), added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively. Former subsec. (h) redesignated (i).
 
@@ -140,6 +142,10 @@ Subsec. (i). Pub. L. 106–571 added subsec. (i).
 
 1986—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
 
+#### Effective Date of 2007 Amendment; Transition Rules
+
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
+
 #### Effective Date of 2003 Amendments
 
 Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
@@ -160,7 +166,7 @@ Amendment by Pub. L. 106–553 effective on the first day of the first applicabl
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17,1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -170,5 +176,7 @@ Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, o
 
 See section 2 of Pub. L. 100–92, set out as a note under section 8332 of this title.
 
-<i><sup>1</sup></i><i> So in original. There are two subsecs. designated (k).</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>2</sup></i><i> So in original. There are two subsecs. designated (k).</i>
 

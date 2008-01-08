@@ -176,7 +176,7 @@ Section 235(b)(2) of Pub. L. 98–473, which provided that notwithstanding the p
 
 &emsp;(6) publish data concerning the parole process;
 
-&emsp;(7) devise and conduct, in various geographical locations, seminars, workshops and training programsproviding continuing studies and instruction for personnel of Federal, State and local agencies and private and public organizations working with parolees and connected with the parole process; and
+&emsp;(7) devise and conduct, in various geographical locations, seminars, workshops and training programs providing continuing studies and instruction for personnel of Federal, State and local agencies and private and public organizations working with parolees and connected with the parole process; and
 
 &emsp;(8) utilize the services, equipment, personnel, information, facilities, and instrumentalities with or without reimbursement therefor of other Federal, State, local, and private agencies with their consent.
 
@@ -226,7 +226,7 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (c) The Commission may grant or deny release on parole notwithstanding the guidelines referred to in subsection (a) of this section if it determines there is good cause for so doing: <i>Provided</i>, That the prisoner is furnished written notice stating with particularity the reasons for its determination, including a summary of the information relied upon.
 
-(d) Any prisoner, serving a sentence of five years or longer, who is not earlier released under this section or any other applicable provision of law, shall be released on parole after having served two-thirds of each consecutive term or terms, or after serving thirty years of each consecutive term or terms of more than forty-five years including any life term, whichever is earlier: <i>Provided, however</i>, That the Commission shall not release such prisoner if it determines that he has seriously or frequently violated institution rules and regulations orthat there is a reasonable probability that he will commit any Federal, State, or local crime.
+(d) Any prisoner, serving a sentence of five years or longer, who is not earlier released under this section or any other applicable provision of law, shall be released on parole after having served two-thirds of each consecutive term or terms, or after serving thirty years of each consecutive term or terms of more than forty-five years including any life term, whichever is earlier: <i>Provided, however</i>, That the Commission shall not release such prisoner if it determines that he has seriously or frequently violated institution rules and regulations or that there is a reasonable probability that he will commit any Federal, State, or local crime.
 
 > (Added Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 223.)
 
@@ -252,7 +252,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 #### §4208. Parole determination proceeding; time
 
-(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a parole determination proceeding unless it determines on the basis of the prisoner's record that the prisoner will be released on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundred and twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
+(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a parole determination proceeding unless it determines on the basis of the prisoner's record that the prisoner will be released on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundredand twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
 
 (b) At least thirty days prior to any parole determination proceeding, the prisoner shall be provided with (1) written notice of the time and place of the proceeding, and (2) reasonable access to a report or other document to be used by the Commission in making its determination. A prisoner may waive such notice, except that if notice is not waived the proceeding shall be held during the next regularly scheduled proceedings by the Commission at the institution in which the prisoner is confined.
 
@@ -304,7 +304,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 > A parolee residing in a residential community treatment center pursuant to paragraph (1) of this subsection may be required to pay such costs incident to such residence as the Commission deems appropriate.
 
-(d)(1) The Commission may modify conditions of parole pursuant to this section on its own motion, or on the motion of a United States probation officer supervising a parolee: <i>Provided</i>, That the parolee receives notice of such action and has ten days after receipt of such notice to express his views on the proposed modification. Following such ten-day period, the Commission shall have twenty-one days, exclusive of holidays, to act upon such motion or application. Notwithstanding any other provision of this paragraph, the Commission may modify conditions of parole, without regard to such ten-day period, on any such motion if the Commission determines that the immediate modification of conditions of parole is required to prevent harm to the parolee or to the public.
+(d)(1) The Commission may modify conditions of parole pursuant to this section on its own motion, or on the motion of a United States probation officer supervising a parolee: <i>Provided</i>, That the parolee receives notice of such action and has ten days after receipt of such notice to express his views on the proposed modification. Following such ten-day period, the Commission shall have twenty-one days, exclusive of holidays, to act upon such motion or application. Notwithstanding any other provision of this paragraph, the Commission may modify conditions of parole, without regard to such ten-day period, on any such motion if the Commission determines that the immediate modification ofconditions of parole is required to prevent harm to the parolee or to the public.
 
 (2) A parolee may petition the Commission on his own behalf for a modification of conditions pursuant to this section.
 
@@ -350,7 +350,7 @@ Amendment by section 7303(c)(1), (2) of Pub. L. 100–690 applicable with respec
 
 #### §4211. Early termination of parole
 
-(a) Upon its own motion or upon request of the parolee, the Commission may terminate supervision overa parolee prior to the termination of jurisdiction under section 4210.
+(a) Upon its own motion or upon request of the parolee, the Commission may terminate supervision over a parolee prior to the termination of jurisdiction under section 4210.
 
 (b) Two years after each parolee's release on parole, and at least annually thereafter, the Commission shall review the status of the parolee to determine the need for continued supervision. In calculating such two-year period there shall not be included any period of release on parole prior to the most recent such release, nor any period served in confinement on any other sentence.
 

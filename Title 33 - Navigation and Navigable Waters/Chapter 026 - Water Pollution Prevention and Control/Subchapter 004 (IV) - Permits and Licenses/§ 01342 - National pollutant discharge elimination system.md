@@ -44,7 +44,7 @@ At any time after the promulgation of the guidelines required by subsection (i)(
 
 (6) To insure that no permit will be issued if, in the judgment of the Secretary of the Army acting through the Chief of Engineers, after consultation with the Secretary of the department in which the Coast Guard is operating, anchorage and navigation of any of the navigable waters would be substantially impaired thereby;
 
-(7) To abate violations of the permit or the permit program, including civil and criminalpenalties and other ways and means of enforcement;
+(7) To abate violations of the permit or the permit program, including civil and criminal penalties and other ways and means of enforcement;
 
 (8) To insure that any permit for a discharge from a publicly owned treatment works includes conditions to require the identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into such works and a program to assure compliance with such pretreatment standards by each such source, in addition to adequate notice to the permitting agency of (A) new introductions into such works of pollutants from any source which would be a new source as defined in section 1316 of this title if such source were discharging pollutants, (B) new introductions of pollutants into such works from a source which would be subject to section 1311 of this title if it were discharging such pollutants, or (C) a substantial change in volume or character of pollutants being introduced into such works by a source introducing pollutants into such works at the time of issuance of the permit. Such notice shall include information on the quality and quantity of effluent to be introduced into such treatment works and any anticipated impact of such change in the quantity or quality of effluent to be discharged from such publicly owned treatment works; and
 
@@ -116,7 +116,7 @@ Compliance with a permit issued pursuant to this section shall be deemed complia
 
 #### (m) Additional pretreatment of conventional pollutants not required
 
-To the extent a treatment works (as defined in section 1292 of this title) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to section 1314(a)(4) of this title into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and section 1317(b)(1) of this title. Nothing in this subsection shall affect the Administrator's authority under sections 1317 and 1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title, relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
+To the extent a treatment works (as defined in section 1292 of this title) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to section 1314(a)(4) of this title into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and section 1317(b)(1) of this title. Nothing in this subsection shall affect the Administrator's authority under sections 1317 and 1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title,relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
 
 #### (n) Partial permit program
 
@@ -238,7 +238,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (1) Requirement for permits, orders, and decrees
 
-&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, for a discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed by the Administrator on April 11, 1994 (in this subsection referred to as the “CSO control policy”).
+&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, for a discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed bythe Administrator on April 11, 1994 (in this subsection referred to as the “CSO control policy”).
 
 #### (2) Water quality and designated use review guidance
 
@@ -248,7 +248,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;Not later than September 1, 2001, the Administrator shall transmit to Congress a report on the progress made by the Environmental Protection Agency, States, and municipalities in implementing and enforcing the CSO control policy.
 
-(June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880;amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224.)
+(June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224.)
 
 #### Amendments
 

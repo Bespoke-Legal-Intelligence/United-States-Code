@@ -28,7 +28,7 @@ Assistance provided under this part may be used for the following activities rel
 
 #### (b) Waiver authority
 
-The Secretary may waive the 20 percent limitation on the use of assistance for essential services contained in subsection (a)(2)(B) of this section, if the local government receiving the assistance demonstrates that the other eligible activities under the program are already being carried out in the locality with other resources.
+The Secretary may waive the 20 percent limitation on the use of assistance for essentialservices contained in subsection (a)(2)(B) of this section, if the local government receiving the assistance demonstrates that the other eligible activities under the program are already being carried out in the locality with other resources.
 
 (Pub. L. 100–77, title IV, §414, July 22, 1987, 101 Stat. 497; Pub. L. 100–628, title IV, §§422, 423(a), Nov. 7, 1988, 102 Stat. 3231; Pub. L. 101–625, title VIII, §832(c), (d), (f)(6), Nov. 28, 1990, 104 Stat. 4360, 4361; Pub. L. 102–550, title XIV, §1402(e), Oct. 28, 1992, 106 Stat. 4013; Pub. L. 104–330, title V, §506(a)(4), Oct. 26, 1996, 110 Stat. 4044; Pub. L. 106–377, §1(a)(1) \[title II, §229(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31.)
 

@@ -26,10 +26,13 @@
 | [224\.](%C2%A7%2000224%20-%20Bribery%20in%20sporting%20contests.md) | Bribery in sporting contests. |
 | [225\.](%C2%A7%2000225%20-%20Continuing%20financial%20crimes%20enterprise.md) | Continuing financial crimes enterprise. |
 | [226\.](%C2%A7%2000226%20-%20Bribery%20affecting%20port%20security.md) | Bribery affecting port security. |
+| [227\.](%C2%A7%2000227%20-%20Wrongfully%20influencing%20a%20private%20entity%27s%20employment%20decisions%20by%20a%20Member%20of%20Congress.md) | Wrongfully influencing a private entity's employment decisions by a Member of Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 110–81, title I, §102(c), Sept. 14, 2007, 121 Stat. 739, added item 227.
 
 2006—Pub. L. 109–177, title III, §309(b), Mar. 9, 2006, 120 Stat. 242, added item 226.
 
@@ -84,3 +87,4 @@
 - [&sect; 00224 - Bribery in sporting contests](%C2%A7%2000224%20-%20Bribery%20in%20sporting%20contests.md)
 - [&sect; 00225 - Continuing financial crimes enterprise](%C2%A7%2000225%20-%20Continuing%20financial%20crimes%20enterprise.md)
 - [&sect; 00226 - Bribery affecting port security](%C2%A7%2000226%20-%20Bribery%20affecting%20port%20security.md)
+- [&sect; 00227 - Wrongfully influencing a private entity's employment decisions by a Member of Congress](%C2%A7%2000227%20-%20Wrongfully%20influencing%20a%20private%20entity%27s%20employment%20decisions%20by%20a%20Member%20of%20Congress.md)

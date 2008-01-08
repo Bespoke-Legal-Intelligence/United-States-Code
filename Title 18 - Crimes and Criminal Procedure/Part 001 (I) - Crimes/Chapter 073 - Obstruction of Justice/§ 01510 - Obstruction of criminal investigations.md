@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(ii) section 1341 or 1343 affecting a financial institution.
 
-(c) As used in this section, the term “criminal investigator” means any individual duly authorized by a department, agency, or armed force ofthe United States to conduct or engage in investigations of or prosecutions for violations of the criminal laws of the United States.
+(c) As used in this section, the term “criminal investigator” means any individual duly authorized by a department, agency, or armed force of the United States to conduct or engage in investigations of or prosecutions for violations of the criminal laws of the United States.
 
 (d)(1) Whoever—
 

@@ -1,6 +1,6 @@
 ### §982. Criminal forfeiture
 
-(a)(1) The court, in imposing sentence on a person convicted of an offense in violation of section 1956, 1957, or 1960 of this title, shall orderthat the person forfeit to the United States any property, real or personal, involved in such offense, or any property traceable to such property.
+(a)(1) The court, in imposing sentence on a person convicted of an offense in violation of section 1956, 1957, or 1960 of this title, shall order that the person forfeit to the United States any property, real or personal, involved in such offense, or any property traceable to such property.
 
 (2) The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate—
 
@@ -42,7 +42,7 @@
 
 > shall order that the person forfeit to the United States any property, real or personal, which represents or is traceable to the gross proceeds obtained, directly or indirectly, as a result of such violation.
 
-(6)(A) The court, in imposing sentence on a person convicted of a violation of, or conspiracy to violate, section 274(a), 274A(a)(1), or 274A(a)(2) of the Immigration and Nationality Act or section 554, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title, or a violation of, or conspiracy to violate, section 1028 of this title if committed in connection with passport or visa issuance or use, shall order that the person forfeit to the United States, regardless of any provision of State law—
+(6)(A) The court, in imposing sentence on a person convicted of a violation of, or conspiracy to violate, section 274(a), 274A(a)(1), or 274A(a)(2) of the Immigration and Nationality Act or section 555, 1425, 1426, 1427, 1541, 1542, 1543, 1544, or 1546 of this title, or a violation of, or conspiracy to violate, section 1028 of this title if committed in connection with passport or visa issuance or use, shall order that the person forfeit to the United States, regardless of any provision of State law—
 
 &emsp;(i) any conveyance, including any vessel, vehicle, or aircraft used in the commission of the offense of which the person is convicted; and
 
@@ -54,7 +54,7 @@
 
 (B) The court, in imposing sentence on a person described in subparagraph (A), shall order that the person forfeit to the United States all property described in that subparagraph.
 
-(7) The court, in imposing sentence on a person convicted of a Federal health care offense, shall order the person to forfeit property, real or personal, that constitutes or is derived, directly or indirectly, from gross proceeds traceable to the commission of the offense.
+(7) The court, in imposing sentence on a person convicted of a Federal health care offense, shall order the person to forfeit property, real or personal, that constitutes or is derived, directlyor indirectly, from gross proceeds traceable to the commission of the offense.
 
 (8) The court, in sentencing a defendant convicted of an offense under section 1028, 1029, 1341, 1342, 1343, or 1344, or of a conspiracy to commit such an offense, if the offense involves telemarketing (as that term is defined in section 2325), shall order that the defendant forfeit to the United States any real or personal property—
 
@@ -66,13 +66,15 @@
 
 (2) The substitution of assets provisions of subsection 413(p) shall not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period.
 
-(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–39; amended Pub. L. 100–690, title VI, §§6463(c), 6464, Nov. 18, 1988, 102 Stat. 4374, 4375; Pub. L. 101–73, title IX, §963(c), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title XIV, §§1401, 1403, title XXV, §2525(b), Nov. 29, 1990, 104 Stat. 4835, 4874; Pub. L. 102–393, title VI, §638(e), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(b), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §1512(c), Oct. 28, 1992, 106 Stat. 4058; Pub. L. 103–322, title XXXIII, §330011(s)(1), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §249(a), (b), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 104–208, div. C, title II, §217, Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 105–184, §2, June 23, 1998, 112 Stat. 520; Pub. L. 105–318, §6(a), Oct. 30, 1998, 112 Stat. 3010; Pub. L. 106–185, §18(b), Apr. 25, 2000, 114 Stat. 223; Pub. L. 107–56, title III, §372(b)(2), Oct. 26, 2001, 115 Stat. 339; Pub. L. 107–273, div. B, title IV, §4002(b)(10), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–295, title V, §551(c), Oct. 4, 2006, 120 Stat. 1390.)
+(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–39; amended Pub. L. 100–690, title VI, §§6463(c), 6464, Nov. 18, 1988, 102 Stat. 4374, 4375; Pub. L. 101–73, title IX, §963(c), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title XIV, §§1401, 1403, title XXV, §2525(b), Nov. 29, 1990, 104 Stat. 4835, 4874; Pub. L. 102–393, title VI, §638(e), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(b), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §1512(c), Oct. 28, 1992, 106 Stat. 4058; Pub. L. 103–322, title XXXIII, §330011(s)(1), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §249(a), (b), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 104–208, div. C, title II, §217, Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 105–184, §2, June 23, 1998, 112 Stat. 520; Pub. L. 105–318, §6(a), Oct. 30, 1998, 112 Stat. 3010; Pub. L. 106–185, §18(b), Apr. 25, 2000, 114 Stat. 223; Pub. L. 107–56, title III, §372(b)(2), Oct. 26, 2001, 115 Stat. 339; Pub. L. 107–273, div. B, title IV, §4002(b)(10), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–295, title V, §551(c), Oct. 4, 2006, 120 Stat. 1390; Pub. L. 110–161, div. E, title V, §553(b), Dec. 26, 2007, 121 Stat. 2082.)
 
 #### References in Text
 
 Sections 274 and 274A of the Immigration and Nationality Act, referred to in subsec. (a)(6)(A), are classified to sections 1324 and 1324a, respectively, of Title 8, Aliens and Nationality.
 
 #### Amendments
+
+2007—Subsec. (a)(6)(A). Pub. L. 110–161 substituted “555” for “554” in introductory provisions.
 
 2006—Subsec. (a)(6)(A). Pub. L. 109–295 inserted “554,” before “1425,” in introductory provisions.
 
@@ -110,7 +112,7 @@ Subsec. (b)(1)(A). Pub. L. 104–191, §249(b), inserted “or (a)(6)” after �
 
 1992—Subsec. (a)(1). Pub. L. 102–550 substituted “, 1957, or 1960” for “or 1957”.
 
-Subsec. (a)(2). Pub. L. 102–393 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of this title, affecting a financial institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation.”
+Subsec. (a)(2). Pub. L. 102–393 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The court, in imposing sentence on a person convicted of aviolation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of this title, affecting a financial institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation.”
 
 Subsec. (a)(5). Pub. L. 102–519 added par. (5).
 

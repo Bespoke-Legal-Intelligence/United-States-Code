@@ -18,7 +18,7 @@ In carrying out the Congressional Award Program, the Board shall—
 
 &emsp;(5) take such other actions as may be appropriate for the administration of the Congressional Award Program.
 
-> No salary established by the Board under paragraph (3) shall exceed $75,000 per annum, except that for calendar years after 1986, such limit shall be increased in proportion to increases in the Consumer Price Index.
+> No salary established by the Board under paragraph (3) shall exceed $75,000 per annum, except that for calendar years after 1986, such limitshall be increased in proportion to increases in the Consumer Price Index.
 
 #### (c) Presentation of awards
 
@@ -48,7 +48,7 @@ The Board may award scholarships in such amounts as the Board determines to be a
 
 #### Codification
 
-Subsection (e), which required the Board to submit an annual report to Congress on the activities of the Congressional Award Program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 ofTitle 31, Money and Finance. See, also, page 199 of House Document No. 103–7.
+Subsection (e), which required the Board to submit an annual report to Congress on the activities of the Congressional Award Program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 199 of House Document No. 103–7.
 
 #### Amendments
 

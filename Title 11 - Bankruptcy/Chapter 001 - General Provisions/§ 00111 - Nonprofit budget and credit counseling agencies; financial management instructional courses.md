@@ -8,7 +8,7 @@
 
 (b) The United States trustee (or bankruptcy administrator, if any) shall only approve a nonprofit budget and credit counseling agency or an instructional course concerning personal financial management as follows:
 
-&emsp;(1) The United States trustee (or bankruptcy administrator, if any) shall have thoroughly reviewed the qualifications of the nonprofit budget and credit counseling agency or of the provider of the instructional course under the standards set forth in this section, and the services or instructional courses that will be offered by such agency or such provider, and may require such agency or such provider that has sought approval to provide information with respect to such review.
+&emsp;(1) The United States trustee (or bankruptcy administrator, if any) shall have thoroughly reviewed the qualifications of the nonprofit budget and credit counseling agency or of the provider of the instructional course under the standards set forth in this section, and the services or instructional courses that will be offered by such agency or such provider, andmay require such agency or such provider that has sought approval to provide information with respect to such review.
 
 &emsp;(2) The United States trustee (or bankruptcy administrator, if any) shall have determined that such agency or such instructional course fully satisfies the applicable standards set forth in this section.
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(B) is otherwise likely to increase substantially the debtor's understanding of personal financial management.
 
-(e) The district court may, at any time, investigate the qualifications of a nonprofit budget and credit counseling agency referred to in subsection (a), and request production of documents to ensure the integrity and effectiveness of such agency. The district court may, at any time, remove from the approved list under subsection (a) a nonprofit budget and credit counselingagency upon finding such agency does not meet the qualifications of subsection (b).
+(e) The district court may, at any time, investigate the qualifications of a nonprofit budget and credit counseling agency referred to in subsection (a), and request production of documents to ensure the integrity and effectiveness of such agency. The district court may, at any time, remove from the approved list under subsection (a) a nonprofit budget and credit counseling agency upon finding such agency does not meet the qualifications of subsection (b).
 
 (f) The United States trustee (or the bankruptcy administrator, if any) shall notify the clerk that a nonprofit budget and credit counseling agency or an instructional course is no longer approved, in which case the clerk shall remove it from the list maintained under subsection (a).
 

@@ -2,7 +2,7 @@
 
 #### (a) Cross-references
 
-A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision of this Act.
+A reference to a law replaced by this Act, including a reference in a regulation, order, orother law, is deemed to refer to the corresponding provision of this Act.
 
 #### (b) Continuation of regulations
 

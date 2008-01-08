@@ -420,9 +420,13 @@ Section 4 of Pub. L. 92–516, as amended by Pub. L. 94–140, §4, Nov. 28, 197
 
 “(e) For purposes of determining any criminal or civil penalty or liability to any third person in respect of any act or omission occurring before the expiration of the periods referred to in this section, the Federal Insecticide, Fungicide, and Rodenticide Act shall be treated as continuing in effect as if this Act had not been enacted.”
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–94, §1, Oct. 9, 2007, 121 Stat. 1000, provided that: “This Act \[amending sections 136a, 136a–1, and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as a note under section 136a of this title\] may be cited as the ‘Pesticide Registration Improvement Renewal Act’.”
+
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–199, div. G, title V, §501(a), Jan. 23, 2004, 118 Stat. 419, provided that: “This section \[enacting section 136w–8 of this title, amending sections 136a, 136a–1, 136x, and 136y of this title, and enacting provisions set out as notes under section 136a of this titleand section 346a of Title 21, Food and Drugs\] may be cited as the ‘Pesticide Registration Improvement Act of 2003’.”
+Pub. L. 108–199, div. G, title V, §501(a), Jan. 23, 2004, 118 Stat. 419, provided that: “This section \[enacting section 136w–8 of this title, amending sections 136a, 136a–1, 136x, and 136y of this title, and enacting provisions set out as notes under section 136a of this title and section 346a of Title 21, Food and Drugs\] may be cited as the ‘Pesticide Registration Improvement Act of 2003’.”
 
 #### Short Title of 1996 Amendment
 

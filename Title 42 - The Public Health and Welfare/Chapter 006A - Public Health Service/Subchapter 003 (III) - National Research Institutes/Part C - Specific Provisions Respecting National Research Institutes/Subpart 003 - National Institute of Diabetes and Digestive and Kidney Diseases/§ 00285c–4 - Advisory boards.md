@@ -22,7 +22,7 @@ Each Advisory Board shall be composed of eighteen appointed members and nonvotin
 
 &emsp;&emsp;(ii) Such other officers and employees of the United States as the Secretary determines necessary for the Advisory Board to carry out its functions.
 
-&emsp;(B) In the case of the National Diabetes Advisory Board, the following shall also be ex officio members: The Director of the National Heart, Lung, and Blood Institute, the Director of the National Eye Institute, the Director of the National Institute of Child Health and Human Development, and the Administrator of the Health Resources and Services Administration (or the designees of such officers).
+&emsp;(B) In the case of the National Diabetes Advisory Board, the following shall also be ex officio members: The Director of the National Heart, Lung, and Blood Institute, the Director of the National Eye Institute, the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development, and the Administrator of the Health Resources and Services Administration (or the designees of such officers).
 
 #### (c) Compensation
 
@@ -56,15 +56,17 @@ The National Diabetes Advisory Board and the National Digestive Diseases Advisor
 
 #### (i) Subcommittees; establishment and membership
 
-In carrying out its functions, each Advisory Board may establish subcommittees, convene workshops and conferences, and collect data. Such subcommittees may be composed of Advisory Board members and nonmember consultants with expertise in the particular area addressed by such subcommittees. The subcommittees may hold such meetings as are necessary to enable them to carry out their activities.
+In carrying out its functions, each Advisory Board may establish subcommittees, convene workshops and conferences, and collect data.Such subcommittees may be composed of Advisory Board members and nonmember consultants with expertise in the particular area addressed by such subcommittees. The subcommittees may hold such meetings as are necessary to enable them to carry out their activities.
 
 #### (j) Termination of predecessor boards; time within which to appoint members
 
-The National Diabetes Advisory Board and the National Digestive Diseases Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section. The Secretary shall make appointments to the Advisory Boards established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The members of the Boards in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Boards established under subsection (a) of this section for diabetesand digestive diseases, except that at least one-half of the members of the National Diabetes Advisory Board in existence on November 20, 1985, shall be appointed to the National Diabetes Advisory Board first established under subsection (a) of this section.
+The National Diabetes Advisory Board and the National Digestive Diseases Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section. The Secretary shall make appointments to the Advisory Boards established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The members of the Boards in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Boards established under subsection (a) of this section for diabetes and digestive diseases, except that at least one-half of the members of the National Diabetes Advisory Board in existence on November 20, 1985, shall be appointed to the National Diabetes Advisory Board first established under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107 Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285.)
+(July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107 Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 110–154, §1(b)(6), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### Amendments
+
+2007—Subsec. (b)(2)(B). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
 1998—Subsecs. (j), (k). Pub. L. 105–362 redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “Each Advisory Board shall prepare an annual report for the Secretary which—
 

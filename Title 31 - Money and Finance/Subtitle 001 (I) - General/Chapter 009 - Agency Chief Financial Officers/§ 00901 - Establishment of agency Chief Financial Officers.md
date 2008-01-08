@@ -70,7 +70,7 @@
 
 &emsp;(G) The Social Security Administration.
 
-(c)(1) There shall be within the Executive Office of the President a Chief Financial Officer, who shall be designated or appointed by the President from among individuals meeting the standards described in subsection (a)(3). The position of Chief Financial Officer established under this paragraph may be so established in any Office (including the Office of Administration) of the Executive Office of the President.
+(c)(1) There shall be within the Executive Office of the President a Chief Financial Officer, who shall be designated or appointed by the President from among individuals meeting the standards described in subsection (a)(3). The position of Chief Financial Officer establishedunder this paragraph may be so established in any Office (including the Office of Administration) of the Executive Office of the President.
 
 (2) The Chief Financial Officer designated or appointed under this subsection shall, to the extent that the President determines appropriate and in the interest of the United States, have the same authority and perform the same functions as apply in the case of a Chief Financial Officer of an agency described in subsection (b).
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -122,7 +122,7 @@ Pub. L. 106–58, title VI, §638(b)–(e), Sept. 29, 1999, 113 Stat. 475, provi
 
 “(b)
 
-Plan for Implementation.—Not later than 90 days after the effective date of this section \[noon on Jan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform of the House of Representatives, and the Chairman of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, a plan for implementation of the provisions of, and amendments made by, this section \[amending this section and sections 503 and 1105 of this title\].
+Plan for Implementation.—Not later than 90 days after the effective date of this section \[noon on Jan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Chairman of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, a plan for implementation of the provisions of, and amendments made by, this section \[amending this section and sections 503 and 1105 of this title\].
 
 “(c)
 
@@ -148,7 +148,7 @@ Section 206 of Pub. L. 101–576 provided that:
 
 “(a)
 
-Agency Reviews of Financial Management Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 15, 1990\], the Director of the Office of Management and Budget shall require each agency listed in subsection (b) of section 901 of title 31, United States Code, as amended by this Act, to conduct a review of its financial management activities for the purpose of consolidating its accounting, budgeting, and other financial management activities under the agency Chief Financial Officer appointed under subsection (a) of that section for the agency.
+Agency Reviews of Financial Management Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 15, 1990\], the Director of the Office of Management and Budget shall require each agency listed in subsection (b) of section 901 oftitle 31, United States Code, as amended by this Act, to conduct a review of its financial management activities for the purpose of consolidating its accounting, budgeting, and other financial management activities under the agency Chief Financial Officer appointed under subsection (a) of that section for the agency.
 
 “(b)
 

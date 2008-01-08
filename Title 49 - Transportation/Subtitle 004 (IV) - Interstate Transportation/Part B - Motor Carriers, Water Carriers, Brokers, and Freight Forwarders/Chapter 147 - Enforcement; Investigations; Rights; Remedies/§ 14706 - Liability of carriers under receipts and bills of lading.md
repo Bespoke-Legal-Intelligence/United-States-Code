@@ -50,7 +50,7 @@ Against delivering carrier.—A civil action under this section may be brought a
 
 &emsp;(2)
 
-Against carrier responsible for loss.—A civil action under this section may be brought against the carrier alleged to have caused the loss or damage, in the judicial district in which such loss or damage is alleged to have occurred.
+Against carrier responsible for loss.—A civil action under this section may be brought against the carrier alleged to havecaused the loss or damage, in the judicial district in which such loss or damage is alleged to have occurred.
 
 &emsp;(3)
 

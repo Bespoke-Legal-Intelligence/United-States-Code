@@ -269,7 +269,7 @@ nc
 
 #### (2) Multiple procedures
 
-&emsp;A good that is produced in the territory of one or more of the CAFTA–DR countries by 1 or more producers is an originating good if the good satisfies the requirements of subsection (b) and all other applicable requirements of this section.
+&emsp;A good that is produced in the territory of one or more of the CAFTA–DR countries by 1or more producers is an originating good if the good satisfies the requirements of subsection (b) and all other applicable requirements of this section.
 
 #### (f) De minimis amounts of nonoriginating materials
 
@@ -407,7 +407,7 @@ An indirect material shall be treated as an originating material without regard 
 
 A good that has undergone production necessary to qualify as an originating good under subsection (b) shall not be considered to be an originating good if, subsequent to that production, the good—
 
-&emsp;(1) undergoes further production or any other operation outside the territories of theCAFTA–DR countries, other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the territory of a CAFTA–DR country; or
+&emsp;(1) undergoes further production or any other operation outside the territories of the CAFTA–DR countries, other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the territory of a CAFTA–DR country; or
 
 &emsp;(2) does not remain under the control of customs authorities in the territory of a country other than a CAFTA–DR country.
 
@@ -623,7 +623,7 @@ In this section:
 
 &emsp;&emsp;In this paragraph:
 
-&emsp;&emsp;&emsp;(i) The term “interested entity” means the government of a CAFTA–DR country other than the United States, a potential or actual purchaser of a textile or apparel good, or a potential or actual supplier of a textile or apparel good.
+&emsp;&emsp;&emsp;(i) The term “interested entity” means the government of a CAFTA–DR country other than the United States, a potentialor actual purchaser of a textile or apparel good, or a potential or actual supplier of a textile or apparel good.
 
 &emsp;&emsp;&emsp;(ii) All references to “day” and “days” exclude Saturdays, Sundays, and legal holidays.
 
@@ -663,7 +663,7 @@ In this section:
 
 #### (E) Requests to restrict or remove fabrics, yarns, or fibers
 
-&emsp;&emsp;(i) Subject to clause (ii), an interested entity may request the President to restrict the quantity of, or remove from the list inAnnex 3.25 of the Agreement, any fabric, yarn, or fiber—
+&emsp;&emsp;(i) Subject to clause (ii), an interested entity may request the President to restrict the quantity of, or remove from the list in Annex 3.25 of the Agreement, any fabric, yarn, or fiber—
 
 &emsp;&emsp;&emsp;(I) that has been added to that list in an unrestricted quantity pursuant to paragraph (2) or subparagraph (C)(iii) or (D); or
 
@@ -693,7 +693,7 @@ In this section:
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-This subchapter, referred to in subsec. (<i>o</i>)(1)(B), was in the original “this title” meaning title II of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which enacted this subchapter and amended sections 58c, 1508, 1514, 1520, and 1592 of this title. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsec. (<i>o</i>)(1)(B), was in the original “this title” meaning title II of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which enacted thissubchapter and amended sections 58c, 1508, 1514, 1520, and 1592 of this title. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 
@@ -839,7 +839,9 @@ nc–vnm
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### Proc. No. 7987. To Implement the Dominican Republic-Central America-United States Free Trade Agreement
+#### Delegation of Functions
 
-Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10827, provided in par. (4) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under subsec. (<i>o</i>) of this section to determine that a fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the United States and those Agreement countries for which the Agreement has entered into force, and to add any such fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted or unrestricted quantity; to eliminate a restriction on the quantity of a fabric, yarn, or fiber within 6 months after adding the fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted quantity; to restrict the quantity of, or remove from the list in Annex 3.25 of the Agreement, certain fabrics, yarns, or fibers; and to establish procedures governing the submission of a request for any such determination and to ensure appropriate public participation in any such determination.
+Proc. No. 8213, Dec. 20, 2007, 72 F.R. 73556, provided in par. (4) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under subsec. (<i>o</i>) of this section to implement Appendix 4.1–B of the Dominican Republic-Central America-United States Free Trade Agreement by determining whether and, if so, by what amount to increase, in accordance with paragraph 3 or footnote 2 of that Appendix, the quantitative limits in the provisions of the Harmonized Tariff Schedule set out in section D of the Annex to this proclamation (not set out in the Code).
+
+Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10828, provided in par. (4) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under subsec. (<i>o</i>) of this section to determine that a fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the United States and those Dominican Republic-Central America-United States Free Trade Agreement countries for which the Agreement has entered into force, and to add any such fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted or unrestricted quantity; to eliminate a restriction on the quantity of a fabric, yarn, or fiber within 6 months after adding the fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted quantity; to restrict the quantity of, or remove from the list in Annex 3.25 of the Agreement, certain fabrics, yarns, or fibers; and to establish procedures governing the submission of a request for any such determination and to ensure appropriate public participation in any such determination.
 

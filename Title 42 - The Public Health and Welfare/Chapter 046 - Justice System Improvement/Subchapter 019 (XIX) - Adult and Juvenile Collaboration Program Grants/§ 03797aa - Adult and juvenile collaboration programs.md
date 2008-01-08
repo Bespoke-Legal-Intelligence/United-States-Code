@@ -138,7 +138,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;To receive an implementation grant, the joint applicants shall—
 
-&emsp;&emsp;&emsp;(i) document that at least 1 criminal or juvenile justice agency (which can includea mental health court) and 1 mental health agency will participate in the administration of the collaboration program;
+&emsp;&emsp;&emsp;(i) document that at least 1 criminal or juvenile justice agency (which can include a mental health court) and 1 mental health agency will participate in the administration of the collaboration program;
 
 &emsp;&emsp;&emsp;(ii) describe the responsibilities of each participating agency, including how each agency will use grant resources to provide supervision of offenders and jointly ensure that the provision of mental health treatment services and substance abuse services for individuals with co-occurring mental health and substance abuse disorders are coordinated, which may range from consultation or collaboration to integration in a single setting or treatment model;
 
@@ -208,7 +208,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) ensure mechanisms are in place to capture data, consistent with the methodology and outcome measures under clause (i); and
 
-&emsp;&emsp;&emsp;(iii) submit specific agreements from affected agencies to provide the data needed by the Attorney General and the Secretary to accomplish the evaluation under clause (i).
+&emsp;&emsp;&emsp;(iii) submit specific agreements from affected agencies to provide the data neededby the Attorney General and the Secretary to accomplish the evaluation under clause (i).
 
 #### (H) State plans
 

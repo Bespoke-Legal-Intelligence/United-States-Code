@@ -44,7 +44,7 @@ Relationship to Other Laws.—A request for, or receipt of, information from the
 
 &emsp;(1) the Secretary of Transportation may not relay or otherwise provide information specified in section 30304(b)(1)(A) or (C) of this title to a person not authorized by this section to receive the information;
 
-&emsp;(2) a request for, or receipt of, information by a chief driver licensing official, or by a person authorized by subsection (b) of this section to request and receive the information, is deemed to be a routine use under section 552a(b) of title 5; and
+&emsp;(2) a request for, or receipt of, information by a chief driver licensing official, or by a person authorized by subsection (b) of this section to request and receive the information, isdeemed to be a routine use under section 552a(b) of title 5; and
 
 &emsp;(3) receipt of information by a person authorized by this section to receive the information is deemed to be a disclosure under section 552a(c) of title 5, except that the Secretary of Transportation is not required to retain the accounting made under section 552a(c)(1) for more than 7 years after the disclosure.
 
@@ -52,7 +52,7 @@ Relationship to Other Laws.—A request for, or receipt of, information from the
 
 Availability of Information Provided Under Prior Law.—Information provided by a State under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), and under this chapter, shall be available under this section during the transition from the register maintained under that Act to the Register maintained under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 976; Pub. L. 104–264, title V, §502(b), Oct. 9, 1996, 110Stat. 3262; Pub. L. 104–324, title II, §207(b), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–102, §2(18), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–178, title II, §2006(b), June 9, 1998, 112 Stat. 335; Pub. L. 108–375, div. A, title X, §1061, Oct. 28, 2004, 118 Stat. 2056.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 976; Pub. L. 104–264, title V, §502(b), Oct. 9, 1996, 110 Stat. 3262; Pub. L. 104–324, title II, §207(b), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–102, §2(18), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–178, title II, §2006(b), June 9, 1998, 112 Stat. 335; Pub. L. 108–375, div. A, title X, §1061, Oct. 28, 2004, 118 Stat. 2056.)
 
 Historical and Revision Notes
 

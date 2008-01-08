@@ -30,7 +30,7 @@ Each regulated person who imports or exports a listed chemical shall notify the 
 
 &emsp;(A) The Attorney General, in accordance with the same procedures as apply under subsection (c)(2)—
 
-&emsp;&emsp;(i) may order the suspension of the transfer of the listed chemical by the importer or exporter involved, except for a transfer to a regular customer, on the ground that the chemical may be diverted to the clandestine manufacture of a controlled substance (without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufacturedfrom bulk chemicals to be transferred), subject to the Attorney General ordering such suspension before the expiration of the 15-day period referred to in paragraph (1) with respect to the importation or exportation (in any case in which such a period applies); and
+&emsp;&emsp;(i) may order the suspension of the transfer of the listed chemical by the importer or exporter involved, except for a transfer to a regular customer, on the ground that the chemical may be diverted to the clandestine manufacture of a controlled substance (without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufactured from bulk chemicals to be transferred), subject to the Attorney General ordering such suspension before the expiration of the 15-day period referred to in paragraph (1) with respect to the importation or exportation (in any case in which such a period applies); and
 
 &emsp;&emsp;(ii) may, for purposes of clause (i) and paragraph (1), disqualify a regular customer on such ground.
 
@@ -68,7 +68,7 @@ Within 30 days after a transaction covered by this section is completed, the imp
 
 (3) If the Attorney General determines that a foreign-chain distributor is refusing to cooperate with the Attorney General in obtaining the information referred to in paragraph (2), the Attorney General may, in accordance with procedures that apply under subsection (c), issue an order prohibiting the importation of ephedrine, pseudoephedrine, or phenylpropanolamine in any case in which such distributor is part of the chain of distribution for such chemical. Not later than 60 days prior to issuing the order, the Attorney General shall publish in the Federal Register a notice of intent to issue the order. During such 60-day period, imports of the chemical with respect to such distributor may not be restricted under this paragraph.
 
-(Pub. L. 91–513, title III, §1018, as added Pub. L. 100–690, title VI, §6053(a), Nov. 18, 1988, 102 Stat. 4314; amended Pub. L. 103–200, §§4(a), 5(a), 9(b),Dec. 17, 1993, 107 Stat. 2338–2340; Pub. L. 103–322, title XXXIII, §330024(c), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 109–177, title VII, §§716(a), (b)(1)(B), 721, Mar. 9, 2006, 120 Stat. 265, 267.)
+(Pub. L. 91–513, title III, §1018, as added Pub. L. 100–690, title VI, §6053(a), Nov. 18, 1988, 102 Stat. 4314; amended Pub. L. 103–200, §§4(a), 5(a), 9(b), Dec. 17, 1993, 107 Stat. 2338–2340; Pub. L. 103–322, title XXXIII, §330024(c), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 109–177, title VII, §§716(a), (b)(1)(B), 721, Mar. 9, 2006, 120 Stat. 265, 267.)
 
 #### Amendments
 

@@ -38,7 +38,7 @@ In this subchapter:
 
 #### (9) Settlement Area Land
 
-&emsp;The term “Settlement Area Land” means the National Forest System land located within the Santa Fe National Forest, as described in Appendix B to the Settlement Agreement,that is available for purchase by the Pueblo under section 9(a) of the Settlement Agreement.
+&emsp;The term “Settlement Area Land” means the National Forest System land located within the Santa Fe National Forest, as described in Appendix B to the Settlement Agreement, that is available for purchase by the Pueblo under section 9(a) of the Settlement Agreement.
 
 #### (10) Settlement Fund
 
@@ -74,7 +74,7 @@ The purposes of this subchapter are—
 
 #### References in Text
 
-The Sisk Act, referred to in subsec. (a)(11), is Pub. L. 90–171, Dec. 4, 1967, 81 Stat. 531, which is classified to section 484a of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+The Sisk Act, referred to in subsec. (a)(11), is Pub. L. 90–171, Dec. 4, 1967, 81 Stat. 531, which is classified to section 484a of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 484a of Title 16 and Tables.
 
 #### Short Title
 

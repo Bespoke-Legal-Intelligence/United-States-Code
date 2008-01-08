@@ -36,7 +36,7 @@
 
 #### (1) Appointment
 
-&emsp;The Secretary may, for any anticipated absence of a duly appointed Commissioner at a meeting of the General Council or the Fisheries Commission, designate an individual to serve as an Alternate Commissioner.
+&emsp;The Secretary may, for any anticipated absence of a duly appointed Commissioner at ameeting of the General Council or the Fisheries Commission, designate an individual to serve as an Alternate Commissioner.
 
 #### (2) Functions
 

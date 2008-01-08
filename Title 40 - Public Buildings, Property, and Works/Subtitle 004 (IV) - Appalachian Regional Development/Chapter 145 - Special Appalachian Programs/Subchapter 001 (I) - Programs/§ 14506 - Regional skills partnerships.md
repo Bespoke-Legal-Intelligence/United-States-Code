@@ -40,11 +40,11 @@ Administrative Costs.—An eligible entity may use not more than 10 percent of a
 
 (d)
 
-Limitation on Available Amounts.—Not more than 50 percent (or 80 percent in the case of a project to be carried out in a county forwhich a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for a grant under this section may be provided from amounts appropriated to carry out this section.
+Limitation on Available Amounts.—Not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for a grant under this section may be provided from amounts appropriated to carry out this section.
 
 (e)
 
-Sources of Assistance.—Assistance under this section may be provided entirely from amounts made available to carry out this section, in combination with amounts made available under other federal programs, or from any other source.
+Sources of Assistance.—Assistance under this section may be provided entirely fromamounts made available to carry out this section, in combination with amounts made available under other federal programs, or from any other source.
 
 (f)
 

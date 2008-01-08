@@ -54,7 +54,7 @@ Not later than one year after October 4, 2006, and biennially thereafter, the Se
 
 #### Codification
 
-Another section 1803 of Pub. L. 107–296 is classified to section 593 of this title.
+Another section 1803 of Pub. L. 107–296 was renumbered section 1903 and is classified to section 593 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(5)”.</i>
 

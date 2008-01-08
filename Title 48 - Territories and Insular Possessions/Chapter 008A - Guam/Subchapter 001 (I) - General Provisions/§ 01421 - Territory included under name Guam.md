@@ -14,7 +14,7 @@ Pub. L. 107–212, §1, Aug. 21, 2002, 116 Stat. 1051, provided that: “This Ac
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–291, §1, Oct. 27, 1998, 112 Stat. 2785, provided that: “This Act \[amending sections 1421g, 1423a,and 1423b of this title\] may be cited as the ‘Guam Organic Act Amendments of 1998’.”
+Pub. L. 105–291, §1, Oct. 27, 1998, 112 Stat. 2785, provided that: “This Act \[amending sections 1421g, 1423a, and 1423b of this title\] may be cited as the ‘Guam Organic Act Amendments of 1998’.”
 
 #### Short Title of 1968 Amendments
 

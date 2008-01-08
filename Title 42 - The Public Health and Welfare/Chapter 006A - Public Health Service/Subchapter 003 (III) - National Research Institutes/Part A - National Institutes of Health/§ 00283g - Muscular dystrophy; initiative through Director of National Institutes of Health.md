@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director of NIH, in coordination with the Directors of the National Institute of Neurological Disorders and Stroke, the National Institute of Arthritis and Muscoskeletal and Skin Diseases, the National Institute of Child Health and Human Development, and the other national research institutes as appropriate, shall expand and intensify programs of such Institutes with respect to research and related activities concerning various forms of muscular dystrophy, including Duchenne, myotonic, facioscapulohumeral muscular dystrophy (referred to in this section as “FSHD”) and other forms of muscular dystrophy.
+&emsp;The Director of NIH, in coordination with the Directors of the National Institute of Neurological Disorders and Stroke, the National Institute of Arthritis and Muscoskeletal and Skin Diseases, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, and the other national research institutes as appropriate, shall expand and intensify programs of such Institutes with respect to research and related activities concerning various forms of muscular dystrophy, including Duchenne, myotonic, facioscapulohumeral muscular dystrophy (referred to in this section as “FSHD”) and other forms of muscular dystrophy.
 
 #### (2) Coordination
 
@@ -34,7 +34,7 @@
 
 #### (5) Duration of support
 
-&emsp;Support for a center established under paragraph (1) may be provided under this section for a period of not to exceed 5 years. Such period may be extended for 1 or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director of NIH and if such group has recommended to the Director that such period should be extended.
+&emsp;Support for a center established under paragraph (1) may be provided under this section for a period of not to exceed 5 years. Such period may be extended for 1 or more additional periods not exceeding 5 years if the operationsof such center have been reviewed by an appropriate technical and scientific peer review group established by the Director of NIH and if such group has recommended to the Director that such period should be extended.
 
 #### (c) Facilitation of research
 
@@ -104,7 +104,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) of this 
 
 The Secretary shall, under subsection (a)(1) of this section, provide for a means through which the public can obtain information on the existing and planned programs and activities of the Department of Health and Human Services with respect to various forms of muscular dystrophy and through which the Secretary can receive comments from the public regarding such programs and activities.
 
-(July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824; amended Pub. L. 109–482, title I, §§103(b)(4), 104(b)(1)(A), Jan. 15, 2007, 120 Stat. 3687, 3692.)
+(July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824; amended Pub. L. 109–482, title I, §§103(b)(4),104(b)(1)(A), Jan. 15, 2007, 120 Stat. 3687, 3692; Pub. L. 110–154, §1(b)(3), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### References in Text
 
@@ -116,7 +116,9 @@ A prior section 283g, act July 1, 1944, ch. 373, title IV, §404E, as added Pub.
 
 #### Amendments
 
-2007—Subsec. (b)(3). Pub. L. 109–482, §104(b)(1)(A)(i), amended heading and text of par. (3) generally. Text read as follows: “The Director of NIH—
+2007—Subsec. (a)(1). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+
+Subsec. (b)(3). Pub. L. 109–482, §104(b)(1)(A)(i), amended heading and text of par. (3) generally. Text read as follows: “The Director of NIH—
 
 &emsp;“(A) shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers; and
 

@@ -64,11 +64,11 @@ Subsecs. (b) to (d). Pub. L. 104–201, §1721(2), (3), redesignated subsecs. (c
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, setout as a note under section 5722 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1984 Amendment
 
-Section 811(b) of Pub. L. 98–407 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1984. Funds appropriated to the Department of Defense may be used to reimburse persons for expenditures made after December 31, 1983, for the installation, repair, and maintenance of telephone wiring in any Government-owned or leased housing unit before the date of the enactment of this Act \[Aug. 28, 1984\].”
+Section 811(b) of Pub. L. 98–407 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1984. Funds appropriated to the Department of Defense may be usedto reimburse persons for expenditures made after December 31, 1983, for the installation, repair, and maintenance of telephone wiring in any Government-owned or leased housing unit before the date of the enactment of this Act \[Aug. 28, 1984\].”
 
 #### Employees Authorized To Work at Home
 

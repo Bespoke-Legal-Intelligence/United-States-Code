@@ -2,7 +2,7 @@
 
 #### (a) Findings
 
-The President having terminated governmental relations between the United States and the governing authorities on Taiwan recognized by the United States as the Republic of China prior to January 1, 1979, the Congress finds that the enactment of this chapter is necessary—
+The President having terminated governmental relations between the United States andthe governing authorities on Taiwan recognized by the United States as the Republic of China prior to January 1, 1979, the Congress finds that the enactment of this chapter is necessary—
 
 &emsp;(1) to help maintain peace, security, and stability in the Western Pacific; and
 

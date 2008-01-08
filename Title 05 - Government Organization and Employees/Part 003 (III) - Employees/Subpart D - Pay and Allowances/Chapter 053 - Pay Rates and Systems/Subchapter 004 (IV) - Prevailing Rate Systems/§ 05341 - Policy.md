@@ -14,7 +14,7 @@ It is the policy of Congress that rates of pay of prevailing rate employees be f
 
 #### Prior Provisions
 
-A prior section 5341, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471; Pub. L. 90–83, §1(97), Sept. 11, 1967, 81 Stat. 220; Pub. L. 90–560, §4, Oct. 12, 1968, 82 Stat. 997, provided prevailing rate system for trades and crafts andis covered by sections 5343(c), (d) and 5349(a) of this title.
+A prior section 5341, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471; Pub. L. 90–83, §1(97), Sept. 11, 1967, 81 Stat. 220; Pub. L. 90–560, §4, Oct. 12, 1968, 82 Stat. 997, provided prevailing rate system for trades and crafts and is covered by sections 5343(c), (d) and 5349(a) of this title.
 
 #### Effective Date
 

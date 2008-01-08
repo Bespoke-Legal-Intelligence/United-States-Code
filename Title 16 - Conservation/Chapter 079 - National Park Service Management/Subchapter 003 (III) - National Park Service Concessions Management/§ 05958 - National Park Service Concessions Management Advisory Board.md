@@ -32,7 +32,7 @@ There is hereby established a National Park Service Concessions Management Advis
 
 #### (c) Advisory Board membership
 
-Members of the Advisory Board shall be appointed on a staggered basis by the Secretary for a term not to exceed 4 years and shall serve at the pleasure of the Secretary. The Advisory Board shall be comprised of not more than seven individuals appointed from among citizens of the United States not in the employment of the Federal Government and not in the employment of or having an interest in a National Park Service concession. Of the seven members of the Advisory Board—
+Members of the Advisory Board shall be appointed on a staggered basis by the Secretaryfor a term not to exceed 4 years and shall serve at the pleasure of the Secretary. The Advisory Board shall be comprised of not more than seven individuals appointed from among citizens of the United States not in the employment of the Federal Government and not in the employment of or having an interest in a National Park Service concession. Of the seven members of the Advisory Board—
 
 &emsp;(1) one member shall be privately employed in the hospitality industry and have both broad knowledge of hotel or food service management and experience in the parks and recreation concessions business;
 
@@ -61,6 +61,10 @@ Service of an individual as a member of the Advisory Board shall not be consider
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “the”.</i>
 

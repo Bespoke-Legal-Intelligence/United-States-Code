@@ -16,11 +16,11 @@ The Secretary is authorized and directed to make adjustments at the partnership 
 
 #### (3) Authority to rescind notice with partnership consent
 
-&emsp;The Secretary may, with the consent of the partnership, rescind any notice of a partnership adjustment mailed to such partnership. Any notice so rescinded shall not be treated as a notice of a partnership adjustment, for purposes of this section, section 6246, and section 6247, and the taxpayer shall have no right to bring a proceeding under section 6247 with respect to such notice. Nothing in this subsection shall affect any suspension of the running of any period of limitations during any period during which the rescinded notice was outstanding.
+&emsp;The Secretary may, with the consent of the partnership, rescind any notice of a partnership adjustment mailed to such partnership. Any notice so rescinded shall not be treated as a notice of a partnership adjustment, for purposes of this section, section 6246, and section 6247, and the taxpayer shall have no right to bring a proceeding under section 6247 with respect to such notice. Nothing in this subsection shall affect any suspension of the running of any period of limitations during anyperiod during which the rescinded notice was outstanding.
 
 (Added Pub. L. 105–34, title XII, §1222(a), Aug. 5, 1997, 111 Stat. 1013.)
 
 #### Prior Provisions
 
-A prior section 6245, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1692, defined “subchapter S item” for purposes of subchapter, prior to repeal by Pub. L.104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
+A prior section 6245, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1692, defined “subchapter S item” for purposes of subchapter, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 

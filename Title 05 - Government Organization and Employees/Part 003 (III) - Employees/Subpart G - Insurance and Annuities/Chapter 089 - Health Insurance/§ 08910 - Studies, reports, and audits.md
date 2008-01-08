@@ -12,7 +12,7 @@
 
 (d) The Office, in consultation with the Department of Health and Human Services, shall develop and implement a system through which the carrier for an approved health benefits plan described by section 8903 or 8903a will be able to identify those annuitants or other individuals covered by such plan who are entitled to benefits under part A or B of title XVIII of the Social Security Act in order to ensure that payments under coordination of benefits with Medicare do not exceed the statutory maximums which physicians may charge Medicare enrollees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–508, title VII, §7002(d), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92Stat. 1224; Pub. L. 101–508, title VII, §7002(d), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 Historical and Revision Notes
 

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iii) the number of, nature of, and other information concerning the persons and entities that received a grant, cooperative agreement, or contract pursuant to the use of such authorities, and the persons and entities that were considered and rejected for such a grant, cooperative agreement, or contract, except that the report need not disclose the identity of any such person or entity; and
 
-&emsp;&emsp;&emsp;(iv) whether, with respect to each procurement that is approved by the President under section 247d–6b(c)(6) of this title, a contract was entered into within one year after such approval by the President.
+&emsp;&emsp;&emsp;(iv) whether, with respect to each procurement that is approved by the President under section 247d–6b(c)(6) of thistitle, a contract was entered into within one year after such approval by the President.
 
 #### (2) Annual summaries regarding certain activity
 
@@ -121,4 +121,8 @@ This Act, referred to in subsecs. (a)(3) and (b)(1), (2)(B), is Pub. L. 108–27
 #### Codification
 
 Section was enacted as part of the Project BioShield Act of 2004, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

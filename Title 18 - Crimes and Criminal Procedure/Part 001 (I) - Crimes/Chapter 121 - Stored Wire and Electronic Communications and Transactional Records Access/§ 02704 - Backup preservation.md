@@ -26,7 +26,7 @@ Customer Challenges.—(1) Within fourteen days after notice by the governmental
 
 &emsp;(A) stating that the applicant is a customer or subscriber to the service from which the contents of electronic communications maintained for him have been sought; and
 
-&emsp;(B) stating the applicant's reasons for believing that the records sought are not relevant to a legitimate law enforcement inquiryor that there has not been substantial compliance with the provisions of this chapter in some other respect.
+&emsp;(B) stating the applicant's reasons for believing that the records sought are not relevant to a legitimate law enforcement inquiry or that there has not been substantial compliance with the provisions of this chapter in some other respect.
 
 (2) Service shall be made under this section upon a governmental entity by delivering or mailing by registered or certified mail a copy of the papers to the person, office, or department specified in the notice which the customer has received pursuant to this chapter. For the purposes of this section, the term “delivery” has the meaning given that term in the Federal Rules of Civil Procedure.
 

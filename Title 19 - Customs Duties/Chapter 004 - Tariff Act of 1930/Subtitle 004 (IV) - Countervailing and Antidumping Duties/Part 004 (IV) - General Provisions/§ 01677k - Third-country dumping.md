@@ -20,7 +20,7 @@ For purposes of this section:
 
 &emsp;(B) such domestic industry is being materially injured, or threatened with material injury, by reason of such dumping;
 
-> submit a petition to the Trade Representative that alleges the elements referred to in subparagraphs (A) and (B) and requests the Trade Representative to take action under subsection (c) of this section on behalf of the domestic industry.
+> submit a petition to the Trade Representative that alleges the elements referred to in subparagraphs (A) and (B) and requests the Trade Representative to take action under subsection (c)of this section on behalf of the domestic industry.
 
 (2) A petition submitted under paragraph (1) shall contain such detailed information as the Trade Representative may require in support of the allegations in the petition.
 

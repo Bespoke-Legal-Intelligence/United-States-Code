@@ -18,5 +18,5 @@ A prior section 1624, added Pub. L. 99–145, title IX, §924(a)(1), Nov. 8, 198
 
 #### Effective Date
 
-Section 507(b) of Pub. L. 101–193 provided that: “Section 1608 \[now 1623\] of title 10, United States Code, as added by subsection (a), shall take effect on the date of enactment of this Act \[Nov. 30, 1989\].”
+Section 507(b) of Pub. L. 101–193 provided that: “Section 1608 \[now 1623\] of title 10, United States Code, asadded by subsection (a), shall take effect on the date of enactment of this Act \[Nov. 30, 1989\].”
 

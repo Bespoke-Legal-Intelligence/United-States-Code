@@ -4,3 +4,7 @@ It is the sense of the Congress that the Hubble Space Telescope is an extraordin
 
 (Pub. L. 109–155, title III, §302, Dec. 30, 2005, 119 Stat. 2917.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

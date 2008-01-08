@@ -8,7 +8,7 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 #### (1) Advisory rulings and final determinations
 
-&emsp;For the purposes of this subchapter, the Secretary of the Treasury shall provide for theprompt issuance of advisory rulings and final determinations on whether, under section 2518(4)(B) of this title, an article is or would be a product of a foreign country or instrumentality designated pursuant to section 2511(b) of this title.
+&emsp;For the purposes of this subchapter, the Secretary of the Treasury shall provide for the prompt issuance of advisory rulings and final determinations on whether, under section 2518(4)(B) of this title, an article is or would be a product of a foreign country or instrumentality designated pursuant to section 2511(b) of this title.
 
 #### (2) Penalties for fraudulent conduct
 
@@ -148,7 +148,7 @@ Contents of reports.—The reports required by this subsection shall include, wi
 
 &emsp;&emsp;“(B) an identification of the United States products or services that are affected by the noncompliance or discrimination;
 
-&emsp;&emsp;“(C) an analysis of the impact of the noncompliance or discrimination on the commerce of the United States and the ability of United States companies to compete in foreign government procurement markets; and
+&emsp;&emsp;“(C) an analysis of the impact of the noncompliance or discrimination on the commerce of theUnited States and the ability of United States companies to compete in foreign government procurement markets; and
 
 &emsp;&emsp;“(D) a description of the status, action taken, and disposition of cases of noncompliance or discrimination identified in the preceding annual report with respect to such country.
 

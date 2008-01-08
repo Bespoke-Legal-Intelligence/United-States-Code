@@ -40,7 +40,7 @@ Amounts in the Leaking Underground Storage Tank Trust Fund shall be available, a
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no amount may be appropriated to the LeakingUnderground Storage Tank Trust Fund on and after the date of any expenditure from the Leaking Underground Storage Tank Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
+&emsp;Except as provided in paragraph (2), no amount may be appropriated to the Leaking Underground Storage Tank Trust Fund on and after the date of any expenditure from the Leaking Underground Storage Tank Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
 
 &emsp;&emsp;(A) any provision of law which is not contained or referenced in this title or in a revenue Act, and
 
@@ -64,7 +64,9 @@ The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec.
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–432 and Pub. L. 109–433 amended subsec. (c) identically, substituting “sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013” for “section 9003(h)” and “Public Law 109–168” for “Superfund Amendments and Reauthorization Act of 1986”.
+2006—Subsec. (c). Pub. L. 109–433, which directed an amendment of subsec. (c) identical to that by Pub. L. 109–432, to be treated as not having been enacted. See Amendment note and Construction of Amendment by Pub. L. 109–433 note below.
+
+Pub. L. 109–432 substituted “sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013” for “section 9003(h)” and “Public Law 109–168” for “Superfund Amendments and Reauthorization Act of 1986”.
 
 2005—Subsec. (c). Pub. L. 109–58 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, subsec. (c) related to availability of amounts in the Leaking Underground Storage Tank Trust Fund and transfers from the Trust Fund for certain repayments and credits.
 
@@ -116,7 +118,7 @@ Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see sections 13163(d) and 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective as if included in the provision of the Revenue Act of 1987, Pub. L.100–203, title X, to which such amendment relates, see section 7823 of Pub. L. 101–239, set out as a note under section 26 of this title.
+Amendment by Pub. L. 101–239 effective as if included in the provision of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 7823 of Pub. L. 101–239, set out as a note under section 26 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -127,6 +129,10 @@ Amendment by section 10502(d)(17) of Pub. L. 100–203 treated as if included in
 #### Effective Date
 
 Section 522(c) of Pub. L. 99–499 provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 1, 1987.”
+
+#### Construction of Amendment by Pub. L. 109–433
+
+Pub. L. 110–172, §11(a)(46), Dec. 29, 2007, 121 Stat. 2488, provided that: “The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made by section 1(a) of Public Law 109–433 \[amending this section\] had never been enacted.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -120,7 +120,7 @@ Discontinuance of funding.—If the Secretary determines that a State is not imp
 
 (e)
 
-Forms of Assistance From Infrastructure Banks.—An infrastructure bank established under this section may make loans or provide other forms of credit assistance to apublic or private entity in an amount equal to all or a part of the cost of carrying out a project eligible for assistance under this section. The amount of any loan or other form of credit assistance provided for the project may be subordinated to any other debt financing for the project. Initial assistance provided with respect to a project from Federal funds deposited into an infrastructure bank under this section may not be made in the form of a grant.
+Forms of Assistance From Infrastructure Banks.—An infrastructure bank established under this section may make loans or provide other forms of credit assistance to a public or private entity in an amount equal to all or a part of the cost of carrying out a project eligible for assistance under this section. The amount of any loan or other form of credit assistance provided for the project may be subordinated to any other debt financing for the project. Initial assistance provided with respect to a project from Federal funds deposited into an infrastructure bank under this section may not be made in the form of a grant.
 
 (f)
 
@@ -170,7 +170,7 @@ Repayments.—The requirements of this title and title 49 shall apply to repayme
 
 (i)
 
-United States not Obligated.—The deposit of Federal funds into an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party, nor shall any third party have any right against the United States for payment solely by virtue of the contribution. Any security or debt-financing instrument issued by the infrastructure bank shall expressly state that the security or instrument does not constitute a commitment, guarantee, or obligation of the United States.
+United States not Obligated.—The deposit of Federal funds into an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party, nor shall any third party have any right against the United States for payment solely by virtue of the contribution. Any security or debt-financing instrument issued by the infrastructure bank shall expressly state that the security or instrument does not constitute acommitment, guarantee, or obligation of the United States.
 
 (j)
 

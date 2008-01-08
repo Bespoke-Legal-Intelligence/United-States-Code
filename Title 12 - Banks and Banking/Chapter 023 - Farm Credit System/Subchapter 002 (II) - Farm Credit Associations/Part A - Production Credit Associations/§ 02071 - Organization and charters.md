@@ -26,7 +26,7 @@ Each production credit association shall continue as a Federally chartered instr
 
 #### (4) Signatures
 
-&emsp;The articles shall be signed by persons desiring to form such an association and shall be accompanied by a statement signed by each such person establishing eligibility to borrow from the association in which such person will become a stockholder.
+&emsp;The articles shall be signed by persons desiring to form such an association and shall beaccompanied by a statement signed by each such person establishing eligibility to borrow from the association in which such person will become a stockholder.
 
 #### (5) Copy to FCA
 

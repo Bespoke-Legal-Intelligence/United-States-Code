@@ -32,7 +32,7 @@
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-(g)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or nationaltest providing an opportunity for course credit at institutions of higher learning described in section 3501(a)(5) of this title is the amount of the fee charged for the test.
+(g)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3501(a)(5) of this title is the amount of the fee charged for the test.
 
 (2) The number of months of entitlement charged in the case of any individual for a test described in paragraph (1) is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance, except for paragraph (1), such individual would otherwise be paid under this chapter.
 
@@ -146,7 +146,7 @@ Subsec. (b). Pub. L. 92–540, §103(3), substituted “$177” for “$141”.
 
 Subsec. (b). Pub. L. 91–219, §104(b), substituted “$141” for “$105”.
 
-Subsec. (c). Pub. L. 91–219, §210, substituted provision that if a program of education is pursued by an eligible person at an institution located in the Republic of the Philippines, the educational assistance allowance computed for such person should be paid at a specified rate in Philippine pesos, for provision forbidding educational assistance allowance to a person who is pursuing an institutional course on a less than prescribed basis.
+Subsec. (c). Pub. L. 91–219, §210, substituted provision that if a program of education is pursued by an eligible person at an institution located in the Republic of thePhilippines, the educational assistance allowance computed for such person should be paid at a specified rate in Philippine pesos, for provision forbidding educational assistance allowance to a person who is pursuing an institutional course on a less than prescribed basis.
 
 1965—Subsec. (a). Pub. L. 89–222, §1(a), substituted “$130”, “$95”, and “$60” for “$110”, “$80”, and “$50”, respectively.
 

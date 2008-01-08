@@ -1,6 +1,6 @@
 ### §7309. National Institute of Standards and Technology annual report
 
-Not later than February 15 of each year, the Director shall transmit to the Committee onScience of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
+Not later than February 15 of each year, the Director shall transmit to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
 
 &emsp;(1) a summary of the investigations conducted by Teams during the prior fiscal year;
 
@@ -9,4 +9,8 @@ Not later than February 15 of each year, the Director shall transmit to the Comm
 &emsp;(3) a description of the actions taken to improve building safety and structural integrity by the National Institute of Standards and Technology during the prior fiscal year in response to reports issued under section 7307 of this title.
 
 (Pub. L. 107–231, §10, Oct. 1, 2002, 116 Stat. 1476.)
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

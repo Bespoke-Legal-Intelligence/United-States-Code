@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 103–226, §9(c), amended subsec. (c) generally. Prior to 
 
 1990—Subsec. (b). Pub. L. 101–335, §5(b)(1), substituted “an annuity contract is purchased to provide for that annuity,” for “the annuity commences,”.
 
-Subsec. (d)(1). Pub. L. 101–335, §5(b)(2), substituted “Not earlier than 90 days (or such shorter period as theExecutive Director may by regulation prescribe) before an annuity” for “At the time an annuity”.
+Subsec. (d)(1). Pub. L. 101–335, §5(b)(2), substituted “Not earlier than 90 days (or such shorter period as the Executive Director may by regulation prescribe) before an annuity” for “At the time an annuity”.
 
 Subsec. (e). Pub. L. 101–335, §4(a), added subsec. (e).
 

@@ -11,4 +11,7 @@
 - [Part D - Federal Perkins Loans](Part%20D%20-%20Federal%20Perkins%20Loans/README.md)
 - [Part E - Need Analysis](Part%20E%20-%20Need%20Analysis/README.md)
 - [Part F - General Provisions Relating to Student Assistance Programs](Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/README.md)
+- [Part F&#8211;1 - Higher Education Relief Opportunities for Students](Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/README.md)
 - [Part G - Program Integrity](Part%20G%20-%20Program%20Integrity/README.md)
+- [Part H - Competitive Loan Auction Pilot Program](Part%20H%20-%20Competitive%20Loan%20Auction%20Pilot%20Program/README.md)
+- [Part I - Strengthening Historically Black Colleges and Universities and Other Minority-Serving Institutions](Part%20I%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities%20and%20Other%20Minority-Serving%20Institutions/README.md)

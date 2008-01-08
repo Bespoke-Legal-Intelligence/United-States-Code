@@ -60,7 +60,7 @@ In an inconspicuous, partly submerged vessel or object being towed:
 
 #### Repeal of Section
 
-<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is</i><i>repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
 
 #### References in Text
 

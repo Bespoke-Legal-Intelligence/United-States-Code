@@ -6,7 +6,7 @@ By no later than 120 days after the date on which an investigation is initiated 
 
 &emsp;(1) make the determination required under that section; and
 
-&emsp;(2) if the determination referred to in paragraph (1) is affirmative and an allegation regarding critical circumstances was made under section 3352(a) of this title, make a determination regarding that allegation.
+&emsp;(2) if the determination referred to in paragraph (1) is affirmative and an allegation regarding critical circumstances was madeunder section 3352(a) of this title, make a determination regarding that allegation.
 
 #### (b) Additional finding and recommendation if determination affirmative
 

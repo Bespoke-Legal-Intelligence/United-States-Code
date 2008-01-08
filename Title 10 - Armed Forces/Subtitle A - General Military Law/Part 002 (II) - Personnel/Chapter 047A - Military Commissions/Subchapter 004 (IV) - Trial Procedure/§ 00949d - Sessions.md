@@ -44,7 +44,7 @@ Closure of Proceedings.—(1) The military judge may close to the public all or 
 
 (e)
 
-Exclusion of Accused From Certain Proceedings.—The military judge may exclude the accused from any portion of a proceeding upon a determination that, after being warned by themilitary judge, the accused persists in conduct that justifies exclusion from the courtroom—
+Exclusion of Accused From Certain Proceedings.—The military judge may exclude the accused from any portion of a proceeding upon a determination that, after being warned by the military judge, the accused persists in conduct that justifies exclusion from the courtroom—
 
 &emsp;(1) to ensure the physical safety of individuals; or
 

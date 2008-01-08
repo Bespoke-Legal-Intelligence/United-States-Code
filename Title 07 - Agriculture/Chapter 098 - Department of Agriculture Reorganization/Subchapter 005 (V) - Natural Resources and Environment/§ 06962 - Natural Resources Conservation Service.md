@@ -52,7 +52,7 @@ For purposes of subsections (c) and (d) of this section:
 
 &emsp;(2) A reference to the “Consolidated Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under section 6932 of this title.
 
-(Pub. L. 103–354, title II, §246, Oct. 13, 1994, 108 Stat. 3223; Pub. L. 104–127, title III, §336(a)(2)(D), (b)(2)(B), (c)(3), (d)(2), Apr. 4, 1996, 110 Stat. 1005,1006; Pub. L. 107–171, title VIII, §8002(c), May 13, 2002, 116 Stat. 473.)
+(Pub. L. 103–354, title II, §246, Oct. 13, 1994, 108 Stat. 3223; Pub. L. 104–127, title III, §336(a)(2)(D), (b)(2)(B), (c)(3), (d)(2), Apr. 4, 1996, 110 Stat. 1005, 1006; Pub. L. 107–171, title VIII, §8002(c), May 13, 2002, 116 Stat. 473.)
 
 #### References in Text
 

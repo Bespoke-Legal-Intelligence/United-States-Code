@@ -10,7 +10,7 @@ There is established within the Department an independent regulatory commission 
 
 (2) Notwithstanding the third sentence of paragraph (1), the terms of members first taking office after April 11, 1990, shall expire as follows:
 
-&emsp;(A) In the case of members appointed to succeed members whose terms expire in 1991, one such member's term shall expire on June 30,1994, and one such member's term shall expire on June 30, 1995, as designated by the President at the time of appointment.
+&emsp;(A) In the case of members appointed to succeed members whose terms expire in 1991, one such member's term shall expire on June 30, 1994, and one such member's term shall expire on June 30, 1995, as designated by the President at the time of appointment.
 
 &emsp;(B) In the case of members appointed to succeed members whose terms expire in 1992, one such member's term shall expire on June 30, 1996, and one such member's term shall expire on June 30, 1997, as designated by the President at the time of appointment.
 
@@ -56,7 +56,7 @@ This chapter, referred to in subsecs. (i) and (j), was in the original “this A
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “four years”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of threeyears, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
+1990—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “four years”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
 
 #### Effective Date of 1990 Amendment
 
@@ -84,9 +84,13 @@ Report.—The Commission shall transmit the study and the model regulations to C
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 
-Pub. L. 109–103, title III, Nov. 19, 2005, 119 Stat. 2277, provided in part: “That notwithstanding any other provision of law, not to exceed $220,400,000 of revenues from fees and annual charges, and other services and collections in fiscal year 2006 shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated from the general fund shall be reduced as revenues are received during fiscal year 2006 so as to result in a final fiscal year 2006 appropriation from the general fund estimated at not more than $0.”
+Pub. L. 99–500, §101(e) \[title III\], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, §101(e) \[title III\], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: “That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account, and may remain available until expended: <i>Provided further</i>, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000.”
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 110–161, div. C, title III, Dec. 26, 2007, 121 Stat. 1966.
+
+Pub. L. 109–103, title III, Nov. 19, 2005, 119 Stat. 2277.
 
 Pub. L. 108–447, div. C, title III, Dec. 8, 2004, 118 Stat. 2957.
 
@@ -123,6 +127,4 @@ Pub. L. 101–101, title III, Sept. 29, 1989, 103 Stat. 661.
 Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 870.
 
 Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–124.
-
-Pub. L. 99–500, §101(e) \[title III\], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, §101(e) \[title III\], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208.
 

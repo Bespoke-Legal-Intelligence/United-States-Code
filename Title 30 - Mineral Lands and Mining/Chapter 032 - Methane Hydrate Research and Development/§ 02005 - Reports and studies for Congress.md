@@ -8,3 +8,7 @@ The Secretary shall provide to the Committee on Science of the House of Represen
 
 A prior section 6 of Pub. L. 106–193 was set out in a note under section 1902 of this title prior to the general amendment of Pub. L. 106–193 by Pub. L. 109–58.
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

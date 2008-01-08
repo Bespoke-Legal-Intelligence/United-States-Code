@@ -94,27 +94,45 @@ As used in this chapter—
 
 &emsp;(15) the term “member” means, with respect to a licensee that is a limited liability company, a holder of an ownership interest or a person otherwise admitted to membership in the limited liability company;
 
-&emsp;(16) the term “limited liability company” means a business entity that is organized and operating in accordance with a State limited liability company statute approved by the Administration; and
+&emsp;(16) the term “limited liability company” means a business entity that is organized and operating in accordance with a State limited liability company statute approved by the Administration;
 
-&emsp;(17) the term “long term”, when used in connection with equity capital or loan funds invested in any small business concern or smaller enterprise, means any period of time not less than 1 year.
+&emsp;(17) the term “long term”, when used in connection with equity capital or loan funds invested in any small business concern or smaller enterprise, means any period of time not less than 1 year;
 
-(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, §213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, §2(c), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–554, §1(a)(9) \[title IV, §402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690.)
+&emsp;(18) the term “Energy Saving debenture” means a deferred interest debenture that—
+
+&emsp;&emsp;(A) is issued at a discount;
+
+&emsp;&emsp;(B) has a 5-year maturity or a 10-year maturity;
+
+&emsp;&emsp;(C) requires no interest payment or annual charge for the first 5 years;
+
+&emsp;&emsp;(D) is restricted to Energy Saving qualified investments; and
+
+&emsp;&emsp;(E) is issued at no cost (as defined in section 661a <sup>1</sup> of title 2) with respect to purchasing and guaranteeing the debenture; and
+
+&emsp;(19) the term “Energy Saving qualified investment” means investment in a small business concern that is primarily engaged in researching, manufacturing, developing, or providing products, goods, or services that reduce the use or consumption of non-renewable energy resources.
+
+(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, §213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, §2(c), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–554, §1(a)(9) \[title IV, §402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690; Pub. L. 110–140, title XII, §1205(b), Dec. 19, 2007, 121 Stat. 1773.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in text, see References in Text note set out under section 661 of this title.
 
-The Small Business Act, referred to in par. (5), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables. The term “small-business concern” is defined in section 632 of this title.
+The Small Business Act, referred to in par. (5), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables. The term “small-business concern” is defined in section 632 of this title.
 
-The Employee Retirement Income Security Act of 1974, referred to in par. (14), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in par. (14), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
+Section 661a of title 2, referred to in par. (18)(E), was in the original “section 502 of the Credit Reform Act of1990”, which was translated as reading “section 502 of the Federal Credit Reform Act of 1990”, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2007—Pars. (18), (19). Pub. L. 110–140 added pars. (18) and (19).
 
 2000—Par. (5)(A)(i). Pub. L. 106–554, §1(a)(9) \[title IV, §402(a)\], inserted before semicolon at end “regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment”.
 
 Par. (17). Pub. L. 106–554, §1(a)(9) \[title IV, §402(b)\], added par. (17).
 
-1999—Par. (5). Pub. L. 106–9, §2(c)(1), designated existing provisions after “for purposes of this chapter” assubpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
+1999—Par. (5). Pub. L. 106–9, §2(c)(1), designated existing provisions after “for purposes of this chapter” as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
 
 Par. (12)(A)(ii). Pub. L. 106–9, §2(c)(2), inserted before “; or”: “except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the sum of—
 
@@ -149,6 +167,10 @@ Par. (7). Pub. L. 92–595 substituted “section 681” for “section 681(c)�
 Par. (7). Pub. L. 87–341, §2(2), added par. (7).
 
 1960—Par. (4). Pub. L. 86–502 substituted definition of “State” for definition of “United States”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Effective Date of 1997 Amendment
 

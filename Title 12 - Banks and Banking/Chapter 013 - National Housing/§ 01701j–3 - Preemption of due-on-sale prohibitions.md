@@ -30,7 +30,7 @@ For the purpose of this section—
 
 &emsp;(B) the Comptroller of the Currency with respect to real property loans originated by national banks or the National Credit Union Administration Board with respect to real property loans originated by Federal credit unions may, by regulation prescribed prior to the close of such period, otherwise regulate such contracts, in which case subsection (b) of this section shall apply only if such regulation so provides.
 
-(2)(A) For any contract to which subsection (b) of this section does not apply pursuant to thissubsection, a lender may require any successor or transferee of the borrower to meet customary credit standards applied to loans secured by similar property, and the lender may declare the loan due and payable pursuant to the terms of the contract upon transfer to any successor or transferee of the borrower who fails to meet such customary credit standards.
+(2)(A) For any contract to which subsection (b) of this section does not apply pursuant to this subsection, a lender may require any successor or transferee of the borrower to meet customary credit standards applied to loans secured by similar property, and the lender may declare the loan due and payable pursuant to the terms of the contract upon transfer to any successor or transferee of the borrower who fails to meet such customary credit standards.
 
 (B) A lender may not exercise its option pursuant to a due-on-sale clause in the case of a transfer of a real property loan which is subject to this subsection where the transfer occurred prior to October 15, 1982.
 

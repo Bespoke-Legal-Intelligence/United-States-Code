@@ -62,6 +62,7 @@
 - [&sect; 00059f - Boston Inner Harbor and Fort Point Channel, Massachusetts](%C2%A7%2000059f%20-%20Boston%20Inner%20Harbor%20and%20Fort%20Point%20Channel%2C%20Massachusetts.md)
 - [&sect; 00059g - Steele and Washington Bayous, and Lake Washington, Mississippi](%C2%A7%2000059g%20-%20Steele%20and%20Washington%20Bayous%2C%20and%20Lake%20Washington%2C%20Mississippi.md)
 - [&sect; 00059h - Northern Embarcadero area, San Francisco, California](%C2%A7%2000059h%20-%20Northern%20Embarcadero%20area%2C%20San%20Francisco%2C%20California.md)
+- [&sect; 00059h&#8211;1 - San Francisco, California, waterfront area](%C2%A7%2000059h%E2%80%931%20-%20San%20Francisco%2C%20California%2C%20waterfront%20area.md)
 - [&sect; 00059i - Patapsco River, Maryland](%C2%A7%2000059i%20-%20Patapsco%20River%2C%20Maryland.md)
 - [&sect; 00059j - Delaware River, Philadelphia County, Pennsylvania; permanent structures](%C2%A7%2000059j%20-%20Delaware%20River%2C%20Philadelphia%20County%2C%20Pennsylvania%3B%20permanent%20structures.md)
 - [&sect; 00059j&#8211;1 - Declaration of nonnavigability for portions of the Delaware River](%C2%A7%2000059j%E2%80%931%20-%20Declaration%20of%20nonnavigability%20for%20portions%20of%20the%20Delaware%20River.md)

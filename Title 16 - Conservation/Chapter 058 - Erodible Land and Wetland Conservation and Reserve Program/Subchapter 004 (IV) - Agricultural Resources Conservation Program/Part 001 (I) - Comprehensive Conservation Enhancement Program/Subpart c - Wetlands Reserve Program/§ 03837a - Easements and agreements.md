@@ -42,7 +42,7 @@ An owner granting an easement under subsection (a) of this section shall be requ
 
 #### (c) Restoration plans
 
-The development of a restoration plan, including any compatible use, under this section shall be made through the local Natural Resources Conservation Service representative, in consultation with the State technical committee.
+The development of a restoration plan, including any compatible use, under this section shallbe made through the local Natural Resources Conservation Service representative, in consultation with the State technical committee.
 
 #### (d) Compatible uses
 

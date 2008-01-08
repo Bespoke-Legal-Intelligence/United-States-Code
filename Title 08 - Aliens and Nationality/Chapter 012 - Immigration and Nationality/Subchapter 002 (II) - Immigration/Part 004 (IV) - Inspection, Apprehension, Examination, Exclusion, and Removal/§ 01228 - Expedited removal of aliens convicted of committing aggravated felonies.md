@@ -8,7 +8,7 @@
 
 #### (2) Implementation
 
-&emsp;With respect to an alien convicted of an aggravated felony who is taken into custody by the Attorney General pursuant to section 1226(c) of this title, the Attorney General shall, to the maximum extent practicable, detain any such felon at a facility at which other such aliens are detained. In the selection of such facility, the Attorney General shall make reasonable efforts to ensure that the alien'saccess to counsel and right to counsel under section 1362 of this title are not impaired.
+&emsp;With respect to an alien convicted of an aggravated felony who is taken into custody by the Attorney General pursuant to section 1226(c) of this title, the Attorney General shall, to the maximum extent practicable, detain any such felon at a facility at which other such aliens are detained. In the selection of such facility, the Attorney General shall make reasonable efforts to ensure that the alien's access to counsel and right to counsel under section 1362 of this title are not impaired.
 
 #### (3) Expedited proceedings
 
@@ -72,7 +72,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 &emsp;(ii) The court, for the purposes of determining whether to enter an order described in paragraph (1), shall only consider evidence that would be admissible in proceedings conducted pursuant to section 1229a of this title.
 
-&emsp;(iii) Nothing in this subsection shall limit the information a court of the United Statesmay receive or consider for the purposes of imposing an appropriate sentence.
+&emsp;(iii) Nothing in this subsection shall limit the information a court of the United States may receive or consider for the purposes of imposing an appropriate sentence.
 
 &emsp;(iv) The court may order the alien removed if the Attorney General demonstrates that the alien is deportable under this chapter.
 
@@ -242,7 +242,7 @@ Subsec. (a)(4). Pub. L. 103–322, §130004(c)(6), redesignated subsec. (e) as p
 
 Subsec. (b). Pub. L. 103–322, §130004(a), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a).
 
-Subsec. (b)(4)(D), (E). Pub. L. 103–416, §223(a), struck out “the determination of deportability is supported by clear, convincing, and unequivocal evidence and” before “a record is” in subpar. (D) and substituted “adjudicated” for “entered” in subpar. (E).
+Subsec. (b)(4)(D), (E). Pub. L. 103–416, §223(a), struck out “the determination of deportability is supported byclear, convincing, and unequivocal evidence and” before “a record is” in subpar. (D) and substituted “adjudicated” for “entered” in subpar. (E).
 
 Subsec. (c). Pub. L. 103–322, §130004(c)(4), struck out heading and text of subsec. (c). Prior to amendment, text read as follows: “An alien convicted of an aggravated felony shall be conclusively presumed to be deportable from the United States.”
 

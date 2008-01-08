@@ -32,5 +32,3 @@ Provisions similar to those in this section were contained in sections 1590(d) a
 
 Section effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 1593 of this title.
 
-§1604
-

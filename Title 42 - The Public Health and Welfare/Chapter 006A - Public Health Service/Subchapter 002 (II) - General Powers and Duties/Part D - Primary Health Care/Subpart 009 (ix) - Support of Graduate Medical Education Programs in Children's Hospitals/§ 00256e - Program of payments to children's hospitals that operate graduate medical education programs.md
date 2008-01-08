@@ -42,7 +42,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (ii) Notice and opportunity to provide missing information
 
-&emsp;&emsp;&emsp;Before imposing a reduction under clause (i) on the basis of a hospital's failure to provide information described in clause (i)(II), the Secretary shall providenotice to the hospital of such failure and the Secretary's intention to impose such reduction and shall provide the hospital with the opportunity to provide the required information within a period of 30 days beginning on the date of such notice. If the hospital provides such information within such period, no reduction shall be made under clause (i) on the basis of the previous failure to provide such information.
+&emsp;&emsp;&emsp;Before imposing a reduction under clause (i) on the basis of a hospital's failure to provide information described in clause (i)(II), the Secretary shall provide notice to the hospital of such failure and the Secretary's intention to impose such reduction and shall provide the hospital with the opportunity to provide the required information within a period of 30 days beginning on the date of such notice. If the hospital provides such information within such period, no reduction shall be made under clause (i) on the basis of the previous failure to provide such information.
 
 #### (B) Annual report
 
@@ -52,7 +52,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;&emsp;(ii) The number of training positions for residents described in subparagraph (C), the number of such positions recruited to fill, and the number of such positions filled.
 
-&emsp;&emsp;&emsp;(iii) The types of training that the hospital provided for residents described in subparagraph (C) related to the health care needs of different populations, such as children who are underserved for reasons of family income or geographic location, including rural and urban areas.
+&emsp;&emsp;&emsp;(iii) The types of training that the hospital provided for residents described insubparagraph (C) related to the health care needs of different populations, such as children who are underserved for reasons of family income or geographic location, including rural and urban areas.
 
 &emsp;&emsp;&emsp;(iv) The changes in residency training for residents described in subparagraph (C) which the hospital has made during such residency academic year (except that the first report submitted by the hospital under this subparagraph shall be for such changes since the first year in which the hospital received payment under this section), including—
 
@@ -120,7 +120,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;The Secretary shall compute for each such hospital that is a children's hospital a per resident amount—
 
-&emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applying the proportion determined under subparagraph (B);
+&emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applyingthe proportion determined under subparagraph (B);
 
 &emsp;&emsp;&emsp;(ii) by multiplying the wage-related portion by the factor applied under section 1395ww(d)(3)(E) of this title for discharges occurring during the preceding fiscal year for the hospital's area; and
 
@@ -196,7 +196,7 @@ In this section:
 
 #### (1) Approved graduate medical residency training program
 
-&emsp;The term “approved graduate medical residency training program” has the meaning given the term “approved medical residency training program” in section 1395ww(h)(5)(A) of this title.
+&emsp;The term “approved graduate medical residency training program” has the meaninggiven the term “approved medical residency training program” in section 1395ww(h)(5)(A) of this title.
 
 #### (2) Children's hospital
 

@@ -24,7 +24,7 @@ To be eligible to receive a grant under this section, a protection and advocacy 
 
 #### (1) In general
 
-&emsp;With respect to any fiscal year in which the amount appropriated under subsection (i) of this section to carry out this section is less than $2,700,000, the Administrator shall make grants from such amount to individual protection and advocacy systems within States to enable such systems to plan for, develop outreach strategies for, and carry out services authorized under this section for individuals with traumatic brain injury.
+&emsp;With respect to any fiscal year in which the amount appropriated under subsection (i) of this section to carry out this section is less than $2,700,000, the Administrator shall makegrants from such amount to individual protection and advocacy systems within States to enable such systems to plan for, develop outreach strategies for, and carry out services authorized under this section for individuals with traumatic brain injury.
 
 #### (2) Amount
 

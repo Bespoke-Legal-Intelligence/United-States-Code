@@ -18,11 +18,11 @@ In the judicial review of an action challenging an authorized hazardous fuel red
 
 #### (A) In general
 
-&emsp;&emsp;A court of competent jurisdiction may issue 1 or more renewals of any preliminary injunction, or stay pending appeal, granted under paragraph (1).
+&emsp;&emsp;A court of competent jurisdiction may issue 1 or more renewals of any preliminaryinjunction, or stay pending appeal, granted under paragraph (1).
 
 #### (B) Updates
 
-&emsp;&emsp;In each renewal of an injunction in an action, the parties to the action shall presentthe court with updated information on the status of the authorized hazardous fuel reduction project.
+&emsp;&emsp;In each renewal of an injunction in an action, the parties to the action shall present the court with updated information on the status of the authorized hazardous fuel reduction project.
 
 #### (3) Balancing of short- and long-term effects
 

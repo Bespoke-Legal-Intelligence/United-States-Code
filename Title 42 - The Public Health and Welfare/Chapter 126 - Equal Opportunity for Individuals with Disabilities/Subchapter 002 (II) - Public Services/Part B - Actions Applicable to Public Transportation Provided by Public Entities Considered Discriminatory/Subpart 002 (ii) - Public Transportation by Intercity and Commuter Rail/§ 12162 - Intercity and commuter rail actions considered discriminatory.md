@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) such passenger can exit to the platform from the car such passenger occupies, move down the platform, and enter the adjacent accessible car described in subclause (I) without the necessity of the train being moved within the station; and
 
-&emsp;&emsp;&emsp;&emsp;(III) space to park and secure a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to remain in a wheelchair), or space to store and fold a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to transfer to a dining car seat); and
+&emsp;&emsp;&emsp;&emsp;(III) space to park and secure a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to remain in awheelchair), or space to store and fold a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to transfer to a dining car seat); and
 
 &emsp;&emsp;&emsp;(ii) appropriate auxiliary aids and services, including a hard surface on which to eat, shall be provided to ensure that other equivalent food service is available to individuals with disabilities, including individuals who use wheelchairs, and to passengers traveling with such individuals.
 
@@ -136,7 +136,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (1) Remanufacturing
 
-&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section794 of title 29 for a person to remanufacture a rail passenger car for use in intercity or commuter rail transportation so as to extend its usable life for 10 years or more, unless the rail car, to the maximum extent feasible, is made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
+&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to remanufacture a rail passenger car for use in intercity or commuter rail transportation so as to extend its usable life for 10 years or more, unless the rail car, to the maximum extent feasible, is made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
 
 #### (2) Purchase or lease
 
@@ -154,7 +154,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a responsible person to fail to make existing stations in the intercity rail transportation system, and existing key stations in commuter rail transportation systems, readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
+&emsp;&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a responsible person to fail to make existing stations in the intercity rail transportation system, and existing key stations in commuter rail transportation systems, readily accessibleto and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
 
 #### (ii) Period for compliance
 

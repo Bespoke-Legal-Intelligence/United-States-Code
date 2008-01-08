@@ -34,7 +34,7 @@ An award may be made under subsection (a) of this section only if the applicant 
 
 For purposes of this section:
 
-&emsp;(1) The term “donating individuals” has the meaning indicated for such term in subsection\(a)(1) of this section, subject to subsection (c)(1) of this section.
+&emsp;(1) The term “donating individuals” has the meaning indicated for such term in subsection (a)(1) of this section, subject to subsection (c)(1) of this section.
 
 &emsp;(2) The term “qualifying expenses” means the expenses authorized for purposes of subsection (a) of this section, subject to subsection (c)(2) of this section.
 

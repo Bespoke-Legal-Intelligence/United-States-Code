@@ -40,7 +40,7 @@ Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307, 30
 
 Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326, 328), referred to in subsec. (b), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 
-Act of October 10, 1962 (76 Stat. 806–807, as amended), referred to in subsec. (b), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, known as the McIntire-Stennis Act of 1962, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 582a of this title and Tables.
+Act of October 10, 1962 (76 Stat. 806–807, as amended), referred to in subsec. (b), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, known as the McIntire-Stennis Act of 1962, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 582a of this title and Tables.
 
 #### Amendments
 

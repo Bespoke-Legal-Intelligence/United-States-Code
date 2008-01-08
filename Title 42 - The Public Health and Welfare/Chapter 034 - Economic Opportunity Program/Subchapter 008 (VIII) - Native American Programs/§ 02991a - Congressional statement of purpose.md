@@ -38,7 +38,7 @@ Pub. L. 104–270, Oct. 9, 1996, 110 Stat. 3301, provided that:
 
 &emsp;“(4) The Alaska Natives Commission found that due to the high rate of unemployment and lack of economic opportunities for Alaska Natives, government programs for the poor have become the foundation of many village economies. Displacing traditional Alaska Native social safety nets, these well-meaning programs have undermined the healthy interdependence and self-sufficiency of Native tribes and families and have put Native tribes and families at risk of becoming permanent dependencies of Government.
 
-&emsp;“(5) Despite these seemingly insurmountable problems, the Alaska Natives Commission found that Alaska Natives, building on the Alaska Native Claims Settlement Act, had begun a unique process of critical self-examination which, if supported by the United States Congress through innovative legislation, and effective public administration at all levels including traditional Native governance, could provide the basis for an Alaska Native social, cultural, economic, and spiritual renewal.
+&emsp;“(5) Despite these seemingly insurmountable problems, the Alaska Natives Commission found thatAlaska Natives, building on the Alaska Native Claims Settlement Act, had begun a unique process of critical self-examination which, if supported by the United States Congress through innovative legislation, and effective public administration at all levels including traditional Native governance, could provide the basis for an Alaska Native social, cultural, economic, and spiritual renewal.
 
 &emsp;“(6) The Alaska Natives Commission recognized that the key to the future well-being of Alaska Natives lay in—
 
@@ -94,7 +94,7 @@ Consideration of Local Control.—In developing its recommendations pursuant to 
 
 “(e)
 
-Report.—Not later than 12 months after the date on which the grant is made under subsection (b), theAlaska Federation of Natives shall submit a report on the study conducted under this section, together with the recommendations developed pursuant to subsection (c)(4), to the President and the Congress and to the Governor and legislature of the State of Alaska. In addition, the Alaska Federation of Natives shall make the report available to Alaska Native villages and organizations and to the general public.
+Report.—Not later than 12 months after the date on which the grant is made under subsection (b), the Alaska Federation of Natives shall submit a report on the study conducted under this section, together with the recommendations developed pursuant to subsection (c)(4), to the President and the Congress and to the Governor and legislature of the State of Alaska. In addition, the Alaska Federation of Natives shall make the report available to Alaska Native villages and organizations and to the general public.
 
 “(f)
 

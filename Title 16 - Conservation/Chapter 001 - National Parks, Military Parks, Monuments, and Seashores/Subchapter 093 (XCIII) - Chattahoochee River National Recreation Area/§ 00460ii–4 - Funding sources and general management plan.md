@@ -100,3 +100,7 @@ Subsec. (c). Pub. L. 98–568, §1(e)(2), substituted “seven years” for “t
 
 Subsec. (d). Pub. L. 98–568, §1(e)(3), added subsec. (d).
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

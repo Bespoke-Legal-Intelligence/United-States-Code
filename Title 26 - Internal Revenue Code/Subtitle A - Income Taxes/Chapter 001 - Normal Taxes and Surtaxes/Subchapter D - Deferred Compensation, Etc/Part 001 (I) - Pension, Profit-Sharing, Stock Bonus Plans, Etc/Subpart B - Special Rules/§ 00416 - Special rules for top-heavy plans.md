@@ -252,9 +252,9 @@ For purposes of this section—
 
 &emsp;&emsp;The term “top-heavy plan” shall not include a plan which consists solely of—
 
-&emsp;&emsp;&emsp;(i) a cash or deferred arrangement which meets the requirements of section 401(k)(12), and
+&emsp;&emsp;&emsp;(i) a cash or deferred arrangement which meets the requirements of section 401(k)(12) or 401(k)(13), and
 
-&emsp;&emsp;&emsp;(ii) matching contributions with respect to which the requirements of section 401(m)(11) are met.
+&emsp;&emsp;&emsp;(ii) matching contributions with respect to which the requirements of section 401(m)(11) or 401(m)(12) are met.
 
 > &emsp;&emsp;If, but for this subparagraph, a plan would be treated as a top-heavy plan because it is a member of an aggregation group which is a top-heavy group, contributions under the plan may be taken into account in determining whether any other plan in the group meets the requirements of subsection (c)(2).
 
@@ -340,10 +340,6 @@ For purposes of this section—
 
 (Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A, title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468; Pub. L. 104–188, title I, §§1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, 110 Stat. 1797, 1803, 1816; Pub. L. 107–16, title VI, §613(a)–(e), June 7, 2001, 115 Stat. 100–102; Pub. L. 107–147, title IV, §411(k), Mar. 9, 2002, 116 Stat. 47; Pub. L. 108–311, title IV, §408(a)(16), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title IX, §902(c), Aug. 17, 2006, 120 Stat. 1036.)
 
-#### Amendment of Subsection (g)(4)(H)
-
-<i>Pub. L. 109–280, title IX, §902(c), (g), Aug. 17, 2006, 120 Stat. 1036, 1039, provided that, applicable to plan years beginning after Dec. 31, 2007, subsection (g)(4)(H) of this section is amended by inserting “or 401(k)(13)” after “401(k)(12)” in clause (i) and “or 401(m)(12)” after “401(m)(11)” in clause (ii).</i>
-
 #### References in Text
 
 The Federal Insurance Contributions Act, referred to in subsec. (e), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
@@ -351,6 +347,10 @@ The Federal Insurance Contributions Act, referred to in subsec. (e), is act Aug.
 The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2006—Subsec. (g)(4)(H)(i). Pub. L. 109–280, §902(c)(1), inserted “or 401(k)(13)” after “401(k)(12)”.
+
+Subsec. (g)(4)(H)(ii). Pub. L. 109–280, §902(c)(2), inserted “or 401(m)(12)” after “401(m)(11)”.
 
 2004—Subsec. (i)(1)(A). Pub. L. 108–311 substituted “In the case of plan years” for “in the case of plan years” in concluding provisions.
 
@@ -406,7 +406,7 @@ Subsec. (c)(2)(B)(ii), (iii). Pub. L. 99–514, §1106(d)(3)(B)(ii), redesignate
 
 Determination of percentage.—The determination referred to in clause (i) shall be determined for each key employee by dividing the contributions for such employee by so much of his total compensation for the year as does not exceed $200,000.”
 
-Subsec. (d). Pub. L. 99–514, §1106(d)(3)(B)(i), repealed subsec. (d) which provided for a $200,000 limitation onthe amount of annual compensation of each employee taken into account.
+Subsec. (d). Pub. L. 99–514, §1106(d)(3)(B)(i), repealed subsec. (d) which provided for a $200,000 limitation on the amount of annual compensation of each employee taken into account.
 
 Subsec. (g)(4)(E). Pub. L. 99–514, §1852(d)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “If any individual has not received any compensation from any employer maintaining the plan (other than benefits under the plan) at any time during the 5-year period ending on the determination date, any accrued benefit for such individual (and the account of such individual) shall not be taken into account.”
 
@@ -492,7 +492,7 @@ Allowance of Exclusion of Death Benefit for Self-Employed Individuals.—The ame
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

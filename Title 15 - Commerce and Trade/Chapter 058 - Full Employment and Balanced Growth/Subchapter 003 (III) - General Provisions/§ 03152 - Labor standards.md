@@ -22,5 +22,5 @@ The Fair Labor Standards Act, referred to in subsec. (b), is act June 25, 1938, 
 
 #### Codification
 
-“Sections 3141–3144, 3146, and 3147 of title 40 apply” substituted in subsec. (b) for “the Davis-Bacon Act (40U.S.C. 276a—276a–5) applies” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3141–3144, 3146, and 3147 of title 40 apply” substituted in subsec. (b) for “the Davis-Bacon Act (40 U.S.C. 276a—276a–5) applies” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 

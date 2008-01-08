@@ -14,7 +14,7 @@ The Secretary is authorized—
 
 &emsp;(1) to provide tenant-based rental assistance to eligible persons with disabilities, in accordance with subsection (d)(4) of this section; and
 
-&emsp;(2) to provide assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which shall be provided as—
+&emsp;(2) to provide assistance to private, nonprofit organizations to expand the supply ofsupportive housing for persons with disabilities, which shall be provided as—
 
 &emsp;&emsp;(A) capital advances in accordance with subsection (d)(1) of this section, and
 
@@ -62,7 +62,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (C) Allocation of assistance
 
-&emsp;&emsp;In determining the amount of assistance provided under subsection (b)(1) of this section for a private nonprofit organization or public housing agency, the Secretary shall consider the needs and capabilities of the organization or agency, in the case of a public housing agency, as described in the plan for the agency under section 1437e of this title.
+&emsp;&emsp;In determining the amount of assistance provided under subsection (b)(1) of this section for a private nonprofit organization or public housing agency, the Secretary shall consider the needs and capabilities of the organization or agency, in the case of a publichousing agency, as described in the plan for the agency under section 1437e of this title.
 
 #### (e) Term of commitment
 
@@ -202,7 +202,7 @@ The Secretary shall establish selection criteria for assistance under subsection
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall take such action as may be necessary to insure that all laborers and mechanics employed by contractors and subcontractors in the construction of housing with 12 or more units assisted under this section shall be paid wages at rates not less than those prevailing in the locality involved for the corresponding classes of laborers and mechanics employed on construction of a similar character, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40.
+&emsp;&emsp;The Secretary shall take such action as may be necessary to insure that all laborersand mechanics employed by contractors and subcontractors in the construction of housing with 12 or more units assisted under this section shall be paid wages at rates not less than those prevailing in the locality involved for the corresponding classes of laborers and mechanics employed on construction of a similar character, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40.
 
 #### (B) Exemption
 
@@ -248,7 +248,7 @@ As used in this section—
 
 &emsp;&emsp;(D) which is approved by the Secretary as to financial responsibility.
 
-> &emsp;Such term includes a for-profit limited partnership the sole general partner of which is an organization meeting the requirements undersubparagraphs (A), (B), (C), and (D) or a corporation wholly owned and controlled by an organization meeting the requirements under subparagraphs (A), (B), (C), and (D).
+> &emsp;Such term includes a for-profit limited partnership the sole general partner of which is an organization meeting the requirements under subparagraphs (A), (B), (C), and (D) or a corporation wholly owned and controlled by an organization meeting the requirements under subparagraphs (A), (B), (C), and (D).
 
 &emsp;(7) The term “State” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States.
 
@@ -260,7 +260,7 @@ As used in this section—
 
 #### (1) Allocation
 
-&emsp;Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b)(2) of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year.
+&emsp;Of any amount made available for assistance under this section in any fiscal year, anamount shall be used for assistance under subsection (b)(2) of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year.
 
 #### (2) Capital advances
 
@@ -312,7 +312,7 @@ November 28, 1990, referred to in subsecs. (<i>l</i>)(2) and (n)(2), was in the 
 
 #### Amendments
 
-2000—Subsec. (d)(4). Pub. L. 106–569, §843(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Tenant-based rental assistance provided under subsection (b)(1) of this section may be provided only through a public housing agency that hassubmitted, and had approved, an allocation plan under section 1437e(f) of this title, and a public housing agency shall be eligible to apply under this section only for the purposes of providing such assistance. Such assistance shall be made available to eligible persons with disabilities and administered under the same rules that govern rental assistance made available under section 1437f of this title. In determining the amount of assistance provided under subsection (b)(1) of this section for a public housing agency, the Secretary shall consider the needs of the agency as described in the allocation plan.”
+2000—Subsec. (d)(4). Pub. L. 106–569, §843(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Tenant-based rental assistance provided under subsection (b)(1) of this section may be provided only through a public housing agency that has submitted, and had approved, an allocation plan under section 1437e(f) of this title, and a public housing agency shall be eligible to apply under this section only for the purposes of providing such assistance. Such assistance shall be made available to eligible persons with disabilities and administered under the same rules that govern rental assistance made available under section 1437f of this title. In determining the amount of assistance provided under subsection (b)(1) of this section for a public housing agency, the Secretary shall consider the needs of the agency as described in the allocation plan.”
 
 Subsec. (h)(1). Pub. L. 106–569, §845, inserted at end of concluding provisions “Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility.”
 

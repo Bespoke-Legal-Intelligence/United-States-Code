@@ -12,7 +12,7 @@ It is the purpose of this chapter to—
 
 2003—Par. (1). Pub. L. 108–36 substituted “assist” for “demonstrate the effectiveness of assisting”.
 
-1992—Par. (1). Pub. L. 102–295, §302(1)(A), which directed the substitution of “assist” for “demonstration the effectiveness of assisting”, could not be executed because those words did not appear in text. See 2003 Amendment note above.
+1992—Par. (1). Pub. L. 102–295, §302(1)(A), which directed the substitution of “assist” for “demonstration the effectiveness of assisting”, could not be executedbecause those words did not appear in text. See 2003 Amendment note above.
 
 Pub. L. 102–295, §302(1)(B), substituted “to increase public awareness about and prevent” for “to prevent”.
 

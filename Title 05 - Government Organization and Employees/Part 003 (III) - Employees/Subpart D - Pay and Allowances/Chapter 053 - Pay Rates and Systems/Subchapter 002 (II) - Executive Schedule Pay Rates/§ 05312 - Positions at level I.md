@@ -130,7 +130,7 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 #### Effective Date of 1979 Amendments
 
-Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L.96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
+Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
 
 Section 2(a)(25)(B) of Pub. L. 96–54 provided that: The amendments made by subparagraph (A) \[amending sections 5312 to 5316 of this title\] shall take effect January 1, 1980”.
 

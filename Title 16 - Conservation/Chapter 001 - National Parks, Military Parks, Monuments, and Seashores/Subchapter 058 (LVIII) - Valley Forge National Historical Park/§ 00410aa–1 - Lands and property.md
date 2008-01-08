@@ -6,7 +6,7 @@ The park shall comprise the area generally depicted on the map entitled “Valle
 
 #### (b) Acquisition of lands
 
-Within the boundaries of the park, the Secretary may acquire lands and interests therein by donation, purchase with donated or appropriated funds, exchange, or transfer. Any property owned by the Commonwealth of Pennsylvania or any political subdivision thereof may be acquired only by donation. The effective date of such donation shall not be prior to October 1, 1976.
+Within the boundaries of the park, the Secretary may acquire lands and interests therein by donation, purchase with donated or appropriated funds, exchange, or transfer. Any property owned by the Commonwealth of Pennsylvania or any political subdivision thereof maybe acquired only by donation. The effective date of such donation shall not be prior to October 1, 1976.
 
 #### (c) Reservation of rights by grantors; compensation for land
 
@@ -18,7 +18,7 @@ The Secretary may terminate a right of use and occupancy retained pursuant to th
 
 #### (e) “Improved property” defined
 
-The term “improved property”, as used in this section shall mean a detached, noncommercialresidential dwelling, the construction of which was begun before January 1, 1975 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+The term “improved property”, as used in this section shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1975 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 94–337, §2, July 4, 1976, 90 Stat. 796; Pub. L. 96–287, title III, §301(1), June 28, 1980, 94 Stat. 601; Pub. L. 103–437, §6(a)(3), Nov. 2, 1994, 108 Stat. 4583.)
 
@@ -27,8 +27,4 @@ The term “improved property”, as used in this section shall mean a detached,
 1994—Subsec. (a). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
 
 1980—Subsec. (a). Pub. L. 96–287 substituted reference to park area as depicted on map “dated June 1979, and numbered VF–91,001” for prior depiction on map “dated February 1976, and numbered VF–91,000”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

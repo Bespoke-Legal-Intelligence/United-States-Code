@@ -370,7 +370,7 @@ Health Benefits.—\[Amended section 403p of this title.\]
 
 “(d)
 
-Source of Payment for Annuities.—Annuities provided under subsections (a) and (b) shall be payablefrom the Central Intelligence Agency Retirement and Disability Fund maintained under section 202 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2012).
+Source of Payment for Annuities.—Annuities provided under subsections (a) and (b) shall be payable from the Central Intelligence Agency Retirement and Disability Fund maintained under section 202 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2012).
 
 “(e)
 

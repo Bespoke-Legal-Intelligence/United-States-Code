@@ -52,7 +52,7 @@ The long-range interests of the United States are served by communicating direct
 
 &emsp;(2) VOA will represent America, not any single segment of American society, and will therefore present a balanced and comprehensive projection of significant American thought and institutions.
 
-&emsp;(3) VOA will present the policies of the United States clearly and effectively, and will also present responsible discussions and opinion on these policies.
+&emsp;(3) VOA will present the policies of the United States clearly and effectively, and willalso present responsible discussions and opinion on these policies.
 
 (Pub. L. 103–236, title III, §303, Apr. 30, 1994, 108 Stat. 433; Pub. L. 103–415, §1(p), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(d), Oct. 21, 1998, 112 Stat. 2681–778; Pub. L. 105–292, title V, §502, Oct. 27, 1998, 112 Stat. 2811.)
 

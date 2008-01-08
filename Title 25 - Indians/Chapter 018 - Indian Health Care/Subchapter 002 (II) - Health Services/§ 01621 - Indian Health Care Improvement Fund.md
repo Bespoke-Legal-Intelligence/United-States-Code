@@ -34,7 +34,7 @@ The Secretary is authorized to expend funds which are appropriated under the aut
 
 #### (b) Effect on other appropriations; allocation to service units
 
-(1) Any funds appropriated under the authority of this section shall not be used to offset orlimit any appropriations made to the Service under section 13 of this title, or any other provision of law.
+(1) Any funds appropriated under the authority of this section shall not be used to offset or limit any appropriations made to the Service under section 13 of this title, or any other provision of law.
 
 (2)(A) Funds appropriated under the authority of this section may be allocated on a service unit basis. The funds allocated to each service unit under this subparagraph shall be used by the service unit to reduce the health status and resource deficiency of each tribe served by such service unit.
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;(2) The health resources available to an Indian tribe include health resources provided by the Service as well as health resources used by the Indian tribe, including services and financing systems provided by any Federal programs, private insurance, and programs of State or local governments.
 
-&emsp;(3) The Secretary shall establish procedures which allow any Indian tribe to petition the Secretary for a review of any determination of the extent of the health status and resource deficiency of such tribe.
+&emsp;(3) The Secretary shall establish procedures which allow any Indian tribe to petition the Secretary for a review of any determination ofthe extent of the health status and resource deficiency of such tribe.
 
 #### (d) Programs administered by Indian tribe
 
@@ -106,7 +106,7 @@ Subsec. (a)(1). Pub. L. 102–573, §201(a)(1)(B), amended par. (1) generally. P
 
 Subsec. (a)(4). Pub. L. 102–573, §201(a)(1)(C), in introductory provisions inserted “, either through direct or contract care or through contracts entered into pursuant to the Indian Self-Determination Act,” after “responsibilities” and substituted “status and resource deficiencies” for “resources deficiency”.
 
-Subsec. (a)(4)(B). Pub. L. 102–573, §207(b), substituted “preventive health, including screening mammographyin accordance with section 1621k of this title” for “preventive health”.
+Subsec. (a)(4)(B). Pub. L. 102–573, §207(b), substituted “preventive health, including screening mammography in accordance with section 1621k of this title” for “preventive health”.
 
 Subsec. (b)(1). Pub. L. 102–573, §201(a)(2)(A), substituted “this section” for “subsection (h) of this section”.
 

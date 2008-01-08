@@ -42,7 +42,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (5) Other Federal cost share assistance
 
-&emsp;An owner or operator shall not be eligible to receive or retain cost share assistance under this subsection if the owner or operator receives any other Federal cost share assistance with respect to the land under any other provision of law.
+&emsp;An owner or operator shall not be eligible to receive or retain cost share assistance under this subsection if the owner or operator receives any other Federal cost share assistancewith respect to the land under any other provision of law.
 
 #### (c) Annual rental payments
 

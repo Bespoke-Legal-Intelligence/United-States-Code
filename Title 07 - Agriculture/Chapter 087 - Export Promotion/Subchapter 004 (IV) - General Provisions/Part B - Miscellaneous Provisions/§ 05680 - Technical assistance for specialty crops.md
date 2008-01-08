@@ -6,7 +6,7 @@ The Secretary of Agriculture shall establish an export assistance program (refer
 
 #### (b) Purpose
 
-The program shall provide direct assistance through public and private sector projects and technical assistance to remove, resolve, or mitigate sanitary and phytosanitary and related barriers to trade.
+The program shall provide direct assistance through public and private sector projects andtechnical assistance to remove, resolve, or mitigate sanitary and phytosanitary and related barriers to trade.
 
 #### (c) Priority
 

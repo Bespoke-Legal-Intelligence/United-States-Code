@@ -130,9 +130,9 @@ Metro Planning Set Aside.—Notwithstanding section 104(f), no set aside provide
 
 (f)
 
-Authorization of Appropriations.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) such sums as are necessary to carry out this section for each of fiscal years 2005 through 2009.
+Authorization of Appropriations.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass TransitAccount) such sums as are necessary to carry out this section for each of fiscal years 2005 through 2009.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 891; Pub. L. 86–624, §17(b), July 12, 1960, 74 Stat. 415; Pub. L.89–564, title II, §206, Sept. 9, 1966, 80 Stat. 736; Pub. L. 91–605, title I, §§106(d), 132, Dec. 31, 1970, 84 Stat. 1717, 1732; Pub. L. 93–87, title I, §109(b), Aug. 13, 1973, 87 Stat. 255; Pub. L. 95–599, title I, §§111, 112, Nov. 6, 1978, 92 Stat. 2696; Pub. L. 97–424, title I, §109(a), Jan. 6, 1983, 96 Stat. 2104; Pub. L. 102–240, title I, §1105(g)(7), Dec. 18, 1991, 105 Stat. 2036; Pub. L. 105–178, title I, §1104(a), (c), June 9, 1998, 112 Stat. 127; Pub. L. 105–206, title IX, §9002(d), July 22, 1998, 112 Stat. 835; Pub. L. 109–59, title I, §1104(a), Aug. 10, 2005, 119 Stat. 1163.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 891; Pub. L. 86–624, §17(b), July 12, 1960, 74 Stat. 415; Pub. L. 89–564, title II, §206, Sept. 9, 1966, 80 Stat. 736; Pub. L. 91–605, title I, §§106(d), 132, Dec. 31, 1970, 84 Stat. 1717, 1732; Pub. L. 93–87, title I, §109(b), Aug. 13, 1973, 87 Stat. 255; Pub. L. 95–599, title I, §§111, 112, Nov. 6, 1978, 92 Stat. 2696; Pub. L. 97–424, title I, §109(a), Jan. 6, 1983, 96 Stat. 2104; Pub. L. 102–240, title I, §1105(g)(7), Dec. 18, 1991, 105 Stat. 2036; Pub. L. 105–178, title I, §1104(a), (c), June 9, 1998, 112 Stat. 127; Pub. L. 105–206, title IX, §9002(d), July 22, 1998, 112 Stat. 835; Pub. L. 109–59, title I, §1104(a), Aug. 10, 2005, 119 Stat. 1163.)
 
 #### References in Text
 

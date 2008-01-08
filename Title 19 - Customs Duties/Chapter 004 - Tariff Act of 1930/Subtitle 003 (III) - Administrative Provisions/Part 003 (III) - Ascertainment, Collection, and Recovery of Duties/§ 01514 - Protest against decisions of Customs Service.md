@@ -26,7 +26,7 @@ With respect to determinations made under section 1303 <sup>1</sup> of this tit
 
 #### (c) Form, number, and amendment of protest; filing of protest
 
-(1) A protest of a decision made under subsection (a) of this section shall be filed in writing, or transmitted electronically pursuant to an electronic data interchange system, in accordance with regulations prescribed by the Secretary. A protest must set forth distinctly and specifically—
+(1) A protest of a decision made under subsection (a) of this section shall be filed in writing, or transmitted electronically pursuant toan electronic data interchange system, in accordance with regulations prescribed by the Secretary. A protest must set forth distinctly and specifically—
 
 &emsp;(A) each decision described in subsection (a) of this section as to which protest is made;
 
@@ -84,11 +84,19 @@ If the Bureau of Customs and Border Protection or the Bureau of Immigration and 
 
 #### (h) Denial of preferential tariff treatment under the Dominican Republic-Central America-United States Free Trade Agreement
 
-If the Bureau of Customs and Border Protection or the Bureau of Immigration and Customs Enforcement finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin set out in section 4033 of this title, the Bureau of Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the Dominican Republic-Central America-United States Free Trade Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until the Bureau of Customs and Border Protection determines that representations of that person are in conformity with such section 4033 of this title.
+If the Bureau of Customs and Border Protection or the Bureau of Immigration and Customs Enforcement finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin set out in section 4033 of this title, the Bureau of Customs andBorder Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the Dominican Republic-Central America-United States Free Trade Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until the Bureau of Customs and Border Protection determines that representations of that person are in conformity with such section 4033 of this title.
 
-(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–53, title II, §206(b), Aug. 2, 2005, 119 Stat. 484; Pub. L. 109–280, title XIV, §1635(f)(7), Aug. 17, 2006, 120 Stat. 1171.)
+(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–53, title II, §206(b), Aug. 2, 2005, 119 Stat. 484; Pub. L. 109–280, title XIV, §1635(f)(7), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–138, title II, §205(b), Dec. 14, 2007, 121 Stat. 1476.)
 
 #### Amendment of Section
+
+<i>Pub. L. 110–138, title I, §107(a), title II, §205(b), Dec. 14, 2007, 121 Stat. 1459, 1476, provided that, effective on the date on which the United States-Peru Trade Promotion Agreement enters into force, this section is amended by adding at the end the following new subsection:</i>
+
+#### <i>(i) Denial of preferential tariff treatment under the United States-Peru Trade Promotion Agreement</i>
+
+<i>If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States-Peru Trade Promotion Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 203.</i>
+
+<i>For termination of amendment by section 107(c) of Pub. L. 110–138, see Effective and Termination Dates of 2007 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
@@ -181,6 +189,10 @@ Subsec. (c)(2). Pub. L. 96–39, §1001(b)(3)(C), (F), redesignated former subse
 Subsec. (d). Pub. L. 96–39, §1001(b)(3)(C), redesignated former subsec. (c) as (d).
 
 1970—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
+
+#### Effective and Termination Dates of 2007 Amendment
+
+Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
 
 #### Effective Date of 2006 Amendment
 

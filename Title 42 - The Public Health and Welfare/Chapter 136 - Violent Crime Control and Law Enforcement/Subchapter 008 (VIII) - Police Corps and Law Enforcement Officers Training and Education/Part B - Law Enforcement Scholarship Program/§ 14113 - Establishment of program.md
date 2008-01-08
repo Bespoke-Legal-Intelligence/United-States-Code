@@ -44,7 +44,7 @@ The Director shall be responsible for the administration of the programs conduct
 
 #### (d) Administrative expenses
 
-A State that receives an allotment under section 14112 of this title may reserve not more than 8 percent of the allotment for administrative expenses.
+A State that receives an allotment under section 14112 of this title may reserve not morethan 8 percent of the allotment for administrative expenses.
 
 #### (e) Special rule
 

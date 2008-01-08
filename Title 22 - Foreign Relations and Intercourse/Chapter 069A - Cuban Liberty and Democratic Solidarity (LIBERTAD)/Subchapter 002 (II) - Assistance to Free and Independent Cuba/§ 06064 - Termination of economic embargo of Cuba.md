@@ -66,3 +66,7 @@ Section 204(a) of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (e)(4)(A), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

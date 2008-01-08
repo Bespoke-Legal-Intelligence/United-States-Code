@@ -10,7 +10,7 @@ If more than the correct amount of payment under subchapter II, VIII, or XVI of 
 
 #### (c) Early delivery
 
-For purposes of computing the “OASDI trust fund ratio” under section 401(<i>l</i>) of this title, the “OASDI fund ratio” under section 415(i) of this title, and the “balance ratio” under section 910(b) of this title, benefit checks delivered before the end of the month for which they are issued by reason of subsection (a) of this sectionshall be deemed to have been delivered on the regularly designated delivery date.
+For purposes of computing the “OASDI trust fund ratio” under section 401(<i>l</i>) of this title, the “OASDI fund ratio” under section 415(i) of this title, and the “balance ratio” under section 910(b) of this title, benefit checks delivered before the end of the month for which they are issued by reason of subsection (a) of this section shall be deemed to have been delivered on the regularly designated delivery date.
 
 (Aug. 14, 1935, ch. 531, title VII, §708, as added Pub. L. 95–216, title III, §333(a), Dec. 20, 1977, 91 Stat. 1543; amended Pub. L. 99–272, title XII, §12111(a), Apr. 7, 1986, 100 Stat. 287; Pub. L. 106–169, title II, §251(b)(5), Dec. 14, 1999, 113 Stat. 1855.)
 

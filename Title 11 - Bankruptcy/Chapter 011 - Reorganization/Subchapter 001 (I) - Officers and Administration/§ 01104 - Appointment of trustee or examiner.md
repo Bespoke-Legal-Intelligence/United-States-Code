@@ -20,7 +20,7 @@
 
 (C) The court shall resolve any dispute arising out of an election described in subparagraph (A).
 
-(c) If the court does not order the appointment of a trustee under this section, then at any time before the confirmation of a plan, on request of a party in interest or the United States trustee, and after notice and a hearing, the court shall order the appointment of an examiner to conduct such an investigation of the debtor as is appropriate, including an investigation of any allegations of fraud, dishonesty, incompetence, misconduct, mismanagement, or irregularity in the management of the affairs of the debtor of or by current or former management of the debtor, if—
+(c) If the court does not order the appointment of a trustee under this section, then at any time before the confirmation of a plan, on request of a party in interest or the United States trustee,and after notice and a hearing, the court shall order the appointment of an examiner to conduct such an investigation of the debtor as is appropriate, including an investigation of any allegations of fraud, dishonesty, incompetence, misconduct, mismanagement, or irregularity in the management of the affairs of the debtor of or by current or former management of the debtor, if—
 
 &emsp;(1) such appointment is in the interests of creditors, any equity security holders, and other interests of the estate; or
 
@@ -60,7 +60,7 @@ Subsection (b) permits the court, at any time after the commencement of the case
 
 By virtue of proposed 11 U.S.C. 1109, an indenture trustee and the Securities and Exchange Commission will be parties in interest for the purpose of requesting the appointment of a trustee or examiner.
 
-Subsection (c) directs that the United States trustee actually select and appoint the trustee or examiner ordered appointed under this section. The United States trustee is required to consult with various parties in interest before selecting and appointing a trustee. He is not bound to select one of the members of the panel of private trustees established under proposed 28 U.S.C. 586(a)(1) which exists only for the purpose of providing trustees for chapter 7 cases. Neither is he precluded from selecting a panel member if the member is qualified to serve as chapter 11 trustee. Appointment by the United States trustee will remove the court from the often criticized practice of appointing an officer that will appear in litigation before the court against an adverse party.
+Subsection (c) directs that the United States trustee actually select and appoint the trustee or examiner ordered appointed under this section. The United States trustee is required to consult with various parties in interest before selecting and appointing a trustee. He is not bound to select one of the members of the panel ofprivate trustees established under proposed 28 U.S.C. 586(a)(1) which exists only for the purpose of providing trustees for chapter 7 cases. Neither is he precluded from selecting a panel member if the member is qualified to serve as chapter 11 trustee. Appointment by the United States trustee will remove the court from the often criticized practice of appointing an officer that will appear in litigation before the court against an adverse party.
 
 #### Amendments
 

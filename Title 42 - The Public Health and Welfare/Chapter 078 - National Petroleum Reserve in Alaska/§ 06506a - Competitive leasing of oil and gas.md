@@ -14,7 +14,7 @@ The provisions of section 1712 and section 1782 of title 43 shall not be applica
 
 #### (d) First lease sale
 
-The; <sup>1</sup> first lease sale shall be conducted within twenty months of December 12, 1980: <i>Provided</i>, That the first lease sale shall be conducted only after publication of a final environmental impact statement if such is deemed necessaryunder the provisions of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+The; <sup>1</sup> first lease sale shall be conducted within twenty months of December 12, 1980: <i>Provided</i>, That the first lease sale shall be conducted only after publication of a final environmental impact statement if such is deemed necessary under the provisions of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (e) Withdrawals
 
@@ -88,7 +88,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 #### (5) Pooling
 
-&emsp;If separate tracts cannot be independently developed and operated in conformity with anestablished well spacing or development program, any lease, or a portion thereof, may be pooled with other lands, whether or not owned by the United States, under a communitization or drilling agreement providing for an apportionment of production or royalties among the separate tracts of land comprising the drilling or spacing unit when determined by the Secretary of the Interior (in consultation with the owners of the other land) to be in the public interest, and operations or production pursuant to such an agreement shall be deemed to be operations or production as to each such lease committed to the agreement.
+&emsp;If separate tracts cannot be independently developed and operated in conformity with an established well spacing or development program, any lease, or a portion thereof, may be pooled with other lands, whether or not owned by the United States, under a communitization or drilling agreement providing for an apportionment of production or royalties among the separate tracts of land comprising the drilling or spacing unit when determined by the Secretary of the Interior (in consultation with the owners of the other land) to be in the public interest, and operations or production pursuant to such an agreement shall be deemed to be operations or production as to each such lease committed to the agreement.
 
 #### (k) Exploration incentives
 
@@ -140,7 +140,7 @@ As soon as practicable after August 8, 2005, the Secretary shall issue regulatio
 
 &emsp;&emsp;(A) the Secretary of the Interior shall waive administration of any oil and gas lease to the extent that the lease covers any land in the Reserve in which all of the subsurface estate is conveyed to the Arctic Slope Regional Corporation (referred to in this subsection as the “Corporation”);
 
-&emsp;&emsp;(B)(i) in a case in which a conveyance of a subsurface estate described in subparagraph (A) does not include all of the land covered by the oil and gas lease, the person that owns the subsurface estate in any particular portion of the land covered by the lease shall be entitled to all of the revenues reservedunder the lease as to that portion, including, without limitation, all the royalty payable with respect to oil or gas produced from or allocated to that portion;
+&emsp;&emsp;(B)(i) in a case in which a conveyance of a subsurface estate described in subparagraph (A) does not include all of the land covered by the oil and gas lease, the person that owns the subsurface estate in any particular portion of the land covered by the lease shall be entitled to all of the revenues reserved under the lease as to that portion, including, without limitation, all the royalty payable with respect to oil or gas produced from or allocated to that portion;
 
 &emsp;&emsp;(ii) in a case described in clause (i), the Secretary of the Interior shall—
 
@@ -150,7 +150,7 @@ As soon as practicable after August 8, 2005, the Secretary shall issue regulatio
 
 &emsp;&emsp;(iii) the segregation of the lease described in clause (ii)(I) has no effect on the obligations of the lessee under either of the resulting leases, including obligations relating to operations, production, or other circumstances (other than payment of rentals or royalties); and
 
-&emsp;&emsp;(C) nothing in this subsection limits the authority of the Secretary of the Interior to manage the federally-owned surface estate within the Reserve.
+&emsp;&emsp;(C) nothing in this subsection limits the authority of the Secretary of the Interior tomanage the federally-owned surface estate within the Reserve.
 
 (Pub. L. 94–258, title I, §107, formerly Pub. L. 96–514, title I, Dec. 12, 1980, 94 Stat. 2964; Pub. L. 98–620, title IV, §402(41), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 105–83, title I, §128, Nov. 14, 1997, 111 Stat. 1568; renumbered Pub. L. 94–258, title I, §107, and amended Pub. L. 109–58, title III, §347(a)(2), (b), Aug. 8, 2005, 119 Stat. 704.)
 

@@ -8,7 +8,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriate district court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
+&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriatedistrict court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
 
 #### (2) Enforcement of emergency orders
 
@@ -84,13 +84,13 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (5) “Knowingly” defined
 
-&emsp;For purposes of this subsection, the term “knowingly”, when used with respect to any act or omission by any person, means such person—
+&emsp;For purposes of this subsection, the term “knowingly”, when used with respect to anyact or omission by any person, means such person—
 
 &emsp;&emsp;(A) had actual knowledge; or
 
 &emsp;&emsp;(B) had constructive knowledge deemed to be possessed by a reasonable individual who acts under similar circumstances.
 
-(Pub. L. 95–621, title V, §504, Nov. 9, 1978, 92 Stat. 3401; Pub. L. 101–60, §3(a)(4), (b)(6), July 26, 1989,103 Stat. 158, 159; Pub. L. 109–58, title III, §314(a)(2), (b)(2), Aug. 8, 2005, 119 Stat. 690, 691.)
+(Pub. L. 95–621, title V, §504, Nov. 9, 1978, 92 Stat. 3401; Pub. L. 101–60, §3(a)(4), (b)(6), July 26, 1989, 103 Stat. 158, 159; Pub. L. 109–58, title III, §314(a)(2), (b)(2), Aug. 8, 2005, 119 Stat. 690, 691.)
 
 #### Amendments
 

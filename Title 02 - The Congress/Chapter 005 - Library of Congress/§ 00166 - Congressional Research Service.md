@@ -144,7 +144,7 @@ The Director of the Congressional Research Service will submit to the Librarian 
 
 #### (i) Special report to Joint Committee on the Library
 
-The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the Congressional Research Service for the immediately preceding fiscal year.
+The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the CongressionalResearch Service for the immediately preceding fiscal year.
 
 #### (j) Authorization of appropriations
 
@@ -160,7 +160,7 @@ The civil service laws, referred to in subsec. (c)(3), are set forth in Title 5,
 
 1999—Subsec. (c)(1). Pub. L. 106–57 substituted second sentence for former second sentence which read as follows: “The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level V of the Executive Schedule contained in section 5316 of title 5.”
 
-1985—Subsec. (g). Pub. L. 99–190 amended subsec. (g) generally. Prior to amendment subsec. (g) read as follows: “In order to facilitate the study, consideration, evaluation, and determination by the Congress of the budget requirements of the Congressional Research Service for each fiscal year, the Librarian of Congress shall receive from the Director and submit, for inclusion in the Budget of the United States Government, the budget estimates of the Congressional ResearchService which shall be prepared separately by the Director in detail for each fiscal year as a separate item of the budget estimates of the Library of Congress for such fiscal year.”
+1985—Subsec. (g). Pub. L. 99–190 amended subsec. (g) generally. Prior to amendment subsec. (g) read as follows: “In order to facilitate the study, consideration, evaluation, and determination by the Congress of the budget requirements of the Congressional Research Service for each fiscal year, the Librarian of Congress shall receive from the Director and submit, for inclusion in the Budget of the United States Government, the budget estimates of the Congressional Research Service which shall be prepared separately by the Director in detail for each fiscal year as a separate item of the budget estimates of the Library of Congress for such fiscal year.”
 
 1970—Subsec. (a). Pub. L. 91–510 substituted provision for continuation of Legislative Reference Service, redesignated “Congressional Research Service”, for prior authorization for establishment of Legislative Reference Service and deleted second sentence, cls. (1) to (3), prescribing as duties of such Service for the Congress and its committees, the giving of advice and assistance, making data available, and preparing summaries and digests of public hearings before committees and of bills and resolutions of public nature, which was incorporated in subsec. (d)(1), (d)(4), and (d)(6), respectively, of this section.
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 106–57 applicable with respect to the first pay period wh
 
 #### Effective Date of 1970 Amendment
 
-Amendment of provisions, other than enactment of subsecs. (d)(2), (3) and (i) of this section, and enactment of subsecs. (d)(2), (3) and (i) by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, at the close of the first session of the Ninety-second Congress, and with respect to fiscal years beginning on or after July 1, 1970, respectively, see section 601(1), (3), and (4) of Pub. L. 91–510, set out as a note under section 72a of this title.
+Amendment of provisions, other than enactment of subsecs. (d)(2), (3) and (i) of this section, and enactment of subsecs. (d)(2), (3) and (i) by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, at the close of the first session of the Ninety-second Congress, and with respect to fiscal years beginning on or after July 1, 1970, respectively, see section 601(1), (3), and (4) ofPub. L. 91–510, set out as a note under section 72a of this title.
 
 #### Effective Date
 

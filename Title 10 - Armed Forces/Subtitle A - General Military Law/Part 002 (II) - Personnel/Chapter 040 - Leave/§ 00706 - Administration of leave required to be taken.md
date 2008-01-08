@@ -42,7 +42,7 @@ Section 7 of Pub. L. 97–81, as amended by Pub. L. 98–209, §12(b), Dec. 6, 1
 
 “(b)(1) The amendments made by section 2 \[enacting this section and sections 707 and 876a of this title and amending section 701 of this title\] shall apply to each member whose sentence by court-martial is approved on or after January 20, 1982—
 
-&emsp;“(A) under section 864 or 865 (article 64 or 65) of title 10, United States Code, by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 \[see Effective Date of 1983 Amendment note set out under section 801 of this title\]; or
+&emsp;“(A) under section 864 or 865 (article 64 or 65) of title 10, United States Code, by the officer exercisinggeneral court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 \[see Effective Date of 1983 Amendment note set out under section 801 of this title\]; or
 
 &emsp;“(B) under section 860 (article 60) of title 10, United States Code, by the officer empowered to act on the sentence on or after the effective date of the Military Justice Act of 1983.
 

@@ -28,7 +28,7 @@ Interns shall be hired on a temporary, full-time basis for not to exceed 6 month
 
 #### (g) Applications
 
-Individuals shall be selected for internships and fellowships based on applications which shall be in such form as the Administrator considers appropriate.
+Individuals shall be selected for internships and fellowships based on applications whichshall be in such form as the Administrator considers appropriate.
 
 #### (h) Geographic, cultural, and minority representation
 

@@ -38,7 +38,7 @@ Exclusions From Tour Length.—The Secretary of Defense may exclude the followin
 
 &emsp;(3) Service in a joint duty assignment in a case in which—
 
-&emsp;&emsp;(A) the officer's tour of duty in that assignment brings the officer's cumulative service for purposes of subsection (f)(3) to the applicable standard prescribed in subsection (a); and
+&emsp;&emsp;(A) the officer's tour of duty in that assignment brings the officer's cumulativeservice for purposes of subsection (f)(3) to the applicable standard prescribed in subsection (a); and
 
 &emsp;&emsp;(B) the length of time served in that assignment (in any case other than an assignment which is described in subsection (g)(4)(B)) was not less than two years.
 
@@ -110,7 +110,7 @@ Joint Duty Credit for Certain Joint Task Force Assignments.—(1) In the case of
 
 (2)(A) For purposes of paragraph (1), a qualifying temporary joint task force assignment of an officer is a temporary assignment, any part of which is performed by the officer on or after February 10, 1996—
 
-&emsp;(i) to the headquarters staff of a United States joint task force that is part of a unified command or the United States element of the headquarters staff of a multinational force; and
+&emsp;(i) to the headquarters staff of a United States joint task force that is part of a unifiedcommand or the United States element of the headquarters staff of a multinational force; and
 
 &emsp;(ii) with respect to which the Secretary of Defense determines that service of the officer in that assignment is equivalent to that which would be gained by the officer in a joint duty assignment.
 
@@ -200,7 +200,7 @@ Subsec. (h). Pub. L. 100–456, §514(6), added subsec. (h).
 
 1987—Subsec. (b). Pub. L. 100–180 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary of Defense may waive subsection (a) in the case of any officer, but the Secretary shall ensure that the average length of joint duty assignments meets the standards prescribed in that subsection.”
 
-Subsec. (c). Pub. L. 100–180 added subsec. (c) and struck out former subsec. (c), “Certain officers with critical combat operations skills”, which read as follows: “Joint duty assignments of less than the period prescribed by subsection (a), but not less than two years, may be authorized for the purposes of section661(c)(2) of this title. Such an assignment may not be counted for the purposes of determining the average length of joint duty assignments under subsection (b).”
+Subsec. (c). Pub. L. 100–180 added subsec. (c) and struck out former subsec. (c), “Certain officers with critical combat operations skills”, which read as follows: “Joint duty assignments of less than the period prescribed by subsection (a), but not less than two years, may be authorized for the purposes of section 661(c)(2) of this title. Such an assignment may not be counted for the purposes of determining the average length of joint duty assignments under subsection (b).”
 
 Subsec. (d). Pub. L. 100–180 added subsec. (d) and struck out former subsec. (d), “Exception”, which read as follows:
 

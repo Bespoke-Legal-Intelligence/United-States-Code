@@ -10,7 +10,7 @@ As used in this part:
 
 &emsp;&emsp;(B) a public or nonprofit private agency with which a State educational agency or the Secretary makes an arrangement to carry out a project under this part; or
 
-&emsp;&emsp;(C) a State educational agency, if the State educational agency operates the State's migrant education program or projects directly.
+&emsp;&emsp;(C) a State educational agency, if the State educational agency operates theState's migrant education program or projects directly.
 
 #### (2) Migratory child
 

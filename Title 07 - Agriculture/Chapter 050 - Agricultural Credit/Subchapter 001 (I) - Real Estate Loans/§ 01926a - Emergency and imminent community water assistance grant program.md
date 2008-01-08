@@ -76,7 +76,7 @@ Subject to subsection (e) of this section, grants under this section shall be ma
 
 #### (1) Nationally competitive application process
 
-&emsp;The Secretary shall develop a nationally competitive application process to award grants under this section. The process shall include criteria for evaluating applications, including population, median household income, and the severity of the decline, or imminent decline, in quantity or quality of water.
+&emsp;The Secretary shall develop a nationally competitive application process to awardgrants under this section. The process shall include criteria for evaluating applications, including population, median household income, and the severity of the decline, or imminent decline, in quantity or quality of water.
 
 #### (2) Timing of review of applications
 

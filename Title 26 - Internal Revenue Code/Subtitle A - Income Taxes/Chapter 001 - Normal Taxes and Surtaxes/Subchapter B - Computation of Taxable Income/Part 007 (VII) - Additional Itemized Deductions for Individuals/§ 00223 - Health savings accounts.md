@@ -106,7 +106,7 @@ $1,000.
 
 &emsp;&emsp;&emsp;(i) as having been an eligible individual during each of the months in such taxable year, and
 
-&emsp;&emsp;&emsp;(ii) as having been enrolled, during each of the months such individual is treated as an eligible individual solely by reason of clause (i), in the same high deductible health plan in which the individual was enrolled for the last month of such taxable year.
+&emsp;&emsp;&emsp;(ii) as having been enrolled, during each of the months such individual is treated as an eligible individual solely by reason ofclause (i), in the same high deductible health plan in which the individual was enrolled for the last month of such taxable year.
 
 #### (B) Failure to maintain high deductible health plan coverage
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) twice the dollar amount in subclause (I) for family coverage, and
 
-&emsp;&emsp;&emsp;(ii) the sum of the annual deductible and the other annual out-of-pocket expensesrequired to be paid under the plan (other than for premiums) for covered benefits does not exceed—
+&emsp;&emsp;&emsp;(ii) the sum of the annual deductible and the other annual out-of-pocket expenses required to be paid under the plan (other than for premiums) for covered benefits does not exceed—
 
 &emsp;&emsp;&emsp;&emsp;(I) $5,000 for self-only coverage, and
 
@@ -356,7 +356,7 @@ For purposes of this section—
 
 #### (7) Transfer of account incident to divorce
 
-&emsp;The transfer of an individual's interest in a health savings account to an individual'sspouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.
+&emsp;The transfer of an individual's interest in a health savings account to an individual's spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.
 
 #### (8) Treatment after death of account beneficiary
 
@@ -415,10 +415,6 @@ The Secretary may require—
 > The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 
 (Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953.)
-
-#### Adjustment of Limitation on Deductions for Calendar Year 2007
-
-<i>For adjustment of limitation on deductions for monthly contributions to health savings accounts for calendar year 2007 under subsection (b)(2)(A), (B) of this section, and for adjustment of dollar amounts for calendar year 2007 under subsection (c)(2)(A) of this section, see section 3.24 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 

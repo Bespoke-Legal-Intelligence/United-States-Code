@@ -108,7 +108,7 @@ Section 1365(g)(3), referred to in subsec. (e)(1), was redesignated section 1365
 
 #### Effective Date
 
-Pub. L. 107–197, title I, §103, June 25, 2002, 116 Stat. 724, provided that: “Section 102 \[enacting this sectionand provisions set out as a note below\] shall take effect on the date that the International Convention for the Suppression of Terrorist Bombings enters into force for the United States \[July 26, 2002\].”
+Pub. L. 107–197, title I, §103, June 25, 2002, 116 Stat. 724, provided that: “Section 102 \[enacting this section and provisions set out as a note below\] shall take effect on the date that the International Convention for the Suppression of Terrorist Bombings enters into force for the United States \[July 26, 2002\].”
 
 #### Disclaimer
 

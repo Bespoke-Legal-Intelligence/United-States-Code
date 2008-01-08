@@ -10,7 +10,7 @@
 
 #### (2) Partnerships
 
-&emsp;(A) In order to be eligible to receive a grant under this subsection, an institution of higher education or eligible nonprofit organization (or consortium of such institutions or organizations) shall enter into a partnership with one or more local educational agencies that may also include a State educational agency or one or more businesses.
+&emsp;(A) In order to be eligible to receive a grant under this subsection, an institution of higher education or eligible nonprofit organization (or consortium of such institutions or organizations) shall enter into a partnership with one or more local educational agencies that may also include the department, college, or program of education at an institution of higher education, a State educational agency, or one or more businesses.
 
 &emsp;(B) A participating institution of higher education shall include mathematics, science, or engineering departments in the programs carried out through a partnership under this paragraph.
 
@@ -20,9 +20,17 @@
 
 &emsp;&emsp;(A) recruiting and preparing students for careers in elementary or secondary mathematics or science education;
 
-&emsp;&emsp;(B) offering professional development programs, including summer or academic year institutes or workshops, designed to strengthen the capabilities of mathematics and science teachers;
+&emsp;&emsp;(B) offering professional development programs, including—
 
-&emsp;&emsp;(C) offering innovative preservice and inservice programs that instruct teachers on using technology more effectively in teaching mathematics and science, including programs that recruit and train undergraduate and graduate students to provide technical support to teachers;
+&emsp;&emsp;&emsp;(i) teacher institutes for the 21st century, as described in paragraph (10); and
+
+&emsp;&emsp;&emsp;(ii) academic year institutes or workshops that—
+
+&emsp;&emsp;&emsp;&emsp;(I) are designed to strengthen the capabilities of mathematics and science teachers; and
+
+&emsp;&emsp;&emsp;&emsp;(II) may include professional development activities to prepare mathematics and science teachers to teach challenging mathematics, science, and technology college-preparatory courses;
+
+&emsp;&emsp;(C) offering innovative preservice and inservice programs that instruct teachers on using technology and laboratory experiences more effectively in teaching mathematics and science, including programs that recruit and train undergraduate and graduate students to provide technical and laboratory support to teachers;
 
 &emsp;&emsp;(D) developing distance learning programs for teachers or students, including developing courses, curricular materials, and other resources for the in-service professional development of teachers that are made available to teachers through the Internet;
 
@@ -34,11 +42,11 @@
 
 &emsp;&emsp;(H) developing or adapting elementary school and secondary school mathematics and science curricular materials that incorporate contemporary research on the science of learning;
 
-&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, especially in underserved areas;
+&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the use of induction programs, as defined in section 9813(h) of title 20, for teachers in their first 2 years of teaching, especially in underserved areas;
 
 &emsp;&emsp;(J) using mathematicians, scientists, and engineers employed by private businesses to help recruit and train mathematics and science teachers;
 
-&emsp;&emsp;(K) developing and offering mathematics or science enrichment programs for students, including after-school and summer programs;
+&emsp;&emsp;(K) developing science, technology, engineering, and mathematics educational programs and materials and conducting science, technology, engineering, and mathematics enrichment programs for students, including after-school programs and summer programs, with an emphasis on including and serving students described in subsection (b)(2)(G);
 
 &emsp;&emsp;(L) providing research opportunities in business or academia for students and teachers;
 
@@ -84,6 +92,54 @@
 
 &emsp;Grants awarded under this subsection may be used to provide stipends for teachers or students participating in training or research activities that would not be part of their typical classroom activities.
 
+#### (8) Mentors for teachers and students of challenging courses
+
+&emsp;Partnerships carrying out activities to prepare mathematics and science teachers to teach challenging mathematics, science, and technology college-preparatory courses in accordance with paragraph (3)(B) shall encourage companies employing scientists, technologists, engineers, or mathematicians to provide mentors to teachers and students and provide for the coordination of such mentoring activities.
+
+#### (9) Innovation
+
+&emsp;Activities carried out in accordance with paragraph (3)(H) may include the development and dissemination of curriculum tools that will help foster inventiveness and innovation.
+
+#### (10) Teacher institutes for the 21st century
+
+#### (A) In general
+
+&emsp;&emsp;Teacher institutes for the 21st century carried out in accordance with paragraph (3)(B) shall—
+
+&emsp;&emsp;&emsp;(i) be carried out in conjunction with a school served by the local educational agency in the partnership;
+
+&emsp;&emsp;&emsp;(ii) be science, technology, engineering, and mathematics focused institutes that provide professional development to elementary school and secondary school teachers;
+
+&emsp;&emsp;&emsp;(iii) serve teachers who—
+
+&emsp;&emsp;&emsp;&emsp;(I) are considered highly qualified (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]);
+
+&emsp;&emsp;&emsp;&emsp;(II) teach high-need subjects in science, technology, engineering, or mathematics; and
+
+&emsp;&emsp;&emsp;&emsp;(III) teach in high-need schools (as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6314(a)(1)\]);
+
+&emsp;&emsp;&emsp;(iv) focus on the priorities developed by the Director in consultation with a broad group of relevant educational organizations;
+
+&emsp;&emsp;&emsp;(v) be content-based and build on school year curricula that are experiment-oriented, content-based, and grounded in current research;
+
+&emsp;&emsp;&emsp;(vi) ensure that the pedagogy component is designed around specific strategies that are relevant to teaching the subject and content on which teachers are being trained, which may include training teachers in the essential components of reading instruction for adolescents in order to improve student reading skills within the subject areas of science, technology, engineering, and mathematics;
+
+&emsp;&emsp;&emsp;(vii) be a multiyear program that is conducted for a period of not less than 2 weeks per year;
+
+&emsp;&emsp;&emsp;(viii) provide for direct interaction between participants in and faculty of the teacher institute;
+
+&emsp;&emsp;&emsp;(ix) have a component that includes the use of the Internet;
+
+&emsp;&emsp;&emsp;(x) provide for followup training in the classroom during the academic year for a period of not less than 3 days, which may or may not be consecutive, for participants in the teacher institute, except that for teachers in rural local educational agencies, the followup training may be provided through the Internet;
+
+&emsp;&emsp;&emsp;(xi) provide teachers participating in the teacher institute with travel expense reimbursement and classroom materials related to the teacher institute, and may include providing stipends as necessary; and
+
+&emsp;&emsp;&emsp;(xii) establish a mechanism to provide supplemental support during the academic year for teacher institute participants to apply the knowledge and skills gained at the teacher institute.
+
+#### (B) Optional members of the partnership
+
+&emsp;&emsp;In addition to the partnership requirement under paragraph (2), an institution of higher education or eligible nonprofit organization (or consortium) desiring a grant for a teacher institute for the 21st century may also partner with a teacher organization, museum, or educational partnership organization.
+
 #### (b) Selection process
 
 #### (1) Application
@@ -124,9 +180,11 @@
 
 &emsp;&emsp;(D) the degree to which such activities are aligned with State mathematics and science student academic achievement standards;
 
-&emsp;&emsp;(E) the likelihood that the partnership will demonstrate activities that can be widely implemented as part of larger scale reform efforts; and
+&emsp;&emsp;(E) the extent to which the evaluation described in paragraph (1)(E) will be independent and based on objective measures;
 
-&emsp;&emsp;(F) the extent to which the activities will encourage the interest of individuals identified in section 1885a or 1885b of this title in mathematics, science, engineering, and technology and will help prepare such individuals to pursue postsecondary studies in these fields.
+&emsp;&emsp;(F) the likelihood that the partnership will demonstrate activities that can be widely implemented as part of larger scale reform efforts; and
+
+&emsp;&emsp;(G) the extent to which the activities will encourage the interest of individuals identified in section 1885a or 1885b of this title in mathematics, science, engineering, and technology and will help prepare such individuals to pursue postsecondary studies in these fields.
 
 #### (3) Awards
 
@@ -146,11 +204,9 @@
 
 &emsp;&emsp;(B) to the extent practicable, compare the effectiveness of practices and materials developed and demonstrated by the partnerships authorized under this section with those of partnerships funded by other State or Federal agencies.
 
-#### (2) Dissemination of results
+#### (2) Report on evaluations
 
-&emsp;(A) The results of the evaluation required under paragraph (1) shall be made available to the public and shall be provided to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
-
-&emsp;(B) Materials developed under the program established under subsection (a) of this section that are demonstrated to be effective shall be made widely available to the public.
+&emsp;Not later than 4 years after August 9, 2007, the Director shall transmit a report summarizing the evaluations required under subsection (b)(1)(E) of grants received under this program and describing any changes to the program recommended as a result of these evaluations to the Committee on Science and Technology and the Committee on Education and Labor of the House of Representatives and to the Committee on Commerce, Science, and Transportation and the Committee on Health, Education, Labor, and Pensions of the Senate. Such report shall be made widely available to the public.
 
 #### (3) Annual meeting
 
@@ -158,7 +214,7 @@
 
 #### (4) Report on coordination
 
-&emsp;The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinatedwith the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6661 et seq.\]. The report under this paragraph shall be submitted along with the President's annual budget request.
+&emsp;The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6661 et seq.\]. The report under this paragraph shall be submitted along with the President's annual budget request.
 
 #### (5) Technical assistance
 
@@ -168,15 +224,55 @@
 
 &emsp;&emsp;(B) quality activities from funds received from a grant under this section.
 
-(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044.)
+#### (d) Definitions
+
+In this section—
+
+&emsp;(1) the term “mathematics and science teacher” means a science, technology, engineering, or mathematics teacher at the elementary school or secondary school level; and
+
+&emsp;(2) the term “science”, in the context of elementary and secondary education, includes technology and pre-engineering.
+
+(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20,Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Codification
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+
+2007—Subsec. (a)(2)(A). Pub. L. 110–69, §7028(1), substituted “the department, college, or program of education at an institution of higher education, a State educational agency,” for “a State educational agency”.
+
+Subsec. (a)(3)(B). Pub. L. 110–69, §7028(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “offering professional development programs, including summer or academic year institutes or workshops, designed to strengthen the capabilities of mathematics and science teachers;”.
+
+Subsec. (a)(3)(C). Pub. L. 110–69, §7028(3), inserted “and laboratory experiences” after “technology” and “and laboratory” after “provide technical”.
+
+Subsec. (a)(3)(I). Pub. L. 110–69, §7028(4), inserted “including the use of induction programs, as defined in section 9813(h) of title 20, for teachers in their first 2 years of teaching,” after “and science,”.
+
+Subsec. (a)(3)(K). Pub. L. 110–69, §7028(5), added subpar. (K) and struck out former subpar. (K) which read as follows: “developing and offering mathematics or science enrichment programs for students, including after-school and summer programs;”.
+
+Subsec. (a)(8), (9). Pub. L. 110–69, §7028(6), added pars. (8) and (9).
+
+Subsec. (a)(10). Pub. L. 110–69, §7029, added par. (10).
+
+Subsec. (b)(2)(E) to (G). Pub. L. 110–69, §7028(7), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+
+Subsec. (c)(2). Pub. L. 110–69, §7028(8), added par. (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows:
+
+“(A) The results of the evaluation required under paragraph (1) shall be made available to the public and shall be provided to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+“(B) Materials developed under the program established under subsection (a) of this section that are demonstrated to be effective shall be made widely available to the public.”
+
+Subsec. (d). Pub. L. 110–69, §7028(9), added subsec. (d).
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Findings
 
@@ -234,7 +330,7 @@ Foundation.—The term ‘Foundation’ means the National Science Foundation es
 
 &emsp;“(8)
 
-High-need local educational agency.—The term ‘high-need local educational agency’ means a local educational agency that meets one or more of the following criteria:
+High-need local educational agency.—The term ‘high-need local educational agency’ means alocal educational agency that meets one or more of the following criteria:
 
 &emsp;&emsp;“(A) It has at least one school in which 50 percent or more of the enrolled students are eligible for participation in the free and reduced price lunch program established by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
@@ -252,7 +348,7 @@ Institution of higher education.—The term ‘institution of higher education�
 
 &emsp;“(10)
 
-Local educational agency.—The term ‘local educational agency’ has the meaning given such termby section 9101(26) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(26)).
+Local educational agency.—The term ‘local educational agency’ has the meaning given such term by section 9101(26) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(26)).
 
 &emsp;“(11)
 

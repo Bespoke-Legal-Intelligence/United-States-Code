@@ -4,7 +4,7 @@
 
 (1) The head of an executive agency, acting through an authorized representative, is authorized to inspect the plant and audit the records of—
 
-&emsp;(A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that executive agency under this subchapter; and
+&emsp;(A) a contractor performing a cost-reimbursement, incentive, time-and-materials,labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that executive agency under this subchapter; and
 
 &emsp;(B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
 
@@ -26,7 +26,7 @@
 
 (3) The authority provided by paragraph (1) may not be delegated.
 
-(4) In the year following a year in which authority provided in paragraph (1) is exercised for an executive agency, the head of the executive agency shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives a report on the exercise ofsuch authority during such preceding year and the reasons why such authority was exercised in any instance.
+(4) In the year following a year in which authority provided in paragraph (1) is exercised for an executive agency, the head of the executive agency shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives a report on the exercise of such authority during such preceding year and the reasons why such authority was exercised in any instance.
 
 #### (c) Comptroller General authority
 
@@ -66,7 +66,7 @@ An executive agency shall not require a contractor or subcontractor to provide o
 
 &emsp;(1) The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
 
-&emsp;(2) The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records.
+&emsp;(2) The contractor or subcontractor maintains an effective indexing system to permittimely and convenient access to the imaged records.
 
 &emsp;(3) The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
 
@@ -90,9 +90,9 @@ Subsec. (d). Pub. L. 104–201 amended heading and text of subsec. (d) generally
 
 #### Change of Name
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, bySenate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1996 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants to Foundation; amount; non-Federal contributions
 
-The Secretary is authorized to make available to the Foundation, in the form of a grant, $9,000,000 to be used for the reconstruction of the Center, subject to the provisions of this section. Such grant shall be made available in increments as needed for such purpose and only if theFoundation has agreed under terms and conditions satisfactory to the Secretary to provide, from non-Federal sources, sufficient contributions on a timely basis to complete the reconstruction of the Center.
+The Secretary is authorized to make available to the Foundation, in the form of a grant, $9,000,000 to be used for the reconstruction of the Center, subject to the provisions of this section. Such grant shall be made available in increments as needed for such purpose and only if the Foundation has agreed under terms and conditions satisfactory to the Secretary to provide, from non-Federal sources, sufficient contributions on a timely basis to complete the reconstruction of the Center.
 
 #### (b) Loans to Foundation; amount; limitation; repayment; interest; service costs; term
 
@@ -38,7 +38,7 @@ The Secretary shall be responsible for overseeing the reconstruction and shall h
 
 #### (e) Easement noise and other standards; enforcement measures
 
-No grants or loans may be made under this section unless the Secretary has received what the Secretary deems to be adequate written assurance from the Administrator of the Federal Aviation Administration that any easement granted to the Commonwealth of Virginia by the Administrator for construction of the Dulles Toll Road will contain noise standards (“A” weighted energy average sound level of 52 to 54 dB) and other standards set forth in the Final Environmental Impact Statement for the Dulles Airport Access Road Outer Parallel Toll Roads,prepared by the Federal Aviation Administration and issued in May of 1982, legally enforceable by the Administrator and by the Secretary which are adequate to protect the Center from undue noise pollution and other environmental degradation attributable to such toll road both during and after its construction, and will also contain legally enforceable assurances that the Commonwealth of Virginia will promptly take measures to achieve the noise levels specified in the easement. Such measures may include a partial or total ban on truck traffic on the toll road or other mitigation recommended by the Secretary and the Administrator.
+No grants or loans may be made under this section unless the Secretary has received what the Secretary deems to be adequate written assurance from the Administrator of the Federal Aviation Administration that any easement granted to the Commonwealth of Virginia by the Administrator for construction of the Dulles Toll Road will contain noise standards (“A” weighted energy average sound level of 52 to 54 dB) and other standards set forth in the Final Environmental Impact Statement for the Dulles Airport Access Road Outer Parallel Toll Roads, prepared by the Federal Aviation Administration and issued in May of 1982, legally enforceable by the Administrator and by the Secretary which are adequate to protect the Center from undue noise pollution and other environmental degradation attributable to such toll road both during and after its construction, and will also contain legally enforceable assurances that the Commonwealth of Virginia will promptly take measures to achieve the noise levels specified in the easement. Such measures may include a partial or total ban on truck traffic on the toll road or other mitigation recommended by the Secretary and the Administrator.
 
 #### (f) Support services on reimbursable basis
 
@@ -61,10 +61,6 @@ For effective date of this paragraph, referred to in subsec. (b)(2)(A), (B), and
 1994—Subsec. (b)(3). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 1990—Subsec. (b). Pub. L. 101–636 designated existing provisions as par. (1) and added pars. (2) and (3).
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendment
 

@@ -30,7 +30,7 @@
 
 &emsp;(2) to the extent that the parties are unable so to determine a controversy by consent, hearing and decision on notice and in accordance with sections 556 and 557 of this title.
 
-(d) The employee who presides at the reception of evidence pursuant to section 556 of thistitle shall make the recommended decision or initial decision required by section 557 of this title, unless he becomes unavailable to the agency. Except to the extent required for the disposition of ex parte matters as authorized by law, such an employee may not—
+(d) The employee who presides at the reception of evidence pursuant to section 556 of this title shall make the recommended decision or initial decision required by section 557 of this title, unless he becomes unavailable to the agency. Except to the extent required for the disposition of ex parte matters as authorized by law, such an employee may not—
 
 &emsp;(1) consult a person or party on a fact in issue, unless on notice and opportunity for all parties to participate; or
 

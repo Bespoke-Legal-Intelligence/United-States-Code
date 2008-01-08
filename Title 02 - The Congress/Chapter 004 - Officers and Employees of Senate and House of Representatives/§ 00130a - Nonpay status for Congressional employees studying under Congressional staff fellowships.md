@@ -28,5 +28,5 @@
 
 &emsp;“(C) chapter 89 (relating to Federal employees group health insurance) of title 5,
 
-> if the award”, “Chief Administrative Officer of the House of Representatives, as appropriate” for “Clerk of the House of Representatives, as appropriate”, and “Chief Administrative Officer of the House of Representatives by records” for “Clerk of the House by records”, and added subsec. (b).
+> if the award”, “Chief Administrative Officer of the House of Representatives, as appropriate” for “Clerk ofthe House of Representatives, as appropriate”, and “Chief Administrative Officer of the House of Representatives by records” for “Clerk of the House by records”, and added subsec. (b).
 

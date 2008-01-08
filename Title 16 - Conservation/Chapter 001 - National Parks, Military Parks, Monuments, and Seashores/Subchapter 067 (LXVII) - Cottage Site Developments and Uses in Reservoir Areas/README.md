@@ -1,7 +1,5 @@
 ### SUBCHAPTER LXVII—COTTAGE SITE DEVELOPMENTS AND USES IN RESERVOIR AREAS
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

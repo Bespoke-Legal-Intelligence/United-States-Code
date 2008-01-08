@@ -42,7 +42,7 @@ Investigation; preliminary order.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 60 days after the date of receipt of a complaint filed under paragraph (1) and after affording the person or persons named in the complaint an opportunity to submit to the Secretary of Labor a written response to the complaint and an opportunity to meet with a representative of the Secretary of Labor to present statements from witnesses, the Secretary of Labor shall conduct an investigation and determine whether there is reasonable cause to believe that the complaint has merit and notify in writing the complainant and the person or persons alleged to have committed a violation of subsection (a) of the Secretary of Labor's findings. If the Secretary of Labor concludes that there is reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary of Labor shall include with the Secretary of Labor's findings with a preliminary order providing the relief prescribed by paragraph (3)(B). Not later than 60 days after the date of notification of findings under this subparagraph, any person alleged to have committed a violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Such hearings shall be conducted expeditiously. If a hearing is not requested in such 60-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
+In general.—Not later than 60 days after the date of receipt of a complaint filed under paragraph (1) and after affording the person or persons named in the complaint an opportunity to submit to the Secretary of Labor a written response to the complaint and an opportunity to meet with a representative of the Secretary of Labor topresent statements from witnesses, the Secretary of Labor shall conduct an investigation and determine whether there is reasonable cause to believe that the complaint has merit and notify in writing the complainant and the person or persons alleged to have committed a violation of subsection (a) of the Secretary of Labor's findings. If the Secretary of Labor concludes that there is reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary of Labor shall include with the Secretary of Labor's findings with a preliminary order providing the relief prescribed by paragraph (3)(B). Not later than 60 days after the date of notification of findings under this subparagraph, any person alleged to have committed a violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Such hearings shall be conducted expeditiously. If a hearing is not requested in such 60-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
 
 &emsp;&emsp;(B)
 
@@ -102,7 +102,7 @@ Limitation on collateral attack.—An order of the Secretary of Labor with respe
 
 &emsp;(5)
 
-Enforcement of order by secretary of labor.—Whenever any person has failed to comply with an order issued under paragraph (3), the Secretary of Labor may file a civil action in the United States district court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief, including, but not to be limited to, injunctive relief and compensatory damages.
+Enforcement of order by secretary of labor.—Whenever any person has failed to comply with an order issued under paragraph (3), the Secretary of Labor may file a civil action in the United States district court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shallhave jurisdiction to grant all appropriate relief, including, but not to be limited to, injunctive relief and compensatory damages.
 
 &emsp;(6)
 
@@ -114,7 +114,7 @@ Commencement of action.—A person on whose behalf an order was issued under par
 
 &emsp;&emsp;(B)
 
-Attorney fees.—The court, in issuing any final order under this paragraph, mayaward costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award of costs is appropriate.
+Attorney fees.—The court, in issuing any final order under this paragraph, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award of costs is appropriate.
 
 (c)
 

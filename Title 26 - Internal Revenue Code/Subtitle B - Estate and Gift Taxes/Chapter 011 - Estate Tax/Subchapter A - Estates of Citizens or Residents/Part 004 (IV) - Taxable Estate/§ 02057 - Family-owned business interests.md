@@ -4,7 +4,7 @@
 
 #### (1) Allowance of deduction
 
-&emsp;For purposes of the tax imposed by section 2001, in the case of an estate of a decedent to which this section applies, the value of the taxable estate shall be determined by deducting from the value of the gross estate the adjusted value of the qualified family-owned business interests of the decedent which are described in subsection (b)(2).
+&emsp;For purposes of the tax imposed by section 2001, in the case of an estate of a decedent towhich this section applies, the value of the taxable estate shall be determined by deducting from the value of the gross estate the adjusted value of the qualified family-owned business interests of the decedent which are described in subsection (b)(2).
 
 #### (2) Maximum deduction
 
@@ -256,7 +256,7 @@ For purposes of this section, the adjusted value of any qualified family-owned b
 
 #### (h) Agreement
 
-The agreement referred to in this subsection is a written agreement signed by each person in being who has an interest (whether or not inpossession) in any property designated in such agreement consenting to the application of subsection (f) with respect to such property.
+The agreement referred to in this subsection is a written agreement signed by each person in being who has an interest (whether or not in possession) in any property designated in such agreement consenting to the application of subsection (f) with respect to such property.
 
 #### (i) Other definitions and applicable rules
 

@@ -62,7 +62,7 @@
 
 #### (c) Guaranteed payments
 
-To the extent determined without regard to the income of the partnership, payments to a partner for services or the use of capital shall be considered as made to one who is not a memberof the partnership, but only for the purposes of section 61(a) (relating to gross income) and, subject to section 263, for purposes of section 162(a) (relating to trade or business expenses).
+To the extent determined without regard to the income of the partnership, payments to a partner for services or the use of capital shall be considered as made to one who is not a member of the partnership, but only for the purposes of section 61(a) (relating to gross income) and, subject to section 263, for purposes of section 162(a) (relating to trade or business expenses).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 243; Pub. L. 94–455, title II, §213(b)(3), title XIX, §1901(b)(3)(C), Oct. 4, 1976, 90 Stat. 1547, 1792; Pub. L. 98–369, div. A, title I, §73(a), July 18, 1984, 98 Stat. 591; Pub. L. 99–514, title VI, §642(a)(2), title XVIII, §§1805(b), 1812(c)(3)(A), (B), Oct. 22, 1986, 100 Stat. 2284, 2810, 2834.)
 

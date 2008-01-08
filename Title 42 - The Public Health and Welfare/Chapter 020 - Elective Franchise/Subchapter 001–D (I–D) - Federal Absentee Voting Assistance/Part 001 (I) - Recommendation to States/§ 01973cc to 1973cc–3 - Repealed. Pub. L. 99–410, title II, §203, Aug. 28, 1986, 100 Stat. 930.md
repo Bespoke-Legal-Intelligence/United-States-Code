@@ -4,7 +4,7 @@ Section 1973cc, acts Aug. 9, 1955, ch. 656, title I, §101, 69 Stat. 584; June 1
 
 Section 1973cc–1, acts Aug. 9, 1955, ch. 656, title I, §102, 69 Stat. 584; June 18, 1968, Pub. L. 90–344, §1(1), 82 Stat. 181; Aug. 6, 1981, Pub. L. 97–31, §12(19), 95 Stat. 154, related to balloting procedures. See section 1973ff–3 of this title.
 
-Section 1973cc–2, act Aug. 9, 1955, ch. 656, title I, §103, 69 Stat. 585, related to availability of statistical data to assist Presidential designee in compiling comprehensive information of operations under this subchapter.
+Section 1973cc–2, act Aug. 9, 1955, ch. 656, title I, §103, 69 Stat. 585, related to availability of statistical data toassist Presidential designee in compiling comprehensive information of operations under this subchapter.
 
 Section 1973cc–3, act Aug. 9, 1955, ch. 656, title I, §104, as added June 18, 1968, Pub. L. 90–344, §1(2), 82 Stat. 181, related to legal residence for voting purposes of personnel residing on military installations.
 

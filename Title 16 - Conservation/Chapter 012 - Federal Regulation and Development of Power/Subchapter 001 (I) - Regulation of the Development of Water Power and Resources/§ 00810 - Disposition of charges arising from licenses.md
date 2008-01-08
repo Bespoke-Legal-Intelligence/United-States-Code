@@ -12,7 +12,7 @@ In case of delinquency on the part of any licensee in the payment of annual char
 
 #### References in Text
 
-Act of Congress known as the Reclamation Act, approved June 17, 1902, referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables. The reclamation fund created by that Act was established by section 391 of Title 43.
+The Act of Congress known as the Reclamation Act, approved June 17, 1902, referred to in subsec. (a), probably means act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables. The reclamation fund created by that Act was established by section 391 of Title 43.
 
 #### Amendments
 

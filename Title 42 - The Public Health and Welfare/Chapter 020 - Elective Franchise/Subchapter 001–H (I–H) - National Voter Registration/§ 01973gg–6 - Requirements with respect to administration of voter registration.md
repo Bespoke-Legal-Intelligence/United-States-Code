@@ -100,7 +100,7 @@ Any State program or activity to protect the integrity of the electoral process 
 
 &emsp;(II) shall be permitted to correct the voting records for purposes of voting in future elections at the appropriate polling place for the current address and, if permitted by State law, shall be permitted to vote in the present election, upon confirmation by the registrant of the new address by such means as are required by law.
 
-(B) If State law permits the registrant to vote in the current election upon oral or written affirmation by the registrant of the new address at a polling place described in subparagraph (A)(i) or (A)(ii)(II), voting at the other locations described in subparagraph (A) need not be provided as options.
+(B) If State law permits the registrant to vote in the current election upon oral or written affirmation by the registrant of the new address at a polling place described in subparagraph\(A)(i) or (A)(ii)(II), voting at the other locations described in subparagraph (A) need not be provided as options.
 
 (3) If the registration records indicate that a registrant has moved from an address in the area covered by a polling place, the registrant shall, upon oral or written affirmation by the registrant before an election official at that polling place that the registrant continues to reside at the address previously made known to the registrar, be permitted to vote at that polling place.
 
@@ -134,7 +134,7 @@ In the case of a change of address, for voting purposes, of a registrant to anot
 
 #### (i) Public disclosure of voter registration activities
 
-(1) Each State shall maintain for at least 2 years and shall make available for public inspection and, where available, photocopying at a reasonable cost, all records concerning the implementation of programs and activities conducted for the purpose of ensuring the accuracy and currency of official lists of eligible voters, except to the extent that such records relate toa declination to register to vote or to the identity of a voter registration agency through which any particular voter is registered.
+(1) Each State shall maintain for at least 2 years and shall make available for public inspection and, where available, photocopying at a reasonable cost, all records concerning the implementation of programs and activities conducted for the purpose of ensuring the accuracy and currency of official lists of eligible voters, except to the extent that such records relate to a declination to register to vote or to the identity of a voter registration agency through which any particular voter is registered.
 
 (2) The records maintained pursuant to paragraph (1) shall include lists of the names and addresses of all persons to whom notices described in subsection (d)(2) of this section are sent, and information concerning whether or not each such person has responded to the notice as of the date that inspection of the records is made.
 

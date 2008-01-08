@@ -14,7 +14,7 @@ The Secretary may establish cost limitations on eligible activities under this s
 
 #### (d) Annual contributions
 
-Notwithstanding the purchase of a public housing project under this section, or the purchase of a unit in a public housing project by an eligible family, the Secretary shall continue to pay annual contributions with respect to the project. Such contributions may not exceed the maximum contributions authorized in section 1437c(a) of this title.
+Notwithstanding the purchase of a public housing project under this section, or the purchase of a unit in a public housing project by an eligible family, the Secretary shall continue topay annual contributions with respect to the project. Such contributions may not exceed the maximum contributions authorized in section 1437c(a) of this title.
 
 #### (e) Amounts from Operating Fund allocation
 
@@ -66,7 +66,7 @@ The requirements under this subchapter regarding quality standards, resale, or t
 
 #### (i) Dollar limitation on economic development activities
 
-Not more than an aggregate of $250,000 from amounts made available under sections 1437aaa–1 and 1437aaa–2 of this title may be used for economic development activities under sections 1437aaa–1(b)(6) <sup>1</sup> and 1437aaa–2(b)(9) <sup>1</sup> of this title for any project.
+Not more than an aggregate of $250,000 from amounts made available under sections1437aaa–1 and 1437aaa–2 of this title may be used for economic development activities under sections 1437aaa–1(b)(6) <sup>1</sup> and 1437aaa–2(b)(9) <sup>1</sup> of this title for any project.
 
 #### (j) Timely homeownership
 

@@ -98,7 +98,7 @@
 
 #### (iii) Financially troubled bank
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “financially troubled bank” means any bankif, for the taxable year, the nonperforming loan percentage of such bank exceeds 75 percent.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “financially troubled bank” means any bank if, for the taxable year, the nonperforming loan percentage of such bank exceeds 75 percent.
 
 #### (iv) Nonperforming loan percentage
 
@@ -236,5 +236,5 @@ Section 431(d) of Pub. L. 91–172 provided that: “The amendments made by subs
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

@@ -30,7 +30,7 @@ Reduced percentage for certain post-august 1, 1986 members.—If the percent det
 
 &emsp;(4)
 
-Special rule for paragraph (3).—If in any case in which an increase in retired pay that would otherwise be made under paragraph (3) is not made by reason of law (other than any provision of this section), then (unless otherwise provided by law) when the next increase in retired pay is made under this subsection, the increase under paragraph (3) shall be carried out so as to achieve the same net increase in retired pay under that paragraph that would have been the case if that law had not been enacted.
+Special rule for paragraph (3).—If in any case in which an increase in retired pay that would otherwise be made under paragraph (3) is not made by reason of law (other thanany provision of this section), then (unless otherwise provided by law) when the next increase in retired pay is made under this subsection, the increase under paragraph (3) shall be carried out so as to achieve the same net increase in retired pay under that paragraph that would have been the case if that law had not been enacted.
 
 &emsp;(5)
 
@@ -50,7 +50,7 @@ First adjustment with intervening increase in basic pay.—Notwithstanding subse
 
 &emsp;(2)
 
-First adjustment with no intervening increase in basic pay.—If a person described in paragraph (3) becomes entitled to retired pay on or after the effective date of an adjustment in retired pay under subsection (b) but before the effective date of the next increase in the rates of monthly basic pay, the retired pay of the member or former member shall beincreased (subject to subsection (f)(2) as applied to other members whose retired pay is computed on the current rates of basic pay in the most recent adjustment under this section), effective on the date the member becomes entitled to that pay, by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
+First adjustment with no intervening increase in basic pay.—If a person described in paragraph (3) becomes entitled to retired pay on or after the effective date of an adjustment in retired pay under subsection (b) but before the effective date of the next increase in the rates of monthly basic pay, the retired pay of the member or former member shall be increased (subject to subsection (f)(2) as applied to other members whose retired pay is computed on the current rates of basic pay in the most recent adjustment under this section), effective on the date the member becomes entitled to that pay, by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
 
 &emsp;&emsp;(A) the base index, exceeds
 
@@ -92,7 +92,7 @@ Prevention of retired pay inversions.—Notwithstanding any other provision of l
 
 &emsp;(2)
 
-Prevention of cola inversions.—The percentage of the first adjustment under this section in the retired pay of any person, as determined under subsection (c)(1), (c)(2), (d), or (e), may not exceed the percentage increase in retired pay determined under subsection (b)(2) that is effective on the same date as the effective date of such first adjustment.
+Prevention of cola inversions.—The percentage of the first adjustment under thissection in the retired pay of any person, as determined under subsection (c)(1), (c)(2), (d), or (e), may not exceed the percentage increase in retired pay determined under subsection (b)(2) that is effective on the same date as the effective date of such first adjustment.
 
 (g)
 
@@ -110,7 +110,7 @@ Definitions.—In this section:
 
 Price Index for a Quarter.—For purposes of this section, the price index for a calendar quarter is the arithmetical mean of the price index for the three months comprising that quarter.
 
-(Added Pub. L. 88–132, §5(g)(1), Oct. 2, 1963, 77 Stat. 213; amended Pub. L. 89–132, §5(b), Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §2(a)(1), Dec. 16, 1967, 81 Stat. 652; Pub. L. 91–179, §1, Dec. 30, 1969, 83 Stat. 837; Pub. L. 94–106, title VIII, §806, Oct. 7, 1975, 89 Stat. 538; Pub. L. 94–361, title VIII, §801(a), July 14, 1976, 90 Stat. 929; Pub. L. 94–440, title XIII, §1306(d)(1), Oct. 1, 1976, 90 Stat. 1462; Pub. L. 96–342, title VIII, §812(b)(1), Sept. 8, 1980, 94 Stat. 1098; Pub. L. 98–94, title IX, §§921(a)(1), (b), 922(a)(2), Sept. 24, 1983, 97 Stat. 640, 641; Pub. L. 98–525, title XIV, §1405(26), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–348, title I, §102, July 1, 1986, 100 Stat. 683; Pub. L. 100–180, div. A, title XII, §1231(21), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–224, §1, Dec. 30, 1987, 101 Stat. 1536; Pub. L. 100–456, div. A, title VI, §622(a), Sept. 29, 1988, 102 Stat. 1983; Pub. L. 101–189, div. A, title VI, §651(b)(1), Nov. 29, 1989, 103 Stat. 1460; Pub. L.103–66, title II, §2001, Aug. 10, 1993, 107 Stat. 335; Pub. L. 103–160, div. A, title XI, §1182(e), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–335, title VIII, §8114A(b)(1), Sept. 30, 1994, 108 Stat. 2648; Pub. L. 103–337, div. A, title VI, §633(a), Oct. 5, 1994, 108 Stat. 2787; Pub. L. 104–106, div. A, title VI, §631(a), (c), Feb. 10, 1996, 110 Stat. 364, 365; Pub. L. 104–201, div. A, title VI, §§631(a), 632(a), Sept. 23, 1996, 110 Stat. 2549; Pub. L. 106–65, div. A, title VI, §§641(b), 643(b)(1), title X, §1066(a)(10), Oct. 5, 1999, 113 Stat. 662, 663, 771; Pub. L. 107–314, div. A, title VI, §633, Dec. 2, 2002, 116 Stat. 2572.)
+(Added Pub. L. 88–132, §5(g)(1), Oct. 2, 1963, 77 Stat. 213; amended Pub. L. 89–132, §5(b), Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §2(a)(1), Dec. 16, 1967, 81 Stat. 652; Pub. L. 91–179, §1, Dec. 30, 1969, 83 Stat. 837; Pub. L. 94–106, title VIII, §806, Oct. 7, 1975, 89 Stat. 538; Pub. L. 94–361, title VIII, §801(a), July 14, 1976, 90 Stat. 929; Pub. L. 94–440, title XIII, §1306(d)(1), Oct. 1, 1976, 90 Stat. 1462; Pub. L. 96–342, title VIII, §812(b)(1), Sept. 8, 1980, 94 Stat. 1098; Pub. L. 98–94, title IX, §§921(a)(1), (b), 922(a)(2), Sept. 24, 1983, 97 Stat. 640, 641; Pub. L. 98–525, title XIV, §1405(26), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–348, title I, §102, July 1, 1986, 100 Stat. 683; Pub. L. 100–180, div. A, title XII, §1231(21), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–224, §1, Dec. 30, 1987, 101 Stat. 1536; Pub. L. 100–456, div. A, title VI, §622(a), Sept. 29, 1988, 102 Stat. 1983; Pub. L. 101–189, div. A, title VI, §651(b)(1), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–66, title II, §2001, Aug. 10, 1993, 107 Stat. 335; Pub. L. 103–160, div. A, title XI, §1182(e), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–335, title VIII, §8114A(b)(1), Sept. 30, 1994, 108 Stat. 2648; Pub. L. 103–337, div. A, title VI, §633(a), Oct. 5, 1994, 108 Stat. 2787; Pub. L. 104–106, div. A, title VI, §631(a), (c), Feb. 10, 1996, 110 Stat. 364, 365; Pub. L. 104–201, div. A, title VI, §§631(a), 632(a), Sept. 23, 1996, 110 Stat. 2549; Pub. L. 106–65, div. A, title VI, §§641(b), 643(b)(1), title X, §1066(a)(10), Oct. 5, 1999, 113 Stat. 662, 663, 771; Pub. L. 107–314, div. A, title VI, §633, Dec. 2, 2002, 116 Stat. 2572.)
 
 #### Amendments
 
@@ -202,7 +202,7 @@ Rule for First Adjustment After Retirement With No Intervening Increase in Basic
 
 Subsec. (f). Pub. L. 103–337 inserted “based on the grade in which the member is retired” after “at an earlier date” in first sentence and “, except that such computation may not be based on a rate of basic pay for a grade higher than the grade in which the member is retired” before period at end of second sentence and struck out after second sentence “However, in the case of a member who, after initially becoming eligible for retired pay, is reduced in grade pursuant to a sentence of a court-martial, such computation may not be based on a grade higher than the grade in which the member is retired.”
 
-1993—Subsec. (b)(2). Pub. L. 103–160, §1182(e)(1), amended par. (2) generally. Prior to amendment, par.\(2) read as follows: “Except as provided in paragraph (6), the Secretary shall increase the retired pay of each member and former member who first became a member of a uniformed service before August 1, 1986, by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
+1993—Subsec. (b)(2). Pub. L. 103–160, §1182(e)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except as provided in paragraph (6), the Secretary shall increase the retired pay of each member and former member who first became a member of a uniformed service before August 1, 1986, by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
 
 &emsp;“(A) the price index for the base quarter of that year, exceeds
 
@@ -306,8 +306,6 @@ Pub. L. 106–65, div. A, title VI, §644, Oct. 5, 1999, 113 Stat. 664, provided
 
 Section 632(b) of Pub. L. 104–201 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only to adjustments of retired and retainer pay effective after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
-z
-
 #### Effective Date of 1994 Amendment
 
 Section 633(b) of Pub. L. 103–337 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the computation of the retired pay of a member of the Armed Forces who retires on or after the date of the enactment of this Act \[Oct. 5, 1994\].”
@@ -322,7 +320,7 @@ Section 921(a)(2) of Pub. L. 98–94 provided that:
 
 “(A) Notwithstanding the repeal of such subsection \[subsec. (e) of this section\], the provisions of such subsection shall apply in the case of any member or former member of the Armed Forces eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] for a period of three years after such date in the same manner such provisions would have applied had they not been repealed.
 
-“(B) The amount of retired or retainer pay of any member or former member of the Armed Forces who was eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] and who becomes entitled to such pay at any time after the end of the three-year period beginning on the date of the enactment of this Act may not be less than it would have been had he become entitled to retired or retainer pay on the day before the end of such three-year period.”
+“(B) The amount of retired or retainer pay of any member or former member of the Armed Forces whowas eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] and who becomes entitled to such pay at any time after the end of the three-year period beginning on the date of the enactment of this Act may not be less than it would have been had he become entitled to retired or retainer pay on the day before the end of such three-year period.”
 
 Amendment by section 922 of Pub. L. 98–94 effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out as a note under section 1401 of this title.
 
@@ -344,7 +342,7 @@ Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 9
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–132 effective Sept. 1, 1965, see section 10 of Pub. L. 89–132, set out as a note undersection 203 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 89–132 effective Sept. 1, 1965, see section 10 of Pub. L. 89–132, set out as a note under section 203 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date
 
@@ -479,8 +477,6 @@ Pub. L. 96–342, title VIII, §812, Sept. 8, 1980, 94 Stat. 1098, as amended by
 “(3) The President shall by Executive order provide for only one cost-of-living adjustment in the annuities paid under the Central Intelligence Agency \[Retirement\] Act of 1964 for Certain Employees (50 U.S.C. 403 note) during the period beginning on September 1, 1980, and ending on August 31, 1981. Such adjustment shall be effective March 1, 1981, and shall be made in the same manner and percentage as the adjustment provided for in paragraphs (1) and (2) for the retired and retainer pay of members and former members of the uniformed services.
 
 “(4) Paragraphs (1), (2), and (3) shall not take effect unless similar legislation is enacted which provides for only one cost-of-living increase in annuities paid under subchapter III of chapter 83 of title 5, United States Code, during the period beginning on September 1, 1980, and ending on August 31, 1981.
-
-z
 
 “(b)(1) Effective August 31, 1981, but subject to paragraph (2), section 1401a(b), of title 10, United States Code, relating to adjustment of retired pay and retainer pay to reflect changes in the Consumer Price Index, is amended to read as follows:
 

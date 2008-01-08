@@ -60,7 +60,7 @@ Sec. 3. <i>Study and Report</i>. The Secretary of Education, in coordination wit
 
 &emsp;(v) development of methods to increase the high school graduation rate and develop pathways to college and the workplace for American Indian and Alaska Native students.
 
-The Secretary of Education shall develop an agenda, including proposed timelines and ongoing activities, for the conduct of the study, and shall make that agenda available to the public on the Internet.
+The Secretary of Education shall develop an agenda, including proposed timelines and ongoing activities, forthe conduct of the study, and shall make that agenda available to the public on the Internet.
 
 (b) The Secretary of Education, in coordination with the Working Group, shall issue a report to the President that shall:
 

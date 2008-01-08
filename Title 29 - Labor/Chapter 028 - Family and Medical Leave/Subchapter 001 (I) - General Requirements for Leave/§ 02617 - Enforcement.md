@@ -50,7 +50,7 @@
 
 #### (2) Civil action
 
-&emsp;The Secretary may bring an action in any court of competent jurisdiction to recover the damages described in subsection (a)(1)(A) of this section.
+&emsp;The Secretary may bring an action in any court of competent jurisdiction to recover thedamages described in subsection (a)(1)(A) of this section.
 
 #### (3) Sums recovered
 

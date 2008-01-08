@@ -26,7 +26,7 @@ The Secretary of the Interior (hereinafter in sections 698n to 698p of this titl
 
 #### (c) Administration
 
-The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establishperiods when, no hunting or fishing shall be permitted for reasons of public safety.
+The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of theNational Park System, including sections 1, 2, 3, and 4 of this title. The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety.
 
 #### (d) Development of multiunit residential/resort project
 

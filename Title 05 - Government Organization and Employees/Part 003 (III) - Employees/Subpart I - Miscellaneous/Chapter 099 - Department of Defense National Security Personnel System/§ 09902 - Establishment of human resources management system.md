@@ -184,7 +184,7 @@ Provisions Relating to Appellate Procedures.—(1) The Secretary—
 
 &emsp;(C) would otherwise be eligible to appeal a performance-based or adverse action under chapter 43 or 75, as applicable, to the Merit Systems Protection Board,
 
-> shall have the right to petition the full Merit Systems Protection Board for review of the record of that decision pursuant to regulations established under paragraph (2). The Board may dismiss any petition that, in the view of the Board, does not raise substantial questions of fact or law. No personnel action shall be stayedand no interim relief shall be granted during the pendency of the Board's review unless specifically ordered by the Board.
+> shall have the right to petition the full Merit Systems Protection Board for review of the record of that decision pursuant to regulations established under paragraph (2). The Board may dismiss any petition that, in the view of the Board, does not raise substantial questions of fact or law. No personnel action shall be stayed and no interim relief shall be granted during the pendency of the Board's review unless specifically ordered by the Board.
 
 (5) The Board may order such corrective action as the Board considers appropriate only if the Board determines that the decision was—
 
@@ -321,6 +321,8 @@ The date of the enactment of this subsection and enactment of this subsection, r
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Civilian Pay
 

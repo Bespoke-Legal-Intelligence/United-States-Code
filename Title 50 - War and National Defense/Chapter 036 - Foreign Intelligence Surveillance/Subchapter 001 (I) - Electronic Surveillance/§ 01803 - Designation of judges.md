@@ -18,9 +18,9 @@ Each judge designated under this section shall so serve for a maximum of seven y
 
 #### (e) Jurisdiction and procedures for review of petitions
 
-(1) Three judges designated under subsection (a) who reside within 20 miles of the District of Columbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1861(f)(1) of this title.
+(1) Three judges designated under subsection (a) who reside within 20 miles of the District of Columbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1805b(h) or 1861(f)(1) of this title.
 
-(2) Not later than 60 days after March 9, 2006, the court established under subsection (a) shall adopt and, consistent with the protection of national security, publish procedures for the review of petitions filed pursuant to section 1861(f)(1) of this title by the panel established under paragraph (1). Such procedures shall provide that review of a petition shall be conducted in camera and shall also provide for the designation of an acting presiding judge.
+(2) Not later than 60 days after March 9, 2006, the court established under subsection (a) shall adopt and, consistent with the protection of national security, publish procedures for the review of petitions filed pursuant to section 1805b(h) or 1861(f)(1) of this title by the panel established under paragraph (1). Such procedures shall provide that review of a petition shall be conducted in camera and shall also provide for the designation of an acting presiding judge.
 
 #### (f) Establishment and transmittal of rules and procedures
 
@@ -44,7 +44,11 @@ Each judge designated under this section shall so serve for a maximum of seven y
 
 (3) The transmissions required by paragraph (2) shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§106(f)(1), 109(d), Mar. 9, 2006, 120 Stat. 197, 205.)
+(Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§106(f)(1), 109(d), Mar. 9, 2006, 120 Stat. 197, 205; Pub. L. 110–55, §5(a), Aug. 5, 2007, 121 Stat. 556.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 6(c) of Pub. L. 110–55, see Effective and Termination Dates of 2007 Amendment note below.</i>
 
 #### References in Text
 
@@ -52,11 +56,33 @@ This chapter, referred to in subsecs. (a), (b), (c), and (f)(1), was in the orig
 
 #### Amendments
 
+2007—Subsec. (e). Pub. L. 110–55, §§5(a), 6(c), temporarily substituted “1805b(h) or 1861(f)(1)” for “1861(f)(1)” in pars. (1) and (2). See Effective and Termination Dates of 2007 Amendment note below.
+
 2006—Subsecs. (e), (f). Pub. L. 109–177 added subsecs. (e) and (f).
 
 2004—Subsec. (c). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 2001—Subsec. (a). Pub. L. 107–56 substituted “11 district court judges” for “seven district court judges” and inserted “of whom no fewer than 3 shall reside within 20 miles of the District of Columbia” after “judicial circuits”.
+
+#### Effective and Termination Dates of 2007 Amendment
+
+Pub. L. 110–55, §6, Aug. 5, 2007, 121 Stat. 556, provided that:
+
+“(a)
+
+Effective Date.—Except as otherwise provided, the amendments made by this Act \[enacting sections 1805a to 1805c of this title and amending this section\] shall take effect immediately after the date of the enactment of this Act \[Aug. 5, 2007\].
+
+“(b)
+
+Transition Procedures.—Notwithstanding any other provision of this Act \[see Short Title of 2007 Amendment note set out under section 1801 of this title\], any order in effect on the date of enactment of this Act issued pursuant to the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) shall remain in effect until the date of expiration of such order, and, at the request of the applicant, the court established under section 103(a) of such Act (50 U.S.C. 1803(a)) shall reauthorize such order as long as the facts and circumstances continue to justify issuance of such order under the provisions of the Foreign Intelligence Surveillance Act of 1978, as in effect on the day before the applicable effective date of this Act. The Government also may file new applications, and the court established under section 103(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803(a)) shall enter orders granting such applications pursuant to such Act, as long as the application meets the requirements set forth under the provisions of such Act as in effect on the day before the effective date of this Act. At the request of the applicant, the court established under section 103(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803(a)), shall extinguish any extant authorization to conduct electronic surveillance or physical search entered pursuant to such Act. Any surveillance conducted pursuant to an order entered under this subsection shall be subject to the provisions of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), as in effect on the day before the effective date of this Act.
+
+“(c)
+
+Sunset.—Except as provided in subsection (d), sections 2, 3, 4, and 5 of this Act \[enacting sections 1805a to 1805c of this title and amending this section\], and the amendments made by this Act \[enacting sections 1805a to 1805c of this title and amending this section\], shall cease to have effect 180 days after the date of the enactment of this Act.
+
+“(d)
+
+Authorizations in Effect.—Authorizations for the acquisition of foreign intelligence information pursuant to the amendments made by this Act, and directives issued pursuant to such authorizations, shall remain in effect until their expiration. Such acquisitions shall be governed by the applicable provisions of such amendments and shall not be deemed to constitute electronic surveillance as that term is defined in section 101(f) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801(f)).”
 
 #### Effective Date of 2004 Amendment
 

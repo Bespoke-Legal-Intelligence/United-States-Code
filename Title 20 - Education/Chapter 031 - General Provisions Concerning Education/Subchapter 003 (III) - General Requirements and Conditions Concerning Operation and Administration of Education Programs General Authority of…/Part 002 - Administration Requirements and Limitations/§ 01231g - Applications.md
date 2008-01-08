@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, unless expressly in limitation of th
 
 #### (b) Uniform dates
 
-The Secretary shall, insofar as is practicable, establish uniform dates during the year for the submission of applications under all applicable programs and for the approval of such applications.
+The Secretary shall, insofar as is practicable, establish uniform dates during the year for thesubmission of applications under all applicable programs and for the approval of such applications.
 
 #### (c) Development of common applications
 

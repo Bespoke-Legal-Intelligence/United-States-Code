@@ -12,7 +12,7 @@ Section 1409d, act Dec. 20, 1944, ch. 615, §5, 58 Stat. 829; 1950 Reorg. Plan N
 
 Section 1409e, acts Dec. 20, 1944, ch. 615, §6, 58 Stat. 829; June 30, 1949, ch. 288, title I, §102, 63 Stat. 380; 1950 Reorg. Plan No. 15, §1, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, related to procurement, warehousing and distribution of property, and establishment of a revolving fund for purchase, repairs, etc., of materials and supplies.
 
-Section 1409f, act Dec. 20, 1944, ch. 615, §7, 58 Stat. 829, made inapplicable to projects authorized the provisions of section 5 of title 41, relating to advertising for bids in purchase of materials and services, where aggregate amount is less than $500.
+Section 1409f, act Dec. 20, 1944, ch. 615, §7, 58 Stat. 829, made inapplicable to projects authorized the provisions of section 5 of title 41, relating to advertising for bidsin purchase of materials and services, where aggregate amount is less than $500.
 
 Section 1409g, act Dec. 20, 1944, ch. 615, §8, 58 Stat. 829, related to disability and death benefits for certain employees receiving compensation from funds appropriated under this subchapter, subject to certain exceptions.
 

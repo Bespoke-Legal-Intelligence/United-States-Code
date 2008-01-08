@@ -12,11 +12,11 @@
 
 #### Repeal of Section
 
-<i>Pub. L. 108–422, title IV, §411(c)(1),(f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that this section is repealed effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Con</i><i>gress that the Secretary is in compliance with section 1710B(b) of this title.</i>
+<i>Pub. L. 108–422, title IV, §411(c)(1),(f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that this section is repealed effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title.</i>
 
 #### References in Text
 
-Section 8122(a)(2) of this title, referred to in subsec. (a)(1), was amended generally by Pub. L. 108–422, title IV, §411(e)(1), Nov. 30, 2004, 118 Stat. 2389, and, as so amended, no longer contains a subpar. (C).
+Section 8122(a)(2) of this title, referred to in subsec. (a)(1), was amended generally by Pub. L. 108–422, titleIV, §411(e)(1), Nov. 30, 2004, 118 Stat. 2389, and, as so amended, no longer contains a subpar. (C).
 
 #### Amendments
 

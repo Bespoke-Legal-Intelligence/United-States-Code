@@ -32,7 +32,7 @@ Pars. (3), (4). Pub. L. 108–36, §301(8), redesignated pars. (4) and (5) as (3
 
 Par. (5). Pub. L. 108–36, §301(8), redesignated par. (8) as (5). Former par. (5) redesignated (4).
 
-Pub. L. 108–36, §301(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “trainingis inadequate for foster care personnel working with medically fragile infants and young children and infants and young children exposed to drugs;”.
+Pub. L. 108–36, §301(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “training is inadequate for foster care personnel working with medically fragile infants and young children and infants and young children exposed to drugs;”.
 
 Pars. (6), (7). Pub. L. 108–36, §301(4), (8), redesignated pars. (9) and (10) as (6) and (7), respectively, and struck out former pars. (6) and (7) which read as follows:
 

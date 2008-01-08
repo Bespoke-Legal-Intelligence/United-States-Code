@@ -48,7 +48,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (8) Federally owned housing
 
-&emsp;The term “federally owned housing” means residential dwellings owned or managed by a Federal agency, or for which a Federal agency is a trustee or conservator. For the purpose of this paragraph, the term “Federal agency” includes the Department of Housing and Urban Development, the Farmers Home Administration, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the General Services Administration, the Department of Defense, the Department of Veterans Affairs, the Department of the Interior, the Department of Transportation, and any other Federal agency.
+&emsp;The term “federally owned housing” means residential dwellings owned or managed by a Federal agency, or for which a Federal agencyis a trustee or conservator. For the purpose of this paragraph, the term “Federal agency” includes the Department of Housing and Urban Development, the Farmers Home Administration, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the General Services Administration, the Department of Defense, the Department of Veterans Affairs, the Department of the Interior, the Department of Transportation, and any other Federal agency.
 
 #### (9) Federally supported work
 
@@ -128,7 +128,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (25) Risk assessment
 
-&emsp;The term “risk assessment” means an on-site investigation to determine and report the existence, nature, severity and location of lead-based paint hazards in residential dwellings, including—
+&emsp;The term “risk assessment” means an on-site investigation to determine and report theexistence, nature, severity and location of lead-based paint hazards in residential dwellings, including—
 
 &emsp;&emsp;(A) information gathering regarding the age and history of the housing and occupancy by children under age 6;
 

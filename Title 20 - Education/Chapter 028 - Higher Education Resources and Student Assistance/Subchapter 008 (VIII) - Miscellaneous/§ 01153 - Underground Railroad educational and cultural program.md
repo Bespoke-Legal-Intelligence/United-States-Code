@@ -14,7 +14,7 @@ Each nonprofit educational organization awarded a grant under this section shall
 
 &emsp;(3) to create an endowment to fund any and all shortfalls in the costs of the on-going operations of the facility;
 
-&emsp;(4) to establish a network of satellite centers throughout the United States to help disseminate information regarding the UndergroundRailroad throughout the United States, if such satellite centers raise 80 percent of the funds required to establish the satellite centers from non-Federal public and private sources;
+&emsp;(4) to establish a network of satellite centers throughout the United States to help disseminate information regarding the Underground Railroad throughout the United States, if such satellite centers raise 80 percent of the funds required to establish the satellite centers from non-Federal public and private sources;
 
 &emsp;(5) to establish the capability to electronically link the facility with other local and regional facilities that have collections and programs which interpret the history of the Underground Railroad; and
 
@@ -30,7 +30,7 @@ Each nonprofit educational organization awarded a grant under this section shall
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $6,000,000 for fiscal year 1999, $6,000,000 for fiscal year 2000, $6,000,000 for fiscal year 2001, $3,000,000 for fiscal year 2002, and $3,000,000 for fiscal year 2003.
+There are authorized to be appropriated to carry out this section $6,000,000 for fiscal year1999, $6,000,000 for fiscal year 2000, $6,000,000 for fiscal year 2001, $3,000,000 for fiscal year 2002, and $3,000,000 for fiscal year 2003.
 
 (Pub. L. 105–244, title VIII, §841, Oct. 7, 1998, 112 Stat. 1820.)
 

@@ -100,7 +100,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (3) Floor stocks refunds
 
-&emsp;The Secretary shall pay from time to time from the Highway Trust Fund into the generalfund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2012, under section 6412(a).
+&emsp;The Secretary shall pay from time to time from the Highway Trust Fund into the general fund of the Treasury amounts equivalent to the floor stocks refunds made before July 1, 2012, under section 6412(a).
 
 #### (4) Transfers from the Trust Fund for motorboat fuel taxes
 
@@ -142,9 +142,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;&emsp;For purposes of this paragraph, the term “small-engine fuel taxes” means the taxes under section 4081 with respect to gasoline used as a fuel in the nonbusiness use of small-engine outdoor power equipment, but only to the extent such taxes are deposited into the Highway Trust Fund.
 
-#### \[(6) Repealed. Pub. L. 105–178, title IX, §9011(b)(1), June 9, 1998, 112 Stat. 508\]
-
-#### (7) Transfers from the Trust Fund for certain aviation fuel taxes
+#### (6) Transfers from the Trust Fund for certain aviation fuel taxes
 
 &emsp;The Secretary shall pay at least monthly from the Highway Trust Fund into the Airport and Airway Trust Fund amounts (as determined by the Secretary) equivalent to the taxes received on or after October 1, 2005, and before October 1, 2011, under section 4081 with respect to so much of the rate of tax as does not exceed—
 
@@ -152,7 +150,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;&emsp;(B) 21.8 cents per gallon of kerosene subject to section 6427(<i>l</i>)(4)(B) with respect to which a payment has been made by the Secretary under section 6427(<i>l</i>).
 
-> &emsp;Transfers under the preceding sentence shall be made on the basis of estimates by the Secretary, and proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred. Any amount allowed as a credit under section 34 by reason of paragraph (4) of section 6427(<i>l</i>) shall be treated for purposes of subparagraphs (A) and (B) as a payment made by the Secretary under such paragraph.
+> &emsp;Transfers under the preceding sentence shall be made on the basis of estimates by the Secretary, and proper adjustments shall be made in the amounts subsequently transferred tothe extent prior estimates were in excess of or less than the amounts required to be transferred. Any amount allowed as a credit under section 34 by reason of paragraph (4) of section 6427(<i>l</i>) shall be treated for purposes of subparagraphs (A) and (B) as a payment made by the Secretary under such paragraph.
 
 #### (d) Adjustments of apportionments
 
@@ -176,7 +174,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (A) Determination of percentage
 
-&emsp;&emsp;If, before any apportionment to the States is made, in the most recent estimate made by the Secretary of the Treasury there is anexcess referred to in paragraph (2)(B), the Secretary of Transportation shall determine the percentage which—
+&emsp;&emsp;If, before any apportionment to the States is made, in the most recent estimate made by the Secretary of the Treasury there is an excess referred to in paragraph (2)(B), the Secretary of Transportation shall determine the percentage which—
 
 &emsp;&emsp;&emsp;(i) the excess referred to in paragraph (2)(B), is of
 
@@ -222,7 +220,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (7) Reports
 
-&emsp;Any estimate under paragraph (1) and any determination under paragraph (2) shall be reported by the Secretary of the Treasury to the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, the Committees on the Budget of both Houses, the Committee on Public Works and Transportation of the House of Representatives, and the Committee on Environment and Public Works of the Senate.
+&emsp;Any estimate under paragraph (1) and any determination under paragraph (2) shall be reported by the Secretary of the Treasury to the Committee on Ways and Means of the House ofRepresentatives, the Committee on Finance of the Senate, the Committees on the Budget of both Houses, the Committee on Public Works and Transportation of the House of Representatives, and the Committee on Environment and Public Works of the Senate.
 
 #### (e) Establishment of Mass Transit Account
 
@@ -272,7 +270,7 @@ For purposes of determining the balances of the Highway Trust Fund and the Mass 
 
 > The Secretary shall cancel obligations held by the Highway Trust Fund to reflect the reduction in the balance under this subsection.
 
-(Added Pub. L. 97–424, title V, §531(a), Jan. 6, 1983, 96 Stat. 2187; amended Pub. L. 98–369, div. A, title IV, §474(r)(43), title IX, §911(d)(1), title X, §1016(b), July 18, 1984, 98 Stat. 847, 1006, 1020; Pub. L. 99–499, title V, §521(b)(1), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–640, §7(a), Nov. 10, 1986, 100 Stat. 3547; Pub. L. 100–17, title V, §§503(a), (b), 504, Apr. 2, 1987, 101 Stat. 257, 258; Pub. L. 100–203, title X, §10502(d)(13)–(15), Dec. 22, 1987, 101 Stat. 1330–444, 1330–445; Pub. L. 100–448, §6(a)(1), (3), Sept. 28, 1988, 102 Stat. 1839; Pub. L. 101–239, title VII, §7822(b)(6), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §11211(a)(5)(D)–(F), (b)(6)(H), (g)(1), (h)(1), (i)(1), Nov. 5, 1990, 104 Stat. 1388–424, 1388–426, 1388–427; Pub. L. 102–240, title VIII, §§8002(d)(1), (2)(A), (e), (f), 8003(b), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 103–66, title XIII, §§13242(d)(34)–(41), 13244(a), Aug. 10, 1993, 107 Stat. 527, 529; Pub. L. 103–429, §4, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–34, title IX, §901(a)–(d), title X, §1032(e)(13), (14), title XVI, §1601(f)(2), Aug. 5, 1997, 111 Stat. 871, 872, 935, 1090; Pub. L. 105–102, §1, Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–130, §9(a), Dec. 1, 1997, 111 Stat. 2560; Pub. L. 105–178, title IX, §§9002(c)(1), (2)(A), (3)–(e)(1), (f), 9004(a)(1), (b)(1), (c), (d), 9005(a), 9011(b)(1), (2), June 9, 1998, 112 Stat. 500, 501, 503, 504, 508; Pub. L. 105–206, title IX, §9015(a), July 22, 1998, 112 Stat. 867; Pub. L. 105–225, §7(a), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 105–277, div. A, title IV, §4006(b)(1), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 105–354, §2(c)(2), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–554, §1(a)(7) \[title III, §318(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–88, §12(a), Sept. 30, 2003, 117 Stat. 1128; Pub. L. 108–202, §12(a), Feb. 29, 2004, 118 Stat. 491; Pub. L. 108–224, §10(a), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §10(a), June 30, 2004, 118 Stat. 710; Pub. L. 108–280, §10(a)(1)–(3), July 30, 2004, 118 Stat. 887; Pub. L. 108–310, §13(a)(1)–(3), (c), Sept. 30, 2004, 118 Stat. 1163, 1164; Pub. L. 108–357, title III, §301(c)(11)–(13), title VIII, §868(a), (b), Oct. 22, 2004, 118 Stat. 1462, 1463, 1622; Pub. L. 109–14, §9(a), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §9(a), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §9(a), July 20, 2005, 119 Stat. 390; Pub. L. 109–37, §9(a), July 22, 2005, 119 Stat. 405; Pub. L. 109–40, §9(a), July 28, 2005, 119 Stat. 421; Pub. L. 109–42, §7(a), (d)(1), July 30, 2005, 119 Stat. 436, 438; Pub. L. 109–59, title XI, §§11101(c)(1), (2)(A), (d)(1), 11102(a), (b), 11115(a), 11161(c)(1), (2)(C), 11167(b), Aug. 10, 2005, 119 Stat. 1944, 1945, 1949, 1972, 1977; Pub. L. 109–432, div. A, title IV, §420(b)(6), Dec. 20, 2006, 120 Stat. 2969.)
+(Added Pub. L. 97–424, title V, §531(a), Jan. 6, 1983, 96 Stat. 2187; amended Pub. L. 98–369, div. A, title IV, §474(r)(43), title IX, §911(d)(1), title X, §1016(b), July 18, 1984, 98 Stat. 847, 1006, 1020; Pub. L. 99–499, title V, §521(b)(1), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–640, §7(a), Nov. 10, 1986, 100 Stat. 3547; Pub. L. 100–17, title V, §§503(a), (b), 504, Apr. 2, 1987, 101 Stat. 257, 258; Pub. L. 100–203, title X, §10502(d)(13)–(15), Dec. 22, 1987, 101 Stat. 1330–444, 1330–445; Pub. L. 100–448, §6(a)(1), (3), Sept. 28, 1988, 102 Stat. 1839; Pub. L. 101–239, title VII, §7822(b)(6), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §11211(a)(5)(D)–(F), (b)(6)(H), (g)(1), (h)(1), (i)(1), Nov. 5, 1990, 104 Stat. 1388–424, 1388–426, 1388–427; Pub. L. 102–240, title VIII, §§8002(d)(1), (2)(A), (e), (f), 8003(b), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 103–66, title XIII, §§13242(d)(34)–(41), 13244(a), Aug. 10, 1993, 107 Stat. 527, 529; Pub. L. 103–429, §4, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–34, title IX, §901(a)–(d), title X, §1032(e)(13), (14), title XVI, §1601(f)(2), Aug. 5, 1997, 111 Stat. 871, 872, 935, 1090; Pub. L. 105–102, §1, Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–130, §9(a), Dec. 1, 1997, 111 Stat. 2560; Pub. L. 105–178, title IX, §§9002(c)(1), (2)(A), (3)–(e)(1), (f), 9004(a)(1), (b)(1), (c), (d), 9005(a), 9011(b)(1), (2), June 9, 1998, 112 Stat. 500, 501, 503, 504, 508; Pub. L. 105–206, title IX, §9015(a), July 22, 1998, 112 Stat. 867; Pub. L. 105–225, §7(a), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 105–277, div. A, title IV, §4006(b)(1), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 105–354, §2(c)(2), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–554, §1(a)(7) \[title III, §318(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–88, §12(a), Sept. 30, 2003, 117 Stat. 1128; Pub. L. 108–202, §12(a), Feb. 29, 2004, 118 Stat. 491; Pub. L. 108–224, §10(a), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §10(a), June 30, 2004, 118 Stat. 710; Pub. L. 108–280, §10(a)(1)–(3), July 30, 2004, 118 Stat. 887; Pub. L. 108–310, §13(a)(1)–(3), (c), Sept. 30, 2004, 118 Stat. 1163, 1164; Pub. L. 108–357, title III, §301(c)(11)–(13), title VIII, §868(a), (b), Oct. 22, 2004, 118 Stat. 1462, 1463, 1622; Pub. L. 109–14, §9(a), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §9(a), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §9(a), July 20, 2005, 119 Stat. 390; Pub. L. 109–37, §9(a), July 22, 2005, 119 Stat. 405; Pub. L. 109–40, §9(a), July 28, 2005, 119 Stat. 421; Pub. L. 109–42, §7(a), (d)(1), July 30, 2005, 119 Stat. 436, 438; Pub. L. 109–59, title XI, §§11101(c)(1), (2)(A), (d)(1), 11102(a), (b), 11115(a), 11161(c)(1), (2)(C), 11167(b), Aug. 10, 2005, 119 Stat. 1944, 1945, 1949, 1972, 1977;Pub. L. 109–432, div. A, title IV, §420(b)(6), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §11(a)(44), Dec. 29, 2007, 121 Stat. 2488.)
 
 #### References in Text
 
@@ -280,7 +278,7 @@ The Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy f
 
 The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (c)(1), means the provisions of law referred to in subsec. (c)(1) before the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005. Those provisions are section 209 of the Highway Revenue Act of 1956, titles I and II of the Surface Transportation Assistance Act of 1982, the Surface Transportation and Uniform Relocation Assistance Act of 1987, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, and the Surface Transportation Extension Act of 2005, Part VI. See notes below.
 
-The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (e)(3), means the provisions of law referred to in subsec. (e)(3) before the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005. Those provisions are section 5338(a)(1) and (b)(1) of title 49, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003,the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, and the Surface Transportation Extension Act of 2005, Part VI. See notes above.
+The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (e)(3), means the provisions of law referred to in subsec. (e)(3) before the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005. Those provisions are section 5338(a)(1) and (b)(1) of title 49, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, and the Surface Transportation Extension Act of 2005, Part VI. See notes above.
 
 Section 209 of the Highway Revenue Act of 1956, referred to in former subsec. (c)(1), is section 209 of act June 29, 1956, ch. 462, title II, 70 Stat. 397, which was set out as a note under section 120 of Title 23, Highways. Section 209 was repealed, except for subsection (b) thereof, by Pub. L. 97–424, title V, §531(b), Jan. 6, 1983, 96 Stat. 2191.
 
@@ -314,11 +312,13 @@ The Surface Transportation Extension Act of 2005, Part IV, referred to in former
 
 The Surface Transportation Extension Act of 2005, Part V, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–40, July 28, 2005, 119 Stat. 410. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 101 of Title 23, Highways, and tables.
 
-The Surface Transportation Extension Act of 2005, Part VI, referred to in former subsecs. (c)(1) and (e)(3), is Pub. L. 109–42, July 30, 2005, 119 Stat. 435. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 101 of Title 23, Highways, and tables.
+The Surface Transportation Extension Act of 2005, Part VI, referred to in former subsecs. (c)(1) and (e)(3),is Pub. L. 109–42, July 30, 2005, 119 Stat. 435. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 101 of Title 23, Highways, and tables.
 
 The Land and Water Conservation Fund Act of 1965, referred to in subsec. (c)(4)(A)(i), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended. Title I of that Act is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of Title 16 and Tables.
 
 #### Amendments
+
+2007—Subsec. (c)(6), (7). Pub. L. 110–172 redesignated par. (7) as (6).
 
 2006—Subsec. (c)(7). Pub. L. 109–432, §420(b)(6)(B), struck out “or (5)” after “paragraph (4)” in concluding provisions.
 
@@ -534,7 +534,7 @@ Subsec. (b)(6). Pub. L. 105–178, §9004(c), added par. (6).
 
 Subsec. (c)(1). Pub. L. 105–178, §9002(f)(4), as added by Pub. L. 105–206, §9015(a), substituted “the date of the enactment of the TEA 21 Restoration Act” for “the date of enactment of the Transportation Equity Act for the 21st Century” in concluding provisions.
 
-Pub. L. 105–178, §9002(d)(1), substituted “2003” for “1998” in introductory provisions, added subpar. (E), and substituted in concluding provisions “In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of enactment of the Transportation Equity Act for the 21st Century.” for “In determining the authorizations under the Acts referred to inthe preceding subparagraphs, such Acts shall be applied as in effect on the date of the enactment of this sentence.”
+Pub. L. 105–178, §9002(d)(1), substituted “2003” for “1998” in introductory provisions, added subpar. (E), and substituted in concluding provisions “In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of enactment of the Transportation Equity Act for the 21st Century.” for “In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of the enactment of this sentence.”
 
 Subsec. (c)(2)(A)(i). Pub. L. 105–178, §9002(c)(1), substituted “2006” for “2000” in introductory provisions and “2005” for “1999” in concluding provisions.
 
@@ -614,7 +614,7 @@ Subsec. (e)(3). Pub. L. 105–130, §9(a)(2)(A), substituted “1998” for “1
 
 Pub. L. 105–130, §9(a)(2)(B), which directed substitution of “the enactment of the last sentence of subsection (c)(1)” for “the enactment of the Intermodal Surface Transportation Efficiency Act of 1991”, could not be executed because the words “the enactment of the Intermodal Surface Transportation Efficiency Act of 1991” did not appear subsequent to the amendment by Pub. L. 105–102. See below.
 
-Pub. L. 105–102, in concluding provisions, substituted “section 5338(a)(1) or (b)(1) and the Intermodal Surface Transportation Efficiency Act of 1991 were in effect onDecember 18, 1991” for “such Acts are in effect on the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991.”
+Pub. L. 105–102, in concluding provisions, substituted “section 5338(a)(1) or (b)(1) and the Intermodal Surface Transportation Efficiency Act of 1991 were in effect on December 18, 1991” for “such Acts are in effect on the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991.”
 
 Subsec. (e)(5)(A). Pub. L. 105–34, §1601(f)(2)(B), struck out “; except that any such transfers to the extent attributable to section 6427(g) shall be borne only by the Highway Account” before period at end.
 
@@ -682,7 +682,7 @@ Subsec. (c)(4)(E). Pub. L. 100–448, §6(a)(1)(B), struck out “Further, a por
 
 1987—Subsec. (b). Pub. L. 100–17, §503(a), substituted “1993” for “1988” wherever appearing, and substituted “1994” for “1989” in par. (2).
 
-Subsec. (b)(1)(F). Pub. L. 100–203, §10502(d)(13), added subpar. (F) and struck out former subpar. (F) which read as follows: “section 4091 (relating to tax on lubricating oil), and”.
+Subsec. (b)(1)(F). Pub. L. 100–203, §10502(d)(13), added subpar. (F) and struck out former subpar. (F) whichread as follows: “section 4091 (relating to tax on lubricating oil), and”.
 
 Subsec. (b)(4). Pub. L. 100–203, §10502(d)(14), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “For purposes of paragraphs (1) and (2), there shall not be taken into account the taxes imposed by section 4041(d) and so much of the taxes imposed by section 4081 as is attributable to the Leaking Underground Storage Tank Trust Fund financing rate.”
 
@@ -876,5 +876,5 @@ Pub. L. 108–280, §10(a)(4), July 30, 2004, 118 Stat. 887, which provided for 
 
 #### Report on Nonhighway Recreational Fuel Taxes
 
-Section 8003(d) of Pub. L. 102–240 provided that: “The Secretary of the Treasury shall, within a reasonable period after the close of each of fiscal years 1992 through 1996, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate specifying his estimate of the amount of nonhighway recreational fuel taxes (as defined in section 9503(c)(6) of the Internal Revenue Code of 1986, as added by this Act) received in the Treasury during such fiscal year.”
+Pub. L. 102–240, title VIII, §8003(d), Dec. 18, 1991, 105 Stat. 2206, provided that: “The Secretary of the Treasury shall, within a reasonable period after the close of each of fiscal years 1992 through 1996, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate specifying his estimate of the amount of nonhighway recreational fuel taxes (as defined in \[former\] section 9503(c)(6) of the Internal Revenue Code of 1986, as added by this Act) received in the Treasury during such fiscal year.”
 

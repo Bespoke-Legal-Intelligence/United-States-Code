@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Medicare Payment Advisory Commission (in this section referred to as the “Commission”).
+There is hereby established as an agency of Congress the Medicare Payment Advisory Commission (in this section referred to as the “Commission”).
 
 #### (b) Duties
 
@@ -16,7 +16,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 &emsp;&emsp;(C) by not later than March 1 of each year (beginning with 1998), submit a report to Congress containing the results of such reviews and its recommendations concerning such policies; and
 
-&emsp;&emsp;(D) by not later than June 15 of each year, submit a report to Congress containing an examination of issues affecting the medicare program, including the implications of changes in health care delivery in the United States and in the market for health care services on the medicare program and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title.
+&emsp;&emsp;(D) by not later than June 15 of each year, submit a report to Congress containing an examination of issues affecting the medicare program, including the implications ofchanges in health care delivery in the United States and in the market for health care services on the medicare program and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title.
 
 #### (2) Specific topics to be reviewed
 
@@ -40,7 +40,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 &emsp;&emsp;Specifically, the Commission shall review payment policies under parts A and B of this subchapter, including—
 
-&emsp;&emsp;&emsp;(i) the factors affecting expenditures for the efficient provision of services in different sectors, including the process forupdating hospital, skilled nursing facility, physician, and other fees,
+&emsp;&emsp;&emsp;(i) the factors affecting expenditures for the efficient provision of services in different sectors, including the process for updating hospital, skilled nursing facility, physician, and other fees,
 
 &emsp;&emsp;&emsp;(ii) payment methodologies, and
 
@@ -88,7 +88,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (B) Inclusion
 
-&emsp;&emsp;The membership of the Commission shall include (but not be limited to) physicians and other health professionals, experts in the area of pharmaco-economics or prescription drug benefit programs, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shall also include representatives of consumers and the elderly.
+&emsp;&emsp;The membership of the Commission shall include (but not be limited to) physicians and other health professionals, experts inthe area of pharmaco-economics or prescription drug benefit programs, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shall also include representatives of consumers and the elderly.
 
 #### (C) Majority nonproviders
 
@@ -110,7 +110,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (4) Compensation
 
-&emsp;While serving on the business of the Commission (including traveltime), a member ofthe Commission shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of the Commission. Physicians serving as personnel of the Commission may be provided a physician comparability allowance by the Commission in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate.
+&emsp;While serving on the business of the Commission (including traveltime), a member of the Commission shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of the Commission. Physicians serving as personnel of the Commission may be provided a physician comparability allowance by the Commission in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate.
 
 #### (5) Chairman; Vice Chairman
 
@@ -154,7 +154,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 #### (3) Access of GAO to information
 
-&emsp;The Comptroller General shall have unrestricted access to all deliberations, records, and nonproprietary data of the Commission, immediately upon request.
+&emsp;The Comptroller General shall have unrestricted access to all deliberations, records,and nonproprietary data of the Commission, immediately upon request.
 
 #### (4) Periodic audit
 
@@ -170,7 +170,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354; Pub. L. 110–173, title III, §301, Dec. 29, 2007, 121 Stat. 2514.)
 
 #### References in Text
 
@@ -181,6 +181,8 @@ The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 110–173 inserted “as an agency of Congress” after “established”.
 
 2003—Subsec. (b)(2)(B)(i). Pub. L. 108–173, §735(b), inserted “the efficient provision of” after “expenditures for”.
 
@@ -232,7 +234,7 @@ Continuing responsibility for reports.—The MedPAC shall be responsible for the
 
 #### Appointment of Experts in Prescription Drugs
 
-Pub. L. 108–173, title VII, §735(e)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: “The Comptroller General of the United States shall ensure that the membership of the Commission \[Medicare Payment Advisory Commission\] complies with the amendment made by paragraph (1) \[amending this section\] with respect to appointments made on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title VII, §735(e)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: “The Comptroller General of the United States shall ensure that the membership of the Commission \[Medicare Payment Advisory Commission\] complies with the amendment made by paragraph\(1) \[amending this section\] with respect to appointments made on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
 
 #### MedPAC Analysis of Impact of Volume on Per Unit Cost of Rural Hospitals With Psychiatric Units
 
@@ -260,7 +262,7 @@ Report.—Not later than December 31, 2001, the Commission shall submit to Congr
 
 #### MedPAC Report
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, provided that: “The Medicare Payment Advisory Commission shall include in its report submitted to Congress in March of 2001 recommendations regarding the appropriateness of the initial residency period used under section 1886(h)(5)(F) of the Social Security Act (42 U.S.C. 1395ww(h)(5)(F)) for other residency training programsin a specialty that require preliminary years of study in another specialty.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, provided that: “The Medicare Payment Advisory Commission shall include in its report submitted to Congress in March of 2001 recommendations regarding the appropriateness of the initial residency period used under section 1886(h)(5)(F) of the Social Security Act (42 U.S.C. 1395ww(h)(5)(F)) for other residency training programs in a specialty that require preliminary years of study in another specialty.”
 
 #### MedPAC Study of Rural Providers
 

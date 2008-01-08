@@ -10,7 +10,7 @@
 
 &emsp;Each State, in the notice of termination of aid under part A of subchapter IV of this chapter sent to a family meeting the requirements of paragraph (1)—
 
-&emsp;&emsp;(A) shall notify the family of its right to extended medical assistance under this subsection and include in the notice a description of the reporting requirement of subsection (b)(2)(B)(i) of this section and of the circumstances (described in paragraph (3))under which such extension may be terminated; and
+&emsp;&emsp;(A) shall notify the family of its right to extended medical assistance under this subsection and include in the notice a description of the reporting requirement of subsection (b)(2)(B)(i) of this section and of the circumstances (described in paragraph (3)) under which such extension may be terminated; and
 
 &emsp;&emsp;(B) shall include a card or other evidence of the family's entitlement to assistance under this subchapter for the period provided in this subsection.
 
@@ -36,7 +36,7 @@
 
 #### (B) State medicaid “wrap-around” option
 
-&emsp;&emsp;A State, at its option, may pay a family's expenses for premiums, deductibles, coinsurance, and similar costs for health insurance or other health coverage offered by an employer of the caretaker relative or by an employer of the absent parent of a dependent child. In the case of such coverage offered by an employer of the caretaker relative—
+&emsp;&emsp;A State, at its option, may pay a family's expenses for premiums, deductibles, coinsurance, and similar costs for health insurance or other health coverage offered by an employer of the caretaker relative or by an employer of the absent parent of a dependentchild. In the case of such coverage offered by an employer of the caretaker relative—
 
 &emsp;&emsp;&emsp;(i) the State may require the caretaker relative, as a condition of extension of coverage under this subsection for the caretaker and the caretaker's family, to make application for such employer coverage, but only if—
 
@@ -114,7 +114,7 @@
 
 #### (i) Dependent children
 
-&emsp;&emsp;&emsp;With respect to a child who would cease to receive medical assistance because of subparagraph (A)(i) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI), (i)(VII), or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under suchsubparagraph until the State has determined that the child is not eligible for assistance under the plan.
+&emsp;&emsp;&emsp;With respect to a child who would cease to receive medical assistance because of subparagraph (A)(i) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI), (i)(VII), or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under such subparagraph until the State has determined that the child is not eligible for assistance under the plan.
 
 #### (ii) Medically needy
 
@@ -140,7 +140,7 @@
 
 #### (D) Alternative assistance
 
-&emsp;&emsp;At a State's option, the State may offer families a choice of health care coverage under one or more of the following, instead of the medical assistance otherwise made available under this subsection:
+&emsp;&emsp;At a State's option, the State may offer families a choice of health care coverageunder one or more of the following, instead of the medical assistance otherwise made available under this subsection:
 
 #### (i) Enrollment in family option of employer plan
 
@@ -184,7 +184,7 @@
 
 #### (A) Permitted
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter (including section 1396<i>o</i> of this title), a State may impose a premiumfor a family for additional extended coverage under this subsection for a premium payment period (as defined in subparagraph (D)(i)), but only if the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) for the premium base period exceed 100 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
+&emsp;&emsp;Notwithstanding any other provision of this subchapter (including section 1396<i>o</i> of this title), a State may impose a premium for a family for additional extended coverage under this subsection for a premium payment period (as defined in subparagraph (D)(i)), but only if the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) for the premium base period exceed 100 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
 #### (B) Level may vary by option offered
 

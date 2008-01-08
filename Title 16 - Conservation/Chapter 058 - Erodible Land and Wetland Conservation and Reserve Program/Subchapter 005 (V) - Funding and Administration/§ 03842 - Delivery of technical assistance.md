@@ -14,7 +14,7 @@ The Secretary shall provide technical assistance under this chapter to a produce
 
 &emsp;Not later than 180 days after May 13, 2002, the Secretary shall, by regulation, establish a system for—
 
-&emsp;&emsp;(A) approving individuals and entities to provide technical assistance to carry out programs under this chapter (including criteria for the evaluation of providers or potential providers of technical assistance); and
+&emsp;&emsp;(A) approving individuals and entities to provide technical assistance to carry outprograms under this chapter (including criteria for the evaluation of providers or potential providers of technical assistance); and
 
 &emsp;&emsp;(B) establishing the amounts and methods for payments for that assistance.
 

@@ -52,7 +52,7 @@ Subsec. (c)(1), (2). Pub. L. 101–239, §6103(e)(1)(D), substituted “the Agen
 
 Subsec. (a)(3). Pub. L. 98–551, §5(c)(1), (3), substituted “the National Center for Health Services Research and Health Care Technology Assessment or the National Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, or the National Center for Health Care Technology”.
 
-Subsec. (c)(1), (2). Pub. L. 98–551, §5(c)(1), (2), substituted “the National Center for Health Services Research and Health Care Technology Assessment and the National Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology”.
+Subsec. (c)(1), (2). Pub. L. 98–551, §5(c)(1), (2), substituted “the National Center for Health Services Research and Health Care Technology Assessment and theNational Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology”.
 
 1981—Subsec. (a)(3). Pub. L. 97–35, §918(a), substituted “may” for “shall”, “or the” for “and the”, “or using” for “and using”, and “or other” for “and other”.
 
@@ -112,7 +112,7 @@ Amendment of section by act Aug. 2, 1956, effective July 1, 1956, see section 50
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855,80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Commission on Systemic Interoperability
 

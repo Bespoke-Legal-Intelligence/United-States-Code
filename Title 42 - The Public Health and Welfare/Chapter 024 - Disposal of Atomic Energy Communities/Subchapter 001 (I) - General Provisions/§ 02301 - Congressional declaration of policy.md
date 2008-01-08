@@ -20,7 +20,7 @@ Section 1 of act Aug. 4, 1955, provided that: “This Act \[enacting this chapte
 
 #### Separability
 
-Section 119 of act Aug. 4, 1955, provided that: “If any provisions of this Act \[see Short Title note above\], or the application of such provision to any person or circumstances, is held invalid, the remainder of this Actor the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+Section 119 of act Aug. 4, 1955, provided that: “If any provisions of this Act \[see Short Title note above\], or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
 #### Transfer of Functions
 

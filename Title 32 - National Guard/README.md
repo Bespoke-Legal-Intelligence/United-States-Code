@@ -1,5 +1,5 @@
 
-32 U.S.C.<br>United States Code, 2006 Edition<br>Title 32 - NATIONAL GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
+32 U.S.C.<br>United States Code, 2007 Edition<br>Title 32 - NATIONAL GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 32—NATIONAL GUARD
 

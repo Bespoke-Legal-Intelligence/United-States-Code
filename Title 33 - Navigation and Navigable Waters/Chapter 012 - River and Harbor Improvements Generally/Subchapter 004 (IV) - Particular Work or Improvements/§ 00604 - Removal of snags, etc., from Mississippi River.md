@@ -16,7 +16,7 @@ The words “the sum of $100,000” are substituted for “the amounts appropria
 
 #### Amendments
 
-1954—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred in theremoval of snags, etc., as provided in this section, should accompany the annual report of the Chief of Engineers.
+1954—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred in the removal of snags, etc., as provided in this section, should accompany the annual report of the Chief of Engineers.
 
 #### Change of Name
 

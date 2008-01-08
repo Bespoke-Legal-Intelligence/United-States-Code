@@ -10,7 +10,7 @@ A parent who is a citizen of the United States (or, if the citizen parent has di
 
 &emsp;&emsp;(A) has (or, at the time of his or her death, had) been physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years; or
 
-&emsp;&emsp;(B) has (or, at the time of his or her death, had) a citizen parent who has been physically present in the United States or its outlying possessions for a period or periodstotaling not less than five years, at least two of which were after attaining the age of fourteen years.
+&emsp;&emsp;(B) has (or, at the time of his or her death, had) a citizen parent who has been physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years.
 
 &emsp;(3) The child is under the age of eighteen years.
 
@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 97–116, §18(n), added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–395 effective 120 days after Oct. 30, 2000, and applicable to individuals who satisfy the requirements of this section or section 1431 of this title as in effect on such effective date, see section 104 of Pub. L. 106–395, set out as a note under section 1431 of this title.
+Amendment by Pub. L. 106–395 effective 120 days after Oct. 30, 2000, and applicable to individuals who satisfy the requirements of this section or section 1431 of this title as in effect on such effective date, see section 104of Pub. L. 106–395, set out as a note under section 1431 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Application of 1994 Amendment
 

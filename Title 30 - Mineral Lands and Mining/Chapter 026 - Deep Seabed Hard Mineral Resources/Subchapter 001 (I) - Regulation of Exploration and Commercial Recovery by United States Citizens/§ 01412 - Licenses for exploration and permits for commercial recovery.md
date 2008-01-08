@@ -6,7 +6,7 @@ Subject to the provisions of this chapter, the Administrator shall issue to appl
 
 #### (b) Nature of licenses and permits
 
-(1) A license or permit issued under this subchapter shall authorize the holder thereof to engage in exploration or commercial recovery, as the case may be, consistent with the provisions of this chapter, the regulations issued by the Administrator to implement the provisions of this chapter, and the specific terms, conditions, and restrictions applied to the license or permit by the Administrator.
+(1) A license or permit issued under this subchapter shall authorize the holder thereof to engage in exploration or commercial recovery, as the case may be, consistent with the provisionsof this chapter, the regulations issued by the Administrator to implement the provisions of this chapter, and the specific terms, conditions, and restrictions applied to the license or permit by the Administrator.
 
 (2) Any license or permit issued under this subchapter shall be exclusive with respect to the holder thereof as against any other United States citizen or any citizen, national or governmental agency of, or any legal entity organized or existing under the laws of, any reciprocating state.
 

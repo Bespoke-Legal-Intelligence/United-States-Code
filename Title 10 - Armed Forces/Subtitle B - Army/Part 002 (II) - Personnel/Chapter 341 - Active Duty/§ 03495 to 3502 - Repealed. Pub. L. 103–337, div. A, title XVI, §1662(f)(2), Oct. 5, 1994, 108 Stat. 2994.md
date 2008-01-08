@@ -1,7 +1,5 @@
 ### \[§§3495 to 3502. Repealed. Pub. L. 103–337, div. A, title XVI, §1662(f)(2), Oct. 5, 1994, 108 Stat. 2994\]
 
-§3502
-
 Section 3495, act Aug. 10, 1956, ch. 1041, 70A Stat. 198, provided that members of Army National Guard of United States were not in active Federal service except when ordered thereto under law. See section 12401 of this title.
 
 Section 3496, act Aug. 10, 1956, ch. 1041, 70A Stat. 198, authorized President to order commissioned officers of Army National Guard of United States to active duty in National Guard Bureau. See section 12402(a), (b)(1) of this title.

@@ -28,3 +28,5 @@ Pub. L. 106–377, §1(a)(2) \[title I, §102\], Oct. 27, 2000, 114 Stat. 1441, 
 
 Pub. L. 106–60, title I, §102, Sept. 29, 1999, 113 Stat. 487.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

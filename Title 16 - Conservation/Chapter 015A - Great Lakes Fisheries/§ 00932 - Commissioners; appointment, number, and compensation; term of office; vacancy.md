@@ -20,7 +20,7 @@
 
 (3) Whenever a vacancy occurs among Commissioners appointed under subsection (a)(1)(B) of this section, the President shall appoint an individual to fill that vacancy for the remainder of the applicable term.
 
-(June 4, 1956, ch. 358, §3, 70 Stat. 242; Pub. L. 99–659, title IV, §405(a), Nov. 14, 1986, 100 Stat. 3737; Pub. L. 106–562, title III, §301, Dec. 23, 2000, 114 Stat. 2806.)
+(June 4, 1956, ch. 358, §3, 70 Stat. 242; Pub. L. 99–659, title IV, §405(a), Nov. 14, 1986, 100 Stat.3737; Pub. L. 106–562, title III, §301, Dec. 23, 2000, 114 Stat. 2806.)
 
 #### Amendments
 

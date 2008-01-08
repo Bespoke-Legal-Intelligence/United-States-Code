@@ -10,7 +10,7 @@
 
 #### (A) Extension of contract
 
-&emsp;&emsp;With respect to a contract that is modified under this section that provides for theplanting of hardwood trees, windbreaks, shelterbelts, or wildlife corridors, if the original term of the contract was less than 15 years, the owner or operator may extend the contract to a term of not to exceed 15 years.
+&emsp;&emsp;With respect to a contract that is modified under this section that provides for the planting of hardwood trees, windbreaks, shelterbelts, or wildlife corridors, if the original term of the contract was less than 15 years, the owner or operator may extend the contract to a term of not to exceed 15 years.
 
 #### (B) Cost share assistance
 

@@ -22,3 +22,7 @@ If, 1 year before the final planned flight of the Space Shuttle orbiter, the Uni
 
 (Pub. L. 109–155, title V, §501, Dec. 30, 2005, 119 Stat. 2927.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

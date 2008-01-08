@@ -6,7 +6,7 @@ The purposes of this chapter are—
 
 &emsp;(2) to strengthen international sanctions against the Castro government;
 
-&emsp;(3) to provide for the continued national security of the United States in the face of continuing threats from the Castro government of terrorism, theft of property from United States nationals by the Castro government,and the political manipulation by the Castro government of the desire of Cubans to escape that results in mass migration to the United States;
+&emsp;(3) to provide for the continued national security of the United States in the face of continuing threats from the Castro government of terrorism, theft of property from United States nationals by the Castro government, and the political manipulation by the Castro government of the desire of Cubans to escape that results in mass migration to the United States;
 
 &emsp;(4) to encourage the holding of free and fair democratic elections in Cuba, conducted under the supervision of internationally recognized observers;
 

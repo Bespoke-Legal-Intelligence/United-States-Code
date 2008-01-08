@@ -28,7 +28,7 @@ The Secretary shall ensure that activities under this section are coordinated as
 
 #### (d) “Traumatic brain injury” defined
 
-For purposes of this section, the term “traumatic brain injury” means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
+For purposes of this section, the term “traumatic brain injury” means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may includebrain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
 
 (July 1, 1944, ch. 373, title III, §393A, as added Pub. L. 104–166, §1, July 29, 1996, 110 Stat. 1445; amended Pub. L. 106–310, div. A, title XIII, §1301(a), Oct. 17, 2000, 114 Stat. 1137.)
 

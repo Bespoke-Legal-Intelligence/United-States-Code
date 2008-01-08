@@ -116,7 +116,7 @@ In subsection (a)(1), before clause (A), the words “each air carrier” are su
 
 In subsection (a)(2), before clause (B), the words “For purposes of this section” are omitted as unnecessary.
 
-In subsection (a)(3), the words “In carrying out this subsection” are substituted for “In implementing therequirement pursuant to the amendment made by subsection (a) of this section” for clarity and to eliminate unnecessary words.
+In subsection (a)(3), the words “In carrying out this subsection” are substituted for “In implementing the requirement pursuant to the amendment made by subsection (a) of this section” for clarity and to eliminate unnecessary words.
 
 In subsection (b), the word “imposing” is added for clarity. The words “imposed on air carriers under subsection (a)(1) and (2) of this section” are substituted for “imposed pursuant to the amendment made by subsection (a)” for clarity and because of the restatement.
 

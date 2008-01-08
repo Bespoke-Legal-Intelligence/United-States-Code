@@ -200,7 +200,7 @@ Reports.—Not later than 1 year after the date on which the State or the Denali
 
 &emsp;“(1) the Administrator;
 
-&emsp;“(2) the Committee on Resources of the House of Representatives;
+&emsp;“(2) the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives;
 
 &emsp;“(3) the Committee on Environment and Public Works of the Senate;
 

@@ -154,7 +154,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;The requirement of annual reevaluation under subparagraph (A) may be waived during a period in accordance with regulations in those cases in which the State administering agency determines that there is no reasonable expectation of improvement or significant change in an individual's condition during the period because of the severity of chronic condition, or degree of impairment of functional capacity of the individual involved.
+&emsp;&emsp;The requirement of annual reevaluation under subparagraph (A) may be waived during a period in accordance with regulations in those cases in which the State administering agency determines that there is noreasonable expectation of improvement or significant change in an individual's condition during the period because of the severity of chronic condition, or degree of impairment of functional capacity of the individual involved.
 
 #### (4) Continuation of eligibility
 
@@ -200,7 +200,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in close cooperation with the State administering agency, shall establish procedures for entering into, extending, and terminating PACE program agreementsfor the operation of PACE programs by entities that meet the requirements for a PACE provider under this section, section 1395eee of this title, and regulations.
+&emsp;&emsp;The Secretary, in close cooperation with the State administering agency, shall establish procedures for entering into, extending, and terminating PACE program agreements for the operation of PACE programs by entities that meet the requirements for a PACE provider under this section, section 1395eee of this title, and regulations.
 
 #### (B) Numerical limitation
 
@@ -308,7 +308,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the provider has failed to comply substantially with conditions for a program or provider under this section or section 1395eee of this title; and
 
-&emsp;&emsp;&emsp;(ii) the entity has failed to develop and successfully initiate, within 30 days of the date of the receipt of written notice of such a determination, a plan to correct the deficiencies, or has failed to continue implementation of such a plan.
+&emsp;&emsp;&emsp;(ii) the entity has failed to develop and successfully initiate, within 30 days of the date of the receipt of written notice ofsuch a determination, a plan to correct the deficiencies, or has failed to continue implementation of such a plan.
 
 #### (C) Termination and transition procedures
 
@@ -420,7 +420,7 @@ With respect to carrying out a PACE program under this section, the following re
 
 #### (i) Post-eligibility treatment of income
 
-A State may provide for post-eligibility treatment of income for individuals enrolled in PACEprograms under this section in the same manner as a State treats post-eligibility income for individuals receiving services under a waiver under section 1396n(c) of this title.
+A State may provide for post-eligibility treatment of income for individuals enrolled in PACE programs under this section in the same manner as a State treats post-eligibility income for individuals receiving services under a waiver under section 1396n(c) of this title.
 
 #### (j) Miscellaneous provisions
 
@@ -438,7 +438,7 @@ The Balanced Budget Act of 1997, referred to in subsecs. (a)(3)(B)(ii) and (g)(5
 
 Section 603(c) of the Social Security Amendments of 1983, referred to in subsec. (a)(7)(A), is section 603(c) of Pub. L. 98–21, title VI, Apr. 20, 1983, 97 Stat. 168, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 
-Section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985, referred to in subsec. (a)(7)(A), is section 9220 of Pub. L. 99–272, title IX, Apr. 7, 1986, 100 Stat. 183, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
+Section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985, referred to in subsec.\(a)(7)(A), is section 9220 of Pub. L. 99–272, title IX, Apr. 7, 1986, 100 Stat. 183, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 
 Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, referred to in subsecs. (a)(7)(B) and (e)(1)(B)(i), is section 9412(b) of Pub. L. 99–509, title IX, Oct. 21, 1986, 100 Stat. 2062, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 

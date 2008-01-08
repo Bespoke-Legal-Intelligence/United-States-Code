@@ -4,7 +4,7 @@
 
 If, during the 15-year period beginning on the date on which the Secretary publishes a determination pursuant to section 1775b(b) of this title, the State Agreement is invalidated by a court of competent jurisdiction, or if the gaming compact described in section 1775b(a)(1) of this title or any agreement between the State of Connecticut and the Mohegan Tribe to implement the compact is invalidated by a court of competent jurisdiction—
 
-&emsp;(1) the transfers, waivers, releases, relinquishments, and other commitments made by the Mohegan Tribe under section 1(a) of the State Agreement shall cease to be of any force or effect;
+&emsp;(1) the transfers, waivers, releases, relinquishments, and other commitments made bythe Mohegan Tribe under section 1(a) of the State Agreement shall cease to be of any force or effect;
 
 &emsp;(2) section 1775b of this title shall not apply to the lands or interests in lands or natural resources of the Mohegan Tribe or any of its members, and the title to the lands or interests in lands or natural resources shall be determined as if such section were never enacted; and
 

@@ -28,7 +28,7 @@
 
 The customs laws, referred to in subsec. (d), are classified generally to Title 19, Customs Duties.
 
-Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e), is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
+Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e),is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
 
 #### Amendments
 

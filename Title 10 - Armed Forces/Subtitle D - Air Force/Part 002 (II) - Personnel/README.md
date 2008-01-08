@@ -65,6 +65,7 @@ Pub. L. 90–235, §8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapte
 - [Chapter 855 - Hospitalization](Chapter%20855%20-%20Hospitalization/README.md)
 - [Chapter 857 - Decorations and Awards](Chapter%20857%20-%20Decorations%20and%20Awards/README.md)
 - [Chapter 859 - Repealed](Chapter%20859%20-%20Repealed/README.md)
+- [Chapter 860 - Repealed](Chapter%20860%20-%20Repealed/README.md)
 - [Chapter 861 - Separation for Various Reasons](Chapter%20861%20-%20Separation%20for%20Various%20Reasons/README.md)
 - [Chapter 863 - Repealed](Chapter%20863%20-%20Repealed/README.md)
 - [Chapter 865 - Repealed](Chapter%20865%20-%20Repealed/README.md)

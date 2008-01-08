@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall by one or more contracts establish and maintain a C.W. Bill Young Cell Transplantation Program (referred to in this section as the “Program”), successor to the National Bone Marrow Donor Registry, that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow and cord blood, and that meets the requirements of this section. The Secretary may award a separate contract to perform each of the major functions of the Program described in paragraphs (1) and (2) of subsection (d) of this section if deemed necessary by the Secretary to operate an effective and efficient system that is in the best interest of patients. The Secretary shall conduct a separate competition for the initial establishment of the cord blood functions of the Program. The Program shall be under the general supervision of the Secretary. The Secretary shall establish an Advisory Council to advise, assist, consult with, and make recommendations to the Secretary on matters related to the activities carried out by the Program. The members of the Advisory Council shall be appointed in accordance with the following:
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall by one or more contracts establish and maintain a C.W. Bill Young Cell Transplantation Program (referred to in this section as the “Program”), successor to the National Bone Marrow Donor Registry, that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow and cord blood, and that meets the requirements of this section. The Secretary may award a separate contract to perform each of the major functions of the Program described in paragraphs (1) and (2) of subsection (d) of this section if deemed necessary by the Secretary to operate an effective and efficient system that is in the best interest of patients. The Secretary shall conduct a separate competition for the initial establishment of the cord blood functions of the Program. The Program shall be under the general supervision of the Secretary. The Secretary shall establish an Advisory Council to advise,assist, consult with, and make recommendations to the Secretary on matters related to the activities carried out by the Program. The members of the Advisory Council shall be appointed in accordance with the following:
 
 &emsp;(1) Each member of the Advisory Council shall serve for a term of 2 years, and each such member may serve as many as 3 consecutive 2-year terms, except that—
 
@@ -124,7 +124,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 #### (1) Recruitment; priorities
 
-&emsp;The Program shall carry out activities for the recruitment of bone marrow donors. Such recruitment program shall identify populations that are underrepresented among potential donors enrolled with the Program. In the case of populations that are identified under the preceding sentence:
+&emsp;The Program shall carry out activities for the recruitment of bone marrow donors. Such recruitment program shall identify populations that are underrepresented among potential donors enrolled with the Program. Inthe case of populations that are identified under the preceding sentence:
 
 &emsp;&emsp;(A) The Program shall give priority to carrying out activities under this part to increase representation for such populations in order to enable a member of such a population, to the extent practicable, to have a probability of finding a suitable unrelated donor that is comparable to the probability that an individual who is not a member of an underrepresented population would have.
 
@@ -188,7 +188,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the recruitment program under paragraph (1), the Program shall support informational and educational activities in coordination with qualified cord blood banks and organ donation public awareness campaigns operated through the Department of Health and Human Services, for purposes of recruiting pregnant women to serve as donors of cord blood. Such information and educational activities shall include the following:
+&emsp;&emsp;In carrying out the recruitment program under paragraph (1), the Program shall support informational and educational activities in coordination with qualified cord blood banks and organ donation publicawareness campaigns operated through the Department of Health and Human Services, for purposes of recruiting pregnant women to serve as donors of cord blood. Such information and educational activities shall include the following:
 
 &emsp;&emsp;&emsp;(i) Making information available to the general public, including information describing the needs of patients with respect to cord blood units.
 
@@ -264,7 +264,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 #### (i) Comment procedures
 
-The Secretary shall establish and provide information to the public on procedures under which the Secretary shall receive and consider comments from interested persons relating to the manner in which the Program is carrying out the duties of the Program. The Secretary may promulgate regulations under this section.
+The Secretary shall establish and provide information to the public on procedures underwhich the Secretary shall receive and consider comments from interested persons relating to the manner in which the Program is carrying out the duties of the Program. The Secretary may promulgate regulations under this section.
 
 #### (j) Consultation
 
@@ -292,7 +292,7 @@ Entities eligible to receive a contract under this section shall include private
 
 #### (2) Examination of records
 
-&emsp;The Secretary and the Comptroller General of the United States shall have access to anybooks, documents, papers, and records of the recipient of a contract or subcontract entered into under this section that are pertinent to the contract, for the purpose of conducting audits and examinations.
+&emsp;The Secretary and the Comptroller General of the United States shall have access to any books, documents, papers, and records of the recipient of a contract or subcontract entered into under this section that are pertinent to the contract, for the purpose of conducting audits and examinations.
 
 #### (n) Penalties for disclosure
 
@@ -384,7 +384,7 @@ Requirements.—The Secretary shall require each recipient of a contract under t
 
 &emsp;“(4) to make cord blood units that are collected, but not appropriate for clinical use, available for peer-reviewed research;
 
-&emsp;“(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of thePublic Health Service Act (42 U.S.C. 274k(d)(3)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and
+&emsp;“(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of the Public Health Service Act (42 U.S.C. 274k(d)(3)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and
 
 &emsp;“(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act \[section 274<i>l</i> of this title\], as amended by this Act.
 

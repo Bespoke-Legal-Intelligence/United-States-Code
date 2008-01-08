@@ -36,7 +36,7 @@ Pub. L. 103–337, div. A, title XVI, §§1624, 1691(b)(1), Oct. 5, 1994, 108 St
 
 &emsp;“(A) on active duty for training;
 
-&emsp;“(B) on active duty under section 3038, 5143, 5144, 8038, 10211, 10301 through 10305, 10502, 10505, 10506(a), 10506(b), 10507, or 12402 of this title or section 708 of title 32;
+&emsp;“(B) on active duty under section 3038, 5143, 5144, 8038, 10211, 10301 through 10305, 10502, 10505, 10506(a),10506(b), 10507, or 12402 of this title or section 708 of title 32;
 
 &emsp;“(C) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
 
@@ -60,7 +60,7 @@ Par. (1)(F). Pub. L. 108–375, §501(d), which directed substitution of “sect
 
 Pub. L. 104–106 substituted “10502, 10505, 10506(a), 10506(b), 10507” for “10501”.
 
-1994—Par. (1)(B). Pub. L. 103–337, §1671(c)(5)(A), substituted “3038, 8038, 10211, 10301 through 10305, 10501, or12402” for “175, 265, 3021, 3038, 3040, 3496, 5251, 5252, 8021, 8038, or 8496”.
+1994—Par. (1)(B). Pub. L. 103–337, §1671(c)(5)(A), substituted “3038, 8038, 10211, 10301 through 10305, 10501, or 12402” for “175, 265, 3021, 3038, 3040, 3496, 5251, 5252, 8021, 8038, or 8496”.
 
 Par. (1)(C). Pub. L. 103–337, §1671(c)(5)(B), substituted “12301(d)” for “672(d)”.
 

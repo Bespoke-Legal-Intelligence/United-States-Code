@@ -50,7 +50,7 @@ Not later than 1 year after July 26, 1990, the Attorney General shall issue regu
 
 #### (c) Consistency with ATBCB guidelines
 
-Standards included in regulations issued under subsections (a) and (b) of this section shall beconsistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204 of this title.
+Standards included in regulations issued under subsections (a) and (b) of this section shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204 of this title.
 
 #### (d) Interim accessibility standards
 
@@ -60,7 +60,7 @@ Standards included in regulations issued under subsections (a) and (b) of this s
 
 #### (2) Vehicles and rail passenger cars
 
-&emsp;If final regulations have not been issued pursuant to this section, a private entity shall be considered to have complied with the requirements of this subchapter, if any, that a vehicle or rail passenger car be readily accessible to and usable by individuals with disabilities, if the design for such vehicle or car complies with the laws and regulations (including the Minimum Guidelines and Requirements for Accessible Design and such supplemental minimum guidelines as are issued under section 12204(a) of this title) governing accessibility of such vehicles or cars, to the extent that such laws and regulations are not inconsistent with this subchapter and are in effect at the time such design is substantially completed.
+&emsp;If final regulations have not been issued pursuant to this section, a private entity shall be considered to have complied with the requirements of this subchapter, if any, that a vehicle or rail passenger car be readily accessible to and usable by individuals with disabilities, if the design for such vehicle or car complies with the laws and regulations (including the Minimum Guidelines and Requirements for Accessible Design and such supplemental minimum guidelines as are issued under section12204(a) of this title) governing accessibility of such vehicles or cars, to the extent that such laws and regulations are not inconsistent with this subchapter and are in effect at the time such design is substantially completed.
 
 (Pub. L. 101–336, title III, §306, July 26, 1990, 104 Stat. 361; Pub. L. 104–59, title III, §341, Nov. 28, 1995, 109 Stat. 608.)
 

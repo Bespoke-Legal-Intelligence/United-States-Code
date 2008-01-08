@@ -50,7 +50,7 @@ Declaration of emergency.—An elected State or local government official or ele
 
 &emsp;(3)
 
-Incident report.—Within 30 days after the end of the declared emergency period the official who issued the emergency declaration shall file with the Field Administrator a report of each safety-related incident or accident that occurred during the emergency period involving—
+Incident report.—Within 30 days after the end of the declared emergency period theofficial who issued the emergency declaration shall file with the Field Administrator a report of each safety-related incident or accident that occurred during the emergency period involving—
 
 &emsp;&emsp;(A) a utility service vehicle driver to which the declaration applied; or
 
@@ -186,7 +186,7 @@ Pub. L. 105–178, title IV, §4027, June 9, 1998, 112 Stat. 417, provided that:
 
 “(a)
 
-Study.—The Secretary \[of Transportation\] shall conduct a study to determine the location and quantity of parking facilities at commercial truck stops and travel plazas and public rest areas that could be used by motor carriers to comply with Federal hours of service rules. The study shall include an inventory of current facilities serving the National Highway System,analyze where shortages exist or are projected to exist, and propose a plan to reduce the shortages. The study may be carried out in cooperation with research entities representing motor carriers, the travel plaza industry, and commercial motor vehicle drivers.
+Study.—The Secretary \[of Transportation\] shall conduct a study to determine the location and quantity of parking facilities at commercial truck stops and travel plazas and public rest areas that could be used by motor carriers to comply with Federal hours of service rules. The study shall include an inventory of current facilities serving the National Highway System, analyze where shortages exist or are projected to exist, and propose a plan to reduce the shortages. The study may be carried out in cooperation with research entities representing motor carriers, the travel plaza industry, and commercial motor vehicle drivers.
 
 “(b)
 

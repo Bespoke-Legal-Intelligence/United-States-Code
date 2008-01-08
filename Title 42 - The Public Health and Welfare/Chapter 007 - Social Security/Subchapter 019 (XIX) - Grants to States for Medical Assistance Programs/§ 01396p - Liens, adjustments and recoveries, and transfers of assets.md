@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(II) because an individual has received (or is entitled to receive) benefits under a long-term care insurance policy.
 
-&emsp;(iii) For purposes of this paragraph, the term “qualified State long-term care insurance partnership” means an approved State plan amendment under this subchapter that provides for the disregard of any assets or resources in an amount equal to the insurancebenefit payments that are made to or on behalf of an individual who is a beneficiary under a long-term care insurance policy if the following requirements are met:
+&emsp;(iii) For purposes of this paragraph, the term “qualified State long-term care insurance partnership” means an approved State plan amendment under this subchapter that provides for the disregard of any assets or resources in an amount equal to the insurance benefit payments that are made to or on behalf of an individual who is a beneficiary under a long-term care insurance policy if the following requirements are met:
 
 &emsp;&emsp;(I) The policy covers an insured who was a resident of such State when coverage first became effective under the policy.
 
@@ -170,7 +170,7 @@
 
 #### (c) Taking into account certain transfers of assets
 
-(1)(A) In order to meet the requirements of this subsection for purposes of section1396a(a)(18) of this title, the State plan must provide that if an institutionalized individual or the spouse of such an individual (or, at the option of a State, a noninstitutionalized individual or the spouse of such an individual) disposes of assets for less than fair market value on or after the look-back date specified in subparagraph (B)(i), the individual is ineligible for medical assistance for services described in subparagraph (C)(i) (or, in the case of a noninstitutionalized individual, for the services described in subparagraph (C)(ii)) during the period beginning on the date specified in subparagraph (D) and equal to the number of months specified in subparagraph (E).
+(1)(A) In order to meet the requirements of this subsection for purposes of section 1396a(a)(18) of this title, the State plan must provide that if an institutionalized individual or the spouse of such an individual (or, at the option of a State, a noninstitutionalized individual or the spouse of such an individual) disposes of assets for less than fair market value on or after the look-back date specified in subparagraph (B)(i), the individual is ineligible for medical assistance for services described in subparagraph (C)(i) (or, in the case of a noninstitutionalized individual, for the services described in subparagraph (C)(ii)) during the period beginning on the date specified in subparagraph (D) and equal to the number of months specified in subparagraph (E).
 
 (B)(i) The look-back date specified in this subparagraph is a date that is 36 months (or, in the case of payments from a trust or portions of a trust that are treated as assets disposed of by the individual pursuant to paragraph (3)(A)(iii) or (3)(B)(ii) of subsection (d) of this section or in the case of any other disposal of assets made on or after February 8, 2006, 60 months) before the date specified in clause (ii).
 
@@ -220,7 +220,7 @@
 
 &emsp;(ii) the State is named as such a beneficiary in the second position after the community spouse or minor or disabled child and is named in the first position if such spouse or a representative of such child disposes of any such remainder for less than fair market value.
 
-(G) For purposes of this paragraph with respect to a transfer of assets, the term “assets” includes an annuity purchased by or on behalf of an annuitant who has applied for medical assistance with respect to nursing facility services orother long-term care services under this subchapter unless—
+(G) For purposes of this paragraph with respect to a transfer of assets, the term “assets” includes an annuity purchased by or on behalf of an annuitant who has applied for medical assistance with respect to nursing facility services or other long-term care services under this subchapter unless—
 
 &emsp;(i) the annuity is—
 
@@ -270,7 +270,7 @@
 
 &emsp;&emsp;(iii) a sibling of such individual who has an equity interest in such home and who was residing in such individual's home for a period of at least one year immediately before the date the individual becomes an institutionalized individual; or
 
-&emsp;&emsp;(iv) a son or daughter of such individual (other than a child described in clause (ii)) who was residing in such individual's home for a period of at least two years immediately before the date the individual becomes an institutionalized individual, and who (as determined by the State) provided care to such individual which permitted such individual to reside at home rather than in such an institution or facility;
+&emsp;&emsp;(iv) a son or daughter of such individual (other than a child described in clause (ii)) who was residing in such individual's home for a period of at least two years immediately before the date the individual becomes an institutionalized individual, and who (as determined by the State) provided care to such individual which permittedsuch individual to reside at home rather than in such an institution or facility;
 
 &emsp;(B) the assets—
 
@@ -346,7 +346,7 @@
 
 &emsp;&emsp;(i) the trust is composed only of pension, Social Security, and other income to the individual (and accumulated income in the trust),
 
-&emsp;&emsp;(ii) the State will receive all amounts remaining in the trust upon the death of suchindividual up to an amount equal to the total medical assistance paid on behalf of the individual under a State plan under this subchapter; and
+&emsp;&emsp;(ii) the State will receive all amounts remaining in the trust upon the death of such individual up to an amount equal to the total medical assistance paid on behalf of the individual under a State plan under this subchapter; and
 
 &emsp;&emsp;(iii) the State makes medical assistance available to individuals described in section 1396a(a)(10)(A)(ii)(V) of this title, but does not make such assistance available to individuals for nursing facility services under section 1396a(a)(10)(C) of this title.
 
@@ -378,7 +378,7 @@
 
 #### (f) Disqualification for long-term care assistance for individuals with substantial home equity
 
-(1)(A) Notwithstanding any other provision of this subchapter, subject to subparagraphs (B) and (C) of this paragraph and paragraph (2), in determining eligibility of an individual for medical assistance with respect to nursing facility services or other long-term care services, the individual shall not be eligible for such assistance if the individual's equity interest in the individual's home exceeds $500,000.
+(1)(A) Notwithstanding any other provision of this subchapter, subject to subparagraphs (B)and (C) of this paragraph and paragraph (2), in determining eligibility of an individual for medical assistance with respect to nursing facility services or other long-term care services, the individual shall not be eligible for such assistance if the individual's equity interest in the individual's home exceeds $500,000.
 
 (B) A State may elect, without regard to the requirements of section 1396a(a)(1) of this title (relating to statewideness) and section 1396a(a)(10)(B) of this title (relating to comparability), to apply subparagraph (A) by substituting for “$500,000”, an amount that exceeds such amount, but does not exceed $750,000.
 
@@ -592,7 +592,7 @@ Section 13612(d) of Pub. L. 103–66 provided that:
 
 “(1)(A) Except as provided in subparagraph (B), the amendments made by this section \[amending this section\] shall apply to payments under title XIX of the Social Security Act \[this subchapter\] for calendar quarters beginning on or after October 1, 1993, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
-“(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements imposed by such amendments solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
+“(B) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements imposed by such amendments solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the closeof the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
 
 “(2) The amendments made by this section shall not apply to individuals who died before October 1, 1993.”
 
@@ -606,7 +606,7 @@ Amendment by Pub. L. 100–485 effective as if included in the enactment of the 
 
 Amendment by section 303(b) of Pub. L. 100–360 applicable to payments under this subchapter for calendar quarters beginning on or after July 1, 1988 (except in certain situations requiring State legislative action), without regard to whether or not final regulations to carry out such amendment have been promulgated by such date, and subsection (c) of this section, as amended by section 303(b) of Pub. L. 100–360, applicable to resources disposed of on or after July 1, 1988, but not applicable with respect to inter-spousal transfers occurring before Oct. 1, 1989, see section 303(g)(2), (5) of Pub. L. 100–360, set out as an Effective Date note under section 1396r–5 of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(<i>l</i>)(3)(I) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L.100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(<i>l</i>)(3)(I) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 

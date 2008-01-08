@@ -28,7 +28,7 @@ Findings and Purpose.—
 
 Findings.—The Congress finds the following:
 
-&emsp;&emsp;“(A) The United States Fish and Wildlife Service and Kenai Natives Association, Inc., have agreed to transfers of certain land rights, in and near the Kenai National Wildlife Refuge, negotiated as directed by Public Law 102–458 \[106 Stat. 2267\].
+&emsp;&emsp;“(A) The United States Fish and Wildlife Service and Kenai Natives Association, Inc., have agreed totransfers of certain land rights, in and near the Kenai National Wildlife Refuge, negotiated as directed by Public Law 102–458 \[106 Stat. 2267\].
 
 &emsp;&emsp;“(B) The lands to be acquired by the Service are within the area impacted by the Exxon Valdez oil spill of 1989, and these lands included important habitat for various species of fish and wildlife for which significant injury resulting from the spill has been documented through the EVOS Trustee Council restoration process. This analysis has indicated that these lands generally have value for the restoration of such injured natural resources as pink salmon, dolly varden, bald eagles, river otters, and cultural and archaeological resources. This analysis has also indicated that these lands generally have high value for the restoration of injured species that rely on these natural resources, including wilderness quality, recreation, tourism, and subsistence.
 
@@ -102,7 +102,7 @@ Lands to be conveyed to the united states.—The lands to be conveyed by KNA to 
 
 &emsp;&emsp;&emsp;“(vi) The conveyance of an access easement providing the United States and its assigns access across KNA's surface estate in the SW1/4 of section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska.
 
-&emsp;&emsp;&emsp;“(vii) The conveyance of approximately 100 acres within the Beaver Creek Patented Tract,which is contiguous to lands being retained by the United States contiguous to the Beaver Creek Patented Tract, in exchange for 280 acres of Service lands currently situated within the Beaver Creek Selected Tract.
+&emsp;&emsp;&emsp;“(vii) The conveyance of approximately 100 acres within the Beaver Creek Patented Tract, which is contiguous to lands being retained by the United States contiguous to the Beaver Creek Patented Tract, in exchange for 280 acres of Service lands currently situated within the Beaver Creek Selected Tract.
 
 &emsp;&emsp;“(B)
 
@@ -116,7 +116,7 @@ Lands to be conveyed to kna.—The rights provided or lands to be conveyed by th
 
 &emsp;&emsp;&emsp;“(II) The right to excavate within the subsurface estate as reasonably necessary for structures, utilities, transportation systems, and other development of the surface estate.
 
-&emsp;&emsp;&emsp;“(iv) The nonexclusive right to excavate within the subsurface estate as reasonably necessary for structures, utilities, transportation systems, and other development of the surface estate on the SW1/4, section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska, where the entire subsurface of the land is owned by the United States and which public lands shall continue to be withdrawn from mining following their removal from the Refuge boundary under paragraph (3)(A)(ii). The United States shall retain the ownership of all other sand and gravel located within the subsurface of this parcel.
+&emsp;&emsp;&emsp;“(iv) The nonexclusive right to excavate within the subsurface estate as reasonably necessary for structures, utilities, transportation systems, andother development of the surface estate on the SW1/4, section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska, where the entire subsurface of the land is owned by the United States and which public lands shall continue to be withdrawn from mining following their removal from the Refuge boundary under paragraph (3)(A)(ii). The United States shall retain the ownership of all other sand and gravel located within the subsurface of this parcel.
 
 &emsp;&emsp;&emsp;“(v) The surface estate of approximately 280 acres known as the Beaver Creek Selected Tract. This tract shall be conveyed to KNA in exchange for lands conveyed to the United States as described in paragraph (2)(A)(ii).
 
@@ -144,7 +144,7 @@ Removal of kna lands from the national wildlife refuge system.—
 
 &emsp;&emsp;&emsp;“(iii) The Secretary is authorized to acquire by purchase or exchange, on a willing seller basis only, any lands retained by or conveyed to KNA. In the event that any lands owned by KNA are subsequently acquired by the United States, they shall be automatically included in the Refuge System. The laws and regulations applicable to Refuge lands shall then apply to these lands and the Secretary shall then adjust the boundaries accordingly.
 
-&emsp;&emsp;&emsp;“(iv) Nothing in this section is intended to enlarge or diminish the authorities, rights, duties, obligations, or the property rights held by CIRI under the Terms and Conditions, or otherwise except as set forth in this section. In the event of the purchase by the United States of any lands from KNA in accordance with subparagraph (A)(ii), the United States shall reassume fromKNA the rights it previously held under the Terms and Conditions and the provisions in any patent implementing section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] will again apply.
+&emsp;&emsp;&emsp;“(iv) Nothing in this section is intended to enlarge or diminish the authorities, rights, duties, obligations, or the property rights held by CIRI under the Terms and Conditions, or otherwise except as set forth in this section. In the event of the purchase by the United States of any lands from KNA in accordance with subparagraph (A)(ii), the United States shall reassume from KNA the rights it previously held under the Terms and Conditions and the provisions in any patent implementing section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] will again apply.
 
 &emsp;&emsp;&emsp;“(v) By virtue of implementation of this section, CIRI is deemed entitled to 1,207 acres of in-lieu subsurface entitlement under section 12(a)(1) of ANCSA \[43 U.S.C. 1611(a)(1)\]. Such entitlement shall be fulfilled in accordance with paragraph 1(B)(2)(A) of the Terms and Conditions.
 
@@ -154,11 +154,11 @@ Maps and legal descriptions.—Maps and a legal description of the lands describ
 
 &emsp;&emsp;“(C)
 
-Acceptance.—KNA may accept the offer made in this section by notifying the Secretary in writing of its decision within 180 days of receipt of the offer. In the event the offer is rejected, the Secretary shall notify the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate.
+Acceptance.—KNA may accept the offer made in this section by notifying the Secretary in writing of its decision within 180 days of receipt of the offer. In the event the offer is rejected, the Secretary shall notify the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate.
 
 &emsp;&emsp;“(D)
 
-Final maps.—Not later than 120 days after the conclusion of the acquisition authorized by paragraph (1), the Secretary shall transmit a final report and maps accurately depicting the lands transferred and conveyed pursuant to this section and the acreage and legal descriptions of such lands to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate.
+Final maps.—Not later than 120 days after the conclusion of the acquisition authorized by paragraph (1), the Secretary shall transmit a final report and maps accurately depicting the lands transferred and conveyed pursuant to this section and the acreage and legal descriptions of such lands to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate.
 
 “(e)
 
@@ -200,7 +200,7 @@ Access.—The Secretary shall allow the following:
 
 &emsp;“(4)
 
-Secretarial order and maps.—The Secretary shall file with the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate, the Secretarial Order and maps setting forth the boundaries of the Area within 90 days of the completion of the acquisition authorized by this section. Once established, this Order may only be amended or revoked by Act of Congress.
+Secretarial order and maps.—The Secretary shall file with the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate, the Secretarial Order and maps setting forth the boundaries of the Area within 90 days of the completion of the acquisition authorized by this section. Once established, this Order may only be amended or revoked by Act of Congress.
 
 &emsp;“(5)
 

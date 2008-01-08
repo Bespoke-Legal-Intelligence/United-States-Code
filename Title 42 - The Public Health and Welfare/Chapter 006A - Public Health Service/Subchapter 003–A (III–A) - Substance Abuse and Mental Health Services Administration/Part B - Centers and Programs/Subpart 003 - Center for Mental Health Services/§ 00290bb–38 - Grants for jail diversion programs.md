@@ -18,7 +18,7 @@ The Secretary shall make up to 125 grants to States, political subdivisions of S
 
 #### (1) In general
 
-&emsp;To receive a grant under subsection (a) of this section, the chief executive of a State, chief executive of a subdivision of a State, Indian tribe or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary shall reasonably require.
+&emsp;To receive a grant under subsection (a) of this section, the chief executive of a State,chief executive of a subdivision of a State, Indian tribe or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary shall reasonably require.
 
 #### (2) Content
 
@@ -80,7 +80,7 @@ The programs described in subsection (a) of this section shall be evaluated not 
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year2001, and such sums as may be necessary for fiscal years 2002 through 2003.
+There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 through 2003.
 
 (July 1, 1944, ch. 373, title V, §520G, as added Pub. L. 106–310, div. B, title XXXII, §3210, Oct. 17, 2000, 114 Stat. 1201.)
 

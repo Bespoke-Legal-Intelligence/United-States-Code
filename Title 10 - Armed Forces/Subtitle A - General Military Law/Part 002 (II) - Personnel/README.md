@@ -24,7 +24,7 @@
 | [<b>51.</b>](Chapter%20051%20-%20Reserve%20Components%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md) | <b>Reserve Components: Standards and Procedures for Retention and Promotion</b> | <b>1001</b> |
 | [<b>53.</b>](Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031</b> |
 | [<b>54.</b>](Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md) | <b>Commissary and Exchange Benefits</b> | <b>1061</b> |
-| <b>55.</b> | <b>Medical and Dental Care</b> | <b>1071</b> |
+| [<b>55.</b>](Chapter%20055%20-%20Medical%20and%20Dental%20Care/README.md) | <b>Medical and Dental Care</b> | <b>1071</b> |
 | [<b>56.</b>](Chapter%20056%20-%20Department%20of%20Defense%20Medicare-Eligible%20Retiree%20Health%20Care%20Fund/README.md) | <b>Department of Defense Medicare-Eligible Retiree Health Care Fund</b> | <b>1111</b> |
 | [<b>57.</b>](Chapter%20057%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>1121</b> |
 | [<b>58.</b>](Chapter%20058%20-%20Benefits%20and%20Services%20for%20Members%20Being%20Separated%20or%20Recently%20Separated/README.md) | <b>Benefits and Services for Members Being Separated or Recently Separated</b> | <b>1141</b> |
@@ -95,7 +95,7 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 1981—Pub. L. 97–89, title VII, §701(a)(2), Dec. 4, 1981, 95 Stat. 1160, added item for chapter 83.
 
-1980—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, added item for chapter 32, substituted “531” for “541” as section number in item for chapter 33, substituted “34” for “35” as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted “Reserve Components: Standards and Procedures for Retention and Promotion” for “Retention of Reserves” in item for chapter 51, added item for chapter 60, substituted “1251” for “1255” as section number in item for chapter 63, substituted “Retirement of Warrant Officers” for “Retirement” in item for chapter 65, substituted “1370” for “1371” as section number in item for chapter 69, and amended item for chapter 73 to read: “Annuities Based on Retired or Retainer Pay”.
+1980—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, added item forchapter 32, substituted “531” for “541” as section number in item for chapter 33, substituted “34” for “35” as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted “Reserve Components: Standards and Procedures for Retention and Promotion” for “Retention of Reserves” in item for chapter 51, added item for chapter 60, substituted “1251” for “1255” as section number in item for chapter 63, substituted “Retirement of Warrant Officers” for “Retirement” in item for chapter 65, substituted “1370” for “1371” as section number in item for chapter 69, and amended item for chapter 73 to read: “Annuities Based on Retired or Retainer Pay”.
 
 1972—Pub. L. 92–425, §2, Sept. 21, 1972, 86 Stat. 711, amended item for chapter 73 by inserting “; Survivor Benefit Plan” after “Pay” which could not be executed as directed in view of amendment by Pub. L. 87–381. See 1961 Amendment note below.
 
@@ -108,8 +108,6 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 1962—Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40.
 
 1961—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Servicemen's Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
-
-&nbsp;
 
 1958—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “\[No present sections\]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
 
@@ -140,6 +138,7 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 - [Chapter 051 - Reserve Components Standards and Procedures for Retention and Promotion](Chapter%20051%20-%20Reserve%20Components%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md)
 - [Chapter 053 - Miscellaneous Rights and Benefits](Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md)
 - [Chapter 054 - Commissary and Exchange Benefits](Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md)
+- [Chapter 055 - Medical and Dental Care](Chapter%20055%20-%20Medical%20and%20Dental%20Care/README.md)
 - [Chapter 056 - Department of Defense Medicare-Eligible Retiree Health Care Fund](Chapter%20056%20-%20Department%20of%20Defense%20Medicare-Eligible%20Retiree%20Health%20Care%20Fund/README.md)
 - [Chapter 057 - Decorations and Awards](Chapter%20057%20-%20Decorations%20and%20Awards/README.md)
 - [Chapter 058 - Benefits and Services for Members Being Separated or Recently Separated](Chapter%20058%20-%20Benefits%20and%20Services%20for%20Members%20Being%20Separated%20or%20Recently%20Separated/README.md)
@@ -163,16 +162,3 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 - [Chapter 087 - Defense Acquisition Workforce](Chapter%20087%20-%20Defense%20Acquisition%20Workforce/README.md)
 - [Chapter 088 - Military Family Programs and Military Child Care](Chapter%20088%20-%20Military%20Family%20Programs%20and%20Military%20Child%20Care/README.md)
 - [Chapter 089 - Repealed](Chapter%20089%20-%20Repealed/README.md)
-- [Chapter 101 - Training Generally](Chapter%20101%20-%20Training%20Generally/README.md)
-- [Chapter 102 - Junior Reserve Officers&#8217; Training Corps](Chapter%20102%20-%20Junior%20Reserve%20Officers%E2%80%99%20Training%20Corps/README.md)
-- [Chapter 103 - Senior Reserve Officers&#8217; Training Corps](Chapter%20103%20-%20Senior%20Reserve%20Officers%E2%80%99%20Training%20Corps/README.md)
-- [Chapter 104 - Uniformed Services University of the Health Sciences](Chapter%20104%20-%20Uniformed%20Services%20University%20of%20the%20Health%20Sciences/README.md)
-- [Chapter 105 - Armed Forces Health Professions Financial Assistance Programs](Chapter%20105%20-%20Armed%20Forces%20Health%20Professions%20Financial%20Assistance%20Programs/README.md)
-- [Chapter 106 - Educational Assistance for Members of the Selected Reserve](Chapter%20106%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md)
-- [Chapter 106A - Educational Assistance for Persons Enlisting for Active Duty](Chapter%20106A%20-%20Educational%20Assistance%20for%20Persons%20Enlisting%20for%20Active%20Duty/README.md)
-- [Chapter 107 - Professional Military Education](Chapter%20107%20-%20Professional%20Military%20Education/README.md)
-- [Chapter 108 - Department of Defense Schools](Chapter%20108%20-%20Department%20of%20Defense%20Schools/README.md)
-- [Chapter 109 - Educational Loan Repayment Programs](Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md)
-- [Chapter 110 - Educational Assistance for Members Held as Captives and Their Dependents](Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md)
-- [Chapter 111 - Support of Science, Mathematics, and Engineering Education](Chapter%20111%20-%20Support%20of%20Science%2C%20Mathematics%2C%20and%20Engineering%20Education/README.md)
-- [Chapter 112 - Information Security Scholarship Program](Chapter%20112%20-%20Information%20Security%20Scholarship%20Program/README.md)

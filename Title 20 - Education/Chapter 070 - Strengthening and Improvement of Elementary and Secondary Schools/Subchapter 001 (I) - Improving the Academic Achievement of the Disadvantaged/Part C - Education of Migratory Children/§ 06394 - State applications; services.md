@@ -38,7 +38,7 @@ Each such application shall also include assurances, satisfactory to the Secreta
 
 &emsp;&emsp;(A) for programs and projects, including the acquisition of equipment, in accordance with section 6396 of this title; and
 
-&emsp;&emsp;(B) to coordinate such programs and projects with similar programs and projects within the State and in other States, as well as with other Federal programs that can benefit migratory children and their families;
+&emsp;&emsp;(B) to coordinate such programs and projects with similar programs and projectswithin the State and in other States, as well as with other Federal programs that can benefit migratory children and their families;
 
 &emsp;(2) such programs and projects will be carried out in a manner consistent with the objectives of section 6314 of this title, subsections (b) and (d) of section 6315 of this title, subsections (b) and (c) of section 6321 of this title, and part I of this subchapter;
 
@@ -50,7 +50,7 @@ Each such application shall also include assurances, satisfactory to the Secreta
 
 &emsp;(4) in planning and carrying out such programs and projects, there has been, and will be, adequate provision for addressing the unmet education needs of preschool migratory children;
 
-&emsp;(5) the effectiveness of such programs and projects will be determined, where feasible,using the same approaches and standards that will be used to assess the performance of students, schools, and local educational agencies under part A of this subchapter;
+&emsp;(5) the effectiveness of such programs and projects will be determined, where feasible, using the same approaches and standards that will be used to assess the performance of students, schools, and local educational agencies under part A of this subchapter;
 
 &emsp;(6) to the extent feasible, such programs and projects will provide for—
 

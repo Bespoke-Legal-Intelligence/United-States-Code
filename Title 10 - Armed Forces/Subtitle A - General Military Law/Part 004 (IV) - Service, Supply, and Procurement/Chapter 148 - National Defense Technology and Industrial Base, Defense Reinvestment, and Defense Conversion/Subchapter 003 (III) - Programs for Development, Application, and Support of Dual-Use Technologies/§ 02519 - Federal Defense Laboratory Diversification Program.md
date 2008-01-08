@@ -42,5 +42,3 @@ Regulations.—The Secretary shall prescribe regulations for the purposes of thi
 
 Subsec. (f). Pub. L. 104–106, §1081(d)(2), substituted “section 2511(e)” for “section 2511(f)”.
 
-§2520
-

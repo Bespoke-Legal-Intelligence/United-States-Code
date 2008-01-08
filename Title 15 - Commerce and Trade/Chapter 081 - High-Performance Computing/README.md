@@ -8,13 +8,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER I—HIGH-PERFORMANCE COMPUTING AND THE NATIONAL RESEARCH AND EDUCATION NETWORK
+#### SUBCHAPTER I—HIGH-PERFORMANCE COMPUTING RESEARCH AND DEVELOPMENT
 
 |  |  |
 | :--- | ---: |
-| [5511\.](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20and%20the%20National%20Research%20and%20Education%20Network/%C2%A7%2005511%20-%20National%20High-Performance%20Computing%20Program.md) | National High-Performance Computing Program. |
-| [5512\.](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20and%20the%20National%20Research%20and%20Education%20Network/%C2%A7%2005512%20-%20National%20Research%20and%20Education%20Network.md) | National Research and Education Network. |
-| [5513\.](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20and%20the%20National%20Research%20and%20Education%20Network/%C2%A7%2005513%20-%20Next%20Generation%20Internet.md) | Next Generation Internet. |
+| [5511\.](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20Research%20and%20Development/%C2%A7%2005511%20-%20National%20High-Performance%20Computing%20Program.md) | National High-Performance Computing Program. |
+| [5512\.](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20Research%20and%20Development/%C2%A7%2005512%20-%20National%20Research%20and%20Education%20Network.md) | National Research and Education Network. |
+| [5513\.](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20Research%20and%20Development/%C2%A7%2005513%20-%20Next%20Generation%20Internet.md) | Next Generation Internet. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,6 +51,6 @@
 - [&sect; 05501 - Findings](%C2%A7%2005501%20-%20Findings.md)
 - [&sect; 05502 - Purposes](%C2%A7%2005502%20-%20Purposes.md)
 - [&sect; 05503 - Definitions](%C2%A7%2005503%20-%20Definitions.md)
-- [Subchapter 001 (I) - High-Performance Computing and the National Research and Education Network](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20and%20the%20National%20Research%20and%20Education%20Network/README.md)
+- [Subchapter 001 (I) - High-Performance Computing Research and Development](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20Research%20and%20Development/README.md)
 - [Subchapter 002 (II) - Agency Activities](Subchapter%20002%20%28II%29%20-%20Agency%20Activities/README.md)
 - [Subchapter 003 (III) - Department of Energy High-End Computing Revitalization](Subchapter%20003%20%28III%29%20-%20Department%20of%20Energy%20High-End%20Computing%20Revitalization/README.md)

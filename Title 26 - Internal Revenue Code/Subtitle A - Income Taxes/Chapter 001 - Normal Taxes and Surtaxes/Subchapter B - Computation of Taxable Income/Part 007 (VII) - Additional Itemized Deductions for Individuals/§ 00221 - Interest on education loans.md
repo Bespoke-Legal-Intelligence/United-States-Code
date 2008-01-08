@@ -130,9 +130,9 @@ For purposes of this section—
 
 (Added Pub. L. 105–34, title II, §202(a), Aug. 5, 1997, 111 Stat. 806; amended Pub. L. 105–206, title VI, §6004(b), July 22, 1998, 112 Stat. 792; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(A), (3), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, 115 Stat. 62–64, 68; Pub. L. 108–311, title II, §207(20), title IV, §408(b)(5), Oct. 4, 2004, 118 Stat. 1178, 1192; Pub. L. 108–357, title I, §102(d)(2), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–135, title IV, §412(t), Dec. 21, 2005, 119 Stat. 2638.)
 
-#### Adjustment of Amounts to Determine Availability of Interest Deduction for Taxable Years Beginning in 2007
+#### Adjustment of Amounts to Determine Availability of Interest Deduction for Taxable Years Beginning in 2008
 
-<i>For adjustment of maximum deduction in subsection (b)(2)(B) of this section for interest paid on qualified education loans for taxable years beginning in 2007, see section 3.23 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of maximum deduction in subsection (b)(2)(B) of this section for interest paid on qualified education loans for taxable years beginning in 2008, see section 3.24 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -172,7 +172,7 @@ Subsec. (f)(1). Pub. L. 108–311, §408(b)(5), amended directory language of Pu
 
 Subsec. (b)(2)(C)(i). Pub. L. 107–16, §§431(c)(2), 901, temporarily inserted “222,” before “911”. See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (d). Pub. L. 107–16, §§412(a)(1), 901, temporarily redesignated subsec. (e) as (d), and struck out heading and text of former subsec. (d). Text read as follows: “A deduction shall be allowed under this section only with respect to interest paid on any qualified education loan during the first 60 months (whether or not consecutive) in which interest payments are required. For purposes of this paragraph, any loan and all refinancings of such loan shall be treated as 1 loan. Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section.” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d). Pub. L. 107–16, §§412(a)(1), 901, temporarily redesignated subsec. (e) as (d), and struck out heading and text of former subsec. (d). Text read as follows: “A deduction shall be allowed under this section only with respect to interest paid on any qualified education loan during the first 60 months (whether or not consecutive) in which interest payments are required. For purposes of this paragraph, any loan and all refinancings of such loan shall be treated as 1 loan. Such60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section.” See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (e). Pub. L. 107–16, §§412(a)(1), 901, temporarily redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d). See Effective and Termination Dates of 2001 Amendment note below.
 

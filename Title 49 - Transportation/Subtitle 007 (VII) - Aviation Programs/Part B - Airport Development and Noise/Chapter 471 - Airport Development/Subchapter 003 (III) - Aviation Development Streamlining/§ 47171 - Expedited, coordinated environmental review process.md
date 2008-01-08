@@ -70,7 +70,7 @@ Use of Interagency Environmental Impact Statement Teams.—
 
 &emsp;(1)
 
-In general.—The Secretary may utilize an interagency environmental impact statement team to expedite and coordinate the coordinated environmental review process fora project under this section. When utilizing an interagency environmental impact statement team, the Secretary shall invite Federal, State and Tribal agencies with jurisdiction by law, and may invite such agencies with special expertise, to participate on an interagency environmental impact statement team.
+In general.—The Secretary may utilize an interagency environmental impact statement team to expedite and coordinate the coordinated environmental review process for a project under this section. When utilizing an interagency environmental impact statement team, the Secretary shall invite Federal, State and Tribal agencies with jurisdiction by law, and may invite such agencies with special expertise, to participate on an interagency environmental impact statement team.
 
 &emsp;(2)
 
@@ -112,7 +112,7 @@ Monitoring by Task Force.—The Transportation Infrastructure Streamlining Task 
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2)(B)(ii), and (<i>l</i>), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2)(B)(ii), and (<i>l</i>), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which isclassified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 Executive Order No. 13274, referred to in subsec. (m), is set out as a note under section 301 of this title.
 

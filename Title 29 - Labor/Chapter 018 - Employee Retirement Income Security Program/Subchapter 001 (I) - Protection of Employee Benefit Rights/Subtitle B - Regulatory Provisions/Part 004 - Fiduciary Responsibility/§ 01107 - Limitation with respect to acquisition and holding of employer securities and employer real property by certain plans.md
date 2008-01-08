@@ -120,7 +120,7 @@ For purposes of this section—
 
 &emsp;(8) The Secretary may prescribe regulations specifying the extent to which conversions, splits, the exercise of rights, and similar transactions are not treated as acquisitions.
 
-&emsp;(9) For purposes of this section, an arrangement which consists of a defined benefit planand an individual account plan shall be treated as 1 plan if the benefits of such individual account plan are taken into account in determining the benefits payable under such defined benefit plan.
+&emsp;(9) For purposes of this section, an arrangement which consists of a defined benefit plan and an individual account plan shall be treated as 1 plan if the benefits of such individual account plan are taken into account in determining the benefits payable under such defined benefit plan.
 
 #### (e) Marketable obligations
 
@@ -214,7 +214,7 @@ Section 2 of Pub. L. 101–540 provided that: “The amendment made by section 1
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(<i>l</i>)(1)–(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(<i>l</i>)(1)–(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

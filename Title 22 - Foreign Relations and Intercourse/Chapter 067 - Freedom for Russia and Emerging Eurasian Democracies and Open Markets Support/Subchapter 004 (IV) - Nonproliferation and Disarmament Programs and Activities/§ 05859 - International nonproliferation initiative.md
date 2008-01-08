@@ -10,7 +10,7 @@ This section shall not apply if the National Defense Authorization Act for Fisca
 
 #### References in Text
 
-The National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (f), is Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2315. For complete classification of this Act to the Code, see Tables. See Codification note below.
+The National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (f), is Pub. L. 102–484,Oct. 23, 1992, 106 Stat. 2315. For complete classification of this Act to the Code, see Tables. See Codification note below.
 
 #### Codification
 

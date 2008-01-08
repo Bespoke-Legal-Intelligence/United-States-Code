@@ -38,7 +38,7 @@ Requirements.—In carrying out a demonstration project under this section, the 
 
 &emsp;&emsp;(D) the promotion of community awareness concerning how the overall level of safety will be maintained or enhanced by the demonstration project;
 
-&emsp;&emsp;(E) the development of models that categorize the risks inherent to each covered pipeline facility, taking into consideration the location, volume, pressure, and material transported or stored by that pipeline facility;
+&emsp;&emsp;(E) the development of models that categorize the risks inherent to each covered pipeline facility, taking into consideration the location, volume, pressure, and materialtransported or stored by that pipeline facility;
 
 &emsp;&emsp;(F) the application of risk assessment and risk management methodologies that are suitable to the inherent risks that are determined to exist through the use of models developed under subparagraph (E);
 
@@ -48,7 +48,7 @@ Requirements.—In carrying out a demonstration project under this section, the 
 
 &emsp;&emsp;&emsp;(ii) the risk management plans carried out under the demonstration project under this subsection can be audited;
 
-&emsp;&emsp;(H) a process whereby an owner or operator of a pipeline facility is able to terminatea risk management plan or, with the approval of the Secretary, to amend, modify, or otherwise adjust a risk management plan referred to in paragraph (1) that has been approved by the Secretary pursuant to that paragraph to respond to—
+&emsp;&emsp;(H) a process whereby an owner or operator of a pipeline facility is able to terminate a risk management plan or, with the approval of the Secretary, to amend, modify, or otherwise adjust a risk management plan referred to in paragraph (1) that has been approved by the Secretary pursuant to that paragraph to respond to—
 
 &emsp;&emsp;&emsp;(i) changed circumstances; or
 

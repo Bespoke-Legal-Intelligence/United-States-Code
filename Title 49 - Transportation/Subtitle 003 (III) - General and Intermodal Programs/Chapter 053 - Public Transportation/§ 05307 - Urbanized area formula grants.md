@@ -46,7 +46,7 @@ Grants.—The Secretary may make grants under this section for—
 
 &emsp;&emsp;&emsp;(iv) the grants will not be used to provide public transportation outside of the portion of the urbanized area; and
 
-&emsp;&emsp;(F) operating costs of equipment and facilities for use in public transportation for local governmental authorities in areas which adopted transit operating and financing plans that became a part of the Houston, Texas, urbanized area as a result of the 2000 decennial census of population, but lie outside the service area of the principal public transportation agency that serves the Houston urbanized area.
+&emsp;&emsp;(F) operating costs of equipment and facilities for use in public transportation for local governmental authorities in areas which adopted transit operating and financing plans that became a part of the Houston,Texas, urbanized area as a result of the 2000 decennial census of population, but lie outside the service area of the principal public transportation agency that serves the Houston urbanized area.
 
 &emsp;(2)
 
@@ -262,7 +262,7 @@ Title 5.—The provision of assistance under this chapter shall not be construed
 
 Treatment.—For the purposes of this section, the United States Virgin Islands shall be treated as an urbanized area, as defined in section 5302.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub. L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub.L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571.)
 
 Historical and Revision Notes
 
@@ -576,7 +576,7 @@ Subsecs. (m), (n). Pub. L. 109–59, §3009(a)(2), redesignated subsecs. (m) and
 
 2004—Subsec. (b)(2). Pub. L. 108–310 inserted “
 
-and for the period of october 1, 2004, through may 31, 2005”after “
+and for the period of october 1, 2004, through may 31, 2005” after “
 
 2004” in heading and directed the insertion of “and for the period of October 1, 2004, through May 31, 2005” after “2004,” in subpar. (A), which was executed by making the insertion after “2004” in introductory provisions of subpar. (A), to reflect the probable intent of Congress.
 
@@ -668,7 +668,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Pilot Program for Cooperative Procurement of Major Capital Equipment
 
-Pub. L. 108–447, div. H, title I, §167, Dec. 8, 2004, 118 Stat. 3228, provided that: “The Secretary shall continue the pilot program authorized under section 166 of the Consolidated Appropriations Act, 2004, Public Law 108–199; 118 Stat. 309 \[set out below\], for cooperativeprocurement of major capital equipment under sections 5307, 5309, and 5311 \[of title 49, United States Code\]. The program shall be administered as required under subsections (b) through (g) of section 166, except that there shall be five pilot projects: <i>Provided</i>, That the Secretary shall evaluate all proposals based on selection criteria set forth in the announcement of the program and request for proposals (Federal Register Notice—Vol. 69, No. 120, Page 35127, June 23, 2004). All proposed projects shall be evaluated and the proposing party shall receive notification of acceptance or denial by no later than 90 days after the Secretary receives a request for review of a proposed project: <i>Provided further</i>, That not later than 30 days after delivery of the base order under each of the five pilot projects, the Secretary shall submit to the House and Senate Committees on Appropriations a report on the results of that pilot project. Each report shall evaluate any savings realized through the cooperative procurement and the benefits of incorporating cooperative procurement, as shown by that project, into the mass transit program as a whole.”
+Pub. L. 108–447, div. H, title I, §167, Dec. 8, 2004, 118 Stat. 3228, provided that: “The Secretary shall continue the pilot program authorized under section 166 of the Consolidated Appropriations Act, 2004, Public Law 108–199; 118 Stat. 309 \[set out below\], for cooperative procurement of major capital equipment under sections 5307, 5309, and 5311 \[of title 49, United States Code\]. The program shall be administered as required under subsections (b) through (g) of section 166, except that there shall be five pilot projects: <i>Provided</i>, That the Secretary shall evaluate all proposals based on selection criteria set forth in the announcement of the program and request for proposals (Federal Register Notice—Vol. 69, No. 120, Page 35127, June 23, 2004). All proposed projects shall be evaluated and the proposing party shall receive notification of acceptance or denial by no later than 90 days after the Secretary receives a request for review of a proposed project: <i>Provided further</i>, That not later than 30 days after delivery of the base order under each of the five pilot projects, the Secretary shall submit to the House and Senate Committees on Appropriations a report on the results of that pilot project. Each report shall evaluate any savings realized through the cooperative procurement and the benefits of incorporating cooperative procurement, as shown by that project, into the mass transit program as a whole.”
 
 Pub. L. 108–199, div. F, title I, §166, Jan. 23, 2004, 118 Stat. 309, provided that:
 
@@ -798,7 +798,7 @@ Period described.—For purposes of paragraph (1), the period described in this 
 
 “(3)
 
-Services for elderly and persons with disabilities.—In addition to assistance made available under paragraph (1), the Secretary may provide assistance under section 5307 of title 49, United States Code, to a transit provider that operates 20 or fewer vehicles in an urbanized area with a population of at least 200,000 to finance the operating costs of equipment and facilities used by the transit provider in providing mass transportation services to elderly and persons with disabilities, provided that such assistance to all entities shall not exceed $1,444,000 annually.”
+Services for elderly and persons with disabilities.—In addition to assistance made available under paragraph (1), the Secretary may provide assistance under section 5307 of title 49, United States Code, to a transit provider that operates 20 or fewer vehicles in an urbanized area with a population of at least200,000 to finance the operating costs of equipment and facilities used by the transit provider in providing mass transportation services to elderly and persons with disabilities, provided that such assistance to all entities shall not exceed $1,444,000 annually.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

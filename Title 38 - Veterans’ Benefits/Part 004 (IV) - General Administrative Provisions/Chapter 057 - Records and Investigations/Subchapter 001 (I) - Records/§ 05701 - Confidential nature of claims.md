@@ -16,7 +16,7 @@
 
 &emsp;(6) In connection with any proceeding for the collection of an amount owed to the United States by virtue of a person's participation in any benefit program administered by the Secretary when in the judgment of the Secretary such disclosure is deemed necessary and proper.
 
-(c)(1) The amount of any payment made by the Secretary to any person receiving benefits under a program administered by the Secretary shallbe made known to any person who applies for such information.
+(c)(1) The amount of any payment made by the Secretary to any person receiving benefits under a program administered by the Secretary shall be made known to any person who applies for such information.
 
 (2) Any appraisal report or certificate of reasonable value submitted to or prepared by the Secretary in connection with any loan guaranteed, insured, or made under chapter 37 of this title shall be made available to any person who applies for such report or certificate.
 
@@ -46,7 +46,7 @@
 
 &emsp;(i) the Secretary has (I) made reasonable efforts to notify such person of such person's right to dispute through prescribed administrative processes the existence or amount of such indebtedness and of such person's right to request a waiver of such indebtedness under section 5302 of this title, (II) afforded such person a reasonable opportunity to exercise such rights, and (III) made a determination with respect to any such dispute or request; and
 
-&emsp;(ii) thirty calendar days have elapsed after the day on which the Secretary has made a determination that reasonable efforts have been made to notify such person (I) that the Secretary intends to release such information for such purpose or purposes, and (II) that, upon the request of such person, the Secretary shall inform such person of whether such information has been so released and of the name and address of each consumer reporting agency towhich such information was released by the Secretary and of the specific information so released.
+&emsp;(ii) thirty calendar days have elapsed after the day on which the Secretary has made a determination that reasonable efforts have been made to notify such person (I) that the Secretary intends to release such information for such purpose or purposes, and (II) that, upon the request of such person, the Secretary shall inform such person of whether such information has been so released and of the name and address of each consumer reporting agency to which such information was released by the Secretary and of the specific information so released.
 
 (B) After release of any information under subparagraph (A) of this paragraph concerning the indebtedness of any person, the Secretary shall promptly notify—
 
@@ -106,9 +106,9 @@
 
 &emsp;(ii) a dependent of veteran.
 
-(2) In this subsection, the term “organ procurement organization” has the meaning giventhe term “qualified organ procurement organization” in section 371(b) of the Public Health Service Act (42 U.S.C. 273(b)).
+(2) In this subsection, the term “organ procurement organization” has the meaning given the term “qualified organ procurement organization” in section 371(b) of the Public Health Service Act (42 U.S.C. 273(b)).
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3301; Pub. L. 87–671, §2, Sept. 19, 1962, 76 Stat. 557; Pub. L. 91–24, §11, June 11, 1969, 83 Stat. 34; Pub. L. 92–540, title IV, §412, Oct. 24, 1972, 86 Stat. 1093; Pub. L. 94–321, §1(a), June 29, 1976, 90 Stat. 713; Pub. L. 94–581, title II, §210(b), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 96–466, title VI, §606, Oct. 17, 1980, 94 Stat. 2212; Pub. L. 101–94, title III, §302(a), Aug. 16, 1989, 103 Stat. 628; renumbered §5701 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 107–14, §8(a)(13), June 5, 2001, 115 Stat. 35; Pub. L. 109–461, title II, §204(a), Dec. 22, 2006, 120 Stat. 3411.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3301; Pub. L. 87–671, §2, Sept. 19, 1962, 76 Stat. 557; Pub. L. 91–24, §11, June 11, 1969, 83 Stat. 34; Pub. L. 92–540, title IV, §412, Oct. 24, 1972, 86 Stat. 1093; Pub. L. 94–321, §1(a), June 29, 1976, 90 Stat. 713; Pub. L. 94–581, title II, §210(b), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 96–466, title VI, §606, Oct. 17, 1980, 94 Stat. 2212; Pub. L. 101–94, title III, §302(a), Aug. 16, 1989, 103 Stat. 628; renumbered§5701 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 107–14, §8(a)(13), June 5, 2001, 115 Stat. 35; Pub. L. 109–461, title II, §204(a), Dec. 22, 2006, 120 Stat. 3411.)
 
 #### References in Text
 
@@ -204,7 +204,7 @@ Subsec. (f). Pub. L. 94–321, §1(a)(3), (5), redesignated par. (9) as subsec. 
 
 Subsec. (g). Pub. L. 94–321, §1(a)(5), added subsec. (g).
 
-1972—Pub. L. 92–540 in introductory provision inserted reference to the names and addresses of present orformer personnel of the armed forces, and their dependents, in the possession of the Veterans’ Administration, and added par. (9).
+1972—Pub. L. 92–540 in introductory provision inserted reference to the names and addresses of present or former personnel of the armed forces, and their dependents, in the possession of the Veterans’ Administration, and added par. (9).
 
 1969—Par. (1). Pub. L. 91–24 substituted “the claimant and to an independent” for “the claimant. And to an independent”.
 

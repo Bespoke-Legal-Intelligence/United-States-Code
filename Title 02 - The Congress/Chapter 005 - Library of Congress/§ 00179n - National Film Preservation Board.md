@@ -4,7 +4,7 @@
 
 #### (1) Members
 
-&emsp;The Librarian shall establish in the Library of Congress a National Film Preservation Board to be comprised of 22 members, who shall be selected by the Librarian in accordance with this section. Subject to subparagraphs (C) and (N), the Librarian shall request each organization listed in subparagraphs (A) through (Q) to submit a list of three candidates qualified to serve as a member of the Board. Except for the members-at-large appointed under subparagraph <sup>1</sup> (2), the Librarian shall appoint one member from each such list submitted by such organizations, and shall designate from that list an alternate who may attend at Board expense those meetings to which the individual appointed to the Board cannot attend. The organizations are the following:
+&emsp;The Librarian shall establish in the Library of Congress a National Film Preservation Board to be comprised of 22 members, who shall be selected by the Librarian in accordance with this section. Subject to subparagraphs (C) and (N), the Librarian shall request each organization listed in subparagraphs (A) through (Q) to submit a list of three candidates qualified to serve as a member of the Board. Except for the members-at-large appointed under subparagraph <sup>1</sup> (2), the Librarianshall appoint one member from each such list submitted by such organizations, and shall designate from that list an alternate who may attend at Board expense those meetings to which the individual appointed to the Board cannot attend. The organizations are the following:
 
 &emsp;&emsp;(A) The Academy of Motion Picture Arts and Sciences.
 

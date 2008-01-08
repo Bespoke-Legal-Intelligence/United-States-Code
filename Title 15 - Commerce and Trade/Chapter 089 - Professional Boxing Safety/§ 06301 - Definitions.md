@@ -32,7 +32,7 @@ For purposes of this chapter:
 
 #### (8) Professional boxing match
 
-&emsp;The term “professional boxing match” means a boxing contest held in the United States between individuals for financial compensation. Such term does not include a boxing contest that is regulated by an amateur sports organization.
+&emsp;The term “professional boxing match” means a boxing contest held in the UnitedStates between individuals for financial compensation. Such term does not include a boxing contest that is regulated by an amateur sports organization.
 
 #### (9) Promoter
 
@@ -104,7 +104,7 @@ Section 1 of Pub. L. 104–272 provided that: “This Act \[enacting this chapte
 
 Pub. L. 106–210, §2, May 26, 2000, 114 Stat. 321, provided that: “The Congress makes the following findings:
 
-&emsp;“(1) Professional boxing differs from other major, interstate professional sports industries in the United States in that it operates without any private sectorassociation, league, or centralized industry organization to establish uniform and appropriate business practices and ethical standards. This has led to repeated occurrences of disreputable and coercive business practices in the boxing industry, to the detriment of professional boxers nationwide.
+&emsp;“(1) Professional boxing differs from other major, interstate professional sports industries in the United States in that it operates without any private sector association, league, or centralized industry organization to establish uniform and appropriate business practices and ethical standards. This has led to repeated occurrences of disreputable and coercive business practices in the boxing industry, to the detriment of professional boxers nationwide.
 
 &emsp;“(2) State officials are the proper regulators of professional boxing events, and must protect the welfare of professional boxers and serve the public interest by closely supervising boxing activity in their jurisdiction. State boxing commissions do not currently receive adequate information to determine whether boxers competing in their jurisdiction are being subjected to contract terms and business practices which may violate State regulations, or are onerous and confiscatory.
 

@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 107–273, §12214(2), added subsec. (e).
 
 1984—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions setting forth the administrative authority of the Office for former provisions which incorporated other administrative provisions into this chapter as well as construing certain references as authorizing the Administrator of the Office of Juvenile Justice and Delinquency Prevention to perform the same actions as other officials.
 
-Subsec. (b). Pub. L. 98–473, in amending subsec. (b) generally, substituted provisions relating to the applicability of other provisions to this chapter as well as defining certain references therein for former provisions which directed the Office of Justice Assistance, Research and Statistics to provide staff support and coordinate the activities of the Office of Juvenile Justice and Delinquency Prevention.
+Subsec. (b). Pub. L. 98–473, in amending subsec. (b) generally, substituted provisions relating to the applicability of other provisions to this chapter as well as defining certain references therein for former provisions which directed the Office of Justice Assistance, Research and Statistics to provide staff support andcoordinate the activities of the Office of Juvenile Justice and Delinquency Prevention.
 
 Subsecs. (c), (d). Pub. L. 98–473, in amending section generally, added subsecs. (c) and (d).
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by section6(d)(2) of Pub. L. 95–115, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by section 6(d)(2) of Pub. L. 95–115, set out as a note under section 5601 of this title.
 

@@ -16,7 +16,7 @@
 
 #### (b) Limitation on net capital loss
 
-If an ownership change occurs with respect to a corporation, the amount of any net capital loss under section 1212 for any taxable year before the 1st post-change year which may be usedin any post-change year shall be limited under regulations which shall be based on the principles applicable under section 382. Such regulations shall provide that any such net capital loss used in a post-change year shall reduce the section 382 limitation which is applied to pre-change losses under section 382 for such year.
+If an ownership change occurs with respect to a corporation, the amount of any net capital loss under section 1212 for any taxable year before the 1st post-change year which may be used in any post-change year shall be limited under regulations which shall be based on the principles applicable under section 382. Such regulations shall provide that any such net capital loss used in a post-change year shall reduce the section 382 limitation which is applied to pre-change losses under section 382 for such year.
 
 #### (c) Foreign tax credits
 
@@ -100,7 +100,7 @@ Amendment by section 331(d)(1)(C), (D) of Pub. L. 97–34 applicable to taxable 
 
 #### Effective Date of 1980 Amendments
 
-Amendment by Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, in taxable years ending after such date, see section 232(h)(1) of Pub. L. 96–223, set out as an Effective Date note under section 40 of this title.
+Amendment by Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, in taxable years ending aftersuch date, see section 232(h)(1) of Pub. L. 96–223, set out as an Effective Date note under section 40 of this title.
 
 Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, Nov. 6, 1978, 92 Stat. 2763, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 

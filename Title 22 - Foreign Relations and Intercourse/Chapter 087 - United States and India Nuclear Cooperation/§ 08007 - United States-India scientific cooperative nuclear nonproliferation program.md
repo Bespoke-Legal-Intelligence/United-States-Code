@@ -20,7 +20,7 @@ The program shall be carried out in consultation with the Secretary of State and
 
 &emsp;&emsp;(A) recommendations for research and related programs designed to overcome existing technological barriers to nuclear nonproliferation; and
 
-&emsp;&emsp;(B) an assessment of whether activities and programs funded under this section areachieving the goals of the activities and programs.
+&emsp;&emsp;(B) an assessment of whether activities and programs funded under this section are achieving the goals of the activities and programs.
 
 #### (3) Public availability
 

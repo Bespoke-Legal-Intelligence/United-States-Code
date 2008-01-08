@@ -64,7 +64,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;&emsp;&emsp;(i) to designate a public agency as a lead agency to coordinate the activities provided for under paragraph (1) in the State at the State level; and
 
-&emsp;&emsp;&emsp;(ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports, and evidence-based interventions.
+&emsp;&emsp;&emsp;(ii) acting through such lead agency, to make available to individuals and theirfamily members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports, and evidence-based interventions.
 
 #### (B) Requirements of agency
 
@@ -142,7 +142,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (f) Intervention
 
-The Secretary shall promote research, through grants or contracts, to determine the evidence-based practices for interventions for individuals with autism spectrum disorder or other developmental disabilities, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
+The Secretary shall promote research, through grants or contracts, to determine the evidence-based practices for interventions for individuals with autism spectrum disorder orother developmental disabilities, develop guidelines for those interventions, and disseminate information related to such research and guidelines.
 
 #### (g) Sunset
 

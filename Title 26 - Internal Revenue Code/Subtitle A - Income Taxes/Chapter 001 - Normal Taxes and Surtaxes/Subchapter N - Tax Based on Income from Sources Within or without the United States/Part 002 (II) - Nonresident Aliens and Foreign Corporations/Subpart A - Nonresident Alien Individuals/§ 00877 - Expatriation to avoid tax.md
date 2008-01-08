@@ -144,7 +144,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) an individual losing United States citizenship contributes property during the 10-year period beginning on the datethe individual loses United States citizenship to any corporation which, at the time of the contribution, is described in subparagraph (B), and
+&emsp;&emsp;&emsp;(i) an individual losing United States citizenship contributes property during the 10-year period beginning on the date the individual loses United States citizenship to any corporation which, at the time of the contribution, is described in subparagraph (B), and
 
 &emsp;&emsp;&emsp;(ii) income derived from such property immediately before such contribution was from sources within the United States (or, if no income was so derived, would have been from such sources),
 
@@ -210,7 +210,7 @@ For purposes of subsection (b)—
 
 #### (f) Burden of proof
 
-If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for this section, result in a substantial reduction for the taxable year in the taxes on his probable income for such year, the burden of proving for suchtaxable year that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B shall be on such individual.
+If the Secretary establishes that it is reasonable to believe that an individual's loss ofUnited States citizenship would, but for this section, result in a substantial reduction for the taxable year in the taxes on his probable income for such year, the burden of proving for such taxable year that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B shall be on such individual.
 
 #### (g) Physical presence
 
@@ -250,9 +250,9 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 (Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628.)
 
-#### Adjustment of Net Tax and Net Worth Amounts for Calendar Year 2007
+#### Adjustment of Net Tax and Net Worth Amounts for Calendar Year 2008
 
-<i>For adjustment of average annual net income tax and net worth amounts under subsection (a)(2) of this section for calendar year 2007, see section 3.29 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of average annual net income tax and net worth amounts under subsection (a)(2) of this section for calendar year 2008, see section 3.29 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 
@@ -390,7 +390,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) ofPub. L. 95–600, set out as a note under section 5 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) of Pub. L. 95–600, set out as a note under section 5 of this title.
 
 #### Effective Date of 1974 Amendment
 

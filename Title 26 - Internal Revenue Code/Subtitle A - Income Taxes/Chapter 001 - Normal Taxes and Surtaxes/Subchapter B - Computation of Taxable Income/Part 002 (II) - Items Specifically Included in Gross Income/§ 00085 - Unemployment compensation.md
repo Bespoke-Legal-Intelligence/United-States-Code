@@ -42,7 +42,7 @@ Subsec. (b)(2). Pub. L. 97–248, §611(a)(2), substituted “$18,000” for “
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to amounts received after Dec. 31, 1986, in taxable years endingafter such date, see section 151(b) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to amounts received after Dec. 31, 1986, in taxable years ending after such date, see section 151(b) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -84,5 +84,5 @@ Section 112(d) of Pub. L. 95–600, as amended by Pub. L. 98–369, div. A, titl
 
 #### Waiver of Statute of Limitations
 
-Pub. L. 98–369, div. A, title X, §1075(b), July 18, 1984, 98 Stat. 1053, provided that: “If credit or refund of any overpayment of tax resulting from the amendment made by subsection (a) \[amending section 112(d) of Pub. L. 95–600, set out as an Effective Date note above\] is barred on the date of the enactment of this Act \[July 18, 1984\] or at any time during the 1-year period beginning on the date of the enactment of this Act by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
+Pub. L. 98–369, div. A, title X, §1075(b), July 18, 1984, 98 Stat. 1053, provided that: “If credit or refund of any overpayment of tax resulting from the amendment made by subsection (a) \[amending section 112(d) of Pub. L. 95–600, set out as an Effective Date note above\] is barred on the date of the enactment of this Act \[July18, 1984\] or at any time during the 1-year period beginning on the date of the enactment of this Act by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
 

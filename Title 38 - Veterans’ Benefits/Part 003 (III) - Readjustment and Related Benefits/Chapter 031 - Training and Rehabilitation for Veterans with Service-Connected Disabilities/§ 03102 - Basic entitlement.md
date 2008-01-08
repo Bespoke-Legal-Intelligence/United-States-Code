@@ -22,7 +22,7 @@ A person shall be entitled to a rehabilitation program under the terms and condi
 
 &emsp;&emsp;(B) is determined by the Secretary to be in need of rehabilitation because of a serious employment handicap.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1502; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–508, title VIII, §8021(a), Nov. 5, 1990, 104 Stat. 1388–347; Pub. L. 102–16, §3(a), Mar. 22, 1991, 105 Stat. 49; renumbered §3102, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §404(a), Oct. 29, 1992, 106 Stat. 4338; Pub. L. 104–275, title I, §101(b), Oct. 9, 1996, 110 Stat. 3323.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1502; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–508, title VIII, §8021(a), Nov. 5, 1990, 104 Stat. 1388–347; Pub. L. 102–16, §3(a), Mar. 22, 1991, 105 Stat. 49; renumbered §3102, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §404(a), Oct. 29, 1992,106 Stat. 4338; Pub. L. 104–275, title I, §101(b), Oct. 9, 1996, 110 Stat. 3323.)
 
 #### Prior Provisions
 

@@ -50,7 +50,7 @@ In determining the amounts required under subsection (a) to be separately taken 
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this chapter, any partner's distributive share of any income or loss described in subsection (a)(2) shall be treated as an item of income or expense (as the casemay be) with respect to property held for investment.
+&emsp;&emsp;For purposes of this chapter, any partner's distributive share of any income or loss described in subsection (a)(2) shall be treated as an item of income or expense (as the case may be) with respect to property held for investment.
 
 #### (B) Deductions for loss not subject to section 67
 

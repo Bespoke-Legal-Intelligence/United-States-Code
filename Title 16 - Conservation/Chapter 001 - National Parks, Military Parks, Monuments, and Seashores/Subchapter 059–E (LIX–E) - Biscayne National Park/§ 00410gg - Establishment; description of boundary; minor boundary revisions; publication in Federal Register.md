@@ -8,10 +8,6 @@ In order to preserve and protect for the education, inspiration, recreation, and
 
 1994—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Dante Fascell Biscayne National Park Visitor Center
 
 Pub. L. 105–307, Oct. 29, 1998, 112 Stat. 2931, provided that:
@@ -28,5 +24,5 @@ Designation.—The Biscayne National Park visitor center, located on the shore o
 
 “(b)
 
-References.—Any reference in a law, map, regulation, document, paper, or other document of the United States to the Biscayne National Park visitor center shall be deemed to be a reference to the ‘Dante Fascell Visitor Center’.”
+References.—Any reference in a law, map, regulation, document, paper, or other document of theUnited States to the Biscayne National Park visitor center shall be deemed to be a reference to the ‘Dante Fascell Visitor Center’.”
 

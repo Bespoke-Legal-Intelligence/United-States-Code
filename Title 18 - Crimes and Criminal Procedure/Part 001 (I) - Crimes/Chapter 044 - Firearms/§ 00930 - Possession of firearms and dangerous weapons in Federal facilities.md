@@ -14,7 +14,7 @@
 
 &emsp;(3) the lawful carrying of firearms or other dangerous weapons in a Federal facility incident to hunting or other lawful purposes.
 
-(e)(1) Except as provided in paragraph (2), whoever knowingly possesses or causes to be present a firearm in a Federal court facility, or attempts to do so, shall be fined under this title, imprisoned not more than 2 years, or both.
+(e)(1) Except as provided in paragraph (2), whoever knowingly possesses or causes to be present a firearm or other dangerous weapon in a Federal court facility, or attempts to do so, shall be fined under this title, imprisoned not more than 2 years, or both.
 
 (2) Paragraph (1) shall not apply to conduct which is described in paragraph (1) or (2) of subsection (d).
 
@@ -30,9 +30,11 @@
 
 (h) Notice of the provisions of subsections (a) and (b) shall be posted conspicuously at each public entrance to each Federal facility, and notice of subsection (e) shall be posted conspicuously at each public entrance to each Federal court facility, and no person shall be convicted of an offense under subsection (a) or (e) with respect to a Federal facility if such notice is not so posted at such facility, unless such person had actual notice of subsection (a) or (e), as the case may be.
 
-(Added Pub. L. 100–690, title VI, §6215(a), Nov. 18, 1988, 102 Stat. 4361; amended Pub. L. 101–647, title XXII, §2205(a), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 103–322, title VI, §60014, Sept. 13, 1994, 108 Stat. 1973; Pub. L. 104–294, title VI, §603(t), (u), Oct. 11, 1996, 110 Stat. 3506; Pub. L. 107–56, title VIII, §811(b), Oct. 26, 2001, 115 Stat. 381.)
+(Added Pub. L. 100–690, title VI, §6215(a), Nov. 18, 1988, 102 Stat. 4361; amended Pub. L. 101–647, title XXII, §2205(a), Nov. 29, 1990, 104 Stat. 4857; Pub. L. 103–322, title VI, §60014, Sept. 13, 1994, 108 Stat. 1973; Pub. L. 104–294, title VI, §603(t), (u), Oct. 11, 1996, 110 Stat. 3506; Pub. L. 107–56, title VIII, §811(b), Oct. 26, 2001, 115 Stat. 381; Pub. L. 110–177, title II, §203, Jan. 7, 2008, 121 Stat. 2537.)
 
 #### Amendments
+
+2008—Subsec. (e)(1). Pub. L. 110–177 inserted “or other dangerous weapon” after “firearm”.
 
 2001—Subsec. (c). Pub. L. 107–56 struck out “or attempts to kill” after “A person who kills”, inserted “or attempts or conspires to do such an act,” before “shall be punished”, and substituted “1113, and 1117” for “and 1113”.
 

@@ -40,5 +40,5 @@ Section 202 of the Atomic Energy Act of 1954 (42 U.S.C. 2283), referred to in su
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–212, §1, Apr. 1, 2004, 118 Stat. 568, provided that: “This Act \[enacting this chapter and section 919a of Title 10, Armed Forces\] may be cited as the ‘Unborn Victims of Violence Act of 2004’ or ‘Laci and Conner's Law’.”
+Pub. L. 108–212, §1, Apr. 1, 2004, 118 Stat. 568, provided that: “This Act \[enacting this chapter and section 919a of Title 10, Armed Forces\] may be cited as the ‘UnbornVictims of Violence Act of 2004’ or ‘Laci and Conner's Law’.”
 

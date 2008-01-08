@@ -56,7 +56,7 @@
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
-&emsp;(A)(i) that institution's eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by\(iii) the amount appropriated pursuant to section 1087aa(b) of this title for the fiscal year; exceeds
+&emsp;(A)(i) that institution's eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) of this title for the fiscal year; exceeds
 
 &emsp;(B) the amount required to be allocated to that institution under subsection (a) of this section,
 
@@ -116,7 +116,7 @@
 
 &emsp;(F) add the amounts determined under subparagraph (E) for each income category.
 
-(4)(A) For purposes of paragraphs (2) and (3), the term “average cost of attendance” means the average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
+(4)(A) For purposes of paragraphs (2) and (3), the term “average cost of attendance” meansthe average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
 
 (B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
 
@@ -126,7 +126,7 @@
 
 #### (d) Anticipated collections
 
-(1) An institution's anticipated collections are equal to the amount which was collected duringthe second year preceding the beginning of the award period, multiplied by 1.21.
+(1) An institution's anticipated collections are equal to the amount which was collected during the second year preceding the beginning of the award period, multiplied by 1.21.
 
 (2) The Secretary shall establish an appeals process by which the anticipated collections required in paragraph (1) may be waived for institutions with low cohort default rates in the program assisted under this part.
 
@@ -194,7 +194,7 @@
 
 (B) For any award year in which less than 30 of the institution's current and former students enter repayment, the term “cohort default rate” means the percentage of such current and former students who entered repayment on such loans in any of the three most recent award years and who default before the end of the award year immediately following the year in which they entered repayment.
 
-(C) A loan on which a payment is made by the institution of higher education, its owner, agency, contractor, employee, or any other entity or individual affiliated with such institution, inorder to avoid default by the borrower, is considered as in default for the purposes of this subsection.
+(C) A loan on which a payment is made by the institution of higher education, its owner, agency, contractor, employee, or any other entity or individual affiliated with such institution, in order to avoid default by the borrower, is considered as in default for the purposes of this subsection.
 
 (D) In the case of a student who has attended and borrowed at more than one school, the student (and his or her subsequent repayment or default) is attributed to the school for attendance at which the student received the loan that entered repayment in the award year.
 
@@ -260,7 +260,7 @@ The Secretary shall, from time to time, set dates before which institutions must
 
 #### Prior Provisions
 
-A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 273; amended Pub. L. 96–374, title IV, §448(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1443, 1503, provided for apportionment of appropriations among States, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86Stat. 273; amended Pub. L. 96–374, title IV, §448(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1443, 1503, provided for apportionment of appropriations among States, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

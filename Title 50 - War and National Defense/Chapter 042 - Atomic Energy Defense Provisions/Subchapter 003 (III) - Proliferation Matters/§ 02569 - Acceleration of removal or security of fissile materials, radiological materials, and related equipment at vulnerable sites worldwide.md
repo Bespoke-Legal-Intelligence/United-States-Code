@@ -90,7 +90,7 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 #### (3) Retention and use of amounts
 
-&emsp;Notwithstanding section 3302 of title 31, the Secretary of Energy may retain and use amounts contributed under an agreementunder paragraph (1) for purposes of the programs described in paragraph (2). Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available for use without further appropriation and without fiscal year limitation.
+&emsp;Notwithstanding section 3302 of title 31, the Secretary of Energy may retain and use amounts contributed under an agreement under paragraph (1) for purposes of the programs described in paragraph (2). Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available for use without further appropriation and without fiscal year limitation.
 
 #### (4) Return of amounts not used within 5 years
 

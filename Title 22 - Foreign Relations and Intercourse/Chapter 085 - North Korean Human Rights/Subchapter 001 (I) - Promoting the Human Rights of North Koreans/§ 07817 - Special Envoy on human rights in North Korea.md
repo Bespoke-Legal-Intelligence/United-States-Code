@@ -26,7 +26,7 @@ The Special Envoy shall—
 
 #### (d) Report on activities
 
-Not later than 180 days after October 18, 2004, and annually for the subsequent 5 year-period,<sup>1</sup> the Special Envoy shall submit to the appropriate congressional committees a report on the activities undertaken in the preceding 12 months under subsection (c).
+Not later than 180 days after October 18, 2004, and annually for the subsequent 5 year-period,<sup>1</sup>the Special Envoy shall submit to the appropriate congressional committees a report on the activities undertaken in the preceding 12 months under subsection (c).
 
 (Pub. L. 108–333, title I, §107, Oct. 18, 2004, 118 Stat. 1292.)
 

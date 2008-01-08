@@ -2,7 +2,7 @@
 
 #### (a) Initial tax
 
-There is hereby imposed on the undistributed income of a private foundation for any taxable year, which has not been distributed before the first day of the second (or any succeeding) taxable year following such taxable year (if suchfirst day falls within the taxable period), a tax equal to 30 percent of the amount of such income remaining undistributed at the beginning of such second (or succeeding) taxable year. The tax imposed by this subsection shall not apply to the undistributed income of a private foundation—
+There is hereby imposed on the undistributed income of a private foundation for any taxable year, which has not been distributed before the first day of the second (or any succeeding) taxable year following such taxable year (if such first day falls within the taxable period), a tax equal to 30 percent of the amount of such income remaining undistributed at the beginning of such second (or succeeding) taxable year. The tax imposed by this subsection shall not apply to the undistributed income of a private foundation—
 
 &emsp;(1) for any taxable year for which it is an operating foundation (as defined in subsection (j)(3)), or
 
@@ -12,7 +12,7 @@ There is hereby imposed on the undistributed income of a private foundation for 
 
 &emsp;&emsp;(B) such amount is distributed as qualifying distributions (within the meaning of subsection (g)) by the foundation during the allowable distribution period (as defined in subsection (j)(2)),
 
-&emsp;&emsp;(C) the foundation notifies the Secretary that such amount has been distributed (within the meaning of subparagraph (B)) to correct such failure, and
+&emsp;&emsp;(C) the foundation notifies the Secretary that such amount has been distributed\(within the meaning of subparagraph (B)) to correct such failure, and
 
 &emsp;&emsp;(D) such distribution is treated under subsection (h)(2) as made out of the undistributed income for the taxable year for which a tax would (except for this paragraph) have been imposed under this subsection.
 
@@ -96,7 +96,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 &emsp;The deduction modifications referred to in paragraph (1)(B) are as follows:
 
-&emsp;&emsp;(A) no deduction shall be allowed other than all the ordinary and necessary expenses paid or incurred for the production or collection of gross income or for the management, conservation, or maintenance of property held for the production of such income and the allowances for depreciation and depletion determined under section 4940(c)(3)(B), and
+&emsp;&emsp;(A) no deduction shall be allowed other than all the ordinary and necessary expenses paid or incurred for the production or collection of gross income or for the management,conservation, or maintenance of property held for the production of such income and the allowances for depreciation and depletion determined under section 4940(c)(3)(B), and
 
 &emsp;&emsp;(B) section 265 (relating to expenses and interest relating to tax-exempt interest) shall not apply.
 
@@ -210,7 +210,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 &emsp;If, for the taxable years in the adjustment period for which an organization is a private foundation—
 
-&emsp;&emsp;(A) the aggregate qualifying distributions treated (under subsection (h)) as made out of the undistributed income for such taxable year or as made out of corpus (except to the extent subsection (g)(3) with respect to therecipient private foundation or section 170(b)(1)(E)(ii) <sup>1</sup> applies) during such taxable years, exceed
+&emsp;&emsp;(A) the aggregate qualifying distributions treated (under subsection (h)) as made out of the undistributed income for such taxable year or as made out of corpus (except to the extent subsection (g)(3) with respect to the recipient private foundation or section 170(b)(1)(F)(ii) applies) during such taxable years, exceed
 
 &emsp;&emsp;(B) the distributable amounts for such taxable years (determined without regard to this subsection),
 
@@ -270,17 +270,15 @@ For purposes of this section—
 
 &emsp;For purposes of this section (but no other provisions of this title), the term “operating foundation” includes any organization which, on May 26, 1969, and at all times thereafter before the close of the taxable year, operated and maintained as its principal functional purpose facilities for the long-term care, comfort, maintenance, or education of permanently and totally disabled persons, elderly persons, needy widows, or children but only if such organization meets the requirements of paragraph (3)(B)(ii).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 502; amended Pub. L. 94–455, title XIII, §§1302(a), 1303(a), 1310(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1713, 1715, 1729, 1834; Pub. L. 95–600, title V, §522(a), Nov. 6, 1978, 92 Stat. 2885; Pub. L. 96–596, §2(a)(1)(C), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 97–34, title VIII, §823(a), Aug.13, 1981, 95 Stat. 351; Pub. L. 97–448, title I, §108(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title III, §§304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, 98 Stat. 782–784, 787; Pub. L. 99–514, title XIII, §1301(j)(6), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 109–280, title XII, §§1212(b), 1244(a), Aug. 17, 2006, 120 Stat. 1074, 1107.)
-
-#### References in Text
-
-Subpar. (E) of section 170(b)(1) of this title, referred to in subsec. (i)(1)(A), was redesignated (F) by Pub. L. 109–280, title XII, §1206(a)(1), Aug. 17, 2006, 120 Stat. 1068.
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 502; amended Pub. L. 94–455, title XIII, §§1302(a), 1303(a), 1310(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1713, 1715, 1729, 1834; Pub. L. 95–600, title V, §522(a), Nov. 6, 1978, 92 Stat. 2885; Pub. L. 96–596, §2(a)(1)(C), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 97–34, title VIII, §823(a), Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–448, title I, §108(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title III, §§304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, 98 Stat. 782–784, 787; Pub. L. 99–514, title XIII, §1301(j)(6), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 109–280, title XII, §§1212(b), 1244(a), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 110–172, §11(a)(14)(D), Dec. 29, 2007, 121 Stat. 2485.)
 
 #### Codification
 
 Sections 1212(b) and 1244(a) of Pub. L. 109–280, which directed the amendment of section 4942 without specifying the act to be amended, were executed to this section, which is section 4942 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+2007—Subsec. (i)(1)(A). Pub. L. 110–172 substituted “section 170(b)(1)(F)(ii)” for “section 170(b)(1)(E)(ii)”.
 
 2006—Subsec. (a). Pub. L. 109–280, §1212(b), substituted “30 percent” for “15 percent” in introductory provisions. See Codification note above.
 
@@ -375,6 +373,4 @@ Section 1310(b) of Pub. L. 94–455 provided that: “The amendments made by thi
 #### Savings Provision
 
 Applicability of section to organizations organized before May 27, 1969, see section 101(<i>l</i>)(3) of Pub. L. 91–172, set out as a note under section 4940 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

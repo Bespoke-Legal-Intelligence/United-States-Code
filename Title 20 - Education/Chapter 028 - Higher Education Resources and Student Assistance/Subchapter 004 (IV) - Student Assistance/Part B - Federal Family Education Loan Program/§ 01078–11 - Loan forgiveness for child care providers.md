@@ -72,7 +72,7 @@ In this section:
 
 &emsp;The Secretary shall assume the obligation to repay—
 
-&emsp;&emsp;(A) after the second consecutive year of employment described in subparagraphs (B) and (C) of subsection (c)(1) of this section, 20 percent of the total amount of all loansmade after October 7, 1998, to a student under this part or part C of this subchapter;
+&emsp;&emsp;(A) after the second consecutive year of employment described in subparagraphs (B) and (C) of subsection (c)(1) of this section, 20 percent of the total amount of all loans made after October 7, 1998, to a student under this part or part C of this subchapter;
 
 &emsp;&emsp;(B) after the third consecutive year of such employment, 20 percent of the total amount of all such loans; and
 
@@ -88,7 +88,7 @@ In this section:
 
 #### (4) Special rule
 
-&emsp;In the case where a student borrower who is not participating in loan repayment pursuant to this section returns to an institution of higher education after graduation from an institution of higher education for the purpose of obtaining a degree in early childhood education, the Secretary is authorized to assume the obligation to repay the total amount of loans made under this part or part C of this subchapter incurred for a maximum of two academic years in returning to an institution of higher education for the purpose of obtaining a degree in early childhood education. Such loans shall only be repaid for borrowers who qualify for loan repayment pursuant to the provisions of this section, and shall be repaid in accordance with the provisions of paragraph (1).
+&emsp;In the case where a student borrower who is not participating in loan repayment pursuant to this section returns to an institution of higher education after graduation from an institution of higher education for the purpose of obtaining a degree in early childhood education, the Secretary is authorized to assume the obligation to repay the total amount of loans made under this part or part C of this subchapter incurred for a maximum of two academic years in returning to an institution of higher education for the purpose of obtaining a degree in early childhood education.Such loans shall only be repaid for borrowers who qualify for loan repayment pursuant to the provisions of this section, and shall be repaid in accordance with the provisions of paragraph (1).
 
 #### (5) Ineligibility of national service award recipients
 
@@ -156,7 +156,7 @@ The National and Community Service Act of 1990, referred to in subsec. (d)(5), i
 
 #### Effective Date
 
-Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244,set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be a reference to paragraph (1).</i>
 

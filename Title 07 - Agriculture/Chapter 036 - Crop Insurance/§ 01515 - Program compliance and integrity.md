@@ -88,7 +88,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this chapter where the loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
 
-&emsp;&emsp;(B) Any person performing loss adjustment services relative to coverage offered under this chapter where such loss adjustments performed by the person result in accepted or denied claims equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for accepted or denied claims (as applicable) for all other persons performing loss adjustment services in the same area, as determined by the Corporation.
+&emsp;&emsp;(B) Any person performing loss adjustment services relative to coverage offered under this chapter where such loss adjustments performed by the person result in accepted or denied claims equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for accepted or denied claims (as applicable) for all other persons performing loss adjustmentservices in the same area, as determined by the Corporation.
 
 #### (2) Review
 
@@ -128,7 +128,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### (2) Compliance
 
-&emsp;A person may, after notice and an opportunity for a hearing on the record, be subjectto one or more of the sanctions described in paragraph (3) if the person is a producer, agent, loss adjuster, approved insurance provider, or other person that willfully and intentionally fails to comply with a requirement of the Corporation.
+&emsp;A person may, after notice and an opportunity for a hearing on the record, be subject to one or more of the sanctions described in paragraph (3) if the person is a producer, agent, loss adjuster, approved insurance provider, or other person that willfully and intentionally fails to comply with a requirement of the Corporation.
 
 #### (3) Authorized sanctions
 
@@ -220,7 +220,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;None of the funds made available under paragraph (1) may be used to pay the salaries of employees of the Corporation.
 
-(Feb. 16, 1938, ch. 30, title V, §515, as added Pub. L. 103–354, title I, §109, Oct. 13, 1994, 108 Stat.3197; amended Pub. L. 106–224, title I, §121(a), June 20, 2000, 114 Stat. 372.)
+(Feb. 16, 1938, ch. 30, title V, §515, as added Pub. L. 103–354, title I, §109, Oct. 13, 1994, 108 Stat. 3197; amended Pub. L. 106–224, title I, §121(a), June 20, 2000, 114 Stat. 372.)
 
 #### References in Text
 

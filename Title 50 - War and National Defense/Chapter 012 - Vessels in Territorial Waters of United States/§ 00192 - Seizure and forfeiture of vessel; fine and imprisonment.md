@@ -6,7 +6,7 @@ If any owner, agent, master, officer, or person in charge, or any member of the 
 
 #### (b) Application to others
 
-If any other person knowingly fails to comply with any regulation or rule issued or order given under the provisions of this title,<sup>1</sup> or knowingly obstructs or interferes with the exercise of any power conferred by this title,<sup>1</sup> he shall be punished by imprisonment for not more than ten years and may, at the discretion of the court, be fined not more than $10,000.
+If any other person knowingly fails to comply with any regulation or rule issued or order givenunder the provisions of this title,<sup>1</sup> or knowingly obstructs or interferes with the exercise of any power conferred by this title,<sup>1</sup> he shall be punished by imprisonment for not more than ten years and may, at the discretion of the court, be fined not more than $10,000.
 
 #### (c) Civil penalty
 

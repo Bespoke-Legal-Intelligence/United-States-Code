@@ -52,7 +52,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 #### (2) Exception for securities held by qualified affiliate
 
-&emsp;Paragraph (1) shall not apply with respect to any corporate debt security not of investment grade which is acquired and retained by any qualified affiliate of a savings association.
+&emsp;Paragraph (1) shall not apply with respect to any corporate debt security not of investmentgrade which is acquired and retained by any qualified affiliate of a savings association.
 
 #### (3) Transition rule
 
@@ -124,13 +124,13 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;&emsp;&emsp;(ii) determined that the transfer represents a complete and effective divestiture of the corporate debt security not of investment grade and is in compliance with the provisions of this subsection; and
 
-&emsp;&emsp;(G) any gain on the sale of the corporate debt security not of investment grade is recognized, and included for applicable regulatory capital requirements, by the insured savings association only at such time and to the extent that the insured savings association receives payment of principal on the note in cash in excess of the fair market value of the transferred corporate debt security not of investment grade as carried on the accounts of the insured savings association immediately prior to the transfer.
+&emsp;&emsp;(G) any gain on the sale of the corporate debt security not of investment grade is recognized, and included for applicable regulatory capital requirements, by the insured savings association only at such time and to the extent that the insured savings association receives payment of principal on thenote in cash in excess of the fair market value of the transferred corporate debt security not of investment grade as carried on the accounts of the insured savings association immediately prior to the transfer.
 
 #### (3) “Qualified note” defined
 
 &emsp;The term “qualified note” means any note that—
 
-&emsp;&emsp;(A) is at all times fully secured by the corporate debt security not of investment grade transferred in exchange for the note, or by other collateral of at least equivalent valuethat is acceptable to the Director of the Office of Thrift Supervision;
+&emsp;&emsp;(A) is at all times fully secured by the corporate debt security not of investment grade transferred in exchange for the note, or by other collateral of at least equivalent value that is acceptable to the Director of the Office of Thrift Supervision;
 
 &emsp;&emsp;(B) contains provisions acceptable to the Director of the Office of Thrift Supervision that would—
 

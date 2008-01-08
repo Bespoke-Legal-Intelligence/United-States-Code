@@ -24,7 +24,7 @@ Any article exempted from duty or tax, or in respect of which drawback has been 
 
 The privileges granted by this section and section 1317 of this title in respect of aircraft registered in a foreign country shall be allowed only if the Secretary of the Treasury shall have been advised by the Secretary of Commerce that he has found that such foreign country allows, or will allow, substantially reciprocal privileges in respect of aircraft registered in the United States. If the Secretary of Commerce shall advise the Secretary of the Treasury that he has found that a foreign country has discontinued, or will discontinue, the allowance of such privileges, the privileges granted by this section and such section 1317 shall not apply thereafter in respect of aircraft registered in that foreign country.
 
-(June 17, 1930, ch. 497, title III, §309, 46 Stat. 690; June 25, 1938, ch. 679, §5(a), 52 Stat. 1080; July 22, 1941, ch. 314, §3, 55 Stat. 602; Aug. 8, 1953, ch. 397, §11(a), 67 Stat. 514; Pub. L. 86–606, §5(a), July 7, 1960, 74 Stat. 361; Pub. L. 101–382, title III, §484A(b), Aug. 20, 1990, 104 Stat. 708.)
+(June 17, 1930, ch. 497, title III, §309, 46 Stat. 690; June 25, 1938, ch. 679, §5(a), 52 Stat. 1080; July 22,1941, ch. 314, §3, 55 Stat. 602; Aug. 8, 1953, ch. 397, §11(a), 67 Stat. 514; Pub. L. 86–606, §5(a), July 7, 1960, 74 Stat. 361; Pub. L. 101–382, title III, §484A(b), Aug. 20, 1990, 104 Stat. 708.)
 
 #### Prior Provisions
 
@@ -36,7 +36,7 @@ Provisions similar to those in this section were contained in act Oct. 3, 1913, 
 
 1960—Subsec. (a). Pub. L. 86–606 inserted “, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States” after “possessions” wherever appearing, and made the provisions for free withdrawals inapplicable to petroleum products for vessels or aircraft in voyages or flights between Hawaii or Alaska and any airport or Pacific coast seaport of the United States.
 
-1953—Subsec. (a). Act Aug. 8, 1953, extended the exemption from payment of duty and internal revenue tax theretofore available to supplies for certain vessels and aircraft withdrawn from bonded warehouses, bonded manufacturing warehouses, or continuous customs custody elsewhere to supplies withdrawn from foreign trade zones; accorded free entry for equipment withdrawn for foreign vessels; and enlarged the classes ofvessels and aircraft theretofore covered to include all vessels and aircraft operated by the United States.
+1953—Subsec. (a). Act Aug. 8, 1953, extended the exemption from payment of duty and internal revenue tax theretofore available to supplies for certain vessels and aircraft withdrawn from bonded warehouses, bonded manufacturing warehouses, or continuous customs custody elsewhere to supplies withdrawn from foreign trade zones; accorded free entry for equipment withdrawn for foreign vessels; and enlarged the classes of vessels and aircraft theretofore covered to include all vessels and aircraft operated by the United States.
 
 Subsec. (b). Act Aug. 8, 1953, made technical changes to conform with the changes made by such act in subsec. (a), including insertion of “or from a foreign-trade zone,”.
 

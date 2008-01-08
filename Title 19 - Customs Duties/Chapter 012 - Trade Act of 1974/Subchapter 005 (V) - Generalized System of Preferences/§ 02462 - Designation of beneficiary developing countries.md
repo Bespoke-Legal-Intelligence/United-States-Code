@@ -138,7 +138,7 @@ If the President determines that a beneficiary developing country has become a �
 
 #### (2) Notification of termination
 
-&emsp;If the President has designated any country as a beneficiary developing country under this subchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country of the President's intention to terminate suchdesignation, together with the considerations entering into such decision.
+&emsp;If the President has designated any country as a beneficiary developing country under this subchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country of the President's intention to terminate such designation, together with the considerations entering into such decision.
 
 (Pub. L. 93–618, title V, §502, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1917; amended Pub. L. 104–295, §35(a), Oct. 11, 1996, 110 Stat. 3538; Pub. L. 106–200, title IV, §412(a), May 18, 2000, 114 Stat. 298; Pub. L. 107–210, div. D, title XLI, §4102(a), Aug. 6, 2002, 116 Stat. 1040.)
 

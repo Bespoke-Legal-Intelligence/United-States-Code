@@ -6,7 +6,7 @@ The Administrator or his designated representatives may investigate and gather d
 
 #### (b) State and local agencies and employees
 
-With the consent and cooperation of State agencies charged with the administration of State labor laws, the Administrator and the Secretary of Labor may, for the purpose of carrying out their respective functions and duties under this chapter, utilize the services of Stateand local agencies and their employees and, notwithstanding any other provision of law, may reimburse such State and local agencies and their employees for services rendered for such purposes.
+With the consent and cooperation of State agencies charged with the administration of State labor laws, the Administrator and the Secretary of Labor may, for the purpose of carrying out their respective functions and duties under this chapter, utilize the services of State and local agencies and their employees and, notwithstanding any other provision of law, may reimburse such State and local agencies and their employees for services rendered for such purposes.
 
 #### (c) Records
 
@@ -42,7 +42,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 
-Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this title for violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
+Amendment by Pub. L. 99–150 not to affect liability of certain public agencies under section 216 of this titlefor violation of this section occurring before Apr. 15, 1986, see section 7 of Pub. L. 99–150, set out as a note under section 216 of this title.
 
 #### Definition of “Administrator”
 

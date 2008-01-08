@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(E) the number of family members in postsecondary education, and
 
-&emsp;&emsp;(F) an allowance (A) for State and other taxes, as defined in section 1087<i>oo</i>(c)(2) ofthis title for dependent students and in section 1087qq(b)(2) of this title for independent students with dependents other than a spouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
+&emsp;&emsp;(F) an allowance (A) for State and other taxes, as defined in section 1087<i>oo</i>(c)(2) of this title for dependent students and in section 1087qq(b)(2) of this title for independent students with dependents other than a spouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
 
 #### (3) Qualifying forms
 
@@ -116,7 +116,43 @@ In this section, the term “means-tested Federal benefit program” means a man
 
 &emsp;(6) other programs identified by the Secretary.
 
-(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174.)
+(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804.)
+
+#### Amendment of Section
+
+<i>Pub. L. 110–84, title VI, §602, Sept. 27, 2007, 121 Stat. 804, provided that, effective July 1, 2009, this section is amended as follows:</i>
+
+<i>(1) in subsection (b)(1)(A)(i) and (B)(i), by striking “or” after the semicolon in subclause (II), by redesignating subclause (III) as sub</i><i>clause (IV) and striking “12-month” and inserting “24-month”, and by inserting after subclause (II) the following:</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) 1 of whom is a dislocated worker; or”;</i>
+
+<i>(2) in subsection (c):</i>
+
+<i>(A) in paragraphs (1)(A) and (2)(A), by striking “or” after the semicolon in clause (ii), by redesignating clause (iii) as clause (iv) and striking “12-month” and inserting “24-month”, and by inserting after clause (ii) the following:</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) 1 of whom is a dislocated worker; or”;</i>
+
+<i>(B) in paragraphs (1)(B) and (2)(B), by striking “$20,000” and inserting “$30,000”; and</i>
+
+<i>(C) in the flush matter following paragraph (2)(B), by adding at the end the following: “The Secretary shall annually adjust the income level necessary to qualify an applicant for the zero expected family contribution. The income level shall be adjusted according to increases in the Consumer Price Index, as defined in section 1087rr(f) of this title.”; and</i>
+
+<i>(3) in subsection (d):</i>
+
+<i>(A) by redesignating paragraphs (1) through (6) as subparagraphs (A) through (F), respectively, and adjusting the margins; and</i>
+
+<i>(B) by striking “(d) Definition” and all that follows through “the term” and inserting the following:</i>
+
+#### <i>“(d) Definitions</i>
+
+<i>“In this section:</i>
+
+#### <i>“(1) Dislocated worker</i>
+
+&emsp;<i>“The term ‘dislocated worker’ has the meaning given the term in section 2801 of title 29.</i>
+
+#### <i>“(2) Means-tested Federal benefit program</i>
+
+&emsp;<i>“The term”.</i>
 
 #### References in Text
 
@@ -128,7 +164,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(3),
 
 #### Amendments
 
-2006—Subsec. (b)(1)(A)(i). Pub. L. 109–171, §8018(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “the student's parents file or are eligible to file a form described in paragraph (3) or certify that they are not required to file an income tax return and the student files or is eligible to file such aform or certifies that the student is not required to file an income tax return; and”.
+2006—Subsec. (b)(1)(A)(i). Pub. L. 109–171, §8018(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “the student's parents file or are eligible to file a form described in paragraph (3) or certify that they are not required to file an income tax return and the student files or is eligible to file such a form or certifies that the student is not required to file an income tax return; and”.
 
 Subsec. (b)(1)(B)(i). Pub. L. 109–171, §8018(a)(1)(A)(ii), added cl. (i) and struck out former cl. (i) which read as follows: “the student (and the student's spouse, if any) files or is eligible to file a form described in paragraph (3) or certifies that the student (and the student's spouse, if any) is not required to file an income tax return; and”.
 
@@ -185,6 +221,10 @@ Subsec. (b)(2). Pub. L. 100–50, §14(24)(A), struck out “and State” after 
 Subsec. (b)(6). Pub. L. 100–50, §14(24)(B)–(D), added par. (6).
 
 Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–84, title VI, §602(b), Sept. 27, 2007, 121 Stat. 805, provided that: “The amendments made by this section \[amending this section\] shall be effective on July 1, 2009.”
 
 #### Effective Date of 2006 Amendment
 

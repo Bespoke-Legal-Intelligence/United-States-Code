@@ -40,7 +40,7 @@ The production of any beer at any place in the United States shall be subject to
 
 #### Prior Provisions
 
-A prior section 5051, act Aug. 16, 1954, ch. 736, 68A Stat. 611, as amended by acts Mar. 30, 1955, ch. 18, §3(a)(8), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(8), 70Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(6), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(6), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5051, act Aug. 16, 1954, ch. 736, 68A Stat. 611, as amended by acts Mar. 30, 1955, ch. 18, §3(a)(8), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(8), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(6), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(6), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
@@ -50,7 +50,7 @@ Subsec. (a)(2)(C). Pub. L. 101–508, §11201(c)(2), added subpar. (C).
 
 1978—Subsec. (c). Pub. L. 95–458 added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–529 reduced the excise tax on beer for small brewers to $7 per barrel on the first 60,000 barrels produced in the United States and removed for sale or consumption or sale during the calendar year, the reduced rate to be applicable only to brewers producing no more than 2 million barrels of beer in a calendar year, and inserted provision that if several brewers are members of a controlled group, the 2–million barrel limit is to be applied to the controlled group and the 60,000–barrel limit is to be apportioned among the members of the controlled group in accordance with Treasury Department regulations promulgated by the Secretary or his delegate.
+1976—Subsec. (a). Pub. L. 94–529 reduced the excise tax on beer for small brewers to $7 per barrel on the first 60,000 barrels produced in the United States and removed for sale or consumption or sale during the calendar year, the reduced rate to be applicable only to brewers producing no more than 2 million barrels of beer in a calendar year, and inserted provision that if several brewers are members of a controlled group, the 2–million barrel limit is to be applied to the controlled group and the 60,000–barrel limit is to be apportionedamong the members of the controlled group in accordance with Treasury Department regulations promulgated by the Secretary or his delegate.
 
 1965—Subsec. (a). Pub. L. 89–44 struck out sentence providing for the imposition on and after July 1, 1965, of a tax of $8 in lieu of the tax imposed by the section.
 

@@ -46,7 +46,7 @@ No funds made available under this part to a local educational agency for an ele
 
 #### (ii) Ineligibility
 
-&emsp;&emsp;&emsp;Any school covered by subsection (a) of this section for which the local educational agency concerned is unable to certify compliance with such requirements in such second program year shall be ineligible for all funding under this part for such second program year and all subsequent program years until such time as such school comes into compliance with such requirements.
+&emsp;&emsp;&emsp;Any school covered by subsection (a) of this section for which the local educational agency concerned is unable to certify compliance with such requirements in such second program year shall be ineligible for all funding under this part for such second program year and all subsequent program years until such time assuch school comes into compliance with such requirements.
 
 #### (C) Waivers
 

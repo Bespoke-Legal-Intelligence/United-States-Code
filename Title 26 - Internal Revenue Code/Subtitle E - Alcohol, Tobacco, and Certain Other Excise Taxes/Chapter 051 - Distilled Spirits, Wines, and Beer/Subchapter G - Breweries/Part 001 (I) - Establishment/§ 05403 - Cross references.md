@@ -6,7 +6,7 @@
 
 &emsp;&emsp;<b>(3) For deposit of United States bonds or notes in lieu of sureties, see section 9303 of title 31, United States Code.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §3(f)(3), Sept. 13, 1982, 96 Stat. 1064.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §3(f)(3), Sept. 13, 1982, 96 Stat. 1064.)
 
 #### Prior Provisions
 

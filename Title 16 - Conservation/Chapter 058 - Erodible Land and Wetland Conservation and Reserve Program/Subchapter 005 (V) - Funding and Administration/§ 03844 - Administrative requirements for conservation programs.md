@@ -2,7 +2,7 @@
 
 #### (a) Beginning farmers and ranchers and Indian tribes
 
-In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
+In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers andIndian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
 
 &emsp;(1) foster new farming and ranching opportunities; and
 
@@ -84,6 +84,10 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 (Pub. L. 99–198, title XII, §1244, as added Pub. L. 107–171, title II, §2004(a), May 13, 2002, 116 Stat. 235; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (b)(2)(D)(ii), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+
 #### Prior Provisions
 
 Prior sections 3844 and 3845 were omitted in the general amendment of this subchapter by Pub. L. 104–127.
@@ -92,7 +96,7 @@ Section 3844, Pub. L. 99–198, title XII, §1244, Dec. 23, 1985, 99 Stat. 1515,
 
 Section 3845, Pub. L. 99–198, title XII, §1245, Dec. 23, 1985, 99 Stat. 1516; Pub. L. 101–624, title XIV, §1443, Nov. 28, 1990, 104 Stat. 3602; Pub. L. 102–552, title V, §516(b)(1), Oct. 28, 1992, 106 Stat. 4137, related to authorization of appropriations.
 
-A prior section 3846, Pub. L. 99–198, title XII, §1246, as added Pub. L. 101–624, title XIV, §1444, Nov. 28, 1990, 104 Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, §1011(a), Dec. 21, 1995, 109 Stat. 709.
+A prior section 3846, Pub. L. 99–198, title XII, §1246, as added Pub. L. 101–624, title XIV, §1444, Nov. 28, 1990, 104Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, §1011(a), Dec. 21, 1995, 109 Stat. 709.
 
 A prior section 3847, Pub. L. 99–198, title XII, §1247, as added Pub. L. 101–624, title XIV, §1445, Nov. 28, 1990, 104 Stat. 3603; amended Pub. L. 102–237, title II, §204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
 

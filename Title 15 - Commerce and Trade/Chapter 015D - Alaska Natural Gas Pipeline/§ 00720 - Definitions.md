@@ -24,7 +24,7 @@ In this chapter:
 
 #### (5) Federal Coordinator
 
-&emsp;The term “Federal Coordinator” means the head of the Office of the Federal Coordinatorfor Alaska Natural Gas Transportation Projects established by section 720d(a) of this title.
+&emsp;The term “Federal Coordinator” means the head of the Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects established by section 720d(a) of this title.
 
 #### (6) President's decision
 

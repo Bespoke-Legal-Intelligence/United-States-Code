@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose described in subsection (b) of this section, the Secretary shall, for fiscal year1998 and each subsequent fiscal year, allot to each State which has transmitted an application for the fiscal year under section 705(a) of this title an amount equal to the product of—
+For the purpose described in subsection (b) of this section, the Secretary shall, for fiscal year 1998 and each subsequent fiscal year, allot to each State which has transmitted an application for the fiscal year under section 705(a) of this title an amount equal to the product of—
 
 &emsp;(1) the amount appropriated in subsection (d) of this section for the fiscal year; and
 

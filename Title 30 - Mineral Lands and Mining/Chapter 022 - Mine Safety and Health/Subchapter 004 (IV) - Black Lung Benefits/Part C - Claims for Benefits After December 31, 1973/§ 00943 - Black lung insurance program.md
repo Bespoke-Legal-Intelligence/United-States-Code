@@ -60,7 +60,7 @@ The Secretary may undertake and carry out such studies and investigations, and r
 
 &emsp;(C) income which may be earned on investments of the insurance fund pursuant to paragraph (3).
 
-(3) If, after all outstanding current obligations of the insurance fund have been liquidated and any outstanding amounts which may have been advanced to the insurance fund from appropriations authorized under subsection (i) of this section have been credited to the appropriation from which advanced, the Secretary determines that the moneys of the insurance fund are in excess of current needs, he or she may request the investment of such amounts as he or she deems advisable by the Secretary of the Treasury inpublic debt securities with maturities suitable for the needs of the insurance fund and bearing interest at prevailing market rates.
+(3) If, after all outstanding current obligations of the insurance fund have been liquidated and any outstanding amounts which may have been advanced to the insurance fund from appropriations authorized under subsection (i) of this section have been credited to the appropriation from which advanced, the Secretary determines that the moneys of the insurance fund are in excess of current needs, he or she may request the investment of such amounts as he or she deems advisable by the Secretary of the Treasury in public debt securities with maturities suitable for the needs of the insurance fund and bearing interest at prevailing market rates.
 
 #### (h) Omitted
 

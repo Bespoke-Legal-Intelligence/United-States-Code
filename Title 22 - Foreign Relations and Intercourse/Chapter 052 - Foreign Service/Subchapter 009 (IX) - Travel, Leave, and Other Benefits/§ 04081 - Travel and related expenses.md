@@ -34,7 +34,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;(9) roundtrip travel to or from an employee's post of assignment for purposes of family visitation in emergency situations involving personal hardship, except that payment for travel by family members to an employee's post of assignment may be authorized under this paragraph only where the family of the member is prevented by official order from residing at such post.<sup>1</sup>
 
-&emsp;(10) preparing and transporting to the designated home in the United States or to a place not more distant, the remains of a member of the Service, or of a family member of a member of the Service, who dies abroad or while in travel status or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant;
+&emsp;(10) preparing and transporting to the designated home in the United States or to a place not more distant, the remains of a member of the Service, or of a family member of amember of the Service, who dies abroad or while in travel status or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant;
 
 &emsp;(11) transporting the furniture and household and personal effects of a member of the Service (and of his or her family) to successive posts of duty and, on separation of a member from the Service, to the place where the member will reside (or if the member has died, to the place where his or her family will reside);
 
@@ -46,7 +46,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;&emsp;(C) in connection with separation of the member from the Service, except that costs or expenses may not be paid under this subparagraph for storing furniture and household and personal effects for more than 3 months, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days;
 
-&emsp;(13) transporting, for or on behalf of a member of the Service, a privately owned motor vehicle in any case in which the Secretary determines that water, rail, or air transportation of the motor vehicle is necessary or expedient for all or any part of the distance between points of origin and destination, but transportation may be provided under thisparagraph for only one motor vehicle of a member during any 48-month period while the member is continuously serving abroad, except that another motor vehicle may be so transported as a replacement for such motor vehicle if such replacement—
+&emsp;(13) transporting, for or on behalf of a member of the Service, a privately owned motor vehicle in any case in which the Secretary determines that water, rail, or air transportation of the motor vehicle is necessary or expedient for all or any part of the distance between points of origin and destination, but transportation may be provided under this paragraph for only one motor vehicle of a member during any 48-month period while the member is continuously serving abroad, except that another motor vehicle may be so transported as a replacement for such motor vehicle if such replacement—
 
 &emsp;&emsp;(A) is determined, in advance, by the Secretary to be necessary for reasons beyond the control of the member and in the interest of the Government, or
 
@@ -78,7 +78,7 @@ Par. (12)(B). Pub. L. 102–138, §145(1), inserted before semicolon “, excep
 
 Par. (12)(C). Pub. L. 102–138, §145(2), inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
 
-1990—Par. (9). Pub. L. 101–246 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “round-trip travel from a location abroad for purposes of family visitation in emergency situations involving personal hardship;”.
+1990—Par. (9). Pub. L. 101–246 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “round-trip travel from a location abroad for purposesof family visitation in emergency situations involving personal hardship;”.
 
 #### Effective Date of 2002 Amendment
 

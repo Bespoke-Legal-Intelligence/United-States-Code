@@ -18,7 +18,7 @@
 
 #### (1) Collection of information at reasonable cost
 
-&emsp;The Secretary shall take such action as may be necessary to secure at reasonable cost theinformation required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Vocational and Adult Education, and an entity assisted under section 2328 of this title (if applicable), shall determine the methodology to be used and the frequency with which information is to be collected.
+&emsp;The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Vocational and Adult Education, and an entity assisted under section 2328 of this title (if applicable), shall determine the methodology to be used and the frequency with which information is to be collected.
 
 #### (2) Cooperation of States
 
@@ -156,13 +156,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) effective in-service and preservice teacher and faculty education that assists career and technical education programs in—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with academic content standards and student academic achievement standards, as adopted by States under section 6311(b)(1) of this title; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with academic content standards and student academic achievement standards,as adopted by States under section 6311(b)(1) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) coordinating technical education with industry-recognized certification requirements;
 
 &emsp;&emsp;&emsp;&emsp;(II) dissemination and training activities related to the applied research and demonstration activities described in this subsection, which may also include serving as a repository for information on career and technical skills, State academic standards, and related materials; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the recruitment and retention of career and technical education teachers, faculty, counselors, and administrators,including individuals in groups underrepresented in the teaching profession; and
+&emsp;&emsp;&emsp;&emsp;(III) the recruitment and retention of career and technical education teachers, faculty, counselors, and administrators, including individuals in groups underrepresented in the teaching profession; and
 
 &emsp;&emsp;&emsp;(iv) to carry out such other research and evaluation, consistent with the purposes of this chapter, as the Secretary determines appropriate to assist State and local recipients of funds under this chapter.
 

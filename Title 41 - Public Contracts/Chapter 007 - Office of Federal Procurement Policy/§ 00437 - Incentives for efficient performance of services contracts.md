@@ -30,3 +30,7 @@ The authority under this section shall expire 10 years after November 24, 2003.
 
 (Pub. L. 93–400, §41, as added Pub. L. 108–136, div. A, title XIV, §1431(a), Nov. 24, 2003, 117 Stat. 1671.)
 
+#### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

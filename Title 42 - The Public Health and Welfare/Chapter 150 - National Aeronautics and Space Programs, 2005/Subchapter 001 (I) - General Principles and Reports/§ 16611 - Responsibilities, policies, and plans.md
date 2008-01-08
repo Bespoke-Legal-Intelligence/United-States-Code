@@ -42,7 +42,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator shall establish a program to develop a sustained human presence on the Moon, including a robust precursor program, to promote exploration, science, commerce, and United States preeminence in space, and as a stepping-stone to future exploration ofMars and other destinations. The Administrator is further authorized to develop and conduct appropriate international collaborations in pursuit of these goals.
+&emsp;The Administrator shall establish a program to develop a sustained human presence on the Moon, including a robust precursor program, to promote exploration, science, commerce, and United States preeminence in space, and as a stepping-stone to future exploration of Mars and other destinations. The Administrator is further authorized to develop and conduct appropriate international collaborations in pursuit of these goals.
 
 #### (2) Milestones
 
@@ -104,7 +104,7 @@
 
 &emsp;(B) Not later than 60 days after the transmittal of the policy under subparagraph (A), the Administrator shall transmit to the Committee on Appropriations of the House of Representatives, the Committee on Appropriations of the Senate, the Committee on Science of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a report describing how NASA will carry out the policy.
 
-&emsp;(C) At the time the President's fiscal year 2007 budget is transmitted to the Congress, the Administrator shall transmit to the Committee on Appropriations of the House of Representatives, the Committee on Appropriations of the Senate, the Committee on Scienceof the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a report on the proposed NASA aeronautics budget describing—
+&emsp;(C) At the time the President's fiscal year 2007 budget is transmitted to the Congress, the Administrator shall transmit to the Committee on Appropriations of the House of Representatives, the Committee on Appropriations of the Senate, the Committee on Science of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate a report on the proposed NASA aeronautics budget describing—
 
 &emsp;&emsp;(i) the rationale for the budget levels and activities in the proposed fiscal year 2007 NASA aeronautics budget;
 
@@ -156,7 +156,7 @@
 
 #### (6) Schedule
 
-&emsp;The Administrator shall transmit the plan developed under this subsection to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 1 year after December 30, 2005. The Administrator shall make available to those committees any study done by a nongovernmental entity that was used in the development of the plan.
+&emsp;The Administrator shall transmit the plan developed under this subsection to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 1 year after December 30, 2005. TheAdministrator shall make available to those committees any study done by a nongovernmental entity that was used in the development of the plan.
 
 #### (e) Facilities
 
@@ -276,7 +276,7 @@
 
 #### (2) Sense of Congress regarding evaluation criteria for budget requests
 
-&emsp;It is the sense of the Congress that each budget of the United States submitted to theCongress after December 30, 2005, should be evaluated for compliance with the findings and priorities established by this chapter and the amendments made by this chapter.
+&emsp;It is the sense of the Congress that each budget of the United States submitted to the Congress after December 30, 2005, should be evaluated for compliance with the findings and priorities established by this chapter and the amendments made by this chapter.
 
 #### (i) Additional budget information
 
@@ -318,13 +318,17 @@ NASA shall make available, upon request from the Committee on Science of the Hou
 
 #### References in Text
 
-Subchapter II, referred to in subsecs. (c)(2)(A)(iv), (d)(2)(C), (e)(2)(H), and (f)(2)(D), was in the original a reference to title II of Pub. L. 109–155, Dec. 30, 2005, 119 Stat. 2915, which enacted subchapter II of this chapter and amended section 2459f of this title and provisions set out as a note under section 2451 of this title. For complete classification of title II to the Code, see Tables.
+Subchapter II, referred to in subsecs. (c)(2)(A)(iv), (d)(2)(C), (e)(2)(H), and (f)(2)(D), was in the original a reference to title II of Pub. L. 109–155, Dec. 30, 2005, 119Stat. 2915, which enacted subchapter II of this chapter and amended section 2459f of this title and provisions set out as a note under section 2451 of this title. For complete classification of title II to the Code, see Tables.
 
 Section 2459f–1 of this title, referred to in subsec. (h)(1)(E), was in the original “section 104”, meaning section 104 of Pub. L. 109–155 which was translated as reading section 314 of the National Aeronautics and Space Act of 1958 which was enacted by section 104 and is classified to section 2459f–1 of this title, to reflect the probable intent of Congress.
 
 This chapter, referred to in subsec. (h)(2), was in the original “this Act”, meaning Pub. L. 109–155, Dec. 30, 2005, 119 Stat. 2895, which enacted this chapter and sections 2459f–1, 2459k, and 2459<i>l</i> of this title, amended sections 2451, 2458c, 2459f, 2459g, 2473b, and 2477 of this title and section 9809 of Title 5, Government Organization and Employees, repealed section 2473e of this title, enacted provisions set out as a note under section 11601 of this title, and amended provisions set out as notes under section 2451 of this title and section 47508 of Title 49, Transportation. For complete classification of this Act to the Code, see Short Title note set out under section 16601 of this title and Tables.
 
 The Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (j)(1), is Pub. L. 108–375, Oct. 28, 2004, 118 Stat. 1811. For complete classification of this Act to the Code, see Tables.
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Development of National Aeronautics Policy
 
@@ -364,7 +368,7 @@ Consultation.—In developing the national aeronautics policy, the Administrator
 
 “(e)
 
-Schedule.—The Administrator shall submit the new national aeronautics policy to the House and Senate Committees on Appropriations and to the House Committee on Science and the Senate Committee on Commerce, Science, and Transportation within one year of enactment of this Act \[Nov. 22, 2005\]. The Administrator shall make available to the Congress any study done by a non-governmental entity that was used in the development of the national aeronautics policy.”
+Schedule.—The Administrator shall submit the new national aeronautics policy to the House and Senate Committees on Appropriations and to the House Committee on Science \[now Committee on Science and Technology\] and the Senate Committee on Commerce, Science, and Transportation within one year of enactment of this Act \[Nov. 22, 2005\]. The Administrator shall make available to the Congress any study done by a non-governmental entity that was used in the development of the national aeronautics policy.”
 
 #### Ex. Ord. No. 13419. National Aeronautics Research and Development
 
@@ -392,7 +396,7 @@ Sec. 2. <i>Functions of the Director of the Office of Science and Technology Pol
 
 (vi) enhance coordination and communication among executive departments and agencies to maximize the effectiveness of Federal Government R\&D resources; and
 
-(vii) ensure appropriate Federal Government coordination with State, territorial, tribal, local, and foreign governments, international organizations, academic and research institutions, private organizations, and other entities.
+(vii) ensure appropriate Federal Government coordination with State, territorial, tribal, local, and foreign governments, international organizations, academicand research institutions, private organizations, and other entities.
 
 Sec. 3. <i>Implementation of National Aeronautics Research and Development Policy</i>. To implement the policy set forth in section 1 of this order, the Director shall:
 

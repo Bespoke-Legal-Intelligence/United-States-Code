@@ -50,7 +50,7 @@
 
 &emsp;(2) is involuntarily separated from the service, not by removal for cause on charges of misconduct, delinquency, or inefficiency;
 
-> is entitled to be paid severance pay in regular pay periods by the agency from which separated. However, the Director of the Administrative Office of the United States Courts may prescribe regulations to effect the application and operation of this section to the agencies specified insubsection (a)(1)(E) of this section. The Architect of the Capitol may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(F) of this section. The Public Printer may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(C) of this section.
+> is entitled to be paid severance pay in regular pay periods by the agency from which separated. However, the Director of the Administrative Office of the United States Courts may prescribe regulations to effect the application and operation of this section to the agencies specified in subsection (a)(1)(E) of this section. The Architect of the Capitol may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(F) of this section. The Public Printer may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(C) of this section.
 
 (c) Severance pay consists of—
 
@@ -212,7 +212,7 @@ Subsec. (b). Pub. L. 101–474, §5(k)(2), inserted at end “However, the Direc
 
 1980—Subsec. (a)(2)(vi). Pub. L. 96–465 inserted “benefits under section 609(b)(1) of the Foreign Service Act of 1980 or any” after “to receive”.
 
-1979—Subsec. (a)(2)(iii). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
+1979—Subsec. (a)(2)(iii). Pub. L. 96–70 substituted “areas and installations in the Republic of Panama made available to the United States pursuant to thePanama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone”.
 
 1978—Subsec. (a)(2)(i). Pub. L. 95–454 inserted reference to a member of the Senior Executive Service.
 

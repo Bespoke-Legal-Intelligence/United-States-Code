@@ -92,7 +92,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 #### (B) Medical expenses
 
-&emsp;&emsp;In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied by substituting “10 percent” for “7.5 percent”.
+&emsp;&emsp;In determining the amount allowable as a deduction under section 213, subsection (a) ofsection 213 shall be applied by substituting “10 percent” for “7.5 percent”.
 
 #### (C) Interest
 
@@ -274,7 +274,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The alternative minimum taxable income for any corporation of any taxable year, shall be reduced by 75 percent of the excess (if any) of—
+&emsp;&emsp;The alternative minimum taxable income for any corporation of any taxable year,shall be reduced by 75 percent of the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the amount referred to in subparagraph (B) of paragraph (1), over
 
@@ -354,13 +354,13 @@ For purposes of this part—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A deduction shall not be allowed for any item if such item would not be deductible for any taxable year for purposes of computing earnings and profits.
+&emsp;&emsp;&emsp;A deduction shall not be allowed for any item if such item would not be deductiblefor any taxable year for purposes of computing earnings and profits.
 
 #### (ii) Special rule for certain dividends
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Clause (i) shall not apply to any deduction allowable under section 243 or 245 for any dividend which is a 100-percent dividend or which is received from a 20-percent owned corporation (as defined in section 243(c)(2)), but only to the extent such dividend is attributable to income of the paying corporation which is subject to tax under this chapter (determined after the application of sections 30A, 936 (including subsections (a)(4), (i), and (j) thereof) and 921).<sup>1</sup>
+&emsp;&emsp;&emsp;&emsp;Clause (i) shall not apply to any deduction allowable under section 243 or 245 for any dividend which is a 100-percent dividend or which is received from a 20-percent owned corporation (as defined in section 243(c)(2)), but only to the extent such dividend is attributable to income of the paying corporation which is subject to tax under this chapter (determined after the application of sections 30A, 936 (including subsections (a)(4), (i), and (j) thereof) and 921 (as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)).
 
 #### (II) 100-percent dividend
 
@@ -378,7 +378,7 @@ For purposes of this part—
 
 #### (III) Treatment of taxes imposed on 936 corporation
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this clause, taxes paid by any corporation eligible for the credit provided by section 936 to a possession of the United States shall be treated as awithholding tax paid with respect to any dividend paid by such corporation to the extent such taxes would be treated as paid by the corporation receiving the dividend under rules similar to the rules of section 902 (and the amount of any such dividend shall be increased by the amount so treated).
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, taxes paid by any corporation eligible for the credit provided by section 936 to a possession of the United States shall be treated as a withholding tax paid with respect to any dividend paid by such corporation to the extent such taxes would be treated as paid by the corporation receiving the dividend under rules similar to the rules of section 902 (and the amount of any such dividend shall be increased by the amount so treated).
 
 #### (IV) Separate application of foreign tax credit limitations
 
@@ -394,7 +394,7 @@ For purposes of this part—
 
 #### (iv) Special rule for certain dividends received by certain cooperatives
 
-&emsp;&emsp;&emsp;In the case of a cooperative described in section 927(a)(4),<sup>1</sup> clause (i) shall not apply to any amount allowable as a deduction under section 245(c).
+&emsp;&emsp;&emsp;In the case of an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products, clause (i) shall not apply to any amount allowable as a deduction under section 245(c).
 
 #### (v) Deduction for domestic production
 
@@ -420,7 +420,7 @@ For purposes of this part—
 
 #### (iv) Installment sales
 
-&emsp;&emsp;&emsp;In the case of any installment sale in a taxable year beginning after December 31, 1989, adjusted current earnings shall be computed as if the corporation did not use the installment method. The preceding sentence shall not apply to the applicable percentage (as determined under section 453A) of the gain from any installment sale with respect to which section 453A(a)(1) applies.
+&emsp;&emsp;&emsp;In the case of any installment sale in a taxable year beginning after December 31, 1989, adjusted current earnings shall be computed as if the corporation did not use the installment method. The precedingsentence shall not apply to the applicable percentage (as determined under section 453A) of the gain from any installment sale with respect to which section 453A(a)(1) applies.
 
 #### (E) Disallowance of loss on exchange of debt pools
 
@@ -470,7 +470,7 @@ For purposes of this part—
 
 &emsp;This subsection shall not apply to any S corporation, regulated investment company, real estate investment trust, or REMIC.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490.)
 
 #### References in Text
 
@@ -480,13 +480,17 @@ Sections 203, 204, and 251(d) of such Act, referred to in subsec. (a)(1)(C), are
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (g)(4)(A)(iii), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
-Sections 921 and 927, referred to in subsec. (g)(4)(C), were repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
+The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (g)(4)(C)(ii)(I), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 1 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, §501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, §601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, §301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, §202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, §141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L. 95–618, title I, §101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, §201(d)(1), formerly §201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(1), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, §1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to a corporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
+
+2007—Subsec. (g)(4)(C)(ii)(I). Pub. L. 110–172, §11(g)(1), substituted “921 (as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “921”.
+
+Subsec. (g)(4)(C)(iv). Pub. L. 110–172, §11(g)(2), which directed the amendment of section 54(g)(4)(C)(iv) of this title by substituting “an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products” for “a cooperative described in section 927(a)(4)”, was executed to this section, to reflect the probable intent of Congress.
 
 2006—Subsec. (c)(2). Pub. L. 109–304, in introductory provisions, substituted “chapter 535 of title 46, United States Code” for “section 607 of the Merchant Marine Act, 1936 (46 U.S.C. 1177)”, and, in subpars. (A) and (B), substituted “such chapter 535” for “such section 607”.
 
@@ -562,7 +566,7 @@ Subsec. (g)(4)(C)(iii)(IV), (V). Pub. L. 103–66, §13227(c)(2), added subcls. 
 
 Subsec. (g)(4)(J). Pub. L. 103–66, §13171(b), added subpar. (J).
 
-1992—Subsec. (d)(1)(A). Pub. L. 102–486, §1915(c)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of such deduction shall not exceed the excess (if any) of—
+1992—Subsec. (d)(1)(A). Pub. L. 102–486, §1915(c)(2), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: “the amount of such deduction shall not exceed the excess (if any) of—
 
 &emsp;“(i) 90 percent of alternative minimum taxable income determined without regard to such deduction and the deduction under subsection (h), over
 
@@ -934,7 +938,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Coordination with transitional rules.—The amendments made by this section shall not apply to any property to which paragraph (1) of section 56(a) of the Internal Revenue Code of 1986 does not apply by reason of subparagraph (C)(i) thereof.”
 
-Amendment by section 13171(b) of Pub. L. 103–66 applicable to contributions made after June 30, 1992, except that in case of any contribution of capital gain property which is not tangible personal property, such amendment applicable only if the contribution is made after Dec. 31, 1992, see section 13171(d) of Pub. L. 103–66, set out as a note under section 53 of this title.
+Amendment by section 13171(b) of Pub. L. 103–66 applicable to contributions made after June 30, 1992, except that in case of any contribution of capital gain property which is not tangible personal property, suchamendment applicable only if the contribution is made after Dec. 31, 1992, see section 13171(d) of Pub. L. 103–66, set out as a note under section 53 of this title.
 
 Section 13227(f) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 904, 936, and 7652 of this title\] shall apply to taxable years beginning after December 31, 1993; except that the amendment made by subsection (e) \[amending section 7652 of this title\] shall take effect on October 1, 1993.”
 
@@ -1010,7 +1014,7 @@ Amendment by sections 1002(a)(12) and 1007(b)(1)–(13), (15)–(19) of Pub. L. 
 
 Section 2001(e) of Pub. L. 100–647 provided that: “Except as otherwise provided in this section, the amendments made by this section \[amending this section, sections 59A, 882, 4041, 4081, 4091, 4662, 4672, 6416, 6421, and 6427 of this title, and provisions set out as a note under section 4081 of this title\] shall take effect as if included in the provision of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, title V\] to which it relates.”
 
-Section 2004(u) of Pub. L. 100–647 provided that: “Except as otherwise provided in this section, any amendment made by this section \[amending this section, sections 163, 244, 280H, 301, 304, 355, 384, 444, 453, 453A, 469, 514, 811, 812, 816, 842, 904, 1201, 1363, 1503, 1561, 4093, 5113, 5123, 5276, 5881, 6427, 6655, 7519, and 7704 of this title, and provisions set out as notes under sections 21, 219, 243, 301, 304, 444, 453, 1503, and 7704 of this title\] shall take effect as if included in the provisions of the Revenue Act of 1987 \[Pub. L. 100–203, title X\] to which such amendment relates.”
+Section 2004(u) of Pub. L. 100–647 provided that: “Except as otherwise provided in this section, any amendment made by this section \[amending this section, sections 163, 244, 280H, 301, 304, 355, 384, 444, 453, 453A, 469, 514, 811, 812, 816, 842, 904, 1201, 1363, 1503, 1561, 4093, 5113,5123, 5276, 5881, 6427, 6655, 7519, and 7704 of this title, and provisions set out as notes under sections 21, 219, 243, 301, 304, 444, 453, 1503, and 7704 of this title\] shall take effect as if included in the provisions of the Revenue Act of 1987 \[Pub. L. 100–203, title X\] to which such amendment relates.”
 
 Amendment by section 5041(b)(4) of Pub. L. 100–647 applicable to contracts entered into on or after June 21, 1988, but not applicable to any contract resulting from the acceptance of a bid made before June 21, 1988, if the bid could not have been revoked or altered at any time on or after June 21, 1988, and not applicable in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of Pub. L. 100–203, set out as a note under section 460 of this title), see section 5041(e) of Pub. L. 100–647, set out as a note under section 460 of this title.
 
@@ -1047,6 +1051,4 @@ For applicability of amendment by section 701(a) of Pub. L. 99–514 \[enacting 
 #### Study of Book and Earnings and Profits Adjustments
 
 Section 702 of Pub. L. 99–514 required Secretary of the Treasury or his delegate to conduct a study of operation and effect of provisions of sections 56(f) and 56(g) of the Internal Revenue Code of 1986, prior to repeal by Pub. L. 101–508, title XI, §11832(4), Nov. 5, 1990, 104 Stat. 1388–559.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

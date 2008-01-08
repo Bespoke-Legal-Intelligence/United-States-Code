@@ -200,8 +200,6 @@ Subsec. (g)(4)(D). Pub. L. 99–272, §11005(c)(12), substituted “joint” for
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
-
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(6) \[title IX, §951(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586, provided that: “The amendments made by this section \[amending this section\] shall apply to any multiemployer plan that has not received financial assistance (within the meaning of section 4261 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1431\]) within the 1-year period ending on the date of the enactment of this Act \[Dec. 21, 2000\].”

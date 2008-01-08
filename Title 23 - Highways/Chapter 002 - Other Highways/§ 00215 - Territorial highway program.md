@@ -62,7 +62,7 @@ Nonapplicability of Certain Provisions.—
 
 &emsp;(1)
 
-In general.—Except to the extent that provisions of chapter 1 are determined by the Secretary to be inconsistent with the needs of the territories and the intent of the program, chapter 1 (other than provisions of chapter 1relating to the apportionment and allocation of funds) shall apply to funds authorized to be appropriated for the program.
+In general.—Except to the extent that provisions of chapter 1 are determined by the Secretary to be inconsistent with the needs of the territories and the intent of the program, chapter 1 (other than provisions of chapter 1 relating to the apportionment and allocation of funds) shall apply to funds authorized to be appropriated for the program.
 
 &emsp;(2)
 

@@ -26,7 +26,7 @@ The following sanctions shall be imposed pursuant to any order issued under subs
 
 #### (A) Designation as primary dealer
 
-&emsp;&emsp;Neither the Board of Governors of the Federal Reserve System nor the Federal ReserveBank of New York may designate, or permit the continuation of any prior designation of, the person as a primary dealer in United States Government debt instruments.
+&emsp;&emsp;Neither the Board of Governors of the Federal Reserve System nor the Federal Reserve Bank of New York may designate, or permit the continuation of any prior designation of, the person as a primary dealer in United States Government debt instruments.
 
 #### (B) Service as depositary
 

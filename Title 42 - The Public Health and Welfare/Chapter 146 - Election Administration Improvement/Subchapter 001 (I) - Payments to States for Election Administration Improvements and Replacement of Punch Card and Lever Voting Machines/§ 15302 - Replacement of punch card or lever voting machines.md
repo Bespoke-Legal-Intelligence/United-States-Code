@@ -24,7 +24,7 @@
 
 #### (B) Waiver
 
-&emsp;&emsp;If a State certifies to the Administrator not later than January 1, 2004, that the State will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, the State shall ensure that all of the punch card voting systems or lever voting systems in the qualifying precincts within that State will be replaced in time for the first election for Federal office held after January 1, 2006.
+&emsp;&emsp;If a State certifies to the Administrator not later than January 1, 2004, that the State will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, the State shall ensure that all of the punch card voting systems or lever voting systems in the qualifying precincts within that State will be replaced in time for the first election for Federal office held after March 1, 2008.
 
 #### (b) Eligibility
 
@@ -32,7 +32,7 @@
 
 &emsp;A State is eligible to receive a payment under the program under this section if it submits to the Administrator a notice not later than the date that is 6 months after October 29, 2002 (in such form as the Administrator may require) that contains—
 
-&emsp;&emsp;(A) certifications that the State will use the payment (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in the qualifying precincts within the State by the deadline described in subsection (a)(3) of this section;
+&emsp;&emsp;(A) certifications that the State will use the payment (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001,under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in the qualifying precincts within the State by the deadline described in subsection (a)(3) of this section;
 
 &emsp;&emsp;(B) certifications that the State will continue to comply with the laws described in section 15545 of this title;
 
@@ -56,7 +56,7 @@
 
 #### (2) Reduction
 
-&emsp;If the amount of funds appropriated pursuant to the authority of section 15304(a)(2) of this title is insufficient to ensure that eachState receives the amount of payment calculated under paragraph (1), the Administrator shall reduce the amount specified in paragraph (1)(B) to ensure that the entire amount appropriated under such section is distributed to the States.
+&emsp;If the amount of funds appropriated pursuant to the authority of section 15304(a)(2) of this title is insufficient to ensure that each State receives the amount of payment calculated under paragraph (1), the Administrator shall reduce the amount specified in paragraph (1)(B) to ensure that the entire amount appropriated under such section is distributed to the States.
 
 #### (d) Repayment of funds for failure to meet deadlines
 
@@ -90,5 +90,13 @@ For purposes of this section, a “punch card voting system” includes any of t
 
 &emsp;(7) Votomatic.
 
-(Pub. L. 107–252, title I, §102, Oct. 29, 2002, 116 Stat. 1670.)
+(Pub. L. 107–252, title I, §102, Oct. 29, 2002, 116 Stat. 1670; Pub. L. 110–28, title VI, §6301(a), May 25, 2007, 121 Stat. 171.)
+
+#### Amendments
+
+2007—Subsec. (a)(3)(B). Pub. L. 110–28 substituted “March 1, 2008” for “January 1, 2006”.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–28, title VI, §6301(b), May 25, 2007, 121 Stat. 171, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252\].”
 

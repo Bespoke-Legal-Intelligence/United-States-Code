@@ -2,7 +2,7 @@
 
 #### (a) Expansion and coordination of activities
 
-The Director of the Institute, in coordination with the Director of the National Institute of Allergy and Infectious Diseases, shall expand and intensify the programs of such Institutes with respect to research and related activitiesconcerning juvenile arthritis and related conditions.
+The Director of the Institute, in coordination with the Director of the National Institute of Allergy and Infectious Diseases, shall expand and intensify the programs of such Institutes with respect to research and related activities concerning juvenile arthritis and related conditions.
 
 #### (b) Coordination
 

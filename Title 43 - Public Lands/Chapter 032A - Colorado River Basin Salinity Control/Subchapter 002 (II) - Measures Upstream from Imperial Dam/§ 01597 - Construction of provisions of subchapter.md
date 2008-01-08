@@ -14,7 +14,7 @@ The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, 
 
 The Colorado River Storage Project Act, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 620 of this title and Tables.
 
-The Colorado River Compact (45 Stat. 1057), the Upper Colorado River Basin Compact (63 Stat. 31), and the Water Treaty of 1944, referred to in text, are not classified to the Code.
+The Colorado River Compact (45 Stat. 1057), the Upper Colorado River Basin Compact (63 Stat. 31), and theWater Treaty of 1944, referred to in text, are not classified to the Code.
 
 The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 617t of this title and Tables.
 

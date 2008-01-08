@@ -48,7 +48,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (D) Evaluation
 
-&emsp;&emsp;During the 6-month period following the end of the first fiscal year for which the total amount reserved under subparagraph (B) is equal to 5 percent of the total amount appropriated under subsection (a) for such fiscal year, the Secretary, acting through the Director of NIH, in consultation with the advisory council established under section 282(k) of this title, shall submit recommendations to the Congress for changes regarding amounts for the Common Fund.
+&emsp;&emsp;During the 6-month period following the end of the first fiscal year for which thetotal amount reserved under subparagraph (B) is equal to 5 percent of the total amount appropriated under subsection (a) for such fiscal year, the Secretary, acting through the Director of NIH, in consultation with the advisory council established under section 282(k) of this title, shall submit recommendations to the Congress for changes regarding amounts for the Common Fund.
 
 #### (2) Trans-NIH research reporting
 
@@ -78,7 +78,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (d) Transfer authority
 
-Of the total amount appropriated under subsection (a) for a fiscal year, the Director of NIHmay (in addition to the reservation under subsection (c)(1) for such year) transfer not more than 1 percent for programs or activities that are authorized in this subchapter and identified by the Director to receive funds pursuant to this subsection. In making such transfers, the Director may not decrease any appropriation account under subsection (a) by more than 1 percent.
+Of the total amount appropriated under subsection (a) for a fiscal year, the Director of NIH may (in addition to the reservation under subsection (c)(1) for such year) transfer not more than 1 percent for programs or activities that are authorized in this subchapter and identified by the Director to receive funds pursuant to this subsection. In making such transfers, the Director may not decrease any appropriation account under subsection (a) by more than 1 percent.
 
 #### (e) Rule of construction
 

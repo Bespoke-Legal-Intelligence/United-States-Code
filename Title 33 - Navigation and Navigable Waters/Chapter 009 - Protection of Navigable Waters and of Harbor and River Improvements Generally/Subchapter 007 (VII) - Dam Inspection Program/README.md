@@ -12,6 +12,7 @@
 - [&sect; 00467d - National dam inventory](%C2%A7%2000467d%20-%20National%20dam%20inventory.md)
 - [&sect; 00467e - Interagency Committee on Dam Safety](%C2%A7%2000467e%20-%20Interagency%20Committee%20on%20Dam%20Safety.md)
 - [&sect; 00467f - National dam safety program](%C2%A7%2000467f%20-%20National%20dam%20safety%20program.md)
+- [&sect; 00467f&#8211;1 - Lock and dam security](%C2%A7%2000467f%E2%80%931%20-%20Lock%20and%20dam%20security.md)
 - [&sect; 00467g - Research](%C2%A7%2000467g%20-%20Research.md)
 - [&sect; 00467g&#8211;1 - Dam safety training](%C2%A7%2000467g%E2%80%931%20-%20Dam%20safety%20training.md)
 - [&sect; 00467h - Reports](%C2%A7%2000467h%20-%20Reports.md)

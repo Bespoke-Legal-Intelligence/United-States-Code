@@ -20,7 +20,7 @@ The Congress finds that animals and activities which are regulated under this ch
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–198, title XVII, §1759, Dec. 23, 1985, 99 Stat. 1650, provided that: “This subtitle \[subtitle F (§§1751–1759), enacting section 2157 of this title, amending sections 2132, 2143 to 2146, and 2149 of this title, and enacting provisions set out as notes under this section\] shall take effect 1 year after the date of the enactment of this Act \[Dec. 23, 1985\].”
+Pub. L. 99–198, title XVII, §1759, Dec. 23, 1985, 99 Stat. 1650, provided that: “This subtitle \[subtitle F\(§§1751–1759), enacting section 2157 of this title, amending sections 2132, 2143 to 2146, and 2149 of this title, and enacting provisions set out as notes under this section\] shall take effect 1 year after the date of the enactment of this Act \[Dec. 23, 1985\].”
 
 #### Effective Date of 1970 Amendment
 

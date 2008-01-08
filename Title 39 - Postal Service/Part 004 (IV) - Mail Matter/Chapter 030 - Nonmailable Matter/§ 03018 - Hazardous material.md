@@ -74,7 +74,7 @@ Civil Actions to Collect.—
 
 &emsp;(1)
 
-In general.—In accordance with section 409(d), a civil action may be commenced in anappropriate district court of the United States to collect a civil penalty, clean-up costs, and damages assessed under subsection (c).
+In general.—In accordance with section 409(d), a civil action may be commenced in an appropriate district court of the United States to collect a civil penalty, clean-up costs, and damages assessed under subsection (c).
 
 &emsp;(2)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Defense shall seek to obtain all the permits required to complete each phase of construction of a project under CooperativeThreat Reduction programs before obligating significant amounts of funding for that phase of the project.
+The Secretary of Defense shall seek to obtain all the permits required to complete each phase of construction of a project under Cooperative Threat Reduction programs before obligating significant amounts of funding for that phase of the project.
 
 #### (b) Use of funds for new construction projects
 
@@ -52,7 +52,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Specification of Cooperative Threat Reduction Programs
 
-Pub. L. 108–136, div. A, title XIII, §1301(a), Nov. 24, 2003, 117 Stat. 1657, provided that: “For purposes of section 301 \[117 Stat. 1426\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).”
+Pub. L. 108–136, div. A, title XIII, §1301(a), Nov. 24, 2003, 117 Stat. 1657, provided that: “For purposes of section 301 \[117 Stat. 1426\] and other provisions of this Act\[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).”
 
 #### “Congressional Defense Committees” defined
 

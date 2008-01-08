@@ -2,7 +2,7 @@
 
 #### (a) Development of definitions and reporting methods
 
-Within 9 months of October 7, 1998, the Commissioner of the National Center for Education Statistics, in consultation with States and institutions of higher education, shall develop key definitions for terms, and uniform reporting methods (including the key definitions for the consistent reporting of pass rates), related to the performance of elementary school and secondary school teacher preparation programs.
+Within 9 months of October 7, 1998, the Commissioner of the National Center for EducationStatistics, in consultation with States and institutions of higher education, shall develop key definitions for terms, and uniform reporting methods (including the key definitions for the consistent reporting of pass rates), related to the performance of elementary school and secondary school teacher preparation programs.
 
 #### (b) State report card on quality of teacher preparation
 
@@ -30,7 +30,7 @@ Each State that receives funds under this chapter shall provide to the Secretary
 
 #### (1) In general
 
-&emsp;Each State that receives funds under this chapter, not later than 6 months of <sup>1</sup> October 7, 1998, and in a uniform and comprehensiblemanner, shall submit to the Secretary the information described in paragraphs (1), (5), and (6) of subsection (b) of this section. Such information shall be compiled by the Secretary and submitted to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than 9 months after October 7, 1998.
+&emsp;Each State that receives funds under this chapter, not later than 6 months of <sup>1</sup> October 7, 1998, and in a uniform and comprehensible manner, shall submit to the Secretary the information described in paragraphs (1), (5), and (6) of subsection (b) of this section. Such information shall be compiled by the Secretary and submitted to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than 9 months after October 7, 1998.
 
 #### (2) Construction
 
@@ -100,7 +100,7 @@ This chapter, referred to in subsecs. (b), (c)(1), and (f)(1), was in the origin
 
 #### Prior Provisions
 
-A prior section 1027, Pub. L. 89–329, title II, §207, Nov. 8, 1965, 79 Stat. 1227; Pub. L. 92–318, title I, §131(d)(2)(B),June 23, 1972, 86 Stat. 260, prohibited grants for library resources to be used for sectarian instruction or religious worship, prior to the general amendment of this subchapter by Pub. L. 96–374.
+A prior section 1027, Pub. L. 89–329, title II, §207, Nov. 8, 1965, 79 Stat. 1227; Pub. L. 92–318, title I, §131(d)(2)(B), June 23, 1972, 86 Stat. 260, prohibited grants for library resources to be used for sectarian instruction or religious worship, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 #### Amendments
 
@@ -109,6 +109,8 @@ A prior section 1027, Pub. L. 89–329, title II, §207, Nov. 8, 1965, 79 Stat. 
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2002 Amendment
 

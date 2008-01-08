@@ -24,7 +24,7 @@ Joint Partnership Program for Deployment of Innovation.—
 
 Definition of consortium.—In this subsection, the term “consortium”—
 
-&emsp;&emsp;(A) means 1 or more public or private organizations located in the United States that provide public transportation service to the public and 1 or more businesses, including small- and medium-sized businesses, incorporated in a State, offering goods or services or willing to offer goods and services to public transportation operators; and
+&emsp;&emsp;(A) means 1 or more public or private organizations located in the United States that provide public transportation service to the public and 1 or more businesses, includingsmall- and medium-sized businesses, incorporated in a State, offering goods or services or willing to offer goods and services to public transportation operators; and
 
 &emsp;&emsp;(B) may include, as additional members, public or private research organizations located in the United States, or State or local governmental authorities.
 

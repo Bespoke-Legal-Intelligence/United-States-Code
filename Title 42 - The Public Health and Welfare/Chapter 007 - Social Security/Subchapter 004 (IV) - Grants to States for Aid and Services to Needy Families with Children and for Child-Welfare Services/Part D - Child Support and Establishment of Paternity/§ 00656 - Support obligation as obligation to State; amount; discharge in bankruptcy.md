@@ -44,7 +44,7 @@ Subsec. (a)(3). Pub. L. 98–369, §2663(c)(15)(C), (D), redesignated former par
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 5513(a)(3) of Pub. L. 105–33 effective as if included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 108 became law, see section 5518(b) of Pub. L. 105–33, set out as a note under section 652 of this title.
+Amendment by section 5513(a)(3) of Pub. L. 105–33 effective as if included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Actof 1996, Pub. L. 104–193, at the time such section 108 became law, see section 5518(b) of Pub. L. 105–33, set out as a note under section 652 of this title.
 
 Amendment by section 5556(d) of Pub. L. 105–33 effective as if included in the enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of this title.
 

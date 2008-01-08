@@ -68,7 +68,7 @@ The civil service law, referred to in subsec. (f), is set forth in Title 5, Gove
 
 2006—Subsec. (g). Pub. L. 109–233 substituted “section 6303” for “section 7722” and “section 6305” for “section 7724”.
 
-2002—Subsec. (a)(1). Pub. L. 107–288, §2(c)(1), (3)(A)(i), substituted “life” for “life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers” in first sentence, “uniquely qualified” for “major” in second sentence, and “qualified coveredveterans (as defined in paragraph (2)(B))” for “disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era” in third sentence.
+2002—Subsec. (a)(1). Pub. L. 107–288, §2(c)(1), (3)(A)(i), substituted “life” for “life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers” in first sentence, “uniquely qualified” for “major” in second sentence, and “qualified covered veterans (as defined in paragraph (2)(B))” for “disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era” in third sentence.
 
 Subsec. (a)(2). Pub. L. 107–288, §2(c)(3)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of this section, the term ‘agency’ means a department, agency, or instrumentality in the executive branch.”
 
@@ -184,7 +184,7 @@ Subsec. (e). Pub. L. 96–466, §801(<i>l</i>)(1), (4), substituted “Office of
 
 Subsec. (g). Pub. L. 96–466, §510, added subsec. (g).
 
-1978—Subsec. (b). Pub. L. 95–520, §6(b)(1), incorporated part of existing text in provisions designated par. (1), designated part of existing provision as item (A), increasing appointments to level GS–7 from GS–5, added items (B) and (C) and par. (2), designated part of existing text as par. (3), substituting Sept. 30, 1981, for June 30, 1978, as cut off date for veterans readjustment appointments, and struck out provisions: that in applying the one-year period of eligibility specified in section 2(a) of Ex. Ord. No. 11521 to a veteran or disabled veteran who enrolled, within one year following separation from the Armed Forces or following release from hospitalization or treatment following such separation in a program of education on more than a half-time basis, the time spent in such program of education was not to be counted; that the eligibility of the veteran for a readjustment appointment was to continue for not less than six months after the veteran first ceased to be enrolled therein on more than a half-time basis; and that directed the Chairman of the Civil Service Commission to report on the need for the continuation after June 30, 1978, of the authority for veterans readjustment appointments contained in subsec. (b), with the report to be submitted to the President and Congress not later than six months after enactment of the GI Bill Improvement Act of 1977 on Nov. 23, 1977.
+1978—Subsec. (b). Pub. L. 95–520, §6(b)(1), incorporated part of existing text in provisions designated par. (1), designated part of existing provision as item (A), increasing appointments to level GS–7 from GS–5, added items (B) and (C) and par. (2), designated part of existing text as par. (3), substituting Sept. 30, 1981, for June 30, 1978, as cut off date for veterans readjustment appointments, and struck out provisions: that in applying the one-year period of eligibility specified in section 2(a) of Ex. Ord. No. 11521 to a veteran or disabled veteran who enrolled, within one year following separation from the Armed Forces or following release from hospitalization or treatment following such separation in a program of education on more than a half-time basis, the time spent in such program of education was not to be counted; that the eligibility of the veteran for a readjustment appointment was to continue for not less than six months after the veteran first ceased to be enrolled therein on more than a half-time basis; and that directed the Chairman of the Civil Service Commissionto report on the need for the continuation after June 30, 1978, of the authority for veterans readjustment appointments contained in subsec. (b), with the report to be submitted to the President and Congress not later than six months after enactment of the GI Bill Improvement Act of 1977 on Nov. 23, 1977.
 
 Subsec. (d). Pub. L. 95–520, §6(b)(2), substituted in second sentence “subsection (c) of this section” for “subsection (c) thereof” and inserted requirement that reports include certain prescribed information.
 
@@ -228,7 +228,7 @@ Section effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
 
 #### Contents of Reports on Veterans’ Readjustment Appointments
 

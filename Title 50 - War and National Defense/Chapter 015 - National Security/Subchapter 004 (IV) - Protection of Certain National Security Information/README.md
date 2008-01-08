@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—PROTECTION OF CERTAIN NATIONAL SECURITY INFORMATION
 
-<i><sup>1</sup></i><i> So in original. There are no subpars. designated “(J)”, “(K)”, “(L)”, or “(M)”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

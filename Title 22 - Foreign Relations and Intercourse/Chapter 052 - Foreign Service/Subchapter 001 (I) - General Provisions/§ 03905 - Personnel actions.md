@@ -2,7 +2,7 @@
 
 #### (a) Merit principles; “personnel action” defined
 
-(1) All personnel actions with respect to career members and career candidates in the Service (including applicants for career candidate appointments) shall be made in accordance with merit principles.
+(1) All personnel actions with respect to career members and career candidates in the Service\(including applicants for career candidate appointments) shall be made in accordance with merit principles.
 
 (2) For purposes of paragraph (1), the term “personnel action” means—
 

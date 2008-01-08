@@ -1,6 +1,6 @@
 ### §485b–1. Deferment of installments under repayment contracts; determination of undue burden; conditions; supplemental contract; report to Congress
 
-(a) The authority granted in section 485b of this title for modification of existing repaymentcontracts or other forms of obligations to pay construction charges shall continue through December 31, 1960.
+(a) The authority granted in section 485b of this title for modification of existing repayment contracts or other forms of obligations to pay construction charges shall continue through December 31, 1960.
 
 (b) The Secretary is authorized, subject to the provisions of this subsection to defer the time for the payment of such part of any installments of construction charges under any repayment contract or other form of obligation as he deems necessary to adjust such installments to amounts within the probable ability of the water users to pay. Any such deferment shall be effected only after findings by the Secretary that the installments under consideration probably cannot be paid on their due date without undue burden on the water users, considering the various factors which in the Secretary's judgment bear on the ability of the water users so to pay.
 

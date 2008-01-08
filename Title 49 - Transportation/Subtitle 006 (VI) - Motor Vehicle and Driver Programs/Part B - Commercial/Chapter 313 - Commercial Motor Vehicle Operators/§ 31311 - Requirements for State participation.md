@@ -6,7 +6,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(1) The State shall adopt and carry out a program for testing and ensuring the fitness of individuals to operate commercial motor vehicles consistent with the minimum standards prescribed by the Secretary of Transportation under section 31305(a) of this title.
 
-&emsp;(2) The State may issue a commercial driver's license to an individual only if the individual passes written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards.
+&emsp;(2) The State may issue a commercial driver's license to an individual only if the individual passes written and driving tests for theoperation of a commercial motor vehicle that comply with the minimum standards.
 
 &emsp;(3) The State shall have in effect and enforce a law providing that an individual with a blood alcohol concentration level at or above the level established by section 31310(a) of this title when operating a commercial motor vehicle is deemed to be driving under the influence of alcohol.
 
@@ -72,7 +72,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;&emsp;(B) make available to all authorized persons and governmental entities having access to such record,
 
-> &emsp;all information the State receives under paragraph (9) with respect to the individual and every violation by the individual involving amotor vehicle (including a commercial motor vehicle) of a State or local law on traffic control (except a parking violation), not later than 10 days after the date of receipt of such information or the date of such violation, as the case may be. The State may not allow information regarding such violations to be withheld or masked in any way from the record of an individual possessing a commercial driver's license.
+> &emsp;all information the State receives under paragraph (9) with respect to the individual and every violation by the individual involving a motor vehicle (including a commercial motor vehicle) of a State or local law on traffic control (except a parking violation), not later than 10 days after the date of receipt of such information or the date of such violation, as the case may be. The State may not allow information regarding such violations to be withheld or masked in any way from the record of an individual possessing a commercial driver's license.
 
 &emsp;(20) The State shall revoke, suspend, or cancel the commercial driver's license of an individual in accordance with regulations issued by the Secretary to carry out section 31310(g).
 

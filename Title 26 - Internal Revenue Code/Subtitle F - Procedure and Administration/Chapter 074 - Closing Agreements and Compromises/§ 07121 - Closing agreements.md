@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary is authorized to enter into an agreement in writing with any person relatingto the liability of such person (or of the person or estate for whom he acts) in respect of any internal revenue tax for any taxable period.
+The Secretary is authorized to enter into an agreement in writing with any person relating to the liability of such person (or of the person or estate for whom he acts) in respect of any internal revenue tax for any taxable period.
 
 #### (b) Finality
 

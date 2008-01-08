@@ -4,5 +4,5 @@ Section, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 739, authorized appropriation
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1997, with special provisions relating to payments for fiscal year 1998, see section 7003(c) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 2003 of this title.
+Repeal effective Oct. 1, 1997, with special provisions relating to payments for fiscal year 1998, see section7003(c) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 2003 of this title.
 

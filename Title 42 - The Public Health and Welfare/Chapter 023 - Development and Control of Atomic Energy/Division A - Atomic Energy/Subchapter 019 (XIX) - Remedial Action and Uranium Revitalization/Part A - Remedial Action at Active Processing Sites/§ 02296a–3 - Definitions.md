@@ -4,7 +4,7 @@ For purposes of this part:
 
 &emsp;(1) The term “active uranium or thorium processing site” means—
 
-&emsp;&emsp;(A) any uranium or thorium processing site, including the mill, containing byproduct material for which a license (issued bythe Nuclear Regulatory Commission or its predecessor agency under the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], or by a State as permitted under section 274 of such Act (42 U.S.C. 2021)) for the production at such site of any uranium or thorium derived from ore—
+&emsp;&emsp;(A) any uranium or thorium processing site, including the mill, containing byproduct material for which a license (issued by the Nuclear Regulatory Commission or its predecessor agency under the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], or by a State as permitted under section 274 of such Act (42 U.S.C. 2021)) for the production at such site of any uranium or thorium derived from ore—
 
 &emsp;&emsp;&emsp;(i) was in effect on January 1, 1978;
 

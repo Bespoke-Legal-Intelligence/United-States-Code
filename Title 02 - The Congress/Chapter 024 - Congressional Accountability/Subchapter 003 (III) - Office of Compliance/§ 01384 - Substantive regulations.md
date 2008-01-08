@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulations the Board is required to issue under subchapter II of this chapter (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II of this chapter) are as prescribed in this section.
+&emsp;The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulationsthe Board is required to issue under subchapter II of this chapter (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II of this chapter) are as prescribed in this section.
 
 #### (2) Rulemaking procedure
 

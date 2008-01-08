@@ -8,17 +8,17 @@ For the purposes of this subchapter—
 
 &emsp;(3) the term “Interim Council” means the council elected pursuant to section 764 of this title;
 
-&emsp;(4) the term “member”, when used with respect to the tribe, means a person enrolled onthe membership roll of the tribe, as provided in section 763 of this title; and
+&emsp;(4) the term “member”, when used with respect to the tribe, means a person enrolled on the membership roll of the tribe, as provided in section 763 of this title; and
 
 &emsp;(5) the term “final membership roll” means the final membership roll of the tribe published on April 15, 1955, on pages 2499 through 2503 of volume 20 of the Federal Register and on April 14, 1956, on pages 2453 through 2456 of volume 21 of the Federal Register.
 
 (Pub. L. 96–227, §2, Apr. 3, 1980, 94 Stat. 317; Pub. L. 109–126, §4, Dec. 7, 2005, 119 Stat. 2547.)
 
-#### Short Title
-
-Section 1 of Pub. L. 96–227 provided: “That this act \[enacting this subchapter\] may be cited as the ‘Paiute Indian Tribe of Utah Restoration Act’.”
-
 #### Amendments
 
 2005—Par. (1). Pub. L. 109–126 substituted “Cedar” for “Cedar City”.
+
+#### Short Title
+
+Section 1 of Pub. L. 96–227 provided: “That this act \[enacting this subchapter\] may be cited as the ‘Paiute Indian Tribe of Utah Restoration Act’.”
 

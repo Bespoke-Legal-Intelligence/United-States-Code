@@ -46,7 +46,7 @@ The Federal Coordinator shall be responsible for—
 
 &emsp;&emsp;&emsp;(ii) an order by the Commission to expand the project under section 720c of this title; or
 
-&emsp;&emsp;(B) impose any terms, conditions, or requirements in addition to those imposed bythe Commission or any agency with respect to construction and operation, or an expansion of, the project.
+&emsp;&emsp;(B) impose any terms, conditions, or requirements in addition to those imposed by the Commission or any agency with respect to construction and operation, or an expansion of, the project.
 
 #### (e) State coordination
 
@@ -70,11 +70,61 @@ On appointment of the Federal Coordinator by the President, all of the functions
 
 The functions, authorities, duties, and responsibilities of the Federal Coordinator shall be vested in the Secretary until the earlier of the appointment of the Federal Coordinator by the President, or 18 months after October 13, 2004.
 
-(Pub. L. 108–324, div. C, §106, Oct. 13, 2004, 118 Stat. 1259; Pub. L. 109–148, div. A, title VIII, §8128, Dec. 30, 2005, 119 Stat. 2731.)
+#### (h) Administration
+
+#### (1) Personnel appointments
+
+#### (A) In general
+
+&emsp;&emsp;The Federal Coordinator may appoint and terminate such personnel as the Federal Coordinator determines to be appropriate.
+
+#### (B) Authority of Federal Coordinator
+
+&emsp;&emsp;Personnel appointed by the Federal Coordinator under subparagraph (A) shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service.
+
+#### (2) Compensation
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), personnel appointed by the Federal Coordinator under paragraph (1)(A) shall be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 (relating to classification and General Schedule pay rates).
+
+#### (B) Maximum level of compensation
+
+&emsp;&emsp;The rate of pay for personnel appointed by the Federal Coordinator under paragraph (1)(A) shall not exceed the maximum level of rate payable for level III of the Executive Schedule (5 U.S.C. 5314).
+
+#### (C) Allowances
+
+&emsp;&emsp;Section 5941 of title 5 shall apply to personnel appointed by the Federal Coordinator under paragraph (1)(A).
+
+#### (3) Temporary services
+
+#### (A) In general
+
+&emsp;&emsp;The Federal Coordinator may procure temporary and intermittent services in accordance with section 3109(b) of title 5.
+
+#### (B) Maximum level of compensation
+
+&emsp;&emsp;The level of compensation of an individual employed on a temporary or intermittent basis under subparagraph (A) shall not exceed the maximum level of rate payable for level III of the Executive Schedule (5 U.S.C. 5314).
+
+#### (4) Fees, charges, and commissions
+
+#### (A) In general
+
+&emsp;&emsp;With respect to the duties of the Federal Coordinator, as described in this chapter, the Federal Coordinator shall have similar authority to establish, change, and abolish reasonable filing and service fees, charges, and commissions, require deposits of payments, and provide refunds as provided to the Secretary of the Interior in section 1734 of title 43.
+
+#### (B) Authority of Secretary of the Interior
+
+&emsp;&emsp;Subparagraph (A) shall not affect the authority of the Secretary of the Interior to establish, change, and abolish reasonable filing and service fees, charges, and commissions, require deposits of payments, and provide refunds under section 1734 of title 43.
+
+#### (C) Use of funds
+
+&emsp;&emsp;The Federal Coordinator is authorized to use, without further appropriation, amounts collected under subparagraph (A) to carry out this section.
+
+(Pub. L. 108–324, div. C, §106, Oct. 13, 2004, 118 Stat. 1259; Pub. L. 109–148, div. A, title VIII, §8128, Dec. 30, 2005, 119 Stat. 2731; Pub. L. 110–140, title VIII, §802, Dec. 19, 2007, 121 Stat. 1717.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(2) and (d)(1), was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
+This chapter, referred to in subsecs. (c)(2) and (d)(1), was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. This chapter, referred to in subsec. (h)(4)(A), was in the original “this Act”, also meaning division C of Pub. L. 108–324 as provided in section 2 of Pub. L. 108–324, 118 Stat. 1220. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
 
 Reorganization Plan No. 1 of 1979, referred to in subsec. (f), is set out as a note under section 719e of this title.
 
@@ -82,5 +132,11 @@ Executive Order No. 12142, referred to in subsec. (f), is set out as a note unde
 
 #### Amendments
 
+2007—Subsec. (h). Pub. L. 110–140 added subsec. (h).
+
 2005—Subsec. (g). Pub. L. 109–148 substituted “earlier” for “later”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

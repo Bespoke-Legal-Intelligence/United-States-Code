@@ -34,5 +34,5 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 541(b)(3) of Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
+Amendment by section 541(b)(3) of Pub. L. 103–337 effective on the first day of the fourth month beginningafter Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
 

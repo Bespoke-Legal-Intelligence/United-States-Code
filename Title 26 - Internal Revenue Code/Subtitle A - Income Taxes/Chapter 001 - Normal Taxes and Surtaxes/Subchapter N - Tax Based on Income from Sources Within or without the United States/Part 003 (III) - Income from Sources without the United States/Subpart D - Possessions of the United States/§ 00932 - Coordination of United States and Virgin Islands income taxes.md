@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) such individual—
 
-&emsp;&emsp;&emsp;(i) is a citizen or resident of the United States (other than a bona fide resident ofthe Virgin Islands during the entire taxable year), and
+&emsp;&emsp;&emsp;(i) is a citizen or resident of the United States (other than a bona fide resident of the Virgin Islands during the entire taxable year), and
 
 &emsp;&emsp;&emsp;(ii) has income derived from sources within the Virgin Islands, or effectively connected with the conduct of a trade or business within such possession, for the taxable year, or
 
@@ -92,7 +92,7 @@ A prior section 932, acts Aug. 16, 1954, ch. 736, 68A Stat. 292; Nov. 13, 1966, 
 
 1988—Subsec. (c)(2). Pub. L. 100–647, §1012(w)(3), substituted “an income tax return” for “his income tax return”.
 
-Subsec. (c)(4). Pub. L. 100–647, §1012(w)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an individual who is a bona fide resident of the Virgin Islands at the close of the taxable year and who, on his return of income tax to the Virgin Islands, reports income from all sources and identifies the source of each item shown on such return, for purposes of calculating income tax liability tothe United States gross income shall not include any amount included in gross income on such return.”
+Subsec. (c)(4). Pub. L. 100–647, §1012(w)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an individual who is a bona fide resident of the Virgin Islands at the close of the taxable year and who, on his return of income tax to the Virgin Islands, reports income from all sources and identifies the source of each item shown on such return, for purposes of calculating income tax liability to the United States gross income shall not include any amount included in gross income on such return.”
 
 Subsec. (e). Pub. L. 100–647, §1012(w)(1), substituted current heading for “Section not to apply to tax imposed in Virgin Islands” and amended text generally. Prior to amendment, text read as follows: “This section shall not apply for purposes of determining income tax liability incurred to the Virgin Islands.”
 

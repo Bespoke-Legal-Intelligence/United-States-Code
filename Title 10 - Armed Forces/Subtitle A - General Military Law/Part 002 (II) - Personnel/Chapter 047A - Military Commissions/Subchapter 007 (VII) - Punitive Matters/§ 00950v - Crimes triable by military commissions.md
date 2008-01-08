@@ -32,7 +32,7 @@ Protected property.—The term “protected property” means property specifica
 
 &emsp;(4)
 
-Construction.—The intent specified for an offense under paragraph (1), (2), (3), (4), or\(12) of subsection (b) precludes the applicability of such offense with regard to—
+Construction.—The intent specified for an offense under paragraph (1), (2), (3), (4), or (12) of subsection (b) precludes the applicability of such offense with regard to—
 
 &emsp;&emsp;(A) collateral damage; or
 
@@ -80,7 +80,7 @@ Using protected persons as a shield.—Any person subject to this chapter who po
 
 &emsp;(10)
 
-Using protected property as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of the location of, protected property with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished as a military commission under this chapter may direct.
+Using protected property as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of the location of, protected property with the intent to shield a military objective from attack, or to shield, favor, or impede militaryoperations, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(11)
 
@@ -166,7 +166,7 @@ Improperly using a flag of truce.—Any person subject to this chapter who uses 
 
 &emsp;(19)
 
-Improperly using a distinctive emblem.—Any person subject to this chapter who intentionally uses a distinctive emblem recognized by the law of war for combatant purposes in a manner prohibited by the law of war shall be punished as a military commission under this chapter may direct.
+Improperly using a distinctive emblem.—Any person subject to this chapter whointentionally uses a distinctive emblem recognized by the law of war for combatant purposes in a manner prohibited by the law of war shall be punished as a military commission under this chapter may direct.
 
 &emsp;(20)
 

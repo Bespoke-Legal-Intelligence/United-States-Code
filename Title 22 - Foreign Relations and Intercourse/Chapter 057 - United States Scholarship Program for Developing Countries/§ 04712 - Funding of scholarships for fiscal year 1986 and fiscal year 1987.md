@@ -6,7 +6,7 @@ The undergraduate scholarship program financed by the United States Information 
 
 #### (b) Scholarships for students from other developing countries
 
-Any funds appropriated to the United States Information Agency for fiscal year 1986 or fiscal year 1987 for any purpose (other than funds appropriated for educational exchange programs under section 2452(a)(1) of this title <sup>1</sup> may be used to carry out this chapter with respect to students from developing countries outside Central America.
+Any funds appropriated to the United States Information Agency for fiscal year 1986 or fiscalyear 1987 for any purpose (other than funds appropriated for educational exchange programs under section 2452(a)(1) of this title <sup>1</sup> may be used to carry out this chapter with respect to students from developing countries outside Central America.
 
 (Pub. L. 99–93, title VI, §612, Aug. 16, 1985, 99 Stat. 443.)
 

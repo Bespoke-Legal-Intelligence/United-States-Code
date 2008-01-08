@@ -6,7 +6,7 @@ The purpose of this chapter is to develop more fully the academic and career and
 
 &emsp;(2) promoting the development of services and activities that integrate rigorous and challenging academic and career and technical instruction, and that link secondary education and postsecondary education for participating career and technical education students;
 
-&emsp;(3) increasing State and local flexibility in providing services and activities designed to develop, implement, and improve career and technical education, including tech prep education;
+&emsp;(3) increasing State and local flexibility in providing services and activities designed todevelop, implement, and improve career and technical education, including tech prep education;
 
 &emsp;(4) conducting and disseminating national research and disseminating information on best practices that improve career and technical education programs, services, and activities;
 

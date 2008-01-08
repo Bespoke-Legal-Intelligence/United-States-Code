@@ -116,7 +116,7 @@ Grants awarded under this section may be used for programs that provide—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), unless all eligible applications submitted by any States, units of local government, Indian tribes, or organizations within a State for a grant under this section have beenfunded, that State, together with the grantees within the State (other than Indian tribes), shall be allocated in each fiscal year, not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section.
+&emsp;&emsp;Except as provided in subparagraph (B), unless all eligible applications submitted by any States, units of local government, Indian tribes, or organizations within a State for a grant under this section have been funded, that State, together with the grantees within the State (other than Indian tribes), shall be allocated in each fiscal year, not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section.
 
 #### (B) Exception
 

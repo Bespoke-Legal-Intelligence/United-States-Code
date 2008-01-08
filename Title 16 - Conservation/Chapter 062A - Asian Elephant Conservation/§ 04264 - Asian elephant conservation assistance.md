@@ -36,11 +36,11 @@ Any relevant wildlife management authority of a nation within the range of Asian
 
 &emsp;&emsp;(B) after requesting those comments, approve or disapprove the proposal; and
 
-&emsp;&emsp;(C) provide written notification of that approval or disapproval to the person who submitted the proposal, the Administrator, and each of those countries.
+&emsp;&emsp;(C) provide written notification of that approval or disapproval to the person who submitted the proposal and the Administrator.
 
 #### (d) Criteria for approval
 
-The Secretary may approve a final project proposal under this section if the project will enhance programs for conservation of Asian elephants by assisting efforts to—
+The Secretary may approve a final project proposal under this section if the project willenhance programs for conservation of Asian elephants by assisting efforts to—
 
 &emsp;(1) implement conservation programs;
 
@@ -68,5 +68,9 @@ In determining whether to approve project proposals under this section, the Secr
 
 Amounts provided as a grant under this chapter may not be used for captive breeding of Asian elephants other than for release in the wild.
 
-(Pub. L. 105–96, §5, Nov. 19, 1997, 111 Stat. 2151.)
+(Pub. L. 105–96, §5, Nov. 19, 1997, 111 Stat. 2151; Pub. L. 110–133, §2(a), Dec. 6, 2007, 121 Stat. 1362.)
+
+#### Amendments
+
+2007—Subsec. (c)(2)(C). Pub. L. 110–133 substituted “and the Administrator” for “, the Administrator, and each of those countries”.
 

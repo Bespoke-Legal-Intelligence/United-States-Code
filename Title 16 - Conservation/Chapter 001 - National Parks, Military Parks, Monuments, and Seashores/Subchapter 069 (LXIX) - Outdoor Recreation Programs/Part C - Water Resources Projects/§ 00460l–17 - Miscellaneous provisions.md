@@ -36,7 +36,7 @@ All payments and repayment by non-Federal public bodies under the provisions of 
 
 This part, referred to in subsecs. (a), (d), (f), and (h), was in the original “this Act”, meaning Pub. L. 89–72, which enacted sections 460<i>l</i>–12 to 460<i>l</i>–21 of this title and amended sections 460<i>l</i>–5(a) and 662(d) of this title.
 
-The Small Reclamation Projects Act, referred to in subsec. (d), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§422a et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see section 422k of Title 43 and Tables.
+The Small Reclamation Projects Act, referred to in subsec. (d), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, asamended, which is classified generally to subchapter IV (§422a et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see section 422k of Title 43 and Tables.
 
 The Watershed Protection and Flood Prevention Act, referred to in subsec. (d), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, which is classified generally to chapter 18 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

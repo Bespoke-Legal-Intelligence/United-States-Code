@@ -18,7 +18,7 @@ Except as provided in subsection (k), if tax has been imposed under paragraph (2
 
 &emsp;&emsp;(B) the transportation of students and employees of schools (as defined in the last sentence of section 4221(d)(7)(C)),
 
-> &emsp;the Secretary shall pay (without interest) to the ultimate purchaser of such fuel an amount equal to the product of the number of gallons of such fuel so used multiplied by the rate at which tax was imposed on such fuel by section 4041(a) or 4081, as the case may be.
+> &emsp;the Secretary shall pay (without interest) to the ultimate purchaser of such fuel an amountequal to the product of the number of gallons of such fuel so used multiplied by the rate at which tax was imposed on such fuel by section 4041(a) or 4081, as the case may be.
 
 #### (2) Reduction in refund in certain cases
 
@@ -62,7 +62,7 @@ Except as provided in subsection (k), if tax has been imposed under paragraph (2
 
 #### (c) Use for farming purposes
 
-Except as provided in subsection (k), if any fuel on the sale of which tax was imposed underparagraph (2) or (3) of section 4041(a) or section 4041(c) is used on a farm for farming purposes (within the meaning of section 6420(c)), the Secretary shall pay (without interest) to the purchaser an amount equal to the amount of the tax imposed on the sale of the fuel. For purposes of this subsection, if fuel is used on a farm by any person other than the owner, tenant, or operator of such farm, the rules of paragraph (4) of section 6420(c) shall be applied (except that “liquid taxable under section 4041” shall be substituted for “gasoline” each place it appears in such paragraph (4)).
+Except as provided in subsection (k), if any fuel on the sale of which tax was imposed under paragraph (2) or (3) of section 4041(a) or section 4041(c) is used on a farm for farming purposes (within the meaning of section 6420(c)), the Secretary shall pay (without interest) to the purchaser an amount equal to the amount of the tax imposed on the sale of the fuel. For purposes of this subsection, if fuel is used on a farm by any person other than the owner, tenant, or operator of such farm, the rules of paragraph (4) of section 6420(c) shall be applied (except that “liquid taxable under section 4041” shall be substituted for “gasoline” each place it appears in such paragraph (4)).
 
 #### (d) Use by certain aircraft museums or in certain other aircraft uses
 
@@ -146,13 +146,13 @@ Except as provided in subsection (k)—
 
 &emsp;&emsp;This paragraph shall not apply to any fuel used solely in any off-highway business use described in section 6421(e)(2)(C).
 
-#### (3) Special rule for alcohol fuel and biodiesel mixture credit
+#### (3) Special rule for mixture credits and the alternative fuel credit
 
 #### (A) In general
 
-&emsp;&emsp;A claim may be filed under subsection (e)(1) by any person with respect to a mixture described in section 6426 for any period—
+&emsp;&emsp;A claim may be filed under subsection (e)(1) by any person with respect to a mixture described in section 6426 or under subsection (e)(2) by any person with respect to an alternative fuel (as defined in section 6426(d)(2)) for any period—
 
-&emsp;&emsp;&emsp;(i) for which $200 or more is payable under such subsection (e)(1), and
+&emsp;&emsp;&emsp;(i) for which $200 or more is payable under such subsection (e)(1) or (e)(2), and
 
 &emsp;&emsp;&emsp;(ii) which is not less than 1 week.
 
@@ -160,7 +160,7 @@ Except as provided in subsection (k)—
 
 #### (B) Payment of claim
 
-&emsp;&emsp;Notwithstanding subsection (e)(1), if the Secretary has not paid pursuant to a claim filed under this section within 45 days of the date of the filing of such claim (20 days in the case of an electronic claim), the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621.
+&emsp;&emsp;Notwithstanding subsection (e)(1) or (e)(2), if the Secretary has not paid pursuant to a claim filed under this section within 45 days of the date of the filing of such claim (20 days in the case of an electronic claim), the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621.
 
 #### (C) Time for filing claim
 
@@ -186,7 +186,7 @@ Except as provided in subsection (k)—
 
 #### (1) In general
 
-&emsp;All provisions of law, including penalties, applicable in respect of the taxes imposed by sections 4041 and 4081 shall, insofar as applicable and not inconsistent with this section, apply in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of overpayments of the tax so imposed.
+&emsp;All provisions of law, including penalties, applicable in respect of the taxes imposed bysections 4041 and 4081 shall, insofar as applicable and not inconsistent with this section, apply in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of overpayments of the tax so imposed.
 
 #### (2) Examination of books and witnesses
 
@@ -308,7 +308,7 @@ Except as provided in subsection (k)—
 
 #### (A) Regular tax rate
 
-&emsp;&emsp;The term “regular tax rate” means the aggregate rate of tax imposed by section 4081determined without regard to section 4081(a)(2)(D).
+&emsp;&emsp;The term “regular tax rate” means the aggregate rate of tax imposed by section 4081 determined without regard to section 4081(a)(2)(D).
 
 #### (B) Incentive tax rate
 
@@ -330,7 +330,7 @@ For purposes of subsections (a), (b), and (c), the taxes imposed by section 4041
 
 &emsp;&emsp;<b>(3) For treatment of an Indian tribal government as a State (and a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.</b>
 
-(Added Pub. L. 91–258, title II, §207(a), May 21, 1970, 84 Stat. 246; amended Pub. L. 94–455, title XIX, §1906(a)(31)(A), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 94–530, §1(b), (c)(2)–(5), Oct. 17, 1976, 90 Stat. 2487, 2488; Pub. L. 95–458, §3(b), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 95–599, title V, §505(a), (b), (c)(2)–(4), Nov. 6, 1978, 92 Stat. 2758–2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(3), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 95–618, title II, §233(a)(2), Nov. 9, 1978, 92 Stat. 3190; Pub. L. 96–223, title II, §232(d)(1), (2), (4)(B)–(D), Apr. 2, 1980, 94 Stat. 277, 278; Pub. L. 96–541, §4, Dec. 17, 1980, 94 Stat. 3205; Pub. L. 97–248, title II, §279(b)(2), Sept. 3, 1982, 96 Stat. 563; Pub. L. 97–424, title V, §§511(d)(4), (e)(1)–(3), (g)(2)(B)–(D), 516(b)(5), Jan. 6, 1983, 96 Stat. 2171, 2172, 2173, 2183; Pub. L. 97–473, title II, §202(b)(13), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), title VII, §§732(a)(3), 734(c)(2), title IX, §§911(b), (d)(2)(B)–(F), 912(d), 914, 915(a), July 18, 1984, 98 Stat. 846, 977, 979, 1005–1008; Pub. L. 99–499, title V, §521(c)(3)(A), (B)(i), (C), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title IV, §422(b), title XVII, §1703(d), (e)(1), (2)(A)–(E), title XVIII, §§1877(b), 1899A(55), (56), Oct. 22, 1986, 100 Stat. 2230, 2777, 2778, 2902, 2961, as amended by Pub. L. 99–499, title V, §521(c)(3)(B)(ii), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 100–17, title V, §502(b)(8), (9), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title X, §10502(c), Dec. 22, 1987, 101 Stat. 1330–442; Pub. L. 100–223, title IV, §405(b)(1), (2), Dec. 30, 1987, 101 Stat. 1534, 1535; Pub. L. 100–647, title I, §1017(c)(3), (10), title II, §§2001(d)(7)(B)–(D), 2004(s)(2), (3), title III, §3002(a)–(c), Nov. 10, 1988, 102 Stat. 3576, 3596, 3609, 3615, 3616; Pub. L. 101–239, title VII, §§7501(b)(3), 7812(a), 7822(b)(1)–(4), 7841(d)(20), Dec. 19, 1989, 103 Stat. 2361, 2412, 2424, 2425, 2429; Pub. L. 101–508, title XI, §§11211(b)(4)(B), (5), (6)(E)(ii), (d)(7), (8), 11213(b)(3), 11801(a)(46), (c)(23), Nov. 5, 1990, 104 Stat. 1388–425 to 1388–427, 1388–433, 1388–522, 1388–528; Pub. L. 102–240, title VIII, §8002(b)(7), (8), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(8)–(10), 13242(c), (d)(21), (25)–(31), Aug. 10, 1993, 107 Stat. 512, 521, 524, 525; Pub. L. 104–188, title I, §§1606(a), (b)(2), 1702(b)(2)(B), 1703(k), Aug. 20, 1996, 110 Stat. 1839, 1868, 1877; Pub. L. 105–34, title X, §1032(c)(3), (e)(7)–(10), Aug. 5, 1997, 111 Stat. 934, 935; Pub. L. 105–178, title IX, §§9003(a)(2), 9006(b)(2), 9009(a)–(b)(2), June 9, 1998, 112 Stat. 502, 506, 507; Pub. L. 105–206, title VI, §§6016(b), 6017(a), 6023(16), (25), (26), July 22, 1998, 112 Stat. 822, 825, 826; Pub. L. 108–357, title II, §241(a)(2)(D), title III, §301(c)(9), (10), title VIII, §§851(d)(3), 853(c), (d)(2)(J), (K), 857(b), (c), 870(b), Oct. 22, 2004, 118 Stat. 1438, 1462, 1609, 1611, 1613, 1617, 1624; Pub. L. 109–58, title XIII, §§1343(b)(1), (3), 1344(a), Aug. 8, 2005, 119 Stat. 1051, 1052; Pub. L. 109–59, title XI, §§11113(b)(3)(C), 11151(a), 11161(b)(2), (3)(B), (D)–(F), 11162(a), (b), 11163(c), Aug. 10, 2005, 119 Stat. 1948, 1968, 1970–1974; Pub. L. 109–432, div. A, title IV, §420(a), (b)(1), (3), (4), Dec. 20, 2006, 120 Stat. 2968, 2969.)
+(Added Pub. L. 91–258, title II, §207(a), May 21, 1970, 84 Stat. 246; amended Pub. L. 94–455, title XIX, §1906(a)(31)(A), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 94–530, §1(b), (c)(2)–(5), Oct. 17, 1976, 90 Stat. 2487, 2488; Pub. L. 95–458, §3(b), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 95–599, title V, §505(a), (b), (c)(2)–(4), Nov. 6, 1978, 92 Stat. 2758–2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(3), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 95–618, title II, §233(a)(2), Nov. 9, 1978, 92 Stat. 3190; Pub. L. 96–223, title II, §232(d)(1), (2), (4)(B)–(D), Apr. 2, 1980, 94 Stat. 277, 278; Pub. L. 96–541, §4, Dec. 17, 1980, 94 Stat. 3205; Pub. L. 97–248, title II, §279(b)(2), Sept. 3, 1982, 96 Stat. 563; Pub. L. 97–424, title V, §§511(d)(4), (e)(1)–(3), (g)(2)(B)–(D), 516(b)(5), Jan. 6, 1983, 96 Stat. 2171, 2172, 2173, 2183; Pub. L. 97–473, title II, §202(b)(13), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), title VII, §§732(a)(3), 734(c)(2), title IX, §§911(b), (d)(2)(B)–(F), 912(d), 914, 915(a), July 18, 1984, 98 Stat. 846, 977, 979, 1005–1008; Pub. L. 99–499, title V, §521(c)(3)(A), (B)(i), (C), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title IV, §422(b), title XVII, §1703(d), (e)(1), (2)(A)–(E), title XVIII, §§1877(b), 1899A(55), (56), Oct. 22, 1986, 100 Stat. 2230, 2777, 2778, 2902, 2961, as amended by Pub. L. 99–499, title V, §521(c)(3)(B)(ii), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 100–17, title V, §502(b)(8), (9), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title X, §10502(c), Dec. 22, 1987, 101 Stat. 1330–442; Pub. L. 100–223, title IV, §405(b)(1), (2), Dec. 30, 1987, 101 Stat. 1534, 1535; Pub. L. 100–647, title I, §1017(c)(3), (10), title II, §§2001(d)(7)(B)–(D), 2004(s)(2), (3), title III, §3002(a)–(c), Nov. 10, 1988, 102 Stat. 3576, 3596, 3609, 3615, 3616; Pub. L. 101–239, title VII, §§7501(b)(3), 7812(a), 7822(b)(1)–(4), 7841(d)(20), Dec. 19, 1989, 103 Stat. 2361, 2412, 2424, 2425, 2429; Pub. L. 101–508, title XI, §§11211(b)(4)(B), (5), (6)(E)(ii), (d)(7), (8), 11213(b)(3), 11801(a)(46), (c)(23), Nov. 5, 1990, 104 Stat. 1388–425 to 1388–427, 1388–433, 1388–522, 1388–528; Pub. L. 102–240, title VIII,§8002(b)(7), (8), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(8)–(10), 13242(c), (d)(21), (25)–(31), Aug. 10, 1993, 107 Stat. 512, 521, 524, 525; Pub. L. 104–188, title I, §§1606(a), (b)(2), 1702(b)(2)(B), 1703(k), Aug. 20, 1996, 110 Stat. 1839, 1868, 1877; Pub. L. 105–34, title X, §1032(c)(3), (e)(7)–(10), Aug. 5, 1997, 111 Stat. 934, 935; Pub. L. 105–178, title IX, §§9003(a)(2), 9006(b)(2), 9009(a)–(b)(2), June 9, 1998, 112 Stat. 502, 506, 507; Pub. L. 105–206, title VI, §§6016(b), 6017(a), 6023(16), (25), (26), July 22, 1998, 112 Stat. 822, 825, 826; Pub. L. 108–357, title II, §241(a)(2)(D), title III, §301(c)(9), (10), title VIII, §§851(d)(3), 853(c), (d)(2)(J), (K), 857(b), (c), 870(b), Oct. 22, 2004, 118 Stat. 1438, 1462, 1609, 1611, 1613, 1617, 1624; Pub. L. 109–58, title XIII, §§1343(b)(1), (3), 1344(a), Aug. 8, 2005, 119 Stat. 1051, 1052; Pub. L. 109–59, title XI, §§11113(b)(3)(C), 11151(a), 11161(b)(2), (3)(B), (D)–(F), 11162(a), (b), 11163(c), Aug. 10, 2005, 119 Stat. 1948, 1968, 1970–1974; Pub. L. 109–432, div. A, title IV, §420(a), (b)(1), (3), (4), Dec. 20, 2006, 120 Stat. 2968, 2969; Pub. L. 110–172, §§5(a)(1), 11(a)(37)–(39)(A), (e)(1), Dec. 29, 2007, 121 Stat. 2478, 2487–2489.)
 
 #### References in Text
 
@@ -339,6 +339,28 @@ Section 4081(c), referred to in subsec. (f)(1), was repealed by Pub. L. 108–35
 Section 4091, referred to in subsec. (f)(1), (2)(A)(ii), (B)(ii), was repealed by Pub. L. 108–357, title VIII, §853(d)(1), Oct. 22, 2004, 118 Stat. 1612.
 
 #### Amendments
+
+2007—Subsec. (e)(3). Pub. L. 110–172, §11(a)(37), redesignated par. (3), relating to termination, as (5).
+
+Subsec. (e)(5). Pub. L. 110–172, §11(a)(37), redesignated par. (3), relating to termination, as (5).
+
+Subsec. (e)(5)(B). Pub. L. 110–172, §11(e)(1), substituted “2008” for “2006”.
+
+Subsec. (i)(3). Pub. L. 110–172, §5(a)(1)(C), substituted “mixture credits and the alternative fuel credit” for “alcohol fuel and biodiesel mixture credit” in heading.
+
+Subsec. (i)(3)(A). Pub. L. 110–172, §5(a)(1)(A), in introductory provisions, inserted “or under subsection (e)(2) by any person with respect to an alternative fuel (as defined in section 6426(d)(2))” after “section 6426”.
+
+Subsec. (i)(3)(A)(i), (B). Pub. L. 110–172, §5(a)(1)(B), inserted “or (e)(2)” after “subsection (e)(1)”.
+
+Subsec. (<i>l</i>)(4)(A)(ii). Pub. L. 110–172, §11(a)(38), which directed substitution of “section 4081(a)(2)(A)(iii)” for “section 4081(a)(2)(iii)”, could not be executed, because “section 4081(a)(2)(iii)” did not appear subsequent to amendment by Pub. L. 109–432, §420(a). See 2006 Amendment note below.
+
+Subsecs. (p), (q). Pub. L. 110–172, §11(a)(39)(A), redesignated subsec. (q) as (p) and struck out heading and text of former subsec. (p). Text of former subsec. (p) read as follows: “Except as provided in subsection (k), if—
+
+&emsp;“(1) any tax is imposed by section 4081 at a rate determined under subsection (c) thereof on gasohol (as defined in such subsection), and
+
+&emsp;“(2) such gasohol is used as a fuel in any aircraft in noncommercial aviation (as defined in section 4041(c)(2),
+
+> the Secretary shall pay (without interest) to the ultimate purchaser of such gasohol an amount equal to 1.4 cents (2 cents in the case of a mixture none of the alcohol in which consists of ethanol) multiplied by the number of gallons of gasohol so used.”
 
 2006—Subsec. (i)(4)(A). Pub. L. 109–432, §420(b)(3), substituted “paragraph (4)(C) or (5)” for “paragraph (4)(B), (5), or (6)” in introductory provisions and cl. (i) and “(<i>l</i>)(4)(C)(ii), and (<i>l</i>)(5)” for “(<i>l</i>)(5), and (<i>l</i>)(6)” in concluding provisions.
 
@@ -358,11 +380,11 @@ Subsec. (e)(3). Pub. L. 109–59, §11113(b)(3)(C)(iv), substituted “under par
 
 Pub. L. 109–59, §11113(b)(3)(C)(ii), redesignated par. (2) as (3).
 
-Subsec. (e)(3)(B). Pub. L. 109–58, §1344(a), which directed amendment of par. (4)(B) by substituting “2008” for “2006”, was executed by making the substitution in par. (3)(B) to reflect the probable intent of Congress.
-
 Subsec. (e)(4). Pub. L. 109–59, §11113(b)(3)(C)(v), added par. (4).
 
-Subsec. (e)(5). Pub. L. 109–59, §11113(b)(3)(C)(ii), which directed amendment of subsec. (e) by redesignating par. (4) as (5), was executed by redesignating par. (3) as (5) to reflect the probable intent of Congress.
+Subsec. (e)(4)(B). Pub. L. 109–58, §1344(a), which directed amendment of par. (4)(B) by substituting “2008” for “2006”, could not be executed because there was no par. (4) prior to amendment by Pub. L. 109–59, §11113(b)(3)(C)(v). See 2007 Amendment note above relating to subsec. (e)(5)(B).
+
+Subsec. (e)(5). Pub. L. 109–59, §11113(b)(3)(C)(ii), which directed amendment of subsec. (e) by redesignating par. (4) as (5), could not be executed because there was no par. (4) prior to amendment by Pub. L. 109–59, §11113(b)(3)(C)(v). See 2005 and 2007 Amendment notes above.
 
 Subsec. (e)(5)(C), (D). Pub. L. 109–59, §11113(b)(3)(C)(vi)–(viii), added subpars. (C) and (D).
 
@@ -416,17 +438,13 @@ Subsecs. (m), (n). Pub. L. 109–58, §1343(b)(1), added subsec. (m) and redesig
 
 Subsec. (<i>o</i>). Pub. L. 109–58, §1343(b)(1), redesignated subsec. (n) as (<i>o</i>). Former subsec. (<i>o</i>) redesignated (p).
 
-Pub. L. 109–59, §11151(a)(2), redesignated subsec. (p) as (<i>o</i>) and struck out heading and text of former subsec. (<i>o</i>). Text read as follows: “Except as provided in subsection (k), if—
+Pub. L. 109–59, §11151(a)(2), which directed the redesignation of subsec. (p) as (<i>o</i>) and the striking of former subsec. (<i>o</i>), to be treated as not having been enacted. See Construction of Amendment by Pub. L. 109–59 note below.
 
-&emsp;“(1) any tax is imposed by section 4081 at a rate determined under subsection (c) thereof on gasohol (as defined in such subsection), and
+Subsec. (p). Pub. L. 109–58, §1343(b)(1), redesignated subsec. (<i>o</i>) as (p). Former subsec. (p) redesignated (q).
 
-&emsp;“(2) such gasohol is used as a fuel in any aircraft in noncommercial aviation (as defined in section 4041(c)(2),
+Pub. L. 109–59, §11151(a)(2), which directed the redesignation of subsec. (p) as (<i>o</i>), to be treated as not having been enacted. See Construction of Amendment by Pub. L. 109–59 note below.
 
-> the Secretary shall pay (without interest) to the ultimate purchaser of such gasohol an amount equal to 1.4 cents (2 cents in the case of a mixture none of the alcohol in which consists of ethanol) multiplied by the number of gallons of gasohol so used.”
-
-Subsec. (p). Pub. L. 109–58, §1343(b)(1), which directed amendment of this section by redesignating subsecs. (<i>o</i>) and (p) as (p) and (q), respectively, was executed by redesignating subsec. (<i>o</i>) only to reflect the probable intent of Congress, because subsec. (p) did not appear subsequent to amendment by Pub. L. 109–59, §11151(a)(2). See note below and Effective Date of 2005 Amendments notes below.
-
-Pub. L. 109–59, §11151(a)(2), redesignated subsec. (p) as (<i>o</i>).
+Subsec. (q). Pub. L. 109–58, §1343(b)(1), redesignated subsec. (p) as (q).
 
 2004—Subsec. (b)(4). Pub. L. 108–357, §857(b), added par. (4).
 
@@ -484,7 +502,7 @@ Subsec. (i)(1). Pub. L. 105–206, §6023(26)(B), substituted “(<i>o</i>)” f
 
 Subsec. (i)(2)(A). Pub. L. 105–206, §6023(26)(B), substituted “(<i>o</i>)” for “(q)”.
 
-Pub. L. 105–178, §9009(a), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “If $1,000 or more is payable under subsections (a), (b), (d), (h), and (q) to any person with respect to fuel used during any of the first 3 quarters of his taxable year, a claim may be filed under this section with respect to fuel used, during such quarter.”
+Pub. L. 105–178, §9009(a), reenacted heading without change and amended text of subpar. (A) generally.Prior to amendment, text read as follows: “If $1,000 or more is payable under subsections (a), (b), (d), (h), and (q) to any person with respect to fuel used during any of the first 3 quarters of his taxable year, a claim may be filed under this section with respect to fuel used, during such quarter.”
 
 Subsec. (i)(2)(B). Pub. L. 105–206, §6017(a), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “No claim filed under this paragraph shall be allowed unless filed on or before the last day of the first quarter following the quarter for which the claim is filed.”
 
@@ -958,6 +976,12 @@ Subsecs. (h), (i). Pub. L. 94–530, §1(b), redesignated former subsecs. (g) an
 
 Subsec. (h). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective and Termination Dates of 2007 Amendment
+
+Amendment by section 5(a)(1) of Pub. L. 110–172 effective as if included in the provisions of the SAFETEA–LU, Pub. L. 109–59, to which such amendment relates, see section 5(b) of Pub. L. 110–172, set out as a note under section 6426 of this title.
+
+Amendment by section 11(e)(1) of Pub. L. 110–172 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 11(e)(3) of Pub. L. 110–172, set out as a note under section 41 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–432, div. A, title IV, §420(c), Dec. 20, 2006, 120 Stat. 2970, provided that:
@@ -974,7 +998,7 @@ Special rule for pending claims.—In the case of kerosene sold for use in aviat
 
 Amendment by section 11113(b)(3)(C) of Pub. L. 109–59 applicable to any sale or use for any period after Sept. 30, 2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
-Amendment by section 11151(a) of Pub. L. 109–59 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 11151(f)(1) of Pub. L. 109–59, set out as a note under section 4081 of this title.
+Amendment by section 11151(a) of Pub. L. 109–59 effective as if included in the provisions of the AmericanJobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 11151(f)(1) of Pub. L. 109–59, set out as a note under section 4081 of this title.
 
 Amendment by section 11161(b)(2), (3)(B), (D)–(F) of Pub. L. 109–59 applicable to fuels or liquids removed, entered, or sold after Sept. 30, 2005, see section 11161(e) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
@@ -1036,7 +1060,7 @@ Amendment by section 11213(b)(3) of Pub. L. 101–508 effective Dec. 1, 1990, se
 
 Amendment by section 7812(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
-Amendment by section 7822(b)(1)–(4) of Pub. L. 101–239 effective as if included in the provision of the RevenueAct of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 7823 of Pub. L. 101–239, set out as a note under section 26 of this title.
+Amendment by section 7822(b)(1)–(4) of Pub. L. 101–239 effective as if included in the provision of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 7823 of Pub. L. 101–239, set out as a note under section 26 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -1056,7 +1080,7 @@ Amendment by Pub. L. 100–203 applicable to sales after Mar. 31, 1988, see sect
 
 Amendment by section 1703(d), (e)(1), (2)(A)–(E) of Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title as amended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
 
-Amendment by section 1877(b) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1877(b) of Pub. L. 99–514 effective, except as otherwise provided, as if included in theprovisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 521(e) of Pub. L. 99–499, set out as a note under section 4041 of this title.
 
@@ -1120,6 +1144,10 @@ Section applicable with respect to taxable years ending after June 30, 1970, see
 
 For provisions that nothing in amendment by section 11801(a)(46), (c)(23) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
+#### Construction of Amendment by Pub. L. 109–59
+
+Pub. L. 110–172, §11(a)(39)(B), Dec. 29, 2007, 121 Stat. 2488, provided that: “The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made by paragraph (2) of section 11151(a) of the SAFETEA–LU \[Pub. L. 109–59, amending this section\] had never been enacted.”
+
 #### Special Rule for Kerosene Used in Aviation on a Farm for Farming Purposes
 
 Pub. L. 109–432, div. A, title IV, §420(d), Dec. 20, 2006, 120 Stat. 2970, provided that:
@@ -1128,7 +1156,7 @@ Pub. L. 109–432, div. A, title IV, §420(d), Dec. 20, 2006, 120 Stat. 2970, pr
 
 Refunds for purchases after december 31, 2004,
 
-and before october 1, 2005.—The Secretary of theTreasury shall pay to the ultimate purchaser of any kerosene which is used in aviation on a farm for farming purposes and which was purchased after December 31, 2004, and before October 1, 2005, an amount equal to the aggregate amount of tax imposed on such fuel under section 4041 or 4081 of the Internal Revenue Code of 1986, as the case may be, reduced by any payment to the ultimate vendor under section 6427(<i>l</i>)(5)(C) of such Code (as in effect on the day before the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: a Legacy for Users \[Aug. 10, 2005\]).
+and before october 1, 2005.—The Secretary of the Treasury shall pay to the ultimate purchaser of any kerosene which is used in aviation on a farm for farming purposes and which was purchased after December 31, 2004, and before October 1, 2005, an amount equal to the aggregate amount of tax imposed on such fuel under section 4041 or 4081 of the Internal Revenue Code of 1986, as the case may be, reduced by any payment to the ultimate vendor under section 6427(<i>l</i>)(5)(C) of such Code (as in effect on the day before the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: a Legacy for Users \[Aug. 10, 2005\]).
 
 “(2)
 
@@ -1140,7 +1168,7 @@ Time for filing claims.—No claim shall be allowed under paragraph (1) unless t
 
 “(4)
 
-No double benefit.—No amount shall be paid under paragraph (1) or section 6427(<i>l</i>) of the Internal Revenue Code of 1986 with respect to any kerosene described in paragraph (1) to the extent that such amount is in excess of the tax imposed on such kerosene under section 4041 or 4081 of such Code, as the case may be.
+No double benefit.—No amount shall be paid under paragraph (1) or section 6427(<i>l</i>) of the Internal Revenue Code of 1986 with respect to any kerosene described in paragraph (1) to the extent that such amountis in excess of the tax imposed on such kerosene under section 4041 or 4081 of such Code, as the case may be.
 
 “(5)
 

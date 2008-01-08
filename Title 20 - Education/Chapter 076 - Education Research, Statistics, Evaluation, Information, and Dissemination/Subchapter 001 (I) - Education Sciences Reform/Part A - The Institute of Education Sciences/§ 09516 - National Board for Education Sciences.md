@@ -54,7 +54,7 @@ The duties of the Board shall be the following:
 
 &emsp;&emsp;(B) Each of the Commissioners of the National Education Centers.
 
-&emsp;&emsp;(C) The Director of the National Institute of Child Health and Human Development.
+&emsp;&emsp;(C) The Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development.
 
 &emsp;&emsp;(D) The Director of the Census.
 
@@ -176,7 +176,7 @@ The Board shall submit to the Director, the Secretary, and the appropriate congr
 
 The Board shall submit to the Director, the Secretary, and the appropriate congressional committees a report that includes any recommendations regarding any actions that may be taken to enhance the ability of the Institute to carry out its priorities and mission. The Board shall submit an interim report not later than 3 years after November 5, 2002, and a final report not later than 5 years after such date.
 
-(Pub. L. 107–279, title I, §116, Nov. 5, 2002, 116 Stat. 1948; Pub. L. 108–446, title II, §§201(b)(2)(D), 202, Dec. 3, 2004, 118 Stat. 2802.)
+(Pub. L. 107–279, title I, §116, Nov. 5, 2002, 116 Stat. 1948; Pub. L. 108–446, title II, §§201(b)(2)(D), 202, Dec. 3, 2004, 118 Stat. 2802; Pub. L. 110–154, §1(d), Dec. 21, 2007, 121 Stat. 1828.)
 
 #### References in Text
 
@@ -189,4 +189,8 @@ This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 200
 2004—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, §201(b)(2)(D), inserted “special education experts,” after “early childhood experts,”.
 
 Subsec. (c)(9). Pub. L. 108–446, §202, substituted “Meetings of the Board are subject to section 552b of title 5 (commonly referred to as the Government in the Sunshine Act).” for “Meetings of the Board shall be open to the public.”
+
+#### Change of Name
+
+“Eunice Kennedy Shriver National Institute of Child Health and Human Development” substituted for “National Institute of Child Health and Human Development” in subsec. (c)(3)(C), on authority of section 1(d) of Pub. L. 110–154, set out as a note under section 285g of Title 42, The Public Health and Welfare.
 

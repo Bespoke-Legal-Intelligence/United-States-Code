@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) in the case of any public entity that is a political subdivision of a State or that is an Indian tribe or tribal organization—
 
-&emsp;&emsp;&emsp;(i) shall consider any comments regarding the application of the entity for such agrant that are received by the Secretary from the State in which the entity is located; and
+&emsp;&emsp;&emsp;(i) shall consider any comments regarding the application of the entity for such a grant that are received by the Secretary from the State in which the entity is located; and
 
 &emsp;&emsp;&emsp;(ii) shall give special consideration to the entity if the State agrees to provide a portion of the non-Federal contributions required in subsection (c) of this section regarding such a grant.
 
@@ -54,7 +54,7 @@
 
 &emsp;A funding agreement for a grant under subsection (a) of this section is that the public entity involved will, with respect to the costs to be incurred by the entity in carrying out the purpose described in such subsection, make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that—
 
-&emsp;&emsp;(A) for the first fiscal year for which the entity receives payments from a grant under such subsection, is not less than $1 for each $3 of Federal funds provided in the grant;
+&emsp;&emsp;(A) for the first fiscal year for which the entity receives payments from a grant undersuch subsection, is not less than $1 for each $3 of Federal funds provided in the grant;
 
 &emsp;&emsp;(B) for any second or third such fiscal year, is not less than $1 for each $3 of Federal funds provided in the grant;
 

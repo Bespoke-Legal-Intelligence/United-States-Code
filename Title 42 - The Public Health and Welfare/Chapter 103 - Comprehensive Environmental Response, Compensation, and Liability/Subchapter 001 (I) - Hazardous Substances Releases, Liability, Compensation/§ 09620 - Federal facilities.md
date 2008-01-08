@@ -16,7 +16,7 @@
 
 #### (4) State laws
 
-&emsp;State laws concerning removal and remedial action, including State laws regarding enforcement, shall apply to removal and remedial action at facilities owned or operated by a department, agency, or instrumentality of the United States or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section when such facilities are not included on the National Priorities List. The preceding sentence shall not apply to the extent a State law would apply any standard or requirement to such facilities which is more stringent than the standards and requirements applicable to facilities which are not owned or operated by any such department, agency, or instrumentality.
+&emsp;State laws concerning removal and remedial action, including State laws regarding enforcement, shall apply to removal and remedial action at facilities owned or operated by a department, agency, or instrumentality of the United States or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section when such facilities are not included on the National Priorities List. The preceding sentence shall not apply to the extent a State law would apply any standard or requirement to such facilities which is morestringent than the standards and requirements applicable to facilities which are not owned or operated by any such department, agency, or instrumentality.
 
 #### (b) Notice
 
@@ -62,7 +62,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (1) RI/FS
 
-&emsp;Not later than 6 months after the inclusion of any facility on the National Priorities List, the department, agency, or instrumentality which owns or operates such facility shall, inconsultation with the Administrator and appropriate State authorities, commence a remedial investigation and feasibility study for such facility. In the case of any facility which is listed on such list before October 17, 1986, the department, agency, or instrumentality which owns or operates such facility shall, in consultation with the Administrator and appropriate State authorities, commence such an investigation and study for such facility within one year after October 17, 1986. The Administrator and appropriate State authorities shall publish a timetable and deadlines for expeditious completion of such investigation and study.
+&emsp;Not later than 6 months after the inclusion of any facility on the National Priorities List, the department, agency, or instrumentality which owns or operates such facility shall, in consultation with the Administrator and appropriate State authorities, commence a remedial investigation and feasibility study for such facility. In the case of any facility which is listed on such list before October 17, 1986, the department, agency, or instrumentality which owns or operates such facility shall, in consultation with the Administrator and appropriate State authorities, commence such an investigation and study for such facility within one year after October 17, 1986. The Administrator and appropriate State authorities shall publish a timetable and deadlines for expeditious completion of such investigation and study.
 
 #### (2) Commencement of remedial action; interagency agreement
 
@@ -70,7 +70,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (3) Completion of remedial actions
 
-&emsp;Remedial actions at facilities subject to interagency agreements under this section shall be completed as expeditiously as practicable. Each agency shall include in its annual budget submissions to the Congress a review of alternative agency funding which could be used to provide for the costs of remedial action. The budget submission shall also include a statement of the hazard posed by the facility to human health, welfare, and the environment and identify the specific consequences of failure to begin and complete remedial action.
+&emsp;Remedial actions at facilities subject to interagency agreements under this sectionshall be completed as expeditiously as practicable. Each agency shall include in its annual budget submissions to the Congress a review of alternative agency funding which could be used to provide for the costs of remedial action. The budget submission shall also include a statement of the hazard posed by the facility to human health, welfare, and the environment and identify the specific consequences of failure to begin and complete remedial action.
 
 #### (4) Contents of agreement
 
@@ -112,7 +112,7 @@ The Administrator and each department, agency, or instrumentality responsible fo
 
 #### (g) Transfer of authorities
 
-Except for authorities which are delegated by the Administrator to an officer or employee ofthe Environmental Protection Agency, no authority vested in the Administrator under this section may be transferred, by executive order of the President or otherwise, to any other officer or employee of the United States or to any other person.
+Except for authorities which are delegated by the Administrator to an officer or employee of the Environmental Protection Agency, no authority vested in the Administrator under this section may be transferred, by executive order of the President or otherwise, to any other officer or employee of the United States or to any other person.
 
 #### (h) Property transferred by Federal agencies
 
@@ -158,7 +158,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;&emsp;&emsp;(I) the property is suitable for transfer for the use intended by the transferee, and the intended use is consistent with protection of human health and the environment;
 
-&emsp;&emsp;&emsp;&emsp;(II) the deed or other agreement proposed to govern the transfer between the United States and the transferee of theproperty contains the assurances set forth in clause (ii);
+&emsp;&emsp;&emsp;&emsp;(II) the deed or other agreement proposed to govern the transfer between the United States and the transferee of the property contains the assurances set forth in clause (ii);
 
 &emsp;&emsp;&emsp;&emsp;(III) the Federal agency requesting deferral has provided notice, by publication in a newspaper of general circulation in the vicinity of the property, of the proposed transfer and of the opportunity for the public to submit, within a period of not less than 30 days after the date of the notice, written comments on the suitability of the property for transfer; and
 
@@ -174,7 +174,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;&emsp;&emsp;(III) provide that all necessary response action will be taken and identify the schedules for investigation and completion of all necessary response action as approved by the appropriate regulatory agency; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) provide that the Federal agency responsible for the property subject to transfer will submit a budget request to the Director of the Office of Management and Budget that adequately addresses schedules for investigation and completion of all necessary response action, subject to congressional authorizations and appropriations.
+&emsp;&emsp;&emsp;&emsp;(IV) provide that the Federal agency responsible for the property subject totransfer will submit a budget request to the Director of the Office of Management and Budget that adequately addresses schedules for investigation and completion of all necessary response action, subject to congressional authorizations and appropriations.
 
 #### (iii) Warranty
 
@@ -204,7 +204,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 > &emsp;Such identification shall also be based on sampling, if appropriate under the circumstances. The results of the identification shall be provided immediately to the Administrator and State and local government officials and made available to the public.
 
-&emsp;(B) The identification required under subparagraph (A) is not complete until concurrence in the results of the identification is obtained, in the case of real property that is part of a facility on the National Priorities List, from the Administrator, or, in the case of real property that is not part of a facility on the National Priorities List, from the appropriate State official. In the case of a concurrence which is required from a State official, the concurrence is deemed to be obtained if, within 90 days after receiving a request for theconcurrence, the State official has not acted (by either concurring or declining to concur) on the request for concurrence.
+&emsp;(B) The identification required under subparagraph (A) is not complete until concurrence in the results of the identification is obtained, in the case of real property that is part of a facility on the National Priorities List, from the Administrator, or, in the case of real property that is not part of a facility on the National Priorities List, from the appropriate State official. In the case of a concurrence which is required from a State official, the concurrence is deemed to be obtained if, within 90 days after receiving a request for the concurrence, the State official has not acted (by either concurring or declining to concur) on the request for concurrence.
 
 &emsp;(C)(i) Except as provided in clauses (ii), (iii), and (iv), the identification and concurrence required under subparagraphs (A) and (B), respectively, shall be made at least 6 months before the termination of operations on the real property.
 
@@ -250,7 +250,7 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 #### (1) Site specific Presidential orders
 
-&emsp;The President may issue such orders regarding response actions at any specified site or facility of the Department of Energy or the Department of Defense as may be necessary to protect the national security interests of the United States at that site or facility. Such orders may include, where necessary to protect such interests, an exemption from any requirement contained in this subchapter or under title III of the Superfund Amendments and Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\] with respect to the site or facility concerned. The President shall notify the Congress within 30 days of the issuance of an order under this paragraph providing for any such exemption. Such notification shall include a statement of the reasons for the granting of the exemption. An exemption under thisparagraph shall be for a specified period which may not exceed one year. Additional exemptions may be granted, each upon the President's issuance of a new order under this paragraph for the site or facility concerned. Each such additional exemption shall be for a specified period which may not exceed one year. It is the intention of the Congress that whenever an exemption is issued under this paragraph the response action shall proceed as expeditiously as practicable. The Congress shall be notified periodically of the progress of any response action with respect to which an exemption has been issued under this paragraph. No exemption shall be granted under this paragraph due to lack of appropriation unless the President shall have specifically requested such appropriation as a part of the budgetary process and the Congress shall have failed to make available such requested appropriation.
+&emsp;The President may issue such orders regarding response actions at any specified site or facility of the Department of Energy or the Department of Defense as may be necessary to protect the national security interests of the United States at that site or facility. Such orders may include, where necessary to protect such interests, an exemption from any requirement contained in this subchapter or under title III of the Superfund Amendments and Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\] with respect to the site or facility concerned. The President shall notify the Congress within 30 days of the issuance of an order under this paragraph providing for any such exemption. Such notification shall include a statement of the reasons for the granting of the exemption. An exemption under this paragraph shall be for a specified period which may not exceed one year. Additional exemptions may be granted, each upon the President's issuance of a new order under this paragraph for the site or facility concerned. Each such additional exemption shall be for a specified period which may not exceed one year. It is the intention of the Congress that whenever an exemption is issued under this paragraph the response action shall proceed as expeditiously as practicable. The Congress shall be notified periodically of the progress of any response action with respect to which an exemption has been issued under this paragraph. No exemption shall be granted under this paragraph due to lack of appropriation unless the President shall have specifically requested such appropriation as a part of the budgetary process and the Congress shall have failed to make available such requested appropriation.
 
 #### (2) Classified information
 
@@ -260,7 +260,7 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 #### References in Text
 
-Section 2904(b) of such base closure law, referred to in subsec. (h)(4)(C)(iii), means section 2904(b) of Pub. L. 101–510, which is set out as a note under section 2687 of Title 10, Armed Forces.
+Section 2904(b) of such base closure law, referred to in subsec. (h)(4)(C)(iii), means section 2904(b) of Pub. L.101–510, which is set out as a note under section 2687 of Title 10, Armed Forces.
 
 The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

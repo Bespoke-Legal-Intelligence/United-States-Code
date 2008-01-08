@@ -28,7 +28,7 @@ In this chapter:
 
 #### (4) Material defect
 
-&emsp;The term “material defect” means a defect in any item, whether tangible or intangible, or in the provision of a service, that substantially prevents the item or service from operating or functioning as designed or accordingto its specifications. The term “material defect” does not include a defect that—
+&emsp;The term “material defect” means a defect in any item, whether tangible or intangible, or in the provision of a service, that substantially prevents the item or service from operating or functioning as designed or according to its specifications. The term “material defect” does not include a defect that—
 
 &emsp;&emsp;(A) has an insignificant or de minimis effect on the operation or functioning of an item or computer program;
 

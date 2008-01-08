@@ -12,7 +12,7 @@ No amounts authorized to be appropriated or otherwise made available for the Dep
 
 &emsp;&emsp;(B) for each requirement so identified, the reasons why such requirement cannot be met through full use of the H–canyon facility and a description of the alternative capability for fissile materials disposition that is needed to meet such requirement.
 
-(Pub. L. 107–314, div. D, title XLIV, §4454, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3137(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–460; renumbered Pub. L. 107–314, div. D, title XLIV, §4454, and amended Pub. L. 108–136, div. C, title XXXI, §§3115(b), 3141(g)(24), Nov. 24, 2003, 117 Stat. 1745, 1770.)
+(Pub. L. 107–314, div. D, title XLIV, §4454, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3137(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–460;renumbered Pub. L. 107–314, div. D, title XLIV, §4454, and amended Pub. L. 108–136, div. C, title XXXI, §§3115(b), 3141(g)(24), Nov. 24, 2003, 117 Stat. 1745, 1770.)
 
 #### References in Text
 

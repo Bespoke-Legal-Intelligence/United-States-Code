@@ -10,6 +10,14 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–177, §1, Jan. 7, 2008, 121 Stat. 2534, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Court Security Improvement Act of 2007’.”
+
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–34, §1, June 14, 2007, 121 Stat. 224, provided that: “This Act \[amending section 546 of this title and enacting provisions set out as a note under section 546 of this title\] may be cited as the ‘Preserving United States Attorney Independence Act of 2007’.”
+
 #### Short Title of 2005 Amendments
 
 Pub. L. 109–63, §1, Sept. 9, 2005, 119 Stat. 1993, provided that: “This Act \[amending sections 48, 141, 152, and 636 of this title\] may be cited as the ‘Federal Judiciary Emergency Special Sessions Act of 2005’.”
@@ -26,11 +34,11 @@ Pub. L. 107–273, div. C, title I, §11041, Nov. 2, 2002, 116 Stat. 1848, provi
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–518, §1(a), Nov. 13, 2000, 114 Stat. 2410, provided that: “This Act \[enacting sections 179 and 613 of this title, amending sections 117, 175, 332, 371, 376, 604, 611, 612, 627, 631, 636, 797, 996, 1865, 1930, and 2671 of this title, sections 3102 and 5551 of Title 5, Government Organization and Employees, section 1228 of Title 11, Bankruptcy, sections 3006A and 3401 of Title 18, Crimes and Criminal Procedure, and section 13n of former Title 40, Public Buildings, Property, and Works, repealing section 2520 of this title, enacting provisions set out as notes under sections 613, 996, and 1931 of this title, and amending provisions set out as notes under sections 471, 581, and 1931 of this title\] may be cited as the ‘Federal Courts Improvement Act of 2000’.”
+Pub. L. 106–518, §1(a), Nov. 13, 2000, 114 Stat. 2410, provided that: “This Act \[enacting sections 179 and 613 of this title, amending sections 117, 175, 332, 371, 376, 604, 611, 612, 627, 631, 636, 797, 996, 1865, 1930, and 2671 of this title, sections 3102 and 5551 of Title 5, Government Organization and Employees, section 1228 of Title 11, Bankruptcy, sections 3006A and 3401 of Title 18, Crimes and Criminal Procedure, and section 13n of former Title40, Public Buildings, Property, and Works, repealing section 2520 of this title, enacting provisions set out as notes under sections 613, 996, and 1931 of this title, and amending provisions set out as notes under sections 471, 581, and 1931 of this title\] may be cited as the ‘Federal Courts Improvement Act of 2000’.”
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–315, §1, Oct. 30, 1998, 112 Stat. 2993, provided that: “This Act \[amending sections 651 to 658 of this title, enacting provisions set out as notes under section 651 of this title, and repealing provisions setout as a note under section 652 of this title\] may be cited as the ‘Alternative Dispute Resolution Act of 1998’.”
+Pub. L. 105–315, §1, Oct. 30, 1998, 112 Stat. 2993, provided that: “This Act \[amending sections 651 to 658 of this title, enacting provisions set out as notes under section 651 of this title, and repealing provisions set out as a note under section 652 of this title\] may be cited as the ‘Alternative Dispute Resolution Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 
@@ -86,7 +94,7 @@ Pub. L. 100–191, §1, Dec. 15, 1987, 101 Stat. 1293, provided that: “This Ac
 
 #### Short Title of 1986 Amendments
 
-Pub. L. 99–657, §1, Nov. 14, 1986, 100 Stat. 3670, provided that: “This Act \[amending sections 90 and 121 ofthis title and enacting provisions set out as a note under section 121 of this title\] may be cited as the ‘Judicial Housekeeping Act of 1986’.”
+Pub. L. 99–657, §1, Nov. 14, 1986, 100 Stat. 3670, provided that: “This Act \[amending sections 90 and 121 of this title and enacting provisions set out as a note under section 121 of this title\] may be cited as the ‘Judicial Housekeeping Act of 1986’.”
 
 Pub. L. 99–570, §1151, Oct. 27, 1986, 100 Stat. 3207–12, provided that: “This subtitle \[subtitle D (§§1151–1153) of title I of Pub. L. 99–570, amending section 524 of this title, section 1963 of Title 18, Crimes and Criminal Procedure, section 1613a of Title 19, Customs Duties, and section 853 of Title 21, Food and Drugs, and repealing section 1613b of Title 19\] may be cited as the ‘Department of Justice Assets Forfeiture Fund Amendments Act of 1986’.”
 

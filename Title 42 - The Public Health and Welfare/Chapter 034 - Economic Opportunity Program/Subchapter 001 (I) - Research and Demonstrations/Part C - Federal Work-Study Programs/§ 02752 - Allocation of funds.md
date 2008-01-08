@@ -2,7 +2,7 @@
 
 #### (a) Allocation based on previous allocation
 
-(1) From the amount appropriated pursuant to section 2751(b) of this title for each fiscal year,the Secretary shall first allocate to each eligible institution for each succeeding fiscal year, an amount equal to 100 percent of the amount such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year).
+(1) From the amount appropriated pursuant to section 2751(b) of this title for each fiscal year, the Secretary shall first allocate to each eligible institution for each succeeding fiscal year, an amount equal to 100 percent of the amount such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year).
 
 (2)(A) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 but is not a first or second time participant, an amount equal to the greater of—
 
@@ -96,7 +96,7 @@
 
 (4)(A) For purposes of paragraphs (2) and (3), the term “average cost of attendance” means the average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
 
-(B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
+(B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for thesecond year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
 
 (C) The standard living expense described in subparagraph (A)(ii) is equal to 150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college for a single independent student.
 
@@ -120,7 +120,7 @@ Part F of this title, referred to in subsec. (c)(2)(B), (3)(B), means part F of 
 
 #### Codification
 
-Section was originally enacted as section 122 of the Economic Opportunity Act of 1964, Pub. L. 88–452, titleI, Aug. 20, 1964, 78 Stat. 514. As such, it had been amended by Pub. L. 89–329, title IV, §441(1), Nov. 8, 1965, 79 Stat. 1249, and renumbered section 142 by Pub. L. 90–222, title I, §111(a), Dec. 23, 1967, 81 Stat. 726.
+Section was originally enacted as section 122 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 514. As such, it had been amended by Pub. L. 89–329, title IV, §441(1), Nov. 8, 1965, 79 Stat. 1249, and renumbered section 142 by Pub. L. 90–222, title I, §111(a), Dec. 23, 1967, 81 Stat. 726.
 
 Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was stricken to accommodate the transferal but the amendment of this section by section 441(1) of Pub. L. 89–329 has not been stricken. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
 

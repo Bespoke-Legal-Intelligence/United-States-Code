@@ -2,7 +2,7 @@
 
 #### (a) Assistance of Federal agencies
 
-To carry out the purposes of sections 469 to 469c–1 of this title, any Federal agency responsible for a construction project may assist the Secretary and/or it may transfer to him such funds as may be agreed upon, but not more than 1 per centum of the total amount authorized tobe appropriated for such project, except that the 1 per centum limitation of this section shall not apply in the event that the project involves $50,000 or less: <i>Provided</i>, That the costs of such survey, recovery, analysis, and publication shall be considered nonreimbursable project costs.
+To carry out the purposes of sections 469 to 469c–1 of this title, any Federal agency responsible for a construction project may assist the Secretary and/or it may transfer to him such funds as may be agreed upon, but not more than 1 per centum of the total amount authorized to be appropriated for such project, except that the 1 per centum limitation of this section shall not apply in the event that the project involves $50,000 or less: <i>Provided</i>, That the costs of such survey, recovery, analysis, and publication shall be considered nonreimbursable project costs.
 
 #### (b) Authorization of appropriations for preservation of data
 

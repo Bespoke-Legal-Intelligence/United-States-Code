@@ -32,7 +32,7 @@ If the President determines that a State or local government has identified natu
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), in providing assistance to local governments under this section, the President shall selectfrom local governments recommended by the Governors under this subsection.
+&emsp;&emsp;Except as provided in subparagraph (B), in providing assistance to local governments under this section, the President shall select from local governments recommended by the Governors under this subsection.
 
 #### (B) Extraordinary circumstances
 

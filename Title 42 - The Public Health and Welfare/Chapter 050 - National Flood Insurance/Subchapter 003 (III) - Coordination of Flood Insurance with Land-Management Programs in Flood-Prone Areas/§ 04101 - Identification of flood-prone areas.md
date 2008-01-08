@@ -2,7 +2,7 @@
 
 #### (a) Publication of information; establishment of flood-risk zones; estimates of flood-caused loss
 
-The Director is authorized to consult with, receive information from, and enter into any agreements or other arrangements with the Secretaries of the Army, the Interior, Agriculture, and Commerce, the Tennessee Valley Authority, and the heads of other Federal departments or agencies, on a reimbursement basis, or with thehead of any State or local agency, or enter into contracts with any persons or private firms, in order that he may—
+The Director is authorized to consult with, receive information from, and enter into any agreements or other arrangements with the Secretaries of the Army, the Interior, Agriculture, and Commerce, the Tennessee Valley Authority, and the heads of other Federal departments or agencies, on a reimbursement basis, or with the head of any State or local agency, or enter into contracts with any persons or private firms, in order that he may—
 
 &emsp;(1) identify and publish information with respect to all flood plain areas, including coastal areas located in the United States, which has special flood hazards, within five years following August 1, 1968, and
 
@@ -34,7 +34,7 @@ The Director shall revise and update any floodplain areas and flood-risk zones�
 
 #### (g) Availability of flood maps
 
-To promote compliance with the requirements of this chapter, the Director shall make flood insurance rate maps and related information available free of charge to the Federal entities for lending regulation, Federal agency lenders, State agencies directly responsible for coordinating the national flood insurance program, and appropriate representatives of communities participating in the national flood insurance program, and at a reasonable cost to all other persons. Any receipts resulting from this subsection shall be deposited in the National Flood Insurance Fund, pursuant to section 4017(b)(6) of this title.
+To promote compliance with the requirements of this chapter, the Director shall make flood insurance rate maps and related information available free of charge to the Federal entitiesfor lending regulation, Federal agency lenders, State agencies directly responsible for coordinating the national flood insurance program, and appropriate representatives of communities participating in the national flood insurance program, and at a reasonable cost to all other persons. Any receipts resulting from this subsection shall be deposited in the National Flood Insurance Fund, pursuant to section 4017(b)(6) of this title.
 
 #### (h) Notification of flood map changes
 

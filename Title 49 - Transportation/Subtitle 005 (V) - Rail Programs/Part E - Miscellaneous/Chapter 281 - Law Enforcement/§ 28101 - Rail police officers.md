@@ -1,6 +1,8 @@
 ### §28101. Rail police officers
 
-Under regulations prescribed by the Secretary of Transportation, a rail police officer who is employed by a rail carrier and certified or commissioned as a police officer under the laws of a State may enforce the laws of any jurisdiction in which the rail carrier owns property, to the extent of the authority of a police officer certified or commissioned under the laws of that jurisdiction, to protect—
+(a)
+
+In General.—Under regulations prescribed by the Secretary of Transportation, a rail policeofficer who is employed by a rail carrier and certified or commissioned as a police officer under the laws of a State may enforce the laws of any jurisdiction in which the rail carrier owns property, to the extent of the authority of a police officer certified or commissioned under the laws of that jurisdiction, to protect—
 
 &emsp;(1) employees, passengers, or patrons of the rail carrier;
 
@@ -10,7 +12,11 @@ Under regulations prescribed by the Secretary of Transportation, a rail police o
 
 &emsp;(4) personnel, equipment, and material moving by rail that are vital to the national defense.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 939, §26101; renumbered §28101, Pub. L. 103–440, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4616.)
+(b)
+
+Assignment.—A railroad police officer employed by a railroad carrier and certified or commissioned as a police officer under the laws of a State may be temporarily assigned to assist a second railroad carrier in carrying out law enforcement duties upon the request of the second railroad carrier, at which time the police officer shall be considered to be an employee of the second railroad carrier and shall have authority to enforce the laws of any jurisdiction in which the second railroad carrier owns property to the same extent as provided in subsection (a).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 939, §26101; renumbered §28101, Pub. L. 103–440, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4616; amended Pub. L. 110–53, title XV, §1526(a), Aug. 3, 2007, 121 Stat. 452.)
 
 Historical and Revision Notes
 
@@ -31,6 +37,8 @@ Nov. 29, 1990, Pub. L. 101–647, §1704, 104 Stat. 4846.
 The words “to the extent of the authority of a police officer certified or commissioned under the laws of that jurisdiction” are placed before clause (1) rather than at the end of clause (4), as in the source provision, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2007—Pub. L. 110–53 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1994—Pub. L. 103–440 renumbered section 26101 of this title as this section.
 

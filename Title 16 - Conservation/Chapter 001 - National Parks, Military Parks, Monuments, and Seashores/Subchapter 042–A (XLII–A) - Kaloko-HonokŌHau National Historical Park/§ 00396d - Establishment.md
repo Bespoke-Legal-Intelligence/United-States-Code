@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) In order to provide a center for the preservation, interpretation, and perpetuation of traditional native Hawaiian activities and culture, and to demonstrate historic land use patterns as well as to provide a needed resource for the education, enjoyment, and appreciation of such traditional native Hawaiian activities and culture by local residents and visitors, there is established the Kaloko-Honokōhau National Historical Park (hereinafter in this section referred to as the “park”) in Hawaii comprising approximately one thousand three hundred acres as generally depicted on the map entitled “Kaloko-Honokōhau National Historical Park,” numbered KHN–80,000, and dated May 1978.
+(1) In order to provide a center for the preservation, interpretation, and perpetuation of traditional native Hawaiian activities and culture, and to demonstrate historic land use patterns as well as to provide a needed resource for the education, enjoyment, and appreciation of such traditional native Hawaiian activities and culture by local residents and visitors, there is established the Kaloko-Honokōhau National Historical Park (hereinafter in this section referred to as the “park”) in Hawaii comprising approximately one thousand three hundred acres asgenerally depicted on the map entitled “Kaloko-Honokōhau National Historical Park,” numbered KHN–80,000, and dated May 1978.
 
 (2) The boundaries of the park are modified to include lands and interests therein comprised of Parcels 1 and 2 totaling 2.14 acres, identified as “Tract A” on the map entitled “Kaloko-Honokōhau National Historical Park Proposed Boundary Adjustment”, numbered PWR (PISO) 466/82,043 and dated April 2002.
 
@@ -24,7 +24,7 @@ The Secretary shall administer the park in accordance with this section and the 
 
 (3) Commercial, recreational, and subsistence fishing and shoreline food gathering activities as well as access to and from the Honokohau small boat harbor by motor boats and other water craft shall be permitted wherever such activities are not inconsistent with the purposes for which the park is established, subject to regulation by the Secretary.
 
-(4) The Secretary shall consult with and may enter into agreements with other governmental entities and private landowners to establish adequate controls on air and water quality and the scenic and esthetic values of the surroundingland and water areas. In consulting with and entering into any such agreements, the Secretary shall to the maximum extent feasible utilize the traditional native Hawaiian Ahupua's concept of land and water management.
+(4) The Secretary shall consult with and may enter into agreements with other governmental entities and private landowners to establish adequate controls on air and water quality and the scenic and esthetic values of the surrounding land and water areas. In consulting with and entering into any such agreements, the Secretary shall to the maximum extent feasible utilize the traditional native Hawaiian Ahupua's concept of land and water management.
 
 #### (e) Employment of native Hawaiians
 
@@ -54,7 +54,7 @@ There are hereby authorized to be appropriated not to exceed $25,000,000 for acq
 
 #### References in Text
 
-Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original act “approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467)”. Act Aug. 25, 1916, known as the “National Park Service Organic Act”, is classified to sections 1, 2, 3, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original act “approved August 25,1916 (39 Stat. 535; 16 U.S.C. 461–467)”. Act Aug. 25, 1916, known as the “National Park Service Organic Act”, is classified to sections 1, 2, 3, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
 The date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996, referred to in subsec. (f)(7), probably means the date of enactment of the Omnibus Parks and Public Lands Management Act of 1996, Pub. L. 104–333, which was approved Nov. 12, 1996. No act named the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996 has been enacted. Section 503 of title V of div. I of Pub. L. 104–333, which amended this section and enacted provisions set out as a note below, relates to extension of Kaloko-Honokōhau Advisory Commission.
 

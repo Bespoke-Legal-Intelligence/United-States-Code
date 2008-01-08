@@ -8,7 +8,7 @@ The Director of the Office of Foreign Buildings Operations shall—
 
 &emsp;(3) direct the Office of Foreign Buildings Operations to provide proper training and assistance to posts to ensure that annual surveys are effectively completed; and
 
-&emsp;(4) direct overseas posts to ensure that all maintenance program fiscal transactions areproperly encoded in the Department of State accounting system to enable compilation of actual expenditures on routine maintenance and specific maintenance funded by the Office of Foreign Buildings Operations.
+&emsp;(4) direct overseas posts to ensure that all maintenance program fiscal transactions are properly encoded in the Department of State accounting system to enable compilation of actual expenditures on routine maintenance and specific maintenance funded by the Office of Foreign Buildings Operations.
 
 (Pub. L. 102–138, title I, §125, Oct. 28, 1991, 105 Stat. 659.)
 
@@ -18,5 +18,5 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in anyofficial or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 

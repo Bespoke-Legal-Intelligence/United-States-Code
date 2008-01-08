@@ -100,7 +100,7 @@ The provisions of the Federal Advisory Committee Act apply—
 
 > for use in connection with matters referred to in subsection (a) of this section.
 
-(2) Information other than that described in paragraph (1), and advice submitted in confidence by the private sector or non-Federal government to officers or employees of the United States, to the Advisory Committee for Trade Policy and Negotiations, or to any advisory committee established under subsection (c) of this section, in connection with matters referred to in subsection (a) of this section, may be disclosed upon request to—
+(2) Information other than that described in paragraph (1), and advice submitted in confidence by the private sector or non-Federal government to officers or employees of the UnitedStates, to the Advisory Committee for Trade Policy and Negotiations, or to any advisory committee established under subsection (c) of this section, in connection with matters referred to in subsection (a) of this section, may be disclosed upon request to—
 
 &emsp;(A) the individuals described in paragraph (1); and
 
@@ -150,7 +150,7 @@ Reorganization Plan Number 3 of 1979, referred to in subsec. (a)(1)(C), is set o
 
 Executive Order Numbered 12188, referred to in subsec. (a)(1)(C), is set out as a note under section 2171 of this title.
 
-The Federal Advisory Committee Act, referred to in subsec (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Food and Agriculture Act of 1977, referred to in subsec. (<i>l</i>), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
 
@@ -198,7 +198,7 @@ Subsec. (c)(2). Pub. L. 96–39, §1103(6)–(9), substituted “The President s
 
 Subsec. (d). Pub. L. 96–39, §1103(10), required committee meetings to be also summoned at joint instance of Secretary of Agriculture, Commerce, or Labor, as appropriate, previously required to be called before and during trade negotiations, struck out item (1) through (3) designation for “policy advice”, “technical advice” and “advice on other factors”, struck out “on negotiations” and “on negotiations on particular products both domestic and foreign” after “policy advice” and “technical advice and information” and substituted “factors relevant to the matters referred to in subsection (a) of this section” for “factors relevant to positions of the United States in trade negotiations.”
 
-Subsec. (e). Pub. L. 96–39, §1103(11)–(14), redesignated par. (1) as entire provision, and in provision as so redesignated, substituted “each sector or functional advisory committee, if the sector or area” for “each sector advisory committee, if the sector”, “appropriate sector or functional area” for “appropriate sector”, and “within the sector or within the functional area” for “within the sector”, and struck out par. (2) which required a report to Congress by the Advisory Committee for Trade Negotiations by each policy advisory committee, and, each sector advisory committee as soon as practicable at end of the period ending 5 years after Jan. 3, 1975, including advisory opinions of the respective committees as to how the trade agreements serve the economic interests of United States and how provision is made for equity and reciprocity within the sector.
+Subsec. (e). Pub. L. 96–39, §1103(11)–(14), redesignated par. (1) as entire provision, and in provision as so redesignated, substituted “each sector or functional advisory committee, if the sector or area” for “each sector advisory committee, if the sector”, “appropriate sector or functional area” for “appropriate sector”, and“within the sector or within the functional area” for “within the sector”, and struck out par. (2) which required a report to Congress by the Advisory Committee for Trade Negotiations by each policy advisory committee, and, each sector advisory committee as soon as practicable at end of the period ending 5 years after Jan. 3, 1975, including advisory opinions of the respective committees as to how the trade agreements serve the economic interests of United States and how provision is made for equity and reciprocity within the sector.
 
 Subsec. (f)(2). Pub. L. 96–39, §1103(15)(A), (B), substituted “committees” for “groups” and “with respect to matters referred to in subsection (a) of this section” for “on the negotiation of any trade agreement”.
 
@@ -234,7 +234,7 @@ For delegation of functions of President under div. B of Pub. L. 107–210, amen
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Ex. Ord. No. 12905. Trade and Environment Policy Advisory Committee
 
@@ -284,5 +284,7 @@ Term of Trade and Environment Policy Advisory Committee extended until Sept. 30,
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

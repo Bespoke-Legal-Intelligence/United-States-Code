@@ -102,5 +102,3 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-§718
-

@@ -2,7 +2,7 @@
 
 #### (a) Service
 
-Every order of the Commission shall be forthwith served upon the designated agent of the carrier in the city of Washington or in such other manner as may be provided by law.
+Every order of the Commission shall be forthwith served upon the designated agent of thecarrier in the city of Washington or in such other manner as may be provided by law.
 
 #### (b) Suspension or modification
 

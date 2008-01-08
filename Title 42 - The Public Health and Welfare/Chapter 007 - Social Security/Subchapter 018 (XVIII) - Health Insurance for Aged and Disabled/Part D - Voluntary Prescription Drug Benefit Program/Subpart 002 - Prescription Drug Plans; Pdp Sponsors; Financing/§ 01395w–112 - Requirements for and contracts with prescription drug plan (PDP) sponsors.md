@@ -30,7 +30,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (2) Limitation on entities offering fallback prescription drug plans
 
-&emsp;The Secretary shall not enter into a contract with a PDP sponsor for the offering of aprescription drug plan (other than a fallback prescription drug plan) in a PDP region for a year if the sponsor—
+&emsp;The Secretary shall not enter into a contract with a PDP sponsor for the offering of a prescription drug plan (other than a fallback prescription drug plan) in a PDP region for a year if the sponsor—
 
 &emsp;&emsp;(A) submitted a bid under section 1395w–111(g) of this title for such year (as the first year of a contract period under such section) to offer a fallback prescription drug plan in any PDP region;
 
@@ -110,7 +110,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 &emsp;In applying provisions of section 1395w–25(a)(2) of this title under paragraphs (2) and (3) of this subsection to prescription drug plans and PDP sponsors—
 
-&emsp;&emsp;(A) any reference to a waiver application under section 1395w–25 of this title shall betreated as a reference to a waiver application under paragraph (1)(A) of this subsection; and
+&emsp;&emsp;(A) any reference to a waiver application under section 1395w–25 of this title shall be treated as a reference to a waiver application under paragraph (1)(A) of this subsection; and
 
 &emsp;&emsp;(B) any reference to solvency standards shall be treated as a reference to solvency standards established under subsection (d) of this section.
 
@@ -126,7 +126,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (e) Licensure does not substitute for or constitute certification
 
-The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) of this section or has a waiver application approved under subsection (c) of this section does not deem the sponsor to meet other requirements imposed under this part for a sponsor.
+The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) of this section orhas a waiver application approved under subsection (c) of this section does not deem the sponsor to meet other requirements imposed under this part for a sponsor.
 
 #### (f) Periodic review and revision of standards
 

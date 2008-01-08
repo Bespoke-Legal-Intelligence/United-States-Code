@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(D) the character of the efforts made by such alien himself and by representatives of the country or countries to which the alien's removal is directed to expedite the alien's departure from the United States;
 
-&emsp;&emsp;(E) the reason for the inability of the Government of the United States to secure passports, other travel documents, or removalfacilities from the country or countries to which the alien has been ordered removed; and
+&emsp;&emsp;(E) the reason for the inability of the Government of the United States to secure passports, other travel documents, or removal facilities from the country or countries to which the alien has been ordered removed; and
 
 &emsp;&emsp;(F) the eligibility of the alien for discretionary relief under the immigration laws.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish an Antimicrobial Resistance Task Force to provide advice and recommendations to the Secretary and coordinate Federal programs relating to antimicrobial resistance. The Secretary may appoint or select a committee, or other organization in existence as of November 13, 2000, to serve as such a task force, if such committee, or other organization meets the requirements of this section.
+&emsp;The Secretary shall establish an Antimicrobial Resistance Task Force to provide advice and recommendations to the Secretary and coordinate Federal programs relating toantimicrobial resistance. The Secretary may appoint or select a committee, or other organization in existence as of November 13, 2000, to serve as such a task force, if such committee, or other organization meets the requirements of this section.
 
 #### (2) Members of task force
 

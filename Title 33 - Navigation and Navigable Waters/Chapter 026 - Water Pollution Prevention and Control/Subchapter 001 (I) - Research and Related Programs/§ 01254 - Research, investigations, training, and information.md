@@ -138,7 +138,7 @@ In carrying out the provisions of subsection (a) of this section the Administrat
 
 (4)
 
-Small flows clearinghouse.—Notwithstanding section 1285(d) of this title, fromamounts that are set aside for a fiscal year under section 1285(i) of this title and are not obligated by the end of the 24-month period of availability for such amounts under section 1285(d) of this title, the Administrator shall make available $1,000,000 or such unobligated amount, whichever is less, to support a national clearinghouse within the Environmental Protection Agency to collect and disseminate information on small flows of sewage and innovative or alternative wastewater treatment processes and techniques, consistent with paragraph (3). This paragraph shall apply with respect to amounts set aside under section 1285(i) of this title for which the 24-month period of availability referred to in the preceding sentence ends on or after September 30, 1986.
+Small flows clearinghouse.—Notwithstanding section 1285(d) of this title, from amounts that are set aside for a fiscal year under section 1285(i) of this title and are not obligated by the end of the 24-month period of availability for such amounts under section 1285(d) of this title, the Administrator shall make available $1,000,000 or such unobligated amount, whichever is less, to support a national clearinghouse within the Environmental Protection Agency to collect and disseminate information on small flows of sewage and innovative or alternative wastewater treatment processes and techniques, consistent with paragraph (3). This paragraph shall apply with respect to amounts set aside under section 1285(i) of this title for which the 24-month period of availability referred to in the preceding sentence ends on or after September 30, 1986.
 
 #### (r) Research grants to colleges and universities
 
@@ -158,7 +158,7 @@ There is authorized to be appropriated (1) not to exceed $100,000,000 per fiscal
 
 #### (v) Studies concerning pathogen indicators in coastal recreation waters
 
-Not later than 18 months after October 10, 2000, after consultation and in cooperation with appropriate Federal, State, tribal, and local officials (including local health officials), the Administrator shall initiate, and, not later than 3 years after October 10, 2000, shall complete, in cooperation with the heads of other Federal agencies, studies to provide additional information for use in developing—
+Not later than 18 months after October 10, 2000, after consultation and in cooperation with appropriate Federal, State, tribal, and local officials (including local health officials), the Administrator shall initiate, and, not later than 3years after October 10, 2000, shall complete, in cooperation with the heads of other Federal agencies, studies to provide additional information for use in developing—
 
 &emsp;(1) an assessment of potential human health risks resulting from exposure to pathogens in coastal recreation waters, including nongastrointestinal effects;
 
@@ -166,7 +166,7 @@ Not later than 18 months after October 10, 2000, after consultation and in coope
 
 &emsp;(3) appropriate, accurate, expeditious, and cost-effective methods (including predictive models) for detecting in a timely manner in coastal recreation waters the presence of pathogens that are harmful to human health; and
 
-&emsp;(4) guidance for State application of the criteria for pathogens and pathogen indicators tobe published under section 1314(a)(9) of this title to account for the diversity of geographic and aquatic conditions.
+&emsp;(4) guidance for State application of the criteria for pathogens and pathogen indicators to be published under section 1314(a)(9) of this title to account for the diversity of geographic and aquatic conditions.
 
 (June 30, 1948, ch. 758, title I, §104, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 819; amended Pub. L. 93–207, §1(1), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §1, Jan. 2, 1975, 88 Stat. 1924; Pub. L. 95–217, §§4(a), (b), 6, 7, Dec. 27, 1977, 91 Stat. 1566, 1567; Pub. L. 95–576, §1(a), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–483, §1(a), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §§101(a), 102, Feb. 4, 1987, 101 Stat. 8, 9; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 105–362, title V, §501(a)(1), (d)(2)(A), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–284, §3(a), Oct. 10, 2000, 114 Stat. 871; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
@@ -232,7 +232,7 @@ Applicability.—The Federal Water Pollution Control Act (33 U.S.C. 1254(n)(3)) 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 

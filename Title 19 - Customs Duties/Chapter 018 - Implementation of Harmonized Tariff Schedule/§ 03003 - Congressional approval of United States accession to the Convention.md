@@ -6,7 +6,7 @@ The Congress approves the accession by the United States of America to the Conve
 
 #### (b) Acceptance of final legal text of Convention by President
 
-The President may accept for the United States the final legal instruments embodying the Convention. The President shall submit a copy of each final instrument to the Congress on the date it becomes available.
+The President may accept for the United States the final legal instruments embodyingthe Convention. The President shall submit a copy of each final instrument to the Congress on the date it becomes available.
 
 #### (c) Unspecified private remedies not created
 

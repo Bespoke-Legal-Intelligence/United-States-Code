@@ -30,7 +30,7 @@ Pub. L. 102–180, §1, Dec. 2, 1991, 105 Stat. 1230, provided that: “This Act
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–666, §1, Nov. 16, 1988, 102 Stat. 3929, provided that: “This Act \[enacting sections 640d–29 and640d–30 of this title, amending sections 640d–7, 640d–9 to 640d–14, 640d–22, 640d–24, 640d–25, and 640d–28 of this title, and enacting provisions set out as a note under section 640d–11 of this title\] may be cited as the ‘Navajo and Hopi Indian Relocation Amendments of 1988’.”
+Pub. L. 100–666, §1, Nov. 16, 1988, 102 Stat. 3929, provided that: “This Act \[enacting sections 640d–29 and 640d–30 of this title, amending sections 640d–7, 640d–9 to 640d–14, 640d–22, 640d–24, 640d–25, and 640d–28 of this title, and enacting provisions set out as a note under section 640d–11 of this title\] may be cited as the ‘Navajo and Hopi Indian Relocation Amendments of 1988’.”
 
 #### Short Title of 1980 Amendment
 
@@ -234,7 +234,7 @@ Recognition as valid uses.—
 
 &emsp;“(1)
 
-Groundwater.—With respect to water rights associated with newly acquired trust lands, the Tribe, and the United States on the Tribe's behalf, shall recognize as valid all uses of groundwater which may be made from wells (or their subsequent replacements) in existence on the date each parcel of newly acquired trust land is acquired and shall not object to such groundwater uses on the basis of water rights associated with the newly acquired trust lands. The Tribe, and the United States on the Tribe's behalf, may object only to the impact of groundwater uses on newly acquired trust lands which are initiated after the date the lands affected are taken into trust and only on grounds allowed by the State law as it exists when the objection is made. The Tribe, and the United States on the Tribe's behalf, shall not object to the impact of groundwater uses on the Tribe's right to surface water established pursuant to subsection (a)(1)(C) when those groundwater uses are initiated before the Tribe initiates its beneficial use of surface water pursuant to subsection (a)(1)(C).
+Groundwater.—With respect to water rights associated with newly acquired trust lands, the Tribe, and the United States on the Tribe's behalf, shall recognize as valid all uses of groundwater which may be made from wells (or their subsequent replacements) in existence on the date each parcel of newly acquired trust land is acquired and shall not object to such groundwater uses on the basis of water rights associated with the newly acquired trust lands. The Tribe, and the United States on the Tribe's behalf, may object only to the impact of groundwater uses on newly acquired trust lands which are initiated after the date the lands affected are taken into trust and only on grounds allowed by the State law as it exists when the objection is made. The Tribe, and the United States on the Tribe's behalf, shall not object to the impact of groundwater uses on the Tribe's right to surface water established pursuant to subsection\(a)(1)(C) when those groundwater uses are initiated before the Tribe initiates its beneficial use of surface water pursuant to subsection (a)(1)(C).
 
 &emsp;“(2)
 

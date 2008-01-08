@@ -6,7 +6,7 @@
 
 &emsp;(2) where the veteran elects to construct a housing unit on land acquired by such veteran prior to application for assistance under this chapter, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the total cost to the veteran of the housing unit and the land necessary for such housing unit, or (B) 50 percent of the cost to the veteran of the housing unit plus the full amount of the unpaid balance, if any, of the cost to the veteran of the land necessary for such housing unit;
 
-&emsp;(3) where the veteran elects to remodel a dwelling which is not adapted to the requirements of such veteran's disability, acquired by such veteran prior to application for assistance under this chapter, the Secretary shallpay not to exceed (A) the cost to the veteran of such remodeling; or (B) 50 percent of the cost to the veteran of such remodeling; plus the smaller of the following sums: (i) 50 percent of the cost to the veteran of such dwelling and the necessary land upon which it is situated, or (ii) the full amount of the unpaid balance, if any, of the cost to the veteran of such dwelling and the necessary land upon which it is situated; and
+&emsp;(3) where the veteran elects to remodel a dwelling which is not adapted to the requirements of such veteran's disability, acquired by such veteran prior to application for assistance under this chapter, the Secretary shall pay not to exceed (A) the cost to the veteran of such remodeling; or (B) 50 percent of the cost to the veteran of such remodeling; plus the smaller of the following sums: (i) 50 percent of the cost to the veteran of such dwelling and the necessary land upon which it is situated, or (ii) the full amount of the unpaid balance, if any, of the cost to the veteran of such dwelling and the necessary land upon which it is situated; and
 
 &emsp;(4) where the veteran has acquired a suitable housing unit, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the cost to the veteran of such housing unit and the necessary land upon which it is situated, or (B) the full amount of the unpaid balance, if any, of the cost to the veteran of such housing unit and the necessary land upon which it is situated.
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 96–385, §301(b)(3), added subsec. (b).
 
 1972—Pub. L. 92–341 substituted “$17,500” for “$12,500”.
 
-1970—Par. (3). Pub. L. 91–506 inserted provision authorizing Administrator in the case of assistance to disabled veterans for specially adapted housing, where the veteran elects to remodel a dwelling not adapted to his disability, to pay the cost of remodeling as an alternative to the present provisions still set out in this par. which authorize the Administrator to pay the total of 50 percent of the remodeling cost plus 50 percent of the dwelling's cost or the full amount of the unpaid balance of the cost of such dwelling, whichever sum is smaller.
+1970—Par. (3). Pub. L. 91–506 inserted provision authorizing Administrator in the case of assistance to disabled veterans for specially adapted housing, wherethe veteran elects to remodel a dwelling not adapted to his disability, to pay the cost of remodeling as an alternative to the present provisions still set out in this par. which authorize the Administrator to pay the total of 50 percent of the remodeling cost plus 50 percent of the dwelling's cost or the full amount of the unpaid balance of the cost of such dwelling, whichever sum is smaller.
 
 1969—Pub. L. 91–22 substituted “$12,500” for “$10,000”.
 

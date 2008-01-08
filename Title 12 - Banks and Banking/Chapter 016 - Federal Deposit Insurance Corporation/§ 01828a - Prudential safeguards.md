@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Comptroller of the Currency may, by regulation or order, impose restrictions or requirements on relationships or transactions between a national bank and a subsidiary ofthe national bank that the Comptroller finds are—
+&emsp;The Comptroller of the Currency may, by regulation or order, impose restrictions or requirements on relationships or transactions between a national bank and a subsidiary of the national bank that the Comptroller finds are—
 
 &emsp;&emsp;(A) consistent with the purposes of this Act, title LXII of the Revised Statutes of the United States, and other Federal law applicable to national banks; and
 
@@ -76,7 +76,7 @@
 
 #### References in Text
 
-This Act and the Act, referred to in text, probably are references to Pub. L. 106–102, Nov. 12, 1999, 113 Stat.1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
+This Act and the Act, referred to in text, probably are references to Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
 Title LXII of the Revised Statutes, referred to in subsec. (a)(1)(A), consists of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 

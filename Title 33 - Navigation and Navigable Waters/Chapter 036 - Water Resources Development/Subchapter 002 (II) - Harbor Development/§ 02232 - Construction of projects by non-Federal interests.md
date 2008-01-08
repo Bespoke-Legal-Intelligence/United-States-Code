@@ -36,7 +36,7 @@ Any non-Federal interest which has requested and received from the Secretary pur
 
 #### (3) Monitoring
 
-&emsp;The Secretary shall regularly monitor and audit any project for a harbor or inland harbor constructed under this subsection by a non-Federal interest in order to ensure that such construction is in compliance with the plans approved by the Secretary, and that costs are reasonable. No reimbursement shall be made unless and until the Secretary has certified that the work for which reimbursement is requested has been performed in accordance with applicable permits and the approved plans.
+&emsp;The Secretary shall regularly monitor and audit any project for a harbor or inland harbor constructed under this subsection by a non-Federal interest in order to ensure that such construction is in compliance with the plans approved by the Secretary, and that costs arereasonable. No reimbursement shall be made unless and until the Secretary has certified that the work for which reimbursement is requested has been performed in accordance with applicable permits and the approved plans.
 
 #### (f) Operation and maintenance
 

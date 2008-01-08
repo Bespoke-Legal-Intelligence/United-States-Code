@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 (a) The term “adulterated” applies to any egg or egg product under one or more of the following circumstances—
 
-&emsp;(1) if it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance, such article shall not be considered adulterated under this clause if the quantity of such substance in or on such article does not ordinarily render it injurious to health;
+&emsp;(1) if it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance, such article shall notbe considered adulterated under this clause if the quantity of such substance in or on such article does not ordinarily render it injurious to health;
 
 &emsp;(2)(A) if it bears or contains any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
 

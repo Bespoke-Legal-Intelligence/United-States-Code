@@ -50,7 +50,7 @@ Study.—(1) Not later than one year after the date funds are made available, th
 
 &emsp;“(B) park resources and values.
 
-“(2) The Secretary shall promptly notify the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives upon the completion of the plan.
+“(2) The Secretary shall promptly notify the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources \[now Committee on Natural Resources\] of the United States House of Representatives upon the completion of the plan.
 
 “(3) The Secretary shall complete the program set forth in the plan not later than seven years after the date the congressional committees are notified pursuant to paragraph (2), and shall transmit the results of the program to such committees on a biennial basis.
 
@@ -62,7 +62,7 @@ Study.—The Secretary, in consultation with local residents, shall undertake a 
 
 “(b)
 
-Recommendations.—If the study referred to in subsection (a) determines that the limited collection of sea gull eggs can occur without impairing the biological sustainability of the sea gull population in the park, the Secretary shall submit recommendations for legislation to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives.
+Recommendations.—If the study referred to in subsection (a) determines that the limited collection of sea gull eggs can occur without impairing the biological sustainability of the sea gull population in the park, the Secretary shall submit recommendations for legislation to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources \[now Committee on Natural Resources\] of the United States House of Representatives.
 
 #### “SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -76,7 +76,7 @@ Pub. L. 105–277, div. A, §101(e) \[title I, §123\], Oct. 21, 1998, 112 Stat.
 
 General.—
 
-&emsp;“(1) The Secretary of the Interior and the State of Alaska shall cooperate in the development of a management plan for the regulation of commercial fisheries in Glacier Bay National Park pursuant to existing State and Federal statutes and any applicable international conservation and management treaties. Such management plan shall provide for commercial fishing in the marine waters within Glacier Bay National Park outside of Glacier Bay Proper, and in the marine waters within Glacier Bay Proper as specified in paragraphs (a)(2) through (a)(5), and shall provide for the protection of park values and purposes, for the prohibition of any new or expanded fisheries, and for the opportunity for the study of marine resources.
+&emsp;“(1) The Secretary of the Interior and the State of Alaska shall cooperate in the development of a management plan for the regulation of commercial fisheries in Glacier Bay National Park pursuant to existing State and Federal statutes and any applicable international conservation and management treaties. Such management plan shall provide for commercialfishing in the marine waters within Glacier Bay National Park outside of Glacier Bay Proper, and in the marine waters within Glacier Bay Proper as specified in paragraphs (a)(2) through (a)(5), and shall provide for the protection of park values and purposes, for the prohibition of any new or expanded fisheries, and for the opportunity for the study of marine resources.
 
 &emsp;“(2) In the nonwilderness waters within Glacier Bay Proper, commercial fishing shall be limited, by means of non-transferable lifetime access permits, solely to individuals who—
 

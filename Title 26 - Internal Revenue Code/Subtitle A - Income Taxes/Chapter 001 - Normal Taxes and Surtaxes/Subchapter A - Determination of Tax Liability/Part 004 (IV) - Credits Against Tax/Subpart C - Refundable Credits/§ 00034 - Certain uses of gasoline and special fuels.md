@@ -4,17 +4,17 @@
 
 There shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the sum of the amounts payable to the taxpayer—
 
-&emsp;(1) under section 6420 with respect to gasoline used during the taxable year on a farm for farming purposes (determined without regard to section 6420(g)),
+&emsp;(1) under section 6420 (determined without regard to section 6420(g)),
 
-&emsp;(2) under section 6421 with respect to gasoline used during the taxable year (A) otherwise than as a fuel in a highway vehicle or (B) in vehicles while engaged in furnishing certain public passenger land transportation service (determined without regard to section 6421(i)),<sup>1</sup> and
+&emsp;(2) under section 6421 (determined without regard to section 6421(i)),<sup>1</sup> and
 
-&emsp;(3) under section 6427 with respect to fuels used for nontaxable purposes or resold during the taxable year (determined without regard to section 6427(k)).
+&emsp;(3) under section 6427 (determined without regard to section 6427(k)).
 
 #### (b) Exception
 
 Credit shall not be allowed under subsection (a) for any amount payable under section 6421 or 6427, if a claim for such amount is timely filed and, under section 6421(i) or 6427(k), is payable under such section.
 
-(Added Pub. L. 89–44, title VIII, 809(c), June 21, 1965, 79 Stat. 167, §39; amended Pub. L. 91–258, title II, §207(c), May 21, 1970, 84 Stat. 248; Pub. L. 94–455, title XIX, §§1901(a)(3), 1906(b)(8), (9), Oct. 4, 1976, 90 Stat. 1764, 1834; Pub. L. 94–530, §1(c)(1), Oct. 17, 1976, 90 Stat. 2487; Pub. L. 95–599, title V, §505(c)(1), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–618, title II, §233(b)(2)(C), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–223, title II, §232(d)(4)(A), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, §515(b)(6)(A)–(C), Jan. 6, 1983, 96 Stat. 2181; renumbered §34 and amended Pub. L. 98–369, div. A, title IV, §471(c), title IX, §911(d)(2)(A), July 18, 1984, 98 Stat. 826, 1006; Pub. L. 99–514, title XVII, §1703(e)(2)(F), title XVIII, §1877(a), Oct. 22, 1986, 100 Stat. 2778, 2902; Pub. L. 100–647, title I, §1017(c)(2), Nov. 10, 1988, 102 Stat. 3576; Pub. L. 104–188, title I, §1606(b)(1), Aug. 20, 1996, 110 Stat. 1839; Pub. L. 105–206, title VI, §6023(24)(B), July 22, 1998, 112 Stat. 826.)
+(Added Pub. L. 89–44, title VIII, 809(c), June 21, 1965, 79 Stat. 167, §39; amended Pub. L. 91–258, title II, §207(c), May 21, 1970, 84 Stat. 248; Pub. L. 94–455, title XIX, §§1901(a)(3), 1906(b)(8), (9), Oct. 4, 1976, 90 Stat. 1764, 1834; Pub. L. 94–530, §1(c)(1), Oct. 17, 1976, 90 Stat. 2487; Pub. L. 95–599, title V, §505(c)(1), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–618, title II, §233(b)(2)(C), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–223, title II, §232(d)(4)(A), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, §515(b)(6)(A)–(C), Jan. 6, 1983, 96 Stat. 2181; renumbered §34 and amended Pub. L. 98–369, div. A, title IV, §471(c), title IX, §911(d)(2)(A), July 18, 1984, 98 Stat. 826, 1006; Pub. L. 99–514, title XVII, §1703(e)(2)(F), title XVIII, §1877(a), Oct. 22, 1986, 100 Stat. 2778, 2902; Pub. L. 100–647, title I, §1017(c)(2), Nov. 10, 1988, 102 Stat. 3576; Pub. L. 104–188, title I, §1606(b)(1), Aug. 20, 1996, 110 Stat. 1839; Pub. L. 105–206, title VI, §6023(24)(B), July 22, 1998, 112 Stat. 826; Pub. L. 110–172, §11(a)(4), Dec. 29, 2007, 121 Stat. 2484.)
 
 #### References in Text
 
@@ -22,9 +22,15 @@ Section 6421(i), referred to in subsec. (a)(2), was repealed by Pub. L. 103–66
 
 #### Prior Provisions
 
-A prior section 34, acts Aug. 16, 1954, ch. 736, 68A Stat. 13; June 25, 1959, Pub. L. 86–69, §3(a)(1), 73 Stat. 139;Sept. 14, 1960, Pub. L. 86–779, §10(e), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §201(a), 78 Stat. 31, related to dividends received by individuals, prior to repeal by Pub. L. 88–272, title II, §201(b), Feb. 26, 1964, 78 Stat. 31, effective with respect to dividends received after Dec. 31, 1964.
+A prior section 34, acts Aug. 16, 1954, ch. 736, 68A Stat. 13; June 25, 1959, Pub. L. 86–69, §3(a)(1), 73 Stat. 139; Sept. 14, 1960, Pub. L. 86–779, §10(e), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §201(a), 78 Stat. 31, related to dividends received by individuals, prior to repeal by Pub. L. 88–272, title II, §201(b), Feb. 26, 1964, 78 Stat. 31, effective with respect to dividends received after Dec. 31, 1964.
 
 #### Amendments
+
+2007—Subsec. (a)(1). Pub. L. 110–172, §11(a)(4)(A), struck out “with respect to gasoline used during the taxable year on a farm for farming purposes” before “(determined without regard to section 6420(g))”.
+
+Subsec. (a)(2). Pub. L. 110–172, §11(a)(4)(B), which directed striking out “with respect to gasoline used during the taxable year: (A) otherwise than as a fuel in a highway vehicle; or (B) in vehicles while engaged in furnishing certain public passenger land transportation service”, was executed by striking out “with respect to gasoline used during the taxable year (A) otherwise than as a fuel in a highway vehicle or (B) in vehicles while engaged in furnishing certain public passenger land transportation service” before “(determined without regard to section 6421(i))”, to reflect the probable intent of Congress.
+
+Subsec. (a)(3). Pub. L. 110–172, §11(a)(4)(C), struck out “with respect to fuels used for nontaxable purposes or resold during the taxable year” before “(determined without regard to section 6427(k))”.
 
 1998—Subsec. (b). Pub. L. 105–206 substituted “section 6421(i)” for “section 6421(j)”.
 
@@ -50,7 +56,7 @@ Subsec. (b). Pub. L. 98–369, §911(d)(2)(A), substituted “6427(j)” for “
 
 1983—Pub. L. 97–424, §515(b)(6)(C), substituted “and special fuels” for “, special fuels, and lubricating oil” after “gasoline” in section catchline.
 
-Subsec. (a)(2) to (4). Pub. L. 97–424, §515(b)(6)(A), inserted “and” at end of par. (2), redesignated par. (4) as (3), and struck out former (3) which referred to amounts payable to the taxpayer under section 6424 with respect to lubricating oil used during the taxable year for certain nontaxable purposes (determined without regard to section 6424(f)).
+Subsec. (a)(2) to (4). Pub. L. 97–424, §515(b)(6)(A), inserted “and” at end of par. (2), redesignated par. (4) as (3), and struck out former (3) which referred to amounts payable to the taxpayer under section 6424 with respect to lubricating oil used during the taxableyear for certain nontaxable purposes (determined without regard to section 6424(f)).
 
 Subsec. (b). Pub. L. 97–424, §515(b)(6)(B)(i), substituted “6421 or 6427” for “6421, 6424, or 6427” after “amount payable under”.
 

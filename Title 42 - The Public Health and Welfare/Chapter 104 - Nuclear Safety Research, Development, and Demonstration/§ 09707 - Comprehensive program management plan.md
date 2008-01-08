@@ -14,10 +14,6 @@ The Secretary shall transmit the comprehensive program management plan along wit
 
 1995—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which directed Secretary of Energy to transmit to Congress, concurrently with submission of President's annual budget to Congress, detailed description of comprehensive plan as then in effect.
 
-#### Change of Name
-
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Transfer of Functions
 
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.

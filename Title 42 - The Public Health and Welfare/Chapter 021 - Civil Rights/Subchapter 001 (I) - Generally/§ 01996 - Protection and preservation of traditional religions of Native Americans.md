@@ -38,7 +38,7 @@ Sec. 2. <i>Procedures</i>. (a) Each executive branch agency with statutory or ad
 
 Sec. 3. Nothing in this order shall be construed to require a taking of vested property interests. Nor shall this order be construed to impair enforceable rights to use of Federal lands that have been granted to third parties through final agency action. For purposes of this order, “agency action” has the same meaning as in the Administrative Procedure Act (5 U.S.C. 551(13)).
 
-Sec. 4. This order is intended only to improve the internal management of the executive branch and is notintended to, nor does it, create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by any party against the United States, its agencies, officers, or any person.
+Sec. 4. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by any party against the United States, its agencies, officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

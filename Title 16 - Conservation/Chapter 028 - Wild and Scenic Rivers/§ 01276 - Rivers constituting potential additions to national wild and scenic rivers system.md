@@ -22,7 +22,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (9) Illinois, Oregon: The entire river.
 
-(10) Little Beaver, Ohio: The segment of the North and Middle Forks of the Little Beaver River in Columbiana County from a point in the vicinity of Negly and Elkton, Ohio, downstream to a point in the vicinity of East Liverpool, Ohio.
+(10) Little Beaver, Ohio: The segment of the North and Middle Forks of the Little Beaver River in Columbiana County from a point in thevicinity of Negly and Elkton, Ohio, downstream to a point in the vicinity of East Liverpool, Ohio.
 
 (11) Little Miami, Ohio: That segment of the main stem of the river, exclusive of its tributaries, from a point at the Warren-Clermont County line at Loveland, Ohio, upstream to the sources of Little Miami including North Fork.
 

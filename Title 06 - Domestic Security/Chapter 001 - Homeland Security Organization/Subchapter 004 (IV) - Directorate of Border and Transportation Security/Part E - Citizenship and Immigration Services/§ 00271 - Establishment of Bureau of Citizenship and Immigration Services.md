@@ -8,7 +8,7 @@
 
 #### (2) Director
 
-&emsp;The head of the Bureau of Citizenship and Immigration Services shall be the Director ofthe Bureau of Citizenship and Immigration Services, who—
+&emsp;The head of the Bureau of Citizenship and Immigration Services shall be the Director of the Bureau of Citizenship and Immigration Services, who—
 
 &emsp;&emsp;(A) shall report directly to the Deputy Secretary;
 
@@ -76,7 +76,7 @@ In accordance with subchapter XII of this chapter (relating to transition provis
 
 &emsp;&emsp;(A) making policy recommendations and performing policy research and analysis on immigration services issues; and
 
-&emsp;&emsp;(B) coordinating immigration policy issues with the Chief of Policy and Strategy for the Bureau of Border Security of the Department.
+&emsp;&emsp;(B) coordinating immigration policy issues with the Chief of Policy and Strategy for theBureau of Border Security of the Department.
 
 #### (d) Legal advisor
 

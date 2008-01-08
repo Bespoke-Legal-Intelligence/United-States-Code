@@ -58,6 +58,8 @@ The committees established under section 3861 of this title shall be exempt from
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a) and (d), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+
 Section 3838b of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
 
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.

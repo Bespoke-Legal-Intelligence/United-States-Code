@@ -24,7 +24,7 @@
 
 &emsp;&emsp;<b>(12) For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 802, §6420; renumbered §6421, Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; renumbered §6422, June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended Pub. L. 85–859, title II, §204(4), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 88–36, title II, §201(c), June 4, 1963, 77 Stat. 54; Pub. L. 94–455, title XVI, §1601(f)(1), title XIX, §§1901(b)(36)(B), 1906(a)(28), Oct. 4, 1976, 90 Stat. 1746, 1802, 1828; Pub. L. 95–600, title III, §362(d)(4), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 97–248, title IV, §402(c)(4), Sept. 3, 1982, 96 Stat. 667; Pub. L. 97–258, §3(f)(8), (9), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 101–508, title XI, §11801(c)(17)(A), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 105–34, title XI, §1131(c)(3), Aug. 5, 1997, 111 Stat. 980.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 802, §6420; renumbered §6421, Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; renumbered §6422, June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended Pub. L. 85–859, title II, §204(4), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 88–36, title II, §201(c), June 4, 1963, 77 Stat. 54;Pub. L. 94–455, title XVI, §1601(f)(1), title XIX, §§1901(b)(36)(B), 1906(a)(28), Oct. 4, 1976, 90 Stat. 1746, 1802, 1828; Pub. L. 95–600, title III, §362(d)(4), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 97–248, title IV, §402(c)(4), Sept. 3, 1982, 96 Stat. 667; Pub. L. 97–258, §3(f)(8), (9), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 101–508, title XI, §11801(c)(17)(A), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 105–34, title XI, §1131(c)(3), Aug. 5, 1997, 111 Stat. 980.)
 
 #### References in Text
 
@@ -58,7 +58,7 @@ Pars. (12), (13). Pub. L. 94–455, §1901(b)(36)(B), redesignated pars. (12) an
 
 Par. (14). Pub. L. 94–455, §1601(f)(1), added par. (14).
 
-1963—Pars. (7) to (14). Pub. L. 88–36 redesignated pars. (8) to (14) as (7) to (13), respectively. Former par. (7),which was cross reference provision for abatement or refund in case of tax on silver bullion to section 4894, was struck out.
+1963—Pars. (7) to (14). Pub. L. 88–36 redesignated pars. (8) to (14) as (7) to (13), respectively. Former par. (7), which was cross reference provision for abatement or refund in case of tax on silver bullion to section 4894, was struck out.
 
 1958—Pub. L. 85–859 substituted “subtitle E” for “sections 5011, 5044, 5057, 5063, 5705, and 5707” in par. (14).
 

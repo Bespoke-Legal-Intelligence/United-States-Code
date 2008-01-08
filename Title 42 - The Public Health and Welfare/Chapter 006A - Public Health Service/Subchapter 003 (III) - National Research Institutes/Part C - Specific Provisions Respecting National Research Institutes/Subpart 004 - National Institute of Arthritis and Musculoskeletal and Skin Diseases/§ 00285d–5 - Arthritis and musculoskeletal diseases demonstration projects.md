@@ -22,7 +22,7 @@ Projects supported under this section shall include—
 
 &emsp;&emsp;(B) to discourage the promotion and use of unapproved and ineffective diagnostic, preventive treatment, and control methods for arthritis and unapproved and ineffective drugs and devices for arthritis and musculoskeletal diseases; and
 
-&emsp;(6) projects for investigation into the epidemiology of all forms and aspects of arthritis and musculoskeletal diseases, including investigations into the social, environmental, behavioral, nutritional, and genetic determinants and influences involved in the epidemiology of arthritis and musculoskeletal diseases.
+&emsp;(6) projects for investigation into the epidemiology of all forms and aspects of arthritisand musculoskeletal diseases, including investigations into the social, environmental, behavioral, nutritional, and genetic determinants and influences involved in the epidemiology of arthritis and musculoskeletal diseases.
 
 #### (c) Standardization of patient data and recordkeeping
 

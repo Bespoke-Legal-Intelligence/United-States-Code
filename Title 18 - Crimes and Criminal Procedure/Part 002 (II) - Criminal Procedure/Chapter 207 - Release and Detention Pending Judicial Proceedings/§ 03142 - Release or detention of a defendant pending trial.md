@@ -44,7 +44,7 @@ Release on Conditions.—(1) If the judicial officer determines that the release
 
 &emsp;&emsp;(x) undergo available medical, psychological, or psychiatric treatment, including treatment for drug or alcohol dependency, and remain in a specified institution if required for that purpose;
 
-&emsp;&emsp;(xi) execute an agreement to forfeit upon failing to appear as required, property of asufficient unencumbered value, including money, as is reasonably necessary to assure the appearance of the person as required, and shall provide the court with proof of ownership and the value of the property along with information regarding existing encumbrances as the judicial office may require;
+&emsp;&emsp;(xi) execute an agreement to forfeit upon failing to appear as required, property of a sufficient unencumbered value, including money, as is reasonably necessary to assure the appearance of the person as required, and shall provide the court with proof of ownership and the value of the property along with information regarding existing encumbrances as the judicial office may require;
 
 &emsp;&emsp;(xii) execute a bail bond with solvent sureties; who will execute an agreement to forfeit in such amount as is reasonably necessary to assure appearance of the person as required and shall provide the court with information regarding the value of the assets and liabilities of the surety if other than an approved surety and the nature and extent of encumbrances against the surety's property; such surety shall have a net worth which shall have sufficient unencumbered value to pay the amount of the bail bond;
 
@@ -52,7 +52,7 @@ Release on Conditions.—(1) If the judicial officer determines that the release
 
 &emsp;&emsp;(xiv) satisfy any other condition that is reasonably necessary to assure the appearance of the person as required and to assure the safety of any other person and the community.
 
-> &emsp;In any case that involves a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title, or a failure to register offense under section 2250 of this title, any release order shall contain, at a minimum, a condition of electronic monitoring and each of the conditions specified at subparagraphs (iv), (v), (vi), (vii), and (viii).
+> &emsp;In any case that involves a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title, or a failure to register offense under section 2250 of this title, any release order shall contain, at aminimum, a condition of electronic monitoring and each of the conditions specified at subparagraphs (iv), (v), (vi), (vii), and (viii).
 
 (2) The judicial officer may not impose a financial condition that results in the pretrial detention of the person.
 
@@ -92,7 +92,7 @@ Detention.—If, after a hearing pursuant to the provisions of subsection (f) of
 
 (f)
 
-Detention Hearing.—The judicial officer shall hold a hearing to determine whether any condition or combination of conditions set forth in subsection (c) of this section will reasonablyassure the appearance of such person as required and the safety of any other person and the community—
+Detention Hearing.—The judicial officer shall hold a hearing to determine whether any condition or combination of conditions set forth in subsection (c) of this section will reasonably assure the appearance of such person as required and the safety of any other person and the community—
 
 &emsp;(1) upon motion of the attorney for the Government, in a case that involves—
 
@@ -154,7 +154,7 @@ Contents of Detention Order.—In a detention order issued under subsection (e) 
 
 &emsp;(3) direct that the person be afforded reasonable opportunity for private consultation with counsel; and
 
-&emsp;(4) direct that, on order of a court of the United States or on request of an attorney for the Government, the person in charge of the corrections facility in which the person is confined deliver the person to a United States marshal for the purpose of an appearance in connection with a court proceeding.
+&emsp;(4) direct that, on order of a court of the United States or on request of an attorney for the Government, the person in charge of the corrections facility in which the person is confined deliver the person to a United Statesmarshal for the purpose of an appearance in connection with a court proceeding.
 
 > The judicial officer may, by subsequent order, permit the temporary release of the person, in the custody of a United States marshal or another appropriate person, to the extent that the judicial officer determines such release to be necessary for preparation of the person's defense or for another compelling reason.
 
@@ -212,7 +212,7 @@ Subsec. (b). Pub. L. 99–646, §55(c)(2), struck out “his” after “person 
 
 Subsec. (c). Pub. L. 99–646, §55(c)(3), designated existing provision as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), in provision preceding subpar. (A) substituted “subsection (b) of this section” for “subsection (b)” and “such judicial officer” for “he”, in subpar. (B) redesignated subpars. (A) to (N) as cls. (i) to (xiv), in provision preceding cl. (i) substituted “such judicial officer” for “he”, in cl. (i) substituted “assume supervision” for “supervise him”, in cl. (iv) substituted “on personal” for “on his personal”, in cl. (x) substituted “medical, psychological,” for “medical”, designated provision relating to the judicial officer not imposing a financial condition that results in the pretrial detention of a person as par. (2), and designated provision permitting the judicial officer to impose at any time additional or different conditions of release as par. (3), and in par. (3) struck out “his” after “amend”.
 
-Subsec. (d). Pub. L. 99–646, §55(c)(4), in pars. (1) and (2) substituted “such person” for “the person” and in concluding provisions substituted “such person” for “the person” in four places, “such judicial officer” for “he”, “paragraph (1)(B) of this subsection” for “paragraph (1)(B)”, and “such person's United States citizenship or lawful admission” for “that he is a citizen of the United States or is lawfully admitted”.
+Subsec. (d). Pub. L. 99–646, §55(c)(4), in pars. (1) and (2) substituted “such person” for “the person” and in concluding provisions substituted “such person” for “the person” in four places, “such judicial officer” for “he”, “paragraph (1)(B) of this subsection” for “paragraph (1)(B)”, and “such person's United States citizenship orlawful admission” for “that he is a citizen of the United States or is lawfully admitted”.
 
 Subsec. (e). Pub. L. 99–646, §55(c)(5), in introductory provisions inserted “of this section” after “subsection (f)” and substituted “such judicial officer” for “he”, “before” for “prior to”, “described in subsection (f)(1) of this section” for “described in (f)(1)”, and “if such judicial officer” for “if the judge”, in par. (1) inserted “of this section” after “subsection (f)(1)” in two places, and in pars. (2) and (3) inserted “of this section” after “paragraph (1)”.
 

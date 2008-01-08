@@ -20,7 +20,7 @@ No developed campgrounds shall be constructed within the protection area. After 
 
 #### (e) Timber harvesting
 
-No timber harvesting shall be allowed within the protection area except to the extent that would be permitted in wilderness under section 1133(d)(1) of this title for necessary control of fire, insects, and diseases, and for public safety.
+No timber harvesting shall be allowed within the protection area except to the extent that would be permitted in wilderness under section1133(d)(1) of this title for necessary control of fire, insects, and diseases, and for public safety.
 
 #### (f) Motorized travel
 

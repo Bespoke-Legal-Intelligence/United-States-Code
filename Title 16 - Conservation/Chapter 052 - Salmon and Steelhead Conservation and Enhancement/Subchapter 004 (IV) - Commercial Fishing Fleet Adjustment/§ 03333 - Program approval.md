@@ -14,7 +14,7 @@ Prior to approving such program or any revision, modification, or amendment, and
 
 &emsp;(3) the State program prevents the expenditure of a disproportionate amount of funds available for vessel acquisition on vessels owned by any one person;
 
-&emsp;(4) the State program prohibits the purchase of any fishing or charter vessel unless all State commercial and charter salmon fishinglicenses attached to the vessel are also sold to the State;
+&emsp;(4) the State program prohibits the purchase of any fishing or charter vessel unless all State commercial and charter salmon fishing licenses attached to the vessel are also sold to the State;
 
 &emsp;(5) the State program provides that no person may purchase from the State any vessel which that person or a member of that person's immediate family had previously sold to the State;
 
@@ -34,7 +34,7 @@ Prior to approving such program or any revision, modification, or amendment, and
 
 &emsp;(10) the State maintains a moratorium, or similar program, to preclude the issuance of new commercial or charter salmon fishing licenses; and
 
-&emsp;(11) the State has established a revolving fund for the operation of the fleet reduction program that includes an individual account for each category of fishing license (based on type of fishing gear used) and that any moneys received by the State or its agents from the resale of any fishing vessel or gear purchased under the program (A) shall be placed in such revolving fund, (B) shall, for at least 2 years from the date of the program's inception, be placed in the appropriate individual account, and (C) shall be used exclusively to purchase commercial fishing and charter vessels and licenses in accordance with the provisions of this subchapter.
+&emsp;(11) the State has established a revolving fund for the operation of the fleet reduction program that includes an individual account for each category of fishing license (based on type of fishing gear used) and that any moneys received by the State or its agents from the resale of any fishing vessel or gear purchased under the program (A) shall be placed in such revolving fund, (B) shall, for at least 2 years from the date of the program's inception, be placed in the appropriate individual account, and (C) shall be used exclusively to purchasecommercial fishing and charter vessels and licenses in accordance with the provisions of this subchapter.
 
 #### (c) Secretarial action
 

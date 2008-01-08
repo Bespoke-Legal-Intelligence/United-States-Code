@@ -44,7 +44,7 @@ Qualified period.—For purposes of this subsection, the term ‘qualified perio
 
 #### Termination Date
 
-Section 285, formerly section 284, of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2041; renumbered §285, Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; and amended Pub. L. 97–35, title XXV, §2512, Aug. 13,1981, 95 Stat. 888; Pub. L. 98–120, §2(b), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–107, §3, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(b), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §2, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §2, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–272, title XIII, §13007(a), Apr. 7, 1986, 100 Stat. 304; Pub. L. 100–418, title I, §1426(a), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(1), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §505, Dec. 8, 1993, 107 Stat. 2152; Pub. L. 105–277, div. J, title I, §1012(d), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §111(c), Aug. 6, 2002, 116 Stat. 936, provided that:
+Section 285, formerly section 284, of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2041; renumbered §285, Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; and amended Pub. L. 97–35, title XXV, §2512, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(b), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–107, §3, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(b), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §2, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §2, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–272, title XIII, §13007(a), Apr. 7, 1986, 100 Stat. 304; Pub. L. 100–418, title I, §1426(a), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(1), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §505, Dec. 8, 1993, 107 Stat. 2152; Pub. L. 105–277, div. J, title I, §1012(d), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §111(c), Aug. 6, 2002, 116 Stat. 936; Pub. L. 110–89, §1(d), Sept. 28, 2007, 121 Stat. 982, provided that:
 
 “(a)
 
@@ -52,11 +52,11 @@ Assistance for Workers.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (2), trade adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 2 \[this part\] after September 30, 2007.
+In general.—Except as provided in paragraph (2), trade adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 2 \[this part\] after December 31, 2007.
 
 &emsp;“(2)
 
-Exception.—Notwithstanding paragraph (1), a worker shall continue to receive trade adjustment assistance benefits and other benefits under chapter 2 for any week for which the worker meets the eligibility requirements of that chapter, if on or before September 30, 2007, the worker is—
+Exception.—Notwithstanding paragraph (1), a worker shall continue to receive trade adjustment assistance benefits and other benefits under chapter 2 for any week for which the worker meets the eligibility requirements of that chapter, if on or before December 31, 2007, the worker is—
 
 &emsp;&emsp;“(A) certified as eligible for trade adjustment assistance benefits under chapter 2 of this title \[this part\]; and
 
@@ -68,7 +68,7 @@ Other Assistance.—
 
 &emsp;“(1)
 
-Assistance for firms.—Technical assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after September 30, 2007.
+Assistance for firms.—Technical assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after December 31, 2007.
 
 &emsp;“(2)
 
@@ -76,15 +76,17 @@ Assistance for farmers.—
 
 &emsp;&emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 6 \[part 6 of this subchapter\] after September 30, 2007.
+In general.—Except as provided in subparagraph (B), adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 6 \[part 6 of this subchapter\] after December 31, 2007.
 
 &emsp;&emsp;“(B)
 
-Exception.—Notwithstanding subparagraph (A), an agricultural commodity producer (as defined in section 291(2) \[19 U.S.C. 2401(2)\]) shall continue to receive adjustment assistance benefits and other benefits under chapter 6, for any week for which the agricultural commodity producer meets the eligibility requirements of chapter 6, if on or before September 30, 2007, the agricultural commodity producer is—
+Exception.—Notwithstanding subparagraph (A), an agricultural commodity producer (as defined in section 291(2) \[19 U.S.C. 2401(2)\]) shall continue to receive adjustment assistance benefits and other benefits under chapter 6, for any week for which the agricultural commodity producer meets the eligibility requirements of chapter 6, if on or before December 31, 2007, the agricultural commodity producer is—
 
 &emsp;&emsp;&emsp;“(i) certified as eligible for adjustment assistance benefits under chapter 6; and
 
 &emsp;&emsp;&emsp;“(ii) is otherwise eligible to receive adjustment assistance benefits under such chapter 6.”
+
+\[Amendment by Pub. L. 110–89 to section 285 of Pub. L. 93–618, set out above, effective Oct. 1, 2007, see section 1(e) of Pub. L. 110–89, set out as an Effective Date of 2007 Amendment note under section 2317 of this title.\]
 
 \[Amendment by Pub. L. 106–113 to section 285 of Pub. L. 93–618, set out above, effective as of July 1, 1999, see section 1000(a)(5) \[title VII, §702(e)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 2317 of this title.\]
 

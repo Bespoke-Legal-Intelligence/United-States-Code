@@ -22,7 +22,7 @@
 
 #### (3) Requirement of status as medicaid provider
 
-&emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under paragraph (1) only if, in the case of any service under such paragraph that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
+&emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under paragraph (1) only if, in the case of any service under suchparagraph that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
 &emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
@@ -82,7 +82,7 @@ For purposes of subsection (a)(1) of this section, a pregnant woman shall be con
 
 #### (1) Case management model
 
-&emsp;Home visiting services provided under this section shall be delivered according to a case management model, and a registered nurse, licensed social worker, or other licensed health care professional with experience and expertise in providing health and related social services in home and community settings shall be assigned as the case manager for individual cases under such model.
+&emsp;Home visiting services provided under this section shall be delivered according to a case management model, and a registered nurse, licensed social worker, or other licensed health care professional with experience and expertise in providing health and related social services in home and community settingsshall be assigned as the case manager for individual cases under such model.
 
 #### (2) Case manager
 
@@ -194,7 +194,7 @@ The Secretary may make a grant under subsection (a) of this section only if—
 
 &emsp;(3) the application contains evidence that the preparation of the application has been coordinated with the State agencies responsible for maternal and child health and child welfare, and coordinated with services provided under part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; and
 
-&emsp;(4) the application is in such form, is made in such manner, and contains such agreements, assurances, and information as theSecretary determines to be necessary to carry out this section.
+&emsp;(4) the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 #### (<i>o</i>) Peer review
 

@@ -52,7 +52,7 @@ Pub. L. 109–243, July 24, 2006, 120 Stat. 572, provided that:
 
 #### “SEC. 3. RIGHT TO DISPLAY THE FLAG OF THE UNITED STATES.
 
-“A condominium association, cooperative association, or residential real estate management association may not adopt or enforce any policy, or enter into any agreement, that would restrict or prevent a member of the association from displaying the flag of the United States on residential property within the association with respect to which such member has a separate ownership interest or a right to exclusive possession or use.
+“A condominium association, cooperative association, or residential real estate management associationmay not adopt or enforce any policy, or enter into any agreement, that would restrict or prevent a member of the association from displaying the flag of the United States on residential property within the association with respect to which such member has a separate ownership interest or a right to exclusive possession or use.
 
 #### “SEC. 4. LIMITATIONS.
 

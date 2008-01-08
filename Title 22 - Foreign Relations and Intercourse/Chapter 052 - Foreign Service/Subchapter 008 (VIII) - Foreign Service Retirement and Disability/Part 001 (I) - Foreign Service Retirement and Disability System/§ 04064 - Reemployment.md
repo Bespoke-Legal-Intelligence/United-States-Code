@@ -50,23 +50,43 @@ In the event of any overpayment under this section, such overpayment shall be re
 
 #### (g) Waiver of annuity limitations
 
-(1) To facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, the Secretary of State may waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis, or grant authority to the head of an Executive agency to waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis—
+(1) The Secretary of State may waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis, or grant authority to the head of an Executive agency to waive the application of subsections (a) through (d) on a case-by-case basis for an annuitant reemployed on a temporary basis—
 
-&emsp;(A) if, and for so long as, such waiver is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances; or
+&emsp;(A) if, and for so long as, such waiver is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances;
 
-&emsp;(B) if the annuitant is employed in a position for which there is exceptional difficulty in recruiting or retaining a qualified employee.
+&emsp;(B) to facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, if the annuitant is employed in a position for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
 
-(2) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under subparagraphs (A) or (B) of such paragraph, shall terminate on October 1, 2008. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
+&emsp;(C)(i) to provide assistance to consular posts with a substantial backlog of visa applications; or
 
-(3) The Secretary should prescribe procedures for the exercise of any authority under paragraph (1), including criteria for any exercise of authority and procedures for a delegation of authority.
+&emsp;(ii) to provide assistance to meet the demand resulting from the passport and travel document requirements set forth in section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note), including assistance related to the investigation of fraud in connection with an application for a passport.
+
+(2)(A) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under such subparagraph, shall terminate on October 1, 2008. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
+
+(B) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(i) of paragraph (1) shall terminate on September 30, 2008.
+
+(C) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(ii) of paragraph (1) shall terminate on September 30, 2009.
+
+(3) The Secretary should prescribe procedures for the exercise of any authority under paragraph (1)(B), including criteria for any exercise of authority and procedures for a delegation of authority.
 
 #### (h) Effects of waiver
 
 A reemployed annuitant as to whom a waiver under subsection (g) of this section is in effect shall not be considered a participant for purposes of this part or part II of this subchapter, or an employee for purposes of chapter 83 or 84 of title 5.
 
-(Pub. L. 96–465, title I, §824, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, §§402(a)(2), 410, June 6, 1986, 100 Stat. 609, 613; Pub. L. 99–556, title IV, §403, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 105–277, div. C, title I, §103, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 109–234, title I, §1602(a), June 15, 2006, 120 Stat. 440.)
+(Pub. L. 96–465, title I, §824, Oct. 17, 1980, 94 Stat. 2122; Pub. L. 99–335, title IV, §§402(a)(2), 410, June 6, 1986, 100 Stat. 609, 613; Pub. L. 99–556, title IV, §403, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 105–277, div. C, title I, §103, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 109–234, title I, §1602(a), June 15, 2006, 120 Stat. 440; Pub. L. 109–289, div. B, title II, §20941, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 46; Pub. L. 110–50, §2, July 30, 2007, 121 Stat. 261.)
 
 #### Amendments
+
+2007—Subsec. (g)(1). Pub. L. 109–289, §20941(1)(A), as added by Pub. L. 110–5, substituted “The Secretary” for “To facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, the Secretary” in introductory provisions.
+
+Subsec. (g)(1)(B). Pub. L. 109–289, §20941(1)(B), as added by Pub. L. 110–5, substituted “to facilitate the assignment of persons to Iraq and Afghanistan or to posts vacated by members of the Service assigned to Iraq and Afghanistan, if” for “if”.
+
+Subsec. (g)(1)(C). Pub. L. 110–50, §2(1), added subpar. (C).
+
+Subsec. (g)(2). Pub. L. 110–50, §2(2), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+
+Pub. L. 109–289, §20941(2), as added by Pub. L. 110–5, substituted “such subparagraph” for “subparagraphs (A) or (B) of such paragraph”.
+
+Subsec. (g)(3). Pub. L. 109–289, §20941(3), as added by Pub. L. 110–5, substituted “paragraph (1)(B)” for “paragraph (1)”.
 
 2006—Subsec. (g). Pub. L. 109–234 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Secretary of State may waive the application of the paragraphs (a) through (d) of this section, on a case-by-case basis, for an annuitant reemployed on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.”
 

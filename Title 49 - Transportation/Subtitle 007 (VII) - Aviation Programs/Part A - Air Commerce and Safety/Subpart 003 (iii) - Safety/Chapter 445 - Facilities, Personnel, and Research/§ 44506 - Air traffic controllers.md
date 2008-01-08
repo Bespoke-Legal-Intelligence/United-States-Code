@@ -2,7 +2,7 @@
 
 (a)
 
-Research on Effect of Automation on Performance.—To develop the means necessary to establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automationon the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
+Research on Effect of Automation on Performance.—To develop the means necessary to establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automation on the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
 
 &emsp;(1) methods for improving and accelerating future air traffic controller training through the application of advanced training techniques, including the use of simulation technology;
 
@@ -34,7 +34,7 @@ Collegiate Training Initiative.—(1) The Administrator of the Federal Aviation 
 
 (d)
 
-Staffing Report.—The Administrator of the Federal Aviation Administration shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
+Staffing Report.—The Administrator of the Federal Aviation Administration shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce,Science, and Transportation of the Senate a report containing—
 
 &emsp;(1) the staffing standards used to determine the number of air traffic controllers needed to operate the air traffic control system of the United States;
 
@@ -81,6 +81,8 @@ In subsection (c), the words “institutions of higher education” are substitu
 1996—Subsec. (d). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 #### Controller Staffing
+
+Pub. L. 110–161, div. K, title I, Dec. 26, 2007, 121 Stat. 2378, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]”.
 
 Pub. L. 108–176, title II, §221, Dec. 12, 2003, 117 Stat. 2526, provided that:
 

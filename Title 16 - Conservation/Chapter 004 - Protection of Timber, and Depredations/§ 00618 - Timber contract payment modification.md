@@ -28,7 +28,7 @@
 
 (D) A purchaser may elect to pay the buy-out cost imposed by subparagraph (A)(iii) in lieu of utilizing loss and net book worth determinations.
 
-(E) Where a purchaser is not able to obtain sufficient credit elsewhere to finance the buy-out charge at reasonable rates and terms, purchaser may, upon payment of 5 per centum of the buy-out charge, pay the remainder of thebuy-out charge in equal quarterly payments over a period not to exceed 5 years at an interest rate adjusted with each payment equal to the average market yield of outstanding Treasury obligations with remaining years to maturity of five years payment must be secured by bond, deposited securities or other forms of security acceptable to the appropriate Secretary in an amount sufficient to cover the entire buy-out payment.
+(E) Where a purchaser is not able to obtain sufficient credit elsewhere to finance the buy-out charge at reasonable rates and terms, purchaser may, upon payment of 5 per centum of the buy-out charge, pay the remainder of the buy-out charge in equal quarterly payments over a period not to exceed 5 years at an interest rate adjusted with each payment equal to the average market yield of outstanding Treasury obligations with remaining years to maturity of five years payment must be secured by bond, deposited securities or other forms of security acceptable to the appropriate Secretary in an amount sufficient to cover the entire buy-out payment.
 
 (F) For purposes of this paragraph, the term “contract overbid” is the difference between the advertised contract rate and the rate the purchaser bid.
 
@@ -42,7 +42,7 @@
 
 (B) Timber sales in Forest Service region 6 shall not exceed four billion three hundred million board feet of net merchantable sawtimber in fiscal year 1984.
 
-(C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July 28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volume shall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion two hundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to result in discriminatory treatment as between different forests in the region.
+(C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July 28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volume shall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion two hundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to resultin discriminatory treatment as between different forests in the region.
 
 (6)(A) The Secretary of the Interior and the Secretary of Agriculture shall publish final rules for the implementation of this subsection in the Federal Register within ninety days after October 16, 1984.
 
@@ -66,7 +66,7 @@ The Secretary of Agriculture and the Secretary of the Interior shall monitor bid
 
 #### (d) Cash down-payment and periodic payments for contracts; effective date
 
-Effective January 1, 1985, in any contract for the sale of timber from the National Forests,the Secretary of Agriculture shall require a cash down-payment at the time the contract is executed and periodic payments to be made over the remaining period of the contract.
+Effective January 1, 1985, in any contract for the sale of timber from the National Forests, the Secretary of Agriculture shall require a cash down-payment at the time the contract is executed and periodic payments to be made over the remaining period of the contract.
 
 (Pub. L. 98–478, §2, Oct. 16, 1984, 98 Stat. 2213.)
 

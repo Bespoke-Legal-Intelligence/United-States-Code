@@ -10,7 +10,7 @@ There are transferred to the Director of the Office of Refugee Resettlement of t
 
 &emsp;Pursuant to the transfer made by subsection (a) of this section, the Director of the Office of Refugee Resettlement shall be responsible for—
 
-&emsp;&emsp;(A) coordinating and implementing the care and placement of unaccompanied alien children who are in Federal custody by reason of their immigration status, including developing a plan to be submitted to Congress on how to ensure that qualified andindependent legal counsel is timely appointed to represent the interests of each such child, consistent with the law regarding appointment of counsel that is in effect on November 25, 2002;
+&emsp;&emsp;(A) coordinating and implementing the care and placement of unaccompanied alien children who are in Federal custody by reason of their immigration status, including developing a plan to be submitted to Congress on how to ensure that qualified and independent legal counsel is timely appointed to represent the interests of each such child, consistent with the law regarding appointment of counsel that is in effect on November 25, 2002;
 
 &emsp;&emsp;(B) ensuring that the interests of the child are considered in decisions and actions relating to the care and custody of an unaccompanied alien child;
 
@@ -68,7 +68,7 @@ Nothing in this section may be construed to transfer the responsibility for adju
 
 #### (d) Effective date
 
-Notwithstanding section 4,<sup>1</sup> this section shall take effect on the date on which the transfer of functions specified under section 251 of this title takes effect.
+Notwithstanding section 4,<sup>1</sup> this section shall take effect on the date on which the transfer offunctions specified under section 251 of this title takes effect.
 
 #### (e) References
 
@@ -86,7 +86,7 @@ With respect to any function transferred by this section, any reference in any o
 
 #### (2) Savings provisions
 
-&emsp;Subsections (a), (b), and (c) of section 552 of this title shall apply to a transfer of functionsunder this section in the same manner as such provisions apply to a transfer of functions under this chapter to the Department of Homeland Security.
+&emsp;Subsections (a), (b), and (c) of section 552 of this title shall apply to a transfer of functions under this section in the same manner as such provisions apply to a transfer of functions under this chapter to the Department of Homeland Security.
 
 #### (3) Transfer and allocation of appropriations and personnel
 

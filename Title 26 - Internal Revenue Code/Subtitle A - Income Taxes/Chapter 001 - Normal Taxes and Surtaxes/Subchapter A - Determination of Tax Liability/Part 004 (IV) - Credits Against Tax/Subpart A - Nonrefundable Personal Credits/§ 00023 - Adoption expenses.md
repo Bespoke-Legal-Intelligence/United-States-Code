@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount allowable as a credit under subsection (a) for any taxable year (determined without regard to subsection (c)) shallbe reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable (determined without regard to this paragraph but with regard to paragraph (1)) as—
+&emsp;&emsp;The amount allowable as a credit under subsection (a) for any taxable year (determined without regard to subsection (c)) shall be reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable (determined without regard to this paragraph but with regard to paragraph (1)) as—
 
 &emsp;&emsp;&emsp;(i) the amount (if any) by which the taxpayer's adjusted gross income exceeds $150,000, bears to
 
@@ -122,7 +122,7 @@ In the case of an adoption of a child who is not a citizen or resident of the Un
 
 #### (A) In general
 
-&emsp;&emsp;No credit shall be allowed under this section with respect to any eligible child unlessthe taxpayer includes (if known) the name, age, and TIN of such child on the return of tax for the taxable year.
+&emsp;&emsp;No credit shall be allowed under this section with respect to any eligible child unless the taxpayer includes (if known) the name, age, and TIN of such child on the return of tax for the taxable year.
 
 #### (B) Other methods
 
@@ -148,9 +148,9 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 (Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49; Pub. L. 107–147, title IV, §§411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 109–58, title XIII, §1335(b)(1), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(A), (4), Dec. 21, 2005, 119 Stat. 2612, 2615.)
 
-#### Adoption Expenses Credit Adjustment for Tax Years Beginning in 2007
+#### Adoption Expenses Credit Adjustment for Tax Years Beginning in 2008
 
-<i>For inflation adjustment of maximum credit allowed in subsection (a)(3) of this section for an adoption of a child with special needs, maximum credit allowed in subsection (b)(1) of this section for other adoptions, and the income limits for phaseout of adoption credit in subsection (b)(2)(A) of this section, see section 3.03 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of maximum credit allowed in subsection (a)(3) of this section for an adoption of a child with special needs, maximum credit allowed in subsection (b)(1) of this section for other adoptions, and the income limits for phaseout of adoption credit in subsection (b)(2)(A) of this section, see section 3.03 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 

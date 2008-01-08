@@ -12,7 +12,7 @@
 
 &emsp;(5) fail to comply with a final order issued by the Secretary under this chapter;
 
-&emsp;(6) issue a certification pursuant to subsection (h) of section 5403 of this title, if such person in the exercise of due care has reason to know that such certification is false or misleading in a material respect; or
+&emsp;(6) issue a certification pursuant to subsection (h) of section 5403 of this title, if such person in the exercise of due care has reasonto know that such certification is false or misleading in a material respect; or
 
 &emsp;(7) after the expiration of the period specified in section 5404(c)(2)(B) of this title, fail to comply with the requirements for the installation program required by section 5404 of this title in any State that has not adopted and implemented a State installation program.
 

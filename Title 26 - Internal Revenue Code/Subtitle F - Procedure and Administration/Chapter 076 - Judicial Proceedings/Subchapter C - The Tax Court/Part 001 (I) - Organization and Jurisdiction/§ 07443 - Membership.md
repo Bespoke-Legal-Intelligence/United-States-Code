@@ -88,9 +88,7 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Certification by Judge of Travel Expenses
 
-Provisions authorizing the travel expenses of the judges of the United States Tax Court to be paid upon the written certificate of the judge were contained in the following appropriation acts:
-
-Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490.
+Provisions authorizing the travel expenses of the judges of the United States Tax Court to be paid upon the written certificate of the judge were contained in the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
 
 Pub. L. 108–447, div. H, title IV, Dec. 8, 2004, 118 Stat. 3264.
 

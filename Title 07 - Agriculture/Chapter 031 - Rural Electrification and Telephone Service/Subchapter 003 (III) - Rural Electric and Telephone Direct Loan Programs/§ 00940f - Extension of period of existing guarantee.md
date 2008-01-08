@@ -24,7 +24,7 @@ Subject to the limitations in this section and the provisions of the Federal Cre
 
 #### (4) Period of extension
 
-&emsp;Extensions under this section shall in no case result in a final maturity greater than 55years from the time of original disbursement and shall in no case result in a final maturity greater than the useful life of the plant.
+&emsp;Extensions under this section shall in no case result in a final maturity greater than 55 years from the time of original disbursement and shall in no case result in a final maturity greater than the useful life of the plant.
 
 #### (5) Number of extensions
 

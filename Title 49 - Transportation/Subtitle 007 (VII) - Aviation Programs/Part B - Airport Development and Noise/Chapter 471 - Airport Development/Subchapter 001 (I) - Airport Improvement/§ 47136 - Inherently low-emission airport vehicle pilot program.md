@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall carry out a pilot program at not more than 10 public-use airports under which the sponsors of such airports may use funds made available under section 48103 for use at such airports to carry out inherently low-emission vehicle activities. Notwithstanding anyother provision of this subchapter, inherently low-emission vehicle activities shall for purposes of the pilot program be treated as eligible for assistance under this subchapter.
+In General.—The Secretary of Transportation shall carry out a pilot program at not more than 10 public-use airports under which the sponsors of such airports may use funds made available under section 48103 for use at such airports to carry out inherently low-emission vehicle activities. Notwithstanding any other provision of this subchapter, inherently low-emission vehicle activities shall for purposes of the pilot program be treated as eligible for assistance under this subchapter.
 
 (b)
 
@@ -70,7 +70,7 @@ Inherently Low-Emission Vehicle Activity Defined.—In this section, the term �
 
 &emsp;&emsp;(A) operate exclusively on compressed natural gas, liquefied natural gas, liquefied petroleum gas, electricity, hydrogen, or a blend at least 85 percent of which is methanol;
 
-&emsp;&emsp;(B) meet or exceed the standards set forth in section 86.1708–99 of such title or the standards set forth in section 89.112(a) of such title, and are in compliance with the requirements of section 89.112(b) of such title; and
+&emsp;&emsp;(B) meet or exceed the standards set forth in section 86.1708–99 of such title or thestandards set forth in section 89.112(a) of such title, and are in compliance with the requirements of section 89.112(b) of such title; and
 
 &emsp;&emsp;(C) are located or primarily used at public-use airports;
 

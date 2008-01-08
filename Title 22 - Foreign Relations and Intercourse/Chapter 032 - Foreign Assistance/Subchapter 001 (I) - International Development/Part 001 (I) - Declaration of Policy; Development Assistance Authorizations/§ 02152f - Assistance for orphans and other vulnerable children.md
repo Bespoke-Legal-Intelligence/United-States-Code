@@ -54,7 +54,7 @@ The President is authorized to provide assistance, including providing such assi
 
 &emsp;(2) for school food programs, including the purchase of local or regional foodstuffs where appropriate;
 
-&emsp;(3) to increase primary school enrollment through the elimination of school fees, where appropriate, or other barriers to education while ensuring that adequate resources exist for teacher training and infrastructure;
+&emsp;(3) to increase primary school enrollment through the elimination of school fees, where appropriate, or other barriers to educationwhile ensuring that adequate resources exist for teacher training and infrastructure;
 
 &emsp;(4) to provide employment training and related services for orphans and other vulnerable children who are of legal working age;
 
@@ -126,7 +126,7 @@ The President is authorized to provide assistance, including providing such assi
 
 #### References in Text
 
-Section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005, referred to in subsecs. (d)(1) and (e)(2)(B), (C), is section 4 of Pub. L. 109–95, which is set out as a note under this section.
+Section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of2005, referred to in subsecs. (d)(1) and (e)(2)(B), (C), is section 4 of Pub. L. 109–95, which is set out as a note under this section.
 
 This chapter, referred to in subsec. (e)(2)(B), (C), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -168,7 +168,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: “Congress 
 
 &emsp;“(14) Although section 403(b) of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7673(b)) establishes the requirement that not less than 10 percent of amounts appropriated for HIV/AIDS assistance for each of fiscal years 2006 through 2008 shall be expended for assistance for orphans and other vulnerable children affected by HIV/AIDS, there is an urgent need to provide assistance to such children prior to 2006.
 
-&emsp;“(15) Numerous United States and indigenous private voluntary organizations, including faith-based organizations, provide assistance to orphans and other vulnerable children in developing countries. Many of these organizations have submitted applications for grants to the Administrator of the UnitedStates Agency for International Development to provide increased levels of assistance for orphans and other vulnerable children in developing countries.
+&emsp;“(15) Numerous United States and indigenous private voluntary organizations, including faith-based organizations, provide assistance to orphans and other vulnerable children in developing countries. Many of these organizations have submitted applications for grants to the Administrator of the United States Agency for International Development to provide increased levels of assistance for orphans and other vulnerable children in developing countries.
 
 &emsp;“(16) Increasing the amount of assistance that is provided by the Administrator of the United States Agency for International Development through United States and indigenous private voluntary organizations, including faith-based organizations, will provide greater protection for orphans and other vulnerable children in developing countries.
 

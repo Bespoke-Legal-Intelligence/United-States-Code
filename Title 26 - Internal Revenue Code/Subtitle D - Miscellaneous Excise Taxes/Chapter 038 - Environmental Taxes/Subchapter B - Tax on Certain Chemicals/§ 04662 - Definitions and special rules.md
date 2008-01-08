@@ -142,7 +142,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) a final order under section 106 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and
 
-&emsp;&emsp;&emsp;(ii) ending on the date the Administrator or such State (as the case may be) certifies to the Secretary that such corrective action has been completed.
+&emsp;&emsp;&emsp;(ii) ending on the date the Administrator or such State (as the case may be) certifiesto the Secretary that such corrective action has been completed.
 
 #### (D) Special rule for groundwater treatment
 

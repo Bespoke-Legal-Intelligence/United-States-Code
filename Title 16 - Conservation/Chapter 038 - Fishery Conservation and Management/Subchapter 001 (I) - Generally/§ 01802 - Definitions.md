@@ -164,7 +164,7 @@ Sponges
 
 &emsp;(26) The term “limited access privilege”—
 
-&emsp;&emsp;(A) means a Federal permit, issued as part of a limited access system under section 1853a of this title to harvest a quantity of fish expressed by a unit or units representing a portion of the total allowable catch of the fishery that may be received or held for exclusive use by a person; and
+&emsp;&emsp;(A) means a Federal permit, issued as part of a limited access system under section 1853a of this title to harvest a quantity offish expressed by a unit or units representing a portion of the total allowable catch of the fishery that may be received or held for exclusive use by a person; and
 
 &emsp;&emsp;(B) includes an individual fishing quota; but
 
@@ -258,7 +258,7 @@ Pub. L. 102–251, §301(b), which directed amendment of this section by adding 
 
 #### Amendments
 
-2007—Pub. L. 109–479 added pars. (13A) defining “regional fishery association”, (20A) defining “import”,\(23A) defining “limited access privilege”, (23B) defining “limited access system”, and (27A) defining “observer information” and redesignated pars. (1) to (45) as (1) to (50), respectively.
+2007—Pub. L. 109–479 added pars. (13A) defining “regional fishery association”, (20A) defining “import”, (23A) defining “limited access privilege”, (23B) defining “limited access system”, and (27A) defining “observer information” and redesignated pars. (1) to (45) as (1) to (50), respectively.
 
 1996—Pars. (2) to (6). Pub. L. 104–297, §102(1), added pars. (2) to (4) and redesignated former pars. (2) and (3) as (5) and (6), respectively. Former pars. (4) to (6) redesignated (7) to (9), respectively.
 

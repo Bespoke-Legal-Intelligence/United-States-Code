@@ -2,7 +2,7 @@
 
 (a)
 
-Recruiting Campaigns.—(1) The Secretary concerned shall conduct intensive recruitingcampaigns to obtain enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, and Regular Coast Guard.
+Recruiting Campaigns.—(1) The Secretary concerned shall conduct intensive recruiting campaigns to obtain enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, and Regular Coast Guard.
 
 (2) The Secretary of Defense shall act on a continuing basis to enhance the effectiveness of recruitment programs of the Department of Defense (including programs conducted jointly and programs conducted by the separate armed forces) through an aggressive program of advertising and market research targeted at prospective recruits for the armed forces and those who may influence prospective recruits. Subchapter I of chapter 35 of title 44 shall not apply to actions taken as part of that program.
 
@@ -52,7 +52,7 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 &emsp;(A) The term “local educational agency” means—
 
-&emsp;&emsp;(i) a local educational agency, within the meaning of that term in section 9101 of theElementary and Secondary Education Act of 1965 (20 U.S.C. 7801); and
+&emsp;&emsp;(i) a local educational agency, within the meaning of that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801); and
 
 &emsp;&emsp;(ii) a private secondary school.
 
@@ -118,6 +118,10 @@ Subsec. (a). Pub. L. 97–252, §1114(b)(1)(A), designated existing provisions a
 
 Subsec. (b). Pub. L. 97–252, §1114(b)(1)(B), added subsec. (b).
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–107, div. A, title V, §544(b), Dec. 28, 2001, 115 Stat. 1113, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2002, immediately after the amendment to section 503(c) of title 10, United States Code, made, effective that date, by section 563(a) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–131).”
@@ -126,7 +130,7 @@ Pub. L. 107–107, div. A, title X, §1048(a)(5)(B), Dec. 28, 2001, 115 Stat. 12
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §563(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, provided that: “Theamendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2002.”
+Pub. L. 106–398, §1 \[\[div. A\], title V, §563(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2002.”
 
 #### Transfer of Functions
 
@@ -190,7 +194,7 @@ Secretary of Defense Decision.—If the Secretary of Defense determines under su
 
 “(d)
 
-Reports.—(1) If the Secretary of Defense determines under subsection (b) that the screening methods and process improvements developed under subsection (a)(1) should not be implemented on a test basis, the Secretary of Defense shall, not later than 90 days thereafter, notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of such determination, together with the reasons of the Secretary for such determination.
+Reports.—(1) If the Secretary of Defense determines under subsection (b) that the screening methodsand process improvements developed under subsection (a)(1) should not be implemented on a test basis, the Secretary of Defense shall, not later than 90 days thereafter, notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of such determination, together with the reasons of the Secretary for such determination.
 
 “(2) If the Secretary of Defense determines under subsection (b) that the screening methods and process improvements developed under subsection (a)(1) should be implemented on a test basis, the Secretary of the Army shall submit to the committees specified in paragraph (1) a report on the results of the testing. The report shall be submitted not later than March 31, 2009, except that if the Secretary of Defense directs an earlier termination of the testing initiative, the Secretary of the Army shall submit the report under this paragraph not later than 180 days after such termination. Such report shall include the determination of the Secretary of Defense under subsection (c). If that determination is that the methods and processes tested should not be extended to the other services, the report shall include the Secretary's rationale for not recommending such extension.”
 
@@ -216,7 +220,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §561\], Oct. 30, 2000, 114 Stat. 
 
 “(a)
 
-Requirement for Programs.—The Secretary of the Army shall carry out pilot programs to test variousrecruiting approaches under this section for the following purposes:
+Requirement for Programs.—The Secretary of the Army shall carry out pilot programs to test various recruiting approaches under this section for the following purposes:
 
 &emsp;“(1) To assess the effectiveness of the recruiting approaches for creating enhanced opportunities for recruiters to make direct, personal contact with potential recruits.
 
@@ -276,7 +280,7 @@ Outreach at Vocational Schools and Community Colleges.—(1) One of the pilot pr
 
 “(d)
 
-Contract Recruiting Initiatives.—(1) One of the pilot programs shall be a program that expands in accordance with this subsection the scope of the Army's contract recruiting initiatives that are ongoing as of the date of the enactment of this Act \[Oct. 30, 2000\]. Under the pilot program, the Secretary of the Army shall select at least 10 recruiting companies to apply the initiatives in efforts to recruit personnel for the Army.
+Contract Recruiting Initiatives.—(1) One of the pilot programs shall be a program that expands in accordance with this subsection the scope of the Army's contract recruiting initiatives that are ongoing as of the date of the enactment of this Act \[Oct. 30, 2000\]. Under the pilot program, the Secretary of the Army shall select at least 10 recruiting companies toapply the initiatives in efforts to recruit personnel for the Army.
 
 “(2) Under the pilot program, the Secretary shall provide for the following:
 
@@ -308,33 +312,7 @@ Reports.—Not later than February 1, 2008, the Secretary of the Army shall subm
 
 #### Pilot Program To Enhance Military Recruiting by Improving Military Awareness of School Counselors and Educators
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §564\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, as amended by Pub. L. 109–364, div. A, title X, §1046(d), Oct. 17, 2006, 120 Stat. 2394, provided that:
-
-“(a)
-
-In General.—The Secretary of Defense shall conduct a pilot program to determine if cooperationwith military recruiters by local educational agencies and by institutions of higher education could be enhanced by improving the understanding of school counselors and educators about military recruiting and military career opportunities. The pilot program shall be conducted during a three-year period beginning not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].
-
-“(b)
-
-Conduct of Pilot Program Through Participation in Interactive Internet Site.—(1) The pilot program shall be conducted by means of participation by the Department of Defense in a qualifying interactive Internet site.
-
-“(2) For purposes of this section, a qualifying interactive Internet site is an Internet site in existence as of the date of the enactment of this Act \[Oct. 30, 2000\] that is designed to provide to employees of local educational agencies and institutions of higher education participating in the Internet site—
-
-&emsp;“(A) systems for communicating;
-
-&emsp;“(B) resources for individual professional development;
-
-&emsp;“(C) resources to enhance individual on-the-job effectiveness; and
-
-&emsp;“(D) resources to improve organizational effectiveness.
-
-“(3) Participation in an Internet site by the Department of Defense for purposes of this section shall include—
-
-&emsp;“(A) funding;
-
-&emsp;“(B) assistance; and
-
-&emsp;“(C) access by other Internet site participants to Department of Defense aptitude testing programs, career development information, and other resources, in addition to information on military recruiting and career opportunities.”
+Pub. L. 106–398, §1 \[\[div. A\], title V, §564\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, as amended by Pub. L. 109–364, div. A, title X, §1046(d), Oct. 17, 2006, 120 Stat. 2394, directed the Secretary of Defense to conduct a three-year pilot program in a qualifying interactive Internet site beginning not later than 180 days after Oct. 30, 2000, to determine if cooperation with military recruiters by local educational agencies and by institutions of higher education could be enhanced by improving the understanding of school counselors and educators about military recruiting and military career opportunities.
 
 #### Measures To Improve Recruit Quality and Reduce Recruit Attrition
 
@@ -398,7 +376,7 @@ Specific Steps.—As part of those improvements, the Secretary shall take the fo
 
 &emsp;“(2) Develop a range of incentives for new recruits to participate in physical fitness programs, as well as for those recruits who improve their level of fitness while in the Delayed Entry Program, which may include access to Department of Defense military fitness facilities, and access to military medical facilities in the case of a recruit who is injured while participating in physical activities with recruiters or other military personnel.
 
-&emsp;“(3) Evaluate whether partnerships between recruiters and reserve components, or other innovative arrangements, could provide a pool of qualified personnel to assist in the conduct of physical trainingprograms for new recruits in the Delayed Entry Program.”
+&emsp;“(3) Evaluate whether partnerships between recruiters and reserve components, or other innovative arrangements, could provide a pool of qualified personnel to assist in the conduct of physical training programs for new recruits in the Delayed Entry Program.”
 
 #### Denial of Funds for Preventing ROTC Access to Campus or Federal Military Recruiting on Campus; Exceptions
 

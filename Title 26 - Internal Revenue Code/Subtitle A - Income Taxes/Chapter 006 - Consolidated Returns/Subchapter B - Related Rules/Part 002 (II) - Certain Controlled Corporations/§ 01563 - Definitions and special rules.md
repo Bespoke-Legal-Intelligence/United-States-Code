@@ -84,7 +84,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (A) Parent-subsidiary controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as “parent corporation”) owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as “subsidiary corporation”), the following stock of the subsidiary corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as “parent corporation”) owns (within themeaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as “subsidiary corporation”), the following stock of the subsidiary corporation shall be treated as excluded stock—
 
 &emsp;&emsp;&emsp;(i) stock in the subsidiary corporation held by a trust which is part of a plan of deferred compensation for the benefit of the employees of the parent corporation or the subsidiary corporation,
 
@@ -126,7 +126,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (1) Options
 
-&emsp;If any person has an option to acquire stock, such stock shall be considered as owned bysuch person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
+&emsp;If any person has an option to acquire stock, such stock shall be considered as owned by such person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
 
 #### (2) Attribution from partnerships
 
@@ -134,7 +134,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (3) Attribution from estates or trusts
 
-&emsp;(A) Stock owned, directly or indirectly, by or for an estate or trust shall be considered as owned by any beneficiary who has an actuarial interest of 5 percent or more in such stock, to the extent of such actuarial interest. For purposes of this subparagraph, the actuarial interest of each beneficiary shall be determined by assuming the maximum exercise of discretion by the fiduciary in favor of such beneficiary and the maximum use of such stock to satisfy his rights as a beneficiary.
+&emsp;(A) Stock owned, directly or indirectly, by or for an estate or trust shall be considered asowned by any beneficiary who has an actuarial interest of 5 percent or more in such stock, to the extent of such actuarial interest. For purposes of this subparagraph, the actuarial interest of each beneficiary shall be determined by assuming the maximum exercise of discretion by the fiduciary in favor of such beneficiary and the maximum use of such stock to satisfy his rights as a beneficiary.
 
 &emsp;(B) Stock owned, directly or indirectly, by or for any portion of a trust of which a person is considered the owner under subpart E of part I of subchapter J (relating to grantors and others treated as substantial owners) shall be considered as owned by such person.
 

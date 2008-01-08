@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(ii) $400.
 
-(2)(A) After the 2-year period beginning on the effective date of the regulations promulgatedunder section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Board may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Board determines that the increase or decrease is—
+(2)(A) After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Board may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Board determines that the increase or decrease is—
 
 &emsp;(i) consistent with the consumer protections against abusive lending provided by the amendments made by subtitle B of title I of the Riegle Community Development and Regulatory Improvement Act of 1994; and
 

@@ -58,7 +58,7 @@
 
 &emsp;(B) the reasons such comments were rejected.
 
-(3) If the Director has received notice and failed to comment on an agency rule within 60days after the notice of proposed rulemaking, the Director may not disapprove any collection of information specifically contained in an agency rule.
+(3) If the Director has received notice and failed to comment on an agency rule within 60 days after the notice of proposed rulemaking, the Director may not disapprove any collection of information specifically contained in an agency rule.
 
 (4) No provision in this section shall be construed to prevent the Director, in the Director's discretion—
 

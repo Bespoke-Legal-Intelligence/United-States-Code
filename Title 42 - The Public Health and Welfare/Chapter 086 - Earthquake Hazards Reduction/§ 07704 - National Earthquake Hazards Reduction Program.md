@@ -152,13 +152,13 @@
 
 #### (C) Non-Federal cost sharing
 
-&emsp;&emsp;(i) In the case of any State which has received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities undersubparagraph (A)(i) after such date shall not include a requirement for cost sharing in an amount greater than 50 percent of the cost of the project for which the grant is made.
+&emsp;&emsp;(i) In the case of any State which has received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date shall not include a requirement for cost sharing in an amount greater than 50 percent of the cost of the project for which the grant is made.
 
 &emsp;&emsp;(ii) In the case of any State which has not received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date—
 
 &emsp;&emsp;&emsp;(I) shall not include a requirement for cost sharing for the first fiscal year of such a grant;
 
-&emsp;&emsp;&emsp;(II) shall not include a requirement for cost sharing in an amount greater than 25 percent of the cost of the project for which the grant is made for the second fiscal year of such grant, and any cost sharing requirement may be satisfied through in-kind contributions;
+&emsp;&emsp;&emsp;(II) shall not include a requirement for cost sharing in an amount greater than 25percent of the cost of the project for which the grant is made for the second fiscal year of such grant, and any cost sharing requirement may be satisfied through in-kind contributions;
 
 &emsp;&emsp;&emsp;(III) shall not include a requirement for cost sharing in an amount greater than 35 percent of the cost of the project for which the grant is made for the third fiscal year of such grant, and any cost sharing requirement may be satisfied through in-kind contributions; and
 
@@ -256,7 +256,7 @@ Sections 14 and 10(a)(2) of the Federal Advisory Committee Act, referred to in s
 
 2004—Subsec. (a). Pub. L. 108–360, §103(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is established a National Earthquake Hazards Reduction Program.”
 
-Subsec. (b)(1). Pub. L. 108–360, §103(2)(A)(i), (iv), in introductory provisions, substituted “National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute” for “Federal Emergency Management Agency (hereafter in this chapter referred to as the ‘Agency’) shall have the primary responsibility for planning and coordinating the Program. In carryingout this paragraph, the Director of the Agency” and struck out concluding provisions which read as follows: “The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.”
+Subsec. (b)(1). Pub. L. 108–360, §103(2)(A)(i), (iv), in introductory provisions, substituted “National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute” for “Federal Emergency Management Agency (hereafter in this chapter referred to as the ‘Agency’) shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Agency” and struck out concluding provisions which read as follows: “The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director.”
 
 Subsec. (b)(1)(B). Pub. L. 108–360, §103(2)(A)(ii), (iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “prepare, in conjunction with the other Program agencies, a written plan for the Program, which shall include specific tasks and milestones for each Program agency, and which shall be submitted to the Congress and updated at such times as may be required by significant Program events, but in no event less frequently than every 3 years;”.
 
@@ -325,6 +325,10 @@ Subsec. (f). Pub. L. 96–472, §101(e), substituted in provision preceding par.
 Subsec. (i). Pub. L. 96–472, §101(f), added subsec. (i).
 
 #### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 “Administrator of the Federal Emergency Management Agency” and “Administrator of the Agency” substituted for “Director of the Federal Emergency Management Agency” and “Director of the Agency”, respectively, in subsec. (b)(2)(A), (B)(iii), (3)(C), (D) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
@@ -440,7 +444,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;“(A)
 
-Local educational agency.—The term ‘local educational agency’ has the meaning giventhat term in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
+Local educational agency.—The term ‘local educational agency’ has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;&emsp;“(B)
 
@@ -448,7 +452,7 @@ School.—The term ‘school’ means a nonprofit institutional day or residenti
 
 &emsp;“(2)
 
-Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act (42 U.S.C. 7706(c)) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
+Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act (42 U.S.C. 7706(c)) to develop, and make available to schools and local educational agencies for use by schools, at a minimalcost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
 
 “(d)
 
@@ -520,7 +524,7 @@ The purposes of these requirements are to reduce risks to the lives of occupants
 
 (b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no later than 3 years subsequent to the issuance of this order, measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
 
-(c) Federally Regulated Buildings. Each Federal agency with generic responsibility for regulating the structural safety of buildings shall plan to require use of appropriate seismic design and construction standards for new buildings within the agency's purview. Implementation of the plan shall be initiated no later than 3 years subsequent to the issuance of this order.
+(c) Federally Regulated Buildings. Each Federal agency with generic responsibility for regulating thestructural safety of buildings shall plan to require use of appropriate seismic design and construction standards for new buildings within the agency's purview. Implementation of the plan shall be initiated no later than 3 years subsequent to the issuance of this order.
 
 Sec. 3. Concurrent Requirements. (a) In accord with Office of Management and Budget Circular A–119 of January 17, 1980, entitled “Federal Participation in the Development and Use of Voluntary Standards,” nationally recognized private sector standards and practices shall be used for the purposes identified in sections 1 and 2 above unless the responsible agency finds that none is available that meets its requirements. The actions ordered herein shall consider the seismic hazards in various areas of the country to be as shown in the most recent edition of the American National Standards Institute Standards A58, <i>Minimum Design Loans for Buildings and Other Structures</i>, or subsequent maps adopted for Federal use in accord with this order. Local building codes determined by the responsible agency or by the Interagency Committee for Seismic Safety in Construction to provide adequately for seismic safety, or special seismic standards and practices required by unique agency mission needs, may be used.
 

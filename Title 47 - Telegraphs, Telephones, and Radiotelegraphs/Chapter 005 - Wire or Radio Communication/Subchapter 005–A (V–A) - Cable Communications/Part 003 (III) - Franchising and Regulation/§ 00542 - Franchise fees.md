@@ -10,7 +10,7 @@ For any twelve-month period, the franchise fees paid by a cable operator with re
 
 #### (c) Itemization of subscriber bills
 
-Each cable operator may identify, consistent with the regulations prescribed by the Commission pursuant to section 543 of this title, as a separate line item on each regular bill of each subscriber, each of the following:
+Each cable operator may identify, consistent with the regulations prescribed by the Commission pursuant to section 543 of this title, as aseparate line item on each regular bill of each subscriber, each of the following:
 
 &emsp;(1) The amount of the total bill assessed as a franchise fee and the identity of the franchising authority to which the fee is paid.
 
@@ -50,7 +50,7 @@ For the purposes of this section—
 
 #### (h) Uncompensated services; taxes, fees and other assessments; limitation on fees
 
-(1) Nothing in this chapter shall be construed to limit any authority of a franchising authority to impose a tax, fee, or other assessment ofany kind on any person (other than a cable operator) with respect to cable service or other communications service provided by such person over a cable system for which charges are assessed to subscribers but not received by the cable operator.
+(1) Nothing in this chapter shall be construed to limit any authority of a franchising authority to impose a tax, fee, or other assessment of any kind on any person (other than a cable operator) with respect to cable service or other communications service provided by such person over a cable system for which charges are assessed to subscribers but not received by the cable operator.
 
 (2) For any 12-month period, the fees paid by such person with respect to any such cable service or other communications service shall not exceed 5 percent of such person's gross revenues derived in such period from the provision of such service over the cable system.
 

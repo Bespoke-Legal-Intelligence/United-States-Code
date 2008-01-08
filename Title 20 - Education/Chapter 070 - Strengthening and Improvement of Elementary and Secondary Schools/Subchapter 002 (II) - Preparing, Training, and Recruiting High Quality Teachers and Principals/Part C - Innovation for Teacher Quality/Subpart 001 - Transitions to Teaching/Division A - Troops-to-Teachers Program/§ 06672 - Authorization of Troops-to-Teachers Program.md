@@ -22,7 +22,7 @@ The Secretary may carry out a program (to be known as the “Troops-to-Teachers 
 
 #### (c) Administration of Program
 
-The Secretary shall enter into a memorandum of agreement with the Secretary of Defense under which the Secretary of Defense, acting through the Defense Activity for Non-Traditional Education Support of the Department of Defense, will perform the actual administration of the Program, other than section 6676 of this title. Using funds appropriated to the Secretary to carry out this division, the Secretary shall transfer to the Secretary of Defense such amounts as may be necessary to administer the Program pursuant to the memorandum of agreement.
+The Secretary shall enter into a memorandum of agreement with the Secretary of Defense under which the Secretary of Defense, acting through the Defense Activity for Non-Traditional Education Support of the Department of Defense, will perform the actual administration of the Program, other than section 6676 of this title. Using funds appropriated to the Secretary to carry out this division, the Secretary shall transfer to the Secretary of Defense such amounts as may be necessary to administer theProgram pursuant to the memorandum of agreement.
 
 #### (d) Information regarding Program
 

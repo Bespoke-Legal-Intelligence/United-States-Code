@@ -4,7 +4,7 @@
 
 Subject to subsection (b), this chapter shall not be construed to prevent a recipient of a grant or a contract under this chapter (other than subchapter IX) from entering into an agreement with a profitmaking organization for the recipient to provide services to individuals or entities not otherwise receiving services under this chapter, provided that—
 
-&emsp;(1) if funds provided under this chapter to such recipient are initially used by the recipient to pay part or all of a cost incurred by the recipient in developing and carrying out suchagreement, such agreement guarantees that the cost is reimbursed to the recipient;
+&emsp;(1) if funds provided under this chapter to such recipient are initially used by the recipient to pay part or all of a cost incurred by the recipient in developing and carrying out such agreement, such agreement guarantees that the cost is reimbursed to the recipient;
 
 &emsp;(2) if such agreement provides for the provision of 1 or more services, of the type provided under this chapter by or on behalf of such recipient, to an individual or entity seeking to receive such services—
 

@@ -20,7 +20,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (1) Any regulations developed pursuant to subsection (c) of this section shall take effect if, and only if—
 
-&emsp;(A) the Secretary of Labor, not later than the day which is 3 years after September 2, 1974, delivers a copy of such regulations to the House of Representatives and a copy to the Senate, and
+&emsp;(A) the Secretary of Labor, not later than the day which is 3 years after September 2,1974, delivers a copy of such regulations to the House of Representatives and a copy to the Senate, and
 
 &emsp;(B) before the close of the 120–day period which begins on the day on which the copies of such regulations are delivered to the House of Representatives and to the Senate, neither the House of Representatives nor the Senate adopts, by an affirmative vote of a majority of those present and voting in that House, a resolution of disapproval.
 
@@ -59,8 +59,6 @@ Within 1 year after the date on which he submits his report to the Congress unde
 (Pub. L. 93–406, title III, §3032, Sept. 2, 1974, 88 Stat. 1000.)
 
 #### Change of Name
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

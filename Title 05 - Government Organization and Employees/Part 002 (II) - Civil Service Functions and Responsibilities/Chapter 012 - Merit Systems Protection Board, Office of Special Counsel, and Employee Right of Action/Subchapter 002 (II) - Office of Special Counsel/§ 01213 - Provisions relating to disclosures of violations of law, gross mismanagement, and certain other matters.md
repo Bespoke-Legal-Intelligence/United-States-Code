@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(D) referral to the Attorney General of any evidence of a criminal violation.
 
-(e)(1) Any such report shall be submitted to the Special Counsel, and the Special Counsel shall transmit a copy to the complainant, except as provided under subsection (f) of this section. The complainant may submit comments to the Special Counsel on the agency report within 15 days of having received a copy of the report.
+(e)(1) Any such report shall be submitted to the Special Counsel, and the Special Counselshall transmit a copy to the complainant, except as provided under subsection (f) of this section. The complainant may submit comments to the Special Counsel on the agency report within 15 days of having received a copy of the report.
 
 (2) Upon receipt of any report of the head of an agency required under subsection (c) of this section, the Special Counsel shall review the report and determine whether—
 
@@ -88,7 +88,7 @@
 
 (j) With respect to any disclosure of information described in subsection (a) which involves foreign intelligence or counterintelligence information, if the disclosure is specifically prohibited by law or by Executive order, the Special Counsel shall transmit such information to the National Security Advisor, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
 
-(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 21; amended Pub. L. 104–316, title I, §103(a),Oct. 19, 1996, 110 Stat. 3828; Pub. L. 107–304, §3, Nov. 27, 2002, 116 Stat. 2364.)
+(Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 21; amended Pub. L. 104–316, title I, §103(a), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 107–304, §3, Nov. 27, 2002, 116 Stat. 2364.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@ Section 153 of title 47, referred to in subsec. (a), was subsequently amended an
 
 1993—Subsec. (b). Pub. L. 103–129 substituted “5,000” for “one thousand five hundred”.
 
-1990—Subsec. (a). Pub. L. 101–624 inserted “or reception” after “transmission” and “data,” after “voice,”, and substituted “by wire, fiber, radio, light, or other visual or electromagnetic means” for “through the useof electricity between the transmitting and receiving apparatus”.
+1990—Subsec. (a). Pub. L. 101–624 inserted “or reception” after “transmission” and “data,” after “voice,”, and substituted “by wire, fiber, radio, light, or other visual or electromagnetic means” for “through the use of electricity between the transmitting and receiving apparatus”.
 
 1962—Subsec. (a). Pub. L. 87–862 included the transmission of sounds, signals, pictures, writing, or signs of all kinds within “telephone service”, and substituted “message telegram service or community antenna television system services or facilities other than those intended exclusively for educational purposes” for “telegraph services or facilities”.
 

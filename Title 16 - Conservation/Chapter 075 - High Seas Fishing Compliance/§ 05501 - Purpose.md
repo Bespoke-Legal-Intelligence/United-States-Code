@@ -14,7 +14,7 @@ This chapter, referred to in text, was in the original “this Act”, and was t
 
 #### Effective Date
 
-Section 111 of title I of Pub. L. 104–43 provided that: “This title \[enacting this chapter\] shall take effect 120days after the date of enactment of this Act \[Nov. 3, 1995\].”
+Section 111 of title I of Pub. L. 104–43 provided that: “This title \[enacting this chapter\] shall take effect 120 days after the date of enactment of this Act \[Nov. 3, 1995\].”
 
 #### Short Title
 

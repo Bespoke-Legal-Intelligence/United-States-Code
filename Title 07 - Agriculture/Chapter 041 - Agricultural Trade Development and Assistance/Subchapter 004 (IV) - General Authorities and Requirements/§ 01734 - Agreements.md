@@ -54,7 +54,7 @@ The Secretary or the Administrator, as appropriate, may make a determination to 
 
 1996—Subsec. (a). Pub. L. 104–127, §214(1), inserted “with foreign countries” after “Before entering into agreements”.
 
-Subsec. (b)(2). Pub. L. 104–127, §214(2), inserted “with foreign countries” after “agreements entered into” and “and broad-based economic growth” before semicolon at end.
+Subsec. (b)(2). Pub. L. 104–127, §214(2), inserted “with foreign countries” after “agreements entered into” and“and broad-based economic growth” before semicolon at end.
 
 Subsec. (c)(1). Pub. L. 104–127, §214(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Agreements to provide assistance on a multi-year basis under this chapter shall be made available to recipient countries or to eligible organizations.”
 

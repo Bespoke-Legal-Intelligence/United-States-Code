@@ -194,5 +194,3 @@ Amendment by Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 applicable
 
 Section applicable with respect to solicitations issued after the end of the one-year period beginning Oct. 19, 1984, see section 1216(c)(2) of Pub. L. 98–525, set out as a note under section 2319 of this title.
 
-§2322
-

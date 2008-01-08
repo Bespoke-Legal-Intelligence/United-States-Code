@@ -30,7 +30,7 @@ There is hereby established a National Park System Advisory Board, whose purpose
 
 #### (d) Federal Advisory Committee Act
 
-The provisions of the Federal Advisory Committee Act shall apply to the Board established under this section with the exception of section 14(b).
+The provisions of the Federal Advisory Committee Act shall apply to the Board establishedunder this section with the exception of section 14(b).
 
 #### (e) Cooperation of Federal agencies; use of mails
 
@@ -42,19 +42,21 @@ The provisions of the Federal Advisory Committee Act shall apply to the Board es
 
 #### (f) Termination
 
-The National Park System Advisory Board shall continue to exist until January 1, 2007. The provisions of section 14(b) of the Federal Advisory Committee Act (the Act of October 6, 1972; 86 Stat. 776) are hereby waived with respect to the Board, but in all other respects, it shall be subject to the provisions of the Federal Advisory Committee Act.
+The National Park System Advisory Board shall continue to exist until January 1, 2009. The provisions of section 14(b) of the Federal Advisory Committee Act (the Act of October 6, 1972; 86 Stat. 776) are hereby waived with respect to the Board, but in all other respects, it shall be subject to the provisions of the Federal Advisory Committee Act.
 
 #### (g) National Park Service Advisory Council
 
 There is hereby established the National Park Service Advisory Council (hereafter in this section referred to as the “advisory council”) which shall provide advice and counsel to the National Park System Advisory Board. Membership on the advisory council shall be limited to those individuals whose term on the advisory board has expired. Such individuals may serve as long as they remain active except that not more than 12 members may serve on the advisory council at any one time. Members of the advisory council shall not have a vote on the National Park System Advisory Board. Members of the advisory council shall receive no salary but may be paid expenses incidental to travel when engaged in discharging their duties as members. Initially, the Secretary shall choose 12 former members of the Advisory Board to constitute the advisory council. In so doing, the Secretary shall consider their professional expertise and demonstrated commitment to the National Park System and to the Advisory Board.
 
-(Aug. 21, 1935, ch. 593, §3, 49 Stat. 667; Pub. L. 91–383, §9, Aug. 18, 1970, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1940; amended Pub. L. 95–625, title VI, §604(2), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 101–628, title XII, §§1211, 1212, Nov. 28, 1990, 104 Stat. 4507; Pub. L. 104–333, div. I, title VIII, §814(f)(1), Nov. 12, 1996, 110 Stat. 4197; Pub. L. 109–156, §5, Dec. 30, 2005, 119 Stat. 2948.)
+(Aug. 21, 1935, ch. 593, §3, 49 Stat. 667; Pub. L. 91–383, §9, Aug. 18, 1970, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1940; amended Pub. L. 95–625, title VI, §604(2), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 101–628, title XII, §§1211, 1212, Nov. 28, 1990, 104 Stat. 4507; Pub. L. 104–333, div. I, title VIII, §814(f)(1), Nov. 12, 1996, 110 Stat. 4197; Pub. L. 109–156, §5, Dec. 30, 2005, 119 Stat. 2948; Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2107.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsecs. (d) and (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2007—Subsec. (f). Pub. L. 110–161 substituted “2009” for “2007”.
 
 2005—Subsec. (f). Pub. L. 109–156 substituted “2007” for “2006”.
 

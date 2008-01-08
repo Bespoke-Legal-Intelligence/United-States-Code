@@ -38,7 +38,7 @@ In connection with any compact or funding agreement executed pursuant to this pa
 
 #### (d) Matching or cost-participation requirement
 
-All funds provided under compacts, funding agreements, or grants made pursuant to thissubchapter, shall be treated as non-Federal funds for purposes of meeting matching or cost participation requirements under any other Federal or non-Federal program.
+All funds provided under compacts, funding agreements, or grants made pursuant to this subchapter, shall be treated as non-Federal funds for purposes of meeting matching or cost participation requirements under any other Federal or non-Federal program.
 
 #### (e) State facilitation
 

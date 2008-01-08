@@ -6,7 +6,7 @@ Recognition.—(1) Except as provided in paragraph (4), the Secretary may recogn
 
 (2) The Secretary shall prescribe in regulations (consistent with the Model Rules of Professional Conduct of the American Bar Association) qualifications and standards of conduct for individuals recognized under this section, including a requirement that, as a condition of being so recognized, an individual must—
 
-&emsp;(A) show that such individual is of good moral character and in good repute, is qualified to render claimants valuable service, and is otherwise competent to assist claimants in presenting claims;
+&emsp;(A) show that such individual is of good moral character and in good repute, is qualified to render claimants valuable service, andis otherwise competent to assist claimants in presenting claims;
 
 &emsp;(B) have such level of experience or specialized training as the Secretary shall specify; and
 
@@ -58,7 +58,7 @@ Suspension of Agents and Attorneys.—The Secretary, after notice and opportunit
 
 (B) A finding or order of the Secretary under subparagraph (A) may be reviewed by the Board of Veterans’ Appeals under section 7104 of this title.
 
-(C) If the Secretary under subsection (b) suspends or excludes from further practice beforethe Department any agent or attorney who collects or receives a fee in excess of the amount authorized under this section, the suspension shall continue until the agent or attorney makes full restitution to each claimant from whom the agent or attorney collected or received an excessive fee. If the agent or attorney makes such restitution, the Secretary may reinstate such agent or attorney under such rules as the Secretary may prescribe.
+(C) If the Secretary under subsection (b) suspends or excludes from further practice before the Department any agent or attorney who collects or receives a fee in excess of the amount authorized under this section, the suspension shall continue until the agent or attorney makes full restitution to each claimant from whom the agent or attorney collected or received an excessive fee. If the agent or attorney makes such restitution, the Secretary may reinstate such agent or attorney under such rules as the Secretary may prescribe.
 
 (4) A reasonable fee may be charged or paid in connection with any proceeding before the Department in a case arising out of a loan made, guaranteed, or insured under chapter 37 of this title. A person who charges a fee under this paragraph shall enter into a written agreement with the person represented and shall file a copy of the fee agreement with the Secretary at such time, and in such manner, as may be specified by the Secretary.
 

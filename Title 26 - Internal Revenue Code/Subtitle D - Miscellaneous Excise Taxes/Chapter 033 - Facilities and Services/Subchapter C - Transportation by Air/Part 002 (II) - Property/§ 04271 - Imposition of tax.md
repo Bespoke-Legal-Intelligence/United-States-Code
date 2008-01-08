@@ -32,7 +32,7 @@ For purposes of this section, in any case in which a person engaged in the busin
 
 &emsp;&emsp;&emsp;(i) beginning on the 7th day after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-&emsp;&emsp;&emsp;(ii) ending on September 30, 2007, and
+&emsp;&emsp;&emsp;(ii) ending on February 29, 2008, and
 
 &emsp;&emsp;(B) amounts paid during such period for transportation beginning after such period.
 
@@ -40,7 +40,7 @@ For purposes of this section, in any case in which a person engaged in the busin
 
 &emsp;If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.
 
-(Added Pub. L. 91–258, title II, §204, May 21, 1970, 84 Stat. 239; amended Pub. L. 94–455, title XIX, §1904(a)(8), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(b), Sept. 3, 1982, 96 Stat. 564; Pub. L. 100–223, title IV, §402(a)(2), Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–508, title XI, §11213(a)(2), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 104–188, title I, §1609(b), Aug. 20, 1996, 110 Stat. 1841; Pub. L. 105–2, §2(b)(2), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(2), Aug. 5, 1997, 111 Stat. 929.)
+(Added Pub. L. 91–258, title II, §204, May 21, 1970, 84 Stat. 239; amended Pub. L. 94–455, title XIX, §1904(a)(8), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(b), Sept. 3, 1982, 96 Stat. 564; Pub. L. 100–223, title IV, §402(a)(2), Dec. 30, 1987, 101 Stat. 1532; Pub. L. 101–508, title XI, §11213(a)(2), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 104–188, title I, §1609(b), Aug. 20, 1996, 110 Stat. 1841; Pub. L. 105–2, §2(b)(2), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(2), Aug. 5, 1997, 111 Stat. 929; Pub. L. 110–161, div. K, title I, §116(b)(2), Dec. 26, 2007, 121 Stat. 2381.)
 
 #### References in Text
 
@@ -52,7 +52,9 @@ A prior section 4271, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to
 
 #### Amendments
 
-1997—Subsec. (d). Pub. L. 105–2 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The tax imposed by subsection (a)shall apply with respect to transportation beginning after August 31, 1982, and before January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997.”
+2007—Subsec. (d)(1)(A)(ii). Pub. L. 110–161 substituted “February 29, 2008” for “September 30, 2007”.
+
+1997—Subsec. (d). Pub. L. 105–2 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The tax imposed by subsection (a) shall apply with respect to transportation beginning after August 31, 1982, and before January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997.”
 
 Subsec. (d)(1)(A)(ii). Pub. L. 105–34 substituted “September 30, 2007” for “September 30, 1997”.
 
@@ -69,6 +71,10 @@ Subsec. (d). Pub. L. 101–508, §11213(d)(1), substituted “January 1, 1996”
 1980—Subsec. (d). Pub. L. 96–298 substituted “September 30, 1980” for “June 30, 1980”.
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “which begins after June 30, 1970” after “of property”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–161 effective Oct. 1, 2007, see section 116(d) of div. K of Pub. L. 110–161, set out as a note under section 4081 of this title.
 
 #### Effective Date of 1997 Amendments
 

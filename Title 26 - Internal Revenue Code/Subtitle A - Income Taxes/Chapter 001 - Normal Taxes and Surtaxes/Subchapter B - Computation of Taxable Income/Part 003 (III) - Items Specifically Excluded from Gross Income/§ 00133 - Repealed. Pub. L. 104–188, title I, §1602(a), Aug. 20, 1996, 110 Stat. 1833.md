@@ -1,6 +1,6 @@
 ### \[§133. Repealed. Pub. L. 104–188, title I, §1602(a), Aug. 20, 1996, 110 Stat. 1833\]
 
-Section, added Pub. L. 98–369, div. A, title V, §543(a), July 18, 1984, 98 Stat. 891; amended Pub. L. 99–514, titleXI, §1173(b)(1)(A), (2), title XVIII, §1854(c)(2)(A), (C), (D), Oct. 22, 1986, 100 Stat. 2515, 2879; Pub. L. 100–647, title I, §1011B(h)(1), (2), Nov. 10, 1988, 102 Stat. 3490; Pub. L. 101–239, title VII, §7301(a)–(c), Dec. 19, 1989, 103 Stat. 2346, 2347, prior to repeal, read as follows:
+Section, added Pub. L. 98–369, div. A, title V, §543(a), July 18, 1984, 98 Stat. 891; amended Pub. L. 99–514, title XI, §1173(b)(1)(A), (2), title XVIII, §1854(c)(2)(A), (C), (D), Oct. 22, 1986, 100 Stat. 2515, 2879; Pub. L. 100–647, title I, §1011B(h)(1), (2), Nov. 10, 1988, 102 Stat. 3490; Pub. L. 101–239, title VII, §7301(a)–(c), Dec. 19, 1989, 103 Stat. 2346, 2347, prior to repeal, read as follows:
 
 #### §133. Interest on certain loans used to acquire employer securities
 

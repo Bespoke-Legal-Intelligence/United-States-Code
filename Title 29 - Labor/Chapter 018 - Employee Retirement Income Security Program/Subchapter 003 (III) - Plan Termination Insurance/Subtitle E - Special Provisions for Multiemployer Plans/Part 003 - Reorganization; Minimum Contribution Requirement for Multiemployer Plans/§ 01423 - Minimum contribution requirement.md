@@ -6,9 +6,9 @@
 
 &emsp;(A) the plan shall continue to maintain its funding standard account while it is in reorganization, and
 
-&emsp;(B) the plan's accumulated funding deficiency under section 1082(a) of this title for such plan year shall be equal to the excess (if any) of—
+&emsp;(B) the plan's accumulated funding deficiency under section 1084(a) of this title forsuch plan year shall be equal to the excess (if any) of—
 
-&emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 1424(a) of this title) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such year or under section 1082(a) of this title if the plan was not in reorganization), over
+&emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 1424(a) of this title) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such year or under section 1084(a) of this title if the plan was not in reorganization), over
 
 &emsp;&emsp;(ii) amounts considered contributed by employers to or under the plan for the plan year (increased by any amount waived under subsection (f) of this section for the plan year).
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(II) if the plan was in reorganization in the preceding plan year, the sum of the amount determined under this subparagraph for the preceding plan year and the amount (if any) determined under subparagraph (B) for the preceding plan year, plus
 
-&emsp;(B) if for the plan year a change in benefits is first required to be considered in computing the charges under section 412(b)(2)(A) or (B) of title 26, the sum of—
+&emsp;(B) if for the plan year a change in benefits is first required to be considered in computing the charges under section 412(b)(2)(A) or (B) <sup>1</sup> of title 26, the sum of—
 
 &emsp;&emsp;(i) the increase in normal cost for a plan year determined under the entry age normal funding method due to increases in benefits described in section 1421(b)(4)(A)(ii) of this title (determined without regard to section 1421(b)(4)(B)(i) of this title), and
 
@@ -118,33 +118,33 @@
 
 #### (e) Adjustment of vested benefits charge
 
-In determining the minimum contribution requirement with respect to a plan for a plan year under subsection (b) of this section, the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under section 412(c)(8) of title 26.
+In determining the minimum contribution requirement with respect to a plan for a plan year under subsection (b) of this section, the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under section 412(c)(8) <sup>1</sup> of title 26.
 
 #### (f) Waiver of accumulated funding deficiency
 
-(1) The Secretary of the Treasury may waive any accumulated funding deficiency under thissection in accordance with the provisions of section 1083(a) of this title.
+(1) The Secretary of the Treasury may waive any accumulated funding deficiency under this section in accordance with the provisions of section 1082(c) of this title.
 
-(2) Any waiver under paragraph (1) shall not be treated as a waived funding deficiency (within the meaning of section 1083(c) of this title).
+(2) Any waiver under paragraph (1) shall not be treated as a waived funding deficiency (within the meaning of section 1082(c)(3) of this title).
 
 #### (g) Statutory methods applicable for determinations
 
-For purposes of making any determination under this part, the requirements of section 1082(c)(3) of this title shall apply.
+For purposes of making any determination under this part, the requirements of section 1084(c)(3) of this title shall apply.
 
 (Pub. L. 93–406, title IV, §4243, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1252; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title I, §107(b)(6)–(9), Aug. 17, 2006, 120 Stat. 820.)
 
-#### Amendment of Section
+#### References in Text
 
-<i>Pub. L. 109–280, title I, §107(b)(6)–(9), (e), Aug. 17, 2006, 120 Stat. 820, provided that, applicable to plan years beginning after 2007, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(1)(B), by substituting “1084(a)” for “1082(a)” in introductory provisions and clause (i);</i>
-
-<i>(2) in subsection (f)(1), by substituting “1082(c)” for “1083(a)”;</i>
-
-<i>(3) in subsection (f)(2), by substituting “1082(c)(3)” for “1083(c)”; and</i>
-
-<i>(4) in subsection (g), by substituting “1084(c)(3)” for “1082(c)(3)”.</i>
+Section 412, referred to in subsecs. (d)(1) and (e), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, no longer contains a subsec. (b)(2)(A) or (B) or (c)(8).
 
 #### Amendments
+
+2006—Subsec. (a)(1)(B). Pub. L. 109–280, §107(b)(6), substituted “1084(a)” for “1082(a)” in introductory provisions and cl. (i).
+
+Subsec. (f)(1). Pub. L. 109–280, §107(b)(7), substituted “1082(c)” for “1083(a)”.
+
+Subsec. (f)(2). Pub. L. 109–280, §107(b)(8), substituted “1082(c)(3)” for “1083(c)”.
+
+Subsec. (g). Pub. L. 109–280, §107(b)(9), substituted “1084(c)(3)” for “1082(c)(3)”.
 
 1989—Subsecs. (d)(1)(B), (e). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -159,4 +159,6 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
 For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

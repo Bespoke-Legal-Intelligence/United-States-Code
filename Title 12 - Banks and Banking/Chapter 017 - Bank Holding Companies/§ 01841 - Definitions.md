@@ -158,7 +158,7 @@ Definition of Savings Associations and Related Term.—The term “savings assoc
 
 (k)
 
-Affiliate.—For purposes of this chapter, the term “affiliate” means any company thatcontrols, is controlled by, or is under common control with another company.
+Affiliate.—For purposes of this chapter, the term “affiliate” means any company that controls, is controlled by, or is under common control with another company.
 
 (<i>l</i>)
 
@@ -352,9 +352,9 @@ Subsecs. (p), (q). Pub. L. 106–102, §103(c)(1)(B), added subsecs. (p) and (q)
 
 Subsec. (c)(2)(F). Pub. L. 104–208, §2304(b), inserted “, including an institution that accepts collateral for extensions of credit by holding deposits under $100,000, and by other means” after “An institution” in introductory provisions.
 
-Subsec. (g)(3). Pub. L. 104–208, §2207, struck out par. (3) which read as follows: “shares transferred after January 1, 1966, by any bank holding company (or by any company which, but for such transfer, would be a bank holding company) directly or indirectly to any transferee that is indebted to the transferor, or has one or more officers, directors, trustees, or beneficiaries in common with or subject to control by the transferor, shall be deemed to be indirectly owned or controlled by the transferor unless the Board, after opportunity for hearing, determines that the transferor is not in fact capable of controlling the transferee.”
+Subsec. (g)(3). Pub. L. 104–208, §2207, struck out par. (3) which read as follows: “shares transferred after January 1, 1966, by any bank holding company (or by any company which, but for such transfer, would be a bankholding company) directly or indirectly to any transferee that is indebted to the transferor, or has one or more officers, directors, trustees, or beneficiaries in common with or subject to control by the transferor, shall be deemed to be indirectly owned or controlled by the transferor unless the Board, after opportunity for hearing, determines that the transferor is not in fact capable of controlling the transferee.”
 
-Subsec. (j)(2). Pub. L. 104–208, §2704(d)(17), which directed substitution of “Deposit Insurance Fund” for“Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (j)(2). Pub. L. 104–208, §2704(d)(17), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (<i>o</i>)(1). Pub. L. 104–208, §2208(b)(1), added heading and text of par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘adequately capitalized’ means a level of capitalization which meets or exceeds all applicable Federal regulatory capital standards.”
 
@@ -450,7 +450,7 @@ Section 1 of act May 9, 1956, provided: “That this Act \[enacting this chapter
 
 #### Separability
 
-Section 12 of act May 9, 1956, provided that: “If any provision of this Act \[enacting this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code\], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of the Act, and the application of such provision to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
+Section 12 of act May 9, 1956, provided that: “If any provision of this Act \[enacting this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code\], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of the Act, and the application of such provision to persons orcircumstances other than those to which it is held invalid, shall not be affected thereby.”
 
 #### Transfer of Functions
 

@@ -14,7 +14,7 @@ The chief executive officer of each agency may from time to time—
 
 #### (c) Reports to Congress
 
-The Director of the United States Fish and Wildlife Service shall make a report to Congressat the end of any fiscal year that the provisions of this section are utilized, which describes the use of the provisions of this section, and the additional cost, if any, to the Federal Government resulting therefrom. Such report shall be referred in the Senate to the Committee on Commerce, Science, and Transportation and in the House of Representatives to the Committee on Merchant Marine and Fisheries.
+The Director of the United States Fish and Wildlife Service shall make a report to Congress at the end of any fiscal year that the provisions of this section are utilized, which describes the use of the provisions of this section, and the additional cost, if any, to the Federal Government resulting therefrom. Such report shall be referred in the Senate to the Committee on Commerce, Science, and Transportation and in the House of Representatives to the Committee on Merchant Marine and Fisheries.
 
 (Mar. 3, 1885, ch. 360, §1(2), as added Pub. L. 93–280, §1(3), May 10, 1974, 88 Stat. 123; amended Pub. L. 96–470, title II, §206(a), Oct. 19, 1980, 94 Stat. 2244; Pub. L. 103–437, §6(t), Nov. 2, 1994, 108 Stat. 4587.)
 
@@ -36,5 +36,5 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

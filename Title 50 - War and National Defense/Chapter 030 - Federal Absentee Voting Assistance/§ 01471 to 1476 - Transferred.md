@@ -14,5 +14,5 @@ Section 1475, act Aug. 9, 1955, ch. 656, title III, §305, 69 Stat. 589, which r
 
 Section 1476, act Aug. 9, 1955, ch. 656, title III, §308, 69 Stat. 589, which authorized appropriations, was transferred to section 1973cc–26 of Title 42.
 
-Sections 1471 to 1476 were formerly classified to sections 2191 to 2196 of Title 5 prior to the general revisionand enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Sections 1471 to 1476 were formerly classified to sections 2191 to 2196 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 

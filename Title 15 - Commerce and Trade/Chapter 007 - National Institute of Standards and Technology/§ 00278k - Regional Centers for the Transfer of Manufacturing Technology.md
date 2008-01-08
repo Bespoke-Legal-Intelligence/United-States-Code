@@ -42,21 +42,131 @@ The activities of the Centers shall include—
 
 > The Secretary shall publish a final description under this paragraph after the expiration of a 30-day comment period.
 
-(3) Any nonprofit institution, or group thereof, or consortia of nonprofit institutions, including entities existing on August 23, 1988, may submit to the Secretary an application for financial support under this subsection, in accordance with the procedures established by the Secretary and published in the Federal Register under paragraph (2). In order to receive assistance under this section, an applicant shall provide adequate assurances that it will contribute 50 percent or more of the proposed Center's capital and annual operating and maintenance costs for the first three years and an increasing share for each of the last three years. Each applicant shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center's activities.
+(3)(A) Any nonprofit institution, or group thereof, or consortia of nonprofit institutions, including entities existing on August 23, 1988, may submit to the Secretary an application for financial support under this subsection, in accordance with the procedures established by the Secretary and published in the Federal Register under paragraph (2).
+
+(B) In order to receive assistance under this section, an applicant for financial assistance under subparagraph (A) shall provide adequate assurances that non-Federal assets obtained from the applicant and the applicant's partnering organizations will be used as a funding source to meet not less than 50 percent of the costs incurred for the first 3 years and an increasing share for each of the last 3 years. For purposes of the preceding sentence, the costs incurred means the costs incurred in connection with the activities undertaken to improve the management, productivity, and technological performance of small- and medium-sized manufacturing companies.
+
+(C) In meeting the 50 percent requirement, it is anticipated that a Center will enter into agreements with other entities such as privateindustry, universities, and State governments to accomplish programmatic objectives and access new and existing resources that will further the impact of the Federal investment made on behalf of small- and medium-sized manufacturing companies. All non-Federal costs,<sup>3</sup> contributed by such entities and determined by a Center as programmatically reasonable and allocable under MEP program procedures are includable as a portion of the Center's contribution.
+
+(D) Each applicant under subparagraph (A) shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center's activities.
 
 (4) The Secretary shall subject each such application to merit review. In making a decision whether to approve such application and provide financial support under this subsection, the Secretary shall consider at a minimum (A) the merits of the application, particularly those portions of the application regarding technology transfer, training and education, and adaptation of manufacturing technologies to the needs of particular industrial sectors, (B) the quality of service to be provided, (C) geographical diversity and extent of service area, and (D) the percentage of funding and amount of in-kind commitment from other sources.
 
-(5) Each Center which receives financial assistance under this section shall be evaluated during its third year of operation by an evaluation panel appointed by the Secretary. Each such evaluation panel shall be composed of private experts, none of whom shall be connected with the involved Center, and Federal officials. An official of the Institute shall chair the panel. Each evaluation panel shall measure the involved Center's performance against the objectives specified in this section. The Secretary shall not provide funding for the fourth through the sixth years of such Center's operation unless the evaluation is positive. If the evaluation is positive, the Secretary may provide continued funding through the sixth year at declining levels. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.
+(5) Each Center which receives financial assistance under this section shall be evaluated during its third year of operation by an evaluation panel appointed by the Secretary. Each such evaluation panel shall be composed of private experts, none of whom shall be connected with the involved Center, and Federal officials. An official of the Institute shall chair the panel. Each evaluation panel shall measure the involved Center's performance against the objectives specified in this section. The Secretary shall not provide funding for the fourth through the sixth years of such Center's operation unless the evaluation is positive. If the evaluation is positive, the Secretary may provide continued funding through the sixth year at declining levels. A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.
 
 (6) The provisions of chapter 18 of title 35 shall (to the extent not inconsistent with this section) apply to the promotion of technology from research by Centers under this section except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director.
 
-#### (d) Acceptance of funds from other Federal departments and agencies
+#### (d) Acceptance of funds
 
-In addition to such sums as may be authorized and appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally came from other Federal departments and agencies shall be selected and operated according to the provisions of this section.
+#### (1) In general
 
-(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935.)
+&emsp;In addition to such sums as may be appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies and under section 272(c)(7) of this title from the private sector for the purpose of strengthening United States manufacturing.
+
+#### (2) Allocation of funds
+
+#### (A) Funds accepted from other Federal departments or agencies
+
+&emsp;&emsp;The Director shall determine whether funds accepted from other Federal departments or agencies shall be counted in the calculation of the Federal share of capital and annual operating and maintenance costs under subsection (c).
+
+#### (B) Funds accepted from the private sector
+
+&emsp;&emsp;Funds accepted from the private sector under section 272(c)(7) of this title, if allocated to a Center, shall not be considered in the calculation of the Federal share under subsection (c) of this section.
+
+#### (e) MEP Advisory Board
+
+#### (1) Establishment
+
+&emsp;There is established within the Institute a Manufacturing Extension Partnership Advisory Board (in this subsection referred to as the “MEP Advisory Board”).
+
+#### (2) Membership
+
+#### (A) In general
+
+&emsp;&emsp;The MEP Advisory Board shall consist of 10 members broadly representative of stakeholders, to be appointed by the Director. At least 2 members shall be employed by or on an advisory board for the Centers, and at least 5 other members shall be from United States small businesses in the manufacturing sector. No member shall be an employee of the Federal Government.
+
+#### (B) Term
+
+&emsp;&emsp;Except as provided in subparagraph (C) or (D), the term of office of each member of the MEP Advisory Board shall be 3 years.
+
+#### (C) Classes
+
+&emsp;&emsp;The original members of the MEP Advisory Board shall be appointed to 3 classes. One class of 3 members shall have an initial term of 1 year, one class of 3 members shall have an initial term of 2 years, and one class of 4 members shall have an initial term of 3 years.
+
+#### (D) Vacancies
+
+&emsp;&emsp;Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
+
+#### (E) Serving consecutive terms
+
+&emsp;&emsp;Any person who has completed two consecutive full terms of service on the MEP Advisory Board shall thereafter be ineligible for appointment during the one-year period following the expiration of the second such term.
+
+#### (3) Meetings
+
+&emsp;The MEP Advisory Board shall meet not less than 2 times annually, and provide to the Director—
+
+&emsp;&emsp;(A) advice on Manufacturing Extension Partnership programs, plans, and policies;
+
+&emsp;&emsp;(B) assessments of the soundness of Manufacturing Extension Partnership plans and strategies; and
+
+&emsp;&emsp;(C) assessments of current performance against Manufacturing Extension Partnership program plans.
+
+#### (4) Federal Advisory Committee Act
+
+&emsp;In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.
+
+#### (5) Report
+
+&emsp;The MEP Advisory Board shall transmit an annual report to the Secretary for transmittal to Congress within 30 days after the submission to Congress of the President's annual budget request in each year. Such report shall address the status of the program established pursuant to this section and comment on the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.
+
+#### (f) Competitive grant program
+
+#### (1) Establishment
+
+&emsp;The Director shall establish, within the Centers program under this section and section 278<i>l</i> of this title, a program of competitive awards among participants described in paragraph (2) for the purposes described in paragraph (3).
+
+#### (2) Participants
+
+&emsp;Participants receiving awards under this subsection shall be the Centers, or a consortium of such Centers.
+
+#### (3) Purpose
+
+&emsp;The purpose of the program under this subsection is to develop projects to solve new or emerging manufacturing problems as determined by the Director, in consultation with the Director of the Centers program, the Manufacturing Extension Partnership Advisory Board, and small and medium-sized manufacturers. One or more themes for the competition may be identified, which may vary from year to year, depending on the needs of manufacturers and the success of previous competitions. These themes shall be related to projects associated with manufacturing extension activities, including supply chain integration and quality management, and including the transfer of technology based on the technological needs of manufacturers and available technologies from institutions of higher education, laboratories, and other technology producing entities, or extend beyond these traditional areas.
+
+#### (4) Applications
+
+&emsp;Applications for awards under this subsection shall be submitted in such manner, at such time, and containing such information as the Director shall require, in consultation with the Manufacturing Extension Partnership Advisory Board.
+
+#### (5) Selection
+
+&emsp;Awards under this subsection shall be peer reviewed and competitively awarded. The Director shall select proposals to receive awards—
+
+&emsp;&emsp;(A) that utilize innovative or collaborative approaches to solving the problem described in the competition;
+
+&emsp;&emsp;(B) that will improve the competitiveness of industries in the region in which the Center or Centers are located; and
+
+&emsp;&emsp;(C) that will contribute to the long-term economic stability of that region.
+
+#### (6) Program contribution
+
+&emsp;Recipients of awards under this subsection shall not be required to provide a matching contribution.
+
+(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587.)
+
+#### References in Text
+
+The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2007—Subsec. (c)(3). Pub. L. 110–69, §3003(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Any nonprofit institution, or group thereof, or consortia of nonprofit institutions, including entities existing on August 23, 1988, may submit to the Secretary an application for financial support under this subsection, in accordance with the procedures established by the Secretary and published in the Federal Register under paragraph (2). In order to receive assistance under this section, an applicant shall provide adequate assurances that it will contribute 50 percent or more of the proposed Center's capital and annual operating and maintenance costs for the first three years and an increasing share for each of the last three years. Each applicant shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center's activities.”
+
+Subsec. (c)(5). Pub. L. 110–69, §3003(b), inserted “A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center.” after “at declining levels.”
+
+Subsec. (d). Pub. L. 110–69, §3003(c), added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: “In addition to such sums as may be authorized and appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally came from other Federal departments and agencies shall be selected and operated according to the provisions of this section.”
+
+Subsec. (e). Pub. L. 110–69, §3003(d), added subsec. (e).
+
+Subsec. (f). Pub. L. 110–69, §3003(e), added subsec. (f).
 
 1998—Subsec. (c)(5). Pub. L. 105–309 substituted “. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.” for “, which are designed to ensure that the Center no longer needs financial support from the Institute by the seventh year. In no event shall funding for a Center be provided by the Department of Commerce after the sixth year of the operation of a Center.”
 
@@ -93,4 +203,6 @@ Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided th
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

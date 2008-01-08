@@ -6,7 +6,7 @@ No gain or loss shall be recognized to a partnership or to any of its partners i
 
 #### (b) Special rule
 
-Subsection (a) shall not apply to gain realized on a transfer of property to a partnership whichwould be treated as an investment company (within the meaning of section 351) if the partnership were incorporated.
+Subsection (a) shall not apply to gain realized on a transfer of property to a partnership which would be treated as an investment company (within the meaning of section 351) if the partnership were incorporated.
 
 #### (c) Regulations relating to certain transfers to partnerships
 

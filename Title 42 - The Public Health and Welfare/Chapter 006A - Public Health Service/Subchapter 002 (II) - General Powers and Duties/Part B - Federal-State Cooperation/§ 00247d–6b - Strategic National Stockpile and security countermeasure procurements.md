@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.
+&emsp;The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other publichealth emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.
 
 #### (2) Procedures
 
@@ -78,7 +78,7 @@
 
 #### (C) Notice to Congress
 
-&emsp;&emsp;The Secretary and the Homeland Security Secretary shall promptly notify the designated congressional committees (as defined in paragraph (10)) that a determination has been made pursuant to subparagraph (A) or (B).
+&emsp;&emsp;The Secretary and the Homeland Security Secretary shall promptly notify the designated congressional committees (as defined in paragraph (10)) that a determinationhas been made pursuant to subparagraph (A) or (B).
 
 #### (D) Assuring access to threat information
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(i) issue a call for the development of such countermeasure; and
 
-&emsp;&emsp;&emsp;(ii) make a commitment that, upon the first development of such countermeasure that meets the conditions for procurement under paragraph (5), the Secretaries will, based in part on information obtained pursuant to such call, make a recommendation under paragraph (6) that the specialreserve fund under paragraph (10) be made available for the procurement of such countermeasure.
+&emsp;&emsp;&emsp;(ii) make a commitment that, upon the first development of such countermeasure that meets the conditions for procurement under paragraph (5), the Secretaries will, based in part on information obtained pursuant to such call, make a recommendation under paragraph (6) that the special reserve fund under paragraph (10) be made available for the procurement of such countermeasure.
 
 #### (B) Countermeasure specifications
 
@@ -358,7 +358,7 @@ For purposes of subsection (a) of this section, the term “stockpile” include
 
 #### (2) Smallpox vaccine development
 
-&emsp;For the purpose of carrying out subsection (b) of this section, there are authorized to beappropriated $509,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
+&emsp;For the purpose of carrying out subsection (b) of this section, there are authorized to be appropriated $509,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
 (July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879.)
 
@@ -392,7 +392,7 @@ Subsec. (c)(5)(B)(i). Pub. L. 109–417, §406(2)(D), substituted “to meet the
 
 Subsec. (c)(7)(B). Pub. L. 109–417, §406(2)(E), substituted “cost” for “costs” in subpar. heading, struck out cl. (i) designation and heading before “The Homeland”, and struck out heading and text of cl. (ii). Text read as follows: “The actual costs to the Secretary under this section, other than the costs described in clause (i), shall be paid from the appropriation provided for under subsection (f)(1) of this section.”
 
-Subsec. (c)(7)(C)(ii)(I). Pub. L. 109–417, §406(2)(F)(i), amended heading and text of subcl. (I) generally. Prior to amendment, text read as follows: “The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government.”
+Subsec. (c)(7)(C)(ii)(I). Pub. L. 109–417, §406(2)(F)(i), amended heading and text of subcl. (I) generally. Prior to amendment, text read as follows: “The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law,the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government.”
 
 Subsec. (c)(7)(C)(ii)(VII) to (IX). Pub. L. 109–417, §406(2)(F)(ii), added subcls. (VII) to (IX).
 
@@ -403,6 +403,10 @@ Subsec. (c)(8)(A). Pub. L. 109–417, §406(2)(G), inserted at end “Such agree
 2002—Subsec. (a)(1). Pub. L. 107–296, §1705(a)(1), substituted “The Secretary of Homeland Security” for “The Secretary of Health and Human Services” and inserted “the Secretary of Health and Human Services and” after “in coordination with” and “of Health and Human Services” after “as are determined by the Secretary”.
 
 Subsecs. (a)(2), (b)(1). Pub. L. 107–296, §1705(a)(2), inserted “of Health and Human Services” after “Secretary” wherever appearing.
+
+#### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2002 Amendment
 
@@ -499,6 +503,20 @@ Report.—The President shall ensure that, not later than six months after the d
 “(f)
 
 Applicability.—Subsections (a) and (d) cease to apply as requirements if the President determines that there is an alternative and more effective prophylaxis or preventive measures for adverse thyroid conditions that may result from the release of radionuclides from nuclear power plants.”
+
+\[Memorandum of President of the United States, July 3, 2007, 72 F.R. 37627, provided:
+
+\[Memorandum for the Secretary of Health and Human Services\[,\] the Secretary of Energy\[,\] the Secretary of Homeland Security\[,\] the Chairman of the Nuclear Regulatory Commission\[, and\] the Director of the Office of Science and Technology Policy
+
+\[By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, and section 204(b) of the National Science and Technology Policy, Organization, and Priorities Act of 1976, as amended (42 U.S.C. 6613(b)), the functions of the President under section 127 of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 (Public Law 107–188) (42 U.S.C. 247d–6b note) are assigned as follows:
+
+\[(1) the function of making a determination under subsection 127(f) of Public Law 107–188 is assigned to the Director of the Office of Science and Technology Policy; and
+
+\[(2) the functions of the President under section 127 of Public Law 107–188 other than that assigned under subsection 127(f) are assigned to the Chairman of the Nuclear Regulatory Commission.
+
+\[In the performance of such functions the Chairman and the Director should consult each other and the Secretaries of Health and Human Services, Energy, and Homeland Security, as appropriate.
+
+\[The Director is authorized and directed to publish this memorandum in the Federal Register.\]
 
 #### Designation and Authorization To Perform Functions Under Section 319F–2 of the Public Health Service Act
 

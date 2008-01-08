@@ -14,7 +14,7 @@
 
 #### (2) Matching contribution
 
-&emsp;A statewide telecommunications network assisted under paragraph (1) shall contribute,either directly or through private contributions, non-Federal funds equal to not less than 50 percent of the cost of such network.
+&emsp;A statewide telecommunications network assisted under paragraph (1) shall contribute, either directly or through private contributions, non-Federal funds equal to not less than 50 percent of the cost of such network.
 
 #### (b) Special local network
 

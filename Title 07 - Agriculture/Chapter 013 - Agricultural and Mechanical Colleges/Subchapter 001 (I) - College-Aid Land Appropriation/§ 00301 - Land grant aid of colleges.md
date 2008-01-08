@@ -134,7 +134,7 @@ Endowment.—
 
 &emsp;“(1)
 
-In general.—In accordance with this subsection, the Secretary of the Treasury shall establisha 1994 Institutions Endowment Fund (hereafter in this subsection referred to as the ‘endowment fund’). The Secretary may enter into such agreements as are necessary to carry out this subsection.
+In general.—In accordance with this subsection, the Secretary of the Treasury shall establish a 1994 Institutions Endowment Fund (hereafter in this subsection referred to as the ‘endowment fund’). The Secretary may enter into such agreements as are necessary to carry out this subsection.
 
 &emsp;“(2)
 
@@ -282,7 +282,7 @@ Sec. 3. Any land conveyed to the State of Missouri under authority of this Act s
 
 #### Cooperation in Placement of Domestic Farm Labor
 
-Section 2(b) of act Apr. 28, 1947, ch. 43, 61 Stat. 55, provided: “The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295).”
+Section 2(b) of act Apr. 28, 1947, ch. 43, 61 Stat. 55, provided: “The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary toassure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295).”
 
 #### Admission of Alaska as State; Grants Not To Extend to Alaska
 

@@ -6,7 +6,7 @@ Full power is vested in the Secretary of the Interior to provide, in all leases 
 
 #### Codification
 
-A clause at the beginning of this section as originally enacted, retaining and continuing in the Secretary of the Interior all power then possessed by him for the regulating of leases of bath houses, bathhouse privileges, or hotel rights on the reservation, or supplying hot water to places off the reservation was omitted for purposes of codification.
+A clause at the beginning of this section as originally enacted, retaining and continuing in the Secretary ofthe Interior all power then possessed by him for the regulating of leases of bath houses, bathhouse privileges, or hotel rights on the reservation, or supplying hot water to places off the reservation was omitted for purposes of codification.
 
 #### Change of Name
 

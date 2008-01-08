@@ -6,7 +6,7 @@ In the case of seizure elsewhere than on premises qualified under this chapter o
 
 #### (b) Claims
 
-Within 1 year after destruction made pursuant to subsection (a) the owner of, including any person having an interest in, the property so destroyed may make application to the Secretaryfor reimbursement of the value of such property. If the claimant establishes to the satisfaction of the Secretary that—
+Within 1 year after destruction made pursuant to subsection (a) the owner of, including any person having an interest in, the property so destroyed may make application to the Secretary for reimbursement of the value of such property. If the claimant establishes to the satisfaction of the Secretary that—
 
 &emsp;(1) such property had not been used in violation of law; or
 

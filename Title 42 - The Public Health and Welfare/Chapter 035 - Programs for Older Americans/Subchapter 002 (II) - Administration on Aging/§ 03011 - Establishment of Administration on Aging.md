@@ -20,7 +20,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(ii) include a description of the results of such evaluation and recommendations in the annual report required by section 3018(a) of this title to be submitted by the Assistant Secretary;
 
-&emsp;(B) serve as the effective and visible advocate in behalf of older individuals who are Native Americans within the Department of Health and Human Services and with other departments and agencies of the Federal Government regarding all Federal policies affectingsuch individuals, with particular attention to services provided to Native Americans by the Indian Health Service;
+&emsp;(B) serve as the effective and visible advocate in behalf of older individuals who are Native Americans within the Department of Health and Human Services and with other departments and agencies of the Federal Government regarding all Federal policies affecting such individuals, with particular attention to services provided to Native Americans by the Indian Health Service;
 
 &emsp;(C) coordinate activities between other Federal departments and agencies to assure a continuum of improved services through memoranda of agreements or through other appropriate means of coordination;
 
@@ -92,7 +92,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(E) review, and make recommendations to the Secretary and the Assistant Secretary regarding, existing and proposed Federal legislation, regulations, and policies regarding the operation of State Long-Term Care Ombudsman programs;
 
-&emsp;(F) make recommendations to the Assistant Secretary and the Secretary regarding the policies of the Administration, and coordinatethe activities of the Administration with the activities of other Federal entities, State and local entities, and nongovernmental entities, relating to State Long-Term Care Ombudsman programs;
+&emsp;(F) make recommendations to the Assistant Secretary and the Secretary regarding the policies of the Administration, and coordinate the activities of the Administration with the activities of other Federal entities, State and local entities, and nongovernmental entities, relating to State Long-Term Care Ombudsman programs;
 
 &emsp;(G) supervise the activities carried out under the authority of the Administration that relate to State Long-Term Care Ombudsman programs;
 

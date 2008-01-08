@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) within the service area of such plan, deny such coverage to such employers if the issuer has demonstrated, if required, to the applicable State authority that—
 
-&emsp;&emsp;&emsp;(i) it will not have the capacity to deliver services adequately to enrollees of any additional groups because of its obligations to existing group contract holders and enrollees, and
+&emsp;&emsp;&emsp;(i) it will not have the capacity to deliver services adequately to enrollees ofany additional groups because of its obligations to existing group contract holders and enrollees, and
 
 &emsp;&emsp;&emsp;(ii) it is applying this paragraph uniformly to all employers without regard to the claims experience of those employers and their employees (and their dependents) or any health status-related factor relating to such employees and dependents.
 

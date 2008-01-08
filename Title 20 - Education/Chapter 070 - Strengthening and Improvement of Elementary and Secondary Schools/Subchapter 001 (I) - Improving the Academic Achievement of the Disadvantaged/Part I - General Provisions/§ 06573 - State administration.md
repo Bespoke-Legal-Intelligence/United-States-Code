@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Each State educational agency that receives funds under this subchapter shall create aState committee of practitioners to advise the State in carrying out its responsibilities under this subchapter.
+&emsp;Each State educational agency that receives funds under this subchapter shall create a State committee of practitioners to advise the State in carrying out its responsibilities under this subchapter.
 
 #### (2) Membership
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is hereby established an advisory committee to be known as the “Safe and Drug Free Schools and Communities Advisory Committee” (referred to in this section as the “Advisory Committee”) to—
+&emsp;There is hereby established an advisory committee to be known as the “Safe and DrugFree Schools and Communities Advisory Committee” (referred to in this section as the “Advisory Committee”) to—
 
 &emsp;&emsp;(A) consult with the Secretary under subsection (b) of this section;
 
@@ -64,7 +64,7 @@
 
 &emsp;Activities that may be carried out under programs funded under this section may include—
 
-&emsp;&emsp;(A) the provision of technical assistance and training, in collaboration with other Federal agencies utilizing their expertiseand national and regional training systems, for Governors, State educational agencies and local educational agencies to support high quality, effective programs that—
+&emsp;&emsp;(A) the provision of technical assistance and training, in collaboration with other Federal agencies utilizing their expertise and national and regional training systems, for Governors, State educational agencies and local educational agencies to support high quality, effective programs that—
 
 &emsp;&emsp;&emsp;(i) provide a thorough assessment of the substance abuse and violence problem;
 

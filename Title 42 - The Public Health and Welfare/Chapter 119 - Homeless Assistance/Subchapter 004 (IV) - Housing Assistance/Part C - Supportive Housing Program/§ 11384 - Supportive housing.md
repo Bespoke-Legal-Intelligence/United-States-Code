@@ -36,5 +36,5 @@ A project may provide supportive housing or supportive services in dwelling unit
 
 #### Prior Provisions
 
-A prior section 11384, Pub. L. 100–77, title IV, §424, July 22, 1987, 101 Stat. 501; Pub. L. 100–628, title IV, §§442(b)(2), 448(b), 450(a)(1), (b), 451, Nov. 7, 1988, 102 Stat. 3233–3235; Pub. L. 101–625, title VIII, §833(f), (h)–(j), (k)(2), Nov. 28, 1990, 104 Stat. 4363–4365, provided for applications, selection criteria, and other program requirements for assistance under the supportive housing demonstration program, prior to repeal by Pub. L. 102–550, §1403(a).
+A prior section 11384, Pub. L. 100–77, title IV, §424, July 22, 1987, 101 Stat. 501; Pub. L. 100–628, title IV, §§442(b)(2), 448(b), 450(a)(1), (b), 451, Nov. 7, 1988, 102 Stat. 3233–3235; Pub. L. 101–625, title VIII, §833(f), (h)–(j),\(k)(2), Nov. 28, 1990, 104 Stat. 4363–4365, provided for applications, selection criteria, and other program requirements for assistance under the supportive housing demonstration program, prior to repeal by Pub. L. 102–550, §1403(a).
 

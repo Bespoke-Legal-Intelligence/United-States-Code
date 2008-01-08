@@ -76,7 +76,7 @@ Table of Contents.—\[Omitted.\]
 
 &emsp;“(2) Congress has heard testimony from individuals, including representatives of the National Association for the Advancement of Colored People and the American Federation of Government Employees, that point to chronic problems of discrimination and retaliation against Federal employees;
 
-&emsp;“(3) in August 2000, a jury found that the Environmental Protection Agency had discriminated against a senior social scientist, and awarded that scientist $600,000;
+&emsp;“(3) in August 2000, a jury found that the Environmental Protection Agency had discriminated againsta senior social scientist, and awarded that scientist $600,000;
 
 &emsp;“(4) in October 2000, an Occupational Safety and Health Administration investigation found that the Environmental Protection Agency had retaliated against a senior scientist for disagreeing with that agency on a matter of science and for helping Congress to carry out its oversight responsibilities;
 
@@ -188,7 +188,7 @@ Employee Training.—Each Federal agency shall provide to the employees of such 
 
 “(a)
 
-Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report which shall include, with respect to the fiscal year—
+Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year,each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report which shall include, with respect to the fiscal year—
 
 &emsp;“(1) the number of cases arising under each of the respective provisions of law covered by paragraphs (1) and (2) of section 201(a) in which discrimination on the part of such agency was alleged;
 
@@ -276,7 +276,7 @@ Contents.—The study shall include a detailed summary of matters investigated, 
 
 &emsp;&emsp;&emsp;“(iii) affect established alternative dispute resolution procedures in such agencies; and
 
-&emsp;&emsp;&emsp;“(iv) affect any other matters determined by the General Accounting Office \[now GovernmentAccountability Office\] to be appropriate for consideration.
+&emsp;&emsp;&emsp;“(iv) affect any other matters determined by the General Accounting Office \[now Government Accountability Office\] to be appropriate for consideration.
 
 &emsp;“(2)
 
@@ -328,7 +328,7 @@ Contents.—Each study under paragraph (1) shall include, with respect to the ap
 
 &emsp;“(3)
 
-Reports.—Not later than 90 days after the completion of each study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on each study, respectively, to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform of the House of Representatives, and the Attorney General.
+Reports.—Not later than 90 days after the completion of each study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on each study, respectively, to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Attorney General.
 
 “(d)
 
@@ -344,7 +344,7 @@ In general.—Not later than 1 year after the date of enactment of this Act \[Ma
 
 &emsp;“(2)
 
-Report.—Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform of the House of Representatives, and the Attorney General.
+Report.—Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Attorney General.
 
 #### “TITLE III—EQUAL EMPLOYMENT OPPORTUNITY COMPLAINT DATA DISCLOSURE
 
@@ -398,7 +398,7 @@ Content Requirements.—The data posted by a Federal agency under this section s
 
 &emsp;&emsp;“(B) of the number specified under subparagraph (A) for each of the respective issues of alleged discrimination—
 
-&emsp;&emsp;&emsp;“(i) the number and percentage that were rendered without a hearing before an administrative judge of the Equal Employment Opportunity Commission, and
+&emsp;&emsp;&emsp;“(i) the number and percentage that were rendered without a hearing before an administrativejudge of the Equal Employment Opportunity Commission, and
 
 &emsp;&emsp;&emsp;“(ii) the number and percentage that were rendered after a hearing before an administrative judge of the Equal Employment Opportunity Commission.
 

@@ -86,13 +86,13 @@ The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105�
 
 #### Prior Provisions
 
-A prior section 1396, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2895; amended Pub. L. 96–595, §3(a)(6), (9), (10), Dec. 24, 1980, 94 Stat. 3465, related to minimum distributions by an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
+A prior section 1396, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2895; amended Pub. L.96–595, §3(a)(6), (9), (10), Dec. 24, 1980, 94 Stat. 3465, related to minimum distributions by an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 #### Amendments
 
 2000—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title I, §113(a)\], amended subsec. (b) generally, substituting provisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
 
-Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §113(b)\], struck out heading and text of subsec. (e). Text read as follows: “This section shall be applied without regardto any empowerment zone designated under section 1391(g).”
+Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §113(b)\], struck out heading and text of subsec. (e). Text read as follows: “This section shall be applied without regard to any empowerment zone designated under section 1391(g).”
 
 1997—Subsec. (b). Pub. L. 105–34 substituted “For purposes of this section—
 

@@ -6,7 +6,7 @@ Review of a decision of the Tax Court shall be obtained by filing a notice of ap
 
 #### Amendments
 
-1969—Pub. L. 91–172 substituted references to notice of appeal for references to petition for review, and otherwise generally altered the section as to time forappeal and terminology in order to conform section to the form of the Federal Rules of Appellate Procedure.
+1969—Pub. L. 91–172 substituted references to notice of appeal for references to petition for review, and otherwise generally altered the section as to time for appeal and terminology in order to conform section to the form of the Federal Rules of Appellate Procedure.
 
 #### Effective Date of 1969 Amendment
 

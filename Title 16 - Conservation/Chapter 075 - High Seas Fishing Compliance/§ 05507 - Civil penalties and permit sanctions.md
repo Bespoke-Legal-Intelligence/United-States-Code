@@ -14,7 +14,7 @@
 
 &emsp;(B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under section 5503 of this title has acted in violation of section 5505 of this title; or
 
-&emsp;(C) any amount in settlement of a civil forfeiture imposed on a high seas fishing vessel or other property, or any civil penalty or criminal fine imposed on a high seas fishing vessel or on an owner or operator of such a vessel or on any other person who has been issued or has applied for a permit under any fishery resource statute enforced by the Secretary, has not been paid and is overdue, the Secretary may—
+&emsp;(C) any amount in settlement of a civil forfeiture imposed on a high seas fishing vessel or other property, or any civil penalty or criminal fine imposed on a high seas fishing vessel or on an owner or operator of such a vessel or on any other person who has been issued or has applied for a permit under any fishery resource statute enforced by the Secretary, hasnot been paid and is overdue, the Secretary may—
 
 &emsp;&emsp;(i) revoke any permit issued to or applied for by such vessel or person under this chapter, with or without prejudice to the issuance of subsequent permits;
 

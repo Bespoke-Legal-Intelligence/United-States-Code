@@ -34,7 +34,7 @@
 
 #### (3) Effect of failure to provide notice
 
-&emsp;If a State does not transmit a notice to the chair of the Federal Election Commission under paragraph (1) within the deadline described in such paragraph, no representative from the State may participate in the selection of the initial Executive Board under subsection (c) of this section.
+&emsp;If a State does not transmit a notice to the chair of the Federal Election Commissionunder paragraph (1) within the deadline described in such paragraph, no representative from the State may participate in the selection of the initial Executive Board under subsection (c) of this section.
 
 #### (4) Role of Commission
 

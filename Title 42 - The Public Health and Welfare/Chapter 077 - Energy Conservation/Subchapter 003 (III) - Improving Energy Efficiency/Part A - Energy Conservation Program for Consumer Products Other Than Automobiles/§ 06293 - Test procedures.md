@@ -6,17 +6,27 @@ All test procedures and related determinations prescribed or made by the Secreta
 
 #### (b) Amended and new procedures
 
-(1)(A) The Secretary may amend test procedures with respect to any covered product if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3).
+(1)
 
-(B) The Secretary may, in accordance with the requirements of this subsection, prescribe test procedures for any consumer product classified as a covered product under section 6292(b) of this title.
+Test procedures.—
 
-(C) The Secretary shall direct the National Institute of Standards and Technology to assist in developing new or amended test procedures.
+&emsp;(A)
+
+Amendment.—At least once every 7 years, the Secretary shall review test procedures for all covered products and—
+
+&emsp;&emsp;(i) amend test procedures with respect to any covered product, if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3); or
+
+&emsp;&emsp;(ii) publish notice in the Federal Register of any determination not to amend a test procedure.
+
+&emsp;(B) The Secretary may, in accordance with the requirements of this subsection, prescribe test procedures for any consumer product classified as a covered product under section 6292(b) of this title.
+
+&emsp;(C) The Secretary shall direct the National Institute of Standards and Technology to assist in developing new or amended test procedures.
 
 (2) If the Secretary determines, on his own behalf or in response to a petition by any interested person, that a test procedure should be prescribed or amended, the Secretary shall promptly publish in the Federal Register proposed test procedures and afford interested persons an opportunity to present oral and written data, views, and arguments with respect to such procedures. The comment period shall not be less than 60 days and may be extended for good cause shown to not more than 270 days. In prescribing or amending a test procedure, the Secretary shall take into account such information as the Secretary determines relevant to such procedure, including technological developments relating to energy use or energy efficiency of the type (or class) of covered products involved.
 
 (3) Any test procedures prescribed or amended under this section shall be reasonably designed to produce test results which measure energy efficiency, energy use, water use (in the case of showerheads, faucets, water closets and urinals), or estimated annual operating cost of a covered product during a representative average use cycle or period of use, as determined by the Secretary, and shall not be unduly burdensome to conduct.
 
-(4) If the test procedure is a procedure for determining estimated annual operating costs, such procedure shall provide that such costs shall be calculated from measurements of energy use or, in the case of showerheads, faucets, water closets, or urinals, water use in a representative average use cycle or period of use, as determined by the Secretary, and from representative average unit costs of the energy needed to operate such product during such cycle, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle. The Secretary shall provide information to manufacturers with respect to representative average unit costs of energy, water, and wastewater treatment.
+(4) If the test procedure is a procedure for determining estimated annual operating costs, such procedure shall provide that such costs shall be calculated from measurements of energy use or, in the case of showerheads, faucets, water closets, or urinals, water use in a representative average use cycle or period of use, as determined by the Secretary, and from representative average unit costs of the energy needed to operate such product during such cycle, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of suchproducts during such cycle. The Secretary shall provide information to manufacturers with respect to representative average unit costs of energy, water, and wastewater treatment.
 
 (5) With respect to fluorescent lamp ballasts manufactured on or after January 1, 1990, and to which standards are applicable under section 6295 of this title, the Secretary shall prescribe test procedures that are in accord with ANSI standard C82.2–1984 or other test procedures determined appropriate by the Secretary.
 
@@ -62,6 +72,14 @@ All test procedures and related determinations prescribed or made by the Secreta
 
 (B) The Secretary may review and revise the test procedures established under subparagraph (A).
 
+(17)
+
+Class a external power supplies.—Test procedures for class A external power supplies shall be based on the “Test Method for Calculating the Energy Efficiency of Single-Voltage External AC–DC and AC–AC Power Supplies” published by the Environmental Protection Agency on August 11, 2004, except that the test voltage specified in section 4(d) of that test method shall be only 115 volts, 60 Hz.
+
+(18)
+
+Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts shall be based on ANSI Standard C82.6–2005, entitled “Ballasts for High Intensity Discharge Lamps—Method of Measurement”.
+
 #### (c) Restriction on certain representations
 
 (1) No manufacturer, distributor, retailer, or private labeler may make any representation—
@@ -94,7 +112,7 @@ All test procedures and related determinations prescribed or made by the Secreta
 
 (2) If the Secretary determines that the amended test procedure will alter the measured efficiency or measured use, the Secretary shall amend the applicable energy conservation standard during the rulemaking carried out with respect to such test procedure. In determining the amended energy conservation standard, the Secretary shall measure, pursuant to the amended test procedure, the energy efficiency, energy use, or water use of a representative sample of covered products that minimally comply with the existing standard. The average of such energy efficiency, energy use, or water use levels determined under the amended test procedure shall constitute the amended energy conservation standard for the applicable covered products.
 
-(3) Models of covered products in use before the date on which the amended energy conservation standard becomes effective (or revisions of such models that come into use after such dateand have the same energy efficiency, energy use, or water use characteristics) that comply with the energy conservation standard applicable to such covered products on the day before such date shall be deemed to comply with the amended energy conservation standard.
+(3) Models of covered products in use before the date on which the amended energy conservation standard becomes effective (or revisions of such models that come into use after such date and have the same energy efficiency, energy use, or water use characteristics) that comply with the energy conservation standard applicable to such covered products on the day before such date shall be deemed to comply with the amended energy conservation standard.
 
 (4) The Secretary's authority to amend energy conservation standards under this subsection shall not affect the Secretary's obligation to issue final rules as described in section 6295 of this title.
 
@@ -104,9 +122,15 @@ All test procedures and related determinations prescribed or made by the Secreta
 
 (2) To the maximum extent practicable, the testing requirements prescribed under paragraph (1) shall be based on existing test procedures used in industry.
 
-(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257, 3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627.)
+(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257, 3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627; Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
 
 #### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 110–140, §302(a), which directed amendment of subsec. (b)(1) by striking “(1)” and all that followed through the “end of the paragraph” and inserting a new par. (1) designation and heading and subpar. (A), was executed by substituting the new par. (1) designation and heading and subpar. (A) for “(1)(A) The Secretary may amend test procedures with respect to any covered product if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraph (3).” to reflect the probable intent of Congress.
+
+Subsec. (b)(17). Pub. L. 110–140, §301(b), added par. (17).
+
+Subsec. (b)(18). Pub. L. 110–140, §324(c), added par. (18).
 
 2005—Subsec. (b)(9) to (16). Pub. L. 109–58, §135(b)(1), added pars. (9) to (16).
 
@@ -147,4 +171,8 @@ Subsec. (a)(7). Pub. L. 95–619, §421(c), added par. (7).
 Subsec. (b). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
 
 Subsec. (c). Pub. L. 95–619, §421(d), redesignated existing provisions as par. (1), substituted “180 days” for “90 days” and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

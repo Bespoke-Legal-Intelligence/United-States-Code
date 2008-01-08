@@ -20,7 +20,7 @@ The Secretary is authorized to acquire, by donation only, approximately 27 acres
 
 &emsp;&emsp;(A) transfer to the National Park Service for inclusion in the Harpers Ferry National Historical Park (referred to in sections 450bb to 450bb–2 of this title as the “Park”) the land depicted on the map referred to in paragraph (1) as “U.S. Fish and Wildlife Service Lands” and revise the boundary of the Park accordingly; and
 
-&emsp;&emsp;(B) revise the boundary of the Park to include the land depicted on the map referredto in paragraph (1) as “Appalachian NST” and exclude that land from the boundary of the Appalachian National Scenic Trail.
+&emsp;&emsp;(B) revise the boundary of the Park to include the land depicted on the map referred to in paragraph (1) as “Appalachian NST” and exclude that land from the boundary of the Appalachian National Scenic Trail.
 
 #### (d) Maximum number of acres
 
@@ -50,7 +50,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 1980—Pub. L. 96–199 substituted “ ‘Boundary Map, Harpers Ferry National Historical Park’, numbered 385–80,021A and dated April 1979” for “ ‘Boundary Map, Harpers Ferry National Historical Park’, numbered 385–40,000D and dated April 1974” and “two thousand four hundred and seventy-five acres” for “two thousand acres”.
 
-1974—Pub. L. 93–466 inserted reference to updated map, prohibited the Secretary from exercising any power of condemnation on lands in which a less than fee interest has been previously acquired, authorized the acquisition of land with appropriated funds and by exchange, authorized an increase in total area from 1500 to 2000 acres, and authorized the Secretary to make minor boundary changes by publication of a revised description in the Federal Register, after advising the Committees on Interior and Insular Affairs.
+1974—Pub. L. 93–466 inserted reference to updated map, prohibited the Secretary from exercising any power of condemnation on lands in which a less than fee interest has been previously acquired, authorizedthe acquisition of land with appropriated funds and by exchange, authorized an increase in total area from 1500 to 2000 acres, and authorized the Secretary to make minor boundary changes by publication of a revised description in the Federal Register, after advising the Committees on Interior and Insular Affairs.
 
 #### Short Title of 2004 Amendment
 

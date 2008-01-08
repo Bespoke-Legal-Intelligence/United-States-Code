@@ -26,7 +26,7 @@
 
 (2) An individual who takes a lump-sum payment under this section (whether full or partial) remains eligible for optional benefits under sections 8714a–8714c (subject to payment of the full cost of those benefits in accordance with applicable provisions of the section or sections involved, to the same extent as if no election under this section had been made).
 
-(d)(1) The Office's regulations shall include provisions regarding the form and manner in which an application under this section shall be made and the procedures in accordance with which any such application shall be considered.
+(d)(1) The Office's regulations shall include provisions regarding the form and manner inwhich an application under this section shall be made and the procedures in accordance with which any such application shall be considered.
 
 (2) An application shall not be considered to be complete unless it includes such information and supporting evidence as the regulations require, including certification by an appropriate medical authority as to the nature of the individual's illness and that the individual is not expected to live more than 9 months because of that illness.
 

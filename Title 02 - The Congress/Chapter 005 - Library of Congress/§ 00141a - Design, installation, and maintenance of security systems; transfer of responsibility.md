@@ -4,6 +4,10 @@ The responsibility for design, installation, and maintenance of security systems
 
 (Pub. L. 105–277, div. B, title II, Oct. 21, 1998, 112 Stat. 2681–570.)
 
+#### Codification
+
+Section is from the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999.
+
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.

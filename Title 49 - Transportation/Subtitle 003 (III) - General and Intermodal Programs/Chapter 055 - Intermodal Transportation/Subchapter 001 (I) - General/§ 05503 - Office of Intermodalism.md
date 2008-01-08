@@ -64,7 +64,7 @@ Plan development funding.—Such sums as may be necessary from the administrativ
 
 (g)
 
-Impact Measurement Methodology; Impact Review.—The Director and the Director of the Bureau of Transportation Statistics shall jointly—
+Impact Measurement Methodology; Impact Review.—The Director and the Director ofthe Bureau of Transportation Statistics shall jointly—
 
 &emsp;(1) develop, in consultation with the modal administrations, and State and local planning organizations, common measures to compare transportation investment decisions across the various modes of transportation; and
 

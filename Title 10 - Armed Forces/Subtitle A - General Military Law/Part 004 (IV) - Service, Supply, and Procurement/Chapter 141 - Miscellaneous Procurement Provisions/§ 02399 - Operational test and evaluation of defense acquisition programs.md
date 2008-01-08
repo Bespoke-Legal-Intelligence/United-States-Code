@@ -98,7 +98,7 @@ Subsec. (b)(5), (6). Pub. L. 109–364, §231(a)(2), (3), added par. (5) and red
 
 1996—Subsec. (h)(2). Pub. L. 104–106 substituted “means—” and subpars. (A) and (B) for “means the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
 
-1994—Subsecs. (b)(5), (c)(1). Pub. L. 103–337, §1070 (a)(11)(A), substituted “139(a)(2)(B)” for “138(a)(2)(B)”.
+1994—Subsecs. (b)(5), (c)(1). Pub. L. 103–337, §1070(a)(11)(A), substituted “139(a)(2)(B)” for “138(a)(2)(B)”.
 
 Subsec. (e)(3)(B). Pub. L. 103–337, §1070(f), substituted “solely in testing for” for “solely as a representative of”.
 

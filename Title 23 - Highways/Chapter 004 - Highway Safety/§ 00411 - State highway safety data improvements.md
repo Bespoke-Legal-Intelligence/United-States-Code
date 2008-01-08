@@ -52,7 +52,7 @@ Eligibility.—A State shall become eligible for a first-year grant under this s
 
 &emsp;&emsp;&emsp;(i) established a highway safety data and traffic records coordinating committee with a multidisciplinary membership, including the administrators, collectors, and users of such data (including the public health, injury control, and motor carrier communities);
 
-&emsp;&emsp;&emsp;(ii) completed, within the preceding 5 years, a highway safety data and traffic records assessment or an audit of the highway safety data and traffic records system of the State; and
+&emsp;&emsp;&emsp;(ii) completed, within the preceding 5 years, a highway safety data and trafficrecords assessment or an audit of the highway safety data and traffic records system of the State; and
 
 &emsp;&emsp;&emsp;(iii) initiated the development of a multiyear highway safety data and traffic records strategic plan that—
 

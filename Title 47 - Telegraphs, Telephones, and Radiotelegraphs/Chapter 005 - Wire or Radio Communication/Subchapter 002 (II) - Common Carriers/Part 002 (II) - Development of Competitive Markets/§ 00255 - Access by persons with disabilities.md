@@ -26,7 +26,7 @@ Whenever the requirements of subsections (b) and (c) of this section are not rea
 
 #### (e) Guidelines
 
-Within 18 months after February 8, 1996, the Architectural and Transportation Barriers Compliance Board shall develop guidelines for accessibility of telecommunications equipment and customer premises equipment in conjunction with the Commission. The Board shall review and update the guidelines periodically.
+Within 18 months after February 8, 1996, the Architectural and Transportation Barriers Compliance Board shall develop guidelines for accessibility of telecommunications equipment andcustomer premises equipment in conjunction with the Commission. The Board shall review and update the guidelines periodically.
 
 #### (f) No additional private rights authorized
 

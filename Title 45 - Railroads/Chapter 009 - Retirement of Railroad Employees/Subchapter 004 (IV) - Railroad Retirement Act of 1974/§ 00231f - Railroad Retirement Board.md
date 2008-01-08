@@ -204,6 +204,8 @@ Section 106(f) of Pub. L. 96–254, cited as a credit to this section, was omitt
 
 #### Limitation on the Office of Inspector General
 
+Pub. L. 110–161, div. G, title IV, Dec. 26, 2007, 121 Stat. 2206, provided in part: “That funds made available under the heading in this Act \[the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2008, Pub. L. 110–161, div. G, see Tables for classification\], or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, may be used for any audit, investigation, or review of the Medicare Program.”
+
 Pub. L. 105–277, div. A, §101(f) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–381, provided in part: “That none of the funds made available under this heading in this Act \[probably means the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 1999, Pub. L. 105–277, div. A, §101(f), Oct. 21, 1998, 112 Stat. 2681–337, see Tables for classification\], or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, may be used for any audit, investigation, or review of the Medicare Program.”
 
 Similar provisions were contained in the following prior appropriation acts:

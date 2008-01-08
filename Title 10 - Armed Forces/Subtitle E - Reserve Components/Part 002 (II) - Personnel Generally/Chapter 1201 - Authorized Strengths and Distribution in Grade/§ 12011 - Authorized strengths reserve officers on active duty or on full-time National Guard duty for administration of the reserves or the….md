@@ -148,9 +148,9 @@ Full-Time Reserve Component Duty Defined.—In this section, the term “full-ti
 
 Subsec. (b). Pub. L. 107–107 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.”
 
-Subsec. (c). Pub. L. 107–107 inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of anyprovision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.”
+Subsec. (c). Pub. L. 107–107 inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.”
 
-Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of officers of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength.”
+Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armedforce who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of officers of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength.”
 
 Subsec. (e). Pub. L. 107–107 added subsec. (e).
 
@@ -192,11 +192,11 @@ Pub. L. 98–525, §413(b), increased fiscal year limitation on number of reserv
 
 1982—Subsec. (a). Pub. L. 97–252 increased numbers in columns headed “Army”, “Air Force”, and “Marine Corps” from 1,105, 189, and 51 in line for major or lieutenant commander to 1,351, 281, and 95, respectively, from 551, 194, and 35 in line for lieutenant colonel or commander to 671, 267, and 40, respectively, and from 171, 147, and 19 in line for colonel or Navy captain to 234, 170, and 21, respectively.
 
-1981—Subsec. (a). Pub. L. 97–86 increased numbers in columns headed “Army” and “Air Force” from 821 and170 in line for major or lieutenant commander to 1,105 and 189, respectively, from 503 and 183 in line for lieutenant colonel or commander to 551 and 194, respectively, and from 163 and 146 in line for colonel or Navy captain to 171 and 147, respectively.
+1981—Subsec. (a). Pub. L. 97–86 increased numbers in columns headed “Army” and “Air Force” from 821 and 170 in line for major or lieutenant commander to 1,105 and 189, respectively, from 503 and 183 in line for lieutenant colonel or commander to 551 and 194, respectively, and from 163 and 146 in line for colonel or Navy captain to 171 and 147, respectively.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94, provided that: “The amendments made by this section \[amending this section and section 12012 of this title\] shall take effect on October 1, 2000.”
+Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94, provided that: “Theamendments made by this section \[amending this section and section 12012 of this title\] shall take effect on October 1, 2000.”
 
 #### Effective Date of 1998 Amendment
 

@@ -88,7 +88,7 @@ Section 5(d) of Pub. L. 101–453, as amended by Pub. L. 102–589, §2(2)(A), (
 
 “(1)
 
-Secretary's efforts to enter agreements.—The Secretary of the Treasury shall make all reasonable efforts to enter into an agreement with each State under section 6503(b) of title 31, United States Code, as added by this section (relating to procedures and requirements for transfers of funds between executiveagencies and States), by July 1, 1993 or the first day of a State's fiscal year beginning in 1993, whichever is later.
+Secretary's efforts to enter agreements.—The Secretary of the Treasury shall make all reasonable efforts to enter into an agreement with each State under section 6503(b) of title 31, United States Code, as added by this section (relating to procedures and requirements for transfers of funds between executive agencies and States), by July 1, 1993 or the first day of a State's fiscal year beginning in 1993, whichever is later.
 
 “(2)
 

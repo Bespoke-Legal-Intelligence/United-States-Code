@@ -2,7 +2,7 @@
 
 #### (a) Laws governing
 
-The Secretary shall administer the park in accordance with the provisions of this subchapter and the provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title, and sections 461 to 467 of this title.
+The Secretary shall administer the park in accordance with the provisions of this subchapter and the provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (b) Protection, preservation, and maintenance of cultural resources
 
@@ -36,5 +36,5 @@ The Indian Self-Determination and Education Act, referred to in subsec. (f), pro
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives bysection 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

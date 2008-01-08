@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section, “member” and “Secretary concerned” have the meanings given them by section 101 of title 37.
 
-(b) A retired member of the armed forces may be appointed to a position in the civil service in or under the Department of Defense (including a nonappropriated fund instrumentality under the jurisdiction of the armed forces) during the period of 180 days immediately after his retirement only if—
+(b) A retired member of the armed forces may be appointed to a position in the civil service in or under the Department of Defense (including anonappropriated fund instrumentality under the jurisdiction of the armed forces) during the period of 180 days immediately after his retirement only if—
 
 &emsp;(1) the proposed appointment is authorized by the Secretary concerned or his designee for the purpose, and, if the position is in the competitive service, after approval by the Office of Personnel Management;
 

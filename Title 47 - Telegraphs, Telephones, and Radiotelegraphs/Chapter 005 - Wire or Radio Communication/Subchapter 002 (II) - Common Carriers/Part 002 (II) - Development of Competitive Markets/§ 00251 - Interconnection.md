@@ -60,7 +60,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 &emsp;The duty—
 
-&emsp;&emsp;(A) to offer for resale at wholesale rates any telecommunications service that thecarrier provides at retail to subscribers who are not telecommunications carriers; and
+&emsp;&emsp;(A) to offer for resale at wholesale rates any telecommunications service that the carrier provides at retail to subscribers who are not telecommunications carriers; and
 
 &emsp;&emsp;(B) not to prohibit, and not to impose unreasonable or discriminatory conditions or limitations on, the resale of such telecommunications service, except that a State commission may, consistent with regulations prescribed by the Commission under this section, prohibit a reseller that obtains at wholesale rates a telecommunications service that is available at retail only to a category of subscribers from offering such service to a different category of subscribers.
 
@@ -84,7 +84,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 &emsp;&emsp;(A) access to such network elements as are proprietary in nature is necessary; and
 
-&emsp;&emsp;(B) the failure to provide access to such network elements would impair the ability of the telecommunications carrier seeking access to provide the services that it seeks to offer.
+&emsp;&emsp;(B) the failure to provide access to such network elements would impair the ability of the telecommunications carrier seekingaccess to provide the services that it seeks to offer.
 
 #### (3) Preservation of State access regulations
 

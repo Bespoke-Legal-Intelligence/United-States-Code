@@ -38,7 +38,7 @@ The Secretary shall include in each report submitted under subsection (a) of thi
 
 &emsp;(2) descriptions of the qualifications of, and training provided to, individuals involved in carrying out such evaluations.
 
-(Pub. L. 93–415, title III, §382, formerly §315, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 96–509, §18(f), Dec. 8, 1980, 94 Stat. 2762; renumbered §317, Pub. L. 98–473, title II, §655(1), Oct. 12, 1984, 98 Stat. 2124; renumbered §361 and amended Pub. L. 100–690, title VII, §§7271(c)(5), 7273(c), (e)(2), 7274, Nov. 18, 1988, 102 Stat. 4453–4455, 4457; Pub. L. 101–204, title X, §1003(1), (2), Dec. 7, 1989, 103 Stat. 1827; renumbered §381 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (h), Nov. 4, 1992, 106 Stat. 5022, 5025; renumbered §382 and amended Pub. L. 106–71, §3(k), (q), Oct. 12, 1999, 113 Stat. 1039, 1042.)
+(Pub. L. 93–415, title III, §382, formerly §315, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 96–509, §18(f),Dec. 8, 1980, 94 Stat. 2762; renumbered §317, Pub. L. 98–473, title II, §655(1), Oct. 12, 1984, 98 Stat. 2124; renumbered §361 and amended Pub. L. 100–690, title VII, §§7271(c)(5), 7273(c), (e)(2), 7274, Nov. 18, 1988, 102 Stat. 4453–4455, 4457; Pub. L. 101–204, title X, §1003(1), (2), Dec. 7, 1989, 103 Stat. 1827; renumbered §381 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (h), Nov. 4, 1992, 106 Stat. 5022, 5025; renumbered §382 and amended Pub. L. 106–71, §3(k), (q), Oct. 12, 1999, 113 Stat. 1039, 1042.)
 
 #### Prior Provisions
 
@@ -59,6 +59,10 @@ Subsec. (b). Pub. L. 101–204, §1003(2), substituted “Not later than 180 day
 Subsec. (b). Pub. L. 100–690, §7273(c)(3), added subsec. (b).
 
 1980—Pub. L. 96–509 substituted “centers” for “houses”.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1988 Amendment
 

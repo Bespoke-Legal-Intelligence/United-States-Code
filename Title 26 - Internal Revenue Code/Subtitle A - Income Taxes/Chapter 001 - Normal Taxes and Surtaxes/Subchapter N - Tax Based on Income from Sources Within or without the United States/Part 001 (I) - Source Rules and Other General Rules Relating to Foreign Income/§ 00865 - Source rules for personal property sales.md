@@ -78,7 +78,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (2) Intangible
 
-&emsp;For purposes of paragraph (1), the term “intangible” means any patent, copyright, secret process or formula, goodwill, trademark, trade brand, franchise, or other like property.
+&emsp;For purposes of paragraph (1), the term “intangible” means any patent, copyright, secretprocess or formula, goodwill, trademark, trade brand, franchise, or other like property.
 
 #### (3) Special rule in the case of goodwill
 
@@ -88,7 +88,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) Gain not in excess of depreciation adjustments sourced under subsection (c)
 
-&emsp;&emsp;Notwithstanding paragraph (1), any gain from the sale of an intangible shall besourced under subsection (c) to the extent such gain does not exceed the depreciation adjustments with respect to such intangible.
+&emsp;&emsp;Notwithstanding paragraph (1), any gain from the sale of an intangible shall be sourced under subsection (c) to the extent such gain does not exceed the depreciation adjustments with respect to such intangible.
 
 #### (B) Subsection (c)(2) not to apply to intangibles
 
@@ -272,7 +272,7 @@ Subsec. (f). Pub. L. 100–647, §1012(d)(4), amended subsec. (f) generally. Pri
 
 &emsp;“(2) such affiliate is engaged in the active conduct of a trade or business, and
 
-&emsp;“(3) such sale occurs in the foreign country in which the affiliate derived more than 50 percent of its gross income for the 3-year period ending with the close of the affiliate's taxable year immediately preceding the year during which such sale occurred,
+&emsp;“(3) such sale occurs in the foreign country in which the affiliate derived more than 50 percent of itsgross income for the 3-year period ending with the close of the affiliate's taxable year immediately preceding the year during which such sale occurred,
 
 > any gain from such sale shall be sourced outside the United States.”
 

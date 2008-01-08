@@ -440,7 +440,7 @@ Treatment of renegotiations, etc.—For purposes of this paragraph, any loan ren
 
 &emsp;“(D)
 
-Definition of term and demand loans.—For purposes of this paragraph, the terms ‘demand loan’ and ‘term loan’ have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that the second sentence of such paragraph (5) shall not apply.”
+Definition of term and demand loans.—For purposes of this paragraph, the terms ‘demand loan’and ‘term loan’ have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that the second sentence of such paragraph (5) shall not apply.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

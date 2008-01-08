@@ -18,7 +18,7 @@ The purpose of the Initiative is to provide funds to enable the Director of NIH�
 
 In carrying out subsection (b) of this section, the Director of NIH shall—
 
-&emsp;(1) consult with the Director of the National Institute of Child Health and Human Development and the other national research institutes, in considering their requests for new or expanded pediatric research efforts, and consult with the Administrator of the Health Resources and Services Administration and other advisors as the Director determines to be appropriate;
+&emsp;(1) consult with the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development and the other national research institutes, in considering their requests for new or expanded pediatric research efforts, and consult with the Administrator of the Health Resources and Services Administration and other advisors as the Director determines to be appropriate;
 
 &emsp;(2) have broad discretion in the allocation of any Initiative assistance among the Institutes, among types of grants, and between basic and clinical research so long as the assistance is directly related to the illnesses and conditions of children; and
 
@@ -28,7 +28,7 @@ In carrying out subsection (b) of this section, the Director of NIH shall—
 
 The Director of NIH may transfer amounts appropriated under this section to any of the Institutes for a fiscal year to carry out the purposes of the Initiative under this section.
 
-(July 1, 1944, ch. 373, title IV, §409D, as added Pub. L. 106–310, div. A, title X, §1001, Oct. 17, 2000, 114 Stat. 1127; amended Pub. L. 109–482, title I, §103(b)(10), Jan. 15, 2007, 120 Stat. 3687.)
+(July 1, 1944, ch. 373, title IV, §409D, as added Pub. L. 106–310, div. A, title X, §1001, Oct. 17, 2000, 114 Stat. 1127; amended Pub. L. 109–482, title I, §103(b)(10), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–154, §1(b)(4), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### Codification
 
@@ -36,7 +36,9 @@ Another section 409D of act July 1, 1944, was renumbered section 409H and is cla
 
 #### Amendments
 
-2007—Subsecs. (d), (e). Pub. L. 109–482 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, andsuch sums as may be necessary for each of the fiscal years 2002 through 2005.”
+2007—Subsec. (c)(1). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+
+Subsecs. (d), (e). Pub. L. 109–482 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005.”
 
 #### Effective Date of 2007 Amendment
 

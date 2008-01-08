@@ -6,7 +6,7 @@ There are authorized to be appropriated $35,000,000 for fiscal year 1999 and suc
 
 #### Prior Provisions
 
-A prior section 1135e, Pub. L. 89–329, title X, §1061, as added Pub. L. 99–498, title X, §1003, Oct. 17, 1986, 100 Stat. 1567; amended Pub. L. 102–325, title X, §1003, July 23, 1992, 106 Stat. 781, stated purpose of women and minorities science and engineering outreach demonstration program, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
+A prior section 1135e, Pub. L. 89–329, title X, §1061, as added Pub. L. 99–498, title X, §1003, Oct. 17, 1986, 100 Stat. 1567; amended Pub. L. 102–325, title X, §1003, July23, 1992, 106 Stat. 781, stated purpose of women and minorities science and engineering outreach demonstration program, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
 A prior section 716 of Pub. L. 89–329 was classified to section 1132b–5 of this title, prior to the general amendment of this subchapter by Pub. L. 105–244.
 

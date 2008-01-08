@@ -10,3 +10,6 @@
 - [&sect; 01803 - Delegation of authority](%C2%A7%2001803%20-%20Delegation%20of%20authority.md)
 - [&sect; 01804 - Deputy Architect of the Capitol to act in case of absence, disability, or vacancy](%C2%A7%2001804%20-%20Deputy%20Architect%20of%20the%20Capitol%20to%20act%20in%20case%20of%20absence%2C%20disability%2C%20or%20vacancy.md)
 - [&sect; 01805 - Deputy Architect of the Capitol-Chief Operating Officer](%C2%A7%2001805%20-%20Deputy%20Architect%20of%20the%20Capitol-Chief%20Operating%20Officer.md)
+- [&sect; 01806 - Chief Executive Officer for Visitor Services](%C2%A7%2001806%20-%20Chief%20Executive%20Officer%20for%20Visitor%20Services.md)
+- [&sect; 01807 - Assistant to the Chief Executive Officer for Visitor Services](%C2%A7%2001807%20-%20Assistant%20to%20the%20Chief%20Executive%20Officer%20for%20Visitor%20Services.md)
+- [&sect; 01808 - Inspector General of the Architect of the Capitol](%C2%A7%2001808%20-%20Inspector%20General%20of%20the%20Architect%20of%20the%20Capitol.md)

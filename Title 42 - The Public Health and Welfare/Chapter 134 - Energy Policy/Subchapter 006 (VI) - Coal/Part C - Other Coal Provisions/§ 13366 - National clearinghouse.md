@@ -14,7 +14,7 @@
 
 &emsp;(D) organizing and conducting seminars for government officials, utilities, coal companies, and other entities or institutions relating to technology using coal and coal-derived fuels that will improve environmental quality and increase energy independence;
 
-&emsp;(E) gathering information on research grants made for the purpose of improving or enhancing technology relating to the use of coal, and coal-derived fuels, which will improve environmental quality and increase energy independence;
+&emsp;(E) gathering information on research grants made for the purpose of improving orenhancing technology relating to the use of coal, and coal-derived fuels, which will improve environmental quality and increase energy independence;
 
 &emsp;(F) translating into English foreign research papers, articles, seminar proceedings, test results that affect, or could affect, clean coal use technology, and other documents;
 

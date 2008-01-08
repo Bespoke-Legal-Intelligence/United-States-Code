@@ -58,7 +58,7 @@ In this subchapter:
 
 #### (13) Madrid Protocol
 
-&emsp;The term “Madrid Protocol” means the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks, adopted at Madrid, Spain, on June 27, 1989.
+&emsp;The term “Madrid Protocol” means the Protocol Relating to the Madrid Agreement Concerning the International Registration ofMarks, adopted at Madrid, Spain, on June 27, 1989.
 
 #### (14) Notification of refusal
 

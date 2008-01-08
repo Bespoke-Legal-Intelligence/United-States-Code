@@ -30,7 +30,7 @@ The Secretary shall report annually to the President and the Congress on actions
 
 2000—Pub. L. 106–469 amended section generally. Prior to amendment, section required the Secretary to report to the President and to Congress, not later than one year after the transmittal of the Strategic Petroleum Reserve Plan to the Congress and each year thereafter, on all actions taken to implement this part.
 
-1995—Pub. L. 104–66 struck out subsec. (a) designation before “The Secretary shall”, and struck out subsec. (b) which directed Secretary to report to Congress on activities undertaken with respect to Strategic Petroleum Reserve under the amendments made by Strategic Petroleum Reserve Amendments Act of 1981.
+1995—Pub. L. 104–66 struck out subsec. (a) designation before “The Secretary shall”, and struck out subsec.\(b) which directed Secretary to report to Congress on activities undertaken with respect to Strategic Petroleum Reserve under the amendments made by Strategic Petroleum Reserve Amendments Act of 1981.
 
 1986—Subsec. (a)(1). Pub. L. 99–509 amended par. (1) generally, inserting “, including” in introductory text and adding subpars. (A) to (G).
 
@@ -48,7 +48,7 @@ Pub. L. 97–229, §6, Aug. 3, 1982, 96 Stat. 253, provided that:
 
 “(a)
 
-Impact Analysis.—(1) The Secretary of Energy shall analyze the impact on the domestic economy and on consumers in the United States of reliance on market allocation and pricing during any substantial reduction in the amount of petroleum products available to the United States. In making such analysis, the Secretary of Energy may consult with the Secretary of the Treasury, the Secretary of Agriculture, the Director of the Office of Management and Budget, and the heads ofother appropriate Federal agencies. Such analysis shall—
+Impact Analysis.—(1) The Secretary of Energy shall analyze the impact on the domestic economy and on consumers in the United States of reliance on market allocation and pricing during any substantial reduction in the amount of petroleum products available to the United States. In making such analysis, the Secretary of Energy may consult with the Secretary of the Treasury, the Secretary of Agriculture, the Director of the Office of Management and Budget, and the heads of other appropriate Federal agencies. Such analysis shall—
 
 &emsp;“(A) examine the equity and efficiency of such reliance,
 

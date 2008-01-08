@@ -1,6 +1,6 @@
 ### §525. Covering proceeds into reclamation fund
 
-The moneys received in pursuance of the contracts authorized by sections 523 and 524 of this title shall be covered into the reclamation fund and be available for use under the terms of the reclamation Act and the Acts amendatory thereof or supplementary thereto.
+The moneys received in pursuance of the contracts authorized by sections 523 and 524 of thistitle shall be covered into the reclamation fund and be available for use under the terms of the reclamation Act and the Acts amendatory thereof or supplementary thereto.
 
 (Feb. 21, 1911, ch. 141, §3, 36 Stat. 926.)
 

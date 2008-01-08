@@ -42,7 +42,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;The term “child with a disability” for a child aged 3 through 9 (or any subset of that age range, including ages 3 through 5), may, at the discretion of the State and the local educational agency, include a child—
 
-&emsp;&emsp;&emsp;(i) experiencing developmental delays, as defined by the State and as measured by appropriate diagnostic instruments and procedures, in 1 or more of the following areas: physical development; cognitive development; communication development; social or emotional development; or adaptive development; and
+&emsp;&emsp;&emsp;(i) experiencing developmental delays, as defined by the State and as measured byappropriate diagnostic instruments and procedures, in 1 or more of the following areas: physical development; cognitive development; communication development; social or emotional development; or adaptive development; and
 
 &emsp;&emsp;&emsp;(ii) who, by reason thereof, needs special education and related services.
 
@@ -124,7 +124,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;When used with respect to a special education teacher who teaches core academic subjects exclusively to children who are assessed against alternate achievement standards established under the regulations promulgated under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(b)(1)\], such term means the teacher, whether new or not new to the profession, may either—
 
-&emsp;&emsp;&emsp;(i) meet the applicable requirements of section 9101 of such Act \[20 U.S.C. 7801\] for any elementary, middle, or secondary school teacher who is new or not new to the profession; or
+&emsp;&emsp;&emsp;(i) meet the applicable requirements of section 9101 of such Act \[20 U.S.C. 7801\] forany elementary, middle, or secondary school teacher who is new or not new to the profession; or
 
 &emsp;&emsp;&emsp;(ii) meet the requirements of subparagraph (B) or (C) of section 9101(23) of such Act as applied to an elementary school teacher, or, in the case of instruction above the elementary level, has subject matter knowledge appropriate to the level of instruction being provided, as determined by the State, needed to effectively teach to those standards.
 
@@ -312,7 +312,7 @@ Except as otherwise provided, in this chapter:
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in pars. (8)(A)(ii), (iii) and (10)(F), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. Parts A and B of title III of the Act are classified generally to parts A (§6811 et seq.)and B (§6891 et seq.), respectively, of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in pars. (8)(A)(ii), (iii) and (10)(F), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. Parts A and B of title III of the Act are classified generally to parts A (§6811 et seq.) and B (§6891 et seq.), respectively, of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

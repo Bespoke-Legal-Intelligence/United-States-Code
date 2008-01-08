@@ -124,7 +124,7 @@ Section 8(b) of the Soil Conservation and Allotment Act, referred to in subsec. 
 
 Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(C)(i), is classified to section 610(b) of Title 7, Agriculture.
 
-The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act is classified tosection 2864(a)(2)(A) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act is classified to section 2864(a)(2)(A) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 
@@ -198,7 +198,7 @@ Mckinney-vento homeless assistance act.—The amendments made by subsection (e) 
 
 &emsp;“(B)
 
-Job training partnership act.—The amendments made by subsection (f) \[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636 and 3116 of Title 15, Commerce and Trade, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 6365, 6434, 6453, and 6455 of Title 20, Education, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6864, 6873, 7274h, 9806, 11302, 12653c, 12655m, 12899c, and 13823 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2501, 2687, and 2701 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38\] shall take effect on July 1, 2000.”
+Job training partnership act.—The amendments made by subsection (f) \[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636 and 3116 of Title 15, Commerce and Trade, sections 2296 and 2311 of Title 19,Customs Duties, sections 1070d–2, 1087vv, 6365, 6434, 6453, and 6455 of Title 20, Education, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6864, 6873, 7274h, 9806, 11302, 12653c, 12655m, 12899c, and 13823 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2501, 2687, and 2701 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38\] shall take effect on July 1, 2000.”
 
 #### Effective Date of 1996 Amendment
 

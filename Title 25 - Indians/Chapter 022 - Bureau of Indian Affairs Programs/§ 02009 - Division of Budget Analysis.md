@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than 1 year after January 8, 2002, the Secretary shall establish within the Office of Indian Education Programs a Division of BudgetAnalysis (hereafter in this section referred to as the “Division”). Such Division shall be under the direct supervision and control of the Director of the Office.
+Not later than 1 year after January 8, 2002, the Secretary shall establish within the Office of Indian Education Programs a Division of Budget Analysis (hereafter in this section referred to as the “Division”). Such Division shall be under the direct supervision and control of the Director of the Office.
 
 #### (b) Functions
 
@@ -10,7 +10,7 @@ In consultation with the tribal governing bodies and tribal school boards, the D
 
 #### (c) Annual reports
 
-Not later than the date on which the Assistant Secretary for Indian Affairs makes the annual budget submission, for each fiscal year after January 8, 2002, the Director of the Office shall submit to the appropriate committees of Congress (including the Appropriations committees), all Bureau-funded schools, and the tribal governing bodies of such schools, a report that contains—
+Not later than the date on which the Assistant Secretary for Indian Affairs makes the annual budget submission, for each fiscal year after January 8, 2002, the Director of the Office shall submit to the appropriate committees of Congress (including the Appropriations committees), all Bureau-funded schools, and the tribalgoverning bodies of such schools, a report that contains—
 
 &emsp;(1) projections, based upon the information gathered pursuant to subsection (b) of this section and any other relevant information, of amounts necessary to provide Indian students in Bureau-funded schools the educational program set forth in this chapter;
 

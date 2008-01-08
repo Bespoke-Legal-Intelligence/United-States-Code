@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;The President may reduce the amount owed to the United States (or any agency of the United States) that is outstanding as of January 1, 1998, as a result of concessional loans made to an eligible country by the United States under subchapter I of this chapter, part IV of subchapter II of this chapter, or predecessor foreign economic assistance legislation.
+&emsp;The President may reduce the amount owed to the United States (or any agency of the United States) that is outstanding as of January 1, 1998, as a result of concessional loansmade to an eligible country by the United States under subchapter I of this chapter, part IV of subchapter II of this chapter, or predecessor foreign economic assistance legislation.
 
 #### (2) Authorization of appropriations
 

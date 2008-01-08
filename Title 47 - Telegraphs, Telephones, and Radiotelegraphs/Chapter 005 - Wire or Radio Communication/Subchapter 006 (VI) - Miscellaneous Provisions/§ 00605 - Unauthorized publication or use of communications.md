@@ -6,7 +6,7 @@ Except as authorized by chapter 119, title 18, no person receiving, assisting in
 
 #### (b) Exceptions
 
-The provisions of subsection (a) of this section shall not apply to the interception or receipt by any individual, or the assisting (including the manufacture or sale) of such interception or receipt, of any satellite cable programming for private viewing if—
+The provisions of subsection (a) of this section shall not apply to the interception or receipt byany individual, or the assisting (including the manufacture or sale) of such interception or receipt, of any satellite cable programming for private viewing if—
 
 &emsp;(1) the programming involved is not encrypted; and
 
@@ -36,7 +36,7 @@ For purposes of this section—
 
 &emsp;(5) the term “private financial gain” shall not include the gain resulting to any individual for the private use in such individual's dwelling unit of any programming for which the individual has not obtained authorization for that use; and
 
-&emsp;(6) the term “any person aggrieved” shall include any person with proprietary rights in the intercepted communication by wire or radio, including wholesale or retail distributors of satellite cable programming, and, in the case of a violation of paragraph (4) of subsection (e) of this section, shall also includeany person engaged in the lawful manufacture, distribution, or sale of equipment necessary to authorize or receive satellite cable programming.
+&emsp;(6) the term “any person aggrieved” shall include any person with proprietary rights in the intercepted communication by wire or radio, including wholesale or retail distributors of satellite cable programming, and, in the case of a violation of paragraph (4) of subsection (e) of this section, shall also include any person engaged in the lawful manufacture, distribution, or sale of equipment necessary to authorize or receive satellite cable programming.
 
 #### (e) Penalties; civil actions; remedies; attorney's fees and costs; computation of damages; regulation by State and local authorities
 

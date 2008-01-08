@@ -116,7 +116,7 @@ In subsection (b)(1)(E), the word “mail” is omitted as being included in “
 
 #### References in Text
 
-The date of the enactment of the Aviation and Transportation Security Act, referred to in subsec. (c)(4), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+The date of the enactment of the Aviation and Transportation Security Act, referred to in subsec. (c)(4), isthe date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
 #### Amendments
 
@@ -168,11 +168,11 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 #### Research and Development of Aviation Security Technology
 
-Pub. L. 107–71, title I, §137, Nov. 19, 2001, 115 Stat. 637, provided that:
+Pub. L. 107–71, title I, §137, Nov. 19, 2001, 115 Stat. 637, as amended by Pub. L. 110–53, title XVI, §1608, Aug. 3, 2007, 121 Stat. 484, provided that:
 
 “(a)
 
-Funding.—To augment the programs authorized in section 44912(a)(1) of title 49, United States Code, there is authorized to be appropriated an additional $50,000,000 for each of fiscal years 2002 through 2006 and such sums as are necessary for each fiscal year thereafter to the Transportation Security Administration, for research, development, testing, and evaluation of the following technologies which may enhance aviation security in the future. Grants to industry, academia, and Government entities to carry out the provisions of this section shall be available for fiscal years 2002 and 2003 for—
+Funding.—To augment the programs authorized in section 44912(a)(1) of title 49, United States Code, there is authorized to be appropriated an additional $50,000,000 for each of fiscal years 2006 through 2011 and such sums as are necessary for each fiscal year thereafter to the Transportation Security Administration, for research, development, testing, and evaluation of the following technologies which may enhance transportation security in the future. Grants to industry, academia, and Government entities to carry out the provisions of this section shall be available for fiscal years 2006 through 2011 for—
 
 &emsp;“(1) the acceleration of research, development, testing, and evaluation of explosives detection technology for checked baggage, specifically, technology that is—
 
@@ -200,7 +200,7 @@ Grants.—Grants awarded under this subtitle \[probably should be “this sectio
 
 “(c)
 
-Budget Submission.—A budget submission and detailed strategy for deploying the identified security upgrades recommended upon completion of the grants awarded under subsection (b), shall be submitted to Congress as part of the Department of Transportation's annual budget submission.
+Budget Submission.—A budget submission and detailed strategy for deploying the identified security upgrades recommended upon completion of the grantsawarded under subsection (b), shall be submitted to Congress as part of the Department of Transportation's annual budget submission.
 
 “(d)
 

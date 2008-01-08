@@ -2,7 +2,7 @@
 
 #### (a) Establishment of retention categories for purposes of reduction-in-force procedures
 
-For purposes of applying reduction-in-force procedures under subsection (a) of section 3502 of title 5 with respect to positions within the Bureau of Indian Affairs and the Indian Health Service, the competitive and excepted serviceretention registers shall be combined, and any employee entitled to Indian preference who is within a retention category established under regulations prescribed under such subsection to provide due effect to military preference shall be entitled to be retained in preference to other employees not entitled to Indian preference who are within such retention category.
+For purposes of applying reduction-in-force procedures under subsection (a) of section 3502 of title 5 with respect to positions within the Bureau of Indian Affairs and the Indian Health Service, the competitive and excepted service retention registers shall be combined, and any employee entitled to Indian preference who is within a retention category established under regulations prescribed under such subsection to provide due effect to military preference shall be entitled to be retained in preference to other employees not entitled to Indian preference who are within such retention category.
 
 #### (b) Reassignment of employees other than to positions in higher grades; authority to make determinations respecting
 
@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the recognized governing body of any Indian tribe, band, nation, pueblo, or other organized community, including a Native village (as defined in section 1602(c) of title 43); or
 
-&emsp;&emsp;(B) in connection with any personnel action referred to in subsection (c)(1) of this section, any legally established organization of Indians which is controlled, sanctioned, or chartered by a governing body referred to in subparagraph (A) of this paragraph and which has been delegated by such governing body the authority to grant a waiver under such subsection with respect to such personnel action.
+&emsp;&emsp;(B) in connection with any personnel action referred to in subsection (c)(1) of this section, any legally established organizationof Indians which is controlled, sanctioned, or chartered by a governing body referred to in subparagraph (A) of this paragraph and which has been delegated by such governing body the authority to grant a waiver under such subsection with respect to such personnel action.
 
 &emsp;(2) The term “Indian preference laws” means section 472 of this title or any other provision of law granting a preference to Indians in promotions and other personnel actions.
 
@@ -52,7 +52,7 @@ Section 2011(f) of this title, referred to in subsec. (c)(2), was in the origina
 
 Pub. L. 105–362, §801(e)(1), (2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Secretaries of the Interior and Health and Human Services shall each submit to the Congress a report following the close of each fiscal year with respect to the actions which they took in such fiscal year to recruit and train Indians to qualify such Indians for positions which are subject to preference under the Indian preference laws. Such report shall also include information as to the grade levels and occupational classifications of Indian and non-Indian employees in the Bureau of Indian Affairs and the Indian Health Service.”
 
-Subsec. (e). Pub. L. 105–362, §1302(d), which directed the amendment of subsec. (e) by striking out par. (1)designation after “(e)” and striking out par. (2), could not be executed because par. (1) designation did not immediately follow “(e)” subsequent to amendment by Pub. L. 105–362, §801(e)(2). See above.
+Subsec. (e). Pub. L. 105–362, §1302(d), which directed the amendment of subsec. (e) by striking out par. (1) designation after “(e)” and striking out par. (2), could not be executed because par. (1) designation did not immediately follow “(e)” subsequent to amendment by Pub. L. 105–362, §801(e)(2). See above.
 
 Pub. L. 105–362, §801(e)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 

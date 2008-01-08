@@ -52,7 +52,7 @@ The preceding provisions of this section may be enforced through the Office of t
 
 #### Amendments
 
-2004—Pub. L. 108–203, §204(a)(2), substituted “Prohibitions relating to references” for “Prohibition of misuse of symbols, emblems, or names in reference” in section catchline.
+2004—Pub. L. 108–203, §204(a)(2), substituted “Prohibitions relating to references” for “Prohibition of misuseof symbols, emblems, or names in reference” in section catchline.
 
 Subsec. (a)(1). Pub. L. 108–203, §207(a)(3), which directed the substitution of “the Centers for Medicare \& Medicaid Services,” for “the Health Care Financing Administration,” wherever appearing in concluding provisions, could not be executed because “the Health Care Financing Administration,” did not appear subsequent to amendment by Pub. L. 108–173, §900(e)(1)(B)(i). See 2003 Amendment note below.
 
@@ -74,7 +74,7 @@ Subsec. (a)(1)(B). Pub. L. 108–173, §900(e)(1)(B)(iii), substituted “Center
 
 Subsec. (a)(1). Pub. L. 103–296, §312(c), (d), in closing provisions substituted “convey, or in a manner which reasonably could be interpreted or construed as conveying,” for “convey” and inserted at end “The preceding provisions of this subsection shall not apply with respect to the use by any agency or instrumentality of a State or political subdivision of a State of any words or letters which identify an agency or instrumentality of such State or of a political subdivision of such State or the use by any such agency or instrumentality of any symbol or emblem of an agency or instrumentality of such State or a political subdivision of such State.”
 
-Subsec. (a)(1)(A). Pub. L. 103–296, §312(b)(1), substituted “Administration’, ‘Department of Health and Human Services’, ‘Health and Human Services’, ‘Supplemental Security Income Program’, or ‘Medicaid’,the letters ‘SSA’, ‘HCFA’, ‘DHHS’, ‘HHS’, or ‘SSI’,” for “Administration’, the letters ‘SSA’ or ‘HCFA’,”.
+Subsec. (a)(1)(A). Pub. L. 103–296, §312(b)(1), substituted “Administration’, ‘Department of Health and Human Services’, ‘Health and Human Services’, ‘Supplemental Security Income Program’, or ‘Medicaid’, the letters ‘SSA’, ‘HCFA’, ‘DHHS’, ‘HHS’, or ‘SSI’,” for “Administration’, the letters ‘SSA’ or ‘HCFA’,”.
 
 Subsec. (a)(1)(B). Pub. L. 103–296, §312(b)(2), substituted “Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services” for “Social Security Administration” in two places, struck out “or of the Health Care Financing Administration” before “, or any other”, and inserted “or the Medicare card,” after “section 405(c)(2)(F) of this title”.
 
@@ -138,7 +138,7 @@ In general.—The Secretary of Health and Human Services and the Commissioner of
 
 &emsp;“(D) the total amount of civil money penalties assessed by the Social Security Administration or the Department under this section during the period,
 
-&emsp;“(E) the number of requests for hearings filed during the period by the Social Security Administrationor the Department pursuant to sections 1140(c)(1) \[subsec. (c)(1) of this section\] and 1128A(c)(2) \[section 1320a–7a(c)(2) of this title\] of the Social Security Act,
+&emsp;“(E) the number of requests for hearings filed during the period by the Social Security Administration or the Department pursuant to sections 1140(c)(1) \[subsec. (c)(1) of this section\] and 1128A(c)(2) \[section 1320a–7a(c)(2) of this title\] of the Social Security Act,
 
 &emsp;“(F) the disposition during the period of hearings filed pursuant to sections 1140(c)(1) and 1128A(c)(2) of the Social Security Act, and
 

@@ -4,7 +4,7 @@
 
 (b) With respect to any loan guaranteed, insured, or made under chapter 37 of this title, the Secretary shall, except as provided in subsection (c) of this section, waive payment of an indebtedness to the Department by the veteran (as defined in sections 101, 3701, and 3702(a)(2)(C)(ii) of this title), or the veteran's spouse, following default and loss of the property, where the Secretary determines that collection of such indebtedness would be against equity and good conscience. An application for relief under this subsection must be made within one year after the date on which the veteran receives notice by certified mail with return receipt requested from the Secretary of the indebtedness. The Secretary shall include in the notification a statement of the right of the veteran to submit an application for a waiver under this subsection and a description of the procedures for submitting the application.
 
-(c) The recovery of any payment or the collection of any indebtedness (or any interest thereon) may not be waived under this section if, in the Secretary's opinion, there exists in connection with the claim for such waiver an indication of fraud, misrepresentation or bad faith on the part of the person or persons having an interest in obtaining a waiver of such recovery or the collection of such indebtedness (or any interest thereon).
+(c) The recovery of any payment or the collection of any indebtedness (or any interest thereon) may not be waived under this section if, in the Secretary's opinion, there exists in connection with the claim for such waiver an indication of fraud, misrepresentation or bad faith on the part of the person or persons having an interest in obtaining a waiver of such recovery orthe collection of such indebtedness (or any interest thereon).
 
 (d) No certifying or disbursing officer shall be liable for any amount paid to any person where the recovery of such amount is waived under subsection (a) or (b).
 
@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary's” 
 
 1989—Subsec. (b). Pub. L. 101–237, §311(1), substituted “shall, except as provided in subsection (c) of this section,” for “may”.
 
-Subsec. (c). Pub. L. 101–237, §311(2), substituted “The recovery of any payment or the collection of any indebtedness (or any interest thereon) may not be waived under this section” for “The Administrator may not exercise the Administrator's authority under subsection (a) or (b) of this section to waive recovery of any payment or the collection of any indebtedness (orany interest thereon)” and substituted “or bad faith” for “, material fault, or lack of good faith”.
+Subsec. (c). Pub. L. 101–237, §311(2), substituted “The recovery of any payment or the collection of any indebtedness (or any interest thereon) may not be waived under this section” for “The Administrator may not exercise the Administrator's authority under subsection (a) or (b) of this section to waive recovery of any payment or the collection of any indebtedness (or any interest thereon)” and substituted “or bad faith” for “, material fault, or lack of good faith”.
 
 1986—Subsec. (b). Pub. L. 99–576, §701(69)(A), substituted “the veteran's” for “his” before “spouse”.
 

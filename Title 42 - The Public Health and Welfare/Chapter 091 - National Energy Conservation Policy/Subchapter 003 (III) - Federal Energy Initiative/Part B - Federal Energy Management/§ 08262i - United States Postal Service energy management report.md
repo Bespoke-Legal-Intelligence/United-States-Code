@@ -1,6 +1,6 @@
 ### §8262i. United States Postal Service energy management report
 
-Not later than one year after October 24, 1992, and not later than January 1 of each year thereafter, the Postmaster General shall submit a report to the Committee on Governmental Affairsand the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce and the Committee on Post Office and Civil Service of the House of Representatives on the United States Postal Service's building management program as it relates to energy efficiency. The report shall include, but not be limited to—
+Not later than one year after October 24, 1992, and not later than January 1 of each year thereafter, the Postmaster General shall submit a report to the Committee on Governmental Affairs and the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce and the Committee on Post Office and Civil Service of the House of Representatives on the United States Postal Service's building management program as it relates to energy efficiency. The report shall include, but not be limited to—
 
 &emsp;(1) a description of actions taken to reduce energy consumption;
 
@@ -26,5 +26,5 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Abolition of House Committee on Post Office and Civil Service
 
-Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

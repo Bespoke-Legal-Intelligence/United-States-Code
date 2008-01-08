@@ -4,7 +4,7 @@
 
 (1)(A) An annual report shall be published with respect to every employee benefit plan to which this part applies. Such report shall be filed with the Secretary in accordance with section 1024(a) of this title, and shall be made available and furnished to participants in accordance with section 1024(b) of this title.
 
-(B) The annual report shall include the information described in subsections (b) and (c) ofthis section and where applicable subsections (d) and (e) of this section and shall also include—
+(B) The annual report shall include the information described in subsections (b) and (c) and where applicable subsections (d), (e), and (f) and shall also include—
 
 &emsp;(i) a financial statement and opinion, as required by paragraph (3) of this subsection, and
 
@@ -52,9 +52,9 @@
 
 An annual report under this section shall include a financial statement containing the following information:
 
-(1) With respect to an employee welfare benefit plan: a statement of assets and liabilities; a statement of changes in fund balance; and a statement of changes in financial position. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; a description of materiallease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of the plan.
+(1) With respect to an employee welfare benefit plan: a statement of assets and liabilities; a statement of changes in fund balance; and a statement of changes in financial position. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of the plan.
 
-(2) With respect to an employee pension benefit plan: a statement of assets and liabilities, and a statement of changes in net assets available for plan benefits which shall include details of revenues and expenses and other changes aggregated by general source and application. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; the funding policy (including policy with respect to prior service cost), and any changes in such policies during the year; a description of any significant changes in plan benefits made during the period; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of such pension plan.
+(2) With respect to an employee pension benefit plan: a statement of assets and liabilities, and a statement of changes in net assets available for plan benefits which shall include details of revenues and expenses and other changes aggregated by general source and application. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of suchchanges on benefits; the funding policy (including policy with respect to prior service cost), and any changes in such policies during the year; a description of any significant changes in plan benefits made during the period; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of such pension plan.
 
 (3) With respect to all employee benefit plans, the statement required under paragraph (1) or (2) shall have attached the following information in separate schedules:
 
@@ -130,7 +130,7 @@ With respect to an employee pension benefit plan (other than (A) a profit sharin
 
 &emsp;&emsp;(A) that to the best of his knowledge the report is complete and accurate, and
 
-&emsp;&emsp;(B) the requirements of section 1082(c)(3) of this title (relating to reasonable actuarial assumptions and methods) have been complied with.
+&emsp;&emsp;(B) the applicable requirements of sections 1083(h) and 1084(c)(3) of this title (relating to reasonable actuarial assumptions and methods) have been complied with.
 
 &emsp;(9) A copy of the opinion required by subsection (a)(4) of this section.
 
@@ -142,11 +142,19 @@ With respect to an employee pension benefit plan (other than (A) a profit sharin
 
 > &emsp;but only if, to the best of the actuary's knowledge, such event or trend may require a material increase in plan costs or required contribution rates.
 
-&emsp;(11) If the current value of the assets of the plan is less than 70 percent of the current liability under the plan (within the meaning of section 1082(d)(7) of this title), the percentage which such value is of such liability..<sup>1</sup>
+&emsp;(11) If the current value of the assets of the plan is less than 70 percent of—
 
-&emsp;(12) Such other information regarding the plan as the Secretary may by regulation require.
+&emsp;&emsp;(A) in the case of a single-employer plan, the funding target (as defined in section 1083(d)(1) of this title) of the plan, or
 
-&emsp;(13) Such other information as may be necessary to fully and fairly disclose the actuarial position of the plan.
+&emsp;&emsp;(B) in the case of a multiemployer plan, the current liability (as defined in section 1084(c)(6)(D) of this title) under the plan,
+
+> &emsp;the percentage which such value is of the amount described in subparagraph (A) or (B).
+
+&emsp;(12) A statement explaining the actuarial assumptions and methods used in projecting future retirements and forms of benefit distributions under the plan.
+
+&emsp;(13) Such other information regarding the plan as the Secretary may by regulation require.
+
+&emsp;(14) Such other information as may be necessary to fully and fairly disclose the actuarial position of the plan.
 
 > Such actuary shall make an actuarial valuation of the plan for every third plan year, unless he determines that a more frequent valuation is necessary to support his opinion under subsection (a)(4) of this section.
 
@@ -158,77 +166,61 @@ If some or all of the benefits under the plan are purchased from and guaranteed 
 
 &emsp;(2) the total amount of premiums received, the approximate number of persons covered by each class of benefits, and the total claims paid by such company, service, or other organization; dividends or retroactive rate adjustments, commissions, and administrative service or other fees or other specific acquisition costs paid by such company, service, or other organization; any amounts held to provide benefits after retirement; the remainder of such premiums; and the names and addresses of the brokers, agents, or other persons to whom commissions or fees were paid, the amount paid to each, and for what purpose. If any such company, service, or other organization does not maintain separate experience records covering the specific groups it serves, the report shall include in lieu of the information required by the foregoing provisions of this paragraph (A) a statement as to the basis of its premium rate or subscription charge, the total amount of premiums or subscription charges received from the plan, and a copy of the financial report of the company, service, or other organization and (B) if such company, service, or organization incurs specific costs in connection with the acquisition or retention of any particular plan or plans, a detailed statement of such costs.
 
+#### (f) Additional information with respect to defined benefit plans
+
+#### (1) Liabilities under 2 or more plans
+
+#### (A) In general
+
+&emsp;&emsp;In any case in which any liabilities to participants or their beneficiaries under a defined benefit plan as of the end of a plan year consist (in whole or in part) of liabilities to such participants and beneficiaries under 2 or more pension plans as of immediately before such plan year, an annual report under this section for such plan year shall include the funded percentage of each of such 2 or more pension plans as of the last day of such plan year and the funded percentage of the plan with respect to which the annual report is filed as of the last day of such plan year.
+
+#### (B) Funded percentage
+
+&emsp;&emsp;For purposes of this paragraph, the term “funded percentage”—
+
+&emsp;&emsp;&emsp;(i) in the case of a single-employer plan, means the funding target attainment percentage, as defined in section 1083(d)(2) of this title, and
+
+&emsp;&emsp;&emsp;(ii) in the case of a multiemployer plan, has the meaning given such term in section 1085(i)(2) of this title.
+
+#### (2) Additional information for multiemployer plans
+
+&emsp;With respect to any defined benefit plan which is a multiemployer plan, an annual report under this section for a plan year shall include, in addition to the information required under paragraph (1), the following, as of the end of the plan year to which the report relates:
+
+&emsp;&emsp;(A) The number of employers obligated to contribute to the plan.
+
+&emsp;&emsp;(B) A list of the employers that contributed more than 5 percent of the total contributions to the plan during such plan year.
+
+&emsp;&emsp;(C) The number of participants under the plan on whose behalf no contributions were made by an employer as an employer of the participant for such plan year and for each of the 2 preceding plan years.
+
+&emsp;&emsp;(D) The ratios of—
+
+&emsp;&emsp;&emsp;(i) the number of participants under the plan on whose behalf no employer had an obligation to make an employer contribution during the plan year, to
+
+&emsp;&emsp;&emsp;(ii) the number of participants under the plan on whose behalf no employer had an obligation to make an employer contribution during each of the 2 preceding plan years.
+
+&emsp;&emsp;(E) Whether the plan received an amortization extension under section 1084(d) of this title or section 431(d) of title 26 for such plan year and, if so, the amount of the difference between the minimum required contribution for the year and the minimum required contribution which would have been required without regard to the extension, and the period of such extension.
+
+&emsp;&emsp;(F) Whether the plan used the shortfall funding method (as such term is used in section 1085 of this title) for such plan year and, if so, the amount of the difference between the minimum required contribution for the year and the minimum required contribution which would have been required without regard to the use of such method, and the period of use of such method.
+
+&emsp;&emsp;(G) Whether the plan was in critical or endangered status under section 1085 of this title for such plan year, and if so, a summary of any funding improvement or rehabilitation plan (or modification thereto) adopted during the plan year, and the funded percentage of the plan.
+
+&emsp;&emsp;(H) The number of employers that withdrew from the plan during the preceding plan year and the aggregate amount of withdrawal liability assessed, or estimated to be assessed, against such withdrawn employers.
+
+&emsp;&emsp;(I) In the case of a multiemployer plan that has merged with another plan or to which assets and liabilities have been transferred, the actuarial valuation of the assets and liabilities of each affected plan during the year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the first day of the plan year, or other valuation method performed under standards and procedures as the Secretary may prescribe by regulation.
+
 (Pub. L. 93–406, title I, §103, Sept. 2, 1974, 88 Stat. 841; Pub. L. 96–364, title III, §307, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title XI, §11016(b)(1), Apr. 7, 1986, 100 Stat. 272; Pub. L. 100–203, title IX, §9342(a)(1), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7881(j)(1), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 109–280, title I, §107(a)(2), (3), title V, §503(a)(1), (b), Aug. 17, 2006, 120 Stat. 818, 942, 943.)
 
-#### Amendment of Section
-
-<i>Pub. L. 109–280, title V, §503(a)(1), (b), (f), Aug. 17, 2006, 120 Stat. 942, 943, 945, provided that, applicable to plan years beginning after Dec. 31, 2007, this section is amended:</i>
-
-<i>(1) in subsection (a)(1)(B), by substituting “subsections (d), (e), and (f)” for “subsections (d) and (e)”;</i>
-
-<i>(2) in subsection (d), by redesignating paragraphs (12) and (13) as (13) and (14), respectively, and by adding a new paragraph (12) to read as follows:</i>
-
-&emsp;<i>“(12) A statement explaining the actuarial assumptions and methods used in projecting future retirements and forms of benefit distributions under the plan.”; and</i>
-
-<i>(3) by adding subsection (f) at the end to read as follows:</i>
-
-#### <i>(f) Additional information with respect to defined benefit plans</i>
-
-#### <i>(1) Liabilities under 2 or more plans</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>In any case in which any liabilities to participants or their beneficiaries under a defined benefit plan as of the end of a plan year consist (in whole or in part) of liabilities to such participants and beneficiaries under 2 or more pension plans as of immediately before such plan year, an annual report under this section for such plan year shall include the funded percentage of each of such 2 or more pension plans as of the last day of such plan year and the funded percentage of the plan with respect to which the annual report is filed as of the last day of such plan year.</i>
-
-#### <i>(B) Funded percentage</i>
-
-&emsp;&emsp;<i>For purposes of this paragraph, the term “funded percentage”—</i>
-
-&emsp;&emsp;&emsp;<i>(i) in the case of a single-employer plan, means the funding target attainment percentage, as defined in section 1083(d)(2) of this title, and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) in the case of a multiemployer plan, has the meaning given such term in section 1085(i)(2) of this title.</i>
-
-#### <i>(2) Additional information for multiemployer plans</i>
-
-&emsp;<i>With respect to any defined benefit plan which is a multiemployer plan, an annual report under this section for a plan year shall include, in addition to the information required under paragraph (1), the following, as of the end of the plan year to which the report relates:</i>
-
-&emsp;&emsp;<i>(A) The number of employers obligated to contribute to the plan.</i>
-
-&emsp;&emsp;<i>(B) A list of the employers that contributed more than 5 percent of the total contributions to the plan during such plan year.</i>
-
-&emsp;&emsp;<i>(C) The number of participants under the plan on whose behalf no contributions were made by an employer as an employer of the participant for such plan year and for each of the 2 preceding plan years.</i>
-
-&emsp;&emsp;<i>(D) The ratios of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the number of participants under the plan on whose behalf no employer had an obligation to make an employer contribution during the plan year, to</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the number of participants under the plan on whose behalf no employer had an obligation to make an employer contribution during each of the 2 preceding plan years.</i>
-
-&emsp;&emsp;<i>(E) Whether the plan received an amortization extension under section 1084(d) of this title or section 431(d) of title 26 for such plan year and, if so, the amount of the difference between the minimum required contribution for the year and the minimum required contribution which would have been required without regard to the extension, and the period of such extension.</i>
-
-&emsp;&emsp;<i>(F) Whether the plan used the shortfall funding method (as such term is used in section 1085 of this title) for such plan year and, if so, the amount of the difference between the minimum required contribution for the year and the minimum required contribution which would have been required without regard to the use of such method, and the period of use of such method.</i>
-
-&emsp;&emsp;<i>(G) Whether the plan was in critical or endangered status under section 1085 of this title for such plan year, and if so, a summary of any funding improvement or rehabilitation plan (or modification thereto) adopted during the plan year, and the funded percentage of the plan.</i>
-
-&emsp;&emsp;<i>(H) The number of employers that withdrew from the plan during the preceding plan year and the aggregate amount of withdrawal liability assessed, or estimated to be assessed, against such withdrawn employers.</i>
-
-&emsp;&emsp;<i>(I) In the case of a multiemployer plan that has merged with another plan or to which assets and liabilities have been transferred, the actuarial valuation of the assets and liabilities of each affected plan during the year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the first day of the plan year, or other valuation method performed under standards and procedures as the Secretary may prescribe by regulation.</i>
-
-<i>Pub. L. 109–280, title I, §107(a)(2), (3), (e), Aug. 17, 2006, 120 Stat. 818, 820, provided that, applicable to plan years beginning after 2007, subsection (d) of this section is amended:</i>
-
-<i>(1) in paragraph (8)(B), by substituting “the applicable requirements of sections 1083(h) and 1084(c)(3)” for “the requirements of section 1082(c)(3)”; and</i>
-
-<i>(2) by striking out paragraph (11) and by inserting a new paragraph (11) to read as follows:</i>
-
-&emsp;<i>(11) If the current value of the assets of the plan is less than 70 percent of—</i>
-
-&emsp;&emsp;<i>(A) in the case of a single-employer plan, the funding target (as defined in section 1083(d)(1) of this title) of the plan, or</i>
-
-&emsp;&emsp;<i>(B) in the case of a multiemployer plan, the current liability (as defined in section 1084(c)(6)(D) of this title) under the plan,</i>
-
-> &emsp;<i>the percentage which such value is of the amount described in subparagraph (A) or (B).</i>
-
 #### Amendments
+
+2006—Subsec. (a)(1)(B). Pub. L. 109–280, §503(a)(1)(A), substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)” in introductory provisions.
+
+Subsec. (d)(8)(B). Pub. L. 109–280, §107(a)(2), substituted “the applicable requirements of sections 1083(h) and 1084(c)(3)” for “the requirements of section 1082(c)(3)”.
+
+Subsec. (d)(11). Pub. L. 109–280, §107(a)(3), added par. (11) and struck out former par. (11) which read as follows: “If the current value of the assets of the plan is less than 70 percent of the current liability under the plan (within the meaning of section 1082(d)(7) of this title), the percentage which such value is of such liability..”
+
+Subsec. (d)(12) to (14). Pub. L. 109–280, §503(b), added par. (12) and redesignated former pars. (12) and (13) as (13) and (14), respectively.
+
+Subsec. (f). Pub. L. 109–280, §503(a)(1)(B), added subsec. (f).
 
 1989—Subsec. (d)(11). Pub. L. 101–239 substituted “70 percent” for “60 percent” and “the percentage which such value is of such liability.” for “such percentage”.
 
@@ -283,6 +275,4 @@ Section 11016(b)(3) of Pub. L. 99–272 provided that: “Any regulations, modif
 #### Consolidation of Actuarial Reports
 
 Secretary of the Treasury and Secretary of Labor to take such steps as may be necessary to assure coordination to the maximum extent feasible between the actuarial reports required by subsec. (d) of this section and section 6059 of Title 26, Internal Revenue Code, see section 1033(c) of Pub. L. 93–406, set out as a note under section 6059 of Title 26.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

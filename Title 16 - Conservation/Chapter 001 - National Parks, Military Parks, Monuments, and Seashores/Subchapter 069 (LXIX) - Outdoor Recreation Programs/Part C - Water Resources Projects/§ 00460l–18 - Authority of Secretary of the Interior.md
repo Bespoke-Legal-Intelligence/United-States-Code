@@ -14,10 +14,6 @@ No lands under the jurisdiction of any other Federal agency may be included for 
 
 (Pub. L. 89–72, §7, July 9, 1965, 79 Stat. 216; Pub. L. 102–377, title II, §206, Oct. 2, 1992, 106 Stat. 1332; Pub. L. 102–575, title XXVIII, §2804(e), Oct. 30, 1992, 106 Stat. 4692.)
 
-#### References in Text
-
-The Federal reclamation laws, referred to in subsec. (a), are classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands.
-
 #### Amendments
 
 1992—Subsec. (a). Pub. L. 102–575, §2804(e)(2), substituted “subsection (b) or (c) of section 460<i>l</i>–14” for “subsection 460<i>l</i>–14(b)”.

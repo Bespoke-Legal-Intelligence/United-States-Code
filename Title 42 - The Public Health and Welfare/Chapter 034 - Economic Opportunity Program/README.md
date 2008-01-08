@@ -11,7 +11,7 @@
 
 #### SUBCHAPTER I—RESEARCH AND DEMONSTRATIONS
 
-#### Part A—Research, Demonstration, and Pilot Proects
+#### Part A—Research, Demonstration, and Pilot Projects
 
 |  |
 | :--- |

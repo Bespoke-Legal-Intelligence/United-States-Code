@@ -8,7 +8,7 @@ Second. To invest an amount not exceeding in the aggregate 10 per centum of its 
 
 Third. To acquire and hold, directly or indirectly, stock or other evidences of ownership in one or more banks organized under the law of a foreign country or a dependency or insular possession of the United States and not engaged, directly or indirectly, in any activity in the United States except as, in the judgment of the Board of Governors of the Federal Reserve System, shall be incidental to the international or foreign business of such foreign bank; and, notwithstanding the provisions of section 371c of this title, to make loans or extensions of credit to or for the account of such bank in the manner and within the limits prescribed by the Board by general or specific regulation or ruling.
 
-Until January 1, 1921, any national banking association, without regard to the amount of its capital and surplus, may file application with the Board of Governors of the Federal Reserve System for permission, upon such conditions and under such regulations as may be prescribed by said board, to invest an amount not exceeding in the aggregate 5 per centum of its paid-in capital and surplus in the stock of one or more corporations chartered or incorporated under the laws of the United States or of any State thereof and, regardless of its location, principally engaged in such phases of international or foreign financial operations as may be necessary to facilitate the export of goods, wares, or merchandise from the United States or any of its dependencies or insular possessions to any foreign country: <i>Provided, however</i>, That in no event shall the total investments authorized by this subchapter by any one national bank exceed 10 per centum of its capital and surplus.
+Until January 1, 1921, any national banking association, without regard to the amount of its capital and surplus, may file application with the Board of Governors of the Federal ReserveSystem for permission, upon such conditions and under such regulations as may be prescribed by said board, to invest an amount not exceeding in the aggregate 5 per centum of its paid-in capital and surplus in the stock of one or more corporations chartered or incorporated under the laws of the United States or of any State thereof and, regardless of its location, principally engaged in such phases of international or foreign financial operations as may be necessary to facilitate the export of goods, wares, or merchandise from the United States or any of its dependencies or insular possessions to any foreign country: <i>Provided, however</i>, That in no event shall the total investments authorized by this subchapter by any one national bank exceed 10 per centum of its capital and surplus.
 
 Such application shall specify the name and capital of the banking association filing it, the powers applied for, and the place or places where the banking or financial operations proposed are to be carried on. The Board of Governors of the Federal Reserve System shall have power to approve or to reject such application in whole or in part if for any reason the granting of such application is deemed inexpedient, and shall also have power from time to time to increase or decrease the number of places where such banking operations may be carried on.
 
@@ -20,7 +20,17 @@ This subchapter, referred to in the proviso to the fifth par., was in the origin
 
 #### Codification
 
-Section is comprised of a part of section 25 of act Dec. 23, 1913, as amended, which comprises this subchapter.
+Section is comprised of the first three undesignated pars. of section 25 of act Dec. 23, 1913, which comprises this subchapter.
+
+The fourth undesignated par. of section 25 is classified to section 602 of this title.
+
+The fifth undesignated par. of section 25 is classified to section 603 of this title.
+
+The sixth undesignated par. of section 25 is classified to section 604 of this title.
+
+The former seventh undesignated par. was classified to former section 605 of this title.
+
+The seventh undesignated par. is classified to section 604a of this title.
 
 #### Amendments
 

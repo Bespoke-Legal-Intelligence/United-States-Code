@@ -20,7 +20,7 @@ The Board shall decide protests submitted to it under this subsection by interes
 
 &emsp;(2) the reference to the Comptroller General in section 3553(d)(3)(C)(ii) of such title is deemed to be a reference to both the Board and the Comptroller General;
 
-&emsp;(3) the report required by paragraph (1) of section 3554(e) of such title shall be submittedto the Comptroller General as well as the committees listed in such paragraph;
+&emsp;(3) the report required by paragraph (1) of section 3554(e) of such title shall be submitted to the Comptroller General as well as the committees listed in such paragraph;
 
 &emsp;(4) the report required by paragraph (2) of such section shall be submitted to the Comptroller General as well as Congress; and
 
@@ -46,7 +46,7 @@ The Board may perform functions similar to those described in this section for s
 
 #### References in Text
 
-The Contract Disputes Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
+The Contract Disputes Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383,as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
 
 #### Amendments
 

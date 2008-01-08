@@ -146,7 +146,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) made on account of a scholarship, allowance, or payment described in section 25A(g)(2) received by the designated beneficiary to the extent the amount of the payment or distribution does not exceed the amount of the scholarship, allowance, or payment,
 
-&emsp;&emsp;&emsp;(iv) made on account of the attendance of the designated beneficiary at the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy, to theextent that the amount of the payment or distribution does not exceed the costs of advanced education (as defined by section 2005(e)(3) of title 10, United States Code, as in effect on the date of the enactment of this section) attributable to such attendance, or
+&emsp;&emsp;&emsp;(iv) made on account of the attendance of the designated beneficiary at the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy, to the extent that the amount of the payment or distribution does not exceed the costs of advanced education (as defined by section 2005(e)(3) of title 10, United States Code, as in effect on the date of the enactment of this section) attributable to such attendance, or
 
 &emsp;&emsp;&emsp;(v) an amount which is includible in gross income solely by application of paragraph (2)(C)(i)(II) for the taxable year.
 
@@ -190,7 +190,7 @@ For purposes of this section, a custodial account shall be treated as a trust if
 
 #### (h) Reports
 
-The trustee of a Coverdell education savings account shall make such reports regarding such account to the Secretary and to the beneficiary of the account with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.
+The trustee of a Coverdell education savings account shall make such reports regarding such account to the Secretary and to the beneficiary of the account with respect to contributions, distributions, and such other matters as theSecretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.
 
 (Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, title VI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–121, title I, §107(a), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–311, title IV, §§404(a), 406(b), Oct. 4, 2004, 118 Stat. 1188, 1189; Pub. L. 109–135, title IV, §412(ff), Dec. 21, 2005, 119 Stat. 2639.)
 
@@ -280,7 +280,7 @@ Subsec. (d)(4)(C). Pub. L. 105–206, §6004(d)(7), substituted “Contributions
 
 &emsp;“(i) such distribution is received on or before the day prescribed by law (including extensions of time) for filing such contributor's return for such taxable year, and”.
 
-Subsec. (d)(5). Pub. L. 105–206, §6004(d)(8)(A), added first sentence and struck out former first sentence which read as follows: “Paragraph (1) shall not apply to any amount paid or distributed from an education individual retirement account to the extent that the amount received is paid into another education individual retirement account for the benefit of the same beneficiary or a member of the family (within the meaning of section 529(e)(2)) of such beneficiary not later thanthe 60th day after the date of such payment or distribution.”
+Subsec. (d)(5). Pub. L. 105–206, §6004(d)(8)(A), added first sentence and struck out former first sentence which read as follows: “Paragraph (1) shall not apply to any amount paid or distributed from an education individual retirement account to the extent that the amount received is paid into another education individual retirement account for the benefit of the same beneficiary or a member of the family (within the meaning of section 529(e)(2)) of such beneficiary not later than the 60th day after the date of such payment or distribution.”
 
 Subsec. (d)(6). Pub. L. 105–206, §6004(d)(8)(B), inserted before period at end “and has not attained age 30 as of the date of such change”.
 

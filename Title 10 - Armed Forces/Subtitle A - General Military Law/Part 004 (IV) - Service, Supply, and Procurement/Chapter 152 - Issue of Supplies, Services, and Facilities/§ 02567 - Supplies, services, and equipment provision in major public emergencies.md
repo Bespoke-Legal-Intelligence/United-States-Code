@@ -14,9 +14,9 @@ Limitations.—(1) Supplies, services, and equipment may be provided under this 
 
 &emsp;(A) only to the extent that the constituted authorities of the State or possession concerned are unable to provide such supplies, services, and equipment, as the case may be; and
 
-&emsp;(B) only until such authorities, or other departments or agencies of the United States charged with the provision of such supplies, services, and equipment, are able to provide such supplies, services, and equipment.
+&emsp;(B) only until such authorities, or other departments or agencies of the United States charged with the provision of such supplies,services, and equipment, are able to provide such supplies, services, and equipment.
 
-(2) The Secretary may provide supplies, services, and equipment under this section only to the extent that the Secretary determines thatdoing so will not interfere with military preparedness or ongoing military operations or functions.
+(2) The Secretary may provide supplies, services, and equipment under this section only to the extent that the Secretary determines that doing so will not interfere with military preparedness or ongoing military operations or functions.
 
 (d)
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title14",
- "package": "USCODE-2006-title14",
+ "package": "USCODE-2007-title14",
  "pieces": [
   {
    "id": "14_",
@@ -3485,14 +3485,10 @@
      true
     ],
     [
-     "I",
-     114,
-     [
-      [
-       107,
-       "[Page 97]"
-      ]
-     ]
+     "L",
+     116,
+     "[Page 97]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00663 - Submission of plans to Congress.md",
@@ -4066,14 +4062,10 @@
    "id": "14_712",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       105,
-       "[Page 112]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 112]",
+     true
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00712 - Active duty for emergency augmentation of regular forces.md",
@@ -4144,7 +4136,7 @@
      2,
      [
       [
-       328,
+       95,
        "[Page 113]"
       ]
      ]
@@ -4173,7 +4165,7 @@
      2,
      [
       [
-       330,
+       93,
        "[Page 114]"
       ]
      ]
@@ -4198,10 +4190,14 @@
    "id": "14_728",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 115]",
-     true
+     "I",
+     6,
+     [
+      [
+       187,
+       "[Page 115]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00728 - Promotion of Reserve officers on active duty.md",
@@ -4214,10 +4210,14 @@
    "id": "14_729",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 116]",
-     true
+     "I",
+     44,
+     [
+      [
+       101,
+       "[Page 116]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00729 - Promotion; recommendations of selection boards.md",
@@ -4243,7 +4243,7 @@
      22,
      [
       [
-       359,
+       83,
        "[Page 117]"
       ]
      ]
@@ -4295,10 +4295,14 @@
    "id": "14_736",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 118]",
-     true
+     "I",
+     2,
+     [
+      [
+       182,
+       "[Page 118]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00736 - Date of rank upon promotion; entitlement to pay.md",
@@ -4329,10 +4333,14 @@
    "id": "14_739",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 119]",
-     true
+     "I",
+     4,
+     [
+      [
+       380,
+       "[Page 119]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00739 - Failure of selection for promotion.md",
@@ -4354,10 +4362,14 @@
    "id": "14_741",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 120]",
-     true
+     "I",
+     26,
+     [
+      [
+       153,
+       "[Page 120]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00741 - Retention boards; removal from an active status to provide a flow of promotion.md",
@@ -4388,10 +4400,14 @@
    "id": "14_744",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 121]",
-     true
+     "I",
+     2,
+     [
+      [
+       88,
+       "[Page 121]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00744 - Appointment of a former Navy or Coast Guard officer.md",
@@ -4492,26 +4508,26 @@
   },
   {
    "id": "14_[759",
-   "marks": [],
-   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00759 - Repealed. July 9, 1952, ch. 608, part VIII, §803, 66 Stat. 505.md",
-   "printed_pages": [
-    121,
-    121
-   ]
-  },
-  {
-   "id": "14_[759a_to_761",
    "marks": [
     [
      "L",
-     6,
+     4,
      "[Page 122]",
      true
     ]
    ],
-   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00759a to 761 - Omitted.md",
+   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00759 - Repealed. July 9, 1952, ch. 608, part VIII, §803, 66 Stat. 505.md",
    "printed_pages": [
     121,
+    122
+   ]
+  },
+  {
+   "id": "14_[759a_to_761",
+   "marks": [],
+   "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00759a to 761 - Omitted.md",
+   "printed_pages": [
+    122,
     122
    ]
   },
@@ -4537,10 +4553,14 @@
    "id": "14_[770_to_798",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 123]",
-     true
+     "I",
+     44,
+     [
+      [
+       115,
+       "[Page 123]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00770 to 798 - Omitted.md",
@@ -4563,7 +4583,7 @@
    "marks": [
     [
      "L",
-     48,
+     42,
      "[Page 124]",
      true
     ]
@@ -4597,10 +4617,10 @@
    "marks": [
     [
      "I",
-     26,
+     24,
      [
       [
-       104,
+       92,
        "[Page 125]"
       ]
      ]
@@ -4652,14 +4672,10 @@
    "id": "14_828",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       100,
-       "[Page 126]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 126]",
+     true
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 023 - Coast Guard Auxiliary/§ 00828 - Aircraft deemed public aircraft.md",
@@ -4691,7 +4707,7 @@
    "marks": [
     [
      "L",
-     16,
+     10,
      "[Page 127]",
      true
     ]
@@ -4749,14 +4765,21 @@
   },
   {
    "id": "14_894",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 128]",
+     true
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 025 - General Provisions for Coast Guard Reserve and Auxiliary/§ 00894 - Availability of facilities and appropriations.md",
    "printed_pages": [
     127,
-    127
+    128
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2006-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2007-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 14 - Coast Guard"
 }

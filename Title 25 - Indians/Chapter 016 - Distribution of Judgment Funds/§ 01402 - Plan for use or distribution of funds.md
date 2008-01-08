@@ -20,7 +20,7 @@ In cases where the Secretary has to submit a plan dividing judgment funds betwee
 
 An extension of the one-year period, not to exceed one hundred and eighty days, may be requested by the Secretary or by the affected Indian tribe, submitting such request to the committees through the Secretary, and any such request will be subject to the approval of both the Senate Committee on Indian Affairs and the United States House of Representatives Committee on Natural Resources.
 
-(Pub. L. 93–134, §2, Oct. 19, 1973, 87 Stat. 466; Pub. L. 97–164, title I, §160(a)(1), Apr. 2, 1982, 96 Stat. 48; Pub. L. 97–458, §1, Jan. 12, 1983, 96 Stat. 2512; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–437, §10(e)(1), (2)(A), Nov. 2, 1994, 108 Stat. 4589.)
+(Pub. L. 93–134, §2, Oct. 19, 1973, 87 Stat. 466; Pub. L. 97–164, title I, §160(a)(1), Apr. 2, 1982, 96 Stat.48; Pub. L. 97–458, §1, Jan. 12, 1983, 96 Stat. 2512; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–437, §10(e)(1), (2)(A), Nov. 2, 1994, 108 Stat. 4589.)
 
 #### References in Text
 
@@ -47,10 +47,6 @@ Subsec. (d). Pub. L. 97–458 added subsec. (d).
 Subsec. (e). Pub. L. 97–458 redesignated subsec. (b) as (e); increased time allowed for submission of plans to one year from a one hundred and eighty-day period and additional time allowed for such submissions to one hundred and eighty from ninety days; and substituted the Senate Select Committee on Indian Affairs for the Senate Committee on Interior and Insular Affairs as the Senate committee approving any extensions.
 
 1982—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”. See Codification note above.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 

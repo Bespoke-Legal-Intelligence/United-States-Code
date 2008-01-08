@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) in the case of officers in the grade of colonel or brigadier general, for officers of the Army, Air Force, and Marine Corps, or captain or rear admiral (lower half), for officers of the Navy, have neither (I) not been recommended for promotion to the next higher grade when considered in the promotion zone, nor (II) been removed from a list of officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); and
 
-&emsp;&emsp;(B) are senior to the officer designated by the Secretary of the military departmentconcerned to be the junior officer in the promotion zone eligible for consideration for promotion to the next higher grade.
+&emsp;&emsp;(B) are senior to the officer designated by the Secretary of the military department concerned to be the junior officer in the promotion zone eligible for consideration for promotion to the next higher grade.
 
 &emsp;(2) The term “officers above the promotion zone” means a group of officers on an active-duty list in the same grade and competitive category who—
 

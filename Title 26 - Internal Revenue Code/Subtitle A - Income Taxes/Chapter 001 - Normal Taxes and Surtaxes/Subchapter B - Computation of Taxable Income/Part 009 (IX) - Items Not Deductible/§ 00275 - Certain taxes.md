@@ -16,11 +16,7 @@ No deduction shall be allowed for the following taxes:
 
 &emsp;(3) Estate, inheritance, legacy, succession, and gift taxes.
 
-&emsp;(4) Income, war profits, and excess profits taxes imposed by the authority of any foreign country or possession of the United States if—
-
-&emsp;&emsp;(A) the taxpayer chooses to take to any extent the benefits of section 901, or
-
-&emsp;&emsp;(B) such taxes are paid or accrued with respect to foreign trade income (within the meaning of section 923(b)) <sup>1</sup> of a FSC,.<sup>2</sup>
+&emsp;(4) Income, war profits, and excess profits taxes imposed by the authority of any foreign country or possession of the United States if the taxpayer chooses to take to any extent the benefits of section 901.
 
 &emsp;(5) Taxes on real property, to the extent that section 164(d) requires such taxes to be treated as imposed on another taxpayer.
 
@@ -32,19 +28,23 @@ No deduction shall be allowed for the following taxes:
 
 &emsp;&emsp;<b>For disallowance of certain other taxes, see section 164(c).</b>
 
-(Added Pub. L. 88–272, title II, §207(b)(3)(A), Feb. 26, 1964, 78 Stat. 42; amended Pub. L. 93–406, title II, §1016(a)(1), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, §1307(d)(2)(A), title XVI, §1605(b)(1), title XIX, §1901(a)(39), Oct. 4, 1976, 90 Stat. 1727, 1754, 1771; Pub. L. 95–600, title VII, §701(t)(3)(B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title III, §§305(a), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–21, title I, §124(c)(5), Apr. 20, 1983, 97 Stat. 91; Pub. L. 98–67, title I, §102(a) Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §67(b)(2), title VIII, §801(d)(5), July 18, 1984, 98 Stat. 587, 996; Pub. L. 99–499, title V, §516(b)(2)(B), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 100–203, title X, §10228(b), Dec. 22, 1987, 101 Stat. 1330–418; Pub. L. 106–519, §4(2), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(5), title VIII, §802(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1568.)
+(Added Pub. L. 88–272, title II, §207(b)(3)(A), Feb. 26, 1964, 78 Stat. 42; amended Pub. L. 93–406, title II, §1016(a)(1), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, §1307(d)(2)(A), title XVI, §1605(b)(1), title XIX, §1901(a)(39), Oct. 4, 1976, 90 Stat. 1727, 1754, 1771; Pub. L. 95–600, title VII, §701(t)(3)(B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title III, §§305(a), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–21, title I, §124(c)(5), Apr. 20, 1983, 97 Stat. 91; Pub. L. 98–67, title I, §102(a) Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §67(b)(2), title VIII, §801(d)(5), July 18, 1984, 98 Stat. 587, 996; Pub. L. 99–499, title V, §516(b)(2)(B), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 100–203, title X, §10228(b), Dec. 22, 1987, 101 Stat. 1330–418; Pub. L. 106–519, §4(2), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(5), title VIII, §802(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1568; Pub. L. 110–172, §11(g)(5), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### References in Text
 
 The Federal Insurance Contributions Act, referred to in subsec. (a)(1)(A), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
-
-Section 923, referred to in subsec. (a)(4)(B), was repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
 
 #### Codification
 
 Pub. L. 95–600, §701(t)(3)(B) (effective Oct. 4, 1976, see Pub. L. 95–600, §701(t)(5), set out as an Effective Date of 1978 Amendment note under section 859 of this title) repealed §1605(b)(1) of Pub. L. 94–455, cited as a credit to this section, which had duplicated the amendment to subsec. (a)(6) made by §1307(d)(2)(A) of Pub. L. 94–455.
 
 #### Amendments
+
+2007—Subsec. (a)(4). Pub. L. 110–172 substituted “if the taxpayer chooses to take to any extent the benefits of section 901.” for “if—
+
+&emsp;“(A) the taxpayer chooses to take to any extent the benefits of section 901, or
+
+&emsp;“(B) such taxes are paid or accrued with respect to foreign trade income (within the meaning of section 923(b))of a FSC,.”
 
 2004—Subsec. (a). Pub. L. 108–357, §101(b)(5)(B), struck out at end of concluding provisions “A rule similar to the rule of section 943(d) shall apply for purposes of paragraph (4)(C).”
 
@@ -78,7 +78,7 @@ Subsec. (a)(6). Pub. L. 94–455, §§1307(d)(2)(A), 1605(b)(1), inserted refere
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 101(b)(5) of Pub. L. 108–357 applicable to transactions after Dec. 31, 2004, see section101(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
+Amendment by section 101(b)(5) of Pub. L. 108–357 applicable to transactions after Dec. 31, 2004, see section 101(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 Amendment by section 802(b)(1) of Pub. L. 108–357 effective Mar. 4, 2003, see section 802(d) of Pub. L. 108–357, set out as an Effective Date note under section 4985 of this title.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to consideration received after Dec. 22, 1987, in taxable years ending after such date, except not applicable in the case of any acquisition pursuant to a written binding contract in effect on Dec. 15, 1987, and at all times thereafter before the acquisition, see section 10228(d) of Pub. L. 100–203, set out as an Effective Date note under section 5881 of this title.
+Amendment by Pub. L. 100–203 applicable to consideration received after Dec. 22, 1987, in taxable years ending after such date, except not applicable in the case ofany acquisition pursuant to a written binding contract in effect on Dec. 15, 1987, and at all times thereafter before the acquisition, see section 10228(d) of Pub. L. 100–203, set out as an Effective Date note under section 5881 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -119,8 +119,4 @@ Amendment by Pub. L. 93–406 applicable, except as otherwise provided in sectio
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1963, see section 207(c) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 164 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

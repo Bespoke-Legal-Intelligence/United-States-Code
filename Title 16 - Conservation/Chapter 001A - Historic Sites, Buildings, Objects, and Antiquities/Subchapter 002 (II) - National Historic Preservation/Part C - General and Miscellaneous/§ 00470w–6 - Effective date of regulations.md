@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 106–208, §5(a)(13), redesignated subsec. (c) as (b).
 
 Subsec.(c). Pub. L. 106–208, §5(a)(13), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Pub. L. 106–208, §5(a)(12), which directed the amendment of subsec. (c) by substituting “The regulation” for “Except as provided in subsection (b) of this section, the regulation”, was executed by making the substitution for text that did not include the phrase “of this section”.
+Pub. L. 106–208, §5(a)(12), which directed the amendment of subsec. (c) by substituting “The regulation”for “Except as provided in subsection (b) of this section, the regulation”, was executed by making the substitution for text that did not include the phrase “of this section”.
 
 Subsecs. (d) to (f). Pub. L. 106–208, §5(a)(13), redesignated subsecs. (d) to (f) as (c) to (e), respectively.
 

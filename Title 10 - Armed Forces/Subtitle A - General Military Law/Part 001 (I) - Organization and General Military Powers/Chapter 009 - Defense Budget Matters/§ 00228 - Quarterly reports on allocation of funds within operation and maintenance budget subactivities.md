@@ -44,7 +44,7 @@ Subsec. (a). Pub. L. 108–136, §1031(a)(6)(A)(i), substituted “Quarterly” 
 
 Subsec. (c). Pub. L. 108–136, §1031(a)(6)(A)(ii), substituted “quarter” for “month” wherever appearing.
 
-Subsec. (e). Pub. L. 108–136, §1043(b)(5), substituted “O\&M Budget Activity Defined” for “Definitions” in heading and a comma for a colon after “section”, struck out par. (1) designation before “The term”, and struck out par. (2) which read as follows: “The term ‘congressional defense committees’ means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+Subsec. (e). Pub. L. 108–136, §1043(b)(5), substituted “O\&M Budget Activity Defined” for “Definitions” inheading and a comma for a colon after “section”, struck out par. (1) designation before “The term”, and struck out par. (2) which read as follows: “The term ‘congressional defense committees’ means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
 2002—Subsec. (a). Pub. L. 107–314, §361(a), substituted “to the congressional defense committees” for “to Congress”.
 

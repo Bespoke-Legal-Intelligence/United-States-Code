@@ -145,7 +145,7 @@
 - [&sect; 00430f&#8211;8 - Establishment of Unit](%C2%A7%2000430f%E2%80%938%20-%20Establishment%20of%20Unit.md)
 - [&sect; 00430f&#8211;9 - Land acquisition](%C2%A7%2000430f%E2%80%939%20-%20Land%20acquisition.md)
 - [&sect; 00430f&#8211;10 - Park management and administration](%C2%A7%2000430f%E2%80%9310%20-%20Park%20management%20and%20administration.md)
-- [&sect; 00430f&#8211;11 - Authorization of special resource study](%C2%A7%2000430f%E2%80%9311%20-%20Authorization%20of%20special%20resource%20study.md)
+- [&sect; 00430f&#8211;11 - Repealed. Pub. L. 110&#8211;161, div. F, title I, &sect;127(4), Dec. 26, 2007, 121 Stat. 2122](%C2%A7%2000430f%E2%80%9311%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93161%2C%20div.%20F%2C%20title%20I%2C%20%C2%A7127%284%29%2C%20Dec.%2026%2C%202007%2C%20121%20Stat.%202122.md)
 - [&sect; 00430f&#8211;12 - Authorization of appropriations](%C2%A7%2000430f%E2%80%9312%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00430g - Gettysburg National Military Park](%C2%A7%2000430g%20-%20Gettysburg%20National%20Military%20Park.md)
 - [&sect; 00430g&#8211;1 - Exchange of lands](%C2%A7%2000430g%E2%80%931%20-%20Exchange%20of%20lands.md)

@@ -16,7 +16,7 @@
 
 #### (1) Procedures regarding withholding of funds
 
-&emsp;If research has been recommended for approval for purposes of subsection (a) of thissection, the Secretary may not withhold funds for the research because of ethical considerations unless—
+&emsp;If research has been recommended for approval for purposes of subsection (a) of this section, the Secretary may not withhold funds for the research because of ethical considerations unless—
 
 &emsp;&emsp;(A) the Secretary convenes an advisory board in accordance with paragraph (5) to study such considerations; and
 
@@ -74,7 +74,7 @@
 
 &emsp;(H) In carrying out subparagraph (B)(i) with respect to a project of research, an ethics board shall have access to all relevant information possessed by the Department of Health and Human Services, or available to the Secretary from other agencies.
 
-&emsp;(I) Members of an ethics board shall receive compensation for each day engaged in carrying out the duties of the board, including time engaged in traveling for purposes of such duties. Such compensation may not be provided in an amount in excess of the maximum rateof basic pay payable for GS–18 of the General Schedule.
+&emsp;(I) Members of an ethics board shall receive compensation for each day engaged in carrying out the duties of the board, including time engaged in traveling for purposes of such duties. Such compensation may not be provided in an amount in excess of the maximum rate of basic pay payable for GS–18 of the General Schedule.
 
 &emsp;(J) The Secretary, acting through the Director of the National Institutes of Health, shall provide to each ethics board reasonable staff and assistance to carry out the duties of the board.
 

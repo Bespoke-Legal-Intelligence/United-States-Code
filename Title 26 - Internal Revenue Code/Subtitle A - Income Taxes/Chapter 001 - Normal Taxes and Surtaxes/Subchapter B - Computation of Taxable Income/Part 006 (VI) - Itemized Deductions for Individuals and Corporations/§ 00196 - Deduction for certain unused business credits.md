@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 100–647, §4008(b)(2)(B), inserted “and research credit
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–58 applicable to qualified new energy efficient homes acquired after Dec. 31, 2005,in taxable years ending after such date, see section 1332(f) of Pub. L. 109–58, set out as a note under section 38 of this title.
+Amendment by Pub. L. 109–58 applicable to qualified new energy efficient homes acquired after Dec. 31, 2005, in taxable years ending after such date, see section 1332(f) of Pub. L. 109–58, set out as a note under section 38 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -200,5 +200,5 @@ Certain projects with respect to historic structures.—In the case of any certi
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11813(b)(12) of Pub. L. 101–508 be construed to affecttreatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by section 11813(b)(12) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

@@ -28,7 +28,7 @@ If a determination (as defined in section 1313) is described in one or more of t
 
 #### (3) Existence of relationship
 
-&emsp;In case the amount of the adjustment would be assessed and collected in the same manner as a deficiency (except for cases described in section 1312(3)(B)), the adjustment shall not be made with respect to a related taxpayer unless he stands in such relationship to the taxpayerat the time the latter first maintains the inconsistent position in a return, claim for refund, or petition (or amended petition) to the Tax Court for the taxable year with respect to which the determination is made, or if such position is not so maintained, then at the time of the determination.
+&emsp;In case the amount of the adjustment would be assessed and collected in the same manner as a deficiency (except for cases described in section 1312(3)(B)), the adjustment shall not be made with respect to a related taxpayer unless he stands in such relationship to the taxpayer at the time the latter first maintains the inconsistent position in a return, claim for refund, or petition (or amended petition) to the Tax Court for the taxable year with respect to which the determination is made, or if such position is not so maintained, then at the time of the determination.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 337; Pub. L. 94–455, title XIX, §§1901(a)(142), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1788, 1834.)
 

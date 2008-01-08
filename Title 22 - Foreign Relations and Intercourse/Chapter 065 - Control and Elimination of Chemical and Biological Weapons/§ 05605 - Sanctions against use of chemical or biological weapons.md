@@ -116,7 +116,7 @@ The President shall remove the sanctions imposed with respect to a country pursu
 
 &emsp;(A) A sanction described in paragraph (4) or (5) of subsection (a) of this section or in any of subparagraphs (A) through (D) of subsection (b)(2) of this section shall not apply to any activity pursuant to any contract or international agreement entered into before the date of the presidential determination under section 5604(a)(1) of this title unless the President determines, on a case-by-case basis, that to apply such sanction to that activity would prevent the performance of a contract or agreement that would have the effect of assisting a country in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals.
 
-&emsp;(B) The same restrictions of subsection (p) of section 2405 of title 50, Appendix, as that subsection is so redesignated by section 304(b) of this title, which are applicable to exports prohibited under section 2405 of title 50, Appendix, shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by the President) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, within the meaning of subparagraph (A) of section 2405(p) of title 50, Appendix.
+&emsp;(B) The same restrictions of subsection (p) of section 2405 of title 50, Appendix, as that subsection is so redesignated by section 304(b) ofthis title, which are applicable to exports prohibited under section 2405 of title 50, Appendix, shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by the President) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, within the meaning of subparagraph (A) of section 2405(p) of title 50, Appendix.
 
 #### (2) Sanctions applied to existing contracts
 
@@ -135,10 +135,6 @@ Section 304(b) of this title, referred to in subsec. (e)(1)(B), is section 304(b
 #### Codification
 
 In subsec. (b)(2)(F)(iv), “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Delegation of Functions
 

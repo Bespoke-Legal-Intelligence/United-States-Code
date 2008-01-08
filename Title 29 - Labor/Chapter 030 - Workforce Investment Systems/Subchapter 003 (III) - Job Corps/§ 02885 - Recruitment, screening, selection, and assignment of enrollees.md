@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) determining, for each applicant, whether the educational and vocational needs of the applicant can best be met through the Job Corps program or an alternative program in the community in which the applicant resides; and
 
-&emsp;&emsp;&emsp;(ii) obtaining from each applicant pertinent data relating to background, needs, and interests for determining eligibility and potential assignment;
+&emsp;&emsp;&emsp;(ii) obtaining from each applicant pertinent data relating to background, needs,and interests for determining eligibility and potential assignment;
 
 &emsp;&emsp;(D) where appropriate, take measures to improve the professional capability of the individuals conducting screening of the applicants; and
 

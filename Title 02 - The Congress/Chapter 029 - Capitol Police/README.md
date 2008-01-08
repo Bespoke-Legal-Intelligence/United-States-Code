@@ -86,6 +86,7 @@
 | [1978\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001978%20-%20Deployment%20outside%20of%20jurisdiction.md) | Deployment outside of jurisdiction. |
 | [1979\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001979%20-%20Release%20of%20security%20information.md) | Release of security information. |
 | [1980\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001980%20-%20Mounted%20horse%20unit.md) | Mounted horse unit. |
+| [1981\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001981%20-%20Advance%20payments.md) | Advance payments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

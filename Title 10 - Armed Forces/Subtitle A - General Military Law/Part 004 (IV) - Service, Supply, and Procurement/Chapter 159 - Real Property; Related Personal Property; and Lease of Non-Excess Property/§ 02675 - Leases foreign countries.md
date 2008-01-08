@@ -8,7 +8,7 @@ Lease Authority; Duration.—The Secretary of a military department may acquire 
 
 Availability of Funds.—Appropriations available to the Department of Defense for operation and maintenance or construction may be used for the acquisition of interests in land under this section.
 
-(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 91–511, title VI, §608, Oct. 26, 1970, 84 Stat. 1224; Pub. L. 94–107, title VI, §607(10), (11), Oct. 7, 1975, 89 Stat. 567; Pub. L. 95–82, title V, §505(a), Aug. 1, 1977, 91 Stat. 371; Pub. L. 95–356, title V, §503(b), Sept. 8, 1978, 92 Stat. 579; Pub. L. 96–125, title V, §502(b), Nov. 26, 1979, 93 Stat. 940; Pub. L. 96–418, title V, §504(b), Oct. 10, 1980, 94 Stat. 1765; Pub. L. 97–99, title VI, §604, Dec. 23, 1981, 95 Stat. 1374; Pub. L. 97–214, §8, July 12, 1982, 96 Stat. 174; Pub. L. 98–525, title XIV, §1405(40), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, §1322(a)(11), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 108–136, div. B, title XXVIII, §2804(b), Nov. 24, 2003, 117 Stat. 1719; Pub. L. 108–375, div. B, title XXVIII, §2821(d)(3), Oct. 28, 2004, 118 Stat. 2130; Pub. L. 109–364, div. B, title XXVIII, §2824, Oct. 17, 2006, 120 Stat. 2476.)
+(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 91–511, title VI, §608, Oct. 26, 1970, 84 Stat. 1224; Pub. L. 94–107, title VI, §607(10), (11), Oct. 7, 1975, 89 Stat. 567; Pub. L. 95–82, title V, §505(a), Aug. 1, 1977, 91 Stat. 371; Pub. L. 95–356, title V, §503(b), Sept. 8, 1978, 92 Stat. 579; Pub. L. 96–125, title V, §502(b), Nov. 26, 1979, 93 Stat. 940; Pub. L. 96–418, title V, §504(b), Oct. 10, 1980, 94 Stat. 1765; Pub. L. 97–99, title VI, §604, Dec. 23, 1981, 95 Stat. 1374; Pub. L. 97–214, §8, July 12, 1982, 96 Stat. 174; Pub. L. 98–525, title XIV, §1405(40), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, §1322(a)(11), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 108–136, div. B, titleXXVIII, §2804(b), Nov. 24, 2003, 117 Stat. 1719; Pub. L. 108–375, div. B, title XXVIII, §2821(d)(3), Oct. 28, 2004, 118 Stat. 2130; Pub. L. 109–364, div. B, title XXVIII, §2824, Oct. 17, 2006, 120 Stat. 2476.)
 
 Historical and Revision Notes
 
@@ -79,6 +79,4 @@ Section 608 of Pub. L. 96–418 provided that: “Titles I, II, III, IV, and V \
 #### Effective Date of 1977 Amendment
 
 Section 505(c) of Pub. L. 95–82 provided that: “The amendments made by subsection (a) \[amending this section\] and the repeal made by subsection (b) \[repealing section 507(b) of Pub. L. 93–166, which was not classified to the Code\] shall take effect October 1, 1977.”
-
-§2676
 

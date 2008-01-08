@@ -2,35 +2,151 @@
 
 (a)
 
-Board of Governors.—(1) The board of governors is the governing body of the corporation with all powers of governing and managing the corporation. The board has 50 members. The governors shall be appointed or elected in the following manner:
+Board of Governors.—
 
-&emsp;(A) The President shall appoint eight governors, one of whom the President shall designate to act as the principal officer of the corporation with the title and functions provided in the bylaws. The other governors appointed by the President shall be officials of departments and agencies of the United States Government, whose positions and interests qualify them to contribute to carrying out the programs and purposes of the corporation. At least one, but not more than three, of those officials shall be selected from the Armed Forces.
+&emsp;(1)
 
-&emsp;(B) The chapters shall elect 30 governors at the national convention under procedures for nomination and election that ensure equitable representation of all chapters, with regard to geographical considerations, the size of the chapters, and the size of the populations served by the chapters.
+In general.—The board of governors is the governing body of the corporation with all powers of governing and directing, and of overseeing the management of the business and affairs of, the corporation.
 
-&emsp;(C) The board shall elect 12 governors as members-at-large. Those governors shall be individuals who are representative of the national interests that the corporation serves, and with which it is desirable that the corporation have close association.
+&emsp;(2)
 
-(2) One-third of the members elected to the board shall be elected at each national convention, and take office at that time or as soon as practicable after the convention.
+Number.—The board of governors shall fix by resolution, from time to time, the number of members constituting the entire board of governors, provided that—
+
+&emsp;&emsp;(A) as of March 31, 2009, and thereafter, there shall be no fewer than 12 and no more than 25 members; and
+
+&emsp;&emsp;(B) as of March 31, 2012, and thereafter, there shall be no fewer than 12 and no more than 20 members constituting the entire board.
+
+> &emsp;Procedures to implement the preceding sentence shall be provided in the bylaws.
+
+&emsp;(3)
+
+Appointment.—The governors shall be appointed or elected in the following manner:
+
+&emsp;&emsp;(A)
+
+Chairman.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The board of governors, in accordance with procedures provided in the bylaws, shall recommend to the President an individual to serve as chairman of the board of governors. If such recommendation is approved by the President, the President shall appoint such individual to serve as chairman of the board of governors.
+
+&emsp;&emsp;&emsp;(ii)
+
+Vacancies.—Vacancies in the office of the chairman, including vacancies resulting from the resignation, death, or removal by the President of the chairman, shall be filled in the same manner described in clause (i).
+
+&emsp;&emsp;&emsp;(iii)
+
+Duties.—The chairman shall be a member of the board of governors and, when present, shall preside at meetings of the board of governors and shall have such other duties and responsibilities as may be provided in the bylaws or a resolution of the board of governors.
+
+&emsp;&emsp;(B)
+
+Other members.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Members of the board of governors other than the chairman shall be elected at the annual meeting of the corporation in accordance with such procedures as may be provided in the bylaws.
+
+&emsp;&emsp;&emsp;(ii)
+
+Vacancies.—Vacancies in any such elected board position and in any newly created board position may be filled by a vote of the remaining members of the board of governors in accordance with such procedures as may be provided in the bylaws.
 
 (b)
 
-Term of Office and Vacancies.—(1) The term of office of each governor is 3 years. However, the term of office of a governor appointed by the President (except the principal officer of the corporation) expires if, before the end of the 3-year term, the governor retires from the official position held at the time of appointment as a governor.
+Terms of Office.—
 
-(2) The President shall fill as soon as practicable a vacancy in the office of the principal officer of the corporation or in the position of another governor appointed by the President. The board shall make a temporary appointment to fill a vacancy occurring in an elected position on the board. An individual appointed by the board to fill a vacancy serves until the next national convention.
+&emsp;(1)
+
+In general.—The term of office of each member of the board of governors shall be 3 years, except that—
+
+&emsp;&emsp;(A) the board of governors may provide under the bylaws that the terms of office of members of the board of governors elected to the board of governors before March 31, 2012, may be less than 3 years in order to implement the provisions of subparagraphs (A) and (B) of subsection (a)(2); and
+
+&emsp;&emsp;(B) any member of the board of governors elected by the board to fill a vacancy in a board position arising before the expiration of its term may, as determined by the board, serve for the remainder of that term or until the next annual meeting of the corporation.
+
+&emsp;(2)
+
+Staggered terms.—The terms of office of members of the board of governors (other than the chairman) shall be staggered such that, by March 31, 2012, and thereafter, 1/3 of the entire board (or as near to 1/3 as practicable) shall be elected at each successive annual meeting of the corporation with the term of office of eachmember of the board of governors elected at an annual meeting expiring at the third annual meeting following the annual meeting at which such member was elected.
+
+&emsp;(3)
+
+Term limits.—No person may serve as a member of the board of governors for more than such number of terms of office or years as may be provided in the bylaws.
 
 (c)
 
-Executive Committee.—The board may—
+Committees and Officers.—The board—
 
-&emsp;(1) appoint, from its own members, an executive committee of at least 11 individuals to exercise the powers of the board when the board is not in session; and
+&emsp;(1) may appoint, from its own members, an executive committee to exercise such powers of the board when the board is not in session as may be provided in the bylaws;
 
-&emsp;(2) appoint and remove, or provide for the appointment and removal of, officers and employees of the corporation, except the principal officer of the corporation.
+&emsp;(2) may appoint such other committees or advisory councils with such powers as may be provided in the bylaws or a resolution of the board of governors;
+
+&emsp;(3) shall appoint such officers of the corporation, including a chief executive officer, with such duties, responsibilities, and terms of office as may be provided in the bylaws or a resolution of the board of governors; and
+
+&emsp;(4) may remove members of the board of governors (other than the chairman), officers, and employees under such procedures as may be provided in the bylaws or a resolution of the board of governors.
 
 (d)
 
-Voting by Proxy.—Voting by proxy is not allowed at any meeting of the board, at the national convention, or at any meeting of a chapter. However, the board may allow the election of governors by proxy at the national convention if the board believes a national emergency makes attendance at the national convention impossible.
+Advisory Council.—
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1491.)
+&emsp;(1)
+
+Establishment.—There shall be an advisory council to the board of governors.
+
+&emsp;(2)
+
+Membership; appointment by president.—
+
+&emsp;&emsp;(A)
+
+In general.—The advisory council shall be composed of no fewer than 8 and no more than 10 members, each of whom shall be appointed by the President from principal officers of the executive departments and senior officers of the Armed Forces whose positions and interests qualify them to contribute to carrying out the programs and purposes of the corporation.
+
+&emsp;&emsp;(B)
+
+Members from the armed forces.—At least 1, but not more than 3, of the members of the advisory council shall be selected from the Armed Forces.
+
+&emsp;(3)
+
+Duties.—The advisory council shall advise, report directly to, and meet, at least 1 time per year with the board of governors, and shall have such name, functions and be subject to such procedures as may be provided in the bylaws.
+
+(e)
+
+Action Without Meeting.—Any action required or permitted to be taken at any meeting of the board of governors or of any committee thereof may be taken without a meeting if all members of the board or committee, as the case may be, consent thereto in writing, or by electronic transmission and the writing or writings or electronic transmission or transmissions are filed with the minutes of proceedings of the board or committee. Such filing shall be in paper form if the minutes are maintained in paper form and shall be in electronic form if the minutes are maintained in electronic form.
+
+(f)
+
+Voting by Proxy.—
+
+&emsp;(1)
+
+In general.—Voting by proxy is not allowed at any meeting of the board, at the annual meeting, or at any meeting of a chapter.
+
+&emsp;(2)
+
+Exception.—The board may allow the election of governors by proxy during any emergency.
+
+(g)
+
+Bylaws.—
+
+&emsp;(1)
+
+In general.—The board of governors may—
+
+&emsp;&emsp;(A) at any time adopt bylaws; and
+
+&emsp;&emsp;(B) at any time adopt bylaws to be effective only in an emergency.
+
+&emsp;(2)
+
+Emergency bylaws.—Any bylaws adopted pursuant to paragraph (1)(B) may provide special procedures necessary for managing the corporation during the emergency. All provisions of the regular bylaws consistent with the emergency bylaws remain effective during the emergency.
+
+(h)
+
+Definitions.—For purposes of this section—
+
+&emsp;(1) the term “entire board” means the total number of members of the board of governors that the corporation would have if there were no vacancies; and
+
+&emsp;(2) the term “emergency” shall have such meaning as may be provided in the bylaws.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1491; Pub. L. 110–26, §6, May 11, 2007, 121 Stat. 106.)
 
 Historical and Revision Notes
 
@@ -75,4 +191,8 @@ In subsection (b)(1), the words “if, before the end of the 3-year term, the go
 In subsection (b)(2), the words “as soon as practicable” are substituted for “as soon as may be” for clarity. The words “that may occur by death, resignation, or otherwise” are omitted as unnecessary. The words “a vacancy occurring in an elected position on the board” are substituted for “Any vacancy that may occur in the Governors elected by the chapters pursuant to subsection (b) of this section or in the Governors-at-large elected by the Board of Governors pursuant to subsection (c) of this section” to eliminate unnecessary words. The words “An individual appointed by the board to fill a vacancy serves” are substituted for “such appointees to serve” for clarity.
 
 In subsection (c)(2), the words “of the corporation” are substituted for “designated by the President of the United States” for consistency in the revised section.
+
+#### Amendments
+
+2007—Pub. L. 110–26 reenacted section catchline without change and amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to the board of governors, its terms of office and filling of vacancies, the executive committee, and voting by proxy.
 

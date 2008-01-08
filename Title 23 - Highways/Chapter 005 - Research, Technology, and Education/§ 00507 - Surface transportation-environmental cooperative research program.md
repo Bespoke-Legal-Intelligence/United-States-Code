@@ -36,7 +36,7 @@ Program Administration.—The Secretary shall—
 
 &emsp;&emsp;(C) the stakeholders are involved in the governance of the program, at the executive, overall program, and technical levels, through the use of expert panels and committees; and
 
-&emsp;&emsp;(D) there is no duplication of research effort between the program established under this section and the new strategic highway research program established under section 510.
+&emsp;&emsp;(D) there is no duplication of research effort between the program established underthis section and the new strategic highway research program established under section 510.
 
 (d)
 

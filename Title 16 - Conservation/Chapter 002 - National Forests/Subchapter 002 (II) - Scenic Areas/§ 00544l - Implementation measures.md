@@ -42,7 +42,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 #### (e) Limitations on Federal expenditures affecting the scenic area
 
-(1) Except as provided in paragraph (3), if the Commission has not been established pursuant to section 544c of this title within fifteen months after November 17, 1986, or is otherwise disestablished for any reason, no new expenditures or new financial assistance may be made available, and no new license or new permit, or exemption from a license or permit requirement, shall be issued, under authority of any Federal law for any activity within the scenic area, excluding urban areas, which the Secretary,<sup>1</sup> determines is inconsistent with any implementation measure pursuant to, the standards established in section 544d(b) of this title, or the purposes of sections 544 to 544p of this title.
+(1) Except as provided in paragraph (3), if the Commission has not been established pursuant to section 544c of this title within fifteenmonths after November 17, 1986, or is otherwise disestablished for any reason, no new expenditures or new financial assistance may be made available, and no new license or new permit, or exemption from a license or permit requirement, shall be issued, under authority of any Federal law for any activity within the scenic area, excluding urban areas, which the Secretary,<sup>1</sup> determines is inconsistent with any implementation measure pursuant to, the standards established in section 544d(b) of this title, or the purposes of sections 544 to 544p of this title.
 
 (2)(A)(i) An expenditure or financial assistance made available under authority of Federal law shall be treated, for purposes of this subsection, as a new expenditure or new financial assistance if—
 
@@ -52,7 +52,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 (ii) Payments made to the State pursuant to the following Acts shall not be treated as an expenditure or financial assistance for purposes of this subsection: section 500 of this title; the Mineral Lands Leasing Act of 1920 \[30 U.S.C. 181 et seq.\]; chapter 69 of title 31 (relating to payments in lieu of taxes for entitlement land); the Act of June 9, 1916 (39 Stat. 218), and the Act of Feb. 26, 1919 (40 Stat. 1179).
 
-(B) A license or permit, or exemption from a license or permit requirement, shall be treated,for purposes of this subsection, as a new license or new permit, or exemption from a license or permit requirement, if such license or permit, or exemption from a license or permit requirement, was issued on or after October 1, 1986. A renewal under similar terms and conditions of a license or permit, or exemption from a license or permit requirement, issued before October 1, 1986, shall not be treated as a new license or new permit, or exemption from a license or permit requirement.
+(B) A license or permit, or exemption from a license or permit requirement, shall be treated, for purposes of this subsection, as a new license or new permit, or exemption from a license or permit requirement, if such license or permit, or exemption from a license or permit requirement, was issued on or after October 1, 1986. A renewal under similar terms and conditions of a license or permit, or exemption from a license or permit requirement, issued before October 1, 1986, shall not be treated as a new license or new permit, or exemption from a license or permit requirement.
 
 (3) Notwithstanding paragraph (1), the appropriate Federal officer, after consultation with the Secretary, may make Federal expenditures or financial assistance available within the area for any of the following:
 
@@ -84,7 +84,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 #### (f) Transfer of public lands
 
-Subject to valid existing rights, all public lands within the scenic area administered by the Secretary of the Interior through the Bureau of Land Management are hereby transferred without consideration to the jurisdiction of the Secretary to be managed as National Forest lands in accordance with the provisions of sections 544 to 544p of this title.
+Subject to valid existing rights, all public lands within the scenic area administered by theSecretary of the Interior through the Bureau of Land Management are hereby transferred without consideration to the jurisdiction of the Secretary to be managed as National Forest lands in accordance with the provisions of sections 544 to 544p of this title.
 
 (Pub. L. 99–663, §14, Nov. 17, 1986, 100 Stat. 4294; Pub. L. 106–291, title III, §346(e), Oct. 11, 2000, 114 Stat. 1000.)
 

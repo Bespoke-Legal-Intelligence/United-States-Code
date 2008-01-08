@@ -18,7 +18,7 @@ Subsec. (b). Pub. L. 104–127 inserted “and private entities” after “deve
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to negotiate agreements with friendly countries for sales of commodities for dollars on credit terms, or for foreign currencies, on credit or on terms permitting conversion to dollars, setting minimum level for sales in foreign currencies, limiting extent of sales for foreign currency to amounts that can be productively used in private sector of foreign country, and requiring that sales for foreign currency through financial intermediaries be on terms and conditions specified in agreements.
 
-1987—Subsec. (b)(1). Pub. L. 100–202, §8(1), inserted provisions which required for each of fiscal years 1988 through 1990 that each agreement provide for some sale of foreign currencies for use under section 1708 of this title unless the President determines that the level of agricultural commodities furnished under this subchapter will be significantly reduced as a result of this sentence.
+1987—Subsec. (b)(1). Pub. L. 100–202, §8(1), inserted provisions which required for each of fiscal years 1988through 1990 that each agreement provide for some sale of foreign currencies for use under section 1708 of this title unless the President determines that the level of agricultural commodities furnished under this subchapter will be significantly reduced as a result of this sentence.
 
 Subsec. (b)(2). Pub. L. 100–202, §8(2), inserted “, or enter into sales agreements not providing for sales for foreign currencies for use under section 1708 of this title,” after “currencies”.
 
@@ -54,7 +54,7 @@ Pub. L. 90–7, Apr. 1, 1967, 81 Stat. 7, provided: “That the Congress approve
 
 &emsp;“(b) encourage and assist the Government of India in achieving food self-sufficiency; and
 
-&emsp;“(c) help meet India's critical food and nutritional needs by making available agricultural commoditiesor other resources needed for food procurement or production.
+&emsp;“(c) help meet India's critical food and nutritional needs by making available agricultural commodities or other resources needed for food procurement or production.
 
 “Because uncertainty in connection with Public Law 480 transactions tends to depress market prices, it is the sense of Congress that, in carrying out this Aid to India program, the Administration should, subject to the requirement of section 401 of Public Law 480 \[section 1731 of this title\] with respect to the availability of the commodity at the time of exportation, make announcements of intention, purchases and shipments of commodities on schedules and under circumstances which will protect and strengthen farm market prices to the maximum extent possible.
 

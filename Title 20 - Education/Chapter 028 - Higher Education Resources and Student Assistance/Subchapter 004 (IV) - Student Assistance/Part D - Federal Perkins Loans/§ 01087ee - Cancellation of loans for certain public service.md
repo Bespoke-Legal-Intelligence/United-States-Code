@@ -80,7 +80,7 @@ The Head Start Act, referred to in subsec. (a)(2)(B), is subchapter B (§§635 t
 
 The Peace Corps Act, referred to in subsec. (a)(2)(E), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act tothe Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
@@ -102,7 +102,7 @@ Subsec. (a)(2)(C). Pub. L. 105–244, §465(1)(A), substituted “section 1435(a
 
 Subsec. (a)(7). Pub. L. 105–244, §465(1)(C), added par. (7).
 
-Subsec. (b). Pub. L. 105–244, §465(2), inserted at end “To the extent feasible, the Secretary shall pay theamounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.”
+Subsec. (b). Pub. L. 105–244, §465(2), inserted at end “To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.”
 
 1994—Subsec. (a)(2)(A). Pub. L. 103–382 substituted “title I of the Elementary and Secondary Education Act of 1965” for “chapter 1 of the Education Consolidation and Improvement Act of 1981”.
 

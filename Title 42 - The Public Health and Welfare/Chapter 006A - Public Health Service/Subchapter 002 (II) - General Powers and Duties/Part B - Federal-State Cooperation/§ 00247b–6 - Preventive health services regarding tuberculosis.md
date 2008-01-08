@@ -28,7 +28,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (1) In general
 
-&emsp;The Secretary may make a grant under subsection (a) or (b) of this section only if an application for the grant is submitted to the Secretary and the application, subject to paragraph (2), is in such form, is made in suchmanner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out the subsection involved.
+&emsp;The Secretary may make a grant under subsection (a) or (b) of this section only if an application for the grant is submitted to the Secretary and the application, subject to paragraph (2), is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out the subsection involved.
 
 #### (2) Plan for prevention, control, and elimination
 
@@ -116,7 +116,7 @@ Amendment by section 401(b)(1) of Pub. L. 105–392 deemed to have taken effect 
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

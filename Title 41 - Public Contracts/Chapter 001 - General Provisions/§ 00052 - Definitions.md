@@ -14,7 +14,7 @@ As used in sections 51 to 58 of this title:
 
 &emsp;(6) The term “prime contractor employee” means any officer, partner, employee, or agent of a prime contractor.
 
-&emsp;(7) The term “subcontract” means a contract or contractual action entered into by a prime contractor or subcontractor for the purpose of obtaining supplies, materials, equipment, or services of any kind under a prime contract.
+&emsp;(7) The term “subcontract” means a contract or contractual action entered into by aprime contractor or subcontractor for the purpose of obtaining supplies, materials, equipment, or services of any kind under a prime contract.
 
 &emsp;(8) The term “subcontractor”—
 

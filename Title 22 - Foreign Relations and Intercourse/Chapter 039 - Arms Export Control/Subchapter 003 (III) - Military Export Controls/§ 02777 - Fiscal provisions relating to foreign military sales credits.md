@@ -2,7 +2,7 @@
 
 #### (a) Permissible uses of cash payments under sections 2761, 2762, 2763, and 2769
 
-Cash payments received under sections 2761, 2762, and 2769 of this title and advances receivedunder section 2763 of this title shall be available solely for payments to suppliers (including the military departments) and refunds to purchasers and shall not be available for financing credits and guaranties.
+Cash payments received under sections 2761, 2762, and 2769 of this title and advances received under section 2763 of this title shall be available solely for payments to suppliers (including the military departments) and refunds to purchasers and shall not be available for financing credits and guaranties.
 
 #### (b) Transfer of funds to miscellaneous receipts of Treasury
 
@@ -10,7 +10,7 @@ Amounts received from foreign governments and international organizations as rep
 
 #### (c) Credit of funds to reserve under section 2764(c)
 
-Notwithstanding the provisions of subsection (b) of this section, to the extent that any of the funds constituting the reserve under section 2764(c) of this title are paid out for a claim arising out of a loan guaranteed under section 2764 of this title, amounts received from a foreign government or international organization after the date of such payment, with respect to such claim, shall be credited to such reserve, shall be merged with the funds in such reserve, and shall be available for any purpose for which funds in such reserve are available.
+Notwithstanding the provisions of subsection (b) of this section, to the extent that any of thefunds constituting the reserve under section 2764(c) of this title are paid out for a claim arising out of a loan guaranteed under section 2764 of this title, amounts received from a foreign government or international organization after the date of such payment, with respect to such claim, shall be credited to such reserve, shall be merged with the funds in such reserve, and shall be available for any purpose for which funds in such reserve are available.
 
 (Pub. L. 90–629, ch. 3, §37, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 93–189, §25(11), Dec. 17, 1973, 87 Stat. 731; Pub. L. 96–533, title I, §§104(b), 105(e)(1), Dec. 16, 1980, 94 Stat. 3133, 3135.)
 

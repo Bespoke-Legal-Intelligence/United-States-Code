@@ -2,7 +2,7 @@
 
 #### (a) Termination of employment
 
-No employer may discharge any employee by reason of the fact that his earnings have beensubjected to garnishment for any one indebtedness.
+No employer may discharge any employee by reason of the fact that his earnings have been subjected to garnishment for any one indebtedness.
 
 #### (b) Penalties
 

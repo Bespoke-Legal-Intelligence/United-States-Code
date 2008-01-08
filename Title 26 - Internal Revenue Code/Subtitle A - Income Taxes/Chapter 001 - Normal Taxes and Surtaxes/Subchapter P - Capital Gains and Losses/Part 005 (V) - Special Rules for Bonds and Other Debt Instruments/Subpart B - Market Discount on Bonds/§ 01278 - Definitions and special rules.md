@@ -146,7 +146,7 @@ Amendments by Pub. L. 103–66 applicable to obligations purchased (within the m
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -154,7 +154,7 @@ Amendment by sections 1803(a)(6) and 1878(a) of Pub. L. 99–514 effective, exce
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, seesection 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
+Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
 #### Effective Date
 

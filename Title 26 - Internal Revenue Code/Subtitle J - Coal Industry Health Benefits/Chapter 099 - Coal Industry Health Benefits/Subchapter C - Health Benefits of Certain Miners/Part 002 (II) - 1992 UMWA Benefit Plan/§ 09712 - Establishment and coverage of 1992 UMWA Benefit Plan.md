@@ -34,7 +34,7 @@
 
 #### (B) Use of funds
 
-&emsp;&emsp;Any amount transferred under subparagraph (A) for any fiscal year shall be used to provide the health benefits described in section 402(h)(2)(C)(i) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(2)(C)(i)) to individuals described in section 402(h)(2)(C) of such Act (30 U.S.C. 1232(h)(2)(C)).
+&emsp;&emsp;Any amount transferred under subparagraph (A) for any fiscal year shall be used toprovide the health benefits described in section 402(h)(2)(C)(i) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(2)(C)(i)) to individuals described in section 402(h)(2)(C) of such Act (30 U.S.C. 1232(h)(2)(C)).
 
 #### (b) Coverage requirement
 

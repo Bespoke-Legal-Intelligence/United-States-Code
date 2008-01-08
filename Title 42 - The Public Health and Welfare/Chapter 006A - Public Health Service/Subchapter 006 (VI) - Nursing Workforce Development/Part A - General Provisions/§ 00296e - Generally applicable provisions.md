@@ -12,7 +12,7 @@ The Secretary shall ensure that grants and contracts under this subchapter are a
 
 #### (2) Evaluations
 
-&emsp;The Secretary shall establish procedures to ensure the annual evaluation of programs and projects operated by recipients of grants underthis subchapter. Such procedures shall ensure that continued funding for such programs and projects will be conditioned upon a demonstration that satisfactory progress has been made by the program or project in meeting the objectives of the program or project.
+&emsp;The Secretary shall establish procedures to ensure the annual evaluation of programs and projects operated by recipients of grants under this subchapter. Such procedures shall ensure that continued funding for such programs and projects will be conditioned upon a demonstration that satisfactory progress has been made by the program or project in meeting the objectives of the program or project.
 
 #### (c) Training programs
 
@@ -26,7 +26,7 @@ Training programs conducted with amounts received under this subchapter shall me
 
 #### (2) Limitation
 
-&emsp;In the case of an award to an entity of a grant, cooperative agreement, or contract under this subchapter, paragraph (1) shall apply only to the extent not inconsistent with any other provision of this subchapter that relates to the period during which payments may be made under the award.
+&emsp;In the case of an award to an entity of a grant, cooperative agreement, or contract under this subchapter, paragraph (1) shallapply only to the extent not inconsistent with any other provision of this subchapter that relates to the period during which payments may be made under the award.
 
 #### (e) Peer review regarding certain programs
 

@@ -12,7 +12,7 @@ The map shall be on file and available for public inspection in the appropriate 
 
 Until the date on which the national park is established, the Secretary shall annually notify the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives of—
 
-&emsp;(1) the estimate of the Secretary of the lands necessary to achieve a sufficient diversity of resources to warrant designation of the national park; and
+&emsp;(1) the estimate of the Secretary of the lands necessary to achieve a sufficient diversity ofresources to warrant designation of the national park; and
 
 &emsp;(2) the progress of the Secretary in acquiring the necessary lands.
 
@@ -31,6 +31,10 @@ Administrative jurisdiction is transferred to the National Park Service over any
 &emsp;(2) is not under the administrative jurisdiction of the National Park Service on November 22, 2000.
 
 (Pub. L. 106–530, §4, Nov. 22, 2000, 114 Stat. 2529.)
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Designation of Park
 

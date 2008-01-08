@@ -22,7 +22,7 @@ In recognition of the vital importance of America's renewable resources of the f
 
 The Secretary shall report in the 1979 and subsequent Assessments on:
 
-&emsp;(1) the additional fiber potential in the National Forest System including, but not restricted to, forest mortality, growth, salvage potential, potential increased forest products sales, economic constraints, alternate markets, contract considerations, and other multiple use considerations;
+&emsp;(1) the additional fiber potential in the National Forest System including, but not restricted to, forest mortality, growth, salvagepotential, potential increased forest products sales, economic constraints, alternate markets, contract considerations, and other multiple use considerations;
 
 &emsp;(2) the potential for increased utilization of forest and wood product wastes in the National Forest System and on other lands, and of urban wood wastes and wood product recycling, including recommendations to the Congress for actions which would lead to increased utilization of material now being wasted both in the forests and in manufactured products; and
 

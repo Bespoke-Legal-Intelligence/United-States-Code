@@ -2,7 +2,7 @@
 
 #### (a) Minimum levels of capital
 
-The Farm Credit Administration shall cause System institutions to achieve and maintain adequate capital by establishing minimum levels of capital for such System institutions and by using such other methods as the Farm Credit Administration deems appropriate. The Farm Credit Administration may establish such minimum level of capital for a System institution as the Farm Credit Administration, in its discretion, deems to be necessary or appropriate inlight of the particular circumstances of the System institution.
+The Farm Credit Administration shall cause System institutions to achieve and maintain adequate capital by establishing minimum levels of capital for such System institutions and by using such other methods as the Farm Credit Administration deems appropriate. The Farm Credit Administration may establish such minimum level of capital for a System institution as the Farm Credit Administration, in its discretion, deems to be necessary or appropriate in light of the particular circumstances of the System institution.
 
 #### (b) Failure to maintain minimum levels; directives; plans for achieving minimum levels; proposals affecting compliance
 
@@ -50,7 +50,7 @@ In general.—
 
 &emsp;“(A)
 
-Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulations under section 4.3(a) of the Farm Credit Act of 1971 (12 U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
+Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulationsunder section 4.3(a) of the Farm Credit Act of 1971 (12 U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
 
 &emsp;“(B)
 
@@ -66,7 +66,7 @@ Phase-in period.—The standards established under subparagraph (A) shall be pha
 
 “(2)
 
-Emergency power not available.—The Farm Credit Administration shall not invoke the emergencyprovisions of section 5.17(c)(2) of the Farm Credit Act of 1971 (12 U.S.C. 2251(c)(2) \[12 U.S.C. 2252(c)(2)\]) with respect to the issuance of the regulations required under paragraph (1)(A).
+Emergency power not available.—The Farm Credit Administration shall not invoke the emergency provisions of section 5.17(c)(2) of the Farm Credit Act of 1971 (12 U.S.C. 2251(c)(2) \[12 U.S.C. 2252(c)(2)\]) with respect to the issuance of the regulations required under paragraph (1)(A).
 
 “(3)
 

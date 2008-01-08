@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) shall provide that the officer or employee shall be entitled to continue receiving the rate of basic pay that was payable to the officer or employee immediately before the reduction in grade or band until such time as the retained rate becomes less than the maximum rate for the grade or band of the position held by such officer or employee; and
 
-&emsp;&emsp;(B) shall include provisions relating to the minimum period of time for which an officeror employee must have served or for which the position must have been classified at the higher grade or band in order for pay retention to apply, the events that terminate the right to pay retention (apart from the one described in subparagraph (A)), and exclusions based on the nature of an appointment; in prescribing regulations under this subparagraph, the Comptroller General shall be guided by the provisions of sections 5362 and 5363 of title 5.
+&emsp;&emsp;(B) shall include provisions relating to the minimum period of time for which an officer or employee must have served or for which the position must have been classified at the higher grade or band in order for pay retention to apply, the events that terminate the right to pay retention (apart from the one described in subparagraph (A)), and exclusions based on the nature of an appointment; in prescribing regulations under this subparagraph, the Comptroller General shall be guided by the provisions of sections 5362 and 5363 of title 5.
 
 (d) The personnel management system shall provide—
 
@@ -90,7 +90,7 @@
 
 (g) An officer or employee of the Government Accountability Office completing at least one year of continuous service under a nontemporary appointment under the personnel management system acquires a competitive status for appointment to a position in the competitive service for which the officer or employee is qualified.
 
-(h)(1)(A) Notwithstanding any other provision of law, the Comptroller General shall prescribe regulations, consistent with regulations issued by the Office of Personnel Management under authority of section 3502(a) of title 5 for the separation of employees of the Government Accountability Office during a reduction in force or other adjustment in force.
+(h)(1)(A) Notwithstanding any other provision of law, the Comptroller General shall prescriberegulations, consistent with regulations issued by the Office of Personnel Management under authority of section 3502(a) of title 5 for the separation of employees of the Government Accountability Office during a reduction in force or other adjustment in force.
 
 (B) The regulations must give effect to the following factors in descending order of priority—
 

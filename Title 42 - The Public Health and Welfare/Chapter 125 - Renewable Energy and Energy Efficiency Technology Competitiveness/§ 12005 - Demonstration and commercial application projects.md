@@ -8,7 +8,7 @@ The purpose of this section is to direct the Secretary to further the commercial
 
 #### (1) Establishment
 
-&emsp;(A) The Secretary shall solicit proposals for demonstration and commercial application projects for renewable energy and energy efficiency technologies pursuant to subsection (c) of this section. Such projects may include projects for—
+&emsp;(A) The Secretary shall solicit proposals for demonstration and commercial application projects for renewable energy and energy efficiency technologies pursuant to subsection (c)of this section. Such projects may include projects for—
 
 &emsp;&emsp;(i) the production and sale of electricity, thermal energy, or other forms of energy using a renewable energy technology;
 

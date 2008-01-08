@@ -193,7 +193,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) clause (i) shall not apply, and
 
-&emsp;&emsp;&emsp;&emsp;(II) for purposes of computing any annualized income installment for such taxable year, the taxpayer shall be treated as having received ratably during such taxable year items of income and credit described in clause (i) in anamount equal to the amount of such items shown on the return of the taxpayer for the preceding taxable year (the second preceding taxable year in the case of the first and second required installments for such taxable year).
+&emsp;&emsp;&emsp;&emsp;(II) for purposes of computing any annualized income installment for such taxable year, the taxpayer shall be treated as having received ratably during such taxable year items of income and credit described in clause (i) in an amount equal to the amount of such items shown on the return of the taxpayer for the preceding taxable year (the second preceding taxable year in the case of the first and second required installments for such taxable year).
 
 #### (e) Exceptions
 
@@ -379,7 +379,7 @@ In the case of a nonresident alien described in section 6072(c):
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7), title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982, 96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12, 1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560, 3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug. 10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §531(a), Dec. 17, 1999, 113 Stat. 1928.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 823; Pub. L. 87–682, §1(a)(4), Sept. 25, 1962, 76 Stat. 575; Pub. L. 89–368, title I, §§102(b)(1)–(3), 103(a), Mar. 15, 1966, 80 Stat. 62–64; Pub. L. 91–172, title III, §301(b)(13), Dec. 30, 1969, 83 Stat. 586; Pub. L. 92–5, title II, §203(b)(7), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(7), July 1, 1972, 86 Stat. 420; Pub. L. 93–66, title II, §203(b)(7), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(7), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(a)(35), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834; Pub. L. 95–30, title I, §102(b)(16), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title IV, §421(e)(9), Nov. 6, 1978, 92 Stat. 2877; Pub. L. 97–34, title VI, §601(a)(6)(A), title VII, §725(b), (c)(5), Aug. 13, 1981, 95 Stat. 336, 346; Pub. L. 97–248, title II, §207(d)(7), formerly §207(c)(7), title III, §§307(a)(14), 308(a), 328(a), Sept. 3, 1982, 96 Stat. 420, 590, 591, 618, renumbered §207(d)(7), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–448, title I, §§106(a)(4)(C), 107(c)(1), title II, §201(j)(3), Jan. 12,1983, 96 Stat. 2390, 2391, 2396; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §411, July 18, 1984, 98 Stat. 788; Pub. L. 99–514, title XIV, §1404(a), title XV, §§1511(c)(14), 1541(a), (b), title XVIII, §1841, Oct. 22, 1986, 100 Stat. 2713, 2745, 2751, 2852; Pub. L. 100–418, title I, §1941(b)(6)(A), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1014(d)(1), (2), title IV, §4005(g)(5), Nov. 10, 1988, 102 Stat. 3560, 3651; Pub. L. 101–239, title VII, §7811(j)(5), (6), Dec. 19, 1989, 103 Stat. 2411, 2412; Pub. L. 102–164, title IV, §403(a), (b), Nov. 15, 1991, 105 Stat. 1062, 1064; Pub. L. 103–66, title XIII, §13214(a), (b), Aug. 10, 1993, 107 Stat. 475; Pub. L. 103–465, title VII, §711(b), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 105–34, title X, §1091(a), title XII, §1202(a), Aug. 5, 1997, 111 Stat. 962, 994; Pub. L. 105–277, div. J, title II, §2003(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §531(a), Dec. 17, 1999, 113 Stat. 1928.)
 
 #### Amendments
 
@@ -475,7 +475,7 @@ Subsec. (g)(3)(B). Pub. L. 97–448, §201(j)(3), amended subpar. (B) generally.
 
 Pub. L. 97–448, §106(a)(4)(C), inserted “or 6430” after “section 6429”.
 
-1982—Subsec. (e)(1). Pub. L. 97–248, §§307(a)(14), 308(a), provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, par. (1) is amended by inserting “, interest, dividends, and patronage dividends” after “tax withheld at source on wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\]shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Subsec. (e)(1). Pub. L. 97–248, §§307(a)(14), 308(a), provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, par. (1) is amended by inserting “, interest, dividends, and patronage dividends” after “tax withheld at source on wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 Subsec. (g). Pub. L. 97–248, §328(a)(2), substituted “(f), and (h)” for “and (f)”.
 
@@ -557,7 +557,7 @@ Section 403(c) of Pub. L. 102–164 provided that: “The amendments made by thi
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988,Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendments
 
@@ -617,7 +617,7 @@ Amendment by section 725(b), (c)(5) of Pub. L. 97–34 applicable to estimated t
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) of Pub. L. 95–600, set out as a note under section 5 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) ofPub. L. 95–600, set out as a note under section 5 of this title.
 
 #### Effective Date of 1977 Amendment
 
@@ -647,7 +647,7 @@ Amendment by Pub. L. 92–5 applicable only with respect to taxable years beginn
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 301(c) ofPub. L. 91–172, set out as a note under section 5 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -687,7 +687,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Waiver of Estimated Penalties for 1986 Underpayments Attributable to Tax Reform Act of 1986
 
-Section 1543 of Pub. L. 99–514 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 (relating to failure to pay estimated tax) for any period before April 16, 1987 (March 16, 1987, in the case of a taxpayer subject to section 6655 of such Code), with respect to any underpayment, to the extent such underpayment was created or increased by any provision of this Act \[Pub. L. 99–514, see Tables for classification\].”
+Section 1543 of Pub. L. 99–514 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 (relating to failure to pay estimated tax) for any period before April 16, 1987\(March 16, 1987, in the case of a taxpayer subject to section 6655 of such Code), with respect to any underpayment, to the extent such underpayment was created or increased by any provision of this Act \[Pub. L. 99–514, see Tables for classification\].”
 
 #### Waiver of Estimated Tax Penalties
 

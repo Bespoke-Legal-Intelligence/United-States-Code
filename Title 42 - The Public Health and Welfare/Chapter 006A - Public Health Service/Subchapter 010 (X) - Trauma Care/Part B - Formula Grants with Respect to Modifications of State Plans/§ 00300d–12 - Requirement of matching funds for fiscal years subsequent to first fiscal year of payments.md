@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;The Secretary may not make payments under section 300d–11(a) of this title unless the State involved agrees, with respect to the costs described in paragraph (2), to make available non-Federal contributions (in cash or in kind under subsection (b)(1) of this section) toward such costs in an amount equal to—
+&emsp;The Secretary may not make payments under section 300d–11(a) of this title unless the State involved agrees, with respect to the costs described in paragraph (2), to make available non-Federal contributions (in cash or in kind under subsection (b)(1)) toward such costs in an amount that—
 
-&emsp;&emsp;(A) for the second fiscal year of such payments to the State, not less than $1 for each $1 of Federal funds provided in such payments for such fiscal year; and
+&emsp;&emsp;(A) for the second and third fiscal years of such payments to the State, is not less than $1 for each $1 of Federal funds provided in such payments for such fiscal years; and
 
-&emsp;&emsp;(B) for any subsequent fiscal year of such payments to the State, not less than $3 for each $1 of Federal funds provided in such payments for such fiscal year.
+&emsp;&emsp;(B) for the fourth and subsequent fiscal years of such payments to the State, is not less than $2 for each $1 of Federal funds provided in such payments for such fiscal years.
 
 #### (2) Program costs
 
@@ -24,21 +24,17 @@
 
 #### (b) Determination of amount of non-Federal contribution
 
-With respect to compliance with subsection (a) of this section as a condition of receiving payments under section 300d–11(a) of this title—
+With respect to compliance with subsection (a) as a condition of receiving payments under section 300d–11(a) of this title—
 
-&emsp;(1) a State may make the non-Federal contributions required in such subsection in cash or in kind, fairly evaluated, including plant, equipment, or services;
+&emsp;(1) a State may make the non-Federal contributions required in such subsection in cash or in kind, fairly evaluated, including plant, equipment, or services; and
 
-&emsp;(2) the Secretary may not, in making a determination of the amount of non-Federal contributions, include amounts provided by the Federal Government or services assisted or subsidized to any significant extent by the Federal Government; and
+&emsp;(2) the Secretary may not, in making a determination of the amount of non-Federal contributions, include amounts provided by the Federal Government or services assisted or subsidized to any significant extent by the Federal Government.
 
-&emsp;(3) the Secretary shall, in making such a determination, include only non-Federal contributions in excess of the amount of non-Federal contributions made by the State during fiscal year 1990 toward—
-
-&emsp;&emsp;(A) the costs of providing trauma care in the State; and
-
-&emsp;&emsp;(B) the costs of improving the quality and availability of emergency medical services in rural areas of the State.
-
-(July 1, 1944, ch. 373, title XII, §1212, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2919; amended Pub. L. 103–183, title VI, §601(f)(2), Dec. 14, 1993, 107 Stat. 2239.)
+(July 1, 1944, ch. 373, title XII, §1212, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2919; amended Pub. L. 103–183, title VI, §601(f)(2), Dec. 14, 1993, 107 Stat. 2239; Pub. L. 110–23, §6, May 3, 2007, 121 Stat. 92.)
 
 #### Amendments
+
+2007—Pub. L. 110–23 amended section generally. Prior to amendment, section related to requirement of matching funds for fiscal years subsequent to first fiscal year of payments.
 
 1993—Subsec. (a)(2)(A). Pub. L. 103–183 substituted “section 300d–11(b)” for “section 300d–11(c)”.
 

@@ -24,7 +24,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (h) The term “offering date” means the date the property in question is offered for sale.
 
-(i) The term “project area” means that area which on August 4, 1955, constitutes the Federal area at Oak Ridge, Tennessee, or Hanford, Washington, or that area which, on the date Los Alamos is included within this chapter, constitutes the County of Los Alamos, New Mexico, excluding therefrom, however, that land which is, on said date, under the administrative control ofthe National Park Service of the Department of the Interior.
+(i) The term “project area” means that area which on August 4, 1955, constitutes the Federal area at Oak Ridge, Tennessee, or Hanford, Washington, or that area which, on the date Los Alamos is included within this chapter, constitutes the County of Los Alamos, New Mexico, excluding therefrom, however, that land which is, on said date, under the administrative control of the National Park Service of the Department of the Interior.
 
 (j) The term “project-connected person” means any person who, on the first offering date, is regularly employed at the project area in one of the following capacities:
 

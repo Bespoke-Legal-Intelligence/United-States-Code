@@ -2,7 +2,7 @@
 
 #### (a) Finding
 
-Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Saharan Africa,the Caribbean, and other developing countries is a major global health, national security, development, and humanitarian crisis.
+Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Saharan Africa, the Caribbean, and other developing countries is a major global health, national security, development, and humanitarian crisis.
 
 #### (b) Policy
 
@@ -66,7 +66,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;The monitoring of programs, projects, and activities carried out pursuant to paragraphs (1) through (3), including—
 
-&emsp;&emsp;(A) monitoring to ensure that adequate controls are established and implemented to provide HIV/AIDS pharmaceuticals and other appropriate medicines to poor individuals with HIV/AIDS;
+&emsp;&emsp;(A) monitoring to ensure that adequate controls are established and implemented to provide HIV/AIDS pharmaceuticals andother appropriate medicines to poor individuals with HIV/AIDS;
 
 &emsp;&emsp;(B) appropriate evaluation and surveillance activities;
 
@@ -134,7 +134,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;&emsp;&emsp;(ii) the progress made toward improving health care delivery systems (including the training of adequate numbers of staff) and infrastructure to ensure increased access to care and treatment;
 
-&emsp;&emsp;&emsp;(iii) with respect to tuberculosis, the increase in the number of people treated and the increase in number of tuberculosis patients cured through each program, project, or activity receiving United States foreign assistance for tuberculosis control purposes; and
+&emsp;&emsp;&emsp;(iii) with respect to tuberculosis, the increase in the number of people treated and the increase in number of tuberculosis patients cured through each program, project, or activity receiving UnitedStates foreign assistance for tuberculosis control purposes; and
 
 &emsp;&emsp;&emsp;(iv) with respect to malaria, the increase in the number of people treated and the increase in number of malaria patients cured through each program, project, or activity receiving United States foreign assistance for malaria control purposes.
 
@@ -167,6 +167,10 @@ In this section:
 #### References in Text
 
 This chapter, referred to in subsecs. (e)(2)(C)(i)(II) and (g)(4), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Delegation of Functions
 

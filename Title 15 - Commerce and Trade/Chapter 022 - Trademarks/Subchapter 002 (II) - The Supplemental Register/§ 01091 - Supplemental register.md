@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 106–113 substituted “Director” for “Commissioner”
 
 1988—Pub. L. 100–667, §121(6), struck out undesignated concluding par. which read as follows: “Upon a proper showing by the applicant that he requires domestic registration as a basis for foreign protection of his mark, the Commissioner may waive the requirement of a full year's use and may grant registration forthwith.”
 
-Subsec. (a). Pub. L. 100–667, §121(1), (4), designated first par. as subsec. (a), made technical amendment toreference in the original act to subsections (a), (b), (c), and (d) of section 1052 of this title resulting in no change in text, substituted “are in lawful use in commerce by the owner thereof, on” for “have been in lawful use in commerce by the proprietor thereof, upon”, struck out “for the year preceding the filing of the application” after “any goods and services”, and inserted “subsections (a) and (e) of” before “section 1051”.
+Subsec. (a). Pub. L. 100–667, §121(1), (4), designated first par. as subsec. (a), made technical amendment to reference in the original act to subsections (a), (b), (c), and (d) of section 1052 of this title resulting in no change in text, substituted “are in lawful use in commerce by the owner thereof, on” for “have been in lawful use in commerce by the proprietor thereof, upon”, struck out “for the year preceding the filing of the application” after “any goods and services”, and inserted “subsections (a) and (e) of” before “section 1051”.
 
 Subsec. (b). Pub. L. 100–667, §121(2), (5), designated second par. as subsec. (b) and substituted “prescribed fee” for “fee herein provided”.
 

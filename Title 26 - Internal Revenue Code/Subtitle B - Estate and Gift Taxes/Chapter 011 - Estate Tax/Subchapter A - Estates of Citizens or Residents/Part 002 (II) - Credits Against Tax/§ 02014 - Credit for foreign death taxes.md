@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The tax imposed by section 2001 shall be credited with the amount of any estate, inheritance, legacy, or succession taxes actually paid to any foreign country in respect of any property situated within such foreign country and included in the gross estate (not including any such taxes paid with respect to the estate of a person other than the decedent). The determination of the country within which property is situated shall be made in accordance with the rules applicable under subchapter B (sec. 2101 and following) in determining whether property is situated within or without the United States.
+The tax imposed by section 2001 shall be credited with the amount of any estate, inheritance, legacy, or succession taxes actually paid to any foreign country in respect of any property situated within such foreign country and included in the gross estate (not including any such taxes paid with respect to the estate of a person other than the decedent). The determination of the country within which property is situated shall be made in accordance with the rules applicableunder subchapter B (sec. 2101 and following) in determining whether property is situated within or without the United States.
 
 #### (b) Limitations on credit
 
@@ -70,7 +70,7 @@ Whenever the President finds that—
 
 &emsp;(1) a foreign country, in imposing estate, inheritance, legacy, or succession taxes, does not allow to citizens of the United States resident in such foreign country at the time of death a credit similar to the credit allowed under subsection (a),
 
-&emsp;(2) such foreign country, when requested by the United States to do so has not acted toprovide such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death, and
+&emsp;(2) such foreign country, when requested by the United States to do so has not acted to provide such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death, and
 
 &emsp;(3) it is in the public interest to allow the credit under subsection (a) in the case of citizens or subjects of such foreign country only if it allows such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death,
 

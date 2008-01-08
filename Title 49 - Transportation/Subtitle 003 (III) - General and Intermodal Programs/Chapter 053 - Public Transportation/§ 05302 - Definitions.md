@@ -38,7 +38,7 @@ Capital project.—The term “capital project” means a project for—
 
 &emsp;&emsp;&emsp;&emsp;(II) projects aimed at detecting chemical and biological agents in public transportation;
 
-&emsp;&emsp;&emsp;&emsp;(III) the conduct of emergency response drills with public transportationagencies and local first response agencies; and
+&emsp;&emsp;&emsp;&emsp;(III) the conduct of emergency response drills with public transportation agencies and local first response agencies; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) security training for public transportation employees; but
 

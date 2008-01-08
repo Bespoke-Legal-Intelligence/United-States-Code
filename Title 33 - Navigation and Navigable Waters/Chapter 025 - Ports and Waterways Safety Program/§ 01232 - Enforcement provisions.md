@@ -44,7 +44,7 @@ In subsec. (f)(1), “section 60105 of title 46” substituted for “section 41
 
 1990—Subsec. (b)(1). Pub. L. 101–380, §4302(j)(1), substituted “commits a class D felony” for “shall be fined not more than $50,000 for each violation or imprisoned for not more than five years, or both”.
 
-Subsec. (b)(2). Pub. L. 101–380, §4302(j)(2), which directed the substitution of “commits a class C felony.” for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than 10 years, or both.”, was executed by making the substitution for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than ten years, or both.”
+Subsec. (b)(2). Pub. L. 101–380, §4302(j)(2), which directed the substitution of “commits a class C felony.”for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than 10 years, or both.”, was executed by making the substitution for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than ten years, or both.”
 
 #### Effective Date of 1990 Amendment
 

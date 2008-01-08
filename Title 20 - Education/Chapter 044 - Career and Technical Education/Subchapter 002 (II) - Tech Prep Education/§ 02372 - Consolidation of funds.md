@@ -6,7 +6,7 @@ An eligible agency receiving an allotment under sections 2321 and 2371 of this t
 
 #### (b) Notification requirement
 
-Each eligible agency that chooses to consolidate funds under this section shall notify theSecretary, in the State plan submitted under section 2342 of this title, of the eligible agency's decision to consolidate funds under this section.
+Each eligible agency that chooses to consolidate funds under this section shall notify the Secretary, in the State plan submitted under section 2342 of this title, of the eligible agency's decision to consolidate funds under this section.
 
 #### (c) Treatment of consolidated funds
 

@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (B) Taxpayer engaged in trade or business
 
-&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personal services and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
+&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personalservices and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
 
 #### (3) Tax home
 
@@ -258,39 +258,63 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;An election under subsection (a) shall apply to the taxable year for which made and to all subsequent taxable years unless revoked under paragraph (2).
+&emsp;An election under subsection (a) shall apply to the taxable year for which made and to allsubsequent taxable years unless revoked under paragraph (2).
 
 #### (2) Revocation
 
 &emsp;A taxpayer may revoke an election made under paragraph (1) for any taxable year after the taxable year for which such election was made. Except with the consent of the Secretary, any taxpayer who makes such a revocation for any taxable year may not make another election under this section for any subsequent taxable year before the 6th taxable year after the taxable year for which such revocation was made.
 
-#### (f) Determination of tax liability on nonexcluded amounts
+#### (f) Determination of tax liability
 
-For purposes of this chapter, if any amount is excluded from the gross income of a taxpayer under subsection (a) for any taxable year, then, notwithstanding section 1 or 55—
+#### (1) In general
 
-&emsp;(1) the tax imposed by section 1 on the taxpayer for such taxable year shall be equal to the excess (if any) of—
+&emsp;If, for any taxable year, any amount is excluded from gross income of a taxpayer under subsection (a), then, notwithstanding sections 1 and 55—
 
-&emsp;&emsp;(A) the tax which would be imposed by section 1 for the taxable year if the taxpayer's taxable income were increased by the amount excluded under subsection (a) for the taxable year, over
+&emsp;&emsp;(A) if such taxpayer has taxable income for such taxable year, the tax imposed by section 1 for such taxable year shall be equal to the excess (if any) of—
 
-&emsp;&emsp;(B) the tax which would be imposed by section 1 for the taxable year if the taxpayer's taxable income were equal to the amount excluded under subsection (a) for the taxable year, and
+&emsp;&emsp;&emsp;(i) the tax which would be imposed by section 1 for such taxable year if the taxpayer's taxable income were increased by the amount excluded under subsection (a) for such taxable year, over
 
-&emsp;(2) the tentative minimum tax under section 55 for such taxable year shall be equal to the excess (if any) of—
+&emsp;&emsp;&emsp;(ii) the tax which would be imposed by section 1 for such taxable year if the taxpayer's taxable income were equal to the amount excluded under subsection (a) for such taxable year, and
 
-&emsp;&emsp;(A) the amount which would be such tentative minimum tax for the taxable year if the taxpayer's taxable excess were increased by the amount excluded under subsection (a) for the taxable year, over
+&emsp;&emsp;(B) if such taxpayer has a taxable excess (as defined in section 55(b)(1)(A)(ii)) for such taxable year, the amount determined under the first sentence of section 55(b)(1)(A)(i) for such taxable year shall be equal to the excess (if any) of—
 
-&emsp;&emsp;(B) the amount which would be such tentative minimum tax for the taxable year if the taxpayer's taxable excess were equal to the amount excluded under subsection (a) for the taxable year.
+&emsp;&emsp;&emsp;(i) the amount which would be determined under such sentence for such taxable year (subject to the limitation of section 55(b)(3)) if the taxpayer's taxable excess (as so defined) were increased by the amount excluded under subsection (a) for such taxable year, over
 
-> For purposes of this subsection, the amount excluded under subsection (a) shall be reduced by the aggregate amount of any deductions or exclusions disallowed under subsection (d)(6) with respect to such excluded amount.
+&emsp;&emsp;&emsp;(ii) the amount which would be determined under such sentence for such taxable year if the taxpayer's taxable excess (as so defined) were equal to the amount excluded under subsection (a) for such taxable year.
+
+#### (2) Special rules
+
+#### (A) Regular tax
+
+&emsp;&emsp;In applying section 1(h) for purposes of determining the tax under paragraph (1)(A)(i) for any taxable year in which, without regard to this subsection, the taxpayer's net capital gain exceeds taxable income (hereafter in this subparagraph referred to as the capital gain excess)—
+
+&emsp;&emsp;&emsp;(i) the taxpayer's net capital gain (determined without regard to section 1(h)(11)) shall be reduced (but not below zero) by such capital gain excess,
+
+&emsp;&emsp;&emsp;(ii) the taxpayer's qualified dividend income shall be reduced by so much of such capital gain excess as exceeds the taxpayer's net capital gain (determined without regard to section 1(h)(11) and the reduction under clause (i)), and
+
+&emsp;&emsp;&emsp;(iii) adjusted net capital gain, unrecaptured section 1250 gain, and 28-percent rate gain shall each be determined after increasing the amount described in section 1(h)(4)(B) by such capital gain excess.
+
+#### (B) Alternative minimum tax
+
+&emsp;&emsp;In applying section 55(b)(3) for purposes of determining the tax under paragraph (1)(B)(i) for any taxable year in which, without regard to this subsection, the taxpayer's net capital gain exceeds the taxable excess (as defined in section 55(b)(1)(A)(ii))—
+
+&emsp;&emsp;&emsp;(i) the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting “the taxable excess (as defined in section 55(b)(1)(A)(ii))” for “taxable income”, and
+
+&emsp;&emsp;&emsp;(ii) the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B) shall be treated as a reference to such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
+
+#### (C) Definitions
+
+&emsp;&emsp;Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h), except that in applying subparagraph (B) the adjustments under part VI of subchapter A shall be taken into account.
 
 #### (g) Cross references
 
 &emsp;&emsp;<b>For administrative and penal provisions relating to the exclusions provided for in this section, see sections 6001, 6011, 6012(c), and the other provisions of subtitle F.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 289; Pub. L. 85–866, title I, §72(b), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 87–834, §11(a), Oct. 16, 1962, 76 Stat. 1003; Pub. L. 88–272, title II, §237(a), Feb. 26, 1964, 78 Stat. 128; Pub. L. 89–809, title I, §105(e)(3), Nov. 13, 1966, 80 Stat. 1567; Pub. L. 94–455, title X, §1011(a), (b), title XIX, §§1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1610, 1784, 1834; Pub. L. 95–30, title I, §102(b)(12), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §401(b)(4), title VII, §§701(u)(10)(A), 703(e), Nov. 6, 1978, 92 Stat. 2867, 2917, 2939; Pub. L. 95–615, title II, §202(a)–(e), (g)(1), formerly §202(a)–(f)(1), Nov. 8, 1978, 92 Stat. 3098–3100, renumbered §202(a)–(e), (g)(1), and amended Pub. L. 96–222, title I, §§107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, 94 Stat. 223, 224; Pub. L. 96–595, §4(a)–(c)(1), Dec. 24, 1980, 94 Stat. 3466, 3467; Pub. L. 97–34, title I, §111(a), Aug. 13, 1981, 95 Stat. 190; Pub. L. 97–448, title I, §101(c), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title I, §17, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title XII, §1233(a), (b), Oct. 22, 1986, 100 Stat. 2564; Pub. L. 105–34, title XI, §1172(a), Aug. 5, 1997, 111 Stat. 988; Pub. L. 109–222, title V, §515(a)–(c), May 17, 2006, 120 Stat. 367.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 289; Pub. L. 85–866, title I, §72(b), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 87–834, §11(a), Oct. 16, 1962, 76 Stat. 1003; Pub. L. 88–272, title II, §237(a), Feb. 26, 1964, 78 Stat. 128; Pub. L. 89–809, title I, §105(e)(3), Nov. 13, 1966, 80 Stat. 1567; Pub. L. 94–455, title X, §1011(a), (b), title XIX, §§1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1610, 1784, 1834; Pub. L. 95–30, title I, §102(b)(12), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §401(b)(4), title VII, §§701(u)(10)(A), 703(e), Nov. 6, 1978, 92 Stat. 2867, 2917, 2939; Pub. L. 95–615, title II, §202(a)–(e), (g)(1), formerly §202(a)–(f)(1), Nov. 8, 1978, 92 Stat. 3098–3100, renumbered §202(a)–(e), (g)(1), and amended Pub. L. 96–222, title I, §§107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, 94 Stat. 223, 224; Pub. L. 96–595, §4(a)–(c)(1), Dec. 24, 1980, 94 Stat. 3466, 3467; Pub. L. 97–34, title I, §111(a), Aug. 13, 1981, 95 Stat. 190; Pub. L. 97–448, title I, §101(c), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title I, §17, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title XII, §1233(a), (b), Oct. 22, 1986, 100 Stat. 2564; Pub. L. 105–34, title XI, §1172(a), Aug. 5, 1997, 111 Stat. 988; Pub. L. 109–222, title V, §515(a)–(c), May 17, 2006, 120 Stat. 367; Pub. L. 110–172, §4(c), Dec. 29, 2007, 121 Stat. 2476.)
 
-#### Adjustment of Foreign Earned Income Exclusion Amount for Taxable Year 2007
+#### Adjustment of Foreign Earned Income Exclusion Amount for Taxable Year 2008
 
-<i>For adjustment of the foreign earned income exclusion amount under subsec. (b)(2)(D)(i) for taxable years beginning in 2007, see section 3.30 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of the foreign earned income exclusion amount under subsec. (b)(2)(D)(i) for</i><i>taxable years beginning in 2008, see section 3.30 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -299,6 +323,8 @@ The Trading With the Enemy Act, referred to in subsec. (d)(8)(B)(i), is act Oct.
 The International Emergency Economic Powers Act, referred to in subsec. (d)(8)(B)(i), is Pub. L. 95–223, title II, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Amendments
+
+2007—Subsec. (f). Pub. L. 110–172 amended heading and text generally, substituting provisions relating to determination of tax liability, special rules for determining regular tax and alternative minimum tax, and definitions for former provisions relating to determination of tax liability and tentative minimum tax.
 
 2006—Subsec. (b)(2)(D)(ii). Pub. L. 109–222, §515(a)(1), substituted “2005” for “2007” in introductory provisions.
 
@@ -418,6 +444,10 @@ Subsecs. (c) and (d). Pub. L. 87–834 added subsec. (c) and redesignated former
 
 1958—Subsec. (c). Pub. L. 85–866 added subsec. (c).
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Tax Increase Prevention and Reconciliation Act of 2005, Pub. L. 109–222, to which such amendment relates, with certain exceptions, see section 4(d) of Pub. L. 110–172, set out as a note under section 355 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–222, title V, §515(d), May 17, 2006, 120 Stat. 368, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
@@ -510,7 +540,7 @@ Section 703(e) of Pub. L. 95–600, cited as a credit to this section, was repea
 
 #### Treatment of Certain Persons in Panama
 
-Section 1232(a) of Pub. L. 99–514 provided that: “Nothing in the Panama Canal Treaty (or in any agreement implementing such Treaty) shall be construed as exempting (in whole or in part) any citizen or resident of the United States from any tax under the Internal Revenue Code of 1954 or 1986. The preceding sentence shall apply to all taxable years whether beginning before, on, or after the date of the enactment of this Act \[Oct. 22, 1986\] (or in the case of any tax not imposed with respectto a taxable year, to taxable events after the date of enactment of this Act.)”
+Section 1232(a) of Pub. L. 99–514 provided that: “Nothing in the Panama Canal Treaty (or in any agreement implementing such Treaty) shall be construed as exempting (in whole or in part) any citizen or resident of the United States from any tax under the Internal Revenue Code of 1954 or 1986. The preceding sentence shall apply to all taxable years whether beginning before, on, or after the date of the enactment of this Act \[Oct. 22, 1986\] (or in the case of any tax not imposed with respect to a taxable year, to taxable events after the date of enactment of this Act.)”
 
 #### Taxable Years Beginning in 1977 or 1978; Individuals Who Leave Foreign Country After August 31, 1978
 

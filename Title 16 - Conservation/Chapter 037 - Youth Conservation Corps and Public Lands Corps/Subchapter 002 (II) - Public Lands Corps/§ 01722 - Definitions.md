@@ -38,7 +38,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(D) any land held by incorporated Native groups, regional corporations, and village corporations under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]; and
 
-&emsp;&emsp;(E) any land held by dependent Indian communities within the borders of the United States whether within the original or subsequently acquired territory thereof, andwhether within or without the limits of a State.
+&emsp;&emsp;(E) any land held by dependent Indian communities within the borders of the United States whether within the original or subsequently acquired territory thereof, and whether within or without the limits of a State.
 
 #### (7) Indian tribe
 

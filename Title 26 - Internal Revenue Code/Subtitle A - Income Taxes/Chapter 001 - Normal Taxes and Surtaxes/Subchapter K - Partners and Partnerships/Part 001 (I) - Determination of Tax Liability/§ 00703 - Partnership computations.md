@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 94–455, §1901(b)(21)(F), struck out “under section 615
 
 1971—Subsec. (b). Pub. L. 92–178 substituted “,” for “or” after “(relating to pre-1970 exploration expenditures)” and inserted “under section 57(c) (relating to definition of net lease), or under section 163(d) (relating to limitation on interest on investment indebtedness)” after “(relating to deduction and recapture of certain mining exploration expenditures)”.
 
-1969—Subsec. (b). Pub. L. 91–172 substituted “(relating to pre-1970 exploration expenditures) or under section617 (relating to deduction and recapture of certain mining exploration expenditures)” for “(relating to exploration expenditures) or under section 617 (relating to additional exploration expenditures in the case of domestic mining)”.
+1969—Subsec. (b). Pub. L. 91–172 substituted “(relating to pre-1970 exploration expenditures) or under section 617 (relating to deduction and recapture of certain mining exploration expenditures)” for “(relating to exploration expenditures) or under section 617 (relating to additional exploration expenditures in the case of domestic mining)”.
 
 1966—Subsec. (b). Pub. L. 89–570 provided for election under section 615 (relating to exploration expenditures) or under section 617 (relating to additional exploration expenditures in the case of domestic mining).
 

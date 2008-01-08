@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—For any funeral of a member or former member of the Armed Forces that is not located at a cemetery under the control of the National Cemetery Administration or part of Arlington National Cemetery, it shall be unlawful for any person to engage in an activity during the period beginning 60 minutes before and ending 60 minutes after such funeral, any part of which activity—
+Prohibition.—For any funeral of a member or former member of the Armed Forces that is not located at a cemetery under the control of the National Cemetery Administration or part of Arlington National Cemetery, it shall be unlawful for any person to engage in an activityduring the period beginning 60 minutes before and ending 60 minutes after such funeral, any part of which activity—
 
 &emsp;(1)(A) takes place within the boundaries of the location of such funeral or takes place within 150 feet of the point of the intersection between—
 

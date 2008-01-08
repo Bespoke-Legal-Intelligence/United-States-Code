@@ -8,7 +8,7 @@ In the case of each failure described in subsection (b) by any person with respe
 
 For purposes of subsection (a), the failures described in this subsection are—
 
-&emsp;(1) any failure to furnish a payee statement on or before the date prescribed therefor tothe person to whom such statement is required to be furnished, and
+&emsp;(1) any failure to furnish a payee statement on or before the date prescribed therefor to the person to whom such statement is required to be furnished, and
 
 &emsp;(2) any failure to include all of the information required to be shown on a payee statement or the inclusion of incorrect information.
 

@@ -6,7 +6,7 @@
 
 (c) There are two assistants to the Chief of Engineers appointed as prescribed in section 3036 of this title. An appointee who holds a lower regular grade shall be appointed in the regular grade of brigadier general.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 165, §3040; Pub. L. 95–485, title VIII, §805(a), Oct. 20, 1978, 92 Stat. 1621; renumbered §3039 and amended Pub. L. 99–433, title V, §502(f)(2), Oct. 1, 1986, 100 Stat. 1042.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 165, §3040; Pub. L. 95–485, title VIII, §805(a), Oct. 20, 1978, 92 Stat.1621; renumbered §3039 and amended Pub. L. 99–433, title V, §502(f)(2), Oct. 1, 1986, 100 Stat. 1042.)
 
 Historical and Revision Notes
 

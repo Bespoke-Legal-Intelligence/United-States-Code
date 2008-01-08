@@ -30,7 +30,7 @@ Reports on General Officers and Flag Officers Quarters.—(1) As part of the bud
 
 &emsp;(B) for each family housing unit identified under subparagraph (A), specifying the total of such anticipated operation, maintenance, and repair costs for the unit;
 
-&emsp;(C) identifying each family housing unit in excess of 6,000 square feet used, or intended foruse, as quarters for a general officer or flag officer;
+&emsp;(C) identifying each family housing unit in excess of 6,000 square feet used, or intended for use, as quarters for a general officer or flag officer;
 
 &emsp;(D) for each family housing unit identified under subparagraph (C), specifying any alternative and more efficient use to which the unit could be converted (which would include any costs necessary to convert the unit) and containing an explanation of the reasons why the unit is not being converted to the alternative use; and
 
@@ -54,7 +54,7 @@ Notice and Wait Requirement.—(1) Except as provided in paragraphs (2) and (3),
 
 #### Amendments
 
-2006—Subsecs. (a) to (d). Pub. L. 109–364, §2805 (b)(1)–(4), inserted subsec. headings.
+2006—Subsecs. (a) to (d). Pub. L. 109–364, §2805(b)(1)–(4), inserted subsec. headings.
 
 Subsec. (e). Pub. L. 109–364, §2805(b)(5), struck out “Cost of” before “General Officers” in heading.
 

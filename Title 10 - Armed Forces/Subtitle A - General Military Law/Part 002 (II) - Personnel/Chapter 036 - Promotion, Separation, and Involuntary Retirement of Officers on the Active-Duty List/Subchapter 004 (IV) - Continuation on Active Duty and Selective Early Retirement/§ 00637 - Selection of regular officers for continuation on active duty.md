@@ -12,7 +12,7 @@
 
 &emsp;(A) be discharged upon the expiration of his period of continued service; or
 
-&emsp;(B) if he is eligible for retirement under any provision of law, be retired under that law onthe first day of the first month following the month in which he completes his period of continued service.
+&emsp;(B) if he is eligible for retirement under any provision of law, be retired under that law on the first day of the first month following the month in which he completes his period of continued service.
 
 > Notwithstanding the provisions of clause (A), any officer who would otherwise be discharged under such clause and is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title, shall unless he is sooner retired or discharged under some other provision of law, be retained on active duty until he is qualified for retirement under that section and then be retired.
 

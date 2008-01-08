@@ -2,7 +2,7 @@
 
 #### (a) Imposition
 
-Except as provided in section 2107, a tax is hereby imposed on the transfer of the taxableestate (determined as provided in section 2106) of every decedent nonresident not a citizen of the United States.
+Except as provided in section 2107, a tax is hereby imposed on the transfer of the taxable estate (determined as provided in section 2106) of every decedent nonresident not a citizen of the United States.
 
 #### (b) Computation of tax
 

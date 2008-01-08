@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-In any investigation or inquiry conducted for the purpose of ascertaining the correctness of any entry, for determining the liability of any person for duty, fees and taxes due or duties, fees and taxes which may be due the United States, for determining liability for fines and penalties, or for insuring compliance with thelaws of the United States administered by the United States Customs Service, the Secretary (but no delegate of the Secretary below the rank of district director or special agent in charge) may—
+In any investigation or inquiry conducted for the purpose of ascertaining the correctness of any entry, for determining the liability of any person for duty, fees and taxes due or duties, fees and taxes which may be due the United States, for determining liability for fines and penalties, or for insuring compliance with the laws of the United States administered by the United States Customs Service, the Secretary (but no delegate of the Secretary below the rank of district director or special agent in charge) may—
 
 &emsp;(1) examine, or cause to be examined, upon reasonable notice, any record (which for purposes of this section, includes, but is not limited to, any statement, declaration, document, or electronically generated or machine readable data) described in the notice with reasonable specificity, which may be relevant to such investigation or inquiry, except that—
 
@@ -50,7 +50,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 #### (c) Service of summons
 
-A summons issued pursuant to this section may be served by any person designated in the summons to serve it. Service upon a natural person may be made by personal delivery of the summons to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated associationwhich is subject to suit under a common name, by delivering the summons to an officer, or managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The certificate of service signed by the person serving the summons is prima facie evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of records, such records shall be described in the summons with reasonable specificity.
+A summons issued pursuant to this section may be served by any person designated in the summons to serve it. Service upon a natural person may be made by personal delivery of the summons to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the summons to an officer, or managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The certificate of service signed by the person serving the summons is prima facie evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of records, such records shall be described in the summons with reasonable specificity.
 
 #### (d) Special procedures for third-party summonses
 
@@ -76,7 +76,7 @@ A summons issued pursuant to this section may be served by any person designated
 
 &emsp;(A) any summons is served on any person who is a third-party recordkeeper; and
 
-&emsp;(B) the summons requires the production of, or the giving of testimony relating to, any portion of records made or kept of the transactions described in section 1508 of this title of any person (other than the person summoned) who is identified in the description of the records contained in such summons;
+&emsp;(B) the summons requires the production of, or the giving of testimony relating to, any portion of records made or kept of the transactions described in section 1508 of this title ofany person (other than the person summoned) who is identified in the description of the records contained in such summons;
 
 > then notice of such summons shall be given to any persons so identified within a reasonable time before the day fixed in the summons as the day upon which such records are to be examined or testimony given. Such notice shall be accompanied by a copy of the summons which has been served and shall contain directions for staying compliance with the summons under paragraph (5)(B) of this subsection.
 
@@ -118,7 +118,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (2) Certification
 
-&emsp;A recordkeeper may be certified as a participant in the recordkeeping compliance program after meeting the general recordkeeping requirements established under the program orafter negotiating an alternative program suited to the needs of the recordkeeper and the Customs Service. Certification requirements shall take into account the size and nature of the importing business and the volume of imports. In order to be certified, the recordkeeper must be able to demonstrate that it—
+&emsp;A recordkeeper may be certified as a participant in the recordkeeping compliance program after meeting the general recordkeeping requirements established under the program or after negotiating an alternative program suited to the needs of the recordkeeper and the Customs Service. Certification requirements shall take into account the size and nature of the importing business and the volume of imports. In order to be certified, the recordkeeper must be able to demonstrate that it—
 
 &emsp;&emsp;(A) understands the legal requirements for recordkeeping, including the nature of the records required to be maintained and produced and the time periods involved;
 
@@ -136,7 +136,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (1) “Information” defined
 
-&emsp;For purposes of this subsection, the term “information” means any record, statement, declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A) of this section.
+&emsp;For purposes of this subsection, the term “information” means any record, statement,declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A) of this section.
 
 #### (2) Effects of failure to comply with demand
 
@@ -190,7 +190,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;&emsp;(ii) is generally in compliance with the appropriate procedures and requirements of the program;
 
-> &emsp;&emsp;does not produce a demanded record or information for a specific release or provide the information by acceptable alternative means, the Customs Service, in the absence of willfulness or repeated violations, shall issue a written notice of the violation to the recordkeeper in lieu of a monetary penalty.Repeated violations by the recordkeeper may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
+> &emsp;&emsp;does not produce a demanded record or information for a specific release or provide the information by acceptable alternative means, the Customs Service, in the absence of willfulness or repeated violations, shall issue a written notice of the violation to the recordkeeper in lieu of a monetary penalty. Repeated violations by the recordkeeper may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
 
 #### (B) Contents of notice
 
@@ -210,7 +210,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeated violations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
 
-(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992.)
+(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175;Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992.)
 
 #### References in Text
 
@@ -298,5 +298,5 @@ Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by s
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

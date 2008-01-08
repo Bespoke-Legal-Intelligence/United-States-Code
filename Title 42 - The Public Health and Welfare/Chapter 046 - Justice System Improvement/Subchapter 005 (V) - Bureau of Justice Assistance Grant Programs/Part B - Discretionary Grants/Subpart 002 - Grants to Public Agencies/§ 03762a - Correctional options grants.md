@@ -28,9 +28,11 @@ The Director, in consultation with the Director of the National Institute of Cor
 
 &emsp;&emsp;(D) to carry out demonstration projects which, in view of previous research or experience, are likely to be a success in more than one jurisdiction;
 
-> &emsp;in connection with a correctional option (excluding the cost of construction); and
+> &emsp;in connection with a correctional option (excluding the cost of construction);
 
-&emsp;(3) grants to public agencies to establish, operate, and support boot camp prisons.
+&emsp;(3) grants to public agencies to establish, operate, and support boot camp prisons; and
+
+&emsp;(4) grants to State courts to improve security for State and local court systems.
 
 #### (b) Selection of grantees
 
@@ -40,11 +42,13 @@ The selection of applicants to receive grants under paragraphs (1) and (2) of su
 
 &emsp;(2) give priority to public agencies that clearly demonstrate that the capacity of their correctional facilities is inadequate to accommodate the number of individuals who are convicted of offenses punishable by a term of imprisonment exceeding 1 year.
 
+> Priority shall be given to State court applicants under subsection (a)(4) that have the greatest demonstrated need to provide security in order to administer justice.
+
 #### (c) Consultations
 
 The Director shall consult with the Commission on Alternative Utilization of Military Facilities created by Public Law 100–456 in order to identify military facilities that may be used as sites for correctional programs receiving assistance under this subpart.
 
-(Pub. L. 90–351, title I, §515, as added Pub. L. 101–647, title XVIII, §1801(a)(7), Nov. 29, 1990, 104 Stat. 4847; amended Pub. L. 103–322, title XXXIII, §330001(b)(1), Sept. 13, 1994, 108 Stat. 2138.)
+(Pub. L. 90–351, title I, §515, as added Pub. L. 101–647, title XVIII, §1801(a)(7), Nov. 29, 1990, 104 Stat. 4847; amended Pub. L. 103–322, title XXXIII, §330001(b)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 110–177, title III, §302(a), Jan. 7, 2008, 121 Stat. 2539.)
 
 #### References in Text
 
@@ -55,6 +59,10 @@ The Commission on Alternative Utilization of Military Facilities, referred to in
 For prior section 515 of Pub. L. 90–351, see note set out preceding section 3750 of this title.
 
 #### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–177, §302(a)(1), added par. (4).
+
+Subsec. (b). Pub. L. 110–177, §302(a)(2), inserted concluding provisions.
 
 1994—Subsec. (b). Pub. L. 103–322, in introductory provisions substituted “paragraphs (1) and (2) of subsection (a)” for “subsection (a)(1) and (2)”, and in par. (2) substituted “public agencies” for “States”.
 

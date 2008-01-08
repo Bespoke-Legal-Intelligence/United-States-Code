@@ -6,7 +6,7 @@ The Congress declares and finds that:
 
 &emsp;(1) It is the policy of the United States to promote tribal self-determination and economic self-sufficiency and to support the resolution of disputes over historical claims through settlements mutually agreed to by Indian and non-Indian parties.
 
-&emsp;(2) There is pending before the United States District Court for the District of South Carolina a lawsuit disputing ownership of approximately 140,000 acres of land in the State of South Carolina and other rights of the Catawba Indian Tribe under Federal law.
+&emsp;(2) There is pending before the United States District Court for the District of South Carolina a lawsuit disputing ownership of approximately 140,000 acres of land in the State ofSouth Carolina and other rights of the Catawba Indian Tribe under Federal law.
 
 &emsp;(3) The Catawba Indian Tribe initiated a related lawsuit against the United States in the United States Court of Federal Claims seeking monetary damages.
 
@@ -58,7 +58,7 @@ This subchapter, referred to in subsec. (b), was in the original “this Act”,
 
 #### Effective Date
 
-Section 17 of Pub. L. 103–116 provided that: “Except for sections 7, 8, and 12 \[enacting sections 941e, 941f and 941j of this title\], the provisions of this Act \[see Short Title note below\] shall become effective upon the transfer of the Existing Reservation under section 12 \[enacting section 941j of this title\] to the Secretary.”
+Section 17 of Pub. L. 103–116 provided that: “Except for sections 7, 8, and 12 \[enacting sections 941e, 941f and941j of this title\], the provisions of this Act \[see Short Title note below\] shall become effective upon the transfer of the Existing Reservation under section 12 \[enacting section 941j of this title\] to the Secretary.”
 
 \[In accordance with the provisions of Pub. L. 103–116, a quitclaim deed transferring the existing reservation to the United States as Trustee for the Tribe was executed on Nov. 29, 1993. This conveyance was accepted on behalf of the United States, in trust, on Jan. 19, 1994. The deed was recorded Jan. 20, 1994.\]
 

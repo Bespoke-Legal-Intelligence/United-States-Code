@@ -26,7 +26,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 &emsp;&emsp;(A) may bring an action to enjoin such violation;
 
-&emsp;&emsp;(B) may bring an action on behalf of its residents to recover damages for which theperson is liable to such residents under section 1679g of this title as a result of the violation; and
+&emsp;&emsp;(B) may bring an action on behalf of its residents to recover damages for which the person is liable to such residents under section 1679g of this title as a result of the violation; and
 
 &emsp;&emsp;(C) in the case of any successful action under subparagraph (A) or (B), shall be awarded the costs of the action and reasonable attorney fees as determined by the court.
 

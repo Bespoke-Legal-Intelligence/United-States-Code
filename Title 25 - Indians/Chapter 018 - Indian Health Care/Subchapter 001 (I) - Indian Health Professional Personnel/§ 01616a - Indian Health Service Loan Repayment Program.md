@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) The Secretary, acting through the Service, shall establish a program to be known as the Indian Health Service Loan Repayment Program (hereinafter referred to as the “Loan Repayment Program”) in order to assure an adequate supply of trained health professionals necessary to maintain accreditation of, and provide healthcare services to Indians through, Indian health programs.
+(1) The Secretary, acting through the Service, shall establish a program to be known as the Indian Health Service Loan Repayment Program (hereinafter referred to as the “Loan Repayment Program”) in order to assure an adequate supply of trained health professionals necessary to maintain accreditation of, and provide health care services to Indians through, Indian health programs.
 
 (2) For the purposes of this section—
 
@@ -152,7 +152,7 @@ Notwithstanding any other provision of law, individuals who have entered into wr
 
 #### (i) Recruiting programs
 
-The Secretary shall conduct recruiting programs for the Loan Repayment Program andother health professional programs of the Service at educational institutions training health professionals or specialists identified in subsection (a) of this section.
+The Secretary shall conduct recruiting programs for the Loan Repayment Program and other health professional programs of the Service at educational institutions training health professionals or specialists identified in subsection (a) of this section.
 
 #### (j) Prohibition of assignment to other government departments
 
@@ -178,7 +178,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;&emsp;(iii) is dismissed from such educational institution before completion of such course of study; or
 
-&emsp;(B) is enrolled in a graduate training program, fails to complete such training program, and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii) of this section,
+&emsp;(B) is enrolled in a graduate training program, fails to complete such training program,and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii) of this section,
 
 > shall be liable, in lieu of any service obligation arising under such contract, to the United States for the amount which has been paid on such individual's behalf under the contract.
 
@@ -244,7 +244,7 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 The Indian Self-Determination Act, referred to in subsec. (a)(2)(A)(ii)(I), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-Section 23 of the Act of April 30, 1908, referred to in subsec. (a)(2)(A)(ii)(II), probably should be a reference to section 23 of act June 25, 1910, ch. 431, 36 Stat. 861, which is popularly known as the “Buy Indian Act”, and is classified to section 47 of this title. Act Apr. 30, 1908, ch. 153, 35 Stat. 70, does not contain a section 23 but does have provisions (at 35 Stat. 71) similar to those in section 23 of act June 25, 1910, ch. 431, 36 Stat. 861.
+Section 23 of the Act of April 30, 1908, referred to in subsec. (a)(2)(A)(ii)(II), probably should be a referenceto section 23 of act June 25, 1910, ch. 431, 36 Stat. 861, which is popularly known as the “Buy Indian Act”, and is classified to section 47 of this title. Act Apr. 30, 1908, ch. 153, 35 Stat. 70, does not contain a section 23 but does have provisions (at 35 Stat. 71) similar to those in section 23 of act June 25, 1910, ch. 431, 36 Stat. 861.
 
 Section 254d(i)(4) of title 42, referred to in subsec. (a)(2)(B), was redesignated section 254d(j)(4) of title 42 by Pub. L. 107–251, title III, §310(b)(1), Oct. 26, 2002, 116 Stat. 1643.
 

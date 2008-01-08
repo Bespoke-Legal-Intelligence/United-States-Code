@@ -26,7 +26,7 @@ As used in this subchapter the term:
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§302(a), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, section is amended by amending subsection (c) generally and adding subsection (h) to read as follows:</i>
+<i>Pub. L. 102–251, title III, §§302(a), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective</i><i>on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, section is amended by amending subsection (c) generally and adding subsection (h) to read as follows:</i>
 
 (c) “Exclusive economic zone” means the zone established by Proclamation Numbered 5030, dated March 10, 1983. For purposes of applying this subchapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States.
 

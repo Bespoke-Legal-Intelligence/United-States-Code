@@ -156,7 +156,7 @@ Definition.—In this paragraph, the term “Lake Tahoe region” has the meanin
 
 Transportation planning process.—The Secretary shall—
 
-&emsp;&emsp;&emsp;(i) establish with the Federal land management agencies that have jurisdiction over land in the Lake Tahoe region a transportation planning process for the region; and
+&emsp;&emsp;&emsp;(i) establish with the Federal land management agencies that have jurisdictionover land in the Lake Tahoe region a transportation planning process for the region; and
 
 &emsp;&emsp;&emsp;(ii) coordinate the transportation planning process with the planning process required of State and local governments under this section and section 135.
 
@@ -166,7 +166,7 @@ Interstate compact.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Subject to clause (ii), and notwithstanding subsection (b), tocarry out the transportation planning process required by this section, the consent of Congress is granted to the States of California and Nevada to designate a metropolitan planning organization for the Lake Tahoe region, by agreement between the Governors of the States of California and Nevada and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city or cities (as defined by the Bureau of the Census)), or in accordance with procedures established by applicable State or local law.
+In general.—Subject to clause (ii), and notwithstanding subsection (b), to carry out the transportation planning process required by this section, the consent of Congress is granted to the States of California and Nevada to designate a metropolitan planning organization for the Lake Tahoe region, by agreement between the Governors of the States of California and Nevada and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city or cities (as defined by the Bureau of the Census)), or in accordance with procedures established by applicable State or local law.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -444,7 +444,7 @@ In general.—Except as otherwise provided in subsection (k)(4) and in addition 
 
 &emsp;&emsp;(B)
 
-Modifications to project priority.—Notwithstanding any other provision of law,action by the Secretary shall not be required to advance a project included in the approved TIP in place of another project in the program.
+Modifications to project priority.—Notwithstanding any other provision of law, action by the Secretary shall not be required to advance a project included in the approved TIP in place of another project in the program.
 
 &emsp;(6)
 
@@ -536,7 +536,7 @@ Withholding of project funds.—If a metropolitan planning process of a metropol
 
 &emsp;&emsp;&emsp;(ii)
 
-Restoration of withheld funds.—The withheld funds shall be restored to themetropolitan planning area at such time as the metropolitan planning process is certified by the Secretary.
+Restoration of withheld funds.—The withheld funds shall be restored to the metropolitan planning area at such time as the metropolitan planning process is certified by the Secretary.
 
 &emsp;&emsp;(D)
 
@@ -594,7 +594,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (p), is Pu
 
 2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to metropolitan transportation planning for provisions relating to, in subsec. (a), general requirements for development of transportation plans and programs for urbanized areas, in subsec. (b), designation of metropolitan planning organizations, in subsec. (c), determination of metropolitan planning area boundaries, in subsec. (d), coordination of transportation planning in multistate metropolitan areas, in subsec. (e), coordination of metropolitan planning organizations, in subsec. (f), scope of the planning process, in subsec. (g), development of a long-range transportation plan, in subsec. (h), development of a metropolitan area transportation improvement program, in subsec. (i), designation of transportation management areas, in subsec. (j), abbreviated plans and programs for areas not designated as transportation management areas, in subsec. (k), transfer of funds, in subsec. (<i>l</i>), additional requirements for nonattainment areas under the Clean Air Act,in subsec. (m), limitation on statutory construction, in subsec. (n), funding, and in subsec. (<i>o</i>), review of plans and programs under the National Environmental Policy Act of 1969.
 
-1998—Subsec. (a). Pub. L. 105–178, §1203(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner which will efficiently maximize mobility of people and goods within and through urbanized areas and minimize transportation-related fuel consumption and air pollution. To accomplish this objective, metropolitan planning organizations, in cooperation with the State, shall develop transportation plans and programs for urbanized areas of the State. Such plans and programs shall provide for the development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal transportation system for the State, the metropolitan areas, and the Nation. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.”
+1998—Subsec. (a). Pub. L. 105–178, §1203(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner which will efficiently maximize mobility of people and goods within and through urbanized areas and minimize transportation-related fuel consumption and airpollution. To accomplish this objective, metropolitan planning organizations, in cooperation with the State, shall develop transportation plans and programs for urbanized areas of the State. Such plans and programs shall provide for the development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal transportation system for the State, the metropolitan areas, and the Nation. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.”
 
 Subsec. (b)(1), (2). Pub. L. 105–178, §1203(b)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
@@ -694,7 +694,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Schedule for Implementation
 
-Pub. L. 109–59, title VI, §6001(b), Aug. 10, 2005, 119 Stat. 1857, provided that: “The Secretary \[of Transportation\] shall issue guidance on a schedule for implementation of the changes made by this section \[amending this section and section 135 of this title\], taking into consideration the established planning update cycle for States and metropolitan planning organizations. The Secretary shall not require a State or metropolitan planning organization to deviate from its established planning update cycle to implement changes made by this section. Beginning July 1, 2007, State ormetropolitan planning organization plan or program updates shall reflect changes made by this section.”
+Pub. L. 109–59, title VI, §6001(b), Aug. 10, 2005, 119 Stat. 1857, provided that: “The Secretary \[of Transportation\] shall issue guidance on a schedule for implementation of the changes made by this section \[amending this section and section 135 of this title\], taking into consideration the established planning update cycle for States and metropolitan planning organizations. The Secretary shall not require a State or metropolitan planning organization to deviate from its established planning update cycle to implement changes made by this section. Beginning July 1, 2007, State or metropolitan planning organization plan or program updates shall reflect changes made by this section.”
 
 #### Demonstration Project for Restricted Access to Central Business District of Metropolitan Areas
 

@@ -18,7 +18,7 @@
 
 #### (B) Redistribution
 
-&emsp;&emsp;In redistributing funds recaptured in accordance with this paragraph, States shallredistribute such funds to an eligible entity, or require the original recipient of the funds to redistribute the funds to a private, nonprofit organization, located within the community served by the original recipient of the funds, for activities consistent with the purposes of this chapter.
+&emsp;&emsp;In redistributing funds recaptured in accordance with this paragraph, States shall redistribute such funds to an eligible entity, or require the original recipient of the funds to redistribute the funds to a private, nonprofit organization, located within the community served by the original recipient of the funds, for activities consistent with the purposes of this chapter.
 
 #### (b) Statewide activities
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) that solicits and collects gifts and grants that, by agreement, are distributed to qualified charities;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that distributes to qualified charities at least 90 percent of the giftsand grants the organization receives that are designated for such qualified charities; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that distributes to qualified charities at least 90 percent of the gifts and grants the organization receives that are designated for such qualified charities; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) that meets the requirements of clause (vi).
 

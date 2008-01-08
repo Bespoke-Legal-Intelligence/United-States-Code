@@ -36,7 +36,7 @@ When any tract of land is only partly within boundaries referred to in subsectio
 
 #### (e) Offers to sell
 
-In exercising the authority to acquire property under sections 410r–5 to 410r–8 of this title,the Secretary shall give prompt and careful consideration to any offer made by any person owning property within the boundaries of the addition to sell such property, if such owner notifies the Secretary that the continued ownership of such property is causing, or would result in undue hardship.
+In exercising the authority to acquire property under sections 410r–5 to 410r–8 of this title, the Secretary shall give prompt and careful consideration to any offer made by any person owning property within the boundaries of the addition to sell such property, if such owner notifies the Secretary that the continued ownership of such property is causing, or would result in undue hardship.
 
 #### (f) Authorization of appropriations
 
@@ -98,7 +98,7 @@ Upon the request of the Governor of the State of Florida, the Secretary is autho
 
 #### (B) Use of National Park Service land
 
-&emsp;&emsp;The National Park Service land conveyed to the District shall be used by the District for the purposes of the C–111 project, including restoration of the Everglades natural system.
+&emsp;&emsp;The National Park Service land conveyed to the District shall be used by the Districtfor the purposes of the C–111 project, including restoration of the Everglades natural system.
 
 #### (C) Boundary adjustment
 

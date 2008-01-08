@@ -12,7 +12,7 @@
 
 &emsp;(3) provide a program evaluation carried out or commissioned by an executive agency.
 
-(c) In cooperation with the Director of the Congressional Budget Office, the Secretary, and the Director of the Office of Management and Budget, the Comptroller General shall—
+(c) In cooperation with the Director of the Congressional Budget Office, the Secretary, andthe Director of the Office of Management and Budget, the Comptroller General shall—
 
 &emsp;(1) establish and maintain a current directory of sources of, and information systems for, fiscal, budget, and program information and a brief description of the contents of each source and system;
 
@@ -30,7 +30,7 @@
 
 &emsp;(C) monitor recurring reporting requirements of Congress and committees; and
 
-&emsp;(D) make recommendations to Congress and committees for changes and improvements inthose reporting requirements to meet information needs identified by the Comptroller General, to improve their usefulness to congressional users, and to eliminate unnecessary reporting.
+&emsp;(D) make recommendations to Congress and committees for changes and improvements in those reporting requirements to meet information needs identified by the Comptroller General, to improve their usefulness to congressional users, and to eliminate unnecessary reporting.
 
 (2) Before September 2 of each year, the Comptroller General shall report to Congress on—
 
@@ -108,7 +108,7 @@ In subsection (e)(1)(A), the word “specify” is omitted as being included in 
 
 In subsection (e)(2), the words “Before September 2 of each year” are substituted for “On or before September 1, 1974, and each year thereafter” for consistency.
 
-In subsection (e)(3), the words “Before March 2 of each year are substituted for “On or before March 1, 1975, and each year thereafter” for consistency. The word “codes” is omitted as being included in “classifications”. The words “information systems” are substituted for “systems”, and the words “use of standard classifications” are substituted for “classification implementations”, for consistency in the revised section.
+In subsection (e)(3), the words “Before March 2 of each year” are substituted for “On or before March 1, 1975, and each year thereafter” for consistency. The word “codes” is omitted as being included in “classifications”. The words “information systems” are substituted for “systems”, and the words “use of standard classifications” are substituted for “classification implementations”, for consistency in the revised section.
 
 1983
 
@@ -224,7 +224,7 @@ Activities of federal maritime commission.—Section 208 of the Merchant Marine 
 
 Activities of interagency coordinating committee on oil pollution research.—Section 7001(e) of the Oil Pollution Act of 1990 (33 U.S.C. 2761(e)).”
 
-Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, as amended by Pub. L. 110–69, title VII, §7024(a)(3), Aug. 9, 2007, 121 Stat. 689, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;“(1) Section 801(b) and (c) of the Department of Energy Organization Act (42 U.S.C. 7321(b) and (c)).
 
@@ -276,7 +276,7 @@ Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, provided that: “Section 3
 
 &emsp;“(25) Section 108 of the National Science Foundation Authorization Act for Fiscal Year 1986 (42 U.S.C. 1886).
 
-&emsp;“(26) Section 101(a)(3) of the High-Performance Computing Act of 1991 (15 U.S.C. 5511(a)(3)).
+&emsp;“(26) Section 101(a)(2) of the High-Performance Computing Act of 1991 (15 U.S.C. 5511(a)(2)).
 
 &emsp;“(27) Section 3(a)(7) and (f) of the National Science Foundation Act of 1950 (42 U.S.C. 1862(a)(7) and (f)).
 

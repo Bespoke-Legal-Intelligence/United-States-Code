@@ -132,11 +132,11 @@ Pub. L. 108–374, §1, Oct. 27, 2004, 118 Stat. 1773, provided that: “This Ac
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–462, §1, Nov. 7, 2000, 114 Stat. 1991, provided that: “This Act \[enacting sections 2205, 2206, and2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title\] may be cited as the ‘Indian Land Consolidation Act Amendments of 2000’.”
+Pub. L. 106–462, §1, Nov. 7, 2000, 114 Stat. 1991, provided that: “This Act \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title\] may be cited as the ‘Indian Land Consolidation Act Amendments of 2000’.”
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–238, §1, Dec. 17, 1991, 105 Stat. 1908, provided that: “This Act \[amending sections 2203, 2703, and 2718 of this title, enacting provisions set out as a note under section 1437f of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437f of Title 42\] may be cited as the ‘Technical Amendments to Various Indian Laws Act of 1991’.”
+Pub. L. 102–238, §1, Dec. 17, 1991, 105 Stat. 1908, provided that: “This Act \[amending sections 2203, 2703, and 2718 of this title, enacting provisions set out as a note under section 1437f of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437f of Title 42\] may be cited as the‘Technical Amendments to Various Indian Laws Act of 1991’.”
 
 #### Short Title
 

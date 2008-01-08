@@ -82,6 +82,10 @@ Subsec. (b)(1). Pub. L. 104–127, §209(2), inserted before period at end “an
 
 1957—Pub. L. 85–128 extended termination date from June 30, 1957, to June 30, 1958.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.

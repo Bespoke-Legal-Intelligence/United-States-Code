@@ -2,7 +2,7 @@
 
 #### (a) Early referral to appeals procedures
 
-The Secretary shall prescribe procedures by which any taxpayer may request early referralof 1 or more unresolved issues from the examination or collection division to the Internal Revenue Service Office of Appeals.
+The Secretary shall prescribe procedures by which any taxpayer may request early referral of 1 or more unresolved issues from the examination or collection division to the Internal Revenue Service Office of Appeals.
 
 #### (b) Alternative dispute resolution procedures
 

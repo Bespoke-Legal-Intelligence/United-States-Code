@@ -36,7 +36,7 @@ The Secretary shall be responsible for—
 
 #### (c) Accreditation and approval responsibilities
 
-The Secretary shall carry out the functions prescribed by the Convention with respect to the accreditation of agencies and the approval of persons to provide adoption services in the United States in cases subject to the Convention as provided in subchapter II of this chapter. Such functions may not be delegated to any other Federal agency.
+The Secretary shall carry out the functions prescribed by the Convention with respect to the accreditation of agencies and the approval ofpersons to provide adoption services in the United States in cases subject to the Convention as provided in subchapter II of this chapter. Such functions may not be delegated to any other Federal agency.
 
 #### (d) Additional responsibilities
 

@@ -10,7 +10,7 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–471, title II, §201, Oct. 17, 1978, 92 Stat. 1329, provided that: “This title \[enacting section 640c–1 ofthis title, amending section 640c of this title and enacting provisions set out as notes under this section and section 640c–1 of this title\] may be cited as the ‘Navajo Community College Assistance Act of 1978’.”
+Pub. L. 95–471, title II, §201, Oct. 17, 1978, 92 Stat. 1329, provided that: “This title \[enacting section 640c–1 of this title, amending section 640c of this title and enacting provisions set out as notes under this section and section 640c–1 of this title\] may be cited as the ‘Navajo Community College Assistance Act of 1978’.”
 
 #### Short Title
 

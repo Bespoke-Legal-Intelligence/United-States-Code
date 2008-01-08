@@ -16,7 +16,7 @@ Except as provided in subsection (b) of this section, in no case may the Attorne
 
 &emsp;&emsp;(E) in the case of an alien applying for status under section 101(a)(15)(U) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(U)\], the perpetrator of the substantial physical or mental abuse and the criminal activity,<sup>1</sup>
 
-&emsp;&emsp;(F) in the case of an alien applying for status under section 101(a)(15)(T) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(T)), under section 7105(b)(1)(E)(i)(II)(bb) of title 22, under section 244(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1254a(a)(3)), as in effect prior to March 31, 1999, or as a VAWA self-petitioner (as defined in section 101(a)(51) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(51)) <sup>2</sup>, the trafficker or perpetrator,
+&emsp;&emsp;(F) in the case of an alien applying for status under section 101(a)(15)(T) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(T)), under section 7105(b)(1)(E)(i)(II)(bb) of title 22, under section 244(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1254a(a)(3)), as in effect prior to March 31, 1999, or as a VAWA self-petitioner (as defined in section 101(a)(51) of the Immigration and Nationality Act (8U.S.C. 1101(a)(51)) <sup>2</sup>, the trafficker or perpetrator,
 
 > &emsp;unless the alien has been convicted of a crime or crimes listed in section 241(a)(2) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)(2)\]; or
 
@@ -84,7 +84,7 @@ Subsec. (a)(2). Pub. L. 106–386, §1513(d)(4), inserted “section 101(a)(15)(
 
 #### Effective Date of 1997 Amendment
 
-Section 5582 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments madeby this chapter \[chapter 4 (§§5561–5582) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1611 to 1613, 1621, 1622, 1631, 1632, 1641 to 1643, and 1645 of this title, and sections 608, 1383, and 1437y of Title 42, The Public Health and Welfare\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Section 5582 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments made by this chapter \[chapter 4 (§§5561–5582) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1611 to 1613, 1621, 1622, 1631, 1632, 1641 to 1643, and 1645 of this title, and sections 608, 1383, and 1437y of Title 42, The Public Health and Welfare\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 #### Effective Date of 1996 Amendment
 

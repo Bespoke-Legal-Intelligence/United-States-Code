@@ -54,7 +54,7 @@ Covered Vessels.—A vessel is a covered vessel of an offeror under this section
 
 &emsp;“(1) owned, operated, or controlled by the offeror; and
 
-&emsp;“(2) qualified to engage in the carriage of cargo in the coastwise or non-contiguous trade under section 27 of the Merchant Marine Act, 1920 (\[former\] 46 U.S.C. \[App.\] 883) \[see Disposition Table preceding section 101 of Title 46, Shipping\], section 12106 of title 46, United States Code, and section 2 of the Shipping Act, 1916 (\[former\] 46 U.S.C. App. 802) \[see 46 U.S.C. 50501\].
+&emsp;“(2) qualified to engage in the carriage of cargo in the coastwise or non-contiguous trade under section 27 of the Merchant Marine Act, 1920 (\[former\] 46 U.S.C. \[App.\] 883) \[see Disposition Table preceding section 101 of Title 46, Shipping\], section 12106 of title 46, United States Code \[see 46 U.S.C. 12112\], and section 2 of the Shipping Act, 1916 (\[former\] 46 U.S.C. App. 802) \[see 46 U.S.C. 50501\].
 
 “(c)
 

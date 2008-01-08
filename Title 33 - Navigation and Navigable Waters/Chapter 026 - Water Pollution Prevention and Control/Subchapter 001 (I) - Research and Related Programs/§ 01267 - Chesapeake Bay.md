@@ -32,7 +32,7 @@ In this section, the following definitions apply:
 
 #### (1) In general
 
-&emsp;In cooperation with the Chesapeake Executive Council (and as a member of the Council), the Administrator shall continue the Chesapeake Bay Program.
+&emsp;In cooperation with the Chesapeake Executive Council (and as a member of the Council),the Administrator shall continue the Chesapeake Bay Program.
 
 #### (2) Program Office
 
@@ -214,7 +214,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 &emsp;The study shall—
 
-&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses,benthos, phytoplankton, zooplankton, fish, and shellfish;
+&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses, benthos, phytoplankton, zooplankton, fish, and shellfish;
 
 &emsp;&emsp;(B) establish to the extent practicable the rates of recovery of the living resources in response to improved water quality condition;
 

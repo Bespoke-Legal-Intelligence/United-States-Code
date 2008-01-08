@@ -40,11 +40,11 @@ The Export-Import Bank Act of 1945, referred to in subsec. (a), is act July 31, 
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), andVIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Codification
 
-Subsec. (g) of this section, which required, at intervals of six months, the administrator of the agency primarily responsible for administering subchapter I of this chapter and the President of the Export-Import Bank of the United States to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of credits during the preceding six-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
+Subsec. (g) of this section, which required, at intervals of six months, the administrator of the agency primarily responsible for administering subchapter I of this chapter and the President of the Export-Import Bank of the United States to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension ofcredits during the preceding six-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
 
 Section 224 of Pub. L. 87–195 is based on section 1011 of title X of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, and enacted into law by Pub. L. 98–473.
 

@@ -16,7 +16,7 @@ The report described in subsection (a) of this section shall be exempt from any 
 
 2002—Subsec. (a). Pub. L. 107–306, §811(b)(1)(E)(i), inserted at end “The date for the submittal of the report shall be the date provided in section 415b of this title.”
 
-Pub. L. 107–306, §353(b)(1)(B), substituted “congressional intelligence committees” for “Select Committeeon Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives”.
+Pub. L. 107–306, §353(b)(1)(B), substituted “congressional intelligence committees” for “Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives”.
 
 Subsec. (b). Pub. L. 107–306, §811(b)(1)(E)(ii), struck out at end “The first such report shall be submitted no later than February 1, 1983.”
 
@@ -28,5 +28,5 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 8th item on page 156 identifies a reporting provision which, as subsequently amended, is contained in subsec. (a) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 8th item on page 156 identifies a reporting provision which, as subsequently amended, is contained in subsec. (a) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

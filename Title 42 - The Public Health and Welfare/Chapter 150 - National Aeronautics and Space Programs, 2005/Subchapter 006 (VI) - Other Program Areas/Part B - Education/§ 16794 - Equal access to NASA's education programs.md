@@ -18,3 +18,7 @@ The Administrator shall establish the Dr. Mae C. Jemison Grant Program to work w
 
 (Pub. L. 109–155, title VI, §615, Dec. 30, 2005, 119 Stat. 2934.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

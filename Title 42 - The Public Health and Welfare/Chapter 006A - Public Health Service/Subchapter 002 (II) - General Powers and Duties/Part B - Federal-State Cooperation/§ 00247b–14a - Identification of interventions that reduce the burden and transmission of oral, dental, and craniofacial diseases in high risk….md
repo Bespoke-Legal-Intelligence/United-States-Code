@@ -4,7 +4,7 @@
 
 The Secretary of Health and Human Services, through the Maternal and Child Health Bureau, the Indian Health Service, and in consultation with the National Institutes of Health and the Centers for Disease Control and Prevention, shall—
 
-&emsp;(1) support community-based research that is designed to improve understanding of the etiology, pathogenesis, diagnosis, prevention, and treatment of pediatric oral, dental, craniofacial diseases and conditions and their sequelae in high risk populations;
+&emsp;(1) support community-based research that is designed to improve understanding of theetiology, pathogenesis, diagnosis, prevention, and treatment of pediatric oral, dental, craniofacial diseases and conditions and their sequelae in high risk populations;
 
 &emsp;(2) support demonstrations of preventive interventions in high risk populations including nutrition, parenting, and feeding techniques; and
 

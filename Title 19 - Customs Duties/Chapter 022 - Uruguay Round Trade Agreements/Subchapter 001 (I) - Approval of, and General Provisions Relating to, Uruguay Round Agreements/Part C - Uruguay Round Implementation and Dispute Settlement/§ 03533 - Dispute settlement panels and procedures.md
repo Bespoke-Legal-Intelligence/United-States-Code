@@ -64,7 +64,7 @@ Promptly after the circulation of a report of a panel or of the Appellate Body t
 
 #### (2) Effective date of modification
 
-&emsp;A final rule or other modification to which paragraph (1) applies may not go into effect before the end of the 60-day period beginning on the date on which consultations under paragraph (1)(E) begin, unless the President determines that an earlier effective date is in the national interest.
+&emsp;A final rule or other modification to which paragraph (1) applies may not go into effect before the end of the 60-day period beginningon the date on which consultations under paragraph (1)(E) begin, unless the President determines that an earlier effective date is in the national interest.
 
 #### (3) Vote by congressional committees
 

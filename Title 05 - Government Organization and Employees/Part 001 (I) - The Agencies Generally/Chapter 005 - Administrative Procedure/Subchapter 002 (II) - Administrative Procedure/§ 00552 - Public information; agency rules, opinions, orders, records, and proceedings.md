@@ -28,7 +28,7 @@
 
 &emsp;(E) a general index of the records referred to under subparagraph (D);
 
-> unless the materials are promptly published and copies offered for sale. For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means. To the extent required to prevent a clearly unwarranted invasion of personal privacy, an agency may delete identifying details when it makes available or publishes an opinion, statement of policy, interpretation, staff manual, instruction, or copies of records referred to in subparagraph (D). However, in each case the justification for the deletion shall be explained fully in writing, and theextent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made. If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made. Each agency shall also maintain and make available for public inspection and copying current indexes providing identifying information for the public as to any matter issued, adopted, or promulgated after July 4, 1967, and required by this paragraph to be made available or published. Each agency shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplements thereto unless it determines by order published in the Federal Register that the publication would be unnecessary and impracticable, in which case the agency shall nonetheless provide copies of such index on request at a cost not to exceed the direct cost of duplication. Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999. A final order, opinion, statement of policy, interpretation, or staff manual or instruction that affects a member of the public may be relied on, used, or cited as precedent by an agency against a party other than an agency only if—
+> unless the materials are promptly published and copies offered for sale. For records created on orafter November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means. To the extent required to prevent a clearly unwarranted invasion of personal privacy, an agency may delete identifying details when it makes available or publishes an opinion, statement of policy, interpretation, staff manual, instruction, or copies of records referred to in subparagraph (D). However, in each case the justification for the deletion shall be explained fully in writing, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made. If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made. Each agency shall also maintain and make available for public inspection and copying current indexes providing identifying information for the public as to any matter issued, adopted, or promulgated after July 4, 1967, and required by this paragraph to be made available or published. Each agency shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplements thereto unless it determines by order published in the Federal Register that the publication would be unnecessary and impracticable, in which case the agency shall nonetheless provide copies of such index on request at a cost not to exceed the direct cost of duplication. Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999. A final order, opinion, statement of policy, interpretation, or staff manual or instruction that affects a member of the public may be relied on, used, or cited as precedent by an agency against a party other than an agency only if—
 
 &emsp;(i) it has been indexed and either made available or published as provided by this paragraph; or
 
@@ -58,6 +58,8 @@
 
 &emsp;(III) for any request not described in (I) or (II), fees shall be limited to reasonable standard charges for document search and duplication.
 
+> In this clause, the term “a representative of the news media” means any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. In this clause, the term “news” means information that is about current events or that would be of current interest to the public. Examples of news-media entities are television or radio stations broadcasting to the public at large and publishers of periodicals (but only if such entities qualify as disseminators of “news”) who make their products available for purchase by or subscription by or free distribution to the general public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example, the adoption of the electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news-media entities. A freelancejournalist shall be regarded as working for a news-media entity if the journalist can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by the entity. A publication contract would present a solid basis for such an expectation; the Government may also consider the past publication record of the requester in making such a determination.
+
 (iii) Documents shall be furnished without any charge or at a charge reduced below the fees established under clause (ii) if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
 
 (iv) Fee schedules shall provide for the recovery of only the direct costs of search, duplication, or review. Review costs shall include only the direct costs incurred during the initial examination of a document for the purposes of determining whether the documents must be disclosed under this section and for the purposes of withholding any portions exempt from disclosure under this section. Review costs may not include any costs incurred in resolving issues of law or policy that may be raised in the course of processing a request under this section. No fee may be charged by any agency under this section—
@@ -68,9 +70,11 @@
 
 (v) No agency may require advance payment of any fee unless the requester has previously failed to pay fees in a timely fashion, or the agency has determined that the fee will exceed $250.
 
-(vi) Nothing in this subparagraph shall supersede fees chargeable under a statute specificallyproviding for setting the level of fees for particular types of records.
+(vi) Nothing in this subparagraph shall supersede fees chargeable under a statute specifically providing for setting the level of fees for particular types of records.
 
 (vii) In any action by a requester regarding the waiver of fees under this section, the court shall determine the matter de novo: <i>Provided</i>, That the court's review of the matter shall be limited to the record before the agency.
+
+(viii) An agency shall not assess search fees (or in the case of a requester described under clause (ii)(II), duplication fees) under this subparagraph if the agency fails to comply with any time limit under paragraph (6), if no unusual or exceptional circumstances (as those terms are defined for purposes of paragraphs (6)(B) and (C), respectively) apply to the processing of the request.
 
 (B) On complaint, the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, has jurisdiction to enjoin the agency from withholding agency records and to order the production of any agency records improperly withheld from the complainant. In such a case the court shall determine the matter de novo, and may examine the contents of such agency records in camera to determine whether such records or any part thereof shall be withheld under any of the exemptions set forth in subsection (b) of this section, and the burden is on the agency to sustain its action. In addition to any other matters to which a court accords substantial weight, a court shall accord substantial weight to an affidavit of an agency concerning the agency's determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).
 
@@ -78,9 +82,23 @@
 
 \[(D) Repealed. Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357.\]
 
-(E) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this section in which the complainant has substantially prevailed.
+(E)(i) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this section in which the complainant has substantially prevailed.
 
-(F) Whenever the court orders the production of any agency records improperly withheld from the complainant and assesses against the United States reasonable attorney fees and other litigation costs, and the court additionally issues a written finding that the circumstances surrounding the withholding raise questions whether agency personnel acted arbitrarily or capriciously with respect to the withholding, the Special Counsel shall promptly initiate a proceeding to determine whether disciplinary action is warranted against the officer or employee who was primarily responsible for the withholding. The Special Counsel, after investigation and consideration of the evidence submitted, shall submit his findings and recommendations to the administrative authority of the agency concerned and shall send copies of the findings and recommendations to the officer or employee or his representative. The administrative authority shall take the corrective action that the Special Counsel recommends.
+(ii) For purposes of this subparagraph, a complainant has substantially prevailed if the complainant has obtained relief through either—
+
+&emsp;(I) a judicial order, or an enforceable written agreement or consent decree; or
+
+&emsp;(II) a voluntary or unilateral change in position by the agency, if the complainant's claim is not insubstantial.
+
+(F)(i) Whenever the court orders the production of any agency records improperly withheld from the complainant and assesses against the United States reasonable attorney fees and other litigation costs, and the court additionally issues a written finding that the circumstances surrounding the withholding raise questions whether agency personnel acted arbitrarily or capriciously with respect to the withholding, the Special Counsel shall promptly initiate a proceeding to determine whether disciplinary action is warranted against the officer or employee who was primarily responsible for the withholding. The Special Counsel, after investigation and consideration of the evidence submitted, shall submit his findings and recommendations to the administrative authority of the agency concerned and shall send copies of the findings and recommendations to the officer or employee or his representative. The administrative authority shall take the corrective action that the Special Counsel recommends.
+
+(ii) The Attorney General shall—
+
+&emsp;(I) notify the Special Counsel of each civil action described under the first sentence of clause (i); and
+
+&emsp;(II) annually submit a report to Congress on the number of such civil actions in the preceding year.
+
+(iii) The Special Counsel shall annually submit a report to Congress on the actions taken by the Special Counsel under clause (i).
 
 (G) In the event of noncompliance with the order of the court, the district court may punish for contempt the responsible employee, and in the case of a uniformed service, the responsible member.
 
@@ -92,9 +110,15 @@
 
 &emsp;(ii) make a determination with respect to any appeal within twenty days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of such appeal. If on appeal the denial of the request for records is in whole or in part upheld, the agency shall notify the person making such request of the provisions for judicial review of that determination under paragraph (4) of this subsection.
 
+> The 20-day period under clause (i) shall commence on the date on which the request is first received by the appropriate component of the agency, but in any event not later than ten days after the request is first received by any component of the agency that is designated in the agency's regulations under this section to receive requests under this section. The 20-day period shall not be tolled by the agency except—
+
+&emsp;(I) that the agency may make one request to the requester for information and toll the 20-day period while it is awaiting such information that it has reasonably requested from the requester under this section; or
+
+&emsp;(II) if necessary to clarify with the requester issues regarding fee assessment. In either case, the agency's receipt of the requester's response to the agency's request for information or clarification ends the tolling period.
+
 (B)(i) In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the unusual circumstances for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days, except as provided in clause (ii) of this subparagraph.
 
-(ii) With respect to a request for which a written notice under clause (i) extends the time limits prescribed under clause (i) of subparagraph (A), the agency shall notify the person making the request if the request cannot be processed within the time limit specified in that clause and shall provide the person an opportunity to limit the scope of the request so that it may be processed within that time limit or an opportunity to arrange with the agency an alternative time frame for processing the request or a modified request. Refusal by the person to reasonably modify the request or arrange such an alternative time frame shall be considered as a factor in determining whether exceptional circumstances exist for purposes of subparagraph (C).
+(ii) With respect to a request for which a written notice under clause (i) extends the time limits prescribed under clause (i) of subparagraph (A), the agency shall notify the person making the request if the request cannot be processed within the time limit specified in that clause and shall provide the person an opportunity to limit the scope of the request so that it may be processed within that time limit or an opportunity to arrange with the agency an alternative time frame for processing the request or a modified request. To aid the requester, each agency shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency. Refusal by the person to reasonably modify the request or arrange such an alternative time frame shall be considered as a factor in determining whether exceptional circumstances exist for purposes of subparagraph (C).
 
 (iii) As used in this subparagraph, “unusual circumstances” means, but only to the extent reasonably necessary to the proper processing of the particular requests—
 
@@ -144,6 +168,16 @@
 
 (F) In denying a request for records, in whole or in part, an agency shall make a reasonable effort to estimate the volume of any requested matter the provision of which is denied, and shall provide any such estimate to the person making the request, unless providing such estimate would harm an interest protected by the exemption in subsection (b) pursuant to which the denial is made.
 
+(7) Each agency shall—
+
+&emsp;(A) establish a system to assign an individualized tracking number for each request received that will take longer than ten days to process and provide to each person making a request the tracking number assigned to the request; and
+
+&emsp;(B) establish a telephone line or Internet service that provides information about the status of a request to the person making the request using the assigned tracking number, including—
+
+&emsp;&emsp;(i) the date on which the agency originally received the request; and
+
+&emsp;&emsp;(ii) an estimated date on which the agency will complete action on the request.
+
 (b) This section does not apply to matters that are—
 
 &emsp;(1)(A) specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy and (B) are in fact properly classified pursuant to such Executive order;
@@ -158,13 +192,13 @@
 
 &emsp;(6) personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
 
-&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
+&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcementinvestigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
 
 &emsp;(8) contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of an agency responsible for the regulation or supervision of financial institutions; or
 
 &emsp;(9) geological and geophysical information and data, including maps, concerning wells.
 
-> Any reasonably segregable portion of a record shall be provided to any person requesting such record after deletion of the portions which are exempt under this subsection. The amount of information deleted shall be indicated on the released portion of the record, unless including that indication would harm an interest protected by the exemption in this subsection under which the deletion is made. If technically feasible, the amount of the information deleted shall be indicated at the place in the record where such deletion is made.
+> Any reasonably segregable portion of a record shall be provided to any person requesting such record after deletion of the portions which are exempt under this subsection. The amount of information deleted, and the exemption under which the deletion is made, shall be indicated on the released portion of the record, unless including that indication would harm an interest protected by the exemption in this subsection under which the deletion is made. If technically feasible, the amount of the information deleted, and the exemption under which the deletion is made, shall be indicated at the place in the record where such deletion is made.
 
 (c)(1) Whenever a request is made which involves access to records described in subsection (b)(7)(A) and—
 
@@ -186,31 +220,61 @@
 
 &emsp;(B)(i) the number of appeals made by persons under subsection (a)(6), the result of such appeals, and the reason for the action upon each appeal that results in a denial of information; and
 
-&emsp;(ii) a complete list of all statutes that the agency relies upon to authorize the agency to withhold information under subsection (b)(3), a description of whether a court has upheld the decision of the agency to withhold information under each such statute, and a concise description of the scope of any information withheld;
+&emsp;(ii) a complete list of all statutes that the agency relies upon to authorize the agency to withhold information under subsection (b)(3), the number of occasions on which each statute was relied upon, a description of whether a court has upheld the decision of the agency to withhold information under each such statute, and a concise description of the scope of any information withheld;
 
-&emsp;(C) the number of requests for records pending before the agency as of September 30 of the preceding year, and the median number of days that such requests had been pending before the agency as of that date;
+&emsp;(C) the number of requests for records pending before the agency as of September 30 of the preceding year, and the median and average number of days that such requests had been pending before the agency as of that date;
 
 &emsp;(D) the number of requests for records received by the agency and the number of requests which the agency processed;
 
-&emsp;(E) the median number of days taken by the agency to process different types of requests;
+&emsp;(E) the median number of days taken by the agency to process different types of requests, based on the date on which the requests were received by the agency;
 
-&emsp;(F) the total amount of fees collected by the agency for processing requests; and
+&emsp;(F) the average number of days for the agency to respond to a request beginning on the date on which the request was received by the agency, the median number of days for the agency to respond to such requests, and the range in number of days for the agency to respond to such requests;
 
-&emsp;(G) the number of full-time staff of the agency devoted to processing requests for records under this section, and the total amount expended by the agency for processing such requests.
+&emsp;(G) based on the number of business days that have elapsed since each request was originally received by the agency—
 
-(2) Each agency shall make each such report available to the public including by computer telecommunications, or if computer telecommunications means have not been established by the agency, by other electronic means.
+&emsp;&emsp;(i) the number of requests for records to which the agency has responded with a determination within a period up to and including 20 days, and in 20-day increments up to and including 200 days;
 
-(3) The Attorney General of the United States shall make each report which has been made available by electronic means available at a single electronic access point. The Attorney General of the United States shall notify the Chairman and ranking minority member of the Committee on Government Reform and Oversight of the House of Representatives and the Chairman and ranking minority member of the Committees on Governmental Affairs and the Judiciary of the Senate, no later than April 1 of the year in which each such report is issued, that such reports are available by electronic means.
+&emsp;&emsp;(ii) the number of requests for records to which the agency has responded with a determination within a period greater than 200 days and less than 301 days;
 
-(4) The Attorney General of the United States, in consultation with the Director of the Office of Management and Budget, shall develop reporting and performance guidelines in connection with reports required by this subsection by October 1, 1997, and may establish additional requirements for such reports as the Attorney General determines may be useful.
+&emsp;&emsp;(iii) the number of requests for records to which the agency has responded with a determination within a period greater than 300 days and less than 401 days; and
 
-(5) The Attorney General of the United States shall submit an annual report on or before April 1 of each calendar year which shall include for the prior calendar year a listing of the number of cases arising under this section, the exemption involved in each case, the disposition of such case, and the cost, fees, and penalties assessed under subparagraphs (E), (F), and (G) of subsection (a)(4). Such report shall also include a description of the efforts undertaken by the Department of Justice to encourage agency compliance with this section.
+&emsp;&emsp;(iv) the number of requests for records to which the agency has responded with a determination within a period greater than 400 days;
+
+&emsp;(H) the average number of days for the agency to provide the granted information beginning on the date on which the request was originally filed, the median number of days for the agency to provide the granted information, and the range in number of days for the agency to provide the granted information;
+
+&emsp;(I) the median and average number of days for the agency to respond to administrative appeals based on the date on which the appeals originally were received by the agency, the highest number of business days taken by the agency to respond to an administrative appeal, and the lowest number of business days taken by the agency to respond to an administrative appeal;
+
+&emsp;(J) data on the 10 active requests with the earliest filing dates pending at each agency, including the amount of time that has elapsed since each request was originally received by the agency;
+
+&emsp;(K) data on the 10 active administrative appeals with the earliest filing dates pending before the agency as of September 30 of the preceding year, including the number of business days that have elapsed since the requests were originally received by the agency;
+
+&emsp;(L) the number of expedited review requests that are granted and denied, the average and median number of days for adjudicating expedited review requests, and the number adjudicated within the required 10 days;
+
+&emsp;(M) the number of fee waiver requests that are granted and denied, and the average and median number of days for adjudicating fee waiver determinations;
+
+&emsp;(N) the total amount of fees collected by the agency for processing requests; and
+
+&emsp;(O) the number of full-time staff of the agency devoted to processing requests for records under this section, and the total amount expended by the agency for processing such requests.
+
+(2) Information in each report submitted under paragraph (1) shall be expressed in terms of each principal component of the agency and for the agency overall.
+
+(3) Each agency shall make each such report available to the public including by computer telecommunications, or if computer telecommunications means have not been established by the agency, by other electronic means. In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request.
+
+(4) The Attorney General of the United States shall make each report which has been made available by electronic means available at a single electronic access point. The Attorney General of the United States shall notify the Chairman and ranking minority member of the Committee on Government Reform and Oversight of the House of Representatives and the Chairman and ranking minority member of the Committees on Governmental Affairs and the Judiciary of the Senate, no later than April 1 of the year in which each such report is issued, that such reports are available by electronic means.
+
+(5) The Attorney General of the United States, in consultation with the Director of the Office of Management and Budget, shall develop reporting and performance guidelines in connection with reports required by this subsection by October 1, 1997, and may establish additional requirements for such reports as the Attorney General determines may be useful.
+
+(6) The Attorney General of the United States shall submit an annual report on or before April 1 of each calendar year which shall include for the prior calendar year a listing of the number of cases arising under this section, the exemption involved in each case, the disposition of such case, and the cost, fees, and penalties assessed under subparagraphs (E), (F), and (G) of subsection (a)(4). Such report shall also include a description of the efforts undertaken by the Department of Justice to encourage agency compliance with this section.
 
 (f) For purposes of this section, the term—
 
 &emsp;(1) “agency” as defined in section 551(1) of this title includes any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency; and
 
-&emsp;(2) “record” and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format.
+&emsp;(2) “record” and any other term used in this section in reference to information includes—
+
+&emsp;&emsp;(A) any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format; and
+
+&emsp;&emsp;(B) any information described under subparagraph (A) that is maintained for an agency by an entity under Government contract, for the purposes of records management.
 
 (g) The head of each agency shall prepare and make publicly available upon request, reference material or a guide for requesting records or information from the agency, subject to the exemptions in subsection (b), including—
 
@@ -220,7 +284,39 @@
 
 &emsp;(3) a handbook for obtaining various types and categories of public information from the agency pursuant to chapter 35 of title 44, and under this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, §1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L. 94–409, §5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, §906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, §312, Nov. 27, 2002, 116 Stat. 2390.)
+(h)(1) There is established the Office of Government Information Services within the National Archives and Records Administration.
+
+(2) The Office of Government Information Services shall—
+
+&emsp;(A) review policies and procedures of administrative agencies under this section;
+
+&emsp;(B) review compliance with this section by administrative agencies; and
+
+&emsp;(C) recommend policy changes to Congress and the President to improve the administration of this section.
+
+(3) The Office of Government Information Services shall offer mediation services to resolve disputes between persons making requests under this section and administrative agencies as a non-exclusive alternative to litigation and, at the discretion of the Office, may issue advisory opinions if mediation has not resolved the dispute.
+
+(i) The Government Accountability Office shall conduct audits of administrative agencies on the implementation of this section and issue reports detailing the results of such audits.
+
+(j) Each agency shall designate a Chief FOIA Officer who shall be a senior official of such agency (at the Assistant Secretary or equivalent level).
+
+(k) The Chief FOIA Officer of each agency shall, subject to the authority of the head of the agency—
+
+&emsp;(1) have agency-wide responsibility for efficient and appropriate compliance with this section;
+
+&emsp;(2) monitor implementation of this section throughout the agency and keep the head ofthe agency, the chief legal officer of the agency, and the Attorney General appropriately informed of the agency's performance in implementing this section;
+
+&emsp;(3) recommend to the head of the agency such adjustments to agency practices, policies, personnel, and funding as may be necessary to improve its implementation of this section;
+
+&emsp;(4) review and report to the Attorney General, through the head of the agency, at such times and in such formats as the Attorney General may direct, on the agency's performance in implementing this section;
+
+&emsp;(5) facilitate public understanding of the purposes of the statutory exemptions of this section by including concise descriptions of the exemptions in both the agency's handbook issued under subsection (g), and the agency's annual report on this section, and by providing an overview, where appropriate, of certain general categories of agency records to which those exemptions apply; and
+
+&emsp;(6) designate one or more FOIA Public Liaisons.
+
+(<i>l</i>) FOIA Public Liaisons shall report to the agency Chief FOIA Officer and shall serve as supervisory officials to whom a requester under this section can raise concerns about the service the requester has received from the FOIA Requester Center, following an initial response from the FOIA Requester Center Staff. FOIA Public Liaisons shall be responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, §1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L. 94–409, §5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, §906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, §312, Nov. 27, 2002, 116 Stat. 2390; Pub. L. 110–175, §§3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, 121 Stat. 2525–2530.)
 
 Historical and Revision Notes<br>1966
 
@@ -267,6 +363,40 @@ In subsection (c), the words “This section does not authorize” and “This s
 Section 552 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2243 of Title 7, Agriculture.
 
 #### Amendments
+
+2007—Subsec. (a)(4)(A)(ii). Pub. L. 110–175, §3, inserted concluding provisions.
+
+Subsec. (a)(4)(A)(viii). Pub. L. 110–175, §6(b)(1)(A), added cl. (viii).
+
+Subsec. (a)(4)(E). Pub. L. 110–175, §4(a), designated existing provisions as cl. (i) and added cl. (ii).
+
+Subsec. (a)(4)(F). Pub. L. 110–175, §5, designated existing provisions as cl. (i) and added cls. (ii) and (iii).
+
+Subsec. (a)(6)(A). Pub. L. 110–175, §6(a)(1), inserted concluding provisions.
+
+Subsec. (a)(6)(B)(ii). Pub. L. 110–175, §6(b)(1)(B), inserted after the first sentence “To aid the requester, each agency shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency.”
+
+Subsec. (a)(7). Pub. L. 110–175, §7(a), added par. (7).
+
+Subsec. (b). Pub. L. 110–175, §12, in concluding provisions, inserted “, and the exemption under which the deletion is made,” after “The amount of information deleted” in second sentence and after “the amount of the information deleted” in third sentence.
+
+Subsec. (e)(1)(B)(ii). Pub. L. 110–175, §8(a)(1), inserted “the number of occasions on which each statute was relied upon,” after “subsection (b)(3),”.
+
+Subsec. (e)(1)(C). Pub. L. 110–175, §8(a)(2), inserted “and average” after “median”.
+
+Subsec. (e)(1)(E). Pub. L. 110–175, §8(a)(3), inserted before semicolon “, based on the date on which the requests were received by the agency”.
+
+Subsec. (e)(1)(F) to (O). Pub. L. 110–175, §8(a)(4), (5), added subpars. (F) to (M) and redesignated former subpars. (F) and (G) as (N) and (O), respectively.
+
+Subsec. (e)(2). Pub. L. 110–175, §8(b)(2), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (e)(3). Pub. L. 110–175, §8(b)(1), (c), redesignated par. (2) as (3) and inserted at end “In addition,each agency shall make the raw statistical data used in its reports available electronically to the public upon request.” Former par. (3) redesignated (4).
+
+Subsec. (e)(4) to (6). Pub. L. 110–175, §8(b)(1), redesignated pars. (3) to (5) as (4) to (6), respectively.
+
+Subsec. (f)(2). Pub. L. 110–175, §9, added par. (2) and struck out former par. (2) which read as follows: “ ‘record’ and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format.”
+
+Subsecs. (h) to (<i>l</i>). Pub. L. 110–175, §10(a), added subsecs. (h) to (<i>l</i>).
 
 2002—Subsec. (a)(3)(A). Pub. L. 107–306, §312(1), inserted “and except as provided in subparagraph (E),” after “of this subsection,”.
 
@@ -320,7 +450,7 @@ Subsecs. (c) to (f). Pub. L. 99–570, §1802(b), added subsec. (c) and redesign
 
 1984—Subsec. (a)(4)(D). Pub. L. 98–620 repealed subpar. (D) which provided for precedence on the docket and expeditious disposition of district court proceedings authorized by subsec. (a).
 
-1978—Subsec. (a)(4)(F). Pub. L. 95–454 substituted references to the Special Counsel for references to the Civil Service Commission wherever appearing and reference to his findings for reference to its findings.
+1978—Subsec. (a)(4)(F). Pub. L. 95–454 substituted references to the Special Counsel for references to theCivil Service Commission wherever appearing and reference to his findings for reference to its findings.
 
 1976—Subsec. (b)(3). Pub. L. 94–409 inserted provision excluding section 552b of this title from applicability of exemption from disclosure and provision setting forth conditions for statute specifically exempting disclosure.
 
@@ -334,7 +464,7 @@ Subsec. (a)(6). Pub. L. 93–502, §1(c), added par. (6).
 
 Subsec. (b)(1). Pub. L. 93–502, §2(a), designated existing provisions as cl. (A), substituted “authorized under criteria established by an” for “required by”, and added cl. (B).
 
-Subsec. (b)(7). Pub. L. 93–502, §2(b), substituted provisions relating to exemption for investigatory records compiled for law enforcement purposes, for provisionsrelating to exemption for investigatory files compiled for law enforcement purposes.
+Subsec. (b)(7). Pub. L. 93–502, §2(b), substituted provisions relating to exemption for investigatory records compiled for law enforcement purposes, for provisions relating to exemption for investigatory files compiled for law enforcement purposes.
 
 Subsec. (b), foll. par. (9). Pub. L. 93–502, §2(c), inserted provision relating to availability of segregable portion of records.
 
@@ -358,7 +488,17 @@ Subsec. (c). Pub. L. 90–23 added subsec. (c).
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–175, §6(a)(2), Dec. 31, 2007, 121 Stat. 2526, provided that: “The amendment made by this subsection \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Dec. 31, 2007\].”
+
+Pub. L. 110–175, §6(b)(2), Dec. 31, 2007, 121 Stat. 2526, provided that: “The amendment made by this subsection \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Dec. 31, 2007\] and apply to requests for information under section 552 of title 5, United States Code, filed on or after that effective date.”
+
+Pub. L. 110–175, §7(b), Dec. 31, 2007, 121 Stat. 2527, provided that: “The amendment made by this section \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Dec. 31, 2007\] and apply to requests for information under section 552 of title 5, United States Code, filed on or after that effective date.”
+
+Pub. L. 110–175, §10(b), Dec. 31, 2007, 121 Stat. 2530, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 31, 2007\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -366,7 +506,7 @@ Section 12 of Pub. L. 104–231 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), this Act \[amending this section and enacting provisions set out as notes below\] shall take effect 180 days after the date of the enactment of this Act \[Oct. 2, 1996\].
+In General.—Except as provided in subsection (b), this Act \[amending this section and enacting provisions set out as notes below\] shall take effect 180 daysafter the date of the enactment of this Act \[Oct. 2, 1996\].
 
 “(b)
 
@@ -414,6 +554,32 @@ Section 1801 of Pub. L. 99–570 provided that: “This subtitle \[subtitle N (�
 
 This section is popularly known as the “Freedom of Information Act”.
 
+#### Findings
+
+Pub. L. 110–175, §2, Dec. 31, 2007, 121 Stat. 2524, provided that: “Congress finds that—
+
+&emsp;“(1) the Freedom of Information Act \[probably means Pub. L. 89–487 which amended section 1002 of former Title 5, Executive Departments and Government Officers and Employees, see Historical and Revision notes above\] was signed into law on July 4, 1966, because the American people believe that—
+
+&emsp;&emsp;“(A) our constitutional democracy, our system of self-government, and our commitment to popular sovereignty depends upon the consent of the governed;
+
+&emsp;&emsp;“(B) such consent is not meaningful unless it is informed consent; and
+
+&emsp;&emsp;“(C) as Justice Black noted in his concurring opinion in Barr v. Matteo (360 U.S. 564 (1959)), ‘The effective functioning of a free government like ours depends largely on the force of an informed public opinion. This calls for the widest possible understanding of the quality of government service rendered by all elective or appointed public officials or employees.’;
+
+&emsp;“(2) the American people firmly believe that our system of government must itself be governed by a presumption of openness;
+
+&emsp;“(3) the Freedom of Information Act establishes a ‘strong presumption in favor of disclosure’ as noted by the United States Supreme Court in United States Department of State v. Ray (502 U.S. 164 (1991)), a presumption that applies to all agencies governed by that Act;
+
+&emsp;“(4) ‘disclosure, not secrecy, is the dominant objective of the Act,’ as noted by the United States Supreme Court in Department of Air Force v. Rose (425 U.S. 352 (1976));
+
+&emsp;“(5) in practice, the Freedom of Information Act has not always lived up to the ideals of that Act; and
+
+&emsp;“(6) Congress should regularly review section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), in order to determine whether further changes and improvements are necessary to ensure that the Government remains open and accessible to the American people and is always based not upon the ‘need to know’ but upon the fundamental ‘right to know’.”
+
+#### Limitation on Amounts Obligated or Expended From Claims and Judgment Fund
+
+Pub. L. 110–175, §4(b), Dec. 31, 2007, 121 Stat. 2525, provided that: “Notwithstanding section 1304 of title 31, United States Code, no amounts may be obligated or expended from the Claims and Judgment Fund of the United States Treasury to pay the costs resulting from fees assessed under section 552(a)(4)(E) of title 5, United States Code. Any such amounts shall be paid only from funds annually appropriated for any authorized purpose for the Federal agency against which a claim or judgment has been rendered.”
+
 #### Nondisclosure of Certain Products of Commercial Satellite Operations
 
 Pub. L. 108–375, div. A, title IX, §914, Oct. 28, 2004, 118 Stat. 2029, provided that:
@@ -432,7 +598,7 @@ Land Remote Sensing Information Defined.—In this section, the term ‘land rem
 
 &emsp;&emsp;“(B) are prohibited from sale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license issued pursuant to the Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.); and
 
-&emsp;“(2) includes any imagery and other product that is derived from such data and which is prohibited from sale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license described in paragraph (1)(B).
+&emsp;“(2) includes any imagery and other product that is derived from such data and which is prohibited fromsale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license described in paragraph (1)(B).
 
 “(c)
 
@@ -512,7 +678,7 @@ Functions.—Not later than 1 year after the date of the enactment of this Act \
 
 &emsp;“(2) coordinate with agencies and take such actions as necessary to expedite the release of such records to the public; and
 
-&emsp;“(3) submit a report to Congress, including the Committee on Government Reform and the Permanent Select Committee on Intelligence of the House of Representatives, and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
+&emsp;“(3) submit a report to Congress, including the Committee on Government Reform \[now Committee on Oversight and Government Reform\] and the Permanent Select Committee on Intelligence of the House of Representatives, and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
 
 “(d)
 
@@ -542,7 +708,7 @@ Exemptions.—An agency head may exempt from release under subsection (a) specif
 
 &emsp;“(7) reveal information that would impair relations between the United States and a foreign government, or undermine ongoing diplomatic activities of the United States;
 
-&emsp;“(8) reveal information that would impair the current ability of United States Government officials to protect the President, Vice President, and other officials for whom protection services are authorized in the interest of national security;
+&emsp;“(8) reveal information that would impair the current ability of United States Government officials toprotect the President, Vice President, and other officials for whom protection services are authorized in the interest of national security;
 
 &emsp;“(9) reveal information that would impair current national security emergency preparedness plans; or
 
@@ -554,7 +720,7 @@ Applications of Exemptions.—
 
 &emsp;“(1)
 
-In general.—In applying the exemptions provided in paragraphs (2) through (10) of subsection (b), there shall be a presumption that the public interest will be served by disclosure and release of the records of the Japanese Imperial Government. The exemption may be asserted only when the head of the agency that maintains the records determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on Government Reform and the Permanent Select Committee on Intelligence of the House of Representatives.
+In general.—In applying the exemptions provided in paragraphs (2) through (10) of subsection (b), there shall be a presumption that the public interest will be served by disclosure and release of the records of the Japanese Imperial Government. The exemption may be asserted only when the head of the agency that maintains the records determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 &emsp;“(2)
 
@@ -622,7 +788,7 @@ Functions.—Not later than 1 year after the date of enactment of this Act \[Oct
 
 &emsp;“(2) coordinate with agencies and take such actions as necessary to expedite the release of such records to the public; and
 
-&emsp;“(3) submit a report to Congress, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight\[now Committee on Government Reform\] of the House of Representatives, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
+&emsp;“(3) submit a report to Congress, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
 
 “(d)
 
@@ -688,7 +854,7 @@ Application of exemptions.—
 
 &emsp;&emsp;“(A)
 
-In general.—In applying the exemptions listed in subparagraphs (B) through (J) of paragraph (2), there shall be a presumption that the public interest in the release of Nazi war criminal records will be served by disclosure and release of the records. Assertion of such exemption may only be made when the agency head determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives. The exemptions set forth in paragraph (2) shall constitute the only authority pursuant to which an agency head may exempt records otherwise subject to release under paragraph (1).
+In general.—In applying the exemptions listed in subparagraphs (B) through (J) of paragraph (2), there shall be a presumption that the public interest in the release of Nazi war criminal records will be served by disclosure and release of the records. Assertion of such exemption may only be made when the agency head determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives. The exemptions set forth in paragraph (2) shall constitute the only authority pursuant to which an agency head may exempt records otherwise subject to release under paragraph (1).
 
 &emsp;&emsp;“(B)
 
@@ -816,7 +982,7 @@ Sec. 3. (a) For confidential commercial information submitted prior to January 1
 
 Sec. 4. When notification is made pursuant to section 1, each agency's procedures shall, to the extent permitted by law, afford the submitter a reasonable period of time in which the submitter or its designee may object to the disclosure of any specified portion of the information and to state all grounds upon which disclosure is opposed.
 
-Sec. 5. Each agency shall give careful consideration to all such specified grounds for nondisclosure prior to making an administrative determination of the issue. In all instances when the agency determines to disclose the requested records, its procedures shall provide that the agency give the submitter a written statementbriefly explaining why the submitter's objections are not sustained. Such statement shall, to the extent permitted by law, be provided a reasonable number of days prior to a specified disclosure date.
+Sec. 5. Each agency shall give careful consideration to all such specified grounds for nondisclosure prior to making an administrative determination of the issue. In all instances when the agency determines to disclose the requested records, its procedures shall provide that the agency give the submitter a written statement briefly explaining why the submitter's objections are not sustained. Such statement shall, to the extent permitted by law, be provided a reasonable number of days prior to a specified disclosure date.
 
 Sec. 6. Whenever a FOIA requester brings suit seeking to compel disclosure of confidential commercial information, each agency's procedures shall require that the submitter be promptly notified.
 
@@ -906,7 +1072,7 @@ Sec. 2. <i>Agency Chief FOIA Officers.</i>
 
 (iii) recommend to the head of the agency such adjustments to agency practices, policies, personnel, and funding as may be necessary to carry out the policy set forth in section 1 of this order;
 
-(iv) review and report, through the head of the agency, at such times and in such formats as the Attorney General may direct, on the agency's performance in implementing the FOIA; and
+(iv) review and report, through the head of the agency, at such times and in such formats as the AttorneyGeneral may direct, on the agency's performance in implementing the FOIA; and
 
 (v) facilitate public understanding of the purposes of the FOIA's statutory exemptions by including concise descriptions of the exemptions in both the agency's FOIA handbook issued under section 552(g) of title 5, United States Code, and the agency's annual FOIA report, and by providing an overview, where appropriate, of certain general categories of agency records to which those exemptions apply.
 

@@ -18,7 +18,7 @@ The Secretary may prescribe regulations under which—
 
 #### (d) Coordination with section 682
 
-No deduction shall be allowed under this section with respect to any payment if, by reasonof section 682 (relating to income of alimony trusts), the amount thereof is not includible in such individual's gross income.
+No deduction shall be allowed under this section with respect to any payment if, by reason of section 682 (relating to income of alimony trusts), the amount thereof is not includible in such individual's gross income.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 71; Pub. L. 98–369, div. A, title IV, §422(b), July 18, 1984, 98 Stat. 797.)
 

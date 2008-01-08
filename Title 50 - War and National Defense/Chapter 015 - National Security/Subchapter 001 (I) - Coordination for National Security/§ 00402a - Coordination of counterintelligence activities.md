@@ -76,7 +76,7 @@ The membership of the National Counterintelligence Policy Board shall consist of
 
 (6) Nothing in this section may be construed to alter the existing jurisdictional arrangements between the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
 
-(7) As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title.
+(7) As used in this section, the terms “foreign power” and “agent of a foreign power” have thesame meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title.
 
 (Pub. L. 103–359, title VIII, §811, Oct. 14, 1994, 108 Stat. 3455; Pub. L. 106–120, title VI, §602, Dec. 3, 1999, 113 Stat. 1620; Pub. L. 106–567, title VI, §605, Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–306, title VIII, §811(b)(5)(B), title IX, §903, Nov. 27, 2002, 116 Stat. 2424, 2433; Pub. L. 108–177, title III, §361(g), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §1071(g)(1), Dec. 17, 2004, 118 Stat. 3691.)
 

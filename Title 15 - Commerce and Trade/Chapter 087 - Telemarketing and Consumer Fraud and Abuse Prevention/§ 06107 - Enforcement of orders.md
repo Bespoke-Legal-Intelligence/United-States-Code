@@ -12,7 +12,7 @@ An action authorized by subsection (a) of this section may be brought by the Fed
 
 #### (1) Appointment upon request or motion
 
-&emsp;A special assistant United States Attorney may be appointed under subsection (b) of this section upon the request of the Federal TradeCommission or the court which has entered the order for which contempt is sought or upon the Attorney General's own motion.
+&emsp;A special assistant United States Attorney may be appointed under subsection (b) of this section upon the request of the Federal Trade Commission or the court which has entered the order for which contempt is sought or upon the Attorney General's own motion.
 
 #### (2) Timing
 

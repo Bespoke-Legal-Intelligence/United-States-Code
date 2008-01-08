@@ -22,7 +22,7 @@
 
 (3) For the purposes of paragraph (1) of this subsection and paragraph (2)(B) of subsection (f), adequate assurance of future performance of a lease of real property in a shopping center includes adequate assurance—
 
-&emsp;(A) of the source of rent and other consideration due under such lease, and in the case of an assignment, that the financial condition and operating performance of the proposed assignee and its guarantors, if any, shall be similar to the financial condition and operating performance of the debtor and its guarantors, if any, as of the time the debtor became the lessee under the lease;
+&emsp;(A) of the source of rent and other consideration due under such lease, and in the case ofan assignment, that the financial condition and operating performance of the proposed assignee and its guarantors, if any, shall be similar to the financial condition and operating performance of the debtor and its guarantors, if any, as of the time the debtor became the lessee under the lease;
 
 &emsp;(B) that any percentage rent due under such lease will not decline substantially;
 
@@ -118,7 +118,7 @@
 
 &emsp;(ii) if the term of such timeshare interest has commenced, then the timeshare interest purchaser may retain its rights in such timeshare interest for the balance of such term and for any term of renewal or extension of such timeshare interest to the extent that such rights are enforceable under applicable nonbankruptcy law.
 
-(B) If the timeshare interest purchaser retains its rights under subparagraph (A), such timeshare interest purchaser may offset against the moneys due for such timeshare interest for the balance of the term after the date of the rejection of such timeshare interest, and the term ofany renewal or extension of such timeshare interest, the value of any damage caused by the nonperformance after the date of such rejection, of any obligation of the debtor under such timeshare plan, but the timeshare interest purchaser shall not have any right against the estate or the debtor on account of any damage occurring after such date caused by such nonperformance.
+(B) If the timeshare interest purchaser retains its rights under subparagraph (A), such timeshare interest purchaser may offset against the moneys due for such timeshare interest for the balance of the term after the date of the rejection of such timeshare interest, and the term of any renewal or extension of such timeshare interest, the value of any damage caused by the nonperformance after the date of such rejection, of any obligation of the debtor under such timeshare plan, but the timeshare interest purchaser shall not have any right against the estate or the debtor on account of any damage occurring after such date caused by such nonperformance.
 
 (i)(1) If the trustee rejects an executory contract of the debtor for the sale of real property or for the sale of a timeshare interest under a timeshare plan, under which the purchaser is in possession, such purchaser may treat such contract as terminated, or, in the alternative, may remain in possession of such real property or timeshare interest.
 
@@ -174,7 +174,7 @@
 
 &emsp;(B) not interfere with the rights of the licensee as provided in such contract, or any agreement supplementary to such contract, to such intellectual property (including such embodiment), including any right to obtain such intellectual property (or such embodiment) from another entity.
 
-(<i>o</i>) In a case under chapter 11 of this title, the trustee shall be deemed to have assumed (consistent with the debtor's other obligations undersection 507), and shall immediately cure any deficit under, any commitment by the debtor to a Federal depository institutions regulatory agency (or predecessor to such agency) to maintain the capital of an insured depository institution, and any claim for a subsequent breach of the obligations thereunder shall be entitled to priority under section 507. This subsection shall not extend any commitment that would otherwise be terminated by any act of such an agency.
+(<i>o</i>) In a case under chapter 11 of this title, the trustee shall be deemed to have assumed (consistent with the debtor's other obligations under section 507), and shall immediately cure any deficit under, any commitment by the debtor to a Federal depository institutions regulatory agency (or predecessor to such agency) to maintain the capital of an insured depository institution, and any claim for a subsequent breach of the obligations thereunder shall be entitled to priority under section 507. This subsection shall not extend any commitment that would otherwise be terminated by any act of such an agency.
 
 (p)(1) If a lease of personal property is rejected or not timely assumed by the trustee under subsection (d), the leased property is no longer property of the estate and the stay under section 362(a) is automatically terminated.
 
@@ -216,7 +216,7 @@ Subsections (b), (c), and (d) provide limitations on the trustee's powers. Subse
 
 Subsection (b)(3) permits termination of leases entered into prior to the effective date of this title in liquidation cases if certain other conditions are met.
 
-Subsection (b)(4) \[enacted as (c)(2)\] prohibits the trustee's assumption of an executory contract requiring the other party to make a loan or deliver equipment to or to issue a security of the debtor. The purpose of this subsection is to make it clear that a party to a transaction which is based upon the financial strength of a debtor should not be required to extendnew credit to the debtor whether in the form of loans, lease financing, or the purchase or discount of notes.
+Subsection (b)(4) \[enacted as (c)(2)\] prohibits the trustee's assumption of an executory contract requiring the other party to make a loan or deliver equipment to or to issue a security of the debtor. The purpose of this subsection is to make it clear that a party to a transaction which is based upon the financial strength of a debtor should not be required to extend new credit to the debtor whether in the form of loans, lease financing, or the purchase or discount of notes.
 
 Subsection (b)(5) provides that in lease situations common to shopping centers, protections must be provided for the lessor if the trustee assumes the lease, including protection against decline in percentage rents, breach of agreements with other tenants, and preservation of the tenant mix. Protection for tenant mix will not be required in the office building situation.
 
@@ -250,9 +250,9 @@ Thus, under this provision, contracts such as loan commitments and letters of cr
 
 Subsection (e) invalidates ipso facto or bankruptcy clauses. These clauses, protected under present law, automatically terminate the contract or lease, or permit the other contracting party to terminate the contract or lease, in the event of bankruptcy. This frequently hampers rehabilitation efforts. If the trustee may assume or assign the contract under the limitations imposed by the remainder of the section, then the contract or lease may be utilized to assist in the debtor's rehabilitation or liquidation.
 
-The unenforceability of ipso facto or bankruptcy clauses proposed under this section will require the courts to be sensitive to the rights of the nondebtor party to executory contracts and unexpired leases. If the trustee is to assume a contract or lease, the courts will have to insure that the trustee's performance under the contract or lease gives the other contracting party the full benefit of his bargain. An example of the complexity that may arise in these situations and the need for a determination of all aspects of a particular executory contract or unexpired lease is the shopping center lease under which the debtor is a tenant in a shopping center.
+The unenforceability of ipso facto or bankruptcy clauses proposed under this section will require the courts to be sensitive to the rights of the nondebtor party to executory contracts and unexpired leases. If the trustee is to assume a contract or lease, the courts will have to insure that the trustee's performance under the contract or lease gives the other contracting party the full benefit of his bargain. An example of the complexity that may arise in these situations and the need for a determination of all aspects of a particular executory contract or unexpired lease is the shoppingcenter lease under which the debtor is a tenant in a shopping center.
 
-A shopping center is often a carefully planned enterprise, and though it consists of numerous individual tenants, the center is planned as a single unit, oftensubject to a master lease or financing agreement. Under these agreements, the tenant mix in a shopping center may be as important to the lessor as the actual promised rental payments, because certain mixes will attract higher patronage of the stores in the center, and thus a higher rental for the landlord from those stores that are subject to a percentage of gross receipts rental agreement. Thus, in order to assure a landlord of his bargained for exchange, the court would have to consider such factors as the nature of the business to be conducted by the trustee or his assignee, whether that business complies with the requirements of any master agreement, whether the kind of business proposed will generate gross sales in an amount such that the percentage rent specified in the lease is substantially the same as what would have been provided by the debtor, and whether the business proposed to be conducted would result in a breach of other clauses in master agreements relating, for example, to tenant mix and location.
+A shopping center is often a carefully planned enterprise, and though it consists of numerous individual tenants, the center is planned as a single unit, often subject to a master lease or financing agreement. Under these agreements, the tenant mix in a shopping center may be as important to the lessor as the actual promised rental payments, because certain mixes will attract higher patronage of the stores in the center, and thus a higher rental for the landlord from those stores that are subject to a percentage of gross receipts rental agreement. Thus, in order to assure a landlord of his bargained for exchange, the court would have to consider such factors as the nature of the business to be conducted by the trustee or his assignee, whether that business complies with the requirements of any master agreement, whether the kind of business proposed will generate gross sales in an amount such that the percentage rent specified in the lease is substantially the same as what would have been provided by the debtor, and whether the business proposed to be conducted would result in a breach of other clauses in master agreements relating, for example, to tenant mix and location.
 
 This subsection does not limit the application of an ipso facto or bankruptcy clause to a new insolvency or receivership after the bankruptcy case is closed. That is, the clause is not invalidated in toto, but merely made inapplicable during the case for the purpose of disposition of the executory contract or unexpired lease.
 
@@ -296,7 +296,7 @@ Subsec. (<i>o</i>). Pub. L. 103–394, §501(d)(10)(D), substituted “a Federal
 
 Subsec. (p). Pub. L. 103–429, §1(2), which directed the amendment of subsec. (p) by substituting “section 40102(a) of title 49” for “section 101(3) of the Federal Aviation Act of 1958”, could not be executed because subsec. (p) was repealed by Pub. L. 103–394, §501(d)(10)(E). See below.
 
-Pub. L. 103–394, §501(d)(10)(E), struck out subsec. (p), which read as follows: “In this section, ‘affected air carrier’ means an air carrier, as defined in section 101(3) of the Federal Aviation Act of 1958, that holds 65 percent or more in number of the aircraft gates at an airport—
+Pub. L. 103–394, §501(d)(10)(E), struck out subsec. (p), which read as follows: “In this section, ‘affected air carrier’ means an air carrier, as defined in section 101(3) of the Federal Aviation Act of 1958, that holds 65percent or more in number of the aircraft gates at an airport—
 
 &emsp;“(1) which is a Large Air Traffic Hub as defined by the Federal Aviation Administration in Report FAA–AP 92–1, February 1992; and
 
@@ -374,7 +374,7 @@ Section 19(a) of Pub. L. 102–365 provided that: “Congress finds that—
 
 &emsp;“(1) there are major airports served by an air carrier that has leased a substantial majority of the airport's gates;
 
-&emsp;“(2) the commerce in the region served by such a major airport can be disrupted if the air carrier thatleases most of its gates enters bankruptcy and either discontinues or materially reduces service; and
+&emsp;“(2) the commerce in the region served by such a major airport can be disrupted if the air carrier that leases most of its gates enters bankruptcy and either discontinues or materially reduces service; and
 
 &emsp;“(3) it is important that such airports be empowered to continue service in the event of such a disruption.”
 

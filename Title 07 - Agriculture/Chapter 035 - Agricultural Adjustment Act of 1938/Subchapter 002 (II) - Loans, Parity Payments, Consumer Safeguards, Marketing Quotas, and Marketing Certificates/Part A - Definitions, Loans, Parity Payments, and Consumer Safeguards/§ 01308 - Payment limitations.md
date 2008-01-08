@@ -50,7 +50,7 @@ In this section:
 
 &emsp;The total amount of the following gains and payments that a person may receive during any crop year may not exceed $75,000:
 
-&emsp;&emsp;(A) Any gain realized by a producer from repaying a marketing assistance loan for peanuts, wool, mohair, or honey under subtitle B or C of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C.7931 et seq., 7951 et seq.\] at a lower level than the original loan rate established for the commodity under those subtitles.
+&emsp;&emsp;(A) Any gain realized by a producer from repaying a marketing assistance loan for peanuts, wool, mohair, or honey under subtitle B or C of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7931 et seq., 7951 et seq.\] at a lower level than the original loan rate established for the commodity under those subtitles.
 
 &emsp;&emsp;(B) Any loan deficiency payments received for peanuts, wool, mohair, and honey under those subtitles.
 
@@ -80,7 +80,7 @@ In this section:
 
 &emsp;(i) in the case of any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought into the marriage by the spouse so long as the operation remains as a separate farming operation; and
 
-&emsp;(ii) at the option of the Secretary, in the case of any married couple consisting of spouses who do not hold, directly or indirectly, a substantial beneficial interest in more than one entity (including the spouses themselves) engaged in farm operations that also receives farm program payments (as described in subsections (b), (c), and (d) of this section) as separate persons, the spouses may be considered as separate persons if each spouse meets the other requirements established under this section and section 1308–1 of this title to be considered to be a separate person.
+&emsp;(ii) at the option of the Secretary, in the case of any married couple consisting of spouses who do not hold, directly or indirectly, a substantial beneficial interest in more than one entity (including the spouses themselves) engaged in farm operations that also receives farm program payments (as described in subsections (b), (c), and (d) of this section) as separate persons, the spouses may be considered as separate persons if each spouse meets the other requirements established under this section and section 1308–1 ofthis title to be considered to be a separate person.
 
 (3) The regulations issued by the Secretary on December 18, 1970, under section 1307 of this title shall be used to establish the percentage ownership of a corporation by the stockholders of such corporation for the purpose of determining whether such corporation and stockholders are separate persons under this section.
 
@@ -94,7 +94,7 @@ The provisions of this section that limit payments to any person shall not be ap
 
 #### (g) Time limits; reliance
 
-Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section orsection 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
+Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
 (Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214.)
 
@@ -138,7 +138,7 @@ Subsec. (g). Pub. L. 107–171, §1603(b)(3), redesignated par. (7) as subsec. (
 
 1990—Par. (1). Pub. L. 101–624, §1111(a)(1), designated existing provisions as subpar. (A), substituted “1995” for “1990”, and added subpar. (B).
 
-Par. (2)(A). Pub. L. 101–624, §1111(a)(2), substituted “1991 through 1995 crops” for “1987 through 1990 crops” and substituted “and” for “honey, and (with respect to clause (iii)(II) of subparagraph (B))” after “rice,”.
+Par. (2)(A). Pub. L. 101–624, §1111(a)(2), substituted “1991 through 1995 crops” for “1987 through 1990 crops”and substituted “and” for “honey, and (with respect to clause (iii)(II) of subparagraph (B))” after “rice,”.
 
 Par. (2)(B)(iii). Pub. L. 101–624, §1111(a)(3)(A), added cl. (iii) and struck out former cl. (iii) which read as follows: “(iii)(I) any gain realized by a producer from repaying a loan for a crop of wheat, feed grains, upland cotton, rice, or honey at the rate permitted under section 107D(a)(5), 105C(a)(4), 103A(a)(5), 101A(a)(5), or 201(b)(2), respectively, of the Agricultural Act of 1949 or (II) any gain realized by a producer from repaying a loan for a crop of any other commodity at a lower level than the original loan level established under the Agricultural Act of 1949;”
 
@@ -190,7 +190,7 @@ Par. (3). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), temporarily substi
 
 Par. (5)(A). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(2), temporarily inserted provision that the term “person” not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers. See Effective and Termination Dates of 1986 Amendment note below.
 
-Par. (6). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(3), temporarily substituted “lands or animals owned” for “lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
+Par. (6). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(3), temporarily substituted “lands or animals owned” for“lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
 
 #### Effective Date of 1990 Amendment
 

@@ -4,7 +4,7 @@
 
 Another title IV of act July 14, 1955, as added by Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2584, is classified to subchapter IV–A (§7651 et seq.) of this chapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “7412(m)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “operational”.</i>
 
 
 ---

@@ -140,7 +140,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### <i>(E) Uniform provision of contributions and benefits</i>
 
-&emsp;&emsp;<i>In the case of a defined benefit plan or applicable individual account plan forming part of an eligible combined plan, the requirements of this subparagraph are met if all contributions and benefits under each such plan, and all rights and features under each such plan, must be provided uniformly to all participants.</i>
+&emsp;&emsp;<i>In the case of a defined benefit plan or applicable individual account plan forming part of an eligible combined plan, the requirements of this subparagraph are met if all contributions</i><i>and benefits under each such plan, and all rights and features under each such plan, must be provided uniformly to all participants.</i>
 
 #### <i>(F) Requirements must be met without taking into account social security and similar contributions and benefits or other plans</i>
 
@@ -154,7 +154,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 &emsp;&emsp;&emsp;&emsp;<i>(I) the requirements of subparagraphs (B) and (C) are met without regard to section 401(l</i>) of title 26, and
 
-&emsp;&emsp;&emsp;&emsp;<i>(II) the requirements of sections 401(a)(4) and 410(b) of title 26 are met with respect to both the applicable defined contribution</i><i>plan and defined benefit plan forming part of an eligible combined plan without regard to section 401(l</i>) of title 26.
+&emsp;&emsp;&emsp;&emsp;<i>(II) the requirements of sections 401(a)(4) and 410(b) of title 26 are met with respect to both the applicable defined contribution plan and defined benefit plan forming part of an eligible combined plan without regard to section 401(l</i>) of title 26.
 
 #### <i>(iii) Other plans and arrangements</i>
 

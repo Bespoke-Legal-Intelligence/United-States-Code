@@ -56,5 +56,3 @@ Section 12(d)(2) of Pub. L. 100–26 provided that: “The amendment to section 
 
 Section 101(c) \[title X, §954(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 954(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX by Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by this section \[enacting this section\] shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
-§2329
-

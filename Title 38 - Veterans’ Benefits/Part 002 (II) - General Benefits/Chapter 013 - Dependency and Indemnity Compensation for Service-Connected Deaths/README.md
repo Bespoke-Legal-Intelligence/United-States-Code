@@ -49,11 +49,11 @@
 
 1976—Pub. L. 94–433, §405(6), (8), Sept. 30, 1976, 90 Stat. 1379, substituted “surviving spouses” for “widows” in item 404 and “surviving spouse” for “widow” in item 411.
 
-1969—Pub. L. 91–96, §6, Oct. 27, 1969, 83 Stat. 145, substituted “Determination of pay grade” for “Computation of basic pay” in item 402 and “Certifications with respect to pay grade” for “Certifications with respect to basic pay” in item 421.
+1969—Pub. L. 91–96, §6, Oct. 27, 1969, 83 Stat. 145, substituted “Determination of pay grade” for “Computation of basic pay” in item 402 and “Certifications withrespect to pay grade” for “Certifications with respect to basic pay” in item 421.
 
 #### Uniformed Services, Promotion of Members in Missing Status; Effective Date
 
-Provisions of section 552(a) of Title 37, Pay and Allowances of the Uniformed Services, for full effectiveness for all purposes of promotion of a member while ina missing status notwithstanding a determination of death before the making of the promotion effective as of Nov. 24, 1971, for the purposes of this chapter, see section 2 of Pub. L. 93–26, Apr. 27, 1973, 87 Stat. 26, set out as an Effective Date of 1973 Amendment note under section 552 of Title 37.
+Provisions of section 552(a) of Title 37, Pay and Allowances of the Uniformed Services, for full effectiveness for all purposes of promotion of a member while in a missing status notwithstanding a determination of death before the making of the promotion effective as of Nov. 24, 1971, for the purposes of this chapter, see section 2 of Pub. L. 93–26, Apr. 27, 1973, 87 Stat. 26, set out as an Effective Date of 1973 Amendment note under section 552 of Title 37.
 
 
 ---

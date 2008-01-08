@@ -14,7 +14,7 @@
 
 #### (1) Treatment as a State or local agency
 
-&emsp;For purposes of chapter 15 of title 5, any entity that assumes responsibility for planning,developing, and coordinating activities under this chapter and receives assistance under this chapter shall be deemed to be a State or local agency. For purposes of paragraphs (1) and (2) of section 1502(a) of such title, any entity receiving assistance under this chapter shall be deemed to be a State or local agency.
+&emsp;For purposes of chapter 15 of title 5, any entity that assumes responsibility for planning, developing, and coordinating activities underthis chapter and receives assistance under this chapter shall be deemed to be a State or local agency. For purposes of paragraphs (1) and (2) of section 1502(a) of such title, any entity receiving assistance under this chapter shall be deemed to be a State or local agency.
 
 #### (2) Prohibitions
 

@@ -22,7 +22,7 @@ Form of concurrence.—The concurrence of a spouse under paragraph (1) shall be 
 
 (c)
 
-Limitation on Election When Former Spouse Coverage in Effect.—The limitation set forth in section 1450(f)(2) of this title applies to an election to discontinue participation in the Plan under subsection (a).
+Limitation on Election When Former Spouse Coverage in Effect.—The limitationset forth in section 1450(f)(2) of this title applies to an election to discontinue participation in the Plan under subsection (a).
 
 (d)
 

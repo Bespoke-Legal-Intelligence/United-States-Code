@@ -30,3 +30,7 @@ The action strategy shall include a statement of goals and objectives as well as
 
 Executive Order 13089, referred to in subsec. (a), is set out as a note under section 6401 of this title.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

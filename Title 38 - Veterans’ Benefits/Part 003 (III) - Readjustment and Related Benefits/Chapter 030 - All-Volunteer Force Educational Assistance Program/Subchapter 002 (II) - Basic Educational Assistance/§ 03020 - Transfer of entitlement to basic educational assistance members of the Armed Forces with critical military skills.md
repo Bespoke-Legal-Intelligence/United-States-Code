@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to the provisions of this section, each Secretary concerned may, for the purpose of enhancing recruitment and retention of members of the Armed Forces with critical military skills and at such Secretary's sole discretion, permit an individual described in subsection (b) who is entitled to basic educational assistance under this subchapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such individual's entitlement to such assistance, subject to the limitation under subsection (d).
+In General.—Subject to the provisions of this section, each Secretary concerned may, forthe purpose of enhancing recruitment and retention of members of the Armed Forces with critical military skills and at such Secretary's sole discretion, permit an individual described in subsection (b) who is entitled to basic educational assistance under this subchapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such individual's entitlement to such assistance, subject to the limitation under subsection (d).
 
 (b)
 
@@ -82,7 +82,7 @@ Additional Administrative Matters.—(1) The use of any entitlement to basic edu
 
 (6) The administrative provisions of this chapter (including the provisions set forth in section 3034(a)(1) of this title) shall apply to the use of entitlement transferred under this section, except that the dependent to whom the entitlement is transferred shall be treated as the eligible veteran for purposes of such provisions.
 
-(7) The purposes for which a dependent to whom entitlement is transferred under this section may use such entitlement shall include the pursuit and completion of the requirements of a secondary school diploma (or equivalency certificate).
+(7) The purposes for which a dependent to whom entitlement is transferred under this section may use such entitlement shall include the pursuit and completion of the requirements of asecondary school diploma (or equivalency certificate).
 
 (i)
 
@@ -124,7 +124,7 @@ Secretary Concerned Defined.—Notwithstanding section 101(25) of this title, in
 
 &emsp;(3) the Secretary of the Air Force with respect to matters concerning the Air Force; and
 
-&emsp;(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or theSecretary of Homeland Security when it is not operating as a service in the Navy.
+&emsp;(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.
 
 (Added Pub. L. 107–107, div. A, title VI, §654(a)(1), Dec. 28, 2001, 115 Stat. 1153; amended Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title VI, §643(a), Dec. 2, 2002, 116 Stat. 2577.)
 

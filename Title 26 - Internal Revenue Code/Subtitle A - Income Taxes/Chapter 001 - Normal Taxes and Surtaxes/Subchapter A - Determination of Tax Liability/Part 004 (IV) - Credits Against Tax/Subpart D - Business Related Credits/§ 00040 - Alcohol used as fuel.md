@@ -52,7 +52,7 @@ For purposes of this section, and except as provided in subsection (h)—
 
 #### (B) User credit not to apply to alcohol sold at retail
 
-&emsp;&emsp;No credit shall be allowed under subparagraph (A)(i) with respect to any alcohol which was sold in a retail sale described in subparagraph (A)(ii).
+&emsp;&emsp;No credit shall be allowed under subparagraph (A)(i) with respect to any alcoholwhich was sold in a retail sale described in subparagraph (A)(ii).
 
 #### (3) Smaller credit for lower proof alcohol
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 #### (iii) Special rules for decrease in credits for taxable year
 
-&emsp;&emsp;&emsp;If the amount of the credit of the organization determined under such subsection for a taxable year is less than the amount of such credit shown on the return of the organization for such year, an amount equal to the excess of—
+&emsp;&emsp;&emsp;If the amount of the credit of the organization determined under such subsectionfor a taxable year is less than the amount of such credit shown on the return of the organization for such year, an amount equal to the excess of—
 
 &emsp;&emsp;&emsp;&emsp;(I) such reduction, over
 
@@ -420,7 +420,7 @@ Section 11502(h) of Pub. L. 101–508 provided that:
 
 #### Effective Date of 1987 Amendment
 
-Section 10502(e) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting sections4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502, 9503, and 9508 of this title, and enacting provisions set out as notes under sections 4091 and 9502 of this title\] shall apply to sales after March 31, 1988.”
+Section 10502(e) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting sections 4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502, 9503, and 9508 of this title, and enacting provisions set out as notes under sections 4091 and 9502 of this title\] shall apply to sales after March 31, 1988.”
 
 #### Effective Date of 1984 Amendment
 
@@ -436,7 +436,7 @@ Amendments by section 511(b)(2), (d)(3) of Pub. L. 97–424 effective Apr. 1, 19
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 #### Effective Date of 1981 Amendment
 

@@ -4,7 +4,7 @@ Whoever, being a person employed in any administrative position by the United St
 
 This section shall not prohibit or make unlawful any act by any officer or employee of any educational or research institution, establishment, agency, or system which is supported in whole or in part by any state or political subdivision thereof, or by the District of Columbia or by any Territory or Possession of the United States; or by any recognized religious, philanthropic or cultural organization.
 
-(June 25, 1948, ch. 645, 62 Stat. 720; Pub. L. 91–405, title II, §204(d)(6), Sept. 22, 1970, 84 Stat. 853; Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 720; Pub. L. 91–405, title II, §204(d)(6), Sept. 22, 1970, 84 Stat. 853;Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,7 @@ Words “or agency thereof” and words “or any department or agency thereof�
 
 Words “or by the District of Columbia or any agency or instrumentality thereof” were inserted upon authority of section 61n of title 18, U.S.C., 1940 ed., which provided that for the purposes of this section, “persons employed in the government of the District of Columbia shall be deemed to be employed in the executive branch of the Government of the United States.”
 
-After “State” the words “Territory, or Possession of the United States” were inserted in two places uponauthority of section 61s of title 18, U.S.C., 1940 ed., which defined “State,” as used in this section, as “any State, Territory, or possession of the United States.”
+After “State” the words “Territory, or Possession of the United States” were inserted in two places upon authority of section 61s of title 18, U.S.C., 1940 ed., which defined “State,” as used in this section, as “any State, Territory, or possession of the United States.”
 
 The punishment provision was derived from section 61g of title 18, U.S.C., 1940 ed., which, by reference, made this punishment applicable to this section.
 

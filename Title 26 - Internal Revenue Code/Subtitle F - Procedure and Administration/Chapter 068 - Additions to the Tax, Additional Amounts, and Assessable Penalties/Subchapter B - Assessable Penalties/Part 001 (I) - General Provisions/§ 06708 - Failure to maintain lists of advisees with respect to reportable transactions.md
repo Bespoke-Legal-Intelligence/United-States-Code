@@ -36,7 +36,7 @@ Pub. L. 108–357, title VIII, §817(b), Oct. 22, 2004, 118 Stat. 1584, provided
 
 #### Effective Date of 1986 Amendment
 
-Section 1534(b) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to failures occurring or continuingafter the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 1534(b) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to failures occurring or continuing after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date
 

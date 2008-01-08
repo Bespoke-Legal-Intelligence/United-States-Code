@@ -1998,7 +1998,7 @@
 | 430f–8. | Establishment of Unit. |
 | 430f–9. | Land acquisition. |
 | 430f–10. | Park management and administration. |
-| 430f–11. | Authorization of special resource study. |
+| 430f–11. | Repealed. |
 | 430f–12. | Authorization of appropriations. |
 | [430g.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430g%20-%20Gettysburg%20National%20Military%20Park.md) | Gettysburg National Military Park. |
 | 430g–1. | Exchange of lands. |
@@ -2422,6 +2422,7 @@
 | 460d–1. | Rentals or other considerations in leases for construction, maintenance, and operation of commercial recreational facilities; adjustment by Chief of Engineers. |
 | 460d–2. | Adjustment by Secretary of Agriculture. |
 | 460d–3. | Recreational user fees. |
+| 460d–3a. | Contracts to provide visitor reservation services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2494,7 +2495,7 @@
 | :--- | ---: |
 | 460<i>l</i>–12. | Recreation and fish and wildlife benefits of Federal multiple-purpose water resources projects; Congressional declaration of policy. |
 | 460<i>l</i>–13. | Non-Federal administration of project land and water areas. |
-| 460<i>l</i>–14. | Facilities of project modifications to be provided without written indication of intent. |
+| 460<i>l</i>–14. | Facilities or project modifications to be provided without written indication of intent. |
 | 460<i>l</i>–15. | Lease of facilities and lands to non-Federal public bodies. |
 | 460<i>l</i>–16. | Postauthorization development of projects without allocation or reallocation of costs. |
 | 460<i>l</i>–17. | Miscellaneous provisions. |

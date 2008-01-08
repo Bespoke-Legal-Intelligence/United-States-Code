@@ -68,5 +68,3 @@ Section 52(a) of act Aug. 10, 1956, provided that: “Section 541 of title 10, U
 
 Act Aug. 10, 1956, ch. 1041, §44, 70A Stat. 637, provided that a cadet who had graduated from the United States Military Academy could, upon graduation and before the effective date of section 541 of this title, be appointed a second lieutenant in the Regular Air Force, and set forth provisions relating to date of appointment, service credit, rank among graduates, and increase in authorized strength.
 
-§555
-

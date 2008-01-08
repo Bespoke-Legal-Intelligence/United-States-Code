@@ -20,7 +20,7 @@ The Contract Disputes Act (Public Law 95–563, Act of November 1, 1978; 92 Stat
 
 Subsection (d) of this section shall apply to any case pending or commenced on or after March 17, 1986, before the Boards of Contract Appeals of the Department of the Interior or the Department of Health and Human Services except that in any such cases finally disposed of before October 5, 1988, the thirty-day period referred to in section 504(a)(2) of title 5 shall be deemed to commence on October 5, 1988.
 
-(Pub. L. 93–638, title I, §110, as added Pub. L. 100–472, title II, §206(a), Oct. 5, 1988, 102 Stat. 2294; amended Pub. L. 100–581, title II, §212, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–301, §§1(a)(2), 2(b), May 24, 1990, 104 Stat. 206, 207; Pub. L. 103–413, title I, §104(2), (3), Oct. 25, 1994, 108 Stat. 4268.)
+(Pub. L. 93–638, title I, §110, as added Pub. L. 100–472, title II, §206(a), Oct. 5, 1988, 102 Stat.2294; amended Pub. L. 100–581, title II, §212, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–301, §§1(a)(2), 2(b), May 24, 1990, 104 Stat. 206, 207; Pub. L. 103–413, title I, §104(2), (3), Oct. 25, 1994, 108 Stat. 4268.)
 
 #### References in Text
 

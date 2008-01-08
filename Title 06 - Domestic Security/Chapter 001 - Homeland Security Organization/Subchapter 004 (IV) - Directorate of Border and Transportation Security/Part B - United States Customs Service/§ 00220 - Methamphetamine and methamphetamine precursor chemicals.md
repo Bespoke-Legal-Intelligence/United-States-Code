@@ -42,6 +42,10 @@ The Combat Methamphetamine Epidemic Act of 2005, referred to in subsec. (b)(2)(B
 
 Section was enacted as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Definitions
 
 For definition of “Commissioner” as used in this section, see section 901 of this title.

@@ -4,6 +4,10 @@ The purpose of this subchapter is to encourage the development of special progra
 
 (Pub. L. 97–35, title VI, §612, Aug. 13, 1981, 95 Stat. 489.)
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–134, §1(a), Dec. 12, 2007, 121 Stat. 1363, provided that: “This Act \[enacting sections 9837b and 9852a to 9852c of this title and amending sections 1758, 1766, 9831 to 9835, 9836 to 9844, 9846, 9848, 9850, and 9851 of this title and sections 6312 and 9409 of Title 20, Education\] may be cited as the ‘Improving Head Start for School Readiness Act of 2007’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–285, §1, Oct. 27, 1998, 112 Stat. 2702, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Community Opportunities, Accountability, and Training and Educational Services Act of 1998’ or the ‘Coats Human Services Reauthorization Act of 1998’.”
@@ -46,7 +50,7 @@ Pub. L. 99–425, §1, Sept. 30, 1986, 100 Stat. 966, provided: “That this Act
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–558, §1, Oct. 30, 1984, 98 Stat. 2878, provided: “That this Act \[enacting sections 9871 to 9877, 9905a, and 9910a of this title and sections 1070d–31 to 1070d–41,1119d to 1119d–8, 1119e to 1119e–5, and 4201 to 4206 of Title 20, Education, amending sections 2991b, 2992b to 2992d, 6862, 6865, 8621 to 8624, 8626, 8627, 8629, 9832, 9834 to 9836, 9840, 9843, 9844, 9846, 9862, 9901, 9902, 9904, 9908, and 9910 of this title and section 4061 of Title 20, enacting provisions set out as notes under sections 2991, 8621, and 9904 of this title, and amending provisions set out as a note under section 9861 of this title\] may be cited as the ‘Human Services Reauthorization Act’.”
+Pub. L. 98–558, §1, Oct. 30, 1984, 98 Stat. 2878, provided: “That this Act \[enacting sections 9871 to 9877, 9905a, and 9910a of this title and sections 1070d–31 to 1070d–41, 1119d to 1119d–8, 1119e to 1119e–5, and 4201 to 4206 of Title 20, Education, amending sections 2991b, 2992b to 2992d, 6862, 6865, 8621 to 8624, 8626, 8627, 8629, 9832, 9834 to 9836, 9840, 9843, 9844, 9846, 9862, 9901, 9902, 9904, 9908, and 9910 of this title and section 4061 of Title 20, enacting provisions set out as notes under sections 2991, 8621, and 9904 of this title, and amending provisions set out as a note under section 9861 of this title\] may be cited as the ‘Human Services Reauthorization Act’.”
 
 #### Short Title
 

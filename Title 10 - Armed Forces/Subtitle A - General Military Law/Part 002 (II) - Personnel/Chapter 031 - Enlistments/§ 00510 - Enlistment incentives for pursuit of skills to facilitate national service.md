@@ -46,7 +46,7 @@ Incentives.—The incentives specified in this subsection are as follows:
 
 (f)
 
-Election of Incentive.—A National Call to Service participant shall elect in the agreement under subsection (b) which incentive under subsection (e) to receive. An election under this subsection is irrevocable.
+Election of Incentive.—A National Call to Service participant shall elect in the agreementunder subsection (b) which incentive under subsection (e) to receive. An election under this subsection is irrevocable.
 
 (g)
 
@@ -98,7 +98,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “Secretary of a military department” includes, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy, the Secretary of the Department in which the Coast Guard is operating.
 
-(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, §1071(e)(2), Oct. 17, 2006, 120 Stat. 2401.)
+(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, §1071(e)(2), Oct. 17, 2006, 120 Stat. 2401.)
 
 #### References in Text
 

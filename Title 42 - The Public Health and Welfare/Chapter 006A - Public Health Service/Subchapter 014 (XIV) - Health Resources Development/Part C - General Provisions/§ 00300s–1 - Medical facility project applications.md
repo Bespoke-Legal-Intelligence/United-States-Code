@@ -24,7 +24,7 @@ No loan, loan guarantee, or grant may be made under part A or B for a medical fa
 
 &emsp;(H) the type of assistance being sought under part A or B for the project;
 
-&emsp;(I) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of work on a project will be paid wages at rates not lessthan those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 FR 3176; 5 U.S.C. Appendix) and section 3145 of title 40;
+&emsp;(I) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of work on a project will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 FR 3176; 5 U.S.C. Appendix) and section 3145 of title 40;
 
 &emsp;(J) in the case of a project for the construction or modernization of an outpatient facility, reasonable assurance that the services of a general hospital will be available to patients at such facility who are in need of hospital care; and
 

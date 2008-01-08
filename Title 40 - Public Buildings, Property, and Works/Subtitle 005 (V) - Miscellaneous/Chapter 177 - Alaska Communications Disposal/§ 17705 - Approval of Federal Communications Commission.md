@@ -1,6 +1,6 @@
 ### §17705. Approval of Federal Communications Commission
 
-A transfer under this chapter does not require the approval of the Federal Communications Commission except to the extent that the approval of the Commission is necessary under section 17704(3) of this title.
+A transfer under this chapter does not require the approval of the Federal CommunicationsCommission except to the extent that the approval of the Commission is necessary under section 17704(3) of this title.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1288.)
 

@@ -16,3 +16,7 @@ A report described in section 7202(a)(1) or 7204(1) of this title shall be refer
 
 (Pub. L. 106–387, §1(a) \[title IX, §907\], Oct. 28, 2000, 114 Stat. 1549, 1549A–70.)
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 &emsp;(6) the term “law enforcement and criminal justice” means any activity pertaining to crime prevention, control, or reduction or the enforcement of the criminal law, including, but not limited to police efforts to prevent, control, or reduce crime or to apprehend criminals, activities of courts having criminal jurisdiction and related agencies (including prosecutorial and defender services), activities of corrections, probation, or parole authorities, and programs relating to the prevention, control, or reduction of juvenile delinquency or narcotic addiction;
 
-&emsp;(7) the term “State” means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands;
+&emsp;(7) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands;
 
 &emsp;(8) the term “unit of local government” means—
 
@@ -158,7 +158,7 @@ Par. (22). Pub. L. 107–273, §12204(8)(A), redesignated cls. (i) to (iii) as s
 
 Pars. (24) to (29). Pub. L. 107–273, §12204(8)(B)–(10), added pars. (24) to (29).
 
-1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
+1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purposepolitical subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
 
 Par. (9). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(B)\], substituted “units of local government” for “units of general local government”.
 

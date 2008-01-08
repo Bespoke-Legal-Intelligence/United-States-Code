@@ -14,3 +14,7 @@ Not later than 30 days after completing each assessment required by subsection (
 
 (Pub. L. 109–155, title III, §304, Dec. 30, 2005, 119 Stat. 2918.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

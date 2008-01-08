@@ -72,9 +72,15 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Authority of President under subsec. (a)(1) of this section to maintain custody and conduct screening of any undocumented person seeking to enter the United States who is encountered in a vessel interdicted on the high seas through Dec. 31, 2000, delegated to Attorney General by Memorandum of President of the United States, Sept. 24, 1999, 64 F.R. 55809, set out as a note under section 1182 of this title.
 
-#### Travel Documents
+#### Western Hemisphere Travel Initiative
 
-Pub. L. 108–458, title VII, §7209, Dec. 17, 2004, 118 Stat. 3823, as amended by Pub. L. 109–295, title V, §546, Oct. 4, 2006, 120 Stat. 1386, provided that:
+Pub. L. 110–53, title VII, §724, Aug. 3, 2007, 121 Stat. 350, provided that: “Before the Secretary of Homeland Security publishes a final rule in the Federal Register implementing section 7209 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note) \[set out below\]—
+
+&emsp;“(1) the Secretary of Homeland Security shall complete a cost-benefit analysis of the Western Hemisphere Travel Initiative, authorized under such section 7209; and
+
+&emsp;“(2) the Secretary of State shall develop proposals for reducing the execution fee charged for the passport card, proposed at 71 Fed. Reg. 60928–32 (October 17, 2006), including the use of mobile application teams, during implementation of the land and sea phase of the Western Hemisphere Travel Initiative, in order to encourage United States citizens to apply for the passport card.”
+
+Pub. L. 108–458, title VII, §7209, Dec. 17, 2004, 118 Stat. 3823, as amended by Pub. L. 109–295, title V, §546, Oct. 4, 2006, 120 Stat. 1386; Pub. L. 110–53, title VII, §723, Aug. 3, 2007, 121 Stat. 349; Pub. L. 110–161, div. E, title V, §545, Dec. 26, 2007, 121 Stat. 2080, provided that:
 
 “(a)
 
@@ -94,7 +100,7 @@ Passports.—
 
 Development of plan and implementation.—
 
-&emsp;&emsp;“(A) The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a plan as expeditiously as possible to require a passport or other document, or combination of documents, deemed by the Secretary of Homeland Security to be sufficient to denote identity and citizenship, for all travel into the United States by United States citizens and by categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(4)(B)). This plan shall be implemented not later than three months after the Secretary of State and the Secretary of Homeland Security make the certifications required in subsection (B), or June 1, 2009, whichever is earlier. The plan shall seek to expedite the travel of frequent travelers, including those who reside in border communities, and in doing so, shall make readily available a registered traveler program (as described in section 7208(k) \[8 U.S.C. 1365b(k)\]).
+&emsp;&emsp;“(A) The Secretary of Homeland Security, in consultation with the Secretary of State, shall develop and implement a plan as expeditiously as possible to require a passport or other document, or combination of documents, deemed by the Secretary of Homeland Security to be sufficient to denote identity and citizenship, for all travel into the United States by United States citizens and by categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(4)(B)). Such plan may not be implemented earlier than the date that is the later of 3 months after the Secretary of State and the Secretary of Homeland Security make the certification required in subparagraph (B) or June 1, 2009. The plan shall seek to expedite the travel of frequent travelers, including those who reside in border communities, and in doing so, shall make readily available a registered traveler program (as described in section 7208(k) \[8 U.S.C. 1365b(k)\]).
 
 &emsp;&emsp;“(B) The Secretary of Homeland Security and the Secretary of State shall jointly certify to the Committees on Appropriations of the Senate and the House of Representatives that the following criteria have been met prior to implementation of section 7209(b)(1)(A)—
 
@@ -108,9 +114,25 @@ Development of plan and implementation.—
 
 &emsp;&emsp;&emsp;“(v) the necessary technological infrastructure to process the passport cards has been installed, and all employees at ports of entry have been properly trained in the use of the new technology;
 
-&emsp;&emsp;&emsp;“(vi) the passport card has been made available for the purpose of international travel by United States citizens through land and sea ports of entry between the United States and Canada, Mexico, the Caribbean and Bermuda; and
+&emsp;&emsp;&emsp;“(vi) the passport card has been made available for the purpose of international travel by United States citizens through land and sea ports of entry between the United States and Canada, Mexico, the Caribbean and Bermuda;
 
-&emsp;&emsp;&emsp;“(vii) a single implementation date for sea and land borders has been established.
+&emsp;&emsp;&emsp;“(vii) a single implementation date for sea and land borders has been established; and
+
+&emsp;&emsp;&emsp;“(viii) the signing of a memorandum of agreement to initiate a pilot program with not less than one State to determine if an enhanced driver's license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit the individual to use the driver's license to meet the documentation requirements under subparagraph (A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
+
+&emsp;&emsp;“(C)
+
+Report.—Not later than 180 days after the initiation of the pilot program described in subparagraph (B)(viii), the Secretary of Homeland Security and the Secretary of State shall submit to the appropriate congressional committees a report which includes—
+
+&emsp;&emsp;&emsp;“(i) an analysis of the impact of the pilot program on national security;
+
+&emsp;&emsp;&emsp;“(ii) recommendations on how to expand the pilot program to other States;
+
+&emsp;&emsp;&emsp;“(iii) any appropriate statutory changes to facilitate the expansion of the pilot program to additional States and to citizens of Canada;
+
+&emsp;&emsp;&emsp;“(iv) a plan to screen individuals participating in the pilot program against United States terrorist watch lists; and
+
+&emsp;&emsp;&emsp;“(v) a recommendation for the type of machine-readable technology that should be used in enhanced driver's licenses, based on individual privacy considerations and the costs and feasibility of incorporating any new technology into existing driver's licenses.
 
 &emsp;“(2)
 
@@ -133,6 +155,8 @@ Technical and Conforming Amendments.—After the complete implementation of the 
 “(d)
 
 Transit Without Visa Program.—The Secretary of State shall not use any authorities granted under section 212(d)(4)(C) of such Act \[8 U.S.C. 1182(d)(4)(C)\] until the Secretary, in conjunction with the Secretary of Homeland Security, completely implements a security plan to fully ensure secure transit passage areas to prevent aliens proceeding in immediate and continuous transit through the United States from illegally entering the United States.”
+
+\[Amendment by Pub. L. 110–161, §545, to section 7209 of Pub. L. 108–458, set out above, was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language.\]
 
 #### Ex. Ord. No. 12172. Delegation of Authority of President to Secretary of State and Attorney General Respecting Entry of Iranian Aliens Into the United States
 

@@ -38,6 +38,30 @@ Initial adjustments.—The initial adjustments made under this subparagraph afte
 
 Investments in low-income geographic areas.—In calculating the outstanding leverage of a company for the purposes of subparagraph (A), the Administrator shall not include the amount of the cost basis of any equity investment made by the company in a smaller enterprise located in a low-income geographic area (as defined in section 689 of this title), to the extent that the total of such amounts does not exceed 50 percent of the company's private capital.
 
+&emsp;&emsp;(D)
+
+Investments in energy saving small businesses.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Subject to clause (ii), in calculating the outstanding leverage of a company for purposes of subparagraph (A), the Administrator shall exclude the amount of the cost basis of any Energy Saving qualified investment in a smaller enterprise made in the first fiscal year after December 19, 2007, or any fiscal year thereafter by a company licensed in the applicable fiscal year.
+
+&emsp;&emsp;&emsp;(ii)
+
+Limitations.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+Amount of exclusion.—The amount excluded under clause (i) for a company shall not exceed 33 percent of the private capital of that company.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Maximum investment.—A company shall not make an Energy Saving qualified investment in any one entity in an amount equal to more than 20 percent of the private capital of that company.
+
+&emsp;&emsp;&emsp;&emsp;(III)
+
+Other terms.—The exclusion of amounts under clause (i) shall be subject to such terms as the Administrator may impose to ensure that there is no cost (as that term is defined in section 661a of title 2) with respect to purchasing or guaranteeing any debenture involved.
+
 &emsp;(3) Subject to the foregoing dollar and percentage limits, a company licensed under section 681(c) of this title may issue and have outstanding both guaranteed debentures and participating securities: <i>Provided</i>, That the total amount of participating securities outstanding shall not exceed 200 per centum of private capital.
 
 &emsp;(4)
@@ -64,13 +88,37 @@ Applicability of other provisions.—Any leverage that is issued to a company or
 
 Investments in low-income geographic areas.—In calculating the aggregate outstanding leverage of a company for the purposes of subparagraph (A), the Administrator shall not include the amount of the cost basis of any equity investment made by the company in a smaller enterprise located in a low-income geographic area (as defined in section 689 of this title), to the extent that the total of such amounts does not exceed 50 percent of the company's private capital.
 
+&emsp;&emsp;(E)
+
+Investments in energy saving small businesses.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Subject to clause (ii), in calculating the aggregate outstanding leverage of a company for purposes of subparagraph (A), the Administrator shall exclude the amount of the cost basis of any Energy Saving qualified investment in a smaller enterprise made in the first fiscal year after December 19, 2007, or any fiscal year thereafter by a company licensed in the applicable fiscal year.
+
+&emsp;&emsp;&emsp;(ii)
+
+Limitations.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+Amount of exclusion.—The amount excluded under clause (i) for a company shall not exceed 33 percent of the private capital of that company.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Maximum investment.—A company shall not make an Energy Saving qualified investment in any one entity in an amount equal to more than 20 percent of the private capital of that company.
+
+&emsp;&emsp;&emsp;&emsp;(III)
+
+Other terms.—The exclusion of amounts under clause (i) shall be subject to such terms as the Administrator may impose to ensure that there is no cost (as that term is defined in section 661a of title 2) with respect to purchasing or guaranteeing any debenture involved.
+
 > For purposes of this subsection, the term “venture capital” includes such common stock, preferred stock, or other financing with subordination or nonamortization characteristics as the Administration determines to be substantially similar to equity financing.
 
 #### (c) Third party debt
 
 The Administrator—
 
-&emsp;(1) shall not permit a licensee having outstanding leverage to incur third party debt that would create or contribute to an unreasonable risk of default or loss to the Federal Government; and
+&emsp;(1) shall not permit a licensee having outstanding leverage to incur third party debtthat would create or contribute to an unreasonable risk of default or loss to the Federal Government; and
 
 &emsp;(2) shall permit such licensees to incur third party debt only on such terms and subject to such conditions as may be established by the Administrator, by regulation or otherwise.
 
@@ -110,7 +158,7 @@ Notwithstanding any other provision of law—
 
 &emsp;&emsp;(D) the estimate of the Administrator of any anticipated redemption; and
 
-&emsp;(2) any moneys received by the Administration from the repurchase of preferred stock shall be available solely to provide debenture leverage to licensees having 50 percent ormore in aggregate dollar amount of their financings invested in smaller enterprises.
+&emsp;(2) any moneys received by the Administration from the repurchase of preferred stock shall be available solely to provide debenture leverage to licensees having 50 percent or more in aggregate dollar amount of their financings invested in smaller enterprises.
 
 #### (g) Guarantee of payment of and authority to purchase participating securities
 
@@ -130,7 +178,7 @@ In order to encourage small business investment companies to provide equity capi
 
 &emsp;(7) For purposes of computing profit participation under paragraph (11), except as otherwise determined by the Administration, the management expenses of any company which issues participating securities shall not be greater than 2.5 per centum per annum of the combined capital of the company, plus $125,000 if the company's combined capital is less than $20,000,000. For purposes of this paragraph, (A) the term “combined capital” means the aggregate amount of private capital and outstanding leverage and (B) the term “management expenses” includes salaries, office expenses, travel, business development, office and equipment rental, bookkeeping and the development, investigation and monitoring of investments, but does not include the cost of services provided by specialized outside consultants, outside lawyers and outside auditors, who perform services not generally expected of a venture capital company nor does such term include the cost of services provided by any affiliate of the company which are not part of the normal process of making and monitoring venture capital investments.
 
-&emsp;(8) Notwithstanding paragraph (9), if a company is operating as a limited partnership or as a subchapter S corporation or an equivalentpass-through entity for tax purposes and if there are no accumulated and unpaid prioritized payments, the company may make annual distributions to the partners, shareholders, or members in amounts not greater than each partner's, shareholder's, or member's maximum tax liability. For purposes of this paragraph, the term “maximum tax liability” means the amount of income allocated to each partner, shareholder, or member (including an allocation to the Administration as if it were a taxpayer) for Federal income tax purposes in the income tax return filed or to be filed by the company with respect to the fiscal year of the company immediately preceding such distribution, multiplied by the highest combined marginal Federal and State income tax rates for corporations or individuals, whichever is higher, on each type of income included in such return. For purposes of this paragraph, the term “State income tax” means the income tax of the State where the company's principal place of business is located. A company may also elect to make a distribution under this paragraph at any time during any calendar quarter based on an estimate of the maximum tax liability. If a company makes 1 or more interim distributions for a calendar year, and the aggregate amount of those distributions exceeds the maximum amount that the company could have distributed based on a single annual computation, any subsequent distribution by the company under this paragraph shall be reduced by an amount equal to the excess amount distributed.
+&emsp;(8) Notwithstanding paragraph (9), if a company is operating as a limited partnership or as a subchapter S corporation or an equivalent pass-through entity for tax purposes and if there are no accumulated and unpaid prioritized payments, the company may make annual distributions to the partners, shareholders, or members in amounts not greater than each partner's, shareholder's, or member's maximum tax liability. For purposes of this paragraph, the term “maximum tax liability” means the amount of income allocated to each partner, shareholder, or member (including an allocation to the Administration as if it were a taxpayer) for Federal income tax purposes in the income tax return filed or to be filed by the company with respect to the fiscal year of the company immediately preceding such distribution, multiplied by the highest combined marginal Federal and State income tax rates for corporations or individuals, whichever is higher, on each type of income included in such return. For purposes of this paragraph, the term “State income tax” means the income tax of the State where the company's principal place of business is located. A company may also elect to make a distribution under this paragraph at any time during any calendar quarter based on an estimate of the maximum tax liability. If a company makes 1 or more interim distributions for a calendar year, and the aggregate amount of those distributions exceeds the maximum amount that the company could have distributed based on a single annual computation, any subsequent distribution by the company under this paragraph shall be reduced by an amount equal to the excess amount distributed.
 
 &emsp;(9) After making any distributions as provided in paragraph (8), a company with participating securities outstanding may distribute the balance of income to its investors, specifically including the Administration, in the per centums specified in paragraph (11), if there are no accumulated and unpaid prioritized payments and if all amounts due the Administration pursuant to paragraph (11) have been paid in full, subject to the following conditions:
 
@@ -162,7 +210,7 @@ In order to encourage small business investment companies to provide equity capi
 
 &emsp;&emsp;(iii) this paragraph shall not be construed to create any ownership interest of the Administration in the company.
 
-&emsp;(12) A company may elect to make an in-kind distribution of securities only if such securities are publicly traded and marketable. The company shall deposit the Administration's share of such securities for dispositionwith a trustee designated by the Administration or, at its option and with the agreement of the company, the Administration may direct the company to retain the Administration's share. If the company retains the Administration's share, it shall sell the Administration's share and promptly remit the proceeds to the Administration. As used in this paragraph, the term “trustee” means a person who is knowledgeable about and proficient in the marketing of thinly traded securities.
+&emsp;(12) A company may elect to make an in-kind distribution of securities only if such securities are publicly traded and marketable. The company shall deposit the Administration's share of such securities for disposition with a trustee designated by the Administration or, at its option and with the agreement of the company, the Administration may direct the company to retain the Administration's share. If the company retains the Administration's share, it shall sell the Administration's share and promptly remit the proceeds to the Administration. As used in this paragraph, the term “trustee” means a person who is knowledgeable about and proficient in the marketing of thinly traded securities.
 
 #### (h) Computation of amounts due under participating securities
 
@@ -186,17 +234,27 @@ With respect to leverage granted by the Administration to a licensee, the Admini
 
 All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures and participating securities under this chapter.
 
-(Pub. L. 85–699, title III, §303, Aug. 21, 1958, 72 Stat. 692; Pub. L. 87–341, §4, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §3, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §205, Oct. 11, 1967, 81 Stat. 270; Pub. L. 92–213, §10, Dec. 22, 1971, 85 Stat. 776; Pub. L. 92–595, §2(c), (d), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §104, June 4, 1976, 90 Stat. 665; Pub. L. 95–507, title I, §101, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 101–162, title V, (4), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–574, title II, §215(a)(1), (b), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 102–366, title IV, §§402, 403, 412, 413, Sept. 4, 1992, 106 Stat. 1008, 1009, 1018; Pub. L. 103–403, title II, §215, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(d)(1)–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, 110 Stat. 3009–743, 3009–744, 3009–746; Pub. L. 105–135, title II, §215(b)–(d), Dec. 2, 1997, 111 Stat. 2602, 2603; Pub. L. 106–9, §2(d)(1), Apr. 5, 1999, 113 Stat. 18; Pub. L. 106–554, §1(a)(8) \[§1(d)\], §1(a)(9) \[title IV, §§404, 405\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–690, 2763A–691; Pub. L. 107–100, §2(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 108–84, §117, Sept. 30, 2003, 117 Stat. 1044; Pub. L. 108–172, §1(b), Dec. 6, 2003, 117 Stat. 2065; Pub. L. 108–447, div. K, title II, §201, Dec. 8, 2004, 118 Stat. 3465.)
+#### (k) Energy saving debentures
+
+In addition to any other authority under this chapter, a small business investment company licensed in the first fiscal year after December 19, 2007, or any fiscal year thereafter may issue Energy Saving debentures.
+
+(Pub. L. 85–699, title III, §303, Aug. 21, 1958, 72 Stat. 692; Pub. L. 87–341, §4, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §3, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §205, Oct. 11, 1967, 81 Stat. 270; Pub. L. 92–213, §10, Dec. 22, 1971, 85 Stat. 776; Pub. L. 92–595, §2(c), (d), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §104, June 4, 1976, 90 Stat. 665; Pub. L. 95–507, title I, §101, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 101–162, title V, (4), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–574, title II, §215(a)(1), (b), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 102–366, title IV, §§402, 403, 412, 413, Sept. 4, 1992, 106 Stat. 1008, 1009, 1018; Pub. L. 103–403, title II, §215, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(d)(1)–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, 110 Stat. 3009–743, 3009–744, 3009–746; Pub. L. 105–135, title II, §215(b)–(d), Dec. 2, 1997, 111 Stat. 2602, 2603; Pub. L. 106–9, §2(d)(1), Apr. 5, 1999, 113 Stat. 18; Pub. L. 106–554, §1(a)(8) \[§1(d)\], §1(a)(9) \[title IV, §§404, 405\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–690, 2763A–691; Pub. L. 107–100, §2(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 108–84, §117, Sept. 30, 2003, 117 Stat. 1044; Pub. L. 108–172, §1(b), Dec. 6, 2003, 117 Stat. 2065; Pub. L. 108–447, div. K, title II, §201, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 110–140, title XII, §§1205(a), 1206, Dec. 19, 2007, 121 Stat. 1773.)
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsecs. (b), (e), (g)(2), (4), and (j), see References in Text note set out under section 661 of this title.
+For definition of “this chapter”, referred to in subsecs. (b), (e), (g)(2), (4), (j), and (k), see References in Text note set out under section 661 of this title.
 
 #### Codification
 
 December 2, 1997, referred to in subsec. (b)(2)(B)(ii), was in the original “the date of the enactment of the Small Business Reauthorization Act of 1937” which was translated as meaning the date of enactment of the Small Business Reauthorization Act of 1997, Pub. L. 105–135, as the probable intent of Congress.
 
 #### Amendments
+
+2007—Subsec. (b)(2)(D). Pub. L. 110–140, §1206(a), added subpar. (D).
+
+Subsec. (b)(4)(E). Pub. L. 110–140, §1206(b), added subpar. (E).
+
+Subsec. (k). Pub. L. 110–140, §1205(a), added subsec. (k).
 
 2004—Subsec. (g)(4). Pub. L. 108–447 substituted “chapter” for “subsection” in first sentence and “from appropriate sources, as determined by the Administration” for “contingent upon and limited to the extent of earnings” in second sentence.
 
@@ -246,7 +304,7 @@ Subsec. (d). Pub. L. 104–208, §208(d)(3), inserted heading and amended text o
 
 Subsec. (e). Pub. L. 104–208, §208(d)(4)(A), inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “In determining the private capital of a small business investment company licensed under section 681(d) of this title and notwithstanding section 662(9) of this title, Federal, State, or local government funds received from sources other than the Administration shall be included solely for regulatory purposes, and not for the purpose of obtaining financial assistance from or licensing by the Administration, providing such funds were invested to November 21, 1989: <i>Provided</i>, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under section 681(d) of this title.”
 
-Subsec. (f). Pub. L. 104–208, §208(h)(1)(A)(ii), added subsec. (f) and struck out former subsec. (f) which read as follows: “Notwithstanding the provisions of any other law, rule, or regulation, the Administration is authorized to allow the issuer of any preferred stock heretofore sold to the Administration to redeem or repurchase such stock upon the payment to the Administration of an amount less than the par value of such stock. The Administration, in its sole discretion, shall determine the repurchase price after considering factors including, but not limited to, the market value of the stock, the value of benefits previously provided and anticipated to accrue to the issuer, the amount of dividends previously paid, accrued, and anticipated, and the Administration's estimate of any anticipated redemption. The Administration may guarantee debentures as provided in paragraph (5) of subsection (c) of this section and allow the issuer to use the proceeds to make the payments authorized herein. Any monies received by the Administration from the repurchase ofpreferred stock shall be deposited in the business loan and investment fund and shall be available solely to provide assistance to companies operating under the authority of section 681(d) of this title, to the extent and in the amounts provided in advance in appropriations Acts.”
+Subsec. (f). Pub. L. 104–208, §208(h)(1)(A)(ii), added subsec. (f) and struck out former subsec. (f) which read as follows: “Notwithstanding the provisions of any other law, rule, or regulation, the Administration is authorized to allow the issuer of any preferred stock heretofore sold to the Administration to redeem or repurchase such stock upon the payment to the Administration of an amount less than the par value of such stock. The Administration, in its sole discretion, shall determine the repurchase price after considering factors including, but not limited to, the market value of the stock, the value of benefits previously provided and anticipated to accrue to the issuer, the amount of dividends previously paid, accrued, and anticipated, and the Administration's estimate of any anticipated redemption. The Administration may guarantee debentures as provided in paragraph (5) of subsection (c) of this section and allow the issuer to use the proceeds to make the payments authorized herein. Any monies received by the Administration from the repurchase of preferred stock shall be deposited in the business loan and investment fund and shall be available solely to provide assistance to companies operating under the authority of section 681(d) of this title, to the extent and in the amounts provided in advance in appropriations Acts.”
 
 Subsec. (g)(2). Pub. L. 104–208, §208(d)(6)(B), substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus, at the time the guarantee is issued, such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes, but not to exceed 2 per centum”.
 
@@ -313,6 +371,10 @@ Subsec. (c). Pub. L. 92–595, §2(d), added subsec. (c).
 1964—Subsec. (b). Pub. L. 88–273 provided for participation loans by Administration with lending institutions on an immediate or deferred basis and for a minimum interest rate measured by the average investment yield on marketable obligations of the United States outstanding at the time of the loan involved, and designated existing provisions as clauses (1) and (2).
 
 1961—Subsec. (b). Pub. L. 87–341 limited the Administration's authorization to lend funds to the extent that the funds are not available to the company involved from private sources on reasonable terms, and the total amount of obligations, including commitments to purchase such obligations, which can be purchased in any one company to not more than 50 percent of the paid-in capital and surplus or $4,000,000, whichever is less, and inserted “All loans made by the Administration under this subsection shall be of such sound value as reasonably to assure repayment.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Effective Date of 2001 Amendment
 

@@ -22,7 +22,7 @@ Pub. L. 106–346, §101(a) \[title III, §348\], Oct. 23, 2000, 114 Stat. 1356,
 
 #### Reimbursements Relating to Professional Liability Insurance
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §636\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §644\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–526; Pub. L. 106–58, title VI, §642(a), Sept. 29, 1999, 113 Stat. 477, provided that:
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §636\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §644\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–526; Pub. L. 106–58, title VI, §642(a), Sept. 29, 1999, 113 Stat. 477; Pub. L. 110–161, div. F, title IV, §429(a), Dec. 26, 2007, 121 Stat. 2151, provided that:
 
 “(a)
 
@@ -32,9 +32,11 @@ Authority.—Notwithstanding any other provision of law, amounts appropriated by
 
 Qualified Employee.—For purposes of this section, the term ‘qualified employee’ means an agency employee whose position is that of—
 
-&emsp;“(1) a law enforcement officer; or
+&emsp;“(1) a law enforcement officer;
 
-&emsp;“(2) a supervisor or management official.
+&emsp;“(2) a supervisor or management official; or
+
+&emsp;“(3) a temporary fire line manager.
 
 “(c)
 
@@ -44,19 +46,29 @@ Definitions.—For purposes of this section—
 
 &emsp;“(2) the term ‘law enforcement officer’ means an employee, the duties of whose position are primarily the investigation, apprehension, prosecution, detention, or supervision of individuals suspected or convicted of offenses against the criminal laws of the United States, including any law enforcement officer under section 8331(20) or 8401(17) of such title 5, or under section 4823 of title 22, United States Code;
 
-&emsp;“(3) the terms ‘supervisor’ and ‘management official’ have the respective meanings given them by section 7103(a) of such title 5, and, with regard to the Judicial Branch, mean a justice or judge of the United States as defined in 28 U.S.C. 451 in regular active service or retired from regular active service, other judicial officers as authorized by the Judicial Conference of the United States, and supervisors and managers within the Judicial Branch as authorized by the Judicial Conference of the United States, and
+&emsp;“(3) the terms ‘supervisor’ and ‘management official’ have the respective meanings given them by section 7103(a) of such title 5, and, with regard to the Judicial Branch, mean a justice or judge of the United States as defined in 28 U.S.C. 451 in regular active service or retired from regular active service, other judicial officers as authorized by the Judicial Conference of the United States, and supervisors and managers within the Judicial Branch as authorized by the Judicial Conference of the United States;
 
 &emsp;“(4) the term ‘professional liability insurance’ means insurance which provides coverage for—
 
 &emsp;&emsp;“(A) legal liability for damages due to injuries to other persons, damage to their property, or other damage or loss to such other persons (including the expenses of litigation and settlement) resulting from or arising out of any tortious act, error, or omission of the covered individual (whether common law, statutory, or constitutional) while in the performance of such individual's official duties as a qualified employee; and
 
-&emsp;&emsp;“(B) the cost of legal representation for the covered individual in connection with any administrative or judicial proceeding (including any investigation or disciplinary proceeding) relating to any act, error, or omission of the covered individual while in the performance of such individual's official duties as a qualified employee, and other legal costs and fees relating to any such administrative or judicial proceeding.
+&emsp;&emsp;“(B) the cost of legal representation for the covered individual in connection with any administrative or judicial proceeding (including any investigation or disciplinary proceeding) relating to any act, error, or omission of the covered individual while in the performance of such individual's official duties as a qualified employee, and other legal costs and fees relating to any such administrative or judicial proceeding; and
+
+&emsp;“(5) notwithstanding the definition of the terms ‘supervisor’ and ‘management official’ under section 7103(a) of title 5, United States Code, the term ‘temporary fire line manager’ means an employee of the Forest Service or the Department of the Interior, whose duties include, as determined by the employing agency—
+
+&emsp;&emsp;“(A) temporary supervision or management of personnel engaged in wildland or managed fire activities;
+
+&emsp;&emsp;“(B) providing analysis or information that affects a decision by a supervisor or manager about a wildland or managed fire; or
+
+&emsp;&emsp;“(C) directing the deployment of equipment for a wildland or managed fire.
 
 “(d)
 
 Applicability.—The amendments made by this section \[this note\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and shall apply thereafter.”
 
-\[Pub. L. 106–58, title VI, §642(b), Sept. 29, 1999, 113 Stat. 477, provided that: “The amendment made by subsection (a) \[amending section 101(f) \[title VI, 3636\] of Pub. L. 104–208, set out above\] shall take effect on October 1, 1999, or the date of the enactment of this Act \[Sept. 29, 1999\], whichever is later.”\]
+\[Pub. L. 110–161, div. F, title IV, §429(b), Dec. 26, 2007, 121 Stat. 2152, provided that: “The amendment made by subsection (a) \[amending section 101(f) \[title VI, §636\] of Pub. L. 104–208, set out above\] shall take effect on the date of enactment of this Act \[Dec. 26, 2007\].”\]
+
+\[Pub. L. 106–58, title VI, §642(b), Sept. 29, 1999, 113 Stat. 477, provided that: “The amendment made by subsection (a) \[amending section 101(f) \[title VI, §636\] of Pub. L. 104–208, set out above\] shall take effect on October 1, 1999, or the date of the enactment of this Act \[Sept. 29, 1999\], whichever is later.”\]
 
 
 ---

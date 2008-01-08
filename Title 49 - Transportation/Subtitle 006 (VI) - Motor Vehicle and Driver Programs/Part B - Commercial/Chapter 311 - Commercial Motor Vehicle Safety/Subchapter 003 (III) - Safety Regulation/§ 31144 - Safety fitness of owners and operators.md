@@ -104,7 +104,7 @@ Grants.—The Secretary may make grants to States and local governments for new 
 
 &emsp;&emsp;(B)
 
-Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.
+Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal yearfor audits of new entrant motor carriers conducted pursuant to this paragraph.
 
 &emsp;&emsp;(C)
 

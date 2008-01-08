@@ -32,7 +32,7 @@ Whoever—
 
 &emsp;(A) to refer an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made in whole or in part under a Federal health care program, or
 
-&emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
+&emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or orderingany good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
 
 > shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
@@ -68,7 +68,7 @@ Whoever knowingly and willfully makes or causes to be made, or induces or seeks 
 
 Whoever knowingly and willfully—
 
-&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX of this chapter, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
+&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX of this chapter, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate inexcess of the rate permitted under such contract), or
 
 &emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX of this chapter, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
 
@@ -130,7 +130,7 @@ Subsec. (d)(1). Pub. L. 105–33, §4704(b), inserted “(or, in the case of ser
 
 1996—Pub. L. 104–191, §204(a)(1), substituted “Federal” for “Medicare or State” in section catchline.
 
-Subsec. (a). Pub. L. 104–191, §204(a)(4), in concluding provisions, substituted “a Federal health care program” for “a State plan approved under subchapter XIX of this chapter” and “the administrator of such program may at its option (notwithstanding any other provision of such program)” for “the State may at its option (notwithstanding any other provision of that subchapter or of such plan)”.
+Subsec. (a). Pub. L. 104–191, §204(a)(4), in concluding provisions, substituted “a Federal health care program” for “a State plan approved under subchapterXIX of this chapter” and “the administrator of such program may at its option (notwithstanding any other provision of such program)” for “the State may at its option (notwithstanding any other provision of that subchapter or of such plan)”.
 
 Subsec. (a)(1). Pub. L. 104–191, §204(a)(2), substituted “a Federal health care program (as defined in subsection (f) of this section)” for “a program under subchapter XVIII of this chapter or a State health care program (as defined in section 1320a–7(h) of this title)”.
 
@@ -210,7 +210,7 @@ Amendment by section 4704(b) of Pub. L. 105–33 effective Aug. 5, 1997, and app
 
 Section 204(b) of Pub. L. 104–191 provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1997.”
 
-Section 216(c) of Pub. L. 104–191 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to written agreements entered into on or after January 1, 1997, without regard to whether regulations have been issued to implement such amendments.”
+Section 216(c) of Pub. L. 104–191 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to written agreements entered into on or after January 1, 1997, without regard to whether regulations have been issued to implement such amendments.”
 
 Amendment by section 217 of Pub. L. 104–191 effective Jan. 1, 1997, except as otherwise provided, see section 218 of Pub. L. 104–191, set out as a note under section 1320a–7 of this title.
 
@@ -230,7 +230,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendments
 
-Amendment by section 4211(h)(7) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, setout as an Effective Date note under section 1396r of this title.
+Amendment by section 4211(h)(7) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 
@@ -336,7 +336,7 @@ Publication of rule after public comment.—The Secretary shall provide for cons
 
 #### Anti-Kickback Regulations
 
-Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18,1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
+Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

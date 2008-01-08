@@ -8,7 +8,7 @@ In this section, the terms “approved national service position” and “Corpo
 
 #### (1) In general
 
-&emsp;Notwithstanding subtitles C and D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq., 12601 et seq.), and any other provision of law, in approving a position as an approved national service position, the Corporation—
+&emsp;Notwithstanding subtitles C and D of title I of the National and Community Service Act of1990 (42 U.S.C. 12571 et seq., 12601 et seq.), and any other provision of law, in approving a position as an approved national service position, the Corporation—
 
 &emsp;&emsp;(A) shall approve the position at the time the Corporation—
 
@@ -80,5 +80,5 @@ Section was enacted as part of the Strengthen AmeriCorps Program Act, and not as
 
 #### Short Title
 
-For short title of Pub. L. 108–45 which enacted this section, as the Strengthen AmeriCorps Program Act, see section 1 of Pub. L. 108–45, set out as a note under section 12501 of this title.
+For short title of Pub. L. 108–45 which enacted this section, as the Strengthen AmeriCorps Program Act,see section 1 of Pub. L. 108–45, set out as a note under section 12501 of this title.
 

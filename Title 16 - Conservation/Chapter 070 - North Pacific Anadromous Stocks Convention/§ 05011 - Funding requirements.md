@@ -10,7 +10,7 @@ There are authorized to be appropriated from time to time such sums as may be ne
 
 #### (b) Research
 
-Such funds as shall be made available to the Secretary of Commerce for research and related activities shall be expended to carry out the program of the Commission in accordance with the recommendations of the United States Sectionand to carry out other research and observer programs pursuant to the Convention.
+Such funds as shall be made available to the Secretary of Commerce for research and related activities shall be expended to carry out the program of the Commission in accordance with the recommendations of the United States Section and to carry out other research and observer programs pursuant to the Convention.
 
 (Pub. L. 102–567, title VIII, §812, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 102–587, title VIII, §8012, Nov. 4, 1992, 106 Stat. 5105; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 

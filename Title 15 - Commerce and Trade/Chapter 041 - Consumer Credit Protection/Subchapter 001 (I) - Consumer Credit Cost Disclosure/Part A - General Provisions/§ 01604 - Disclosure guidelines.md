@@ -28,7 +28,7 @@ Any regulation of the Board, or any amendment or interpretation thereof, requiri
 
 &emsp;&emsp;(A) The amount of the loan and whether the disclosures, right of rescission, and other provisions provide a benefit to the consumers who are parties to such transactions, as determined by the Board.
 
-&emsp;&emsp;(B) The extent to which the requirements of this subchapter complicate, hinder, ormake more expensive the credit process for the class of transactions.
+&emsp;&emsp;(B) The extent to which the requirements of this subchapter complicate, hinder, or make more expensive the credit process for the class of transactions.
 
 &emsp;&emsp;(C) The status of the borrower, including—
 

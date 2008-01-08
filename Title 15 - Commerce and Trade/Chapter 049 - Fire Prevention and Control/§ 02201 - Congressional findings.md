@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(6) The fire service and the civil defense program in each locality would both benefit from closer cooperation.
 
-&emsp;(7) The Nation's fire problem is exacerbated by (A) the indifference with which some Americans confront the subject; (B) the Nation's failure to undertake enough research and development into fire and fire-related problems; (C) the scarcity of reliable data and information; (D) the fact that designers and purchasers of buildings and products generally give insufficient attention to fire safety; (E) the fact that many communities lack adequate building and fire prevention codes; and (F) the fact that local fire departments spend about 95 cents of every dollar appropriated tothe fire services on efforts to extinguish fires and only about 5 cents on fire prevention.
+&emsp;(7) The Nation's fire problem is exacerbated by (A) the indifference with which some Americans confront the subject; (B) the Nation's failure to undertake enough research and development into fire and fire-related problems; (C) the scarcity of reliable data and information; (D) the fact that designers and purchasers of buildings and products generally give insufficient attention to fire safety; (E) the fact that many communities lack adequate building and fire prevention codes; and (F) the fact that local fire departments spend about 95 cents of every dollar appropriated to the fire services on efforts to extinguish fires and only about 5 cents on fire prevention.
 
 &emsp;(8) There is a need for improved professional training and education oriented toward improving the effectiveness of the fire services, including an increased emphasis on preventing fires and on reducing injuries to firefighters.
 
@@ -258,7 +258,7 @@ The White House, June 19, 1978
 
 Ex. Ord. No. 12127, Mar. 31, 1979, 44 F.R. 19367, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America,including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
 
 1–101. Reorganization Plan No. 3 of 1978 (43 FR 41943), which establishes the Federal Emergency Management Agency, provides for the transfer of functions, and the transfer and abolition of agencies and offices, is hereby effective.
 

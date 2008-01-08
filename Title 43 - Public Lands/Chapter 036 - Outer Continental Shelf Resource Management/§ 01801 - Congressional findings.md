@@ -28,7 +28,7 @@ The Congress finds and declares that—
 
 &emsp;(13) because of the possible conflicts between exploitation of the oil and gas resources in the Outer Continental Shelf and other uses of the marine environment, including fish and shellfish growth and recovery, and recreational activity, the Federal Government must assume responsibility for the minimization or elimination of any conflict associated with such exploitation;
 
-&emsp;(14) the oil and gas resources of the Outer Continental Shelf are limited, nonrenewable resources which must be developed in a manner which takes into consideration the Nation's long-range energy needs and also assures adequate protection of the renewable resources of the Outer Continental Shelf which are a continuing and increasingly importantsource of food and protein to the Nation and the world; and
+&emsp;(14) the oil and gas resources of the Outer Continental Shelf are limited, nonrenewable resources which must be developed in a manner which takes into consideration the Nation's long-range energy needs and also assures adequate protection of the renewable resources of the Outer Continental Shelf which are a continuing and increasingly important source of food and protein to the Nation and the world; and
 
 &emsp;(15) funds must be made available to pay for damage to commercial fishing vessels and gear resulting from activities involving oil and gas exploration, development, and production on the Outer Continental Shelf.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization; number; duration; renewal; criteria; foreign recipients; designation of recipients as Institute Fellows
 
-The President is authorized to award up to twenty fellowships annually for periods up totwo years, such awards to be renewable for an additional period not to exceed two years, to individuals who have demonstrated exceptional competence and ability in the fields of scientific, technological, economic, or social endeavor selected by the Institute for concentration. The awards shall be made so as to encompass a wide diversity of disciplines and backgrounds, and shall be made on the basis of criteria established by the President upon the advice of the Council. Up to ten of the awards in any year may be made to citizens of countries other than the United States. Individuals awarded fellowships shall be designated as Institute Fellows.
+The President is authorized to award up to twenty fellowships annually for periods up to two years, such awards to be renewable for an additional period not to exceed two years, to individuals who have demonstrated exceptional competence and ability in the fields of scientific, technological, economic, or social endeavor selected by the Institute for concentration. The awards shall be made so as to encompass a wide diversity of disciplines and backgrounds, and shall be made on the basis of criteria established by the President upon the advice of the Council. Up to ten of the awards in any year may be made to citizens of countries other than the United States. Individuals awarded fellowships shall be designated as Institute Fellows.
 
 #### (b) Activities of Institute Fellows
 
@@ -14,7 +14,7 @@ The amount of the awards made pursuant to this section shall be established by t
 
 #### (d) Status of Institute Fellows
 
-Except as provided otherwise in this section, Institute Fellows shall not be deemed employees or otherwise in the service or employment of the United States Government. Institute Fellows shall be considered employees for purposes of compensation of injuries under chapter 81 of title 5 and the tort claim provisions of chapter 171 of title 28. In addition, Institute Fellows who are United States citizens shall be considered Government employees for purposes of sections 202, 203, 205, 207, 208, and 209 of title 18.
+Except as provided otherwise in this section, Institute Fellows shall not be deemed employees or otherwise in the service or employment of the United States Government. Institute Fellows shall be considered employees for purposes of compensation of injuries under chapter 81 of title 5 and the tort claim provisions of chapter 171 of title 28. In addition, Institute Fellows whoare United States citizens shall be considered Government employees for purposes of sections 202, 203, 205, 207, 208, and 209 of title 18.
 
 #### (e) Admission into United States of alien participants in program
 

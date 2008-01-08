@@ -16,7 +16,7 @@
 
 &emsp;thence (6) north 61 degrees 34 minutes 29 seconds west, and along said northerly line of the New York State Realty and Terminal Company, a distance of 590.08 feet to a point in the aforementioned easterly right-of-way of the New Jersey Shore Line Railroad;
 
-&emsp;thence (7) northerly and along said easterly right-of-way of the New Jersey Shore Line Railroad on a curve to the left a radius of 995.09 feet, an arc length of 170.96 feet to a point therein;
+&emsp;thence (7) northerly and along said easterly right-of-way of the New Jersey Shore LineRailroad on a curve to the left a radius of 995.09 feet, an arc length of 170.96 feet to a point therein;
 
 &emsp;thence (8) northerly, still along the same, on a bearing of north 12 degrees 11 minutes 14 seconds east, a distance of 81.93 feet to the point and place of beginning.
 

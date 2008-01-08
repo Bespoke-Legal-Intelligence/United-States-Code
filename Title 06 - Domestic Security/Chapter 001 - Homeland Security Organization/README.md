@@ -22,13 +22,26 @@
 
 #### SUBCHAPTER II—INFORMATION ANALYSIS AND INFRASTRUCTURE PROTECTION
 
-#### Part A—Directorate for Information Analysis and Infrastructure Protection; Access to Information
+#### Part A—Information and Analysis and Infrastructure Protection; Access to Information
 
 |  |  |
 | :--- | ---: |
-| [121\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Directorate%20for%20Information%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000121%20-%20Directorate%20for%20Information%20Analysis%20and%20Infrastructure%20Protection.md) | Directorate for Information Analysis and Infrastructure Protection. |
-| [122\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Directorate%20for%20Information%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000122%20-%20Access%20to%20information.md) | Access to information. |
-| [123\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Directorate%20for%20Information%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000123%20-%20Terrorist%20travel%20program.md) | Terrorist travel program. |
+| [121\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000121%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection.md) | Information and Analysis and Infrastructure Protection. |
+| [122\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000122%20-%20Access%20to%20information.md) | Access to information. |
+| [123\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000123%20-%20Terrorist%20travel%20program.md) | Terrorist travel program. |
+| [124\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124%20-%20Homeland%20Security%20Advisory%20System.md) | Homeland Security Advisory System. |
+| [124a.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124a%20-%20Homeland%20security%20information%20sharing.md) | Homeland security information sharing. |
+| [124b.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124b%20-%20Comprehensive%20information%20technology%20network%20architecture.md) | Comprehensive information technology network architecture. |
+| [124c.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124c%20-%20Coordination%20with%20information%20sharing%20environment.md) | Coordination with information sharing environment. |
+| [124d.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124d%20-%20Intelligence%20components.md) | Intelligence components. |
+| [124e.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124e%20-%20Training%20for%20employees%20of%20intelligence%20components.md) | Training for employees of intelligence components. |
+| [124f.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124f%20-%20Intelligence%20training%20development%20for%20State%20and%20local%20government%20officials.md) | Intelligence training development for State and local government officials. |
+| [124g.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124g%20-%20Information%20sharing%20incentives.md) | Information sharing incentives. |
+| [124h.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124h%20-%20Department%20of%20Homeland%20Security%20State%2C%20Local%2C%20and%20Regional%20Fusion%20Center%20Initiative.md) | Department of Homeland Security State, Local, and Regional Fusion Center Initiative. |
+| [124i.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124i%20-%20Homeland%20Security%20Information%20Sharing%20Fellows%20Program.md) | Homeland Security Information Sharing Fellows Program. |
+| [124j.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124j%20-%20Rural%20Policing%20Institute.md) | Rural Policing Institute. |
+| [124k.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124k%20-%20Interagency%20Threat%20Assessment%20and%20Coordination%20Group.md) | Interagency Threat Assessment and Coordination Group. |
+| 124<i>l.</i> | National asset database. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -87,6 +100,8 @@
 | [194\.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000194%20-%20Enhancement%20of%20public%20safety%20communications%20interoperability.md) | Enhancement of public safety communications interoperability. |
 | [195\.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195%20-%20Office%20for%20Interoperability%20and%20Compatibility.md) | Office for Interoperability and Compatibility. |
 | [195a.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195a%20-%20Emergency%20communications%20interoperability%20research%20and%20development.md) | Emergency communications interoperability research and development. |
+| [195b.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195b%20-%20National%20Biosurveillance%20Integration%20Center.md) | National Biosurveillance Integration Center. |
+| [195c.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195c%20-%20Promoting%20antiterrorism%20through%20international%20cooperation%20program.md) | Promoting antiterrorism through international cooperation program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -204,6 +219,9 @@
 | [321h.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321h%20-%20Use%20of%20national%20private%20sector%20networks%20in%20emergency%20response.md) | Use of national private sector networks in emergency response. |
 | [321i.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321i%20-%20Use%20of%20commercially%20available%20technology%2C%20goods%2C%20and%20services.md) | Use of commercially available technology, goods, and services. |
 | [321j.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321j%20-%20Procurement%20of%20security%20countermeasures%20for%20Strategic%20National%20Stockpile.md) | Procurement of security countermeasures for Strategic National Stockpile. |
+| [321k.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321k%20-%20Model%20standards%20and%20guidelines%20for%20critical%20infrastructure%20workers.md) | Model standards and guidelines for critical infrastructure workers. |
+| 321<i>l.</i> | Guidance and recommendations. |
+| [321m.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321m%20-%20Voluntary%20private%20sector%20preparedness%20accreditation%20and%20certification%20program.md) | Voluntary private sector preparedness accreditation and certification program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -225,6 +243,7 @@
 | [344\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000344%20-%20Chief%20Human%20Capital%20Officer.md) | Chief Human Capital Officer. |
 | [345\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000345%20-%20Establishment%20of%20Officer%20for%20Civil%20Rights%20and%20Civil%20Liberties.md) | Establishment of Officer for Civil Rights and Civil Liberties. |
 | [346\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000346%20-%20Consolidation%20and%20co-location%20of%20offices.md) | Consolidation and co-location of offices. |
+| [347\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000347%20-%20Quadrennial%20homeland%20security%20review.md) | Quadrennial homeland security review. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -263,6 +282,7 @@
 | [393\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20D%20-%20Acquisitions/%C2%A7%2000393%20-%20Special%20streamlined%20acquisition%20authority.md) | Special streamlined acquisition authority. |
 | [394\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20D%20-%20Acquisitions/%C2%A7%2000394%20-%20Unsolicited%20proposals.md) | Unsolicited proposals. |
 | [395\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20D%20-%20Acquisitions/%C2%A7%2000395%20-%20Prohibition%20on%20contracts%20with%20corporate%20expatriates.md) | Prohibition on contracts with corporate expatriates. |
+| [396\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20D%20-%20Acquisitions/%C2%A7%2000396%20-%20Lead%20system%20integrator%3B%20financial%20interests.md) | Lead system integrator; financial interests. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -350,6 +370,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part J—Secure Handling of Ammonium Nitrate
+
+|  |  |
+| :--- | ---: |
+| [488\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20J%20-%20Secure%20Handling%20of%20Ammonium%20Nitrate/%C2%A7%2000488%20-%20Definitions.md) | Definitions. |
+| [488a.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20J%20-%20Secure%20Handling%20of%20Ammonium%20Nitrate/%C2%A7%2000488a%20-%20Regulation%20of%20the%20sale%20and%20transfer%20of%20ammonium%20nitrate.md) | Regulation of the sale and transfer of ammonium nitrate. |
+| [488b.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20J%20-%20Secure%20Handling%20of%20Ammonium%20Nitrate/%C2%A7%2000488b%20-%20Inspection%20and%20auditing%20of%20records.md) | Inspection and auditing of records. |
+| [488c.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20J%20-%20Secure%20Handling%20of%20Ammonium%20Nitrate/%C2%A7%2000488c%20-%20Administrative%20provisions.md) | Administrative provisions. |
+| [488d.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20J%20-%20Secure%20Handling%20of%20Ammonium%20Nitrate/%C2%A7%2000488d%20-%20Theft%20reporting%20requirement.md) | Theft reporting requirement. |
+| [488e.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20J%20-%20Secure%20Handling%20of%20Ammonium%20Nitrate/%C2%A7%2000488e%20-%20Prohibitions%20and%20penalty.md) | Prohibitions and penalty. |
+| [488f.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20J%20-%20Secure%20Handling%20of%20Ammonium%20Nitrate/%C2%A7%2000488f%20-%20Protection%20from%20civil%20liability.md) | Protection from civil liability. |
+| [488g.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20J%20-%20Secure%20Handling%20of%20Ammonium%20Nitrate/%C2%A7%2000488g%20-%20Preemption%20of%20other%20laws.md) | Preemption of other laws. |
+| [488h.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20J%20-%20Secure%20Handling%20of%20Ammonium%20Nitrate/%C2%A7%2000488h%20-%20Deadlines%20for%20regulations.md) | Deadlines for regulations. |
+| [488i.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20J%20-%20Secure%20Handling%20of%20Ammonium%20Nitrate/%C2%A7%2000488i%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER IX—NATIONAL HOMELAND SECURITY COUNCIL
 
 |  |  |
@@ -433,6 +470,8 @@
 | [576\.](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/%C2%A7%2000576%20-%20Emergency%20Communications%20Preparedness%20Center.md) | Emergency Communications Preparedness Center. |
 | [577\.](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/%C2%A7%2000577%20-%20Urban%20and%20other%20high%20risk%20area%20communications%20capabilities.md) | Urban and other high risk area communications capabilities. |
 | [578\.](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/%C2%A7%2000578%20-%20Definition.md) | Definition. |
+| [579\.](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/%C2%A7%2000579%20-%20Interoperable%20Emergency%20Communications%20Grant%20Program.md) | Interoperable Emergency Communications Grant Program. |
+| [580\.](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/%C2%A7%2000580%20-%20Border%20interoperability%20demonstration%20project.md) | Border interoperability demonstration project. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -447,6 +486,38 @@
 | [594\.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000594%20-%20Testing%20authority.md) | Testing authority. |
 | [595\.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000595%20-%20Relationship%20to%20other%20Department%20entities%20and%20Federal%20agencies.md) | Relationship to other Department entities and Federal agencies. |
 | [596\.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000596%20-%20Contracting%20and%20grant%20making%20authorities.md) | Contracting and grant making authorities. |
+| [596a.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000596a%20-%20Joint%20annual%20interagency%20review%20of%20global%20nuclear%20detection%20architecture.md) | Joint annual interagency review of global nuclear detection architecture. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XV—HOMELAND SECURITY GRANTS
+
+|  |  |
+| :--- | ---: |
+| [601\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/%C2%A7%2000601%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part A—Grants to States and High-Risk Urban Areas
+
+|  |  |
+| :--- | ---: |
+| [603\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20A%20-%20Grants%20to%20States%20and%20High-Risk%20Urban%20Areas/%C2%A7%2000603%20-%20Homeland%20security%20grant%20programs.md) | Homeland security grant programs. |
+| [604\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20A%20-%20Grants%20to%20States%20and%20High-Risk%20Urban%20Areas/%C2%A7%2000604%20-%20Urban%20Area%20Security%20Initiative.md) | Urban Area Security Initiative. |
+| [605\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20A%20-%20Grants%20to%20States%20and%20High-Risk%20Urban%20Areas/%C2%A7%2000605%20-%20State%20Homeland%20Security%20Grant%20Program.md) | State Homeland Security Grant Program. |
+| [606\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20A%20-%20Grants%20to%20States%20and%20High-Risk%20Urban%20Areas/%C2%A7%2000606%20-%20Grants%20to%20directly%20eligible%20tribes.md) | Grants to directly eligible tribes. |
+| [607\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20A%20-%20Grants%20to%20States%20and%20High-Risk%20Urban%20Areas/%C2%A7%2000607%20-%20Terrorism%20prevention.md) | Terrorism prevention. |
+| [608\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20A%20-%20Grants%20to%20States%20and%20High-Risk%20Urban%20Areas/%C2%A7%2000608%20-%20Prioritization.md) | Prioritization. |
+| [609\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20A%20-%20Grants%20to%20States%20and%20High-Risk%20Urban%20Areas/%C2%A7%2000609%20-%20Use%20of%20funds.md) | Use of funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Grants Administration
+
+|  |  |
+| :--- | ---: |
+| [611\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20B%20-%20Grants%20Administration/%C2%A7%2000611%20-%20Administration%20and%20coordination.md) | Administration and coordination. |
+| [612\.](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/Part%20B%20-%20Grants%20Administration/%C2%A7%2000612%20-%20Accountability.md) | Accountability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -472,3 +543,4 @@
 - [Subchapter 012 (XII) - Transition](Subchapter%20012%20%28XII%29%20-%20Transition/README.md)
 - [Subchapter 013 (XIII) - Emergency Communications](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/README.md)
 - [Subchapter 014 (XIV) - Domestic Nuclear Detection Office](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/README.md)
+- [Subchapter 015 (XV) - Homeland Security Grants](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/README.md)

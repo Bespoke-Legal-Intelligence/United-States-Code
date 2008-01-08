@@ -44,5 +44,5 @@ Display of Information.—The report shall specify the information required by s
 
 #### First Report
 
-Pub. L. 105–85, div. A, title III, §324(b), Nov. 18, 1997, 111 Stat. 1677, directed the Under Secretary of Defense\(Comptroller) to submit the first report required under this section not later than Jan. 30, 1998.
+Pub. L. 105–85, div. A, title III, §324(b), Nov. 18, 1997, 111 Stat. 1677, directed the Under Secretary of Defense (Comptroller) to submit the first report required under this section not later than Jan. 30, 1998.
 

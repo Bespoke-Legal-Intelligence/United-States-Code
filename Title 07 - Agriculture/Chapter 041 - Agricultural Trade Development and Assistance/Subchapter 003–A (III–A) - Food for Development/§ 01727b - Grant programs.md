@@ -2,7 +2,7 @@
 
 To carry out the policies and accomplish the objectives described in section 1691 of this title, the Administrator may negotiate and execute agreements with least developed countries to provide commodities to such countries on a grant basis either through the Commodity Credit Corporation or through private trade channels.
 
-(July 10, 1954, ch. 469, title III, §303, as added Pub. L. 95–88, title II, §211(a)(2), Aug. 3, 1977, 91Stat. 550; amended Pub. L. 96–53, title II, §204(c), Aug. 14, 1979, 93 Stat. 369; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3642.)
+(July 10, 1954, ch. 469, title III, §303, as added Pub. L. 95–88, title II, §211(a)(2), Aug. 3, 1977, 91 Stat. 550; amended Pub. L. 96–53, title II, §204(c), Aug. 14, 1979, 93 Stat. 369; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3642.)
 
 #### Prior Provisions
 

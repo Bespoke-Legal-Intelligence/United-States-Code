@@ -8,7 +8,7 @@ The Secretary shall—
 
 &emsp;(3) collect data and information on applicable programs for the purpose of obtaining objective measurements of the effectiveness of such programs in achieving the intended purposes of such programs.
 
-(Pub. L. 90–247, title IV, §431, formerly §412, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 166; renumbered §422 and amended Pub. L. 92–318, title III, §301(a)(1), (b)(2)(B), June 23, 1972, 86 Stat. 326, 332; Pub. L. 94–482, title IV, §409(b), Oct. 12, 1976, 90 Stat. 2233; renumbered §431, renumbered §422, and amended Pub. L.103–382, title II, §§212(b)(1), 242, Oct. 20, 1994, 108 Stat. 3913, 3922; renumbered §431, Pub. L. 107–110, title X, §1062(1), Jan. 8, 2002, 115 Stat. 2087.)
+(Pub. L. 90–247, title IV, §431, formerly §412, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 166; renumbered §422 and amended Pub. L. 92–318, title III, §301(a)(1), (b)(2)(B), June 23, 1972, 86 Stat. 326, 332; Pub. L. 94–482, title IV, §409(b), Oct. 12, 1976, 90 Stat. 2233; renumbered §431, renumbered §422, and amended Pub. L. 103–382, title II, §§212(b)(1), 242, Oct. 20, 1994, 108 Stat. 3913, 3922; renumbered §431, Pub. L. 107–110, title X, §1062(1), Jan. 8, 2002, 115 Stat. 2087.)
 
 #### Prior Provisions
 

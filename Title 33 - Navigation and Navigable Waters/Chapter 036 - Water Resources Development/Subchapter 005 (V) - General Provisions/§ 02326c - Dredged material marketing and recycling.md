@@ -12,7 +12,7 @@
 
 #### (3) Regional responsibility
 
-&emsp;The program described in paragraph (1) may authorize each of the 8 division offices of the Corps of Engineers to market to public agencies and private entities any dredged material from projects under the jurisdiction of the regional office. Any revenues generated from any sale of dredged material to such entities shall be deposited in the United States Treasury.
+&emsp;The program described in paragraph (1) may authorize each of the 8 division offices of the Corps of Engineers to market to public agencies and private entities any dredged material from projects under the jurisdiction of the regional office. Any revenues generated from any sale of dredged material to such entitiesshall be deposited in the United States Treasury.
 
 #### (4) Reports
 

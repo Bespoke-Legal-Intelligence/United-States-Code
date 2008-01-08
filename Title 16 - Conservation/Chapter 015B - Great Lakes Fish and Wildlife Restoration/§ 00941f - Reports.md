@@ -52,3 +52,7 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2008, which enacted this section.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

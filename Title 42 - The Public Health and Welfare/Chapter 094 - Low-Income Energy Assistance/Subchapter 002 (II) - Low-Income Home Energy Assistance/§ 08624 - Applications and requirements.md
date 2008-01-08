@@ -62,7 +62,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;(C) assure that the home energy supplier will provide assurances that any agreement entered into with a home energy supplier under this paragraph will contain provisions to assure that no household receiving assistance under this subchapter will be treated adversely because of such assistance under applicable provisions of State law or public regulatory requirements; and
 
-&emsp;&emsp;(D) ensure that the provision of vendored payments remains at the option of the State in consultation with local grantees and may be contingent on unregulated vendors taking appropriate measures to alleviate the energy burdens of eligible households, including providing for agreements between suppliers and individuals eligible for benefits under this subchapter <sup>1</sup> that seek to reduce home energy costs, minimize the risks of home energy crisis, and encourage regular payments by individuals receiving financial assistance for home energy costs;
+&emsp;&emsp;(D) ensure that the provision of vendored payments remains at the option of the State in consultation with local grantees and may be contingent on unregulated vendors taking appropriate measures to alleviate the energy burdens of eligible households, includingproviding for agreements between suppliers and individuals eligible for benefits under this subchapter <sup>1</sup> that seek to reduce home energy costs, minimize the risks of home energy crisis, and encourage regular payments by individuals receiving financial assistance for home energy costs;
 
 &emsp;(8) provide assurances that (A) the State will not exclude households described in clause (2)(B) of this subsection from receiving home energy assistance benefits under clause (2), and (B) the State will treat owners and renters equitably under the program assisted under this subchapter;
 
@@ -102,7 +102,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 &emsp;(D) describes weatherization and other energy-related home repair the State will provide under subsection (k) of this section, including any steps the State will take to address the weatherization and energy-related home repair needs of households that have high home energy burdens, and describes any rules promulgated by the Department of Energy for administration of its Low Income Weatherization Assistance Program which the State, to the extent permitted by the Secretary to increase consistency between federally assisted programs, will follow regarding the use of funds provided under this subchapter by the State for such weatherization and energy-related home repairs and improvements;
 
-&emsp;(E) describes any steps that will be taken (in addition to those necessary to carry out the assurance contained in paragraph (5) of subsection (b) of this section) to target assistance to households with high home energy burdens;
+&emsp;(E) describes any steps that will be taken (in addition to those necessary to carry out theassurance contained in paragraph (5) of subsection (b) of this section) to target assistance to households with high home energy burdens;
 
 &emsp;(F) describes how the State will carry out assurances in clauses (3), (4), (5), (6), (7), (8), (10), (12), (13), and (15) of subsection (b) of this section;
 
@@ -160,7 +160,7 @@ A household which is described in subsection (b)(2)(A) of this section solely by
 
 #### (j) State verification of income eligibility; policies and procedures applicable
 
-In verifying income eligibility for purposes of subsection (b)(2)(B) of this section, the State may apply procedures and policies consistent with procedures and policies used by the State agency administering programs under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\], under subtitle B of title VI of this Act (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\], under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981, or under other income assistance or service programs (as determined by the State).
+In verifying income eligibility for purposes of subsection (b)(2)(B) of this section, the State may apply procedures and policies consistent with procedures and policies used by the State agency administering programs under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\], under subtitle B of title VI of this Act (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\], under any other provision of law which carries out programs which were administered underthe Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981, or under other income assistance or service programs (as determined by the State).
 
 #### (k) Limitation on use of funds; waiver
 

@@ -16,7 +16,7 @@ Effective for fiscal year 2007 and subsequent fiscal years, if a grant award mad
 
 #### (1) In general
 
-&emsp;Effective for fiscal year 2007 and subsequent fiscal years, if a grant award made to a State for a fiscal year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(G)(i) <sup>3</sup> of this titlehas an unobligated balance as of the end of the grant year for the award, the Secretary shall cancel that unobligated balance of the award, and shall require the State to return any amounts from such balance that have been disbursed to the State, unless—
+&emsp;Effective for fiscal year 2007 and subsequent fiscal years, if a grant award made to a State for a fiscal year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(G)(i) <sup>3</sup> of this title has an unobligated balance as of the end of the grant year for the award, the Secretary shall cancel that unobligated balance of the award, and shall require the State to return any amounts from such balance that have been disbursed to the State, unless—
 
 &emsp;&emsp;(A) before the end of the grant year, the State submits to the Secretary a written application for a waiver of the cancellation, which application includes a description of the purposes for which the State intends to expend the funds involved; and
 

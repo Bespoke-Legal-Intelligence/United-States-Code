@@ -142,7 +142,7 @@ In collaboration with State educational agencies, local educational agencies, an
 
 #### (B) Receipt and acceptance
 
-&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out thissubsection the funds transferred under subparagraph (A), without further appropriation.
+&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.
 
 #### (C) Availability of funds
 
@@ -170,7 +170,7 @@ Subsec. (e)(1). Pub. L. 108–265, §125(c)(1), substituted “2009” for “20
 
 Subsec. (e)(2)(A). Pub. L. 108–447 inserted “and” after “2005”.
 
-Pub. L. 108–265, §125(c)(2), substituted “provide to the Secretary” for “provide to the Secretary $147,000 for fiscal year 1995, $2,000,000 for each of fiscal years 1996 through 1998, and” and “2004 and $4,000,000 for fiscal year 2005” for “1999 and”.
+Pub. L. 108–265, §125(c)(2), substituted “provide to the Secretary” for “provide to the Secretary $147,000 forfiscal year 1995, $2,000,000 for each of fiscal years 1996 through 1998, and” and “2004 and $4,000,000 for fiscal year 2005” for “1999 and”.
 
 Subsecs. (f), (g). Pub. L. 108–265, §126(a), added subsecs. (f) and (g).
 

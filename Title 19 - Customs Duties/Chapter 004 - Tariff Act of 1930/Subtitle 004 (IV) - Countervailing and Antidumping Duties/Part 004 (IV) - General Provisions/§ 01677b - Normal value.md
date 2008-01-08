@@ -8,7 +8,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (A) In general
 
-&emsp;&emsp;The normal value of the subject merchandise shall be the price described in subparagraph (B), at a time reasonably corresponding to the time of the sale used to determinethe export price or constructed export price under section 1677a(a) or (b) of this title.
+&emsp;&emsp;The normal value of the subject merchandise shall be the price described in subparagraph (B), at a time reasonably corresponding to the time of the sale used to determine the export price or constructed export price under section 1677a(a) or (b) of this title.
 
 #### (B) Price
 
@@ -38,7 +38,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (2) Fictitious markets
 
-&emsp;No pretended sale or offer for sale, and no sale or offer for sale intended to establish a fictitious market, shall be taken into account in determining normal value. The occurrence of different movements in the prices at which different forms of the foreign like product are sold (or, in the absence of sales, offered for sale) in the exporting country after the issuance of an antidumping duty order may be considered by the administering authority as evidence of the establishment of a fictitious market for the foreign like product if the movement in such prices appears to reduce the amount by which the normal value exceeds the export price (or the constructed export price) of the subject merchandise.
+&emsp;No pretended sale or offer for sale, and no sale or offer for sale intended to establish a fictitious market, shall be taken into account in determining normal value. The occurrence of different movements in the prices at which different forms of the foreign like product are sold (or, in the absence of sales, offered for sale) in the exporting country after the issuance of an antidumping duty order may beconsidered by the administering authority as evidence of the establishment of a fictitious market for the foreign like product if the movement in such prices appears to reduce the amount by which the normal value exceeds the export price (or the constructed export price) of the subject merchandise.
 
 #### (3) Exportation from an intermediate country
 
@@ -72,7 +72,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;&emsp;(ii) the amount, if any, included in the price described in paragraph (1)(B), attributable to any additional costs, charges, and expenses incident to bringing the foreign like product from the original place of shipment to the place of delivery to the purchaser, and
 
-&emsp;&emsp;&emsp;(iii) the amount of any taxes imposed directly upon the foreign like product or components thereof which have been rebated, or which have not been collected, onthe subject merchandise, but only to the extent that such taxes are added to or included in the price of the foreign like product, and
+&emsp;&emsp;&emsp;(iii) the amount of any taxes imposed directly upon the foreign like product or components thereof which have been rebated, or which have not been collected, on the subject merchandise, but only to the extent that such taxes are added to or included in the price of the foreign like product, and
 
 &emsp;&emsp;(C) increased or decreased by the amount of any difference (or lack thereof) between the export price or constructed export price and the price described in paragraph (1)(B) (other than a difference for which allowance is otherwise provided under this section) that is established to the satisfaction of the administering authority to be wholly or partly due to—
 
@@ -136,7 +136,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;&emsp;(i) the volume of such sales represents 20 percent or more of the volume of sales under consideration for the determination of normal value, or
 
-&emsp;&emsp;&emsp;(ii) the weighted average per unit price of the sales under consideration for the determination of normal value is less thanthe weighted average per unit cost of production for such sales.
+&emsp;&emsp;&emsp;(ii) the weighted average per unit price of the sales under consideration for the determination of normal value is less than the weighted average per unit cost of production for such sales.
 
 #### (D) Recovery of costs
 
@@ -206,7 +206,7 @@ Whenever, in the course of an investigation under this subtitle, the administeri
 
 &emsp;(3) the normal value of the foreign like product produced in one or more of the facilities outside the exporting country is higher than the normal value of the foreign like product produced in the facilities located in the exporting country,
 
-> it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product produced in facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country, if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authorityshall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) of this section for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
+> it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product produced in facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country, if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authority shall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) of this section for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
 
 #### (e) Constructed value
 
@@ -226,7 +226,7 @@ For purposes of this subtitle, the constructed value of imported merchandise sha
 
 &emsp;(3) the cost of all containers and coverings of whatever nature, and all other expenses incidental to placing the subject merchandise in condition packed ready for shipment to the United States.
 
-> For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.
+> For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposedon such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.
 
 #### (f) Special rules for calculation of cost of production and for calculation of constructed value
 

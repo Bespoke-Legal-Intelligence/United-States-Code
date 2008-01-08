@@ -96,5 +96,3 @@ In subsection (f), the word “shall” is substituted for the words “is furth
 
 2006—Subsecs. (a), (c)(4). Pub. L. 109–163 struck out “Territories,” before “Commonwealths, possessions,”.
 
-§9774
-

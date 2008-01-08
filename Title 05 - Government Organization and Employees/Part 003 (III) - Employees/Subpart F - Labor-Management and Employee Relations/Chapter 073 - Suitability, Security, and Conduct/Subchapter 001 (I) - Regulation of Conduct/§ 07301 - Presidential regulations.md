@@ -138,7 +138,7 @@ Pub. L. 100–71, title V, §503, July 11, 1987, 101 Stat. 468, as amended by Pu
 
 > except that such term does not include the Department of Transportation or any other entity (or component thereof) covered by subsection (b).
 
-“(3) Notwithstanding any provision of chapter 5 of title 5, United States Code, the mandatory guidelines to be published pursuant to subsection (a)(1)(A)(ii) shall be published and made effective exclusively according to the provisions of this paragraph. Notice of the mandatory guidelines proposed by the Secretary of Healthand Human Services shall be published in the Federal Register, and interested persons shall be given not less than 60 days to submit written comments on the proposed mandatory guidelines. Following review and consideration of written comments, final mandatory guidelines shall be published in the Federal Register and shall become effective upon publication.
+“(3) Notwithstanding any provision of chapter 5 of title 5, United States Code, the mandatory guidelines to be published pursuant to subsection (a)(1)(A)(ii) shall be published and made effective exclusively according to the provisions of this paragraph. Notice of the mandatory guidelines proposed by the Secretary of Health and Human Services shall be published in the Federal Register, and interested persons shall be given not less than 60 days to submit written comments on the proposed mandatory guidelines. Following review and consideration of written comments, final mandatory guidelines shall be published in the Federal Register and shall become effective upon publication.
 
 “(b)(1) Nothing in subsection (a) shall limit or otherwise affect the availability of funds for drug testing by—
 
@@ -226,7 +226,7 @@ Federal employees who use illegal drugs, on or off duty, tend to be less product
 
 The use of illegal drugs, on or off duty, by Federal employees impairs the efficiency of Federal departments and agencies, undermines public confidence in them, and makes it more difficult for other employees who do not use illegal drugs to perform their jobs effectively. The use of illegal drugs, on or off duty, by Federal employees also can pose a serious health and safety threat to members of the public and to other Federal employees;
 
-The use of illegal drugs, on or off duty, by Federal employees in certain positions evidences less than the complete reliability, stability, and good judgment that is consistent with access to sensitive information and creates the possibility of coercion, influence, and irresponsible action under pressure that may pose a serious risk to national security, the public safety, and the effective enforcement of the law; and
+The use of illegal drugs, on or off duty, by Federal employees in certain positions evidences less than the complete reliability, stability, and good judgment thatis consistent with access to sensitive information and creates the possibility of coercion, influence, and irresponsible action under pressure that may pose a serious risk to national security, the public safety, and the effective enforcement of the law; and
 
 Federal employees who use illegal drugs must themselves be primarily responsible for changing their behavior and, if necessary, begin the process of rehabilitating themselves.
 
@@ -440,7 +440,7 @@ Sec. 501. <i>Revocations</i>. The following Executive orders are hereby revoked:
 
 Sec. 502. <i>Savings Provision.</i>
 
-(a) All actions already taken by the President or by his delegates concerning matters affected by this order and in force when this order is issued, including any regulations issued under Executive Order 11222, Executive Order 12565, or statutory authority, shall, except as they are irreconcilable with the provisions of this order or terminate by operation of law or by Presidential action, remain in effect until properly amended, modified, or revoked pursuant to the authority conferred by this order or any regulations promulgated under this order. Notwithstanding anything in section 102 of this order, employees may carry out preexisting contractual obligations entered into before April 12, 1989.
+(a) All actions already taken by the President or by his delegates concerning matters affected by this order and in force when this order is issued, including any regulations issued under Executive Order 11222, Executive Order 12565, or statutory authority, shall, except as they are irreconcilable with the provisions of this order or terminate by operation of law or by Presidential action, remain in effect until properly amended, modified, or revoked pursuant to the authority conferred bythis order or any regulations promulgated under this order. Notwithstanding anything in section 102 of this order, employees may carry out preexisting contractual obligations entered into before April 12, 1989.
 
 (b) Financial reports filed in confidence (pursuant to the authority of Executive Order No. 11222, 5 C.F.R. Part 735, and individual agency regulations) shall continue to be held in confidence.
 

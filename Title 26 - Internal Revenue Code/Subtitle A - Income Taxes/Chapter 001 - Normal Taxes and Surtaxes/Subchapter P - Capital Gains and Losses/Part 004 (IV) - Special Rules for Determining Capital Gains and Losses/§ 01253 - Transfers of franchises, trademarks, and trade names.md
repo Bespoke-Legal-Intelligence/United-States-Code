@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (2) Significant power, right, or continuing interest
 
-&emsp;The term “significant power, right, or continuing interest” includes, but is not limitedto, the following rights with respect to the interest transferred:
+&emsp;The term “significant power, right, or continuing interest” includes, but is not limited to, the following rights with respect to the interest transferred:
 
 &emsp;&emsp;(A) A right to disapprove any assignment of such interest, or any part thereof.
 
@@ -78,7 +78,7 @@ Amounts received or accrued on account of a transfer, sale, or other disposition
 
 1989—Subsec. (d)(1). Pub. L. 101–239, §7622(a), substituted “serial payments” for “payments” in heading and amended text generally. Prior to amendment, text read as follows: “Amounts paid or incurred during the taxable year on account of a transfer, sale, or other disposition of a franchise, trademark, or trade name which are contingent on the productivity, use, or disposition of the franchise, trademark, or trade name transferred shall be allowed as a deduction under section 162(a) (relating to trade or business expenses).”
 
-Subsec. (d)(2). Pub. L. 101–239, §7622(b), designated existing provisions as subpar. (A), inserted subpar. heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and former cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II), respectively, of cl. (ii), and added subpar. (B).
+Subsec. (d)(2). Pub. L. 101–239, §7622(b), designated existing provisions as subpar. (A), inserted subpar. heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and former cls. (i) and (ii) of formersubpar. (B) as subcls. (I) and (II), respectively, of cl. (ii), and added subpar. (B).
 
 Subsec. (d)(3) to (5). Pub. L. 101–239, §7622(c), added pars. (3) to (5).
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 108–357 applicable to property acquired after Oct. 22, 20
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with respect to property acquired after Aug. 10, 1993, see section 13261(g) of Pub. L. 103–66,set out as an Effective Date note under section 197 of this title.
+Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with respect to property acquired after Aug. 10, 1993, see section 13261(g) of Pub. L. 103–66, set out as an Effective Date note under section 197 of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -44,7 +44,7 @@
 
 #### (c) Statements to be furnished to persons with respect to whom information is required
 
-Every person required to make a return under subsection (a) shall furnish to each person whosename is required to be set forth in such return a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
@@ -108,7 +108,7 @@ Section 19(h) of Pub. L. 87–834, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 “(1)
 
-Dividends and interest.—The amendments made by this section \[enacting sections 6049 and 6678 of this title and amending this section and sections 6041, 6044, and 6052 of this title\] shall apply to payments of dividends and interest made on or after January 1, 1963.
+Dividends and interest.—The amendments made by this section \[enacting sections 6049 and 6678 ofthis title and amending this section and sections 6041, 6044, and 6052 of this title\] shall apply to payments of dividends and interest made on or after January 1, 1963.
 
 “(2)
 

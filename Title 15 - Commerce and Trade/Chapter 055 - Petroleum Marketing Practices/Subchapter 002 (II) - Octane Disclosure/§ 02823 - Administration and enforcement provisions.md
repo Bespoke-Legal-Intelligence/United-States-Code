@@ -50,13 +50,13 @@ The Federal Trade Commission shall have procedural, investigative, and enforceme
 
 (1) Except as provided in paragraph (2), rules under this subchapter shall be prescribed in accordance with section 553 of title 5, except that interested persons shall be afforded an opportunity to present written and oral data, views, and arguments with respect to any proposed rule.
 
-(2) Rules prescribed under subsection (c)(3) of this section and section 2822(d) of this title shallbe prescribed on the record after opportunity for an agency hearing.
+(2) Rules prescribed under subsection (c)(3) of this section and section 2822(d) of this title shall be prescribed on the record after opportunity for an agency hearing.
 
 (3) Section 18 of the Federal Trade Commission Act (15 U.S.C. 57a) shall not apply with respect to any rule prescribed under this subchapter.
 
 #### (e) Acts or practices constituting violations
 
-It shall be an unfair or deceptive act or practice in or affecting commerce (within the meaning of section 5(a)(1) of the Federal Trade Commission Act \[15 U.S.C. 45(a)(1)\]) for any person to violate subsection (a), (b), (c), or (e) of section 2822 of this title, or a rule prescribed under subsection (d) of section 2822 of this title. For purposes of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] (including any remedy or penalty applicable to any violation thereof) such a violation shall be treated as a violation of a rule under such Act respecting unfair or deceptive acts or practices.
+It shall be an unfair or deceptive act or practice in or affecting commerce (within the meaning of section 5(a)(1) of the Federal Trade Commission Act \[15 U.S.C. 45(a)(1)\]) for any person to violate subsection (a), (b), (c), or (e) of section 2822 of this title, or a rule prescribed under subsection (d) of section 2822 of this title. For purposes of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] (including any remedy or penalty applicable to any violation thereof) such a violation shall be treated as a violation of a ruleunder such Act respecting unfair or deceptive acts or practices.
 
 (Pub. L. 95–297, title II, §203, June 19, 1978, 92 Stat. 335; Pub. L. 102–486, title XV, §§1501(c)(3), 1502(b), (c), Oct. 24, 1992, 106 Stat. 2997, 2998.)
 

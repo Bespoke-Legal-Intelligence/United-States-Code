@@ -22,7 +22,7 @@ In accepting such services of individuals as volunteers, the Secretary—
 
 &emsp;(1) shall not permit the use of volunteers in hazardous duty or law enforcement work, or in policymaking processes or to displace any employee; and
 
-&emsp;(2) may provide for services or costs incidental to the utilization of volunteers, includingtransportation, supplies, lodging, subsistence, recruiting, training, and supervision.
+&emsp;(2) may provide for services or costs incidental to the utilization of volunteers, including transportation, supplies, lodging, subsistence, recruiting, training, and supervision.
 
 #### (f) Federal employment status of volunteers
 

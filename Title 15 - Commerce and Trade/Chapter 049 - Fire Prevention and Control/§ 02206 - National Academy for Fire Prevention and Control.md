@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Director shall establish, at the earliest practicable date, a National Academy for Fire Prevention and Control. The purpose of the Academy shall be to advance the professional development of fire service personnel and of other persons engaged in fire prevention and control activities.
+The Director shall establish, at the earliest practicable date, a National Academy for FirePrevention and Control. The purpose of the Academy shall be to advance the professional development of fire service personnel and of other persons engaged in fire prevention and control activities.
 
 #### (b) Superintendent
 
@@ -110,7 +110,7 @@ The Administrator is authorized to—
 
 #### (j) Board of Visitors
 
-Upon establishment of the Academy, the Director shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Director shall select eight such persons to serve as members of such Board of Visitors to serve such terms as the Director may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Director regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in theperformance of his duties as a member of such Board.
+Upon establishment of the Academy, the Director shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Director shall select eight such persons to serve as members of such Board of Visitors to serve such terms as the Director may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Director regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
 
 #### (k) Accreditation
 
@@ -136,7 +136,7 @@ Subsec. (<i>l</i>). Pub. L. 108–169, §204(d), inserted at end “The Superint
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

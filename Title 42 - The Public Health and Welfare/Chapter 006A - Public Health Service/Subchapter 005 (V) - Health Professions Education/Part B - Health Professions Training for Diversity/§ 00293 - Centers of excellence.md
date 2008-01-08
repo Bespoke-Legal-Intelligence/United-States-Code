@@ -50,7 +50,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;&emsp;(ii) has been effective in assisting under-represented minority students of the school to complete the program of education and receive the degree involved;
 
-&emsp;&emsp;&emsp;(iii) has been effective in recruiting under-represented minority individuals to enroll in and graduate from the school, including providing scholarships and other financial assistance to such individuals and encouraging under-represented minority students from all levels of the educational pipeline to pursue health professions careers; and
+&emsp;&emsp;&emsp;(iii) has been effective in recruiting under-represented minority individuals toenroll in and graduate from the school, including providing scholarships and other financial assistance to such individuals and encouraging under-represented minority students from all levels of the educational pipeline to pursue health professions careers; and
 
 &emsp;&emsp;&emsp;(iv) has made significant recruitment efforts to increase the number of under-represented minority individuals serving in faculty or administrative positions at the school.
 
@@ -114,7 +114,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;&emsp;(i) the school will establish an arrangement with 1 or more public or nonprofit private institutions of higher education, including schools of nursing, whose enrollment of students has traditionally included a significant number of Native Americans, the purpose of which arrangement will be to carry out a program—
 
-&emsp;&emsp;&emsp;&emsp;(I) to identify Native American students, from the institutions of higher education referred to in clause (i), who are interested in health professions careers; and
+&emsp;&emsp;&emsp;&emsp;(I) to identify Native American students, from the institutions of higher education referred to in clause (i), whoare interested in health professions careers; and
 
 &emsp;&emsp;&emsp;&emsp;(II) to facilitate the educational preparation of such students to enter the designated health professions school; and
 
@@ -248,7 +248,7 @@ A prior section 736 of act July 1, 1944, was classified to section 294i of this 
 
 #### Savings Provision
 
-Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that: “In the case of any authority formaking awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§101–110) of title I of Pub. L. 105–392, see Tables for classification\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
+Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that: “In the case of any authority for making awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§101–110) of title I of Pub. L. 105–392, see Tables for classification\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

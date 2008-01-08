@@ -50,7 +50,7 @@
 
 2003—Subsec. (a)(1)(E), (2)(E). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
-2002—Subsec. (b). Pub. L. 107–306, §322(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec.\(b) which read as follows: “Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.”
+2002—Subsec. (b). Pub. L. 107–306, §322(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.”
 
 Subsec. (b)(2). Pub. L. 107–306, §322(b)(1), substituted “under this subsection” for “under this section” in introductory provisions.
 

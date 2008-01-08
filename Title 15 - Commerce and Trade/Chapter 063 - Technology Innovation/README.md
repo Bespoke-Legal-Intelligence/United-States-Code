@@ -5,7 +5,7 @@
 | [3701\.](%C2%A7%2003701%20-%20Findings.md) | Findings. |
 | [3702\.](%C2%A7%2003702%20-%20Purpose.md) | Purpose. |
 | [3703\.](%C2%A7%2003703%20-%20Definitions.md) | Definitions. |
-| [3704\.](%C2%A7%2003704%20-%20Commerce%20and%20technological%20innovation.md) | Commerce and technological innovation. |
+| [3704\.](%C2%A7%2003704%20-%20Experimental%20program%20to%20stimulate%20competitive%20technology.md) | Experimental program to stimulate competitive technology. |
 | [3704a.](%C2%A7%2003704a%20-%20Clearinghouse%20for%20State%20and%20Local%20Initiatives%20on%20Productivity%2C%20Technology%2C%20and%20Innovation.md) | Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation. |
 | [3704b.](%C2%A7%2003704b%20-%20National%20Technical%20Information%20Service.md) | National Technical Information Service. |
 | 3704b–1. | Recovery of operating costs through fee collections. |
@@ -20,7 +20,7 @@
 | [3710b.](%C2%A7%2003710b%20-%20Rewards%20for%20scientific%2C%20engineering%2C%20and%20technical%20personnel%20of%20Federal%20agencies.md) | Rewards for scientific, engineering, and technical personnel of Federal agencies. |
 | [3710c.](%C2%A7%2003710c%20-%20Distribution%20of%20royalties%20received%20by%20Federal%20agencies.md) | Distribution of royalties received by Federal agencies. |
 | [3710d.](%C2%A7%2003710d%20-%20Employee%20activities.md) | Employee activities. |
-| [3711\.](%C2%A7%2003711%20-%20National%20Technology%20Medal.md) | National Technology Medal. |
+| [3711\.](%C2%A7%2003711%20-%20National%20Technology%20and%20Innovation%20Medal.md) | National Technology and Innovation Medal. |
 | [3711a.](%C2%A7%2003711a%20-%20Malcolm%20Baldrige%20National%20Quality%20Award.md) | Malcolm Baldrige National Quality Award. |
 | [3711b.](%C2%A7%2003711b%20-%20Conference%20on%20advanced%20automotive%20technologies.md) | Conference on advanced automotive technologies. |
 | [3711c.](%C2%A7%2003711c%20-%20Advanced%20motor%20vehicle%20research%20award.md) | Advanced motor vehicle research award. |
@@ -30,6 +30,7 @@
 | [3715\.](%C2%A7%2003715%20-%20Use%20of%20partnership%20intermediaries.md) | Use of partnership intermediaries. |
 | [3716\.](%C2%A7%2003716%20-%20Critical%20industries.md) | Critical industries. |
 | [3717\.](%C2%A7%2003717%20-%20National%20Quality%20Council.md) | National Quality Council. |
+| [3718\.](%C2%A7%2003718%20-%20President%27s%20Council%20on%20Innovation%20and%20Competitiveness.md) | President's Council on Innovation and Competitiveness. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -41,7 +42,7 @@
 - [&sect; 03701 - Findings](%C2%A7%2003701%20-%20Findings.md)
 - [&sect; 03702 - Purpose](%C2%A7%2003702%20-%20Purpose.md)
 - [&sect; 03703 - Definitions](%C2%A7%2003703%20-%20Definitions.md)
-- [&sect; 03704 - Commerce and technological innovation](%C2%A7%2003704%20-%20Commerce%20and%20technological%20innovation.md)
+- [&sect; 03704 - Experimental program to stimulate competitive technology](%C2%A7%2003704%20-%20Experimental%20program%20to%20stimulate%20competitive%20technology.md)
 - [&sect; 03704a - Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation](%C2%A7%2003704a%20-%20Clearinghouse%20for%20State%20and%20Local%20Initiatives%20on%20Productivity%2C%20Technology%2C%20and%20Innovation.md)
 - [&sect; 03704b - National Technical Information Service](%C2%A7%2003704b%20-%20National%20Technical%20Information%20Service.md)
 - [&sect; 03704b&#8211;1 - Recovery of operating costs through fee collections](%C2%A7%2003704b%E2%80%931%20-%20Recovery%20of%20operating%20costs%20through%20fee%20collections.md)
@@ -56,7 +57,7 @@
 - [&sect; 03710b - Rewards for scientific, engineering, and technical personnel of Federal agencies](%C2%A7%2003710b%20-%20Rewards%20for%20scientific%2C%20engineering%2C%20and%20technical%20personnel%20of%20Federal%20agencies.md)
 - [&sect; 03710c - Distribution of royalties received by Federal agencies](%C2%A7%2003710c%20-%20Distribution%20of%20royalties%20received%20by%20Federal%20agencies.md)
 - [&sect; 03710d - Employee activities](%C2%A7%2003710d%20-%20Employee%20activities.md)
-- [&sect; 03711 - National Technology Medal](%C2%A7%2003711%20-%20National%20Technology%20Medal.md)
+- [&sect; 03711 - National Technology and Innovation Medal](%C2%A7%2003711%20-%20National%20Technology%20and%20Innovation%20Medal.md)
 - [&sect; 03711a - Malcolm Baldrige National Quality Award](%C2%A7%2003711a%20-%20Malcolm%20Baldrige%20National%20Quality%20Award.md)
 - [&sect; 03711b - Conference on advanced automotive technologies](%C2%A7%2003711b%20-%20Conference%20on%20advanced%20automotive%20technologies.md)
 - [&sect; 03711c - Advanced motor vehicle research award](%C2%A7%2003711c%20-%20Advanced%20motor%20vehicle%20research%20award.md)
@@ -66,3 +67,4 @@
 - [&sect; 03715 - Use of partnership intermediaries](%C2%A7%2003715%20-%20Use%20of%20partnership%20intermediaries.md)
 - [&sect; 03716 - Critical industries](%C2%A7%2003716%20-%20Critical%20industries.md)
 - [&sect; 03717 - National Quality Council](%C2%A7%2003717%20-%20National%20Quality%20Council.md)
+- [&sect; 03718 - President's Council on Innovation and Competitiveness](%C2%A7%2003718%20-%20President%27s%20Council%20on%20Innovation%20and%20Competitiveness.md)

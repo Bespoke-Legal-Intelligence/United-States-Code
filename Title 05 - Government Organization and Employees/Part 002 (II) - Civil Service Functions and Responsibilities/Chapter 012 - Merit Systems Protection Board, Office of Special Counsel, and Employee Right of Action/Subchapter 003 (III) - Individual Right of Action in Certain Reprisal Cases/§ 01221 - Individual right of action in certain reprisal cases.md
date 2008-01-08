@@ -42,7 +42,7 @@
 
 (2) If an employee, former employee, or applicant for employment is the prevailing party before the Merit Systems Protection Board, and the decision is based on a finding of a prohibited personnel practice, the agency involved shall be liable to the employee, former employee, or applicant for reasonable attorney's fees and any other reasonable costs incurred.
 
-(3) If an employee, former emloyee,<sup>1</sup> or applicant for employment is the prevailing party in an appeal from the Merit Systems ProtectionBoard, the agency involved shall be liable to the employee, former employee, or applicant for reasonable attorney's fees and any other reasonable costs incurred, regardless of the basis of the decision.
+(3) If an employee, former emloyee,<sup>1</sup> or applicant for employment is the prevailing party in an appeal from the Merit Systems Protection Board, the agency involved shall be liable to the employee, former employee, or applicant for reasonable attorney's fees and any other reasonable costs incurred, regardless of the basis of the decision.
 
 (h)(1) An employee, former employee, or applicant for employment adversely affected or aggrieved by a final order or decision of the Board under this section may obtain judicial review of the order or decision.
 
@@ -50,7 +50,7 @@
 
 (i) Subsections (a) through (h) shall apply in any proceeding brought under section 7513(d) if, or to the extent that, a prohibited personnel practice as defined in section 2302(b)(8) is alleged.
 
-(j) In determining the appealability of any case involving an allegation made by an individual under the provisions of this chapter, neither the status of an individual under any retirement system established under a Federal statute nor any election made by such individual under any such system may be taken into account.
+(j) In determining the appealability of any case involving an allegation made by an individual under the provisions of this chapter, neither the status of an individual under any retirementsystem established under a Federal statute nor any election made by such individual under any such system may be taken into account.
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 29; amended Pub. L. 103–424, §§4, 8(b), Oct. 29, 1994, 108 Stat. 4363, 4365.)
 

@@ -20,7 +20,7 @@
 
 &emsp;(B) Assessments of the quality of the operations of such centers.
 
-&emsp;(C) An assessment of the extent to which the Department, through the operation of such centers and other health-care facilities and programs, is meeting the needs of eligible older veterans for geriatric services, extended-care services, and other health-care services.
+&emsp;(C) An assessment of the extent to which the Department, through the operation of such centers and other health-care facilities andprograms, is meeting the needs of eligible older veterans for geriatric services, extended-care services, and other health-care services.
 
 &emsp;(D) Assessments of and recommendations for correcting any deficiencies in the operations of such centers.
 

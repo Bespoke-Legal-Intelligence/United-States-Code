@@ -14,7 +14,7 @@ After consultation with the Office of Personnel Management, the Secretary shall 
 
 #### (b) Preference eligibles within local hire
 
-Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisionsof subsection (a) of this section and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the competitive service as defined in section 2102 of such title for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position.
+Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisions of subsection (a) of this section and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the competitive service as defined in section 2102 of such title for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position.
 
 #### (c) Payment of expenses after death of an employee
 
@@ -64,7 +64,7 @@ Pub. L. 106–488, §2, Nov. 9, 2000, 114 Stat. 2205, provided that:
 
 &emsp;&emsp;“(D) Noatak National Preserve; and
 
-&emsp;“(2) report on the results of the programs within one year to the Committee on Energy and Natural Resources of the United States \[Senate\] and the Committee on Resources of the House of Representatives.
+&emsp;“(2) report on the results of the programs within one year to the Committee on Energy and Natural Resources of the United States \[Senate\] and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives.
 
 “(b) In implementing the programs, the Secretary shall consult with the Native Corporations, nonprofit organizations, and Tribal entities in the immediate vicinity of such units and shall also, to the extent practicable, involve such groups in the development of interpretive materials and the pilot programs relating to such units.”
 

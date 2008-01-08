@@ -68,7 +68,7 @@
 
 (2) A judge who elects to receive an annuity under this section shall not be entitled to receive—
 
-&emsp;(A) any annuity to which such judge would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5, for service performed as a judge or otherwise;
+&emsp;(A) any annuity to which such judge would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (exceptfor subchapters III and VII), of title 5, for service performed as a judge or otherwise;
 
 &emsp;(B) an annuity or salary in senior status or retirement under section 371 or 372 of this title;
 
@@ -86,7 +86,7 @@
 
 (3) As used in this subsection, the term “court” means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, and any Indian tribal court or court of Indian offense.
 
-(j)(1) Subject to paragraph (4), any judge of the Court of Federal Claims who retires under this section and who thereafter in the practice of law represents (or supervises or directs the representation of) a client in making any civil claim against the United States or any agency thereofshall forfeit all rights to an annuity under this section for all periods beginning on or after the first day on which he engages in any such activity.
+(j)(1) Subject to paragraph (4), any judge of the Court of Federal Claims who retires under this section and who thereafter in the practice of law represents (or supervises or directs the representation of) a client in making any civil claim against the United States or any agency thereof shall forfeit all rights to an annuity under this section for all periods beginning on or after the first day on which he engages in any such activity.
 
 (2) Subject to paragraph (4), if a judge of the Court of Federal Claims who retires under this section fails during any calendar year to perform judicial duties required of such judge by subsection (d), such judge shall forfeit all rights to an annuity under this section for the 1-year period which begins on the first day on which he or she so fails to perform such duties.
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;(ii) section 376(g) shall not apply, and the amount credited to such individual's account (together with interest at 3 percent per annum, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
 
-&emsp;(C) no credit shall be allowed for any service as a judge of the Court of Federal Claims or as a commissioner of the United States Court of Claims unless with respect to such service either there has been deducted and withheld the amount required by chapter 83 or 84 (as the case may be) of title 5 or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
+&emsp;(C) no credit shall be allowed for any service as a judge of the Court of Federal Claims or as a commissioner of the United States Court of Claims unless with respect to such service either there has been deducted and withheld the amount required by chapter 83 or 84 (as thecase may be) of title 5 or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
 
 &emsp;(D) the Court of Federal Claims shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (f), and
 

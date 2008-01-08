@@ -82,7 +82,7 @@ Final report.—As soon as practicable, but not later than 14 months, after the 
 
 &emsp;&emsp;“(E) the Chairman of the Committee on Agriculture, Nutrition, and Forestry of the Senate;
 
-&emsp;&emsp;“(F) the Chairman of the Committee on Resources of the House of Representatives; and
+&emsp;&emsp;“(F) the Chairman of the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives; and
 
 &emsp;&emsp;“(G) the Chairman of the Committee on Energy and Natural Resources of the Senate.
 

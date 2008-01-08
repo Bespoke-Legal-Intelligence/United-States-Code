@@ -8,7 +8,7 @@
 
 #### (2) Priority for occupancy
 
-&emsp;In determining priority for admission to public housing projects (or portions of projects) that are designated for occupancy as provided in paragraph (1), the public housing agency may make units in such projects (or portions) available only to the types of families for whom the project is designated.
+&emsp;In determining priority for admission to public housing projects (or portions of projects) that are designated for occupancy as provided in paragraph (1), the public housingagency may make units in such projects (or portions) available only to the types of families for whom the project is designated.
 
 #### (3) Eligibility of near-elderly families
 
@@ -46,7 +46,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 &emsp;&emsp;(C) any supportive services to be provided to tenants of the designated project (or portion);
 
-&emsp;&emsp;(D) how the design and related facilities (as such term is defined in section1701q(d)(8) <sup>1</sup> of title 12) of the project accommodate the special environmental needs of the intended occupants; and
+&emsp;&emsp;(D) how the design and related facilities (as such term is defined in section 1701q(d)(8) <sup>1</sup> of title 12) of the project accommodate the special environmental needs of the intended occupants; and
 
 &emsp;&emsp;(E) any plans to secure additional resources or housing assistance to provide assistance to families that may have been housed if occupancy in the project were not restricted pursuant to this section.
 

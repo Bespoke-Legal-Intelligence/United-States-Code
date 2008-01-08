@@ -146,7 +146,7 @@ Subsec. (i)(2)(C). Pub. L. 104–127, §213(4), struck out heading and text of s
 
 1966—Pub. L. 89–808 substituted provisions for authorization of appropriations, including reimbursement of Commodity Credit Corporation, and classification of expenditures, formerly covered in former section 1703(a) of this title, for provision for payment for commodities, now provided for by section 1706(a) of this title.
 
-1964—Pub. L. 88–638 substituted “less than the minimum rate required by section 2161 of Title 22 for loans made under that section” for “more than the cost of the funds to the United States Treasury as determined by the Secretary of the Treasury, taking into consideration the current average market yields on outstanding marketable obligations of the United States having maturity comparable to the maturities of loans made by the President under this section”.
+1964—Pub. L. 88–638 substituted “less than the minimum rate required by section 2161 of Title 22 for loans made under that section” for “more than the cost of the funds to the United States Treasury as determinedby the Secretary of the Treasury, taking into consideration the current average market yields on outstanding marketable obligations of the United States having maturity comparable to the maturities of loans made by the President under this section”.
 
 1962—Pub. L. 87–703 substituted “reasonable” for “approximately equal” annual amounts and provided for deferral of date for beginning annual payment.
 

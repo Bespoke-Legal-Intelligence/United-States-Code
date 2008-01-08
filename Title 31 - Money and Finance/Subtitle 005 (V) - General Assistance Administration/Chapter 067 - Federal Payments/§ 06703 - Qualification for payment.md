@@ -16,7 +16,7 @@ In General.—The Secretary shall issue regulations establishing procedures unde
 
 &emsp;(6) Programs under the School to Work Opportunities Act (Public Law 103–239).
 
-&emsp;(7) Substance Abuse Treatment and Prevention programs authorized under title V or XIXof the Public Health Services Act (43 U.S.C. 201 et seq.).<sup>1</sup>
+&emsp;(7) Substance Abuse Treatment and Prevention programs authorized under title V or XIX of the Public Health Services Act (43 U.S.C. 201 et seq.).<sup>1</sup>
 
 &emsp;(8) Programs under the Head Start Act (42 U.S.C. 9831 et seq.).
 
@@ -80,7 +80,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 (e)
 
-Review by Governors.—A unit of general local government shall give the chief executiveofficer of the State in which the government is located an opportunity for review and comment before establishing compliance with subsection (d).
+Review by Governors.—A unit of general local government shall give the chief executive officer of the State in which the government is located an opportunity for review and comment before establishing compliance with subsection (d).
 
 (f)
 
@@ -142,7 +142,7 @@ The Child Abuse Prevention and Treatment Act Amendments of 1984, referred to in 
 
 Reorganization Plan No. 14 of 1950, referred to in subsec. (d)(5), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Single Audit Act of 1984, referred to in subsec. (d)(6), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of this title and Tables.
+The Single Audit Act of 1984, referred to in subsec. (d)(6), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§7501 et seq.) of this title and provisions set out as notes under section 7501 of this title. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of this title and Tables.
 
 #### Prior Provisions
 

@@ -26,7 +26,7 @@ The preamble to act Oct. 11, 1949, provided that:
 
 “Whereas these lands contain over four million acres of denuded and unsatisfactorily stocked timberlands and an additional four million acres of seriously depleted range lands; and
 
-“Whereas all of these lands are potentially capable of producing an important part of the timber and forage needs of local communities, and contributing to the protection of watersheds, thereby alleviating flood damage and insuring a continuing water supply, increasing opportunity for local employment, bringing greater stability to local communities, and increasing returns to counties in the national forests from their share of national forests receipts, together with other benefits; and
+“Whereas all of these lands are potentially capable of producing an important part of the timber and forageneeds of local communities, and contributing to the protection of watersheds, thereby alleviating flood damage and insuring a continuing water supply, increasing opportunity for local employment, bringing greater stability to local communities, and increasing returns to counties in the national forests from their share of national forests receipts, together with other benefits; and
 
 “Whereas these lands will not restock or revegetate satisfactorily or within a reasonable time except through reforestation and revegetation or other measures to induce restocking or revegetation; and
 

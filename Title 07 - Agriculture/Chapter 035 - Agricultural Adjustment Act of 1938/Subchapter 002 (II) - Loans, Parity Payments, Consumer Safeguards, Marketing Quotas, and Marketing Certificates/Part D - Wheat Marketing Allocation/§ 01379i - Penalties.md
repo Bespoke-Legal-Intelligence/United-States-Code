@@ -2,7 +2,7 @@
 
 #### (a) Forfeitures; amount; civil action
 
-Any person who knowingly violates or attempts to violate or who knowingly participates or aids in the violation of any of the provisions of subsection (b) of section 1379d of this title shall forfeit to the United States a sum equal to two times the face value of the marketing certificates involved in such violation. Such forfeiture shall be recoverable in a civil action brought in the name of the United States.
+Any person who knowingly violates or attempts to violate or who knowingly participates or aids in the violation of any of the provisions of subsection (b) of section 1379d of this titleshall forfeit to the United States a sum equal to two times the face value of the marketing certificates involved in such violation. Such forfeiture shall be recoverable in a civil action brought in the name of the United States.
 
 #### (b) Misdemeanors; punishment
 
@@ -28,7 +28,7 @@ This part, referred to in subsecs. (b) and (c), commences with section 1379a of 
 
 #### Effective Date of 1965 Amendment
 
-Section 510(b) of Pub. L. 89–321 provided that the amendments made by that section are effective as ofthe effective date of the original enactment of this section \[section 1379i of this title\].
+Section 510(b) of Pub. L. 89–321 provided that the amendments made by that section are effective as of the effective date of the original enactment of this section \[section 1379i of this title\].
 
 #### Inapplicability of Section
 

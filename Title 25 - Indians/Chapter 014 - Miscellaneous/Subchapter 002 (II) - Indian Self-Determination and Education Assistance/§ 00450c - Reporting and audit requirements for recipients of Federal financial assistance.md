@@ -16,7 +16,7 @@
 
 #### (b) Access to books, documents, papers, and records for audit and examination by Comptroller General, etc.
 
-The Comptroller General and the appropriate Secretary, or any of their duly authorized representatives, shall, until the expiration of three years after completion of the project or undertaking referred to in the preceding subsection of this section, have access (for the purpose of audit and examination) to any books, documents, papers, and records of such recipients which in the opinion of the Comptroller General or the appropriate Secretary may be related or pertinent to the grants, contracts, subcontracts,subgrants, or other arrangements referred to in the preceding subsection.
+The Comptroller General and the appropriate Secretary, or any of their duly authorized representatives, shall, until the expiration of three years after completion of the project or undertaking referred to in the preceding subsection of this section, have access (for the purpose of audit and examination) to any books, documents, papers, and records of such recipients which in the opinion of the Comptroller General or the appropriate Secretary may be related or pertinent to the grants, contracts, subcontracts, subgrants, or other arrangements referred to in the preceding subsection.
 
 #### (c) Availability by recipient of required reports and information to Indian people served or represented
 

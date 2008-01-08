@@ -72,13 +72,13 @@ For purposes of this section, the following amounts shall be excluded, with resp
 
 #### (5) Foreign trade income
 
-&emsp;Earnings and profits of the foreign corporation attributable to foreign trade income of a FSC other than foreign trade income which—
+&emsp;Earnings and profits of the foreign corporation attributable to foreign trade income of a FSC (as defined in section 922) other than foreign trade income which—
 
-&emsp;&emsp;(A) is section 923(a)(2) <sup>1</sup> non-exempt income (within the meaning of section 927(d)(6)),<sup>1</sup> or
+&emsp;&emsp;(A) is section 923(a)(2) non-exempt income (within the meaning of section 927(d)(6)), or
 
-&emsp;&emsp;(B) would not (but for section 923(a)(4)) <sup>1</sup> be treated as exempt foreign trade income.
+&emsp;&emsp;(B) would not (but for section 923(a)(4)) be treated as exempt foreign trade income.
 
-> &emsp;For purposes of the preceding sentence, the terms “foreign trade income” and “exempt foreign trade income” have the respective meanings given such terms by section 923.<sup>1</sup>
+> &emsp;For purposes of the preceding sentence, the terms “foreign trade income” and “exempt foreign trade income” have the respective meanings given such terms by section 923. Any reference in this paragraph to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
 
 #### (6) Amounts included in gross income under section 1293
 
@@ -118,7 +118,7 @@ Except as provided in regulations prescribed by the Secretary—
 
 #### (3) Application to cases described in subsection (e)
 
-&emsp;To the extent that earnings and profits are taken into account under this subsection, they shall be excluded and not taken into account for purposes of subsection (e).
+&emsp;To the extent that earnings and profits are taken into account under this subsection, theyshall be excluded and not taken into account for purposes of subsection (e).
 
 #### (g) Exceptions
 
@@ -158,15 +158,17 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 &emsp;&emsp;<b>For provision excluding amounts previously taxed under this section from gross income when subsequently distributed, see section 959(e).</b>
 
-(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872; Pub. L. 108–357, title IV, §413(c)(22), Oct. 22, 2004, 118 Stat. 1509.)
+(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872; Pub. L. 108–357, title IV, §413(c)(22), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 110–172, §11(g)(17), Dec. 29, 2007, 121 Stat. 2491.)
 
 #### References in Text
 
 The Tax Reduction Act of 1975, referred to in subsec. (d)(3), is Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, as amended. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 1 of this title and Tables.
 
-Sections 923 and 927, referred to in subsec. (d)(5), were repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
+The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (d)(5), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (d)(5). Pub. L. 110–172 inserted “(as defined in section 922)” after “a FSC” in introductory provisions and inserted second sentence in concluding provisions.
 
 2004—Subsec. (d)(5) to (7). Pub. L. 108–357 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: “If the United States person whose stock is sold or exchanged was a qualified shareholder (as defined in section 1247(c)) of a foreign corporation which was a foreign investment company (as described in section 1246(b)(1)), the earnings and profits of the foreign corporation for taxable years in which such person was a qualified shareholder.”
 
@@ -266,7 +268,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(d)(2) of Pub. L. 99–514 applicable to any distribution in complete liquidation,and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(d)(2) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Section 1875(g)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to exchanges after March 1, 1986.”
 
@@ -317,6 +319,4 @@ Section 1875(g)(3) of Pub. L. 99–514 provided that: “An exchange shall be tr
 &emsp;“(A) on or before such date, the taxpayer adopts a plan of reorganization to which section 356 \[of the Internal Revenue Code of 1986\] applies, and
 
 &emsp;“(B) such plan or reorganization is implemented and distributions pursuant to such plan are completed on or before the date of enactment of this Act \[Oct. 22, 1986\].”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

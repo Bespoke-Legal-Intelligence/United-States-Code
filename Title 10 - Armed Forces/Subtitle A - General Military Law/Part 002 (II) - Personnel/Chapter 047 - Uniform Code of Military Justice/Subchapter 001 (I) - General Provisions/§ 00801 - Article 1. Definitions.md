@@ -142,7 +142,7 @@ Section 51 of act Aug. 10, 1956, provided that: “Chapter 47 of title 10, Unite
 
 #### Short Title of 1996 Amendment
 
-Section 1101 of title XI of div. A of Pub. L. 104–106 provided that: “This title \[enacting sections 857a, 858b, and 876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and 937 of this title, repealing section 804 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under section 942 of this title\] may be cited as the ‘Military Justice Amendments of 1995’.”
+Section 1101 of title XI of div. A of Pub. L. 104–106 provided that: “This title \[enacting sections 857a, 858b, and876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and 937 of this title, repealing section 804 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under section 942 of this title\] may be cited as the ‘Military Justice Amendments of 1995’.”
 
 #### Short Title of 1986 Amendment
 
@@ -158,7 +158,7 @@ Pub. L. 97–81, §1(a), Nov. 20, 1981, 95 Stat. 1085, provided that: “This Ac
 
 #### Short Title of 1968 Amendment
 
-Section 1 of Pub. L. 90–632 provided: “That this Act \[amending this section and sections 806, 816, 818, 819, 820, 825, 826, 827, 829, 835, 837, 838, 839, 840, 841, 842, 845,849, 851, 852, 854, 857, 865, 866, 867, 868, 869, 870, 871, 873, and 936 of this title and enacting provisions set out as notes under this section and sections 826 and 866 of this title\] may be cited as the ‘Military Justice Act of 1968’.”
+Section 1 of Pub. L. 90–632 provided: “That this Act \[amending this section and sections 806, 816, 818, 819, 820, 825, 826, 827, 829, 835, 837, 838, 839, 840, 841, 842, 845, 849, 851, 852, 854, 857, 865, 866, 867, 868, 869, 870, 871, 873, and 936 of this title and enacting provisions set out as notes under this section and sections 826 and 866 of this title\] may be cited as the ‘Military Justice Act of 1968’.”
 
 #### Redesignation of Navy Law Specialists as Judge Advocates
 
@@ -390,7 +390,7 @@ Transmittal to Congressional Committees.—Not less than 30 days after the date 
 
 “(d)
 
-Annual Report.—Not less than one year after the date of the enactment of this Act \[Jan. 6, 2006\], andannually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of this section.”
+Annual Report.—Not less than one year after the date of the enactment of this Act \[Jan. 6, 2006\], and annually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of this section.”
 
 Pub. L. 109–148, div. A, title X, §§1002, 1005, 1006, Dec. 30, 2005, 119 Stat. 2739, 2740, 2744, as amended by Pub. L. 109–366, §§9, 10, Oct. 17, 2006, 120 Stat. 2636, 2637, provided that:
 
@@ -620,7 +620,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 Policy.—It is the policy of the United States to—
 
-&emsp;“(1) ensure that no detainee shall be subject to torture or cruel, inhuman, or degrading treatment orpunishment that is prohibited by the Constitution, laws, or treaties of the United States;
+&emsp;“(1) ensure that no detainee shall be subject to torture or cruel, inhuman, or degrading treatment or punishment that is prohibited by the Constitution, laws, or treaties of the United States;
 
 &emsp;“(2) investigate and prosecute, as appropriate, all alleged instances of unlawful treatment of detainees in a manner consistent with the international obligations, laws, or policies of the United States;
 
@@ -674,7 +674,7 @@ Section 1. <i>Findings.</i>
 
 (b) In light of grave acts of terrorism and threats of terrorism, including the terrorist attacks on September 11, 2001, on the headquarters of the United States Department of Defense in the national capital region, on the World Trade Center in New York, and on civilian aircraft such as in Pennsylvania, I proclaimed a national emergency on September 14, 2001 (Proc. 7463, Declaration of National Emergency by Reason of Certain Terrorist Attacks \[50 U.S.C. 1621 note\]).
 
-(c) Individuals acting alone and in concert involved in international terrorism possess both the capability and the intention to undertake further terrorist attacks against the United States that, if not detected and prevented, will cause mass deaths, mass injuries, and massive destruction of property, and may place at risk the continuity of the operations of the United States Government.
+(c) Individuals acting alone and in concert involved in international terrorism possess both the capability and the intention to undertake further terrorist attacks against the United States that, if not detectedand prevented, will cause mass deaths, mass injuries, and massive destruction of property, and may place at risk the continuity of the operations of the United States Government.
 
 (d) The ability of the United States to protect the United States and its citizens, and to help its allies and other cooperating nations protect their nations and their citizens, from such further terrorist attacks depends in significant part upon using the United States Armed Forces to identify terrorists and those who support them, to disrupt their activities, and to eliminate their ability to conduct or support such attacks.
 
@@ -714,29 +714,7 @@ Sec. 3. <i>Detention Authority of the Secretary of Defense</i>. Any individual s
 
 (e) detained in accordance with such other conditions as the Secretary of Defense may prescribe.
 
-Sec. 4. <i>Authority of the Secretary of Defense Regarding Trials of Individuals Subject to this Order.</i>
-
-(a) Any individual subject to this order shall, when tried, be tried by military commission for any and all offenses triable by military commission that such individual is alleged to have committed, and may be punished in accordance with the penalties provided under applicable law, including life imprisonment or death.
-
-(b) As a military function and in light of the findings in section 1, including subsection (f) thereof, the Secretary of Defense shall issue such orders and regulations, including orders for the appointment of one or more military commissions, as may be necessary to carry out subsection (a) of this section.
-
-(c) Orders and regulations issued under subsection (b) of this section shall include, but not be limited to, rules for the conduct of the proceedings of military commissions, including pretrial, trial, and post-trial procedures, modes of proof, issuance of process, and qualifications of attorneys, which shall at a minimum provide for—
-
-&emsp;(1) military commissions to sit at any time and any place, consistent with such guidance regarding time and place as the Secretary of Defense may provide;
-
-&emsp;(2) a full and fair trial, with the military commission sitting as the triers of both fact and law;
-
-&emsp;(3) admission of such evidence as would, in the opinion of the presiding officer of the military commission (or instead, if any other member of the commission so requests at the time the presiding officer renders that opinion, the opinion of the commission rendered at that time by a majority of the commission), have probative value to a reasonable person;
-
-&emsp;(4) in a manner consistent with the protection of information classified or classifiable under Executive Order 12958 of April 17, 1995, as amended \[50 U.S.C. 435 note\], or any successor Executive Order, protected by statute or rule from unauthorized disclosure, or otherwise protected by law, (A) the handling of, admission into evidence of, and access to materials and information, and (B) the conduct, closure of, and access to proceedings;
-
-&emsp;(5) conduct of the prosecution by one or more attorneys designated by the Secretary of Defense and conduct of the defense by attorneys for the individual subject to this order;
-
-&emsp;(6) conviction only upon the concurrence of two-thirds of the members of the commission present at the time of the vote, a majority being present;
-
-&emsp;(7) sentencing only upon the concurrence of two-thirds of the members of the commission present at the time of the vote, a majority being present; and
-
-&emsp;(8) submission of the record of the trial, including any conviction or sentence, for review and final decision by me or by the Secretary of Defense if so designated by me for that purpose.
+Sec. 4. <i>Authority of the Secretary of Defense Regarding Trials of Individuals Subject to this Order</i>. \[Superseded by Ex. Ord. No. 13425, set out as a note under section 948b of this title.\]
 
 Sec. 5. <i>Obligation of Other Agencies to Assist the Secretary of Defense.</i>
 
@@ -775,4 +753,6 @@ Sec. 8. <i>Publication.</i>
 This order shall be published in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For supersedure of provisions of Military Order of President of the United States, dated Nov. 13, 2001, set out above, related to trial by military commission, see Ex. Ord. No. 13425, Feb. 14, 2007, 72 F.R. 7737, set out as a note under section 948b of this title.\]
 

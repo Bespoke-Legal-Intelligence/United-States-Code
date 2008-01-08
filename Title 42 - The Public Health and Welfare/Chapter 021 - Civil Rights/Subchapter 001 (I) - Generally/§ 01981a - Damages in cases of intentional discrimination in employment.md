@@ -4,7 +4,7 @@
 
 #### (1) Civil rights
 
-&emsp;In an action brought by a complaining party under section 706 or 717 of the Civil Rights Actof 1964 \[42 U.S.C. 2000e–5, 2000e–16\] against a respondent who engaged in unlawful intentional discrimination (not an employment practice that is unlawful because of its disparate impact) prohibited under section 703, 704, or 717 of the Act \[42 U.S.C. 2000e–2, 2000e–3, 2000e–16\], and provided that the complaining party cannot recover under section 1981 of this title, the complaining party may recover compensatory and punitive damages as allowed in subsection (b) of this section, in addition to any relief authorized by section 706(g) of the Civil Rights Act of 1964, from the respondent.
+&emsp;In an action brought by a complaining party under section 706 or 717 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5, 2000e–16\] against a respondent who engaged in unlawful intentional discrimination (not an employment practice that is unlawful because of its disparate impact) prohibited under section 703, 704, or 717 of the Act \[42 U.S.C. 2000e–2, 2000e–3, 2000e–16\], and provided that the complaining party cannot recover under section 1981 of this title, the complaining party may recover compensatory and punitive damages as allowed in subsection (b) of this section, in addition to any relief authorized by section 706(g) of the Civil Rights Act of 1964, from the respondent.
 
 #### (2) Disability
 
@@ -26,7 +26,7 @@
 
 #### (3) Limitations
 
-&emsp;The sum of the amount of compensatory damages awarded under this section for future pecuniary losses, emotional pain, suffering, inconvenience, mental anguish, loss of enjoyment of life, and other nonpecuniary losses, and the amount of punitive damages awarded under this section, shall not exceed, for each complaining party—
+&emsp;The sum of the amount of compensatory damages awarded under this section for futurepecuniary losses, emotional pain, suffering, inconvenience, mental anguish, loss of enjoyment of life, and other nonpecuniary losses, and the amount of punitive damages awarded under this section, shall not exceed, for each complaining party—
 
 &emsp;&emsp;(A) in the case of a respondent who has more than 14 and fewer than 101 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $50,000;
 

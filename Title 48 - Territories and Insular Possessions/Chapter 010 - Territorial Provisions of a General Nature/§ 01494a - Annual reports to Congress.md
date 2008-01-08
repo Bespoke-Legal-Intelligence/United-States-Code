@@ -18,11 +18,7 @@ The annual reports required by subsection (a) of this section shall be transmitt
 
 1994—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
 
-1988—Pub. L. 100–690 designated existing provisions as subsec. (a) and inserted heading, inserted “, the TrustTerritory of the Pacific Islands,” before “and states” in par. (1) and after “territories” in two places in par. (2), and added subsec. (b).
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1988—Pub. L. 100–690 designated existing provisions as subsec. (a) and inserted heading, inserted “, the Trust Territory of the Pacific Islands,” before “and states” in par. (1) and after “territories” in two places in par. (2), and added subsec. (b).
 
 #### Termination of Trust Territory of the Pacific Islands
 

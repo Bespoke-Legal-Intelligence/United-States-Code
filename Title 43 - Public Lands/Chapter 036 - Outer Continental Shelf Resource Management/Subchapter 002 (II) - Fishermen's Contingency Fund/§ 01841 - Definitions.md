@@ -50,7 +50,7 @@ Section 9 of Pub. L. 97–212 provided that:
 
 “(2) The Secretary shall notify each claimant eligible to refile a claim under paragraph (1) of such eligibility within 10 days after the date of enactment of this Act \[June 30, 1982\].
 
-“(3) A claim for which notification on intent to refile was timely made under paragraph (1) must be refiled with the Secretary within the thirty-day period after the date on which the regulations promulgated to implement the amendments made by this Act become final or action shall be resumed with respect to such claim without regard to the amendments made by this Act.
+“(3) A claim for which notification on intent to refile was timely made under paragraph (1) must be refiledwith the Secretary within the thirty-day period after the date on which the regulations promulgated to implement the amendments made by this Act become final or action shall be resumed with respect to such claim without regard to the amendments made by this Act.
 
 “(4) The amendments made by this Act shall apply with respect to any claim that is refiled on a timely basis under paragraph (3).”
 

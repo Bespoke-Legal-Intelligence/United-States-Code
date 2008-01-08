@@ -22,7 +22,7 @@ If any word, statement, or other information required by or under authority of t
 
 &emsp;(i) the established name (as defined in subparagraph (3)) of the drug, if there is such a name;
 
-&emsp;(ii) the established name and quantity or, if determined to be appropriate by the Secretary, the proportion of each active ingredient, including the quantity, kind, and proportion of any alcohol, and also including whether active or not the established name and quantity or if determined to be appropriate bythe Secretary, the proportion of any bromides, ether, chloroform, acetanilide, acetophenetidin, amidopyrine, antipyrine, atropine, hyoscine, hyoscyamine, arsenic, digitalis, digitalis glucosides, mercury, ouabain, strophanthin, strychnine, thyroid, or any derivative or preparation of any such substances, contained therein, except that the requirement for stating the quantity of the active ingredients, other than the quantity of those specifically named in this subclause, shall not apply to nonprescription drugs not intended for human use; and
+&emsp;(ii) the established name and quantity or, if determined to be appropriate by the Secretary, the proportion of each active ingredient, including the quantity, kind, and proportion of any alcohol, and also including whether active or not the established name and quantity or if determined to be appropriate by the Secretary, the proportion of any bromides, ether, chloroform, acetanilide, acetophenetidin, amidopyrine, antipyrine, atropine, hyoscine, hyoscyamine, arsenic, digitalis, digitalis glucosides, mercury, ouabain, strophanthin, strychnine, thyroid, or any derivative or preparation of any such substances, contained therein, except that the requirement for stating the quantity of the active ingredients, other than the quantity of those specifically named in this subclause, shall not apply to nonprescription drugs not intended for human use; and
 
 &emsp;(iii) the established name of each inactive ingredient listed in alphabetical order on the outside container of the retail package and, if determined to be appropriate by the Secretary, on the immediate container, as prescribed in regulation promulgated by the Secretary, except that nothing in this subclause shall be deemed to require that any trade secret be divulged, and except that the requirements of this subclause with respect to alphabetical order shall apply only to nonprescription drugs that are not also cosmetics and that this subclause shall not apply to nonprescription drugs not intended for human use.
 
@@ -32,7 +32,7 @@ If any word, statement, or other information required by or under authority of t
 
 (3) As used in subparagraph (1), the term “established name”, with respect to a drug or ingredient thereof, means (A) the applicable official name designated pursuant to section 358 of this title, or (B), if there is no such name and such drug, or such ingredient, is an article recognized in an official compendium, then the official title thereof in such compendium, or (C) if neither clause (A) nor clause (B) of this subparagraph applies, then the common or usual name, if any, of such drug or of such ingredient, except that where clause (B) of this subparagraph applies to an article recognized in the United States Pharmacopeia and in the Homoeopathic Pharmacopoeia under different official titles, the official title used in the United States Pharmacopeia shall apply unless it is labeled and offered for sale as a homoeopathic drug, in which case the official title used in the Homoeopathic Pharmacopoeia shall apply.
 
-(4) As used in subparagraph (2), the term “established name” with respect to a device means (A) the applicable official name of the device designated pursuant to section 358 of this title, (B) if there is no such name and such device is an article recognized in an official compendium, then the official title thereof in such compendium, or (C) if neither clause (A) nor clause (B) of this subparagraph applies, then any common or usual name of such device.
+(4) As used in subparagraph (2), the term “established name” with respect to a device means\(A) the applicable official name of the device designated pursuant to section 358 of this title, (B) if there is no such name and such device is an article recognized in an official compendium, then the official title thereof in such compendium, or (C) if neither clause (A) nor clause (B) of this subparagraph applies, then any common or usual name of such device.
 
 #### (f) Directions for use and warnings on label
 
@@ -44,7 +44,7 @@ If it purports to be a drug the name of which is recognized in an official compe
 
 #### (h) Deteriorative drugs; packing and labeling
 
-If it has been found by the Secretary to be a drug liable to deterioration, unless it is packaged in such form and manner, and its label bears a statement of such precautions, as the Secretary shall by regulations require as necessary for the protection of the public health. No such regulation shall be established for any drug recognized in an official compendium until the Secretary shall have informed the appropriate body charged with the revision of suchcompendium of the need for such packaging or labeling requirements and such body shall have failed within a reasonable time to prescribe such requirements.
+If it has been found by the Secretary to be a drug liable to deterioration, unless it is packaged in such form and manner, and its label bears a statement of such precautions, as the Secretary shall by regulations require as necessary for the protection of the public health. No such regulation shall be established for any drug recognized in an official compendium until the Secretary shall have informed the appropriate body charged with the revision of such compendium of the need for such packaging or labeling requirements and such body shall have failed within a reasonable time to prescribe such requirements.
 
 #### (i) Drug; misleading container; imitation; offer for sale under another name
 
@@ -62,7 +62,7 @@ If it is a color additive the intended use of which is for the purpose of colori
 
 #### (n) Prescription drug advertisements: established name; quantitative formula; side effects, contraindications, and effectiveness; prior approval; false advertising; labeling; construction of the Convention on Psychotropic Substances
 
-In the case of any prescription drug distributed or offered for sale in any State, unless the manufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor with respect to that drug a true statement of (1) the established name as defined in paragraph (e) of this section, printed prominently and in type at least half as large as that used for any trade or brand name thereof, (2) the formula showing quantitatively each ingredient of such drug to the extent required for labels under paragraph (e) of this section, and (3) such other information in brief summary relating to side effects, contraindications, and effectiveness as shall be required in regulations which shall be issued by the Secretary in accordance with the procedure specified in section 371(e) of this title, except that (A) except in extraordinary circumstances, no regulation issued under this paragraph shall require prior approval by the Secretary of the content of any advertisement, and (B) no advertisement of a prescription drug, published after the effective date of regulations issued under this paragraph applicable to advertisements of prescription drugs, shall with respect to the matters specified in this paragraph or covered by such regulations, be subject to the provisions of sections 52 to 57 of title 15. This paragraph (n) shall not be applicable to any printed matter which the Secretary determines to be labeling as defined in section 321(m) of this title. Nothing in the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, shall be construed to prevent drug price communications to consumers.
+In the case of any prescription drug distributed or offered for sale in any State, unless the manufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor with respect to that drug a true statement of (1) the established name as defined in paragraph (e) of this section, printed prominently and in type at least half as large as that used for any trade or brand name thereof, (2) the formula showing quantitatively each ingredient of such drug to the extent required for labels under paragraph (e) of this section, and (3) such other information in brief summary relating to side effects, contraindications, and effectiveness as shall be required in regulations which shall be issued by the Secretary in accordance with section 371(a) of this title, and in the case of published direct-to-consumer advertisements the following statement printed in conspicuous text: “You are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch, or call 1–800-FDA-1088.”, except that (A) except in extraordinary circumstances, no regulation issued under this paragraph shall require prior approval by the Secretary of the content of any advertisement, and (B) no advertisement of a prescription drug, published after the effective date of regulations issued under this paragraph applicable to advertisements of prescription drugs, shall with respect to the matters specified in this paragraph or covered by such regulations, be subject to the provisions of sections 52 to 57 of title 15. This paragraph (n) shall not be applicable to any printed matterwhich the Secretary determines to be labeling as defined in section 321(m) of this title. Nothing in the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, shall be construed to prevent drug price communications to consumers. In the case of an advertisement for a drug subject to section 353(b)(1) of this title presented directly to consumers in television or radio format and stating the name of the drug and its conditions of use, the major statement relating to side effects and contraindications shall be presented in a clear, conspicuous, and neutral manner.
 
 #### (<i>o</i>) Drugs or devices from nonregistered establishments
 
@@ -82,7 +82,7 @@ In the case of any restricted device distributed or offered for sale in any Stat
 
 #### (s) Devices subject to performance standards not bearing requisite labeling
 
-If it is a device subject to a performance standard established under section 360d of thistitle, unless it bears such labeling as may be prescribed in such performance standard.
+If it is a device subject to a performance standard established under section 360d of this title, unless it bears such labeling as may be prescribed in such performance standard.
 
 #### (t) Devices for which there has been a failure or refusal to give required notification or to furnish required material or information
 
@@ -104,15 +104,31 @@ If it is a new animal drug—
 
 &emsp;(1) that is conditionally approved under section 360ccc of this title and its labeling does not conform with the approved application or section 360ccc(f) of this title, or that is not conditionally approved under section 360ccc of this title and its label bears the statement set forth in section 360ccc(f)(1)(A) of this title; or
 
-&emsp;(2) that is indexed under section 360ccc–1 of this title and its labeling does not conform with the index listing under section 360ccc–1(e) of this title or 360ccc–1(h) of this title, or that has not been indexed under section 360ccc–1 of this title and its label bears the statement set forth in section 360ccc–1(h) of this title.
+&emsp;(2) that is indexed under section 360ccc–1 of this title and its labeling does not conform with the index listing under section 360ccc–1(e)of this title or 360ccc–1(h) of this title, or that has not been indexed under section 360ccc–1 of this title and its label bears the statement set forth in section 360ccc–1(h) of this title.
 
 #### (x) Nonprescription drugs
 
 If it is a nonprescription drug (as defined in section 379aa of this title) that is marketed in the United States, unless the label of such drug includes a domestic address or domestic phone number through which the responsible person (as described in section 379aa of this title) may receive a report of a serious adverse event (as defined in section 379aa of this title) with such drug.
 
-(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441; Pub. L. 109–462, §2(d), Dec. 22, 2006, 120 Stat. 3472.)
+#### (y) Drugs subject to approved risk evaluation and mitigation strategy
+
+If it is a drug subject to an approved risk evaluation and mitigation strategy pursuant to section 355(p) of this title and the responsible person (as such term is used in section 355–1 of this title) fails to comply with a requirement of such strategy provided for under subsection (d), (e), or (f) of section 355–1 of this title.
+
+#### (z) Postmarket studies and clinical trials; new safety information in labeling
+
+If it is a drug, and the responsible person (as such term is used in section 355(<i>o</i>) of this title) is in violation of a requirement established under paragraph (3) (relating to postmarket studies and clinical trials) or paragraph (4) (relating to labeling) of section 355(<i>o</i>) of this title with respect to such drug.
+
+(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441; Pub. L. 109–462, §2(d), Dec. 22, 2006, 120 Stat. 3472; Pub. L. 110–85, title IX, §§901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, 121 Stat. 940, 942, 943, 949.)
 
 #### Amendments
+
+2007—Par. (n). Pub. L. 110–85, §906(a), inserted “and in the case of published direct-to-consumer advertisements the following statement printed in conspicuous text: ‘You are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch, or call 1–800-FDA-1088.’,” after “section 371(a) of this title,”.
+
+Pub. L. 110–85, §901(d)(6), substituted “section 371(a) of this title” for “the procedure specified in section 371(e) of this title”.
+
+Pub. L. 110–85, §901(d)(3)(A), inserted at end “In the case of an advertisement for a drug subject to section 353(b)(1) of this title presented directly to consumers in television or radio format and stating the name of the drug and its conditions of use, the major statement relating to side effects and contraindications shall be presented in a clear, conspicuous, and neutral manner.”
+
+Pars. (y), (z). Pub. L. 110–85, §902(a), added pars. (y) and (z).
 
 2006—Par. (x). Pub. L. 109–462 added par. (x).
 
@@ -128,7 +144,7 @@ Par. (u). Pub. L. 107–250, §301(a), which directed amendment of section by ad
 
 Par. (v). Pub. L. 107–250, §302(a)(1), added par. (v).
 
-1997—Par. (a). Pub. L. 105–115, §114(a), inserted at end “Health care economic information provided to a formulary committee, or other similar entity, in the course of the committee or the entity carrying out its responsibilities for the selection of drugs for managed care or other similar organizations, shall not be considered to be false or misleading under this paragraph ifthe health care economic information directly relates to an indication approved under section 355 of this title or under section 262(a) of title 42 for such drug and is based on competent and reliable scientific evidence. The requirements set forth in section 355(a) of this title or in section 262(a) of title 42 shall not apply to health care economic information provided to such a committee or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request. In this paragraph, the term ‘health care economic information’ means any analysis that identifies, measures, or compares the economic consequences, including the costs of the represented health outcomes, of the use of a drug to the use of another drug, to another health care intervention, or to no intervention.”
+1997—Par. (a). Pub. L. 105–115, §114(a), inserted at end “Health care economic information provided to a formulary committee, or other similar entity, in the course of the committee or the entity carrying out its responsibilities for the selection of drugs for managed care or other similar organizations, shall not be considered to be false or misleading under this paragraph if the health care economic information directly relates to an indication approved under section 355 of this title or under section 262(a) of title 42 for such drug and is based on competent and reliable scientific evidence. The requirements set forth in section 355(a) of this title or in section 262(a) of title 42 shall not apply to health care economic information provided to such a committee or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request. In this paragraph, the term ‘health care economic information’ means any analysis that identifies, measures, or compares the economic consequences, including the costs of the represented health outcomes, of the use of a drug to the use of another drug, to another health care intervention, or to no intervention.”
 
 Par. (d). Pub. L. 105–115, §126(b), struck out par. (d) which read as follows: “If it is for use by man and contains any quantity of the narcotic or hypnotic substance alpha eucaine, barbituric acid, betaeucaine, bromal, cannabis, carbromal, chloral, coca, cocaine, codeine, heroin, marihuana, morphine, opium, paraldehyde, peyote, or sulphonmethane; or any chemical derivative of such substance, which derivative has been by the Secretary, after investigation, found to be, and by regulations designated as, habit forming; unless its label bears the name and quantity or proportion of such substance or derivative and in juxtaposition therewith the statement ‘Warning—May be habit forming.’ ”
 
@@ -190,6 +206,10 @@ Par. (<i>o</i>). Pub. L. 87–781, §305, added par. (<i>o</i>).
 
 1939—Par. (d). Act June 29, 1939, substituted “name, and quality or proportion” for “name, quantity, and percentage”.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–85 effective 180 days after Sept. 27, 2007, see section 909 of Pub. L. 110–85, set out as a note under section 331 of this title.
+
 #### Effective Dates of 2006 Amendment
 
 Pub. L. 109–462, §2(e)(1), (2), Dec. 22, 2006, 120 Stat. 3472, provided that:
@@ -248,6 +268,10 @@ Amendment by Pub. L. 86–618 effective July 12, 1960, subject to the provisions
 
 Pars. (b) and (d) to (h) effective Jan. 1, 1940, and such paragraphs effective July 1, 1940, as provided by regulations for certain lithographed labeling and containers bearing certain labeling, see act June 23, 1939, ch. 242, 53 Stat. 853, set out as an Effective Date: Postponement in Certain Cases note under section 301 of this title.
 
+#### Regulations
+
+Pub. L. 110–85, title IX, §901(d)(3)(B), Sept. 27, 2007, 121 Stat. 940, provided that: “Not later than 30 months after the date of the enactment of the Food and Drug Administration Amendments Act of 2007 \[Sept. 27, 2007\], the Secretary of Health and Human Services shall by regulation establish standards for determining whether a major statement relating to side effects and contraindications of a drug, described in section 502(n) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 352(n)) (as amended by subparagraph (A)) is presented in the manner required under such section.”
+
 #### Transfer of Functions
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
@@ -256,11 +280,19 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 Pub. L. 109–43, §2(c)(2), Aug. 1, 2005, 119 Stat. 441, provided that: “Not later than 180 days after the date of enactment of this Act \[Aug. 1, 2005\], the Secretary of Health and Human Services shall issue guidance to identify circumstances in which the name of the manufacturer of the original device, a generally recognized abbreviation of such name, or a unique and generally recognized symbol identifying such manufacturer, is not ‘prominent and conspicuous’, as used in section 502(u) of Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(u)\] (as amended by paragraph (1)).”
 
-#### Study on Making Prescription Pharmaceutical Information Accessible for Blind and Visually-Impaired Individuals
+#### Studies
+
+Pub. L. 110–85, title IX, §906(b), Sept. 27, 2007, 121 Stat. 950, provided that:
+
+“(1)
+
+In general.—In the case of direct-to-consumer television advertisements, the Secretary of Health and Human Services, in consultation with the Advisory Committee on Risk Communication under section 567 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–6\] (as added by section 917), shall, not later than 6 months after the date of the enactment of this Act\[Sept. 27, 2007\], conduct a study to determine if the statement in section 502(n) of such Act \[21 U.S.C. 352(n)\] (as added by subsection (a)) required with respect to published direct-to-consumer advertisements is appropriate for inclusion in such television advertisements.
+
+“(2)
+
+Content.—As part of the study under paragraph (1), such Secretary shall consider whether the information in the statement described in paragraph (1) would detract from the presentation of risk information in a direct-to-consumer television advertisement. If such Secretary determines the inclusion of such statement is appropriate in direct-to-consumer television advertisements, such Secretary shall issue regulations requiring the implementation of such statement in direct-to-consumer television advertisements, including determining a reasonable length of time for displaying the statement in such advertisements. The Secretary shall report to the appropriate committees of Congress the findings of such study and any plans to issue regulations under this paragraph.”
 
 Pub. L. 108–173, title I, §107(f), Dec. 8, 2003, 117 Stat. 2171, directed the Secretary of Health and Human Services to undertake a study of how to make prescription pharmaceutical information, including drug labels and usage instructions, accessible to blind and visually-impaired individuals, and to submit a report to Congress not later than 18 months after Dec. 8, 2003.
-
-#### Study and Report
 
 Section 114(b) of Pub. L. 105–115 provided that: “The Comptroller General of the United States shall conduct a study of the implementation of the provisions added by the amendment made by subsection (a) \[amending this section\]. Not later than 4 years and 6 months after the date of enactment of this Act \[Nov. 21, 1997\], the Comptroller General of the United States shall prepare and submit to Congress a report containing the findings of the study.”
 

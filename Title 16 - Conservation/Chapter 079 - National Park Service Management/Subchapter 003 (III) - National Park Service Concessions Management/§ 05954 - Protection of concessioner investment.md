@@ -26,7 +26,7 @@ On or after November 13, 1998, a concessioner that constructs a capital improvem
 
 (2) In the event such prior concessioner is awarded a new concessions contract after the effective date of this subchapter replacing an existing concessions contract, the existing concessioner shall, instead of directly receiving such possessory interest compensation, have a leasehold surrender interest in its existing possessory interest improvements under the terms of the new contract and shall carry over as the initial value of such leasehold surrender interest (instead of construction cost) an amount equal to the value of the existing possessory interest as of the termination date of the previous contract. In the event of a dispute between the concessioner and the Secretary as to the value of such possessory interest, the matter shall be resolved through binding arbitration.
 
-(3) In the event that a new concessioner is awarded a concessions contract and is requiredto pay a prior concessioner for possessory interest in prior improvements, the new concessioner shall have a leasehold surrender interest in such prior improvements and the initial value in such leasehold surrender interest (instead of construction cost), shall be an amount equal to the value of the existing possessory interest as of the termination date of the previous contract.
+(3) In the event that a new concessioner is awarded a concessions contract and is required to pay a prior concessioner for possessory interest in prior improvements, the new concessioner shall have a leasehold surrender interest in such prior improvements and the initial value in such leasehold surrender interest (instead of construction cost), shall be an amount equal to the value of the existing possessory interest as of the termination date of the previous contract.
 
 #### (c) Transition to successor concessioner
 
@@ -46,7 +46,7 @@ For purposes of this section:
 
 #### (2) Capital improvement
 
-&emsp;The term “capital improvement” means a structure, fixture, or nonremovable equipment provided by a concessioner pursuant to the terms of a concessions contract and located on lands of the United States within a unit of the National Park System.
+&emsp;The term “capital improvement” means a structure, fixture, or nonremovable equipmentprovided by a concessioner pursuant to the terms of a concessions contract and located on lands of the United States within a unit of the National Park System.
 
 #### (f) Special reporting requirement
 
@@ -65,4 +65,12 @@ The Federal income tax laws, referred to in subsec. (a)(4), are classified gener
 The National Park Service Concessions Policy Act, referred to in subsec. (b)(1), is Pub. L. 89–249, Oct. 9, 1965, 79 Stat. 969, which was classified generally to subchapter IV (§20 et seq.) of chapter 1 of this title prior to repeal by Pub. L. 105–391, title IV, §415(a), Nov. 13, 1998, 112 Stat. 3515.
 
 The effective date of this subchapter, referred to in subsecs. (b)(2) and (c), probably means the date of enactment of this subchapter, which was approved Nov. 13, 1998.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### De Novo Review of Value Determination Decisions by United States Court of Federal Claims
+
+Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2107, provided in part that: “For fiscal year 2008 and hereafter, if the Secretary of the Interior, or either party to a value determination proceeding conducted under a National Park Service concession contract issued prior to November 13, 1998, considers that the value determination decision issued pursuant to the proceeding misinterprets or misapplies relevant contractual requirements or their underlying legal authority, the Secretary or either party may seek, within 180 days of any such decision, the de novo review of the value determination decision by the United States Court of Federal Claims. This court may make an order affirming, vacating, modifying or correcting the determination decision.”
 

@@ -62,7 +62,7 @@ The specific negotiating objectives of the United States under this section rega
 
 &emsp;(8) transparency of, and open participation in, the standards-setting processes used in foreign countries with respect to telecommunications products;
 
-&emsp;(9) the ability to have telecommunications products, which are to be located on customer premises, approved and registered by type, and, if appropriate, the establishment of procedures between the United States and foreign countries for the mutual recognition of type approvals;
+&emsp;(9) the ability to have telecommunications products, which are to be located on customer premises, approved and registered by type,and, if appropriate, the establishment of procedures between the United States and foreign countries for the mutual recognition of type approvals;
 
 &emsp;(10) access to the basic telecommunications network in foreign countries on reasonable and nondiscriminatory terms and conditions (including nondiscriminatory prices) for the provision of value-added services by United States suppliers;
 

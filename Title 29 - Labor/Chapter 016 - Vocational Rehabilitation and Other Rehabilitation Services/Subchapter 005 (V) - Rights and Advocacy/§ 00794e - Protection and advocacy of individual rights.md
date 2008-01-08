@@ -44,7 +44,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (B) Minimums
 
-&emsp;&emsp;Subject to the availability of appropriations to carry out this section, and except as provided in paragraph (4), the allotment to any system under subparagraph (A) shall be not less than $100,000 or 1/3 of 1 percent of theremainder for the fiscal year for which the allotment is made, whichever is greater, and the allotment to any system under this section for any fiscal year that is less than $100,000 or 1/3 of 1 percent of such remainder shall be increased to the greater of the two amounts.
+&emsp;&emsp;Subject to the availability of appropriations to carry out this section, and except as provided in paragraph (4), the allotment to any system under subparagraph (A) shall be not less than $100,000 or 1/3 of 1 percent of the remainder for the fiscal year for which the allotment is made, whichever is greater, and the allotment to any system under this section for any fiscal year that is less than $100,000 or 1/3 of 1 percent of such remainder shall be increased to the greater of the two amounts.
 
 #### (4) Systems within other jurisdictions
 
@@ -94,7 +94,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 #### (1) Direct payment
 
-&emsp;Notwithstanding any other provision of law, the Commissioner shall pay directly to any system that complies with the provisions of this section, the amount of the allotment of the State or the grant for the eligible system that serves the American Indian consortium involved under this section, unless the State or American Indian consortium provides otherwise.
+&emsp;Notwithstanding any other provision of law, the Commissioner shall pay directly to any system that complies with the provisions of this section, the amount of the allotment of the State or the grant for the eligible system that serves the American Indian consortiuminvolved under this section, unless the State or American Indian consortium provides otherwise.
 
 #### (2) Carryover
 
@@ -154,7 +154,7 @@ Subsec. (f)(5)(B). Pub. L. 106–402, §401(b)(3)(D), substituted “Development
 
 Subsec. (m)(1). Pub. L. 106–402, §401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
 
-1998—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted ofsubsecs. (a) to (n) relating to protection and advocacy of individual rights.
+1998—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (n) relating to protection and advocacy of individual rights.
 
 Subsec. (a)(2). Pub. L. 105–394 substituted “the Assistive Technology Act of 1998” for “the Technology-Related Assistance for Individuals With Disabilities Act of 1988 (42 U.S.C. 2201 et seq.)”.
 
@@ -195,6 +195,8 @@ Subsec. (j). Pub. L. 103–73, §112(c)(7), added subsec. (j) and struck out hea
 Subsec. (n). Pub. L. 103–73, §112(c)(5), redesignated subsec. (i) as (n).
 
 #### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

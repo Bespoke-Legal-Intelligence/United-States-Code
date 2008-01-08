@@ -58,7 +58,7 @@
 
 #### (A) Basic (and additional) benefits
 
-&emsp;&emsp;For benefits described in section 1395w–22(a)(1)(A) of this title, the amount ofthe Medicare+Choice monthly MSA premium.
+&emsp;&emsp;For benefits described in section 1395w–22(a)(1)(A) of this title, the amount of the Medicare+Choice monthly MSA premium.
 
 #### (B) Supplemental benefits
 
@@ -82,7 +82,7 @@
 
 #### (B) Supplemental benefits
 
-&emsp;&emsp;For benefits described in section 1395w–22(a)(3) of this title, the amount of the Medicare+Choice monthly supplemental beneficiary premium (as defined in subsection (b)(2)(B) of this section).
+&emsp;&emsp;For benefits described in section 1395w–22(a)(3) of this title, the amount of the Medicare+Choice monthly supplementalbeneficiary premium (as defined in subsection (b)(2)(B) of this section).
 
 #### (5) Review
 
@@ -126,7 +126,7 @@
 
 #### (ii) Application of FEHBP standard
 
-&emsp;&emsp;&emsp;Subject to clause (iv), the Secretary may only accept such a bid amount or proportion if the Secretary determines that such amount and proportions are supported by the actuarial bases provided under subparagraph (A) and reasonably and equitably reflects the revenue requirements (asused for purposes of section 300e–1(8) of this title) of benefits provided under that plan.
+&emsp;&emsp;&emsp;Subject to clause (iv), the Secretary may only accept such a bid amount or proportion if the Secretary determines that such amount and proportions are supported by the actuarial bases provided under subparagraph (A) and reasonably and equitably reflects the revenue requirements (as used for purposes of section 300e–1(8) of this title) of benefits provided under that plan.
 
 #### (iii) Noninterference
 
@@ -196,7 +196,7 @@
 
 #### (C) MA monthly supplemental beneficiary premium
 
-&emsp;&emsp;The term “MA monthly supplemental beneficiary premium” means, with respect to anMA plan, the portion of the aggregate monthly bid amount submitted under clause (i) of subsection (a)(6)(A) of this section for the year that is attributable under clause (ii)(III) of such subsection to the provision of supplemental health care benefits, less the amount of rebate credited toward such portion under subsection (b)(1)(C)(ii)(I) of this section.
+&emsp;&emsp;The term “MA monthly supplemental beneficiary premium” means, with respect to an MA plan, the portion of the aggregate monthly bid amount submitted under clause (i) of subsection (a)(6)(A) of this section for the year that is attributable under clause (ii)(III) of such subsection to the provision of supplemental health care benefits, less the amount of rebate credited toward such portion under subsection (b)(1)(C)(ii)(I) of this section.
 
 #### (D) Medicare+Choice monthly MSA premium
 
@@ -214,7 +214,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary shall determine, at the same time rates are promulgated under section 1395w–23(b)(1) of this title (beginning with 2006) for each State, the average of the risk adjustment factors to be applied under section 1395w–23(a)(1)(C) of this title to payment for enrollees in that State for MA local plans.
+&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary shall determine, at the same time rates are promulgated under section 1395w–23(b)(1) of this title (beginning with 2006) for each State, the average of the riskadjustment factors to be applied under section 1395w–23(a)(1)(C) of this title to payment for enrollees in that State for MA local plans.
 
 #### (ii) Treatment of States for first year in which local plan offered
 
@@ -286,7 +286,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (2) Beneficiary's option of payment through withholding from social security payment or use of electronic funds transfer mechanism
 
-&emsp;In accordance with regulations, an MA organization shall permit each enrollee, at the enrollee's option, to make payment of premiums (if any) under this part to the organization through—
+&emsp;In accordance with regulations, an MA organization shall permit each enrollee, at the enrollee's option, to make payment of premiums\(if any) under this part to the organization through—
 
 &emsp;&emsp;(A) withholding from benefit payments in the manner provided under section 1395s of this title with respect to monthly premiums under section 1395r of this title;
 
@@ -346,7 +346,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (A) In general
 
-&emsp;&emsp;For years before 2006, each Medicare+Choice organization (in relation to a Medicare+Choice plan, other than an MSA plan, it offers) shall provide that if there is an excess amount (as defined in subparagraph (B)) for the plan for a contract year, subject to the succeeding provisions of this subsection, the organization shall provide to individuals such additional benefits (as the organization may specify) in a value which the Secretary determines is at least equal to the adjusted excess amount (as defined in subparagraph (C)).
+&emsp;&emsp;For years before 2006, each Medicare+Choice organization (in relation to a Medicare+Choice plan, other than an MSAplan, it offers) shall provide that if there is an excess amount (as defined in subparagraph (B)) for the plan for a contract year, subject to the succeeding provisions of this subsection, the organization shall provide to individuals such additional benefits (as the organization may specify) in a value which the Secretary determines is at least equal to the adjusted excess amount (as defined in subparagraph (C)).
 
 #### (B) Excess amount
 
@@ -398,7 +398,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (4) Determination based on insufficient data
 
-&emsp;For purposes of this subsection, if the Secretary finds that there is insufficient enrollment experience to determine an average of the capitation payments to be made under this part at the beginning of a contract period or to determine (in the case of a newly operated provider-sponsored organization or other new organization) the adjusted community rate for the organization, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this part and may determine such a rate using data in the general commercial marketplace.
+&emsp;For purposes of this subsection, if the Secretary finds that there is insufficient enrollment experience to determine an average of the capitation payments to be made under this part at the beginning of a contract period or to determine (in the case of a newly operated provider-sponsored organization or other new organization) the adjusted community rate for the organization, the Secretary may determine such an average based on the enrollmentexperience of other contracts entered into under this part and may determine such a rate using data in the general commercial marketplace.
 
 #### (g) Prohibition of State imposition of premium taxes
 
@@ -474,7 +474,7 @@ Subsec. (g). Pub. L. 108–173, §232(b), inserted “or premiums paid to such o
 
 2002—Subsec. (a)(1). Pub. L. 107–188 substituted “Not later than the second Monday in September of 2002, 2003, and 2004 (or July 1 of each other year)” for “Not later than July 1 of each year” in introductory provisions.
 
-2000—Subsec. (a)(5)(A). Pub. L. 106–554, §1(a)(6) \[title VI, §622(a)\], substituted “values so submitted” for “value so submitted” and inserted at end “The Chief Actuary of the Health Care Financing Administration shall review the actuarial assumptions and data used by the Medicare+Choice organization with respect to such rates, amounts, and values so submitted to determine the appropriateness of such assumptions and data.”
+2000—Subsec. (a)(5)(A). Pub. L. 106–554, §1(a)(6) \[title VI, §622(a)\], substituted “values so submitted” for “value so submitted” and inserted at end “The ChiefActuary of the Health Care Financing Administration shall review the actuarial assumptions and data used by the Medicare+Choice organization with respect to such rates, amounts, and values so submitted to determine the appropriateness of such assumptions and data.”
 
 Subsec. (f)(1)(E), (F). Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(1)\], added subpar. (E) and redesignated former subpar. (E) as (F).
 

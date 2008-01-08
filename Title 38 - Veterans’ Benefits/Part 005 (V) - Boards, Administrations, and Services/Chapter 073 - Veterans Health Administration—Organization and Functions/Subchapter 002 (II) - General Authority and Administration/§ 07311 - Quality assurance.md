@@ -82,7 +82,7 @@ Pub. L. 107–135, title I, §123, Jan. 23, 2002, 115 Stat. 2451, required the S
 
 #### Quality Assurance Activities
 
-Section 104 of Pub. L. 102–405 provided that: “Effective on October 1, 1992, programs and activities which (1) the Secretary carries out pursuant to section 7311(a) of title 38, United States Code, or (2) are described in sections 201(a)(1) and 201(a)(3) of Public Law 100–322 \[formerly set out as a note under former section 4151 of this title\] (102 Stat. 508) shall be deemed to be part of the operation of hospitals, nursing homes, and domiciliary facilities of the Department of Veterans Affairs, without regard to the location of the duty stations of employees carrying out those programs and activities.”
+Section 104 of Pub. L. 102–405 provided that: “Effective on October 1, 1992, programs and activities which\(1) the Secretary carries out pursuant to section 7311(a) of title 38, United States Code, or (2) are described in sections 201(a)(1) and 201(a)(3) of Public Law 100–322 \[formerly set out as a note under former section 4151 of this title\] (102 Stat. 508) shall be deemed to be part of the operation of hospitals, nursing homes, and domiciliary facilities of the Department of Veterans Affairs, without regard to the location of the duty stations of employees carrying out those programs and activities.”
 
 #### Regulations for Standards of Performance in Laboratories
 

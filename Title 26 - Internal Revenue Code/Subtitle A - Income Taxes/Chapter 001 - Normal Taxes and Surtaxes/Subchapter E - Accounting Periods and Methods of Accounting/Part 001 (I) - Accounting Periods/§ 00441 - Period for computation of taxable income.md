@@ -14,7 +14,7 @@ For purposes of this subtitle, the term “taxable year” means—
 
 &emsp;(3) the period for which the return is made, if a return is made for a period of less than 12 months; or
 
-&emsp;(4) in the case of a FSC or DISC filing a return for a period of at least 12 months, the period determined under subsection (h).
+&emsp;(4) in the case of a DISC filing a return for a period of at least 12 months, the period determined under subsection (h).
 
 #### (c) Annual accounting period
 
@@ -80,15 +80,15 @@ Except as provided in section 443 (relating to returns for periods of less than 
 
 &emsp;(3) the taxpayer has an annual accounting period, but such period does not qualify as a fiscal year.
 
-#### (h) Taxable year of FSC's and DISC's
+#### (h) Taxable year of DISC's
 
 #### (1) In general
 
-&emsp;For purposes of this subtitle, the taxable year of any FSC or DISC shall be the taxable year of that shareholder (or group of shareholders with the same 12-month taxable year) who has the highest percentage of voting power.
+&emsp;For purposes of this subtitle, the taxable year of any DISC shall be the taxable year of that shareholder (or group of shareholders with the same 12-month taxable year) who has the highest percentage of voting power.
 
 #### (2) Special rule where more than one shareholder (or group) has highest percentage
 
-&emsp;If 2 or more shareholders (or groups) have the highest percentage of voting power under paragraph (1), the taxable year of the FSC or DISC shall be the same 12-month period as that of any such shareholder (or group).
+&emsp;If 2 or more shareholders (or groups) have the highest percentage of voting power under paragraph (1), the taxable year of the DISC shall be the same 12-month period as that of any such shareholder (or group).
 
 #### (3) Subsequent changes of ownership
 
@@ -114,9 +114,13 @@ Except as provided in section 443 (relating to returns for periods of less than 
 
 > &emsp;A corporation shall not be treated as a personal service corporation unless more than 10 percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence). If a corporation is a member of an affiliated group filing a consolidated return, all members of such group shall be taken into account in determining whether such corporation is a personal service corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 148; Pub. L. 88–272, title II, §235(c)(3), Feb. 26, 1964, 78 Stat. 127; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–30, title I, §102(b)(5), May 23, 1977, 91 Stat. 137; Pub. L. 98–369, div. A, title IV, §474(b)(2), title VIII, §803, July 18, 1984, 98 Stat. 830, 1000; Pub. L. 99–514, title I, §104(b)(6), title VIII, §806(c)(1), (d), Oct. 22, 1986, 100 Stat. 2105, 2364; Pub. L. 100–647, title I, §1008(e)(4), Nov. 10, 1988, 102 Stat. 3440.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 148; Pub. L. 88–272, title II, §235(c)(3), Feb. 26, 1964, 78 Stat. 127; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–30, title I, §102(b)(5), May 23, 1977, 91 Stat. 137; Pub. L. 98–369, div. A, title IV, §474(b)(2), title VIII, §803, July 18, 1984, 98 Stat. 830, 1000; Pub. L. 99–514, title I, §104(b)(6), title VIII, §806(c)(1), (d), Oct. 22, 1986, 100 Stat. 2105, 2364; Pub. L. 100–647, title I, §1008(e)(4), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 110–172, §11(g)(7), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### Amendments
+
+2007—Subsec. (b)(4). Pub. L. 110–172, §11(g)(7)(A), struck out “FSC or” before “DISC filing”.
+
+Subsec. (h). Pub. L. 110–172, §11(g)(7)(B), struck out “FSC's and” before “DISC's” in heading and “FSC or” before “DISC” in pars. (1) and (2).
 
 1988—Subsec. (i)(2). Pub. L. 100–647 inserted at end “A corporation shall not be treated as a personal service corporation unless more than 10 percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence). If a corporation is a member of an affiliated group filing a consolidated return, all members of such group shall be taken into account in determining whether such corporation is a personal service corporation.”
 
@@ -140,7 +144,7 @@ Subsec. (h). Pub. L. 98–369, §803(b), added subsec. (h).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -80,7 +80,7 @@ This section shall not apply to any office which is an Executive agency under se
 
 &emsp;&emsp;&emsp;(i) during the 36-month period preceding the date of separation of that employee, performed service for which a student loan repayment benefit was or is to be paid under section 5379 of title 5 or any other authority;
 
-&emsp;&emsp;&emsp;(ii) during the 24-month period preceding the date of separation of that employee, performed service for which a recruitment or relocation bonus was or is to be paid under section 5753 of such title or any other authority; or
+&emsp;&emsp;&emsp;(ii) during the 24-month period preceding the date of separation of that employee, performed service for which a recruitment or relocation bonus was or is to be paidunder section 5753 of such title or any other authority; or
 
 &emsp;&emsp;&emsp;(iii) during the 12-month period preceding the date of separation of that employee, performed service for which a retention bonus was or is to be paid under section 5754 of such title or any other authority.
 

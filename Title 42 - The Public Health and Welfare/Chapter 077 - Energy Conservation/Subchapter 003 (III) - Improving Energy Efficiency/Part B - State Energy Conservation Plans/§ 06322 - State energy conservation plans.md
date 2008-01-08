@@ -28,7 +28,7 @@ Each proposed State energy conservation plan to be eligible for Federal assistan
 
 &emsp;(4) mandatory thermal efficiency standards and insulation requirements for new and renovated buildings (except buildings owned or leased by the United States);
 
-&emsp;(5) a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop lightafter stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and
+&emsp;(5) a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop light after stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and
 
 &emsp;(6) procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy and the Low Income Home Energy Assistance Program administered by the Department of Health and Human Services.
 

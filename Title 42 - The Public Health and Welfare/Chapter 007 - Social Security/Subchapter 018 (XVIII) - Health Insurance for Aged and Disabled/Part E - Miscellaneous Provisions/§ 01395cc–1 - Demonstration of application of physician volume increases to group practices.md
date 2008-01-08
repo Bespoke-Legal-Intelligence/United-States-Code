@@ -16,7 +16,7 @@
 
 #### (2) Administration by contract
 
-&emsp;Except as otherwise specifically provided, the Secretary may administer the programunder this section in accordance with section 1395cc–2 of this title.
+&emsp;Except as otherwise specifically provided, the Secretary may administer the program under this section in accordance with section 1395cc–2 of this title.
 
 #### (3) Definitions
 
@@ -52,7 +52,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall specify, in accordance with this subsection, the criteria for identifying those patients of a health care group who shall be considered within the scope of the demonstration under this section for purposes of application of subsection (d) of this section and for assessment of the effectiveness of the group in achieving the objectives of this section.
+&emsp;The Secretary shall specify, in accordance with this subsection, the criteria for identifying those patients of a health care group who shall be considered within the scope of the demonstration under this section for purposes of application of subsection (d) of this section and for assessment of the effectiveness of thegroup in achieving the objectives of this section.
 
 #### (2) Other criteria
 

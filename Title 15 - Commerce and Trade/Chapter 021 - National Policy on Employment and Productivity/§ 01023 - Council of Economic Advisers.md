@@ -172,7 +172,7 @@ Sec. 4. <i>Functions</i>. (a) The principal functions of the Council are: (1) to
 
 Sec. 5. <i>Administration</i>. (a) The Council may function through established or ad hoc committees, task forces or interagency groups.
 
-(b) The Council shall have a staff to be headed by the Assistant to the President for Economic Policy. TheCouncil shall have such staff and other assistance as may be necessary to carry out the provisions of this order.
+(b) The Council shall have a staff to be headed by the Assistant to the President for Economic Policy. The Council shall have such staff and other assistance as may be necessary to carry out the provisions of this order.
 
 (c) All executive departments and agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
 

@@ -46,7 +46,7 @@ The Arms Export Control Act, referred to in subsec. (a)(3), is Pub. L. 90–629,
 
 #### Codification
 
-The text of subsecs. (a) and (b) of section 2291h of this title, which were redesignated as subsecs. (b) and (c) of this section by Pub. L. 102–583, §4(f)(2)(D), was based on section 489(a) and (b) of Pub. L. 87–195, pt. I, as added Pub. L. 100–690, title IV, §4507, Nov. 18, 1988, 102 Stat. 4286; amended Pub. L. 102–583, §4(f)(2)(B), (C), Nov. 2, 1992, 106 Stat. 4917.
+The text of subsecs. (a) and (b) of section 2291h of this title, which were redesignated as subsecs. (b) and (c) ofthis section by Pub. L. 102–583, §4(f)(2)(D), was based on section 489(a) and (b) of Pub. L. 87–195, pt. I, as added Pub. L. 100–690, title IV, §4507, Nov. 18, 1988, 102 Stat. 4286; amended Pub. L. 102–583, §4(f)(2)(B), (C), Nov. 2, 1992, 106 Stat. 4917.
 
 #### Amendments
 

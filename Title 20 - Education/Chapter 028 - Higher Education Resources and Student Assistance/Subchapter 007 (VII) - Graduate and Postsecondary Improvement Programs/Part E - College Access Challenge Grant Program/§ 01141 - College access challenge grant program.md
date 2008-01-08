@@ -1,0 +1,328 @@
+### §1141. College access challenge grant program
+
+#### (a) Authorization and appropriation
+
+There are authorized to be appropriated, and there are appropriated, to carry out this section $66,000,000 for each of the fiscal years 2008 and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.
+
+#### (b) Program authorized
+
+#### (1) Grants authorized
+
+&emsp;From amounts appropriated under subsection (a), the Secretary shall award grants, from allotments under subsection (c), to States (and to philanthropic organization,<sup>1</sup> as appropriate under paragraph (3)) having applications approved under subsection (d), to enable the State (or philanthropic organization) to pay the Federal share of the costs of carrying out the activities and services described in subsection (f).
+
+#### (2) Federal share; non-Federal share
+
+#### (A) Federal share
+
+&emsp;&emsp;The amount of the Federal share under this section for a fiscal year shall be equal to 2/3 of the costs of the activities and services described in subsection (f) that are carried out under the grant.
+
+#### (B) Non-Federal share
+
+&emsp;&emsp;The amount of the non-Federal share under this section shall be equal to 1/3 of the costs of the activities and services described in subsection (f). The non-Federal share may be in cash or in-kind, and may be provided from State resources, contributions from private organizations, or both.
+
+#### (3) Reduction for failure to pay non-Federal share
+
+&emsp;If a State fails to provide the full non-Federal share required under this subsection, theSecretary shall reduce the amount of the grant payment under this section proportionately, and may award the proportionate reduction amount of the grant directly to a philanthropic organization, as defined in subsection (i), to carry out this section.
+
+#### (4) Temporary ineligibility for subsequent payments
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall determine a grantee to be temporarily ineligible to receive a grant payment under this section for a fiscal year if—
+
+&emsp;&emsp;&emsp;(i) the grantee fails to submit an annual report pursuant to subsection (h) for the preceding fiscal year; or
+
+&emsp;&emsp;&emsp;(ii) the Secretary determines, based on information in such annual report, that the grantee is not effectively meeting the conditions described under subsection (g) and the goals of the application under subsection (d).
+
+#### (B) Reinstatement
+
+&emsp;&emsp;If the Secretary determines that a grantee is ineligible under subparagraph (A), the Secretary may enter into an agreement with the grantee setting forth the terms and conditions under which the grantee may regain eligibility to receive payments under this section.
+
+#### (c) Determination of allotment
+
+#### (1) Amount of allotment
+
+&emsp;Subject to paragraph (2), in making grant payments to grantees under this section, the allotment to each grantee for a fiscal year shall be equal to the sum of—
+
+&emsp;&emsp;(A) the amount that bears the same relation to 50 percent of the amount appropriated under subsection (a) for such fiscal year as the number of residents in the State aged 5 through 17 who are living below the poverty line applicable to the resident's family size (as determined under section 9902(2) of title 42) bears to the total number of such residents in all States; and
+
+&emsp;&emsp;(B) the amount that bears the same relation to 50 percent of the amount appropriated under subsection (a) for such fiscal year as the number of residents in the State aged 15 through 44 who are living below the poverty line applicable to the individual's family size (as determined under section 9902(2) of title 42) bears to the total number of such residents in all States.
+
+#### (2) Minimum amount
+
+&emsp;The allotment for each State under this section for a fiscal year shall not be an amount that is less than 0.5 percent of the total amount appropriated under subsection (a) for such fiscal year.
+
+#### (d) Submission and contents of application
+
+#### (1) In general
+
+&emsp;For each fiscal year for which a grantee desires a grant payment under subsection (b), the State agency with jurisdiction over higher education, or another agency designated by the Governor or chief executive of the State to administer the program under this section, or a philanthropic organization, in accordance with subsection (b)(3), shall submit an application to the Secretary at such time, in such manner, and containing the information described in paragraph (2).
+
+#### (2) Application
+
+&emsp;An application submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;(A) A description of the grantee's capacity to administer the grant under this section and report annually to the Secretary on the activities and services described in subsection (f).
+
+&emsp;&emsp;(B) A description of the grantee's plan for using the grant funds to meet the requirements of subsections (f) and (g), including plans for how the grantee will make special efforts to—
+
+&emsp;&emsp;&emsp;(i) provide such benefits to students in the State that are underrepresented in postsecondary education; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a philanthropic organization that operates in more than one State, provide benefits to such students in each such State for which the philanthropic organization is receiving grant funds under this section.
+
+&emsp;&emsp;(C) A description of how the grantee will provide or coordinate the provision of the non-Federal share from State resources or private contributions.
+
+&emsp;&emsp;(D) A description of—
+
+&emsp;&emsp;&emsp;(i) the structure that the grantee has in place to administer the activities and services described in subsection (f); or
+
+&emsp;&emsp;&emsp;(ii) the plan to develop such administrative capacity.
+
+#### (e) Subgrants to nonprofit organizations
+
+A State receiving a payment under this section may elect to make a subgrant to one or more nonprofit organizations in the State, including an eligible not-for-profit holder (as defined in section 1085(p) of this title), or a partnership of such organizations, to carry out activities or services described in subsection (f), if the nonprofit organization or partnership—
+
+&emsp;(1) was in existence on the day before the date of the enactment of this Act; and
+
+&emsp;(2) as of such day, was participating in activities and services related to increasing access to higher education, such as those activities and services described in subsection (f).
+
+#### (f) Allowable uses
+
+#### (1) In general
+
+&emsp;Subject to paragraph (3), a grantee may use a grant payment under this section only for the following activities and services, pursuant to the conditions under subsection (g):
+
+&emsp;&emsp;(A) Information for students and families regarding—
+
+&emsp;&emsp;&emsp;(i) the benefits of a postsecondary education;
+
+&emsp;&emsp;&emsp;(ii) postsecondary education opportunities;
+
+&emsp;&emsp;&emsp;(iii) planning for postsecondary education; and
+
+&emsp;&emsp;&emsp;(iv) career preparation.
+
+&emsp;&emsp;(B) Information on financing options for postsecondary education and activities that promote financial literacy and debt management among students and families.
+
+&emsp;&emsp;(C) Outreach activities for students who may be at risk of not enrolling in or completing postsecondary education.
+
+&emsp;&emsp;(D) Assistance in completion of the Free Application for Federal Student Aid or other common financial reporting form under section 1090(a) of this title.
+
+&emsp;&emsp;(E) Need-based grant aid for students.
+
+&emsp;&emsp;(F) Professional development for guidance counselors at middle schools and secondary schools, and financial aid administrators and college admissions counselors at institutions of higher education, to improve such individuals’ capacity to assist students and parents with—
+
+&emsp;&emsp;&emsp;(i) understanding—
+
+&emsp;&emsp;&emsp;&emsp;(I) entrance requirements for admission to institutions of higher education; and
+
+&emsp;&emsp;&emsp;&emsp;(II) State eligibility requirements for Academic Competitiveness Grants or National SMART Grants under section 1070a–1 of this title, and other financial assistance that is dependent upon a student's coursework;
+
+&emsp;&emsp;&emsp;(ii) applying to institutions of higher education;
+
+&emsp;&emsp;&emsp;(iii) applying for Federal student financial assistance and other State, local, and private student financial assistance and scholarships;
+
+&emsp;&emsp;&emsp;(iv) activities that increase students’ ability to successfully complete the coursework required for a postsecondary degree, including activities such as tutoring or mentoring; and
+
+&emsp;&emsp;&emsp;(v) activities to improve secondary school students’ preparedness for postsecondary entrance examinations.
+
+&emsp;&emsp;(G) Student loan cancellation or repayment (as applicable), or interest rate reductions, for borrowers who are employed in a high-need geographical area or a high-need profession in the State, as determined by the State.
+
+#### (2) Prohibited uses
+
+&emsp;Funds made available under this section shall not be used to promote any lender's loans.
+
+#### (3) Use of funds for administrative purposes
+
+&emsp;A grantee may use not more than 6 percent of the total amount of the sum of the Federal share provided under this section and the non-Federal share required under this section for administrative purposes relating to the grant under this section.
+
+#### (g) Special conditions
+
+#### (1) Availability to students and families
+
+&emsp;A grantee receiving a grant payment under this section shall—
+
+&emsp;&emsp;(A) make the activities and services described in subparagraphs (A) through (F) of subsection (f)(1) that are funded under the payment available to all qualifying students and families in the State;
+
+&emsp;&emsp;(B) allow students and families to participate in the activities and services without regard to—
+
+&emsp;&emsp;&emsp;(i) the postsecondary institution in which the student enrolls;
+
+&emsp;&emsp;&emsp;(ii) the type of student loan the student receives;
+
+&emsp;&emsp;&emsp;(iii) the servicer of such loan; or
+
+&emsp;&emsp;&emsp;(iv) the student's academic performance;
+
+&emsp;&emsp;(C) not charge any student or parent a fee or additional charge to participate in the activities or services; and
+
+&emsp;&emsp;(D) in the case of an activity providing grant aid, not require a student to meet any condition other than eligibility for Federal financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, except as provided for in the loan cancellation or repayment or interest rate reductions described in subsection (f)(1)(G).
+
+#### (2) Priority
+
+&emsp;A grantee receiving a grant payment under this section shall, in carrying out any activity or service described in subsection (f)(1) with the grant funds, prioritize students and families who are living below the poverty line applicable to the individual's family size (as determined under section 9902(2) of title 42).
+
+#### (3) Disclosures
+
+#### (A) Organizational disclosures
+
+&emsp;&emsp;In the case of a State that has chosen to make a payment to an eligible not-for-profit holder in the State in accordance with subsection (e), the holder shall clearly and prominently indicate the name of the holder and the nature of the holder's work in connection with any of the activities carried out, or any information or services provided, with such funds.
+
+#### (B) Informational disclosures
+
+&emsp;&emsp;Any information about financing options for higher education provided through an activity or service funded under this section shall—
+
+&emsp;&emsp;&emsp;(i) include information to students and the students’ parents of the availability of Federal, State, local, institutional, and other grants and loans for postsecondary education; and
+
+&emsp;&emsp;&emsp;(ii) present information on financial assistance for postsecondary education that is not provided under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in a manner that is clearly distinct from information on student financial assistance under such title.
+
+#### (4) Coordination
+
+&emsp;A grantee receiving a grant payment under this section shall attempt to coordinate the activities carried out with the grant payment with any existing activities that are similar to such activities, and with any other entities that support the existing activities in the State.
+
+#### (h) Report
+
+A grantee receiving a payment under this section shall prepare and submit an annual reportto the Secretary on the activities and services carried out under this section, and on the implementation of such activities and services. The report shall include—
+
+&emsp;(1) each activity or service that was provided to students and families over the course of the year;
+
+&emsp;(2) the cost of providing each activity or service;
+
+&emsp;(3) the number, and percentage, if feasible and applicable, of students who received each activity or service; and
+
+&emsp;(4) the total contributions from private organizations included in the grantee's non-Federal share for the fiscal year.
+
+#### (i) Definitions
+
+In this section:
+
+#### (1) Philanthropic organization
+
+&emsp;The term “philanthropic organization” means a non-profit organization—
+
+&emsp;&emsp;(A) that does not receive funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 or under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
+
+&emsp;&emsp;(B) that is not a local educational agency or an institution of higher education;
+
+&emsp;&emsp;(C) that has a demonstrated record of dispersing grant aid to underserved populations to ensure access to, and participation in, higher education;
+
+&emsp;&emsp;(D) that is affiliated with an eligible consortia (as defined in paragraph (2)) to carry out this section; and
+
+&emsp;&emsp;(E) the primary purpose of which is to provide financial aid and support services to students from underrepresented populations to increase the number of such students who enter and remain in college.
+
+#### (2) Eligible consortia
+
+&emsp;The term “eligible consortia” means a partnership of 2 or more entities that have agreed to work together to carry out this section that—
+
+&emsp;&emsp;(A) includes—
+
+&emsp;&emsp;&emsp;(i) a philanthropic organization, which serves as the manager of the consortia;
+
+&emsp;&emsp;&emsp;(ii) a State that demonstrates a commitment to ensuring the creation of a Statewide system to address the issues of early intervention and financial support for eligible students to enter and remain in college; and
+
+&emsp;&emsp;&emsp;(iii) at the discretion of the philanthropic organization described in clause (i), additional partners, including other non-profit organizations, government entities (including local municipalities, school districts, cities, and counties), institutions of higher education, and other public or private programs that provide mentoring or outreach programs; and
+
+&emsp;&emsp;(B) conducts activities to assist students with entering and remaining in college, which may include—
+
+&emsp;&emsp;&emsp;(i) providing need-based grants to students;
+
+&emsp;&emsp;&emsp;(ii) providing early notification to low-income students of their potential eligibility for Federal financial aid (which may include assisting students and families with filling out FAFSA forms), as well as other financial aid and other support available from the eligible consortia;
+
+&emsp;&emsp;&emsp;(iii) encouraging increased student participation in higher education through mentoring or outreach programs; and
+
+&emsp;&emsp;&emsp;(iv) conducting marketing and outreach efforts that are designed to—
+
+&emsp;&emsp;&emsp;&emsp;(I) encourage full participation of students in the activities of the consortia that carry out this section; and
+
+&emsp;&emsp;&emsp;&emsp;(II) provide the communities impacted by the activities of the consortia with a general knowledge about the efforts of the consortia.
+
+#### (3) Grantee
+
+&emsp;The term “grantee” means—
+
+&emsp;&emsp;(A) a State awarded a grant under this section; or
+
+&emsp;&emsp;(B) with respect to such a State that has failed to meet the non-Federal share requirement of subsection (b), a philanthropic organization awarded the proportionate reduction amount of such a grant under subsection (b)(3).
+
+(Pub. L. 89–329, title VII, §771, as added Pub. L. 110–84, title VIII, §801, Sept. 27, 2007, 121 Stat. 812.)
+
+#### References in Text
+
+The date of the enactment of this Act, referred to in subsec. (e)(1), probably means the date of enactment of Pub. L. 110–84, which enacted this section and was approved Sept. 27, 2007.
+
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (i)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+
+#### Prior Provisions
+
+A prior section 771 of Pub. L. 89–329 was classified to section 1132h of this title, prior to repeal by Pub. L. 102–325.
+
+Another prior section 771 of Pub. L. 89–329 was classified to section 1132d–11 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+Prior sections 1141 and 1142 were repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998.
+
+Section 1141, Pub. L. 89–329, title XII, §1201, formerly title VIII, §801, Nov. 8, 1965, 79 Stat. 1269; renumbered title XII, §1201, and amended Pub. L. 90–575, title II, §§251, 293, 294, Oct. 16, 1968, 82 Stat. 1042, 1050, 1051; Pub. L. 91–230, title VIII, §806(b), Apr. 13, 1970, 84 Stat. 192; Pub. L. 92–318, title I, §131(d)(1), June 23, 1972, 86 Stat. 260; Pub. L. 94–482, title I, §181(a), formerly §181, Oct. 12, 1976, 90 Stat. 2167, renumbered Pub. L. 95–43, §1(b)(7), June 15, 1977, 91 Stat. 218; Pub. L. 95–180, §1(a), Nov. 15, 1977, 91 Stat. 1372; Pub. L. 96–374, title XIII, §1391(a)(1), (b), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 100–50, §21(a), June 3, 1987, 101 Stat. 360; Pub. L. 102–26, §2(a)(4), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title XII, §1201, July 23, 1992, 106 Stat. 792; Pub. L. 102–394, title III, §308(a), Oct. 6, 1992, 106 Stat. 1820; Pub. L. 103–82, title I, §111(b)(5), Sept. 21, 1993, 107 Stat. 861; Pub. L. 103–208, §2(j)(48), Dec. 20, 1993, 107 Stat. 2485, defined terms for purposes of this chapter. See sections 1001 and 1003 of this title.
+
+Section 1142, Pub. L. 89–329, title XII, §1202, formerly §1207, as added Pub. L. 94–482, title I, §182, Oct. 12, 1976, 90 Stat. 2167; renumbered §1202, Pub. L. 96–374, title XII,§1201, Oct. 3, 1980, 94 Stat. 1493; amended Pub. L. 102–325, title XII, §1202, July 23, 1992, 106 Stat. 793, related to antidiscrimination requirements for institutions of higher education receiving Federal assistance. See section 1011 of this title.
+
+Another prior section 1142, Pub. L. 89–329, title XII, §1202, formerly title VIII, §802, Nov. 8, 1965, 79 Stat. 1270; renumbered title XII, §1202, Pub. L. 90–575, title II, §251, Oct. 16, 1968, 82 Stat. 1042, related to method of payment pursuant to grants, loans, or contracts under this chapter, prior to repeal by section 1201 of Pub. L. 96–374.
+
+Prior sections 1142a and 1142b were repealed by Pub. L. 96–374, title XII, §1201, title XIII, §1393(a), Oct. 3, 1980, 94 Stat. 1493, 1504, effective Oct. 1, 1980.
+
+Section 1142a, Pub. L. 89–329, title XII, §1202, as added Pub. L. 92–318, title I, §196, June 23, 1972, 86 Stat. 324, related to designation of a State postsecondary education commission.
+
+Section 1142b, Pub. L. 89–329, title XII, §1203, as added Pub. L. 92–318, title I, §196, June 23, 1972, 86 Stat. 325; amended Pub. L. 94–482, title I, §179, Oct. 12, 1976, 90 Stat. 2166; Pub. L. 96–49, §12, Aug. 13, 1979, 93 Stat. 354, related to comprehensive statewide planning.
+
+Prior sections 1143 to 1145g were repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998.
+
+Section 1143, Pub. L. 89–329, title XII, §1203, as added Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, related to State agreements.
+
+Another prior section 1143, Pub. L. 89–329, title XII, §1203, formerly title VIII, §803, Nov. 8, 1965, 79 Stat. 1270; renumbered title XII, §1203, Pub. L. 90–575, title II, §251, Oct. 16, 1968, 82 Stat. 1042, provided for delegation of functions by Commissioner of Education and utilization of services and facilities of other agencies, prior to repeal by Pub. L. 91–230, title IV, §401(c)(5), Apr. 13, 1970, 84 Stat. 173.
+
+Section 1144, Pub. L. 89–329, title XII, §1204, formerly title VIII, §804, Nov. 8, 1965, 79 Stat. 1270; renumbered title XII, §1204, Pub. L. 90–575, title II, §251, Oct. 16, 1968, 82 Stat. 1042; amended Pub. L. 91–230, title IV, §401(f)(6), Apr. 13, 1970, 84 Stat. 173, prohibited Federal control over education.
+
+Section 1144a, Pub. L. 89–329, title XII, §1204, as added Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1495; amended Pub. L. 99–498, title XII, §1201, Oct. 17, 1986, 100 Stat. 1573; Pub. L. 102–73, title VIII, §801(c), July 25, 1991, 105 Stat. 360; Pub. L. 103–208, §2(j)(49), Dec. 20, 1993, 107 Stat. 2485, related to treatment of territories and territorial student assistance. See section 1011b of this title.
+
+Another prior section 1144a, Pub. L. 92–318, title V, §510, June 23, 1972, 86 Stat. 353, set forth sense of Congress that governing boards of institutions of higher education give consideration to student participation on such boards, prior to being omitted from the Code.
+
+Section 1145, Pub. L. 89–329, title XII, §1205, as added Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1495; amended Pub. L. 99–498, title XII, §1202, Oct. 17, 1986, 100 Stat. 1573; Pub. L. 102–325, title XII, §1203, July 23, 1992, 106 Stat. 793; Pub. L. 103–208, §2(j)(50)–(53), Dec. 20, 1993, 107 Stat. 2485, related to National Advisory Committee on Institutional Quality and Integrity. See section 1011c of this title.
+
+Another prior section 1145, Pub. L. 89–329, title XII, §1205, as added Pub. L. 90–575, title II, §291(a), Oct. 16, 1968, 82 Stat. 1049; amended Pub. L. 91–230, title IV, §401(h)(4), Apr. 13, 1970, 84 Stat. 174, established an Advisory Council on Graduate Education in the Office of Education, prior to repeal by section 1201 of Pub. L. 96–374.
+
+Section 1145a, Pub. L. 89–329, title XII, §1206, as added Pub. L. 99–498, title XII, §1203, Oct. 17, 1986, 100 Stat. 1573, related to Commission to study postsecondary institutional and programmatic recognition process.
+
+Another prior section 1145a, Pub. L. 89–329, title XII, §1206, as added Pub. L. 92–318, title I, §197, June 23, 1972, 86 Stat. 325, related to supplying cost-of-education data by institutions of higher education, prior to repeal by Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, eff. Oct. 1, 1980.
+
+Section 1145b, Pub. L. 89–329, title XII, §1207, as added Pub. L. 99–498, title XII, §1204, Oct. 17, 1986, 100 Stat. 1576, related to student representation in connection with administration of this chapter. See section 1011d of this title.
+
+Another prior section 1145b, Pub. L. 89–329, title XII, §1202, formerly §1207, as added Pub. L. 94–482, title I, §182, Oct. 12, 1976, 90 Stat. 2167; renumbered title XII, §1202, Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, which related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, was transferred to section 1142 of this title and subsequently repealed by Pub. L. 105–244.
+
+Section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 99–498, title XII, §1205, Oct. 17, 1986, 100 Stat. 1577, related to financial responsibility of foreign students. See section 1011e of this title.
+
+Another prior section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 94–482, title I, §183, Oct. 12, 1976, 90 Stat. 2167, related to availability of appropriations, prior to repeal by Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, eff. Oct. 1, 1980.
+
+Section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 102–325, title XII, §1204, July 23, 1992, 106 Stat. 794; amended Pub. L. 103–208, §2(j)(54), Dec. 20, 1993, 107 Stat. 2485, related to disclosures of foreign gifts. See section 1011f of this title.
+
+Another prior section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 99–498, title XII, §1206(a), Oct. 17, 1986, 100 Stat. 1577, related to disclosures of foreign gifts, prior to repeal by Pub. L. 99–498, title XII, §1206(b), Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §22(f), June 3, 1987, 101 Stat. 362, effective Aug. 1, 1989.
+
+Section 1145d–1, Pub. L. 89–329, title XII, §1210, as added Pub. L. 100–50, §21(b), June 3, 1987, 101 Stat. 360, related to application of peer review process. See section 1011g of this title.
+
+Section 1145e, Pub. L. 89–329, title XII, §1211, formerly §1210, as added Pub. L. 99–498, title XII, §1207, Oct. 17, 1986, 100 Stat. 1579; renumbered §1211, Pub. L. 100–50, §21(b), June 3, 1987, 101 Stat. 360, related to aggregate limit of authorization of appropriations.
+
+Section 1145f, Pub. L. 89–329, title XII, §1212, formerly §1211, as added Pub. L. 100–418, title VI, §6231, Aug. 23, 1988, 102 Stat. 1518; renumbered §1212 and amended Pub. L. 103–208, §2(j)(55), (56), Dec. 20, 1993, 107 Stat. 2485, related to technology transfer centers.
+
+Section 1145g, Pub. L. 89–329, title XII, §1213, as added Pub. L. 101–226, §22(a)(1), Dec. 12, 1989, 103 Stat. 1938, related to drug and alcohol abuse prevention. See section 1011i of this title.
+
+A prior section 1145h, Pub. L. 102–325, title XV, §1541, July 23, 1992, 106 Stat. 834; Pub. L. 103–208, §2(k)(13), Dec. 20, 1993, 107 Stat. 2486, authorized grants for campus sexual offense education, prior to repeal by Pub. L. 105–332, §6(b)(3), Oct. 31, 1998, 112 Stat. 3128.
+
+A prior section 1146, Pub. L. 96–374, title XIII, §1392, Oct. 3, 1980, 94 Stat. 1504, which related to contract authority, was transferred to section 1154 of this title.
+
+Another prior section 1146, Pub. L. 89–329, title XII, §1206, as added Pub. L. 90–575, title II, §292, Oct. 16, 1968, 82 Stat. 1050, provided for dissemination of information and authorization of $2,000,000 for fiscal year ending June 30, 1970, and such amount as Congress might authorize for fiscal year ending June 30, 1971, prior to repeal by Pub. L. 91–230, title IV, §401(d)(5), Apr. 13, 1970, 84 Stat. 173.
+
+A prior section 1146a, Pub. L. 99–498, §3, Oct. 17, 1986, 100 Stat. 1278, which provided that contracting authority be subject to appropriations, was transferred, and is set out as a Contracting Authority Subject to Appropriations note under section 1154 of this title.
+
+Prior sections 1147 to 1150, Pub. L. 89–329, title XII, §§1207–1210, as added Pub. L. 90–575, title II, §295, Oct. 16, 1968, 82 Stat. 1051, 1052, provided for program planning and evaluation for higher education programs; advance funding; evaluation reports and Congressional review; and availability of appropriations on academic or school year basis, prior to repeal by Pub. L. 91–230, title IV, §401(b), Apr. 13, 1970, 84 Stat. 172.
+
+#### Effective Date
+
+Section effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as an Effective Date of 2007 Amendment note under section 1070a of this title.
+

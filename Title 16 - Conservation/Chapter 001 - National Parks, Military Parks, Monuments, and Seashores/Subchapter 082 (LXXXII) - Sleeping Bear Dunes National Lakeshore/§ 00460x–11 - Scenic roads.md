@@ -6,7 +6,7 @@ In order to facilitate visitor travel, provide scenic overlooks for public enjoy
 
 #### (b) Exchange or sale of lands in Leelanau County
 
-Except as provided in subsection (c) of this section, any lands in Leelanau County acquired by the Secretary under this section before October 22, 1982, which are within the parkway zone depicted on the map specified in section 460x–1(a) of this title but which are not within, or contiguous to, the lakeshore zone as depicted on such map may be exchanged by the Secretary for other lands of approximately equal value in the lakeshore. If the Secretary is unable to effect such an exchange, such lands may be offered for sale to the person who owned such lands immediately before their acquisition by the Secretary. If such previous owner declines such offer, the Secretary may sell such lands to any buyer. Proceeds from any sale under this subsection shall be credited to the account established under section 17 of this Act.
+Except as provided in subsection (c) of this section, any lands in Leelanau County acquired by the Secretary under this section before October 22, 1982, which are within the parkway zone depicted on the map specified in section 460x–1(a) of this title but which are not within, or contiguous to, the lakeshore zone as depicted on such map may be exchanged by the Secretary for other lands of approximately equal value in the lakeshore. If the Secretary is unable to effect such an exchange, such lands may be offered for sale to the person who owned such lands immediately before their acquisition by the Secretary. If such previous owner declines such offer, the Secretary may sell such lands to anybuyer. Proceeds from any sale under this subsection shall be credited to the account established under section 17 of this Act.
 
 #### (c) Administration of certain lands as Resource Preservation Areas
 
@@ -67,8 +67,4 @@ Section 17 of this Act, referred to in subsec. (b), probably means proposed sect
 1994—Subsec. (e)(4)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 1982—Pub. L. 97–361 designated existing provisions as subsec. (a), inserted “Benzie County and within” after “generally lying within”, and added subsecs. (b) to (h).
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

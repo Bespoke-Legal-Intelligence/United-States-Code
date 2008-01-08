@@ -58,7 +58,7 @@ These Rules, referred to in par. (a), are the Inland Navigational Rules which ar
 
 Annex I to these Rules, referred to in par. (b)(iii), is to be established by the Secretary under section 2071 of this title.
 
-The Vessel Bridge-to-Bridge Radiotelephone Act, referred to in par. (h), is Pub. L. 92–63, Aug. 4, 1971, 85 Stat. 164, as amended, which is classified generally tochapter 24 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Vessel Bridge-to-Bridge Radiotelephone Act, referred to in par. (h), is Pub. L. 92–63, Aug. 4, 1971, 85 Stat. 164, as amended, which is classified generally to chapter 24 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 
 #### Codification
 

@@ -56,9 +56,9 @@ In addition to the Visitors <sup>1</sup> Center <sup>1</sup>, the Secretary ma
 
 #### (f) Livestock grazing
 
-(1) So long as the Secretary determines that domestic livestock grazing is compatible with the purposes for which the conservation area is established, the Secretary shall permit such use of public lands within the conservation area, to the extent such use of such lands is compatiblewith such purposes. Determinations as to compatibility shall be made in connection with the initial revision of management plans for the conservation area and in connection with each plan review required by subsection (a)(1)(B) of this section.
+(1) So long as the Secretary determines that domestic livestock grazing is compatible with the purposes for which the conservation area is established, the Secretary shall permit such use of public lands within the conservation area, to the extent such use of such lands is compatible with such purposes. Determinations as to compatibility shall be made in connection with the initial revision of management plans for the conservation area and in connection with each plan review required by subsection (a)(1)(B) of this section.
 
-(2) Any livestock grazing on public lands within the conservation area, and activities the Secretary determines necessary to carry out proper and practical grazing management programs on such lands (such as animal damage control activities) shall be managed in accordance with the Act of June 28, 1934 (43 U.S.C. 315 et seq.; commonly referred to as the “Taylor Grazing Act”), section 1752 of title 43, other laws applicable to such use and programs on the public lands, and the management plan for the conservation area.
+(2) Any livestock grazing on public lands within the conservation area, and activities the Secretary determines necessary to carry out proper and practical grazing management programs onsuch lands (such as animal damage control activities) shall be managed in accordance with the Act of June 28, 1934 (43 U.S.C. 315 et seq.; commonly referred to as the “Taylor Grazing Act”), section 1752 of title 43, other laws applicable to such use and programs on the public lands, and the management plan for the conservation area.
 
 #### (g) Cooperative agreements
 
@@ -79,10 +79,6 @@ Notwithstanding any provision of this subchapter, or regulations and management 
 Act of June 28, 1934, referred to in subsec. (f), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, which is classified principally to subchapter I (§315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 315 of Title 43 and Tables.
 
 The Federal Power Act, referred to in subsec. (i), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

@@ -26,7 +26,7 @@ A payment may not be made to a State under this section with respect to expendit
 
 #### (e) <sup>1</sup> Caseworker visitation standard
 
-(1) The Secretary may not make a payment to a State under this subpart for a period in fiscalyear 2008, unless the State has provided to the Secretary data which shows, for fiscal year 2007—
+(1) The Secretary may not make a payment to a State under this subpart for a period in fiscal year 2008, unless the State has provided to the Secretary data which shows, for fiscal year 2007—
 
 &emsp;(A) the percentage of children in foster care under the responsibility of the State who were visited on a monthly basis by the caseworker handling the case of the child; and
 

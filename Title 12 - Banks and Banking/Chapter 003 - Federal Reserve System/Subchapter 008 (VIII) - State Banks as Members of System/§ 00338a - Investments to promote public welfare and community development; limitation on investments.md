@@ -16,7 +16,7 @@ Pub. L. 109–173, in fourth sentence, substituted “Deposit Insurance Fund” 
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(8). See 1996 Amendment note below.
 
-1996—Pub. L. 104—208, §2704(d)(8), which directed the amendment of the fourth sentence by substituting “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See EffectiveDate of 1996 Amendment note below and 2006 Amendment note above.
+1996—Pub. L. 104—208, §2704(d)(8), which directed the amendment of the fourth sentence by substituting “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 #### Effective Date of 2006 Amendment
 

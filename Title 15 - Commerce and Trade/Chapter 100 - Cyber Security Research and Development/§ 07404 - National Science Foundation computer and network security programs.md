@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) a comprehensive plan by which the institution or consortium will build instructional capacity in computer and information security;
 
-&emsp;&emsp;&emsp;(iii) a description of relevant collaborations with government agencies or privateindustry that inform the instructional program in computer and network security;
+&emsp;&emsp;&emsp;(iii) a description of relevant collaborations with government agencies or private industry that inform the instructional program in computer and network security;
 
 &emsp;&emsp;&emsp;(iv) a survey of the applicant's historic student enrollment and placement data in fields related to computer and network security and a study of potential enrollment and placement for students enrolled in the proposed computer and network security program; and
 
@@ -166,7 +166,7 @@ Computer and network security shall be included among the fields of specializati
 
 #### (1) In general
 
-&emsp;The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs to enable graduate students to pursue academic careers in cyber security upon completion of doctoral degrees.
+&emsp;The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs toenable graduate students to pursue academic careers in cyber security upon completion of doctoral degrees.
 
 #### (2) Merit review; competition
 

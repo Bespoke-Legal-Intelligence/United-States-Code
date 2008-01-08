@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A)(i) there is a history of dumping and material injury by reason of dumped imports in the United States or elsewhere of the subject merchandise, or
 
-&emsp;&emsp;(ii) the person by whom, or for whose account, the merchandise was imported knew or should have known that the exporter was selling the subject merchandise at less than its fair value and that there would be material injury by reason of such sales, and
+&emsp;&emsp;(ii) the person by whom, or for whose account, the merchandise was imported knewor should have known that the exporter was selling the subject merchandise at less than its fair value and that there would be material injury by reason of such sales, and
 
 &emsp;&emsp;(B) there have been massive imports of the subject merchandise over a relatively short period.
 
@@ -66,7 +66,7 @@ Commission standard for retroactive application.—
 
 &emsp;&emsp;(i)
 
-In general.—If the finding of the administering authority under subsection\(a)(3) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(3) of this section are likely to undermine seriously the remedial effect of the antidumping duty order to be issued under section 1673e of this title.
+In general.—If the finding of the administering authority under subsection (a)(3) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(3) of this section are likely to undermine seriously the remedial effect of the antidumping duty order to be issued under section 1673e of this title.
 
 &emsp;&emsp;(ii)
 
@@ -96,7 +96,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;(ii) the administering authority shall order the posting of a cash deposit, bond, or other security, as the administering authority deems appropriate, for each entry of the subject merchandise in an amount based on the estimated weighted average dumping margin or the estimated all-others rate, whichever is applicable, and
 
-&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, the administering authority shall order the suspension of liquidation under section 1673b(d)(2) of this title.
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, the administering authority shall orderthe suspension of liquidation under section 1673b(d)(2) of this title.
 
 #### (2) Issuance of order; effect of negative determination
 
@@ -186,7 +186,7 @@ Subsec. (c)(4). Pub. L. 98–573, §605(b)(2), added par. (4).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the UnitedStates \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1988 Amendment
 

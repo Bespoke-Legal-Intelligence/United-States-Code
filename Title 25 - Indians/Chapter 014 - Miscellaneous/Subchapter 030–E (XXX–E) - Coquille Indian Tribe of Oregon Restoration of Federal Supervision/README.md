@@ -13,3 +13,4 @@
 - [&sect; 00715e - Membership rolls](%C2%A7%2000715e%20-%20Membership%20rolls.md)
 - [&sect; 00715f - Interim government](%C2%A7%2000715f%20-%20Interim%20government.md)
 - [&sect; 00715g - Tribal constitution](%C2%A7%2000715g%20-%20Tribal%20constitution.md)
+- [&sect; 00715h - Land and interests of Coquille Indian Tribe, Oregon](%C2%A7%2000715h%20-%20Land%20and%20interests%20of%20Coquille%20Indian%20Tribe%2C%20Oregon.md)

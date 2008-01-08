@@ -30,7 +30,7 @@ In this chapter:
 
 &emsp;&emsp;(A) the person is returned to United States control alive;
 
-&emsp;&emsp;(B) the remains of the person are recovered and, if not identifiable through visual means as those of the missing person, are identified as those of the missing person by a practitioner of an appropriate forensic science; or
+&emsp;&emsp;(B) the remains of the person are recovered and, if not identifiable through visual means as those of the missing person, are identifiedas those of the missing person by a practitioner of an appropriate forensic science; or
 
 &emsp;&emsp;(C) credible evidence exists to support another determination of the person's status.
 

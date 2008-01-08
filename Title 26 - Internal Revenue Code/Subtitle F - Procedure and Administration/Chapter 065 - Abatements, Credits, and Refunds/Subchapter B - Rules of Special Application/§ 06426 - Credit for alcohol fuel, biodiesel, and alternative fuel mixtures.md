@@ -118,7 +118,7 @@ There shall be allowed as a credit—
 
 &emsp;&emsp;(E) any liquid fuel derived from coal (including peat) through the Fischer-Tropsch process, and
 
-&emsp;&emsp;(F) liquid hydrocarbons derived from biomass (as defined in section 45K(c)(3)).
+&emsp;&emsp;(F) liquid fuel derived from biomass (as defined in section 45K(c)(3)).
 
 > &emsp;Such term does not include ethanol, methanol, or biodiesel.
 
@@ -172,13 +172,21 @@ There shall be allowed as a credit—
 
 Rules similar to the rules under section 40(c) shall apply for purposes of this section.
 
-(Added Pub. L. 108–357, title III, §301(a), Oct. 22, 2004, 118 Stat. 1459; amended Pub. L. 109–58, title XIII, §1344(a), Aug. 8, 2005, 119 Stat. 1052; Pub. L. 109–59, title XI, §§11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, 119 Stat. 1947, 1948, 1969.)
+#### (h) Denial of double benefit
+
+No credit shall be determined under subsection (d) or (e) with respect to any fuel with respect to which credit may be determined under subsection (b) or (c) or under section 40 or 40A.
+
+(Added Pub. L. 108–357, title III, §301(a), Oct. 22, 2004, 118 Stat. 1459; amended Pub. L. 109–58, title XIII, §1344(a), Aug. 8, 2005, 119 Stat. 1052; Pub. L. 109–59, title XI, §§11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, 119 Stat. 1947, 1948, 1969; Pub. L. 110–172, §5(a)(2), (3), Dec. 29, 2007, 121 Stat. 2479.)
 
 #### Prior Provisions
 
-A prior section 6426, added Pub. L. 91–258, title II, §206(c), May 21, 1970, 84 Stat. 245; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat.1834, provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by Pub. L. 97–248, title II, §280(c)(2)(G), (d), Sept. 3, 1982, 96 Stat. 564, 565, applicable with respect to transportation beginning after Aug. 31, 1982.
+A prior section 6426, added Pub. L. 91–258, title II, §206(c), May 21, 1970, 84 Stat. 245; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by Pub. L. 97–248, title II, §280(c)(2)(G), (d), Sept. 3, 1982, 96 Stat. 564, 565, applicable with respect to transportation beginning after Aug. 31, 1982.
 
 #### Amendments
+
+2007—Subsec. (d)(2)(F). Pub. L. 110–172, §5(a)(2), substituted “fuel” for “hydrocarbons”.
+
+Subsec. (h). Pub. L. 110–172, §5(a)(3), added subsec. (h).
 
 2005—Pub. L. 109–59, §11113(b)(3)(A), substituted “alcohol fuel, biodiesel, and alternative fuel” for “alcohol fuel and biodiesel” in section catchline.
 
@@ -195,6 +203,10 @@ Subsec. (d). Pub. L. 109–59, §11113(b)(2), added subsec. (d). Former subsec. 
 Subsec. (d)(2)(F). Pub. L. 109–59, §11151(e)(2), substituted “section 45K(c)(3)” for “section 29(c)(3)”.
 
 Subsecs. (e) to (g). Pub. L. 109–59, §11113(b)(2), added subsec. (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–172, §5(b), Dec. 29, 2007, 121 Stat. 2479, provided that: “The amendments made by this section \[amending this section and section 6427 of this title\] shall take effect as if included in the provisions of the SAFETEA–LU \[Pub. L. 109–59\] to which they relate.”
 
 #### Effective Date of 2005 Amendment
 

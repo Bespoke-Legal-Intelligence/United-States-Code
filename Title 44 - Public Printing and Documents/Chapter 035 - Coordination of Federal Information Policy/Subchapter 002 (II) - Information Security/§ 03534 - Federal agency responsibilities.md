@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(B) developing and maintaining an agencywide information security program as required by subsection (b);
 
-&emsp;&emsp;(C) developing and maintaining information security policies, procedures, and control techniques to address all applicable requirements, including those issued under section 3533 of this title, and section 11331 of title 40;
+&emsp;&emsp;(C) developing and maintaining information security policies, procedures, and control techniques to address all applicable requirements, including those issued undersection 3533 of this title, and section 11331 of title 40;
 
 &emsp;&emsp;(D) training and overseeing personnel with significant responsibilities for information security with respect to such responsibilities; and
 
@@ -159,6 +159,8 @@ The Federal Financial Management Improvement Act, referred to in subsec. (c)(2)(
 A prior section 3534, added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061\], Oct. 30, 2000, 114 Stat. 1654, 1654A–268, related to Federal agency responsibilities prior to the general amendment of this subchapter by Pub. L. 107–296.
 
 #### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

@@ -64,7 +64,7 @@ The procedures required by this section shall include the following:
 
 &emsp;&emsp;(B) an explanation of why the agency proposes or refuses to take the action and a description of each evaluation procedure, assessment, record, or report the agency used as a basis for the proposed or refused action;
 
-&emsp;&emsp;(C) a statement that the parents of a child with a disability have protection under the procedural safeguards of this subchapter and, if this notice is not an initial referralfor evaluation, the means by which a copy of a description of the procedural safeguards can be obtained;
+&emsp;&emsp;(C) a statement that the parents of a child with a disability have protection under the procedural safeguards of this subchapter and, if this notice is not an initial referral for evaluation, the means by which a copy of a description of the procedural safeguards can be obtained;
 
 &emsp;&emsp;(D) sources for parents to contact to obtain assistance in understanding the provisions of this subchapter;
 
@@ -300,7 +300,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (B) Subject matter of hearing
 
-&emsp;&emsp;The party requesting the due process hearing shall not be allowed to raise issues at the due process hearing that were not raised in the notice filed under subsection (b)(7), unless the other party agrees otherwise.
+&emsp;&emsp;The party requesting the due process hearing shall not be allowed to raise issues at the due process hearing that were not raised inthe notice filed under subsection (b)(7), unless the other party agrees otherwise.
 
 #### (C) Timeline for requesting hearing
 
@@ -500,7 +500,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant membersof the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the conduct in question was caused by, or had a direct and substantial relationship to, the child's disability; or
 
@@ -570,7 +570,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (A) In general
 
-&emsp;&emsp;A child who has not been determined to be eligible for special education and relatedservices under this subchapter and who has engaged in behavior that violates a code of student conduct, may assert any of the protections provided for in this subchapter if the local educational agency had knowledge (as determined in accordance with this paragraph) that the child was a child with a disability before the behavior that precipitated the disciplinary action occurred.
+&emsp;&emsp;A child who has not been determined to be eligible for special education and related services under this subchapter and who has engaged in behavior that violates a code of student conduct, may assert any of the protections provided for in this subchapter if the local educational agency had knowledge (as determined in accordance with this paragraph) that the child was a child with a disability before the behavior that precipitated the disciplinary action occurred.
 
 #### (B) Basis of knowledge
 
@@ -594,7 +594,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conducted by the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educational placement determined by school authorities.
+&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conductedby the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educational placement determined by school authorities.
 
 #### (6) Referral to and action by law enforcement and judicial authorities
 
@@ -634,7 +634,7 @@ Nothing in this chapter shall be construed to restrict or limit the rights, proc
 
 #### (1) In general
 
-&emsp;A State that receives amounts from a grant under this subchapter may provide that, whena child with a disability reaches the age of majority under State law (except for a child with a disability who has been determined to be incompetent under State law)—
+&emsp;A State that receives amounts from a grant under this subchapter may provide that, when a child with a disability reaches the age of majority under State law (except for a child with a disability who has been determined to be incompetent under State law)—
 
 &emsp;&emsp;(A) the agency shall provide any notice required by this section to both the individual and the parents;
 

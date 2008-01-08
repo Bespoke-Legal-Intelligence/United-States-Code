@@ -140,7 +140,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) the actuarial present value of deductions to be withheld from the future basic pay of employees and Members currently subject to this chapter pursuant to section 8422;
 
-&emsp;&emsp;&emsp;(ii) the actuarial present value of the future contributions to be made pursuant to section 8423(a) with respect to employees and Members currently subject to this chapter;
+&emsp;&emsp;&emsp;(ii) the actuarial present value of the future contributions to be made pursuant tosection 8423(a) with respect to employees and Members currently subject to this chapter;
 
 &emsp;&emsp;&emsp;(iii) the Fund balance as of the date the supplemental liability is determined, to the extent that such balance is attributable—
 
@@ -170,15 +170,17 @@ For the purpose of this chapter—
 
 &emsp;(33) “Nuclear materials courier” has the meaning given that term in section 8331(27);
 
-&emsp;(34) the term “Government physician” has the meaning given such term under section 5948; and
+&emsp;(34) the term “Government physician” has the meaning given such term under section 5948;
 
 &emsp;(35) the term “air traffic controller” or “controller” means—
 
 &emsp;&emsp;(A) a controller within the meaning of section 2109(1); and
 
-&emsp;&emsp;(B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B).
+&emsp;&emsp;(B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B); and
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529.)
+&emsp;(36) the term “customs and border protection officer” means an employee in the Department of Homeland Security (A) who holds a position within the GS–1895 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position, and (B) whose duties include activities relating to the arrival and departure of persons, conveyances, and merchandise at ports of entry, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties (as described in subparagraph (B)) in 1 or more positions (as described in subparagraph (A)) for at least 3 years.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(b)(1), Dec. 26, 2007, 121 Stat. 2076.)
 
 #### References in Text
 
@@ -196,13 +198,15 @@ The date of the enactment of the Legislative Branch Appropriations Act, 2004, re
 
 #### Amendments
 
+2007—Par. (36). Pub. L. 110–161 added par. (36).
+
 2003—Par. (20). Pub. L. 108–83 inserted before semicolon at end “, and who (in the case of an individual who is a Member of the House of Representatives, including a Delegate or Resident Commissioner to the Congress) serves as a Member prior to the date of the enactment of the Legislative Branch Appropriations Act, 2004”.
 
 Par. (35). Pub. L. 108–176 added par. (35).
 
 2000—Par. (34). Pub. L. 106–571 added par. (34).
 
-1999—Par. (30). Pub. L. 106–65 amended par. (30) generally. Prior to amendment, par. (30) read as follows: “the term ‘military reserve technician’ means a member of one of the reserve components of the armed forces specified in section 10101 of title 10 who—
+1999—Par. (30). Pub. L. 106–65 amended par. (30) generally. Prior to amendment, par. (30) read as follows: “theterm ‘military reserve technician’ means a member of one of the reserve components of the armed forces specified in section 10101 of title 10 who—
 
 &emsp;“(A) is assigned to a civilian position as a technician in the administration and training of such reserve components or in the maintenance and repair of supplies issued to such reserve components; and
 
@@ -245,6 +249,10 @@ Par. (17). Pub. L. 100–238, §103(a)(2), (c)(1), in subpar. (A)(ii), substitut
 Par. (18). Pub. L. 99–556, §109, amended par. (18) generally. Prior to amendment, par. (18) read as follows: “the term ‘loss’, when used with respect to the Thrift Savings Fund, means the amount of the loss resulting from the investment of sums in such Fund;”.
 
 Par. (19)(C), (D). Pub. L. 99–556, §107, added subpar. (C) and redesignated former subpar. (C) as (D).
+
+#### Effective Date of 2007 Amendment; Transition Rules
+
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -356,7 +364,7 @@ Section 1 of Pub. L. 99–556 provided that: “This Act \[enacting section 8478
 
 #### Short Title
 
-Section 100(a) of Pub. L. 99–335 provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331,8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
+Section 100(a) of Pub. L. 99–335 provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
 
 #### Transfer of Functions
 

@@ -145,7 +145,7 @@ Pub. L. 102–378, §5(d)(2), Oct. 2, 1992, 106 Stat. 1358, amended directory la
 
 1991—Pub. L. 102–198, §7(c)(2), Dec. 9, 1991, 105 Stat. 1625, redesignated item 8440b “Claims Court judges” as item 8440c.
 
-Pub. L. 102–198, §7(c)(4)(B), Dec. 9, 1991, 105 Stat. 1625, as amended by Pub. L. 102–378, §5(d)(2), Oct. 2, 1992, 106 Stat. 1358, redesignated item 8440c “Judges of the United States Court of Veterans Appeals” as item 8440d.
+Pub. L. 102–198, §7(c)(4)(B), Dec. 9, 1991, 105 Stat. 1625, as amended by Pub. L. 102–378, §5(d)(2), Oct. 2, 1992, 106 Stat. 1358, redesignated item 8440c “Judges of theUnited States Court of Veterans Appeals” as item 8440d.
 
 Pub. L. 102–82, §5(a)(2), Aug. 6, 1991, 105 Stat. 376, added item 8440c “Judges of the United States Court of Veterans Appeals”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of travel relating to commercial sale of agricultural commodities
 
-The Secretary of the Treasury shall promulgate regulations under which the travel-relatedtransactions listed in subsection (c) of section 515.560 of title 31, Code of Federal Regulations, may be authorized on a case-by-case basis by a specific license for travel to, from, or within Cuba for the commercial export sale of agricultural commodities pursuant to the provisions of this chapter.
+The Secretary of the Treasury shall promulgate regulations under which the travel-related transactions listed in subsection (c) of section 515.560 of title 31, Code of Federal Regulations, may be authorized on a case-by-case basis by a specific license for travel to, from, or within Cuba for the commercial export sale of agricultural commodities pursuant to the provisions of this chapter.
 
 #### (b) Prohibition on travel relating to tourist activities
 

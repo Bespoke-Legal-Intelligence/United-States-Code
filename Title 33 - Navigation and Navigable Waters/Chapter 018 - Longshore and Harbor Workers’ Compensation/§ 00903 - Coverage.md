@@ -36,7 +36,7 @@ Notwithstanding any other provision of law, any amounts paid to an employee for 
 
 #### Codification
 
-In subsec. (e), “section 30104 of title 46” substituted for “section 20 of the Act of March 4, 1915 (38 Stat. 1185, chapter 153; 46 U.S.C. 688) (relating to recovery for injury to or death of seamen)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 30104 of Title 46, Shipping.
+In subsec. (e), “section 30104 of title 46” substituted for “section 20 of the Act of March 4, 1915 (38 Stat. 1185,chapter 153; 46 U.S.C. 688) (relating to recovery for injury to or death of seamen)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 30104 of Title 46, Shipping.
 
 #### Amendments
 
@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 98–426, §3(a), redesignated as subsec. (b) provisions fo
 
 Subsecs. (c) to (e). Pub. L. 98–426, §3(a), (b), redesignated former subsec. (b) as (c) and added subsecs. (d) and (e).
 
-1972—Subsec. (a). Pub. L. 92–576, §2(c), substituted provisions respecting coverage of injuries occurring upon navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel, for prior provisions respecting coverage of such injuries upon navigable waters and ifrecovery for the disability or death through workmen's compensation proceedings may not validly be provided by State law.
+1972—Subsec. (a). Pub. L. 92–576, §2(c), substituted provisions respecting coverage of injuries occurring upon navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel, for prior provisions respecting coverage of such injuries upon navigable waters and if recovery for the disability or death through workmen's compensation proceedings may not validly be provided by State law.
 
 Subsec. (a)(1). Pub. L. 92–576, §21, substituted “or” for “nor” before “any person engaged by the master”.
 

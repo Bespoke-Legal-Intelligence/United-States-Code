@@ -28,7 +28,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;(A) The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to tribes and tribal organizations (as such terms are used in paragraph (1)) for the purpose of carrying out programs described in section 300k(a) of this title. This subchapter applies to such a grant (in relation to the jurisdiction of the tribe or organization) to the same extent and in the same manner as such subchapter applies to a grant to a State under section 300k of this title (in relation to the jurisdiction of the State).
 
-&emsp;(B) If a tribe or tribal organization is receiving a grant under subparagraph (A) and theState in which the tribe or organization is located is receiving a grant under section 300k of this title, the requirement established in paragraph (1) for the State regarding the tribe or organization is deemed to have been waived under paragraph (2).
+&emsp;(B) If a tribe or tribal organization is receiving a grant under subparagraph (A) and the State in which the tribe or organization is located is receiving a grant under section 300k of this title, the requirement established in paragraph (1) for the State regarding the tribe or organization is deemed to have been waived under paragraph (2).
 
 #### (d) Relationship to items and services under other programs
 

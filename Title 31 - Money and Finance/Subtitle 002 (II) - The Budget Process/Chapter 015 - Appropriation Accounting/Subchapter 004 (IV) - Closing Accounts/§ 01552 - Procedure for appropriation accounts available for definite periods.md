@@ -64,7 +64,7 @@ In subsection (d), before clause (1), the word “heading” is substituted for 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–510 applicable to any appropriation account the obligated balance of which, onNov. 5, 1990, has not been transferred under subsec. (a)(1) of this section, as in effect Nov. 4, 1990, with transitional provisions, see section 1405(b) of Pub. L. 101–510, set out as a note under section 1551 of this title.
+Amendment by Pub. L. 101–510 applicable to any appropriation account the obligated balance of which, on Nov. 5, 1990, has not been transferred under subsec. (a)(1) of this section, as in effect Nov. 4, 1990, with transitional provisions, see section 1405(b) of Pub. L. 101–510, set out as a note under section 1551 of this title.
 
 #### Audit of Obligated Balances of Department of Defense
 

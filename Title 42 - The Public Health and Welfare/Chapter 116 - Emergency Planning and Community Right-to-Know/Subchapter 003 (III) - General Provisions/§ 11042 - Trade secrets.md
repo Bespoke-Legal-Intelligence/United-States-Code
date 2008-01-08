@@ -20,7 +20,7 @@
 
 &emsp;(B) In submitting to the Administrator the information required by subparagraph (A)(iii), a person withholding information under this subsection may—
 
-&emsp;&emsp;(i) designate, in writing and in such manner as the Administrator may prescribe by regulation, the information which such person believes is entitled to be withheld under paragraph (1), and
+&emsp;&emsp;(i) designate, in writing and in such manner as the Administrator may prescribe byregulation, the information which such person believes is entitled to be withheld under paragraph (1), and
 
 &emsp;&emsp;(ii) submit such designated information separately from other information submitted under this subsection.
 
@@ -72,7 +72,7 @@ As soon as practicable after October 17, 1986, the Administrator shall prescribe
 
 #### (e) Exception for information provided to health professionals
 
-Nothing in this section, or regulations adopted pursuant to this section, shall authorize any person to withhold information which is required to be provided to a health professional, a doctor, or a nurse in accordance with section 11043 of this title.
+Nothing in this section, or regulations adopted pursuant to this section, shall authorize anyperson to withhold information which is required to be provided to a health professional, a doctor, or a nurse in accordance with section 11043 of this title.
 
 #### (f) Providing information to Administrator; availability to public
 
@@ -84,7 +84,7 @@ Upon request by a State, acting through the Governor of the State, the Administr
 
 #### (h) Information on adverse effects
 
-(1) In any case in which the identity of a hazardous chemical or an extremely hazardous substance is claimed as a trade secret, the Governor or State emergency response commission established under section 11001 of this title shall identify the adverse health effects associated withthe hazardous chemical or extremely hazardous substance and shall assure that such information is provided to any person requesting information about such hazardous chemical or extremely hazardous substance.
+(1) In any case in which the identity of a hazardous chemical or an extremely hazardous substance is claimed as a trade secret, the Governor or State emergency response commission established under section 11001 of this title shall identify the adverse health effects associated with the hazardous chemical or extremely hazardous substance and shall assure that such information is provided to any person requesting information about such hazardous chemical or extremely hazardous substance.
 
 (2) In any case in which the identity of a toxic chemical is claimed as a trade secret, the Administrator shall identify the adverse health and environmental effects associated with the toxic chemical and shall assure that such information is included in the computer database required by section 11023(j) of this title and is provided to any person requesting information about such toxic chemical.
 

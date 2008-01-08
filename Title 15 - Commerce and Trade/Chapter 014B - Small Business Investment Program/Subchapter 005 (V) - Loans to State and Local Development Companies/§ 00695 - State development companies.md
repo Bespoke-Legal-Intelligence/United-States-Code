@@ -6,7 +6,7 @@ The Congress hereby finds and declares that the purpose of this subchapter is to
 
 #### (b) Loans; obligations of development companies
 
-The Administration is authorized to make loans to State development companies to assist in carrying out the purposes of this chapter. Any funds advanced under this subsection shall be in exchange for obligations of the development company which bear interest at such rate, and contain such other terms, as the Administration may fix, and funds may be so advanced without regard to the use and investment by the development company of funds secured by it from other sources.
+The Administration is authorized to make loans to State development companies to assist in carrying out the purposes of this chapter. Any funds advanced under this subsection shallbe in exchange for obligations of the development company which bear interest at such rate, and contain such other terms, as the Administration may fix, and funds may be so advanced without regard to the use and investment by the development company of funds secured by it from other sources.
 
 #### (c) Maximum loans to development companies
 
@@ -34,9 +34,17 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;&emsp;(F) enhanced economic competition, including the advancement of technology, plan retooling, conversion to robotics, or competition with imports,
 
-&emsp;&emsp;(G) changes necessitated by Federal budget cutbacks, including defense related industries, or
+&emsp;&emsp;(G) changes necessitated by Federal budget cutbacks, including defense related industries,
 
-&emsp;&emsp;(H) business restructuring arising from Federally mandated standards or policies affecting the environment or the safety and health of employees.
+&emsp;&emsp;(H) business restructuring arising from Federally mandated standards or policies affecting the environment or the safety and health of employees,
+
+&emsp;&emsp;(I) reduction of energy consumption by at least 10 percent,
+
+&emsp;&emsp;(J) increased use of sustainable design, including designs that reduce the use of greenhouse gas emitting fossil fuels, or low-impact design to produce buildings that reduce the use of non-renewable resources and minimize environmental impact, or
+
+&emsp;&emsp;(K) plant, equipment and process upgrades of renewable energy sources such as the small-scale production of energy for individual buildings or communities consumption, commonly known as micropower, or renewable fuels producers including biodiesel and ethanol producers.
+
+> &emsp;In subparagraphs (J) and (K), terms have the meanings given those terms under the Leadership in Energy and Environmental Design (LEED) standard for green building certification, as determined by the Administrator.
 
 > If eligibility is based upon the criteria set forth in paragraph (2) or (3), the project need not meet the job creation or job preservation criteria developed by the Administration if the overall portfolio of the development company meets or exceeds such job creation or retention criteria.
 
@@ -58,13 +66,17 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;(B) all of the production facilities of which are located in the United States.
 
-(Pub. L. 85–699, title V, §501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, §115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, §214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, §405, Aug. 17, 1999, 113 Stat. 246; Pub. L. 106–554, §1(a)(9) \[title III, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 108–447, div. K, title I, §105, Dec. 8, 2004, 118 Stat. 3444.)
+(Pub. L. 85–699, title V, §501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, §115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, §214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, §405, Aug. 17, 1999, 113 Stat. 246; Pub. L. 106–554, §1(a)(9) \[title III, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 108–447, div. K, title I, §105, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, §1204(a), Dec. 19, 2007, 121 Stat. 1772.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsec. (b), see References in Text note set out under section 661 of this title.
 
 #### Amendments
+
+2007—Subsec. (d)(3). Pub. L. 110–140, §1204(a)(4), inserted the following concluding provisions: “In subparagraphs (J) and (K), terms have the meanings given those terms under the Leadership in Energy and Environmental Design (LEED) standard for green building certification, as determined by the Administrator.”
+
+Subsec. (d)(3)(I) to (K). Pub. L. 110–140, §1204(a)(1)–(3), added subpars. (I) to (K).
 
 2004—Subsec. (e). Pub. L. 108–447 added subsec. (e).
 
@@ -77,6 +89,10 @@ For definition of “this chapter”, referred to in subsec. (b), see References
 Subsec. (d). Pub. L. 101–574, §214(b), added subsec. (d).
 
 1988—Pub. L. 100–590 inserted “State development companies” as section catchline, added subsec. (a), and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Budgetary Treatment of Loans and Financings
 
@@ -100,7 +116,7 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 
 &emsp;“(2)
 
-Conflicts of interest.—The development companies selected under paragraph (1) shall agreenot to take any action that would create a potential conflict of interest involving the development company, the third party lender, or an associate of the third party lender.
+Conflicts of interest.—The development companies selected under paragraph (1) shall agree not to take any action that would create a potential conflict of interest involving the development company, the third party lender, or an associate of the third party lender.
 
 &emsp;“(3)
 

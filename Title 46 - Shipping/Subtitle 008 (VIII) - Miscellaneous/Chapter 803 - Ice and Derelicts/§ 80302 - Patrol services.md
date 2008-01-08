@@ -24,7 +24,7 @@ Recording.—An ice patrol vessel shall record the name of a vessel and the fact
 
 &emsp;(2)
 
-Reporting.—The name of the vessel and all pertinent information about the incidentshall be reported to the government of the country to which the vessel belongs if that government requests.
+Reporting.—The name of the vessel and all pertinent information about the incident shall be reported to the government of the country to which the vessel belongs if that government requests.
 
 (d)
 
@@ -32,7 +32,7 @@ Administration.—The Commandant of the Coast Guard, under the direction of the 
 
 (e)
 
-Annual Report.—The Commandant shall publish an annual report of the activities of the services provided for in this section. A copy of the report shall be provided to each interested foreign government and to each agency assisting in the work.
+Annual Report.—The Commandant shall publish an annual report of the activities of the services provided for in this section. A copy ofthe report shall be provided to each interested foreign government and to each agency assisting in the work.
 
 (Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1692.)
 

@@ -20,7 +20,7 @@ Mission.—The mission of the centers shall be as follows:
 
 (c)
 
-Selection of Centers.—(1) The Secretary shall select the sites for the centers on the basisof a competitive selection process. The Secretary may not designate a site as a location for a center under this section unless the Secretary makes a finding under paragraph (2) with respect to the proposal for the designation of such site. To the maximum extent practicable, the Secretary shall ensure the geographic dispersal of the sites throughout the United States. Any such center may be a consortium of efforts of more than one medical center.
+Selection of Centers.—(1) The Secretary shall select the sites for the centers on the basis of a competitive selection process. The Secretary may not designate a site as a location for a center under this section unless the Secretary makes a finding under paragraph (2) with respect to the proposal for the designation of such site. To the maximum extent practicable, the Secretary shall ensure the geographic dispersal of the sites throughout the United States. Any such center may be a consortium of efforts of more than one medical center.
 
 (2) A finding by the Secretary referred to in paragraph (1) with respect to a proposal for designation of a site as a location of a center under this section is a finding by the Secretary, upon the recommendations of the Under Secretary for Health and the Assistant Secretary with responsibility for operations, preparedness, security, and law enforcement functions, that the facility or facilities submitting the proposal have developed (or may reasonably be anticipated to develop) each of the following:
 

@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-In the case of an individual, there shall be allowed as a deduction an amount equal to thequalified tuition and related expenses paid by the taxpayer during the taxable year.
+In the case of an individual, there shall be allowed as a deduction an amount equal to the qualified tuition and related expenses paid by the taxpayer during the taxable year.
 
 #### (b) Dollar limitations
 

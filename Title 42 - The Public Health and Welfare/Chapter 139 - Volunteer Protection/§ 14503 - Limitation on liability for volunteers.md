@@ -10,7 +10,7 @@ Except as provided in subsections (b) and (d) of this section, no volunteer of a
 
 &emsp;(3) the harm was not caused by willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious, flagrant indifference to the rights or safety of the individual harmed by the volunteer; and
 
-&emsp;(4) the harm was not caused by the volunteer operating a motor vehicle, vessel, aircraft, or other vehicle for which the State requires the operator or the owner of the vehicle, craft, or vessel to—
+&emsp;(4) the harm was not caused by the volunteer operating a motor vehicle, vessel, aircraft, orother vehicle for which the State requires the operator or the owner of the vehicle, craft, or vessel to—
 
 &emsp;&emsp;(A) possess an operator's license; or
 

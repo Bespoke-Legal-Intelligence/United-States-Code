@@ -24,7 +24,7 @@ Included in the activities authorized to the corporation for the accomplishment 
 
 &emsp;(4) to provide technical assistance to nonprofit corporations, limited dividend corporations, and others with respect to the planning, refinancing, construction, rehabilitation, maintenance, and management of housing for low and moderate income families and individuals;
 
-&emsp;(5) to make loans or grants including grants of interests in housing and related facilities, to nonprofit corporations, limited dividend corporations, and others, in carrying out its activities under subsection (a) of this section; and
+&emsp;(5) to make loans or grants including grants of interests in housing and related facilities,to nonprofit corporations, limited dividend corporations, and others, in carrying out its activities under subsection (a) of this section; and
 
 &emsp;(6) to hire or accept the voluntary services of consultants, experts, advisory boards, and panels to aid the corporation in carrying out the purposes of this chapter.
 
@@ -48,7 +48,7 @@ The District of Columbia Business Corporation Act, referred to in subsec. (c), i
 
 #### Codification
 
-In subsec. (d), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act (40U.S.C. 267a—276a–5)”, meaning 40 U.S.C. 276a—276a–5, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (d), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act (40 U.S.C. 267a—276a–5)”, meaning 40 U.S.C. 276a—276a–5, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

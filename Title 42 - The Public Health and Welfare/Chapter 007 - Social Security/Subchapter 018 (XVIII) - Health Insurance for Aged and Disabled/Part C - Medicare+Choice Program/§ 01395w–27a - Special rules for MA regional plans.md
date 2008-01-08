@@ -70,7 +70,7 @@ An MA regional plan shall include the following:
 
 #### (B) Notification of allowable costs under the plan
 
-&emsp;&emsp;In the case of an MA organization that offers an MA regional plan in an MA region in2006 or 2007, the organization shall notify the Secretary, before such date in the succeeding year as the Secretary specifies, of—
+&emsp;&emsp;In the case of an MA organization that offers an MA regional plan in an MA region in 2006 or 2007, the organization shall notify the Secretary, before such date in the succeeding year as the Secretary specifies, of—
 
 &emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrollees under the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
 
@@ -156,7 +156,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;(B) with respect to each other State in such region in which it does not meet requirements, it demonstrates to the satisfaction of the Secretary that it has filed the necessary application to meet such requirements,
 
-> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as the Secretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
+> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as theSecretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
 
 #### (2) Selection of appropriate State
 
@@ -182,7 +182,7 @@ An MA regional plan shall include the following:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;There shall be available to the Fund, for expenditures from the Fund during the period beginning on January 1, 2012, and ending on December 31, 2013, a total of $3,500,000,000.
+&emsp;&emsp;&emsp;There shall be available to the Fund, for expenditures from the Fund during 2013, $1,790,000,000.
 
 #### (ii) Payment from trust funds
 
@@ -242,7 +242,7 @@ An MA regional plan shall include the following:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The increased amount under this subparagraph for an MA regional plan in an MA region for a year shall be an amount, determined by the Secretary, based on the bid submitted for such plan (or plans) and shall be available to all MA regional plans offered in such region and year. Such amount may be based on the mean, mode, or median, or other measure of such bids and may vary from region to region. The Secretary may not limit the number of plans or bids in a region.
+&emsp;&emsp;&emsp;The increased amount under this subparagraph for an MA regional plan in an MA region for a year shall be an amount, determined by the Secretary, based on the bid submitted for such plan (or plans) and shall be available to all MA regional plans offered in such region and year. Suchamount may be based on the mean, mode, or median, or other measure of such bids and may vary from region to region. The Secretary may not limit the number of plans or bids in a region.
 
 #### (ii) Multi-year funding
 
@@ -362,7 +362,7 @@ An MA regional plan shall include the following:
 
 #### (1) Computation for regions
 
-&emsp;For purposes of section 1395w–23(j)(2) of this title and this section, subject to subsection (e) of this section, the term “MA region-specific non-drug monthly benchmark amount”means, with respect to an MA region for a month in a year, the sum of the 2 components described in paragraph (2) for the region and year. The Secretary shall compute such benchmark amount for each MA region before the beginning of each annual, coordinated election period under section 1395w–21(e)(3)(B) of this title for each year (beginning with 2006).
+&emsp;For purposes of section 1395w–23(j)(2) of this title and this section, subject to subsection (e) of this section, the term “MA region-specific non-drug monthly benchmark amount” means, with respect to an MA region for a month in a year, the sum of the 2 components described in paragraph (2) for the region and year. The Secretary shall compute such benchmark amount for each MA region before the beginning of each annual, coordinated election period under section 1395w–21(e)(3)(B) of this title for each year (beginning with 2006).
 
 #### (2) 2 components
 
@@ -394,7 +394,7 @@ An MA regional plan shall include the following:
 
 #### (3) Statutory region-specific non-drug amount
 
-&emsp;For purposes of paragraph (2)(A)(i), the term “statutory region-specific non-drug amount” means, for an MA region and year, an amount equal the sum (for each MA local area within the region) of the product of—
+&emsp;For purposes of paragraph (2)(A)(i), the term “statutory region-specific non-drug amount”means, for an MA region and year, an amount equal the sum (for each MA local area within the region) of the product of—
 
 &emsp;&emsp;(A) MA area-specific non-drug monthly benchmark amount under section 1395w–23(j)(1)(A) of this title for that area and year; and
 
@@ -452,7 +452,7 @@ An MA regional plan shall include the following:
 
 #### (g) Election of uniform coverage determination
 
-Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an MA regional plan,the organization offering the plan may elect to have a local coverage determination for the entire MA region be the local coverage determination applied for any part of such region (as selected by the organization).
+Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an MA regional plan, the organization offering the plan may elect to have a local coverage determination for the entire MA region be the local coverage determination applied for any part of such region (as selected by the organization).
 
 #### (h) Assuring network adequacy
 
@@ -466,7 +466,7 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 #### (2) Payment amounts
 
-&emsp;The payment amount under this subsection for inpatient hospital services provided by a subsection (d) hospital to an enrollee in an MA regional plan shall be, subject to the limitation of funds under paragraph (3), the amount (if any) by which—
+&emsp;The payment amount under this subsection for inpatient hospital services provided by asubsection (d) hospital to an enrollee in an MA regional plan shall be, subject to the limitation of funds under paragraph (3), the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount of payment that would have been paid for such services under this subchapter if the enrollees were covered under the original medicare fee-for-service program option and the hospital were a critical access hospital; exceeds
 
@@ -486,9 +486,25 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;In this subsection, the term “essential hospital” means, with respect to an MA regional plan offered by an MA organization, a subsection (d) hospital (as defined in section 1395ww(d) of this title) that the Secretary determines, based upon an application filed by the organization with the Secretary, is necessary to meet the requirements referred to in paragraph (1) for such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §3, July 18, 2007, 121 Stat. 244; Pub. L. 110–173, title I, §110, Dec. 29, 2007, 121 Stat. 2497.)
 
 #### Amendments
+
+2007—Subsec. (e)(2)(A)(i). Pub. L. 110–173, which directed substitution of “the Fund during 2013, $1,790,000,000.” for “the Fund” and all that follows, was executed by making the substitution for “the Fund—
+
+&emsp;“(I) during 2012, $1,600,000,000; and
+
+&emsp;“(II) during 2013, $1,790,000,000.”
+
+> to reflect the probable intent of Congress.
+
+Pub. L. 110–48 substituted “the Fund—
+
+&emsp;“(I) during 2012, $1,600,000,000; and
+
+&emsp;“(II) during 2013, $1,790,000,000.”
+
+> for “the Fund during the period beginning on January 1, 2012, and ending on December 31, 2013, a total of $3,500,000,000.”
 
 2006—Subsec. (e)(2)(A)(i). Pub. L. 109–432 substituted “2012” for “2007” and “$3,500,000,000” for “$10,000,000,000”.
 

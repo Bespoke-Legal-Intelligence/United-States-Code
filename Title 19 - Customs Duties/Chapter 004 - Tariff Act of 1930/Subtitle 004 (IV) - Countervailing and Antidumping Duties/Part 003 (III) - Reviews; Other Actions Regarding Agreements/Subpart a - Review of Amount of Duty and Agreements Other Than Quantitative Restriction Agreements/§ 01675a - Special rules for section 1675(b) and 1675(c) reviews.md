@@ -86,7 +86,7 @@
 
 #### (3) Net countervailable subsidy
 
-&emsp;The administering authority shall provide to the Commission the net countervailable subsidy that is likely to prevail if the order is revoked or the suspended investigation is terminated. The administering authority shall normally choose a net countervailable subsidy that was determined under section 1671d ofthis title or subsection (a) or (b)(1) of section 1675 of this title.
+&emsp;The administering authority shall provide to the Commission the net countervailable subsidy that is likely to prevail if the order is revoked or the suspended investigation is terminated. The administering authority shall normally choose a net countervailable subsidy that was determined under section 1671d of this title or subsection (a) or (b)(1) of section 1675 of this title.
 
 #### (4) Special rule
 

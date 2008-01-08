@@ -38,9 +38,9 @@ Every individual who—
 
 For purposes of subsection (a) of this section—
 
-&emsp;(1) entitlement of an individual to hospital insurance benefits for a month shall consist of entitlement to have payment made under, and subject to the limitations in, part A of subchapter XVIII of this chapter on his behalf for inpatient hospital services, post-hospital extended care services, and home health services (as such terms are defined in part E of subchapter XVIII of this chapter) furnished him in the United States (or outside the United States in the case of inpatient hospital services furnished under the conditions described in section 1395f(f) of this title) during such month; except that (A) no such payment may be made for post-hospital extended care services furnished before January 1967, and (B) no such payment may be made for post-hospital extended care services unless the discharge from the hospital required to qualify such services for payment under part A of subchapter XVIII of this chapter occurred (i) after June 30, 1966, or on or after the first day of the month in which he attains age 65, whichever is later, or (ii) if he was entitled to hospital insurance benefits pursuant to subsection (b) of this section, at a time when he was so entitled; and
+&emsp;(1) entitlement of an individual to hospital insurance benefits for a month shall consist of entitlement to have payment made under, and subject to the limitations in, part A of subchapter XVIII of this chapter on his behalf forinpatient hospital services, post-hospital extended care services, and home health services (as such terms are defined in part E of subchapter XVIII of this chapter) furnished him in the United States (or outside the United States in the case of inpatient hospital services furnished under the conditions described in section 1395f(f) of this title) during such month; except that (A) no such payment may be made for post-hospital extended care services furnished before January 1967, and (B) no such payment may be made for post-hospital extended care services unless the discharge from the hospital required to qualify such services for payment under part A of subchapter XVIII of this chapter occurred (i) after June 30, 1966, or on or after the first day of the month in which he attains age 65, whichever is later, or (ii) if he was entitled to hospital insurance benefits pursuant to subsection (b) of this section, at a time when he was so entitled; and
 
-&emsp;(2) an individual shall be deemed entitled to monthly insurance benefits under section 402 or section 423 of this title, or to be a qualifiedrailroad retirement beneficiary, for the month in which he died if he would have been entitled to such benefits, or would have been a qualified railroad retirement beneficiary, for such month had he died in the next month.
+&emsp;(2) an individual shall be deemed entitled to monthly insurance benefits under section 402 or section 423 of this title, or to be a qualified railroad retirement beneficiary, for the month in which he died if he would have been entitled to such benefits, or would have been a qualified railroad retirement beneficiary, for such month had he died in the next month.
 
 #### (d) “Qualified railroad retirement beneficiary” defined
 
@@ -68,7 +68,7 @@ For purposes of subsection (b) of this section (and for purposes of section 1395
 
 &emsp;(1) more than 60 months before the month in which his current disability began in any case where such monthly benefits were of the type specified in clause (A)(i) or (B) of subsection (b)(2) of this section, or
 
-&emsp;(2) more than 84 months before the month in which his current disability began in any case where such monthly benefits were of the type specified in clause (A)(ii) or (A)(iii) of such subsection,
+&emsp;(2) more than 84 months before the month in which his current disability began in any casewhere such monthly benefits were of the type specified in clause (A)(ii) or (A)(iii) of such subsection,
 
 > shall not include any month which occurred during such previous period, unless the physical or mental impairment which is the basis for disability is the same as (or directly related to) the physical or mental impairment which served as the basis for disability in such previous period.
 
@@ -138,7 +138,7 @@ Subsec. (g). Pub. L. 99–272, §13205(b)(2)(C)(ii), substituted “medicare qua
 
 1983—Subsec. (e)(1)(A). Pub. L. 98–21, §131(a)(3)(H), (b)(3)(G), substituted reference to section 402(e)(4), (f)(5) of this title for reference to section 405(e)(5), (f)(6) of this title.
 
-Subsec. (e)(3). Pub. L. 98–21, §309(q)(1), amended par. (3) generally, inserting provisions relating to any disabled widower and striking out provision that a disabled widow, upon furnishing proof of such disabilityprior to July 1, 1974, under such procedures as the Secretary prescribed, would be deemed to have been entitled to such widow's benefits as of the time she would have been entitled to such widow's benefits if she had filed a timely application therefor.
+Subsec. (e)(3). Pub. L. 98–21, §309(q)(1), amended par. (3) generally, inserting provisions relating to any disabled widower and striking out provision that a disabled widow, upon furnishing proof of such disability prior to July 1, 1974, under such procedures as the Secretary prescribed, would be deemed to have been entitled to such widow's benefits as of the time she would have been entitled to such widow's benefits if she had filed a timely application therefor.
 
 1982—Subsec. (a)(2). Pub. L. 97–248, §278(b)(2)(A), redesignated existing provisions as subpar. (A), struck out “or is a qualified railroad retirement beneficiary,” after “of this chapter,”, and added subpars. (B) and (C).
 
@@ -282,7 +282,7 @@ Transitional Provisions.—
 
 &emsp;“(1)
 
-In general.—For purposes of sections 226, 226A, and 1811 of the Social Security Act \[this section and sections 426–1 and 1395c of this title\], in the case of any individual who performs service both during January 1983, and before January 1, 1983, which constitutes medicare qualified Federal employment (as defined in section 210(p) of such Act \[section 410(p) of this title\]), the individual's medicare qualified Federal employment (as so defined) performed before January 1, 1983, for which remuneration was paid before such date, shall be considered to be ‘employment’ (as defined for purposes of title II of such Act\[this subchapter\]), but only for the purpose of providing the individual (or another person) with entitlement to hospital insurance benefits under part A of title XVIII of such Act \[section 1395c et seq. of this title\].
+In general.—For purposes of sections 226, 226A, and 1811 of the Social Security Act \[this section and sections 426–1 and 1395c of this title\], in the case of any individual who performs service both during January 1983, and before January 1, 1983, which constitutes medicare qualified Federal employment (as defined in section 210(p) of such Act \[section 410(p) of this title\]), the individual's medicare qualified Federal employment (as so defined) performed before January 1, 1983, for which remuneration was paid before such date, shall be considered to be ‘employment’ (as defined for purposes of title II of such Act \[this subchapter\]), but only for the purpose of providing the individual (or another person) with entitlement to hospital insurance benefits under part A of title XVIII of such Act \[section 1395c et seq. of this title\].
 
 &emsp;“(2)
 
@@ -346,7 +346,7 @@ Pub. L. 106–170, title II, §202(c), Dec. 17, 1999, 113 Stat. 1894, provided t
 
 &emsp;“(1) examines the effectiveness and cost of the amendment made by subsection (a) \[amending this section\];
 
-&emsp;“(2) examines the necessity and effectiveness of providing continuation of medicare coverage under section 226(b) of the Social Security Act (42 U.S.C.426(b)) to individuals whose annual income exceeds the contribution and benefit base (as determined under section 230 of such Act (42 U.S.C. 430));
+&emsp;“(2) examines the necessity and effectiveness of providing continuation of medicare coverage under section 226(b) of the Social Security Act (42 U.S.C. 426(b)) to individuals whose annual income exceeds the contribution and benefit base (as determined under section 230 of such Act (42 U.S.C. 430));
 
 &emsp;“(3) examines the viability of providing the continuation of medicare coverage under such section 226(b) based on a sliding scale premium for individuals whose annual income exceeds such contribution and benefit base;
 

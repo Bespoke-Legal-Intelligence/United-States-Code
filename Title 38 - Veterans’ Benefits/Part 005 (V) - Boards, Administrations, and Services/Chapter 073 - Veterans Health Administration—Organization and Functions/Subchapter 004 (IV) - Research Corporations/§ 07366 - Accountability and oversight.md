@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) if the amount expended with respect to any payee exceeded $35,000, information that identifies the payee.
 
-&emsp;(4) The amount expended by each corporation during the year for travel conducted inconjunction with research and the amount expended for travel in conjunction with education.
+&emsp;(4) The amount expended by each corporation during the year for travel conducted in conjunction with research and the amount expended for travel in conjunction with education.
 
 (Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 511, §4166; renumbered §7366 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(1), (2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 104–262, title III, §343(c)–(e), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–117, title II, §204(e), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–103, title V, §509(f), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–170, title IV, §402(b), Dec. 6, 2003, 117 Stat. 2062.)
 

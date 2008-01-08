@@ -114,7 +114,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;&emsp;&emsp;(i) is awarded as a part of a contest, lottery, jackpot, game, or other similar arrangement,
 
-&emsp;&emsp;&emsp;(ii) does not relate to any past services performed by the recipient and does notrequire the recipient to perform any substantial future service, and
+&emsp;&emsp;&emsp;(ii) does not relate to any past services performed by the recipient and does not require the recipient to perform any substantial future service, and
 
 &emsp;&emsp;&emsp;(iii) is payable over a period of at least 10 years.
 
@@ -190,13 +190,13 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (6) Special rule for consolidated groups
 
-&emsp;In the case of a corporation which is a member of an affiliated group filing a consolidated return, any exempt utility property purchased by another member of such group shall be treated as purchased by such corporation for purposes of applying paragraph (1)(A).
+&emsp;In the case of a corporation which is a member of an affiliated group filing a consolidatedreturn, any exempt utility property purchased by another member of such group shall be treated as purchased by such corporation for purposes of applying paragraph (1)(A).
 
 #### (7) Time for assessment of deficiencies
 
 &emsp;If the taxpayer has made the election under paragraph (1) and any gain is recognized by such taxpayer as provided in paragraph (1)(B), then—
 
-&emsp;&emsp;(A) the statutory period for the assessment of any deficiency, for any taxable year in which any part of the gain on the transaction is realized, attributable to such gain shall not expire prior to the expiration of 3years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of the purchase of exempt utility property or of an intention not to purchase such property, and
+&emsp;&emsp;(A) the statutory period for the assessment of any deficiency, for any taxable year in which any part of the gain on the transaction is realized, attributable to such gain shall not expire prior to the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of the purchase of exempt utility property or of an intention not to purchase such property, and
 
 &emsp;&emsp;(B) such deficiency may be assessed before the expiration of such 3-year period notwithstanding any law or rule of law which would otherwise prevent such assessment.
 
@@ -280,7 +280,7 @@ In general.—The amendment made by this section \[amending this section\] shall
 
 “(2)
 
-Transition rule.—The amendment made by this section shall apply to any prize to which a person first becomes entitled on or before the date of enactment of this Act, except that in determining whether an option is a qualified prize option as defined in section 451(h)(2)(A) of the Internal Revenue Code of 1986 (as added by such amendment)—
+Transition rule.—The amendment made by this section shall apply to any prize to which a person firstbecomes entitled on or before the date of enactment of this Act, except that in determining whether an option is a qualified prize option as defined in section 451(h)(2)(A) of the Internal Revenue Code of 1986 (as added by such amendment)—
 
 &emsp;“(A) clause (ii) of such section 451(h)(2)(A) shall not apply, and
 

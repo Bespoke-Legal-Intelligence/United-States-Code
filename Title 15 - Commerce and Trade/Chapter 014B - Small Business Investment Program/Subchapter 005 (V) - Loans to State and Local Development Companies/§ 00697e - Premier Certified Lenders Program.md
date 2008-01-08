@@ -22,7 +22,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;&emsp;&emsp;(ii) of properly closing section 504 \[15 U.S.C. 697a\] loans and servicing its loan portfolio;
 
-&emsp;&emsp;(C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the companyduring any period for which an election is in effect under subsection (c)(7) of this section for such company); and
+&emsp;&emsp;(C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company); and
 
 &emsp;&emsp;(D) the <sup>1</sup> Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) of this section is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
 
@@ -194,7 +194,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (B) Purpose
 
-&emsp;&emsp;The Bureau of PCLP Oversight shall carry out such functions of the Administrationunder this subsection as the Administrator may designate.
+&emsp;&emsp;The Bureau of PCLP Oversight shall carry out such functions of the Administration under this subsection as the Administrator may designate.
 
 #### (C) Deadline
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a separate fund in the Treasury of the United States to be known as the Lower Colorado River Basin Development Fund (hereafter called the “development fund”), which shall remain available until expended as hereafter provided.
+There is hereby established a separate fund in the Treasury of the United States to be knownas the Lower Colorado River Basin Development Fund (hereafter called the “development fund”), which shall remain available until expended as hereafter provided.
 
 #### (b) Appropriations
 
@@ -30,7 +30,7 @@ All moneys collected and credited to the development fund pursuant to subsection
 
 #### (e) Appropriation by Congress required for construction of works
 
-Except as provided in subsection (f) of this section, revenues credited to the development fund shall not be available for construction of theworks comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
+Except as provided in subsection (f) of this section, revenues credited to the development fund shall not be available for construction of the works comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
 
 #### (f) Additional uses of revenue funds
 
@@ -158,7 +158,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 #### (g) Repayment of costs
 
-All revenues credited to the development fund in accordance with subsection (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fund after making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>2</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
+All revenues credited to the development fund in accordance with subsection (c)(2) of this section (excluding only those revenues derived from the sale of power and energy for use in Arizona during the payout period of the Central Arizona Project as authorized herein) and such other revenues as remain in the development fundafter making the payments required by subsections (d) and (f) of this section shall be available (1) to make payments, if any, as required by sections 616aa–1 and 620d–1 of this title, (2) for repayment to the general fund of the Treasury the costs of each salinity control unit or separable feature thereof <sup>2</sup> the costs of measures to replace incidental fish and wildlife values foregone, and the costs of on-farm measures payable from the Lower Colorado River Basin Development Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(b) of this title and (3) upon appropriation by the Congress, to assist in the repayment of reimbursable costs incurred in connection with units hereafter constructed to provide for the augmentation of the water supplies of the Colorado River for use below Lee Ferry as may be authorized as a result of the investigations and recommendations made pursuant to sections 1511 and 1513(a) of this title.
 
 #### (h) Interest rate
 
@@ -216,7 +216,7 @@ Amendment by Pub. L. 98–569 effective Oct. 30, 1984, see section 6 of Pub. L. 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (i) of this section is listed as the 7th item on page 114), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which a report required under subsec. (i) of this section is listed as the 7th item on page 114), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Limitation on Funds
 
@@ -229,8 +229,6 @@ Pub. L. 108–451, title I, §107(b), Dec. 10, 2004, 118 Stat. 3498, provided th
 &emsp;&emsp;“(A) the date on which the findings described in section 207(c) \[118 Stat. 3519\] are published in the Federal Register; or
 
 &emsp;&emsp;“(B) January 1, 2010.”
-
-\[For repeal of section 107(b) of Pub. L. 108–451, set out above, effective Jan. 1, 2008, and for provision that any action taken by Secretary of the Interior and any contract entered to be void, if Secretary does not publish statement of findings under section 207(c) of Pub. L. 108–451 by Dec. 31, 2007, see section 111(a)(1) of Pub. L. 108–451, set out as a note under section 1501 of this title.\]
 
 #### Payment From Development Fund to General Fund of Treasury
 

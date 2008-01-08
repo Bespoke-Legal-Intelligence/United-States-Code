@@ -30,7 +30,7 @@ For purposes of this Act:
 
 &emsp;(12) The term “Secretary” means the Secretary of the Interior.
 
-&emsp;(13) The terms “State” and “United States” mean the several States of the United States, Puerto Rico, American Samoa, the Virgin Islands, Guam, and the territories and possessions of the United States.
+&emsp;(13) The terms “State” and “United States” mean the several States of the United States,Puerto Rico, American Samoa, the Virgin Islands, Guam, and the territories and possessions of the United States.
 
 &emsp;(14) The term “System” means the National Wildlife Refuge System designated under section 668dd(a)(1) of this title.
 

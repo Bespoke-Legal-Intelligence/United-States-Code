@@ -96,9 +96,9 @@ Section 2468b, Pub. L. 88–210, title V, §513, as added Pub. L. 101–392, tit
 
 Section 2468c, Pub. L. 88–210, title V, §514, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 833, prohibited use of funds to induce out-of-State relocation of businesses. See section 2412 of this title.
 
-Section 2468d, Pub. L. 88–210, title V, §515, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 833, related to State administrative costs. See section 2413 of this title.
+Section 2468d, Pub. L. 88–210, title V, §515, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104Stat. 833, related to State administrative costs. See section 2413 of this title.
 
 Section 2468e, Pub. L. 88–210, title V, §516, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 833, contained additional administrative provisions.
 
-Section 2471, Pub. L. 88–210, title V, §521, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2482; amended Pub. L. 99–159, title VII, §713(a)(4), Nov. 22, 1985, 99 Stat. 907; Pub. L. 101–392, title V, §502, Sept. 25, 1990, 104 Stat.834; Pub. L. 103–382, title III, §391(s)(7), (8), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 104–193, title I, §110(i)(3), Aug. 22, 1996, 110 Stat. 2172, defined terms for purposes of this chapter.
+Section 2471, Pub. L. 88–210, title V, §521, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2482; amended Pub. L. 99–159, title VII, §713(a)(4), Nov. 22, 1985, 99 Stat. 907; Pub. L. 101–392, title V, §502, Sept. 25, 1990, 104 Stat. 834; Pub. L. 103–382, title III, §391(s)(7), (8), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 104–193, title I, §110(i)(3), Aug. 22, 1996, 110 Stat. 2172, defined terms for purposes of this chapter.
 

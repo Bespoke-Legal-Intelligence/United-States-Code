@@ -8,7 +8,7 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 (1) No shipper of cargo subject to this section (including an ocean transportation intermediary that is a non-vessel-operating common carrier (as defined in section 40102(16) of title 46) may tender or cause to be tendered to a vessel carrier cargo subject to this section for loading on a vessel in a United States port, unless such cargo is properly documented pursuant to this subsection.
 
-(2) For the purposes of this subsection, cargo shall be considered properly documented if theshipper submits to the vessel carrier or its agent a complete set of shipping documents no later than 24 hours after the cargo is delivered to the marine terminal operator, but under no circumstances later than 24 hours prior to departure of the vessel.
+(2) For the purposes of this subsection, cargo shall be considered properly documented if the shipper submits to the vessel carrier or its agent a complete set of shipping documents no later than 24 hours after the cargo is delivered to the marine terminal operator, but under no circumstances later than 24 hours prior to departure of the vessel.
 
 (3) A complete set of shipping documents shall include—
 
@@ -64,7 +64,7 @@ In subsec. (b)(1), “(as defined in section 40102(16) of title 46)” substitut
 
 #### Amendments
 
-2002—Subsec. (d). Pub. L. 107–295 amended heading and text of subsec. (d) generally. Prior to amendment,text read as follows: “A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, and the location of the cargo in the marine terminal. For vessel carriers that are members of vessel sharing agreements (or any other arrangement whereby a carrier moves cargo on another carrier's vessel), the vessel carrier accepting the booking shall be responsible for reporting undocumented cargo, without regard to whether it operates the vessel on which the transportation is to be made.”
+2002—Subsec. (d). Pub. L. 107–295 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, and the location of the cargo in the marine terminal. For vessel carriers that are members of vessel sharing agreements (or any other arrangement whereby a carrier moves cargo on another carrier's vessel), the vessel carrier accepting the booking shall be responsible for reporting undocumented cargo, without regard to whether it operates the vessel on which the transportation is to be made.”
 
 #### Effective Date
 

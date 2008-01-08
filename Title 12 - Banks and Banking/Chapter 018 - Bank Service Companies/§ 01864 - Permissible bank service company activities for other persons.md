@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 104–208, §2613(e)(1), (2), inserted “or members” aft
 
 Subsecs. (c), (d). Pub. L. 104–208, §2613(e)(1), (3), inserted “or member” after “shareholder” wherever appearing and substituted “company” for “corporation”.
 
-Subsec. (e). Pub. L. 104–208, §2613(e)(1), (4), substituted “company” for “corporation”, “any shareholder ormember of the company which is a national bank” for “its national bank shareholder or shareholders”, “any shareholder or member of the company which is a State bank” for “its State bank shareholder or shareholders”, and “any such State bank” for “such State bank or banks”, and inserted “or members” after “national bank and State bank shareholders” and after “State bank and national bank shareholders”.
+Subsec. (e). Pub. L. 104–208, §2613(e)(1), (4), substituted “company” for “corporation”, “any shareholder or member of the company which is a national bank” for “its national bank shareholder or shareholders”, “any shareholder or member of the company which is a State bank” for “its State bank shareholder or shareholders”, and “any such State bank” for “such State bank or banks”, and inserted “or members” after “national bank and State bank shareholders” and after “State bank and national bank shareholders”.
 
 Subsec. (f). Pub. L. 104–208, §2613(e)(1), substituted “company” for “corporation”.
 

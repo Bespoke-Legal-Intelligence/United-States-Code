@@ -66,7 +66,7 @@ Section 11 of Pub. L. 101–552, as amended by Pub. L. 104–106, div. D, title 
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–320 provided that: “This Act \[enacting sections 570a and 584 of this title, amendingthis section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure, section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
+Section 1 of Pub. L. 104–320 provided that: “This Act \[enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure, section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
 
 #### Short Title
 

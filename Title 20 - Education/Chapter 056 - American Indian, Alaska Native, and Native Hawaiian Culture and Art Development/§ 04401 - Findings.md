@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) the enhancement and preservation of this Nation's native art and culture has a fundamental positive influence on the American people;
 
-&emsp;(4) although the encouragement and support of Indian and Native Hawaiian arts and craftsare primarily a matter for private, local, and Indian and Native Hawaiian initiative, it is also an appropriate matter of concern to the Federal Government;
+&emsp;(4) although the encouragement and support of Indian and Native Hawaiian arts and crafts are primarily a matter for private, local, and Indian and Native Hawaiian initiative, it is also an appropriate matter of concern to the Federal Government;
 
 &emsp;(5) it is appropriate and necessary for the Federal Government to support research and scholarship in Indian art and culture and Native Hawaiian art and culture and to complement programs for the advancement of such art and culture by tribal, private, and public agencies and organizations;
 

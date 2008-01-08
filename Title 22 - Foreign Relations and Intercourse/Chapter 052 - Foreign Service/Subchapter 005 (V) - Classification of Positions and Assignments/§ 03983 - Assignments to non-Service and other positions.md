@@ -10,7 +10,7 @@ The Secretary may (with the concurrence of the agency, organization, or other bo
 
 &emsp;(3) for special instruction, training, or orientation at or with a public or private organization; and
 
-&emsp;(4) in the United States (or in any territory or possession of the United States or in theCommonwealth of Puerto Rico), with a State or local government, a public or private nonprofit organization (including an educational institution), or a Member or office of the Congress.
+&emsp;(4) in the United States (or in any territory or possession of the United States or in the Commonwealth of Puerto Rico), with a State or local government, a public or private nonprofit organization (including an educational institution), or a Member or office of the Congress.
 
 #### (b) Salary; travel and other expenses
 

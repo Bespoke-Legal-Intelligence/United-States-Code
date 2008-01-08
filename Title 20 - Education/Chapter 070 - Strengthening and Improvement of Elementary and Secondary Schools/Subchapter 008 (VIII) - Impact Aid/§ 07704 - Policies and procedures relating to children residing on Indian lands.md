@@ -20,7 +20,7 @@ A local educational agency that claims children residing on Indian lands for the
 
 #### (c) Waiver
 
-A local educational agency that claims children residing on Indian lands for the purpose of receiving funds under section 7703 of this title shall not be required to comply with the requirements of subsections (a) and (b) of this section for any fiscal year with respect to any Indian tribe from which such agency has received a written statement that the agency need not comply with those subsections because the tribe is satisfied with the provision of educational services by such agency to such children.
+A local educational agency that claims children residing on Indian lands for the purpose of receiving funds under section 7703 of this titleshall not be required to comply with the requirements of subsections (a) and (b) of this section for any fiscal year with respect to any Indian tribe from which such agency has received a written statement that the agency need not comply with those subsections because the tribe is satisfied with the provision of educational services by such agency to such children.
 
 #### (d) Technical assistance and enforcement
 
@@ -70,7 +70,7 @@ The Secretary shall—
 
 #### (8) Withholding
 
-&emsp;If the local educational agency rejects the determination of the Secretary, or if the remedy required is not undertaken within the time established and the Secretary determines that an extension of the time established will not effectively encourage the remedy required, the Secretary shall withhold payment of all moneys to which such local agency is eligible under section 7703 of this title until such time as the remedy required is undertaken, exceptwhere the complaining tribe or its designee formally requests that such funds be released to the local educational agency, except that the Secretary may not withhold such moneys during the course of the school year if the Secretary determines that such withholding would substantially disrupt the educational programs of the local educational agency.
+&emsp;If the local educational agency rejects the determination of the Secretary, or if the remedy required is not undertaken within the time established and the Secretary determines that an extension of the time established will not effectively encourage the remedy required, the Secretary shall withhold payment of all moneys to which such local agency is eligible under section 7703 of this title until such time as the remedy required is undertaken, except where the complaining tribe or its designee formally requests that such funds be released to the local educational agency, except that the Secretary may not withhold such moneys during the course of the school year if the Secretary determines that such withholding would substantially disrupt the educational programs of the local educational agency.
 
 #### (9) Rejection of determination
 

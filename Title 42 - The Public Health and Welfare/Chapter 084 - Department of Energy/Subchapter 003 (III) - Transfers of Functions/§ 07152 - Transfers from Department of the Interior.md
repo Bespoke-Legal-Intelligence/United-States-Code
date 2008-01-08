@@ -26,7 +26,7 @@ There are transferred to, and vested in, the Secretary those functions of the Se
 
 &emsp;(1) fuel supply and demand analysis and data gathering;
 
-&emsp;(2) research and development relating to increased efficiency of production technology of solid fuel minerals, other than research relating to mine health and safety and research relating to the environmental and leasing consequences of solid fuel mining (which shall remain in the Department of the Interior); and
+&emsp;(2) research and development relating to increased efficiency of production technology ofsolid fuel minerals, other than research relating to mine health and safety and research relating to the environmental and leasing consequences of solid fuel mining (which shall remain in the Department of the Interior); and
 
 &emsp;(3) coal preparation and analysis.
 
@@ -116,7 +116,7 @@ Contributed Funds.—Notwithstanding any other provision of law, the Alaska Powe
 
 Federal Power Act.—(1) After the sales authorized by this Act occur, Eklutna and Snettisham, including future modifications, shall continue to be exempt from the requirements of Part I of the Federal Power Act (16 U.S.C. 791a et seq.), except as provided in subsection (b).
 
-“(2) The exemption provided by paragraph (1) shall not affect the Memorandum of Agreement entered into among the State of Alaska, the Eklutna Purchasers, the Alaska Energy Authority, and Federal fish and wildlife agencies regarding the protection, mitigation of, damages to, and enhancement of fish and wildlife, dated August 7, 1991, which remains in full force and effect.
+“(2) The exemption provided by paragraph (1) shall not affect the Memorandum of Agreement entered into among the State of Alaska, the Eklutna Purchasers, the Alaska Energy Authority, and Federal fish andwildlife agencies regarding the protection, mitigation of, damages to, and enhancement of fish and wildlife, dated August 7, 1991, which remains in full force and effect.
 
 “(3) Nothing in this title or the Federal Power Act preempts the State of Alaska from carrying out the responsibilities and authorities of the Memorandum of Agreement.
 
@@ -126,7 +126,7 @@ Subsequent Transfers.—Except for subsequent assignment of interest in Eklutna 
 
 “(c)
 
-Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreementand to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
+Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
 
 “(2) An action seeking review of a Fish and Wildlife Program (‘Program’) of the Governor of Alaska under the Memorandum of Agreement or challenging actions of any of the parties to the Memorandum of Agreement prior to the adoption of the Program shall be brought not later than 90 days after the date on which the Program is adopted by the Governor of Alaska, or be barred.
 
@@ -196,7 +196,7 @@ Pub. L. 102–377, title V, §505, Oct. 2, 1992, 106 Stat. 1343, provided that: 
 
 #### Transfers to Secretary of the Interior of Certain Fossil Energy Research and Development Authorities
 
-Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: “That there are transferred to, and vested in, the Secretary of the Interior all functions vested in, or delegated to, the Secretary of Energy and the Department of Energy under or with respect to (1) the Act of May 16, 1910 \[30 U.S.C. 1, 3, 5–7\], and other authorities formerly exercised by the Bureau of Mines \[now United States Bureau of Mines\], but limited to research and development relating to increased efficiency of production technology of solid fuel minerals; (2) section 908 of the Surface Mining Control and Reclamation Act of 1977, relating to research and development concerning alternative coal mining technologies (30 U.S.C. 1328); (3) sections 5(g)(2), 8(a)(4), 8(a)(9), 27(b)(2)(3) of the Outer Continental Shelf Lands Act (43 U.S.C. 1334(g)(2) and 1337(a)(4) and 1337(a)(9) \[and 1353(b)(2) and (3)\]); and (4) section 105 of the Energy Policy and Conservation Act (42 U.S.C. 6213): <i>Provided further</i>, That the personnel employed, personnel positions, equipment, facilities, and unexpended balances of the aforementioned transferred programs shall be merged with the ‘Mines and minerals’ account of the Bureau of Mines.”
+Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: “That there are transferred to, and vested in,the Secretary of the Interior all functions vested in, or delegated to, the Secretary of Energy and the Department of Energy under or with respect to (1) the Act of May 16, 1910 \[30 U.S.C. 1, 3, 5–7\], and other authorities formerly exercised by the Bureau of Mines \[now United States Bureau of Mines\], but limited to research and development relating to increased efficiency of production technology of solid fuel minerals; (2) section 908 of the Surface Mining Control and Reclamation Act of 1977, relating to research and development concerning alternative coal mining technologies (30 U.S.C. 1328); (3) sections 5(g)(2), 8(a)(4), 8(a)(9), 27(b)(2)(3) of the Outer Continental Shelf Lands Act (43 U.S.C. 1334(g)(2) and 1337(a)(4) and 1337(a)(9) \[and 1353(b)(2) and (3)\]); and (4) section 105 of the Energy Policy and Conservation Act (42 U.S.C. 6213): <i>Provided further</i>, That the personnel employed, personnel positions, equipment, facilities, and unexpended balances of the aforementioned transferred programs shall be merged with the ‘Mines and minerals’ account of the Bureau of Mines.”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

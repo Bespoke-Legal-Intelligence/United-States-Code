@@ -16,7 +16,7 @@ Transitional Health Care.—(1) For the time period described in paragraph (3), 
 
 &emsp;(C) A member who is separated from active duty for which the member is involuntarily retained under section 12305 of this title in support of a contingency operation.
 
-&emsp;(D) A member who is separated from active duty served pursuant to a voluntary agreement of the member to remain on active dutyfor a period of less than one year in support of a contingency operation.
+&emsp;(D) A member who is separated from active duty served pursuant to a voluntary agreement of the member to remain on active duty for a period of less than one year in support of a contingency operation.
 
 (3) Transitional health care for a member under subsection (a) shall be available for 180 days beginning on the date on which the member is separated from active duty.
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Application of Amendments by Pub. L. 102–484 to Existing Contracts
 
-For provisions relating to the application of the amendments by section 4407 of Pub. L. 102–484 to conversion health policies provided under subsec. (b) of this section and in effect on Oct. 23, 1992, see section 4407(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
+For provisions relating to the application of the amendments by section 4407 of Pub. L. 102–484 to conversion health policies provided under subsec. (b) ofthis section and in effect on Oct. 23, 1992, see section 4407(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
 
 #### Transitional Provision
 

@@ -11,6 +11,7 @@
 | [2007\.](%C2%A7%2002007%20-%20Stipends.md) | Stipends. |
 | [2008\.](%C2%A7%2002008%20-%20Scholarship%20conditions.md) | Scholarship conditions. |
 | [2009\.](%C2%A7%2002009%20-%20Harry%20S%20Truman%20Memorial%20Scholarship%20Trust%20Fund.md) | Harry S Truman Memorial Scholarship Trust Fund. |
+| [2009a.](%C2%A7%2002009a%20-%20Investment%20of%20amounts%20appropriated%20and%20contributed%20to%20Harry%20S%20Truman%20Memorial%20Scholarship%20Trust%20Fund.md) | Investment of amounts appropriated and contributed to Harry S Truman Memorial Scholarship Trust Fund. |
 | [2010\.](%C2%A7%2002010%20-%20Expenditures%20and%20audit%20of%20Trust%20Fund.md) | Expenditures and audit of Trust Fund. |
 | [2011\.](%C2%A7%2002011%20-%20Executive%20Secretary%20of%20Foundation.md) | Executive Secretary of Foundation. |
 | [2012\.](%C2%A7%2002012%20-%20Administrative%20provisions.md) | Administrative provisions. |
@@ -32,6 +33,7 @@
 - [&sect; 02007 - Stipends](%C2%A7%2002007%20-%20Stipends.md)
 - [&sect; 02008 - Scholarship conditions](%C2%A7%2002008%20-%20Scholarship%20conditions.md)
 - [&sect; 02009 - Harry S Truman Memorial Scholarship Trust Fund](%C2%A7%2002009%20-%20Harry%20S%20Truman%20Memorial%20Scholarship%20Trust%20Fund.md)
+- [&sect; 02009a - Investment of amounts appropriated and contributed to Harry S Truman Memorial Scholarship Trust Fund](%C2%A7%2002009a%20-%20Investment%20of%20amounts%20appropriated%20and%20contributed%20to%20Harry%20S%20Truman%20Memorial%20Scholarship%20Trust%20Fund.md)
 - [&sect; 02010 - Expenditures and audit of Trust Fund](%C2%A7%2002010%20-%20Expenditures%20and%20audit%20of%20Trust%20Fund.md)
 - [&sect; 02011 - Executive Secretary of Foundation](%C2%A7%2002011%20-%20Executive%20Secretary%20of%20Foundation.md)
 - [&sect; 02012 - Administrative provisions](%C2%A7%2002012%20-%20Administrative%20provisions.md)

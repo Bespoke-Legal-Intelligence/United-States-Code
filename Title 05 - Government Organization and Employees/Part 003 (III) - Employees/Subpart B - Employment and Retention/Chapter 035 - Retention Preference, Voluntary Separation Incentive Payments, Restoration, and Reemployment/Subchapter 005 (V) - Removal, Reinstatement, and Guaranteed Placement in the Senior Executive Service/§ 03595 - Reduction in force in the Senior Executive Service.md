@@ -4,7 +4,7 @@
 
 (b)(1) This subsection applies to any career appointee who has successfully completed the probationary period prescribed under section 3393(d) of this title.
 
-(2) Except as provided in paragraphs (4) and (5), a career appointee may not be removed from the Senior Executive Service due to a reduction in force within an agency.
+(2) Except as provided in paragraphs (4) and (5), a career appointee may not be removed fromthe Senior Executive Service due to a reduction in force within an agency.
 
 (3) A career appointee who, but for this subsection, would be removed from the Senior Executive Service due to a reduction in force within an agency—
 
@@ -68,5 +68,5 @@ Section 1704(e) of Pub. L. 97–35 provided that:
 
 “(B) The provisions of section 3595(a), as added by subsection (a)(1), shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
-“(3) The effectiveness of the amendments made by this section shall be subject to section 415(b) of the Civil Service Reform Act of 1978 \[Pub. L. 95–454, title IV, Oct. 13, 1978, 92 Stat. 1154\] (5 U.S.C. 3131 note) to thesame extent and manner as the amendments made by title IV of that Act.”
+“(3) The effectiveness of the amendments made by this section shall be subject to section 415(b) of the Civil Service Reform Act of 1978 \[Pub. L. 95–454, title IV, Oct. 13, 1978, 92 Stat. 1154\] (5 U.S.C. 3131 note) to the same extent and manner as the amendments made by title IV of that Act.”
 

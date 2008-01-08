@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(1) “criminal justice” means activities pertaining to crime prevention, control, or reduction, or the enforcement of the criminal law, including, but not limited to, police efforts to prevent, control, or reduce crime or to apprehend criminals, including juveniles, activities of courts having criminal jurisdiction, and related agencies (including but not limited to prosecutorial and defender services, juvenile delinquency agencies and pretrial service or release agencies), activities of corrections, probation, or parole authorities and related agencies assisting in the rehabilitation, supervision, and care of criminal offenders, and programs relating to the prevention, control, or reduction of narcotic addiction and juvenile delinquency;
 
-&emsp;(2) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands,American Samoa, Guam, and the Northern Mariana Islands: <i>Provided</i>, That for the purposes of section 3755(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state <sup>1</sup> and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.<sup>2</sup>
+&emsp;(2) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands: <i>Provided</i>, That for the purposes of section 3755(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state <sup>1</sup> and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.<sup>2</sup>
 
 &emsp;(3) “unit of local government” means—
 
@@ -80,7 +80,7 @@ As used in this chapter—
 
 #### (b) Data basis for definitions; reflection of technical changes or modifications
 
-Where appropriate, the definitions in subsection (a) of this section shall be based, with respect to any fiscal year, on the most recent data compiled by the United States Bureau of the Census and the latest published reports of the Office of Management and Budget available ninety days prior to the beginning of such fiscal year. The Office may by regulation change or otherwise modify the meaning of the terms defined in subsection (a) of this section in order to reflect any technical change or modification thereof made subsequent to such date by the United States Bureau of the Census or the Office of Management and Budget.
+Where appropriate, the definitions in subsection (a) of this section shall be based, with respect to any fiscal year, on the most recent data compiled by the United States Bureau of the Census and the latest published reports ofthe Office of Management and Budget available ninety days prior to the beginning of such fiscal year. The Office may by regulation change or otherwise modify the meaning of the terms defined in subsection (a) of this section in order to reflect any technical change or modification thereof made subsequent to such date by the United States Bureau of the Census or the Office of Management and Budget.
 
 #### (c) Designation of public agencies for undertaking a program or project
 

@@ -10,7 +10,7 @@ Factors To Be Considered in Imposing Concurrent or Consecutive Terms.—The cour
 
 (c)
 
-Treatment of Multiple Sentence as an Aggregate.—Multiple terms of imprisonmentordered to run consecutively or concurrently shall be treated for administrative purposes as a single, aggregate term of imprisonment.
+Treatment of Multiple Sentence as an Aggregate.—Multiple terms of imprisonment ordered to run consecutively or concurrently shall be treated for administrative purposes as a single, aggregate term of imprisonment.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2000.)
 

@@ -210,7 +210,7 @@ Subsec. (g). Pub. L. 104–106, §1502(a)(1), substituted “Committee on Armed 
 
 1993—Subsec. (a). Pub. L. 103–160, in concluding provisions, substituted “10 persons” for “a principal candidate and nine alternates” and inserted at end “Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.”
 
-1990—Subsec. (a)(8) to (10). Pub. L. 101–510, §532 (c)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States.”
+1990—Subsec. (a)(8) to (10). Pub. L. 101–510, §532(c)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States.”
 
 Subsec. (d). Pub. L. 101–510, §532(c)(1)(B), substituted “clauses (2) through (9)” for “clauses (2)–(7), (9), or (10)”.
 

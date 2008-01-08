@@ -38,7 +38,7 @@ The Secretary of the Interior is authorized and directed to cooperate with the S
 
 #### Effective Date of 1988 Amendment
 
-Section 6(e) of Pub. L. 100–448 provided that: “This section \[enacting section 777<i>l</i> of this title, amendingthis section, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 13102 and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 13101 of Title 46, and repealing provisions set out as a note under section 13103 of Title 46\] shall take effect October 1, 1988.”
+Section 6(e) of Pub. L. 100–448 provided that: “This section \[enacting section 777<i>l</i> of this title, amending this section, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 13102 and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 13101 of Title 46, and repealing provisions set out as a note under section 13103 of Title 46\] shall take effect October 1, 1988.”
 
 #### Effective Date of 1984 Amendment
 
@@ -148,7 +148,7 @@ In general.—Non-Federal participation in the Program shall be voluntary.
 
 &emsp;“(2)
 
-Federal action.—The Secretary shall take no action that would result in any non-Federal entity being held financially responsible for any action under the Program, unless the entity applies to participate in the Program.
+Federal action.—The Secretary shall take no action that would result in any non-Federal entitybeing held financially responsible for any action under the Program, unless the entity applies to participate in the Program.
 
 “(b)
 

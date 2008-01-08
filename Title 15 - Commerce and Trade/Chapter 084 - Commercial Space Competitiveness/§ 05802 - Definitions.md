@@ -22,7 +22,7 @@ For the purpose of this chapter—
 
 &emsp;(8) the term “launch vehicle” means any vehicle constructed for the purpose of operating in or placing a payload in, outer space or in suborbital trajectories, and includes components of that vehicle;
 
-&emsp;(9) the term “payload” means an object which a person undertakes to launch, and includes subcomponents of the launch vehicle specifically designed or adapted for that object;
+&emsp;(9) the term “payload” means an object which a person undertakes to launch, and includes subcomponents of the launch vehiclespecifically designed or adapted for that object;
 
 &emsp;(10) the term “payload integration services” means activities involved in integrating multiple payloads into a single payload for launch or integrating a payload with a launch vehicle;
 

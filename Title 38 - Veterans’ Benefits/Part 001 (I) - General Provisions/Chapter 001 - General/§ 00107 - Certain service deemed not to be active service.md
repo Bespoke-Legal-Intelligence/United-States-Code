@@ -72,7 +72,7 @@ Subsec. (a)(3). Pub. L. 106–419, §331(b), amended par. (3) generally. Prior t
 
 Subsec. (c). Pub. L. 106–419, §332(a)(2), added subsec. (c) relating to the inapplicability of the second sentence of subsec. (a) to an individual described in paragraph (2).
 
-Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(B)\], added subsec. (c) relating to the inapplicability of the second sentence of subsec. (a) to cases of benefits under subchapters II and IV of chapter 11 of this title paid to United States citizens or to permanent resident aliens.
+Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(B)\], added subsec. (c) relating to the inapplicability of the secondsentence of subsec. (a) to cases of benefits under subchapters II and IV of chapter 11 of this title paid to United States citizens or to permanent resident aliens.
 
 1994—Subsecs. (a), (b). Pub. L. 103–446 substituted “rate of” for “rate in pesos as is equivalent to” and for “rate in Philippine pesos as is equivalent to” in second sentence.
 

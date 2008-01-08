@@ -44,7 +44,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;(A)(i) Which countries have financial institutions engaging in currency transactions involving international narcotics trafficking proceeds that include significant amounts of United States currency or currency derived from illegal drug sales in the United States or that otherwise significantly affect the United States;
 
-&emsp;&emsp;(ii) which countries identified pursuant to clause (i) have not reached agreement withthe United States authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings; and
+&emsp;&emsp;(ii) which countries identified pursuant to clause (i) have not reached agreement with the United States authorities on a mechanism for exchanging adequate records in connection with narcotics investigations and proceedings; and
 
 &emsp;&emsp;(iii) which countries identified pursuant to clause (ii)—
 

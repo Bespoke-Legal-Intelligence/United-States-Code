@@ -24,7 +24,7 @@ Except as provided in subsection (c) of this section, no such application—
 
 &emsp;&emsp;(F) such other stations or classes of stations, not in the broadcasting or common carrier services, as the Commission shall by rule prescribe,
 
-> shall be granted by the Commission earlier than thirty days following issuance of public notice by the Commission of the acceptance for filingof such application or of any substantial amendment thereof.
+> shall be granted by the Commission earlier than thirty days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereof.
 
 #### (c) Applications not affected by subsection (b)
 
@@ -52,7 +52,7 @@ Subsection (b) of this section shall not apply—
 
 #### (d) Petition to deny application; time; contents; reply; findings
 
-(1) Any party in interest may file with the Commission a petition to deny any application (whether as originally filed or as amended) to which subsection (b) of this section applies at any time prior to the day of Commission grant thereof without hearing or the day of formal designation thereof for hearing; except that with respect to any classification of applications, the Commission from time to time by rule may specify a shorter period (no less than thirty days following the issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereof), which shorter period shall be reasonably related to the time when the applications would normally be reached for processing. The petitioner shall serve a copy of such petition on the applicant. The petition shall contain specific allegations of fact sufficient to show that the petitioner is a party in interest and that a grant of the application would be prima facie inconsistent with subsection (a) of this section (or subsection (k) of this section in the case of renewal of any broadcast station license). Such allegations of fact shall, except for those of which official notice may be taken, be supported by affidavit of a person or persons with personal knowledge thereof. The applicant shall be given the opportunity to file a reply in which allegations of fact or denials thereof shall similarly be supported by affidavit.
+(1) Any party in interest may file with the Commission a petition to deny any application (whether as originally filed or as amended) to which subsection (b) of this section applies at any time prior to the day of Commission grant thereof without hearing or the day of formal designation thereof for hearing; except that with respect to any classification of applications, the Commission from time to time by rule may specify a shorter period (no less than thirtydays following the issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereof), which shorter period shall be reasonably related to the time when the applications would normally be reached for processing. The petitioner shall serve a copy of such petition on the applicant. The petition shall contain specific allegations of fact sufficient to show that the petitioner is a party in interest and that a grant of the application would be prima facie inconsistent with subsection (a) of this section (or subsection (k) of this section in the case of renewal of any broadcast station license). Such allegations of fact shall, except for those of which official notice may be taken, be supported by affidavit of a person or persons with personal knowledge thereof. The applicant shall be given the opportunity to file a reply in which allegations of fact or denials thereof shall similarly be supported by affidavit.
 
 (2) If the Commission finds on the basis of the application, the pleadings filed, or other matters which it may officially notice that there are no substantial and material questions of fact and that a grant of the application would be consistent with subsection (a) of this section (or subsection (k) of this section in the case of renewal of any broadcast station license), it shall make the grant, deny the petition, and issue a concise statement of the reasons for denying the petition, which statement shall dispose of all substantial issues raised by the petition. If a substantial and material question of fact is presented or if the Commission for any reason is unable to find that grant of the application would be consistent with subsection (a) of this section (or subsection (k) of this section in the case of renewal of any broadcast station license), it shall proceed as provided in subsection (e) of this section.
 
@@ -62,7 +62,7 @@ If, in the case of any application to which subsection (a) of this section appli
 
 #### (f) Temporary authorization of temporary operations under subsection (b)
 
-When an application subject to subsection (b) of this section has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiring temporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for aperiod not exceeding 180 days, and upon making like findings may extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shall give expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
+When an application subject to subsection (b) of this section has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiring temporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for a period not exceeding 180 days, and upon making like findings may extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shall give expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
 
 #### (g) Classification of applications
 
@@ -116,7 +116,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (2) Exemptions
 
-&emsp;The competitive bidding authority granted by this subsection shall not apply to licensesor construction permits issued by the Commission—
+&emsp;The competitive bidding authority granted by this subsection shall not apply to licenses or construction permits issued by the Commission—
 
 &emsp;&emsp;(A) for public safety radio services, including private internal radio services used by State and local governments and non-government entities and including emergency road services provided by not-for-profit organizations, that—
 
@@ -184,7 +184,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;(F) be construed to prohibit the Commission from issuing nationwide, regional, or local licenses or permits;
 
-&emsp;&emsp;(G) be construed to prevent the Commission from awarding licenses to those persons who make significant contributions to the development of a new telecommunications service or technology; or
+&emsp;&emsp;(G) be construed to prevent the Commission from awarding licenses to those personswho make significant contributions to the development of a new telecommunications service or technology; or
 
 &emsp;&emsp;(H) be construed to relieve any applicant for a license or permit of the obligation to pay charges imposed pursuant to section 158 of this title.
 
@@ -452,7 +452,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (D) Return of payments
 
-&emsp;&emsp;Within one month after June 19, 2002, the Commission shall return to the bidders for licenses in the A-block, B-block, and E-block of auction 44 the full amount of all upfront payments made by such bidders for such licenses.
+&emsp;&emsp;Within one month after June 19, 2002, the Commission shall return to the bidders for licenses in the A-block, B-block, and E-block of auction 44 the full amount of all upfrontpayments made by such bidders for such licenses.
 
 #### (16) Special auction provisions for eligible frequencies
 
@@ -506,7 +506,7 @@ With respect to competing applications for initial licenses or construction perm
 
 &emsp;(3) waive any provisions of its regulations necessary to permit such persons to enter an agreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997.
 
-(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993; Pub. L. 109–171, title III, §§3002(a), 3003, 3004, Feb. 8, 2006, 120 Stat. 21, 22.)
+(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993; Pub. L. 109–171,title III, §§3002(a), 3003, 3004, Feb. 8, 2006, 120 Stat. 21, 22.)
 
 #### References in Text
 
@@ -666,11 +666,11 @@ Section 4(d)(1)–(3) of Pub. L. 86–752 provided that:
 
 “(2) Section 309 of the Communications Act of 1934 \[this section\] (as amended by subsection (a) of this section) shall apply to any application to which section 308 of such Act \[section 308 of this title\] applies (A) which is filed on or after the effective date of subsection (a) of this section, (B) which is filed before such effective date, but is substantially amended on or after such effective date, or (C) which is filed before such effective date and is not substantially amended on or after such effective date, but with respect to which the Commission by rule provides reasonable opportunity to file petitions to deny in accordance with section 309 of such Act (as amended by subsection (a) of this section) \[this section\].
 
-“(3) Section 309 of the Communications Act of 1934 \[this section\], as in effect immediately before the effective date of subsection (a) of this section, shall, on and after such effective date, apply only to applications to which section 308 of such Act \[section 308 of this title\] apply which are filed before such effective date and not substantially amended on or after such effective date and with respect to which the Commission does not permit petitions to deny to be filed as provided in clause (C) of paragraph (2) of this subsection.”
+“(3) Section 309 of the Communications Act of 1934 \[this section\], as in effect immediately before the effective date of subsection (a) of this section, shall, on and after such effective date, apply only to applications to which section 308 of such Act \[section 308 of this title\] apply which are filed before such effective date and not substantially amended on or after such effective dateand with respect to which the Commission does not permit petitions to deny to be filed as provided in clause (C) of paragraph (2) of this subsection.”
 
 #### Digital Television Transition and Public Safety
 
-Pub. L. 109–171, title III, Feb. 8, 2006, 120 Stat. 21, provided that:
+Pub. L. 109–171, title III, Feb. 8, 2006, 120 Stat. 21, as amended by Pub. L. 110–53, title XXII, §2201(a), title XXIII, §2302, Aug. 3, 2007, 121 Stat. 537, 543, provided that:
 
 #### “SEC. 3001. SHORT TITLE; DEFINITION.
 
@@ -778,19 +778,85 @@ Definition of Digital-to-Analog Converter Box.—For purposes of this section, t
 
 Creation of Program.—The Assistant Secretary, in consultation with the Secretary of the Department of Homeland Security—
 
-&emsp;“(1) may take such administrative action as is necessary to establish and implement a grant program to assist public safety agencies in the acquisition of, deployment of, or training for the use of interoperable communications systems that utilize, or enable interoperability with communications systems that can utilize, reallocated public safety spectrum for radio communication; and
+&emsp;“(1) may take such administrative action as is necessary to establish and implement—
 
-&emsp;“(2) shall make payments of not to exceed $1,000,000,000, in the aggregate, through fiscal year 2010 to carry out that program from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)).
+&emsp;&emsp;“(A) a grant program to assist public safety agencies in the planning and coordination associated with, the acquisition of, deployment of, or training for the use of interoperable communications equipment, software and systems that—
+
+&emsp;&emsp;&emsp;“(i) utilize reallocated public safety spectrum for radio communication;
+
+&emsp;&emsp;&emsp;“(ii) enable interoperability with communications systems that can utilize reallocated public safety spectrum for radio communication; or
+
+&emsp;&emsp;&emsp;“(iii) otherwise improve or advance the interoperability of public safety communications systems that utilize other public safety spectrum bands; and
+
+&emsp;&emsp;“(B) are used to establish and implement \[sic\] a strategic technology reserve to pre-position or secure interoperable communications in advance for immediate deployment in an emergency or major disaster;
+
+&emsp;“(2) shall make payments of not to exceed $1,000,000,000, in the aggregate, through fiscal year 2010 from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to carry out the grant program established under paragraph (1), of which at least $75,000,000, in the aggregate, shall be used for purposes described in paragraph (1)(B); and
+
+&emsp;“(3) shall permit any funds allocated for use under paragraph (1)(B) to be used for purposes identifiedunder paragraph (1)(A), if the public safety agency demonstrates that it has already implemented such a strategic technology reserve or demonstrates higher priority public safety communications needs.
 
 “(b)
 
-Credit.—The Assistant Secretary may borrow from the Treasury beginning on October 1, 2006, such sums as may be necessary, but not to exceed $1,000,000,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
+Eligibility.—To be eligible for assistance under the grant program established under subparagraph (a)(1)(A), an applicant shall submit an application, at such time, in such form, and containing such information as the Assistant Secretary may require, including a detailed explanation of how assistance received under the program would be used to improve communications interoperability and ensure interoperability with other public safety agencies in an emergency or a major disaster.
 
 “(c)
 
-Condition of Grants.—In order to obtain a grant under the grant program, a public safety agency shall agree to provide, from non-Federal sources, not less than 20 percent of the costs of acquiring and deploying the interoperable communications systems funded under the grant program.
+Criteria for Strategic Technology Reserves.—
+
+&emsp;“(1)
+
+In general.—In evaluating permitted uses under subparagraph (a)(1)(B), the Assistant Secretary shall consider the continuing technological evolution of communications technologies and devices, with its implicit risk of obsolescence, and shall ensure, to the maximum extent feasible, that a substantial part of the reserve involves prenegotiated contracts and other arrangements for rapid deployment of equipment, supplies, and systems (and communications service related to such equipment, supplies, and systems), rather than the warehousing or storage of equipment and supplies currently available at the time the reserve is established.
+
+&emsp;“(2)
+
+Requirements and characteristics.—Funds provided to meet uses described in paragraph (1) shall be used in support of reserves that—
+
+&emsp;&emsp;“(A) are capable of re-establishing communications when existing critical infrastructure is damaged or destroyed in an emergency or a major disaster;
+
+&emsp;&emsp;“(B) include appropriate current, widely-used equipment, such as Land Mobile Radio Systems, cellular telephones and satellite-enabled equipment (and related communications service), Cells-On-Wheels, Cells-On-Light-Trucks, or other self-contained mobile cell sites that can be towed, backup batteries, generators, fuel, and computers;
+
+&emsp;&emsp;“(C) include equipment on hand for the Governor of each State, key emergency response officials, and appropriate State or local personnel;
+
+&emsp;&emsp;“(D) include contracts (including prenegotiated contracts) for rapid delivery of the most current technology available from commercial sources; and
+
+&emsp;&emsp;“(E) include arrangements for training to ensure that personnel are familiar with the operation of the equipment and devices to be delivered pursuant to such contracts.
+
+&emsp;“(3)
+
+Additional characteristics.—Portions of the reserve may be virtual and may include items donated on an in-kind contribution basis.
+
+&emsp;“(4)
+
+Allocation of funds.—In evaluating permitted uses under subparagraph (a)(1)(B), the Assistant Secretary shall take into account barriers to immediate deployment, including time and distance, that may slow the rapid deployment of equipment, supplies, and systems (and communications service related to such equipment, supplies, and systems) in the event of an emergency in any State.
 
 “(d)
+
+Voluntary Consensus Standards.—In carrying out this section, the Assistant Secretary, in cooperation with the Secretary of Homeland Security, shall identify and, if necessary, encourage the development and implementation of, voluntary consensus standards for interoperable communications systems to the greatest extent practicable, but shall not require any such standard.
+
+“(e)
+
+Inspector General Report and Audits.—
+
+&emsp;“(1)
+
+Report.—Beginning with the first fiscal year beginning after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007 \[Aug. 3, 2007\], the Inspector General of the Department of Commerce shall conduct an annual assessment of the management of the grant program implemented under subsection (a)(1) and transmit a report containing the findings of that assessment and any recommendations related thereto to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce.
+
+&emsp;“(2)
+
+Audits.—Beginning with the first fiscal year beginning after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Inspector General of the Department of Commerce shall conduct financial audits of entities receiving grants from the program implemented under subsection (a)(1), and shall ensure that, over the course of 4 years, such audits cover recipients in a representative sample of not fewer than 25 States or territories. The results of any such audits shall be made publicly available via web site, subject to redaction as the Inspector General determines necessary to protect classified and other sensitive information.
+
+“(f)
+
+Rule of Construction.—Nothing in this section shall be construed or interpreted to preclude the use of funds under this section by any public safety agency for interim- or long-term Internet Protocol-based interoperable solutions.
+
+“(h)\[(g)\]
+
+Credit.—The Assistant Secretary may borrow from the Treasury beginning on October 1, 2006, such sums as may be necessary, but not to exceed $1,000,000,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
+
+“(i)\[(h)\]
+
+Condition of Grants.—In order to obtain a grant under the grant program, a public safety agency shall agree to provide, from non-Federal sources, not less than 20 percent of the costs of acquiring and deploying the interoperable communications systems funded under the grant program.
+
+“(j)\[(i)\]
 
 Definitions.—For purposes of this section:
 
@@ -801,10 +867,6 @@ Public safety agency.—The term ‘public safety agency’ means any State, loc
 &emsp;“(2)
 
 Interoperable communications systems.—The term ‘interoperable communications systems’ means communications systems which enable public safety agencies to share information amongst local, State, Federal, and tribal public safety agencies in the same area via voice or data signals.
-
-&emsp;“(3)
-
-Reallocated public safety spectrum.—The term ‘reallocated public safety spectrum’ means the bands of spectrum located at 764–776 megahertz and 794–806 megahertz, inclusive.
 
 #### “SEC. 3007. NYC 9/11 DIGITAL TRANSITION.
 
@@ -866,7 +928,13 @@ Eligible Stations.—For purposes of this section, the term ‘eligible low-powe
 
 #### “SEC. 3011. ENHANCE 911.
 
-“The Assistant Secretary shall make payments of not to exceed $43,500,000, in the aggregate, from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to implement the ENHANCE 911 Act of 2004 \[title I of Pub. L. 108–494, see Short Title of 2004 Amendment note set out under section 901 of this title\].
+“(a)
+
+In General.—The Assistant Secretary shall make payments of not to exceed $43,500,000, in the aggregate, from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to implement the ENHANCE 911 Act of 2004 \[title I of Pub. L. 108–494, see Short Title of 2004 Amendment note set out under section 901 of this title\].
+
+“(b)
+
+Credit.—The Assistant Secretary may borrow from the Treasury, upon enactment of the 911 Modernization Act \[Aug. 3, 2007\], such sums as necessary, but not to exceed $43,500,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
 
 #### “SEC. 3012. ESSENTIAL AIR SERVICE PROGRAM.
 
@@ -894,7 +962,7 @@ Advances.—The Secretary of Transportation may borrow from the Treasury such su
 
 Pub. L. 107–195, §2, June 19, 2002, 116 Stat. 715, provided that: “Congress finds the following:
 
-&emsp;“(1) Circumstances in the telecommunications market have changed dramatically since the auctioning of spectrum in the 700 megahertz band was originally mandated by Congress in 1997, raising serious questions as to whether the original deadlines, or the subsequent revision of the deadlines, are consistent with sound telecommunications policy and spectrum management principles.
+&emsp;“(1) Circumstances in the telecommunications market have changed dramatically since the auctioningof spectrum in the 700 megahertz band was originally mandated by Congress in 1997, raising serious questions as to whether the original deadlines, or the subsequent revision of the deadlines, are consistent with sound telecommunications policy and spectrum management principles.
 
 &emsp;“(2) No comprehensive plan yet exists for allocating additional spectrum for third-generation wireless and other advanced communications services. The Federal Communications Commission should have the flexibility to auction frequencies in the 700 megahertz band for such purposes.
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this subchapter and the Federal Acquisition Regulation; and
 
-&emsp;(B) shall use the competitive procedure or combination of competitive procedures that isbest suited under the circumstances of the procurement.
+&emsp;(B) shall use the competitive procedure or combination of competitive procedures that is best suited under the circumstances of the procurement.
 
 (2) In determining the competitive procedures appropriate under the circumstance, an executive agency—
 
@@ -70,7 +70,7 @@ An executive agency may use procedures other than competitive procedures only wh
 
 (1) For the purposes of applying subsection (c)(1) of this section—
 
-&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, theproperty or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
+&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
 
 &emsp;(B) in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment when it is likely that award to a source other than the original source would result in (i) substantial duplication of cost to the Government which is not expected to be recovered through competition, or (ii) unacceptable delays in fulfilling the executive agency's needs, such property may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures.
 
@@ -136,7 +136,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 &emsp;(A) special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and
 
-&emsp;(B) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonablyexpects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
+&emsp;(B) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
 
 (2)(A) The Administrator of General Services shall prescribe regulations that provide special simplified procedures for acquisitions of leasehold interests in real property at rental rates that do not exceed the simplified acquisition threshold.
 
@@ -272,7 +272,7 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 
 #### Effective Date
 
-Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
+Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat.403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold
 
@@ -322,7 +322,7 @@ Authority to withhold.—The head of an executive agency may—
 
 Availability to congress.—In any case in which the head of an executive agency withholds information under paragraph (1), the head of such executive agency shall make available an unredacted version of the document containing that information to the chairman and ranking member of each of the following committees of Congress:
 
-&emsp;&emsp;“(A) The Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives.
+&emsp;&emsp;“(A) The Committee on Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives.
 
 &emsp;&emsp;“(B) The Committees on Appropriations of the Senate and House of Representatives.
 

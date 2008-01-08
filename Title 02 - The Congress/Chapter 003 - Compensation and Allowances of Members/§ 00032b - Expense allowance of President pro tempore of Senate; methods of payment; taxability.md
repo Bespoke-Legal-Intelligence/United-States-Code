@@ -22,5 +22,5 @@ Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year
 
 #### Office of the President Pro Tempore Emeritus of the Senate
 
-Pub. L. 108–7, div. H, title I, §7, Feb. 20, 2003, 117 Stat. 350, as amended by Pub. L. 108–447, div. G, title I, §§4, 13(b), Dec. 8, 2004, 118 Stat. 3169, 3171, established the Office of the President pro tempore emeritus of the Senate applicable only with respect to the 108th Congress and the 109th Congress.
+Pub. L. 108–7, div. H, title I, §7, Feb. 20, 2003, 117 Stat. 350, as amended by Pub. L. 108–447, div. G, title I, §§4, 13(b), Dec. 8, 2004, 118 Stat. 3169, 3171; Pub. L. 110–161, div. H, title I, §2, Dec. 26, 2007, 121 Stat. 2221, established the Office of the President pro tempore emeritus of the Senate applicable only with respect to the 108th Congress, the 109th Congress, and the 110th Congress.
 

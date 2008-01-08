@@ -12,7 +12,7 @@
 
 (c) A candidate for trustee is elected trustee if—
 
-&emsp;(1) creditors holding at least 20 percent in amount of the claims of a kind specified in subsection (a)(1) of this section that are held by creditors that may vote under subsection (a) of this section vote; and
+&emsp;(1) creditors holding at least 20 percent in amount of the claims of a kind specified insubsection (a)(1) of this section that are held by creditors that may vote under subsection (a) of this section vote; and
 
 &emsp;(2) such candidate receives the votes of creditors holding a majority in amount of claims specified in subsection (a)(1) of this section that are held by creditors that vote for a trustee.
 
@@ -24,7 +24,7 @@
 
 I74legislative statements
 
-The House amendment adopts section 702(a)(2) of the Senate amendment. An insubstantial equity interestdoes not disqualify a creditor from voting for a candidate for trustee.
+The House amendment adopts section 702(a)(2) of the Senate amendment. An insubstantial equity interest does not disqualify a creditor from voting for a candidate for trustee.
 
 #### senate report no. 95–989
 

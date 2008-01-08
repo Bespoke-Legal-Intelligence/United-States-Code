@@ -128,7 +128,7 @@ Aircraft.—The term ‘aircraft’ has the meaning such term has under section 
 
 #### Information Coordination
 
-Pub. L. 100–690, title VII, §7210, Nov. 18, 1988, 102 Stat. 4432, provided that: “Not later than 180 days after the date of the enactment of this subtitle \[Nov. 18, 1988\] and annually thereafter during the 3-year period beginning on such 180th day, the Administrator shall prepare and transmit to Congress a report on the following:
+Pub. L. 100–690, title VII, §7210, Nov. 18, 1988, 102 Stat. 4432, provided that: “Not later than 180 days after the date of the enactment of this subtitle \[Nov. 18, 1988\]and annually thereafter during the 3-year period beginning on such 180th day, the Administrator shall prepare and transmit to Congress a report on the following:
 
 &emsp;“(1) The progress made in establishing a process for provision of informational assistance by such Administration to officials of Federal, State, and local law enforcement agencies.
 

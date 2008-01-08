@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) referrals to providers of medical services (including specialty referral when medically indicated) and other health-related services (including substance abuse and mental health services);
 
-&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed toassist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, housing, educational, or other related services;
+&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed to assist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, housing, educational, or other related services;
 
 &emsp;&emsp;&emsp;(iv) services that enable individuals to use the services of the health center (including outreach and transportation services and, if a substantial number of the individuals in the population served by a center are of limited English-speaking ability, the services of appropriate personnel fluent in the language spoken by a predominant number of such individuals); and
 
@@ -272,7 +272,7 @@ For purposes of this section:
 
 #### (B) Foreclosure
 
-&emsp;&emsp;The Secretary may take such action, consistent with State law respecting foreclosureprocedures and, with respect to reserves required for furnishing services on a prepaid basis, subject to the consent of the affected States, as the Secretary determines appropriate to protect the interest of the United States in the event of a default on a loan guaranteed under this subsection, except that the Secretary may only foreclose on assets offered as security (if any) in accordance with paragraph (2)(A)(i).
+&emsp;&emsp;The Secretary may take such action, consistent with State law respecting foreclosure procedures and, with respect to reserves required for furnishing services on a prepaid basis, subject to the consent of the affected States, as the Secretary determines appropriate to protect the interest of the United States in the event of a default on a loan guaranteed under this subsection, except that the Secretary may only foreclose on assets offered as security (if any) in accordance with paragraph (2)(A)(i).
 
 #### (5) Limitation
 
@@ -348,7 +348,7 @@ For purposes of this section:
 
 #### (2) Priority
 
-&emsp;In making grants under this subsection the Secretary shall give priority to health centersproviding services to any medically underserved population among which there is a substantial incidence of infant mortality or among which there is a significant increase in the incidence of infant mortality.
+&emsp;In making grants under this subsection the Secretary shall give priority to health centers providing services to any medically underserved population among which there is a substantial incidence of infant mortality or among which there is a significant increase in the incidence of infant mortality.
 
 #### (3) Requirements
 
@@ -372,7 +372,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) migratory agricultural workers, seasonal agricultural workers, and members of the families of such migratory and seasonal agricultural workers who are within a designated catchment area; and
 
-&emsp;&emsp;(B) individuals who have previously been migratory agricultural workers but who no longer meet the requirements of subparagraph (A) of paragraph (3) because of age or disability and members of the families of such individuals who are within such catchment area.
+&emsp;&emsp;(B) individuals who have previously been migratory agricultural workers but who no longer meet the requirements of subparagraph (A) of paragraph (3) because of age ordisability and members of the families of such individuals who are within such catchment area.
 
 #### (2) Environmental concerns
 
@@ -522,7 +522,7 @@ For purposes of this section:
 
 &emsp;Except as provided in subsection (e)(1)(B) of this section, the Secretary may not approve an application for a grant under subparagraph (A) or (B) of subsection (e)(1) of this section unless the Secretary determines that the entity for which the application is submitted is a health center (within the meaning of subsection (a) of this section) and that—
 
-&emsp;&emsp;(A) the required primary health services of the center will be available and accessible in the catchment area of the center promptly, as appropriate, and in a manner which assures continuity;
+&emsp;&emsp;(A) the required primary health services of the center will be available and accessible inthe catchment area of the center promptly, as appropriate, and in a manner which assures continuity;
 
 &emsp;&emsp;(B) the center has made and will continue to make every reasonable effort to establish and maintain collaborative relationships with other health care providers in the catchment area of the center;
 
@@ -560,7 +560,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) is composed of individuals, a majority of whom are being served by the center and who, as a group, represent the individuals being served by the center;
 
-&emsp;&emsp;&emsp;(ii) meets at least once a month, selects the services to be provided by the center, schedules the hours during which suchservices will be provided, approves the center's annual budget, approves the selection of a director for the center, and, except in the case of a governing board of a public center (as defined in the second sentence of this paragraph), establishes general policies for the center; and
+&emsp;&emsp;&emsp;(ii) meets at least once a month, selects the services to be provided by the center, schedules the hours during which such services will be provided, approves the center's annual budget, approves the selection of a director for the center, and, except in the case of a governing board of a public center (as defined in the second sentence of this paragraph), establishes general policies for the center; and
 
 &emsp;&emsp;&emsp;(iii) in the case of an application for a second or subsequent grant for a public center, has approved the application or if the governing body has not approved the application, the failure of the governing body to approve the application was unreasonable;
 
@@ -644,7 +644,7 @@ The Secretary may delegate the authority to administer the programs authorized b
 
 #### (p) Special consideration
 
-In making grants under this section, the Secretary shall give special consideration to the unique needs of sparsely populated rural areas, including giving priority in the awarding of grants for new health centers under subsections (c) and (e) of this section, and the granting of waivers as appropriate and permitted under subsections (b)(1)(B)(i) and (k)(3)(G) of this section.
+In making grants under this section, the Secretary shall give special consideration to theunique needs of sparsely populated rural areas, including giving priority in the awarding of grants for new health centers under subsections (c) and (e) of this section, and the granting of waivers as appropriate and permitted under subsections (b)(1)(B)(i) and (k)(3)(G) of this section.
 
 #### (q) Audits
 
@@ -686,7 +686,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (B) Distribution of grants
 
-&emsp;&emsp;For fiscal year 2002 and each of the following fiscal years, the Secretary, in awardinggrants under this section, shall ensure that the proportion of the amount made available under each of subsections (g), (h), and (i) of this section, relative to the total amount appropriated to carry out this section for that fiscal year, is equal to the proportion of the amount made available under that subsection for fiscal year 2001, relative to the total amount appropriated to carry out this section for fiscal year 2001.
+&emsp;&emsp;For fiscal year 2002 and each of the following fiscal years, the Secretary, in awarding grants under this section, shall ensure that the proportion of the amount made available under each of subsections (g), (h), and (i) of this section, relative to the total amount appropriated to carry out this section for that fiscal year, is equal to the proportion of the amount made available under that subsection for fiscal year 2001, relative to the total amount appropriated to carry out this section for fiscal year 2001.
 
 #### (3) Funding report
 
@@ -844,7 +844,7 @@ Subsec. (r). Pub. L. 107–251, §101(8)(B), which directed the redesignation of
 
 Subsec. (s). Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (<i>o</i>), and (p) through (s), respectively, could not be executed.
 
-Subsec. (s)(1). Pub. L. 107–251, §101(11)(A), substituted “$1,340,000,000 for fiscal year 2002 and such sums as may be necessary for each of the fiscal years 2003 through 2006” for “$802,124,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001”.
+Subsec. (s)(1). Pub. L. 107–251, §101(11)(A), substituted “$1,340,000,000 for fiscal year 2002 and such sums as maybe necessary for each of the fiscal years 2003 through 2006” for “$802,124,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001”.
 
 Subsec. (s)(2)(A). Pub. L. 107–251, §101(11)(B)(i), substituted “(<i>l</i>)(3)” for “(j)(3)” and “(<i>l</i>)(3)(H)” for “(j)(3)(G)(ii)”.
 

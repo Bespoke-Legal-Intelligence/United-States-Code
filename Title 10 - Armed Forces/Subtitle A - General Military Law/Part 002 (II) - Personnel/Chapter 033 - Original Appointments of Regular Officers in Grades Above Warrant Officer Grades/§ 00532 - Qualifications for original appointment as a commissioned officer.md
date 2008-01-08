@@ -16,7 +16,7 @@
 
 (2) To be eligible for an original appointment as a medical officer, a doctor of osteopathy must—
 
-&emsp;(A) be a graduate of a college of osteopathy whose graduates are eligible to be licensed topractice medicine or surgery in a majority of the States;
+&emsp;(A) be a graduate of a college of osteopathy whose graduates are eligible to be licensed to practice medicine or surgery in a majority of the States;
 
 &emsp;(B) be licensed to practice medicine, surgery, or osteopathy in a State or in the District of Columbia;
 

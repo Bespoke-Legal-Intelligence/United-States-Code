@@ -30,7 +30,7 @@ General rule.—Subject to paragraph (2) of this subsection, no State or politic
 
 &emsp;(2)
 
-Continuation of hawaii's authority.—Nothing in this subsection and the amendments made by the Surface Freight Forwarder Deregulation Act of 1986 shall be construed to affect the authority of the State of Hawaii tocontinue to regulate a motor carrier operating within the State of Hawaii.
+Continuation of hawaii's authority.—Nothing in this subsection and the amendments made by the Surface Freight Forwarder Deregulation Act of 1986 shall be construed to affect the authority of the State of Hawaii to continue to regulate a motor carrier operating within the State of Hawaii.
 
 (c)
 
@@ -122,7 +122,7 @@ Matters not covered.—Nothing in this subsection shall be construed—
 
 &emsp;&emsp;(C) as restricting the right of any State or political subdivision of a State to require, in a nondiscriminatory manner, that any individual operating a vehicle providing prearranged ground transportation service originating in the State or political subdivision have submitted to pre-licensing drug testing or a criminal background investigation of the records of the State in which the operator is domiciled, by the State or political subdivision by which the operator is licensed to provide such service, or by the motor carrier providing such service, as a condition of providing such service.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 899; amended Pub. L. 105–178, title IV, §4016, June 9, 1998, 112 Stat. 412; Pub. L. 105–277, div. C, title I, §106, Oct. 21, 1998, 112 Stat. 2681–586; Pub. L. 107–298, §2, Nov. 26, 2002, 116 Stat. 2342; Pub. L. 109–59, title IV, §§4105(a), 4206(a), Aug. 10, 2005, 119 Stat. 1717, 1754.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 899; amended Pub. L. 105–178, title IV, §4016, June 9, 1998, 112 Stat. 412; Pub. L. 105–277,div. C, title I, §106, Oct. 21, 1998, 112 Stat. 2681–586; Pub. L. 107–298, §2, Nov. 26, 2002, 116 Stat. 2342; Pub. L. 109–59, title IV, §§4105(a), 4206(a), Aug. 10, 2005, 119 Stat. 1717, 1754.)
 
 #### References in Text
 

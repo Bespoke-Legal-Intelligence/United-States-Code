@@ -94,9 +94,13 @@ The Secretary may accept and use donations of funds, property, and services to c
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–352, §6(2)(A), made technical amendment to reference in original act whichappears in text as reference to sections 1, 2, 3, and 4 of this title.
+2004—Subsec. (a)(1). Pub. L. 108–352, §6(2)(A), made technical amendment to reference in original act which appears in text as reference to sections 1, 2, 3, and 4 of this title.
 
 Subsec. (b)(1). Pub. L. 108–352, §6(2)(B), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A” for “the World War II Child Development Centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67A”.
 
 Subsec. (e)(2). Pub. L. 108–352, §6(2)(C), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A,” for “the World War II day care centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67,”.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

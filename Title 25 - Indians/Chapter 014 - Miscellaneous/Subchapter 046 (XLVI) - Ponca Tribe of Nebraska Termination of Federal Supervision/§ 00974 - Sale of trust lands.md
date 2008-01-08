@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to partition or to sell the complete
 
 #### (b) Removal of restrictions; title to lands
 
-All restrictions on the alienation or taxation of interests in land that are owned by membersof the Ponca Tribe of Native Americans of Nebraska three years after September 5, 1962 shall be deemed removed by operation of law, and an unrestricted title shall be vested in each such member.
+All restrictions on the alienation or taxation of interests in land that are owned by members of the Ponca Tribe of Native Americans of Nebraska three years after September 5, 1962 shall be deemed removed by operation of law, and an unrestricted title shall be vested in each such member.
 
 (Pub. L. 87–629, §4, Sept. 5, 1962, 76 Stat. 430.)
 

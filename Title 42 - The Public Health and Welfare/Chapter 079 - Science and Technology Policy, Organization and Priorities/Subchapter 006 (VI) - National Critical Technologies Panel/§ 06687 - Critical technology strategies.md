@@ -16,7 +16,7 @@
 
 &emsp;(D) The development of policies and procedures for synergistic government, industrial, and university participation in the implementation of the strategy.
 
-&emsp;(E) The development of Federal budget estimates for research and development regarding the critical technology or technologies covered by the strategy for the first five fiscal years covered by that strategy.
+&emsp;(E) The development of Federal budget estimates for research and development regardingthe critical technology or technologies covered by the strategy for the first five fiscal years covered by that strategy.
 
 #### (b) Report
 
@@ -36,5 +36,5 @@ Section 6683 of this title, referred to in subsec. (a)(1), was omitted from the 
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, andnot as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 

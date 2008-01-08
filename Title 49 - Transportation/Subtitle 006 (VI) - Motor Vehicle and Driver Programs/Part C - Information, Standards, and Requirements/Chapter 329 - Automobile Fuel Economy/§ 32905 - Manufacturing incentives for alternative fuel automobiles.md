@@ -6,11 +6,15 @@ Dedicated Automobiles.—Except as provided in subsection (c) of this section or
 
 (b)
 
-Dual Fueled Automobiles.—Except as provided in subsection (d) of this section or section 32904(a)(2) of this title, for any model of dual fueled automobile manufactured by a manufacturer in model years 1993–2010, the Administrator of the Environmental Protection Agency shall measure the fuel economy for that model by dividing 1.0 by the sum of—
+Dual Fueled Automobiles.—Except as provided in subsection (d) of this section or section 32904(a)(2) of this title, for any model of dual fueled automobile manufactured by a manufacturer in model years 1993 through 2019, the Administrator of the Environmental Protection Agency shall measure the fuel economy for that model by dividing 1.0 by the sum of—
 
 &emsp;(1) .5 divided by the fuel economy measured under section 32904(c) of this title when operating the model on gasoline or diesel fuel; and
 
-&emsp;(2) .5 divided by the fuel economy measured under subsection (a) of this section when operating the model on alternative fuel.
+&emsp;(2) .5 divided by the fuel economy—
+
+&emsp;&emsp;(A) measured under subsection (a) when operating the model on alternative fuel; or
+
+&emsp;&emsp;(B) measured based on the fuel content of B20 when operating the model on B20, which is deemed to contain 0.15 gallon of fuel.
 
 (c)
 
@@ -18,7 +22,7 @@ Gaseous Fuel Dedicated Automobiles.—For any model of gaseous fuel dedicated au
 
 (d)
 
-Gaseous Fuel Dual Fueled Automobiles.—For any model of gaseous fuel dual fueled automobile manufactured by a manufacturer in model years 1993–2010, the Administrator shall measure the fuel economy for that model by dividing 1.0 by the sum of—
+Gaseous Fuel Dual Fueled Automobiles.—For any model of gaseous fuel dual fueled automobile manufactured by a manufacturer in model years 1993 through 2019, the Administrator shall measure the fuel economy for that model by dividing 1.0 by the sum of—
 
 &emsp;(1) .5 divided by the fuel economy measured under section 32904(c) of this title when operating the model on gasoline or diesel fuel; and
 
@@ -30,31 +34,9 @@ Fuel Economy Calculations.—The Administrator shall calculate the manufacturer'
 
 (f)
 
-Extending Application of Subsections (b)
-
-and (d).—Not later than December 31, 2007, the Secretary of Transportation shall—
-
-&emsp;(1) extend by regulation the application of subsections (b) and (d) of this section for not more than 4 consecutive model years immediately after model year 2010 and explain the basis on which the extension is granted; or
-
-&emsp;(2) publish a notice explaining the reasons for not extending the application of subsections (b) and (d) of this section.
-
-(g)
-
-Study and Report.—Not later than September 30, 2000, the Secretary of Transportation, in consultation with the Secretary of Energy and the Administrator, shall complete a study of the success of the policy of subsections (b) and (d) of this title, and submit to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate and the Committee on Commerce of the House of Representatives a report on the results of the study, including preliminary conclusions on whether the application of subsections (b) and (d) should be extended for up to 4 more model years. The study and conclusions shall consider—
-
-&emsp;(1) the availability to the public of alternative fueled automobiles and alternative fuel;
-
-&emsp;(2) energy conservation and security;
-
-&emsp;(3) environmental considerations; and
-
-&emsp;(4) other relevant factors.
-
-(h)
-
 Fuel Economy Incentive Requirements.—In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1065; Pub. L. 104–287, §5(63), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 109–58, title VII, §§759, 772(a), Aug. 8, 2005, 119 Stat. 833, 834.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1065; Pub. L. 104–287, §5(63), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 109–58, title VII, §§759, 772(a), Aug. 8, 2005, 119 Stat. 833, 834; Pub. L. 110–140, title I, §109(b), (c), Dec. 19, 2007, 121 Stat. 1506.)
 
 Historical and Revision Notes
 
@@ -106,6 +88,14 @@ In subsection (e), the words “subject to the provisions of this section” are
 
 #### Amendments
 
+2007—Subsec. (b). Pub. L. 110–140, §109(b)(1), substituted “1993 through 2019” for “1993–2010” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 110–140, §109(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “.5 divided by the fuel economy measured under subsection (a) of this section when operating the model on alternative fuel.”
+
+Subsec. (d). Pub. L. 110–140, §109(b)(2), substituted “1993 through 2019” for “1993–2010” in introductory provisions.
+
+Subsecs. (f) to (h). Pub. L. 110–140, §109(b)(3), (4), redesignated subsec. (h) as (f) and struck out former subsecs. (f) and (g) which related to temporary extension of application of subsecs. (b) and (d) and study and report on success of the policy of subsecs. (b) and (d), respectively.
+
 2005—Subsecs. (b), (d). Pub. L. 109–58, §772(a)(1), substituted “1993–2010” for “1993–2004” in introductory provisions.
 
 Subsec. (f). Pub. L. 109–58, §772(a)(2), substituted “2007” for “2001” in introductory provisions.
@@ -116,9 +106,7 @@ Subsec. (h). Pub. L. 109–58, §759, added subsec. (h).
 
 1996—Subsec. (g). Pub. L. 104–287 substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
 
-#### Change of Name
+#### Effective Date of 2007 Amendment
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
-
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

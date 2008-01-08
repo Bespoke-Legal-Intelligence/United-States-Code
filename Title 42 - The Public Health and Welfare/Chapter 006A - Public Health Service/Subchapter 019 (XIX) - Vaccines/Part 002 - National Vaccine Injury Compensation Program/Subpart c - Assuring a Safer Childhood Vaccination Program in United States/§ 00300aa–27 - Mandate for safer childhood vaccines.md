@@ -20,7 +20,7 @@ In the administration of this part and other pertinent laws under the jurisdicti
 
 Within 2 years after December 22, 1987, and periodically thereafter, the Secretary shall prepare and transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the actions taken pursuant to subsection (a) of this section during the preceding 2-year period.
 
-(July 1, 1944, ch. 373, title XXI, §2127, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3777; amended Pub. L. 100–203, title IV,§4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 101–239, title VI, §6601(q), Dec. 19, 1989, 103 Stat. 2292.)
+(July 1, 1944, ch. 373, title XXI, §2127, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3777; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 101–239, title VI, §6601(q), Dec. 19, 1989, 103 Stat. 2292.)
 
 #### Codification
 
@@ -34,7 +34,7 @@ In subsecs. (a)(1), (c), “December 22, 1987” substituted for “the effectiv
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -26,7 +26,7 @@ The Administrator may make grants, on a competitive basis, to governmental and n
 
 &emsp;The report shall contain the following:
 
-&emsp;&emsp;(A) A list of the organizations, hospitals, or other entities to which the grants wereprovided and the purpose for which those entities were provided grants.
+&emsp;&emsp;(A) A list of the organizations, hospitals, or other entities to which the grants were provided and the purpose for which those entities were provided grants.
 
 &emsp;&emsp;(B) Efforts taken to ensure that potential grant applicants are provided with information necessary to develop an effective application.
 

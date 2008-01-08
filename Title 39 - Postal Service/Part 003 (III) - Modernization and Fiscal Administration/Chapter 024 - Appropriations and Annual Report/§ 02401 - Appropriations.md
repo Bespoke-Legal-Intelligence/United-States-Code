@@ -28,7 +28,7 @@
 
 &emsp;(1) the plans, policies, and procedures of the Postal Service designed to comply with all of the provisions of section 101 of this title;
 
-&emsp;(2) postal operations generally, including data on the speed and reliability of service provided for the various classes of mail and types of mail service, mail volume, productivity, trends in postal operations, and analyses of the impact of internal and external factors upon the Postal Service;
+&emsp;(2) postal operations generally, including data on the speed and reliability of service provided for the various classes of mail andtypes of mail service, mail volume, productivity, trends in postal operations, and analyses of the impact of internal and external factors upon the Postal Service;
 
 &emsp;(3) a listing of the total expenditures and obligations incurred by the Postal Service for the most recent fiscal year for which information is available, an estimate of the total expenditures and obligations to be incurred by the Postal Service during the fiscal year for which funds are requested to be appropriated, and the means by which these estimated expenses will be financed; and
 
@@ -82,7 +82,7 @@ Subsecs. (h), (i). Pub. L. 103–123, §704(b)(1)(B), redesignated subsecs. (h) 
 
 Pub. L. 99–410 substituted “3406” for “3405” and struck out “the Overseas Citizens Voting Rights Act of 1975, and the Federal Voting Assistance Act of 1955” after “3626 of this title,”.
 
-1981—Subsec. (b)(1). Pub. L. 97–35 substituted “$250,000,000” for “an amount equal to 7 percent of suchsum for fiscal year 1971” in subpar. (D), substituted “$100,000,000” for “an amount equal to 6 percent of such sum for fiscal year 1971” in subpar. (E), and substituted “no funds are authorized to be appropriated” for “an amount equal to 5 percent of such sum for fiscal year 1971” in subpar. (F).
+1981—Subsec. (b)(1). Pub. L. 97–35 substituted “$250,000,000” for “an amount equal to 7 percent of such sum for fiscal year 1971” in subpar. (D), substituted “$100,000,000” for “an amount equal to 6 percent of such sum for fiscal year 1971” in subpar. (E), and substituted “no funds are authorized to be appropriated” for “an amount equal to 5 percent of such sum for fiscal year 1971” in subpar. (F).
 
 1980—Subsec. (b)(1)(C). Pub. L. 96–499, §411, substituted “$486,000,000” for “an amount equal to 8 percent of such sum for fiscal year 1971”.
 

@@ -20,7 +20,7 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 &emsp;&emsp;(B) dependent care expenses (determined in accordance with paragraph (8)); and
 
-&emsp;&emsp;(C) room and board costs (determined in accordance with paragraph (3)), except that a student may receive an allowance for such costs under this subparagraph for not more than 3 semesters or the equivalent, of which not more than 2 semesters or the equivalent may be consecutive;
+&emsp;&emsp;(C) room and board costs (determined in accordance with paragraph (3)), except that a student may receive an allowance for such costs under this subparagraph for not morethan 3 semesters or the equivalent, of which not more than 2 semesters or the equivalent may be consecutive;
 
 &emsp;(5) for a student engaged in a program of study by correspondence, only tuition and fees and, if required, books and supplies, travel, and room and board costs incurred specifically in fulfilling a required period of residential training;
 
@@ -38,7 +38,7 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 &emsp;(10) for a student receiving all or part of the student's instruction by means of telecommunications technology, no distinction shall be made with respect to the mode of instruction in determining costs;
 
-&emsp;(11) for a student engaged in a work experience under a cooperative education program,an allowance for reasonable costs associated with such employment (as determined by the institution);
+&emsp;(11) for a student engaged in a work experience under a cooperative education program, an allowance for reasonable costs associated with such employment (as determined by the institution);
 
 &emsp;(12) for a student who receives a loan under this or any other Federal law, or, at the option of the institution, a conventional student loan incurred by the student to cover a student's cost of attendance at the institution, an allowance for the actual cost of any loan fee, origination fee, or insurance premium charged to such student or such parent on such loan, or the average cost of any such fee or premium charged by the Secretary, lender, or guaranty agency making or insuring such loan, as the case may be; and
 

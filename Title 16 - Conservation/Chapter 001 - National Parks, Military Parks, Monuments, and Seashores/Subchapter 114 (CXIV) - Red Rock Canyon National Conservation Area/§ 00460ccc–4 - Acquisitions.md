@@ -2,19 +2,21 @@
 
 #### (a) In general
 
-(1) Within the conservation area, and subject to the provisions of this section, the Secretary is authorized to acquire lands, interests in lands, and associated water rights, by donation, purchase with donated or appropriated funds, exchange for Federal lands outside the conservation area, or transfer from another Federal agency with the concurrence of the head of the appropriate agency thereof.
+(1) Within the conservation area, and subject to the provisions of this section, the Secretary is authorized to acquire lands, interests in lands, and associated water rights, by donation, purchase, exchange for Federal lands outside the conservation area, or transfer from another Federal agency with the concurrence of the head of the appropriate agency thereof.
 
-(2) Lands or interests therein owned by the State of Nevada or a political subdivision thereof may be acquired by donation or exchange only.
+(2) No privately owned lands, interests in lands, or associated water rights, may be acquired without the consent of the owner thereof unless the Secretary determines that, in his judgment, the property is subject to, or threatened with, uses which are having, or would have, an adverse impact on the resource values for which the conservation area was established.
 
-(3) No privately owned lands, interests in lands, or associated water rights, may be acquired without the consent of the owner thereof unless the Secretary determines that, in his judgment, the property is subject to, or threatened with, uses which are having, or would have, an adverse impact on the resource values for which the conservation area was established.
-
-(4) Any lands, waters, or interests therein within the boundaries of the conservation area which after November 16, 1990, may be acquired by the United States shall be incorporated into the conservation area and be managed accordingly, and all provisions of this subchapter and other laws applicable to conservation areas shall apply to such incorporated lands.
+(3) Any lands, waters, or interests therein within the boundaries of the conservation area which after November 16, 1990, may be acquired by the United States shall be incorporated into the conservation area and be managed accordingly, and all provisions of this subchapter and other laws applicable to conservation areas shall apply to such incorporated lands.
 
 #### (b) Land exchanges
 
 All exchanges pursuant to subsection (a) of this section shall be made in a manner consistent with section 1716 of title 43.
 
-(Pub. L. 101–621, §6, Nov. 16, 1990, 104 Stat. 3344.)
+(Pub. L. 101–621, §6, Nov. 16, 1990, 104 Stat. 3344; Pub. L. 110–161, div. F, title I, §120, Dec. 26, 2007, 121 Stat. 2121.)
+
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 110–161, which directed the amendment of section 460ccc–4(a) of the Red Rock Canyon National Conservation Area Establishment Act authorization by striking out “with donated or appropriated funds” in par. (1), striking out par. (2), and redesignating pars. (3) and (4) as (2) and (3), respectively, was executed by making the amendments to subsec. (a) of this section, which is section 6 of the Red Rock Canyon National Conservation Area Establishment Act of 1990, to reflect the probable intent of Congress. Prior to amendment, “with donated or appropriated funds” appeared after “purchase” and par. (2) read as follows: “Lands or interests therein owned by the State of Nevada or a political subdivision thereof may be acquired by donation or exchange only.”
 
 #### Red Rock Canyon National Conservation Area Protection and Enhancement
 
@@ -46,7 +48,7 @@ Red rock canyon map.—The term ‘Red Rock Canyon Map’ means the map entitled
 
 Findings.—The Congress makes the following findings:
 
-&emsp;“(1) Red Rock Canyon is a natural resource of major significance to the people of Nevada and the United States. It must be protected in its naturalstate for the enjoyment of future generations of Nevadans and Americans, and enhanced wherever possible.
+&emsp;“(1) Red Rock Canyon is a natural resource of major significance to the people of Nevada and the United States. It must be protected in its natural state for the enjoyment of future generations of Nevadans and Americans, and enhanced wherever possible.
 
 &emsp;“(2) In 1998, the Congress enacted the Southern Nevada Public Lands \[Land\] Management Act of 1998 (Public Law 105–263) \[see Short Title of 1998 Amendment note set out under section 6901 of Title 31, Money and Finance\], which provided among other things for the protection and enhancement of Red Rock Canyon.
 
@@ -140,7 +142,7 @@ Disposition of proceeds.—The Secretary shall deposit any cash equalization pay
 
 “(a)
 
-Inclusion and Management of Lands.—Upon the date of the enactment of this Act \[Nov. 6, 2002\], the Secretary shall administer the lands depicted on the Red Rock Map as ‘Public Lands-proposed addition to the Red Rock Canyon NCA’, exclusive of those lands used for the Corps of Engineers R–4 Detention Basin, as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 (16 U.S.C. 460ccc et seq.) and all other applicable laws.
+Inclusion and Management of Lands.—Upon the date of the enactment of this Act \[Nov. 6, 2002\], theSecretary shall administer the lands depicted on the Red Rock Map as ‘Public Lands-proposed addition to the Red Rock Canyon NCA’, exclusive of those lands used for the Corps of Engineers R–4 Detention Basin, as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 (16 U.S.C. 460ccc et seq.) and all other applicable laws.
 
 “(b)
 

@@ -96,7 +96,7 @@ Subsec. (a)(4). Pub. L. 90–407 added par. (4). Former par. (4) redesignated su
 
 Subsec. (a)(5). Pub. L. 90–407 redesignated par. (6) as (5) and provided for the employment of consulting services, by grant or contract, to assist in the evaluation of the status and needs of the various sciences as evidenced by the programs and studies undertaken by agencies of the government, by individuals, and by public and private research groups, and provided for the consideration of the results of such evaluations in the correlation of the Foundation's programs with those undertaken by agencies of the government, as well as those undertaken by individuals and by public and private research groups. Former par. (5) redesignated (3).
 
-Subsec. (a)(6). Pub. L. 90–407 redesignated par. (8) as (6) and provided that the register of scientific and technical personnel shall be current, and authorized the Foundation to analyze and interpret the collected data on the availability of, and the current and projected need for, scientific and technical resources in the United States and to make such information availableto other agencies of the government for policy formulation. Former par. (6) redesignated (5).
+Subsec. (a)(6). Pub. L. 90–407 redesignated par. (8) as (6) and provided that the register of scientific and technical personnel shall be current, and authorized the Foundation to analyze and interpret the collected data on the availability of, and the current and projected need for, scientific and technical resources in the United States and to make such information available to other agencies of the government for policy formulation. Former par. (6) redesignated (5).
 
 Subsec. (a)(7). Pub. L. 90–407 added par. (7). Former par. (7), which provided for the establishment of such special commissions as the Board may from to time deem necessary for the purposes of this chapter, was struck out.
 
@@ -128,7 +128,7 @@ Pub. L. 106–313, title I, §109, Oct. 17, 2000, 114 Stat. 1255, provided that:
 
 “(a)
 
-Study.—The National Science Foundation shall conduct a study of the divergence in access to high technology (commonly referred to as the ‘digital divide’) in the United States.
+Study.—The National Science Foundation shall conduct a study of the divergence in access to hightechnology (commonly referred to as the ‘digital divide’) in the United States.
 
 “(b)
 
@@ -152,7 +152,7 @@ Purposes.—The purposes of the program established under this section shall be 
 
 &emsp;“(3) provide program participants with opportunities to be directly involved in scientific and engineering research, and activities related to the management of scientific and technological innovation, in East Asia; and
 
-&emsp;“(4) create mechanisms for cooperation and partnerships among United States industry, universities, colleges, not-for-profit institutions, Federal laboratories (within the meaning of section 4(6) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(6))), and government, to disseminate the results of the program assisted under this section for the benefit of United States research and innovation.
+&emsp;“(4) create mechanisms for cooperation and partnerships among United States industry, universities, colleges, not-for-profit institutions, Federal laboratories (within the meaning of section 4(6) \[now section 4(5)\] of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(6) \[now 15 U.S.C. 3703(5)\])), and government, to disseminate the results of the program assisted under this section for the benefit of United States research and innovation.
 
 “(c)
 
@@ -184,7 +184,7 @@ Section 5 of Pub. L. 95–99 provided that:
 
 &emsp;“(2) facilitate the participation of qualified scientists and engineers and of undergraduate and graduate students in public activities aimed at the resolution of public policy issues having significant scientific and technical aspects; and
 
-&emsp;“(3) assist nonprofit, citizens, and bona fide public interest groups to acquire necessary scientific andtechnical expertise in order to improve their comprehension of scientific and technical aspects of public policy issues.
+&emsp;“(3) assist nonprofit, citizens, and bona fide public interest groups to acquire necessary scientific and technical expertise in order to improve their comprehension of scientific and technical aspects of public policy issues.
 
 “(b) Awards made pursuant to this section shall, to the extent feasible, include support for—
 
@@ -210,7 +210,7 @@ Pub. L. 94–471, §5, Oct. 11, 1976, 90 Stat. 2054, provided that:
 
 &emsp;“(2) facilitate the participation of experienced scientists and engineers as well as graduate and undergraduate students in helping the public understand science, engineering and technology and their impact on public policies; and
 
-&emsp;“(3) assist nationally recognized professional societies and groups serving important public purposes in conducting a limited number of forums, conferences, and workshops to increase public understanding of science and technology, and of their impact on public policy issues, after consideration of the following eligibility factors:
+&emsp;“(3) assist nationally recognized professional societies and groups serving important public purposes in conducting a limited number of forums, conferences, and workshops to increase public understanding ofscience and technology, and of their impact on public policy issues, after consideration of the following eligibility factors:
 
 &emsp;&emsp;“(A) the extent to which the proposal of the society or group will contribute to the development of facts, issues, and arguments relevant to public policy issues having significant scientific and technical aspects, and
 
@@ -240,7 +240,7 @@ Section 7 of Pub. L. 93–96, Aug. 16, 1973, 87 Stat. 316, provided that:
 
 &emsp;“(2) The programs authorized under title IX of the National Defense Education Act of 1958 \[sections 1876 to 1879 of this title\] relating to establishing the Science Information Service.
 
-“(d)(1) Nothing in this Act \[Pub. L. 93–96\], or any Act amended by this Act, shall be construed to prohibit any institution of higher education from refusing to award,continue, or extend any financial assistance under any such Act to any individual because of any misconduct which in its judgment bears adversely on his fitness for such assistance.
+“(d)(1) Nothing in this Act \[Pub. L. 93–96\], or any Act amended by this Act, shall be construed to prohibit any institution of higher education from refusing to award, continue, or extend any financial assistance under any such Act to any individual because of any misconduct which in its judgment bears adversely on his fitness for such assistance.
 
 “(2) Nothing in this section shall be construed as limiting or prejudicing the rights and prerogatives of any institution of higher education to institute and carry out an independent, disciplinary proceeding pursuant to existing authority, practice, and law.
 
@@ -290,7 +290,7 @@ Sec. 8. To facilitate the efficient use of scientific research equipment and fac
 
 (b) a Federal agency shall procure new major equipment or facilities for scientific research purposes only after taking suitable steps to ascertain that the need cannot be met adequately from existing inventories or facilities of its own or of other agencies; and
 
-(c) the Interdepartmental Committee on Scientific Research and Development shall take necessary steps to ensure that each Federal agency engaged directly in scientific research is kept informed of selected majorequipment and facilities which could serve the needs of more than one agency. Each Federal agency possessing such equipment and facilities shall maintain appropriate records to assist other agencies in arranging for their joint use or exchange.
+(c) the Interdepartmental Committee on Scientific Research and Development shall take necessary steps to ensure that each Federal agency engaged directly in scientific research is kept informed of selected major equipment and facilities which could serve the needs of more than one agency. Each Federal agency possessing such equipment and facilities shall maintain appropriate records to assist other agencies in arranging for their joint use or exchange.
 
 Sec. 9. The heads of the respective Federal agencies shall make such reports concerning activities within the purview of this order as may be required by the President.
 

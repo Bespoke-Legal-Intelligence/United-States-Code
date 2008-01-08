@@ -40,7 +40,7 @@
 
 #### (iii) Adjustments to applicable percentage rate
 
-&emsp;&emsp;&emsp;The percentage rates described in clause (ii) shall be increased or decreased by the Administration by a factor not to exceed one-third, if the same factor is applied in each case and if the Administration determines that an adjustment is necessary, based on the number of borrowers having given notice of their intent to participate, in order to make the program (including the amounts appropriated for this purpose under Public Law 103–317) result in no substantial net gain or loss of revenue to the Federal Financing Bank or to the Administration. Amounts collected in excess of the amount necessary to ensure revenue neutrality shall be refunded to the borrowers.
+&emsp;&emsp;&emsp;The percentage rates described in clause (ii) shall be increased or decreased by theAdministration by a factor not to exceed one-third, if the same factor is applied in each case and if the Administration determines that an adjustment is necessary, based on the number of borrowers having given notice of their intent to participate, in order to make the program (including the amounts appropriated for this purpose under Public Law 103–317) result in no substantial net gain or loss of revenue to the Federal Financing Bank or to the Administration. Amounts collected in excess of the amount necessary to ensure revenue neutrality shall be refunded to the borrowers.
 
 #### (b) Requirements
 

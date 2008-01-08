@@ -152,7 +152,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (g) Consolidation of State proceedings
 
-Where not inconsistent with the requirements of this chapter, a State commission may, to theextent practical, consolidate proceedings under sections 214(e), 251(f), 253 of this title, and this section in order to reduce administrative burdens on telecommunications carriers, other parties to the proceedings, and the State commission in carrying out its responsibilities under this chapter.
+Where not inconsistent with the requirements of this chapter, a State commission may, to the extent practical, consolidate proceedings under sections 214(e), 251(f), 253 of this title, and this section in order to reduce administrative burdens on telecommunications carriers, other parties to the proceedings, and the State commission in carrying out its responsibilities under this chapter.
 
 #### (h) Filing required
 

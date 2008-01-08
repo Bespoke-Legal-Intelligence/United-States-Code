@@ -2,7 +2,7 @@
 
 #### (a) Authorized expenses for administration
 
-Except as provided in subsection (b) of this section, the Secretary of the Interior may use available amounts under section 777c(b) of this title only for expenses for administration that directly support the implementation of this chapter that consist of—
+Except as provided in subsection (b) of this section, the Secretary of the Interior may use available amounts under section 777c(b) of thistitle only for expenses for administration that directly support the implementation of this chapter that consist of—
 
 &emsp;(1) personnel costs of employees who directly administer this chapter on a full-time basis;
 
@@ -72,7 +72,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (3) Report to Congress
 
-&emsp;The Inspector General of the Department of the Interior shall promptly submit to theCommittee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
+&emsp;The Inspector General of the Department of the Interior shall promptly submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
 
 &emsp;&emsp;(A) a report on the results of each audit under this subsection; and
 
@@ -85,6 +85,10 @@ The Secretary of the Interior shall not use available amounts under subsection (
 2005—Subsecs. (a), (b)(1). Pub. L. 109–59 substituted “section 777c(b)” for “section 777c(d)(1)” in introductory provisions.
 
 2000—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the District of Columbia and elsewhere, to be taken from the eligible lists of the civil service; to rent or construct buildings outside of the District of Columbia; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including publication of technical and administrative reports, purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the provisions of this chapter.”
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2005 Amendments
 

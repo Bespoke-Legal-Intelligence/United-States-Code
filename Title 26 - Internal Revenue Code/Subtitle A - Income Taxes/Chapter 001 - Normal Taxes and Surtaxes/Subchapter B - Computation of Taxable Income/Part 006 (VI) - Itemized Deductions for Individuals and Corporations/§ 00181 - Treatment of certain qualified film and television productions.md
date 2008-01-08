@@ -14,7 +14,7 @@
 
 #### (B) Higher dollar limitation for productions in certain areas
 
-&emsp;&emsp;In the case of any qualified film or television production the aggregate cost of which is significantly incurred in an area eligible for designation as—
+&emsp;&emsp;In the case of any qualified film or television production the aggregate cost ofwhich is significantly incurred in an area eligible for designation as—
 
 &emsp;&emsp;&emsp;(i) a low-income community under section 45D, or
 

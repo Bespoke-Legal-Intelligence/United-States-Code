@@ -4,7 +4,7 @@
 
 (b) A term used in a section of this title made applicable in a case under this chapter by subsection (a) of this section or section 103(e) <sup>1</sup> of this title has the meaning defined for such term for the purpose of such applicable section, unless such term is otherwise defined in section 902 of this title.
 
-(c) A section made applicable in a case under this chapter by subsection (a) of this section that is operative if the business of the debtor is authorized to be operated is operative in a case under this chapter.
+(c) A section made applicable in a case under this chapter by subsection (a) of this sectionthat is operative if the business of the debtor is authorized to be operated is operative in a case under this chapter.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2621; Pub. L. 98–353, title III, §§353, 490, July 10, 1984, 98 Stat. 361, 383; Pub. L. 100–597, §3, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 109–8, title V, §502, title XII, §1216, title XV, §1502(a)(5), Apr. 20, 2005, 119 Stat. 118, 195, 216.)
 
@@ -50,9 +50,9 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§509. Claims of codebtors</i>. This section provides for the treatment of sureties, guarantors, and codebtors. The general rule of postponement found in the other chapters will apply in chapter 9. This section adopts current law.
 
-<i>§510. Subordination of claims</i>. This section permits the court to subordinate, on equitable grounds, any claim, and requires enforcement of contractual subordination agreements, and subordination of securities rescission claims. The section recognizes the inherent equitable power of the court under current law, and the practice followed with respect to contractual provisions.
+<i>§510. Subordination of claims</i>. This section permits the court to subordinate, on equitable grounds, any claim, and requires enforcement of contractual subordination agreements, and subordination of securities rescissionclaims. The section recognizes the inherent equitable power of the court under current law, and the practice followed with respect to contractual provisions.
 
-<i>§547. Preferences</i>. Incorporation of section 547 will permit the debtor to recover preferences. This power willbe used primarily when those who gave the preferences have been replaced by new municipal officers or when creditors coerced preferential payments. Unlike Bankruptcy Act §85(h) \[section 405(h) of former title 11\], the section does not permit the appointment of a trustee for the purpose of pursuing preferences. Moreover, this bill does not incorporate the other avoiding powers of a trustee for chapter 9, found in current section 85(h).
+<i>§547. Preferences</i>. Incorporation of section 547 will permit the debtor to recover preferences. This power will be used primarily when those who gave the preferences have been replaced by new municipal officers or when creditors coerced preferential payments. Unlike Bankruptcy Act §85(h) \[section 405(h) of former title 11\], the section does not permit the appointment of a trustee for the purpose of pursuing preferences. Moreover, this bill does not incorporate the other avoiding powers of a trustee for chapter 9, found in current section 85(h).
 
 <i>§550. Liability of transfers</i>. Incorporation of this section is made necessary by the incorporation of the preference section, and permits recovery by the debtor from a transferee of an avoided preference.
 

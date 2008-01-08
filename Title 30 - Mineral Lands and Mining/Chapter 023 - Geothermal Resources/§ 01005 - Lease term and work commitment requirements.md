@@ -100,7 +100,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 “(1) The primary term of any geothermal lease in effect as of July 27, 1984, issued pursuant to the Geothermal \[Steam\] Act of 1970 (Public Law 91–581, 84 Stat. 1566, 30 U.S.C. 1001–1025) is hereby extended to December 31, 1988, if the Secretary of the Interior finds that—
 
-&emsp;“(a) a bona fide sale of the geothermal resource, from a well capable of production, for delivery to orutilization by a facility or facilities, has not been completed (1) due to administrative delays by government entities, beyond the control of the lessee, or (2) such sale would be uneconomic;
+&emsp;“(a) a bona fide sale of the geothermal resource, from a well capable of production, for delivery to or utilization by a facility or facilities, has not been completed (1) due to administrative delays by government entities, beyond the control of the lessee, or (2) such sale would be uneconomic;
 
 &emsp;“(b) substantial investment in the development of or for the benefit of the lease has been made; and
 
@@ -180,7 +180,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 “(e) The Secretary of Agriculture shall consider the effects on significant thermal features of those units of the National Park System identified in subsection (a) of this section in determining whether to consent to leasing under the Geothermal Steam Act of 1970, as amended, on national forest or other lands administered by the Department of Agriculture available for leasing under the Geothermal Steam Act of 1970, as amended, including public, withdrawn, and acquired lands.
 
-“(f) Nothing contained in this section shall affect the ban on leasing under the Geothermal Steam Act of 1970, as amended, with respect to the Island Park Known Geothermal Resources Area, as provided for in Public Law 98–473 (98 Stat. 1837) \[see Tables for classification\] and Public Law 99–190 (99 Stat. 1267) \[see Tables for classification\].
+“(f) Nothing contained in this section shall affect the ban on leasing under the Geothermal Steam Act of 1970, as amended, with respect to the Island Park Known Geothermal Resources Area, as provided for in Public Law 98–473 (98 Stat. 1837) \[see Tables for classification\]and Public Law 99–190 (99 Stat. 1267) \[see Tables for classification\].
 
 “(g) Except as provided herein, nothing contained in this section shall affect or modify the authorities or responsibilities of the Secretary under the Geothermal Steam Act of 1970, as amended, or any other provision of law.
 

@@ -98,7 +98,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 &emsp;(ii) such investigation subsequently demonstrates, as determined by the Administrator, that such resource does not meet the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title or is not acceptable because of environmental impacts, or
 
-&emsp;(iii) after such investigation the Administrator determines not to acquire the resourceand the sponsor determines not to construct the resource.
+&emsp;(iii) after such investigation the Administrator determines not to acquire the resource and the sponsor determines not to construct the resource.
 
 (2) The Administrator may exercise the authority of this subsection only after he determines that the failure to do so would result in inequitable hardship to the consumers of such sponsors. The Administrator may provide reimbursement under this subsection only for expenses incurred after December 5, 1980.
 
@@ -128,7 +128,7 @@ At the request of the appropriate State, any environmental impact statement whic
 
 (6) Prior to granting any credit or providing services pursuant to this subsection, the Administrator shall—
 
-&emsp;(A) comply with the notice provisions of subsection (c) of this section, and include in such notice the methodology the Administrator proposes to use in determining the amount of any such credit;
+&emsp;(A) comply with the notice provisions of subsection (c) of this section, and include in suchnotice the methodology the Administrator proposes to use in determining the amount of any such credit;
 
 &emsp;(B) include the cost of such credit in the Administrator's annual or amended budget submittal to the Congress made pursuant to the Federal Columbia River Transmission System Act (16 U.S.C. 838(j)) \[16 U.S.C. 838 et seq.\];
 
@@ -138,7 +138,7 @@ At the request of the appropriate State, any environmental impact statement whic
 
 #### (i) Contracts
 
-Contracts for the acquisition of resources and for billing credits for major resources, including conservation activities, entered into pursuant tothis section shall contain such terms and conditions, applicable after the contract is entered into, as will—
+Contracts for the acquisition of resources and for billing credits for major resources, including conservation activities, entered into pursuant to this section shall contain such terms and conditions, applicable after the contract is entered into, as will—
 
 &emsp;(1) insure timely construction, scheduling, completion, and operation of resources,
 
@@ -172,7 +172,7 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 #### (m) Offering of reasonable shares to each Pacific Northwest electric utility
 
-Except as to resources under construction on December 5, 1980, the Administrator shall determine in each case of a major resource acquisition that a reasonable share of the particular resource, or a reasonable equivalent, has been offered to each Pacific Northwest electric utility for ownership, participation, or other sponsorship, but not in excess of the amounts needed to meet such utility's Regional load.
+Except as to resources under construction on December 5, 1980, the Administrator shall determine in each case of a major resource acquisition that a reasonable share of the particular resource, or a reasonable equivalent, has been offered to each Pacific Northwest electric utilityfor ownership, participation, or other sponsorship, but not in excess of the amounts needed to meet such utility's Regional load.
 
 (Pub. L. 96–501, §6, Dec. 5, 1980, 94 Stat. 2717.)
 

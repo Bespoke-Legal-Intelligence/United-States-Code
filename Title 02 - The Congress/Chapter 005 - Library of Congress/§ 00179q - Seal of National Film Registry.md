@@ -12,7 +12,7 @@
 
 #### (2) Prohibition on promotion
 
-&emsp;No person shall knowingly use the seal described in section 179m(a)(3) of this title to promote any version of a film in any format other than a Registry version.
+&emsp;No person shall knowingly use the seal described in section 179m(a)(3) of this title topromote any version of a film in any format other than a Registry version.
 
 #### (b) Effective date of seal
 

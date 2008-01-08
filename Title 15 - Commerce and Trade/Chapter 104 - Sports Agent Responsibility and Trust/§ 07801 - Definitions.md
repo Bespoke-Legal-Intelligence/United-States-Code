@@ -24,7 +24,7 @@ As used in this chapter, the following definitions apply:
 
 #### (6) Intercollegiate sport
 
-&emsp;The term “intercollegiate sport” means a sport played at the collegiate level for which eligibility requirements for participation by a student athlete are established by a nationalassociation for the promotion or regulation of college athletics.
+&emsp;The term “intercollegiate sport” means a sport played at the collegiate level for which eligibility requirements for participation by a student athlete are established by a national association for the promotion or regulation of college athletics.
 
 #### (7) Professional sports contract
 

@@ -78,7 +78,7 @@ Subject to subsection (b) of this section, the Secretary shall guarantee payment
 
 #### (3) Department opinion
 
-&emsp;On the timely request of a lender, the General Counsel of the Department of Agriculture shall provide the Secretary with an opinion regarding the validity and authority of a guarantee issued to the lender under this section.
+&emsp;On the timely request of a lender, the General Counsel of the Department of Agricultureshall provide the Secretary with an opinion regarding the validity and authority of a guarantee issued to the lender under this section.
 
 #### (e) Authorization of appropriations
 

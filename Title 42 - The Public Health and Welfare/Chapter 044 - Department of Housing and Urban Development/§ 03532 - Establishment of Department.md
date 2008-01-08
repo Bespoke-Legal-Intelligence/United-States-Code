@@ -10,7 +10,7 @@ The Secretary shall, among his responsibilities, advise the President with respe
 
 #### (c) Denial or limitation of benefits of departmental programs, functions, or activities on basis of population or corporate status of community
 
-Nothing in this chapter shall be construed to deny or limit the benefits of any program, function, or activity assigned to the Department by this chapter or any other Act to any community on the basis of its population or corporate status, except as may be expressly provided by law.
+Nothing in this chapter shall be construed to deny or limit the benefits of any program, function, or activity assigned to the Department by this chapter or any other Act to any communityon the basis of its population or corporate status, except as may be expressly provided by law.
 
 #### (d) Coordination of housing and urban development programs in enterprise zones
 

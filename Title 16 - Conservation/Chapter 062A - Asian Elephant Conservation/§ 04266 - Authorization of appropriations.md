@@ -2,15 +2,19 @@
 
 #### (a) In general
 
-There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007 to carry out this chapter, which may remain available until expended.
+There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2007 through 2012 to carry out this chapter, which may remain available until expended.
 
 #### (b) Administrative expenses
 
-Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $80,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
+Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
-(Pub. L. 105–96, §8, formerly §7, Nov. 19, 1997, 111 Stat. 2153; renumbered §8 and amended Pub. L. 107–141, §§2–4, Feb. 12, 2002, 116 Stat. 13.)
+(Pub. L. 105–96, §8, formerly §7, Nov. 19, 1997, 111 Stat. 2153; renumbered §8 and amended Pub. L. 107–141, §§2–4, Feb. 12, 2002, 116 Stat. 13; Pub. L. 110–133, §2(b), (c), Dec. 6, 2007, 121 Stat. 1362.)
 
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 110–133, §2(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
+
+Subsec. (b). Pub. L. 110–133, §2(b), substituted “$100,000” for “$80,000”.
 
 2002—Pub. L. 107–141, §3, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized” for “There are authorized”, and added subsec. (b).
 

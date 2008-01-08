@@ -12,7 +12,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (2) Career advisor regarding obligated service
 
-&emsp;(A) In the case of individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors forproviding such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
+&emsp;(A) In the case of individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors for providing such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
 
 &emsp;(B) With respect to the Scholarship Program, counseling under paragraph (1) shall include counseling individuals during the period in which the individuals are pursuing an educational degree in the health profession involved, including counseling to prepare the individual for service in the Corps.
 
@@ -86,7 +86,7 @@ A prior section 336 of act July 1, 1944, was renumbered section 336A by Pub. L. 
 
 1990—Pub. L. 101–597, §107, amended section generally. Prior to amendment, section read as follows:
 
-“(a) The Secretary may make grants to and enter into contracts with public and private nonprofit entities for the conduct of programs which are designed to prepare individuals subject to a service obligation under the National Health Service Corps Scholarship Program or Loan Repayment Program to effectively provide health services in the health manpower shortage area to which they are assigned.
+“(a) The Secretary may make grants to and enter into contracts with public and private nonprofit entities for the conduct of programs which are designed to prepare individuals subject to a service obligation under the National Health Service Corps Scholarship Program or Loan Repayment Program to effectivelyprovide health services in the health manpower shortage area to which they are assigned.
 
 “(b) No grant may be made or contract entered into under subsection (a) of this section unless an application therefor is submitted to and approved by the Secretary. Such an application shall be in such form, submitted in such manner, and contain such information, as the Secretary shall by regulation prescribe.”
 

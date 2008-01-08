@@ -16,7 +16,17 @@
 
 #### (4) Deadline for enforcement
 
-&emsp;Not later than 2 years after the date on which the standards and procedures are established pursuant to paragraph (1), all containers bound for ports of entry in the United States shall meet such standards and procedures.
+#### (A) Enforcement of rule
+
+&emsp;&emsp;Not later than 2 years after the date on which the standards and procedures are established pursuant to paragraph (1), all containers bound for ports of entry in the United States shall meet such standards and procedures.
+
+#### (B) Interim requirement
+
+&emsp;&emsp;If the interim final rule described in paragraph (2) is not issued by April 1, 2008, then—
+
+&emsp;&emsp;&emsp;(i) effective not later than October 15, 2008, all containers in transit to the United States shall be required to meet the requirements of International Organization for Standardization Publicly Available Specification 17712 standard for sealing containers; and
+
+&emsp;&emsp;&emsp;(ii) the requirements of this subparagraph shall cease to be effective upon the effective date of the interim final rule issued pursuant to this subsection.
 
 #### (b) Review and enhancement
 
@@ -30,5 +40,11 @@ The Secretary, in consultation with the Secretary of State, the Secretary of Ene
 
 In carrying out this section, the Secretary shall consult with appropriate Federal departments and agencies and private sector stakeholders and ensure that actions under this section do not violate international trade obligations or other international obligations of the United States.
 
-(Pub. L. 109–347, title II, §204, Oct. 13, 2006, 120 Stat. 1905.)
+(Pub. L. 109–347, title II, §204, Oct. 13, 2006, 120 Stat. 1905; Pub. L. 110–53, title XVII, §1701(b), Aug. 3, 2007, 121 Stat. 491.)
+
+#### Amendments
+
+2007—Subsec. (a)(4). Pub. L. 110–53, which directed amendment of par. (4) by substituting “(1) Deadline for enforcement” and subpar. (A) designation and heading for “(1) Deadline for enforcement”, was executed by inserting the subpar. (A) designation and heading before “Not later than” and making no change in the par. designation or heading, to reflect the probable intent of Congress.
+
+Subsec. (a)(4)(B). Pub. L. 110–53, §1701(b)(2), added subpar. (B).
 

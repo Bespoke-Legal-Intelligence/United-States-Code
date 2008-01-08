@@ -20,7 +20,7 @@ Before requiring repayment of payments under subsection (a)(1) of this section, 
 
 #### (d) Rule of construction
 
-Notwithstanding any other provision of this part, a State receiving payments under section 290cc–21 of this title may not, with respect to any agreements required to be contained in the application submitted under section 290cc–29 of this title, be considered to be in violation of any such agreements by reason of the fact that the State, in the regular course of providing services under section 290cc–22(b) of this title to eligible homeless individuals, incidentally provides services to homeless individuals who are not eligible homeless individuals.
+Notwithstanding any other provision of this part, a State receiving payments under section 290cc–21 of this title may not, with respect to any agreements required to be contained in the application submitted under section 290cc–29 of this title, be considered to be in violation of any such agreements by reason of the fact that theState, in the regular course of providing services under section 290cc–22(b) of this title to eligible homeless individuals, incidentally provides services to homeless individuals who are not eligible homeless individuals.
 
 (July 1, 1944, ch. 373, title V, §531, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 521; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4731.)
 

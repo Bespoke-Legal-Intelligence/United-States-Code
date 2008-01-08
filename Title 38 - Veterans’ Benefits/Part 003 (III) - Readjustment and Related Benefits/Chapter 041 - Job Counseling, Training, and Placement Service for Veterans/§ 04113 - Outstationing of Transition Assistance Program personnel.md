@@ -12,7 +12,7 @@ Stationing of TAP Personnel at Overseas Military Installations.—(1) The Secret
 
 (b)
 
-Functions.—Employees (or contractors) stationed at military installations pursuant to subsection (a) shall provide, in person, counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the Armed Forces who are being separated from activeduty, and the spouses of such members, under the Transition Assistance Program and Disabled Transition Assistance Program established in section 1144 of title 10.
+Functions.—Employees (or contractors) stationed at military installations pursuant to subsection (a) shall provide, in person, counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the Armed Forces who are being separated from active duty, and the spouses of such members, under the Transition Assistance Program and Disabled Transition Assistance Program established in section 1144 of title 10.
 
 (c)
 

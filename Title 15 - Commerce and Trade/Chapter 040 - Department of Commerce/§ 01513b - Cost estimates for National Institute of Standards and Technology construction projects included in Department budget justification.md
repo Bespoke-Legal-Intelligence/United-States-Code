@@ -4,3 +4,9 @@ Beginning in fiscal year 2007 and for each fiscal year thereafter, the Secretary
 
 (Pub. L. 109–108, title II, Nov. 22, 2005, 119 Stat. 2311.)
 
+#### Similar Provisions
+
+Similar provisions were contained in the following appropriations act:
+
+Pub. L. 110–161, div. B, title I, Dec. 26, 2007, 121 Stat. 1889.
+

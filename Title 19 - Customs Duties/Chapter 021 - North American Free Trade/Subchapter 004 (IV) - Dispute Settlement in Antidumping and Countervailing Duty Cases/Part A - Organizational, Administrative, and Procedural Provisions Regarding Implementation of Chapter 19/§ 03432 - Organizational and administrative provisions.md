@@ -104,7 +104,7 @@
 
 #### (A) Submission of lists to Congressional Committees
 
-&emsp;&emsp;No later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on panels and committees convened under chapter 19 during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only ifsuch individual was included in the preliminary candidate list or if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriate Congressional Committees at least 15 days before the date on which that final candidate list is submitted to such Committees under this subparagraph.
+&emsp;&emsp;No later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on panels and committees convened under chapter 19 during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only if such individual was included in the preliminary candidate list or if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriate Congressional Committees at least 15 days before the date on which that final candidate list is submitted to such Committees under this subparagraph.
 
 #### (B) Finality of lists
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;&emsp;(ii) appoint an individual to serve as one of those members of any panel or committee convened under chapter 19 during such 1-year period who, under the terms of the Agreement, are to be appointed solely by the United States Government; or
 
-&emsp;&emsp;&emsp;(iii) act to make a joint appointment with the Government of a NAFTA country, under the terms of the Agreement, of any individual who is a citizen or national of the United States to serve as any other member of such a panel or committee;
+&emsp;&emsp;&emsp;(iii) act to make a joint appointment with the Government of a NAFTA country,under the terms of the Agreement, of any individual who is a citizen or national of the United States to serve as any other member of such a panel or committee;
 
 > &emsp;&emsp;only if such individual is on the appropriate final candidate list that was submitted to the appropriate Congressional Committees under subsection (c)(4)(A) of this section during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I) of this section, or on the list submitted under subsection (b)(3) of this section to the Congressional Committees referred to in such subsection; and
 

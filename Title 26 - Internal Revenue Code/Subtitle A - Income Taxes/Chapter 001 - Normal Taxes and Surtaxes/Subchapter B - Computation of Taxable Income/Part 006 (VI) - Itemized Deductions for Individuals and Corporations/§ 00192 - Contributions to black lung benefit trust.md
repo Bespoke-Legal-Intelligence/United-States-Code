@@ -42,7 +42,7 @@ The maximum amount of the deduction allowed by subsection (a) for any taxpayer f
 
 #### (2) Benefit payments taken into account
 
-&emsp;In determining the amounts described in subsection (b), only those black lung benefit claims the payment of which is expected to be made from the trust shall be taken into account.
+&emsp;In determining the amounts described in subsection (b), only those black lung benefit claims the payment of which is expected to bemade from the trust shall be taken into account.
 
 #### (3) Time when contributions deemed made
 
@@ -76,7 +76,7 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (e), is P
 
 1980—Subsec. (e). Pub. L. 96–222 substituted “Federal Mine Safety and Health Act of 1977” for “Federal Coal Mine Health and Safety Act of 1969”.
 
-1978—Subsec. (b). Pub. L. 95–488, §1(a), substituted provision limiting the allowable deduction to the greater of the amount necessary to fund the remainingunfunded liability of the taxpayer for the black lung claims filed or expected to be filed by past or present employees of the taxpayer or the aggregate amount necessary to increase each trust described in section 501(c)(21) to the amount required to pay all amounts payable out of such trust for the taxable year for provision limiting the allowable deduction to the amount necessary, when added to the fair market value of trust assets at the beginning of the taxable year, to fund the greater of current year obligations or certain future obligations.
+1978—Subsec. (b). Pub. L. 95–488, §1(a), substituted provision limiting the allowable deduction to the greater of the amount necessary to fund the remaining unfunded liability of the taxpayer for the black lung claims filed or expected to be filed by past or present employees of the taxpayer or the aggregate amount necessary to increase each trust described in section 501(c)(21) to the amount required to pay all amounts payable out of such trust for the taxable year for provision limiting the allowable deduction to the amount necessary, when added to the fair market value of trust assets at the beginning of the taxable year, to fund the greater of current year obligations or certain future obligations.
 
 Subsec. (c)(1). Pub. L. 95–488, §1(b), substituted “Method of determining amounts referred to in subsection (b)” for “Determination of expected future payments” in heading and in text inserted provisions establishing the funding period as the greater of the average remaining working life of miners who are present employees of the taxpayer or 10 taxable years and permitting a different funding period if prescribed or consented to by the Secretary.
 

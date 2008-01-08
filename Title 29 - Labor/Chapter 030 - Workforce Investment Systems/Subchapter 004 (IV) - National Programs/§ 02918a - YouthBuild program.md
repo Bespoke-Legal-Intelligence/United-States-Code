@@ -4,7 +4,7 @@
 
 The purposes of this section are—
 
-&emsp;(1) to enable disadvantaged youth to obtain the education and employment skills necessary to achieve economic self-sufficiency in occupations in demand and postsecondary education and training opportunities;
+&emsp;(1) to enable disadvantaged youth to obtain the education and employment skills necessary to achieve economic self-sufficiency inoccupations in demand and postsecondary education and training opportunities;
 
 &emsp;(2) to provide disadvantaged youth with opportunities for meaningful work and service to their communities;
 
@@ -172,7 +172,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(viii) a description of the special outreach efforts that will be undertaken to recruit eligible young women (including young women with dependent children) as participants;
 
-&emsp;&emsp;&emsp;(ix) a description of the specific role of employers in the proposed program, such as their role in developing the proposed program and assisting in service provision and in placement activities;
+&emsp;&emsp;&emsp;(ix) a description of the specific role of employers in the proposed program, suchas their role in developing the proposed program and assisting in service provision and in placement activities;
 
 &emsp;&emsp;&emsp;(x) a description of how the proposed program will be coordinated with other Federal, State, and local activities and activities conducted by Indian tribes, such as local workforce investment activities, vocational education programs, adult and language instruction educational programs, activities conducted by public schools, activities,<sup>2</sup> conducted by community colleges, national service programs, and other job training provided with funds available under this chapter;
 
@@ -274,7 +274,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 &emsp;&emsp;Not more than 25 percent of the participants in such program may be individuals who do not meet the requirements of clause (ii) or (iii) of subparagraph (A), but who—
 
-&emsp;&emsp;&emsp;(i) are basic skills deficient, despite attainment of a secondary school diploma,General Education Development (GED) credential, or other State-recognized equivalent (including recognized alternative standards for individuals with disabilities); or
+&emsp;&emsp;&emsp;(i) are basic skills deficient, despite attainment of a secondary school diploma, General Education Development (GED) credential, or other State-recognized equivalent (including recognized alternative standards for individuals with disabilities); or
 
 &emsp;&emsp;&emsp;(ii) have been referred by a local secondary school for participation in a YouthBuild program leading to the attainment of a secondary school diploma.
 
@@ -344,7 +344,7 @@ Each recipient of a grant under subsection (c) to carry out a YouthBuild program
 
 This chapter, referred to in subsecs. (b)(3)(C) and (c)(3)(B)(x), (xvi)(III), (4)(J)(iii), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
-Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (b)(11)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, whichis classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
+Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (b)(11)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
@@ -422,7 +422,7 @@ Continuing effect of legal documents.—All orders, determinations, rules, regul
 
 &emsp;“(2)
 
-Proceedings not affected.—The provisions of this section shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the Department of Housing and Urban Development at the time this section takes effect, with respect to functions transferred by this section but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted, and orders issuedin any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted.
+Proceedings not affected.—The provisions of this section shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the Department of Housing and Urban Development at the time this section takes effect, with respect to functions transferred by this section but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted.
 
 &emsp;“(3)
 

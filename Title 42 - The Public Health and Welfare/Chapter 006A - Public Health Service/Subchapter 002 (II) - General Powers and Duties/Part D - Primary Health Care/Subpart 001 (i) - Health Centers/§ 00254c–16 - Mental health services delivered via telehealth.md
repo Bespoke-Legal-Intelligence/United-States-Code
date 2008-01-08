@@ -28,7 +28,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Office for the Advancement of Telehealth of the Health Resources and Services Administration, shall award grants to eligible entities to establish demonstration projects for the provision of mental health services to special populations as delivered remotely by qualified mental health professionals using telehealth and for the provision of education regarding mental illness as delivered remotelyby qualified mental health professionals using telehealth.
+&emsp;The Secretary, acting through the Director of the Office for the Advancement of Telehealth of the Health Resources and Services Administration, shall award grants to eligible entities to establish demonstration projects for the provision of mental health services to special populations as delivered remotely by qualified mental health professionals using telehealth and for the provision of education regarding mental illness as delivered remotely by qualified mental health professionals using telehealth.
 
 #### (2) Populations served
 
@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(B) for the populations described in subsection (a)(3)(B) of this section—
 
-&emsp;&emsp;&emsp;(i) to provide mental health services, including diagnosis and treatment of mental illness, in long-term care facilities as delivered remotely by qualified mental health professionals using telehealth; and
+&emsp;&emsp;&emsp;(i) to provide mental health services, including diagnosis and treatment of mentalillness, in long-term care facilities as delivered remotely by qualified mental health professionals using telehealth; and
 
 &emsp;&emsp;&emsp;(ii) to collaborate with local public health entities to provide the mental health services.
 

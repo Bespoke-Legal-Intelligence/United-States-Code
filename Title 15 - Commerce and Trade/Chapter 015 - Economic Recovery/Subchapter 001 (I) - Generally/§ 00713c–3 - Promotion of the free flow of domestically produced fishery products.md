@@ -44,7 +44,7 @@ As used in this section—
 
 &emsp;&emsp;(iv) to fund the Federal share of a fishing capacity reduction program established under section 1861a of title 16; and
 
-&emsp;(B) the provision of moneys, subject to paragraph (2), to carry out the purposes of the Fisheries Promotion Fund established undersection 208(a) <sup>2</sup> of the Fish and Seafood Promotion Act of 1986 \[16 U.S.C. 4008(a)\].
+&emsp;(B) the provision of moneys, subject to paragraph (2), to carry out the purposes of the Fisheries Promotion Fund established under section 208(a) <sup>2</sup> of the Fish and Seafood Promotion Act of 1986 \[16 U.S.C. 4008(a)\].
 
 (2) There are transferred from the fund established under paragraph (1) to the Fisheries Promotion Fund referred to in paragraph (1)(B) $750,000 in fiscal year 1987, $3,000,000 in each of fiscal years 1988 and 1989, and $2,000,000 in each of fiscal years 1990 and 1991.
 
@@ -184,7 +184,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Transfer of Functions
 
@@ -192,7 +192,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 #### Continuation of Authorization for Transfer of Funds
 
-Section 12(a) of act Aug. 8, 1956, provided that: “The authorization for the transfer of certain funds from the Secretary of Agriculture to the Secretary of the Interior and their maintenance in a separate fund as contained in section 2(a) of the Act of August 11, 1939, as amended July 1, 1954 (68 Stat. 376), \[now subsec. (b) of this section\], shall be continued for the year ending June 30, 1957, and each year thereafter.”
+Section 12(a) of act Aug. 8, 1956, provided that: “The authorization for the transfer of certain funds from theSecretary of Agriculture to the Secretary of the Interior and their maintenance in a separate fund as contained in section 2(a) of the Act of August 11, 1939, as amended July 1, 1954 (68 Stat. 376), \[now subsec. (b) of this section\], shall be continued for the year ending June 30, 1957, and each year thereafter.”
 
 #### Termination of Advisory Committees
 

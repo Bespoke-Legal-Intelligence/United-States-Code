@@ -8,7 +8,7 @@ Homicide.—Whoever kills a national of the United States, while such national i
 
 &emsp;(2) if the killing is a voluntary manslaughter as defined in section 1112(a) of this title, be fined under this title or imprisoned not more than ten years, or both; and
 
-&emsp;(3) if the killing is an involuntary manslaughter as defined in section 1112(a) of this title, be fined under this title or imprisoned not more than three years, or both.
+&emsp;(3) if the killing is an involuntary manslaughter as defined in section 1112(a) of thistitle, be fined under this title or imprisoned not more than three years, or both.
 
 (b)
 

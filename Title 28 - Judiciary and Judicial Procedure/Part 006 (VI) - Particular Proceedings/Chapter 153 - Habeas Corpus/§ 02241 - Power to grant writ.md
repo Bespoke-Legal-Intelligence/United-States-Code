@@ -42,7 +42,7 @@ This section inserts commas in certain parts of the text of subsection (b) of se
 
 #### References in Text
 
-Section 1005(e) of the Detainee Treatment Act of 2005, referred to in subsec. (e)(2), is section 1005(e) of title Xof div. A of Pub. L. 109–148, which is set out as a note under section 801 of Title 10, Armed Forces.
+Section 1005(e) of the Detainee Treatment Act of 2005, referred to in subsec. (e)(2), is section 1005(e) of title X of div. A of Pub. L. 109–148, which is set out as a note under section 801 of Title 10, Armed Forces.
 
 #### Amendments
 

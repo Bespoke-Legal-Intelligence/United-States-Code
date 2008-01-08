@@ -26,6 +26,14 @@ Amendment by Pub. L. 108–7 effective Feb. 20, 2003, and applicable to fiscal y
 
 Pub. L. 96–152, §7, Dec. 20, 1979, 93 Stat. 1100, provided that: “This Act \[enacting section 1902 of this title and amending this section\] shall take effect on the first day of the second month after the month in which this Act is enacted \[Dec. 1979\].”
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–178, §1, Jan. 7, 2008, 121 Stat. 2546, provided that: “This Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] may be cited as the ‘U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007’.” \[For identical short title, see below.\]
+
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–161, div. H, title I, §1004(a), Dec. 26, 2007, 121 Stat. 2227, provided that: “This section \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] may be cited as the ‘U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007’.” \[For identical short title, see above.\]
+
 #### Capitol Police Board
 
 Pub. L. 108–7, div. H, title I, §1014, Feb. 20, 2003, 117 Stat. 361, provided that:
@@ -74,7 +82,7 @@ Documentation.—
 
 &emsp;“(1)
 
-Functions and processes.—The Capitol Police Board shall document its functions and processes, including its mission statement, policies, directives, and operating procedures established or revised under subsection (a)(1) or (b), and make such documentation available for examination to the Speaker and minority leader of the House of Representatives, the President pro tempore and minority leader of the Senate, the Chief of the Capitol Police, and the Comptroller General.
+Functions and processes.—The Capitol Police Board shall document its functions and processes, including its mission statement, policies, directives, and operating procedures established or revised under subsection (a)(1) or (b), and make such documentation available for examination to the Speaker and minority leader of the House of Representatives, the President pro tempore and minority leader of theSenate, the Chief of the Capitol Police, and the Comptroller General.
 
 &emsp;“(2)
 
@@ -82,7 +90,7 @@ Meetings.—The Capitol Police Board shall document Board meetings and make the 
 
 “(e)
 
-Assistance of Comptroller General.—Upon request, the Comptroller General shall provide assistanceto the Capitol Police Board in carrying out its responsibilities under this subsection \[probably should be “section”\].
+Assistance of Comptroller General.—Upon request, the Comptroller General shall provide assistance to the Capitol Police Board in carrying out its responsibilities under this subsection \[probably should be “section”\].
 
 “(f)
 
@@ -91,6 +99,226 @@ References in Law; Effect on Other Laws.—(1) Any reference in any law or resol
 “(2) Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of the Capitol Police Board or its individual members unless specifically provided herein.”
 
 #### Transfer of Library of Congress Police to Capitol Police
+
+Pub. L. 110–178, §§2, 3, 8, Jan. 7, 2008, 121 Stat. 2546, 2549, 2554, provided that:
+
+#### “SEC. 2. TRANSFER OF PERSONNEL.
+
+“(a)
+
+Transfers.—
+
+&emsp;“(1)
+
+Library of congress police employees.—Effective on the employee's transfer date, each Library of Congress Police employee shall be transferred to the United States Capitol Police and shall become either a member or civilian employee of the Capitol Police, as determined by the Chief of the Capitol Police under subsection (b).
+
+&emsp;“(2)
+
+Library of congress police civilian employees.—Effective on the employee's transfer date, each Library of Congress Police civilian employee shall be transferred to the United States Capitol Police and shall become a civilian employee of the Capitol Police.
+
+“(b)
+
+Treatment of Library of Congress Police Employees.—
+
+&emsp;“(1)
+
+Determination of status within capitol police.—
+
+&emsp;&emsp;“(A)
+
+Eligibility to serve as members of the capitol police.—A Library of Congress Police employee shall become a member of the Capitol Police on the employee's transfer date if the Chief of the Capitol Police determines and issues a written certification that the employee meets each of the following requirements:
+
+&emsp;&emsp;&emsp;“(i) Based on the assumption that such employee would perform a period of continuous Federal service after the transfer date, the employee would be entitled to an annuity for immediate retirement under section 8336(b) or 8412(b) of title 5, United States Code (as determined by taking into account paragraph (3)(A)), on the date such employee becomes 60 years of age.
+
+&emsp;&emsp;&emsp;“(ii) During the transition period, the employee successfully completes training, as determined by the Chief of the Capitol Police.
+
+&emsp;&emsp;&emsp;“(iii) The employee meets the qualifications required to be a member of the Capitol Police, as determined by the Chief of the Capitol Police.
+
+&emsp;&emsp;“(B)
+
+Service as civilian employee of capitol police.—If the Chief of the Capitol Police determines that a Library of Congress Police employee does not meet the eligibility requirements, the employee shall become a civilian employee of the Capitol Police on the employee's transfer date.
+
+&emsp;&emsp;“(C)
+
+Finality of determinations.—Any determination of the Chief of the Capitol Police under this paragraph shall not be appealable or reviewable in any manner.
+
+&emsp;&emsp;“(D)
+
+Deadline for determinations.—The Chief of the Capitol Police shall complete the determinations required under this paragraph for all Library of Congress Police employees not later than September 30, 2009.
+
+&emsp;“(2)
+
+Exemption from mandatory separation.—Section 8335(c) or 8425(c) of title 5, United States Code, shall not apply to any Library of Congress Police employee who becomes a member of the Capitol Police under this subsection, until the earlier of—
+
+&emsp;&emsp;“(A) the date on which the individual is entitled to an annuity for immediate retirement under section 8336(b) or 8412(b) of title 5, United States Code; or
+
+&emsp;&emsp;“(B) the date on which the individual—
+
+&emsp;&emsp;&emsp;“(i) is 57 years of age or older; and
+
+&emsp;&emsp;&emsp;“(ii) is entitled to an annuity for immediate retirement under section 8336(m) or 8412(d) of title 5, United States Code, (as determined by taking into account paragraph (3)(A)).
+
+&emsp;“(3)
+
+Treatment of prior creditable service for retirement purposes.—
+
+&emsp;&emsp;“(A)
+
+Prior service for purposes of eligibility for immediate retirement as member of capitol police.—Any Library of Congress Police employee who becomes a member of the Capitol Police under this subsection shall be entitled to have any creditable service under section 8332 or 8411 of title 5, United States Code, that was accrued prior to becoming a member of the Capitol Police included in calculating the employee's service as a member of the Capitol Police for purposes of section 8336(m) or 8412(d) of title 5, United States Code.
+
+&emsp;&emsp;“(B)
+
+Prior service for purposes of computation of annuity.—Any creditable service under section 8332 or 8411 of title 5, United States Code, of an individual who becomes a member of the Capitol Police under this subsection that was accrued prior to becoming a member of the Capitol Police—
+
+&emsp;&emsp;&emsp;“(i) shall be treated and computed as employee service under section 8339 or section 8415 of such title; but
+
+&emsp;&emsp;&emsp;“(ii) shall not be treated as service as a member of the Capitol Police or service as a congressional employee for purposes of applying any formula under section 8339(b), 8339(q), 8415(c), or 8415(d) of such title under which a percentage of the individual's average pay is multiplied by the years (or other period) of such service.
+
+“(c)
+
+Duties of Employees Transferred to Civilian Positions.—
+
+&emsp;“(1)
+
+Duties.—The duties of any individual who becomes a civilian employee of the Capitol Police under this section, including a Library of Congress Police civilian employee under subsection (a)(2) and a Library of Congress Police employee who becomes a civilian employee of the Capitol Police under subsection (b)(1)(B), shall be determined solely by the Chief of the Capitol Police, except that a Library of Congress Police civilian employee under subsection (a)(2) shall continue to support Library of Congress police operations until all Library of Congress Police employees are transferred to the United States Capitol Police under this section.
+
+&emsp;“(2)
+
+Finality of determinations.—Any determination of the Chief of the Capitol Police under this subsection shall not be appealable or reviewable in any manner.
+
+“(d)
+
+Protecting Status of Transferred Employees.—
+
+&emsp;“(1)
+
+Nonreduction in pay, rank, or grade.—The transfer of any individual under this section shall not cause that individual to be separated or reduced in basic pay, rank or grade.
+
+&emsp;“(2)
+
+Leave and compensatory time.—Any annual leave, sick leave, or other leave, or compensatory time, to the credit of an individual transferred under this section shall be transferred to the credit of that individual as a member or an employee of the Capitol Police (as the case may be). The treatment of leave or compensatory time transferred under this section shall be governed by regulations of the Capitol Police Board.
+
+&emsp;“(3)
+
+Prohibiting imposition of probationary period.—The Chief of the Capitol Police may not impose a period of probation with respect to the transfer of any individual who is transferred under this section.
+
+“(e)
+
+Rules of Construction Relating to Employee Representation.—
+
+&emsp;“(1)
+
+Employee representation.—Nothing in this Act \[see Short Title of 2008 Amendment note set out above\] shall be construed to authorize any labor organization that represented an individual who was a Library of Congress police employee or a Library of Congress police civilian employee before the individual's transfer date to represent that individual as a member of the Capitol Police or an employee of the Capitol Police after the individual's transfer date.
+
+&emsp;“(2)
+
+Agreements not applicable.—Nothing in this Act shall be construed to authorize any collective bargaining agreement (or any related court order, stipulated agreement, or agreement to the terms or conditions of employment) applicable to Library of Congress police employees or to Library of Congress police civilian employees to apply to members of the Capitol Police or to civilian employees of the Capitol Police.
+
+“(f)
+
+Rule of Construction Relating to Personnel Authority of the Chief of the Capitol Police.—Nothing in this Act shall be construed to affect the authority of the Chief of the Capitol Police to—
+
+&emsp;“(1) terminate the employment of a member of the Capitol Police or a civilian employee of the Capitol Police; or
+
+&emsp;“(2) transfer any individual serving as a member of the Capitol Police or a civilian employee of the Capitol Police to another position with the Capitol Police.
+
+“(g)
+
+Transfer Date Defined.—In this Act, the term ‘transfer date’ means, with respect to an employee—
+
+&emsp;“(1) in the case of a Library of Congress Police employee who becomes a member of the Capitol Police, the first day of the first pay period applicable to members of the United States Capitol Police which begins after the date on which the Chief of the Capitol Police issues the written certification for the employee under subsection (b)(1);
+
+&emsp;“(2) in the case of a Library of Congress Police employee who becomes a civilian employee of the Capitol Police, the first day of the first pay period applicable to employees of the United States Capitol Police which begins after September 30, 2009; or
+
+&emsp;“(3) in the case of a Library of Congress Police civilian employee, the first day of the first pay period applicable to employees of the United States Capitol Police which begins after September 30, 2008.
+
+“(h)
+
+Cancellation in Portion of Unobligated Balance of FEDLINK Revolving Fund.—Amounts available for obligation by the Librarian of Congress as of the date of the enactment of this Act \[Jan. 7, 2008\] from the unobligated balance in the revolving fund established under section 103 of the Library of Congress Fiscal Operations Improvement Act of 2000 (2 U.S.C. 182c) for the Federal Library and Information Network program of the Library of Congress and the Federal Research program of the Library of Congress are reduced by a total of $560,000, and the amount so reduced is hereby cancelled.
+
+#### “SEC. 3. TRANSITION PROVISIONS.
+
+“(a)
+
+Transfer and Allocations of Property and Appropriations.—
+
+&emsp;“(1)
+
+In general.—Effective on the transfer date of any Library of Congress Police employee and Library of Congress Police civilian employee who is transferred under this Act \[see Short Title of 2008 Amendment note set out above\]—
+
+&emsp;&emsp;“(A) the assets, liabilities, contracts, property, and records associated with the employee shall be transferred to the Capitol Police; and
+
+&emsp;&emsp;“(B) the unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the employee shall be transferred to and made available under the appropriations accounts for the Capitol Police for ‘Salaries’ and ‘General Expenses’, as applicable.
+
+&emsp;“(2)
+
+Joint review.—During the transition period, the Chief of the Capitol Police and the Librarian of Congress shall conduct a joint review of the assets, liabilities, contracts, property records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the transfer under this Act.
+
+“(b)
+
+Treatment of Alleged Violations of Certain Employment Laws With Respect to Transferred Individuals.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding any other provision of law and except as provided in paragraph (3), in the case of an alleged violation of any covered law (as defined in paragraph (4)) which is alleged to have occurred prior to the transfer date with respect to an individual who is transferred under this Act, and for which the individual has not exhausted all of the remedies available for the consideration of the alleged violation which are provided for employees of the Library of Congress under the covered law prior to the transfer date, the following shall apply:
+
+&emsp;&emsp;“(A) The individual may not initiate any procedure which is available for the consideration of the alleged violation of the covered law which is provided for employees of the Library of Congress under the covered law.
+
+&emsp;&emsp;“(B) To the extent that the individual has initiated any such procedure prior to the transfer date, the procedure shall terminate and have no legal effect.
+
+&emsp;&emsp;“(C) Subject to paragraph (2), the individual may initiate and participate in any procedure which is available for the resolution of grievances of officers and employees of the Capitol Police under the Congressional Accountability Act of 1995 (2 U.S.C. 1301 et seq.) to provide for consideration of the alleged violation. The previous sentence does not apply in the case of an alleged violation for which the individual exhausted all of the available remedies which are provided for employees of the Library of Congress under the covered law prior to the transfer date.
+
+&emsp;“(2)
+
+Special rules for applying congressional accountability act of 1995.—In applying paragraph (1)(C) with respect to an individual to whom this subsection applies, for purposes of the consideration of the alleged violation under the Congressional Accountability Act of 1995—
+
+&emsp;&emsp;“(A) the date of the alleged violation shall be the individual's transfer date;
+
+&emsp;&emsp;“(B) notwithstanding the third sentence of section 402(a) of such Act (2 U.S.C. 1402(a)), the individual's request for counseling under such section shall be made not later than 60 days after the date of the alleged violation; and
+
+&emsp;&emsp;“(C) the employing office of the individual at the time of the alleged violation shall be the Capitol Police Board.
+
+&emsp;“(3)
+
+Exception for alleged violations subject to hearing prior to transfer.—Paragraph (1) does not apply with respect to an alleged violation for which a hearing has commenced in accordance with the covered law on or before the transfer date.
+
+&emsp;“(4)
+
+Covered law defined.—In this subsection, a ‘covered law’ is any law for which the remedy for an alleged violation is provided for officers and employees of the Capitol Police under the Congressional Accountability Act of 1995 (2 U.S.C. 1301 et seq.).
+
+“(c)
+
+Availability of Detailees During Transition Period.—During the transition period, the Chief of the Capitol Police may detail additional members of the Capitol Police to the Library of Congress, without reimbursement.
+
+“(d)
+
+Effect on Existing Memorandum of Understanding.—The Memorandum of Understanding between the Library of Congress and the Capitol Police entered into on December 12, 2004, shall remain in effect during the transition period, subject to—
+
+&emsp;“(1) the provisions of this Act; and
+
+&emsp;“(2) such modifications as may be made in accordance with the modification and dispute resolution provisions of the Memorandum of Understanding, consistent with the provisions of this Act.
+
+“(e)
+
+Rule of Construction Relating to Personnel Authority of the Librarian of Congress.—Nothing in this Act shall be construed to affect the authority of the Librarian of Congress to—
+
+&emsp;“(1) terminate the employment of a Library of Congress Police employee or Library of Congress Police civilian employee; or
+
+&emsp;“(2) transfer any individual serving in a Library of Congress Police employee position or Library of Congress Police civilian employee position to another position at the Library of Congress.
+
+#### “SEC. 8. DEFINITIONS.
+
+“In this Act \[see Short Title of 2008 Amendment note set out above\]—
+
+&emsp;“(1) the term ‘Act of August 4, 1950’ means the Act entitled ‘An Act relating to the policing of the buildings and grounds of the Library of Congress,’ (2 U.S.C. 167 et seq.);
+
+&emsp;“(2) the term ‘Library of Congress Police employee’ means an employee of the Library of Congress designated as police under the first section of the Act of August 4, 1950 (2 U.S.C. 167);
+
+&emsp;“(3) the term ‘Library of Congress Police civilian employee’ means an employee of the Library of Congress Office of Security and Emergency Preparedness who provides direct administrative support to, and is supervised by, the Library of Congress Police, but shall not include an employee of the Library of Congress who performs emergency preparedness or collections control and preservation functions; and
+
+&emsp;“(4) the term ‘transition period’ means the period the first day of which is the date of the enactment of this Act \[Jan. 7, 2008\] and the final day of which is September 30, 2009.”
+
+Similar provisions were contained in Pub. L. 110–161, div. H, title I, §1004(b), (c), (h), Dec. 26, 2007, 121 Stat. 2227, 2231, 2236.
 
 Pub. L. 108–83, title I, §1006, Sept. 30, 2003, 117 Stat. 1023, as amended by Pub. L. 108–447, div. G, title I, §1002, Dec. 8, 2004, 118 Stat. 3179; Pub. L. 109–55, title I, §1006(a), Aug. 2, 2005, 119 Stat. 576, provided that:
 
@@ -208,7 +436,7 @@ Service performed for retirement purposes.—For those Library of Congress Polic
 
 &emsp;&emsp;“(C)
 
-Vacancies.—Notwithstanding any other provision of law, upon the date of enactment of this section \[Feb. 20, 2003\] and until completion of the transfer under paragraph (1), vacancies in Libraryof Congress police employee positions, if filled, shall be filled in accordance with the employment standards of the United States Capitol Police, to the extent practicable as determined by the Chief of the Capitol Police.
+Vacancies.—Notwithstanding any other provision of law, upon the date of enactment of this section \[Feb. 20, 2003\] and until completion of the transfer under paragraph (1), vacancies in Library of Congress police employee positions, if filled, shall be filled in accordance with the employment standards of the United States Capitol Police, to the extent practicable as determined by the Chief of the Capitol Police.
 
 &emsp;“(3)
 

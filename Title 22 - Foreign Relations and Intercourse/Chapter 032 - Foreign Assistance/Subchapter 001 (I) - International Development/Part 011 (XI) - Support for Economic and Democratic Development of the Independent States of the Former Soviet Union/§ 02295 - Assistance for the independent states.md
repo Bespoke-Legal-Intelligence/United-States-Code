@@ -168,7 +168,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;“(iii) support the drafting of a new criminal code, civil code, and bankruptcy law;
 
-&emsp;&emsp;“(iv) develop a legal and regulatory framework for the Russian Federation's equivalent of theUnited States Securities and Exchange Commission;
+&emsp;&emsp;“(iv) develop a legal and regulatory framework for the Russian Federation's equivalent of the United States Securities and Exchange Commission;
 
 &emsp;&emsp;“(v) support Russian law schools;
 

@@ -44,7 +44,7 @@ In order to ensure that the processing, delivery, and administration of grant, l
 
 &emsp;The Secretary may not postpone the implementation of one or more provisions described in this subsection longer than the earlier of—
 
-&emsp;&emsp;(A) the period of time that the Secretary determines necessary to ensure that the processing and delivery systems of the institutions, lenders, and guaranty agencies referred to in paragraph (1)(A)(ii) <sup>1</sup> are capableof functioning successfully after December 31, 1999; or
+&emsp;&emsp;(A) the period of time that the Secretary determines necessary to ensure that the processing and delivery systems of the institutions, lenders, and guaranty agencies referred to in paragraph (1)(A)(ii) <sup>1</sup> are capable of functioning successfully after December 31, 1999; or
 
 &emsp;&emsp;(B) one award year after the effective date applicable to such provision under the Higher Education Amendments of 1998.
 
@@ -59,6 +59,8 @@ For general effective date of the Higher Education Amendments of 1998, referred 
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date
 

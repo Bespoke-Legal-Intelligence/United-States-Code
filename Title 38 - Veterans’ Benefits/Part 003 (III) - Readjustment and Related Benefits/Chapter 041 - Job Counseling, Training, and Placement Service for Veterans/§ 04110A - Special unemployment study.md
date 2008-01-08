@@ -12,7 +12,7 @@
 
 &emsp;(E) Veterans discharged or released from active duty within four years of the applicable study.
 
-(2) Within each of the categories of veterans specified in paragraph (1), the Secretary shall include a separate category for women who are veterans.
+(2) Within each of the categories of veterans specified in paragraph (1), the Secretary shallinclude a separate category for women who are veterans.
 
 (b) The Secretary shall promptly submit to Congress a report on the results of each study under subsection (a).
 

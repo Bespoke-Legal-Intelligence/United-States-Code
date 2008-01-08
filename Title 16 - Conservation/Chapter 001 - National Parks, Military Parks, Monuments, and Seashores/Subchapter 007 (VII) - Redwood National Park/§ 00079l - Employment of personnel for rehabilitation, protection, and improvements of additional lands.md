@@ -6,7 +6,7 @@ In order to utilize the skills of individuals presently working in the woods and
 
 #### (b) Appointment and compensation of personnel for administration of expanded Park; appointment, etc., of additional personnel
 
-In order to effectively administer the expanded Redwood National Park created by this Act in a manner that will provide maximum protection to its resources and to provide for maximum visitor use and enjoyment to ease the local economic effects of this taking, the Secretary shall have power to appoint and fix the compensation of two full-time and twenty temporary employees in the competitive service. The Secretary shall further have power to appoint and fix the compensation of an additional thirty-two full-time and forty temporary employees in the competitive service as provided by this subsection at the time of the donation of those park lands or interests in land owned by the State of California as are within the boundaries of Redwood National Park as provided herein. In filling these positions, preference shall be given to those State employees affected by this transfer for a period not to exceed six years from the date of transfer; permanent State civil service employees shall be provided the opportunity to transfer to a comparable Federal civil service classification notwithstanding applicable civil service laws and regulations.
+In order to effectively administer the expanded Redwood National Park created by this Act in a manner that will provide maximum protection to its resources and to provide for maximum visitor use and enjoyment to ease the local economic effects of this taking, the Secretary shall have power to appoint and fix the compensation of two full-time and twenty temporary employees in the competitive service. The Secretary shall further have power to appoint and fix the compensation of an additional thirty-two full-time and forty temporary employees in the competitive service as provided by this subsection at the time of the donation ofthose park lands or interests in land owned by the State of California as are within the boundaries of Redwood National Park as provided herein. In filling these positions, preference shall be given to those State employees affected by this transfer for a period not to exceed six years from the date of transfer; permanent State civil service employees shall be provided the opportunity to transfer to a comparable Federal civil service classification notwithstanding applicable civil service laws and regulations.
 
 #### (c) Job positions subject to preferential treatment for affected employees
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(b)(2)\], struck out
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a)of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
 #### Reference to Secretary as Reference to Secretary of Department of the Interior; Exception
 

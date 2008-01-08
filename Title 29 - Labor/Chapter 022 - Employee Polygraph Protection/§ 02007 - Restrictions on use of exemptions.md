@@ -64,7 +64,7 @@ The exemptions provided under subsections (d), (e), and (f) of section 2006 of t
 
 &emsp;&emsp;&emsp;(v) of the legal rights and remedies of the employer under this chapter (including the rights of the employer under section 2008(c)(2) of this title); and
 
-&emsp;&emsp;(E) is provided an opportunity to review all questions to be asked during the test and is informed of the right to terminate the test at any time.
+&emsp;&emsp;(E) is provided an opportunity to review all questions to be asked during the test andis informed of the right to terminate the test at any time.
 
 #### (3) Actual testing phase
 

@@ -72,7 +72,7 @@ Section 3(6) of the Magnuson Act, referred to in par. (6), was redesignated sect
 
 1986—Pars. (2) to (4). Pub. L. 99–432 amended pars. (2) to (4) generally. Prior to amendment, pars. (2) to (4) read as follows:
 
-“(2) The term ‘Atlantic striped bass’ means members of stocks or populations of the species Morone saxatilis, which ordinarily migrate seaward of the waters described in paragraph (3)(A).
+“(2) The term ‘Atlantic striped bass’ means members of stocks or populations of the species Moronesaxatilis, which ordinarily migrate seaward of the waters described in paragraph (3)(A).
 
 “(3) The term ‘coastal waters’ means—
 

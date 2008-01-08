@@ -18,9 +18,11 @@ All special taxes under this part (except the tax imposed by section 5131) shall
 
 &emsp;After receiving a properly executed return and remittance of any special tax imposed by this subpart, the Secretary shall issue to the taxpayer an appropriate stamp as a receipt denoting payment of the tax. This paragraph shall not apply in the case of a return covering liability for a past period.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1346; amended Pub. L. 94–455, title XIX, §1905(a)(12), Oct. 4, 1976, 90 Stat. 1820; Pub. L.109–59, title XI, §11125(b)(20)(A), Aug. 10, 2005, 119 Stat. 1956.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1346; amended Pub. L. 94–455, title XIX, §1905(a)(12), Oct. 4, 1976, 90 Stat. 1820; Pub. L. 109–59, title XI, §11125(b)(20)(A), Aug. 10, 2005, 119 Stat. 1956.)
 
-#### Redesignation of Section
+#### Redesignation and Amendment of Section
+
+<i>Pub. L. 110–172, §11(a)(32), Dec. 29, 2007, 121 Stat. 2487, provided that paragraph (2) of subsection (c) of section 5732 of this title, as redesignated by section 11125(b)(20)(A) of Pub. L. 109–59, is amended by striking “this subpart” and inserting “this subchapter”. See note below.</i>
 
 <i>Pub. L. 109–59, title XI, §11125(b)(20)(A), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is redesignated section 5732 of this title and transferred to subchapter D of chapter 52 of this title.</i>
 

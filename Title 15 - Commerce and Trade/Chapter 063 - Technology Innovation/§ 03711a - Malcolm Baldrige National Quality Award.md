@@ -30,7 +30,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 (2) The Secretary may at any time expand, subdivide, or otherwise modify the list of categories within which awards may be made as initially in effect under paragraph (1), and may establish separate awards for other organizations including units of government, upon a determination that the objectives of this section would be better served thereby; except that any such expansion, subdivision, modification, or establishment shall not be effective unless and until the Secretary has submitted a detailed description thereof to the Congress and a period of 30 days has elapsed since that submission.
 
-(3) Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory).
+(3) In any year, not more than 18 awards may be made under this section to recipients who have not previously received an award under this section, and no award shall be made within any category described in paragraph (1) if there are no qualifying enterprises in that category.
 
 #### (d) Criteria for qualification
 
@@ -50,7 +50,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 #### (e) Information and technology transfer program
 
-The Director of the National Institute of Standards and Technology shall ensure that all program participants receive the complete results of their audits as well as detailed explanations of all suggestions for improvements. The Director shall also provide informationabout the awards and the successful quality improvement strategies and programs of the award-winning participants to all participants and other appropriate groups.
+The Director of the National Institute of Standards and Technology shall ensure that all program participants receive the complete results of their audits as well as detailed explanations of all suggestions for improvements. The Director shall also provide information about the awards and the successful quality improvement strategies and programs of the award-winning participants to all participants and other appropriate groups.
 
 #### (f) Funding
 
@@ -60,9 +60,11 @@ The Secretary is authorized to seek and accept gifts from public and private sou
 
 The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
 
-(Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §3, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 108–320, §1, Oct. 5, 2004, 118 Stat. 1213.)
+(Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §3, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 108–320, §1, Oct. 5, 2004, 118 Stat. 1213; Pub. L. 110–69, title III, §3010, Aug. 9, 2007, 121 Stat. 592.)
 
 #### Amendments
+
+2007—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory).”
 
 2004—Subsec. (c)(1)(F). Pub. L. 108–320 added subpar. (F).
 
@@ -76,7 +78,7 @@ Subsec. (c)(3). Pub. L. 105–309, §3(a), inserted “, unless the Secretary d
 
 #### Findings and Purposes
 
-Section 2 of Pub. L. 100–107 provided that:
+Pub. L. 100–107, §2, Aug. 20, 1987, 101 Stat. 724, provided that:
 
 “(a)
 
@@ -108,5 +110,5 @@ Findings.—The Congress finds and declares that—
 
 “(b)
 
-Purpose.—It is the purpose of this Act \[enacting section 3711a of this title, amending section 3708 of this title, and enacting provisions set out as a note under section 3701 of this title\] to provide for the establishment and conduct of a national quality improvement program under which (1) awards are given to selected companies and other organizations in the United States that practice effective quality management and as a result make significant improvements in the quality of their goods and services, and (2) information is disseminated about the successful strategies and programs.”
+Purpose.—It is the purpose of this Act \[enacting this section, amending section 3708 of this title, and enacting provisions set out as a note under section 3701 of this title\] to provide for the establishment and conduct of a national quality improvement program under which (1) awards are given to selected companies and other organizations in the United States that practice effective quality management and as a result make significant improvements in the quality of their goods and services, and (2) information is disseminated about the successful strategies and programs.”
 

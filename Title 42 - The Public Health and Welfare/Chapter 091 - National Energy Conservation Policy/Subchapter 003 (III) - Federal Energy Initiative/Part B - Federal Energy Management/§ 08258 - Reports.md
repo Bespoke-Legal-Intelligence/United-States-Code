@@ -6,7 +6,7 @@ Each agency shall transmit a report to the Secretary, at times specified by the 
 
 &emsp;(1) the agency's progress in achieving the goals established by section 8253 of this title; and
 
-&emsp;(2) the procedures being used by the agency pursuant to section 8256(a)(2) of this title, the number of contracts entered into by such agency under subchapter VII of this chapter, the energy and cost savings that have resulted from such contracts, the use of such cost savings under section 8256(c) of this title, and any problem encountered in entering into such contracts and otherwise implementing section 8256 of this title.
+&emsp;(2) the procedures being used by the agency pursuant to section 8256(a)(2) of this title, the number of contracts entered into by such agency under subchapter VII of this chapter, the energy and cost savings that have resulted from such contracts and any termination penalty exposure, the use of such cost savings under section 8256(c) of this title, and any problem encountered in entering into such contracts and otherwise implementing section 8256 of this title.
 
 #### (b) Reports to the President and Congress
 
@@ -34,9 +34,11 @@ The Secretary, in consultation with the Administrator of General Services, shall
 
 &emsp;(2) not later than 18 months after October 24, 1992, transmit to the Congress a report containing the findings and conclusions of such study, including recommendations for the development of streamlined processes for the consideration of connecting buildings owned or leased by the Federal Government to district heating and cooling systems.
 
-(Pub. L. 95–619, title V, §548, Nov. 9, 1978, 92 Stat. 3279; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(g), (i)(1), Oct. 24, 1992, 106 Stat. 2848, 2851; Pub. L. 104–66, title I, §1052(d), Dec. 21, 1995, 109 Stat. 718; Pub. L. 109–58, title I, §102(g), Aug. 8, 2005, 119 Stat. 608.)
+(Pub. L. 95–619, title V, §548, Nov. 9, 1978, 92 Stat. 3279; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(g), (i)(1), Oct. 24, 1992, 106 Stat. 2848, 2851; Pub. L. 104–66, title I, §1052(d), Dec. 21, 1995, 109 Stat. 718; Pub. L. 109–58, title I, §102(g), Aug. 8, 2005, 119 Stat. 608; Pub. L. 110–140, title V, §511(b), Dec. 19, 2007, 121 Stat. 1658.)
 
 #### Amendments
+
+2007—Subsec. (a)(2). Pub. L. 110–140 inserted “and any termination penalty exposure” after “from such contracts”.
 
 2005—Subsec. (b). Pub. L. 109–58 inserted “the President and” before “Congress” in heading and “President and” before “Congress” in introductory provisions.
 
@@ -54,7 +56,11 @@ Subsec. (c). Pub. L. 102–486, §152(g)(2), added subsec. (c).
 
 1988—Pub. L. 100–615 amended section generally, substituting provisions relating to reports to Secretary and Congress for former requirement that in leasing Federal buildings for its own use or that of another Federal agency, each Federal agency should give appropriate preference to buildings which used solar heating and cooling equipment or other renewable energy sources or which otherwise minimized life cycle costs.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 16th item on page 89 identifies a reporting provision which, as subsequently amended, is contained in subsec. (b) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 16th item on page 89 identifies a reporting provision which, as subsequently amended, is contained in subsec. (b) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

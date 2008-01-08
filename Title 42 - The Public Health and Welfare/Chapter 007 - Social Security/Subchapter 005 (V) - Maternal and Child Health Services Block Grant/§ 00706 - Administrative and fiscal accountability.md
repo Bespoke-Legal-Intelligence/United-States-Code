@@ -72,7 +72,7 @@
 
 > For purposes of subparagraph (A), each of the following shall be considered to be a separate class of individuals: pregnant women, infants up to age one, children with special health care needs, other children under age 22, and other individuals.
 
-(3) The Secretary shall annually transmit to the Committee on Energy and Commerce of theHouse of Representatives and the Committee on Finance of the Senate a report that includes—
+(3) The Secretary shall annually transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report that includes—
 
 &emsp;(A) a description of each project receiving funding under paragraph (2) or (3) of section 702(a) of this title, including the amount of Federal funds provided, the number of individuals served or trained, as appropriate, under the project, and a summary of any formal evaluation conducted with respect to the project;
 
@@ -162,7 +162,7 @@ The State shall make copies of the reports and audits required by this section a
 
 #### (d) Access to books, records, etc.; creation of new records
 
-(1) For the purpose of evaluating and reviewing the block grant established under this subchapter, the Secretary and the Comptroller General shall have access to any books, accounts, records, correspondence, or other documents that are related to such block grant, and that are in the possession, custody, or control ofStates, political subdivisions thereof, or any of their grantees.
+(1) For the purpose of evaluating and reviewing the block grant established under this subchapter, the Secretary and the Comptroller General shall have access to any books, accounts, records, correspondence, or other documents that are related to such block grant, and that are in the possession, custody, or control of States, political subdivisions thereof, or any of their grantees.
 
 (2) In conjunction with an evaluation or review under paragraph (1), no State or political subdivision thereof (or grantee of either) shall be required to create or prepare new records to comply with paragraph (1).
 
@@ -208,7 +208,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(d)(2)\], Nov. 29, 199
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6503(c)(3), (4) of Pub. L. 101–239 applicable to payments for allotments for fiscal years beginning with fiscal year 1991, and amendment by section 6504 of Pub. L. 101–239 applicable to annual reports for fiscal years beginning with fiscal year 1991, see section 6510(b) of Pub. L. 101–239, set out as a note under section 701 of this title.
+Amendment by section 6503(c)(3), (4) of Pub. L. 101–239 applicable to payments for allotments for fiscal yearsbeginning with fiscal year 1991, and amendment by section 6504 of Pub. L. 101–239 applicable to annual reports for fiscal years beginning with fiscal year 1991, see section 6510(b) of Pub. L. 101–239, set out as a note under section 701 of this title.
 
 #### Reports to Congress; Activities of States Receiving Allotments and Study of Alternative Formulas for Allotment
 

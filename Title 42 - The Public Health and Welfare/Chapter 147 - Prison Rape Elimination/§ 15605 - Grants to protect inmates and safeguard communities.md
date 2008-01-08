@@ -26,7 +26,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 &emsp;&emsp;(B) developing and utilizing analyses of prison populations and risk assessment instruments that will improve State and local governments’ understanding of risks to the community regarding release of inmates in the prison population;
 
-&emsp;&emsp;(C) preparing maps demonstrating the concentration, on a community-by-community basis, of inmates who have been released, to facilitate the efficient and effective—
+&emsp;&emsp;(C) preparing maps demonstrating the concentration, on a community-by-communitybasis, of inmates who have been released, to facilitate the efficient and effective—
 
 &emsp;&emsp;&emsp;(i) deployment of law enforcement resources (including probation and parole resources); and
 

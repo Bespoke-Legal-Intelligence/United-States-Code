@@ -22,6 +22,8 @@ The reports submitted pursuant to subsection (a) of this section shall include t
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Delegation of Responsibility
 
 Memorandum of President of the United States, Aug. 21, 2000, 65 F.R. 52289, provided:

@@ -1,6 +1,6 @@
 ### §504. Administration
 
-(a) The Chairman of the Postal Regulatory Commission shall be the principal executive officer of the Commission. The Chairman shall exercise or direct the exercise of all the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment of personnel employed under the Commission, except that the appointment of heads of major administrative units under the Commission shall require the approval of a majority of the members of the Commission, (2) the supervision of the personnel employed under the Commission and the distribution of business among them and amongthe Commissioners, and (3) the use and expenditure of funds.
+(a) The Chairman of the Postal Regulatory Commission shall be the principal executive officer of the Commission. The Chairman shall exercise or direct the exercise of all the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment of personnel employed under the Commission, except that the appointment of heads of major administrative units under the Commission shall require the approval of a majority of the members of the Commission, (2) the supervision of the personnel employed under the Commission and the distribution of business among them and among the Commissioners, and (3) the use and expenditure of funds.
 
 (b) In carrying out any of his functions under this section, the Chairman shall be governed by the general policies of the Commission.
 
@@ -102,5 +102,5 @@ Sec. 102. The Office of Personnel Management shall prepare initial standards of 
 
 (c) prohibition against the receipt of honoraria, travel expenses, entertainment, gifts, loans, favors, or anything of value by a Commissioner or employee of the Commission from an individual (other than one having a close family or personal relationship) or organization having, or likely to have, business with the Commission.
 
-Sec. 103. The Office of Personnel Management shall issue the initial standards of conduct regulations applicable to the Commission not later than 120 days after the effective date of this Order. Thereafter, the Office may from time to time amend the regulations, consistent with this Order. The regulations and any amendments thereto shall be published in the Federal Register.
+Sec. 103. The Office of Personnel Management shall issue the initial standards of conduct regulations applicable to the Commission not later than 120 days after the effective date of this Order. Thereafter, the Officemay from time to time amend the regulations, consistent with this Order. The regulations and any amendments thereto shall be published in the Federal Register.
 

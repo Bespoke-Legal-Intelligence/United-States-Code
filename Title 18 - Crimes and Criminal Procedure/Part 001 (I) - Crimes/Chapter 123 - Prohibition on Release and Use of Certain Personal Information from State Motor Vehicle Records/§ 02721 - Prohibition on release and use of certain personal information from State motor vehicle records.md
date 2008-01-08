@@ -32,7 +32,7 @@ Permissible Uses.—Personal information referred to in subsection (a) shall be 
 
 &emsp;(8) For use by any licensed private investigative agency or licensed security service for any purpose permitted under this subsection.
 
-&emsp;(9) For use by an employer or its agent or insurer to obtain or verify information relatingto a holder of a commercial driver's license that is required under chapter 313 of title 49.
+&emsp;(9) For use by an employer or its agent or insurer to obtain or verify information relating to a holder of a commercial driver's license that is required under chapter 313 of title 49.
 
 &emsp;(10) For use in connection with the operation of private toll transportation facilities.
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 104–294 substituted “covered by this chapter” for “
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–69, title III, §350(g)(2), Oct. 9, 1999, 113 Stat. 1025, provided that: “Subsections (b), (c), and (d) \[amending this section\] shall be effective on June 1, 2000, excluding the States of Arkansas, Montana, Nevada, North Dakota, Oregon, and Texas that shall be incompliance with subsections (b), (c), and (d) within 90 days of the next convening of the State legislature and excluding the States of Wisconsin, South Carolina, and Oklahoma that shall be in compliance within 90 days following the day of issuance of a final decision on Reno vs. Condon by the United States Supreme Court if the State legislature is in session, or within 90 days of the next convening of the State legislature following the issuance of such final decision if the State legislature is not in session.”
+Pub. L. 106–69, title III, §350(g)(2), Oct. 9, 1999, 113 Stat. 1025, provided that: “Subsections (b), (c), and (d) \[amending this section\] shall be effective on June 1, 2000, excluding the States of Arkansas, Montana, Nevada, North Dakota, Oregon, and Texas that shall be in compliance with subsections (b), (c), and (d) within 90 days of the next convening of the State legislature and excluding the States of Wisconsin, South Carolina, and Oklahoma that shall be in compliance within 90 days following the day of issuance of a final decision on Reno vs. Condon by the United States Supreme Court if the State legislature is in session, or within 90 days of the next convening of the State legislature following the issuance of such final decision if the State legislature is not in session.”
 
 #### Effective Date of 1996 Amendment
 

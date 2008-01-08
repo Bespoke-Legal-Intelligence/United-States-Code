@@ -8,7 +8,7 @@ The Secretary of State shall establish and maintain records for each arms contro
 
 In particular, the Secretary of State shall establish and maintain a negotiating and implementation record for each such agreement, which shall be comprehensive and detailed, and shall document all communications between the parties with respect to such agreement. Such records shall be maintained both in hard copy and magnetic media.
 
-(Pub. L. 87–297, title III, §307, formerly §38, as added Pub. L. 103–236, title VII, §713(a), Apr. 30, 1994, 108 Stat. 496; renumbered §307 and amended Pub. L. 105–277, div. G, subdiv. A, title XII,§1223(12), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772.)
+(Pub. L. 87–297, title III, §307, formerly §38, as added Pub. L. 103–236, title VII, §713(a), Apr. 30, 1994, 108 Stat. 496; renumbered §307 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(12), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772.)
 
 #### Prior Provisions
 

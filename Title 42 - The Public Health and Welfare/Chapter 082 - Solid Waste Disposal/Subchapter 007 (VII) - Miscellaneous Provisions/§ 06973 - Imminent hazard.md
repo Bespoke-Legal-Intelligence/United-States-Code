@@ -10,7 +10,7 @@ Any person who willfully violates, or fails or refuses to comply with, any order
 
 #### (c) Immediate notice
 
-Upon receipt of information that there is hazardous waste at any site which has presented an imminent and substantial endangerment tohuman health or the environment, the Administrator shall provide immediate notice to the appropriate local government agencies. In addition, the Administrator shall require notice of such endangerment to be promptly posted at the site where the waste is located.
+Upon receipt of information that there is hazardous waste at any site which has presented an imminent and substantial endangerment to human health or the environment, the Administrator shall provide immediate notice to the appropriate local government agencies. In addition, the Administrator shall require notice of such endangerment to be promptly posted at the site where the waste is located.
 
 #### (d) Public participation in settlements
 

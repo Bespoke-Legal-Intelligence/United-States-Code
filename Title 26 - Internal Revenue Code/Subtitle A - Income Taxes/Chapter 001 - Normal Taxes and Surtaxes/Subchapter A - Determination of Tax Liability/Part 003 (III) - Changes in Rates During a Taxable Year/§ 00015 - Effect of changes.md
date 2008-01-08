@@ -72,7 +72,7 @@ Pub. L. 94–12 added subsec. (f).
 
 1971—Subsec. (e). Pub. L. 92–178 added subsec. (e).
 
-1969—Subsec. (d). Pub. L. 91–172 substituted provisions covering changes made by the Tax Reform Act of 1969 in case of individuals for provisions covering changes made by Revenue Act of 1964.
+1969—Subsec. (d). Pub. L. 91–172 substituted provisions covering changes made by the Tax Reform Act of1969 in case of individuals for provisions covering changes made by Revenue Act of 1964.
 
 1964—Subsec. (d). Pub. L. 88–272 amended subsection generally by substituting provisions relating to changes made by the Revenue Act of 1964, for provisions relating to taxable years beginning before Jan. 1, 1954, and ending after Dec. 31, 1953.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) ofPub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

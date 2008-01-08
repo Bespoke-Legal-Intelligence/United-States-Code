@@ -4,10 +4,6 @@ No later than December 15, 1985, the Director of the United States Information A
 
 (Pub. L. 99–93, title VI, §614, Aug. 16, 1985, 99 Stat. 444.)
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Transfer of Functions
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.

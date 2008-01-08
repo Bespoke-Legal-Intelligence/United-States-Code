@@ -56,7 +56,7 @@ The Secretary, acting through the Chief of the Forest Service and (where appropr
 
 #### (3) Project elements and objectives
 
-&emsp;A watershed forestry project shall accomplish critical forest stewardship, watershed protection, and restoration needs within a State by demonstrating the value of trees and forests to watershed health and condition through—
+&emsp;A watershed forestry project shall accomplish critical forest stewardship, watershedprotection, and restoration needs within a State by demonstrating the value of trees and forests to watershed health and condition through—
 
 &emsp;&emsp;(A) the use of trees as solutions to water quality problems in urban and rural areas;
 

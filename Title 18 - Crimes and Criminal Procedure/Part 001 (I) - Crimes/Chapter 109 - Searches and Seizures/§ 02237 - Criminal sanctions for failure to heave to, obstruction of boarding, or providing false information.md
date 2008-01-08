@@ -20,7 +20,7 @@
 
 &emsp;(2) the term “heave to” means to cause a vessel to slow, come to a stop, or adjust its course or speed to account for the weather conditions and sea state to facilitate a law enforcement boarding;
 
-&emsp;(3) the term “vessel subject to the jurisdiction of the United States” has the meaning given the term in section 2 <sup>1</sup> of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903); and
+&emsp;(3) the term “vessel subject to the jurisdiction of the United States” has the meaning given the term in section 2 <sup>1</sup> of the MaritimeDrug Law Enforcement Act (46 U.S.C. App. 1903); and
 
 &emsp;(4) the term “vessel of the United States” has the meaning given the term in section 2 <sup>1</sup> of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903).
 

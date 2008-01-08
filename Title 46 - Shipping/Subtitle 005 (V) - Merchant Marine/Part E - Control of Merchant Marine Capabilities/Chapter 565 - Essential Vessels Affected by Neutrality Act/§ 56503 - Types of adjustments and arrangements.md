@@ -14,7 +14,7 @@ Discretionary Adjustments and Arrangements.—To the extent the Secretary of Tra
 
 &emsp;(1) Lay-up of the vessel by the owner or in the custody of the Secretary, with payment or reimbursement by the Secretary of necessary and proper expenses (including reasonable overhead and insurance) or a fixed periodic allowance instead of payment or reimbursement.
 
-&emsp;(2) Postponement, for not more than the total period of the lay-up, of the maturitydate of each installment of the principal of obligations to the United States Government for the vessel (regardless of whether the maturity date is during a lay-up period), or rearrangement of those maturities.
+&emsp;(2) Postponement, for not more than the total period of the lay-up, of the maturity date of each installment of the principal of obligations to the United States Government for the vessel (regardless of whether the maturity date is during a lay-up period), or rearrangement of those maturities.
 
 &emsp;(3) Postponement or cancellation of interest accruing on the obligations during a lay-up period.
 

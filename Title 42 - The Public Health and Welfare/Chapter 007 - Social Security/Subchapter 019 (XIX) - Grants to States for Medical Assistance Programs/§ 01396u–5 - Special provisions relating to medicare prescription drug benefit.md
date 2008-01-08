@@ -32,7 +32,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (A) In general
 
-&emsp;&emsp;Each of the 50 States and the District of Columbia for each month beginning withJanuary 2006 shall provide for payment under this subsection to the Secretary of the product of—
+&emsp;&emsp;Each of the 50 States and the District of Columbia for each month beginning with January 2006 shall provide for payment under this subsection to the Secretary of the product of—
 
 &emsp;&emsp;&emsp;(i) the amount computed under paragraph (2)(A) for the State and month;
 
@@ -216,7 +216,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (4) Report
 
-&emsp;The Secretary shall submit to Congress a report on the application of this subsection and may include in the report such recommendations as the Secretary deems appropriate.
+&emsp;The Secretary shall submit to Congress a report on the application of this subsection andmay include in the report such recommendations as the Secretary deems appropriate.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1935, as added and amended Pub. L. 108–173, title I, §103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, 117 Stat. 2154–2158; Pub. L. 109–91, title I, §104(c), Oct. 20, 2005, 119 Stat. 2093.)
 

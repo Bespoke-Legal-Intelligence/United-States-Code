@@ -10,7 +10,7 @@ The Secretary shall carry out a program, in accordance with this part, to improv
 
 (2) Special consideration shall be given to any eligible institution—
 
-&emsp;(A) which has endowment funds (other than any endowment fund built under section 1065of this title as in effect on September 30, 1986, and under part B of this subchapter) the market value of which, per full-time equivalent student, is less than the average current market value of the endowment funds, per full-time equivalent student (other than any endowment fund built under section 1065 of this title as in effect on September 30, 1986, and under part B of this subchapter) at similar institutions; or
+&emsp;(A) which has endowment funds (other than any endowment fund built under section 1065 of this title as in effect on September 30, 1986, and under part B of this subchapter) the market value of which, per full-time equivalent student, is less than the average current market value of the endowment funds, per full-time equivalent student (other than any endowment fund built under section 1065 of this title as in effect on September 30, 1986, and under part B of this subchapter) at similar institutions; or
 
 &emsp;(B) which has expenditures per full-time equivalent student for library materials which is less than the average of the expenditures for library materials per full-time equivalent student by other similarly situated institutions.
 

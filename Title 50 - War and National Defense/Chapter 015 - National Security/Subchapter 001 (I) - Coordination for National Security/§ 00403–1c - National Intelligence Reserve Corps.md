@@ -6,7 +6,7 @@ The Director of National Intelligence may provide for the establishment and trai
 
 #### (b) Eligible individuals
 
-An individual may participate in the National Intelligence Reserve Corps only if the individualpreviously served as a full time employee of an element of the intelligence community.
+An individual may participate in the National Intelligence Reserve Corps only if the individual previously served as a full time employee of an element of the intelligence community.
 
 #### (c) Terms of participation
 

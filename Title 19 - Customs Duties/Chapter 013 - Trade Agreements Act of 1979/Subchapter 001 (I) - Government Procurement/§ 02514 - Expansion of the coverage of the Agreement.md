@@ -28,7 +28,7 @@ The President shall seek to establish in the renegotiation provided for in artic
 
 #### (e) Extension of nondiscrimination and national treatment
 
-Before exercising the waiver authority in section 2511 of this title for procurement not covered by the Agreement on the date it enters into force with respect to the United States, the President shall follow the consultation provisions of section 135 \[19 U.S.C. 2155\] and chapter 6 of title I of the Trade Act of 1974 \[19 U.S.C. 2211 et seq.\] for private sector and congressional consultations.
+Before exercising the waiver authority in section 2511 of this title for procurement not covered by the Agreement on the date it enters into force with respect to the United States, the President shall follow the consultation provisions of section 135 \[19 U.S.C. 2155\] and chapter6 of title I of the Trade Act of 1974 \[19 U.S.C. 2211 et seq.\] for private sector and congressional consultations.
 
 (Pub. L. 96–39, title III, §304, July 26, 1979, 93 Stat. 238; Pub. L. 103–465, title III, §342(b), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(11), Oct. 11, 1996, 110 Stat. 3528.)
 

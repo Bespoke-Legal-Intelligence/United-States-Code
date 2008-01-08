@@ -52,7 +52,7 @@ The credits provided in this subpart shall be allowed only if the taxpayer estab
 
 #### (4) Bond requirements
 
-&emsp;In the case of any tax accrued but not paid, the Secretary, as a condition precedent to theallowance of the credit provided in this subpart, may require the taxpayer to give a bond, with sureties satisfactory to and approved by the Secretary, in such sum as the Secretary may require, conditioned on the payment by the taxpayer of any amount of tax found due on any such redetermination. Any such bond shall contain such further conditions as the Secretary may require.
+&emsp;In the case of any tax accrued but not paid, the Secretary, as a condition precedent to the allowance of the credit provided in this subpart, may require the taxpayer to give a bond, with sureties satisfactory to and approved by the Secretary, in such sum as the Secretary may require, conditioned on the payment by the taxpayer of any amount of tax found due on any such redetermination. Any such bond shall contain such further conditions as the Secretary may require.
 
 #### (5) Other special rules
 

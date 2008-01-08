@@ -38,7 +38,7 @@ In this section—
 
 &emsp;“poverty line” means the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title <sup>1</sup> applicable to a family of the size involved.
 
-&emsp;“public school” means a public elementary school, as defined in section 1001(i) <sup>2</sup> of title 20, and a public secondary school, as defined in section 1001(d) <sup>2</sup> of title 20.
+&emsp;“public school” means a public elementary school, as defined in section 1001(i) <sup>2</sup> of title 20,and a public secondary school, as defined in section 1001(d) <sup>2</sup> of title 20.
 
 &emsp;“Secretary” means the Secretary of Health and Human Services, in consultation and coordination with the Attorney General.
 
@@ -72,7 +72,7 @@ In this section—
 
 #### (1) Location
 
-&emsp;A community-based organization that receives a grant under this section to assist incarrying out such a program shall ensure that the program is carried out—
+&emsp;A community-based organization that receives a grant under this section to assist in carrying out such a program shall ensure that the program is carried out—
 
 &emsp;&emsp;(A) when appropriate, in the facilities of a public school during nonschool hours; or
 
@@ -108,7 +108,7 @@ In this section—
 
 #### (1) Identification
 
-&emsp;To be eligible to receive a grant under this section, a community-based organization shall identify an eligible community to be assisted under this section.
+&emsp;To be eligible to receive a grant under this section, a community-based organization shallidentify an eligible community to be assisted under this section.
 
 #### (2) Criteria
 

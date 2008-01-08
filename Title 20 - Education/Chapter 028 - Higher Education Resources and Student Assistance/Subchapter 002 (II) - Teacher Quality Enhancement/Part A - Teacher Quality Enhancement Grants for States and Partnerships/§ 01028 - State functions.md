@@ -14,7 +14,7 @@ Any institution of higher education that offers a program of teacher preparation
 
 #### (c) Negotiated rulemaking
 
-If the Secretary develops any regulations implementing subsection (b)(2) of this section, the Secretary shall submit such proposed regulations to a negotiated rulemaking process, which shall include representatives of States, institutions of higher education, and educational and student organizations.
+If the Secretary develops any regulations implementing subsection (b)(2) of this section, theSecretary shall submit such proposed regulations to a negotiated rulemaking process, which shall include representatives of States, institutions of higher education, and educational and student organizations.
 
 (Pub. L. 89–329, title II, §208, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1634; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080.)
 

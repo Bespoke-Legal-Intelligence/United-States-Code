@@ -38,7 +38,7 @@
 
 #### (2) Existing transfer authority
 
-&emsp;Any transfer authority existing before February 20, 2003, granted to the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate for salaries, expenses, and operations of the Capitol Police shall be transferred to the Chief of the Capitol Police.
+&emsp;Any transfer authority existing before February 20, 2003, granted to the Chief Administrative Officer of the House of Representativesor the Secretary of the Senate for salaries, expenses, and operations of the Capitol Police shall be transferred to the Chief of the Capitol Police.
 
 #### (d) Unexpended balances
 

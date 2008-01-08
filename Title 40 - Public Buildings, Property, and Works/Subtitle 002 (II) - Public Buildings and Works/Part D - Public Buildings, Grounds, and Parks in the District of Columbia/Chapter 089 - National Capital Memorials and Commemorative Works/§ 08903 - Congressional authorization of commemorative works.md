@@ -32,7 +32,7 @@ Expiration of Legislative Authority.—Any legislative authority for a commemora
 
 &emsp;&emsp;(B) 75 percent of the amount estimated to be required to complete the commemorative work has been raised.
 
-> If these two conditions have been met, the Secretary or the Administrator (as appropriate) may extend the seven-year legislative authority for a period not to exceed three additional years. Upon expiration of the legislative authority, any previous site and design approvals shall also expire.
+> If these two conditions have been met, the Secretary or the Administrator (as appropriate)may extend the seven-year legislative authority for a period not to exceed three additional years. Upon expiration of the legislative authority, any previous site and design approvals shall also expire.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1228; Pub. L. 108–126, title II, §203(c), Nov. 17, 2003, 117 Stat. 1350.)
 
@@ -82,6 +82,10 @@ Subsec. (d). Pub. L. 108–126, §203(c)(2), substituted “Memorial Advisory Co
 
 Subsec. (e). Pub. L. 108–126, §203(c)(3), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Legislative authority for a commemorative work expires at the end of the seven–year period beginning on the date the authority is enacted unless the Secretary of the Interior or Administrator of General Services, as appropriate, has issued a construction permit for the commemorative work during that period.”
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 2003 Amendment
 
 Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
@@ -102,7 +106,7 @@ Benjamin Banneker Memorial.—Pub. L. 105–355, title V, §512, Nov. 6, 1998, 1
 
 Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, §101(h) \[title I, §118\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §118\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144; Pub. L. 99–590, title VIII, §§801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39; Pub. L. 103–321, §1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, §506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, §1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926.
 
-Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, §201, Dec. 15, 2006, 120 Stat. 2713.
+Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, §201, Dec. 15, 2006, 120 Stat. 2713; Pub. L. 110–106, §1, Oct. 25, 2007, 121 Stat. 1022.
 
 Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335.
 

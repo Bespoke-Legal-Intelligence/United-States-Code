@@ -106,7 +106,7 @@ Subsec. (j). Pub. L. 106–571, §2(b), in par. (1), substituted “(j)” for �
 
 Subsec. (j)(2)(A). Pub. L. 105–61, §517(a)(2), substituted “September 30, 2000” for “September 30, 1997”.
 
-1993—Subsec. (d). Pub. L. 103–114, §1(a)(1), amended second sentence generally. Prior to amendment, secondsentence read as follows: “No agreement shall be entered into under this section later than September 30, 1993, nor shall any agreement cover a period of service extending beyond September 30, 1995.”
+1993—Subsec. (d). Pub. L. 103–114, §1(a)(1), amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 1993, nor shall any agreement cover a period of service extending beyond September 30, 1995.”
 
 Subsec. (g)(1)(C) to (L). Pub. L. 103–89 redesignated subpars. (D) to (L) as (C) to (K), respectively, and struck out former subpar. (C) which read as follows: “chapter 54 of this title, relating to the performance management and recognition system;”.
 
@@ -212,7 +212,7 @@ Section 1(a)(3) of Pub. L. 103–114 provided that: “Any service agreement ent
 
 #### Due Date for First Annual Report on Operation of Section
 
-Section 2(b) of Pub. L. 103–114 provided that: “The first report under section 5948(j) of title 5, United States Code, as amended by subsection (a), shall be due not later than June 30, 1994.”
+Section 2(b) of Pub. L. 103–114 provided that: “The first report under section 5948(j) of title 5, UnitedStates Code, as amended by subsection (a), shall be due not later than June 30, 1994.”
 
 #### Pay of Certain Federal Physicians for Fiscal Year 1982
 

@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-In the case of a small business refiner (as defined in section 45H(c)(1)) which elects the application of this section, there shall be allowed as a deduction an amount equal to 75 percent of qualified capital costs (as defined in section 45H(c)(2)) which are paid or incurred by the taxpayer during the taxable year.
+In the case of a small business refiner (as defined in section 45H(c)(1)) which elects the application of this section, there shall be allowed as a deduction an amount equal to 75 percent of qualified costs (as defined in section 45H(c)(2)) which are paid or incurred by the taxpayer during the taxable year and which are properly chargeable to capital account.
 
 #### (b) Reduced percentage
 
@@ -42,11 +42,17 @@ Section 280B shall not apply to amounts which are treated as expenses under this
 
 &emsp;If any portion of the deduction available under subsection (a) is allocated to owners under paragraph (1), the cooperative shall provide any owner receiving an allocation written notice of the amount of the allocation. Such notice shall be provided before the date on which the return described in paragraph (2) is due.
 
-(Added Pub. L. 108–357, title III, §338(a), Oct. 22, 2004, 118 Stat. 1480; amended Pub. L. 109–58, title XIII, §1324(a), Aug. 8, 2005, 119 Stat. 1015.)
+(Added Pub. L. 108–357, title III, §338(a), Oct. 22, 2004, 118 Stat. 1480; amended Pub. L. 109–58, title XIII, §1324(a), Aug. 8, 2005, 119 Stat. 1015; Pub. L. 110–172, §7(a)(3)(A), (C), Dec. 29, 2007, 121 Stat. 2482.)
 
 #### Amendments
 
+2007—Subsec. (a). Pub. L. 110–172 substituted “qualified costs” for “qualified capital costs” and inserted “and which are properly chargeable to capital account” before period at end.
+
 2005—Subsec. (e). Pub. L. 109–58 added subsec. (e).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
 
 #### Effective Date of 2005 Amendment
 

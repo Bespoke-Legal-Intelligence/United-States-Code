@@ -8,7 +8,7 @@
 
 #### (2) Analysis
 
-&emsp;The report under paragraph (1) shall include a detailed analysis of the level of need being presently funded or unfunded for each Indian tribe, either directly by the Secretary, under self-determination contracts under part A of this subchapter, or under compacts and funding agreements authorized under this subchapter. In compiling reports pursuant to this section, the Secretary may not impose any reporting requirements on participating Indian tribes or tribal organizations, not otherwise provided in this subchapter.
+&emsp;The report under paragraph (1) shall include a detailed analysis of the level of need beingpresently funded or unfunded for each Indian tribe, either directly by the Secretary, under self-determination contracts under part A of this subchapter, or under compacts and funding agreements authorized under this subchapter. In compiling reports pursuant to this section, the Secretary may not impose any reporting requirements on participating Indian tribes or tribal organizations, not otherwise provided in this subchapter.
 
 #### (b) Contents
 
@@ -36,7 +36,11 @@ The report under subsection (a) of this section shall—
 
 #### (c) Report on fund distribution method
 
-Not later than 180 days after August 18, 2000, the Secretary shall, after consultation with Indian tribes, submit a written report to the Committee on Resources of the House of Representatives and the Committee on Indian Affairs of the Senate that describes the method or methods used to determine the individual tribal share of funds controlled by all components of the Indian Health Service (including funds assessed by anyother Federal agency) for inclusion in self-governance compacts or funding agreements.
+Not later than 180 days after August 18, 2000, the Secretary shall, after consultation with Indian tribes, submit a written report to the Committee on Resources of the House of Representatives and the Committee on Indian Affairs of the Senate that describes the method or methods used to determine the individual tribal share of funds controlled by all components of the Indian Health Service (including funds assessed by any other Federal agency) for inclusion in self-governance compacts or funding agreements.
 
 (Pub. L. 93–638, title V, §514, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 728.)
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

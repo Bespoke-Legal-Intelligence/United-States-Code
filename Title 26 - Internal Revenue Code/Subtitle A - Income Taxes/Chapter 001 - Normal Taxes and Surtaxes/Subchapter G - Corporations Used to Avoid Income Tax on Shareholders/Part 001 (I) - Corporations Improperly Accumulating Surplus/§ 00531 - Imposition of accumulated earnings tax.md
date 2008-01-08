@@ -2,7 +2,7 @@
 
 In addition to other taxes imposed by this chapter, there is hereby imposed for each taxable year on the accumulated taxable income (as defined in section 535) of each corporation described in section 532, an accumulated earnings tax equal to 15 percent of the accumulated taxable income.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 179; Pub. L. 100–647, title I, §1001(a)(2)(A), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 103–66, title XIII, §§13201(b)(1), 13202(b), Aug. 10, 1993, 107 Stat. 459, 461; Pub. L. 107–16, title I, §101(c)(4), June 7, 2001, 115 Stat. 43; Pub. L. 108–27, title III, §302(e)(5), May 28, 2003, 117 Stat. 764.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 179; Pub. L. 100–647, title I, §1001(a)(2)(A), Nov. 10, 1988, 102Stat. 3349; Pub. L. 103–66, title XIII, §§13201(b)(1), 13202(b), Aug. 10, 1993, 107 Stat. 459, 461; Pub. L. 107–16, title I, §101(c)(4), June 7, 2001, 115 Stat. 43; Pub. L. 108–27, title III, §302(e)(5), May 28, 2003, 117 Stat. 764.)
 
 #### Amendment of Section
 

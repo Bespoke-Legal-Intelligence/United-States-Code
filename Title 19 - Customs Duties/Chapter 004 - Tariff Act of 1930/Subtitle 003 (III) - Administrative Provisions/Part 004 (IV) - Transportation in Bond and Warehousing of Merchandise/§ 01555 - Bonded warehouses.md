@@ -72,7 +72,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(D) The term “duty-free sales enterprise” means a person that sells, for use outside the customs territory, duty-free merchandise that is delivered from a bonded warehouse to an airport or other exit point for exportation by, or on behalf of, individuals departing from the customs territory.
 
-&emsp;(E) The term “duty-free merchandise” means merchandise sold by a duty-free salesenterprise on which neither Federal duty nor Federal tax has been assessed pending exportation from the customs territory.
+&emsp;(E) The term “duty-free merchandise” means merchandise sold by a duty-free sales enterprise on which neither Federal duty nor Federal tax has been assessed pending exportation from the customs territory.
 
 &emsp;(F) The term “exit point” means the area in close proximity to an actual exit for departing from the customs territory, including the gate holding area in the case of an airport, but only if there is reasonable assurance that duty-free merchandise delivered in the gate holding area will be exported from the customs territory.
 
@@ -122,7 +122,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §555, 42 Stat. 976. That section was superseded by section 555 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions dealing with the subject matter of this section were contained in R.S. §2958, authorizing cellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise, and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of the owner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Prior provisions dealing with the subject matter of this section were contained in R.S. §2958, authorizing cellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise,and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of the owner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 
@@ -130,7 +130,7 @@ Prior provisions dealing with the subject matter of this section were contained 
 
 1999—Subsec. (b)(2)(B), (C). Pub. L. 106–36 substituted “; or” for period at end of subpar. (B) and added subpar. (C).
 
-1996—Subsec. (b)(6). Pub. L. 104–295 designated existing provisions as subpar. (A), substituted “Except asprovided in subparagraph (B), merchandise” for “Merchandise”, and added subpar. (B).
+1996—Subsec. (b)(6). Pub. L. 104–295 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), merchandise” for “Merchandise”, and added subpar. (B).
 
 1990—Subsec. (b)(6). Pub. L. 101–382, which directed substitution of “subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States” for “subpart A of part 2 of schedule 8 of the Tariff schedules of the United States”, was executed by making the substitution for “subpart A of part 2 of schedule 8 of the Tariff Schedules of the United States” to reflect the probable intent of Congress.
 

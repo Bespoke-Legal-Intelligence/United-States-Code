@@ -10,7 +10,7 @@ The recreation area shall be comprised of approximately 57,000 acres of lands an
 
 #### (c) Map and description
 
-As soon as practicable after October 12, 1993, the Secretary shall file a map and legal description of the recreation area with the Committee on Natural Resources of the House of Representatives and with the Committee on Energy and Natural Resources and the Committee on Indian Affairs of the Senate. Such map and legal description shall have the same force and effect as if included in this subchapter, except that correction of clerical and typographical errors insuch legal description and map may be made. Such map and legal description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
+As soon as practicable after October 12, 1993, the Secretary shall file a map and legal description of the recreation area with the Committee on Natural Resources of the House of Representatives and with the Committee on Energy and Natural Resources and the Committee on Indian Affairs of the Senate. Such map and legal description shall have the same force and effect as if included in this subchapter, except that correction of clerical and typographical errors in such legal description and map may be made. Such map and legal description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
 
 #### (d) No additional lands
 
@@ -21,8 +21,4 @@ No lands or interests therein outside of the boundaries of the recreation area m
 #### Amendments
 
 1994—Subsec. (c). Pub. L. 103–437 in first sentence struck out “Select” before “Committee on Indian Affairs”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

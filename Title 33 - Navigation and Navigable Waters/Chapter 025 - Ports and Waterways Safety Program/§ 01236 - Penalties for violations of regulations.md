@@ -10,7 +10,7 @@ For any violation of regulations issued pursuant to sections 1233 to 1235 of thi
 
 (d) Any other person shall be liable to a penalty of $2,500.
 
-The Commandant of the Coast Guard is authorized and empowered to mitigate or remit any penalty herein provided for in the manner prescribed by law for the mitigation or remission of penalties for violation of the navigation laws.
+The Commandant of the Coast Guard is authorized and empowered to mitigate or remitany penalty herein provided for in the manner prescribed by law for the mitigation or remission of penalties for violation of the navigation laws.
 
 (Apr. 28, 1908, ch. 151, §4, 35 Stat. 69; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 101–380, title IV, §4302(k), Aug. 18, 1990, 104 Stat. 539.)
 

@@ -20,5 +20,5 @@ Sections 6 and 9 of the Inspector General Act of 1978, referred to in text, are 
 
 #### Effective Date
 
-Section effective on such date as the Secretary of Agriculture may prescribe, taking into account the need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as an Effective Date of 1981 Amendment note under section 2012 of this title.
+Section effective on such date as the Secretary of Agriculture may prescribe, taking into account the needfor orderly implementation, see section 1338 of Pub. L. 97–98, set out as an Effective Date of 1981 Amendment note under section 2012 of this title.
 

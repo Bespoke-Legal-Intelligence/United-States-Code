@@ -6,7 +6,7 @@ Unless the Secretary finds, after consultation with local and regional public of
 
 #### (b) Limits on applicability; regulatory requirements
 
-The declaration under subsection (a) of this section shall apply only to those parts of theareas described in the Committee print referred to in subsection (a) of this section which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations including, but not limited to, sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
+The declaration under subsection (a) of this section shall apply only to those parts of the areas described in the Committee print referred to in subsection (a) of this section which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations including, but not limited to, sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
 #### (c) Expiration date
 
@@ -16,7 +16,7 @@ If, 20 years from November 28, 1990, any area or part thereof described in the C
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Change of Name
 

@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### (1) Gross income from the property
 
-&emsp;The term “gross income from the property” means, in the case of a property other than an oil or gas well and other than a geothermal deposit, the gross income from mining.
+&emsp;The term “gross income from the property” means, in the case of a property other than anoil or gas well and other than a geothermal deposit, the gross income from mining.
 
 #### (2) Mining
 
@@ -120,7 +120,7 @@ Except as provided in section 613A, in the case of any oil or gas well, the allo
 
 &emsp;In the case of any geothermal deposit, the term “gross income from the property” shall, for purposes of this section, not include any amount described in section 613A(d)(5).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 208; Pub. L. 85–866, title I, §36(a), Sept. 2, 1958, 72 Stat. 1633; Pub. L. 86–564, title III, §302(a), (b), June 30, 1960, 74 Stat. 291, 292; Pub. L. 87–834, §13(e), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–571, §6(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 89–809, title II, §§207(a), 208(a), 209(a), (b), Nov. 13, 1966, 80 Stat. 1579, 1580; Pub. L. 91–172, title V, §§501(a), 502(a), Dec. 30, 1969, 83 Stat. 629, 630; Pub. L. 93–499, §2(a), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 94–12, title V, §501(b)(1), (2), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–618, title IV, §403(a)(1), (2)(A), Nov. 9, 1978, 92 Stat. 3203; Pub. L. 99–514, title IV, §412(a)(2), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 101–508, title XI, §§11522(a), 11815(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–486, 1388–557, 1388–558; Pub. L. 104–188, title I, §1704(t)(34), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title I, §102(d)(6), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–135, title IV, §412(gg), Dec. 21, 2005, 119 Stat. 2639.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 208; Pub. L. 85–866, title I, §36(a), Sept. 2, 1958, 72 Stat. 1633;Pub. L. 86–564, title III, §302(a), (b), June 30, 1960, 74 Stat. 291, 292; Pub. L. 87–834, §13(e), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–571, §6(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 89–809, title II, §§207(a), 208(a), 209(a), (b), Nov. 13, 1966, 80 Stat. 1579, 1580; Pub. L. 91–172, title V, §§501(a), 502(a), Dec. 30, 1969, 83 Stat. 629, 630; Pub. L. 93–499, §2(a), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 94–12, title V, §501(b)(1), (2), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–618, title IV, §403(a)(1), (2)(A), Nov. 9, 1978, 92 Stat. 3203; Pub. L. 99–514, title IV, §412(a)(2), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 101–508, title XI, §§11522(a), 11815(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–486, 1388–557, 1388–558; Pub. L. 104–188, title I, §1704(t)(34), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title I, §102(d)(6), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–135, title IV, §412(gg), Dec. 21, 2005, 119 Stat. 2639.)
 
 #### Amendments
 
@@ -184,7 +184,7 @@ Subsec. (b)(6). Pub. L. 86–564, §302(a)(3), struck out provisions which autho
 
 Subsec. (c)(2). Pub. L. 86–564, §302(b)(1), substituted “the treatment processes considered as mining described in paragraph (4) (and the treatment processes necessary or incidental thereto)” for “the ordinary treatment processes normally applied by mine owners or operators in order to obtain the commercially marketable mineral product or products”, and “such treatment processes” for “the ordinary treatment processes”.
 
-Subsec. (c)(4). Pub. L. 86–564, §302(b)(2), substituted “The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611” for “The term ‘ordinary treatment processes’ includes the following” in opening provisions, included cleaning in subpar. (B), substituted “ores or minerals which” for “minerals which” and included substantially equivalent processes in subpar. (C), included uranium and minerals which are not customarily sold in the form of the crude mineral product and substituted “from the ore or the mineral or minerals from other material from the mine or other natural deposit” for “from the ore, including the furnacing of quicksilver ores” in subpar. (D), included the furnacing of quicksilver ores in subpar. (E), and added subpars. (F) to (H).
+Subsec. (c)(4). Pub. L. 86–564, §302(b)(2), substituted “The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611” for “The term ‘ordinarytreatment processes’ includes the following” in opening provisions, included cleaning in subpar. (B), substituted “ores or minerals which” for “minerals which” and included substantially equivalent processes in subpar. (C), included uranium and minerals which are not customarily sold in the form of the crude mineral product and substituted “from the ore or the mineral or minerals from other material from the mine or other natural deposit” for “from the ore, including the furnacing of quicksilver ores” in subpar. (D), included the furnacing of quicksilver ores in subpar. (E), and added subpars. (F) to (H).
 
 Subsec. (c)(5). Pub. L. 86–564, §302(b)(2), added par. (5).
 
@@ -282,7 +282,7 @@ Time and manner of election.—An election to have the provisions of this paragr
 
 &emsp;&emsp;“(D)
 
-Statutes of limitation.—Notwithstanding any other law, the period within which an assessment of a deficiency attributable to the application of the amendments made by subsection (b) \[amending this section\] may be made with respect to any taxable year to which such amendments apply under an election made under subparagraph (C), and the period within which a claim for refund or credit of an overpayment attributable to the application of such amendments may be made with respect to any such taxable year, shall not expire prior to one year after the last day for making an election under subparagraph (C). An election by a taxpayer under subparagraph (C) shall be considered as a consent to the application of the provisions of this subparagraph.
+Statutes of limitation.—Notwithstanding any other law, the period within which an assessment of a deficiency attributable to the application of the amendments made by subsection (b) \[amending this section\] may be made with respect to any taxable year to which such amendments apply under an election made under subparagraph (C), and the period within which a claim for refund or creditof an overpayment attributable to the application of such amendments may be made with respect to any such taxable year, shall not expire prior to one year after the last day for making an election under subparagraph (C). An election by a taxpayer under subparagraph (C) shall be considered as a consent to the application of the provisions of this subparagraph.
 
 &emsp;&emsp;“(E)
 
@@ -306,7 +306,7 @@ Pub. L. 87–312, Sept. 26, 1961, 75 Stat. 674, provided for the election of, an
 
 #### Election for Quartzite and Clay Used in Production of Refractory Products
 
-Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law orrule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
+Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
 
 #### Refund or Credit of Overpayments; Limitations; Interest
 

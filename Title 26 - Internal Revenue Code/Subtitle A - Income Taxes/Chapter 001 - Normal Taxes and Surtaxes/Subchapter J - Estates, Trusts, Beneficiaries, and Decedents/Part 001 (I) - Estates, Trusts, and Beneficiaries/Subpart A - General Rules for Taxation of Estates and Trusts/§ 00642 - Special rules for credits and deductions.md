@@ -228,7 +228,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Amendment by section 112(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Amendment by section 301(b)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
+Amendment by section 301(b)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
 Amendment by section 612(b)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 612(c) of Pub. L. 99–514, set out as a note under section 301 of this title.
 
@@ -270,7 +270,7 @@ Section 1(b) of Pub. L. 94–528 provided that: “The amendments made by subsec
 
 Section 303(d) of Pub. L. 92–178 provided that: “The amendments made by this section \[enacting section 188 of this title and amending this section and sections 57, 1082, 1245, and 1250 of this title\] shall apply to taxable years ending after December 31, 1971.”
 
-Section 703 of Pub. L. 92–178 provided that: “The amendments made by this title \[enacting sections 24 and 218 of this title and amending this section\] shall apply to taxable years ending after December 31, 1971, but only with respect to political contributions, payment of which is made after such date.”
+Section 703 of Pub. L. 92–178 provided that: “The amendments made by this title \[enacting sections 24 and 218 of this title and amending this section\] shallapply to taxable years ending after December 31, 1971, but only with respect to political contributions, payment of which is made after such date.”
 
 #### Effective Date of 1969 Amendment
 

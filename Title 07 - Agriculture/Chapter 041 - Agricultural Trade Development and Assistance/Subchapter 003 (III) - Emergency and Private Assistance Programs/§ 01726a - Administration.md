@@ -64,7 +64,7 @@ Not later than 15 days after receipt from a United States field mission of a cal
 
 &emsp;&emsp;(B) a statement of the total amount of funds approved to date for transportation and administrative costs under this section.
 
-(July 10, 1954, ch. 469, title II, §207, as added Pub. L. 99–198, title XI, §1104(a), Dec. 23, 1985, 99 Stat. 1466; amended Pub. L. 100–202, §14, Dec. 22, 1987, 101 Stat. 1329–449; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3640; Pub. L. 104–127, title II, §207(b), Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, §3007, May 13, 2002, 116 Stat. 282.)
+(July 10, 1954, ch. 469, title II, §207, as added Pub. L. 99–198, title XI, §1104(a), Dec. 23, 1985, 99 Stat. 1466; amended Pub. L. 100–202, §14, Dec. 22, 1987, 101 Stat. 1329–449; Pub. L. 101–624, title XV, §1512,Nov. 28, 1990, 104 Stat. 3640; Pub. L. 104–127, title II, §207(b), Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, §3007, May 13, 2002, 116 Stat. 282.)
 
 #### Amendments
 
@@ -93,6 +93,10 @@ Subsec. (b)(2). Pub. L. 104–127, §207(b)(2)(B), substituted “eligible organ
 Subsec. (b). Pub. L. 100–202, §14(2), substituted “10 percent” for “5 percent”.
 
 Subsec. (c). Pub. L. 100–202, §14(3), added subsec. (c).
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1990 Amendment
 

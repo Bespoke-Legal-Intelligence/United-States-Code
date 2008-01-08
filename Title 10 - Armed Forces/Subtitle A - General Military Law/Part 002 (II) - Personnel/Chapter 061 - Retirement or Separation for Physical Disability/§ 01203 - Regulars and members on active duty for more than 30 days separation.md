@@ -86,7 +86,7 @@ The changes correct typographical errors.
 
 1989—Par. (4)(A) to (C). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration” wherever appearing.
 
-1980—Par. (4)(A)(iii). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning onSeptember 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect”.
+1980—Par. (4)(A)(iii). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect”.
 
 Pub. L. 96–343, §10(c)(2), added cl. (iii).
 

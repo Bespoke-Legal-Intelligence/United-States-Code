@@ -8,7 +8,7 @@ If, in connection with any collection of Federal tax with respect to a taxpayer,
 
 In any action brought under subsection (a) or petition filed under subsection (e), upon a finding of liability on the part of the defendant, the defendant shall be liable to the plaintiff in an amount equal to the lesser of $1,000,000 ($100,000, in the case of negligence) or the sum of—
 
-&emsp;(1) actual, direct economic damages sustained by the plaintiff as a proximate result ofthe reckless or intentional or negligent actions of the officer or employee, and
+&emsp;(1) actual, direct economic damages sustained by the plaintiff as a proximate result of the reckless or intentional or negligent actions of the officer or employee, and
 
 &emsp;(2) the costs of the action.
 

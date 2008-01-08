@@ -1,6 +1,6 @@
 ### §414. Special postage stamps
 
-(a) In order to afford the public a convenient way to contribute to funding for breast cancerresearch, the Postal Service shall establish a special rate of postage for first-class mail under this section.
+(a) In order to afford the public a convenient way to contribute to funding for breast cancer research, the Postal Service shall establish a special rate of postage for first-class mail under this section.
 
 (b) The rate of postage established under this section—
 
@@ -44,15 +44,17 @@
 
 (g) For purposes of section 416 (including any regulation prescribed under subsection (e)(1)(C) of that section), the special postage stamp issued under this section shall not apply to any limitation relating to whether more than 1 semipostal may be offered for sale at the same time.
 
-(h) This section shall cease to be effective after December 31, 2007.
+(h) This section shall cease to be effective after December 31, 2011.
 
-(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, §650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557; Pub. L. 108–199, div. F, title V, §541, Jan. 23, 2004, 118 Stat. 346; Pub. L. 109–100, §1, Nov. 11, 2005, 119 Stat. 2170.)
+(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, §650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557; Pub. L. 108–199, div. F, title V, §541, Jan. 23, 2004, 118 Stat. 346; Pub. L. 109–100, §1, Nov. 11, 2005, 119 Stat. 2170; Pub. L. 110–150, §1, Dec. 21, 2007, 121 Stat. 1820.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 105–41, which was approved Aug. 13, 1997.
 
 #### Amendments
+
+2007—Subsec. (h). Pub. L. 110–150 substituted “2011” for “2007”.
 
 2005—Subsec. (h). Pub. L. 109–100 substituted “2007” for “2005”.
 
@@ -72,9 +74,13 @@ Pub. L. 107–67, title VI, §650(b)(2), Nov. 12, 2001, 115 Stat. 557, provided 
 
 &emsp;“(B) July 29, 2002.”
 
+#### Reporting Requirements
+
+Pub. L. 110–150, §2, Dec. 21, 2007, 121 Stat. 1820, provided that: “The National Institutes of Health and the Department of Defense shall each submit to Congress and the Government Accountability Office an annual report concerning the use of any amounts that it received under section 414(c) of title 39, United States Code, including a description of any significant advances or accomplishments, during the year covered by the report, that were funded, in whole or in part, with such amounts.”
+
 #### Report by Comptroller General of United States
 
-Pub. L. 106–253, §3(b), July 28, 2000, 114 Stat. 637, provided that: “No later than 3 months and no earlier than 6 months before the date as of which section 414 of title 39, United States Code (as amended by this section) is scheduled to expire, the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall be in addition to the report required by section 2(b) of Public Law 105–41 \[set out below\], and shall address at leastthe same matters as were required to be included in that earlier report.”
+Pub. L. 106–253, §3(b), July 28, 2000, 114 Stat. 637, provided that: “No later than 3 months and no earlier than 6 months before the date as of which section 414 of title 39, United States Code (as amended by this section) is scheduled to expire, the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall be in addition to the report required by section 2(b) of Public Law 105–41 \[set out below\], and shall address at least the same matters as were required to be included in that earlier report.”
 
 Section 2(b) of Pub. L. 105–41 provided that: “No later than 3 months (but no earlier than 6 months) before the end of the 2-year period referred to in section 414(g) of title 39, United States Code (as amended by subsection (a)), the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall include—
 

@@ -6,7 +6,7 @@
 
 #### (A) Limitation
 
-&emsp;&emsp;The credit base of any property to which this paragraph applies shall be reduced by the nonqualified nonrecourse financing withrespect to such credit base (as of the close of the taxable year in which placed in service).
+&emsp;&emsp;The credit base of any property to which this paragraph applies shall be reduced by the nonqualified nonrecourse financing with respect to such credit base (as of the close of the taxable year in which placed in service).
 
 #### (B) Property to which paragraph applies
 
@@ -36,7 +36,7 @@
 
 #### (ii) Qualified commercial financing
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified commercial financing” means any financing with respect to any property if—
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified commercial financing” meansany financing with respect to any property if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such property is acquired by the taxpayer from a person who is not a related person,
 
@@ -112,7 +112,7 @@
 
 #### (B) Certain transactions not taken into account
 
-&emsp;&emsp;For purposes of this paragraph, nonqualified nonrecourse financing shall not be treated as decreased through the surrender or other use of property financed by nonqualified nonrecourse financing.
+&emsp;&emsp;For purposes of this paragraph, nonqualified nonrecourse financing shall not betreated as decreased through the surrender or other use of property financed by nonqualified nonrecourse financing.
 
 #### (C) Manner in which taken into account
 
@@ -154,7 +154,7 @@ A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Sta
 
 #### Amendments
 
-2005—Subsec. (a)(1)(C)(iii), (iv). Pub. L. 109–58 added cls. (iii) and (iv) and struck out former cl. (iii) whichread as follows: “the amortizable basis of any qualified timber property.”
+2005—Subsec. (a)(1)(C)(iii), (iv). Pub. L. 109–58 added cls. (iii) and (iv) and struck out former cl. (iii) which read as follows: “the amortizable basis of any qualified timber property.”
 
 1998—Subsec. (b)(4). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”.
 

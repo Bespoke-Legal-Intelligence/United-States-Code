@@ -10,7 +10,7 @@
 
 &emsp;(4) sponsor and assist State and community informational and educational programs.
 
-(b) Not later than six months after the effective date of this chapter, the Secretary shall recommend to the Congress any measures he may deem desirable to change the lower or upper age limits set forth in section 631 of this title.
+(b) Not later than six months after the effective date of this chapter, the Secretary shallrecommend to the Congress any measures he may deem desirable to change the lower or upper age limits set forth in section 631 of this title.
 
 (Pub. L. 90–202, §3, Dec. 15, 1967, 81 Stat. 602.)
 

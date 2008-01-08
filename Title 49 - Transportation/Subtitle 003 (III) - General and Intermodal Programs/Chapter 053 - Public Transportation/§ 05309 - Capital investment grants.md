@@ -290,7 +290,7 @@ Impact report.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 120 days after the date of enactment of the Federal Public Transportation Act of 2005, the Federal Transit Administration shall submit tothe Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the methodology to be used in evaluating the land use and economic development impacts of non-fixed guideway or partial fixed guideway projects.
+In general.—Not later than 120 days after the date of enactment of the Federal Public Transportation Act of 2005, the Federal Transit Administration shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the methodology to be used in evaluating the land use and economic development impacts of non-fixed guideway or partial fixed guideway projects.
 
 &emsp;&emsp;(B)
 
@@ -382,7 +382,7 @@ Contents of plan.—The plan submitted under subclause (I) shall provide for—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) documentation of the predicted scope, service levels, capital costs, operating costs, and ridership of the project;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) collection of data on the transit system 2 years after the opening of the new fixed guideway capital project, including analogous information on transit service levels and ridership patterns and information on the as-builtscope and capital costs of the project; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) collection of data on the transit system 2 years after the opening of the new fixed guideway capital project, including analogous information on transit service levels and ridership patterns and information on the as-built scope and capital costs of the project; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) analysis of the consistency of predicted project characteristics with the after data.
 
@@ -536,7 +536,7 @@ Annual report on funding recommendations.—Not later than the first Monday in F
 
 &emsp;&emsp;(B) evaluations and ratings, as required under subsections (d) and (e), for each such project that is authorized by the Federal Public Transportation Act of 2005; and
 
-&emsp;&emsp;(C) recommendations of such projects for funding based on the evaluations and ratings and on existing commitments and anticipated funding levels for the next 3 fiscalyears based on information currently available to the Secretary.
+&emsp;&emsp;(C) recommendations of such projects for funding based on the evaluations and ratings and on existing commitments and anticipated funding levels for the next 3 fiscal years based on information currently available to the Secretary.
 
 &emsp;(2)
 
@@ -582,7 +582,7 @@ Considerations.—In making comparisons under subparagraph (B), the Secretary sh
 
 &emsp;(3)
 
-Contractor performance incentive report.—Not later than 180 days after the enactment of the Federal Public Transportation Act of 2005, the Secretary shall submit to the committees referred to in subsection (k)(1) a report on the suitability of allowing contractors to public transportation agencies that undertake new fixed guideway capital projects under this section to receive performance incentive awards if a project is completed for less than the original estimated cost.
+Contractor performance incentive report.—Not later than 180 days after the enactment of the Federal Public Transportation Act of 2005, the Secretary shall submit to the committees referred to in subsection (k)(1) a report on the suitability of allowing contractors to public transportation agencies that undertake new fixed guideway capital projectsunder this section to receive performance incentive awards if a project is completed for less than the original estimated cost.
 
 (m)
 
@@ -692,7 +692,7 @@ Bus testing.—$3,000,000 shall be available in each fiscal year for bus testing
 
 Bus and bus facility grant considerations.—In making grants under paragraphs (1)(C) and (2)(C), the Secretary shall consider the age and condition of buses, bus fleets, related equipment, and bus-related facilities.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356,1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573.)
 
 Historical and Revision Notes
 
@@ -1022,7 +1022,7 @@ Pub. L. 108–263, §7(a)(1)(A), (D), substituted “July 31, 2004” for “Jun
 
 Pub. L. 108–224, §7(a)(1)(D), which directed the amendment of subpar. (C) without providing closing quotation marks designating the provisions to be inserted, was executed by substituting “2003, and ending on June 30, 2004, during which $452,713,140 will be available” for “2003 and ending on April 30, 2004, during which $352,110,220 will be available”, to reflect the probable intent of Congress.
 
-Pub. L. 108–202, §9(a)(1)(D), inserted “, except for the period beginning on October 1, 2003 and ending on April 30, 2004, during which $352,110,220 will be available” after “facilities”.
+Pub. L. 108–202, §9(a)(1)(D), inserted “, except for the period beginning on October 1, 2003 and ending on April30, 2004, during which $352,110,220 will be available” after “facilities”.
 
 Subsec. (m)(2)(B)(i). Pub. L. 108–280, §7(a)(2)(A), substituted “2004” for “2003”.
 

@@ -1,6 +1,6 @@
 ### §11403. Purpose
 
-The purpose of the program authorized under this part is to provide rental housing assistance, in connection with supportive services funded from sources other than this part, to homeless persons with disabilities (primarily persons who are seriously mentally ill, have chronic problems with alcohol, drugs, or both, or have acquired immunodeficiency syndrome and related diseases) and the families of such persons.
+The purpose of the program authorized under this part is to provide rental housing assistance, in connection with supportive services funded from sources other than this part, to homeless persons with disabilities (primarily persons whoare seriously mentally ill, have chronic problems with alcohol, drugs, or both, or have acquired immunodeficiency syndrome and related diseases) and the families of such persons.
 
 (Pub. L. 100–77, title IV, §451, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4367.)
 

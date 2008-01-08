@@ -2,7 +2,7 @@
 
 For the purpose of this chapter—
 
-&emsp;(1) The term “Convention” means the International Convention for the Conservation of Atlantic Tunas, signed at Rio de Janeiro May14, 1966, including any amendments or protocols which are or become effective for the United States.
+&emsp;(1) The term “Convention” means the International Convention for the Conservation of Atlantic Tunas, signed at Rio de Janeiro May 14, 1966, including any amendments or protocols which are or become effective for the United States.
 
 &emsp;(2) The term “Commission” means the International Commission for the Conservation of Atlantic Tunas provided for in article III of the Convention.
 

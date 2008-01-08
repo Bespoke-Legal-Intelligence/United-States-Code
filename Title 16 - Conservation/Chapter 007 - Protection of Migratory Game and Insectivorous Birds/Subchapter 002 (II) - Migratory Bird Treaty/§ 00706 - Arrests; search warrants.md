@@ -6,7 +6,7 @@ Any employee of the Department of the Interior authorized by the Secretary of th
 
 #### Amendments
 
-1978—Pub. L. 95–616 made provisions respecting seizures and judgment of court applicable to birds, or parts, nests, or eggs sold or offered for sale, bartered or offered for barter, purchased, imported and exported and substituted “any regulation prescribed thereunder” in two places for “any regulations made pursuant thereto” and “any regulation made pursuant thereto” and provision for disposition of the birds, etc., by Secretary of the Interior in such manner as he deems appropriate for prior provision for such disposition as directed by court having jurisdiction.
+1978—Pub. L. 95–616 made provisions respecting seizures and judgment of court applicable to birds, orparts, nests, or eggs sold or offered for sale, bartered or offered for barter, purchased, imported and exported and substituted “any regulation prescribed thereunder” in two places for “any regulations made pursuant thereto” and “any regulation made pursuant thereto” and provision for disposition of the birds, etc., by Secretary of the Interior in such manner as he deems appropriate for prior provision for such disposition as directed by court having jurisdiction.
 
 #### Change of Name
 

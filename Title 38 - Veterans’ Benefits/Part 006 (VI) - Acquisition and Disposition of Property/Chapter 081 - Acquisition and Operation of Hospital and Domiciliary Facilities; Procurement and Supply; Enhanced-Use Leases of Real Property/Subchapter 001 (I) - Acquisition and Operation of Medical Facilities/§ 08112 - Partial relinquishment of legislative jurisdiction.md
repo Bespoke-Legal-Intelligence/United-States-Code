@@ -6,7 +6,7 @@ The Secretary, on behalf of the United States, may relinquish to the State in wh
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in former section 5007 of this title priorto the general revision of this subchapter by Pub. L. 96–22.
+Provisions similar to those comprising this section were contained in former section 5007 of this title prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
 

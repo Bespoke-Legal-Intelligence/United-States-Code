@@ -48,7 +48,7 @@ Former section 2202 of title 39, referred to in subsec. (a)(6), means section 22
 
 Section 9703(p) of title 31, referred to in subsec. (e)(1), probably means the section 9703 of title 31 added by section 638(b)(1) of Pub. L. 102–393, title VI, Oct. 6, 1992, 106 Stat. 1779.
 
-Section 2004, as in effect before the effective date of this subsection, referred to in subsec. (h), means section 2004 of this title, as in effect before Oct. 1, 1997. Section 2004 was repealed by Pub. L. 105–33, title VII, §7003(a)(1), Aug. 5, 1997, 111 Stat. 663.
+Section 2004, as in effect before the effective date of this subsection, referred to in subsec. (h), means section 2004 of this title, as in effect before Oct. 1, 1997.Section 2004 was repealed by Pub. L. 105–33, title VII, §7003(a)(1), Aug. 5, 1997, 111 Stat. 663.
 
 #### Codification
 

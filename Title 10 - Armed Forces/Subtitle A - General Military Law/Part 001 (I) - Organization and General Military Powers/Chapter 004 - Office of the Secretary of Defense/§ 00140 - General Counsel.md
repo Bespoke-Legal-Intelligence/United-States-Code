@@ -48,5 +48,3 @@ Another prior section 140 was renumbered section 127 of this title.
 
 For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
-§140a
-

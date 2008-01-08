@@ -20,5 +20,3 @@ Assistant Chief.—The Surgeon General shall appoint the assistant chief from th
 
 1998—Subsec. (b). Pub. L. 105–261 struck out “, but not for more than three years, and may not be reappointed to the same position” after “pleasure of the Secretary”.
 
-§8071
-

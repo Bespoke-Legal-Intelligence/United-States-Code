@@ -30,7 +30,7 @@ The factors considered by the Secretary in determining whether an eligible area 
 
 &emsp;(9) The relevant factors that limit access to health care, including geographic variation, adequacy of health insurance coverage, and language barriers.
 
-&emsp;(10) The impact of a decline in the amount received pursuant to section 300ff–28 of this title on services available to all individuals with HIV/AIDS identified and eligible under this subchapter.
+&emsp;(10) The impact of a decline in the amount received pursuant to section 300ff–28 of thistitle on services available to all individuals with HIV/AIDS identified and eligible under this subchapter.
 
 #### (c) Priority in making grants
 

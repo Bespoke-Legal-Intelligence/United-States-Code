@@ -2,7 +2,7 @@
 
 Proceedings for condemnation shall be instituted pursuant to the provisions of section 3113 of title 40, and section 1403 of title 28. Sections 3114 to 3116 and 3118 of title 40 shall be applicable to any such proceedings.
 
-(Aug. 1, 1946, ch. 724, title I, §172, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 953; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §172, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 953; renumberedtitle I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Codification
 

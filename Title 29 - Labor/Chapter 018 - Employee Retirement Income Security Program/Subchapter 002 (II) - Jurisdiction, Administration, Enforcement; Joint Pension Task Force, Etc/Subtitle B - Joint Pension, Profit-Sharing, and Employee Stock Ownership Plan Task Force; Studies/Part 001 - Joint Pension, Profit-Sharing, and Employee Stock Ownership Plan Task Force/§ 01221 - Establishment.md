@@ -1,16 +1,12 @@
 ### §1221. Establishment
 
-The staffs of the Committee on Ways and Means and the Committee on Education andLabor of the House of Representatives, the Joint Committee on Taxation, and the Committee on Finance and the Committee on Labor and Public Welfare of the Senate shall carry out the duties assigned under this subchapter to the Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force. By agreement among the chairmen of such Committees, the Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force shall be furnished with office space, clerical personnel, and such supplies and equipment as may be necessary for the Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force to carry out its duties under this subchapter.
+The staffs of the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, the Joint Committee on Taxation, and the Committee on Finance and the Committee on Labor and Public Welfare of the Senate shall carry out the duties assigned under this subchapter to the Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force. By agreement among the chairmen of such Committees, the Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force shall be furnished with office space, clerical personnel, and such supplies and equipment as may be necessary for the Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force to carry out its duties under this subchapter.
 
 (Pub. L. 93–406, title III, §3021, Sept. 2, 1974, 88 Stat. 999; Pub. L. 94–455, title VIII, §803(i) (2)(A)(iii), title XIX, §1907(a)(5), Oct. 4, 1976, 90 Stat. 1591, 1836.)
 
 #### Amendments
 
 1976—Pub. L. 94–455, §803(i)(2)(A)(iii), substituted “Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force” for “Joint Pension Task Force” wherever appearing.
-
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 “Joint Committee on Taxation” substituted for “Joint Committee on Internal Revenue Taxation” on authority of section 1907(a)(5) of Pub. L. 94–455.
 

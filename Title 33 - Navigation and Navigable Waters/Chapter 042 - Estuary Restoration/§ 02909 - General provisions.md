@@ -8,7 +8,7 @@ In carrying out this chapter, the Secretary shall, as necessary, consult with, c
 
 In carrying out this chapter, the Secretary may—
 
-&emsp;(1) enter into cooperative agreements with Federal, State, and local government agencies and other entities; and
+&emsp;(1) enter into cooperative agreements or contracts with Federal, State, and local government agencies, nongovernmental organizations, and other entities; and
 
 &emsp;(2) execute such memoranda of understanding as are necessary to reflect the agreements.
 
@@ -16,31 +16,11 @@ In carrying out this chapter, the Secretary may—
 
 Federal agencies may cooperate in carrying out scientific and other programs necessary to carry out this chapter, and may provide facilities and personnel, for the purpose of assisting the Council in carrying out its duties under this chapter.
 
-#### (d) Identification and mapping of dredged material disposal sites
+(Pub. L. 106–457, title I, §110, Nov. 7, 2000, 114 Stat. 1966; Pub. L. 110–114, title V, §5017(h), Nov. 8, 2007, 121 Stat. 1199.)
 
-In consultation with appropriate Federal and non-Federal public entities, the Secretary shall undertake, and update as warranted by changed conditions, surveys to identify and map sites appropriate for beneficial uses of dredged material for the protection, restoration, and creation of aquatic and ecologically related habitats, including wetlands, in order to further the purposes of this chapter.
+#### Amendments
 
-#### (e) Study of bioremediation technology
+2007—Subsec. (b)(1). Pub. L. 110–114, §5017(h)(1), inserted “or contracts” after “agreements” and “, nongovernmental organizations,” after “agencies”.
 
-#### (1) In general
-
-&emsp;Not later than 180 days after November 7, 2000, the Administrator of the Environmental Protection Agency, with the participation of the estuarine scientific community, shall begin a 2-year study on the efficacy of bioremediation products.
-
-#### (2) Requirements
-
-&emsp;The study shall—
-
-&emsp;&emsp;(A) evaluate and assess bioremediation technology—
-
-&emsp;&emsp;&emsp;(i) on low-level petroleum hydrocarbon contamination from recreational boat bilges;
-
-&emsp;&emsp;&emsp;(ii) on low-level petroleum hydrocarbon contamination from stormwater discharges;
-
-&emsp;&emsp;&emsp;(iii) on nonpoint petroleum hydrocarbon discharges; and
-
-&emsp;&emsp;&emsp;(iv) as a first response tool for petroleum hydrocarbon spills; and
-
-&emsp;&emsp;(B) recommend management actions to optimize the return of a healthy and balanced ecosystem and make improvements in the quality and character of estuarine waters.
-
-(Pub. L. 106–457, title I, §110, Nov. 7, 2000, 114 Stat. 1966.)
+Subsecs. (d), (e). Pub. L. 110–114, §5017(h)(2), struck out subsecs. (d) and (e) which related to identification and mapping of dredged material disposal sites and study of bioremediation technology, respectively.
 

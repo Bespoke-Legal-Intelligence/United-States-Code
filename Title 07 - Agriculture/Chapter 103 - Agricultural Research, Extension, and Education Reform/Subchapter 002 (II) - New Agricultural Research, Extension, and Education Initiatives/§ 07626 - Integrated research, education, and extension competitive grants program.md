@@ -22,7 +22,7 @@ Grants under this section shall be awarded to address priorities in United State
 
 &emsp;The Secretary may waive the matching funds requirement specified in paragraph (1) with respect to a grant if the Secretary determines that—
 
-&emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agriculturalcommodity, are likely to be applicable to agricultural commodities generally; or
+&emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
 
 &emsp;&emsp;(B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
 

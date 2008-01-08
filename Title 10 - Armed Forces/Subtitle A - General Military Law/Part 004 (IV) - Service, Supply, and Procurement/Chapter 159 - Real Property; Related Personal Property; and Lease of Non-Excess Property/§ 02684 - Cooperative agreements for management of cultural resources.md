@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense or the Secretary of a military department may enter into a cooperative agreement with a State or local government or other entity for the preservation, management, maintenance, and improvement of cultural resources on military installations and for the conduct of research regarding the cultural resources. Activities under the cooperative agreement shall be subject tothe availability of funds to carry out the cooperative agreement.
+Authority.—The Secretary of Defense or the Secretary of a military department may enter into a cooperative agreement with a State or local government or other entity for the preservation, management, maintenance, and improvement of cultural resources on military installations and for the conduct of research regarding the cultural resources. Activities under the cooperative agreement shall be subject to the availability of funds to carry out the cooperative agreement.
 
 (b)
 

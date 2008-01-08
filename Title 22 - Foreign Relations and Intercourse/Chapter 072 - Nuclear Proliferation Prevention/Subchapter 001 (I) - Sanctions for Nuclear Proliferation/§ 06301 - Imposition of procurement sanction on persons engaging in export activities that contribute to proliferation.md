@@ -82,7 +82,7 @@ The sanction imposed pursuant to this section shall apply for a period of at lea
 
 &emsp;(1) reliable information indicates that the foreign person or United States person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in that subsection; and
 
-&emsp;(2) the President has received reliable assurances from the foreign person or United Statesperson, as the case may be, that such person will not, in the future, aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in subsection (a)(1) of this section.
+&emsp;(2) the President has received reliable assurances from the foreign person or United States person, as the case may be, that such person will not, in the future, aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in subsection (a)(1) of this section.
 
 #### (f) Waiver
 
@@ -104,8 +104,6 @@ For the effective date of this subchapter, referred to in subsec. (a)(1), as 60 
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date
 
 Section 831 of Pub. L. 103–236 provided that: “The provisions of this part \[part B (§§821–831) of title VIII of Pub. L. 103–236, enacting this subchapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, and 2780 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as a note under section 2799aa of this title\], and the amendments made by this part, shall take effect 60 days after the date of the enactment of this Act \[Apr. 30, 1994\].”
@@ -117,4 +115,18 @@ Section 801 of title VIII of Pub. L. 103–236 provided that: “This title \[en
 #### Termination Upon Enactment of Next Foreign Relations Act
 
 Section 851 of Pub. L. 103–236, which provided that on date of enactment of first Foreign Relations Authorization Act that was enacted after enactment of Pub. L. 103–236, the provisions of parts A (amending section 3281 of this title) and B (see Effective Date note above) of title VIII of Pub. L. 103–236 were to cease to be effective, the amendments made by those parts were to be repealed, and any provision of law repealed by those parts was to be reenacted, was itself repealed by Pub. L. 104–164, title I, §157(a), July 21, 1996, 110 Stat. 1440.
+
+#### Assignment of Certain Functions Relating to Procurement Sanctions on Persons Engaging in Export Activities that Contribute to Proliferation
+
+Memorandum of President of the United States, Mar. 5, 2007, 72 F.R. 11283, provided:
+
+Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] the Secretary of Defense\[,\] the Secretary of Commerce\[, and\] the Director of National Intelligence
+
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the functions of the President under section 821 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (22 U.S.C. 6301) are assigned to the Secretary of State, except that the function of the President under section 821(c)(2)(A) is assigned to the Secretary of Defense.
+
+In the performance of their respective functions under this memorandum, the Secretaries of State and Defense shall, as appropriate, consult each other, the Secretaries of the Treasury and Commerce, and the heads of other departments and agencies.
+
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

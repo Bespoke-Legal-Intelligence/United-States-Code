@@ -4,7 +4,7 @@
 
 (1) Notwithstanding sections 1053 and 1054 of this title, a multiemployer plan in reorganization may be amended in accordance with this section, to reduce or eliminate accrued benefits attributable to employer contributions which, under section 1322a(b) of this title, are not eligible for the corporation's guarantee. The preceding sentence shall only apply to accrued benefits under plan amendments (or plans) adopted after March 26, 1980, or under collective bargaining agreements entered into after March 26, 1980.
 
-(2) In determining the minimum contribution requirement with respect to a plan for a plan year under section 1423(b) of this title, the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under this section or section 412(c)(8) of title 26, but only if the amendment is adopted and effective no later than 21/2 months after the end of the plan year, or within such extended period as the Secretary of the Treasury may prescribe by regulation under section 412(c)(10) of title 26.
+(2) In determining the minimum contribution requirement with respect to a plan for a plan year under section 1423(b) of this title, the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under this section or section 412(c)(8) <sup>1</sup> of title 26, but only if the amendment is adopted and effective no later than 21/2 months after the end of the plan year, or within such extended period as the Secretary of the Treasury may prescribe by regulation under section 412(c)(10) <sup>1</sup> of title 26.
 
 #### (b) Reduction of accrued benefits; notice by plan sponsors to plan participants and beneficiaries
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) the rate of employer contributions for the plan year preceding the plan year in which the amendment becomes effective.
 
-(2) The plan sponsors shall include in any notice required to be sent to plan participants and beneficiaries under paragraph (1) information as to the rights and remedies of plan participants and beneficiaries as well as how to contact the Department of Labor for further information and assistance where appropriate.
+(2) The plan sponsors shall include in any notice required to be sent to plan participants andbeneficiaries under paragraph (1) information as to the rights and remedies of plan participants and beneficiaries as well as how to contact the Department of Labor for further information and assistance where appropriate.
 
 #### (c) Recoupment by plan of excess benefit payment
 
@@ -70,6 +70,10 @@ The Secretary of the Treasury may prescribe rules under which, notwithstanding a
 
 (Pub. L. 93–406, title IV, §4244A, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1257; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 
+#### References in Text
+
+Section 412, referred to in subsec. (a)(2), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, no longer contains a subsec. (c)(8) or (10).
+
 #### Amendments
 
 1989—Subsec. (a)(2). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
@@ -77,4 +81,6 @@ The Secretary of the Treasury may prescribe rules under which, notwithstanding a
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

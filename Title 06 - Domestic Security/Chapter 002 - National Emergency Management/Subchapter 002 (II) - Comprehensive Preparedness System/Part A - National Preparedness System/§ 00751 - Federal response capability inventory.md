@@ -6,7 +6,7 @@ In accordance with section 5196(h)(1)(C) of title 42, the Administrator shall ac
 
 #### (b) Contents
 
-The inventory shall include—
+For each Federal agency with responsibilities under the National Response Plan, the inventory shall include—
 
 &emsp;(1) for each capability—
 
@@ -14,9 +14,13 @@ The inventory shall include—
 
 &emsp;&emsp;(B) the timeframe within which the capability can be brought to bear on an incident; and
 
-&emsp;&emsp;(C) the readiness of the capability to respond to all hazards, including natural disasters, acts of terrorism, and other man-made disasters; and
+&emsp;&emsp;(C) the readiness of the capability to respond to all hazards, including natural disasters, acts of terrorism, and other man-made disasters;
 
-&emsp;(2) emergency communications assets maintained by the Federal Government and, if appropriate, State, local, and tribal governments and the private sector.
+&emsp;(2) a list of personnel credentialed in accordance with section 320 of this title;
+
+&emsp;(3) a list of resources typed in accordance with section 320 of this title; and
+
+&emsp;(4) emergency communications assets maintained by the Federal Government and, if appropriate, State, local, and tribal governments and the private sector.
 
 #### (c) Department of Defense
 
@@ -26,11 +30,33 @@ The Administrator, in coordination with the Secretary of Defense, shall develop 
 
 The Administrator shall establish an inventory database to allow—
 
-&emsp;(1) real-time exchange of information regarding capabilities, readiness, or the compatibility of equipment;
+&emsp;(1) real-time exchange of information regarding—
 
-&emsp;(2) easy identification and rapid deployment during an incident; and
+&emsp;&emsp;(A) capabilities;
 
-&emsp;(3) the sharing of inventories with other Federal agencies, as appropriate.
+&emsp;&emsp;(B) readiness;
 
-(Pub. L. 109–295, title VI, §651, Oct. 4, 2006, 120 Stat. 1429.)
+&emsp;&emsp;(C) the compatibility of equipment;
+
+&emsp;&emsp;(D) credentialed personnel; and
+
+&emsp;&emsp;(E) typed resources;
+
+&emsp;(2) easy identification and rapid deployment of capabilities, credentialed personnel, and typed resources during an incident; and
+
+&emsp;(3) the sharing of the inventory described in subsection (a) with other Federal agencies, as appropriate.
+
+(Pub. L. 109–295, title VI, §651, Oct. 4, 2006, 120 Stat. 1429; Pub. L. 110–53, title IV, §405, Aug. 3, 2007, 121 Stat. 303.)
+
+#### Amendments
+
+2007—Subsec. (b). Pub. L. 110–53, §405(1)(A), substituted “For each Federal agency with responsibilities under the National Response Plan, the inventory” for “The inventory” in introductory provisions.
+
+Subsec. (b)(2) to (4). Pub. L. 110–53, §405(1)(B)–(D), added pars. (2) and (3) and redesignated former par. (2) as (4).
+
+Subsec. (d)(1). Pub. L. 110–53, §405(2)(A), substituted “regarding—” for “regarding capabilities, readiness, or the compatibility of equipment;” in introductory provisions and added subpars. (A) to (E).
+
+Subsec. (d)(2). Pub. L. 110–53, §405(2)(B), inserted “of capabilities, credentialed personnel, and typed resources” after “rapid deployment”.
+
+Subsec. (d)(3). Pub. L. 110–53, §405(2)(C), substituted “the inventory described in subsection (a)” for “inventories”.
 

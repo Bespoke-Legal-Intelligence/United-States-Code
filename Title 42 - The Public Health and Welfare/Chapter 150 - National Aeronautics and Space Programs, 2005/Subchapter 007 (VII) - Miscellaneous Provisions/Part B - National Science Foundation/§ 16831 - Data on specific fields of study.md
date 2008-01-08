@@ -8,3 +8,7 @@ The National Science Foundation shall continue to collect statistically reliable
 
 The Science and Engineering Equal Opportunities Act, referred to in text, is Part B of Pub. L. 96–516, Dec. 12, 1980, 94 Stat. 3010, as amended, which enacted sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1861 of this title and Tables.
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

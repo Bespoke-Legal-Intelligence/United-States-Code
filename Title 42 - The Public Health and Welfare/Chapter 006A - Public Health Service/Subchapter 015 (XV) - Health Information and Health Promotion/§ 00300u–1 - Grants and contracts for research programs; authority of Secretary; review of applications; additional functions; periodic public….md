@@ -6,7 +6,7 @@
 
 &emsp;(2) determine the best methods of disseminating information concerning personal health behavior, preventive health services and the appropriate use of health care and of affecting behavior so that such information is applied to maintain and improve health, and prevent disease, reduce its risk, or modify its course or severity;
 
-&emsp;(3) determine and study environmental, occupational, social, and behavioral factors which affect and determine health and ascertain those programs and areas for which educational and preventive measures could be implemented to improve health as it is affected by such factors;
+&emsp;(3) determine and study environmental, occupational, social, and behavioral factorswhich affect and determine health and ascertain those programs and areas for which educational and preventive measures could be implemented to improve health as it is affected by such factors;
 
 &emsp;(4) develop (A) methods by which the cost and effectiveness of activities respecting health information and health promotion, preventive health services, and education in the appropriate use of health care, can be measured, including methods for evaluating the effectiveness of various settings for such activities and the various types of persons engaged in such activities, (B) methods for reimbursement or payment for such activities, and (C) models and standards for the conduct of such activities, including models and standards for the education, by providers of institutional health services, of individuals receiving such services respecting the nature of the institutional health services provided the individuals and the symptoms, signs, or diagnoses which led to provision of such services;
 

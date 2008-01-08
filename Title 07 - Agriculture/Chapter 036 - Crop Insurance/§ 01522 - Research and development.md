@@ -44,7 +44,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (i) Amount
 
-&emsp;&emsp;&emsp;Subject to approval by the Board, the amount of the fee that is payable by an approved insurance provider that elects tosell the policy shall be an amount that is determined by the approved insurance provider maintaining the policy.
+&emsp;&emsp;&emsp;Subject to approval by the Board, the amount of the fee that is payable by an approved insurance provider that elects to sell the policy shall be an amount that is determined by the approved insurance provider maintaining the policy.
 
 #### (ii) Approval
 

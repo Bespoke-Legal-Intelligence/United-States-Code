@@ -1,6 +1,6 @@
 ### §1658. Plunder of distressed vessel
 
-(a) Whoever plunders, steals, or destroys any money, goods, merchandise, or other effects from or belonging to any vessel in distress, or wrecked, lost, stranded, or cast away, upon the sea, or upon any reef, shoal, bank, or rocks of the sea, or in any other place within the admiralty and maritime jurisdiction of the United States, shall be fined under this title or imprisoned not more than ten years, or both.
+(a) Whoever plunders, steals, or destroys any money, goods, merchandise, or other effectsfrom or belonging to any vessel in distress, or wrecked, lost, stranded, or cast away, upon the sea, or upon any reef, shoal, bank, or rocks of the sea, or in any other place within the admiralty and maritime jurisdiction of the United States, shall be fined under this title or imprisoned not more than ten years, or both.
 
 (b) Whoever willfully obstructs the escape of any person endeavoring to save his life from such vessel, or the wreck thereof; or
 

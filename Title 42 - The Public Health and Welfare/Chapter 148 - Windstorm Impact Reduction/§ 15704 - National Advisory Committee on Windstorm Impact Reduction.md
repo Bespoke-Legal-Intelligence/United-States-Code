@@ -18,7 +18,7 @@ The Advisory Committee shall assess—
 
 #### (c) Biennial report
 
-At least once every two years, the Advisory Committee shall report to Congress and theInteragency Working Group on the assessment carried out under subsection (b).
+At least once every two years, the Advisory Committee shall report to Congress and the Interagency Working Group on the assessment carried out under subsection (b).
 
 #### (d) Sunset exemption
 

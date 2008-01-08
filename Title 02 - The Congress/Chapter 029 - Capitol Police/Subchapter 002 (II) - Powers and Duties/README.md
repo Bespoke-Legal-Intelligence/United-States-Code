@@ -25,3 +25,4 @@
 - [&sect; 01978 - Deployment outside of jurisdiction](%C2%A7%2001978%20-%20Deployment%20outside%20of%20jurisdiction.md)
 - [&sect; 01979 - Release of security information](%C2%A7%2001979%20-%20Release%20of%20security%20information.md)
 - [&sect; 01980 - Mounted horse unit](%C2%A7%2001980%20-%20Mounted%20horse%20unit.md)
+- [&sect; 01981 - Advance payments](%C2%A7%2001981%20-%20Advance%20payments.md)

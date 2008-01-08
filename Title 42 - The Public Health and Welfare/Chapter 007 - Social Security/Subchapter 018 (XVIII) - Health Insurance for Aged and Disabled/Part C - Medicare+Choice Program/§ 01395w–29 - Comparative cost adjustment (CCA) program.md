@@ -32,7 +32,7 @@
 
 #### (B) MSA defined
 
-&emsp;&emsp;For purposes of this section, the term “MSA” means a Metropolitan Statistical Area (or such similar area as the Secretary recognizes).
+&emsp;&emsp;For purposes of this section, the term “MSA” means a Metropolitan StatisticalArea (or such similar area as the Secretary recognizes).
 
 #### (2) Requirements for CCA areas
 
@@ -100,7 +100,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In no case shall an MA local area that is within an MSA be included as part of a CCA area unless for 2010 (and, except as providedin subparagraph (B), for a subsequent year) there is offered in each part of such MA local area at least 2 MA local plans described in section 1395w–21(a)(2)(A)(i) of this title each of which is offered by a different MA organization.
+&emsp;&emsp;In no case shall an MA local area that is within an MSA be included as part of a CCA area unless for 2010 (and, except as provided in subparagraph (B), for a subsequent year) there is offered in each part of such MA local area at least 2 MA local plans described in section 1395w–21(a)(2)(A)(i) of this title each of which is offered by a different MA organization.
 
 #### (B) Continuation
 
@@ -198,7 +198,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (2)(B)(i) and subsection (f)(2)(A) of this section, subject to subparagraph (C), the term “fee-for-service area-specific non-drug amount” means, for a CCA area and a year, the adjusted average per capita cost for such area and year involved, determined under section 1395mm(a)(4) of this title and adjusted as appropriate for the purpose of risk adjustment for benefits under the original medicare fee-for-service program option for individuals entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter who are not enrolled in an MA plan for the year, but adjusted to exclude costs attributable to payments under section 1395ww(h) of this title.
+&emsp;&emsp;For purposes of paragraph (2)(B)(i) and subsection (f)(2)(A) of this section, subject to subparagraph (C), the term “fee-for-service area-specific non-drug amount” means, for a CCA area and a year, the adjusted average per capita cost for such area and year involved, determined under section1395mm(a)(4) of this title and adjusted as appropriate for the purpose of risk adjustment for benefits under the original medicare fee-for-service program option for individuals entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter who are not enrolled in an MA plan for the year, but adjusted to exclude costs attributable to payments under section 1395ww(h) of this title.
 
 #### (B) Use of full risk adjustment to standardize fee-for-service costs to typical beneficiary
 
@@ -240,7 +240,7 @@
 
 #### (C) Phase-in of adjustment
 
-&emsp;&emsp;The amount of an adjustment under subparagraph (A) for a CCA area and year maynot exceed the product of the phase-in fraction for the year under subsection (d)(3)(B) of this section multiplied by the amount of the adjustment otherwise computed under subparagraph (A) for the area and year, determined without regard to this subparagraph and subparagraph (D).
+&emsp;&emsp;The amount of an adjustment under subparagraph (A) for a CCA area and year may not exceed the product of the phase-in fraction for the year under subsection (d)(3)(B) of this section multiplied by the amount of the adjustment otherwise computed under subparagraph (A) for the area and year, determined without regard to this subparagraph and subparagraph (D).
 
 #### (D) 5-percent limitation on adjustment
 

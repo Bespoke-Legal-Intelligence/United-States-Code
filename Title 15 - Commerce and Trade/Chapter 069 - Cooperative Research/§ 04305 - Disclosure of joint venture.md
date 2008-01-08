@@ -8,7 +8,7 @@
 
 &emsp;(B) the nature and objectives of such venture, and
 
-&emsp;(C) if a purpose of such venture is the production of a product, process, or service, as referred to in section 4301(a)(6)(D) of this title, the identity and nationality of any person who is a party to such venture, or who controls any party to such venture whether separately orwith one or more other persons acting as a group for the purpose of controlling such party.
+&emsp;(C) if a purpose of such venture is the production of a product, process, or service, as referred to in section 4301(a)(6)(D) of this title, the identity and nationality of any person who is a party to such venture, or who controls any party to such venture whether separately or with one or more other persons acting as a group for the purpose of controlling such party.
 
 > Any party to such venture, acting on such venture's behalf, may file additional disclosure notifications pursuant to this section as are appropriate to extend the protections of section 4303 of this title. In order to maintain the protections of section 4303 of this title, such venture shall, not later than 90 days after a change in its membership, file simultaneously with the Attorney General and the Commission a written notification disclosing such change.
 

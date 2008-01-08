@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall coordinate with the responsible Federal agency or other entity to facilitate the use by the Office, by its contractors, or by other persons or entities, of existing Government laboratories, centers, ranges, or other testing facilities for the testing of materials, equipment, models, computer software, and other items as may be related to the missions identified in section 592 of this title. Any such use of Government facilities shall be carried outin accordance with all applicable laws, regulations, and contractual provisions, including those governing security, safety, and environmental protection, including, when applicable, the provisions of section 189 of this title. The Office may direct that private sector entities utilizing Government facilities in accordance with this section pay an appropriate fee to the agency that owns or operates those facilities to defray additional costs to the Government resulting from such use.
+The Director shall coordinate with the responsible Federal agency or other entity to facilitate the use by the Office, by its contractors, or by other persons or entities, of existing Government laboratories, centers, ranges, or other testing facilities for the testing of materials, equipment, models, computer software, and other items as may be related to the missions identified in section 592 of this title. Any such use of Government facilities shall be carried out in accordance with all applicable laws, regulations, and contractual provisions, including those governing security, safety, and environmental protection, including, when applicable, the provisions of section 189 of this title. The Office may direct that private sector entities utilizing Government facilities in accordance with this section pay an appropriate fee to the agency that owns or operates those facilities to defray additional costs to the Government resulting from such use.
 
 #### (b) Confidentiality of test results
 
@@ -16,13 +16,9 @@ Fees for services made available under this section shall not exceed the amount 
 
 Fees received for services made available under this section may be credited to the appropriation from which funds were expended to provide such services.
 
-(Pub. L. 107–296, title XVIII, §1804, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1934.)
+(Pub. L. 107–296, title XIX, §1904, formerly title XVIII, §1804, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1934; renumbered title XIX, §1904, and amended Pub. L. 110–53, title I, §104(a)(1)–(3), Aug. 3, 2007, 121 Stat. 294.)
 
-#### References in Text
+#### Amendments
 
-Section 592 of this title, referred to in subsec. (a), was in the original “section 1802”, and was translated as meaning section 1802 of Pub. L. 107–296 as added by Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1932, to reflect the probable intent of Congress.
-
-#### Codification
-
-Another section 1804 of Pub. L. 107–296 is classified to section 574 of this title.
+2007—Subsec. (a). Pub. L. 110–53, §104(a)(3), made technical amendment to reference in original act which appears in text as reference to section 592 of this title.
 

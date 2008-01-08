@@ -6,7 +6,7 @@ An official of the Government who is authorized to certify to facts on the basis
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §396(d) (June 30, 1949, ch. 288, title V, §506(d), as added Sept. 5, 1950, ch. 849,§6(d), 64 Stat. 583, and amended Feb. 5, 1964, Pub. L. 88–265, 78 Stat. 8).
+Based on 44 U.S. Code, 1964 ed., §396(d) (June 30, 1949, ch. 288, title V, §506(d), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, and amended Feb. 5, 1964, Pub. L. 88–265, 78 Stat. 8).
 
 #### Amendments
 

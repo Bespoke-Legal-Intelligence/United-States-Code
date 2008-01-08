@@ -6,5 +6,5 @@ Not later than 18 months after November 15, 1990, the Administrator, in consulta
 
 #### Executive Order No. 12843
 
-Ex. Ord. No. 12843, Apr. 21, 1993, 58 F.R. 21881, which provided for Federal agencies to implement policies and programs to minimize procurement of ozone-depleting substances, was revoked by Ex. Ord. No. 13148, §901, Apr. 21, 2000, 65 F.R. 24604, set out as a note under section 4321 of this title.
+Ex. Ord. No. 12843, Apr. 21, 1993, 58 F.R. 21881, which provided for Federal agencies to implement policies and programs to minimize procurement of ozone-depleting substances, was revoked by Ex. Ord. No. 13148, §901, Apr. 21, 2000, 65 F.R. 24604, formerly set out as a note under section 4321 of this title.
 

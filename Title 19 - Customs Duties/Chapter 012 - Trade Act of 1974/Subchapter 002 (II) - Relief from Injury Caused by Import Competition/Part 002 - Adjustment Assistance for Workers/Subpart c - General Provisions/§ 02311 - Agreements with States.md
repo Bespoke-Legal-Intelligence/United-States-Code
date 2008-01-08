@@ -18,7 +18,7 @@ A determination by a cooperating State agency with respect to entitlement to pro
 
 #### (e) Coordination of benefits and assistance
 
-Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] upon such terms and conditions as are established by the Secretary in consultation with the States and set forth in such agreement. Any agency of the State jointly administering such provisions under such agreement shall be considered to be a cooperating State agency for purposes of this part.
+Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] upon such terms and conditions as are established by the Secretary in consultation with the States and set forth in such agreement. Any agency of the State jointlyadministering such provisions under such agreement shall be considered to be a cooperating State agency for purposes of this part.
 
 #### (f) Advising and interviewing adversely affected workers
 
@@ -48,6 +48,8 @@ The Workforce Investment Act of 1998, referred to in subsec. (e), is Pub. L. 105
 
 Section is comprised of subsecs. (a) to (g) of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L. 93–618 amended section 3302 of Title 26, Internal Revenue Code.
 
+Amendment by section 1424(d)(1)(B) of Pub. L. 100–418, which directed amendment of subsection (e) of section 239 of Pub. L. 93–618, was executed to the subsection (e) set out in this section and not the subsection (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
+
 #### Amendments
 
 1998—Subsec. (e). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(11)(B)\], struck out “title III of the Job Training Partnership Act or” before “title I of the”.
@@ -65,6 +67,8 @@ Subsec. (e). Pub. L. 100–418, §1424(d)(1)(B), amended subsec. (e) generally. 
 &emsp;“(2) any State agency carrying out title III of the Job Training Partnership Act \[29 U.S.C. 1651 et seq.\], or
 
 &emsp;“(3) any other State or local agency administering job training or related programs.”
+
+> See Codification note above.
 
 Subsec. (f). Pub. L. 100–418, §1424(d)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Each cooperating State agency shall, in carrying out subsection (a)(2) of this section—
 
@@ -98,7 +102,7 @@ Amendment by Pub. L. 97–35 effective Aug. 1981, with transition provisions app
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

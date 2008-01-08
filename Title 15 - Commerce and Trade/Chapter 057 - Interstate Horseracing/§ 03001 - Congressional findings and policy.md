@@ -2,7 +2,7 @@
 
 (a) The Congress finds that—
 
-&emsp;(1) the States should have the primary responsibility for determining what forms of gambling may legally take place within their borders;
+&emsp;(1) the States should have the primary responsibility for determining what forms ofgambling may legally take place within their borders;
 
 &emsp;(2) the Federal Government should prevent interference by one State with the gambling policies of another, and should act to protect identifiable national interests; and
 

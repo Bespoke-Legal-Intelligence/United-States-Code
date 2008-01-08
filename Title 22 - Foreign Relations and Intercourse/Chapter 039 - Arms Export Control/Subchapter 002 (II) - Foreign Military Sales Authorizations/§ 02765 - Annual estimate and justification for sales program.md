@@ -32,7 +32,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(10) the amount and nature of Soviet military assistance to the armed forces of Cuba during the preceding fiscal year and the military capabilities of those armed forces;
 
-&emsp;(11) the status of each loan and each contract of guaranty or insurance theretofore made under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], predecessor Acts, or any Act authorizing international security assistance, with respect to which there remains outstanding any unpaid obligation or potential liability; the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guaranty in connection with any such procurement, theretofore made under this chapter with respect to which there remains outstanding any unpaid obligation or potential liability;
+&emsp;(11) the status of each loan and each contract of guaranty or insurance theretofore made under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], predecessor Acts, orany Act authorizing international security assistance, with respect to which there remains outstanding any unpaid obligation or potential liability; the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guaranty in connection with any such procurement, theretofore made under this chapter with respect to which there remains outstanding any unpaid obligation or potential liability;
 
 &emsp;(12)(A) a detailed accounting of all articles, services, credits, guarantees, or any other form of assistance furnished by the United States to each country and international organization, including payments to the United Nations, during the preceding fiscal year for the detection and clearance of landmines, including activities relating to the furnishing of education, training, and technical assistance for the detection and clearance of landmines; and
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 99–83, §112(b), added subsec. (d) defining “cash flow 
 
 Pub. L. 99–83, §113(2), added subsec. (d) relating to transmittal of information to Congress.
 
-1981—Subsec. (a). Pub. L. 97–113, in provision preceding par. (1), required transmission of the report no later than Feb. 1 of each year and substituted provision for annual presentation materials for programs proposed for next fiscal year for provision for presentation materials for programs proposed for each fiscal year.
+1981—Subsec. (a). Pub. L. 97–113, in provision preceding par. (1), required transmission of the report no laterthan Feb. 1 of each year and substituted provision for annual presentation materials for programs proposed for next fiscal year for provision for presentation materials for programs proposed for each fiscal year.
 
 Subsec. (a)(1). Pub. L. 97–113 added par. (1) which incorporated provisions of former subsec. (d)(1) of this section. See subsec. (d) amendment note. Former par. (1) covered in par. (3).
 
@@ -131,6 +131,10 @@ Subsec. (e). Pub. L. 96–92, §14, added subsec. (e).
 1978—Subsec. (c). Pub. L. 95–384, §18(b), substituted “subsection (a) or (b) of this section” for “this section”.
 
 Subsec. (d). Pub. L. 95–384, §18(a), added subsec. (d).
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1985 Amendment
 

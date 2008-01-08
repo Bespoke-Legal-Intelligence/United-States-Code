@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 2006 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 2007 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -26,7 +26,7 @@ Pub. L. 102–40, title IV, §§402(c)(2), 403(e)(2), May 7, 1991, 105 Stat. 239
 
 1986—Pub. L. 99–576, title VII, §702(18), Oct. 28, 1986, 100 Stat. 3302, substituted “1401” for “1501” in item for part III.
 
-Table I<br>Showing Disposition of All Sections of Former Title 38 by 1958 Revision)
+Table I<br>(Showing Disposition of All Sections of Former Title 38 by 1958 Revision)
 
 <i>Title 38</i>
 

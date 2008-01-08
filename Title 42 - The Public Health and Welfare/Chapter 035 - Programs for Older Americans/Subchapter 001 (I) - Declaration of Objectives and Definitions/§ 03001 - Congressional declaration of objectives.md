@@ -134,6 +134,10 @@ Section 803 of Pub. L. 98–459 provided that:
 
 Section 504 of Pub. L. 95–478 provided that: “This Act \[see Short Title of 1978 Amendment note below\], and the amendments made by this Act, shall take effect at the close of September 30, 1978.”
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–19, §1, Apr. 23, 2007, 121 Stat. 84, provided that: “This Act \[amending section 3030a of this title and enacting provisions set out as a note under section 3030a of this title\] may be cited as the ‘Older Americans Reauthorization Technical Corrections Act’.”
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–365, §1(a), Oct. 17, 2006, 120 Stat. 2522, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Older Americans Act Amendments of 2006’.”
@@ -152,7 +156,7 @@ Section 1(a) of Pub. L. 102–375 provided that: “This Act \[see Tables for cl
 
 #### Short Title of 1987 Amendment
 
-Section 1 of Pub. L. 100–175 provided that: “This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1,2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the ‘Older Americans Act Amendments of 1987’.”
+Section 1 of Pub. L. 100–175 provided that: “This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the ‘Older Americans Act Amendments of 1987’.”
 
 #### Short Title of 1986 Amendment
 
@@ -172,7 +176,7 @@ Section 1(a) of Pub. L. 95–478 provided that: “This Act \[enacting sections 
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–135, §1, Nov. 28, 1975, 89 Stat. 713, provided: “That this Act \[enacting chapter 76 and sections 3002, 3020a, 3024, 3028, 3034, 3045f, and 3056 to 3056f of this title, amending sections 289k–5, 3002, 3012, 3014, 3015, 3022, 3023, 3024, 3025, 3026, 3028, 3033, 3034, 3037, 3037a, 3041d, 3041f, 3045b, 3045d, 3045e, 3045f, 3045g, 5011, 5012, and 5082 of this title and sections 1008a, 1208a, and 1341 of Title 20, Education, repealing sections 3061 to 3067 of this title, enacting provisions set out as notes under section 5001 of this title and section 871 of Title 29, Labor, and amending provisions set out as a note under section 2809 of this title\] may be cited as the ‘Older Americans Amendments of 1975’.”
+Pub. L. 94–135, §1, Nov. 28, 1975, 89 Stat. 713, provided: “That this Act \[enacting chapter 76 and sections 3002, 3020a, 3024, 3028, 3034, 3045f, and 3056 to 3056f of this title, amending sections 289k–5, 3002, 3012, 3014, 3015, 3022, 3023, 3024, 3025, 3026, 3028, 3033, 3034, 3037, 3037a, 3041d, 3041f, 3045b, 3045d, 3045e, 3045f, 3045g, 5011, 5012, and 5082 of this title and sections 1008a, 1208a, and 1341 of Title20, Education, repealing sections 3061 to 3067 of this title, enacting provisions set out as notes under section 5001 of this title and section 871 of Title 29, Labor, and amending provisions set out as a note under section 2809 of this title\] may be cited as the ‘Older Americans Amendments of 1975’.”
 
 #### Short Title of 1973 Amendment
 
@@ -208,7 +212,7 @@ Section 212 of Pub. L. 102–375 provided that:
 
 “(a)
 
-Arrangement for Study Committee.—The Secretary of Health and Human Services shall enter intoan arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of board and care facilities for older individuals (as defined in section 102 \[42 U.S.C. 3002\] of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.)) and the disabled.
+Arrangement for Study Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of board and care facilities for older individuals (as defined in section 102 \[42 U.S.C. 3002\] of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.)) and the disabled.
 
 “(b)
 
@@ -336,7 +340,7 @@ Composition of Study Committee.—The study committee shall be composed of membe
 
 “(d)
 
-Use of Institute of Medicine.—The Secretary shall request the National Academy of Sciences,through the Institute of Medicine, to establish, appoint, and provide administrative support for the committee under an arrangement under which the actual expenses incurred by the Academy in carrying out such functions will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such arrangement with the Academy.
+Use of Institute of Medicine.—The Secretary shall request the National Academy of Sciences, through the Institute of Medicine, to establish, appoint, and provide administrative support for the committee under an arrangement under which the actual expenses incurred by the Academy in carrying out such functions will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such arrangement with the Academy.
 
 “(e)
 
@@ -532,7 +536,7 @@ Purpose.—The purpose of the Conference described in subsection (a) shall be to
 
 &emsp;“(1) evaluate the manner in which the objectives of this Act \[probably means the Older Americans Act of 1965, Pub. L. 89–73, which enacted this chapter\] can be met by using the resources and talents of older individuals, of families and communities of such individuals, and of individuals from the public and private sectors;
 
-&emsp;“(2) evaluate the manner in which national policies that are related to economic security and health care are prepared so that such policies serve individuals born from 1946 to 1964 and later, as the individuals become older individuals, including an examination of the Social Security, Medicare, and Medicaid programs carried out under titles II, XVIII, and XIX of the Social Security Act (42 U.S.C. 401 et seq., 1395 et seq., and 1396 et seq.) in relation to providing services under this Act, and determine how well such policies respond to the needs of older individuals; and
+&emsp;“(2) evaluate the manner in which national policies that are related to economic security and health care are prepared so that such policies serve individuals born from 1946 to 1964 and later, as the individuals become older individuals, including an examination of the Social Security, Medicare, and Medicaid programs carried out under titles II, XVIII, and XIX ofthe Social Security Act (42 U.S.C. 401 et seq., 1395 et seq., and 1396 et seq.) in relation to providing services under this Act, and determine how well such policies respond to the needs of older individuals; and
 
 &emsp;“(3) develop not more than 50 recommendations to guide the President, Congress, and Federal agencies in serving older individuals.
 
@@ -584,7 +588,7 @@ Duties.—The Secretary shall, in carrying out the Secretary's responsibilities 
 
 “(c)
 
-Gifts.—The Secretary may accept, on behalf of the United States, gifts (in cash or in kind, including voluntary and uncompensated services), which shall be available to carry out this title. Gifts of cash shall beavailable in addition to amounts appropriated to carry out this title. Gifts may be earmarked by the donor or the executive committee for a specific purpose.
+Gifts.—The Secretary may accept, on behalf of the United States, gifts (in cash or in kind, including voluntary and uncompensated services), which shall be available to carry out this title. Gifts of cash shall be available in addition to amounts appropriated to carry out this title. Gifts may be earmarked by the donor or the executive committee for a specific purpose.
 
 “(d)
 
@@ -614,7 +618,7 @@ Presidential appointees.—Nine members shall be selected by the President and s
 
 &emsp;&emsp;“(B)
 
-House appointees.—Two members shall be selected by the Speaker of the House of Representatives, after consultation with the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, and two members shall be selected by the Minority Leader of the House of Representatives, after consultation with such committees.
+House appointees.—Two members shall be selected by the Speaker of the House of Representatives, after consultation with the Committee on Education and the Workforce \[now Committee on Education and Labor\] and the Committee on Ways and Means of the House of Representatives, and two members shall be selected by the Minority Leader of the House of Representatives, after consultation with such committees.
 
 &emsp;&emsp;“(C)
 
@@ -642,7 +646,7 @@ Voting; chairperson.—
 
 &emsp;&emsp;“(A)
 
-Voting.—The Policy Committee shall act by the vote of a majority of the members present. A quorum of Committee members shall not be required to conduct Committee business.
+Voting.—The Policy Committee shall act by the vote of a majority of the members present. Aquorum of Committee members shall not be required to conduct Committee business.
 
 &emsp;&emsp;“(B)
 
@@ -716,7 +720,7 @@ Availability of Funds.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (3), funds appropriated to carry out this title andfunds received as gifts under section 202(c) shall remain available for obligation or expenditure until the expiration of the one-year period beginning on the date the Conference adjourns.
+In general.—Except as provided in paragraph (3), funds appropriated to carry out this title and funds received as gifts under section 202(c) shall remain available for obligation or expenditure until the expiration of the one-year period beginning on the date the Conference adjourns.
 
 &emsp;“(2)
 

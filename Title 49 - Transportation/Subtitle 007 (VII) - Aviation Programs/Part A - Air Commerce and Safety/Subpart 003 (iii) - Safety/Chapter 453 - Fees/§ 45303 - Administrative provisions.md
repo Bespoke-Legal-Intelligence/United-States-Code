@@ -20,7 +20,7 @@ Receipts Credited to Account.—Notwithstanding section 3302 of title 31, all fe
 
 (d)
 
-Annual Budget Report by Administrator.—The Administrator shall, on the same day each year as the President submits the annual budget to Congress, provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
+Annual Budget Report by Administrator.—The Administrator shall, on the same day each year as the President submits the annual budget to Congress, provide to the Committee on Commerce, Science, and Transportationof the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
 &emsp;(1) a list of fee collections by the Administration during the preceding fiscal year;
 
@@ -38,7 +38,7 @@ Development of Cost Accounting System.—The Administration shall develop a cost
 
 (f)
 
-Compensation to Carriers for Acting as Collection Agents.—The Administration shall prescribe regulations to ensure that any air carrier required, pursuant to the Air Traffic Management System Performance Improvement Act of 1996 or any amendments made by that Act, tocollect a fee imposed on another party by the Administrator may collect from such other party an additional uniform amount that the Administrator determines reflects the necessary and reasonable expenses (net of interest accruing to the carrier after collection and before remittance) incurred in collecting and handling the fee.
+Compensation to Carriers for Acting as Collection Agents.—The Administration shall prescribe regulations to ensure that any air carrier required, pursuant to the Air Traffic Management System Performance Improvement Act of 1996 or any amendments made by that Act, to collect a fee imposed on another party by the Administrator may collect from such other party an additional uniform amount that the Administrator determines reflects the necessary and reasonable expenses (net of interest accruing to the carrier after collection and before remittance) incurred in collecting and handling the fee.
 
 (Added Pub. L. 104–264, title II, §276(a)(2), Oct. 9, 1996, 110 Stat. 3247.)
 

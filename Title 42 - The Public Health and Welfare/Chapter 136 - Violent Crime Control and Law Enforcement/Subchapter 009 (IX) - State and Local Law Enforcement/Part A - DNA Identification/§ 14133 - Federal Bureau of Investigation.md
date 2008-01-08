@@ -28,7 +28,7 @@
 
 #### (2) Exception
 
-&emsp;If personally identifiable information is removed, test results may be disclosed for a population statistics database, for identificationresearch and protocol development purposes, or for quality control purposes.
+&emsp;If personally identifiable information is removed, test results may be disclosed for a population statistics database, for identification research and protocol development purposes, or for quality control purposes.
 
 #### (c) Criminal penalty
 

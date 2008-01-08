@@ -66,7 +66,7 @@ In awarding a scholarship or fellowship under the program, the Secretary or cont
 
 &emsp;&emsp;(ii) for not less than one year in a position in a Federal agency or office that is identified by the Secretary of Defense under subsection (g) as having national security responsibilities if the recipient demonstrates to the Secretary that no position is available in the departments and agencies covered by clause (i); or
 
-&emsp;(B) will (in accordance with such regulations) begin work not later than two yearsafter the recipient's completion or termination of study for which fellowship assistance was provided under the program—
+&emsp;(B) will (in accordance with such regulations) begin work not later than two years after the recipient's completion or termination of study for which fellowship assistance was provided under the program—
 
 &emsp;&emsp;(i) for not less than one year in a position certified by the Secretary of Defense, in coordination with the Director of National Intelligence, the Secretary of Homeland Security, and the Secretary of State (as appropriate), as contributing to the national security of the United States in the Department of Defense, any element of the intelligence community, the Department of Homeland Security, or the Department of State; or
 
@@ -158,13 +158,13 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;“(A) in the case of a recipient of a scholarship, after the recipient's completion of the study for which scholarship assistance was provided under the program, work in a position in the Department of Defense or other element of the intelligence community that is certified by the Secretary as appropriate to utilize the unique language and region expertise acquired by the recipient pursuant to such study for a period specified by the Secretary, which period shall include one year of service for each year, or portion thereof, for which such scholarship assistance was provided; or
 
-&emsp;“(B) in the case of a recipient of a fellowship, after the recipient's completion of the study for which thefellowship assistance was provided under the program, work in a position described in subparagraph (A) that is certified by the Secretary as appropriate to utilize the unique language and region expertise acquired by the recipient pursuant to such study for a period specified by the Secretary, which period shall (at the discretion of the Secretary) include not less than one nor more than three years for each year, or portion thereof, for which such fellowship assistance was provided; and”.
+&emsp;“(B) in the case of a recipient of a fellowship, after the recipient's completion of the study for which the fellowship assistance was provided under the program, work in a position described in subparagraph (A) that is certified by the Secretary as appropriate to utilize the unique language and region expertise acquired by the recipient pursuant to such study for a period specified by the Secretary, which period shall (at the discretion of the Secretary) include not less than one nor more than three years for each year, or portion thereof, for which such fellowship assistance was provided; and”.
 
 Subsecs. (h) to (j). Pub. L. 109–364, §945(b), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
 2004—Subsec. (a)(1)(E). Pub. L. 108–487, §603(a)(1), added subpar. (E).
 
-Subsec. (a)(2). Pub. L. 108–487, §603(a)(2), which directed the amendment of the matter following par. (2) by inserting in the first sentence “or for the scholarship program under paragraph (1)(E)” after “under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section” and by inserting at end “For the authorization of appropriations for the scholarship program under paragraph (1)(E), see section 1912 of this title.”, was executed to the concluding provisions of par. (2) to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 108–487, §603(a)(2), which directed the amendment of the matter following par. (2) by inserting in the first sentence “or for the scholarship program under paragraph (1)(E)” after “underparagraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section” and by inserting at end “For the authorization of appropriations for the scholarship program under paragraph (1)(E), see section 1912 of this title.”, was executed to the concluding provisions of par. (2) to reflect the probable intent of Congress.
 
 Pub. L. 108–487, §601(b), in introductory provisions, inserted “or from a transfer under section 1910(c) of this title” after “National Security Education Trust Fund”.
 
@@ -230,7 +230,7 @@ Pub. L. 108–136, div. A, title IX, §925(b), Nov. 24, 2003, 117 Stat. 1578, pr
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–306, title III, §333(c), Nov. 27, 2002, 116 Stat. 2397, provided that: “The amendments made by this section \[enacting section 1911 of this title and amending this section and section 1903 of this title\] shall take effect on the date the Secretary of Defense submits the report required under section 334 of this Act \[116 Stat. 2397\] and notifies the appropriate committees of Congress (as defined in subsection (c) of that section) that the programs carried out under the David L. Boren National Security Education Act of 1991 \[50 U.S.C. 1901 et seq.\] are being managed in a fiscally and programmatically sound manner.”
+Pub. L. 107–306, title III, §333(c), Nov. 27, 2002, 116 Stat. 2397, provided that: “The amendments made by this section \[enacting section 1911 of this title and amending this section and section 1903 of this title\]shall take effect on the date the Secretary of Defense submits the report required under section 334 of this Act \[116 Stat. 2397\] and notifies the appropriate committees of Congress (as defined in subsection (c) of that section) that the programs carried out under the David L. Boren National Security Education Act of 1991 \[50 U.S.C. 1901 et seq.\] are being managed in a fiscally and programmatically sound manner.”
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 

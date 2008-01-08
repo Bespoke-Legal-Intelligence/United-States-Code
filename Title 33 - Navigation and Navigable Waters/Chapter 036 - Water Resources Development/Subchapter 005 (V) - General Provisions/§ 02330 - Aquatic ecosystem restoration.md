@@ -2,11 +2,19 @@
 
 #### (a) General authority
 
-The Secretary may carry out an aquatic ecosystem restoration and protection project if the Secretary determines that the project—
+#### (1) In general
 
-&emsp;(1) will improve the quality of the environment and is in the public interest; and
+&emsp;The Secretary may carry out a project to restore and protect an aquatic ecosystem or estuary if the Secretary determines that the project—
 
-&emsp;(2) is cost-effective.
+&emsp;&emsp;(A)(i) will improve the quality of the environment and is in the public interest; or
+
+&emsp;&emsp;(ii) will improve the elements and features of an estuary (as defined in section 2902 of this title); and
+
+&emsp;&emsp;(B) is cost-effective.
+
+#### (2) Dam removal
+
+&emsp;A project under this section may include removal of a dam.
 
 #### (b) Cost sharing
 
@@ -34,15 +42,27 @@ Not more than $5,000,000 in Federal funds may be allotted under this section for
 
 #### (e) Funding
 
-There is authorized to be appropriated to carry out this section $25,000,000 for each fiscal year.
+There is authorized to be appropriated to carry out this section $50,000,000 for each fiscal year.
 
-(Pub. L. 104–303, title II, §206, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §210, Aug. 17, 1999, 113 Stat. 287.)
+(Pub. L. 104–303, title II, §206, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §210, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, §2020, Nov. 8, 2007, 121 Stat. 1078.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 110–114, §2020(1), added subsec. (a) and struck out former subsec. (a), which read as follows:
+
+“(a)
+
+General authority.—The Secretary may carry out an aquatic ecosystem restoration and protection project if the Secretary determines that the project—
+
+&emsp;“(1) will improve the quality of the environment and is in the public interest; and
+
+&emsp;“(2) is cost-effective.”
+
+Subsec. (e). Pub. L. 110–114, §2020(2), substituted “$50,000,000” for “$25,000,000”.
 
 1999—Subsec. (b). Pub. L. 106–53, §210(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

@@ -18,7 +18,7 @@ It shall be an unlawful employment practice for a labor organization—
 
 &emsp;(1) to exclude or to expel from its membership, or otherwise to discriminate against, any individual because of his race, color, religion, sex, or national origin;
 
-&emsp;(2) to limit, segregate, or classify its membership or applicants for membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's race, color, religion, sex, or national origin; or
+&emsp;(2) to limit, segregate, or classify its membership or applicants for membership, or to classify or fail or refuse to refer for employment any individual, in any way which woulddeprive or tend to deprive any individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's race, color, religion, sex, or national origin; or
 
 &emsp;(3) to cause or attempt to cause an employer to discriminate against an individual in violation of this section.
 
@@ -32,7 +32,7 @@ Notwithstanding any other provision of this subchapter, (1) it shall not be an u
 
 #### (f) Members of Communist Party or Communist-action or Communist-front organizations
 
-As used in this subchapter, the phrase “unlawful employment practice” shall not be deemed to include any action or measure taken by an employer, labor organization, joint labor-management committee, or employment agency with respect to an individual who is a member of the Communist Party of the United States or of any other organization required to register as a Communist-action or Communist-front organization by final order of the Subversive Activities Control Board pursuant to the SubversiveActivities Control Act of 1950 \[50 U.S.C. 781 et seq.\].
+As used in this subchapter, the phrase “unlawful employment practice” shall not be deemed to include any action or measure taken by an employer, labor organization, joint labor-management committee, or employment agency with respect to an individual who is a member of the Communist Party of the United States or of any other organization required to register as a Communist-action or Communist-front organization by final order of the Subversive Activities Control Board pursuant to the Subversive Activities Control Act of 1950 \[50 U.S.C. 781 et seq.\].
 
 #### (g) National security
 
@@ -70,7 +70,7 @@ Nothing contained in this subchapter shall be interpreted to require any employe
 
 (2) A demonstration that an employment practice is required by business necessity may not be used as a defense against a claim of intentional discrimination under this subchapter.
 
-(3) Notwithstanding any other provision of this subchapter, a rule barring the employment of an individual who currently and knowingly uses or possesses a controlled substance, as defined in schedules I and II of section 102(6) of the Controlled Substances Act (21 U.S.C. 802(6)), other than the use or possession of a drug taken under the supervision of a licensed health care professional, or any other use or possession authorized by the Controlled Substances Act \[21U.S.C. 801 et seq.\] or any other provision of Federal law, shall be considered an unlawful employment practice under this subchapter only if such rule is adopted or applied with an intent to discriminate because of race, color, religion, sex, or national origin.
+(3) Notwithstanding any other provision of this subchapter, a rule barring the employment of an individual who currently and knowingly uses or possesses a controlled substance, as defined in schedules I and II of section 102(6) of the Controlled Substances Act (21 U.S.C. 802(6)), other than the use or possession of a drug taken under the supervision of a licensed health care professional, or any other use or possession authorized by the Controlled Substances Act \[21 U.S.C. 801 et seq.\] or any other provision of Federal law, shall be considered an unlawful employment practice under this subchapter only if such rule is adopted or applied with an intent to discriminate because of race, color, religion, sex, or national origin.
 
 #### (<i>l</i>) Prohibition of discriminatory use of test scores
 
@@ -98,7 +98,7 @@ Except as otherwise provided in this subchapter, an unlawful employment practice
 
 &emsp;(A) alter the standards for intervention under rule 24 of the Federal Rules of Civil Procedure or apply to the rights of parties who have successfully intervened pursuant to such rule in the proceeding in which the parties intervened;
 
-&emsp;(B) apply to the rights of parties to the action in which a litigated or consent judgment or order was entered, or of members of a class represented or sought to be represented in such action, or of members of a group on whose behalf relief was sought in such action by the Federal Government;
+&emsp;(B) apply to the rights of parties to the action in which a litigated or consent judgmentor order was entered, or of members of a class represented or sought to be represented in such action, or of members of a group on whose behalf relief was sought in such action by the Federal Government;
 
 &emsp;(C) prevent challenges to a litigated or consent judgment or order on the ground that such judgment or order was obtained through collusion or fraud, or is transparently invalid or was entered by a court lacking subject matter jurisdiction; or
 

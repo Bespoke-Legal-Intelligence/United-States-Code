@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) shall be designed to provide reasonable assurance that—
 
-&emsp;&emsp;&emsp;(i) the recipient is complying with the requirements imposed by the United States Government with respect to use, transfers, and security of defense articles and defense services; and
+&emsp;&emsp;&emsp;(i) the recipient is complying with the requirements imposed by the UnitedStates Government with respect to use, transfers, and security of defense articles and defense services; and
 
 &emsp;&emsp;&emsp;(ii) such articles and services are being used for the purposes for which they are provided.
 

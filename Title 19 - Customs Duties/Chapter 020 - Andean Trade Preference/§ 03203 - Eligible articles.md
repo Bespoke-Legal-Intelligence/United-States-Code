@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) Fabrics or fabric components wholly formed, or components knit-to-shape, in the United States, from yarns wholly formed in the United States or 1 or more ATPDEA beneficiary countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in the United States). Apparel articles shall qualify under this subclause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under this subclause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.
 
-&emsp;&emsp;&emsp;&emsp;(II) Fabrics or fabric components formed or components knit-to-shape, in 1 or more ATPDEA beneficiary countries, from yarns wholly formed in 1 or more ATPDEA beneficiary countries, if such fabrics (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in 1 or more ATPDEA beneficiary countries) or components are in chief value of llama, alpaca, or vicun�AE6a.
+&emsp;&emsp;&emsp;&emsp;(II) Fabrics or fabric components formed or components knit-to-shape, in 1 or more ATPDEA beneficiary countries, from yarns wholly formed in 1 or more ATPDEA beneficiary countries, if such fabrics (including fabrics not formedfrom yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in 1 or more ATPDEA beneficiary countries) or components are in chief value of llama, alpaca, or vicun�AE6a.
 
 &emsp;&emsp;&emsp;&emsp;(III) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA.
 
@@ -96,9 +96,13 @@
 
 &emsp;&emsp;&emsp;(I) Subject to the limitation set forth in subclause (II), apparel articles sewn or otherwise assembled in 1 or more ATPDEA beneficiary countries from fabrics or from fabric components formed or from components knit-to-shape, in 1 or more ATPDEA beneficiary countries, from yarns wholly formed in the United States or 1 or more ATPDEA beneficiary countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in 1 or more ATPDEA beneficiary countries), whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in clause (i) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in clause (i)).
 
-&emsp;&emsp;&emsp;(II) Subject to section 3206 of this title, the preferential treatment referred to in subclause (I) shall be extended in the 1-year period beginning October 1, 2002, and in each of the 4 succeeding 1-year periods, to imports of apparel articles in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
+&emsp;&emsp;&emsp;(II) The preferential treatment referred to in subclause (I) shall be extended in the 1-year period beginning October 1, 2002, and in each of the 5 succeeding 1-year periods, to imports of apparel articles in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
 
-&emsp;&emsp;&emsp;(III) For purposes of subclause (II), the term “applicable percentage” means 2 percent for the 1-year period beginning October 1, 2002, increased in each of the 4 succeeding 1-year periods by equal increments, so that for the period beginning October 1, 2006, the applicable percentage does not exceed 5 percent.
+&emsp;&emsp;&emsp;(III) For purposes of subclause (II), the term “applicable percentage” means—
+
+&emsp;&emsp;&emsp;&emsp;(aa) 2 percent for the 1-year period beginning October 1, 2002, increased in each of the 4 succeeding 1-year periods by equal increments, so that for the period beginning October 1, 2006, the applicable percentage does not exceed 5 percent; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) for the 1-year period beginning October 1, 2007, the percentage determined under item (aa) for the 1-year period beginning October 1, 2006.
 
 #### (iv) Handloomed, handmade, and folklore articles
 
@@ -108,15 +112,15 @@
 
 #### (I) General rule
 
-&emsp;&emsp;&emsp;&emsp;Any apparel article classifiable under subheading 6212.10 of the HTS, except for articles entered under clause (i), (ii), (iii), or (iv), if the article is both cut and sewn or otherwise assembled in theUnited States, or one or more ATPDEA beneficiary countries, or both.
+&emsp;&emsp;&emsp;&emsp;Any apparel article classifiable under subheading 6212.10 of the HTS, except for articles entered under clause (i), (ii), (iii), or (iv), if the article is both cut and sewn or otherwise assembled in the United States, or one or more ATPDEA beneficiary countries, or both.
 
 #### (II) Limitation
 
-&emsp;&emsp;&emsp;&emsp;Subject to section 3206 of this title, during the 1-year period beginning on October 1, 2003, and during each of the 3 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under this paragraph only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
+&emsp;&emsp;&emsp;&emsp;During the 1-year period beginning on October 1, 2003, and during each of the 4 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under this paragraph only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
 
 #### (III) Development of procedure to ensure compliance
 
-&emsp;&emsp;&emsp;&emsp;The United States Customs Service shall develop and implement methods and procedures to ensure ongoing compliance with the requirement set forth in subclause (II). If the Customs Service finds that a producer or an entity controlling production has not satisfied such requirement in a 1-year period, then apparel articles described in subclause (I) of that producer or entity shall be ineligible for preferential treatment under this paragraph during any succeeding 1-year period until the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of such articles of that producer or entity entered during the preceding 1-year period is at least 85 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
+&emsp;&emsp;&emsp;&emsp;The United States Customs Service shall develop and implement methods and procedures to ensure ongoing compliance with the requirement set forth in subclause (II). If the Customs Servicefinds that a producer or an entity controlling production has not satisfied such requirement in a 1-year period, then apparel articles described in subclause (I) of that producer or entity shall be ineligible for preferential treatment under this paragraph during any succeeding 1-year period until the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of such articles of that producer or entity entered during the preceding 1-year period is at least 85 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
 
 #### (vi) Special rules
 
@@ -164,7 +168,7 @@
 
 #### (ii) Penalties for countries
 
-&emsp;&emsp;&emsp;Whenever the President finds, based on sufficient evidence, that transshipment has occurred, the President shall request that the ATPDEA beneficiary country or countries through whose territory the transshipment has occurred take all necessary and appropriate actions to prevent such transshipment. If the President determines that a country is not taking such actions, the President shall reduce the quantities of apparel articles that may be imported into the United States from such country by the quantity of the transshipped articles multiplied by 3, to the extent consistent with the obligations of the United States under the WTO.
+&emsp;&emsp;&emsp;Whenever the President finds, based on sufficient evidence, that transshipment has occurred, the President shall request that the ATPDEA beneficiary country or countries through whose territory the transshipment has occurred take all necessary and appropriate actions to preventsuch transshipment. If the President determines that a country is not taking such actions, the President shall reduce the quantities of apparel articles that may be imported into the United States from such country by the quantity of the transshipped articles multiplied by 3, to the extent consistent with the obligations of the United States under the WTO.
 
 #### (iii) Transshipment described
 
@@ -378,7 +382,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this chapter.
 
-(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194.)
+(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2),Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007, 121 Stat. 235.)
 
 #### References in Text
 
@@ -395,6 +399,12 @@ The Trade Act of 1974, referred to in subsecs. (b)(1)(A), (D), and (c)(1), is Pu
 The Andean Trade Promotion and Drug Eradication Act, referred to in subsec. (b)(6)(E), is title XXXI of Pub. L. 107–210, div. C, Aug. 6, 2002, 116 Stat. 1023. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 3201 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–42, §2(1)(A), substituted “The” for “Subject to section 3206 of this title, the” and “5 succeeding 1-year periods” for “4 succeeding 1-year periods”.
+
+Subsec. (b)(3)(B)(iii)(III). Pub. L. 110–42, §2(1)(B), substituted “means—”for “means” and “; and” for period, inserted item (aa) designation, and added item (bb).
+
+Subsec. (b)(3)(B)(v)(II). Pub. L. 110–42, §2(2), substituted “During” for “Subject to section 3206 of this title, during” and “4 succeeding 1-year periods” for “3 succeeding 1-year periods”.
 
 2006—Subsec. (b)(3)(B)(iii)(II). Pub. L. 109–432, §7003(1), substituted “Subject to section 3206 of this title, the preferential” for “The preferential”.
 
@@ -440,7 +450,7 @@ Amendment by Pub. L. 103–465 effective on the date of entry into force of the 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Authority
 
@@ -454,7 +464,7 @@ Pub. L. 108–429, title II, §2003, Dec. 3, 2004, 118 Stat. 2589, provided that
 
 In General.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law, and subject to subsection (c)—
 
-&emsp;“(1) with respect to any article described in section 204(b)(1)(D) of the Andean Trade Preference Act \[19 U.S.C. 3203(b)(1)(D)\] (as amended by section 3103(a)(2) of the Trade Act of 2002 \[Pub. L. 107–210\]) for which the President proclaims duty free treatment pursuant to section 204(b)(1) of the Andean Trade Preference Act, the entry of any such article on or after August 6, 2002, and before the date on which the President so proclaims duty free treatment for such article shall be subject to the rate of duty applicable on August 5, 2002; and
+&emsp;“(1) with respect to any article described in section 204(b)(1)(D) of the Andean Trade Preference Act \[19 U.S.C. 3203(b)(1)(D)\] (as amended by section 3103(a)(2) of the Trade Act of 2002 \[Pub. L. 107–210\]) for whichthe President proclaims duty free treatment pursuant to section 204(b)(1) of the Andean Trade Preference Act, the entry of any such article on or after August 6, 2002, and before the date on which the President so proclaims duty free treatment for such article shall be subject to the rate of duty applicable on August 5, 2002; and
 
 &emsp;“(2) such entries shall be liquidated or reliquidated as if the reduced duty preferential treatment applied, and the Secretary of the Treasury shall refund any excess duties paid with respect to such entry.
 
@@ -496,7 +506,7 @@ Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, as amended by Proc. No. 7748, Dec.
 
 NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States of America, including section 604 of the 1974 Trade Act, do proclaim as follows:
 
-(1) I have designated the following countries as ATPDEA beneficiary countries pursuant to section 204(b)(6)(B) of the ATPA, as amended, and have determined that these countries have satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, asamended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA:
+(1) I have designated the following countries as ATPDEA beneficiary countries pursuant to section 204(b)(6)(B) of the ATPA, as amended, and have determined that these countries have satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA:
 
 Bolivia
 
@@ -514,7 +524,7 @@ Peru.
 
 (5) This proclamation is effective on the date of signature.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this thirty-first day of October, in the year of our Lord two thousand two, and of the Independence of the United States of America the two hundred and twenty-seventh.
+IN WITNESS WHEREOF, I have hereunto set my hand this thirty-first day of October, in the year of our Lord two thousand two, and of the Independence of theUnited States of America the two hundred and twenty-seventh.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

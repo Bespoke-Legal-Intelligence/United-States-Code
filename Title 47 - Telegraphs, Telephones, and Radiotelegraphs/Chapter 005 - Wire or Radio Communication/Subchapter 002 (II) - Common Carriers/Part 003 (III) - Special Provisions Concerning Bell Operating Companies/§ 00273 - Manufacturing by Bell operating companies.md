@@ -30,7 +30,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 #### (3) Access by competitors to information
 
-&emsp;The Commission may prescribe such additional regulations under this subsection as may be necessary to ensure that manufacturers have access to the information with respect to the protocols and technical requirements for connection with and use of telephone exchange service facilities that a Bell operating company makes available to anymanufacturing affiliate or any unaffiliated manufacturer.
+&emsp;The Commission may prescribe such additional regulations under this subsection as may be necessary to ensure that manufacturers have access to the information with respect to the protocols and technical requirements for connection with and use of telephone exchange service facilities that a Bell operating company makes available to any manufacturing affiliate or any unaffiliated manufacturer.
 
 #### (4) Planning information
 
@@ -86,7 +86,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;&emsp;&emsp;(iv) such entity shall publish a final text of the industry-wide standard or industry-wide generic requirement, including the comments in their entirety, of any funding party which requests to have its comments so published; and
 
-&emsp;&emsp;&emsp;(v) such entity shall attempt, prior to publishing a text for comment, to agree with the funding parties as a group on a mutually satisfactory dispute resolution process which such parties shall utilize as their sole recourse in the event of a dispute on technical issues as to which there is disagreement between any funding partyand the entity conducting such activities, except that if no dispute resolution process is agreed to by all the parties, a funding party may utilize the dispute resolution procedures established pursuant to paragraph (5) of this subsection;
+&emsp;&emsp;&emsp;(v) such entity shall attempt, prior to publishing a text for comment, to agree with the funding parties as a group on a mutually satisfactory dispute resolution process which such parties shall utilize as their sole recourse in the event of a dispute on technical issues as to which there is disagreement between any funding party and the entity conducting such activities, except that if no dispute resolution process is agreed to by all the parties, a funding party may utilize the dispute resolution procedures established pursuant to paragraph (5) of this subsection;
 
 &emsp;&emsp;(B) engage in product certification for telecommunications equipment or customer premises equipment manufactured by unaffiliated entities only if—
 

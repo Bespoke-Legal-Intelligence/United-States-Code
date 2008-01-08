@@ -36,13 +36,37 @@ Except as otherwise provided in regulations, for purposes of—
 
 > any distribution of an interest in a partnership (not otherwise treated as an exchange) shall be treated as an exchange.
 
-#### (f) Cross reference
+#### (f) Qualified joint venture
+
+#### (1) In general
+
+&emsp;In the case of a qualified joint venture conducted by a husband and wife who file a joint return for the taxable year, for purposes of this title—
+
+&emsp;&emsp;(A) such joint venture shall not be treated as a partnership,
+
+&emsp;&emsp;(B) all items of income, gain, loss, deduction, and credit shall be divided between the spouses in accordance with their respective interests in the venture, and
+
+&emsp;&emsp;(C) each spouse shall take into account such spouse's respective share of such items as if they were attributable to a trade or business conducted by such spouse as a sole proprietor.
+
+#### (2) Qualified joint venture
+
+&emsp;For purposes of paragraph (1), the term “qualified joint venture” means any joint venture involving the conduct of a trade or business if—
+
+&emsp;&emsp;(A) the only members of such joint venture are a husband and wife,
+
+&emsp;&emsp;(B) both spouses materially participate (within the meaning of section 469(h) without regard to paragraph (5) thereof) in such trade or business, and
+
+&emsp;&emsp;(C) both spouses elect the application of this subsection.
+
+#### (g) Cross reference
 
 &emsp;&emsp;<b>For rules in the case of the sale, exchange, liquidation, or reduction of a partner's interest, see sections 704(b) and 706(c)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 252; Pub. L. 94–455, title II, §213(c)(3)(B), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 96–222, title I, §102(a)(2)(C), Apr. 1, 1980, 94 Stat. 208; Pub. L. 98–369, div. A, title I, §75(b), July 18, 1984, 98 Stat. 594; Pub. L. 99–514, title XVIII, §1805(c)(2), Oct. 22, 1986, 100 Stat. 2810.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 252; Pub. L. 94–455, title II, §213(c)(3)(B), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 96–222, title I, §102(a)(2)(C), Apr. 1, 1980, 94 Stat. 208; Pub. L. 98–369, div. A, title I, §75(b), July 18, 1984, 98 Stat. 594; Pub. L. 99–514, title XVIII, §1805(c)(2), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 110–28, title VIII, §8215(a), May 25, 2007, 121 Stat. 193.)
 
 #### Amendments
+
+2007—Subsecs. (f), (g). Pub. L. 110–28 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 1986—Subsec. (e). Pub. L. 99–514 substituted “Distributions of partnership interests” for “Distributions” in heading, substituted “Except as otherwise provided in regulations, for purposes of” for “For purposes of” in introductory provision, and “any distribution of an interest in a partnership” for “any distribution” in closing provisions.
 
@@ -53,6 +77,10 @@ Except as otherwise provided in regulations, for purposes of—
 1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (e). Pub. L. 94–455, §213(c)(3)(B), added subsec. (e).
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–28, title VIII, §8215(c), May 25, 2007, 121 Stat. 194, provided that: “The amendments made by this section \[amending this section, section 1402 of this title, and section 411 of Title 42, The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 2006.”
 
 #### Effective Date of 1986 Amendment
 
@@ -72,5 +100,5 @@ Amendment by section 213(c)(3)(B) of Pub. L. 94–455 applicable in the case of 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

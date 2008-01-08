@@ -70,7 +70,7 @@ When used in subchapter II of this chapter:
 
 &emsp;&emsp;(A) a court decree of divorce, annulment, or legal separation; or
 
-&emsp;&emsp;(B) a court order or court-approved property settlement agreement incident to such court decree of divorce, annulment, or legal separation.
+&emsp;&emsp;(B) a court order or court-approved property settlement agreement incident to suchcourt decree of divorce, annulment, or legal separation.
 
 #### (8) Court
 

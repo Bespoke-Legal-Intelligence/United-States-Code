@@ -52,7 +52,7 @@
 
 #### (i) Requirement of names-based reporting
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the number determined under this subparagraph for a State for a fiscal year for purposes of subparagraph (B) is the number of living names-based cases of HIV/AIDS inthe State that, as of December 31 of the most recent calendar year for which such data is available, have been reported to and confirmed by the Director of the Centers for Disease Control and Prevention.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the number determined under this subparagraph for a State for a fiscal year for purposes of subparagraph (B) is the number of living names-based cases of HIV/AIDS in the State that, as of December 31 of the most recent calendar year for which such data is available, have been reported to and confirmed by the Director of the Centers for Disease Control and Prevention.
 
 #### (ii) Transition period; exemption regarding non-AIDS cases
 
@@ -118,7 +118,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, if code-based reporting (within the meaning of subparagraph (D)(vi)) applies in a State as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to paragraph (1) for the State may not for the fiscal year involved exceed by more than 5 percent the amount of the grant pursuant to this paragraph for the State for the preceding fiscal year, except that the limitation under this clause may not result in a grant pursuant to paragraph (1) for a fiscal year that is less than the minimum amount that applies to the State under such paragraph for such fiscal year.
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, if code-based reporting (within the meaning of subparagraph (D)(vi)) applies in a State as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to paragraph (1) for the State may not for the fiscal year involved exceed by more than 5 percent the amount of the grant pursuant to this paragraph for the State for the preceding fiscal year, except that the limitation under this clause may not result in agrant pursuant to paragraph (1) for a fiscal year that is less than the minimum amount that applies to the State under such paragraph for such fiscal year.
 
 #### (ii) Use of amounts involved
 
@@ -170,7 +170,7 @@
 
 #### (I) General rule
 
-&emsp;&emsp;&emsp;&emsp;For fiscal year 2007, the Secretary shall ensure, subject to clauses (ii) through (iv), that the total for a State of the grant pursuant to paragraph (1) andthe grant pursuant to subparagraph (G) <sup>3</sup> is not less than 95 percent of such total for the State for fiscal year 2006.
+&emsp;&emsp;&emsp;&emsp;For fiscal year 2007, the Secretary shall ensure, subject to clauses (ii) through (iv), that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (G) <sup>3</sup> is not less than 95 percent of such total for the State for fiscal year 2006.
 
 #### (II) Rule of construction
 
@@ -178,7 +178,7 @@
 
 #### (ii) Fiscal year 2007
 
-&emsp;&emsp;&emsp;For purposes of clause (i) as applied for fiscal year 2007, the references in such clause to subparagraph (G) <sup>3</sup> are deemed to be references to subparagraph (I) as such subparagraph was in effect for fiscal year 2006.
+&emsp;&emsp;&emsp;For purposes of clause (i) as applied for fiscal year 2007, the references in suchclause to subparagraph (G) <sup>3</sup> are deemed to be references to subparagraph (I) as such subparagraph was in effect for fiscal year 2006.
 
 #### (iii) Fiscal years 2008 and 2009
 
@@ -254,7 +254,7 @@
 
 #### (4) Limitation on use of funds
 
-&emsp;Except as provided in paragraph (5), a State may not use more than a total of 15 percent of amounts received under a grant awarded under section 300ff–21 of this title for the purposes described in paragraphs (2) and (3).
+&emsp;Except as provided in paragraph (5), a State may not use more than a total of 15 percent of amounts received under a grant awarded undersection 300ff–21 of this title for the purposes described in paragraphs (2) and (3).
 
 #### (5) Exception
 
@@ -332,7 +332,7 @@ Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (E). Text
 
 Subsec. (a)(2)(F). Pub. L. 109–415, §203(b)(4), redesignated subpar. (I) as (F).
 
-Pub. L. 109–415, §203(b)(2), struck out heading and text of supar. (F). Text read as follows: “For purposes of subparagraph (D), the cost index for Puerto Rico, the Virgin Islands, and Guam shall be 1.0.”
+Pub. L. 109–415, §203(b)(2), struck out heading and text of supar. (F). Text read as follows: “For purposes ofsubparagraph (D), the cost index for Puerto Rico, the Virgin Islands, and Guam shall be 1.0.”
 
 Subsec. (a)(2)(F)(i). Pub. L. 109–415, §203(c)(1), which directed amendment of subsec. (a)(2)(G)(i) by substituting “section 300ff–31b of this title” for “section 300ff–77 of this title” in introductory provisions, substituting a semicolon for a period at end of subcl. (II), and adding concluding provisions, was executed by making the amendment to subsec. (a)(2)(F)(i), to reflect the probable intent of Congress.
 

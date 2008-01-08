@@ -44,7 +44,7 @@ For purposes of this title—
 
 #### (A) Per diem, etc. payments permitted
 
-&emsp;&emsp;A contract shall not fail to be described in subparagraph (A) or (B) of paragraph (1) by reason of payments being made on a per diem or other periodic basis without regard to the expenses incurred during the period to which the payments relate.
+&emsp;&emsp;A contract shall not fail to be described in subparagraph (A) or (B) of paragraph (1) by reason of payments being made on a per diem or other periodic basis without regardto the expenses incurred during the period to which the payments relate.
 
 #### (B) Special rules relating to medicare
 
@@ -306,9 +306,9 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 (Added and amended Pub. L. 104–191, title III, §§321(a), 325, Aug. 21, 1996, 110 Stat. 2054, 2063; Pub. L. 105–34, title XVI, §1602(b), (e), Aug. 5, 1997, 111 Stat. 1094; Pub. L. 105–206, title VI, §6023(28), July 22, 1998, 112 Stat. 826; Pub. L. 108–311, title II, §207(25), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–280, title VIII, §844(c), (f), Aug. 17, 2006, 120 Stat. 1011, 1013.)
 
-#### Adjustment of Dollar Amount of Per Diem Limitation Regarding Periodic Payments for Calendar Year 2007
+#### Adjustment of Dollar Amount of Per Diem Limitation Regarding Periodic Payments for Calendar Year 2008
 
-<i>For adjustment of dollar amount of per diem limitation on periodic payments received under qualified long-term care or certain life insurance contracts under subsection (d)(4) of this section for calendar year 2007, see section 3.41 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amount of per diem limitation on periodic payments received under qualified long-term care or certain life insurance contracts under subsection (d)(4) of this section for calendar year 2008, see section 3.40 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Subsection (e)
 
@@ -328,7 +328,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 #### <i>(3) Portion defined</i>
 
-&emsp;<i>For purposes of this subsection, the term “portion” means only the terms and benefits under a life insurance contract or annuity contract that are in addition to the terms and benefits under the contract without regard to long-term care insurance coverage.</i>
+&emsp;<i>For purposes of this subsection, the term “portion” means only the terms and benefits under a</i><i>life insurance contract or annuity contract that are in addition to the terms and benefits under the contract without regard to long-term care insurance coverage.</i>
 
 #### <i>(4) Annuity contracts to which paragraph (1) does not apply</i>
 
@@ -412,7 +412,7 @@ Continuation of existing policies.—In the case of any contract issued before J
 
 &emsp;“(B) services provided under, or reimbursed by, such contract shall be treated for such purposes as qualified long-term care services (as defined in section 7702B(c) of such Code).
 
-> In the case of an individual who is covered on December 31, 1996, under a State long-term care plan (as definedin section 7702B(f)(2) of such Code), the terms of such plan on such date shall be treated for purposes of the preceding sentence as a contract issued on such date which met the long-term care insurance requirements of such State.
+> In the case of an individual who is covered on December 31, 1996, under a State long-term care plan (as defined in section 7702B(f)(2) of such Code), the terms of such plan on such date shall be treated for purposes of the preceding sentence as a contract issued on such date which met the long-term care insurance requirements of such State.
 
 “(3)
 
@@ -430,7 +430,7 @@ Issuance of certain riders permitted.—For purposes of applying sections 101(f)
 
 “(5)
 
-Application of per diem limitation to existing contracts.—The amount of per diem payments made under a contract issued on or before July 31, 1996, with respect to an insured which are excludable from gross income by reason of section 7702B of the Internal Revenue Code of 1986 (as added by this section) shall not be reduced under subsection (d)(2)(B) thereof by reason of reimbursements received under a contract issued on or before such date. The preceding sentence shall cease to apply as of the date (after July 31, 1996) such contract is exchanged or there is any contract modification which results in an increase in the amount of such per diem payments or the amount of such reimbursements.”
+Application of per diem limitation to existing contracts.—The amount of per diem payments madeunder a contract issued on or before July 31, 1996, with respect to an insured which are excludable from gross income by reason of section 7702B of the Internal Revenue Code of 1986 (as added by this section) shall not be reduced under subsection (d)(2)(B) thereof by reason of reimbursements received under a contract issued on or before such date. The preceding sentence shall cease to apply as of the date (after July 31, 1996) such contract is exchanged or there is any contract modification which results in an increase in the amount of such per diem payments or the amount of such reimbursements.”
 
 #### Long-Term Care Study Request
 

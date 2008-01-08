@@ -370,15 +370,15 @@ Section 7 of Pub. L. 89–83 provided that:
 
 For termination, effective May 15, 2000, of provisions in subsec. (i)(4) of this section relating to annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 55 of House Document No. 103–7.
 
-#### Patent and Trademark Fees in Fiscal Years 2005 and 2006
+#### Patent and Trademark Fees in Certain Fiscal Years After 2005
 
-Pub. L. 108–447, div. B, title VIII, Dec. 8, 2004, 118 Stat. 2924, provided that:
+Pub. L. 108–447, div. B, title VIII, Dec. 8, 2004, 118 Stat. 2924, as amended by Pub. L. 109–289, div. B, title II, §20933, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 45, provided that:
 
 #### “SEC. 801. FEES FOR PATENT SERVICES.
 
 “(a)
 
-General Patent Fees.—During fiscal years 2005 and 2006, subsection (a) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
+General Patent Fees.—During fiscal years 2005, 2006, and 2007, subsection (a) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
 
 “ ‘(a)
 
@@ -470,11 +470,11 @@ Extension fees.—For petitions for 1-month extensions of time to take actions r
 
 “(b)
 
-Patent Maintenance Fees.—During fiscal years 2005 and 2006, subsection (b) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
+Patent Maintenance Fees.—During fiscal years 2005, 2006, and 2007, subsection (b) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
 
 “ ‘(b)
 
-Maintenance Fees.—The Director shall charge the following fees for maintaining in force all patentsbased on applications filed on or after December 12, 1980:
+Maintenance Fees.—The Director shall charge the following fees for maintaining in force all patents based on applications filed on or after December 12, 1980:
 
 &emsp;“ ‘(1) 3 years and 6 months after grant, $900.
 
@@ -486,7 +486,7 @@ Maintenance Fees.—The Director shall charge the following fees for maintaining
 
 “(c)
 
-Patent Search Fees.—During fiscal years 2005 and 2006, subsection (d) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
+Patent Search Fees.—During fiscal years 2005, 2006, and 2007, subsection (d) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
 
 “ ‘(d)
 
@@ -574,11 +574,11 @@ Other fees.—The Director shall establish fees for all other processing, servic
 
 “(d)
 
-Adjustments.—During fiscal years 2005 and 2006, subsection (f) of section 41 of title 35, United States Code, shall apply to the fees established under this section.
+Adjustments.—During fiscal years 2005, 2006, and 2007, subsection (f) of section 41 of title 35, United States Code, shall apply to the fees established under this section.
 
 “(e)
 
-Fees For Small Entities.—During fiscal years 2005 and 2006, subsection (h) of section 41 of title 35, United States Code, shall be administered as though that subsection is amended—
+Fees For Small Entities.—During fiscal years 2005, 2006, and 2007, subsection (h) of section 41 of title 35, United States Code, shall be administered as though that subsection is amended—
 
 &emsp;“(1) in paragraph (1), by striking ‘Fees charged under subsection (a) or (b)’ and inserting ‘Subject to paragraph (3), fees charged under subsections (a), (b), and (d)(1)’; and
 
@@ -590,7 +590,7 @@ Fees For Small Entities.—During fiscal years 2005 and 2006, subsection (h) of 
 
 “(a)
 
-Fee For Filing Application.—During fiscal years 2005 and 2006, under such conditions as may be prescribed by the Director, the fee under section 31(a) of the Trademark Act of 1946 (15 U.S.C. 1113(a)) for: (1) the filing of a paper application for the registration of a trademark shall be $375; (2) the filing of an electronic application shall be $325; and (3) the filing of an electronic application meeting certain additional requirements prescribed by the Director shall be $275. During fiscal years 2005 and 2006, the provisions of the second and third sentences of section 31(a) of the Trademark Act of 1946 shall apply to the fees established under this section.
+Fee For Filing Application.—During fiscal years 2005, 2006, and 2007, under such conditions as may be prescribed by the Director, the fee under section 31(a) of the Trademark Act of 1946 (15 U.S.C. 1113(a)) for: (1) the filing of a paper application for the registration of a trademark shall be $375; (2) the filing of an electronic application shall be $325; and (3) the filing of an electronic application meeting certain additional requirements prescribed by the Director shall be $275. During fiscal years 2005, 2006, and 2007, the provisions of the second and third sentences of section 31(a) of the Trademark Act of 1946 shall apply to the fees established under this section.
 
 “(b)
 
@@ -626,7 +626,7 @@ Transitional Provisions.—
 
 &emsp;“(1)
 
-Search fees.—During fiscal years 2005 and 2006, the Director shall charge—
+Search fees.—During fiscal years 2005, 2006, and 2007, the Director shall charge—
 
 &emsp;&emsp;“(A) for the search of each application for an original patent, except for design, plant, provisional, or international application, $500;
 
@@ -646,6 +646,8 @@ Timing of fees.—The provisions of section 111(a)(3) of title 35, United States
 
 “In this title, the term ‘Director’ means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.”
 
+\[Pub. L. 110–161, div. B, title I, Dec. 26, 2007, 121 Stat. 1888, provided in part: “That sections 801, 802, and 803 of division B, Public Law 108–447 \[set out above\] shall remain in effect during fiscal year 2008”.\]
+
 #### Study on Alternative Fee Structures
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4204\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall conduct a study of alternative fee structures that could be adopted by the United States Patent and Trademark Office to encourage maximum participation by the inventor community in the United States. The Director shall submit such study to the Committees on the Judiciary of the House of Representatives and the Senate not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\].”
@@ -656,7 +658,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4506\], Nov. 29, 1999, 113
 
 #### Continuation of Maintenance
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4804(d)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–590, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United StatesPatent and Trademark Office shall not, pursuant to the amendment made by paragraph (1) \[amending this section\], cease to maintain, for use by the public, paper or microform collections of United States patents, foreign patent documents, and United States trademark registrations, except pursuant to notice and opportunity for public comment and except that the Director shall first submit a report to the Committees on the Judiciary of the Senate and the House of Representatives detailing such plan, including a description of the mechanisms in place to ensure the integrity of such collections and the data contained therein, as well as to ensure prompt public access to the most current available information, and certifying that the implementation of such plan will not negatively impact the public.”
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4804(d)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–590, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall not, pursuant to the amendment made by paragraph (1) \[amending this section\], cease to maintain, for use by the public, paper or microform collections of United States patents, foreign patent documents, and United States trademark registrations, except pursuant to notice and opportunity for public comment and except that the Director shall first submit a report to the Committees on the Judiciary of the Senate and the House of Representatives detailing such plan, including a description of the mechanisms in place to ensure the integrity of such collections and the data contained therein, as well as to ensure prompt public access to the most current available information, and certifying that the implementation of such plan will not negatively impact the public.”
 
 #### Access to Electronic Patent Information
 

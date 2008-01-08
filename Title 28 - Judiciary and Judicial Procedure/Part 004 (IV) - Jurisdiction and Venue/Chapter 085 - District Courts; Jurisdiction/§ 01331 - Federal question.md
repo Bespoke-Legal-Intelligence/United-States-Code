@@ -10,7 +10,7 @@ Based on title 28, U.S.C., 1940 ed., §41(1) (Mar. 3, 1911, ch. 231, §24, par. 
 
 Jurisdiction of federal questions arising under other sections of this chapter is not dependent upon the amount in controversy. (See annotations under former section 41 of title 28, U.S.C.A., and 35 C.J.S., p. 833 et seq., §§30–43. See, also, reviser's note under section 1332 of this title.)
 
-Words “wherein the matter in controversy exceeds the sum or value of $3,000, exclusive of interest and costs,” were added to conform to rulings of the Supreme Court. See construction of provision relating to jurisdictional amount requirement in cases involving a Federal question in <i>United States v. Sayward</i>, 16 S.Ct. 371, 160 U.S. 493, 40 L.Ed. 508; <i>Fishback v. Western Union</i><i>Tel. Co</i>., 16 S.Ct. 506, 161 U.S. 96, 40 L.Ed. 630; and <i>Halt v. Indiana Manufacturing Co</i>., 1900, 20 S.Ct. 272, 176 U.S. 68, 44 L.Ed. 374.
+Words “wherein the matter in controversy exceeds the sum or value of $3,000, exclusive of interest and costs,” were added to conform to rulings of the Supreme Court. See construction of provision relating to jurisdictional amount requirement in cases involving a Federal question in <i>United States v. Sayward</i>, 16 S.Ct. 371, 160 U.S. 493, 40 L.Ed. 508; <i>Fishback v. Western Union Tel. Co</i>., 16 S.Ct. 506, 161 U.S. 96, 40 L.Ed. 630; and <i>Halt v. Indiana Manufacturing Co</i>., 1900, 20 S.Ct. 272, 176 U.S. 68, 44 L.Ed. 374.
 
 Words “all civil actions” were substituted for “all suits of a civil nature, at common law or in equity” to conform with Rule 2 of the Federal Rules of Civil Procedure.
 

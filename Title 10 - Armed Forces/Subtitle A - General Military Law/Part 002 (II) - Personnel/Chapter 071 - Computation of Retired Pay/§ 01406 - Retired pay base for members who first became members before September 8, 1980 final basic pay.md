@@ -112,7 +112,7 @@ Rate of basic pay to be used.—The rate of basic pay to be used under paragraph
 
 (f)
 
-Coast Guard.—In the case of a member who is retired under any section of title 14, the member's retired pay is computed under section423(a) of title 14 in the manner provided in that section.
+Coast Guard.—In the case of a member who is retired under any section of title 14, the member's retired pay is computed under section 423(a) of title 14 in the manner provided in that section.
 
 (g)
 

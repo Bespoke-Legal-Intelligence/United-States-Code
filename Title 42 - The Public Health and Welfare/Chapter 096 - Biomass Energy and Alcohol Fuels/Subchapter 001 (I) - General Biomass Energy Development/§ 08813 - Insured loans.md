@@ -26,11 +26,11 @@ Subject to sections 8812 and 8817 of this title, the Secretary of Agriculture ma
 
 #### (d) Preconditions
 
-An insured loan may not be made under this section unless the applicant for such loan has established to the satisfaction of the Secretary that the applicant is unable without such a loan to obtain sufficient credit elsewhere at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms for loans for similar purposes and periods of time, to finance the construction of the biomass energy project for which such loan is sought.
+An insured loan may not be made under this section unless the applicant for such loan has established to the satisfaction of the Secretary that the applicant is unable without such a loan to obtain sufficient credit elsewhere at reasonable rates and terms, taking into considerationprevailing private and cooperative rates and terms for loans for similar purposes and periods of time, to finance the construction of the biomass energy project for which such loan is sought.
 
 (Pub. L. 96–294, title II, §213, June 30, 1980, 94 Stat. 690.)
 
 #### References in Text
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(3), is title III of Pub. L. 87–128,Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(3), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 

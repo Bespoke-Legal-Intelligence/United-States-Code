@@ -10,7 +10,7 @@ Except when express provision is made in a statute of the United States, in any 
 
 #### (c) Remedies available
 
-The remedies provided for in this section shall be in addition to and not in lieu of any otherremedies provided by common law or under Federal or State law.
+The remedies provided for in this section shall be in addition to and not in lieu of any other remedies provided by common law or under Federal or State law.
 
 (Pub. L. 92–573, §23, Oct. 27, 1972, 86 Stat. 1226; Pub. L. 94–284, §10(c), May 11, 1976, 90 Stat. 507; Pub. L. 96–486, §3, Dec. 1, 1980, 94 Stat. 2369; Pub. L. 97–35, title XII, §1211(h)(3)(B), Aug. 13, 1981, 95 Stat. 723.)
 

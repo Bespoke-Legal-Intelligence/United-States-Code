@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make grants under subsection (b) to protection and advocacy systems in each State for the purpose of enabling such systems to assist in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services for individuals with disabilities.
+&emsp;The Secretary shall make grants under subsection (b) to protection and advocacy systems in each State for the purpose of enabling suchsystems to assist in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services for individuals with disabilities.
 
 #### (2) General authorities
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the Secretary shall pay directly to 
 
 #### (2) Distribution of funds
 
-&emsp;A lead agency to which a grant amount is paid under paragraph (1) shall determine the manner in which funds made available through the grant will be allocated among the entities that were providing protection and advocacy services in that State on the date described in such paragraph, and shall distribute funds to such entities. In distributing such funds, the lead agency shall not establish any additional eligibility or procedural requirements for an entity in the State that supportsprotection and advocacy services through a protection and advocacy system. Such an entity shall comply with the same requirements (including reporting and enforcement requirements) as any other entity that receives funding under this section.
+&emsp;A lead agency to which a grant amount is paid under paragraph (1) shall determine the manner in which funds made available through the grant will be allocated among the entities that were providing protection and advocacy services in that State on the date described in such paragraph, and shall distribute funds to such entities. In distributing such funds, the lead agency shall not establish any additional eligibility or procedural requirements for an entity in the State that supports protection and advocacy services through a protection and advocacy system. Such an entity shall comply with the same requirements (including reporting and enforcement requirements) as any other entity that receives funding under this section.
 
 #### (3) Application of provisions
 

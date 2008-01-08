@@ -150,7 +150,7 @@ The civil service laws, referred to in subsec. (e)(1), are set forth in Title 5,
 
 The classification laws, referred to in subsec. (e)(1), are set forth in chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
 
-The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–656, Jan. 8, 1971, 84 Stat. 1946, as amended, which enacted sections 5305 to 5308 and 5947 of Title 5, amended sections 5108, 5301, and 5942 of Title 5 and section 410 of Title 39, Postal Service, repealed section 5302 of Title 5, and enacted provisions set out as notes under sections 5303 and 5942 of Title 5, section 60a of Title 2, The Congress, and section 410 of Title 39. For complete classification of the Act to the Code see Short Title note set out under section 5301 of Title 5 and Tables.
+The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–656, Jan. 8, 1971, 84 Stat. 1946, as amended, which enacted sections 5305 to5308 and 5947 of Title 5, amended sections 5108, 5301, and 5942 of Title 5 and section 410 of Title 39, Postal Service, repealed section 5302 of Title 5, and enacted provisions set out as notes under sections 5303 and 5942 of Title 5, section 60a of Title 2, The Congress, and section 410 of Title 39. For complete classification of the Act to the Code see Short Title note set out under section 5301 of Title 5 and Tables.
 
 #### Codification
 
@@ -234,7 +234,7 @@ Subsec. (f)(1). Pub. L. 98–573, §703, substituted provisions authorizing appr
 
 Subsec. (b)(1). Pub. L. 97–456, §3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” wherever appearing.
 
-Subsec. (b)(2). Pub. L. 97–456, §3(c), (d)(2)(A), (B), substituted “three Deputy United States Trade Representatives” for “two Deputy Special Representatives for Trade Negotiations” after “in the Office”, “a Deputy United States Trade Representative” for “a Deputy Special Representative” after “any nomination of a”, and “Deputy United States Trade Representative” for “Deputy Special Representative for Trade Negotiations” after “Each”.
+Subsec. (b)(2). Pub. L. 97–456, §3(c), (d)(2)(A), (B), substituted “three Deputy United States Trade Representatives” for “two Deputy Special Representatives for Trade Negotiations” after “in the Office”, “a DeputyUnited States Trade Representative” for “a Deputy Special Representative” after “any nomination of a”, and “Deputy United States Trade Representative” for “Deputy Special Representative for Trade Negotiations” after “Each”.
 
 Subsec. (c)(1). Pub. L. 97–456, §3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” in provisions preceding subpar. (A).
 
@@ -344,7 +344,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (2) The position of Under Secretary of Commerce established under section 1 of the Act of June 5, 1939 (ch. 180, 53 Stat. 808; 15 U.S.C. 1502) is abolished.
 
-(c) There shall be in the Department an Under Secretary for International Trade appointed by the President, by and with the advice and consent of the Senate. The Under Secretary for International Trade shall receive compensation at the rate payable for Level III ofthe Executive Schedule \[5 U.S.C. 5314\], and shall perform such duties and exercise such powers as the Secretary may from time to time prescribe.
+(c) There shall be in the Department an Under Secretary for International Trade appointed by the President, by and with the advice and consent of the Senate. The Under Secretary for International Trade shall receive compensation at the rate payable for Level III of the Executive Schedule \[5 U.S.C. 5314\], and shall perform such duties and exercise such powers as the Secretary may from time to time prescribe.
 
 (d) There shall be in the Department two additional Assistant Secretaries appointed by the President, by and with the advice and consent of the Senate. Each such Assistant Secretary shall perform such duties and exercise such powers as the Secretary may from time to time prescribe.
 
@@ -374,7 +374,7 @@ The Trade Representative and the Secretary shall serve, ex officio and without v
 
 &emsp;(E) with respect to the functions transferred by subparagraph (C) of this paragraph, section 318 of the Tariff Act of 1930 (19 U.S.C. 1318), to be exercised in consultation with the Secretary of the Treasury;
 
-&emsp;(F) with respect to the functions transferred by subparagraph (C) of this paragraph, section 502(b) of the Tariff Act of 1930 (19 U.S.C. 1502(b)), and, insofar as it provides authority to issue regulations and disseminate information, to be exercised in consultation with the Secretary of the Treasury to the extent that the Secretary of the Treasury has responsibility under subparagraph (C), section 502(a) of such Act (19 U.S.C. 1502(a));
+&emsp;(F) with respect to the functions transferred by subparagraph (C) of this paragraph, section 502(b) of the Tariff Act of 1930 (19 U.S.C. 1502(b)), and, insofar as it provides authority to issue regulations and disseminate information, to be exercised in consultation with the Secretary of the Treasury to the extent that the Secretary of the Treasury has responsibilityunder subparagraph (C), section 502(a) of such Act (19 U.S.C. 1502(a));
 
 &emsp;(G) with respect to the functions transferred by subparagraph (C) of this paragraph, section 617 of the Tariff Act of 1930 (19 U.S.C. 1617); and
 
@@ -434,7 +434,7 @@ The trade machinery we now have cannot do this job effectively. Although the Spe
 
 This reorganization is designed to correct such deficiencies and to prepare us for strong enforcement of the MTN codes. It aims to improve our export promotion activities so that United States exporters can take full advantage of trade opportunities in foreign markets. It provides for the timely and efficient administration of our unfair trade laws. It also establishes an efficient mechanism for shaping an effective, comprehensive United States trade policy.
 
-To achieve these objectives, I propose to place policy coordination and negotiation—those international trade functions that most require comprehensiveness, influence, and Government-wide perspective—in the Executive Office of the President. I propose to place operational and implementation responsibilities, which are staff-intensive, in line departments that have the requisite resources and knowledge of the major sectors of our economy to handle them. I have concluded that building our trade structure on STR and Commerce, respectively, best satisfies these considerations.
+To achieve these objectives, I propose to place policy coordination and negotiation—those international trade functions that most require comprehensiveness,influence, and Government-wide perspective—in the Executive Office of the President. I propose to place operational and implementation responsibilities, which are staff-intensive, in line departments that have the requisite resources and knowledge of the major sectors of our economy to handle them. I have concluded that building our trade structure on STR and Commerce, respectively, best satisfies these considerations.
 
 I propose to enhance STR, to be renamed the Office of the United States Trade Representative, by centralizing in it international trade policy development, coordination and negotiation functions. The Commerce Department will become the focus of non-agricultural operational trade responsibilities by adding to its existing duties those for commercial representation abroad, antidumping and countervailing duty cases, the non-agricultural aspects of MTN implementation, national security investigations, and embargoes.
 
@@ -456,7 +456,7 @@ The Trade Representative, with the advice of the Trade Policy Committee, will be
 
 The Trade Representative will have the lead role in bilateral and multilateral trade, commodity, and direct investment negotiations. The Trade Representative will represent the United States in General Agreement on Tariffs and Trade (GATT) matters. Since the GATT will be the principal international forum for implementing and interpreting the MTN agreements and since GATT meetings, including committee and working group meetings, occur almost continuously, the Trade Representative will have a limited number of permanent staff in Geneva. In some cases, it may be necessary to assign a small number of USTR staff abroad to assist in oversight of MTN enforcement. In this event, appropriate positions will be authorized. In recognition of the responsibility of the Secretary of State regarding our foreign policy, the activities of overseas personnel of the Trade Representative and the Commerce Department will be fully coordinated with other elements of our diplomatic missions.
 
-In addition to his role with regard to GATT matters, the Trade Representative will have the lead responsibility for trade and commodity matters considered in the Organization for Economic Cooperation and Development (OECD) and the United Nations Conference on Trade and Development (UNCTAD) when such matters are the primary issues under negotiation. Because of the Secretary of State's foreign policy responsibilities,and the responsibilities of the Director of the International Development Cooperation Agency as the President's principal advisor on development, the Trade Representative will exercise his OECD and UNCTAD responsibilities in close cooperation with these officials.
+In addition to his role with regard to GATT matters, the Trade Representative will have the lead responsibility for trade and commodity matters considered in the Organization for Economic Cooperation and Development (OECD) and the United Nations Conference on Trade and Development (UNCTAD) when such matters are the primary issues under negotiation. Because of the Secretary of State's foreign policy responsibilities, and the responsibilities of the Director of the International Development Cooperation Agency as the President's principal advisor on development, the Trade Representative will exercise his OECD and UNCTAD responsibilities in close cooperation with these officials.
 
 To ensure that all trade negotiations are handled consistently and that our negotiating leverage is employed to the maximum, the Trade Representative will manage the negotiation of particular issues. Where appropriate, the Trade Representative may delegate responsibility for negotiations to other agencies with expertise on the issues under consideration. He will coordinate the operational aspects of negotiations through a Trade Negotiating Committee, chaired by the Trade Representative and including the Departments of Commerce, State, Treasury, Agriculture and Labor.
 
@@ -502,7 +502,7 @@ I am dedicated to the aggressive implementation of the Multilateral Trade Agreem
 
 These responsibilities will be handled by a unit built around the staff from Commerce that provided essential analytical support to STR throughout the MTN negotiation process. Building implementation of MTN around this core group will assure that the government's institutional memory and expertise on MTN is most effectively devoted to the challenge ahead. When American business needs information or encounters problems in the MTN area, it can turn to the Department of Commerce for knowledgeable assistance.
 
-Matching the increased importance of trade in the Department's mission will be a much strengthened trade organization within the Department. By creating a number of new senior level positions in the Department, we will ensure that trade policy implementationreceives the kind of day-to-day top management attention that it both demands and requires.
+Matching the increased importance of trade in the Department's mission will be a much strengthened trade organization within the Department. By creating a number of new senior level positions in the Department, we will ensure that trade policy implementation receives the kind of day-to-day top management attention that it both demands and requires.
 
 With its new responsibilities and resources, the Department of Commerce will become a key participant in the formulation of our trade policies. Much of the analysis in support of trade policy formulation will be conducted by the Department of Commerce, which will be close to the operational aspects of the problems that raise policy issues.
 
@@ -644,9 +644,9 @@ Sec. 1–105. <i>Prior Executive Orders and Determination.</i>
 
 (d) The first sentence of section 3 of Executive Order 11703 of February 7, 1973 \[19 U.S.C. 1862 note\], is amended to read as follows: “The Oil Policy Committee shall henceforth consist of the United States Trade Representative, chair, and the Secretaries of State, Treasury, Defense, the Interior, Commerce and Energy, the Attorney General, and the Chairman of the Council of Economic Advisers, as members.”.
 
-(e) Sections 2(b) and 3(a), the first sentence of section 3(c), and sections 3(e), 3(f), and 6 of Executive Order11846 of March 27, 1975, as amended \[19 U.S.C. 2111 note\], are revoked.
+(e) Sections 2(b) and 3(a), the first sentence of section 3(c), and sections 3(e), 3(f), and 6 of Executive Order 11846 of March 27, 1975, as amended \[19 U.S.C. 2111 note\], are revoked.
 
-(f)(1) Section 1(a)(5) of Executive Order 11858 of May 7, 1975 \[22 U.S.C. 2841 note\], is amended to read: “(5) The United States Trade Representative”.
+(f)(1) Section 1(a)(5) of Executive Order 11858 of May 7, 1975 \[50 U.S.C. App. 2170 note\], is amended to read: “(5) The United States Trade Representative”.
 
 (2) Section 1(a)(6) of such order is amended to read: “(6) The Chairman of the Council of Economic Advisers”.
 

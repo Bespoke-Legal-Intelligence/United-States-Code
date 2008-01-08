@@ -38,7 +38,7 @@ Amendment by Pub. L. 89–44 applicable on and after July 1, 1965, see section 7
 
 #### Savings Provision
 
-Prosecution for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
+Prosecution for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
 
 #### Persons Engaged in Activities on December 1, 1974, Requiring Payment of Wagering Tax
 

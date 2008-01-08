@@ -8,7 +8,7 @@ Section 229, act July 1, 1944, ch. 373, title V, §511, 58 Stat. 711; 1953 Reorg
 
 Section 229a, act July 1, 1944, ch. 373, title V, §512, as added Oct. 15, 1968, Pub. L. 90–574, title V, §503(a), 82 Stat. 1012, which related to memorials and other acknowledgments for contributions to health of the Nation, was successively renumbered by subsequent acts and transferred, see section 238i of this title.
 
-Section 229b, act July 1, 1944, ch. 373, title V, §513, as added June 30, 1970, Pub. L. 91–296, title IV, §401(a), 84Stat. 351; amended Oct. 7, 1980, Pub. L. 96–398, title VIII, §804(c), 94 Stat. 1608; Aug. 13, 1981, Pub. L. 97–35, title IX, §902(g)(3), 95 Stat. 560, which related to evaluation of programs, was successively renumbered by subsequent acts and transferred, see section 238j of this title.
+Section 229b, act July 1, 1944, ch. 373, title V, §513, as added June 30, 1970, Pub. L. 91–296, title IV, §401(a), 84 Stat. 351; amended Oct. 7, 1980, Pub. L. 96–398, title VIII, §804(c), 94 Stat. 1608; Aug. 13, 1981, Pub. L. 97–35, title IX, §902(g)(3), 95 Stat. 560, which related to evaluation of programs, was successively renumbered by subsequent acts and transferred, see section 238j of this title.
 
 Section 229c, act July 1, 1944, ch. 373, title V, §514, as added Nov. 9, 1978, Pub. L. 95–623, §11(e), 92 Stat. 3456, which related to contract authority of Secretary, was successively renumbered by subsequent acts and transferred, see section 238k of this title.
 

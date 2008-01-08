@@ -108,3 +108,7 @@ The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–
 
 This Act, referred to in subsec. (j), is Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1606, known as the Intelligence Authorization Act for Fiscal Year 2000. For complete classification of this Act to the Code, see Tables.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

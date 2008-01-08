@@ -2,7 +2,7 @@
 
 #### (a) State standards
 
-A taxpayer shall be allowed an additional credit under section 3302(b) with respect to any reduced rate of contributions permitted by aState law, only if the Secretary of Labor finds that under such law—
+A taxpayer shall be allowed an additional credit under section 3302(b) with respect to any reduced rate of contributions permitted by a State law, only if the Secretary of Labor finds that under such law—
 
 &emsp;(1) no reduced rate of contributions to a pooled fund or to a partially pooled account is permitted to a person (or group of persons) having individuals in his (or their) employ except on the basis of his (or their) experience with respect to unemployment or other factors bearing a direct relation to unemployment risk during not less than the 3 consecutive years immediately preceding the computation date;
 
@@ -92,7 +92,7 @@ To facilitate the orderly transition to coverage of service to which section 330
 
 #### (g) Transitional rule for Unemployment Compensation Amendments of 1976
 
-To facilitate the orderly transition to coverage of service to which section 3309(a)(1)(A) applies by reason of the enactment of the Unemployment Compensation Amendments of 1976, a State law may provide that an organization (or group of organizations) which elects, when such election first becomes available under the State law with respect to such service, to make payments (in lieu of contributions) into the State unemployment fund as provided in section 3309(a)(2), and which had paid contributions into such fund under the State law with respect to such service performed in its employ before the date of the enactment of this subsection, is not required to make any such payment (in lieu of contributions) on account of compensation paid after its election as heretofore described which is attributable under the State law to such service performed in its employ, until the total of such compensation equals the amount—
+To facilitate the orderly transition to coverage of service to which section 3309(a)(1)(A) applies by reason of the enactment of the Unemployment Compensation Amendments of 1976, a State law may provide that an organization (or group of organizations) which elects, when such election first becomes available under the Statelaw with respect to such service, to make payments (in lieu of contributions) into the State unemployment fund as provided in section 3309(a)(2), and which had paid contributions into such fund under the State law with respect to such service performed in its employ before the date of the enactment of this subsection, is not required to make any such payment (in lieu of contributions) on account of compensation paid after its election as heretofore described which is attributable under the State law to such service performed in its employ, until the total of such compensation equals the amount—
 
 &emsp;(1) by which the contributions paid by such organization (or group) on the basis of wages for such service with respect to a period before the election provided by section 3309(a)(2), exceed
 

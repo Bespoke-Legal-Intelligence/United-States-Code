@@ -10,7 +10,7 @@
 
 > and shall be merged with the funds already credited to that account and accounted for as one fund.
 
-(2) Balances of appropriations credited to an account under paragraph (1)(A) are subject onlyto such limitations as are specifically applicable to that account. Balances of appropriations credited to an account under paragraph (1)(B) are subject only to such limitations as are applicable to the appropriations from which they are transferred.
+(2) Balances of appropriations credited to an account under paragraph (1)(A) are subject only to such limitations as are specifically applicable to that account. Balances of appropriations credited to an account under paragraph (1)(B) are subject only to such limitations as are applicable to the appropriations from which they are transferred.
 
 #### (b) Personnel
 

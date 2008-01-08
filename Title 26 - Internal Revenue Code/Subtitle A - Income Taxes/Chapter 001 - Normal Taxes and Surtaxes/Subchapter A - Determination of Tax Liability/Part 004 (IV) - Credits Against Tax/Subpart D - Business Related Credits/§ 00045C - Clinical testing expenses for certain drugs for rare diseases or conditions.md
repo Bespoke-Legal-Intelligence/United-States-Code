@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (C) Exclusion for amounts funded by grants, etc.
 
-&emsp;&emsp;The term “qualified clinical testing expenses” shall not include any amount to the extent such amount is funded by any grant, contract, or otherwise by another person (or any governmental entity).
+&emsp;&emsp;The term “qualified clinical testing expenses” shall not include any amount to the extent such amount is funded by any grant,contract, or otherwise by another person (or any governmental entity).
 
 #### (D) Special rule
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (2) Expenses included in determining base period research expenses
 
-&emsp;Any qualified clinical testing expenses for any taxable year which are qualified research expenses (within the meaning of section 41(b))shall be taken into account in determining base period research expenses for purposes of applying section 41 to subsequent taxable years.
+&emsp;Any qualified clinical testing expenses for any taxable year which are qualified research expenses (within the meaning of section 41(b)) shall be taken into account in determining base period research expenses for purposes of applying section 41 to subsequent taxable years.
 
 #### (d) Definition and special rules
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 109–432 applicable to amounts paid or incurred after Dec.
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–311 applicable to amounts paid or incurred after June 30, 2004, see section 301(b) of Pub. L. 108–311, set out as a note under section 41 of this title.
+Amendment by Pub. L. 108–311 applicable to amounts paid or incurred after June 30, 2004, see section 301(b) ofPub. L. 108–311, set out as a note under section 41 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -238,7 +238,7 @@ Section 11402(c) of Pub. L. 101–508 provided that: “The amendments made by t
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1018(q)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1018(q)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 4008(c)(1) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1988, see section 4008(d) of Pub. L. 100–647, set out as a note under section 41 of this title.
 

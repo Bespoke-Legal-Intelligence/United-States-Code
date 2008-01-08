@@ -148,8 +148,9 @@
 | [7267\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007267%20-%20Annual%20report.md) | Annual report. |
 | [7268\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007268%20-%20Leasing%20report.md) | Leasing report. |
 | [7269\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007269%20-%20Transfer%20of%20funds.md) | Transfer of funds. |
-| [7269a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007269a%20-%20Transfer%20of%20funds%20between%20appropriations%20for%20Department%20of%20Energy%20activities.md) | Transfer of funds between appropriations for Department of Energy activities. |
+| [7269a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007269a%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93289%2C%20div.%20B%2C%20title%20II%2C%20%C2%A720319%2C%20as%20added%20Pub.%20L.%20110%E2%80%935%2C%20%C2%A72%2C%20Feb.%2015%2C%202007%2C%20121%20Stat.%2021.md) | Repealed. |
 | [7269b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007269b%20-%20Transfer%20of%20unexpended%20appropriation%20balances.md) | Transfer of unexpended appropriation balances. |
+| [7269c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007269c%20-%20Funding%20for%20Department%20of%20Energy%20activities%20not%20included%20in%20Fossil%20Energy%20account.md) | Funding for Department of Energy activities not included in Fossil Energy account. |
 | [7270\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [7270a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270a%20-%20Guards%20for%20Strategic%20Petroleum%20Reserve%20facilities.md) | Guards for Strategic Petroleum Reserve facilities. |
 | [7270b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270b%20-%20Trespass%20on%20Strategic%20Petroleum%20Reserve%20facilities.md) | Trespass on Strategic Petroleum Reserve facilities. |
@@ -249,12 +250,75 @@
 |  |  |
 | :--- | ---: |
 | [7381\.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/%C2%A7%2007381%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
-| [7381a.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/%C2%A7%2007381a%20-%20Science%20education%20programs.md) | Science education programs. |
-| [7381b.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/%C2%A7%2007381b%20-%20Laboratory%20cooperative%20science%20centers%20and%20other%20authorized%20education%20activities.md) | Laboratory cooperative science centers and other authorized education activities. |
-| [7381c.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/%C2%A7%2007381c%20-%20Education%20partnerships.md) | Education partnerships. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part A—Science Education Enhancement
+
+|  |  |
+| :--- | ---: |
+| [7381a.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20A%20-%20Science%20Education%20Enhancement/%C2%A7%2007381a%20-%20Science%20education%20programs.md) | Science education programs. |
+| [7381b.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20A%20-%20Science%20Education%20Enhancement/%C2%A7%2007381b%20-%20Laboratory%20cooperative%20science%20centers%20and%20other%20authorized%20education%20activities.md) | Laboratory cooperative science centers and other authorized education activities. |
+| [7381c.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20A%20-%20Science%20Education%20Enhancement/%C2%A7%2007381c%20-%20Education%20partnerships.md) | Education partnerships. |
 | 7381c–1. | Partnerships with historically Black colleges and universities, Hispanic-serving institutions, and tribal colleges. |
-| [7381d.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/%C2%A7%2007381d%20-%20Definitions.md) | Definitions. |
-| [7381e.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/%C2%A7%2007381e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [7381d.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20A%20-%20Science%20Education%20Enhancement/%C2%A7%2007381d%20-%20Definitions.md) | Definitions. |
+| [7381e.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20A%20-%20Science%20Education%20Enhancement/%C2%A7%2007381e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Science, Engineering, and Mathematics Education Programs
+
+|  |  |
+| :--- | ---: |
+| [7381g.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/%C2%A7%2007381g%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 1—pilot program of grants to specialty schools for science and mathematics
+
+|  |  |
+| :--- | ---: |
+| [7381h.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20001%20-%20Pilot%20Program%20of%20Grants%20to%20Specialty%20Schools%20for%20Science%20and%20Mathematics/%C2%A7%2007381h%20-%20Pilot%20program%20of%20grants%20to%20specialty%20schools%20for%20science%20and%20mathematics.md) | Pilot program of grants to specialty schools for science and mathematics. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 2—experiential-based learning opportunities
+
+|  |  |
+| :--- | ---: |
+| [7381j.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20002%20-%20Experiential-Based%20Learning%20Opportunities/%C2%A7%2007381j%20-%20Experiential-based%20learning%20opportunities.md) | Experiential-based learning opportunities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 3—national laboratories centers of excellence in science, technology, engineering, and mathematics education
+
+|  |  |
+| :--- | ---: |
+| 7381<i>l</i>. | National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 4—summer institutes
+
+|  |  |
+| :--- | ---: |
+| [7381n.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20004%20-%20Summer%20Institutes/%C2%A7%2007381n%20-%20Summer%20institutes.md) | Summer institutes. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 5—national energy education development
+
+|  |  |
+| :--- | ---: |
+| [7381p.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20005%20-%20National%20Energy%20Education%20Development/%C2%A7%2007381p%20-%20National%20energy%20education%20development.md) | National energy education development. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 6—administration
+
+|  |  |
+| :--- | ---: |
+| [7381r.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20006%20-%20Administration/%C2%A7%2007381r%20-%20Mentoring%20program.md) | Mentoring program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

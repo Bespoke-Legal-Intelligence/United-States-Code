@@ -20,7 +20,7 @@ The reporting requirements of this subchapter are in addition to and not in lieu
 
 #### (d) Classified portions of reports
 
-Any classified portions of the reports required by this chapter shall be submitted to the Senate Foreign Relations Committee and the House Foreign Affairs Committee.
+Any classified portions of the reports required by this chapter shall be submitted to the SenateForeign Relations Committee and the House Foreign Affairs Committee.
 
 #### (e) Omitted
 
@@ -56,8 +56,6 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
@@ -68,9 +66,9 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1134\], Nov. 29, 1
 
 “(a)
 
-Requirement to Provide Information.—The head of each department and agency described in section 602(c) of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c)) shall promptly provide information to the chairman and ranking minority member of the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives in meeting the requirements of subsection (c) or (d) of section 602 of such Act \[22 U.S.C. 3282(c), (d)\].
+Requirement to Provide Information.—The head of each department and agency described in section 602(c) of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c)) shall promptly provide information to the chairman and ranking minority member of the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives in meeting the requirements of subsection (c) or (d) of section 602 of such Act \[22 U.S.C. 3282(c), (d)\].
 
 “(b)
 
-Issuance of Directives.—Not later than February 1, 2000, the Secretary of State, the Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, the Director of Central Intelligence, and the Chairman of the Nuclear Regulatory Commission shall issue directives, which shall provide access to information, including information contained in special access programs, to implement their responsibilities under subsections (c) and (d) of section 602 of the NuclearNon-Proliferation Act of 1978 (22 U.S.C. 3282(c) and (d)). Copies of such directives shall be forwarded promptly to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives upon the issuance of the directives.”
+Issuance of Directives.—Not later than February 1, 2000, the Secretary of State, the Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, the Director of Central Intelligence, and the Chairman of the Nuclear Regulatory Commission shall issue directives, which shall provide access to information, including information contained in special access programs, to implement their responsibilities under subsections (c) and (d) of section 602 of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c) and (d)). Copies of such directives shall be forwarded promptly to the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives upon the issuance of the directives.”
 

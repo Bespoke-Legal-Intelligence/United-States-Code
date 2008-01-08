@@ -36,7 +36,7 @@ It is the policy of the United States not to provide nonhumanitarian, nontrade-r
 
 #### (A) Submission of list
 
-&emsp;&emsp;Not later than the date on which the determinations described in subsections (c)and (d) of this section are submitted to the appropriate congressional committees in accordance with such subsections, the Secretary of State shall submit to the appropriate congressional committees a list of countries that the Secretary determines requires special scrutiny during the following year. The list shall be composed of the following countries:
+&emsp;&emsp;Not later than the date on which the determinations described in subsections (c) and (d) of this section are submitted to the appropriate congressional committees in accordance with such subsections, the Secretary of State shall submit to the appropriate congressional committees a list of countries that the Secretary determines requires special scrutiny during the following year. The list shall be composed of the following countries:
 
 &emsp;&emsp;&emsp;(i) Countries that have been listed pursuant to paragraph (1)(A) in the current annual report and were listed pursuant to paragraph (1)(B) in the previous annual report.
 
@@ -138,7 +138,7 @@ After the President has made a determination described in subsection (d)(1) of t
 
 2003—Subsec. (b)(3), (4). Pub. L. 108–193, §6(e), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (d)(4). Pub. L. 108–193, §6(h)(1), inserted “or funding for participation in educational and cultural exchange programs” after “nonhumanitarian, nontrade-related foreign assistance”.
+Subsec. (d)(4). Pub. L. 108–193, §6(h)(1), inserted “or funding for participation in educational and culturalexchange programs” after “nonhumanitarian, nontrade-related foreign assistance”.
 
 Subsec. (d)(5)(A)(i). Pub. L. 108–193, §6(h)(2), inserted “or funding for participation in educational and cultural exchange programs” after “foreign assistance”.
 
@@ -146,35 +146,45 @@ Subsec. (f). Pub. L. 108–193, §6(i), added subsec. (f).
 
 #### Presidential Determination With Respect to Foreign Governments’ Efforts Regarding Trafficking in Persons
 
-Determination of President of the United States, No. 2006–25, Sept. 26, 2006, 71 F.R. 64431, provided:
+Determination of President of the United States, No. 2008–4, Oct. 18, 2007, 72 F.R. 61037, provided:
 
 Memorandum for the Secretary of State
 
 Consistent with section 110 of the Trafficking Victims Protection Act of 2000 (Division A of Public Law 106–386), as amended, (the “Act”), I hereby:
 
-• Make the determination provided in section 110(d)(1)(A)(i) of the Act, with respect to Burma, Venezuela, and Zimbabwe, not to provide certain funding for those countries’ governments for fiscal year 2007, until such government complies with the minimum standards or makes significant efforts to bring itself into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
+Make the determination provided in section 110(d)(1)(A)(i) of the Act, with respect to Burma, Syria, and Venezuela not to provide certain funding for those countries’ governments for Fiscal Year 2008, until such government complies with the minimum standards or makes significant efforts to bring itself into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
 
-• Make the determination provided in section 110(d)(1)(A)(ii) of the Act, with respect to Cuba, the Democratic People's Republic of Korea, Iran, and Syria, not to provide certain funding for those countries’ governments for fiscal year 2007, until such government complies with the minimum standards or makes significant efforts to bring itself into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
+Make the determination provided in section 110(d)(1)(A)(ii) of the Act, with respect to Cuba, the Democratic People's Republic of Korea (DPRK), and Iran not to provide certain funding for those countries’ governments for Fiscal Year 2008, until such government complies with the minimum standards or makes significant efforts to bring itself into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
 
-• Make the determination provided in section 110(d)(3) of the Act, concerning the determinations of the Secretary of State with respect to Belize and Laos;
+Make the determination provided in section 110(d)(3) of the Act, concerning the determination of the Secretary of State with respect to Equatorial Guinea and Kuwait.
 
-• Determine, consistent with section 110(d)(4) of the Act, with respect to Iran, that funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act that include educators, municipal leaders, religious leaders, journalists, economists, or sports or cultural figures would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Algeria, that provision to Algeria of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-• Determine, consistent with section 110(d)(4) of the Act, with respect to Saudi Arabia, that provision to Saudi Arabia of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Bahrain, that provision to Bahrain of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-• Determine, consistent with section 110(d)(4) of the Act, with respect to Sudan, that provision to Sudan of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to DPRK, that funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act that are aimed at improving U.S.-DPRK relations would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-• Determine, consistent with section 110(d)(4) of the Act, with respect to Syria, that funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act that include educators, municipal leaders, religious leaders, journalists, economists, or sports or cultural figures would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Iran, that funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act that include educators and municipal leaders would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-• Determine, consistent with section 110(d)(4) of the Act, with respect to Uzbekistan, that provision to Uzbekistan of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Malaysia, that provision to Malaysia of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-• Determine, consistent with section 110(d)(4) of the Act, with respect to Venezuela, for all programs, projects, or activities of assistance for victims of trafficking in persons or to combat such trafficking, or for strengthening the democratic process, including strengthening political parties and supporting electoral observation and monitoring and related programs, or for public diplomacy, that provision to Venezuela of the assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act for such programs, projects, or activities would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Oman, that provision to Oman of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-• Determine, consistent with section 110(d)(4) of the Act, with respect to Zimbabwe, for all programs, projects, or activities of assistance for victims of trafficking in persons or to combat such trafficking, for the promotion of health or good governance, or which would have a significant adverse effect on vulnerable populations if suspended, that provision to Zimbabwe of the assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act for such programs, projects, or activities would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Qatar, that provision to Qatar of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-• Determine, consistent with section 110(d)(4) of the Act, that assistance to Venezuela or Zimbabwe described in section 110(d)(1)(B) of the Act that:
+Determine, consistent with section 110(d)(4) of the Act, with respect to Saudi Arabia, that provision to Saudi Arabia of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-&emsp;(1) is a regional program, project, or activity under which the total benefit to Venezuela or Zimbabwe does not exceed 10 percent of the total value of such program, project, or activity; or
+Determine, consistent with section 110(d)(4) of the Act, with respect to Sudan, that provision to Sudan of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
+
+Determine, consistent with section 110(d)(4) of the Act, with respect to Syria, for all programs, projects, or activities of assistance for victims of trafficking in persons or to combat such trafficking, that provision to Syria of the assistance described in section 110(d)(1)(A)(i) of the Act for such programs, projects, or activities would promote the purposes of the Act or is otherwise in the national interest of the United States;
+
+Determine, consistent with section 110(d)(4) of the Act, with respect to Uzbekistan, that provision to Uzbekistan of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
+
+Determine, consistent with section 110(d)(4) of the Act, with respect to Venezuela, for all programs, projects, or activities of assistance for victims of trafficking in persons or to combat such trafficking, or for strengthening democracy or good governance, or for public diplomacy, that provision to Venezuela of the assistance described in sections 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act for such programs, projects, or activities would promote the purposes of the Act or is otherwise in the national interest of the United States;
+
+Determine, consistent with section 110(d)(4) of the Act, that assistance to Venezuela described in section 110(d)(1)(B) of the Act that:
+
+&emsp;(1) is a regional program, project, or activity under which the total benefit to Venezuela does not exceed 10 percent of the total value of such program, project, or activity; or
 
 &emsp;(2) has as its primary objective the addressing of basic human needs, as defined by the Department of the Treasury with respect to other, existing legislative mandates concerning U.S. participation in the multilateral development banks; or
 
@@ -182,17 +192,17 @@ Consistent with section 110 of the Trafficking Victims Protection Act of 2000 (D
 
 &emsp;(4) has as its primary objective the improvement of the country's legal system, including in areas that impact the country's ability to investigate and prosecute trafficking cases or otherwise improve implementation of a country's anti-trafficking policy, regulations, or legislation; or
 
-&emsp;(5) in \[sic\] engaging a government, international organization, or civil society organization, and that seeks as its primary objective(s) to: (a) increase efforts to investigate and prosecute trafficking in persons crimes; (b) increase protection for victims of trafficking through better screening, identification, rescue/removal, aftercare (shelter, counseling) training and reintegration; or (c) expand prevention efforts through education and awareness campaigns highlighting the dangers of trafficking or training and economic empowerment of populations clearly at risk of falling victim to trafficking
-
-would promote the purposes of the Act or is otherwise in the national interest of the United States.
+&emsp;(5) is engaging a government, international organization, or civil society organization, and that seeks as its primary objective(s) to: (a) increase efforts to investigate and prosecute trafficking in persons crimes; (b) increase protection for victims of trafficking through better screening, identification, rescue/removal, aftercare (shelter, counseling) training and reintegration; or (c) expand prevention efforts through education and awareness campaigns highlighting the dangers of trafficking or training and economic empowerment of populations clearly at risk of falling victim to trafficking would promote the purposes of the Act or is otherwise in the national interest of the United States.
 
 The certification required by section 110(e) of the Act is provided herewith.
 
-You are hereby authorized and directed to submit this determination to the Congress and to publish it in the Federal Register.
+You are hereby authorized and directed to submit this determination to the Congress, and to publish it in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior determinations and certifications regarding trafficking in persons were contained in the following:
+
+Determination of President of the United States, No. 2006–25, Sept. 26, 2006, 71 F.R. 64431.
 
 Determination of President of the United States, No. 2005–37, Sept. 21, 2005, 70 F.R. 57481.
 

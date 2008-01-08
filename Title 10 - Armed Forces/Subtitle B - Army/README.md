@@ -68,7 +68,6 @@
 | [<b>445.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20445%20-%20Disposition%20of%20Effects%20of%20Deceased%20Persons%3B%20Captured%20Flags/README.md) | <b>Disposition of Effects of Deceased Persons; Captured Flags</b> | <b>4712</b> |
 | [<b>447.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20447%20-%20Transportation/README.md) | <b>Transportation</b> | <b>4741</b> |
 | [<b>449.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20449%20-%20Real%20Property/README.md) | <b>Real Property</b> | <b>4771</b> |
-| Chap. |  | Sec. |
 | [<b>451.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20451%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>4801</b> |
 | [<b>453.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20453%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>4831</b> |
 

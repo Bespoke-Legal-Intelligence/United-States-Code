@@ -96,7 +96,7 @@ In the case of an installment obligation to which this section applies—
 
 &emsp;&emsp;(A) the total contract price, over
 
-&emsp;&emsp;(B) any portion of the total contract price received under the contract before the laterof the times referred to in subparagraph (A) or (B) of paragraph (1) (including amounts previously treated as received under paragraph (1) but not including amounts not taken into account by reason of paragraph (3)).
+&emsp;&emsp;(B) any portion of the total contract price received under the contract before the later of the times referred to in subparagraph (A) or (B) of paragraph (1) (including amounts previously treated as received under paragraph (1) but not including amounts not taken into account by reason of paragraph (3)).
 
 #### (3) Later payments treated as receipt of tax paid amounts
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 106–170 applicable to sales or other dispositions occurri
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13201(c)of Pub. L. 103–66, set out as a note under section 1 of this title.
+Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13201(c) of Pub. L. 103–66, set out as a note under section 1 of this title.
 
 #### Effective Date of 1989 Amendment
 

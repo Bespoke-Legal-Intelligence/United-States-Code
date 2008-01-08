@@ -34,7 +34,7 @@ Labor-management and employee relations of the Commission, other Executive agenc
 
 (4) In the case of a notice of agreement described in paragraph (2)(A) that is transmitted to the Congress as described in the second sentence of that paragraph after July 1, 1998, the impasse resolution procedures covered by that notice shall apply to any impasse between the Commission and the other party to the agreement that is unresolved on the date on which that notice is transmitted to the Congress.
 
-(Pub. L. 96–70, title I, §1271, Sept. 27, 1979, 93 Stat. 476; Pub. L. 103–160, div. C, title XXXV, §3505, Nov. 30, 1993, 107 Stat. 1966; Pub. L. 105–85, div. C, title XXXV, §3527, Nov. 18, 1997, 111 Stat. 2068.)
+(Pub. L. 96–70, title I, §1271, Sept. 27, 1979, 93 Stat. 476; Pub. L. 103–160, div. C, title XXXV,§3505, Nov. 30, 1993, 107 Stat. 1966; Pub. L. 105–85, div. C, title XXXV, §3527, Nov. 18, 1997, 111 Stat. 2068.)
 
 #### References in Text
 

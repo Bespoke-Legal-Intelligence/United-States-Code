@@ -54,7 +54,7 @@ The Secretary shall implement the revised standards established under this secti
 
 #### (B) Alternative standards
 
-&emsp;&emsp;The tribal governing body or school board involved shall, not later than 60 days afterproviding a waiver under subparagraph (A) for a school, submit to the Director a proposal for alternative standards that take into account the specific needs of the tribe's children. Such alternative standards shall be established by the Director for the school involved unless specifically rejected by the Director for good cause and in writing provided to the affected tribes or local school board.
+&emsp;&emsp;The tribal governing body or school board involved shall, not later than 60 days after providing a waiver under subparagraph (A) for a school, submit to the Director a proposal for alternative standards that take into account the specific needs of the tribe's children. Such alternative standards shall be established by the Director for the school involved unless specifically rejected by the Director for good cause and in writing provided to the affected tribes or local school board.
 
 #### (e) Closure for failure to meet standards prohibited
 

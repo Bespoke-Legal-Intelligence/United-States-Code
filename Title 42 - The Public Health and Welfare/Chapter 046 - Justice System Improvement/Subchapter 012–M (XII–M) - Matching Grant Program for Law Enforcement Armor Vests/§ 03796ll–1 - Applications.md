@@ -24,7 +24,7 @@ If an application under this section is submitted in conjunction with a transact
 
 #### References in Text
 
-The Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (c), is Pub. L. 105–119, Nov. 26, 1997, 111 Stat. 2440. Provisions under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance”, 111 Stat. 2452, are not classified to the Code.
+The Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (c), is Pub. L. 105–119, Nov. 26, 1997, 111 Stat. 2440. Provisions under the heading “Violent Crime Reduction Programs, State andLocal Law Enforcement Assistance”, 111 Stat. 2452, are not classified to the Code.
 
 #### Amendments
 

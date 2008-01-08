@@ -14,7 +14,7 @@
 
 #### (c) Postal Service Board of Contract Appeals
 
-There is established an agency board of contract appeals to be known as the “Postal Service Board of Contract Appeals”. Such board shall have jurisdiction to decide any appeal from a decision of a contracting officer of the UnitedStates Postal Service or the Postal Regulatory Commission relative to a contract made by either agency. Such board shall consist of judges appointed by the Postmaster General who shall meet the qualifications of and serve in the same manner as members of the Civilian Board of Contract Appeals. This chapter shall apply to contract disputes before the Postal Service Board of Contract Appeals in the same manner as they apply to contract disputes before the Civilian Board.
+There is established an agency board of contract appeals to be known as the “Postal Service Board of Contract Appeals”. Such board shall have jurisdiction to decide any appeal from a decision of a contracting officer of the United States Postal Service or the Postal Regulatory Commission relative to a contract made by either agency. Such board shall consist of judges appointed by the Postmaster General who shall meet the qualifications of and serve in the same manner as members of the Civilian Board of Contract Appeals. This chapter shall apply to contract disputes before the Postal Service Board of Contract Appeals in the same manner as they apply to contract disputes before the Civilian Board.
 
 #### (d) Jurisdiction
 
@@ -132,5 +132,5 @@ Savings provision.—(A) This section \[enacting section 438 of this title, amen
 
 “(e)
 
-References.—Any reference to an agency board of contract appeals other than the Armed ServicesBoard of Contract Appeals, the board of contract appeals of the Tennessee Valley Authority, or the Postal Service Board of Contract Appeals in any provision of law or in any rule, regulation, or other paper of the United States shall be treated as referring to the Civilian Board of Contract Appeals established under section 42 of the Office of Federal Procurement Policy Act \[41 U.S.C. 438\].”
+References.—Any reference to an agency board of contract appeals other than the Armed Services Board of Contract Appeals, the board of contract appeals of the Tennessee Valley Authority, or the Postal Service Board of Contract Appeals in any provision of law or in any rule, regulation, or other paper of the United States shall be treated as referring to the Civilian Board of Contract Appeals established under section 42 of the Office of Federal Procurement Policy Act \[41 U.S.C. 438\].”
 

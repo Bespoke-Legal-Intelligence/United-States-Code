@@ -32,7 +32,7 @@ The purposes of the Initiative are—
 
 #### (d) Technical areas
 
-To advance the objectives and purposes of the Initiative, the Secretary of Agriculture and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency and heads of other appropriate departments and agencies (referred to in this section as the “Secretaries”), shall direct research and development toward—
+To advance the objectives and purposes of the Initiative, the Secretary of Agriculture and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency and heads of other appropriate departments and agencies (referred to in this sectionas the “Secretaries”), shall direct research and development toward—
 
 &emsp;(1) feedstock production through the development of crops and cropping systems relevant to production of raw materials for conversion to biobased fuels and biobased products, including—
 
@@ -60,9 +60,13 @@ To advance the objectives and purposes of the Initiative, the Secretary of Agric
 
 &emsp;&emsp;(D) power production technologies; and
 
-&emsp;&emsp;(E) integration into existing biomass processing facilities, including starch ethanol plants, paper mills, and power plants; and
+&emsp;&emsp;(E) integration into existing biomass processing facilities, including starch ethanol plants, paper mills, and power plants;
 
-&emsp;(4) analysis that provides strategic guidance for the application of biomass technologies in accordance with realization of improved sustainability and environmental quality, cost effectiveness, security, and rural economic development, usually featuring system-wide approaches.
+&emsp;(4) analysis that provides strategic guidance for the application of biomass technologies in accordance with realization of improved sustainability and environmental quality, cost effectiveness, security, and rural economic development, usually featuring system-wide approaches;
+
+&emsp;(5) the improvement and development of analytical tools to facilitate the analysis of life-cycle energy and greenhouse gas emissions, including emissions related to direct and indirect land use changes, attributable to all potential biofuel feedstocks and production processes; and
+
+&emsp;(6) the systematic evaluation of the impact of expanded biofuel production on the environment, including forest lands, and on the food supply for humans and animals.
 
 #### (e) Additional considerations
 
@@ -70,9 +74,11 @@ Within the technical areas described in subsection (d), and in addition to advan
 
 &emsp;(1) to create continuously expanding opportunities for participants in existing biofuels production by seeking synergies and continuity with current technologies and practices, such as the use of dried distillers grains as a bridge feedstock;
 
-&emsp;(2) to maximize the environmental, economic, and social benefits of production of biobased fuels and biobased products on a large scale through life-cycle economic and environmental analysis and other means; and
+&emsp;(2) to maximize the environmental, economic, and social benefits of production of biobased fuels and biobased products on a large scale through life-cycle economic and environmental analysis and other means;
 
-&emsp;(3) to assess the potential of Federal land and land management programs as feedstock resources for biobased fuels and biobased products, consistent with the integrity of soil and water resources and with other environmental considerations.
+&emsp;(3) to assess the potential of Federal land and land management programs as feedstock resources for biobased fuels and biobased products, consistent with the integrity of soil and water resources and with other environmental considerations; and
+
+&emsp;(4) to facilitate small-scale production, local, and on-farm use of biofuels, including the development of small-scale gasification technologies for production of biofuel from cellulosic feedstocks.
 
 #### (f) Eligible entities
 
@@ -146,9 +152,13 @@ To be eligible for a grant, contract, or assistance under this section, an appli
 
 &emsp;The Administrator of the Cooperative State Research, Education, and Extension Service and the Chief of the Natural Resources Conservation Service shall ensure that applicable research results and technologies from the Initiative are adapted, made available, and disseminated through those services, as appropriate.
 
-(Pub. L. 106–224, title III, §307, June 20, 2000, 114 Stat. 433; Pub. L. 107–171, title IX, §9008(a)(1), May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201(a), Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941(e), Aug. 8, 2005, 119 Stat. 875.)
+(Pub. L. 106–224, title III, §307, June 20, 2000, 114 Stat. 433; Pub. L. 107–171, title IX, §9008(a)(1), May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201(a), Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941(e), Aug. 8, 2005, 119 Stat. 875; Pub. L. 110–140, title II, §232(b), (c), Dec. 19, 2007, 121 Stat. 1537.)
 
 #### Amendments
+
+2007—Subsec. (d)(5), (6). Pub. L. 110–140, §232(b), added pars. (5) and (6).
+
+Subsec. (e)(4). Pub. L. 110–140, §232(c), added par. (4).
 
 2005—Subsec. (a). Pub. L. 109–58, §941(e)(1), substituted “research on, and development and demonstration of, biobased fuels and biobased products, and the methods, practices and technologies, for their production” for “research on biobased industrial products”.
 
@@ -157,4 +167,8 @@ Subsecs. (b) to (g). Pub. L. 109–58, §941(e)(2), added subsecs. (b) to (g) an
 2003—Subsec. (d)(5). Pub. L. 108–148 added par. (5).
 
 2002—Subsec. (f). Pub. L. 107–171 struck out subsec. (f), which provided that in addition to funds appropriated for biomass research and development under the general authority of the Secretary of Energy to conduct research and development programs (which could also be used to carry out this chapter), there were authorized to be appropriated to the Department of Agriculture to carry out this chapter $49,000,000 for each of fiscal years 2000 through 2005.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

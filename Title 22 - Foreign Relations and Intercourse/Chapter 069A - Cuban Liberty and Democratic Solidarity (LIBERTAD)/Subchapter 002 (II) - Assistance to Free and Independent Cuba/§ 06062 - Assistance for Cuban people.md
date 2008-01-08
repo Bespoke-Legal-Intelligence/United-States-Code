@@ -104,7 +104,7 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 #### (2) Consultation
 
-&emsp;The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
+&emsp;The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding the policy andnegotiating objectives and the legislative proposals described in paragraph (1).
 
 (Pub. L. 104–114, title II, §202, Mar. 12, 1996, 110 Stat. 806.)
 

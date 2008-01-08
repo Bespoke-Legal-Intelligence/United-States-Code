@@ -66,7 +66,7 @@ By virtue of the authority vested in me by section 207 of the Independent Office
 
 Section 101.
 
-Definitions. As used in this Part, (a) the words “foreign areas” mean all areas exclusive of (1) the forty-eight states of the United States, (2) the District of Columbia, and (3) non-foreign areas as defined in section 201 of this order, and (b) the words “section 207 of the Act” mean section 207 of the Independent Offices Appropriation Act, 1949, approved April 20, 1948, Public Law 491, 80th Congress, as amended by section104 of the Supplemental Independent Offices Appropriation Act, 1949, approved June 30, 1948, Public Law 862, 80th Congress.
+Definitions. As used in this Part, (a) the words “foreign areas” mean all areas exclusive of (1) the forty-eight states of the United States, (2) the District of Columbia, and (3) non-foreign areas as defined in section 201 of this order, and (b) the words “section 207 of the Act” mean section 207 of the Independent Offices Appropriation Act, 1949, approved April 20, 1948, Public Law 491, 80th Congress, as amended by section 104 of the Supplemental Independent Offices Appropriation Act, 1949, approved June 30, 1948, Public Law 862, 80th Congress.
 
 Sec. 102.
 

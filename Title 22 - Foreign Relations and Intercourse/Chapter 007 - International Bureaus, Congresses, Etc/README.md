@@ -175,6 +175,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER II–E—UNITED STATES SENATE-JAPAN INTERPARLIAMENTARY GROUP
+
+|  |  |
+| :--- | ---: |
+| [276p.](Subchapter%20002%E2%80%93E%20%28II%E2%80%93E%29%20-%20United%20States%20Senate-Japan%20Interparliamentary%20Group/%C2%A7%2000276p%20-%20United%20States%20Senate-Japan%20Interparliamentary%20Group.md) | United States Senate-Japan Interparliamentary Group. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER III—KERMIT ROOSEVELT FUND
 
 |  |  |
@@ -375,6 +383,7 @@
 | 283z–8. | Increase in lending to Caribbean. |
 | 283z–9. | Multilateral Investment Fund. |
 | 283z–10. | Focus on low-income areas of Latin America and Caribbean. |
+| 283z–11. | First replenishment of the resources of the Enterprise for the Americas Multilateral Investment Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -915,6 +924,7 @@
 - [Subchapter 002&#8211;B (II&#8211;B) - United States Delegation to Parliamentary Assembly of Conference on Security and Cooperation in Europe (CSCE)](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20United%20States%20Delegation%20to%20Parliamentary%20Assembly%20of%20Conference%20on%20Security%20and%20Cooperation%20in%20Europe%20%28CSCE%29/README.md)
 - [Subchapter 002&#8211;C (II&#8211;C) - United States Senate-China Interparliamentary Group](Subchapter%20002%E2%80%93C%20%28II%E2%80%93C%29%20-%20United%20States%20Senate-China%20Interparliamentary%20Group/README.md)
 - [Subchapter 002&#8211;D (II&#8211;D) - United States Senate-Russia Interparliamentary Group](Subchapter%20002%E2%80%93D%20%28II%E2%80%93D%29%20-%20United%20States%20Senate-Russia%20Interparliamentary%20Group/README.md)
+- [Subchapter 002&#8211;E (II&#8211;E) - United States Senate-Japan Interparliamentary Group](Subchapter%20002%E2%80%93E%20%28II%E2%80%93E%29%20-%20United%20States%20Senate-Japan%20Interparliamentary%20Group/README.md)
 - [Subchapter 003 (III) - Kermit Roosevelt Fund](Subchapter%20003%20%28III%29%20-%20Kermit%20Roosevelt%20Fund/README.md)
 - [Subchapter 004 (IV) - International Boundary and Water Commission](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/README.md)
 - [Subchapter 005 (V) - Gorgas Memorial Laboratory](Subchapter%20005%20%28V%29%20-%20Gorgas%20Memorial%20Laboratory/README.md)

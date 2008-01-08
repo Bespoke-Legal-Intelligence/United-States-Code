@@ -12,7 +12,7 @@ Limited Waiver of Strength Limitations.—Under regulations prescribed by the Se
 
 Coast Guard.—This section shall apply to the Coast Guard in the same manner and to the same extent as it applies to the Department of Defense. The Secretary of Homeland Security shall prescribe regulations to implement this section for the Coast Guard.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 102–484, div. A, title V, §514, Oct. 23, 1992, 106 Stat. 2406; Pub. L. 103–160, div. A, title V, §561(j), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(9), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(p), Oct. 17, 1998, 112 Stat. 2027; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(<i>o</i>)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 102–484, div. A, title V, §514, Oct. 23, 1992, 106 Stat. 2406; Pub. L. 103–160, div. A, title V, §561(j), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(9), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(p), Oct. 17, 1998, 112 Stat. 2027; Pub. L. 106–398, §1 \[\[div. A\],title V, §571(<i>o</i>)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 

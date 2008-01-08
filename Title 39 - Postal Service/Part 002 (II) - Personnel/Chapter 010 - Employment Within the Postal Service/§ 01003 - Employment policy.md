@@ -12,7 +12,7 @@
 
 #### References in Text
 
-Sections 8G and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (b), are sections 8G and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 8G and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (b), are sections 8Gand 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

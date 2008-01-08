@@ -184,7 +184,7 @@ Post-Testing Procedures; Motion for New Trial or Resentencing.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any law that would bar a motion under this paragraph as untimely, if DNA test results obtained under this section exclude the applicant as the source of the DNA evidence, the applicant may file a motion for a new trial or resentencing,as appropriate. The court shall establish a reasonable schedule for the applicant to file such a motion and for the Government to respond to the motion.
+In general.—Notwithstanding any law that would bar a motion under this paragraph as untimely, if DNA test results obtained under this section exclude the applicant as the source of the DNA evidence, the applicant may file a motion for a new trial or resentencing, as appropriate. The court shall establish a reasonable schedule for the applicant to file such a motion and for the Government to respond to the motion.
 
 &emsp;(2)
 

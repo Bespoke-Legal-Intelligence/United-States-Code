@@ -12,7 +12,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (2) Qualified HUD properties
 
-&emsp;For purposes of this subsection, the term “qualified HUD property” means any property for which, as of the date that notification of the property is first made under paragraph\(3)(B), not less than 6 months have elapsed since the later of the date that the property was acquired by the Secretary or the date that the property was determined to be unoccupied or substandard, that is owned by the Secretary and is—
+&emsp;For purposes of this subsection, the term “qualified HUD property” means any property for which, as of the date that notification of the property is first made under paragraph (3)(B), not less than 6 months have elapsed since the later of the date that the property was acquired by the Secretary or the date that the property was determined to be unoccupied or substandard, that is owned by the Secretary and is—
 
 &emsp;&emsp;(A) an unoccupied multifamily housing project;
 
@@ -154,7 +154,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 &emsp;&emsp;Not later than 60 days after December 21, 2000, the Secretary shall issue such final regulations as are necessary to carry out this subsection.
 
-(Pub. L. 104–204, title II, §204, Sept. 26, 1996, 110 Stat. 2894; Pub. L. 105–65, title II, §213, Oct. 27, 1997, 111 Stat. 1366; Pub. L. 105–276, title II, §206, Oct. 21, 1998, 112 Stat. 2484; Pub. L. 106–74, title V, §537, Oct. 20, 1999, 113 Stat. 1122; Pub. L. 106–377, §1(a)(1) \[title II, §204\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24; Pub. L. 106–554, §1(a)(7) \[title I, §141\], Dec. 21, 2000, 114 Stat. 2763, 2763A–614; Pub. L. 109–171, title II, §2003(a), Feb. 8, 2006, 120 Stat. 9.)
+(Pub. L. 104–204, title II, §204, Sept. 26, 1996, 110 Stat. 2894; Pub. L. 105–65, title II, §213, Oct. 27, 1997, 111 Stat. 1366; Pub. L. 105–276, title II, §206, Oct. 21, 1998, 112 Stat. 2484; Pub. L. 106–74, title V, §537, Oct. 20, 1999, 113 Stat. 1122; Pub. L. 106–377, §1(a)(1) \[title II, §204\], Oct. 27, 2000, 114Stat. 1441, 1441A–24; Pub. L. 106–554, §1(a)(7) \[title I, §141\], Dec. 21, 2000, 114 Stat. 2763, 2763A–614; Pub. L. 109–171, title II, §2003(a), Feb. 8, 2006, 120 Stat. 9.)
 
 #### Codification
 

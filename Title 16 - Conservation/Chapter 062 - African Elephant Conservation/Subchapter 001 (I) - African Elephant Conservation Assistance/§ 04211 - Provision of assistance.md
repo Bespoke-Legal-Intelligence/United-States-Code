@@ -22,7 +22,7 @@ Any African government agency responsible for African elephant conservation and 
 
 #### (c) Project review and approval
 
-The Secretary shall review each project proposal to determine if it meets the criteria set forth in subsection (d) of this section and otherwise merits assistance under this chapter. Not later than six months after receiving a projectproposal, and subject to the availability of funds, the Secretary shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal and to each country within which the project is proposed to be conducted.
+The Secretary shall review each project proposal to determine if it meets the criteria set forth in subsection (d) of this section and otherwise merits assistance under this chapter. Not later than six months after receiving a project proposal, and subject to the availability of funds, the Secretary shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal.
 
 #### (d) Criteria for approval
 
@@ -46,9 +46,11 @@ To the maximum extent practical, in determining whether to approve project propo
 
 Each entity that receives assistance under this section shall provide such periodic reports to the Director of the United States Fish and Wildlife Service as the Director considers relevant and appropriate. Each report shall include all information requested by the Director for evaluating the progress and success of the project.
 
-(Pub. L. 100–478, title II, §2101, Oct. 7, 1988, 102 Stat. 2316; Pub. L. 107–111, §§5, 6(a)(1), Jan. 8, 2002, 115 Stat. 2096.)
+(Pub. L. 100–478, title II, §2101, Oct. 7, 1988, 102 Stat. 2316; Pub. L. 107–111, §§5, 6(a)(1), Jan. 8, 2002, 115 Stat. 2096; Pub. L. 110–132, §2(a), Dec. 6, 2007, 121 Stat. 1360.)
 
 #### Amendments
+
+2007—Subsec. (c). Pub. L. 110–132, struck out “and to each country within which the project is proposed to be conducted” before period at end in second sentence.
 
 2002—Subsec. (a). Pub. L. 107–111, §6(a)(1), struck out “African Elephant Conservation” before “Fund”.
 

@@ -28,7 +28,7 @@
 
 (f) When a vacancy occurs in an office within the Department of Defense and the office is to be filled by a person appointed from civilian life by the President, by and with the advice and consent of the Senate, the Secretary of Defense shall inform the President of the qualifications needed by a person serving in that office to carry out effectively the duties and responsibilities of that office.
 
-(g)(1) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the heads of Department of Defense components written policy guidance for the preparation and review of the program recommendations and budget proposals of their respective components. Such guidance shall include guidance on—
+(g)(1) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to theheads of Department of Defense components written policy guidance for the preparation and review of the program recommendations and budget proposals of their respective components. Such guidance shall include guidance on—
 
 &emsp;(A) national security objectives and policies;
 
@@ -82,7 +82,7 @@
 
 (m)
 
-Information To Accompany Funding Request for Contingency Operation.—Whenever the President submits to Congress a request for appropriations for costs associated with a contingency operation that involves, or likely will involve, the deployment of more than 500 members of the armed forces, the Secretary of Defense shall submit to Congress a report on the objectives of the operation. The report shall include a discussion of the following:
+Information To Accompany Funding Request for Contingency Operation.—Wheneverthe President submits to Congress a request for appropriations for costs associated with a contingency operation that involves, or likely will involve, the deployment of more than 500 members of the armed forces, the Secretary of Defense shall submit to Congress a report on the objectives of the operation. The report shall include a discussion of the following:
 
 &emsp;(1) What clear and distinct objectives guide the activities of United States forces in the operation.
 
@@ -392,7 +392,7 @@ Pub. L. 109–364, div. A, title XIV, §1406, Oct. 17, 2006, 120 Stat. 2436, pro
 
 &emsp;“(1) The types of emergency response capabilities that each State's National Guard, as reported by the States, may be able to provide in response to a domestic natural or manmade disaster, both to their home States and under State-to-State mutual assistance agreements.
 
-&emsp;“(2) The types of emergency response capabilities that the Department of Defense may be able to provide in support of the National Response Plan'sEmergency Support Functions, and identification of the units that provide these capabilities.”
+&emsp;“(2) The types of emergency response capabilities that the Department of Defense may be able to provide in support of the National Response Plan's Emergency Support Functions, and identification of the units that provide these capabilities.”
 
 #### Report Regarding Effect on Military Readiness of Undocumented Immigrants Trespassing Upon Operational Ranges
 
@@ -516,7 +516,7 @@ Comprehensive Policy.—
 
 &emsp;“(1)
 
-Policy required.—Not later than June 1, 2006, the Secretary of Defense shall prescribe a comprehensive policy for the Department of Defense on the provision of assistance to members of the Armed Forceswho incur severe wounds or injuries in the line of duty (in this section referred to as ‘severely wounded or injured servicemembers’).
+Policy required.—Not later than June 1, 2006, the Secretary of Defense shall prescribe a comprehensive policy for the Department of Defense on the provision of assistance to members of the Armed Forces who incur severe wounds or injuries in the line of duty (in this section referred to as ‘severely wounded or injured servicemembers’).
 
 &emsp;“(2)
 
@@ -714,7 +714,7 @@ Specified committees.—The committees specified in this paragraph are—
 
 &emsp;&emsp;“(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
 
-&emsp;&emsp;“(B) the Committee on Armed Services, the Committee on International Relations, and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;“(B) the Committee on Armed Services, the Committee on International Relations \[now Committee on Foreign Affairs\], and the Committee on Appropriations of the House of Representatives.
 
 “(b)
 
@@ -1596,7 +1596,7 @@ Annual Report on Reliability.—(1) Not later than September 30 of each year but
 
 &emsp;“(A) The Committee on Armed Services and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate.
 
-&emsp;“(B) The Committee on Armed Services and the Committee on Government Reform of the House of Representatives.
+&emsp;“(B) The Committee on Armed Services and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives.
 
 &emsp;“(C) The Director of the Office of Management and Budget.
 
@@ -1900,7 +1900,7 @@ Pub. L. 106–65, div. A, title V, §581, Oct. 5, 1999, 113 Stat. 633, directed 
 
 #### Annual Report on United States Military Activities in Colombia
 
-Pub. L. 106–65, div. A, title X, §1025, Oct. 5, 1999, 113 Stat. 748, provided that: “Not later than January 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives a report detailing the number of members of the United States Armed Forces deployed or otherwise assigned to duty in Colombia at any time during the preceding year, the length and purpose of the deployment or assignment, and the costs and force protection risks associated with such deployments and assignments.”
+Pub. L. 106–65, div. A, title X, §1025, Oct. 5, 1999, 113 Stat. 748, provided that: “Not later than January 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives a report detailing the number of members of the United States Armed Forces deployed or otherwise assigned to duty in Colombia at any time during the preceding year, the length and purpose of the deployment or assignment, and the costs and force protection risks associated with such deployments and assignments.”
 
 #### Report on NATO Defense Capabilities Initiative
 
@@ -1944,7 +1944,7 @@ Specified Congressional Committees.—For purposes of this section, the term ‘
 
 &emsp;“(1) The Committee on Armed Services and the Committee on Foreign Relations of the Senate.
 
-&emsp;“(2) The Committee on Armed Services and the Committee on International Relations of the House of Representatives.
+&emsp;“(2) The Committee on Armed Services and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
 
 “(d)
 
@@ -2044,7 +2044,7 @@ Pub. L. 105–261, div. A, title IX, §915(b), Oct. 17, 1998, 112 Stat. 2102, di
 
 #### Program To Investigate Fraud, Waste, and Abuse Within Department of Defense
 
-Section 392 of Pub. L. 105–85, as amended by Pub. L. 105–261, div. A, title III, §374, Oct. 17, 1998, 112 Stat. 1992, provided that: “The Secretary of Defense shall maintain a specific coordinated program for the investigation of evidence of fraud, waste, and abuse within the Department of Defense, particularly fraud, waste, and abuse regarding finance and accounting matters and any fraud, waste, and abuse occurring in connection with overpayments made to vendors by the Departmentof Defense, including overpayments identified under section 354 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. 2461 note).”
+Section 392 of Pub. L. 105–85, as amended by Pub. L. 105–261, div. A, title III, §374, Oct. 17, 1998, 112 Stat. 1992, provided that: “The Secretary of Defense shall maintain a specific coordinated program for the investigation of evidence of fraud, waste, and abuse within theDepartment of Defense, particularly fraud, waste, and abuse regarding finance and accounting matters and any fraud, waste, and abuse occurring in connection with overpayments made to vendors by the Department of Defense, including overpayments identified under section 354 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. 2461 note).”
 
 #### Commission on Military Training and Gender-Related Issues
 
@@ -2134,7 +2134,7 @@ Report on Antiterrorism Activities of the Department of Defense and Protection o
 
 &emsp;“(4) A detailed description of the roles of the Office of the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, the Secretaries of the military departments, and the combatant commanders in providing guidance and support with respect to the protection of members of the Armed Forces deployed overseas against terrorist attack (both before and after the November 1995 bombing in Riyadh, Saudi Arabia) and how these roles have changed since the June 25, 1996, terrorist bombing at Khobar Towers in Dhahran, Saudi Arabia.
 
-&emsp;“(5) A description of the actions taken by the Secretary of Defense under subsections (a), (b), and (c) to provide adequate troop protection equipment for units of the Armed Forces engaged in a peace operation.”
+&emsp;“(5) A description of the actions taken by the Secretary of Defense under subsections (a), (b), and (c) to provide adequate troop protection equipment forunits of the Armed Forces engaged in a peace operation.”
 
 #### Study of Investigative Practices of Military Criminal Investigative Organizations Relating to Sex Crimes
 
@@ -2214,7 +2214,7 @@ Section 571(a), (b) of Pub. L. 104–201 provided that:
 
 “(a)
 
-Human Relations Training.—(1) The Secretary of Defense shall ensure that the Secretary of each military department conducts ongoing programs for human relations training for all members of the Armed Forces under the jurisdiction of the Secretary. Matters to be covered by such training include race relations, equal opportunity, opposition to gender discrimination, andsensitivity to ‘hate group’ activity. Such training shall be provided during basic training (or other initial military training) and on a regular basis thereafter.
+Human Relations Training.—(1) The Secretary of Defense shall ensure that the Secretary of each military department conducts ongoing programs for human relations training for all members of the Armed Forces under the jurisdiction of the Secretary. Matters to be covered by such training include race relations, equal opportunity, opposition to gender discrimination, and sensitivity to ‘hate group’ activity. Such training shall be provided during basic training (or other initial military training) and on a regular basis thereafter.
 
 “(2) The Secretary of Defense shall also ensure that unit commanders are aware of their responsibilities in ensuring that impermissible activity based upon discriminatory motives does not occur in units under their command.
 
@@ -2488,7 +2488,7 @@ Data To Be Collected.—Each annual report under subsection (a) shall include th
 
 &emsp;“(1) The numbers of members of the Armed Forces temporarily and permanently nondeployable and rates of temporary and permanent nondeployability, displayed by cause of nondeployability, rank, and gender.
 
-&emsp;“(2) The numbers and rates of complaints and allegations within the Armed Forces that involve gender and other unlawful discrimination and sexual harassment, and the rates of substantiation for those complaints and allegations.
+&emsp;“(2) The numbers and rates of complaints and allegations within the Armed Forces that involve genderand other unlawful discrimination and sexual harassment, and the rates of substantiation for those complaints and allegations.
 
 &emsp;“(3) The numbers and rates of disciplinary proceedings, displayed (A) by offense or infraction committed, (B) by gender, rank, and race, and (C) by the categories specified in paragraph (2).
 
@@ -2598,9 +2598,11 @@ Definitions.—For purposes of this section:
 
 #### Plan Requiring Disbursing Officials of Department of Defense To Match Disbursements to Particular Obligations
 
-Pub. L. 109–289, div. A, title VIII, §8074, Sept. 29, 2006, 120 Stat. 1291, provided that: “Section 8106 of the Department of Defense Appropriations Act, 1997 (titles I through VIII of the matter under subsection 101(b) of Public Law 104–208; 110 Stat. 3009–111; 10 U.S.C. 113 note)shall continue in effect to apply to disbursements that are made by the Department of Defense in fiscal year 2007.”
+Pub. L. 110–116, div. A, title VIII, §8076, Nov. 13, 2007, 121 Stat. 1332, provided that: “Section 8106 of the Department of Defense Appropriations Act, 1997 (titles I through VIII of the matter under subsection 101(b) of Public Law 104–208; 110 Stat. 3009–111; 10 U.S.C. 113 note) shall continue in effect to apply to disbursements that are made by the Department of Defense in fiscal year 2008.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–289, div. A, title VIII, §8074, Sept. 29, 2006, 120 Stat. 1291.
 
 Pub. L. 109–148, div. A, title VIII, §8083, Dec. 30, 2005, 119 Stat. 2717.
 
@@ -2717,8 +2719,6 @@ Pub. L. 102–484, div. A, title VI, §653(d), Oct. 23, 1992, 106 Stat. 2429, di
 #### Survivor Notification and Access to Reports Relating to Service Members Who Die
 
 Pub. L. 102–484, div. A, title X, §1072, Oct. 23, 1992, 106 Stat. 2508, provided that:
-
-z
 
 “(a)
 
@@ -2918,7 +2918,7 @@ Duties.—The center should be organized and provided with such personnel as nec
 
 #### Reports on Foreign Contributions and Costs of Operation Desert Storm
 
-Pub. L. 102–25, title IV, Apr. 6, 1991, 105 Stat. 99, directed Director of Office of Management and Budget to submit to Congress a number of reports on incremental costs associated with Operation Desert Storm and amounts of contributions made to United States by foreign countries to offset those costs, with a final report due not later than Nov. 15, 1992, and directed Secretaryof State and Secretary of the Treasury to jointly submit to Congress a number of reports on contributions made by foreign countries as part of international response to Persian Gulf crisis, with a final report due not later than Nov. 15, 1992.
+Pub. L. 102–25, title IV, Apr. 6, 1991, 105 Stat. 99, directed Director of Office of Management and Budget to submit to Congress a number of reports on incremental costs associated with Operation Desert Storm and amounts of contributions made to United States by foreign countries to offset those costs, with a final report due not later than Nov. 15, 1992, and directed Secretary of State and Secretary of the Treasury to jointly submit to Congress a number of reports on contributions made by foreign countries as part of international response to Persian Gulf crisis, with a final report due not later than Nov. 15, 1992.
 
 #### Child Care Assistance to Families of Members Serving on Active Duty During Persian Gulf Conflict
 
@@ -3006,7 +3006,7 @@ Sense of Congress on Allied Burden Sharing.—(1) Congress recognizes that Japan
 
 “(d)
 
-Negotiations.—At the earliest possible date after the date of the enactment of this Act \[Nov. 5, 1990\], the President shall enter into negotiations with Japan for the purpose of achieving an agreement before September 30, 1991, under which Japan offsets all direct costs (other than pay and allowances for United States military and civilian personnel) incurred by the United States related to the presence of all United States military personnel stationed in Japan.
+Negotiations.—At the earliest possible date after the date of the enactment of this Act \[Nov. 5,1990\], the President shall enter into negotiations with Japan for the purpose of achieving an agreement before September 30, 1991, under which Japan offsets all direct costs (other than pay and allowances for United States military and civilian personnel) incurred by the United States related to the presence of all United States military personnel stationed in Japan.
 
 “(e)
 
@@ -3066,11 +3066,11 @@ Pub. L. 100–463, title VIII, §8125, Oct. 1, 1988, 102 Stat. 2270–41, as ame
 
 “(e) Not later than May 1, 1989, the Secretary of Defense shall submit to the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives a report that sets forth the total costs required to support the dependents who accompany Department of Defense personnel assigned to permanent duty overseas.
 
-“(f) As of September 30 of each fiscal year, the number of members of the Armed Forces on active duty assigned to permanent duty ashore in Japan and the Republic of Korea may not exceed 94,450 (the number of members of the Armed Forces on active duty assigned to permanent duty ashore in Japan and the Republic of Korea on September 30, 1987). The limitation in the preceding sentence may be increased if and when (1) a major reduction of United States forces in the Republic of the Philippines is required because of a loss of basing rights in that nation, and (2) the President determines and certifies to Congress that, as a consequence of such loss, an increase in United States forces stationed in Japan and the Republic of Korea is necessary.
+“(f) As of September 30 of each fiscal year, the number of members of the Armed Forces on active duty assigned to permanent duty ashore in Japan and the Republic of Korea may not exceed 94,450 (the number of members of the Armed Forces on active duty assigned to permanent duty ashore in Japan and the Republic of Korea on September 30, 1987). The limitation in the preceding sentence may be increased if and when (1) a major reduction of United States forces in the Republic of the Philippines is required because of a loss of basingrights in that nation, and (2) the President determines and certifies to Congress that, as a consequence of such loss, an increase in United States forces stationed in Japan and the Republic of Korea is necessary.
 
 “(g)(1) After fiscal year 1990, budget submissions to Congress under section 1105 of title 31, United States Code, shall identify funds requested for Department of Defense personnel and units in permanent duty stations ashore outside the United States that exceed the amount of such costs incurred in fiscal year 1989 and shall set forth a detailed description of (A) the types of expenditures increased, by appropriation account, activity and program; and (B) specific efforts to obtain allied host nations’ financing for these cost increases.
 
-“(2) The Secretary of Defense shall notify in advance the Committee on Appropriations and the Committee on Armed Services of the Senate and the Committee on Appropriations and the Committee on Armed Servicesof the House of Representatives, through existing notification procedures, when costs of maintaining Department of Defense personnel and units in permanent duty stations ashore outside the United States will exceed the amounts as defined in the Department of Defense budget as enacted for that fiscal year. Such notification shall describe: (A) the type of expenditures that increased; and (B) the source of funds (including prior year unobligated balances) by appropriation account, activity and program, proposed to finance these costs.
+“(2) The Secretary of Defense shall notify in advance the Committee on Appropriations and the Committee on Armed Services of the Senate and the Committee on Appropriations and the Committee on Armed Services of the House of Representatives, through existing notification procedures, when costs of maintaining Department of Defense personnel and units in permanent duty stations ashore outside the United States will exceed the amounts as defined in the Department of Defense budget as enacted for that fiscal year. Such notification shall describe: (A) the type of expenditures that increased; and (B) the source of funds (including prior year unobligated balances) by appropriation account, activity and program, proposed to finance these costs.
 
 “(3) In computing the costs incurred for maintaining Department of Defense personnel and forces in permanent duty stations ashore outside the United States compared with the amount of such costs incurred in fiscal year 1989, the Secretary shall—
 
@@ -3122,11 +3122,11 @@ Pub. L. 99–433, title IV, §405, Oct. 1, 1986, 100 Stat. 1032, required the Se
 
 #### Initial Report to Congress
 
-Pub. L. 99–433, title IV, §406(g), Oct. 1, 1986, 100 Stat. 1034, required that the first report submitted by the Secretary of Defense under subsec. (c) of this section after Oct. 1, 1986, would contain as much of the information required by section 667 of this title as had been available to the Secretary at the time of its preparation.
+Pub. L. 99–433, title IV, §406(g), Oct. 1, 1986, 100 Stat. 1034, required that the first report submitted by theSecretary of Defense under subsec. (c) of this section after Oct. 1, 1986, would contain as much of the information required by section 667 of this title as had been available to the Secretary at the time of its preparation.
 
 #### Security at Military Bases Abroad
 
-Pub. L. 99–399, title XI, Aug. 27, 1986, 100 Stat. 894, directed the Secretary of Defense to report to Congress not later than June 30, 1987, on actions taken to review the security of each base and installation of the Department of Defense outside the United States, to improve the security of such bases and installations, and to institute a training program for members of theArmed Forces stationed outside the United States and their families concerning security and antiterrorism.
+Pub. L. 99–399, title XI, Aug. 27, 1986, 100 Stat. 894, directed the Secretary of Defense to report to Congress not later than June 30, 1987, on actions taken to review the security of each base and installation of the Department of Defense outside the United States, to improve the security of such bases and installations, and to institute a training program for members of the Armed Forces stationed outside the United States and their families concerning security and antiterrorism.
 
 #### Surcharge for Sales by Animal Disease Prevention and Control Centers; Fee for Veterinary Services
 
@@ -3184,7 +3184,7 @@ Pub. L. 99–145, title XII, §1212, Nov. 8, 1985, 99 Stat. 726, as amended by P
 
 &emsp;“(i) on the basis of the solicitation as issued before the date of the enactment of this paragraph;
 
-&emsp;“(ii) on the basis of the solicitation issued before the date of the enactment of this paragraph modified so as to conform to any changes in policies and procedures the Secretary determines should be made as a result of the study required under paragraph (1); or
+&emsp;“(ii) on the basis of the solicitation issued before the date of the enactment of this paragraph modifiedso as to conform to any changes in policies and procedures the Secretary determines should be made as a result of the study required under paragraph (1); or
 
 &emsp;“(iii) on the basis of a new solicitation.
 
@@ -3240,7 +3240,7 @@ Ex. Ord. No. 12765, June 11, 1991, 56 F.R. 27401, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, and my authority as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
-Section 1. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by section 749 of title 10 of the United States Code to assign the command without regard to rank in grade to any commissioned officer otherwise eligible to command when two or more commissioned officers of the same grade or corresponding grades are assigned to the same area, field command, or organization.
+Section 1. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise theauthority vested in the President by section 749 of title 10 of the United States Code to assign the command without regard to rank in grade to any commissioned officer otherwise eligible to command when two or more commissioned officers of the same grade or corresponding grades are assigned to the same area, field command, or organization.
 
 Sec. 2. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by section 7299a(a) of title 10 of the United States Code to direct that combatant vessels and escort vessels be constructed in a Navy or private yard, as the case may be, if the requirement of the Act of March 27, 1934 (ch. 95, 48 Stat. 503) that the first and each succeeding alternate vessel of the same class be constructed in a Navy yard is inconsistent with the public interest.
 

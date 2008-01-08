@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 96–221, §612(a)(5), inserted “information, forms, and�
 
 Subsec. (e). Pub. L. 96–221, §612(a)(6), substituted provisions relating to nonapplicability to residential mortgage transactions, refinancing or consolidation transactions, etc., for provisions relating to nonapplicability to creation or retention of first liens.
 
-Subsec. (f). Pub. L. 96–221, §612(a)(6), substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescission where the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
+Subsec. (f). Pub. L. 96–221, §612(a)(6), substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescissionwhere the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
 
 Subsec. (g). Pub. L. 96–221, §612(a)(6), added subsec. (g).
 

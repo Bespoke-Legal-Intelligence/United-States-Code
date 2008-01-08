@@ -32,7 +32,7 @@ The research program established under this subpart shall encompass the social, 
 
 &emsp;(4) secure from time to time and for such periods as he deems advisable, the assistance and advice of experts, scholars, and consultants from the United States or abroad;
 
-&emsp;(5) promote the coordination of research programs conducted by the Institute, and similar programs conducted by the National Institute of Drug Abuse and by other departments, agencies, organizations, and individuals, including all National Institutes of Health research activities which are or may be related to the problems of individuals suffering from alcoholism or alcohol abuse or those of their families or the impact of alcohol abuse on other health problems;
+&emsp;(5) promote the coordination of research programs conducted by the Institute, and similar programs conducted by the National Instituteof Drug Abuse and by other departments, agencies, organizations, and individuals, including all National Institutes of Health research activities which are or may be related to the problems of individuals suffering from alcoholism or alcohol abuse or those of their families or the impact of alcohol abuse on other health problems;
 
 &emsp;(6) conduct an intramural program of biomedical, behavioral, epidemiological, and social research, including research into the most effective means of treatment and service delivery, and including research involving human subjects, which is—
 
@@ -94,7 +94,7 @@ Pub. L. 103–43, title XX, §2016(b), June 10, 1993, 107 Stat. 218, provided th
 
 #### Study on Fetal Alcohol Effect and Fetal Alcohol Syndrome
 
-Section 705 of Pub. L. 102–321 directed Secretary of Health and Human Services to enter into a contract with a public or nonprofit private entity to conduct a study on the prevalence of fetal alcohol effect and fetal alcohol syndrome in the general population of the United States and on the adequacy of Federal efforts to reduce the incidence of such conditions (including efforts regarding appropriate training for health care providers in identifying such effect or syndrome), and to ensure that a report outlining this study be submitted to Congress not later than 18 months after July 10, 1992.
+Section 705 of Pub. L. 102–321 directed Secretary of Health and Human Services to enter into a contract with a public or nonprofit private entity to conduct a study on the prevalence of fetal alcohol effect and fetal alcohol syndrome in the general population of the United States and on the adequacy of Federal efforts to reduce the incidence of such conditions (including efforts regarding appropriate training for health care providers in identifying such effect or syndrome), andto ensure that a report outlining this study be submitted to Congress not later than 18 months after July 10, 1992.
 
 #### Alcoholism and Alcohol Abuse Treatment Study
 

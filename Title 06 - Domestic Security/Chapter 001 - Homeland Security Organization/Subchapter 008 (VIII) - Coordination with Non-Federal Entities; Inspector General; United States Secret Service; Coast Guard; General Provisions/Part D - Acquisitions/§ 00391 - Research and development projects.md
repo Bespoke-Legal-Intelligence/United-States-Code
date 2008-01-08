@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-During the 5-year period following the effective date of this chapter, the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
+Until September 30, 2008, the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
 
 #### (1) In general
 
@@ -10,7 +10,7 @@ During the 5-year period following the effective date of this chapter, the Secre
 
 #### (2) Prototype projects
 
-&emsp;The Secretary may, under the authority of paragraph (1), carry out prototype projects inaccordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototype projects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
+&emsp;The Secretary may, under the authority of paragraph (1), carry out prototype projects in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototype projects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
 
 #### (b) Report
 
@@ -32,15 +32,21 @@ The Secretary may—
 
 In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
-(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224.)
+(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093.)
 
 #### References in Text
 
-The effective date of this chapter, referred to in subsecs. (a) and (b), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
-
 Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is section 845 of Pub. L. 103–160, which is set out as a note under section 2371 of Title 10, Armed Forces.
 
+The effective date of this chapter, referred to in subsec. (b), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
+
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 110–161 substituted “Until September 30, 2008” for “During the 5-year period following the effective date of this chapter” in introductory provisions.
+
 #### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

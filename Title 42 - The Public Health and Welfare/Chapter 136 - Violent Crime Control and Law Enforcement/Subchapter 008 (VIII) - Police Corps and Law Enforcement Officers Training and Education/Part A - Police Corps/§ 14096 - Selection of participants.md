@@ -30,7 +30,7 @@ Participants in State Police Corps programs shall be selected on a competitive b
 
 &emsp;(ii) have demonstrated special leadership potential and dedication to law enforcement.
 
-(B)(i) The prior period of law enforcement of a participant selected pursuant to subparagraph\(A) shall not be counted toward satisfaction of the participant's 4-year service obligation under section 14098 of this title, and such a participant shall be subject to the same benefits and obligations under this part as other participants, including those stated in section <sup>1</sup> (b)(1)(E) and (F) of this section.
+(B)(i) The prior period of law enforcement of a participant selected pursuant to subparagraph (A) shall not be counted toward satisfaction of the participant's 4-year service obligation under section 14098 of this title, and such a participant shall be subject to the same benefits and obligations under this part as other participants, including those stated in section <sup>1</sup> (b)(1)(E) and (F) of this section.
 
 (ii) Clause (i) shall not be construed to preclude counting a participant's previous period of law enforcement experience for purposes other than satisfaction of the requirements of section 14098 of this title, such as for purposes of determining such a participant's pay and other benefits, rank, and tenure.
 
@@ -56,7 +56,7 @@ Each State participating in the Police Corps program shall make special efforts 
 
 (2) A participant who requests a leave of absence from educational study, training or service for a period not to exceed 1 year (or 18 months in the aggregate in the event of multiple requests) for any reason other than those listed in paragraph (1) may be granted such leave of absence by the State.
 
-(3) A participant who requests a leave of absence from educational study or training for a period not to exceed 30 months to serve on an official church mission may be granted such leave of absence.
+(3) A participant who requests a leave of absence from educational study or training for aperiod not to exceed 30 months to serve on an official church mission may be granted such leave of absence.
 
 #### (f) Admission of applicants
 

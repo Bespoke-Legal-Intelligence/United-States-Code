@@ -122,10 +122,6 @@ Subsec. (c). Pub. L. 96–92 incorporated reimbursement provision of former subs
 
 1962—Subsec. (a). Pub. L. 87–565 substituted “1963” for “1962” wherever appearing.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.

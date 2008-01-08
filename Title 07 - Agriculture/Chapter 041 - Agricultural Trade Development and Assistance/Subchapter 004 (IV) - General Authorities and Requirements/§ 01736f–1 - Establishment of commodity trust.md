@@ -34,7 +34,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 #### (B) Funds
 
-&emsp;&emsp;Any funds used to acquire eligible commodities through purchases from producers or in the market to replenish the trust shall be derived—
+&emsp;&emsp;Any funds used to acquire eligible commodities through purchases from producersor in the market to replenish the trust shall be derived—
 
 &emsp;&emsp;&emsp;(i) with respect to fiscal years 2000 through 2007 from funds made available to carry out the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(2) and (f)(2) of this section, except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2007; and
 
@@ -72,7 +72,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 #### (3) Processing of eligible commodities
 
-&emsp;Eligible commodities that are released from the trust established under this section maybe processed in the United States and shipped to a developing country when conditions in the recipient country require processing.
+&emsp;Eligible commodities that are released from the trust established under this section may be processed in the United States and shipped to a developing country when conditions in the recipient country require processing.
 
 #### (4) Exchange
 
@@ -104,7 +104,7 @@ Eligible commodities in the trust established under this section shall not be—
 
 #### (1) In general
 
-&emsp;Subject to the limitations provided in this section, the funds, facilities, and authorities of the Commodity Credit Corporation shall be used by the Secretary in carrying out this section, except that any restriction applicable to the acquisition, storage, or disposition of eligible commodities owned or controlled by the Commodity Credit Corporation shall not apply.
+&emsp;Subject to the limitations provided in this section, the funds, facilities, and authorities of the Commodity Credit Corporation shall be used by the Secretary in carrying out this section, except that any restriction applicable to the acquisition, storage, or disposition of eligible commodities owned or controlled by theCommodity Credit Corporation shall not apply.
 
 #### (2) Reimbursement of trust
 
@@ -202,7 +202,7 @@ Section 303 of title III of Pub. L. 96–494 provided that former section 1736f�
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 96–494, as added by Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959, and amended by Pub. L. 105–385, title II, §212(b)(2), Nov. 13, 1998, 112 Stat. 3466, provided that: “This title \[enacting this section\] may be cited as the ‘Bill Emerson Humanitarian Trust Act’.”
+Section 301 of title III of Pub. L. 96–494, as added by Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959, and amended by Pub. L. 105–385, title II, §212(b)(2),Nov. 13, 1998, 112 Stat. 3466, provided that: “This title \[enacting this section\] may be cited as the ‘Bill Emerson Humanitarian Trust Act’.”
 
 A prior section 301 of title III of Pub. L. 96–494 provided that title III (enacting former section 1736f–1 of this title and provisions set out as a note under that section) could be cited as the “Food Security Wheat Reserve Act of 1980”, prior to the general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, §225(a).
 

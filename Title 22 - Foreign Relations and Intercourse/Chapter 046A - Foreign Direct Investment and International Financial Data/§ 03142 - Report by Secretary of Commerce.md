@@ -40,7 +40,7 @@ In preparing each report under subsection (a) of this section, the Secretary of 
 
 The International Investment and Trade in Services Survey Act, referred to in subsec. (b)(1), (3), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, as amended, which is classified generally to chapter 46 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Executive Order 11858, referred to in subsec. (b)(4), is set out as a note under section 78b of Title 15, Commerce and Trade.
+Executive Order 11858, referred to in subsec. (b)(4), is set out as a note under section 2170 of the Appendix to Title 50, War and National Defense.
 
 The Agricultural Foreign Investment Disclosure Act of 1978, referred to in subsec. (b)(5), is Pub. L. 95–460, Oct. 14, 1978, 92 Stat. 1263, which is classified generally to chapter 66 (§3501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 7 and Tables.
 
@@ -56,7 +56,7 @@ Section 6683 of title 42, referred to in subsec. (c)(2), was omitted from the Co
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

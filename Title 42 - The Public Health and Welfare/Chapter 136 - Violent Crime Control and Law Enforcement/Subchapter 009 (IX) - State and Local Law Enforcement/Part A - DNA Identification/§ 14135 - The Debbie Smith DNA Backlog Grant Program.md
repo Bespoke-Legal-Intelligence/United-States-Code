@@ -86,7 +86,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (A) In general
 
-&emsp;&emsp;A grant for the purposes specified in paragraph (1), (2), or (5) of subsection (a) of this section may be made in the form of a voucher or contract for laboratory services, even if the laboratory makes a reasonable profit for the services.
+&emsp;&emsp;A grant for the purposes specified in paragraph (1), (2), or (5) of subsection (a) of thissection may be made in the form of a voucher or contract for laboratory services, even if the laboratory makes a reasonable profit for the services.
 
 #### (B) Redemption
 
@@ -170,7 +170,7 @@ The Attorney General may distribute not more than 1 percent of the grant amounts
 
 #### (<i>l</i>) Use of funds for other forensic sciences
 
-The Attorney General may award a grant under this section to a State or unit of local government to alleviate a backlog of cases with respect to a forensic science other than DNA analysis if the State or unit of local government—
+The Attorney General may award a grant under this section to a State or unit of local government to alleviate a backlog of cases with respect to a forensic science other than DNAanalysis if the State or unit of local government—
 
 &emsp;(1) certifies to the Attorney General that in such State or unit—
 
@@ -314,7 +314,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;“(1) Congress should condition forensic science-related grants to a State or State forensic facility on the State's agreement to ensure post-conviction DNA testing in appropriate cases; and
 
-&emsp;“(2) Congress should work with the States to improve the quality of legal representation in capital cases through the establishment of standards thatwill assure the timely appointment of competent counsel with adequate resources to represent defendants in capital cases at each stage of the proceedings.”
+&emsp;“(2) Congress should work with the States to improve the quality of legal representation in capital cases through the establishment of standards that will assure the timely appointment of competent counsel with adequate resources to represent defendants in capital cases at each stage of the proceedings.”
 
 Pub. L. 106–546, §11, Dec. 19, 2000, 114 Stat. 2735, enacted provisions substantially identical to those enacted by Pub. L. 106–561, §4, set out above.
 

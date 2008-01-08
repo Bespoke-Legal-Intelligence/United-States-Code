@@ -4,7 +4,7 @@
 
 (b) Notwithstanding subsection (a) of this section, a Reserve officer who has been selected for promotion to the next higher grade under this subchapter at the time the officer reports for active duty, shall be promoted to that grade under chapter 11 of this title.
 
-(c) A Reserve officer who, at the time the officer is released from active duty, has been selected for promotion to the next higher grade under chapter 11 of this title, shall be promoted to that grade as though selected under this subchapter.
+(c) A Reserve officer who, at the time the officer is released from active duty, has been selected for promotion to the next higher grade under chapter 11 of this title, shall be promotedto that grade as though selected under this subchapter.
 
 (d) A failure of selection for promotion to the next higher grade occurring under this subchapter or under chapter 11 of this title shall count for all purposes.
 

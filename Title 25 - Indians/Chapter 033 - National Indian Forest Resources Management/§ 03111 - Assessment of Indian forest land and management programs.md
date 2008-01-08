@@ -46,7 +46,3 @@ The Secretary of Agriculture, through the Forest Service, is authorized to provi
 
 Subsec. (c). Pub. L. 103–437, inserted “the” after “report to” and substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

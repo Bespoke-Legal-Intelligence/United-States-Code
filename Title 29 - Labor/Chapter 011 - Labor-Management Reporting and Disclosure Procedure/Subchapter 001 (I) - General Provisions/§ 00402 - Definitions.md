@@ -64,7 +64,7 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, me
 
 The Railway Labor Act, referred to in subsecs. (c) and (j)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
-The National Labor Relations Act, referred to in subsec. (j)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II\(§151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
+The National Labor Relations Act, referred to in subsec. (j)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
 
 #### Amendments
 

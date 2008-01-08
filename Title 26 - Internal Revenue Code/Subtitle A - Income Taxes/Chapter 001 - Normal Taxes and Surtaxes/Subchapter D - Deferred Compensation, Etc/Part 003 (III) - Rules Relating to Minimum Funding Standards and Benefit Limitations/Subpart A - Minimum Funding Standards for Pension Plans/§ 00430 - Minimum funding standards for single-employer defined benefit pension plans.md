@@ -66,7 +66,7 @@ For purposes of this section, except as provided in subsection (i)(2) with respe
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clauses (iii) and (iv), in the case of plan years beginningafter 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for the plan year for purposes of subparagraph (A).
+&emsp;&emsp;&emsp;Except as provided in clauses (iii) and (iv), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for the plan year for purposes of subparagraph (A).
 
 #### (ii) Applicable percentage
 
@@ -406,11 +406,11 @@ For purposes of this section—
 
 #### (ii) Second segment rate
 
-&emsp;&emsp;&emsp;The term “second segment rate” means, with respect to any month, the single rateof interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
+&emsp;&emsp;&emsp;The term “second segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
 
 #### (iii) Third segment rate
 
-&emsp;&emsp;&emsp;The term “third segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
+&emsp;&emsp;&emsp;The term “third segment rate” means, with respect to any month, the single rateof interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
 
 #### (D) Corporate bond yield curve
 
@@ -540,7 +540,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the plan is a defined benefit plan (other than a multiemployer plan) to which title IV of the Employee Retirement Income Security Act of 1974 applies,
 
-&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors’ controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregardingplans with no unfunded vested benefits) exceed $50,000,000, and
+&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors’ controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
 
 &emsp;&emsp;&emsp;(iii) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the funding target of the plan before such change.
 
@@ -632,7 +632,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) any manufacturer of automobiles, and
 
-&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directly to a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to be a member of a controlled group which included such manufacturer of automobiles.
+&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directly to a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to bea member of a controlled group which included such manufacturer of automobiles.
 
 #### (5) Transition between applicable funding targets and between applicable target normal costs
 
@@ -845,7 +845,7 @@ For purposes of this section—
 
 &emsp;In the case of a plan to which this subsection applies, if—
 
-&emsp;&emsp;(A) any person fails to make a contribution payment required by section 412 and this section before the due date for such payment, and
+&emsp;&emsp;(A) any person fails to make a contribution payment required by section 412 andthis section before the due date for such payment, and
 
 &emsp;&emsp;(B) the unpaid balance of such payment (including interest), when added to the aggregate unpaid balance of all preceding such payments for which payment was not made before the due date (including interest), exceeds $1,000,000,
 
@@ -960,7 +960,7 @@ Definitions.—Any term used in this section which is also used in section 430 o
 
 #### Special Funding Rules for Certain Plans Maintained by Commercial Airlines
 
-Pub. L. 109–280, title IV, §402, Aug. 17, 2006, 120 Stat. 922, provided that:
+Pub. L. 109–280, title IV, §402, Aug. 17, 2006, 120 Stat. 922, as amended by Pub. L. 110–28, title VI, §§6614(a), 6615(a), May 25, 2007, 121 Stat. 181, provided that:
 
 “(a)
 
@@ -968,7 +968,7 @@ In General.—The plan sponsor of an eligible plan may elect to either—
 
 &emsp;“(1) have the rules of subsection (b) apply, or
 
-&emsp;“(2) have section 303 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1083\] and section 430 of the Internal Revenue Code of 1986 applied to its first taxable year beginning in 2008 by amortizing the shortfall amortization base for such taxable year over a period of 10 plan years (rather than 7 plan years) beginning with such plan year.
+&emsp;“(2) have section 303 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1083\] and section 430 of the Internal Revenue Code of 1986 applied to its first taxable year beginning in 2008 by amortizing the shortfall amortization base for such taxable year over a period of 10 plan years (rather than 7 plan years) beginning with such plan year and by using, in determining the funding target for each of the 10 plan years during such period, an interest rate of 8.25 percent (rather than the segment rates calculated on the basis of the corporate bond yield curve).
 
 “(b)
 
@@ -1138,7 +1138,7 @@ Successor plans to certain plans.—If—
 
 &emsp;&emsp;“(B) the eligible plan is maintained by an employer that establishes or maintains 1 or more other defined benefit plans (other than any multiemployer plan), and such other plans in combination provide benefit accruals to any substantial number of successor employees,
 
-> &emsp;the Secretary of the Treasury may, in the Secretary's discretion, determine that any trust of which any other such plan is a part does not constitute a qualified trust under section 401(a) of the Internal RevenueCode of 1986 unless all benefit obligations of the eligible plan have been satisfied. For purposes of this paragraph, the term ‘successor employee’ means any employee who is or was covered by the eligible plan and any employees who perform substantially the same type of work with respect to the same business operations as an employee covered by such eligible plan.
+> &emsp;the Secretary of the Treasury may, in the Secretary's discretion, determine that any trust of which any other such plan is a part does not constitute a qualified trust under section 401(a) of the Internal Revenue Code of 1986 unless all benefit obligations of the eligible plan have been satisfied. For purposes of this paragraph, the term ‘successor employee’ means any employee who is or was covered by the eligible plan and any employees who perform substantially the same type of work with respect to the same business operations as an employee covered by such eligible plan.
 
 &emsp;“(2)
 
@@ -1152,7 +1152,7 @@ liability limited.—\[Amended section 1322 of Title 29, Labor.\]
 
 Termination premium.—In applying section 4006(a)(7)(A) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1306(a)(7)(A)\] to an eligible plan during any period in which an election under subsection (a)(1) is in effect—
 
-&emsp;&emsp;&emsp;“(i) ‘$2,500’ shall be substituted for ‘$1,250’ in such section if such plan terminates during the 5-year period beginning on the first day of the first applicable plan year with respect to such plan, and
+&emsp;&emsp;&emsp;“(i) ‘$2,500’ shall be substituted for ‘$1,250’ in such section if such plan terminates during the 5-year period beginning on the first day of the firstapplicable plan year with respect to such plan, and
 
 &emsp;&emsp;&emsp;“(ii) such section shall be applied without regard to subparagraph (B) of section 8101(d)(2) of the Deficit Reduction Act of 2005 \[Pub. L. 109–171, 29 U.S.C. 1306 note\] (relating to special rule for plans terminated in bankruptcy).
 
@@ -1182,13 +1182,17 @@ Effective date.—The amendment made by this subsection \[amending section 410 o
 
 Extension of Special Rule for Additional Funding Requirements.—In the case of an employer which is a commercial passenger airline, section 302(d)(12) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1082(d)(12)\] and section 412(<i>l</i>)(12) of the Internal Revenue Code of 1986, as in effect before the date of the enactment of this Act \[Aug. 17, 2006\], shall each be applied—
 
-&emsp;“(1) by substituting ‘December 28, 2007’ for ‘December 28, 2005’ in subparagraph (D)(i) thereof, and
+&emsp;“(1) by substituting ‘January 1, 2008’ for ‘December 28, 2005’ in subparagraph (D)(i) thereof, and
 
 &emsp;“(2) without regard to subparagraph (D)(ii).
 
 “(j)
 
 Effective Date.—Except as otherwise provided in this section, the provisions of and amendments made by this section \[amending section 410 of this title and section 1322 of Title 29, Labor\] shall apply to plan years ending after the date of the enactment of this Act \[Aug. 17, 2006\].”
+
+\[Pub. L. 110–28, title VI, §6614(b), May 25, 2007, 121 Stat. 181, provided that: “The amendment made by subsection (a) \[amending section 402(i)(1) of Pub. L. 109–280, set out above\] shall take effect as if included in section 402 of the Pension Protection Act of 2006 \[Pub. L. 109–280\].”\]
+
+\[Pub. L. 110–28, title VI, §6615(b), May 25, 2007, 121 Stat. 181, provided that: “The amendment made by this section \[amending section 402(a)(2) of Pub. L. 109–280, set out above\] shall take effect as if included in the provisions of the Pension Protection Act of 2006 \[Pub. L. 109–280\] to which such amendment relates.”\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph (3)”.</i>
 

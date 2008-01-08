@@ -22,7 +22,7 @@
 
 #### (3) Collaboration of local public entities
 
-&emsp;A funding agreement for a grant under section 290ff(a) of this title is that, for purposes of the establishment and operation of a system of care under paragraph (1), the public entity involved will seek collaboration among all public agencies that provide human services in the community in which the system is established, including but not limited to those providing mental health services, educational services, child welfare services, or juvenile justice services.
+&emsp;A funding agreement for a grant under section 290ff(a) of this title is that, for purposes of the establishment and operation of a system of care under paragraph (1), the public entity involved will seek collaboration among all public agencies that provide human services in the community in which the system is established, including but not limited to those providing mental health services, educationalservices, child welfare services, or juvenile justice services.
 
 #### (b) Limitation on age of children provided access to system
 
@@ -90,7 +90,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 #### (2) Other provisions
 
-&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system ofcare under subsection (a) of this section, in providing the services of the system, will—
+&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) of this section, in providing the services of the system, will—
 
 &emsp;&emsp;(A) provide the services of the system in the cultural context that is most appropriate for the child and family involved;
 

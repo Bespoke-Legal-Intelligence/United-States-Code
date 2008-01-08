@@ -1,5 +1,5 @@
 
-42 U.S.C.<br>United States Code, 2006 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
+42 U.S.C.<br>United States Code, 2007 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 42—THE PUBLIC HEALTH AND WELFARE
 
@@ -45,6 +45,7 @@
 | [<b>21B.</b>](Chapter%20021B%20-%20Religious%20Freedom%20Restoration/README.md) | <b>Religious Freedom Restoration</b> | <b>2000bb</b> |
 | [<b>21C.</b>](Chapter%20021C%20-%20Protection%20of%20Religious%20Exercise%20in%20Land%20Use%20and%20by%20Institutionalized%20Persons/README.md) | <b>Protection of Religious Exercise in Land Use and by Institutionalized Persons</b> | <b>2000cc</b> |
 | [<b>21D.</b>](Chapter%20021D%20-%20Detainee%20Treatment/README.md) | <b>Detainee Treatment</b> | <b>2000dd</b> |
+| [<b>21E.</b>](Chapter%20021E%20-%20Privacy%20and%20Civil%20Liberties%20Protection%20and%20Oversight/README.md) | <b>Privacy and Civil Liberties Protection and Oversight</b> | <b>2000ee</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Indian%20Hospitals%20and%20Health%20Facilities/README.md) | <b>Indian Hospitals and Health Facilities</b> | <b>2001</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Development%20and%20Control%20of%20Atomic%20Energy/README.md) | <b>Development and Control of Atomic Energy</b> | <b>2011</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Disposal%20of%20Atomic%20Energy%20Communities/README.md) | <b>Disposal of Atomic Energy Communities</b> | <b>2301</b> |
@@ -179,9 +180,10 @@
 | [<b>146.</b>](Chapter%20146%20-%20Election%20Administration%20Improvement/README.md) | <b>Election Administration Improvement</b> | <b>15301</b> |
 | [<b>147.</b>](Chapter%20147%20-%20Prison%20Rape%20Elimination/README.md) | <b>Prison Rape Elimination</b> | <b>15601</b> |
 | [<b>148.</b>](Chapter%20148%20-%20Windstorm%20Impact%20Reduction/README.md) | <b>Windstorm Impact Reduction</b> | <b>15701</b> |
-| [<b>149.</b>](Chapter%20149%20-%20Energy%20Policy%2C%202005/README.md) | <b>Energy Policy, 2005</b> | <b>15801</b> |
+| [<b>149.</b>](Chapter%20149%20-%20National%20Energy%20Policy%20and%20Programs/README.md) | <b>National Energy Policy and Programs</b> | <b>15801</b> |
 | [<b>150.</b>](Chapter%20150%20-%20National%20Aeronautics%20and%20Space%20Programs%2C%202005/README.md) | <b>National Aeronautics and Space Programs, 2005</b> | <b>16601</b> |
 | [<b>151.</b>](Chapter%20151%20-%20Child%20Protection%20and%20Safety/README.md) | <b>Child Protection and Safety</b> | <b>16901</b> |
+| [<b>152.</b>](Chapter%20152%20-%20Energy%20Independence%20and%20Security/README.md) | <b>Energy Independence and Security</b> | <b>17001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -230,6 +232,7 @@
 - [Chapter 021B - Religious Freedom Restoration](Chapter%20021B%20-%20Religious%20Freedom%20Restoration/README.md)
 - [Chapter 021C - Protection of Religious Exercise in Land Use and by Institutionalized Persons](Chapter%20021C%20-%20Protection%20of%20Religious%20Exercise%20in%20Land%20Use%20and%20by%20Institutionalized%20Persons/README.md)
 - [Chapter 021D - Detainee Treatment](Chapter%20021D%20-%20Detainee%20Treatment/README.md)
+- [Chapter 021E - Privacy and Civil Liberties Protection and Oversight](Chapter%20021E%20-%20Privacy%20and%20Civil%20Liberties%20Protection%20and%20Oversight/README.md)
 - [Chapter 022 - Indian Hospitals and Health Facilities](Chapter%20022%20-%20Indian%20Hospitals%20and%20Health%20Facilities/README.md)
 - [Chapter 023 - Development and Control of Atomic Energy](Chapter%20023%20-%20Development%20and%20Control%20of%20Atomic%20Energy/README.md)
 - [Chapter 024 - Disposal of Atomic Energy Communities](Chapter%20024%20-%20Disposal%20of%20Atomic%20Energy%20Communities/README.md)
@@ -364,7 +367,8 @@
 - [Chapter 146 - Election Administration Improvement](Chapter%20146%20-%20Election%20Administration%20Improvement/README.md)
 - [Chapter 147 - Prison Rape Elimination](Chapter%20147%20-%20Prison%20Rape%20Elimination/README.md)
 - [Chapter 148 - Windstorm Impact Reduction](Chapter%20148%20-%20Windstorm%20Impact%20Reduction/README.md)
-- [Chapter 149 - Energy Policy, 2005](Chapter%20149%20-%20Energy%20Policy%2C%202005/README.md)
+- [Chapter 149 - National Energy Policy and Programs](Chapter%20149%20-%20National%20Energy%20Policy%20and%20Programs/README.md)
 - [Subchapter 015 (XV) - Incentives for Innovative Technologies](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/README.md)
 - [Chapter 150 - National Aeronautics and Space Programs, 2005](Chapter%20150%20-%20National%20Aeronautics%20and%20Space%20Programs%2C%202005/README.md)
 - [Chapter 151 - Child Protection and Safety](Chapter%20151%20-%20Child%20Protection%20and%20Safety/README.md)
+- [Chapter 152 - Energy Independence and Security](Chapter%20152%20-%20Energy%20Independence%20and%20Security/README.md)

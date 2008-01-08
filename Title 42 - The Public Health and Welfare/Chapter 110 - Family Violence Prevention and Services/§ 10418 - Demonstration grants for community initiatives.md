@@ -86,7 +86,7 @@ The Secretary shall award grants under this section to organizations in communit
 
 There is authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 2004 through 2008.
 
-(Pub. L. 98–457, title III, §318, as added Pub. L. 103–322, title IV, §40261, Sept. 13, 1994, 108 Stat. 1935; amended Pub. L. 105–392, title IV, §407(a), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 106–386, div. B, title IV, §1403, Oct. 28, 2000, 114 Stat. 1514; Pub. L. 108–36, title IV, §413, June 25, 2003, 117 Stat. 830.)
+(Pub. L. 98–457, title III, §318, as added Pub. L. 103–322, title IV, §40261, Sept. 13, 1994, 108 Stat. 1935; amended Pub. L. 105–392, title IV, §407(a), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 106–386, div. B, title IV, §1403, Oct. 28, 2000, 114 Stat. 1514;Pub. L. 108–36, title IV, §413, June 25, 2003, 117 Stat. 830.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@
 
 &emsp;Except with the prior written consent of the Corporation—
 
-&emsp;&emsp;(A) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust or money laundering, or has agreed to enter into a pretrial diversionor similar program in connection with a prosecution for such offense, may not—
+&emsp;&emsp;(A) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust or money laundering, or has agreed to enter into a pretrial diversion or similar program in connection with a prosecution for such offense, may not—
 
 &emsp;&emsp;&emsp;(i) become, or continue as, an institution-affiliated party with respect to any insured depository institution;
 
@@ -88,7 +88,7 @@ Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (d)(1), a
 
 &emsp;“(2) an insured depository institution may not permit such participation.”
 
-1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “Except withthe written consent of the Corporation, no person shall serve as a director, officer, or employee of an insured bank who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the bank involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Corporation may recover for its use.”
+1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “Except with the written consent of the Corporation, no person shall serve as a director, officer, or employee of an insured bank who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the bank involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Corporation may recover for its use.”
 
 #### Provisions Not Repealed, Modified or Affected
 

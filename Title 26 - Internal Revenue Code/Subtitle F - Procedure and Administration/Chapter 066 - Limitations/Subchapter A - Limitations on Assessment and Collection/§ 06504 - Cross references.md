@@ -92,7 +92,7 @@ Par. (14). Act June 29, 1956, added par. (14).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions,see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
+Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
 #### Effective Date of 1986 Amendment
 

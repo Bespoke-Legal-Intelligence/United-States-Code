@@ -240,7 +240,7 @@ Subsec. (c)(17). Pub. L. 105–33, §10202(b)(6), (7), redesignated par. (18) as
 
 Subsec. (c)(18). Pub. L. 105–33, §10202(b)(6), (8), redesignated par. (19) as (18) and substituted “the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.” for “of the Federal Deposit Insurance Corporation and the funds it incorporates, the Resolution Trust Corporation, the National Credit Union Administration and the funds it incorporates, the Office of Thrift Supervision, the Comptroller of the Currency Assessment Fund, and the RTC Office of Inspector General.” Former par. (18) redesignated (17).
 
-Subsec. (c)(19). Pub. L. 105–33, §10202(b)(9), added par. (19) and struck out former par. (19) which read as follows: “The sale of an asset means the sale to the public of any asset, whether physical or financial, owned in whole or in part by the United States. The term ‘prepayment of a loan’ means payments to the United States made in advance of the schedules set by law orcontract when the financial asset is first acquired, such as the prepayment to the Federal Financing Bank of loans guaranteed by the Rural Electrification Administration. If a law or contract allows a flexible payment schedule, the term ‘in advance’ shall mean in advance of the slowest payment schedule allowed under such law or contract.”
+Subsec. (c)(19). Pub. L. 105–33, §10202(b)(9), added par. (19) and struck out former par. (19) which read as follows: “The sale of an asset means the sale to the public of any asset, whether physical or financial, owned in whole or in part by the United States. The term ‘prepayment of a loan’ means payments to the United States made in advance of the schedules set by law or contract when the financial asset is first acquired, such as the prepayment to the Federal Financing Bank of loans guaranteed by the Rural Electrification Administration. If a law or contract allows a flexible payment schedule, the term ‘in advance’ shall mean in advance of the slowest payment schedule allowed under such law or contract.”
 
 Pub. L. 105–33, §10202(b)(6), redesignated par. (21) as (19). Former par. (19) redesignated (18).
 
@@ -286,7 +286,7 @@ OASDI Trust Funds.—The amendments made by part D \[amending section 911 of Tit
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–33, title X, §10001(a), Aug. 5, 1997, 111 Stat. 677, provided that: “This title \[enacting sections 645 and 645a of this title, amending this section, sections 601, 602, 622, 631 to 636, 639, 641 to 644, 651, 654, 661a, 661c to 661e, 691a, 691c, 691e, 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 652, 665 to 665e, 901a, and 908 of this title and section 14212 of Title 42, enacting provisions set out as notes under this section and section 902 of this title, amending provisions set out as notes under this section and section 621 of this title, and repealing provisions set out as notes under this section and sections 621, 631, and 665 of this title\] may be cited as the ‘Budget Enforcement Act of 1997’.”
+Pub. L. 105–33, title X, §10001(a), Aug. 5, 1997, 111 Stat. 677, provided that: “This title \[enacting sections 645and 645a of this title, amending this section, sections 601, 602, 622, 631 to 636, 639, 641 to 644, 651, 654, 661a, 661c to 661e, 691a, 691c, 691e, 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 652, 665 to 665e, 901a, and 908 of this title and section 14212 of Title 42, enacting provisions set out as notes under this section and section 902 of this title, amending provisions set out as notes under this section and section 621 of this title, and repealing provisions set out as notes under this section and sections 621, 631, and 665 of this title\] may be cited as the ‘Budget Enforcement Act of 1997’.”
 
 #### Short Title of 1990 Amendment
 
@@ -336,7 +336,7 @@ Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, �
 
 #### Exercise of Congressional Rulemaking Power
 
-Pub. L. 103–66, title XIV, §14004, Aug. 10, 1993, 107 Stat. 685, provided that: “The Congress enacts the provisions of this part \[probably should be “this title”, amending sections 665, 901, 902, and 904 of this title, enacting provisions set out as notes under this section and section 902 of this title, and amending provisions set out as notes under section 665 of this title\]—
+Pub. L. 103–66, title XIV, §14004, Aug. 10, 1993, 107 Stat. 685, provided that: “The Congress enacts the provisions of this part \[probably should be “this title”, amending sections 665, 901, 902, and 904 of this title, enacting provisions set out as notes under this sectionand section 902 of this title, and amending provisions set out as notes under section 665 of this title\]—
 
 &emsp;“(1) as an exercise of the rule-making power of the Senate and the House of Representatives, respectively, and as such these provisions shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
@@ -358,7 +358,7 @@ Section 271(d), formerly section 271(c), of Pub. L. 99–177, as redesignated by
 
 &emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the samemanner and to the same extent as in the case of any other rule of such House.”
+&emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.”
 
 #### Restoration of Trust Fund Investments; Funds Borrowed or Not Invested During Delays in Raising Public Debt Limit
 
@@ -402,7 +402,7 @@ Sec. 2. <i>Deficit Reduction Fund.</i>
 
 Sec. 3. <i>Requirement for the President To Report Annually on the Status of the Fund</i>. The Director of the Office of Management and Budget shall include in the President's Budget transmitted under section 1105 of title 31, United States Code, information about the Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund.
 
-Sec. 4. <i>Implementation</i>. The Secretary of the Treasury and the Director of the Office of Management and Budget shall each take such actions as may be necessary, within their respective authorities, promptly to carry out this order.
+Sec. 4. <i>Implementation</i>. The Secretary of the Treasury and the Director of the Office of Management andBudget shall each take such actions as may be necessary, within their respective authorities, promptly to carry out this order.
 
 Sec. 5. <i>Effective Date</i>. This order shall take effect upon enactment of the Omnibus Budget Reconciliation Act of 1993 \[Aug. 10, 1993\].
 

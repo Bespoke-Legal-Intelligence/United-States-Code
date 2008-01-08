@@ -34,7 +34,7 @@ Subsec. (c)(2), (3). Pub. L. 101–510, §2852(a), added par. (2) and struck out
 
 &emsp;“(C) the use of a discount rate of 7 percent per year for all expenses of the energy system.
 
-“(3) For the purpose of any life-cycle cost analysis under this subsection, the original investment cost of the energy system using solar energy or other renewable forms of energy shall be reduced by 10 percent to reflect an allowance for an investment cost credit.”
+“(3) For the purpose of any life-cycle cost analysis under this subsection, the original investment cost ofthe energy system using solar energy or other renewable forms of energy shall be reduced by 10 percent to reflect an allowance for an investment cost credit.”
 
 1984—Pub. L. 98–525 substituted “using” for “powered by” in section catchline.
 

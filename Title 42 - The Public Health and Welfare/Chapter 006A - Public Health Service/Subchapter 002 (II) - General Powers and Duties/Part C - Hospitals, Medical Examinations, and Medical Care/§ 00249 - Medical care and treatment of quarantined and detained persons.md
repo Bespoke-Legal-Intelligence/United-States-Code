@@ -12,7 +12,7 @@ Persons not entitled to treatment and care at institutions, hospitals, and stati
 
 Persons whose care and treatment is authorized by subsection (a) of this section may, in accordance with regulations, receive such care and treatment at the expense of the Service from public or private medical or hospital facilities other than those of the Service, when authorized by the officer in charge of the station at which the application is made.
 
-(July 1, 1944, ch. 373, title III, §322, 58 Stat. 696; June 25, 1948, ch. 654, §3, 62 Stat. 1018; Aug. 8,1956, ch. 1036, §3, 70 Stat. 1120; Pub. L. 88–424, Aug. 13, 1964, 78 Stat. 398; Pub. L. 90–174, §10(c), Dec. 5, 1967, 81 Stat. 541; Pub. L. 97–35, title IX, §986(a), (b)(1), (2), Aug. 13, 1981, 95 Stat. 603.)
+(July 1, 1944, ch. 373, title III, §322, 58 Stat. 696; June 25, 1948, ch. 654, §3, 62 Stat. 1018; Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120; Pub. L. 88–424, Aug. 13, 1964, 78 Stat. 398; Pub. L. 90–174, §10(c), Dec. 5, 1967, 81 Stat. 541; Pub. L. 97–35, title IX, §986(a), (b)(1), (2), Aug. 13, 1981, 95 Stat. 603.)
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Section 986(c) of Pub. L. 97–35 provided that: “The amendments and repeals m
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department transferred, with a few exceptions, to Attorney General, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by sections 1 and 2 of Reorg. Plan No. 2 of 1950, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, which were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. Immigration and Naturalization Service, referred to in this section, was a bureau in Department of Justice.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of suchDepartment transferred, with a few exceptions, to Attorney General, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by sections 1 and 2 of Reorg. Plan No. 2 of 1950, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, which were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. Immigration and Naturalization Service, referred to in this section, was a bureau in Department of Justice.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

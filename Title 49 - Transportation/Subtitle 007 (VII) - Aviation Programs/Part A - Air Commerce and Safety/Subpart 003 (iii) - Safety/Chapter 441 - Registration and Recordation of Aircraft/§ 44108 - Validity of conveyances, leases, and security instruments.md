@@ -86,5 +86,5 @@ In subsection (d)(2), the words “lease or instrument” are substituted for �
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–297 effective Mar. 1, 2006, and not applicable to any registration or recordation that was made before such date under this chapter orany legal rights relating to such registration or recordation, see section 7 of Pub. L. 108–297, set out as a note under section 44101 of this title.
+Amendment by Pub. L. 108–297 effective Mar. 1, 2006, and not applicable to any registration or recordation that was made before such date under this chapter or any legal rights relating to such registration or recordation, see section 7 of Pub. L. 108–297, set out as a note under section 44101 of this title.
 

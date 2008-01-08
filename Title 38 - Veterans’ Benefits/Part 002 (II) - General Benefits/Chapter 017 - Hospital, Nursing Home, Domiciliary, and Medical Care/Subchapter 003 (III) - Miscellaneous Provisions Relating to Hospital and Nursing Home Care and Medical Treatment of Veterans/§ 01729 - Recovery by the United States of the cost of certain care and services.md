@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) who is entitled to care (or payment of the expenses of care) under a health-plan contract; or
 
-&emsp;(E) for which care and services are furnished before October 1, 2007, under this chapter to a veteran who—
+&emsp;(E) for which care and services are furnished before October 1, 2008, under this chapter to a veteran who—
 
 &emsp;&emsp;(i) has a service-connected disability; and
 
@@ -24,7 +24,7 @@
 
 (3) In the case of a health-plan contract that contains a requirement for payment of a deductible or copayment by the veteran—
 
-&emsp;(A) the veteran's not having paid such deductible or copayment with respect to care or services furnished under this chapter shall not preclude recovery or collection under this section; and
+&emsp;(A) the veteran's not having paid such deductible or copayment with respect to care orservices furnished under this chapter shall not preclude recovery or collection under this section; and
 
 &emsp;(B) the amount that the United States may collect or recover under this section shall be reduced by the appropriate deductible or copayment amount, or both.
 
@@ -98,13 +98,15 @@
 
 &emsp;&emsp;(D) a person obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added Pub. L. 97–72, title I, §106(a)(1), Nov. 3, 1981, 95 Stat. 1050, §629; amended Pub. L. 99–272, title XIX, §19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, §202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, §8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1729 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, §604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12003, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(d)(10), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–33, title VIII, §§8022, 8023(b)(4), (d), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 107–135, title II, §§208(e)(4), 209(b), Jan. 23, 2002, 115 Stat. 2463, 2464.)
+(Added Pub. L. 97–72, title I, §106(a)(1), Nov. 3, 1981, 95 Stat. 1050, §629; amended Pub. L. 99–272, title XIX, §19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, §202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, §8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1729 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, §604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12003, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(d)(10), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–33, title VIII, §§8022, 8023(b)(4), (d), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 107–135, title II, §§208(e)(4), 209(b), Jan. 23, 2002, 115 Stat. 2463, 2464; Pub. L. 110–161, div. I, title II, §232, Dec. 26, 2007, 121 Stat. 2273.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (i)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2007—Subsec. (a)(2)(E). Pub. L. 110–161 substituted “October 1, 2008” for “October 1, 2007”.
 
 2002—Subsec. (a)(2)(E). Pub. L. 107–135, §209(b), substituted “October 1, 2007” for “October 1, 2002”.
 

@@ -84,7 +84,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) the direct costs of processing operations under clause (ii) of subparagraph (A),
 
-&emsp;&emsp;&nbsp;of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the initial applicable 1-year period.
+&emsp;&emsp;&nbsp;of all apparel articles of that producer or entity controlling production that arewholly assembled, or are knit-to-shape, in Haiti and are entered during the initial applicable 1-year period.
 
 #### (ii) Other applicable 1-year periods
 
@@ -241,7 +241,7 @@ In this section:
 
 #### (2) Wire harness automotive component
 
-&emsp;For purposes of this subsection, the term “wire harness automotive component” means any article provided for in subheading 8544.30.00 of the HTS, as in effect on December 20, 2006.
+&emsp;For purposes of this subsection, the term “wire harness automotive component” meansany article provided for in subheading 8544.30.00 of the HTS, as in effect on December 20, 2006.
 
 #### (d) Eligibility requirements
 
@@ -293,7 +293,7 @@ In this section:
 
 &emsp;&emsp;(C) Haiti agrees to report, on a timely basis, at the request of the Bureau of Customs and Border Protection, on the total exports from and imports into that country of articles described in subsection (b), consistent with the manner in which the records are kept by Haiti.
 
-&emsp;&emsp;(D) Haiti agrees to cooperate fully with the United States to address and take actionnecessary to prevent circumvention as provided in Article 5 of the Agreement on Textiles and Clothing.
+&emsp;&emsp;(D) Haiti agrees to cooperate fully with the United States to address and take action necessary to prevent circumvention as provided in Article 5 of the Agreement on Textiles and Clothing.
 
 &emsp;&emsp;(E) Haiti agrees to require all producers and exporters of articles described in subsection (b) in that country to maintain complete records of the production and the export of such articles, including materials used in the production, for at least 5 years after the production or export (as the case may be).
 
@@ -305,7 +305,7 @@ In this section:
 
 #### (f) Regulations
 
-The President shall issue regulations to carry out this section not later than 180 days after December 20, 2006. The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate in preparing such regulations.
+The President shall issue regulations to carry out this section not later than 180 days after December 20, 2006. The President shall consult with the Committee on Ways and Means of the Houseof Representatives and the Committee on Finance of the Senate in preparing such regulations.
 
 (Pub. L. 98–67, title II, §213A, as added Pub. L. 109–432, div. D, title V, §5002(a), Dec. 20, 2006, 120 Stat. 3181.)
 
@@ -318,4 +318,8 @@ The Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (b)
 #### Effective Date
 
 Section applicable to articles entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 20, 2006, see section 5006 of Pub. L. 109–432, set out as an Effective Date of 2006 Amendment note under section 2703 of this title.
+
+#### Delegation of Functions
+
+Proc. No. 8114, Mar. 19, 2007, 72 F.R. 13656, provided in par. (5) that the Secretary of the Treasury is authorized to perform the functions assigned to the President under subsec. (f) of this section.
 

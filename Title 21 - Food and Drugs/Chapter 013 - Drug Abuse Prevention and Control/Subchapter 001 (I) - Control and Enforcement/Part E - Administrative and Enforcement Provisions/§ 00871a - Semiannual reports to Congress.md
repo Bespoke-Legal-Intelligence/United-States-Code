@@ -32,7 +32,11 @@ Section 711(a)(1), referred to in subsec. (a)(2)(A), is section 711(a)(1) of Pub
 
 #### Codification
 
-Section was enacted as part of the USA PATRIOT Improvement and Reauthorization Act of 2005 and also as part of the Combat Methamphetamine Epidemic Act of 2005, and not as part of the Controlled Substances Act which comprises this subchapter.
+Section was enacted as part of the USA PATRIOT Improvement and Reauthorization Act of 2005 and also as part of the Combat Methamphetamine Epidemic Actof 2005, and not as part of the Controlled Substances Act which comprises this subchapter.
+
+#### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ Regulations.—Subsection (a) shall be carried out in accordance with regulation
 
 (c)
 
-Award of Rank to Employees in Intelligence Senior Level Positions.—The President, based on the recommendations of the Secretary of Defense, may award a rank referred toin section 4507a of title 5 to employees in Intelligence Senior Level positions designated under subsection (a). The award of such rank shall be made in a manner consistent with the provisions of that section.
+Award of Rank to Employees in Intelligence Senior Level Positions.—The President, based on the recommendations of the Secretary of Defense, may award a rank referred to in section 4507a of title 5 to employees in Intelligence Senior Level positions designated under subsection (a). The award of such rank shall be made in a manner consistent with the provisions of that section.
 
 (Added Pub. L. 104–201, div. A, title XVI, §1632(b), Sept. 23, 1996, 110 Stat. 2747; amended Pub. L. 107–306, title V, §503, Nov. 27, 2002, 116 Stat. 2407.)
 

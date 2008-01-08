@@ -80,7 +80,7 @@ Competition Plans.—
 
 &emsp;(1)
 
-Prohibition.—Beginning in fiscal year 2001, no passenger facility fee may be approved for a covered airport under section 40117 and no grant may be made under this subchapter for a covered airport unless the airport has submitted to the Secretary a written competition plan in accordance with this subsection.
+Prohibition.—Beginning in fiscal year 2001, no passenger facility fee may be approved for a covered airport under section 40117 andno grant may be made under this subchapter for a covered airport unless the airport has submitted to the Secretary a written competition plan in accordance with this subsection.
 
 &emsp;(2)
 
@@ -102,7 +102,7 @@ Covered airport defined.—In this subsection, the term “covered airport” me
 
 Consultation With Secretary of Homeland Security.—The Secretary shall consult with the Secretary of Homeland Security before approving an application under this subchapter for an airport development project grant for activities described in section 47102(3)(B)(ii) only as they relate to security equipment or section 47102(3)(B)(x) only as they relate to installation of bulk explosive detection system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b),Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187; Pub. L. 108–176, title I, §187, title III, §305, Dec. 12, 2003, 117 Stat. 2518, 2539.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187; Pub. L. 108–176, title I, §187, title III, §305, Dec. 12, 2003, 117 Stat. 2518, 2539.)
 
 Historical and Revision Notes
 
@@ -198,7 +198,7 @@ In subsection (e)(1), before clause (A), the words “under this subchapter” a
 
 In subsection (e)(2)(A), the word “mutual” is omitted as surplus.
 
-In subsection (e)(3), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title and with other titles of the United States Code. The words “the date on which” are omitted as surplus.
+In subsection (e)(3), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title and with other titles of the United StatesCode. The words “the date on which” are omitted as surplus.
 
 #### Amendments
 

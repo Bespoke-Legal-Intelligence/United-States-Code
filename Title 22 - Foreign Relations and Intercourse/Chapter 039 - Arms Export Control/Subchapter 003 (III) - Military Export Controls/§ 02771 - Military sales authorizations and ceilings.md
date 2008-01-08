@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 99–83, §101(b), amended subsec. (c) generally, substitut
 
 Subsec. (b)(5). Pub. L. 98–151 substituted “1984” for “1982 and for the fiscal year 1983”.
 
-Subsec. (b)(6). Pub. L. 98–151 amended par. (6) generally, inserting provisions relating to availability to Egypt for fiscal year 1984 of not less than $900,000,000 of the total principal amount of loans guaranteed, and substituting provisions authorizing not less than $465,000,000 for fiscal year 1984, for provisions authorizing not less than $200,000,000 for fiscal years 1982 and 1983.
+Subsec. (b)(6). Pub. L. 98–151 amended par. (6) generally, inserting provisions relating to availability to Egypt for fiscal year 1984 of not less than $900,000,000 ofthe total principal amount of loans guaranteed, and substituting provisions authorizing not less than $465,000,000 for fiscal year 1984, for provisions authorizing not less than $200,000,000 for fiscal years 1982 and 1983.
 
 Subsec. (c). Pub. L. 98–151 substituted provisions relating to applicability to fiscal year 1984, for provisions relating to applicability to fiscal years 1982 and 1983, and substituted “$850,000,000” for “$550,000,000”.
 

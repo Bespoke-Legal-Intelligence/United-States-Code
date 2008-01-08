@@ -242,7 +242,7 @@ Nature of Project.—Under each demonstration project conducted under this secti
 
 &emsp;“(1) The State shall establish a ‘Teen Care Plan’ that shall consist of the following:
 
-&emsp;&emsp;“(A) A clearing house where high-risk teenagers will be referred to and encouraged to participate innon-academic activities (arts, recreation, sports) which are already in place in the community.
+&emsp;&emsp;“(A) A clearing house where high-risk teenagers will be referred to and encouraged to participate in non-academic activities (arts, recreation, sports) which are already in place in the community.
 
 &emsp;&emsp;“(B) A survey of the area to be targeted by the project to determine the need to fund and create new non-academic activities in the area.
 

@@ -14,7 +14,7 @@ Fund Management.—
 
 #### (b) Pacific Salmon Treaty implementation
 
-(1) None of the funds authorized by this section for implementation of the 1999 Pacific Salmon Treaty Agreement shall be made available until each of the following conditions tothe 1999 Pacific Salmon Treaty Agreement has been fulfilled—
+(1) None of the funds authorized by this section for implementation of the 1999 Pacific Salmon Treaty Agreement shall be made available until each of the following conditions to the 1999 Pacific Salmon Treaty Agreement has been fulfilled—
 
 &emsp;(A) stipulations are revised and court orders requested as set forth in the letter of understanding of the United States negotiators dated June 22, 1999. If such orders are not requested by December 31, 1999, this condition shall be considered unfulfilled; and
 
@@ -28,7 +28,7 @@ Fund Management.—
 
 (2) If the requests for orders in subparagraph (1)(A) are withdrawn after December 31, 1999, or if such orders are not entered by March 1, 2000, amounts in the Northern Fund and the Southern Fund shall be transferred to the general fund of the United States Treasury.
 
-(3) During the term of the 1999 Pacific Salmon Treaty Agreement, the Secretary of Commerce shall determine whether Southern United States fisheries are likely to cause jeopardy to, or adversely modify designated critical habitat of, any salmonid species listed under Public Law 93–205, as amended, before the Secretary of Commerce may initiate or reinitiate consultation on Alaska fisheries under such Act.
+(3) During the term of the 1999 Pacific Salmon Treaty Agreement, the Secretary of Commerce shall determine whether Southern United States fisheries are likely to cause jeopardy to, or adversely modify designated critical habitat of, any salmonid species listed under Public Law93–205, as amended, before the Secretary of Commerce may initiate or reinitiate consultation on Alaska fisheries under such Act.
 
 (4) During the term of the 1999 Pacific Salmon Treaty Agreement, the Secretary of Commerce may not initiate or reinitiate consultation on Alaska fisheries under section 7 of Public Law 93–205, as amended \[16 U.S.C. 1536\], until—
 
@@ -70,7 +70,7 @@ Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93�
 
 Section is comprised of section 16 of Pub. L. 99–5. Section 16(c) of Pub. L. 99–5 amended section 3632 of this title.
 
-Pub. L. 109–479, §302(d)(1), which directed that the text of section 623 of title VI of H.R. 3421 (113 Stat. 1501A–56), as introduced on November 17, 1999, enactedinto law by section 1000(a)(1) of Pub. L. 106–113 and amended by Pub. L. 106–533, 114 Stat. 2762A–108, be transferred to and renumbered as section 16 of the Pacific Salmon Treaty Act, was executed by transferring Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623\], as amended by Pub. L. 106–553, §1(a)(2) \[title VI, §628\], to and renumbering it as section 16 of Pub. L. 99–5, which is the Pacific Salmon Treaty Act of 1985, to reflect the probable intent of Congress. See source credit above.
+Pub. L. 109–479, §302(d)(1), which directed that the text of section 623 of title VI of H.R. 3421 (113 Stat. 1501A–56), as introduced on November 17, 1999, enacted into law by section 1000(a)(1) of Pub. L. 106–113 and amended by Pub. L. 106–533, 114 Stat. 2762A–108, be transferred to and renumbered as section 16 of the Pacific Salmon Treaty Act, was executed by transferring Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623\], as amended by Pub. L. 106–553, §1(a)(2) \[title VI, §628\], to and renumbering it as section 16 of Pub. L. 99–5, which is the Pacific Salmon Treaty Act of 1985, to reflect the probable intent of Congress. See source credit above.
 
 #### Amendments
 
@@ -91,4 +91,8 @@ Subsec. (d). Pub. L. 106–553, §1(a)(2) \[title VI, §628(b)\], added subsec. 
 &emsp;“(3) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementation of the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated $6,000,000 in fiscal year 2000 to the Pacific Coastal tribes (as defined by the Secretary of Commerce) and $2,000,000 in fiscal year 2000 to the Columbia River tribes (as defined by the Secretary of Commerce).
 
 > Funds appropriated to the States under the authority of this section shall be subject to a 25 percent non-Federal match requirement. In addition, not more than 3 percent of such funds shall be available for administrative expenses, with the exception of funds used in the Washington State for the Forest and Fish Agreement.”
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

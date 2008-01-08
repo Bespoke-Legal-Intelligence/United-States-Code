@@ -10,7 +10,7 @@ It shall be an unfair labor practice for the Department—
 
 &emsp;(3) to sponsor, control, or otherwise assist any labor organization, other than to furnish upon request customary and routine services and facilities on an impartial basis to labor organizations having equivalent status;
 
-&emsp;(4) to discipline or otherwise discriminate against an employee because the employee hasfiled a complaint or petition, or has given any information, affidavit, or testimony under this subchapter;
+&emsp;(4) to discipline or otherwise discriminate against an employee because the employee has filed a complaint or petition, or has given any information, affidavit, or testimony under this subchapter;
 
 &emsp;(5) to refuse to consult or negotiate in good faith with a labor organization, as required under this subchapter;
 

@@ -34,7 +34,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant for
 
 &emsp;(1) a case plan of the type described in paragraph (1) of section 675 of this title is developed for each such infant and young child (to the extent that such infant and young child is not otherwise covered by such a plan); and
 
-&emsp;(2) the program includes a case review system of the type described in paragraph (5) ofsuch section (covering each such infant and young child who is not otherwise subject to such a system).
+&emsp;(2) the program includes a case review system of the type described in paragraph (5) of such section (covering each such infant and young child who is not otherwise subject to such a system).
 
 #### (d) Administration of grant
 

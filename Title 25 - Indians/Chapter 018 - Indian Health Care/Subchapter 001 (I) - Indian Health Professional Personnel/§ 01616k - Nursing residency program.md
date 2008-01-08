@@ -6,7 +6,7 @@ The Secretary, acting through the Service, shall establish a program to enable l
 
 #### (b) Program components
 
-Such program shall include a combination of education and work study in an Indian healthprogram (as defined in section 1616a(a)(2)(A) of this title) leading to an associate or bachelor's degree (in the case of a licensed practical nurse or licensed vocational nurse) or a bachelor's degree (in the case of a registered nurse) or a Master's degree.
+Such program shall include a combination of education and work study in an Indian health program (as defined in section 1616a(a)(2)(A) of this title) leading to an associate or bachelor's degree (in the case of a licensed practical nurse or licensed vocational nurse) or a bachelor's degree (in the case of a registered nurse) or a Master's degree.
 
 #### (c) Service obligation of program participant
 

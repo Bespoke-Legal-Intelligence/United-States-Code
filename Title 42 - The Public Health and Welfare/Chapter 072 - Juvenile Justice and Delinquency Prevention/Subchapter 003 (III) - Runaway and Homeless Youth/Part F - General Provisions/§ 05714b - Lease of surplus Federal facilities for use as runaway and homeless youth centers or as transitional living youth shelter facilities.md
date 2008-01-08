@@ -6,7 +6,7 @@ The Secretary may enter into cooperative lease arrangements with States, localit
 
 &emsp;(1) the applicant involved has suitable financial support necessary to operate a runaway and homeless youth center or transitional living youth project, as the case may be, under this subchapter;
 
-&emsp;(2) the applicant is able to demonstrate the program expertise required to operate suchcenter in compliance with this subchapter, whether or not the applicant is receiving a grant under this part; and
+&emsp;(2) the applicant is able to demonstrate the program expertise required to operate such center in compliance with this subchapter, whether or not the applicant is receiving a grant under this part; and
 
 &emsp;(3) the applicant has consulted with and obtained the approval of the chief executive officer of the unit of local government in which the facility is located.
 

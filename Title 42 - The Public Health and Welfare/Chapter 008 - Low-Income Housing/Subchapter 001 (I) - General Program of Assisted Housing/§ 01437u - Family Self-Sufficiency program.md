@@ -36,7 +36,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 &emsp;Subject to paragraph (4), each public housing agency required to carry out a local program under this section shall make the following housing assistance available under the program in each fiscal year:
 
-&emsp;&emsp;(A) Certificate and voucher assistance under section 1437f(b) and (<i>o</i>) of this title, in an amount equivalent to the increase for such year in the number of families so assisted by the agency (as compared to the preceding year).
+&emsp;&emsp;(A) Certificate and voucher assistance under section 1437f(b) and (<i>o</i>) of this title, inan amount equivalent to the increase for such year in the number of families so assisted by the agency (as compared to the preceding year).
 
 &emsp;&emsp;(B) Public housing dwelling units, in the number equal to the increase for such year in units made available by the agency (as compared to the preceding year).
 
@@ -178,7 +178,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Criteria
 
-&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiencyprogram under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
+&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
 
 #### (3) Use
 

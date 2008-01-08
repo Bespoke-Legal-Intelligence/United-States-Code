@@ -34,6 +34,10 @@
 
 (Pub. L. 107–327, title III, §305, as added Pub. L. 108–458, title VII, §7104(e)(4)(A), Dec. 17, 2004, 118 Stat. 3782.)
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Delegation of Functions
 
 Reporting functions of President under this section assigned to Secretary of State by section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of title 3, The President.

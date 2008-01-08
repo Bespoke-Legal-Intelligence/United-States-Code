@@ -6,7 +6,7 @@
 
 &emsp;(2) if such increase becomes effective, to subscribe on behalf of the United States to one hundred and eleven thousand four hundred and ninety-three additional shares of the capital stock of the Corporation: <i>Provided, however</i>, That any commitment to make payment for such additional subscriptions shall be made subject to obtaining the necessary appropriations.
 
-(b) In order to pay for the increase in the United States subscription to the Corporationprovided for in this section, there are authorized to be appropriated, without fiscal year limitation, $111,493,000 for payment by the Secretary of the Treasury.
+(b) In order to pay for the increase in the United States subscription to the Corporation provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $111,493,000 for payment by the Secretary of the Treasury.
 
 (Aug. 11, 1955, ch. 788, §11, as added Pub. L. 95–118, title III, §301, Oct. 3, 1977, 91 Stat. 1068.)
 

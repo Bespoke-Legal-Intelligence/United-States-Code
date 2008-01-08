@@ -102,5 +102,9 @@ For the purposes of this section—
 
 (Pub. L. 109–155, title I, §103, Dec. 30, 2005, 119 Stat. 2907.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
 

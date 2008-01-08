@@ -4,7 +4,7 @@
 
 An extension of protection for which a certificate of extension of protection has been issued under section 1141i of this title shall remain in force for the term of the international registration upon which it is based, except that the extension of protection of any mark shall be canceled by the Director—
 
-&emsp;(1) at the end of the 6-year period beginning on the date on which the certificate of extension of protection was issued by the Director, unless within the 1-year period preceding the expiration of that 6-year period the holder of the international registration files in the Patent and Trademark Office an affidavit undersubsection (b) of this section together with a fee prescribed by the Director; and
+&emsp;(1) at the end of the 6-year period beginning on the date on which the certificate of extension of protection was issued by the Director,unless within the 1-year period preceding the expiration of that 6-year period the holder of the international registration files in the Patent and Trademark Office an affidavit under subsection (b) of this section together with a fee prescribed by the Director; and
 
 &emsp;(2) at the end of the 10-year period beginning on the date on which the certificate of extension of protection was issued by the Director, and at the end of each 10-year period thereafter, unless—
 

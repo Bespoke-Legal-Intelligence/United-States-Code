@@ -36,7 +36,7 @@ Notwithstanding subsection (a) sale of property on which the United States has o
 
 #### (3) Sale of perishable goods
 
-&emsp;Notwithstanding the notice requirement of subsection (b)(2)(C), a sale described in subsection (b) of property liable to perish or become greatly reduced in price or value by keeping, or which cannot be kept withoutgreat expense, shall discharge or divest such property of the lien or title of the United States if notice of such sale is given (in accordance with regulations prescribed by the Secretary) in writing, by registered or certified mail or by personal service, to the Secretary before such sale. The proceeds (exclusive of costs) of such sale shall be held as a fund subject to the liens and claims of the United States, in the same manner and with the same priority as such liens and claims had with respect to the property sold, for not less than 30 days after the date of such sale.
+&emsp;Notwithstanding the notice requirement of subsection (b)(2)(C), a sale described in subsection (b) of property liable to perish or become greatly reduced in price or value by keeping, or which cannot be kept without great expense, shall discharge or divest such property of the lien or title of the United States if notice of such sale is given (in accordance with regulations prescribed by the Secretary) in writing, by registered or certified mail or by personal service, to the Secretary before such sale. The proceeds (exclusive of costs) of such sale shall be held as a fund subject to the liens and claims of the United States, in the same manner and with the same priority as such liens and claims had with respect to the property sold, for not less than 30 days after the date of such sale.
 
 #### (4) Forfeitures of land sales contracts
 
@@ -66,7 +66,7 @@ Notwithstanding subsection (a) sale of property on which the United States has o
 
 &emsp;&emsp;A certificate of redemption executed by the Secretary shall constitute prima facie evidence of the regularity of such redemption and shall, when recorded, transfer to the United States all the rights, title, and interest in and to such property acquired by the person from whom the United States redeems such property by virtue of the sale of such property.
 
-(Added Pub. L. 89–719, title I, §109, Nov. 2, 1966, 80 Stat. 1141; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1572(a), Oct. 22, 1986, 100 Stat. 2765.)
+(Added Pub. L. 89–719, title I, §109, Nov. 2, 1966, 80 Stat. 1141; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L.99–514, title XV, §1572(a), Oct. 22, 1986, 100 Stat. 2765.)
 
 #### Prior Provisions
 

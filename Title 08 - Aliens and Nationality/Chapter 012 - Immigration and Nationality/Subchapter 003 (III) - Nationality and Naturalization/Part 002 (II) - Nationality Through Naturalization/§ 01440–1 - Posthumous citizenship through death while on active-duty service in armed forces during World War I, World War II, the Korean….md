@@ -58,7 +58,7 @@ November 24, 2003, referred to in subsec. (c)(2)(A)(i), was in the original “t
 
 Subsec. (c). Pub. L. 108–136, §1704(1), added heading and text of subsec. (c) and struck out former subsec. (c) which related to procedures for approval by the Attorney General of a request for the granting of posthumous citizenship.
 
-Subsec. (d). Pub. L. 108–136, §1704(2), added heading and text of subsec. (d) and struck out former subsec. (d) which read as follows: “If the Attorney General approves such a request to grant a person posthumous citizenship, the Attorney General shall send to the individual who filed the request a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person's death.”
+Subsec. (d). Pub. L. 108–136, §1704(2), added heading and text of subsec. (d) and struck out former subsec. (d) which read as follows: “If the Attorney General approves such a request to grant a person posthumouscitizenship, the Attorney General shall send to the individual who filed the request a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person's death.”
 
 Subsec. (e). Pub. L. 108–136, §1703(g)(1), struck out heading and text of subsec. (e). Text read as follows: “Nothing in this section or section 1430(d) of this title shall be construed as providing for any benefits under this chapter for any spouse, son, daughter, or other relative of a person granted posthumous citizenship under this section.”
 

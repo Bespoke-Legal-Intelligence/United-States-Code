@@ -84,7 +84,7 @@ Report.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Secretary shall submit to the Committee on Energy and Natural Resources and the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Resources and the Committee on Agriculture of the House of Representatives a report that includes the results of the assessment conducted under paragraph (1).
+In general.—The Secretary shall submit to the Committee on Energy and Natural Resources and the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Resources \[now Committee on Natural Resources\] and the Committee on Agriculture of the House of Representatives a report that includes the results of the assessment conducted under paragraph (1).
 
 &emsp;&emsp;“(B)
 

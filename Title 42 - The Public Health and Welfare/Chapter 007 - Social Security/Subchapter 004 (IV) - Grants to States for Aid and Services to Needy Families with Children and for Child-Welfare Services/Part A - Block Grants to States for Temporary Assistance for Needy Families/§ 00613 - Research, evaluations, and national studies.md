@@ -64,7 +64,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (1) In general
 
-&emsp;Beginning 3 years after August 22, 1996, the Secretary of Health and Human Services shallprepare and submit to the Committees on Ways and Means and on Education and the Workforce of the House of Representatives and to the Committees on Finance and on Labor and Resources of the Senate annual reports that examine in detail the matters described in paragraph (2) with respect to each of the following groups for the period after August 22, 1996:
+&emsp;Beginning 3 years after August 22, 1996, the Secretary of Health and Human Services shall prepare and submit to the Committees on Ways and Means and on Education and the Workforce of the House of Representatives and to the Committees on Finance and on Labor and Resources of the Senate annual reports that examine in detail the matters described in paragraph (2) with respect to each of the following groups for the period after August 22, 1996:
 
 &emsp;&emsp;(A) Individuals who were children in families that have become ineligible for assistance under a State program funded under this part by reason of having reached a time limit on the provision of such assistance.
 
@@ -144,7 +144,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (5) Methodology
 
-&emsp;The Secretary shall prescribe regulations establishing the methodology by which a Stateshall determine the child poverty rate in the State. The methodology shall take into account factors including the number of children who receive free or reduced-price lunches, the number of food stamp households, and, to the extent available, county-by-county estimates of children in poverty as determined by the Census Bureau.
+&emsp;The Secretary shall prescribe regulations establishing the methodology by which a State shall determine the child poverty rate in the State. The methodology shall take into account factors including the number of children who receive free or reduced-price lunches, the number of food stamp households, and, to the extent available, county-by-county estimates of children in poverty as determined by the Census Bureau.
 
 #### (j) Evaluation of welfare-to-work programs
 
@@ -226,6 +226,10 @@ Subsec. (i)(5). Pub. L. 105–33, §5509(d)(2), substituted “, to the extent 
 
 Subsec. (j). Pub. L. 105–33, §5001(f), added subsec. (j).
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
@@ -238,7 +242,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective Aug. 22, 1996, with transition rules relating to State options to accelerate such date, rulesrelating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective Aug. 22, 1996, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Coordination of Substance Abuse and Child Protection Services
 
@@ -254,7 +258,7 @@ Study.—The Comptroller General shall conduct a study of the effect of family v
 
 “(2)
 
-Report.—Within 1 year after the date of the enactment of this Act \[Aug. 5, 1997\], the Comptroller General shall submit to the Committees on Ways and Means and Education and the Workforce of the House of Representatives and the Committee on Finance of the Senate a report that contains the findings of the study required by paragraph (1).”
+Report.—Within 1 year after the date of the enactment of this Act \[Aug. 5, 1997\], the Comptroller General shall submit to the Committees on Ways and Means and Education and the Workforce \[now Education and Labor\] of the House of Representatives and the Committee on Finance of the Senate a report that contains the findings of the study required by paragraph (1).”
 
 #### Study on Alternative Outcomes Measures
 

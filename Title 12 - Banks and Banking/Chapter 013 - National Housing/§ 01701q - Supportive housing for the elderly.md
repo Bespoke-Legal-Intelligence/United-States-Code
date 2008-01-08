@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to enable elderly persons to live with dignity and independence byexpanding the supply of supportive housing that—
+The purpose of this section is to enable elderly persons to live with dignity and independence by expanding the supply of supportive housing that—
 
 &emsp;(1) is designed to accommodate the special needs of elderly persons; and
 
@@ -114,7 +114,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 &emsp;&emsp;(G) the cost of land, including necessary site improvement.
 
-> &emsp;In establishing development cost limitations for a given market area under this subsection, the Secretary shall use data that reflect currently prevailing costs of construction, reconstruction, or rehabilitation, and land acquisition in the area. For purposes of this paragraph, the term “congregate space” shall include space for cafeterias or dining halls, community rooms or buildings, workshops, adult day health facilities, or other outpatient health facilities, or other essential service facilities. Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility.
+> &emsp;In establishing development cost limitations for a given market area under this subsection,the Secretary shall use data that reflect currently prevailing costs of construction, reconstruction, or rehabilitation, and land acquisition in the area. For purposes of this paragraph, the term “congregate space” shall include space for cafeterias or dining halls, community rooms or buildings, workshops, adult day health facilities, or other outpatient health facilities, or other essential service facilities. Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility.
 
 #### (2) Acquisition
 
@@ -188,7 +188,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (4) Notice of appeal
 
-&emsp;The Secretary shall notify an owner not less than 30 days prior to canceling any reservation of assistance provided under this section.During the 30-day period following the receipt of a notice under the preceding sentence, an owner may appeal the proposed cancellation of loan authority. Such appeal, including review by the Secretary, shall be completed not later than 45 days after the appeal is filed.
+&emsp;The Secretary shall notify an owner not less than 30 days prior to canceling any reservation of assistance provided under this section. During the 30-day period following the receipt of a notice under the preceding sentence, an owner may appeal the proposed cancellation of loan authority. Such appeal, including review by the Secretary, shall be completed not later than 45 days after the appeal is filed.
 
 #### (5) Labor
 
@@ -250,7 +250,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (1) Capital advances
 
-&emsp;Of any amounts made available for assistance under this section, such sums as may be necessary shall be available for funding capital advances in accordance with subsection (c)(1) of this section. Such amounts, the repayments from such advances, and the proceedsfrom notes or obligations issued under this section prior to November 28, 1990, shall constitute a revolving fund to be used by the Secretary in carrying out this section.
+&emsp;Of any amounts made available for assistance under this section, such sums as may be necessary shall be available for funding capital advances in accordance with subsection (c)(1) of this section. Such amounts, the repayments from such advances, and the proceeds from notes or obligations issued under this section prior to November 28, 1990, shall constitute a revolving fund to be used by the Secretary in carrying out this section.
 
 #### (2) Project rental assistance
 
@@ -306,7 +306,7 @@ Subsec. (m). Pub. L. 106–569, §821, added subsec. (m) relating to authorizati
 
 1999—Subsec. (m). Pub. L. 106–74 added subsec. (m) relating to authorization of appropriations for fiscal year 2000.
 
-1992—Subsec. (e)(5) to (7). Pub. L. 102–550, §602(b), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: “a certification from the appropriate State or local agency (as determined by the Secretary) that the provisionof services identified in paragraph (4) is well designed to serve the special needs of the category or categories of elderly persons the housing is intended to serve;”.
+1992—Subsec. (e)(5) to (7). Pub. L. 102–550, §602(b), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: “a certification from the appropriate State or local agency (as determined by the Secretary) that the provision of services identified in paragraph (4) is well designed to serve the special needs of the category or categories of elderly persons the housing is intended to serve;”.
 
 Subsec. (f)(2). Pub. L. 102–550, §602(c), which directed insertion of “, taking into consideration the availability of public housing for the elderly and vacancy rates in such facilities” at end, was executed by making insertion before semicolon at end.
 
@@ -376,7 +376,7 @@ Subsec. (p). Pub. L. 101–625, §805, added subsec. (p).
 
 Subsec. (a)(4)(B)(i). Pub. L. 100–242, §161(a), inserted provisions relating to such sums as may be approved for fiscal years 1988 and 1989, and substituted “October 1, 1983, to such sum” for “October 1, 1983, and to such sum”.
 
-Pub. L. 100–242, §161(d), substituted “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury taking into consideration the average yield, during the 3-month period immediately preceding the fiscal year in which the loan is made, on the most recently issued 30-year marketable obligations of the United States.” for “Suchnotes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made.”
+Pub. L. 100–242, §161(d), substituted “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury taking into consideration the average yield, during the 3-month period immediately preceding the fiscal year in which the loan is made, on the most recently issued 30-year marketable obligations of the United States.” for “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made.”
 
 Subsec. (a)(4)(C). Pub. L. 100–242, §161(b), inserted provisions relating to loan authority for fiscal years 1988 and 1989.
 
@@ -544,7 +544,7 @@ In General.—The provisions of this title \[see Short Title of 1999 Amendment n
 
 “(b)
 
-Effect of Regulatory Authority.—Any authority in this title or the amendments made by this title to issue regulations, and any specific requirement to issue regulations by a date certain, may not be construed to affect the effectiveness or applicability of the provisions of this title or the amendments made by thistitle under such provisions and amendments and subsection (a) of this section.”
+Effect of Regulatory Authority.—Any authority in this title or the amendments made by this title to issue regulations, and any specific requirement to issue regulations by a date certain, may not be construed to affect the effectiveness or applicability of the provisions of this title or the amendments made by this title under such provisions and amendments and subsection (a) of this section.”
 
 #### Effective Date of 1992 Amendment
 
@@ -638,7 +638,7 @@ Case of adoption.—In the case of a child who was adopted, the term includes an
 
 &emsp;“(5)
 
-Intergenerational dwelling unit.—The term ‘intergenerational dwelling unit’ means a qualifieddwelling unit that is reserved for occupancy only by an intergenerational family.
+Intergenerational dwelling unit.—The term ‘intergenerational dwelling unit’ means a qualified dwelling unit that is reserved for occupancy only by an intergenerational family.
 
 &emsp;“(6)
 
@@ -914,7 +914,7 @@ Section 162(e) of Pub. L. 100–242 provided that: “Not later than the expirat
 
 #### Housing for the Elderly or Handicapped Fund
 
-Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1361, provided: “That, notwithstanding section 202(a)(3) of the Housing Act of 1959 \[12 U.S.C. 1701q(a)(3)\], any such obligations \[direct loan obligations made in fiscal year1991\] shall bear an interest rate which does not exceed 9.25 per centum, including the allowance adequate in the judgment of the Secretary to cover administrative costs and probable losses under the program.”
+Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1361, provided: “That, notwithstanding section 202(a)(3) of the Housing Act of 1959 \[12 U.S.C. 1701q(a)(3)\], any such obligations \[direct loan obligations made in fiscal year 1991\] shall bear an interest rate which does not exceed 9.25 per centum, including the allowance adequate in the judgment of the Secretary to cover administrative costs and probable losses under the program.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

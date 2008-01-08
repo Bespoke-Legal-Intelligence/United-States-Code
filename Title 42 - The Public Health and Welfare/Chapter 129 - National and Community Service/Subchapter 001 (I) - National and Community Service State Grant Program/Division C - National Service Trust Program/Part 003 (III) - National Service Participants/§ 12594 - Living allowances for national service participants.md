@@ -20,7 +20,7 @@
 
 #### (5) Waiver or reduction of living allowance
 
-&emsp;The Corporation may waive or reduce the requirement of paragraph (1) with respect tosuch national service program if such program demonstrates that—
+&emsp;The Corporation may waive or reduce the requirement of paragraph (1) with respect to such national service program if such program demonstrates that—
 
 &emsp;&emsp;(A) such requirement is inconsistent with the objectives of the program; and
 

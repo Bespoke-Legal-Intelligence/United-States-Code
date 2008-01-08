@@ -32,7 +32,7 @@ In determining the taxable income of an organization described in section 1381(a
 
 #### (d) Payment period for each taxable year
 
-For purposes of subsections (b) and (c)(2), the payment period for any taxable year is the period beginning with the first day of such taxable year and ending with the fifteenth day of the ninth month following the close of such year. For purposes of subsections (b)(1) and (c)(2)(A), a qualified check issued during the payment period shall be treated as an amount paid in money during such period if endorsed and cashedon or before the 90th day after the close of such period.
+For purposes of subsections (b) and (c)(2), the payment period for any taxable year is the period beginning with the first day of such taxable year and ending with the fifteenth day of the ninth month following the close of such year. For purposes of subsections (b)(1) and (c)(2)(A), a qualified check issued during the payment period shall be treated as an amount paid in money during such period if endorsed and cashed on or before the 90th day after the close of such period.
 
 #### (e) Products marketed under pooling arrangements
 

@@ -8,7 +8,7 @@
 | [202\.](Subchapter%20001%20%28I%29%20-%20Weights%2C%20Measures%2C%20and%20Standards%20Generally/%C2%A7%2000202%20-%20Repairs%20to%20standards.md) | Repairs to standards. |
 | [203\.](Subchapter%20001%20%28I%29%20-%20Weights%2C%20Measures%2C%20and%20Standards%20Generally/%C2%A7%2000203%20-%20Replacing%20lost%20standard%20weights%20and%20measures%3B%20cost.md) | Replacing lost standard weights and measures; cost. |
 | [204\.](Subchapter%20001%20%28I%29%20-%20Weights%2C%20Measures%2C%20and%20Standards%20Generally/%C2%A7%2000204%20-%20Metric%20system%20authorized.md) | Metric system authorized. |
-| [205\.](Subchapter%20001%20%28I%29%20-%20Weights%2C%20Measures%2C%20and%20Standards%20Generally/%C2%A7%2000205%20-%20Authorized%20tables.md) | Authorized tables. |
+| [205\.](Subchapter%20001%20%28I%29%20-%20Weights%2C%20Measures%2C%20and%20Standards%20Generally/%C2%A7%2000205%20-%20Metric%20system%20defined.md) | Metric system defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,21 +52,9 @@
 
 #### SUBCHAPTER V—STANDARDS OF ELECTRICITY
 
-|  |  |
-| :--- | ---: |
-| 221, 222. | Repealed. |
-| [223\.](Subchapter%20005%20%28V%29%20-%20Standards%20of%20Electricity/%C2%A7%2000223%20-%20Units%20of%20electrical%20measure.md) | Units of electrical measure. |
-| &nbsp; | &nbsp;Resistance-ohm. |
-| &nbsp; | &nbsp;Current-ampere. |
-| &nbsp; | &nbsp;Electromotive force and electric potential-   volt. |
-| &nbsp; | &nbsp;Quantity-coulomb. |
-| &nbsp; | &nbsp;Capacitance-farad. |
-| &nbsp; | &nbsp;Inductance-henry. |
-| &nbsp; | &nbsp;Power-watt. |
-| &nbsp; | &nbsp;Energy—joule; kilowatt—hour. |
-| &nbsp; | &nbsp;Intensity of light—candela. |
-| &nbsp; | &nbsp;Flux of light—lumen. |
-| [224\.](Subchapter%20005%20%28V%29%20-%20Standards%20of%20Electricity/%C2%A7%2000224%20-%20Establishment%20of%20values%20of%20primary%20electric%20and%20photometric%20units%20in%20absolute%20measure%3B%20legal%20values.md) | Establishment of values of primary electric and photometric units in absolute measure; legal values. |
+|  |
+| :--- |
+| 221 to 224. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -93,7 +81,7 @@
 
 |  |
 | :--- |
-| 251 to 256. Repealed. |
+| 251 to 256. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -114,7 +102,7 @@
 | [261\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000261%20-%20Zones%20for%20standard%20time%3B%20interstate%20or%20foreign%20commerce.md) | Zones for standard time; interstate or foreign commerce. |
 | [262\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000262%20-%20Duty%20to%20observe%20standard%20time%20of%20zones.md) | Duty to observe standard time of zones. |
 | [263\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000263%20-%20Designation%20of%20zone%20standard%20times.md) | Designation of zone standard times. |
-| [264\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000264%20-%20Part%20of%20Idaho%20in%20third%20zone.md) | Part of Idaho in third zone. |
+| [264\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000264%20-%20Part%20of%20Idaho%20in%20fourth%20zone.md) | Part of Idaho in fourth zone. |
 | [265\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000265%20-%20Transfer%20of%20certain%20territory%20to%20standard%20central-time%20zone.md) | Transfer of certain territory to standard central-time zone. |
 | [266\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000266%20-%20Applicability%20of%20administrative%20procedure%20provisions.md) | Applicability of administrative procedure provisions. |
 | [267\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000267%20-%20%E2%80%9CState%E2%80%9D%20defined.md) | “State” defined. |

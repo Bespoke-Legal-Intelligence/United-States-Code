@@ -42,6 +42,7 @@
 | [<b>551.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20551%20-%20Coastwise%20Trade/README.md) | <b>Coastwise Trade</b> | <b>55101</b> |
 | [<b>553.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20553%20-%20Passenger%20and%20Cargo%20Preferences/README.md) | <b>Passenger and Cargo Preferences</b> | <b>55301</b> |
 | [<b>555.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20555%20-%20Miscellaneous/README.md) | <b>Miscellaneous</b> | <b>55501</b> |
+| [<b>556.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20556%20-%20Short%20Sea%20Transportation/README.md) | <b>Short Sea Transportation</b> | <b>55601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,6 +75,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 110–140, title XI, §1121(b), Dec. 19, 2007, 121 Stat. 1762, added item for chapter 556.
 
 2006—Pub. L. 109–304, §8(a), Oct. 6, 2006, 120 Stat. 1555, amended subtitle analysis generally. Prior to amendment, analysis consisted of item for chapter 531 “Maritime Security Fleet”.
 

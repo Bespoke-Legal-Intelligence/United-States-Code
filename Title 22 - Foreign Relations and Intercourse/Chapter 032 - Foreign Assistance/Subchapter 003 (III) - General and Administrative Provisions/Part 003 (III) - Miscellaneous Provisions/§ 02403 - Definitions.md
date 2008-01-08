@@ -48,7 +48,7 @@ As used in this chapter—
 
 &emsp;(5) with respect to military education and training or services provided under part VIII of subchapter II of this chapter, the additional costs that are incurred by the United States Government in furnishing such assistance.
 
-(n) “Military education and training” includes formal or informal instruction of foreign students in the United States or overseas by officers or employees of the United States, contract technicians, contractors (including instructionat civilian institutions), or by correspondence courses, technical, educational, or information publications and media of all kinds, training aids, orientation, and military advice to foreign military units and forces.
+(n) “Military education and training” includes formal or informal instruction of foreign students in the United States or overseas by officers or employees of the United States, contract technicians, contractors (including instruction at civilian institutions), or by correspondence courses, technical, educational, or information publications and media of all kinds, training aids, orientation, and military advice to foreign military units and forces.
 
 (<i>o</i>) “Agriculture” includes aquaculture and fisheries.
 
@@ -56,7 +56,7 @@ As used in this chapter—
 
 (q) “Major non-NATO ally” means a country which is designated in accordance with section 2321k of this title as a major non-NATO ally for purposes of this chapter and the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
-(Pub. L. 87–195, pt. III, §644, Sept. 4, 1961, 75 Stat. 461; Pub. L. 87–565, pt. III, §303(b), Aug. 1, 1962, 76 Stat. 263; Pub. L. 88–205, pt. III, §303, Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §303(b), Sept. 6, 1965, 79 Stat. 661; Pub. L. 90–137, pt. III, §303(a), Nov. 14, 1967, 81 Stat. 462; Pub. L. 90–629, ch. 4, §45(b)(5), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 92–226, pt. III, §304(c)(1), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §22, Dec. 17, 1973, 87 Stat. 726; Pub. L. 94–329, title I, §106(b)(6), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §103(b), Oct. 6, 1978, 92 Stat. 944; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §115(b)(1), Dec. 16, 1980, 94 Stat. 3140; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L. 102–583, §9(b), Nov. 2, 1992, 106 Stat. 4934; Pub. L. 104–164, title I, §147(a)(2), July 21, 1996, 110 Stat. 1435.)
+(Pub. L. 87–195, pt. III, §644, Sept. 4, 1961, 75 Stat. 461; Pub. L. 87–565, pt. III, §303(b), Aug. 1, 1962, 76 Stat. 263; Pub. L. 88–205, pt. III, §303, Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §303(b), Sept. 6, 1965, 79 Stat. 661; Pub. L. 90–137, pt. III, §303(a), Nov. 14, 1967, 81 Stat. 462; Pub. L. 90–629, ch. 4, §45(b)(5), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 92–226, pt. III, §304(c)(1), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §22, Dec. 17, 1973, 87 Stat. 726; Pub. L. 94–329, title I, §106(b)(6), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §103(b), Oct. 6, 1978, 92 Stat. 944; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §115(b)(1), Dec. 16, 1980, 94 Stat. 3140; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L.102–583, §9(b), Nov. 2, 1992, 106 Stat. 4934; Pub. L. 104–164, title I, §147(a)(2), July 21, 1996, 110 Stat. 1435.)
 
 #### References in Text
 
@@ -134,5 +134,5 @@ Amendment by Pub. L. 90–629 effective on July 1, 1968, see section 41 of Pub. 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

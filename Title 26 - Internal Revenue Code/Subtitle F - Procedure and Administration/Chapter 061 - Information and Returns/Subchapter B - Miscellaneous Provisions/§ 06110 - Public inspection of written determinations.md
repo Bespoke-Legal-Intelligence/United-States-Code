@@ -36,9 +36,9 @@ For purposes of this section—
 
 Before making any written determination or background file document open or available to public inspection under subsection (a), the Secretary shall delete—
 
-&emsp;(1) the names, addresses, and other identifying details of the person to whom the writtendetermination pertains and of any other person, other than a person with respect to whom a notation is made under subsection (d)(1), identified in the written determination or any background file document;
+&emsp;(1) the names, addresses, and other identifying details of the person to whom the written determination pertains and of any other person, other than a person with respect to whom a notation is made under subsection (d)(1), identified in the written determination or any background file document;
 
-&emsp;(2) information specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy, and which is in fact properly classified pursuant to such Executive order;
+&emsp;(2) information specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy, and which is in factproperly classified pursuant to such Executive order;
 
 &emsp;(3) information specifically exempted from disclosure by any statute (other than this title) which is applicable to the Internal Revenue Service;
 
@@ -148,7 +148,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 &emsp;&emsp;(A) the transaction set forth in the written determination is not completed during the period set forth in paragraph (3), and
 
-&emsp;&emsp;(B) the person by whom or on whose behalf the request for the written determinationwas made establishes to the satisfaction of the Secretary that good cause exists for additional delay in opening the written determination to public inspection,
+&emsp;&emsp;(B) the person by whom or on whose behalf the request for the written determination was made establishes to the satisfaction of the Secretary that good cause exists for additional delay in opening the written determination to public inspection,
 
 > &emsp;the period referred to in paragraph (3) shall be further extended (for not to exceed an additional 180 days) until the day which is 15 days after the date of the Secretary's determination that the transaction set forth in the written determination has been completed.
 
@@ -224,15 +224,15 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (B) Revenue provision defined
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “revenue provision” means any existing orformer internal revenue law, regulation, revenue ruling, revenue procedure, other published or unpublished guidance, or tax treaty, either in general or as applied to specific taxpayers or groups of specific taxpayers.
+&emsp;&emsp;For purposes of subparagraph (A), the term “revenue provision” means any existing or former internal revenue law, regulation, revenue ruling, revenue procedure, other published or unpublished guidance, or tax treaty, either in general or as applied to specific taxpayers or groups of specific taxpayers.
 
 #### (2) Additional documents treated as Chief Counsel advice
 
-&emsp;The Secretary may by regulation provide that this section shall apply to any advice or instruction prepared and issued by the Office of Chief Counsel which is not described in paragraph (1).
+&emsp;The Secretary may by regulation provide that this section shall apply to any advice orinstruction prepared and issued by the Office of Chief Counsel which is not described in paragraph (1).
 
 #### (3) Deletions for Chief Counsel advice
 
-&emsp;In the case of Chief Counsel advice open to public inspection pursuant to this section—
+&emsp;In the case of Chief Counsel advice and related background file documents open to public inspection pursuant to this section—
 
 &emsp;&emsp;(A) paragraphs (2) through (7) of subsection (c) shall not apply, but
 
@@ -314,7 +314,7 @@ This section shall not apply to—
 
 Except as otherwise provided in this title, or with respect to a discovery order made in connection with a judicial proceeding, the Secretary shall not be required by any Court to make any written determination or background file document open or available to public inspection, or to refrain from disclosure of any such documents.
 
-(Added Pub. L. 94–455, title XII, §1201(a), Oct. 4, 1976, 90 Stat. 1660; amended Pub. L. 97–164, title I, §160(a)(9), Apr. 2, 1982, 96 Stat. 48; Pub. L. 98–620, title IV, §402(28)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–206, title III, §3509(a)–(c), July 22, 1998, 112 Stat. 772, 773; Pub. L. 106–170, title V, §521(a)(2), Dec. 17, 1999, 113 Stat. 1925; Pub. L. 106–554, §1(a)(7) \[title III, §§304(c), 313(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, 2763A–643.)
+(Added Pub. L. 94–455, title XII, §1201(a), Oct. 4, 1976, 90 Stat. 1660; amended Pub. L. 97–164, title I, §160(a)(9), Apr. 2, 1982, 96 Stat. 48; Pub. L. 98–620, title IV, §402(28)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–206, title III, §3509(a)–(c), July 22, 1998, 112 Stat. 772, 773; Pub. L. 106–170, title V, §521(a)(2), Dec. 17, 1999, 113 Stat. 1925; Pub. L. 106–554, §1(a)(7) \[title III, §§304(c), 313(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, 2763A–643; Pub. L. 110–172, §10(a), Dec. 29, 2007, 121 Stat. 2484.)
 
 #### References in Text
 
@@ -325,6 +325,8 @@ The Internal Revenue Code of 1939, referred to in subsec. (h)(3)(C), is act Feb.
 A prior section 6110 was renumbered 6116 of this title.
 
 #### Amendments
+
+2007—Subsec. (i)(3). Pub. L. 110–172 inserted “and related background file documents” after “Chief Counsel advice” in introductory provisions.
 
 2000—Subsec. (b)(1). Pub. L. 106–554, §1(a)(7) \[title III, §304(c)(1)\], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘written determination’ means a ruling, determination letter, technical advice memorandum, or Chief Counsel advice. Such term shall not include any advance pricing agreement entered into by a taxpayer and the Secretary and any background information related to such agreement or any application for an advance pricing agreement.”
 
@@ -356,6 +358,10 @@ Subsecs. (<i>l</i>), (m). Pub. L. 105–206, §3509(b), redesignated subsecs. (k
 
 1982—Subsec. (i)(1). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–172, §10(b), Dec. 29, 2007, 121 Stat. 2484, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\] to which it relates.”
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(7) \[title III, §304(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, provided that: “The amendments made by this section \[enacting section 6105 of this title and amending this section and section 6103 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\].”
@@ -372,7 +378,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 “(2)
 
-Transition rules.—The amendments made by this section shall apply to any Chief Counsel advice issued after December 31, 1985, and before the 91st day after the date of the enactment of this Act \[July 22, 1998\] by the offices of the associate chief counsel for domestic, employee benefits and exempt organizations, and international, except that any such Chief Counseladvice shall be treated as made available on a timely basis if such advice is made available for public inspection not later than the following dates:
+Transition rules.—The amendments made by this section shall apply to any Chief Counsel advice issued after December 31, 1985, and before the 91st day after the date of the enactment of this Act \[July 22, 1998\] by the offices of the associate chief counsel for domestic, employee benefits and exempt organizations, and international, except that any such Chief Counsel advice shall be treated as made available on a timely basis if such advice is made available for public inspection not later than the following dates:
 
 &emsp;“(A) One year after the date of the enactment of this Act \[July 22, 1998\], in the case of all litigation guideline memoranda, service center advice, tax litigation bulletins, criminal tax bulletins, and general litigation bulletins.
 

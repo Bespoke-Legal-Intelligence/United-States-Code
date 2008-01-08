@@ -2,7 +2,7 @@
 
 #### (a) Limitation
 
-Each contracting agency shall have authority, notwithstanding any provisions of law other than contained in this chapter, (1) to make any contract necessary and appropriate to carry out the provisions of this chapter; (2) to amend by agreement any existing contract, either before or after notice of its termination, on such terms and to such extent as it deems necessary and appropriate to carry out the provisions of thischapter; and (3) in settling any termination claim, to agree to assume, or indemnify the war contractor against, any claims by any person in connection with such termination claims or settlement. This subsection shall not limit or affect in any way any authority of any contracting agency under the First War Powers Act, 1941, or under any other statute.
+Each contracting agency shall have authority, notwithstanding any provisions of law other than contained in this chapter, (1) to make any contract necessary and appropriate to carry out the provisions of this chapter; (2) to amend by agreement any existing contract, either before or after notice of its termination, on such terms and to such extent as it deems necessary and appropriate to carry out the provisions of this chapter; and (3) in settling any termination claim, to agree to assume, or indemnify the war contractor against, any claims by any person in connection with such termination claims or settlement. This subsection shall not limit or affect in any way any authority of any contracting agency under the First War Powers Act, 1941, or under any other statute.
 
 #### (b) Evidence required; conclusiveness of determinations
 
@@ -38,7 +38,7 @@ Subsec. (g), relating to the duties of Smaller War Plants Corporation, omitted o
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
+Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) ofact June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 “Secretary” substituted for “Director” by section 8 of Ex. Ord. No. 9809 and section 201 of Reorg. Plan No. 1 of 1947, set out in the Appendix to Title 5, Government Organization and Employees.
 

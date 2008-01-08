@@ -2,7 +2,7 @@
 
 #### (a) Rate
 
-There shall be levied, collected, and paid on firearms transferred a tax at the rate of $200 foreach firearm transferred, except, the transfer tax on any firearm classified as any other weapon under section 5845(e) shall be at the rate of $5 for each such firearm transferred.
+There shall be levied, collected, and paid on firearms transferred a tax at the rate of $200 for each firearm transferred, except, the transfer tax on any firearm classified as any other weapon under section 5845(e) shall be at the rate of $5 for each such firearm transferred.
 
 #### (b) By whom paid
 

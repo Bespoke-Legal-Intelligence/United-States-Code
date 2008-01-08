@@ -24,7 +24,7 @@ General Prohibitions.—Whoever, in a circumstance described in subsection (c), 
 
 &emsp;(8) surveils, photographs, videotapes, diagrams, or otherwise collects information with the intent to plan or assist in planning any of the acts described in paragraphs (1) through (6);
 
-&emsp;(9) conveys false information, knowing the information to be false, concerning an attempt or alleged attempt to engage in a violation of this subsection; or
+&emsp;(9) conveys false information, knowing the information to be false, concerning an attemptor alleged attempt to engage in a violation of this subsection; or
 
 &emsp;(10) attempts, threatens, or conspires to engage in any violation of any of paragraphs (1) through (9),
 
@@ -64,13 +64,13 @@ Definitions.—In this section—
 
 &emsp;(3) the term “destructive device” has the meaning given to that term in section 921(a)(4);
 
-&emsp;(4) the term “destructive substance” means an explosive substance, flammable material, infernal machine, or other chemical, mechanical, or radioactive device or material, or matter of a combustible, contaminative, corrosive, or explosive nature, except that the term “radioactive device” does not include any radioactive device or material used solely formedical, industrial, research, or other peaceful purposes;
+&emsp;(4) the term “destructive substance” means an explosive substance, flammable material, infernal machine, or other chemical, mechanical, or radioactive device or material, or matter of a combustible, contaminative, corrosive, or explosive nature, except that the term “radioactive device” does not include any radioactive device or material used solely for medical, industrial, research, or other peaceful purposes;
 
 &emsp;(5) the term “hazardous material” has the meaning given to that term in chapter 51 of title 49;
 
 &emsp;(6) the term “high-level radioactive waste” has the meaning given to that term in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12));
 
-&emsp;(7) the term “mass transportation” has the meaning given to that term in section 5302(a)(7) of title 49, except that the term includes school bus, charter, and sightseeing transportation and passenger vessel as that term is defined in section 2101(22) of title 46, United States Code;
+&emsp;(7) the term “mass transportation” has the meaning given to that term in section 5302(a)(7) of title 49, except that the term includes intercity bus transportation <sup>2</sup> school bus, charter, and sightseeing transportation and passenger vessel as that term is defined in section 2101(22) of title 46, United States Code;
 
 &emsp;(8) the term “on-track equipment” means a carriage or other contrivance that runs on rails or electromagnetic guideways;
 
@@ -90,11 +90,17 @@ Definitions.—In this section—
 
 &emsp;(16) the term “vehicle” means any carriage or other contrivance used, or capable of being used, as a means of transportation on land, on water, or through the air.
 
-(Added Pub. L. 109–177, title I, §110(a), Mar. 9, 2006, 120 Stat. 205.)
+(Added Pub. L. 109–177, title I, §110(a), Mar. 9, 2006, 120 Stat. 205; amended Pub. L. 110–53, title XV, §1539, Aug. 3, 2007, 121 Stat. 468.)
 
 #### Prior Provisions
 
 A prior section 1992, acts June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title VI, §60003(a)(8), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–88, title IV, §402(b), Dec. 29, 1995, 109 Stat. 955; Pub. L. 107–56, title VIII, §811(e), Oct. 26, 2001, 115 Stat. 381; Pub. L. 107–273, div. B, title IV, §4002(a)(6), Nov. 2, 2002, 116 Stat. 1807, related to penalties for wrecking a train used by a railroad in interstate or foreign commerce, prior to repeal by Pub. L. 109–177, title I, §110(a), Mar. 9, 2006, 120 Stat. 205.
 
+#### Amendments
+
+2007—Subsec. (d)(7). Pub. L. 110–53 inserted “intercity bus transportation” after “includes”.
+
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -14,7 +14,7 @@ If any person subject to section 1461 of this title fails to pay a civil penalty
 
 #### (d) Compromise or other action by the Administrator
 
-The Administrator may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section unless an action brought under subsection (b) or (c) of this section is pending in a court of the United States.
+The Administrator may compromise, modify, or remit, with or without conditions, any civilpenalty which is subject to imposition or which has been imposed under this section unless an action brought under subsection (b) or (c) of this section is pending in a court of the United States.
 
 (Pub. L. 96–283, title III, §302, June 28, 1980, 94 Stat. 577.)
 

@@ -20,7 +20,7 @@
 
 &emsp;(A)(i) has directly or indirectly (as determined by the Secretary in regulations) an ownership interest of 5 per centum or more in the entity; or
 
-&emsp;(ii) is the owner of a whole or part interest in any mortgage, deed of trust, note, or otherobligation secured (in whole or in part) by the entity or any of the property or assets thereof, which whole or part interest is equal to or exceeds 5 per centum of the total property and assets of the entity; or
+&emsp;(ii) is the owner of a whole or part interest in any mortgage, deed of trust, note, or other obligation secured (in whole or in part) by the entity or any of the property or assets thereof, which whole or part interest is equal to or exceeds 5 per centum of the total property and assets of the entity; or
 
 &emsp;(B) is an officer or director of the entity, if the entity is organized as a corporation; or
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explici
 
 #### Effective Date
 
-Section 3(e) of Pub. L. 95–142 provided that: “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to certifications and recertifications made (and participation in the programs established by titles V, XVIII, XIX, and XX of the Social Security Act \[subchapters V, XVIII, XIX, and XX of this chapter\] pursuant to certifications and recertifications made), and fiscal intermediary or agent agreements or contracts entered into or renewed, on and after the date of the enactment of this Act \[Oct. 25, 1977\]. The remaining amendments made by this section \[amending sections 1395x and 1395cc of this title\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1977\]; except that the amendments made by subsections (c) and (d) \[amending sections 1396a, 1396b, 1397a, and 1397b of this title\] shall become effective January 1, 1978.”
+Section 3(e) of Pub. L. 95–142 provided that: “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to certifications and recertifications made (and participation in the programs established by titles V, XVIII, XIX, and XX ofthe Social Security Act \[subchapters V, XVIII, XIX, and XX of this chapter\] pursuant to certifications and recertifications made), and fiscal intermediary or agent agreements or contracts entered into or renewed, on and after the date of the enactment of this Act \[Oct. 25, 1977\]. The remaining amendments made by this section \[amending sections 1395x and 1395cc of this title\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1977\]; except that the amendments made by subsections (c) and (d) \[amending sections 1396a, 1396b, 1397a, and 1397b of this title\] shall become effective January 1, 1978.”
 
 #### Report on Confidentiality of Social Security Account Numbers
 

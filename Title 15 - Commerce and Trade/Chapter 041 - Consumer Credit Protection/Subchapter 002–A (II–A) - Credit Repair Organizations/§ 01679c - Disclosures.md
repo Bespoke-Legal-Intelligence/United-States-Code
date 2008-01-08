@@ -18,7 +18,7 @@ Any credit repair organization shall provide any consumer with the following wri
 
 “You may, on your own, notify a credit bureau in writing that you dispute the accuracy of information in your credit file. The credit bureau must then reinvestigate and modify or remove inaccurate or incomplete information. The credit bureau may not charge any fee for this service. Any pertinent information and copies of all documents you have concerning an error should be given to the credit bureau.
 
-“If the credit bureau's reinvestigation does not resolve the dispute to your satisfaction, youmay send a brief statement to the credit bureau, to be kept in your file, explaining why you think the record is inaccurate. The credit bureau must include a summary of your statement about disputed information with any report it issues about you.
+“If the credit bureau's reinvestigation does not resolve the dispute to your satisfaction, you may send a brief statement to the credit bureau, to be kept in your file, explaining why you think the record is inaccurate. The credit bureau must include a summary of your statement about disputed information with any report it issues about you.
 
 “The Federal Trade Commission regulates credit bureaus and credit repair organizations. For more information contact:
 

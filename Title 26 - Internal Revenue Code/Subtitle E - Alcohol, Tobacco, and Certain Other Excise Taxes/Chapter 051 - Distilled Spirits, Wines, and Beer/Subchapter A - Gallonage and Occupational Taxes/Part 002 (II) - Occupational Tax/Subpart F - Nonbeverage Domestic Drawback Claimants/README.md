@@ -24,7 +24,7 @@ Subpart F—Nonbeverage Domestic Drawback Claimants
 
 #### Prior Provisions
 
-A prior subpart F, consisting of sections 5131 to 5134, related to nonbeverage domestic drawback claimants, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subpart F, consisting of sections 5131 to 5134, related to nonbeverage domestic drawback claimants,prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.
 
 
 ---

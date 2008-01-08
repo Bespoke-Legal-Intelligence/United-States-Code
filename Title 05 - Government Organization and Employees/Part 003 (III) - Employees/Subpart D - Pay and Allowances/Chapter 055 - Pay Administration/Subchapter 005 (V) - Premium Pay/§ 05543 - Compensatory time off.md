@@ -16,7 +16,7 @@
 
 &emsp;(A) with respect to an employee of a nonappropriated fund instrumentality of the Department of Defense, the Secretary of Defense; and
 
-&emsp;(B) with respect to an employee of a nonappropriated fund instrumentality of the CoastGuard, the Secretary of the Executive department in which it is operating.
+&emsp;(B) with respect to an employee of a nonappropriated fund instrumentality of the Coast Guard, the Secretary of the Executive department in which it is operating.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 486; Pub. L. 90–83, §1(25), Sept. 11, 1967, 81 Stat. 200; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(2)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460; Pub. L. 104–201, div. A, title XVI, §1610(a), Sept. 23, 1996, 110 Stat. 2738; Pub. L. 109–163, div. A, title VI, §674, Jan. 6, 2006, 119 Stat. 3319.)
 
@@ -80,7 +80,7 @@ GS–10, referred to in subsec. (a)(2), is contained in the General Schedule whi
 
 1990—Subsec. (a)(1). Pub. L. 101–509, §529 \[title II, §210(2)\], inserted “under section 5542 or section 7 of the Fair Labor Standards Act of 1938” after “payment”.
 
-Subsec. (a)(2). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10”.
+Subsec. (a)(2). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rateof pay under section 5305 or similar provision of law)” after “GS–10”.
 
 #### Effective Date of 1990 Amendment
 

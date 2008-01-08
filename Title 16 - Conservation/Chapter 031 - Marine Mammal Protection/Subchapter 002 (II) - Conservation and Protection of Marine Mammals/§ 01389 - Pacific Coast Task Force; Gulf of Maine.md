@@ -58,7 +58,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 (1) The Secretary shall engage in a scientific investigation to determine whether California sea lions and Pacific harbor seals—
 
-&emsp;(A) are having a significant negative impact on the recovery of salmonid fishery stocks which have been listed as endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), or which the Secretary finds are approaching such endangered species or threatened species status; or
+&emsp;(A) are having a significant negative impact on the recovery of salmonid fishery stocks which have been listed as endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), orwhich the Secretary finds are approaching such endangered species or threatened species status; or
 
 &emsp;(B) are having broader impacts on the coastal ecosystems of Washington, Oregon, and California.
 
@@ -118,5 +118,5 @@ The Federal Advisory Committee Act, referred to in subsec. (i)(B), is Pub. L. 92
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

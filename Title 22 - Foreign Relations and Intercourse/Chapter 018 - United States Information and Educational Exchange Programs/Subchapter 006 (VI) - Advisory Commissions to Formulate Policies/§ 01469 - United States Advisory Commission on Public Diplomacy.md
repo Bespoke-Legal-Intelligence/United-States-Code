@@ -4,7 +4,7 @@
 
 (1) There is established an advisory commission to be known as the United States Advisory Commission on Public Diplomacy.
 
-(2) The Commission shall consist of seven members appointed by the President, by andwith the advice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from a cross section of educational, communications, cultural, scientific, technical, public service, labor, business, and professional backgrounds. Not more than four members shall be from any one political party.
+(2) The Commission shall consist of seven members appointed by the President, by and with the advice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from a cross section of educational, communications, cultural, scientific, technical, public service, labor, business, and professional backgrounds. Not more than four members shall be from any one political party.
 
 (3) The term of each member shall be 3 years, except that of the original seven appointments, two shall be for a term of 1 year and two shall be for a term of 2 years.
 
@@ -64,7 +64,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(c)\], Nov. 29,
 
 “(1)
 
-Reenactment.—The provisions of law repealed by section 1334 \[22 U.S.C. 6553\] of the Foreign Affairs Reform and Restructuring Act of 1998 \[repealing this section and section 8 of Reorganization Plan No. 2 of 1977, set out under section 1461 of this title and in theAppendix to Title 5, Government Organization and Employees\], as in effect before the date of the enactment of this Act \[Nov. 29, 1999\], are hereby reenacted into law.
+Reenactment.—The provisions of law repealed by section 1334 \[22 U.S.C. 6553\] of the Foreign Affairs Reform and Restructuring Act of 1998 \[repealing this section and section 8 of Reorganization Plan No. 2 of 1977, set out under section 1461 of this title and in the Appendix to Title 5, Government Organization and Employees\], as in effect before the date of the enactment of this Act \[Nov. 29, 1999\], are hereby reenacted into law.
 
 “(2)
 

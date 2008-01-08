@@ -1,6 +1,6 @@
 ### §1804. Inland and intracoastal waterways of the United States
 
-For purposes of section 4042 of title 26 (relating to tax on fuel used in commercial transportation on inland waterways) and for purposes of section 1802 <sup>1</sup> of this title, the following inland and intracoastal waterways of the United States are described in this section:
+For purposes of section 4042 of title 26 (relating to tax on fuel used in commercial transportation on inland waterways) and for purposes of section 1802 <sup>1</sup> of this title, the following inlandand intracoastal waterways of the United States are described in this section:
 
 &emsp;(1) Alabama-Coosa Rivers: From junction with the Tombigbee River at river mile (hereinafter referred to as RM) 0 to junction with Coosa River at RM 314.
 

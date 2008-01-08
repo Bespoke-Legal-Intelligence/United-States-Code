@@ -14,5 +14,5 @@ Section 1506(c) of Pub. L. 100–203 provided that: “This section and the amen
 
 #### Operating Expenses
 
-Section 1506(b) of Pub. L. 100–203 provided that: “No funds may be appropriated for operating expenses of the Commodity Credit Corporation except as authorized under section 2 of Public Law 87–155 \[15 U.S.C. 713a–11\] to reimburse the Corporation for net realized losses.”
+Section 1506(b) of Pub. L. 100–203 provided that: “No funds may be appropriated for operating expenses ofthe Commodity Credit Corporation except as authorized under section 2 of Public Law 87–155 \[15 U.S.C. 713a–11\] to reimburse the Corporation for net realized losses.”
 

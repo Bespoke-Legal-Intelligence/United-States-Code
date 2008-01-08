@@ -2,7 +2,7 @@
 
 #### (a) Marking of articles
 
-Except as hereinafter provided, every article of foreign origin (or its container, as provided in subsection (b) hereof) imported into the United States shall be marked in a conspicuous place as legibly, indelibly, and permanently as the nature of the article (or container) will permit in such manner as to indicate to an ultimate purchaser in the United States the English name of the country of origin of the article. The Secretary of the Treasury may by regulations—
+Except as hereinafter provided, every article of foreign origin (or its container, as provided in subsection (b) hereof) imported into the United States shall be marked in a conspicuous place as legibly, indelibly, and permanently as the nature of the article (or container) will permit insuch manner as to indicate to an ultimate purchaser in the United States the English name of the country of origin of the article. The Secretary of the Treasury may by regulations—
 
 &emsp;(1) Determine the character of words and phrases or abbreviations thereof which shall be acceptable as indicating the country of origin and prescribe any reasonable method of marking, whether by printing, stenciling, stamping, branding, labeling, or by any other reasonable method, and a conspicuous place on the article (or container) where the marking shall appear;
 
@@ -48,7 +48,7 @@ No exception may be made under subsection (a)(3) of this section with respect to
 
 #### (e) Marking of certain manhole rings or frames, covers, and assemblies thereof
 
-No exception may be made under subsection (a)(3) of this section with respect to manhole rings or frames, covers, and assemblies thereof each of which shall be marked on the top surface with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or an equally permanent method of marking.
+No exception may be made under subsection (a)(3) of this section with respect to manhole rings or frames, covers, and assemblies thereof each of which shall be marked on the top surfacewith the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or an equally permanent method of marking.
 
 #### (f) Marking of certain coffee and tea products
 
@@ -68,7 +68,7 @@ The marking requirements of subsections (a) and (b) of this section shall not ap
 
 #### (i) Additional duties for failure to mark
 
-If at the time of importation any article (or its container, as provided in subsection (b) ofthis section) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) of this section) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
+If at the time of importation any article (or its container, as provided in subsection (b) of this section) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) of this section) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
 
 #### (j) Delivery withheld until marked
 
@@ -106,7 +106,7 @@ No imported article held in customs custody for inspection, examination, or appr
 
 #### (B) Intervention or petition regarding adverse marking decisions
 
-&emsp;&emsp;If the Customs Service makes an adverse marking decision regarding any merchandise, the Customs Service shall, upon written request by the exporter or producer of the merchandise, provide to the exporter or producer a statement of the basis for the decision. If the exporter or producer believes that the decision is not correct, it may intervene in any protest proceeding initiated by the importer of the merchandise. If the importer does not file a protest with regard to the decision, the exporter or producer may file a petition with the Customs Service setting forth—
+&emsp;&emsp;If the Customs Service makes an adverse marking decision regarding any merchandise, the Customs Service shall, upon written request by the exporter or producer of the merchandise, provide to the exporter orproducer a statement of the basis for the decision. If the exporter or producer believes that the decision is not correct, it may intervene in any protest proceeding initiated by the importer of the merchandise. If the importer does not file a protest with regard to the decision, the exporter or producer may file a petition with the Customs Service setting forth—
 
 &emsp;&emsp;&emsp;(i) a description of the merchandise; and
 
@@ -122,7 +122,7 @@ No imported article held in customs custody for inspection, examination, or appr
 
 #### (D) Judicial review
 
-&emsp;&emsp;For purposes of judicial review, the denial of a petition under subparagraph (C)(ii) shall be treated as if it were a denial of a petitionof an interested party under section 1516 of this title regarding an issue arising under any of the preceding provisions of this section.
+&emsp;&emsp;For purposes of judicial review, the denial of a petition under subparagraph (C)(ii) shall be treated as if it were a denial of a petition of an interested party under section 1516 of this title regarding an issue arising under any of the preceding provisions of this section.
 
 #### (<i>l</i>) Penalties
 
@@ -254,7 +254,7 @@ Section 23 of act Aug. 8, 1953, provided: “Except as may be otherwise provided
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers and employees, referred to in text, were under Department of the Treasury.
 

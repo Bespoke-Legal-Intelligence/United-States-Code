@@ -40,7 +40,7 @@ As soon as practicable and subject to the availability of funds the Secretary sh
 
 #### (1) In general
 
-&emsp;The Secretary may permit hunting on privately owned land added to the Park underthis subchapter, subject to limitations, conditions, or regulations that may be prescribed by the Secretary.
+&emsp;The Secretary may permit hunting on privately owned land added to the Park under this subchapter, subject to limitations, conditions, or regulations that may be prescribed by the Secretary.
 
 #### (2) Termination of authority
 

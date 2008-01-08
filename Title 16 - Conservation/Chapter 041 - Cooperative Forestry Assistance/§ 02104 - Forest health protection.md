@@ -208,7 +208,7 @@ Monitoring, Evaluation and Reporting.—The Forest Service and the Bureau of Lan
 
 #### Herger-Feinstein Quincy Library Group Forest Recovery
 
-Pub. L. 105–277, div. A, §101(e) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305, as amended by Pub. L. 107–171, title VI, §6201(d)(5), May 13, 2002, 116 Stat. 419, provided that:
+Pub. L. 105–277, div. A, §101(e) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305, as amended by Pub. L. 107–171, title VI, §6201(d)(5), May 13, 2002, 116 Stat. 419; Pub. L. 110–161, div. F, title IV, §434, Dec. 26, 2007, 121 Stat. 2153, provided that:
 
 “
 
@@ -272,7 +272,7 @@ Fuelbreak construction.—Construction of a strategic system of defensible fuel 
 
 &emsp;“(2)
 
-Group selection and individual tree selection.—Utilization of group selection and individual tree selection uneven-aged forest management prescriptions described in the Quincy Library Group-Community Stability Proposal to achieve a desired future condition of all-age, multistory, fire resilient forests as follows:
+Group selection and individual tree selection.—Utilization of group selection and individualtree selection uneven-aged forest management prescriptions described in the Quincy Library Group-Community Stability Proposal to achieve a desired future condition of all-age, multistory, fire resilient forests as follows:
 
 &emsp;&emsp;“(A)
 
@@ -292,7 +292,7 @@ Riparian management.—A program of riparian management, including wide protecti
 
 “(e)
 
-Cost-Effectiveness.—In conducting the pilot project, Secretary shall use the most cost-effectivemeans available, as determined by the Secretary, to implement resource management activities described in subsection (d).
+Cost-Effectiveness.—In conducting the pilot project, Secretary shall use the most cost-effective means available, as determined by the Secretary, to implement resource management activities described in subsection (d).
 
 “(f)
 
@@ -336,7 +336,7 @@ Baseline funds.—Amounts available for resource management activities authorize
 
 “(g)
 
-Term of Pilot Project.—The Secretary shall conduct the pilot project until the earlier of: (1) the date on which the Secretary completes amendment or revision of the land and resource management plans directed under and in compliance with subsection (i) for the Plumas National Forest, Lassen National Forest, and Tahoe National Forest; or (2) five years after the date of the commencement of the pilot project.
+Term of Pilot Project.—The Secretary shall conduct the pilot project until September 30, 2012.
 
 “(h)
 
@@ -346,13 +346,7 @@ Consultation.—(1) The statement required by subsection (b)(1) shall be prepare
 
 Contracting.—The Forest Service, subject to the availability of appropriations, may carry out any (or all) of the requirements of this section using private contracts.
 
-“(i)
-
-Corresponding Forest Plan Amendments.—Within 2 years after the date of the enactment of this Act \[Oct. 21, 1998\], the Regional Forester for Region 5 shall initiate the process to amend or revise the land and resource management plans for Plumas National Forest, Lassen National Forest, and Tahoe National Forest. The process shall include preparation of at least one alternative that—
-
-&emsp;“(1) incorporates the pilot project and area designations made by subsection (b), the resource management activities described in subsection (d), and other aspects of the Quincy Library Group-Community Stability Proposal; and
-
-&emsp;“(2) makes other changes warranted by the analyses conducted in compliance with section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)), section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604), and other applicable laws.
+“\[(i)\] By June 1, 2008, the Forest Service shall initiate a collaborative process with the Plaintiffs in Sierra Nevada Forest Prot. Campaign v. Rey, Case No. CIV–S–05–0205 MCE/GGH (E.D. Cal.), appeal docketed sub nom. Sierra Forest Legacy v. Rey, No. 07–16892 (9th Cir. Oct. 23, 2007) and the Quincy Library Group to determine whether modifications to the Pilot Project are appropriate for the remainder of the Pilot Project.
 
 “(j)
 
@@ -398,7 +392,7 @@ Preparation.—The panel shall initiate such review no sooner than 18 months aft
 
 &emsp;“(3)
 
-Submission to the congress.—The panel shall submit the final report to the Congress as soon as practicable, but in no case later than 18 months after completion of the pilot project.
+Submission to the congress.—The panel shall submit the final report to the Congress as soon aspracticable, but in no case later than 18 months after completion of the pilot project.
 
 &emsp;“(4)
 
@@ -407,6 +401,8 @@ Limitation on expenditures.—The amount of Federal funds expended for the repor
 “(<i>l</i>)
 
 Relationship to Other Laws.—Nothing in this section exempts the pilot project from any Federal environmental law.
+
+“(m) Sections 104–106 of Public Law 108–148 \[16 U.S.C. 6514—6516\] shall apply to projects authorized by this Act \[probably should be this title\].
 
 “
 

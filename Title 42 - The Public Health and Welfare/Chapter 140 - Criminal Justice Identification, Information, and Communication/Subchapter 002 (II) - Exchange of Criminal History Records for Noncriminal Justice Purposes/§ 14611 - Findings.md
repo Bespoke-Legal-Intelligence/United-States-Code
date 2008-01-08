@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(4) an interstate and Federal-State compact is necessary to facilitate authorized interstate criminal history record exchanges for noncriminal justice purposes on a uniform basis, while permitting each State to effectuate its own dissemination policy within its own borders; and
 
-&emsp;(5) such a compact will allow Federal and State records to be provided expeditiously to governmental and nongovernmental agencies that use such records in accordance with pertinent Federal and State law, while simultaneously enhancing the accuracy of the records and safeguarding the information contained therein from unauthorized disclosure or use.
+&emsp;(5) such a compact will allow Federal and State records to be provided expeditiously togovernmental and nongovernmental agencies that use such records in accordance with pertinent Federal and State law, while simultaneously enhancing the accuracy of the records and safeguarding the information contained therein from unauthorized disclosure or use.
 
 (Pub. L. 105–251, title II, §212, Oct. 9, 1998, 112 Stat. 1874.)
 

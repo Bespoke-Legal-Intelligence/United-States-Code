@@ -10,13 +10,13 @@
 
 &emsp;&emsp;(ii) defraying reasonable expenses of administering the plan;
 
-&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailingthat a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
+&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
 
 &emsp;(C) by diversifying the investments of the plan so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so; and
 
 &emsp;(D) in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and subchapter III of this chapter.
 
-(2) In the case of an eligible individual account plan (as defined in section 1107(d)(3) of this title), the diversification requirement of paragraph (1)(C) and the prudence requirement (only to the extent that it requires diversification) of paragraph (1)(B) is not violated by acquisition or holding of qualifying employer real property or qualifying employer securities (as defined in section 1107(d)(4) and (5) of this title).
+(2) In the case of an eligible individual account plan (as defined in section 1107(d)(3) of this title), the diversification requirement of paragraph (1)(C) and the prudence requirement (only to the extent that it requires diversification) ofparagraph (1)(B) is not violated by acquisition or holding of qualifying employer real property or qualifying employer securities (as defined in section 1107(d)(4) and (5) of this title).
 
 #### (b) Indicia of ownership of assets outside jurisdiction of district courts
 
@@ -24,11 +24,15 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 #### (c) Control over assets by participant or beneficiary
 
-(1) In the case of a pension plan which provides for individual accounts and permits a participant or beneficiary to exercise control over the assets in his account, if a participant or beneficiary exercises control over the assets in his account (as determined under regulations of the Secretary)—
+(1)(A) In the case of a pension plan which provides for individual accounts and permits a participant or beneficiary to exercise control over the assets in his account, if a participant or beneficiary exercises control over the assets in his account (as determined under regulations of the Secretary)—
 
-&emsp;(A) such participant or beneficiary shall not be deemed to be a fiduciary by reason of such exercise, and
+&emsp;(i) such participant or beneficiary shall not be deemed to be a fiduciary by reason of such exercise, and
 
-&emsp;(B) no person who is otherwise a fiduciary shall be liable under this part for any loss, or by reason of any breach, which results from such participant's or beneficiary's exercise of control.
+&emsp;(ii) no person who is otherwise a fiduciary shall be liable under this part for any loss, or by reason of any breach, which results from such participant's or beneficiary's exercise of control, except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary to direct the investment of the assets in his or her account is suspended by a plan sponsor or fiduciary.
+
+(B) If a person referred to in subparagraph (A)(ii) meets the requirements of this subchapter in connection with authorizing and implementing the blackout period, any person who is otherwise a fiduciary shall not be liable under this subchapter for any loss occurring during such period.
+
+(C) For purposes of this paragraph, the term “blackout period” has the meaning given such term by section 1021(i)(7) of this title.
 
 (2) In the case of a simple retirement account established pursuant to a qualified salary reduction arrangement under section 408(p) of title 26, a participant or beneficiary shall, for purposes of paragraph (1), be treated as exercising control over the assets in the account upon the earliest of—
 
@@ -49,6 +53,46 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 &emsp;&emsp;(ii) one year after the transfer is made; or
 
 &emsp;(B) a transfer that is made in a manner consistent with guidance provided by the Secretary.
+
+(4)(A) In any case in which a qualified change in investment options occurs in connection with an individual account plan, a participant or beneficiary shall not be treated for purposes of paragraph (1) as not exercising control over the assets in his account in connection with such change if the requirements of subparagraph (C) are met in connection with such change.
+
+(B) For purposes of subparagraph (A), the term “qualified change in investment options” means, in connection with an individual account plan, a change in the investment options offered to the participant or beneficiary under the terms of the plan, under which—
+
+&emsp;(i) the account of the participant or beneficiary is reallocated among one or more remaining or new investment options which are offered in lieu of one or more investment options offered immediately prior to the effective date of the change, and
+
+&emsp;(ii) the stated characteristics of the remaining or new investment options provided under clause (i), including characteristics relating to risk and rate of return, are, as of immediately after the change, reasonably similar to those of the existing investment options as of immediately before the change.
+
+(C) The requirements of this subparagraph are met in connection with a qualified change in investment options if—
+
+&emsp;(i) at least 30 days and no more than 60 days prior to the effective date of the change, the plan administrator furnishes written notice of the change to the participants and beneficiaries, including information comparing the existing and new investment options and an explanation that, in the absence of affirmative investment instructions from the participant or beneficiary to the contrary, the account of the participant or beneficiary will be invested in the manner described in subparagraph (B),
+
+&emsp;(ii) the participant or beneficiary has not provided to the plan administrator, in advance of the effective date of the change, affirmative investment instructions contrary to the change, and
+
+&emsp;(iii) the investments under the plan of the participant or beneficiary as in effect immediately prior to the effective date of the change were the product of the exercise by such participant or beneficiary of control over the assets of the account within the meaning of paragraph (1).
+
+(5)
+
+Default investment arrangements.—
+
+&emsp;(A)
+
+In general.—For purposes of paragraph (1), a participant in an individual account plan meeting the notice requirements of subparagraph (B) shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which, in the absence of an investment election by the participant, are invested by the plan in accordance with regulations prescribed by the Secretary. The regulations under this subparagraph shall provide guidance on the appropriateness of designating default investments that include a mix of asset classes consistent with capital preservation or long-term capital appreciation, or a blend of both.
+
+&emsp;(B)
+
+Notice requirements.—
+
+&emsp;&emsp;(i)
+
+In general.—The requirements of this subparagraph are met if each participant—
+
+&emsp;&emsp;&emsp;(I) receives, within a reasonable period of time before each plan year, a notice explaining the employee's right under the plan to designate how contributions and earnings will be invested and explaining how, in the absence of any investment election by the participant, such contributions and earnings will be invested, and
+
+&emsp;&emsp;&emsp;(II) has a reasonable period of time after receipt of such notice and before the beginning of the plan year to make such designation.
+
+&emsp;&emsp;(ii)
+
+Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)(D) of title 26 shall apply with respect to the notices described in this subparagraph.
 
 #### (d) Plan terminations
 
@@ -76,55 +120,17 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 (Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136; Pub. L. 107–147, title IV, §411(t), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title VI, §§621(a), 624(a), Aug. 17, 2006, 120 Stat. 978, 980.)
 
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 109–280, title VI, §621, Aug. 17, 2006, 120 Stat. 978, provided that, applicable to plan years beginning after Dec. 31, 2007, with special rule for collectively bargained agreements, subsection (c) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (1), by designating existing provisions as subparagraph (A), by redesignating former subparagraphs (A) and (B) as clauses (i) and (ii), respectively, in clause (ii), by inserting “, except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary to direct the investment of the assets in his or her account is suspended by a plan sponsor or fiduciary” before the period at the end, and by adding subparagraphs (B) and (C) to read as follows:</i>
-
-<i>“(B) If a person referred to in subparagraph (A)(ii) meets the requirements of this subchapter in connection with authorizing and implementing the blackout period, any person who is otherwise a fiduciary shall not be liable under this subchapter for any loss occurring during such period.</i>
-
-<i>“(C) For purposes of this paragraph, the term ‘blackout period’ has the meaning given such term by section 1021(i)(7) of this title.”; and</i>
-
-<i>(2) by adding paragraph (4) at the end to read as follows:</i>
-
-<i>(4)(A) In any case in which a qualified change in investment options occurs in connection with an individual account plan, a participant or beneficiary shall not be treated for purposes of paragraph (1) as not exercising control over the assets in his account in connection with such change if the requirements of subparagraph (C) are met in connection with such change.</i>
-
-<i>(B) For purposes of subparagraph (A), the term “qualified change in investment options” means, in connection with an individual account plan, a change in the investment options offered to the participant or beneficiary under the terms of the plan, under which—</i>
-
-&emsp;<i>(i) the account of the participant or beneficiary is reallocated among one or more remaining or new investment options which are offered in lieu of one or more investment options offered immediately prior to the effective date of the change, and</i>
-
-&emsp;<i>(ii) the stated characteristics of the remaining or new investment options provided under clause (i), including characteristics relating to risk and rate of return, are, as of immediately after the change, reasonably similar to those of the existing investment options as of immediately before the change.</i>
-
-<i>(C) The requirements of this subparagraph are met in connection with a qualified change in investment options if—</i>
-
-&emsp;<i>(i) at least 30 days and no more than 60 days prior to the effective date of the change, the plan administrator furnishes written notice of the change to the participants and beneficiaries, including information comparing the existing and new investment options and an explanation that, in the absence of affirmative investment instructions from the participant or beneficiary to the contrary, the account of the participant or beneficiary will be invested in the manner described in subparagraph (B),</i>
-
-&emsp;<i>(ii) the participant or beneficiary has not provided to the plan administrator, in advance of the effective date of the change, affirmative investment instructions contrary to the change, and</i>
-
-&emsp;<i>(iii) the investments under the plan of the participant or beneficiary as in effect immediately prior to the effective date of the change were the product of the exercise by such participant or beneficiary of control over the assets of the account within the meaning of paragraph (1).</i>
-
-<i>Pub. L. 109–280, title VI, §624(a), (b)(1), Aug. 17, 2006, 120 Stat. 980, provided that, applicable to plan years beginning after Dec. 31, 2006, subsection (c) of this section is amended by adding paragraph (5) at the end to read as follows:</i>
-
-<i>(5) DEFAULT INVESTMENT ARRANGEMENTS.—</i>
-
-&emsp;<i>(A) IN GENERAL.—For purposes of paragraph (1), a participant in an individual account plan meeting the notice requirements of subparagraph (B) shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which, in the absence of an investment election by the participant, are invested by the plan in accordance with regulations prescribed by the Secretary. The regulations under this subparagraph shall provide guidance on the appropriateness of designating default investments that include a mix of asset classes consistent with capital preservation or long-term capital appreciation, or a blend of both.</i>
-
-&emsp;<i>(B) NOTICE REQUIREMENTS.—</i>
-
-&emsp;&emsp;<i>(i) IN GENERAL.—The requirements of this subparagraph are met if each participant—</i>
-
-&emsp;&emsp;&emsp;<i>(I) receives, within a reasonable period of time before each plan year, a notice explaining the employee's right under the plan to designate how contributions and earnings will be invested and explaining how, in the absence of any investment election by the participant, such contributions and earnings will be invested, and</i>
-
-&emsp;&emsp;&emsp;<i>(II) has a reasonable period of time after receipt of such notice and before the beginning of the plan year to make such designation.</i>
-
-&emsp;&emsp;<i>(ii) FORM OF NOTICE.—The requirements of clauses (i) and (ii) of section 401(k)(12)(D) of title 26 shall apply with respect to the notices described in this subparagraph.</i>
-
 #### References in Text
 
 The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (d)(2)(B), is the enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Amendments
+
+2006—Subsec. (c)(1). Pub. L. 109–280, §621(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), in cl. (ii), inserted “, except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary to direct the investment of the assets in his or her account is suspended by a plan sponsor or fiduciary” before period at end, and added subpars. (B) and (C).
+
+Subsec. (c)(4). Pub. L. 109–280, §621(a)(2), added par. (4).
+
+Subsec. (c)(5). Pub. L. 109–280, §624(a), added par. (5).
 
 2002—Subsec. (c)(3)(A). Pub. L. 107–147, §411(t)(1), struck out “the earlier of” after “the earlier of” in introductory provisions.
 

@@ -1,0 +1,12 @@
+### §55604. Research on short sea transportation
+
+The Secretary of Transportation, in consultation with the Administrator of the Environmental Protection Agency, may conduct research on short sea transportation, regarding—
+
+&emsp;(1) the environmental and transportation benefits to be derived from short sea transportation alternatives for other forms of transportation;
+
+&emsp;(2) technology, vessel design, and other improvements that would reduce emissions, increase fuel economy, and lower costs of short sea transportation and increase the efficiency of intermodal transfers; and
+
+&emsp;(3) solutions to impediments to short sea transportation projects designated under section 55601.
+
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761.)
+

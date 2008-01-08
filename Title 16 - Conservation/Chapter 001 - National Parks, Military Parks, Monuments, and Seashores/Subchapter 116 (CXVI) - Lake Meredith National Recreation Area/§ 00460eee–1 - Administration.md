@@ -24,7 +24,7 @@ The Secretary shall conduct a survey of the cultural resources in the immediate 
 
 #### (f) Cooperative agreements
 
-For purposes of administering the recreation area, the Secretary may enter into cooperative agreements with any Federal agency, the State of Texas, or any political subdivision thereof, including the Canadian River Municipal Water Authority, for the rendering, on a reimbursable basis, of rescue, firefighting, law enforcement, fire preventive assistance, and other needs. TheSecretary may enter into a cooperative agreement with the city of Fritch, Texas, to develop and operate a joint venture information center. Federal funds may be expended on non-Federal lands and improvements through cooperative agreements for the purpose of this section on a 50–50 matching basis.
+For purposes of administering the recreation area, the Secretary may enter into cooperative agreements with any Federal agency, the State of Texas, or any political subdivision thereof, including the Canadian River Municipal Water Authority, for the rendering, on a reimbursable basis, of rescue, firefighting, law enforcement, fire preventive assistance, and other needs. The Secretary may enter into a cooperative agreement with the city of Fritch, Texas, to develop and operate a joint venture information center. Federal funds may be expended on non-Federal lands and improvements through cooperative agreements for the purpose of this section on a 50–50 matching basis.
 
 (Pub. L. 101–628, title V, §503, Nov. 28, 1990, 104 Stat. 4493; Pub. L. 103–437, §6(d)(24), Nov. 2, 1994, 108 Stat. 4584.)
 
@@ -37,8 +37,4 @@ Act of December 29, 1950, referred to in subsec. (b), is act Dec. 29, 1950, ch. 
 #### Amendments
 
 1994—Subsec. (d). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

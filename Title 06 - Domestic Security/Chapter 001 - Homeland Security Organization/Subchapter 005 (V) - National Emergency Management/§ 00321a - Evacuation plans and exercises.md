@@ -24,7 +24,7 @@ In developing the mass evacuation plans authorized under subsection (a), each St
 
 &emsp;(5) develop procedures for informing the public of evacuation plans before and during an evacuation, including individuals—
 
-&emsp;&emsp;(A) with disabilities or other special needs;
+&emsp;&emsp;(A) with disabilities or other special needs, including the elderly;
 
 &emsp;&emsp;(B) with limited English proficiency; or
 
@@ -44,9 +44,13 @@ In developing the mass evacuation plans authorized under subsection (a), each St
 
 #### (d) Multipurpose funds
 
-Nothing in this section may be construed to preclude a State, local, or tribal government from using grant funds in a manner that enhances preparedness for a natural or man-made disaster unrelated to an act of terrorism, if such use assists such government in building capabilities for terrorism preparedness.
+Nothing in this section may be construed to preclude a State, local, or tribal government from using grant funds in a manner that enhances preparedness for a natural or man-madedisaster unrelated to an act of terrorism, if such use assists such government in building capabilities for terrorism preparedness.
 
-(Pub. L. 107–296, title V, §512, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1407.)
+(Pub. L. 107–296, title V, §512, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1407; amended Pub. L. 110–53, title I, §102(b), Aug. 3, 2007, 121 Stat. 293.)
+
+#### Amendments
+
+2007—Subsec. (b)(5)(A). Pub. L. 110–53 inserted “, including the elderly” after “needs”.
 
 #### Change of Name
 

@@ -286,7 +286,7 @@ Section 1864(a)(2) of Pub. L. 99–514 provided that:
 
 “(A) Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 22, 1986\] in taxable years ending after such date.
 
-“(B) At the election of the issuer (made at such time and in such manner as the Secretary of the Treasury orhis delegate shall prescribe), the amendment made by paragraph (1) shall apply to any obligation issued on or before the date of the enactment of this Act.”
+“(B) At the election of the issuer (made at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe), the amendment made by paragraph (1) shall apply to any obligation issued on or before the date of the enactment of this Act.”
 
 Section 1871(a)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to obligations issued after March 28, 1985, in taxable years ending after such date.”
 
@@ -405,7 +405,7 @@ Inducement resolution before june 19, 1984.—The amendment made by section 621 
 
 Certain projects preliminarily approved before october 19, 1983, given approval.—If—
 
-&emsp;&emsp;“(A) there was an inducement resolution (or other comparable preliminary approval) for aproject before October 19, 1983, by any issuing authority,
+&emsp;&emsp;“(A) there was an inducement resolution (or other comparable preliminary approval) for a project before October 19, 1983, by any issuing authority,
 
 &emsp;&emsp;“(B) a substantial user of such project notifies the issuing authority within 30 days after the date of the enactment of this Act \[July 18, 1984\] that it intends to claim its rights under this paragraph, and
 
@@ -453,7 +453,7 @@ In general.—Except as provided in clause (ii), in the case of property placed 
 
 &emsp;&emsp;&emsp;“(ii)
 
-Significant expenditures.—In the case of facilities the original use of which commences with the taxpayer and with respect to which significant expenditures are made before January 1, 1984, the amendments made by section 628(b) shall not apply with respect to such facilities to the extent such facilities are financed by the proceeds of an obligation issued solely to refund another obligation which was issued before October 19, 1983.
+Significant expenditures.—In the case of facilities the original use of which commenceswith the taxpayer and with respect to which significant expenditures are made before January 1, 1984, the amendments made by section 628(b) shall not apply with respect to such facilities to the extent such facilities are financed by the proceeds of an obligation issued solely to refund another obligation which was issued before October 19, 1983.
 
 &emsp;&emsp;“(C)
 
@@ -495,7 +495,7 @@ Exception.—Subparagraph (A) shall not apply with respect to the amendment made
 
 &emsp;“(4)
 
-Repeal of advance refunding of qualified public facilities.—The amendment made by section 628(g) \[amending this section\] shall apply to refunding obligations issued after the date of the enactment of this Act \[July 18, 1984\]; except that if substantially all the proceeds of the refunded issue were used to provide airports or docks, such amendment shall only apply to refunding obligations issued after December 31, 1984. In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting ‘the date which is 1 year after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\]’ for ‘December 31, 1984’ and the amendments made by section 1301 of the Tax Reform Act of 1986 \[section 1301 of Pub. L. 99–514, enacting sections 141 to 150 and 7703 of this title, amending this section and sections 2, 22, 25, 32, 86, 105, 152, 153,163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing section 103A of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall not apply. In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of this paragraph shall be applied by substituting ‘December 31, 1987’ for ‘December 31, 1984’ and the Internal Revenue Code of 1986 shall be applied without regard to section 149(d)(2)..\[sic\]
+Repeal of advance refunding of qualified public facilities.—The amendment made by section 628(g) \[amending this section\] shall apply to refunding obligations issued after the date of the enactment of this Act \[July 18, 1984\]; except that if substantially all the proceeds of the refunded issue were used to provide airports or docks, such amendment shall only apply to refunding obligations issued after December 31, 1984. In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting ‘the date which is 1 year after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\]’ for ‘December 31, 1984’ and the amendments made by section 1301 of the Tax Reform Act of 1986 \[section 1301 of Pub. L. 99–514, enacting sections 141 to 150 and 7703 of this title, amending this section and sections 2, 22, 25, 32, 86, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing section 103A of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall not apply. In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of this paragraph shall be applied by substituting ‘December 31, 1987’ for ‘December 31, 1984’ and the Internal Revenue Code of 1986 shall be applied without regard to section 149(d)(2)..\[sic\]
 
 &emsp;“(5)
 
@@ -697,7 +697,7 @@ Section 315(c) of Pub. L. 92–178 provided that: “The amendments made by subs
 
 #### Effective Date of 1969 Amendment
 
-Section 601(b) of Pub. L. 91–172 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to obligations issued after October 9, 1969.”
+Section 601(b) of Pub. L. 91–172 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to obligations issued after October 9, 1969.”
 
 #### Effective Date of 1968 Amendment
 
@@ -797,7 +797,7 @@ Limitations.—
 
 #### Transitional Rule for Limit on Small Issue Exception
 
-Section 1866 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(m)(1)–(4), Nov. 10, 1988, 102 Stat. 3584, provided that: “The amendment made by section623 of the Tax Reform Act of 1984 \[section 623 of Pub. L. 98–369, amending this section\] shall not apply to any obligation (or series of obligations) issued to refund another tax-exempt IDB to which the amendment made by such section 623 did not apply if—
+Section 1866 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(m)(1)–(4), Nov. 10, 1988, 102 Stat. 3584, provided that: “The amendment made by section 623 of the Tax Reform Act of 1984 \[section 623 of Pub. L. 98–369, amending this section\] shall not apply to any obligation (or series of obligations) issued to refund another tax-exempt IDB to which the amendment made by such section 623 did not apply if—
 
 &emsp;“(1) the average maturity of the issue of which the refunding obligation is a part does not exceed the average maturity of the obligations to be refunded by such issue,
 
@@ -885,7 +885,7 @@ In general.—The amendment made by section 626(a) of the Tax Reform Act of 1984
 
 “(B)
 
-Description of project.—The project described in this subparagraph in the St. Johns River Power Park system in Florida which was authorized by legislationenacted by the Florida Legislature in February of 1982.”
+Description of project.—The project described in this subparagraph in the St. Johns River Power Park system in Florida which was authorized by legislation enacted by the Florida Legislature in February of 1982.”
 
 #### Certain Public Utilities Treated as Exempted Persons Under Section 103(b); Special Rules for Certain Railroads
 
@@ -941,7 +941,7 @@ Limitation on purposes.—Subsection (a)(1) shall only apply to obligations issu
 
 #### Treatment of Certain Residential Real Property as Residential Rental Property
 
-Treatment of Pub. L. 98–369, §631(d)(3), residential real property as residential rental property, see section 1809(a)(4)(C) of Pub. L. 99–514, set out as a note under section 168 of this title.
+Treatment of Pub. L. 98–369, §631(d)(3), residential real property as residential rental property, see section1809(a)(4)(C) of Pub. L. 99–514, set out as a note under section 168 of this title.
 
 #### Public Approval Requirement in the Case of Public Airport
 
@@ -1227,7 +1227,7 @@ Low-interest united states obligations.—The term ‘low-interest United States
 
 #### Transitional Provisions for Industrial Development Bonds Issued Before January 1, 1969
 
-Section 107(b)(2) of Pub. L. 90–364, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Section 103(c)(1) of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\], as amended by subsection (a) \[subsec. (b)(1), formerly subsec. (c)(1) of this section\], shall not apply with respect to any obligation issued before January 1, 1969, if before May 1, 1968—
+Section 107(b)(2) of Pub. L. 90–364, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Section 103(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a) \[subsec. (b)(1), formerly subsec. (c)(1) of this section\], shall not apply with respect to any obligation issued before January 1, 1969, if before May 1, 1968—
 
 &emsp;“(A) the issuance of the obligation (or the project in connection with which the proceeds of the obligations are to be used) was authorized or approved by the governing body of the governmental unit issuing the obligation or by the voters of such governmental unit;
 

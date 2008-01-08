@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Federal share attributable to this subpart of the cost of carrying out a program for which a grant is made under this subpart may not exceed the percentage specified in subparagraph (A), (B), (C), or (D) of section 12529(a)(1) of this title, as appropriate.
+&emsp;The Federal share attributable to this subpart of the cost of carrying out a program forwhich a grant is made under this subpart may not exceed the percentage specified in subparagraph (A), (B), (C), or (D) of section 12529(a)(1) of this title, as appropriate.
 
 #### (2) Calculation
 

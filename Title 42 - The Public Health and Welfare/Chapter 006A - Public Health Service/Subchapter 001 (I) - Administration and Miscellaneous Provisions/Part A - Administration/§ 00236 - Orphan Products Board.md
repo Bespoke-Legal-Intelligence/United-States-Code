@@ -6,7 +6,7 @@ There is established in the Department of Health and Human Services a board for 
 
 #### (b) Function
 
-The function of the Board shall be to promote the development of drugs and devices for rare diseases or conditions and the coordination among Federal, other public, and private agencies in carrying out their respective functions relating to the development of such articles for such diseases or conditions.
+The function of the Board shall be to promote the development of drugs and devices for rarediseases or conditions and the coordination among Federal, other public, and private agencies in carrying out their respective functions relating to the development of such articles for such diseases or conditions.
 
 #### (c) Duties with respect to drugs for rare diseases or conditions
 
@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 102–321, §163(b)(1)(C), (D), in concluding provisions, s
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1992 Amendment
 

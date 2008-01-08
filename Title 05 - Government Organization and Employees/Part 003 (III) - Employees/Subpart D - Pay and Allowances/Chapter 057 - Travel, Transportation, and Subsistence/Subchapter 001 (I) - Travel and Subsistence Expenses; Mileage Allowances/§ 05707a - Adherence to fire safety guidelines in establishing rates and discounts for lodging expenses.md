@@ -1,6 +1,6 @@
 ### §5707a. Adherence to fire safety guidelines in establishing rates and discounts for lodging expenses
 
-(a)(1) For the purpose of making payments under this chapter for lodging expenses incurred in a State, each agency shall ensure that not less than 90 percent of the commercial-lodging room nights for employees of that agency for a fiscal year are booked in approved places of public accommodation.
+(a)(1) For the purpose of making payments under this chapter for lodging expenses incurredin a State, each agency shall ensure that not less than 90 percent of the commercial-lodging room nights for employees of that agency for a fiscal year are booked in approved places of public accommodation.
 
 (2) Each agency shall establish explicit procedures to satisfy the percentage requirement of paragraph (1).
 

@@ -4,9 +4,9 @@ For purposes of this chapter—
 
 &emsp;(1) The term “authorized committee” means, with respect to the candidates of a political party for President and Vice President of the United States, any political committee which is authorized in writing by such candidates to incur expenses to further the election of such candidates. Such authorization shall be addressed to the chairman of such political committee, and a copy of such authorization shall be filed by such candidates with the Commission. Any withdrawal of any authorization shall also be in writing and shall be addressed and filed in the same manner as the authorization.
 
-&emsp;(2) The term “candidate” means with respect to any presidential election, an individual who (A) has been nominated for election to the office of President of the United States or the office of Vice President of the United States by a major party, or (B) has qualified to have his name on the election ballot (or to have the names of electors pledged to him on the election ballot) as the candidate of a political party for election to either such office in 10 or more States. For purposes of paragraphs (6) and (7) of this section and purposes of section 9004(a)(2), the term “candidate” means, with respect to any preceding presidential election, an individual who received popular votes for the office of President in such election. The term “candidate” shall not include any individual who has ceased actively to seek election to the office of President of theUnited States or to the office of Vice President of the United States, in more than one State.
+&emsp;(2) The term “candidate” means with respect to any presidential election, an individual who (A) has been nominated for election to the office of President of the United States or the office of Vice President of the United States by a major party, or (B) has qualified to have his name on the election ballot (or to have the names of electors pledged to him on the election ballot) as the candidate of a political party for election to either such office in 10 or more States. For purposes of paragraphs (6) and (7) of this section and purposes of section 9004(a)(2), the term “candidate” means,with respect to any preceding presidential election, an individual who received popular votes for the office of President in such election. The term “candidate” shall not include any individual who has ceased actively to seek election to the office of President of the United States or to the office of Vice President of the United States, in more than one State.
 
-&emsp;(3) The term “Commission” means the Federal Election Commission established by section 309(a)(1) of the Federal Election Campaign Act of 1971.
+&emsp;(3) The term “Commission” means the Federal Election Commission established by section 306(a)(1) of the Federal Election Campaign Act of 1971.
 
 &emsp;(4) The term “eligible candidates” means the candidates of a political party for President and Vice President of the United States who have met all applicable conditions for eligibility to receive payments under this chapter set forth in section 9003.
 
@@ -38,13 +38,15 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) in the case of a party which is not a major party, the same period as the expenditure report period of the major party which has the shortest expenditure report period for such presidential election under subparagraph (A).
 
-(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 563; amended Pub. L. 93–443, title IV, §404(c)(1)–(3), Oct. 15, 1974, 88 Stat. 1292; Pub. L. 94–283, title I, §115(c)(1), title III, §306(a)(1), May 11, 1976, 90 Stat. 495, 499.)
+(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 563; amended Pub. L. 93–443, title IV, §404(c)(1)–(3), Oct. 15, 1974, 88 Stat. 1292; Pub. L. 94–283, title I, §115(c)(1), title III, §306(a)(1), May 11, 1976, 90 Stat. 495, 499; Pub. L. 110–172, §11(a)(42)(A), Dec. 29, 2007, 121 Stat. 2488.)
 
 #### References in Text
 
-Section 309 of the Federal Election Campaign Act of 1971, referred to in par. (3), was renumbered section 306 of that Act by Pub. L. 96–187, title I, §105(3), Jan. 8, 1980, 93 Stat. 1354, and is classified to section 437c of Title 2, The Congress.
+Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in par. (3), is classified to section 437c(a)(1) of Title 2, The Congress.
 
 #### Amendments
+
+2007—Par. (3). Pub. L. 110–172 substituted “section 306(a)(1)” for “section 309(a)(1)”.
 
 1976—Par. (2). Pub. L. 94–283, §306(a)(1), inserted provision that “candidate” shall not include any individual who has ceased actively to seek election to the office of President of the United States or to the office of Vice President of the United States, in more than one State.
 

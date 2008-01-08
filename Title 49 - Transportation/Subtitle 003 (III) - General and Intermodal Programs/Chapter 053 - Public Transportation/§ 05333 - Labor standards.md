@@ -28,7 +28,7 @@ Employee Protective Arrangements.—(1) As a condition of financial assistance u
 
 (5) When the Secretary is called upon to issue fair and equitable determinations involving assurances of employment when one private transit bus service contractor replaces another through competitive bidding, such decisions shall be based on the principles set forth in the Department of Labor's decision of September 21, 1994, as clarified by the supplemental ruling of November 7, 1994, with respect to grant NV–90–X021. This paragraph shall not serve as a basis for objections under section 215.3(d) of title 29, Code of Federal Regulations.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835; Pub. L. 104–88, title III, §308(e), Dec. 29, 1995, 109Stat. 947; Pub. L. 105–178, title III, §3029(b)(9), June 9, 1998, 112 Stat. 372; Pub. L. 107–217, §3(n)(3), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §§3002(b)(4), 3031, Aug. 10, 2005, 119 Stat. 1545, 1625.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835; Pub. L. 104–88, title III, §308(e), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–178, title III, §3029(b)(9), June 9, 1998, 112 Stat. 372; Pub. L. 107–217, §3(n)(3), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §§3002(b)(4), 3031, Aug. 10, 2005, 119 Stat. 1545, 1625.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,7 @@ July 9, 1964, Pub. L. 88–365, §13, 78 Stat. 307; Sept. 8, 1966, Pub. L. 89–
 
 In subsection (a), the words “take such action as may be necessary to”, “the performance of”, “the assistance of”, and “at rates” are omitted as surplus. The word “same” is added for clarity. The words “duties and powers” are substituted for “authority and functions” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(1), the reference to sections 5307, 5308, 5310, and 5311 of the revised title is added for clarity because of 49 App.:1607a(e)(1), 1607a–2(a), 1612(b), and 1614(f), restated as sections 5307(n)(2), 5308(b)(1), 5310(a), and 5311(i) of the revised title. The reference to section 5312 is added for clarity because it is intended that 49 App.:1609(c) cover research, development, training, and demonstration projects. The words “terms and conditions of the protective” are omitted as surplus.
+In subsection (b)(1), the reference to sections 5307, 5308, 5310, and 5311 of the revised title is added for clarity because of 49 App.:1607a(e)(1), 1607a–2(a), 1612(b), and 1614(f), restated as sections 5307(n)(2), 5308(b)(1), 5310(a), and 5311(i) of the revised title. The reference to section 5312 is added for clarity because it is intended that 49 App.:1609(c) cover research, development, training, anddemonstration projects. The words “terms and conditions of the protective” are omitted as surplus.
 
 In subsection (b)(2), before clause (A), the words “without being limited to” are omitted as being included in “include”. The words “such provisions as may be necessary for” are omitted as surplus. In clause (C), the word “individual” is omitted as surplus.
 

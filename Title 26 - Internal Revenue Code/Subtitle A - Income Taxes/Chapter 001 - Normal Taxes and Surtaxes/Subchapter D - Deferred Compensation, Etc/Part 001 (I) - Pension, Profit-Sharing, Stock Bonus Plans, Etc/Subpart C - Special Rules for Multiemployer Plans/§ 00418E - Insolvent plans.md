@@ -2,7 +2,7 @@
 
 #### (a) Suspension of certain benefit payments
 
-Notwithstanding section 411, in any case in which benefit payments under an insolventmultiemployer plan exceed the resource benefit level, any such payments of benefits which are not basic benefits shall be suspended, in accordance with this section, to the extent necessary to reduce the sum of such payments and the payments of such basic benefits to the greater of the resource benefit level or the level of basic benefits, unless an alternative procedure is prescribed by the Pension Benefit Guaranty Corporation under section 4022A(g)(5) of the Employee Retirement Income Security Act of 1974.
+Notwithstanding section 411, in any case in which benefit payments under an insolvent multiemployer plan exceed the resource benefit level, any such payments of benefits which are not basic benefits shall be suspended, in accordance with this section, to the extent necessary to reduce the sum of such payments and the payments of such basic benefits to the greater of the resource benefit level or the level of basic benefits, unless an alternative procedure is prescribed by the Pension Benefit Guaranty Corporation under section 4022A(g)(5) of the Employee Retirement Income Security Act of 1974.
 
 #### (b) Definitions
 
@@ -14,7 +14,7 @@ For purposes of this section, for a plan year—
 
 #### (2) Resource benefit level
 
-&emsp;The term “resource benefit level” means the level of monthly benefits determined under subsections (c)(1) and (3) and (d)(3) to be the highest level which can be paid out of the plan's available resources.
+&emsp;The term “resource benefit level” means the level of monthly benefits determined undersubsections (c)(1) and (3) and (d)(3) to be the highest level which can be paid out of the plan's available resources.
 
 #### (3) Available resources
 
@@ -60,7 +60,7 @@ For purposes of this section, for a plan year—
 
 #### (1) Triennial test
 
-&emsp;As of the end of the first plan year in which a plan is in reorganization, and at least every 3 plan years thereafter (unless the plan is no longer in reorganization), the plan sponsor shall compare the value of plan assets (determined in accordance with section 418B(b)(3)(B)(ii)) for that plan year with the total amount of benefit payments made under the plan for that plan year. Unless the plan sponsor determines that the value of plan assets exceeds 3 times the total amount of benefit payments, the plan sponsor shall determine whether the plan will be insolvent in any of the next 3 plan years.
+&emsp;As of the end of the first plan year in which a plan is in reorganization, and at least every 3 plan years thereafter (unless the plan is no longer in reorganization), the plan sponsor shall compare the value of plan assets (determined in accordance with section 418B(b)(3)(B)(ii)) for that plan year with the total amount of benefit payments made under the plan for that plan year. Unless the plan sponsor determines that the value of plan assets exceeds 3 times the total amount of benefit payments, the plan sponsor shall determine whether the plan will be insolvent in any of the next 5 plan years. If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.
 
 #### (2) Determination of insolvency
 
@@ -68,7 +68,7 @@ For purposes of this section, for a plan year—
 
 #### (3) Determination of resource benefit level
 
-&emsp;The plan sponsor of a plan in reorganization shall determine in writing for each insolvencyyear the resource benefit level and the level of basic benefits no later than 3 months before the insolvency year.
+&emsp;The plan sponsor of a plan in reorganization shall determine in writing for each insolvency year the resource benefit level and the level of basic benefits no later than 3 months before the insolvency year.
 
 #### (e) Notice requirements
 
@@ -78,7 +78,7 @@ For purposes of this section, for a plan year—
 
 &emsp;&emsp;(A) notify the Secretary, the Pension Benefit Guaranty Corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries of that determination, and
 
-&emsp;&emsp;(B) inform the parties described in section 418A(a)(2) and the plan participants and beneficiaries that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
+&emsp;&emsp;(B) inform the parties described in section 418A(a)(2) and the plan participants andbeneficiaries that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
 
 #### (2) Resource benefit level
 
@@ -112,15 +112,15 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 (Added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1282; amended Pub. L. 109–280, title II, §213(a), Aug. 17, 2006, 120 Stat. 917.)
 
-#### Amendment of Subsection (d)(1)
-
-<i>Pub. L. 109–280, title II, §213, Aug. 17, 2006, 120 Stat. 917, provided that, applicable with respect to the determinations made in plan years beginning after 2007, subsection (d)(1) of this section is amended by substituting “5 plan years” for “3 plan years” the second place it appears and by inserting at the end “If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.”</i>
-
 #### References in Text
 
 Section 4022A(g)(5) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a), is classified to section 1322a(g)(5) of Title 29, Labor.
 
 Section 4261 of the Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(3) and (f), is classified to section 1431 of Title 29.
+
+#### Amendments
+
+2006—Subsec. (d)(1). Pub. L. 109–280 substituted “5 plan years” for “3 plan years” the second place it appeared and inserted at end “If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.”
 
 #### Effective Date of 2006 Amendment
 

@@ -68,7 +68,9 @@ Capitol Reef National Monument, Utah \[Monument abolished and funds made availab
 
 c48; Proc. No. 3888, Jan. 20, 1969, 83 Stat. 922.
 
-Capulin Volcano National Monument, New Mexico \[see section 460uu–46(g) of this title\].—Proc. No. 1340, Aug. 9, 1916, 39 Stat. 1792.
+Capulin Mountain National Monument, New Mexico \[Monument redesignated Capulin Volcano National Monument by Pub. L. 100–225, title V, §506(g), Dec. 31, 1987, 101 Stat. 1547\].—Proc. No. 1340, Aug. 9, 1916, 39 Stat. 1792.
+
+Capulin Volcano National Monument, New Mexico \[Monument changed from Capulin Mountain National Monument, see section 460uu–46(g) of this title\].—Proc. No. 1340, Aug. 9, 1916, 39 Stat. 1792; Pub. L. 87–635, Sept. 5, 1962, 76 Stat. 436; Pub. L. 100–225, title V, §506(g), Dec. 31, 1987, 101 Stat. 1547.
 
 Carlsbad Cave National Monument, New Mexico \[Monument redesignated Carlsbad Caverns National Park, see section 407 of this title\].—Proc. No. 1679, Oct. 25, 1923, 43 Stat. 1929.
 
@@ -232,7 +234,7 @@ Navajo National Monument, Arizona.—Proc. No. 873, May 20, 1909, 36 Stat. 2491;
 
 Noatak National Monument, Alaska.—Proc. No. 4624, Dec. 1, 1978, 93 Stat. 1468.
 
-Northwestern Hawaiian Islands Marine National Monument, Hawaii.—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
+Northwestern Hawaiian Islands Marine National Monument, Hawaii \[Monument redesignated Papaha�AE8naumokua�AE8kea Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
 
 Ocmulgee National Monument, Georgia \[see section 447a of this title\].—Proc. No. 2212, Dec. 23, 1936, 50 Stat. 1798; Proc. No. 2493, June 13, 1941, 55 Stat. 1654; Pub. L. 102–67, July 9, 1991, 105 Stat. 325.
 
@@ -243,6 +245,8 @@ Oregon Caves National Monument, Oregon.—Proc. No. 876, July 12, 1909, 36 Stat.
 Organ Pipe Cactus National Monument, Arizona.—Proc. No. 2232, Apr. 13, 1937, 50 Stat. 1827; Pub. L. 108–64, July 29, 2003, 117 Stat. 874.
 
 Papago Saguaro National Monument, Arizona \[Monument abolished by act Apr. 7, 1930, ch. 107, 46 Stat. 142, as amended by Pub. L. 109–163, div. B, title XXVIII, §2873, Jan. 6, 2006, 119 Stat. 3535\].—Proc. No. 1262, Jan. 31, 1914, 38 Stat. 1991.
+
+Papaha�AE8naumokua�AE8kea Marine National Monument, Hawaii \[Monument changed from Northwestern Hawaiian Islands Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
 
 Perry's Victory and International Peace Memorial National Monument, Ohio.—Proc. No. 2182, July 6, 1936, 50 Stat. 1734.
 
@@ -394,7 +398,7 @@ Father Marquette National Memorial, Michigan.—Pub. L. 94–160, Dec. 20, 1975,
 
 Federal Hall National Memorial, New York.—Designated May 26, 1939. Designation changed from Federal Hall Memorial Historic Site by act Aug. 11, 1955, ch. 779, 69 Stat. 632.
 
-Flight 93 National Memorial, Pennsylvania.—Pub. L. 107–226, Sept. 24, 2002, 116 Stat. 1345.
+Flight 93 National Memorial, Pennsylvania.—Pub. L. 107–226, Sept. 24, 2002, 116 Stat. 1345; Pub. L. 110–161, div. F, title I, §128, Dec. 26, 2007, 121 Stat. 2122.
 
 Fort Caroline National Memorial, Florida.—Act Sept. 21, 1950, ch. 973, 64 Stat. 897. Established Jan. 16, 1953.
 

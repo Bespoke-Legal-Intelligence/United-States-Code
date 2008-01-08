@@ -2,7 +2,7 @@
 
 #### (a) Priority
 
-In the processing of applications for assistance, priority and immediate considerationshall be given by the head of the appropriate Federal agency, during such period as the President shall prescribe, to applications from public bodies situated in areas affected by major disasters under the following Acts:
+In the processing of applications for assistance, priority and immediate consideration shall be given by the head of the appropriate Federal agency, during such period as the President shall prescribe, to applications from public bodies situated in areas affected by major disasters under the following Acts:
 
 &emsp;(1) The United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] for the provision of low-income housing.
 
@@ -36,7 +36,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (a)(7), is act J
 
 #### Codification
 
-“Sections 3502 to 3505 of title 40” substituted for “Section 702 of the Housing Act of 1954” in subsec. (a)(2) and “Subtitle IV of title 40” substituted for “The Appalachian Regional Development Act of 1965” in subsec. (a)(6) on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3502 to 3505 of title 40” substituted for “Section 702 of the Housing Act of 1954” in subsec. (a)(2) and “Subtitle IV of title 40” substituted for “TheAppalachian Regional Development Act of 1965” in subsec. (a)(6) on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 

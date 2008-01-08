@@ -12,7 +12,7 @@ Requirement for Office.—(1) There is in the Veterans Health Administration an 
 
 (b)
 
-Director.—(1) The head of the Office shall be a Director, who shall report directly to the Under Secretary for Health (without delegation).
+Director.—(1) The head of the Office shall be a Director, who shall report directly to theUnder Secretary for Health (without delegation).
 
 (2) Any person appointed as Director shall be—
 

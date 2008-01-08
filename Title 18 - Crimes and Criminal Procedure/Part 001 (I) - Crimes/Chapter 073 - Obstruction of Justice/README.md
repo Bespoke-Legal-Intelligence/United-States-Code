@@ -23,10 +23,13 @@
 | [1518\.](%C2%A7%2001518%20-%20Obstruction%20of%20criminal%20investigations%20of%20health%20care%20offenses.md) | Obstruction of criminal investigations of health care offenses. |
 | [1519\.](%C2%A7%2001519%20-%20Destruction%2C%20alteration%2C%20or%20falsification%20of%20records%20in%20Federal%20investigations%20and%20bankruptcy.md) | Destruction, alteration, or falsification of records in Federal investigations and bankruptcy. |
 | [1520\.](%C2%A7%2001520%20-%20Destruction%20of%20corporate%20audit%20records.md) | Destruction of corporate audit records. |
+| [1521\.](%C2%A7%2001521%20-%20Retaliating%20against%20a%20Federal%20judge%20or%20Federal%20law%20enforcement%20officer%20by%20false%20claim%20or%20slander%20of%20title.md) | Retaliating against a Federal judge or Federal law enforcement officer by false claim or slander of title. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–177, title II, §201(b), Jan. 7, 2008, 121 Stat. 2536, added item 1521.
 
 2002—Pub. L. 107–204, title VIII, §§802(b), 806(b), July 30, 2002, 116 Stat. 801, 804, added items 1514A, 1519, and 1520.
 
@@ -76,3 +79,4 @@
 - [&sect; 01518 - Obstruction of criminal investigations of health care offenses](%C2%A7%2001518%20-%20Obstruction%20of%20criminal%20investigations%20of%20health%20care%20offenses.md)
 - [&sect; 01519 - Destruction, alteration, or falsification of records in Federal investigations and bankruptcy](%C2%A7%2001519%20-%20Destruction%2C%20alteration%2C%20or%20falsification%20of%20records%20in%20Federal%20investigations%20and%20bankruptcy.md)
 - [&sect; 01520 - Destruction of corporate audit records](%C2%A7%2001520%20-%20Destruction%20of%20corporate%20audit%20records.md)
+- [&sect; 01521 - Retaliating against a Federal judge or Federal law enforcement officer by false claim or slander of title](%C2%A7%2001521%20-%20Retaliating%20against%20a%20Federal%20judge%20or%20Federal%20law%20enforcement%20officer%20by%20false%20claim%20or%20slander%20of%20title.md)

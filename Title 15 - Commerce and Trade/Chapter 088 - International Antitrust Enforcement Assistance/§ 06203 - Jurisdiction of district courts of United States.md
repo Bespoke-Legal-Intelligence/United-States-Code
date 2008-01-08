@@ -22,7 +22,7 @@ On the application of the Attorney General made in accordance with an antitrust 
 
 &emsp;(B) Such practice and procedure may be in whole or in part the practice and procedure of the foreign state, or the regional economic integration organization, represented by the foreign antitrust authority with respect to which the Attorney General requests such order.
 
-&emsp;(C) To the extent such order does not prescribe otherwise, any testimony and statements required to be taken shall be taken, and any documents and other things required to be produced shall be produced, in accordance with the Federal Rules of Civil Procedure.
+&emsp;(C) To the extent such order does not prescribe otherwise, any testimony and statements required to be taken shall be taken, and any documents and other things required to beproduced shall be produced, in accordance with the Federal Rules of Civil Procedure.
 
 #### (c) Rights and privileges preserved
 

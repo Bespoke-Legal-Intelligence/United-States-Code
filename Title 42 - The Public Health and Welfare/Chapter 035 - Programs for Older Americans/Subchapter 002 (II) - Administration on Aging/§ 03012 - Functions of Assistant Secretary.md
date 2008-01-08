@@ -140,7 +140,7 @@ It shall be the duty and function of the Administration to—
 
 #### (b) Development and implementation of comprehensive, coordinated systems for long-term care
 
-To promote the development and implementation of comprehensive, coordinated systems at Federal, State, and local levels that enable older individuals to receive long-term care in homeand community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, the Assistant Secretary shall, consistent with the applicable provisions of this subchapter—
+To promote the development and implementation of comprehensive, coordinated systems at Federal, State, and local levels that enable older individuals to receive long-term care in home and community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, the Assistant Secretary shall, consistent with the applicable provisions of this subchapter—
 
 &emsp;(1) collaborate, coordinate, and consult with other Federal entities responsible for formulating and implementing programs, benefits, and services related to providing long-term care, and may make grants, contracts, and cooperative agreements with funds received from other Federal entities;
 
@@ -162,7 +162,7 @@ To promote the development and implementation of comprehensive, coordinated syst
 
 &emsp;&emsp;&emsp;(ii) as appropriate, for a person who was appointed by the individual, or is legally acting on the individual's behalf, in order to represent or advise the individual in financial or service coordination matters (referred to in this paragraph as a “representative” of the individual), to direct and control the receipt of those services; and
 
-&emsp;&emsp;(C) assist an older individual (or, as appropriate, a representative of the individual) to develop a plan for long-term support, including selecting, budgeting for, and purchasing home and community-based long-term care and supportive services;
+&emsp;&emsp;(C) assist an older individual (or, as appropriate, a representative of the individual) todevelop a plan for long-term support, including selecting, budgeting for, and purchasing home and community-based long-term care and supportive services;
 
 &emsp;(5) provide for the Administration to play a lead role with respect to issues concerning home and community-based long-term care, including—
 
@@ -198,7 +198,7 @@ To promote the development and implementation of comprehensive, coordinated syst
 
 &emsp;&emsp;(B) evidence-based disease prevention and health promotion services programs;
 
-&emsp;(10) develop, in collaboration with the Administrator of the Centers for Medicare \&Medicaid Services, performance standards and measures for use by States to determine the extent to which their State systems of long-term care fulfill the objectives described in this subsection; and
+&emsp;(10) develop, in collaboration with the Administrator of the Centers for Medicare \& Medicaid Services, performance standards and measures for use by States to determine the extent to which their State systems of long-term care fulfill the objectives described in this subsection; and
 
 &emsp;(11) conduct such other activities as the Assistant Secretary determines to be appropriate.
 
@@ -302,7 +302,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;(D) evaluation of the pilot test and recommendations for modification of the proposed set of such measures.
 
-(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87 Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459, title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208, 1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §201, title VIII, §801(b)(2), Nov. 13, 2000, 114 Stat. 2229, 2291; Pub. L. 109–365, title II, §202, Oct. 17, 2006, 120 Stat. 2528.)
+(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459, title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208, 1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §201, title VIII, §801(b)(2), Nov. 13, 2000, 114 Stat. 2229, 2291; Pub. L. 109–365, title II, §202, Oct. 17, 2006, 120 Stat. 2528.)
 
 #### References in Text
 

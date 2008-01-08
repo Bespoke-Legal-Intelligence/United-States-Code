@@ -14,7 +14,7 @@ Of the personnel employed in the United States to carry out subchapter II of thi
 
 #### (d) Employment or assignment of officers and employees to perform functions outside United States
 
-For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment ofofficers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
+For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment of officers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
 
 #### (e) Repealed. Pub. L. 96–465, title II, §2205(8), Oct. 17, 1980, 94 Stat. 2160
 
@@ -86,7 +86,7 @@ Subsec. (d)(2). Pub. L. 90–137, §302(d), authorized an increase in the assign
 
 Subsec. (j). Pub. L. 88–633, §302(a)(2), added subsec. (j).
 
-1962—Subsec. (b). Pub. L. 87–793, §1001(k)(1), substituted “but not in excess of the highest rate of grade 18 of such general schedule” for “and of these, not to exceed eight may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year”.
+1962—Subsec. (b). Pub. L. 87–793, §1001(k)(1), substituted “but not in excess of the highest rate of grade18 of such general schedule” for “and of these, not to exceed eight may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year”.
 
 Pub. L. 87–565, §302(c)(1), substituted “one hundred and ten” for “seventy-six”.
 

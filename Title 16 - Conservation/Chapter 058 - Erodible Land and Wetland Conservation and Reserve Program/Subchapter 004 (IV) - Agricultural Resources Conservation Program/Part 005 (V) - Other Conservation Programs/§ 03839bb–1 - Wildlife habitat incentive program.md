@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in consultation with the State technical committees established under section3861 of this title, shall establish within the Natural Resources Conservation Service a program to be known as the wildlife habitat incentive program (referred to in this section as the “program”).
+The Secretary, in consultation with the State technical committees established under section 3861 of this title, shall establish within the Natural Resources Conservation Service a program to be known as the wildlife habitat incentive program (referred to in this section as the “program”).
 
 #### (b) Cost-share payments
 
@@ -24,7 +24,7 @@ The Secretary, in consultation with the State technical committees established u
 
 #### (A) In general
 
-&emsp;&emsp;In a case in which the Secretary enters into an agreement or contract to protect and restore plant and animal habitat that has a term of at least 15 years, the Secretary may provide cost-share payments in addition to amounts provided under paragraph (1).
+&emsp;&emsp;In a case in which the Secretary enters into an agreement or contract to protect andrestore plant and animal habitat that has a term of at least 15 years, the Secretary may provide cost-share payments in addition to amounts provided under paragraph (1).
 
 #### (B) Funding limitation
 

@@ -1,6 +1,6 @@
 ### §2011. Congressional declaration of policy
 
-It is declared to be the policy of Congress, in order to promote the general welfare, to safeguard the health and well-being of the Nation's population by raising levels of nutrition among low-income households. Congress finds that the limited food purchasing power of low-income households contributes to hunger and malnutrition among members of such households. Congress further finds that increased utilization of food in establishing and maintaining adequate national levels of nutrition will promote the distribution in a beneficial manner of the Nation's agricultural abundance and will strengthen the Nation's agricultural economy, as well as result in more orderly marketing and distribution of foods. To alleviate such hunger and malnutrition, a food stamp program is herein authorized which will permit low-income households to obtain a more nutritious diet through normal channels of trade by increasing food purchasing power for all eligible households who apply for participation.
+It is declared to be the policy of Congress, in order to promote the general welfare, to safeguard the health and well-being of the Nation's population by raising levels of nutrition among low-income households. Congress finds that the limited food purchasing power of low-income households contributes to hunger and malnutrition among members of such households. Congress further finds that increased utilization of food in establishing and maintaining adequate national levels of nutrition will promote the distribution in a beneficial manner of the Nation's agricultural abundance and will strengthen the Nation's agricultural economy, as well as result in more orderly marketing and distribution of foods. To alleviate such hunger and malnutrition, a food stamp program is herein authorized which will permit low-income households to obtain a more nutritious diet through normalchannels of trade by increasing food purchasing power for all eligible households who apply for participation.
 
 (Pub. L. 88–525, §2, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, §1, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958.)
 
@@ -36,7 +36,7 @@ Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided t
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–435, §1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: “This Act \[amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title\] may be cited as the ‘Hunger Prevention Act of 1988’.”
+Pub. L. 100–435, §1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: “This Act \[amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title\] may be cited as the ‘Hunger Prevention Act of 1988’.”
 
 Pub. L. 100–232, §1, Jan. 5, 1988, 101 Stat. 1566, provided that: “This Act \[amending section 2014 of this title and enacting provisions set out as a note under section 612c of this title\] may be cited as the ‘Charitable Assistance and Food Bank Act of 1987’.”
 
@@ -118,7 +118,7 @@ Qualifications.—The members of the Committee shall be individuals who are fami
 
 Purpose.—It shall be the purpose of the Committee, in consultation, where appropriate, with program administrators and representatives of recipients—
 
-&emsp;“(1) to identify the significant policies implemented in the food stamp program, cash and medical assistance programs under the Social Security Act \[42 U.S.C. 301 et seq.\], and housing assistance programs (whether resulting from law, regulations, or administrative practice) that, because they differ substantially, make it difficult for those eligible to apply for and obtain benefits from more than one program and restrict the ability of administrators of such programs to provide efficient, timely, and appropriate benefits to those eligible for more than one type of assistance, drawing, where appropriate, onprevious efforts to coordinate and simplify such programs and policies;
+&emsp;“(1) to identify the significant policies implemented in the food stamp program, cash and medical assistance programs under the Social Security Act \[42 U.S.C. 301 et seq.\], and housing assistance programs (whether resulting from law, regulations, or administrative practice) that, because they differ substantially, make it difficult for those eligible to apply for and obtain benefits from more than one program and restrict the ability of administrators of such programs to provide efficient, timely, and appropriate benefits to those eligible for more than one type of assistance, drawing, where appropriate, on previous efforts to coordinate and simplify such programs and policies;
 
 &emsp;“(2) to examine the major reasons for such different programs and policies;
 
@@ -142,7 +142,7 @@ Reports.—Not later than July 1, 1993, the Committee shall prepare and submit, 
 
 #### Rules
 
-Pub. L. 99–198, title XV, §1583, Dec. 23, 1985, 99 Stat. 1595, provided that: “Not later than April 1, 1987, the Secretary shall issue rules to carry out the amendments made by this title \[amending sections 612c, 1431e, 2012 to 2023, and 2025 to 2029 of this title, section 49b of Title 29, Labor, and section 503 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 612c of this title\].”
+Pub. L. 99–198, title XV, §1583, Dec. 23, 1985, 99 Stat. 1595, provided that: “Not later than April 1, 1987, the Secretary shall issue rules to carry out the amendments made by this title \[amending sections 612c, 1431e, 2012 to 2023, and 2025 to 2029 of this title, section 49b of Title 29, Labor, and section 503 of Title 42, The PublicHealth and Welfare, and amending provisions set out as notes under section 612c of this title\].”
 
 #### Implementation of 1977 Amendment; Savings Provision; Availability of Appropriated Funds; Report
 

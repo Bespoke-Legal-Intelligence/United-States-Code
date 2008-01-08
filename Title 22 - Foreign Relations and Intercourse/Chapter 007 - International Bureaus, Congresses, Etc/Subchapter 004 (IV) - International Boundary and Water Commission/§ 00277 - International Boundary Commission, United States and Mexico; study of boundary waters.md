@@ -12,7 +12,7 @@ The President is authorized to designate the American Commissioner on the Intern
 
 #### Change of Name
 
-International Boundary Commission, United States and Mexico, American section, to which powers, duties, and functions of International Water Commission, United States and Mexico, American section, were transferred by act June 30, 1932, ch. 314, §510, 47 Stat. 417, reconstituted as International Boundary and Water Commission by Water Treaty of 1944.
+International Boundary Commission, United States and Mexico, American section, to which powers, duties, and functions of International Water Commission, United States and Mexico, American section, were transferred by act June 30, 1932, ch. 314, §510, 47 Stat.417, reconstituted as International Boundary and Water Commission by Water Treaty of 1944.
 
 #### Short Title
 
@@ -30,5 +30,5 @@ Act Mar. 3, 1927, cited as a credit to this section, was repealed by Pub. L. 89�
 
 #### Annual Appropriations
 
-Annual appropriations to meet the obligations of membership in various international organizationswere contained in acts listed in a note set out under section 269a of this title.
+Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
 

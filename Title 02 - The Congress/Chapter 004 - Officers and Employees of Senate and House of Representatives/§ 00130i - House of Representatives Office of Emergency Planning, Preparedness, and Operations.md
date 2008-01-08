@@ -20,7 +20,7 @@ The Speaker, in consultation with the minority leader—
 
 #### (c) Duties of Director; House of Representatives Continuity of Operations Board
 
-The day-to-day operations of the Office shall be carried out by the Director, under the supervision of a Board, to be known as the House of Representatives Continuity of Operations Board, comprised of the Clerk, the Sergeant at Arms, and the Chief Administrative Officer of the House of Representatives. The Clerk shall be the Chairman of the Board.
+The day-to-day operations of the Office shall be carried out by the Director, under the supervision of a Board, to be known as the House of Representatives Continuity of Operations Board,comprised of the Clerk, the Sergeant at Arms, and the Chief Administrative Officer of the House of Representatives. The Clerk shall be the Chairman of the Board.
 
 #### (d) Availability of funds
 

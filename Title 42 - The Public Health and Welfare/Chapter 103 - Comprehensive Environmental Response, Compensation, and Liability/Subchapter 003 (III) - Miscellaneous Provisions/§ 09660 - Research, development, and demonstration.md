@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) Graduate or advanced training in environmental and occupational health and safety and in the public health and engineering aspects of hazardous waste control.
 
-&emsp;&emsp;&emsp;(iii) Graduate training in the geosciences, including hydrogeology, geological engineering, geophysics, geochemistry, and related fields necessary to meet professional personnel needs in the public andprivate sectors and to effectuate the purposes of this chapter.
+&emsp;&emsp;&emsp;(iii) Graduate training in the geosciences, including hydrogeology, geological engineering, geophysics, geochemistry, and related fields necessary to meet professional personnel needs in the public and private sectors and to effectuate the purposes of this chapter.
 
 #### (2) Director of NIEHS
 
@@ -40,7 +40,7 @@
 
 #### (4) Procedures
 
-&emsp;In making grants and entering into cooperative agreements and contracts under this subsection, the Secretary shall act through the Director of the National Institute for Environmental Health Sciences. In considering the allocation of funds for training purposes, the Director shall ensure that at least one grant, cooperative agreement, or contract shall be awarded for training described in each of clauses (i), (ii), and (iii) of paragraph (1)(B). Where applicable, the Director may choose to operate training activities in cooperation with the Director of the National Institute for Occupational Safety and Health. The procedures applicable to grants and contracts under title IV of the Public Health Service Act \[42 U.S.C. 281 et seq.\] shall be followed under this subsection.
+&emsp;In making grants and entering into cooperative agreements and contracts under this subsection, the Secretary shall act through the Director of the National Institute for Environmental Health Sciences. In considering the allocation of funds for training purposes, the Director shall ensure that at least one grant, cooperative agreement, or contract shall be awarded for training described in each of clauses (i), (ii), and (iii) of paragraph (1)(B). Where applicable, the Director may choose to operate training activities in cooperation with the Director of the National Institute for Occupational Safety and Health. The procedures applicable to grants and contracts under titleIV of the Public Health Service Act \[42 U.S.C. 281 et seq.\] shall be followed under this subsection.
 
 #### (5) Advisory council
 
@@ -102,7 +102,7 @@
 
 #### (C) Applications
 
-&emsp;&emsp;Any person and any public or private nonprofit entity may submit an application to the Administrator in response to the solicitation. The application shall contain a proposed demonstration plan setting forth how and when the project is to be carried out and such other information as the Administrator may require.
+&emsp;&emsp;Any person and any public or private nonprofit entity may submit an application tothe Administrator in response to the solicitation. The application shall contain a proposed demonstration plan setting forth how and when the project is to be carried out and such other information as the Administrator may require.
 
 #### (D) Project selection
 
@@ -134,7 +134,7 @@
 
 #### (6) Field demonstrations
 
-&emsp;In carrying out the program, the Administrator shall initiate or cause to be initiated at least 10 field demonstration projects of alternative or innovative treatment technologiesat sites at which a response may be undertaken under section 9604 of this title, in fiscal year 1987 and each of the succeeding three fiscal years. If the Administrator determines that 10 field demonstration projects under this subsection cannot be initiated consistent with the criteria set forth in paragraph (7) in any of such fiscal years, the Administrator shall transmit to the appropriate committees of Congress a report explaining the reasons for his inability to conduct such demonstration projects.
+&emsp;In carrying out the program, the Administrator shall initiate or cause to be initiated at least 10 field demonstration projects of alternative or innovative treatment technologies at sites at which a response may be undertaken under section 9604 of this title, in fiscal year 1987 and each of the succeeding three fiscal years. If the Administrator determines that 10 field demonstration projects under this subsection cannot be initiated consistent with the criteria set forth in paragraph (7) in any of such fiscal years, the Administrator shall transmit to the appropriate committees of Congress a report explaining the reasons for his inability to conduct such demonstration projects.
 
 #### (7) Criteria
 
@@ -186,7 +186,7 @@ The Administrator may conduct and support, through grants, cooperative agreement
 
 #### (3) Applications
 
-&emsp;Any institution of higher learning interested in receiving a grant under this subsectionshall submit to the Administrator an application in such form and containing such information as the Administrator may require by regulation.
+&emsp;Any institution of higher learning interested in receiving a grant under this subsection shall submit to the Administrator an application in such form and containing such information as the Administrator may require by regulation.
 
 #### (4) Selection criteria
 
@@ -255,6 +255,112 @@ The Solid Waste Disposal Act, referred to in subsec. (f), is title II of Pub. L.
 #### Amendments
 
 1986—Subsec. (b)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Methamphetamine Remediation Research
+
+Pub. L. 110–143, Dec. 21, 2007, 121 Stat. 1809, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Methamphetamine Remediation Research Act of 2007’.
+
+#### “SEC. 2. FINDINGS.
+
+“The Congress finds the following:
+
+&emsp;“(1) Methamphetamine use and production is growing rapidly throughout the United States.
+
+&emsp;“(2) Materials and residues remaining from the production of methamphetamine pose novel environmental problems in locations where methamphetamine laboratories have been closed.
+
+&emsp;“(3) There has been little standardization of measures for determining when the site of a closed methamphetamine laboratory has been successfully remediated.
+
+&emsp;“(4) Initial cleanup actions are generally limited to removal of hazardous substances and contaminated materials that pose an immediate threat to public health or the environment. It is not uncommon for significant levels of contamination to be found throughout residential structures after a methamphetamine laboratory has closed, partially because of a lack of knowledge of how to achieve an effective cleanup.
+
+&emsp;“(5) Data on methamphetamine laboratory-related contaminants of concern are very limited, and cleanup standards do not currently exist. In addition, procedures for sampling and analysis of contaminants need to be researched and developed.
+
+&emsp;“(6) Many States are struggling with establishing remediation guidelines and programs to address the rapidly expanding number of methamphetamine laboratories being closed each year.
+
+#### “SEC. 3. VOLUNTARY GUIDELINES.
+
+“(a)
+
+Establishment of Voluntary Guidelines.—Not later than one year after the date of enactment of this Act \[Dec. 21, 2007\], the Administrator of the Environmental Protection Agency (in this Act referred to as the ‘Administrator’), in consultation with the National Institute of Standards and Technology, shall establish voluntary guidelines, based on the best currently available scientific knowledge, for the remediation of former methamphetamine laboratories, including guidelines regarding preliminary site assessment and the remediation of residual contaminants.
+
+“(b)
+
+Considerations.—In developing the voluntary guidelines under subsection (a), the Administrator shall consider, at a minimum—
+
+&emsp;“(1) relevant standards, guidelines, and requirements found in Federal, State, and local laws and regulations;
+
+&emsp;“(2) the varying types and locations of former methamphetamine laboratories; and
+
+&emsp;“(3) the expected cost of carrying out any proposed guidelines.
+
+“(c)
+
+States.—The voluntary guidelines should be designed to assist State and local governments in the development and the implementation of legislation and other policies to apply state-of-the-art knowledge and research results to the remediation of former methamphetamine laboratories. The Administrator shall work with State and local governments and other relevant non-Federal agencies and organizations, including through the conference described in section 5, to promote and encourage the appropriate adoption of the voluntary guidelines.
+
+“(d)
+
+Updating the Guidelines.—The Administrator shall periodically update the voluntary guidelines as the Administrator, in consultation with States and other interested parties, determines to be necessary and appropriate to incorporate research findings and other new knowledge.
+
+#### “SEC. 4. RESEARCH PROGRAM.
+
+“The Administrator shall establish a program of research to support the development and revision of the voluntary guidelines described in section 3. Such research shall—
+
+&emsp;“(1) identify methamphetamine laboratory-related chemicals of concern;
+
+&emsp;“(2) assess the types and levels of exposure to chemicals of concern identified under paragraph (1), including routine and accidental exposures, that may present a significant risk of adverse biological effects, and the research necessary to better address biological effects and to minimize adverse human exposures;
+
+&emsp;“(3) evaluate the performance of various methamphetamine laboratory cleanup and remediation techniques; and
+
+&emsp;“(4) support other research priorities identified by the Administrator in consultation with States and other interested parties.
+
+#### “SEC. 5. TECHNOLOGY TRANSFER CONFERENCE.
+
+“(a)
+
+Conference.—Not later than 90 days after the date of enactment of this Act \[Dec. 21, 2007\], and at least every third year thereafter, the Administrator shall convene a conference of appropriate State agencies, as well as individuals or organizations involved in research and other activities directly related to the environmental, or biological impacts of former methamphetamine laboratories. The conference should be a forum for the Administrator to provide information on the guidelines developed under section 3 and on the latest findings from the research program described in section 4, and for the non-Federal participants to provide information on the problems and needs of States and localities and their experience with guidelines developed under section 3.
+
+“(b)
+
+Report.—Not later than 3 months after each conference, the Administrator shall submit a report to the Congress that summarizes the proceedings of the conference, including a summary of any recommendations or concerns raised by the non-Federal participants and how the Administrator intends to respond to them. The report shall also be made widely available to the general public.
+
+#### “SEC. 6. RESIDUAL EFFECTS STUDY.
+
+“(a)
+
+Study.—Not later than 6 months after the date of enactment of this Act \[Dec. 21, 2007\], the Administrator shall enter into an arrangement with the National Academy of Sciences for a study of the status and quality of research on the residual effects of methamphetamine laboratories. The study shall identify research gaps and recommend an agenda for the research program described in section 4. The study shall pay particular attention to the need for research on the impacts of methamphetamine laboratories on—
+
+&emsp;“(1) the residents of buildings where such laboratories are, or were, located, with particular emphasis given to biological impacts on children; and
+
+&emsp;“(2) first responders.
+
+“(b)
+
+Report.—Not later than 3 months after the completion of the study, the Administrator shall transmit to Congress a report on how the Administrator will use the results of the study to carry out the activities described in sections 3 and 4.
+
+#### “SEC. 7. METHAMPHETAMINE DETECTION RESEARCH AND DEVELOPMENT PROGRAM.
+
+“The Director of National Institute of Standards and Technology, in consultation with the Administrator, shall support a research program to develop—
+
+&emsp;“(1) new methamphetamine detection technologies, with emphasis on field test kits and site detection; and
+
+&emsp;“(2) appropriate standard reference materials and validation procedures for methamphetamine detection testing.
+
+#### “SEC. 8. SAVINGS CLAUSE.
+
+“Nothing in this Act shall be construed to affect or limit the application of, or any obligation to comply with, any State or Federal environmental law or regulation, including the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) and the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+
+#### “SEC. 9. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a)
+
+Environmental Protection Agency.—There are authorized to be appropriated to the Environmental Protection Agency to carry out this Act $1,750,000 for each of the fiscal years 2007 and 2008.
+
+“(b)
+
+National Institute of Standards and Technology.—There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this Act $750,000 for each of the fiscal years 2007 and 2008.”
 
 #### Gulf Coast Hazardous Substance Research, Development, and Demonstration Center
 

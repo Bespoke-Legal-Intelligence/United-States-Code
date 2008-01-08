@@ -16,7 +16,7 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 #### (2) Benefits under the Food Stamp Act of 1977
 
-&emsp;The amount of benefits otherwise required to be provided to a household under the foodstamp program (as defined in section 3(h) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(h)\]), or any State program carried out under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
+&emsp;The amount of benefits otherwise required to be provided to a household under the food stamp program (as defined in section 3(h) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(h)\]), or any State program carried out under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
 
 #### (c) Enforcement
 

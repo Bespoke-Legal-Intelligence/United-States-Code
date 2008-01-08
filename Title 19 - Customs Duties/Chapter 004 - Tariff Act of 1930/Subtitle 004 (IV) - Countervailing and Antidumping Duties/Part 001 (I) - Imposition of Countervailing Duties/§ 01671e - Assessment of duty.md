@@ -4,7 +4,7 @@
 
 Within 7 days after being notified by the Commission of an affirmative determination under section 1671d(b) of this title, the administering authority shall publish a countervailing duty order which—
 
-&emsp;(1) directs customs officers to assess a countervailing duty equal to the amount of the net countervailable subsidy determined or estimated to exist, within 6 months after the dateon which the administering authority receives satisfactory information upon which the assessment may be based, but in no event later than 12 months after the end of the annual accounting period of the manufacturer or exporter within which the merchandise is entered, or withdrawn from warehouse, for consumption,
+&emsp;(1) directs customs officers to assess a countervailing duty equal to the amount of the net countervailable subsidy determined or estimated to exist, within 6 months after the date on which the administering authority receives satisfactory information upon which the assessment may be based, but in no event later than 12 months after the end of the annual accounting period of the manufacturer or exporter within which the merchandise is entered, or withdrawn from warehouse, for consumption,
 
 &emsp;(2) includes a description of the subject merchandise, in such detail as the administering authority deems necessary, and
 
@@ -28,7 +28,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (2) Exception for new exporters and producers
 
-&emsp;After publication of the countervailing duty order, if the administering authority finds that a new exporter or producer is exporting the subject merchandise for sale in the region concerned, the administering authority shall direct that duties be assessed on the subject merchandise of the new exporter or producer consistent with the provisions of section 1675(a)(2)(B) of this title.
+&emsp;After publication of the countervailing duty order, if the administering authority finds that a new exporter or producer is exporting the subject merchandise for sale in the regionconcerned, the administering authority shall direct that duties be assessed on the subject merchandise of the new exporter or producer consistent with the provisions of section 1675(a)(2)(B) of this title.
 
 (June 17, 1930, ch. 497, title VII, §706, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 160; amended Pub. L. 98–573, title VI, §607, Oct. 30, 1984, 98 Stat. 3029; Pub. L. 99–514, title XVIII, §1886(a)(5), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 103–465, title II, §§218(b)(1), 233(a)(5)(O), 264(c)(9), 265, 270(a)(1)(H), Dec. 8, 1994, 108 Stat. 4855, 4899, 4914, 4917.)
 

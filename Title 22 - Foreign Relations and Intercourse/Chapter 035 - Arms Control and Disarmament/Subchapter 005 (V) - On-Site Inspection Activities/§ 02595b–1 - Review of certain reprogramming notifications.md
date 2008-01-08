@@ -18,6 +18,10 @@ Any notification submitted to the Congress with respect to a proposed transfer, 
 
 &emsp;“(5) the extent to which OSIA plays a role in arms control policy formulation and operational implementation.”
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.

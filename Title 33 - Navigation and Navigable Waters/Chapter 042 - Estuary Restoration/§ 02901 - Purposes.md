@@ -2,15 +2,23 @@
 
 The purposes of this chapter are—
 
-&emsp;(1) to promote the restoration of estuary habitat;
+&emsp;(1) to promote the restoration of estuary habitat by implementing a coordinated Federal approach to estuary habitat restoration activities, including the use of common monitoring standards and a common system for tracking restoration acreage;
 
-&emsp;(2) to develop a national estuary habitat restoration strategy for creating and maintaining effective estuary habitat restoration partnerships among public agencies at all levels of government and to establish new partnerships between the public and private sectors;
+&emsp;(2) to develop and implement a national estuary habitat restoration strategy for creating and maintaining effective estuary habitat restoration partnerships among public agencies at all levels of government and to establish new partnerships between the public and private sectors;
 
-&emsp;(3) to provide Federal assistance for estuary habitat restoration projects and to promote efficient financing of such projects; and
+&emsp;(3) to provide Federal assistance for estuary habitat restoration projects through cooperative agreements and to promote efficient financing of such projects; and
 
 &emsp;(4) to develop and enhance monitoring and research capabilities through the use of the environmental technology innovation program associated with the National Estuarine Research Reserve System established by section 1461 of title 16 to ensure that estuary habitat restoration efforts are based on sound scientific understanding and innovative technologies.
 
-(Pub. L. 106–457, title I, §102, Nov. 7, 2000, 114 Stat. 1958.)
+(Pub. L. 106–457, title I, §102, Nov. 7, 2000, 114 Stat. 1958; Pub. L. 110–114, title V, §5017(a), Nov. 8, 2007, 121 Stat. 1197.)
+
+#### Amendments
+
+2007—Par. (1). Pub. L. 110–114, §5017(a)(1), inserted “by implementing a coordinated Federal approach to estuary habitat restoration activities, including the use of common monitoring standards and a common system for tracking restoration acreage” before semicolon at end.
+
+Par. (2). Pub. L. 110–114, §5017(a)(2), inserted “and implement” after “to develop”.
+
+Par. (3). Pub. L. 110–114, §5017(a)(3), inserted “through cooperative agreements” after “restoration projects”.
 
 #### Short Title
 

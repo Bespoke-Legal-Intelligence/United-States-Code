@@ -98,7 +98,7 @@
 
 (6) For purposes of this section:
 
-&emsp;(A)(i) The term “domestic industry” means, with respect to an article, the producers as a whole of the like or directly competitive article or those producers whose collective production of the like or directly competitive article constitutes a major proportion of the total domestic production of such article.
+&emsp;(A)(i) The term “domestic industry” means, with respect to an article, the producers as awhole of the like or directly competitive article or those producers whose collective production of the like or directly competitive article constitutes a major proportion of the total domestic production of such article.
 
 &emsp;(ii) The term “domestic industry” includes producers located in the United States insular possessions.
 
@@ -148,7 +148,7 @@
 
 (C) The Commission shall immediately report to the President its determinations under subparagraph (A)(i) and (ii) and, if the determinations are affirmative, the finding under subparagraph (B).
 
-(D) Within 30 days after receiving a report from the Commission under subparagraph (C) containing an affirmative determination under subparagraph (A)(i) and (ii), the President, if he considers provisional relief to be warranted and after taking into account the finding of the Commission under subparagraph (B), shall proclaim, for a period not to exceed 200 days, such provisional relief that the President considers necessary to prevent or remedy the serious injury. Such relief shall take the form of an increase in, or the imposition of, a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
+(D) Within 30 days after receiving a report from the Commission under subparagraph (C) containing an affirmative determination under subparagraph (A)(i) and (ii), the President, if heconsiders provisional relief to be warranted and after taking into account the finding of the Commission under subparagraph (B), shall proclaim, for a period not to exceed 200 days, such provisional relief that the President considers necessary to prevent or remedy the serious injury. Such relief shall take the form of an increase in, or the imposition of, a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
 
 (3) If provisional relief is proclaimed under paragraph (1)(G) or (2)(D) in the form of an increase, or the imposition of, a duty, the President shall order the suspension of liquidation of all imported articles subject to the affirmative determination under paragraph (1)(C) or paragraph (2)(A), as the case may be, that are entered, or withdrawn from warehouse for consumption, on or after the date of the determination.
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;(iii) any other factor considered appropriate by the Trade Representative.
 
-> &emsp;The presence or absence of any factor which the Trade Representative is required to takeinto account under clause (i), (ii), or (iii) is not necessarily dispositive of whether an article is a perishable agricultural product.
+> &emsp;The presence or absence of any factor which the Trade Representative is required to take into account under clause (i), (ii), or (iii) is not necessarily dispositive of whether an article is a perishable agricultural product.
 
 &emsp;(C) The term “provisional relief” means—
 
@@ -262,7 +262,7 @@
 
 &emsp;&emsp;(ii) the short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers and the communities where production facilities of such industry are located, and on other domestic industries.
 
-(3) The Commission, after submitting a report to the President under paragraph (1), shallpromptly make it available to the public (with the exception of the confidential information obtained under subsection (a)(6)(B) of this section and any other information which the Commission determines to be confidential) and cause a summary thereof to be published in the Federal Register.
+(3) The Commission, after submitting a report to the President under paragraph (1), shall promptly make it available to the public (with the exception of the confidential information obtained under subsection (a)(6)(B) of this section and any other information which the Commission determines to be confidential) and cause a summary thereof to be published in the Federal Register.
 
 #### (g) Expedited consideration of adjustment assistance petitions
 
@@ -290,13 +290,17 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 The Commission shall promulgate regulations to provide access to confidential business information under protective order to authorized representatives of interested parties who are parties to an investigation under this section.
 
-(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967; Pub. L. 108–286, title III, §316, Aug. 3, 2004, 118 Stat. 945; Pub. L. 108–302, title III, §316, Aug. 17, 2004, 118 Stat. 1120; Pub. L. 109–53, title III, §316, Aug. 2, 2005, 119 Stat. 492; Pub. L. 109–169, title III, §316, Jan. 11, 2006, 119 Stat. 3597; Pub. L. 109–283, title III, §316, Sept. 26, 2006, 120 Stat. 1207.)
+(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967; Pub. L. 108–286, title III, §316, Aug. 3, 2004, 118 Stat. 945; Pub. L. 108–302, title III, §316, Aug. 17, 2004, 118 Stat. 1120; Pub. L. 109–53, title III, §316, Aug. 2, 2005, 119 Stat. 492; Pub. L. 109–169, title III, §316, Jan. 11, 2006, 119 Stat. 3597; Pub. L. 109–283, title III, §316, Sept. 26, 2006, 120 Stat. 1207; Pub. L. 110–138, title III, §316, Dec. 14, 2007, 121 Stat. 1483.)
 
 #### Amendment of Subsection (a)
+
+<i>Pub. L. 110–138, title I, §107(a), title III, §316, Dec. 14, 2007, 121 Stat. 1459, 1483, provided that, effective on the date on which the United States-Peru Trade Promotion Agreement enters into force, subsection (a)(8) of this section is amended in the first sentence by striking “and” and by inserting before the period at the end “, and title III of the United States-Peru Trade Promotion Agreement Implementation Act”.</i>
 
 <i>Pub. L. 109–283, title I, §107(a), title III, §316, Sept. 26, 2006, 120 Stat. 1195, 1207, provided that, effective on the date on which the United States-Oman Free Trade Agreement enters into force, subsection (a)(8) of this section is amended in the first sentence by striking “and” and by inserting before the period at the end “, and title III of the United States-Oman Free Trade Agreement Implementation Act”.</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 110–138, see Effective and Termination Dates of 2007 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 109–283, see Effective and Termination Dates of 2006 Amendment note below.</i>
 
@@ -320,7 +324,7 @@ The North American Free Trade Agreement Implementation Act, referred to in subse
 
 Title II of the United States-Jordan Free Trade Area Implementation Act, referred to in subsec. (a)(8), is title II of Pub. L. 107–43, Sept. 28, 2001, 115 Stat. 243, which is set out in a note under section 2112 of this title.
 
-Title III of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (a)(8),is title III of Pub. L. 108–77, Sept. 3, 2003, 117 Stat. 909, which is set out in a note under section 3805 of this title.
+Title III of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–77, Sept. 3, 2003, 117 Stat. 909, which is set out in a note under section 3805 of this title.
 
 Title III of the United States-Singapore Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–78, Sept. 3, 2003, 117 Stat. 948, which is set out in a note under section 3805 of this title.
 
@@ -405,6 +409,10 @@ Subsec. (d)(1)(C). Pub. L. 103–182, §315(2), in cl. (i) and provisions before
 Subsec. (d)(5). Pub. L. 103–182, §315(3), (4), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 1988—Pub. L. 100–418, in amending section generally, substituted provisions relating to investigations, determinations and recommendations by Commission for provisions relating to Presidential action after investigations. See section 2253 of this title.
+
+#### Effective and Termination Dates of 2007 Amendment
+
+Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2006 Amendment
 

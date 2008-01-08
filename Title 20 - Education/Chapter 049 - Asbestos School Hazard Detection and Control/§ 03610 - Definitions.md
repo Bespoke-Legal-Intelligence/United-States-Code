@@ -26,7 +26,7 @@ For purposes of this chapter—
 
 &emsp;(6) the term “school buildings” means—
 
-&emsp;&emsp;(A) structures suitable for use as classrooms, laboratories, libraries, school eatingfacilities, or facilities used for the preparation of food;
+&emsp;&emsp;(A) structures suitable for use as classrooms, laboratories, libraries, school eating facilities, or facilities used for the preparation of food;
 
 &emsp;&emsp;(B) any gymnasium or other facility which is specially designed for athletic or recreational activities for an academic course in physical education;
 

@@ -36,7 +36,7 @@ Any document described in subsection (a) of this section shall be immediately re
 
 &emsp;(B) Debate in the House of Representatives on any fishery agreement resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate shall not be debatable. It shall not be in order to move to recommit any fishery agreement resolution or to move to reconsider the vote by which any fishery agreement resolution is agreed to or disagreed to.
 
-&emsp;(C) Motions to postpone, made in the House of Representatives with respect to the consideration of any fishery agreement resolution, and motions to proceed to the consideration of other business, shall be decided without debate.
+&emsp;(C) Motions to postpone, made in the House of Representatives with respect to the consideration of any fishery agreement resolution, and motions to proceed to the consideration ofother business, shall be decided without debate.
 
 &emsp;(D) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any fishery agreement resolution shall be decided without debate.
 
@@ -80,7 +80,7 @@ Pub. L. 104–43, title V, §501, Nov. 3, 1995, 109 Stat. 391, provided that: �
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Governing International Fishery Agreement With Poland
 
@@ -158,7 +158,7 @@ Pub. L. 98–498, title IV, §440, Oct. 19, 1984, 98 Stat. 2310, as amended by P
 
 #### Governing International Fishery Agreement With Japan
 
-Pub. L. 101–224, §7, Dec. 12, 1989, 103 Stat. 1907, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan was approved by Congress and was to enter into force and effect with respect to the United States on Dec. 12, 1989.
+Pub. L. 101–224, §7, Dec. 12, 1989, 103 Stat. 1907, provided that the governing international fishery agreement entered into between the Government of theUnited States and the Government of Japan was approved by Congress and was to enter into force and effect with respect to the United States on Dec. 12, 1989.
 
 Pub. L. 100–220, title I, §1001, Dec. 29, 1987, 101 Stat. 1459, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 29, 1987.
 
@@ -184,7 +184,7 @@ Pub. L. 97–212, §10(b), June 30, 1982, 96 Stat. 148, provided that the govern
 
 Pub. L. 95–6, §2, Feb. 21, 1977, 91 Stat. 15, as amended by Pub. L. 95–8, §1, Mar. 3, 1977, 91 Stat. 18; Pub. L. 95–219, §1, Dec. 28, 1977, 91 Stat. 1613; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–212, §10(a), June 30, 1982, 96 Stat. 148; Pub. L. 98–44, title I, §105, July 12, 1983, 97 Stat. 217; Pub. L. 98–364, title I, §105, July 17, 1984, 98 Stat. 442, provided for the approval by Congress, as a governing international fishery agreement for purposes of this chapter, of the governing international fishery agreement between—
 
-&emsp;(1) the Government of the United States and the Government of the People's Republic of BulgariaConcerning Fisheries Off the Coasts of the United States;
+&emsp;(1) the Government of the United States and the Government of the People's Republic of Bulgaria Concerning Fisheries Off the Coasts of the United States;
 
 &emsp;(2) the Government of the United States and the Government of the Socialist Republic of Romania Concerning Fisheries Off the Coasts of the United States;
 

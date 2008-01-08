@@ -32,7 +32,7 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 &emsp;&emsp;&emsp;(i) With respect to pesticides containing active ingredients that are initially registered under this subchapter after September 30, 1978, data submitted to support the application for the original registration of the pesticide, or an application for an amendment adding any new use to the registration and that pertains solely to such new use, shall not, without the written permission of the original data submitter, be considered by the Administrator to support an application by another person during a period of ten years following the date the Administrator first registers the pesticide, except that such permission shall not be required in the case of defensive data.
 
-&emsp;&emsp;&emsp;(ii) The period of exclusive data use provided under clause (i) shall be extended 1 additional year for each 3 minor uses registered after August 3, 1996, and within 7 years of the commencement of the exclusive use period, up to a total of 3 additional years for all minor uses registered by the Administrator if the Administrator, in consultation with the Secretary of Agriculture, determines that, based on information provided by an applicant for registration or a registrant, that—
+&emsp;&emsp;&emsp;(ii) The period of exclusive data use provided under clause (i) shall be extended 1 additional year for each 3 minor uses registered after August 3, 1996, and within 7years of the commencement of the exclusive use period, up to a total of 3 additional years for all minor uses registered by the Administrator if the Administrator, in consultation with the Secretary of Agriculture, determines that, based on information provided by an applicant for registration or a registrant, that—
 
 &emsp;&emsp;&emsp;&emsp;(I) there are insufficient efficacious alternative registered pesticides available for the use;
 
@@ -48,7 +48,7 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 &emsp;&emsp;&emsp;(iv) After expiration of any period of exclusive use and any period for which compensation is required for the use of an item of data under clauses (i), (ii), and (iii), the Administrator may consider such item of data in support of an application by any other applicant without the permission of the original data submitter and without an offer having been received to compensate the original data submitter for the use of such item of data.
 
-&emsp;&emsp;&emsp;(v) The period of exclusive use provided under clause (ii) shall not take effect until 1 year after August 3, 1996, except where an applicant or registrant is applying for the registration of a pesticide containing an active ingredient not previously registered.
+&emsp;&emsp;&emsp;(v) The period of exclusive use provided under clause (ii) shall not take effect until1 year after August 3, 1996, except where an applicant or registrant is applying for the registration of a pesticide containing an active ingredient not previously registered.
 
 &emsp;&emsp;&emsp;(vi) With respect to data submitted after August 3, 1996, by an applicant or registrant to support an amendment adding a new use to an existing registration that does not retain any period of exclusive use, if such data relates solely to a minor use of a pesticide, such data shall not, without the written permission of the original data submitter, be considered by the Administrator to support an application for a minor use by another person during the period of 10 years following the date of submission of such data. The applicant or registrant at the time the new minor use is requested shall notify the Administrator that to the best of their knowledge the exclusive use period for the pesticide has expired and that the data pertaining solely to the minor use of a pesticide is eligible for the provisions of this paragraph. If the minor use registration which is supported by data submitted pursuant to this subsection is voluntarily canceled or if such data are subsequently used to support a nonminor use, the data shall no longer be subject to the exclusive use provisions of this clause but shall instead be considered by the Administrator in accordance with the provisions of clause (i), as appropriate.
 
@@ -68,7 +68,7 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 &emsp;&emsp;(iii) If, at the end of sixty days after advising the Administrator of their agreement to develop jointly, or share in the cost of developing, data, the registrants have not further agreed on the terms of the data development arrangement or on a procedure for reaching such agreement, any of such registrants may initiate binding arbitration proceedings by requesting the Federal Mediation and Conciliation Service to appoint an arbitrator from the roster of arbitrators maintained by such Service. The procedure and rules of the Service shall be applicable to the selection of such arbitrator and to such arbitration proceedings, and the findings and determination of the arbitrator shall be final and conclusive, and no official or court of the United States shall have power or jurisdiction to review any such findings and determination, except for fraud, misrepresentation, or other misconduct by one of the parties to the arbitration or the arbitrator where there is a verified complaint with supporting affidavits attesting to specific instances of such fraud, misrepresentation, or other misconduct. All parties to the arbitration shall share equally in the payment of the fee and expenses of the arbitrator. The Administrator shall issue a notice of intent to suspend the registration of a pesticide in accordance with the procedures prescribed by clause (iv) if a registrant fails to comply with this clause.
 
-&emsp;&emsp;(iv) Notwithstanding any other provision of this subchapter, if the Administrator determines that a registrant, within the time required by the Administrator, has failed totake appropriate steps to secure the data required under this subparagraph, to participate in a procedure for reaching agreement concerning a joint data development arrangement under this subparagraph or in an arbitration proceeding as required by this subparagraph, or to comply with the terms of an agreement or arbitration decision concerning a joint data development arrangement under this subparagraph, the Administrator may issue a notice of intent to suspend such registrant's registration of the pesticide for which additional data is required. The Administrator may include in the notice of intent to suspend such provisions as the Administrator deems appropriate concerning the continued sale and use of existing stocks of such pesticide. Any suspension proposed under this subparagraph shall become final and effective at the end of thirty days from receipt by the registrant of the notice of intent to suspend, unless during that time a request for hearing is made by a person adversely affected by the notice or the registrant has satisfied the Administrator that the registrant has complied fully with the requirements that served as a basis for the notice of intent to suspend. If a hearing is requested, a hearing shall be conducted under section 136d(d) of this title. The only matters for resolution at that hearing shall be whether the registrant has failed to take the action that served as the basis for the notice of intent to suspend the registration of the pesticide for which additional data is required, and whether the Administrator's determination with respect to the disposition of existing stocks is consistent with this subchapter. If a hearing is held, a decision after completion of such hearing shall be final. Notwithstanding any other provision of this subchapter, a hearing shall be held and a determination made within seventy-five days after receipt of a request for such hearing. Any registration suspended under this subparagraph shall be reinstated by the Administrator if the Administrator determines that the registrant has complied fully with the requirements that served as a basis for the suspension of the registration.
+&emsp;&emsp;(iv) Notwithstanding any other provision of this subchapter, if the Administrator determines that a registrant, within the time required by the Administrator, has failed to take appropriate steps to secure the data required under this subparagraph, to participate in a procedure for reaching agreement concerning a joint data development arrangement under this subparagraph or in an arbitration proceeding as required by this subparagraph, or to comply with the terms of an agreement or arbitration decision concerning a joint data development arrangement under this subparagraph, the Administrator may issue a notice of intent to suspend such registrant's registration of the pesticide for which additional data is required. The Administrator may include in the notice of intent to suspend such provisions as the Administrator deems appropriate concerning the continued sale and use of existing stocks of such pesticide. Any suspension proposed under this subparagraph shall become final and effective at the end of thirty days from receipt by the registrant of the notice of intent to suspend, unless during that time a request for hearing is made by a person adversely affected by the notice or the registrant has satisfied the Administrator that the registrant has complied fully with the requirements that served as a basis for the notice of intent to suspend. If a hearing is requested, a hearing shall be conducted under section 136d(d) of this title. The only matters for resolution at that hearing shall be whether the registrant has failed to take the action that served as the basis for the notice of intent to suspend the registration of the pesticide for which additional data is required, and whether the Administrator's determination with respect to the disposition of existing stocks is consistent with this subchapter. If a hearing is held, a decision after completion of such hearing shall be final. Notwithstanding any other provision of this subchapter, a hearing shall be held and a determination made within seventy-five days after receipt of a request for such hearing. Any registration suspended under this subparagraph shall be reinstated by the Administrator if the Administrator determines that the registrant has complied fully with the requirements that served as a basis for the suspension of the registration.
 
 &emsp;&emsp;(v) Any data submitted under this subparagraph shall be subject to the provisions of paragraph (1)(D). Whenever such data are submitted jointly by two or more registrants, an agent shall be agreed on at the time of the joint submission to handle any subsequent data compensation matters for the joint submitters of such data.
 
@@ -82,7 +82,7 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 &emsp;&emsp;&emsp;(IV) the Administrator has determined that based on existing data, such extension would not significantly increase the risk of any unreasonable adverse effect on the environment. If the Administrator grants an extension under this clause, the Administrator shall monitor the development of the data and shall ensure that the registrant is meeting the schedule for the production of the data. If the Administrator determines that the registrant is not meeting or has not met the schedule for the production of such data, the Administrator may proceed in accordance with clause (iv) regarding the continued registration of the affected products with the minor use and shall inform the public of such action. Notwithstanding the provisions of this clause, the Administrator may take action to modify or revoke the extension under this clause if the Administrator determines that the extension for the minor use may cause an unreasonable adverse effect on the environment. In such circumstance, the Administrator shall provide, in writing to the registrant, a notice revoking the extension of time for submission of data. Such data shall instead be due in accordance with the date established by the Administrator for the submission of the data.
 
-&emsp;&emsp;(vii) If the registrant does not commit to support a specific minor use of the pesticide, but is supporting and providing data in a timely and adequate fashion to support uses of the pesticide on a food, or if all uses of the pesticide are nonfood uses and the registrant does not commit to support a specific minor use of the pesticide but is supporting and providing data in a timely and adequate fashion to support other nonfood uses of the pesticide, the Administrator, at the written request of the registrant, shall not take any action pursuant to this clause in regard to such unsupported minor use until the final deadline established as of August 3, 1996, for the submission of data under section 136a–1 of this title for the supported uses identified pursuant to this clause unless the Administrator determines that the absence of the data is significant enough to cause human health or environmental concerns. On the basis of such determination, the Administrator may refuse the request for extension by the registrant. Upon receipt of the request from the registrant, the Administrator shall publish in the Federal Register a notice of the receipt of the request and the effective date upon which the uses not being supported will be voluntarily deleted from the registration pursuant to section136d(f)(1) of this title. If the Administrator grants an extension under this clause, the Administrator shall monitor the development of the data for the uses being supported and shall ensure that the registrant is meeting the schedule for the production of such data. If the Administrator determines that the registrant is not meeting or has not met the schedule for the production of such data, the Administrator may proceed in accordance with clause (iv) of this subparagraph regarding the continued registration of the affected products with the minor and other uses and shall inform the public of such action in accordance with section 136d(f)(2) of this title. Notwithstanding the provisions of this clause, the Administrator may deny, modify, or revoke the temporary extension under this subparagraph if the Administrator determines that the continuation of the minor use may cause an unreasonable adverse effect on the environment. In the event of modification or revocation, the Administrator shall provide, in writing, to the registrant a notice revoking the temporary extension and establish a new effective date by which the minor use shall be deleted from the registration.
+&emsp;&emsp;(vii) If the registrant does not commit to support a specific minor use of the pesticide, but is supporting and providing data in a timely and adequate fashion to support uses of the pesticide on a food, or if all uses of the pesticide are nonfood uses and the registrant does not commit to support a specific minor use of the pesticide but is supporting and providing data in a timely and adequate fashion to support other nonfood uses of the pesticide, the Administrator, at the written request of the registrant, shall not take any action pursuant to this clause in regard to such unsupported minor use until the final deadline established as of August 3, 1996, for the submission of data under section 136a–1 of this title for the supported uses identified pursuant to this clause unless the Administrator determines that the absence of the data is significant enough to cause human health or environmental concerns. On the basis of such determination, the Administrator may refuse the request for extension by the registrant. Upon receipt of the request from the registrant, the Administrator shall publish in the Federal Register a notice of the receipt of the request and the effective date upon which the uses not being supported will be voluntarily deleted from the registration pursuant to section 136d(f)(1) of this title. If the Administrator grants an extension under this clause, the Administrator shall monitor the development of the data for the uses being supported and shall ensure that the registrant is meeting the schedule for the production of such data. If the Administrator determines that the registrant is not meeting or has not met the schedule for the production of such data, the Administrator may proceed in accordance with clause (iv) of this subparagraph regarding the continued registration of the affected products with the minor and other uses and shall inform the public of such action in accordance with section 136d(f)(2) of this title. Notwithstanding the provisions of this clause, the Administrator may deny, modify, or revoke the temporary extension under this subparagraph if the Administrator determines that the continuation of the minor use may cause an unreasonable adverse effect on the environment. In the event of modification or revocation, the Administrator shall provide, in writing, to the registrant a notice revoking the temporary extension and establish a new effective date by which the minor use shall be deleted from the registration.
 
 &emsp;&emsp;(viii)(I) If data required to support registration of a pesticide under subparagraph (A) is requested by a Federal or State regulatory authority, the Administrator shall, to the extent practicable, coordinate data requirements, test protocols, timetables, and standards of review and reduce burdens and redundancy caused to the registrant by multiple requirements on the registrant.
 
@@ -126,9 +126,9 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 &emsp;&emsp;(ii) In expediting the review of an application for an action described in clause (i), the Administrator shall—
 
-&emsp;&emsp;&emsp;(I) within 45 days after receiving the application, notify the registrant whether or not the application is complete and, if the application is found to be incomplete, reject the application;
+&emsp;&emsp;&emsp;(I) review the application in accordance with section 136w–8(f)(4)(B) of this title and, if the application is found to be incomplete, reject the application;
 
-&emsp;&emsp;&emsp;(II) within 90 days after receiving a complete application, notify the registrant if the application has been granted or denied; and
+&emsp;&emsp;&emsp;(II) not later than the applicable decision review time established pursuant to section 136w–8(f)(4)(B) of this title, or, if no review time is established, not later than 90 days after receiving a complete application, notify the registrant if the application has been granted or denied; and
 
 &emsp;&emsp;&emsp;(III) if the application is denied, notify the registrant in writing of the specific reasons for the denial of the application.
 
@@ -142,7 +142,7 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 &emsp;&emsp;(ii) For the purposes of clause (i)—
 
-&emsp;&emsp;&emsp;(I) the term “as expeditiously as possible” means that the Administrator shall,to the greatest extent practicable, complete a review and evaluation of all data, submitted with a complete application, within 12 months after the submission of the complete application, and the failure of the Administrator to complete such a review and evaluation under clause (i) shall not be subject to judicial review; and
+&emsp;&emsp;&emsp;(I) the term “as expeditiously as possible” means that the Administrator shall, to the greatest extent practicable, complete a review and evaluation of all data, submitted with a complete application, within 12 months after the submission of the complete application, and the failure of the Administrator to complete such a review and evaluation under clause (i) shall not be subject to judicial review; and
 
 &emsp;&emsp;&emsp;(II) the term “significant minor uses” means 3 or more minor uses proposed for every nonminor use, a minor use that would, in the judgment of the Administrator, serve as a replacement for any use which has been canceled in the 5 years preceding the receipt of the application, or a minor use that in the opinion of the Administrator would avoid the reissuance of an emergency exemption under section 136p of this title for that minor use.
 
@@ -224,7 +224,7 @@ A pesticide which is not registered with the Administrator may be transferred if
 
 #### (D) Use dilution
 
-&emsp;&emsp;The label or labeling required under this subchapter for an antimicrobial pesticidethat is or may be diluted for use may have a different statement of caution or protective measures for use of the recommended diluted solution of the pesticide than for use of a concentrate of the pesticide if the Administrator determines that—
+&emsp;&emsp;The label or labeling required under this subchapter for an antimicrobial pesticide that is or may be diluted for use may have a different statement of caution or protective measures for use of the recommended diluted solution of the pesticide than for use of a concentrate of the pesticide if the Administrator determines that—
 
 &emsp;&emsp;&emsp;(i) adequate data have been submitted to support the statement proposed for the diluted solution uses; and
 
@@ -302,9 +302,45 @@ Products which have the same formulation, are manufactured by the same person, t
 
 #### (A) Periodic review
 
-&emsp;&emsp;The registrations of pesticides are to be periodically reviewed. The Administrator shall by regulation establish a procedure for accomplishing the periodic review of registrations. The goal of these regulations shall be a review of a pesticide's registration every 15 years. No registration shall be canceled as a result of the registration review process unless the Administrator follows the procedures and substantive requirements of section 136d of this title.
+#### (i) In general
 
-#### (B) Limitation
+&emsp;&emsp;&emsp;The registrations of pesticides are to be periodically reviewed.
+
+#### (ii) Regulations
+
+&emsp;&emsp;&emsp;In accordance with this subparagraph, the Administrator shall by regulation establish a procedure for accomplishing the periodic review of registrations.
+
+#### (iii) Initial registration review
+
+&emsp;&emsp;&emsp;The Administrator shall complete the registration review of each pesticide or pesticide case, which may be composed of 1 or more active ingredients and the products associated with the active ingredients, not later than the later of—
+
+&emsp;&emsp;&emsp;&emsp;(I) October 1, 2022; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the date that is 15 years after the date on which the first pesticide containing a new active ingredient is registered.
+
+#### (iv) Subsequent registration review
+
+&emsp;&emsp;&emsp;Not later than 15 years after the date on which the initial registration review is completed under clause (iii) and each 15 years thereafter, the Administrator shall complete a subsequent registration review for each pesticide or pesticide case.
+
+#### (v) Cancellation
+
+&emsp;&emsp;&emsp;No registration shall be canceled as a result of the registration review process unless the Administrator follows the procedures and substantive requirements of section 136d of this title.
+
+#### (B) Docketing
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), after meeting with 1 or more individuals that are not government employees to discuss matters relating to a registration review, the Administrator shall place in the docket minutes of the meeting, a list of attendees, and any documents exchanged at the meeting, not later than the earlier of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the date that is 45 days after the meeting; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the date of issuance of the registration review decision.
+
+#### (ii) Protected information
+
+&emsp;&emsp;&emsp;The Administrator shall identify, but not include in the docket, any confidential business information the disclosure of which is prohibited by section 136h of this title.
+
+#### (C) Limitation
 
 &emsp;&emsp;Nothing in this subsection shall prohibit the Administrator from undertaking any other review of a pesticide pursuant to this subchapter.
 
@@ -424,7 +460,7 @@ Products which have the same formulation, are manufactured by the same person, t
 
 #### (E) Wood preservatives
 
-&emsp;&emsp;An application for the registration, or for an amendment to the registration, of a wood preservative product for which a claim of pesticidal activity listed in section 136(mm) of this title is made (regardless of any other pesticidal claim that is made with respect to the product) shall be reviewed by the Administrator within the same period as that established under this paragraph for an antimicrobial pesticide product application, consistent with the degree of risk posed by theuse of the wood preservative product, if the application requires the applicant to satisfy the same data requirements as are required to support an application for a wood preservative product that is an antimicrobial pesticide.
+&emsp;&emsp;An application for the registration, or for an amendment to the registration, of a wood preservative product for which a claim of pesticidal activity listed in section 136(mm) of this title is made (regardless of any other pesticidal claim that is made with respect to the product) shall be reviewed by the Administrator within the same period as that established under this paragraph for an antimicrobial pesticide product application, consistent with the degree of risk posed by the use of the wood preservative product, if the application requires the applicant to satisfy the same data requirements as are required to support an application for a wood preservative product that is an antimicrobial pesticide.
 
 #### (F) Notification
 
@@ -464,13 +500,21 @@ Products which have the same formulation, are manufactured by the same person, t
 
 &emsp;&emsp;&emsp;(iii) recommendations to improve the activities of the Agency pertaining to antimicrobial registrations.
 
-(June 25, 1947, ch. 125, §3, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, §12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§102(b), 103, title VI, §601(b)(1), title VIII, §801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, §1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§105(b), 106(b), title II, §§210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, §501(b), Jan. 23, 2004, 118 Stat. 419.)
+(June 25, 1947, ch. 125, §3, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, §12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§102(b), 103, title VI, §601(b)(1), title VIII, §801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, §1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§105(b), 106(b), title II, §§210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, §501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§2, 3, Oct. 9, 2007, 121 Stat. 1000.)
 
 #### Prior Provisions
 
 A prior section 3 of act June 25, 1947, was classified to section 135a of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
 
 #### Amendments
+
+2007—Subsec. (c)(3)(B)(ii)(I). Pub. L. 110–94, §2(1), substituted “review the application in accordance with section 136w–8(f)(4)(B) of this title and,” for “within 45 days after receiving the application, notify the registrant whether or not the application is complete and,”.
+
+Subsec. (c)(3)(B)(ii)(II). Pub. L. 110–94, §2(2), substituted “not later than the applicable decision reviewtime established pursuant to section 136w–8(f)(4)(B) of this title, or, if no review time is established, not later than” for “within”.
+
+Subsec. (g)(1)(A). Pub. L. 110–94, §3(1), designated first sentence as cl. (i) and inserted heading, designated second sentence as cl. (ii), inserted heading, and substituted “In accordance with this subparagraph, the Administrator” for “The Administrator”, added cls. (iii) and (iv), designated fourth sentence as cl. (v) and inserted heading, and struck out third sentence which read as follows: “The goal of these regulations shall be a review of a pesticide's registration every 15 years.”
+
+Subsec. (g)(1)(B), (C). Pub. L. 110–94, §3(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 2004—Subsec. (h)(2)(F). Pub. L. 108–199, §501(b)(1), substituted “120 days” for “90 to 180 days”.
 
@@ -577,6 +621,10 @@ Subsec. (d)(3). Pub. L. 95–396, §7(3), added par. (3).
 Subsec. (g). Pub. L. 95–396, §8, added subsec. (g).
 
 1975—Subsec. (c)(1)(D). Pub. L. 94–140 inserted exception relating to test data submitted on or after January 1, 1970, in support of application, inserted provision that compensation for producing test data shall apply to all applications submitted on or after October 21, 1972, and provision relating to delay of registration pending determination of reasonable compensation, struck out requirement that payment determined by court not be less than amount determined by Administrator, and substituted “If either party” for “If the owner of the test data”.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–94, §6, Oct. 9, 2007, 121 Stat. 1007, provided that: “This Act \[see Short Title of 2007 Amendment note set out under section 136 of this title\] and the amendments made by this Act take effect on October 1, 2007.”
 
 #### Effective Date of 2004 Amendment
 

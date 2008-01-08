@@ -28,5 +28,5 @@ Pub. L. 109–364, div. A, title VIII, §807(a)(3), Oct. 17, 2006, 120 Stat. 231
 
 #### Update of Regulations on Lead System Integrators
 
-Pub. L. 109–364, div. A, title VIII, §807(b), Oct. 17, 2006, 120 Stat. 2316, provided that: “Not later than December31, 2006, the Secretary of Defense shall update the acquisition regulations of the Department of Defense in order to specify fully in such regulations the matters with respect to lead system integrators set forth in section 805(b) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3372) and the amendments made by subsection (a) \[enacting this section\].”
+Pub. L. 109–364, div. A, title VIII, §807(b), Oct. 17, 2006, 120 Stat. 2316, provided that: “Not later than December 31, 2006, the Secretary of Defense shall update the acquisition regulations of the Department of Defense in order to specify fully in such regulations the matters with respect to lead system integrators set forth in section 805(b) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3372) and the amendments made by subsection (a) \[enacting this section\].”
 

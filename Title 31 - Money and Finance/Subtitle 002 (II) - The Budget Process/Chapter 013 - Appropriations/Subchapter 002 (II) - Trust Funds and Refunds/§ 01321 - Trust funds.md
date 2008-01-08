@@ -184,7 +184,7 @@
 
 &emsp;(91) Violent Crime Reduction Trust Fund.
 
-(b)(1) Amounts (except amounts received by the Comptroller of the Currency and the Federal Deposit Insurance Corporation) that are analogous to the funds named in subsection (a) of this section and are received by the United States Government as trustee shall be deposited in an appropriate trust fund account in the Treasury.Except as provided in paragraph (2), amounts accruing to these funds are appropriated to be disbursed in compliance with the terms of the trust.
+(b)(1) Amounts (except amounts received by the Comptroller of the Currency and the Federal Deposit Insurance Corporation) that are analogous to the funds named in subsection (a) of this section and are received by the United States Government as trustee shall be deposited in an appropriate trust fund account in the Treasury. Except as provided in paragraph (2), amounts accruing to these funds are appropriated to be disbursed in compliance with the terms of the trust.
 
 (2) Expenditures from the following trust funds may be made only under annual appropriations and only if the appropriations are specifically authorized by law:
 

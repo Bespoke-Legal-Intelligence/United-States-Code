@@ -106,7 +106,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 #### References in Text
 
-The Small Business Act, referred to in subsec. (d)(1), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (d)(1), is Pub. L. 85–536, §2 (1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (i)(5)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -138,5 +138,5 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except as otherwise provid
 
 #### Termination Date
 
-No technical assistance to be provided under this part after Sept. 30, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No technical assistance to be provided under this part after Dec. 31, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

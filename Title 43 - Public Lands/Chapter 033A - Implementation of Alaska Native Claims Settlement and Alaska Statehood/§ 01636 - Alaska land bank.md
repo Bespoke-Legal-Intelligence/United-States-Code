@@ -40,7 +40,7 @@ Each agreement referred to in subsection (a) of this section shall have an initi
 
 #### (d) Automatic protections for lands conveyed pursuant to Alaska Native Claims Settlement Act
 
-(1)(A) Notwithstanding any other provision of law or doctrine of equity, all land and interests in land in Alaska conveyed by the Federal Government pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] to a Native individual or Native Corporation or subsequently reconveyed by a Native Corporationpursuant to section 39 of that Act \[43 U.S.C. 1629e\] to a Settlement Trust or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(f)\] or section 3192(h) of title 16 or other applicable law shall be exempt, so long as such land and interests are not developed or leased or sold to third parties from—
+(1)(A) Notwithstanding any other provision of law or doctrine of equity, all land and interests in land in Alaska conveyed by the Federal Government pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] to a Native individual or Native Corporation or subsequently reconveyed by a Native Corporation pursuant to section 39 of that Act \[43 U.S.C. 1629e\] to a Settlement Trust or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(f)\] or section 3192(h) of title 16 or other applicable law shall be exempt, so long as such land and interests are not developed or leased or sold to third parties from—
 
 &emsp;(i) adverse possession and similar claims based upon estoppel;
 
@@ -120,7 +120,7 @@ Exclusions, Reattachment of Exemptions.—(A) The exemptions listed in paragraph
 
 &emsp;&emsp;(II) the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement Common Stock, nor
 
-&emsp;&emsp;(III) the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement Common Stock and by Natives and descendants of Natives,
+&emsp;&emsp;(III) the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement CommonStock and by Natives and descendants of Natives,
 
 > &emsp;represents a majority of either the total equity of the corporation or the total voting power of the corporation for the purposes of electing directors; or
 
@@ -180,7 +180,7 @@ Subsec. (d)(2)(B)(iv). Pub. L. 105–333, §1(b), added cl. (iv).
 
 Subsec. (d)(3)(B)(iii). Pub. L. 105–333, §1(c), added cl. (iii).
 
-1988—Subsec. (a)(1). Pub. L. 100–241, §11(1), (2), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section” and “no lands shall be included” for “lands not owned by landowners described in subsection (c)(2) of this section shall not be included”.
+1988—Subsec. (a)(1). Pub. L. 100–241, §11(1), (2), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section” and “no lands shall be included” for “lands not owned by landowners describedin subsection (c)(2) of this section shall not be included”.
 
 Subsec. (b)(1). Pub. L. 100–241, §11(1), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section”.
 

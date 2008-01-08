@@ -12,7 +12,7 @@ The Secretary shall discontinue the educational assistance allowance of an eligi
 
 &emsp;&emsp;(C) if a proposed change of program is involved, the change meets the requirements for approval under section 3691 of this title.
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 16, §1674; amended Pub. L. 94–502, title II, §§206, 211(8), Oct. 15, 1976, 90 Stat. 2387, 2388; Pub. L.95–202, title III, §305(b)(1), Nov. 23, 1977, 91 Stat. 1443; Pub. L. 96–466, title III, §306, Oct. 17, 1980, 94 Stat. 2193; Pub. L. 101–237, title IV, §§411(a), 412(b), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2085, 2092; renumbered §3474 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 16, §1674; amended Pub. L. 94–502, title II, §§206, 211(8), Oct. 15, 1976, 90 Stat. 2387, 2388; Pub. L. 95–202, title III, §305(b)(1), Nov. 23, 1977, 91 Stat. 1443; Pub. L. 96–466, title III, §306, Oct. 17, 1980, 94 Stat. 2193; Pub. L. 101–237, title IV, §§411(a), 412(b), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2085, 2092; renumbered §3474 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 
@@ -56,5 +56,5 @@ Amendment by sections 206 and 211(8) of Pub. L. 94–502 effective Dec. 1, 1976,
 
 #### Study of Methods To Improve Process Under Which Postsecondary Educational Institutions and Courses Are Approved; Report by September 30, 1979; Suspension of Implementation of 1976 Amendment
 
-Section 305(b)(2)–(4) of Pub. L. 95–202, as amended by Pub. L. 96–466, title VIII, §801(m)(2), Oct. 17, 1980, 94 Stat. 2217, directed Administrator of Veterans’ Affairs to study specific methods for improving process by which postsecondary educational institutions and courses at such institutions are approved for purposes of chapters 32, 34, 35, and 36 of this title, and need for legislative and administrative action regarding discontinuing educational assistance allowances to eligible veterans whose conduct or progress is unsatisfactory, required submission of a report on the study to President and Congress not later than Sept. 30, 1979, and directed Administrator to suspend implementation of certain amendments by Pub. L. 94–502 until submission of report.
+Section 305(b)(2)–(4) of Pub. L. 95–202, as amended by Pub. L. 96–466, title VIII, §801(m)(2), Oct. 17, 1980, 94 Stat. 2217, directed Administrator of Veterans’ Affairs to study specific methods for improving process by which postsecondary educational institutions andcourses at such institutions are approved for purposes of chapters 32, 34, 35, and 36 of this title, and need for legislative and administrative action regarding discontinuing educational assistance allowances to eligible veterans whose conduct or progress is unsatisfactory, required submission of a report on the study to President and Congress not later than Sept. 30, 1979, and directed Administrator to suspend implementation of certain amendments by Pub. L. 94–502 until submission of report.
 

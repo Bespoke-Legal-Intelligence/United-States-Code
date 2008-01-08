@@ -36,7 +36,7 @@ Report on Environmental Quality Programs and Other Environmental Activities.—(
 
 (2) Each report shall include the following:
 
-&emsp;(A) A description of the environmental quality program of the Department of Defense, and of each of the military departments, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year in which the report is submitted, and the fiscal year following the fiscal year in which the report is submitted.
+&emsp;(A) A description of the environmental quality program of the Department of Defense, and of each of the military departments, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year in which the reportis submitted, and the fiscal year following the fiscal year in which the report is submitted.
 
 &emsp;(B) For each of the major activities under the environmental quality programs:
 
@@ -72,8 +72,6 @@ Report on Environmental Technology Program.—(1) The Secretary of Defense shall
 
 &emsp;&emsp;(ii) a modified schedule for meeting the performance objectives or, if a performance objective is determined to be impracticable or infeasible to meet, a statement of alternative actions to be taken with respect to the project.
 
-z
-
 (d)
 
 Definitions.—In this section:
@@ -106,7 +104,7 @@ Definitions.—In this section:
 
 “(c)
 
-Report on Contractor Reimbursement Costs.—(1) The Secretary of Defense shall submit to the Congress each year, not later than 45 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on payments made by theSecretary to defense contractors for the costs of environmental response actions.
+Report on Contractor Reimbursement Costs.—(1) The Secretary of Defense shall submit to the Congress each year, not later than 45 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on payments made by the Secretary to defense contractors for the costs of environmental response actions.
 
 “(2) Each such report shall include, for the fiscal year preceding the year in which the report is submitted, the following:
 
@@ -196,7 +194,7 @@ Section 344(b) of Pub. L. 105–85 provided that: “The statement submitted by 
 
 #### Compliance With Annex V to the International Convention for the Prevention of Pollution From Ships, 1973
 
-Section 324(b), (c) of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(1), Nov. 18, 1997,111 Stat. 1904; Pub. L. 108–136, div. A, title X, §1031(f)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
+Section 324(b), (c) of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(1), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 108–136, div. A, title X, §1031(f)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 “(b)
 

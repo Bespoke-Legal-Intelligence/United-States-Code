@@ -10,11 +10,11 @@ How Land May Be Acquired.—
 
 &emsp;(1)
 
-Purchase or condemnation proceeding.—The National Capital Planning Commission may buy land when the land can be acquired at a price the Planning Commission considers reasonable or by a condemnation proceeding when the land cannot be bought at a reasonable price.
+Purchase or condemnation proceeding.—The National Capital Planning Commission may buy land when the land can be acquired at a price the Planning Commission considers reasonable or by a condemnationproceeding when the land cannot be bought at a reasonable price.
 
 &emsp;(2)
 
-Land in the district of columbia.—A condemnation proceeding to acquire land in the District of Columbia shall be conducted inaccordance with section 1 of the Act of December 23, 1963 (Public Law 88–241, 77 Stat. 571).
+Land in the district of columbia.—A condemnation proceeding to acquire land in the District of Columbia shall be conducted in accordance with section 1 of the Act of December 23, 1963 (Public Law 88–241, 77 Stat. 571).
 
 &emsp;(3)
 

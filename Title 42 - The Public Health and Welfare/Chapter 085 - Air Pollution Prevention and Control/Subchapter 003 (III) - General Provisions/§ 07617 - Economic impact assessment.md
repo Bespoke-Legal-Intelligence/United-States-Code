@@ -66,7 +66,7 @@ In the case of any provision of this chapter in which costs are expressly requir
 
 #### References in Text
 
-Part B of subchapter I of this chapter, referred to in subsec. (a)(3), was repealed by Pub. L. 101–549, title VI,§601, Nov. 15, 1990, 104 Stat. 2648. See subchapter VI (§7671 et seq.) of this chapter.
+Part B of subchapter I of this chapter, referred to in subsec. (a)(3), was repealed by Pub. L. 101–549, title VI, §601, Nov. 15, 1990, 104 Stat. 2648. See subchapter VI (§7671 et seq.) of this chapter.
 
 #### Codification
 

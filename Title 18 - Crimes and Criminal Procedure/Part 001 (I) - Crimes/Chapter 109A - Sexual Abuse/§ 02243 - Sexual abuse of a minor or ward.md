@@ -2,7 +2,7 @@
 
 (a)
 
-Of a Minor.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General, knowingly engages in a sexual act with another person who—
+Of a Minor.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in a sexual act with another person who—
 
 &emsp;(1) has attained the age of 12 years but has not attained the age of 16 years; and
 
@@ -12,7 +12,7 @@ Of a Minor.—Whoever, in the special maritime and territorial jurisdiction of t
 
 (b)
 
-Of a Ward.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General, knowingly engages in a sexual act with another person who is—
+Of a Ward.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in a sexual act with another person who is—
 
 &emsp;(1) in official detention; and
 
@@ -24,7 +24,7 @@ Of a Ward.—Whoever, in the special maritime and territorial jurisdiction of th
 
 Defenses.—(1) In a prosecution under subsection (a) of this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the other person had attained the age of 16 years.
 
-(2) In a prosecution under this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the persons engaging in the sexual act were at that time married to each other.
+(2) In a prosecution under this section, it is a defense, which the defendant must establish bya preponderance of the evidence, that the persons engaging in the sexual act were at that time married to each other.
 
 (d)
 
@@ -34,13 +34,15 @@ State of Mind Proof Requirement.—In a prosecution under subsection (a) of this
 
 &emsp;(2) that the requisite age difference existed between the persons so engaging.
 
-(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3621, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 101–647, title III, §322, Nov. 29, 1990, 104 Stat. 4818; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(c)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, §301(b), Oct. 30, 1998, 112 Stat. 2979; Pub. L. 109–162, title XI, §1177(a)(4), (b)(1), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §207, July 27, 2006, 120 Stat. 615.)
+(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3621, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 101–647, title III, §322, Nov. 29, 1990, 104 Stat. 4818; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(c)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, §301(b), Oct. 30, 1998, 112 Stat. 2979; Pub. L. 109–162, title XI, §1177(a)(4), (b)(1), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §207, July 27, 2006, 120 Stat. 615; Pub. L. 110–161, div. E, title V, §554, Dec. 26, 2007, 121 Stat. 2082.)
 
 #### Codification
 
 Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2243.
 
 #### Amendments
+
+2007—Subsecs. (a), (b). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General” in introductory provisions.
 
 2006—Subsec. (a). Pub. L. 109–248, §207(2), inserted comma after “Attorney General” in introductory provisions.
 

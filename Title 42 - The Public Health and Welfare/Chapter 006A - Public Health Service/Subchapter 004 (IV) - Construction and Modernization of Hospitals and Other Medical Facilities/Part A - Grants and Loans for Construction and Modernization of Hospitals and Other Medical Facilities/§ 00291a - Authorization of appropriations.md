@@ -20,7 +20,7 @@ In order to assist the States in carrying out the purposes of section 291 of thi
 
 A prior section 291a, act July 1, 1944, ch. 373, title VI, §611, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, authorized appropriations for surveys and planning, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
-A prior section 291d, act July 1, 1944, ch. 373, title VI, §621, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §2(a), 63 Stat. 897; July 27, 1953, ch. 243, 67 Stat. 196; Aug. 2, 1956, ch. 871, title IV, §401, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(a), 72 Stat. 616, related to subject matter similar to thissection, prior to the general amendment of this subchapter by Pub. L. 88–443.
+A prior section 291d, act July 1, 1944, ch. 373, title VI, §621, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §2(a), 63 Stat. 897; July 27, 1953, ch. 243, 67 Stat. 196; Aug. 2, 1956, ch. 871, title IV, §401, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(a), 72 Stat. 616, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 A prior section 291p, act July 1, 1944, ch. 373, title VI, §646, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
@@ -28,7 +28,7 @@ A prior section 291s, act July 1, 1944, ch. 373, title VI, §651, as added July 
 
 #### Amendments
 
-1973—Subsec. (a). Pub. L. 93–45, §108(a)(1), substituted introductory text reading “fiscal year ending June 30, 1974” for “fiscal year ending June 30, 1965, and each of the next eight fiscal years” and in cl. (1) “$20,800,000” for “$85,000,000”.
+1973—Subsec. (a). Pub. L. 93–45, §108(a)(1), substituted introductory text reading “fiscal year ending June 30,1974” for “fiscal year ending June 30, 1965, and each of the next eight fiscal years” and in cl. (1) “$20,800,000” for “$85,000,000”.
 
 Subsec. (b). Pub. L. 93–45, §108(a)(2), authorized appropriations of $41,400,000 for fiscal year ending June 30, 1974.
 

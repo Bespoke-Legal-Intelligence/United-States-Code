@@ -44,7 +44,7 @@ The Secretary shall offer to enter into a contract with each producer of quota t
 
 #### (2) Annual payment
 
-&emsp;During each of fiscal years 2005 through 2014, the Secretary shall make a contract payment under this section to each eligible producer oftobacco, with respect to a kind of tobacco, in an amount equal to 1/10 of the amount determined under paragraph (1) for the producer for that kind of tobacco.
+&emsp;During each of fiscal years 2005 through 2014, the Secretary shall make a contract payment under this section to each eligible producer of tobacco, with respect to a kind of tobacco, in an amount equal to 1/10 of the amount determined under paragraph (1) for the producer for that kind of tobacco.
 
 #### (3) Variable payment rates
 

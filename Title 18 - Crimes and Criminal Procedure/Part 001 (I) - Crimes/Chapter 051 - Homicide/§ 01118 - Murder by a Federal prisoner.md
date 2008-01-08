@@ -16,7 +16,7 @@ Definitions.—In this section—
 
 (Added Pub. L. 103–322, title VI, §60005(a), Sept. 13, 1994, 108 Stat. 1970.)
 
-#### Prior Provisions
+#### Codification
 
 Another section 1118 was renumbered section 1122 of this title.
 

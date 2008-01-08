@@ -68,7 +68,7 @@ Solely for purposes of section 1245, in the case of property to which a qualifie
 
 &emsp;(1) the deduction allowed by this section for such expenditure shall be treated as a deduction for depreciation, and
 
-&emsp;(2) such property (if not otherwise section 1245 property) shall be treated as section 1245 property solely for purposes of applying section 1245 to such deduction.
+&emsp;(2) such property (if not otherwise section 1245 property) shall be treated as section 1245property solely for purposes of applying section 1245 to such deduction.
 
 #### (f) Coordination with other provisions
 

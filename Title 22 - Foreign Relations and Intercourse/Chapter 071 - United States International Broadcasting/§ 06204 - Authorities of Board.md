@@ -4,7 +4,7 @@
 
 The Board shall have the following authorities:
 
-&emsp;(1) To supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 etseq.\],,<sup>1</sup> the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\], and Worldnet Television, except as provided in section 6205(b) of this title.
+&emsp;(1) To supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\],,<sup>1</sup> the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\], and Worldnet Television, except as provided in section 6205(b) of this title.
 
 &emsp;(2) To review and evaluate the mission and operation of, and to assess the quality, effectiveness, and professional integrity of, all such activities within the context of the broad foreign policy objectives of the United States.
 
@@ -48,7 +48,7 @@ The Board shall have the following authorities:
 
 #### (b) Delegation of authority
 
-The Board may delegate to the Director of the International Broadcasting Bureau, or any other officer or employee of the United States, to the extent the Board determines to be appropriate, the authorities provided in this section, exceptthose authorities provided in paragraph (1), (2), (3), (4), (5), (6), (9), or (11) of subsection (a) of this section.
+The Board may delegate to the Director of the International Broadcasting Bureau, or any other officer or employee of the United States, to the extent the Board determines to be appropriate, the authorities provided in this section, except those authorities provided in paragraph (1), (2), (3), (4), (5), (6), (9), or (11) of subsection (a) of this section.
 
 #### (c) Broadcasting budgets
 
@@ -72,7 +72,7 @@ The United States Information and Educational Exchange Act of 1948, referred to 
 
 Section 6 of Reorganization Plan Number 2 of 1977, referred to in subsec. (a)(17), which was set out under section 1461 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790.
 
-For the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, referred to in subsec. (a)(17), (18), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
+For the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, referred to insubsec. (a)(17), (18), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
 
 #### Codification
 
@@ -111,6 +111,26 @@ Pub. L. 105–277, §1323(f)(1), redesignated subsec. (d) as (e). See Codificati
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+#### Pilot Project for Transcription of Certain Programming Into English
+
+Pub. L. 110–53, title XX, §2032, Aug. 3, 2007, 121 Stat. 516, provided that:
+
+“(a)
+
+Transcription of Persian and Arabic Language Broadcasts.—Not later than 90 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Broadcasting Board of Governors shall initiate a pilot project to transcribe into the English language news and information programming broadcast by Radio Farda, Radio Sawa, the Persian Service of the Voice of America, and Alhurra.
+
+“(b)
+
+Random Sampling; Public Availability.—The transcription required under subsection (a) shall consist of a random sampling of such programming. The transcripts shall be available to Congress and the public on the Internet site of the Board.
+
+“(c)
+
+Report.—Not later than May 1, 2008, the Chairman of the Broadcasting Board of Governors shall submit to the Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate a report on the feasibility and utility of continuing the pilot project required under subsection (a).
+
+“(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the ‘International Broadcasting Operations’ account of the Broadcasting Board of Governors $2,000,000 for fiscal year 2008 to carry out the pilot project required under subsection (a).”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

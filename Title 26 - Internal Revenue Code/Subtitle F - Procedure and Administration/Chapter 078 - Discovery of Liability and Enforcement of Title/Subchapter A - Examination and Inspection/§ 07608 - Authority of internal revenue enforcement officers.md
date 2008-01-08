@@ -14,7 +14,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 #### (b) Enforcement of laws relating to internal revenue other than subtitle E
 
-(1) Any criminal investigator of the Intelligence Division of the Internal Revenue Servicewhom the Secretary charges with the duty of enforcing any of the criminal provisions of the internal revenue laws, any other criminal provisions of law relating to internal revenue for the enforcement of which the Secretary is responsible, or any other law for which the Secretary has delegated investigatory authority to the Internal Revenue Service, is, in the performance of his duties, authorized to perform the functions described in paragraph (2).
+(1) Any criminal investigator of the Intelligence Division of the Internal Revenue Service whom the Secretary charges with the duty of enforcing any of the criminal provisions of the internal revenue laws, any other criminal provisions of law relating to internal revenue for the enforcement of which the Secretary is responsible, or any other law for which the Secretary has delegated investigatory authority to the Internal Revenue Service, is, in the performance of his duties, authorized to perform the functions described in paragraph (2).
 
 (2) The functions authorized under this subsection to be performed by an officer referred to in paragraph (1) are—
 
@@ -76,7 +76,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;&emsp;(iii) the number, by programs, of undercover investigative operations closed in the 1-year period for which such report is submitted, and
 
-&emsp;&emsp;(iv) the following information with respect to each undercover investigative operation pending as of the end of the 1-year period forwhich such report is submitted or closed during such 1-year period—
+&emsp;&emsp;(iv) the following information with respect to each undercover investigative operation pending as of the end of the 1-year period for which such report is submitted or closed during such 1-year period—
 
 &emsp;&emsp;&emsp;(I) the date the operation began and the date of the certification referred to in the last sentence of paragraph (1),
 

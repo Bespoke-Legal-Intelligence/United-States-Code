@@ -88,7 +88,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 #### (7) Determination and certification of percentages
 
-&emsp;The percentage referred to in subsection (c)(2)(B) or (C) for any taxable year for any State having a balance referred to thereinshall be determined by the Secretary of Labor, and shall be certified by him to the Secretary of the Treasury before June 1 of such year, on the basis of a report furnished by such State to the Secretary of Labor before May 1 of such year. Any such State report shall be made as of the close of March 31 of the taxable year, and shall be made on such forms, and shall contain such information, as the Secretary of Labor deems necessary to the performance of his duties under this section.
+&emsp;The percentage referred to in subsection (c)(2)(B) or (C) for any taxable year for any State having a balance referred to therein shall be determined by the Secretary of Labor, and shall be certified by him to the Secretary of the Treasury before June 1 of such year, on the basis of a report furnished by such State to the Secretary of Labor before May 1 of such year. Any such State report shall be made as of the close of March 31 of the taxable year, and shall be made on such forms, and shall contain such information, as the Secretary of Labor deems necessary to the performance of his duties under this section.
 
 #### (e) Successor employer
 
@@ -292,7 +292,7 @@ Subsec. (g). Pub. L. 97–248, §272(a), added subsec. (g).
 
 Subsec. (b). Pub. L. 94–455, §1903(a)(12)(B), struck out “(10-month period in the case of October 31, 1972)” after “ending on October 31, of such year” and substituted “12-month period” for “12 or 10–month period, as the case may be,”.
 
-Subsec. (c)(2). Pub. L. 94–455, §1903(a)(12)(C)(i), (ii), redesignated par. (3) as (2), struck out “on or after the date of the enactment of the Employment Security Act of 1960” after “title XII of the Social Security Act”, and substituted “paragraph (1)” for “paragraphs (1) and\(2). Former par. (2), which related to the computation of the reduction of the total credits allowable to a taxpayer with respect to advances made to the unemployment account, was struck out.
+Subsec. (c)(2). Pub. L. 94–455, §1903(a)(12)(C)(i), (ii), redesignated par. (3) as (2), struck out “on or after the date of the enactment of the Employment Security Act of 1960” after “title XII of the Social Security Act”, and substituted “paragraph (1)” for “paragraphs (1) and (2). Former par. (2), which related to the computation of the reduction of the total credits allowable to a taxpayer with respect to advances made to the unemployment account, was struck out.
 
 Subsec. (c)(3), (4). Pub. L. 94–455, §1903(a)(12)(C)(i), (iii), redesignated par. (4) as (3) and substituted “paragraphs (1) and (2)” for “paragraphs (1), (2), and (3)”. Former par. (3) redesignated (2).
 
@@ -390,11 +390,11 @@ Special Rule.—This section shall not apply to any taxable year after 1994 unle
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Rule for Certain Employees and Small Businesses
 
-Section 271(d)(3), (4), formerly 271(b)(3), of Pub. L. 97–248, as redesignated and amended by Pub. L. 98–601, §1(a), Oct. 30, 1984, 98 Stat. 3147; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Section 271(d)(3), (4), formerly 271(b)(3), of Pub. L. 97–248, as redesignated and amended by Pub. L. 98–601,§1(a), Oct. 30, 1984, 98 Stat. 3147; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(3)
 

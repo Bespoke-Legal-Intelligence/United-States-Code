@@ -8,7 +8,7 @@ In accordance with Article 1(b) of the Additional Protocol, the United States sh
 
 &emsp;(3) with respect to the proposed use of environmental sampling, the United States—
 
-&emsp;&emsp;(A) has been provided sufficient opportunity for consultation with the IAEA if theIAEA has requested complementary access involving location-specific environmental sampling; or
+&emsp;&emsp;(A) has been provided sufficient opportunity for consultation with the IAEA if the IAEA has requested complementary access involving location-specific environmental sampling; or
 
 &emsp;&emsp;(B) has requested under Article 8 of the Additional Protocol that the IAEA engage in complementary access in the United States that involves the use of location-specific environmental sampling.
 

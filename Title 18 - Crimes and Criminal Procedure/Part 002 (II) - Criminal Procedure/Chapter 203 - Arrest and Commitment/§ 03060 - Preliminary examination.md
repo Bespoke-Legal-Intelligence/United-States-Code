@@ -8,7 +8,7 @@
 
 &emsp;(2) the twentieth day following the date of the initial appearance if the arrested person is released from custody under any condition other than a condition described in paragraph (1) of this subsection.
 
-(c) With the consent of the arrested person, the date fixed by the judge or magistrate judge for the preliminary examination may be a date later than that prescribed by subsection (b), or may be continued one or more times to a datesubsequent to the date initially fixed therefor. In the absence of such consent of the accused, the judge or magistrate judge may extend the time limits only on a showing that extraordinary circumstances exist and justice requires the delay.
+(c) With the consent of the arrested person, the date fixed by the judge or magistrate judge for the preliminary examination may be a date later than that prescribed by subsection (b), or may be continued one or more times to a date subsequent to the date initially fixed therefor. In the absence of such consent of the accused, the judge or magistrate judge may extend the time limits only on a showing that extraordinary circumstances exist and justice requires the delay.
 
 (d) Except as provided by subsection (e) of this section, an arrested person who has not been accorded the preliminary examination required by subsection (a) within the period of time fixed by the judge or magistrate judge in compliance with subsections (b) and (c), shall be discharged from custody or from the requirement of bail or any other condition of release, without prejudice, however, to the institution of further criminal proceedings against him upon the charge upon which he was arrested.
 

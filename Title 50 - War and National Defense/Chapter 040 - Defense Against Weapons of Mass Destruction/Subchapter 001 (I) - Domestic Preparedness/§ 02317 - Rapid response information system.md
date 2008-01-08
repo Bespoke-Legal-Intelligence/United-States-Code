@@ -16,7 +16,7 @@ Not later than December 31, 1997, the Administrator of the Federal Emergency Man
 
 #### (d) Database on chemical and biological materials
 
-The Administrator of the Federal Emergency Management Agency, in consultation with the Secretary of Defense, shall prepare a database on chemical and biological agents and munitions characteristics and safety precautions for civilian use. The initial design and compilation of the database shall be completed not later than December 31, 1997.
+The Administrator of the Federal Emergency Management Agency, in consultation with theSecretary of Defense, shall prepare a database on chemical and biological agents and munitions characteristics and safety precautions for civilian use. The initial design and compilation of the database shall be completed not later than December 31, 1997.
 
 #### (e) Access to inventory and database
 

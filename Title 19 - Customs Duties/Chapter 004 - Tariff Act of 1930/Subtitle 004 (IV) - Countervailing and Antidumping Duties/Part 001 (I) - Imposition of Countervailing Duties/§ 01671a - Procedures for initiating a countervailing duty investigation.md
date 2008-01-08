@@ -16,7 +16,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (3) Petition based upon a derogation of an international undertaking on official export credits
 
-&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, andshall publish such determination in the Federal Register.
+&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
 
 #### (4) Action with respect to petitions
 

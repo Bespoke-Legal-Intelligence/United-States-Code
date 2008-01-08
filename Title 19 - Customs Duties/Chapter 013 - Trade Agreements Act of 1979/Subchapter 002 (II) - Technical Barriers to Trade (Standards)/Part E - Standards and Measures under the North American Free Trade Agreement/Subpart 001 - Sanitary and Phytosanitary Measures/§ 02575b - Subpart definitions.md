@@ -46,7 +46,7 @@ Notwithstanding section 2571 of this title, for purposes of this subpart—
 
 &emsp;&emsp;&emsp;(ii) protect human or animal life or health in the United States from risks arising from the presence of an additive, contaminant, toxin, or disease-causing organism in a food, beverage, or feedstuff;
 
-&emsp;&emsp;&emsp;(iii) protect human life or health in the United States from risks arising from adisease-causing organism or pest carried by an animal or plant, or a product thereof; or
+&emsp;&emsp;&emsp;(iii) protect human life or health in the United States from risks arising from a disease-causing organism or pest carried by an animal or plant, or a product thereof; or
 
 &emsp;&emsp;&emsp;(iv) prevent or limit other damage in the United States arising from the introduction, establishment, or spread of a pest.
 

@@ -86,7 +86,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 &emsp;&emsp;(G) an assessment of the impacts of prison rape on individuals, families, social institutions and the economy generally, including an assessment of the extent to which the incidence of prison rape contributes to recidivism and to increased incidence of sexual assault;
 
-&emsp;&emsp;(H) an examination of the feasibility and cost of conducting surveillance, undercoveractivities, or both, to reduce the incidence of prison rape;
+&emsp;&emsp;(H) an examination of the feasibility and cost of conducting surveillance, undercover activities, or both, to reduce the incidence of prison rape;
 
 &emsp;&emsp;(I) an assessment of the safety and security of prison facilities and the relationship of prison facility construction and design to the incidence of prison rape;
 
@@ -184,7 +184,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 #### (f) Consultation with accreditation organizations
 
-In developing recommended national standards for enhancing the detection, prevention, reduction, and punishment of prison rape, the Commission shall consider any standards that have already been developed, or are being developed simultaneously to the deliberations of the Commission. The Commission shall consult with accreditation organizations responsible for theaccreditation of Federal, State, local or private prisons, that have developed or are currently developing standards related to prison rape. The Commission will also consult with national associations representing the corrections profession that have developed or are currently developing standards related to prison rape.
+In developing recommended national standards for enhancing the detection, prevention, reduction, and punishment of prison rape, the Commission shall consider any standards that have already been developed, or are being developed simultaneously to the deliberations of the Commission. The Commission shall consult with accreditation organizations responsible for the accreditation of Federal, State, local or private prisons, that have developed or are currently developing standards related to prison rape. The Commission will also consult with national associations representing the corrections profession that have developed or are currently developing standards related to prison rape.
 
 #### (g) Hearings
 
@@ -194,7 +194,7 @@ In developing recommended national standards for enhancing the detection, preven
 
 #### (2) Witness expenses
 
-&emsp;Witnesses requested to appear before the Commission shall be paid the same fees as are paid to witnesses under section 1821 of title 28. The per diem and mileage allowances for witnesses shall be paid from funds appropriated to the Commission.
+&emsp;Witnesses requested to appear before the Commission shall be paid the same fees as are paid to witnesses under section 1821 of title 28.The per diem and mileage allowances for witnesses shall be paid from funds appropriated to the Commission.
 
 #### (h) Information from Federal or State agencies
 

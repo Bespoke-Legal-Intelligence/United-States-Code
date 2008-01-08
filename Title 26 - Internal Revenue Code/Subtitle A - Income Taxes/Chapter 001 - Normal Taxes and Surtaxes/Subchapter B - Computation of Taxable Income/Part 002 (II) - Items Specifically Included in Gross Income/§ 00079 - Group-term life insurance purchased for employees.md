@@ -12,7 +12,7 @@ There shall be included in the gross income of an employee for the taxable year 
 
 Subsection (a) shall not apply to—
 
-&emsp;(1) the cost of group-term life insurance on the life of an individual which is provided under a policy carried directly or indirectly by an employer after such individual has terminated his employment with such employer and is disabled (within the meaning of section 72(m)(7)),
+&emsp;(1) the cost of group-term life insurance on the life of an individual which is providedunder a policy carried directly or indirectly by an employer after such individual has terminated his employment with such employer and is disabled (within the meaning of section 72(m)(7)),
 
 &emsp;(2) the cost of any portion of the group-term life insurance on the life of an employee provided during part or all of the taxable year of the employee under which—
 
@@ -106,7 +106,7 @@ For purposes of this section and section 6052, the cost of group-term insurance 
 
 &emsp;&emsp;&emsp;&emsp;(II) an organization described in section 170(b)(1)(A)(iii), and
 
-&emsp;&emsp;&emsp;&emsp;(III) an organization described in section 501(c)(3), the basis of the exemption for which is substantially similar to the basis for exemption of an organization described in subclause (II).
+&emsp;&emsp;&emsp;&emsp;(III) an organization described in section 501(c)(3), the basis of the exemption for which is substantially similar to thebasis for exemption of an organization described in subclause (II).
 
 #### (8) Treatment of former employees
 
@@ -190,7 +190,7 @@ Special rule for collective bargaining plan.—In the case of a plan maintained 
 
 “(3)
 
-Exception for certain group-term insurance plans.—In the case of a plan described in section 223(d)(2) of the Tax Reform Act of 1984 \[section 232(d)(2) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note below\], such plan shall be treated as meeting the requirements of section 89 of the Internal Revenue Code of 1986 (as added by this section) with respect to individuals described in section 223(d)(2) of such Act. An employer may elect to disregard such individuals in applying section 89 of such Code (as so added) to other employees of the employer.
+Exception for certain group-term insurance plans.—In the case of a plan described in section 223(d)(2) of the Tax Reform Act of 1984 \[section 232(d)(2)of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note below\], such plan shall be treated as meeting the requirements of section 89 of the Internal Revenue Code of 1986 (as added by this section) with respect to individuals described in section 223(d)(2) of such Act. An employer may elect to disregard such individuals in applying section 89 of such Code (as so added) to other employees of the employer.
 
 “(4)
 
@@ -236,7 +236,7 @@ Special rule in the case of discriminatory group-term life insurance plan.—In 
 
 &emsp;“(C)
 
-Benefits to certain retired individuals not taken into account for purposes of determining whether plan is discriminatory.—For purposes of determining whether a plan described in subparagraph (A) meets the requirements of section 79(d) of the Internal Revenue Code of 1986 with respect to group-term life insurance for former employees, coverage provided to employees who retired on or beforeDecember 31, 1986, may, at the employer's election, be disregarded.
+Benefits to certain retired individuals not taken into account for purposes of determining whether plan is discriminatory.—For purposes of determining whether a plan described in subparagraph (A) meets the requirements of section 79(d) of the Internal Revenue Code of 1986 with respect to group-term life insurance for former employees, coverage provided to employees who retired on or before December 31, 1986, may, at the employer's election, be disregarded.
 
 &emsp;“(D)
 

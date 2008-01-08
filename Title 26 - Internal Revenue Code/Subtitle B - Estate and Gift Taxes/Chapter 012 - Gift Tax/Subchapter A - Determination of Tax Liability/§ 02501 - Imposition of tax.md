@@ -136,7 +136,7 @@ Section 442(e) of Pub. L. 97–34 provided that: “The amendments made by this 
 
 #### Effective Date of 1976 Amendment
 
-Section 1902(c)(2) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat.2942, provided that: “The amendments made by paragraphs (10), (11), and (12)(D) and (E) of subsection (a) \[amending this section and sections 2522 and 2523 of this title\] shall apply with respect to gifts made after December 31, 1976.”
+Section 1902(c)(2) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: “The amendments made by paragraphs (10), (11), and (12)(D) and (E) of subsection (a) \[amending this section and sections 2522 and 2523 of this title\] shall apply with respect to gifts made after December 31, 1976.”
 
 #### Effective Date of 1975 Amendment
 

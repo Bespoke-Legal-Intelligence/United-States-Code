@@ -8,7 +8,7 @@
 
 #### References in Text
 
-The second paragraph (13) of subsection (b) of section 8332 of title 5, referred to in subsec. (a)(1), relates to service performed by a Native of the Pribilof Islands. That par. (13) was added by subsec. (b) of section 209 of Pub. L. 89–702 (as added by section 2 of Pub. L. 98–129) and is set out in the Code as the first par. (13) of subsec. (b) of section 8332 of Title 5, Government Organization and Employees.
+The second paragraph (13) of subsection (b) of section 8332 of title 5, referred to in subsec. (a)(1), relates to service performed by a Native of the Pribilof Islands. That par. (13) was added by subsec. (b) of section 209 ofPub. L. 89–702 (as added by section 2 of Pub. L. 98–129) and is set out in the Code as the first par. (13) of subsec. (b) of section 8332 of Title 5, Government Organization and Employees.
 
 #### Codification
 

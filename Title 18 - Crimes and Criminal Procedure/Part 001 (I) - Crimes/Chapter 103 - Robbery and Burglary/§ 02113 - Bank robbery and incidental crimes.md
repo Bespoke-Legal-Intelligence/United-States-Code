@@ -72,7 +72,7 @@ Subsec. (h). Pub. L. 103–322, §320608, added subsec. (h).
 
 1989—Subsec. (f). Pub. L. 101–73, §962(d)(1), substituted “any institution the deposits of which” for “any bank the deposits of which”.
 
-Subsecs. (g), (h). Pub. L. 101–73, §962(a)(7), (d)(2), (3), redesignated subsec. (h) as (g), substituted “NationalCredit Union Administration Board, and any ‘Federal credit union’ as defined in section 2 of the Federal Credit Union Act” for “Administrator of the National Credit Union Administration”, and struck out former subsec. (g) which read as follows: “As used in this section the term ‘savings and loan association’ means any Federal savings and loan association and any ‘insured institution’ as defined in section 401 of the National Housing Act, as amended, and any ‘Federal credit union’ as defined in section 2 of the Federal Credit Union Act.”
+Subsecs. (g), (h). Pub. L. 101–73, §962(a)(7), (d)(2), (3), redesignated subsec. (h) as (g), substituted “National Credit Union Administration Board, and any ‘Federal credit union’ as defined in section 2 of the Federal Credit Union Act” for “Administrator of the National Credit Union Administration”, and struck out former subsec. (g) which read as follows: “As used in this section the term ‘savings and loan association’ means any Federal savings and loan association and any ‘insured institution’ as defined in section 401 of the National Housing Act, as amended, and any ‘Federal credit union’ as defined in section 2 of the Federal Credit Union Act.”
 
 1986—Subsec. (a). Pub. L. 99–646 inserted “, or obtains or attempts to obtain by extortion” after “presence of another” in first par.
 

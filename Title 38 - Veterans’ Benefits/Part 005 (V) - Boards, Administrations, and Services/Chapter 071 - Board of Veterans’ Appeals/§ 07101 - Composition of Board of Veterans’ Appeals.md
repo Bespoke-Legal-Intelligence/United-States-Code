@@ -30,11 +30,11 @@
 
 &emsp;(C) the number of such cases which were filed during each of the 36 months preceding the current fiscal year;
 
-&emsp;(D) the average length of time a case was before the Board between the time of the filingof an appeal and the disposition during the preceding fiscal year;
+&emsp;(D) the average length of time a case was before the Board between the time of the filing of an appeal and the disposition during the preceding fiscal year;
 
 &emsp;(E) the number of members of the Board at the end of the year and the number of professional, administrative, clerical, stenographic, and other personnel employed by the Board at the end of the preceding fiscal year; and
 
-&emsp;(F) the number of employees of the Department designated under subsection (c)(1) to serve as acting members of the Board during that year and the number of cases in which each such member participated during that year.
+&emsp;(F) the number of employees of the Department designated under subsection (c)(1) toserve as acting members of the Board during that year and the number of cases in which each such member participated during that year.
 
 (3) The projections in each such report for the current fiscal year and for the next fiscal year shall include (for each such year)—
 
@@ -100,7 +100,7 @@ Subsec. (d)(3)(B). Pub. L. 102–40, §402(d)(1), substituted “7103(d)” for 
 
 1988—Subsec. (a). Pub. L. 100–687, §202(b), inserted “and” after “Vice Chairman,” substituted “necessary in order to conduct hearings and dispose of appeals properly before the Board in a timely manner. The Board shall have” for “necessary, and”, and inserted provisions which required that Board have sufficient personnel to conduct hearings and consider and dispose of appeals.
 
-Subsec. (b). Pub. L. 100–687, §201(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Members of the Board (including the Chairman and Vice Chairman) shall be appointed by the Administrator with the approval of the President.”
+Subsec. (b). Pub. L. 100–687, §201(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: “Members of the Board (including the Chairman and Vice Chairman) shall be appointed by the Administrator with the approval of the President.”
 
 Subsec. (d). Pub. L. 100–687, §208, added subsec. (d).
 

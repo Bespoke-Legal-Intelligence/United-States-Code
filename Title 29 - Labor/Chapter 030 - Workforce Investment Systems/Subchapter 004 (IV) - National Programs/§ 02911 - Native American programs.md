@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) to make such individuals more competitive in the workforce; and
 
-&emsp;&emsp;(C) to promote the economic and social development of Indian, Alaska Native, and Native Hawaiian communities in accordancewith the goals and values of such communities.
+&emsp;&emsp;(C) to promote the economic and social development of Indian, Alaska Native, and Native Hawaiian communities in accordance with the goals and values of such communities.
 
 #### (2) Indian policy
 
@@ -96,7 +96,7 @@ Nothing in this section shall be construed—
 
 #### (1) Organizational unit established
 
-&emsp;The Secretary shall designate a single organizational unit within the Department of Labor that shall have primary responsibilityfor the administration of the activities authorized under this section.
+&emsp;The Secretary shall designate a single organizational unit within the Department of Labor that shall have primary responsibility for the administration of the activities authorized under this section.
 
 #### (2) Regulations
 
@@ -194,7 +194,7 @@ This chapter, referred to in subsec. (h)(3)(A), (6), was in the original “this
 
 The Federal Advisory Committee Act, referred to in subsec. (h)(4)(G), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Single Audit Act of 1984, referred to in subsec. (i), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act of 1984, referred to in subsec. (i), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under section 7501 of Title 31. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
 
 #### Prior Provisions
 

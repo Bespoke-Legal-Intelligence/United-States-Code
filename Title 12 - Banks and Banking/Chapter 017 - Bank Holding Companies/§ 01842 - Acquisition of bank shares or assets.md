@@ -16,7 +16,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;(iv) the holding company will not acquire control of any additional bank as a result of the reorganization..<sup>1</sup>
 
-> The Board is authorized upon application by a bank to extend, from time to time for not more than one year at a time, the two-year period referred to above for disposing of any shares acquired by a bank in the regular course of securing or collecting a debt previously contracted in good faith, if, in the Board's judgment, such an extension would not be detrimental to the public interest, but no such extension shall in the aggregate exceed three years. For the purpose of the preceding sentence, bank shares acquired after December 31, 1970, shall not be deemed to have been acquired in good faith in a fiduciary capacity if the acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto, but in such instances acquisitions may be made without prior approval of the Board if the Board, upon application filed within ninety days after the shares are acquired, approves retention or, if retention isdisapproved, the acquiring bank disposes of the shares or its sole discretionary voting rights within two years after issuance of the order of disapproval.
+> The Board is authorized upon application by a bank to extend, from time to time for not more than one year at a time, the two-year period referred to above for disposing of any shares acquired by a bank in the regular course of securing or collecting a debt previously contracted in good faith, if, in the Board's judgment, such an extension would not be detrimental to the public interest, but no such extension shall in the aggregate exceed three years. For the purpose of the preceding sentence, bank shares acquired after December 31, 1970, shall not be deemed to have been acquired in good faith in a fiduciary capacity if the acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto, but in such instances acquisitions may be made without prior approval of the Board if the Board, upon application filed within ninety days after the shares are acquired, approves retention or, if retention is disapproved, the acquiring bank disposes of the shares or its sole discretionary voting rights within two years after issuance of the order of disapproval.
 
 #### (b) Application for approval; notice to Comptroller of Currency or State authority; views and recommendations; disapproval; hearing; order of Board; nonaction deemed grant of application; procedure in emergencies or probable failures requiring immediate Board action and orders
 
@@ -108,7 +108,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;&emsp;&emsp;(i) immediately before the consummation of the acquisition for which such application is filed, the applicant (including any insured depository institution affiliate of the applicant) controls any insured depository institution or any branch of an insured depository institution in the home State of any bank to be acquired or in any host State in which any such bank maintains a branch; and
 
-&emsp;&emsp;&emsp;(ii) the applicant (including all insured depository institutions which are affiliates of the applicant), upon consummation of the acquisition, would control 30 percentor more of the total amount of deposits of insured depository institutions in any such State.
+&emsp;&emsp;&emsp;(ii) the applicant (including all insured depository institutions which are affiliates of the applicant), upon consummation of the acquisition, would control 30 percent or more of the total amount of deposits of insured depository institutions in any such State.
 
 #### (C) Effectiveness of State deposit caps
 
@@ -184,7 +184,7 @@ Section 1823(f)(8)(D) of this title, referred to in subsec. (b)(2), which define
 
 1999—Subsec. (f). Pub. L. 106–102, §118, amended subsec. (f) generally, substituting “(f) \[Repealed\].” for provisions relating to authorized activities of qualified savings banks which are subsidiaries of bank holding companies.
 
-Subsec. (g)(2). Pub. L. 106–102, §105, amended heading and text of par. (2) generally. Prior to amendment, textread as follows: “A corporation organized as a holding company under this subsection shall be regulated on the same terms and be subject to the same limitations as any other holding company which controls a savings bank.”
+Subsec. (g)(2). Pub. L. 106–102, §105, amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A corporation organized as a holding company under this subsection shall be regulated on the same terms and be subject to the same limitations as any other holding company which controls a savings bank.”
 
 1994—Subsec. (a). Pub. L. 103–325, §319(a), substituted “(B)” for “or (B)” and added subpar. (C).
 
@@ -230,7 +230,7 @@ Subsec. (e). Pub. L. 91–607, §102(3), added subsec. (e).
 
 Subsec. (c). Pub. L. 89–485, §7(c), inserted provision prohibiting any acquisition, merger, or consolidation that would result in a monopoly or would further any combination or conspiracy to monopolize the banking business in any part of the United States or would substantially lessen competition or in any manner be in restraint of trade unless the public interest clearly outweighed the anticompetitive effects and substituted provisions requiring the Board to take into consideration the financial and managerial resources and future prospects of the company or bank concerned and the convenience and needs of the community to be served for provisions requiring the Board to take into consideration the financial history of the company or bank concerned, its prospects, the character of its management, the needs of the community, and the public interest.
 
-Subsec. (d). Pub. L. 89–485, §7(d), substituted provisions restricting expansion to state in which the operations of the bank holding company's banking subsidiaries were principally conducted, defined, as that state in which total deposits of all such banking subsidiaries were largest, on July 1, 1966, or the date on which the company became a bank holding company, whichever is later, for provisions restricting expansion to state in which the holding company maintains its principal office and place of business or in which it conducts its principal operations.
+Subsec. (d). Pub. L. 89–485, §7(d), substituted provisions restricting expansion to state in which the operations of the bank holding company's banking subsidiaries were principally conducted, defined, as that state in which total deposits of all such banking subsidiaries were largest, on July 1, 1966, or the date on which the company became a bank holding company, whichever is later, for provisions restricting expansion to state inwhich the holding company maintains its principal office and place of business or in which it conducts its principal operations.
 
 #### Effective Date of 2006 Amendment
 

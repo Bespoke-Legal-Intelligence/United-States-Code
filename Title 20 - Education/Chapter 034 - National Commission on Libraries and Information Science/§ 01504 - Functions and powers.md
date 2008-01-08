@@ -36,7 +36,7 @@ The heads of all Federal agencies are, to the extent not prohibited by law, dire
 
 #### Amendments
 
-2003—Subsecs. (b) to (f). Pub. L. 108–81 redesignated subsecs. (d) to (f) as (b) to (d), respectively, and struck out former subsecs. (b) and (c) which related to Commission advising Director of Institute of Museum and Library Services on general policies with respect to duties, powers, and authority of Institute of Museum and Library Services, and provided for joint meetings between Commission and National Museum Services Board for the purpose of providing advice on general policy with respect to financial assistance for projects described in section 9162(a)(4) of this title.
+2003—Subsecs. (b) to (f). Pub. L. 108–81 redesignated subsecs. (d) to (f) as (b) to (d), respectively, and struck out former subsecs. (b) and (c) which related to Commission advising Director of Institute of Museum and Library Services on general policies with respect to duties, powers, and authority of Institute of Museum andLibrary Services, and provided for joint meetings between Commission and National Museum Services Board for the purpose of providing advice on general policy with respect to financial assistance for projects described in section 9162(a)(4) of this title.
 
 1996—Subsecs. (b) to (f). Pub. L. 104–208 added subsecs. (b) and (c) and redesignated former subsecs. (b) to (d) as (d) to (f), respectively.
 

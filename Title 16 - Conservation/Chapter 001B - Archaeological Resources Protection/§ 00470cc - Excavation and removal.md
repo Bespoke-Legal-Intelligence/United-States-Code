@@ -36,7 +36,7 @@ Any permit issued under this section may be suspended by the Federal land manage
 
 (1) No permit shall be required under this section or under the Act of June 8, 1906 (16 U.S.C. 431), for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
 
-(2) In the case of any permits for the excavation or removal of any archaelogical resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
+(2) In the case of any permits for the excavation or removal of any archaelogical <sup>1</sup> resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
 
 #### (h) Permits issued under Antiquities Act of 1906
 
@@ -59,4 +59,6 @@ Upon the written request of the Governor of any State, the Federal land manager 
 Act of June 8, 1906, referred to in subsecs. (g)(1) and (h), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 431 of this title and Tables.
 
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “archaeological”.</i>
 

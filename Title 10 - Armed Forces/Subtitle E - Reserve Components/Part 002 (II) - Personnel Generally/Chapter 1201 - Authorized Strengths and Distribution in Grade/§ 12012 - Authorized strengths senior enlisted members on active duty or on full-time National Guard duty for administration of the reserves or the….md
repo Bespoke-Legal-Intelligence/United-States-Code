@@ -83,14 +83,14 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 4,000 | 460 | 210&nbsp;&nbsp; |
 | 4,500 | 495 | 230&nbsp;&nbsp; |
 | 5,000 | 530 | 250&nbsp;&nbsp; |
-| 5,500 | 565 | 270   |
+| 5,500 | 565 | 270&nbsp;&nbsp; |
 | 6,000 | 600 | 290&nbsp;&nbsp; |
 | 7,000 | 670 | 330&nbsp;&nbsp; |
 | 8,000 | 740 | 370&nbsp;&nbsp; |
 | 10,000 | 800 | 400&nbsp;&nbsp; |
 | &nbsp; |  |  |
 | Air National Guard: |  |  |
-| 5,000 | 1,020 | 405&nbsp;&nbsp; |
+| 5,000 | 1,020 | 405   |
 | 6,000 | 1,070 | 435&nbsp;&nbsp; |
 | 7,000 | 1,120 | 465&nbsp;&nbsp; |
 | 8,000 | 1,170 | 490&nbsp;&nbsp; |
@@ -147,13 +147,13 @@ Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) 
 
 Subsec. (e). Pub. L. 107–107 added subsec. (e).
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(b)\], amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(b)\], amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8 from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(c)\], added subsec. (c).
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IV, §424(b)\], added subsec. (d).
 
-1999—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 623 to 645 and in grade of E–8 from 2,585 to 2,593, and in the Air Force in grade of E–9 from 395 to 405 and in grade of E–8 from 997 to 1,041.
+1999—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number ofenlisted members in the Army in grade of E–9 from 623 to 645 and in grade of E–8 from 2,585 to 2,593, and in the Air Force in grade of E–9 from 395 to 405 and in grade of E–8 from 997 to 1,041.
 
 1998—Subsec. (a). Pub. L. 105–261, in table, in grade E–9 increased figure for Army from 603 to 623 and for Air Force from 366 to 395, and in grade E–8 increased figure for Air Force from 890 to 997.
 

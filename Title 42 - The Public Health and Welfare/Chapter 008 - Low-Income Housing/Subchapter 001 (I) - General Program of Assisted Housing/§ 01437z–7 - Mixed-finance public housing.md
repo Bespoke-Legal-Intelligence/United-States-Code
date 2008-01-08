@@ -16,7 +16,7 @@ A public housing agency may own, operate, assist, or otherwise participate in 1 
 
 #### (c) Compliance with public housing requirements
 
-The units assisted with capital or operating assistance in a mixed-finance project shall bedeveloped, operated, and maintained in accordance with the requirements of this chapter relating to public housing during the period required by under <sup>1</sup> this chapter, unless otherwise specified in this section. For purposes of this chapter, any reference to public housing owned or operated by a public housing agency shall include dwelling units in a mixed finance project that are assisted by the agency with capital or operating assistance.
+The units assisted with capital or operating assistance in a mixed-finance project shall be developed, operated, and maintained in accordance with the requirements of this chapter relating to public housing during the period required by under <sup>1</sup> this chapter, unless otherwisespecified in this section. For purposes of this chapter, any reference to public housing owned or operated by a public housing agency shall include dwelling units in a mixed finance project that are assisted by the agency with capital or operating assistance.
 
 #### (d) Mixed-finance projects
 

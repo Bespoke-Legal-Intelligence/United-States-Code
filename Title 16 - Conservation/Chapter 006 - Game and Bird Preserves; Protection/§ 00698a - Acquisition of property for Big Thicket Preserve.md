@@ -6,7 +6,7 @@ The Secretary shall, immediately after the publication of the boundaries of the 
 
 #### (b) Plan to Congressional committees; time; contents
 
-Within one year after October 11, 1974, the Secretary shall submit, in writing, to the Committee on Interior and Insular Affairs and to the Committees on Appropriations of the United States Congress a detailed plan which shall indicate:
+Within one year after October 11, 1974, the Secretary shall submit, in writing, to the Committee <sup>1</sup> on Interior and Insular Affairs and to the Committees on Appropriations of the United States Congress a detailed plan which shall indicate:
 
 &emsp;(i) the lands and areas which he deems essential to the protection and public enjoyment of this preserve,
 
@@ -24,5 +24,7 @@ It is the express intent of the Congress that the Secretary should substantially
 
 Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Committees”.</i>
 

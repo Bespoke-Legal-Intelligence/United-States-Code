@@ -64,11 +64,13 @@
 
 &emsp;(ii) not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
 
-&emsp;(iii) not in excess of 3 years during which the borrower—
+&emsp;(iii) during which the borrower—
 
 &emsp;&emsp;(I) is serving on active duty during a war or other military operation or national emergency; or
 
-&emsp;&emsp;(II) is performing qualifying National Guard duty during a war or other military operation or national emergency;
+&emsp;&emsp;(II) is performing qualifying National Guard duty during a war or other military operation or national emergency,
+
+> &emsp;and for the 180-day period following the demobilization date for the service described in subclause (I) or (II);
 
 &emsp;(iv) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(<i>o</i>) of this title, has caused or will cause the borrower to have an economic hardship; or
 
@@ -108,7 +110,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 &emsp;(2) the institution determines that the borrower should qualify for forbearance for other reasons; or
 
-&emsp;(3) the borrower is eligible for interest payments to be made on such loan for service inthe Armed Forces under section 2174 of title 10 and, pursuant to that eligibility, the interest on such loan is being paid under subsection (j) of this section, except that the form of a forbearance under this paragraph shall be a temporary cessation of all payments on the loan other than payments of interest on the loan that are made under subsection (j) of this section.
+&emsp;(3) the borrower is eligible for interest payments to be made on such loan for service in the Armed Forces under section 2174 of title 10 and, pursuant to that eligibility, the interest on such loan is being paid under subsection (j) of this section, except that the form of a forbearance under this paragraph shall be a temporary cessation of all payments on the loan other than payments of interest on the loan that are made under subsection (j) of this section.
 
 #### (f) Special repayment rule authority
 
@@ -160,7 +162,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (C) Additional assistance
 
-&emsp;&emsp;The borrower of a rehabilitated loan shall not be precluded by section 1091 of this title from receiving additional grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 (for which the borrower is otherwise eligible) on the basis of defaulting on the loan prior to such rehabilitation.
+&emsp;&emsp;The borrower of a rehabilitated loan shall not be precluded by section 1091 of this titlefrom receiving additional grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 (for which the borrower is otherwise eligible) on the basis of defaulting on the loan prior to such rehabilitation.
 
 #### (D) Limitations
 
@@ -174,7 +176,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (1) In general
 
-&emsp;Each institution of higher education may establish, with the approval of the Secretary, anincentive repayment program designed to reduce default and to replenish student loan funds established under this part. Each such incentive repayment program may—
+&emsp;Each institution of higher education may establish, with the approval of the Secretary, an incentive repayment program designed to reduce default and to replenish student loan funds established under this part. Each such incentive repayment program may—
 
 &emsp;&emsp;(A) offer a reduction of the interest rate on a loan on which the borrower has made 48 consecutive, monthly repayments, but in no event may the rate be reduced by more than 1 percent;
 
@@ -196,7 +198,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 &emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the institution of higher education shall grant the borrower forbearance in accordance with subsection (e)(3) of this section.
 
-(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160.)
+(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792.)
 
 #### References in Text
 
@@ -207,6 +209,8 @@ Section 1087cc(a) of this title, referred to in subsec. (c)(1)(G), was amended b
 A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, §16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2007—Subsec. (c)(2)(A)(iii). Pub. L. 110–84 struck out “not in excess of 3 years” before “during” in introductory provisions, substituted comma for semicolon at end of subcl. (II), and inserted concluding provisions.
 
 2006—Subsec. (c)(2)(A)(iii) to (v). Pub. L. 109–171 added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
 
@@ -220,7 +224,7 @@ Subsec. (b)(1). Pub. L. 105–244, §464(b)(1), inserted at end “A student who
 
 Subsec. (b)(2). Pub. L. 105–244, §464(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the institution's capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution less than full time, or (B) independent students, and if the total financial need of all such less than full-time and independent students at the institution exceeds 5 percent of the total financial need of all students at such institution, then at least 5 percent of such loans shall be made available to such less than full-time and independent students.”
 
-Subsec. (c)(1)(D). Pub. L. 105–244, §464(c)(1), struck out “(i) 3 percent per year, (ii) 4 percent per year in the case of any loan made on or after July 1, 1981, or (iii)” after “at the rate of” and substituted “paragraph (2)(A)(i)” for “subparagraph (A)(i)”.
+Subsec. (c)(1)(D). Pub. L. 105–244, §464(c)(1), struck out “(i) 3 percent per year, (ii) 4 percent per year in the case of any loan made on or after July 1, 1981, or (iii)”after “at the rate of” and substituted “paragraph (2)(A)(i)” for “subparagraph (A)(i)”.
 
 Subsec. (c)(2)(A). Pub. L. 105–244, §464(c)(2), substituted “subparagraph (A) of paragraph (1)” for “subparagraph (B)” in concluding provisions.
 
@@ -272,11 +276,15 @@ Subsecs. (e), (f). Pub. L. 102–325, §464(h), added subsecs. (e) and (f).
 
 1987—Subsec. (c)(2)(A)(vi). Pub. L. 100–50 inserted “or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training” before semicolon at end.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as a note under section 1070a of this title.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
-Amendment by Pub. L. 109–171 applicable with respect to loans for which the first disbursement is made on or after July 1, 2001, see section 8007(f) of Pub. L. 109–171, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 109–171 applicable with respect to all loans under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.), see section 8007(f) of Pub. L. 109–171, set out as a note under section 1078 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -296,7 +304,7 @@ Section 468 of Pub. L. 102–325, as amended by Pub. L. 102–394, title III, §
 
 &emsp;“(1) the changes in section 463(a)(2)(B) \[20 U.S.C. 1087cc(a)(2)(B)\], relating to the matching of Federal capital contributions, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993;
 
-&emsp;“(2) the changes made in section 464(c)(1)(C) \[20 U.S.C. 1087dd(c)(1)(C)\], relating to minimum monthly payments shall apply with respect to loans for which the first disbursement is made on or after October 1, 1992, to an individual who, on the date the loan is made, has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act;
+&emsp;“(2) the changes made in section 464(c)(1)(C) \[20 U.S.C. 1087dd(c)(1)(C)\], relating to minimum monthly payments shall apply with respect to loans for which the first disbursement is made on or after October 1,1992, to an individual who, on the date the loan is made, has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act;
 
 &emsp;“(3) the changes made in section 464(c)(2)(A), relating to deferments, shall apply with respect to loans for which the first disbursement is made on or after July 1, 1993;
 

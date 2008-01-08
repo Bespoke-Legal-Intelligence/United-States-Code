@@ -76,7 +76,7 @@ Upon making the applicable determinations and findings required in sections 1411
 
 #### References in Text
 
-Act of July 2, 1890 (commonly known as the Sherman Act; 15 U.S.C. 1–7), referred to in subsec. (d)(7), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
+Act of July 2, 1890 (commonly known as the Sherman Act; 15 U.S.C. 1–7), referred to in subsec. (d)(7), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to theCode, see Short Title note set out under section 1 of Title 15 and Tables.
 
 Sections 73 through 76 of the Act of August 27, 1894 (commonly known as the Wilson Tariff Act; 15 U.S.C. 8–11), referred to in subsec. (d)(7), are sections 73 to 76 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, as amended, which enacted sections 8 to 11 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 8 of Title 15 and Tables.
 

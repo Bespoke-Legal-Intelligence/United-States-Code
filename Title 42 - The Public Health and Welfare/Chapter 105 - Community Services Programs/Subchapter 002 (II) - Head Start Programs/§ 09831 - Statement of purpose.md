@@ -1,10 +1,16 @@
 ### §9831. Statement of purpose
 
-It is the purpose of this subchapter to promote school readiness by enhancing the social and cognitive development of low-income children through the provision, to low-income children and their families, of health, educational, nutritional, social, and other services that are determined, based on family needs assessments, to be necessary.
+It is the purpose of this subchapter to promote the school readiness of low-income children by enhancing their cognitive, social, and emotional development—
 
-(Pub. L. 97–35, title VI, §636, Aug. 13, 1981, 95 Stat. 499; Pub. L. 101–501, title I, §102, Nov. 3, 1990, 104 Stat. 1224; Pub. L. 105–285, title I, §102, Oct. 27, 1998, 112 Stat. 2703.)
+&emsp;(1) in a learning environment that supports children's growth in language, literacy, mathematics, science, social and emotional functioning, creative arts, physical skills, and approaches to learning; and
+
+&emsp;(2) through the provision to low-income children and their families of health, educational, nutritional, social, and other services that are determined, based on family needs assessments, to be necessary.
+
+(Pub. L. 97–35, title VI, §636, Aug. 13, 1981, 95 Stat. 499; Pub. L. 101–501, title I, §102, Nov. 3, 1990, 104 Stat. 1224; Pub. L. 105–285, title I, §102, Oct. 27, 1998, 112 Stat. 2703; Pub. L. 110–134, §2, Dec. 12, 2007, 121 Stat. 1363.)
 
 #### Amendments
+
+2007—Pub. L. 110–134 amended section generally. Prior to amendment, text read as follows: “It is the purpose of this subchapter to promote school readiness by enhancing the social and cognitive development of low-income children through the provision, to low-income children and their families, of health, educational, nutritional, social, and other services that are determined, based on family needs assessments, to be necessary.”
 
 1998—Pub. L. 105–285 amended section catchline and text generally. Prior to amendment, text read as follows:
 

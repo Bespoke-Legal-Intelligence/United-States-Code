@@ -24,10 +24,6 @@ Not later than February 1 each year, the President shall submit to the Committee
 
 1993—Subsec. (b)(3)(B). Pub. L. 103–199 substituted “country of the Eastern Group of States Parties” for “Warsaw Pact country”.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of Defense by Memorandum of President of the United States, Feb. 13, 1992, 57 F.R. 6663, set out as a note under section 2799b of this title.

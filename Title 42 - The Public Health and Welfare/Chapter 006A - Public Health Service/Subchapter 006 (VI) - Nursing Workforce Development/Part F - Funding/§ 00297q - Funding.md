@@ -36,7 +36,7 @@ For the purpose of carrying out parts B, C, and D of this subchapter (subject to
 
 &emsp;The contract under paragraph (1) shall provide that the methodology under such paragraph will be developed in accordance with the following:
 
-&emsp;&emsp;(A) The methodology will take into account the need for and the distribution of health services among medically underserved populations, as determined accordingto the factors that apply under section 254b(b)(3) of this title.
+&emsp;&emsp;(A) The methodology will take into account the need for and the distribution of health services among medically underserved populations, as determined according to the factors that apply under section 254b(b)(3) of this title.
 
 &emsp;&emsp;(B) The methodology will take into account the need for and the distribution of health services in health professional shortage areas, as determined according to the factors that apply under section 254e(b) of this title.
 

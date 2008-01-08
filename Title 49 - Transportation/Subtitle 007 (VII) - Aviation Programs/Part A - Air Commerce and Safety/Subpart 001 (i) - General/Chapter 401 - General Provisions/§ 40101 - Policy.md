@@ -254,6 +254,12 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–135, §1, Dec. 13, 2007, 121 Stat. 1450, provided that: “This Act \[enacting section 44729 of this title\] may be cited as the ‘Fair Treatment for Experienced Pilots Act’.”
+
+Pub. L. 110–113, §1, Nov. 8, 2007, 121 Stat. 1039, provided that: “This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the ‘Procedural Fairness for September 11 Victims Act of 2007’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–297, §1, Aug. 9, 2004, 118 Stat. 1095, provided that: “This Act \[enacting section 44113 of this title, amending sections 44107 and 44108 of this title, and enacting provisions set out as notes under section 44101 of this title\] may be cited as ‘Cape Town Treaty Implementation Act of 2004’.”
@@ -294,7 +300,7 @@ Pub. L. 105–137, §1, Dec. 2, 1997, 111 Stat. 2640, provided that: “This Act
 
 Section 1(a) of Pub. L. 104–264 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Aviation Reauthorization Act of 1996’.”
 
-Section 201 of title II of Pub. L. 104–264 provided that: “This title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the ‘Air Traffic Management System Performance Improvement Act of 1996’.”
+Section 201 of title II of Pub. L. 104–264 provided that: “This title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the ‘Air Traffic Management System Performance Improvement Act of 1996’.”
 
 Section 278(a) of Pub. L. 104–264 provided that: “This section \[amending section 41742 of this title and enacting provisions set out as a note under section 41742 of this title\] may be cited as the ‘Rural Air Service Survival Act’.”
 
@@ -313,6 +319,16 @@ Section 1101 of title XI of Pub. L. 104–264 provided that: “This title \[ame
 Pub. L. 103–305, §1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: “This Act \[enacting sections 41311, 41714, 41715, 47129, 47130, and 47509 of this title, amending sections 106, 10521, 11501, 40102, 40113, 40116, 40117, 41713, 41734, 44502, 44505, 44938, 45301, 46301, 47101, 47102, 47104 to 47107, 47109 to 47111, 47115, 47117 to 47119, 47504, 48101 to 48104, and 48108 of this title and section 9502 of Title 26, Internal Revenue Code, renumbering former section 47129 of this title as section 47131 of this title, enacting provisions set out as notes under this section and sections 10521, 11501, 40102, 40105, 40117, 41311, 41715, 44502, 45102, 47101, 47107, 47124, and 49101 of this title, and repealing provisions set out as a note under section 1348 of former Title 49, Transportation\] may be cited as the ‘Federal Aviation Administration Authorization Act of 1994’.”
 
 Pub. L. 103–305, title III, §301, Aug. 23, 1994, 108 Stat. 1589, provided that: “This title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 49101 of this title\] may be cited as the ‘Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1994’.”
+
+#### Findings
+
+Pub. L. 110–113, §2, Nov. 8, 2007, 121 Stat. 1039, provided that: “Congress finds the following:
+
+&emsp;“(1) The September 11th Victims Compensation Fund of 2001 \[title IV of Pub. L. 107–42\] (49 U.S.C. 40101 note) establishes a Federal cause of action in the United States District Court for the Southern District of New York as the exclusive remedy for damages arising out of the hijacking and subsequent crash of American Airlines flights 11 and 77, and United Airlines flights 93 and 175, on September 11, 2001.
+
+&emsp;“(2) Rules 45(b)(2) and 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\] effectively limit service of a subpoena to any place within, or within 100 miles of, the district of the court by which it is issued, unless a statute of the United States expressly provides that the court, upon proper application and cause shown, may authorize the service of a subpoena at any other place.
+
+&emsp;“(3) Litigating a Federal cause of action under the September 11 Victims Compensation Fund of 2001 is likely to involve the testimony and the production of other documents and tangible things by a substantial number of witnesses, many of whom may not reside, be employed, or regularly transact business in, or within 100 miles of, the Southern District of New York.”
 
 #### Revitalization of Aviation and Aeronautics
 
@@ -450,7 +466,7 @@ Goals.—The Next Generation Air Transportation System shall—
 
 “(d)
 
-Reports.—The Administrator of the Federal Aviation Administration shall transmit to the Committee on Commerce, Science, and Transportation in the Senate and the Committee on Transportation and Infrastructure and the Committee on Science in the House of Representatives—
+Reports.—The Administrator of the Federal Aviation Administration shall transmit to the Committee on Commerce, Science, and Transportation in the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science and Technology\] in the House of Representatives—
 
 &emsp;“(1) not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the integrated plan required in subsection (b); and
 
@@ -554,7 +570,7 @@ Pub. L. 108–176, title VIII, §826, Dec. 12, 2003, 117 Stat. 2596, provided th
 
 “(a)
 
-Finding.—Congress finds that the United States Government has by law provided substantial financial assistance to United States commercial airlines in the form of war risk insurance and reinsurance and other economic benefits and has imposed substantial economic and regulatory burdens on those airlines. In order to determine the economic viability of the domestic commercial airline industry and to evaluate the need for additional measures or the modification of existing laws, Congress needs more frequent information and independently verified information about the financial condition of these airlines.
+Finding.—Congress finds that the United States Government has by law provided substantial financialassistance to United States commercial airlines in the form of war risk insurance and reinsurance and other economic benefits and has imposed substantial economic and regulatory burdens on those airlines. In order to determine the economic viability of the domestic commercial airline industry and to evaluate the need for additional measures or the modification of existing laws, Congress needs more frequent information and independently verified information about the financial condition of these airlines.
 
 “(b) GAO
 
@@ -586,19 +602,7 @@ Limitations.—The Secretary may impose reasonable limitations on any such waive
 
 #### Air Carriers Required To Honor Tickets for Suspended Service
 
-Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404, Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, provided that:
-
-“(a)
-
-In General.—Each air carrier that provides scheduled air transportation on a route shall provide, to the extent practicable, air transportation to passengers ticketed for air transportation on that route by any other air carrier that suspends, interrupts, or discontinues air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier.
-
-“(b)
-
-Passenger Obligation.—An air carrier is not required to provide air transportation under subsection (a) to a passenger unless that passenger makes alternative arrangements with the air carrier for such transportation within 60 days after the date on which that passenger's air transportation was suspended, interrupted, or discontinued (without regard to the originally scheduled travel date on the ticket).
-
-“(c)
-
-Sunset.—This section does not apply to air transportation the suspension, interruption, or discontinuance of which occurs after November 30, 2006.”
+Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404, Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportation on that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
 
 #### Relationship of Eligible Crime Victim Compensation Programs to September 11th Victim Compensation Fund
 
@@ -606,7 +610,7 @@ Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided 
 
 #### Air Transportation Safety and System Stabilization
 
-Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286, provided that:
+Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286; Pub. L. 110–113, §3, Nov. 8, 2007, 121 Stat. 1039; Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -620,7 +624,7 @@ Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71,
 
 In General.—Notwithstanding any other provision of law, the President shall take the following actions to compensate air carriers for losses incurred by the air carriers as a result of the terrorist attacks on the United States that occurred on September 11, 2001:
 
-&emsp;“(1) Subject to such terms and conditions as the President deems necessary, issue Federal credit instruments to air carriers that do not, in the aggregate, exceed $10,000,000,000 and provide the subsidy amounts necessary for such instruments in accordance with the provisions of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
+&emsp;“\[(1) Repealed. Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974.\]
 
 &emsp;“(2) Compensate air carriers in an aggregate amount equal to $5,000,000,000 for—
 
@@ -632,93 +636,7 @@ In General.—Notwithstanding any other provision of law, the President shall ta
 
 Emergency Designation.—Congress designates the amount of new budget authority and outlays in all fiscal years resulting from this title as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901(e)). Such amount shall be available only to the extent that a request, that includes designation of such amount as an emergency requirement as defined in such Act \[see Short Title note set out under section 900 of Title 2, The Congress\], is transmitted by the President to Congress.
 
-#### “SEC. 102. AIR TRANSPORTATION STABILIZATION BOARD.
-
-“(a)
-
-Definitions.—In this section, the following definitions apply:
-
-&emsp;“(1)
-
-Board.—The term ‘Board’ means the Air Transportation Stabilization Board established under subsection (b).
-
-&emsp;“(2)
-
-Financial obligation.—The term ‘financial obligation’ means any note, bond, debenture, or other debt obligation issued by an obligor in connection with financing under this section and section 101(a)(1).
-
-&emsp;“(3)
-
-Lender.—The term ‘lender’ means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation) known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Security Act of 1933 \[probably should be Securities Act of 1933, 15 U.S.C. 77a et seq.\]\[)\], including—
-
-&emsp;&emsp;“(A) a qualified retirement plan (as defined in section 4974(c) of the Internal Revenue Code of 1986 (26 U.S.C. 4974(c))\[)\] that is a qualified institutional buyer; and
-
-&emsp;&emsp;“(B) a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986 (26 U.S.C. 414(d))\[)\] that is a qualified institutional buyer.
-
-&emsp;“(4)
-
-Obligor.—The term ‘obligor’ means a party primarily liable for payment of the principal of or interest on a Federal credit instrument, which party may be a corporation, partnership, joint venture, trust, or governmental entity, agency, or instrumentality.
-
-“(b)
-
-Air Transportation Stabilization Board.—
-
-&emsp;“(1)
-
-Establishment.—There is established a board (to be known as the ‘Air Transportation Stabilization Board’) to review and decide on applications for Federal credit instruments under section 101(a)(1).
-
-&emsp;“(2)
-
-Composition.—The Board shall consist of—
-
-&emsp;&emsp;“(A) the Secretary of Transportation or the designee of the Secretary;
-
-&emsp;&emsp;“(B) the Chairman of the Board of Governors of the Federal Reserve System, or the designee of the Chairman, who shall be the Chair of the Board;
-
-&emsp;&emsp;“(C) the Secretary of the Treasury or the designee of the Secretary; and
-
-&emsp;&emsp;“(D) the Comptroller General of the United States, or the designee of the Comptroller General, as a nonvoting member of the Board.
-
-“(c)
-
-Federal Credit Instruments.—
-
-&emsp;“(1)
-
-In general.—The Board may enter into agreements with 1 or more obligors to issue Federal credit instruments under section 101(a)(1) if the Board determines, in its discretion, that—
-
-&emsp;&emsp;“(A) the obligor is an air carrier for which credit is not reasonably available at the time of the transaction;
-
-&emsp;&emsp;“(B) the intended obligation by the obligor is prudently incurred; and
-
-&emsp;&emsp;“(C) such agreement is a necessary part of maintaining a safe, efficient, and viable commercial aviation system in the United States.
-
-&emsp;“(2)
-
-Terms and limitations.—
-
-&emsp;&emsp;“(A)
-
-Forms; terms and conditions.—A Federal credit instrument shall be issued under section 101(a)(1) in such form and on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Board determines appropriate.
-
-&emsp;&emsp;“(B)
-
-Procedures.—Not later than 14 days after the date of enactment of this Act \[Sept. 22, 2001\], the Director of the Office of Management and Budget shall issue regulations setting forth procedures for application and minimum requirements, which may be supplemented by the Board in its discretion, for the issuance of Federal credit instruments under section 101(a)(1).
-
-“(d)
-
-Financial Protection of Government.—
-
-&emsp;“(1)
-
-In general.—To the extent feasible and practicable, the Board shall ensure that the Government is compensated for the risk assumed in making guarantees under this title.
-
-&emsp;“(2)
-
-Government participation in gains.—To the extent to which any participating corporation accepts financial assistance, in the form of accepting the proceeds of any loans guaranteed by the Government under this title, the Board is authorized to enter into contracts under which the Government, contingent on the financial success of the participating corporation, would participate in the gains of the participating corporation or its security holders through the use of such instruments as warrants, stock options, common or preferred stock, or other appropriate equity instruments.
-
-&emsp;“(3)
-
-Deposit in treasury.—All amounts collected by the Secretary of the Treasury under this subsection shall be deposited in the Treasury as miscellaneous receipts.
+#### “\[SEC. 102. Repealed. Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974.\]
 
 #### “SEC. 103. SPECIAL RULES FOR COMPENSATION.
 
@@ -770,19 +688,7 @@ Set-aside.—The President may set aside a portion of the amount of compensation
 
 Distribution of amounts.—The President shall distribute the amount set aside under this subsection proportionally among such air carriers based on an appropriate auditable measure, as determined by the President.
 
-#### “SEC. 104. LIMITATION ON CERTAIN EMPLOYEE COMPENSATION.
-
-“(a)
-
-In General.—The President may only issue a Federal credit instrument under section 101(a)(1) to an air carrier after the air carrier enters into a legally binding agreement with the President that, during the 2-year period beginning September 11, 2001, and ending September 11, 2003, no officer or employee of the air carrier whose total compensation exceeded $300,000 in calendar year 2000 (other than an employee whose compensation is determined through an existing collective bargaining agreement entered into prior to September 11, 2001)—
-
-&emsp;“(1) will receive from the air carrier total compensation which exceeds, during any 12 consecutive months of such 2-year period, the total compensation received by the officer or employee from the air carrier in calendar year 2000; and
-
-&emsp;“(2) will receive from the air carrier severance pay or other benefits upon termination of employment with the air carrier which exceeds twice the maximum total compensation received by the officer or employee from the air carrier in calendar year 2000.
-
-“(b)
-
-Total Compensation Defined.—In this section, the term ‘total compensation’ includes salary, bonuses, awards of stock, and other financial benefits provided by an air carrier to an officer or employee of the air carrier.
+#### “\[SEC. 104. Repealed. Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974.\]
 
 #### “SEC. 105. CONTINUATION OF CERTAIN AIR SERVICE.
 
@@ -800,7 +706,7 @@ Secretarial Oversight.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding any other provision of law, the Secretary is authorized to require an air carrier receiving direct financial assistance underthis Act to maintain scheduled air service to any point served by that carrier before September 11, 2001.
+In general.—Notwithstanding any other provision of law, the Secretary is authorized to require an air carrier receiving direct financial assistance under this Act to maintain scheduled air service to any point served by that carrier before September 11, 2001.
 
 &emsp;“(2)
 
@@ -824,9 +730,7 @@ Update.—Not later than the last day of the 7-month period following the date o
 
 Air carrier.—The term ‘air carrier’ has the meaning such term has under section 40102 of title 49, United States Code.
 
-&emsp;“(2)
-
-Federal credit instrument.—The term ‘Federal credit instrument’ means any guarantee or other pledge by the Board issued under section 101(a)(1) to pledge the full faith and credit of the United States to pay all or part of any of the principal of and interest on a loan or other debt obligation issued by an obligor and funded by a lender.
+&emsp;“\[(2) Repealed. Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974.\]
 
 &emsp;“(3)
 
@@ -1078,7 +982,7 @@ In general.—Upon the submission of a claim under this title, the claimant waiv
 
 &emsp;&emsp;&emsp;“(ii)
 
-Pending actions.—In the case of an individual who is a party to a civil action described in clause (i), such individual may not submit aclaim under this title unless such individual withdraws from such action by the date that is 90 days after the date on which regulations are promulgated under section 407.
+Pending actions.—In the case of an individual who is a party to a civil action described in clause (i), such individual may not submit a claim under this title unless such individual withdraws from such action by the date that is 90 days after the date on which regulations are promulgated under section 407.
 
 #### “SEC. 406. PAYMENTS TO ELIGIBLE INDIVIDUALS.
 
@@ -1149,6 +1053,18 @@ Substantive law.—The substantive law for decision in any such suit shall be de
 &emsp;“(3)
 
 Jurisdiction.—The United States District Court for the Southern District of New York shall have original and exclusive jurisdiction over all actions brought for any claim (including any claim for loss of property, personal injury, or death) resulting from or relating to the terrorist-related aircraft crashes of September 11, 2001.
+
+&emsp;“(4)
+
+Nationwide subpoenas.—
+
+&emsp;&emsp;“(A)
+
+In general.—A subpoena requiring the attendance of a witness at trial or a hearing conducted under this section may be served at any place in the United States.
+
+&emsp;&emsp;“(B)
+
+Rule of construction.—Nothing in this subsection is intended to diminish the authority of a court to quash or modify a subpoena for the reasons provided in clause (i), (iii), or (iv) of subparagraph (A) or subparagraph (B) of rule 45(c)(3) of the Federal Rules of Civil Procedure \[28 U.S.C. App.\].
 
 “(c)
 
@@ -1418,7 +1334,7 @@ Contents.—The report submitted by the aviation funding task force under clause
 
 &emsp;&emsp;“(B)
 
-Recommendations.—The aviation funding task force shall make such recommendations undersubparagraph (A)(ii)(III) as the task force deems appropriate. Those recommendations may include—
+Recommendations.—The aviation funding task force shall make such recommendations under subparagraph (A)(ii)(III) as the task force deems appropriate. Those recommendations may include—
 
 &emsp;&emsp;&emsp;“(i) proposals for off-budget treatment of the Airport and Airway Trust Fund;
 

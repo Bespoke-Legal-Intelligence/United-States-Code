@@ -64,7 +64,7 @@ Establishment of Program.—(1) The Secretary of Defense and the Secretary of Co
 
 Responsibilities.—(1) The Secretary of Defense shall have the responsibility for maintaining, flying, and funding tropical cyclone reconnaissance aircraft to accomplish the program established under this section and to transfer the data to the Secretary of Commerce. Program responsibility may not be transferred to any other Federal department or agency, including the Coast Guard, without the agreement and approval of the Secretary of Defense, the Secretary of Commerce, and the head of any other Federal agency or department to which the responsibility is transferred.
 
-“(2) The Secretary of Commerce shall have the responsibility to provide funding for data gathering and research by remote sensing, ground sensing, research aircraft, and other technologies necessary to accomplish the program established under this section.
+“(2) The Secretary of Commerce shall have the responsibility to provide funding for data gathering andresearch by remote sensing, ground sensing, research aircraft, and other technologies necessary to accomplish the program established under this section.
 
 “(c)
 
@@ -92,7 +92,7 @@ Establishment.—The Secretary of Commerce, in cooperation with the Federal Coor
 
 “(b)
 
-Implementation Plan.—Not later than 90 days after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the Committee on Earth and Environmental Sciences, shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a plan for implementation of the United States Weather Research Program which shall—
+Implementation Plan.—Not later than 90 days after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the Committee on Earth and Environmental Sciences, shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives a plan for implementation of the United States Weather Research Program which shall—
 
 &emsp;“(1) establish, for the 10-year period beginning in the year the plan is submitted, the goals and priorities for Federal weather research which most effectively advance the scientific understanding of weather processes and provide information to improve weather warning and forecast systems in the United States;
 
@@ -186,7 +186,7 @@ Notification.—The Secretary shall not change operations at a field office purs
 
 “(b)
 
-Weather Radar Decommissioning.—The Secretary shall not remove or permanently decommission any National Weather Service radar until the Secretary has prepared radar commissioning and decommissioning reports documenting that such action would be consistent with the modernization criteria established under section 704(b)(1). The commissioning report shall document that the radar system performs reliably, satisfactory maintenance support is in place, sufficient staff with adequate training are present to operate the system, technical coordination with weather service users has been completed, and the radarbeing commissioned satisfactorily supports field office operations. The decommissioning report shall document that the replacement radar has been commissioned, technical coordination with service users has been completed, and the radar being decommissioned is no longer needed to support field office operations.
+Weather Radar Decommissioning.—The Secretary shall not remove or permanently decommission any National Weather Service radar until the Secretary has prepared radar commissioning and decommissioning reports documenting that such action would be consistent with the modernization criteria established under section 704(b)(1). The commissioning report shall document that the radar system performs reliably, satisfactory maintenance support is in place, sufficient staff with adequate training are present to operate the system, technical coordination with weather service users has been completed, and the radar being commissioned satisfactorily supports field office operations. The decommissioning report shall document that the replacement radar has been commissioned, technical coordination with service users has been completed, and the radar being decommissioned is no longer needed to support field office operations.
 
 “(c)
 
@@ -226,7 +226,7 @@ Public Review.—Each certification decision shall be preceded by—
 
 “(d)
 
-Final Decision.—If after consideration of the public comment received under subsection (c) the Secretary, in consultation with the Committee, decides to close, consolidate, automate, or relocate any such field office, the Secretary shall publish a final certification in the Federal Register and submit the certification to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+Final Decision.—If after consideration of the public comment received under subsection (c) the Secretary, in consultation with the Committee, decides to close, consolidate, automate, or relocate any such field office, the Secretary shall publish a final certification in the Federal Register and submit the certification to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives.
 
 “(e)
 
@@ -288,7 +288,7 @@ Termination.—The Committee shall terminate on December 31, 1999.
 
 “(a)
 
-Report.—The Secretary shall prepare a report on the proposed modernization of the National Weather Service and transmit the report, not later than 6 months after the date of enactment of this Act \[Oct. 29, 1992\], to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+Report.—The Secretary shall prepare a report on the proposed modernization of the National Weather Service and transmit the report, not later than 6 months after the date of enactment of this Act \[Oct. 29, 1992\], to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives.
 
 “(b)
 
@@ -352,7 +352,7 @@ Pub. L. 98–8, title I, §104, Mar. 24, 1983, 97 Stat. 34, provided that:
 
 “It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can work closely with the private sector, other Federal and State government agencies, and the weather services of other nations.
 
-“Further, the Nation's civil operational remote sensing satellites (METSAT and LANDSAT) shall remainunder the National Oceanic and Atmospheric Administration. No effort shall be made to dismantle, transfer, lease or sell any portion of these systems without prior congressional approval.”
+“Further, the Nation's civil operational remote sensing satellites (METSAT and LANDSAT) shall remain under the National Oceanic and Atmospheric Administration. No effort shall be made to dismantle, transfer, lease or sell any portion of these systems without prior congressional approval.”
 
 #### Study of Thunderstorms and Atmospheric Disturbances; Reports; Expenditures; Cooperation of Other Departments
 

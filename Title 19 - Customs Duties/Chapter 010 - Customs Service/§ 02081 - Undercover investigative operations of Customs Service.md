@@ -2,7 +2,7 @@
 
 #### (a) Certification required for exemption of undercover operations from certain laws
 
-With respect to any undercover investigative operation of the United States Customs Service (hereinafter in this section referred to as the“Service”) which is necessary for the detection and prosecution of offenses against the United States which are within the jurisdiction of the Secretary of the Treasury—
+With respect to any undercover investigative operation of the United States Customs Service (hereinafter in this section referred to as the “Service”) which is necessary for the detection and prosecution of offenses against the United States which are within the jurisdiction of the Secretary of the Treasury—
 
 &emsp;(1) sums authorized to be appropriated for the Service may be used—
 

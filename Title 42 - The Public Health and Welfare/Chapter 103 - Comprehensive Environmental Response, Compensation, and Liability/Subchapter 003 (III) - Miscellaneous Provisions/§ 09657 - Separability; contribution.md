@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Amendments
 
-1986—Pub. L. 99–499 inserted sentence at end relating to administrative settlements under section 9622 of thistitle which have effect of limiting any person's right to obtain contribution from any party to such settlement.
+1986—Pub. L. 99–499 inserted sentence at end relating to administrative settlements under section 9622 of this title which have effect of limiting any person's right to obtain contribution from any party to such settlement.
 

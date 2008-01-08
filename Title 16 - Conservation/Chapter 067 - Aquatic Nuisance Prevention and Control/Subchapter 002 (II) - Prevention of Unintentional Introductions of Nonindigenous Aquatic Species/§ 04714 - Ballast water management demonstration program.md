@@ -62,7 +62,7 @@ For purposes of this section, the term “technologies and practices” means th
 
 &emsp;&emsp;&emsp;(i) call on ports in the United States and on the Great Lakes; and
 
-&emsp;&emsp;&emsp;(ii) are operated along major coasts of the United States and inland waterways, including the San Francisco Bay and Chesapeake Bay.
+&emsp;&emsp;&emsp;(ii) are operated along major coasts of the United States and inland waterways,including the San Francisco Bay and Chesapeake Bay.
 
 #### (4) Selection of technologies and practices
 

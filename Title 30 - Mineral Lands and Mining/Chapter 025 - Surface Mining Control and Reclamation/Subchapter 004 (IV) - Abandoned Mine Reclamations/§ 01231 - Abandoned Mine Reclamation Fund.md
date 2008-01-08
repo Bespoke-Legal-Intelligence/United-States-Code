@@ -108,7 +108,7 @@ The Secretary of the Interior shall notify the Secretary of the Treasury as to w
 
 #### (B) Exceptions
 
-&emsp;&emsp;Notwithstanding paragraph (3), the amount distributed under this subsection for the first 4 fiscal years beginning on and after October 1, 2007, shall be equal to the following percentage of the amount otherwise required to be distributed:
+&emsp;&emsp;Notwithstanding paragraph (3), the amount distributed under this subsection forthe first 4 fiscal years beginning on and after October 1, 2007, shall be equal to the following percentage of the amount otherwise required to be distributed:
 
 &emsp;&emsp;&emsp;(i) 50 percent in fiscal year 2008.
 

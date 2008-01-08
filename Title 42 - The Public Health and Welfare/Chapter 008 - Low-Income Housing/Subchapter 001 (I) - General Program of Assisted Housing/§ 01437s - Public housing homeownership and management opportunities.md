@@ -86,7 +86,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 #### (5) Use of proceeds
 
-&emsp;Notwithstanding any other provision of this chapter or other law to the contrary, proceeds from the sale of a building or buildings under paragraph (3) and amounts recaptured under paragraph (4) shall be paid to the public housing agency and shall be retained and used by the public housing agency only to increase the number of public housing units available for occupancy. The resident management corporation shall keep and make available to the public housing agency and the Secretary all records necessary to calculate accurately payments due the local housing agency under this section. The Secretary shall not reduce or delay payments under other provisions of law as a result of amounts made available to the local housing agency under this section.
+&emsp;Notwithstanding any other provision of this chapter or other law to the contrary, proceeds from the sale of a building or buildings under paragraph (3) and amounts recaptured under paragraph (4) shall be paid to the public housing agency and shall be retained and used by the public housing agency only to increase the number of public housing units available for occupancy. The resident management corporation shall keep and make available to the public housing agency and the Secretary all records necessary to calculate accurately payments due the local housing agency under this section. The Secretary shall not reduce ordelay payments under other provisions of law as a result of amounts made available to the local housing agency under this section.
 
 #### (6) Financing
 
@@ -152,7 +152,7 @@ Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, refer
 
 Subsec. (a)(3)(A)(v). Pub. L. 105–276, §532(b)(1)(B), substituted “housing quality standards applicable under section 1437d(f) of this title” for “minimum safety and livability standards applicable under section 1437<i>l</i> of this title”.
 
-Subsec. (a)(7). Pub. L. 105–276, §532(b)(1)(C), in heading, substituted “Capital and operating assistance” for “Annual contributions”, in first sentence, substituted “provide assistance under section 1437g of this title” for “pay annual contributions”, and at end, substituted “Such assistance may not exceed the allocation for the project under section 1437g of this title” for “Such contributions may not exceed the maximum contributions authorized in section 1437c(a) of this title.”
+Subsec. (a)(7). Pub. L. 105–276, §532(b)(1)(C), in heading, substituted “Capital and operating assistance” for “Annual contributions”, in first sentence, substituted “provide assistance under section 1437g of this title” for “pay annual contributions”, and at end, substituted“Such assistance may not exceed the allocation for the project under section 1437g of this title” for “Such contributions may not exceed the maximum contributions authorized in section 1437c(a) of this title.”
 
 Subsec. (a)(8). Pub. L. 105–276, §532(b)(1)(D), in heading substituted “fund allocation” for “subsidies” and in text substituted “Amounts from the Operating Fund” for “Operating subsidies”.
 

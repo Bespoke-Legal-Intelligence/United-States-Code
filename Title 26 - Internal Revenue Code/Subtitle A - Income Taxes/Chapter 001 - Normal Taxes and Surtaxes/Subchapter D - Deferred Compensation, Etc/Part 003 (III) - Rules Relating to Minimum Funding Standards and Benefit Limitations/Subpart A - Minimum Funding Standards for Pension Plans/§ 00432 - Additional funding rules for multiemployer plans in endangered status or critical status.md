@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployer plan is or will be in endangered or critical status for a plan year, the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor.
+&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployerplan is or will be in endangered or critical status for a plan year, the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor.
 
 #### (ii) Plans in critical status
 
@@ -238,7 +238,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) a collective bargaining agreement providing for contributions under a multiemployer plan that was in effect at the time the plan entered endangered status expires, and
 
-&emsp;&emsp;&emsp;(ii) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respectto such agreement fail to agree on changes to contribution or benefit schedules necessary to meet the applicable benchmarks in accordance with the funding improvement plan,
+&emsp;&emsp;&emsp;(ii) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respect to such agreement fail to agree on changes to contribution or benefit schedules necessary to meet the applicable benchmarks in accordance with the funding improvement plan,
 
 > &emsp;&emsp;the plan sponsor shall implement the schedule described in paragraph (1)(B)(i)(I) beginning on the date specified in subparagraph (B).
 
@@ -312,7 +312,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) may, if the plan sponsor deems appropriate, prepare and provide the bargaining parties with additional information relating to contribution rates or benefit reductions, alternative schedules, or other information relevant to emerging from critical status in accordance with the rehabilitation plan.
 
-> &emsp;The schedule or schedules described in subparagraph (B)(i) shall reflect reductions in future benefit accruals and adjustable benefits, and increases in contributions, that the plan sponsor determines are reasonably necessaryto emerge from critical status. One schedule shall be designated as the default schedule and such schedule shall assume that there are no increases in contributions under the plan other than the increases necessary to emerge from critical status after future benefit accruals and other benefits (other than benefits the reduction or elimination of which are not permitted under section 411(d)(6)) have been reduced to the maximum extent permitted by law.
+> &emsp;The schedule or schedules described in subparagraph (B)(i) shall reflect reductions in future benefit accruals and adjustable benefits, and increases in contributions, that the plan sponsor determines are reasonably necessary to emerge from critical status. One schedule shall be designated as the default schedule and such schedule shall assume that there are no increases in contributions under the plan other than the increases necessary to emerge from critical status after future benefit accruals and other benefits (other than benefits the reduction or elimination of which are not permitted under section 411(d)(6)) have been reduced to the maximum extent permitted by law.
 
 #### (2) Exception for years after process begins
 
@@ -378,7 +378,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the expiration of the collective bargaining agreements in effect on the date of the due date for the actuarial certification of critical status for the initial critical year under subsection (a)(1) and covering, as of such date at least 75 percent of the active participants in such multiemployer plan.
 
-> &emsp;&emsp;If a plan emerges from critical status as provided under subparagraph (B) before the end of such 10-year period, the rehabilitation period shall end with the plan year precedingthe plan year for which the determination under subparagraph (B) is made.
+> &emsp;&emsp;If a plan emerges from critical status as provided under subparagraph (B) before the end of such 10-year period, the rehabilitation period shall end with the plan year preceding the plan year for which the determination under subparagraph (B) is made.
 
 #### (B) Emergence
 

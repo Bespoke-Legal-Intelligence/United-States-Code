@@ -14,7 +14,7 @@
 
 &emsp;(1) that is required, beyond five years, to complete an initial period of obligated service;
 
-&emsp;(2) during which such person was unable to obtain orders releasing such person from a period of service in the uniformed services before the expiration of such five-year period andsuch inability was through no fault of such person;
+&emsp;(2) during which such person was unable to obtain orders releasing such person from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such person;
 
 &emsp;(3) performed as required pursuant to section 10147 of title 10, under section 502(a) or 503 of title 32, or to fulfill additional training requirements determined and certified in writing by the Secretary concerned, to be necessary for professional development, or for completion of skill training or retraining; or
 
@@ -66,7 +66,7 @@
 
 (B) Such two-year period shall be extended by the minimum time required to accommodate the circumstances beyond such person's control which make reporting within the period specified in subparagraph (A) impossible or unreasonable.
 
-(3) A person who fails to report or apply for employment or reemployment within the appropriate period specified in this subsection shallnot automatically forfeit such person's entitlement to the rights and benefits referred to in subsection (a) but shall be subject to the conduct rules, established policy, and general practices of the employer pertaining to explanations and discipline with respect to absence from scheduled work.
+(3) A person who fails to report or apply for employment or reemployment within the appropriate period specified in this subsection shall not automatically forfeit such person's entitlement to the rights and benefits referred to in subsection (a) but shall be subject to the conduct rules, established policy, and general practices of the employer pertaining to explanations and discipline with respect to absence from scheduled work.
 
 (f)(1) A person who submits an application for reemployment in accordance with subparagraph (C) or (D) of subsection (e)(1) or subsection (e)(2) shall provide to the person's employer (upon the request of such employer) documentation to establish that—
 

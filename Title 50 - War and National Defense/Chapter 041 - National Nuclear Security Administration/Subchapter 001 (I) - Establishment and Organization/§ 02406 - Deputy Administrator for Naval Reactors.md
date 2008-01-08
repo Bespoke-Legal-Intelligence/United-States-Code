@@ -12,7 +12,7 @@ The Deputy Administrator shall be assigned the responsibilities, authorities, an
 
 #### (c) Effect on Executive Order
 
-Except as otherwise specified in this section and notwithstanding any other provision of this chapter, the provisions of the Naval Nuclear Propulsion Executive Order remain in full force and effect until changed by law.
+Except as otherwise specified in this section and notwithstanding any other provision of thischapter, the provisions of the Naval Nuclear Propulsion Executive Order remain in full force and effect until changed by law.
 
 #### (d) Naval Nuclear Propulsion Executive Order
 

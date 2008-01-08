@@ -68,7 +68,7 @@
 
 &emsp;(B) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
+&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointedmay receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
 
 &emsp;&emsp;(ii) The first officer or employee appointed by the Board shall be the Executive Director of the Foundation who—
 
@@ -159,8 +159,6 @@ Subsec. (f) of this section, which required the Foundation, as soon as practicab
 In subsec. (h), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Change of Name
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

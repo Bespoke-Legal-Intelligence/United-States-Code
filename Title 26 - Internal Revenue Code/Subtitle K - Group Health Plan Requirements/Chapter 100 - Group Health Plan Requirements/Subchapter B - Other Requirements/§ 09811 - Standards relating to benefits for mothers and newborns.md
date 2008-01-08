@@ -46,7 +46,7 @@ A group health plan may not—
 
 #### (d) Level and type of reimbursements
 
-Nothing in this section shall be construed to prevent a group health plan from negotiating the level and type of reimbursement with a provider for care provided in accordance with this section.
+Nothing in this section shall be construed to prevent a group health plan from negotiatingthe level and type of reimbursement with a provider for care provided in accordance with this section.
 
 #### (e) Preemption; exception for health insurance coverage in certain States
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Subchapter applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998,see section 1531(c) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 4980D of this title.
+Subchapter applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 4980D of this title.
 

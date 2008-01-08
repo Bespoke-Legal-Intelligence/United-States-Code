@@ -196,3 +196,7 @@ Subsec. (g)(4). Pub. L. 109–58, §251(4), amended par. (4) generally. Prior to
 
 1983—Subsec. (d). Pub. L. 98–213 inserted “and may implement any projects or programs contained in recommendations of the plan”.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

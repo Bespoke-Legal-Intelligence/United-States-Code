@@ -38,7 +38,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;(A) if—
 
-&emsp;&emsp;(i) the amount of the changes of the type described in paragraph (1) of such subsectionrecommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under such paragraph by more than <sup>1</sup>
+&emsp;&emsp;(i) the amount of the changes of the type described in paragraph (1) of such subsection recommended by such committee do not exceed or fall below the amount of the changes such committee was directed by such concurrent resolution to recommend under such paragraph by more than <sup>1</sup>
 
 &emsp;&emsp;&emsp;(I) in the Senate, 20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; or
 
@@ -62,7 +62,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 #### (d) Limitation on amendments to reconciliation bills and resolutions
 
-(1) It shall not be in order in the House of Representatives to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of increasing any specific budget outlays above the level of such outlays provided in the bill or resolution (for the fiscal years covered by the reconciliation instructions set forth in the most recently agreed to concurrent resolution on the budget), or would have the effect of reducing any specific Federal revenues below the level of such revenues provided in the bill or resolution (for such fiscal years), unless such amendment makes at least an equivalent reduction in other specific budget outlays, an equivalent increase in other specific Federal revenues, or an equivalent combination thereof (for such fiscal years), except that a motion to strike a provision providing new budget authority or new entitlement authority may be in order.
+(1) It shall not be in order in the House of Representatives to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of increasing any specific budget outlays above the level of such outlays provided in the bill or resolution (for the fiscal years covered by the reconciliation instructions set forth in the most recently agreed to concurrent resolution on the budget), or would have the effect of reducing any specific Federal revenues below the level ofsuch revenues provided in the bill or resolution (for such fiscal years), unless such amendment makes at least an equivalent reduction in other specific budget outlays, an equivalent increase in other specific Federal revenues, or an equivalent combination thereof (for such fiscal years), except that a motion to strike a provision providing new budget authority or new entitlement authority may be in order.
 
 (2) It shall not be in order in the Senate to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided (for the fiscal years covered) in the reconciliation instructions which relate to such bill or resolution set forth in a resolution providing for reconciliation, or would have the effect of reducing Federal revenue increases below the level of such revenue increases provided (for such fiscal years) in such instructions relating to such bill or resolution, unless such amendment makes a reduction in other specific budget outlays, an increase in other specific Federal revenues, or a combination thereof (for such fiscal years) at least equivalent to any increase in outlays or decrease in revenues provided by such amendment, except that a motion to strike a provision shall always be in order.
 
@@ -76,7 +76,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 (1) Except as provided in paragraph (2), the provisions of section 636 of this title for the consideration in the Senate of concurrent resolutions on the budget and conference reports thereon shall also apply to the consideration in the Senate of reconciliation bills reported under subsection (b) of this section and conference reports thereon.
 
-(2) Debate in the Senate on any reconciliation bill reported under subsection (b) of this section,and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
+(2) Debate in the Senate on any reconciliation bill reported under subsection (b) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours.
 
 #### (f) Completion of reconciliation process
 
@@ -112,7 +112,7 @@ Subsec. (g). Pub. L. 101–508, §13112(a)(9), substituted “joint resolution p
 
 1985—Pub. L. 99–177 substituted “Reconciliation” for “Second required concurrent resolution and reconciliation process” in section catchline.
 
-Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to new entitlement authority and credit authority, and deleting provision that any such concurrent resolution could be reported, and the report accompanying it could be filed, in either House notwithstanding that that House was not in session on the day on which such concurrent resolution is reported.
+Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to new entitlement authority and credit authority, and deleting provision that any such concurrent resolution could be reported,and the report accompanying it could be filed, in either House notwithstanding that that House was not in session on the day on which such concurrent resolution is reported.
 
 Subsec. (b). Pub. L. 99–177 amended subsec. (b) generally, substituting provisions relating to legislative procedure respecting concurrent resolutions with directives to committees to determine and recommend changes in laws, etc., for provisions relating to completion of action on concurrent resolutions.
 

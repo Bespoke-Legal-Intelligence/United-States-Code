@@ -18,7 +18,7 @@ For purposes of this Act, Executive Order Numbered 11478, providing for equal em
 
 #### (b) Affirmative program for equal employment opportunity
 
-For purposes of this Act, sections 1 and 2 of Executive Order Numbered 11478, providing for the adoption and implementation of equal employment opportunity, shall apply to the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation.
+For purposes of this Act, sections 1 and 2 of Executive Order Numbered 11478, providing forthe adoption and implementation of equal employment opportunity, shall apply to the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation.
 
 #### (c) Solicitation of contracts
 

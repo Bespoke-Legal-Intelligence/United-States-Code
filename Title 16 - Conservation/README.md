@@ -1,5 +1,5 @@
 
-16 U.S.C.<br>United States Code, 2006 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+16 U.S.C.<br>United States Code, 2007 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 16—CONSERVATION
 
@@ -76,7 +76,7 @@
 | [<b>33.</b>](Chapter%20033%20-%20Coastal%20Zone%20Management/README.md) | <b>Coastal Zone Management</b> | <b>1451</b> |
 | [<b>34.</b>](Chapter%20034%20-%20Rural%20Environmental%20Conservation%20Program/README.md) | <b>Rural Environmental Conservation Program \[Repealed\]</b> | <b>1501</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Endangered%20Species/README.md) | <b>Endangered Species</b> | <b>1531</b> |
-| [<b>36.</b>](Chapter%20036%20-%20Forest%20and%20Rangeland%20Renewable%20Resources%20Planning/README.md) | <b>Forest and Rangeland Renewable Resources Planning</b> | <b>1601</b> |
+| [<b>36.</b>](Chapter%20036%20-%20Forest%20and%20Rangeland%20Renewable%20Resources%20Planning/README.md) | <b>Forest and Rangeland Renewable Resources Planning</b> | <b>1600</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Youth%20Conservation%20Corps%20and%20Public%20Lands%20Corps/README.md) | <b>Youth Conservation Corps and Public Lands Corps</b> | <b>1701</b> |
 | [<b>38.</b>](Chapter%20038%20-%20Fishery%20Conservation%20and%20Management/README.md) | <b>Fishery Conservation and Management</b> | <b>1801</b> |
 | [<b>39.</b>](Chapter%20039%20-%20Mining%20Activity%20Within%20National%20Park%20System%20Areas/README.md) | <b>Mining Activity Within National Park System Areas</b> | <b>1901</b> |

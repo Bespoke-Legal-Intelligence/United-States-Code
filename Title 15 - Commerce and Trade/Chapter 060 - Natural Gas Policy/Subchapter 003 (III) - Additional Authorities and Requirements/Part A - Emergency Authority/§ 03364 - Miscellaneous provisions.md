@@ -78,7 +78,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 1–104. All functions delegated to the Secretary by this Order may be redelegated, in whole or in part, to the head of any other agency.
 
-1–105. All Executive agencies shall, to the extent permitted by law, cooperate with and assist the Secretaryin carrying out the functions delegated to him by this Order.
+1–105. All Executive agencies shall, to the extent permitted by law, cooperate with and assist the Secretary in carrying out the functions delegated to him by this Order.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

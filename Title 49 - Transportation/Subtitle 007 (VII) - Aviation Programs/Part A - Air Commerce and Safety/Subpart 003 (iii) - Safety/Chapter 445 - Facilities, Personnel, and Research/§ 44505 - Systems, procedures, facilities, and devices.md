@@ -116,27 +116,7 @@ In subsection (a)(3), the words “military department” are substituted for �
 
 #### Assessment of Wake Turbulence Research and Development Program
 
-Pub. L. 108–176, title V, §505, Dec. 12, 2003, 117 Stat. 2559, provided that:
-
-“(a)
-
-Assessment.—The Administrator of the Federal Aviation Administration shall enter into an arrangement with the National Research Council for an assessment of the Federal Aviation Administration's proposed wake turbulence research and development program. The assessment shall include—
-
-&emsp;“(1) an evaluation of the research and development goals and objectives of the program;
-
-&emsp;“(2) a listing of any additional research and development objectives that should be included in the program;
-
-&emsp;“(3) any modifications that will be necessary for the program to achieve the program's goals and objectives on schedule and within the proposed level of resources; and
-
-&emsp;“(4) an evaluation of the roles, if any, that should be played by other Federal agencies, such as the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, in wake turbulence research and development, and how those efforts could be coordinated.
-
-“(b)
-
-Report.—A report containing the results of the assessment shall be provided to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\].
-
-“(c)
-
-Authorization of Appropriations.—There is authorized to be appropriated to the Administrator of the Federal Aviation Administration $500,000 for fiscal year 2004 to carry out this section.”
+Pub. L. 108–176, title V, §505, Dec. 12, 2003, 117 Stat. 2559, required the Administrator of the Federal Aviation Administration to enter into an arrangement with the National Research Council for an assessment of the Federal Aviation Administration's proposed wake turbulence research and development program and required that a report on the assessment be provided to Committees of Congress not later than 1 year after Dec. 12, 2003.
 
 #### Ensuring Appropriate Standards for Airfield Pavements
 
@@ -148,7 +128,7 @@ In General.—The Administrator of the Federal Aviation Administration shall rev
 
 “(b)
 
-Report.—Within 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall report the results of the review conducted under subsection (a) and the adjustments, if any, made on the basis of that review to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure and Committee on Science.”
+Report.—Within 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall report the results of the review conducted under subsection (a) and the adjustments, if any, made on the basis of that review to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure and Committee on Science \[now Committee on Science and Technology\].”
 
 #### Use of Recycled Materials
 
@@ -156,7 +136,7 @@ Pub. L. 106–181, title I, §157, Apr. 5, 2000, 114 Stat. 89, provided that:
 
 “(a)
 
-Study.—The Administrator \[of the Federal Aviation Administration\] shall conduct a study of the use of recycled materials (including recycled pavements, waste materials, and byproducts) in pavement used for runways, taxiways, and aprons and the specification standards in tests necessary for the use of recycled materials in such pavement. The primary focus of the study shall be on the long-term physical performance, safety implications, and environmental benefits of using recycled materials in aviation pavement.
+Study.—The Administrator \[of the Federal Aviation Administration\] shall conduct a study of the use ofrecycled materials (including recycled pavements, waste materials, and byproducts) in pavement used for runways, taxiways, and aprons and the specification standards in tests necessary for the use of recycled materials in such pavement. The primary focus of the study shall be on the long-term physical performance, safety implications, and environmental benefits of using recycled materials in aviation pavement.
 
 “(b)
 

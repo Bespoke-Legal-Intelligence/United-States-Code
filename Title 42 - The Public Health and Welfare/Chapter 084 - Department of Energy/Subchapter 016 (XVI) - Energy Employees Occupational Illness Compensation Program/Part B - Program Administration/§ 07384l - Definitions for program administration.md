@@ -82,7 +82,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(I) A Department of Energy employee who contracted that cancer after beginning employment at a Department of Energy facility.
 
-&emsp;&emsp;&emsp;(II) A Department of Energy contractor employee who contracted that cancer after beginning employment at a Department of Energy facility.
+&emsp;&emsp;&emsp;(II) A Department of Energy contractor employee who contracted that cancer afterbeginning employment at a Department of Energy facility.
 
 &emsp;&emsp;&emsp;(III) An atomic weapons employee who contracted that cancer after beginning employment at an atomic weapons employer facility.
 

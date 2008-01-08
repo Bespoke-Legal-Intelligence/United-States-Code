@@ -2,11 +2,11 @@
 
 (a)
 
-Earning and Period for Applying Credits.—When the average fuel economy of passenger automobiles manufactured by a manufacturer in a particular model year exceeds an applicable average fuel economy standard under section 32902(b)–(d) of this title (determined by the Secretary of Transportation without regard to credits under this section), the manufacturer earns credits. The credits may be applied to—
+Earning and Period for Applying Credits.—When the average fuel economy of passenger automobiles manufactured by a manufacturer in a particular model year exceeds an applicable average fuel economy standard under subsections (a) through (d) of section 32902 (determined by the Secretary of Transportation without regard to credits under this section), the manufacturer earns credits. The credits may be applied to—
 
 &emsp;(1) any of the 3 consecutive model years immediately before the model year for which the credits are earned; and
 
-&emsp;(2) to the extent not used under clause (1) of this subsection, any of the 3 consecutive model years immediately after the model year for which the credits are earned.
+&emsp;(2) to the extent not used under paragraph (1) <sup>1</sup> any of the 5 consecutive model years immediately after the model year for which the credits are earned.
 
 (b)
 
@@ -18,13 +18,13 @@ Period of Availability and Plan for Future Credits.—(1) Except as provided in 
 
 &emsp;(ii) the manufacturer earns those credits as provided by the plan.
 
-(B) If the average fuel economy of a manufacturer is less than the applicable standard under section 32902(b)–(d) of this title after applying credits under subsection (a)(1) of this section, the Secretary of Transportation shall notify the manufacturer and give the manufacturer a reasonable time (of at least 60 days) to submit a plan.
+(B) If the average fuel economy of a manufacturer is less than the applicable standard under subsections (a) through (d) of section 32902 after applying credits under subsection (a)(1) of this section, the Secretary of Transportation shall notify the manufacturer and give the manufacturer a reasonable time (of at least 60 days) to submit a plan.
 
 (c)
 
 Determining Number of Credits.—The number of credits a manufacturer earns under this section equals the product of—
 
-&emsp;(1) the number of tenths of a mile a gallon by which the average fuel economy of the passenger automobiles manufactured by the manufacturer in the model year in which the credits are earned exceeds the applicable average fuel economy standard under section 32902(b)–(d) of this title; times
+&emsp;(1) the number of tenths of a mile a gallon by which the average fuel economy of the passenger automobiles manufactured by the manufacturer in the model year in which the credits are earned exceeds the applicable average fuel economy standard under subsections (a) through (d) of section 32902; times
 
 &emsp;(2) the number of passenger automobiles manufactured by the manufacturer during that model year.
 
@@ -38,9 +38,69 @@ Applying Credits for Non-Passenger Automobiles.—Credits for a manufacturer of 
 
 (f)
 
-Refund of Collected Penalty.—When a civil penalty has been collected under this chapter from a manufacturer that has earned credits under this section, the Secretary of the Treasury shall refund to the manufacturer theamount of the penalty to the extent the penalty is attributable to credits available under this section.
+Credit Trading Among Manufacturers.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1061.)
+&emsp;(1)
+
+In general.—The Secretary of Transportation may establish, by regulation, a fuel economy credit trading program to allow manufacturers whose automobiles exceed the average fuel economy standards prescribed under section 32902 to earn credits to be sold to manufacturers whose automobiles fail to achieve the prescribed standards such that the total oil savings associated with manufacturers that exceed the prescribed standards are preserved when trading credits to manufacturers that fail to achieve the prescribed standards.
+
+&emsp;(2)
+
+Limitation.—The trading of credits by a manufacturer to the category of passenger automobiles manufactured domestically is limited to the extent that the fuel economy level of such automobiles shall comply with the requirements of section 32902(b)(4), without regard to any trading of credits from other manufacturers.
+
+(g)
+
+Credit Transferring Within a Manufacturer's Fleet.—
+
+&emsp;(1)
+
+In general.—The Secretary of Transportation shall establish by regulation a fuel economy credit transferring program to allow any manufacturer whose automobiles exceed any of the average fuel economy standards prescribed under section 32902 to transfer the credits earned under this section and to apply such credits within that manufacturer's fleet to a compliance category of automobiles that fails to achieve the prescribed standards.
+
+&emsp;(2)
+
+Years for which used.—Credits transferred under this subsection are available to be used in the same model years that the manufacturer could have applied such credits under subsections (a), (b), (d), and (e), as well as for the model year in which the manufacturer earned such credits.
+
+&emsp;(3)
+
+Maximum increase.—The maximum increase in any compliance category attributable to transferred credits is—
+
+&emsp;&emsp;(A) for model years 2011 through 2013, 1.0 mile per gallon;
+
+&emsp;&emsp;(B) for model years 2014 through 2017, 1.5 miles per gallon; and
+
+&emsp;&emsp;(C) for model year 2018 and subsequent model years, 2.0 miles per gallon.
+
+&emsp;(4)
+
+Limitation.—The transfer of credits by a manufacturer to the category of passenger automobiles manufactured domestically is limited to the extent that the fuel economy level of such automobiles shall comply with the requirements under section 32904(b)(4), without regard to any transfer of credits from other categories of automobiles described in paragraph (6)(B).
+
+&emsp;(5)
+
+Years available.—A credit may be transferred under this subsection only if it is earned after model year 2010.
+
+&emsp;(6)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;(A)
+
+Fleet.—The term “fleet” means all automobiles manufactured by a manufacturer in a particular model year.
+
+&emsp;&emsp;(B)
+
+Compliance category of automobiles.—The term “compliance category of automobiles” means any of the following 3 categories of automobiles for which compliance is separately calculated under this chapter:
+
+&emsp;&emsp;&emsp;(i) Passenger automobiles manufactured domestically.
+
+&emsp;&emsp;&emsp;(ii) Passenger automobiles not manufactured domestically.
+
+&emsp;&emsp;&emsp;(iii) Non-passenger automobiles.
+
+(h)
+
+Refund of Collected Penalty.—When a civil penalty has been collected under this chapter from a manufacturer that has earned credits under this section, the Secretary of the Treasury shall refund to the manufacturer the amount of the penalty to the extent the penalty is attributable to credits available under this section.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1061; Pub. L. 110–140, title I, §104(a), Dec. 19, 2007, 121 Stat. 1501.)
 
 Historical and Revision Notes
 
@@ -91,4 +151,20 @@ Subsection (b)(1) is substituted for 15:2002(<i>l</i>)(1)(A) to eliminate unnece
 In subsection (b)(2)(A) is substituted for 15:2002(<i>l</i>)(1)(C)(i)–(iii) to eliminate unnecessary words.
 
 In subsection (e), the words “as provided in this section for passenger automobiles” are substituted for “as provided for under paragraph (1)” for clarity. The text of 15:2002(<i>l</i>)(2) (last sentence) is omitted as expired.
+
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 110–140, §104(a)(1), substituted “subsections (a) through (d) of section 32902” for “section 32902(b)–(d) of this title” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 110–140, §104(a)(2), substituted “paragraph (1)” for “clause (1) of this subsection,” and “5 consecutive” for “3 consecutive”.
+
+Subsecs. (b)(2)(B), (c)(1). Pub. L. 110–140, §104(a)(1), substituted “subsections (a) through (d) of section 32902” for “section 32902(b)–(d) of this title”.
+
+Subsecs. (f) to (h). Pub. L. 110–140, §104(a)(3), (4), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

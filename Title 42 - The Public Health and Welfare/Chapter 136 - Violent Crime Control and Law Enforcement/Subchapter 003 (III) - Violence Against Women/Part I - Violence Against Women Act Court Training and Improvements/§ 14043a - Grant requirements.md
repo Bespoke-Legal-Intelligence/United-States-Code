@@ -8,7 +8,7 @@ Grants awarded under this part shall be subject to the following conditions:
 
 &emsp;&emsp;(A) Federal, State, tribal, territorial, or local courts or court-based programs; and
 
-&emsp;&emsp;(B) national, State, tribal, territorial, or local private, nonprofit organizations with demonstrated expertise in developing and providing judicial education about domestic violence, dating violence, sexual assault, or stalking.
+&emsp;&emsp;(B) national, State, tribal, territorial, or local private, nonprofit organizations withdemonstrated expertise in developing and providing judicial education about domestic violence, dating violence, sexual assault, or stalking.
 
 #### (2) Conditions of eligibility
 

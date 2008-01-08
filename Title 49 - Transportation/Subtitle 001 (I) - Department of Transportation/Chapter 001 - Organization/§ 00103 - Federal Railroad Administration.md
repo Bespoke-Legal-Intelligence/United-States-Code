@@ -1,6 +1,6 @@
 ### §103. Federal Railroad Administration
 
-(a) The Federal Railroad Administration is an administration in the Department of Transportation. To carry out all railroad safety laws of the United States, the Administration is divided on a geographical basis into at least 8 safety offices. The Secretary of Transportation is responsible for all acts taken under those laws and forensuring that the laws are uniformly administered and enforced among the safety offices.
+(a) The Federal Railroad Administration is an administration in the Department of Transportation. To carry out all railroad safety laws of the United States, the Administration is divided on a geographical basis into at least 8 safety offices. The Secretary of Transportation is responsible for all acts taken under those laws and for ensuring that the laws are uniformly administered and enforced among the safety offices.
 
 (b) The head of the Administration is the Administrator who is appointed by the President, by and with the advice and consent of the Senate. The Administrator reports directly to the Secretary.
 

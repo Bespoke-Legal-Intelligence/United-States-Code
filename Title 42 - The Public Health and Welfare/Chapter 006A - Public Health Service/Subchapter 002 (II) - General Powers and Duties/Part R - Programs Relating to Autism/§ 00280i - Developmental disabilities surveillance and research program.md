@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants or cooperative agreements to eligible entities for the collection, analysis, and reporting of State epidemiological data on autism spectrum disorder and other developmental disabilities. An eligible entity shall assist with the development andcoordination of State autism spectrum disorder and other developmental disability surveillance efforts within a region. In making such awards, the Secretary may provide direct technical assistance in lieu of cash.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants or cooperative agreements to eligible entities for the collection, analysis, and reporting of State epidemiological data on autism spectrum disorder and other developmental disabilities. An eligible entity shall assist with the development and coordination of State autism spectrum disorder and other developmental disability surveillance efforts within a region. In making such awards, the Secretary may provide direct technical assistance in lieu of cash.
 
 #### (2) Data standards
 

@@ -22,7 +22,7 @@ For purposes of this subpart, the term “United States person” has the meanin
 
 &emsp;(2) with respect to a corporation organized under the laws of Guam, American Samoa, or the Northern Mariana Islands—
 
-&emsp;&emsp;(A) 80 percent or more of the gross income of which for the 3-year period ending at the close of the taxable year (or for such part ofsuch period as such corporation or any predecessor has been in existence) was derived from sources within such a possession or was effectively connected with the conduct of a trade or business in such a possession, and
+&emsp;&emsp;(A) 80 percent or more of the gross income of which for the 3-year period ending at the close of the taxable year (or for such part of such period as such corporation or any predecessor has been in existence) was derived from sources within such a possession or was effectively connected with the conduct of a trade or business in such a possession, and
 
 &emsp;&emsp;(B) 50 percent or more of the gross income of which for such period (or part) was derived from the active conduct of a trade or business within such a possession,
 
@@ -30,7 +30,7 @@ For purposes of this subpart, the term “United States person” has the meanin
 
 > For purposes of subparagraphs (A) and (B) of paragraph (2), the determination as to whether income was derived from the active conduct of a trade or business within a possession shall be made under regulations prescribed by the Secretary.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1017; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XII, §§1221(b)(3)(C), 1222(a), 1224(a), 1273(a), Oct. 22, 1986, 100 Stat. 2553, 2556, 2558, 2595; Pub. L. 108–357, title VIII, §908(c)(5), Oct. 22, 2004, 118 Stat. 1656.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1017; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XII, §§1221(b)(3)(C), 1222(a), 1224(a),1273(a), Oct. 22, 1986, 100 Stat. 2553, 2556, 2558, 2595; Pub. L. 108–357, title VIII, §908(c)(5), Oct. 22, 2004, 118 Stat. 1656.)
 
 #### References in Text
 

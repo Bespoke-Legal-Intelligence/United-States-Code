@@ -16,7 +16,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 #### (2) Controlled corporation
 
-&emsp;For purposes of paragraph (1), a corporation shall be treated as a controlled corporation if, at any time after the transfer of the property and during the 3-year period ending on the date of the decedent's death, the decedent owned (with the application of section 318), or had the right (either alone or in conjunction with any person) to vote, stock possessing at least 20 percent of the total combined voting power of all classes of stock.
+&emsp;For purposes of paragraph (1), a corporation shall be treated as a controlled corporation if,at any time after the transfer of the property and during the 3-year period ending on the date of the decedent's death, the decedent owned (with the application of section 318), or had the right (either alone or in conjunction with any person) to vote, stock possessing at least 20 percent of the total combined voting power of all classes of stock.
 
 #### (3) Coordination with section 2035
 
@@ -86,7 +86,7 @@ Correction period.—If section 2036(c)(1) of the 1986 Code would (but for this 
 
 “(5)
 
-Clarification of effective date.—For purposes of section 10402(b) of the Revenue Act of 1987 \[Pub. L.100–203, set out as an Effective Date of 1987 Amendment note below\], with respect to property transferred on or before December 17, 1987—
+Clarification of effective date.—For purposes of section 10402(b) of the Revenue Act of 1987 \[Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note below\], with respect to property transferred on or before December 17, 1987—
 
 &emsp;“(A) any failure to exercise a right of conversion,
 
@@ -106,7 +106,7 @@ Section 702(i)(3) of Pub. L. 95–600 provided that: “The amendments made by t
 
 #### Effective Date of 1976 Amendment
 
-Section 2009(e)(1) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transfers made after June 22, 1976.”
+Section 2009(e)(1) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amendingthis section\] shall apply to transfers made after June 22, 1976.”
 
 #### Effective Date of 1962 Amendment
 

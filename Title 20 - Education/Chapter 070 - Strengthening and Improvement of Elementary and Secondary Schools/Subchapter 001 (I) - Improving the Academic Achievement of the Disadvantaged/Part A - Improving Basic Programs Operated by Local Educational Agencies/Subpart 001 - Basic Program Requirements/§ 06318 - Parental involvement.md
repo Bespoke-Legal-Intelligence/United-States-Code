@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;Each school served under this part shall jointly develop with, and distribute to, parents of participating children a written parental involvement policy, agreed on by such parents, that shall describe the means for carrying outthe requirements of subsections (c) through (f) of this section. Parents shall be notified of the policy in an understandable and uniform format and, to the extent practicable, provided in a language the parents can understand. Such policy shall be made available to the local community and updated periodically to meet the changing needs of parents and the school.
+&emsp;Each school served under this part shall jointly develop with, and distribute to, parents of participating children a written parental involvement policy, agreed on by such parents, that shall describe the means for carrying out the requirements of subsections (c) through (f) of this section. Parents shall be notified of the policy in an understandable and uniform format and, to the extent practicable, provided in a language the parents can understand. Such policy shall be made available to the local community and updated periodically to meet the changing needs of parents and the school.
 
 #### (2) Special rule
 

@@ -81,12 +81,15 @@
 | 61f–9. | Employment of personnel by Sergeant at Arms and Doorkeeper of Senate at daily rates of compensation; authorization; limitation on amount of compensation. |
 | 61f–10. | Procurement of temporary help. |
 | 61f–11. | Provision of services and equipment on a reimbursable basis. |
+| 61f–12. | Treatment of electronic services provided by Sergeant at Arms. |
+| 61f–13. | Media support services. |
 | [61g.](%C2%A7%2000061g%20-%20Compensation%20of%20Secretaries%20for%20Senate%20Majority%20and%20Minority.md) | Compensation of Secretaries for Senate Majority and Minority. |
 | 61g–1 to 61g–3. Omitted. |  |
 | 61g–4. | Appointment and compensation of employees by Secretary of Conference of Majority of Senate and Secretary of Conference of Minority of Senate. |
 | 61g–5. | Appointment and compensation of employees by Secretaries for Senate Majority and Minority; gross compensation. |
 | 61g–6. | Payment of expenses of Conference of Majority and Conference of Minority from Senate contingent fund. |
 | 61g–6a. | Salaries and expenses for Senate Majority and Minority Policy Committees and Senate Majority and Minority Conference Committees. |
+| 61g–6b. | Offices of the Secretaries of the Conference of the Majority and the Conference of the Minority. |
 | 61g–7. | Services of consultants to Majority and Minority Conference Committee of Senate. |
 | 61g–8. | Utilization of funds for specialized training of professional staff for Majority and Minority Conference Committee of Senate. |
 | 61h to 61h–3. Omitted. |  |
@@ -144,6 +147,8 @@
 | 72a–1e. | Assistance to Senators with committee memberships by employees in office of Senator. |
 | 72a–1f. | Designation by Senator who is Chairman or Vice Chairman of Senate Select Committee on Ethics of employee in office of that Senator to perform part-time service for Committee; amount reimbursable; procedure applicable. |
 | 72a–1g. | Referral of ethics violations by Senate Ethics Committee to Government Accountability Office for investigation. |
+| 72a–1h. | Mandatory Senate ethics training for Members and staff. |
+| 72a–1i. | Annual report by Select Committee on Ethics. |
 | 72a–2 to 72a–4. Omitted or Repealed. |  |
 | [72b.](%C2%A7%2000072b%20-%20Regulations%20governing%20availability%20of%20appropriations%20for%20House%20committee%20employees.md) | Regulations governing availability of appropriations for House committee employees. |
 | 72b–1, 72c. Omitted or Repealed. |  |
@@ -171,8 +176,7 @@
 | [74d.](%C2%A7%2000074d%20-%20Corrections%20Calendar%20Office.md) | Corrections Calendar Office. |
 | 74d–1. | Lump sum allowance for Corrections Calendar Office. |
 | 74d–2. | Effective date. |
-| 75, 75–1. | Repealed. |
-| [75a.](%C2%A7%2000075a%20-%20Death%2C%20resignation%2C%20etc.%2C%20of%20Chief%20Administrative%20Officer%20of%20House%3B%20accounts%20and%20payments%3B%20liability%20of%20Chief%20Administrative%20Officer%20for%E2%80%A6.md) | Death, resignation, etc., of Chief Administrative Officer of House; accounts and payments; liability of Chief Administrative Officer for acts and defaults of disbursing clerk. |
+| 75 to 75a. Repealed. |  |
 | 75a–1. | Temporary appointments in case of vacancies or incapacity of House officers; compensation. |
 | 75b to 75e. Omitted. |  |
 | [75f.](%C2%A7%2000075f%20-%20House%20emergency%20operations%20positions.md) | House emergency operations positions. |
@@ -229,6 +233,10 @@
 | [104a.](%C2%A7%2000104a%20-%20Semiannual%20statements%20of%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md) | Semiannual statements of expenditures by Secretary of Senate and Chief Administrative Officer of House. |
 | [104b.](%C2%A7%2000104b%20-%20Report%20of%20disbursements%20for%20House%20of%20Representatives.md) | Report of disbursements for House of Representatives. |
 | [104c.](%C2%A7%2000104c%20-%20Preservation%20of%20reports%2C%20statements%2C%20or%20documents%20filed%20with%20Clerk%20of%20House.md) | Preservation of reports, statements, or documents filed with Clerk of House. |
+| [104d.](%C2%A7%2000104d%20-%20Notification%20of%20post-employment%20restrictions%20for%20Members%20of%20Congress%20and%20employees.md) | Notification of post-employment restrictions for Members of Congress and employees. |
+| [104e.](%C2%A7%2000104e%20-%20Posting%20of%20travel%20and%20financial%20disclosure%20reports%20on%20public%20website%20of%20Clerk%20of%20the%20House%20of%20Representatives.md) | Posting of travel and financial disclosure reports on public website of Clerk of the House of Representatives. |
+| [104f.](%C2%A7%2000104f%20-%20Notification%20of%20post-employment%20restrictions%20for%20Senators%20and%20employees.md) | Notification of post-employment restrictions for Senators and employees. |
+| [104g.](%C2%A7%2000104g%20-%20Senate%20privately%20paid%20travel%20public%20website.md) | Senate privately paid travel public website. |
 | [105\.](%C2%A7%2000105%20-%20Preparation%20and%20contents%20of%20statement%20of%20appropriations.md) | Preparation and contents of statement of appropriations. |
 | [106\.](%C2%A7%2000106%20-%20Stationery%20for%20Senate%3B%20advertisements%20for.md) | Stationery for Senate; advertisements for. |
 | [107\.](%C2%A7%2000107%20-%20Opening%20bids%20for%20Senate%20and%20House%20stationery%3B%20awarding%20contracts.md) | Opening bids for Senate and House stationery; awarding contracts. |
@@ -310,6 +318,7 @@
 | [130i.](%C2%A7%2000130i%20-%20House%20of%20Representatives%20Office%20of%20Emergency%20Planning%2C%20Preparedness%2C%20and%20Operations.md) | House of Representatives Office of Emergency Planning, Preparedness, and Operations. |
 | [130j.](%C2%A7%2000130j%20-%20Program%20to%20increase%20employment%20opportunities%20in%20House%20of%20Representatives%20for%20individuals%20with%20disabilities.md) | Program to increase employment opportunities in House of Representatives for individuals with disabilities. |
 | [130k.](%C2%A7%2000130k%20-%20Emergency%20expenditures%20for%20meals%2C%20refreshments%2C%20and%20other%20support%20and%20maintenance.md) | Emergency expenditures for meals, refreshments, and other support and maintenance. |
+| 130<i>l</i>. | Media support services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -404,12 +413,15 @@
 - [&sect; 00061f&#8211;9 - Employment of personnel by Sergeant at Arms and Doorkeeper of Senate at daily rates of compensation; authorization; limitation on&#8230;](%C2%A7%2000061f%E2%80%939%20-%20Employment%20of%20personnel%20by%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%20at%20daily%20rates%20of%20compensation%3B%20authorization%3B%20limitation%20on%E2%80%A6.md)
 - [&sect; 00061f&#8211;10 - Procurement of temporary help](%C2%A7%2000061f%E2%80%9310%20-%20Procurement%20of%20temporary%20help.md)
 - [&sect; 00061f&#8211;11 - Provision of services and equipment on a reimbursable basis](%C2%A7%2000061f%E2%80%9311%20-%20Provision%20of%20services%20and%20equipment%20on%20a%20reimbursable%20basis.md)
+- [&sect; 00061f&#8211;12 - Treatment of electronic services provided by Sergeant at Arms](%C2%A7%2000061f%E2%80%9312%20-%20Treatment%20of%20electronic%20services%20provided%20by%20Sergeant%20at%20Arms.md)
+- [&sect; 00061f&#8211;13 - Media support services](%C2%A7%2000061f%E2%80%9313%20-%20Media%20support%20services.md)
 - [&sect; 00061g - Compensation of Secretaries for Senate Majority and Minority](%C2%A7%2000061g%20-%20Compensation%20of%20Secretaries%20for%20Senate%20Majority%20and%20Minority.md)
 - [&sect; 00061g&#8211;1 to 61g&#8211;3 - Omitted](%C2%A7%2000061g%E2%80%931%20to%2061g%E2%80%933%20-%20Omitted.md)
 - [&sect; 00061g&#8211;4 - Appointment and compensation of employees by Secretary of Conference of Majority of Senate and Secretary of Conference of Minority of&#8230;](%C2%A7%2000061g%E2%80%934%20-%20Appointment%20and%20compensation%20of%20employees%20by%20Secretary%20of%20Conference%20of%20Majority%20of%20Senate%20and%20Secretary%20of%20Conference%20of%20Minority%20of%E2%80%A6.md)
 - [&sect; 00061g&#8211;5 - Appointment and compensation of employees by Secretaries for Senate Majority and Minority; gross compensation](%C2%A7%2000061g%E2%80%935%20-%20Appointment%20and%20compensation%20of%20employees%20by%20Secretaries%20for%20Senate%20Majority%20and%20Minority%3B%20gross%20compensation.md)
 - [&sect; 00061g&#8211;6 - Payment of expenses of Conference of Majority and Conference of Minority from Senate contingent fund](%C2%A7%2000061g%E2%80%936%20-%20Payment%20of%20expenses%20of%20Conference%20of%20Majority%20and%20Conference%20of%20Minority%20from%20Senate%20contingent%20fund.md)
 - [&sect; 00061g&#8211;6a - Salaries and expenses for Senate Majority and Minority Policy Committees and Senate Majority and Minority Conference Committees](%C2%A7%2000061g%E2%80%936a%20-%20Salaries%20and%20expenses%20for%20Senate%20Majority%20and%20Minority%20Policy%20Committees%20and%20Senate%20Majority%20and%20Minority%20Conference%20Committees.md)
+- [&sect; 00061g&#8211;6b - Offices of the Secretaries of the Conference of the Majority and the Conference of the Minority](%C2%A7%2000061g%E2%80%936b%20-%20Offices%20of%20the%20Secretaries%20of%20the%20Conference%20of%20the%20Majority%20and%20the%20Conference%20of%20the%20Minority.md)
 - [&sect; 00061g&#8211;7 - Services of consultants to Majority and Minority Conference Committee of Senate](%C2%A7%2000061g%E2%80%937%20-%20Services%20of%20consultants%20to%20Majority%20and%20Minority%20Conference%20Committee%20of%20Senate.md)
 - [&sect; 00061g&#8211;8 - Utilization of funds for specialized training of professional staff for Majority and Minority Conference Committee of Senate](%C2%A7%2000061g%E2%80%938%20-%20Utilization%20of%20funds%20for%20specialized%20training%20of%20professional%20staff%20for%20Majority%20and%20Minority%20Conference%20Committee%20of%20Senate.md)
 - [&sect; 00061h, 61h&#8211;1 - Omitted](%C2%A7%2000061h%2C%2061h%E2%80%931%20-%20Omitted.md)
@@ -472,6 +484,8 @@
 - [&sect; 00072a&#8211;1e - Assistance to Senators with committee memberships by employees in office of Senator](%C2%A7%2000072a%E2%80%931e%20-%20Assistance%20to%20Senators%20with%20committee%20memberships%20by%20employees%20in%20office%20of%20Senator.md)
 - [&sect; 00072a&#8211;1f - Designation by Senator who is Chairman or Vice Chairman of Senate Select Committee on Ethics of employee in office of that Senator&#8230;](%C2%A7%2000072a%E2%80%931f%20-%20Designation%20by%20Senator%20who%20is%20Chairman%20or%20Vice%20Chairman%20of%20Senate%20Select%20Committee%20on%20Ethics%20of%20employee%20in%20office%20of%20that%20Senator%E2%80%A6.md)
 - [&sect; 00072a&#8211;1g - Referral of ethics violations by Senate Ethics Committee to Government Accountability Office for investigation](%C2%A7%2000072a%E2%80%931g%20-%20Referral%20of%20ethics%20violations%20by%20Senate%20Ethics%20Committee%20to%20Government%20Accountability%20Office%20for%20investigation.md)
+- [&sect; 00072a&#8211;1h - Mandatory Senate ethics training for Members and staff](%C2%A7%2000072a%E2%80%931h%20-%20Mandatory%20Senate%20ethics%20training%20for%20Members%20and%20staff.md)
+- [&sect; 00072a&#8211;1i - Annual report by Select Committee on Ethics](%C2%A7%2000072a%E2%80%931i%20-%20Annual%20report%20by%20Select%20Committee%20on%20Ethics.md)
 - [&sect; 00072a&#8211;2, 72a&#8211;3 - Omitted](%C2%A7%2000072a%E2%80%932%2C%2072a%E2%80%933%20-%20Omitted.md)
 - [&sect; 00072a&#8211;4 - Repealed. Pub. L. 90&#8211;57, &sect;105(i)(1), July 28, 1967, 81 Stat. 144](%C2%A7%2000072a%E2%80%934%20-%20Repealed.%20Pub.%20L.%2090%E2%80%9357%2C%20%C2%A7105%28i%29%281%29%2C%20July%2028%2C%201967%2C%2081%20Stat.%20144.md)
 - [&sect; 00072b - Regulations governing availability of appropriations for House committee employees](%C2%A7%2000072b%20-%20Regulations%20governing%20availability%20of%20appropriations%20for%20House%20committee%20employees.md)
@@ -503,7 +517,7 @@
 - [&sect; 00074d&#8211;2 - Effective date](%C2%A7%2000074d%E2%80%932%20-%20Effective%20date.md)
 - [&sect; 00075 - Repealed. Pub. L. 92&#8211;310, title II, &sect;220(b), (c), June 6, 1972, 86 Stat. 204](%C2%A7%2000075%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93310%2C%20title%20II%2C%20%C2%A7220%28b%29%2C%20%28c%29%2C%20June%206%2C%201972%2C%2086%20Stat.%20204.md)
 - [&sect; 00075&#8211;1 - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(22)(A)(iii), Aug. 20, 1996, 110 Stat. 1733](%C2%A7%2000075%E2%80%931%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2822%29%28A%29%28iii%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201733.md)
-- [&sect; 00075a - Death, resignation, etc., of Chief Administrative Officer of House; accounts and payments; liability of Chief Administrative Officer for&#8230;](%C2%A7%2000075a%20-%20Death%2C%20resignation%2C%20etc.%2C%20of%20Chief%20Administrative%20Officer%20of%20House%3B%20accounts%20and%20payments%3B%20liability%20of%20Chief%20Administrative%20Officer%20for%E2%80%A6.md)
+- [&sect; 00075a - Repealed. Pub. L. 109&#8211;289, div. B, title II, &sect;20702(b), as added Pub. L. 110&#8211;5, &sect;2, Feb. 15, 2007, 121 Stat. 38](%C2%A7%2000075a%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93289%2C%20div.%20B%2C%20title%20II%2C%20%C2%A720702%28b%29%2C%20as%20added%20Pub.%20L.%20110%E2%80%935%2C%20%C2%A72%2C%20Feb.%2015%2C%202007%2C%20121%20Stat.%2038.md)
 - [&sect; 00075a&#8211;1 - Temporary appointments in case of vacancies or incapacity of House officers; compensation](%C2%A7%2000075a%E2%80%931%20-%20Temporary%20appointments%20in%20case%20of%20vacancies%20or%20incapacity%20of%20House%20officers%3B%20compensation.md)
 - [&sect; 00075b to 75e - Omitted](%C2%A7%2000075b%20to%2075e%20-%20Omitted.md)
 - [&sect; 00075f - House emergency operations positions](%C2%A7%2000075f%20-%20House%20emergency%20operations%20positions.md)
@@ -568,6 +582,10 @@
 - [&sect; 00104a - Semiannual statements of expenditures by Secretary of Senate and Chief Administrative Officer of House](%C2%A7%2000104a%20-%20Semiannual%20statements%20of%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md)
 - [&sect; 00104b - Report of disbursements for House of Representatives](%C2%A7%2000104b%20-%20Report%20of%20disbursements%20for%20House%20of%20Representatives.md)
 - [&sect; 00104c - Preservation of reports, statements, or documents filed with Clerk of House](%C2%A7%2000104c%20-%20Preservation%20of%20reports%2C%20statements%2C%20or%20documents%20filed%20with%20Clerk%20of%20House.md)
+- [&sect; 00104d - Notification of post-employment restrictions for Members of Congress and employees](%C2%A7%2000104d%20-%20Notification%20of%20post-employment%20restrictions%20for%20Members%20of%20Congress%20and%20employees.md)
+- [&sect; 00104e - Posting of travel and financial disclosure reports on public website of Clerk of the House of Representatives](%C2%A7%2000104e%20-%20Posting%20of%20travel%20and%20financial%20disclosure%20reports%20on%20public%20website%20of%20Clerk%20of%20the%20House%20of%20Representatives.md)
+- [&sect; 00104f - Notification of post-employment restrictions for Senators and employees](%C2%A7%2000104f%20-%20Notification%20of%20post-employment%20restrictions%20for%20Senators%20and%20employees.md)
+- [&sect; 00104g - Senate privately paid travel public website](%C2%A7%2000104g%20-%20Senate%20privately%20paid%20travel%20public%20website.md)
 - [&sect; 00105 - Preparation and contents of statement of appropriations](%C2%A7%2000105%20-%20Preparation%20and%20contents%20of%20statement%20of%20appropriations.md)
 - [&sect; 00106 - Stationery for Senate; advertisements for](%C2%A7%2000106%20-%20Stationery%20for%20Senate%3B%20advertisements%20for.md)
 - [&sect; 00107 - Opening bids for Senate and House stationery; awarding contracts](%C2%A7%2000107%20-%20Opening%20bids%20for%20Senate%20and%20House%20stationery%3B%20awarding%20contracts.md)
@@ -656,3 +674,4 @@
 - [&sect; 00130i - House of Representatives Office of Emergency Planning, Preparedness, and Operations](%C2%A7%2000130i%20-%20House%20of%20Representatives%20Office%20of%20Emergency%20Planning%2C%20Preparedness%2C%20and%20Operations.md)
 - [&sect; 00130j - Program to increase employment opportunities in House of Representatives for individuals with disabilities](%C2%A7%2000130j%20-%20Program%20to%20increase%20employment%20opportunities%20in%20House%20of%20Representatives%20for%20individuals%20with%20disabilities.md)
 - [&sect; 00130k - Emergency expenditures for meals, refreshments, and other support and maintenance](%C2%A7%2000130k%20-%20Emergency%20expenditures%20for%20meals%2C%20refreshments%2C%20and%20other%20support%20and%20maintenance.md)
+- [&sect; 00130l - Media support services](%C2%A7%2000130l%20-%20Media%20support%20services.md)

@@ -36,7 +36,7 @@ The Director, after gathering appropriate information and after considering comm
 
 &emsp;(2) states what procedures will be used to ensure that predominantly undergraduate institutions and colleges and universities that historically have received little Federal research and development funding will receive substantial percentages of the funds awarded under sections 1862a to 1862d of this title;
 
-&emsp;(3) states the estimated percentage of Program funds available for each category of eligible institutions, including predominantly undergraduate institutions and colleges and universities that historically have received little Federal research and development funding as well as research universities; and
+&emsp;(3) states the estimated percentage of Program funds available for each category of eligible institutions, including predominantlyundergraduate institutions and colleges and universities that historically have received little Federal research and development funding as well as research universities; and
 
 &emsp;(4) evaluates and addresses, to the maximum extent possible, a variety of factors which include—
 
@@ -78,5 +78,5 @@ Section was enacted as part of the Academic Research Facilities Modernization Ac
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

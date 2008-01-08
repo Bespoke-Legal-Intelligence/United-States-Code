@@ -76,11 +76,11 @@ Report on certification.—Each certification under paragraph (1) shall include 
 
 &emsp;“(3)
 
-Submission deadline.—A certification and report with respect to any fiscal year after fiscal year 2007 shall be submitted at the same time the budget of the President for such fiscal year is submitted to Congress pursuant to section 1105(a) of title 31, United States Code.
+Submission deadline.—A certification and report with respect to any fiscal year after fiscal year 2007 shall be submitted at the same time the budgetof the President for such fiscal year is submitted to Congress pursuant to section 1105(a) of title 31, United States Code.
 
 “(b)
 
-Requirement for Comptroller General Review.—Not later than 120 days after the submission ofthe budget of the President for a fiscal year, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on any certifications and reports submitted with respect to that fiscal year under subsection (a).
+Requirement for Comptroller General Review.—Not later than 120 days after the submission of the budget of the President for a fiscal year, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on any certifications and reports submitted with respect to that fiscal year under subsection (a).
 
 “(c)
 
@@ -182,7 +182,7 @@ Report on study.—Not later than May 1, 2006, the Comptroller General shall sub
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘military medical or dental position’ means a position for the performance of health care functions within the Armed Forces held by a member of the Armed Forces.
+&emsp;“(1) The term ‘military medical or dental position’ means a position for the performance of health carefunctions within the Armed Forces held by a member of the Armed Forces.
 
 &emsp;“(2) The term ‘civilian medical or dental position’ means a position for the performance of health care functions within the Department of Defense held by an employee of the Department or of a contractor of the Department.
 

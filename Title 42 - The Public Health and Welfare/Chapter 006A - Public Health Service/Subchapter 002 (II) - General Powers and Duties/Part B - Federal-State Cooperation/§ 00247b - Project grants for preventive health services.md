@@ -72,7 +72,7 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 #### (j) Authorization of appropriations
 
-(1) Except for grants for immunization programs the authorization of appropriations for which are established in paragraph (2), for grants under subsections (a) and (k)(1) of thissection for preventive health service programs to immunize without charge children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1998 through 2005. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(1) of this section for such fiscal year.
+(1) Except for grants for immunization programs the authorization of appropriations for which are established in paragraph (2), for grants under subsections (a) and (k)(1) of this section for preventive health service programs to immunize without charge children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1998 through 2005. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(1) of this section for such fiscal year.
 
 (2) For grants under subsection (a) of this section for preventive health service programs for the provision without charge of immunizations with vaccines approved for use, and recommended for routine use, after October 1, 1997, there are authorized to be appropriated such sums as may be necessary.
 
@@ -132,7 +132,7 @@ Subsec. (k)(2). Pub. L. 103–183, §301(b)(2)(A), (B), redesignated par. (3) as
 
 Subsec. (k)(3). Pub. L. 103–183, §301(b)(2)(B), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Subsec. (k)(4), (5). Pub. L. 103–183, §301(b)(2)(B), (C), redesignated par. (5) as (4) and made technical amendments to references to subsections (d), (e), and (f) of this section and subsection (a) of this section, to reflectchange in references to corresponding provisions of original act. Former par. (4) redesignated (3).
+Subsec. (k)(4), (5). Pub. L. 103–183, §301(b)(2)(B), (C), redesignated par. (5) as (4) and made technical amendments to references to subsections (d), (e), and (f) of this section and subsection (a) of this section, to reflect change in references to corresponding provisions of original act. Former par. (4) redesignated (3).
 
 Subsec. (<i>l</i>). Pub. L. 103–183, §301(b)(3), struck out subsec. (<i>l</i>) which related to establishment and function of Advisory Council for the Elimination of Tuberculosis.
 
@@ -142,7 +142,7 @@ Subsec. (j)(1)(B). Pub. L. 101–502, §2(a)(2), substituted Oct. 1, 1990, for D
 
 Subsec. (j)(1)(C). Pub. L. 101–502, §2(a)(3), struck out subpar. (C) which, on the implementation of part 2 of subchapter XIX of this chapter, authorized appropriations for grants under subsec. (a) of this section for fiscal years 1988 to 1990.
 
-Subsec. (j)(2). Pub. L. 101–368, §2(c), inserted provisions authorizing appropriations of $36,000,000 for fiscal year 1991, and such sums as may be necessary for fiscal years 1992 through 1995.
+Subsec. (j)(2). Pub. L. 101–368, §2(c), inserted provisions authorizing appropriations of $36,000,000 for fiscalyear 1991, and such sums as may be necessary for fiscal years 1992 through 1995.
 
 Pub. L. 101–368, §2(a)(1), substituted “preventive health service programs for the prevention, control, and elimination of tuberculosis” for “preventive health service programs for tuberculosis”.
 
@@ -206,7 +206,7 @@ Subsec. (h). Pub. L. 92–449 redesignated former subsec. (b) as (h), substitute
 
 Subsec. (i). Pub. L. 92–449 redesignated former subsec. (e) as (i), inserted reference to agency of a State, and substituted “under provisions of Federal law (other than this chapter)” for “under other provisions of this chapter or other Federal law”.
 
-1970—Subsec. (a). Pub. L. 91–464 authorized appropriation of $75,000,000 for fiscal year ending June 30, 1971, and $90,000,000 for fiscal year ending June 30, 1972, and made award of grants dependent upon extent of communicable disease and success of programs and permitted use of grants for meeting cost of programs and studies to control communicable diseases and struck out reference to purchase of vaccines and use of grants for salaries and expenses of personnel and to authority of the Surgeon General.
+1970—Subsec. (a). Pub. L. 91–464 authorized appropriation of $75,000,000 for fiscal year ending June 30, 1971, and $90,000,000 for fiscal year ending June 30, 1972, and made award of grants dependent upon extent of communicable disease and success of programs and permitted use of grants for meeting cost of programs andstudies to control communicable diseases and struck out reference to purchase of vaccines and use of grants for salaries and expenses of personnel and to authority of the Surgeon General.
 
 Subsec. (b). Pub. L. 91–464 substituted definitions of “communicable disease control program” and “State” for definition of “immunization program”.
 

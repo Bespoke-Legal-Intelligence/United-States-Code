@@ -2,7 +2,7 @@
 
 #### (a) Bond; charges against bond
 
-Any plant engaged in smelting or refining, or both, of metal-bearing materials as defined in this section may, upon the giving of satisfactorybond, be designated a bonded smelting or refining warehouse. Metal-bearing materials may be entered into a bonded smelting or refining warehouse without the payment of duties thereon and there smelted or refined, or both, together with metal-bearing materials of domestic or foreign origin. Upon arrival of imported metal-bearing materials at the warehouse they shall be sampled according to commercial methods and assayed, both under customs supervision. The bond shall be charged with a sum equal in amount to the duties which would be payable on such metal-bearing materials in their condition as imported if entered for consumption, and the bond charge shall be adjusted to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond.
+Any plant engaged in smelting or refining, or both, of metal-bearing materials as defined in this section may, upon the giving of satisfactory bond, be designated a bonded smelting or refining warehouse. Metal-bearing materials may be entered into a bonded smelting or refining warehouse without the payment of duties thereon and there smelted or refined, or both, together with metal-bearing materials of domestic or foreign origin. Upon arrival of imported metal-bearing materials at the warehouse they shall be sampled according to commercial methods and assayed, both under customs supervision. The bond shall be charged with a sum equal in amount to the duties which would be payable on such metal-bearing materials in their condition as imported if entered for consumption, and the bond charge shall be adjusted to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond.
 
 #### (b) Cancellation of charges against bond
 
@@ -32,7 +32,7 @@ The several charges against such bond may be canceled in whole or in part—
 
 &emsp;(4) upon the transfer of the bond charges to a bonded customs warehouse other than a bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section, and upon withdrawal from such other warehouse for exportation or domestic consumption the provisions of this section shall apply; except that—
 
-&emsp;&emsp;(A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+&emsp;&emsp;(A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to theNAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
 
 &emsp;&emsp;&emsp;(i) the total amount of customs duties owed on the materials on importation into the United States, or
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) for the treatment of unwrought metal or metal waste and scrap to remove impurities or undesired components; and
 
-&emsp;(3) the term “product of smelting or refining” means metals or metal-bearing materialsresulting directly from smelting or refining processes, but does not include metal-bearing ores of chapter 26 of the Harmonized Tariff Schedule of the United States.
+&emsp;(3) the term “product of smelting or refining” means metals or metal-bearing materials resulting directly from smelting or refining processes, but does not include metal-bearing ores of chapter 26 of the Harmonized Tariff Schedule of the United States.
 
 #### (g) Supervision and cost of labor under this section
 
@@ -140,7 +140,7 @@ Subsec. (b)(4). Pub. L. 108–77, §§107(c), 203(b)(2)(B), temporarily substitu
 
 > See Effective and Termination Dates of 2003 Amendment note below.
 
-Subsec. (d). Pub. L. 108–77, §§107(c), 203(b)(2)(C), temporarily substituted “except that—” and pars. (1) and (2) for “except that in the case of a withdrawal for exportation to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, charges against the bond shall be paid before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the bond shall be credited (subject to section 1508(b)(2)(B) of this title) in an amount not to exceed the lesser of—
+Subsec. (d). Pub. L. 108–77, §§107(c), 203(b)(2)(C), temporarily substituted “except that—” and pars. (1) and (2) for “except that in the case of a withdrawal for exportation to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, asdefined in section 3333(a) of this title, charges against the bond shall be paid before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the bond shall be credited (subject to section 1508(b)(2)(B) of this title) in an amount not to exceed the lesser of—
 
 &emsp;“(1) the total amount of customs duties paid or owed on the materials on importation into the United States, or
 

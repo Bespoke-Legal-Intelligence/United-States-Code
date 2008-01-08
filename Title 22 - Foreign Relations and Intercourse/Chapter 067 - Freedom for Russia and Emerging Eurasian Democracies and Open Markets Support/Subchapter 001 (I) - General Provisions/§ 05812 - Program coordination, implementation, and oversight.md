@@ -144,7 +144,7 @@ Clearinghouse.—A clearinghouse shall be established or designated in each prog
 
 #### “SEC. 425. RESTRICTIONS NOT APPLICABLE.
 
-“Prohibitions on the use of foreign assistance funds for assistance for the Russian Federation or for Ukraine shall not apply with respect to the funds made available to carry out this subtitle.
+“Prohibitions on the use of foreign assistance funds for assistance for the Russian Federation or forUkraine shall not apply with respect to the funds made available to carry out this subtitle.
 
 #### “SEC. 426. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -210,7 +210,7 @@ Section 1007 of Pub. L. 102–511 directed Secretary of the Treasury, using info
 
 #### Ex. Ord. No. 12884. Delegation of Functions Under Freedom Support Act and Related Provisions of Foreign Operations, Export Financing and Related Programs Appropriations Act
 
-Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended by Ex. Ord. No. 13030, §3, Dec. 12, 1996, 61 F.R.66187; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §10(1), Mar. 31, 1999, 64 F.R. 16598, provided:
+Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended by Ex. Ord. No. 13030, §3, Dec. 12, 1996, 61 F.R. 66187; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §10(1), Mar. 31, 1999, 64 F.R. 16598, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the FREEDOM Support Act (Public Law 102–511) (the “Act”) \[22 U.S.C. 5801 et seq.\], the Foreign Assistance Act of 1961, as amended (the “Foreign Assistance Act”) \[22 U.S.C. 2151 et seq.\], the Foreign Operations, Export Financing and Related Programs Appropriations Act, 1993 (Public Law 102–391) \[see Tables for classification\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 

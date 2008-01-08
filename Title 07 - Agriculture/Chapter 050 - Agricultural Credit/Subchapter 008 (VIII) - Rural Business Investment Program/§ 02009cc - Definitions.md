@@ -96,7 +96,7 @@ In this subchapter:
 
 &emsp;The term “qualified nonprivate funds” means any—
 
-&emsp;&emsp;(A) funds directly or indirectly invested in any applicant or rural business investment company on or before May 13, 2002, by any Federal agency, other than the Department of Agriculture, under a provision of law explicitly mandating the inclusion of those funds in the definition of the term “private capital”; and
+&emsp;&emsp;(A) funds directly or indirectly invested in any applicant or rural business investmentcompany on or before May 13, 2002, by any Federal agency, other than the Department of Agriculture, under a provision of law explicitly mandating the inclusion of those funds in the definition of the term “private capital”; and
 
 &emsp;&emsp;(B) funds invested in any applicant or rural business investment company by 1 or more entities of any State (including by a political subdivision, agency, or instrumentality of the State and including any guarantee extended by those entities) in an aggregate amount that does not exceed 33 percent of the private capital of the applicant or rural business investment company.
 

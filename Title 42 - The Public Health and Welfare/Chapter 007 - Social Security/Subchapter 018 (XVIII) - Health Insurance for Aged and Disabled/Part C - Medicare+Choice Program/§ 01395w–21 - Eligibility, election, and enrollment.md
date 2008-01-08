@@ -136,7 +136,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (andprospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
+&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (and prospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
 
 #### (2) Provision of notice
 
@@ -324,7 +324,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On any date during 2007 or 2008 on which a Medicare Advantage eligible individual is an unenrolled fee-for-service individual (as defined in clause (ii)), the individual may elect under subsection (a)(1) to enroll in a Medicare Advantage plan that is not an MA–PD plan.
+&emsp;&emsp;&emsp;On any date during the period beginning on January 1, 2007, and ending on July 31, 2007, on which a Medicare Advantage eligible individual is an unenrolled fee-for-service individual (as defined in clause (ii)), the individual may elect under subsection (a)(1) to enroll in a Medicare Advantage plan that is not an MA–PD plan.
 
 #### (ii) Unenrolled fee-for-service individual defined
 
@@ -336,9 +336,9 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) as of such date is not otherwise eligible to elect to enroll in an MA plan.
 
-#### (iii) Limitation of one change during year
+#### (iii) Limitation of one change during the applicable period
 
-&emsp;&emsp;&emsp;An individual may exercise the right under clause (i) only once during the year.
+&emsp;&emsp;&emsp;An individual may exercise the right under clause (i) only once during the period described in such clause.
 
 #### (iv) No effect on coverage under a prescription drug plan
 
@@ -406,7 +406,7 @@
 
 &emsp;&emsp;(B) subject to subparagraph (C), may not discontinue an election of an MSA plan except during the periods described in clause (ii) or (iii) of subparagraph (A) and under the first sentence of paragraph (4); and
 
-&emsp;&emsp;(C) who elects an MSA plan during an annual, coordinated election period, and who never previously had elected such a plan, may revoke such election, in a manner determined by the Secretary, by not later than December 15 following the date of the election.
+&emsp;&emsp;(C) who elects an MSA plan during an annual, coordinated election period, and whonever previously had elected such a plan, may revoke such election, in a manner determined by the Secretary, by not later than December 15 following the date of the election.
 
 #### (6) Open enrollment periods
 
@@ -520,7 +520,7 @@
 
 &emsp;Subject to sections 1395w–23(a)(4), 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395w–27a(h), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244.)
 
 #### References in Text
 
@@ -529,6 +529,10 @@ Parts A and B of this subchapter, referred to in text, are classified to section
 Part D of this subchapter, referred to in subsec. (e)(2)(C)(iii), (E)(iv)(I), is classified to section 1395w–101 et seq. of this title.
 
 #### Amendments
+
+2007—Subsec. (e)(2)(E)(i). Pub. L. 110–48, §2(1), substituted “the period beginning on January 1, 2007, and ending on July 31, 2007,” for “2007 or 2008”.
+
+Subsec. (e)(2)(E)(iii). Pub. L. 110–48, §2(2), substituted “the applicable period” for “year” in heading and “the period described in such clause” for “the year” in text.
 
 2006—Subsec. (e)(2)(E). Pub. L. 109–432 added subpar. (E).
 
@@ -578,7 +582,7 @@ Subsec. (e)(3)(B). Pub. L. 108–173, §102(a)(2), reenacted heading without cha
 
 Subsec. (e)(3)(C). Pub. L. 108–173, §102(a)(3)(A), inserted “and during the period described in subparagraph (B)(iii)” after “(beginning with 1999)”.
 
-Subsec. (e)(3)(D). Pub. L. 108–173, §102(a)(3)(B), in heading, substituted “campaigns” for “campaign in 1998” and, in text, inserted at end “During the period described in subparagraph (B)(iii), the Secretary shall provide for an educational and publicity campaign toinform MA eligible individuals about the availability of MA plans (including MA–PD plans) offered in different areas and the election process provided under this section.”
+Subsec. (e)(3)(D). Pub. L. 108–173, §102(a)(3)(B), in heading, substituted “campaigns” for “campaign in 1998” and, in text, inserted at end “During the period described in subparagraph (B)(iii), the Secretary shall provide for an educational and publicity campaign to inform MA eligible individuals about the availability of MA plans (including MA–PD plans) offered in different areas and the election process provided under this section.”
 
 Subsec. (e)(4). Pub. L. 108–173, §102(a)(1)(B), substituted “2006” for “2005” in two places.
 
@@ -670,7 +674,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 “(2)
 
-Application to prior plan terminations.—Clause (ii) of section 1851(a)(3)(B) of the Social Security Act \[subsection (a)(3)(B)(ii) of this section\] (as inserted by subsection (a)) shall also apply to individuals whoseenrollment in a Medicare+Choice plan was terminated or discontinued after December 31, 1998, and before the date of the enactment of this Act. In applying this paragraph, such an individual shall be treated, for purposes of part C of title XVIII of the Social Security Act \[this part\], as having discontinued enrollment in such a plan as of the date of the enactment of this Act.”
+Application to prior plan terminations.—Clause (ii) of section 1851(a)(3)(B) of the Social Security Act \[subsection (a)(3)(B)(ii) of this section\] (as inserted by subsection (a)) shall also apply to individuals whose enrollment in a Medicare+Choice plan was terminated or discontinued after December 31, 1998, and before the date of the enactment of this Act. In applying this paragraph, such an individual shall be treated, for purposes of part C of title XVIII of the Social Security Act \[this part\], as having discontinued enrollment in such a plan as of the date of the enactment of this Act.”
 
 #### Effective Date of 1999 Amendment
 
@@ -720,13 +724,21 @@ Pub. L. 108–173, title II, §211(h), Dec. 8, 2003, 117 Stat. 2179, directed th
 
 #### Moratorium on New Local Preferred Provider Organization Plans
 
-Pub. L. 108–173, title II, §221(a)(2), Dec. 8, 2003, 117 Stat. 2180, provided that: “The Secretary \[of Health and Human Services\] shall not permit the offering of a local preferred provider organization plan under part C of title XVIII of the Social Security Act \[this part\] during 2006 or 2007 in a service area unless such plan was offered under such part (including under a demonstration project under such part) in such area as of December 31, 2005.”
+Pub. L. 108–173, title II, §221(a)(2), Dec. 8, 2003, 117 Stat. 2180, directed the Secretary of Health and Human Services not to permit the offering of a local preferred provider organization plan under this part during 2006 or 2007 in a service area unless such plan was offered under this part (including under a demonstration project under this part) in such area as of Dec. 31, 2005.
 
-#### Authority To Designate Other Plans as Specialized MA Plans
+#### Specialized MA Plans
+
+Pub. L. 110–173, title I, §108(b), Dec. 29, 2007, 121 Stat. 2496, provided that:
+
+“(1)
+
+Authority to designate other plans as specialized ma plans.—During the period beginning on January 1, 2008, and ending on December 31, 2009, the Secretary of Health and Human Services shall not exercise the authority provided under section 231(d) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 \[Pub. L. 108–173\] (42 U.S.C. 1395w–21 note) to designate other plans as specialized MA plans for special needs individuals under part C of title XVIII of the Social Security Act \[this part\]. The preceding sentence shall not apply to plans designated as specialized MA plans for special needs individuals under such authority prior to January 1, 2008.
+
+“(2)
+
+Enrollment in new plans.—During the period beginning on January 1, 2008, and ending on December 31, 2009, the Secretary of Health and Human Services shall not permit enrollment of any individual residing in an area in a specialized Medicare Advantage plan for special needs individuals under part C of title XVIII of the Social Security Act to take effect unless that specialized Medicare Advantage plan for special needs individuals was available for enrollment for individuals residing in that area on January 1, 2008.”
 
 Pub. L. 108–173, title II, §231(d), Dec. 8, 2003, 117 Stat. 2208, provided that: “In promulgating regulations to carry out section 1851(a)(2)(A)(ii) of the Social Security Act \[subsec. (a)(2)(A)(ii) of this section\] (as added by subsection (a)) and section 1859(b)(6) of such Act \[section 1395w–28(b)(6) of this title\] (as added by subsection (b)), the Secretary \[of Health and Human Services\] may provide (notwithstanding section 1859(b)(6)(A) of such Act) for the offering of specialized MA plans for special needs individuals by MA plans that disproportionately serve special needs individuals.”
-
-#### Report on Impact of Specialized MA Plans for Special Needs Individuals
 
 Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: “Not later than December 31, 2007, the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact of specialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costs and savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\].”
 

@@ -8,17 +8,17 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (1) Dollar limitation
 
-&emsp;The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $25,000 ($100,000 in the case of taxable years beginning after 2002 and before 2010).
+&emsp;The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $25,000 ($125,000 in the case of taxable years beginning after 2006 and before 2011).
 
 #### (2) Reduction in limitation
 
-&emsp;The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $200,000 ($400,000 in the case of taxable years beginning after 2002 and before 2010).
+&emsp;The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $200,000 ($500,000 in the case of taxable years beginning after 2006 and before 2011).
 
 #### (3) Limitation based on income from trade or business
 
 #### (A) In general
 
-&emsp;&emsp;The amount allowed as a deduction under subsection (a) for any taxable year (determined after the application of paragraphs (1) and (2)) shall not exceed the aggregate amount of taxable income of the taxpayer for such taxable year which is derived fromthe active conduct by the taxpayer of any trade or business during such taxable year.
+&emsp;&emsp;The amount allowed as a deduction under subsection (a) for any taxable year (determined after the application of paragraphs (1) and (2)) shall not exceed the aggregate amount of taxable income of the taxpayer for such taxable year which is derived from the active conduct by the taxpayer of any trade or business during such taxable year.
 
 #### (B) Carryover of disallowed deduction
 
@@ -48,11 +48,11 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2003 and before 2010, the $100,000 and $400,000 amounts in paragraphs (1) and (2) shall each be increased by an amount equal to—
+&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2007 and before 2011, the $125,000 and $500,000 amounts in paragraphs (1) and (2) shall each be increased by an amount equal to—
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 2002” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 2006” for “calendar year 1992” in subparagraph (B) thereof.
 
 #### (B) Rounding
 
@@ -90,7 +90,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;&emsp;(I) is designed to have a seating capacity of more than 9 persons behind the driver's seat,
 
-&emsp;&emsp;&emsp;&emsp;(II) is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
+&emsp;&emsp;&emsp;&emsp;(II) is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and isnot readily accessible directly from the passenger compartment, or
 
 &emsp;&emsp;&emsp;&emsp;(III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver's seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
 
@@ -108,7 +108,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (2) Election irrevocable
 
-&emsp;Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2010 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
+&emsp;Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2011 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
 
 #### (d) Definitions and special rules
 
@@ -120,7 +120,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;(i) tangible property (to which section 168 applies), or
 
-&emsp;&emsp;&emsp;(ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2010,
+&emsp;&emsp;&emsp;(ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2011,
 
 &emsp;&emsp;(B) which is section 1245 property (as defined in section 1245(a)(3)), and
 
@@ -182,13 +182,23 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;The Secretary shall, by regulations, provide for recapturing the benefit under any deduction allowable under subsection (a) with respect to any property which is not used predominantly in a trade or business at any time.
 
-(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346.)
+(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192.)
 
-#### Adjustment of Limitation on Election To Expense Certain Depreciable Assets for Taxable Years Beginning in 2007
+#### Adjustment of Limitation on Election To Expense Certain Depreciable Assets for Taxable Years Beginning in 2008
 
-<i>For adjustment of limitation on aggregate cost under subsection (b)(1) of this section and the</i><i>reduction of the limitation under subsection (b)(2) of this section for taxable years beginning in 2007, see section 3.19 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation on aggregate cost under subsection (b)(1) of this section and the reduction of the limitation under subsection (b)(2) of this section for taxable years beginning in 2008, see section 3.20 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 110–28, §8212(a), (b)(1), substituted “$125,000 in the case of taxable years beginning after 2006” for “$100,000 in the case of taxable years beginning after 2002” and “2011” for “2010”.
+
+Subsec. (b)(2). Pub. L. 110–28, §8212(a), (b)(2), substituted “$500,000 in the case of taxable years beginning after 2006” for “$400,000 in the case of taxable years beginning after 2002” and “2011” for “2010”.
+
+Subsec. (b)(5)(A). Pub. L. 110–28, §8212(a), (c)(1), (2), in introductory provisions, substituted “2007” for “2003”, “2011” for “2010”, and “$125,000 and $500,000” for “$100,000 and $400,000”.
+
+Subsec. (b)(5)(A)(ii). Pub. L. 110–28, §8212(c)(3), substituted “2006” for “2002”.
+
+Subsecs. (c)(2), (d)(1)(A)(ii). Pub. L. 110–28, §8212(a), substituted “2011” for “2010”.
 
 2006—Subsecs. (b)(1), (2), (5)(A), (c)(2), (d)(1)(A)(ii). Pub. L. 109–222 substituted “2010” for “2008”.
 
@@ -236,7 +246,7 @@ Computation of taxable income.—For purposes of this paragraph, taxable income 
 
 Subsec. (d)(1). Pub. L. 100–647, §1002(a)(19), substituted “tangible property (to which section 168 applies)” for “recovery property”.
 
-1986—Subsec. (b). Pub. L. 99–514, §202(a), in amending subsec. (b) generally, substituted “Limitations” for “Dollar limitation” in heading, in par. (1) substituted as heading “Dollar limitation” for “In general” and in text “shall not exceed $10,000” for “shall not exceed the following applicable amount:” and a table specifying amounts for specific years, added pars. (2) to (4), and struck out former par. (2) which read as follows: “In the case of a husband and wife filing separate returns for a taxable year, the applicable amount under paragraph (1) shall be equal to 50 percent of the amount otherwise determined under paragraph (1).”
+1986—Subsec. (b). Pub. L. 99–514, §202(a), in amending subsec. (b) generally, substituted “Limitations” for “Dollar limitation” in heading, in par. (1) substituted as heading “Dollar limitation” for “In general” and in text “shall not exceed $10,000” for “shall not exceed the following applicable amount:” and a table specifying amounts for specific years, added pars. (2) to (4), andstruck out former par. (2) which read as follows: “In the case of a husband and wife filing separate returns for a taxable year, the applicable amount under paragraph (1) shall be equal to 50 percent of the amount otherwise determined under paragraph (1).”
 
 Subsec. (d)(1). Pub. L. 99–514, §202(b), inserted “in the active conduct of”.
 
@@ -263,6 +273,10 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 1962—Subsec. (d)(5). Pub. L. 87–834, §13(c)(2)(A), substituted “section 167(h)” for “section 167(g)”.
 
 Subsec. (d)(8). Pub. L. 87–834, §13(c)(2)(B), substituted “section 167(g)” for “section 167(f)”.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–28, title VIII, §8212(d), May 25, 2007, 121 Stat. 193, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
 
 #### Effective Date of 2004 Amendment
 
@@ -314,7 +328,7 @@ Amendment by Pub. L. 97–34 applicable to property placed in service after Dec.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 213(a) of Pub. L. 94–455 applicable in the case of partnership taxable years beginning after Dec. 31, 1975, see section 213(f) of Pub. L. 94–455, set out as an Effective Date note under section 709 of this title.
+Amendment by section 213(a) of Pub. L. 94–455 applicable in the case of partnership taxable years beginningafter Dec. 31, 1975, see section 213(f) of Pub. L. 94–455, set out as an Effective Date note under section 709 of this title.
 
 #### Effective Date of 1969 Amendment
 

@@ -30,7 +30,7 @@ The manufacturing infrastructure established under the program under subsection 
 
 #### (c) Nuclear Posture Review
 
-For purposes of subsection (a), the term “Nuclear Posture Review” means the Department ofDefense Nuclear Posture Review as contained in the Report of the Secretary of Defense to the President and the Congress dated February 19, 1995, or subsequent such reports.
+For purposes of subsection (a), the term “Nuclear Posture Review” means the Department of Defense Nuclear Posture Review as contained in the Report of the Secretary of Defense to the President and the Congress dated February 19, 1995, or subsequent such reports.
 
 #### (d) Funding
 

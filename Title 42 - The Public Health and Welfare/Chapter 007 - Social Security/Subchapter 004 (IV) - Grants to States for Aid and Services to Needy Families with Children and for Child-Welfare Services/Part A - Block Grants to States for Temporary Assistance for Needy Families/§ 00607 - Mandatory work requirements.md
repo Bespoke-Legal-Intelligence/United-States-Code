@@ -77,7 +77,7 @@
 
 #### (B) Eligibility changes not counted
 
-&emsp;&emsp;The regulations required by subparagraph (A) shall not take into account families that are diverted from a State program funded under this part as a result of differences in eligibility criteria under a State program funded under this part and the eligibility criteria in effect during fiscal year 2005. Such regulations shall place the burden on the Secretary to prove that such families were diverted as a direct result of differences in such eligibility criteria.
+&emsp;&emsp;The regulations required by subparagraph (A) shall not take into account families that are diverted from a State program funded under this part as a result of differences ineligibility criteria under a State program funded under this part and the eligibility criteria in effect during fiscal year 2005. Such regulations shall place the burden on the Secretary to prove that such families were diverted as a direct result of differences in such eligibility criteria.
 
 #### (4) State option to include individuals receiving assistance under a tribal family assistance plan or tribal work program
 
@@ -85,7 +85,7 @@
 
 #### (5) State option for participation requirement exemptions
 
-&emsp;For any fiscal year, a State may, at its option, not require an individual who is a single custodial parent caring for a child who has notattained 12 months of age to engage in work, and may disregard such an individual in determining the participation rates under subsection (a) of this section for not more than 12 months.
+&emsp;For any fiscal year, a State may, at its option, not require an individual who is a single custodial parent caring for a child who has not attained 12 months of age to engage in work, and may disregard such an individual in determining the participation rates under subsection (a) of this section for not more than 12 months.
 
 #### (c) Engaged in work
 
@@ -307,7 +307,7 @@ Subsec. (c)(1)(B)(ii). Pub. L. 105–33, §5504(d)(2), substituted “individual
 
 Subsec. (c)(2)(A)(i). Pub. L. 105–33, §5504(f), inserted “or the State is a needy State (within the meaning of section 603(b)(6) of this title)” after “United States”.
 
-Subsec. (c)(2)(B). Pub. L. 105–33, §5504(g), inserted “or relative” after “parent” in two places in heading andsubstituted “who is the only parent or caretaker relative in the family” for “in a 1-parent family who is the parent”.
+Subsec. (c)(2)(B). Pub. L. 105–33, §5504(g), inserted “or relative” after “parent” in two places in heading and substituted “who is the only parent or caretaker relative in the family” for “in a 1-parent family who is the parent”.
 
 Subsec. (c)(2)(C). Pub. L. 105–33, §5504(h), in heading substituted “Single teen head of household or married teen” for “Teen head of household” and, in introductory provisions, substituted “married or a” for “a single” and struck out “, subject to subparagraph (D) of this paragraph,” after “is deemed”.
 

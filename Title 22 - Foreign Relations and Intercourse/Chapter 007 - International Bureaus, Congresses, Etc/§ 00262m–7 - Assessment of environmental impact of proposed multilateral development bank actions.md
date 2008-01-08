@@ -4,7 +4,7 @@
 
 The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank not to vote in favor of any proposal (including but not limited to any loan, credit, grant, guarantee) which would result or be likely to result in significant impact on the environment, unless the Secretary, after consultation with the Secretary of State and the Administrators of the United States Agency for International Development and the Environmental Protection Agency, determines that for at least 120 days before the date of the vote—
 
-&emsp;(1) an assessment analyzing the environmental impacts of the proposed action, including associated and cumulative impacts, and of alternatives to the proposed action, has been completed by the borrower or the bank and has been made available to the board of directors of the bank; and
+&emsp;(1) an assessment analyzing the environmental impacts of the proposed action, including associated and cumulative impacts, and ofalternatives to the proposed action, has been completed by the borrower or the bank and has been made available to the board of directors of the bank; and
 
 &emsp;(2) such assessment or a comprehensive summary of the assessment (with proprietary information redacted) has been made available to affected groups, and local nongovernmental organizations and notice of its availability in the country and at the bank has been posted on the bank's website.
 
@@ -66,7 +66,7 @@ The Secretary of the Treasury, in consultation with the Secretary of State, the 
 
 #### (g) Multilateral development bank defined
 
-In this title,<sup>1</sup> the term “multilateral development bank” means the International Bank for Reconstruction and Development, the European Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guarantee Agency, the African Development Bank, the African Development Fund, the Asian Development Bank, the Inter-American Development Bank, the Inter-American Investment Corporation, any other institution (other than the International Monetary Fund) specified in section 262r(c)(2) of this title, and any subsidiary of any such institution.
+In this title,<sup>1</sup> the term “multilateral development bank” means the International Bank forReconstruction and Development, the European Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guarantee Agency, the African Development Bank, the African Development Fund, the Asian Development Bank, the Inter-American Development Bank, the Inter-American Investment Corporation, any other institution (other than the International Monetary Fund) specified in section 262r(c)(2) of this title, and any subsidiary of any such institution.
 
 (Pub. L. 95–118, title XIII, §1307, formerly §1308, as added and renumbered §1307, Pub. L. 101–240, title V, §§521, 541(f)(4), Dec. 19, 1989, 103 Stat. 2511, 2519; amended Pub. L. 105–118, title V, §560(b), Nov. 26, 1997, 111 Stat. 2426; Pub. L. 108–447, div. D, title V, §593(a), Dec. 8, 2004, 118 Stat. 3037.)
 

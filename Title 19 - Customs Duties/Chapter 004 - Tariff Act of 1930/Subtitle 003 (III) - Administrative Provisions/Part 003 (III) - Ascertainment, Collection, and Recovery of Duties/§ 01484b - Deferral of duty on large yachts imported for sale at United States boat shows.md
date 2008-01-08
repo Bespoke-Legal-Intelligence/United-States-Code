@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, any vessel meeting the definition of
 
 #### (b) Definition
 
-As used in this section, the term “large yacht” means a vessel that exceeds 79 feet in length, is used primarily for recreation or pleasure, and has been previously sold by a manufacturer or dealer to a retail consumer.
+As used in this section, the term “large yacht” means a vessel that exceeds 79 feet inlength, is used primarily for recreation or pleasure, and has been previously sold by a manufacturer or dealer to a retail consumer.
 
 #### (c) Deferral of duty
 

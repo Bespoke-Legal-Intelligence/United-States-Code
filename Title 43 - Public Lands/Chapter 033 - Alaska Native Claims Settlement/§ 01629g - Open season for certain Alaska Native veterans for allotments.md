@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) During the eighteen month period following promulgation of implementing rules pursuant to subsection (e) of this section, a person described in subsection (b) of this section shall beeligible for an allotment of not more than two parcels of federal <sup>1</sup> land totaling 160 acres or less under the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as such Act was in effect before December 18, 1971.
+(1) During the eighteen month period following promulgation of implementing rules pursuant to subsection (e) of this section, a person described in subsection (b) of this section shall be eligible for an allotment of not more than two parcels of federal <sup>1</sup> land totaling 160 acres or less under the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as such Act was in effect before December 18, 1971.
 
 (2) Allotments may be selected only from lands that were vacant, unappropriated, and unreserved on the date when the person eligible for the allotment first used and occupied those lands.
 
@@ -80,7 +80,7 @@
 
 (ii) Not later than 1 year after notification to the Secretary that further investigation is necessary, the Department of Veterans Affairs shall complete the investigation and provide a determination to the Secretary.
 
-(3) No person who received an allotment or has a pending allotment under the Act of May 17,1906 may receive an allotment under this section.
+(3) No person who received an allotment or has a pending allotment under the Act of May 17, 1906 may receive an allotment under this section.
 
 #### (c) Study and report
 
@@ -125,6 +125,10 @@ Subsec. (a)(4)(B). Pub. L. 106–559, §301(2), substituted “; or” for “;
 Subsec. (b)(1)(B)(i). Pub. L. 106–559, §301(3), substituted “December 31” for “June 2”.
 
 Subsec. (b)(2). Pub. L. 106–559, §301(4), inserted introductory provisions and struck out former introductory provisions which read as follows: “The personal representative of the estate of a decedent who was eligible under subsection (b)(1) of this section may, for the benefit of the heirs, select an allotment if, during the period specified in subsection (b)(1)(B) of this section, the decedent—”.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

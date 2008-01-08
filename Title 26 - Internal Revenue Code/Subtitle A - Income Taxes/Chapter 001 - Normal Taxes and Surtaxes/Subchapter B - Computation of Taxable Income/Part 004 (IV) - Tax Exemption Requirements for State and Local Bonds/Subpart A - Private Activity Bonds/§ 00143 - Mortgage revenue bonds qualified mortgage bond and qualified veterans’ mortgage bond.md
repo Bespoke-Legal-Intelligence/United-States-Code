@@ -10,7 +10,7 @@
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of this title, the term “qualified mortgage issue” means an issue by a State or political subdivision thereof of 1 or more bonds, but only if—
+&emsp;&emsp;For purposes of this title, the term “qualified mortgage issue” means an issue by aState or political subdivision thereof of 1 or more bonds, but only if—
 
 &emsp;&emsp;&emsp;(i) all proceeds of such issue (exclusive of issuance costs and a reasonably required reserve) are to be used to finance owner-occupied residences,
 
@@ -80,7 +80,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (2) For an issue
 
-&emsp;An issue meets the requirements of this subsection only if all of the residences for whichowner-financing is provided under the issue meet the requirements of paragraph (1).
+&emsp;An issue meets the requirements of this subsection only if all of the residences for which owner-financing is provided under the issue meet the requirements of paragraph (1).
 
 #### (d) 3-year requirement
 
@@ -170,7 +170,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (B) Income requirements for residences in high housing cost area
 
-&emsp;&emsp;The percentage determined under this subparagraph for a residence located in a highhousing cost area is the percentage (not greater than 140 percent) equal to the product of—
+&emsp;&emsp;The percentage determined under this subparagraph for a residence located in a high housing cost area is the percentage (not greater than 140 percent) equal to the product of—
 
 &emsp;&emsp;&emsp;(I) 115 percent, and
 
@@ -462,7 +462,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the value of services performed by the mortgagor or members of his family in completing the residence, and
 
-&emsp;&emsp;&emsp;(iii) the cost of land (other than land described in subsection (i)(1)(C)(i)) which has been owned by the mortgagor for at least2 years before the date on which construction of the residence begins.
+&emsp;&emsp;&emsp;(iii) the cost of land (other than land described in subsection (i)(1)(C)(i)) which has been owned by the mortgagor for at least 2 years before the date on which construction of the residence begins.
 
 #### (C) Special rule for qualified rehabilitation loans
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 #### (C) Limited equity cooperative housing
 
-&emsp;&emsp;For purposes of this paragraph, the term “limited equity cooperative housing” meansany dwelling unit which a person is entitled to occupy by reason of his ownership of stock in a qualified cooperative housing corporation.
+&emsp;&emsp;For purposes of this paragraph, the term “limited equity cooperative housing” means any dwelling unit which a person is entitled to occupy by reason of his ownership of stock in a qualified cooperative housing corporation.
 
 #### (D) Qualified cooperative housing corporation
 
@@ -626,7 +626,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (A) In general
 
-&emsp;&emsp;An issue meets the requirements of this paragraph only if the aggregate amount ofbonds issued pursuant thereto (when added to the aggregate amount of qualified veterans’ mortgage bonds previously issued by the State during the calendar year) does not exceed the State veterans limit for such calendar year.
+&emsp;&emsp;An issue meets the requirements of this paragraph only if the aggregate amount of bonds issued pursuant thereto (when added to the aggregate amount of qualified veterans’ mortgage bonds previously issued by the State during the calendar year) does not exceed the State veterans limit for such calendar year.
 
 #### (B) State veterans limit
 
@@ -963,7 +963,7 @@ Subsec. (i)(1)(C). Pub. L. 103–66, §13141(d)(2), added subpar. (C).
 
 Subsec. (k)(3)(B)(iii). Pub. L. 103–66, §13141(d)(3), inserted “(other than land described in subsection (i)(1)(C)(i))” after “cost of land”.
 
-Subsec. (k)(7). Pub. L. 103–66, §13141(e), inserted at end “Subparagraph (B) shall not apply to any 2-family residence if the residence is a targeted area residence and the family income of the mortgagor meets the requirement of subsection (f)(3)(B).”
+Subsec. (k)(7). Pub. L. 103–66, §13141(e), inserted at end “Subparagraph (B) shall not apply to any 2-familyresidence if the residence is a targeted area residence and the family income of the mortgagor meets the requirement of subsection (f)(3)(B).”
 
 Subsec. (k)(10). Pub. L. 103–66, §13141(c), added par. (10).
 
@@ -1039,7 +1039,7 @@ Subsec. (m). Pub. L. 100–647, §4005(g)(1), added subsec. (m).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §411(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made bythis section \[amending this section\] shall take effect as if included in section 203 \[probably means 203(b)\] of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
+Pub. L. 109–432, div. A, title IV, §411(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in section 203 \[probably means 203(b)\] of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
 
 Pub. L. 109–432, div. A, title IV, §416(b), Dec. 20, 2006, 120 Stat. 2965, provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Dec. 20, 2006\].”
 

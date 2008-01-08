@@ -30,7 +30,7 @@ Memorandum of President of the United States, Mar. 31, 2005, 70 F.R. 17195, prov
 
 Memorandum for the Secretary of State
 
-Consistent with section 301 of title 3, United States Code, the function of the President under section 613 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2004 (Division D of Public Law 108–199) \[22 U.S.C. 7712\] is assigned to the Secretary of State.
+Consistent with section 301 of title 3, United States Code, the function of the President under section 613 ofthe Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2004 (Division D of Public Law 108–199) \[22 U.S.C. 7712\] is assigned to the Secretary of State.
 
 The Secretary of State shall perform such function in a manner consistent with the President's constitutional authority to withhold information the disclosure of which could impair foreign relations, national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties. Heads of departments and agencies shall, to the extent permitted by law, furnish to the Secretary information the Secretary requests to perform such function, in the format and on the schedule specified by the Secretary.
 

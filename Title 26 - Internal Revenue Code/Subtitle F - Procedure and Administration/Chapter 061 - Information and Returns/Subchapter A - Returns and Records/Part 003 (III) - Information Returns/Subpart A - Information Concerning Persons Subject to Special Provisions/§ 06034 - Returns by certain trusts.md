@@ -2,7 +2,7 @@
 
 #### (a) Split-interest trusts
 
-Every trust described in section 4947(a)(2) shall furnish such information with respect to thetaxable year as the Secretary may by forms or regulations require.
+Every trust described in section 4947(a)(2) shall furnish such information with respect to the taxable year as the Secretary may by forms or regulations require.
 
 #### (b) Trusts claiming certain charitable deductions
 

@@ -8,7 +8,7 @@
 
 #### (b) Delegation of authority by Administrator
 
-The Administrator shall delegate (which delegation may be on a nonexclusive basis as the Administrator may determine may be necessary to assure the faithful execution of his authorities and responsibilities under law) the authority vested in him under section 796 of this title and section 772 of this title and the Director may act in the name of the Administrator under section 797 of this title and section 772 of this title for the purpose of obtaining enforcement of the authorities delegated to him.
+The Administrator shall delegate (which delegation may be on a nonexclusive basis as the Administrator may determine may be necessary to assure the faithful execution of his authorities and responsibilities under law) the authority vested in him under section 796 of this title and section 772 of this title and the Director may act in the name of the Administrator under section 797 of this title and section 772 of thistitle for the purpose of obtaining enforcement of the authorities delegated to him.
 
 #### (c) “Energy information” defined
 
@@ -18,7 +18,7 @@ As used in this chapter the term “energy information” shall have the meaning
 
 #### Effective Date
 
-Section 143 of Pub. L. 94–385 provided that: “The amendments made by this part C to the Federal Energy Administration Act of 1974 \[enacting this subchapter\]shall take effect 150 days after the date of enactment of this Act \[Aug. 14, 1976\], except that section 56(c) of the Federal Energy Administration Act of 1974 (as added by this part) \[section 790e(c) of this title\] shall take effect on the date of enactment of this Act \[Aug. 14, 1976\].”
+Section 143 of Pub. L. 94–385 provided that: “The amendments made by this part C to the Federal Energy Administration Act of 1974 \[enacting this subchapter\] shall take effect 150 days after the date of enactment of this Act \[Aug. 14, 1976\], except that section 56(c) of the Federal Energy Administration Act of 1974 (as added by this part) \[section 790e(c) of this title\] shall take effect on the date of enactment of this Act \[Aug. 14, 1976\].”
 
 #### Transfer of Functions
 

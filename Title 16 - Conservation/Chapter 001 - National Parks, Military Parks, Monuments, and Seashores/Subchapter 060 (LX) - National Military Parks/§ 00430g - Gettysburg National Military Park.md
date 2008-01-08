@@ -24,5 +24,5 @@ Acquisition of Additional Lands.—Except as provided in section 1 of this Act \
 
 “(b)
 
-Study by National Park Service.—The Secretary of the Interior through the National Park Service shall conduct a boundary study and shall submit a report to Congress within one year of the date of enactment of this Act \[Oct. 16, 1987\], with recommendations with respect to the final development of the Gettysburg National Military Park. In conducting the study, the Secretary shall consult with the people of the community and their elected representatives at all levels as well as with other interested individuals and groups.”
+Study by National Park Service.—The Secretary of the Interior through the National Park Service shall conduct a boundary study and shall submit a report to Congress within one year of the date of enactment of this Act \[Oct. 16, 1987\], with recommendations with respect to the final development of the GettysburgNational Military Park. In conducting the study, the Secretary shall consult with the people of the community and their elected representatives at all levels as well as with other interested individuals and groups.”
 

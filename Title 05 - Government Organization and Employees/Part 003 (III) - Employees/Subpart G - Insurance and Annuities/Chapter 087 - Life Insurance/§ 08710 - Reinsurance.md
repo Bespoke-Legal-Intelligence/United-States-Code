@@ -2,7 +2,7 @@
 
 (a) The Office of Personnel Management shall arrange with a company issuing a policy under this chapter for the reinsurance, under conditions approved by the Office, of portions of the total amount of insurance under the policy, determined under this section, with other life insurance companies which elect to participate in the reinsurance.
 
-(b) The Office shall determine for and in advance of a policy year which companies are eligible to participate as reinsurers and the amount of insurance under a policy which is to be allocated to the issuing company and to reinsurers. The Office shall make this determinationat least every 3 years and when a participating company withdraws.
+(b) The Office shall determine for and in advance of a policy year which companies are eligible to participate as reinsurers and the amount of insurance under a policy which is to be allocated to the issuing company and to reinsurers. The Office shall make this determination at least every 3 years and when a participating company withdraws.
 
 (c) The Office shall establish a formula under which the amount of insurance retained by an issuing company after ceding reinsurance, and the amount of reinsurance ceded to each reinsurer, is in proportion to the total amount of each company's group life insurance, excluding insurance purchased under this chapter, in force in the United States on the determination date, which is the most recent December 31 for which information is available to the Office. In determining the proportions, the portion of a company's group life insurance in force on the determination date in excess of $100,000,000 shall be reduced by—
 

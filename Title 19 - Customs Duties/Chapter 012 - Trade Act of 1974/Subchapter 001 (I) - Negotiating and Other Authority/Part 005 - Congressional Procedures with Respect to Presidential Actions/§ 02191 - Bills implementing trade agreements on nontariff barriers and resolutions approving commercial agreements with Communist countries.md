@@ -6,7 +6,7 @@ This section and sections 2192 and 2193 of this title are enacted by the Congres
 
 &emsp;(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of implementing bills described in subsection (b)(1) of this section, implementing revenue bills described in subsection (b) (2) of this section, approval resolutions described in subsection (b)(3) of this section, and resolutions described in sections 2192(a) and 2193(a) of this title; and they supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
+&emsp;(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure ofthat House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
 
 #### (b) Definitions
 
@@ -62,7 +62,7 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 (1) A motion in the Senate to proceed to the consideration of an implementing bill or approval resolution shall be privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
-(2) Debate in the Senate on an implementing bill or approval resolution, and all debatablemotions and appeals in connection therewith, shall be limited to not more than 20 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+(2) Debate in the Senate on an implementing bill or approval resolution, and all debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
 (3) Debate in the Senate on any debatable motion or appeal in connection with an implementing bill or approval resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover and the manager of the bill or resolution, except that in the event the manager of the bill or resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the minority leader or his designee. Such leaders, or either of them, may, from time under their control on the passage of an implementing bill or approval resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
 
@@ -90,5 +90,5 @@ Subsec. (e)(2). Pub. L. 101–382, §132(b)(2)(D), (E), substituted “revenue b
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 

@@ -34,7 +34,7 @@ In computing the taxpayer's taxable income for any taxable year (referred to in 
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) There shall be taken into account the increase or decrease in tax for any taxable year preceding the year of the change to which no adjustment is allocated under paragraph (1) or (2) but which is affected by a net operating loss (as defined in section 172) or by a capital loss carryback or carryover (as defined in section 1212), determined with reference to taxable years with respect to which adjustments under paragraph (1) or (2) are allocated.
+&emsp;&emsp;(A) There shall be taken into account the increase or decrease in tax for any taxable year preceding the year of the change to which no adjustment is allocated under paragraph (1) or (2) but which is affected by a net operating loss (as defined in section 172) or by a capital loss carryback or carryover (as defined in section 1212), determinedwith reference to taxable years with respect to which adjustments under paragraph (1) or (2) are allocated.
 
 &emsp;&emsp;(B) The increase or decrease in the tax for any taxable year for which an assessment of any deficiency, or a credit or refund of any overpayment, is prevented by any law or rule of law, shall be determined by reference to the tax previously determined (within the meaning of section 1314(a)) for such year.
 
@@ -44,7 +44,7 @@ In computing the taxpayer's taxable income for any taxable year (referred to in 
 
 In the case of any change described in subsection (a), the taxpayer may, in such manner and subject to such conditions as the Secretary may by regulations prescribe, take the adjustments required by subsection (a)(2) into account in computing the tax imposed by this chapter for the taxable year or years permitted under such regulations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 160; Pub. L. 85–866, title I, §29(a), (b), Sept. 2, 1958, 72 Stat. 1626–1628; Pub. L. 91–172, title V, §512(f)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 94–455, title XIX, §§1901(a)(70), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat.1776, 1834; Pub. L. 96–471, §2(b)(3), Oct. 19, 1980, 94 Stat. 2254.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 160; Pub. L. 85–866, title I, §29(a), (b), Sept. 2, 1958, 72 Stat. 1626–1628; Pub. L. 91–172, title V, §512(f)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 94–455, title XIX, §§1901(a)(70), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1834; Pub. L. 96–471, §2(b)(3), Oct. 19, 1980, 94 Stat. 2254.)
 
 #### References in Text
 

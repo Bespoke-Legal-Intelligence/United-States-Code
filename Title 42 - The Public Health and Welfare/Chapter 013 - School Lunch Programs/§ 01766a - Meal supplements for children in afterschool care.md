@@ -50,7 +50,7 @@ The Child Nutrition Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–
 
 Subsec. (a)(2)(C). Pub. L. 105–336, §108(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “are participating in the child care food program under section 1766 of this title on May 15, 1989.”
 
-Subsec. (b). Pub. L. 105–336, §108(b), substituted “served to school children who are not more than 18 years of age, except that the age limitation provided bythis subsection shall not apply to a child described in section 1760(d)(1)(A) of this title.” for “served to children—
+Subsec. (b). Pub. L. 105–336, §108(b), substituted “served to school children who are not more than 18 years of age, except that the age limitation provided by this subsection shall not apply to a child described in section 1760(d)(1)(A) of this title.” for “served to children—
 
 &emsp;“(1) who are not more than 12 years of age; or
 

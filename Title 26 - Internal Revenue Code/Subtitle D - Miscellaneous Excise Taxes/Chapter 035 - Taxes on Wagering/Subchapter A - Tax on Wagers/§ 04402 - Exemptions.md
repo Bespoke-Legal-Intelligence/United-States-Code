@@ -22,7 +22,7 @@ Section 4462, referred to in par. (2), was repealed by Pub. L. 95–600, title V
 
 #### Amendments
 
-1978—Par. (2). Pub. L. 95–600 substituted “(as defined in section 4462 as in effect for years beginning beforeJuly 1, 1980)” for “with respect to which an occupational tax is imposed by section 4461” and “(as so in effect), or” for “if an occupational tax is imposed with respect to such device by section 4461, or”.
+1978—Par. (2). Pub. L. 95–600 substituted “(as defined in section 4462 as in effect for years beginning before July 1, 1980)” for “with respect to which an occupational tax is imposed by section 4461” and “(as so in effect), or” for “if an occupational tax is imposed with respect to such device by section 4461, or”.
 
 1976—Par. (3). Pub. L. 94–455, among other changes, substituted in heading “State-conducted lotteries, etc.” for “State-conducted sweepstakes.”, and struck out provision that no tax be imposed on any wager placed in a sweepstakes, wagering pool, or lottery in which the ultimate winners are determined by the results of a horse race.
 
@@ -38,7 +38,7 @@ Pub. L. 95–600, title V, §521(d)(2), Nov. 6, 1978, 92 Stat. 2885, provided th
 
 #### Effective Date of 1976 Amendment
 
-Section 1208(c)(1) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section)\] shall apply with respect to wagers placed after March 10, 1964”.
+Section 1208(c)(1) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amendingthis section)\] shall apply with respect to wagers placed after March 10, 1964”.
 
 #### Effective Date of 1965 Amendment
 

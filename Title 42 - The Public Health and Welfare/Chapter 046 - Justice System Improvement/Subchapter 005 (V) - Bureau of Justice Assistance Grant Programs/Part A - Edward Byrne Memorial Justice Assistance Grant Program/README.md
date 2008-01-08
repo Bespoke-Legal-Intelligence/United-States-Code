@@ -14,7 +14,7 @@ Section 3754, Pub. L. 90–351, title I, §504, as added Pub. L. 100–690, titl
 
 Section 3755, Pub. L. 90–351, title I, §505, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4333, related to review of State applications.
 
-Section 3756, Pub. L. 90–351, title I, §506, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4334; amended Pub. L. 101–162, title II, §212, Nov. 21, 1989, 103 Stat. 998, 1006; Pub. L. 101–302, title III,§320(c)(1), May 25, 1990, 104 Stat. 248; Pub. L. 101–647, title XVIII, §1804, Nov. 29, 1990, 104 Stat. 4851; Pub. L. 103–322, title XXXIII, §330001(a), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–273, div. A, title II, §203(a)(2), Nov. 2, 2002, 116 Stat. 1775, related to allocation and distribution of funds under formula grants. See section 3755(a) of this title.
+Section 3756, Pub. L. 90–351, title I, §506, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4334; amended Pub. L. 101–162, title II, §212, Nov. 21, 1989, 103 Stat. 998, 1006; Pub. L. 101–302, title III, §320(c)(1), May 25, 1990, 104 Stat. 248; Pub. L. 101–647, title XVIII, §1804, Nov. 29, 1990, 104 Stat. 4851; Pub. L. 103–322, title XXXIII, §330001(a), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–273, div. A, title II, §203(a)(2), Nov. 2, 2002, 116 Stat. 1775, related to allocation and distribution of funds under formula grants. See section 3755(a) of this title.
 
 Section 3757, Pub. L. 90–351, title I, §507, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4335, related to designation and purposes of a State office.
 

@@ -66,7 +66,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (D) Definitions
 
-&emsp;&emsp;In this paragraph, the terms “military institution” <sup>1</sup> and “realignment” have the meanings given the terms in section 2910 of the Defense Base Closure and Realignment Act of 1990 (Public Law 101–510; 10 U.S.C. 2687 note).
+&emsp;&emsp;In this paragraph, the terms “military institution” <sup>1</sup> and “realignment” have the meanings given the terms in section 2910 of the Defense Base Closure and RealignmentAct of 1990 (Public Law 101–510; 10 U.S.C. 2687 note).
 
 #### (d) Disaster relief employment assistance requirements
 
@@ -202,7 +202,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “qualified health insurance” does not include any coverage described in clauses (ii) through (viii) of subparagraph (A) unless the State involved has elected to have such coverage treated as qualifiedhealth insurance under this paragraph and such coverage meets the following requirements:
+&emsp;&emsp;&emsp;The term “qualified health insurance” does not include any coverage described in clauses (ii) through (viii) of subparagraph (A) unless the State involved has elected to have such coverage treated as qualified health insurance under this paragraph and such coverage meets the following requirements:
 
 #### (I) Guaranteed issue
 
@@ -294,7 +294,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Such individual is covered under any insurance which constitutes medical care\(except insurance substantially all of the coverage of which is of excepted benefits described in section 9832(c) of title 26) under any health plan maintained by any employer (or former employer) of the taxpayer or the taxpayer's spouse and at least 50 percent of the cost of such coverage (determined under section 4980B of such title) is paid or incurred by the employer.
+&emsp;&emsp;&emsp;Such individual is covered under any insurance which constitutes medical care (except insurance substantially all of the coverage of which is of excepted benefits described in section 9832(c) of title 26) under any health plan maintained by any employer (or former employer) of the taxpayer or the taxpayer's spouse and at least 50 percent of the cost of such coverage (determined under section 4980B of such title) is paid or incurred by the employer.
 
 #### (ii) Eligible alternative TAA recipients
 
@@ -332,7 +332,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (2) Income support
 
-&emsp;With respect to any income assistance provided to an eligible individual with such funds, such assistance shall supplement and not supplant other income support or assistance provided under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effect on the day before the effective date of the Trade Act of 2002) or the unemployment compensation laws of the State where the eligible individual resides.
+&emsp;With respect to any income assistance provided to an eligible individual with such funds, such assistance shall supplement and not supplant other income support or assistance provided under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effecton the day before the effective date of the Trade Act of 2002) or the unemployment compensation laws of the State where the eligible individual resides.
 
 #### (3) Health insurance coverage
 
@@ -360,7 +360,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (5) Inclusion of certain individuals as eligible individuals
 
-&emsp;For purposes of this subsection, the term “eligible individual” includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2271 et seq.\] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (asso in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 \[19 U.S.C. 2291(a)(3)(B)\] (as so in effect).
+&emsp;For purposes of this subsection, the term “eligible individual” includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2271 et seq.\] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (as so in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 \[19 U.S.C. 2291(a)(3)(B)\] (as so in effect).
 
 (Pub. L. 105–220, title I, §173, Aug. 7, 1998, 112 Stat. 1035; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, 2681–435; Pub. L. 107–210, div. A, title II, §203(a), (b), Aug. 6, 2002, 116 Stat. 963.)
 

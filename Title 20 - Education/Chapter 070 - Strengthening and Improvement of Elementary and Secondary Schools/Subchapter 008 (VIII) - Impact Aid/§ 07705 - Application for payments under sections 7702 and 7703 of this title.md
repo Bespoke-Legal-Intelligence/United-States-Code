@@ -56,7 +56,7 @@ Section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as s
 
 #### Prior Provisions
 
-A prior section 8005 of Pub. L. 89–10 was renumbered section 9005 and was classified to section 3386 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+A prior section 8005 of Pub. L. 89–10 was renumbered section 9005 and was classified to section 3386 of thistitle, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
 

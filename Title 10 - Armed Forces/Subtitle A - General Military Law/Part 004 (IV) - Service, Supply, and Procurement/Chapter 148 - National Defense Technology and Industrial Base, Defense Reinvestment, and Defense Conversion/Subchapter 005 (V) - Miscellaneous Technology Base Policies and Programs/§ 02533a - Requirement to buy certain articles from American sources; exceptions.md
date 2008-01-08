@@ -78,7 +78,7 @@ Geographic Coverage.—In this section, the term “United States” includes th
 
 Notification Required Within 7
 
-Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days  after  the  award  of  the  contract,  post  a notification  that  the  exception  has  been  applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov (or any successor site).
+Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov (or any successor site).
 
 (Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337.)
 

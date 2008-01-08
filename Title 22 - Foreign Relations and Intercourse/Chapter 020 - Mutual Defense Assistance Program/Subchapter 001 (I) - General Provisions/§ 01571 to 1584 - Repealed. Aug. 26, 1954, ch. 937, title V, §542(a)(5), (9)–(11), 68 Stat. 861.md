@@ -6,7 +6,7 @@ Section 1572, act Oct. 6, 1949, ch. 626, title IV, §401, 63 Stat. 716, related 
 
 Section 1573, act Oct. 6, 1949, ch. 626, title IV, §402, 63 Stat. 717, related to agreements with other nations prior to furnishing aid and provisions thereof.
 
-Section 1574, acts Oct. 6, 1949, ch. 626, title IV, §403, 63 Stat. 717; July 26, 1950, ch. 491, §§9, 10, 64 Stat. 375;Oct. 10, 1951, ch. 479, title V, §526, 65 Stat. 385; June 20, 1952, ch. 449, §8(a), 66 Stat. 148; July 16, 1953, ch. 195, ch. VII, §707(a), 67 Stat. 160, related to funds.
+Section 1574, acts Oct. 6, 1949, ch. 626, title IV, §403, 63 Stat. 717; July 26, 1950, ch. 491, §§9, 10, 64 Stat. 375; Oct. 10, 1951, ch. 479, title V, §526, 65 Stat. 385; June 20, 1952, ch. 449, §8(a), 66 Stat. 148; July 16, 1953, ch. 195, ch. VII, §707(a), 67 Stat. 160, related to funds.
 
 Section 1575, acts Oct. 6, 1949, ch. 626, title IV, §404, 63 Stat. 718; July 26, 1950, ch. 491, §11, 64 Stat. 376, related to delegation of President's powers. See section 2381 of this title.
 

@@ -20,7 +20,7 @@ Provisions similar to this section were contained in section 2756b of this title
 
 #### Amendments
 
-1992—Pub. L. 102–325 amended section catchline generally, struck out subsecs. (a) and (b) which related topurpose and definitions, respectively, struck out subsec. (c) designation and heading before “Each institution participating”, substituted “up to 10 percent of the funds made available under section 1096(a) of title 20 and attributable to the amount of the institution's expenditures under this part” for “funds made available under the last sentence of section 1096(a) of title 20”, and inserted “, and programs assisted under the National and Community Service Act of 1990” after “nonprofit agencies”.
+1992—Pub. L. 102–325 amended section catchline generally, struck out subsecs. (a) and (b) which related to purpose and definitions, respectively, struck out subsec. (c) designation and heading before “Each institution participating”, substituted “up to 10 percent of the funds made available under section 1096(a) of title 20 and attributable to the amount of the institution's expenditures under this part” for “funds made available under the last sentence of section 1096(a) of title 20”, and inserted “, and programs assisted under the National and Community Service Act of 1990” after “nonprofit agencies”.
 
 1986—Pub. L. 99–498 amended section generally, substituting provisions relating to work-study for community service-learning on behalf of low-income individuals and families for provisions relating to job location and development programs and agreements with eligible institutions. See section 2756 of this title.
 

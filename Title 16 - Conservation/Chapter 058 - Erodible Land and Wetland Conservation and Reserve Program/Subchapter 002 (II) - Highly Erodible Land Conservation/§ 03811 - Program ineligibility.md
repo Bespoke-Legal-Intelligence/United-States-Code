@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in section 3812 of this title, and notwithstanding any other provision of law,any person who in any crop year produces an agricultural commodity on a field on which highly erodible land is predominate, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary shall be ineligible for—
+Except as provided in section 3812 of this title, and notwithstanding any other provision of law, any person who in any crop year produces an agricultural commodity on a field on which highly erodible land is predominate, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary shall be ineligible for—
 
 &emsp;(1) as to any commodity produced during that crop year by such person—
 
@@ -12,7 +12,7 @@ Except as provided in section 3812 of this title, and notwithstanding any other 
 
 &emsp;&emsp;(C) a disaster payment; or
 
-&emsp;&emsp;(D) a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or any other provision of law administered by the Consolidated Farm Service Agency, if the Secretary determines that the proceeds of such loan will be used for a purpose that will contribute to excessive erosion of highly erodible land;
+&emsp;&emsp;(D) a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or any other provision of law administered by the Consolidated Farm Service Agency, if the Secretary determines that the proceeds ofsuch loan will be used for a purpose that will contribute to excessive erosion of highly erodible land;
 
 &emsp;(2) a payment made under section 4 or 5 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b or 714c) during such crop year for the storage of an agricultural commodity acquired by the Commodity Credit Corporation; or
 

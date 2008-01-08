@@ -218,7 +218,7 @@
 
 #### (2) Election of survivor annuity upon subsequent marriage
 
-&emsp;A participant who is unmarried at the time of retirement and who later marries may irrevocably elect, in a signed writing received by the Director within one year after the marriage, to receive a reduced annuity as provided in subsection (b) of this section. Such election and reduction shall be effective on the firstday of the month beginning 9 months after the date of marriage. The election voids prospectively any election previously made under paragraph (1).
+&emsp;A participant who is unmarried at the time of retirement and who later marries may irrevocably elect, in a signed writing received by the Director within one year after the marriage, to receive a reduced annuity as provided in subsection (b) of this section. Such election and reduction shall be effective on the first day of the month beginning 9 months after the date of marriage. The election voids prospectively any election previously made under paragraph (1).
 
 #### (g) Effect of divorce after retirement
 
@@ -230,7 +230,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Upon remarriage, the retired participant may irrevocably elect, by means of a signed writing received by the Director within one year after such remarriage, to receive a reduced annuity for the purpose of providing an annuity for the new spouse of the retired participant in the event such spouse survives the retired participant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 2032(b)(5) of this title or elected under subparagraph (B)).
+&emsp;&emsp;Upon remarriage, the retired participant may irrevocably elect, by means of a signedwriting received by the Director within one year after such remarriage, to receive a reduced annuity for the purpose of providing an annuity for the new spouse of the retired participant in the event such spouse survives the retired participant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 2032(b)(5) of this title or elected under subparagraph (B)).
 
 #### (B) When annuity previously not (or not fully) reduced
 

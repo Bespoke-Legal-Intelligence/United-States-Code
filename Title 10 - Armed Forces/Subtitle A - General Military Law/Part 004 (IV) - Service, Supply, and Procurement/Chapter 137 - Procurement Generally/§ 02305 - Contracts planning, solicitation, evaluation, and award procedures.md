@@ -314,7 +314,7 @@ Subsec. (b)(4)(A). Pub. L. 101–510, §802(d)(3)(A), substituted “competitive
 
 “(ii) without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) when it can be clearly demonstrated from the existence of full and open competition or accurate prior cost experience with the product or service that acceptance of an initial proposal without discussions would result in the lowest overall cost to the United States.”
 
-Subsec. (b)(4)(B) to (E). Pub. L. 101–510, §802 (d)(3)(B)–(D), redesignated subpars. (D) and (E) as (B) and (C), respectively, substituted “Subparagraph (B)” for “Subparagraph (D)” in subpar. (C), and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (b)(4)(B) to (E). Pub. L. 101–510, §802(d)(3)(B)–(D), redesignated subpars. (D) and (E) as (B) and (C), respectively, substituted “Subparagraph (B)” for “Subparagraph (D)” in subpar. (C), and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) In the case of award of a contract under subparagraph (A)(i), the head of the agency shall conduct, before such award, written or oral discussions with all responsible sources who submit proposals within the competitive range, considering only cost or price and the other factors included in the solicitation.
 

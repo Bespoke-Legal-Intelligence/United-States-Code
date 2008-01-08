@@ -38,7 +38,7 @@ For purposes of any action brought under this chapter—
 
 &emsp;(2) the terms “wrongful removal or retention” and “wrongfully removed or retained”, as used in the Convention, include a removal or retention of a child before the entry of a custody order regarding that child; and
 
-&emsp;(3) the term “commencement of proceedings”, as used in article 12 of the Convention,means, with respect to the return of a child located in the United States, the filing of a petition in accordance with subsection (b) of this section.
+&emsp;(3) the term “commencement of proceedings”, as used in article 12 of the Convention, means, with respect to the return of a child located in the United States, the filing of a petition in accordance with subsection (b) of this section.
 
 #### (g) Full faith and credit
 

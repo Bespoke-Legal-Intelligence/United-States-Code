@@ -54,7 +54,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;In no case may the rate of compensation determined under subparagraph (A) exceedthe highest rate of basic pay for the Senior Executive Service under section 5382(b) of title 5.
+&emsp;&emsp;In no case may the rate of compensation determined under subparagraph (A) exceed the highest rate of basic pay for the Senior Executive Service under section 5382(b) of title 5.
 
 #### (c) Medicare Beneficiary Ombudsman
 

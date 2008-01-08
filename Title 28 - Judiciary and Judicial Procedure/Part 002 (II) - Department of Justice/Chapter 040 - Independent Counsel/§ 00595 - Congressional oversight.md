@@ -10,7 +10,7 @@ Congressional oversight.—The appropriate committees of the Congress shall have
 
 &emsp;(2)
 
-Reports to congress.—An independent counsel appointed under this chapter shall submit to the Congress annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by theindependent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of the independent counsel has made.
+Reports to congress.—An independent counsel appointed under this chapter shall submit to the Congress annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by the independent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of the independent counsel has made.
 
 (b)
 

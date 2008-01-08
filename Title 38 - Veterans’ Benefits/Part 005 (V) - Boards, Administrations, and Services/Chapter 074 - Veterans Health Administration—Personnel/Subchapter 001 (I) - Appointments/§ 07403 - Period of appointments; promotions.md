@@ -60,9 +60,9 @@
 
 (4) If the Secretary receives recommendations under paragraph (2) from exclusive employee representatives on any part of a proposed system of promotion and advancement under that paragraph, the Secretary shall determine whether or not to accept the recommendations, either in whole or in part. If the Secretary determines not to accept all or part of the recommendations, the Secretary shall—
 
-&emsp;(A) notify the congressional veterans’ affairs committees of the recommendations and ofthe portion of the recommendations that the Secretary has determined not to accept;
+&emsp;(A) notify the congressional veterans’ affairs committees of the recommendations and of the portion of the recommendations that the Secretary has determined not to accept;
 
-&emsp;(B) meet and confer with such exclusive employee representatives, for a period not less than 30 days, for purposes of attempting to reach an agreement on whether and how to proceed with the portion of the recommendations that the Secretary has determined not to accept;
+&emsp;(B) meet and confer with such exclusive employee representatives, for a period not less than 30 days, for purposes of attempting toreach an agreement on whether and how to proceed with the portion of the recommendations that the Secretary has determined not to accept;
 
 &emsp;(C) at the election of the Secretary, or of a majority of such exclusive employee representatives who are participating in negotiations on such matter, employ the services of the Federal Mediation and Conciliation Service during the period referred to in subparagraph (B) for purposes of reaching such agreement; and
 

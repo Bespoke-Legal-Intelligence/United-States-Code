@@ -34,7 +34,7 @@ Regulations necessary or appropriate to carry out actions proposed in any statem
 
 #### (4) Congressional procedures applicable
 
-&emsp;The bill submitted by the President shall be introduced in accordance with the provisions of subsection (c)(1) of section 2191 of this title, and the provisions of subsections (d), (e), (f), and (g) of such section shall apply to the consideration of the bill. For the purpose of applying section 2191 of this title to such bill—
+&emsp;The bill submitted by the President shall be introduced in accordance with the provisionsof subsection (c)(1) of section 2191 of this title, and the provisions of subsections (d), (e), (f), and (g) of such section shall apply to the consideration of the bill. For the purpose of applying section 2191 of this title to such bill—
 
 &emsp;&emsp;(A) the term “trade agreement” shall be treated as a reference to the requirement, amendment, or recommendation, and
 

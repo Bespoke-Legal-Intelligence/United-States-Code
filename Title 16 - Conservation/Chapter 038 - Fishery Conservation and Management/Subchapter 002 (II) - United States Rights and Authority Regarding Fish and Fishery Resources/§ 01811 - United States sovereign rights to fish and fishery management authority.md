@@ -8,7 +8,7 @@ Except as provided in section 1812 of this title, the United States claims, and 
 
 The United States claims, and will exercise in the manner provided for in this chapter, exclusive fishery management authority over the following:
 
-&emsp;(1) All anadromous species throughout the migratory range of each such species beyond the exclusive economic zone; except that that management authority does not extend to such species during the time they are found within any waters of a foreign nation.
+&emsp;(1) All anadromous species throughout the migratory range of each such species beyondthe exclusive economic zone; except that that management authority does not extend to such species during the time they are found within any waters of a foreign nation.
 
 &emsp;(2) All Continental Shelf fishery resources beyond the exclusive economic zone.
 

@@ -88,7 +88,7 @@ The purpose of the Conference shall be to bring together the resources of govern
 
 #### (e) Funding
 
-Not later than 180 days after the establishment of the National Board, the National Boardshall transfer not more than $2,000,000 to the Office of the President to carry out this section, to remain available until expended.
+Not later than 180 days after the establishment of the National Board, the National Board shall transfer not more than $2,000,000 to the Office of the President to carry out this section, to remain available until expended.
 
 (Pub. L. 87–128, title III, §385H, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 411.)
 

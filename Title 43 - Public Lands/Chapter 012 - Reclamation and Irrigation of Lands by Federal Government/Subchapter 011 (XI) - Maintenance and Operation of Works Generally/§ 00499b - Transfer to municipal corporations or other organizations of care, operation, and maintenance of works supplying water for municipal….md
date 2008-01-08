@@ -4,3 +4,7 @@ Whenever a municipal corporation or other organization to which water for munici
 
 (Pub. L. 89–48, §2, June 24, 1965, 79 Stat. 172.)
 
+#### References in Text
+
+The Federal reclamation laws, referred to in text, are defined in section 499a of this title.
+

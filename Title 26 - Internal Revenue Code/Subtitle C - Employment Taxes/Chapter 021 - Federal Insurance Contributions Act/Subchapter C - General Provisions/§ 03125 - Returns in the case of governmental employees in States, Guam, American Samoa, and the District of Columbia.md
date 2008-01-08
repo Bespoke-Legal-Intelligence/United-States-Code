@@ -10,7 +10,7 @@ The return and payment of the taxes imposed by this chapter on the income of ind
 
 #### (c) American Samoa
 
-The return and payment of the taxes imposed by this chapter on the income of individuals who are officers or employees of the Government of American Samoa or any political subdivision thereof or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, and those imposed on such Government or political subdivision or instrumentality with respect to having such individuals in its employ, may be made by the Governor of American Samoa or by such agents as he may designate. The person making such return may, for convenience of administration, make payments of the tax imposed under section 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
+The return and payment of the taxes imposed by this chapter on the income of individuals whoare officers or employees of the Government of American Samoa or any political subdivision thereof or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, and those imposed on such Government or political subdivision or instrumentality with respect to having such individuals in its employ, may be made by the Governor of American Samoa or by such agents as he may designate. The person making such return may, for convenience of administration, make payments of the tax imposed under section 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
 
 #### (d) District of Columbia
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 90–248 applicable only with respect to remuneration paid 
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 317(c)(1), (2) of Pub. L. 89–97 applicable with respect to services performed after quarter ending September 30, 1965, and after quarter in which Secretary of the Treasury receives a certification from Commissioners of District of Columbia expressing their desire to have insurance system established by section 401 et seq. and 1395c et seq. of Title 42, The Public Health and Welfare, extended to officers and employees coming under provisions of such amendments, see section 317(g) of Pub. L. 89–97, set out as a note under section 410 of Title 42.
+Amendment by section 317(c)(1), (2) of Pub. L. 89–97 applicable with respect to services performed afterquarter ending September 30, 1965, and after quarter in which Secretary of the Treasury receives a certification from Commissioners of District of Columbia expressing their desire to have insurance system established by section 401 et seq. and 1395c et seq. of Title 42, The Public Health and Welfare, extended to officers and employees coming under provisions of such amendments, see section 317(g) of Pub. L. 89–97, set out as a note under section 410 of Title 42.
 
 Amendment by section 320(b)(4) of Pub. L. 89–97 applicable with respect to remuneration paid after December 1965, see section 320(c) of Pub. L. 89–97, set out as a note under section 3121 of this title.
 

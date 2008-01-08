@@ -14,7 +14,7 @@ Any person who violates any provision of this section shall, upon conviction the
 
 #### (d) Limitation period
 
-Any person may be prosecuted, tried, and punished for any violation of this section at any time within ten years after the commission of such offense, notwithstanding the provisions of any other statute of limitations: <i>Provided</i>, That if at the time of the commission of the offense such person is an officer or employee of the United States or of any department or agency thereof, or of any corporation the stock of which is owned in whole or in major part by the United States or any department or agency thereof,such person may be prosecuted, tried, and punished for any violation of this section at any time within ten years after such person has ceased to be employed as such officer or employee.
+Any person may be prosecuted, tried, and punished for any violation of this section at any time within ten years after the commission of such offense, notwithstanding the provisions of any other statute of limitations: <i>Provided</i>, That if at the time of the commission of the offense such person is an officer or employee of the United States or of any department or agency thereof, or of any corporation the stock of which is owned in whole or in major part by the United States or any department or agency thereof, such person may be prosecuted, tried, and punished for any violation of this section at any time within ten years after such person has ceased to be employed as such officer or employee.
 
 #### (e) Forfeiture of property
 
@@ -48,7 +48,7 @@ Any person may be prosecuted, tried, and punished for any violation of this sect
 
 1993—Subsec. (a). Pub. L. 103–199, §803(2)(A)–(C), redesignated subsec. (b) as (a), struck out “or an officer or member of any Communist organization as defined in paragraph (5) of section 782 of this title” after “foreign government”, and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person knowingly to combine, conspire, or agree with any other person to perform any act which would substantially contribute to the establishment within the United States of a totalitarian dictatorship, as defined in paragraph (15) of section 782 of this title, the direction and control of which is to be vested in, or exercised by or under the domination or control of, any foreign government, foreign organization, or foreign individual: <i>Provided, however</i>, That this subsection shall not apply to the proposal of a constitutional amendment.”
 
-Subsec. (b). Pub. L. 103–199, §803(2)(B), (D), redesignated subsec. (c) as (b) and struck out “, or any officer or member of any Communist organization as defined in paragraph (5) of section 782 of this title,” after “foreign government”. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 103–199, §803(2)(B), (D), redesignated subsec. (c) as (b) and struck out “, or any officeror member of any Communist organization as defined in paragraph (5) of section 782 of this title,” after “foreign government”. Former subsec. (b) redesignated (a).
 
 Subsecs. (c) to (e). Pub. L. 103–199, §803(2)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
 

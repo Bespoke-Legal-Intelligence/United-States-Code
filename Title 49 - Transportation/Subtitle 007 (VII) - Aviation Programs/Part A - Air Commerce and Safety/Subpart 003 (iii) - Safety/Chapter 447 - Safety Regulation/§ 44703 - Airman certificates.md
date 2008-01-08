@@ -38,7 +38,7 @@ Development and implementation of program.—Not later than 60 days after the da
 
 (d)
 
-Appeals.—(1) An individual whose application for the issuance or renewal of an airman certificate has been denied may appeal the denial to the National Transportation SafetyBoard, except if the individual holds a certificate that—
+Appeals.—(1) An individual whose application for the issuance or renewal of an airman certificate has been denied may appeal the denial to the National Transportation Safety Board, except if the individual holds a certificate that—
 
 &emsp;(A) is suspended at the time of denial; or
 
@@ -144,7 +144,7 @@ Requirement to maintain records.—The Administrator and air carriers shall main
 
 &emsp;(5)
 
-Receipt of consent; provision of information.—A person shall not furnish a record in response to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested; except that, for purposes of paragraph (15), the Administrator may allow an individual designated by the Administrator to accept and maintain written consent on behalf of the Administrator for records requested under paragraph (1)(A). A person who receives a request for records under this subsection shall furnish a copy of all of such requested records maintained by the person not later than 30 days after receiving the request.
+Receipt of consent; provision of information.—A person shall not furnish a record inresponse to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested; except that, for purposes of paragraph (15), the Administrator may allow an individual designated by the Administrator to accept and maintain written consent on behalf of the Administrator for records requested under paragraph (1)(A). A person who receives a request for records under this subsection shall furnish a copy of all of such requested records maintained by the person not later than 30 days after receiving the request.
 
 &emsp;(6)
 
@@ -188,7 +188,7 @@ Privacy protections.—An air carrier that receives the records of an individual
 
 &emsp;(12)
 
-Periodic review.—Not later than 18 months after the date of the enactment of the Pilot Records Improvement Act of 1996, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into accountrecent developments in the aviation industry—
+Periodic review.—Not later than 18 months after the date of the enactment of the Pilot Records Improvement Act of 1996, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
 
 &emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, air carrier records, and other records required to be furnished under subparagraphs (A) and (B) of paragraph (1); or
 
@@ -400,7 +400,7 @@ Requirements.—Improved pilots licenses issued under subsection (a) shall—
 
 “(c)
 
-Tampering.—To the extent practical, the Administrator shall develop methods to determine or reveal whether any component or security feature of a licenseissued under subsection (a) has been tampered, altered, or counterfeited.
+Tampering.—To the extent practical, the Administrator shall develop methods to determine or reveal whether any component or security feature of a license issued under subsection (a) has been tampered, altered, or counterfeited.
 
 “(d)
 

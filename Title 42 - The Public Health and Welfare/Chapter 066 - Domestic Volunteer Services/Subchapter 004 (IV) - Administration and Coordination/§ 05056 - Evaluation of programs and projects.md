@@ -6,7 +6,7 @@ The Director shall measure and evaluate the impact of all programs authorized by
 
 #### (b) General standards; publication; reports of ensuing actions
 
-The Director shall develop and publish general standards for evaluation of program and projecteffectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actions taken as a result of evaluations carried out under this section.
+The Director shall develop and publish general standards for evaluation of program and project effectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actions taken as a result of evaluations carried out under this section.
 
 #### (c) Opinions of participants
 
@@ -70,11 +70,9 @@ Subsecs. (f), (g). Pub. L. 99–551, §8(b), added subsec. (f) and redesignated 
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
-
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a noteunder section 8332 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1986 Amendment
 

@@ -10,7 +10,7 @@ The sums appropriated to carry out the provisions of this section shall be allot
 
 #### (c) “State” defined
 
-For the purposes of this section, the term “State” includes the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands, the District of Columbia, and the Trust Territory of the Pacific Islands.
+For the purposes of this section, the term “State” includes the Commonwealth of PuertoRico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands, the District of Columbia, and the Trust Territory of the Pacific Islands.
 
 #### (d) Authorization of appropriations
 

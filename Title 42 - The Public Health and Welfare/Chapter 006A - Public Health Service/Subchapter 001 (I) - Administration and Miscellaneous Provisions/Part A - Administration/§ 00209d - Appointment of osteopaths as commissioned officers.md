@@ -1,6 +1,6 @@
 ### §209d. Appointment of osteopaths as commissioned officers
 
-Graduates of colleges of osteopathy whose graduates are eligible for licensure to practicemedicine or osteopathy in a majority of the States of the United States, or approved by a body or bodies acceptable to the Secretary, shall be eligible, subject to the other provisions of this Act, for appointment as commissioned medical officers in the Public Health Service.
+Graduates of colleges of osteopathy whose graduates are eligible for licensure to practice medicine or osteopathy in a majority of the States of the United States, or approved by a body or bodies acceptable to the Secretary, shall be eligible, subject to the other provisions of this Act, for appointment as commissioned medical officers in the Public Health Service.
 
 (Feb. 28, 1948, ch. 83, §5(b), 62 Stat. 40; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631.)
 

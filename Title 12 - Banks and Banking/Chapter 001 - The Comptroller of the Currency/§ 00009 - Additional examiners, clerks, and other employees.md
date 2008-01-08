@@ -14,7 +14,7 @@ Section 1151a, included within the reference to sections 1151 to 1318 of this ti
 
 Sections 1245, 1248, and 1311 to 1318, included within the reference to sections 1151 to 1318 of this title, were repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948.
 
-The bureau, referred to in text, is known as the Office of the Comptroller of the Currency.
+The bureau referred to in text is known as the Office of the Comptroller of the Currency.
 
 #### Codification
 

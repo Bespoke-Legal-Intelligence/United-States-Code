@@ -76,7 +76,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (iii) Exception for refundings
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “private activity bond” shall not include anyrefunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “private activity bond” shall not include any refunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
 
 #### (iv) Certain bonds issued before September 1, 1986
 
@@ -108,7 +108,7 @@ For purposes of paragraph (2) of subsection (a)—
 
 &emsp;If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term “straight line recovery of intangibles” means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I,§112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759.)
 
 #### Amendment of Section
 
@@ -134,7 +134,7 @@ A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 
 
 Reserves for losses on bad debts of financial institutions.—In the case of a financial institution to which section 593 applies, the amount by which the deduction allowable for the taxable year for a reasonable addition to a reserve for bad debts exceeds the amount that would have been allowable had the institution maintained its bad debt reserve for all taxable years on the basis of actual experience.”
 
-1993—Subsec. (a)(6), (7). Pub. L. 103–66, §13171(a), redesignated pars. (7) and (8) as (6) and (7), respectively,and struck out heading and text of former par. (6). Text read as follows:
+1993—Subsec. (a)(6), (7). Pub. L. 103–66, §13171(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows:
 
 “(A)
 
@@ -224,7 +224,7 @@ Section 1007(f)(4) of Pub. L. 100–647 provided that:
 
 &emsp;“(i) which is described in paragraph (4) or (12) of section 57(a) of the Internal Revenue Code of 1954 (as so in effect), and
 
-&emsp;“(ii) to which paragraph (1) or (5) of section 56(a) of the Internal Revenue Code of 1986 would apply if thetaxable year referred to in subparagraph (A) began after December 31, 1986.”
+&emsp;“(ii) to which paragraph (1) or (5) of section 56(a) of the Internal Revenue Code of 1986 would apply if the taxable year referred to in subparagraph (A) began after December 31, 1986.”
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

@@ -38,7 +38,7 @@ The Committee shall develop a national plan for research in mining and mineral r
 
 Section 10 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
 
-(Pub. L. 98–409, §9, Aug. 29, 1984, 98 Stat. 1540; Pub. L. 100–483, §§8, 9, Oct. 12, 1988, 102 Stat. 2340;Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 98–409, §9, Aug. 29, 1984, 98 Stat. 1540; Pub. L. 100–483, §§8, 9, Oct. 12, 1988, 102 Stat. 2340; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### References in Text
 

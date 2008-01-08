@@ -12,7 +12,7 @@ As used in this part:
 
 &emsp;&emsp;(A) a nonprofit municipal university, established by the governing body of the city in which it is located, and operating as of July 23, 1992, under that authority; or
 
-&emsp;&emsp;(B) an institution of higher education, or a consortium of such institutions any one of which meets all of the requirements of this paragraph, which—
+&emsp;&emsp;(B) an institution of higher education, or a consortium of such institutions any one ofwhich meets all of the requirements of this paragraph, which—
 
 &emsp;&emsp;&emsp;(i) is located in an urban area;
 

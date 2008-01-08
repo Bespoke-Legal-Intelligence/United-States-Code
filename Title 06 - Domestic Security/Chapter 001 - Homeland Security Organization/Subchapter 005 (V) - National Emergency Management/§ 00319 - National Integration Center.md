@@ -26,7 +26,7 @@ There is established in the Agency a National Integration Center.
 
 #### (A) National Response Plan
 
-&emsp;&emsp;The Secretary, acting through the Administrator, shall ensure that the National Response Plan provides for a clear chain ofcommand to lead and coordinate the Federal response to any natural disaster, act of terrorism, or other man-made disaster.
+&emsp;&emsp;The Secretary, acting through the Administrator, shall ensure that the National Response Plan provides for a clear chain of command to lead and coordinate the Federal response to any natural disaster, act of terrorism, or other man-made disaster.
 
 #### (B) Administrator
 

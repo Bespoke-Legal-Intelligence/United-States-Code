@@ -32,7 +32,7 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;(5) a description of the progress made toward establishing procedures to facilitate the timely processing of requests for subsequent arrangements and export licenses in order to enhance the reliability of the United States in meeting its commitments to supply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies; <sup>1</sup>
 
-&emsp;(6) a description of the implementation of nuclear and nuclear-related dual-use exportcontrols in the preceding calendar year, including a summary by type of commodity and destination of—
+&emsp;(6) a description of the implementation of nuclear and nuclear-related dual-use export controls in the preceding calendar year, including a summary by type of commodity and destination of—
 
 &emsp;&emsp;(A) all transactions for which—
 
@@ -48,7 +48,7 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;&emsp;&emsp;(i) a sanction has been imposed under section 6301(a) of this title or section 6303 of this title or section 2799aa–1(b)(1) of this title;
 
-&emsp;&emsp;&emsp;(ii) sales or leases have been denied under section 2753(f) of this title or transactions prohibited by reason of acts relating to proliferation of nuclear explosive devices as described in section 2780(d) of this title;
+&emsp;&emsp;&emsp;(ii) sales or leases have been denied under section 2753(f) of this title or transactions prohibited by reason of acts relating to proliferation of nuclear explosivedevices as described in section 2780(d) of this title;
 
 &emsp;&emsp;&emsp;(iii) a sanction has not been imposed by reason of section 6301(c)(2) of this title or the imposition of a sanction has been delayed under section 2799aa–1(b)(4) of this title; or
 

@@ -24,7 +24,7 @@ As used in this section:
 
 #### (4) Inspection
 
-&emsp;The term “inspection” means an onsite evaluation of the facility by the Secretary, orState or local agency on behalf of the Secretary.
+&emsp;The term “inspection” means an onsite evaluation of the facility by the Secretary, or State or local agency on behalf of the Secretary.
 
 #### (5) Mammogram
 
@@ -96,7 +96,7 @@ As used in this section:
 
 #### (4) Provisional certificate
 
-&emsp;The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1) of this section, except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A) of this section. A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90 days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic area served by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to theSecretary steps that will be taken to qualify the facility for certification under subsection (b)(1) of this section.
+&emsp;The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1) of this section, except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A) of this section. A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90 days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic area served by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1) of this section.
 
 #### (d) Application for certificate
 
@@ -344,7 +344,7 @@ As used in this section:
 
 #### (F) Records and annual reports
 
-&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Sucha State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
+&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Such a State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
 
 #### (2) Inspection of accredited facilities
 
@@ -356,7 +356,7 @@ As used in this section:
 
 #### (4) Timing
 
-&emsp;The Secretary, or State or local agency, may conduct inspections under paragraphs (1), (2), and (3), during regular business hours or at a mutually agreeable time and after providing such notice as the Secretary may prescribe, except that the Secretary may waive such requirements if the continued performance of mammography at such facility threatens the public health.
+&emsp;The Secretary, or State or local agency, may conduct inspections under paragraphs (1),\(2), and (3), during regular business hours or at a mutually agreeable time and after providing such notice as the Secretary may prescribe, except that the Secretary may waive such requirements if the continued performance of mammography at such facility threatens the public health.
 
 #### (5) Limited reinspection
 
@@ -414,7 +414,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;The certificate of a facility issued under subsection (c) of this section may be suspended or revoked if the Secretary finds, after providing,except as provided in paragraph (2), reasonable notice and an opportunity for a hearing to the owner or operator of the facility, that the owner, operator, or any employee of the facility—
+&emsp;The certificate of a facility issued under subsection (c) of this section may be suspended or revoked if the Secretary finds, after providing, except as provided in paragraph (2), reasonable notice and an opportunity for a hearing to the owner or operator of the facility, that the owner, operator, or any employee of the facility—
 
 &emsp;&emsp;(A) has been guilty of misrepresentation in obtaining the certificate;
 
@@ -468,7 +468,7 @@ If the Secretary determines that—
 
 #### (3) Judgment of court
 
-&emsp;Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to affirm the action, or to set the action asidein whole or in part, temporarily or permanently. The findings of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive.
+&emsp;Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to affirm the action, or to set the action aside in whole or in part, temporarily or permanently. The findings of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive.
 
 #### (4) Finality of judgment
 
@@ -568,7 +568,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence of breast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
+&emsp;&emsp;The Secretary shall award grants to such entities as the Secretary may determine to be appropriate to establish surveillance systems in selected geographic areas to provide data to evaluate the functioning and effectiveness of breast cancer screening programs in the United States, including assessments of participation rates in screening mammography, diagnostic procedures, incidence ofbreast cancer, mode of detection (mammography screening or other methods), outcome and follow up information, and such related epidemiologic analyses that may improve early cancer detection and contribute to reduction in breast cancer mortality. Grants may be awarded for further research on breast cancer surveillance systems upon the Secretary's review of the evaluation of the program.
 
 #### (B) Use of funds
 
@@ -656,7 +656,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) of this section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
+&emsp;&emsp;The Secretary shall, in accordance with this paragraph assess and collect fees frompersons described in subsection (d)(1)(A) of this section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
 
 #### (B) Deposit and appropriations
 
@@ -718,7 +718,7 @@ Subsec. (f)(1)(G)(i). Pub. L. 105–248, §5, added cl. (i) and struck out forme
 
 > whichever is longer; and”.
 
-Subsec. (f)(1)(G)(ii)(IV). Pub. L. 105–248, §6, added subcl. (IV) and struck out former subcl. (IV) which readas follows: “if such report is sent to the patient, the report shall include a summary written in terms easily understood by a lay person; and”.
+Subsec. (f)(1)(G)(ii)(IV). Pub. L. 105–248, §6, added subcl. (IV) and struck out former subcl. (IV) which read as follows: “if such report is sent to the patient, the report shall include a summary written in terms easily understood by a lay person; and”.
 
 Subsec. (g)(1). Pub. L. 105–248, §9(1), inserted “or local” after “State” wherever appearing.
 

@@ -46,6 +46,10 @@ Subsec. (f). Pub. L. 108–458, §7121(c)(1), redesignated subsec. (e) as (f).
 
 1977—Pub. L. 95–45 substituted “Committee on International Relations of the House of Representatives” for “Committee on Foreign Affairs of the House of Representatives” and inserted requirement that any department or agency of the United States Government which enters into any international agreement on behalf of the United States transmit to the Department of State the text of such agreement not later than twenty days after the agreement has been signed.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Short Title
 
 This section is popularly known as the Case-Zablocki Act.

@@ -14,7 +14,7 @@ Each department, agency, and instrumentality of executive, legislative, and judi
 
 #### (d) Vehicles operated on Federal installations
 
-Each department, agency, and instrumentality of executive, legislative, and judicial branches of the Federal Government having jurisdiction over any property or facility shall require all employees which operate motor vehicles on the property or facility to furnish proof of compliance with the applicable requirements of any vehicle inspection and maintenance program established under the provisions of subpart 2 of part D of this subchapter or subpart 3 of part D of this subchapter for the State in which such property or facility is located (without regard to whether such vehicles are registered in the State). The installation shall use one of the following methods to establish proof of compliance—
+Each department, agency, and instrumentality of executive, legislative, and judicial branches of the Federal Government having jurisdiction over any property or facility shall require all employees which operate motor vehicles on the property or facility to furnish proof of compliance with the applicable requirements of any vehicle inspection and maintenance program established under the provisions of subpart2 of part D of this subchapter or subpart 3 of part D of this subchapter for the State in which such property or facility is located (without regard to whether such vehicles are registered in the State). The installation shall use one of the following methods to establish proof of compliance—
 
 &emsp;(1) presentation by the vehicle owner of a valid certificate of compliance from the vehicle inspection and maintenance program;
 
@@ -32,7 +32,7 @@ Section was formerly classified to section 1857f of this title.
 
 1990—Subsec. (a). Pub. L. 101–549, §235, inserted heading.
 
-Pub. L. 101–549, §101(e), amended second sentence generally. Prior to amendment, second sentence read as follows: “The preceding sentence shall apply (A) to any requirement whether substantive or procedural (including any recordkeeping or reporting requirement, anyrequirement respecting permits and any other requirement whatsoever), (B) to the exercise of any Federal, State, or local administrative authority, and (C) to any process and sanction, whether enforced in Federal, State, or local courts or in any other manner.”
+Pub. L. 101–549, §101(e), amended second sentence generally. Prior to amendment, second sentence read as follows: “The preceding sentence shall apply (A) to any requirement whether substantive or procedural (including any recordkeeping or reporting requirement, any requirement respecting permits and any other requirement whatsoever), (B) to the exercise of any Federal, State, or local administrative authority, and (C) to any process and sanction, whether enforced in Federal, State, or local courts or in any other manner.”
 
 Subsec. (b). Pub. L. 101–549, §302(d), substituted “section 7412(i)(4) of this title” for “section 7412(c) of this title”.
 
@@ -72,5 +72,5 @@ Ex. Ord. No. 11282, May 26, 1966, 31 F.R. 7663, which provided for the preventio
 
 #### Executive Order No. 11507
 
-Ex. Ord. No. 11507, Feb. 4, 1970, 35 F.R. 2573, which provided for the prevention, control, and abatement of air pollution at Federal facilities, was superseded by Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, formerly set out as a note under section 4331 of this title.
+Ex. Ord. No. 11507, Feb. 4, 1970, 35 F.R. 2573, which provided for the prevention, control, and abatement of airpollution at Federal facilities, was superseded by Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, formerly set out as a note under section 4331 of this title.
 

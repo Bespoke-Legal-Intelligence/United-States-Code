@@ -8,7 +8,7 @@
 
 #### (b) Eligibility for insurance; conditions; limits
 
-To be eligible for insurance under this section, a mortgage shall meet the requirements of one of the other sections or subchapters of this chapter; except that, in lieu of determining the appraised value or the replacement cost of the property in cases involving new construction or the estimated cost of repair and rehabilitation of improvement in cases involving existing properties, the Secretary shall estimate the cost of replacing the property using comparable conventional design, materials, and construction, and any limitation upon the maximum mortgage amount available to a nonoccupant owner shall not, in the discretion of the Secretary, be applicable to mortgages insured under this section.
+To be eligible for insurance under this section, a mortgage shall meet the requirements of oneof the other sections or subchapters of this chapter; except that, in lieu of determining the appraised value or the replacement cost of the property in cases involving new construction or the estimated cost of repair and rehabilitation of improvement in cases involving existing properties, the Secretary shall estimate the cost of replacing the property using comparable conventional design, materials, and construction, and any limitation upon the maximum mortgage amount available to a nonoccupant owner shall not, in the discretion of the Secretary, be applicable to mortgages insured under this section.
 
 #### (c) Contracts, agreements, and financial undertakings with mortgagor
 
@@ -48,7 +48,7 @@ Subsec. (e). Pub. L. 90–448, §309(2), substituted “the section or subchapte
 
 Subsec. (g). Pub. L. 89–117, §1108(n)(3), repealed subsec. (g) which created the Experimental Housing Insurance Fund, provided for transfer of funds thereto, and authorized the charging of expenses thereto.
 
-1964—Subsec. (a). Pub. L. 88–560, §118(a), substituted “home improvement loans, and including advances onmortgages” for “, in the case of mortgages insured under subsection (b)(2) of this section, advances on such mortgages”.
+1964—Subsec. (a). Pub. L. 88–560, §118(a), substituted “home improvement loans, and including advances on mortgages” for “, in the case of mortgages insured under subsection (b)(2) of this section, advances on such mortgages”.
 
 Subsec. (b). Pub. L. 88–560, §118(b), substituted provisions which make insurance available for mortgages meeting the requirements of any other sections of subchapter II of this chapter for provisions which made insurance available for mortgages meeting the requirements of section 1709(b) or 1713(b), (c) of this title and made the Commissioner's estimate of replacement cost of the property applicable to mortgages meeting the requirements of any section of subchapter II of this chapter in lieu of determining the appraised value or the replacement cost of the property in new construction or estimated cost of repair and rehabilitation or improvement for existing properties.
 

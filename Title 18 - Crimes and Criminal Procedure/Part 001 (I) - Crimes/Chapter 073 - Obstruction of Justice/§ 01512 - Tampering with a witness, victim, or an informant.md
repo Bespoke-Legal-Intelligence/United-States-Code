@@ -30,7 +30,7 @@
 
 (3) The punishment for an offense under this subsection is—
 
-&emsp;(A) in the case of murder (as defined in section 1111), the death penalty or imprisonment for life, and in the case of any other killing, the punishment provided in section 1112;
+&emsp;(A) in the case of a killing, the punishment provided in sections 1111 and 1112;
 
 &emsp;(B) in the case of—
 
@@ -38,9 +38,9 @@
 
 &emsp;&emsp;(ii) the use or attempted use of physical force against any person;
 
-> &emsp;imprisonment for not more than 20 years; and
+> &emsp;imprisonment for not more than 30 years; and
 
-&emsp;(C) in the case of the threat of use of physical force against any person, imprisonment for not more than 10 years.
+&emsp;(C) in the case of the threat of use of physical force against any person, imprisonment for not more than 20 years.
 
 (b) Whoever knowingly uses intimidation, threatens, or corruptly persuades another person, or attempts to do so, or engages in misleading conduct toward another person, with intent to—
 
@@ -58,7 +58,7 @@
 
 &emsp;(3) hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation <sup>1</sup> supervised release,,<sup>1</sup> parole, or release pending judicial proceedings;
 
-> shall be fined under this title or imprisoned not more than ten years, or both.
+> shall be fined under this title or imprisoned not more than 20 years, or both.
 
 (c) Whoever corruptly—
 
@@ -78,7 +78,7 @@
 
 &emsp;(4) causing a criminal prosecution, or a parole or probation revocation proceeding, to be sought or instituted, or assisting in such prosecution or proceeding;
 
-> or attempts to do so, shall be fined under this title or imprisoned not more than one year, or both.
+> or attempts to do so, shall be fined under this title or imprisoned not more than 3 years, or both.
 
 (e) In a prosecution for an offense under this section, it is an affirmative defense, as to which the defendant has the burden of proof by a preponderance of the evidence, that the conduct consisted solely of lawful conduct and that the defendant's sole intention was to encourage, induce, or cause the other person to testify truthfully.
 
@@ -102,9 +102,19 @@
 
 (k) Whoever conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 107–204, title XI, §1102, July 30, 2002, 116 Stat. 807; Pub. L. 107–273, div. B, title III, §3001(a), (c)(1), Nov. 2, 2002, 116 Stat. 1803, 1804.)
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 107–204, title XI, §1102, July 30, 2002, 116 Stat. 807; Pub. L. 107–273, div. B, title III, §3001(a), (c)(1), Nov. 2, 2002, 116 Stat. 1803, 1804; Pub. L. 110–177, title II, §205, Jan. 7, 2008, 121 Stat. 2537.)
 
 #### Amendments
+
+2008—Subsec. (a)(3)(A). Pub. L. 110–177, §205(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of murder (as defined in section 1111), the death penalty or imprisonment for life, and in the case of any other killing, the punishment provided in section 1112;”.
+
+Subsec. (a)(3)(B). Pub. L. 110–177, §205(1)(B), substituted “30 years” for “20 years” in concluding provisions.
+
+Subsec. (a)(3)(C). Pub. L. 110–177, §205(1)(C), substituted “20 years” for “10 years”.
+
+Subsec. (b). Pub. L. 110–177, §205(2), substituted “20 years” for “ten years” in concluding provisions.
+
+Subsec. (d). Pub. L. 110–177, §205(3), substituted “3 years” for “one year” in concluding provisions.
 
 2002—Subsec. (a)(1). Pub. L. 107–273, §3001(a)(1)(A), substituted “as provided in paragraph (3)” for “as provided in paragraph (2)” in concluding provisions.
 

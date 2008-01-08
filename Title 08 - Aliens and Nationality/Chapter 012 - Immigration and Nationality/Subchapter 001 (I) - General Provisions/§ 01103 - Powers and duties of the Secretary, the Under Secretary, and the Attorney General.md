@@ -20,7 +20,7 @@
 
 (9) Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.
 
-(10) In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
+(10) In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, withthe consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
 
 (11) The Attorney General, in support of persons in administrative detention in non-Federal institutions, is authorized—
 
@@ -168,45 +168,51 @@ Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: “
 
 #### Improvement of Barriers at Border
 
-Pub. L. 104–208, div. C, title I, §102(a)–(c), Sept. 30, 1996, 110 Stat. 3009–554, 3009–555, as amended by Pub. L. 109–13, div. B, title I, §102, May 11, 2005, 119 Stat. 306; Pub. L. 109–367, §3, Oct. 26, 2006, 120 Stat. 2638, provided that:
+Pub. L. 104–208, div. C, title I, §102(a)–(c), Sept. 30, 1996, 110 Stat. 3009–554, 3009–555, as amended by Pub. L. 109–13, div. B, title I, §102, May 11, 2005, 119 Stat. 306; Pub. L. 109–367, §3, Oct. 26, 2006, 120 Stat. 2638; Pub. L. 110–161, div. E, title V, §564(a), Dec. 26, 2007, 121 Stat. 2090, provided that:
 
 “(a)
 
-In General.—The Attorney General, in consultation with the Commissioner of Immigration and Naturalization, shall take such actions as may be necessary to install additional physical barriers and roads (including the removal of obstacles to detection of illegal entrants) in the vicinity of the United States border to deter illegal crossings in areas of high illegal entry into the United States.
+In General.—The Secretary of Homeland Security shall take such actions as may be necessary to install additional physical barriers and roads (including the removal of obstacles to detection of illegal entrants) in the vicinity of the United States border to deter illegal crossings in areas of high illegal entry into the United States.
 
 “(b)
 
-Construction of Fencing and Road Improvements in the Border Area.—
+Construction of Fencing and Road Improvements Along the Border.—
 
 &emsp;“(1)
 
-Security features.—
+Additional fencing along southwest border.—
 
 &emsp;&emsp;“(A)
 
-Reinforced fencing.—In carrying out subsection (a), the Secretary of Homeland Security shall provide for least \[sic\] 2 layers of reinforced fencing, the installation of additional physical barriers, roads, lighting, cameras, and sensors—
-
-&emsp;&emsp;&emsp;“(i) extending from 10 miles west of the Tecate, California, port of entry to 10 miles east of the Tecate, California, port of entry;
-
-&emsp;&emsp;&emsp;“(ii) extending from 10 miles west of the Calexico, California, port of entry to 5 miles east of the Douglas, Arizona, port of entry;
-
-&emsp;&emsp;&emsp;“(iii) extending from 5 miles west of the Columbus, New Mexico, port of entry to 10 miles east of El Paso, Texas;
-
-&emsp;&emsp;&emsp;“(iv) extending from 5 miles northwest of the Del Rio, Texas, port of entry to 5 miles southeast of the Eagle Pass, Texas, port of entry; and
-
-&emsp;&emsp;&emsp;“(v) extending 15 miles northwest of the Laredo, Texas, port of entry to the Brownsville, Texas, port of entry.
+Reinforced fencing.—In carrying out subsection (a), the Secretary of Homeland Security shall construct reinforced fencing along not less than 700 miles of the southwest border where fencing would be most practical and effective and provide for the installation of additional physical barriers, roads, lighting, cameras, and sensors to gain operational control of the southwest border.
 
 &emsp;&emsp;“(B)
 
-Priority areas.—With respect to the border described—
+Priority areas.—In carrying out this section \[amending this section\], the Secretary of Homeland Security shall—
 
-&emsp;&emsp;&emsp;“(i) in subparagraph (A)(ii), the Secretary shall ensure that an interlocking surveillance camera system is installed along such area by May 30, 2007, and that fence construction is completed by May 30, 2008; and
+&emsp;&emsp;&emsp;“(i) identify the 370 miles, or other mileage determined by the Secretary, whose authority to determine other mileage shall expire on December 31, 2008, along the southwest border where fencing would be most practical and effective in deterring smugglers and aliens attempting to gain illegal entry into the United States; and
 
-&emsp;&emsp;&emsp;“(ii) in subparagraph (A)(v), the Secretary shall ensure that fence construction from 15 miles northwest of the Laredo, Texas, port of entry to 15 southeast of the Laredo, Texas, port of entry is completed by December 31, 2008.
+&emsp;&emsp;&emsp;“(ii) not later than December 31, 2008, complete construction of reinforced fencing along the miles identified under clause (i).
 
 &emsp;&emsp;“(C)
 
-Exception.—If the topography of a specific area has an elevation grade that exceeds 10 percent, the Secretary may use other means to secure such area, including the use of surveillance and barrier tools.
+Consultation.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—In carrying out this section, the Secretary of Homeland Security shall consult with the Secretary of the Interior, the Secretary of Agriculture, States, local governments, Indian tribes, and property owners in the United States to minimize the impact on the environment, culture, commerce, and quality of life for the communities and residents located near the sites at which such fencing is to be constructed.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Savings provision.—Nothing in this subparagraph may be construed to—
+
+“(I) create or negate any right of action for a State, local government, or other person or entity affected by this subsection; or
+
+“(II) affect the eminent domain laws of the United States or of any State.
+
+&emsp;&emsp;“(D)
+
+Limitation on requirements.—Notwithstanding subparagraph (A), nothing in this paragraph shall require the Secretary of Homeland Security to install fencing, physical barriers, roads, lighting, cameras, and sensors in a particular location along an international border of the United States, if the Secretary determines that the use or placement of such resources is not the most appropriate means to achieve and maintain operational control over the international border at such location.
 
 &emsp;“(2)
 
@@ -218,7 +224,7 @@ Safety features.—The Attorney General, while constructing the additional fenci
 
 &emsp;“(4)
 
-Authorization of appropriations.—There are authorized to be appropriated to carry out this subsection not to exceed $12,000,000. Amounts appropriated under this paragraph are authorized to remain available until expended.
+Authorization of appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this subsection. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
 “(c)
 
@@ -234,7 +240,7 @@ Federal court review.—
 
 &emsp;&emsp;“(A)
 
-In general.—The district courts of the United States shall have exclusive jurisdiction to hear all causes or claims arising from any action undertaken, or any decision made, by the Secretary of Homeland Security pursuant to paragraph (1). A cause of action or claim may only be brought alleging a violation of the Constitution of the United States. The court shall not have jurisdiction to hear any claim not specified in this subparagraph.
+In general.—The district courts of the United States shall have exclusive jurisdiction to hear all causes or claims arising from any actionundertaken, or any decision made, by the Secretary of Homeland Security pursuant to paragraph (1). A cause of action or claim may only be brought alleging a violation of the Constitution of the United States. The court shall not have jurisdiction to hear any claim not specified in this subparagraph.
 
 &emsp;&emsp;“(B)
 

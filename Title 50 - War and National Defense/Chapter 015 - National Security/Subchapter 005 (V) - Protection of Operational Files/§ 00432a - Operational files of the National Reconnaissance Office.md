@@ -56,7 +56,7 @@
 
 &emsp;(v) In proceedings under clauses (iii) and (iv), the parties may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36.
 
-&emsp;(vi) If the court finds under this paragraph that NRO has improperly withheld requested records because of failure to comply with anyprovision of this subsection, the court shall order NRO to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 and such order shall be the exclusive remedy for failure to comply with this subsection.
+&emsp;(vi) If the court finds under this paragraph that NRO has improperly withheld requested records because of failure to comply with any provision of this subsection, the court shall order NRO to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 and such order shall be the exclusive remedy for failure to comply with this subsection.
 
 &emsp;(vii) If at any time following the filing of a complaint pursuant to this paragraph NRO agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 
@@ -64,7 +64,7 @@
 
 #### (b) Decennial review of exempted operational files
 
-(1) Not less than once every 10 years, the Director of the National Reconnaissance Office and the Director of National Intelligence shall review the exemptions in force under subsection (a)(1) of this section to determine whether such exemptions may be removed from the category of exempted files or any portion thereof. The Director of National Intelligence must approve any determination to remove such exemptions.
+(1) Not less than once every 10 years, the Director of the National Reconnaissance Officeand the Director of National Intelligence shall review the exemptions in force under subsection (a)(1) of this section to determine whether such exemptions may be removed from the category of exempted files or any portion thereof. The Director of National Intelligence must approve any determination to remove such exemptions.
 
 (2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 

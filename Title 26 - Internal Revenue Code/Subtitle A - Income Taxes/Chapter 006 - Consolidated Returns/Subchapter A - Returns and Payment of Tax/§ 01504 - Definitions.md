@@ -120,11 +120,11 @@ In determining the consolidated taxable income of an affiliated group for any ta
 
 &emsp;(2) any amount treated as received under section 805(b)(3) of such Act.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Pub. L. 85–866, title I, §64(d)(3), Sept. 2, 1958, 72 Stat. 1657; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 86–376, §2(c), Sept. 23, 1959, 73 Stat. 699; Pub. L. 86–779, §10(j), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 89–389, §4(b)(3), Apr. 14, 1966, 80 Stat. 116; Pub. L. 91–172, title I, §121(a)(4), Dec. 30, 1969, 83 Stat. 537; Pub. L. 92–178, title V, §502(e), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), Oct. 4,1976, 90 Stat. 1584, 1646, 1649, 1739; Pub. L. 95–600, title I, §141(f)(4), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), Apr. 1, 1980, 94 Stat. 199, 200; Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), July 18, 1984, 98 Stat. 577, 756; Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), Oct. 22, 1986, 100 Stat. 2408, 2800, 2804, 2960; Pub. L. 100–647, title I, §1018(d)(10), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 101–508, title XI, §11814(b), Nov. 5, 1990, 104 Stat. 1388–557; Pub. L. 104–188, title I, §§1308(d)(2), 1702(h)(6), Aug. 20, 1996, 110 Stat. 1783, 1874.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Pub. L. 85–866, title I, §64(d)(3), Sept. 2, 1958, 72 Stat. 1657; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 86–376, §2(c), Sept. 23, 1959, 73 Stat. 699; Pub. L. 86–779, §10(j), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 89–389, §4(b)(3), Apr. 14, 1966, 80 Stat. 116; Pub. L. 91–172, title I, §121(a)(4), Dec. 30, 1969, 83 Stat. 537; Pub. L. 92–178, title V, §502(e), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), Oct. 4, 1976, 90 Stat. 1584, 1646, 1649, 1739; Pub. L. 95–600, title I, §141(f)(4), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), Apr. 1, 1980, 94 Stat. 199, 200; Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), July 18, 1984, 98 Stat. 577, 756; Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), Oct. 22, 1986, 100 Stat. 2408, 2800, 2804, 2960; Pub. L. 100–647, title I, §1018(d)(10), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 101–508, title XI, §11814(b), Nov. 5, 1990, 104 Stat. 1388–557; Pub. L. 104–188, title I, §§1308(d)(2), 1702(h)(6), Aug. 20, 1996, 110 Stat. 1783, 1874.)
 
 #### References in Text
 
-Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subsec. (f)(1), (2), is section 805(b)(2)(A) and (3) of Pub. L. 98–369, which is set out as a note under section 991 of this title.
+Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subsec. (f)(1), (2), is section805(b)(2)(A) and (3) of Pub. L. 98–369, which is set out as a note under section 991 of this title.
 
 #### Amendments
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1024(c)(15), (16) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
-Amendment by section 1804(e)(1), (10) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1804(e)(1), (10) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -278,7 +278,7 @@ Treatment of certain affiliated groups.—If—
 
 “(9)
 
-Treatment of certain corporations affiliated during 1971.— In the case of a group of corporationswhich filed a consolidated Federal income tax return for the taxable year beginning during 1971 and which—
+Treatment of certain corporations affiliated during 1971.— In the case of a group of corporations which filed a consolidated Federal income tax return for the taxable year beginning during 1971 and which—
 
 &emsp;“(A) included as a common parent on December 31, 1971, a Delaware corporation incorporated on August 26, 1969, and
 
@@ -366,7 +366,7 @@ In general.—Subsection (a) shall not apply to any loss (or credit) of any corp
 
 &emsp;“(2) $40,000,000
 
-limitation.—The aggregate amount of losses (and the deduction equivalent of credits asdetermined in the same manner as under section 469(j)(5) of the 1986 Code) to which paragraph (1) applies with respect to any corporation shall not exceed $40,000,000. For purposes of this paragraph, a Native Corporation and all other corporations all of the stock of which is owned directly by such corporation shall be treated as 1 corporation.
+limitation.—The aggregate amount of losses (and the deduction equivalent of credits as determined in the same manner as under section 469(j)(5) of the 1986 Code) to which paragraph (1) applies with respect to any corporation shall not exceed $40,000,000. For purposes of this paragraph, a Native Corporation and all other corporations all of the stock of which is owned directly by such corporation shall be treated as 1 corporation.
 
 &emsp;“(3)
 

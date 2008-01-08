@@ -8,7 +8,7 @@ The Secretary shall, in fulfilling his responsibilities under this chapter, sele
 
 &emsp;(3) promotion of ocean thermal energy conversion facilities for coastal areas, islands, and isolated military institutions which are vulnerable to interruption in the fossil fuel supply;
 
-&emsp;(4) preference for and priority to persons and domestic firms whose base of operations is inthe United States as will assure that the program under this chapter promotes the development of a United States domestic technology for ocean thermal energy conversion; and
+&emsp;(4) preference for and priority to persons and domestic firms whose base of operations is in the United States as will assure that the program under this chapter promotes the development of a United States domestic technology for ocean thermal energy conversion; and
 
 &emsp;(5) preference for proposals for pilot and demonstration projects in which the respondents certify their intent to become an integral part of the industrial infrastructure necessary to meet the goals of this chapter.
 

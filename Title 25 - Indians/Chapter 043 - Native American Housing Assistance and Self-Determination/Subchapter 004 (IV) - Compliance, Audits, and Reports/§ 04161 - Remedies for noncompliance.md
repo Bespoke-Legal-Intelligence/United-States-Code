@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) terminate payments under this chapter to the recipient;
 
-&emsp;&emsp;(B) reduce payments under this chapter to the recipient by an amount equal to theamount of such payments that were not expended in accordance with this chapter;
+&emsp;&emsp;(B) reduce payments under this chapter to the recipient by an amount equal to the amount of such payments that were not expended in accordance with this chapter;
 
 &emsp;&emsp;(C) limit the availability of payments under this chapter to programs, projects, or activities not affected by such failure to comply; or
 
@@ -86,7 +86,7 @@
 
 #### (2) Procedure
 
-&emsp;The Secretary shall file in the court a record of the proceeding on which the Secretarybased the action, as provided in section 2112 of title 28. No objection to the action of the Secretary shall be considered by the court unless such objection has been urged before the Secretary.
+&emsp;The Secretary shall file in the court a record of the proceeding on which the Secretary based the action, as provided in section 2112 of title 28. No objection to the action of the Secretary shall be considered by the court unless such objection has been urged before the Secretary.
 
 #### (3) Disposition
 
@@ -114,7 +114,7 @@
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110Stat. 4016, as amended, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Amendments
 

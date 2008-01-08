@@ -34,7 +34,7 @@
 
 &emsp;(C) Acceptance or retention in the armed forces.
 
-&emsp;(D) Appointment, retention, or assignment to a position of public trust or a critical orsensitive position while either employed by the Government or performing a Government contract.
+&emsp;(D) Appointment, retention, or assignment to a position of public trust or a critical or sensitive position while either employed by the Government or performing a Government contract.
 
 (2) Such a request to a State central criminal history record repository shall be accompanied by the fingerprints of the individual who is the subject of the request if required by State law and if the repository uses the fingerprints in an automated fingerprint identification system.
 

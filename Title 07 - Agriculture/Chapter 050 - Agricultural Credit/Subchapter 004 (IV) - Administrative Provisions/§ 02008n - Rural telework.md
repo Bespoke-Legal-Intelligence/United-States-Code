@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible organization
 
-&emsp;The term “eligible organization” means a nonprofit entity, an educational institution, an Indian tribe (as defined in section 450b of title 25), or any other organization, in a rural area (except for the institute), that meets the requirements of this section and such other requirements as are established by the Secretary.
+&emsp;The term “eligible organization” means a nonprofit entity, an educational institution,an Indian tribe (as defined in section 450b of title 25), or any other organization, in a rural area (except for the institute), that meets the requirements of this section and such other requirements as are established by the Secretary.
 
 #### (2) Institute
 
@@ -98,7 +98,7 @@ In this section:
 
 #### (5) Amount
 
-&emsp;The amount of a grant provided to an eligible organization under this subsection shall be not less than $1,000,000 and not more than $2,000,000.
+&emsp;The amount of a grant provided to an eligible organization under this subsection shall benot less than $1,000,000 and not more than $2,000,000.
 
 #### (d) Applicability of certain Federal law
 

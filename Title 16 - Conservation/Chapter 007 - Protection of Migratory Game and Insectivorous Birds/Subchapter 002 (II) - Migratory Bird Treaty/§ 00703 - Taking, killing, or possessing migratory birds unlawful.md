@@ -40,7 +40,7 @@ Unless and except as permitted by regulations made as hereinafter provided in th
 
 #### Effective Date of 1974 Amendment
 
-Section 3 of Pub. L. 93–300 provided that: “The amendments made by this Act \[amending this section\] shall take effect on the date on which the President proclaims the exchange of ratifications of the convention between the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment, concluded March 4, 1972, or on the date of the enactment of this Act \[June 1, 1974\], whichever date is later.”
+Section 3 of Pub. L. 93–300 provided that: “The amendments made by this Act \[amending this section\]shall take effect on the date on which the President proclaims the exchange of ratifications of the convention between the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment, concluded March 4, 1972, or on the date of the enactment of this Act \[June 1, 1974\], whichever date is later.”
 
 #### Effective Date of 1936 Amendment
 

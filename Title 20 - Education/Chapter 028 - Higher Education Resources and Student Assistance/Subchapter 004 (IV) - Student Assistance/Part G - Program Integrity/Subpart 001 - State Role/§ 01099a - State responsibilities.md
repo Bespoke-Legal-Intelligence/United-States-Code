@@ -16,7 +16,7 @@ As part of the integrity program authorized by this part, each State, through on
 
 #### (b) Institutional responsibility
 
-Each institution of higher education shall provide evidence to the Secretary that the institution has authority to operate within a State atthe time the institution is certified under subpart 3 of this part.
+Each institution of higher education shall provide evidence to the Secretary that the institution has authority to operate within a State at the time the institution is certified under subpart 3 of this part.
 
 (Pub. L. 89–329, title IV, §495, as added Pub. L. 105–244, title IV, §491(2), Oct. 7, 1998, 112 Stat. 1758.)
 

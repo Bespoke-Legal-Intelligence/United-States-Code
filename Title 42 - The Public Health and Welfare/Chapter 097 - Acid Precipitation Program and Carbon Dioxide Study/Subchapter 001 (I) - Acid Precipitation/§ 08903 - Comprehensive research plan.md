@@ -60,7 +60,7 @@ The Task Force shall submit to the President and the Congress by January 15 of e
 
 (1) Subsection (b)(12) of this section shall not be construed as modifying, or as authorizing the Task Force or the comprehensive plan to modify, any provision of an appropriation Act (or any other provision of law relating to the use of appropriated funds) which specifies (A) the department or agency to which funds are appropriated, or (B) the obligations of such department or agency with respect to the use of such funds.
 
-(2) Subsection (b)(13) of this section shall not be construed as modifying, or as authorizing the Task Force or the comprehensive plan to modify, any provision of law (relating to or involving a department or agency) which specifies (A) procurement practices for the selection, award,or management of contracts or grants by such department or agency, or (B) program activities, limitations, obligations, or responsibilities of such department or agency.
+(2) Subsection (b)(13) of this section shall not be construed as modifying, or as authorizing the Task Force or the comprehensive plan to modify, any provision of law (relating to or involving a department or agency) which specifies (A) procurement practices for the selection, award, or management of contracts or grants by such department or agency, or (B) program activities, limitations, obligations, or responsibilities of such department or agency.
 
 (Pub. L. 96–294, title VII, §704, June 30, 1980, 94 Stat. 771.)
 

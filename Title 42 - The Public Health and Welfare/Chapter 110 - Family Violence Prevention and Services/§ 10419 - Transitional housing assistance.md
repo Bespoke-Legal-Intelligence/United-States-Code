@@ -4,7 +4,7 @@
 
 The Secretary shall award grants under this section to carry out programs to provide assistance to individuals, and their dependents—
 
-&emsp;(1) who are homeless or in need of transitional housing or other housing assistance, asa result of fleeing a situation of domestic violence; and
+&emsp;(1) who are homeless or in need of transitional housing or other housing assistance, as a result of fleeing a situation of domestic violence; and
 
 &emsp;(2) for whom emergency shelter services are unavailable or insufficient.
 

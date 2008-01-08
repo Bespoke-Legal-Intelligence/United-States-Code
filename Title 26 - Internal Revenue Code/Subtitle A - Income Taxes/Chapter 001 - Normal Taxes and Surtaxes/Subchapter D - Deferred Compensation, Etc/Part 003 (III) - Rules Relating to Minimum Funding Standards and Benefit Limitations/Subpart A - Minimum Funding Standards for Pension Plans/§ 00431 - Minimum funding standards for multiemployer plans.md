@@ -98,7 +98,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (E) Election for deferral of charge for portion of net experience loss
 
-&emsp;&emsp;If an election is in effect under section 412(b)(7)(F) (as in effect on the day before thedate of the enactment of the Pension Protection Act of 2006) for any plan year, the funding standard account shall be charged in the plan year to which the portion of the net experience loss deferred by such election was deferred with the amount so deferred (and paragraph (2)(B)(iii) shall not apply to the amount so charged).
+&emsp;&emsp;If an election is in effect under section 412(b)(7)(F) (as in effect on the day before the date of the enactment of the Pension Protection Act of 2006) for any plan year, the funding standard account shall be charged in the plan year to which the portion of the net experience loss deferred by such election was deferred with the amount so deferred (andparagraph (2)(B)(iii) shall not apply to the amount so charged).
 
 #### (F) Financial assistance
 
@@ -262,13 +262,13 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once everyyear, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary.
 
 #### (B) Valuation date
 
 #### (i) Current year
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the valuation referred to in subparagraph (A) shall be made as of a date within the plan year to which the valuation refers or within one month prior to the beginning of such year.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the valuation referred to in subparagraph (A)shall be made as of a date within the plan year to which the valuation refers or within one month prior to the beginning of such year.
 
 #### (ii) Use of prior year valuation
 
@@ -342,7 +342,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, before granting an extension under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such extension to each affected party (as defined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974) with respect to the affected plan. Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under title IV of such Act and for benefit liabilities.
+&emsp;&emsp;The Secretary shall, before granting an extension under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such extension to each affected party (asdefined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974) with respect to the affected plan. Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under title IV of such Act and for benefit liabilities.
 
 #### (B) Consideration of relevant information
 

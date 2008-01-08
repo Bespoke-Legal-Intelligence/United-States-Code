@@ -4,7 +4,7 @@
 
 (2) The Comptroller General shall, by regulation prescribed pursuant to section 3555 of this title, establish an express option for deciding those protests which the Comptroller General determines suitable for resolution within 65 days after the date the protest is submitted.
 
-(3) An amendment to a protest that adds a new ground of protest, if timely made, should be resolved, to the maximum extent practicable, within the time limit established under paragraph (1) of this subsection for final decision of the initial protest. If an amended protest cannotbe resolved within such time limit, the Comptroller General may resolve the amended protest through the express option under paragraph (2) of this subsection.
+(3) An amendment to a protest that adds a new ground of protest, if timely made, should be resolved, to the maximum extent practicable, within the time limit established under paragraph (1) of this subsection for final decision of the initial protest. If an amended protest cannot be resolved within such time limit, the Comptroller General may resolve the amended protest through the express option under paragraph (2) of this subsection.
 
 (4) The Comptroller General may dismiss a protest that the Comptroller General determines is frivolous or which, on its face, does not state a valid basis for protest.
 
@@ -46,7 +46,7 @@
 
 &emsp;(B) if the Federal agency does not make such payment, promptly report to the Comptroller General the reasons for the failure to follow the Comptroller General's recommendation.
 
-(4) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency and the interested party shall attempt to reach an agreement on the amount of the costs to be paid. If the Federal agency and the interested party are unable to agree on the amount to be paid, the Comptroller General may, upon the request of the interested party, recommend to the Federal agency the amount of the costs that the Federal agency should pay.
+(4) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agencyand the interested party shall attempt to reach an agreement on the amount of the costs to be paid. If the Federal agency and the interested party are unable to agree on the amount to be paid, the Comptroller General may, upon the request of the interested party, recommend to the Federal agency the amount of the costs that the Federal agency should pay.
 
 (d) Each decision of the Comptroller General under this subchapter shall be signed by the Comptroller General or a designee for that purpose. A copy of the decision shall be made available to the interested parties, the head of the procuring activity responsible for the solicitation, proposed award, or award of the contract, and the senior procurement executive of the Federal agency involved.
 
@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Pri
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1996 Amendment
 
@@ -122,7 +122,7 @@ Amendment by section 5501(2) of Pub. L. 104–106 effective 180 days after Feb. 
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date
 

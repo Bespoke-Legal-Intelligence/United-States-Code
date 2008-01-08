@@ -64,7 +64,7 @@ Judicial positions.—Effective the first day of the first applicable pay period
 
 “(b)
 
-Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position as of the same date as any other pay adjustment affectingsuch office or position, the adjustment under subsection (a) shall be made first.”
+Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position as of the same date as any other pay adjustment affecting such office or position, the adjustment under subsection (a) shall be made first.”
 
 #### Revision in Method by Which Annual Pay Adjustments for Certain Executive, Legislative, and Judicial Positions Are To Be Made
 

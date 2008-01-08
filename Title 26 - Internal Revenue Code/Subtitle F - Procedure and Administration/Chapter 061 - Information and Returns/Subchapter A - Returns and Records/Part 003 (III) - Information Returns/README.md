@@ -7,11 +7,13 @@
 | C. | Information regarding wages paid employees. |
 | \[D. | Repealed.\] |
 | E. | Registration of and information concerning pension, etc., plans. |
-| F. | Information concerning income tax return preparers. |
+| F. | Information concerning tax return preparers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 110–28, title VIII, §8246(a)(2)(A)(v), May 25, 2007, 121 Stat. 201, substituted “tax return preparers” for “income tax return preparers” in item relating to subpart F.
 
 1980—Pub. L. 96–603, §1(e)(2), Dec. 28, 1980, 94 Stat. 3505, struck out item relating to subpart D “Information concerning private foundations”.
 
@@ -39,4 +41,4 @@ Pub. L. 108–7, div. H, title II, §211, Feb. 20, 2003, 117 Stat. 384, provided
 - [Subpart C - Information Regarding Wages Paid Employees](Subpart%20C%20-%20Information%20Regarding%20Wages%20Paid%20Employees/README.md)
 - [Subpart D - Repealed](Subpart%20D%20-%20Repealed/README.md)
 - [Subpart E - Registration of and Information Concerning Pension, Etc., Plans](Subpart%20E%20-%20Registration%20of%20and%20Information%20Concerning%20Pension%2C%20Etc.%2C%20Plans/README.md)
-- [Subpart F - Information Concerning Income Tax Return Preparers](Subpart%20F%20-%20Information%20Concerning%20Income%20Tax%20Return%20Preparers/README.md)
+- [Subpart F - Information Concerning Tax Return Preparers](Subpart%20F%20-%20Information%20Concerning%20Tax%20Return%20Preparers/README.md)

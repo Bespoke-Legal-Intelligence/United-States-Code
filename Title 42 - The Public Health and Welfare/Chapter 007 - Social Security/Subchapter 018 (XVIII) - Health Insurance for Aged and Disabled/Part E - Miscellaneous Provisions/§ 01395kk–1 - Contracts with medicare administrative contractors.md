@@ -70,7 +70,7 @@
 
 #### (B) Construction
 
-&emsp;&emsp;An entity shall not be treated as a medicare administrative contractor merely byreason of having entered into a contract with the Secretary under section 1395ddd of this title.
+&emsp;&emsp;An entity shall not be treated as a medicare administrative contractor merely by reason of having entered into a contract with the Secretary under section 1395ddd of this title.
 
 #### (6) Application of Federal Acquisition Regulation
 
@@ -170,7 +170,7 @@
 
 #### (B) Relationship to False Claims Act
 
-&emsp;&emsp;Nothing in this subsection shall be construed to limit liability for conduct that would constitute a violation of sections 3729 through 3731 of title 31.
+&emsp;&emsp;Nothing in this subsection shall be construed to limit liability for conduct thatwould constitute a violation of sections 3729 through 3731 of title 31.
 
 #### (4) Indemnification by Secretary
 
@@ -254,7 +254,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (3) Response to toll-free lines
 
-&emsp;The Secretary shall ensure that each medicare administrative contractor shall provide, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, with respect to whom claims are submitted for claims processing, a toll-free telephone number at which such individuals,providers of services, and suppliers may obtain information regarding billing, coding, claims, coverage, and other appropriate information under this subchapter.
+&emsp;The Secretary shall ensure that each medicare administrative contractor shall provide, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, with respect to whom claims are submitted for claims processing, a toll-free telephone number at which such individuals, providers of services, and suppliers may obtain information regarding billing, coding, claims, coverage, and other appropriate information under this subchapter.
 
 #### (4) Monitoring of contractor responses
 
@@ -294,7 +294,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (B) Use of standard protocols when conducting prepayment reviews
 
-&emsp;&emsp;When a medicare administrative contractor conducts a random prepayment review, the contractor may conduct such review only in accordance with a standard protocol for random prepayment audits developed by the Secretary.
+&emsp;&emsp;When a medicare administrative contractor conducts a random prepayment review,the contractor may conduct such review only in accordance with a standard protocol for random prepayment audits developed by the Secretary.
 
 #### (C) Construction
 
@@ -418,7 +418,7 @@ Plan for implementation.—By not later than October 1, 2004, the Secretary \[of
 
 “(2)
 
-Status of implementation.—The Secretary shall submit a report to Congress not later than October 1, 2008, that describes the status of implementation ofsuch amendments and that includes a description of the following:
+Status of implementation.—The Secretary shall submit a report to Congress not later than October 1, 2008, that describes the status of implementation of such amendments and that includes a description of the following:
 
 &emsp;“(A) The number of contracts that have been competitively bid as of such date.
 

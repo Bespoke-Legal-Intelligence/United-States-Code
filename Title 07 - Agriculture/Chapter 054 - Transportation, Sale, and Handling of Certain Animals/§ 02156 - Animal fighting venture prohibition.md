@@ -16,15 +16,15 @@ It shall be unlawful for any person to knowingly sell, buy, transport, deliver, 
 
 #### (c) Use of Postal Service or other interstate instrumentality for promoting or furthering animal fighting venture
 
-It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any interstate instrumentality for purposes of promoting or in any other manner furthering an animal fighting venture except as performed outside the limits of the States of the United States.
+It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any instrumentality of interstate commerce for commercial speech for purposes of promoting or in any other manner furthering an animal fighting venture except as performed outside the limits of the States of the United States.
 
 #### (d) Violation of State law
 
-Notwithstanding the provisions of subsection (c) of this section, the activities prohibited by such subsections shall be unlawful with respect to fighting ventures involving live birds only ifthe fight is to take place in a State where it would be in violation of the laws thereof.
+Notwithstanding the provisions of subsection (c) of this section, the activities prohibited by such subsection shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.
 
-#### (e) Penalties
+#### (e) Buying, selling, delivering, or transporting sharp instruments for use in animal fighting venture
 
-Any person who violates subsection (a), (b), or (c) of this section shall be fined not more than $15,000 or imprisoned for not more than 1 year, or both, for each such violation.
+It shall be unlawful for any person to knowingly sell, buy, transport, or deliver in interstate or foreign commerce a knife, a gaff, or any other sharp instrument attached, or designed or intended to be attached, to the leg of a bird for use in an animal fighting venture.
 
 #### (f) Investigation of violations by Secretary; assistance by other Federal agencies; issuance of search warrant; forfeiture; costs recoverable in forfeiture or civil action
 
@@ -34,7 +34,7 @@ The Secretary or any other person authorized by him shall make such investigatio
 
 For purposes of this section—
 
-&emsp;(1) the term “animal fighting venture” means any event which involves a fight between at least two animals and is conducted for purposes of sport, wagering, or entertainment except that the term “animal fighting venture” shall not be deemed to include any activity the primary purpose of which involves the use of one or more animals in hunting another animal or animals, such as waterfowl, bird, raccoon, or fox hunting;
+&emsp;(1) the term “animal fighting venture” means any event which involves a fight between at least two animals and is conducted for purposes of sport, wagering, or entertainment except that the term “animal fighting venture” shall not be deemed to include any activity the primary purpose of which involves the use of one or more animals in hunting another animal;
 
 &emsp;(2) the term “interstate or foreign commerce” means—
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) any movement from a foreign country into any State or from any State into any foreign country;
 
-&emsp;(3) the term “interstate instrumentality” means telegraph, telephone, radio, or television operating in interstate or foreign commerce;
+&emsp;(3) the term “instrumentality of interstate commerce” means any written, wire, radio, television or other form of communication in, or using a facility of, interstate commerce;
 
 &emsp;(4) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States;
 
@@ -52,15 +52,33 @@ For purposes of this section—
 
 #### (h) Conflict with State law
 
-The provisions of this chapter shall not supersede or otherwise invalidate any such State, local, or municipal legislation or ordinance relating to animal fighting ventures except in case of a direct and irreconcilable conflict between any requirements thereunder and this chapter or any rule, regulation, or standard hereunder.
+(1) The provisions of this chapter shall not supersede or otherwise invalidate any such State, local, or municipal legislation or ordinance relating to animal fighting ventures except in case of a direct and irreconcilable conflict between any requirements thereunder and this chapter or any rule, regulation, or standard hereunder.
 
-(Pub. L. 89–544, §26(a)–(h)(1), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §§10302(a), 10303(a), May 13, 2002, 116 Stat. 491, 492.)
+(2) Omitted
+
+#### (i) Criminal penalties
+
+The criminal penalties for violations of subsection (a), (b), (c), or (e) are provided in section 49 of title 18.
+
+(Pub. L. 89–544, §26, as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §§10302(a), 10303(a), May 13, 2002, 116 Stat. 491, 492; Pub. L. 110–22, §3, May 3, 2007, 121 Stat. 88.)
 
 #### Codification
 
-Section consists of subsecs. (a) to (h)(1) of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279. Subsec. (h)(2) of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279, amended section 3001(a) of Title 39, Postal Service.
+Section is comprised of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279. Subsec. (h)(2) of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279, amended section 3001(a) of Title 39, Postal Service.
 
 #### Amendments
+
+2007—Subsec. (c). Pub. L. 110–22, §3(1), substituted “instrumentality of interstate commerce for commercial speech” for “interstate instrumentality”.
+
+Subsec. (d). Pub. L. 110–22, §3(2), substituted “such subsection” for “such subsections”.
+
+Subsec. (e). Pub. L. 110–22, §3(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “Any person who violates subsection (a), (b), or (c) of this section shall be fined not more than $15,000 or imprisoned for not more than 1 year, or both, for each such violation.”
+
+Subsec. (g)(1). Pub. L. 110–22, §3(4)(A), struck out “or animals, such as waterfowl, bird, raccoon, or fox hunting” after “hunting another animal”.
+
+Subsec. (g)(3). Pub. L. 110–22, §3(4)(B), added par. (3) and struck out former par. (3) which read as follows: “the term ‘interstate instrumentality’ means telegraph, telephone, radio, or television operating in interstate or foreign commerce;”.
+
+Subsec. (i). Pub. L. 110–22, §3(5), added subsec. (i).
 
 2002—Subsec. (a). Pub. L. 107–171, §10302(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to knowingly sponsor or exhibit an animal in any animal fighting venture to which any animal was moved in interstate or foreign commerce.”
 

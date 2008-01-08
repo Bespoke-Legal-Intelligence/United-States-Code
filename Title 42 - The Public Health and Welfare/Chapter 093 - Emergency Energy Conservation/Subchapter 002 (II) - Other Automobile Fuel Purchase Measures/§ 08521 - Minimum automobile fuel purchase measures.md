@@ -52,11 +52,11 @@ The Secretary may increase the $5.00 and $7.00 amounts specified in subsections 
 
 (2)(A) All delegation of authority under paragraph (1) with respect to any State shall be considered revoked effective (i) upon the receipt of a written waiver of authority signed by the Governor of such State or (ii) upon a determination by the President that such delegation should be revoked, but only to the extent of that determination.
 
-(B) If at any time the conditions of subsection (c)(1)(B) of this section are no longer satisfied in any State to which a delegation has been made under paragraph (1), the attorney general of that State shall transmit a written statement to that effect to the Governor of that State and to the President. Such delegation shall be considered revoked effective upon receipt by the President of such written statement and a determination by the President that such conditions are no longer satisfied, but only to the extent of that determination and consistent with such attorney general's statement.
+(B) If at any time the conditions of subsection (c)(1)(B) of this section are no longer satisfied in any State to which a delegation has been made under paragraph (1), the attorney general of that State shall transmit a written statement to thateffect to the Governor of that State and to the President. Such delegation shall be considered revoked effective upon receipt by the President of such written statement and a determination by the President that such conditions are no longer satisfied, but only to the extent of that determination and consistent with such attorney general's statement.
 
 (C) Any revocation under subparagraph (A) or (B) shall not affect any action or pending proceedings, administrative or civil, not finally determined on the date of such revocation, nor any administrative or civil action or proceeding, whether or not pending, based on any act committed or liability incurred prior to such revocation.
 
-(D) The Secretary shall administer and enforce any provision of this subchapter which has been made effective under subsection (c)(2) ofthis section and for which a delegation of authority is considered revoked under subparagraph (A).
+(D) The Secretary shall administer and enforce any provision of this subchapter which has been made effective under subsection (c)(2) of this section and for which a delegation of authority is considered revoked under subparagraph (A).
 
 #### (h) Coordination with other law
 

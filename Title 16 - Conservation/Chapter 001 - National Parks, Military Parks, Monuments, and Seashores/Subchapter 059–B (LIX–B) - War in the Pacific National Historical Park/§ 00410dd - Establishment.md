@@ -44,7 +44,7 @@ For the purposes of the park established under this section, effective October 1
 
 #### (<i>l</i>) Monument
 
-Within the boundaries of the park, the Secretary is authorized to construct a monument which shall commemorate the loyalty of the people of Guam and the herosim <sup>1</sup> of the American forces that liberated Guam.
+Within the boundaries of the park, the Secretary is authorized to construct a monument which shall commemorate the loyalty of thepeople of Guam and the herosim <sup>1</sup> of the American forces that liberated Guam.
 
 #### (m) Interpretive programs
 
@@ -52,7 +52,7 @@ Within the boundaries of the park, the Secretary is authorized to implement prog
 
 #### (n) Report on projected development costs
 
-Within six months after December 17, 1993, the Secretary, through the Director of the National Park Service, shall develop and transmit to the Committee on Energy and Natural Resources ofthe Senate and the Committee on Natural Resources of the House of Representatives a report containing updated cost estimates for the development of the park. Further, this report shall contain a general plan to implement subsections (<i>l</i>) and (m) of this section, including, at a minimum, cost estimates for the design and construction of the monument authorized in section <sup>2</sup> (<i>l</i>) of this section.
+Within six months after December 17, 1993, the Secretary, through the Director of the National Park Service, shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report containing updated cost estimates for the development of the park. Further, this report shall contain a general plan to implement subsections (<i>l</i>) and (m) of this section, including, at a minimum, cost estimates for the design and construction of the monument authorized in section <sup>2</sup> (<i>l</i>) of this section.
 
 #### (<i>o</i>) Protection of vintage weapons and fortifications
 
@@ -69,10 +69,6 @@ Subsec. (h). Pub. L. 103–437, §6(i)(2), struck out subsec. (h) which directed
 1993—Subsec. (k). Pub. L. 103–197, §3(a), substituted “$8,000,000” for “$500,000”.
 
 Subsecs. (<i>l</i>) to (<i>o</i>). Pub. L. 103–197, §3(b), added subsecs. (<i>l</i>) to (<i>o</i>).
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Congressional Findings
 

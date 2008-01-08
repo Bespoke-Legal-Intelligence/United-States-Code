@@ -40,7 +40,7 @@ Section 3 of Pub. L. 85–731 provided that: “No funds distributed pursuant to
 
 #### Termination of Contract With Management Specialists by Secretary of the Interior
 
-Section 4 of Pub. L. 85–731 provided that: “The Secretary of the Interior is directed to terminate the contract between him and the management specialists by giving immediately the sixty-day notice required by paragraph 18 of such contract. When the contract is terminated, all of the functions of the management specialists under section 5 of the Act of August 13, 1954,as amended \[this section\], shall be performed by the Secretary.”
+Section 4 of Pub. L. 85–731 provided that: “The Secretary of the Interior is directed to terminate the contract between him and the management specialists by giving immediately the sixty-day notice required by paragraph 18 of such contract. When the contract is terminated, all of the functions of the management specialists under section 5 of the Act of August 13, 1954, as amended \[this section\], shall be performed by the Secretary.”
 
 #### Provisions Requiring Election To Withdraw or Remain in Tribe Following Appraisal as Unaffected
 

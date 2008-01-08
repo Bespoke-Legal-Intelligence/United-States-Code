@@ -46,7 +46,7 @@
 
 &emsp;From 60 percent of the amount appropriated for each fiscal year under section 7714(e) of this title, the Secretary—
 
-&emsp;&emsp;(A) shall award emergency grants in accordance with this subsection to eligiblelocal educational agencies to enable the agencies to carry out emergency repairs of school facilities; and
+&emsp;&emsp;(A) shall award emergency grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out emergency repairs of school facilities; and
 
 &emsp;&emsp;(B) shall award modernization grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out the modernization of school facilities.
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(A) The Secretary shall first give priority to applications for emergency grants from local educational agencies that meet the requirements of paragraph (3)(A) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
-&emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
+&emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applicationsfor emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
 &emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;(III) The agency has an assessed value of real property per student that may be taxed for school purposes that is less than the average of the assessed value of real property per student that may be taxed for school purposes in the State in which the local educational agency is located.
 
-&emsp;&emsp;(ii) A local educational agency is also eligible to receive a modernization grant underthis subparagraph if the agency is eligible to receive assistance under section 7702 of this title for the fiscal year and meets the requirements of subclauses (II) and (III) of clause (i).
+&emsp;&emsp;(ii) A local educational agency is also eligible to receive a modernization grant under this subparagraph if the agency is eligible to receive assistance under section 7702 of this title for the fiscal year and meets the requirements of subclauses (II) and (III) of clause (i).
 
 #### (D) Special rule
 
@@ -192,7 +192,7 @@
 
 #### (iii) Supplement, not supplant
 
-&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grant or modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sources to carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
+&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grantor modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sources to carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
 
 #### (iv) Maintenance costs
 
@@ -261,6 +261,10 @@
 2000—Pub. L. 106–398 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) authorizing payments to certain local educational agencies for construction.
 
 1996—Subsec. (a)(2)(B). Pub. L. 104–134 struck out “and in which the agency at any 2 times during the four fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation” before semicolon at end.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2002 Amendment
 

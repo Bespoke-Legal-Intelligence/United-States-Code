@@ -24,7 +24,7 @@
 
 &emsp;(3) after approval of the plans or recommendations of the Headquarters, Marine Corps, by the Secretary, act as the agent of the Secretary in carrying them into effect;
 
-&emsp;(4) exercise supervision, consistent with the authority assigned to commanders of unifiedor specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Marine Corps and the Navy as the Secretary determines;
+&emsp;(4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Marine Corps and the Navy as the Secretary determines;
 
 &emsp;(5) perform the duties prescribed for him by section 171 of this title and other provisions of law; and
 

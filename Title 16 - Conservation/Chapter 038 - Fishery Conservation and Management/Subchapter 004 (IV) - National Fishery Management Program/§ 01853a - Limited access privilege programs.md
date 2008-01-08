@@ -48,7 +48,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;(I) include an appeals process for administrative review of the Secretary's decisions regarding initial allocation of limited access privileges;
 
-&emsp;&emsp;(J) provide for the establishment by the Secretary, in consultation with appropriateFederal agencies, for an information collection and review process to provide any additional information needed to determine whether any illegal acts of anti-competition, anti-trust, price collusion, or price fixing have occurred among regional fishery associations or persons receiving limited access privileges under the program; and
+&emsp;&emsp;(J) provide for the establishment by the Secretary, in consultation with appropriate Federal agencies, for an information collection and review process to provide any additional information needed to determine whether any illegal acts of anti-competition, anti-trust, price collusion, or price fixing have occurred among regional fishery associations or persons receiving limited access privileges under the program; and
 
 &emsp;&emsp;(K) provide for the revocation by the Secretary of limited access privileges held by any person found to have violated the antitrust laws of the United States.
 
@@ -74,7 +74,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;&emsp;&emsp;(III) consist of residents who conduct commercial or recreational fishing, processing, or fishery-dependent support businesses within the Council's management area; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastal communities, including those that have not historically had the resources to participate in the fishery, for approval based on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
+&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastalcommunities, including those that have not historically had the resources to participate in the fishery, for approval based on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
 
 #### (ii) Failure to comply with plan
 
@@ -106,7 +106,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;&emsp;(ii) meet criteria developed by the relevant Council, approved by the Secretary, and published in the Federal Register;
 
-&emsp;&emsp;&emsp;(iii) be a voluntary association with established by-laws and operating procedures;
+&emsp;&emsp;&emsp;(iii) be a voluntary association, among willing parties with established by-laws and operating procedures;
 
 &emsp;&emsp;&emsp;(iv) consist of participants in the fishery who hold quota share that are designated for use in the specific region or subregion covered by the regional fishery association, including commercial or recreational fishing, processing, fishery-dependent support businesses, or fishing communities;
 
@@ -256,27 +256,31 @@ Nothing in this chapter, or the amendments made by the Magnuson-Stevens Fishery 
 
 #### (i) Transition rules
 
-#### (1) In general
+The requirements of this section shall not apply to any quota program, including any individual quota program, cooperative program, or sector allocation for which a Council has taken final action or which has been submitted by a Council to the Secretary, or approved by the Secretary, within 6 months after January 12, 2007, except that—
 
-&emsp;The requirements of this section shall not apply to any quota program, including any individual quota program, cooperative program, or sector allocation for which a Council has taken final action or which has been submitted by a Council to the Secretary, or approved by the Secretary, within 6 months after January 12, 2007, except that—
+&emsp;(1) the requirements of section 1853(d) of this title in effect on the day before January 12, 2007, shall apply to any such program;
 
-&emsp;&emsp;(A) the requirements of section 1853(d) of this title in effect on the day before January 12, 2007, shall apply to any such program;
+&emsp;(2) the program shall be subject to review under subsection (c)(1)(G) of this section not later than 5 years after the program implementation; and
 
-&emsp;&emsp;(B) the program shall be subject to review under subsection (c)(1)(G) of this section not later than 5 years after the program implementation; and
+&emsp;(3) nothing in this subsection precludes a Council from incorporating criteria contained in this section into any such plans.
 
-&emsp;&emsp;(C) nothing in this subsection precludes a Council from incorporating criteria contained in this section into any such plans.
-
-#### (2) Pacific groundfish proposals
-
-&emsp;The requirements of this section, other than subparagraphs (A) and (B) of subsection (c)(1) and subparagraphs (A), (B), and (C) of paragraph (1) of this subsection, shall not apply to any proposal authorized under section 302(f) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 that is submitted within the timeframe prescribed by that section.
-
-(Pub. L. 94–265, title III, §303A, as added Pub. L. 109–479, title I, §106(a)(2), Jan. 12, 2007, 120 Stat. 3586.)
+(Pub. L. 94–265, title III, §303A, as added Pub. L. 109–479, title I, §106(a)(2), Jan. 12, 2007, 120 Stat. 3586; amended Pub. L. 110–161, div. B, title V, §529, Dec. 26, 2007, 121 Stat. 1930.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, referred to in subsec. (h), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575. Section 302(f) of the Act (120 Stat. 3624) is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 1801 of this title and Tables.
+
+#### Amendments
+
+2007—Subsec. (c)(4)(A)(iii). Pub. L. 110–161, §529(1), substituted “association, among willing parties” for “association”.
+
+Subsec. (i). Pub. L. 110–161, §529(2)–(4), struck out designation and heading of par. (1), redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out heading and text of former par. (2). Text of former par. (2) read as follows: “The requirements of this section, other than subparagraphs (A) and (B) of subsection (c)(1) and subparagraphs (A), (B), and (C) of paragraph (1) of this subsection, shall not apply to any proposal authorized under section 302(f) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 that is submitted within the timeframe prescribed by that section.”
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–161, div. B, title V, §529, Dec. 26, 2007, 121 Stat. 1930, provided that the amendment made by section 529 is effective Jan. 13, 2007.
 
 #### Application With American Fisheries Act
 

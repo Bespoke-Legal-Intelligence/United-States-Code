@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-A person who has served honorably at any time in the armed forces of the United States for a period or periods aggregating one year, and, who, if separated from such service, was never separated except under honorable conditions, may be naturalized without having resided, continuously immediately preceding the date of filing such person's application, in the United States for at least five years, and in the State or district of the Service in the United States in which the application for naturalization is filed for at least three months, and without having been physically present in the United States for any specified period, if such application is filed while the applicant is still in theservice or within six months after the termination of such service.
+A person who has served honorably at any time in the armed forces of the United States for a period or periods aggregating one year, and, who, if separated from such service, was never separated except under honorable conditions, may be naturalized without having resided, continuously immediately preceding the date of filing such person's application, in the United States for at least five years, and in the State or district of the Service in the United States in which the application for naturalization is filed for at least three months, and without having been physically present in the United States for any specified period, if such application is filed while the applicant is still in the service or within six months after the termination of such service.
 
 #### (b) Exceptions
 
@@ -32,7 +32,7 @@ Any such period or periods of service under honorable conditions, and good moral
 
 Citizenship granted pursuant to this section may be revoked in accordance with section 1451 of this title if the person is separated from the Armed Forces under other than honorable conditions before the person has served honorably for a period or periods aggregating five years. Such ground for revocation shall be in addition to any other provided by law, including the grounds described in section 1451 of this title. The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation. Any period or periods of service shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §328, 66 Stat. 249; Pub. L. 90–633, §5, Oct. 24, 1968, 82 Stat. 1344; Pub. L. 97–116, §15(e), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 101–649, title IV, §407(b)(4), (c)(10), (d)(8), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(c), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 108–136, div. A, title XVII, §1701(a), (b)(1), (c)(1)(A), (f), Nov. 24, 2003, 117 Stat. 1691, 1692.)
+(June 27, 1952, ch. 477, title III, ch. 2, §328, 66 Stat. 249; Pub. L. 90–633, §5, Oct. 24, 1968, 82 Stat.1344; Pub. L. 97–116, §15(e), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 101–649, title IV, §407(b)(4), (c)(10), (d)(8), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(c), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 108–136, div. A, title XVII, §1701(a), (b)(1), (c)(1)(A), (f), Nov. 24, 2003, 117 Stat. 1691, 1692.)
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Subsec. (f). Pub. L. 108–136, §1701(c)(1)(A), added subsec. (f).
 
 Subsec. (b). Pub. L. 101–649, §407(b)(4)(B), (c)(10), (d)(8), as amended by Pub. L. 102–232, substituted “within a State or district of the Service in the United States” for “within the jurisdiction of the court” in par. (1), “any hearing” for “the final hearing” in par. (3), and references to applicant and application for references to petitioner and petition wherever appearing.
 
-Subsec. (c). Pub. L. 101–649, §407(b)(4)(C), (c)(10), (d)(8), as amended by Pub. L. 102–232, substituted “State ordistrict of the Service in the United States” for “State”, “any hearing” for “the final hearing”, and references to applicant's and application for references to petitioner's and petition wherever appearing.
+Subsec. (c). Pub. L. 101–649, §407(b)(4)(C), (c)(10), (d)(8), as amended by Pub. L. 102–232, substituted “State or district of the Service in the United States” for “State”, “any hearing” for “the final hearing”, and references to applicant's and application for references to petitioner's and petition wherever appearing.
 
 Subsec. (d). Pub. L. 101–649, §407(c)(10), substituted references to applicant and application for references to petitioner and petition wherever appearing.
 

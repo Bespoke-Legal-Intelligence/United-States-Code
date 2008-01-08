@@ -34,7 +34,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 &emsp;&emsp;&emsp;(i) $4,000, if such student is enrolled in a program whose length is at least one academic year in length; and
 
-&emsp;&emsp;&emsp;(ii) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in clause (i) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
+&emsp;&emsp;&emsp;(ii) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed theamount that bears the same ratio to the amount specified in clause (i) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
 &emsp;&emsp;(B) in the case of a student at an eligible institution who has successfully completed such first and second years but has not successfully completed the remainder of a program of undergraduate education—
 
@@ -42,15 +42,15 @@ The determination of the amount of a loan by an eligible institution under subse
 
 &emsp;&emsp;&emsp;(ii) if such student is enrolled in a program of undergraduate education, the remainder of which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as such remainder measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
-&emsp;&emsp;(C) in the case of such a student who is a graduate or professional student attending an eligible institution, $10,000; and
+&emsp;&emsp;(C) in the case of such a student who is a graduate or professional student attending an eligible institution, $12,000; and
 
 &emsp;&emsp;(D) in the case of a student enrolled in coursework specified in sections 1091(b)(3)(B) and 1091(b)(4)(B) of this title—
 
-&emsp;&emsp;&emsp;(i) $4,000 for coursework necessary for enrollment in an undergraduate degree or certificate program, and, in the case of a student who has obtained a baccalaureate degree, $5,000 for coursework necessary for enrollment in a graduate or professional program; and
+&emsp;&emsp;&emsp;(i) $4,000 for coursework necessary for enrollment in an undergraduate degree or certificate program, and, in the case of a student who has obtained a baccalaureate degree, $7,000 for coursework necessary for enrollment in a graduate or professional program; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a student who has obtained a baccalaureate degree, $5,000 for coursework necessary for a professional credential or certification from a State required for employment as a teacher in an elementary or secondary school;
+&emsp;&emsp;&emsp;(ii) in the case of a student who has obtained a baccalaureate degree, $7,000 for coursework necessary for a professional credential or certification from a State required for employment as a teacher in an elementary or secondary school;
 
-> &emsp;except in cases where the Secretary determines,<sup>1</sup> that a higher amount is warranted inorder to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education, but the annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any years in excess of the annual limit.
+> &emsp;except in cases where the Secretary determines,<sup>1</sup> that a higher amount is warranted in order to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education, but the annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any years in excess of the annual limit.
 
 #### (3) Aggregate limits for independent, graduate, and professional students
 
@@ -116,15 +116,7 @@ A guaranty agency shall use a single application form and a single repayment sch
 
 Each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title may charge a borrower under this section an insurance premium equal to not more than 1.0 percent of the principal amount of the loan, if such premium will not be used for incentive payments to lenders. Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.
 
-(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535;amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title IV, §423, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §§8005(d), 8014(b)(2), Feb. 8, 2006, 120 Stat. 159, 169.)
-
-#### Amendment of Subsection (d)(2)
-
-<i>Pub. L. 109–171, title VIII, §8005(d), (e), Feb. 8, 2006, 120 Stat. 159, provided that, effective July 1, 2007, subsection (d)(2) of this section is amended:</i>
-
-<i>(1) in subparagraph (C), by substituting “$12,000” for “$10,000”; and</i>
-
-<i>(2) in subparagraph (D), by substituting “$7,000” for “$5,000” in clauses (i) and (ii).</i>
+(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535; amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title IV, §423, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §§8005(d), 8014(b)(2), Feb. 8, 2006, 120 Stat. 159, 169.)
 
 #### Codification
 
@@ -132,7 +124,11 @@ Amendments by section 2(c)(42), (45) of Pub. L. 103–208 (which were effective 
 
 #### Amendments
 
-2006—Subsec. (h). Pub. L. 109–171, §8014(b)(2), inserted at end “Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.”
+2006—Subsec. (d)(2)(C). Pub. L. 109–171, §8005(d)(1), substituted “$12,000” for “$10,000”.
+
+Subsec. (d)(2)(D). Pub. L. 109–171, §8005(d)(2), substituted “$7,000” for “$5,000” in cls. (i) and (ii).
+
+Subsec. (h). Pub. L. 109–171, §8014(b)(2), inserted at end “Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.”
 
 1998—Subsec. (b). Pub. L. 105–244, §423(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Stafford loan. Such student shall provide to the lender a statement from the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, which—
 

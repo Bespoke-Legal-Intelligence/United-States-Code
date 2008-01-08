@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(C) cooperating with or disclosing information to the Inspector General of an agency, or the Special Counsel, in accordance with applicable provisions of law; or
 
-&emsp;&emsp;(D) for refusing to obey an order that would require the individual to violate a law;
+&emsp;&emsp;(D) for <sup>1</sup> refusing to obey an order that would require the individual to violate a law;
 
 &emsp;(10) discriminate for or against any employee or applicant for employment on the basis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States;
 
@@ -134,7 +134,7 @@
 
 &emsp;(D) Section 301(c) of the Foreign Service Act of 1980.
 
-&emsp;(E) Sections 106(f),<sup>1</sup> 7281(e), and 7802(5) <sup>1</sup> of title 38.
+&emsp;(E) Sections 106(f),<sup>2</sup> 7281(e), and 7802(5) <sup>2</sup> of title 38.
 
 &emsp;(F) Section 1005(a) of title 39.
 
@@ -228,5 +228,7 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 Pub. L. 105–339, §6(d), Oct. 31, 1998, 112 Stat. 3188, provided that: “This section \[amending this section and repealing section 1599c of Title 10, Armed Forces\] shall be treated as if it had never been enacted for purposes of any personnel action (within the meaning of section 2302 of title 5, United States Code) preceding the date of enactment of this Act \[Oct. 31, 1998\].”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The word “for” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

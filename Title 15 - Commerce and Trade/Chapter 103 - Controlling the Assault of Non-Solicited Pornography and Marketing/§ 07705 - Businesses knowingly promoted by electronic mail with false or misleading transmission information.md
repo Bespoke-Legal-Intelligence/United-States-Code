@@ -22,7 +22,7 @@ It is unlawful for a person to promote, or allow the promotion of, that person's
 
 #### (2) Exception
 
-&emsp;Liability for a violation of subsection (a) shall be imputed to a third party that provides goods, products, property, or services to another person that violates subsection (a) if that third party—
+&emsp;Liability for a violation of subsection (a) shall be imputed to a third party that providesgoods, products, property, or services to another person that violates subsection (a) if that third party—
 
 &emsp;&emsp;(A) owns, or has a greater than 50 percent ownership or economic interest in, the trade or business of the person that violated subsection (a); or
 

@@ -126,7 +126,7 @@ For the purpose of this subpart—
 
 The Adult Education and Family Literacy Act, referred to in subsec. (c)(1)(B), (2)(A)(iii), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-The Head Start Act, referred to in subsec. (c)(1)(B), (2)(A)(ii), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, ThePublic Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsec. (c)(1)(B), (2)(A)(ii), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

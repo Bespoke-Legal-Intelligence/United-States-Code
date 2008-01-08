@@ -20,7 +20,7 @@ The validity of the organization of the Wyandotte Indian Tribe of Oklahoma under
 
 #### References in Text
 
-Act of June 26, 1936, referred to in subsecs. (a)(1), (b), and (c), popularly known as the Oklahoma Welfare Act,is classified generally to subchapter VIII (§501 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 501 of this title and Tables.
+Act of June 26, 1936, referred to in subsecs. (a)(1), (b), and (c), popularly known as the Oklahoma Welfare Act, is classified generally to subchapter VIII (§501 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 501 of this title and Tables.
 
 Act of August 13, 1954, referred to in subsec. (a)(2), is act Aug. 13, 1954, ch. 732, 68 Stat. 718, as amended, which is classified generally to subchapter XIII (§564 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 

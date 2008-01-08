@@ -44,7 +44,7 @@ To conserve and protect natural values and to provide scientific knowledge, educ
 
 #### (C) Oil and gas leases
 
-&emsp;&emsp;Operations on oil and gas leases issued prior to November 12, 1996, shall be subject to the applicable provisions of Group 3100 of title 43, Code of Federal Regulations (including section 3162.5–1), and such other terms, stipulations, and conditions as the Secretary of the Interior considers necessary to avoid significant disturbance of the land surface or impairment of the natural, educational, and scientific research values of the Area in existence on November 12, 1996.
+&emsp;&emsp;Operations on oil and gas leases issued prior to November 12, 1996, shall be subject to the applicable provisions of Group 3100 oftitle 43, Code of Federal Regulations (including section 3162.5–1), and such other terms, stipulations, and conditions as the Secretary of the Interior considers necessary to avoid significant disturbance of the land surface or impairment of the natural, educational, and scientific research values of the Area in existence on November 12, 1996.
 
 #### (3) Grazing
 
@@ -98,7 +98,7 @@ Section was enacted as part of the San Juan Basin Wilderness Protection Act of 1
 
 2000—Subsec. (b)(1). Pub. L. 106–176, §124(1), substituted “Committee on Resources” for “Committee on Natural Resources”.
 
-Subsec. (e)(1). Pub. L. 106–176, §124(2), which directed amendment of par. (1) by substituting “this subsection” for “this Act”, was executed by making thesubstitution following “consistent with”, to reflect the probable intent of Congress.
+Subsec. (e)(1). Pub. L. 106–176, §124(2), which directed amendment of par. (1) by substituting “this subsection” for “this Act”, was executed by making the substitution following “consistent with”, to reflect the probable intent of Congress.
 
 Pub. L. 106–176, §124(1), substituted ‘Committee on Resources” for “Committee on Natural Resources”.
 
@@ -109,4 +109,8 @@ Pub. L. 106–176, §124(1), substituted ‘Committee on Resources” for “Com
 “(b) Within one year of October 30, 1984, the Secretary of the Interior shall promulgate rules and regulations for the administration of the Fossil Forest area referred to in subsection (a) of this section in accordance with the provisions of this Act and shall file a copy of such rules and regulations with the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
 
 “(c) The Bureau of Land Management is hereby directed to conduct a long-range study of the Fossil Forest to determine how best to manage the area's resource values identified in subsection (a) of this section. Within eight years of October 30, 1984, the Secretary shall forward the study results and management plan for the area to Congress. During the study period and until Congress determines otherwise, the Fossil Forest area shall be managed under the provisions of this Act.”
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

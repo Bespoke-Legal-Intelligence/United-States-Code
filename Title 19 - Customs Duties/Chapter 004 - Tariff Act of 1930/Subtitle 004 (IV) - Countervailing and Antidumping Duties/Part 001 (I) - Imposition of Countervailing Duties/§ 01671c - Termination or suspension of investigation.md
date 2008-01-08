@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), the administering authority may not terminate an investigation under paragraph (1) by accepting, with the government of the country in which the countervailable subsidy practice is alleged to occur, an understanding or other kind of agreement to limit the volume of imports into the United States of the subject merchandise unless the administering authority is satisfied that termination on the basis of that agreement is in the public interest.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the administering authority may not terminate an investigation under paragraph (1) by accepting, with the government of the countryin which the countervailable subsidy practice is alleged to occur, an understanding or other kind of agreement to limit the volume of imports into the United States of the subject merchandise unless the administering authority is satisfied that termination on the basis of that agreement is in the public interest.
 
 #### (B) Public interest factors
 
@@ -52,7 +52,7 @@ The administering authority may suspend an investigation if the government of th
 
 #### (1) General rule
 
-&emsp;If the administering authority determines that extraordinary circumstances are presentin a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
+&emsp;If the administering authority determines that extraordinary circumstances are present in a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
 
 #### (2) Certain additional requirements
 
@@ -96,7 +96,7 @@ The administering authority may suspend an investigation if the government of th
 
 &emsp;&emsp;(B) effective monitoring of the agreement by the United States is practicable.
 
-> &emsp;Where practicable, the administering authority shall provide to the exporters who would have been subject to the agreement the reasons for not accepting the agreement and, to the extent possible, an opportunity to submit comments thereon. In applying subparagraph (A) with respect to any quantitative restriction agreement under subsection (c) of this section, the administering authority shall take into account, in addition to such other factors as are considered necessary or appropriate, the factors set forth in subsection (a)(2)(B)(i), (ii), and (iii) of this section as they apply to the proposed suspension and agreement, after consulting with the appropriate consuming industries, producers, and workers referred to in subsection (a)(2)(C)(i) and (ii) of this section.
+> &emsp;Where practicable, the administering authority shall provide to the exporters who would have been subject to the agreement the reasons for not accepting the agreement and, to the extent possible, an opportunity to submit comments thereon. In applying subparagraph (A) with respect to any quantitative restriction agreement under subsection (c) of this section, the administering authority shall take into account, in addition to such other factors as are considered necessary or appropriate, the factors set forth in subsection\(a)(2)(B)(i), (ii), and (iii) of this section as they apply to the proposed suspension and agreement, after consulting with the appropriate consuming industries, producers, and workers referred to in subsection (a)(2)(C)(i) and (ii) of this section.
 
 #### (2) Exports of merchandise to United States not to increase during interim period
 
@@ -222,7 +222,7 @@ The administering authority may terminate any investigation initiated by the adm
 
 #### (1) Suspension agreements
 
-&emsp;If the Commission makes a regional industry determination under section 1677(4)(C) of this title, the administering authority shall offer exporters of the subject merchandise who account for substantially all exports of that merchandise for sale in the region concerned the opportunity to enter into an agreement described in subsection (b) or (c) of this section.
+&emsp;If the Commission makes a regional industry determination under section 1677(4)(C) ofthis title, the administering authority shall offer exporters of the subject merchandise who account for substantially all exports of that merchandise for sale in the region concerned the opportunity to enter into an agreement described in subsection (b) or (c) of this section.
 
 #### (2) Requirements for suspension agreements
 
@@ -290,7 +290,7 @@ Subsec. (i)(1)(D). Pub. L. 99–514, §1886(a)(4)(B), substituted “intentional
 
 Subsec. (d)(1). Pub. L. 98–573, §604(a)(2)(A), inserted provision, following subpar. (B), that in applying subpar. (A) with respect to any quantitative restriction agreement under subsec. (c) of this section, the administering authority shall take into account, in addition to such other factors as are considered necessary or appropriate, the factors set forth in subsec. (a)(2)(B)(i), (ii), and (iii) of this section as they apply to the proposed suspension and agreement, after consulting with the appropriate consuming industries, producers, and workers referred to in subsec. (a)(2)(C)(i) and (ii) of this section.
 
-Subsec. (d)(2), (3). Pub. L. 98–573, §604(a)(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which provided that exports of merchandise to the United States were not to increase during the interim period.
+Subsec. (d)(2), (3). Pub. L. 98–573, §604(a)(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2)which provided that exports of merchandise to the United States were not to increase during the interim period.
 
 Subsec. (e)(3). Pub. L. 98–573, §604(a)(3), substituted “all interested parties described in section 1677(9) of this title” for “all parties to the investigation”.
 

@@ -6,7 +6,7 @@ There is hereby authorized to be appropriated to the Fund for fiscal year 1992 t
 
 #### (b) Authorization of obligations from Fund
 
-During fiscal year 1992, there may be obligated from the Fund such amounts as may be providedin appropriations Acts, not to exceed $35,000,000. Amounts made available for obligation from the Fund for fiscal year 1992 shall remain available until expended.
+During fiscal year 1992, there may be obligated from the Fund such amounts as may be provided in appropriations Acts, not to exceed $35,000,000. Amounts made available for obligation from the Fund for fiscal year 1992 shall remain available until expended.
 
 (Pub. L. 102–183, title VIII, §809, Dec. 4, 1991, 105 Stat. 1277.)
 

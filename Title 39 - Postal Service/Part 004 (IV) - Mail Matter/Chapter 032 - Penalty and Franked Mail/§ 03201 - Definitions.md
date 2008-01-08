@@ -26,5 +26,5 @@ Section 403(1) of the Juvenile Justice and Delinquency Prevention Act of 1974, r
 
 #### Effective Date
 
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) ofPub. L. 91–375, set out as a note preceding section 101 of this title.
 

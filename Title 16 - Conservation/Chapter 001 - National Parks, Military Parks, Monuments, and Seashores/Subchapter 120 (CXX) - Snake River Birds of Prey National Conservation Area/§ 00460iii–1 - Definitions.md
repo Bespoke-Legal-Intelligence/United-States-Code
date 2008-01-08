@@ -14,7 +14,7 @@ As used in this subchapter:
 
 &emsp;(6) The term “Orchard Training Area” means that area generally so depicted on the map referred to in section 460iii–2(b) of this title, and as described in the Memorandum of Understanding as well as the air space over the same.
 
-&emsp;(7) The term “Impact Area” means that area which was used for the firing of live artillery projectiles and is used for live fire ranges ofall types and, therefore, poses a danger to public safety and which is generally so depicted on the map referred to in section 460iii–2(b) of this title.
+&emsp;(7) The term “Impact Area” means that area which was used for the firing of live artillery projectiles and is used for live fire ranges of all types and, therefore, poses a danger to public safety and which is generally so depicted on the map referred to in section 460iii–2(b) of this title.
 
 &emsp;(8) The term “Artillery Impact Area” means that area within the Impact Area into which live projectiles are fired, which is generally described as that area labeled as such on the map referred to in section 460iii–2(b) of this title.
 

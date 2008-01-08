@@ -4,7 +4,7 @@
 
 #### (1) Notification
 
-&emsp;The Secretary of the Treasury shall promptly notify the Secretary of Agriculture of thearrival of any plant, plant product, biological control organism, plant pest, or noxious weed at a port of entry.
+&emsp;The Secretary of the Treasury shall promptly notify the Secretary of Agriculture of the arrival of any plant, plant product, biological control organism, plant pest, or noxious weed at a port of entry.
 
 #### (2) Holding
 

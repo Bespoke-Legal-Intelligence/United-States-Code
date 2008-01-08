@@ -8,7 +8,7 @@
 
 &emsp;(B) security measures (including security plans, procedures, and equipment) for the physical protection of (i) production or utilization facilities, (ii) nuclear material contained in such facilities, or (iii) nuclear material in transit; or
 
-&emsp;(C) the design, manufacture, or utilization of any atomic weapon or component if the design, manufacture, or utilization of such weapon or component was contained in any information declassified or removed from the Restricted Data category by the Secretary (orthe head of the predecessor agency of the Department of Energy) pursuant to section 2162 of this title.
+&emsp;(C) the design, manufacture, or utilization of any atomic weapon or component if the design, manufacture, or utilization of such weapon or component was contained in any information declassified or removed from the Restricted Data category by the Secretary (or the head of the predecessor agency of the Department of Energy) pursuant to section 2162 of this title.
 
 (2) The Secretary may prescribe regulations or issue orders under paragraph (1) to prohibit the dissemination of any information described in such paragraph only if and to the extent that the Secretary determines that the unauthorized dissemination of such information could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of (A) illegal production of nuclear weapons, or (B) theft, diversion, or sabotage of nuclear materials, equipment, or facilities.
 

@@ -10,7 +10,7 @@
 
 &emsp;(3) reserve enlisted members of the Army who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time National Guard duty).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 231; Pub. L. 85–861, §1(100), Sept. 2, 1958, 72 Stat. 1489; Pub. L.98–525, title V, §533(c), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 100–180, div. A, title V, §512(a), Dec. 4, 1987, 101 Stat. 1089.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 231; Pub. L. 85–861, §1(100), Sept. 2, 1958, 72 Stat. 1489; Pub. L. 98–525, title V, §533(c), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 100–180, div. A, title V, §512(a), Dec. 4, 1987, 101 Stat. 1089.)
 
 Historical and Revision Notes<br>1956
 

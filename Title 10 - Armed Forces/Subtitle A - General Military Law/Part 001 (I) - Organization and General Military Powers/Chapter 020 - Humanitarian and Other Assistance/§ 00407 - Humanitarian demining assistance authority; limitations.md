@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—(1) Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may carry out humanitarian demining assistance in a countryif the Secretary concerned determines that the assistance will promote either—
+Authority.—(1) Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may carry out humanitarian demining assistance in a country if the Secretary concerned determines that the assistance will promote either—
 
 &emsp;(A) the security interests of both the United States and the country in which the activities are to be carried out; or
 

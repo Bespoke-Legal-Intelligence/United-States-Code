@@ -8,7 +8,7 @@
 
 #### (2) Limitation
 
-&emsp;The Corporation shall not sell or purchase any obligations described in paragraph (1) for its own account, at any one time aggregatingin excess of $100,000, without the approval of the Secretary of the Treasury. The Secretary may approve a transaction or class of transactions subject to the provisions of this paragraph under such conditions as the Secretary may determine.
+&emsp;The Corporation shall not sell or purchase any obligations described in paragraph (1) for its own account, at any one time aggregating in excess of $100,000, without the approval of the Secretary of the Treasury. The Secretary may approve a transaction or class of transactions subject to the provisions of this paragraph under such conditions as the Secretary may determine.
 
 #### (b) Depository accounts
 
@@ -56,7 +56,7 @@ In general.—Notwithstanding any other provision of this chapter, the Corporati
 
 &emsp;&emsp;(i) the Corporation determines that the exercise of such authority is necessary to meet the obligation of the Corporation to provide insurance coverage for the insured deposits in such institution; and
 
-&emsp;&emsp;(ii) the total amount of the expenditures by the Corporation and obligations incurred by the Corporation (including any immediate and long-term obligation of the Corporation and any direct or contingent liability for future payment by the Corporation) in connection with the exercise of any such authority with respect to such institution isthe least costly to the Deposit Insurance Fund of all possible methods for meeting the Corporation's obligation under this section.
+&emsp;&emsp;(ii) the total amount of the expenditures by the Corporation and obligations incurred by the Corporation (including any immediate and long-term obligation of the Corporation and any direct or contingent liability for future payment by the Corporation) in connection with the exercise of any such authority with respect to such institution is the least costly to the Deposit Insurance Fund of all possible methods for meeting the Corporation's obligation under this section.
 
 &emsp;(B)
 
@@ -128,7 +128,7 @@ Systemic risk.—
 
 &emsp;&emsp;(i)
 
-Emergency determination by secretary of the treasury.—Notwithstanding subparagraphs (A) and (E), if, upon the written recommendation of the Board of Directors (upon a vote of not less than two-thirds of the members of the Board of Directors) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that—
+Emergency determination by secretary of the treasury.—Notwithstanding subparagraphs (A) and (E), if, upon the written recommendation of the Board of Directors (upon a vote of not less than two-thirds of the members of the Board of Directors) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board),the Secretary of the Treasury (in consultation with the President) determines that—
 
 &emsp;&emsp;&emsp;(I) the Corporation's compliance with subparagraphs (A) and (E) with respect to an insured depository institution would have serious adverse effects on economic conditions or financial stability; and
 
@@ -142,7 +142,7 @@ Repayment of loss.—The Corporation shall recover the loss to the Deposit Insur
 
 &emsp;&emsp;&emsp;(I) an assessment rate established by the Corporation; and
 
-&emsp;&emsp;&emsp;(II) the amount of each insured depository institution's average total assets during the assessment period, minus the sum of the amount of the institution's average total tangible equity and the amount ofthe institution's average total subordinated debt.
+&emsp;&emsp;&emsp;(II) the amount of each insured depository institution's average total assets during the assessment period, minus the sum of the amount of the institution's average total tangible equity and the amount of the institution's average total subordinated debt.
 
 &emsp;&emsp;(iii)
 
@@ -216,7 +216,7 @@ Public disclosure.—Any determination under this paragraph to provide assistanc
 
 (9) Any assistance provided under this subsection may be in subordination to the rights of depositors and other creditors.
 
-(10) In its annual report to the Congress, the Corporation shall report the total amount it has saved, or estimates it has saved, by exercising the authority provided in this subsection.
+(10) In its annual report to the Congress, the Corporation shall report the total amount it hassaved, or estimates it has saved, by exercising the authority provided in this subsection.
 
 #### (d) Sale of assets to Corporation
 
@@ -236,7 +236,7 @@ Public disclosure.—Any determination under this paragraph to provide assistanc
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Such rights, powers, privileges, and authorities shall be in addition to and not inderogation of any rights, powers, privileges, and authorities otherwise applicable to the Corporation.
+&emsp;&emsp;Such rights, powers, privileges, and authorities shall be in addition to and not in derogation of any rights, powers, privileges, and authorities otherwise applicable to the Corporation.
 
 #### (C) Fiduciary responsibility
 
@@ -434,7 +434,7 @@ Minority Bank Priority.—In the case of a minority-controlled bank, the Corpora
 
 &emsp;(C) the term “affiliated insured bank” means—
 
-&emsp;&emsp;(i) when used in connection with a reference to a holding company, an insured bank which is a subsidiary of such holding company; and
+&emsp;&emsp;(i) when used in connection with a reference to a holding company, an insuredbank which is a subsidiary of such holding company; and
 
 &emsp;&emsp;(ii) when used in connection with a reference to 2 or more insured banks, insured banks which are subsidiaries of the same holding company; and
 
@@ -524,7 +524,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (3) Regulations
 
-&emsp;Not later than 90 days after August 10, 1987, the appropriate Federal banking agency shall issue regulations implementing this subsection with respect to banks that it supervises, including regulations implementing the capital restoration requirement of paragraph (1)(B).
+&emsp;Not later than 90 days after August 10, 1987, the appropriate Federal banking agency shallissue regulations implementing this subsection with respect to banks that it supervises, including regulations implementing the capital restoration requirement of paragraph (1)(B).
 
 #### (4) Definitions
 
@@ -606,7 +606,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (A) In general
 
-&emsp;&emsp;In considering authorizations under this subsection, the Corporation may solicit such offers or proposals as are practicable from any prospective purchasers or merger partners it determines, in its sole discretion, are both qualified and capable of acquiring the assets and liabilities of the savings association.
+&emsp;&emsp;In considering authorizations under this subsection, the Corporation may solicit suchoffers or proposals as are practicable from any prospective purchasers or merger partners it determines, in its sole discretion, are both qualified and capable of acquiring the assets and liabilities of the savings association.
 
 #### (B) Minority-controlled institutions
 
@@ -620,7 +620,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (A) In general
 
-&emsp;&emsp;If a merger, consolidation, transfer, or acquisition under this subsection involves a savings association eligible for assistance and a bank or bank holding company, a savings association may retain and operate any existing branch or branches or any other existing facilities. If the savings association continues to exist as a separate entity, it may establish and operate new branches to the same extent as any savings associationthat is not affiliated with a bank holding company and the home office of which is located in the same State.
+&emsp;&emsp;If a merger, consolidation, transfer, or acquisition under this subsection involves a savings association eligible for assistance and a bank or bank holding company, a savings association may retain and operate any existing branch or branches or any other existing facilities. If the savings association continues to exist as a separate entity, it may establish and operate new branches to the same extent as any savings association that is not affiliated with a bank holding company and the home office of which is located in the same State.
 
 #### (B) Restrictions
 
@@ -678,7 +678,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;&emsp;For purposes of this paragraph, the term “economically depressed region” means any geographical region which the Corporation determines by regulation to be a region within which real estate values have suffered serious decline due to severe economic conditions, such as a decline in energy or agricultural values or prices.
 
-(Sept. 21, 1950, ch. 967, §2\[13\], 64 Stat. 888; Pub. L. 95–369, §6(c)(24), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §§111, 113(m), 116, 141(a)(1), (3), title II, §§203, 206, Oct. 15, 1982, 96 Stat. 1469, 1474, 1476, 1488, 1489, 1492, 1496; Pub. L. 97–457, §§1(a), 4, 10(a), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–29, §1(a), May 16, 1983, 97 Stat. 189; Pub. L. 100–86, title V, §§502(a)–(g), (i), 509(a), title VIII, §801, Aug. 10, 1987, 101 Stat. 623–627, 629, 635, 656; Pub. L. 101–73, title II, §§201(a), 217, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 102–242, title I, §§123(b), 141(a)(1), (e), Dec. 19, 1991, 105 Stat. 2252, 2273, 2278; Pub. L. 103–325, title III, §317, title VI, §602(a)(34)–(42), Sept. 23, 1994, 108 Stat. 2223, 2289, 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(M), Sept. 30, 1996, 110 Stat. 3009–492; Pub. L. 109–8, title IX, §909, Apr. 20, 2005, 119 Stat. 183; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §§3(a)(8), 8(a)(19), Feb. 15, 2006, 119 Stat. 3606, 3613.)
+(Sept. 21, 1950, ch. 967, §2\[13\], 64 Stat. 888; Pub. L. 95–369, §6(c)(24), Sept. 17, 1978, 92 Stat. 619; Pub.L. 97–320, title I, §§111, 113(m), 116, 141(a)(1), (3), title II, §§203, 206, Oct. 15, 1982, 96 Stat. 1469, 1474, 1476, 1488, 1489, 1492, 1496; Pub. L. 97–457, §§1(a), 4, 10(a), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–29, §1(a), May 16, 1983, 97 Stat. 189; Pub. L. 100–86, title V, §§502(a)–(g), (i), 509(a), title VIII, §801, Aug. 10, 1987, 101 Stat. 623–627, 629, 635, 656; Pub. L. 101–73, title II, §§201(a), 217, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 102–242, title I, §§123(b), 141(a)(1), (e), Dec. 19, 1991, 105 Stat. 2252, 2273, 2278; Pub. L. 103–325, title III, §317, title VI, §602(a)(34)–(42), Sept. 23, 1994, 108 Stat. 2223, 2289, 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(M), Sept. 30, 1996, 110 Stat. 3009–492; Pub. L. 109–8, title IX, §909, Apr. 20, 2005, 119 Stat. 183; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §§3(a)(8), 8(a)(19), Feb. 15, 2006, 119 Stat. 3606, 3613.)
 
 #### References in Text
 
@@ -752,7 +752,7 @@ Subsec. (k)(5)(A). Pub. L. 104–208, §2704(d)(14)(M)(vii), which directed subs
 
 Subsec. (c)(2)(A). Pub. L. 103–325, §602(a)(35), substituted “with another insured depository institution” for “with an insured institution” and “by another depository institution” for “by an insured institution”.
 
-Subsec. (e). Pub. L. 103–325, §317, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D) of par. (1), respectively, and added par. (2).
+Subsec. (e). Pub. L. 103–325, §317, designated existing provisions as par. (1) and inserted heading, redesignatedformer pars. (1) to (4) as subpars. (A) to (D) of par. (1), respectively, and added par. (2).
 
 Subsec. (f)(2)(B)(i). Pub. L. 103–325, §602(a)(36), substituted “the insured bank in default” for “the in default insured bank”.
 
@@ -772,7 +772,7 @@ Subsec. (f)(7)(A), (B). Pub. L. 103–325, §602(a)(41), struck out “or” at 
 
 Subsec. (f)(12)(A). Pub. L. 103–325, §602(a)(42), substituted “are” for “is”.
 
-1991—Subsec. (c)(4) to (10). Pub. L. 102–242, §141(a)(1), (e), redesignated former pars. (5) to (9) as (6) to (10), respectively, redesignated subpar. (B) of par. (4) as par. (5), amended par. (4)(A) generally and redesignated it as par. (4), further redesignated pars. (8) to (10) as (9) to (11), respectively, and added par. (8). Prior to amendment, par. (4)(A) read as follows: “No assistance shall be provided under this subsection in an amount in excess of that amount which the Corporation determines to be reasonably necessary to save the cost of liquidating, including paying the insured accounts of, such insured depository institution, except that such restriction shall not apply in any case in which the Corporation determines that the continued operation of such insured depository institution is essential to provide adequate depository services in its community. In calculating the cost of assistance, the Corporation shallinclude (i) the immediate and long-term obligations of the Corporation with respect to such assistance, including contingent liabilities, and (ii) the Federal tax revenues foregone by the Government, to the extent reasonably ascertainable.”
+1991—Subsec. (c)(4) to (10). Pub. L. 102–242, §141(a)(1), (e), redesignated former pars. (5) to (9) as (6) to (10), respectively, redesignated subpar. (B) of par. (4) as par. (5), amended par. (4)(A) generally and redesignated it as par. (4), further redesignated pars. (8) to (10) as (9) to (11), respectively, and added par. (8). Prior to amendment, par. (4)(A) read as follows: “No assistance shall be provided under this subsection in an amount in excess of that amount which the Corporation determines to be reasonably necessary to save the cost of liquidating, including paying the insured accounts of, such insured depository institution, except that such restriction shall not apply in any case in which the Corporation determines that the continued operation of such insured depository institution is essential to provide adequate depository services in its community. In calculating the cost of assistance, the Corporation shall include (i) the immediate and long-term obligations of the Corporation with respect to such assistance, including contingent liabilities, and (ii) the Federal tax revenues foregone by the Government, to the extent reasonably ascertainable.”
 
 Subsec. (d)(3)(D). Pub. L. 102–242, §123(b), added subpar. (D).
 
@@ -980,7 +980,7 @@ Section 10(b) of Pub. L. 97–457 provided that: “The amendment made by subsec
 
 #### Effective Date of 1982 Amendment
 
-Section 206 of Pub. L. 97–320, as amended by Pub. L. 97–457, §11, Jan. 12, 1983, 96 Stat. 2508; Pub. L. 99–120, §6(b), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–278, §1(b), Apr. 24, 1986, 100 Stat. 397; Pub. L. 99–400, §1(b), Aug. 27, 1986, 100 Stat. 902; Pub. L. 99–452, §1(b), Oct. 8, 1986, 100 Stat. 1140; Pub. L. 100–86, title V, §509(b), Aug. 10, 1987, 101 Stat. 635, provided that:
+Section 206 of Pub. L. 97–320, as amended by Pub. L. 97–457, §11, Jan. 12, 1983, 96 Stat. 2508; Pub. L. 99–120, §6(b), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–278, §1(b), Apr. 24, 1986, 100 Stat. 397; Pub. L. 99–400, §1(b), Aug. 27, 1986,100 Stat. 902; Pub. L. 99–452, §1(b), Oct. 8, 1986, 100 Stat. 1140; Pub. L. 100–86, title V, §509(b), Aug. 10, 1987, 101 Stat. 635, provided that:
 
 “(a) On October 13, 1991, section 406(f)(5) of the National Housing Act \[12 U.S.C. 1729(f)(5)\] and section 13(i) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(i)\] are repealed.
 

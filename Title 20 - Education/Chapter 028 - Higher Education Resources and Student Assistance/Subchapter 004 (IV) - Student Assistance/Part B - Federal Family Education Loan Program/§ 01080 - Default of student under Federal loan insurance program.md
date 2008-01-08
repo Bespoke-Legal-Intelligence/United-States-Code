@@ -20,7 +20,7 @@ Nothing in this section or in this part shall be construed to excuse the holder 
 
 #### (1) In general
 
-&emsp;The Secretary shall annually publish a list indicating the cohort default rate (determined in accordance with section 1085(m) of this title) for each originating lender, subsequentholder, and guaranty agency participating in the program assisted under this part and an average cohort default rate for all institutions of higher education within each State.
+&emsp;The Secretary shall annually publish a list indicating the cohort default rate (determined in accordance with section 1085(m) of this title) for each originating lender, subsequent holder, and guaranty agency participating in the program assisted under this part and an average cohort default rate for all institutions of higher education within each State.
 
 #### (2) Regulations
 
@@ -34,7 +34,7 @@ Nothing in this section or in this part shall be construed to excuse the holder 
 
 #### Prior Provisions
 
-A prior section 1080, Pub. L. 89–329, title IV, §430, Nov. 8, 1965, 79 Stat. 1244; Pub. L. 90–575, title I, §113(b)(5), Oct. 16, 1968, 82 Stat. 1021; Pub. L. 92–318, title I, §132B(c), June 23, 1972, 86 Stat. 262; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2125; Pub. L. 95–43, §1(a)(33), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§416(a)(1), (b), 422, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1420, 1421, 1432, 1503; Pub. L. 99–272, title XVI, §§16014(a)(2), 16022, Apr. 7, 1986, 100 Stat. 341, 349, related to default of student borrowers under Federal loan insurance program, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1080, Pub. L. 89–329, title IV, §430, Nov. 8, 1965, 79 Stat. 1244; Pub. L. 90–575, title I, §113(b)(5), Oct. 16, 1968, 82 Stat. 1021; Pub. L. 92–318, title I, §132B(c), June 23, 1972, 86 Stat. 262; Pub. L. 94–482, titleI, §127(a), Oct. 12, 1976, 90 Stat. 2125; Pub. L. 95–43, §1(a)(33), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§416(a)(1), (b), 422, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1420, 1421, 1432, 1503; Pub. L. 99–272, title XVI, §§16014(a)(2), 16022, Apr. 7, 1986, 100 Stat. 341, 349, related to default of student borrowers under Federal loan insurance program, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

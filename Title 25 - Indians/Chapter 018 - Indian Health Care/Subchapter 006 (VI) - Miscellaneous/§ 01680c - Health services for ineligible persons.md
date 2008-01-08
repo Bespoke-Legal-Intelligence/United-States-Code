@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(I) the provision of such health services will not result in a denial or diminution of health services to eligible Indians, and
 
-&emsp;&emsp;(II) there is no reasonable alternative health facility or services, within or without the service area of such service unit, available to meet the health needs of such individuals.
+&emsp;&emsp;(II) there is no reasonable alternative health facility or services, within or withoutthe service area of such service unit, available to meet the health needs of such individuals.
 
 (B) In the case of health facilities operated under a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], the governing body of the Indian tribe or tribal organization providing health services under such contract is authorized to determine whether health services should be provided under such contract to individuals who are not eligible for such health services under any other subsection of this section or under any other provision of law. In making such determinations, the governing body of the Indian tribe or tribal organization shall take into account the considerations described in subparagraph (A)(ii).
 
@@ -54,7 +54,7 @@ Hospital privileges in health facilities operated and maintained by the Service 
 
 #### (e) “Eligible Indian” defined
 
-For purposes of this section, the term “eligible Indian” means any Indian who is eligible forhealth services provided by the Service without regard to the provisions of this section.
+For purposes of this section, the term “eligible Indian” means any Indian who is eligible for health services provided by the Service without regard to the provisions of this section.
 
 (Pub. L. 94–437, title VIII, §813, formerly title VII, §713, as added Pub. L. 100–713, title VII, §707(a), Nov. 23, 1988, 102 Stat. 4829; renumbered title VIII, §813, and amended Pub. L. 102–573, title VII, §701(a), (b), title IX, §902(8), Oct. 29, 1992, 106 Stat. 4572, 4592.)
 

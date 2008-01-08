@@ -6,7 +6,7 @@ The Secretary of Health and Human Services shall establish an Office of Pediatri
 
 #### (b) Duties
 
-The Office of Pediatric Therapeutics shall be responsible for coordination and facilitation of all activities of the Food and Drug Administration that may have any effect on a pediatric population or the practice of pediatrics or may in any other way involve pediatric issues.
+The Office of Pediatric Therapeutics shall be responsible for coordination and facilitation of all activities of the Food and Drug Administration that may have any effect on a pediatric population or the practice of pediatrics or may in any other way involve pediatric issues, including increasing pediatric access to medical devices.
 
 #### (c) Staff
 
@@ -16,9 +16,13 @@ The staff of the Office of Pediatric Therapeutics shall coordinate with employee
 
 &emsp;(2) one or more additional individuals with expertise in pediatrics as may be necessary to perform the activities described in subsection (b) of this section.
 
-(Pub. L. 107–109, §6, Jan. 4, 2002, 115 Stat. 1414.)
+(Pub. L. 107–109, §6, Jan. 4, 2002, 115 Stat. 1414; Pub. L. 110–85, title III, §306(a), Sept. 27, 2007, 121 Stat. 864.)
 
 #### Codification
 
 Section was enacted as part of the Best Pharmaceuticals for Children Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+#### Amendments
+
+2007—Subsec. (b). Pub. L. 110–85 inserted “, including increasing pediatric access to medical devices” before period at end.
 

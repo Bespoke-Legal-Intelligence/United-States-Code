@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) in the case of proposed new construction and for major upgrades to existing facilities, funding profiles, by fiscal year, and milestones for major phases of the construction;
 
-&emsp;&emsp;(D) for each project funded under the major research equipment and facilities construction account—
+&emsp;&emsp;(D) for each project funded under the major research equipment and facilities construction account and for major upgrades of facilities in support of Antarctic research programs—
 
 &emsp;&emsp;&emsp;(i) estimates of the total project cost (from planning to commissioning); and
 
@@ -40,13 +40,15 @@
 
 The plan required under subsection (a) of this section shall include a status report for each uncompleted construction project included in current and previous plans. The status report shall include data on cumulative construction costs by project compared with estimated costs, and shall compare the current and original schedules for achievement of milestones for the major phases of the construction.
 
-(Pub. L. 105–207, title II, §201, July 29, 1998, 112 Stat. 872; Pub. L. 107–368, §14(b)(1), (2), Dec. 19, 2002, 116 Stat. 3056, 3057.)
+(Pub. L. 105–207, title II, §201, July 29, 1998, 112 Stat. 872; Pub. L. 107–368, §14(b)(1), (2), Dec. 19, 2002, 116 Stat. 3056, 3057; Pub. L. 110–69, title VII, §7014(b), Aug. 9, 2007, 121 Stat. 682.)
 
 #### Codification
 
 Section was enacted as part of the National Science Foundation Authorization Act of 1998, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+2007—Subsec. (a)(2)(D). Pub. L. 110–69 inserted “and for major upgrades of facilities in support of Antarctic research programs” after “facilities construction account” in introductory provisions.
 
 2002—Subsec. (a)(1). Pub. L. 107–368, §14(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than December 1, of each year, the Director shall, as part of the annual budget request, prepare and submit to Congress a plan for the proposed construction of, and repair and upgrades to, national research facilities.”
 

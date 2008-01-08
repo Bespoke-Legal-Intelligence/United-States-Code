@@ -68,7 +68,7 @@ Whenever a compromise is made by the Secretary in any case, there shall be place
 
 #### (B) Use of schedules
 
-&emsp;&emsp;The guidelines shall provide that officers and employees of the Internal Revenue Service shall determine, on the basis of the facts and circumstances of each taxpayer, whether the use of the schedules published under subparagraph (A) is appropriate and shallnot use the schedules to the extent such use would result in the taxpayer not having adequate means to provide for basic living expenses.
+&emsp;&emsp;The guidelines shall provide that officers and employees of the Internal Revenue Service shall determine, on the basis of the facts and circumstances of each taxpayer, whether the use of the schedules published under subparagraph (A) is appropriate and shall not use the schedules to the extent such use would result in the taxpayer not having adequate means to provide for basic living expenses.
 
 #### (3) Special rules relating to treatment of offers
 

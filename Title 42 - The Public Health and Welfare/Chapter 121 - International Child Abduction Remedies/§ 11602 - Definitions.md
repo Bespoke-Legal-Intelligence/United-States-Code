@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 &emsp;(7) the term “rights of access” means visitation rights;
 
-&emsp;(8) the term “State” means any of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States; and
+&emsp;(8) the term “State” means any of the several States, the District of Columbia, and anycommonwealth, territory, or possession of the United States; and
 
 &emsp;(9) the term “United States Central Authority” means the agency of the Federal Government designated by the President under section 11606(a) of this title.
 

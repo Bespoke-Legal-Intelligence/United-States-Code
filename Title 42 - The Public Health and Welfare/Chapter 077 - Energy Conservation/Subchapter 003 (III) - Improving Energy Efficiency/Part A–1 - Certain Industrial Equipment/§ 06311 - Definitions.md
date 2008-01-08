@@ -16,15 +16,17 @@ For purposes of this part—
 
 &emsp;&emsp;(F) Automatic commercial ice makers.
 
-&emsp;&emsp;(G) Commercial clothes washers.
+&emsp;&emsp;(G) Walk-in coolers and walk-in freezers.
 
-&emsp;&emsp;(H) Packaged terminal air-conditioners and packaged terminal heat pumps.
+&emsp;&emsp;(H) Commercial clothes washers.
 
-&emsp;&emsp;(I) Warm air furnaces and packaged boilers.
+&emsp;&emsp;(I) Packaged terminal air-conditioners and packaged terminal heat pumps.
 
-&emsp;&emsp;(J) Storage water heaters, instantaneous water heaters, and unfired hot water storage tanks.
+&emsp;&emsp;(J) Warm air furnaces and packaged boilers.
 
-&emsp;&emsp;(K) Any other type of industrial equipment which the Secretary classifies as covered equipment under section 6312(b) of this title.
+&emsp;&emsp;(K) Storage water heaters, instantaneous water heaters, and unfired hot water storage tanks.
+
+&emsp;&emsp;(L) Any other type of industrial equipment which the Secretary classifies as covered equipment under section 6312(b) of this title.
 
 &emsp;(2)(A) The term “industrial equipment” means any article of equipment referred to in subparagraph (B) of a type—
 
@@ -106,7 +108,7 @@ For purposes of this part—
 
 &emsp;(B) The term “holding temperature application” means a use of commercial refrigeration equipment other than a pull-down temperature application, except a blast chiller or freezer.
 
-&emsp;(C) The term “integrated average temperature” means the average temperature of alltest package measurements taken during the test.
+&emsp;(C) The term “integrated average temperature” means the average temperature of all test package measurements taken during the test.
 
 &emsp;(D) The term “pull-down temperature application” means a commercial refrigerator with doors that, when fully loaded with 12 ounce beverage cans at 90 degrees F, can cool those beverages to an average stable temperature of 38 degrees F in 12 hours or less.
 
@@ -128,21 +130,45 @@ For purposes of this part—
 
 &emsp;(C) The term “unfired hot water storage tank” means a tank used to store water that is heated externally.
 
-&emsp;(13)(A) The term “electric motor” means any motor which is a general purpose T-frame, single-speed, foot-mounting, polyphase squirrel-cage induction motor of the National Electrical Manufacturers Association, Design A and B, continuous rated, operating on 230/460 volts and constant 60 Hertz line power as defined in NEMA Standards Publication MG1–1987.
+&emsp;(13)
 
-&emsp;(B) The term “definite purpose motor” means any motor designed in standard ratings with standard operating characteristics or standard mechanical construction for use under service conditions other than usual or for use on a particular type of application and which cannot be used in most general purpose applications.
+Electric motor.—
 
-&emsp;(C) The term “special purpose motor” means any motor, other than a general purpose motor or definite purpose motor, which has special operating characteristics or special mechanical construction, or both, designed for a particular application.
+&emsp;&emsp;(A)
 
-&emsp;(D) The term “open motor” means a motor having ventilating openings which permit passage of external cooling air over and around the windings of the machine.
+General purpose electric motor (subtype i).—The term “general purpose electric motor (subtype I)” means any motor that meets the definition of “General Purpose” as established in the final rule issued by the Department of Energy entitled “Energy Efficiency Program for Certain Commercial and Industrial Equipment: Test Procedures, Labeling, and Certification Requirements for Electric Motors” (10 CFR 431), as in effect on December 19, 2007.
 
-&emsp;(E) The term “enclosed motor” means a motor so enclosed as to prevent the free exchange of air between the inside and outside of the case but not sufficiently enclosed to be termed airtight.
+&emsp;&emsp;(B)
 
-&emsp;(F) The term “small electric motor” means a NEMA general purpose alternating current single-speed induction motor, built in a two-digit frame number series in accordance with NEMA Standards Publication MG1–1987.
+General purpose electric motor (subtype ii).—The term “general purpose electric motor (subtype II)” means motors incorporating the design elements of a general purpose electric motor (subtype I) that are configured as 1 of the following:
 
-&emsp;(G) The term “efficiency” when used with respect to an electric motor means the ratio of an electric motor's useful power output to its total power input, expressed in percentage.
+&emsp;&emsp;&emsp;(i) A U-Frame Motor.
 
-&emsp;(H) The term “nominal full load efficiency” means the average efficiency of a population of motors of duplicate design as determined in accordance with NEMA Standards Publication MG1–1987.
+&emsp;&emsp;&emsp;(ii) A Design C Motor.
+
+&emsp;&emsp;&emsp;(iii) A close-coupled pump motor.
+
+&emsp;&emsp;&emsp;(iv) A Footless motor.
+
+&emsp;&emsp;&emsp;(v) A vertical solid shaft normal thrust motor (as tested in a horizontal configuration).
+
+&emsp;&emsp;&emsp;(vi) An 8-pole motor (900 rpm).
+
+&emsp;&emsp;&emsp;(vii) A poly-phase motor with voltage of not more than 600 volts (other than 230 or 460 volts.<sup>1</sup>
+
+&emsp;(C) The term “definite purpose motor” means any motor designed in standard ratings with standard operating characteristics or standard mechanical construction for use under service conditions other than usual or for use on a particular type of application and which cannot be used in most general purpose applications.
+
+&emsp;(D) The term “special purpose motor” means any motor, other than a general purpose motor or definite purpose motor, which has special operating characteristics or special mechanical construction, or both, designed for a particular application.
+
+&emsp;(E) The term “open motor” means a motor having ventilating openings which permit passage of external cooling air over and around the windings of the machine.
+
+&emsp;(F) The term “enclosed motor” means a motor so enclosed as to prevent the free exchange of air between the inside and outside of the case but not sufficiently enclosed to be termed airtight.
+
+&emsp;(G) The term “small electric motor” means a NEMA general purpose alternating current single-speed induction motor, built in a two-digit frame number series in accordance with NEMA Standards Publication MG1–1987.
+
+&emsp;(H) The term “efficiency” when used with respect to an electric motor means the ratio of an electric motor's useful power output to its total power input, expressed in percentage.
+
+&emsp;(I) The term “nominal full load efficiency” means the average efficiency of a population of motors of duplicate design as determined in accordance with NEMA Standards Publication MG1–1987.
 
 &emsp;(14) The term “ASHRAE” means the American Society of Heating, Refrigerating, and Air Conditioning Engineers.
 
@@ -164,7 +190,19 @@ For purposes of this part—
 
 &emsp;&emsp;(B) may include means for storing ice, dispensing ice, or storing and dispensing ice.
 
-&emsp;(20) The term “commercial clothes washer” means a soft-mount front-loading or soft-mount top-loading clothes washer that—
+&emsp;(20)
+
+Walk-in cooler; walk-in freezer.—
+
+&emsp;&emsp;(A)
+
+In general.—The terms “walk-in cooler” and “walk-in freezer” mean an enclosed storage space refrigerated to temperatures, respectively, above, and at or below 32 degrees Fahrenheit that can be walked into, and has a total chilled storage area of less than 3,000 square feet.
+
+&emsp;&emsp;(B)
+
+Exclusion.—The terms “walk-in cooler” and “walk-in freezer” do not include products designed and marketed exclusively for medical, scientific, or research purposes.
+
+&emsp;(21) The term “commercial clothes washer” means a soft-mount front-loading or soft-mount top-loading clothes washer that—
 
 &emsp;&emsp;(A) has a clothes container compartment that—
 
@@ -178,11 +216,49 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) other commercial applications.
 
-&emsp;(21) The term “harvest rate” means the amount of ice (at 32 degrees F) in pounds produced per 24 hours.
+&emsp;(22) <sup>2</sup> The term “harvest rate” means the amount of ice (at 32 degrees F) in pounds produced per 24 hours.
 
-(Pub. L. 94–163, title III, §340, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3267; amended Pub. L. 102–486, title I, §122(a), (f)(1), Oct. 24, 1992, 106 Stat. 2806, 2817; Pub. L. 109–58, title I, §136(a), Aug. 8, 2005, 119 Stat. 634.)
+&emsp;(22) <sup>2</sup>
+
+Single package vertical air conditioner.—The term “single package vertical air conditioner” means air-cooled commercial package air conditioning and heating equipment that—
+
+&emsp;&emsp;(A) is factory-assembled as a single package that—
+
+&emsp;&emsp;&emsp;(i) has major components that are arranged vertically;
+
+&emsp;&emsp;&emsp;(ii) is an encased combination of cooling and optional heating components; and
+
+&emsp;&emsp;&emsp;(iii) is intended for exterior mounting on, adjacent interior to, or through an outside wall;
+
+&emsp;&emsp;(B) is powered by a single- or 3-phase current;
+
+&emsp;&emsp;(C) may contain 1 or more separate indoor grilles, outdoor louvers, various ventilation options, indoor free air discharges, ductwork, well plenum, or sleeves; and
+
+&emsp;&emsp;(D) has heating components that may include electrical resistance, steam, hot water, or gas, but may not include reverse cycle refrigeration as a heating means.
+
+&emsp;(23)
+
+Single package vertical heat pump.—The term “single package vertical heat pump” means a single package vertical air conditioner that—
+
+&emsp;&emsp;(A) uses reverse cycle refrigeration as its primary heat source; and
+
+&emsp;&emsp;(B) may include secondary supplemental heating by means of electrical resistance, steam, hot water, or gas.
+
+(Pub. L. 94–163, title III, §340, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3267; amended Pub. L. 102–486, title I, §122(a), (f)(1), Oct. 24, 1992, 106 Stat. 2806, 2817; Pub. L. 109–58, title I, §136(a), Aug. 8, 2005, 119 Stat. 634; Pub. L. 110–140, title III, §§312(a), 313(a), 314(a), Dec. 19, 2007, 121 Stat. 1564, 1568, 1569.)
 
 #### Amendments
+
+2007—Par. (1)(G) to (L). Pub. L. 110–140, §312(a)(1), added subpar. (G) and redesignated former subpars. (G) to (K) as (H) to (L), respectively.
+
+Par. (13). Pub. L. 110–140, §313(a), inserted par. heading, added subpars. (A) and (B), redesignated former subpars. (B) to (H) as (C) to (I), respectively, and struck out former subpar. (A) which read as follows: “The term ‘electric motor’ means any motor which is a general purpose T-frame, single-speed, foot-mounting, polyphase squirrel-cage induction motor of the National Electrical Manufacturers Association, Design A and B, continuous rated, operating on 230/460 volts and constant 60 Hertz line power as defined in NEMA Standards Publication MG1–1987.”
+
+Pars. (20), (21). Pub. L. 110–140, §312(a)(2), (3), added par. (20) and redesignated former par. (20) as (21). Former par. (21) redesignated (22) relating to harvest rate.
+
+Par. (22). Pub. L. 110–140, §314(a), added par. (22) relating to single package vertical air conditioner.
+
+Pub. L. 110–140, §312(a)(2), redesignated par. (21) as (22) relating to harvest rate.
+
+Par. (23). Pub. L. 110–140, §314(a), added par. (23).
 
 2005—Par. (1)(D) to (K). Pub. L. 109–58, §136(a)(1), added subpars. (D) to (G) and redesignated former subpars. (D) to (G) as (H) to (K), respectively.
 
@@ -203,4 +279,12 @@ Par. (2)(B). Pub. L. 102–486, §122(a)(2), in introductory provisions, substit
 Par. (3). Pub. L. 102–486, §122(f)(1), substituted “(3) The” for “(3) the”.
 
 Pars. (8) to (18). Pub. L. 102–486, §122(a)(3), added pars. (8) to (18).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should follow “volts”.</i>
+
+<i><sup>2</sup></i><i> So in original. Two pars. (22) have been enacted.</i>
 

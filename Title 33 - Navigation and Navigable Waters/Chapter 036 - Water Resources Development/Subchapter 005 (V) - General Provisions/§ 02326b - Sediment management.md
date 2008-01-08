@@ -54,15 +54,17 @@ In this section, the term “Great Lakes States” means the States of Illinois,
 
 #### (2) Great Lakes tributary model
 
-&emsp;In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) of this section $5,000,000 for each of fiscal years 2002 through 2006.
+&emsp;In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out subsection (e) of this section $5,000,000 for each of fiscal years 2002 through 2012.
 
-(Pub. L. 104–303, title V, §516, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–541, title V, §505, Dec. 11, 2000, 114 Stat. 2645.)
+(Pub. L. 104–303, title V, §516, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–541, title V, §505, Dec. 11, 2000, 114 Stat. 2645; Pub. L. 110–114, title V, §5013, Nov. 8, 2007, 121 Stat. 1195.)
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+2007—Subsec. (g)(2). Pub. L. 110–114 substituted “through 2012” for “through 2006”.
 
 2000—Subsec. (e)(3). Pub. L. 106–541, §505(1), added par. (3).
 

@@ -102,7 +102,7 @@
 
 #### (B) Requirement
 
-&emsp;&emsp;In the provision of such services, such employee, individual, association, agency, or organization shall be independent of such private school and of any religious organization, and such employment or contract shall be under the control and supervision of such public agency.
+&emsp;&emsp;In the provision of such services, such employee, individual, association, agency, ororganization shall be independent of such private school and of any religious organization, and such employment or contract shall be under the control and supervision of such public agency.
 
 #### (e) Standards for a bypass
 

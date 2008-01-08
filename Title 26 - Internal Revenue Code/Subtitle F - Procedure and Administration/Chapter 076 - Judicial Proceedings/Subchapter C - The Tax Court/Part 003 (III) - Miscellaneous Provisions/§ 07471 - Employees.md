@@ -6,7 +6,7 @@ The Tax Court is authorized to appoint, in accordance with the provisions of tit
 
 #### (b) Expenses for travel and subsistence
 
-The employees of the Tax Court shall receive their necessary traveling expenses, and expenses for subsistence while traveling on duty and away from their designated stations, as provided in chapter 57 of title 5, United States Code.
+The employees of the Tax Court shall receive their necessary traveling expenses, and expensesfor subsistence while traveling on duty and away from their designated stations, as provided in chapter 57 of title 5, United States Code.
 
 #### (c) Special trial judges
 

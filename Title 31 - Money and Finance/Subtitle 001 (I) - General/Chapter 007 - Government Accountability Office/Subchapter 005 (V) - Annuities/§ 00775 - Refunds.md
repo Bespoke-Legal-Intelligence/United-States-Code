@@ -12,7 +12,7 @@
 
 (d) If a Comptroller General or retired Comptroller General dies before a refund is made under this section, the refund shall be paid in the following order of precedence:
 
-&emsp;(1) to a beneficiary the Comptroller General or retired Comptroller General designated in writing if the designation was received by the Government Accountability Office before the death of the Comptroller General or retired Comptroller General.
+&emsp;(1) to a beneficiary the Comptroller General or retired Comptroller General designated inwriting if the designation was received by the Government Accountability Office before the death of the Comptroller General or retired Comptroller General.
 
 &emsp;(2) to a surviving spouse.
 

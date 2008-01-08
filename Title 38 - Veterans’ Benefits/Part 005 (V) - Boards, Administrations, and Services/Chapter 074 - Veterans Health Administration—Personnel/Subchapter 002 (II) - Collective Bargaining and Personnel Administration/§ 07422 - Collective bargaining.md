@@ -10,7 +10,7 @@
 
 &emsp;(2) Clinical competence.
 
-(d) An issue of whether a matter or question concerns or arises out of (1) professional conductor competence, (2) peer review, or (3) the establishment, determination, or adjustment of employee compensation under this title shall be decided by the Secretary and is not itself subject to collective bargaining and may not be reviewed by any other agency.
+(d) An issue of whether a matter or question concerns or arises out of (1) professional conduct or competence, (2) peer review, or (3) the establishment, determination, or adjustment of employee compensation under this title shall be decided by the Secretary and is not itself subject to collective bargaining and may not be reviewed by any other agency.
 
 (e) A petition for judicial review or petition for enforcement under section 7123 of title 5 in any case involving employees described in section 7421(b) of this title or arising out of the applicability of chapter 71 of title 5 to employees in those positions, shall be taken only in the United States Court of Appeals for the District of Columbia Circuit.
 

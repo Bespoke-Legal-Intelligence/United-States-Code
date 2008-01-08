@@ -49,6 +49,7 @@
 | :--- | ---: |
 | [1751\.](Subchapter%20004%20%28IV%29%20-%20Inspection%20and%20Admission%20of%20Aliens/%C2%A7%2001751%20-%20Study%20of%20the%20feasibility%20of%20a%20North%20American%20National%20Security%20Program.md) | Study of the feasibility of a North American National Security Program. |
 | [1752\.](Subchapter%20004%20%28IV%29%20-%20Inspection%20and%20Admission%20of%20Aliens/%C2%A7%2001752%20-%20Staffing%20levels%20at%20ports%20of%20entry.md) | Staffing levels at ports of entry. |
+| [1752a.](Subchapter%20004%20%28IV%29%20-%20Inspection%20and%20Admission%20of%20Aliens/%C2%A7%2001752a%20-%20Model%20ports-of-entry.md) | Model ports-of-entry. |
 | [1753\.](Subchapter%20004%20%28IV%29%20-%20Inspection%20and%20Admission%20of%20Aliens/%C2%A7%2001753%20-%20Joint%20United%20States-Canada%20projects%20for%20alternative%20inspections%20services.md) | Joint United States-Canada projects for alternative inspections services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

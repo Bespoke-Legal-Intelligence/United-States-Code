@@ -26,7 +26,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (5) Broadcast station
 
-&emsp;The term “broadcast station”, “broadcasting station”, or “radio broadcast station” means a radio station equipment to engage in broadcasting as herein defined.
+&emsp;The term “broadcast station”, “broadcasting station”, or “radio broadcast station”means a radio station equipment to engage in broadcasting as herein defined.
 
 #### (6) Broadcasting
 
@@ -74,7 +74,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (17) Foreign communication
 
-&emsp;The term “foreign communication” or “foreign transmission” means communication ortransmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
+&emsp;The term “foreign communication” or “foreign transmission” means communication or transmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
 
 #### (18) Great Lakes Agreement
 
@@ -134,7 +134,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (31) Operator
 
-&emsp;(A) The term “operator” on a ship of the United States means, for the purpose of partsII and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
+&emsp;(A) The term “operator” on a ship of the United States means, for the purpose of parts II and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
 
 &emsp;(B) “Operator” on a foreign ship means, for the purpose of part II of subchapter III of this chapter, a person holding a certificate as such of the proper class complying with the provisions of the radio regulations annexed to the International Telecommunication Convention in force, or complying with an agreement or treaty between the United States and the country in which the ship is registered.
 
@@ -158,7 +158,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (36) Radiotelegraph auto alarm
 
-&emsp;The term “radiotelegraph auto alarm” on a ship of the United States subject to the provisions of part II of subchapter III of this chapter means an automatic alarm receiving apparatus which responds to the radiotelegraph alarm signal and has been approved by the Commission. “Radiotelegraph auto alarm” on a foreign ship means an automatic alarm receiving apparatus which responds to the radiotelegraph alarm signal and has been approved by the government of the country in which the ship is registered: <i>Provided</i>, That the United States and the country in which the ship is registered are parties to the same treaty, convention, or agreement prescribing the requirements for such apparatus. Nothing in this chapter or in any other provision of law shall be construed to require the recognition of a radiotelegraph auto alarm as complying with part II of subchapter III of this chapter, on a foreign ship subject to part II of subchapter III of this chapter, where the country in which the ship is registered and the United States are not parties to the same treaty, convention, or agreement prescribing the requirements for such apparatus.
+&emsp;The term “radiotelegraph auto alarm” on a ship of the United States subject to the provisions of part II of subchapter III of this chapter means an automatic alarm receiving apparatus which responds to the radiotelegraph alarm signal and has been approved by the Commission. “Radiotelegraph auto alarm” on a foreign ship means an automatic alarm receiving apparatus which responds to the radiotelegraph alarm signal and has been approved by the government of the country in which the ship is registered: <i>Provided</i>, That the UnitedStates and the country in which the ship is registered are parties to the same treaty, convention, or agreement prescribing the requirements for such apparatus. Nothing in this chapter or in any other provision of law shall be construed to require the recognition of a radiotelegraph auto alarm as complying with part II of subchapter III of this chapter, on a foreign ship subject to part II of subchapter III of this chapter, where the country in which the ship is registered and the United States are not parties to the same treaty, convention, or agreement prescribing the requirements for such apparatus.
 
 #### (37) Rural telephone company
 
@@ -198,7 +198,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (41) State commission
 
-&emsp;The term “State commission” means the commission, board, or official (by whatevername designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
+&emsp;The term “State commission” means the commission, board, or official (by whatever name designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
 
 #### (42) Station license
 
@@ -226,7 +226,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (48) Telephone toll service
 
-&emsp;The term “telephone toll service” means telephone service between stations in different exchange areas for which there is made a separate charge not included in contracts with subscribers for exchange service.
+&emsp;The term “telephone toll service” means telephone service between stations in differentexchange areas for which there is made a separate charge not included in contracts with subscribers for exchange service.
 
 #### (49) Television service
 
@@ -262,7 +262,7 @@ Part II of subchapter III of this chapter, referred to in pars. (31), (34), and 
 
 In par. (34)(A), “chapter 71 of title 46” substituted for “the Act of May 12, 1948 (46 U.S.C. 229a–h)” on authority of Pub. L. 98–89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
 
-References to Philippine Islands in pars. (22) and (51) of this section omitted on authority of Proc. No. 2695, issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, which proclamation recognizedthe independence of Philippine Islands as of July 4, 1946. Proc. No. 2695 is set out under section 1394 of Title 22.
+References to Philippine Islands in pars. (22) and (51) of this section omitted on authority of Proc. No. 2695, issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, which proclamation recognized the independence of Philippine Islands as of July 4, 1946. Proc. No. 2695 is set out under section 1394 of Title 22.
 
 #### Amendments
 

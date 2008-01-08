@@ -8,7 +8,7 @@ Not later than April 15 of each year, the President shall submit to the Speaker 
 
 &emsp;(2) a detailed assessment of the status of any ongoing arms control, nonproliferation, or disarmament negotiations, including a comprehensive description of negotiations or other activities during the preceding year and an appraisal of the status and prospects for the forthcoming year;
 
-&emsp;(3) a detailed assessment of adherence of the United States to obligations undertaken in arms control, nonproliferation, and disarmament agreements, including information on the policies and organization of each relevant agency or department of the United States to ensure adherence to such obligations, a description of national security programs with a direct bearing on questions of adherence to such obligations and of steps being taken toensure adherence, and a compilation of any substantive questions raised during the preceding year and any corrective action taken;
+&emsp;(3) a detailed assessment of adherence of the United States to obligations undertaken in arms control, nonproliferation, and disarmament agreements, including information on the policies and organization of each relevant agency or department of the United States to ensure adherence to such obligations, a description of national security programs with a direct bearing on questions of adherence to such obligations and of steps being taken to ensure adherence, and a compilation of any substantive questions raised during the preceding year and any corrective action taken;
 
 &emsp;(4) a detailed assessment of the adherence of other nations to obligations undertaken in all arms control, nonproliferation, and disarmament agreements or commitments, including the Missile Technology Control Regime, to which the United States is a participating state, including information on actions taken by each nation with regard to the size, structure, and disposition of its military forces in order to comply with arms control, nonproliferation, or disarmament agreements or commitments, and shall include, in the case of each agreement or commitment about which compliance questions exist—
 
@@ -94,7 +94,7 @@ For delegation of congressional reporting functions of President under this sect
 
 #### Requirement for Transmittal of Summaries
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1118\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: “Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations of the House of Representatives promptly.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1118\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: “Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives promptly.”
 
 #### Transmission of Executive Branch Reports Providing Congress With Classified Summaries of Arms Control Developments
 
@@ -102,7 +102,7 @@ Pub. L. 105–261, div. A, title XV, §1502, Oct. 17, 1998, 112 Stat. 2171, as a
 
 “(a)
 
-Reporting Requirement.—The Director of the Arms Control and Disarmament Agency (or the Secretary of State, if the Arms Control and Disarmament Agency becomes an element of the Department of State) shall transmit to the Committee on Armed Services of the House of Representatives on a periodic basis reports containing classified summaries of arms control developments.
+Reporting Requirement.—The Director of the Arms Control and Disarmament Agency (or the Secretary of State, if the Arms Control and Disarmament Agency becomes an element of the Department of State) shall transmit to the Committee on Armed Services of the House of Representatives on a periodic basisreports containing classified summaries of arms control developments.
 
 “(b)
 

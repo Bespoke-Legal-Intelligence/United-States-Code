@@ -32,7 +32,7 @@ It is the purpose of this section to encourage cross training and collaboration 
 
 &emsp;&emsp;&emsp;(iv) faith-based entities that deal with the concerns and problems faced by youth;
 
-&emsp;&emsp;&emsp;(v) healthcare entities eligible for reimbursement under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], including providers that target the special needs of youth;
+&emsp;&emsp;&emsp;(v) healthcare entities eligible for reimbursement under title XVIII of the SocialSecurity Act \[42 U.S.C. 1395 et seq.\], including providers that target the special needs of youth;
 
 &emsp;&emsp;&emsp;(vi) education programs on HIV and other sexually transmitted diseases that are designed to target teens;
 
@@ -62,7 +62,7 @@ An entity that receives a grant under this section shall use the funds made avai
 
 &emsp;(4) to identify, assess, and respond appropriately to dating violence, domestic violence, sexual assault, or stalking against teens and young adults and meet the needs of young victims of violence; and
 
-&emsp;(5) to provide appropriate resources in juvenile court matters to respond to dating violence, domestic violence, sexual assault, and stalking and ensure necessary services dealingwith the health and mental health of victims are available.
+&emsp;(5) to provide appropriate resources in juvenile court matters to respond to dating violence, domestic violence, sexual assault, and stalking and ensure necessary services dealing with the health and mental health of victims are available.
 
 #### (d) Grant applications
 

@@ -18,7 +18,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Applicability of Requirement of United States Citizenship or Nationality as Prerequisite of Any Benefit, Right, Etc., to Citizens of Northern Mariana Islands
 
-Pub. L. 98–213, §§17–25, Dec. 8, 1983, 97 Stat. 1463–1466, exempted citizens of Northern Mariana Islands from laws prohibiting United States Government from compensating or employing noncitizens and from requirement of United States citizenship in certain Federal laws providing Federal services or financial assistance to Northern Mariana Islands, authorized President to issue proclamations exempting citizens of Northern Mariana Islands from United States citizenship or nationality requirements of certain statutes, provided that if President failed to timely issue a proclamation, the requirement of United States citizenship or nationality as a prerequisite of any benefit, right, privilege, or immunity in any statute made applicable to the Northern Mariana Islands would not apply to citizens of the Northern Mariana Islands, provided that Pub. L. 98–213 did not extend to Northern Mariana Islands any statutory provision or regulation, particularly statutes relating to immigration and nationality, not otherwise applicable to or within Northern Mariana Islands, provided for termination of President's authority to issue proclamations upon establishment of Commonwealth of the Northern Mariana Islands, defined terms, and provided for merger of benefits acquired under Pub. L. 98–213 into those acquired by virtue of United States citizenship unless recipient exercised his privilege to become a national but not a citizen of United States.
+Pub. L. 98–213, §§17–25, Dec. 8, 1983, 97 Stat. 1463–1466, exempted citizens of Northern Mariana Islands from laws prohibiting United States Government from compensating or employing noncitizens and from requirement of United States citizenship in certain Federal laws providing Federal services or financial assistance to Northern Mariana Islands, authorized President to issue proclamations exempting citizens of Northern Mariana Islands from United States citizenship or nationality requirements of certain statutes, provided that if President failed to timely issue a proclamation,the requirement of United States citizenship or nationality as a prerequisite of any benefit, right, privilege, or immunity in any statute made applicable to the Northern Mariana Islands would not apply to citizens of the Northern Mariana Islands, provided that Pub. L. 98–213 did not extend to Northern Mariana Islands any statutory provision or regulation, particularly statutes relating to immigration and nationality, not otherwise applicable to or within Northern Mariana Islands, provided for termination of President's authority to issue proclamations upon establishment of Commonwealth of the Northern Mariana Islands, defined terms, and provided for merger of benefits acquired under Pub. L. 98–213 into those acquired by virtue of United States citizenship unless recipient exercised his privilege to become a national but not a citizen of United States.
 
 #### Authorization of Appropriations for Transition of Mariana Islands District to Commonwealth Status
 
@@ -86,7 +86,7 @@ Section 201. The people of the Northern Mariana Islands will formulate and appro
 
 “
 
-Section 202. The Constitution will be submitted to the Government of the United States for approval on the basis of its consistency with this Covenant and those provisions of the Constitution, treaties and laws of the United States to be applicable to the Northern Mariana Islands. The Constitution will be deemed to have been approved six months after its submission to the President on behalf of the Government of the United States unless earlier approved or disapproved. If disapproved the Constitution will be returned and will be resubmitted in accordance with this Section. Amendments to the Constitution may be made by the people of the Northern Mariana Islands without approval by the Government of the United States, but the courts established by the Constitution or laws of the United States will be competent to determine whether the Constitution and subsequent amendments thereto are consistent with this Covenant and with those provisions of the Constitution, treaties and laws of the United States applicable to the Northern Mariana Islands.
+Section 202. The Constitution will be submitted to the Government of the United States for approval onthe basis of its consistency with this Covenant and those provisions of the Constitution, treaties and laws of the United States to be applicable to the Northern Mariana Islands. The Constitution will be deemed to have been approved six months after its submission to the President on behalf of the Government of the United States unless earlier approved or disapproved. If disapproved the Constitution will be returned and will be resubmitted in accordance with this Section. Amendments to the Constitution may be made by the people of the Northern Mariana Islands without approval by the Government of the United States, but the courts established by the Constitution or laws of the United States will be competent to determine whether the Constitution and subsequent amendments thereto are consistent with this Covenant and with those provisions of the Constitution, treaties and laws of the United States applicable to the Northern Mariana Islands.
 
 “
 
@@ -108,7 +108,7 @@ I74“citizenship and nationality
 
 “
 
-Section 301. The following persons and their children under the age of 18 years on the effective date ofthis Section, who are not citizens or nationals of the United States under any other provision of law, and who on that date do not owe allegiance to any foreign state, are declared to be citizens of the United States, except as otherwise provided in Section 302:
+Section 301. The following persons and their children under the age of 18 years on the effective date of this Section, who are not citizens or nationals of the United States under any other provision of law, and who on that date do not owe allegiance to any foreign state, are declared to be citizens of the United States, except as otherwise provided in Section 302:
 
 &emsp;“(a) all persons born in the Northern Mariana Islands who are citizens of the Trust Territory of the Pacific Islands on the day preceding the effective date of this Section, and who on that date are domiciled in the Northern Mariana Islands or in the United States or any territory or possession thereof;
 
@@ -150,7 +150,7 @@ Section 402. (a) The District Court for the Northern Mariana Islands will have t
 
 Section 403. (a) The relations between the courts established by the Constitution or laws of the United States and the courts of the Northern Mariana Islands with respect to appeals, certiorari, removal of causes, the issuance of writs of habeas corpus and other matters or proceedings will be governed by the laws of the United States pertaining to the relations between the courts of the United States and the courts of the several States in such matters and proceedings, except as otherwise provided in this Article; provided that for the first fifteen years following the establishment of an appellate court of the Northern Mariana Islands the United States Court of Appeals for the judicial circuit which includes the Northern Mariana Islands will have jurisdiction of appeals from all final decisions of the highest court of the Northern Mariana Islands from which a decision could be had in all cases involving the Constitution, treaties or laws of the United States, or any authority exercised thereunder, unless those cases are reviewable in the District Court for the Northern Mariana Islands pursuant to Subsection 402(c).
 
-“(b) Those portions of Title 28 of the United States Code which apply to Guam or the District Court of Guam will be applicable to the Northern Mariana Islands or the District Court for the Northern Mariana Islands, respectively, except as otherwise provided in this Article.
+“(b) Those portions of Title 28 of the United States Code which apply to Guam or the District Court ofGuam will be applicable to the Northern Mariana Islands or the District Court for the Northern Mariana Islands, respectively, except as otherwise provided in this Article.
 
 #### “Article V
 
@@ -200,7 +200,7 @@ Section 506. (a) Notwithstanding the provisions of Subsection 503(a), upon the e
 
 “(c) With respect to aliens who are ‘immediate relatives’ (as defined in Subsection 201(b) of the said Act) of United States citizens who are permanently residing in the Northern Mariana Islands all the provisions of the said Act will apply, commencing when a claim is made to entitlement to ‘immediate relative’ status. A person who is certified by the Government of the Northern Mariana Islands both to have been a lawful permanent resident of the Northern Mariana Islands and to have had the ‘immediate relative’ relationship denoted herein on the effective date of this Section will be presumed to have been admitted to the United States for lawful permanent residence as of that date without the requirement of any of the usual procedures set forth in the said Act. For the purpose of the requirements of judicial naturalization, the Northern Mariana Islands will be deemed to constitute a State as defined in Subsection 101(a) paragraph (36) of the said Act. The Courts of record of the Northern Mariana Islands and the District Court for the Northern Mariana Islands will be included among the courts specified in Subsection 310(a) of the said Act and will have jurisdiction to naturalize persons who become eligible under this Section and who reside within their respective jurisdictions.
 
-“(d) With respect to persons who will become citizens or nationals of the United States under Article III of this Covenant or under this Section the loss of nationality provisions of the said Act will apply.
+“(d) With respect to persons who will become citizens or nationals of the United States under Article III ofthis Covenant or under this Section the loss of nationality provisions of the said Act will apply.
 
 #### “Article VI
 
@@ -264,7 +264,7 @@ I74“united states financial assistance
 
 “
 
-Section 701. The Government of the United States will assist the Government of the Northern Mariana Islands in its efforts to achieve a progressively higher standard of living for its people as part of the American economic community and to develop the economic resources needed to meet the financial responsibilities of local self-government. To this end, the United States will provide direct multi-year financial support to the Government of the Northern Mariana Islands for local government operations, for capital improvement programs and for economic development. The initial period of such support will be seven years, as provided in Section 702.
+Section 701. The Government of the United States will assist the Government of the Northern Mariana Islands in its efforts to achieve a progressively higher standard of living for its people as part of the American economic community and to develop the economic resources needed to meet the financial responsibilities of local self-government. To this end, the United Stateswill provide direct multi-year financial support to the Government of the Northern Mariana Islands for local government operations, for capital improvement programs and for economic development. The initial period of such support will be seven years, as provided in Section 702.
 
 “
 
@@ -284,7 +284,7 @@ Section 703. (a) The United States will make available to the Northern Mariana I
 
 “
 
-Section 704. (a) Funds provided under Section 702 not obligated or expended by the Government of the Northern Mariana Islands during any fiscal year willremain available for obligation or expenditure by that Government in subsequent fiscal years for the purposes for which the funds were appropriated.
+Section 704. (a) Funds provided under Section 702 not obligated or expended by the Government of the Northern Mariana Islands during any fiscal year will remain available for obligation or expenditure by that Government in subsequent fiscal years for the purposes for which the funds were appropriated.
 
 “(b) Approval of this Covenant by the United States will constitute an authorization for the appropriation of a pro-rata share of the funds provided under Section 702 for the period between the effective date of this Section and the beginning of the next succeeding fiscal year.
 
@@ -328,7 +328,7 @@ Section 803. (a) The Government of the Northern Mariana Islands will lease the p
 
 “(c) A separate Technical Agreement Regarding Use of Land To Be Leased by the United States in the Northern Mariana Islands will be executed simultaneously with this Covenant. The terms of the lease to the United States will be in accordance with this Section and with the terms of the Technical Agreement. The Technical Agreement will also contain terms relating to the leaseback of property, to the joint use arrangements for San Jose Harbor and West Field on Tinian Island, and to the principles which will govern the social structure relations between the United States military and the Northern Mariana Islands civil authorities.
 
-“(d) From the property to be leased to it in accordance with this Covenant the Government of the United States will lease back to the Government of the Northern Mariana Islands, in accordance with the Technical Agreement, for the sum of one dollar per acre per year, approximately 6,458 acres (2,614 hectares) on Tinian Island and approximately 44 acres (18 hectares) at Tanapag Harbor on Saipan Island, which will be used for purposes compatible with their intended military use.
+“(d) From the property to be leased to it in accordance with this Covenant the Government of the United States will lease back to the Government of the Northern Mariana Islands, in accordance with the Technical Agreement, for the sum of one dollar per acre per year,approximately 6,458 acres (2,614 hectares) on Tinian Island and approximately 44 acres (18 hectares) at Tanapag Harbor on Saipan Island, which will be used for purposes compatible with their intended military use.
 
 “(e) From the property to be leased to it at Tanapag Harbor on Saipan Island the Government of the United States will make available to the Government of the Northern Mariana Islands 133 acres (54 hectares) at no cost. This property will be set aside for public use as an American memorial park to honor the American and Marianas dead in the World War II Marianas Campaign. The $2 million received from the Government of the United States for the lease of this property will be placed into a trust fund, and used for the development and maintenance of the park in accordance with the Technical Agreement.
 
@@ -340,7 +340,7 @@ Section 804. (a) The Government of the United States will cause all agreements b
 
 “
 
-Section 805. Except as otherwise provided in this Article, and notwithstanding the other provisions of this Covenant, or those provisions of the Constitution, treaties or laws of the United States applicable to the Northern Mariana Islands, the Government of the Northern Mariana Islands, in view of the importance of the ownership of land for the culture and traditions of the people of the Northern Mariana Islands, and inorder to protect them against exploitation and to promote their economic advancement and self-sufficiency:
+Section 805. Except as otherwise provided in this Article, and notwithstanding the other provisions of this Covenant, or those provisions of the Constitution, treaties or laws of the United States applicable to the Northern Mariana Islands, the Government of the Northern Mariana Islands, in view of the importance of the ownership of land for the culture and traditions of the people of the Northern Mariana Islands, and in order to protect them against exploitation and to promote their economic advancement and self-sufficiency:
 
 &emsp;“(a) will until twenty-five years after the termination of the Trusteeship Agreement, and may thereafter, regulate the alienation of permanent and long-term interests in real property so as to restrict the acquisition of such interests to persons of Northern Mariana Islands descent; and
 
@@ -372,7 +372,7 @@ Section 903. Nothing herein shall prevent the presentation of cases or controver
 
 “
 
-Section 904. (a) The Government of the United States will give sympathetic consideration to the views of the Government of the Northern Mariana Islands on international matters directly affecting the Northern Mariana Islands and will provide opportunities for the effective presentation of such views to no less extent than such opportunities are provided to any other territory or possession under comparable circumstances.
+Section 904. (a) The Government of the United States will give sympathetic consideration to the views of the Government of the Northern Mariana Islands on international matters directly affecting the Northern Mariana Islands and will provide opportunities for the effective presentation of such views to no less extentthan such opportunities are provided to any other territory or possession under comparable circumstances.
 
 “(b) The United States will assist and facilitate the establishment by the Northern Mariana Islands of offices in the United States and abroad to promote local tourism and other economic or cultural interests of the Northern Mariana Islands.
 
@@ -496,7 +496,7 @@ Pedro A. Tenorio.”
 
 Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593, provided:
 
-On February 15, 1975, the Marianas Political Status Commission, the duly appointed representative of the people of the Northern Mariana Islands, and the Personal Representative of the President of the United States signed a Covenant, the purpose of which is to provide for the eventual establishment of a Commonwealth of the Northern Mariana Islands in political union with the United States of America \[set out above\]. This Covenant was subsequently approved by the Mariana Islands District Legislature and by the people of the Northern Mariana Islands voting in a plebiscite. The Covenant was approved by the Congress of the United States by joint resolution approved March 24, 1976 (Public Law 94–241; 90 Stat. 263) \[48 U.S.C. 1801 et seq.\].
+On February 15, 1975, the Marianas Political Status Commission, the duly appointed representative of the people of the Northern Mariana Islands, and the Personal Representative of the President of the United States signed a Covenant, the purpose of which is to provide for the eventual establishment of a Commonwealth of the Northern Mariana Islands in political union with the United States of America \[set out above\]. This Covenant was subsequently approved by the Mariana Islands District Legislature and by the people of the Northern Mariana Islands voting in a plebiscite. The Covenant was approved by the Congress of the United States by joint resolution approvedMarch 24, 1976 (Public Law 94–241; 90 Stat. 263) \[48 U.S.C. 1801 et seq.\].
 
 In accordance with the provisions of Article II of the Covenant, the people of the Northern Mariana Islands have formulated and approved a Constitution which was submitted to me on behalf of the Government of the United States on April 21, 1977, for approval on the basis of its consistency with the Covenant and those provisions of the Constitution, treaties and laws of the United States to be applicable to the Northern Mariana Islands. Pursuant to the provisions of Section 202 of the Covenant, the Constitution of the Northern Mariana Islands will be deemed to have been approved by the Government of the United States six months after the date of submission to the President unless sooner approved or disapproved.
 
@@ -520,7 +520,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Proclamation No. 4568
 
-Proc. No. 4568, May 9, 1978, 43 F.R. 19999, related to application of certain United States laws to the NorthernMariana Islands until termination of Trusteeship Agreement.
+Proc. No. 4568, May 9, 1978, 43 F.R. 19999, related to application of certain United States laws to the Northern Mariana Islands until termination of Trusteeship Agreement.
 
 #### Proclamation No. 4726
 
@@ -546,7 +546,7 @@ On October 1, 1982, the Government of the United States and the Government of th
 
 On January 10, 1986, the Government of the United States and the Government of the Republic of Palau concluded a Compact of Free Association, establishing a similar relationship of Free Association between the two Governments \[48 U.S.C. 1931 note\]. On October 16, 1986, the Congress of the United States approved the Compact of Free Association with the Republic of Palau. In the Republic of Palau, the Compact approval process has not yet been completed. Until the future political status of Palau is resolved, the United States will continue to discharge its responsibilities in Palau as Administering Authority under the Trusteeship Agreement.
 
-On May 28, 1986, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the terms of the Trusteeship Agreement and that the people of the Northern Mariana Islands, the Federated States of Micronesia, and the Republic of the Marshall Islands had freely exercised their right to self-determination, and considered that it was appropriate for that Agreement to be terminated. The Council asked the United States to consult with the governments concerned to agree on a date for entry into force of their respective new status agreements.
+On May 28, 1986, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the termsof the Trusteeship Agreement and that the people of the Northern Mariana Islands, the Federated States of Micronesia, and the Republic of the Marshall Islands had freely exercised their right to self-determination, and considered that it was appropriate for that Agreement to be terminated. The Council asked the United States to consult with the governments concerned to agree on a date for entry into force of their respective new status agreements.
 
 On October 15, 1986, the Government of the United States and the Government of the Republic of the Marshall Islands agreed, pursuant to Section 411 of the Compact of Free Association, that as between the United States and the Republic of the Marshall Islands, the effective date of the Compact shall be October 21, 1986.
 
@@ -558,7 +558,7 @@ As of this day, November 3, 1986, the United States has fulfilled its obligation
 
 NOW, THEREFORE, I, RONALD REAGAN, by the authority vested in me as President by the Constitution and laws of the United States of America, including Section 1002 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, and Sections 101 and 102 of the Joint Resolution to approve the “Compact of Free Association”, and for other purposes, approved on January 14, 1986 (Public Law 99–239) \[48 U.S.C. 1901 et seq., 2001 et seq.\], do hereby find, declare, and proclaim as follows:
 
-Section 1. I determine that the Trusteeship Agreement for the Pacific Islands is no longer in effect as of October 21, 1986, with respect to the Republic of the Marshall Islands, as of November 3, 1986, with respectto the Federated States of Micronesia, and as of November 3, 1986, with respect to the Northern Mariana Islands. This constitutes the determination referred to in Section 1002 of the Covenant.
+Section 1. I determine that the Trusteeship Agreement for the Pacific Islands is no longer in effect as of October 21, 1986, with respect to the Republic of the Marshall Islands, as of November 3, 1986, with respect to the Federated States of Micronesia, and as of November 3, 1986, with respect to the Northern Mariana Islands. This constitutes the determination referred to in Section 1002 of the Covenant.
 
 Sec. 2. (a) Sections 101, 104, 301, 302, 303, 506, 806, and 904 of the Covenant are effective as of 12:01 a.m., November 4, 1986, Northern Mariana Islands local time.
 

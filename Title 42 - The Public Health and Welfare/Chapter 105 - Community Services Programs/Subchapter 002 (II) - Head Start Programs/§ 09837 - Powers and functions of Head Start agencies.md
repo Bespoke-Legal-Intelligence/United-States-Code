@@ -1,92 +1,396 @@
 ### §9837. Powers and functions of Head Start agencies
 
-#### (a) Receipt, administration, and transfer of funds; sponsorship of projects; delegation of authority, etc.
+#### (a) Authority
 
-In order to be designated as a Head Start agency under this subchapter, an agency must have authority under its charter or applicable law to receive and administer funds under this subchapter, funds and contributions from private or local public sources which may be used in support of a Head Start program, and funds under any Federal or State assistance program pursuant to which a public or private nonprofit or for-profit agency (as the case may be) organized in accordance with this subchapter, could act as grantee, contractor, or sponsor of projects appropriate for inclusion in a Head Start program. Such an agency must also be empowered to transfer funds so received, and to delegate powers to other agencies, subject to the powers of its governing board and its overall program responsibilities. The power to transfer funds and delegate powers must include the power to make transfers and delegations covering component projects in all cases where this will contribute to efficiency and effectiveness or otherwise further program objectives.
+To be designated as a Head Start agency under this subchapter, an agency shall have authority under its charter or applicable law to receive and administer funds under this subchapter, funds and contributions from private or local public sources that may be used in support of a Head Start program, and funds under any Federal or State assistance program pursuant to which a public or private nonprofit or for-profit agency (as the case may be) organized in accordance with this subchapter, could act as grantee, contractor, or sponsor of projects appropriate for inclusion in a Head Start program. Such an agency shall also be empowered to transfer funds so received, and to delegate powers to other agencies, subject to the powers of its governing board and its overall program responsibilities. The power to transfer funds and delegate powers shall include the power to make transfers and delegations covering component projects in all cases where this will contribute to efficiency and effectiveness or otherwise further program objectives.
 
-#### (b) Participation of parents in decisionmaking, implementation, etc.
+#### (b) Family and community involvement; family services
 
-In order to be so designated, a Head Start agency shall also—
+To be so designated, a Head Start agency shall, at a minimum, do all the following to involve and serve families and communities:
 
-&emsp;(1) establish effective procedures by which parents and area residents concerned will be enabled to directly participate in decisions that influence the character of programs affecting their interests;
+&emsp;(1) Provide for the regular and direct participation of parents and community residents in the implementation of the Head Start program, including decisions that influence the character of such program, consistent with paragraphs (2)(D) and (3)(C) of subsection (c).
 
-&emsp;(2) provide for their regular participation in the implementation of such programs;
+&emsp;(2) Seek the involvement of parents, community residents, and local business in the design and implementation of the program.
 
-&emsp;(3) provide technical and other support needed to enable parents and area residents to secure on their own behalf available assistance from public and private sources;
+&emsp;(3) Establish effective procedures—
 
-&emsp;(4) seek the involvement of parents of participating children in activities designed to help such parents become full partners in the education of their children, and to afford such parents the opportunity to participate in the development, conduct, and overall performance of the program at the local level;
+&emsp;&emsp;(A) to facilitate and seek the involvement of parents of participating children in activities designed to help such parents become full partners in the education of their children; and
 
-&emsp;(5) offer (directly or through referral to local entities, such as entities carrying out Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.)), to parents of participating children, family literacy services and parenting skills training;
+&emsp;&emsp;(B) to afford such parents the opportunity to participate in the development and overall conduct of the program at the local level, including transportation assistance as appropriate.
 
-&emsp;(6) offer to parents of participating children substance abuse counseling (either directly or through referral to local entities), including information on drug-exposed infants and fetal alcohol syndrome;
+&emsp;(4) Offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
 
-&emsp;(7) at the option of such agency, offer (directly or through referral to local entities), to such parents—
+&emsp;&emsp;(A) family literacy services; and
 
-&emsp;&emsp;(A) training in basic child development;
+&emsp;&emsp;(B) parenting skills training.
 
-&emsp;&emsp;(B) assistance in developing communication skills;
+&emsp;(5) Offer to parents of participating children substance abuse counseling (either directly or through referral to local entities), if needed, including information on the effect of drug exposure on infants and fetal alcohol syndrome.
 
-&emsp;&emsp;(C) opportunities to share experiences with other parents;
+&emsp;(6) At the option of such agency, offer (directly or through referral to local entities) to such parents—
 
-&emsp;&emsp;(D) regular in-home visitation; or
+&emsp;&emsp;(A) training in basic child development (including cognitive, social, and emotional development);
 
-&emsp;&emsp;(E) any other activity designed to help such parents become full partners in the education of their children;
+&emsp;&emsp;(B) assistance in developing literacy and communication skills;
 
-&emsp;(8) provide, with respect to each participating family, a family needs assessment that includes consultation with such parents about the benefits of parent involvement and about the activities described in paragraphs (4) through (7) in which such parents may choose to be involved (taking into consideration their specific family needs, work schedules, and other responsibilities);
+&emsp;&emsp;(C) opportunities to share experiences with other parents (including parent-mentor relationships);
 
-&emsp;(9) consider providing services to assist younger siblings of children participating in its Head Start program to obtain health services from other sources;
+&emsp;&emsp;(D) health services, including information on maternal depression;
 
-&emsp;(10) perform community outreach to encourage individuals previously unaffiliated with Head Start programs to participate in its Head Start program as volunteers; and
+&emsp;&emsp;(E) regular in-home visitation; or
 
-&emsp;(11)(A) inform custodial parents in single-parent families that participate in programs, activities, or services carried out or provided under this subchapter about the availability of child support services for purposes of establishing paternity and acquiring child support; and
+&emsp;&emsp;(F) any other activity designed to help such parents become full partners in the education of their children.
 
-&emsp;(B) refer eligible parents to the child support offices of State and local governments.
+&emsp;(7) Provide, with respect to each participating family, a family needs assessment that includes consultation with such parents (including foster parents, grandparents, and kinship caregivers, where applicable), in a manner and language that such parents can understand (to the extent practicable), about the benefits of parent involvement and about the activities described in this subsection in which such parents may choose to be involved (taking into consideration their specific family needs, work schedules, and other responsibilities).
 
-#### (c) Coordination with other agencies
+&emsp;(8) Consider providing services to assist younger siblings of children participating in its Head Start program to obtain health services from other sources.
 
-The head of each Head Start agency shall coordinate and collaborate with the State agency responsible for administering the State program carried out under subchapter II–B of this chapter, and other early childhood education and development programs, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.) and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C <sup>2</sup> 1431–1444, 1419), serving the children and families served by the Head Start agency to carry out the provisions of this subchapter.
+&emsp;(9) Perform community outreach to encourage individuals previously unaffiliated with Head Start programs to participate in its Head Start program as volunteers.
 
-#### (d) Transition coordination with schools
+&emsp;(10)(A) Inform custodial parents in single-parent families that participate in programs, activities, or services carried out or provided under this subchapter about the availability of child support services for purposes of establishing paternity and acquiring child support.
 
-(1) Each Head Start agency shall take steps to ensure, to the maximum extent possible, that children maintain the developmental and educational gains achieved in Head Start programs and build upon such gains in further schooling.
+&emsp;(B) Refer eligible parents to the child support offices of State and local governments.
 
-(2) A Head Start agency may take steps to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Start program operated by such agency will enroll following such program, including—
+&emsp;(11) Provide to parents of limited English proficient children outreach and information, in an understandable and uniform format and, to the extent practicable, in a language that the parents can understand.
 
-&emsp;(A) collaborating on the shared use of transportation and facilities; and
+&emsp;(12) Provide technical and other support needed to enable parents and community residents to secure, on their own behalf, available assistance from public and private sources.
 
-&emsp;(B) exchanging information on the provision of noneducational services to such children.
+&emsp;(13) Promote the continued involvement of the parents (including foster parents, grandparents, and kinship caregivers, as appropriate) of children that participate in Head Start programs in the education of their children upon transition of their children to school, by working with the local educational agency—
 
-(3) In order to promote the continued involvement of the parents of children that participate in Head Start programs in the education of their children upon transition to school, the Head Start agency shall—
+&emsp;&emsp;(A) to provide training to the parents—
 
-&emsp;(A) provide training to the parents—
+&emsp;&emsp;&emsp;(i) to inform the parents about their rights and responsibilities concerning the education of their children; and
 
-&emsp;&emsp;(i) to inform the parents about their rights and responsibilities concerning the education of their children; and
+&emsp;&emsp;&emsp;(ii) to enable the parents—
 
-&emsp;&emsp;(ii) to enable the parents to understand and work with schools in order to communicate with teachers and other school personnel, to support the school work of their children, and to participate as appropriate in decisions relating to the education of their children; and
+&emsp;&emsp;&emsp;&emsp;(I) to understand and work with schools in order to communicate with teachers and other school personnel;
 
-&emsp;(B) take other actions, as appropriate and feasible, to support the active involvement of the parents with schools, school personnel, and school-related organizations.
+&emsp;&emsp;&emsp;&emsp;(II) to support the schoolwork of their children; and
 
-(4) The Secretary, in cooperation with the Secretary of Education, shall—
+&emsp;&emsp;&emsp;&emsp;(III) to participate as appropriate in decisions relating to the education of their children; and
 
-&emsp;(A) evaluate the effectiveness of the projects and activities funded under section 9837a of this title;
+&emsp;&emsp;(B) to take other actions, as appropriate and feasible, to support the active involvement of the parents with schools, school personnel, and school-related organizations.
 
-&emsp;(B) disseminate to Head Start agencies information (including information from the evaluation required by subparagraph (A)) on effective policies and activities relating to the transition of children from Head Start programs to public schools; and
+&emsp;(14) Establish effective procedures for timely referral of children with disabilities to the State or local agency providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and collaboration with that agency, consistent with section 9835(d)(3) of this title.
 
-&emsp;(C) provide technical assistance to such agencies to promote and assist such agencies to adopt and implement such effective policies and activities.
+&emsp;(15) Establish effective procedures for providing necessary early intervening services to children with disabilities prior to an eligibility determination by the State or local agency responsible for providing services under section 619 or part C of such Act, consistent with section 9835(d)(2) of this title.
 
-#### (e) Assessment when hiring or evaluating classroom teachers
+&emsp;(16) At the option of the Head Start agency, partner with an institution of higher education and a nonprofit organization to provide college students with the opportunity to serve as mentors or reading partners for Head Start participants.
 
-Head Start agencies shall adopt, in consultation with experts in child development and with classroom teachers, an assessment to be used when hiring or evaluating any classroom teacher in a center-based Head Start program. Such assessment shall measure whether such teacher has mastered the functions described in section 9843a(a)(1) of this title.
+#### (c) Program governance
 
-(Pub. L. 97–35, title VI, §642, Aug. 13, 1981, 95 Stat. 502; Pub. L. 99–425, title I, §103, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §109, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(i), (k)(3), Oct. 7, 1992, 106 Stat. 1957, 1959; Pub. L. 103–252, title I, §109, May 18, 1994, 108 Stat. 634; Pub. L. 105–285, title I, §109, Oct. 27, 1998, 112 Stat. 2716; Pub. L. 108–446, title III, §305(<i>l</i>)(4), Dec. 3, 2004, 118 Stat. 2806.)
+Upon receiving designation as a Head Start agency, the agency shall establish and maintain a formal structure for program governance, for the oversight of quality services for Head Start children and families and for making decisions related to program design and implementation. Such structure shall include the following:
+
+#### (1) Governing body
+
+#### (A) In general
+
+&emsp;&emsp;The governing body shall have legal and fiscal responsibility for the Head Start agency.
+
+#### (B) Composition
+
+&emsp;&emsp;The governing body shall be composed as follows:
+
+&emsp;&emsp;&emsp;(i) Not less than 1 member shall have a background and expertise in fiscal management or accounting.
+
+&emsp;&emsp;&emsp;(ii) Not less than 1 member shall have a background and expertise in early childhood education and development.
+
+&emsp;&emsp;&emsp;(iii) Not less than 1 member shall be a licensed attorney familiar with issues that come before the governing body.
+
+&emsp;&emsp;&emsp;(iv) Additional members shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) reflect the community to be served and include parents of children who are currently, or were formerly, enrolled in Head Start programs; and
+
+&emsp;&emsp;&emsp;&emsp;(II) are selected for their expertise in education, business administration, or community affairs.
+
+&emsp;&emsp;&emsp;(v) Exceptions shall be made to the requirements of clauses (i) through (iv) for members of a governing body when those members oversee a public entity and are selected to their positions with the public entity by public election or political appointment.
+
+&emsp;&emsp;&emsp;(vi) If a person described in clause (i), (ii), or (iii) is not available to serve as a member of the governing body, the governing body shall use a consultant, or an other individual with relevant expertise, with the qualifications described in that clause, who shall work directly with the governing body.
+
+#### (C) Conflict of interest
+
+&emsp;&emsp;Members of the governing body shall—
+
+&emsp;&emsp;&emsp;(i) not have a financial conflict of interest with the Head Start agency (including any delegate agency);
+
+&emsp;&emsp;&emsp;(ii) not receive compensation for serving on the governing body or for providing services to the Head Start agency;
+
+&emsp;&emsp;&emsp;(iii) not be employed, nor shall members of their immediate family be employed, bythe Head Start agency (including any delegate agency); and
+
+&emsp;&emsp;&emsp;(iv) operate as an entity independent of staff employed by the Head Start agency.
+
+#### (D) Exception
+
+&emsp;&emsp;If an individual holds a position as a result of public election or political appointment, and such position carries with it a concurrent appointment to serve as a member of a Head Start agency governing body, and such individual has any conflict of interest described in clause (ii) or (iii) of subparagraph (C)—
+
+&emsp;&emsp;&emsp;(i) such individual shall not be prohibited from serving on such body and the Head Start agency shall report such conflict to the Secretary; and
+
+&emsp;&emsp;&emsp;(ii) if the position held as a result of public election or political appointment provides compensation, such individual shall not be prohibited from receiving such compensation.
+
+#### (E) Responsibilities
+
+&emsp;&emsp;The governing body shall—
+
+&emsp;&emsp;&emsp;(i) have legal and fiscal responsibility for administering and overseeing programs under this subchapter, including the safeguarding of Federal funds;
+
+&emsp;&emsp;&emsp;(ii) adopt practices that assure active, independent, and informed governance of the Head Start agency, including practices consistent with subsection (d)(1), and fully participate in the development, planning, and evaluation of the Head Start programs involved;
+
+&emsp;&emsp;&emsp;(iii) be responsible for ensuring compliance with Federal laws (including regulations) and applicable State, tribal, and local laws (including regulations); and
+
+&emsp;&emsp;&emsp;(iv) be responsible for other activities, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) selecting delegate agencies and the service areas for such agencies;
+
+&emsp;&emsp;&emsp;&emsp;(II) establishing procedures and criteria for recruitment, selection, and enrollment of children;
+
+&emsp;&emsp;&emsp;&emsp;(III) reviewing all applications for funding and amendments to applications for funding for programs under this subchapter;
+
+&emsp;&emsp;&emsp;&emsp;(IV) establishing procedures and guidelines for accessing and collecting information described in subsection (d)(2);
+
+&emsp;&emsp;&emsp;&emsp;(V) reviewing and approving all major policies of the agency, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the annual self-assessment and financial audit;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) such agency's progress in carrying out the programmatic and fiscal provisions in such agency's grant application, including implementation of corrective actions; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) personnel policies of such agencies regarding the hiring, evaluation, termination, and compensation of agency employees;
+
+&emsp;&emsp;&emsp;&emsp;(VI) developing procedures for how members of the policy council are selected, consistent with paragraph (2)(B);
+
+&emsp;&emsp;&emsp;&emsp;(VII) approving financial management, accounting, and reporting policies, and compliance with laws and regulations related to financial statements, including the—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) approval of all major financial expenditures of the agency;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) annual approval of the operating budget of the agency;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) selection (except when a financial auditor is assigned by the State under State law or is assigned under local law) of independent financial auditors who shall report all critical accounting policies and practices to the governing body; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) monitoring of the agency's actions to correct any audit findings and of other action necessary to comply with applicable laws (including regulations) governing financial statement and accounting practices;
+
+&emsp;&emsp;&emsp;&emsp;(VIII) reviewing results from monitoring conducted under section 9836a(c) of this title, including appropriate followup activities;
+
+&emsp;&emsp;&emsp;&emsp;(IX) approving personnel policies and procedures, including policies and procedures regarding the hiring, evaluation, compensation, and termination of the Executive Director, Head Start Director, Director of Human Resources, Chief Fiscal Officer, and any other person in an equivalent position with the agency;
+
+&emsp;&emsp;&emsp;&emsp;(X) establishing, adopting, and periodically updating written standards of conduct that establish standards and formal procedures for disclosing, addressing, and resolving—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) any conflict of interest, and any appearance of a conflict of interest, by members of the governing body, officers and employees of the Head Start agency, and consultants and agents who provide services or furnish goods to the Head Start agency; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) complaints, including investigations, when appropriate; and
+
+&emsp;&emsp;&emsp;&emsp;(XI) to the extent practicable and appropriate, at the discretion of the governing body, establishing advisory committees to oversee key responsibilities related to program governance and improvement of the Head Start program involved.
+
+#### (2) Policy council
+
+#### (A) In general
+
+&emsp;&emsp;Consistent with paragraph (1)(E), each Head Start agency shall have a policy council responsible for the direction of the Head Start program, including program design and operation, and long- and short-term planning goals and objectives, taking into account the annual communitywide strategic planning and needs assessment and self-assessment.
+
+#### (B) Composition and selection
+
+&emsp;&emsp;&emsp;(i) The policy council shall be elected by the parents of children who are currentlyenrolled in the Head Start program of the Head Start agency.
+
+&emsp;&emsp;&emsp;(ii) The policy council shall be composed of—
+
+&emsp;&emsp;&emsp;&emsp;(I) parents of children who are currently enrolled in the Head Start program of the Head Start agency (including any delegate agency), who shall constitute a majority of the members of the policy council; and
+
+&emsp;&emsp;&emsp;&emsp;(II) members at large of the community served by the Head Start agency (including any delegate agency), who may include parents of children who were formerly enrolled in the Head Start program of the agency.
+
+#### (C) Conflict of interest
+
+&emsp;&emsp;Members of the policy council shall—
+
+&emsp;&emsp;&emsp;(i) not have a conflict of interest with the Head Start agency (including any delegate agency); and
+
+&emsp;&emsp;&emsp;(ii) not receive compensation for serving on the policy council or for providing services to the Head Start agency.
+
+#### (D) Responsibilities
+
+&emsp;&emsp;The policy council shall approve and submit to the governing body decisions about each of the following activities:
+
+&emsp;&emsp;&emsp;(i) Activities to support the active involvement of parents in supporting program operations, including policies to ensure that the Head Start agency is responsive to community and parent needs.
+
+&emsp;&emsp;&emsp;(ii) Program recruitment, selection, and enrollment priorities.
+
+&emsp;&emsp;&emsp;(iii) Applications for funding and amendments to applications for funding for programs under this subchapter, prior to submission of applications described in this clause.
+
+&emsp;&emsp;&emsp;(iv) Budget planning for program expenditures, including policies for reimbursement and participation in policy council activities.
+
+&emsp;&emsp;&emsp;(v) Bylaws for the operation of the policy council.
+
+&emsp;&emsp;&emsp;(vi) Program personnel policies and decisions regarding the employment of program staff, consistent with paragraph (1)(E)(iv)(IX), including standards of conduct for program staff, contractors, and volunteers and criteria for the employment and dismissal of program staff.
+
+&emsp;&emsp;&emsp;(vii) Developing procedures for how members of the policy council of the Head Start agency will be elected.
+
+&emsp;&emsp;&emsp;(viii) Recommendations on the selection of delegate agencies and the service areas for such agencies.
+
+#### (3) Policy committees
+
+&emsp;Each delegate agency shall create a policy committee, which shall—
+
+&emsp;&emsp;(A) be elected and composed of members, consistent with paragraph (2)(B) (with respect to delegate agencies);
+
+&emsp;&emsp;(B) follow procedures to prohibit conflict of interest, consistent with clauses (i) and (ii) of paragraph (2)(C) (with respect to delegate agencies); and
+
+&emsp;&emsp;(C) be responsible for approval and submission of decisions about activities as they relate to the delegate agency, consistent with paragraph (2)(D) (with respect to delegate agencies).
+
+#### (d) Program governance administration
+
+#### (1) Impasse policies
+
+&emsp;The Secretary shall develop policies, procedures, and guidance for Head Start agencies concerning—
+
+&emsp;&emsp;(A) the resolution of internal disputes, including any impasse in the governance of Head Start programs; and
+
+&emsp;&emsp;(B) the facilitation of meaningful consultation and collaboration about decisions of the governing body and policy council.
+
+#### (2) Conduct of responsibilities
+
+&emsp;Each Head Start agency shall ensure the sharing of accurate and regular information for use by the governing body and the policy council, about program planning, policies, and Head Start agency operations, including—
+
+&emsp;&emsp;(A) monthly financial statements, including credit card expenditures;
+
+&emsp;&emsp;(B) monthly program information summaries;
+
+&emsp;&emsp;(C) program enrollment reports, including attendance reports for children whose care is partially subsidized by another public agency;
+
+&emsp;&emsp;(D) monthly reports of meals and snacks provided through programs of the Department of Agriculture;
+
+&emsp;&emsp;(E) the financial audit;
+
+&emsp;&emsp;(F) the annual self-assessment, including any findings related to such assessment;
+
+&emsp;&emsp;(G) the communitywide strategic planning and needs assessment of the Head Start agency, including any applicable updates;
+
+&emsp;&emsp;(H) communication and guidance from the Secretary; and
+
+&emsp;&emsp;(I) the program information reports.
+
+#### (3) Training and technical assistance
+
+&emsp;Appropriate training and technical assistance shall be provided to the members of the governing body and the policy council to ensure that the members understand the information the members receive and can effectively oversee and participate in the programs of the Head Start agency.
+
+#### (e) Collaboration and coordination
+
+To be so designated, a Head Start agency shall collaborate and coordinate with public and private entities, to the maximum extent practicable, to improve the availability and quality of services to Head Start children and families, including carrying out the following activities:
+
+&emsp;(1) Conduct outreach to schools in which children participating in the Head Start program will enroll following the program, local educational agencies, the local business community, community-based organizations, faith-based organizations, museums, and libraries to generate support and leverage the resources of the entire local community in order to improve school readiness.
+
+&emsp;(2)(A) In communities where both a public prekindergarten program and a Head Startprogram operate, collaborate and coordinate activities with the local educational agency or other public agency responsible for the operation of the prekindergarten program and providers of prekindergarten, including outreach activities to identify eligible children.
+
+&emsp;(B) With the permission of the parents of children enrolled in the Head Start program, regularly communicate with the schools in which the children will enroll following the program, to—
+
+&emsp;&emsp;(i) share information about such children;
+
+&emsp;&emsp;(ii) collaborate with the teachers in such schools regarding professional development and instructional strategies, as appropriate; and
+
+&emsp;&emsp;(iii) ensure a smooth transition to school for such children.
+
+&emsp;(3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), the agencies responsible for administering section 5106a of this title and parts B and E of title IV of the Social Security Act (42 U.S.C. 621 et seq., 670 et seq.), programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.), Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
+
+&emsp;(4) Take steps to coordinate activities with the local educational agency serving the community involved and with schools in which children participating in the Head Start program will enroll following the program, including—
+
+&emsp;&emsp;(A) collaborating on the shared use of transportation and facilities, in appropriate cases;
+
+&emsp;&emsp;(B) collaborating to reduce the duplication and enhance the efficiency of services while increasing the program participation of underserved populations of eligible children; and
+
+&emsp;&emsp;(C) exchanging information on the provision of noneducational services to such children.
+
+&emsp;(5) Enter into a memorandum of understanding, not later than 1 year after December 12, 2007, with the appropriate local entity responsible for managing publicly funded preschool programs in the service area of the Head Start agency, that shall—
+
+&emsp;&emsp;(A)(i) provide for a review of each of the activities described in clause (ii); and
+
+&emsp;&emsp;(ii) include plans to coordinate, as appropriate, activities regarding—
+
+&emsp;&emsp;&emsp;(I) educational activities, curricular objectives, and instruction;
+
+&emsp;&emsp;&emsp;(II) public information dissemination and access to programs for families contacting the Head Start program or any of the preschool programs;
+
+&emsp;&emsp;&emsp;(III) selection priorities for eligible children to be served by programs;
+
+&emsp;&emsp;&emsp;(IV) service areas;
+
+&emsp;&emsp;&emsp;(V) staff training, including opportunities for joint staff training on topics such as academic content standards, instructional methods, curricula, and social and emotional development;
+
+&emsp;&emsp;&emsp;(VI) program technical assistance;
+
+&emsp;&emsp;&emsp;(VII) provision of additional services to meet the needs of working parents, as applicable;
+
+&emsp;&emsp;&emsp;(VIII) communications and parent outreach for smooth transitions to kindergarten as required in paragraphs (3) and (6) of section 9837a(a) of this title;
+
+&emsp;&emsp;&emsp;(IX) provision and use of facilities, transportation, and other program elements; and
+
+&emsp;&emsp;&emsp;(X) other elements mutually agreed to by the parties to such memorandum;
+
+&emsp;&emsp;(B) be submitted to the Secretary and the State Director of Head Start Collaboration not later than 30 days after the parties enter into such memorandum, except that—
+
+&emsp;&emsp;&emsp;(i) where there is an absence of publicly funded preschool programs in the service area of a Head Start agency, this paragraph shall not apply; or
+
+&emsp;&emsp;&emsp;(ii) where the appropriate local entity responsible for managing the publicly funded preschool programs is unable or unwilling to enter into such a memorandum, this paragraph shall not apply and the Head Start agency shall inform the Secretary and the State Director of Head Start Collaboration of such inability or unwillingness; and
+
+&emsp;&emsp;(C) be revised periodically and renewed biennially by the parties to such memorandum, in alignment with the beginning of the school year.
+
+#### (f) Quality standards, curricula, and assessment
+
+To be so designated, each Head Start agency shall—
+
+&emsp;(1) take steps to ensure, to the maximum extent practicable, that children maintain the developmental and educational gains achieved in Head Start programs and build upon such gains in further schooling;
+
+&emsp;(2) establish a program with the standards set forth in section 9836a(a)(1) of this title, with particular attention to the standards set forth in subparagraphs (A) and (B) of such section;
+
+&emsp;(3) implement a research-based early childhood curriculum that—
+
+&emsp;&emsp;(A) promotes young children's school readiness in the areas of language and cognitive development, early reading and mathematics skills, socio-emotional development, physical development, and approaches to learning;
+
+&emsp;&emsp;(B) is based on scientifically valid research and has standardized training procedures and curriculum materials to support implementation;
+
+&emsp;&emsp;(C) is comprehensive and linked to ongoing assessment, with developmental and learning goals and measurable objectives;
+
+&emsp;&emsp;(D) is focused on improving the learning environment, teaching practices, family involvement, and child outcomes across all areas of development; and
+
+&emsp;&emsp;(E) is aligned with the Head Start Child Outcomes Framework developed by the Secretary and, as appropriate, State early learning standards;
+
+&emsp;(4) implement effective interventions and support services that help promote the school readiness of children participating in the program;
+
+&emsp;(5) use research-based assessment methods that reflect the characteristics described in section 9836a(b)(2) of this title in order to support the educational instruction and school readiness of children in the program;
+
+&emsp;(6) use research-based developmental screening tools that have been demonstrated to be standardized, reliable, valid, and accurate for the child being assessed, to the maximum extent practicable, for the purpose of meeting the relevant standards described in section 9836a(a)(1) of this title;
+
+&emsp;(7) adopt, in consultation with experts in child development and with classroom teachers, an evaluation to assess whether classroom teachers have mastered the functions discussed in section 9843a(a)(1) of this title;
+
+&emsp;(8) use the information provided from the assessment conducted under section 9836a(c)(2)(F) of this title to inform professional development plans, as appropriate, that lead to improved teacher effectiveness;
+
+&emsp;(9) establish goals and measurable objectives for the provision of health, educational, nutritional, and social services provided under this subchapter and related to the program mission and to promote school readiness; and
+
+&emsp;(10) develop procedures for identifying children who are limited English proficient, and informing the parents of such children about the instructional services used to help children make progress towards acquiring the knowledge and skills described in section 9836a(a)(1)(B) of this title and acquisition of the English language.
+
+#### (g) Funded enrollment; waiting list
+
+Each Head Start agency shall enroll 100 percent of its funded enrollment and maintain an active waiting list at all times with ongoing outreach to the community and activities to identify underserved populations.
+
+#### (h) Technical assistance and training plan
+
+In order to receive funds under this subchapter, a Head Start agency shall develop an annual technical assistance and training plan. Such plan shall be based on the agency's self-assessment, the communitywide strategic planning and needs assessment, the needs of parents and children to be served by such agency, and the results of the reviews conducted under section 9836a(c) of this title.
+
+#### (i) Financial management
+
+In order to receive funds under this subchapter, a Head Start agency shall document strong fiscal controls, including the employment of well-qualified fiscal staff with a history of successful management of a public or private organization.
+
+(Pub. L. 97–35, title VI, §642, Aug. 13, 1981, 95 Stat. 502; Pub. L. 99–425, title I, §103, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §109, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(i), (k)(3), Oct. 7, 1992, 106 Stat. 1957, 1959; Pub. L. 103–252, title I, §109, May 18, 1994, 108 Stat. 634; Pub. L. 105–285, title I, §109, Oct. 27, 1998, 112 Stat. 2716; Pub. L. 108–446, title III, §305(<i>l</i>)(4), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §9, Dec. 12, 2007, 121 Stat. 1397.)
 
 #### References in Text
 
-Part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(5) and (c), means part B of chapter 1 of title I of Pub. L. 89–10 which was classified generally to part B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 6381 et seq. of Title 20.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(4) and (e)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Subpart 3 of part B of title I of the Act is classified generally to subpart 3 (§6381 et seq.) of part B of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (b)(14), (15), and (e)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(3), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+
+The Social Security Act, referred to in subsec. (e)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Social Security Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (e)(3), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
+
+2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), receipt, administration, and transfer of funds, sponsorship of projects, and delegation of authority, in subsec. (b), participation of parents in decisionmaking and implementation of programs, in subsec. (c), coordination with other agencies, in subsec. (d), transition coordination with schools, and, in subsec. (e), assessment when hiring or evaluating classroom teachers.
 
 2004—Subsec. (c). Pub. L. 108–446 substituted “1431–1444” for “1431–1445”.
 
@@ -155,8 +459,4 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as a note under section 8621 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. A period should probably follow “U.S.C”.</i>
 

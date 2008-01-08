@@ -12,7 +12,7 @@ If at any time during any taxable year an employer maintains a plan to which sec
 
 If—
 
-&emsp;(1) a tax is imposed under subsection (a)(1) on any unpaid required minimum contribution and such amount remains unpaid as of the close of the taxable period, or
+&emsp;(1) a tax is imposed under subsection (a)(1) on any unpaid required minimum contributionand such amount remains unpaid as of the close of the taxable period, or
 
 &emsp;(2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency and the accumulated funding deficiency is not corrected within the taxable period,
 
@@ -62,13 +62,13 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the tax imposed by subsection (a), (b), or (f) shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(a)(1)(A).
+&emsp;Except as provided in paragraph (2), the tax imposed by subsection (a), (b), or (f) shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(a)(1)(A).<sup>1</sup>
 
 #### (2) Joint and several liability where employer member of controlled group
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a plan other than a multiemployer plan, if the employer referred to in paragraph (1) is a member of a controlled group, each member of such group shall be jointly and severally liable for the tax imposed by subsection (a), (b), or (f).
+&emsp;&emsp;If an employer referred to in paragraph (1) is a member of a controlled group, each member of such group shall be jointly and severally liable for the tax imposed by subsection (a), (b), (f), or (g).
 
 #### (B) Controlled group
 
@@ -92,7 +92,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 #### (A) Liquidity shortfall; quarter
 
-&emsp;&emsp;For purposes of this subsection, the terms “liquidity shortfall” and “quarter” have the respective meanings given such terms by section 412(m)(5).
+&emsp;&emsp;For purposes of this subsection, the terms “liquidity shortfall” and “quarter” have the respective meanings given such terms by section 412(m)(5).<sup>2</sup>
 
 #### (B) Special rule
 
@@ -108,7 +108,77 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 > &emsp;the Secretary may waive all or part of the tax imposed by this subsection.
 
-#### (g) Cross references
+#### (g) Multiemployer plans in endangered or critical status
+
+#### (1) In general
+
+&emsp;Except as provided in this subsection—
+
+&emsp;&emsp;(A) no tax shall be imposed under this section for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in critical status pursuant to section 432, and
+
+&emsp;&emsp;(B) any tax imposed under this subsection for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in endangered status pursuant to section 432 shall be in addition to any other tax imposed by this section.
+
+#### (2) Failure to comply with funding improvement or rehabilitation plan
+
+#### (A) In general
+
+&emsp;&emsp;If any funding improvement plan or rehabilitation plan in effect under section 432 with respect to a multiemployer plan requires an employer to make a contribution to the plan, there is hereby imposed a tax on each failure of the employer to make the required contribution within the time required under such plan.
+
+#### (B) Amount of tax
+
+&emsp;&emsp;The amount of the tax imposed by subparagraph (A) shall be equal to the amount of the required contribution the employer failed to make in a timely manner.
+
+#### (C) Liability for tax
+
+&emsp;&emsp;The tax imposed by subparagraph (A) shall be paid by the employer responsible for contributing to or under the rehabilitation plan which fails to make the contribution.
+
+#### (3) Failure to meet requirements for plans in endangered or critical status
+
+&emsp;If—
+
+&emsp;&emsp;(A) a plan which is in seriously endangered status fails to meet the applicable benchmarks by the end of the funding improvement period, or
+
+&emsp;&emsp;(B) a plan which is in critical status either—
+
+&emsp;&emsp;&emsp;(i) fails to meet the requirements of section 432(e) by the end of the rehabilitation period, or
+
+&emsp;&emsp;&emsp;(ii) has received a certification under section 432(b)(3)(A)(ii) for 3 consecutive plan years that the plan is not making the scheduled progress in meeting its requirements under the rehabilitation plan,
+
+> &emsp;&emsp;the plan shall be treated as having an accumulated funding deficiency for purposes of this section for the last plan year in such funding improvement, rehabilitation, or 3-consecutive year period (and each succeeding plan year until such benchmarks or requirements are met) in an amount equal to the greater of the amount of the contributions necessary to meet such benchmarks or requirements or the amount of such accumulated funding deficiency without regard to this paragraph.
+
+#### (4) Failure to adopt rehabilitation plan
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a multiemployer plan which is in critical status, there is hereby imposed a tax on the failure of such plan to adopt a rehabilitation plan within the time prescribed under section 432.
+
+#### (B) Amount of tax
+
+&emsp;&emsp;The amount of the tax imposed under subparagraph (A) with respect to any plan sponsor for any taxable year shall be the greater of—
+
+&emsp;&emsp;&emsp;(i) the amount of tax imposed under subsection (a) for the taxable year (determined without regard to this subsection), or
+
+&emsp;&emsp;&emsp;(ii) the amount equal to $1,100 multiplied by the number of days during the taxable year which are included in the period beginning on the first day of the 240-day period described in section 432(e)(1)(A) and ending on the day on which the rehabilitation plan is adopted.
+
+#### (C) Liability for tax
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The tax imposed by subparagraph (A) shall be paid by each plan sponsor.
+
+#### (ii) Plan sponsor
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “plan sponsor” in the case of a multiemployer plan means the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.
+
+#### (5) Waiver
+
+&emsp;In the case of a failure described in paragraph (2) or (3) which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by this subsection. For purposes of this paragraph, reasonable cause includes unanticipated and material market fluctuations, the loss of a significant contributing employer, or other factors to the extent that the payment of tax under this subsection with respect to the failure would be excessive or otherwise inequitable relative to the failure involved.
+
+#### (6) Terms used in section 432
+
+&emsp;For purposes of this subsection, any term used in this subsection which is also used in section 432 shall have the meaning given such term by section 432.
+
+#### (h) Cross references
 
 &emsp;&emsp;<b>For disallowance of deduction for taxes paid under this section, see section 275.</b>
 
@@ -120,87 +190,13 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 #### Amendment of Section
 
-<i>Pub. L. 109–280, title II, §212(b), (e), Aug. 17, 2006, 120 Stat. 915, 917, provided that, applicable with respect to plan years beginning after 2007, with special rules for certain notices and certain restored benefits, this section is temporarily amended as follows:</i>
-
-<i>(1) in subsection (c)(2) (probably should be “subsection (e)(2)”), by substituting “If an” for “In the case of a plan other than a multiemployer plan, if the” and “(f), or (g)” for “or (f)”; and</i>
-
-<i>(2) by redesignating subsection (g) as (h) and by adding a new subsection (g) to read as follows:</i>
-
-#### <i>(g) Multiemployer plans in endangered or critical status</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>Except as provided in this subsection—</i>
-
-&emsp;&emsp;<i>(A) no tax shall be imposed under this section for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in critical status pursuant to section 432, and</i>
-
-&emsp;&emsp;<i>(B) any tax imposed under this subsection for a taxable year with respect to a multiemployer plan if, for the plan years ending with or within the taxable year, the plan is in endangered status pursuant to section 432 shall be in addition to any other tax imposed by this section.</i>
-
-#### <i>(2) Failure to comply with funding improvement or rehabilitation plan</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>If any funding improvement plan or rehabilitation plan in effect under section 432 with respect to a multiemployer plan requires an employer to make a contribution to the plan, there is hereby imposed a tax on each failure of the employer to make the required contribution within the time required under such plan.</i>
-
-#### <i>(B) Amount of tax</i>
-
-&emsp;&emsp;<i>The amount of the tax imposed by subparagraph (A) shall be equal to the amount of the required contribution the employer failed to make in a timely manner.</i>
-
-#### <i>(C) Liability for tax</i>
-
-&emsp;&emsp;<i>The tax imposed by subparagraph (A) shall be paid by the employer responsible for contributing to or under the rehabilitation plan which fails to make the contribution.</i>
-
-#### <i>(3) Failure to meet requirements for plans in endangered or critical status</i>
-
-&emsp;<i>If—</i>
-
-&emsp;&emsp;<i>(A) a plan which is in seriously endangered status fails to meet the applicable benchmarks by the end of the funding improvement period, or</i>
-
-&emsp;&emsp;<i>(B) a plan which is in critical status either—</i>
-
-&emsp;&emsp;&emsp;<i>(i) fails to meet the requirements of section 432(e) by the end of the rehabilitation period, or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) has received a certification under section 432(b)(3)(A)(ii) for 3 consecutive plan years that the plan is not making the scheduled progress in meeting its requirements under the rehabilitation plan,</i>
-
-> &emsp;&emsp;<i>the plan shall be treated as having an accumulated funding deficiency for purposes of this section for the last plan year in such funding improvement, rehabilitation, or 3-consecutive year period (and each succeeding plan year until such benchmarks or requirements are met) in an amount equal to the greater of the amount of the contributions necessary to meet such benchmarks or requirements or the amount of such accumulated funding deficiency without regard to this paragraph.</i>
-
-#### <i>(4) Failure to adopt rehabilitation plan</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>In the case of a multiemployer plan which is in critical status, there is hereby imposed a tax on the failure of such plan to adopt a rehabilitation plan within the time prescribed under section 432.</i>
-
-#### <i>(B) Amount of tax</i>
-
-&emsp;&emsp;<i>The amount of the tax imposed under subparagraph (A) with respect to any plan sponsor for any taxable year shall be the greater of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the amount of tax imposed under subsection (a) for the taxable year (determined without regard to this subsection), or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the amount equal to $1,100 multiplied by the number of days during the taxable year which are included in the period beginning on the first day of the 240-day period described in section 432(e)(1)(A) and ending on the day on which the rehabilitation plan is adopted.</i>
-
-#### <i>(C) Liability for tax</i>
-
-#### <i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>The tax imposed by subparagraph (A) shall be paid by each plan sponsor.</i>
-
-#### <i>(ii) Plan sponsor</i>
-
-&emsp;&emsp;&emsp;<i>For purposes of clause (i), the term “plan sponsor” in the case of a multiemployer plan means the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.</i>
-
-#### <i>(5) Waiver</i>
-
-&emsp;<i>In the case of a failure described in paragraph (2) or (3) which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by this subsection. For purposes of this paragraph, reasonable cause includes unanticipated and material market fluctuations, the loss of a significant contributing employer, or other factors to the extent that the payment of tax under this subsection with respect to the failure would be excessive or otherwise inequitable relative to the failure involved.</i>
-
-#### <i>(6) Terms used in section 432</i>
-
-&emsp;<i>For purposes of this subsection, any term used in this subsection which is also used in section 432 shall have the meaning given such term by section 432.</i>
-
-<i>See Effective and Termination Dates of 2006 Amendment note below.</i>
+<i>For termination of amendment by section 221(c) of Pub. L. 109–280, see Effective and Termination Dates of 2006 Amendment note below.</i>
 
 #### References in Text
 
-Section 3002(b) of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (g), is classified to section 1202(b) of Title 29, Labor.
+Section 412, referred to in subsec. (f)(3)(A), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, no longer contains a subsec. (m)(5).
+
+Section 3002(b) of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (h), is classified to section 1202(b) of Title 29, Labor.
 
 #### Amendments
 
@@ -220,7 +216,11 @@ Subsec. (c)(4). Pub. L. 109–280, §114(e)(2)(B), added par. (4).
 
 Subsec. (e)(1). Pub. L. 109–280, §114(e)(3), substituted “section 412(a)(1)(A)” for “section 412(b)(3)(A)”.
 
+Subsec. (e)(2)(A). Pub. L. 109–280, §§212(b)(2), 221(c), which directed amendment of subsec. (c)(2) by temporarily substituting “If an” for “In the case of a plan other than a multiemployer plan, if the” and “(f), or (g)” for “or (f)”, was executed by making the substitutions in subsec. (e)(2)(A), to reflect the probable intent of Congress. See Effective and Termination Dates of 2006 Amendment note below.
+
 Subsec. (f)(1). Pub. L. 109–280, §114(e)(4), substituted “section 430(j)(4)” for “section 412(m)(5)” in introductory provisions and “section 430(j)” for “section 412(m)” in subpar. (B).
+
+Subsecs. (g), (h). Pub. L. 109–280, §§212(b)(1), 221(c), temporarily added subsec. (g) and redesignated former subsec. (g) as (h). See Effective and Termination Dates of 2006 Amendment note below.
 
 1996—Subsec. (f)(4). Pub. L. 104–188 added par. (4).
 
@@ -274,7 +274,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pu
 
 #### Effective Date
 
-Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for planyears beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
@@ -311,4 +311,8 @@ Plan Described.—A plan described under this subsection is a multiemployer pens
 #### Plan Amendments Not Required Until January 1, 1998
 
 For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “412(a)(2).”</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

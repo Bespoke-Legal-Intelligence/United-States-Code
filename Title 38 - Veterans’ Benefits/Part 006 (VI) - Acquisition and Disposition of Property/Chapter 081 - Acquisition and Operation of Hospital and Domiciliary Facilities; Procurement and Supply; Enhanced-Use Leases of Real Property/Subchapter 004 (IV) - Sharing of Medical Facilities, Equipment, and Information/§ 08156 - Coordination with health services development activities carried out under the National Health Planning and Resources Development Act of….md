@@ -2,7 +2,7 @@
 
 The Secretary and the Secretary of Health and Human Services shall, to the maximum extent practicable, coordinate programs carried out under this subchapter and programs carried out under part F of title XVI of the Public Health Service Act (42 U.S.C. 300t et seq.).
 
-(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1375, §5056; amended Pub. L. 94–581, title I, §115(a)(2), Oct. 21, 1976, 90 Stat. 2853; Pub. L. 97–295, §4(93), (95)(A), Oct. 12, 1982, 96 Stat. 1313; renumbered §8156, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1375, §5056; amended Pub. L. 94–581, title I, §115(a)(2), Oct. 21, 1976, 90 Stat. 2853; Pub. L. 97–295, §4(93), (95)(A), Oct. 12, 1982, 96 Stat. 1313; renumbered §8156, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L.102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### References in Text
 

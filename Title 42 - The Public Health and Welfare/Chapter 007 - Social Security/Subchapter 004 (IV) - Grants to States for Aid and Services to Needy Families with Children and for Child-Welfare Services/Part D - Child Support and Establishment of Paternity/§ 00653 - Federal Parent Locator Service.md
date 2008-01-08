@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(ii) if the court determines that disclosure of such information to any other person could be harmful, the court and its agents shall not make any such disclosure.
 
-&emsp;(3) Information received or transmitted pursuant to this section shall be subject to thesafeguard provisions contained in section 654(26) of this title.
+&emsp;(3) Information received or transmitted pursuant to this section shall be subject to the safeguard provisions contained in section 654(26) of this title.
 
 #### (c) “Authorized person” defined
 
@@ -66,7 +66,7 @@ A request for information under this section shall be filed in such manner and f
 
 (1) Whenever the Secretary receives a request submitted under subsection (b) of this section which he is reasonably satisfied meets the criteria established by subsections (a), (b), and (c) of this section, he shall promptly undertake to provide the information requested from the files and records maintained by any of the departments, agencies, or instrumentalities of the United States or of any State.
 
-(2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, such individual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of the United States or the confidentiality of census data, such information shall not be transmitted and such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of any State in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
+(2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, such individual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of the United States or the confidentiality of census data, such information shall not be transmitted and such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of anyState in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
 
 (3) The Secretary of Labor shall enter into an agreement with the Secretary to provide prompt access for the Secretary (in accordance with this subsection) to the wage and unemployment compensation claims information and data maintained by or for the Department of Labor or State employment security agencies.
 
@@ -82,7 +82,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (1) In general
 
-&emsp;Not later than October 1, 1998, in order to assist States in administering programs under State plans approved under this part and programs funded under part A of this subchapter, and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the “Federal Case Registry of Child Support Orders”), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated),pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
+&emsp;Not later than October 1, 1998, in order to assist States in administering programs under State plans approved under this part and programs funded under part A of this subchapter, and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the “Federal Case Registry of Child Support Orders”), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated), pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
 
 #### (2) Case and order information
 
@@ -222,7 +222,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (A) Furnishing of information by HUD
 
-&emsp;&emsp;Subject to subparagraph (G), the Secretary of Housing and Urban Development shall furnish to the Secretary, on such periodicbasis as determined by the Secretary of Housing and Urban Development in consultation with the Secretary, information in the custody of the Secretary of Housing and Urban Development for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to individuals who are participating in any program under—
+&emsp;&emsp;Subject to subparagraph (G), the Secretary of Housing and Urban Development shall furnish to the Secretary, on such periodic basis as determined by the Secretary of Housing and Urban Development in consultation with the Secretary, information in the custody of the Secretary of Housing and Urban Development for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to individuals who are participating in any program under—
 
 &emsp;&emsp;&emsp;(i) the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.);
 
@@ -264,7 +264,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (ii) Disclosures permitted
 
-&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary of Housing and Urban Development may disclose information resulting from a data match pursuant to this paragraph only to a public housing agency, the Inspector General of the Department of Housing and Urban Development, and the Attorney General in connection with the administration of a program described in subparagraph (A). Information obtained by the Secretary of Housing and Urban Development pursuant to this paragraph shall not be made available under section 552 of title 5.
+&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary of Housing and Urban Development may disclose information resulting from a data match pursuant to this paragraph only to a public housing agency, the Inspector General of the Department of Housing and Urban Development, and the Attorney General in connection with the administration of a program described in subparagraph (A). Information obtained by theSecretary of Housing and Urban Development pursuant to this paragraph shall not be made available under section 552 of title 5.
 
 #### (iii) Conditions on disclosure
 
@@ -334,7 +334,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (A) Furnishing of information by the Secretary of the Treasury
 
-&emsp;&emsp;The Secretary of the Treasury shall furnish to the Secretary, on such periodic basis as determined by the Secretary of the Treasury in consultation with the Secretary, information in the custody of the Secretary of the Treasury for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to persons—
+&emsp;&emsp;The Secretary of the Treasury shall furnish to the Secretary, on such periodic basisas determined by the Secretary of the Treasury in consultation with the Secretary, information in the custody of the Secretary of the Treasury for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to persons—
 
 &emsp;&emsp;&emsp;(i) who owe delinquent nontax debt to the United States; and
 
@@ -400,7 +400,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (A) In general
 
-&emsp;&emsp;If, for purposes of administering a food stamp program under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], a State agency responsible for the administration of the program transmits to the Secretary the names and social security account numbers of individuals, the Secretary shall disclose to the State agency information on the individuals and their employers maintained in the National Directory of New Hires, subject to this paragraph.
+&emsp;&emsp;If, for purposes of administering a food stamp program under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], a State agency responsible for the administration of the program transmits to the Secretary the namesand social security account numbers of individuals, the Secretary shall disclose to the State agency information on the individuals and their employers maintained in the National Directory of New Hires, subject to this paragraph.
 
 #### (B) Condition on disclosure by the Secretary
 
@@ -427,6 +427,54 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 #### (E) Reimbursement of costs
 
 &emsp;&emsp;The State agency shall reimburse the Secretary, in accordance with subsection (k)(3), for the costs incurred by the Secretary in furnishing the information requested under this paragraph.
+
+#### (11) Information comparisons and disclosures to assist in administration of certain veterans benefits
+
+#### (A) Furnishing of information by Secretary of Veterans Affairs
+
+&emsp;&emsp;Subject to the provisions of this paragraph, the Secretary of Veterans Affairs shall furnish to the Secretary, on such periodic basis as determined by the Secretary of Veterans Affairs in consultation with the Secretary, information in the custody of the Secretary of Veterans Affairs for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to individuals who are applying for or receiving—
+
+&emsp;&emsp;&emsp;(i) needs-based pension benefits provided under chapter 15 of title 38 or under any other law administered by the Secretary of Veterans Affairs;
+
+&emsp;&emsp;&emsp;(ii) parents’ dependency and indemnity compensation provided under section 1315 of title 38;
+
+&emsp;&emsp;&emsp;(iii) health care services furnished under subsections (a)(2)(G), (a)(3), or (b) of section 1710 of title 38; or
+
+&emsp;&emsp;&emsp;(iv) compensation paid under chapter 11 of title 38 at the 100 percent rate based solely on unemployability and without regard to the fact that the disability or disabilities are not rated as 100 percent disabling under the rating schedule.
+
+#### (B) Requirement to seek minimum information
+
+&emsp;&emsp;The Secretary of Veterans Affairs shall seek information pursuant to this paragraph only to the extent necessary to verify the employment and income of individuals described in subparagraph (A).
+
+#### (C) Duties of the Secretary
+
+#### (i) Information disclosure
+
+&emsp;&emsp;&emsp;The Secretary, in cooperation with the Secretary of Veterans Affairs, shall compare information in the National Directory of New Hires with information provided by the Secretary of Veterans Affairs with respect to individuals described in subparagraph (A), and shall disclose information in such Directory regarding such individuals to the Secretary of Veterans Affairs, in accordance with this paragraph, for the purposes specified in this paragraph.
+
+#### (ii) Condition on disclosure
+
+&emsp;&emsp;&emsp;The Secretary shall make disclosures in accordance with clause (i) only to the extent that the Secretary determines that such disclosures do not interfere with the effective operation of the program under this part.
+
+#### (D) Use of information by Secretary of Veterans Affairs
+
+&emsp;&emsp;The Secretary of Veterans Affairs may use information resulting from a data match pursuant to this paragraph only—
+
+&emsp;&emsp;&emsp;(i) for the purposes specified in subparagraph (B); and
+
+&emsp;&emsp;&emsp;(ii) after removal of personal identifiers, to conduct analyses of the employment and income reporting of individuals described in subparagraph (A).
+
+#### (E) Reimbursement of HHS costs
+
+&emsp;&emsp;The Secretary of Veterans Affairs shall reimburse the Secretary, in accordance with subsection (k)(3), for the costs incurred by the Secretary in furnishing the information requested under this paragraph.
+
+#### (F) Consent
+
+&emsp;&emsp;The Secretary of Veterans Affairs shall not seek, use, or disclose information under this paragraph relating to an individual without the prior written consent of such individual (or of a person legally authorized to consent on behalf of such individual).
+
+#### (G) Expiration of authority
+
+&emsp;&emsp;The authority under this paragraph shall expire on September 30, 2011.
 
 #### (k) Fees
 
@@ -472,7 +520,7 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 As used in this part, the term “support order” means a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or of the parent with whom the child is living, which provides for monetary support, health care, arrearages, or reimbursement, and which may include related costs and fees, interest and penalties, income withholding, attorneys’ fees, and other relief.
 
-(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306; Pub. L. 108–199, div. G, title II, §217(a), Jan. 23, 2004, 118 Stat. 394; Pub. L. 108–295, §3, Aug. 9, 2004, 118 Stat. 1091; Pub. L. 108–447, div. H, title VI, §643, Dec. 8, 2004, 118 Stat. 3283; Pub. L. 109–171, title VII, §§7305, 7306(b), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 109–250, §2, July 27, 2006, 120 Stat. 652.)
+(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536,1501A–304, 1501A–306; Pub. L. 108–199, div. G, title II, §217(a), Jan. 23, 2004, 118 Stat. 394; Pub. L. 108–295, §3, Aug. 9, 2004, 118 Stat. 1091; Pub. L. 108–447, div. H, title VI, §643, Dec. 8, 2004, 118 Stat. 3283; Pub. L. 109–171, title VII, §§7305, 7306(b), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 109–250, §2, July 27, 2006, 120 Stat. 652; Pub. L. 110–157, title III, §301(a), Dec. 26, 2007, 121 Stat. 1833.)
 
 #### References in Text
 
@@ -489,6 +537,8 @@ The Food Stamp Act of 1977, referred to in subsec. (j)(10)(A), is Pub. L. 88–5
 Section 652(<i>l</i>) of this title, referred to in subsec. (k)(3), probably means the subsec. (<i>l</i>) of section 652 of this title which relates to comparisons with insurance information and was added by Pub. L. 109–171, title VII, §7306(a), Feb. 8, 2006, 120 Stat. 145.
 
 #### Amendments
+
+2007—Subsec. (j)(11). Pub. L. 110–157 added par. (11).
 
 2006—Subsec. (j)(7), (9). Pub. L. 109–250, §2(1), redesignated par. (7) relating to information comparisons and disclosure to assist in Federal debt collection as (9).
 
@@ -638,7 +688,7 @@ Section 124(c) of Pub. L. 100–485 provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and sections 503 and 504 of this title\] shall become effective on the first day of the first calendar quarter which begins one year or more after the date of the enactment of this Act \[Oct. 13, 1988\].
 
-“(2) The Secretary of Health and Human Services and the Secretary of Labor shall enter into the agreement required by the amendment made by subsection (a) \[amending this section\] not later than 90 days after the date of the enactment of this Act.”
+“(2) The Secretary of Health and Human Services and the Secretary of Labor shall enter into the agreementrequired by the amendment made by subsection (a) \[amending this section\] not later than 90 days after the date of the enactment of this Act.”
 
 #### Effective Date of 1984 Amendment
 

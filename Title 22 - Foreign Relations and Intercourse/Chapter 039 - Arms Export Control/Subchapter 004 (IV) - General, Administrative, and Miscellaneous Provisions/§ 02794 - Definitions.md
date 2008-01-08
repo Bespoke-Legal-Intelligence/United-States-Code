@@ -4,7 +4,7 @@ For purposes of this chapter, the term—
 
 &emsp;(1) “excess defense article” has the meaning provided by section 2403(g) of this title;
 
-&emsp;(2) “value” means, in the case of an excess defense article, except as otherwise providedin section 2761(a) of this title,,<sup>1</sup> not less than the greater of—
+&emsp;(2) “value” means, in the case of an excess defense article, except as otherwise provided in section 2761(a) of this title,,<sup>1</sup> not less than the greater of—
 
 &emsp;&emsp;(A) the gross cost incurred by the United States Government in repairing, rehabilitating, or modifying such article, plus the scrap value; or
 

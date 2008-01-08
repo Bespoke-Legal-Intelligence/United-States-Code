@@ -18,7 +18,7 @@
 
 #### (b) Experts and consultants
 
-On an annual basis, the Director of NIH shall submit to the Inspector General of the Department of Health and Human Services, the Secretary, the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives, and the Committee onHealth, Education, Labor, and Pensions and the Committee on Appropriations of the Senate a report that—
+On an annual basis, the Director of NIH shall submit to the Inspector General of the Department of Health and Human Services, the Secretary, the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate a report that—
 
 &emsp;(1) identifies the number of experts and consultants, including any special consultants, whose services are obtained by the National Institutes of Health or its agencies;
 

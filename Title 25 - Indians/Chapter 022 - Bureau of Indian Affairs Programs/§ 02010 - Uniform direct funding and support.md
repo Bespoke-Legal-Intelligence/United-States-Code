@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iv) the documents relating to the acquisition executed by the supervisor of the school or other school staff cite this paragraph as authority for the acquisition; and
 
-&emsp;&emsp;&emsp;(v) the acquisition transaction is documented in a journal maintained at theschool that clearly identifies when the transaction occurred, the item that was acquired and from whom, the price paid, the quantities acquired, and any other information the supervisor or the school board considers to be relevant.
+&emsp;&emsp;&emsp;(v) the acquisition transaction is documented in a journal maintained at the school that clearly identifies when the transaction occurred, the item that was acquired and from whom, the price paid, the quantities acquired, and any other information the supervisor or the school board considers to be relevant.
 
 #### (B) Notice
 
@@ -120,7 +120,7 @@ The Secretary may approve applications for funding tribal divisions of education
 
 #### (d) Technical assistance and training
 
-In carrying out this section, a local school board may request technical assistance andtraining from the Secretary, and the Secretary shall, to the maximum extent practicable, provide those services and make appropriate provisions in the budget of the Office for the provision of those services.
+In carrying out this section, a local school board may request technical assistance and training from the Secretary, and the Secretary shall, to the maximum extent practicable, provide those services and make appropriate provisions in the budget of the Office for the provision of those services.
 
 #### (e) Summer program of academic and support services
 
@@ -212,7 +212,7 @@ This chapter, referred to in subsec. (h)(1), was in the original “this title�
 
 A prior section 2010, Pub. L. 95–561, title XI, §1130, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3999, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2010, Pub. L. 95–561, title XI, §1130, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 100–297, title V, §5111, Apr. 28, 1988, 102 Stat. 376; Pub. L. 100–427, §7, Sept. 9, 1988, 102 Stat. 1605, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2010, Pub. L. 95–561, title XI, §1130, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 100–297, title V,§5111, Apr. 28, 1988, 102 Stat. 376; Pub. L. 100–427, §7, Sept. 9, 1988, 102 Stat. 1605, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
 

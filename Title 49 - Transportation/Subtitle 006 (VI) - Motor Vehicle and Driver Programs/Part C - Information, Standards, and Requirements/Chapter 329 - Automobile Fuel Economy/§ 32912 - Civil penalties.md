@@ -56,7 +56,15 @@ Higher Penalty Amounts.—(1)(A) The Secretary of Transportation shall prescribe
 
 Written Notice Requirement.—The Secretary shall impose a penalty under this section by written notice.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1072.)
+(e)
+
+Use of Civil Penalties.—For fiscal year 2008 and each fiscal year thereafter, from the total amount deposited in the general fund of the Treasury during the preceding fiscal year from fines, penalties, and other funds obtained through enforcement actions conducted pursuant to this section (including funds obtained under consent decrees), the Secretary of the Treasury, subject to the availability of appropriations, shall—
+
+&emsp;(1) transfer 50 percent of such total amount to the account providing appropriations to the Secretary of Transportation for the administration of this chapter, which shall be used by the Secretary to support rulemaking under this chapter; and
+
+&emsp;(2) transfer 50 percent of such total amount to the account providing appropriations to the Secretary of Transportation for the administration of this chapter, which shall be used by the Secretary to carry out a program to make grants to manufacturers for retooling, reequipping, or expanding existing manufacturing facilities in the United States to produce advanced technology vehicles and components.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1072; Pub. L. 110–140, title I, §112, Dec. 19, 2007, 121 Stat. 1508.)
 
 Historical and Revision Notes
 
@@ -104,11 +112,19 @@ In this section, the words “whom the Secretary determines under subsection (a)
 
 In subsection (b), before clause (1)(A), the words “Except as provided in subsection (c) of this section” are added for clarity. The words “that violates a standard prescribed for a model year under section 32902 of this title” are substituted for “to have violated a provision of section 2007(a)(1) of this title with respect to any model year” and “to have violated section 2007(a)(2) of this title” to avoid referring, as in the source, to one provision that in turn refers to another provision. In clause (1), the words “calculated under” are substituted for “established under” for clarity. The reference to section 32904(a)(1)(A), which is a reference to the provision under which average fuel economy for nonpassenger automobiles is calculated, is added for clarity. The reference to section 32904(a)(1)(B), which is a reference to the provision under which average fuel economy for passenger automobiles is calculated, is substituted for the reference in the source to 15:2002(a) and (c), which is a reference to the provision under which the average fuel economy standard for those automobiles is established, for clarity. The words “in which the violation occurs” are omitted as surplus.
 
-In subsection (c)(1)(A), before clause (i), the words “shall prescribe by regulation” are substituted for “shall, by rule . . . substitute” for consistency in the revised title and because “rule” and “regulation” are synonymous. The words “in accordance with the provisions of this subsection and subsection (e)” are omitted as surplus. The words “be less than $5.00” are omittedas surplus because under the subsection the Secretary may only raise the amount imposed to $10, or a $5 increase. The words “in the absence of such rule” are omitted as surplus. The words “increase in the penalty” are substituted for “additional amount of the civil penalty” for clarity. In clause (ii), the words “subject to subparagraph (B)” are omitted as surplus.
+In subsection (c)(1)(A), before clause (i), the words “shall prescribe by regulation” are substituted for “shall, by rule . . . substitute” for consistency in the revised title and because “rule” and “regulation” are synonymous. The words “in accordance with the provisions of this subsection and subsection (e)” are omitted as surplus. The words “be less than $5.00” are omitted as surplus because under the subsection the Secretary may only raise the amount imposed to $10, or a $5 increase. The words “in the absence of such rule” are omitted as surplus. The words “increase in the penalty” are substituted for “additional amount of the civil penalty” for clarity. In clause (ii), the words “subject to subparagraph (B)” are omitted as surplus.
 
 In subsection (c)(1)(C), the words “the later of” and the text of 15:2008(d)(3)(A) are omitted as obsolete.
 
 In subsection (c)(2), before clause (A), the words “After the Secretary of Transportation develops a proposed rule pursuant to subsection (d) of this section” are omitted as surplus. In clause (B), the words “written comments or an oral presentation” are substituted for “written or oral presentations” for consistency in the section. The text of 15:2008(e)(1)(B) (last sentence) and (C) is omitted as surplus because of 5:556(d).
 
 In subsection (c)(5), before clause (A), the words “department, agency, or instrumentality” are substituted for “department or agency” for consistency in the revised title and with other titles of the United States Code.
+
+#### Amendments
+
+2007—Subsec. (e). Pub. L. 110–140 added subsec. (e).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

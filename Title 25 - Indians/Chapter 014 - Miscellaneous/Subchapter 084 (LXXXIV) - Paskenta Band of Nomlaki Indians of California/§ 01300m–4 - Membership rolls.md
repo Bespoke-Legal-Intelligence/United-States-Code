@@ -8,7 +8,7 @@ Within one year after November 2, 1994, the Secretary shall, after consultation 
 
 (1) Until a tribal constitution is adopted pursuant to section 1300m–6 of this title, an individual shall be placed on the membership roll if such individual is living, is not an enrolled member of another federally recognized Indian tribe, is of Nomlaki Indian ancestry, and if—
 
-&emsp;(A) such individual's name was listed on the Paskenta Indian Rancheria distribution roll compiled on February 26, 1959, by the Bureau of Indian Affairs and approved by the Secretary of the Interior on July 7, 1959, pursuant to Public Law 85–671;
+&emsp;(A) such individual's name was listed on the Paskenta Indian Rancheria distribution rollcompiled on February 26, 1959, by the Bureau of Indian Affairs and approved by the Secretary of the Interior on July 7, 1959, pursuant to Public Law 85–671;
 
 &emsp;(B) such individual was not listed on the Paskenta Indian Rancheria distribution list, but met the requirements that had to be met to be listed on the Paskenta Indian Rancheria list;
 

@@ -56,7 +56,17 @@
 
 #### (C) Treatment of terminations of qualified subchapter S subsidiary status
 
-&emsp;&emsp;For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the S corporation in exchange for its stock.
+#### (i) In general
+
+&emsp;&emsp;&emsp;For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the S corporation in exchange for its stock.
+
+#### (ii) Termination by reason of sale of stock
+
+&emsp;&emsp;&emsp;If the failure to meet the requirements of subparagraph (B) is by reason of the sale of stock of a corporation which is a qualified subchapter S subsidiary, the sale of such stock shall be treated as if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the sale were a sale of an undivided interest in the assets of such corporation (based on the percentage of the corporation's stock sold), and
+
+&emsp;&emsp;&emsp;&emsp;(II) the sale were followed by an acquisition by such corporation of all of its assets (and the assumption by such corporation of all of its liabilities) in a transaction to which section 351 applies.
 
 #### (D) Election after termination
 
@@ -284,7 +294,7 @@
 
 #### (2) Potential current beneficiary
 
-&emsp;For purposes of this section, the term “potential current beneficiary” means, with respect to any period, any person who at any time during such period is entitled to, or at the discretion of any person may receive, a distribution from the principal or income of the trust (determined without regard to any power of appointment to the extent such power remains unexercised at the end of such period). If a trust disposes of all of the stock which it holds in an S corporation, then, with respect to such corporation, the term “potential current beneficiary” does not include any person who first met the requirements of the preceding sentence during the 1-year period ending on the date of such disposition.
+&emsp;For purposes of this section, the term “potential current beneficiary” means, with respect to any period, any person who at any time during such period is entitled to, or at the discretion of any person may receive, a distribution from the principal or income of the trust (determined without regard to anypower of appointment to the extent such power remains unexercised at the end of such period). If a trust disposes of all of the stock which it holds in an S corporation, then, with respect to such corporation, the term “potential current beneficiary” does not include any person who first met the requirements of the preceding sentence during the 1-year period ending on the date of such disposition.
 
 #### (3) Election
 
@@ -294,7 +304,29 @@
 
 &emsp;&emsp;<b>For special treatment of electing small business trusts, see section 641(c).</b>
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641.)
+#### (f) Restricted bank director stock
+
+#### (1) In general
+
+&emsp;Restricted bank director stock shall not be taken into account as outstanding stock of the S corporation in applying this subchapter (other than section 1368(f)).
+
+#### (2) Restricted bank director stock
+
+&emsp;For purposes of this subsection, the term “restricted bank director stock” means stock in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)),<sup>1</sup> if such stock—
+
+&emsp;&emsp;(A) is required to be held by an individual under applicable Federal or State law in order to permit such individual to serve as a director, and
+
+&emsp;&emsp;(B) is subject to an agreement with such bank or company (or a corporation which controls (within the meaning of section 368(c)) such bank or company) pursuant to which the holder is required to sell back such stock (at the same price as the individual acquired such stock) upon ceasing to hold the office of director.
+
+#### (3) Cross reference
+
+&emsp;&emsp;<b>For treatment of certain distributions with respect to restricted bank director stock, see section 1368(f).</b>
+
+#### (g) Special rule for bank required to change from the reserve method of accounting on becoming S corporation
+
+In the case of a bank which changes from the reserve method of accounting for bad debts described in section 585 or 593 for its first taxable year for which an election under section 1362(a) is in effect, the bank may elect to take into account any adjustments under section 481 by reason of such change for the taxable year immediately preceding such first taxable year.
+
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198.)
 
 #### References in Text
 
@@ -302,9 +334,15 @@ The date of the enactment of this clause, referred to in subsec. (c)(2)(A)(vi), 
 
 #### Prior Provisions
 
-A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962, Pub. L. 87–792, §7(h), 76 Stat. 829;Feb. 26, 1964, Pub. L. 88–272, title II, §225(k)(5), 78 Stat. 94; Apr. 14, 1966, Pub. L. 89–389, §4(a), 80 Stat. 115, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
+A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962, Pub. L. 87–792, §7(h), 76 Stat. 829; Feb. 26, 1964, Pub. L. 88–272, title II, §225(k)(5), 78 Stat. 94; Apr. 14, 1966, Pub. L. 89–389, §4(a), 80 Stat. 115, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
 
 #### Amendments
+
+2007—Subsec. (b)(3)(C). Pub. L. 110–28, §8234(a), designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
+
+Subsec. (f). Pub. L. 110–28, §8232(a), added subsec. (f).
+
+Subsec. (g). Pub. L. 110–28, §8233(a), added subsec. (g).
 
 2005—Subsec. (b)(3)(A). Pub. L. 109–135, §413(c)(1), struck out “and in the case of information returns required under part III of subchapter A of chapter 61” after “Secretary”.
 
@@ -398,7 +436,23 @@ Subsec. (d)(2)(D). Pub. L. 98–369, §721(f)(1), substituted “15 days and 2 m
 
 Subsec. (d)(3). Pub. L. 98–369, §721(f)(2), in amending par. (3) generally, redesignated subpar. (C) as (A), substituted a period for “, and” at end of subpar. (B), and struck out former subpar. (A) which read “which owns stock in 1 or more S corporations”.
 
-Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions assubpar. (A), inserted “Failure to meet requirements of paragraph (3)(A)” as subpar. (A) heading, substituted “of paragraph (3)(A)” for “under paragraph (3)”, and added subpar. (B).
+Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions as subpar. (A), inserted “Failure to meet requirements of paragraph (3)(A)” as subpar. (A) heading, substituted “of paragraph (3)(A)” for “under paragraph (3)”, and added subpar. (B).
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–28, title VIII, §8232(c), May 25, 2007, 121 Stat. 198, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and section 1368 of this title\] shall apply to taxable years beginning after December 31, 2006.
+
+“(2)
+
+Special rule for treatment as second class of stock.—In the case of any taxable year beginning after December 31, 1996, restricted bank director stock (as defined in section 1361(f) of the Internal Revenue Code of 1986, as added by this section) shall not be taken into account in determining whether an S corporation has more than 1 class of stock.”
+
+Pub. L. 110–28, title VIII, §8233(b), May 25, 2007, 121 Stat. 198, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
+
+Pub. L. 110–28, title VIII, §8234(b), May 25, 2007, 121 Stat. 199, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
 
 #### Effective Date of 2005 Amendment
 
@@ -496,7 +550,7 @@ Amendment made by subsection (t).—If—
 
 #### Effective Date
 
-Section 6 of Pub. L. 97–354, as amended by Pub. L. 97–448, title III, §305(d)(1)(A), Jan. 12, 1983, 96 Stat. 2399;Pub. L. 98–369, div. A, title VII, §721(i), (k), July 18, 1984, 98 Stat. 969; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Section 6 of Pub. L. 97–354, as amended by Pub. L. 97–448, title III, §305(d)(1)(A), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, §721(i), (k), July 18, 1984, 98 Stat. 969; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -616,7 +670,7 @@ Treatment of Existing Fringe Benefit Plans.—
 
 &emsp;“(1)
 
-In general.—In the case of existing fringe benefits of a corporation which as of September 28, 1982, was an electing small business corporation, section1372 of the Internal Revenue Code of 1986 (as added by this Act \[Pub. L. 97–354\]) shall apply only with respect to taxable years beginning after December 31, 1987.
+In general.—In the case of existing fringe benefits of a corporation which as of September 28, 1982, was an electing small business corporation, section 1372 of the Internal Revenue Code of 1986 (as added by this Act \[Pub. L. 97–354\]) shall apply only with respect to taxable years beginning after December 31, 1987.
 
 &emsp;“(2)
 
@@ -630,7 +684,7 @@ Requirements.—This subsection shall cease to apply with respect to any corpora
 
 &emsp;“(3)
 
-Existing fringe benefit.—For purposes of this subsection, the term ‘existing fringe benefit’ means any employee fringe benefit of a type which the corporation provided to its employees as of September 28, 1982.
+Existing fringe benefit.—For purposes of this subsection, the term ‘existing fringe benefit’ meansany employee fringe benefit of a type which the corporation provided to its employees as of September 28, 1982.
 
 “(e)
 
@@ -639,6 +693,16 @@ Treatment of Certain Elections Under Prior Law.—For purposes of section 1362(g
 “(f)
 
 Taxable Year of S Corporations.—Section 1378 of the Internal Revenue Code of 1986 (as added by this Act \[Pub. L. 97–354\]) shall take effect on the day after the date of the enactment of this Act \[Oct. 19, 1982\]. For purposes of applying such section, the reference in subsection (a)(2) of such section to an election under section 1362(a) shall include a reference to an election under section 1372(a) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 19, 1982\].”
+
+#### Elimination of all Earnings and Profits Attributable to Pre-1983 Years for Certain Corporations
+
+Pub. L. 110–28, title VIII, §8235, May 25, 2007, 121 Stat. 199, provided that: “In the case of a corporation which is—
+
+&emsp;“(1) described in section 1311(a)(1) of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188, set out below\], and
+
+&emsp;“(2) not described in section 1311(a)(2) of such Act,
+
+> the amount of such corporation's accumulated earnings and profits (for the first taxable year beginning after the date of the enactment of this Act \[May 25, 2007\]) shall be reduced by an amount equal to the portion (if any) of such accumulated earnings and profits which were accumulated in any taxable year beginning before January 1, 1983, for which such corporation was an electing small business corporation under subchapter S of the Internal Revenue Code of 1986.”
 
 #### Elimination of Certain Earnings and Profits
 
@@ -663,4 +727,6 @@ Pub. L. 97–448, title III, §305(d)(1)(B), Jan. 12, 1983, 96 Stat. 2399, as am
 &emsp;“(ii) such corporation is liquidated under section 333 of such Code before March 1, 1983,
 
 > then such stock or securities shall not be taken into account under section 333(e)(2) of such Code.”
+
+<i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

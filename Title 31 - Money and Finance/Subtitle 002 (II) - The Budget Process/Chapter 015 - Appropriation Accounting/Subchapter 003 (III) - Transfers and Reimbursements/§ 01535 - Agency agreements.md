@@ -10,7 +10,7 @@
 
 &emsp;(4) the head of the agency decides ordered goods or services cannot be provided by contract as conveniently or cheaply by a commercial enterprise.
 
-(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment of amounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
+(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment ofamounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
 
 (c) A condition or limitation applicable to amounts for procurement of an agency or unit placing an order or making a contract under this section applies to the placing of the order or the making of the contract.
 
@@ -118,7 +118,7 @@ May 21, 1920, ch. 194, 41 Stat. 607, §7(a) (last sentence); added Oct. 15, 1982
 
 Subsec. (a)(4). Pub. L. 98–216, §1(2)(B), inserted “by contract” after “provided”.
 
-Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling the order might be able to provide or procure by contract, was struck out.
+Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling theorder might be able to provide or procure by contract, was struck out.
 
 #### Review and Enhancement of Existing Authorities for Using Air Force and Air National Guard Modular Airborne Fire-Fighting Systems and Other Department of Defense Assets To Fight Wildfires
 
@@ -174,7 +174,7 @@ Pub. L. 103–160, div. A, title VIII, §844, Nov. 30, 1993, 107 Stat. 1720, dir
 
 Pub. L. 101–163, title I, §8, Nov. 21, 1989, 103 Stat. 1046, provided that:
 
-“(1) The Secretary of the Senate and the Sergeant at Arms and Doorkeeper of the Senate are authorized to acquire goods, services, or space from government agencies and units by agreement under the provisionsof the Economy Act, 31 U.S.C. 1535, and to make advance payments in conjunction therewith, if required by the providing agency or establishment.
+“(1) The Secretary of the Senate and the Sergeant at Arms and Doorkeeper of the Senate are authorized to acquire goods, services, or space from government agencies and units by agreement under the provisions of the Economy Act, 31 U.S.C. 1535, and to make advance payments in conjunction therewith, if required by the providing agency or establishment.
 
 “(2) No advance payment may be made under paragraph (1) unless specifically provided for in the agreement. No agreement providing for advance payment may be entered into unless it contains a provision requiring the refund of any unobligated balance of the advance.
 

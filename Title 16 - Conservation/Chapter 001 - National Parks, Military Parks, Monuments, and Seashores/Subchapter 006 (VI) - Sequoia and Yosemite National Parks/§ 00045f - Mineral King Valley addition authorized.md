@@ -4,7 +4,7 @@
 
 It is the purpose of this section to—
 
-&emsp;(1) assure the preservation for this and future generations of the outstanding naturaland scenic features of the area commonly known as the Mineral King Valley and previously designated as the Sequoia National Game Refuge; and
+&emsp;(1) assure the preservation for this and future generations of the outstanding natural and scenic features of the area commonly known as the Mineral King Valley and previously designated as the Sequoia National Game Refuge; and
 
 &emsp;(2) enhance the ecological values and public enjoyment of such area by adding such area to the Sequoia National Park.
 
@@ -28,7 +28,7 @@ It is the purpose of this section to—
 
 (6) If the management plan prepared under subsection (e) of this section provides for improved access to the area added to the park under this section, the Secretary is authorized to acquire, by donation, purchase with donated or appropriated funds, exchange or transfer from other Federal departments or agencies, the area comprising the road from State Route 198 to, and within, the Mineral King Valley together with a right-of-way for such road of a width sufficient to include improvements to the road and all bridges, ditches, cuts, and fills appurtenant thereto, but not exceeding a maximum average width of two hundred feet. Property acquired from the State or any political subdivision thereof may be acquired by donation only. With regard to routes of access to and within the Mineral King Valley, the Secretary shall take such measures as are necessary to protect against the effects of siltation on the ecosystem of the park.
 
-(7) The Secretary shall report to the committees of the Congress named in subsection (b)(1)of this section the action taken by him pursuant to this subsection. Such report shall contain information sufficient to inform such committees of—
+(7) The Secretary shall report to the committees of the Congress named in subsection (b)(1) of this section the action taken by him pursuant to this subsection. Such report shall contain information sufficient to inform such committees of—
 
 &emsp;(A) the acquisitions made by him pursuant to this subsection during the period covered by such report;
 
@@ -90,7 +90,7 @@ Subsec. (d)(2)(B). Pub. L. 108–447, §139(b)(2), inserted “and to their heir
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### “Secretary” Defined
 

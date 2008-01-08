@@ -22,7 +22,7 @@
 
 #### (B) Allocations to large and small local educational agencies
 
-&emsp;&emsp;(i) For any fiscal year to which this paragraph applies, the Secretary shall calculategrants under this section for each local educational agency.
+&emsp;&emsp;(i) For any fiscal year to which this paragraph applies, the Secretary shall calculate grants under this section for each local educational agency.
 
 &emsp;&emsp;(ii) The amount of a grant under this section for each large local educational agency shall be the amount determined under clause (i).
 
@@ -114,7 +114,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 &emsp;The number of children to be counted for purposes of this section is the aggregate of—
 
-&emsp;&emsp;(A) the number of children aged 5 to 17, inclusive, in the school district of the localeducational agency from families below the poverty level as determined under paragraph (2);
+&emsp;&emsp;(A) the number of children aged 5 to 17, inclusive, in the school district of the local educational agency from families below the poverty level as determined under paragraph (2);
 
 &emsp;&emsp;(B) the number of children (determined under paragraph (4) for either the preceding year as described in that paragraph, or for the second preceding year, as the Secretary finds appropriate) aged 5 to 17, inclusive, in the school district of such agency in institutions for neglected and delinquent children (other than such institutions operated by the United States), but not counted pursuant to subpart 1 of part D of this subchapter for the purposes of a grant to a State agency, or being supported in foster homes with public funds; and
 
@@ -150,7 +150,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (5) Estimate
 
-&emsp;When requested by the Secretary, the Secretary of Commerce shall make a special updated estimate of the number of children of such ages who are from families below the poverty level (as determined under paragraph (1)(A)) in each school district, and the Secretary is authorized to pay (either in advance or by way of reimbursement) the Secretary of Commerce the cost of making this special estimate. The Secretary of Commerce shall give consideration to any request of the chief executive of a State for the collection of additional census information.
+&emsp;When requested by the Secretary, the Secretary of Commerce shall make a special updated estimate of the number of children of such ages who are from families below the poverty level (as determined under paragraph (1)(A)) in each school district, and the Secretary is authorized to pay (either in advance or by way of reimbursement) the Secretary ofCommerce the cost of making this special estimate. The Secretary of Commerce shall give consideration to any request of the chief executive of a State for the collection of additional census information.
 
 #### (d) State minimum
 

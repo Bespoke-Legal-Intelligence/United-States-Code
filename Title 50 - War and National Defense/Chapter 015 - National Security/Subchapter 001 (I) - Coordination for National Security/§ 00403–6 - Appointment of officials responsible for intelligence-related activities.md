@@ -12,7 +12,7 @@
 
 #### (b) Concurrence of DNI in appointments to positions in the intelligence community
 
-(1) In the event of a vacancy in a position referred to in paragraph (2), the head of the department or agency having jurisdiction over the position shall obtain the concurrence of the Director of National Intelligence before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy. If the Director does not concur in the recommendation, the head of the department or agency concerned may not fill the vacancy or make the recommendation to the President (as the case may be). In the case in which the Director does not concur in such a recommendation, the Director and the head of the department or agency concerned may advisethe President directly of the intention to withhold concurrence or to make a recommendation, as the case may be.
+(1) In the event of a vacancy in a position referred to in paragraph (2), the head of the department or agency having jurisdiction over the position shall obtain the concurrence of the Director of National Intelligence before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy. If the Director does not concur in the recommendation, the head of the department or agency concerned may not fill the vacancy or make the recommendation to the President (as the case may be). In the case in which the Director does not concur in such a recommendation, the Director and the head of the department or agency concerned may advise the President directly of the intention to withhold concurrence or to make a recommendation, as the case may be.
 
 (2) Paragraph (1) applies to the following positions:
 
@@ -32,7 +32,7 @@
 
 &emsp;(H) The Executive Assistant Director for Intelligence of the Federal Bureau of Investigation or any successor to that position.
 
-&emsp;(I) The Assistant Secretary of Homeland Security for Information Analysis.
+&emsp;(I) The Under Secretary of Homeland Security for Intelligence and Analysis.
 
 #### (c) Consultation with DNI in certain positions
 
@@ -46,9 +46,11 @@
 
 &emsp;(C) The Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28.
 
-(July 26, 1947, ch. 343, title I, §106, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3195; amended Pub. L. 103–359, title V, §501(a)(3), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–293, title VIII, §815(a), Oct. 11, 1996, 110 Stat. 3484; Pub. L. 107–108, title III, §308, Dec. 28, 2001, 115 Stat. 1399; Pub. L. 108–136, div. A, title IX, §921(e)(5), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title I, §105(c), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 108–458, title I, §1014, Dec. 17, 2004, 118 Stat. 3663; Pub. L. 109–177, title V, §506(a)(4), Mar. 9, 2006, 120 Stat. 247.)
+(July 26, 1947, ch. 343, title I, §106, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3195; amended Pub. L. 103–359, title V, §501(a)(3), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–293, title VIII, §815(a), Oct. 11, 1996, 110 Stat. 3484; Pub. L. 107–108, title III, §308, Dec. 28, 2001, 115 Stat. 1399; Pub. L. 108–136, div. A, title IX, §921(e)(5), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title I, §105(c), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 108–458, title I, §1014, Dec. 17, 2004, 118 Stat. 3663; Pub. L. 109–177, title V, §506(a)(4), Mar. 9, 2006, 120 Stat. 247; Pub. L. 110–53, title V, §531(b)(5), Aug. 3, 2007, 121 Stat. 334.)
 
 #### Amendments
+
+2007—Subsec. (b)(2)(I). Pub. L. 110–53 amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “The Assistant Secretary of Homeland Security for Information Analysis.”
 
 2006—Subsec. (c)(2)(C). Pub. L. 109–177 added subpar. (C).
 
@@ -68,5 +70,5 @@ Subsec. (b)(2)(E). Pub. L. 108–177 added subpar. (E).
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L.108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

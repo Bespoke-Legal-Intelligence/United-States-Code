@@ -66,11 +66,11 @@ If the aggregate fair market value of all the invested assets and tangible prope
 
 #### (A) In general
 
-&emsp;&emsp;No income, war profits, or excess profits taxes paid or accrued to any foreign countryor possession of the United States which is attributable to income excluded under subsection (a) shall be taken into account for purposes of subpart A of part III of subchapter N (relating to foreign tax credit) or allowable as a deduction.
+&emsp;&emsp;No income, war profits, or excess profits taxes paid or accrued to any foreign country or possession of the United States which is attributable to income excluded under subsection (a) shall be taken into account for purposes of subpart A of part III of subchapter N (relating to foreign tax credit) or allowable as a deduction.
 
 #### (B) Treatment of repatriated amounts
 
-&emsp;&emsp;For purposes of sections 78 and 902, where any amount is added to the life insurance company taxable income of the domestic life insurance company by reason of subsection (e)(2), the contiguous country life insurance branch shall be treated as a foreign corporation. Any amount so added shall be treated as a dividend paid by a foreign corporation, and the taxes paid to any foreign country or possession of the United States with respect to such amount shall be deemed to have been paid by such branch.
+&emsp;&emsp;For purposes of sections 78 and 902, where any amount is added to the life insurancecompany taxable income of the domestic life insurance company by reason of subsection (e)(2), the contiguous country life insurance branch shall be treated as a foreign corporation. Any amount so added shall be treated as a dividend paid by a foreign corporation, and the taxes paid to any foreign country or possession of the United States with respect to such amount shall be deemed to have been paid by such branch.
 
 #### (2) United States source income allocable to contiguous country branch
 

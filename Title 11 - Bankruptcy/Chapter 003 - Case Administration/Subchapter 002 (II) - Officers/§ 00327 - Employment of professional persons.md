@@ -26,7 +26,7 @@ Section 327(f) prevents an examiner from being employed by the trustee.
 
 #### senate report no. 95–989
 
-This section authorizes the trustee, subject to the court's approval, to employ professional persons, such as attorneys, accountants, appraisers, and auctioneers, to represent or perform services for the estate. Thetrustee may employ only disinterested persons that do not hold or represent an interest adverse to the estate.
+This section authorizes the trustee, subject to the court's approval, to employ professional persons, such as attorneys, accountants, appraisers, and auctioneers, to represent or perform services for the estate. The trustee may employ only disinterested persons that do not hold or represent an interest adverse to the estate.
 
 Subsection (b) is an exception, and authorizes the trustee to retain or replace professional persons that the debtor has employed if necessary in the operation of the debtor's business.
 

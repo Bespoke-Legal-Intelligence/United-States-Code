@@ -326,7 +326,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Short Title of 1996 Amendment
 
-Section 571 of div. C of Pub. L. 104–208 provided that: “This subtitle \[subtitle E (§§571–577) of title V of div. Cof Pub. L. 104–208, amending this section and enacting provisions set out as a note below\] may be cited as the ‘Use of Assisted Housing by Aliens Act of 1996’.”
+Section 571 of div. C of Pub. L. 104–208 provided that: “This subtitle \[subtitle E (§§571–577) of title V of div. C of Pub. L. 104–208, amending this section and enacting provisions set out as a note below\] may be cited as the ‘Use of Assisted Housing by Aliens Act of 1996’.”
 
 #### Regulations
 

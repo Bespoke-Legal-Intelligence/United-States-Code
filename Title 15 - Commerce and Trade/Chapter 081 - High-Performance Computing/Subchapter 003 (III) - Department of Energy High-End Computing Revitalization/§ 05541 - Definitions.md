@@ -12,7 +12,7 @@ In this subchapter:
 
 #### (3) Leadership System
 
-&emsp;The term “Leadership System” means a high-end computing system that is among themost advanced in the world in terms of performance in solving scientific and engineering problems.
+&emsp;The term “Leadership System” means a high-end computing system that is among the most advanced in the world in terms of performance in solving scientific and engineering problems.
 
 #### (4) Institution of higher education
 

@@ -38,7 +38,7 @@ The Secretary shall establish the National Customs Automation Program (hereinaft
 
 #### (b) Participation in Program
 
-The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) of this section or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
+The Secretary shall by regulation prescribe the eligibility criteria for participation in theProgram. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) of this section or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
 
 #### (c) Foreign-trade zones
 
@@ -106,7 +106,7 @@ Not later than January 1, 2000, the Secretary shall provide for the inclusion of
 
 #### (5) Sense of Congress
 
-&emsp;It is the sense of Congress that agency participation in the ITDS is an important priority of the Federal Government and that the Secretary shall coordinate the operation of the ITDS closely among the participating agencies and the office within the United States Customs and Border Protection that is responsible for maintaining the ITDS.
+&emsp;It is the sense of Congress that agency participation in the ITDS is an important priority of the Federal Government and that the Secretary shall coordinate the operation of the ITDS closely among the participating agencies and the office within the UnitedStates Customs and Border Protection that is responsible for maintaining the ITDS.
 
 #### (6) Construction
 
@@ -132,7 +132,7 @@ Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided,see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Transfer of Functions
 

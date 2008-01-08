@@ -20,7 +20,7 @@
 
 &emsp;(B) the rate payable for level V of the Executive Schedule in effect at the end of such calendar year.
 
-(c) The Office of Personnel Management shall prescribe regulations governing the methods of applying subsection (b)(2) and (b)(3) to employees who receive premium pay under section 5545(c) or 5545a, or to firefighters covered by section 5545b who receive overtime pay for hours in their regular tour of duty, and the method of payment to such employees. Such regulations may limit the payment of such premium pay on a biweekly basis.
+(c) The Office of Personnel Management shall prescribe regulations governing the methods of applying subsection (b)(2) and (b)(3) to employees who receive premium pay under section 5545(c) or 5545a, or to firefighters covered by section 5545b who receive overtime pay for hours in their regular tour of duty, and the method of payment to such employees. Such regulationsmay limit the payment of such premium pay on a biweekly basis.
 
 (d) This section shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a.
 
@@ -70,7 +70,7 @@ Level V of the Executive Schedule, referred to in subsecs. (a)(2) and (b)(2)(B),
 
 2001—Pub. L. 107–107 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
-“(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, and 5546(a) and\(b) of this title only to the extent that the payment does not cause his aggregate rate of pay for any pay period to exceed the maximum rate for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law). The first sentence of this subsection shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a of this title.
+“(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, and 5546(a) and (b) of this title only to the extent that the payment does not cause his aggregate rate of pay for any pay period to exceed the maximum rate for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law). The first sentence of this subsection shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a of this title.
 
 “(b)(1) Subject to regulations prescribed by the Office of Personnel Management, the first sentence of subsection (a) shall not apply to an employee who is paid premium pay by reason of work in connection with an emergency which involves a direct threat to life or property, including a forest wildfire emergency.
 
@@ -106,7 +106,7 @@ Pub. L. 107–107, div. A, title XI, §1114(c), Dec. 28, 2001, 115 Stat. 1240, p
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–329 effective first day of first applicable pay period beginning on or after 30th day following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, set out as an Effective Date note under section 5545a of this title.
+Amendment by Pub. L. 103–329 effective first day of first applicable pay period beginning on or after 30thday following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, set out as an Effective Date note under section 5545a of this title.
 
 #### Effective Date of 1992 Amendment
 

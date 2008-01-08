@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;Amounts in any capital construction fund shall be kept in the depository or depositoriesspecified in the agreement and shall be subject to such trustee and other fiduciary requirements as may be specified by the Secretary.
+&emsp;Amounts in any capital construction fund shall be kept in the depository or depositories specified in the agreement and shall be subject to such trustee and other fiduciary requirements as may be specified by the Secretary.
 
 #### (2) Limitation on fund investments
 
@@ -46,7 +46,7 @@
 
 &emsp;For purposes of this title—
 
-&emsp;&emsp;(A) taxable income (determined without regard to this section and chapter 535 of title 46, United States Code) for the taxable year shall be reduced by an amount equal to the amount deposited for the taxable year out of amounts referred to in subsection (a)(1)(A),
+&emsp;&emsp;(A) taxable income (determined without regard to this section and chapter 535 of title46, United States Code) for the taxable year shall be reduced by an amount equal to the amount deposited for the taxable year out of amounts referred to in subsection (a)(1)(A),
 
 &emsp;&emsp;(B) gain from a transaction referred to in subsection (a)(1)(C) shall not be taken into account if an amount equal to the net proceeds (as defined in joint regulations) from such transaction is deposited in the fund,
 
@@ -288,7 +288,7 @@ Under joint regulations—
 
 #### (i) Definitions
 
-For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of “Secretary”) shall have themeaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
+For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
 
 (Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758; Pub. L. 109–304, §17(e)(6), Oct. 6, 2006, 120 Stat. 1708.)
 
@@ -298,7 +298,7 @@ For purposes of this section, any term defined in section 607(k) of the Merchant
 
 #### References in Text
 
-Section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969, referred to in subsec. (g)(3)(C)(iii), was section 606(5) of act June 29, 1936, title VI, ch. 858, 49 Stat. 2004, as amended by acts June 23, 1938, ch. 600, §22, 52 Stat. 960; July 17, 1952, ch. 939, §16, 66 Stat. 764; and May 10, 1956, ch. 247, §1, 70 Stat. 148, which was classified to section 1176(5) of former Title 46, Shipping, and was repealed by Pub. L. 91–469, §20(4), Oct. 21, 1970, 84 Stat. 1026. Section 606 of the Merchant Marine Act, 1936 was subsequently transferred to section 1176 of the former Appendix to Title 46 and is now set out as a note under section 53101 of Title 46, Shipping.
+Section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969, referred to in subsec. (g)(3)(C)(iii), was section 606(5) of act June 29, 1936, ch. 858, title VI, 49 Stat. 2004, as amended by acts June 23, 1938, ch. 600, §22, 52 Stat. 960; July 17, 1952, ch. 939, §16, 66 Stat. 764; and May 10, 1956, ch. 247, §1, 70 Stat. 148, which was classified to section 1176(5) of former Title 46, Shipping, and was repealed by Pub. L. 91–469, §20(4), Oct. 21, 1970, 84 Stat. 1026. Section 606 of the Merchant Marine Act, 1936 was subsequently transferred to section 1176 of the former Appendix to Title 46 and is now set out as a note under section 53101 of Title 46, Shipping.
 
 Section 607(k) of the Merchant Marine Act, 1936, referred to in subsec. (i), was classified to section 1177(k) of the former Appendix to Title 46, Shipping, and was repealed and partially restated in section 53501 of Title 46, Shipping, by Pub. L. 109–304, §§8(c), 19, Oct. 6, 2006, 120 Stat. 1586, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
 

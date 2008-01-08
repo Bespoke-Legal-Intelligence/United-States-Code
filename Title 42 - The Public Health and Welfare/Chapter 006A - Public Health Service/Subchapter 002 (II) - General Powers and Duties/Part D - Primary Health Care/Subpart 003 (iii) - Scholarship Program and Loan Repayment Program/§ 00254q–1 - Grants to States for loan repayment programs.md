@@ -4,7 +4,7 @@
 
 #### (1) Authority for grants
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health care services in health professional shortage areas. The National Advisory Council established under section 254j of this title shall advise the Administrator regarding the program under this section.
+&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availabilityof primary health care services in health professional shortage areas. The National Advisory Council established under section 254j of this title shall advise the Administrator regarding the program under this section.
 
 #### (2) Loan repayment programs
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(i) the excess of such annual payments above the maximum amount authorized in section 254<i>l</i>–1(g)(2)(A) of this title for annual payments regarding contracts is paid solely from non-Federal contributions under subsection (b) of this section; and
 
-&emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under thecontract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254<i>l</i> of this title.
+&emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under the contract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254<i>l</i> of this title.
 
 #### (d) Restrictions on use of funds
 

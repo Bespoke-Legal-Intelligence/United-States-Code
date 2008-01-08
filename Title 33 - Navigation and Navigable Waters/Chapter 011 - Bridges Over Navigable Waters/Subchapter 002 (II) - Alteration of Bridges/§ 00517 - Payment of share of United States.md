@@ -14,7 +14,7 @@ Following service of the order requiring alteration of the bridge, the Secretary
 
 #### Transfer of Functions
 
-Section 6(g)(3) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army \[formerly War\] and other officers and offices of Department of the Army \[formerly War\] relating to obstructive bridges under this subchapter to Secretary of Transportation. Pub. L. 97–449 amended this section to reflecttransfer made by section 6(g)(3) of Pub. L. 89–670, and repealed section 6(g)(3).
+Section 6(g)(3) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army \[formerly War\] and other officers and offices of Department of the Army \[formerly War\] relating to obstructive bridges under this subchapter to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(3) of Pub. L. 89–670, and repealed section 6(g)(3).
 
 “Fiscal Service” substituted in text for “Division of Disbursement” on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into Fiscal Service of Department of the Treasury. See section 306 of Title 31, Money and Finance.
 

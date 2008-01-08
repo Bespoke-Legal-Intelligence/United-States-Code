@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall not permit the election under section 1395w–21 of this title of aMedicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
+The Secretary shall not permit the election under section 1395w–21 of this title of a Medicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
 
 #### (b) Minimum enrollment requirements
 
@@ -88,7 +88,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;&emsp;&emsp;(I) any sale or exchange, or leasing of any property between the organization and a party in interest;
 
-&emsp;&emsp;&emsp;&emsp;(II) any furnishing for consideration of goods, services (including management services), or facilities between the organization and a party in interest, but not including salaries paid to employees for services provided in the normal course of their employment and health services provided to members by hospitals and other providers and by staff, medical group (or groups), individual practice association (or associations), or any combination thereof; and
+&emsp;&emsp;&emsp;&emsp;(II) any furnishing for consideration of goods, services (including management services), or facilities between the organization and a party in interest, but not including salaries paid to employees for services provided in the normal course of their employment and health services provided to members by hospitals and other providers and by staff, medicalgroup (or groups), individual practice association (or associations), or any combination thereof; and
 
 &emsp;&emsp;&emsp;&emsp;(III) any lending of money or other extension of credit between an organization and a party in interest.
 
@@ -140,7 +140,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (C) Authorization of appropriations
 
-&emsp;&emsp;There are authorized to be appropriated for the purposes described in subparagraph (B) for each fiscal year beginning with fiscal year 2001 and ending with fiscal year 2005 an amount equal to $100,000,000, and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000, reduced by theamount of fees authorized to be collected under this paragraph and section 1395w–112(b)(3)(D) of this title for the fiscal year.
+&emsp;&emsp;There are authorized to be appropriated for the purposes described in subparagraph (B) for each fiscal year beginning with fiscal year 2001 and ending with fiscal year 2005 an amount equal to $100,000,000, and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000, reduced by the amount of fees authorized to be collected under this paragraph and section 1395w–112(b)(3)(D) of this title for the fiscal year.
 
 #### (D) Limitation
 
@@ -224,7 +224,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;The remedies described in this paragraph are—
 
-&emsp;&emsp;(A) civil money penalties of not more than $25,000 for each determination under paragraph (1) or, with respect to a determination under subparagraph (D) or (E)(i) of such paragraph, of not more than $100,000 for each such determination, plus, with respect to a determination under paragraph (1)(B), double the excess amount charged in violation of such paragraph (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned), and plus, with respect to a determination under paragraph (1)(D), $15,000 for each individual not enrolled as a result of the practice involved,
+&emsp;&emsp;(A) civil money penalties of not more than $25,000 for each determination under paragraph (1) or, with respect to a determination under subparagraph (D) or (E)(i) of such paragraph, of not more than $100,000 for each such determination, plus, with respect to adetermination under paragraph (1)(B), double the excess amount charged in violation of such paragraph (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned), and plus, with respect to a determination under paragraph (1)(D), $15,000 for each individual not enrolled as a result of the practice involved,
 
 &emsp;&emsp;(B) suspension of enrollment of individuals under this part after the date the Secretary notifies the organization of a determination under paragraph (1) and until the Secretary is satisfied that the basis for such determination has been corrected and is not likely to recur, or
 
@@ -270,7 +270,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title, an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (<i>l</i>)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (<i>l</i>)(3)(C), 237(c),title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372.)
 
 #### References in Text
 
@@ -338,7 +338,7 @@ Amendment by section 237(c) of Pub. L. 108–173 applicable to services provided
 
 Pub. L. 106–554, §1(a)(6) \[title VI, §617(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–562, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to years beginning with 2001.”
 
-Pub. L. 106–554, §1(a)(6) \[title VI, §623(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–566, provided that: “Theamendment made by subsection (a) \[amending this section\] shall apply to terminations occurring after the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(6) \[title VI, §623(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–566, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to terminations occurring after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1999 Amendment
 

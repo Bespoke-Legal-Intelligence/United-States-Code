@@ -20,7 +20,7 @@
 
 (b) The Secretary shall maintain the five grade levels for nurses employed by the Department under section 7401(1) of this title as specified in the Nurse Schedule in section 7404(b) of this title. The Secretary shall, pursuant to regulations prescribed to carry out this subchapter, establish grades for other covered positions as the Secretary considers appropriate.
 
-(c)(1) For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade to a rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under the preceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g),<sup>1</sup> provide justification for doing so to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
+(c)(1) For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133 percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade toa rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under the preceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g),<sup>1</sup> provide justification for doing so to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
 
 (2) The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level V of the Executive Schedule under section 5316 of title 5.
 
@@ -38,9 +38,9 @@
 
 (B) In the case of a Department health-care facility located in an area for which the Bureau of Labor Statistics does not have current information on compensation for corresponding health-care professionals for the labor-market area of that facility for any covered position, the director of that facility shall conduct a survey in accordance with this subparagraph and shall adjust the amount of the minimum rate of basic pay for grades in that covered position at that facility based upon that survey. To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence. Any such survey shall be conducted in accordance with regulations prescribed by the Secretary. Those regulations shall be developed in consultation with the Secretary of Labor in order to ensure that the director of a facility collects information that is valid and reliable and is consistent with standards of the Bureau. The survey should be conducted using methodology comparable to that used by the Bureau in making industry-wage surveys except to the extent determined infeasible by the Secretary. To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include the collection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section. Upon conducting a survey under this subparagraph, the director concerned shall determine, not later than 30 days after the date on which the collection of information through the survey is completed or published, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
 
-(C)(i) A director of a Department health-care facility may use data on the compensation paid to certified registered nurse anesthetists whoare employed on a salary basis by entities that provide anesthesia services through certified registered nurse anesthetists in the labor-market area only if the director—
+(C)(i) A director of a Department health-care facility may use data on the compensation paid to certified registered nurse anesthetists who are employed on a salary basis by entities that provide anesthesia services through certified registered nurse anesthetists in the labor-market area only if the director—
 
-&emsp;(I) has conducted a survey of compensation for certified registered nurse anesthetists in the local labor-market area of the facility under subparagraph (B);
+&emsp;(I) has conducted a survey of compensation for certified registered nurse anesthetists inthe local labor-market area of the facility under subparagraph (B);
 
 &emsp;(II) has used all available administrative authority with regard to collection of survey data; and
 
@@ -82,7 +82,7 @@
 
 &emsp;(D) In any case in which the director, after finding that there is, or is likely to be, in accordance with criteria established by the Secretary, a significant pay-related staffing problem at that facility for any covered position, determines not to conduct a wage survey with respect to that position, a statement of the reasons why the director did not conduct such a survey.
 
-(5) Not later than September 30 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on staffing for covered positions at Department health care facilities. Each such report shall include the following:
+(5) Not later than September 30 of each year, the Secretary shall submit to the Committeeson Veterans’ Affairs of the Senate and House of Representatives a report on staffing for covered positions at Department health care facilities. Each such report shall include the following:
 
 &emsp;(A) A summary and analysis of the information contained in the most recent reports submitted by facility directors under paragraph (4).
 
@@ -136,7 +136,7 @@ Subsec. (g)(1). Pub. L. 103–446, §1201(c)(7), substituted “Under Secretary 
 
 1992—Subsec. (a)(2)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-Subsec. (a)(3). Pub. L. 102–585, §302, designated existing provisions as subpar. (A), substituted “Except asprovided in subparagraph (B), the rates” for “The rates”, and added subpar. (B).
+Subsec. (a)(3). Pub. L. 102–585, §302, designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the rates” for “The rates”, and added subpar. (B).
 
 Subsec. (a)(4). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -236,7 +236,7 @@ Pub. L. 107–135, title I, §103, Jan. 23, 2002, 115 Stat. 2450, required the S
 
 #### National Commission on VA Nursing
 
-Pub. L. 107–135, title I, subtitle D (§§141–146), Jan. 23, 2002, 115 Stat. 2454, established in the Department of Veterans Affairs the “National Commission on VA Nursing”, directed the Commission, not later than two years after its first meeting, to report to Congress on legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department and the future of the nursing profession within the Department, and provided for the termination of the Commission 90 days after the date of the submission of its report.
+Pub. L. 107–135, title I, subtitle D (§§141–146), Jan. 23, 2002, 115 Stat. 2454, established in the Department of Veterans Affairs the “National Commission on VA Nursing”, directed the Commission, not later than two years after its first meeting, to report to Congress onlegislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department and the future of the nursing profession within the Department, and provided for the termination of the Commission 90 days after the date of the submission of its report.
 
 #### Report on Nurse Locality Pay
 

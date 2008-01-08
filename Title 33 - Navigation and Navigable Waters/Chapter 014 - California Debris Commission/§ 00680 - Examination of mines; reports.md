@@ -1,6 +1,6 @@
 ### §680. Examination of mines; reports
 
-Said commission, or a committee therefrom, or officer of said corps assigned to duty under its orders, shall, whenever deemed necessary, visit said territory and all mines operating under the provisions of this chapter. A report of such examination shall be placed on file.
+Said commission, or a committee therefrom, or officer of said corps assigned to duty underits orders, shall, whenever deemed necessary, visit said territory and all mines operating under the provisions of this chapter. A report of such examination shall be placed on file.
 
 (Mar. 1, 1893, ch. 183, §20, 27 Stat. 510.)
 

@@ -54,7 +54,7 @@ A person shall pay a penalty of $5,000 if—
 
 #### (3) Opportunity to withdraw submission
 
-&emsp;If the Secretary provides a person with notice that a submission is a specified frivolous submission and such person withdraws such submission within 30 days after such notice, the penalty imposed under paragraph (1) shall not apply with respect to such submission.
+&emsp;If the Secretary provides a person with notice that a submission is a specified frivoloussubmission and such person withdraws such submission within 30 days after such notice, the penalty imposed under paragraph (1) shall not apply with respect to such submission.
 
 #### (c) Listing of frivolous positions
 

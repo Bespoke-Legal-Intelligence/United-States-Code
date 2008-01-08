@@ -58,7 +58,7 @@ Responsibility for Assignments.—The Secretary of each military department, act
 
 2003—Subsec. (d)(2). Pub. L. 108–136, §831(b)(4)(A)(ii), redesignated par. (3) as (2) and struck out at end “The document shall be submitted to the Director of Acquisition Education, Training, and Career Development.”
 
-Pub. L. 108–136, §831(b)(4)(A)(i), struck out par. (2) which read as follows: “The authority to grant suchwaivers may be delegated by the service acquisition executive of a military department only to the Director of Acquisition Career Management for the military department.”
+Pub. L. 108–136, §831(b)(4)(A)(i), struck out par. (2) which read as follows: “The authority to grant such waivers may be delegated by the service acquisition executive of a military department only to the Director of Acquisition Career Management for the military department.”
 
 Subsec. (d)(3). Pub. L. 108–136, §831(b)(4)(A)(ii), redesignated par. (3) as (2).
 

@@ -84,7 +84,7 @@ Content of Guidance.—The regulations issued pursuant to subsection (a) shall, 
 
 “(c)
 
-GSA Federal Supply Schedules Program.—The Administrator for Federal Procurement Policy shall consult with the Administrator of General Services to assess the effectiveness of the multiple awards schedule program of the General Services Administration referred to in section 309(b)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(b)(3)) that is administered as the Federal Supply Schedules program. The assessment shall include examination of the following:
+GSA Federal Supply Schedules Program.—The Administrator for Federal Procurement Policyshall consult with the Administrator of General Services to assess the effectiveness of the multiple awards schedule program of the General Services Administration referred to in section 309(b)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(b)(3)) that is administered as the Federal Supply Schedules program. The assessment shall include examination of the following:
 
 &emsp;“(1) The administration of the program by the Administrator of General Services.
 

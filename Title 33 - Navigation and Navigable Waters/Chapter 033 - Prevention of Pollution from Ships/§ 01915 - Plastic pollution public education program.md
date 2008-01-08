@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than April 1, 1988, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall jointly commence and thereafterconduct a public outreach program to educate the public (including recreational boaters, fishermen, and other users of the marine environment) regarding—
+&emsp;Not later than April 1, 1988, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall jointly commence and thereafter conduct a public outreach program to educate the public (including recreational boaters, fishermen, and other users of the marine environment) regarding—
 
 &emsp;&emsp;(A) the harmful effects of plastic pollution;
 

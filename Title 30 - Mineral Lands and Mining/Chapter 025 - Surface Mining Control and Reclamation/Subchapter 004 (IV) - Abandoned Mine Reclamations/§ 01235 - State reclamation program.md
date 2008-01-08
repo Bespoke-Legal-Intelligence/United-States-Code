@@ -18,7 +18,7 @@ If the Secretary determines that a State has developed and submitted a program f
 
 #### (e) Contents of State Reclamation Plan
 
-Each State Reclamation Plan shall generally identify the areas to be reclaimed, the purposes for which the reclamation is proposed, the relationship of the lands to be reclaimed and the proposed reclamation to surrounding areas, the specific criteria for ranking and identifying projects to be funded, and the legal authority and programmatic capability to perform such work in conformance with the provisions of this subchapter.
+Each State Reclamation Plan shall generally identify the areas to be reclaimed, the purposes for which the reclamation is proposed, the relationship of the lands to be reclaimed and the proposed reclamation to surrounding areas, the specific criteria for ranking and identifying projects to be funded, and the legal authority and programmatic capability to perform suchwork in conformance with the provisions of this subchapter.
 
 #### (f) Annual application for support; contents
 
@@ -40,7 +40,7 @@ On an annual basis, each State having an approved State Reclamation Plan may sub
 
 #### (g) Costs
 
-The costs for each proposed project under this section shall include: actual construction costs, actual operation and maintenance costs of permanent facilities, planning and engineeringcosts, construction inspection costs, and other necessary administrative expenses.
+The costs for each proposed project under this section shall include: actual construction costs, actual operation and maintenance costs of permanent facilities, planning and engineering costs, construction inspection costs, and other necessary administrative expenses.
 
 #### (h) Grant of funds
 

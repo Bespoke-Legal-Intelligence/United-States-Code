@@ -16,7 +16,7 @@ Congress makes the following findings:
 
 It is the sense of Congress that—
 
-&emsp;(1) the sustainment and promotion of public-private partnerships should be a priority element of the strategy pursued by the UnitedStates to combat the HIV/AIDS pandemic and other global health crises; and
+&emsp;(1) the sustainment and promotion of public-private partnerships should be a priority element of the strategy pursued by the United States to combat the HIV/AIDS pandemic and other global health crises; and
 
 &emsp;(2) the United States should systematically track the evolution of these partnerships and work with others in the public and private sector to profile and build upon those models that are most effective.
 

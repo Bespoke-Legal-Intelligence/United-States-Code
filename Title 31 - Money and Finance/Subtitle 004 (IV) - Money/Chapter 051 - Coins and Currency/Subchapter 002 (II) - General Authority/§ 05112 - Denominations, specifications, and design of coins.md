@@ -90,7 +90,7 @@ Numismatic items.—For purposes of section 5132(a)(1) of this title, all coins 
 
 (B) The Secretary may not mint any coin with respect to which a determination has been made by the Secretary under subparagraph (A) before the end of the 30-day period beginning on the date a notice of such determination is published in the Federal Register.
 
-(C) The Secretary may continue to mint and issue coins in accordance with the specifications contained in paragraphs (7), (8), (9), and (10) of subsection (a) and paragraph (1)(A) of this subsection at the same time the Secretary in minting and issuing other bullion and proof goldcoins under this subsection in accordance with such program procedures and coin specifications, designs, varieties, quantities, denominations, and inscriptions as the Secretary, in the Secretary's discretion, may prescribe from time to time.
+(C) The Secretary may continue to mint and issue coins in accordance with the specifications contained in paragraphs (7), (8), (9), and (10) of subsection (a) and paragraph (1)(A) of this subsection at the same time the Secretary in minting and issuing other bullion and proof gold coins under this subsection in accordance with such program procedures and coin specifications, designs, varieties, quantities, denominations, and inscriptions as the Secretary, in the Secretary's discretion, may prescribe from time to time.
 
 (j)
 
@@ -242,27 +242,11 @@ Coins Honoring Each of the Presidents of the United States.—
 
 &emsp;(1)
 
-Redesign beginning in 2007.—
+Redesign beginning in 2007.—Notwithstanding subsection (d) and in accordance with the provisions of this subsection, $1 coins issued during the period beginning January 1, 2007, and ending upon the termination of the program under paragraph (8), shall—
 
-&emsp;&emsp;(A)
+&emsp;&emsp;(A) have designs on the obverse selected in accordance with paragraph (2)(B) which are emblematic of the Presidents of the United States; and
 
-In general.—Notwithstanding subsection (d) and in accordance with the provisions of this subsection, $1 coins issued during the period beginning January 1, 2007, and ending upon the termination of the program under paragraph (8), shall—
-
-&emsp;&emsp;&emsp;(i) have designs on the obverse selected in accordance with paragraph (2)(B) which are emblematic of the Presidents of the United States; and
-
-&emsp;&emsp;&emsp;(ii) have a design on the reverse selected in accordance with paragraph (2)(A).
-
-&emsp;&emsp;(B)
-
-Continuity provisions.—
-
-&emsp;&emsp;&emsp;(i)
-
-In general.—Notwithstanding subparagraph (A), the Secretary shall continue to mint and issue $1 coins which bear any design in effect before the issuance of coins as required under this subsection (including the so-called “Sacagawea-design” $1 coins).
-
-&emsp;&emsp;&emsp;(ii)
-
-Circulation quantity.—Beginning January 1, 2007, and ending upon the termination of the program under paragraph (8), the Secretary annually shall mint and issue such “Sacagawea-design” $1 coins for circulation in quantities of no less than 1/3 of the total $1 coins minted and issued under this subsection.”.<sup>1</sup>
+&emsp;&emsp;(B) have a design on the reverse selected in accordance with paragraph (2)(A).
 
 &emsp;(2)
 
@@ -296,7 +280,7 @@ Edge-incused inscriptions.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The inscription of the year of minting or issuance of the coin and the inscriptions “E Pluribus Unum” and “In God We Trust” shall be edge-incused into the coin.
+In general.—The inscription of the year of minting or issuance of the coin and the inscription “E Pluribus Unum” shall be edge-incused into the coin.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -308,7 +292,11 @@ Inscriptions of “liberty”.—Notwithstanding the second sentence of subsecti
 
 &emsp;&emsp;(E)
 
-Limitation in series to deceased presidents.—No coin issued under this subsection may bear the image of a livingformer or current President, or of any deceased former President during the 2-year period following the date of the death of that President.
+Limitation in series to deceased presidents.—No coin issued under this subsection may bear the image of a living former or current President, or of any deceased former President during the 2-year period following the date of the death of that President.
+
+&emsp;&emsp;(F)
+
+Inscription of “in god we trust”.—The design on the obverse or the reverse shall bear the inscription “In God We Trust”.
 
 &emsp;(3)
 
@@ -348,7 +336,7 @@ Legal tender.—The coins minted under this title shall be legal tender, as prov
 
 &emsp;(6)
 
-Treatment as numismatic items.—For purposes of section <sup>2</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
+Treatment as numismatic items.—For purposes of section <sup>1</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
 &emsp;(7)
 
@@ -368,7 +356,7 @@ First Spouse Bullion Coin Program.—
 
 &emsp;(1)
 
-In general.—During the same period described in subsection (n), the Secretary shall issue bullion coins under this subsection that are emblematic of the spouse of each such President.
+In general.—During the same period described in subsection (n), the Secretary shallissue bullion coins under this subsection that are emblematic of the spouse of each such President.
 
 &emsp;(2)
 
@@ -428,7 +416,7 @@ Inscriptions.—Each bullion coin issued under this subsection shall bear the in
 
 &emsp;(4)
 
-Sale of bullion coins.—Each bullion coin issued under this subsection shall be soldby the Secretary at a price that is equal to or greater than the sum of—
+Sale of bullion coins.—Each bullion coin issued under this subsection shall be sold by the Secretary at a price that is equal to or greater than the sum of—
 
 &emsp;&emsp;(A) the face value of the coins; and
 
@@ -480,7 +468,7 @@ Legal tender.—The coins minted under this title shall be legal tender, as prov
 
 &emsp;(10)
 
-Treatment as numismatic items.—For purposes of section <sup>2</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
+Treatment as numismatic items.—For purposes of section <sup>1</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
 (p)
 
@@ -492,13 +480,17 @@ Coin.—
 
 Acceptance by agencies and instrumentalities.—Beginning January 1, 2006, all agencies and instrumentalities of the United States, the United States Postal Service, all nonappropriated fund instrumentalities established under title 10, United States Code, all transit systems that receive operational subsidies or any disbursement of funds from the Federal Government, such as funds from the Federal Highway Trust Fund, including the Mass Transit Account, and all entities that operate any business, including vending machines, on any premises owned by the United States or under the control of any agency or instrumentality of the United States, including the legislative and judicial branches of the Federal Government, shall take such action as may be appropriate to ensure that by the end of the 2-year period beginning on such date—
 
-&emsp;&emsp;(A) any business operations conducted by any such agency, instrumentality, system, or entity that involve coins or currency will be fully capable of accepting and dispensing $1 coins in connection with such operations; and
+&emsp;&emsp;(A) any business operations conducted by any such agency, instrumentality, system, or entity that involve coins or currency will be fully capable of—
+
+&emsp;&emsp;&emsp;(i) accepting $1 coins in connection with such operations; and
+
+&emsp;&emsp;&emsp;(ii) other than vending machines that do not receive currency denominations higher than $1, dispensing $1 coins in connection with such operations; and
 
 &emsp;&emsp;(B) displays signs and notices denoting such capability on the premises where coins or currency are accepted or dispensed, including on each vending machine.
 
 &emsp;(2)
 
-Publicity.—The Director of the United States Mint,<sup>3</sup> shall work closely with consumer groups, media outlets, and schools to ensure an adequate amount of news coverage, and other means of increasing public awareness, of the inauguration of the Presidential $1 Coin Program established in subsection (n) to ensure that consumers know of the availability of the coin.
+Publicity.—The Director of the United States Mint,<sup>2</sup> shall work closely with consumer groups, media outlets, and schools to ensure an adequate amount of news coverage, and other means of increasing public awareness, of the inauguration of the Presidential $1 Coin Program established in subsection (n) to ensure that consumers know of the availability of the coin.
 
 &emsp;(3)
 
@@ -612,7 +604,7 @@ Legal tender.—The coins minted under this title shall be legal tender, as prov
 
 &emsp;(7)
 
-Treatment as numismatic items.—For purposes of section <sup>2</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
+Treatment as numismatic items.—For purposes of section <sup>1</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
 &emsp;(8)
 
@@ -626,7 +618,213 @@ In general.—Each bullion coin having a metallic content as described in subsec
 
 Design.—The protective covering required under subparagraph (A) shall be readily distinguishable from any coin packaging that may be used to protect proof coins minted and issued under this subsection.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228,Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672.)
+(r) <sup>3</sup>
+
+Redesign and Issuance of Circulating $1
+
+Coins Honoring Native Americans and the Important Contributions Made by Indian Tribes and Individual Native Americans in United States History.—
+
+&emsp;(1)
+
+Redesign beginning in 2008.—
+
+&emsp;&emsp;(A)
+
+In general.—Effective beginning January 1, 2008, notwithstanding subsection (d), in addition to the coins to be issued pursuant to subsection (n), and in accordance with this subsection, the Secretary shall mint and issue $1 coins that—
+
+&emsp;&emsp;&emsp;(i) have as the designs on the obverse the so-called “Sacagawea design”; and
+
+&emsp;&emsp;&emsp;(ii) have a design on the reverse selected in accordance with paragraph (2)(A), subject to paragraph (3)(A).
+
+&emsp;&emsp;(B)
+
+Delayed date.—If the date of the enactment of the Native American $1 Coin Act is after August 25, 2007, subparagraph (A) shall be applied by substituting “2009” for “2008”.
+
+&emsp;(2)
+
+Design requirements.—The $1 coins issued in accordance with paragraph (1) shall meet the following design requirements:
+
+&emsp;&emsp;(A)
+
+Coin reverse.—The design on the reverse shall bear—
+
+&emsp;&emsp;&emsp;(i) images celebrating the important contributions made by Indian tribes and individual Native Americans to the development of the United States and the history of the United States;
+
+&emsp;&emsp;&emsp;(ii) the inscription “$1”; and
+
+&emsp;&emsp;&emsp;(iii) the inscription “United States of America”.
+
+&emsp;&emsp;(B)
+
+Coin obverse.—The design on the obverse shall—
+
+&emsp;&emsp;&emsp;(i) be chosen by the Secretary, after consultation with the Commission of Fine Arts and review by the Citizens Coinage Advisory Committee; and
+
+&emsp;&emsp;&emsp;(ii) contain the so-called “Sacagawea design” and the inscription “Liberty”.
+
+&emsp;&emsp;(C)
+
+Edge-incused inscriptions.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The inscription of the year of minting and issuance of the coin and the inscription “E Pluribus Unum” shall be edge-incused into the coin.
+
+&emsp;&emsp;&emsp;(ii)
+
+Preservation of distinctive edge.—The edge-incusing of the inscriptions under clause (i) on coins issued under this subsection shall be done in a manner that preserves the distinctive edge of the coin so that the denomination of the coin is readily discernible, including by individuals who are blind or visually impaired.
+
+&emsp;&emsp;(D)
+
+Reverse design selection.—The designs selected for the reverse of the coins described under this subsection—
+
+&emsp;&emsp;&emsp;(i) shall be chosen by the Secretary after consultation with the Committee on Indian Affairs of the Senate, the Congressional Native American Caucus of the House of Representatives, the Commission of Fine Arts, and the National Congress of American Indians;
+
+&emsp;&emsp;&emsp;(ii) shall be reviewed by the Citizens Coinage Advisory Committee;
+
+&emsp;&emsp;&emsp;(iii) may depict individuals and events such as—
+
+&emsp;&emsp;&emsp;&emsp;(I) the creation of Cherokee written language;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Iroquois Confederacy;
+
+&emsp;&emsp;&emsp;&emsp;(III) Wampanoag Chief Massasoit;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the “Pueblo Revolt”;
+
+&emsp;&emsp;&emsp;&emsp;(V) Olympian Jim Thorpe;
+
+&emsp;&emsp;&emsp;&emsp;(VI) Ely S. Parker, a general on the staff of General Ulysses S. Grant and later head of the Bureau of Indian Affairs; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) code talkers who served the United States Armed Forces during World War I and World War II; and
+
+&emsp;&emsp;&emsp;(iv) in the case of a design depicting the contribution of an individual Native American to the development of the United States and the history of the United States, shall not depict the individual in a size such that the coin could be considered to be a “2-headed” coin.
+
+&emsp;&emsp;(E)
+
+Inscription of “in god we trust”.—The design on the obverse or the reverse shall bear the inscription “In God We Trust”.
+
+&emsp;(3)
+
+Issuance of coins commemorating 1 native american event during each year.—
+
+&emsp;&emsp;(A)
+
+In general.—Each design for the reverse of the $1 coins issued during each year shall be emblematic of 1 important Native American or Native American contribution each year.
+
+&emsp;&emsp;(B)
+
+Issuance period.—Each $1 coin minted with a design on the reverse in accordance with this subsection for any year shall be issued during the 1-year period beginning on January 1 of that year and shall be available throughout the entire 1-year period.
+
+&emsp;&emsp;(C)
+
+Order of issuance of designs.—Each coin issued under this subsection commemorating Native Americans and their contributions—
+
+&emsp;&emsp;&emsp;(i) shall be issued, to the maximum extent practicable, in the chronological order in which the Native Americans lived or the events occurred, until the termination of the coin program described in subsection (n); and
+
+&emsp;&emsp;&emsp;(ii) thereafter shall be issued in any order determined to be appropriate by the Secretary, after consultation with the Committee on Indian Affairs of the Senate, the Congressional Native American Caucus of the House of Representatives, and the National Congress of American Indians.
+
+&emsp;(4)
+
+Issuance of numismatic coins.—The Secretary may mint and issue such number of $1 coins of each design selected under this subsection in uncirculated and proof qualities as the Secretary determines to be appropriate.
+
+&emsp;(5)
+
+Quantity.—The number of $1 coins minted and issued in a year with the Sacagawea-design on the obverse shall be not less than 20 percent of the total number of $1 coins minted and issued in such year.
+
+(r) <sup>3</sup>
+
+Redesign and Issuance of Circulating Quarter Dollar Honoring the District of Columbia and Each of the Territories.—
+
+&emsp;(1)
+
+Redesign in 2009.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2) and subject to paragraph (6)(B), quarter dollar coins issued during 2009, shall have designs on the reverse side selected in accordance with this subsection which are emblematic of the District of Columbia and the territories.
+
+&emsp;&emsp;(B)
+
+Flexibility with regard to placement of inscriptions.—Notwithstanding subsection (d)(1), the Secretary may select a design for quarter dollars issued during 2009 in which—
+
+&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appears on the reverse side of any such quarter dollars; and
+
+&emsp;&emsp;&emsp;(ii) any inscription described in the third sentence of subsection (d)(1) or the designation of the value of the coin appears on the obverse side of any such quarter dollars.
+
+&emsp;(2)
+
+Single district or territory design.—The design on the reverse side of each quarter dollar issued during 2009 shall be emblematic of one of the following: The District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+&emsp;(3)
+
+Selection of design.—
+
+&emsp;&emsp;(A)
+
+In general.—Each of the 6 designs required under this subsection for quarter dollars shall be—
+
+&emsp;&emsp;&emsp;(i) selected by the Secretary after consultation with—
+
+&emsp;&emsp;&emsp;&emsp;(I) the chief executive of the District of Columbia or the territory being honored, or such other officials or group as the chief executive officer of the District of Columbia or the territory may designate for such purpose; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Commission of Fine Arts; and
+
+&emsp;&emsp;&emsp;(ii) reviewed by the Citizens Coinage Advisory Committee.
+
+&emsp;&emsp;(B)
+
+Selection and approval process.—Designs for quarter dollars may be submitted in accordance with the design selection and approval process developed by the Secretary in the sole discretion of the Secretary.
+
+&emsp;&emsp;(C)
+
+Participation.—The Secretary may include participation by District or territorial officials, artists from the District of Columbia or the territory, engravers of the United States Mint, and members of the general public.
+
+&emsp;&emsp;(D)
+
+Standards.—Because it is important that the Nation's coinage and currency bear dignified designs of which the citizens of theUnited States can be proud, the Secretary shall not select any frivolous or inappropriate design for any quarter dollar minted under this subsection.
+
+&emsp;&emsp;(E)
+
+Prohibition on certain representations.—No head and shoulders portrait or bust of any person, living or dead, and no portrait of a living person may be included in the design of any quarter dollar under this subsection.
+
+&emsp;(4)
+
+Treatment as numismatic items.—For purposes of sections 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
+
+&emsp;(5)
+
+Issuance.—
+
+&emsp;&emsp;(A)
+
+Quality of coins.—The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) in uncirculated and proof qualities as the Secretary determines to be appropriate.
+
+&emsp;&emsp;(B)
+
+Silver coins.—Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) as the Secretary determines to be appropriate, with a content of 90 percent silver and 10 percent copper.
+
+&emsp;&emsp;(C)
+
+Timing and order of issuance.—Coins minted under this subsection honoring the District of Columbia and each of the territories shall be issued in equal sequential intervals during 2009 in the following order: the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+&emsp;(6)
+
+Other provisions.—
+
+&emsp;&emsp;(A)
+
+Application in event of admission as a state.—If the District of Columbia or any territory becomes a State before the end of the 10-year period referred to in subsection (<i>l</i>)(1), subsection (<i>l</i>)(7) shall apply, and this subsection shall not apply, with respect to such State.
+
+&emsp;&emsp;(B)
+
+Application in event of independence.—If any territory becomes independent or otherwise ceases to be a territory or possession of the United States before quarter dollars bearing designs which are emblematic of such territory are minted pursuant to this subsection, this subsection shall cease to apply with respect to such territory.
+
+&emsp;(7)
+
+Territory defined.—For purposes of this subsection, the term “territory” means the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018.)
 
 Historical and Revision Notes<br>1982
 
@@ -730,7 +928,7 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, §109; added Dec. 23, 1981, Pub. L
 
 In subsection (a), the words before clause (1) are added because of the restatement. In clause (5), the words “that is 0.835 inch in diameter” are added because the Secretary of the Treasury has prescribed the diameter and the diameter of a coin may not be changed under 31:276. The words “5 grams” are substituted for “seventy-seven and sixteen-hundredths grains troy” for consistency in the revised chapter. In clause (6), the words “that is 0.75 inch in diameter” are added because the Secretary has prescribed the diameter and the diameter of a coin may not be changed under 31:276. The words “except as provided under subsection (c) of this section” are added for clarity and because of the restatement. The words “3.11 grams” are substituted for “forty-eight grains” for consistency in the revised chapter.
 
-In subsection (b), the words “In minting 5-cent coins” are substituted for “in minor-coinage alloys” in 31:346 because 5-cent coins are the minor coins composed of nickel. The words “Secretary shall use” are substituted for “shall be used” because of the source provisions restated in section 321 of the revised title. The word “bars” is substituted for “ingots” for consistency in the revised chapter. The words “2.5 percent” are substituted for “twenty-five thousandths” for consistency in the revised title and with other titles of the United States Code. The words “from the percent of nickel required” are substituted for “the legal standard . . . in the proportion of nickel” because of the restatement. The words “In silver ingots, six-thousandths” are omitted as superseded by the source provisions restated in the section. The words “In gold ingots, one-thousandth” in section 3533 of the Revised Statutes are omitted because gold coinage was discontinued by 31:315b. The words “Except as provided in subsection (c) of this section” are added for clarity and because of the restatement.
+In subsection (b), the words “In minting 5-cent coins” are substituted for “in minor-coinage alloys” in 31:346 because 5-cent coins are the minor coins composed of nickel. The words “Secretary shall use” are substituted for “shall be used” because of the source provisions restated in section 321 of the revised title. The word “bars” is substituted for “ingots” for consistency inthe revised chapter. The words “2.5 percent” are substituted for “twenty-five thousandths” for consistency in the revised title and with other titles of the United States Code. The words “from the percent of nickel required” are substituted for “the legal standard . . . in the proportion of nickel” because of the restatement. The words “In silver ingots, six-thousandths” are omitted as superseded by the source provisions restated in the section. The words “In gold ingots, one-thousandth” in section 3533 of the Revised Statutes are omitted because gold coinage was discontinued by 31:315b. The words “Except as provided in subsection (c) of this section” are added for clarity and because of the restatement.
 
 In subsection (c), the words “a different weight and alloy of copper and zinc” are substituted for “such action” for clarity.
 
@@ -742,7 +940,7 @@ In subsection (e)(2), the words “80 percent” are substituted for “eight hu
 
 In subsection (f)(1), before clause (A), the words “Notwithstanding this section and section 5111(a)(1) of this title are substituted for “Notwithstanding any other provision of law” in 31:399 for clarity. In clause (B), the words “are an alloy of 90 percent silver and 10 percent copper” are substituted for “be minted in accordance with the standard established in section 3514 of the Revised Statutes (31 U.S.C. 321)” and 31:321 to eliminate unnecessary words and for clarity. In clause (C), the word “symbolizing” is substituted for “emblematic” for clarity.
 
-In subsection (f)(2), the words “under such regulations as he may prescribe” are omitted as unnecessary because of section 321 of the revised title. The word“Treasury” is substituted for “general fund of the Treasury” to eliminate unnecessary words.
+In subsection (f)(2), the words “under such regulations as he may prescribe” are omitted as unnecessary because of section 321 of the revised title. The word “Treasury” is substituted for “general fund of the Treasury” to eliminate unnecessary words.
 
 The text of 31:399(b)(3) is omitted as unnecessary because of section 5103 of the revised title.
 
@@ -760,7 +958,23 @@ This Act, referred to in subsec. (<i>o</i>)(6), probably means Pub. L. 109–145
 
 The date of enactment of the Presidential $1 Coin Act of 2005, referred to in subsec. (q)(1), is the date of enactment of Pub. L. 109–145, which was approved Dec. 22, 2005.
 
+The date of the enactment of the Native American $1 Coin Act, referred to in subsec. (r)(1)(B), is the date of enactment of Pub. L. 110–82, which was approved Sept. 20, 2007.
+
 #### Amendments
+
+2007—Subsec. (n)(1). Pub. L. 110–82, §3, redesignated cls. (i) and (ii) of subpar. (A) as subpars. (A) and (B), respectively, struck out heading and designation of former subpar. (A), and struck out former subpar. (B), which related to continuity provisions concerning the “ ‘Sacagawea-design’ $1 coins”.
+
+Subsec. (n)(2)(C)(i). Pub. L. 110–161, §623(a)(1)(A), substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused”.
+
+Subsec. (n)(2)(F). Pub. L. 110–161, §623(a)(2), added subpar. (F).
+
+Subsec. (p)(1)(A). Pub. L. 110–147 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any business operations conducted by any such agency, instrumentality, system, or entity that involve coins or currency will be fully capable of accepting and dispensing $1 coins in connection with such operations; and”.
+
+Subsec. (r). Pub. L. 110–161, §622, added subsec. (r) relating to the redesign and issuance of circulating quarter dollar honoring the District of Columbia and territories.
+
+Pub. L. 110–82, §2, added subsec. (r) relating to the redesign and issuance of circulating $1 coins honoring Native Americans.
+
+Subsec. (r)(2). Pub. L. 110–161, §623(b), substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused” in subpar. (C)(i), and added subpar (E).
 
 2005—Subsec. (a)(11). Pub. L. 109–145, §201(1), added par. (11).
 
@@ -772,7 +986,7 @@ Subsec. (p). Pub. L. 109–145, §104, added subsec. (p).
 
 Subsec. (q). Pub. L. 109–145, §201(2), added subsec. (q).
 
-2003—Subsec. (d)(1). Pub. L. 108–15, §102(a), inserted after fourth sentence “Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello.”
+2003—Subsec. (d)(1). Pub. L. 108–15, §102(a), inserted after fourth sentence “Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness ofThomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello.”
 
 Subsec. (d)(2). Pub. L. 108–15, §102(b), inserted “, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts,” after “The Secretary may” in second sentence.
 
@@ -822,6 +1036,10 @@ Subsec. (i). Pub. L. 99–185, §2(b), added subsec. (i).
 
 Subsec. (f)(1)(C). Pub. L. 97–452, §1(20)(B), substituted “250th” for “two hundred and fiftieth”.
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–161, div. D, title VI, §623(c), Dec. 26, 2007, 121 Stat. 2018, provided that: “The change required by the amendments made by subsections (a) and (b) \[amending this section\] shall be put into effect by the Secretary of the Treasury as soon as is practicable after the date of enactment of this Act \[Dec. 26, 2007\].”
+
 #### Effective Date of 1996 Amendment
 
 Section 101(f) \[title V, §529(e)\] of Pub. L. 104–208, provided that: “This section \[amending this section and sections 5134 and 5135 of this title, enacting provisions set out as a note under section 5134 of this title, and amending provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Sept. 30, 1996\].”
@@ -834,9 +1052,21 @@ Section 205 of title II of Pub. L. 99–61 provided that: “This title \[amendi
 
 #### Short Title of 1985 Amendments
 
-Section 1 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notesunder this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
+Section 1 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
 
 Section 201 of title II of Pub. L. 99–61 provided that: “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Liberty Coin Act’.”
+
+#### Removal of Barriers to Circulation of $1 Coin
+
+Pub. L. 110–82, §4, Sept. 20, 2007, 121 Stat. 779, provided that:
+
+“(a)
+
+In General.—In order to remove barriers to circulation, the Secretary of the Treasury shall carry out an aggressive, cost-effective, continuing campaign to encourage commercial enterprises to accept and dispense $1 coins that have as designs on the obverse the so-called ‘Sacagawea design’.
+
+“(b)
+
+Report.—The Secretary of the Treasury shall submit to Congress an annual report on the success of the efforts described in subsection (a).”
 
 #### 5-Cent Coins Minted in 2004 and 2005
 
@@ -1206,7 +1436,7 @@ Pub. L. 106–126, title II, Dec. 6, 1999, 113 Stat. 1644.—United States Capit
 
 Pub. L. 106–126, title III, Dec. 6, 1999, 113 Stat. 1647; Pub. L. 109–232, June 15, 2006, 120 Stat. 395.—Lewis and Clark Expedition bicentennial.
 
-Pub. L. 105–331, Oct. 31, 1998, 112 Stat. 3073.—Thomas Alva Edison.
+Pub. L. 105–331, Oct. 31, 1998, 112 Stat. 3073; Pub. L. 110–3, Feb. 8, 2007, 121 Stat. 6.—Thomas Alva Edison.
 
 Pub. L. 105–268, Oct. 19, 1998, 112 Stat. 2378.—Library of Congress bicentennial.
 
@@ -1268,11 +1498,11 @@ Pub. L. 97–220, July 22, 1982, 96 Stat. 222.—1984 Olympic Games.
 
 #### Possession of Gold Coins and Bullion
 
-The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
+The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked byEx. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
 
-<i><sup>1</sup></i><i> So in original. The closing quotation marks and second period probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. Two subsecs. (r) have been enacted.</i>
 

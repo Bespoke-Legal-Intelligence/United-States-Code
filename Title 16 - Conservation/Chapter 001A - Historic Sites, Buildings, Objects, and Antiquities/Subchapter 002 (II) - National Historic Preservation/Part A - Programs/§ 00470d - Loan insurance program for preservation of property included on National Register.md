@@ -38,7 +38,7 @@ The Secretary shall specify, by rule and in each contract entered into under thi
 
 #### (f) Protection of financial interests of Federal Government
 
-In entering into any contract to insure a loan under this section, the Secretary shall take steps to assure adequate protection of the financial interests of the Federal Government. The Secretary may—
+In entering into any contract to insure a loan under this section, the Secretary shall takesteps to assure adequate protection of the financial interests of the Federal Government. The Secretary may—
 
 &emsp;(1) in connection with any foreclosure proceeding, obtain, on behalf of the Federal Government, the property securing a loan insured under this part; and
 

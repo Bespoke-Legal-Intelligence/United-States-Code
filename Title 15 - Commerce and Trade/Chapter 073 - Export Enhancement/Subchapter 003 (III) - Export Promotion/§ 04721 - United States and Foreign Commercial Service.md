@@ -20,7 +20,7 @@
 
 #### (b) Statement of purpose
 
-The Commercial Service shall place primary emphasis on the promotion of exports of goodsand services from the United States, particularly by small businesses and medium-sized businesses, and on the protection of United States business interests abroad by carrying out activities such as—
+The Commercial Service shall place primary emphasis on the promotion of exports of goods and services from the United States, particularly by small businesses and medium-sized businesses, and on the protection of United States business interests abroad by carrying out activities such as—
 
 &emsp;(1) identifying United States businesses with the potential to export goods and services and providing such businesses with advice and information on establishing export businesses;
 
@@ -72,7 +72,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (1) Minister-Counselor
 
-&emsp;Notwithstanding any other provision of law, the Secretary is authorized to designate up to 16 United States missions abroad at which the senior Commercial Service Officer will be able to use the diplomatic title of Minister-Counselor. The Secretary of State shall accord the diplomatic title of Minister-Counselor to the senior Commercial Service Officer assigned to a United States mission so designated.
+&emsp;Notwithstanding any other provision of law, the Secretary is authorized to designate up to16 United States missions abroad at which the senior Commercial Service Officer will be able to use the diplomatic title of Minister-Counselor. The Secretary of State shall accord the diplomatic title of Minister-Counselor to the senior Commercial Service Officer assigned to a United States mission so designated.
 
 #### (2) Consul General
 
@@ -150,7 +150,7 @@ Subsecs. (f) to (j). Pub. L. 102–429, §203(b), added subsec. (f) and redesign
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to reporting results of audits to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113of Title 31, Money and Finance, and page 53 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to reporting results of audits to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 53 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Commercial Service Officer”.</i>
 

@@ -14,3 +14,4 @@
 - [&sect; 12651f - Employees, consultants, and other personnel](%C2%A7%2012651f%20-%20Employees%2C%20consultants%2C%20and%20other%20personnel.md)
 - [&sect; 12651g - Administration](%C2%A7%2012651g%20-%20Administration.md)
 - [&sect; 12651h - Corporation State offices](%C2%A7%2012651h%20-%20Corporation%20State%20offices.md)
+- [&sect; 12651i - VISTA Advance Payments Revolving Fund](%C2%A7%2012651i%20-%20VISTA%20Advance%20Payments%20Revolving%20Fund.md)

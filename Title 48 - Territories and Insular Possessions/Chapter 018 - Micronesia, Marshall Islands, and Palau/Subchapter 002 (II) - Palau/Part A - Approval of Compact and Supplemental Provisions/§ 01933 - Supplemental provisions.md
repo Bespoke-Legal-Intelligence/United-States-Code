@@ -6,7 +6,7 @@ In recognition of the special development needs of Palau and the Marshall Island
 
 #### (b) Inventory and study of natural, historic, and other resources
 
-The Secretary of the Interior shall conduct, upon request of Palau, the Federated States of Micronesia or the Marshall Islands, and through the Director of the National Park Service, a comprehensive inventory and study of the most unique and significant natural, historical, cultural, and recreational resources of Palau, the Federated States of Micronesia or the Marshall Islands. Areas or sites exhibiting such qualities shall be described and evaluated with the objective of the preservation of their values and their careful use and appreciation by the public, along with a determination of their potential for attracting tourism. Alternative methodologies for such preservation and use shall be developed for each area or site (including continued assistance from the National Park Service); current or impending damage or threats to the resources of such areas or sites shall be identified and evaluated; and authorities needed to properly protect and allow for public use and appreciation shall be identified and discussed. Such inventory and study shall be conducted in full cooperation andconsultation with affected governmental officials and the interested public. A full report on such inventory and study shall be transmitted to Palau or the Federated States of Micronesia or the Marshall Islands, the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate no later than two complete calendar years after November 14, 1986. The inventory and study shall also identify areas or sites which, if they were located in the United States, would qualify to be listed on the Registry of Natural Landmarks and the National Register of Historic Places.
+The Secretary of the Interior shall conduct, upon request of Palau, the Federated States ofMicronesia or the Marshall Islands, and through the Director of the National Park Service, a comprehensive inventory and study of the most unique and significant natural, historical, cultural, and recreational resources of Palau, the Federated States of Micronesia or the Marshall Islands. Areas or sites exhibiting such qualities shall be described and evaluated with the objective of the preservation of their values and their careful use and appreciation by the public, along with a determination of their potential for attracting tourism. Alternative methodologies for such preservation and use shall be developed for each area or site (including continued assistance from the National Park Service); current or impending damage or threats to the resources of such areas or sites shall be identified and evaluated; and authorities needed to properly protect and allow for public use and appreciation shall be identified and discussed. Such inventory and study shall be conducted in full cooperation and consultation with affected governmental officials and the interested public. A full report on such inventory and study shall be transmitted to Palau or the Federated States of Micronesia or the Marshall Islands, the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate no later than two complete calendar years after November 14, 1986. The inventory and study shall also identify areas or sites which, if they were located in the United States, would qualify to be listed on the Registry of Natural Landmarks and the National Register of Historic Places.
 
 #### (c) Omitted
 
@@ -36,7 +36,7 @@ The Congress reaffirms all of the understandings, interpretations, and policy st
 
 #### (i) Availability of appropriations
 
-Notwithstanding any other provision of law, funds appropriated for the Compact of Free Association, Public Law 99–239 \[48 U.S.C. 1901 et seq., 2001 et seq.\], or this joint resolution, in theact of making supplemental appropriations for fiscal year 1986, shall remain available until expended.
+Notwithstanding any other provision of law, funds appropriated for the Compact of Free Association, Public Law 99–239 \[48 U.S.C. 1901 et seq., 2001 et seq.\], or this joint resolution, in the act of making supplemental appropriations for fiscal year 1986, shall remain available until expended.
 
 #### (j) Authority to contract or make payments
 
@@ -78,7 +78,7 @@ Section is comprised of section 104 of Pub. L. 99–658. Subsec. (c) of section 
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 5, One Hundred Third Congress, Jan. 5, 1993. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 5, One Hundred Third Congress, Jan. 5, 1993.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of the Compact”.</i>
 

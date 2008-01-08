@@ -48,7 +48,7 @@ If the Board (or any member thereof or any individual employed by the Board and 
 
 &emsp;(3) requiring reinstatement of an employee with backpay in accordance with section 5596 of title 5; or
 
-&emsp;(4) including any combination of the actions described in paragraphs (1) through (3) or such other action as will carry out the purpose of this subchapter.
+&emsp;(4) including any combination of the actions described in paragraphs (1) through (3) or suchother action as will carry out the purpose of this subchapter.
 
 > If any such order requires reinstatement of an employee with backpay, backpay may be required of the Department (as provided in section 5596 of title 5) or of the labor organization, as the case may be, which is found to have engaged in the unfair labor practice involved.
 

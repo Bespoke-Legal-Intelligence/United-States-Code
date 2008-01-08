@@ -34,7 +34,7 @@ Dedicated revenue sources.—The Federal credit instrument shall be repayable, i
 
 &emsp;(5)
 
-Public sponsorship of private entities.—In the case of a project that is undertaken by an entity that is not a State or local government or an agency or instrumentalityof a State or local government, the project that the entity is undertaking shall be publicly sponsored as provided in paragraphs (1) and (2).
+Public sponsorship of private entities.—In the case of a project that is undertaken by an entity that is not a State or local government or an agency or instrumentality of a State or local government, the project that the entity is undertaking shall be publicly sponsored as provided in paragraphs (1) and (2).
 
 (b)
 

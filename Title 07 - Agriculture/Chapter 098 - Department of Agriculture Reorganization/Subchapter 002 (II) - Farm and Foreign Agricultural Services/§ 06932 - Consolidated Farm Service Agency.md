@@ -80,9 +80,9 @@ For purposes of subsections (c) through (f) of this section:
 
 &emsp;(1) A reference to the “Consolidated Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under this section.
 
-&emsp;(2) A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6962(b) of this title.
+&emsp;(2) A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorizedfor the Natural Resources Conservation Service under section 6962(b) of this title.
 
-(Pub. L. 103–354, title II, §226, Oct. 13, 1994, 108 Stat. 3214; Pub. L. 104–127, title I, §194(c), titleIII, §§315(b), 336(a)(2)(C), Apr. 4, 1996, 110 Stat. 946, 985, 1005.)
+(Pub. L. 103–354, title II, §226, Oct. 13, 1994, 108 Stat. 3214; Pub. L. 104–127, title I, §194(c), title III, §§315(b), 336(a)(2)(C), Apr. 4, 1996, 110 Stat. 946, 985, 1005.)
 
 #### References in Text
 
@@ -99,4 +99,8 @@ Section is comprised of section 226 of Pub. L. 103–354. Subsec. (h) of section
 Subsec. (b)(4). Pub. L. 104–127, §336(a)(2)(C), struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)”.
 
 Subsec. (d)(2). Pub. L. 104–127, §315(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+#### Change of Name
+
+Consolidated Farm Service Agency redesignated Farm Service Agency by final rule issued by Department of Agriculture, eff. Jan. 16, 1996, 61 F.R. 1109.
 

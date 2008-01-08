@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the term “appreciated financial position” means any position with respect to any stock, debt instrument, or partnership interest if there would be gain were such position sold, assigned, or otherwise terminated at its fair market value.
+&emsp;Except as provided in paragraph (2), the term “appreciated financial position” means any position with respect to any stock, debt instrument, or partnership interest if therewould be gain were such position sold, assigned, or otherwise terminated at its fair market value.
 
 #### (2) Exceptions
 
@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the position unconditionally entitles the holder to receive a specified principal amount,
 
-&emsp;&emsp;&emsp;(ii) the interest payments (or other similar amounts) with respect to such positionmeet the requirements of clause (i) of section 860G(a)(1)(B), and
+&emsp;&emsp;&emsp;(ii) the interest payments (or other similar amounts) with respect to such position meet the requirements of clause (i) of section 860G(a)(1)(B), and
 
 &emsp;&emsp;&emsp;(iii) such position is not convertible (directly or indirectly) into stock of the issuer or any related person,
 

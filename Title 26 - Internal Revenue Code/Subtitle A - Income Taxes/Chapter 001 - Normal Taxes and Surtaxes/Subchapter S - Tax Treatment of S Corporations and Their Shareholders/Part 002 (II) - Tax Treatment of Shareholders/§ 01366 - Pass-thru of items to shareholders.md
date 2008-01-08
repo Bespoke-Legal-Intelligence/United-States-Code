@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year ofa shareholder who dies, or of a trust or estate which terminates, before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
+&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year of a shareholder who dies, or of a trust or estate which terminates, before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
 
 &emsp;&emsp;(A) items of income (including tax-exempt income), loss, deduction, or credit the separate treatment of which could affect the liability for tax of any shareholder, and
 
@@ -14,7 +14,7 @@
 
 #### (2) Nonseparately computed income or loss defined
 
-&emsp;For purposes of this subchapter, the term “nonseparately computed income or loss” means gross income minus the deductions allowed to the corporation under this chapter, determined by excluding all items described in paragraph (1)(A).
+&emsp;For purposes of this subchapter, the term “nonseparately computed income or loss” means gross income minus the deductions allowed to the corporation under this chapter,determined by excluding all items described in paragraph (1)(A).
 
 #### (b) Character passed thru
 
@@ -62,6 +62,14 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 &emsp;&emsp;To the extent that any increase in adjusted basis described in subparagraph (B) would have increased the shareholder's amount at risk under section 465 if such increase had occurred on the day preceding the commencement of the post-termination transition period, rules similar to the rules described in subparagraphs (A) through (C) shall apply to any losses disallowed by reason of section 465(a).
 
+#### (4) Application of limitation on charitable contributions
+
+&emsp;In the case of any charitable contribution of property to which the second sentence of section 1367(a)(2) applies, paragraph (1) shall not apply to the extent of the excess (if any) of—
+
+&emsp;&emsp;(A) the shareholder's pro rata share of such contribution, over
+
+&emsp;&emsp;(B) the shareholder's pro rata share of the adjusted basis of such property.
+
 #### (e) Treatment of family group
 
 If an individual who is a member of the family (within the meaning of section 704(e)(3)) of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
@@ -74,7 +82,7 @@ If an individual who is a member of the family (within the meaning of section 70
 
 #### (2) Treatment of tax imposed on built-in gains
 
-&emsp;If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a), the amount so imposed shall be treated as a loss sustained by the S corporation during such taxable year. The character of such loss shall be determined by allocating the loss proportionately among therecognized built-in gains giving rise to such tax.
+&emsp;If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a), the amount so imposed shall be treated as a loss sustained by the S corporation during such taxable year. The character of such loss shall be determined by allocating the loss proportionately among the recognized built-in gains giving rise to such tax.
 
 #### (3) Reduction in pass-thru for tax imposed on excess net passive income
 
@@ -84,9 +92,11 @@ If an individual who is a member of the family (within the meaning of section 70
 
 &emsp;&emsp;(B) the total passive investment income for the taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1677; amended Pub. L. 98–369, div. A, title IV, §474(r)(26), title VII, §735(c)(16), July 18, 1984, 98 Stat. 844, 985; Pub. L. 99–514, title VI, §632(c)(2), title VII, §701(e)(4)(K), Oct. 22, 1986, 100 Stat. 2277, 2343; Pub. L. 100–647, title I, §1006(f)(5)(E), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 101–239, title VII, §7811(c)(7), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, 110 Stat. 1779, 1782, 1783, 1784; Pub. L. 108–357, title II, §235(a), Oct. 22, 2004, 118 Stat. 1435.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1677; amended Pub. L. 98–369, div. A, title IV, §474(r)(26), title VII, §735(c)(16), July 18, 1984, 98 Stat. 844, 985; Pub. L. 99–514, title VI, §632(c)(2), title VII, §701(e)(4)(K), Oct. 22, 1986, 100 Stat. 2277, 2343; Pub. L. 100–647, title I, §1006(f)(5)(E), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 101–239, title VII, §7811(c)(7), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, 110 Stat. 1779, 1782, 1783, 1784; Pub. L. 108–357, title II, §235(a), Oct. 22, 2004, 118 Stat. 1435; Pub. L. 110–172, §3(b), Dec. 29, 2007, 121 Stat. 2474.)
 
 #### Amendments
+
+2007—Subsec. (d)(4). Pub. L. 110–172 added par. (4).
 
 2004—Subsec. (d)(2). Pub. L. 108–357 reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Any loss or deduction which is disallowed for any taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.”
 
@@ -115,6 +125,10 @@ Pub. L. 99–514, §701(e)(4)(K), struck out “56 or” before “1374”.
 1984—Subsec. (f). Pub. L. 98–369, §474(r)(26), substituted “section 34” for “section 39” in heading and text.
 
 Subsec. (f)(1). Pub. L. 98–369, §735(c)(16), substituted “and special fuels” for “, special fuels, and lubricating oil”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -150,5 +164,5 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(e)(4)(K) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(e)(4)(K) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 towhich such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

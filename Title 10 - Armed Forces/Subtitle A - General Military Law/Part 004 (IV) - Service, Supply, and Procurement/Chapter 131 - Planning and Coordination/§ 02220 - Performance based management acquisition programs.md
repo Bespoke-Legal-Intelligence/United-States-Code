@@ -18,7 +18,7 @@ Subsec. (b). Pub. L. 107–314, §1041(a)(8)(A), (C), redesignated subsec. (a)(2
 
 Subsec. (c). Pub. L. 107–314, §1041(a)(8)(A), struck out heading and text of subsec. (c). Text read as follows: “Whenever the Secretary of Defense, in the assessment required by subsection (b), determines that major defense acquisition programs of the Department of Defense are not achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a), the Secretary shall ensure that there is a timely review of major defense acquisition programs and other programs as appropriate. In conducting the review, the Secretary shall—
 
-&emsp;“(1) determine whether there is a continuing need for programs that are significantly behind schedule,over budget, or not in compliance with performance or capability requirements; and
+&emsp;“(1) determine whether there is a continuing need for programs that are significantly behind schedule, over budget, or not in compliance with performance or capability requirements; and
 
 &emsp;“(2) identify suitable actions to be taken, including termination, with respect to such programs.”
 
@@ -30,7 +30,7 @@ Subsec. (b). Pub. L. 104–106, §4321(b)(1), substituted “October 13, 1994”
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 ofPub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Pilot Programs for Testing Program Manager Performance of Product Support Oversight Responsibilities for Life Cycle of Acquisition Programs
 
@@ -65,6 +65,4 @@ Pub. L. 103–355, title V, §5001(b), Oct. 13, 1994, 108 Stat. 3350, provided t
 #### Recommended Legislation
 
 Pub. L. 103–355, title V, §5001(c), Oct. 13, 1994, 108 Stat. 3350, directed the Secretary of Defense, not later than one year after Oct 13, 1994, to submit to Congress any recommended legislation that the Secretary considered necessary to carry out this section and otherwise to facilitate and enhance management of Department of Defense acquisition programs on the basis of performance.
-
-§2221
 

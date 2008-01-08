@@ -138,7 +138,7 @@ Subsec. (c)(3)(B). Pub. L. 105–34, §1113(a)(2)(A), inserted “or” at end o
 
 “(ii) the requirements of subsection (b)(3)(A) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (i), or
 
-“(iii) the requirements of subsection (b)(3)(B) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (ii).”
+“(iii) the requirements of subsection (b)(3)(B) are met with respect to such foreign corporation and 10 percentor more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (ii).”
 
 Subsec. (c)(4)(B). Pub. L. 105–34, §1113(a)(2)(B), substituted “sixth tier foreign corporation” for “3rd foreign corporation”.
 
@@ -146,7 +146,7 @@ Subsec. (c)(4)(B). Pub. L. 105–34, §1113(a)(2)(B), substituted “sixth tier 
 
 Subsec. (c)(7). Pub. L. 100–647, §1012(b)(1), substituted “section 960” for “secton 960” and “this section and section 960” for second reference to “this section”.
 
-1986—Pub. L. 99–514 amended section generally, substituting “Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation” for “Credit for corporate stockholder in foreign corporation” as section catchline and substituting present provisions generally relating to post-1986 earnings and taxes for former provisions which had provided in subsec. (a) for a general rule with respect totreatment of taxes paid by foreign corporations, in subsec. (b) for treatment of taxes by a foreign subsidiary of first and second foreign corporations, in subsec. (c) for rules defining accumulated profits and determining accounting periods, and in subsec. (d) for cross references.
+1986—Pub. L. 99–514 amended section generally, substituting “Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation” for “Credit for corporate stockholder in foreign corporation” as section catchline and substituting present provisions generally relating to post-1986 earnings and taxes for former provisions which had provided in subsec. (a) for a general rule with respect to treatment of taxes paid by foreign corporations, in subsec. (b) for treatment of taxes by a foreign subsidiary of first and second foreign corporations, in subsec. (c) for rules defining accumulated profits and determining accounting periods, and in subsec. (d) for cross references.
 
 1976—Pub. L. 94–455, §1033(a), struck out provisions by which dividends from less developed country corporations are not grossed-up by the amount of foreign taxes paid on the underlying income and the deemed-paid foreign tax credits attributable to those dividends are reduced proportionately, struck out subsec. (d) which defined less developed country corporations, and redesignated subsec. (e) as (d).
 

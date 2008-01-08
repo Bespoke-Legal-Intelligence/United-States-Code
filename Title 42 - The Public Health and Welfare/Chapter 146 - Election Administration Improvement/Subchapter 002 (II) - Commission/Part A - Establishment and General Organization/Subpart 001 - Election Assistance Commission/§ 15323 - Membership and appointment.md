@@ -54,7 +54,7 @@
 
 #### (2) Number of terms
 
-&emsp;A member of the Commission may serve as the chairperson and vice chairperson for only1 term each during the term of office to which such member is appointed.
+&emsp;A member of the Commission may serve as the chairperson and vice chairperson for only 1 term each during the term of office to which such member is appointed.
 
 #### (d) Compensation
 

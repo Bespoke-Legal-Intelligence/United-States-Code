@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-The President, acting through the Secretary and the Administrator of the Environmental Protection Agency, shall make a full and complete investigation and study of the alternative national uses of coal available in the United States to meet the Nation's energy requirements consistent with national policies for the protection and enhancement of the quality of the environment and for economic recovery and full employment. In particular the study should identify and evaluate—
+The President, acting through the Secretary and the Administrator of the Environmental Protection Agency, shall make a full and complete investigation and study of the alternative national uses of coal available in the UnitedStates to meet the Nation's energy requirements consistent with national policies for the protection and enhancement of the quality of the environment and for economic recovery and full employment. In particular the study should identify and evaluate—
 
 &emsp;(1) current and prospective coal requirements of the United States;
 

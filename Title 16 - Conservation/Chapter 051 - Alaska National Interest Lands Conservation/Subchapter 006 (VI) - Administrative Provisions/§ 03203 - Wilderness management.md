@@ -14,7 +14,7 @@ Previously existing public use cabins within wilderness designated by this Act, 
 
 #### (d) New cabins
 
-Within wilderness areas designated by this Act, the Secretary or the Secretary of Agriculture as appropriate, is authorized to construct and maintain a limited number of new public use cabins and shelters if such cabins and shelters are necessary for the protection of the public health and safety. All such cabins or shelters shall be constructed of materials whichblend and are compatible with the immediate and surrounding wilderness landscape. The Secretary or the Secretary of Agriculture, as appropriate, shall notify the House Committee on Natural Resources and the Senate Committee on Energy and Natural Resources of his intention to remove an existing or construct a new public use cabin or shelter.
+Within wilderness areas designated by this Act, the Secretary or the Secretary of Agriculture as appropriate, is authorized to construct and maintain a limited number of new public use cabins and shelters if such cabins and shelters are necessary for the protection of the public health and safety. All such cabins or shelters shall be constructed of materials which blend and are compatible with the immediate and surrounding wilderness landscape. The Secretary or the Secretary of Agriculture, as appropriate, shall notify the House Committee on Natural Resources and the Senate Committee on Energy and Natural Resources of his intention to remove an existing or construct a new public use cabin or shelter.
 
 #### (e) Timber contracts
 
@@ -35,10 +35,6 @@ This Act, referred to in subsecs. (b) to (f), is Pub. L. 96–487, Dec. 2, 1980,
 #### Amendments
 
 1994—Subsec. (d). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “designated”.</i>
 

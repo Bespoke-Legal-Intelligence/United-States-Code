@@ -36,7 +36,7 @@ Pub. L. 105–277, §1223(9)(B), struck out subsec. (b) which read as follows: �
 
 Subsec. (c). Pub. L. 105–277, §1223(9)(C), redesignated subsec. (c) as (b).
 
-1994—Pub. L. 103–236 amended section generally. Prior to amendment, section related to powers and duties ofDirector to consult with representatives of the United States and other nations, to provide official United States positions on arms control and disarmament matters to the United States Information Agency, and to formulate and implement plans for arms control inspection and control systems.
+1994—Pub. L. 103–236 amended section generally. Prior to amendment, section related to powers and duties of Director to consult with representatives of the United States and other nations, to provide official United States positions on arms control and disarmament matters to the United States Information Agency, and to formulate and implement plans for arms control inspection and control systems.
 
 #### Effective Date of 1998 Amendment
 

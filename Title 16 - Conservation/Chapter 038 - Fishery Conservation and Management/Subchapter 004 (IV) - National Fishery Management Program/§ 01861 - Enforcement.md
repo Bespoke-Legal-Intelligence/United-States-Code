@@ -2,7 +2,7 @@
 
 #### (a) Responsibility
 
-The provisions of this chapter shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
+The provisions of this chapter shall be enforced by the Secretary and the Secretary of thedepartment in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
 
 #### (b) Powers of authorized officers
 
@@ -34,7 +34,7 @@ If any officer authorized to enforce the provisions of this chapter (as provided
 
 #### (d) Jurisdiction of courts
 
-The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. In the case of Guam or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii, and except that in the case of the Northern Mariana Islands, the appropriatecourt is the United States District Court for the District of the Northern Mariana Islands. Any such court may, at any time—
+The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. In the case of Guam or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands. Any such court may, at any time—
 
 &emsp;(1) enter restraining orders or prohibitions;
 
@@ -52,7 +52,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;(B) a reward of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount, to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter or any other marine resource law enforced by the Secretary;
 
-&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
+&emsp;(C) any expenses directly related to investigations and civil or criminal enforcementproceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
 
 &emsp;(D) any valid liens or mortgages against any property that has been forfeited;
 
@@ -126,7 +126,7 @@ The Secretary, in consultation with the Governors of the Pacific Insular Areas a
 
 #### (4) Allocation of funds
 
-&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds to assist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
+&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds toassist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
 
 #### (i) Improved data sharing
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, as amended, which enacted chapter 53 (§3371 et seq.) of this title, amended section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540 and 3371 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 3371 of this title and Tables.
+The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, as amended, which enacted chapter 53 (§3371 et seq.) of this title, amended section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540 and 3371 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 #### Amendments
 
@@ -227,6 +227,20 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Action Against Vessels and Vessel Owners Engaged in Illegal, Unreported, or Unregulated Fishing
+
+Pub. L. 110–161, div. B, title I, §113, Dec. 26, 2007, 121 Stat. 1896, provided that:
+
+“(a) The Secretary of Commerce may—
+
+&emsp;“(1) develop, maintain, and make public a list of vessels and vessel owners engaged in illegal, unreported, or unregulated fishing, including vessels or vessel owners identified by an international fishery management organization, whether or not the United States is a party to the agreement establishing such organization; and
+
+&emsp;“(2) take appropriate action against listed vessels and vessel owners, including action against fish, fish parts, or fish products from such vessels, in accordance with applicable United States law and consistent with applicable international law, including principles, rights, and obligations established in applicable international fishery management and trade agreements.
+
+“(b) Action taken by the Secretary under subsection (a)(2) that include measures to restrict use of or access to ports or port services shall apply to all ports of the United States and its territories.
+
+“(c) The Secretary may promulgate regulations to implement this section.”
 
 #### Integration of Vessel Monitoring System Data
 

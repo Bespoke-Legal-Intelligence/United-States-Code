@@ -4,7 +4,7 @@
 
 #### (1) Establishment required
 
-&emsp;The Secretary shall establish by interim final regulation a table identifying adverse effects (including injuries, disabilities, illnesses, conditions, and deaths) that shall be presumedto result from the administration of (or exposure to) a smallpox vaccine, and the time period in which the first symptom or manifestation of onset of each such adverse effect must manifest in order for such presumption to apply.
+&emsp;The Secretary shall establish by interim final regulation a table identifying adverse effects (including injuries, disabilities, illnesses, conditions, and deaths) that shall be presumed to result from the administration of (or exposure to) a smallpox vaccine, and the time period in which the first symptom or manifestation of onset of each such adverse effect must manifest in order for such presumption to apply.
 
 #### (2) Amendments
 

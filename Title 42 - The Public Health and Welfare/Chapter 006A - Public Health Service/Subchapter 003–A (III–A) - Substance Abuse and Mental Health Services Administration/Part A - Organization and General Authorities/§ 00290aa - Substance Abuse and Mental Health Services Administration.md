@@ -42,7 +42,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(7) coordinate Federal policy with respect to the provision of treatment services for substance abuse utilizing anti-addiction medications, including methadone;
 
-&emsp;(8) conduct programs, and assure the coordination of such programs with activities of theNational Institutes of Health and the Agency for Healthcare Research and Quality, as appropriate, to evaluate the process, outcomes and community impact of treatment and prevention services and systems of care in order to identify the manner in which such services can most effectively be provided;
+&emsp;(8) conduct programs, and assure the coordination of such programs with activities of the National Institutes of Health and the Agency for Healthcare Research and Quality, as appropriate, to evaluate the process, outcomes and community impact of treatment and prevention services and systems of care in order to identify the manner in which such services can most effectively be provided;
 
 &emsp;(9) collaborate with the Director of the National Institutes of Health in the development of a system by which the relevant research findings of the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and, as appropriate, the Agency for Healthcare Research and Quality are disseminated to service providers in a manner designed to improve the delivery and effectiveness of treatment and prevention services;
 
@@ -66,7 +66,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(15) improve coordination among prevention programs, treatment facilities and nonhealth care systems such as employers, labor unions, and schools, and encourage the adoption of employee assistance programs and student assistance programs;
 
-&emsp;(16) maintain a clearinghouse for substance abuse and mental health information to assure the widespread dissemination of such information to States, political subdivisions, educational agencies and institutions, treatment providers, and the general public;
+&emsp;(16) maintain a clearinghouse for substance abuse and mental health information to assurethe widespread dissemination of such information to States, political subdivisions, educational agencies and institutions, treatment providers, and the general public;
 
 &emsp;(17) in collaboration with the National Institute on Aging, and in consultation with the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism and the National Institute of Mental Health, as appropriate, promote and evaluate substance abuse services for older Americans in need of such services, and mental health services for older Americans who are seriously mentally ill; and
 
@@ -116,7 +116,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;&emsp;(C) establish an advisory committee to be known as the Advisory Committee for Women's Services, which shall be composed of not more than 10 individuals, a majority of whom shall be women, who are not officers or employees of the Federal Government, to be appointed by the Administrator from among physicians, practitioners, treatment providers, and other health professionals, whose clinical practice, specialization, or professional expertise includes a significant focus on women's substance abuse and mental health conditions, that shall—
 
-&emsp;&emsp;&emsp;(i) advise the Associate Administrator on appropriate activities to be undertaken by the agencies of the Administration with respect to women's substance abuse and mental health services, including services which require a multidisciplinary approach;
+&emsp;&emsp;&emsp;(i) advise the Associate Administrator on appropriate activities to be undertaken by the agencies of the Administration with respect to women's substance abuse andmental health services, including services which require a multidisciplinary approach;
 
 &emsp;&emsp;&emsp;(ii) collect and review data, including information provided by the Secretary (including the material referred to in paragraph (3)), and report biannually to the Administrator regarding the extent to which women are represented among senior personnel, and make recommendations regarding improvement in the participation of women in the workforce of the Administration; and
 
@@ -156,7 +156,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (1) In general
 
-&emsp;The Administrator may obtain (in accordance with section 3109 of title 5, but without regard to the limitation in such section on the number of days or the period of service) the services of not more than 20 experts or consultants who have professional qualifications.Such experts and consultants shall be obtained for the Administration and for each of its agencies.
+&emsp;The Administrator may obtain (in accordance with section 3109 of title 5, but without regard to the limitation in such section on the number of days or the period of service) the services of not more than 20 experts or consultants who have professional qualifications. Such experts and consultants shall be obtained for the Administration and for each of its agencies.
 
 #### (2) Compensation and expenses
 
@@ -174,7 +174,7 @@ The Administrator may accept voluntary and uncompensated services.
 
 #### (j) Administration
 
-The Administrator shall ensure that programs and activities assigned under this subchapter to the Administration are fully administered by the respective Centers to which such programs and activities are assigned.
+The Administrator shall ensure that programs and activities assigned under this subchapter to the Administration are fully administered bythe respective Centers to which such programs and activities are assigned.
 
 #### (k) Report concerning activities and progress
 
@@ -286,7 +286,7 @@ Subsecs. (e), (f). Pub. L. 98–24, §2(b)(2)(D), added subsecs. (e) and (f).
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
@@ -312,7 +312,7 @@ Substance Abuse and Mental Health Services Administration.—Except as specifica
 
 “(b)
 
-National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
+National Institutes.—Except as specifically provided otherwise in this Act or an amendment madeby this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
 
 “(c)
 
@@ -420,7 +420,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### Report by Substance Abuse and Mental Health Services Administration
 
-Section 708 of Pub. L. 102–321 directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning current policies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistent with information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
+Section 708 of Pub. L. 102–321 directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning current policies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistentwith information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
 
 #### Relationship Between Mental Illness and Substance Abuse
 

@@ -12,7 +12,7 @@
 
 &emsp;(3) land in Utah acquired by the United States for Federal land, royalties, or other assets if, at the time of such acquisition, a unit of general local government was entitled under applicable State law to receive payments in lieu of taxes from the State of Utah for such land: <i>Provided, however</i>, That no payment under this paragraph shall exceed the payment that would have been made under State law if such land had not been acquired.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 103–93, §10(b), Oct. 1, 1993, 107 Stat. 999; Pub.L. 103–397, §4, Oct. 22, 1994, 108 Stat. 4157; Pub. L. 104–333, div. I, title X, §1033(b), Nov. 12, 1996, 110 Stat. 4240.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 103–93, §10(b), Oct. 1, 1993, 107 Stat. 999; Pub. L. 103–397, §4, Oct. 22, 1994, 108 Stat. 4157; Pub. L. 104–333, div. I, title X, §1033(b), Nov. 12, 1996, 110 Stat. 4240.)
 
 Historical and Revision Notes
 

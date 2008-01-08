@@ -2,7 +2,7 @@
 
 #### (a) Treatment as employees of American employer
 
-For purposes of applying this part with respect to a pension, profit-sharing, or stock bonus plandescribed in section 401(a) or an annuity plan described in section 403(a), of an American employer (as defined in section 3121(h)), an individual who is a citizen or resident of the United States and who is an employee of a foreign affiliate (as defined in section 3121(<i>l</i>)(6)) of such American employer shall be treated as an employee of such American employer, if—
+For purposes of applying this part with respect to a pension, profit-sharing, or stock bonus plan described in section 401(a) or an annuity plan described in section 403(a), of an American employer (as defined in section 3121(h)), an individual who is a citizen or resident of the United States and who is an employee of a foreign affiliate (as defined in section 3121(<i>l</i>)(6)) of such American employer shall be treated as an employee of such American employer, if—
 
 &emsp;(1) such American employer has entered into an agreement under section 3121(<i>l</i>) which applies to the foreign affiliate of which such individual is an employee;
 
@@ -44,7 +44,7 @@ For purposes of applying section 404 with respect to contributions made to or un
 
 #### (e) Treatment as employee under related provisions
 
-An individual who is treated as an employee of an American employer under subsection (a) shall also be treated as an employee of such American employer, with respect to the plan described in subsection (a)(2), for purposes of applying the following provisions of this title:
+An individual who is treated as an employee of an American employer under subsection (a)shall also be treated as an employee of such American employer, with respect to the plan described in subsection (a)(2), for purposes of applying the following provisions of this title:
 
 &emsp;(1) Section 72(f) (relating to special rules for computing employees’ contributions).
 

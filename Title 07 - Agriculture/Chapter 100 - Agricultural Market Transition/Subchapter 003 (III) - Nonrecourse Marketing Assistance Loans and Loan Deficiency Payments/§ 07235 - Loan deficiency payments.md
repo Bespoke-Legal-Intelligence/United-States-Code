@@ -14,7 +14,7 @@ A loan deficiency payment under this section shall be computed by multiplying—
 
 &emsp;(1) the loan payment rate determined under subsection (c) of this section for the loan commodity; by
 
-&emsp;(2) the quantity of the loan commodity produced by the eligible producers, excluding any quantity for which the producers obtain a loan under section 7231 of this title.
+&emsp;(2) the quantity of the loan commodity produced by the eligible producers, excluding anyquantity for which the producers obtain a loan under section 7231 of this title.
 
 #### (c) Loan payment rate
 
@@ -34,7 +34,7 @@ A payment to a producer eligible for a payment under subsection (a)(2) of this s
 
 #### (f) Beneficial interest
 
-Subject to subsection (e) of this section, a producer shall be eligible for a payment under thissection only if the producer has a beneficial interest in the commodity, as determined by the Secretary.
+Subject to subsection (e) of this section, a producer shall be eligible for a payment under this section only if the producer has a beneficial interest in the commodity, as determined by the Secretary.
 
 #### (g) Effective date for payment rate determination
 

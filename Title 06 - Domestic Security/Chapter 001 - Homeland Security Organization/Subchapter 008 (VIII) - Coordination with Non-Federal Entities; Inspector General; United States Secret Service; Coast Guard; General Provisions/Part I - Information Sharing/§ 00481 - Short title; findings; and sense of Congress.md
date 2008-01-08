@@ -42,3 +42,7 @@ It is the sense of Congress that Federal, State, and local entities should share
 
 This part, referred to in subsec. (a), was in the original “This subtitle”, meaning subtitle I (§§891–899) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2252, which enacted this part, amended section 2517 of Title 18, Crimes and Criminal Procedure, Rule 6 of the Federal Rules of Criminal Procedure, set out in the Appendix to Title 18, and sections 403–5d, 1806, and 1825 of Title 50, War and National Defense, and amended provisions set out as a note under section 2517 of Title 18. For complete classification of subtitle I to the Code, see Tables.
 
+#### Reports to Congress
+
+Pub. L. 110–28, title III, May 25, 2007, 121 Stat. 139, provided in part: “That starting July 1, 2007, the Secretary of Homeland Security shall submit quarterly reports to the Committees on Appropriations of the Senate and the House of Representatives detailing the information required in House Report 110–107.”
+

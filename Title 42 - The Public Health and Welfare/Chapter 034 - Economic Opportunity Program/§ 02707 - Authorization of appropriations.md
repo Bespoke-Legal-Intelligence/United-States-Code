@@ -1,6 +1,6 @@
 ### §2707. Authorization of appropriations
 
-(a)(1) For the purpose of carrying out subchapters I, II, III, IV, V, VI, VII, VIII, and IX of this chapter, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1975 through 1977.
+(a)(1) For the purpose of carrying out subchapters I, II, III, IV, V, VI, VII, VIII, and IX ofthis chapter, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1975 through 1977.
 
 (2) For the purpose of carrying out the programs authorized under section 2808 of this title there is authorized to be appropriated $330,000,000 for the fiscal year 1975 and such sums as may be necessary for each of the two succeeding fiscal years.
 

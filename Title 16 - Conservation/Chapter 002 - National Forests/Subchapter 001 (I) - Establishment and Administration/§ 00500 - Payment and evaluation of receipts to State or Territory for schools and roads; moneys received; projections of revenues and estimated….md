@@ -88,7 +88,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(1) The National Forest System, which is managed by the United States Forest Service, was established in 1907 and has grown to include approximately 192,000,000 acres of Federal lands.
 
-&emsp;“(2) The public domain lands known as revested Oregon and California Railroad grant lands and the reconveyed Coos Bay Wagon Road grant lands, which are managed predominantly by the Bureau of Land Management were returned to Federal ownership in 1916 and 1919 and now comprise approximately 2,600,000 acres of Federal lands.
+&emsp;“(2) The public domain lands known as revested Oregon and California Railroad grant lands and the reconveyed Coos Bay Wagon Road grant lands, whichare managed predominantly by the Bureau of Land Management were returned to Federal ownership in 1916 and 1919 and now comprise approximately 2,600,000 acres of Federal lands.
 
 &emsp;“(3) Congress recognized that, by its decision to secure these lands in Federal ownership, the counties in which these lands are situated would be deprived of revenues they would otherwise receive if the lands were held in private ownership.
 
@@ -178,9 +178,9 @@ percent payment.—The term ‘50-percent payment’ means the payment that is t
 
 &emsp;“(8)
 
-Safety net payments.—The term ‘safety net payments’ means the special payment amounts paid to States and counties required by section 13982 or 13983 of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; \[former\] 16 U.S.C. 500 note; \[former\] 43 U.S.C. 1181f note).”
+Safety net payments.—The term ‘safety net payments’ means the special payment amounts paidto States and counties required by section 13982 or 13983 of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; \[former\] 16 U.S.C. 500 note; \[former\] 43 U.S.C. 1181f note).”
 
-Pub. L. 106–393, titles I–IV, Oct. 30, 2000, 114 Stat. 1611–1623, provided that:
+Pub. L. 106–393, titles I–IV, Oct. 30, 2000, 114 Stat. 1611–1623, as amended by Pub. L. 110–28, title V, §5401(c), May 25, 2007, 121 Stat. 166, provided that:
 
 #### “TITLE I—SECURE PAYMENTS FOR STATES AND COUNTIES CONTAINING FEDERAL LANDS
 
@@ -396,7 +396,7 @@ Submission of Project Proposals to Secretary Concerned.—
 
 &emsp;“(1)
 
-Projects funded using project funds.—Not later than September 30 for fiscal year 2001, and each September 30 thereafter for each succeeding fiscal year through fiscal year 2006, each resource advisory committee shall submit to the Secretary concerned a description of any projects that the resource advisory committee proposes the Secretary undertake using any project funds reserved by eligible counties in the area in which the resource advisory committee has geographic jurisdiction.
+Projects funded using project funds.—Not later than September 30 for fiscal year 2001, and each September 30 thereafter for each succeeding fiscal year through fiscal year 2007, each resource advisory committee shall submit to the Secretary concerned a description of any projects that the resource advisory committee proposes the Secretary undertake using any project funds reserved by eligible counties in the area in which the resource advisory committee has geographic jurisdiction.
 
 &emsp;“(2)
 
@@ -420,7 +420,7 @@ Required Description of Projects.—In submitting proposed projects to the Secre
 
 &emsp;“(5) Expected outcomes, including how the project will meet or exceed desired ecological conditions, maintenance objectives, or stewardship objectives, as well as an estimation of the amount of any timber, forage, and other commodities and other economic activity, including jobs generated, if any, anticipated as part of the project.
 
-&emsp;“(6) A detailed monitoring plan, including funding needs and sources, that tracks and identifies the positive or negative impacts of the project, implementation, and provides for validation monitoring. The monitoring plan shall include an assessment of the following: Whether or not the project met or exceeded desired ecological conditions; created local employment or training opportunities, including summer youth jobs programs such as the Youth Conservation Corps where appropriate; and whether the project improved the use of, or added value to, any products removed from lands consistent with the purposes of this Act.
+&emsp;“(6) A detailed monitoring plan, including funding needs and sources, that tracks and identifies the positive or negative impacts of the project, implementation, and provides for validation monitoring. The monitoring plan shall include an assessment of thefollowing: Whether or not the project met or exceeded desired ecological conditions; created local employment or training opportunities, including summer youth jobs programs such as the Youth Conservation Corps where appropriate; and whether the project improved the use of, or added value to, any products removed from lands consistent with the purposes of this Act.
 
 &emsp;“(7) An assessment that the project is to be in the public interest.
 
@@ -522,7 +522,7 @@ Annual percentages.—Under the pilot program, the Secretary concerned shall ens
 
 &emsp;&emsp;&emsp;“(v) For fiscal year 2005, 50 percent.
 
-&emsp;&emsp;&emsp;“(vi) For fiscal year 2006, 50 percent.
+&emsp;&emsp;&emsp;“(vi) For fiscal year 2007, 50 percent.
 
 &emsp;&emsp;“(C)
 
@@ -534,7 +534,7 @@ Assistance.—The Secretary concerned may use funds from any appropriated accoun
 
 &emsp;&emsp;“(E)
 
-Review and report.—Not later than September 30, 2003, the Comptroller General shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Agriculture of the House of Representatives, and the Committee on Resources of the House of Representatives a report assessing the pilot program. The Secretary concerned shall submit to such committees an annual report describing the results of the pilot program.
+Review and report.—Not later than September 30, 2003, the Comptroller General shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Agriculture of the House of Representatives, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report assessing the pilot program. The Secretary concerned shall submit to such committees an annual report describing the results of the pilot program.
 
 “(f)
 
@@ -724,13 +724,13 @@ Condition on project commencement.—The unit of National Forest System lands or
 
 &emsp;“(3)
 
-Subsequent transfers for multiyear projects.—For the second and subsequent fiscal years of a multiyear project to be funded in whole or in part using project funds, the unit of National Forest System lands or BLM District concerned shall use the amount of project funds required to continue the project in that fiscal year according to the agreemententered into under subsection (a). The Secretary concerned shall suspend work on the project if the project funds required by the agreement in the second and subsequent fiscal years are not available.
+Subsequent transfers for multiyear projects.—For the second and subsequent fiscal years of a multiyear project to be funded in whole or in part using project funds, the unit of National Forest System lands or BLM District concerned shall use the amount of project funds required to continue the project in that fiscal year according to the agreement entered into under subsection (a). The Secretary concerned shall suspend work on the project if the project funds required by the agreement in the second and subsequent fiscal years are not available.
 
 #### “SEC. 207. AVAILABILITY OF PROJECT FUNDS.
 
 “(a)
 
-Submission of Proposed Projects To Obligate Funds.—By September 30 of each fiscal year through fiscal year 2006, a resource advisory committee shall submit to the Secretary concerned pursuant to section 203(a)(1) a sufficient number of project proposals that, if approved, would result in the obligation of at least the full amount of the project funds reserved by the participating county in the preceding fiscal year.
+Submission of Proposed Projects To Obligate Funds.—By September 30 of each fiscal year through fiscal year 2007, a resource advisory committee shall submit to the Secretary concerned pursuant to section 203(a)(1) a sufficient number of project proposals that, if approved, would result in the obligation of at least the full amount of the project funds reserved by the participating county in the preceding fiscal year.
 
 “(b)
 
@@ -746,7 +746,7 @@ Effect of Court Orders.—If an approved project under this Act \[see Short Titl
 
 #### “SEC. 208. TERMINATION OF AUTHORITY.
 
-“The authority to initiate projects under this title shall terminate on September 30, 2006. Any project funds not obligated by September 30, 2007, shall be deposited in the Treasury of the United States.
+“The authority to initiate projects under this title shall terminate on September 30, 2007. Any project funds not obligated by September 30, 2008, shall be deposited in the Treasury of the United States.
 
 #### “TITLE III—COUNTY PROJECTS
 
@@ -812,7 +812,7 @@ Community forestry.—A county may use these funds towards non-Federal cost-shar
 
 #### “SEC. 303. TERMINATION OF AUTHORITY.
 
-“The authority to initiate projects under this title shall terminate on September 30, 2006. Any county funds not obligated by September 30, 2007 shall be available to be expended by the county for the uses identified in section 302(b).
+“The authority to initiate projects under this title shall terminate on September 30, 2007. Any county funds not obligated by September 30, 2008 shall be available to be expended by the county for the uses identified in section 302(b).
 
 #### “TITLE IV—MISCELLANEOUS PROVISIONS
 
@@ -838,6 +838,8 @@ Deposit of Revenues and Other Funds.—All revenues generated from projects purs
 
 “\[Repealed section 13982 of Pub. L. 103–66, which was set out as a note below, and section 13983 of Pub. L. 103–66, which was set out as a note under section 1181f of Title 43, Public Lands.\]”
 
+\[Pub. L. 110–28, title V, §5401(c), May 25, 2007, 121 Stat. 166, provided that the amendments made by section 5401(c) to titles II and III of Pub. L. 106–393, set out above, are effective Sept. 30, 2006.\]
+
 #### Advisory Committee on Forest Counties Payments
 
 Pub. L. 106–291, title III, §320, Oct. 11, 2000, 114 Stat. 990, as amended by Pub. L. 108–319, §1, Oct. 5, 2004, 118 Stat. 1212, provided that:
@@ -852,7 +854,7 @@ Advisory committee.—The term ‘Advisory Committee’ means the Forest Countie
 
 &emsp;“(2)
 
-Committees of jurisdiction.—The term ‘committees of jurisdiction’ means the Committee on Agriculture, the Committee on Resources, and the Committee on Appropriations of the House of Representatives and the Committee on Agriculture, Nutrition,and Forestry, the Committee on Energy and Natural Resources, and the Committee on Appropriations of the Senate.
+Committees of jurisdiction.—The term ‘committees of jurisdiction’ means the Committee on Agriculture, the Committee on Resources \[now Committee on Natural Resources\], and the Committee on Appropriations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Energy and Natural Resources, and the Committee on Appropriations of the Senate.
 
 &emsp;“(3)
 
@@ -938,7 +940,7 @@ Committee rules.—The Advisory Committee may establish such procedural and admi
 
 &emsp;“(6)
 
-Federal agency cooperation.—The heads of the departments, agencies, and instrumentalities ofthe executive branch of the Federal Government shall cooperate with the Advisory Committee in the performance of its functions under this section and should furnish, as practicable, to the Advisory Committee information which the Advisory Committee deems necessary to carry out such functions.
+Federal agency cooperation.—The heads of the departments, agencies, and instrumentalities of the executive branch of the Federal Government shall cooperate with the Advisory Committee in the performance of its functions under this section and should furnish, as practicable, to the Advisory Committee information which the Advisory Committee deems necessary to carry out such functions.
 
 “(c)
 

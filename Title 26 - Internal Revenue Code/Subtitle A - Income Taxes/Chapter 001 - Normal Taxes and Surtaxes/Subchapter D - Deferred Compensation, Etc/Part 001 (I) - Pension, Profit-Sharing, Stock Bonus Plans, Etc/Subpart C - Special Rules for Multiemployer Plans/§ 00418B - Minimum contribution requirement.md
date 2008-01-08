@@ -8,9 +8,9 @@
 
 &emsp;&emsp;(A) the plan shall continue to maintain its funding standard account, and
 
-&emsp;&emsp;(B) the plan's accumulated funding deficiency under section 412(a) for such plan year shall be equal to the excess (if any) of—
+&emsp;&emsp;(B) the plan's accumulated funding deficiency under section 412(a) <sup>1</sup> for such plan year shall be equal to the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 418C(a)) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such plan year or under section 412(a) if the plan was not in reorganization), over
+&emsp;&emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 418C(a)) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such plan year or under section 412(a) <sup>1</sup> if the plan was not in reorganization), over
 
 &emsp;&emsp;&emsp;(ii) amounts considered contributed by employers to or under the plan for the plan year (increased by any amount waived under subsection (f) for the plan year).
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) if the plan was in reorganization in the preceding plan year, the sum of the amount determined under this subparagraph for the preceding plan year and the amount (if any) determined under subparagraph (B) for the preceding plan year, plus
 
-&emsp;&emsp;(B) if for the plan year a change in benefits is first required to be considered in computing the charges under section 412(b)(2)(A) or (B), the sum of—
+&emsp;&emsp;(B) if for the plan year a change in benefits is first required to be considered in computing the charges under section 412(b)(2)(A) or (B),<sup>1</sup> the sum of—
 
 &emsp;&emsp;&emsp;(i) the increase in normal cost for a plan year determined under the entry age normal funding method due to increases in benefits described in section 418(b)(4)(A)(ii) (determined without regard to section 418(b)(4)(B)(ii)), and
 
@@ -158,25 +158,29 @@
 
 #### (e) Certain retroactive plan amendments
 
-In determining the minimum contribution requirement with respect to a plan for a plan year under subsection (b), the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under section 412(c)(8).
+In determining the minimum contribution requirement with respect to a plan for a plan year under subsection (b), the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under section 412(c)(8).<sup>1</sup>
 
 #### (f) Waiver of accumulated funding deficiency
 
 #### (1) In general
 
-&emsp;The Secretary may waive any accumulated funding deficiency under this section in accordance with the provisions of section 412(d)(1).
+&emsp;The Secretary may waive any accumulated funding deficiency under this section in accordance with the provisions of section 412(d)(1).<sup>1</sup>
 
 #### (2) Treatment of waiver
 
-&emsp;Any waiver under paragraph (1) shall not be treated as a waived funding deficiency (within the meaning of section 412(d)(3)).
+&emsp;Any waiver under paragraph (1) shall not be treated as a waived funding deficiency (within the meaning of section 412(d)(3)).<sup>1</sup>
 
 #### (g) Actuarial assumptions must be reasonable
 
-For purposes of making any determination under this subpart, the requirements of section 412(c)(3) shall apply.
+For purposes of making any determination under this subpart, the requirements of section 412(c)(3) <sup>1</sup> shall apply.
 
 (Added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1274.)
 
 #### References in Text
 
+Section 412, referred to in subsecs. (a)(1)(B), (d)(1)(B), and (e) to (g), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, provisions formerly contained in section 412(a), (b)(2)(A), (B), (c)(3), (8), (d)(1), and (3), have been revised and restated elsewhere in, or omitted from, the section.
+
 Section 4216(b) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(3)(A), is classified to section 1396(b) of Title 29, Labor.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

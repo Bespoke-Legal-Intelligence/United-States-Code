@@ -32,7 +32,7 @@
 
 #### (b) Application for bona fide intention to use trademark
 
-(1) A person who has a bona fide intention, under circumstances showing the good faith of such person, to use a trademark in commerce may request registration of its trademark on the principal register hereby established by paying the prescribed fee and filing in the Patent and Trademark Office an application and a verified statement, in such form as may be prescribed by the Director.
+(1) A person who has a bona fide intention, under circumstances showing the good faith ofsuch person, to use a trademark in commerce may request registration of its trademark on the principal register hereby established by paying the prescribed fee and filing in the Patent and Trademark Office an application and a verified statement, in such form as may be prescribed by the Director.
 
 (2) The application shall include specification of the applicant's domicile and citizenship, the goods in connection with which the applicant has a bona fide intention to use the mark, and a drawing of the mark.
 
@@ -66,7 +66,7 @@ At any time during examination of an application filed under subsection (b) of t
 
 #### (e) Designation of resident for service of process and notices
 
-If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
+If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United StatesPatent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
 (July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Pub. L. 87–772, §1, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, §103, title II, §201(a)(1), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(1), (2), Nov. 2, 2002, 116 Stat. 1906.)
 
@@ -136,7 +136,7 @@ Section 46(a) of act July 5, 1946, provided that this chapter shall be in force 
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–312, §1(a), Oct. 6, 2006, 120 Stat. 1730, provided that: “This Act \[amending sections 1052, 1063, 1064, 1092, 1125, and 1127 of this title\] may be cited as the ‘Trademark Dilution Revision Act of 2006’.”
+Pub. L. 109–312, §1(a), Oct. 6, 2006, 120 Stat. 1730, provided that: “This Act \[amending sections 1052, 1063,1064, 1092, 1125, and 1127 of this title\] may be cited as the ‘Trademark Dilution Revision Act of 2006’.”
 
 #### Short Title of 2004 Amendment
 
@@ -198,7 +198,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Pending Proceedings and Existing Registration and Rights Under Prior Acts
 
-Section 46(a) of act July 5, 1946, provided in part that this chapter, except as otherwise specifically provided therein, shall not affect any suit, proceeding or appeal pending on the effective date of this chapter and that the repeal of all inconsistent acts “shall not affect the validity of registrations granted or applied for under any of said Acts prior to the effective date of this Act \[July 5, 1947\], or rights or remedies thereunder except as provided in sections 8, 12, 14, 15, and 47 of this Act \[sections 1058, 1062, 1064, and 1065 of this title and note under this section\].”
+Section 46(a) of act July 5, 1946, provided in part that this chapter, except as otherwise specifically provided therein, shall not affect any suit, proceeding or appealpending on the effective date of this chapter and that the repeal of all inconsistent acts “shall not affect the validity of registrations granted or applied for under any of said Acts prior to the effective date of this Act \[July 5, 1947\], or rights or remedies thereunder except as provided in sections 8, 12, 14, 15, and 47 of this Act \[sections 1058, 1062, 1064, and 1065 of this title and note under this section\].”
 
 Sections 46(b) and 47 of act July 5, 1946, provided:
 

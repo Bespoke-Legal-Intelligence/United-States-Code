@@ -14,7 +14,7 @@ The Executive Director shall report to the Commission at semi-annual public meet
 
 #### (d) Annual status report
 
-The Executive Director shall prepare and forward to the Commission an annual report (for the fiscal year 1978 and each succeeding fiscal year) on the status of the Commission's programs concerning domestic safeguards matters including an assessment of the effectiveness and adequacy of safeguards at facilities and activities licensed by the Commission. The Commission shall forward to the Congress a report under this section prior to February 1, 1979, as a separate document, and prior to February 1 of each succeeding year as a separate chapter of the Commission's annual report (required under section 5877(c) of this title) following the fiscal year to which such report applies.
+The Executive Director shall prepare and forward to the Commission an annual report (for the fiscal year 1978 and each succeeding fiscal year) on the status of the Commission's programs concerning domestic safeguards matters including an assessment of the effectiveness and adequacy of safeguards at facilities and activities licensed by the Commission. The Commission shall forward to the Congress a report under this section prior to February 1, 1979, as aseparate document, and prior to February 1 of each succeeding year as a separate chapter of the Commission's annual report (required under section 5877(c) of this title) following the fiscal year to which such report applies.
 
 #### (e) Additional officers
 
@@ -34,7 +34,7 @@ Subsec. (e). Pub. L. 95–601, §4(b), redesignated former subsec. (c) as (e).
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to forwarding ofannual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to forwarding of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
 
 #### Transfer of Functions
 

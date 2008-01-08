@@ -130,7 +130,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (C) Chairperson
 
-&emsp;&emsp;The Secretary shall select 1 member, from members appointed to the Council, who isnot an officer or employee of the United States nor any State, county, city, or town government, who shall serve as the chairperson of the Council.
+&emsp;&emsp;The Secretary shall select 1 member, from members appointed to the Council, who is not an officer or employee of the United States nor any State, county, city, or town government, who shall serve as the chairperson of the Council.
 
 #### (D) Terms
 

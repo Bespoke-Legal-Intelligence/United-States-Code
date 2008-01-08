@@ -94,7 +94,7 @@ Qualified project.—The term “qualified project” means a planning or capita
 
 &emsp;&emsp;&emsp;(v) reduces congestion and pollution (including noise pollution and visual pollution); or
 
-&emsp;&emsp;&emsp;(vi) conserves a natural, historical, or cultural resource (excluding rehabilitationor restoration of a non-transportation facility).
+&emsp;&emsp;&emsp;(vi) conserves a natural, historical, or cultural resource (excluding rehabilitation or restoration of a non-transportation facility).
 
 (c)
 
@@ -238,7 +238,7 @@ Financing costs.—
 
 &emsp;&emsp;(A)
 
-In general.—The cost of carrying out part of a qualified project under paragraph (1) includes the amount of interest earned and payable on bonds issued by a State or local governmental authority, to the extent that proceeds of the bond are expended in carrying out that part.
+In general.—The cost of carrying out part of a qualified project under paragraph (1) includes the amount of interest earned and payable on bonds issued by a State or local governmental authority, to the extentthat proceeds of the bond are expended in carrying out that part.
 
 &emsp;&emsp;(B)
 
@@ -326,5 +326,9 @@ The date of enactment of the Federal Public Transportation Act of 2005, referred
 
 #### Prior Provisions
 
-A prior section 5320, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 103–429, §6(9), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, §3009(h)(3)(A), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, §9009(h)(1),July 22, 1998, 112 Stat. 856, related to construction of a suspended light rail system technology pilot project, prior to repeal by Pub. L. 109–59, title III, §3021(a), Aug. 10, 2005, 119 Stat. 1608.
+A prior section 5320, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 103–429, §6(9), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, §3009(h)(3)(A), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, §9009(h)(1), July 22, 1998, 112 Stat. 856, related to construction of a suspended light rail system technology pilot project, prior to repeal by Pub. L. 109–59, title III, §3021(a), Aug. 10, 2005, 119 Stat. 1608.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

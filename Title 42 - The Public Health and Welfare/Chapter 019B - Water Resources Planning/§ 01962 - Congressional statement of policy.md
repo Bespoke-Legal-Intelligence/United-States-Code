@@ -202,7 +202,7 @@ In General.—Nothing in this Act affects—
 
 “(b)
 
-Treaty.—Nothing in this Act shall delay or alter the implementation or operation of any works constructed, modified, acquired, or used within the territorial limits of the United States relating to the waters governed by the Treaty Between the United States andMexico Regarding Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, Treaty Series 994 (59 Stat. 1219).
+Treaty.—Nothing in this Act shall delay or alter the implementation or operation of any works constructed, modified, acquired, or used within the territorial limits of the United States relating to the waters governed by the Treaty Between the United States and Mexico Regarding Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, Treaty Series 994 (59 Stat. 1219).
 
 #### “SEC. 7. REPORTS.
 

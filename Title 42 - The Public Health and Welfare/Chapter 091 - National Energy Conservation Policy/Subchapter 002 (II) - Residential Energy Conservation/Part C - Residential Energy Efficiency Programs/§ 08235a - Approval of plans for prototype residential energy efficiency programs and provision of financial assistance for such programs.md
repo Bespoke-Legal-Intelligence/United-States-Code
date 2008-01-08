@@ -40,7 +40,7 @@ The Secretary may provide financial assistance to any State or local government 
 
 #### (d) Limitation
 
-The Secretary may approve under subsection (a) of this section not more than 4 plans for theestablishment of prototype residential energy efficiency programs.
+The Secretary may approve under subsection (a) of this section not more than 4 plans for the establishment of prototype residential energy efficiency programs.
 
 (Pub. L. 95–619, title II, §262, as added Pub. L. 96–294, title V, §562, June 30, 1980, 94 Stat. 746.)
 

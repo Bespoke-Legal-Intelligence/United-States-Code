@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants to applicants to demonstrate the desirability and feasibility of providing very low-cost housing, to be known as safe havens, to homeless persons who, at the time, are unwilling or unable to participate in mental health treatment programs or to receive other supportive services.
+The Secretary may make grants to applicants to demonstrate the desirability and feasibility of providing very low-cost housing, to be knownas safe havens, to homeless persons who, at the time, are unwilling or unable to participate in mental health treatment programs or to receive other supportive services.
 
 #### (b) Purposes
 

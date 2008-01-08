@@ -170,7 +170,7 @@ Pub. L. 106–505, title VII, §701(b), Nov. 13, 2000, 114 Stat. 2346, and Pub. 
 
 &emsp;“(1) Organ procurement organizations play an important role in the effort to increase organ donation in the United States.
 
-&emsp;“(2) The current process for the certification and recertification of organ procurement organizations conducted by the Department of Health and Human Services has created a level of uncertainty that is interfering with the effectiveness of organ procurement organizations in raising the level of organ donation.
+&emsp;“(2) The current process for the certification and recertification of organ procurement organizationsconducted by the Department of Health and Human Services has created a level of uncertainty that is interfering with the effectiveness of organ procurement organizations in raising the level of organ donation.
 
 &emsp;“(3) The General Accounting Office \[now Government Accountability Office\], the Institute of Medicine, and the Harvard School of Public Health have identified substantial limitations in the organ procurement organization certification and recertification process and have recommended changes in that process.
 

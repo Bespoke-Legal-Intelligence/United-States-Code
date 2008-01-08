@@ -12,7 +12,7 @@ If the taxpayer fails to substantially comply with any formal document request a
 
 #### (2) Foreign nondisclosure law not reasonable cause
 
-&emsp;For purposes of paragraph (1), the fact that a foreign jurisdiction would impose a civil orcriminal penalty on the taxpayer (or any other person) for disclosing the requested documentation is not reasonable cause.
+&emsp;For purposes of paragraph (1), the fact that a foreign jurisdiction would impose a civil or criminal penalty on the taxpayer (or any other person) for disclosing the requested documentation is not reasonable cause.
 
 #### (c) Formal document request
 

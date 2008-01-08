@@ -76,7 +76,7 @@ A loan may be guaranteed under this subchapter only for—
 
 &emsp;&emsp;(B) $5,000; or
 
-&emsp;&emsp;(C) the amount needed to provide for the basic family needs of the borrower and the borrower's immediate family for 3 calendar months.
+&emsp;&emsp;(C) the amount needed to provide for the basic family needs of the borrower and theborrower's immediate family for 3 calendar months.
 
 (Pub. L. 87–128, title III, §312, Aug. 8, 1961, 75 Stat. 310; Pub. L. 87–703, title IV, §401(4), Sept. 27, 1962, 76 Stat. 632; Pub. L. 90–488, §8, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §§120(b), 121, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–113, title XIV, §1448(b), Sept. 29, 1977, 91 Stat. 1012; Pub. L. 95–334, title I, §115, Aug. 4, 1978, 92 Stat. 425; Pub. L. 96–438, §1(3), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–198, title XIII, §§1306, 1307, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 101–624, title XVIII, §1818(b), Nov. 28, 1990, 104 Stat. 3830; Pub. L. 102–237, title V, §501(b), Dec. 13, 1991, 105 Stat. 1866; Pub. L. 102–552, title V, §516(f)(1)(A), (2), Oct. 28, 1992, 106 Stat. 4137, 4138; Pub. L. 104–127, title VI, §612(a), Apr. 4, 1996, 110 Stat. 1087.)
 
@@ -118,7 +118,7 @@ Subsecs. (b) to (d). Pub. L. 92–419, §121(3), added subsecs. (b) to (d).
 
 #### Effective Date of 1996 Amendment
 
-Section 612(b) of Pub. L. 104–127 provided that: “Section 312(c)(1) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1942(c)(1)\] shall not apply until the Secretary of Agriculture makes the determination required by section 312(c)(2) of the Act.” \[The Secretary's determination relating to hazard insuranceunder this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.\]
+Section 612(b) of Pub. L. 104–127 provided that: “Section 312(c)(1) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1942(c)(1)\] shall not apply until the Secretary of Agriculture makes the determination required by section 312(c)(2) of the Act.” \[The Secretary's determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.\]
 
 Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 

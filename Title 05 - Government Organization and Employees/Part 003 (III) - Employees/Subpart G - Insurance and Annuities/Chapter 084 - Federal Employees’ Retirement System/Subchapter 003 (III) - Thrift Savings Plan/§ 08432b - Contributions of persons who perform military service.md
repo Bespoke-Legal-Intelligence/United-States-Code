@@ -38,7 +38,7 @@
 
 (2) An employee to whom this section applies is entitled to have contributed to the Thrift Savings Fund on such employee's behalf an amount equal to—
 
-&emsp;(A) the total contributions to which that individual would have been entitled under section 8432(c)(2), based on the amounts contributed by such individual under section 8440e (other than under subsection (d)(2) thereof)with respect to the period referred to in subsection (b)(2)(B), if those amounts had been contributed by such individual under section 8432(a); reduced by
+&emsp;(A) the total contributions to which that individual would have been entitled under section 8432(c)(2), based on the amounts contributed by such individual under section 8440e (other than under subsection (d)(2) thereof) with respect to the period referred to in subsection (b)(2)(B), if those amounts had been contributed by such individual under section 8432(a); reduced by
 
 &emsp;(B) any contributions actually made on such employee's behalf under section 8432(c)(2) (including pursuant to an agreement under section 211(d) of title 37) with respect to the period referred to in subsection (b)(2)(B).
 

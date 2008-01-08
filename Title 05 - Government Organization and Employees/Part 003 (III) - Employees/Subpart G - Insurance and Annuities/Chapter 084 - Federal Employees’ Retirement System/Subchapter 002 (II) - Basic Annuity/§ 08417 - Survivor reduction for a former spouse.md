@@ -2,7 +2,7 @@
 
 (a) If an employee or Member has a former spouse who is entitled to a survivor annuity as provided in section 8445, the reduction described in section 8419(a) shall be made.
 
-(b)(1) An employee or Member who has a former spouse may elect, under procedures prescribed by the Office, a reduction in the annuity of the employee or Member under section 8419(a) in order to provide a survivor annuity for such former spouse under section 8445.
+(b)(1) An employee or Member who has a former spouse may elect, under procedures prescribed by the Office, a reduction in the annuity of the employee or Member under section 8419(a)in order to provide a survivor annuity for such former spouse under section 8445.
 
 (2) An election under this subsection shall be made at the time of retirement or, if the marriage is dissolved after the date of retirement, within 2 years after the date on which the marriage of the former spouse to the employee or Member is so dissolved.
 

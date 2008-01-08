@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) in any other case, the corporation shall pay a benefit based on the designated benefit and the assumptions prescribed by the corporation at the time that the corporation received the designated benefit.
 
-> &emsp;The corporation shall make payments under subparagraph (B) available in the same forms and at the same times as a guaranteed benefit under section 1322 of this title would be available to be paid, except that the corporation may make a benefit available in the form of a single sum if the plan provided a single sum benefit (other than a single sum described in subsection (b)(2)(A) of this section).
+> &emsp;The corporation shall make payments under subparagraph (B) available in the same forms and at the same times as a guaranteed benefit under section 1322 of this title would be available to be paid, except that the corporation may make a benefit available in the form of asingle sum if the plan provided a single sum benefit (other than a single sum described in subsection (b)(2)(A) of this section).
 
 #### (b) Definitions
 
@@ -92,7 +92,7 @@ The corporation shall prescribe rules similar to the rules in subsection (a) for
 
 The corporation shall prescribe such regulations as are necessary to carry out the purposes of this section, including rules relating to what will be considered a diligent search, the amount payable to the corporation, and the amount to be paid by the corporation.
 
-(Pub. L. 93–406, title IV, §4050, as added Pub. L. 103–465, title VII, §776(a), Dec. 8, 1994, 108 Stat.5047; amended Pub. L. 109–280, title IV, §410(a), Aug. 17, 2006, 120 Stat. 934.)
+(Pub. L. 93–406, title IV, §4050, as added Pub. L. 103–465, title VII, §776(a), Dec. 8, 1994, 108 Stat. 5047; amended Pub. L. 109–280, title IV, §410(a), Aug. 17, 2006, 120 Stat. 934.)
 
 #### Amendments
 

@@ -24,7 +24,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;A reduction in the annual deductible, a reduction in the coinsurance percentage, or an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
+&emsp;&emsp;&emsp;&emsp;A reduction in the annual deductible, a reduction in the coinsurance percentage,or an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
 
 #### (II) Construction
 
@@ -98,7 +98,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 #### (B) Rounding
 
-&emsp;&emsp;Any amount determined under subparagraph (A)(ii) that is not a multiple of $10shall be rounded to the nearest multiple of $10.
+&emsp;&emsp;Any amount determined under subparagraph (A)(ii) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
 
 #### (4) Protection against high out-of-pocket expenditures
 
@@ -230,7 +230,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (A) In general
 
-&emsp;&emsp;Such term does not include drugs or classes of drugs, or their medical uses, which maybe excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title, other than subparagraph (E) of such section (relating to smoking cessation agents), or under section 1396r–8(d)(3) of this title, as such sections were in effect on December 8, 2003. Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
+&emsp;&emsp;Such term does not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title, other than subparagraph (E) of such section (relating to smoking cessation agents), or under section 1396r–8(d)(3) of this title, as such sections were in effect on December 8, 2003. Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
 
 #### (B) Medicare covered drugs
 

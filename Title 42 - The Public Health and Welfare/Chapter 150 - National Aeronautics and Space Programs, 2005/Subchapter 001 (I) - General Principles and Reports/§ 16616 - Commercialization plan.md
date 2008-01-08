@@ -14,3 +14,7 @@ Not later than 180 days after December 30, 2005, the Administrator shall submit 
 
 The National Aeronautics and Space Act of 1958, referred to in subsec. (a), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended, which is classified principally to chapter 26 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

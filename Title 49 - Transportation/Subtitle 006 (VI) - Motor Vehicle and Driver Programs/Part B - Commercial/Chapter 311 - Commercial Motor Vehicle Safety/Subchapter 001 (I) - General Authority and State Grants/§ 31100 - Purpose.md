@@ -24,7 +24,7 @@ Legal Status Verification for Licensed United States Commercial Drivers.—Not l
 
 “(b)
 
-Commercial Driver's License Antifraud Programs.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Secretary of Transportation, in cooperation with the Secretary \[of Homeland Security\], shall issue a regulation to implement the recommendations contained in the Report on Federal Motor Carrier Safety Administration Oversight of the Commercial Driver's License Program (MH–2006–037).
+Commercial Driver's License Antifraud Programs.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Secretary of Transportation, in cooperation with the Secretary \[of Homeland Security\], shall issue a regulation to implement the recommendations contained in the Report on Federal Motor Carrier Safety Administration Oversightof the Commercial Driver's License Program (MH–2006–037).
 
 “(c)
 
@@ -36,7 +36,7 @@ Guidelines.—Not later than 18 months after the date of the enactment of this A
 
 &emsp;“(2)
 
-Verification.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Administrator of the Federal Motor Carrier Safety Administration shall modify the final rule regarding the enforcement of operating authority (DocketNo. FMCSA–2002–13015) to establish a system or process by which a carrier's operating authority can be verified during a roadside inspection.”
+Verification.—Not later than 18 months after the date of the enactment of this Act \[Oct. 13, 2006\], the Administrator of the Federal Motor Carrier Safety Administration shall modify the final rule regarding the enforcement of operating authority (Docket No. FMCSA–2002–13015) to establish a system or process by which a carrier's operating authority can be verified during a roadside inspection.”
 
 #### Outreach and Education
 
@@ -266,7 +266,7 @@ Pub. L. 106–159, title II, §224, Dec. 9, 1999, 113 Stat. 1770, provided that:
 
 “(a)
 
-Objectives.—The Secretary shall conduct a comprehensive study to determine the causes of, and contributing factors to, crashes that involve commercialmotor vehicles. The study shall also identify data requirements and collection procedures, reports, and other measures that will improve the Department of Transportation's and States’ ability to—
+Objectives.—The Secretary shall conduct a comprehensive study to determine the causes of, and contributing factors to, crashes that involve commercial motor vehicles. The study shall also identify data requirements and collection procedures, reports, and other measures that will improve the Department of Transportation's and States’ ability to—
 
 &emsp;“(1) evaluate future crashes involving commercial motor vehicles;
 

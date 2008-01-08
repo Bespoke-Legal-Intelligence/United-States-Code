@@ -82,7 +82,7 @@ The Secretary may approve a project proposal under this section if the project w
 
 &emsp;(5) promote cooperative projects on the issues described in paragraph (4) among government entities, affected local communities, nongovernmental organizations, or other persons in the private sector; or
 
-&emsp;(6) address root causes of threats to great apes in range states, including illegal bushmeat trade, diseases, lack of regional or local capacity for conservation, and habitat loss due to natural disasters.
+&emsp;(6) address root causes of threats to great apes in range states, including illegal bushmeat trade, diseases, lack of regional orlocal capacity for conservation, and habitat loss due to natural disasters.
 
 #### (e) Project sustainability
 

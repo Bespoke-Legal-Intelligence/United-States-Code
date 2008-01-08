@@ -14,7 +14,7 @@ In administering the recreation area the Secretary is authorized to enter into c
 
 #### (d) Application of other provisions
 
-The provisions of section 1278(a) of this title,<sup>2</sup> shall apply to the recreation area in the same manner and to the same extent as such provisions apply to river segments referred to in such provisions.
+The provisions of section 1278(a) of this title,<sup>2</sup> shall apply to the recreation area in the samemanner and to the same extent as such provisions apply to river segments referred to in such provisions.
 
 #### (e) Recreational access
 

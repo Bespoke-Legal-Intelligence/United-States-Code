@@ -6,11 +6,13 @@ This subchapter is comprised of part X of title I of the Omnibus Crime Control a
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be par. “(3)”.</i>
 
-<i><sup>3</sup></i><i> So in original. The word “needs” probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “after”.</i>
+<i><sup>4</sup></i><i> So in original. The word “needs” probably should not appear.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “after”.</i>
 
 
 ---

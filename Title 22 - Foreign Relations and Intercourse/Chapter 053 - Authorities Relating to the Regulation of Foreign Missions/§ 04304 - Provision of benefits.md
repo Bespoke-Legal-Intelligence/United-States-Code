@@ -38,7 +38,7 @@ Nothing in this chapter shall be deemed to preclude or limit in any way the auth
 
 #### (f) In-kind exchange of properties with foreign government; transfer of funds; reciprocal agreement; regulations
 
-(1) Upon a determination in each specific case by the Secretary of State or the Secretary's designee that the purpose of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 292 et seq.\], can best be met on the basis of an in-kind exchange of properties with a foreign country pursuant to subsection (b)(5) of this section, the Secretary of State may transfer funds made available under the heading “Acquisition and Maintenance of Buildings Abroad” (including funds held in theForeign Service Buildings Fund) for such purpose to the Working Capital Fund, as provided in section 4308(h)(1) of this title. Except for funds that may be provided by a foreign government for the purchase of property, only funds transferred under the preceding sentence may be used for the purposes of subsection (b)(5) of this section.
+(1) Upon a determination in each specific case by the Secretary of State or the Secretary's designee that the purpose of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 292 et seq.\], can best be met on the basis of an in-kind exchange of properties with a foreign country pursuant to subsection (b)(5) of this section, the Secretary of State may transfer funds made available under the heading “Acquisition and Maintenance of Buildings Abroad” (including funds held in the Foreign Service Buildings Fund) for such purpose to the Working Capital Fund, as provided in section 4308(h)(1) of this title. Except for funds that may be provided by a foreign government for the purchase of property, only funds transferred under the preceding sentence may be used for the purposes of subsection (b)(5) of this section.
 
 (2) The Secretary of State may acquire property in the United States for the purposes of subsection (b)(5) of this section only in the context of a specific reciprocal agreement with a specified foreign government. Property acquired by the United States in the foreign country through such an exchange shall benefit the United States at least to the same extent as the property acquired in the United States benefits the foreign government.
 
@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 99–93, §126(b), substituted “chapter” for “section
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives and Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

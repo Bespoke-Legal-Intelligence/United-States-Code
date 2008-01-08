@@ -12,19 +12,31 @@ Funds appropriated to the Architect of the Capitol shall be available—
 
 The Architect of the Capitol may lease space under subsection (a) of this section upon submission of written notice of intent to lease such space to, and approved by—
 
-&emsp;(1) the Committee on Rules and Administration of the Senate for space to be leased for the Senate;
+&emsp;(1) the Committees on Appropriations and Rules and Administration of the Senate for space to be leased for the Senate;
 
-&emsp;(2) the House Office Building Commission for space to be leased for the House of Representatives; and
+&emsp;(2) the Committee on Appropriations of the House of Representatives and the House Office Building Commission for space to be leased for the House of Representatives; and
 
-&emsp;(3) the Committees on Appropriations of the Senate and House of Representatives.
+&emsp;(3) the Committees on Appropriations of the Senate and House of Representatives, for space to be leased for any other entity under subsection (a).
 
 #### (c) Effective date
 
 This section shall apply with respect to fiscal year 2004, and each fiscal year thereafter.
 
-(Pub. L. 108–83, title I, §1102, Sept. 30, 2003, 117 Stat. 1027.)
+(Pub. L. 108–83, title I, §1102, Sept. 30, 2003, 117 Stat. 1027; Pub. L. 110–161, div. H, title I, §1306(a), Dec. 26, 2007, 121 Stat. 2243.)
 
 #### Codification
 
 Section is from the Legislative Branch Appropriations Act, 2004.
+
+#### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 110–161, §1306(a)(1), substituted “Committees on Appropriations and Rules and Administration” for “Committee on Rules and Administration”.
+
+Subsec. (b)(2). Pub. L. 110–161, §1306(a)(2), substituted “the Committee on Appropriations of the House of Representatives and the House Office Building Commission” for “the House Office Building Commission”.
+
+Subsec. (b)(3). Pub. L. 110–161, §1306(a)(3), substituted “, for space to be leased for any other entity under subsection (a).” for period at end.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–161, div. H, title I, §1306(b), Dec. 26, 2007, 121 Stat. 2243, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2004 \[Pub. L. 108–83\].”
 

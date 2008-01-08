@@ -20,9 +20,9 @@
 
 (3) The amount of life insurance continued under paragraph (1) or (2) of this subsection shall be continued, with or without reduction, at the end of each full calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury, in accordance with the employee's written election at the time eligibility to continue insurance during retirement or receipt of compensation arises, as follows:
 
-&emsp;(A) the employee may elect to have the deductions required by section 8707 of this title withheld from annuity or compensation, and the employee's life insurance shall be reduced each month by 2 percent of the face value until 25 percent of the amount of life insurance in force before the first reduction remains; or
+&emsp;(A) the employee may elect to have the deductions required by section 8707 of this title withheld from annuity or compensation, and the employee's life insurance shall be reducedeach month by 2 percent of the face value until 25 percent of the amount of life insurance in force before the first reduction remains; or
 
-&emsp;(B) in addition to any deductions which would be required if the insurance were continued as provided under subparagraph (A) of this paragraph, the employee may elect continuous withholdings from annuity or compensation in amounts determined by the Office, and the employee's life insurance coverage shall be either continued without reduction or reduced each month by no more than 1 percent of its face value until no less than 50percent of the amount of insurance in force before the first reduction remains.
+&emsp;(B) in addition to any deductions which would be required if the insurance were continued as provided under subparagraph (A) of this paragraph, the employee may elect continuous withholdings from annuity or compensation in amounts determined by the Office, and the employee's life insurance coverage shall be either continued without reduction or reduced each month by no more than 1 percent of its face value until no less than 50 percent of the amount of insurance in force before the first reduction remains.
 
 (4) If an employee elects to continue insurance under subparagraph (B) of paragraph (3) of this subsection at the time eligibility to continue insurance during retirement or receipt of compensation for disease or injury arises, the individual may later cancel that election and life insurance coverage shall continue as if the individual had originally elected coverage under subparagraph (A) of paragraph (3) of this subsection.
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 Section 209 of Pub. L. 98–353 provided that:
 
-“(a) Except as provided in subsection (b), the amendments made by this Act to section 8706 of title 5, United States Code, shall apply to policies purchased by judges after the date of enactment of this Act \[July 10, 1984\].
+“(a) Except as provided in subsection (b), the amendments made by this Act to section 8706 of title 5, United States Code, shall apply to policies purchasedby judges after the date of enactment of this Act \[July 10, 1984\].
 
 “(b) If a company which issued a policy which is in effect on the date of the enactment of this Act agrees, the amendments made by this Act \[probably should be ‘made by this Act to section 8706 of title 5’\] shall apply to such policy.”
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 96–427 applicable only in case of an employee who retires
 
 #### Effective Date of 1978 Amendments
 
-Section 3 of Pub. L. 95–583 provided that: “The amendments made by this Act \[amending this sectionand sections 8705, 8714a, and 8901 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\].”
+Section 3 of Pub. L. 95–583 provided that: “The amendments made by this Act \[amending this section and sections 8705, 8714a, and 8901 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\].”
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 

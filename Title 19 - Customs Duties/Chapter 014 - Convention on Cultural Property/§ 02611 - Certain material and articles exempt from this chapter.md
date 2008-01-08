@@ -6,7 +6,7 @@ The provisions of this chapter shall not apply to—
 
 &emsp;(2) any designated archaeological or ethnological material or any article of cultural property imported into the United States if such material or article—
 
-&emsp;&emsp;(A) has been held in the United States for a period of not less than three consecutive years by a recognized museum or religious or secular monument or similar institution, and was purchased by that institution for value, in good faith, and without notice thatsuch material or article was imported in violation of this chapter, but only if—
+&emsp;&emsp;(A) has been held in the United States for a period of not less than three consecutive years by a recognized museum or religious or secular monument or similar institution, and was purchased by that institution for value, in good faith, and without notice that such material or article was imported in violation of this chapter, but only if—
 
 &emsp;&emsp;&emsp;(i) the acquisition of such material or article has been reported in a publication of such institution, any regularly published newspaper or periodical with a circulation of at least fifty thousand, or a periodical or exhibition catalog which is concerned with the type of article or materials sought to be exempted from this chapter,
 
@@ -18,7 +18,7 @@ The provisions of this chapter shall not apply to—
 
 &emsp;&emsp;(C) if subparagraphs (A) and (B) do not apply, has been within the United States for a period of not less than ten consecutive years and the State Party concerned has received or should have received during such period fair notice (through such adequate and accessible publication, or other means, as the Secretary shall by regulation prescribe) of its location within the United States; and
 
-&emsp;&emsp;(D) if none of the preceding subparagraphs apply, has been within the United States for a period of not less than twenty consecutive years and the claimant establishes that it purchased the material or article for value without knowledge or reason to believe that it was imported in violation of law.
+&emsp;&emsp;(D) if none of the preceding subparagraphs apply, has been within the United States for a period of not less than twenty consecutive years and the claimant establishes that it purchased the material or article for valuewithout knowledge or reason to believe that it was imported in violation of law.
 
 (Pub. L. 97–446, title III, §312, Jan. 12, 1983, 96 Stat. 2362.)
 

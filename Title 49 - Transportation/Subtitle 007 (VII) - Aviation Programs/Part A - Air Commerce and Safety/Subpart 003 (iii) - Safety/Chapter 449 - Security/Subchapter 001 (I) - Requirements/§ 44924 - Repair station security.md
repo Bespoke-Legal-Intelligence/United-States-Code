@@ -2,7 +2,7 @@
 
 (a)
 
-Security Review and Audit.—To ensure the security of maintenance and repair work conducted on air carrier aircraft and components at foreign repair stations, the Under Secretary for Border and Transportation Security of the Department of Homeland Security, in consultation with the Administrator of the Federal Aviation Administration, shall complete a security review and audit of foreign repair stations that are certified by the Administrator under part 145 of title 14, Code of Federal Regulations, and that work on air carrier aircraft and components. The review shall be completed not later than 18 months after the date on which the Under Secretary issues regulations under subsection (f).
+Security Review and Audit.—To ensure the security of maintenance and repair work conducted on air carrier aircraft and components at foreign repair stations, the Under Secretary for Border and Transportation Security of the Department of Homeland Security, in consultation with the Administrator of the Federal Aviation Administration, shall complete a security review and audit of foreign repair stations that are certified by the Administrator under part 145 of title 14, Code of Federal Regulations, and that work on air carrier aircraft and components. The review shall be completed not later than 6 months after the date on which the Under Secretary issues regulations under subsection (f).
 
 (b)
 
@@ -26,7 +26,7 @@ Procedures for appeals.—The Under Secretary, in consultation with the Administ
 
 (d)
 
-Failure To Meet Audit Deadline.—If the security audits required by subsection (a) are not completed on or before the date that is 18 months after the date on which the Under Secretary issues regulations under subsection (f), the Administrator shall be barred from certifying any foreign repair station until such audits are completed for existing stations.
+Failure To Meet Audit Deadline.—If the security audits required by subsection (a) are not completed on or before the date that is 6 months after the date on which the Under Secretary issues regulations under subsection (f), the Administrator shall be barred from certifying any foreign repair station (other than a station that was previously certified, or is in the process of certification, by the Administration under this part) until such audits are completed for existing stations.
 
 (e)
 
@@ -40,13 +40,25 @@ Regulations.—Not later than 240 days after the date of enactment of this secti
 
 Report to Congress.—If the Under Secretary does not issue final regulations before the deadline specified in subsection (f), the Under Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing an explanation as to why the deadline was not met and a schedule for issuing the final regulations.
 
-(Added Pub. L. 108–176, title VI, §611(b)(1), Dec. 12, 2003, 117 Stat. 2571.)
+(Added Pub. L. 108–176, title VI, §611(b)(1), Dec. 12, 2003, 117 Stat. 2571; amended Pub. L. 110–53, title XVI, §1616(b), Aug. 3, 2007, 121 Stat. 488.)
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 110–53, §1616(b)(1), substituted “6 months” for “18 months”.
+
+Subsec. (d). Pub. L. 110–53, §1616(b)(2), inserted “(other than a station that was previously certified, or is in the process of certification, by the Administration under this part)” after “foreign repair station”.
+
+Pub. L. 110–53, §1616(b)(1), which directed amendment of subsec. (b) by substituting “6 months” for “18 months”, was executed by making the substitution in subsec. (d), to reflect the probable intent of Congress.
+
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under section 106 of this title.
+
+#### Suspension of Certification of Foreign Repair Stations
+
+Pub. L. 110–53, title XVI, §1616(a), Aug. 3, 2007, 121 Stat. 488, provided that: “If the regulations required bysection 44924(f) of title 49, United States Code, are not issued within 1 year after the date of enactment of this Act \[Aug. 3, 2007\], the Administrator of the Federal Aviation Administration may not certify any foreign repair station under part 145 of title 14, Code of Federal Regulations, after such date unless the station was previously certified, or is in the process of certification by the Administration under that part.”
 

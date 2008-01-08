@@ -4,10 +4,6 @@ subpart 4—fees relating to animal drugs
 
 <i>For termination of subpart by section 5 of Pub. L. 108–130, see Termination Date note set out under section 379j–11 of this title.</i>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be a comma.</i>
-
 
 ---
 

@@ -26,7 +26,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;&emsp;(i) for the period beginning on the date the advance is made and ending at the close of the fiscal year in which the advance is made, the average yield (on the date of the advance) on outstanding marketable obligations of the United States having a final maturity comparable to the final maturity of the advance; and
 
-&emsp;&emsp;(ii) after the fiscal year in which the advance is made, the cost of money rate for such fiscal year, as determined under subparagraph (D).
+&emsp;&emsp;(ii) after the fiscal year in which the advance is made, the cost of money rate forsuch fiscal year, as determined under subparagraph (D).
 
 &emsp;(D) Within 30 days after the end of each fiscal year, the Governor shall determine to the nearest 0.01 percent the cost of money rate for the fiscal year, by calculating the sum of the results of the following calculations:
 
@@ -42,7 +42,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;&emsp;(v)(I) The amount by which the aggregate of the amounts advanced by the telephone bank during the fiscal year exceeds the aggregate of the amounts received by the telephone bank from the issuance of class A stock, class B stock, class C stock, and telephone debentures and other obligations of the telephone bank during the fiscal year, multiplied by the historic cost of money rate as of the close of the fiscal year immediately preceding the fiscal year, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year.
 
-&emsp;&emsp;(II) For purposes of this clause, the term “historic cost of money rate”, with respect to the close of a preceding fiscal year, means the sum of the results of the following calculations: The amounts advanced by the telephone bank in each fiscal year duringthe period beginning with fiscal year 1974 and ending with the preceding fiscal year, multiplied, respectively, by the cost of money rate for the fiscal year (as set forth in the table in subparagraph (E)) for fiscal years 1974 through 1987, and as determined by the Governor under this subparagraph for fiscal years after fiscal year 1987), each of which products is divided, respectively, by the aggregate of the amounts advanced by the telephone bank during the period.
+&emsp;&emsp;(II) For purposes of this clause, the term “historic cost of money rate”, with respect to the close of a preceding fiscal year, means the sum of the results of the following calculations: The amounts advanced by the telephone bank in each fiscal year during the period beginning with fiscal year 1974 and ending with the preceding fiscal year, multiplied, respectively, by the cost of money rate for the fiscal year (as set forth in the table in subparagraph (E)) for fiscal years 1974 through 1987, and as determined by the Governor under this subparagraph for fiscal years after fiscal year 1987), each of which products is divided, respectively, by the aggregate of the amounts advanced by the telephone bank during the period.
 
 &emsp;(E) For purposes of subparagraph (D)(II), the cost of money rate for the fiscal years in which each advance was made shall be as set forth in the following table:
 

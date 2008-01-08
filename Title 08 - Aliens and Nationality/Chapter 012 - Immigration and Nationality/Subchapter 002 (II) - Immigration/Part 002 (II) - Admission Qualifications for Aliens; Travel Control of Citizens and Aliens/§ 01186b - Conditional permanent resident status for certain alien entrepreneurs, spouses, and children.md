@@ -10,7 +10,7 @@
 
 #### (A) At time of obtaining permanent residence
 
-&emsp;&emsp;At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) of this section to have the conditional basis of such status removed.
+&emsp;&emsp;At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis underparagraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) of this section to have the conditional basis of such status removed.
 
 #### (B) At time of required petition
 
@@ -122,7 +122,7 @@
 
 #### (e) Treatment of period for purposes of naturalization
 
-For purposes of subchapter III of this chapter, in the case of an alien who is in the UnitedStates as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
+For purposes of subchapter III of this chapter, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
 
 #### (f) Definitions
 
@@ -328,7 +328,7 @@ In general.—In the case of an alien with permanent resident status on a condit
 
 &emsp;&emsp;&emsp;“(ii)
 
-Hearing in removal proceeding.—In any removal proceeding with respect to an alien whose permanent resident status is terminated under clause (i), the burden of proof shall be on the alien to establish compliance with subparagraph (B).
+Hearing in removal proceeding.—In any removal proceeding with respect to an alien whose permanent resident status is terminatedunder clause (i), the burden of proof shall be on the alien to establish compliance with subparagraph (B).
 
 &emsp;&emsp;“(E)
 
@@ -360,7 +360,7 @@ Requirements relating to adverse determinations.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Notice.—If the Attorney General renders an adverse determination under subparagraph (E), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if itwas obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
+Notice.—If the Attorney General renders an adverse determination under subparagraph (E), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -400,7 +400,7 @@ Treatment of Certain Applications.—
 
 &emsp;“(1)
 
-Revocation of approval of petitions.—If the Attorney General revoked the approval of a petition described in subsection (b)(1), such revocation shall be disregarded for purposes of this section if it was based on a determination that the alien failed to satisfy section 203(b)(5)(A)(ii) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5)(A)(ii)).
+Revocation of approval of petitions.—If the Attorney General revoked the approval of a petition described in subsection (b)(1), such revocation shall be disregarded for purposes of this section if it wasbased on a determination that the alien failed to satisfy section 203(b)(5)(A)(ii) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5)(A)(ii)).
 
 &emsp;“(2)
 
@@ -450,7 +450,7 @@ Dates.—The dates described in this paragraph are the following:
 
 “(f)
 
-Clarification With Respect to Children.—In the case of an alien who was a child on the date onwhich the application described in subsection (b)(2) was filed, the alien shall be considered to be a child for purposes of this section regardless of any change in age or marital status after such date.
+Clarification With Respect to Children.—In the case of an alien who was a child on the date on which the application described in subsection (b)(2) was filed, the alien shall be considered to be a child for purposes of this section regardless of any change in age or marital status after such date.
 
 #### “SEC. 11033. REGULATIONS.
 

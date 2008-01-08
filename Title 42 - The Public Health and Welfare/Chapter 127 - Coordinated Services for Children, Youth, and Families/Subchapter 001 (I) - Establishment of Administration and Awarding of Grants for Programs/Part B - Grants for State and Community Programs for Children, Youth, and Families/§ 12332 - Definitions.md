@@ -54,7 +54,7 @@ As used in this part:
 
 #### (7) Outreach services
 
-&emsp;The term “outreach services” means services provided to ensure (through home visits or other methods) that parents are aware ofand able to participate in family resource and support program activities.
+&emsp;The term “outreach services” means services provided to ensure (through home visits or other methods) that parents are aware of and able to participate in family resource and support program activities.
 
 (Pub. L. 101–501, title IX, §926, Nov. 3, 1990, 104 Stat. 1268.)
 

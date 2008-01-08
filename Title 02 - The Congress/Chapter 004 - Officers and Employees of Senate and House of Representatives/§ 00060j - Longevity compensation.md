@@ -18,7 +18,7 @@ This section shall apply to—
 
 #### (b) Rate of compensation; limitation on increases; computation of service; effective date of payment
 
-(1) Except as provided in paragraph (2), an employee to whom this section applies shall bepaid, during any period of continuous creditable service, additional annual compensation (hereinafter referred to as “longevity compensation”) at the rate of $482 for (A) each year of creditable service performed for the first five years and (B) each two years of creditable service performed during the twenty-year period following the first five years.
+(1) Except as provided in paragraph (2), an employee to whom this section applies shall be paid, during any period of continuous creditable service, additional annual compensation (hereinafter referred to as “longevity compensation”) at the rate of $482 for (A) each year of creditable service performed for the first five years and (B) each two years of creditable service performed during the twenty-year period following the first five years.
 
 (2) The amount of longevity compensation which may be paid to an employee, when added to his regular annual compensation, shall not exceed the maximum annual compensation which may be paid to Senate employees generally as prescribed by law or orders of the President pro tempore issued under authority of section 60a–1 of this title.
 
@@ -32,7 +32,7 @@ This section shall apply to—
 
 (4) Longevity compensation shall be payable on and after the first day of the first month following completion of each period of creditable service upon which such compensation is based.
 
-(Pub. L. 87–730, §106(a), (b), (d), Oct. 2, 1962, 76 Stat. 694, 695; Pub. L. 88–454, §104(b), Aug. 20, 1964, 78 Stat. 550; Pub. L. 90–57, §105(g), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(n), Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–656, §4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 436; Pub. L. 95–240, title II, §205, Mar. 7, 1978, 92 Stat. 117; Pub. L. 95–391, title I, §110(a), Sept. 30, 1978, 92 Stat. 774; Pub. L. 96–304, title I, §107(b), July 8, 1980, 94 Stat. 890.)
+(Pub. L. 87–730, §106(a), (b), (d), Oct. 2, 1962, 76 Stat. 694, 695; Pub. L. 88–454, §104(b), Aug. 20, 1964, 78 Stat. 550; Pub. L. 90–57, §105(g), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(n),Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–656, §4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 436; Pub. L. 95–240, title II, §205, Mar. 7, 1978, 92 Stat. 117; Pub. L. 95–391, title I, §110(a), Sept. 30, 1978, 92 Stat. 774; Pub. L. 96–304, title I, §107(b), July 8, 1980, 94 Stat. 890.)
 
 #### Inapplicability of Section to Certain Employees On and After October 1, 1983
 
@@ -66,7 +66,7 @@ Subsec. (b). Pub. L. 95–391 substituted provisions setting forth requirements 
 
 1974—Subsec. (a)(8). Pub. L. 93–371 added par. (8).
 
-Subsec. (b). Figure “855” deemed to refer to the figure “906”, effective Oct. 1, 1974, pursuant to Pub. L. 91–656,§4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 7, 1974, set out as a note under section 60a–1 of this title.
+Subsec. (b). Figure “855” deemed to refer to the figure “906”, effective Oct. 1, 1974, pursuant to Pub. L. 91–656, §4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 7, 1974, set out as a note under section 60a–1 of this title.
 
 1973—Subsec. (b). Figure “816” deemed to refer to the figure “855”, effective Oct. 1, 1973, pursuant to Pub. L. 91–656, §4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 4, 1973, set out as a note under section 60a–1 of this title.
 
@@ -92,7 +92,7 @@ Section 107(d) of Pub. L. 96–304 provided that: “The amendments made by this
 
 #### Effective Date of 1978 Amendments
 
-Section 110(b) of Pub. L. 95–391 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Sept. 30, 1978\]. The gross compensation of employees entitled to longevity compensation on such first day under section 106 of the Legislative Branch Appropriation Act, 1963 \[this section\], shall be adjusted in accordance with the provisions of such section as amended by subsection (a). No increase in compensation by reason of such amendment shall take effect for any pay period beginning before such first day, and no monetary benefit by reason of such amendment shall accrue for any period before such first day.”
+Section 110(b) of Pub. L. 95–391 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Sept. 30, 1978\]. The gross compensation of employees entitled to longevity compensation on such first day under section 106 of the Legislative Branch Appropriation Act, 1963 \[this section\], shall be adjustedin accordance with the provisions of such section as amended by subsection (a). No increase in compensation by reason of such amendment shall take effect for any pay period beginning before such first day, and no monetary benefit by reason of such amendment shall accrue for any period before such first day.”
 
 Section 205 of Pub. L. 95–240 provided that the amendment made by that section is effective Oct. 1, 1977.
 

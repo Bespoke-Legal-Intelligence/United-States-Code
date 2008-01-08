@@ -38,7 +38,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (2) Prior experience
 
-&emsp;In making grants under this division, the Secretary shall consider each applicant's priorexperience of service delivery under the particular program for which funds are sought. The level of consideration given the factor of prior experience shall not vary from the level of consideration given such factor during fiscal years 1994 through 1997, except that grants made under section 1070a–18 of this title shall not be given prior experience consideration.
+&emsp;In making grants under this division, the Secretary shall consider each applicant's prior experience of service delivery under the particular program for which funds are sought. The level of consideration given the factor of prior experience shall not vary from the level of consideration given such factor during fiscal years 1994 through 1997, except that grants made under section 1070a–18 of this title shall not be given prior experience consideration.
 
 #### (3) Order of awards; program fraud
 
@@ -48,7 +48,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (4) Peer review process
 
-&emsp;(A) The Secretary shall ensure that, to the extent practicable, members of groups underrepresented in higher education, including African Americans, Hispanics, Native Americans, Alaska Natives, Asian Americans, and Native American Pacific Islanders (including Native Hawaiians), are represented as readers of applications submitted under this division. The Secretary shall also ensure that persons from urban and rural backgrounds are represented as readers.
+&emsp;(A) The Secretary shall ensure that, to the extent practicable, members of groups underrepresented in higher education, including African Americans, Hispanics, Native Americans, Alaska Natives, Asian Americans, and Native American Pacific Islanders (including Native Hawaiians), are represented as readers of applications submitted under this division. The Secretary shall also ensure that personsfrom urban and rural backgrounds are represented as readers.
 
 &emsp;(B) The Secretary shall ensure that each application submitted under this division is read by at least three readers who are not employees of the Federal Government (other than as readers of applications).
 
@@ -160,7 +160,7 @@ Subsec. (f). Pub. L. 105–244, §402(a)(4), substituted “$700,000,000 for fis
 
 Subsec. (g)(4). Pub. L. 105–244, §402(a)(5), added par. (4).
 
-1993—Subsec. (b)(2). Pub. L. 103–208, §2(b)(6), added par. (2) and struck out former par. (2) which read as follows: “Grants or contracts made under this division shall be awarded for a period of 4 years, except that the Secretary shall award such grants or contracts for 5 years to applicants whose peer review scores were inthe highest 10 percent of scores of all applicants receiving grants or contracts in each program competition for the same award year.”
+1993—Subsec. (b)(2). Pub. L. 103–208, §2(b)(6), added par. (2) and struck out former par. (2) which read as follows: “Grants or contracts made under this division shall be awarded for a period of 4 years, except that the Secretary shall award such grants or contracts for 5 years to applicants whose peer review scores were in the highest 10 percent of scores of all applicants receiving grants or contracts in each program competition for the same award year.”
 
 Subsec. (c)(1). Pub. L. 103–208, §2(b)(7), inserted before period at end of second sentence “, except that in the case of the programs authorized in sections 1070a–15 and 1070a–17 of this title, the level of consideration given to prior experience shall be the same as the level of consideration given this factor in the other programs authorized in this division”.
 

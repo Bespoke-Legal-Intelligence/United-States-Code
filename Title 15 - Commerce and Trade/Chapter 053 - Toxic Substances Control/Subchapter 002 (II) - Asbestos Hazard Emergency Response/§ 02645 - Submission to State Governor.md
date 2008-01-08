@@ -28,7 +28,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (2) Revision of plan
 
-&emsp;If the State Governor disapproves a plan, the State Governor shall explain in writing to the local educational agency the reasons why the plan was disapproved and the changes that need to be made in the plan. Within 30 days after the date on which notice is received of disapproval of its plan, the local educational agency shall revise the plan to conform withthe State Governor's suggested changes. The Governor may extend the 30-day period for not more than 90 days.
+&emsp;If the State Governor disapproves a plan, the State Governor shall explain in writing to the local educational agency the reasons why the plan was disapproved and the changes that need to be made in the plan. Within 30 days after the date on which notice is received of disapproval of its plan, the local educational agency shall revise the plan to conform with the State Governor's suggested changes. The Governor may extend the 30-day period for not more than 90 days.
 
 #### (d) Deferral of submission
 
@@ -46,7 +46,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;&emsp;&emsp;(i) A statement that, in spite of the fact that the local educational agency has made a good faith effort to meet the deadline for submission of a management plan under subsection (a) of this section, the agency will not be able to meet the deadline. The statement shall include a brief explanation of the reasons why the deadline cannot be met.
 
-&emsp;&emsp;&emsp;(ii) A statement giving assurance that the local educational agency has made available for inspection by the public, at each school for which a deferral is sought in the request, at least one of the following documents:
+&emsp;&emsp;&emsp;(ii) A statement giving assurance that the local educational agency has made available for inspection by the public, at each school for which a deferral is soughtin the request, at least one of the following documents:
 
 &emsp;&emsp;&emsp;&emsp;(I) A solicitation by the local educational agency to contract with an accredited asbestos contractor for inspection or management plan development.
 

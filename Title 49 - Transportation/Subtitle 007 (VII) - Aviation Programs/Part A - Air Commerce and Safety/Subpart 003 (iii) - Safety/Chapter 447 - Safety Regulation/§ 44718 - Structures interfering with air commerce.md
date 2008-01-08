@@ -42,7 +42,7 @@ In general.—No person shall construct or establish a municipal solid waste lan
 
 &emsp;(2)
 
-Limitation on applicability.—Paragraph (1) shall not apply in the State of Alaska and shall not apply to the construction, establishment, expansion, or modification of, or to any other activity undertaken with respect to, a municipal solid waste landfill if the construction or establishment of the landfill was commenced on or before the date of the enactment of this subsection.
+Limitation on applicability.—Paragraph (1) shall not apply in the State of Alaska andshall not apply to the construction, establishment, expansion, or modification of, or to any other activity undertaken with respect to, a municipal solid waste landfill if the construction or establishment of the landfill was commenced on or before the date of the enactment of this subsection.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286; Pub. L. 106–181, title V, §503(b), Apr. 5, 2000, 114 Stat. 133.)
 

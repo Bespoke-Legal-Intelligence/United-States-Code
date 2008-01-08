@@ -4,7 +4,3 @@ The master of any vessel which, while engaged in laying or repairing submarine c
 
 (Feb. 29, 1888, ch. 17, §4, 25 Stat. 41.)
 
-#### International Regulations for Preventing Collisions at Sea, 1972
-
-For the International Regulations for Preventing Collisions at Sea, 1972, see International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of Title 33, Navigation and Navigable Waters.
-

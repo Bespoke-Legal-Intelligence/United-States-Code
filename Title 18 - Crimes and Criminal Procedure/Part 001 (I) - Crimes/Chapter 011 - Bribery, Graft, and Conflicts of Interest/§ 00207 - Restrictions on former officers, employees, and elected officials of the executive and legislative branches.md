@@ -66,7 +66,7 @@ Persons to whom restrictions apply.—(A) Paragraph (1) shall apply to a person 
 
 &emsp;&emsp;(i) employed at a rate of pay specified in or fixed according to subchapter II of chapter 53 of title 5,
 
-&emsp;&emsp;(ii) employed in a position which is not referred to in clause (i) and for which that person is paid at a rate of basic pay which is equal to or greater than 86.5 percent of the rate of basic pay for level II of the Executive Schedule, or, for a period of 2 years following the enactment of the National Defense Authorization Act for Fiscal Year 2004, a person who, on the day prior to the enactment of that Act, was employed in a position which is not referred to in clause (i) and for which the rate of basic pay, exclusive of any locality-based pay adjustment under section 5304 or section 5304a of title 5, was equal toor greater than the rate of basic pay payable for level 5 of the Senior Executive Service on the day prior to the enactment of that Act,
+&emsp;&emsp;(ii) employed in a position which is not referred to in clause (i) and for which that person is paid at a rate of basic pay which is equal to or greater than 86.5 percent of the rate of basic pay for level II of the Executive Schedule, or, for a period of 2 years following the enactment of the National Defense Authorization Act for Fiscal Year 2004, a person who, on the day prior to the enactment of that Act, was employed in a position which is not referred to in clause (i) and for which the rate of basic pay, exclusive of any locality-based pay adjustment under section 5304 or section 5304a of title 5, was equal to or greater than the rate of basic pay payable for level 5 of the Senior Executive Service on the day prior to the enactment of that Act,
 
 &emsp;&emsp;(iii) appointed by the President to a position under section 105(a)(2)(B) of title 3 or by the Vice President to a position under section 106(a)(1)(B) of title 3,
 
@@ -96,7 +96,7 @@ Restrictions.—In addition to the restrictions set forth in subsections (a) and
 
 &emsp;&emsp;(C) is appointed by the President to a position under section 105(a)(2)(A) of title 3 or by the Vice President to a position under section 106(a)(1)(A) of title 3,
 
-> &emsp;and who, within 1 year after the termination of that person's service in that position, knowingly makes, with the intent to influence, any communication to or appearance before any person described in paragraph (2), on behalf of any other person (except the United States), in connection with any matter on which such person seeks official action by any officer or employee of the executive branch of the United States, shall be punished as provided in section 216 of this title.
+> &emsp;and who, within 2 years after the termination of that person's service in that position, knowingly makes, with the intent to influence, any communication to or appearance before any person described in paragraph (2), on behalf of any other person (except the United States), in connection with any matter on which such person seeks official action by any officer or employee of the executive branch of the United States, shall be punished as provided in section 216 of this title.
 
 &emsp;(2)
 
@@ -112,49 +112,61 @@ Restrictions on Members of Congress and Officers and Employees of the Legislativ
 
 &emsp;(1)
 
-Members of congress and elected officers.—(A) Any person who is a Member of Congress or an elected officer of either House of Congress and who, within 1 year after that person leaves office, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B) or (C), on behalf of any other person (except the United States) in connection with any matter on which such former Member of Congress or elected officer seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+Members of congress and elected officers of the house.—
 
-&emsp;(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a former Member of Congress are any Member, officer, or employee of either House of Congress, and any employee of any other legislative office of the Congress.
+&emsp;&emsp;(A)
 
-&emsp;(C) The persons referred to in subparagraph (A) with respect to appearances or communications by a former elected officer are any Member, officer, or employee of the House of Congress in which the elected officer served.
+Senators.—Any person who is a Senator and who, within 2 years after that person leaves office, knowingly makes, with the intent to influence, any communication to or appearance before any Member, officer, or employee of either House of Congress or any employee of any other legislative office of the Congress, on behalf of any other person (except the United States) in connection with any matter on which such former Senator seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+
+&emsp;&emsp;(B)
+
+Members and officers of the house of representatives.—(i) Any person who is a Member of the House of Representatives or an elected officer of the House of Representatives and who, within 1 year after that person leaves office, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in clause (ii) or (iii), on behalf of any other person (except the United States) in connection with any matter on which such former Member of Congress or elected officer seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+
+&emsp;&emsp;(ii) The persons referred to in clause (i) with respect to appearances or communications by a former Member of the House of Representatives are any Member, officer, or employee of either House of Congress and any employee of any other legislative office of the Congress.
+
+&emsp;&emsp;(iii) The persons referred to in clause (i) with respect to appearances or communications by a former elected officer are any Member, officer, or employee of the House of Representatives.
 
 &emsp;(2)
 
-Personal staff.—(A) Any person who is an employee of a Senator or an employee of a Member of the House of Representatives and who, within 1 year after the termination of that employment, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
-
-&emsp;(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a person who is a former employee are the following:
-
-&emsp;&emsp;(i) the Senator or Member of the House of Representatives for whom that person was an employee; and
-
-&emsp;&emsp;(ii) any employee of that Senator or Member of the House of Representatives.
+Officers and staff of the senate.—Any person who is an elected officer of the Senate, or an employee of the Senate to whom paragraph (7)(A) applies, and who, within 1 year after that person leaves office or employment, knowingly makes, with the intent to influence, any communication to or appearance before any Senator or any officer or employee of the Senate, on behalf of any other person (except the United States) in connection with any matter on which such former elected officer or former employee seeks action by a Senator or an officer or employee of the Senate, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
 &emsp;(3)
 
-Committee staff.—Any person who is an employee of a committee of Congress and who, within 1 year after the termination of that person's employment on such committee, knowingly makes, with the intent to influence, any communication to or appearance before any person who is a Member or an employee of that committee or who was a Member of the committee in the year immediately prior to the termination of such person's employment by the committee, on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+Personal staff.—(A) Any person who is an employee of a Member of the House of Representatives to whom paragraph (7)(A) applies and who, within 1 year after the termination of that employment, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+
+&emsp;(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a person who is a former employee are the following:
+
+&emsp;&emsp;(i) the Member of the House of Representatives for whom that person was an employee; and
+
+&emsp;&emsp;(ii) any employee of that Member of the House of Representatives.
 
 &emsp;(4)
 
-Leadership staff.—(A) Any person who is an employee on the leadership staff of the House of Representatives or an employee on the leadership staff of the Senate and who, within 1 year after the termination of that person's employment on such staff, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
-
-&emsp;(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a former employee are the following:
-
-&emsp;&emsp;(i) in the case of a former employee on the leadership staff of the House of Representatives, those persons are any Member of the leadership of the House of Representatives and any employee on the leadership staff of the House of Representatives; and
-
-&emsp;&emsp;(ii) in the case of a former employee on the leadership staff of the Senate, those persons are any Member of the leadership of the Senate and any employee on the leadership staff of the Senate.
+Committee staff.—Any person who is an employee of a committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person's employment on such committee or joint committee (as the case may be), knowingly makes, with the intent to influence, any communication to or appearance before any person who is a Member or an employee of that committee or joint committee (as the case may be) or who was a Member of the committee or joint committee (as the case may be) in the year immediately prior to the termination of such person's employment by the committee or joint committee (as the case may be), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
 &emsp;(5)
 
-Other legislative offices.—(A) Any person who is an employee of any other legislative office of the Congress and who, within 1 year after the termination of that person's employment in such office, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by any officer or employee of such office, in his or her official capacity, shall be punished as provided in section 216 of this title.
+Leadership staff.—(A) Any person who is an employee on the leadership staff of the House of Representatives to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person's employment on such staff, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
-&emsp;(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a former employee are the employees and officers of the former legislative office of the Congress of the former employee.
+&emsp;(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a former employee are any Member of the leadership of the House of Representatives and any employee on the leadership staff of the House of Representatives.
 
 &emsp;(6)
 
-Limitation on restrictions.—(A) The restrictions contained in paragraphs (2), (3), and (4) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was paid a rate of basic pay equal to or greater than an amount which is 75 percent of the basic rate of pay payable for a Member of the House of Congress in which such employee was employed.
+Other legislative offices.—(A) Any person who is an employee of any other legislative office of the Congress to whom paragraph (7)(B) applies and who, within 1 year after the termination of that person's employment in such office, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by any officer or employee of such office, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
-&emsp;(B) The restrictions contained in paragraph (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was employed in a position for which the rate of basic pay, exclusive of any locality-based pay adjustment under section 5302 of title 5 (or any comparable adjustment pursuant to interim authority of the President), is equal to or greater than the basic rate of pay payable for level 5 of the Senior Executive Service.
+&emsp;(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a former employee are the employees and officers of the former legislative office of the Congress of the former employee.
 
 &emsp;(7)
+
+Limitation on restrictions.—(A) The restrictions contained in paragraphs (2), (3), (4), and (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was paid a rate of basic pay equal to or greater than an amount which is 75 percent of the basic rate of pay payable for a Member of the House of Congress in which such employee was employed.
+
+&emsp;(B) The restrictions contained in paragraph (6) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was employed in a position for which the rate of basic pay, exclusive of any locality-based pay adjustment under section 5302 of title 5, is equal to or greater than the basic rate of pay payable for level IV of the Executive Schedule.
+
+&emsp;(8)
+
+Exception.—This subsection shall not apply to contacts with the staff of the Secretary of the Senate or the Clerk of the House of Representatives regarding compliance with lobbying disclosure requirements under the Lobbying Disclosure Act of 1995.
+
+&emsp;(9)
 
 Definitions.—As used in this subsection—
 
@@ -170,7 +182,7 @@ Definitions.—As used in this subsection—
 
 &emsp;&emsp;(F) a person is an employee of a Senator if that person is an employee in a position in the office of a Senator;
 
-&emsp;&emsp;(G) the term “employee of any other legislative office of the Congress” means an officer or employee of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the Copyright Royalty Tribunal, the United States Capitol Police, and any other agency, entity, or office in the legislative branch not covered by paragraph (1), (2), (3), or (4) of this subsection;
+&emsp;&emsp;(G) the term “employee of any other legislative office of the Congress” means an officer or employee of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the UnitedStates Capitol Police, and any other agency, entity, or office in the legislative branch not covered by paragraph (1), (2), (3), (4), or (5) of this subsection;
 
 &emsp;&emsp;(H) the term “employee on the leadership staff of the House of Representatives” means an employee of the office of a Member of the leadership of the House of Representatives described in subparagraph (L), and any elected minority employee of the House of Representatives;
 
@@ -242,13 +254,21 @@ Exceptions.—
 
 &emsp;(1)
 
-Official government duties.—The restrictions contained in this section shall not apply to acts done in carrying out official duties on behalf of the United States or the District of Columbia or as an elected official of a State or local government.
+Official government duties.—
+
+&emsp;&emsp;(A)
+
+In general.—The restrictions contained in this section shall not apply to acts done in carrying out official duties on behalf of the United States or the District of Columbia or as an elected official of a State or local government.
+
+&emsp;&emsp;(B)
+
+Tribal organizations and inter-tribal consortiums.—The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450i(j)).
 
 &emsp;(2)
 
 State and local governments and institutions, hospitals, and organizations.—The restrictions contained in subsections (c), (d), and (e) shall not apply to acts done in carrying out official duties as an employee of—
 
-&emsp;&emsp;(A) an agency or instrumentality of a State or local government if the appearance,communication, or representation is on behalf of such government, or
+&emsp;&emsp;(A) an agency or instrumentality of a State or local government if the appearance, communication, or representation is on behalf of such government, or
 
 &emsp;&emsp;(B) an accredited, degree-granting institution of higher education, as defined in section 101 of the Higher Education Act of 1965, or a hospital or medical research organization, exempted and defined under section 501(c)(3) of the Internal Revenue Code of 1986, if the appearance, communication, or representation is on behalf of such institution, hospital, or organization.
 
@@ -290,7 +310,7 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 &emsp;&emsp;(i) the term “candidate” means any person who seeks nomination for election, or election, to Federal or State office or who has authorized others to explore on his or her behalf the possibility of seeking nomination for election, or election, to Federal or State office;
 
-&emsp;&emsp;(ii) the term “authorized committee” means any political committee designated in writing by a candidate as authorized to receive contributions or make expenditures to promote the nomination for election, or the election, of such candidate, or to explore the possibility of seeking nomination for election, or the election, of such candidate, except that a political committee that receives contributions or makes expenditures to promote more than 1 candidate may not be designated as an authorized committee for purposes of subparagraph (A);
+&emsp;&emsp;(ii) the term “authorized committee” means any political committee designated in writing by a candidate as authorized to receive contributions or make expenditures to promote the nomination for election, or the election, of such candidate, or to explore thepossibility of seeking nomination for election, or the election, of such candidate, except that a political committee that receives contributions or makes expenditures to promote more than 1 candidate may not be designated as an authorized committee for purposes of subparagraph (A);
 
 &emsp;&emsp;(iii) the term “national committee” means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the national level;
 
@@ -334,19 +354,21 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 Contract Advice by Former Details.—Whoever, being an employee of a private sector organization assigned to an agency under chapter 37 of title 5, within one year after the end of that assignment, knowingly represents or aids, counsels, or assists in representing any other person (except the United States) in connection with any contract with that agency shall be punished as provided in section 216 of this title.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1123; amended Pub. L. 95–521, title V, §501(a), Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–28, June 22, 1979, 93 Stat. 76; Pub. L. 101–189, div. A, title VIII, §814(d)(2), Nov. 29, 1989, 103 Stat. 1499; Pub. L. 101–194, title I, §101(a), Nov. 30, 1989, 103 Stat. 1716; Pub. L. 101–280, §§2(a), 5(d), May 4, 1990, 104 Stat. 149, 159; Pub. L. 101–509, title V, §529 \[title I, §101(b)(8)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–25, title VII, §705(a), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–190, div. C, title XXXI, §3138(a), Dec. 5, 1991, 105 Stat. 1579; Pub. L. 102–395, title VI, §609(a), Oct. 6, 1992, 106 Stat. 1873; Pub. L. 103–322, title XXXIII, §§330002(i), 330010(15), Sept. 13, 1994, 108 Stat. 2140, 2144; Pub. L. 104–65, §21(a), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–179, §§5, 6, Aug. 6, 1996, 110 Stat. 1567, 1568; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §635\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–244, title I, §102(a)(5), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–347, title II, §209(d)(1), (3), Dec. 17, 2002, 116 Stat. 2930; Pub. L. 108–136, div. A, title XI, §1125(b)(1), Nov. 24, 2003, 117 Stat. 1639; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1123; amended Pub. L. 95–521, title V, §501(a), Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–28, June 22, 1979, 93 Stat. 76; Pub. L. 101–189, div. A, title VIII, §814(d)(2), Nov. 29, 1989, 103 Stat. 1499; Pub. L. 101–194, title I, §101(a), Nov. 30, 1989, 103 Stat. 1716; Pub. L. 101–280, §§2(a), 5(d), May 4, 1990, 104 Stat. 149, 159; Pub. L. 101–509, title V, §529 \[title I, §101(b)(8)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–25, title VII, §705(a), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–190, div. C, title XXXI, §3138(a), Dec. 5, 1991, 105 Stat. 1579; Pub. L. 102–395, title VI, §609(a), Oct. 6, 1992, 106 Stat. 1873; Pub. L. 103–322, title XXXIII, §§330002(i), 330010(15), Sept. 13, 1994, 108 Stat. 2140, 2144; Pub.L. 104–65, §21(a), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–179, §§5, 6, Aug. 6, 1996, 110 Stat. 1567, 1568; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §635\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–244, title I, §102(a)(5), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–347, title II, §209(d)(1), (3), Dec. 17, 2002, 116 Stat. 2930; Pub. L. 108–136, div. A, title XI, §1125(b)(1), Nov. 24, 2003, 117 Stat. 1639; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–81, title I, §§101, 104(a), Sept. 14, 2007, 121 Stat. 736, 740.)
 
 #### References in Text
 
 Section 1102 of the Omnibus Trade and Competitiveness Act of 1988, referred to in subsec. (b)(2)(A), is classified to section 2902 of Title 19, Customs Duties.
 
-Levels I and II of the Executive Schedule, referred to in subsecs. (c)(2)(A)(ii) and (d)(1)(B), are set out in sections 5312 and 5313, respectively, of Title 5, Government Organization and Employees.
+Levels I, II, and IV of the Executive Schedule, referred to in subsecs. (c)(2)(A)(ii), (d)(1)(B), and (e)(7)(B), are set out in sections 5312, 5313, and 5315, respectively, of Title 5, Government Organization and Employees.
 
 The National Defense Authorization Act for Fiscal Year 2004, referred to in subsec. (c)(2)(A)(ii), is Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1392. For complete classification of this Act to the Code, see Tables.
 
-Senior Executive Service, referred to in subsecs. (c)(2)(A)(ii) and (e)(6)(B), see section 5382 of Title 5, Government Organization and Employees.
+Senior Executive Service, referred to in subsec. (c)(2)(A)(ii), see section 5382 of Title 5, Government Organization and Employees.
 
-Section 102(a) of the Ethics Reform Act of 1989, referred to in subsec. (e)(7)(L), (M), is section 102(a) of Pub. L. 101–194, which is set out below.
+The Lobbying Disclosure Act of 1995, referred to in subsec. (e)(8), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§1601 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
+
+Section 102(a) of the Ethics Reform Act of 1989, referred to in subsec. (e)(9)(L), (M), is section 102(a) of Pub. L. 101–194, which is set out below.
 
 Section 1(e) and (f) of the Foreign Agents Registration Act of 1938, referred to in subsec. (f)(3), is classified to section 611(e) and (f) of Title 22, Foreign Relations and Intercourse.
 
@@ -365,6 +387,58 @@ A prior section 207, act June 25, 1948, ch. 645, 62 Stat. 692, related to the ac
 Provisions similar to those comprising this section were contained in section 284 of this title prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
+
+2007—Subsec. (d)(1). Pub. L. 110–81, §101(a), substituted “within 2 years” for “within 1 year” in concluding provisions.
+
+Subsec. (e)(1). Pub. L. 110–81, §101(b)(3), added par. (1) and struck out former par. (1) which read as follows:
+
+“(1)
+
+Members of congress and elected officers.—(A) Any person who is a Member of Congress or an elected officer of either House of Congress and who, within 1 year after that person leaves office, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B) or (C), on behalf of any other person (except the United States) in connection with any matter on which such former Member of Congress or elected officer seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+
+“(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a former Member of Congress are any Member, officer, or employee of either House of Congress, and any employee of any other legislative office of the Congress.
+
+“(C) The persons referred to in subparagraph (A) with respect to appearances or communications by a former elected officer are any Member, officer, or employee of the House of Congress in which the elected officer served.”
+
+Subsec. (e)(2). Pub. L. 110–81, §101(b)(3), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (e)(3). Pub. L. 110–81, §101(b)(2), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (e)(3)(A). Pub. L. 110–81, §101(b)(4)(A), substituted “of a Member of the House of Representatives to whom paragraph (7)(A) applies” for “of a Senator or an employee of a Member of the House of Representatives”.
+
+Subsec. (e)(3)(B). Pub. L. 110–81, §101(b)(4)(B), struck out “Senator or” before “Member of the House” in cls. (i) and (ii).
+
+Subsec. (e)(4). Pub. L. 110–81, §101(b)(5), substituted “committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies” for “committee of Congress” and inserted “or joint committee (as the case may be)” after “committee” wherever subsequently appearing.
+
+Pub. L. 110–81, §101(b)(2), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (e)(5). Pub. L. 110–81, §101(b)(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (e)(5)(A). Pub. L. 110–81, §101(b)(6)(A), substituted “to whom paragraph (7)(A) applies” for “or an employee on the leadership staff of the Senate”.
+
+Subsec. (e)(5)(B). Pub. L. 110–81, §101(b)(6)(B), substituted “any Member of the leadership of the House of Representatives and any employee on the leadership staff of the House of Representatives.” for “the following:
+
+&emsp;“(i) in the case of a former employee on the leadership staff of the House of Representatives, those persons are any Member of the leadership of the House of Representatives and any employee on the leadership staff of the House of Representatives; and
+
+&emsp;“(ii) in the case of a former employee on the leadership staff of the Senate, those persons are any Member of the leadership of the Senate and any employee on the leadership staff of the Senate.”
+
+Subsec. (e)(6). Pub. L. 110–81, §101(b)(2), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (e)(6)(A). Pub. L. 110–81, §101(b)(7), inserted “to whom paragraph (7)(B) applies” after “office of the Congress”.
+
+Subsec. (e)(7). Pub. L. 110–81, §101(b)(2), redesignated par. (6) as (7). Former par. (7) redesignated (9).
+
+Subsec. (e)(7)(A). Pub. L. 110–81, §101(b)(8)(A), substituted “(4), and (5)” for “and (4)”.
+
+Subsec. (e)(7)(B). Pub. L. 110–81, §101(b)(8)(B), substituted “paragraph (6)” for “paragraph (5)” and “level IV of the Executive Schedule” for “level 5 of the Senior Executive Service” and struck out “(or any comparable adjustment pursuant to interim authority of the President)” after “title 5”.
+
+Subsec. (e)(8). Pub. L. 110–81, §101(b)(9), added par. (8).
+
+Subsec. (e)(9). Pub. L. 110–81, §101(b)(1), redesignated par. (7) as (9).
+
+Subsec. (e)(9)(G). Pub. L. 110–81, §101(b)(10), struck out “the Copyright Royalty Tribunal,” after “Congressional Budget Office,” and substituted “(4), or (5)” for “or (4)”.
+
+Subsec. (j)(1). Pub. L. 110–81, §104(a), inserted subpar. (A) designation and heading, realigned margins, and added subpar. (B).
 
 2004—Subsec. (e)(7)(G). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -418,7 +492,7 @@ Subsec. (d)(1)(B). Pub. L. 101–280, §2(a)(6)(A), amended subsec. (d)(1)(B), a
 
 Subsec. (d)(2). Pub. L. 101–280, §2(a)(6)(B), amended subsec. (d)(2), as amended by Pub. L. 101–194, by substituting “Persons who may not be contacted” for “Entities to which restrictions apply” in heading, and striking out “other” after “any” in subpar. (B).
 
-Subsec. (e)(6). Pub. L. 101–509, §529 \[title I, §101(b)(8)(A)(ii)\], added par. (6) and struck out former par. (6) which read as follows: “The restrictions contained in paragraphs (2), (3), (4), and (5) apply only toacts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was paid for such service at a rate of basic pay equal to or greater than the rate of basic pay payable for GS–17 of the General Schedule under section 5332 of title 5.”
+Subsec. (e)(6). Pub. L. 101–509, §529 \[title I, §101(b)(8)(A)(ii)\], added par. (6) and struck out former par. (6) which read as follows: “The restrictions contained in paragraphs (2), (3), (4), and (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was paid for such service at a rate of basic pay equal to or greater than the rate of basic pay payable for GS–17 of the General Schedule under section 5332 of title 5.”
 
 Pub. L. 101–280, §2(a)(7)(A), amended subsec. (e)(6), as amended by Pub. L. 101–194, by substituting “rate of basic” for “basic rate of” wherever appearing.
 
@@ -430,7 +504,7 @@ Subsec. (f)(1)(A). Pub. L. 101–280, §2(a)(8)(B), amended subsec. (f)(1)(A), a
 
 Subsec. (f)(1)(B). Pub. L. 101–280, §2(a)(8)(C), amended subsec. (f)(1)(B), as amended by Pub. L. 101–194, by striking out “of the Government” after “department or agency”.
 
-Subsec. (i)(1). Pub. L. 101–280, §2(a)(9), amended subsec. (i)(1), as amended by Pub. L. 101–194, by adding par. (1) and striking out former par. (1) which read as follows: “the term ‘intent to influence’ means the intent to affect any official action by a Government entity of the United States through any officer or employee of the United States, including Members of Congress;”.
+Subsec. (i)(1). Pub. L. 101–280, §2(a)(9), amended subsec. (i)(1), as amended by Pub. L. 101–194, by adding par. (1) and striking out former par. (1) which read as follows: “the term ‘intent to influence’ means the intentto affect any official action by a Government entity of the United States through any officer or employee of the United States, including Members of Congress;”.
 
 Subsec. (j)(1). Pub. L. 101–280, §2(a)(10)(A), amended subsec. (j)(1), as amended by Pub. L. 101–194, by substituting “this section” for “subsections (a), (c), (d), and (e)”, “on behalf of” for “as an officer or employee of”, and “or the District of Columbia” for “Government”.
 
@@ -454,6 +528,10 @@ Subsec. (d). Pub. L. 96–28, §2, designated existing provisions as par. (1), d
 
 1978—Pub. L. 95–521 expanded section to include provisions designed to more effectively deal with the problem of the disproportionate influence former officers and employees might have upon the government processes and decision-making in their previous departments or agencies when they return in the role of representatives or advocates of nongovernmental groups or interests before those same departments or agencies.
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–81, title I, §105(a), Sept. 14, 2007, 121 Stat. 741, provided that: “The amendments made by section 101 \[amending this section\] shall apply to individuals who leave Federal office or employment to which such amendments apply on or after the date of adjournment of the first session of the 110th Congress sine die or December 31, 2007, whichever date is earlier.”
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–136 effective on first day of first pay period beginning on or after Jan. 1, 2004, see section 1125(c)(1) of Pub. L. 108–136, set out as a note under section 5304 of Title 5, Government Organization and Employees.
@@ -476,7 +554,7 @@ Section 609(b) of Pub. L. 102–395 provided that: “This section \[amending th
 
 #### Effective Date of 1991 Amendments
 
-Section 3138(b) of Pub. L. 102–190 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactmentof this Act \[Dec. 5, 1991\] and shall apply to persons granted waivers under section 207(k)(1) of title 18, United States Code, on or after that date.”
+Section 3138(b) of Pub. L. 102–190 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1991\] and shall apply to persons granted waivers under section 207(k)(1) of title 18, United States Code, on or after that date.”
 
 Section 705(a) of Pub. L. 102–25 provided that subsec. (k), added by Pub. L. 101–189 and omitted in the general amendment of this section by Pub. L. 101–194, is reinstated as originally enacted, effective as of Jan. 1, 1991.
 
@@ -544,7 +622,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 &emsp;“(A) an elected official of a State or local government, or
 
-&emsp;“(B) whose principal occupation or employment is with (i) an agency or instrumentality of a State or local government, (ii) an accredited, degree-granting institution of higher education, as defined in section 1201(a) of the Higher Education Act of 1965, or (iii) a hospital or medical research organization, exempted and defined under section 501(c)(3) of the Internal Revenue Code of 1986, and the appearance, communication, or representation is on behalf of such government, institution, hospital, or organization.
+&emsp;“(B) whose principal occupation or employment is with (i) an agency or instrumentality of a State or local government, (ii) an accredited, degree-granting institution of higher education, as defined in section1201(a) of the Higher Education Act of 1965, or (iii) a hospital or medical research organization, exempted and defined under section 501(c)(3) of the Internal Revenue Code of 1986, and the appearance, communication, or representation is on behalf of such government, institution, hospital, or organization.
 
 “(e) For the purposes of subsection (c), whenever the Director of the Office of Government Ethics determines that a separate statutory agency or bureau within a department or agency exercises functions which are distinct and separate from the remaining functions of the department or agency, the Director shall by rule designate such agency or bureau as a separate department or agency; except that such designation shall not apply to former heads of designated bureaus or agencies, or former officers and employees of the department or agency whose official responsibilities included supervision of said agency or bureau.
 
@@ -597,6 +675,10 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 #### Regulations
 
 Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
+
+#### Construction of 2007 Amendment
+
+Pub. L. 110–81, title I, §104(c), Sept. 14, 2007, 121 Stat. 740, provided that: “Except as expressly identified in this section \[amending this section and section 450i of Title 25, Indians\] and in the amendments made by this section, nothing in this section or the amendments made by this section affects any other provision of law.”
 
 #### Transfer of Functions
 

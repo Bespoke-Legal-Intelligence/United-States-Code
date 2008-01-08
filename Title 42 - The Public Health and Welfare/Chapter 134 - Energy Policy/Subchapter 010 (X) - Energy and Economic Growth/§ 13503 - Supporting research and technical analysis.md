@@ -32,7 +32,7 @@
 
 (2) The Secretary shall develop a method to evaluate the effectiveness of science and mathematics education programs provided by the Department of Energy and its laboratories, including specific evaluation criteria.
 
-(3)(A)(i) The Director of the Office of Science shall operate an Experimental Program to Stimulate Competitive Research (in this paragraph referred to as “EPSCoR”) as part of the Department of Energy's University and Science Education Programs.
+(3)(A)(i) The Director of the Office of Science shall operate an Experimental Program to Stimulate Competitive Research (in this paragraphreferred to as “EPSCoR”) as part of the Department of Energy's University and Science Education Programs.
 
 (ii) The objectives of EPSCoR shall be—
 
@@ -72,7 +72,7 @@ The Secretary shall support technology transfer activities conducted by the Nati
 
 &emsp;&emsp;(C) Providing engineering design and construction services for those facilities which require modification or additions in order to meet the needs of new or expanded programs.
 
-> &emsp;Such plan shall include plans for new facilities and facility modifications which will be required to meet the Department of Energy's changing missions of the twenty-first century, including schedules and estimates for implementation, and including a section outlining long-term funding requirements consistent with anticipated budgets and annual authorization of appropriations. Such plan shall address the coordination of modernization andconsolidation of facilities in order to meet changing mission requirements, and shall provide for annual reports to Congress on accomplishments, conformance to schedules, commitments, and expenditures.
+> &emsp;Such plan shall include plans for new facilities and facility modifications which will be required to meet the Department of Energy's changing missions of the twenty-first century, including schedules and estimates for implementation, and including a section outlining long-term funding requirements consistent with anticipated budgets and annual authorization of appropriations. Such plan shall address the coordination of modernization and consolidation of facilities in order to meet changing mission requirements, and shall provide for annual reports to Congress on accomplishments, conformance to schedules, commitments, and expenditures.
 
 #### (e) Authorization of appropriations
 

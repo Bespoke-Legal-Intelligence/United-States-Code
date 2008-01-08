@@ -20,7 +20,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 &emsp;&emsp;(B) if a petition for redetermination of a deficiency in such estate tax has been filed with the Tax Court within the time prescribed in section 6213, at any time before the expiration of 60 days after the decision of the Tax Court becomes final, or
 
-&emsp;&emsp;(C) if an election has been made under section 6166 and if the time prescribed by this subparagraph expires at a later date than the time prescribed by subparagraph (B) of this paragraph, within the time determined under section 6166 for the payment of the installments.
+&emsp;&emsp;(C) if an election has been made under section 6166 and if the time prescribed by thissubparagraph expires at a later date than the time prescribed by subparagraph (B) of this paragraph, within the time determined under section 6166 for the payment of the installments.
 
 #### (2) Relationship of stock to decedent's estate
 
@@ -94,7 +94,7 @@ Subsec. (b)(2)(B). Pub. L. 97–34, §422(b)(2), in heading, substituted “stoc
 
 1976—Subsec. (b)(1)(C). Pub. L. 94–455, §2004(e)(1), added subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 94–455, §2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate is either more than 35percent of the gross estate or 50 percent of the taxable estate.
+Subsec. (b)(2)(A). Pub. L. 94–455, §2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate is either more than 35 percent of the gross estate or 50 percent of the taxable estate.
 
 Subsec. (b)(2)(B). Pub. L. 94–455, §2004(e)(2)(B), substituted “the 50 percent requirement” for “the 35 percent and 50 percent requirements”.
 

@@ -8,7 +8,7 @@ The Secretary shall cause to be made such inspections of any surface coal mining
 
 For the purpose of developing or assisting in the development, administration, and enforcement of any approved State or Federal program under this chapter or in the administration and enforcement of any permit under this chapter, or of determining whether any person is in violation of any requirement of any such State or Federal program or any other requirement of this chapter—
 
-&emsp;(1) the regulatory authority shall require any permittee to (A) establish and maintain appropriate records, (B) make monthly reports to the regulatory authority, (C) install, use, and maintain any necessary monitoring equipment or methods, (D) evaluate results in accordance with such methods, at such locations, intervals, and in such manner as a regulatory authority shall prescribe, and (E) provide such other information relative to surface coal mining and reclamation operations as the regulatory authority deems reasonable and necessary;
+&emsp;(1) the regulatory authority shall require any permittee to (A) establish and maintainappropriate records, (B) make monthly reports to the regulatory authority, (C) install, use, and maintain any necessary monitoring equipment or methods, (D) evaluate results in accordance with such methods, at such locations, intervals, and in such manner as a regulatory authority shall prescribe, and (E) provide such other information relative to surface coal mining and reclamation operations as the regulatory authority deems reasonable and necessary;
 
 &emsp;(2) for those surface coal mining and reclamation operations which remove or disturb strata that serve as aquifers which significantly insure the hydrologic balance of water use either on or off the mining site, the regulatory authority shall specify those—
 
@@ -26,7 +26,7 @@ For the purpose of developing or assisting in the development, administration, a
 
 #### (c) Inspection intervals
 
-The inspections by the regulatory authority shall (1) occur on an irregular basis averagingnot less than one partial inspection per month and one complete inspection per calendar quarter for the surface coal mining and reclamation operation covered by each permit; (2) occur without prior notice to the permittee or his agents or employees except for necessary onsite meetings with the permittee; and (3) include the filing of inspection reports adequate to enforce the requirements of and to carry out the terms and purposes of this chapter.
+The inspections by the regulatory authority shall (1) occur on an irregular basis averaging not less than one partial inspection per month and one complete inspection per calendar quarter for the surface coal mining and reclamation operation covered by each permit; (2) occur without prior notice to the permittee or his agents or employees except for necessary onsite meetings with the permittee; and (3) include the filing of inspection reports adequate to enforce the requirements of and to carry out the terms and purposes of this chapter.
 
 #### (d) Maintenance of sign
 

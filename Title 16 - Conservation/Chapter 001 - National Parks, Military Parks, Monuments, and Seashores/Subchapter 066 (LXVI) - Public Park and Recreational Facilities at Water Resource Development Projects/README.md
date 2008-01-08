@@ -9,3 +9,4 @@
 - [&sect; 00460d&#8211;1 - Rentals or other considerations in leases for construction, maintenance, and operation of commercial recreational facilities&#8230;](%C2%A7%2000460d%E2%80%931%20-%20Rentals%20or%20other%20considerations%20in%20leases%20for%20construction%2C%20maintenance%2C%20and%20operation%20of%20commercial%20recreational%20facilities%E2%80%A6.md)
 - [&sect; 00460d&#8211;2 - Adjustment by Secretary of Agriculture](%C2%A7%2000460d%E2%80%932%20-%20Adjustment%20by%20Secretary%20of%20Agriculture.md)
 - [&sect; 00460d&#8211;3 - Recreational user fees](%C2%A7%2000460d%E2%80%933%20-%20Recreational%20user%20fees.md)
+- [&sect; 00460d&#8211;3a - Contracts to provide visitor reservation services](%C2%A7%2000460d%E2%80%933a%20-%20Contracts%20to%20provide%20visitor%20reservation%20services.md)

@@ -60,7 +60,7 @@ Within three years after the date the Commission is established, it shall adopt 
 
 &emsp;(5) include guidelines for the adoption of land use ordinances for lands within the scenic area. The guidelines—
 
-&emsp;&emsp;(A) shall incorporate without change the guidelines for the development of specialmanagement area land use ordinances developed by the Secretary pursuant to section 544f of this title; and
+&emsp;&emsp;(A) shall incorporate without change the guidelines for the development of special management area land use ordinances developed by the Secretary pursuant to section 544f of this title; and
 
 &emsp;&emsp;(B) shall not apply to urban areas designated in section 544b(e) of this title.
 
@@ -110,7 +110,7 @@ The Secretary and the Commission shall exercise their responsibilities pursuant 
 
 #### (g) Revision of plan
 
-No sooner than five years after adoption of the management plan, but at least every ten years, the Commission shall review the management plan to determine whether it should be revised. The Commission shall submit any revised management plan to the Secretary for review and concurrence, in accordance with the provisions of this section for adoption of the management plan.
+No sooner than five years after adoption of the management plan, but at least every ten years, the Commission shall review the management plan to determine whether it should be revised.The Commission shall submit any revised management plan to the Secretary for review and concurrence, in accordance with the provisions of this section for adoption of the management plan.
 
 #### (h) Amendment of plan
 

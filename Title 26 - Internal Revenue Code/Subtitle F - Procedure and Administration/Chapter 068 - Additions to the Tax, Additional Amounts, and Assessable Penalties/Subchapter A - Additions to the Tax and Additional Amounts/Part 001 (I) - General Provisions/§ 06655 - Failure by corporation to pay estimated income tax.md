@@ -171,7 +171,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(III) subclause (IV) of subparagraph (A)(i) shall be applied by substituting “11 months” for “9 months”.
 
-&emsp;&emsp;(iii) An election under clause (i) or (ii) shall apply to the taxable year for which made and such an election shall be effective only if made on or before the date required for the payment of the first required installment for such taxable year.
+&emsp;&emsp;(iii) An election under clause (i) or (ii) shall apply to the taxable year for whichmade and such an election shall be effective only if made on or before the date required for the payment of the first required installment for such taxable year.
 
 #### (3) Determination of adjusted seasonal installment
 
@@ -197,7 +197,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) determine the tax on the amount determined under clause (ii), and
 
-&emsp;&emsp;&emsp;(iv) multiply the tax computed under clause (iii) by the base period percentagefor the filing month and all months during the taxable year preceding the filing month.
+&emsp;&emsp;&emsp;(iv) multiply the tax computed under clause (iii) by the base period percentage for the filing month and all months during the taxable year preceding the filing month.
 
 #### (D) Definitions and special rules
 
@@ -253,7 +253,7 @@ For purposes of this section—
 
 #### (f) Exception where tax is small amount
 
-No addition to tax shall be imposed under subsection (a) for any taxable year if the tax shown on the return for such taxable year (or, if no return is filed, the tax) is less than $500.
+No addition to tax shall be imposed under subsection (a) for any taxable year if the tax shownon the return for such taxable year (or, if no return is filed, the tax) is less than $500.
 
 #### (g) Definitions and special rules
 
@@ -285,7 +285,7 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 #### (i) Testing period
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A), the term “testing period” means the 3 taxableyears immediately preceding the taxable year involved.
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), the term “testing period” means the 3 taxable years immediately preceding the taxable year involved.
 
 #### (ii) Members of controlled group
 
@@ -361,7 +361,7 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 825; Pub. L. 88–272, title I, §122(c), Feb. 26, 1964, 78 Stat. 28; Pub. L. 90–364, title I, §103(c), (d)(2), (e)(1), June 28, 1968, 82 Stat. 262, 264; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(b)(3)(A)–(C)(i), (13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 95–600, title III, §301(b)(20)(B), Nov. 6, 1978, 92 Stat. 2824; Pub. L. 96–499, title XI, §1111(a), (b), Dec. 5, 1980, 94 Stat. 2681, 2682; Pub. L. 97–34, title VI, §601(a)(6)(B), title VII, §731(a), (b), Aug. 13, 1981, 95 Stat. 336, 346, 347; Pub. L. 97–248, title II, §234(a), (c), (d), Sept. 3, 1982, 96 Stat. 503, 504; Pub. L. 97–448, title II, §201(j)(4), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 99–499, title V, §516(b)(4)(D), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(3), title XV, §1511(c)(15), Oct. 22, 1986, 100 Stat. 2342, 2745; Pub. L. 100–203, title X, §10301(a), Dec. 22, 1987, 101 Stat. 1330–424; Pub. L. 100–418, title I, §1941(b)(6)(B), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title II, §2004(r), title V, §5001(a), Nov.10, 1988, 102 Stat. 3609, 3660; Pub. L. 101–239, title VII, §§7209(a), 7822(a), Dec. 19, 1989, 103 Stat. 2338, 2424; Pub. L. 101–508, title XI, §11704(a)(28), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–227, title II, §201(a), (b), Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–244, §3(a), Feb. 7, 1992, 106 Stat. 4; Pub. L. 102–318, title V, §512(a), (b), July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §13225(a), (b), Aug. 10, 1993, 107 Stat. 486; Pub. L. 103–465, title VII, §711(a), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 104–188, title I, §1703(h), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XIV, §1461(a), Aug. 5, 1997, 111 Stat. 1057; Pub. L. 106–170, title V, §571(a), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 106–554, §1(a)(7) \[title III, §319(21)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 825; Pub. L. 88–272, title I, §122(c), Feb. 26, 1964, 78 Stat. 28; Pub. L. 90–364, title I, §103(c), (d)(2), (e)(1), June 28, 1968, 82 Stat. 262, 264; Pub. L. 93–625, §7(c), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(b)(3)(A)–(C)(i), (13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 95–600, title III, §301(b)(20)(B), Nov. 6, 1978, 92 Stat. 2824; Pub. L. 96–499, title XI, §1111(a), (b), Dec. 5, 1980, 94 Stat. 2681, 2682; Pub. L. 97–34, title VI, §601(a)(6)(B), title VII, §731(a), (b), Aug. 13, 1981, 95 Stat. 336, 346, 347; Pub. L. 97–248, title II, §234(a), (c), (d), Sept. 3, 1982, 96 Stat. 503, 504; Pub. L. 97–448, title II, §201(j)(4), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 99–499, title V, §516(b)(4)(D), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(d)(3), title XV, §1511(c)(15), Oct. 22, 1986, 100 Stat. 2342, 2745; Pub. L. 100–203, title X, §10301(a), Dec. 22, 1987, 101 Stat. 1330–424; Pub. L. 100–418, title I, §1941(b)(6)(B), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title II, §2004(r), title V, §5001(a), Nov. 10, 1988, 102 Stat. 3609, 3660; Pub. L. 101–239, title VII, §§7209(a), 7822(a), Dec. 19, 1989, 103 Stat. 2338, 2424; Pub. L. 101–508, title XI, §11704(a)(28), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–227, title II, §201(a), (b), Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–244, §3(a), Feb. 7, 1992, 106 Stat. 4; Pub. L. 102–318, title V, §512(a), (b), July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §13225(a), (b), Aug. 10, 1993, 107 Stat. 486; Pub. L. 103–465, title VII, §711(a), Dec. 8, 1994, 108 Stat. 4998; Pub. L. 104–188, title I, §1703(h), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XIV, §1461(a), Aug. 5, 1997, 111 Stat. 1057; Pub. L. 106–170, title V, §571(a), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 106–554, §1(a)(7) \[title III, §319(21)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
 
 #### Amendments
 
@@ -441,7 +441,7 @@ Pub. L. 99–499 amended subsec. (f)(1), as amended by the Tax Reform Act of 198
 
 1983—Subsec. (f)(2)(B). Pub. L. 97–448 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to the extent allowed under regulations prescribed by the Secretary, any amount which is treated under section 6429 as an overpayment of the tax imposed by section 4986”. Notwithstanding directory language that amendment be made to subsec. (e)(2)(B), the amendment was executed to subsec. (f)(2)(B) to reflect the probable intent of Congress, the intervening redesignation of subsec. (e) as (f) by Pub. L. 97–248, and the retrospective effect of the amendment as provided by section 203(a), (b) of Pub. L. 97–448, set out as an Effective Date of 1983 Amendment note under section 4988 of this title.
 
-1982—Subsec. (a). Pub. L. 97–248, §234(c), in heading substituted “Addition to tax” for “Addition to the tax”, in provisions preceding par. (1) inserted reference to subsec. (e) as an exception and struck out “estimated” before “tax”, designated existing provisions as par. (1), and in par. (1) as so designated struck out parenthetical reference to subsecs. (b) and (c) for determination of the amount of the underpayment and theperiod of the underpayment, respectively, and added par. (2).
+1982—Subsec. (a). Pub. L. 97–248, §234(c), in heading substituted “Addition to tax” for “Addition to the tax”, in provisions preceding par. (1) inserted reference to subsec. (e) as an exception and struck out “estimated” before “tax”, designated existing provisions as par. (1), and in par. (1) as so designated struck out parenthetical reference to subsecs. (b) and (c) for determination of the amount of the underpayment and the period of the underpayment, respectively, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 97–248, §234(a)(1), substituted “90” for “80” wherever appearing.
 
@@ -533,7 +533,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c)of Pub. L. 100–203, set out as a note under section 585 of this title.
+Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c) of Pub. L. 100–203, set out as a note under section 585 of this title.
 
 #### Effective Date of 1986 Amendments
 
@@ -583,13 +583,13 @@ Amendment by Pub. L. 88–272 effective, except for purposes of section 21 of th
 
 #### Time for Payment of Corporate Estimated Taxes
 
-Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, provided that: “Notwithstanding section 6655 of the Internal Revenue Code of 1986—
+Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, as amended by Pub. L. 110–28, title VIII, §8248, May 25, 2007, 121 Stat. 204; Pub. L. 110–42, §4, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §3, Aug. 1, 2007, 121 Stat. 264; Pub. L. 110–89, §2(a), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title VI, §602, Dec. 14, 2007, 121 Stat. 1490, provided that: “Notwithstanding section 6655 of the Internal Revenue Code of 1986—
 
 &emsp;“(1) in the case of a corporation with assets of not less than $1,000,000,000 (determined as of the end of the preceding taxable year)—
 
 &emsp;&emsp;“(A) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2006 shall be 105 percent of such amount,
 
-&emsp;&emsp;“(B) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2012 shall be 106.25 percent of such amount,
+&emsp;&emsp;“(B) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2012 shall be 115 percent percent of such amount,
 
 &emsp;&emsp;“(C) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2013 shall be 100.75 percent of such amount, and
 
@@ -598,6 +598,10 @@ Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, provided that: 
 &emsp;“(2) 20.5 percent of the amount of any required installment of corporate estimated tax which is otherwise due in September 2010 shall not be due until October 1, 2010, and
 
 &emsp;“(3) 27.5 percent of the amount of any required installment of corporate estimated tax which is otherwise due in September 2011 shall not be due until October 1, 2011.”
+
+\[Pub. L. 110–142, §10, Dec. 20, 2007, 121 Stat. 1808, provided that: “The percentage under subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Dec. 20, 2007\] is increased by 1.50 percentage points.”\]
+
+\[Pub. L. 110–138, title I, §107(a), (c), title VI, §602, Dec. 14, 2007, 121 Stat. 1459, 1490, provided that, effective on the date on which the United States-Peru Trade Promotion Agreement enters into force and ceasing to have effect on the date on which the Agreement terminates, section 401(1)(B) of Pub. L. 109–222, set out above, is amended by striking “115 percent” and inserting “115.75 percent”. See section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of Title 19, Customs Duties.\]
 
 #### Time for Payment of September 2001 and September 2004 Corporate Estimated Taxes
 
@@ -615,7 +619,7 @@ No addition to tax to be made under this section for any period before Jan. 1, 1
 
 #### Underpayments of Estimated Tax for 1996
 
-No addition to tax to be made under this section with respect to any underpayment of an installment required to be paid before Aug. 20, 1996, to the extent such underpayment was created or increased by any provision of title I (§§1101–1954) of Pub. L. 104–188, see section1102 of Pub. L. 104–188, set out as a note under section 6654 of this title.
+No addition to tax to be made under this section with respect to any underpayment of an installment required to be paid before Aug. 20, 1996, to the extent such underpayment was created or increased by any provision of title I (§§1101–1954) of Pub. L. 104–188, see section 1102 of Pub. L. 104–188, set out as a note under section 6654 of this title.
 
 #### Waiver of Estimated Penalties for 1993 Underpayments Attributable to Revenue Reconciliation Act of 1993
 
@@ -659,7 +663,7 @@ No addition to tax to be made under this section for any period before Mar. 16, 
 
 #### Waiver of Estimated Tax Penalties
 
-Section 1879(a) of Pub. L. 99–514 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1954 \[now 1986\] (relating to failure to pay estimated income tax) for any period before April 16, 1985 (March 16, 1985 in the case of a taxpayer subject to section 6655 of such Code), with respect to any underpayment, to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\].”
+Section 1879(a) of Pub. L. 99–514 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1954 \[now 1986\] (relating to failure to pay estimated income tax) for any period before April 16, 1985 (March 16, 1985 in the case of a taxpayer subject to section 6655 of such Code), withrespect to any underpayment, to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\].”
 
 #### Underpayments of Estimated Tax for 1984
 
@@ -677,7 +681,7 @@ Section 803(g) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Declaration of Estimated Tax
 
-With respect to taxable years beginning before Dec. 30, 1969, if a taxpayer is required to make a declaration, or to pay any amount of estimated tax by reason of amendments made by Pub. L. 91–172, such amount shall be paid ratably on each of the remaining installment dates for the taxable year beginning with the first installment date on or after Dec. 30, 1969; as to any declaration or payment of estimated tax before the first installment date, this section, and sections 6015, 6154,and 6654 of this title shall be applied without regard to amendments made by Pub. L. 91–172, see section 946(b) of Pub. L. 91–172, set out as a note under section 6153 of this title.
+With respect to taxable years beginning before Dec. 30, 1969, if a taxpayer is required to make a declaration, or to pay any amount of estimated tax by reason of amendments made by Pub. L. 91–172, such amount shall be paid ratably on each of the remaining installment dates for the taxable year beginning with the first installment date on or after Dec. 30, 1969; as to any declaration or payment of estimated tax before the first installment date, this section, and sections 6015, 6154, and 6654 of this title shall be applied without regard to amendments made by Pub. L. 91–172, see section 946(b) of Pub. L. 91–172, set out as a note under section 6153 of this title.
 
 #### Tax Surcharge Extension; Declarations of Estimated Tax
 

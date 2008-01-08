@@ -28,7 +28,7 @@ As used in this chapter:
 
 (3) The term “commerce” means trade, traffic, transportation, or other commerce (A) between a place in a State and any place outside of such State, or (B) which affects trade, traffic, transportation, or commerce described in clause (A).
 
-(4) The terms “distribute in commerce” and “distribution in commerce” when used to describe an action taken with respect to a chemical substance or mixture or article containing a substance or mixture mean to sell, or the sale of, the substance, mixture, or article in commerce; to introduce or deliver for introduction into commerce, or the introduction or delivery for introduction into commerce of, the substance, mixture, or article; or to hold, or the holding of, the substance, mixture, or article after its introduction into commerce.
+(4) The terms “distribute in commerce” and “distribution in commerce” when used to describe an action taken with respect to a chemical substance or mixture or article containing a substance or mixture mean to sell, or the saleof, the substance, mixture, or article in commerce; to introduce or deliver for introduction into commerce, or the introduction or delivery for introduction into commerce of, the substance, mixture, or article; or to hold, or the holding of, the substance, mixture, or article after its introduction into commerce.
 
 (5) The term “environment” includes water, air, and land and the interrelationship which exists among and between water, air, and land and all living things.
 
@@ -74,7 +74,7 @@ As used in this chapter:
 
 #### References in Text
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch.125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 

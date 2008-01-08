@@ -56,13 +56,17 @@ A prior section 680 of Pub. L. 97–35 was classified to section 9909 of this ti
 
 #### Change of Name
 
+Committee on Education and the Workforce of the House of Representatives changed to Committee on Education and Labor of the House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
 
-Pub. L. 109–149, title II, Dec. 30, 2005, 119 Stat. 2855, provided in part: “That the Secretary shall establish procedures regarding the disposition of intangible property which permits grant funds, or intangible assets acquired with funds authorized under section 680 of the Community Services Block Grant Act, as amended \[42 U.S.C. 9921\], to become the sole property of such grantees after a period of not more than 12 years after the end of the grant for purposes and uses consistent with the original grant”.
+Pub. L. 110–161, div. G, title II, Dec. 26, 2007, 121 Stat. 2180, provided in part: “That the Secretary of Health and Human Services shall establish procedures regarding the disposition of intangible property which permits grant funds, or intangible assets acquired with funds authorized under section 680 of the Community Services Block Grant Act \[42 U.S.C. 9921\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant for purposes and uses consistent with the original grant”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–149, title II, Dec. 30, 2005, 119 Stat. 2855.
 
 Pub. L. 108–447, div. F, title II, Dec. 8, 2004, 118 Stat. 3134.
 

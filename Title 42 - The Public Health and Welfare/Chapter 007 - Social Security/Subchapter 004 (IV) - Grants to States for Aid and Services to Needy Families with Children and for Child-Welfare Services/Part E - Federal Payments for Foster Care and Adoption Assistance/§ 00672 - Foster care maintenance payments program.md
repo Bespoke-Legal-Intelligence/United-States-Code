@@ -46,7 +46,7 @@
 
 #### (4) Eligibility of certain alien children
 
-&emsp;Subject to title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[8 U.S.C. 1601 et seq.\], if the child is an alien disqualified under section 1255a(h) or 1160(f) of title 8 from receiving aid under the State plan approved under section 602 of this title in or for the month in which the agreement described in paragraph (2)(A)(i) was entered into or court proceedings leading tothe determination described in paragraph (2)(A)(ii) were initiated, the child shall be considered to satisfy the requirements of paragraph (3), with respect to the month, if the child would have satisfied the requirements but for the disqualification.
+&emsp;Subject to title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[8 U.S.C. 1601 et seq.\], if the child is an alien disqualified under section 1255a(h) or 1160(f) of title 8 from receiving aid under the State plan approved under section 602 of this title in or for the month in which the agreement described in paragraph (2)(A)(i) was entered into or court proceedings leading to the determination described in paragraph (2)(A)(ii) were initiated, the child shall be considered to satisfy the requirements of paragraph (3), with respect to the month, if the child would have satisfied the requirements but for the disqualification.
 
 #### (b) Additional qualifications
 
@@ -84,13 +84,13 @@ In any case where—
 
 #### (h) Aid for dependent children; assistance for minor children in needy families
 
-(1) For purposes of subchapter XIX of this chapter, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect). For purposes of subchapter XX of this chapter, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
+(1) For purposes of subchapter XIX of this chapter, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children underpart A of this subchapter (as so in effect). For purposes of subchapter XX of this chapter, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
 
 (2) For purposes of paragraph (1), a child whose costs in a foster family home or child care institution are covered by the foster care maintenance payments being made with respect to the child's minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.
 
 #### (i) Administrative costs associated with otherwise eligible children not in licensed foster care settings
 
-Expenditures by a State that would be considered administrative expenditures for purposes ofsection 674(a)(3) of this title if made with respect to a child who was residing in a foster family home or child-care institution shall be so considered with respect to a child not residing in such a home or institution—
+Expenditures by a State that would be considered administrative expenditures for purposes of section 674(a)(3) of this title if made with respect to a child who was residing in a foster family home or child-care institution shall be so considered with respect to a child not residing in such a home or institution—
 
 &emsp;(1) in the case of a child who has been removed in accordance with subsection (a) of this section from the home of a relative specified in section 606(a) of this title (as in effect on July 16, 1996), only for expenditures—
 

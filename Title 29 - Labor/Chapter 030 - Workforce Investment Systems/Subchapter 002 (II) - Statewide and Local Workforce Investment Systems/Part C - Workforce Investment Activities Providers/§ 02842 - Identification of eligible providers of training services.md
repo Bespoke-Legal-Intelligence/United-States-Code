@@ -164,7 +164,7 @@
 
 #### (A) State list
 
-&emsp;&emsp;The designated State agency shall compile a single list of the providers identified under paragraph (3) from all local areas in the State and disseminate such list, and the performance information and program cost information described in paragraph (1), to the one-stop delivery systems within the State.Such list and information shall be made widely available to participants in employment and training activities authorized under section 2864 of this title and others through the one-stop delivery system.
+&emsp;&emsp;The designated State agency shall compile a single list of the providers identified under paragraph (3) from all local areas in the State and disseminate such list, and the performance information and program cost information described in paragraph (1), to the one-stop delivery systems within the State. Such list and information shall be made widely available to participants in employment and training activities authorized under section 2864 of this title and others through the one-stop delivery system.
 
 #### (B) Selection from State list
 
@@ -182,7 +182,7 @@
 
 #### (2) Noncompliance
 
-&emsp;If the designated State agency, or the local board working with the State agency, determines that an eligible provider described in subsection (a) of this section substantially violates any requirement under this Act, the agency, or the local board working with the State agency, may terminate the eligibility of such provider to receive funds described in subsection (a) of this section for the program involved or take such other action as the agency or local board determines to be appropriate.
+&emsp;If the designated State agency, or the local board working with the State agency, determines that an eligible provider described in subsection (a) of this section substantially violates any requirement under this Act, the agency, or the local board working with the State agency, may terminate the eligibility of such provider to receive funds described in subsection (a) of this section for the program involved or take such other action as theagency or local board determines to be appropriate.
 
 #### (3) Repayment
 

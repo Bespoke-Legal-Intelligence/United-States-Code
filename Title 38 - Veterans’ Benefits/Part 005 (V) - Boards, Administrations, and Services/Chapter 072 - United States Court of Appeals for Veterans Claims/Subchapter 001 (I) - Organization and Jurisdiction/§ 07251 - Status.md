@@ -54,7 +54,7 @@ Date of Enactment.—Sections 201 (other than subsection (a)), 208, 209, 302, an
 
 “(d)
 
-Board of Veterans’ Appeals.—Sections 202, 203, 205, 206, and 207 \[see Tables for classification\] shall takeeffect as of January 1, 1989. Section 204 \[amending section 4004 \[now 7104\] of this title\] shall take effect on September 1, 1989.
+Board of Veterans’ Appeals.—Sections 202, 203, 205, 206, and 207 \[see Tables for classification\] shall take effect as of January 1, 1989. Section 204 \[amending section 4004 \[now 7104\] of this title\] shall take effect on September 1, 1989.
 
 “(e)
 

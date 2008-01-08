@@ -14,7 +14,7 @@ Moneys in the Insurance Fund not needed for current operations shall be deposite
 
 #### (d) Notes, issuing authority of the Secretary; use of funds; terms and conditions, form, denominations, maturities, and interest rate of notes; notes, purchasing authority of the Secretary of the Treasury; public debt transactions
 
-The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for making loans, advances, and authorized expenditures out of the Insurance Fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the average maturities of rural development loans made, guaranteed, or insured under this chapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debttransaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary hereunder. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
+The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for making loans, advances, and authorized expenditures out of the Insurance Fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the average maturities of rural development loans made, guaranteed, or insured under this chapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary hereunder. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
 
 #### (e) Notes and security as part of Insurance Fund; collection and sale of notes and other obligations; deposit of net proceeds in Insurance Fund
 
@@ -28,7 +28,7 @@ The Secretary shall deposit in the Insurance Fund any charges collected for loan
 
 The Secretary may utilize the Insurance Fund—
 
-&emsp;(1) to pay amounts to which the holder of insured notes is entitled on loans heretofore or hereafter insured accruing between the date of any payments by the borrower and the date of transmittal of any such payments to the holder. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
+&emsp;(1) to pay amounts to which the holder of insured notes is entitled on loans heretofore or hereafter insured accruing between the date of any payments by the borrower and the date of transmittal of any such payments to the holder. In the discretion of the Secretary, payments other than final payments need not beremitted to the holder until due or until the next agreed annual or semiannual remittance date;
 
 &emsp;(2) to pay to the holder of insured notes any deferred or defaulted installment, or upon assignment of the note to the Secretary at the Secretary's request, the entire balance due on the loan;
 
@@ -58,7 +58,7 @@ For definition of “this chapter”, referred to in subsecs. (b), (d), (e), (f)
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-In subsec. (d), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

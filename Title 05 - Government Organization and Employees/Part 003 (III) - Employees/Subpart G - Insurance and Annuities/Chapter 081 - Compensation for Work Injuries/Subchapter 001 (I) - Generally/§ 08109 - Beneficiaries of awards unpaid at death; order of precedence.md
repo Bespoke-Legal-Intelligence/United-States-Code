@@ -14,7 +14,7 @@
 
 &emsp;(B) for the period specified by the schedule;
 
-&emsp;(C) to and for the benefit of the persons then in being within the classes and proportionsand on the conditions specified by this section; and
+&emsp;(C) to and for the benefit of the persons then in being within the classes and proportions and on the conditions specified by this section; and
 
 &emsp;(D) in the following order of precedence:
 

@@ -4,6 +4,10 @@ The Librarian of Congress may designate employees of the Library of Congress as 
 
 (Aug. 4, 1950, ch. 561, §1, 64 Stat. 411; Pub. L. 90–610, §1, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 93–175, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 100–135, §1(a), Oct. 16, 1987, 101 Stat. 811.)
 
+#### Repeal of Section
+
+<i>Pub. L. 110–161, div. H, title I, §1004(d)(1)(B), Dec. 26, 2007, 121 Stat. 2233, and Pub. L. 110–178, §4(a)(2), Jan. 7, 2008, 121 Stat. 2551, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+
 #### Amendments
 
 1987—Pub. L. 100–135 amended section generally. Prior to amendment, section read as follows:
@@ -33,6 +37,14 @@ Subsec. (a)(4). Pub. L. 93–175 substituted “Senior Lieutenant GS–10—step
 Subsec. (a)(5). Pub. L. 93–175 substituted “Captain GS–11—step one through seven” for “Captain—not to exceed the rate for GS–10, Step 5”.
 
 1968—Pub. L. 90–610 struck out provisions which permitted the Librarian to designate employees as special policemen without additional compensation, and inserted provisions permitting designation of employees as special employees, prescribing their rates of basic pay, and empowering the Librarian to apply the provisions of subchapter V of chapter 55 of title 5 to members of the special police force.
+
+#### Effective Date of Repeal
+
+Pub. L. 110–178, §4(d), Jan. 7, 2008, 121 Stat. 2552, provided that: “The amendments made by this section \[amending sections 167i, 167j, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, and repealing this section and sections 167a to 167h of this title\] shall take effect October 1, 2009.”
+
+Pub. L. 110–161, div. H, title I, §1004(d)(1)(B), Dec. 26, 2007, 121 Stat. 2233, and Pub. L. 110–178, §4(a)(2), Jan. 7, 2008, 121 Stat. 2551, provided that this section is repealed on Oct. 1, 2009.
+
+Pub. L. 110–161, div. H, title I, §1004(d)(4), Dec. 26, 2007, 121 Stat. 2234, provided that: “The amendments made by this section \[probably should be this subsection, amending sections 167i, 167j, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, and repealing this section and sections 167a to 167h of this title\] shall take effect October 1, 2009.”
 
 #### Effective Date of 1987 Amendment
 

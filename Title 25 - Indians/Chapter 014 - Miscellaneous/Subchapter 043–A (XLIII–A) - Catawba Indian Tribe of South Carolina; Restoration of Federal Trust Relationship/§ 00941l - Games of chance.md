@@ -12,5 +12,5 @@ The Tribe shall have the rights and responsibilities set forth in the Settlement
 
 #### References in Text
 
-The Indian Gaming Regulatory Act, referred to in subsec. (a), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (a), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat.2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 

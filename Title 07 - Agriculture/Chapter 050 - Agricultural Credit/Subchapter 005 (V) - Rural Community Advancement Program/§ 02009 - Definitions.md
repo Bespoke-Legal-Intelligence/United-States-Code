@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) State
 
-&emsp;The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern MarianaIslands, the Trust Territory of the Pacific Islands, and the Federated States of Micronesia.
+&emsp;The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Federated States of Micronesia.
 
 #### (2) State director
 

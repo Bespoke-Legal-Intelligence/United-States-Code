@@ -78,7 +78,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 (B) Funds authorized to be appropriated pursuant to this section may be used to provide training authorized by this paragraph for community education programs described in paragraph (5) if a plan adopted pursuant to subsection (d) of this section identifies individuals or employment categories, other than those identified pursuant to paragraph (1), for which such training or community education is deemed necessary or desirable.
 
-(4) Position-specific training criteria described in paragraph (3) shall be culturally relevant to Indians and Indian tribes and shall ensure that appropriate information regarding traditional Indian healing and treatment practices is provided.
+(4) Position-specific training criteria described in paragraph (3) shall be culturally relevant toIndians and Indian tribes and shall ensure that appropriate information regarding traditional Indian healing and treatment practices is provided.
 
 (5) The Service shall develop and implement or, upon the request of an Indian tribe, assist such tribe to develop and implement, a program of community education on mental illness and dysfunctional and self-destructive behavior for individuals, as determined in a plan adopted pursuant to subsection (d) of this section. In carrying out this paragraph, the Service shall provide, upon the request of an Indian tribe, technical assistance to the Indian tribe to obtain or develop community education and training materials on the identification, prevention, referral, and treatment of mental illness and dysfunctional and self-destructive behavior.
 
@@ -124,7 +124,7 @@ The Secretary, acting through the Service and in consultation with the National 
 
 &emsp;(2) the development of models of prevention techniques.
 
-> The effect of the inter-relationships and interdependencies referred to in paragraph (1) onchildren, and the development of prevention techniques under paragraph (2) applicable to children, shall be emphasized.
+> The effect of the inter-relationships and interdependencies referred to in paragraph (1) on children, and the development of prevention techniques under paragraph (2) applicable to children, shall be emphasized.
 
 #### (i) Facilities assessment
 

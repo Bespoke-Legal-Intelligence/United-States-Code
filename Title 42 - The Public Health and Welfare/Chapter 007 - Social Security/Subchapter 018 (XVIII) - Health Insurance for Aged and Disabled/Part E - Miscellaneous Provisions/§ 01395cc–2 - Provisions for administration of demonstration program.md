@@ -150,7 +150,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary may make bonus payments to individuals or entities furnishing items or services for which payment may be made under the demonstration program, or may authorize the program administrator to make suchbonus payments in accordance with such guidelines as the Secretary shall establish and subject to the Secretary's approval.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary may make bonus payments to individuals or entities furnishing items or services for which payment may be made under the demonstration program, or may authorize the program administrator to make such bonus payments in accordance with such guidelines as the Secretary shall establish and subject to the Secretary's approval.
 
 #### (ii) Limitations
 
@@ -186,7 +186,7 @@ None of the provisions of this section or of the demonstration program shall app
 
 Not later than two years after December 21, 2000, and biennially thereafter for six years, the Secretary shall report to Congress on the use of authorities under the demonstration program. Each report shall address the impact of the use of those authorities on expenditures, access, and quality under the programs under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1866B, as added Pub. L. 106–554, §1(a)(6) \[title IV, §412(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–511; amended Pub. L. 108–173, title VII, §736(c)(5), Dec. 8, 2003, 117 Stat. 2356.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1866B, as added Pub. L. 106–554, §1(a)(6) \[title IV, §412(a)\],Dec. 21, 2000, 114 Stat. 2763, 2763A–511; amended Pub. L. 108–173, title VII, §736(c)(5), Dec. 8, 2003, 117 Stat. 2356.)
 
 #### References in Text
 

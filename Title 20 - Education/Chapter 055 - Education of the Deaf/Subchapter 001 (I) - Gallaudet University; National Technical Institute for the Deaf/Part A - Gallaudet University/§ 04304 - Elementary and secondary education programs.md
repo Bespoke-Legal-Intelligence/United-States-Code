@@ -10,7 +10,7 @@
 
 &emsp;(i) the Kendall Demonstration Elementary School, to provide day facilities for elementary education for students who are deaf from the age of onset of deafness to age fifteen, inclusive, but not beyond the eighth grade or its equivalent, to provide such students with the vocational, transitional, independent living, and related services they need to function independently, and to prepare such students for high school and other secondary study; and
 
-&emsp;(ii) the Model Secondary School for the Deaf, to provide day and residential facilities for secondary education for students who are deaf from grades nine through twelve, inclusive, to provide such students with the vocational, transitional, independent living, andrelated services they need to function independently, and to prepare such students for college, other postsecondary opportunities, or the workplace.
+&emsp;(ii) the Model Secondary School for the Deaf, to provide day and residential facilities for secondary education for students who are deaf from grades nine through twelve, inclusive, to provide such students with the vocational, transitional, independent living, and related services they need to function independently, and to prepare such students for college, other postsecondary opportunities, or the workplace.
 
 (2) The Model Secondary School for the Deaf may provide residential facilities for students enrolled in the school—
 

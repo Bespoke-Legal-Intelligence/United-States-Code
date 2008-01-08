@@ -4,7 +4,7 @@
 
 &emsp;(1) for the purchase or improvement of land, or the purchase, construction, or permanent improvement (other than minor remodeling) of any building or other facility;
 
-&emsp;(2) for the provision of cash payments for costs of subsistence or for the provision of room and board (other than costs of subsistence during rehabilitation, room and board provided for a short term as an integral but subordinate part of a social service, or temporary emergency shelter provided as a protective service);
+&emsp;(2) for the provision of cash payments for costs of subsistence or for the provision of room and board (other than costs of subsistence during rehabilitation, room and boardprovided for a short term as an integral but subordinate part of a social service, or temporary emergency shelter provided as a protective service);
 
 &emsp;(3) for payment of the wages of any individual as a social service (other than payment of the wages of welfare recipients employed in the provision of child day care services);
 

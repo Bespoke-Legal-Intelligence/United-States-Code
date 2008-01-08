@@ -66,7 +66,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) ownership of stock in a corporation shall be determined in accordance with the rules provided under subsections (d) and (e) of section 1563 (without regard to section 1563(e)(3)(C)), and
 
-&emsp;&emsp;(B) the interest of an employee in a trade or business which is not incorporated shall be determined in accordance with regulations prescribed by the Secretary, which shall be based on principles similar to the principles which apply in the case of subparagraph (A).
+&emsp;&emsp;(B) the interest of an employee in a trade or business which is not incorporated shallbe determined in accordance with regulations prescribed by the Secretary, which shall be based on principles similar to the principles which apply in the case of subparagraph (A).
 
 #### (7) Time of notice to Secretary
 

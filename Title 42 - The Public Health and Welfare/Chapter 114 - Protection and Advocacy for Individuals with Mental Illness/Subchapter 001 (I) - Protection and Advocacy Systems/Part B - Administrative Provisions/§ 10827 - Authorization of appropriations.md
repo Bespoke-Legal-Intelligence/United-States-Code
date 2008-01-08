@@ -8,7 +8,7 @@ There are authorized to be appropriated for allotments under this subchapter, $1
 
 2000—Pub. L. 106–310 substituted “2003” for “1995”.
 
-1991—Pub. L. 102–173 amended section generally. Prior to amendment, section read as follows: “For allotments under this subchapter, there are authorized to be appropriated $14,300,000 for fiscal year 1989, and such sums as may be necessary for fiscal year 1990 and fiscal year 1991.”
+1991—Pub. L. 102–173 amended section generally. Prior to amendment, section read as follows: “For allotments under this subchapter, there are authorized to be appropriated $14,300,000 for fiscal year 1989, and such sumsas may be necessary for fiscal year 1990 and fiscal year 1991.”
 
 1988—Pub. L. 100–509 amended section generally. Prior to amendment, section read as follows: “For allotments under this subchapter, there are authorized to be appropriated $10,000,000 for fiscal year 1986, $10,500,000 for fiscal year 1987, and $11,025,000 for fiscal year 1988.”
 

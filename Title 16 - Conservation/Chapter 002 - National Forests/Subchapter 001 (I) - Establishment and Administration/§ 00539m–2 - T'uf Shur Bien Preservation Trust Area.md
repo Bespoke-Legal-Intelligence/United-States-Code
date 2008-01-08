@@ -58,7 +58,7 @@ The T'uf Shur Bien Preservation Trust Area is established within the Cibola Nati
 
 #### (d) No conveyance of title
 
-No right, title, or interest of the United States in or to the Area or any part of the Area shall be conveyed to or exchanged with any person, trust, or governmental entity, including thePueblo, without specific authorization of Congress.
+No right, title, or interest of the United States in or to the Area or any part of the Area shall be conveyed to or exchanged with any person, trust, or governmental entity, including the Pueblo, without specific authorization of Congress.
 
 #### (e) Prohibited uses
 
@@ -99,4 +99,8 @@ Sections 539m to 539m–12 of this title, referred to in subsecs. (b)(1), (3) an
 The Wilderness Act, referred to in subsecs. (b)(2)(A) and (e)(1)(A), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 The Mining Law of 1872, referred to in subsec. (e)(2), is act May 10, 1872, ch. 152, 17 Stat. 91, which was incorporated into the Revised Statutes of 1878 as R.S. §§2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of Title 30, Mineral Lands and Mining. For complete classification of such Revised Statutes sections to the Code, see Tables.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

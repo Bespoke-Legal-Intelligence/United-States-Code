@@ -64,5 +64,5 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–435 applicable only with respect to taxable years beginning after Dec. 31, 1959, seesection 2 of Pub. L. 86–435, set out as a note under section 543 of this title.
+Amendment by Pub. L. 86–435 applicable only with respect to taxable years beginning after Dec. 31, 1959, see section 2 of Pub. L. 86–435, set out as a note under section 543 of this title.
 

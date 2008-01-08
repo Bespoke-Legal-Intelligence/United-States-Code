@@ -68,7 +68,7 @@ The following Federal standards are hereby established:
 
 #### (7) Integrated resource planning
 
-&emsp;Each electric utility shall employ integrated resource planning. All plans or filings before a State regulatory authority to meet the requirements of this paragraph must be updatedon a regular basis, must provide the opportunity for public participation and comment, and contain a requirement that the plan be implemented.
+&emsp;Each electric utility shall employ integrated resource planning. All plans or filings before a State regulatory authority to meet the requirements of this paragraph must be updated on a regular basis, must provide the opportunity for public participation and comment, and contain a requirement that the plan be implemented.
 
 #### (8) Investments in conservation and demand management
 
@@ -104,7 +104,7 @@ The following Federal standards are hereby established:
 
 #### (12) Fuel sources
 
-&emsp;Each electric utility shall develop a plan to minimize dependence on 1 fuel source and to ensure that the electric energy it sells to consumers is generated using a diverse range of fuels and technologies, including renewable technologies.
+&emsp;Each electric utility shall develop a plan to minimize dependence on 1 fuel source and toensure that the electric energy it sells to consumers is generated using a diverse range of fuels and technologies, including renewable technologies.
 
 #### (13) Fossil fuel generation efficiency
 
@@ -112,7 +112,7 @@ The following Federal standards are hereby established:
 
 #### (14) Time-based metering and communications
 
-&emsp;(A) Not later than 18 months after August 8, 2005, each electric utility shall offer each of itscustomer classes, and provide individual customers upon customer request, a time-based rate schedule under which the rate charged by the electric utility varies during different time periods and reflects the variance, if any, in the utility's costs of generating and purchasing electricity at the wholesale level. The time-based rate schedule shall enable the electric consumer to manage energy use and cost through advanced metering and communications technology.
+&emsp;(A) Not later than 18 months after August 8, 2005, each electric utility shall offer each of its customer classes, and provide individual customers upon customer request, a time-based rate schedule under which the rate charged by the electric utility varies during different time periods and reflects the variance, if any, in the utility's costs of generating and purchasing electricity at the wholesale level. The time-based rate schedule shall enable the electric consumer to manage energy use and cost through advanced metering and communications technology.
 
 &emsp;(B) The types of time-based rate schedules that may be offered under the schedule referred to in subparagraph (A) include, among others—
 
@@ -136,7 +136,101 @@ The following Federal standards are hereby established:
 
 &emsp;Each electric utility shall make available, upon request, interconnection service to any electric consumer that the electric utility serves. For purposes of this paragraph, the term “interconnection service” means service to an electric consumer under which an on-site generating facility on the consumer's premises shall be connected to the local distribution facilities. Interconnection services shall be offered based upon the standards developed by the Institute of Electrical and Electronics Engineers: IEEE Standard 1547 for Interconnecting Distributed Resources with Electric Power Systems, as they may be amended from time to time. In addition, agreements and procedures shall be established whereby the services are offered shall promote current best practices of interconnection for distributed generation, including but not limited to practices stipulated in model codes adopted by associations of state regulatory agencies. All such agreements and procedures shall be just and reasonable, and not unduly discriminatory or preferential.
 
-(Pub. L. 95–617, title I, §111, Nov. 9, 1978, 92 Stat. 3121; Pub. L. 102–486, title I, §111(a), (b), title VII, §712, Oct. 24, 1992, 106 Stat. 2795, 2910; Pub. L. 109–58, title XII, §§1251(a), 1252(a), 1254(a), Aug. 8, 2005, 119 Stat. 962, 963, 970.)
+#### (16) Integrated resource planning
+
+&emsp;Each electric utility shall—
+
+&emsp;&emsp;(A) integrate energy efficiency resources into utility, State, and regional plans; and
+
+&emsp;&emsp;(B) adopt policies establishing cost-effective energy efficiency as a priority resource.
+
+#### (17) Rate design modifications to promote energy efficiency investments
+
+#### (A) In general
+
+&emsp;&emsp;The rates allowed to be charged by any electric utility shall—
+
+&emsp;&emsp;&emsp;(i) align utility incentives with the delivery of cost-effective energy efficiency; and
+
+&emsp;&emsp;&emsp;(ii) promote energy efficiency investments.
+
+#### (B) Policy options
+
+&emsp;&emsp;In complying with subparagraph (A), each State regulatory authority and each nonregulated utility shall consider—
+
+&emsp;&emsp;&emsp;(i) removing the throughput incentive and other regulatory and management disincentives to energy efficiency;
+
+&emsp;&emsp;&emsp;(ii) providing utility incentives for the successful management of energy efficiency programs;
+
+&emsp;&emsp;&emsp;(iii) including the impact on adoption of energy efficiency as 1 of the goals of retail rate design, recognizing that energy efficiency must be balanced with other objectives;
+
+&emsp;&emsp;&emsp;(iv) adopting rate designs that encourage energy efficiency for each customer class;
+
+&emsp;&emsp;&emsp;(v) allowing timely recovery of energy efficiency-related costs; and
+
+&emsp;&emsp;&emsp;(vi) offering home energy audits, offering demand response programs, publicizing the financial and environmental benefits associated with making home energy efficiency improvements, and educating homeowners about all existing Federal and State incentives, including the availability of low-cost loans, that make energy efficiency improvements more affordable.
+
+#### (16) <sup>2</sup> Consideration of smart grid investments
+
+#### (A) In general
+
+&emsp;&emsp;Each State shall consider requiring that, prior to undertaking investments in nonadvanced grid technologies, an electric utility of the State demonstrate to the State that the electric utility considered an investment in a qualified smart grid system based on appropriate factors, including—
+
+&emsp;&emsp;&emsp;(i) total costs;
+
+&emsp;&emsp;&emsp;(ii) cost-effectiveness;
+
+&emsp;&emsp;&emsp;(iii) improved reliability;
+
+&emsp;&emsp;&emsp;(iv) security;
+
+&emsp;&emsp;&emsp;(v) system performance; and
+
+&emsp;&emsp;&emsp;(vi) societal benefit.
+
+#### (B) Rate recovery
+
+&emsp;&emsp;Each State shall consider authorizing each electric utility of the State to recover from ratepayers any capital, operating expenditure, or other costs of the electric utility relating to the deployment of a qualified smart grid system, including a reasonable rate of return on the capital expenditures of the electric utility for the deployment of the qualified smart grid system.
+
+#### (C) Obsolete equipment
+
+&emsp;&emsp;Each State shall consider authorizing any electric utility or other party of the State to deploy a qualified smart grid system to recover in a timely manner the remaining book-value costs of any equipment rendered obsolete by the deployment of the qualified smart grid system, based on the remaining depreciable life of the obsolete equipment.
+
+#### (17) <sup>3</sup> Smart grid information
+
+#### (A) Standard
+
+&emsp;&emsp;All electricity purchasers shall be provided direct access, in written or electronic machine-readable form as appropriate, to information from their electricity provider as provided in subparagraph (B).
+
+#### (B) Information
+
+&emsp;&emsp;Information provided under this section, to the extent practicable, shall include:
+
+#### (i) Prices
+
+&emsp;&emsp;&emsp;Purchasers and other interested persons shall be provided with information on—
+
+&emsp;&emsp;&emsp;&emsp;(I) time-based electricity prices in the wholesale electricity market; and
+
+&emsp;&emsp;&emsp;&emsp;(II) time-based electricity retail prices or rates that are available to the purchasers.
+
+#### (ii) Usage
+
+&emsp;&emsp;&emsp;Purchasers shall be provided with the number of electricity units, expressed in kwh, purchased by them.
+
+#### (iii) Intervals and projections
+
+&emsp;&emsp;&emsp;Updates of information on prices and usage shall be offered on not less than a daily basis, shall include hourly price and use information, where available, and shall include a day-ahead projection of such price information to the extent available.
+
+#### (iv) Sources
+
+&emsp;&emsp;&emsp;Purchasers and other interested persons shall be provided annually with written information on the sources of the power provided by the utility, to the extent it can be determined, by type of generation, including greenhouse gas emissions associated with each type of generation, for intervals during which such information is available on a cost-effective basis.
+
+#### (C) Access
+
+&emsp;&emsp;Purchasers shall be able to access their own information at any time through the Internet and on other means of communication elected by that utility for Smart Grid applications. Other interested persons shall be able to access information not specific to any purchaser through the Internet. Information specific to any purchaser shall be provided solely to that purchaser.
+
+(Pub. L. 95–617, title I, §111, Nov. 9, 1978, 92 Stat. 3121; Pub. L. 102–486, title I, §111(a), (b), title VII, §712, Oct. 24, 1992, 106 Stat. 2795, 2910; Pub. L. 109–58, title XII, §§1251(a), 1252(a), 1254(a), Aug. 8, 2005, 119 Stat. 962, 963, 970; Pub. L. 110–140, title V, §532(a), title XIII, §1307(a), Dec. 19, 2007, 121 Stat. 1665, 1791.)
 
 #### References in Text
 
@@ -145,6 +239,10 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this t
 Section 79z–5a of title 15, referred to in subsec. (d)(10)(A)(ii), was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
 
 #### Amendments
+
+2007—Subsec. (d)(16), (17). Pub. L. 110–140, §1307(a), added pars. (16) and (17) relating to consideration of smart grid investments and smart grid information, respectively.
+
+Pub. L. 110–140, §532(a), added pars. (16) and (17) relating to integrated resource planning and rate design modifications to promote energy efficiency investments, respectively.
 
 2005—Subsec. (d)(11) to (13). Pub. L. 109–58, §1251(a), added pars. (11) to (13).
 
@@ -158,6 +256,10 @@ Subsec. (d)(7) to (9). Pub. L. 102–486, §111(a), added pars. (7) to (9).
 
 Subsec. (d)(10). Pub. L. 102–486, §712, added par. (10).
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
 #### State Authorities; Construction
 
 Nothing in amendment by section 712 of Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
@@ -166,7 +268,7 @@ Nothing in amendment by section 712 of Pub. L. 102–486 to be construed as affe
 
 Section 111(e) of Pub. L. 102–486 provided that: “Not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary shall transmit a report to the President and to the Congress containing—
 
-&emsp;“(1) a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (7),\(8), and (9) of section 111(d) of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 2621(d)(7)–(9)\];
+&emsp;“(1) a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (7), (8), and (9) of section 111(d) of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 2621(d)(7)–(9)\];
 
 &emsp;“(2) an evaluation by the Secretary of whether and to what extent, integrated resource planning is likely to result in—
 
@@ -187,4 +289,8 @@ Section 111(e) of Pub. L. 102–486 provided that: “Not later than 2 years aft
 Section 601 of Pub. L. 95–617 directed the Secretary to conduct a study concerning the effects of provisions of Federal law on rates established by State utility agencies and to submit a report to Congress on the results of such study not later than 1 year after Nov. 9, 1978.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(18)”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “(19)”.</i>
 

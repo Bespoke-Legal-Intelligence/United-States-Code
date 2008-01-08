@@ -38,7 +38,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(A) the employer maintaining the plan, or
 
-&emsp;&emsp;(B) a party in interest which is wholly owned (directly or indirectly) by the employer maintaining the plan, or by any person which is a party in interest with respect to the plan, but only if the total premiums and annuity considerations written by such insurers for life insurance, health insurance, or annuities for all plans (and their employers) with respect to which such insurers are parties in interest (not including premiums or annuity considerations written by the employer maintaining the plan) do not exceed 5 percent of the total premiums and annuity considerations written for all lines of insurance in that year by such insurers (not including premiums or annuity considerations written by the employer maintaining the plan).
+&emsp;&emsp;(B) a party in interest which is wholly owned (directly or indirectly) by the employer maintaining the plan, or by any person which is a party in interest with respect to the plan, but only if the total premiums and annuity considerations written by such insurers for life insurance, health insurance, or annuities for all plans (and their employers) with respect to which such insurers are parties in interest (not including premiums or annuity considerations written by the employer maintaining the plan) do not exceed 5 percent of the total premiums and annuity considerations written for all lines of insurance in that year by such insurers (notincluding premiums or annuity considerations written by the employer maintaining the plan).
 
 &emsp;(6) The providing of any ancillary service by a bank or similar financial institution supervised by the United States or a State, if such bank or other institution is a fiduciary of such plan, and if—
 
@@ -72,7 +72,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(C) such stock does not constitute a qualifying employer security (as defined in section 1107(d)(5) of this title as in effect at the time of the sale).
 
-&emsp;(13) Any transfer made before January 1, 2014, of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on October 22, 2004).
+&emsp;(13) Any transfer made before January 1, 2014, of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on August 17, 2006).
 
 &emsp;(14) Any transaction in connection with the provision of investment advice described in section 1002(21)(A)(ii) of this title to a participant or beneficiary of an individual account plan that permits such participant or beneficiary to direct the investment of assets in their individual account, if—
 
@@ -96,7 +96,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(iv) the compensation associated with the purchase and sale is not greater than the compensation associated with an arm's length <sup>1</sup> transaction with an unrelated party.
 
-&emsp;(B) For purposes of this paragraph, the term “block trade” means any trade of at least 10,000 shares or with a market value of at least $200,000 which will be allocated across two or more unrelated client accounts of a fiduciary.
+&emsp;(B) For purposes of this paragraph, the term “block trade” means any trade of at least10,000 shares or with a market value of at least $200,000 which will be allocated across two or more unrelated client accounts of a fiduciary.
 
 &emsp;(16) Any transaction involving the purchase or sale of securities, or other property (as determined by the Secretary), between a plan and a party in interest if—
 
@@ -138,7 +138,7 @@ Foreign exchange transactions.—Any foreign exchange transactions, between a ba
 
 &emsp;&emsp;(B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm's length <sup>1</sup> foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm's-length foreign exchange transactions involving unrelated parties,
 
-&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particularforeign exchange transaction does not deviate by more or less than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
+&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more or less than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
 
 &emsp;&emsp;(D) the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction.
 
@@ -176,7 +176,7 @@ Cross trading.—Any transaction described in sections 1106(a)(1)(A) and 1106(b)
 
 &emsp;(E) For purposes of this paragraph—
 
-&emsp;&emsp;(i) The term “security” has the meaning given such term by section 475(c)(2) of title26 (without regard to subparagraph (F)(iii) and the last sentence thereof).
+&emsp;&emsp;(i) The term “security” has the meaning given such term by section 475(c)(2) of title 26 (without regard to subparagraph (F)(iii) and the last sentence thereof).
 
 &emsp;&emsp;(ii) The term “commodity” has the meaning given such term by section 475(e)(2) of title 26 (without regard to subparagraph (D)(iii) thereof).
 
@@ -430,10 +430,6 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 (Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975.)
 
-#### Amendment of Subsection (b)(13)
-
-<i>Pub. L. 109–280, title I, §107(a)(11), (e), Aug. 17, 2006, 120 Stat. 819, 820, provided that, applicable to plan years beginning after 2007, subsection (b)(13) of this section is amended by substituting “August 17, 2006” for “October 22, 2004”.</i>
-
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
@@ -444,7 +440,9 @@ The Securities Exchange Act of 1934, referred to in subsec. (g)(11)(A)(iv), is a
 
 #### Amendments
 
-2006—Subsec. (b)(14). Pub. L. 109–280, §601(a)(1), added par. (14).
+2006—Subsec. (b)(13). Pub. L. 109–280, §107(a)(11), substituted “August 17, 2006” for “October 22, 2004”.
+
+Subsec. (b)(14). Pub. L. 109–280, §601(a)(1), added par. (14).
 
 Subsec. (b)(15) to (19). Pub. L. 109–280, §611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), added pars. (15) to (19).
 
@@ -520,7 +518,7 @@ Amendment by Pub. L. 101–508 applicable to qualified transfers under section 4
 
 Amendment by section 7881(<i>l</i>)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 7891(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in theprovision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Section 7894(e)(4)(B) of Pub. L. 101–239 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall take effect as if originally included in section 491(b) of the Deficit Reduction Act of 1984 \[Pub. L. 98–369\].”
 
@@ -540,7 +538,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Regulations
 
-Pub. L. 109–280, title VI, §611(g)(3), Aug. 17, 2006, 120 Stat. 975, provided that: “No later than 180 days after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor, after consultation with the Securities and Exchange Commission, shall issue regulations regarding the content of policies and procedures required to be adopted by an investment manager under section 408(b)(19) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1108(b)(19)\].”
+Pub. L. 109–280, title VI, §611(g)(3), Aug. 17, 2006, 120 Stat. 975, provided that: “No later than 180 days after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor, after consultation with the Securities and Exchange Commission, shall issue regulations regarding the content of policies and proceduresrequired to be adopted by an investment manager under section 408(b)(19) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1108(b)(19)\].”
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

@@ -46,7 +46,7 @@
 
 &emsp;(A) any loan, mortgage, credit sale, or advance which is made after the date such action was taken pursuant to a commitment therefor which was entered during the period beginning on April 1, 1980, and ending on the date on which such State takes such action; and
 
-&emsp;(B) any loan, mortgage, or advance which is a rollover of a loan, mortgage, or advance, as described in regulations of the Federal HomeLoan Bank Board, which was made or committed to be made during the period beginning on April 1, 1980, and ending on the date on which such State takes any action described in paragraph (2).
+&emsp;(B) any loan, mortgage, or advance which is a rollover of a loan, mortgage, or advance, as described in regulations of the Federal Home Loan Bank Board, which was made or committed to be made during the period beginning on April 1, 1980, and ending on the date on which such State takes any action described in paragraph (2).
 
 (4) At any time after March 31, 1980, any State may adopt a provision of law placing limitations on discount points or such other charges on any loan, mortgage, credit sale, or advance described in subsection (a)(1) of this section.
 
@@ -92,7 +92,7 @@ The Federal Home Loan Bank Board is authorized to issue rules and regulations an
 
 This section takes effect on April 1, 1980.
 
-(Pub. L. 96–221, title V, §501, Mar. 31, 1980, 94 Stat. 161; Pub. L. 96–221, title II, §207(b)(11), Mar. 31, 1980, 94 Stat. 144; Pub. L. 96–399, title III, §§308(c)(6), 324(a), (e), Oct. 8, 1980, 94 Stat. 1641, 1647, 1648; Pub. L. 97–35, title III, §384, Aug. 13, 1981, 95 Stat. 432.)
+(Pub. L. 96–221, title V, §501, Mar. 31, 1980, 94 Stat. 161; Pub. L. 96–221, title II, §207(b)(11), Mar.31, 1980, 94 Stat. 144; Pub. L. 96–399, title III, §§308(c)(6), 324(a), (e), Oct. 8, 1980, 94 Stat. 1641, 1647, 1648; Pub. L. 97–35, title III, §384, Aug. 13, 1981, 95 Stat. 432.)
 
 #### References in Text
 

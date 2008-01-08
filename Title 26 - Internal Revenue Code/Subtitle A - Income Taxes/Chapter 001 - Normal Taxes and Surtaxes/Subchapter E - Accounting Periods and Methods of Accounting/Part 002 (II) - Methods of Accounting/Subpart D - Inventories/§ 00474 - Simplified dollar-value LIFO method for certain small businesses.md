@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of the 1st taxable year after such election ceases to apply, be established in the manner provided by regulations under section 472;
 
-&emsp;&emsp;&emsp;(ii) the aggregate dollar amount of the taxpayer's inventory as of the beginning ofthe year of change shall be the same as the aggregate dollar value as of the close of the taxable year preceding the year of change, and
+&emsp;&emsp;&emsp;(ii) the aggregate dollar amount of the taxpayer's inventory as of the beginning of the year of change shall be the same as the aggregate dollar value as of the close of the taxable year preceding the year of change, and
 
 &emsp;&emsp;&emsp;(iii) the year of change shall be treated as a new base year in accordance with procedures provided by regulations under section 472.
 

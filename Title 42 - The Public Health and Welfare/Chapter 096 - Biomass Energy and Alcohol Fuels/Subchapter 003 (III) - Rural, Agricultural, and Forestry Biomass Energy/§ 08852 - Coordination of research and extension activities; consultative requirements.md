@@ -16,7 +16,7 @@
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§251–262) of title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 705, as amended, which enacted this subchapter and sections 1435 and 3129 of Title 7, Agriculture, and amended sections 341, 342, 427, and 3154 of Title 7 and sections 590h and 1642 of Title 16, Conservation. For complete classification of subtitle C to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§251–262) oftitle II of Pub. L. 96–294, June 30, 1980, 94 Stat. 705, as amended, which enacted this subchapter and sections 1435 and 3129 of Title 7, Agriculture, and amended sections 341, 342, 427, and 3154 of Title 7 and sections 590h and 1642 of Title 16, Conservation. For complete classification of subtitle C to the Code, see Tables.
 
 7 U.S.C. 3129, referred to in subsec. (a), was repealed by Pub. L. 101–624, title XVI, §1601(f)(1)(C), Nov. 28, 1990, 104 Stat. 3704.
 

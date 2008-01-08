@@ -10,7 +10,7 @@ Under article I, section 8, of the Constitution, it is specifically provided tha
 
 #### (c) Presidential executive power as Commander-in-Chief; limitation
 
-The constitutional powers of the President as Commander-in-Chief to introduce United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities isclearly indicated by the circumstances, are exercised only pursuant to (1) a declaration of war, (2) specific statutory authorization, or (3) a national emergency created by attack upon the United States, its territories or possessions, or its armed forces.
+The constitutional powers of the President as Commander-in-Chief to introduce United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, are exercised only pursuant to (1) a declaration of war, (2) specific statutory authorization, or (3) a national emergency created by attack upon the United States, its territories or possessions, or its armed forces.
 
 (Pub. L. 93–148, §2, Nov. 7, 1973, 87 Stat. 555.)
 
@@ -36,7 +36,7 @@ Sense of Congress.—It is the sense of the Congress that, in order to succeed i
 
 &emsp;“(1) members of the United States Armed Forces who are serving or have served in Iraq and their families deserve the utmost respect and the heartfelt gratitude of the American people for their unwavering devotion to duty, service to the Nation, and selfless sacrifice under the most difficult circumstances; the United States Congress supports our troops and supports a successful conclusion to their mission;
 
-&emsp;“(2) it is important to recognize that the Iraqi people have made enormous sacrifices and that the overwhelming majority of Iraqis want to live in peace and security; and that the Iraqi security forces in a growing number of incidences are fighting side-by-side with coalition forces, are increasing in numbers and improving in military capability;
+&emsp;“(2) it is important to recognize that the Iraqi people have made enormous sacrifices and that the overwhelming majority of Iraqis want to live in peace andsecurity; and that the Iraqi security forces in a growing number of incidences are fighting side-by-side with coalition forces, are increasing in numbers and improving in military capability;
 
 &emsp;“(3) the terrorists seeking to prevent the emergence of a secure, stable, peaceful, and democratic Iraq are led by individuals seeking to restore dictatorship in Iraq or who want to advance al Qaeda's broad vision of violently extreme Islam in the Middle East;
 
@@ -340,7 +340,7 @@ Statement of Congressional Policy.—
 
 &emsp;“(1)
 
-Consultation with the congress.—The President should consult closely with the Congress regarding United States policy with respect to Somalia, including in particular the deployment of United StatesArmed Forces in that country, whether under United Nations or United States command.
+Consultation with the congress.—The President should consult closely with the Congress regarding United States policy with respect to Somalia, including in particular the deployment of United States Armed Forces in that country, whether under United Nations or United States command.
 
 &emsp;“(2)
 
@@ -444,7 +444,7 @@ Applicability of other requirements.—Nothing in this resolution supersedes any
 
 #### “SEC. 3. REPORTS TO CONGRESS.
 
-“At least once every 90 days, the President shall submit to the Congress a summary on the status of efforts to obtain compliance by Iraq with the resolutions adopted by the United Nations Security Council in response to Iraq's aggression.”
+“At least once every 90 days, the President shall submit to the Congress a summary on the status of efforts to obtain compliance by Iraq with the resolutionsadopted by the United Nations Security Council in response to Iraq's aggression.”
 
 #### Introduction of United States Armed Forces Into Central America for Combat
 
@@ -514,7 +514,7 @@ Sec. 2. (a) The Congress finds that—
 
 “
 
-Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing theMultinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
+Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
 
 #### “reports to the congress
 
@@ -568,7 +568,7 @@ Sec. 7. (a) Nothing in this joint resolution shall preclude the President from w
 
 “
 
-Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act shall be referred to the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives or the Committee on Foreign Relations of the Senate, as the case may be. Such joint resolution or bill shall be considered by such committee within fifteen calendar days and may be reported out, together with its recommendations, unless such House shall otherwise determine pursuant to its rules.
+Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act shall be referred to the Committee on Foreign Affairs of the House of Representatives or the Committee on Foreign Relations of the Senate, as the case may be. Such joint resolution or bill shall be considered by such committee within fifteen calendar days and may be reported out, together with its recommendations, unless such House shall otherwise determine pursuant to its rules.
 
 “(b) Any joint resolution or bill so reported shall become the pending business of the House in question (in the case of the Senate the time for debate shall be equally divided between the proponents and the opponents) and shall be voted on within three calendar days thereafter, unless such House shall otherwise determine by the yeas and nays.
 

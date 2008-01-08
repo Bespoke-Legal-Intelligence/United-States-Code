@@ -226,7 +226,7 @@ Copies of reports.—
 
 &emsp;&emsp;(A)
 
-In general.—No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this section) may require, for any reason, a copy of any report that has been filed under subsection (c) with the Bureau or retained by an individual respondent.
+In general.—No department, bureau, agency, officer, or employee of the UnitedStates (except the Director in carrying out this section) may require, for any reason, a copy of any report that has been filed under subsection (c) with the Bureau or retained by an individual respondent.
 
 &emsp;&emsp;(B)
 
@@ -308,7 +308,7 @@ The Government Performance and Results Act of 1993, referred to in subsec. (c)(8
 
 The date of enactment of the SAFETEA–LU, referred to in subsecs. (d)(1) and (<i>o</i>)(4)(B), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
-The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

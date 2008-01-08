@@ -16,7 +16,7 @@ General Authority.—(1) A person may bring a civil action in an appropriate dis
 
 (b)
 
-Costs and Fees.—The court may award costs, reasonable expert witness fees, and a reasonable attorney's fee to a prevailing plaintiff in a civil action under this section. The court may award costs to a prevailing defendant when the action is unreasonable, frivolous, or meritless. In this subsection, a reasonable attorney's fee is a fee—
+Costs and Fees.—The court may award costs, reasonable expert witness fees, and a reasonable attorney's fee to a prevailing plaintiff in a civil action under this section. The court may award costs to a prevailing defendant when the action is unreasonable, frivolous, or meritless.In this subsection, a reasonable attorney's fee is a fee—
 
 &emsp;(1) based on the actual time spent and the reasonable expenses of the attorney for legal services provided to a person under this section; and
 

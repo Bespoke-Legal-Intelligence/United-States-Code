@@ -6,7 +6,7 @@ The Director of the Institute shall expand and intensify research and related ac
 
 #### (b) Coordination with other institutes
 
-The Director of the Institute shall coordinate the activities of the Director under subsection (a) of this section with similar activities conducted by the other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes and agencies have responsibilities that are related to lupus.
+The Director of the Institute shall coordinate the activities of the Director under subsection\(a) of this section with similar activities conducted by the other national research institutes and agencies of the National Institutes of Health to the extent that such Institutes and agencies have responsibilities that are related to lupus.
 
 #### (c) Programs for lupus
 
@@ -16,7 +16,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 &emsp;(2) Basic research concerning the etiology and causes of the disease.
 
-&emsp;(3) Epidemiological studies to address the frequency and natural history of the diseaseand the differences among the sexes and among racial and ethnic groups with respect to the disease.
+&emsp;(3) Epidemiological studies to address the frequency and natural history of the disease and the differences among the sexes and among racial and ethnic groups with respect to the disease.
 
 &emsp;(4) The development of improved diagnostic techniques.
 

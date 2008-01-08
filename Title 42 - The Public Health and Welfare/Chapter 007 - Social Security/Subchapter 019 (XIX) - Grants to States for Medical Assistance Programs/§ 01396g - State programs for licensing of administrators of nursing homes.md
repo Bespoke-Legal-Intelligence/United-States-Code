@@ -60,7 +60,7 @@ Another section 1908 of act Aug. 14, 1935, was renumbered section 1908A and is c
 
 Subsec. (e). Pub. L. 93–233 redesignated subsec. (g) as (e), and repealed prior subsec. (e) relating to authorization of appropriations for fiscal years 1968 through 1972 and to limitation of grants.
 
-Subsec. (f). Pub. L. 93–233 repealed subsec. (f) providing for creation of National Advisory Council on Nursing Home Administration and for its composition, appointment of members, the Chairman, representationof interests, functions and duties, compensation and travel expenses, technical assistance, availability of assistance and data, and termination date of Dec. 31, 1971.
+Subsec. (f). Pub. L. 93–233 repealed subsec. (f) providing for creation of National Advisory Council on Nursing Home Administration and for its composition, appointment of members, the Chairman, representation of interests, functions and duties, compensation and travel expenses, technical assistance, availability of assistance and data, and termination date of Dec. 31, 1971.
 
 Subsec. (g). Pub. L. 93–233, redesignated subsec. (g) as (e).
 

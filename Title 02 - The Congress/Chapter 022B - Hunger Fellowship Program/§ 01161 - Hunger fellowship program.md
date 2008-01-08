@@ -116,7 +116,7 @@ There is established as an independent entity of the legislative branch of the U
 
 #### (D) Allocation of funds to fellowships
 
-&emsp;&emsp;The Board of Trustees shall determine the priority of the programs to be carried outunder this section and the amount of funds to be allocated for the Emerson and Leland fellowships.
+&emsp;&emsp;The Board of Trustees shall determine the priority of the programs to be carried out under this section and the amount of funds to be allocated for the Emerson and Leland fellowships.
 
 #### (d) Purposes; authority of program
 
@@ -286,7 +286,7 @@ There is established as an independent entity of the legislative branch of the U
 
 #### (A) In general
 
-&emsp;&emsp;The Comptroller General of the United States shall conduct an annual audit of the accounts of the program.
+&emsp;&emsp;The Comptroller General of the United States may conduct an audit of the accounts of the program.
 
 #### (B) Books
 
@@ -362,11 +362,19 @@ In this section, the term “appropriate congressional committees” means—
 
 &emsp;(2) the Committee on Agriculture, Nutrition, and Forestry and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 107–171, title IV, §4404, May 13, 2002, 116 Stat. 335.)
+(Pub. L. 107–171, title IV, §4404, May 13, 2002, 116 Stat. 335; Pub. L. 110–161, div. H, title I, §1502(c), Dec. 26, 2007, 121 Stat. 2250.)
 
 #### References in Text
 
 GS–15 of the General Schedule, referred to in subsec. (g)(2)(B), (3)(B), is set out under section 5332 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2007—Subsec. (f)(4)(A). Pub. L. 110–161, which directed that subpar. (A) be amended by substituting “may” for “shall” and striking out “annual.”, was executed by making the substitution and striking out “annual” before “audit”, to reflect the probable intent of Congress.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date
 

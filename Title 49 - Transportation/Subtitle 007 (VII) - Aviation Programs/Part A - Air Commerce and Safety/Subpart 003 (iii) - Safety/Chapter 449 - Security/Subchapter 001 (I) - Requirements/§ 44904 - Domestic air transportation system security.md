@@ -20,7 +20,7 @@ Assessing Security.—In coordination with the Director, the Under Secretary sha
 
 (c)
 
-Modal Security Plan for Aviation.—In addition to the requirements set forth in subparagraphs (B) through (F) of section 114(t)(3), the modal security plan for aviation prepared under section 114(t) shall—
+Modal Security Plan for Aviation.—In addition to the requirements set forth in subparagraphs (B) through (F) of section 114(t)(3),<sup>1</sup> the modal security plan for aviation prepared under section 114(t) <sup>1</sup> shall—
 
 &emsp;(1) establish a damage mitigation and recovery plan for the aviation system in the event of a terrorist attack; and
 
@@ -28,11 +28,11 @@ Modal Security Plan for Aviation.—In addition to the requirements set forth in
 
 (d)
 
-Operational Criteria.—Not later than 90 days after the date of the submission of the National Strategy for Transportation Security under section 114(t)(4)(A), the Assistant Secretary of Homeland Security (Transportation Security Administration) shall issue operational criteria to protect airport infrastructure and operations against the threats identified in the plans prepared under section 114(t)(1) and shall approve best practices guidelines for airport assets.
+Operational Criteria.—Not later than 90 days after the date of the submission of the National Strategy for Transportation Security under section 114(t)(4)(A),<sup>1</sup> the Assistant Secretary of Homeland Security (Transportation Security Administration) shall issue operational criteria to protect airport infrastructure and operations against the threats identified in the plans prepared under section 114(t)(1) <sup>1</sup> and shall approve best practices guidelines for airport assets.
 
 (e)
 
-Improving Security.—The Under Secretary shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in the assessments, analyses, and monitoring carried out under this section.
+Improving Security.—The Under Secretary shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in theassessments, analyses, and monitoring carried out under this section.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1207; Pub. L. 107–71, title I, §101(f)(1), (7), (9), Nov. 19, 2001, 115 Stat. 603; Pub. L. 108–458, title IV, §4001(b), Dec. 17, 2004, 118 Stat. 3712.)
 
@@ -70,6 +70,10 @@ In subsection (b), before clause (1), the word “Director” is substituted for
 
 In subsection (c), the word “correcting” is substituted for “remedying” for clarity.
 
+#### References in Text
+
+Section 114(t), referred to in subsecs. (c) and (d), was redesignated section 114(s) by Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.
+
 #### Amendments
 
 2004—Subsecs. (c) to (e). Pub. L. 108–458 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
@@ -95,4 +99,6 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Regular Joint Threat Assessments
 
 Pub. L. 104–264, title III, §310, Oct. 9, 1996, 110 Stat. 3253, provided that: “The Administrator of the Federal Aviation Administration and the Director of the Federal Bureau of Investigation shall carry out joint threat and vulnerability assessments on security every 3 years, or more frequently, as necessary, at each airport determined to be high risk.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

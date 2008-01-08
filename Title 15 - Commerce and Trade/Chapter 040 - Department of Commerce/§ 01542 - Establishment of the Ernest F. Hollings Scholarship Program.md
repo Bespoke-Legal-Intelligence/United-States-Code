@@ -14,7 +14,7 @@ The purposes of the Ernest F. Hollings Scholarships Program are—
 
 &emsp;(3) to recruit and prepare students for public service careers with the National Oceanic and Atmospheric Administration and other natural resource and science agencies at the Federal, State and Local levels of government; and
 
-&emsp;(4) to recruit and prepare students for careers as teachers and educators in oceanic and atmospheric science and to improve scientificand environmental education in the United States.
+&emsp;(4) to recruit and prepare students for careers as teachers and educators in oceanic and atmospheric science and to improve scientific and environmental education in the United States.
 
 #### (c) Award
 

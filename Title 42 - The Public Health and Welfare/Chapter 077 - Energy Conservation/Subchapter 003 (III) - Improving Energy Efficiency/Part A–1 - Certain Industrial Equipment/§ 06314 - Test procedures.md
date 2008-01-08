@@ -2,7 +2,17 @@
 
 #### (a) Prescription by Secretary; requirements
 
-(1) The Secretary may conduct an evaluation of a class of covered equipment and may prescribe test procedures for such class in accordance with the provisions of this section.
+(1)
+
+Test procedures.—
+
+&emsp;(A) <sup>1</sup>
+
+Amendment.—At least once every 7 years, the Secretary shall conduct an evaluation of each class of covered equipment and—
+
+&emsp;&emsp;(i) if the Secretary determines that amended test procedures would more accurately or fully comply with the requirements of paragraphs (2) and (3), shall prescribe test procedures for the class in accordance with this section; or
+
+&emsp;&emsp;(ii) shall publish notice in the Federal Register of any determination not to amend a test procedure.
 
 (2) Test procedures prescribed in accordance with this section shall be reasonably designed to produce test results which reflect energy efficiency, energy use, and estimated operating costs of a type of industrial equipment (or class thereof) during a representative average use cycle (as determined by the Secretary), and shall not be unduly burdensome to conduct.
 
@@ -28,7 +38,7 @@
 
 (ii) In the case of self-contained refrigerators, freezers, and refrigerator-freezers to which standards are applicable under paragraphs (2) and (3) of section 6313(c) of this title, the initial test procedures shall be the ASHRAE 117 test procedure that is in effect on January 1, 2005.
 
-(B)(i) <sup>1</sup> In the case of commercial refrigerators, freezers, and refrigerator-freezers with doors covered by the standards adopted in February 2002, by the California Energy Commission, the rating temperatures shall be the integrated average temperature of 38 degrees F (G6�1B 2 degrees F) for refrigerator compartments and 0 degrees F (G6�1B 2 degrees F) for freezer compartments.
+(B)(i) <sup>2</sup> In the case of commercial refrigerators, freezers, and refrigerator-freezers with doors covered by the standards adopted in February 2002, by the California Energy Commission, the rating temperatures shall be the integrated average temperature of 38 degrees F (G6�1B 2 degrees F) for refrigerator compartments and 0 degrees F (G6�1B 2 degrees F) for freezer compartments.
 
 (C) The Secretary shall issue a rule in accordance with paragraphs (2) and (3) to establish the appropriate rating temperatures for the other products for which standards will be established under section 6313(c)(4) of this title.
 
@@ -60,6 +70,34 @@
 
 (8) With respect to commercial clothes washers, the test procedures shall be the same as the test procedures established by the Secretary for residential clothes washers under section 6295(g) of this title.
 
+(9)
+
+Walk-in coolers and walk-in freezers.—
+
+&emsp;(A)
+
+In general.—For the purpose of test procedures for walk-in coolers and walk-in freezers:
+
+&emsp;&emsp;(i) The R value shall be the 1/K factor multiplied by the thickness of the panel.
+
+&emsp;&emsp;(ii) The K factor shall be based on ASTM test procedure C518–2004.
+
+&emsp;&emsp;(iii) For calculating the R value for freezers, the K factor of the foam at 20°F (average foam temperature) shall be used.
+
+&emsp;&emsp;(iv) For calculating the R value for coolers, the K factor of the foam at 55°F (average foam temperature) shall be used.
+
+&emsp;(B)
+
+Test procedure.—
+
+&emsp;&emsp;(i)
+
+In general.—Not later than January 1, 2010, the Secretary shall establish a test procedure to measure the energy-use of walk-in coolers and walk-in freezers.
+
+&emsp;&emsp;(ii)
+
+Computer modeling.—The test procedure may be based on computer modeling, if the computer model or models have been verified using the results of laboratory tests on a significant sample of walk-in coolers and walk-in freezers.
+
 #### (b) Publication in Federal Register; presentment of oral and written data, views, and arguments by interested persons
 
 Before prescribing any final test procedures under this section, the Secretary shall—
@@ -84,15 +122,19 @@ Before prescribing any final test procedures under this section, the Secretary s
 
 > respecting the energy consumption of such equipment or cost of energy consumed by such equipment, unless such equipment has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
 
-(2) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (1) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if he finds that the requirements of paragraph (1) would impose on such petitioner an undue hardship (as determined by the Secretary).
+(2) On the petition of any manufacturer, distributor, retailer, or private labeler, filed notlater than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (1) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if he finds that the requirements of paragraph (1) would impose on such petitioner an undue hardship (as determined by the Secretary).
 
 #### (e) Assistance by National Institute of Standards and Technology
 
 The Secretary may direct the National Institute of Standards and Technology to provide such assistance as the Secretary deems necessary to carry out his responsibilities under this part, including the development of test procedures.
 
-(Pub. L. 94–163, title III, §343, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3270; amended Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §122(b), (f)(2), Oct. 24, 1992, 106 Stat. 2808, 2817; Pub. L. 109–58, title I, §136(f), Aug. 8, 2005, 119 Stat. 641.)
+(Pub. L. 94–163, title III, §343, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3270; amended Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §122(b), (f)(2), Oct. 24, 1992, 106 Stat. 2808, 2817; Pub. L. 109–58, title I, §136(f), Aug. 8, 2005, 119 Stat. 641; Pub. L. 110–140, title III, §§302(b), 312(c), Dec. 19, 2007, 121 Stat. 1552, 1566.)
 
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 110–140, §302(b), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary may conduct an evaluation of a class of covered equipment and may prescribe test procedures for such class in accordance with the provisions of this section.”
+
+Subsec. (a)(9). Pub. L. 110–140, §312(c), added par. (9).
 
 2005—Subsec. (a)(4)(A), (B). Pub. L. 109–58, §136(f)(1)(A), inserted “very large commercial package air conditioning and heating equipment,” after “large commercial package air conditioning and heating equipment,”.
 
@@ -110,5 +152,11 @@ Subsec. (d)(1). Pub. L. 102–486, §122(b)(2), inserted “(or, in the case of 
 
 1988—Subsec. (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-<i><sup>1</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
 

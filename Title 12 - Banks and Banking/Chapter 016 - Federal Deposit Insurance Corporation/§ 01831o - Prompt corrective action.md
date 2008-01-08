@@ -22,7 +22,7 @@ For purposes of this section:
 
 #### (B) Adequately capitalized
 
-&emsp;&emsp;An insured depository institution is “adequately capitalized” if it meets the required minimum level for each relevant capital measure.
+&emsp;&emsp;An insured depository institution is “adequately capitalized” if it meets the requiredminimum level for each relevant capital measure.
 
 #### (C) Undercapitalized
 
@@ -120,7 +120,7 @@ For purposes of this section:
 
 #### (i) Leverage limit
 
-&emsp;&emsp;&emsp;Each appropriate Federal banking agency shall, by regulation, in consultation with the Corporation, specify the ratio of tangible equity to total assets at which an insured depository institution is critically undercapitalized.
+&emsp;&emsp;&emsp;Each appropriate Federal banking agency shall, by regulation, in consultationwith the Corporation, specify the ratio of tangible equity to total assets at which an insured depository institution is critically undercapitalized.
 
 #### (ii) Other relevant capital measures
 
@@ -304,7 +304,7 @@ For purposes of this section:
 
 #### (ii) Retroactive restrictions prohibited
 
-&emsp;&emsp;&emsp;This subparagraph does not authorize the agency to restrict interest rates paid on time deposits made before (and not renewed or renegotiated after) the agency acted under this subparagraph.
+&emsp;&emsp;&emsp;This subparagraph does not authorize the agency to restrict interest rates paidon time deposits made before (and not renewed or renegotiated after) the agency acted under this subparagraph.
 
 #### (D) Restricting asset growth
 
@@ -312,7 +312,7 @@ For purposes of this section:
 
 #### (E) Restricting activities
 
-&emsp;&emsp;Requiring the institution or any of its subsidiaries to alter, reduce, or terminate anyactivity that the agency determines poses excessive risk to the institution.
+&emsp;&emsp;Requiring the institution or any of its subsidiaries to alter, reduce, or terminate any activity that the agency determines poses excessive risk to the institution.
 
 #### (F) Improving management
 
@@ -460,7 +460,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) the agency determines, with the concurrence of the Corporation, that (aa) the insured depository institution has positive net worth, (bb) the insured depository institution has been in substantial compliance with an approved capital restoration plan which requires consistent improvement in the institution's capital since the date of the approval of the plan, (cc) the insured depository institution is profitable or has an upward trend in earnings the agency projects as sustainable, and (dd) the insured depository institution is reducing the ratio of nonperforming loans to total loans; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the head of the appropriate Federal banking agency and the Chairperson of the Board of Directors both certify thatthe institution is viable and not expected to fail.
+&emsp;&emsp;&emsp;&emsp;(II) the head of the appropriate Federal banking agency and the Chairperson of the Board of Directors both certify that the institution is viable and not expected to fail.
 
 #### (i) Restricting activities of critically undercapitalized institutions
 
@@ -674,7 +674,7 @@ Subsections (e)(2), (f), and (h) of this section shall not apply before July 1, 
 
 &emsp;(3) the savings association remains in compliance with the plan or is operating under a written agreement with the appropriate Federal banking agency.
 
-(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat.2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615.)
+(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615.)
 
 #### References in Text
 
@@ -756,7 +756,7 @@ Section effective 1 year after Dec. 19, 1991, see section 131(f) of Pub. L. 102�
 
 #### Regulations
 
-Section 131(b) of Pub. L. 102–242 provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) (and the Corporation, acting in the Corporation's capacity as insurer of depository institutions under that Act \[12 U.S.C. 1811 et seq.\]) shall, after notice and opportunity for comment, promulgate final regulations under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\] (as added by subsection (a)) not later than 9 months after the date of enactment of this Act\[Dec. 19, 1991\], and those regulations shall become effective not later than 1 year after that date of enactment.”
+Section 131(b) of Pub. L. 102–242 provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C.1813)) (and the Corporation, acting in the Corporation's capacity as insurer of depository institutions under that Act \[12 U.S.C. 1811 et seq.\]) shall, after notice and opportunity for comment, promulgate final regulations under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\] (as added by subsection (a)) not later than 9 months after the date of enactment of this Act \[Dec. 19, 1991\], and those regulations shall become effective not later than 1 year after that date of enactment.”
 
 #### Deposit of Insurance Proceeds
 

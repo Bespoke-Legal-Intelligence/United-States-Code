@@ -24,7 +24,7 @@ A prior section 141, Pub. L. 90–495, §35(a), Aug. 23, 1968, 82 Stat. 836, rel
 
 1998—Subsec. (c). Pub. L. 105–178 substituted “section 104(b)(4)” for “section 104(b)(5) of this title” in two places.
 
-1995—Pub. L. 104–59 redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows: “Each State shall certify to the Secretary before January 1 of each year that it is enforcing all speed limits on public highways in accordance with section 154 of this title. The Secretary shall not approve any project under section 106 of this title in any State which has failed to certify in accordance with this subsection.”
+1995—Pub. L. 104–59 redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec.\(a) which read as follows: “Each State shall certify to the Secretary before January 1 of each year that it is enforcing all speed limits on public highways in accordance with section 154 of this title. The Secretary shall not approve any project under section 106 of this title in any State which has failed to certify in accordance with this subsection.”
 
 1994—Subsec. (b). Pub. L. 103–429 substituted “section 31112 of title 49” for “section 411(j) of the Surface Transportation Assistance Act of 1982 (49 U.S.C. App. 2311(j))”.
 

@@ -48,7 +48,7 @@
 
 #### (1) Loan rate
 
-&emsp;Subject to paragraph (2), the loan rate for a marketing assistance loan under section 7231of this title for upland cotton shall be established by the Secretary at such loan rate, per pound, as will reflect for the base quality of upland cotton, as determined by the Secretary, at average locations in the United States a rate that is not less than the smaller of—
+&emsp;Subject to paragraph (2), the loan rate for a marketing assistance loan under section 7231 of this title for upland cotton shall be established by the Secretary at such loan rate, per pound, as will reflect for the base quality of upland cotton, as determined by the Secretary, at average locations in the United States a rate that is not less than the smaller of—
 
 &emsp;&emsp;(A) 85 percent of the average price (weighted by market and month) of the base quality of cotton as quoted in the designated United States spot markets during 3 years of the 5-year period ending July 31 of the year preceding the year in which the crop is planted, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; or
 

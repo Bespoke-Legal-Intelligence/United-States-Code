@@ -30,7 +30,7 @@ A mortgage insured under this section may be assumed, subject to credit approval
 
 #### (f) Insurance of mortgage as obligation of General Insurance Fund
 
-Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the General Insurance Fund established in section 1735c of this title. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed torefer to the General Insurance Fund; and (2) all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
+Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the General Insurance Fund established in section 1735c of this title. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2) all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
 
 #### (g) Availability of status and payment history of loans; entitlement to benefit of insurance; reinstatement of loan upon cure of default; garnishment proceedings; foreclosure proceedings
 
@@ -60,7 +60,7 @@ For purposes of this section:
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383,Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
 Chapter 67 of title 31, referred to in subsec. (i)(1), was repealed by Pub. L. 99–272, title XIV, §14001(a)(1), Apr. 7, 1986, 100 Stat. 327. A new chapter 67 of Title 31, Money and Finance, was added by Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1859.
 

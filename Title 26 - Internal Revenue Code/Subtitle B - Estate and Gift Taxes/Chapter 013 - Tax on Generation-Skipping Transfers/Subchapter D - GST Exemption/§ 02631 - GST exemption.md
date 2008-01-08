@@ -20,7 +20,7 @@ For purposes of subsection (a), the GST exemption amount for any calendar year s
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–16, §§521(c)(1), 901, temporarily substituted “amount” for “of $1,000,000”. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (a). Pub. L. 107–16, §§521(c)(1), 901, temporarily substituted “amount” for “of $1,000,000”. SeeEffective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (c). Pub. L. 107–16, §§521(c)(2), 901, temporarily amended heading and text of subsec. (c) generally, substituting provisions relating to the GST exemption amount for any calendar year for provisions which related to inflation adjustment of the $1,000,000 amount contained in subsec. (a) in the case of any calendar year after 1998 and applicability of any increase for any such calendar year. See Effective and Termination Dates of 2001 Amendment note below.
 

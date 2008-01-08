@@ -14,13 +14,13 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 &emsp;(4) if the financial interest that would be affected by the particular matter involved is that resulting solely from the interest of the officer or employee, or his or her spouse or minor child, in birthrights—
 
-&emsp;&emsp;(A) in an Indian tribe, band, nation, or other organized group or community, including any Alaska Native village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act, whichis recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians,
+&emsp;&emsp;(A) in an Indian tribe, band, nation, or other organized group or community, including any Alaska Native village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians,
 
 &emsp;&emsp;(B) in an Indian allotment the title to which is held in trust by the United States or which is inalienable by the allottee without the consent of the United States, or
 
 &emsp;&emsp;(C) in an Indian claims fund held in trust or administered by the United States,
 
-> &emsp;if the particular matter does not involve the Indian allotment or claims fund or the Indian tribe, band, nation, organized group or community, or Alaska Native village corporation as a specific party or parties.
+> &emsp;if the particular matter does not involve the Indian allotment or claims fund or the Indiantribe, band, nation, organized group or community, or Alaska Native village corporation as a specific party or parties.
 
 (c)(1) For the purpose of paragraph (1) of subsection (b), in the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be deemed to be the Government official responsible for appointment.
 

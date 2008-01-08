@@ -32,17 +32,13 @@
 
 #### (2) Report to Congress
 
-&emsp;Not later than 60 days after receiving such a request, the President shall provide to the Chairman of the Committee on Foreign Relations of the Senate and the Chairman of the Committee on Foreign Affairs of the House of Representatives a written report on the information held by the executive branch which is pertinent to the issue of whether the specifiedgovernment, on or after December 4, 1991, has used chemical or biological weapons in violation of international law or has used lethal chemical or biological weapons against its own nationals. This report shall contain an analysis of each of the items enumerated in subsection (a)(2) of this section.
+&emsp;Not later than 60 days after receiving such a request, the President shall provide to the Chairman of the Committee on Foreign Relations of the Senate and the Chairman of the Committee on Foreign Affairs of the House of Representatives a written report on the information held by the executive branch which is pertinent to the issue of whether the specified government, on or after December 4, 1991, has used chemical or biological weapons in violation of international law or has used lethal chemical or biological weapons against its own nationals. This report shall contain an analysis of each of the items enumerated in subsection (a)(2) of this section.
 
 (Pub. L. 102–182, title III, §§306, 309(b)(3), Dec. 4, 1991, 105 Stat. 1252, 1259.)
 
 #### Amendments
 
 1991—Subsec. (a)(1). Pub. L. 101–182, §309(b)(3), substituted “October 28, 1991” for reference to the “date of the enactment of this title”, meaning the date of the enactment of title V of Pub. L. 101–182 which was enacted Dec. 4, 1991. “October 28, 1991”, the second time appearing, was substituted for “such date of enactment” for purposes of codification.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Delegation of Functions
 

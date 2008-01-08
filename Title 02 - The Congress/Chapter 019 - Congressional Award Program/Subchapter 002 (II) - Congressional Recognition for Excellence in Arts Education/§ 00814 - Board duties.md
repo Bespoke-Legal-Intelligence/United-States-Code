@@ -102,7 +102,7 @@ The Board shall determine an appropriate date or dates for announcement of the a
 
 #### (1) In general
 
-&emsp;The Board shall prepare and submit an annual report to Congress not later than March 1 of each year summarizing the activities of the Congressional Recognition for Excellence in Arts Education Awards Program during the previous year and making appropriate recommendations for the program. Any minority views and recommendations of members of the Board shall be included in such reports.
+&emsp;The Board shall prepare and submit an annual report to Congress not later than March 1 of each year summarizing the activities of the Congressional Recognition for Excellence in Arts Education Awards Program during theprevious year and making appropriate recommendations for the program. Any minority views and recommendations of members of the Board shall be included in such reports.
 
 #### (2) Contents
 

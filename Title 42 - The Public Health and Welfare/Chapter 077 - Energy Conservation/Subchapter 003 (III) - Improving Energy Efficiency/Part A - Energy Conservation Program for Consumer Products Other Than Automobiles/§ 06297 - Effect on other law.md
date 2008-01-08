@@ -6,7 +6,7 @@
 
 &emsp;(A) such State regulation requires testing or the use of any measure of energy consumption, water use, or energy descriptor in any manner other than that provided under section 6293 of this title; or
 
-&emsp;(B) such State regulation requires disclosure of information with respect to the energy use, energy efficiency, or water use of any covered product other than information required under section 6294 of this title.
+&emsp;(B) such State regulation requires disclosure of information with respect to the energy use,energy efficiency, or water use of any covered product other than information required under section 6294 of this title.
 
 (2) For purposes of this section, the following definitions apply:
 
@@ -22,7 +22,15 @@
 
 Effective on March 17, 1987, and ending on the effective date of an energy conservation standard established under section 6295 of this title for any covered product, no State regulation, or revision thereof, concerning the energy efficiency, energy use, or water use of the covered product shall be effective with respect to such covered product, unless the State regulation or revision—
 
-&emsp;(1) was prescribed or enacted before January 8, 1987, and is applicable to products before January 3, 1988, or in the case of any portion of any regulation which establishes requirements for fluorescent lamp ballasts, was prescribed or enacted before June 28, 1988, or in the case of any portion of any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992;
+&emsp;(1)(A) was prescribed or enacted before January 8, 1987, and is applicable to products before January 3, 1988, or in the case of any portion of any regulation which establishes requirements for fluorescent lamp ballasts, was prescribed or enacted before June 28, 1988, or in the case of any portion of any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992; or
+
+&emsp;(B) in the case of any portion of any regulation that establishes requirements for general service incandescent lamps, intermediate base incandescent lamps, or candelabra base lamps, was enacted or adopted by the State of California or Nevada before December 4, 2007, except that—
+
+&emsp;&emsp;(i) the regulation adopted by the California Energy Commission with an effective date of January 1, 2008, shall only be effective until the effective date of the Federal standard for the applicable lamp category under subparagraphs (A), (B), and (C) of section 6295(i)(1) of this title;
+
+&emsp;&emsp;(ii) the States of California and Nevada may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards with effective dates no earlier than 12 months prior to the Federal effective dates prescribed under subparagraphs (A), (B), and (C) of section 6295(i)(1) of this title, at which time any prior regulations adopted by the State of California or Nevada shall no longer be effective; and
+
+&emsp;&emsp;(iii) all other States may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards and effective dates.
 
 &emsp;(2) is a State procurement regulation described in subsection (e) of this section;
 
@@ -58,7 +66,15 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 &emsp;(8)(A) is a regulation concerning standards for pedestrian modules adopted by the California Energy Commission before January 1, 2005; or
 
-&emsp;(B) is an amendment to a regulation described in subparagraph (A) that was developed to align California regulations to changes in the Institute for Transportation Engineers standards, entitled “Performance Specification: Pedestrian Traffic Control Signal Indications”.
+&emsp;(B) is an amendment to a regulation described in subparagraph (A) that was developed to align California regulations to changes in the Institute for Transportation Engineers standards, entitled “Performance Specification: Pedestrian Traffic Control Signal Indications”; and
+
+&emsp;(9) is a regulation concerning metal halide lamp fixtures adopted by the California Energy Commission on or before January 1, 2011, except that—
+
+&emsp;&emsp;(A) if the Secretary fails to issue a final rule within 180 days after the deadlines for rulemakings in section 6295(hh) of this title, notwithstanding any other provision of this section, preemption shall not apply to a regulation concerning metal halide lamp fixtures adopted by the California Energy Commission—
+
+&emsp;&emsp;&emsp;(i) on or before July 1, 2015, if the Secretary fails to meet the deadline specified in section 6295(hh)(2) of this title; or
+
+&emsp;&emsp;&emsp;(ii) on or before July 1, 2022, if the Secretary fails to meet the deadline specified in section 6295(hh)(3) of this title.
 
 #### (d) Waiver of Federal preemption
 
@@ -116,7 +132,7 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 (1) A regulation or other requirement enacted or prescribed before January 8, 1987, that is contained in a State or local building code for new construction concerning the energy efficiency or energy use of a covered product is not superseded by this part until the effective date of the energy conservation standard established in or prescribed under section 6295 of this title for such covered product.
 
-(2) A regulation or other requirement, or revision thereof, enacted or prescribed on or after January 8, 1987, that is contained in a State or local building code for new construction concerning the energy efficiency or energy use of a covered product is not superseded by this part until the effective date of the energy conservation standard established in or prescribed undersection 6295 of this title for such covered product if the code does not require that the energy efficiency of such covered product exceed—
+(2) A regulation or other requirement, or revision thereof, enacted or prescribed on or after January 8, 1987, that is contained in a State or local building code for new construction concerning the energy efficiency or energy use of a covered product is not superseded by this part until the effective date of the energy conservation standard established in or prescribed under section 6295 of this title for such covered product if the code does not require that the energy efficiency of such covered product exceed—
 
 &emsp;(A) the applicable minimum efficiency requirement in a national voluntary consensus standard; or
 
@@ -148,9 +164,13 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 Any disclosure with respect to energy use, energy efficiency, or estimated annual operating cost which is required to be made under the provisions of this part shall not create an express or implied warranty under State or Federal law that such energy efficiency will be achieved or that such energy use or estimated annual operating cost will not be exceeded under conditions of actual use.
 
-(Pub. L. 94–163, title III, §327, Dec. 22, 1975, 89 Stat. 926; Pub. L. 95–619, title IV, §424, Nov. 9, 1978, 92 Stat. 3263; Pub. L. 100–12, §7, Mar. 17, 1987, 101 Stat. 117; Pub. L. 100–357, §2(f), June 28, 1988, 102 Stat. 674; Pub. L. 102–486, title I, §123(h), Oct. 24, 1992, 106 Stat. 2829; Pub. L. 109–58, title I, §135(d), Aug. 8, 2005, 119 Stat. 634.)
+(Pub. L. 94–163, title III, §327, Dec. 22, 1975, 89 Stat. 926; Pub. L. 95–619, title IV, §424, Nov. 9, 1978, 92 Stat. 3263; Pub. L. 100–12, §7, Mar. 17, 1987, 101 Stat. 117; Pub. L. 100–357, §2(f), June 28, 1988, 102 Stat. 674; Pub. L. 102–486, title I, §123(h), Oct. 24, 1992, 106 Stat. 2829; Pub. L. 109–58, title I, §135(d), Aug. 8, 2005, 119 Stat. 634; Pub. L. 110–140, title III, §§321(d), 324(f), Dec. 19, 2007, 121 Stat. 1585, 1594.)
 
 #### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 110–140, §321(d), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (c)(9). Pub. L. 110–140, §324(f), added par. (9).
 
 2005—Subsec. (c)(7), (8). Pub. L. 109–58 added pars. (7) and (8).
 
@@ -160,9 +180,9 @@ Subsec. (a)(2). Pub. L. 102–486, §123(h)(1)(D), amended par. (2) generally. P
 
 Subsec. (b). Pub. L. 102–486, §123(h)(2)(A), substituted “, energy use, or water use of the covered product” for “or energy use of the covered product”.
 
-Subsec. (b)(1). Pub. L. 102–486, §123(h)(2)(B), inserted before semicolon at end “, or in the case of any portionof any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992”.
+Subsec. (b)(1). Pub. L. 102–486, §123(h)(2)(B), inserted before semicolon at end “, or in the case of any portion of any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992”.
 
-Subsec. (b)(4). Pub. L. 102–486, §123(h)(2)(C), inserted before semicolon at end “, or is a regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those to which section 6295(i) of this title is applicable, or is a regulation (or portion thereof) regulating showerheads or faucets other than those to which section 6295(j) of this title is applicable or regulating lavatory faucets (other than metering faucets) for installation in public places, or is a regulation (or portion thereof) regulating water closets or urinals other than those to which section 6295(k) of this title is applicable”.
+Subsec. (b)(4). Pub. L. 102–486, §123(h)(2)(C), inserted before semicolon at end “, or is a regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those to which section 6295(i) of this title isapplicable, or is a regulation (or portion thereof) regulating showerheads or faucets other than those to which section 6295(j) of this title is applicable or regulating lavatory faucets (other than metering faucets) for installation in public places, or is a regulation (or portion thereof) regulating water closets or urinals other than those to which section 6295(k) of this title is applicable”.
 
 Subsec. (b)(7). Pub. L. 102–486, §123(h)(2)(D)–(F), added par. (7).
 
@@ -195,4 +215,8 @@ Subsec. (c)(1). Pub. L. 100–357, §2(f)(3), inserted before semicolon “, ex
 1978—Subsec. (a)(2). Pub. L. 95–619, §424(b), substituted “other requirement” for “similar requirement”.
 
 Subsec. (b). Pub. L. 95–619, §424(a), in par. (1) substituted provisions vesting power to prescribe rules superseding State energy efficiency regulations in the Secretary for provisions vesting such power in the Administrator of the Federal Energy Administration and provided that persons subject to such State regulations were to petition the Secretary for relief therefrom rather than the Administrator, in par. (2) inserted provisions authorizing the supersedure of any State regulation prescribed after Jan. 1, 1978 respecting energy use of any type of covered product and authorizing the filing of a petition by the State for exemption from any such supersedure, and struck out provision that a State regulation containing a more stringent energy efficiency standard than the corresponding Federal standard would not be superseded, and added pars. (3) to (5).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

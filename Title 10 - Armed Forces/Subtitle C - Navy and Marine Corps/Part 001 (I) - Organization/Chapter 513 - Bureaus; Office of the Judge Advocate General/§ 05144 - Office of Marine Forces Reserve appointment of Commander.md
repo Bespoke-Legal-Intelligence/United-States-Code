@@ -72,5 +72,3 @@ Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(19)\], s
 
 Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 3038 of this title.
 
-§5145
-

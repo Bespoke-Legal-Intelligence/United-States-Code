@@ -46,7 +46,7 @@
 
 &emsp;(1) The term “appropriations” has the meaning given that term in section 1511 of title 31.
 
-&emsp;(2) The term “multiyear contract” means a contract which by its terms is to remain in effect for a period which extends beyond the end of the fiscal year during which the contract is entered into but not beyond the end of the fourth fiscal year following such fiscal year. Such term does not include a contract for construction or for a lease of real property.
+&emsp;(2) The term “multiyear contract” means a contract which by its terms is to remain in effect for a period which extends beyond the end of the fiscal year during which the contract isentered into but not beyond the end of the fourth fiscal year following such fiscal year. Such term does not include a contract for construction or for a lease of real property.
 
 &emsp;(3) The term “nonrecurring, unrecovered costs” means those costs reasonably incurred by the contractor in performing a multiyear contract which (as determined under regulations prescribed under subsection (d) of this section) are generally incurred on a one-time basis.
 

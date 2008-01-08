@@ -38,7 +38,7 @@ Penalty When Death Results.—Whoever is convicted of any crime prohibited by su
 
 (e)
 
-Threats.—Whoever knowingly and intentionally imparts or conveys any threat to do an act which would violate this chapter, with an apparent determination and will to carry the threat into execution, shall be fined under this title or imprisoned not more than 5 years, or both, and is liable for all costs incurred as a result of such threat.
+Threats.—Whoever knowingly and intentionally imparts or conveys any threat to do anact which would violate this chapter, with an apparent determination and will to carry the threat into execution, shall be fined under this title or imprisoned not more than 5 years, or both, and is liable for all costs incurred as a result of such threat.
 
 (Added Pub. L. 109–177, title III, §306(a), Mar. 9, 2006, 120 Stat. 237.)
 

@@ -64,7 +64,7 @@ Qualified vessel.—The term “qualified vessel” means—
 
 &emsp;&emsp;&emsp;(ii) documented under the laws of the United States; and
 
-&emsp;&emsp;&emsp;(iii) agreed, between the Secretary and the person maintaining the capital construction fund established under section 53503 of this title, to be operated in the United States foreign, Great Lakes, or noncontiguous domestic trade or in the fisheries of the United States; and
+&emsp;&emsp;&emsp;(iii) agreed, between the Secretary and the person maintaining the capital construction fund established under section 53503 of this title, to be operated in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade trade <sup>1</sup> or in the fisheries of the United States; and
 
 &emsp;&emsp;(B) a commercial fishing vessel—
 
@@ -86,7 +86,23 @@ Secretary.—The term “Secretary” means—
 
 &emsp;&emsp;(B) the Secretary of Transportation with respect to other vessels.
 
-&emsp;(7)
+&emsp;(7) <sup>2</sup>
+
+Short sea transportation trade.—The term “short sea transportation trade” means the carriage by vessel of cargo—
+
+&emsp;&emsp;(A) that is—
+
+&emsp;&emsp;&emsp;(i) contained in intermodal cargo containers and loaded by crane on the vessel; or
+
+&emsp;&emsp;&emsp;(ii) loaded on the vessel by means of wheeled technology; and
+
+&emsp;&emsp;(B) that is—
+
+&emsp;&emsp;&emsp;(i) loaded at a port in the United States and unloaded either at another port in the United States or at a port in Canada located in the Great Lakes Saint Lawrence Seaway System; or
+
+&emsp;&emsp;&emsp;(ii) loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.
+
+&emsp;(7) <sup>2</sup>
 
 United states foreign trade.—The term “United States foreign trade” includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.
 
@@ -98,7 +114,7 @@ Vessel.—The term “vessel” includes—
 
 &emsp;&emsp;(B) an ocean-going towing vessel, an ocean-going barge, or a comparable towing vessel or barge operated on the Great Lakes.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1591.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1591; Pub. L. 110–140, title XI, §1122(a), Dec. 19, 2007, 121 Stat. 1762.)
 
 Historical and Revision Notes
 
@@ -161,4 +177,18 @@ In paragraph (2)(A)(iii), the word “trade” is substituted for “commerce”
 #### References in Text
 
 Section 506 of the Merchant Marine Act, 1936, referred to in par. (7), is section 506 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under section 53101 of this title.
+
+#### Amendments
+
+2007—Par. (5)(A)(iii). Pub. L. 110–140, §1122(a)(1), substituted “noncontiguous domestic, or short sea transportation trade” for “or noncontiguous domestic”.
+
+Par. (7). Pub. L. 110–140, §1122(a)(2), added par. (7) relating to short sea transportation trade.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Two pars. (7) have been enacted.</i>
 

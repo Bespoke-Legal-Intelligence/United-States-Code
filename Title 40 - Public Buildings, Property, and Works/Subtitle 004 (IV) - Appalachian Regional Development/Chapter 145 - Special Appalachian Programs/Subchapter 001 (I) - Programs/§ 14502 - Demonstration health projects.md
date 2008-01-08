@@ -10,7 +10,7 @@ Planning Grants.—
 
 &emsp;(1)
 
-Authority to provide amounts and make grants.—The Secretary may provide amounts to the Appalachian Regional Commission for the support of its Health Advisory Committee and may make grants for expenses of planning necessary for the development andoperation of demonstration health projects for the region.
+Authority to provide amounts and make grants.—The Secretary may provide amounts to the Appalachian Regional Commission for the support of its Health Advisory Committee and may make grants for expenses of planning necessary for the development and operation of demonstration health projects for the region.
 
 &emsp;(2)
 

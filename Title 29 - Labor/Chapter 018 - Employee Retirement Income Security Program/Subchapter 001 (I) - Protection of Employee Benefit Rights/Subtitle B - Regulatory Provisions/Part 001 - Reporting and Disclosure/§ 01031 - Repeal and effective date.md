@@ -20,7 +20,7 @@ employee retirement income security act of 1974”.
 
 (b)(1) Except as provided in paragraph (2), this part (including the amendments and repeals made by subsection (a) of this section) shall take effect on January 1, 1975.
 
-(2) In the case of a plan which has a plan year which begins before January 1, 1975, and ends after December 31, 1974, the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendmentmade by subsection (a)(2) of this section) and the effective date of any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975.
+(2) In the case of a plan which has a plan year which begins before January 1, 1975, and ends after December 31, 1974, the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendment made by subsection (a)(2) of this section) and the effective date of any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975.
 
 (c) The provisions of this subchapter authorizing the Secretary to promulgate regulations shall take effect on September 2, 1974.
 
@@ -32,7 +32,7 @@ employee retirement income security act of 1974”.
 
 The Welfare and Pension Plans Disclosure Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 85–836, Aug. 28, 1958, 72 Stat. 997, as amended, which was classified generally to chapter 10 (§301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Title I of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(A) to (C), means title I of Pub. L. 93–406, which enacted this subchapter, amended section 441 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, and repealed sections 301 to 309 of this title.
+Title I of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(A) to (C), meanstitle I of Pub. L. 93–406, which enacted this subchapter, amended section 441 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, and repealed sections 301 to 309 of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(B)(ii), (iii), (D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Titles I, III, and IV of such act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

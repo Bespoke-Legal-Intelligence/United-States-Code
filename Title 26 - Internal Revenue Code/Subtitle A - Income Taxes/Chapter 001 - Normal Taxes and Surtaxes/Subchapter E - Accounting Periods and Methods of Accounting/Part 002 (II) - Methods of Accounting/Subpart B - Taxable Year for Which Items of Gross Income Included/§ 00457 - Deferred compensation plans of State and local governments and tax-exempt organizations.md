@@ -16,7 +16,7 @@
 
 #### (3) Special rule for health and long-term care insurance
 
-&emsp;In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extent provided in section 402(<i>l</i>), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
+&emsp;In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extentprovided in section 402(<i>l</i>), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
 
 #### (b) Eligible deferred compensation plan defined
 

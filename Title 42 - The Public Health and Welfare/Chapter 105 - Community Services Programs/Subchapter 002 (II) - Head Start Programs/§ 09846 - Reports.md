@@ -2,7 +2,7 @@
 
 #### (a) Status of children
 
-At least once during every 2-year period, the Secretary shall prepare and submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report concerning the status of children (including disabled and non-English language background children) in Head Start programs, including the number of children and the services being provided to such children. Such report shall include—
+At least once during every 2-year period, the Secretary shall prepare and submit, to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report concerning the status of children (including children with disabilities, limited English proficient children, homeless children, children in foster care, and children participating in Indian Head Start programs and migrant or seasonal Head Start programs) in Head Start programs, including the number of children and the services being provided to such children. Such report shall include—
 
 &emsp;(1) a statement for the then most recently concluded fiscal year specifying—
 
@@ -10,9 +10,9 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;&emsp;(B) the amount of funds received by Head Start agencies newly designated under section 9836 of this title to provide such services in such fiscal year;
 
-&emsp;(2) a description of the distribution of Head Start services relative to the distribution of children who are eligible to participate in Head Start programs, including geographic distribution within States;
+&emsp;(2) a description of the distribution of Head Start services relative to the distribution of children who are eligible to participate in Head Start programs, including geographic distribution within States, and information on the number of children served under this subsection, disaggregated by type of eligibility criterion;
 
-&emsp;(3) a statement identifying how funds expended under section 9835(a)(2) of this title, and funds allotted under section 9835(a)(3) of this title, were distributed and used at national, regional, and local levels;
+&emsp;(3) a statement identifying how funds made available under section 9835(a) of this title were distributed and used at national, regional, and local levels;
 
 &emsp;(4) a statement specifying the amount of funds provided by the State, and by local sources, to carry out Head Start programs;
 
@@ -22,7 +22,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(7) information concerning Head Start staff, including salaries, education, training, experience, and staff turnover;
 
-&emsp;(8) information concerning children participating in programs that receive Head Start funding, including information on family income, racial and ethnic background, disability, and receipt of benefits under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
+&emsp;(8) information concerning children participating in programs that receive Head Start funding, including information on family income, racial and ethnic background, homelessness, whether the child is in foster care or was referred by a child welfare agency, disability, and receipt of benefits under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
 
 &emsp;(9) the use and source of funds to extend Head Start services to operate full-day and year round;
 
@@ -38,7 +38,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(11) the information contained in the documents entitled “Program Information Report” and “Head Start Cost Analyses System” (or any document similar to either), prepared with respect to Head Start programs;
 
-&emsp;(12) a description of the types of services provided to children and their families, both on-site and through referrals, including health, mental health, dental care, parenting education, physical fitness, and literacy training;
+&emsp;(12) a description of the types of services provided to children and their families, both on-site and through referrals, including health, mental health, dental care, vision care, parenting education, physical fitness, and literacy training;
 
 &emsp;(13) a summary of information concerning the research, demonstration, and evaluation activities conducted under section 9844 of this title, including—
 
@@ -46,21 +46,69 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;&emsp;(B) results, conclusions, and recommendations, not included in any previous report, based on completed activities; and
 
-&emsp;(14) a study of the delivery of Head Start programs to Indian children living on and near Indian reservations, to children of Alaskan Natives, and to children of migrant and seasonal farmworkers.
+&emsp;(14) a study of the delivery of Head Start programs to Indian children living on and near Indian reservations, to children of Alaska Natives, and to children of migrant and seasonal farmworker families.
 
-> Promptly after submitting such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, the Secretary shall publish in the Federal Register a notice indicating that such report is available to the public and specifying how such report may be obtained.
+> Promptly after submitting such report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, the Secretary shall publish in the Federal Register a notice indicating that such report is available to the public and specifying how such report may be obtained.
 
 #### (b) Facilities
 
-At least once during every 5-year period, the Secretary shall prepare and submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report concerning the condition, location, and ownership of facilities used, or available to be used, by Indian Head Start agencies (including Native Alaskan Head Start agencies) and Native Hawaiian Head Start agencies.
+At least once during every 5-year period, the Secretary shall prepare and submit, to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report concerning the condition, location, and ownership of facilities used, or available to be used, by Indian Head Start agencies (including Alaska Native Head Start agencies) and Native Hawaiian Head Start agencies.
 
-(Pub. L. 97–35, title VI, §650, formerly §651, Aug. 13, 1981, 95 Stat. 506; Pub. L. 98–558, title I, §108, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §§118, 119, Nov. 3, 1990, 104 Stat. 1234; Pub. L. 102–401, §2(k)(5), Oct. 7, 1992, 106 Stat. 1959; renumbered §650 and amended Pub. L. 103–252, title I, §118, May 18, 1994, 108 Stat. 648; Pub. L. 105–285, title I, §117, Oct. 27, 1998, 112 Stat. 2727.)
+#### (c) Fiscal protocol
+
+#### (1) In general
+
+&emsp;The Secretary shall conduct an annual review to assess whether the design and implementation of the triennial reviews described in section 9836a(c) of this title include compliance procedures that provide reasonable assurances that Head Start agencies are complying with applicable fiscal laws and regulations.
+
+#### (2) Report
+
+&emsp;Not later than 30 days after the date the Secretary completes the annual review under paragraph (1), the Secretary shall report the findings and conclusions of the annual review to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+#### (d) Disability-related services
+
+#### (1) In general
+
+&emsp;The Secretary shall track the provision of disability-related services for children, in order to—
+
+&emsp;&emsp;(A) determine whether Head Start agencies are making timely referrals to the State or local agency responsible for providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.);
+
+&emsp;&emsp;(B) identify barriers to timely evaluations and eligibility determinations by the State or local agency responsible for providing services under section 619 or part C of the Individuals with Disabilities Education Act; and
+
+&emsp;&emsp;(C) determine under what circumstances and for what length of time Head Start agencies are providing disability-related services for children who have not been determined under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) to be children with disabilities.
+
+#### (2) Report
+
+&emsp;Not later than 1 year after December 12, 2007, the Secretary shall provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the activities described in paragraph (1).
+
+#### (e) Evaluation and recommendations regarding obesity prevention
+
+Not later than 1 year after December 12, 2007, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the Secretary's progress in assisting program efforts to prevent and reduce obesity in children who participate in Head Start programs, including progress on implementing initiatives within the Head Start program to prevent and reduce obesity in such children.
+
+(Pub. L. 97–35, title VI, §650, formerly §651, Aug. 13, 1981, 95 Stat. 506; Pub. L. 98–558, title I, §108, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §§118, 119, Nov. 3, 1990, 104 Stat. 1234; Pub. L. 102–401, §2(k)(5), Oct. 7, 1992, 106 Stat. 1959; renumbered §650 and amended Pub. L. 103–252, title I, §118, May 18, 1994, 108 Stat. 648; Pub. L. 105–285, title I, §117, Oct. 27, 1998, 112 Stat. 2727; Pub. L. 110–134, §21, Dec. 12, 2007, 121 Stat. 1441.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(8), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
+The Individuals with Disabilities Education Act, referred to in subsec. (d)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 110–134, §21(1)(A), (G), substituted, in introductory provisions, “Education and Labor” for “Education and the Workforce”, “Health, Education, Labor, and Pensions” for “Labor and Human Resources”, and “(including children with disabilities, limited English proficient children, homeless children, children in foster care, and children participating in Indian Head Start programs and migrant or seasonal Head Start programs)” for “(including disabled and non-English language background children)” and, in concluding provisions, “Education and Labor” for “Education and the Workforce” and “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
+
+Subsec. (a)(2). Pub. L. 110–134, §21(1)(B), inserted “, and information on the number of children served under this subsection, disaggregated by type of eligibility criterion” before semicolon at end.
+
+Subsec. (a)(3). Pub. L. 110–134, §21(1)(C), substituted “funds made available under section 9835(a) of this title” for “funds expended under section 9835(a)(2) of this title, and funds allotted under section 9835(a)(3) of this title,”.
+
+Subsec. (a)(8). Pub. L. 110–134, §21(1)(D), inserted “homelessness, whether the child is in foster care or was referred by a child welfare agency,” after “background,”.
+
+Subsec. (a)(12). Pub. L. 110–134, §21(1)(E), inserted “vision care,” after “dental care,”.
+
+Subsec. (a)(14). Pub. L. 110–134, §21(1)(F), substituted “Alaska Natives” for “Alaskan Natives” and “seasonal farmworker families” for “seasonal farmworkers”.
+
+Subsec. (b). Pub. L. 110–134, §21(2), substituted “Education and Labor” for “Education and the Workforce”, “Health, Education, Labor, and Pensions” for “Labor and Human Resources”, and “Alaska Native” for “Native Alaskan”.
+
+Subsecs. (c) to (e). Pub. L. 110–134, §21(3), added subsecs. (c) to (e).
 
 1998—Pub. L. 105–285 designated existing provisions as subsec. (a), inserted heading, substituted “Education and the Workforce” for “Education and Labor” in introductory and concluding provisions, and added subsec. (b).
 
@@ -77,10 +125,6 @@ Subsec. (g). Pub. L. 103–252, §118(a)(2)–(4), struck out subsec. (g) design
 Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
 1984—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
-
-#### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1994 Amendment
 

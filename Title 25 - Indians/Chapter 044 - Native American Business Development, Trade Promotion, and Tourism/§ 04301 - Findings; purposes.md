@@ -88,7 +88,7 @@ Findings.—Congress finds that—
 
 &emsp;“(1) despite the availability of abundant natural resources on Indian lands and a rich cultural legacy that accords great value to self-determination, self-reliance, and independence, Native Americans suffer rates of unemployment, poverty, poor health, substandard housing, and associated social ills which are greater than the rates for any other group in the United States;
 
-&emsp;“(2) the capacity of Indian tribes to build strong Indian tribal governments and vigorous economies is hindered by the inability of Indian tribes to engage communities that surround Indian lands and outsideinvestors in economic activities conducted on Indian lands;
+&emsp;“(2) the capacity of Indian tribes to build strong Indian tribal governments and vigorous economies is hindered by the inability of Indian tribes to engage communities that surround Indian lands and outside investors in economic activities conducted on Indian lands;
 
 &emsp;“(3) beginning in 1970, with the issuance by the Nixon Administration of a special message to Congress on Indian Affairs, each President has reaffirmed the special government-to-government relationship between Indian tribes and the United States; and
 
@@ -216,7 +216,7 @@ Chairperson.—The Authority shall select a chairperson from among its members.
 
 #### “SEC. 5. REPORT.
 
-“Not later than 1 year after the date of enactment of this Act \[Nov. 6, 2000\], the Authority shall prepare and submit to the Committee on Indian Affairs of the Senate, the Committee on Resources of the House of Representatives, and to the governing body of each Indian tribe a report that includes—
+“Not later than 1 year after the date of enactment of this Act \[Nov. 6, 2000\], the Authority shall prepare and submit to the Committee on Indian Affairs of the Senate, the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives, and to the governing body of each Indian tribe a report that includes—
 
 &emsp;“(1) the findings of the Authority concerning the review conducted under section 4(d); and
 

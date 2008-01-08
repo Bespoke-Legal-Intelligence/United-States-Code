@@ -8,7 +8,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 #### (1) Eligible producers
 
-&emsp;To be eligible to participate in the conservation security program (other than to receivetechnical assistance under section 3838c(g) of this title for the development of conservation security contracts), a producer shall—
+&emsp;To be eligible to participate in the conservation security program (other than to receive technical assistance under section 3838c(g) of this title for the development of conservation security contracts), a producer shall—
 
 &emsp;&emsp;(A) develop and submit to the Secretary, and obtain the approval of the Secretary of, a conservation security plan that meets the requirements of subsection (c)(1) of this section; and
 
@@ -22,7 +22,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 #### (A) Conservation reserve program
 
-&emsp;&emsp;Land enrolled in the conservation reserve program under subpart B of part I of this subchapter shall not be eligible for enrollment in the conservation security program.
+&emsp;&emsp;Land enrolled in the conservation reserve program under subpart B of part I of thissubchapter shall not be eligible for enrollment in the conservation security program.
 
 #### (B) Wetlands reserve program
 
@@ -206,7 +206,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 #### (ii) Participation in other programs
 
-&emsp;&emsp;&emsp;If appropriate payment reductions and other adjustments (as determined by theSecretary) are made to the conservation security contract of a producer, the producer may—
+&emsp;&emsp;&emsp;If appropriate payment reductions and other adjustments (as determined by the Secretary) are made to the conservation security contract of a producer, the producer may—
 
 &emsp;&emsp;&emsp;&emsp;(I) simultaneously participate in—
 

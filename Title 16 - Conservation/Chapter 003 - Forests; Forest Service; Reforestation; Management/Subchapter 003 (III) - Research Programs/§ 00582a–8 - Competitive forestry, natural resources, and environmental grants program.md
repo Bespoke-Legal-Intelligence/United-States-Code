@@ -62,5 +62,5 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Codification
 
-Section was enacted as part of the Forest Stewardship Act of 1990 and as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the McIntire-Stennis Act of 1962 which comprises this subchapter.
+Section was enacted as part of the Forest Stewardship Act of 1990 and as part of the Food, Agriculture,Conservation, and Trade Act of 1990, and not as part of the McIntire-Stennis Act of 1962 which comprises this subchapter.
 

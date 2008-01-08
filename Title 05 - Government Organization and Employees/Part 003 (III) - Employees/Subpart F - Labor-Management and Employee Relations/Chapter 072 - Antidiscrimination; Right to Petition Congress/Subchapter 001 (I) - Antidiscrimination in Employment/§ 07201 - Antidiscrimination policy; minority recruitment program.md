@@ -32,7 +32,7 @@
 
 &emsp;(3) transmit to the Executive agencies involved, to the Office of Personnel Management, and to the Congress the determinations made under paragraph (2) of this subsection.
 
-(e) Not later than January 31 of each year, the Office shall prepare and transmit to each House of the Congress a report on the activities of the Office and of Executive agencies under subsection (c) of this section, including the affirmative action plans submitted under section 717 ofthe Civil Rights Act of 1964 (42 U.S.C. 2000e–16), the personnel data file maintained by the Office of Personnel Management, and any other data necessary to evaluate the effectiveness of the program for each category of civil service employment and for each minority group designation, for the preceding fiscal year, together with recommendations for administrative or legislative action the Office considers appropriate.
+(e) Not later than January 31 of each year, the Office shall prepare and transmit to each House of the Congress a report on the activities of the Office and of Executive agencies under subsection (c) of this section, including the affirmative action plans submitted under section 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16), the personnel data file maintained by the Office of Personnel Management, and any other data necessary to evaluate the effectiveness of the program for each category of civil service employment and for each minority group designation, for the preceding fiscal year, together with recommendations for administrative or legislative action the Office considers appropriate.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, §7151; renumbered §7201 and amended Pub. L. 95–454, title III, §310, title VII, §703(a)(1), Oct. 13, 1978, 92 Stat. 1152, 1216.)
 
@@ -56,7 +56,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-The date of the enactment of the Civil Service Reform Act of 1978, referred to in subsecs. (c) and (d), is the date of the enactment of Pub. L. 95–454, which was approved Oct. 13, 1978.
+The date of the enactment of the Civil Service Reform Act of 1978, referred to in subsecs. (c) and (d), isthe date of the enactment of Pub. L. 95–454, which was approved Oct. 13, 1978.
 
 #### Amendments
 
@@ -73,6 +73,10 @@ Amendment by section 310 of Pub. L. 95–454 effective 90 days after Oct. 13, 19
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of reporting provisions in subsec. (e) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 187 of House Document No. 103–7.
+
+#### Workplace Policies Prohibiting Discrimination and Sexual Harassment
+
+Pub. L. 110–161, div. D, title VII, §716, Dec. 26, 2007, 121 Stat. 2023, provided that: “Hereafter, no department, agency, or instrumentality of the United States receiving appropriated funds under this or any other Act shall obligate or expend any such funds, unless such department, agency, or instrumentality has in place, and will continue to administer in good faith, a written policy designed to ensure that all of its workplaces are free from discrimination and sexual harassment and that all of its workplaces are not in violation of title VII of the Civil Rights Act of 1964 (Public Law 88–352, 78 Stat. 241) \[42 U.S.C. 2000e et seq.\], the Age Discrimination in Employment Act of 1967 (Public Law 90–202, 81 Stat. 602) \[29 U.S.C. 621 et seq.\], and the Rehabilitation Act of 1973 (Public Law 93–112, 87 Stat. 355) \[29 U.S.C. 701 et seq.\].”
 
 #### Discrimination Prohibited in Employment of Civilian Personnel at Facilities Operated by the Department of Defense in Foreign Countries
 

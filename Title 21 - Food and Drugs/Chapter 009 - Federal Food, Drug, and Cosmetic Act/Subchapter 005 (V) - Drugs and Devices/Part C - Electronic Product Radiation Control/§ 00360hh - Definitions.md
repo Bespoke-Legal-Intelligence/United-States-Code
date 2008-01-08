@@ -10,7 +10,7 @@ As used in this part—
 
 &emsp;(2) the term “electronic product” means (A) any manufactured or assembled product which, when in operation, (i) contains or acts as part of an electronic circuit and (ii) emits (or in the absence of effective shielding or other controls would emit) electronic product radiation, or (B) any manufactured or assembled article which is intended for use as a component, part, or accessory of a product described in clause (A) and which when in operation emits (or in the absence of effective shielding or other controls would emit) such radiation;
 
-&emsp;(3) the term “manufacturer” means any person engaged in the business of manufacturing, assembling, or importing of electronic products;
+&emsp;(3) the term “manufacturer” means any person engaged in the business of manufacturing,assembling, or importing of electronic products;
 
 &emsp;(4) the term “commerce” means (A) commerce between any place in any State and any place outside thereof; and (B) commerce wholly within the District of Columbia; and
 

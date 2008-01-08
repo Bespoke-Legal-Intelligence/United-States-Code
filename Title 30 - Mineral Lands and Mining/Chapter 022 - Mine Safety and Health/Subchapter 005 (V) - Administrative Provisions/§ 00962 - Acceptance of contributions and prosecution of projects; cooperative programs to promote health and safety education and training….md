@@ -1,16 +1,18 @@
 ### §962. Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; recognition and funding of Joseph A. Holmes Safety Association; use of funds for costs of mine rescue and survival operations
 
-The Secretary is authorized to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, or private; the Mine Safety and Health Administration is authorized to promote health and safety education and training in the mining community through cooperative programs with States, industry, and safety associations; the Secretary is authorized to recognize the Joseph A. Holmes Safety Association as a principal safety association and, notwithstanding any other provision of law, may provide funds and, with or without reimbursement, personnel, including service of Mine Safety and Health Administration officials as officers in local chapters or in the national organization; and any funds available to the department may be used, with the approval of the Secretary, to provide for the costs of mine rescue and survival operations in the event of a major disaster.
+The Secretary of Labor is authorized to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, or private; the Mine Safety and Health Administration is authorized to promote health and safety education and training in the mining community through cooperative programs with States, industry, and safety associations; the Secretary is authorized to recognize the Joseph A. Holmes Safety Association as a principal safety association and, notwithstanding any other provision of law, may provide funds and, with or without reimbursement, personnel, including service of Mine Safety and Health Administration officials as officers in local chapters or in the national organization; and any funds available to the Department may be used, with the approval of the Secretary, to provide for the costs of mine rescue and survival operations in the event of a major disaster.
 
-(Pub. L. 109–149, title I, Dec. 30, 2005, 119 Stat. 2841.)
+(Pub. L. 110–161, div. G, title I, Dec. 26, 2007, 121 Stat. 2164.)
 
 #### Codification
 
-Section was enacted as part of the appropriation act cited as the credit to this section, and not as part ofthe Federal Mine Safety and Health Act of 1977 which comprises this chapter.
+Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
 
 #### Similar Provisions
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–149, title I, Dec. 30, 2005, 119 Stat. 2841.
 
 Pub. L. 108–447, div. F, title I, Dec. 8, 2004, 118 Stat. 3120.
 

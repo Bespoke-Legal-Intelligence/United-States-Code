@@ -8,7 +8,7 @@ Unless entitled to a higher retired grade under some other provision of law, any
 
 &emsp;(3) The permanent regular or reserve grade to which he would have been promoted had it not been for the physical disability for which he is retired and which was found to exist as a result of a physical examination.
 
-&emsp;(4) The temporary grade to which he would have been promoted had it not been for the physical disability for which he is retired, if eligibility for that promotion was required to be based on cumulative years of service or years of service in grade and the disability was discovered as a result of a physical examination.
+&emsp;(4) The temporary grade to which he would have been promoted had it not been for the physical disability for which he is retired, if eligibility for that promotion was required to be based on cumulative years of service oryears of service in grade and the disability was discovered as a result of a physical examination.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 105; Pub. L. 104–201, div. A, title V, §577, Sept. 23, 1996, 110 Stat. 2536.)
 

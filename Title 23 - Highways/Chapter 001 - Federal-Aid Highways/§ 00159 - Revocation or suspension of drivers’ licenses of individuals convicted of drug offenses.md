@@ -28,7 +28,7 @@ Requirements.—A State meets the requirements of this paragraph if—
 
 &emsp;&emsp;(B) the Governor of the State—
 
-&emsp;&emsp;&emsp;(i) submits to the Secretary no earlier than the adjournment sine die of the first regularly scheduled session of the State's legislature which begins after the effective date of this section a written certification stating that the Governor is opposed to the enactment or enforcement in the State of a law described in subparagraph (A), relating to the revocation, suspension, issuance, or reinstatement of drivers’ licenses to convicted drug offenders; and
+&emsp;&emsp;&emsp;(i) submits to the Secretary no earlier than the adjournment sine die of the first regularly scheduled session of the State's legislature which begins after the effective date of this section a written certificationstating that the Governor is opposed to the enactment or enforcement in the State of a law described in subparagraph (A), relating to the revocation, suspension, issuance, or reinstatement of drivers’ licenses to convicted drug offenders; and
 
 &emsp;&emsp;&emsp;(ii) submits to the Secretary a written certification that the legislature (including both Houses where applicable) has adopted a resolution expressing its opposition to a law described in clause (i).
 
@@ -100,7 +100,7 @@ The date of enactment of the Transportation Equity Act for the 21st Century, ref
 
 The effective date of this section, referred to in subsec. (a)(1), (2), (3)(B)(i), is Nov. 5, 1990. See section 333(e) of Pub. L. 102–143, set out as a note below.
 
-The Controlled Substances Act, referred to in subsecs. (a)(3)(A)(i)(I) and (c)(2)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (a)(3)(A)(i)(I) and (c)(2)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) ofchapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
 
@@ -108,7 +108,7 @@ The Controlled Substances Act, referred to in subsecs. (a)(3)(A)(i)(I) and (c)(2
 
 Subsec. (b)(1)(A)(i). Pub. L. 105–178, §1103(<i>l</i>)(3)(E)(ii)(I), substituted “section 104(b)(5)(A) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)(A)”.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 105–178, §1103(<i>l</i>)(3)(E)(ii)(II), substituted “section 104(b)(5)(B) (asin effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)(B)”.
+Subsec. (b)(1)(A)(ii). Pub. L. 105–178, §1103(<i>l</i>)(3)(E)(ii)(II), substituted “section 104(b)(5)(B) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century)” for “section 104(b)(5)(B)”.
 
 Subsec. (b)(1)(A)(iii). Pub. L. 105–178, §1103(<i>l</i>)(3)(E)(i), substituted “(5) (as in effect on the day before the date of enactment of the Transportation Equity Act for the 21st Century) of” for “(5) of” before “section 104(b)”.
 

@@ -8,7 +8,7 @@ The last signatory operator of any individual who, as of February 1, 1993, is re
 
 #### (1) In general
 
-&emsp;The last signatory operator of any individual who, as of February 1, 1993, is not receivingretiree health benefits under the individual employer plan maintained by the last signatory operator pursuant to a 1978 or subsequent coal wage agreement, but has met the age and service requirements for eligibility to receive benefits under such plan as of such date, shall, at such time as such individual becomes eligible to receive benefits under such plan, provide health benefits coverage to such individual and the individual's eligible beneficiaries which is described in paragraph (2). This paragraph shall not apply to any individual who retired from the coal industry after September 30, 1994, or any eligible beneficiary of such individual.
+&emsp;The last signatory operator of any individual who, as of February 1, 1993, is not receiving retiree health benefits under the individual employer plan maintained by the last signatory operator pursuant to a 1978 or subsequent coal wage agreement, but has met the age and service requirements for eligibility to receive benefits under such plan as of such date, shall, at such time as such individual becomes eligible to receive benefits under such plan, provide health benefits coverage to such individual and the individual's eligible beneficiaries which is described in paragraph (2). This paragraph shall not apply to any individual who retired from the coal industry after September 30, 1994, or any eligible beneficiary of such individual.
 
 #### (2) Coverage
 
@@ -52,7 +52,7 @@ The last signatory operator of any individual who, as of February 1, 1993, is re
 
 #### (4) Refunds of security
 
-&emsp;The remaining amount of any security provided under this subsection (and earnings thereon) shall be refunded to the last signatory operator as of the earlier of—
+&emsp;The remaining amount of any security provided under this subsection (and earningsthereon) shall be refunded to the last signatory operator as of the earlier of—
 
 &emsp;&emsp;(A) the termination of the obligations of the last signatory operator under this section, or
 
@@ -80,7 +80,7 @@ For purposes of this part and part II—
 
 #### (2) Reassignment upon purchase
 
-&emsp;If a person becomes a successor of a last signatory operator after the enactment date, the last signatory operator may transfer any liability of such operator under this chapter with respect to an eligible beneficiary to such successor, and such successor shall be treatedas the last signatory operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the last signatory operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. A last signatory operator shall notify the trustees of the 1992 UMWA Benefit Plan of any transfer described in this paragraph.
+&emsp;If a person becomes a successor of a last signatory operator after the enactment date, the last signatory operator may transfer any liability of such operator under this chapter with respect to an eligible beneficiary to such successor, and such successor shall be treated as the last signatory operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the last signatory operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. A last signatory operator shall notify the trustees of the 1992 UMWA Benefit Plan of any transfer described in this paragraph.
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3051; amended Pub. L. 109–432, div. C, title II, §211(b), Dec. 20, 2006, 120 Stat. 3022.)
 

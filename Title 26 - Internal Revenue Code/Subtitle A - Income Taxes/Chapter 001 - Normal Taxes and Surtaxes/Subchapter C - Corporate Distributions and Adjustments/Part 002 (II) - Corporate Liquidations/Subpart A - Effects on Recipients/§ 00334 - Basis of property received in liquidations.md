@@ -18,7 +18,7 @@ If property is received in a distribution in complete liquidation, and if gain o
 
 &emsp;For purposes of this subsection, the term “corporate distributee” means only the corporation which meets the stock ownership requirements specified in section 332(b).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 104; Pub. L. 89–809, title II, §202(a), (b), Nov. 13, 1966, 80 Stat. 1576; Pub. L. 94–455, title XIX, §§1901(a)(45), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1772, 1834; Pub. L. 97–248, title II, §§222(e)(1)(C), 224(b), Sept. 3, 1982, 96 Stat. 480, 488; Pub. L. 99–514, title VI, §631(e)(4), Oct. 22, 1986, 100 Stat. 2273; Pub. L. 100–647, title I, §1006(e)(6), Nov. 10, 1988, 102 Stat. 3401; Pub. L. 105–277, div. J, title III, §3001(b)(2), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, §836(b), Oct. 22, 2004, 118 Stat. 1595; Pub. L. 109–135, title IV, §403(dd)(1), Dec. 21, 2005, 119 Stat. 2630.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 104; Pub. L. 89–809, title II, §202(a), (b), Nov. 13, 1966, 80 Stat. 1576; Pub. L. 94–455, title XIX, §§1901(a)(45), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1772, 1834; Pub. L. 97–248, title II, §§222(e)(1)(C), 224(b), Sept. 3,1982, 96 Stat. 480, 488; Pub. L. 99–514, title VI, §631(e)(4), Oct. 22, 1986, 100 Stat. 2273; Pub. L. 100–647, title I, §1006(e)(6), Nov. 10, 1988, 102 Stat. 3401; Pub. L. 105–277, div. J, title III, §3001(b)(2), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, §836(b), Oct. 22, 2004, 118 Stat. 1595; Pub. L. 109–135, title IV, §403(dd)(1), Dec. 21, 2005, 119 Stat. 2630.)
 
 #### Amendments
 
@@ -26,7 +26,7 @@ If property is received in a distribution in complete liquidation, and if gain o
 
 “(A) in any case in which gain or loss is recognized by the liquidating corporation with respect to such property, or
 
-“(B) in any case in which the liquidating corporation is a foreign corporation, the corporate distributee is adomestic corporation, and the corporate distributee's aggregate adjusted bases of property described in section 362(e)(1)(B) which is distributed in such liquidation would (but for this subparagraph) exceed the fair market value of such property immediately after such liquidation.”
+“(B) in any case in which the liquidating corporation is a foreign corporation, the corporate distributee is a domestic corporation, and the corporate distributee's aggregate adjusted bases of property described in section 362(e)(1)(B) which is distributed in such liquidation would (but for this subparagraph) exceed the fair market value of such property immediately after such liquidation.”
 
 2004—Subsec. (b)(1). Pub. L. 108–357 reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If property is received by a corporate distributee in a distribution in a complete liquidation to which section 332 applies (or in a transfer described in section 337(b)(1)), the basis of such property in the hands of such distributee shall be the same as it would be in the hands of the transferor; except that, in any case in which gain or loss is recognized by the liquidating corporation with respect to such property, the basis of such property in the hands of such distributee shall be the fair market value of the property at the time of the distribution.”
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions andspecial and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 #### Effective Date of 1982 Amendment
 

@@ -22,9 +22,5 @@ For purposes of this subchapter—
 
 #### Prior Provisions
 
-A prior section 702 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, amended section 1701 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L.87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 702 affected section 1701.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+A prior section 702 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, amended section 1701 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 702 affected section 1701.
 

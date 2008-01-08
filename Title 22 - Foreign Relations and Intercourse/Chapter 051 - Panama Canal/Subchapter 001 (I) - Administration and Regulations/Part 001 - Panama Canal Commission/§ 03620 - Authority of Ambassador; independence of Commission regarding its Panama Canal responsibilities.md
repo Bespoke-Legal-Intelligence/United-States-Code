@@ -12,7 +12,7 @@ The United States Ambassador to the Republic of Panama shall have full responsib
 
 #### (c) Agreements for United States to provide post-transfer administrative services for certain employee benefits
 
-(1) The Secretary of State may enter into one or more agreements to provide for the UnitedStates to furnish administrative services relating to the benefits described in paragraph (2) after December 31, 1999, and to establish appropriate procedures for providing advance funding for the services.
+(1) The Secretary of State may enter into one or more agreements to provide for the United States to furnish administrative services relating to the benefits described in paragraph (2) after December 31, 1999, and to establish appropriate procedures for providing advance funding for the services.
 
 (2) The benefits referred to in paragraph (1) are the following:
 

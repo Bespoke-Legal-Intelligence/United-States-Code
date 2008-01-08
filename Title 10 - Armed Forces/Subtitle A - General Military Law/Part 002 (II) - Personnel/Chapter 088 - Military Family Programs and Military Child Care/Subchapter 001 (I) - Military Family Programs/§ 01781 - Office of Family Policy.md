@@ -82,7 +82,7 @@ Report.—
 
 &emsp;“(1)
 
-Report required.—Not later than 270 days after the date on which funds are first obligated forthe program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program.
+Report required.—Not later than 270 days after the date on which funds are first obligated for the program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program.
 
 &emsp;“(2)
 

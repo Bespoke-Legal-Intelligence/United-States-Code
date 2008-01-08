@@ -18,7 +18,7 @@ The Congress finds the following:
 
 &emsp;&emsp;(C) no single site or route completely reflects and characterizes the Underground Railroad, since its story and associated resources involve networks and regions of the country rather than individual sites and trails; and
 
-&emsp;&emsp;(D) establishment of a variety of partnerships between the Federal Government andother levels of government and the private sector would be most appropriate for the protection and interpretation of the Underground Railroad.
+&emsp;&emsp;(D) establishment of a variety of partnerships between the Federal Government and other levels of government and the private sector would be most appropriate for the protection and interpretation of the Underground Railroad.
 
 &emsp;(5) The National Park Service can play a vital role in facilitating the national commemoration of the Underground Railroad.
 

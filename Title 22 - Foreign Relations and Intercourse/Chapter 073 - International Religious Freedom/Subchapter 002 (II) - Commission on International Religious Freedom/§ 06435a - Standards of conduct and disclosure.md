@@ -80,5 +80,9 @@ The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E),
 
 2002—Subsec. (c)(1). Pub. L. 107–228 substituted “The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $100,000 in any fiscal year to procure such services.” for “The Commission may not procure temporary and intermittent services under section 3109(b) of title 5 or under other contracting authority other than that allowed under this subchapter.”
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 <i><sup>1</sup></i><i> So in original. The comma probably should follow “member”.</i>
 

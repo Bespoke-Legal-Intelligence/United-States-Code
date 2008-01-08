@@ -30,7 +30,7 @@ In this section:
 
 #### (b) Demonstration projects
 
-The Secretary shall establish a 5-year demonstration program under which the Secretaryshall approve demonstration projects that examine health delivery factors that encourage the delivery of improved quality in patient care, including—
+The Secretary shall establish a 5-year demonstration program under which the Secretary shall approve demonstration projects that examine health delivery factors that encourage the delivery of improved quality in patient care, including—
 
 &emsp;(1) the provision of incentives to improve the safety of care provided to beneficiaries;
 

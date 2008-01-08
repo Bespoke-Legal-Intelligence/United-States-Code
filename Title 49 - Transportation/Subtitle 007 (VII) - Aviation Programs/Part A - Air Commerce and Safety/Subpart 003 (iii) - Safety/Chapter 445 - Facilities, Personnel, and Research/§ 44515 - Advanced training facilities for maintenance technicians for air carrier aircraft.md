@@ -54,7 +54,7 @@ Completion.—The revised and updated training standards required by subsection 
 
 “(e)
 
-Periodic Reviews and Updates.—The Administrator shall review the content of the curriculum standards for training airframe and powerplant mechanics referred to in subsection (a) every 3 years after completion of the revised and updated training standards required under subsection (a) as necessary to reflect current technology and maintenance practices.”
+Periodic Reviews and Updates.—The Administrator shall review the content of the curriculumstandards for training airframe and powerplant mechanics referred to in subsection (a) every 3 years after completion of the revised and updated training standards required under subsection (a) as necessary to reflect current technology and maintenance practices.”
 
 #### Improved Training for Airframe and Powerplant Mechanics
 

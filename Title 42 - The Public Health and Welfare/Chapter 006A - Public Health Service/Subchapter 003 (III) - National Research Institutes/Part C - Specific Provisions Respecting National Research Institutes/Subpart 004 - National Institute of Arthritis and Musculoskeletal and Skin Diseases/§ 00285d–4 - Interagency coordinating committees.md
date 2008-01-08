@@ -4,7 +4,7 @@
 
 For the purpose of—
 
-&emsp;(1) better coordination of the research activities of all the national research institutesrelating to arthritis, musculoskeletal diseases, and skin diseases, including sports-related disorders; and
+&emsp;(1) better coordination of the research activities of all the national research institutes relating to arthritis, musculoskeletal diseases, and skin diseases, including sports-related disorders; and
 
 &emsp;(2) coordinating the aspects of all Federal health programs and activities relating to arthritis, musculoskeletal diseases, and skin diseases in order to assure the adequacy and technical soundness of such programs and activities and in order to provide for the full communication and exchange of information necessary to maintain adequate coordination of such programs and activities,
 

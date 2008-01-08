@@ -18,7 +18,7 @@ Act of August 21, 1935, referred to in text, is act Aug. 21, 1935, ch. 593, 49 S
 
 Act of June 27, 1960, referred to in text, is Pub. L. 86–523, June 27, 1960, 74 Stat. 220, as amended, which enacted sections 469 to 469c–1 of Title 16. For complete classification of this Act to the Code, see Tables.
 
-Act of April 19, 1945 (43 U.S.C. 377), referred to in text, is act April 19, 1945, ch. 80, 59 Stat. 54, which amended section 377 of this title. For complete classification of this Act to the Code, see Tables.
+Act of April 19, 1945 (43 U.S.C. 377), referred to in text, is act April 19, 1945, ch. 80, 59 Stat. 54, which amendedsection 377 of this title. For complete classification of this Act to the Code, see Tables.
 
 The date of this Act, referred to in text, probably means the date of enactment of Pub. L. 102–377, which enacted this section, and which was approved Oct. 2, 1992.
 

@@ -49,7 +49,7 @@
 
 (E) Any adjustment in date of rank under this paragraph shall be made under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 33; Pub. L. 96–513, title I, §107, Dec. 12, 1980, 94 Stat. 2869; Pub. L. 97–22, §4(h), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(8), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 97–295, §1(11), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–557, §25(c), Oct. 30, 1984, 98Stat. 2873; Pub. L. 99–145, title V, §514(b)(8), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–190, div. A, title XI, §1131(1)(A), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title XVI, §1626, Oct. 5, 1994, 108 Stat. 2962; Pub. L. 104–106, div. A, title XV, §1501(a)(3), Feb. 10, 1996, 110 Stat. 495; Pub. L. 107–107, div. A, title V, §506(a), Dec. 28, 2001, 115 Stat. 1089.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 33; Pub. L. 96–513, title I, §107, Dec. 12, 1980, 94 Stat. 2869; Pub. L. 97–22, §4(h), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(8), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 97–295, §1(11), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–557, §25(c), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–145, title V, §514(b)(8), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–190, div. A, title XI, §1131(1)(A), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title XVI, §1626, Oct. 5, 1994, 108 Stat. 2962; Pub. L. 104–106, div. A, title XV, §1501(a)(3), Feb. 10, 1996, 110 Stat. 495; Pub. L. 107–107, div. A, title V, §506(a), Dec. 28, 2001, 115 Stat. 1089.)
 
 Historical and Revision Notes
 

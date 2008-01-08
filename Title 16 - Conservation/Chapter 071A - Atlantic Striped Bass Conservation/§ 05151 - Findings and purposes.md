@@ -38,3 +38,43 @@ Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Ac
 
 Pub. L. 98–613, §1, Oct. 31, 1984, 98 Stat. 3187, as amended by Pub. L. 105–146, §2, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Atlantic Striped Bass Conservation Act’.”
 
+#### Ex. Ord. No. 13449. Protection of Striped Bass and Red Drum Fish Populations
+
+Ex. Ord. No. 13449, Oct. 20, 2007, 72 F.R. 60531, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, to assist in ensuring faithful execution of the Magnuson-Stevens Fishery Conservation and Management Act, the Atlantic Coastal Fisheries Cooperative Management Act, and the Atlantic Striped Bass Conservation Act (chapters 38, 71, and 71A of title 16, United States Code), and to conserve striped bass and red drum fish, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It shall be the policy of the United States to conserve striped bass and red drum for the recreational, economic, and environmental benefit of the present and future generations of Americans, based on sound science and in cooperation with State, territorial, local, and tribal governments, the private sector, and others, as appropriate.
+
+Sec. 2. <i>Implementation</i>. (a) To carry out the policy set forth in section 1, the Secretary of Commerce shall:
+
+(i) encourage, as appropriate, management under Federal, State, territorial, tribal, and local laws that supports the policy of conserving striped bass and red drum, including State designation as gamefish where the State determines appropriate under applicable law;
+
+(ii) revise current regulations, as appropriate, to include prohibiting the sale of striped bass and red drum caught within the Exclusive Economic Zone of the United States off the Atlantic Ocean and the Gulf of Mexico;
+
+(iii) periodically review the status of the striped bass and red drum populations within waters subject to the jurisdiction of the United States and:
+
+(A) take such actions within the authority of the Secretary of Commerce as may be appropriate to carry out the policy set forth in section 1 of this order; and
+
+(B) recommend to the President such actions as the Secretary may deem appropriate to advance the policy set forth in section 1 that are not within the authority of the Secretary.
+
+(b) Nothing in this order shall preclude or restrict the production, possession, or sale of striped bass or red drum fish that have been produced by aquaculture.
+
+(c) The Secretary of Commerce shall implement subsections 2(a)(i) and (iii), insofar as they relate to Atlantic striped bass, jointly with the Secretary of the Interior, as appropriate.
+
+Sec. 3. <i>Definitions</i>. As used in this order:
+
+(a) “Exclusive Economic Zone of the United States” means the marine area of the United States as defined in Presidential Proclamation 5030 of March 10, 1983, with, for purposes of this order, the inner boundary of that zone being a line coterminous with the seaward boundary of each of the coastal States;
+
+(b) “red drum” means the species <i>Sciaenops ocellatus</i>; and
+
+(c) “striped bass” means the species <i>Morone saxatilis</i>.
+
+Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented in a manner consistent with applicable law (including but not limited to interstate compacts to which the United States has consented by law, treatiesand other international agreements to which the United States is a party, treaties to which the United States and an Indian tribe are parties, and laws of the United States conferring rights on Indian tribes) and subject to the availability of appropriations.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, and legislative proposals.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, entities, officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

@@ -64,9 +64,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 (5) The Drug Enforcement Administration is authorized to investigate offenses punishable by this subsection.
 
-#### (f) Redesignated (g)
-
-#### (g) Violations related to devices
+#### (f) Violations related to devices
 
 (1)(A) Except as provided in subparagraph (B), any person who violates a requirement of this chapter which relates to devices shall be liable to the United States for a civil penalty in an amount not to exceed $15,000 for each such violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding. For purposes of the preceding sentence, a person accredited under paragraph (2) of section 374(g) of this title who is substantially not in compliance with the standards of accreditation under such section, or who poses a threat to public health or fails to act in a manner that is consistent with the purposes of such section, shall be considered to have violated a requirement of this chapter that relates to devices.
 
@@ -74,7 +72,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 &emsp;(i) to any person who violates the requirements of section 360i(a) or 360j(f) of this title unless such violation constitutes (I) a significant or knowing departure from such requirements, or (II) a risk to public health,
 
-&emsp;(ii) to any person who commits minor violations of section 360i(e) or 360i(f) of this title (only with respect to correction reports) if such person demonstrates substantial compliance with such section, or
+&emsp;(ii) to any person who commits minor violations of section 360i(e) or 360i(g) of this title (only with respect to correction reports) if such person demonstrates substantial compliance with such section, or
 
 &emsp;(iii) to violations of section 351(a)(2)(A) of this title which involve one or more devices which are not defective.
 
@@ -82,31 +80,117 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 (B) This paragraph shall not apply to any person who grew the article of food that is adulterated. If the Secretary assesses a civil penalty against any person under this paragraph, the Secretary may not use the criminal authorities under this section to sanction such person for the introduction or delivery for introduction into interstate commerce of the article of food that is adulterated. If the Secretary assesses a civil penalty against any person under this paragraph, the Secretary may not use the seizure authorities of section 334 of this title or the injunction authorities of section 332 of this title with respect to the article of food that is adulterated.
 
-(C) In a hearing to assess a civil penalty under this paragraph, the presiding officer shall have the same authority with regard to compelling testimony or production of documents as a presiding officer has under section 346a(g)(2)(B) of this title. The third sentence of paragraph (3)(A) shall not apply to any investigation under this paragraph.
+(C) In a hearing to assess a civil penalty under this paragraph, the presiding officer shall have the same authority with regard to compelling testimony or production of documents as a presiding officer has under section 346a(g)(2)(B) of this title. The third sentence of paragraph (5)(A) shall not apply to any investigation under this paragraph.
 
-(3)(A) A civil penalty under paragraph (1) or (2) shall be assessed by the Secretary by an order made on the record after opportunity for a hearing provided in accordance with this subparagraph and section 554 of title 5. Before issuing such an order, the Secretary shall give written notice to the person to be assessed a civil penalty under such order of the Secretary's proposal to issue such order and provide such person an opportunity for a hearing on the order. In the course of any investigation, the Secretary may issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
+(3)(A) Any person who violates section 331(jj) of this title shall be subject to a civil monetary penalty of not more than $10,000 for all violations adjudicated in a single proceeding.
+
+(B) If a violation of section 331(jj) of this title is not corrected within the 30-day period following notification under section 282(j)(5)(C)(ii) <sup>2</sup> of title 42, the person shall, in addition to any penalty under subparagraph (A), be subject to a civil monetary penalty of not more than $10,000 for each day of the violation after such period until the violation is corrected.
+
+(4)(A) Any responsible person (as such term is used in section 355–1 of this title) that violates a requirement of section 355(<i>o</i>), 355(p), or 355–1 of this title shall be subject to a civil monetary penalty of—
+
+&emsp;(i) not more than $250,000 per violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding; or
+
+&emsp;(ii) in the case of a violation that continues after the Secretary provides written notice to the responsible person, the responsible person shall be subject to a civil monetary penalty of $250,000 for the first 30-day period (or any portion thereof) that the responsible person continues to be in violation, and such amount shall double for every 30-day period thereafter that the violation continues, not to exceed $1,000,000 for any 30-day period, and not to exceed $10,000,000 for all such violations adjudicated in a single proceeding.
+
+(B) In determining the amount of a civil penalty under subparagraph (A)(ii), the Secretary shall take into consideration whether the responsible person is making efforts toward correcting the violation of the requirement of section 355(<i>o</i>), 355(p), or 355–1 of this title for which the responsible person is subject to such civil penalty.
+
+(5)(A) A civil penalty under paragraph (1), (2), (3), or (4) shall be assessed by the Secretary by an order made on the record after opportunity for a hearing provided in accordance with this subparagraph and section 554 of title 5. Before issuing such an order, the Secretary shall give written notice to the person to be assessed a civil penalty under such order of the Secretary's proposal to issue such order and provide such person an opportunity for a hearing on the order. In the course of any investigation, the Secretary may issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
 
 (B) In determining the amount of a civil penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require.
 
-(C) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which may be assessed under paragraph (1) or (2). The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the person charged.
+(C) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which may be assessed under paragraph (1), (2), (3), or (4). The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the person charged.
 
-(4) Any person who requested, in accordance with paragraph (3)(A), a hearing respecting the assessment of a civil penalty and who is aggrieved by an order assessing a civil penalty may file a petition for judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 60-day period beginning on the date the order making such assessment was issued.
+(6) Any person who requested, in accordance with paragraph (5)(A), a hearing respecting the assessment of a civil penalty and who is aggrieved by an order assessing a civil penalty may file a petition for judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 60-day period beginning on the date the order making such assessment was issued.
 
-(5) If any person fails to pay an assessment of a civil penalty—
+(7) If any person fails to pay an assessment of a civil penalty—
 
-&emsp;(A) after the order making the assessment becomes final, and if such person does not file a petition for judicial review of the order in accordance with paragraph (4), or
+&emsp;(A) after the order making the assessment becomes final, and if such person does not file a petition for judicial review of the order in accordance with paragraph (6), or
 
-&emsp;(B) after a court in an action brought under paragraph (4) has entered a final judgment in favor of the Secretary,
+&emsp;(B) after a court in an action brought under paragraph (6) has entered a final judgment in favor of the Secretary,
 
-> the Attorney General shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (4) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
+> the Attorney General shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (6) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
-(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40; Pub. L. 107–250, title II, §201(c), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–173, title XI, §1121(b)(2), Dec. 8, 2003, 117 Stat. 2469.)
+#### (g) Violations regarding direct-to-consumer advertising
+
+(1) With respect to a person who is a holder of an approved application under section 355 of thistitle for a drug subject to section 353(b) of this title or under section 262 of title 42, any such person who disseminates or causes another party to disseminate a direct-to-consumer advertisement that is false or misleading shall be liable to the United States for a civil penalty in an amount not to exceed $250,000 for the first such violation in any 3-year period, and not to exceed $500,000 for each subsequent violation in any 3-year period. No other civil monetary penalties in this chapter (including the civil penalty in subsection (f)(4)) shall apply to a violation regarding direct-to-consumer advertising. For purposes of this paragraph: (A) Repeated dissemination of the same or similar advertisement prior to the receipt of the written notice referred to in paragraph (2) for such advertisements shall be considered one violation. (B) On and after the date of the receipt of such a notice, all violations under this paragraph occurring in a single day shall be considered one violation. With respect to advertisements that appear in magazines or other publications that are published less frequently than daily, each issue date (whether weekly or monthly) shall be treated as a single day for the purpose of calculating the number of violations under this paragraph.
+
+(2) A civil penalty under paragraph (1) shall be assessed by the Secretary by an order made on the record after providing written notice to the person to be assessed a civil penalty and an opportunity for a hearing in accordance with this paragraph and section 554 of title 5. If upon receipt of the written notice, the person to be assessed a civil penalty objects and requests a hearing, then in the course of any investigation related to such hearing, the Secretary may issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation, including information pertaining to the factors described in paragraph (3).
+
+(3) The Secretary, in determining the amount of the civil penalty under paragraph (1), shall take into account the nature, circumstances, extent, and gravity of the violation or violations, including the following factors:
+
+&emsp;(A) Whether the person submitted the advertisement or a similar advertisement for review under section 379h–1 of this title.
+
+&emsp;(B) Whether the person submitted the advertisement for review if required under section 353b of this title.
+
+&emsp;(C) Whether, after submission of the advertisement as described in subparagraph (A) or (B), the person disseminated or caused another party to disseminate the advertisement before the end of the 45-day comment period.
+
+&emsp;(D) Whether the person incorporated any comments made by the Secretary with regard to the advertisement into the advertisement prior to its dissemination.
+
+&emsp;(E) Whether the person ceased distribution of the advertisement upon receipt of the written notice referred to in paragraph (2) for such advertisement.
+
+&emsp;(F) Whether the person had the advertisement reviewed by qualified medical, regulatory, and legal reviewers prior to its dissemination.
+
+&emsp;(G) Whether the violations were material.
+
+&emsp;(H) Whether the person who created the advertisement or caused the advertisement to be created acted in good faith.
+
+&emsp;(I) Whether the person who created the advertisement or caused the advertisement to be created has been assessed a civil penalty under this provision within the previous 1-year period.
+
+&emsp;(J) The scope and extent of any voluntary, subsequent remedial action by the person.
+
+&emsp;(K) Such other matters, as justice may require.
+
+(4)(A) Subject to subparagraph (B), no person shall be required to pay a civil penalty under paragraph (1) if the person submitted the advertisement to the Secretary and disseminated or caused another party to disseminate such advertisement after incorporating each comment received from the Secretary.
+
+(B) The Secretary may retract or modify any prior comments the Secretary has provided to an advertisement submitted to the Secretary based on new information or changed circumstances, so long as the Secretary provides written notice to the person of the new views of the Secretary on the advertisement and provides a reasonable time for modification or correction of the advertisement prior to seeking any civil penalty under paragraph (1).
+
+(5) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which may be assessed under paragraph (1). The amount of such penalty, when finally determined, or the amount charged upon in compromise, may be deducted from any sums owed by the United States to the person charged.
+
+(6) Any person who requested, in accordance with paragraph (2), a hearing with respect to the assessment of a civil penalty and who is aggrieved by an order assessing a civil penalty, may file a petition for de novo judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 60-day period beginning on the date the order making such assessments was issued.
+
+(7) If any person fails to pay an assessment of a civil penalty under paragraph (1)—
+
+&emsp;(A) after the order making the assessment becomes final, and if such person does not file a petition for judicial review of the order in accordance with paragraph (6), or
+
+&emsp;(B) after a court in an action brought under paragraph (6) has entered a final judgment in favor of the Secretary,
+
+> the Attorney General of the United States shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (6) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
+
+(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, titleI, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40; Pub. L. 107–250, title II, §201(c), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–173, title XI, §1121(b)(2), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 110–85, title II, §226(b), title VIII, §801(b)(2), title IX, §§901(d)(4), 902(b), Sept. 27, 2007, 121 Stat. 854, 920, 940, 943.)
 
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
+Section 282(j)(5)(C)(ii) of title 42, referred to in subsec. (f)(3)(B), was in the original “section 402(j)(5)(C)(ii)”, and was translated as meaning section 402(j)(5)(C)(ii) of the Public Health Service Act to reflect the probable intent of Congress because there is no subsec. (j) of section 402 of The Federal Food, Drug, and Cosmetic Act and section 402(j)(5)(C)(ii) of the Public Health Service Act relates to notification of noncompliance with clinical trial information requirements.
+
 #### Amendments
+
+2007—Subsec. (f). Pub. L. 110–85, §226(b)(1), redesignated subsec. (g) as (f).
+
+Subsec. (f)(1)(B)(ii). Pub. L. 110–85, §226(b)(2), substituted “360i(g)” for “360i(f)”.
+
+Subsec. (f)(2)(C). Pub. L. 110–85, §801(b)(2)(C), substituted “paragraph (5)(A)” for “paragraph (3)(A)”.
+
+Subsec. (f)(3). Pub. L. 110–85, §801(b)(2)(B), added par. (3). Former par. (3) redesignated (5).
+
+Subsec. (f)(4). Pub. L. 110–85, §902(b)(1), added par. (4).
+
+Pub. L. 110–85, §801(b)(2)(A), redesignated par. (4) as (6).
+
+Subsec. (f)(5). Pub. L. 110–85, §801(b)(2)(A), redesignated par. (3) as (5). Former par. (5) redesignated (7).
+
+Subsec. (f)(5)(A), (C). Pub. L. 110–85, §902(b)(2), substituted “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)”.
+
+Pub. L. 110–85, §801(b)(2)(D), substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)”.
+
+Subsec. (f)(6). Pub. L. 110–85, §801(b)(2)(A), (E), redesignated par. (4) as (6) and substituted “paragraph (5)(A)” for “paragraph (3)(A)”.
+
+Subsec. (f)(7). Pub. L. 110–85, §801(b)(2)(A), (F), redesignated par. (5) as (7) and substituted “paragraph (6)” for “paragraph (4)” wherever appearing.
+
+Subsec. (g). Pub. L. 110–85, §901(d)(4), added subsec. (g).
+
+Pub. L. 110–85, §226(b)(1), redesignated subsec. (g) as (f).
 
 2003—Subsec. (b)(6). Pub. L. 108–173, which directed amendment of subsec. (a)(6) by substituting “prescription drug under section 384(b)” for “covered product pursuant to section 384(a)”, was executed by making the substitution in subsec. (b)(6), to reflect the probable intent of Congress.
 
@@ -168,6 +252,10 @@ Subsec. (c)(5). Pub. L. 89–74, §9(d), added cl. (5).
 
 1951—Subsec. (c)(4). Act Oct. 26, 1951, added cl. (4).
 
+#### Effective Date of 2007 Amendment
+
+Amendment by sections 901(d)(4) and 902(b) of Pub. L. 110–85 effective 180 days after Sept. 27, 2007, see section 909 of Pub. L. 110–85, set out as a note under section 331 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Section 330015 of Pub. L. 103–322 provided that the amendment made by that section is effective as of the date on which section 1904 of Pub. L. 101–647, which amended this section, took effect.
@@ -222,11 +310,13 @@ Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violat
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food andDrug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 #### Enforcement
 
 Pub. L. 99–660, title I, §103, Nov. 14, 1986, 100 Stat. 3751, provided that: “For the fines authorized to be imposed under section 303 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 333\], see section 3623 of title 18, United States Code, for the period ending October 31, 1986 \[probably should be October 31, 1987\], and sections 3559 and 3571 of such title for the period beginning November 1, 1986 \[probably should be November 1, 1987\].”
 
 <i><sup>1</sup></i><i> So in original. Words “of this section” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

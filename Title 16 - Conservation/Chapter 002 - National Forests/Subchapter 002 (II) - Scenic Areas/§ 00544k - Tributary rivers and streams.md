@@ -34,7 +34,7 @@ The Wild and Scenic Rivers Act, referred to in subsec. (a)(3)(B), is Pub. L. 90�
 
 #### Codification
 
-Section 13 of Pub. L. 99–663, which enacted this section, consisted of subsecs. (a) to (d). Subsecs. (a) and (b)of section 13 were classified to this section, and subsecs. (c) and (d) of section 13 amended sections 1274 and 1276 of this title, respectively.
+Section 13 of Pub. L. 99–663, which enacted this section, consisted of subsecs. (a) to (d). Subsecs. (a) and (b) of section 13 were classified to this section, and subsecs. (c) and (d) of section 13 amended sections 1274 and 1276 of this title, respectively.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

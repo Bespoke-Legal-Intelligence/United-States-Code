@@ -1,6 +1,6 @@
 ### §293. Documented vessels touching at foreign ports
 
-Any United States documented vessel with a registry or coastwise endorsement, or both, may engage in trade between one port in the United States and one or more ports within the same, with the privilege of touching at one or more foreign ports during the voyage, and land and take in thereat merchandise, passengers and their baggage, and letters, and mails.
+Any United States documented vessel with a registry or coastwise endorsement, or both, may engage in trade between one port in the UnitedStates and one or more ports within the same, with the privilege of touching at one or more foreign ports during the voyage, and land and take in thereat merchandise, passengers and their baggage, and letters, and mails.
 
 (R.S. §3126; Pub. L. 91–271, title III, §318, June 2, 1970, 84 Stat. 293; Pub. L. 103–182, title VI, §686(a)(2), Dec. 8, 1993, 107 Stat. 2220; Pub. L. 104–295, §21(e)(1), Oct. 11, 1996, 110 Stat. 3530.)
 

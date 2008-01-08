@@ -168,7 +168,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the total contract price shall be reduced to take into account the amount of any property permitted to be received in such exchange without recognition of gain,
 
-&emsp;&emsp;(B) the gross profit from such exchange shall be reduced to take into account any amount not recognized by reason of section 1031(b), and
+&emsp;&emsp;(B) the gross profit from such exchange shall be reduced to take into account anyamount not recognized by reason of section 1031(b), and
 
 &emsp;&emsp;(C) the term “payment”, when used in any provision of this section other than subsection (b)(1), shall not include any property permitted to be received in such exchange without recognition of gain.
 
@@ -342,7 +342,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any installment obligation to which paragraph (2)(B) applies, the tax imposed by this chapter for any taxable year for which payment is received on such obligation shall be increased by the amount of interest determined in the manner provided under subparagraph (B).
+&emsp;&emsp;In the case of any installment obligation to which paragraph (2)(B) applies, the taximposed by this chapter for any taxable year for which payment is received on such obligation shall be increased by the amount of interest determined in the manner provided under subparagraph (B).
 
 #### (B) Computation of interest
 
@@ -512,7 +512,7 @@ Change in method of accounting.—In the case of any taxpayer who is required by
 
 &emsp;&emsp;&emsp;“(II) such change shall be treated as made with the consent of the Secretary of the Treasury or his delegate, and
 
-&emsp;&emsp;&emsp;“(III) the net amount of adjustments required by section 481 of the Internal Revenue Code of1986 shall be taken into account over a period not longer than 4 taxable years.
+&emsp;&emsp;&emsp;“(III) the net amount of adjustments required by section 481 of the Internal Revenue Code of 1986 shall be taken into account over a period not longer than 4 taxable years.
 
 &emsp;“(C)
 

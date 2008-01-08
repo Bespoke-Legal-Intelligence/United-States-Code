@@ -4,7 +4,7 @@ Section, Pub. L. 87–70, title II, §207, June 30, 1961, 75 Stat. 165; Pub. L. 
 
 #### Effective Date of Repeal: Savings Provision
 
-Section 503 of Pub. L. 91–609 provided in part for repeal of sections 1701d–3, 1701e, 1701e note, and 1701f of Title 12, Banks and Banking, this section, note below, section 1452a, section 1456 note, and sections 3372, 3373 of this title, effective July 1, 1971, except that the repeal shall not affect contracts, commitments, reservations, or other obligations entered pursuant to such provisions prior to July 1, 1971.
+Section 503 of Pub. L. 91–609 provided in part for repeal of sections 1701d–3, 1701e, 1701e note, and 1701f of Title 12, Banks and Banking, this section, note below,section 1452a, section 1456 note, and sections 3372, 3373 of this title, effective July 1, 1971, except that the repeal shall not affect contracts, commitments, reservations, or other obligations entered pursuant to such provisions prior to July 1, 1971.
 
 #### Report of Self-Help Studies and Demonstrations
 

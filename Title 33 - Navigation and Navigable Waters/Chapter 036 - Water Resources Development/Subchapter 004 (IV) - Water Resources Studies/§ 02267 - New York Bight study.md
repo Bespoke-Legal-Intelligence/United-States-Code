@@ -36,7 +36,7 @@ Purpose.—This New York Bight and Harbor effort will address the engineering, e
 
 “(d)
 
-Coordination With EPA; Reports.—The Secretary shall coordinate fully with the Administrator of the Environmental Protection Agency in carrying outthe study described in the section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water and sediment quality in the New York Bight and Harbor region.
+Coordination With EPA; Reports.—The Secretary shall coordinate fully with the Administrator of the Environmental Protection Agency in carrying out the study described in the section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water and sediment quality in the New York Bight and Harbor region.
 
 “(e)
 

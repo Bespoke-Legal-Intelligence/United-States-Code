@@ -6,7 +6,7 @@ This section may be cited as the “Supporting Teens through Education and Prote
 
 #### (b) Grants authorized
 
-The Attorney General, through the Director of the Office on Violence Against Women, is authorized to award grants to middle schools and high schools that work with domestic violenceand sexual assault experts to enable the schools—
+The Attorney General, through the Director of the Office on Violence Against Women, is authorized to award grants to middle schools and high schools that work with domestic violence and sexual assault experts to enable the schools—
 
 &emsp;(1) to provide training to school administrators, faculty, counselors, coaches, healthcare providers, security personnel, and other staff on the needs and concerns of students who experience domestic violence, dating violence, sexual assault, or stalking, and the impact of such violence on students;
 
@@ -58,7 +58,7 @@ In order to ensure the safety of adult, youth, and minor victims of domestic vio
 
 #### (h) Application
 
-To be eligible to be awarded a grant or contract under this section for any fiscal year, amiddle or secondary school, in consultation with an expert as described in subsections (i)(2) and (i)(3) of this section, shall submit an application to the Director at such time and in such manner as the Director shall prescribe.
+To be eligible to be awarded a grant or contract under this section for any fiscal year, a middle or secondary school, in consultation with an expert as described in subsections (i)(2) and (i)(3) of this section, shall submit an application to the Director at such time and in such manner as the Director shall prescribe.
 
 #### (i) Eligible entities
 

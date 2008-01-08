@@ -16,7 +16,7 @@ To promote sound management and conservation of tropical forests of the United S
 
 &emsp;(6) detect and appraise stresses affecting tropical forests caused by insect infestations, diseases, pollution, fire, and non-native animal and plant species, and by the influence of people;
 
-&emsp;(7) determine the causes of changes that are detected through experimentation, intensivemonitoring, and data collection at affected tropical forest sites; and
+&emsp;(7) determine the causes of changes that are detected through experimentation, intensive monitoring, and data collection at affected tropical forest sites; and
 
 &emsp;(8) engage in research, demonstration, education, training, and outreach that furthers the objectives of this subsection.
 

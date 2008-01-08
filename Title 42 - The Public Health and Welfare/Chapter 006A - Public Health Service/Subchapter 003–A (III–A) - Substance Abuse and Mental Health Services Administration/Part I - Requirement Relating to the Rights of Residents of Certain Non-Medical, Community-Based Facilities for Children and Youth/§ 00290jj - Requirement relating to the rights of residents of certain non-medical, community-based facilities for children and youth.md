@@ -58,7 +58,7 @@
 
 #### (1) In general
 
-&emsp;Nothing in this section shall be construed as prohibiting the use of restraints for medical immobilization, adaptive support, or medical protection.
+&emsp;Nothing in this section shall be construed as prohibiting the use of restraints for medicalimmobilization, adaptive support, or medical protection.
 
 #### (2) Current law
 

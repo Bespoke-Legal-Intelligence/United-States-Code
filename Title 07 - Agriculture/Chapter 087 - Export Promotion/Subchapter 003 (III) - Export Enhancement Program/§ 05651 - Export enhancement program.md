@@ -26,7 +26,7 @@ The Commodity Credit Corporation shall carry out an export enhancement program i
 
 #### (3) Disclosure of information
 
-&emsp;The Secretary may, notwithstanding the provisions of section 552 of title 5, provide for withholding from the public the proceduresand guidelines established under paragraphs (2)(A) and (B) if the Secretary determines that release of such information would adversely affect the operation of the program. Nothing in this paragraph shall be construed to authorize the withholding of information, including such procedures and guidelines, from the Congress.
+&emsp;The Secretary may, notwithstanding the provisions of section 552 of title 5, provide for withholding from the public the procedures and guidelines established under paragraphs (2)(A) and (B) if the Secretary determines that release of such information would adversely affect the operation of the program. Nothing in this paragraph shall be construed to authorize the withholding of information, including such procedures and guidelines, from the Congress.
 
 #### (4) Competitive disadvantage
 
@@ -110,7 +110,7 @@ Notwithstanding any other provision of this section, the Commodity Credit Corpor
 
 #### (2) Additional assistance
 
-&emsp;Notwithstanding paragraph (1), if the export sale of any intermediate agricultural productattains the volume of export sales consistent with the volume of the intermediate agricultural product exported by the United States during the Uruguay Round base period years of 1986 through 1990, the Secretary may make available additional amounts under this section for the encouragement of export sales of the intermediate agricultural product.
+&emsp;Notwithstanding paragraph (1), if the export sale of any intermediate agricultural product attains the volume of export sales consistent with the volume of the intermediate agricultural product exported by the United States during the Uruguay Round base period years of 1986 through 1990, the Secretary may make available additional amounts under this section for the encouragement of export sales of the intermediate agricultural product.
 
 (Pub. L. 95–501, title III, §301, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3678; amended Pub. L. 102–237, title III, §311, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 102–511, title VII, §709(b), Oct. 24, 1992, 106 Stat. 3352; Pub. L. 103–465, title IV, §411(a)(3), (4), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, §245, Apr. 4, 1996, 110 Stat. 968; Pub. L. 107–171, title III, §3104(a), May 13, 2002, 116 Stat. 290.)
 

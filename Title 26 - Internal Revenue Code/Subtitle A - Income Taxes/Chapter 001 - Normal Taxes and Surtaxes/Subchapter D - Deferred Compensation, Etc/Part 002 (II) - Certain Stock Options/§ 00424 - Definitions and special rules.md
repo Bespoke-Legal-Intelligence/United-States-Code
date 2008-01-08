@@ -44,7 +44,7 @@ For purposes of this part, if stock is received by an individual in a distributi
 
 #### (B) Statutory option stock
 
-&emsp;&emsp;For purpose of subparagraph (A), the term “statutory option stock” means any stockacquired through the exercise of an incentive stock option or an option granted under an employee stock purchase plan.
+&emsp;&emsp;For purpose of subparagraph (A), the term “statutory option stock” means any stock acquired through the exercise of an incentive stock option or an option granted under an employee stock purchase plan.
 
 #### (4) Transfers between spouses or incident to divorce
 
@@ -116,7 +116,7 @@ A prior section 424, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 
 
 #### Amendments
 
-1996—Subsec. (c)(3)(B). Pub. L. 104–188 substituted “an incentive stock option or an option granted under anemployee stock purchase plan” for “a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option”.
+1996—Subsec. (c)(3)(B). Pub. L. 104–188 substituted “an incentive stock option or an option granted under an employee stock purchase plan” for “a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option”.
 
 1990—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 425 of this title as this section.
 

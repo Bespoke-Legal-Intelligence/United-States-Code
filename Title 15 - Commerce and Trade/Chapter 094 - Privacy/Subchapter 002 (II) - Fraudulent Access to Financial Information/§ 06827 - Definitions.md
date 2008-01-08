@@ -36,7 +36,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (D) Certain persons and entities specifically excluded
 
-&emsp;&emsp;The term “financial institution” does not include any person or entity with respect to any financial activity that is subject to the jurisdiction of the Commodity Futures Trading Commission under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] and does not include the Federal Agricultural Mortgage Corporation or any entity chartered and operating under the Farm Credit Act of 1971 \[12 U.S.C. 2001 et seq.\].
+&emsp;&emsp;The term “financial institution” does not include any person or entity with respect toany financial activity that is subject to the jurisdiction of the Commodity Futures Trading Commission under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] and does not include the Federal Agricultural Mortgage Corporation or any entity chartered and operating under the Farm Credit Act of 1971 \[12 U.S.C. 2001 et seq.\].
 
 #### (E) Further definition by regulation
 

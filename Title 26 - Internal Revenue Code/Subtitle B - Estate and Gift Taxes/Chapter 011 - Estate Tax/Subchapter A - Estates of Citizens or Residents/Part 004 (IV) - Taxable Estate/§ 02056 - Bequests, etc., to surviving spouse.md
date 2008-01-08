@@ -214,7 +214,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any property with respect to which a deduction would be allowable under subsection (a) but for this subsection, the determination of whether a trust is a qualified domestic trust shall be made—
+&emsp;&emsp;In the case of any property with respect to which a deduction would be allowable undersubsection (a) but for this subsection, the determination of whether a trust is a qualified domestic trust shall be made—
 
 &emsp;&emsp;&emsp;(i) as of the date on which the return of the tax imposed by this chapter is made, or
 
@@ -294,7 +294,7 @@ Subsec. (c)(2)(B). Pub. L. 94–455, §1902(a)(12)(A), struck out “Territory,�
 
 Subsecs. (d), (e). Pub. L. 94–455, §2009(b)(4)(D), redesignated subsec. (e) as (d). Former subsec. (d), which related to disclaimers by the surviving spouse or by other persons, was struck out.
 
-1966—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if the person does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
+1966—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if theperson does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
 
 #### Effective Date of 1997 Amendment
 
@@ -364,7 +364,7 @@ Extension of time for election out.—The time for making an election under sect
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective as if included in the amendment made by section 403 of the EconomicRecovery Tax Act of 1981 \[Pub. L. 97–34, see Effective Date of 1981 Amendment note below\], see section 1027(c) of Pub. L. 98–369, set out as a note under section 2053 of this title.
+Amendment by Pub. L. 98–369 effective as if included in the amendment made by section 403 of the Economic Recovery Tax Act of 1981 \[Pub. L. 97–34, see Effective Date of 1981 Amendment note below\], see section 1027(c) of Pub. L. 98–369, set out as a note under section 2053 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -382,7 +382,7 @@ Section 403(e) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §10
 
 &emsp;“(A) the decedent dies after December 31, 1981,
 
-&emsp;“(B) by reason of the death of the decedent property passes from the decedent or is acquired from the decedent under a will executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], or a trust created before such date, which contains a formula expressly providing that the spouse is to receive the maximum amount of property qualifying for the marital deduction allowable by Federal law,
+&emsp;“(B) by reason of the death of the decedent property passes from the decedent or is acquired from the decedent under a will executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], or a trust created before such date, which contains a formula expressly providing thatthe spouse is to receive the maximum amount of property qualifying for the marital deduction allowable by Federal law,
 
 &emsp;“(C) the formula referred to in subparagraph (B) was not amended to refer specifically to an unlimited marital deduction at any time after the date which is 30 days after the date of enactment of this Act \[Aug. 13, 1981\], and before the death of the decedent, and
 

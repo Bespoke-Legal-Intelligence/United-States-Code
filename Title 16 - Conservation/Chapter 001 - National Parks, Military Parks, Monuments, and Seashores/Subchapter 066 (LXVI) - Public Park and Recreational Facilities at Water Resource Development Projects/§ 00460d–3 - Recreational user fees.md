@@ -8,7 +8,7 @@ No entrance or admission fees shall be collected after March 31, 1970, by any of
 
 #### (1) Establishment and collection
 
-&emsp;Notwithstanding section 460<i>l</i>–6a(b) <sup>1</sup> of this title, the Secretary of the Army is authorized, subject to paragraphs (2) and (3), to establish and collect fees for the use of developed recreation sites and facilities, including campsites, swimming beaches, and boat launching ramps but excluding a site or facility which includes only a boat launch ramp and a courtesy dock.
+&emsp;Notwithstanding section 460<i>l</i>–6a(b) <sup>1</sup> of this title, the Secretary of the Army is authorized, subject to paragraphs (2) and (3), to establishand collect fees for the use of developed recreation sites and facilities, including campsites, swimming beaches, and boat launching ramps but excluding a site or facility which includes only a boat launch ramp and a courtesy dock.
 
 #### (2) Exemption of certain facilities
 
@@ -48,9 +48,11 @@ Annual pass.—The evaluation under paragraph (1) shall include the establishmen
 
 “(3)
 
-Report.—Not later than December 31, 1999, the Secretary shall transmit to Congress a report on theresults of the evaluation carried out under this subsection, together with recommendations concerning whether annual passes for individual projects should be offered on a nationwide basis.
+Report.—Not later than December 31, 1999, the Secretary shall transmit to Congress a report on the results of the evaluation carried out under this subsection, together with recommendations concerning whether annual passes for individual projects should be offered on a nationwide basis.
 
 “(4)
 
 Expiration of authority.—The authority to establish an annual pass under paragraph (2) shall expire on the \[sic\] December 31, 2003.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

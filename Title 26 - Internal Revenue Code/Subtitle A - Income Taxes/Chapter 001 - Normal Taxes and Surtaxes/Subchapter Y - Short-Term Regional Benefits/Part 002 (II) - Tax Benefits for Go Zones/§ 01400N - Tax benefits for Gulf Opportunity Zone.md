@@ -86,6 +86,20 @@
 
 &emsp;This subsection shall not apply to the portion of an issue which (if issued as a separate issue) would be treated as a qualified bond or as a bond that is not a private activity bond (determined without regard to paragraph (1)), if the issuer elects to so treat such portion.
 
+#### (7) Special rule for repairs and reconstructions
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of section 143 and this subsection, any qualified GO Zone repair or reconstruction shall be treated as a qualified rehabilitation.
+
+#### (B) Qualified Go Zone repair or reconstruction
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “qualified GO Zone repair or reconstruction” means any repair of damage caused by Hurricane Katrina, Hurricane Rita, or Hurricane Wilma to a building located in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone (or reconstruction of such building in the case of damage constituting destruction) if the expenditures for such repair or reconstruction are 25 percent or more of the mortgagor's adjusted basis in the residence. For purposes of the preceding sentence, the mortgagor's adjusted basis shall be determined as of the completion of the repair or reconstruction or, if later, the date on which the mortgagor acquires the residence.
+
+#### (C) Termination
+
+&emsp;&emsp;This paragraph shall apply only to owner-financing provided after the date of the enactment of this paragraph and before January 1, 2011.
+
 #### (b) Advance refundings of certain tax-exempt bonds
 
 #### (1) In general
@@ -156,7 +170,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of section 42, in the case of property placed in service during 2006, 2007, or 2008, the Gulf Opportunity Zone, the Rita GO Zone, and the Wilma GO Zone—
+&emsp;&emsp;For purposes of section 42, in the case of property placed in service during the period beginning on January 1, 2006, and ending on December 31, 2010, the Gulf Opportunity Zone, the Rita GO Zone, and the Wilma GO Zone—
 
 &emsp;&emsp;&emsp;(i) shall be treated as difficult development areas designated under subclause (I) of section 42(d)(5)(C)(iii), and
 
@@ -168,7 +182,7 @@
 
 &emsp;&emsp;&emsp;(i) housing credit dollar amounts allocated during the period beginning on January 1, 2006, and ending on December 31, 2008, and
 
-&emsp;&emsp;&emsp;(ii) buildings placed in service during such period to the extent that paragraph (1) of section 42(h) does not apply to any building by reason of paragraph (4) thereof, but only with respect to bonds issued after December 31, 2005.
+&emsp;&emsp;&emsp;(ii) buildings placed in service during the period described in subparagraph (A) to the extent that paragraph (1) of section 42(h) does not apply to any building by reason of paragraph (4) thereof, but only with respect to bonds issued after December 31, 2005.
 
 #### (4) Special rule for applying income tests
 
@@ -182,7 +196,15 @@
 
 > &emsp;section 42 shall be applied by substituting “national nonmetropolitan median gross income (determined under rules similar to the rules of section 142(d)(2)(B))” for “area median gross income” in subparagraphs (A) and (B) of section 42(g)(1).
 
-#### (5) Definitions
+#### (5) Time for making low-income housing credit allocations
+
+&emsp;Section 42(h)(1)(B) shall not apply to an allocation of housing credit dollar amount to a building located in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone, if such allocation is made in 2006, 2007, or 2008, and such building is placed in service before January 1, 2011.
+
+#### (6) Community development block grants not taken into account in determining if buildings are federally subsidized
+
+&emsp;For purpose of applying section 42(i)(2)(D) to any building which is placed in service in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone during the period beginning on January 1, 2006, and ending on December 31, 2010, a loan shall not be treated as a below market Federal loan solely by reason of any assistance provided under section 106, 107, or 108 of the Housing and Community Development Act of 1974 by reason of section 122 of such Act or any provision of the Department of Defense Appropriations Act, 2006, or the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006.
+
+#### (7) Definitions
 
 &emsp;Any term used in this subsection which is also used in section 42 shall have the same meaning as when used in such section.
 
@@ -256,7 +278,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any specified Gulf Opportunity Zone extension property, paragraph\(2)(A) shall be applied without regard to clause (v) thereof.
+&emsp;&emsp;In the case of any specified Gulf Opportunity Zone extension property, paragraph (2)(A) shall be applied without regard to clause (v) thereof.
 
 #### (B) Specified Gulf Opportunity Zone extension property
 
@@ -298,7 +320,19 @@
 
 #### (2) Qualified section 179 Gulf Opportunity Zone property
 
-&emsp;For purposes of this subsection, the term “qualified section 179 Gulf Opportunity Zone property” means section 179 property (as defined in section 179(d)) which is qualified Gulf Opportunity Zone property (as defined in subsection (d)(2) without regard to subsection (d)(6)).
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “qualified section 179 Gulf Opportunity Zone property” means section 179 property (as defined in section 179(d)) which is qualified Gulf Opportunity Zone property (as defined in subsection (d)(2) without regard to subsection (d)(6)).
+
+#### (B) Extension for certain property
+
+&emsp;&emsp;In the case of property substantially all of the use of which is in one or more specified portions of the GO Zone (as defined by subsection (d)(6)), such term shall include section 179 property (as so defined) which is described in subsection (d)(2), determined—
+
+&emsp;&emsp;&emsp;(i) without regard to subsection (d)(6), and
+
+&emsp;&emsp;&emsp;(ii) by substituting “2008” for “2007” in subparagraph (A)(v) thereof.
 
 #### (3) Coordination with empowerment zones and renewal communities
 
@@ -732,13 +766,37 @@ For purposes of determining if any residential rental project meets the requirem
 
 &emsp;&emsp;&emsp;Clause (i)(II) shall not apply to any real property if the portion so dedicated is less than 100 square feet.
 
-(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943.)
+(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (a)(2)(D), (b)(1), (2), and (<i>o</i>)(3), is the date of enactment of Pub. L. 109–135, which was approved Dec. 21, 2005.
 
+The date of the enactment of this paragraph, referred to in subsec. (a)(7)(C), is the date of enactment of Pub. L. 110–28, which was approved May 25, 2007.
+
+Sections 106, 107, 108, and 122 of the Housing and Community Development Act of 1974, referred to in subsec. (c)(6), are classified to sections 5306, 5307, 5308, and 5321, respectively, of Title 42, The Public Health and Welfare.
+
+The Department of Defense Appropriations Act, 2006, referred to in subsec. (c)(6), is div. A of Pub. L. 109–148, Dec. 30, 2005, 119 Stat. 2680. For complete classification of this Act to the Code, see Tables.
+
+The Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, referred to in subsec. (c)(6), is Pub. L. 109–234, June 15, 2006, 120 Stat. 418. For complete classification of this Act to the Code, see Tables.
+
 #### Amendments
+
+2007—Subsec. (a)(7). Pub. L. 110–28, §8223, added par. (7).
+
+Subsec. (c)(3)(A). Pub. L. 110–28, §8222(b)(1), substituted “the period beginning on January 1, 2006, and ending on December 31, 2010” for “2006, 2007, or 2008”.
+
+Subsec. (c)(3)(B)(ii). Pub. L. 110–28, §8222(b)(2), substituted “the period described in subparagraph (A)” for “such period”.
+
+Subsec. (c)(5). Pub. L. 110–28, §8222(a), added par. (5). Former par. (5) redesignated (6).
+
+Subsec. (c)(6). Pub. L. 110–28, §8222(c), added par. (6). Former par. (6) redesignated (7).
+
+Pub. L. 110–28, §8222(a), redesignated par. (5) as (6).
+
+Subsec. (c)(7). Pub. L. 110–28, §8222(c), redesignated par. (6) as (7).
+
+Subsec. (e)(2). Pub. L. 110–28, §8221, substituted “this subsection—”, subpar. (A) heading, and “The term” for “this subsection, the term” and added subpar. (B).
 
 2006—Subsec. (d)(6). Pub. L. 109–432, §120(a), added par. (6).
 

@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (2) Special dependency test in case of divorced parents, etc.
 
-&emsp;If paragraph (2) or (4) of section 152(e) applies to any child with respect to any calendar year, in the case of any taxable year beginning in such calendar year, such child shall be treated as described in paragraph (1)(B) with respect to the custodial parent (within the meaning of section 152(e)(1)) and not with respect to the noncustodial parent.
+&emsp;If section 152(e) applies to any child with respect to any calendar year, in the case of any taxable year beginning in such calendar year, such child shall be treated as described in paragraph (1)(B) with respect to the custodial parent (as defined in section 152(e)(4)(A)) and not with respect to the noncustodial parent.
 
 #### (e) Qualified health insurance
 
@@ -206,7 +206,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (1) Coordination with advance payments of credit
 
-&emsp;With respect to any taxable year, the amount which would (but for this subsection) be allowed as a credit to the taxpayer under subsection (a) shall be reduced (but not below zero) by the aggregate amount paid on behalf of such taxpayer under section 7527 for months beginning in such taxable year.
+&emsp;With respect to any taxable year, the amount which would (but for this subsection)be allowed as a credit to the taxpayer under subsection (a) shall be reduced (but not below zero) by the aggregate amount paid on behalf of such taxpayer under section 7527 for months beginning in such taxable year.
 
 #### (2) Coordination with other deductions
 
@@ -254,7 +254,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 &emsp;The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
-(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183.)
+(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485.)
 
 #### References in Text
 
@@ -275,6 +275,8 @@ A prior section 35 was renumbered section 36 of this title.
 Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 1958, Pub. L. 85–866, title I, §41(b), 72 Stat. 1639; Feb. 26, 1964, Pub. L. 88–272, title II, §201(d)(2), 78 Stat. 32, related to partially tax-exempt interest received by individuals, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(2), Oct. 4, 1976, 90 Stat. 1764, effective with respect to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+2007—Subsec. (d)(2). Pub. L. 110–172 struck out “paragraph (2) or (4) of” before “section 152(e)” and substituted “(as defined in section 152(e)(4)(A))” for “(within the meaning of section 152(e)(1))”.
 
 2004—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a).”
 

@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 June 10, 1948, ch. 434, 62 Stat. 351.
 
-The authority of the President to prescribe rules is added on authority of former section 633(1), which is carried into section 3302. The section is rewritten as ageneral prohibition instead of specifying the personnel actions included in former section 633(2)9. The words “in an Executive agency or in the competitive service” are added for clarity.
+The authority of the President to prescribe rules is added on authority of former section 633(1), which is carried into section 3302. The section is rewritten as a general prohibition instead of specifying the personnel actions included in former section 633(2)9. The words “in an Executive agency or in the competitive service” are added for clarity.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

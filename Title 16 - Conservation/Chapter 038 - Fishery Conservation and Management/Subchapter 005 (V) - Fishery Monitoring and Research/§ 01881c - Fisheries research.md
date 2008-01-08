@@ -48,6 +48,10 @@ A prior section 404 of Pub. L. 94–265, amended section 1362 of this title and 
 
 2007—Subsec. (c)(4). Pub. L. 109–479 struck out “under section 1881 of this title” after “system”.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Study of Contribution of Bycatch to Charitable Organizations
 
 Section 208 of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:

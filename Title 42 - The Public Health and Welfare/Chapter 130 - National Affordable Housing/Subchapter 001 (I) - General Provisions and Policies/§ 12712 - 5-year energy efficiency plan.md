@@ -76,7 +76,7 @@ Promotion of pilot program.—The Secretary shall encourage participation in the
 
 &emsp;&emsp;“(B) requiring mortgagees and designated lending authorities to provide written notice of the availability and benefits of the pilot program to mortgagors applying for financing in those States designated by the Secretary as participating under the pilot program; and
 
-&emsp;&emsp;“(C) requiring each applicant for a mortgage insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] in those States participating under the pilot program to sign a statement that such applicant has been informed of the program requirements and understands the benefits of energy efficient mortgages.
+&emsp;&emsp;“(C) requiring each applicant for a mortgage insured under title II of the National Housing Act \[12U.S.C. 1707 et seq.\] in those States participating under the pilot program to sign a statement that such applicant has been informed of the program requirements and understands the benefits of energy efficient mortgages.
 
 &emsp;“(5)
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) section 354 or 355 would apply to an exchange but for the fact that
 
-&emsp;&emsp;(B) the property received in the exchange consists not only of property permitted by section 354 or 355 to be received without the recognition of gain but also of other property or money,
+&emsp;&emsp;(B) the property received in the exchange consists not only of property permitted by section 354 or 355 to be received without therecognition of gain but also of other property or money,
 
 > &emsp;then the gain, if any, to the recipient shall be recognized, but in an amount not in excess of the sum of such money and the fair market value of such other property.
 

@@ -2,7 +2,7 @@
 
 Each year the Board shall make a report to the Congress concerning the administration of its functions under this subchapter, including such recommendations as the Board deems necessary or appropriate. In addition, each report of the Board shall include its assessment of the extent to which compliance with the requirements imposed under this subchapter is being achieved.
 
-(Pub. L. 90–321, title I, §114, May 29, 1968, 82 Stat. 151; Pub. L. 96–221, title VI, §610(a), Mar. 31, 1980,94 Stat. 174; Pub. L. 97–375, title II, §209(b), Dec. 21, 1982, 96 Stat. 1825.)
+(Pub. L. 90–321, title I, §114, May 29, 1968, 82 Stat. 151; Pub. L. 96–221, title VI, §610(a), Mar. 31, 1980, 94 Stat. 174; Pub. L. 97–375, title II, §209(b), Dec. 21, 1982, 96 Stat. 1825.)
 
 #### Amendments
 

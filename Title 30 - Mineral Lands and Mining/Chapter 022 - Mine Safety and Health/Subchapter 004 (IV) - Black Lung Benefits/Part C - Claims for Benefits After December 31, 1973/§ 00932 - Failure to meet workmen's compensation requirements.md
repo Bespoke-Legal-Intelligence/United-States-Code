@@ -94,7 +94,7 @@ The effective date of the Black Lung Benefits Amendments of 1981, referred to in
 
 #### Amendments
 
-1986—Subsecs. (a), (i)(4), (j). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsecs. (a), (i)(4), (j). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1984—Subsec. (a). Pub. L. 98–426 substituted “Subject to section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, during” for “During”.
 

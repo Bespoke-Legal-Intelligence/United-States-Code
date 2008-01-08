@@ -90,7 +90,7 @@ Upon determination by the Secretary to terminate financial assistance to any ins
 
 &emsp;&emsp;&emsp;(i) have developed and implemented innovative and effective alcohol prevention programs or drug abuse prevention programs; and
 
-&emsp;&emsp;&emsp;(ii) with respect to an application for an alcohol prevention program award, demonstrate in the application submitted under paragraph (3) that the institution has undertaken efforts designed to change the culture of college drinking consistent with the review criteria described in paragraph (3)(C)(iii).
+&emsp;&emsp;&emsp;(ii) with respect to an application for an alcohol prevention program award, demonstrate in the application submitted under paragraph (3) that the institution has undertaken efforts designed to change the culture of college drinking consistentwith the review criteria described in paragraph (3)(C)(iii).
 
 #### (B) Ceremony
 
@@ -160,7 +160,7 @@ Upon determination by the Secretary to terminate financial assistance to any ins
 
 &emsp;&emsp;(B) have established an alcohol abuse prevention and education program or a drug abuse prevention and education program;
 
-&emsp;&emsp;(C) nominate itself or be nominated by others, such as professional associations or student organizations, to receive the award; and
+&emsp;&emsp;(C) nominate itself or be nominated by others, such as professional associations orstudent organizations, to receive the award; and
 
 &emsp;&emsp;(D) not have received an award under this subsection during the 5 academic years preceding the academic year for which the determination is made.
 

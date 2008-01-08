@@ -192,7 +192,7 @@ Subsec. (h). Pub. L. 98–369, §56(a), added subsec. (h).
 
 Subsec. (g)(2)(B)(ii). Pub. L. 97–448, §306(a)(9)(A), substituted “section 1232(a)(3)(A)” for “section 1232(a)(4)(A)”.
 
-1982—Subsec. (c). Pub. L. 97–248, §204(c)(1), inserted provision that this subsection not apply with respect to any costs to which any deduction is allowed under section 58(i) or 291.
+1982—Subsec. (c). Pub. L. 97–248, §204(c)(1), inserted provision that this subsection not apply with respect toany costs to which any deduction is allowed under section 58(i) or 291.
 
 1981—Subsec. (a)(1)(H). Pub. L. 97–34, §202(d)(1), added subpar. (H).
 

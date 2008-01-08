@@ -20,7 +20,7 @@ The Congress finds and declares that—
 
 #### References in Text
 
-Section 410 of the Act approved November 16, 1973 (87 Stat. 594), commonly known as the Trans-Alaska Pipeline Authorization Act, referred to in par. (5), is section410 of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 594, which is set out as a note under section 1651 of this title.
+Section 410 of the Act approved November 16, 1973 (87 Stat. 594), commonly known as the Trans-Alaska Pipeline Authorization Act, referred to in par. (5), is section 410 of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 594, which is set out as a note under section 1651 of this title.
 
 #### Definitions
 

@@ -54,7 +54,7 @@ Sealed bids shall be opened publicly at the time and place stated in the solicit
 
 #### (f) Preaward debriefings
 
-(1) When the contracting officer excludes an offeror submitting a competitive proposal fromthe competitive range (or otherwise excludes such an offeror from further consideration prior to the final source selection decision), the excluded offeror may request in writing, within 3 days after the date on which the excluded offeror receives notice of its exclusion, a debriefing prior to award. The contracting officer shall make every effort to debrief the unsuccessful offeror as soon as practicable but may refuse the request for a debriefing if it is not in the best interests of the Government to conduct a debriefing at that time.
+(1) When the contracting officer excludes an offeror submitting a competitive proposal from the competitive range (or otherwise excludes such an offeror from further consideration prior to the final source selection decision), the excluded offeror may request in writing, within 3 days after the date on which the excluded offeror receives notice of its exclusion, a debriefing prior to award. The contracting officer shall make every effort to debrief the unsuccessful offeror as soon as practicable but may refuse the request for a debriefing if it is not in the best interests of the Government to conduct a debriefing at that time.
 
 (2) The contracting officer is required to debrief an excluded offeror in accordance with subsection (e) of this section only if that offeror requested and was refused a preaward debriefing under paragraph (1) of this subsection.
 
@@ -92,7 +92,7 @@ If the agency head considers that a bid or proposal evidences a violation of the
 
 (2)(A) In preparing a solicitation for the award of a production contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in subparagraph (B). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
 
-(B) The proposals that the head of an agency is to consider requiring in a solicitation for the award of a production contract are proposals identifying opportunities to ensure that the United States will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to such requirement may include the following:
+(B) The proposals that the head of an agency is to consider requiring in a solicitation for theaward of a production contract are proposals identifying opportunities to ensure that the United States will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to such requirement may include the following:
 
 &emsp;(i) Proposals to provide to the United States the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost to the United States, if any, of acquiring such technical data and the right to use such data.
 

@@ -2,7 +2,7 @@
 
 (a) There shall be conspicuously printed on pilot charts prepared in the National Geospatial-Intelligence Agency the following: “Prepared from data furnished by the National Geospatial-Intelligence Agency of the Department of Defense and by the Department of Commerce, and published at the National Geospatial-Intelligence Agency under the authority of the Secretary of Defense”.
 
-(b) The Secretary of Commerce shall furnish to the National Geospatial-Intelligence Agency,as quickly as possible, all meteorological information received by the Secretary that is necessary for, and of the character used in, preparing pilot charts.
+(b) The Secretary of Commerce shall furnish to the National Geospatial-Intelligence Agency, as quickly as possible, all meteorological information received by the Secretary that is necessary for, and of the character used in, preparing pilot charts.
 
 (Added Pub. L. 97–295, §1(50)(C), Oct. 12, 1982, 96 Stat. 1299, §2793; renumbered §452 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568.)
 

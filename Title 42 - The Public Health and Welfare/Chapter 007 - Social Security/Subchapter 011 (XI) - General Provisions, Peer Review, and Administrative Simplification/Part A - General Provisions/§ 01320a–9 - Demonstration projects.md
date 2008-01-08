@@ -36,7 +36,7 @@ The Secretary may waive compliance with any requirement of part B or E of subcha
 
 #### (c) Treatment as program expenditures
 
-For purposes of parts B and E of subchapter IV of this chapter, the Secretary shall consider the expenditures of any State to conduct a demonstration project under this section to be expenditures under subpart 1 or 2 of such part B, or under such part E, as the State may elect.
+For purposes of parts B and E of subchapter IV of this chapter, the Secretary shall consider theexpenditures of any State to conduct a demonstration project under this section to be expenditures under subpart 1 or 2 of such part B, or under such part E, as the State may elect.
 
 #### (d) Duration of demonstration
 

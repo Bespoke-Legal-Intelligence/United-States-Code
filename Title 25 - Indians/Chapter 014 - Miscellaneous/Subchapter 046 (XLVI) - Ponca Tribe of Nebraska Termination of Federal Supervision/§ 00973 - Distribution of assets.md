@@ -6,7 +6,7 @@ All property of the United States used for the benefit of the Ponca Tribe of Nat
 
 #### (b) Designation of property for church, park, playground, or cemetery
 
-The tribe shall designate any part of the tribe's property that is to be set aside for church, park, playground, or cemetery purposes, and the Secretary is authorized to convey such property to trustees or agencies designated by the tribe for that purpose and approved by the Secretary.
+The tribe shall designate any part of the tribe's property that is to be set aside for church, park, playground, or cemetery purposes,and the Secretary is authorized to convey such property to trustees or agencies designated by the tribe for that purpose and approved by the Secretary.
 
 #### (c) Homesites; market value; improvements
 

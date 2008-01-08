@@ -76,7 +76,7 @@ For purposes of this section, the term “violate” includes any action (alone 
 
 #### (i) Regulations
 
-The Comptroller of the Currency and the Board shall prescribe regulations establishing such procedures as may be necessary to carry out this section.
+The Comptroller of the Currency and the Board shall prescribe regulations establishingsuch procedures as may be necessary to carry out this section.
 
 #### (m) <sup>4</sup> Notice under this section after separation from service
 

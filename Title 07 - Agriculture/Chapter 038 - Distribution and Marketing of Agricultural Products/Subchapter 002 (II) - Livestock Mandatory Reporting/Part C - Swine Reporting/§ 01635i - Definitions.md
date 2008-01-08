@@ -104,7 +104,7 @@ In this part:
 
 #### (17) Purchase data
 
-&emsp;The term “purchase data” means all of the applicable data, including weight (if purchased live), for all swine purchased during the applicable reporting period, regardless of the expected delivery date of the swine, reported by—
+&emsp;The term “purchase data” means all of the applicable data, including weight (if purchasedlive), for all swine purchased during the applicable reporting period, regardless of the expected delivery date of the swine, reported by—
 
 &emsp;&emsp;(A) hog class;
 

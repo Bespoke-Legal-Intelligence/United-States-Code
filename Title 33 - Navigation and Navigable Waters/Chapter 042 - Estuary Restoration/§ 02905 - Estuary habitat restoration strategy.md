@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 1 year after November 7, 2000, the Council, <sup>1</sup> shall develop an estuary habitatrestoration strategy designed to ensure a comprehensive approach to maximize benefits derived from estuary habitat restoration projects and to foster the coordination of Federal and non-Federal activities related to restoration of estuary habitat.
+Not later than 1 year after November 7, 2000, the Council, <sup>1</sup> shall develop an estuary habitat restoration strategy designed to ensure a comprehensive approach to maximize benefits derived from estuary habitat restoration projects and to foster the coordination of Federal and non-Federal activities related to restoration of estuary habitat.
 
 #### (b) Goal
 

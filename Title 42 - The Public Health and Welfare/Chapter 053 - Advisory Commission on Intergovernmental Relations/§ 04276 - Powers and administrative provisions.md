@@ -36,7 +36,7 @@ Except as otherwise provided in this chapter, persons in the employ of the Commi
 
 No individual employed in the service of the Commission shall be paid compensation for such employment at a rate in excess of the highest rate provided for grade 18 under the General Schedule, except that the executive director of the Commission may be paid compensation at any rate not exceeding the rate prescribed for level V in the Executive Schedule of subchapter II of chapter 53 of title 5.
 
-(Pub. L. 86–380, §6, Sept. 24, 1959, 73 Stat. 705; Pub. L. 88–426, title III, §306(e), Aug. 14, 1964, 78Stat. 429; Pub. L. 89–733, §§3, 4, Nov. 2, 1966, 80 Stat. 1162.)
+(Pub. L. 86–380, §6, Sept. 24, 1959, 73 Stat. 705; Pub. L. 88–426, title III, §306(e), Aug. 14, 1964, 78 Stat. 429; Pub. L. 89–733, §§3, 4, Nov. 2, 1966, 80 Stat. 1162.)
 
 #### References in Text
 

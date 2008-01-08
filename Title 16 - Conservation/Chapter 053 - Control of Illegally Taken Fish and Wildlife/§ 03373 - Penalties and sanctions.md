@@ -56,7 +56,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Codification
 
-“Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsec. (e), on authority of Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
+“Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsec. (e), on authority of Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to theFishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
 
 #### Amendments
 

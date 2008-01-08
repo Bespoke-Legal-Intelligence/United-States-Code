@@ -34,7 +34,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (B) Failure to request access
 
-&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if, after 10 months after February 8, 1996, no such provider has requested the access and interconnection described in subparagraph (A) before the date which is 3 months before the date the company makes its application under subsection (d)(1) of this section, and a statement of the terms and conditions that the company generally offers to provide such access and interconnection has been approved or permitted to take effect by the State commission under section 252(f) of this title. For purposes of this subparagraph, a Bell operating company shall be considered not to have received any request for access and interconnection if the State commission of such State certifies that the only provider or providers making such a request have (i) failed to negotiate in good faith as required by section 252 of this title, or (ii) violated the terms of an agreement approved under section 252 of this title by the provider's failure to comply, within a reasonable period of time, with the implementation schedule contained in such agreement.
+&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if, after 10 months after February 8, 1996, no such provider has requested the access and interconnection described in subparagraph (A) before the date which is 3 months before the date the company makes its application under subsection (d)(1) of this section, and a statement of the terms and conditions that the company generally offers to provide such access and interconnection has been approved or permitted to take effect by the State commission under section 252(f) of this title. For purposes of this subparagraph, a Bell operating company shall be considered not to have received any request for access and interconnection if the State commission of such State certifies that the only provider or providers making such a request have (i) failed to negotiate in good faith as required by section 252 of this title, or (ii) violated the terms of an agreement approved under section 252 of this title by the provider's failure to comply, within a reasonable period oftime, with the implementation schedule contained in such agreement.
 
 #### (2) Specific interconnection requirements
 
@@ -104,7 +104,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (3) Determination
 
-&emsp;Not later than 90 days after receiving an application under paragraph (1), the Commission shall issue a written determination approving or denying the authorization requested in the application for each State. The Commission shall not approve the authorization requested in an application submitted under paragraph (1) unless it finds that—
+&emsp;Not later than 90 days after receiving an application under paragraph (1), the Commission shall issue a written determination approving or denying the authorization requested in the application for each State. The Commission shall not approve the authorization requestedin an application submitted under paragraph (1) unless it finds that—
 
 &emsp;&emsp;(A) the petitioning Bell operating company has met the requirements of subsection (c)(1) of this section and—
 
@@ -156,7 +156,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (B) Limitation
 
-&emsp;&emsp;Except for single-LATA States and States that have issued an order by December 19, 1995, requiring a Bell operating company toimplement intraLATA toll dialing parity, a State may not require a Bell operating company to implement intraLATA toll dialing parity in that State before a Bell operating company has been granted authority under this section to provide interLATA services originating in that State or before 3 years after February 8, 1996, whichever is earlier. Nothing in this subparagraph precludes a State from issuing an order requiring intraLATA toll dialing parity in that State prior to either such date so long as such order does not take effect until after the earlier of either such dates.
+&emsp;&emsp;Except for single-LATA States and States that have issued an order by December 19, 1995, requiring a Bell operating company to implement intraLATA toll dialing parity, a State may not require a Bell operating company to implement intraLATA toll dialing parity in that State before a Bell operating company has been granted authority under this section to provide interLATA services originating in that State or before 3 years after February 8, 1996, whichever is earlier. Nothing in this subparagraph precludes a State from issuing an order requiring intraLATA toll dialing parity in that State prior to either such date so long as such order does not take effect until after the earlier of either such dates.
 
 #### (f) Exception for previously authorized activities
 

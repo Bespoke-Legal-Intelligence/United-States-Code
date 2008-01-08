@@ -16,7 +16,7 @@ Within eighteen months following November 18, 1988, the Secretary shall transmit
 
 #### (c) Transfer of management and administration to State or local units of government
 
-At such time as the State or appropriate units of local government having jurisdiction over land use within the reserve have enacted ordinances or established regulations which in the judgment of the Secretary will protect and preserve the historic and natural features of the area in accordance with the comprehensive plan, the Secretary shall, pursuant to cooperative agreement—
+At such time as the State or appropriate units of local government having jurisdiction overland use within the reserve have enacted ordinances or established regulations which in the judgment of the Secretary will protect and preserve the historic and natural features of the area in accordance with the comprehensive plan, the Secretary shall, pursuant to cooperative agreement—
 
 &emsp;(1) transfer management and administration over all or any part of the property acquired under subsection (d) of this section to the State or appropriate units of local government;
 
@@ -60,5 +60,5 @@ The Geothermal Steam Act of 1970, referred to in subsec. (g), is Pub. L. 91–58
 
 #### Permission To Hunt on Reserve; Restrictions
 
-Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1923, provided that: “with respect to lands and waters under the jurisdiction of the Secretary of the Interior within the City of Rocks National Reserve established by title II of Public Law 100–696 \[enacting sections 460yy and 460yy–1 of this title\], the Secretary shall hereafter permit hunting in accordance with the otherwise applicable laws of the United States and the State of Idaho, except that he may designate zones where and periods when no hunting may be permitted for reasons of public safety, administration, floral and faunal protection and management, or public use and enjoyment: <i>Provided further</i>, That except in emergencies, any regulation prescribing such restrictions shall be put into effect only after consultation with the appropriate State agency having jurisdiction over hunting activities”.
+Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1923, provided that: “with respect to lands and waters under the jurisdiction of the Secretary of the Interior within the City of Rocks National Reserve established by title II of Public Law 100–696 \[enacting sections 460yy and 460yy–1 of this title\], the Secretary shall hereafter permit hunting in accordance with the otherwise applicable laws of the United States and the State of Idaho, except that he may designate zones where and periods when no hunting may be permitted for reasons of public safety, administration, floral and faunal protection and management, or public use and enjoyment: <i>Pro</i><i>vided further</i>, That except in emergencies, any regulation prescribing such restrictions shall be put into effect only after consultation with the appropriate State agency having jurisdiction over hunting activities”.
 

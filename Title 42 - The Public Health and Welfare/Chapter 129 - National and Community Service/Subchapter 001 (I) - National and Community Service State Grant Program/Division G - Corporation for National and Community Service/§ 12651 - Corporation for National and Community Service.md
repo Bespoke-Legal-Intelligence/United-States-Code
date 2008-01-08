@@ -48,7 +48,7 @@ Section 202(c) of Pub. L. 103–82 provided that:
 
 “(1)
 
-Definitions.—For purposes of this subsection, unless otherwise provided or indicated by the context,each term specified in section 203(c)(1) \[set out below\] shall have the meaning given the term in such section.
+Definitions.—For purposes of this subsection, unless otherwise provided or indicated by the context, each term specified in section 203(c)(1) \[set out below\] shall have the meaning given the term in such section.
 
 “(2)
 
@@ -124,7 +124,7 @@ Savings provisions.—
 
 Continuing effect of legal documents.—All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
 
-&emsp;&emsp;“(i) that have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions that are transferred under this subsection; and
+&emsp;&emsp;“(i) that have been issued, made, granted, or allowed to become effective by the President, anyFederal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions that are transferred under this subsection; and
 
 &emsp;&emsp;“(ii) that are in effect at the time this subsection takes effect \[see Effective Date of 1993 Amendment note above\], or were final before the effective date of this subsection and are to become effective on or after the effective date of this subsection,
 
@@ -132,7 +132,7 @@ Continuing effect of legal documents.—All orders, determinations, rules, regul
 
 &emsp;“(B)
 
-Proceedings not affected.—The provisions of this subsection shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the ACTION Agency at the time this subsection takes effect, with respect to functions transferred by this subsection. Such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subsection had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official,by a court of competent jurisdiction, or by operation of law. Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subsection had not been enacted.
+Proceedings not affected.—The provisions of this subsection shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the ACTION Agency at the time this subsection takes effect, with respect to functions transferred by this subsection. Such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subsection had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subsection had not been enacted.
 
 &emsp;“(C)
 
@@ -292,7 +292,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13285. President's Council on Service and Civic Participation
 
-Ex. Ord. No. 13285, Jan. 29, 2003, 68 F.R. 5203, as amended by Ex. Ord. No. 13371, Jan. 27, 2005, 70 F.R. 5041, provided:
+Ex. Ord. No. 13285, Jan. 29, 2003, 68 F.R. 5203, as amended by Ex. Ord. No. 13371, Jan. 27, 2005, 70 F.R. 5041; Ex. Ord. No. 13424, Jan. 26, 2007, 72 F.R. 4409, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to encourage the recognition of volunteer service and civic participation by all Americans, and especially America's youth, it is hereby ordered as follows:
 
@@ -340,7 +340,7 @@ Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted 
 
 Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
 
-(b) Unless further extended by the President, this order shall expire on January 29, 2007.
+(b) Unless further extended by the President, this order shall expire on November 30, 2008.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

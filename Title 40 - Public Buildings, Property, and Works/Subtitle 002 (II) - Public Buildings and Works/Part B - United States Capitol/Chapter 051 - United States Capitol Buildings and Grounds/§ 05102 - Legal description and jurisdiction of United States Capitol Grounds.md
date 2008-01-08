@@ -10,7 +10,7 @@ Jurisdiction.—
 
 &emsp;(1)
 
-Architect of the capitol.—The jurisdiction and control over the Grounds, vestedprior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
+Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
 
 &emsp;(2)
 
@@ -46,7 +46,19 @@ Maintenance and improvements.—Notwithstanding subsections (a) and (b), jurisdi
 
 Authority not limited.—Nothing in this subsection shall limit the authority of the Architect of the Capitol under section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c).<sup>1</sup>
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, §1016(b), Feb. 20, 2003, 117 Stat. 364.)
+(d)
+
+Library of Congress Buildings and Grounds.—
+
+&emsp;(1)
+
+In general.—Except as provided under paragraph (2), the United States Capitol Grounds shall include the Library of Congress grounds described under section 11 of the Act entitled “An Act relating to the policing of the buildings <sup>2</sup> of the Library of Congress”, approved August 4, 1950 (2 U.S.C. 167j).
+
+&emsp;(2)
+
+Authority of librarian of congress.—Notwithstanding subsections (a) and (b), the Librarian of Congress shall retain authority over the Library of Congress buildings and grounds in accordance with section 1 of the Act of June 29, 1922 (2 U.S.C. 141; 42 Stat. 715).
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, §1016(b), Feb. 20, 2003, 117 Stat. 364; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(ii), Dec. 26, 2007, 121 Stat. 2233; Pub. L. 110–178, §4(b)(1)(B), Jan. 7, 2008, 121 Stat. 2551.)
 
 #### Definition of United States Capitol Grounds
 
@@ -76,7 +88,19 @@ Section 307E of the Legislative Branch Appropriations Act, 1989, referred to in 
 
 #### Amendments
 
+2008—Subsec. (d). Pub. L. 110–178 made amendment identical to that made by Pub. L. 110–161. See 2007 Amendment note below.
+
+2007—Subsec. (d). Pub. L. 110–161 added subsec. (d).
+
 2003—Subsec. (c). Pub. L. 108–7 added subsec. (c).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. L. 110–178, set out as an Effective Date of Repeal note under section 167 of Title 2, The Congress.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–161 effective Oct. 1, 2009, see section 1004(d)(4) of title I of div. H of Pub. L. 110–161, set out as an Effective Date of Repeal note under section 167 of Title 2, The Congress.
 
 #### Effective Date of 2003 Amendment
 
@@ -104,7 +128,7 @@ In general.—Administrative jurisdiction over each of the following properties 
 
 &emsp;&emsp;“(D) Unimproved streets and alleys at Fort Circle Park located within the boundaries of U.S. Reservation 497 (National Park Service property).
 
-&emsp;&emsp;“(E) An unimproved portion of Western Avenue Northwest, north of Oregon Avenue Northwest, that abuts U.S. Reservation 339 (National Park Service property).
+&emsp;&emsp;“(E) An unimproved portion of Western Avenue Northwest, north of Oregon Avenue Northwest, thatabuts U.S. Reservation 339 (National Park Service property).
 
 &emsp;&emsp;“(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, that abuts U.S. Reservation 339 (National Park Service property).
 
@@ -214,7 +238,7 @@ Study.—The Architect of the Capitol shall not construct a mail screening facil
 
 #### “SEC. 404. NO EFFECT ON COMPLIANCE WITH ENVIRONMENTAL LAWS.
 
-“Nothing in this Act or any amendment made by this Act may be construed to affect or limit the application of or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)).
+“Nothing in this Act or any amendment made by this Act may be construed to affect or limit the applicationof or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)).
 
 #### “SEC. 405. CONGRESSIONAL REPORTS.
 
@@ -392,7 +416,7 @@ Pub. L. 97–379, Dec. 22, 1982, 96 Stat. 1935, provided: “That section 1 of t
 
 “(4) All sidewalks and contiguous areas presently under the jurisdiction of the District of Columbia located on the east side of Third Street between the south curb of Pennsylvania Avenue, Northwest and the north curb of Maryland Avenue, Southwest.”
 
-Pub. L. 96–432, §1, Oct. 10, 1980, 94 Stat. 1851, provided: “That section 1 of the Act of July 31, 1946, as amended\(40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States Capitol Grounds the following additional areas and portions of streets which are situated as follows:
+Pub. L. 96–432, §1, Oct. 10, 1980, 94 Stat. 1851, provided: “That section 1 of the Act of July 31, 1946, as amended (40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States Capitol Grounds the following additional areas and portions of streets which are situated as follows:
 
 “(1) that portion of D Street Northeast from the east curb of Second Street Northeast to the east curb of First Street Northeast;
 
@@ -454,7 +478,7 @@ Pub. L. 96–432, §6(a), (b), Oct. 10, 1980, 94 Stat. 1853, provided that:
 
 #### Architect of the Capitol; Acquisition of Additional Property
 
-Pub. L. 97–12, title I, June 5, 1981, 95 Stat. 64, provided in part: “That upon acquisition of such real property pursuant to this paragraph \[incorporating by reference the provisions of Pub. L. 96–432, Oct. 10, 1980, 94 Stat. 1851, which related to the acquisition of property in squares 693, 640, and 582 in the District of Columbia\], the structure located on lot 801 of square 693 shall become a part of the House Office Buildings, subject to the provisions of the Act of July 31, 1946 (40 U.S.C. secs. 193a through 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C.5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], including any amendments thereto, which are applicable to the Capitol Buildings, and to the Act of March 4, 1907 (40 U.S.C. 175) \[now 2 U.S.C. 2001\].”
+Pub. L. 97–12, title I, June 5, 1981, 95 Stat. 64, provided in part: “That upon acquisition of such real property pursuant to this paragraph \[incorporating by reference the provisions of Pub. L. 96–432, Oct. 10, 1980, 94 Stat. 1851, which related to the acquisition of property in squares 693, 640, and 582 in the District of Columbia\], the structure located on lot 801 of square 693 shall become a part of the House Office Buildings, subject to the provisions of the Act of July 31, 1946 (40 U.S.C. secs. 193a through 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], including any amendments thereto, which are applicable to the Capitol Buildings, and to the Act of March 4, 1907 (40 U.S.C. 175) \[now 2 U.S.C. 2001\].”
 
 Pub. L. 96–432, §§7–10, Oct. 10, 1980, 94 Stat. 1853, 1854, provided that:
 
@@ -523,4 +547,6 @@ Emanuel Celler, <i>Member.</i>
 Charles E. Goodell, <i>Member.</i>
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “and grounds”.</i>
 

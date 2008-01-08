@@ -36,7 +36,7 @@
 
 #### (4) Prohibition against reduction of refunds or credits
 
-&emsp;In no event shall the Secretary or any delegated State directly or indirectly claim or offset any amount or amounts against, or reduce any refund or credit (or interest accrued thereon) by the amount of any obligation the enforcement of which is barred by section 1724 of this title.
+&emsp;In no event shall the Secretary or any delegated State directly or indirectly claim or offset any amount or amounts against, or reduce any refund or credit (or interest accrued thereon) by the amount of any obligation theenforcement of which is barred by section 1724 of this title.
 
 (Pub. L. 97–451, title I, §111A, as added Pub. L. 104–185, §5(a), Aug. 13, 1996, 110 Stat. 1710.)
 

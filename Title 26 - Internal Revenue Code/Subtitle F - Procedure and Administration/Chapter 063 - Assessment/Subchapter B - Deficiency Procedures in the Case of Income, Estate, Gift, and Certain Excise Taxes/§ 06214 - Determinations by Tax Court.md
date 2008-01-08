@@ -20,7 +20,7 @@ For purposes of this chapter, chapter 41, 42, 43, or 44, and subtitles A or B th
 
 &emsp;&emsp;<b>For provision giving Tax Court jurisdiction to order a refund of an overpayment and to award sanctions, see section 6512(b)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 773; Pub. L. 91–172, title I, §101(j)(43), (44), title IX, §960(a), Dec. 30, 1969, 83 Stat. 530, 531, 734; Pub. L. 91–614, title I, §102(d)(6), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 93–406, title II, §1016(a)(12), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XIII, §1307(d)(2)(F)(iv), (H), title XVI, §1605(b)(7), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1728,1755, 1834; Pub. L. 96–223, title I, §101(f)(1)(F), (G), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, §2(b), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 98–369, div. A, title I, §144(b), July 18, 1984, 98 Stat. 683; Pub. L. 99–514, title XV, §§1511(c)(8), 1554(a), title XVIII, §1833, Oct. 22, 1986, 100 Stat. 2745, 2754, 2852; Pub. L. 100–418, title I, §1941(b)(2)(B)(vi), (vii), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6244(b)(1), Nov. 10, 1988, 102 Stat. 3750; Pub. L. 104–188, title I, §1704(t)(16), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 109–280, title VIII, §858(a), Aug. 17, 2006, 120 Stat. 1020.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 773; Pub. L. 91–172, title I, §101(j)(43), (44), title IX, §960(a), Dec. 30, 1969, 83 Stat. 530, 531, 734; Pub. L. 91–614, title I, §102(d)(6), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 93–406, title II, §1016(a)(12), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XIII, §1307(d)(2)(F)(iv), (H), title XVI, §1605(b)(7), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1834; Pub. L. 96–223, title I, §101(f)(1)(F), (G), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, §2(b), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 98–369, div. A, title I, §144(b), July 18, 1984, 98 Stat. 683; Pub. L. 99–514, title XV, §§1511(c)(8), 1554(a), title XVIII, §1833, Oct. 22, 1986, 100 Stat. 2745, 2754, 2852; Pub. L. 100–418, title I, §1941(b)(2)(B)(vi), (vii), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6244(b)(1), Nov. 10, 1988, 102 Stat. 3750; Pub. L. 104–188, title I, §1704(t)(16), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 109–280, title VIII, §858(a), Aug. 17, 2006, 120 Stat. 1020.)
 
 #### Amendments
 
@@ -104,11 +104,11 @@ Amendment by Pub. L. 93–406 applicable, except as otherwise provided in sectio
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) ofPub. L. 91–614, set out as a note under section 2501 of this title.
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 101(j)(43), (44) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L.91–172, set out as an Effective Date note under section 4940 of this title.
+Amendment by section 101(j)(43), (44) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
 Amendment by section 960(a) of Pub. L. 91–172 effective one year after Dec. 30, 1969, see section 962(e) of Pub. L. 91–172, set out as an Effective Date note under section 7463 of this title.
 

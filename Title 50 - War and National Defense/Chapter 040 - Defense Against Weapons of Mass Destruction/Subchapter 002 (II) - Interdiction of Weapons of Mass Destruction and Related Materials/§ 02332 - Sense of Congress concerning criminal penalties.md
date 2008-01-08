@@ -6,7 +6,7 @@ It is the sense of Congress that the sentencing guidelines prescribed by the Uni
 
 #### (b) Urging of revision to guidelines
 
-Congress urges the United States Sentencing Commission to revise the relevant sentencingguidelines to provide for increased penalties for offenses relating to importation, attempted importation, exportation, and attempted exportation of nuclear, biological, or chemical weapons or related materials or technologies under the following provisions of law:
+Congress urges the United States Sentencing Commission to revise the relevant sentencing guidelines to provide for increased penalties for offenses relating to importation, attempted importation, exportation, and attempted exportation of nuclear, biological, or chemical weapons or related materials or technologies under the following provisions of law:
 
 &emsp;(1) Section 2410 of the Appendix to this title.
 

@@ -4,5 +4,5 @@ Section, act Aug. 1, 1956, ch. 841, title I, §21, as added Aug. 17, 1977, Pub. 
 
 #### Effective Date of Repeal
 
-Section repealed applicable to individuals entering United States on or after June 1, 1991, see section601(e)(1) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of Title 8, Aliens and Nationality.
+Section repealed applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of Title 8, Aliens and Nationality.
 

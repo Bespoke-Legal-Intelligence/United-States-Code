@@ -52,7 +52,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;(ii) the lease term (as defined in section 168(i)(3)) is not more than 80 percent of the reasonably expected economic life of the property (as determined under section 147(b)), and
 
-&emsp;&emsp;&emsp;(iii) the lessee has no option to purchase the property other than at fair market value (as of the time such option is exercised).
+&emsp;&emsp;&emsp;(iii) the lessee has no option to purchase the property other than at fair marketvalue (as of the time such option is exercised).
 
 > &emsp;&emsp;Rules similar to the rules of the preceding sentence shall apply to management contracts and similar types of operating agreements.
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 #### (B) Continuing resident's income may increase above the applicable limit
 
-&emsp;&emsp;If the income of a resident of a unit in a project did not exceed the applicable income limit upon commencement of such resident's occupancy of such unit (or as of any prior determination under subparagraph (A)), the income of such resident shall be treated as continuing to not exceed the applicable income limit. The preceding sentence shall cease to apply to any resident whose income as of the most recent determination under subparagraph (A) exceeds 140 percent of the applicable income limit if after such determination, but before the next determination, any residential unit of comparable or smaller size in the same project is occupied by a new resident whose income exceeds the applicable income limit.
+&emsp;&emsp;If the income of a resident of a unit in a project did not exceed the applicable income limit upon commencement of such resident's occupancy of such unit (or as of any prior determination under subparagraph (A)), the income of such resident shall be treated as continuing to not exceed the applicable income limit. The preceding sentence shall cease to apply to any resident whose income as of the most recent determination under subparagraph (A) exceeds 140 percent of the applicable income limit if after such determination, but before the next determination, any residential unit of comparable or smaller size in the same project is occupiedby a new resident whose income exceeds the applicable income limit.
 
 #### (4) Special rule in case of deep rent skewing
 
@@ -214,7 +214,7 @@ For purposes of subsection (a)(8)—
 
 #### (B) Special rule for existing facilities
 
-&emsp;&emsp;In the case of a facility financed with bonds issued before the date of an order referred to in subparagraph (A) which would (but for this subparagraph) cease to be tax-exempt by reason of subparagraph (A), such bonds shall not cease to be tax-exempt bonds (and section 150(b)(4) shall not apply) if, to the extent necessary to comply with subparagraph (A)—
+&emsp;&emsp;In the case of a facility financed with bonds issued before the date of an order referred to in subparagraph (A) which would (but for this subparagraph) cease to be tax-exempt by reason of subparagraph (A), suchbonds shall not cease to be tax-exempt bonds (and section 150(b)(4) shall not apply) if, to the extent necessary to comply with subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) an escrow to pay principal of, premium (if any), and interest on the bonds is established within a reasonable period after the date such order becomes final, and
 
@@ -286,7 +286,7 @@ For purposes of subsection (a)(8)—
 
 For purposes of subsection (a)(10), the term “qualified hazardous waste facility” means any facility for the disposal of hazardous waste by incineration or entombment but only if—
 
-&emsp;(1) the facility is subject to final permit requirements under subtitle C of title II of the Solid Waste Disposal Act (as in effect on thedate of the enactment of the Tax Reform Act of 1986), and
+&emsp;(1) the facility is subject to final permit requirements under subtitle C of title II of the Solid Waste Disposal Act (as in effect on the date of the enactment of the Tax Reform Act of 1986), and
 
 &emsp;(2) the portion of such facility which is to be provided by the issue does not exceed the portion of the facility which is to be used by persons other than—
 
@@ -382,7 +382,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the State may allocate theamount described in subparagraph (A) for any calendar year in such manner as the State determines appropriate.
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the State may allocate the amount described in subparagraph (A) for any calendar year in such manner as the State determines appropriate.
 
 #### (ii) Rules for carryforward of unused limitation
 
@@ -392,7 +392,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(14), the term “qualified green building and sustainable design project” means any project which is designated by the Secretary, after consultation with the Administrator of the Environmental Protection Agency, as a qualified green building and sustainable design project and which meets the requirements of clauses (i), (ii), (iii), and (iv) of paragraph (4)(A).
+&emsp;For purposes of subsection (a)(14), the term “qualified green building and sustainable design project” means any project which is designated by the Secretary, after consultation with the Administrator of the Environmental Protection Agency, as a qualified green building and sustainable design project and whichmeets the requirements of clauses (i), (ii), (iii), and (iv) of paragraph (4)(A).
 
 #### (2) Designations
 
@@ -706,5 +706,5 @@ Section 1608(b) of Pub. L. 104–188 provided that: “The use of the term ‘pe
 
 #### Tax-Exempt Bonds for Sale of Alaska Power Administration Facility
 
-Section 1804 of Pub. L. 104–188 provided that: “Sections 142(f)(3) (as added by section 1608) and 147(d) of theInternal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code.”
+Section 1804 of Pub. L. 104–188 provided that: “Sections 142(f)(3) (as added by section 1608) and 147(d) of the Internal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code.”
 

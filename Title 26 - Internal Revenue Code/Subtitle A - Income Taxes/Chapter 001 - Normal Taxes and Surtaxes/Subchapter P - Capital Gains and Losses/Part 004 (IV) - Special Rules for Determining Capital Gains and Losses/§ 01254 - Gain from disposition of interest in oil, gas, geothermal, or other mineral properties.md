@@ -60,7 +60,7 @@ Under regulations prescribed by the Secretary—
 
 1988—Subsec. (a)(4). Pub. L. 100–647 added par. (4).
 
-1986—Pub. L. 99–514 amended section generally, substituting “geothermal, or other mineral properties” for “or geothermal property” in section catchline, revising and restating subsec. (a), pars. (1) to (4) as pars. (1) to (3), and reenacting subsec. (b) without change except for substituting “rule of subsection (g)” for “rules of subsection (g)” in par. (1).
+1986—Pub. L. 99–514 amended section generally, substituting “geothermal, or other mineral properties” for “or geothermal property” in section catchline, revising and restating subsec. (a), pars. (1) to (4) as pars. (1) to\(3), and reenacting subsec. (b) without change except for substituting “rule of subsection (g)” for “rules of subsection (g)” in par. (1).
 
 1982—Subsec. (b)(2). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
 

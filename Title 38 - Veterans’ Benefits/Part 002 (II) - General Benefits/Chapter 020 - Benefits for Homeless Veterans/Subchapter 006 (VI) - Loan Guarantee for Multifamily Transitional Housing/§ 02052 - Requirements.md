@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) financing acquisition of furniture, equipment, supplies, or materials for the project; or
 
-&emsp;&emsp;&emsp;(ii) in the case of a loan made for purposes of subparagraph (A)(i), supplying theorganization carrying out the project with working capital relative to the project.
+&emsp;&emsp;&emsp;(ii) in the case of a loan made for purposes of subparagraph (A)(i), supplying the organization carrying out the project with working capital relative to the project.
 
 &emsp;(2) The loan is made in connection with funding or the provision of substantial property or services for such project by either a State or local government or a nongovernmental entity, or both.
 

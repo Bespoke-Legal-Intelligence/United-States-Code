@@ -1,10 +1,12 @@
 ### §11319. Termination
 
-The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2006.
+The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2008.
 
-(Pub. L. 100–77, title II, §209, July 22, 1987, 101 Stat. 489; Pub. L. 100–628, title II, §205, Nov. 7, 1988, 102 Stat. 3228; Pub. L. 101–402, §2, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–645, title I, §103, Nov. 29, 1990, 104 Stat. 4675; Pub. L. 102–550, title XIV, §1422, Oct. 28, 1992, 106 Stat. 4043; Pub. L. 106–377, §1(a)(1) \[title II, §231(2)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31; Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490.)
+(Pub. L. 100–77, title II, §209, July 22, 1987, 101 Stat. 489; Pub. L. 100–628, title II, §205, Nov. 7, 1988, 102 Stat. 3228; Pub. L. 101–402, §2, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–645, title I, §103, Nov. 29, 1990, 104 Stat. 4675; Pub. L. 102–550, title XIV, §1422, Oct. 28, 1992, 106 Stat. 4043; Pub. L. 106–377, §1(a)(1) \[title II, §231(2)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31; Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490; Pub. L. 110–161, div. K, title III, Dec. 26, 2007, 121 Stat. 2443.)
 
 #### Amendments
+
+2007—Pub. L. 110–161, which directed the amendment of this section by striking “2007” and inserting “2008”, was executed by substituting “2008” for “2006” to reflect the probable intent of Congress.
 
 2005—Pub. L. 109–115 substituted “2006” for “2005”.
 
@@ -21,6 +23,10 @@ Pub. L. 101–402 substituted “October 31, 1990” for “October 1, 1990”.
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–402 deemed to have taken effect as if enacted Sept. 29, 1990, see section 1(a) of Pub. L. 101–494, set out as an Effective Date of Temporary Extension of Emergency Low Income Housing Preservation Act of 1987 and Correction of Any Repeal note under section 1715<i>l</i> of Title 12, Banks and Banking.
+
+#### Temporary Extension of Provisions
+
+Pub. L. 109–289, div. B, title II, §21042, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 53, provided that: “The provisions of title II of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11311 et seq.) shall continue in effect, notwithstanding section 209 of such Act \[this section\], through the earlier of: (1) the date specified in section 106 of this division \[Sept. 30, 2007\]; or (2) the date of the enactment into law of an authorization Act relating to the McKinney-Vento Homeless Assistance Act.”
 
 #### Temporary Extension of Council
 

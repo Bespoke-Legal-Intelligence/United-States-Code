@@ -12,11 +12,7 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 1963—Pub. L. 88–205 substituted “$680,000,000” for “$500,000,000”.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Delegation of Functions
 
-For delegation of certain functions of President under this section, see Memorandum of President of May 30, 2001, 66 F.R. 30629, set out as a note under section 1942 of this title.
+For delegation of certain functions of President under this section, see Memorandum of President of the United States, May 30, 2001, 66 F.R. 30629, set out as a note under section 1942 of this title.
 

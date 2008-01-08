@@ -14,3 +14,4 @@ Part A—General Provisions
 - [&sect; 16655 - Microgravity research](%C2%A7%2016655%20-%20Microgravity%20research.md)
 - [&sect; 16656 - Coordination with the National Oceanic and Atmospheric Administration](%C2%A7%2016656%20-%20Coordination%20with%20the%20National%20Oceanic%20and%20Atmospheric%20Administration.md)
 - [&sect; 16657 - Review and report on Headquarters Earth-Sun System Applied Sciences Program](%C2%A7%2016657%20-%20Review%20and%20report%20on%20Headquarters%20Earth-Sun%20System%20Applied%20Sciences%20Program.md)
+- [&sect; 16658 - Basic research enhancement](%C2%A7%2016658%20-%20Basic%20research%20enhancement.md)

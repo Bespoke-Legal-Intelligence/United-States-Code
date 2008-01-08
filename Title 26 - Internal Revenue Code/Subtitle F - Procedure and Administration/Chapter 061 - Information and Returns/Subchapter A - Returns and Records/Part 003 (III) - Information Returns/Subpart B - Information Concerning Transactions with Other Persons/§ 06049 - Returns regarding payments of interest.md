@@ -260,7 +260,7 @@ Subsec. (c). Pub. L. 99–514, §1501(c)(5), in amending subsec. (c) generally, 
 
 Subsec. (d)(7). Pub. L. 99–514, §674, added par. (7).
 
-1984—Subsec. (b)(2)(E). Pub. L. 98–369, §474(r)(29)(J), struck out subpar. (E) which related to amounts on which the person making payments was required to deduct and withhold a tax under section 1451 (relating to tax-free covenant bonds), or would have been so required but for section 1451(d) (relating to benefit of personal exemptions).
+1984—Subsec. (b)(2)(E). Pub. L. 98–369, §474(r)(29)(J), struck out subpar. (E) which related to amounts on which the person making payments was required to deduct and withhold a tax under section 1451 (relating totax-free covenant bonds), or would have been so required but for section 1451(d) (relating to benefit of personal exemptions).
 
 Subsec. (d)(6)(A). Pub. L. 98–369, §42(a)(14)(A), substituted “section 1272” for “section 1232A” in two places.
 

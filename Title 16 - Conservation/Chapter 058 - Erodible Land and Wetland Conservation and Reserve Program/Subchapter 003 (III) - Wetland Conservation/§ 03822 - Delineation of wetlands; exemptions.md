@@ -20,7 +20,7 @@
 
 #### (4) Duration of certification
 
-&emsp;A final certification made under paragraph (3) shall remain valid and in effect as long as the area is devoted to an agricultural use or until such time as the person affected by the certification requests review of the certification by the Secretary.
+&emsp;A final certification made under paragraph (3) shall remain valid and in effect as long asthe area is devoted to an agricultural use or until such time as the person affected by the certification requests review of the certification by the Secretary.
 
 #### (5) Review of mapping on appeal
 
@@ -72,7 +72,7 @@ No person shall become ineligible under section 3821 of this title for program l
 
 &emsp;&emsp;(B) A wetland that is temporarily or incidentally created as a result of adjacent development activity.
 
-&emsp;&emsp;(C) A wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production ispossible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
+&emsp;&emsp;(C) A wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production is possible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
 
 &emsp;&emsp;(D) A wetland previously identified as a converted wetland (if the original conversion of the wetland was commenced before December 23, 1985), but that the Secretary determines returned to wetland status after that date as a result of—
 

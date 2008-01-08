@@ -32,7 +32,7 @@ For purposes of this subchapter, works of art owned by a nonresident not a citiz
 
 #### (1) In general
 
-&emsp;For purposes of this subchapter, stock in a regulated investment company (as defined in section 851) owned by a nonresident not a citizen of the United States shall not be deemed property within the United States in the proportion that, at the end of the quarter of such investment company's taxable year immediately preceding a decedent's date of death (or at such other time as the Secretary may designate in regulations), the assets of the investment company that were qualifying assets with respect to the decedent bore to the total assets of the investment company.
+&emsp;For purposes of this subchapter, stock in a regulated investment company (as defined in section 851) owned by a nonresident not a citizen of the United States shall not be deemed property within the United States in the proportion that, at the end of the quarter of such investment company's taxable year immediately preceding a decedent's date of death (or at such other time as the Secretary maydesignate in regulations), the assets of the investment company that were qualifying assets with respect to the decedent bore to the total assets of the investment company.
 
 #### (2) Qualifying assets
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 103–66 applicable to the estates of decedents dying after
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 

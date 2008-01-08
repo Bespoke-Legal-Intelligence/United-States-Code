@@ -10,7 +10,7 @@ The Commission shall maintain a continuous review of Restricted Data and of any 
 
 #### (c) Joint determination on atomic weapons; Presidential determination on disagreement
 
-In the case of Restricted Data which the Commission and the Department of Defense jointly determine to relate primarily to the military utilization of atomic weapons, the determination that such data may be published without constituting an unreasonable risk to the common defense and security shall be made by the Commission and the Department of Defense jointly, and if the Commission and the Department of Defense do not agree, the determination shall be made by the President.
+In the case of Restricted Data which the Commission and the Department of Defense jointlydetermine to relate primarily to the military utilization of atomic weapons, the determination that such data may be published without constituting an unreasonable risk to the common defense and security shall be made by the Commission and the Department of Defense jointly, and if the Commission and the Department of Defense do not agree, the determination shall be made by the President.
 
 #### (d) Removal from Restricted Data category
 
@@ -48,7 +48,7 @@ Ex. Ord. No. 10899, eff. Dec. 9, 1960, 25 F.R. 12729, provided:
 
 By virtue of the authority vested in me by the Atomic Energy Act of 1954, as amended (hereinafter referred to as the Act; 42 U.S.C. 2011 <i>et seq</i>.), and as President of the United States, it is ordered as follows:
 
-The Central Intelligence Agency is hereby authorized to communicate for intelligence purposes, in accordance with the terms and conditions of any agreementfor cooperation arranged pursuant to subsections 144a, b, or c of the act (42 U.S.C. 2162 (a), (b), or (c)), such restricted data and data removed from the restricted data category under subsection 142d of the Act (42 U.S.C. 2162(d)) as is determined
+The Central Intelligence Agency is hereby authorized to communicate for intelligence purposes, in accordance with the terms and conditions of any agreement for cooperation arranged pursuant to subsections 144a, b, or c of the act (42 U.S.C. 2162 (a), (b), or (c)), such restricted data and data removed from the restricted data category under subsection 142d of the Act (42 U.S.C. 2162(d)) as is determined
 
 (i) by the President, pursuant to the provisions of the Act, or
 

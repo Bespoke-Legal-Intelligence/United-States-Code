@@ -20,7 +20,7 @@ For purposes of this subpart, the term “related or subordinate party” means 
 
 #### (d) Rule where power is subject to condition precedent
 
-A person shall be considered to have a power described in this subpart even though the exercise of the power is subject to a precedent giving of notice or takes effect only on the expiration of a certain period after the exercise of the power.
+A person shall be considered to have a power described in this subpart even though the exercise of the power is subject to a precedent givingof notice or takes effect only on the expiration of a certain period after the exercise of the power.
 
 #### (e) Grantor treated as holding any power or interest of grantor's spouse
 

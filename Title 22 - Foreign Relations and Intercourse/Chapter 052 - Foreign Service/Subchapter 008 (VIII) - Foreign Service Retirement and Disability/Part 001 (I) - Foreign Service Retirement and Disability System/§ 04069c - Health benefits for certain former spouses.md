@@ -12,7 +12,7 @@ Except as provided in subsection (c)(1) of this section, any individual—
 
 #### (b) Prerequisites for enrollment; notification of rights
 
-(1) Any individual eligible for coverage under subsection (a) of this section may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the 6-month period beginning on December 22, 1987, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
+(1) Any individual eligible for coverage under subsection (a) of this section may enroll in ahealth benefits plan for self alone or for self and family if, before the expiration of the 6-month period beginning on December 22, 1987, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
 
 &emsp;(A) files an election for such enrollment; and
 
@@ -42,7 +42,7 @@ For purposes of this section the term “health benefits plan” means an approv
 
 #### (f) Former spouses of United States Information Agency and Agency for International Development employees
 
-Any individual who on February 14, 1981, was an otherwise qualified former spouse pursuantto subsections (a), (b), and (c) of this section, but who was married to a former Foreign Service employee of the United States Information Agency or of the Agency for International Development, shall be entitled to benefits under this section if—
+Any individual who on February 14, 1981, was an otherwise qualified former spouse pursuant to subsections (a), (b), and (c) of this section, but who was married to a former Foreign Service employee of the United States Information Agency or of the Agency for International Development, shall be entitled to benefits under this section if—
 
 &emsp;(1) the former employee retired from the Civil Service Retirement and Disability System on a date before his employing agency could legally participate in the Foreign Service Retirement and Disability System; and
 

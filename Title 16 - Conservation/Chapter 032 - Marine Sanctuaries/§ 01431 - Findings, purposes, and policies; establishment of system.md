@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) this Nation historically has recognized the importance of protecting special areas of its public domain, but these efforts have been directed almost exclusively to land areas above the high-water mark;
 
-&emsp;(2) certain areas of the marine environment possess conservation, recreational, ecological,historical, scientific, educational, cultural, archeological, or esthetic qualities which give them special national, and in some cases international, significance;
+&emsp;(2) certain areas of the marine environment possess conservation, recreational, ecological, historical, scientific, educational, cultural, archeological, or esthetic qualities which give them special national, and in some cases international, significance;
 
 &emsp;(3) while the need to control the effects of particular activities has led to enactment of resource-specific legislation, these laws cannot in all cases provide a coordinated and comprehensive approach to the conservation and management of special areas of the marine environment; and
 
@@ -66,7 +66,7 @@ Subsec. (b)(1). Pub. L. 106–513, §3(c)(1), substituted “significance and to
 
 Subsec. (b)(3). Pub. L. 106–513, §3(c)(2), (4), added par. (3) and struck out former par. (3) which read as follows: “to support, promote, and coordinate scientific research on, and monitoring of, the resources of these marine areas, especially long-term monitoring and research of these areas;”.
 
-Subsec. (b)(4). Pub. L. 106–513, §3(c)(2), (4), added par. (4) and struck out former par. (4) which read as follows: “to enhance public awareness, understanding, appreciation, and wise use of the marine environment;”.
+Subsec. (b)(4). Pub. L. 106–513, §3(c)(2), (4), added par. (4) and struck out former par. (4) which read as follows:“to enhance public awareness, understanding, appreciation, and wise use of the marine environment;”.
 
 Subsec. (b)(5) to (7). Pub. L. 106–513, §3(c)(3), (4), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 

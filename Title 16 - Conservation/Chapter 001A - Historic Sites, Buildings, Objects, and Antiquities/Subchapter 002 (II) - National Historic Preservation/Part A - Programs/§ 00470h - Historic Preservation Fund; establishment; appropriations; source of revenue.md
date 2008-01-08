@@ -30,7 +30,7 @@ The Outer Continental Shelf Lands Act, referred to in second par., is act Aug. 7
 
 1973—Pub. L. 93–54 substituted appropriations authorization of $15,600,000, $20,000,000 and $24,400,000 for fiscal years 1974 through 1976, respectively, for such authorization of $7,000,000, $10,000,000, and $15,000,000 for fiscal years 1971 through 1973, respectively.
 
-1970—Pub. L. 91–243 substituted provisions authorizing appropriations of not more than $7,000,000 for fiscalyear 1971, and $10,000,000 and $15,000,000 for fiscal years 1972 and 1973, respectively, to carry out the provisions of sections 470a, 470b, and 470c, to 470h of this title for provisions authorizing the appropriation of not to exceed $2,000,000 for fiscal year 1967 and not more than $10,000,000 for the three succeeding fiscal years to carry out the provisions of sections 470 to 470b, and 470c to 470n of this title.
+1970—Pub. L. 91–243 substituted provisions authorizing appropriations of not more than $7,000,000 for fiscal year 1971, and $10,000,000 and $15,000,000 for fiscal years 1972 and 1973, respectively, to carry out the provisions of sections 470a, 470b, and 470c, to 470h of this title for provisions authorizing the appropriation of not to exceed $2,000,000 for fiscal year 1967 and not more than $10,000,000 for the three succeeding fiscal years to carry out the provisions of sections 470 to 470b, and 470c to 470n of this title.
 
 #### Review of Operation of Historic Preservation Fund and National Historic Preservation Program; Report to President and Congress
 

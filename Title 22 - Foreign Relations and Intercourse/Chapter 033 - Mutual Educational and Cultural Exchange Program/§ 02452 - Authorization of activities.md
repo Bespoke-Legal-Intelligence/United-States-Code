@@ -86,51 +86,7 @@ Authorization of performance of functions under subsec. (a)(2) and (3) of this s
 
 #### Pilot Program To Provide Grants to American-Sponsored Schools in Predominantly Muslim Countries To Provide Scholarships
 
-Pub. L. 108–458, title VII, §7113, Dec. 17, 2004, 118 Stat. 3797, provided that:
-
-“(a)
-
-Findings.—Congress makes the following findings:
-
-&emsp;“(1) During the 2003–2004 school year, the Office of Overseas Schools of the Department of State is financially assisting 189 elementary and secondary schools in foreign countries.
-
-&emsp;“(2) United States-sponsored elementary and secondary schools are located in more than 20 countries with predominantly Muslim populations in the Near East, Africa, South Asia, Central Asia, and East Asia.
-
-&emsp;“(3) United States-sponsored elementary and secondary schools provide an American-style education in English, with curricula that typically include an emphasis on the development of critical thinking and analytical skills.
-
-“(b)
-
-Statement of Policy.—The United States has an interest in increasing the level of financial support provided to United States-sponsored elementary and secondary schools in countries with predominantly Muslim populations in order to—
-
-&emsp;“(1) increase the number of students in such countries who attend such schools;
-
-&emsp;“(2) increase the number of young people who may thereby gain at any early age an appreciation for the culture, society, and history of the United States; and
-
-&emsp;“(3) increase the number of young people who may thereby improve their proficiency in the English language.
-
-“(c)
-
-Pilot Program.—The Secretary of State, acting through the Director of the Office of Overseas Schools of the Department of State, may conduct a pilot program to make grants to United States-sponsored elementary and secondary schools in countries with predominantly Muslim populations for the purpose of providing full or partial merit-based scholarships to students from lower-income and middle-income families of such countries to attend such schools.
-
-“(d)
-
-Determination of Eligible Students.—For purposes of the pilot program, a United States-sponsored elementary and secondary school that receives a grant under the pilot program may establish criteria to be implemented by such school to determine what constitutes lower-income and middle-income families in the country (or region of the country, if regional variations in income levels in the country are significant) in which such school is located.
-
-“(e)
-
-Restriction on Use of Funds.—Amounts appropriated to the Secretary of State pursuant to the authorization of appropriations in subsection (h) shall be used for the sole purpose of making grants under this section, and may not be used for the administration of the Office of Overseas Schools of the Department of State or for any other activity of the Office.
-
-“(f)
-
-Voluntary Participation.—Nothing in this section shall be construed to require participation in the pilot program by a United States-sponsored elementary or secondary school in a predominantly Muslim country.
-
-“(g)
-
-Report.—Not later than April 15, 2006, the Secretary of State shall submit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the pilot program. The report shall assess the success of the program, examine any obstacles encountered in its implementation, and address whether it should be continued, and if so, provide recommendations to increase its effectiveness.
-
-“(h)
-
-Funding.—There are authorized to be appropriated to the Secretary of State for each of the fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as necessary to implement the pilot program under this section.”
+Pub. L. 108–458, title VII, §7113, Dec. 17, 2004, 118 Stat. 3797, as amended, formerly set out as a note under this section, was transferred and is classified to section 2452c of this title.
 
 #### Conduct of Certain Educational and Cultural Exchange Programs
 
@@ -157,6 +113,8 @@ Grantee Organizations.—To the extent practicable, grantee organizations select
 Pub. L. 103–236, title II, §230, Apr. 30, 1994, 108 Stat. 424, which provided that United States Information Agency could not obligate or expend funds for a United States Government funded pavilion or major exhibit at any international exposition or world's fair in excess of amounts expressly authorized and appropriated for such purpose, was repealed by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §204(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–421. See section 2452b of this title.
 
 #### International Exchange, Scholarship, and Training Programs
+
+Pub. L. 110–83, Sept. 20, 2007, 121 Stat. 781, authorized establishment of a United States-Poland parliamentary youth exchange program.
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, as amended by Pub. L. 107–228, div. A, title II, §227, Sept. 30, 2002, 116 Stat. 1369, known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundation to provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
 
@@ -196,7 +154,7 @@ Pub. L. 102–138, title II, §229, Oct. 28, 1991, 105 Stat. 702, authorized sch
 
 #### Study and Report on Ways To Reduce the Drain From Developing Countries of Professional Persons and Skilled Specialists
 
-Pub. L. 89–698, title III, §301, Oct. 29, 1966, 80 Stat. 1072, authorized Secretary of Health, Education, andWelfare to conduct an investigation to determine number of individuals from developing countries who enter United States annually to further their education and fail to return to their homeland and to report to President and to Congress findings and conclusions together with recommendations for any legislation deemed necessary to encourage these individuals to return and use their education and training in service of their homeland.
+Pub. L. 89–698, title III, §301, Oct. 29, 1966, 80 Stat. 1072, authorized Secretary of Health, Education, and Welfare to conduct an investigation to determine number of individuals from developing countries who enter United States annually to further their education and fail to return to their homeland and to report to President and to Congress findings and conclusions together with recommendations for any legislation deemed necessary to encourage these individuals to return and use their education and training in service of their homeland.
 
 #### Executive Order No. 10716
 

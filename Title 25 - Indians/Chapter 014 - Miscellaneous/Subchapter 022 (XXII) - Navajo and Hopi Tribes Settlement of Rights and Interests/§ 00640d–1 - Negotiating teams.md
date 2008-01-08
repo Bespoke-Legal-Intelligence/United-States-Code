@@ -18,7 +18,7 @@ In the event either negotiating team fails to attend two consecutive sessions or
 
 #### (e) Disagreements within team
 
-In the event of a disagreement within a negotiating team the majority of the members of the team shall prevail and act on behalf of the team unless the resolution of the tribal council certifying the team specifically provides otherwise.
+In the event of a disagreement within a negotiating team the majority of the members of the team shall prevail and act on behalf of the teamunless the resolution of the tribal council certifying the team specifically provides otherwise.
 
 (Pub. L. 93–531, §2, Dec. 22, 1974, 88 Stat. 1712.)
 

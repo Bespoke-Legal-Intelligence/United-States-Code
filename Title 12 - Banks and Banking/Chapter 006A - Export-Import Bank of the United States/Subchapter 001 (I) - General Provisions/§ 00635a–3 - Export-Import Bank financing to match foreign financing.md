@@ -32,7 +32,7 @@ Section was enacted as part of the Export-Import Bank Act Amendments of 1978, an
 
 #### Amendments
 
-1986—Subsec. (a)(1). Pub. L. 99–472, §15(b), which directed the insertion of “irrespective of whether these credits are being offered by governments which are signatories to such standstills, minutes, or practices,” after “major export countries have agreed,” was executed by inserting that phrase after “major exporting countries have agreed,” as the probable intent of Congress.
+1986—Subsec. (a)(1). Pub. L. 99–472, §15(b), which directed the insertion of “irrespective of whether these credits are being offered by governments which are signatories to such standstills, minutes, or practices,” after “major export countries have agreed,” was executed by inserting that phrase after “major exportingcountries have agreed,” as the probable intent of Congress.
 
 Subsec. (b). Pub. L. 99–472, §15(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary of the Treasury shall only issue such authorization to the Bank to provide guarantees, insurance and credits to competing United States sellers, if the Secretary determines that:
 
@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 99–472, §15(a), amended subsec. (b) generally. Prior to 
 
 &emsp;“(2) the foreign noncompetitive financing has not been withdrawn on the date the Bank is authorized to provide competitive financing.”
 
-1983—Subsec. (a)(1). Pub. L. 98–181, §631(1), inserted provision that the inquiry, and where appropriate, the determination and authorization to the Export-Import Bank of the United States referred to in this sectionshall be completed and made within 60 days of the receipt of such information.
+1983—Subsec. (a)(1). Pub. L. 98–181, §631(1), inserted provision that the inquiry, and where appropriate, the determination and authorization to the Export-Import Bank of the United States referred to in this section shall be completed and made within 60 days of the receipt of such information.
 
 Subsec. (a)(2). Pub. L. 98–181, §633(b), substituted “the Secretary shall request” for “he shall request”.
 

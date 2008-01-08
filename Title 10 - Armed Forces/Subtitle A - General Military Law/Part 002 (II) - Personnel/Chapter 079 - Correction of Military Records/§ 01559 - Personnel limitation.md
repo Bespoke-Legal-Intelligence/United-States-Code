@@ -20,7 +20,7 @@ Baseline Number.—The baseline number for a service review agency under this se
 
 &emsp;(1) for purposes of the first report with respect to a service review agency under this section, the number of military and civilian personnel assigned to duty with that agency as of January 1, 2002; and
 
-&emsp;(2) for purposes of any subsequent report with respect to a service review agency under this section, the number of such personnelspecified in the most recent report with respect to that agency under this section.
+&emsp;(2) for purposes of any subsequent report with respect to a service review agency under this section, the number of such personnel specified in the most recent report with respect to that agency under this section.
 
 (c)
 

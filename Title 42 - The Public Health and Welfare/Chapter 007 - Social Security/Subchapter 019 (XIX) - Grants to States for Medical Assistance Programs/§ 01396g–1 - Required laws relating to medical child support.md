@@ -26,7 +26,7 @@ The laws relating to medical child support, which a State is required to have in
 
 &emsp;(3) In any case in which a parent is required by a court or administrative order to provide health coverage for a child and the parent is eligible for family health coverage through an employer doing business in the State, a law that requires such employer—
 
-&emsp;&emsp;(A) to permit such parent to enroll under such family coverage any such child who is otherwise eligible for such coverage (without regard to any enrollment season restrictions);
+&emsp;&emsp;(A) to permit such parent to enroll under such family coverage any such child who isotherwise eligible for such coverage (without regard to any enrollment season restrictions);
 
 &emsp;&emsp;(B) if such a parent is enrolled but fails to make application to obtain coverage of such child, to enroll such child under such family coverage upon application by the child's other parent or by the State agency administering the program under this subchapter or part D of subchapter IV of this chapter; and
 

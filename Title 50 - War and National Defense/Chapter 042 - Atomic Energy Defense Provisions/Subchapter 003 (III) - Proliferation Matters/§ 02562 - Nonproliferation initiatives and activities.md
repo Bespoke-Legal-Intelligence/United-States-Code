@@ -44,7 +44,7 @@
 
 (1) No amounts authorized to be appropriated by title XXXI of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65) for the Nuclear Cities Initiative may be obligated or expended for purposes of the initiative until the Secretary of Energy certifies to Congress that Russia has agreed to close some of its facilities engaged in work on weapons of mass destruction.
 
-(2) Notwithstanding a certification under paragraph (1), amounts authorized to be appropriated by this title <sup>2</sup> for the Nuclear Cities Initiative may not be obligated or expended forpurposes of providing assistance under the initiative to more than three nuclear cities, and more than two serial production facilities, in Russia in fiscal year 2000.
+(2) Notwithstanding a certification under paragraph (1), amounts authorized to be appropriated by this title <sup>2</sup> for the Nuclear Cities Initiative may not be obligated or expended for purposes of providing assistance under the initiative to more than three nuclear cities, and more than two serial production facilities, in Russia in fiscal year 2000.
 
 (3)(A) The Secretary shall conduct a study of the potential economic effects of each commercial program proposed under the Nuclear Cities Initiative before providing assistance for the conduct of the program. The study shall include an assessment regarding whether or not the mechanisms for job creation under each program are likely to lead to the creation of the jobs intended to be created by that program.
 
@@ -60,7 +60,7 @@
 
 &emsp;(A) A strategic plan for the Initiatives for Proliferation Prevention program and for the Nuclear Cities Initiative, which shall establish objectives for the program or initiative, as the case may be, and means for measuring the achievement of such objectives.
 
-&emsp;(B) A list of the most successful projects under the Initiatives for Proliferation Prevention program, including for each such project the name of the institute and scientists who are participating or have participated in the project, the number of jobs created through the project, and the manner in which the project has met the nonproliferation objectives of the United States.
+&emsp;(B) A list of the most successful projects under the Initiatives for Proliferation Prevention program, including for each such project the name of the institute and scientists whoare participating or have participated in the project, the number of jobs created through the project, and the manner in which the project has met the nonproliferation objectives of the United States.
 
 &emsp;(C) A list of the institutes and scientists associated with weapons of mass destruction programs or other defense-related programs in the states of the former Soviet Union that the Department seeks to engage in commercial work under the Initiatives for Proliferation Prevention program or the Nuclear Cities Initiative, including—
 

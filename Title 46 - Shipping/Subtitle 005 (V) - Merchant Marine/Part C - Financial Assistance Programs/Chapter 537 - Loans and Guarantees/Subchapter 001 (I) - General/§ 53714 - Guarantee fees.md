@@ -14,7 +14,7 @@ In general.—The amount of the fee for a guarantee under this chapter shall be 
 
 &emsp;(2)
 
-Present value for each year.—The amount referred to in paragraph (1) for a year in which the guarantee is in effect is the present value of the amount calculated under paragraph (3). To determine the present value, the Secretary shall apply a discount rate determined by the Secretary of the Treasury, considering current market yields on outstanding obligations of the United States Government having periods to maturity comparable to the period to maturity for the guaranteed obligation.
+Present value for each year.—The amount referred to in paragraph (1) for a year in which the guarantee is in effect is the present value of the amount calculated under paragraph (3). To determine the present value,the Secretary shall apply a discount rate determined by the Secretary of the Treasury, considering current market yields on outstanding obligations of the United States Government having periods to maturity comparable to the period to maturity for the guaranteed obligation.
 
 &emsp;(3)
 
@@ -60,7 +60,7 @@ Not Refundable.—A fee paid under this section is not refundable. However, an o
 
 #### Amendment Not Shown in Text
 
-<i>This section was derived from section 1274(e) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1274(e) of the former Appendix to this title was amended by striking “Secretary” each place it appears (except in par. (2)(F) \[restated in subsec. (b)(2) of this section\] the</i><i>second place it appears) and inserting “Secretary or Administrator”.</i>
+<i>This section was derived from section 1274(e) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1274(e) of the former Appendix to this title was amended by striking “Secretary” each place it appears (except in par. (2)(F) \[restated in subsec. (b)(2) of this section\] the second place it appears) and inserting “Secretary or Administrator”.</i>
 
 Historical and Revision Notes
 

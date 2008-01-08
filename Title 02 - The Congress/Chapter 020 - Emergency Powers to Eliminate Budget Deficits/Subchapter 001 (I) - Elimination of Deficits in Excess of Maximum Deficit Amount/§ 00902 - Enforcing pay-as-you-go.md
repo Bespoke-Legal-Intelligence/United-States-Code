@@ -16,7 +16,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 &emsp;&emsp;(A) all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d) of this section;
 
-&emsp;&emsp;(B) the estimated amount of savings in direct spending programs applicable to budgetyear resulting from the prior year's sequestration under this section or section 903 of this title, if any, as published in OMB's final sequestration report for that prior year; and
+&emsp;&emsp;(B) the estimated amount of savings in direct spending programs applicable to budget year resulting from the prior year's sequestration under this section or section 903 of this title, if any, as published in OMB's final sequestration report for that prior year; and
 
 &emsp;&emsp;(C) any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) of this section that were not reflected in the final OMB sequestration report for the current year.
 

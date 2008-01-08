@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), if (but for this paragraph) an individual may be and is claimed as a qualifying child by 2 or more taxpayers for a taxable year beginning in the same calendar year, such individual shall be treated as the qualifying child of the taxpayer who is—
+&emsp;&emsp;Except as provided in subparagraph (B), if (but for this paragraph) an individual maybe and is claimed as a qualifying child by 2 or more taxpayers for a taxable year beginning in the same calendar year, such individual shall be treated as the qualifying child of the taxpayer who is—
 
 &emsp;&emsp;&emsp;(i) a parent of the individual, or
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) which provides special instruction or training designed to alleviate the disability of the individual, and
 
-&emsp;&emsp;&emsp;(ii) which is operated by an organization described in section 501(c)(3) and exempt from tax under section 501(a), or by aState, a possession of the United States, any political subdivision of any of the foregoing, the United States, or the District of Columbia.
+&emsp;&emsp;&emsp;(ii) which is operated by an organization described in section 501(c)(3) and exempt from tax under section 501(a), or by a State, a possession of the United States, any political subdivision of any of the foregoing, the United States, or the District of Columbia.
 
 #### (5) Special rules for support
 
@@ -254,7 +254,7 @@ For purposes of this section—
 
 #### (2) Student defined
 
-&emsp;The term “student” means an individual who during each of 5 calendar months duringthe calendar year in which the taxable year of the taxpayer begins—
+&emsp;The term “student” means an individual who during each of 5 calendar months during the calendar year in which the taxable year of the taxpayer begins—
 
 &emsp;&emsp;(A) is a full-time student at an educational organization described in section 170(b)(1)(A)(ii), or
 
@@ -334,13 +334,13 @@ Subsec. (d)(2). Pub. L. 99–514, §104(b)(3), substituted “section 151(c)(4)�
 
 Subsec. (e)(1)(A). Pub. L. 99–514, §104(b)(1)(B), substituted “section 151(c)(3)” for “section 151(e)(3)”.
 
-1984—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody;enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parent without custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve more support claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse of parent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
+1984—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody; enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parent without custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve more support claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse of parent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
 
 Subsec. (e)(6). Pub. L. 98–369, §482(b)(2), substituted “section 213(d)(5)” for “section 213(d)(4)”.
 
 1976—Subsec. (a)(9). Pub. L. 94–455, §1901(b)(7)(B), substituted “section 143” for “section 153”.
 
-Subsec. (a)(10). Pub. L. 94–455, §1901(a)(24)(A), struck out par. (10) relating to descendents of a taxpayer, who were members of taxpayer's household, before receiving institutional care.
+Subsec. (a)(10). Pub. L. 94–455, §1901(a)(24)(A), struck out par. (10) relating to descendents of a taxpayer, whowere members of taxpayer's household, before receiving institutional care.
 
 Subsec. (b)(3). Pub. L. 94–455, §1901(a)(24)(B), among other changes struck out “of the Canal Zone, or of the Republic of Panama” after “country contiguous to the United States,” and provisions relating to children born or adopted in Philippines.
 
@@ -420,5 +420,5 @@ Section 4(d) of Pub. L. 85–866 provided that: “The amendment made by subsect
 
 #### Effective Date of 1955 Amendment
 
-Section 3(b) of act Aug. 9, 1955, provided that: “The amendment made by section 2 of this Act \[amendingthis section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Section 3(b) of act Aug. 9, 1955, provided that: “The amendment made by section 2 of this Act \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 

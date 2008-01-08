@@ -26,7 +26,7 @@
 
 A prior section 709, act Aug. 14, 1935, ch. 531, title V, §509, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 926; amended July 10, 1972, Pub. L. 92–345, §2(e), 86 Stat. 457; Oct. 30, 1972, Pub. L. 92–603, title II, §§221(c)(3), 233(e), 86 Stat. 1389, 1412; July 1, 1973, Pub. L. 93–53, §4(a)(7), 87 Stat. 135, related to special project grants for health of school and preschool children, prior to the general revision of this subchapter by section 2192(a) of Pub. L. 97–35. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
-Provisions similar to those comprising former section 709, were contained in section 532 of act Aug. 14, 1935, ch. 531, title V, as added July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354 (formerly classified to section 729–1 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
+Provisions similar to those comprising former section 709, were contained in section 532 of act Aug. 14, 1935, ch. 531, title V, as added July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354 (formerly classified tosection 729–1 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
 

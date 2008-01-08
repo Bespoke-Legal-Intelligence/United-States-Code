@@ -14,7 +14,7 @@
 
 #### (A) Amount of block grants
 
-&emsp;&emsp;From the sums appropriated under this chapter, the Secretary shall, subject to this section, pay to governmental entities to pay the expenditures for nutrition assistance programs for needy persons as described in subparagraphs (B) and (C)—
+&emsp;&emsp;From the sums appropriated under this chapter, the Secretary shall, subject to thissection, pay to governmental entities to pay the expenditures for nutrition assistance programs for needy persons as described in subparagraphs (B) and (C)—
 
 &emsp;&emsp;&emsp;(i) for fiscal year 2003, $1,401,000,000; and
 
@@ -46,7 +46,7 @@
 
 #### (D) Carryover of funds
 
-&emsp;&emsp;For fiscal year 2002 and each fiscal year thereafter, not more than 2 percent of the funds made available under this paragraphfor the fiscal year to each governmental entity may be carried over to the following fiscal year.
+&emsp;&emsp;For fiscal year 2002 and each fiscal year thereafter, not more than 2 percent of the funds made available under this paragraph for the fiscal year to each governmental entity may be carried over to the following fiscal year.
 
 #### (3) Time and manner of payments to Commonwealth of Puerto Rico
 
@@ -114,7 +114,7 @@ Subsec. (b). Pub. L. 107–171, §4124(a)(2), substituted “subsection (a)(2)(B
 
 Subsec. (c). Pub. L. 107–171, §4124(a)(3), substituted “subsection (a)(2)(A) of this section” for “subsection (a)(1)(A) of this section” in two places.
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–387 substituted “Puerto Rico—” and cls. (i) to (iii) for “Puerto Rico $1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002,”.
+2000—Subsec. (a)(1)(A). Pub. L. 106–387 substituted “Puerto Rico—” and cls. (i) to (iii) for “Puerto Rico $1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002,”.
 
 1996—Subsec. (a)(1)(A). Pub. L. 104–127 substituted “$1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002” for “$974,000,000 for fiscal year 1991, $1,013,000,000 for fiscal year 1992, $1,051,000,000 for fiscal year 1993, $1,097,000,000 for fiscal year 1994, and $1,143,000,000 for fiscal year 1995”.
 

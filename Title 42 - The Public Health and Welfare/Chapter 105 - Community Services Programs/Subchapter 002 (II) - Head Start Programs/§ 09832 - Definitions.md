@@ -8,49 +8,149 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) an infant or toddler with a disability, as defined in section 1432(5) of title 20.
 
-&emsp;(2) The term “delegate agency” means a public, private nonprofit, or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
+&emsp;(2) The term “deficiency” means—
 
-&emsp;(3) The term “family literacy services” means services that are of sufficient intensity in terms of hours, and of sufficient duration, to make sustainable changes in a family, and that integrate all of the following activities:
+&emsp;&emsp;(A) a systemic or substantial material failure of an agency in an area of performance that the Secretary determines involves—
+
+&emsp;&emsp;&emsp;(i) a threat to the health, safety, or civil rights of children or staff;
+
+&emsp;&emsp;&emsp;(ii) a denial to parents of the exercise of their full roles and responsibilities related to program operations;
+
+&emsp;&emsp;&emsp;(iii) a failure to comply with standards related to early childhood development and health services, family and community partnerships, or program design and management;
+
+&emsp;&emsp;&emsp;(iv) the misuse of funds received under this subchapter;
+
+&emsp;&emsp;&emsp;(v) loss of legal status (as determined by the Secretary) or financial viability, loss of permits, debarment from receiving Federal grants or contracts, or the improper use of Federal funds; or
+
+&emsp;&emsp;&emsp;(vi) failure to meet any other Federal or State requirement that the agency has shown an unwillingness or inability to correct, after notice from the Secretary, within the period specified;
+
+&emsp;&emsp;(B) systemic or material failure of the governing body of an agency to fully exercise its legal and fiduciary responsibilities; or
+
+&emsp;&emsp;(C) an unresolved area of noncompliance.
+
+&emsp;(3) The term “delegate agency” means a public, private nonprofit (including a community-based organization, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
+
+&emsp;(4) The term “family literacy services” means services that are of sufficient intensity in terms of hours, and of sufficient duration, to make sustainable changes in a family, and that integrate all of the following activities:
 
 &emsp;&emsp;(A) Interactive literacy activities between parents and their children.
 
 &emsp;&emsp;(B) Training for parents regarding how to be the primary teacher for their children and full partners in the education of their children.
 
-&emsp;&emsp;(C) Parent literacy training that leads to economic self-sufficiency.
+&emsp;&emsp;(C) Parent literacy training that leads to economic self-sufficiency, and financial literacy..<sup>1</sup>
 
 &emsp;&emsp;(D) An age-appropriate education to prepare children for success in school and life experiences.
 
-&emsp;(4) The term “financial assistance” includes assistance provided by grant, agreement, or contract, and payments may be made in installments and in advance or by way of reimbursement with necessary adjustments on account of overpayments or underpayments.
+&emsp;(5) The term “financial assistance” includes assistance provided by grant, agreement, or contract, and payments may be made in installments and in advance or by way of reimbursement with necessary adjustments on account of overpayments or underpayments.
 
-&emsp;(5) The term “full calendar year” means all days of the year other than Saturday, Sunday, and a legal public holiday.
+&emsp;(6) The term “full calendar year” means all days of the year other than Saturday, Sunday, and a legal public holiday.
 
-&emsp;(6) The term “full-working-day” means not less than 10 hours per day. Nothing in this paragraph shall be construed to require an agency to provide services to a child who has not reached the age of compulsory school attendance for more than the number of hours per day permitted by State law (including regulation) for the provision of services to such a child.
+&emsp;(7) The term “full-working-day” means not less than 10 hours per day. Nothing in this paragraph shall be construed to require an agency to provide services to a child who has not reached the age of compulsory school attendance for more than the number of hours per day permitted by State law (including regulation) for the provision of services to such a child.
 
-&emsp;(7) The term “Head Start classroom” means a group of children supervised and taught by two paid staff members (a teacher and a teacher's aide or two teachers) and, where possible, a volunteer.
+&emsp;(8) The term “Head Start classroom” means a group of children supervised and taught by two paid staff members (a teacher and a teacher's aide or two teachers) and, where possible, a volunteer.
 
-&emsp;(8) The term “Head Start family day care” means Head Start services provided in a private residence other than the residence of the child receiving such services.
+&emsp;(9) The term “Head Start family day care” means Head Start services provided in a private residence other than the residence of the child receiving such services.
 
-&emsp;(9) The term “home-based Head Start program” means a Head Start program that provides Head Start services in the private residence of the child receiving such services.
+&emsp;(10) The term “home-based Head Start program” means a Head Start program that provides Head Start services in the private residence of the child receiving such services.
 
-&emsp;(10) The term “Indian tribe” means any tribe, band, nation, pueblo, or other organized group or community of Indians, including any Native village described in section 3(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c)) or established pursuant to such Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(11) The term “homeless children” has the meaning given the term “homeless children and youths” in section 11434a(2) of this title.
 
-&emsp;(11) The term “local educational agency” has the meaning given such term in the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+&emsp;(12) The term “Indian tribe” means any tribe, band, nation, pueblo, or other organized group or community of Indians, including any Native village described in section 3(c) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c)) or established pursuant to such Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-&emsp;(12) The term “migrant and seasonal Head Start program” means—
+&emsp;(13) The term “institution of higher education” has the meaning given the term in section 1001(a) of title 20.
+
+&emsp;(14) The term “interrater reliability” means the extent to which 2 or more independent raters or observers consistently obtain the same result when using the same assessment tool.
+
+&emsp;(15) The term “limited English proficient”, used with respect to a child, means a child—
+
+&emsp;&emsp;(A)(i) who was not born in the United States or whose native language is a language other than English;
+
+&emsp;&emsp;(ii)(I) who is a Native American (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), an Alaska Native, or a native resident of an outlying area (as defined in such section 9101); and
+
+&emsp;&emsp;(II) who comes from an environment where a language other than English has had a significant impact on the child's level of English language proficiency; or
+
+&emsp;&emsp;(iii) who is migratory, whose native language is a language other than English, and who comes from an environment where a language other than English is dominant; and
+
+&emsp;&emsp;(B) whose difficulties in speaking or understanding the English language may be sufficient to deny such child—
+
+&emsp;&emsp;&emsp;(i) the ability to successfully achieve in a classroom in which the language of instruction is English; or
+
+&emsp;&emsp;&emsp;(ii) the opportunity to participate fully in society.
+
+&emsp;(16) The term “local educational agency” has the meaning given such term in the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+
+&emsp;(17) The term “migrant or seasonal Head Start program” means—
 
 &emsp;&emsp;(A) with respect to services for migrant farmworkers, a Head Start program that serves families who are engaged in agricultural labor and who have changed their residence from one geographic location to another in the preceding 2-year period; and
 
 &emsp;&emsp;(B) with respect to services for seasonal farmworkers, a Head Start program that serves families who are engaged primarily in seasonal agricultural labor and who have not changed their residence to another geographic location in the preceding 2-year period.
 
-&emsp;(13) The term “mobile Head Start program” means the provision of Head Start services utilizing transportable equipment set up in various community-based locations on a routine, weekly schedule, operating in conjunction with home-based Head Start programs, or as a Head Start classroom.
+&emsp;(18) The term “mobile Head Start program” means the provision of Head Start services utilizing transportable equipment set up in various community-based locations on a routine, weekly schedule, operating in conjunction with home-based Head Start programs, or as a Head Start classroom.
 
-&emsp;(14) The term “poverty line” means the official poverty line (as defined by the Office of Management and Budget)—
+&emsp;(19) The term “poverty line” means the official poverty line (as defined by the Office of Management and Budget)—
 
-&emsp;&emsp;(A) adjusted to reflect the percentage change in the Consumer Price Index For <sup>1</sup> All Urban Consumers, issued by the Bureau of Labor Statistics, occurring in the 1-year period or other interval immediately preceding the date such adjustment is made; and
+&emsp;&emsp;(A) adjusted to reflect the percentage change in the Consumer Price Index For <sup>2</sup> All Urban Consumers, issued by the Bureau of Labor Statistics, occurring in the 1-year period or other interval immediately preceding the date such adjustment is made; and
 
 &emsp;&emsp;(B) adjusted for family size.
 
-&emsp;(15) The term “scientifically based reading research”—
+&emsp;(20) The term “principles of scientific research” means principles of research that—
+
+&emsp;&emsp;(A) applies rigorous, systematic, and objective methodology to obtain reliable and valid knowledge relevant to education activities and programs;
+
+&emsp;&emsp;(B) presents findings and makes claims that are appropriate to and supported by methods that have been employed; and
+
+&emsp;&emsp;(C) includes, as appropriate to the research being conducted—
+
+&emsp;&emsp;&emsp;(i) use of systematic, empirical methods that draw on observation or experiment;
+
+&emsp;&emsp;&emsp;(ii) use of data analyses that are adequate to support the general findings;
+
+&emsp;&emsp;&emsp;(iii) reliance on measurements or observational methods that provide reliable and generalizable findings;
+
+&emsp;&emsp;&emsp;(iv) strong claims of causal relationships, only with research designs that eliminate plausible competing explanations for observed results, such as, but not limited to, random assignment experiments;
+
+&emsp;&emsp;&emsp;(v) presentation of studies and methods in sufficient detail and clarity to allow for replication or, at a minimum, to offer the opportunity to build systematically on the findings of the research;
+
+&emsp;&emsp;&emsp;(vi) acceptance by a peer-reviewed journal or critique by a panel of independent experts through a comparably rigorous, objective, and scientific review; and
+
+&emsp;&emsp;&emsp;(vii) consistency of findings across multiple studies or sites to support the generality of results and conclusions.
+
+&emsp;(21) The term “professional development” means high-quality activities that will improve the knowledge and skills of Head Start teachers and staff, as relevant to their roles and functions, in program administration and the provision of services and instruction, as appropriate, in a manner that improves service delivery to enrolled children and their families, including activities that—
+
+&emsp;&emsp;(A) are part of a sustained effort to improve overall program quality and outcomes for enrolled children and their families;
+
+&emsp;&emsp;(B) are developed or selected with extensive participation of administrators and teachers from Head Start programs;
+
+&emsp;&emsp;(C) are developmentally appropriate for the children being served;
+
+&emsp;&emsp;(D) include instruction in ways that Head Start teachers and staff may work more effectively with parents, as appropriate;
+
+&emsp;&emsp;(E) are designed to give Head Start teachers and staff the knowledge and skills to provide instruction and appropriate support services to children of diverse backgrounds, as appropriate;
+
+&emsp;&emsp;(F) may include a 1-day or short-term workshop or conference, if the workshop or conference is consistent with the goals in the professional development plan described in section 9843a(f) of this title and will be delivered by an institution of higher education or other entity, with expertise in delivering training in early childhood development, training in family support, and other assistance designed to improve the delivery of Head Start services; and
+
+&emsp;&emsp;(G) in the case of teachers, assist teachers with—
+
+&emsp;&emsp;&emsp;(i) the acquisition of the content knowledge and teaching strategies needed to provide effective instruction and other school readiness services regarding early language and literacy, early mathematics, early science, cognitive skills, approaches to learning, creative arts, physical health and development, and social and emotional development linked to school readiness;
+
+&emsp;&emsp;&emsp;(ii) meeting the requirements in paragraphs (1) and (2) of section 9843a(a) of this title, as appropriate;
+
+&emsp;&emsp;&emsp;(iii) improving classroom management skills, as appropriate;
+
+&emsp;&emsp;&emsp;(iv) advancing their understanding of effective instructional strategies that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) based on scientifically valid research; and
+
+&emsp;&emsp;&emsp;&emsp;(II) aligned with—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the Head Start Child Outcomes Framework developed by the Secretary and, as appropriate, State early learning standards; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) curricula, ongoing assessments, and other instruction and services, designed to help meet the standards described in section 9836a(a)(1) of this title;
+
+&emsp;&emsp;&emsp;(v) acquiring the knowledge and skills to provide instruction and appropriate language and support services to increase the English language skills of limited English proficient children, as appropriate; or
+
+&emsp;&emsp;&emsp;(vi) methods of teaching children with disabilities, as appropriate.
+
+&emsp;(22) The term “scientifically based reading research”—
 
 &emsp;&emsp;(A) means the application of rigorous, systematic, and objective procedures to obtain valid knowledge relevant to reading development, reading instruction, and reading difficulties; and
 
@@ -64,19 +164,35 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(iv) has been accepted by a peer-reviewed journal or approved by a panel of independent experts through a comparably rigorous, objective, and scientific review.
 
-&emsp;(16) The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;(23) The term “scientifically valid research” includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
 
-&emsp;(17) The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+&emsp;(24) The term “Secretary” means the Secretary of Health and Human Services.
 
-(Pub. L. 97–35, title VI, §637, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §101, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§104(b), 116(b), 117(b), 121(b), 123(a), Nov. 3, 1990, 104 Stat. 1228, 1232, 1233, 1237; Pub. L. 103–252, title I, §102, May 18, 1994, 108 Stat. 624; Pub. L. 105–285, title I, §103, Oct. 27, 1998, 112 Stat. 2703.)
+&emsp;(25) The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in section 9835(a)(2)(B)(v) of this title has not been enacted by September 30, 2009) for fiscal years 2010 through 2012.
+
+&emsp;(26) The term “unresolved area of noncompliance” means failure to correct a noncompliance item within 120 days, or within such additional time (if any) as is authorized by the Secretary, after receiving from the Secretary notice of such noncompliance item, pursuant to section 9836a(c) of this title.
+
+(Pub. L. 97–35, title VI, §637, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §101, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§104(b), 116(b), 117(b), 121(b), 123(a), Nov. 3, 1990, 104 Stat. 1228, 1232, 1233, 1237; Pub. L. 103–252, title I, §102, May 18, 1994, 108 Stat. 624; Pub. L. 105–285, title I, §103, Oct. 27, 1998, 112 Stat. 2703; Pub. L. 110–134, §3, Dec. 12, 2007, 121 Stat. 1364.)
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (12), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in par. (11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in par. (16), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
+
+2007—Pub. L. 110–134, §3(b), which directed redesignation of pars. (1) to (23) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, so that pars. (1) to (26) appear in numerical order, was executed by redesignating pars. (1) to (26) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, to reflect the probable intent of Congress.
+
+Par. (2). Pub. L. 110–134, §3(a)(1), inserted “(including a community-based organization, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801))” after “nonprofit”.
+
+Par. (3)(C). Pub. L. 110–134, §3(a)(2), inserted “, and financial literacy.” after “self-sufficiency”.
+
+Par. (12). Pub. L. 110–134, §3(a)(3), substituted “migrant or seasonal Head Start program” for “migrant and seasonal Head Start program”.
+
+Par. (17). Pub. L. 110–134, §3(a)(4), added par. (17) and struck out former par. (17) which read as follows: “The term ‘State’ means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.”
+
+Pars. (18) to (26). Pub. L. 110–134, §3(a)(5), added pars. (18) to (26).
 
 1998—Pars. (1), (2). Pub. L. 105–285, §103(2), added pars. (1) and (2). Former pars. (1) and (2) redesignated (16) and (17), respectively.
 
@@ -152,5 +268,7 @@ Application.—The requirements of this title and the amendments made by this ti
 
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under section 8621 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

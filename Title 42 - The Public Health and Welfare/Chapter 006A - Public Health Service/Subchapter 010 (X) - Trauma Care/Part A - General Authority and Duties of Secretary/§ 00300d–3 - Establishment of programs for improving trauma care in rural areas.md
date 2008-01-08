@@ -6,7 +6,7 @@ The Secretary may make grants to public and nonprofit private entities for the p
 
 &emsp;(1) by developing innovative uses of communications technologies and the use of new communications technology;
 
-&emsp;(2) by developing model curricula for training emergency medical services personnel, including first responders, emergency medical technicians, emergency nurses and physicians, and paramedics—
+&emsp;(2) by developing model curricula, such as advanced trauma life support, for training emergency medical services personnel, including first responders, emergency medical technicians, emergency nurses and physicians, and paramedics—
 
 &emsp;&emsp;(A) in the assessment, stabilization, treatment, preparation for transport, and resuscitation of seriously injured patients, with special attention to problems that arise during long transports and to methods of minimizing delays in transport to the appropriate facility; and
 
@@ -14,27 +14,35 @@ The Secretary may make grants to public and nonprofit private entities for the p
 
 &emsp;(3) by making training for original certification, and continuing education, in the provision and management of emergency medical services more accessible to emergency medical personnel in rural areas through telecommunications, home studies, providing teachers and training at locations accessible to such personnel, and other methods;
 
-&emsp;(4) by developing innovative protocols and agreements to increase access to prehospital care and equipment necessary for the transportation of seriously injured patients to the appropriate facilities; and
+&emsp;(4) by developing innovative protocols and agreements to increase access to prehospital care and equipment necessary for the transportation of seriously injured patients to the appropriate facilities;
 
-&emsp;(5) by evaluating the effectiveness of protocols with respect to emergency medical services and systems.
+&emsp;(5) by evaluating the effectiveness of protocols with respect to emergency medical services and systems; and
+
+&emsp;(6) by increasing communication and coordination with State trauma systems.
 
 #### (b) Special consideration for certain rural areas
 
-In making grants under subsection (a) of this section, the Secretary shall give special consideration to any applicant for the grant that will provide services under the grant in any rural area identified by a State under section 300d–14(c)(1) of this title.
+In making grants under subsection (a), the Secretary shall give special consideration to any applicant for the grant that will provide services under the grant in any rural area identified by a State under section 300d–14(d)(1) of this title.
 
 #### (c) Requirement of application
 
-The Secretary may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+The Secretary may not make a grant under subsection (a) unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
-(July 1, 1944, ch. 373, title XII, §1203, formerly §1204, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2918; renumbered §1203 and amended Pub. L. 103–183, title VI, §601(b)(2), (f)(1), Dec. 14, 1993, 107 Stat. 2238, 2239; Pub. L. 105–392, title IV, §401(a)(1), Nov. 13, 1998, 112 Stat. 3587.)
+(July 1, 1944, ch. 373, title XII, §1202, formerly §1204, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2918; renumbered §1203 and amended Pub. L. 103–183, title VI, §601(b)(2), (f)(1), Dec. 14, 1993, 107 Stat. 2238, 2239; Pub. L. 105–392, title IV, §401(a)(1), Nov. 13, 1998, 112 Stat. 3587; renumbered §1202 and amended Pub. L. 110–23, §§3(2), 4, May 3, 2007, 121 Stat. 90, 91.)
 
 #### Prior Provisions
 
 A prior section 300d–3, act July 1, 1944, ch. 373, title XII, §1204, as added Nov. 16, 1973, Pub. L. 93–154, §2(a), 87 Stat. 597; amended Oct. 21, 1976, Pub. L. 94–573, §5, 90 Stat. 2711; Nov. 10, 1978, Pub. L. 95–626, title II, §210(b), 92 Stat. 3588; Dec. 12, 1979, Pub. L. 96–142, title I, §104(a), (b), 93 Stat. 1067, 1068, set forth provisions relating to grants and contracts for expansion and improvements, prior to repeal by Pub. L. 97–35, title IX, §902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561, effective Oct. 1, 1981.
 
-A prior section 1203 of act July 1, 1994, was renumbered section 1202 and is classified to section 300d–2 of this title.
+A prior section 1202 of act July 1, 1944, was classified to section 300d–2 of this title prior to repeal by Pub. L. 110–23.
+
+Another prior section 1202 of act July 1, 1944, was classified to section 300d–1 of this title prior to repeal by Pub. L. 103–183.
+
+Another prior section 1202 of act July 1, 1944, was classified to section 300d–6 of this title prior to repeal by Pub. L. 99–117.
 
 #### Amendments
+
+2007—Pub. L. 110–23, §4, amended section generally. Prior to amendment, section provided for establishment of programs for improving trauma care in rural areas.
 
 1998—Pub. L. 105–392, §401(a)(1), made technical corrections to directory language of Pub. L. 103–183, §601(b)(2), which renumbered this section, and to directory language of Pub. L. 103–183, §601(f)(1). See 1993 Amendment note below.
 

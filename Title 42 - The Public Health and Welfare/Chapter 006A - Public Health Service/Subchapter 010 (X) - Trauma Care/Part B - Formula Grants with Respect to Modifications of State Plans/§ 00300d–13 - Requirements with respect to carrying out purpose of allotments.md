@@ -4,11 +4,11 @@
 
 With respect to the trauma care component of a State plan for the provision of emergency medical services, the modifications referred to in section 300d–11(b) of this title are such modifications to the State plan as may be necessary for the State involved to ensure that the plan provides for access to the highest possible quality of trauma care, and that the plan—
 
-&emsp;(1) specifies that the modifications required pursuant to paragraphs (2) through (10) will be implemented by the principal State agency with respect to emergency medical services or by the designee of such agency;
+&emsp;(1) specifies that the modifications required pursuant to paragraphs (2) through (11) will be implemented by the principal State agency with respect to emergency medical services or by the designee of such agency;
 
-&emsp;(2) specifies any public or private entity that will designate trauma care regions and trauma centers in the State;
+&emsp;(2) specifies a public or private entity that will designate trauma care regions and trauma centers in the State;
 
-&emsp;(3) subject to subsection (b) of this section, contains standards and requirements for the designation of level I and level II trauma centers, and in the case of rural areas level III trauma centers (including trauma centers with specified capabilities and expertise in thecare of the pediatric trauma patient), by such entity, including standards and requirements for—
+&emsp;(3) subject to subsection (b), contains national standards and requirements of the American College of Surgeons or another appropriate entity for the designation of level I and level II trauma centers, and in the case of rural areas level III trauma centers (including trauma centers with specified capabilities and expertise in the care of pediatric trauma patients), by such entity, including standards and requirements for—
 
 &emsp;&emsp;(A) the number and types of trauma patients for whom such centers must provide care in order to ensure that such centers will have sufficient experience and expertise to be able to provide quality care for victims of injury;
 
@@ -16,81 +16,89 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;&emsp;(C) the availability of rehabilitation services for trauma patients;
 
-&emsp;(4) subject to subsection (b) of this section, contains standards and requirements for the implementation of regional trauma care systems, including standards and guidelines (consistent with the provisions of section 1395dd of this title) for medically directed triage and transportation of trauma patients (including patients injured in rural areas) prior to care in designated trauma centers;
+&emsp;(4) contains standards and requirements for the implementation of regional trauma care systems, including standards and guidelines (consistent with the provisions of section 1395dd of this title) for medically directed triage and transportation of trauma patients (including patients injured in rural areas) prior to care in designated trauma centers;
 
-&emsp;(5) subject to subsection (b) of this section, contains standards and requirements for medically directed triage and transport of severely injured children to designated trauma centers with specified capabilities and expertise in the care of the pediatric trauma patient;
+&emsp;(5) subject to subsection (b), contains national standards and requirements, including those of the American Academy of Pediatrics and the American College of Emergency Physicians, for medically directed triage and transport of severely injured children to designated trauma centers with specified capabilities and expertise in the care of pediatric trauma patients;
 
-&emsp;(6) specifies procedures for the evaluation of designated trauma centers (including trauma centers described in paragraph (5)) and trauma care systems;
+&emsp;(6) utilizes a program with procedures for the evaluation of designated trauma centers (including trauma centers described in paragraph (5)) and trauma care systems;
 
-&emsp;(7) provides for the establishment and collection of data from each designated trauma center in the State of a central data reporting and analysis system—
+&emsp;(7) provides for the establishment and collection of data in accordance with data collection requirements developed in consultation with surgical, medical, and nursing specialty groups, State and local emergency medical services directors, and other trained professionals in trauma care, from each designated trauma center in the State of a central data reporting and analysis system—
 
-&emsp;&emsp;(A) to identify the number of severely injured trauma patients within regional trauma care systems in the State;
+&emsp;&emsp;(A) to identify the number of severely injured trauma patients and the number of deaths from trauma within trauma care systems in the State;
 
 &emsp;&emsp;(B) to identify the cause of the injury and any factors contributing to the injury;
 
 &emsp;&emsp;(C) to identify the nature and severity of the injury;
 
-&emsp;&emsp;(D) to monitor trauma patient care (including prehospital care) in each designated trauma center within regional trauma care systems in the State (including relevant emergency-department discharges and rehabilitation information) for the purpose of evaluating the diagnosis, treatment and treatment outcome of such trauma patients;
+&emsp;&emsp;(D) to monitor trauma patient care (including prehospital care) in each designated trauma center within regional trauma care systems in the State (including relevant emergency-department discharges and rehabilitation information) for the purpose of evaluating the diagnosis, treatment, and treatment outcome of such trauma patients;
 
 &emsp;&emsp;(E) to identify the total amount of uncompensated trauma care expenditures for each fiscal year by each designated trauma center in the State; and
 
-&emsp;&emsp;(F) to identify patients transferred within a regional trauma system, including reasons for such transfer;
+&emsp;&emsp;(F) to identify patients transferred within a regional trauma system, including reasons for such transfer and the outcomes of such patients;
 
 &emsp;(8) provides for the use of procedures by paramedics and emergency medical technicians to assess the severity of the injuries incurred by trauma patients;
 
-&emsp;(9) provides for appropriate transportation and transfer policies to ensure the delivery of patients to designated trauma centers and other facilities within and outside of the jurisdiction of such system, including policies to ensure that only individuals appropriately identified as trauma patients are transferred to designated trauma centers, and provides for periodic reviews of the transfers and the auditing of such transfers that are determined to be appropriate;
+&emsp;(9) provides for appropriate transportation and transfer policies to ensure the delivery of patients to designated trauma centers and other facilities within and outside of the jurisdiction of such system, including policies to ensure that only individuals appropriately identified as trauma patients are transferred to designated trauma centers, and to provide periodic reviews of the transfers and the auditing of such transfers that are determined to be appropriate;
 
-&emsp;(10) conducts public education activities concerning injury prevention and obtaining access to trauma care; and
+&emsp;(10) conducts public education activities concerning injury prevention and obtaining access to trauma care;
 
-&emsp;(11) with respect to the requirements established in this subsection, provides for coordination and cooperation between the State and any other State with which the State shares any standard metropolitan statistical area.
+&emsp;(11) coordinates planning for trauma systems with State disaster emergency planning and bioterrorism hospital preparedness planning; and
+
+&emsp;(12) with respect to the requirements established in this subsection, provides for coordination and cooperation between the State and any other State with which the State shares any standard metropolitan statistical area.
 
 #### (b) Certain standards with respect to trauma care centers and systems
 
 #### (1) In general
 
-&emsp;The Secretary may not make payments under section 300d–11(a) of this title for a fiscal year unless the State involved agrees that, in carrying out paragraphs (3) through (5) of subsection (a) of this section, the State will adopt standards for the designation of trauma centers, and for triage, transfer, and transportation policies, and that the State will, in adopting such standards—
+&emsp;The Secretary may not make payments under section 300d–11(a) of this title for a fiscal year unless the State involved agrees that, in carrying out paragraphs (3) through (5) of subsection (a), the State will adopt standards for the designation of trauma centers, and for triage, transfer, and transportation policies, and that the State will, in adopting such standards—
 
-&emsp;&emsp;(A) take into account national standards concerning such;
+&emsp;&emsp;(A) take into account national standards that outline resources for optimal care of injured patients;
 
-&emsp;&emsp;(B) consult with medical, surgical, and nursing speciality groups, hospital associations, emergency medical services State and local directors, concerned advocates and other interested parties;
+&emsp;&emsp;(B) consult with medical, surgical, and nursing speciality groups, hospital associations, emergency medical services State and local directors, concerned advocates, and other interested parties;
 
 &emsp;&emsp;(C) conduct hearings on the proposed standards after providing adequate notice to the public concerning such hearing; and
 
-&emsp;&emsp;(D) beginning in fiscal year 1992, take into account the model plan described in subsection (c) of this section.
+&emsp;&emsp;(D) beginning in fiscal year 2008, take into account the model plan described in subsection (c).
 
 #### (2) Quality of trauma care
 
 &emsp;The highest quality of trauma care shall be the primary goal of State standards adopted under this subsection.
 
-#### (3) Approval by Secretary
+#### (3) Approval by the Secretary
 
 &emsp;The Secretary may not make payments under section 300d–11(a) of this title to a State if the Secretary determines that—
 
-&emsp;&emsp;(A) in the case of payments for fiscal year 1991 and subsequent fiscal years, the State has not taken into account national standards, including those of the American College of Surgeons, the American College of Emergency Physicians and the American Academy of Pediatrics, in adopting standards under this subsection; or
+&emsp;&emsp;(A) in the case of payments for fiscal year 2008 and subsequent fiscal years, the State has not taken into account national standards, including those of the American College of Surgeons, the American College of Emergency Physicians, and the American Academy of Pediatrics, in adopting standards under this subsection; or
 
-&emsp;&emsp;(B) in the case of payments for fiscal year 1992 and subsequent fiscal years, the State has not, in adopting such standards, taken into account the model plan developed under subsection (c) of this section.
+&emsp;&emsp;(B) in the case of payments for fiscal year 2008 and subsequent fiscal years, the State has not, in adopting such standards, taken into account the model plan developed under subsection (c).
 
 #### (c) Model trauma care plan
 
-Not later than 1 year after November 16, 1990, the Secretary shall develop a model plan for the designation of trauma centers and for triage, transfer and transportation policies that may be adopted for guidance by the State. Such plan shall—
+#### (1) In general
 
-&emsp;(1) take into account national standards, including those of the American College of Surgeons, American College of Emergency Physicians and the American Academy of Pediatrics;
+&emsp;Not later than 1 year after May 3, 2007, the Secretary shall update the model plan for the designation of trauma centers and for triage, transfer, and transportation policies that may be adopted for guidance by the State. Such plan shall—
 
-&emsp;(2) take into account existing State plans;
+&emsp;&emsp;(A) take into account national standards, including those of the American College of Surgeons, American College of Emergency Physicians, and the American Academy of Pediatrics;
 
-&emsp;(3) be developed in consultation with medical, surgical, and nursing speciality groups, hospital associations, emergency medical services State directors and associations, and other interested parties; and
+&emsp;&emsp;(B) take into account existing State plans;
 
-&emsp;(4) include standards for the designation of rural health facilities and hospitals best able to receive, stabilize, and transfer trauma patients to the nearest appropriate designated trauma center, and for triage, transfer, and transportation policies as they relate to rural areas.
+&emsp;&emsp;(C) be developed in consultation with medical, surgical, and nursing speciality groups, hospital associations, emergency medical services State directors and associations, and other interested parties; and
 
-> Standards described in paragraph (4) shall be applicable to all rural areas in the State, including both non-metropolitan areas and frontier areas that have populations of less than 6,000 per square mile.
+&emsp;&emsp;(D) include standards for the designation of rural health facilities and hospitals best able to receive, stabilize, and transfer trauma patients to the nearest appropriate designated trauma center, and for triage, transfer, and transportation policies as they relate to rural areas.
+
+#### (2) Applicability
+
+&emsp;Standards described in paragraph (1)(D) shall be applicable to all rural areas in the State, including both non-metropolitan areas and frontier areas that have populations of less than 6,000 per square mile.
 
 #### (d) Rule of construction with respect to number of designated trauma centers
 
-With respect to compliance with subsection (a) of this section as a condition of the receipt of a grant under section 300d–11(a) of this title, such subsection may not be construed to specify the number of trauma care centers designated pursuant to such subsection.
+With respect to compliance with subsection (a) as a condition of the receipt of a grant under section 300d–11(a) of this title, such subsection may not be construed to specify the number of trauma care centers designated pursuant to such subsection.
 
-(July 1, 1944, ch. 373, title XII, §1213, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2920; amended Pub. L. 103–183, title VI, §601(f)(3), Dec. 14, 1993, 107 Stat. 2239; Pub. L. 105–392, title IV, §401(b)(4), Nov. 13, 1998, 112 Stat. 3587.)
+(July 1, 1944, ch. 373, title XII, §1213, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2920; amended Pub. L. 103–183, title VI, §601(f)(3), Dec. 14, 1993, 107 Stat. 2239; Pub. L. 105–392, title IV, §401(b)(4), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 110–23, §7, May 3, 2007, 121 Stat. 93.)
 
 #### Amendments
+
+2007—Pub. L. 110–23 amended section generally. Prior to amendment, section related to requirements with respect to carrying out purpose of allotments.
 
 1998—Subsec. (a)(8). Pub. L. 105–392 substituted “provides for” for “provides for for”.
 

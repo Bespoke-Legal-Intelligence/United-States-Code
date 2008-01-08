@@ -6,9 +6,7 @@ Subject to the provisions of section 835<i>l</i> of this title, that portion of 
 
 #### References in Text
 
-The Federal reclamation laws, referred to in text, are classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands.
-
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
 #### Codification
 

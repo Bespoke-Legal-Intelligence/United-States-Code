@@ -32,7 +32,7 @@ Rules similar to the rules of subpart G of part II of subchapter A of chapter 51
 
 #### (d) Penalty for failure to register
 
-Any person engaged in a business referred to in subsection (a) who willfully fails to pay thetax imposed by subsection (a) shall be fined not more than $5,000, or imprisoned not more than 2 years, or both, for each such offense.
+Any person engaged in a business referred to in subsection (a) who willfully fails to pay the tax imposed by subsection (a) shall be fined not more than $5,000, or imprisoned not more than 2 years, or both, for each such offense.
 
 (Added Pub. L. 100–203, title X, §10512(f)(1), Dec. 22, 1987, 101 Stat. 1330–449; amended Pub. L. 109–59, title XI, §11125(b)(20)(E), Aug. 10, 2005, 119 Stat. 1957.)
 

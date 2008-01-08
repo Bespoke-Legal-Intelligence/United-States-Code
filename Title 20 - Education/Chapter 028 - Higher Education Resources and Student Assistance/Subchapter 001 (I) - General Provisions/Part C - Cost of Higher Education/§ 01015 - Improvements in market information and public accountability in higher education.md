@@ -74,7 +74,7 @@ The Secretary shall make available the data collected pursuant to subsection (a)
 
 #### (4) Higher education market basket
 
-&emsp;The Bureau of Labor Statistics, in consultation with the Commissioner of Education Statistics, shall develop a higher education market basket that identifies the items that comprise the costs of higher education. The Bureau of Labor Statistics shall provide a report on the market basket to the Committee on Labor and Human Resources of the Senate andthe Committee on Education and the Workforce of the House of Representatives not later than September 30, 2002.
+&emsp;The Bureau of Labor Statistics, in consultation with the Commissioner of Education Statistics, shall develop a higher education market basket that identifies the items that comprise the costs of higher education. The Bureau of Labor Statistics shall provide a report on the market basket to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than September 30, 2002.
 
 #### (5) Fines
 
@@ -142,6 +142,8 @@ Another prior section 1017, Pub. L. 89–329, title I, §117, as added Pub. L. 9
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Student Related Debt Study Required
 
 Pub. L. 105–244, title VIII, §803, Oct. 7, 1998, 112 Stat. 1805, provided that:
@@ -176,7 +178,7 @@ In General.—The Secretary of Education shall conduct a study that analyzes the
 
 “(b)
 
-Report.—After conclusion of the study required by subsection (a), the Secretary of Education shall submit a final report regarding the findings of the study to the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than 18 months after the date of enactment of the Higher Education Amendments of 1998 \[Oct. 7, 1998\].
+Report.—After conclusion of the study required by subsection (a), the Secretary of Education shall submit a final report regarding the findings of the study to the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives not later than 18 months after the date of enactment of the Higher Education Amendments of 1998 \[Oct. 7, 1998\].
 
 “(c)
 

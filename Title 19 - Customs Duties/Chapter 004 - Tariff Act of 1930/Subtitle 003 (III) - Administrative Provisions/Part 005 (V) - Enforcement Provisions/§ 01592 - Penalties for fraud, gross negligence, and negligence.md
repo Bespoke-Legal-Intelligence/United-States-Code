@@ -206,9 +206,41 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;&emsp;(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
 
-(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132; Pub. L. 108–77, title II, §205(a), Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §204, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–286, title II, §205, Aug. 3, 2004, 118 Stat. 939; Pub. L. 109–53, title II, §206(a), Aug. 2, 2005, 119 Stat. 484.)
+(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132; Pub. L. 108–77, title II, §205(a), Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §204, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–286, title II, §205, Aug. 3, 2004, 118 Stat. 939; Pub. L. 109–53, title II, §206(a), Aug. 2, 2005, 119 Stat. 484; Pub. L. 110–138, title II, §205(a), Dec. 14, 2007, 121 Stat. 1475.)
+
+#### Amendment of Subsections (c) and (i)
+
+<i>Pub. L. 110–138, title I, §107(a), title II, §205(a), Dec. 14, 2007, 121 Stat. 1459, 1475, provided that, effective on the date on which the United States-Peru Trade Promotion Agreement enters into force, this section is amended—</i>
+
+<i>(1) in subsection (c), by redesignating paragraph (10) as paragraph (11) and by inserting after paragraph (9) the following new paragraph:</i>
+
+#### <i>“(10) Prior disclosure regarding claims under the United States-Peru Trade Promotion Agreement</i>
+
+&emsp;<i>“An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Peru Trade Promotion Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.”; and</i>
+
+<i>(2) by adding at the end the following new subsection:</i>
+
+#### <i>“(i) False certifications of origin under the United States-Peru Trade Promotion Agreement</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a PTPA certification of origin (as defined in section 1508(h)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.</i>
+
+#### <i>“(2) Prompt and voluntary disclosure of incorrect information</i>
+
+&emsp;<i>“No penalty shall be imposed under this subsection if, promptly after an exporter or producer that issued a PTPA certification of origin has reason to believe that such certification contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certification was issued.</i>
+
+#### <i>“(3) Exception</i>
+
+&emsp;<i>“A person shall not be considered to have violated paragraph (1) if—</i>
+
+&emsp;&emsp;<i>“(A) the information was correct at the time it was provided in a PTPA certification of origin but was later rendered incorrect due to a change in circumstances; and</i>
+
+&emsp;&emsp;<i>“(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.”</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 110–138, see Effective and Termination Dates of 2007 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
@@ -228,7 +260,7 @@ Section 203 of the United States-Australia Free Trade Agreement Implementation A
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, H, 38 Stat. 183, which was superseded by act Sept. 21, 1922, ch. 356, titleIV, §592, 42 Stat. 982, and was repealed by section 643 thereof. Section 592 of the 1922 act was superseded by section 592 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, H, 38 Stat. 183, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §592, 42 Stat. 982, and was repealed by section 643 thereof. Section 592 of the 1922 act was superseded by section 592 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 The provisions of section III, H, of the 1913 act were substituted for provisions of the same nature made by the Customs Administrative Act of June 10, 1890, ch. 407, §§6, 9, 26 Stat. 134, 135, amended and reenacted by Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 95, 97.
 
@@ -272,7 +304,7 @@ Pub. L. 104–295, §3(a)(5), substituted “and fees be restored” for “or f
 
 1993—Subsec. (a)(1)(A)(i). Pub. L. 103–182, §621(1), inserted “or electronically transmitted data or information” after “document”.
 
-Subsec. (a)(2). Pub. L. 103–182, §621(2), inserted at end “The mere nonintentional repetition by an electronic system of an initial clerical error does not constitute a pattern of negligent conduct.”
+Subsec. (a)(2). Pub. L. 103–182, §621(2), inserted at end “The mere nonintentional repetition by an electronicsystem of an initial clerical error does not constitute a pattern of negligent conduct.”
 
 Subsec. (b)(1)(A). Pub. L. 103–182, §621(3)(A), substituted “the Customs Service” for “the appropriate customs officer”, “it shall issue” for “he shall issue” and “its intention” for “his intention” in introductory provisions.
 
@@ -294,9 +326,13 @@ Subsec. (f). Pub. L. 103–182, §205(c)(2), added subsec. (f).
 
 1980—Subsec. (e). Pub. L. 96–417 substituted in heading “Court of International Trade” for “District court” and in text “proceeding commenced by the United States in the Court of International Trade” for “proceeding in a United States district court commenced by the United States pursuant to section 1604 of this title”.
 
-1978—Pub. L. 95–410 substituted subsecs. (a) to (e) relating to penalties for fraud, gross negligence, and negligence for prior provisions which: provided for forfeiture of merchandise, or recovery of value thereof, where entry or attempted entry of the merchandise was made using fraudulent or false invoice, declaration, affidavit, letter, paper, or false statement, written or verbal, false or fraudulent practice or appliance, or false statement in a declaration on entry without reasonable cause to believe the truth of the statement or aided or procured the making any such false statement as to any material matter without reasonable cause to believe the truth of the statement, regardless of deprivation of lawful duties, or guilty of any willful act oromission when there was a deprivation of such duties; made the forfeiture applicable to the whole of the merchandise or the value thereof where package contained the particular articles to which the fraud or false paper or statement related; and defined attempt to enter the merchandise without an actual entry having been made or offered.
+1978—Pub. L. 95–410 substituted subsecs. (a) to (e) relating to penalties for fraud, gross negligence, and negligence for prior provisions which: provided for forfeiture of merchandise, or recovery of value thereof, where entry or attempted entry of the merchandise was made using fraudulent or false invoice, declaration, affidavit, letter, paper, or false statement, written or verbal, false or fraudulent practice or appliance, or false statement in a declaration on entry without reasonable cause to believe the truth of the statement or aided or procured the making any such false statement as to any material matter without reasonable cause to believe the truth of the statement, regardless of deprivation of lawful duties, or guilty of any willful act or omission when there was a deprivation of such duties; made the forfeiture applicable to the whole of the merchandise or the value thereof where package contained the particular articles to which the fraud or false paper or statement related; and defined attempt to enter the merchandise without an actual entry having been made or offered.
 
 1935—Act Aug. 5, 1935, inserted “whether or not the United States shall or may be deprived of the lawful duties, or any portion thereof, accruing upon the merchandise, or any portion thereof, embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement;”.
+
+#### Effective and Termination Dates of 2007 Amendment
+
+Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2005 Amendment
 

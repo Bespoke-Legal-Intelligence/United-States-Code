@@ -42,7 +42,7 @@ Subsec. (b)(3). Pub. L. 100–647, §1006(e)(8)(B), added par. (3).
 
 1984—Subsec. (d). Pub. L. 98–369, §54(a)(3), substituted “Distributions of appreciated property” for “Appreciated property used to redeem stock” in heading.
 
-Subsec. (d)(1). Pub. L. 98–369, §54(a)(1), substituted “This subsection shall be applied after the applications of subsections (b) and (c)” for “Subsections (b) and (c) shall not apply to any distribution to which this subsection applies” in provisions following subpar. (B).
+Subsec. (d)(1). Pub. L. 98–369, §54(a)(1), substituted “This subsection shall be applied after the applicationsof subsections (b) and (c)” for “Subsections (b) and (c) shall not apply to any distribution to which this subsection applies” in provisions following subpar. (B).
 
 Subsec. (d)(1)(A). Pub. L. 98–369, §54(a)(1), struck out “of part or all of his stock in such corporation” before “and”.
 
@@ -122,7 +122,7 @@ Special rule for certain distributions before january 1, 1988.—
 
 &emsp;&emsp;“(i)
 
-In general.—In the case of a transaction to which this subparagraph applies, subparagraph (A) shall be applied by substituting ‘1988’ for ‘1985’ and the amendments made by subtitle D of title VI of the Tax Reform Act of 1986 \[sections 631 to 634 of Pub. L. 99–514, enacting sections 336 and 337 of this title, amending this section and sections 26, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, repealing sections 333, 336, and 337 of this title, and enacting provisions set out as a note under section 301 of this title\] shall not apply.
+In general.—In the case of a transaction to which this subparagraph applies, subparagraph (A) shall be applied by substituting ‘1988’ for ‘1985’ and the amendments made by subtitle D of title VI of the Tax Reform Act of 1986 \[sections 631 to 634 of Pub. L. 99–514, enacting sections 336 and 337 of this title, amending this section and sections 26, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248,1255, 1276, 1363, 1366, 1374, and 1375 of this title, repealing sections 333, 336, and 337 of this title, and enacting provisions set out as a note under section 301 of this title\] shall not apply.
 
 &emsp;&emsp;“(ii)
 
@@ -132,7 +132,7 @@ applies.—This subparagraph appies \[applies\] to a transaction in which a Dela
 
 &emsp;&emsp;&emsp;“(I) with respect to which such Delaware corporation is a 100-percent corporate shareholder, and
 
-&emsp;&emsp;&emsp;“(II) which is a Tennessee corporation which was incorporated on March 2, 1978,, \[sic\] andwhich is a successor to an Indiana corporation which was incorporated on June 28, 1946, and acquired by the transferee on December 9 \[10\], 1968.
+&emsp;&emsp;&emsp;“(II) which is a Tennessee corporation which was incorporated on March 2, 1978,, \[sic\] and which is a successor to an Indiana corporation which was incorporated on June 28, 1946, and acquired by the transferee on December 9 \[10\], 1968.
 
 “(4)
 

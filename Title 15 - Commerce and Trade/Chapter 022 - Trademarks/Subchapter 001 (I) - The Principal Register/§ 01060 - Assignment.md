@@ -8,9 +8,9 @@
 
 (4) An assignment shall be void against any subsequent purchaser for valuable consideration without notice, unless the prescribed information reporting the assignment is recorded in the United States Patent and Trademark Office within 3 months after the date of the assignment or prior to the subsequent purchase.
 
-(5) The United States Patent and Trademark Office shall maintain a record of information on assignments, in such form as may be prescribed by the Director.
+(5) The United States Patent and Trademark Office shall maintain a record of information onassignments, in such form as may be prescribed by the Director.
 
-(b) An assignee not domiciled in the United States may designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the assignee does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting themark, such notices or process may be served upon the Director.
+(b) An assignee not domiciled in the United States may designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the assignee does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served upon the Director.
 
 (July 5, 1946, ch. 540, title I, §10, 60 Stat. 431; Pub. L. 87–772, §6, Oct. 9, 1962, 76 Stat. 770; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §112, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §107, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(a), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(5), Nov. 2, 2002, 116 Stat. 1907.)
 
@@ -66,5 +66,5 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 

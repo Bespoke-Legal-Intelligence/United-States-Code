@@ -76,15 +76,13 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “AMT refundable credit amount” means, with respect to any taxable year, the amount equal to the greater of—
+&emsp;&emsp;The term “AMT refundable credit amount” means, with respect to any taxable year, the amount (not in excess of the long-term unused minimum tax credit for such taxable year) equal to the greater of—
 
-&emsp;&emsp;&emsp;(i) the lesser of—
+&emsp;&emsp;&emsp;(i) $5,000,
 
-&emsp;&emsp;&emsp;&emsp;(I) $5,000, or
+&emsp;&emsp;&emsp;(ii) 20 percent of the long-term unused minimum tax credit for such taxable year, or
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount of long-term unused minimum tax credit for such taxable year, or
-
-&emsp;&emsp;&emsp;(ii) 20 percent of the amount of such credit.
+&emsp;&emsp;&emsp;(iii) the amount (if any) of the AMT refundable credit amount determined under this paragraph for the taxpayer's preceding taxable year (as determined before any reduction under subparagraph (B)).
 
 #### (B) Phaseout of AMT refundable credit amount
 
@@ -110,13 +108,23 @@ For purposes of this section—
 
 &emsp;For purposes of this title (other than this section), the credit allowed by reason of this subsection shall be treated as if it were allowed under subpart C.
 
-(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953.)
+(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473.)
 
 #### Prior Provisions
 
 A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, §321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, §207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), and §265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, §5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, §102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 #### Amendments
+
+2007—Subsec. (e)(2)(A). Pub. L. 110–172 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘AMT refundable credit amount’ means, with respect to any taxable year, the amount equal to the greater of—
+
+&emsp;“(i) the lesser of—
+
+&emsp;&emsp;“(I) $5,000, or
+
+&emsp;&emsp;“(II) the amount of long-term unused minimum tax credit for such taxable year, or
+
+&emsp;“(ii) 20 percent of the amount of such credit.”
 
 2006—Subsec. (e). Pub. L. 109–432 added subsec. (e).
 
@@ -151,6 +159,10 @@ Pub. L. 101–239, §7612(a)(1), added cl. (iv).
 1988—Subsec. (d)(1)(B)(ii). Pub. L. 100–647, §1007(g)(4), substituted “current earnings” for “earnings and profits” in last sentence.
 
 Subsec. (d)(1)(B)(iii). Pub. L. 100–647, §6304(a), added cl. (iii).
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–172, §2(b), Dec. 29, 2007, 121 Stat. 2474, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the provision of the Tax Relief and Health Care Act of 2006 \[Pub. L. 109–432\] to which it relates.”
 
 #### Effective Date of 2006 Amendment
 

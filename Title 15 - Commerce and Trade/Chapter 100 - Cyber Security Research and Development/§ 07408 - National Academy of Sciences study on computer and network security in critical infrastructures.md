@@ -6,7 +6,7 @@ Not later than 3 months after November 27, 2002, the Director of the National In
 
 &emsp;(1) review existing studies and associated data on the architectural, hardware, and software vulnerabilities and interdependencies in United States critical infrastructure networks;
 
-&emsp;(2) identify and assess gaps in technical capability for robust critical infrastructure network security and make recommendations forresearch priorities and resource requirements; and
+&emsp;(2) identify and assess gaps in technical capability for robust critical infrastructure network security and make recommendations for research priorities and resource requirements; and
 
 &emsp;(3) review any and all other essential elements of computer and network security, including security of industrial process controls, to be determined in the conduct of the study.
 
@@ -23,4 +23,8 @@ The Director of the National Institute of Standards and Technology shall ensure 
 There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology for the purposes of carrying out this section, $700,000.
 
 (Pub. L. 107–305, §12, Nov. 27, 2002, 116 Stat. 2380.)
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

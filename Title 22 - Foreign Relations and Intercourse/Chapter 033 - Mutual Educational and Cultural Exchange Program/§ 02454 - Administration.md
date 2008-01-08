@@ -138,7 +138,7 @@ Sec. 5. <i>Certain incidental matters</i>. (a) In respect of functions hereinabo
 
 (1) The authority conferred upon the President by Sections 105(d)(2) and (f) and 106(d) and (f) of the Act \[sections 2455(d)(2), (f) and 2456(d), (f) of this title\].
 
-(2) Subject to the provisions of Section 5(b) and (c) of this order, the authority conferred upon the Presidentby Section 104(b) of the Act \[subsec. (b) of this section\] to employ personnel.
+(2) Subject to the provisions of Section 5(b) and (c) of this order, the authority conferred upon the President by Section 104(b) of the Act \[subsec. (b) of this section\] to employ personnel.
 
 (b) The employment, by any department or other executive agency under Section 5(a)(2) of this order, of any of the not to exceed ten persons who may be compensated with regard to the Classification Act of 1949 \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\] under Section 104(b) of the Act \[subsec. (b) of this section\] shall require prior authorization by the Secretary of State concurred in by the Director of the Office of Management and Budget.
 

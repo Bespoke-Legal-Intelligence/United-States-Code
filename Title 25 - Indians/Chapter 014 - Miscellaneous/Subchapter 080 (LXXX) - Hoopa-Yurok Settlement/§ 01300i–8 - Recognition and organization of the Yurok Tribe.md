@@ -6,7 +6,7 @@
 
 (2) The Indian Reorganization Act of June 18, 1934 (48 Stat. 984; 25 U.S.C. 461 et seq.), as amended, is hereby made applicable to the Yurok Tribe and the tribe may organize under such Act as provided in this section.
 
-(3) Within thirty days (30) after October 31, 1988, the Secretary, after consultation with the appropriate committees of Congress, shall appoint five (5) individuals who shall comprise the Yurok Transition Team which, pursuant to abudget approved by the Secretary, shall provide counseling and assistance, shall promote communication with potential members of the Yurok Tribe concerning the provisions of this subchapter, and shall study and investigate programs, resources, and facilities for consideration by the Interim Council. The Yurok Transition Team may receive grants and enter into contracts for the purpose of carrying out this section and section 1300i–9(a) of this title. Such grants and contracts shall be transferred to the Yurok Interim Council upon its organization. Any property acquired for or on behalf of the Yurok Transition Team shall be held in the name of the Yurok Tribe.
+(3) Within thirty days (30) after October 31, 1988, the Secretary, after consultation with the appropriate committees of Congress, shall appoint five (5) individuals who shall comprise the Yurok Transition Team which, pursuant to a budget approved by the Secretary, shall provide counseling and assistance, shall promote communication with potential members of the Yurok Tribe concerning the provisions of this subchapter, and shall study and investigate programs, resources, and facilities for consideration by the Interim Council. The Yurok Transition Team may receive grants and enter into contracts for the purpose of carrying out this section and section 1300i–9(a) of this title. Such grants and contracts shall be transferred to the Yurok Interim Council upon its organization. Any property acquired for or on behalf of the Yurok Transition Team shall be held in the name of the Yurok Tribe.
 
 #### (b) Interim Council; establishment
 
@@ -50,7 +50,7 @@ Upon written request of the Interim Council or the drafting committee and the su
 
 #### References in Text
 
-The Indian Reorganization Act, referred to in subsecs. (a)(2) and (e), is act June 18, 1934, ch. 576, 48 Stat.984, as amended, which is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+The Indian Reorganization Act, referred to in subsecs. (a)(2) and (e), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, which is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
 #### Amendments
 

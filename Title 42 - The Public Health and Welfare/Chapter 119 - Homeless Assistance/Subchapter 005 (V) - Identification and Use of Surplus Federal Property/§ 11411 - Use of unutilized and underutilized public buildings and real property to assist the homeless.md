@@ -54,7 +54,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (C) The Secretary shall establish a toll-free number to provide the public with specific information about properties on such list.
 
-(3) The Secretary shall make available to the public upon request all information (other than valuation information) regardless of format in the possession of the Department of Housing and Urban Development about the properties published under paragraph (1)(A), including environmental assessment data. The Secretary shall maintain a current list of agency contacts formaking referrals of inquiries for information about specific properties.
+(3) The Secretary shall make available to the public upon request all information (other than valuation information) regardless of format in the possession of the Department of Housing and Urban Development about the properties published under paragraph (1)(A), including environmental assessment data. The Secretary shall maintain a current list of agency contacts for making referrals of inquiries for information about specific properties.
 
 (4)(A) On December 31 of each year, the head of each landholding agency shall report to the Secretary the current availability status and the current classification of each property controlled by the agency, that—
 
@@ -84,7 +84,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (e) Application for property
 
-(1) A representative of the homeless may submit an application to the Secretary of Health and Human Services for any property that is published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless.
+(1) A representative of the homeless may submit an application to the Secretary of Healthand Human Services for any property that is published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless.
 
 (2) No later than 90 days after the submission of written notice of intent to apply for a property, an applicant shall submit a complete application to the Secretary of Health and Human Services. The Secretary of Health and Human Services shall, with the concurrence of the appropriate landholding agency, grant reasonable extensions.
 

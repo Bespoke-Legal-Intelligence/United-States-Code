@@ -6,7 +6,7 @@ After each matching payment period, the Commission shall conduct a thorough exam
 
 #### (b) Repayments
 
-(1) If the Commission determines that any portion of the payments made to a candidate fromthe matching payment account was in excess of the aggregate amount of payments to which such candidate was entitled under section 9034, it shall notify the candidate, and the candidate shall pay to the Secretary an amount equal to the amount of excess payments.
+(1) If the Commission determines that any portion of the payments made to a candidate from the matching payment account was in excess of the aggregate amount of payments to which such candidate was entitled under section 9034, it shall notify the candidate, and the candidate shall pay to the Secretary an amount equal to the amount of excess payments.
 
 (2) If the Commission determines that any amount of any payment made to a candidate from the matching payment account was used for any purpose other than—
 

@@ -12,7 +12,7 @@
 
 #### (2) Flavors content
 
-&emsp;On each proof gallon of the flavors content of distilled spirits, there shall be allowed a credit against the tax imposed by section 5001 (or 7652) equal to $13.50.
+&emsp;On each proof gallon of the flavors content of distilled spirits, there shall be allowed acredit against the tax imposed by section 5001 (or 7652) equal to $13.50.
 
 #### (3) Fractional part of proof gallon
 

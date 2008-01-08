@@ -100,7 +100,7 @@ Additional state restrictions.—
 
 &emsp;&emsp;(A)
 
-In general.—Nothing in this subsection shall prevent any State from further restricting in any manner or prohibiting the operation of longer combination vehicles otherwise authorized under this subsection; except that such restrictions or prohibitions shall be consistent with the requirements of sections 31111–31114 of title 49.
+In general.—Nothing in this subsection shall prevent any State from furtherrestricting in any manner or prohibiting the operation of longer combination vehicles otherwise authorized under this subsection; except that such restrictions or prohibitions shall be consistent with the requirements of sections 31111–31114 of title 49.
 
 &emsp;&emsp;(B)
 
@@ -112,7 +112,7 @@ Publication of list.—
 
 &emsp;&emsp;(A)
 
-Submission to secretary.—Within 60 days of the date of the enactment of thissubsection, each State (i) shall submit to the Secretary for publication in the Federal Register a complete list of (I) all operations of longer combination vehicles being conducted as of June 1, 1991, pursuant to State statutes and regulations; (II) all limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, governing the operation of longer combination vehicles otherwise prohibited under this subsection; and (III) such statutes, regulations, limitations, and conditions; and (ii) shall submit to the Secretary copies of such statutes, regulations, limitations, and conditions.
+Submission to secretary.—Within 60 days of the date of the enactment of this subsection, each State (i) shall submit to the Secretary for publication in the Federal Register a complete list of (I) all operations of longer combination vehicles being conducted as of June 1, 1991, pursuant to State statutes and regulations; (II) all limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, governing the operation of longer combination vehicles otherwise prohibited under this subsection; and (III) such statutes, regulations, limitations, and conditions; and (ii) shall submit to the Secretary copies of such statutes, regulations, limitations, and conditions.
 
 &emsp;&emsp;(B)
 
@@ -162,7 +162,7 @@ In general.—Notwithstanding any other provision of this section, the Secretary
 
 Applicability.—Emergency limits established under paragraph (1) shall preempt any inconsistent State vehicle weight limits.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(<i>l</i>) \[title III,§347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171.)
 
 #### References in Text
 
@@ -326,7 +326,7 @@ Weight limitations.—For the period beginning on the date of enactment of this 
 
 &emsp;“(B)
 
-Covered state defined.—In this paragraph, the term ‘covered State’ means a State that has enforced, in the period beginning on October 6, 1992, and ending on the date of enactment of this subparagraph\[Nov. 30, 2005\], a single axle weight limitation of 20,000 pounds or greater but less than 24,000 pounds, including enforcement tolerances, on any vehicle referred to in paragraph (1) in any case in which the vehicle is using the Interstate System.”
+Covered state defined.—In this paragraph, the term ‘covered State’ means a State that has enforced, in the period beginning on October 6, 1992, and ending on the date of enactment of this subparagraph \[Nov. 30, 2005\], a single axle weight limitation of 20,000 pounds or greater but less than 24,000 pounds, including enforcement tolerances, on any vehicle referred to in paragraph (1) in any case in which the vehicle is using the Interstate System.”
 
 #### Temporary Exemption for Firefighting Vehicles
 

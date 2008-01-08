@@ -102,7 +102,7 @@ For purposes of this part:
 
 &emsp;(2) The term “research on women's health” means research on women's health conditions, including research on preventing such conditions.
 
-(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193.)
+(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193.)
 
 #### Amendments
 

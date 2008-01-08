@@ -140,6 +140,10 @@ Pub. L. 101–627, §105(a), redesignated former subsec. (e) as (f).
 
 1986—Subsecs. (b) to (e). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone” wherever appearing.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by section 301(e)(3) of Pub. L. 102–251 effective Mar. 9, 1992, and amendment by section 301(e)(1), (2), of Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
@@ -234,7 +238,7 @@ Negotiations.—Within 60 days after the date of enactment of this Act \[Nov. 28
 
 &emsp;“(1) within the jurisdiction of a nation having naturally occurring or artificially established anadromous fish populations of the same species as the imported or exported product; or
 
-&emsp;“(2) on the high seas according to an international agreement among nations with jurisdiction overmore than 1 percent of the stocks of anadromous fish being so harvested.
+&emsp;“(2) on the high seas according to an international agreement among nations with jurisdiction over more than 1 percent of the stocks of anadromous fish being so harvested.
 
 “(b)
 
@@ -282,7 +286,7 @@ Pub. L. 100–220, title IV, Dec. 29, 1987, 101 Stat. 1477, as amended by Pub. L
 
 “The Congress finds that—
 
-&emsp;“(1) the use of long plastic driftnets is a fishing technique that may result in the entanglement and death of enormous numbers of target and nontarget marine resources in the waters of the North Pacific Ocean, including the Bering Sea;
+&emsp;“(1) the use of long plastic driftnets is a fishing technique that may result in the entanglement anddeath of enormous numbers of target and nontarget marine resources in the waters of the North Pacific Ocean, including the Bering Sea;
 
 &emsp;“(2) there is a pressing need for detailed and reliable information on the number of marine resources that become entangled and die in actively fished driftnets and in driftnets that are lost, abandoned, or discarded; and
 
@@ -390,7 +394,7 @@ Alternative Driftnet Materials.—The Secretary, in consultation with such other
 
 “(c)
 
-Driftnet Bounty System.—The Secretary, in consultation with such other persons as may be appropriate, shall evaluate the feasibility of and develop appropriate recommendations for the implementation of a driftnet bounty system to pay persons who retrieve from the exclusive economic zone and deposit with the Secretary lost, abandoned, and discarded driftnet and other plastic fishing material.
+Driftnet Bounty System.—The Secretary, in consultation with such other persons as may be appropriate, shall evaluate the feasibility of and develop appropriate recommendations for the implementation of a driftnet bounty system to pay persons who retrieve from the exclusive economic zone and deposit with theSecretary lost, abandoned, and discarded driftnet and other plastic fishing material.
 
 “(d)
 

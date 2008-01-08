@@ -4,11 +4,13 @@ In the case of an individual who attends an eligible educational institution (as
 
 &emsp;(1) in applying section 25A, the term “qualified tuition and related expenses” shall include any costs which are qualified higher education expenses (as defined in section 529(e)(3)),
 
-&emsp;(2) each of the dollar amounts in effect under of <sup>1</sup> subparagraphs (A) and (B) of section 25A(b)(1) shall be twice the amount otherwise in effect before the application of this subsection, and
+&emsp;(2) each of the dollar amounts in effect under subparagraphs (A) and (B) of section 25A(b)(1) shall be twice the amount otherwise in effect before the application of this subsection, and
 
 &emsp;(3) section 25A(c)(1) shall be applied by substituting “40 percent” for “20 percent”.
 
-(Added Pub. L. 109–135, title I, §102(a), Dec. 21, 2005, 119 Stat. 2594.)
+(Added Pub. L. 109–135, title I, §102(a), Dec. 21, 2005, 119 Stat. 2594; amended Pub. L. 110–172, §11(a)(26), Dec. 29, 2007, 121 Stat. 2487.)
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Amendments
+
+2007—Par. (2). Pub. L. 110–172 substituted “under” for “under of”.
 

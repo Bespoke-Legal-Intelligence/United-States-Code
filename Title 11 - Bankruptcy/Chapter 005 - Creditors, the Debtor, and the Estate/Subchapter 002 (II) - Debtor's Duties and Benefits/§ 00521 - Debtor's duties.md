@@ -38,7 +38,7 @@
 
 &emsp;(5) appear at the hearing required under section 524(d) of this title;
 
-&emsp;(6) in a case under chapter 7 of this title in which the debtor is an individual, not retain possession of personal property as to which a creditor has an allowed claim for the purchaseprice secured in whole or in part by an interest in such personal property unless the debtor, not later than 45 days after the first meeting of creditors under section 341(a), either—
+&emsp;(6) in a case under chapter 7 of this title in which the debtor is an individual, not retain possession of personal property as to which a creditor has an allowed claim for the purchase price secured in whole or in part by an interest in such personal property unless the debtor, not later than 45 days after the first meeting of creditors under section 341(a), either—
 
 &emsp;&emsp;(A) enters into an agreement with the creditor pursuant to section 524(c) with respect to the claim secured by such property; or
 
@@ -80,13 +80,13 @@
 
 &emsp;(1) at the same time filed with the taxing authority, a copy of each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) with respect to each tax year of the debtor ending while the case is pending under such chapter;
 
-&emsp;(2) at the same time filed with the taxing authority, each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) that had not been filed with such authority as of the date of the commencement of the case and that was subsequently filed for any tax year of the debtor ending in the 3-year period ending on the date of the commencement of the case;
+&emsp;(2) at the same time filed with the taxing authority, each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) that had not been filed with such authority asof the date of the commencement of the case and that was subsequently filed for any tax year of the debtor ending in the 3-year period ending on the date of the commencement of the case;
 
 &emsp;(3) a copy of each amendment to any Federal income tax return or transcript filed with the court under paragraph (1) or (2); and
 
 &emsp;(4) in a case under chapter 13—
 
-&emsp;&emsp;(A) on the date that is either 90 days after the end of such tax year or 1 year after thedate of the commencement of the case, whichever is later, if a plan is not confirmed before such later date; and
+&emsp;&emsp;(A) on the date that is either 90 days after the end of such tax year or 1 year after the date of the commencement of the case, whichever is later, if a plan is not confirmed before such later date; and
 
 &emsp;&emsp;(B) annually after the plan is confirmed and until the case is closed, not later than the date that is 45 days before the anniversary of the confirmation of the plan;
 
@@ -132,7 +132,7 @@ Section 521 of the House amendment modifies a comparable provision contained in 
 
 This section lists three duties of the debtor in a bankruptcy case. The Rules of Bankruptcy Procedure will specify the means of carrying out these duties. The first duty is to file with the court a list of creditors and, unless the court orders otherwise, a schedule of assets and liabilities and a statement of his financial affairs. Second, the debtor is required to cooperate with the trustee as necessary to enable the trustee to perform the trustee's duties. Finally, the debtor must surrender to the trustee all property of the estate, and any recorded information, including books, documents, records, and papers, relating to property of the estate. This phrase “recorded information, including books, documents, records, and papers,” has been used here and throughout the bill as a more general term, and includes such other forms of recorded information as  data  in  computer  storage  or  in  other  machine readable forms.
 
-The list in this section is not exhaustive of the debtor's duties. Others are listed elsewhere in proposed title 11, such as in section 343, which requires the debtor to submit to examination, or in the Rules of Bankruptcy Procedure, as continued by §404(a) of S. 2266, such as the duty to attend any hearing on discharge, Rule 402(2).
+The list in this section is not exhaustive of the debtor's duties. Others are listed elsewhere in proposed title 11, such as in section 343, which requires the debtor to submit to examination, or in the Rules of Bankruptcy Procedure, as continued by §404(a) of S. 2266, such asthe duty to attend any hearing on discharge, Rule 402(2).
 
 #### References in Text
 
@@ -140,7 +140,7 @@ Section 3 of the Employee Retirement Income Security Act of 1974, referred to in
 
 Sections 530(b)(1) and 529(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (c), are classified to sections 530(b)(1) and 529(b)(1), respectively, of Title 26, Internal Revenue Code.
 
-Section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to insubsec. (g)(2), is section 315(c) of Pub. L. 109–8, which is set out as a note under this section.
+Section 315(c) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to in subsec. (g)(2), is section 315(c) of Pub. L. 109–8, which is set out as a note under this section.
 
 #### Amendments
 

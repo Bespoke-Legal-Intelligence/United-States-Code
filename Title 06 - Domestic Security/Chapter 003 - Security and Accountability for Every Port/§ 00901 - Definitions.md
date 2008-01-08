@@ -42,7 +42,7 @@ In this Act:
 
 #### (6) Container security device
 
-&emsp;The term “container security device” means a device, or system, designed, at a minimum,to identify positively a container, to detect and record the unauthorized intrusion of a container, and to secure a container against tampering throughout the supply chain. Such a device, or system, shall have a low false alarm rate as determined by the Secretary.
+&emsp;The term “container security device” means a device, or system, designed, at a minimum, to identify positively a container, to detect and record the unauthorized intrusion of a container, and to secure a container against tampering throughout the supply chain. Such a device, or system, shall have a low false alarm rate as determined by the Secretary.
 
 #### (7) Department
 

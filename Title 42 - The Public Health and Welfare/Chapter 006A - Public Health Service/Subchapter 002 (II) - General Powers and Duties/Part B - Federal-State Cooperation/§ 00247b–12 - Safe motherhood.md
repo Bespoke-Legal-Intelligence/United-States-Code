@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) The Secretary may expand the Pregnancy Risk Assessment Monitoring System to provide surveillance and collect data in each State.
 
-&emsp;&emsp;(C) The Secretary may expand the Maternal and Child Health Epidemiology Programto provide technical support, financial assistance, or the time-limited assignment of senior epidemiologists to maternal and child health programs in each State.
+&emsp;&emsp;(C) The Secretary may expand the Maternal and Child Health Epidemiology Program to provide technical support, financial assistance, or the time-limited assignment of senior epidemiologists to maternal and child health programs in each State.
 
 #### (b) Prevention research
 

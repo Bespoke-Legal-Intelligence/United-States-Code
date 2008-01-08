@@ -34,7 +34,7 @@ Subsec. (b)(1). Pub. L. 86–232 authorized Board to have an Executive Committee
 
 #### Transfer of Functions
 
-Executive Committee of National Science Board appointed under provisions of this section abolished and functions conferred by this section transferred to Executive Committee of National Science Board established by Reorg. Plan No. 2 of 1962, see sections 21(e) and23(a)(1) of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, set out as a note under section 1861 of this title.
+Executive Committee of National Science Board appointed under provisions of this section abolished and functions conferred by this section transferred to Executive Committee of National Science Board established by Reorg. Plan No. 2 of 1962, see sections 21(e) and 23(a)(1) of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, set out as a note under section 1861 of this title.
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 

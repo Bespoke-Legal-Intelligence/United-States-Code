@@ -4,7 +4,7 @@
 
 (b) It shall be the duty of the Administration to administer the old-age, survivors, and disability insurance program under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter.
 
-(Aug. 14, 1935, ch. 531, title VII, §701, 49 Stat. 635; Aug. 28, 1950, ch. 809, title IV, §401(a), 64 Stat.558; Pub. L. 103–296, title I, §101, Aug. 15, 1994, 108 Stat. 1465.)
+(Aug. 14, 1935, ch. 531, title VII, §701, 49 Stat. 635; Aug. 28, 1950, ch. 809, title IV, §401(a), 64 Stat. 558; Pub. L. 103–296, title I, §101, Aug. 15, 1994, 108 Stat. 1465.)
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Abolishment of office of commissioner of social security in the department of he
 
 “(b)
 
-Continuation of Orders, Determinations, Rules, Regulations, Etc.—All orders, determinations, rules, regulations, permits, contracts, collective bargaining agreements (and ongoing negotiations relating to such collective bargaining agreements), recognitions of labor organizations, certificates, licenses, and privileges—
+Continuation of Orders, Determinations, Rules, Regulations, Etc.—All orders, determinations,rules, regulations, permits, contracts, collective bargaining agreements (and ongoing negotiations relating to such collective bargaining agreements), recognitions of labor organizations, certificates, licenses, and privileges—
 
 &emsp;“(1) which have been issued, made, promulgated, granted, or allowed to become effective, in the exercise of functions (A) which were exercised by the Secretary of Health and Human Services (or the Secretary's delegate), and (B) which relate to functions which, by reason of this title, the amendments made thereby, and regulations prescribed thereunder, are vested in the Commissioner of Social Security; and
 

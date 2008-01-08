@@ -20,7 +20,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### (2) Subchapter III–A funds
 
-&emsp;The President may direct that up to 50 percent of the funds available for any fiscal year for carrying out subchapter III–A of this chapter be used to carry out subchapter III of this chapter.
+&emsp;The President may direct that up to 50 percent of the funds available for any fiscal yearfor carrying out subchapter III–A of this chapter be used to carry out subchapter III of this chapter.
 
 #### (c) Budget
 
@@ -66,5 +66,5 @@ Pub. L. 108–199, div. A, title VII, §724, Jan. 23, 2004, 118 Stat. 34.
 
 Pub. L. 108–7, div. A, title VII, §727, Feb. 20, 2003, 117 Stat. 42.
 
-Pub. L. 107—76, title VII, §730, Nov. 28, 2001, 115 Stat. 736.
+Pub. L. 107–76, title VII, §730, Nov. 28, 2001, 115 Stat. 736.
 

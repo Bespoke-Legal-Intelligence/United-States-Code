@@ -44,7 +44,7 @@ Pub. L. 104–201, div. A, title III, §366(b), Sept. 23, 1996, 110 Stat. 2496, 
 
 Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, struck out subchapter analysis consisting of items for subchapters I “Issue to the Armed Forces” and II “Issue of Serviceable Material Other Than to the Armed Forces” and struck out headings for subchapters I “ISSUE TO THE ARMED FORCES” and II “ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO THE ARMED FORCES”.
 
-1994—Pub. L. 103–337, div. A, title III, §339(a)(2), title XVI, §1671(b)(14), Oct. 5, 1994, 108 Stat. 2720, 3014, struck out item 2540 “Reserve components: supplies, services, and facilities” and added item 2553.
+1994—Pub. L. 103–337, div. A, title III, §339(a)(2), title XVI, §1671(b)(14), Oct. 5, 1994, 108 Stat. 2720, 3014, struckout item 2540 “Reserve components: supplies, services, and facilities” and added item 2553.
 
 1992—Pub. L. 102–484, div. A, title III, §304(c)(2), div. D, title XLIII, §4304(b), Oct. 23, 1992, 106 Stat. 2362, 2700, added items 2551 and 2552.
 

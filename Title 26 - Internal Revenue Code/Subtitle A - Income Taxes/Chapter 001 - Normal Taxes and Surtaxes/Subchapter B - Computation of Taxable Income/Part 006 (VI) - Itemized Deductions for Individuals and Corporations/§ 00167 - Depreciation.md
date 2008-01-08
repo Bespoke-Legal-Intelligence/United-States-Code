@@ -102,7 +102,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (2) Certain interests or rights acquired separately
 
-&emsp;If a depreciation deduction is allowable under subsection (a) with respect to any property described in subparagraph (B), (C), or (D) of section 197(e)(4), such deduction shall be computed in accordance with regulations prescribed by the Secretary. If such property would be tax-exempt use property as defined in subsection (h) of section 168 if such sectionapplied to such property, the useful life under such regulations shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
+&emsp;If a depreciation deduction is allowable under subsection (a) with respect to any property described in subparagraph (B), (C), or (D) of section 197(e)(4), such deduction shall be computed in accordance with regulations prescribed by the Secretary. If such property would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to such property, the useful life under such regulations shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
 
 #### (3) Mortgage servicing rights
 
@@ -166,7 +166,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (C) Special rules for financial exploitation of characters, etc.
 
-&emsp;&emsp;For purposes of this subsection, in the case of television and motion picture films, the income from the property shall include income from the exploitation of characters, designs, scripts, scores, and other incidentalincome associated with such films, but only to the extent that such income is earned in connection with the ultimate use of such items by, or the ultimate sale of merchandise to, persons who are not related persons (within the meaning of section 267(b)) to the taxpayer.
+&emsp;&emsp;For purposes of this subsection, in the case of television and motion picture films, the income from the property shall include income from the exploitation of characters, designs, scripts, scores, and other incidental income associated with such films, but only to the extent that such income is earned in connection with the ultimate use of such items by, or the ultimate sale of merchandise to, persons who are not related persons (within the meaning of section 267(b)) to the taxpayer.
 
 #### (D) Collection of interest
 
@@ -258,7 +258,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to which expenses are treated as qualified creative expenses to which section 263A(h) applies,
 
-&emsp;&emsp;&emsp;&emsp;(II) to which a simplified procedure established under section 263A(j)(2) applies, or
+&emsp;&emsp;&emsp;&emsp;(II) to which a simplified procedure established under section 263A(i)(2) applies, or
 
 &emsp;&emsp;&emsp;&emsp;(III) which is an amortizable section 197 intangible (as defined in section 197(c)).
 
@@ -274,7 +274,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (1) In general
 
-&emsp;Any geological and geophysical expenses paid or incurred in connection with the exploration for, or development of, oil or gas within the United States (as defined in section 638) shall be allowed as a deduction ratably over the 24-month period beginning on the date that such expense was paid or incurred.
+&emsp;Any geological and geophysical expenses paid or incurred in connection with the exploration for, or development of, oil or gas within the United States (as defined in section 638) shall be allowed as a deduction ratably overthe 24-month period beginning on the date that such expense was paid or incurred.
 
 #### (2) Half-year convention
 
@@ -292,7 +292,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a major integrated oil company, paragraphs (1) and (4) shall be applied by substituting “5-year” for “24 month”.
+&emsp;&emsp;In the case of a major integrated oil company, paragraphs (1) and (4) shall be applied by substituting “7-year” for “24 month”.
 
 #### (B) Major integrated oil company
 
@@ -316,9 +316,13 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;<b>(2) For amortization of goodwill and certain other intangibles, see section 197.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat. 1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–222, title II, §207(a), title V, §503(a), May 17, 2006, 120 Stat. 350, 354.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat. 1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–222, title II, §207(a), title V, §503(a), May 17, 2006, 120 Stat. 350, 354; Pub. L. 110–140, title XV, §1502(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–172, §11(a)(13), Dec. 29, 2007, 121 Stat. 2485.)
 
 #### Amendments
+
+2007—Subsec. (g)(8)(C)(ii)(II). Pub. L. 110–172 substituted “section 263A(i)(2)” for “section 263A(j)(2)”.
+
+Subsec. (h)(5)(A). Pub. L. 110–140 substituted “7-year” for “5-year”.
 
 2006—Subsec. (g)(8). Pub. L. 109–222, §207(a), added par. (8).
 
@@ -406,7 +410,7 @@ Subsecs. (r), (s). Pub. L. 101–508, §11812(a)(1), redesignated subsecs. (r) a
 
 Pub. L. 101–239, §7622(b)(1) \[(d)(1)\], repealed subsec. (r) which provided that trademark or trade name expenditures were not depreciable.
 
-1988—Subsec. (a). Pub. L. 100–647, §1002(a)(24), struck out at end “In the case of recovery property (within the meaning of section 168), the deduction allowable undersection 168 shall be deemed to constitute the reasonable allowance provided by this section, except with respect to that portion of the basis of such property to which subsection (k) applies.”
+1988—Subsec. (a). Pub. L. 100–647, §1002(a)(24), struck out at end “In the case of recovery property (within the meaning of section 168), the deduction allowable under section 168 shall be deemed to constitute the reasonable allowance provided by this section, except with respect to that portion of the basis of such property to which subsection (k) applies.”
 
 Subsec. (d). Pub. L. 100–647, §1002(a)(31), substituted “property to which section 168 applies” for “recovery property defined in section 168”.
 
@@ -422,7 +426,7 @@ Subsec. (q)(2)(B). Pub. L. 99–514, §1511(c)(4), substituted “at the underpa
 
 1984—Subsec. (k)(1), (3)(D). Pub. L. 98–369 substituted “January 1, 1987” for “January 1, 1984” wherever appearing.
 
-1983—Subsec. (<i>l</i>)(3)(G). Pub. L. 97–424 inserted provision that, for the purposes of this paragraph, rules similar to the rules of section 168(e)(3)(C) of this title shall apply.
+1983—Subsec. (<i>l</i>)(3)(G). Pub. L. 97–424 inserted provision that, for the purposes of this paragraph, rulessimilar to the rules of section 168(e)(3)(C) of this title shall apply.
 
 1981—Subsec. (a). Pub. L. 97–34, §203(a), inserted provision that, in the case of recovery property (within the meaning of section 168), the deduction allowable under section 168 shall be deemed to constitute the reasonable allowance provided by this section, except with respect to that portion of the basis of such property to which subsection (k) applies.
 
@@ -525,6 +529,12 @@ Subsec. (i)(3). Pub. L. 90–26, §1, substituted “March 9, 1967” for “Dec
 Subsecs. (f) to (i). Pub. L. 87–834, §13(c)(1), added subsec. (f) and redesignated former subsecs. (f), (g), and (h) as (g), (h), and (i), respectively.
 
 1958—Subsec. (d). Pub. L. 85–866 inserted “certified mail or” before “registered mail”.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–140, title XV, §1502(b), Dec. 19, 2007, 121 Stat. 1800, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts paid or incurred after the date of the enactment of this Act \[Dec. 19, 2007\].”
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Effective Date of 2006 Amendment
 
@@ -672,11 +682,11 @@ Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Discontinuation of Retirement-Replacement-Betterment Method of Depreciation; Transitional Rule
 

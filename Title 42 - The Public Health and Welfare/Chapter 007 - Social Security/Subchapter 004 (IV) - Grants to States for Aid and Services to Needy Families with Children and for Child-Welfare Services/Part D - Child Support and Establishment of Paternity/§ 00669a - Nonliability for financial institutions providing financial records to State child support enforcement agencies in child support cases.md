@@ -16,7 +16,7 @@ A State child support enforcement agency which obtains a financial record of an 
 
 #### (2) No liability for good faith but erroneous interpretation
 
-&emsp;No liability shall arise under this subsection with respect to any disclosure which results from a good faith, but erroneous, interpretation of subsection (b) of this section.
+&emsp;No liability shall arise under this subsection with respect to any disclosure which resultsfrom a good faith, but erroneous, interpretation of subsection (b) of this section.
 
 #### (3) Damages
 

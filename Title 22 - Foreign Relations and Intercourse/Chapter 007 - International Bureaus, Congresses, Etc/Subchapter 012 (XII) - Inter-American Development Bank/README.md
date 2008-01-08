@@ -43,3 +43,4 @@
 - [&sect; 00283z&#8211;8 - Increase in lending to Caribbean](%C2%A7%2000283z%E2%80%938%20-%20Increase%20in%20lending%20to%20Caribbean.md)
 - [&sect; 00283z&#8211;9 - Multilateral Investment Fund](%C2%A7%2000283z%E2%80%939%20-%20Multilateral%20Investment%20Fund.md)
 - [&sect; 00283z&#8211;10 - Focus on low-income areas of Latin America and Caribbean](%C2%A7%2000283z%E2%80%9310%20-%20Focus%20on%20low-income%20areas%20of%20Latin%20America%20and%20Caribbean.md)
+- [&sect; 00283z&#8211;11 - First replenishment of the resources of the Enterprise for the Americas Multilateral Investment Fund](%C2%A7%2000283z%E2%80%9311%20-%20First%20replenishment%20of%20the%20resources%20of%20the%20Enterprise%20for%20the%20Americas%20Multilateral%20Investment%20Fund.md)

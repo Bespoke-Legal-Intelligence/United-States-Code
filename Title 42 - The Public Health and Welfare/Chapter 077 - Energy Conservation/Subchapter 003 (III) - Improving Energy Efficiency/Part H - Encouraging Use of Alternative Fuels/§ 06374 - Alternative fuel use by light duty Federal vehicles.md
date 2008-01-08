@@ -2,7 +2,7 @@
 
 #### (a) Department of Energy program
 
-(1) Beginning in the fiscal year ending September 30, 1990, the Secretary shall ensure, with the cooperation of other appropriate agencies and consistent with other Federal law, that the maximum number practicable of the vehicles acquired annually for use by the Federal Government shall be alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.
+(1) Beginning in the fiscal year ending September 30, 1990, the Secretary shall ensure, with thecooperation of other appropriate agencies and consistent with other Federal law, that the maximum number practicable of the vehicles acquired annually for use by the Federal Government shall be alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.
 
 (2) In any determination of whether the acquisition of a vehicle is practicable under paragraph (1), the initial cost of such vehicle to the United States shall not be considered as a factor unless the initial cost of such vehicle exceeds the initial cost of a comparable gasoline or diesel fueled vehicle by at least 5 percent.
 
@@ -10,7 +10,7 @@
 
 (B) Vehicles acquired under this section shall be acquired from original equipment manufacturers. If such vehicles are not available from original equipment manufacturers, vehicles converted to use alternative fuels may be acquired if, after conversion, the original equipment manufacturer's warranty continues to apply to such vehicles, pursuant to an agreement between the original equipment manufacturer and the person performing the conversion. This subparagraph shall not apply to vehicles acquired by the United States Postal Service pursuant to a contract entered into by the United States Postal Service before October 24, 1992, and which terminates on or before December 31, 1997.
 
-(C) Alternative fueled vehicles, other than those described in subparagraph (B), may be acquired solely for the purposes of studies under subsection (b) of this section, whether or notoriginal equipment manufacturer warranties still apply.
+(C) Alternative fueled vehicles, other than those described in subparagraph (B), may be acquired solely for the purposes of studies under subsection (b) of this section, whether or not original equipment manufacturer warranties still apply.
 
 (D) In deciding which types of alternative fueled vehicles to acquire in implementing this part, the Secretary shall consider as a factor—
 
@@ -70,7 +70,7 @@ To the extent practicable, at locations where vehicles acquired under subsection
 
 (2)(A) Funds appropriated under this section for the acquisition of vehicles under subsection (a) of this section shall be applicable only to the portion of the cost of vehicles acquired under subsection (a) of this section which exceeds the cost of comparable gasoline or diesel fueled vehicles.
 
-(B) To the extent that appropriations are available for such purposes, the Secretary shall ensure that the cost to any Federal agency receiving a vehicle under paragraph (1) shall notexceed the cost to such agency of a comparable gasoline or diesel fueled vehicle.
+(B) To the extent that appropriations are available for such purposes, the Secretary shall ensure that the cost to any Federal agency receiving a vehicle under paragraph (1) shall not exceed the cost to such agency of a comparable gasoline or diesel fueled vehicle.
 
 (3) Only one-half of the vehicles acquired under this section by an agency of the Federal Government shall be counted against any limitation under law, Executive order, or executive or agency policy on the number of vehicles which may be acquired by such agency.
 
@@ -98,13 +98,13 @@ For purposes of this part—
 
 &emsp;(4) the term “dedicated vehicle” means—
 
-&emsp;&emsp;(A) a dedicated automobile, as such term is defined in section 32901(a)(7) of title 49; or
+&emsp;&emsp;(A) a dedicated automobile, as such term is defined in section 32901(a)(7) <sup>1</sup> of title 49; or
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that operates solely on alternative fuel;
 
 &emsp;(5) the term “dual fueled vehicle” means—
 
-&emsp;&emsp;(A) dual fueled automobile, as such term is defined in section 32901(a)(8) of title 49; or
+&emsp;&emsp;(A) dual fueled automobile, as such term is defined in section 32901(a)(8) <sup>1</sup> of title 49; or
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that is capable of operating on alternative fuel and is capable of operating on gasoline or diesel fuel; and
 
@@ -117,6 +117,10 @@ For purposes of this part—
 (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
 (Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–36, title I, §1002(h), June 25, 1999, 113 Stat. 134; Pub. L. 109–58, title VII, §701, Aug. 8, 2005, 119 Stat. 814.)
+
+#### References in Text
+
+Paragraphs (7) and (8) of section 32901(a) of title 49, referred to in subsec. (g)(4)(A), (5)(A), were redesignated (8) and (9), respectively, and a new par. (7) was enacted by Pub. L. 110–140, title I, §103(a)(2), (3), Dec. 19, 2007, 121 Stat. 1501.
 
 #### Codification
 
@@ -136,7 +140,7 @@ Subsec. (b)(3) to (5). Pub. L. 104–66, §1051(a), redesignated par. (5) as (3)
 
 1992—Subsec. (a)(1). Pub. L. 102–486, §302(a)(1), substituted “vehicles” for “passenger automobiles and light duty trucks” before “acquired annually for use” and “alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.” for “alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles.”
 
-Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquiredunder this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers.”
+Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers.”
 
 Subsec. (a)(4). Pub. L. 102–486, §302(a)(3), added par. (4).
 
@@ -205,4 +209,6 @@ Section 3 of Pub. L. 100–494 provided that: “The purpose of this Act \[see S
 #### Use of Nonstandard Fuels
 
 Section 5 of Pub. L. 100–494 provided that: “No guaranty or warranty with respect to any passenger automobile or light-duty truck acquired by the United States after October 1, 1989, shall be voided or reduced in effect by reason of the operation of such vehicle with any fuel for which a currently effective waiver, which includes a limitation regarding Reid vapor pressure with respect to such fuel, has been issued by the Administrator of the Environmental Protection Agency under section 211(f) of the Clean Air Act (42 U.S.C. 7545(f)).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

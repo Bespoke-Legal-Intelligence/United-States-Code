@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purposes of this subchapter, a State shall have primary enforcement responsibility for pesticide use violations during any period for which the Administrator determines that such State—
+For the purposes of this subchapter, a State shall have primary enforcement responsibilityfor pesticide use violations during any period for which the Administrator determines that such State—
 
 &emsp;(1) has adopted adequate pesticide use laws and regulations, except that the Administrator may not require a State to have pesticide use laws that are more stringent than this subchapter;
 

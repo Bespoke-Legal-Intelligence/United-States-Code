@@ -38,7 +38,7 @@
 
 &emsp;(C) any member of a class of plaintiffs is a citizen of a State and any defendant is a foreign state or a citizen or subject of a foreign state.
 
-(3) A district court may, in the interests of justice and looking at the totality of the circumstances, decline to exercise jurisdiction under paragraph (2) over a class action in which greater than one-third but less than two-thirdsof the members of all proposed plaintiff classes in the aggregate and the primary defendants are citizens of the State in which the action was originally filed based on consideration of—
+(3) A district court may, in the interests of justice and looking at the totality of the circumstances, decline to exercise jurisdiction under paragraph (2) over a class action in which greater than one-third but less than two-thirds of the members of all proposed plaintiff classes in the aggregate and the primary defendants are citizens of the State in which the action was originally filed based on consideration of—
 
 &emsp;(A) whether the claims asserted involve matters of national or interstate interest;
 
@@ -104,7 +104,7 @@
 
 &emsp;(II) the claims are joined upon motion of a defendant;
 
-&emsp;(III) all of the claims in the action are asserted on behalf of the general public (and noton behalf of individual claimants or members of a purported class) pursuant to a State statute specifically authorizing such action; or
+&emsp;(III) all of the claims in the action are asserted on behalf of the general public (and not on behalf of individual claimants or members of a purported class) pursuant to a State statute specifically authorizing such action; or
 
 &emsp;(IV) the claims have been consolidated or coordinated solely for pretrial proceedings.
 
@@ -120,7 +120,7 @@
 
 (e) The word “States”, as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 109–2, §4(a), Feb. 18, 2005, 119 Stat. 9.)
+(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a),202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 109–2, §4(a), Feb. 18, 2005, 119 Stat. 9.)
 
 #### Historical and Revision Notes
 
@@ -836,7 +836,7 @@ Subsecs. (b) to (d). Pub. L. 85–554 added subsecs. (b) and (c) and redesignate
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–2, §9, Feb. 18, 2005, 119 Stat. 14, provided that: “The amendments made by this Act \[enacting chapter 114 and section 1453 of this title and amending this section and sections 1335 and 1603 of this title\] shall apply to any civil action commenced on or after the date of enactment of this Act \[Feb. 18, 2005\].”
+Pub. L. 109–2, §9, Feb. 18, 2005, 119 Stat. 14, provided that: “The amendments made by this Act \[enacting chapter 114 and section 1453 of this title and amending this section and sections 1335 and 1603 of this title\]shall apply to any civil action commenced on or after the date of enactment of this Act \[Feb. 18, 2005\].”
 
 #### Effective Date of 1996 Amendment
 

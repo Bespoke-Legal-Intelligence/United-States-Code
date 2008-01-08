@@ -57,7 +57,7 @@ A prior section 4321, acts Aug. 16, 1954, ch. 736, 68A Stat. 515; Sept. 2, 1958,
 
 A prior section 4322, acts Aug. 16, 1954, ch. 736, 68A Stat. 515; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1295, granted exemptions in the case of sales by brokers or registered nominees and in the case of odd lot sales.
 
-A prior section 4323, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1296; Sept. 21, 1959, Pub. L. 86–344, §5(b), 73 Stat. 619, called for the affixing of the stamps representingthe tax upon the books of the corporation and the certification of the actual value of the shares transferred, and made reference to section 4352 in the case of transfers shown otherwise than by the books of the corporation.
+A prior section 4323, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1296; Sept. 21, 1959, Pub. L. 86–344, §5(b), 73 Stat. 619, called for the affixing of the stamps representing the tax upon the books of the corporation and the certification of the actual value of the shares transferred, and made reference to section 4352 in the case of transfers shown otherwise than by the books of the corporation.
 
 A prior section 4324, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1296, made cross references to other sections and subtitles for definitions, penalties, and other general and administrative provisions.
 
@@ -67,7 +67,7 @@ A prior section 4332, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Jan. 28, 1956,
 
 A prior section 4333, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1296, made cross references to other sections and subtitles for definitions, penalties, and other general and administrative provisions.
 
-A prior section 4341, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1297, granted an exemption from the imposition of the tax under sections 4321 and 4331 in the case of transfers as collateral security and as security for performance.
+A prior section 4341, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72Stat. 1297, granted an exemption from the imposition of the tax under sections 4321 and 4331 in the case of transfers as collateral security and as security for performance.
 
 A prior section 4342, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1297, granted exemptions in the case of delivery or transfer of instruments by a fiduciary to his nominee or between nominees or by a custodian.
 

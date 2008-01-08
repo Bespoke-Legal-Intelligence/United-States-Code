@@ -2,15 +2,19 @@
 
 There is hereby imposed on every employer (as defined in section 3306(a)) for each calendar year an excise tax, with respect to having individuals in his employ, equal to—
 
-&emsp;(1) 6.2 percent in the case of calendar years 1988 through 2007; or
+&emsp;(1) 6.2 percent in the case of calendar years 1988 through 2008; or
 
-&emsp;(2) 6.0 percent in the case of calendar year 2008 and each calendar year thereafter;
+&emsp;(2) 6.0 percent in the case of calendar year 2009 and each calendar year thereafter;
 
 > of the total wages (as defined in section 3306(b)) paid by him during the calendar year with respect to employment (as defined in section 3306(c)).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(a), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(a), Mar. 24, 1961, 75 Stat. 16; Pub. L. 88–31, §2(a), May 29, 1963, 77 Stat. 51; Pub. L. 91–373, title III, §301(a), Aug. 10, 1970, 84 Stat. 713; Pub. L. 92–329, §2(a), June 30, 1972, 86 Stat. 398; Pub. L. 94–455, title XIX, §1903(a)(11), Oct. 4, 1976, 90 Stat. 1808; Pub. L. 94–566, title II, §211(b), Oct. 20, 1976, 90 Stat. 2676; Pub. L. 97–248, title II, §271(b)(1), (c)(1), Sept. 3, 1982, 96 Stat. 554, 555; Pub. L. 99–514, title XVIII, §1899A(42), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 100–203, title IX, §9153(a), Dec. 22, 1987, 101 Stat. 1330–326; Pub. L. 101–508, title XI, §11333(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 102–164, title IV, §402, Nov. 15, 1991, 105 Stat. 1061; Pub. L. 103–66, title XIII, §13751, Aug. 10, 1993, 107 Stat. 664; Pub. L. 105–34, title X, §1035, Aug. 5, 1997, 111 Stat. 937.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(a), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(a), Mar. 24, 1961, 75 Stat. 16; Pub. L. 88–31, §2(a), May 29, 1963, 77 Stat. 51; Pub. L. 91–373, title III, §301(a), Aug. 10, 1970, 84 Stat. 713; Pub. L. 92–329, §2(a), June 30, 1972, 86 Stat. 398; Pub. L. 94–455, title XIX, §1903(a)(11), Oct. 4, 1976, 90 Stat. 1808; Pub. L. 94–566, title II, §211(b), Oct. 20, 1976, 90 Stat. 2676; Pub. L. 97–248, title II, §271(b)(1), (c)(1), Sept. 3, 1982, 96 Stat. 554, 555; Pub. L. 99–514, title XVIII, §1899A(42), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 100–203, title IX, §9153(a), Dec. 22, 1987, 101 Stat. 1330–326; Pub. L. 101–508, title XI, §11333(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 102–164, title IV, §402, Nov. 15, 1991, 105 Stat. 1061; Pub. L. 103–66, title XIII, §13751, Aug. 10, 1993, 107 Stat. 664; Pub. L. 105–34, title X, §1035, Aug. 5, 1997, 111 Stat. 937; Pub. L. 110–140, title XV, §1501(a), Dec. 19, 2007, 121 Stat. 1800.)
 
 #### Amendments
+
+2007—Par. (1). Pub. L. 110–140, §1501(a)(1), substituted “2008” for “2007”.
+
+Par. (2). Pub. L. 110–140, §1501(a)(2), substituted “2009” for “2008”.
 
 1997—Par. (1). Pub. L. 105–34, §1035(1), substituted “2007” for “1998”.
 
@@ -56,6 +60,12 @@ Pub. L. 94–455 substituted “each calendar year” for “the calendar year 1
 
 1960—Pub. L. 86–778 substituted “1961” for “1955” and “3.1 percent” for “3 percent”.
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–140, title XV, §1501(b), Dec. 19, 2007, 121 Stat. 1800, provided that: “The amendments made by this section \[amending this section\] shall apply to wages paid after December 31, 2007.”
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
 #### Effective Date of 1990 Amendment
 
 Section 11333(b) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply to wages paid after December 31, 1990.”
@@ -88,7 +98,7 @@ Section 301(a) of Pub. L. 91–373 provided that the amendment made by that sect
 
 #### Effective Date of 1960 Amendment
 
-Section 523(c) of Pub. L. 86–778 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to the calendar year 1961 and calendar years thereafter.”
+Section 523(c) of Pub. L. 86–778 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply only with respect to the calendar year 1961 and calendar years thereafter.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

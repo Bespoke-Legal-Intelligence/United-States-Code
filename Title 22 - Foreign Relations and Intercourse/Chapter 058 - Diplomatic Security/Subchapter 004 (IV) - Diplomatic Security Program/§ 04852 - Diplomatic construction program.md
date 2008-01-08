@@ -80,10 +80,6 @@ Subsec. (a)(2). Pub. L. 102–138, §131(2), amended par. (2) generally. Prior t
 
 1990—Subsec. (a)(2). Pub. L. 101–246 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security.”
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.

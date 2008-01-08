@@ -34,8 +34,6 @@ Feb. 14, 1885, ch. 67 (43d through 53d words); restated Sept. 30, 1890, ch. 1125
 
 R.S. 1254.
 
-z
-
 The applicability of the rule stated in the revised section to situations not expressly covered by the laws named in the source credits above is necessarily implied from laws providing for retirement in higher grade in those situations.
 
 #### Amendments

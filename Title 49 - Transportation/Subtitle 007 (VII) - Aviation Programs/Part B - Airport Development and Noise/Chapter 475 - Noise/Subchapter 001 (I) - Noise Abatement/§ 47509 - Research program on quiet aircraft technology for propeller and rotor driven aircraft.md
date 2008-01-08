@@ -14,7 +14,7 @@ Participation.—In conducting the study required under subsection (a), the Admi
 
 (d)
 
-Report.—Not less than 280 days after August 23, 1994, the Administrator of the Federal Aviation Administration and the Administrator of the National Aeronautics and Space Administration shall transmit to Congress a report on the results of the study required under subsection (a).
+Report.—Not less than 280 days after August 23, 1994, the Administrator of the Federal Aviation Administration and the Administratorof the National Aeronautics and Space Administration shall transmit to Congress a report on the results of the study required under subsection (a).
 
 (e)
 

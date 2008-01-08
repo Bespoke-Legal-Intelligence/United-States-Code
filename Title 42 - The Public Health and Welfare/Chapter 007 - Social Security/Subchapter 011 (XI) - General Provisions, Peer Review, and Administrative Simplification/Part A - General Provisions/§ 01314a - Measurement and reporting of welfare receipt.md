@@ -10,7 +10,7 @@ The Congress hereby declares that—
 
 &emsp;(3) the Federal Government should help welfare recipients as well as individuals at risk of welfare receipt to improve their education and job skills, to obtain child care and other necessary support services, and to take such other steps as may be necessary to assist them to become financially independent; and
 
-&emsp;(4) it is the purpose of this section to provide the public with generally accepted measures of welfare receipt so that it can track such receipt over time and determine whether progress is being made in reducing the rate at which and, to the extent feasible, the degree to which, families depend on income from welfare programs and the duration of welfare receipt.
+&emsp;(4) it is the purpose of this section to provide the public with generally accepted measures of welfare receipt so that it can track such receipt over time and determine whether progress is being made in reducing the rate at which and, to the extent feasible, the degreeto which, families depend on income from welfare programs and the duration of welfare receipt.
 
 #### (b) Development of welfare indicators and predictors
 
@@ -52,7 +52,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 #### (3) Vacancies
 
-&emsp;Any vacancy occurring in the membership of the Board shall be filled in the same manneras the original appointment for the position being vacated. The vacancy shall not affect the power of the remaining members to execute the duties of the Board.
+&emsp;Any vacancy occurring in the membership of the Board shall be filled in the same manner as the original appointment for the position being vacated. The vacancy shall not affect the power of the remaining members to execute the duties of the Board.
 
 #### (4) Duties
 
@@ -108,7 +108,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;&emsp;(F) such other information as the Secretary deems relevant; and
 
-&emsp;&emsp;(G) such recommendations for legislation, which shall not include proposals to reduce eligibility levels or impose barriers to program access, as the Secretary may determine to be necessary or desirable to reduce—
+&emsp;&emsp;(G) such recommendations for legislation, which shall not include proposals to reduceeligibility levels or impose barriers to program access, as the Secretary may determine to be necessary or desirable to reduce—
 
 &emsp;&emsp;&emsp;(i) the rate at which and the degree to which families depend on income from welfare programs, and
 
@@ -145,6 +145,4 @@ Subsec. (d)(4). Pub. L. 105–200, §410(h)(2), substituted “subsection (b)(3)
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 

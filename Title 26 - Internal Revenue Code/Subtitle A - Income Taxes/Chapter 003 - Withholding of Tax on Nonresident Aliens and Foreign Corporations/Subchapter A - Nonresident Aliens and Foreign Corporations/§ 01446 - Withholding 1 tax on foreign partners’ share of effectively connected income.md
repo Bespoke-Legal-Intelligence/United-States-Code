@@ -14,7 +14,7 @@ If—
 
 #### (1) In general
 
-&emsp;The amount of the withholding tax payable by any partnership under subsection (a) shallbe equal to the applicable percentage of the effectively connected taxable income of the partnership which is allocable under section 704 to foreign partners.
+&emsp;The amount of the withholding tax payable by any partnership under subsection (a) shall be equal to the applicable percentage of the effectively connected taxable income of the partnership which is allocable under section 704 to foreign partners.
 
 #### (2) Applicable percentage
 

@@ -16,7 +16,7 @@ When so provided by regulations promulgated by the Secretary in connection with 
 
 #### (2) Exchanges of transferable obligations issued at not less than par
 
-&emsp;In any case in which subsection (a) (or so much of section 1031(b) or (c) as relates to subsection (a) of this section) has applied to the exchange of a transferable obligation which was issued at not less than par for another transferable obligation, the issue price of theobligation received from the Government in the exchange shall be considered for purposes of applying subpart A of part V of subchapter P to be the same as the issue price of the obligation surrendered to the Government in the exchange, increased by the amount of other consideration (if any) paid to the United States as a part of the exchange.
+&emsp;In any case in which subsection (a) (or so much of section 1031(b) or (c) as relates to subsection (a) of this section) has applied to the exchange of a transferable obligation which was issued at not less than par for another transferable obligation, the issue price of the obligation received from the Government in the exchange shall be considered for purposes of applying subpart A of part V of subchapter P to be the same as the issue price of the obligation surrendered to the Government in the exchange, increased by the amount of other consideration (if any) paid to the United States as a part of the exchange.
 
 #### (c) Cross references
 

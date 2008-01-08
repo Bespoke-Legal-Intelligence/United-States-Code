@@ -146,7 +146,7 @@ The following organizations shall comply with the requirements of this section i
 
 #### (ii) Special rule for in-house expenditures
 
-&emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning ofsection 162(e)(5)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
+&emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(5)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
 
 #### (iii) Coordination with section 527(f)
 
@@ -240,7 +240,7 @@ Each controlling organization (within the meaning of section 512(b)(13)) which i
 
 #### (i) Additional notification requirements
 
-Any organization the gross receipts of which in any taxable year result in such organization being referred to in subsection (a)(3)(A)(ii) or (a)(3)(B)—
+Any organization the gross receipts of which in any taxable year result in such organizationbeing referred to in subsection (a)(3)(A)(ii) or (a)(3)(B)—
 
 &emsp;(1) shall furnish annually, in electronic form, and at such time and in such manner as the Secretary may by regulations prescribe, information setting forth—
 
@@ -304,7 +304,7 @@ Every organization described in section 509(a)(3) shall, on the return required 
 
 #### Adjustment of Exception Amount for Reporting Exception for Certain Exempt Organizations
 
-<i>For adjustment of limitation amount for taxable years beginning in 2007 for determining ap</i><i>plicability of subsection (e)(3) of this section to certain exempt organizations, see section 3.35 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation amount for taxable years beginning in 2008 for determining applicability of subsection (e)(3) of this section to certain exempt organizations, see section 3.34 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -408,7 +408,7 @@ Subsec. (c). Pub. L. 91–172, §101(j)(31), inserted cross references to sectio
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title XII, §1205(c)(2), Aug. 17, 2006, 120 Stat. 1068, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to returns the due date (determined without regard to extensions) of which is after the date of the enactment of this Act \[Aug. 17, 2006\].”
+Pub. L. 109–280, title XII, §1205(c)(2), Aug. 17, 2006, 120 Stat. 1068, provided that: “The amendments made bysubsection (b) \[amending this section\] shall apply to returns the due date (determined without regard to extensions) of which is after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
 Pub. L. 109–280, title XII, §1223(f), Aug. 17, 2006, 120 Stat. 1091, provided that: “The amendments made by this section \[amending this section and sections 6652 and 7428 of this title\] shall apply to notices and returns with respect to annual periods beginning after 2006.”
 

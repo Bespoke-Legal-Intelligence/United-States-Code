@@ -14,7 +14,7 @@ The requirements of subsection (d) of section 1342 of this title may not be waiv
 
 &emsp;(A) the effect of disposal of pollutants on human health or welfare, including but not limited to plankton, fish, shellfish, wildlife, shorelines, and beaches;
 
-&emsp;(B) the effect of disposal of pollutants on marine life including the transfer, concentration, and dispersal of pollutants or their byproducts through biological, physical, and chemical processes; changes in marine ecosystem diversity, productivity, and stability; and species and community population changes;
+&emsp;(B) the effect of disposal of pollutants on marine life including the transfer, concentration, and dispersal of pollutants or their byproducts through biological, physical, andchemical processes; changes in marine ecosystem diversity, productivity, and stability; and species and community population changes;
 
 &emsp;(C) the effect of disposal, of pollutants on esthetic, recreation, and economic values;
 

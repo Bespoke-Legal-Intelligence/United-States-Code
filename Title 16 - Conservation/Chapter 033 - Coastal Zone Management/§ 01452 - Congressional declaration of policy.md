@@ -28,7 +28,7 @@ The Congress finds and declares that it is the national policy—
 
 &emsp;&emsp;(K) the study and development, in any case in which the Secretary considers it to be appropriate, of plans for addressing the adverse effects upon the coastal zone of land subsidence and of sea level rise; and
 
-&emsp;(3) to encourage the preparation of special area management plans which provide for increased specificity in protecting significant natural resources, reasonable coastal-dependent economic growth, improved protection of life and property in hazardous areas, including those areas likely to be affected by land subsidence, sea level rise, or fluctuating water levels of the Great Lakes, and improved predictability in governmental decisionmaking;
+&emsp;(3) to encourage the preparation of special area management plans which provide for increased specificity in protecting significant natural resources, reasonable coastal-dependent economic growth, improved protection oflife and property in hazardous areas, including those areas likely to be affected by land subsidence, sea level rise, or fluctuating water levels of the Great Lakes, and improved predictability in governmental decisionmaking;
 
 &emsp;(4) to encourage the participation and cooperation of the public, state and local governments, and interstate and other regional agencies, as well as of the Federal agencies having programs affecting the coastal zone, in carrying out the purposes of this chapter;
 

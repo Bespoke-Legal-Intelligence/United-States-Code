@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-Upon the establishment of the Program, there shall also be established a Civilian Community Corps Advisory Board to advise the Director concerning the administration of this division and to assist in the development and administration of the Corps.
+Upon the establishment of the Program, there shall also be established a Civilian CommunityCorps Advisory Board to advise the Director concerning the administration of this division and to assist in the development and administration of the Corps.
 
 #### (b) Membership
 
@@ -30,7 +30,7 @@ The Advisory Board shall be composed of the following members:
 
 Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Board.
 
-(Pub. L. 101–610, title I, §163, formerly §195L, as added Pub. L. 102–484, div. A, title X, §1092(a)(1),Oct. 23, 1992, 106 Stat. 2532; renumbered §163 and amended Pub. L. 103–82, title I, §104(b), title IV, §§402(b)(3), 403(b), Sept. 21, 1993, 107 Stat. 840, 919, 920.)
+(Pub. L. 101–610, title I, §163, formerly §195L, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532; renumbered §163 and amended Pub. L. 103–82, title I, §104(b), title IV, §§402(b)(3), 403(b), Sept. 21, 1993, 107 Stat. 840, 919, 920.)
 
 #### References in Text
 

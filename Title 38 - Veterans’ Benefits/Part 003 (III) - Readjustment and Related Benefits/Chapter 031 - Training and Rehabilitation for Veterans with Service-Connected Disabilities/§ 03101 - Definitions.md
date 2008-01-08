@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 (6) The term “rehabilitation program” means (A) a vocational rehabilitation program, or (B) a program of independent living services and assistance authorized under section 3120 of this title for a veteran for whom a vocational goal has been determined not to be currently reasonably feasible.
 
-(7) The term “serious employment handicap” means a significant impairment, resulting in substantial part from a service-connected disability rated at 10 percent or more, of a veteran's ability to prepare for, obtain, or retain employment consistent with such veteran's abilities, aptitudes, and interests.
+(7) The term “serious employment handicap” means a significant impairment, resulting insubstantial part from a service-connected disability rated at 10 percent or more, of a veteran's ability to prepare for, obtain, or retain employment consistent with such veteran's abilities, aptitudes, and interests.
 
 (8) The term “vocational goal” means a gainful employment status consistent with a veteran's abilities, aptitudes, and interests.
 
@@ -56,7 +56,7 @@ Section 101(j) of Pub. L. 104–275 provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 3102 to 3109, 3117, 3118, and 3120 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1996\].
 
-“(2) The amendments made by subsection (a) (other than paragraph (2)) \[amending this section\], subsection (d) (other than subparagraphs (A) and (B) of paragraph (1)) \[amending section 3104 of this title\], and subsection\(i) \[amending section 3120 of this title\] shall only apply with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under chapter 31 of title 38, United States Code, received by the Secretary of Veterans Affairs on or after the date of the enactment of this Act, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for services and assistance under such chapter.”
+“(2) The amendments made by subsection (a) (other than paragraph (2)) \[amending this section\], subsection (d) (other than subparagraphs (A) and (B) of paragraph (1)) \[amending section 3104 of this title\], and subsection (i) \[amending section 3120 of this title\] shall only apply with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under chapter 31 of title 38, United States Code, received by the Secretary of Veterans Affairs on or after the date of the enactment of this Act, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for services and assistance under such chapter.”
 
 #### Effective Date
 

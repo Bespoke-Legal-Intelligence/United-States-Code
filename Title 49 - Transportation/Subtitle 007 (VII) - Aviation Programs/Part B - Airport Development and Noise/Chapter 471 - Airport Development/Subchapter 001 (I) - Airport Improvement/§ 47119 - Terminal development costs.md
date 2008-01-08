@@ -62,7 +62,7 @@ Nonhub Airports.—With respect to a project at a commercial service airport whi
 
 (d)
 
-Determination of Passenger Boarding at Commercial Service Airports.—For the purpose of determining whether an amount may be distributed for a fiscal year from the discretionary fund in accordance with subsection (b)(2)(A) to a commercial service airport, the Secretary shall make the determination of whether or not a public airport is a commercial service airport on the basis of the number of passenger boardings and type of air service at the public airport in the calendar year that includes the first day of such fiscal year or thepreceding calendar year, whichever is more beneficial to the airport.
+Determination of Passenger Boarding at Commercial Service Airports.—For the purpose of determining whether an amount may be distributed for a fiscal year from the discretionary fund in accordance with subsection (b)(2)(A) to a commercial service airport, the Secretary shall make the determination of whether or not a public airport is a commercial service airport on the basis of the number of passenger boardings and type of air service at the public airport in the calendar year that includes the first day of such fiscal year or the preceding calendar year, whichever is more beneficial to the airport.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1274; Pub. L. 103–305, title I, §117, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(69), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §152(b), Apr. 5, 2000, 114 Stat. 87; Pub. L. 108–176, title I, §§149(d), 166, Dec. 12, 2003, 117 Stat. 2505, 2514.)
 
@@ -142,7 +142,7 @@ Subsec. (b)(5). Pub. L. 108–176, §149(d), added par. (5).
 
 1994—Subsec. (a). Pub. L. 103–305, §117(1), inserted “or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992,” after “July 12, 1976,”.
 
-Subsec. (b)(2). Pub. L. 103–429, §6(69)(B), added par. (2) and struck out former par. (2) which read as follows: “to a sponsor of a nonprimary commercial service airport, not more than $200,000 of the amount that may be distributed for the fiscal year from the discretionary fund to pay project costs allowable under section 47110(d) of this title; or”.
+Subsec. (b)(2). Pub. L. 103–429, §6(69)(B), added par. (2) and struck out former par. (2) which read as follows:“to a sponsor of a nonprimary commercial service airport, not more than $200,000 of the amount that may be distributed for the fiscal year from the discretionary fund to pay project costs allowable under section 47110(d) of this title; or”.
 
 Subsec. (b)(3). Pub. L. 103–429, §6(69)(B), added par. (3). Former par. (3) redesignated (4).
 

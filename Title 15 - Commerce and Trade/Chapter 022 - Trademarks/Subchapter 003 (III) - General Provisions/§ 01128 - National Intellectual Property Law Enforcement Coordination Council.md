@@ -32,7 +32,7 @@ Nothing in this section shall derogate from the duties of the Secretary of State
 
 #### (e) Report
 
-The Council shall report annually on its coordination activities to the President, and tothe Committees on Appropriations and on the Judiciary of the Senate and the House of Representatives.
+The Council shall report annually on its coordination activities to the President, and to the Committees on Appropriations and on the Judiciary of the Senate and the House of Representatives.
 
 #### (f) Funding
 

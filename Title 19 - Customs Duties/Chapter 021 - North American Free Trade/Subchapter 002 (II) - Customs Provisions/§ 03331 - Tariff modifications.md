@@ -40,13 +40,13 @@
 
 #### (c) Conversion to ad valorem rates for certain textiles
 
-For purposes of subsections (a) and (b) of this section, with respect to an article covered byAnnex 300–B of the Agreement imported from Mexico for which the base rate in the Schedule of the United States in Annex 300–B is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
+For purposes of subsections (a) and (b) of this section, with respect to an article covered by Annex 300–B of the Agreement imported from Mexico for which the base rate in the Schedule of the United States in Annex 300–B is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
 
 (Pub. L. 103–182, title II, §201, Dec. 8, 1993, 107 Stat. 2068; Pub. L. 104–188, title I, §1954(a)(5), Aug. 20, 1996, 110 Stat. 1927.)
 
 #### References in Text
 
-The Trade Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Act is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Act is classified generally to subchapterV (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 #### Amendments
 

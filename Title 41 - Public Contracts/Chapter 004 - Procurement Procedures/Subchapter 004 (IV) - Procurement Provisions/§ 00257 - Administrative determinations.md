@@ -26,7 +26,7 @@ Pub. L. 104–106 substituted “section 255(d)” for “section 255(c)”.
 
 1984—Subsec. (a). Pub. L. 98–369, §2714(a)(4), substituted provision that determinations and decisions provided in this Act to be made by the Administrator or other agency head shall be final for provision that such determinations and decisions provided in this subchapter to be made by such official would be final, and inserted exception for determinations or decisions under sections 253, 253a, and 253b of this title, substituted “Except as provided in section 253(d)(2) of this title” for “Except as provided in subsection (b) of this section”, and directed the substitution of “this Act” for “this chapter” after “powers provided by”, which substitution was not capable of literal execution because the original text read “this title”. Consequently, the amendment was executed by substituting “this Act” for “this title” as the probable intent of Congress.
 
-Subsecs. (b), (c). Pub. L. 98–369, §2714(a)(4)(D)–(F), redesignated subsec. (c) as (b), struck out “paragraphs (11), (12), (13), or of section 253(c)”, and struck out former subsec. (b) which related to nondelegable powers and powers delegable to certain persons.
+Subsecs. (b), (c). Pub. L. 98–369, §2714(a)(4)(D)–(F), redesignated subsec. (c) as (b), struck out “paragraphs\(11), (12), (13), or of section 253(c)”, and struck out former subsec. (b) which related to nondelegable powers and powers delegable to certain persons.
 
 Subsec. (d). Pub. L. 98–369, §2714(a)(4)(G), struck out subsec. (d) which related to preservation of data relating to contracts negotiated pursuant to the former provisions of section 252(c) of this title.
 

@@ -124,7 +124,7 @@ Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable ye
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I,§121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
+Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I, §121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
 
 #### Effective Date of 1998 Amendment
 

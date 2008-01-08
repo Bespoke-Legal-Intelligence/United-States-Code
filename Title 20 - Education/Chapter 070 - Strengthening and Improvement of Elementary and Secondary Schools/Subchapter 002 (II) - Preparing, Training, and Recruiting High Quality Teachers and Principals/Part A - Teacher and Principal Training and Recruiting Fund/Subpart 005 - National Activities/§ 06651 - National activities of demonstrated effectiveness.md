@@ -248,7 +248,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (2) Membership
 
-&emsp;The panel shall be composed of 12 members appointed by the Secretary. The Secretary shall appoint the members from among practitioners and experts with experience relating to teacher mobility, such as teachers, members of teacher certification or licensing bodies, faculty of institutions of higher education that prepare teachers, and State policymakers with such experience.
+&emsp;The panel shall be composed of 12 members appointed by the Secretary. The Secretaryshall appoint the members from among practitioners and experts with experience relating to teacher mobility, such as teachers, members of teacher certification or licensing bodies, faculty of institutions of higher education that prepare teachers, and State policymakers with such experience.
 
 #### (3) Period of appointment; vacancies
 

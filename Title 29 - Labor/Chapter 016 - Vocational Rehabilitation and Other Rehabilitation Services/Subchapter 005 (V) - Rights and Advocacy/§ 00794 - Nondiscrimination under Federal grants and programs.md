@@ -68,7 +68,7 @@ Subsec. (c). Pub. L. 100–259, §4(2), added subsec. (c).
 
 1986—Pub. L. 99–506 substituted “individual with handicaps” for “handicapped individual” and “section 706(8) of this title” for “section 706(7) of this title”.
 
-1978—Pub. L. 95–602 substituted “section 706(7) of this title” for “section 706(6) of this title” and inserted provision prohibiting discrimination under any program or activity conducted by any Executive agency or by the United States Postal Service and requiring the heads of these agencies to promulgate regulations prohibiting discrimination.
+1978—Pub. L. 95–602 substituted “section 706(7) of this title” for “section 706(6) of this title” and inserted provision prohibiting discrimination under any program or activity conducted by any Executive agency or by theUnited States Postal Service and requiring the heads of these agencies to promulgate regulations prohibiting discrimination.
 
 #### Effective Date of 2002 Amendment
 

@@ -24,7 +24,7 @@ Congress finds the following:
 
 #### Effective Date
 
-Pub. L. 108–19, §15, Apr. 25, 2003, 117 Stat. 637, provided that: “This Act \[enacting this chapter\] shall take effect on the date on which the President certifies to the Congress that—
+Pub. L. 108–19, §15, Apr. 25, 2003, 117 Stat. 637, provided that: “This Act \[enacting this chapter\] shall take effecton the date on which the President certifies to the Congress that—
 
 &emsp;“(1) an applicable waiver that has been granted by the World Trade Organization is in effect; or
 
@@ -32,7 +32,7 @@ Pub. L. 108–19, §15, Apr. 25, 2003, 117 Stat. 637, provided that: “This Act
 
 > This Act shall thereafter remain in effect during those periods in which, as certified by the President to the Congress, an applicable waiver or decision referred to in paragraph (1) or (2) is in effect.”
 
-\[A Presidential message to Congress dated July 29, 2003, set out in 39 Weekly Compilation of Presidential Documents 1002, Aug. 4, 2003, certified that an applicable waiver granted by the World Trade Organization was in effect and would remain in effect until Dec. 31, 2006.\]
+\[A Presidential message to Congress dated July 29, 2003, set out in 39 Weekly Compilation of Presidential Documents 1002, Aug. 4, 2003, certified that an applicable waiver granted by the World Trade Organization was in effect and would remain in effect until Dec. 31, 2006. A subsequent waiver was granted by the World Trade Organization on Dec. 15, 2006, effective from Jan. 1, 2007, through Dec. 31, 2012. See World Trade Organization General Council Decision of Dec. 15, 2006, Doc. No. WT/L/676, Dec. 19, 2006.\]
 
 #### Short Title
 
@@ -42,7 +42,7 @@ Pub. L. 108–19, §1, Apr. 25, 2003, 117 Stat. 631, provided that: “This Act 
 
 Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Clean Diamond Trade Act (Public Law 108–19) \[19 U.S.C. 3901 et seq.\] (the “Act”), the International Emergency Economic Powers Act, as amended (50 U.S.C. 1701 <i>et seq</i>.), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), section 5 of the United Nations Participation Act \[of 1945\], as amended (22 U.S.C. 287c), and section 301 of title 3, United States Code, and in view of the national emergency described and declared in Executive Order 13194 of January 18, 2001 \[50 U.S.C. 1701 note\], and expanded in scope in Executive Order 13213 of May 22, 2001 \[50 U.S.C. 1701 note\],
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Clean Diamond Trade Act (Public Law 108–19) \[19 U.S.C. 3901 et seq.\] (the “Act”), the International Emergency Economic Powers Act, as amended (50 U.S.C. 1701 <i>et seq</i>.), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), section 5 of the United Nations Participation Act \[of 1945\], as amended (22 U.S.C. 287c), and section 301 of title 3, United States Code, and in view of the national emergency described and declared in Executive Order 13194 of January 18, 2001 \[listed in a table under section 1701 of Title 50, War and National Defense\], and expanded in scope in Executive Order 13213 of May 22, 2001 \[listed in a table under section 1701 of Title 50\],
 
 I, GEORGE W. BUSH, President of the United States of America, note that, in response to the role played by the illicit trade in diamonds in fueling conflict and human rights violations in Sierra Leone, the President declared a national emergency in Executive Order 13194 and imposed restrictions on the importation of rough diamonds into the United States from Sierra Leone. I expanded the scope of that emergency in Executive Order 13213 and prohibited absolutely the importation of rough diamonds from Liberia. I further note that representatives of the United States and numerous other countries announced in the Interlaken Declaration of November 5, 2002, the launch of the Kimberley Process Certification Scheme (KPCS) for rough diamonds, under which Participants prohibit the importation of rough diamonds from, or the exportation of rough diamonds to, a non-Participant and require that shipments of rough diamonds from or to a Participant be controlled through the KPCS. The Clean Diamond Trade Act authorizes the President to take steps to implement the KPCS. Therefore, in order to implement the Act, to harmonize Executive Orders 13194 and 13213 with the Act, to address further threats to international peace and security posed by the trade in conflict diamonds, and to avoid undermining the legitimate diamond trade, it is hereby ordered as follows:
 
@@ -50,7 +50,7 @@ Section 1. <i>Prohibitions</i>. Notwithstanding the existence of any rights or o
 
 (a) the importation into, or exportation from, the United States on or after July 30, 2003, of any rough diamond, from whatever source, unless the rough diamond has been controlled through the KPCS;
 
-(b) any transaction by a United States person anywhere, or any transaction that occurs in whole or inpart within the United States, that evades or avoids, or has the purpose of evading or avoiding, or attempts to violate, any of the prohibitions set forth in this section; and
+(b) any transaction by a United States person anywhere, or any transaction that occurs in whole or in part within the United States, that evades or avoids, or has the purpose of evading or avoiding, or attempts to violate, any of the prohibitions set forth in this section; and
 
 (c) any conspiracy formed to violate any of the prohibitions of this section.
 

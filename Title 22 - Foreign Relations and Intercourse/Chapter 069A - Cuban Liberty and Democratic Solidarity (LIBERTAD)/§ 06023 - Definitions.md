@@ -72,7 +72,7 @@ As used in this chapter, the following terms have the following meanings:
 
 #### (12) Property
 
-&emsp;(A) The term “property” means any property (including patents, copyrights, trademarks, and any other form of intellectualproperty), whether real, personal, or mixed, and any present, future, or contingent right, security, or other interest therein, including any leasehold interest.
+&emsp;(A) The term “property” means any property (including patents, copyrights, trademarks, and any other form of intellectual property), whether real, personal, or mixed, and any present, future, or contingent right, security, or other interest therein, including any leasehold interest.
 
 &emsp;(B) For purposes of subchapter III of this chapter, the term “property” does not include real property used for residential purposes unless, as of March 12, 1996—
 
@@ -112,7 +112,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(A) any United States citizen; or
 
-&emsp;&emsp;(B) any other legal entity which is organized under the laws of the United States, or of any State, the District of Columbia, or any commonwealth, territory, or possession of the United States, and which has its principal place of business in the United States.
+&emsp;&emsp;(B) any other legal entity which is organized under the laws of the United States, or of any State, the District of Columbia, or any commonwealth, territory, or possessionof the United States, and which has its principal place of business in the United States.
 
 (Pub. L. 104–114, §4, Mar. 12, 1996, 110 Stat. 789.)
 
@@ -125,4 +125,8 @@ The Cuban Democracy Act of 1992, referred to in par. (7)(A), is title XVII of di
 Section 902(c) of the Food Security Act of 1985, referred to in par. (7)(B), is section 902(c) of Pub. L. 99–198, title IX, Dec. 23, 1985, 99 Stat. 1443, which was set out as a note under former section 1446g of Title 7, Agriculture.
 
 The International Claims Settlement Act of 1949, referred to in par. (12)(B)(i), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

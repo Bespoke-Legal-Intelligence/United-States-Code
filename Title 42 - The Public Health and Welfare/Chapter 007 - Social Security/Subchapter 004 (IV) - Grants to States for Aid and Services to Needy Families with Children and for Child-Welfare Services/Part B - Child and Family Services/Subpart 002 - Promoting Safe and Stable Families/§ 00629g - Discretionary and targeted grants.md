@@ -38,7 +38,7 @@ From the amount (if any) appropriated pursuant to subsection (a) of this section
 
 The Secretary may make a grant to a State which has a plan approved under this subpart in an amount equal to the lesser of—
 
-&emsp;(1) 75 percent of the total expenditures by the State for activities under the plan duringthe fiscal year or the immediately succeeding fiscal year; or
+&emsp;(1) 75 percent of the total expenditures by the State for activities under the plan during the fiscal year or the immediately succeeding fiscal year; or
 
 &emsp;(2) the allotment of the State under subsection (c) of this section for the fiscal year.
 
@@ -100,7 +100,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (iii) No State agency only partnerships
 
-&emsp;&emsp;&emsp;If a State agency described in clause (i) or (ii) of subparagraph (A) enters into a regional partnership for purposes of this subsection, the State agency may not enter into a collaborative agreement only with the other State agency described in such clause (i) or (ii).
+&emsp;&emsp;&emsp;If a State agency described in clause (i) or (ii) of subparagraph (A) enters into a regional partnership for purposes of this subsection, the State agency may not enter into a collaborative agreement only withthe other State agency described in such clause (i) or (ii).
 
 #### (3) Authority to award grants
 
@@ -126,7 +126,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;(iii) decrease the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region.
 
-&emsp;&emsp;(C) A description of the joint activities to be funded in whole or in part with the fundsprovided under the grant, including the sequencing of the activities proposed to be conducted under the funding period for the grant.
+&emsp;&emsp;(C) A description of the joint activities to be funded in whole or in part with the funds provided under the grant, including the sequencing of the activities proposed to be conducted under the funding period for the grant.
 
 &emsp;&emsp;(D) A description of the strategies for integrating programs and services determined to be appropriate for the child and where appropriate, the child's family.
 
@@ -190,7 +190,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;(iv) demonstrate a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period; and
 
-&emsp;&emsp;(B) after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region.
+&emsp;&emsp;(B) after taking such factors into consideration, give greater weight to awardinggrants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region.
 
 #### (8) Performance indicators
 
@@ -216,7 +216,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (i) Annual report
 
-&emsp;&emsp;&emsp;Not later than September 30 of the first fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and annually thereafter until September 30 of the last fiscal year in which the recipient is paid funds under thegrant, the recipient shall submit to the Secretary a report on the services provided or activities carried out during that fiscal year with such funds. The report shall contain such information as the Secretary determines is necessary to provide an accurate description of the services provided or activities conducted with such funds.
+&emsp;&emsp;&emsp;Not later than September 30 of the first fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and annually thereafter until September 30 of the last fiscal year in which the recipient is paid funds under the grant, the recipient shall submit to the Secretary a report on the services provided or activities carried out during that fiscal year with such funds. The report shall contain such information as the Secretary determines is necessary to provide an accurate description of the services provided or activities conducted with such funds.
 
 #### (ii) Incorporation of information related to performance indicators
 

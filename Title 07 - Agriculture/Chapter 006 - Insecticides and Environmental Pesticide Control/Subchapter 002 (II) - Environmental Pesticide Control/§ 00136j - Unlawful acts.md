@@ -54,7 +54,7 @@
 
 &emsp;(O) to add any substance to, or take any substance from, any pesticide in a manner that may defeat the purpose of this subchapter;
 
-&emsp;(P) to use any pesticide in tests on human beings unless such human beings (i) are fully informed of the nature and purposes of the test and of any physical and mental healthconsequences which are reasonably foreseeable therefrom, and (ii) freely volunteer to participate in the test;
+&emsp;(P) to use any pesticide in tests on human beings unless such human beings (i) are fully informed of the nature and purposes of the test and of any physical and mental health consequences which are reasonably foreseeable therefrom, and (ii) freely volunteer to participate in the test;
 
 &emsp;(Q) to falsify all or part of any information relating to the testing of any pesticide (or any ingredient, metabolite, or degradation product thereof), including the nature of any protocol, procedure, substance, organism, or equipment used, observation made, or conclusion or opinion formed, submitted to the Administrator, or that the person knows will be furnished to the Administrator or will become a part of any records required to be maintained by this subchapter;
 
@@ -66,7 +66,7 @@
 
 The penalties provided for a violation of paragraph (1) of subsection (a) of this section shall not apply to—
 
-&emsp;(1) any person who establishes a guaranty signed by, and containing the name and address of, the registrant or person residing in the United States from whom the person purchased or received in good faith the pesticide in the same unbroken package, to the effect that the pesticide was lawfully registered at the time of sale and delivery to the person, and that it complies with the other requirements of this subchapter, and in such case the guarantor shall be subject to the penalties which would otherwise attach to the person holding the guaranty under the provisions of this subchapter;
+&emsp;(1) any person who establishes a guaranty signed by, and containing the name and address of, the registrant or person residing in the United States from whom the person purchased or received in good faith the pesticidein the same unbroken package, to the effect that the pesticide was lawfully registered at the time of sale and delivery to the person, and that it complies with the other requirements of this subchapter, and in such case the guarantor shall be subject to the penalties which would otherwise attach to the person holding the guaranty under the provisions of this subchapter;
 
 &emsp;(2) any carrier while lawfully shipping, transporting, or delivering for shipment any pesticide or device, if such carrier upon request of any officer or employee duly designated by the Administrator shall permit such officer or employee to copy all of its records concerning such pesticide or device;
 

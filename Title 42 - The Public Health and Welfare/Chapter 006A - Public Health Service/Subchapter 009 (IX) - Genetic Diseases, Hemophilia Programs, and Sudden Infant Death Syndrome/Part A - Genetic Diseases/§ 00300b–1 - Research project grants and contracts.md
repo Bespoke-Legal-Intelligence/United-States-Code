@@ -44,7 +44,7 @@ Grant award requirements.—
 
 &emsp;&emsp;“(i)
 
-Geographic diversity.—The Administrator shall, to the extent practicable, award grants underthis section \[probably means this subsection\] to eligible entities located in different regions of the United States.
+Geographic diversity.—The Administrator shall, to the extent practicable, award grants under this section \[probably means this subsection\] to eligible entities located in different regions of the United States.
 
 &emsp;&emsp;“(ii)
 

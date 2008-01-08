@@ -2,7 +2,7 @@
 
 #### (a) Federal recognition
 
-Federal recognition of the Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians is hereby reaffirmed. All laws and regulations of the United States of general application to Indians or nations, tribes, or bands of Indians, including the Act of June 18, 1934 (25 U.S.C. 461 et seq.; commonly referred to as the “Indian Reorganization Act”), which are not inconsistent with any specific provision of this subchapter shall be applicable to the Bands and their members.
+Federal recognition of the Little Traverse Bay Bands of Odawa Indians and the Little RiverBand of Ottawa Indians is hereby reaffirmed. All laws and regulations of the United States of general application to Indians or nations, tribes, or bands of Indians, including the Act of June 18, 1934 (25 U.S.C. 461 et seq.; commonly referred to as the “Indian Reorganization Act”), which are not inconsistent with any specific provision of this subchapter shall be applicable to the Bands and their members.
 
 #### (b) Federal services and benefits
 

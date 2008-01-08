@@ -76,7 +76,7 @@ With the concurrence of the Secretary of State, the Secretary shall ensure that�
 
 #### (g) Eligible country defined
 
-In this section, the term “eligible country” means a Central European country, an Eastern European country, Lithuania, Latvia, Estonia, the independent states of the former Soviet Union as defined in section 5801 of title 22, the Republic of Ireland, the province of Northern Ireland in the United Kingdom, and any developing country (as such term is defined in section 4359a(d) of this title) <sup>1</sup> if the Secretary, with the concurrence of the Secretary of State, determines that such developing country has a democratic form of government.
+In this section, the term “eligible country” means a Central European country, an EasternEuropean country, Lithuania, Latvia, Estonia, the independent states of the former Soviet Union as defined in section 5801 of title 22, the Republic of Ireland, the province of Northern Ireland in the United Kingdom, and any developing country (as such term is defined in section 4359a(d) of this title) <sup>1</sup> if the Secretary, with the concurrence of the Secretary of State, determines that such developing country has a democratic form of government.
 
 (Pub. L. 89–10, title II, §2345, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1664.)
 

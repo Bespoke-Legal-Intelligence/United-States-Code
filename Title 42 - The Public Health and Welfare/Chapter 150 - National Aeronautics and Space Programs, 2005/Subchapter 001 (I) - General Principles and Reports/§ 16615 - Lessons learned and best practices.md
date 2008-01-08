@@ -14,3 +14,7 @@ The Administrator shall provide incentives to encourage sharing and implementati
 
 (Pub. L. 109–155, title I, §107, Dec. 30, 2005, 119 Stat. 2912.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

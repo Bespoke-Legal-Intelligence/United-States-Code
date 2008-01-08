@@ -126,7 +126,7 @@ Review of Privacy Related Functions, Resources, and Report.—Within 120 days of
 
 “(d)
 
-Annual Report.—The privacy official shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on an annual basis on activities of the Department that affect privacy, including a summary of complaints of privacyviolations, implementation of section 552a of title 5, United States Code, internal controls, and other relevant matters.”
+Annual Report.—The privacy official shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on an annual basis on activities of the Department that affect privacy, including a summary of complaints of privacy violations, implementation of section 552a of title 5, United States Code, internal controls, and other relevant matters.”
 
 #### Report to Congress on Status of United States Persons or Residents Detained on Suspicion of Terrorism
 
@@ -138,7 +138,7 @@ Pub. L. 109–162, title XI, §1176, Jan. 5, 2006, 119 Stat. 3125, provided that
 
 #### Federal Bureau of Investigation Use of Translators
 
-Pub. L. 108–458, title II, §2006, Dec. 17, 2004, 118 Stat. 3704, provided that: “Not later than 30 days after the date of the enactment of this Act \[Dec. 17, 2004\], and annually thereafter, the Attorney General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, with respect to each preceding 12-month period—
+Pub. L. 108–458, title II, §2006, Dec. 17, 2004, 118 Stat. 3704, provided that: “Not later than 30 days after thedate of the enactment of this Act \[Dec. 17, 2004\], and annually thereafter, the Attorney General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, with respect to each preceding 12-month period—
 
 &emsp;“(1) the number of translators employed, or contracted for, by the Federal Bureau of Investigation or other components of the Department of Justice;
 
@@ -244,7 +244,7 @@ Terrorism Prevention Grants.—Terrorism prevention grants under this subsection
 
 &emsp;“(4) purchase equipment for managing a critical incident, such as communications equipment for improved interoperability among surrounding jurisdictions and mobile command posts for overall scene management; and
 
-&emsp;“(5) fund technical assistance programs that emphasize coordination among neighboring law enforcement agencies for sharing resources, and resources coordination among law enforcement agencies for combining intelligence gathering and analysis functions, and the development of policy, procedures, memorandums of understanding, and other best practices.
+&emsp;“(5) fund technical assistance programs that emphasize coordination among neighboring law enforcement agencies for sharing resources, and resourcescoordination among law enforcement agencies for combining intelligence gathering and analysis functions, and the development of policy, procedures, memorandums of understanding, and other best practices.
 
 “(c)
 
@@ -414,7 +414,7 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 &emsp;“(2) shall expire on December 31, 2004.
 
-“(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the FederalGovernment to conduct or to assist the Department of Justice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority.”
+“(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the Federal Government to conduct or to assist the Department of Justice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority.”
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -494,7 +494,7 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 
 &emsp;“(B) used to increase the number of field attorneys and related support staff over such personnel levels employed at the Department of Justice on September 30, 1988.
 
-“(3) Any increase in full-time equivalent positions described under paragraph (2)(B) shall be exclusively used for asset forfeiture and civil enforcement and be assigned to appropriate field offices of the OrganizedCrime and Racketeering Section and the Organized Crime Drug Enforcement Task Forces.
+“(3) Any increase in full-time equivalent positions described under paragraph (2)(B) shall be exclusively used for asset forfeiture and civil enforcement and be assigned to appropriate field offices of the Organized Crime and Racketeering Section and the Organized Crime Drug Enforcement Task Forces.
 
 “(d)
 
@@ -580,7 +580,7 @@ Pub. L. 94–503, title II, §201, Oct. 15, 1976, 90 Stat. 2425, provided that:
 
 “(3) The provisions of sections 7512 and 7701 of title 5, United States Code, and otherwise applicable Executive orders, shall not apply with respect to actions taken by the Administrator under paragraph (1) or any reduction in rank or pay (under paragraph (2) or otherwise) of any individual in a position described in subsection (a).
 
-“(d) Any individual whose pay is to be determined in accordance with this subsection shall be paid basic pay at the rate of basic pay he was receiving immediately before he was placed in a position under subsection (b)(1) or reduced in rank or pay under subsection (c)(2), as the case may be, until such time as the rate of basicpay he would receive in the absence of this subsection exceeds such rate of basic pay. The provisions of section 5337 of title 5, United States Code, shall not apply in any case in which this subsection applies.”
+“(d) Any individual whose pay is to be determined in accordance with this subsection shall be paid basic pay at the rate of basic pay he was receiving immediately before he was placed in a position under subsection (b)(1) or reduced in rank or pay under subsection (c)(2), as the case may be, until such time as the rate of basic pay he would receive in the absence of this subsection exceeds such rate of basic pay. The provisions of section 5337 of title 5, United States Code, shall not apply in any case in which this subsection applies.”
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -652,7 +652,7 @@ This separation of responsibilities—despite the relentless and dedicated effor
 
 For example, more than nine out of ten seizures of LSD made by the Bureau of Drug Abuse Control have also turned up marihuana—but that Bureau has no jurisdiction over marihuana.
 
-In many instances, we are confronted by well organized disciplined and resourceful criminals who reaphuge profits at the expense of their unfortunate victims.
+In many instances, we are confronted by well organized disciplined and resourceful criminals who reap huge profits at the expense of their unfortunate victims.
 
 The response of the Federal Government must be unified. And it must be total.
 
@@ -734,7 +734,7 @@ The Attorney General may from time to time make such provisions as he shall deem
 
 #### Sec. 7. Coordination
 
-The Attorney General, acting through the Administrator and such other officials of the Department of Justice as he may designate, shall provide for the coordination of all drug law enforcement functions vested in the Attorney General so as to assure maximum cooperation between and among the Administration, the Federal Bureau of Investigation, and other units of the Department involved in the performance of these and related functions.
+The Attorney General, acting through the Administrator and such other officials of the Department ofJustice as he may designate, shall provide for the coordination of all drug law enforcement functions vested in the Attorney General so as to assure maximum cooperation between and among the Administration, the Federal Bureau of Investigation, and other units of the Department involved in the performance of these and related functions.
 
 #### Sec. 8. Incidental Transfers
 
@@ -778,7 +778,7 @@ Funding for this effort has increased sevenfold during the past five years, from
 
 The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that “Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated.”
 
-More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. TheTreasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
+More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
 
 This aggregation of Federal activities has grown up rapidly over the past few years in response to the urgent need for stronger anti-drug measures. It has enabled us to make a very encouraging beginning in the accelerated drug enforcement drive of this Administration.
 
@@ -830,7 +830,7 @@ No heroin or cocaine is produced within the United States; domestic availability
 
 At the present time, however, Federal responsibility for conducting port-of-entry inspections is awkwardly divided among several Cabinet departments. The principal agencies involved are the Treasury Department's Bureau of Customs, which inspects goods, and the Justice Department's Immigration and Naturalization Service, which inspects persons and their papers. The two utilize separate inspection procedures, hold differing views of inspection priorities, and employ dissimilar personnel management practices.
 
-To reduce the possibility that illicit drugs will escape detection at ports-of-entry because of divided responsibility, and to enhance the effectiveness of the Drug Enforcement Administration, the reorganization plan which I am proposing today would transfer to the Secretary of the Treasury all functions currently vested inJustice Department officials to inspect persons, or the documents of persons.
+To reduce the possibility that illicit drugs will escape detection at ports-of-entry because of divided responsibility, and to enhance the effectiveness of the Drug Enforcement Administration, the reorganization plan which I am proposing today would transfer to the Secretary of the Treasury all functions currently vested in Justice Department officials to inspect persons, or the documents of persons.
 
 When the plan takes effect, it is my intention to direct the Secretary of the Treasury to use the resources so transferred—including some 1,000 employees of the Immigration and Naturalization Service—to augment the staff and budget of the Bureau of Customs. The Bureau's primary responsibilities would then include:
 
@@ -1024,7 +1024,7 @@ Sec. 3. <i>Functions</i>. Consistent with the constitutional authority of the Pr
 
 (a) provide direction for the investigation and prosecution of cases of securities fraud, accounting fraud, mail and wire fraud, money laundering, tax fraud based on such predicate offenses, and other related financial crimes committed by commercial entities and directors, officers, professional advisers, and employees thereof (hereinafter “financial crimes”), when such cases are determined by the Deputy Attorney General, for purposes of this order, to be significant;
 
-(b) provide recommendations to the Attorney General for allocation and reallocation of resources of the Department of Justice for investigation and prosecution of significant financial crimes, recovery of proceedsfrom such crimes to the extent permitted by law, and other matters determined by the Task Force from time to time to be of the highest priority in the investigation and prosecution of such crimes; and
+(b) provide recommendations to the Attorney General for allocation and reallocation of resources of the Department of Justice for investigation and prosecution of significant financial crimes, recovery of proceeds from such crimes to the extent permitted by law, and other matters determined by the Task Force from time to time to be of the highest priority in the investigation and prosecution of such crimes; and
 
 (c) make recommendations to the President, through the Attorney General, from time to time for:
 
@@ -1142,7 +1142,7 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
+(c) This order is intended only to improve the internal management of the Federal Government and is notintended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
 
 Sec. 6. <i>Termination</i>. Unless the Task Force is sooner terminated by the President, the Attorney General may terminate the Task Force by a written notice of its termination published in the Federal Register.
 

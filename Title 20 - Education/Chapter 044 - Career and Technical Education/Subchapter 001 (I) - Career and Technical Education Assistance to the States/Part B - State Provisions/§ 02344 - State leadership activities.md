@@ -42,7 +42,7 @@ The State leadership activities described in subsection (a) shall include—
 
 &emsp;&emsp;&emsp;(iii) develop a higher level of academic and industry knowledge and skills in career and technical education; and
 
-&emsp;&emsp;&emsp;(iv) effectively use applied learning that contributes to the academic and careerand technical knowledge of the student; and
+&emsp;&emsp;&emsp;(iv) effectively use applied learning that contributes to the academic and career and technical knowledge of the student; and
 
 &emsp;&emsp;(E) are coordinated with the teacher certification or licensing and professional development activities that the State carries out under title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6601 et seq.\] and title II of the Higher Education Act of 1965 \[20 U.S.C. 1021 et seq.\];
 
@@ -108,7 +108,7 @@ The leadership activities described in subsection (a) may include—
 
 &emsp;&emsp;&emsp;(ii) eligible recipients effectively developing connections between secondary education and postsecondary education and training;
 
-&emsp;&emsp;&emsp;(iii) the adoption and integration of coherent and rigorous content aligned with challenging academic standards and technical coursework;
+&emsp;&emsp;&emsp;(iii) the adoption and integration of coherent and rigorous content aligned withchallenging academic standards and technical coursework;
 
 &emsp;&emsp;&emsp;(iv) eligible recipients’ progress in having special populations who participate in career and technical education programs meet local adjusted levels of performance; or
 

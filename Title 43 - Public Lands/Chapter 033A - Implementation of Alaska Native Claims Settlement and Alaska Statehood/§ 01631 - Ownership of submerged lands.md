@@ -2,7 +2,7 @@
 
 #### (a) Meandering in the surveying of submerged land
 
-(1) Except as provided in paragraph (2), whenever the Secretary surveys land selected by a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act, lakes, rivers, and streams shall be meandered in accordance with the principlesin the Bureau of Land Management, “Manual of Surveying Instructions” (1973).
+(1) Except as provided in paragraph (2), whenever the Secretary surveys land selected by a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act, lakes, rivers, and streams shall be meandered in accordance with the principles in the Bureau of Land Management, “Manual of Surveying Instructions” (1973).
 
 (2) If title to lands beneath navigable waters of a lake less than fifty acres in size or a river or stream less than three chains in width did not vest in the State pursuant to the Submerged Lands Act \[43 U.S.C. 1301 et seq., 1311 et seq.\], such lake, river, or stream shall not be meandered.
 
@@ -12,7 +12,7 @@
 
 #### (b) Ownership of riparian lands; ratification of memorandum of agreement
 
-(1) Whenever, either before or after August 16, 1988, the Secretary conveys land to a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act which abuts or surrounds a meanderable lake, river, or stream, all right, title, and interest of the United States, if any, in the land under such lake, river, or stream lying between the uplands and the median line or midpoint, as the case may be, shall vest in and shall not be charged against the acreage entitlement of such Native or Native Corporation or the State. The right, title, and interest vested in a Native or Native Corporation shall be no greater an estate than the estate he or it is conveyed in the land which abuts or surrounds the lake, river, or stream.
+(1) Whenever, either before or after August 16, 1988, the Secretary conveys land to a Native, a Native Corporation, or the State pursuant to theAlaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act which abuts or surrounds a meanderable lake, river, or stream, all right, title, and interest of the United States, if any, in the land under such lake, river, or stream lying between the uplands and the median line or midpoint, as the case may be, shall vest in and shall not be charged against the acreage entitlement of such Native or Native Corporation or the State. The right, title, and interest vested in a Native or Native Corporation shall be no greater an estate than the estate he or it is conveyed in the land which abuts or surrounds the lake, river, or stream.
 
 (2) The specific terms, conditions, procedures, covenants, reservations, and other restrictions set forth in the document entitled, “Memorandum of Agreement between the United States Department of the Interior and the State of Alaska” dated March 28, 1984, signed by the Secretary and the Governor of Alaska and submitted to the Committee on Interior and Insular Affairs of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate, are hereby incorporated in this section and are ratified as to the duties and obligations of the United States and the State, as a matter of Federal law.
 
@@ -48,13 +48,13 @@ August 16, 1988, referred to in subsec. (b)(1), was in the original “the date 
 
 1988—Pub. L. 100–395 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) to (h).
 
-1986—Subsec. (a). Pub. L. 99–644 substituted “eight years after the date of execution” for “six years afterthe date of execution” in two places and “nine years after December 2, 1980” for “seven years after December 2, 1980” in two places.
+1986—Subsec. (a). Pub. L. 99–644 substituted “eight years after the date of execution” for “six years after the date of execution” in two places and “nine years after December 2, 1980” for “seven years after December 2, 1980” in two places.
 
 Pub. L. 99–258 substituted “six years after the date of execution” for “five years after the date of execution” in two places.
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### Construction
 

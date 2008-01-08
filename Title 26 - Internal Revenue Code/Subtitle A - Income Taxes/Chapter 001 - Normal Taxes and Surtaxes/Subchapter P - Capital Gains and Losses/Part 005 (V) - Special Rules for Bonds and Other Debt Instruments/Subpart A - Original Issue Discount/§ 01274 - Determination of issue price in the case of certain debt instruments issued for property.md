@@ -244,7 +244,7 @@ Section 105(a) of Pub. L. 99–121, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by sections 101 and 102 \[enacting section 1274A and amending this section and sections 280G and 483 of this title\] shall apply to sales and exchanges after June 30, 1985, in taxable years ending after such date. The amendment made by section 2 of Public Law 98–612 \[amending section 44(b) of Pub. L. 98–369, set out as a note under section 1271 of this title\] shall not apply to sales and exchanges after June 30, 1985, in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendments made by sections 101 and 102 \[enacting section 1274A and amending this section and sections 280G and 483 of this title\] shall apply to sales and exchanges after June 30, 1985, in taxable years ending after such date. The amendment made by section 2 of Public Law 98–612 \[amending section 44(b) of Pub. L. 98–369, set out as a note under section 1271 of this title\]shall not apply to sales and exchanges after June 30, 1985, in taxable years ending after such date.
 
 “(2)
 
@@ -252,7 +252,7 @@ Regulatory authority to establish lower rate.—Section 1274(d)(1)(D) of the Int
 
 #### Effective Date
 
-Section applicable to taxable years ending after July 18, 1984, and applicable to sales or exchanges after Dec.31, 1984, but not applicable to any sale or exchange pursuant to a written contract which was binding on Mar. 1, 1984, and at all times thereafter before the sale or exchange, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
+Section applicable to taxable years ending after July 18, 1984, and applicable to sales or exchanges after Dec. 31, 1984, but not applicable to any sale or exchange pursuant to a written contract which was binding on Mar. 1, 1984, and at all times thereafter before the sale or exchange, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

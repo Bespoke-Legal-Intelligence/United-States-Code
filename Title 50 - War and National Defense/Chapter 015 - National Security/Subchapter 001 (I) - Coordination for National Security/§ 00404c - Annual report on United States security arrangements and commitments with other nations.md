@@ -48,3 +48,7 @@ Subsec. (c). Pub. L. 104–106, §1502(c)(4)(C)(ii), substituted “The Presiden
 
 Subsec. (d). Pub. L. 104–106, §1502(c)(4)(C)(iii), added subsec. (d).
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

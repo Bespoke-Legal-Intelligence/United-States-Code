@@ -6,7 +6,7 @@ Prohibition of Performance of Military Honors.—The Secretary of a military dep
 
 &emsp;(1) A person described in section 2411(b) of title 38.
 
-&emsp;(2) A person who is a veteran (as defined in section 1491(h) of this title) or who died while on active duty or a member of a reserve component, when the circumstances surrounding the person's death or other circumstances as specified by the Secretary of Defense are such that to provide military honors at the funeral or burial of the person would bring discredit upon the person's service (or former service).
+&emsp;(2) A person who is a veteran (as defined in section 1491(h) of this title) or who died while on active duty or a member of a reserve component, when the circumstances surrounding the person's death or other circumstances asspecified by the Secretary of Defense are such that to provide military honors at the funeral or burial of the person would bring discredit upon the person's service (or former service).
 
 (b)
 

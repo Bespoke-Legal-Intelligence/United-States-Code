@@ -72,7 +72,7 @@ The Secretary shall make grants, or enter into contracts, for the activities des
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of the Interior, shall award 5 grants to schools funded by the Bureau of Indian Affairs (hereafter referred to individually in this section as a “Bureau school”) for program research and development and the development and dissemination of curriculum and teacher training material, regarding—
+&emsp;The Secretary, in consultation with the Secretary of the Interior, shall award 5 grants toschools funded by the Bureau of Indian Affairs (hereafter referred to individually in this section as a “Bureau school”) for program research and development and the development and dissemination of curriculum and teacher training material, regarding—
 
 &emsp;&emsp;(A) gifted and talented students;
 

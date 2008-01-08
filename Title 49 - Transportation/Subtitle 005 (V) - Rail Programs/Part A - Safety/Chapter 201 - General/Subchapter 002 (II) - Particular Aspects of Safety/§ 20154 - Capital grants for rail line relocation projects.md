@@ -6,7 +6,7 @@ Establishment of Program.—The Secretary of Transportation shall carry out a gr
 
 (b)
 
-Eligibility.—A State is eligible for a grant under this section for any construction project for the improvement of the route or structure of a rail line that either—
+Eligibility.—A State is eligible for a grant under this section for any construction projectfor the improvement of the route or structure of a rail line that either—
 
 &emsp;(1) is carried out for the purpose of mitigating the adverse effects of rail traffic on safety, motor vehicle traffic flow, community quality of life, or economic development; or
 

@@ -60,7 +60,7 @@ Ex. Ord. No. 12667, Jan. 18, 1989, 54 F.R. 3403, which established policies and 
 
 Ex. Ord. No. 13233, Nov. 1, 2001, 66 F.R. 56025, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish policies and procedures implementing section 2204 of title 44 of the United States Code with respect to constitutionallybased privileges, including those that apply to Presidential records reflecting military, diplomatic, or national security secrets, Presidential communications, legal advice, legal work, or the deliberative processes of the President and the President's advisors, and to do so in a manner consistent with the Supreme Court's decisions in <i>Nixon v. Administrator of General Services</i>, 433 U.S. 425 (1977), and other cases, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish policies and procedures implementing section 2204 of title 44 of the United States Code with respect to constitutionally based privileges, including those that apply to Presidential records reflecting military, diplomatic, or national security secrets, Presidential communications, legal advice, legal work, or the deliberative processes of the President and the President's advisors, and to do so in a manner consistent with the Supreme Court's decisions in <i>Nixon v. Administrator of General Services</i>, 433 U.S. 425 (1977), and other cases, it is hereby ordered as follows:
 
 Section 1. <i>Definitions.</i>
 
@@ -102,7 +102,7 @@ Consistent with the requirements of the Constitution and the Presidential Record
 
 &emsp;(i) If under the standard set forth in section 4 below, the incumbent President concurs in the former President's decision to authorize access to the records, the Archivist shall permit access to the records by the requester.
 
-&emsp;(ii) If under the standard set forth in section 4 below, the incumbent President does not concur in the former President's decision to authorize access to the records, the incumbent President may independently order the Archivist to withhold privileged records. In that instance, the Archivist shall not permit access to the records by a requester unless and until the incumbent President advises the Archivist that the former President and the incumbent President agree to authorize access to the records or until so ordered by a final and nonappealable court order.
+&emsp;(ii) If under the standard set forth in section 4 below, the incumbent President does not concur inthe former President's decision to authorize access to the records, the incumbent President may independently order the Archivist to withhold privileged records. In that instance, the Archivist shall not permit access to the records by a requester unless and until the incumbent President advises the Archivist that the former President and the incumbent President agree to authorize access to the records or until so ordered by a final and nonappealable court order.
 
 Sec. 4. <i>Concurrence by Incumbent President.</i>
 

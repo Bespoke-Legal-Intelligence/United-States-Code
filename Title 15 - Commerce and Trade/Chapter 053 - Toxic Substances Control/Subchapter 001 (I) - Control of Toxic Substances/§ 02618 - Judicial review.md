@@ -22,7 +22,7 @@
 
 #### (b) Additional submissions and presentations; modifications
 
-If in an action under this section to review a rule the petitioner or the Administrator appliesto the court for leave to make additional oral submissions or written presentations respecting such rule and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Administrator, the court may order the Administrator to provide additional opportunity to make such submissions and presentations. The Administrator may modify or set aside the rule being reviewed or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
+If in an action under this section to review a rule the petitioner or the Administrator applies to the court for leave to make additional oral submissions or written presentations respecting such rule and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Administrator, the court may order the Administrator to provide additional opportunity to make such submissions and presentations. The Administrator may modify or set aside the rule being reviewed or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
 
 #### (c) Standard of review
 
@@ -36,7 +36,7 @@ If in an action under this section to review a rule the petitioner or the Admini
 
 &emsp;&emsp;(I) a determination by the Administrator under section 2605(c)(3) of this title that the petitioner seeking review of such rule is not entitled to conduct (or have conducted) cross-examination or to present rebuttal submissions, or
 
-&emsp;&emsp;(II) a rule of, or ruling by, the Administrator under section 2605(c)(3) of this title limiting such petitioner's cross-examination or oral presentations,
+&emsp;&emsp;(II) a rule of, or ruling by, the Administrator under section 2605(c)(3) of this titlelimiting such petitioner's cross-examination or oral presentations,
 
 > &emsp;has precluded disclosure of disputed material facts which was necessary to a fair determination by the Administrator of the rulemaking proceeding taken as a whole; and section 706(2)(D) shall not apply with respect to a determination, rule, or ruling referred to in subclause (I) or (II); and
 

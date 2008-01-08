@@ -20,13 +20,13 @@
 
 #### (3) Rule of construction
 
-&emsp;For the purposes of determining whether a country is eligible for receiving assistanceunder section 7704 of this title pursuant to paragraph (1)(B), the exercise by the President, the Secretary of State, or any other officer or employee of the United States of any waiver or suspension of any provision of law referred to in such paragraph, and notification to the appropriate congressional committees in accordance with such provision of law, shall be construed as satisfying the requirement of such paragraph.
+&emsp;For the purposes of determining whether a country is eligible for receiving assistance under section 7704 of this title pursuant to paragraph (1)(B), the exercise by the President, the Secretary of State, or any other officer or employee of the United States of any waiver or suspension of any provision of law referred to in such paragraph, and notification to the appropriate congressional committees in accordance with such provision of law, shall be construed as satisfying the requirement of such paragraph.
 
 #### (b) Lower middle income countries
 
 #### (1) In general
 
-&emsp;In addition to countries described in subsection (a), a country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2006 or a subsequent fiscal year if the country—
+&emsp;In addition to countries described in subsection (a), a country shall be a candidatecountry for purposes of eligibility for assistance for fiscal year 2006 or a subsequent fiscal year if the country—
 
 &emsp;&emsp;(A) is classified as a lower middle income country in the then most recent edition of the World Development Report for Reconstruction and Development published by the International Bank for Reconstruction and Development and has an income greater than the historical ceiling for International Development Association eligibility for the fiscal year involved; and
 

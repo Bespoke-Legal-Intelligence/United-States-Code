@@ -22,7 +22,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date of 1938 Amendment
 
-Section 105 of act Feb. 16, 1938, as amended by section 1 of act Apr. 7, 1938, provided that the amendment made by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
+Section 105 of act Feb. 16, 1938, as amended by section 1 of act Apr. 7, 1938, provided that the amendment madeby that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
 
 #### Transfer of Functions
 

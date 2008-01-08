@@ -2,7 +2,7 @@
 
 (a) There is established within the Offices of the Majority and Minority Leaders the positions of Chief of Staff for the Majority Leader and Chief of Staff for the Minority Leader, respectively. Individuals appointed to such positions by the Majority Leader and Minority Leader, respectively, shall receive compensation at a rate fixed by the appropriate Leader not to exceed the maximum annual rate of gross compensation of the Assistant Secretary of the Senate.
 
-(b) Gross compensation for employees filling positions established by subsection (a) of this section for the fiscal year ending September 30,1987, shall be paid out of any funds available in the Senate appropriation for such year under the item “Salaries, Officers and Employees”.
+(b) Gross compensation for employees filling positions established by subsection (a) of this section for the fiscal year ending September 30, 1987, shall be paid out of any funds available in the Senate appropriation for such year under the item “Salaries, Officers and Employees”.
 
 (Pub. L. 101–163, title I, §9, Nov. 21, 1989, 103 Stat. 1046.)
 
@@ -12,5 +12,5 @@ Section is based on Senate Resolution No. 89, One Hundredth Congress, Jan. 28, 1
 
 #### Effective Date
 
-Section 9 of Pub. L. 101–163 provided that this section is effective on Jan. 28, 1987, the date on which Senate Resolution No. 89, One Hundredth Congress, was agreed to.
+Section 9 of Pub. L. 101–163 provided that this section is effective on Jan. 28, 1987, the date on which SenateResolution No. 89, One Hundredth Congress, was agreed to.
 

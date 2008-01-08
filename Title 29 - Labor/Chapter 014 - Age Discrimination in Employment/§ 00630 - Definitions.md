@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 (a) The term “person” means one or more individuals, partnerships, associations, labor organizations, corporations, business trusts, legal representatives, or any organized groups of persons.
 
-(b) The term “employer” means a person engaged in an industry affecting commerce who has twenty or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year: <i>Provided</i>, That prior to June 30, 1968, employers havingfewer than fifty employees shall not be considered employers. The term also means (1) any agent of such a person, and (2) a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, but such term does not include the United States, or a corporation wholly owned by the Government of the United States.
+(b) The term “employer” means a person engaged in an industry affecting commerce who has twenty or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year: <i>Provided</i>, That prior to June 30, 1968, employers having fewer than fifty employees shall not be considered employers. The term also means (1) any agent of such a person, and (2) a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, but such term does not include the United States, or a corporation wholly owned by the Government of the United States.
 
 (c) The term “employment agency” means any person regularly undertaking with or without compensation to procure employees for an employer and includes an agent of such a person; but shall not include an agency of the United States.
 
@@ -66,7 +66,7 @@ Subsec. (f). Pub. L. 93–259, §28(a)(4), excepted from the term “employee”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–433 applicable only to any employee benefit established or modified on or after Oct. 16, 1990, and other conduct occurring more than 180 days after Oct. 16, 1990, except as otherwise provided, see section 105 of Pub. L. 101–433, set out as a note under section 623 of this title.
+Amendment by Pub. L. 101–433 applicable only to any employee benefit established or modified on or after Oct. 16, 1990, and other conduct occurring more than 180days after Oct. 16, 1990, except as otherwise provided, see section 105 of Pub. L. 101–433, set out as a note under section 623 of this title.
 
 #### Effective Date of 1986 Amendment
 

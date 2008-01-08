@@ -108,7 +108,7 @@ Agency Program.—Each agency shall develop, document, and implement an agencywi
 
 &emsp;&emsp;&emsp;(iii) any other agency or office, in accordance with law or as directed by the President; and
 
-&emsp;(8) plans and procedures to ensure continuity of operations for information systems that support the operations and assets of the agency.
+&emsp;(8) plans and procedures to ensure continuity of operations for information systems thatsupport the operations and assets of the agency.
 
 (c)
 
@@ -163,6 +163,8 @@ The Chief Financial Officers Act of 1990, referred to in subsec. (c)(2)(E), is P
 The Federal Financial Management Improvement Act, referred to in subsec. (c)(2)(F), (3)(B), probably means the Federal Financial Management Improvement Act of 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under section 3512 of Title 31, Money and Finance. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

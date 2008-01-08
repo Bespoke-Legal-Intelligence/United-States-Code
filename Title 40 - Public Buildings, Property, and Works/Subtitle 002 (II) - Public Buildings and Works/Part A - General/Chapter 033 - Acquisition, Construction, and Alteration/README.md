@@ -14,11 +14,16 @@
 | [3310\.](%C2%A7%2003310%20-%20Special%20rules%20for%20leased%20buildings.md) | Special rules for leased buildings. |
 | [3311\.](%C2%A7%2003311%20-%20State%20administration%20of%20criminal%20and%20health%20and%20safety%20laws.md) | State administration of criminal and health and safety laws. |
 | [3312\.](%C2%A7%2003312%20-%20Compliance%20with%20nationally%20recognized%20codes.md) | Compliance with nationally recognized codes. |
-| [3313\.](%C2%A7%2003313%20-%20Delegation.md) | Delegation. |
-| [3314\.](%C2%A7%2003314%20-%20Report%20to%20Congress.md) | Report to Congress. |
-| [3315\.](%C2%A7%2003315%20-%20Certain%20authority%20not%20affected.md) | Certain authority not affected. |
+| [3313\.](%C2%A7%2003313%20-%20Use%20of%20energy%20efficient%20lighting%20fixtures%20and%20bulbs.md) | Use of energy efficient lighting fixtures and bulbs. |
+| [3314\.](%C2%A7%2003314%20-%20Delegation.md) | Delegation. |
+| [3315\.](%C2%A7%2003315%20-%20Report%20to%20Congress.md) | Report to Congress. |
+| [3316\.](%C2%A7%2003316%20-%20Certain%20authority%20not%20affected.md) | Certain authority not affected. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2007—Pub. L. 110–140, title III, §323(c)(2), Dec. 19, 2007, 121 Stat. 1591, added items 3313 to 3316 and struck out former items 3313 “Delegation”, 3314 “Report to Congress”, and 3315 “Certain authority not affected”.
 
 
 ---
@@ -37,6 +42,7 @@
 - [&sect; 03310 - Special rules for leased buildings](%C2%A7%2003310%20-%20Special%20rules%20for%20leased%20buildings.md)
 - [&sect; 03311 - State administration of criminal and health and safety laws](%C2%A7%2003311%20-%20State%20administration%20of%20criminal%20and%20health%20and%20safety%20laws.md)
 - [&sect; 03312 - Compliance with nationally recognized codes](%C2%A7%2003312%20-%20Compliance%20with%20nationally%20recognized%20codes.md)
-- [&sect; 03313 - Delegation](%C2%A7%2003313%20-%20Delegation.md)
-- [&sect; 03314 - Report to Congress](%C2%A7%2003314%20-%20Report%20to%20Congress.md)
-- [&sect; 03315 - Certain authority not affected](%C2%A7%2003315%20-%20Certain%20authority%20not%20affected.md)
+- [&sect; 03313 - Use of energy efficient lighting fixtures and bulbs](%C2%A7%2003313%20-%20Use%20of%20energy%20efficient%20lighting%20fixtures%20and%20bulbs.md)
+- [&sect; 03314 - Delegation](%C2%A7%2003314%20-%20Delegation.md)
+- [&sect; 03315 - Report to Congress](%C2%A7%2003315%20-%20Report%20to%20Congress.md)
+- [&sect; 03316 - Certain authority not affected](%C2%A7%2003316%20-%20Certain%20authority%20not%20affected.md)

@@ -14,7 +14,7 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 #### (A) In general
 
-&emsp;&emsp;Each Regional Administrator shall be appointed from among individuals who have a demonstrated ability in and knowledge of emergency management and homeland security.
+&emsp;&emsp;Each Regional Administrator shall be appointed from among individuals who have ademonstrated ability in and knowledge of emergency management and homeland security.
 
 #### (B) Considerations
 
@@ -44,9 +44,13 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 &emsp;&emsp;(G) identifying critical gaps in regional capabilities to respond to populations with special needs;
 
-&emsp;&emsp;(H) maintaining and operating a Regional Response Coordination Center or its successor; and
+&emsp;&emsp;(H) maintaining and operating a Regional Response Coordination Center or its successor;
 
-&emsp;&emsp;(I) performing such other duties relating to such responsibilities as the Administrator may require.
+&emsp;&emsp;(I) coordinating with the private sector to help ensure private sector preparedness for natural disasters, acts of terrorism, and other man-made disasters;
+
+&emsp;&emsp;(J) assisting State, local, and tribal governments, where appropriate, to preidentify and evaluate suitable sites where a multijurisdictional incident command system may quickly be established and operated from, if the need for such a system arises; and
+
+&emsp;&emsp;(K) performing such other duties relating to such responsibilities as the Administrator may require.
 
 #### (3) Training and exercise requirements
 
@@ -128,11 +132,15 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 &emsp;If the Administrator determines that statutory authority is inadequate for the preparedness and deployment of individuals in strike teams under this subsection, the Administrator shall report to Congress regarding the additional statutory authorities that the Administrator determines are necessary.
 
-(Pub. L. 107–296, title V, §507, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1401.)
+(Pub. L. 107–296, title V, §507, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1401; amended Pub. L. 110–53, title IV, §404, Aug. 3, 2007, 121 Stat. 303.)
 
 #### Prior Provisions
 
 A prior section 317, Pub. L. 107–296, title V, §507, Nov. 25, 2002, 116 Stat. 2214, related to the role of the Federal Emergency Management Agency, prior to repeal by Pub. L. 109–295, title VI, §611(4), Oct. 4. 2006, 120 Stat. 1395.
+
+#### Amendments
+
+2007—Subsec. (c)(2)(I) to (K). Pub. L. 110–53 added subpars. (I) and (J) and redesignated former subpar. (I) as (K).
 
 #### Effective Date
 

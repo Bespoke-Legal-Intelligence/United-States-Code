@@ -12,7 +12,7 @@ The Department of Defense shall reimburse the Commission for amounts expended by
 
 Notwithstanding any other provision of law, funds appropriated (for any fiscal year beginning after September 30, 1979) to or for the use of the Department of Defense, or to any other department or agency of the United States as may be designated by the President to carry out the purposes of this subsection, shall be available for—
 
-&emsp;(1) conducting the educational and health care activities, including kindergartens and college, carried out by the Canal Zone Government and the Panama Canal Company before October 1, 1979, and
+&emsp;(1) conducting the educational and health care activities, including kindergartens andcollege, carried out by the Canal Zone Government and the Panama Canal Company before October 1, 1979, and
 
 &emsp;(2) providing the services related thereto to the categories of persons to which such services were provided before October 1, 1979.
 
@@ -50,7 +50,7 @@ This chapter, referred to in subsec. (h), was in the original “this Act”, me
 
 #### Amendments
 
-1998—Subsec. (e). Pub. L. 105–261 struck out subsec. (e) which provided that appropriations or funds of the Commission or of any other department or agency ofthe United States conducting operations in the Republic of Panama were available to defray the cost of certain health care services and educational services.
+1998—Subsec. (e). Pub. L. 105–261 struck out subsec. (e) which provided that appropriations or funds of the Commission or of any other department or agency of the United States conducting operations in the Republic of Panama were available to defray the cost of certain health care services and educational services.
 
 1997—Subsec. (c)(1). Pub. L. 105–85, §3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 

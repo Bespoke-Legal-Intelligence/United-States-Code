@@ -20,7 +20,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary or the Commodity Credit Corporation may award, under a competitive bidding process, contracts for establishing freightagents who shall act on behalf of the Secretary or the Corporation to handle the shipping of commodities financed under this chapter.
+&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary or the Commodity Credit Corporation may award, under a competitive bidding process, contracts for establishing freight agents who shall act on behalf of the Secretary or the Corporation to handle the shipping of commodities financed under this chapter.
 
 #### (C) Avoidance of conflict of interest of contractors
 
@@ -112,7 +112,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;The President shall submit such report not later than January 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284.)
+(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537;amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284.)
 
 #### References in Text
 
@@ -167,10 +167,6 @@ Subsec. (c)(4). Pub. L. 101–508 substituted “providing ocean transportation 
 1975—Pub. L. 94–161 inserted “, or their designees (who shall be members of such committees or, in the case of members from the executive branch, who shall have been confirmed by the Senate)” in first sentence.
 
 1968—Pub. L. 90–436 struck out provisions that the vice chairman and one ranking minority member of the specified House committees and the next ranking majority member and one ranking minority member of the specified Senate committees be members of the Advisory Committee, and inserted provisions requiring the Advisory Committee to meet not less than four times during each calendar year and setting forth the order of precedence at such meetings.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1990 Amendments
 

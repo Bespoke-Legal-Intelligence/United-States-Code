@@ -8,7 +8,7 @@ Any person who with respect to any tax payable by stamps—
 
 #### (2) Instruments
 
-&emsp;Makes, signs, issues, or accepts, or causes to be made, signed, issued, or accepted, any instrument, document, or paper of any kind ordescription whatsoever without the full amount of tax thereon being duly paid; or
+&emsp;Makes, signs, issues, or accepts, or causes to be made, signed, issued, or accepted, any instrument, document, or paper of any kind or description whatsoever without the full amount of tax thereon being duly paid; or
 
 #### (3) Disposal and receipt of stamped packages
 

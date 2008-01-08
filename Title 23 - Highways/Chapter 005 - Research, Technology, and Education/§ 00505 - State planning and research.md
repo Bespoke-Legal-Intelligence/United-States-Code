@@ -6,7 +6,7 @@ General Rule.—Two percent of the sums apportioned to a State for fiscal year 1
 
 &emsp;(1) Engineering and economic surveys and investigations.
 
-&emsp;(2) The planning of future highway programs and local public transportation systems and the planning of the financing of such programs and systems, including metropolitan and statewide planning under sections 134 and 135.
+&emsp;(2) The planning of future highway programs and local public transportation systems and the planning of the financing of such programsand systems, including metropolitan and statewide planning under sections 134 and 135.
 
 &emsp;(3) Development and implementation of management systems under section 303.
 
@@ -28,7 +28,7 @@ In general.—Subject to paragraph (2), not less than 25 percent of the funds su
 
 &emsp;(2)
 
-Waivers.—The Secretary may waive the application of paragraph (1) with respect to aState for a fiscal year if the State certifies to the Secretary for the fiscal year that total expenditures by the State for transportation planning under sections 134 and 135 will exceed 75 percent of the funds described in paragraph (1) and the Secretary accepts such certification.
+Waivers.—The Secretary may waive the application of paragraph (1) with respect to a State for a fiscal year if the State certifies to the Secretary for the fiscal year that total expenditures by the State for transportation planning under sections 134 and 135 will exceed 75 percent of the funds described in paragraph (1) and the Secretary accepts such certification.
 
 &emsp;(3)
 

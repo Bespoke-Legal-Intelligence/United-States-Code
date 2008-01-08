@@ -24,7 +24,7 @@ Elements of Program.—The program shall include—
 
 Pub. L. 107–295, title I, §110(c), Nov. 25, 2002, 116 Stat. 2092, provided that:
 
-“Within 1 year after the secure system of transportation program is implemented under section 70116 oftitle 46, United States Code, as amended by this Act, the Secretary of the department in which the Coast Guard is operating shall transmit a report to the Senate Committees on Commerce, Science, and Transportation and Finance and the House of Representatives Committees on Transportation and Infrastructure and Ways and Means that—
+“Within 1 year after the secure system of transportation program is implemented under section 70116 of title 46, United States Code, as amended by this Act, the Secretary of the department in which the Coast Guard is operating shall transmit a report to the Senate Committees on Commerce, Science, and Transportation and Finance and the House of Representatives Committees on Transportation and Infrastructure and Ways and Means that—
 
 &emsp;“(1) evaluates the secure system of transportation program and its components;
 
@@ -36,7 +36,7 @@ Pub. L. 107–295, title I, §110(c), Nov. 25, 2002, 116 Stat. 2092, provided th
 
 &emsp;“(5) describes the impact of the program on staffing levels at the department in which the Coast Guard is operating, and the Customs Service; and
 
-&emsp;“(6) states the Secretary's views as to whether there is a method by which the United States could validate foreign ports so that cargo from those ports is preapproved for entry into the United States and for the purpose of the requirements of the National Maritime Security Plan for the reopening of United States ports to commerce.”
+&emsp;“(6) states the Secretary's views as to whether there is a method by which the United States could validate foreign ports so that cargo from those ports is preapproved for entry into the United States andfor the purpose of the requirements of the National Maritime Security Plan for the reopening of United States ports to commerce.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

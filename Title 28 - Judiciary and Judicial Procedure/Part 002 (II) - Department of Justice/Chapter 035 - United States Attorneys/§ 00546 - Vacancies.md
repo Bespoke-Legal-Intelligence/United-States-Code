@@ -4,9 +4,15 @@
 
 (b) The Attorney General shall not appoint as United States attorney a person to whose appointment by the President to that office the Senate refused to give advice and consent.
 
-(c) A person appointed as United States attorney under this section may serve until the qualification of a United States Attorney for such district appointed by the President under section 541 of this title.
+(c) A person appointed as United States attorney under this section may serve until the earlier of—
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 99–646, §69, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 109–177, title V, §502, Mar. 9, 2006, 120 Stat. 246.)
+&emsp;(1) the qualification of a United States attorney for such district appointed by the President under section 541 of this title; or
+
+&emsp;(2) the expiration of 120 days after appointment by the Attorney General under this section.
+
+(d) If an appointment expires under subsection (c)(2), the district court for such district may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.
+
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 99–646, §69, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 109–177, title V, §502, Mar. 9, 2006, 120 Stat. 246; Pub. L. 110–34, §2, June 14, 2007, 121 Stat. 224.)
 
 Historical and Revision Notes<br>1966
 
@@ -44,7 +50,33 @@ A prior section 546, act June 25, 1948, ch. 646, 62 Stat. 911, related to death 
 
 #### Amendments
 
+2007—Subsecs. (c), (d). Pub. L. 110–34 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “A person appointed as United States attorney under this section may serve until the qualification of a United States Attorney for such district appointed by the President under section 541 of this title.”
+
 2006—Subsecs. (c), (d). Pub. L. 109–177 added subsec. (c) and struck out former subsecs. (c) and (d) which related to length of service of a United States attorney appointed under this section and appointment of a United States attorney by a district court after expiration of a previous appointment, respectively.
 
 1986—Pub. L. 99–646 amended section generally. Prior to amendment, section read as follows: “The district court for a district in which the office of United States attorney is vacant may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.”
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–34, §3, June 14, 2007, 121 Stat. 224, provided that:
+
+“(a)
+
+In General.—The amendments made by this Act \[amending this section\] shall take effect on the date of enactment of this Act \[June 14, 2007\].
+
+“(b)
+
+Application.—
+
+&emsp;“(1)
+
+In general.—Any person serving as a United States attorney on the day before the date of enactment of this Act \[June 14, 2007\] who was appointed under section 546 of title 28, United States Code, may serve until the earlier of—
+
+&emsp;&emsp;“(A) the qualification of a United States attorney for such district appointed by the President under section 541 of that title; or
+
+&emsp;&emsp;“(B) 120 days after the date of enactment of this Act.
+
+&emsp;“(2)
+
+Expired appointments.—If an appointment expires under paragraph (1), the district court for that district may appoint a United States attorney for that district under section 546(d) of title 28, United States Code, as added by this Act.”
 

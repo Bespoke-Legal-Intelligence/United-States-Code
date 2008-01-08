@@ -20,13 +20,15 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 109–116, Dec. 1, 2005, 119
 
 #### Placement of Statue of Rosa Parks in National Statuary Hall
 
-Pub. L. 109–116, §1, Dec. 1, 2005, 119 Stat. 2524, provided that:
+Pub. L. 109–116, §1, Dec. 1, 2005, 119 Stat. 2524, as amended by Pub. L. 110–120, §1(a), Nov. 19, 2007, 121 Stat. 1348, provided that:
 
 “(a)
 
-Obtaining Statue.—Not later than 2 years after the date of the enactment of this Act \[Dec. 1, 2005\], the Joint Committee on the Library shall enter into an agreement to obtain a statue of Rosa Parks, under such terms and conditions as the Joint Committee considers appropriate consistent with applicable law.
+Obtaining Statue.—Not later than 4 years after the date of the enactment of this Act \[Dec. 1, 2005\], the Joint Committee on the Library shall enter into an agreement to obtain a statue of Rosa Parks, under such terms and conditions as the Joint Committee considers appropriate consistent with applicable law. The Joint Committee may authorize the Architect of the Capitol to enter into the agreement and related contracts required under this subsection on its behalf, under such terms and conditions as the Joint Committee may require.
 
 “(b)
 
-Placement.—The Joint Committee shall place the statue obtained under subsection (a) in the United States Capitol in a suitable permanent location in National Statuary Hall.”
+Placement.—The Joint Committee shall place the statue obtained under subsection (a) in the UnitedStates Capitol in a suitable permanent location in National Statuary Hall.”
+
+\[Pub. L. 110–120, §1(b), Nov. 19, 2007, 121 Stat. 1348, provided that: “The amendments made by subsection (a) \[amending section 1 of Pub. L. 109–116, set out above\] shall take effect as if included in the enactment of Public Law 109–116.”\]
 

@@ -48,7 +48,7 @@
 
 &emsp;(21) hold hearings and call witnesses that might assist the Commission in the exercise of its powers or duties;
 
-&emsp;(22) perform such other functions as are required to permit Federal courts to meet theirresponsibilities under section 3553(a) of title 18, United States Code, and to permit others involved in the Federal criminal justice system to meet their related responsibilities;
+&emsp;(22) perform such other functions as are required to permit Federal courts to meet their responsibilities under section 3553(a) of title 18, United States Code, and to permit others involved in the Federal criminal justice system to meet their related responsibilities;
 
 &emsp;(23) retain private attorneys to provide legal advice to the Commission in the conduct of its work, or to appear for or represent the Commission in any case in which the Commission is authorized by law to represent itself, or in which the Commission is representing itself with the consent of the Department of Justice; and the Commission may in its discretion pay reasonable attorney's fees to private attorneys employed by it out of its appropriated funds. When serving as officers or employees of the United States, such private attorneys shall be considered special government employees as defined in section 202(a) of title 18; and
 
@@ -62,13 +62,23 @@
 
 (e) Except as otherwise provided by law, the Commission shall maintain and make available for public inspection a record of the final vote of each member on any action taken by it.
 
-(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2024; amended Pub. L. 100–690, title VII, §§7104, 7105, 7106(b), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–650, title III, §325(b)(5), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 103–322, title XXVIII, §280005(c)(1), Sept. 13, 1994, 108 Stat. 2097.)
+(f) The Commission may—
 
-#### References in Text
+&emsp;(1) use available funds to enter into contracts for the acquisition of severable services for a period that begins in 1 fiscal year andends in the next fiscal year, to the same extent as executive agencies may enter into such contracts under the authority of section 303L of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253<i>l</i>);
 
-The provisions of title 28, United States Code, with respect to tort claims, referred to in subsec. (a)(7), are classified generally to section 1346(b) and chapter 171 (§2671 et seq.) of this title.
+&emsp;(2) enter into multi-year contracts for the acquisition of property or services to the same extent as executive agencies may enter into such contracts under the authority of section 304B of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254c); and
+
+&emsp;(3) make advance, partial, progress, or other payments under contracts for property or services to the same extent as executive agencies may make such payments under the authority of section 305 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 255).
+
+(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2024; amended Pub. L. 100–690, title VII, §§7104, 7105, 7106(b), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–650, title III, §325(b)(5), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 103–322, title XXVIII, §280005(c)(1), Sept. 13, 1994, 108 Stat. 2097; Pub. L. 110–177, title V, §501(a), Jan. 7, 2008, 121 Stat. 2541.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 501(b) of Pub. L. 110–177, see Termination Date of 2008 Amendment note below.</i>
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–177, §501, temporarily added subsec. (f). See Termination Date of 2008 Amendment note below.
 
 1994—Subsec. (a)(3). Pub. L. 103–322 substituted “Chair” for “Chairman”.
 
@@ -79,4 +89,8 @@ The provisions of title 28, United States Code, with respect to tort claims, ref
 Subsec. (a)(23). Pub. L. 100–690, §7104, added par. (23).
 
 Subsec. (a)(24). Pub. L. 100–690, §7106(b), added par. (24).
+
+#### Termination Date of 2008 Amendment
+
+Pub. L. 110–177, title V, §501(b), Jan. 7, 2008, 121 Stat. 2542, provided that: “The amendment made by subsection (a) \[amending this section\] shall cease to have force and effect on September 30, 2010.”
 

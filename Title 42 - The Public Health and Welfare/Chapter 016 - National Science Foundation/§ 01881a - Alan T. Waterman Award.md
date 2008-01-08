@@ -10,15 +10,17 @@ Awards under this section shall be made to recognize and encourage the work of y
 
 #### (c) Number
 
-No more than one award shall be made under this section in any one fiscal year.
+Not more than three awards may be made under this section in any one fiscal year.
 
-(Pub. L. 94–86, §6, Aug. 9, 1975, 89 Stat. 430; Pub. L. 96–516, §22(b), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 99–159, title I, §109(g), Nov. 22, 1985, 99 Stat. 890; Pub. L. 105–207, title II, §202(b), July 29, 1998, 112 Stat. 874.)
+(Pub. L. 94–86, §6, Aug. 9, 1975, 89 Stat. 430; Pub. L. 96–516, §22(b), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 99–159, title I, §109(g), Nov. 22, 1985, 99 Stat. 890; Pub. L. 105–207, title II, §202(b), July 29, 1998, 112 Stat. 874; Pub. L. 110–69, title VII, §7015(c), Aug. 9, 2007, 121 Stat. 684.)
 
 #### Codification
 
 Section was enacted as part of the National Science Foundation Authorization Act, 1976, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+2007—Subsec. (c). Pub. L. 110–69 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “No more than one award shall be made under this section in any one fiscal year.”
 
 1998—Subsec. (a). Pub. L. 105–207 substituted “social,” for “social, social,”.
 

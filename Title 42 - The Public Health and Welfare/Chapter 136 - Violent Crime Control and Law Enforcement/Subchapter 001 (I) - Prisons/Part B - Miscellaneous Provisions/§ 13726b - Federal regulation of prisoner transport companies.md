@@ -12,7 +12,7 @@ The regulations shall include the following:
 
 &emsp;(2) Minimum standards for the length and type of training that employees must undergo before they can transport prisoners not to exceed 100 hours of preservice training focusing on the transportation of prisoners. Training shall be in the areas of use of restraints, searches, use of force, including use of appropriate weapons and firearms, CPR, map reading, and defensive driving.
 
-&emsp;(3) Restrictions on the number of hours that employees can be on duty during a given timeperiod. Such restriction shall not be more stringent than current applicable rules and regulations concerning hours of service promulgated under the Federal Motor Vehicle Safety Act.<sup>1</sup>
+&emsp;(3) Restrictions on the number of hours that employees can be on duty during a given time period. Such restriction shall not be more stringent than current applicable rules and regulations concerning hours of service promulgated under the Federal Motor Vehicle Safety Act.<sup>1</sup>
 
 &emsp;(4) Minimum standards for the number of personnel that must supervise violent prisoners. Such standards shall provide the transport entity with appropriate discretion, and, absent more restrictive requirements contracted for by the procuring government entity, shall not exceed a requirement of 1 agent for every 6 violent prisoners.
 
@@ -36,7 +36,7 @@ Except for the requirements of subsection (b)(6) of this section, the regulation
 
 #### References in Text
 
-No act with the title Federal Motor Vehicle Safety Act, referred to in subsec. (b)(3), has been enacted. Provisions authorizing the Secretary of Transportation to prescribe requirements relating to hours of service of employees of a motor carrier are contained in chapter 315 (§31501 et seq.) of Title 49, Transportation.
+No act with the title Federal Motor Vehicle Safety Act, referred to in subsec. (b)(3), has been enacted. Provisions authorizing the Secretary of Transportation to prescribe requirements relating to hours of service ofemployees of a motor carrier are contained in chapter 315 (§31501 et seq.) of Title 49, Transportation.
 
 Sections 13726 to 13726c of this title, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 106–560, Dec. 21, 2000, 114 Stat. 2784, known as the Interstate Transportation of Dangerous Criminals Act of 2000 or Jeanna's Act, which enacted this section and sections 13726, 13726a, and 13726c of this title and provisions set out as a note under section 13701 of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under 13701 of this title and Tables.
 

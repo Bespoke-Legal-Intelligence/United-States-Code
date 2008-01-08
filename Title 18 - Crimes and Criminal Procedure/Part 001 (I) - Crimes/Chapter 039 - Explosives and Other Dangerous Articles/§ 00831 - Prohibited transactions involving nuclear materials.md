@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(B) the threat under subsection (a)(6) is directed at the United States.
 
-(d) The Attorney General may request assistance from the Secretary of Defense under chapter 18 of title 10 in the enforcement of this section and the Secretary of Defense may provide such assistance in accordance with chapter 18 of title 10, except that the Secretary of Defense may provide such assistance through any Department of Defense personnel.
+(d) The Attorney General may request assistance from the Secretary of Defense under chapter 18 of title 10 in the enforcement of this section and the Secretary of Defense may provide such assistance in accordance with chapter 18 oftitle 10, except that the Secretary of Defense may provide such assistance through any Department of Defense personnel.
 
 (e)(1) The Attorney General may also request assistance from the Secretary of Defense under this subsection in the enforcement of this section. Notwithstanding section 1385 of this title, the Secretary of Defense may, in accordance with other applicable law, provide such assistance to the Attorney General if—
 
@@ -98,7 +98,7 @@
 
 (3) Assistance under this section may include—
 
-&emsp;(A) use of personnel of the Department of Defense to arrest persons and conduct searchesand seizures with respect to violations of this section; and
+&emsp;(A) use of personnel of the Department of Defense to arrest persons and conduct searches and seizures with respect to violations of this section; and
 
 &emsp;(B) such other activity as is incidental to the enforcement of this section, or to the protection of persons or property from conduct that violates this section.
 
@@ -166,7 +166,7 @@ Subsec. (a)(6). Pub. L. 104–132, §502(1)(C), inserted “or to the environmen
 
 Subsec. (c)(2). Pub. L. 104–132, §502(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the defendant is a national of the United States, as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101);”.
 
-Subsec. (c)(3). Pub. L. 104–132, §502(2)(B), struck out “at the time of the offense the nuclear material is in use, storage, or transport, for peaceful purposes, and” before “after the conduct” and struck out “or” at end.
+Subsec. (c)(3). Pub. L. 104–132, §502(2)(B), struck out “at the time of the offense the nuclear material is inuse, storage, or transport, for peaceful purposes, and” before “after the conduct” and struck out “or” at end.
 
 Subsec. (c)(4). Pub. L. 104–132, §502(2)(C), substituted “nuclear material or nuclear byproduct material” for “nuclear material for peaceful purposes” and “; or” for period at end.
 

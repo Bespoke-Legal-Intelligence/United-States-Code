@@ -4,7 +4,7 @@ Section, Pub. L. 85–765, §3, Aug. 27, 1958, 72 Stat. 862, related to limitati
 
 #### Effective Date of Repeal
 
-Repeal effective one year after Oct. 10, 1978, and nonapplicability during not to exceed additional 18 months in hardship cases, see sec. 7 of Pub. L. 95–445 set out as an Effective Date of 1978 Amendment note under section 603 of Title 21, Food and Drugs.
+Repeal effective one year after Oct. 10, 1978, and nonapplicability during not to exceed additional 18 monthsin hardship cases, see sec. 7 of Pub. L. 95–445 set out as an Effective Date of 1978 Amendment note under section 603 of Title 21, Food and Drugs.
 
 #### Contracts For or Procurement of Livestock Products During the Period From June 30, 1960, to August 30, 1960
 

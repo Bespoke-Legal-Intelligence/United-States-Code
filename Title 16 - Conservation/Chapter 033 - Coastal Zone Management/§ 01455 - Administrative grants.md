@@ -2,7 +2,7 @@
 
 #### (a) Authorization; matching funds
 
-The Secretary may make grants to any coastal state for the purpose of administering that State's management program, if the State matches any such grant according to the following ratios of Federal-to-State contributions for the applicable fiscal year:
+The Secretary may make grants to any coastal state for the purpose of administering thatState's management program, if the State matches any such grant according to the following ratios of Federal-to-State contributions for the applicable fiscal year:
 
 &emsp;(1) For those States for which programs were approved prior to November 5, 1990, 1 to 1 for any fiscal year.
 
@@ -88,7 +88,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;(B) Direct State land and water use planning and regulation.
 
-&emsp;&emsp;(C) State administrative review for consistency with the management program of all development plans, projects, or land andwater use regulations, including exceptions and variances thereto, proposed by any State or local authority or private developer, with power to approve or disapprove after public notice and an opportunity for hearings.
+&emsp;&emsp;(C) State administrative review for consistency with the management program of all development plans, projects, or land and water use regulations, including exceptions and variances thereto, proposed by any State or local authority or private developer, with power to approve or disapprove after public notice and an opportunity for hearings.
 
 &emsp;(12) The management program contains a method of assuring that local land use and water use regulations within the coastal zone do not unreasonably restrict or exclude land uses and water uses of regional benefit.
 
@@ -116,7 +116,7 @@ A coastal state may amend or modify a management program which it has submitted 
 
 &emsp;(B) The Secretary, after determining on a preliminary basis, that an amendment, modification, or other change which has been submitted for approval under this subsection is likely to meet the program approval standards in this section, may permit the State to expend funds awarded under this section to begin implementing the proposed amendment, modification, or change. This preliminary approval shall not extend for more than 6 months and may not be renewed. A proposed amendment, modification, or change which has been given preliminary approval and is not finally approved under this paragraph shall not be considered an enforceable policy for purposes of section 1456 of this title.
 
-(Pub. L. 89–454, title III, §306, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1283; amended Pub. L. 93–612, §1(2), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, §5, July 26, 1976, 90 Stat. 1017; Pub. L. 96–464, §5(a), Oct. 17, 1980, 94 Stat. 2062; Pub. L. 99–272, title VI, §6043(b)(1), (c), Apr. 7, 1986, 100 Stat. 124, 125; Pub. L. 101–508, title VI, §6206(a), Nov. 5, 1990, 104 Stat. 1388–303; Pub. L. 102–587, title II, §2205(b)(1)(A), (B), (8), Nov. 4, 1992, 106 Stat. 5050, 5051.)
+(Pub. L. 89–454, title III, §306, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1283; amended Pub.L. 93–612, §1(2), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, §5, July 26, 1976, 90 Stat. 1017; Pub. L. 96–464, §5(a), Oct. 17, 1980, 94 Stat. 2062; Pub. L. 99–272, title VI, §6043(b)(1), (c), Apr. 7, 1986, 100 Stat. 124, 125; Pub. L. 101–508, title VI, §6206(a), Nov. 5, 1990, 104 Stat. 1388–303; Pub. L. 102–587, title II, §2205(b)(1)(A), (B), (8), Nov. 4, 1992, 106 Stat. 5050, 5051.)
 
 #### References in Text
 
@@ -134,7 +134,7 @@ Subsec. (g). Pub. L. 99–272, §6043(c), inserted “, and subject to the foll
 
 1980—Subsec. (a). Pub. L. 96–464, §5(a)(1), in opening text, substituted “The Secretary may make grants” for “The Secretary may make a grant annually”, added par. (3), and provision following par. (3) which defined the costs of administering a management program.
 
-Subsec. (b). Pub. L. 96–464, §5(2), struck out proviso that no annual grant made under this section shall be in excess of $2,000,000 for fiscal year 1975, in excess of$2,500,000 for fiscal year 1976, and in excess of $3,000,000 for fiscal year 1977.
+Subsec. (b). Pub. L. 96–464, §5(2), struck out proviso that no annual grant made under this section shall be in excess of $2,000,000 for fiscal year 1975, in excess of $2,500,000 for fiscal year 1976, and in excess of $3,000,000 for fiscal year 1977.
 
 Subsec. (i). Pub. L. 96–464, §5(a)(3), added subsec. (i).
 

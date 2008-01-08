@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 (C) In this paragraph, the term “tribal organization” has the meaning given that term in section 450b(<i>l</i>) of title 25.
 
-(5)(A) In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Administrator of the Federal Emergency Management Agency, the Administrator shall carry out a program to provide assistance to State and local governments in developing capabilities to respond to emergencies involving risks to the public health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
+(5)(A) In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Administrator of the Federal Emergency Management Agency, the Administrator shall carry out a program to provide assistance to State and local governments in developing capabilities to respond to emergencies involving risks to thepublic health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
 
 &emsp;(i) the storage of lethal chemical agents and munitions referred to in subsection (a) of this section at military installations in the continental United States; or
 
@@ -170,7 +170,7 @@ Section was enacted as part of the Department of Defense Authorization Act, 1986
 
 1999—Subsec. (b)(4). Pub. L. 106–65, §1067(11), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-Subsec. (c)(2). Pub. L. 106–65, §141(b)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “Facilities constructed to carry out this section may not be used for any purpose other than the destruction of lethal chemical weapons and munitions, and when no longer needed to carry out this section, such facilities shall be cleaned, dismantled, and disposed of in accordance with applicable laws and regulations.”
+Subsec. (c)(2). Pub. L. 106–65, §141(b)(1)(A), added par. (2) and struck out former par. (2) which read as follows:“Facilities constructed to carry out this section may not be used for any purpose other than the destruction of lethal chemical weapons and munitions, and when no longer needed to carry out this section, such facilities shall be cleaned, dismantled, and disposed of in accordance with applicable laws and regulations.”
 
 Subsec. (c)(3) to (5). Pub. L. 106–65, §141(b)(1)(B), (C), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
@@ -216,7 +216,7 @@ Subsec. (g)(2)(C). Pub. L. 104–201, §1074(d)(2)(C), substituted “An assessm
 
 Subsec. (g)(3). Pub. L. 104–106, §153(b)(4), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (g)(4). Pub. L. 104–106, §153(b)(5), substituted “paragraph (1) not later” for “this subsection notlater” and inserted at end “No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).”
+Subsec. (g)(4). Pub. L. 104–106, §153(b)(5), substituted “paragraph (1) not later” for “this subsection not later” and inserted at end “No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).”
 
 Pub. L. 104–106, §153(b)(3), redesignated par. (3) as (4).
 
@@ -260,7 +260,7 @@ Subsec. (b)(3)(B). Pub. L. 100–456, §118(a)(2), substituted “not later than
 
 Subsec. (b)(4), (5). Pub. L. 100–456, §118(a)(3), added pars. (4) and (5).
 
-Subsec. (k). Pub. L. 100–456, §118(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The provisions of this section shall take effect on October 1, 1985.”
+Subsec. (k). Pub. L. 100–456, §118(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read asfollows: “The provisions of this section shall take effect on October 1, 1985.”
 
 #### Change of Name
 
@@ -279,6 +279,24 @@ Pub. L. 109–163, div. A, title IX, §921(b), Jan. 6, 2006, 119 Stat. 3410, pro
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Deadline for Destruction of Stockpile of Lethal Chemical Agents and Munitions
+
+Pub. L. 110–116, div. A, title VIII, §8119, Nov. 13, 2007, 121 Stat. 1340, provided that:
+
+“(a) Notwithstanding any other provision of law, the Department of Defense shall complete work on the destruction of the United States stockpile of lethal chemical agents and munitions, including those stored at Blue Grass Army Depot, Kentucky, and Pueblo Chemical Depot, Colorado, by the deadline established by the Chemical Weapons Convention, and in no circumstances later than December 31, 2017.
+
+“(b)
+
+Report.—
+
+&emsp;“(1) Not later than December 31, 2007, and every 180 days thereafter, the Secretary of Defense shall submit to the parties described in paragraph (2) a report on the progress of the Department of Defense toward compliance with this section.
+
+&emsp;“(2) The parties referred to in paragraph (1) are the Speaker of the House of Representatives, the Majority and Minority Leaders of the House of Representatives, the Majority and Minority Leaders of the Senate, and the congressional defense committees \[Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives\].
+
+&emsp;“(3) Each report submitted under paragraph (1) shall include the updated and projected annual funding levels necessary to achieve full compliance with this section. The projected funding levels for each report shall include a detailed accounting of the complete life-cycle costs for each of the chemical disposal projects.
+
+“(c) In this section, the term ‘Chemical Weapons Convention’ means the Convention on the Prohibition of Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, with annexes, done at Paris, January 13, 1993, and entered into force April 29, 1997 (T. Doc. 103–21).”
 
 #### Incentives Clauses in Chemical Demilitarization Contracts
 
@@ -394,7 +412,7 @@ Pilot Facilities Contracts.—(1) The Under Secretary of Defense for Acquisition
 
 &emsp;&emsp;“(i) as safe and cost effective for disposing of assembled chemical munitions as is incineration of such munitions; and
 
-&emsp;&emsp;“(ii) is capable of completing the destruction of such munitions on or before the later of the date bywhich the destruction of the munitions would be completed if incineration were used or the deadline date for completing the destruction of the munitions under the Chemical Weapons Convention; and
+&emsp;&emsp;“(ii) is capable of completing the destruction of such munitions on or before the later of the date by which the destruction of the munitions would be completed if incineration were used or the deadline date for completing the destruction of the munitions under the Chemical Weapons Convention; and
 
 &emsp;“(B) determines as satisfying the Federal and State environmental and safety laws that are applicable to the use of the technology and to the design, construction, and operation of a pilot facility for use of the technology.
 
@@ -490,7 +508,7 @@ In General.—The Secretary of Defense shall proceed with the program for destru
 
 “(b)
 
-Initiation of Demilitarization Operations.—The Secretary of Defense may not initiate destruction of the chemical munitions stockpile stored at a site until the following support measures are in place:
+Initiation of Demilitarization Operations.—The Secretary of Defense may not initiate destructionof the chemical munitions stockpile stored at a site until the following support measures are in place:
 
 &emsp;“(1) Support measures that are required by Department of Defense and Army chemical surety and security program regulations.
 
@@ -618,7 +636,7 @@ Applicability of Certain Provisions of Section 1412.—Subsection (c) of section
 
 “(d)
 
-Submission of Revised Plan.—If the Secretary is required to submit a revised concept plan under thissection, the Secretary shall submit the revised concept plan during the 120-day period beginning at the end of the 60-day period following the submission of the report of the Secretary required under section 173 \[106 Stat. 2342\].
+Submission of Revised Plan.—If the Secretary is required to submit a revised concept plan under this section, the Secretary shall submit the revised concept plan during the 120-day period beginning at the end of the 60-day period following the submission of the report of the Secretary required under section 173 \[106 Stat. 2342\].
 
 “(e)
 
@@ -630,7 +648,7 @@ Section 178 of Pub. L. 102–484 provided that: “It is the sense of Congress t
 
 #### “Low-Volume Site” Defined
 
-Section 180 of Pub. L. 102–484 provided that: “For purposes of this subtitle \[subtitle G (§§171–180) of title I of div. A of Pub. L. 102–484, amending this section and enacting provisions set out as notes above\], the term ‘low-volume site’ means one of the three chemical weapons storage sites in the United States at which there is stored 5 percent or less of the total United States stockpile of unitary chemical weapons.”
+Section 180 of Pub. L. 102–484 provided that: “For purposes of this subtitle \[subtitle G (§§171–180) of title I of div. A of Pub. L. 102–484, amending this section and enacting provisions set out as notes above\], the term‘low-volume site’ means one of the three chemical weapons storage sites in the United States at which there is stored 5 percent or less of the total United States stockpile of unitary chemical weapons.”
 
 #### Revision of Chemical Demilitarization Program
 

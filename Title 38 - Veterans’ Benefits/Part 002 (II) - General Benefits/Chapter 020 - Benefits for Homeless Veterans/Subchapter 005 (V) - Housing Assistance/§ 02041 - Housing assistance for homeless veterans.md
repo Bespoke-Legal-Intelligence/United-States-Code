@@ -6,7 +6,7 @@
 
 &emsp;(B) any State or any political subdivision thereof.
 
-(2) To carry out paragraph (1), the Secretary may enter into agreements to sell, lease, lease with an option to purchase, or donate real property, and improvements thereon, acquired by the Secretary as the result of a default on a loan made, insured, or guaranteed under this chapter. Such sale or lease or donation shall be for such consideration as the Secretary determines is in the best interests of homeless veterans and the Federal Government.
+(2) To carry out paragraph (1), the Secretary may enter into agreements to sell, lease, leasewith an option to purchase, or donate real property, and improvements thereon, acquired by the Secretary as the result of a default on a loan made, insured, or guaranteed under this chapter. Such sale or lease or donation shall be for such consideration as the Secretary determines is in the best interests of homeless veterans and the Federal Government.
 
 (3) The Secretary may enter into an agreement under paragraph (1) of this subsection only if—
 
@@ -92,5 +92,5 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub
 
 #### Ratification of Actions During Period of Expired Authority
 
-Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during periodbeginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 

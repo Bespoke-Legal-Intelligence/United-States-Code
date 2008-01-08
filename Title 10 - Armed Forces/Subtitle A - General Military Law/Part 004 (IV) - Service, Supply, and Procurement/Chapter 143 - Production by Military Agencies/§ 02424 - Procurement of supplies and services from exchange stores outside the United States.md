@@ -36,7 +36,7 @@ Section 353 of Pub. L. 103–160 provided that:
 
 “(a)
 
-Requirement.—The Secretary of Defense shall provide for the commencement, not later than October 1, 1994, of the operation of Stars and Stripes bookstores outside of the United States by the military exchanges.
+Requirement.—The Secretary of Defense shall provide for the commencement, not later than October1, 1994, of the operation of Stars and Stripes bookstores outside of the United States by the military exchanges.
 
 “(b)
 

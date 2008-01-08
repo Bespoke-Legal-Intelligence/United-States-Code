@@ -2,7 +2,7 @@
 
 #### (a) Officers and agencies of General Service Administration and other governmental agencies
 
-The Administrator of General Services may delegate any authority and discretion conferred upon him by this chapter to such officers and agencies of the General Services Administration as he may designate, and may delegate such authority and discretion, upon such terms and conditions as he may prescribe, to the head of any Government agency to the extent necessary to the handling and solution of problems peculiar to that agency.
+The Administrator of General Services may delegate any authority and discretion conferredupon him by this chapter to such officers and agencies of the General Services Administration as he may designate, and may delegate such authority and discretion, upon such terms and conditions as he may prescribe, to the head of any Government agency to the extent necessary to the handling and solution of problems peculiar to that agency.
 
 #### (b) Authority delegated to other governmental agencies
 
@@ -20,7 +20,7 @@ Nothing in this chapter shall prevent the Administrator of General Services from
 
 #### Codification
 
-In subsec. (a), the phrase “such officers and agencies of the General Services Administration as he may designate” substituted for “any Deputy Director” on authority of section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) offormer Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
+In subsec. (a), the phrase “such officers and agencies of the General Services Administration as he may designate” substituted for “any Deputy Director” on authority of section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 #### Transfer of Functions
 

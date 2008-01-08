@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (c), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503,as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
+The Export Administration Act of 1979, referred to in subsec. (c), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 
 #### Amendments
 

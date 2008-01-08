@@ -2,7 +2,7 @@
 
 (a) In addition to amounts otherwise available for such purpose, there is authorized to be appropriated $25,000,000 for the fiscal year 1976 to furnish assistance under this part for the relief and rehabilitation of the people who have been victimized by the recent earthquake in Italy. Amounts appropriated under this section are authorized to remain available until expended.
 
-(b) There are authorized to be appropriated to the President $30,000,000 for the fiscal year 1978 for relief, rehabilitation, and reconstruction assistance, in accordance with the provisions of section 2292 of this title and on such terms and conditions as he may determine, for the peoplewho have been victimized by the recent earthquakes in Italy. Amounts appropriated under this subsection are authorized to remain available until expended.
+(b) There are authorized to be appropriated to the President $30,000,000 for the fiscal year 1978 for relief, rehabilitation, and reconstruction assistance, in accordance with the provisions of section 2292 of this title and on such terms and conditions as he may determine, for the people who have been victimized by the recent earthquakes in Italy. Amounts appropriated under this subsection are authorized to remain available until expended.
 
 (c) Obligations incurred prior to June 30, 1976, against other appropriations or accounts for the purpose of providing relief and rehabilitation assistance to the people of Italy may be charged to the appropriations authorized under this section.
 

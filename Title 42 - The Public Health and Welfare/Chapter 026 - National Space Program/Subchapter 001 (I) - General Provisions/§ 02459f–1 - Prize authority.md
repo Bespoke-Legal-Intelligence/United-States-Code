@@ -76,3 +76,7 @@ The Federal Government shall not, by virtue of offering or providing a prize und
 
 (Pub. L. 85–568, title III, §314, as added Pub. L. 109–155, title I, §104, Dec. 30, 2005, 119 Stat. 2910.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

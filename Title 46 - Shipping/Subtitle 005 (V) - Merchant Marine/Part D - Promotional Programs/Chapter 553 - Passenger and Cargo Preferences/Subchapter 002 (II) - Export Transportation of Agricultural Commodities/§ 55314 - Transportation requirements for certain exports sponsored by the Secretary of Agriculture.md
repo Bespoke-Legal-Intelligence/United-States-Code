@@ -48,7 +48,7 @@ Application of section 55305.—The requirement for transportation on vessels of
 
 &emsp;(2)
 
-Allocation of commodities.—Subject to paragraph (3), in carrying out this section and section 55305 of this title, the Corporation shall take steps necessary and practicable, andconsistent with this section and section 55305, without detriment to any port range to allocate, on the principle of lowest landed cost without regard to the country of registry of the vessel, 25 percent of the bagged, processed, or fortified commodities provided under title II of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1721 et seq.).
+Allocation of commodities.—Subject to paragraph (3), in carrying out this section and section 55305 of this title, the Corporation shall take steps necessary and practicable, and consistent with this section and section 55305, without detriment to any port range to allocate, on the principle of lowest landed cost without regard to the country of registry of the vessel, 25 percent of the bagged, processed, or fortified commodities provided under title II of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1721 et seq.).
 
 &emsp;(3)
 

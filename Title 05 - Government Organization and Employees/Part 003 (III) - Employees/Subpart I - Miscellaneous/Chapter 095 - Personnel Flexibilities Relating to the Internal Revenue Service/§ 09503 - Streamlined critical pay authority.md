@@ -1,6 +1,6 @@
 ### §9503. Streamlined critical pay authority
 
-(a) Notwithstanding section 9502, and without regard to the provisions of this title governing appointments in the competitive service or the Senior Executive Service and chapters 51 and 53 (relating to classification and pay rates), the Secretary of the Treasury may, for a period of 10 years after the date of enactment of this section, establish, fix the compensation of, and appoint individuals to, designated critical administrative, technical, and professional positions needed to carry out the functions of the Internal Revenue Service, if—
+(a) Notwithstanding section 9502, and without regard to the provisions of this title governing appointments in the competitive service or the Senior Executive Service and chapters 51 and 53 (relating to classification and pay rates), the Secretary of the Treasury may, before July 23, 2013, establish, fix the compensation of, and appoint individuals to, designated critical administrative, technical, and professional positionsneeded to carry out the functions of the Internal Revenue Service, if—
 
 &emsp;(1) the positions—
 
@@ -24,11 +24,13 @@
 
 (b) Individuals appointed under this section shall not be considered to be employees for purposes of subchapter II of chapter 75.
 
-(Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 712.)
+(Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 712; amended Pub. L. 110–161, div. D, title I, §105, Dec. 26, 2007, 121 Stat. 1977.)
 
 #### References in Text
 
 The provisions of this title governing appointments in the competitive service, referred to in subsec. (a), are classified generally to section 3301 et seq. of this title.
 
-The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 105–206, which was approved July 22, 1998.
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 110–161 substituted “before July 23, 2013” for “for a period of 10 years after the date of enactment of this section” in introductory provisions.
 

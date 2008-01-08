@@ -4,7 +4,7 @@
 
 It shall be unlawful for any person knowingly or intentionally—
 
-&emsp;(1) who is a registrant to distribute a controlled substance classified in schedule I or II,in the course of his legitimate business, except pursuant to an order or an order form as required by section 828 of this title;
+&emsp;(1) who is a registrant to distribute a controlled substance classified in schedule I or II, in the course of his legitimate business, except pursuant to an order or an order form as required by section 828 of this title;
 
 &emsp;(2) to use in the course of the manufacture, distribution, or dispensing of a controlled substance, or to use for the purpose of acquiring or obtaining a controlled substance, a registration number which is fictitious, revoked, suspended, expired, or issued to another person;
 
@@ -12,7 +12,7 @@ It shall be unlawful for any person knowingly or intentionally—
 
 &emsp;(4)(A) to furnish false or fraudulent material information in, or omit any material information from, any application, report, record, or other document required to be made, kept, or filed under this subchapter or subchapter II of this chapter, or (B) to present false or fraudulent identification where the person is receiving or purchasing a listed chemical and the person is required to present identification under section 830(a) of this title;
 
-&emsp;(5) to make, distribute, or possess any punch, die, plate, stone, or other thing designed to print, imprint, or reproduce the trademark, trade name, or other identifying mark, imprint, or device of another or any likeness of any of the foregoing upon any drug or container or labeling thereof so as to render such drug a counterfeit substance;
+&emsp;(5) to make, distribute, or possess any punch, die, plate, stone, or other thing designed to print, imprint, or reproduce the trademark, trade name, or other identifying mark, imprint, or device of another or any likeness of any of the foregoing upon any drugor container or labeling thereof so as to render such drug a counterfeit substance;
 
 &emsp;(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter;
 
@@ -46,7 +46,7 @@ It shall be unlawful for any person to place in any newspaper, magazine, handbil
 
 #### (e) Additional penalties
 
-In addition to any other applicable penalty, any person convicted of a felony violation ofthis section relating to the receipt, distribution, manufacture, exportation, or importation of a listed chemical may be enjoined from engaging in any transaction involving a listed chemical for not more than ten years.
+In addition to any other applicable penalty, any person convicted of a felony violation of this section relating to the receipt, distribution, manufacture, exportation, or importation of a listed chemical may be enjoined from engaging in any transaction involving a listed chemical for not more than ten years.
 
 #### (f) Injunctions
 

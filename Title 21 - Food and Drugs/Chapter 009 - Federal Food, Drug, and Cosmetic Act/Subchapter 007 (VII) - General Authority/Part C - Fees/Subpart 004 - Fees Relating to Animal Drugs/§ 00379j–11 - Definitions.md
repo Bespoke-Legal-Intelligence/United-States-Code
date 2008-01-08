@@ -1,6 +1,6 @@
 ### §379j–11. Definitions
 
-For purposes of this part:
+For purposes of this subpart:
 
 &emsp;(1) The term “animal drug application” means an application for approval of any new animal drug submitted under section 360b(b)(1) of this title. Such term does not include either a new animal drug application submitted under section 360b(b)(2) of this title or a supplemental animal drug application.
 
@@ -54,13 +54,23 @@ For purposes of this part:
 
 &emsp;(10) The term “adjustment factor” applicable to a fiscal year refers to the formula set forth in section 379g(8) of this title with the base or comparator year being 2003.
 
-&emsp;(11) The term “affiliate” refers to the definition set forth in section 379g(9) of this title.
+&emsp;(11) The term “affiliate” refers to the definition set forth in section 379g(11) of this title.
 
-(June 25, 1938, ch. 675, §739, as added Pub. L. 108–130, §3, Nov. 18, 2003, 117 Stat. 1361.)
+(June 25, 1938, ch. 675, §739, as added Pub. L. 108–130, §3, Nov. 18, 2003, 117 Stat. 1361; amended Pub. L. 110–85, title I, §109, Sept. 27, 2007, 121 Stat. 842.)
 
 #### Termination of Section
 
 <i>For termination of section by section 5 of Pub. L. 108–130, see Termination Date note below.</i>
+
+#### Amendments
+
+2007—Pub. L. 110–85, §109(a), substituted “subpart” for “part” in introductory provisions.
+
+Par. (11). Pub. L. 110–85, §109(b), substituted “379g(11)” for “379g(9)”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–85 effective Oct. 1, 2007, see section 107 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under section 379g of this title.
 
 #### Termination Date
 
@@ -102,7 +112,7 @@ Recommendations.—The Secretary shall—
 
 “(b)
 
-Performance Reports.—Beginning with fiscal year 2004, not later than 60 days after the end of each fiscal year during which fees are collected under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], the Secretary shall prepare and submit to the Committee on Energyand Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 2(3) of this Act \[set out as a note above\] toward expediting the animal drug development process and the review of the new and supplemental animal drug applications and investigational animal drug submissions during such fiscal year, the future plans of the Food and Drug Administration for meeting the goals, the review times for abbreviated new animal drug applications, and the administrative procedures adopted by the Food and Drug Administration to ensure that review times for abbreviated new animal drug applications are not increased from their current level due to activities under the user fee program.
+Performance Reports.—Beginning with fiscal year 2004, not later than 60 days after the end of each fiscal year during which fees are collected under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 2(3) of this Act \[set out as a note above\] toward expediting the animal drug development process and the review of the new and supplemental animal drug applications and investigational animal drug submissions during such fiscal year, the future plans of the Food and Drug Administration for meeting the goals, the review times for abbreviated new animal drug applications, and the administrative procedures adopted by the Food and Drug Administration to ensure that review times for abbreviated new animal drug applications are not increased from their current level due to activities under the user fee program.
 
 “(c)
 

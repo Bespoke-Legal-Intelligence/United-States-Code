@@ -160,5 +160,3 @@ Subsecs. (c) to (e). Pub. L. 85–861, §1(66)(B), struck out subsec. (c) which 
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-§3211
-

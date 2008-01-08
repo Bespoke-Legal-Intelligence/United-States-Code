@@ -4,7 +4,7 @@
 
 &emsp;(1) Section 1036, Escorts for dependents of members: transportation and travel allowances.
 
-&emsp;(2) Chapter 61, Retirement or Separation for Physical Disability, except that sections 1201, 1202, and 1203 do not apply to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days.
+&emsp;(2) Chapter 61, Retirement or Separation for Physical Disability, except that sections 1201,1202, and 1203 do not apply to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days.
 
 &emsp;(3) Chapter 69, Retired Grade, except sections 1370, 1374,<sup>1</sup> 1375 and 1376(a).<sup>1</sup>
 

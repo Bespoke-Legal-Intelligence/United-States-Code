@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(B) State exercise of general supervisory authority, including child find, effective monitoring, the use of resolution sessions, mediation, voluntary binding arbitration, and a system of transition services as defined in sections 1401(34) and 1437(a)(9) of this title.
 
-&emsp;&emsp;(C) Disproportionate representation of racial and ethnic groups in special educationand related services, to the extent the representation is the result of inappropriate identification.
+&emsp;&emsp;(C) Disproportionate representation of racial and ethnic groups in special education and related services, to the extent the representation is the result of inappropriate identification.
 
 #### (4) Permissive areas of review
 
@@ -84,7 +84,7 @@
 
 #### (I) Public report
 
-&emsp;&emsp;&emsp;&emsp;The State shall report annually to the public on the performance of each local educational agency located in the State on the targets in the State's performance plan. The State shall make the State's performance plan available through public means, including by posting on the website of the State educational agency, distribution to the media, and distribution through public agencies.
+&emsp;&emsp;&emsp;&emsp;The State shall report annually to the public on the performance of each localeducational agency located in the State on the targets in the State's performance plan. The State shall make the State's performance plan available through public means, including by posting on the website of the State educational agency, distribution to the media, and distribution through public agencies.
 
 #### (II) State performance report
 
@@ -126,7 +126,7 @@
 
 #### (5) Failure to respond
 
-&emsp;If the State does not respond to the Secretary's notification described in paragraph\(3)(B) during the 30-day period beginning on the date on which the State received the notification, such plan shall be deemed to be disapproved.
+&emsp;If the State does not respond to the Secretary's notification described in paragraph (3)(B) during the 30-day period beginning on the date on which the State received the notification, such plan shall be deemed to be disapproved.
 
 #### (d) Secretary's review and determination
 
@@ -264,7 +264,7 @@ Nothing in this section shall be construed to restrict the Secretary from utiliz
 
 #### (h) Divided State agency responsibility
 
-For purposes of this section, where responsibility for ensuring that the requirements of this subchapter are met with respect to children with disabilities who are convicted as adults under State law and incarcerated in adult prisons is assigned to a public agency other than the State educational agency pursuant to section 1412(a)(11)(C) of this title, the Secretary, in instances where the Secretary finds that the failure to comply substantially with the provisions of this subchapter are related to a failure by thepublic agency, shall take appropriate corrective action to ensure compliance with this subchapter, except that—
+For purposes of this section, where responsibility for ensuring that the requirements of this subchapter are met with respect to children with disabilities who are convicted as adults under State law and incarcerated in adult prisons is assigned to a public agency other than the State educational agency pursuant to section 1412(a)(11)(C) of this title, the Secretary, in instances where the Secretary finds that the failure to comply substantially with the provisions of this subchapter are related to a failure by the public agency, shall take appropriate corrective action to ensure compliance with this subchapter, except that—
 
 &emsp;(1) any reduction or withholding of payments to the State shall be proportionate to the total funds allotted under section 1411 of this title to the State as the number of eligible children with disabilities in adult prisons under the supervision of the other public agency is proportionate to the number of eligible individuals with disabilities in the State under the supervision of the State educational agency; and
 
@@ -289,4 +289,8 @@ The General Education Provisions Act, referred to in subsec. (g), is title IV of
 A prior section 1416, Pub. L. 91–230, title VI, §616, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 99, related to withholding of payments and judicial review, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1416, Pub. L. 91–230, title VI, §616, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 789; amended Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, §102(f), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, §901(b)(76), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to withholding of payments, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

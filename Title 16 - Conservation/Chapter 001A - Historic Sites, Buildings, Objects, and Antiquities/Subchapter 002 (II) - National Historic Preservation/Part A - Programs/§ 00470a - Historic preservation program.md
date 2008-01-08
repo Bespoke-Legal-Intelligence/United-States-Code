@@ -20,7 +20,7 @@
 
 &emsp;(F) notifying the owner of a property, any appropriate local governments, and the general public, when the property is being considered for inclusion on the National Register, for designation as a National Historic Landmark or for nomination to the World Heritage List.
 
-(3) Subject to the requirements of paragraph (6), any State which is carrying out a program approved under subsection (b) of this section, shall nominate to the Secretary properties which meet the criteria promulgated under subsection (a) of this section for inclusion on the National Register. Subject to paragraph (6), any property nominated under this paragraph or under section 470h–2(a)(2) of this title shall beincluded on the National Register on the date forty-five days after receipt by the Secretary of the nomination and the necessary documentation, unless the Secretary disapproves such nomination within such forty-five day period or unless an appeal is filed under paragraph (5).
+(3) Subject to the requirements of paragraph (6), any State which is carrying out a program approved under subsection (b) of this section, shall nominate to the Secretary properties which meet the criteria promulgated under subsection (a) of this section for inclusion on the National Register. Subject to paragraph (6), any property nominated under this paragraph or under section 470h–2(a)(2) of this title shall be included on the National Register on the date forty-five days after receipt by the Secretary of the nomination and the necessary documentation, unless the Secretary disapproves such nomination within such forty-five day period or unless an appeal is filed under paragraph (5).
 
 (4) Subject to the requirements of paragraph (6) the Secretary may accept a nomination directly from any person or local government for inclusion of a property on the National Register only if such property is located in a State where there is no program approved under subsection (b) of this section. The Secretary may include on the National Register any property for which such a nomination is made if he determines that such property is eligible in accordance with the regulations promulgated under paragraph (2). Such determination shall be made within ninety days from the date of the nomination unless the nomination is appealed under paragraph (5).
 
@@ -52,7 +52,7 @@
 
 &emsp;(B) provides for an adequate and qualified State historic preservation review board designated by the State Historic Preservation Officer unless otherwise provided for by State law; and
 
-&emsp;(C) provides for adequate public participation in the State Historic Preservation Program, including the process of recommending properties for nomination to the National Register.
+&emsp;(C) provides for adequate public participation in the State Historic Preservation Program, including the process of recommendingproperties for nomination to the National Register.
 
 (2)(A) Periodically, but not less than every 4 years after the approval of any State program under this subsection, the Secretary, in consultation with the Council on the appropriate provisions of this subchapter, and in cooperation with the State Historic Preservation Officer, shall evaluate the program to determine whether it is consistent with this subchapter.
 
@@ -222,7 +222,7 @@
 
 (2) The Secretary may administer grants to the National Trust for Historic Preservation in the United States, chartered by sections 468 to 468d of this title consistent with the purposes of its charter and this subchapter.
 
-(3)(A) In addition to the programs under paragraphs (1) and (2), the Secretary shall administer a program of direct grants for the preservation of properties included on the National Register. Funds to support such program annually shall not exceed 10 per centum of the amount appropriated annually for the fund established under section 470h of this title. These grants may be made by the Secretary, in consultationwith the appropriate State Historic Preservation Officer—
+(3)(A) In addition to the programs under paragraphs (1) and (2), the Secretary shall administer a program of direct grants for the preservation of properties included on the National Register. Funds to support such program annually shall not exceed 10 per centum of the amount appropriated annually for the fund established under section 470h of this title. These grants may be made by the Secretary, in consultation with the appropriate State Historic Preservation Officer—
 
 &emsp;(i) for the preservation of National Historic Landmarks which are threatened with demolition or impairment and for the preservation of historic properties of World Heritage significance,
 
@@ -418,7 +418,7 @@ Consultation and appointment.—
 
 &emsp;&emsp;“(A)
 
-In general.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall consult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitable representation of various points of view with respect to the matters to be studied by the Commission.
+In general.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shallconsult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitable representation of various points of view with respect to the matters to be studied by the Commission.
 
 &emsp;&emsp;“(B)
 
@@ -544,7 +544,7 @@ Waiver.—The Secretary may waive paragraphs (1) and (3) with respect to a grant
 
 &emsp;“(3)
 
-Exception.—The Secretary shall not obligate funds made available under subsection (d)(2) for a grant with respect to a building or structure listed on, or eligible for listing on, the National Register of Historic Places unless the grantee agrees to provide,from funds derived from non-Federal sources, an amount that is equal to 30 percent of the total cost of the project for which the grant is provided.
+Exception.—The Secretary shall not obligate funds made available under subsection (d)(2) for a grant with respect to a building or structure listed on, or eligible for listing on, the National Register of Historic Places unless the grantee agrees to provide, from funds derived from non-Federal sources, an amount that is equal to 30 percent of the total cost of the project for which the grant is provided.
 
 “(d)
 

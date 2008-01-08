@@ -10,7 +10,7 @@ Such application shall be submitted to the Corporation at such time and in such 
 
 #### (c) Contents
 
-Such an application shall include, at a minimum, a State plan that contains the information and assurances described in section 12544(d) of this title with respect to each community-based service program proposed to be carried outthrough funding distributed by the State Commission under this subpart.
+Such an application shall include, at a minimum, a State plan that contains the information and assurances described in section 12544(d) of this title with respect to each community-based service program proposed to be carried out through funding distributed by the State Commission under this subpart.
 
 (Pub. L. 101–610, title I, §117B, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 834.)
 

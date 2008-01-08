@@ -114,7 +114,7 @@ Persons subject to fees.—Fees may be assessed and collected under this subsect
 
 &emsp;&emsp;(D)
 
-Amount of fees.—The fees assessed and collected under this subsection shall be established in a manner that ensures that the liability of any person or entity for a fee is reasonably based on the proportion of the costs referred to in subparagraph (A) that relate to the person or entity.
+Amount of fees.—The fees assessed and collected under this subsection shall beestablished in a manner that ensures that the liability of any person or entity for a fee is reasonably based on the proportion of the costs referred to in subparagraph (A) that relate to the person or entity.
 
 &emsp;&emsp;(E)
 
@@ -216,7 +216,7 @@ Priority.—In making awards under this subsection, the Secretary shall give pri
 
 &emsp;&emsp;(C)
 
-Eligibility.—Local educational agencies and State educational agencies, which may enter into a partnership agreement with institutions of higher education, businesses, or other entities, shall be eligible to apply for grants under this subsection.
+Eligibility.—Local educational agencies and State educational agencies, which may enter into a partnership agreementwith institutions of higher education, businesses, or other entities, shall be eligible to apply for grants under this subsection.
 
 &emsp;(4)
 

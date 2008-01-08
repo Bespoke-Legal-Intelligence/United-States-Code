@@ -4,7 +4,7 @@
 
 #### (1) Denial of visas
 
-&emsp;The Secretary shall report, on a timely basis, to the appropriate committees of the Congress each time a consular post denies a visa on the grounds of terrorist activities or foreign policy. Such report shall set forth the name and nationality of each such person and a factual statement of the basis for such denial.
+&emsp;The Secretary shall report, on a timely basis, to the appropriate committees of theCongress each time a consular post denies a visa on the grounds of terrorist activities or foreign policy. Such report shall set forth the name and nationality of each such person and a factual statement of the basis for such denial.
 
 #### (2) Visa issuance to inadmissible aliens
 
@@ -23,8 +23,4 @@ For the purposes of this section the term “appropriate committees of the Congr
 #### Amendments
 
 2002—Subsec. (a). Pub. L. 107–228 designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

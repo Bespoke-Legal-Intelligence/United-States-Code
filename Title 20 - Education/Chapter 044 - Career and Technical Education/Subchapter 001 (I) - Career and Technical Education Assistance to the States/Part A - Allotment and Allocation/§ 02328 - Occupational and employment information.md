@@ -28,7 +28,7 @@ From funds appropriated under subsection (g), the Secretary, in consultation wit
 
 In order for a State to receive a grant under this section, the eligible agency and the Governor of the State shall jointly designate an entity in the State—
 
-&emsp;(1) to provide support for career guidance and academic counseling programs designed topromote improved career and education decision making by students (and parents, as appropriate) regarding education (including postsecondary education) and training options and preparations for high skill, high wage, or high demand occupations and non-traditional fields;
+&emsp;(1) to provide support for career guidance and academic counseling programs designed to promote improved career and education decision making by students (and parents, as appropriate) regarding education (including postsecondary education) and training options and preparations for high skill, high wage, or high demand occupations and non-traditional fields;
 
 &emsp;(2) to make available to students, parents, teachers, administrators, faculty, and career guidance and academic counselors, and to improve accessibility with respect to, information and planning resources that relate academic and career and technical educational preparation to career goals and expectations;
 
@@ -96,7 +96,7 @@ A prior section 2331, Pub. L. 88–210, title II, §201, as added Pub. L. 101–
 
 Another prior section 2331 and prior sections 2332 to 2334 were omitted in the general amendment of this subchapter by Pub. L. 101–392.
 
-Section 2331, Pub. L. 88–210, title II, §201, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2450; amended Pub. L. 100–297, title II, §2401(a), Apr. 28, 1988, 102 Stat. 324, related to use of a portion of a State's allotment to provide vocational education services and activities to meet special needs of handicapped individuals, disadvantaged individuals, single parents, homemakers, or single pregnant women, and other groups.
+Section 2331, Pub. L. 88–210, title II, §201, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2450; amended Pub. L. 100–297, title II, §2401(a), Apr. 28, 1988, 102 Stat.324, related to use of a portion of a State's allotment to provide vocational education services and activities to meet special needs of handicapped individuals, disadvantaged individuals, single parents, homemakers, or single pregnant women, and other groups.
 
 Section 2332, Pub. L. 88–210, title II, §202, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2452; amended Pub. L. 100–202, §101(h) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–279; Pub. L. 100–297, title II, §2401(b), (c), Apr. 28, 1988, 102 Stat. 324, related to distribution of assistance from State allotment to provide vocational education opportunities.
 

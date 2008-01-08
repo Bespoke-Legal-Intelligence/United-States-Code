@@ -12,7 +12,7 @@
 
 &emsp;(A) which is a general obligation of a State; or
 
-&emsp;(B) which is entered into or issued for the purpose of financing any energy conservationmeasure or renewable-resource energy measure which is to be installed or otherwise implemented in a residential building containing 2 or fewer dwelling units.
+&emsp;(B) which is entered into or issued for the purpose of financing any energy conservation measure or renewable-resource energy measure which is to be installed or otherwise implemented in a residential building containing 2 or fewer dwelling units.
 
 (3) Before prescribing rules pursuant to this subsection, the Secretary shall consult with the Administrator of the Small Business Administration in order to formulate procedures which would assist small business concerns in obtaining guarantees and commitments to guarantee under this section.
 
@@ -78,7 +78,7 @@ The original principal amount guaranteed under subsection (a) may not exceed 90 
 
 #### (h) Wages paid laborers and mechanics; labor standards
 
-All laborers and mechanics employed in construction, alteration, or repair which is financed by an obligation guaranteed under subsection (a) of this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not guarantee any obligations under subsection (a) of this section without first obtaining adequate assurance that these labor standards will be maintained during such construction, alteration, or repair. The Secretary of Labor shall, with respect to the labor standards in this subsection, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
+All laborers and mechanics employed in construction, alteration, or repair which is financedby an obligation guaranteed under subsection (a) of this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not guarantee any obligations under subsection (a) of this section without first obtaining adequate assurance that these labor standards will be maintained during such construction, alteration, or repair. The Secretary of Labor shall, with respect to the labor standards in this subsection, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
 
 #### (i) Definitions
 
@@ -94,7 +94,7 @@ As used in this part:
 
 #### References in Text
 
-This subchapter, referred to in subsec. (e)(1), was in the original “this title”, meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12,Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a note under section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+This subchapter, referred to in subsec. (e)(1), was in the original “this title”, meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12, Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a note under section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (h), is set out in the Appendix to Title 5, Government Organization and Employees.
 

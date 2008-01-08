@@ -50,7 +50,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 #### (B) Military property
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “military property” means any propertywhich is an arm, ammunition, or implement of war designated in the munitions list published pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778).
+&emsp;&emsp;For purposes of subparagraph (A), the term “military property” means any property which is an arm, ammunition, or implement of war designated in the munitions list published pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778).
 
 #### (4) Aggregation of qualified export receipts
 
@@ -60,7 +60,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 #### (B) Allocation
 
-&emsp;&emsp;The dollar amount under paragraph (1)(E) shall be allocated among the DISC's which are members of the same controlled group in a manner provided in regulations prescribed by the Secretary.
+&emsp;&emsp;The dollar amount under paragraph (1)(E) shall be allocated among the DISC's whichare members of the same controlled group in a manner provided in regulations prescribed by the Secretary.
 
 #### (c) Gain on disposition of stock in a DISC
 
@@ -218,7 +218,7 @@ If—
 
 #### (4) Base period T-bill rate
 
-&emsp;For purposes of this subsection, the term “base period T-bill rate” means the annual rate of interest determined by the Secretary to be equivalent to the average of the 1-year constant maturity Treasury yields, as published by the Board of Governors of the Federal Reserve System, for the 1-year period ending on September 30 of the calendar year ending with (or of the most recent calendar year ending before) the close of the taxable year of the shareholder.
+&emsp;For purposes of this subsection, the term “base period T-bill rate” means the annual rate of interest determined by the Secretary to be equivalent to the average of the 1-year constant maturity Treasury yields, as published by the Board of Governors of the Federal Reserve System, for the 1-year period ending on September 30 of the calendar year ending with (or of the most recent calendar yearending before) the close of the taxable year of the shareholder.
 
 #### (5) Short years
 
@@ -294,7 +294,7 @@ Subsec. (c)(1). Pub. L. 95–600, §701(u)(12)(B), inserted provision relating t
 
 Subsec. (b)(1)(D), (E). Pub. L. 94–455, §1101(a)(1), added subpars. (D) and (E) and redesignated former subpars. (D) and (E) as (F) and (G), respectively.
 
-Subsec. (b)(1)(F). Pub. L. 94–455, §§1063(a), 1065(a)(2), 1101(a)(1), redesignated former subpar. (D) as (F), made existing provision cl. (i), added cls. (ii) and (iii), and substituted “(C), (D), and (E)” for “(C)” after “(B), and”.
+Subsec. (b)(1)(F). Pub. L. 94–455, §§1063(a), 1065(a)(2), 1101(a)(1), redesignated former subpar. (D) as (F), madeexisting provision cl. (i), added cls. (ii) and (iii), and substituted “(C), (D), and (E)” for “(C)” after “(B), and”.
 
 Subsec. (b)(1)(G). Pub. L. 94–455, §1101(a)(1), redesignated former subpar. (E) as (G).
 

@@ -70,13 +70,11 @@ The Secretary shall establish a program requiring the payment of user fees for�
 | Exempt organization determination | $275&nbsp;&nbsp; |
 | Chief counsel ruling | $200. |
 
-#### (c) Termination
-
-No fee shall be imposed under this section with respect to requests made after September 30, 2014.
-
-(Added Pub. L. 108–89, title II, §202(a), Oct. 1, 2003, 117 Stat. 1132; amended Pub. L. 108–357, title VIII, §891(a), Oct. 22, 2004, 118 Stat. 1644.)
+(Added Pub. L. 108–89, title II, §202(a), Oct. 1, 2003, 117 Stat. 1132; amended Pub. L. 108–357, title VIII, §891(a), Oct. 22, 2004, 118 Stat. 1644; Pub. L. 110–28, title VIII, §8244, May 25, 2007, 121 Stat. 200.)
 
 #### Amendments
+
+2007—Subsec. (c). Pub. L. 110–28 struck out heading and text of subsec. (c). Text read as follows: “No fee shall be imposed under this section with respect to requests made after September 30, 2014.”
 
 2004—Subsec. (c). Pub. L. 108–357 substituted “September 30, 2014” for “December 31, 2004”.
 

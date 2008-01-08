@@ -12,7 +12,7 @@ Any or all appointments under this section may be at an annual rate of compensat
 
 Each appointing authority under subsection (a) of this section may designate the title of the position of any individual appointed under that subsection.
 
-(Pub. L. 95–26, title I, §101, May 4, 1977, 91 Stat. 82; Pub. L. 95–94, title I, §110(a), Aug. 5, 1977, 91 Stat. 662; Pub. L. 100–458, title I, §§4, 9, Oct. 1, 1988, 102 Stat. 2161, 2162; Pub. L. 101–302, title III, §314(a), May 25, 1990, 104 Stat. 245; Pub. L. 102–90, title I, §3, Aug. 14, 1991, 105 Stat. 450; Pub. L. 104–2, Feb. 9, 1995, 109 Stat. 45; Pub. L. 105–275, title I, §4(a), (b), Oct. 21, 1998, 112 Stat. 2433; Pub. L. 107–20, title II, §2803, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title I, §101(a), Nov. 12, 2001, 115 Stat. 563; Pub. L. 108–7, div. H, title I, §6(a), Feb. 20, 2003, 117 Stat. 350.)
+(Pub. L. 95–26, title I, §101, May 4, 1977, 91 Stat. 82; Pub. L. 95–94, title I, §110(a), Aug. 5, 1977, 91 Stat. 662; Pub. L. 100–458, title I, §§4, 9, Oct. 1, 1988, 102 Stat. 2161, 2162; Pub. L. 101–302, title III, §314(a), May 25, 1990, 104 Stat. 245; Pub. L. 102–90,title I, §3, Aug. 14, 1991, 105 Stat. 450; Pub. L. 104–2, Feb. 9, 1995, 109 Stat. 45; Pub. L. 105–275, title I, §4(a), (b), Oct. 21, 1998, 112 Stat. 2433; Pub. L. 107–20, title II, §2803, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title I, §101(a), Nov. 12, 2001, 115 Stat. 563; Pub. L. 108–7, div. H, title I, §6(a), Feb. 20, 2003, 117 Stat. 350.)
 
 #### Codification
 
@@ -64,9 +64,11 @@ Section 110(b) of Pub. L. 95–94 provided that: “The amendments made by subse
 
 #### Consultants
 
-Pub. L. 109–55, title I, §2, Aug. 2, 2005, 119 Stat. 568, provided that: “With respect to fiscal year 2006, the first sentence of section 101(a) of the Supplemental Appropriations Act, 1977 (2 U.S.C. 61h–6(a)) shall be applied by substituting ‘nine individual consultants’ for ‘eight individual consultants’.”
+Pub. L. 110–161, div. H, title I, §8, Dec. 26, 2007, 121 Stat. 2222, provided that: “With respect to fiscal year 2008, the first sentence of section 101(a) of the Supplemental Appropriations Act, 1977 (2 U.S.C. 61h–6(a)) shall be applied by substituting ‘nine individual consultants’ for ‘eight individual consultants’.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–55, title I, §2, Aug. 2, 2005, 119 Stat. 568.
 
 Pub. L. 108–447, div. G, title I, §2, Dec. 8, 2004, 118 Stat. 3169.
 

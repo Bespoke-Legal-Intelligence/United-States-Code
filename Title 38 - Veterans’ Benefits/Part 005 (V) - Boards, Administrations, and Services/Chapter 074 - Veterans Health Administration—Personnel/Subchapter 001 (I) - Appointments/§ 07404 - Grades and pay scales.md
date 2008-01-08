@@ -1,8 +1,8 @@
 ### §7404. Grades and pay scales
 
-(a) The annual rates or ranges of rates of basic pay for positions provided in section 7306 of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law. The pay of physicians and dentists serving in positions to which an Executive order applies underthe preceding sentence shall be determined under subchapter III of this chapter instead of such Executive order.
+(a) The annual rates or ranges of rates of basic pay for positions provided in section 7306 of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law. The pay of physicians and dentists serving in positions to which an Executive order applies under the preceding sentence shall be determined under subchapter III of this chapter instead of such Executive order.
 
-(b) The grades for positions provided for in paragraph (1) of section 7401 of this title shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
+(b) The grades for positions provided for in paragraph (1) of section 7401 of this title shall beas follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
 
 physician and dentist schedule
 

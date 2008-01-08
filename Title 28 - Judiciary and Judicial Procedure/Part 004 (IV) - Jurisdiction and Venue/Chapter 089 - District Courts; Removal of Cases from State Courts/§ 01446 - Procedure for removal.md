@@ -8,7 +8,7 @@ If the case stated by the initial pleading is not removable, a notice of removal
 
 (c)(1) A notice of removal of a criminal prosecution shall be filed not later than thirty days after the arraignment in the State court, or at any time before trial, whichever is earlier, except that for good cause shown the United States district court may enter an order granting the defendant or defendants leave to file the notice at a later time.
 
-(2) A notice of removal of a criminal prosecution shall include all grounds for such removal. A failure to state grounds which exist at the time of the filing of the notice shall constitute a waiver of such grounds, and a second notice may be filed only on grounds not existing at the time of the original notice. For good cause shown, the United States district court maygrant relief from the limitations of this paragraph.
+(2) A notice of removal of a criminal prosecution shall include all grounds for such removal. A failure to state grounds which exist at the time of the filing of the notice shall constitute a waiver of such grounds, and a second notice may be filed only on grounds not existing at the time of the original notice. For good cause shown, the United States district court may grant relief from the limitations of this paragraph.
 
 (3) The filing of a notice of removal of a criminal prosecution shall not prevent the State court in which such prosecution is pending from proceeding further, except that a judgment of conviction shall not be entered unless the prosecution is first remanded.
 
@@ -58,7 +58,7 @@ The provisions of section 74 of title 28, U.S.C., 1940 ed., requiring the advers
 
 #### 1949 Act
 
-Subsection (b) of section 1446 of title 28, U.S.C., as revised, has been found to create difficulty in thoseStates, such as New York, where suit is commenced by the service of a summons and the plaintiff's initial pleading is not required to be served or filed until later.
+Subsection (b) of section 1446 of title 28, U.S.C., as revised, has been found to create difficulty in those States, such as New York, where suit is commenced by the service of a summons and the plaintiff's initial pleading is not required to be served or filed until later.
 
 The first paragraph of the amendment to subsection (b) corrects this situation by providing that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading.
 

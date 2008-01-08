@@ -22,7 +22,7 @@
 
 1973—Subsec. (a). Pub. L. 91–524, §612, as added by Pub. L. 93–86, inserted provisions relating to cotton planted in skiprow patterns.
 
-1965—Subsec. (a). Pub. L. 89–321, §701, removed references to county and local committees as the agent for measuring commodity or land use acreage, substituted a general reference to any agricultural commodity or land use on farms requiring ascertainment ofacreage for specific reference to corn, wheat, cotton, peanuts, or rice, and substituted provisions requiring ascertainment of commodity and land use prior to harvesting and allowing a reasonable time for adjustment of acreage requirements for provisions requiring the filing of a written report by the local committee with the state committee in the event of planting in excess of farm acreage allotment.
+1965—Subsec. (a). Pub. L. 89–321, §701, removed references to county and local committees as the agent for measuring commodity or land use acreage, substituted a general reference to any agricultural commodity or land use on farms requiring ascertainment of acreage for specific reference to corn, wheat, cotton, peanuts, or rice, and substituted provisions requiring ascertainment of commodity and land use prior to harvesting and allowing a reasonable time for adjustment of acreage requirements for provisions requiring the filing of a written report by the local committee with the state committee in the event of planting in excess of farm acreage allotment.
 
 Subsec. (c). Pub. L. 89–321, §702, struck out sentence directing the Secretary to provide by regulation for the adjustment of planted acreage to the farm acreage allotment if the acreage determined to be planted to any basic agricultural commodity on the farm is in excess of the farm acreage allotment.
 

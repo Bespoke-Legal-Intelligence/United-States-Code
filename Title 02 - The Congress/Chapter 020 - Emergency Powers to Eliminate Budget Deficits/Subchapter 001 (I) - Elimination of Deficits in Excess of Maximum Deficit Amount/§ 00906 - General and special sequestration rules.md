@@ -22,7 +22,7 @@ Any order issued by the President under section 904 of this title shall make the
 
 #### (1) Calculation of reduction in individual payment amounts
 
-&emsp;To achieve the total percentage reduction in those programs required by sections 902 and 903 of this title, and notwithstanding section 710 of the Social Security Act \[42 U.S.C. 911\], OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply to payments under the health insurance programs under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] forservices furnished after the order is issued, such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that fiscal year as determined on a 12-month basis.
+&emsp;To achieve the total percentage reduction in those programs required by sections 902 and 903 of this title, and notwithstanding section 710 of the Social Security Act \[42 U.S.C. 911\], OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply to payments under the health insurance programs under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] for services furnished after the order is issued, such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that fiscal year as determined on a 12-month basis.
 
 #### (2) Timing of application of reductions
 
@@ -126,7 +126,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 &emsp;(B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act \[42 U.S.C. 1104(g)\]) under title XII of such Act \[42 U.S.C. 1321 et seq.\] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act \[42 U.S.C. 1323\], and
 
-&emsp;(C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act \[42 U.S.C. 1109\]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account,
+&emsp;(C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act \[42 U.S.C. 1109\]) for the purpose of carrying out chapter 85 oftitle 5 and funds appropriated or transferred to or otherwise deposited in such Account,
 
 > shall not be subject to reduction.
 
@@ -148,7 +148,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (3) Delayed reduction in outlays permissible
 
-&emsp;Notwithstanding any other provision of this title,<sup>2</sup> if an order under section 904 of this titleis issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
+&emsp;Notwithstanding any other provision of this title,<sup>2</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
 
 #### (4) Uniform percentage rate of reduction and other limitations
 
@@ -192,7 +192,7 @@ The Social Security Act, referred to in subsecs. (c), (d)(1), (2)(B), (3), and (
 
 Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to in subsec. (g)(1), is section 529 \[title III, §302\] of Pub. L. 101–509, which is set out as a note under section 5304 of Title 5, Government Organization and Employees.
 
-This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For completeclassification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
 This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -230,7 +230,7 @@ Subsec. (k)(1). Pub. L. 105–33, §10208(g)(1), struck out “other than a trus
 
 Subsec. (k)(6). Pub. L. 105–33, §10208(g)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage.”
 
-1996—Subsecs. (k), (<i>l</i>). Pub. L. 104–193 redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
+1996—Subsecs. (k), (<i>l</i>). Pub. L. 104–193 redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k)which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
 
 1990—Subsec. (a). Pub. L. 101–508, §13101(d)(1), amended subsec. (a) generally, substituting provisions relating to automatic spending increases for provisions relating to effect of reductions and sequestrations.
 

@@ -16,7 +16,7 @@ The Secretary shall—
 
 #### (c) Program operations
 
-The Secretary shall ensure that the programs under this subpart are administered within theDepartment by a person who has recognized professional qualifications and experience in the field of the education of gifted and talented students and who shall—
+The Secretary shall ensure that the programs under this subpart are administered within the Department by a person who has recognized professional qualifications and experience in the field of the education of gifted and talented students and who shall—
 
 &emsp;(1) administer and coordinate the programs authorized under this subpart;
 

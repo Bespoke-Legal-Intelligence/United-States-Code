@@ -6,7 +6,7 @@ Jurisdiction.—A military commission under this chapter shall have jurisdiction
 
 (b)
 
-Lawful Enemy Combatants.—Military commissions under this chapter shall not havejurisdiction over lawful enemy combatants. Lawful enemy combatants who violate the law of war are subject to chapter 47 of this title. Courts-martial established under that chapter shall have jurisdiction to try a lawful enemy combatant for any offense made punishable under this chapter.
+Lawful Enemy Combatants.—Military commissions under this chapter shall not have jurisdiction over lawful enemy combatants. Lawful enemy combatants who violate the law of war are subject to chapter 47 of this title. Courts-martial established under that chapter shall have jurisdiction to try a lawful enemy combatant for any offense made punishable under this chapter.
 
 (c)
 

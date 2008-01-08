@@ -430,17 +430,97 @@ Each report under this section shall disclose—
 
 The Federal Election Commission shall make any report filed by an Inaugural Committee under section 510 of title 36 accessible to the public at the offices of the Commission and on the Internet not later than 48 hours after the report is received by the Commission.
 
-(Pub. L. 92–225, title III, §304, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§204(a)–(d), 208(c)(4), Oct. 15, 1974, 88 Stat. 1276–1278, 1286; Pub. L. 94–283, title I, §104, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §104, Jan. 8, 1980, 93 Stat. 1348; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(a), 3(b), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 106–58, title VI, §§639(a), 641(a), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 106–346, §101(a) \[title V, §502(a), (c)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49; Pub. L. 107–155, title I, §103(a), title II, §§201(a), 212, title III, §§304(b), 306, 308(b), title V, §§501, 503, Mar. 27, 2002, 116 Stat. 87, 88, 93, 99, 102, 104, 114, 115; Pub. L. 108–199, div. F, title VI, §641, Jan. 23, 2004, 118 Stat. 359.)
+#### (i) Disclosure of bundled contributions
+
+#### (1) Required disclosure
+
+&emsp;Each committee described in paragraph (6) shall include in the first report required to be filed under this section after each covered period (as defined in paragraph (2)) a separate schedule setting forth the name, address, and employer of each person reasonably known by the committee to be a person described in paragraph (7) who provided 2 or more bundled contributions to the committee in an aggregate amount greater than the applicable threshold (as defined in paragraph (3)) during the covered period, and the aggregate amount of the bundled contributions provided by each such person during the covered period.
+
+#### (2) Covered period
+
+&emsp;In this subsection, a “covered period” means, with respect to a committee—
+
+&emsp;&emsp;(A) the period beginning January 1 and ending June 30 of each year;
+
+&emsp;&emsp;(B) the period beginning July 1 and ending December 31 of each year; and
+
+&emsp;&emsp;(C) any reporting period applicable to the committee under this section during which any person described in paragraph (7) provided 2 or more bundled contributions to the committee in an aggregate amount greater than the applicable threshold.
+
+#### (3) Applicable threshold
+
+#### (A) In general
+
+&emsp;&emsp;In this subsection, the “applicable threshold” is $15,000, except that in determining whether the amount of bundled contributions provided to a committee by a person described in paragraph (7) exceeds the applicable threshold, there shall be excluded any contribution made to the committee by the person or the person's spouse.
+
+#### (B) Indexing
+
+&emsp;&emsp;In any calendar year after 2007, section 441a(c)(1)(B) of this title shall apply to the amount applicable under subparagraph (A) in the same manner as such section applies to the limitations established under subsections (a)(1)(A), (a)(1)(B), (a)(3), and (h) of such section, except that for purposes of applying such section to the amount applicable under subparagraph (A), the “base period” shall be 2006.
+
+#### (4) Public availability
+
+&emsp;The Commission shall ensure that, to the greatest extent practicable—
+
+&emsp;&emsp;(A) information required to be disclosed under this subsection is publicly available through the Commission website in a manner that is searchable, sortable, and downloadable; and
+
+&emsp;&emsp;(B) the Commission's public database containing information disclosed under this subsection is linked electronically to the websites maintained by the Secretary of the Senate and the Clerk of the House of Representatives containing information filed pursuant to the Lobbying Disclosure Act of 1995 \[2 U.S.C. 1601 et seq.\].
+
+#### (5) Regulations
+
+&emsp;Not later than 6 months after September 14, 2007, the Commission shall promulgate regulations to implement this subsection. Under such regulations, the Commission—
+
+&emsp;&emsp;(A) may, notwithstanding paragraphs (1) and (2), provide for quarterly filing of the schedule described in paragraph (1) by a committee which files reports under this section more frequently than on a quarterly basis;
+
+&emsp;&emsp;(B) shall provide guidance to committees with respect to whether a person is reasonably known by a committee to be a person described in paragraph (7), which shall include a requirement that committees consult the websites maintained by the Secretary of the Senate and the Clerk of the House of Representatives containing information filed pursuant to the Lobbying Disclosure Act of 1995;
+
+&emsp;&emsp;(C) may not exempt the activity of a person described in paragraph (7) from disclosure under this subsection on the grounds that the person is authorized to engage in fundraising for the committee or any other similar grounds; and
+
+&emsp;&emsp;(D) shall provide for the broadest possible disclosure of activities described in this subsection by persons described in paragraph (7) that is consistent with this subsection.
+
+#### (6) Committees described
+
+&emsp;A committee described in this paragraph is an authorized committee of a candidate, a leadership PAC, or a political party committee.
+
+#### (7) Persons described
+
+&emsp;A person described in this paragraph is any person, who, at the time a contribution is forwarded to a committee as described in paragraph (8)(A)(i) or is received by a committee as described in paragraph (8)(A)(ii), is—
+
+&emsp;&emsp;(A) a current registrant under section 4(a) of the Lobbying Disclosure Act of 1995 \[2 U.S.C. 1603(a)\];
+
+&emsp;&emsp;(B) an individual who is listed on a current registration filed under section 4(b)(6) of such Act \[2 U.S.C. 1603(b)(6)\] or a current report under section 5(b)(2)(C) of such Act \[2 U.S.C. 1604(b)(2)(C)\]; or
+
+&emsp;&emsp;(C) a political committee established or controlled by such a registrant or individual.
+
+#### (8) Definitions
+
+&emsp;For purposes of this subsection, the following definitions apply:
+
+#### (A) Bundled contribution
+
+&emsp;&emsp;The term “bundled contribution” means, with respect to a committee described in paragraph (6) and a person described in paragraph (7), a contribution (subject to the applicable threshold) which is—
+
+&emsp;&emsp;&emsp;(i) forwarded from the contributor or contributors to the committee by the person; or
+
+&emsp;&emsp;&emsp;(ii) received by the committee from a contributor or contributors, but credited by the committee or candidate involved (or, in the case of a leadership PAC, by the individual referred to in subparagraph (B) involved) to the person through records, designations, or other means of recognizing that a certain amount of money has been raised by the person.
+
+#### (B) Leadership PAC
+
+&emsp;&emsp;The term “leadership PAC” means, with respect to a candidate for election to Federal office or an individual holding Federal office, a political committee that is directly or indirectly established, financed, maintained or controlled by the candidate or the individual but which is not an authorized committee of the candidate or individual and which is not affiliated with an authorized committee of the candidate or individual, except that such term does not include a political committee of a political party.
+
+(Pub. L. 92–225, title III, §304, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§204(a)–(d), 208(c)(4), Oct. 15, 1974, 88 Stat. 1276–1278, 1286; Pub. L. 94–283, title I, §104, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §104, Jan. 8, 1980, 93 Stat. 1348; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(a), 3(b), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 106–58, title VI, §§639(a), 641(a), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 106–346, §101(a) \[title V, §502(a), (c)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49; Pub. L. 107–155, title I, §103(a), title II, §§201(a), 212, title III, §§304(b), 306, 308(b), title V, §§501, 503, Mar. 27, 2002, 116 Stat. 87, 88, 93, 99, 102, 104, 114, 115; Pub. L. 108–199, div. F, title VI, §641, Jan. 23, 2004, 118 Stat. 359; Pub. L. 110–81, title II, §204(a), Sept. 14, 2007, 121 Stat. 744.)
 
 #### References in Text
 
 This Act, referred to in text, means the Federal Election Campaign Act of 1971, as amended, as defined by section 431 of this title.
+
+The Lobbying Disclosure Act of 1995, referred to in subsec. (i)(4)(B), (5)(B), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Prior Provisions
 
 Provisions similar to those comprising subsec. (c) of this section were contained in section 305 of Pub. L. 92–225, title III, Feb. 7, 1972, 86 Stat. 16 (section 435 of this title) prior to amendment of section 305 of Pub. L. 92–225 by Pub. L. 93–433.
 
 #### Amendments
+
+2007—Subsec. (i). Pub. L. 110–81 added subsec. (i).
 
 2004—Subsec. (a)(2)(A)(i), (4)(A)(ii). Pub. L. 108–199, §641(1), substituted “(or posted by any of the following: registered mail, certified mail, priority mail having a delivery confirmation, or express mail having a delivery confirmation, or delivered to an overnight delivery service with an on-line tracking system, if posted or delivered no later than the 15th day before)” for “(or posted by registered or certified mail no later than the 15th day before)”.
 
@@ -478,7 +558,7 @@ Subsec. (h). Pub. L. 107–155, §308(b), added subsec. (h).
 
 2000—Subsec. (a)(5). Pub. L. 106–346, §101(a) \[title V, §502(c)(2)\], substituted “or (4)(A)(ii), or the second sentence of subsection (c)(2) of this section” for “or (4)(A)(ii)”.
 
-Subsec. (c)(2). Pub. L. 106–346, §101(a) \[title V, §502(c)(1)\], in concluding provisions, substituted “shallbe filed within” for “shall be reported within” and inserted at end “Notwithstanding subsection (a)(5) of this section, the time at which the statement under this subsection is received by the Secretary, the Commission, or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.”
+Subsec. (c)(2). Pub. L. 106–346, §101(a) \[title V, §502(c)(1)\], in concluding provisions, substituted “shall be filed within” for “shall be reported within” and inserted at end “Notwithstanding subsection (a)(5) of this section, the time at which the statement under this subsection is received by the Secretary, the Commission, or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.”
 
 Subsec. (d). Pub. L. 106–346, §101(a) \[title V, §502(a)\], added subsec. (d).
 
@@ -527,6 +607,12 @@ Subsec. (b)(12). Pub. L. 93–443, §§204(b)(5), 208(c)(4)(B), required the rep
 Subsec. (b)(13). Pub. L. 93–443, §208(c)(4)(B), substituted “Commission” for “supervisory officer”.
 
 Subsecs. (d), (e). Pub. L. 93–443, §204(c), added subsec. (d) and incorporated provisions of former section 435 of this title in provisions designated as subsec. (e), substituting “Commission” for “supervisory officer” therein.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–81, title II, §204(b), Sept. 14, 2007, 121 Stat. 746, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports filed under section 304 of the Federal Election Campaign Act \[2 U.S.C. 434\] after the expiration of the 3-month period which begins on the date that the regulations required to be promulgated by the Federal Election Commission under section 304(i)(5) of such Act (as added by subsection (a)) become final.”
+
+Pub. L. 110–81, title II, §215, Sept. 14, 2007, 121 Stat. 751, provided that: “Except as otherwise provided in sections 203, 204, 206, 211, 212, and 213 \[enacting sections 1613 and 1614 of this title, amending this section, sections 1604 and 1606 of this title, and sections 612 and 616 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 1604, 1606, 1613, and 1614 of this title, and section 612 of Title 22\], the amendments made by this title \[enacting sections 1613 and 1614 of this title, amending this section, sections 1602 to 1606, and 1610 of this title, and sections 612 and 616 of Title 22\] shall apply with respect to registrations under the Lobbying Disclosure Act of 1995 \[2 U.S.C. 1601 et seq.\] having an effective date of January 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after January 1, 2008.”
 
 #### Effective Date of 2002 Amendment
 

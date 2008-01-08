@@ -16,6 +16,10 @@ Pub. L. 106–154, §2(a)(1), in third sentence, inserted “and on the maps ent
 
 1984—Pub. L. 98–568 substituted “CHAT–20,003, and dated September 1984” for “CHAT–20,000, and dated July 1976” and “approximately 6,800 acres” for “six thousand three hundred acres” and inserted provision declaring the corridor area to be an area of national concern.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Findings and Purpose
 
 Pub. L. 106–154, §1, Dec. 9, 1999, 106 Stat. 1736, provided that:
@@ -30,7 +34,7 @@ Findings.—Congress finds that—
 
 &emsp;“(3) the population of the metropolitan Atlanta area continues to expand northward, leaving dwindling opportunities to protect the scenic, recreational, natural, and historical values of the 2,000-foot-wide corridor adjacent to each bank of the Chattahoochee River and its impoundments in the 48-mile segment known as the ‘area of national concern’;
 
-&emsp;“(4) the State of Georgia has enacted the Metropolitan River Protection Act to ensure protection of the corridor located within 2,000 feet of each bank of the Chattahoochee River, or the corridor located within the 100-year floodplain, whichever is larger;
+&emsp;“(4) the State of Georgia has enacted the Metropolitan River Protection Act to ensure protection of the corridor located within 2,000 feet of each bank of theChattahoochee River, or the corridor located within the 100-year floodplain, whichever is larger;
 
 &emsp;“(5) the corridor located within the 100-year floodplain includes the area of national concern;
 

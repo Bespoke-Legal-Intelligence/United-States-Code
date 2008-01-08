@@ -14,10 +14,6 @@ The Secretary shall transmit to the Committee on Natural Resources of the House 
 
 (Pub. L. 103–412, title III, §304, Oct. 25, 1994, 108 Stat. 4248.)
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Settlement of Tribal Claims
 
 Pub. L. 107–153, §1, Mar. 19, 2002, 116 Stat. 79, as amended by Pub. L. 109–158, §1, Dec. 30, 2005, 119 Stat. 2954, provided that:

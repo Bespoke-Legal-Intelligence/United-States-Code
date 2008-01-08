@@ -222,7 +222,7 @@ Section 701(c)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 
 #### Effective Date of 1976 Amendment
 
-Section 505(f) of Pub. L. 94–455, as added by Pub. L. 95–30, title III, §301(a), May 23, 1977, 91 Stat. 151, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
+Section 505(f) of Pub. L. 94–455, as added by Pub. L. 95–30, title III, §301(a), May 23, 1977, 91 Stat. 151, provided that: “The amendment made by subsection (a)\[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
 Amendment by section 1901(c)(2) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -252,7 +252,7 @@ Pub. L. 95–30, title III, §301(e), May 23, 1977, 91 Stat. 152, as amended by 
 
 &emsp;“(1) with respect to any taxpayer who makes or has made an election under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] (as such sections were in effect before the enactment of this Act \[May 23, 1977\]) for a taxable year beginning in 1976, if such election is not revoked under subsection (c) of this section \[set out above\], and
 
-&emsp;“(2) with respect to any taxpayer (other than a taxpayer described in paragraph (1)) who has an annuity starting date at the beginning of a taxable year beginning in 1976 by reason of the amendments made by section 505 of the Tax Reform Act of 1976 \[amending this section and section 104 of this title and enactingprovisions set out as notes under this section\] (as in effect before the enactment of this Act \[May 23, 1977\]), unless such person elects (in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have such amendments apply.”
+&emsp;“(2) with respect to any taxpayer (other than a taxpayer described in paragraph (1)) who has an annuity starting date at the beginning of a taxable year beginning in 1976 by reason of the amendments made by section 505 of the Tax Reform Act of 1976 \[amending this section and section 104 of this title and enacting provisions set out as notes under this section\] (as in effect before the enactment of this Act \[May 23, 1977\]), unless such person elects (in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have such amendments apply.”
 
 #### Special Rule for Existing Permanent and Total Disability Cases
 

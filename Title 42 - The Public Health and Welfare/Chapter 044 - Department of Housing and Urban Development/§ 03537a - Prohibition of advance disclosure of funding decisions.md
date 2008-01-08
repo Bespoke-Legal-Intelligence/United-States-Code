@@ -44,7 +44,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (B) Final orders
 
-&emsp;&emsp;If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable order. If the Secretary reviews the determination or order, the Secretary may affirm, modify, or reverse that determination or order. If the Secretary does not review the determination or order within 90 days of the issuance of the determination or order, the determination or order shall be final.
+&emsp;&emsp;If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable order. If the Secretary reviews the determination ororder, the Secretary may affirm, modify, or reverse that determination or order. If the Secretary does not review the determination or order within 90 days of the issuance of the determination or order, the determination or order shall be final.
 
 #### (C) Factors in determining amount of penalty
 
@@ -58,7 +58,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (A) In general
 
-&emsp;&emsp;After exhausting all administrative remedies established by the Secretary underparagraph (3)(A), an employee against whom the Secretary has imposed a civil money penalty under paragraph (1) may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. part 25) as may be addressed in the notice of determination to impose a penalty under paragraph (3)(A)(i) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
+&emsp;&emsp;After exhausting all administrative remedies established by the Secretary under paragraph (3)(A), an employee against whom the Secretary has imposed a civil money penalty under paragraph (1) may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. part 25) as may be addressed in the notice of determination to impose a penalty under paragraph (3)(A)(i) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
 
 #### (B) Objections not raised in hearing
 

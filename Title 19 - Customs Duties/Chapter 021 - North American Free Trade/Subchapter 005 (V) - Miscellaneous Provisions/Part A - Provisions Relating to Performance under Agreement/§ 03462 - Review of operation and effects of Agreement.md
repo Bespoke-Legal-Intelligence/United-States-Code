@@ -10,7 +10,7 @@ By not later than July 1, 1997, the President shall provide to the Congress a co
 
 &emsp;(3) The extent to which investment in new or existing production or other operations in the United States has been redirected to Mexico as a result of the Agreement, and the effect on United States employment of such redirection.
 
-&emsp;(4) The extent of any increase in investment, including foreign direct investment and increased investment by United States investors, in new or existing production or otheroperations in the United States as a result of the Agreement, and the effect on United States employment of such investment.
+&emsp;(4) The extent of any increase in investment, including foreign direct investment and increased investment by United States investors, in new or existing production or other operations in the United States as a result of the Agreement, and the effect on United States employment of such investment.
 
 &emsp;(5) The extent to which the Agreement has contributed to—
 
@@ -22,7 +22,7 @@ By not later than July 1, 1997, the President shall provide to the Congress a co
 
 #### (b) Scope
 
-In assessing the factors listed in subsection (a) of this section, to the extent possible, the study shall distinguish between the consequences of the Agreement and events that likely would have occurred without the Agreement. In addition, the study shall evaluate the effects of the Agreement relative to aggregate economic changes and, to the extent possible, relative to the effects of other factors, including—
+In assessing the factors listed in subsection (a) of this section, to the extent possible, the studyshall distinguish between the consequences of the Agreement and events that likely would have occurred without the Agreement. In addition, the study shall evaluate the effects of the Agreement relative to aggregate economic changes and, to the extent possible, relative to the effects of other factors, including—
 
 &emsp;(1) international competition,
 

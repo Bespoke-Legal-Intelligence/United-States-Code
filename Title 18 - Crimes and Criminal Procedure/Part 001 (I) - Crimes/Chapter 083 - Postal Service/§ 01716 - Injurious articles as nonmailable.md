@@ -120,5 +120,5 @@ Amendment by Pub. L. 85–623 effective on sixtieth day after Aug. 12, 1958, see
 
 #### Hazardous Substances
 
-Federal Hazardous Substances Act as not modifying this section, see Pub. L. 86–613, §17, July 12, 1960, 74 Stat. 380, set out as a note under section 1261 of Title 15, Commerce and Trade.
+Federal Hazardous Substances Act as not modifying this section, see Pub. L. 86–613, §17, July 12, 1960, 74Stat. 380, set out as a note under section 1261 of Title 15, Commerce and Trade.
 

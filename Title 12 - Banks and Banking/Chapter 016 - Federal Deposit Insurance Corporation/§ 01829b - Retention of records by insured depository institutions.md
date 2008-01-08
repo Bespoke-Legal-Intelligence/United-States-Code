@@ -12,13 +12,13 @@
 
 #### (2) Purpose
 
-&emsp;It is the purpose of this section to require the maintenance of appropriate types of records by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, recognizing that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
+&emsp;It is the purpose of this section to require the maintenance of appropriate types ofrecords by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, recognizing that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
 
 #### (b) Recordkeeping regulations
 
 #### (1) In general
 
-&emsp;Where the Secretary of the Treasury (referred to in this section as the “Secretary”)determines that the maintenance of appropriate types of records and other evidence by insured depository institutions has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he shall prescribe regulations to carry out the purposes of this section.
+&emsp;Where the Secretary of the Treasury (referred to in this section as the “Secretary”) determines that the maintenance of appropriate types of records and other evidence by insured depository institutions has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he shall prescribe regulations to carry out the purposes of this section.
 
 #### (2) Domestic funds transfers
 

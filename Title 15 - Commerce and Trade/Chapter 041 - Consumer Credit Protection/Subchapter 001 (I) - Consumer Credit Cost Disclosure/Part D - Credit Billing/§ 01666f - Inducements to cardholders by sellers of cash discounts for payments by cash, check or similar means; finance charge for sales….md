@@ -22,5 +22,5 @@ Section 3(c)(2) of Pub. L. 94–222, as amended by Pub. L. 95–630, title XV, �
 
 #### Nullification of Board Rules and Regulations Under Subsection (b) of This Section in Effect on July 26, 1981
 
-Section 103 of Pub. L. 97–25 provided that: “Any rule or regulation of the Board of Governors of the Federal Reserve System pursuant to section 167(b) of the Truthin Lending Act \[subsec. (b) of this section\], as such section was in effect on the day before the date of enactment of this Act \[July 27, 1981\], is null and void.”
+Section 103 of Pub. L. 97–25 provided that: “Any rule or regulation of the Board of Governors of the Federal Reserve System pursuant to section 167(b) of the Truth in Lending Act \[subsec. (b) of this section\], as such section was in effect on the day before the date of enactment of this Act \[July 27, 1981\], is null and void.”
 

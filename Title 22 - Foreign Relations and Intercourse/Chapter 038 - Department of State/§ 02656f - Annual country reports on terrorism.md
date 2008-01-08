@@ -18,7 +18,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
 
-&emsp;&emsp;(A) the extent to which the government of the foreign country is cooperating with the United States Government in apprehending, convicting, and punishing the individual or individuals responsible for the act; and
+&emsp;&emsp;(A) the extent to which the government of the foreign country is cooperating with theUnited States Government in apprehending, convicting, and punishing the individual or individuals responsible for the act; and
 
 &emsp;&emsp;(B) the extent to which the government of the foreign country is cooperating in preventing further acts of terrorism against United States citizens in the foreign country; and
 
@@ -92,7 +92,7 @@ The report required under subsection (a) of this section should to the extent fe
 
 (1) Except as provided in paragraph (2), the report required under subsection (a) of this section shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
 
-(2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
+(2) If the Secretary of State determines that the transmittal of the information with respectto a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
 
 #### (d) Definitions
 
@@ -174,7 +174,7 @@ Subsec. (c). Pub. L. 104–208, §101(c) \[title V, §578(2)\], designated exist
 
 Pub. L. 108–487, title VII, §701(b), Dec. 23, 2004, 118 Stat. 3962, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply beginning with the first report under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[this section\] that is submitted more than one year after the date of the enactment of this Act \[Dec. 23, 2004\].”
 
-Pub. L. 108–487, title VIII, §801, Dec. 23, 2004, 118 Stat. 3962, provided that: “Except as otherwise expressly provided in this Act, this Act \[enacting sections 403–3g, 403w, 441j to 441j–4, 441m, and 1912 of Title 50, War and National Defense, amending this section and sections 403–4a, 403x, 404n, 1902, 1903, 1910, and 1911 of Title 50, enacting provisions set out as notes under this section, section 873 of Title 21, Food and Drugs, and sections 401, 403–1b, 403–3g, 403–4a, 415b, and 1902 of Title 50, and amending provisions set out as notes under section 8331 of Title 5, Government Organization and Employees, and section 402 of Title 50\] (and the amendments made by this Act) shall take effect on the date of the enactment of this Act \[Dec. 23, 2004\].”
+Pub. L. 108–487, title VIII, §801, Dec. 23, 2004, 118 Stat. 3962, provided that: “Except as otherwise expressly provided in this Act, this Act \[enacting sections 403–3g, 403w, 441j to 441j–4, 441m, and 1912 of Title 50, War and National Defense, amending this section and sections 403–4a, 403x, 404n, 1902, 1903, 1910, and 1911 of Title 50, enacting provisions set out as notes under this section, section 873 of Title 21, Food and Drugs, and sections 401,403–1b, 403–3g, 403–4a, 415b, and 1902 of Title 50, and amending provisions set out as notes under section 8331 of Title 5, Government Organization and Employees, and section 402 of Title 50\] (and the amendments made by this Act) shall take effect on the date of the enactment of this Act \[Dec. 23, 2004\].”
 
 Pub. L. 108–458, title VII, §7102(d)(4), Dec. 17, 2004, 118 Stat. 3778, provided that: “The amendments made by this subsection \[amending this section\] apply with respect to the report required to be transmitted under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f), by April 30, 2006, and by April 30 of each subsequent year.”
 
@@ -216,7 +216,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VIII, §805\], Nov. 29, 
 
 “(a)
 
-In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Secretary of State shall prepare and submit a report, with a classified annex as necessary, to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] regarding terrorist attacks in Israel, in territory administered by Israel, and in territory administered by the Palestinian Authority. The report shall contain the following information:
+In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Secretary of State shall prepare and submit a report, with a classified annex as necessary, to the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\] regarding terrorist attacks in Israel, in territory administered by Israel, and in territory administered by the Palestinian Authority. The report shall contain the following information:
 
 &emsp;“(1) A list of formal commitments the Palestinian Authority has made to combat terrorism.
 
@@ -246,7 +246,7 @@ In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Se
 
 &emsp;“(4) The policy of the Department of State with respect to offering rewards for information on terrorist suspects, including any information on whether a reward has been posted for suspects involved in terrorist attacks listed in the report.
 
-&emsp;“(5) A list of each request by the United States for assistance in investigating terrorist attacks listed in the report, a list of each request by the United Statesfor the transfer of terrorist suspects from the Palestinian Authority and Israel since September 13, 1993, and the response to each request from the Palestinian Authority and Israel.
+&emsp;“(5) A list of each request by the United States for assistance in investigating terrorist attacks listed in the report, a list of each request by the United States for the transfer of terrorist suspects from the Palestinian Authority and Israel since September 13, 1993, and the response to each request from the Palestinian Authority and Israel.
 
 &emsp;“(6) A description of efforts made by United States officials since September 13, 1993 to bring to justice perpetrators of terrorist acts against United States citizens as listed in the report.
 

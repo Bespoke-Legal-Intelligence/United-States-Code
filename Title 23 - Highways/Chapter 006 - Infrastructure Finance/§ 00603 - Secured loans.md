@@ -92,7 +92,7 @@ Deferred payments.—
 
 &emsp;&emsp;(A)
 
-Authorization.—If, at any time after the date of substantial completion of the project, the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on the secured loan, the Secretary may, subject to subparagraph (C), allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
+Authorization.—If, at any time after the date of substantial completion of theproject, the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on the secured loan, the Secretary may, subject to subparagraph (C), allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
 
 &emsp;&emsp;(B)
 

@@ -16,7 +16,7 @@ Not later than February 1 of 1995 and of every second year thereafter, the Secre
 
 #### Prior Provisions
 
-A prior section 280b–2, act July 1, 1944, ch. 373, title III, §392, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79Stat. 1060; amended Mar. 13, 1970, Pub. L. 91–212, §10(b)(4), (d)(2)(A), 84 Stat. 66, 67; July 23, 1974, Pub. L. 93–353, title II, §202(c), 88 Stat. 372, related to composition, functions, etc., of National Medical Libraries Assistance Advisory Board, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
+A prior section 280b–2, act July 1, 1944, ch. 373, title III, §392, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1060; amended Mar. 13, 1970, Pub. L. 91–212, §10(b)(4), (d)(2)(A), 84 Stat. 66, 67; July 23, 1974, Pub. L. 93–353, title II, §202(c), 88 Stat. 372, related to composition, functions, etc., of National Medical Libraries Assistance Advisory Board, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 A prior section 394 of act July 1, 1944, was renumbered section 394A and is classified to section 280b–3 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Priority
 
-In selecting agreements to be entered into under this subchapter, the Secretary shall give priority to agreements providing for the export of agricultural commodities to developing countries that—
+In selecting agreements to be entered into under this subchapter, the Secretary shall give priority to agreements providing for the exportof agricultural commodities to developing countries that—
 
 &emsp;(1) have the demonstrated potential to become commercial markets for competitively priced United States agricultural commodities;
 
@@ -74,7 +74,7 @@ An agreement entered into under this subchapter with a private entity shall requ
 
 Pub. L. 95–88 struck out proviso prohibiting the financing by the Commodity Credit Corporation of the sale and export of agricultural commodities where the exporter had engaged in any sales, trade, or commerce with North Vietnam, or with any resident thereof, or which owned or controlled any company so engaged either directly or indirectly, and struck out an additional proviso requiring that financing applications be accompanied by statements in which were listed the branches, etc., in which the applicant had a controlling interest and the companies which had a controlling interest in the applicant company.
 
-1968—Pub. L. 90–436 inserted proviso that the Commodity Credit Corporation should not finance the sale and export of any agricultural commodities where the exporter has engaged in any sales, trade or commerce with North Vietnam, or with any resident thereof, or which owns or controls any company so engaged, or which is owned or controlled by any company or person so engaged either directly or indirectly, and the further proviso that the financing application be accompanied by a statement in which are listed the branches, etc., in which the applicant has a controlling interest and the companies which have a controlling interest in the applicant company.
+1968—Pub. L. 90–436 inserted proviso that the Commodity Credit Corporation should not finance the sale and export of any agricultural commodities where the exporter has engaged in any sales, trade or commerce with North Vietnam, or with any resident thereof, orwhich owns or controls any company so engaged, or which is owned or controlled by any company or person so engaged either directly or indirectly, and the further proviso that the financing application be accompanied by a statement in which are listed the branches, etc., in which the applicant has a controlling interest and the companies which have a controlling interest in the applicant company.
 
 1966—Pub. L. 89–808 incorporated provisions formerly constituting subsec. (a)(2), and struck out other provisions of subsec. (a) and (a)(1) relating to availability of stocks acquired in price support operations and ocean freight charges, such charges now covered by section 1708 of this title, and subsec. (b) for letters of commitment against funds or guaranties and establishment of accounts.
 

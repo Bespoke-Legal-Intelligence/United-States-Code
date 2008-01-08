@@ -74,7 +74,7 @@
 
 &emsp;(11) “management official” means an individual employed by an agency in a position the duties and responsibilities of which require or authorize the individual to formulate, determine, or influence the policies of the agency;
 
-&emsp;(12) “collective bargaining” means the performance of the mutual obligation of the representative of an agency and the exclusive representative of employees in an appropriate unit in the agency to meet at reasonable times and to consult and bargain in a good-faith effort to reach agreement with respect to the conditions of employment affecting such employees and to execute, if requested by either party, a written document incorporating any collective bargaining agreement reached, but the obligation referred to in this paragraph does not compel either party to agree to a proposal or to make a concession;
+&emsp;(12) “collective bargaining” means the performance of the mutual obligation of the representative of an agency and the exclusive representative of employees in an appropriate unit in the agency to meet at reasonable times and to consult and bargain in a good-faith effort to reach agreement with respect to the conditions of employment affecting such employees and to execute, if requested by eitherparty, a written document incorporating any collective bargaining agreement reached, but the obligation referred to in this paragraph does not compel either party to agree to a proposal or to make a concession;
 
 &emsp;(13) “confidential employee” means an employee who acts in a confidential capacity with respect to an individual who formulates or effectuates management policies in the field of labor-management relations;
 
@@ -124,7 +124,7 @@
 
 (2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, titleII, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §139\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §139\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
 
@@ -434,7 +434,7 @@ Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b)(2) of Title 5 and Section 301 of Title 3 of the United States Code, and having determined that it is necessary in the interest of national security to suspend certain labor-management relations provisions with respect to overseas activities of the Department of Defense, it is hereby ordered as follows:
 
-Section 1. <i>Suspensions</i>. With regard to United States citizen employees of the Department of Defense, including the Military Departments, who are employed outside the United States as defined in 5 U.S.C. 7103(a)(18), with the exception of those employed in the Republic of Panama:
+Section 1. <i>Suspensions</i>. With regard to United States citizen employees of the Department of Defense, including the Military Departments, who are employed outside the United States as defined in 5 U.S.C.7103(a)(18), with the exception of those employed in the Republic of Panama:
 
 (a) The provisions of 5 U.S.C. 7105(a)(2)(D), (E), (G), and (H) and of 5 U.S.C. 7123(b) are suspended with respect to any matter which substantially impairs the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation;
 

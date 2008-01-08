@@ -2,7 +2,7 @@
 
 (a) A probation officer may, upon the request of the Attorney General, supervise any person provided protection under this chapter who is on probation or parole under State law, if the State involved consents to such supervision. Any person so supervised shall be under Federal jurisdiction during the period of supervision and shall, during that period be subject to all laws of the United States which pertain to probationers or parolees, as the case may be.
 
-(b) The failure by any person provided protection under this chapter who is supervised undersubsection (a) to comply with the memorandum of understanding entered into by that person pursuant to section 3521(d) of this title shall be grounds for the revocation of probation or parole, as the case may be.
+(b) The failure by any person provided protection under this chapter who is supervised under subsection (a) to comply with the memorandum of understanding entered into by that person pursuant to section 3521(d) of this title shall be grounds for the revocation of probation or parole, as the case may be.
 
 (c) The United States Parole Commission and the Chairman of the Commission shall have the same powers and duties with respect to a probationer or parolee transferred from State supervision pursuant to this section as they have with respect to an offender convicted in a court of the United States and paroled under chapter 311 <sup>1</sup> of this title. The provisions of sections 4201 through 4204, 4205(a), (e), and (h), 4206 through 4215, and 4218 <sup>1</sup> of this title shall apply following a revocation of probation or parole under this section.
 
@@ -12,7 +12,7 @@
 
 #### References in Text
 
-Chapter 311 of this title, referred to in subsec. (c), which consisted of sections 4201 to 4218 of this title, was repealed effective Nov. 1, 1987, by Pub. L. 98–473, title II, §§218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
+Chapter 311 of this title, referred to in subsec. (c), which consisted of sections 4201 to 4218 of this title, wasrepealed effective Nov. 1, 1987, by Pub. L. 98–473, title II, §§218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
 
 #### Amendments
 

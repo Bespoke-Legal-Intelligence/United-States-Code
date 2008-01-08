@@ -26,7 +26,7 @@ For purposes of this section:
 
 &emsp;&emsp;(ii) is determined by the State agency to be capable of making determinations of the type described in paragraph (2).
 
-&emsp;(B) The Secretary may issue regulations further limiting those entities that may become qualified entities in order to prevent fraud and abuse and for other reasons.
+&emsp;(B) The Secretary may issue regulations further limiting those entities that may becomequalified entities in order to prevent fraud and abuse and for other reasons.
 
 &emsp;(C) Nothing in this section shall be construed as preventing a State from limiting the classes of entities that may become qualified entities, consistent with any limitations imposed under subparagraph (B).
 

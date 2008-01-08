@@ -38,7 +38,3 @@ The detailed description of the comprehensive plan under this section shall incl
 
 “(2) Such description shall also include a detailed justification of any such changes, a detailed description of the progress made toward achieving the goals of this chapter, a statement on the status of interagency cooperation in meeting such goals, any comments on and recommendations for improvements in the comprehensive program management plan made by the Technical Panel established under section 9007 of this title, and any legislative or other recommendations which the Secretary may have to help attain such goals.”
 
-#### Change of Name
-
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

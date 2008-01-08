@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### Amendments
 
-1994—Subsec. (d). Pub. L. 103–236 struck out heading and text of subsec. (d). Text read as follows: “The Secretary shall transmit to the Select Committee on Intelligence and the Committee on Foreign Relations of the Senate, and to the Permanent Select Committee on Intelligence and the Committee on Foreign Affairs of the House of Representatives, not later than six months after December 22, 1987, and not later than every six months thereafter, a report on the actions taken by the Secretary in carrying out this section during the previous six months.”
+1994—Subsec. (d). Pub. L. 103–236 struck out heading and text of subsec. (d). Text read as follows: “The Secretary shall transmit to the Select Committee on Intelligence and the Committee on Foreign Relations of theSenate, and to the Permanent Select Committee on Intelligence and the Committee on Foreign Affairs of the House of Representatives, not later than six months after December 22, 1987, and not later than every six months thereafter, a report on the actions taken by the Secretary in carrying out this section during the previous six months.”
 
 #### Change of Name
 
@@ -52,5 +52,5 @@ Section 162(b) of Pub. L. 100–204 provided that: “Subsection (a) of the sect
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in anyofficial or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 

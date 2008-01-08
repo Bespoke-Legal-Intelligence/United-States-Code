@@ -82,7 +82,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 #### MTCR Report Transmittals
 
-Pub. L. 106–280, title VII, §704, Oct. 6, 2000, 114 Stat. 861, provided that: “For purposes of section 71(d) of the Arms Export Control Act (22 U.S.C. 2797(d)), the requirement that reports under that section shall be transmitted to the Congress shall be considered to be a requirement that such reports shall be transmitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations and the Committee on Banking, Housing and Urban Affairs of the Senate.”
+Pub. L. 106–280, title VII, §704, Oct. 6, 2000, 114 Stat. 861, provided that: “For purposes of section 71(d) of the Arms Export Control Act (22 U.S.C. 2797(d)), the requirement that reports under that section shall be transmitted to the Congress shall be considered to be a requirement that such reports shall be transmitted to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations and the Committee on Banking, Housing and Urban Affairs of the Senate.”
 
 #### Report on Missile Proliferation
 
@@ -104,7 +104,7 @@ Section 1. <i>Chemical and Biological Weapons Proliferation and Use Sanctions</i
 
 (1) The authority and duties vested in me to restrict certain imports as provided in section 307(b)(2)(D) \[22 U.S.C. 5605(b)(2)(D)\], pursuant to a determination made by the Secretary of State under section 307(b)(1), are delegated to the Secretary of the Treasury.
 
-(2) The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of,as appropriate, waivers based upon findings made pursuant to section 307(d)(1)(A)(ii).
+(2) The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, waivers based upon findings made pursuant to section 307(d)(1)(A)(ii).
 
 (3) The authority and duties vested in me to prohibit certain exports as provided in section 307(a)(5) and section 307(b)(2)(C), pursuant to a determination made by the Secretary of State under section 306(a)(1) and section 307(b)(1), are delegated to the Secretary of Commerce.
 

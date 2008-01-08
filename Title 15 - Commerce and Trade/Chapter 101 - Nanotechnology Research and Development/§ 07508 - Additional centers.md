@@ -26,3 +26,7 @@ The Council, through the Director of the National Nanotechnology Coordination Of
 
 (Pub. L. 108–153, §9, Dec. 3, 2003, 117 Stat. 1930.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

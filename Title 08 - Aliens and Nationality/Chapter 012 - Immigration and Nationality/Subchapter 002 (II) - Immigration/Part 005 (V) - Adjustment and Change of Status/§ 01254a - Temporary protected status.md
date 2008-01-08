@@ -20,7 +20,7 @@
 
 &emsp;(B) If, at the time of initiation of a removal proceeding against an alien, the foreign state (of which the alien is a national) is designated under subsection (b) of this section, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
 
-&emsp;(C) If, at the time of designation of a foreign state under subsection (b) of this section, an alien (who is a national of such state) is in a removal proceeding under this subchapter, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
+&emsp;(C) If, at the time of designation of a foreign state under subsection (b) of this section, an alien (who is a national of such state) is in a removal proceeding under this subchapter, the Attorney General shall promptly notify thealien of the temporary protected status that may be available under this section.
 
 &emsp;(D) Notices under this paragraph shall be provided in a form and language that the alien can understand.
 
@@ -32,7 +32,7 @@
 
 #### (5) Clarification
 
-&emsp;Nothing in this section shall be construed as authorizing the Attorney General to denytemporary protected status to an alien based on the alien's immigration status or to require any alien, as a condition of being granted such status, either to relinquish nonimmigrant or other status the alien may have or to execute any waiver of other rights under this chapter. The granting of temporary protected status under this section shall not be considered to be inconsistent with the granting of nonimmigrant status under this chapter.
+&emsp;Nothing in this section shall be construed as authorizing the Attorney General to deny temporary protected status to an alien based on the alien's immigration status or to require any alien, as a condition of being granted such status, either to relinquish nonimmigrant or other status the alien may have or to execute any waiver of other rights under this chapter. The granting of temporary protected status under this section shall not be considered to be inconsistent with the granting of nonimmigrant status under this chapter.
 
 #### (b) Designations
 
@@ -72,7 +72,7 @@
 
 #### (B) Termination of designation
 
-&emsp;&emsp;If the Attorney General determines under subparagraph (A) that a foreign state (or part of such foreign state) no longer continues to meet the conditions for designation under paragraph (1), the Attorney General shall terminate the designation by publishing notice in the Federal Register of the determination under this subparagraph (including the basis for the determination). Such termination is effective in accordance with subsection (d)(3) of this section, but shall not be effective earlier than 60 days after the date the notice is published or, if later, the expiration of the most recent previous extension under subparagraph (C).
+&emsp;&emsp;If the Attorney General determines under subparagraph (A) that a foreign state (or part of such foreign state) no longer continues to meet the conditions for designation under paragraph (1), the Attorney General shall terminate the designation by publishing notice in the Federal Register of the determination under this subparagraph (including the basis for the determination). Such termination is effective in accordance with subsection (d)(3) of this section, but shall not be effective earlier than 60 daysafter the date the notice is published or, if later, the expiration of the most recent previous extension under subparagraph (C).
 
 #### (C) Extension of designation
 
@@ -156,7 +156,7 @@
 
 #### (5) Construction
 
-&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to,or to be admitted to, the United States in order to apply for temporary protected status under this section.
+&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to, or to be admitted to, the United States in order to apply for temporary protected status under this section.
 
 #### (6) Confidentiality of information
 
@@ -296,7 +296,7 @@ Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by t
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals entering United States on orafter June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -310,7 +310,7 @@ The Attorney General may not suspend deportation and adjust status under this se
 
 Section 304(c) of Pub. L. 102–232, as amended by Pub. L. 104–208, div. C, title III, §308(g)(1), (8)(A)(ii), (C), Sept. 30, 1996, 110 Stat. 3009–622, 3009–624, provided that:
 
-“(1) In the case of an alien described in paragraph (2) whom the Attorney General authorizes to travel abroadtemporarily and who returns to the United States in accordance with such authorization—
+“(1) In the case of an alien described in paragraph (2) whom the Attorney General authorizes to travel abroad temporarily and who returns to the United States in accordance with such authorization—
 
 &emsp;“(A) the alien shall be inspected and admitted in the same immigration status the alien had at the time of departure if—
 

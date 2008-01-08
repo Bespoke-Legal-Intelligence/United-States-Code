@@ -4,6 +4,10 @@ All banks admitted to membership under authority of this section shall be requir
 
 (Dec. 23, 1913, ch. 6, §9 (par.), 38 Stat. 259; June 21, 1917, ch. 32, §3, 40 Stat. 233; Aug. 23, 1935, ch. 614, title III, §320, 49 Stat. 713; Sept. 3, 1954, ch. 1263, §27, 68 Stat. 1236; Pub. L. 86–230, §21(b), Sept. 8, 1959, 73 Stat. 466; Pub. L. 101–73, title IX, §911(d), Aug. 9, 1989, 103 Stat. 480; Pub. L. 103–325, title III, §308(c), Sept. 23, 1994, 108 Stat. 2218.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+
 #### Codification
 
 Section is comprised of the sixth par. of section 9 of act Dec. 23, 1913, as amended. The sixth par. constituted the fourth par. of section 9 in 1917 (40 Stat. 232), became the fifth par. in 1927 (44 Stat. 1229), and became the sixth par. in 1950 (64 Stat. 458). For further details, see Codification note set out under section 321 of this title.
@@ -22,5 +26,5 @@ Section is comprised of the sixth par. of section 9 of act Dec. 23, 1913, as ame
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989, see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
+Amendment by Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989,see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
 

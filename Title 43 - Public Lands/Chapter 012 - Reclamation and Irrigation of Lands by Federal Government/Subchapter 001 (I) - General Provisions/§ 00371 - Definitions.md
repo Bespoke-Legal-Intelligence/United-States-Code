@@ -76,11 +76,11 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;“(10) Federal agencies, such as the Bureau of Reclamation, have had, and will continue to have major responsibilities in assisting States in the wise management and allocation of scarce water resources; and
 
-&emsp;“(11) the Secretary of the Interior, given his responsibilities for management of public land, trust responsibilities for Indians, administration of the reclamation program, investigations and reviews into ground water resources through the Geologic Survey\[now United States Geological Survey\], and the Secretary of the Army, given his responsibilities for flood control, water supply, hydroelectric power, recreation, and fish and wildlife enhancement, have the resources to assist in a comprehensive review, in consultation with appropriate officials from the nineteen Western States, into the problems and potential solutions facing the nineteen Western States and the Federal Government in the increasing competition for the scarce water resources of the Western States.
+&emsp;“(11) the Secretary of the Interior, given his responsibilities for management of public land, trust responsibilities for Indians, administration of the reclamation program, investigations and reviews into ground water resources through the Geologic Survey \[now United States Geological Survey\], and the Secretary of the Army, given his responsibilities for flood control, water supply, hydroelectric power, recreation, and fish and wildlife enhancement, have the resources to assist in a comprehensive review, in consultation with appropriate officials from the nineteen Western States, into the problems and potential solutions facing the nineteen Western States and the Federal Government in the increasing competition for the scarce water resources of the Western States.
 
 #### “SEC. 3003. PRESIDENTIAL REVIEW.
 
-“(a) The President is directed to undertake a comprehensive review of Federal activities in the nineteen Western States which directly or indirectly affect the allocation and use of water resources, whether surface or subsurface, and to submit a report on the President's findings, together with recommendations, if any, to the Committees on Energy and Natural Resources, Environment and Public Works and Appropriations of the Senate and the Committees on Natural Resources \[now Resources\], Public Works and Transportation \[now Transportation and Infrastructure\], Merchant Marine and Fisheries and Appropriations of the House of Representatives.
+“(a) The President is directed to undertake a comprehensive review of Federal activities in the nineteen Western States which directly or indirectly affect the allocation and use of water resources, whether surface or subsurface, and to submit a report on the President's findings, together with recommendations, if any, to the Committees on Energy and Natural Resources, Environment and Public Works and Appropriations of the Senate and the Committees on Natural Resources, Public Works and Transportation \[now Transportation and Infrastructure\], Merchant Marine and Fisheries and Appropriations of the House of Representatives.
 
 “(b) Such report shall be submitted within three years from the date of enactment of this Act \[Oct. 30, 1992\].
 
@@ -104,7 +104,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;&emsp;“(D) at least one representative chosen from a list submitted by Tribal governments located in the Western States.
 
-&emsp;“(2) In addition to the ten members appointed by the President, twelve Members from the United States Congress shall serve as ex officio members of the Commission. For the United States Senate: the Chairmen and the Ranking Minority Members of the Committees on Energy and Natural Resources, and Appropriations, and the Subcommittee of the Committee on Energy and Natural Resources which has jurisdiction over the Bureau of Reclamation. For the United States House of Representatives: the Chairman \[Chairmen\] and Ranking Minority Members of the Committees on Natural Resources \[now Resources\], Public Works and Transportation \[now Transportation and Infrastructure\], and Appropriations.
+&emsp;“(2) In addition to the ten members appointed by the President, twelve Members from the United States Congress shall serve as ex officio members of the Commission. For the United States Senate: the Chairmen and the Ranking Minority Members of the Committees on Energy and Natural Resources, and Appropriations, and the Subcommittee of the Committee on Energy and Natural Resources which has jurisdiction over the Bureau of Reclamation. For the United States House of Representatives: the Chairman \[Chairmen\] and Ranking Minority Members of the Committees on Natural Resources, Public Works and Transportation \[now Transportation and Infrastructure\], and Appropriations.
 
 “(c) The President shall appoint one member of the Commission to serve as Chairman.
 
@@ -128,7 +128,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;“(6) review the legal regime governing the development and use of water and the respective roles of both the Federal Government and the States over the allocation and use of water, including an examination of riparian zones, appropriation and mixed systems, market transfers, administrative allocations, ground water management, interbasin transfers, recordation of rights, Federal-State relations including the various doctrines of Federal reserved water rights (including Indian water rights and the development in several States of the concept of a public trust doctrine); and
 
-&emsp;“(7) review the activities, authorities, and responsibilities of the various Federal agencies with direct water resources management responsibility, including but not limited to the Bureau of Reclamation, the Department of the Army, and those agencies whose decisions would impact on water resource availability and allocation, including, but not limited to, the Federal Energy Regulatory Commission.
+&emsp;“(7) review the activities, authorities, and responsibilities of the various Federal agencies with direct water resources management responsibility, including but not limited to the Bureau of Reclamation, theDepartment of the Army, and those agencies whose decisions would impact on water resource availability and allocation, including, but not limited to, the Federal Energy Regulatory Commission.
 
 #### “SEC. 3006. REPRESENTATIVES.
 
@@ -144,7 +144,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;“(2) use the United States mail in the same manner and upon the same conditions as other departments and agencies of the United States;
 
-&emsp;“(3) enter into contracts or agreements for studies and surveys with public and private organizationsand transfer funds to Federal agencies to carry out such aspects of the Commission's functions as the Commission determines can best be carried out in that manner; and
+&emsp;“(3) enter into contracts or agreements for studies and surveys with public and private organizations and transfer funds to Federal agencies to carry out such aspects of the Commission's functions as the Commission determines can best be carried out in that manner; and
 
 &emsp;“(4) incur such necessary expenses and exercise such other powers as are consistent with and reasonably required to perform its functions under this title.
 

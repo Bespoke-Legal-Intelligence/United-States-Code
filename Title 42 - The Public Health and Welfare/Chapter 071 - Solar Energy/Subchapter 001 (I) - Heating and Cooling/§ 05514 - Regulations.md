@@ -2,7 +2,7 @@
 
 The Administrator and the Secretary in consultation with the Director of the National Institute of Standards and Technology, the Secretary of Energy, the Administrator of the General Services Administration, the Secretary of Defense, and other appropriate officers and agencies, shall prescribe such regulations as may be necessary or appropriate to carry out this subchapter promptly and efficiently. Each such officer or agency, in consultation with the Administrator and the Secretary, may prescribe such regulations as may be necessary or appropriate to carry out his or its particular functions under this subchapter promptly and efficiently.
 
-(Pub. L. 93–409, §16, Sept. 3, 1974, 88 Stat. 1078; Pub. L. 93–438, title I, §104(f), title III, §301(h), Oct. 11, 1974, 88 Stat. 1238, 1250; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977,91 Stat. 577, 606, 607; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Pub. L. 93–409, §16, Sept. 3, 1974, 88 Stat. 1078; Pub. L. 93–438, title I, §104(f), title III, §301(h), Oct. 11, 1974, 88 Stat. 1238, 1250; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 #### Amendments
 

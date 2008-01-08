@@ -234,6 +234,14 @@ Pub. L. 103–409, §1, Oct. 25, 1994, 108 Stat. 4230, provided that: “This Ac
 
 Section 1 of Pub. L. 96–427 provided that: “This Act \[enacting sections 8714b and 8714c of this title, amending this section and sections 8704, 8706, 8707, 8709, and 8714a of this title, repealing section 8713 of this title and enacting provisions set out as notes under this section and sections 8704 and 8714a of this title\] may be cited as the ‘Federal Employees’ Group Life Insurance Act of 1980’.”
 
+#### Construction
+
+Pub. L. 110–177, title V, §502(b), Jan. 7, 2008, 121 Stat. 2542, provided that: “For purposes of construing and applying chapter 87 of title 5, United States Code, including any adjustment of insurance rates by regulation or otherwise, the following categories of judicial officers shall be deemed to be judges of the United States as described under section 8701 of title 5, United States Code:
+
+&emsp;“(1) Magistrate judges appointed under section 631 of title 28, United States Code.
+
+&emsp;“(2) Magistrate judges retired under section 377 of title 28, United States Code.”
+
 #### Open Season
 
 Pub. L. 105–311, §9, Oct. 30, 1998, 112 Stat. 2954, provided that: “Beginning not later than 180 days after the date of enactment of this Act \[Oct. 30, 1998\], the Office of Personnel Management shall conduct an open enrollment opportunity for purposes of chapter 87 of title 5, United States Code, over a period of not less than 8 weeks. During this period, an employee (as defined under section 8701(a) of such title)—
@@ -254,7 +262,7 @@ Pub. L. 103–409, §3(b), Oct. 25, 1994, 108 Stat. 4232, provided that:
 
 &emsp;“(B) such other elections as the Office allows may be made.
 
-“(2) The Office shall take such action as may be necessary to ensure that employees and any other individuals who would be eligible to make an election under this subsection are afforded advance notification to that effect.”
+“(2) The Office shall take such action as may be necessary to ensure that employees and any other individuals who would be eligible to make an election underthis subsection are afforded advance notification to that effect.”
 
 #### Continued Coverage Under Certain Federal Employee Benefit Programs for Certain Employees of Saint Elizabeths Hospital
 

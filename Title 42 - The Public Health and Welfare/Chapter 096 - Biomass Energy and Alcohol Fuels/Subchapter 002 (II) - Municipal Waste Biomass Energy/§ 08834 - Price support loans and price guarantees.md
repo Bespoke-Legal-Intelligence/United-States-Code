@@ -22,7 +22,7 @@
 
 #### (b) Authority of Secretary of Energy with respect to loans for new projects; disbursements, etc.
 
-(1) In the case of any new municipal waste energy project which produces and sells biomassenergy, the Secretary of Energy may commit to make, and make, a price support loan in amounts determined in accordance with the provisions of subsection (a) of this section, except as provided in paragraph (2).
+(1) In the case of any new municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price support loan in amounts determined in accordance with the provisions of subsection (a) of this section, except as provided in paragraph (2).
 
 (2) In the case of any loan under this subsection for a new municipal waste energy project—
 

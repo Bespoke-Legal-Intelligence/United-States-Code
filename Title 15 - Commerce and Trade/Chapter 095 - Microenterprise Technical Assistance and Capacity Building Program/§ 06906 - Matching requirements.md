@@ -12,7 +12,7 @@ Fees, grants, gifts, funds from loan sources, and in-kind resources of a grant r
 
 #### (1) In general
 
-&emsp;In the case of an applicant for assistance under this chapter with severe constraints on available sources of matching funds, the Administrator may reduce or eliminate the matching requirements of subsection (a) of this section.
+&emsp;In the case of an applicant for assistance under this chapter with severe constraints onavailable sources of matching funds, the Administrator may reduce or eliminate the matching requirements of subsection (a) of this section.
 
 #### (2) Limitation
 

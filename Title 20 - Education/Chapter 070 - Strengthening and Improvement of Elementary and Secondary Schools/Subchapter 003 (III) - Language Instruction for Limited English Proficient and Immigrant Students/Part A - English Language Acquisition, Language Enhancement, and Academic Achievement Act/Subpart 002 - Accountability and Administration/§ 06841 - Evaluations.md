@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each eligible entity that receives a subgrant from a State educational agency under subpart 1 of this part shall provide such agency, at the conclusion of every second fiscal year duringwhich the subgrant is received, with an evaluation, in a form prescribed by the agency, that includes—
+Each eligible entity that receives a subgrant from a State educational agency under subpart 1 of this part shall provide such agency, at the conclusion of every second fiscal year during which the subgrant is received, with an evaluation, in a form prescribed by the agency, that includes—
 
 &emsp;(1) a description of the programs and activities conducted by the entity with funds received under subpart 1 of this part during the two immediately preceding fiscal years;
 

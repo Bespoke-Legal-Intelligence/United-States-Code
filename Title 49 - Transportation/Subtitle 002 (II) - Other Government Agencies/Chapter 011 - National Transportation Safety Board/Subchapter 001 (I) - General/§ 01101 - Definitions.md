@@ -28,7 +28,7 @@ This section is included to ensure that the identical definitions that are relev
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–443, §1(a), Dec. 21, 2006, 120 Stat. 3297, provided that: “This Act \[enacting section 1138 of this title, amending sections 1111, 1113, 1117, 1118, 1131, 1135, and 1137 of this title, enacting provisions set out as notes under sections 1111 and 1118 of this title, and amending provisions set out as a note under section 1113 of this title\] may be cited as the ‘National Transportation Safety Board Reauthorization Act of 2006’.”
+Pub. L. 109–443, §1(a), Dec. 21, 2006, 120 Stat. 3297, provided that: “This Act \[enacting section 1138 of this title, amending sections 1111, 1113, 1117, 1118, 1131, 1135,and 1137 of this title, enacting provisions set out as notes under sections 1111 and 1118 of this title, and amending provisions set out as a note under section 1113 of this title\] may be cited as the ‘National Transportation Safety Board Reauthorization Act of 2006’.”
 
 #### Short Title of 2003 Amendment
 

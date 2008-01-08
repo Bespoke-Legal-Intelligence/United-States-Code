@@ -120,7 +120,7 @@
 
 &emsp;&emsp;For each eligible area that received a grant pursuant to this subsection for fiscal year 2006, the Secretary shall, for each of the fiscal years 2007 through 2009, increase the amount of the grant made pursuant to paragraph (3) for the area to ensure that the amount of the grant for the fiscal year involved is not less than the following amount, as applicable to such fiscal year:
 
-&emsp;&emsp;&emsp;(i) For fiscal year 2007, an amount equal to 95 percent of the amount of the grant that would have been made pursuant to paragraph (3) and this paragraph for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting “662/3 percent” for “50 percent”.
+&emsp;&emsp;&emsp;(i) For fiscal year 2007, an amount equal to 95 percent of the amount of the grantthat would have been made pursuant to paragraph (3) and this paragraph for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting “662/3 percent” for “50 percent”.
 
 &emsp;&emsp;&emsp;(ii) For each of the fiscal years 2008 and 2009, an amount equal to 100 percent of the amount of the grant made pursuant to paragraph (3) and this paragraph for fiscal year 2007.
 
@@ -178,7 +178,7 @@
 
 &emsp;&emsp;&emsp;(iv) The current prevalence of HIV/AIDS.
 
-&emsp;&emsp;&emsp;(v) Relevant factors related to the cost and complexity of delivering health careto individuals with HIV/AIDS in the eligible area.
+&emsp;&emsp;&emsp;(v) Relevant factors related to the cost and complexity of delivering health care to individuals with HIV/AIDS in the eligible area.
 
 &emsp;&emsp;&emsp;(vi) The impact of co-morbid factors, including co-occurring conditions, determined relevant by the Secretary.
 
@@ -192,7 +192,7 @@
 
 #### (C) Priority in making grants
 
-&emsp;&emsp;The Secretary shall provide funds under this subsection to an eligible area to address the decline or disruption of all EMA-provided services related to the decline in the amounts received pursuant to subsection (a) consistent with the grant award for the eligible area for fiscal year 2006, to the extent that the factor under subparagraph (B)(x) (relating to a decline in funding) applies to the eligible area.
+&emsp;&emsp;The Secretary shall provide funds under this subsection to an eligible area to address the decline or disruption of all EMA-provided services related to the decline in theamounts received pursuant to subsection (a) consistent with the grant award for the eligible area for fiscal year 2006, to the extent that the factor under subparagraph (B)(x) (relating to a decline in funding) applies to the eligible area.
 
 #### (3) Remainder of amounts
 
@@ -246,7 +246,7 @@
 
 #### (C) Use of cancelled balances
 
-&emsp;&emsp;In the case of any balance of a grant award that is cancelled under subparagraph (A) or\(B)(ii), the grant funds involved shall be made available by the Secretary as additional amounts for grants pursuant to subsection (b) for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that the balance is required under such subparagraph to be canceled, except that the availability of the funds for such grants is subject to subsection (a)(4) and section 300ff–20(d)(2) of this title as applied for such year.
+&emsp;&emsp;In the case of any balance of a grant award that is cancelled under subparagraph (A) or (B)(ii), the grant funds involved shall be made available by the Secretary as additional amounts for grants pursuant to subsection (b) for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that the balance is required under such subparagraph to be canceled, except that the availability of the funds for such grants is subject to subsection (a)(4) and section 300ff–20(d)(2) of this title as applied for such year.
 
 #### (D) Corresponding reduction in future grant
 
@@ -254,7 +254,7 @@
 
 &emsp;&emsp;&emsp;In the case of an eligible area for which a balance from a grant award under subsection (a) is unobligated as of the end of the grant year for the award—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Secretary shall reduce, by the same amount as such unobligated balance, the amount of the grant under such subsection for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that such balance was unobligated as of the end of the grant year (which requirement for a reduction applies without regard to whether a waiver under subparagraph (A) has been approved with respect to such balance); and
+&emsp;&emsp;&emsp;&emsp;(I) the Secretary shall reduce, by the same amount as such unobligated balance, the amount of the grant undersuch subsection for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that such balance was unobligated as of the end of the grant year (which requirement for a reduction applies without regard to whether a waiver under subparagraph (A) has been approved with respect to such balance); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the grant funds involved in such reduction shall be made available by the Secretary as additional funds for grants pursuant to subsection (b) for such first fiscal year, subject to subsection (a)(4) and section 300ff–20(d)(2) of this title;
 
@@ -316,7 +316,7 @@ Subsec. (b)(1)(B). Pub. L. 109–415, §103(1)(B), substituted “demonstrates t
 
 Subsec. (b)(1)(E). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
 
-Subsec. (b)(1)(F). Pub. L. 109–415, §103(1)(C), added subpar. (F) and struck out former subpar. (F) which read as follows: “demonstrates the inclusiveness of the planning council membership, with particular emphasis on affected communities and individuals with HIV disease; and”.
+Subsec. (b)(1)(F). Pub. L. 109–415, §103(1)(C), added subpar. (F) and struck out former subpar. (F) which read as follows: “demonstrates the inclusiveness of theplanning council membership, with particular emphasis on affected communities and individuals with HIV disease; and”.
 
 Subsec. (b)(1)(H). Pub. L. 109–415, §103(1)(D), (E), added subpar. (H).
 

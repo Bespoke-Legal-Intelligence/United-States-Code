@@ -26,7 +26,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note undersection 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1970 Amendment
 
@@ -38,5 +38,5 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 #### Exemptions
 
-Exemptions from former section 282 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
+Exemptions from former section 282 of this title deemed to be exemptions from this section, see section2 of Pub. L. 87–849, set out as a note under section 203 of this title.
 

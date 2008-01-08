@@ -86,7 +86,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (4) Detailed personnel
 
-&emsp;The Secretary of Labor may, on request of the Executive Director, detail to the Office such personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
+&emsp;The Secretary of Labor may, on request of the Executive Director, detail to the Officesuch personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
 
 #### (f) Initial period for study and corrective action
 

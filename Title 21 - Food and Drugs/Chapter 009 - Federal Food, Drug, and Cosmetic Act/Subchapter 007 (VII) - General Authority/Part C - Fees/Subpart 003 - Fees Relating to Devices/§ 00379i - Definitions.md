@@ -1,6 +1,6 @@
 ### §379i. Definitions
 
-For purposes of this part:
+For purposes of this subpart:
 
 &emsp;(1) The term “premarket application” means—
 
@@ -28,7 +28,13 @@ For purposes of this part:
 
 &emsp;(E) The term “efficacy supplement” means a supplement to an approved premarket application under section 262 of title 42 that requires substantive clinical data.
 
-&emsp;(5) The term “process for the review of device applications” means the following activities of the Secretary with respect to the review of premarket applications, premarket reports, supplements, and premarket notification submissions:
+&emsp;(5) The term “30-day notice” means a notice under section 360e(d)(6) of this title that is limited to a request to make modifications to manufacturing procedures or methods of manufacture affecting the safety and effectiveness of the device.
+
+&emsp;(6) The term “request for classification information” means a request made under section 360c(g) of this title for information respecting the class in which a device has been classified or the requirements applicable to a device.
+
+&emsp;(7) The term “annual fee”, for periodic reporting concerning a class III device, means the annual fee associated with periodic reports required by a premarket application approval order.
+
+&emsp;(8) The term “process for the review of device applications” means the following activities of the Secretary with respect to the review of premarket applications, premarket reports, supplements, and premarket notification submissions:
 
 &emsp;&emsp;(A) The activities necessary for the review of premarket applications, premarket reports, supplements, and premarket notification submissions.
 
@@ -38,7 +44,7 @@ For purposes of this part:
 
 &emsp;&emsp;(D) Monitoring of research conducted in connection with the review of such applications, reports, supplements, and submissions.
 
-&emsp;&emsp;(E) Review of device applications subject to section 262 of title 42 for an investigational new drug application under section 355(i) of this title or for an investigational device exemption under section 360j(g) of this title and activities conducted in anticipation of the submission of such applications under section 355(i) or 360j(g) of this title.
+&emsp;&emsp;(E) Review of device applications subject to section 262 of title 42 for an investigational new drug application under section355(i) of this title or for an investigational device exemption under section 360j(g) of this title and activities conducted in anticipation of the submission of such applications under section 355(i) or 360j(g) of this title.
 
 &emsp;&emsp;(F) The development of guidance, policy documents, or regulations to improve the process for the review of premarket applications, premarket reports, supplements, and premarket notification submissions.
 
@@ -52,7 +58,7 @@ For purposes of this part:
 
 &emsp;&emsp;(K) Compiling, developing, and reviewing information on relevant devices to identify safety and effectiveness issues for devices subject to premarket applications, premarket reports, supplements, or premarket notification submissions.
 
-&emsp;(6) The term “costs of resources allocated for the process for the review of device applications” means the expenses incurred in connection with the process for the review of device applications for—
+&emsp;(9) The term “costs of resources allocated for the process for the review of device applications” means the expenses incurred in connection with the process for the review of device applications for—
 
 &emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees, and costs related to such officers, employees, and committees and to contracts with such contractors;
 
@@ -62,21 +68,53 @@ For purposes of this part:
 
 &emsp;&emsp;(D) collecting fees and accounting for resources allocated for the review of premarket applications, premarket reports, supplements, and submissions.
 
-&emsp;(7) The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for April of the preceding fiscal year divided by such Index for April 2002.
+&emsp;(10) The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for October of the preceding fiscal year divided by such Index for October 2001.
 
-&emsp;(8) The term “affiliate” means a business entity that has a relationship with a second business entity (whether domestic or international) if, directly or indirectly—
+&emsp;(11) The term “person” includes an affiliate thereof.
+
+&emsp;(12) The term “affiliate” means a business entity that has a relationship with a second business entity (whether domestic or international) if, directly or indirectly—
 
 &emsp;&emsp;(A) one business entity controls, or has the power to control, the other business entity; or
 
 &emsp;&emsp;(B) a third party controls, or has power to control, both of the business entities.
 
-(June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589; amended Pub. L. 108–214, §2(a)(1), (d)(3)(A), Apr. 1, 2004, 118 Stat. 572, 577.)
+&emsp;(13) The term “establishment subject to a registration fee” means an establishment that is required to register with the Secretary under section 360 of this title and is one of the following types of establishments:
+
+#### (A) Manufacturer
+
+&emsp;&emsp;An establishment that makes by any means any article that is a device, including an establishment that sterilizes or otherwise makes such article for or on behalf of a specification developer or any other person.
+
+#### (B) Single-use device reprocessor
+
+&emsp;&emsp;An establishment that, within the meaning of section 321(<i>ll</i>)(2)(A) of this title, performs additional processing and manufacturing operations on a single-use device that has previously been used on a patient.
+
+#### (C) Specification developer
+
+&emsp;&emsp;An establishment that develops specifications for a device that is distributed under the establishment's name but which performs no manufacturing, including an establishment that, in addition to developing specifications, also arranges for the manufacturing of devices labeled with another establishment's name by a contract manufacturer.
+
+(June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589; amended Pub. L. 108–214, §2(a)(1), (d)(3)(A), Apr. 1, 2004, 118 Stat. 572, 577; Pub. L. 110–85, title II, §211, Sept. 27, 2007, 121 Stat. 843.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 217 of Pub. L. 110–85, see Effective and Termination Dates of 2007 Amendment note below.</i>
 
 #### Termination of Section
 
 <i>For termination of section by section 107 of Pub. L. 107–250, see Effective and Termination Dates note set out below.</i>
 
 #### Amendments
+
+2007—Pub. L. 110–85, §§211(1), 217, temporarily substituted “For purposes of this subpart” for “For purposes of this part” in introductory provisions. See Effective and Termination Dates of 2007 Amendment note below.
+
+Pars. (5) to (9). Pub. L. 110–85, §§211(2), (3), 217, temporarily added pars. (5) to (7) and redesignated former pars. (5) and (6) as (8) and (9), respectively. Former pars. (7) and (8) redesignated (10) and (12), respectively. See Effective and Termination Dates of 2007 Amendment note below.
+
+Par. (10). Pub. L. 110–85, §§211(2), (4), 217, temporarily redesignated par. (7) as (10) and substituted “October of the preceding fiscal year” for “April of the preceding fiscal year” and “October 2001” for “April 2002”. See Effective and Termination Dates of 2007 Amendment note below.
+
+Par. (11). Pub. L. 110–85, §§211(5), 217, temporarily added par. (11). See Effective and Termination Dates of 2007 Amendment note below.
+
+Par. (12). Pub. L. 110–85, §§211(2), 217, temporarily redesignated par. (8) as (12). See Effective and Termination Dates of 2007 Amendment note below.
+
+Par. (13). Pub. L. 110–85, §§211(6), 217, temporarily added par. (13). See Effective and Termination Dates of 2007 Amendment note below.
 
 2004—Pub. L. 108–214, §2(d)(3)(A), made technical correction to directory language of Pub. L. 107–250, §102(a), which enacted this section.
 
@@ -88,13 +126,25 @@ Par. (5)(J). Pub. L. 108–214, §2(a)(1)(C), substituted “a premarket applica
 
 Par. (8). Pub. L. 108–214, §2(a)(1)(D), substituted “The term ‘affiliate’ means a business entity that has a relationship with a second business entity (whether domestic or international)” for “The term ‘affiliate’ means a business entity that has a relationship with a second business entity”.
 
+#### Effective and Termination Dates of 2007 Amendment
+
+Pub. L. 110–85, title II, §216, Sept. 27, 2007, 121 Stat. 852, provided that: “The amendments made by this subtitle \[subtitle A (§§211–217) of title II of Pub. L. 110–85, enacting section 379j–1 of this title and amending this section and section 379j of this title\] shall take effect on October 1, 2007, or the date of the enactment of this Act \[Sept. 27, 2007\], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] shall be assessed for all premarket applications, premarket reports, supplements, 30-day notices, and premarket notification submissions received on or after October 1, 2007, regardless of the date of the enactment of this Act.”
+
+Pub. L. 110–85, title II, §217, Sept. 27, 2007, 121 Stat. 852, provided that: “The amendments made by this subtitle \[subtitle A (§§211–217) of title II of Pub. L. 110–85, enacting section 379j–1 of this title and amending this section and section 379j of this title\] cease to be effective October 1, 2012, except that section 738A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–1\] (regarding annual performance and financial reports) ceases to be effective January 31, 2013.”
+
 #### Effective and Termination Dates
 
 Pub. L. 107–250, title I, §106, Oct. 26, 2002, 116 Stat. 1602, provided that: “The amendments made by this title \[enacting this subpart\] shall take effect on the date of the enactment of this Act \[Oct. 26, 2002\], except that fees shall be assessed for all premarket applications, premarket reports, supplements, and premarket notification submissions received on or after October 1, 2002, regardless of the date of enactment.”
 
 Pub. L. 107–250, title I, §107, Oct. 26, 2002, 116 Stat. 1602, provided that: “The amendments made by this title \[enacting this subpart\] cease to be effective October 1, 2007, except that section 103 \[set out as a note below\] with respect to annual reports ceases to be effective January 31, 2008.”
 
+#### Savings Provision
+
+Pub. L. 110–85, title II, §214, Sept. 27, 2007, 121 Stat. 852, provided that: “Notwithstanding section 107 of the Medical Device User Fee and Modernization Act of 2002 (Public Law 107–250) \[set out as an Effective and Termination Dates note above\], and notwithstanding the amendments made by this subtitle \[subtitle A (§§211–217) of title II of Pub. L. 110–85, enacting section 379j–1 of this title and amending this section and section 379j of this title\], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.), as in effect on the day before the date of the enactment of this subtitle \[Sept. 27, 2007\], shall continue to be in effect with respect to premarket applications, premarket reports, premarket notification submissions, and supplements (as defined in such part as of such day) that on or after October 1, 2002, but before October 1, 2007, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2008.”
+
 #### Findings
+
+Pub. L. 110–85, title II, §201(c), Sept. 27, 2007, 121 Stat. 842, provided that: “The Congress finds that the fees authorized under the amendments made by this title \[enacting section 379j–1 of this title and amending this section and sections 333, 360, 360i, 360m, 374, and 379j of this title\] will be dedicated toward expediting the process for the review of device applications and for assuring the safety and effectiveness of devices, as set forth in the goals identified for purposes of part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record.”
 
 Pub. L. 107–250, title I, §101, Oct. 26, 2002, 116 Stat. 1589, provided that: “The Congress finds that—
 
@@ -114,7 +164,7 @@ In General.—Beginning with fiscal year 2003, the Secretary shall prepare and s
 
 &emsp;“(1) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(3) \[set out as a note above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals, not later than 60 days after the end of each fiscal year during which fees are collected under this part \[title I of Pub. L. 107–250 does not contain parts\]; and
 
-&emsp;“(2) the implementation of the authority for such fees during such fiscal year, and the use, by the Food and Drug Administration, of the fees collected during such fiscal year, not later than 120 days after the end of each fiscal year during which fees are collected under the medical device user-fee program established under the amendment made by section 102 \[enacting this subpart\].
+&emsp;“(2) the implementation of the authority for such fees during such fiscal year, and the use, by the Food and Drug Administration, of the fees collected during such fiscal year, not later than 120 days after the endof each fiscal year during which fees are collected under the medical device user-fee program established under the amendment made by section 102 \[enacting this subpart\].
 
 “(b)
 
@@ -122,7 +172,7 @@ Additional Information.—For fiscal years 2006 and 2007, the report described u
 
 &emsp;“(1) information on the number of different types of applications and notifications, and the total amount of fees paid for each such type of application or notification, from businesses with gross receipts or sales from $0 to $100,000,000, with such businesses categorized in $10,000,000 intervals; and
 
-&emsp;“(2) a certification by the Secretary that the amounts appropriated for salaries and expenses of the Food and Drug Administration for such fiscal year and obligated by the Secretary for the performance of any function relating to devices that is not for the process for the review of device applications, as defined in paragraph (5) of section 737 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i), are not less than such amounts for fiscal year 2002 multiplied by the adjustment factor, as defined in paragraph (7) of such section 737.”
+&emsp;“(2) a certification by the Secretary that the amounts appropriated for salaries and expenses of the Food and Drug Administration for such fiscal year and obligated by the Secretary for the performance of any function relating to devices that is not for the process for the review of device applications, as defined in paragraph (5) \[now (8)\] of section 737 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i), are not less than such amounts for fiscal year 2002 multiplied by the adjustment factor, as defined in paragraph (7) \[now (10)\] of such section 737.”
 
 \[Section 103 of Pub. L. 107–250, set out above, ceases to be effective Jan. 31, 2008, see Effective and Termination Dates note above.\]
 

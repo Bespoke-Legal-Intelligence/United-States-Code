@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) the international debt problem threatens the safety and soundness of the international financial system, the stability of the international trading system, and the economic development of the debtor countries;
 
-&emsp;(2) orderly reduction of international trade imbalances requires very substantial growth in all parts of the world economy, particularly in the developing countries;
+&emsp;(2) orderly reduction of international trade imbalances requires very substantial growthin all parts of the world economy, particularly in the developing countries;
 
 &emsp;(3) growth in developing countries with substantial external debts has been significantly constrained over the last several years by a combination of high debt service obligations and insufficient new flows of financial resources to these countries;
 

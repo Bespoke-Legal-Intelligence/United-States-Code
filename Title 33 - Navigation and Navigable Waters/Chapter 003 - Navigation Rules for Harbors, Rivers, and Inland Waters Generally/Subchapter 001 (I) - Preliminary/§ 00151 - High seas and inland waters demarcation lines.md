@@ -16,7 +16,7 @@ For the purposes of this section, the term “United States” includes the seve
 
 #### References in Text
 
-For the International Regulations for Preventing Collisions at Sea, referred to in subsec. (a), see International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of this title.
+The International Regulations for Preventing Collisions at Sea, referred to in subsec. (a), are maintained and published by the United States Coast Guard, U.S. Department of Homeland Security, in the publication <i>Navigation Rules</i>, which is available for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
 
 #### Codification
 

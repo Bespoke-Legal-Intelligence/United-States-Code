@@ -28,7 +28,7 @@ The Congress so declares because it finds—
 
 Accordingly, the Congress declares that, in order to prevent famine and establish freedom from hunger, the following components must be brought together in a coordinated program to increase world food and fiber production, agricultural trade, and responsible management of natural resources, including—
 
-&emsp;(1) continued efforts by the international agricultural research centers and other international research entities to provide a global network, including United States universities, for international scientific collaboration oncrops, livestock, forests, fisheries, farming resources, and food systems of worldwide importance;
+&emsp;(1) continued efforts by the international agricultural research centers and other international research entities to provide a global network, including United States universities, for international scientific collaboration on crops, livestock, forests, fisheries, farming resources, and food systems of worldwide importance;
 
 &emsp;(2) contract research and the implementation of collaborative research support programs and other research collaboration led by United States universities, and involving research systems in other countries focused on crops, livestock, forests, fisheries, farming resources, and food systems, with benefits to the United States and partner countries;
 

@@ -40,7 +40,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) the present value of the old payment amounts for the old capital investment, calculated using a discount rate equal to the Treasury rate for the old capital investment; and
 
-&emsp;&emsp;(B) an amount equal to $100,000,000 multiplied by a fraction whose numerator is the principal amount of the old paymentamounts for the old capital investment and whose denominator is the sum of the principal amounts of the old payment amounts for all old capital investments.
+&emsp;&emsp;(B) an amount equal to $100,000,000 multiplied by a fraction whose numerator is the principal amount of the old payment amounts for the old capital investment and whose denominator is the sum of the principal amounts of the old payment amounts for all old capital investments.
 
 #### (2) Determination
 

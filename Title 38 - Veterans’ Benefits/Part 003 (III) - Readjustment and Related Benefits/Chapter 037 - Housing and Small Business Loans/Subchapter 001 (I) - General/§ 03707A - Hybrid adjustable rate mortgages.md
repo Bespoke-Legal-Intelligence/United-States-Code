@@ -36,7 +36,7 @@
 
 &emsp;(4) such other factors as the Secretary finds appropriate.
 
-(e) The Secretary shall require that the mortgagee make available to the mortgagor, at thetime of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
+(e) The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
 
 (Added Pub. L. 107–330, title III, §303(a), Dec. 6, 2002, 116 Stat. 2825; amended Pub. L. 108–454, title IV, §405(a), (b), Dec. 10, 2004, 118 Stat. 3616; Pub. L. 109–233, title I, §102, June 15, 2006, 120 Stat. 399.)
 

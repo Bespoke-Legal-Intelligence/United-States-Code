@@ -2,7 +2,7 @@
 
 #### (a) Limitation
 
-No funds authorized to be appropriated or otherwise made available to the Department of Energy for fiscal year 1997 under section 3101 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201) may be obligated or expended for activities under the Department of Energy Laboratory Directed Research and Development Program, or under any Department of Energy technology transfer program or cooperative research and developmentagreement, unless such activities support the national security mission of the Department of Energy.
+No funds authorized to be appropriated or otherwise made available to the Department of Energy for fiscal year 1997 under section 3101 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201) may be obligated or expended for activities under the Department of Energy Laboratory Directed Research and Development Program, or under any Department of Energy technology transfer program or cooperative research and development agreement, unless such activities support the national security mission of the Department of Energy.
 
 #### (b) Annual report
 
@@ -16,7 +16,7 @@ No funds authorized to be appropriated or otherwise made available to the Depart
 
 #### References in Text
 
-Section 3101 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (a), is section 3101 of Pub. L. 104–201, div. C, title XXXI, Sept. 23, 1996, 110 Stat. 2820, which is not classified to the Code.
+Section 3101 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (a), issection 3101 of Pub. L. 104–201, div. C, title XXXI, Sept. 23, 1996, 110 Stat. 2820, which is not classified to the Code.
 
 #### Codification
 

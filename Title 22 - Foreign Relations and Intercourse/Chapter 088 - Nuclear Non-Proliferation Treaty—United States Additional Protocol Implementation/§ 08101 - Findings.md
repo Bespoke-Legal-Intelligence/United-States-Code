@@ -26,5 +26,5 @@ Congress makes the following findings:
 
 #### Short Title
 
-Pub. L. 109–401, title II, §201, Dec. 18, 2006, 120 Stat. 2741, provided that: “This title \[enacting this chapter\]may be cited as the ‘United States Additional Protocol Implementation Act’.”
+Pub. L. 109–401, title II, §201, Dec. 18, 2006, 120 Stat. 2741, provided that: “This title \[enacting this chapter\] may be cited as the ‘United States Additional Protocol Implementation Act’.”
 

@@ -12,7 +12,7 @@
 
 #### (B) Narcotics and control of illegal substances
 
-&emsp;&emsp;The United States and the Federated States of Micronesia will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Federated States of Micronesia for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance as defined in section 802(6) of title 21 and Schedules I through V of Subchapter II of the Controlled Substances Act of the Federated States of Micronesia, or for the distribution of any such substance to or from the Federated States of Micronesia or to or from the United States or any of its territories or commonwealths.
+&emsp;&emsp;The United States and the Federated States of Micronesia will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Federated States of Micronesia for the purposes of cultivationof, production of, smuggling of, trafficking in, and abuse of any controlled substance as defined in section 802(6) of title 21 and Schedules I through V of Subchapter II of the Controlled Substances Act of the Federated States of Micronesia, or for the distribution of any such substance to or from the Federated States of Micronesia or to or from the United States or any of its territories or commonwealths.
 
 #### (C) Other criminal laws
 
@@ -64,7 +64,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 &emsp;&emsp;(ii) any other assistance provided by the Government of the United States to the Government of the Federated States of Micronesia.
 
-> &emsp;Such authority shall include authority for the Comptroller General to conduct or cause to be conducted any of the audits provided for in section 233 of the Compact. The authority provided in this paragraph shall continue for at least three years after the last such grant has been made or assistance has been provided.
+> &emsp;Such authority shall include authority for the Comptroller General to conduct or cause to be conducted any of the audits provided for insection 233 of the Compact. The authority provided in this paragraph shall continue for at least three years after the last such grant has been made or assistance has been provided.
 
 &emsp;(B) The Comptroller General (and his duly authorized representatives) shall also have authority to review any audit conducted by or on behalf of the Government of the United States. In this connection, the Comptroller General shall have access to such personnel and to such records, documents, working papers, automated data and files, and other information relevant to such review.
 

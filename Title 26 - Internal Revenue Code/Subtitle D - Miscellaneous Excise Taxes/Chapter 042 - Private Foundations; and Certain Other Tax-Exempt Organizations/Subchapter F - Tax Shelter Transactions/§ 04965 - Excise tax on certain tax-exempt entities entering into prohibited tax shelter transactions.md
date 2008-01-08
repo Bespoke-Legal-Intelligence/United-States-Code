@@ -10,7 +10,7 @@
 
 #### (B) Post-transaction determination
 
-&emsp;&emsp;If any tax-exempt entity described in paragraph (1), (2), or (3) of subsection (c) is a party to a subsequently listed transaction atany time during a taxable year, such entity shall pay a tax for such taxable year in the amount determined under subsection (b)(1).
+&emsp;&emsp;If any tax-exempt entity described in paragraph (1), (2), or (3) of subsection (c) is a party to a subsequently listed transaction at any time during a taxable year, such entity shall pay a tax for such taxable year in the amount determined under subsection (b)(1).
 
 #### (2) Entity manager
 
@@ -66,7 +66,7 @@ For purposes of this section, the term “tax-exempt entity” means an entity w
 
 &emsp;(5) a program described in section 529,
 
-&emsp;(6) an eligible deferred compensation plan described in section 457(b) which is maintained by an employer described in section 4457(e)(1)(A), or
+&emsp;(6) an eligible deferred compensation plan described in section 457(b) which is maintained by an employer described in section 457(e)(1)(A), or
 
 &emsp;(7) an arrangement described in section 4973(a).
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (2) Subsequently listed transaction
 
-&emsp;The term “subsequently listed transaction” means any transaction to which a tax-exempt entity is a party and which is determined by the Secretary to be a listed transaction at any time after the entity has become a party to the transaction. Such term shall not include a transaction which is a prohibited reportable transaction at the time the entity became a party to the transaction.
+&emsp;The term “subsequently listed transaction” means any transaction to which a tax-exemptentity is a party and which is determined by the Secretary to be a listed transaction at any time after the entity has become a party to the transaction. Such term shall not include a transaction which is a prohibited reportable transaction at the time the entity became a party to the transaction.
 
 #### (f) Regulatory authority
 
@@ -116,11 +116,15 @@ The Secretary is authorized to promulgate regulations which provide guidance reg
 
 The tax imposed by this section is in addition to any other tax, addition to tax, or penalty imposed under this title.
 
-(Added Pub. L. 109–222, title V, §516(a)(1), May 17, 2006, 120 Stat. 368.)
+(Added Pub. L. 109–222, title V, §516(a)(1), May 17, 2006, 120 Stat. 368; amended Pub. L. 110–172, §11(a)(30), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (b)(1)(B) and (f), is the date of enactment of Pub. L. 109–222, which was approved May 17, 2006.
+
+#### Amendments
+
+2007—Subsec. (c)(6). Pub. L. 110–172 substituted “section 457(e)(1)(A)” for “section 4457(e)(1)(A)”.
 
 #### Effective Date
 

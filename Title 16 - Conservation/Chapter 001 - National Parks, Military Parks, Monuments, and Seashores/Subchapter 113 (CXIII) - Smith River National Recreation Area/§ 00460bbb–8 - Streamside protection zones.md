@@ -46,7 +46,7 @@ For each of the rivers and river segments specified in this subsection, there is
 
 #### (b) One-quarter mile zones
 
-For each of the rivers and river segments specified in this subsection there is established a streamside protection zone in which timber harvesting shall be prohibited except as permitted in section 460bbb–3(a)(7) of this title. Such zone shall extend on the average of one-quarter mile on either side of said rivers and river segments, or 100 feet from the inner gorge of said rivers and river segments, or within the limit of high and extreme landslide hazards on said rivers and river segments, whichever is greater. The provisions of this subsection shall apply to the following rivers and river segments:
+For each of the rivers and river segments specified in this subsection there is established a streamside protection zone in which timber harvesting shall be prohibited except as permitted in section 460bbb–3(a)(7) of this title. Such zone shall extend on the average of one-quarter mile on either side of said rivers and river segments, or 100 feet from the inner gorge of said rivers and river segments, or within the limit of highand extreme landslide hazards on said rivers and river segments, whichever is greater. The provisions of this subsection shall apply to the following rivers and river segments:
 
 &emsp;(1) Main stem Smith (from the South Fork to the NRA boundary).
 

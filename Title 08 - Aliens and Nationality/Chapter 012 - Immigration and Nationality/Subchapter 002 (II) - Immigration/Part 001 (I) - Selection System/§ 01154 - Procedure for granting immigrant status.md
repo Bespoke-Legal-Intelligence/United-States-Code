@@ -160,7 +160,7 @@
 
 &emsp;(ii) may be provided an “employment authorized” endorsement or appropriate work permit incidental to such approval.
 
-(L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of section 1101(a)(15) of this title may not file a petition for classification under this section or section 1184 of this title to classify any person who committed the battery or extreme cruelty or trafficking against the individual (or the individual's child) which established the individual's (or individual's child <sup>2</sup>) eligibility as a VAWA petitioner or for such nonimmigrant status.
+(L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of section 1101(a)(15) of this title may not file a petition for classification under this section or section 1184 of this title to classify any person who committed the battery or extreme cruelty ortrafficking against the individual (or the individual's child) which established the individual's (or individual's child <sup>2</sup>) eligibility as a VAWA petitioner or for such nonimmigrant status.
 
 (2)(A) The Attorney General may not approve a spousal second preference petition for the classification of the spouse of an alien if the alien, by virtue of a prior marriage, has been accorded the status of an alien lawfully admitted for permanent residence as the spouse of a citizen of the United States or as the spouse of an alien lawfully admitted for permanent residence, unless—
 
@@ -178,7 +178,7 @@ After an investigation of the facts in each case, and after consultation with th
 
 #### (c) Limitation on orphan petitions approved for a single petitioner; prohibition against approval in cases of marriages entered into in order to evade immigration laws; restriction on future entry of aliens involved with marriage fraud
 
-Notwithstanding the provisions of subsection (b) of this section no petition shall be approved if (1) the alien has previously been accorded, or has sought to be accorded, an immediate relative or preference status as the spouse of a citizen of the United States or the spouse of an alien lawfully admitted for permanent residence, by reason of a marriage determined by the Attorney General to have been entered into for the purpose of evading the immigration laws, or (2) the Attorney General has determined thatthe alien has attempted or conspired to enter into a marriage for the purpose of evading the immigration laws.
+Notwithstanding the provisions of subsection (b) of this section no petition shall be approved if (1) the alien has previously been accorded, or has sought to be accorded, an immediate relative or preference status as the spouse of a citizen of the United States or the spouse of an alien lawfully admitted for permanent residence, by reason of a marriage determined by the Attorney General to have been entered into for the purpose of evading the immigration laws, or (2) the Attorney General has determined that the alien has attempted or conspired to enter into a marriage for the purpose of evading the immigration laws.
 
 #### (d) Recommendation of valid home-study
 
@@ -220,7 +220,7 @@ Notwithstanding subsection (a) of this section, except as provided in section 12
 
 #### (h) Survival of rights to petition
 
-The legal termination of a marriage may not be the sole basis for revocation under section1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this section pursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section. Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under section 1155 of this title.
+The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this section pursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section. Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under section 1155 of this title.
 
 #### (i) Professional athletes
 
@@ -264,7 +264,7 @@ A petition under subsection (a)(1)(D) of this section for an individual whose ap
 
 <i>Pub. L. 106–279, title III, §§302(b), 505(a)(2), (b), Oct. 6, 2000, 114 Stat. 839, 844, provided that, effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, subsection (d) of this section is amended by striking “(d)” and inserting “(d)(1)”, by striking “section 1101(b)(1)(F)” and inserting “subparagraph (F) or (G) of section 1101(b)(1)”, and by adding at the end the following new paragraph:</i>
 
-<i>(2) Notwithstanding the provisions of subsections (a) and (b) of this section, no petition may be approved on behalf of a child defined in section 1101(b)(1)(G) of this title unless the Secretary of State has certified that the central authority of the</i><i>child's country of origin has notified the United States central authority under the convention referred to in such section 1101(b)(1)(G) of this title that a United States citizen habitually resident in the United States has effected final adoption of the child, or has been granted custody of the child for the purpose of emigration and adoption, in accordance with such convention and the Intercountry Adoption Act of 2000 \[42 U.S.C. 14901 et seq.\].</i>
+<i>(2) Notwithstanding the provisions of subsections (a) and (b) of this section, no petition may be approved on behalf of a child defined in section 1101(b)(1)(G) of this title unless the Secretary of State has certified that the central authority of the child's country of origin has notified the United States central authority under the convention referred to in such section 1101(b)(1)(G) of this title that a United States citizen habitually resident in the United States has effected final adoption of the child, or has been granted custody of the child for the purpose of emigration and adoption, in accordance with such convention and the Intercountry Adoption Act of 2000 \[42 U.S.C. 14901 et seq.\].</i>
 
 #### References in Text
 
@@ -304,7 +304,7 @@ Subsec. (k). Pub. L. 107–208, §6, added subsec. (k).
 
 &emsp;“(II) the alien is a person whose removal, in the opinion of the Attorney General, would result in extreme hardship to the alien or a child of the alien.”
 
-Subsec. (a)(1)(A)(iv). Pub. L. 106–386, §1503(b)(2), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “An alien who is the child of a citizen of the United States, who is a person of good moral character, who is eligible to be classified as an immediate relative under section 1151(b)(2)(A)(i) of this title, and who has resided in the United States with the citizen parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
+Subsec. (a)(1)(A)(iv). Pub. L. 106–386, §1503(b)(2), amended cl. (iv) generally. Prior to amendment, cl. (iv)read as follows: “An alien who is the child of a citizen of the United States, who is a person of good moral character, who is eligible to be classified as an immediate relative under section 1151(b)(2)(A)(i) of this title, and who has resided in the United States with the citizen parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
 
 &emsp;“(I) the alien is residing in the United States and during the period of residence with the citizen parent the alien has been battered by or has been the subject of extreme cruelty perpetrated by the alien's citizen parent; and
 
@@ -370,7 +370,7 @@ Subsec. (f). Pub. L. 101–649, §162(b)(5), (6), redesignated subsec. (g) as (f
 
 Subsec. (f)(1). Pub. L. 101–649, §162(b)(4), substituted reference to section 1153(a)(3) of this title for reference to section 1153(a)(4) of this title.
 
-Subsec. (g). Pub. L. 101–649, §702(b), as amended by Pub. L. 102–232, §308(b), inserted “except as provided in section 1255(e)(3) of this title,” after “Notwithstanding subsection (a) of this section,”.
+Subsec. (g). Pub. L. 101–649, §702(b), as amended by Pub. L. 102–232, §308(b), inserted “except as provided insection 1255(e)(3) of this title,” after “Notwithstanding subsection (a) of this section,”.
 
 Pub. L. 101–649, §162(b)(6), redesignated subsec. (h) as (g). Former subsec. (g) redesignated as (f).
 
@@ -406,7 +406,7 @@ Subsecs. (e), (f). Pub. L. 95–417, §3, added subsec. (e) and redesignated for
 
 Subsec. (b). Pub. L. 89–236 substituted provisions authorizing investigation of petitions by the Attorney General, consultation with the Secretary of Labor, and authorization to consular officers, for provisions specifying the form of application for preference status on the basis of membership in the ministry of a religious denomination or high education, technical training, or specialized experience which would be substantially beneficial to the United States and the circumstances making an application appropriate.
 
-Subsec. (c). Pub. L. 89–236 substituted provisions limiting the number of orphan petitions which may be approved for one petitioner and prohibiting approval of any petition of an alien whose prior marriage was determined by the Attorney General to have been enteredinto for the purpose of evading the immigration laws, for provisions which related to investigation of facts by the Attorney General and submission of reports to Congress covering the granting of preferential status.
+Subsec. (c). Pub. L. 89–236 substituted provisions limiting the number of orphan petitions which may be approved for one petitioner and prohibiting approval of any petition of an alien whose prior marriage was determined by the Attorney General to have been entered into for the purpose of evading the immigration laws, for provisions which related to investigation of facts by the Attorney General and submission of reports to Congress covering the granting of preferential status.
 
 Subsec. (d). Pub. L. 89–236 substituted provisions requiring the Attorney General to submit reports to Congress on each approved petition for professional or occupational preference, for provisions prohibiting a statutory construction of the section which would entitle an immigrant to preferential classification if, upon arrival at the port of entry, he was found not to be entitled to such classification.
 

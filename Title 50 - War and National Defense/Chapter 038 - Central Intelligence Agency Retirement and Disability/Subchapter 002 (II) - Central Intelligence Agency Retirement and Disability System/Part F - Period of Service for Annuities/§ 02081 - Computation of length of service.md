@@ -18,7 +18,7 @@
 
 #### (1) Classification of certain posts as unhealthful
 
-&emsp;The Director may from time to time establish a list of places outside the United Statesthat, by reason of climatic or other extreme conditions, are to be classed as unhealthful posts. Such list shall be established in consultation with the Secretary of State.
+&emsp;The Director may from time to time establish a list of places outside the United States that, by reason of climatic or other extreme conditions, are to be classed as unhealthful posts. Such list shall be established in consultation with the Secretary of State.
 
 #### (2) Extra credit
 
@@ -32,5 +32,5 @@
 
 #### Prior Provisions
 
-A prior section 251 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050; Pub. L. 94–522, title II, §210, Oct. 17, 1976, 90 Stat. 2471; Pub. L. 99–169, title VII, §702, Dec. 4, 1985, 99 Stat. 1008; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to computation of length of service and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 251 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050; Pub. L. 94–522, title II, §210, Oct. 17, 1976, 90 Stat. 2471; Pub. L. 99–169, title VII, §702, Dec. 4, 1985, 99 Stat. 1008; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to computation of lengthof service and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 

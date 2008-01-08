@@ -2,7 +2,7 @@
 
 (a)
 
-Grant Authority.—Subject to the requirements of this section, the Secretary shall makegrants to eligible States to support the development and implementation of effective programs by such States to—
+Grant Authority.—Subject to the requirements of this section, the Secretary shall make grants to eligible States to support the development and implementation of effective programs by such States to—
 
 &emsp;(1) improve the timeliness, accuracy, completeness, uniformity, integration, and accessibility of the safety data of the State that is needed to identify priorities for national, State, and local highway and traffic safety programs;
 

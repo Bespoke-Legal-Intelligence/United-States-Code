@@ -6,7 +6,7 @@ Maximum Amount.—The amount allocated to a unit of general local government for
 
 (b)
 
-De Minimis Allocations to Units of General Local Government.—If the amount allocated to a unit of general local government (except an Indian tribe or an Alaskan native <sup>2</sup> village) for a payment period would be less than $5,000 but for this subsection or is waived by the governing authority of the unit of general localgovernment, the Secretary shall pay the amount to the Governor of the State in which the unit is located.
+De Minimis Allocations to Units of General Local Government.—If the amount allocated to a unit of general local government (except an Indian tribe or an Alaskan native <sup>2</sup> village) for a payment period would be less than $5,000 but for this subsection or is waived by the governing authority of the unit of general local government, the Secretary shall pay the amount to the Governor of the State in which the unit is located.
 
 (c)
 

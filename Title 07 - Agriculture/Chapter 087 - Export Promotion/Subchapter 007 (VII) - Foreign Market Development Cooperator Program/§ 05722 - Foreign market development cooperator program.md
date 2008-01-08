@@ -24,3 +24,7 @@ The Secretary shall annually submit to the Committee on Agriculture and the Comm
 
 Subsec. (c). Pub. L. 107–171, §3105(a)(2), added subsec. (c).
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

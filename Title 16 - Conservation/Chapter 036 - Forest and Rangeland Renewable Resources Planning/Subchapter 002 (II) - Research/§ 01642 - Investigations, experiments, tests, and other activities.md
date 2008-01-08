@@ -2,7 +2,7 @@
 
 #### (a) Authorization; scope and purposes of activities
 
-The Secretary is authorized to conduct, support, and cooperate in investigations, experiments, tests, and other activities the Secretary deems necessary to obtain, analyze, develop, demonstrate, and disseminate scientific information about protecting, managing, and utilizing forest and rangeland renewable resources in rural, suburban, and urban areas. The activities conducted, supported, or cooperated in by the Secretary under this subchapter shall include, but not be limited to, the five major areas of renewable resource research identified in paragraphs (1) through (5) of this subsection.
+The Secretary is authorized to conduct, support, and cooperate in investigations, experiments, tests, and other activities the Secretary deems necessary to obtain, analyze, develop, demonstrate, and disseminate scientific information about protecting, managing, and utilizing forest and rangeland renewable resources in rural, suburban, and urban areas. The activities conducted, supported, or cooperated in by the Secretary under this subchapter shall include,but not be limited to, the five major areas of renewable resource research identified in paragraphs (1) through (5) of this subsection.
 
 &emsp;(1) Renewable resource management research shall include, as appropriate, research activities related to managing, reproducing, planting, and growing vegetation on forests and rangelands for timber, forage, water, fish and wildlife, esthetics, recreation, wilderness, energy production, activities related to energy conservation, and other purposes, including activities for encouraging improved reforestation of forest lands from which timber has been harvested; determining the role of forest and rangeland management in the productive use of forests and rangelands, in diversified agriculture, and in mining, transportation, and other industries; and developing alternatives for the management of forests and rangelands that will make possible the most effective use of their multiple products and services.
 
@@ -16,7 +16,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (b) Development of periodic Renewable Resource Assessment through survey and analysis of conditions; implementation; authorization of appropriations
 
-(1) To ensure the availability of adequate data and scientific information for development ofthe periodic Renewable Resource Assessment provided for in section 1601 of this title, the Secretary of Agriculture shall make and keep current a comprehensive survey and analysis of the present and prospective conditions of and requirements for renewable resources of the forests and rangelands of the United States and of the supplies of such renewable resources, including a determination of the present and potential productivity of the land, and of such other facts as may be necessary and useful in the determination of ways and means needed to balance the demand for and supply of these renewable resources, benefits, and uses in meeting the needs of the people of the United States. The Secretary shall conduct the survey and analysis under such plans as the Secretary may determine to be fair and equitable, and cooperate with appropriate officials of each State and, either through them or directly, with private or other entities.
+(1) To ensure the availability of adequate data and scientific information for development of the periodic Renewable Resource Assessment provided for in section 1601 of this title, the Secretary of Agriculture shall make and keep current a comprehensive survey and analysis of the present and prospective conditions of and requirements for renewable resources of the forests and rangelands of the United States and of the supplies of such renewable resources, including a determination of the present and potential productivity of the land, and of such other facts as may be necessary and useful in the determination of ways and means needed to balance the demand for and supply of these renewable resources, benefits, and uses in meeting the needs of the people of the United States. The Secretary shall conduct the survey and analysis under such plans as the Secretary may determine to be fair and equitable, and cooperate with appropriate officials of each State and, either through them or directly, with private or other entities.
 
 (2) In implementing this subsection, the Secretary is authorized to develop and implement improved methods of survey and analysis of forest inventory information, for which purposes there are hereby authorized to be appropriated annually $10,000,000.
 
@@ -36,7 +36,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(F) foster cooperation among Federal, State, and private researchers and encourage the exchange of scientific information on the effects of atmospheric pollutants on forest ecosystems among the United States, Canada, European nations, and other nations;
 
-&emsp;(G) support the long-term funding of research programs and related efforts to determine the causes of declines in the health and productivity of domestic forest ecosystems and the effects of atmospheric pollutants on the health and productivity of domestic forest ecosystems; and
+&emsp;(G) support the long-term funding of research programs and related efforts to determine the causes of declines in the health and productivity of domestic forest ecosystems and the effects of atmospheric pollutants onthe health and productivity of domestic forest ecosystems; and
 
 &emsp;(H) enlarge the Eastern Hardwood Cooperative by devoting additional resources to field analysis of the response of hardwood species to atmospheric pollution, and other factors that may affect the health and productivity of these ecosystems.
 
@@ -140,7 +140,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (4) National standards and definitions
 
-&emsp;To ensure uniform and consistent data collection for all forest land that is publicly or privately owned and for each State, the Secretary shall develop, in consultation with State foresters and Federal land management agencies not under the jurisdiction of the Secretary, and publish national standards and definitions to be applied in inventorying and analyzing forests and their resources underthis subsection. The standards shall include a core set of variables to be measured on all sample plots under paragraph (2) and a standard set of tables to be included in the reports under paragraph (3).
+&emsp;To ensure uniform and consistent data collection for all forest land that is publicly or privately owned and for each State, the Secretary shall develop, in consultation with State foresters and Federal land management agencies not under the jurisdiction of the Secretary, and publish national standards and definitions to be applied in inventorying and analyzing forests and their resources under this subsection. The standards shall include a core set of variables to be measured on all sample plots under paragraph (2) and a standard set of tables to be included in the reports under paragraph (3).
 
 #### (5) Protection for private property rights
 
@@ -234,7 +234,7 @@ Semiarid Agroforestry Research, Development, and Demonstration Center.—The Sec
 
 “(b)
 
-Program.—The Secretary shall establish a program at the Center and seek the participation of Federal or State governmental entities, land-grant colleges or universities, State agricultural experiment stations, State and private foresters, the NationalArbor Day Foundation, and other nonprofit foundations in such program to conduct or assist research, investigations, studies, and surveys to—
+Program.—The Secretary shall establish a program at the Center and seek the participation of Federal or State governmental entities, land-grant colleges or universities, State agricultural experiment stations, State and private foresters, the National Arbor Day Foundation, and other nonprofit foundations in such program to conduct or assist research, investigations, studies, and surveys to—
 
 &emsp;“(1) develop sustainable agroforestry systems on semiarid lands that minimize topsoil loss and water contamination and stabilize or enhance crop productivity;
 

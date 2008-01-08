@@ -16,7 +16,7 @@
 
 (B) This section shall cease to apply to an employee to whom subparagraph (A) applies once the appropriate rate of basic pay has been determined for such employee under this paragraph.
 
-(2)(A) If, as a result of any event described in subsection (a), the employee's former rate of basic pay is greater than the maximum rate of basic pay payable for the grade of the employee's position immediately after the occurrenceof the event involved, the employee is entitled to basic pay at a rate equal to the lesser of—
+(2)(A) If, as a result of any event described in subsection (a), the employee's former rate of basic pay is greater than the maximum rate of basic pay payable for the grade of the employee's position immediately after the occurrence of the event involved, the employee is entitled to basic pay at a rate equal to the lesser of—
 
 &emsp;(i) the employee's former rate of basic pay; or
 
@@ -76,7 +76,7 @@ Subsecs. (b) to (e). Pub. L. 108–411, §301(a)(5)(B), added subsecs. (b) to (e
 
 &emsp;“(1) has a break in service of one workday or more;
 
-&emsp;“(2) is entitled by operation of this subchapter or chapter 51 or 53 of this title to a rate of basic pay which is equal to or higher than, or declines a reasonable offer of a position the rate of basic pay for which is equal to or higher than, the rate to which the employee is entitled under this section; or
+&emsp;“(2) is entitled by operation of this subchapter or chapter 51 or 53 of this title to a rate of basic paywhich is equal to or higher than, or declines a reasonable offer of a position the rate of basic pay for which is equal to or higher than, the rate to which the employee is entitled under this section; or
 
 &emsp;“(3) is demoted for personal cause or at the employee's request.”
 
@@ -98,7 +98,7 @@ Conversion rules.—
 
 &emsp;“(A)
 
-Individuals receiving a retained rate or a rate greater than the maximum rate for the grade.—Subject to any regulations the Office of Personnel Management may prescribe, an employeeunder a covered pay schedule who, on the day before the effective date of this section, is receiving a retained rate under section 5363 of title 5, United States Code, or is receiving under similar authority a rate of basic pay that is greater than the maximum rate of basic pay payable for the grade of the employee's position shall have that rate converted as of the effective date of this section, and the employee shall be considered to be receiving a retained rate under section 5363 of such title (as amended by this section). The newly applicable retained rate shall equal the formerly applicable retained rate as adjusted to include any applicable locality-based payment under section 5304 of title 5, United States Code, or similar provision of law.
+Individuals receiving a retained rate or a rate greater than the maximum rate for the grade.—Subject to any regulations the Office of Personnel Management may prescribe, an employee under a covered pay schedule who, on the day before the effective date of this section, is receiving a retained rate under section 5363 of title 5, United States Code, or is receiving under similar authority a rate of basic pay that is greater than the maximum rate of basic pay payable for the grade of the employee's position shall have that rate converted as of the effective date of this section, and the employee shall be considered to be receiving a retained rate under section 5363 of such title (as amended by this section). The newly applicable retained rate shall equal the formerly applicable retained rate as adjusted to include any applicable locality-based payment under section 5304 of title 5, United States Code, or similar provision of law.
 
 &emsp;“(B)
 

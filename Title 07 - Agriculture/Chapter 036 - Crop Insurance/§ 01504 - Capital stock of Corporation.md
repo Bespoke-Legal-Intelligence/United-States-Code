@@ -54,7 +54,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
 #### Cancellation of Outstanding Receipts for Stock in Excess of $27,000,000
 
-Section 5 of act Aug. 25, 1949, provided that: “The Secretary of the Treasury is authorized and directed to cancel, without consideration, outstanding receipts for payments for or on account of the stock of the Corporation in excess of $27,000,000.”
+Section 5 of act Aug. 25, 1949, provided that: “The Secretary of the Treasury is authorized and directed to cancel, without consideration, outstanding receipts forpayments for or on account of the stock of the Corporation in excess of $27,000,000.”
 
 #### Institution of Expanded Program; Payment of Cost for Fiscal Year 1950
 

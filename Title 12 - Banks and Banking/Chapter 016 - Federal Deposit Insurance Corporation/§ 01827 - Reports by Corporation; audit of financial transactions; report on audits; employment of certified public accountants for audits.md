@@ -80,7 +80,7 @@ A report of each audit conducted under subsection (b) of this section shall be m
 
 For the purpose of conducting such audit the Comptroller General is authorized in his discretion to employ by contract, without regard to section 5 of title 41, professional services of firms and organizations of certified public accountants, with the concurrence of the Corporation, for temporary periods or for special purposes. The Corporation shall reimburse the Government Accountability Office for the cost of any such audit as billed therefor by the Comptroller General, and the Government Accountability Office shall deposit the sums so reimbursed into the Treasury as miscellaneous receipts.
 
-(Sept. 21, 1950, ch. 967, §2\[17\], 64 Stat. 890; Pub. L. 93–604, title VI, §602, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 101–73, title II, §220(a), Aug. 9, 1989, 103 Stat. 263; Pub. L. 102–242, title IV, §427, Dec. 19, 1991, 105 Stat. 2378; Pub. L. 104–208, div. A, titleII, §2704(d)(14)(S), (T), Sept. 30, 1996, 110 Stat. 3009–493, 3009–494; Pub. L. 106–569, title XI, §§1103(a), 1104(b), Dec. 27, 2000, 114 Stat. 3030, 3032; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(26), (27), Feb. 15, 2006, 119 Stat. 3614, 3615.)
+(Sept. 21, 1950, ch. 967, §2\[17\], 64 Stat. 890; Pub. L. 93–604, title VI, §602, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 101–73, title II, §220(a), Aug. 9, 1989, 103 Stat. 263; Pub. L. 102–242, title IV, §427, Dec. 19, 1991, 105 Stat. 2378; Pub. L. 104–208, div. A, title II, §2704(d)(14)(S), (T), Sept. 30, 1996, 110 Stat. 3009–493, 3009–494; Pub. L. 106–569, title XI, §§1103(a), 1104(b), Dec. 27, 2000, 114 Stat. 3030, 3032; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(26), (27), Feb. 15, 2006, 119 Stat. 3614, 3615.)
 
 #### References in Text
 
@@ -162,7 +162,7 @@ Time for Submission.—The reports described in subsection (a) shall be transmit
 
 #### Report to Congress on Risk-Based Assessments
 
-Section 220(b)(1) of Pub. L. 101–73 directed Federal Deposit Insurance Corporation to study establishment of premium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable, Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
+Section 220(b)(1) of Pub. L. 101–73 directed Federal Deposit Insurance Corporation to study establishment ofpremium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable, Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

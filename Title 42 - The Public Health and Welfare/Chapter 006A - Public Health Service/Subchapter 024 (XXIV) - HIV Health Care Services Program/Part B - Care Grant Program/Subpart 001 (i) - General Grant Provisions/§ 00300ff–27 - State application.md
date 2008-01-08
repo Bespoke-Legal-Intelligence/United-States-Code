@@ -8,7 +8,7 @@ The Secretary shall not make a grant to a State under section 300ff–21 of this
 
 The application submitted under subsection (a) of this section shall contain—
 
-&emsp;(1) a detailed description of the HIV-related services provided in the State to individuals and families with HIV/AIDS during the yearpreceding the year for which the grant is requested, and the number of individuals and families receiving such services, that shall include—
+&emsp;(1) a detailed description of the HIV-related services provided in the State to individuals and families with HIV/AIDS during the year preceding the year for which the grant is requested, and the number of individuals and families receiving such services, that shall include—
 
 &emsp;&emsp;(A) a description of the types of programs operated or funded by the State for the provision of HIV-related services during the year preceding the year for which the grant is requested and the methods utilized by the State to finance such programs;
 
@@ -70,7 +70,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(G) includes key outcomes to be measured by all entities in the State receiving assistance under this subchapter; and <sup>2</sup>
 
-&emsp;(6) an assurance that the public health agency administering the grant for the State will periodically convene a meeting of individuals with HIV/AIDS, members of a Federally recognized Indian tribe as represented in the State, representatives of grantees under each partunder this subchapter, providers, and public agency representatives for the purpose of developing a statewide coordinated statement of need; and
+&emsp;(6) an assurance that the public health agency administering the grant for the State will periodically convene a meeting of individuals with HIV/AIDS, members of a Federally recognized Indian tribe as represented in the State, representatives of grantees under each part under this subchapter, providers, and public agency representatives for the purpose of developing a statewide coordinated statement of need; and
 
 &emsp;(7) an assurance by the State that—
 
@@ -78,7 +78,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(B) the State will—
 
-&emsp;&emsp;&emsp;(i) to the maximum extent practicable, ensure that HIV-related health care and support services delivered pursuant to a program established with assistance provided under section 300ff–21 of this title will be provided without regard to the ability of the individual to pay for such services and without regard to the current or past health condition of the individual with HIV/AIDS;
+&emsp;&emsp;&emsp;(i) to the maximum extent practicable, ensure that HIV-related health care and support services delivered pursuant to aprogram established with assistance provided under section 300ff–21 of this title will be provided without regard to the ability of the individual to pay for such services and without regard to the current or past health condition of the individual with HIV/AIDS;
 
 &emsp;&emsp;&emsp;(ii) ensure that such services will be provided in a setting that is accessible to low-income individuals with HIV/AIDS;
 
@@ -122,7 +122,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(D) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 
-&emsp;&emsp;(E) in the case of individuals with an income greater than 300 percent of the official poverty line, the provider will not, for anycalendar year, impose charges in an amount exceeding 10 percent of the annual gross income of the individual involved.
+&emsp;&emsp;(E) in the case of individuals with an income greater than 300 percent of the official poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 10 percent of the annual gross income of the individual involved.
 
 #### (2) Assessment of charge
 
@@ -130,7 +130,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules regarding limitation on the maximum amount of charges; and
 
-&emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing the amount of the charge, subject to such provisions.
+&emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing theamount of the charge, subject to such provisions.
 
 #### (3) Applicability of limitation on amount of charge
 

@@ -32,7 +32,7 @@
 
 > &emsp;he shall recommend such action to the Secretary of the Interior, and the Secretary of the Interior, if he concurs in the recommendation, shall implement such action; and
 
-&emsp;(C) the Secretary of the Interior may not list or remove from any list any such species,and may not change the status of any such species which are listed, without a prior favorable determination made pursuant to this section by the Secretary of Commerce.
+&emsp;(C) the Secretary of the Interior may not list or remove from any list any such species, and may not change the status of any such species which are listed, without a prior favorable determination made pursuant to this section by the Secretary of Commerce.
 
 (3)(A) The Secretary, by regulation promulgated in accordance with subsection (b) of this section and to the maximum extent prudent and determinable—
 
@@ -78,7 +78,7 @@
 
 (ii) Any negative finding described in subparagraph (A) and any finding described in subparagraph (B)(i) or (iii) shall be subject to judicial review.
 
-(iii) The Secretary shall implement a system to monitor effectively the status of all species with respect to which a finding is made under subparagraph (B)(iii) and shall make prompt useof the authority under paragraph 7 <sup>1</sup> to prevent a significant risk to the well being of any such species.
+(iii) The Secretary shall implement a system to monitor effectively the status of all species with respect to which a finding is made under subparagraph (B)(iii) and shall make prompt use of the authority under paragraph 7 <sup>1</sup> to prevent a significant risk to the well being of any such species.
 
 (D)(i) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to revise a critical habitat designation, the Secretary shall make a finding as to whether the petition presents substantial scientific information indicating that the revision may be warranted. The Secretary shall promptly publish such finding in the Federal Register.
 
@@ -162,7 +162,7 @@
 
 #### (d) Protective regulations
 
-Whenever any species is listed as a threatened species pursuant to subsection (c) of this section, the Secretary shall issue such regulations as he deems necessary and advisable to provide for the conservation of such species. The Secretary may by regulation prohibit with respect to any threatened species any act prohibited under section 1538(a)(1) of this title, in the case of fish or wildlife, or section 1538(a)(2) of this title, in the case of plants, with respect to endangered species; except that with respect to the taking of resident species of fish or wildlife, such regulations shall apply in any State which has entered into a cooperative agreement pursuant to section 1535(c) of this title only to the extent that such regulations have also been adopted by such State.
+Whenever any species is listed as a threatened species pursuant to subsection (c) of this section, the Secretary shall issue such regulations as he deems necessary and advisable to provide for the conservation of such species. The Secretary may by regulation prohibit with respectto any threatened species any act prohibited under section 1538(a)(1) of this title, in the case of fish or wildlife, or section 1538(a)(2) of this title, in the case of plants, with respect to endangered species; except that with respect to the taking of resident species of fish or wildlife, such regulations shall apply in any State which has entered into a cooperative agreement pursuant to section 1535(c) of this title only to the extent that such regulations have also been adopted by such State.
 
 #### (e) Similarity of appearance cases
 
@@ -218,7 +218,7 @@ The Secretary shall establish, and publish in the Federal Register, agency guide
 
 #### (i) Submission to State agency of justification for regulations inconsistent with State agency's comments or petition
 
-If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) of this section files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3) of this section, the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
+If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) of this section files comments disagreeing with all or part of the proposed regulation, and theSecretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3) of this section, the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
 
 (Pub. L. 93–205, §4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, §1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, §3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, §2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307; Pub. L. 108–136, div. A, title III, §318, Nov. 24, 2003, 117 Stat. 1433.)
 
@@ -306,7 +306,7 @@ Subsec. (g). Pub. L. 95–632, §11(5), added subsec. (g).
 
 Section 2(b) of Pub. L. 97–304 provided that:
 
-“(1) Any petition filed under section 4(c)(2) of the Endangered Species Act of 1973 \[subsec. (c)(2) of this section\] (as in effect on the day before the date of the enactment of this Act \[Oct. 13, 1982\]) and any regulation proposed under section 4(f) of such Act of 1973 \[subsec. (f) of this section\] (as in effect on such day) that is pending on such date of enactment \[Oct. 13, 1982\] shall be treated as having been filed or proposed on such date of enactment under section 4(b) of such Act of 1973 \[subsec. (b) of this section\] (as amended by subsection (a));and the procedural requirements specified in such section 4(b) \[subsec. (b) of this section\] (as so amended) regarding such petition or proposed regulation shall be deemed to be complied with to the extent that like requirements under such section 4 \[this section\] (as in effect before the date of the enactment of this Act) were complied with before such date of enactment.
+“(1) Any petition filed under section 4(c)(2) of the Endangered Species Act of 1973 \[subsec. (c)(2) of this section\] (as in effect on the day before the date of the enactment of this Act \[Oct. 13, 1982\]) and any regulation proposed under section 4(f) of such Act of 1973 \[subsec. (f) of this section\] (as in effect on such day) that is pending on such date of enactment \[Oct. 13, 1982\] shall be treated as having been filed or proposed on such date of enactment under section 4(b) of such Act of 1973 \[subsec. (b) of this section\] (as amended by subsection (a)); and the procedural requirements specified in such section 4(b) \[subsec. (b) of this section\] (as so amended) regarding such petition or proposed regulation shall be deemed to be complied with to the extent that like requirements under such section 4 \[this section\] (as in effect before the date of the enactment of this Act) were complied with before such date of enactment.
 
 “(2) Any regulation proposed after, or pending on, the date of the enactment of this Act \[Oct. 13, 1982\] to designate critical habitat for a species that was determined before such date of enactment to be endangered or threatened shall be subject to the procedures set forth in section 4 of such Act of 1973 \[this section\] (as amended by subsection (a)) for regulations proposing revisions to critical habitat instead of those for regulations proposing the designation of critical habitat.
 
@@ -316,7 +316,7 @@ Section 2(b) of Pub. L. 97–304 provided that:
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(7)”.</i>
 

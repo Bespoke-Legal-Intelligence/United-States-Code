@@ -20,7 +20,7 @@
 
 &emsp;(5) provide the necessary coordination, data, and assistance for the preparation of a single integrated, coherent, and multiagency budget request for Arctic research as provided for in section 4109 of this title;
 
-&emsp;(6) facilitate cooperation between the Federal Government and State and local governments in Arctic research, and recommend the undertaking of neglected areas of research in accordance with the findings and purposes of this chapter;
+&emsp;(6) facilitate cooperation between the Federal Government and State and local governments in Arctic research, and recommend theundertaking of neglected areas of research in accordance with the findings and purposes of this chapter;
 
 &emsp;(7) coordinate and promote cooperative Arctic scientific research programs with other nations, subject to the foreign policy guidance of the Secretary of State;
 
@@ -38,7 +38,7 @@
 
 &emsp;(1) a statement of the activities and accomplishments of the Interagency Committee since its last report; and
 
-&emsp;(2) a statement detailing with particularity the recommendations of the Commission with respect to Federal interagency activities inArctic research and the disposition and responses to those recommendations.
+&emsp;(2) a statement detailing with particularity the recommendations of the Commission with respect to Federal interagency activities in Arctic research and the disposition and responses to those recommendations.
 
 (Pub. L. 98–373, title I, §108, July 31, 1984, 98 Stat. 1246; Pub. L. 101–609, §6, Nov. 16, 1990, 104 Stat. 3126.)
 

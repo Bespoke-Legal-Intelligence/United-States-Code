@@ -28,7 +28,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (B) Violations of religious freedom
 
-&emsp;&emsp;An assessment and description of the nature and extent of violations of religious freedom in each foreign country, including persecution of one religious group by another religious group, religious persecution by governmental and nongovernmental entities, persecution targeted at individuals or particular denominations or entire religions, the existence of government policies violating religious freedom, including policies that discriminate against particular religious groups or members of such groups, and the existence of government policies concerning—
+&emsp;&emsp;An assessment and description of the nature and extent of violations of religious freedom in each foreign country, including persecution of one religious group by another religious group, religious persecutionby governmental and nongovernmental entities, persecution targeted at individuals or particular denominations or entire religions, the existence of government policies violating religious freedom, including policies that discriminate against particular religious groups or members of such groups, and the existence of government policies concerning—
 
 &emsp;&emsp;&emsp;(i) limitations or prohibitions on, or lack of availability of, openly conducted, organized religious services outside of the premises of foreign diplomatic missions or consular posts; and
 
@@ -64,7 +64,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (2) Classified addendum
 
-&emsp;If the Secretary of State determines that it is in the national security interests of the United States or is necessary for the safety of individuals to be identified in the Annual Report or is necessary to further the purposes of this chapter, any information required byparagraph (1), including measures or actions taken by the United States, may be summarized in the Annual Report or the Executive Summary and submitted in more detail in a classified addendum to the Annual Report or the Executive Summary.
+&emsp;If the Secretary of State determines that it is in the national security interests of the United States or is necessary for the safety of individuals to be identified in the Annual Report or is necessary to further the purposes of this chapter, any information required by paragraph (1), including measures or actions taken by the United States, may be summarized in the Annual Report or the Executive Summary and submitted in more detail in a classified addendum to the Annual Report or the Executive Summary.
 
 #### (c) Preparation of reports regarding violations of religious freedom
 

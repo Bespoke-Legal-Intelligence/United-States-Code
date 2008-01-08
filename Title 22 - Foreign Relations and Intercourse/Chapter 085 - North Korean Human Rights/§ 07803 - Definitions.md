@@ -32,3 +32,7 @@ In this chapter:
 
 (Pub. L. 108–333, §5, Oct. 18, 2004, 118 Stat. 1290.)
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

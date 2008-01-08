@@ -34,7 +34,7 @@ For the period of time determined under subsection (b) of this section, the Secr
 
 #### (1) Lots not appraised since September 30, 1995
 
-&emsp;For a lot that has not been appraised since September 30, 1995, the Secretary shall chargefees in accordance with subsection (a)(2)(A) of this section until—
+&emsp;For a lot that has not been appraised since September 30, 1995, the Secretary shall charge fees in accordance with subsection (a)(2)(A) of this section until—
 
 &emsp;&emsp;(A) a base cabin user fee is determined in accordance with—
 

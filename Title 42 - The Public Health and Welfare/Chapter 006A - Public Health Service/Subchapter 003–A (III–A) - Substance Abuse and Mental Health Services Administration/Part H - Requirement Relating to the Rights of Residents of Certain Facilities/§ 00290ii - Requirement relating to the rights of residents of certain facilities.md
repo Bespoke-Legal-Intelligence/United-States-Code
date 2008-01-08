@@ -10,7 +10,7 @@ Restraints and seclusion may only be imposed on a resident of a facility describ
 
 &emsp;(1) the restraints or seclusion are imposed to ensure the physical safety of the resident, a staff member, or others; and
 
-&emsp;(2) the restraints or seclusion are imposed only upon the written order of a physician, or other licensed practitioner permitted by theState and the facility to order such restraint or seclusion, that specifies the duration and circumstances under which the restraints are to be used (except in emergency circumstances specified by the Secretary until such an order could reasonably be obtained).
+&emsp;(2) the restraints or seclusion are imposed only upon the written order of a physician, or other licensed practitioner permitted by the State and the facility to order such restraint or seclusion, that specifies the duration and circumstances under which the restraints are to be used (except in emergency circumstances specified by the Secretary until such an order could reasonably be obtained).
 
 #### (c) Current law
 
@@ -24,7 +24,7 @@ In this section:
 
 &emsp;The term “restraints” means—
 
-&emsp;&emsp;(A) any physical restraint that is a mechanical or personal restriction that immobilizes or reduces the ability of an individual to move his or her arms, legs, or head freely, not including devices, such as orthopedically prescribed devices, surgical dressings or bandages, protective helmets, or any other methods that involves the physical holding of a resident for the purpose of conducting routine physical examinations or tests or to protect the resident from falling out of bed or to permit the resident to participate in activities without the risk of physical harm to the resident (such term does not include a physical escort); and
+&emsp;&emsp;(A) any physical restraint that is a mechanical or personal restriction that immobilizes or reduces the ability of an individual to move his or her arms, legs, or head freely,not including devices, such as orthopedically prescribed devices, surgical dressings or bandages, protective helmets, or any other methods that involves the physical holding of a resident for the purpose of conducting routine physical examinations or tests or to protect the resident from falling out of bed or to permit the resident to participate in activities without the risk of physical harm to the resident (such term does not include a physical escort); and
 
 &emsp;&emsp;(B) a drug or medication that is used as a restraint to control behavior or restrict the resident's freedom of movement that is not a standard treatment for the resident's medical or psychiatric condition.
 

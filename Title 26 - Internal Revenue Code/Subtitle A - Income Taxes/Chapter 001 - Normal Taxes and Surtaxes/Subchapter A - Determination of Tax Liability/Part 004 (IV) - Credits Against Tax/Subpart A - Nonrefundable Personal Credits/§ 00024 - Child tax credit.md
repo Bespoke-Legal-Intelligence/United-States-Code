@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the credit which would be allowed under this section without regard to this subsection and the limitation under section 26(a)(2) or subsection (b)(3), as the case may be, or
 
-&emsp;&emsp;(B) the amount by which the aggregate amount of credits allowed by this subpart (determined without regard to this subsection) would increase if the limitation imposed by section 26(a)(2) or subsection (b)(3), as the case may be, were increased by the excess (if any) of—
+&emsp;&emsp;(B) the amount by which the aggregate amount of credits allowed by this subpart (determined without regard to this subsection) would increase if the limitation imposed by section 26(a)(2) or subsection (b)(3), as the case may be, were increased by the greater of—
 
 &emsp;&emsp;&emsp;(i) 15 percent of so much of the taxpayer's earned income (within the meaning of section 32) which is taken into account in computing taxable income for the taxable year as exceeds $10,000, or
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the taxpayer's social security taxes for the taxable year, over
 
-&emsp;&emsp;&emsp;&emsp;(II) the credit allowed under section <sup>1</sup> for the taxable year.
+&emsp;&emsp;&emsp;&emsp;(II) the credit allowed under section 32 for the taxable year.
 
 > &emsp;The amount of the credit allowed under this subsection shall not be treated as a credit allowed under this subpart and shall reduce the amount of credit otherwise allowable under subsection (a) without regard to section 26(a)(2) or subsection (b)(3), as the case may be. For purposes of subparagraph (B), any amount excluded from gross income by reason of section 112 shall be treated as earned income which is taken into account in computing taxable income for the taxable year.
 
@@ -102,11 +102,11 @@ No credit shall be allowed under this section to a taxpayer with respect to any 
 
 Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 
-(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613.)
+(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488.)
 
-#### Child Tax Credit Adjustment for Taxable Years Beginning in 2007
+#### Child Tax Credit Adjustment for Taxable Years Beginning in 2008
 
-<i>For inflation adjustment of value in subsection (d)(1)(B)(i) of this section used in determining refundable amount for taxable years beginning in 2007, see section 3.04 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of value in subsection (d)(1)(B)(i) of this section used in determining refundable amount for taxable years beginning in 2008, see section 3.04 of Revenue Pro</i><i>cedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -120,9 +120,13 @@ Except in the case of a taxable year closed by reason of the death of the taxpay
 
 #### Prior Provisions
 
-A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 85 Stat. 560, §41; amended Pub. L. 93–625, §§11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, §503(b)(4), title XIX, §§1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, §113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, §202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §24and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
+A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 85 Stat. 560, §41; amended Pub. L. 93–625, §§11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, §503(b)(4), title XIX, §§1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, §113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, §202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §24 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
+
+2007—Subsec. (d)(1)(B). Pub. L. 110–172, §11(c)(1)(A), substituted “the greater of” for “the excess (if any) of” in introductory provisions.
+
+Subsec. (d)(1)(B)(ii)(II). Pub. L. 110–172, §11(c)(1)(B), substituted “section 32” for “section”.
 
 2005—Subsec. (b)(3). Pub. L. 109–135, §402(i)(3)(B)(i), (H), temporarily substituted “In the case of a taxable year to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions. See Effective and Termination Dates of 2005 Amendment note below.
 
@@ -192,7 +196,7 @@ Subsec. (d). Pub. L. 107–16, §§201(c)(1), 901, temporarily amended subsec. h
 
 Subsec. (d)(1). Pub. L. 107–16, §§201(b)(2)(C)(i), 901, temporarily substituted “subsection (b)(3)” for “section 26(a)” wherever appearing in subsec. (d), as amended by Pub. L. 107–16, §201(c). See Effective and Termination Dates of 2001 Amendments note below.
 
-Subsec. (d)(1)(B). Pub. L. 107–16, §§201(b)(2)(C)(ii), 901, temporarily substituted “amount of credit allowed bythis section” for “aggregate amount of credits allowed by this subpart” in subpar. (B) as amended by Pub. L. 107–16, §201(c). See Effective and Termination Dates of 2001 Amendments note below.
+Subsec. (d)(1)(B). Pub. L. 107–16, §§201(b)(2)(C)(ii), 901, temporarily substituted “amount of credit allowed by this section” for “aggregate amount of credits allowed by this subpart” in subpar. (B) as amended by Pub. L. 107–16, §201(c). See Effective and Termination Dates of 2001 Amendments note below.
 
 Subsec. (d)(2). Pub. L. 107–16, §§201(d), 901, temporarily redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “For taxable years beginning after December 31, 2001, the credit determined under this subsection for the taxable year shall be reduced by the excess (if any) of—
 
@@ -231,6 +235,10 @@ Subsec. (d)(3). Pub. L. 105–206, §6003(a)(1)(A), (B), (2), redesignated par. 
 Subsec. (d)(4). Pub. L. 105–206, §6003(a)(1)(A), struck out heading and text of par. (4). Text read as follows: “If the amount of the credit under paragraph (1)(B) exceeds the amount of the credit under paragraph (1)(A), such excess shall be treated as a credit to which subpart C applies. The rule of section 32(h) shall apply to such excess.”
 
 Subsec. (d)(5). Pub. L. 105–206, §6003(a)(1)(B), redesignated par. (5) as (3).
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–172, §11(c)(2), Dec. 29, 2007, 121 Stat. 2489, provided that: “The amendments made by this subsection \[amending this section\] shall take effect as if included in the provisions of the Gulf Opportunity Zone Act of 2005 \[Pub. L. 109–135\] to which they relate.”
 
 #### Effective and Termination Dates of 2005 Amendment
 
@@ -309,6 +317,4 @@ Section 101(e) of Pub. L. 105–34 provided that: “The amendments made by this
 #### Refunds Disregarded in Administration of Federal and Federally Assisted Programs
 
 Pub. L. 107–16, title II, §203, June 7, 2001, 115 Stat. 49, provided that: “Any payment considered to have been made to any individual by reason of section 24 of the Internal Revenue Code of 1986, as amended by section 201, shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following month, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.”
-
-<i><sup>1</sup></i><i> So in original.</i>
 

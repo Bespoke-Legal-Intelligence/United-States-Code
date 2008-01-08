@@ -14,7 +14,7 @@ On request of a non-Federal project entity with respect to a proposed rural wate
 
 &emsp;(3) provide a grant to, or enter into a cooperative agreement with, the non-Federal project entity to conduct an appraisal investigation, if the Secretary determines that—
 
-&emsp;&emsp;(A) the non-Federal project entity is qualified to complete the appraisal investigationin accordance with the criteria published under section 2402(c) of this title; and
+&emsp;&emsp;(A) the non-Federal project entity is qualified to complete the appraisal investigation in accordance with the criteria published under section 2402(c) of this title; and
 
 &emsp;&emsp;(B) using the non-Federal project entity to conduct the appraisal investigation is a cost-effective alternative for completing the appraisal investigation.
 

@@ -20,3 +20,5 @@ Part A—General Administrative Provisions
 - [&sect; 00379b - Consolidated administrative and laboratory facility](%C2%A7%2000379b%20-%20Consolidated%20administrative%20and%20laboratory%20facility.md)
 - [&sect; 00379c - Transferred](%C2%A7%2000379c%20-%20Transferred.md)
 - [&sect; 00379d - Automation of Food and Drug Administration](%C2%A7%2000379d%20-%20Automation%20of%20Food%20and%20Drug%20Administration.md)
+- [&sect; 00379d&#8211;1 - Conflicts of interest](%C2%A7%2000379d%E2%80%931%20-%20Conflicts%20of%20interest.md)
+- [&sect; 00379d&#8211;2 - Policy on the review and clearance of scientific articles published by FDA employees](%C2%A7%2000379d%E2%80%932%20-%20Policy%20on%20the%20review%20and%20clearance%20of%20scientific%20articles%20published%20by%20FDA%20employees.md)

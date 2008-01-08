@@ -36,7 +36,7 @@ For purposes of this subchapter:
 
 #### (9) Record
 
-&emsp;The term “record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+&emsp;The term “record” means information that is inscribed on a tangible medium or that isstored in an electronic or other medium and is retrievable in perceivable form.
 
 #### (10) Requirement
 

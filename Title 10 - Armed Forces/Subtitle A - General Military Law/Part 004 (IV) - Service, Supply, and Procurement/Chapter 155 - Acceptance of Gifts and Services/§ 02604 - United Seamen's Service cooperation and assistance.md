@@ -14,7 +14,7 @@
 
 (d) Supplies of the United Seamen's Service, including gifts for the use of merchant seamen, may be transported at the expense of the United States, if it is determined under regulations prescribed under subsection (a) that they are necessary to the cooperation and assistance provided under this section.
 
-(e) Where practicable, the President shall also make arrangements to provide for convertibility of local currencies for the United Seamen's Service, in connection with its activities under subsection (a).
+(e) Where practicable, the President shall also make arrangements to provide for convertibility of local currencies for the United Seamen'sService, in connection with its activities under subsection (a).
 
 (f) For the purposes of this section, employees of the United Seamen's Service may not be considered as employees of the United States.
 
@@ -22,7 +22,7 @@
 
 #### Short Title
 
-Section 1 of Pub. L. 91–603 provided: “That this Act \[enacting this section, amending sections 1151, 1152,1171, and 1223 of Title 46, Appendix, Shipping, and enacting provisions set out as a note under this section\] may be cited as the ‘Seamen's Service Act’.”
+Section 1 of Pub. L. 91–603 provided: “That this Act \[enacting this section, amending sections 1151, 1152, 1171, and 1223 of Title 46, Appendix, Shipping, and enacting provisions set out as a note under this section\] may be cited as the ‘Seamen's Service Act’.”
 
 #### Congressional Declaration of Purpose
 

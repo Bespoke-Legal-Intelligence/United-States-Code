@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-It shall be unlawful for any person to knowingly acquire, receive, or otherwise transfer any human organ for valuable consideration for use in human transplantation if the transfer affects interstate commerce.
+It shall be unlawful for any person to knowingly acquire, receive, or otherwise transfer any human organ for valuable consideration for use in human transplantation if the transfer affects interstate commerce. The preceding sentence does not apply with respect to human organ paired donation.
 
 #### (b) Penalties
 
@@ -18,7 +18,21 @@ For purposes of subsection (a) of this section:
 
 &emsp;(3) The term “interstate commerce” has the meaning prescribed for it by section 321(b) of title 21.
 
-(Pub. L. 98–507, title III, §301, Oct. 19, 1984, 98 Stat. 2346; Pub. L. 100–607, title IV, §407, Nov. 4, 1988, 102 Stat. 3116.)
+&emsp;(4) The term “human organ paired donation” means the donation and receipt of human organs under the following circumstances:
+
+&emsp;&emsp;(A) An individual (referred to in this paragraph as the “first donor”) desires to make a living donation of a human organ specifically to a particular patient (referred to in this paragraph as the “first patient”), but such donor is biologically incompatible as a donor for such patient.
+
+&emsp;&emsp;(B) A second individual (referred to in this paragraph as the “second donor”) desires to make a living donation of a human organ specifically to a second particular patient (referred to in this paragraph as the “second patient”), but such donor is biologically incompatible as a donor for such patient.
+
+&emsp;&emsp;(C) Subject to subparagraph (D), the first donor is biologically compatible as a donor of a human organ for the second patient, and the second donor is biologically compatible as a donor of a human organ for the first patient.
+
+&emsp;&emsp;(D) If there is any additional donor-patient pair as described in subparagraph (A) or (B), each donor in the group of donor-patient pairs is biologically compatible as a donor of a human organ for a patient in such group.
+
+&emsp;&emsp;(E) All donors and patients in the group of donor-patient pairs (whether 2 pairs or more than 2 pairs) enter into a single agreement to donate and receive such human organs, respectively, according to such biological compatibility in the group.
+
+&emsp;&emsp;(F) Other than as described in subparagraph (E), no valuable consideration is knowingly acquired, received, or otherwise transferred with respect to the human organs referred to in such subparagraph.
+
+(Pub. L. 98–507, title III, §301, Oct. 19, 1984, 98 Stat. 2346; Pub. L. 100–607, title IV, §407, Nov. 4, 1988, 102 Stat. 3116; Pub. L. 110–144, §2, Dec. 21, 2007, 121 Stat. 1813.)
 
 #### Codification
 
@@ -26,5 +40,13 @@ Section was enacted as part of the National Organ Transplant Act, and not as par
 
 #### Amendments
 
+2007—Subsec. (a). Pub. L. 110–144, §2(1), inserted at end “The preceding sentence does not apply with respect to human organ paired donation.”
+
+Subsec. (c)(4). Pub. L. 110–144, §2(2), added par. (4).
+
 1988—Subsec. (c)(1). Pub. L. 100–607 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘human organ’ means the human kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin, and any other human organ specified by the Secretary of Health and Human Services by regulation.”
+
+#### No Impact on Social Security Trust Fund
+
+Pub. L. 110–144, §4, Dec. 21, 2007, 121 Stat. 1814, provided that: “Nothing in this Act \[see Short Title of 2007 Amendment note set out under section 201 of this title\] (or an amendment made by this Act) shall be construed to alter or amend the Social Security Act (42 U.S.C. 301 et seq.) (or any regulation promulgated under that Act).”
 

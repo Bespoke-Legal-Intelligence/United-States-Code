@@ -32,7 +32,7 @@ Amendment by Pub. L. 93–499 effective Dec. 1, 1974, and applicable only with r
 
 Section 3(d)(2) of Pub. L. 93–499, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(A) Any person who, on December 1, 1974, is engaged in an activity which makes him liable for payment ofthe tax imposed by section 4411 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on such date) shall be treated as commencing such activity on such date for purposes of such section and section 4901 of such Code.
+“(A) Any person who, on December 1, 1974, is engaged in an activity which makes him liable for payment of the tax imposed by section 4411 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on such date) shall be treated as commencing such activity on such date for purposes of such section and section 4901 of such Code.
 
 “(B) Any person who, before December 1, 1974.—
 

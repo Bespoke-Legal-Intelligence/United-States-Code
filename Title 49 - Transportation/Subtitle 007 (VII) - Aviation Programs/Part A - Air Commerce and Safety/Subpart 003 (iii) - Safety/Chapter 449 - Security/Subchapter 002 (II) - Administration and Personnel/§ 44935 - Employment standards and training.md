@@ -88,7 +88,7 @@ Screener requirements.—Notwithstanding any provision of law, an individual may
 
 &emsp;&emsp;(A) The individual shall possess a high school diploma, a general equivalency diploma, or experience that the Under Secretary has determined to be sufficient for the individual to perform the duties of the position.
 
-&emsp;&emsp;(B) The individual shall possess basic aptitudes and physical abilities, including color perception, visual and aural acuity, physical coordination, and motor skills, to the following standards:
+&emsp;&emsp;(B) The individual shall possess basic aptitudes and physical abilities, including colorperception, visual and aural acuity, physical coordination, and motor skills, to the following standards:
 
 &emsp;&emsp;&emsp;(i) Screeners operating screening equipment shall be able to distinguish on the screening equipment monitor the appropriate imaging standard specified by the Under Secretary.
 

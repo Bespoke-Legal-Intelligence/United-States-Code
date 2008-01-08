@@ -48,7 +48,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 &emsp;&emsp;&emsp;&emsp;(II) an applicable corporation has a corporate equity reduction interest loss for any loss limitation year ending after August 2, 1989,
 
-&emsp;&emsp;&nbsp;then the corporate equity reduction interest loss shall be a net operating loss carryback and carryover to the taxable years described in subparagraph (A), except that such loss shall not be carried back to a taxable year preceding the taxable year in which the corporate equity reduction transaction occurs.
+&emsp;&emsp;&nbsp;then the corporate equity reduction interest loss shall be a net operating loss carryback and carryover to the taxable years described in subparagraph (A), except that such loss shall not be carried back to a taxable year preceding the taxable year inwhich the corporate equity reduction transaction occurs.
 
 #### (ii) Loss limitation year
 
@@ -72,7 +72,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subparagraph (A)(i) shall be applied by substituting “3 taxable years” for “2 taxable years” with respect to the portion of the net operating loss for the taxable yearwhich is an eligible loss with respect to the taxpayer.
+&emsp;&emsp;&emsp;Subparagraph (A)(i) shall be applied by substituting “3 taxable years” for “2 taxable years” with respect to the portion of the net operating loss for the taxable year which is an eligible loss with respect to the taxpayer.
 
 #### (ii) Eligible loss
 
@@ -136,7 +136,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 #### (II) Pollution control facility capital expenditures
 
-&emsp;&emsp;&emsp;&emsp;The term “pollution control facility capital expenditures” means any expenditure, chargeable to capital account, made by an electric utility company (as defined in section 2(3) of the Public Utility Holding Company Act <sup>1</sup> (15 U.S.C. 79b(3)), as in effect on the day before the date of the enactment of the Energy Tax Incentives Act of 2005) which is attributable to a facility which will qualify as a certified pollution control facility as determined under section 169(d)(1) by striking “before January 1, 1976,” and by substituting “an identifiable” for “a new identifiable”. Such term shall not include any expenditure which may be refunded or the purpose of which may bemodified at the option of the taxpayer so as to cease to be treated as an expenditure within the meaning of such term.
+&emsp;&emsp;&emsp;&emsp;The term “pollution control facility capital expenditures” means any expenditure, chargeable to capital account, made by an electric utility company (as defined in section 2(3) of the Public Utility Holding Company Act <sup>1</sup> (15 U.S.C. 79b(3)), as in effect on the day before the date of the enactment of the Energy Tax Incentives Act of 2005) which is attributable to a facility which will qualify as a certified pollution control facility as determined under section 169(d)(1) by striking “before January 1, 1976,” and by substituting “an identifiable” for “a new identifiable”. Such term shall not include any expenditure which may be refunded or the purpose of which may be modified at the option of the taxpayer so as to cease to be treated as an expenditure within the meaning of such term.
 
 #### (2) Amount of carrybacks and carryovers
 
@@ -306,7 +306,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “allocable interest deductions” means deductions allowed under this chapterfor interest on the portion of any indebtedness allocable to a corporate equity reduction transaction.
+&emsp;&emsp;The term “allocable interest deductions” means deductions allowed under this chapter for interest on the portion of any indebtedness allocable to a corporate equity reduction transaction.
 
 #### (B) Method of allocation
 
@@ -374,7 +374,7 @@ For purposes of this section—
 
 #### (i) Plans to acquire stock
 
-&emsp;&emsp;&emsp;All plans referred to in subparagraph (B) by any corporation (or group of persons acting in concert with such corporation) with respect to another corporation shall be treated as 1 plan.
+&emsp;&emsp;&emsp;All plans referred to in subparagraph (B) by any corporation (or group of persons acting in concert with such corporation)with respect to another corporation shall be treated as 1 plan.
 
 #### (ii) Acquisitions during 24-month period
 
@@ -402,7 +402,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of subsection (b)(2)—
 
-&emsp;&emsp;&emsp;(i) a corporate equity reduction interest loss shall be treated in a manner similarto the manner in which a specified liability loss is treated, and
+&emsp;&emsp;&emsp;(i) a corporate equity reduction interest loss shall be treated in a manner similar to the manner in which a specified liability loss is treated, and
 
 &emsp;&emsp;&emsp;(ii) in determining the net operating loss deduction for any prior taxable year referred to in the 3rd sentence of subsection (b)(2), the portion of any net operating loss which may not be carried to such taxable year under subsection (b)(1)(E) shall not be taken into account.
 
@@ -450,11 +450,11 @@ Any taxpayer entitled to a 5-year carryback under subsection (b)(1)(H) from any 
 
 &emsp;&emsp;<b>(2) For special limitation on net operating loss carryovers in case of a corporate change of ownership, see section 382.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 63; Pub. L. 85–866, title I, §§14(a), (b), 64(b), title II, §203(a), (b), Sept. 2, 1958, 72 Stat. 1611, 1656, 1678; Pub. L. 87–710, §1, Sept. 27, 1962, 76 Stat. 648; Pub. L. 87–792, §7(f), Oct. 10, 1962, 76 Stat. 829; Pub. L. 87–794, title III, §317(b), Oct. 11, 1962, 76 Stat. 889; Pub. L. 88–272, title II, §§210(a), (b), 234(b)(5), Feb. 26, 1964, 78 Stat. 47, 48, 115; Pub. L. 90–225, §3(a), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title IV, §431(b), Dec. 30, 1969, 83 Stat. 619; Pub. L. 91–677, §2(a)–(c), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 94–455, title VIII, §806(a)–(c), title X, §1052(c)(3), title XVI, §1606(b), (c), title XIX, §§1901(a)(29), 1906(b)(13)(A), title XXI, §2126, Oct. 4, 1976, 90 Stat. 1598, 1648, 1755, 1756, 1769, 1834, 1920; Pub. L. 95–30, title I, §102(b)(2), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title III, §371(a), (b), title VI, §601(b)(1), title VII, §§701(d)(1), 703(p)(1), Nov. 6, 1978, 92 Stat. 2859, 2896, 2900, 2943; Pub. L. 96–222, title I, §§103(a)(15), 106(a)(1), (6), (7), Apr. 1, 1980, 94 Stat. 214, 221; Pub. L. 96–595, §1(a), Dec. 24, 1980, 94 Stat. 3464; Pub. L. 97–34, title II, §207(a), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(22), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–362, title I, §102(a)–(c), Oct. 25, 1982, 96 Stat. 1727, 1728; Pub. L. 98–369, div. A, title I, §§91(d), 177(c), title IV, §491(d)(5), title VII, §722(a)(4), July 18, 1984, 98 Stat. 606, 710, 849, 973; Pub. L. 99–514, title I, §104(b)(4), title III, §301(b)(3), title IX, §§901(d)(4)(B), 903(a), (b), title XIII, §1303(b)(1), (2), title XVIII, §1899A(6), Oct. 22, 1986, 100 Stat. 2105, 2217, 2380, 2383, 2658, 2958; Pub. L. 100–647, title I, §§1003(a)(1), 1009(c), Nov. 10, 1988, 102 Stat. 3382, 3449; Pub. L. 101–239, title VII, §7211(a), (b), Dec. 19, 1989, 103 Stat. 2342, 2343; Pub. L. 101–508, title XI, §§11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), Nov. 5, 1990, 104 Stat. 1388–465, 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; Pub. L. 103–66, title XIII, §13113(d)(1), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–188, title I, §§1702(h)(2), (16), 1704(t)(5), (30), Aug. 20, 1996, 110 Stat. 1873, 1874, 1887, 1889; Pub. L. 105–34, title X, §1082(a), (b), Aug. 5, 1997, 111 Stat. 950; Pub. L. 105–277, div. J, title II, §2013(a)–(c), title III, §3004(a), title IV, §§4003(h), 4004(a), Oct. 21, 1998, 112 Stat. 2681–902, 2681–905, 2681–910; Pub. L. 107–147, title I, §102(a), (b), title IV, §417(8), Mar. 9, 2002, 116 Stat. 25, 56; Pub. L. 108–311, title IV, §403(b)(1), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–58, title XIII, §1311, Aug. 8, 2005, 119 Stat. 1009; Pub. L. 109–135, title IV, §§402(f), 403(a)(17), Dec. 21, 2005, 119 Stat. 2611, 2619.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 63; Pub. L. 85–866, title I, §§14(a), (b), 64(b), title II, §203(a), (b), Sept. 2, 1958, 72 Stat. 1611, 1656, 1678; Pub. L. 87–710, §1, Sept. 27, 1962, 76 Stat. 648; Pub. L. 87–792, §7(f), Oct. 10, 1962, 76 Stat. 829; Pub. L. 87–794, title III, §317(b), Oct. 11, 1962, 76 Stat. 889; Pub. L. 88–272, title II, §§210(a), (b), 234(b)(5), Feb. 26, 1964, 78 Stat. 47, 48, 115; Pub. L. 90–225, §3(a), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title IV, §431(b), Dec. 30, 1969, 83 Stat. 619; Pub. L. 91–677, §2(a)–(c), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 94–455, title VIII, §806(a)–(c), title X, §1052(c)(3), title XVI, §1606(b), (c), title XIX, §§1901(a)(29), 1906(b)(13)(A), title XXI, §2126, Oct. 4, 1976, 90 Stat. 1598, 1648, 1755, 1756, 1769, 1834, 1920; Pub. L. 95–30, title I, §102(b)(2), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title III, §371(a), (b), title VI, §601(b)(1), title VII, §§701(d)(1), 703(p)(1), Nov. 6, 1978, 92 Stat. 2859, 2896, 2900, 2943; Pub. L. 96–222, title I, §§103(a)(15), 106(a)(1),\(6), (7), Apr. 1, 1980, 94 Stat. 214, 221; Pub. L. 96–595, §1(a), Dec. 24, 1980, 94 Stat. 3464; Pub. L. 97–34, title II, §207(a), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(22), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–362, title I, §102(a)–(c), Oct. 25, 1982, 96 Stat. 1727, 1728; Pub. L. 98–369, div. A, title I, §§91(d), 177(c), title IV, §491(d)(5), title VII, §722(a)(4), July 18, 1984, 98 Stat. 606, 710, 849, 973; Pub. L. 99–514, title I, §104(b)(4), title III, §301(b)(3), title IX, §§901(d)(4)(B), 903(a), (b), title XIII, §1303(b)(1), (2), title XVIII, §1899A(6), Oct. 22, 1986, 100 Stat. 2105, 2217, 2380, 2383, 2658, 2958; Pub. L. 100–647, title I, §§1003(a)(1), 1009(c), Nov. 10, 1988, 102 Stat. 3382, 3449; Pub. L. 101–239, title VII, §7211(a), (b), Dec. 19, 1989, 103 Stat. 2342, 2343; Pub. L. 101–508, title XI, §§11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), Nov. 5, 1990, 104 Stat. 1388–465, 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; Pub. L. 103–66, title XIII, §13113(d)(1), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–188, title I, §§1702(h)(2), (16), 1704(t)(5), (30), Aug. 20, 1996, 110 Stat. 1873, 1874, 1887, 1889; Pub. L. 105–34, title X, §1082(a), (b), Aug. 5, 1997, 111 Stat. 950; Pub. L. 105–277, div. J, title II, §2013(a)–(c), title III, §3004(a), title IV, §§4003(h), 4004(a), Oct. 21, 1998, 112 Stat. 2681–902, 2681–905, 2681–910; Pub. L. 107–147, title I, §102(a), (b), title IV, §417(8), Mar. 9, 2002, 116 Stat. 25, 56; Pub. L. 108–311, title IV, §403(b)(1), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–58, title XIII, §1311, Aug. 8, 2005, 119 Stat. 1009; Pub. L. 109–135, title IV, §§402(f), 403(a)(17), Dec. 21, 2005, 119 Stat. 2611, 2619.)
 
 #### References in Text
 
-The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (b)(1)(I)(v)(II), isthe date of enactment of title XIII of Pub. L. 109–58, which was approved Aug. 8, 2005.
+The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (b)(1)(I)(v)(II), is the date of enactment of title XIII of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments
 
@@ -696,7 +696,7 @@ Subsec. (b)(3)(C)(i). Pub. L. 94–455, §1901(a)(29)(C)(iii), substituted “su
 
 Subsec. (b)(3)(C)(ii), (iii). Pub. L. 94–455, §1906(b)(13)(A), struck out “Or his delegate” in two places after “Secretary”.
 
-Subsec. (b)(3)(E). Pub. L. 94–455, §§806(c), 1901(a)(29)(A)(ii), added subpar. (E). Former subpar. (E), which related to applicability of special rules in computing taxpayer's net operating loss deduction, was struck out.
+Subsec. (b)(3)(E). Pub. L. 94–455, §§806(c), 1901(a)(29)(A)(ii), added subpar. (E). Former subpar. (E),which related to applicability of special rules in computing taxpayer's net operating loss deduction, was struck out.
 
 Subsec. (b)(3)(F). Pub. L. 94–455, §1901(a)(29)(A)(ii), struck out subpar. (F) which defined “class of products” and provided for the use of information compiled or published by Secretary of Commerce or manufacturers as prima facie evidence of the total number of units of such class of products manufactured and produced in the United States in a calendar year.
 
@@ -776,7 +776,7 @@ Pub. L. 107–147, title I, §102(d), Mar. 9, 2002, 116 Stat. 26, provided that:
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. J, title II, §2013(d), Oct. 21, 1998, 112 Stat. 2681–903, provided that: “The amendments made by this section \[amending this section\] shall apply to net operating losses for taxable years beginning after December 31, 1997.”
+Pub. L. 105–277, div. J, title II, §2013(d), Oct. 21, 1998, 112 Stat. 2681–903, provided that: “The amendments made by this section \[amending this section\] shallapply to net operating losses for taxable years beginning after December 31, 1997.”
 
 Pub. L. 105–277, div. J, title III, §3004(b), Oct. 21, 1998, 112 Stat. 2681–906, provided that: “The amendment made by this section \[amending this section\] shall apply to net operating losses arising in taxable years ending after the date of the enactment of this Act \[Oct. 21, 1998\].”
 
@@ -966,7 +966,7 @@ Section 703(p)(4) of Pub. L. 95–600 provided that: “The amendments made by t
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -1054,7 +1054,7 @@ Conditions.—
 
 In general.—This section shall only apply to the Corporation if it agrees (in such manner as the Secretary of the Treasury or his delegate may prescribe) to—
 
-&emsp;&emsp;&emsp;“(i) except as provided in clause (ii), use any refund of the payment described in paragraph (1) (and any interest thereon) solely to finance qualified expenses of the Corporation, and
+&emsp;&emsp;&emsp;“(i) except as provided in clause (ii), use any refund of the payment described in paragraph (1)\(and any interest thereon) solely to finance qualified expenses of the Corporation, and
 
 &emsp;&emsp;&emsp;“(ii) make the payments to non-Amtrak States as described in subsection (c).
 
@@ -1108,7 +1108,7 @@ In general.—The Corporation's net tax liability for the carryback period is th
 
 &emsp;&emsp;“(B)
 
-Net tax liability.—The term ‘net tax liability’ means, with respect to any taxable year, theamount of the tax imposed by chapter 1 of the Internal Revenue Code of 1986 (or any corresponding provision of prior law) for such taxable year, reduced by the sum of the credits allowable against such tax under such Code (or any corresponding provision of prior law).
+Net tax liability.—The term ‘net tax liability’ means, with respect to any taxable year, the amount of the tax imposed by chapter 1 of the Internal Revenue Code of 1986 (or any corresponding provision of prior law) for such taxable year, reduced by the sum of the credits allowable against such tax under such Code (or any corresponding provision of prior law).
 
 &emsp;&emsp;“(C)
 
@@ -1248,7 +1248,7 @@ In general.—The Secretary of the Treasury shall not make payment of any refund
 
 &emsp;“(2)
 
-No interest.—Notwithstanding any other provision of law, if the payment of any refund is delayedby reason of paragraph (1), no interest shall accrue with respect to such payment prior to the 45th day following the date of the enactment of Federal legislation described in paragraph (1).
+No interest.—Notwithstanding any other provision of law, if the payment of any refund is delayed by reason of paragraph (1), no interest shall accrue with respect to such payment prior to the 45th day following the date of the enactment of Federal legislation described in paragraph (1).
 
 &emsp;“(3)
 

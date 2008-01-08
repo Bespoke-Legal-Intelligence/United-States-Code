@@ -76,7 +76,7 @@ Grants under this section shall be used for the following:
 
 #### (C) School requirements
 
-&emsp;&emsp;For the State to be eligible under subparagraph (B) to receive funds under this part, the school described in such subparagraph shall—
+&emsp;&emsp;For the State to be eligible under subparagraph (B) to receive funds under this part,the school described in such subparagraph shall—
 
 &emsp;&emsp;&emsp;(i) provide written notice, at the time any child or youth seeks enrollment in such school, and at least twice annually while the child or youth is enrolled in such school, to the parent or guardian of the child or youth (or, in the case of an unaccompanied youth, the youth) that—
 
@@ -106,7 +106,7 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) is complying with clauses (i) and (ii); and
 
-&emsp;&emsp;&emsp;&emsp;(II) is meeting (as of the date of submission of the application) the sameFederal and State standards, regulations, and mandates as other public schools in the State (such as complying with sections 1111 and 1116 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311, 6316\] and providing a full range of education and related services, including services applicable to students with disabilities).
+&emsp;&emsp;&emsp;&emsp;(II) is meeting (as of the date of submission of the application) the same Federal and State standards, regulations, and mandates as other public schools in the State (such as complying with sections 1111 and 1116 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311, 6316\] and providing a full range of education and related services, including services applicable to students with disabilities).
 
 #### (D) School ineligibility
 
@@ -144,7 +144,7 @@ Grants under this section shall be used for the following:
 
 #### (i) Preparation
 
-&emsp;&emsp;&emsp;The Secretary shall prepare a report on the separate schools and local educational agencies described in subparagraph (B) that receive funds under this part in accordance with this paragraph. The report shall contain, at a minimum, information on—
+&emsp;&emsp;&emsp;The Secretary shall prepare a report on the separate schools and local educational agencies described in subparagraph (B) that receive funds under this part in accordance with this paragraph. The reportshall contain, at a minimum, information on—
 
 &emsp;&emsp;&emsp;&emsp;(I) compliance with all requirements of this paragraph;
 
@@ -186,7 +186,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;(2) develop and carry out the State plan described in subsection (g) of this section;
 
-&emsp;(3) collect and transmit to the Secretary, at such time and in such manner as the Secretary may require, a report containing such information as the Secretary determines isnecessary to assess the educational needs of homeless children and youths within the State;
+&emsp;(3) collect and transmit to the Secretary, at such time and in such manner as the Secretary may require, a report containing such information as the Secretary determines is necessary to assess the educational needs of homeless children and youths within the State;
 
 &emsp;(4) facilitate coordination between the State educational agency, the State social services agency, and other agencies (including agencies providing mental health services) to provide services to homeless children, including preschool-aged homeless children, and youths, and to families of such children and youths;
 
@@ -252,7 +252,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;&emsp;(I) If the homeless child or youth continues to live in the area served by the local educational agency in which the school of origin is located, the child's or youth's transportation to and from the school of origin shall be provided or arranged by the local educational agency in which the school of origin is located.
 
-&emsp;&emsp;&emsp;&emsp;(II) If the homeless child's or youth's living arrangements in the area served by the local educational agency of originterminate and the child or youth, though continuing his or her education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the homeless child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
+&emsp;&emsp;&emsp;&emsp;(II) If the homeless child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing his or her education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the homeless child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
 
 #### (2) Compliance
 
@@ -286,7 +286,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(ii) provide a written explanation, including a statement regarding the right to appeal under subparagraph (E), to the homeless child's or youth's parent or guardian, if the local educational agency sends such child or youth to a school other than the school of origin or a school requested by the parent or guardian; and
 
-&emsp;&emsp;&emsp;(iii) in the case of an unaccompanied youth, ensure that the homeless liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisions under this subparagraph, considers the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).
+&emsp;&emsp;&emsp;(iii) in the case of an unaccompanied youth, ensure that the homeless liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisionsunder this subparagraph, considers the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).
 
 #### (C) Enrollment
 
@@ -318,7 +318,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (F) Placement choice
 
-&emsp;&emsp;The choice regarding placement shall be made regardless of whether the child oryouth lives with the homeless parents or has been temporarily placed elsewhere.
+&emsp;&emsp;The choice regarding placement shall be made regardless of whether the child or youth lives with the homeless parents or has been temporarily placed elsewhere.
 
 #### (G) School of origin defined
 
@@ -423,4 +423,8 @@ This chapter, referred to in subsec. (g)(6)(A)(v), was in the original “this A
 A prior section 11432, Pub. L. 100–77, title VII, §722, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3957, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, §702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
+
+#### Change of Name
+
+Committee on Education and the Workforce of the House of Representatives changed to Committee on Education and Labor of the House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

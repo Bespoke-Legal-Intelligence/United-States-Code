@@ -4,6 +4,10 @@ Any Federal reserve bank may, under rules and regulations prescribed by the Boar
 
 (Dec. 23, 1913, ch. 6, §14 (par.), 38 Stat. 264; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+
 #### Codification
 
 Section is comprised of opening par. of section 14 of act Dec. 23, 1913. Subsecs. (a) to (e) of section 14 and subsec. (f) of section 14, as added Mar. 4, 1923, ch. 252, title IV, §405, 42 Stat. 1480, are set out as sections 354 to 359 of this title, respectively.

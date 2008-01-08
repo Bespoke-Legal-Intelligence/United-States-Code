@@ -20,7 +20,7 @@ The Native American Housing Assistance and Self-Determination Act of 1996, refer
 
 #### Prior Provisions
 
-A prior section 11908, Pub. L. 100–690, title V, §5129, Nov. 18, 1988, 102 Stat. 4303; Pub. L. 101–625, title V, §§520(k), 581(a), Nov. 28, 1990, 104 Stat. 4205, 4248, related to auditing and monitoring of programs funded under this subchapter, prior to repeal by Pub. L. 105–276, title V, §§503, 586(g), Oct. 21, 1998, 112 Stat. 2521, 2649, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement the repeal before such date, except to extent otherwise provided, and with savings provision.
+A prior section 11908, Pub. L. 100–690, title V, §5129, Nov. 18, 1988, 102 Stat. 4303; Pub. L. 101–625, title V,§§520(k), 581(a), Nov. 28, 1990, 104 Stat. 4205, 4248, related to auditing and monitoring of programs funded under this subchapter, prior to repeal by Pub. L. 105–276, title V, §§503, 586(g), Oct. 21, 1998, 112 Stat. 2521, 2649, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement the repeal before such date, except to extent otherwise provided, and with savings provision.
 
 #### Effective Date
 

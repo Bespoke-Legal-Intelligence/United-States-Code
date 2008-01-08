@@ -1,6 +1,6 @@
 ### §455. Maps, charts, and geodetic data: public availability; exceptions
 
-(a) The National Geospatial-Intelligence Agency shall offer for sale maps and charts at scales of 1:500,000 and smaller, except those withheld inaccordance with subsection (b) or those specifically authorized under criteria established by Executive order to be kept secret in the interest of national defense or foreign policy and in fact properly classified pursuant to such Executive order.
+(a) The National Geospatial-Intelligence Agency shall offer for sale maps and charts at scales of 1:500,000 and smaller, except those withheld in accordance with subsection (b) or those specifically authorized under criteria established by Executive order to be kept secret in the interest of national defense or foreign policy and in fact properly classified pursuant to such Executive order.
 
 (b)(1) Notwithstanding any other provision of law, the Secretary of Defense may withhold from public disclosure any geodetic product in the possession of, or under the control of, the Department of Defense—
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 #### Regulations
 
-Pub. L. 102–88, title V, §502(b), Aug. 14, 1991, 105 Stat. 436, directed that regulations to implement section 2796 (now 455) of this title be published in the Federal Register for public comment in accordance with subsec. (c) of that section not later than 90 days after Aug. 14, 1991.
+Pub. L. 102–88, title V, §502(b), Aug. 14, 1991, 105 Stat. 436, directed that regulations to implement section 2796\(now 455) of this title be published in the Federal Register for public comment in accordance with subsec. (c) of that section not later than 90 days after Aug. 14, 1991.
 

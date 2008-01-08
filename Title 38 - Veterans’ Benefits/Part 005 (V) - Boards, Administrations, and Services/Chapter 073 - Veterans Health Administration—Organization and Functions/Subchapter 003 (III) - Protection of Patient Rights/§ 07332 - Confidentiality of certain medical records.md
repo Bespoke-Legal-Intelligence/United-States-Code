@@ -36,9 +36,9 @@
 
 (2)(A) A disclosure under paragraph (1) may be made only if the physician or counselor, after making reasonable efforts to counsel and encourage the patient or subject to provide the information to the spouse or sexual partner, reasonably believes that the patient or subject will not provide the information to the spouse or sexual partner and that the disclosure is necessary to protect the health of the spouse or sexual partner.
 
-(B) A disclosure under such paragraph may be made by a physician or counselor other than thephysician or counselor referred to in subparagraph (A) if such physician or counselor is unavailable by reason of absence or termination of employment to make the disclosure.
+(B) A disclosure under such paragraph may be made by a physician or counselor other than the physician or counselor referred to in subparagraph (A) if such physician or counselor is unavailable by reason of absence or termination of employment to make the disclosure.
 
-(g) Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined, in the case of a first offense, up to the maximum amount provided under section 5701(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 5701(f) of this title for a subsequent offense under that section.
+(g) Any person who violates any provision of this section or any regulation issued pursuant tothis section shall be fined, in the case of a first offense, up to the maximum amount provided under section 5701(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 5701(f) of this title for a subsequent offense under that section.
 
 (Added Pub. L. 94–581, title I, §111(a)(1), Oct. 21, 1976, 90 Stat. 2849, §4132; amended Pub. L. 100–322, title I, §121, May 20, 1988, 102 Stat. 502; renumbered §7332 and amended Pub. L. 102–40, title IV, §§401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, 105 Stat. 221, 239; Pub. L. 109–461, title II, §204(b), Dec. 22, 2006, 120 Stat. 3411.)
 

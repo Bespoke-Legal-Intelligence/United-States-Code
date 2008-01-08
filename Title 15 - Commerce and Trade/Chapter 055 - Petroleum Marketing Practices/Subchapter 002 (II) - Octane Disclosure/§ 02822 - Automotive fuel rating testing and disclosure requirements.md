@@ -10,7 +10,7 @@ Each refiner who distributes automotive fuel in commerce shall—
 
 #### (b) Certification of automotive fuel rating by distributor receiving and distributing automotive fuel with certified automotive fuel rating; use of automotive fuel rating for certification by distributor
 
-Each distributor who receives automotive fuel, the automotive fuel rating of which is certified to him under this section, and distributessuch fuel in commerce to another person other than the ultimate purchaser shall certify to such other person the automotive fuel rating of such fuel consistent with—
+Each distributor who receives automotive fuel, the automotive fuel rating of which is certified to him under this section, and distributes such fuel in commerce to another person other than the ultimate purchaser shall certify to such other person the automotive fuel rating of such fuel consistent with—
 
 &emsp;(1) the automotive fuel rating of such fuel certified to such distributor; or
 
@@ -18,7 +18,7 @@ Each distributor who receives automotive fuel, the automotive fuel rating of whi
 
 #### (c) Display of automotive fuel rating by automotive fuel retailer; use of automotive fuel rating for display
 
-Each automotive fuel retailer shall display in a clear and conspicuous manner, at the point of sale to ultimate purchasers of automotive fuel, the automotive fuel rating of such automotive fuel, which automotive fuel rating shall be consistent with—
+Each automotive fuel retailer shall display in a clear and conspicuous manner, at the point of sale to ultimate purchasers of automotive fuel, the automotive fuel rating of such automotivefuel, which automotive fuel rating shall be consistent with—
 
 &emsp;(1) the automotive fuel rating of such automotive fuel certified to such retailer under subsection (a)(2) or (b) of this section;
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 102–486 effective at end of one-year period beginning Oct
 
 Section 205 of Pub. L. 95–297 provided that:
 
-“(a) Sections 202(a)(1) \[subsec. (a)(1) of this section\] and 203(b) \[section 2823(b) of this title\] shall take effecton the first day of the first calendar month beginning more than 6 months after the date of the enactment of this Act \[June 19, 1978\].
+“(a) Sections 202(a)(1) \[subsec. (a)(1) of this section\] and 203(b) \[section 2823(b) of this title\] shall take effect on the first day of the first calendar month beginning more than 6 months after the date of the enactment of this Act \[June 19, 1978\].
 
 “(b) Subsections (a)(2), (b), (c), and (e) of section 202 \[subsecs. (a)(2), (b), (c), and (e) of this section\] shall take effect on the first day of the first calendar month beginning more than 9 months after such date of enactment \[June 19, 1978\].
 
@@ -80,5 +80,5 @@ Section 205 of Pub. L. 95–297 provided that:
 
 #### Studies
 
-Section 1503 of Pub. L. 102–486 directed Administrator of Environmental Protection Agency to carry out a study to determine whether the anti-knock characteristics of nonliquid fuels usable as a fuel for motor vehicles could be determined and further directed Federal Trade Commission to carry out a study to determine the need for a uniform national label on devices used to dispense automotive fuel to consumers that would consolidate all information required by Federal law to be posted on such devices, with reports of the results of the studies to be submitted to Congress within one year of Oct. 24, 1992, together with recommendations and a description of the administrative and legislative actions needed to implement the recommendations.
+Section 1503 of Pub. L. 102–486 directed Administrator of Environmental Protection Agency to carry out a study to determine whether the anti-knock characteristics of nonliquid fuels usable as a fuel for motor vehicles could be determined and further directed FederalTrade Commission to carry out a study to determine the need for a uniform national label on devices used to dispense automotive fuel to consumers that would consolidate all information required by Federal law to be posted on such devices, with reports of the results of the studies to be submitted to Congress within one year of Oct. 24, 1992, together with recommendations and a description of the administrative and legislative actions needed to implement the recommendations.
 

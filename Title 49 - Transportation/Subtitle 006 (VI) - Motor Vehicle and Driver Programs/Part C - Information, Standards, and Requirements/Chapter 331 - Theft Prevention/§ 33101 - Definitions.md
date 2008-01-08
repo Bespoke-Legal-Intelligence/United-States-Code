@@ -4,7 +4,7 @@ In this chapter—
 
 &emsp;(1) “chop shop” means a building, lot, facility, or other structure or premise at which at least one person engages in receiving, concealing, destroying, disassembling, dismantling, reassembling, or storing a passenger motor vehicle or passenger motor vehicle part that has been unlawfully obtained—
 
-&emsp;&emsp;(A) to alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate, or remove the identity of the vehicle or part, including the vehicle identification number or a derivative of that number; and
+&emsp;&emsp;(A) to alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate, or removethe identity of the vehicle or part, including the vehicle identification number or a derivative of that number; and
 
 &emsp;&emsp;(B) to distribute, sell, or dispose of the vehicle or part in interstate or foreign commerce.
 

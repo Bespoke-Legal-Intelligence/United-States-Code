@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;(5) The Commonwealth of Virginia and its local units of government have authority to prevent or minimize adverse uses of these historic resources and can play a significant role in the protection of the historic resources related to the campaigns against and in defense of Richmond.
 
-&emsp;(6) The preservation of the New Market Heights Battlefield in the vicinity of the City of Richmond is an important aspect of American history that can be interpreted to the public. The Battle of New Market Heights represents a premier landmark in black militaryhistory as 14 black Union soldiers were awarded the Medal of Honor in recognition of their valor during the battle. According to National Park Service historians, the sacrifices of the United States Colored Troops in this battle helped to ensure the passage of the Thirteenth Amendment to the United States Constitution to abolish slavery.
+&emsp;(6) The preservation of the New Market Heights Battlefield in the vicinity of the City of Richmond is an important aspect of American history that can be interpreted to the public. The Battle of New Market Heights represents a premier landmark in black military history as 14 black Union soldiers were awarded the Medal of Honor in recognition of their valor during the battle. According to National Park Service historians, the sacrifices of the United States Colored Troops in this battle helped to ensure the passage of the Thirteenth Amendment to the United States Constitution to abolish slavery.
 
 #### (b) Purpose
 

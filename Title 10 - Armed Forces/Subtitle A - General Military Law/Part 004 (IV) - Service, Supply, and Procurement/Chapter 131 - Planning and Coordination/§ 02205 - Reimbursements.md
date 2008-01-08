@@ -6,9 +6,9 @@ Availability of Reimbursements.—Reimbursements made to appropriations of the D
 
 (b)
 
-Fixed Rate for Reimbursement for Certain Services.—The Secretary of Defense andthe Secretaries of the military departments may charge a fixed rate for reimbursement of the costs of providing planning, supervision, administrative, or overhead services incident to any construction, maintenance, or repair project to real property or for providing facility services, irrespective of the appropriation financing the project or facility services.
+Fixed Rate for Reimbursement for Certain Services.—The Secretary of Defense and the Secretaries of the military departments may charge a fixed rate for reimbursement of the costs of providing planning, supervision, administrative, or overhead services incident to any construction, maintenance, or repair project to real property or for providing facility services, irrespective of the appropriation financing the project or facility services.
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 96–513, title V, §511(71), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–258, §3(b)(4), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 103–337, div. B, title XXVIII, §2804(a), (b)(1), Oct. 5, 1994, 108 Stat. 3053.)
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 96–513, title V, §511(71), Dec. 12, 1980, 94 Stat. 2926; Pub. L.97–258, §3(b)(4), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 103–337, div. B, title XXVIII, §2804(a), (b)(1), Oct. 5, 1994, 108 Stat. 3053.)
 
 Historical and Revision Notes
 

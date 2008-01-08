@@ -80,7 +80,7 @@ Agency regulations.—The regulations issued under paragraph (1) shall be the sa
 
 (e)
 
-Applicability.—Subsections (a) through (c), and section 417 (to the extent that it relatesto any matter under this section), shall apply with respect to violations occurring on or after the effective date of this chapter.
+Applicability.—Subsections (a) through (c), and section 417 (to the extent that it relates to any matter under this section), shall apply with respect to violations occurring on or after the effective date of this chapter.
 
 (f)
 

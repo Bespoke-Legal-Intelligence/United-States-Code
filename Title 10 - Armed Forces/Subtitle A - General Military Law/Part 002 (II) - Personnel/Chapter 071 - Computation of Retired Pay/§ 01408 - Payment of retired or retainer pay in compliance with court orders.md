@@ -34,7 +34,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) are owed by that member to the United States for previous overpayments of retired pay and for recoupments required by law resulting from entitlement to retired pay;
 
-&emsp;&emsp;(B) are deducted from the retired pay of such member as a result of forfeitures of retired pay ordered by a court-martial or as a result of a waiver of retired pay required bylaw in order to receive compensation under title 5 or title 38;
+&emsp;&emsp;(B) are deducted from the retired pay of such member as a result of forfeitures of retired pay ordered by a court-martial or as a result of a waiver of retired pay required by law in order to receive compensation under title 5 or title 38;
 
 &emsp;&emsp;(C) in the case of a member entitled to retired pay under chapter 61 of this title, are equal to the amount of retired pay of the member under that chapter computed using the percentage of the member's disability on the date when the member was retired (or the date on which the member's name was placed on the temporary disability retired list); or
 
@@ -80,7 +80,7 @@ Authority for Court To Treat Retired Pay as Property of the Member and Spouse.�
 
 (d)
 
-Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.—(1) After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D) in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(4)), assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retiredpay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
+Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.—(1) After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, oras otherwise directed in accordance with such part D) in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(4)), assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
 
 (2) If the spouse or former spouse to whom payments are to be made under this section was not married to the member for a period of 10 years or more during which the member performed at least 10 years of service creditable in determining the member's eligibility for retired pay, payments may not be made under this section to the extent that they include an amount resulting from the treatment by the court under subsection (c) of disposable retired pay of the member as property of the member or property of the member and his spouse.
 
@@ -188,7 +188,7 @@ Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Reti
 
 (B) If each form of the punishment that would result in the termination of eligibility to receive retired pay is later remitted, set aside, or mitigated to a punishment that does not result in the termination of that eligibility, a payment of benefits to the eligible recipient under this subsection that is based on the punishment so vacated, set aside, or mitigated shall cease. The cessation of payments shall be effective as of the first day of the first month following the month in which the Secretary concerned notifies the recipient of such benefits in writing that payment of the benefits will cease. The recipient may not be required to repay the benefits received before that effective date (except to the extent necessary to recoup any amount that was erroneous when paid).
 
-(11) In this subsection, the term “dependent child”, with respect to a member or formermember of the armed forces referred to in paragraph (2)(A), means an unmarried legitimate child, including an adopted child or a stepchild of the member or former member, who—
+(11) In this subsection, the term “dependent child”, with respect to a member or former member of the armed forces referred to in paragraph (2)(A), means an unmarried legitimate child, including an adopted child or a stepchild of the member or former member, who—
 
 &emsp;(A) is under 18 years of age;
 
@@ -254,7 +254,7 @@ Subsec. (a)(2). Pub. L. 104–193, §362(c)(2)(A), inserted “or a support orde
 
 Subsec. (a)(2)(B)(i). Pub. L. 104–193, §362(c)(2)(B), substituted “(as defined in section 459(i)(2) of the Social Security Act (42 U.S.C. 659(i)(2)))” for “(as defined in section 462(b) of the Social Security Act (42 U.S.C. 662(b)))”.
 
-Subsec. (a)(2)(B)(ii). Pub. L. 104–193, §362(c)(2)(C), substituted “(as defined in section 459(i)(3) of the Social Security Act (42 U.S.C. 659(i)(3)))” for “(as defined in section 462(c) of the Social Security Act (42 U.S.C. 662(c)))”.
+Subsec. (a)(2)(B)(ii). Pub. L. 104–193, §362(c)(2)(C), substituted “(as defined in section 459(i)(3) of the SocialSecurity Act (42 U.S.C. 659(i)(3)))” for “(as defined in section 462(c) of the Social Security Act (42 U.S.C. 662(c)))”.
 
 Subsec. (a)(5). Pub. L. 104–106 substituted “section 12731” for “section 1331”.
 
@@ -264,7 +264,7 @@ Subsec. (d). Pub. L. 104–193, §362(c)(3)(A), inserted “(or for benefit of)�
 
 Subsec. (d)(1). Pub. L. 104–193, §363(c)(2), inserted after first sentence “In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(4)), assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights.”
 
-Pub. L. 104–193, §362(c)(3)(B), in first sentence, inserted “(or for the benefit of such spouse or formerspouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D)” before “in an amount sufficient”.
+Pub. L. 104–193, §362(c)(3)(B), in first sentence, inserted “(or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D)” before “in an amount sufficient”.
 
 Subsec. (d)(6). Pub. L. 104–201, §636(b), added par. (6) relating to court order which is out-of-State modification.
 
@@ -416,7 +416,7 @@ Amendment by section 3(3) of Pub. L. 100–26 applicable as if included in Pub. 
 
 #### Effective Date of 1986 Amendment
 
-Section 644(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to court orders issued after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Section 644(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to court orders issued after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -426,7 +426,7 @@ Section 643(e) of Pub. L. 98–525 provided that: “The amendments made by this
 
 Section 1006 of title X of Pub. L. 97–252, as amended by Pub. L. 98–94, title IX, §941(c)(4), Sept. 24, 1983, 97 Stat. 654; Pub. L. 98–525, title VI, §645(b), Oct. 19, 1984, 98 Stat. 2549, provided that:
 
-“(a) The amendments made by this title \[amending this section and sections 1072, 1076, 1086, 1447, 1448, and 1450 of this title and enacting provisions set out asnotes under this section and section 1401 of this title\] shall take effect on the first day of the first month \[February 1983\] which begins more than one hundred and twenty days after the date of the enactment of this title \[Sept. 8, 1982\].
+“(a) The amendments made by this title \[amending this section and sections 1072, 1076, 1086, 1447, 1448, and 1450 of this title and enacting provisions set out as notes under this section and section 1401 of this title\] shall take effect on the first day of the first month \[February 1983\] which begins more than one hundred and twenty days after the date of the enactment of this title \[Sept. 8, 1982\].
 
 “(b) Subsection (d) of section 1408 of title 10, United States Code, as added by section 1002(a), shall apply only with respect to payments of retired or retainer pay for periods beginning on or after the effective date of this title \[Feb. 1, 1983, provided in subsec. (a)\], but without regard to the date of any court order. However, in the case of a court order that became final before June 26, 1981, payments under such subsection may only be made in accordance with such order as in effect on such date and without regard to any subsequent modifications.
 

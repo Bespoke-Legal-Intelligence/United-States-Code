@@ -64,7 +64,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 &emsp;&emsp;&emsp;(iii) its toxicity and tendency to bioaccumulate in the environment,
 
-> &emsp;&emsp;a significant adverse effect on the environment of sufficient seriousness, in the judgment of the Administrator, to warrant reporting under this section. The number of chemicals included on the list described insubsection (c) of this section on the basis of the preceding sentence may constitute in the aggregate no more than 25 percent of the total number of chemicals on the list.
+> &emsp;&emsp;a significant adverse effect on the environment of sufficient seriousness, in the judgment of the Administrator, to warrant reporting under this section. The number of chemicals included on the list described in subsection (c) of this section on the basis of the preceding sentence may constitute in the aggregate no more than 25 percent of the total number of chemicals on the list.
 
 > &emsp;A determination under this paragraph shall be based on generally accepted scientific principles or laboratory tests, or appropriately designed and conducted epidemiological or other population studies, available to the Administrator.
 
@@ -118,7 +118,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (1) Information required
 
-&emsp;Not later than June 1, 1987, the Administrator shall publish a uniform toxic chemical release form for facilities covered by this section. If the Administrator does not publish such a form, owners and operators of facilities subject to the requirements of this section shall provide the information required under this subsection by letter postmarked on or before the date on which the form is due. Such form shall—
+&emsp;Not later than June 1, 1987, the Administrator shall publish a uniform toxic chemicalrelease form for facilities covered by this section. If the Administrator does not publish such a form, owners and operators of facilities subject to the requirements of this section shall provide the information required under this subsection by letter postmarked on or before the date on which the form is due. Such form shall—
 
 &emsp;&emsp;(A) provide for the name and location of, and principal business activities at, the facility;
 
@@ -136,7 +136,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (2) Use of available data
 
-&emsp;In order to provide the information required under this section, the owner or operator of afacility may use readily available data (including monitoring data) collected pursuant to other provisions of law, or, where such data are not readily available, reasonable estimates of the amounts involved. Nothing in this section requires the monitoring or measurement of the quantities, concentration, or frequency of any toxic chemical released into the environment beyond that monitoring and measurement required under other provisions of law or regulation. In order to assure consistency, the Administrator shall require that data be expressed in common units.
+&emsp;In order to provide the information required under this section, the owner or operator of a facility may use readily available data (including monitoring data) collected pursuant to other provisions of law, or, where such data are not readily available, reasonable estimates of the amounts involved. Nothing in this section requires the monitoring or measurement of the quantities, concentration, or frequency of any toxic chemical released into the environment beyond that monitoring and measurement required under other provisions of law or regulation. In order to assure consistency, the Administrator shall require that data be expressed in common units.
 
 #### (h) Use of release form
 
@@ -188,7 +188,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (6) Judicial review
 
-&emsp;In any judicial review of a rulemaking which establishes a modification under this subsection, a court may hold unlawful and set aside agency action, findings, and conclusions found to be unsupported by substantial evidence.
+&emsp;In any judicial review of a rulemaking which establishes a modification under this subsection, a court may hold unlawful and setaside agency action, findings, and conclusions found to be unsupported by substantial evidence.
 
 #### (7) Applicability
 

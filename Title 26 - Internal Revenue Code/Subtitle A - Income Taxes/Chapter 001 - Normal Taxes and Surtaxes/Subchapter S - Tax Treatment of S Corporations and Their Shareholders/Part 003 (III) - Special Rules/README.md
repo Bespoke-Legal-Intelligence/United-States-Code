@@ -16,6 +16,8 @@
 
 1986—Pub. L. 99–514, title VI, §632(d), Oct. 22, 1986, 100 Stat. 2277, substituted “built-in” for “capital” in item 1374.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
+
 
 ---
 

@@ -8,7 +8,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(2) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
-&emsp;(3) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
+&emsp;(3) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph doesnot apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
 
 &emsp;(4) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
@@ -18,7 +18,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(7) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
 
-&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulationof less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
+&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulation of less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
 
 &emsp;(9) Repealed. Pub. L. 93–259, §23(a)(1), Apr. 8, 1974, 88 Stat. 69.
 
@@ -66,7 +66,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(8) Repealed. Pub. L. 95–151, §14(b), Nov. 1, 1977, 91 Stat. 1252.
 
-&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
+&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to thelatest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
 
 &emsp;(10)(A) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers; or
 
@@ -78,7 +78,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(13) any employee with respect to his employment in agriculture by a farmer, notwithstanding other employment of such employee in connection with livestock auction operations in which such farmer is engaged as an adjunct to the raising of livestock, either on his own account or in conjunction with other farmers, if such employee (A) is primarily employed during his workweek in agriculture by such farmer, and (B) is paid for his employment in connection with such livestock auction operations at a wage rate not less than that prescribed by section 206(a)(1) of this title; or
 
-&emsp;(14) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used inthe operation of a farm, if no more than five employees are employed in the establishment in such operations; or
+&emsp;(14) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used in the operation of a farm, if no more than five employees are employed in the establishment in such operations; or
 
 &emsp;(15) any employee engaged in the processing of maple sap into sugar (other than refined sugar) or syrup; or
 
@@ -116,9 +116,9 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 #### (c) Child labor requirements
 
-(1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relating to child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
+(1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relatingto child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
 
-&emsp;(A) is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A) of this section) required to be paid at the wage rate prescribed by section 206(a)(5) of this title,
+&emsp;(A) is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A) of this section) required to be paid at the wage rate prescribed by section 206(a)(5) <sup>1</sup> of this title,
 
 &emsp;(B) is twelve years or thirteen years of age and (i) such employment is with the consent of his parent or person standing in the place of his parent, or (ii) his parent or such person is employed on the same farm as such employee, or
 
@@ -200,7 +200,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 (vi) The reporting requirements of this subparagraph shall expire 2 years after August 6, 1996.
 
-(6) In the administration and enforcement of the child labor provisions of this chapter, employees who are under 17 years of age may not drive automobiles or trucks on public roadways.Employees who are 17 years of age may drive automobiles or trucks on public roadways only if—
+(6) In the administration and enforcement of the child labor provisions of this chapter, employees who are under 17 years of age may not drive automobiles or trucks on public roadways. Employees who are 17 years of age may drive automobiles or trucks on public roadways only if—
 
 &emsp;(A) such driving is restricted to daylight hours;
 
@@ -258,7 +258,7 @@ The provisions of sections 206, 207, and 212 of this title shall not apply with 
 
 #### (e) Maximum hour requirements and minimum wage employees
 
-The provisions of section 207 of this title shall not apply with respect to employees for whom the Secretary of Labor is authorized to establish minimum wage rates as provided in section 206(a)(3) of this title, except with respect to employees for whom such rates are in effect; and with respect to such employees the Secretary may make rules and regulations providing reasonable limitations and allowing reasonable variations, tolerances, and exemptions to and from any or all of the provisions of section 207 of this title if he shall find, after a public hearing on the matter, and taking into account the factors set forth in section 206(a)(3) of this title, that economic conditions warrant such action.
+The provisions of section 207 of this title shall not apply with respect to employees for whom the Secretary of Labor is authorized to establish minimum wage rates as provided in section 206(a)(3) <sup>1</sup> of this title, except with respect to employees for whom such rates are in effect; and with respect to such employees the Secretary may make rules and regulations providing reasonable limitations and allowing reasonable variations, tolerances, and exemptions to and from any or all of the provisions of section 207 of this title if he shall find, after a public hearing on the matter, and taking into account the factors set forth in section 206(a)(3) <sup>1</sup> of this title, that economic conditions warrant such action.
 
 #### (f) Employment in foreign countries and certain United States territories
 
@@ -325,6 +325,10 @@ The provisions of section 207 of this title shall not apply for a period or peri
 #### References in Text
 
 The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended. Title II of the Railway Labor Act was added by act Apr. 10, 1936, ch. 166, 49 Stat. 1189, and is classified generally to subchapter II (§181 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code see section 151 of Title 45 and Tables.
+
+Section 206(a)(5) of this title, referred to in subsec. (c)(1)(A), was redesignated section 206(a)(4) of this title by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
+
+Section 206(a)(3) of this title, referred to in subsec. (e), was repealed and section 206(a)(4) of this title was redesignated section 206(a)(3) by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
 The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
@@ -400,7 +404,7 @@ Subsec. (b)(4). Pub. L. 93–259, §11(a), effective May 1, 1974, inserted “wh
 
 Subsec. (b)(7). Pub. L. 93–259, §21(b)(1), substituted “(regardless of whether or not such railway or carrier is public or private or operated for profit or not for profit), if such employee receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed” for “, if the rates and services of such railway or carrier are subject to regulation by a State or local agency” effective May 1, 1974. Pub. L. 93–259, §21(b)(2), substituted “forty-four hours” for “forty-eight hours” effective one year after May 1, 1974. Pub. L. 93–259, §21(b)(3) repealed subsec. (b)(7) effective two years after May 1, 1974.
 
-Subsec. (b)(8). Pub. L. 93–259, §§12(a), 13(a), effective May 1, 1974, insofar as relating to nursing home employees, struck out exemption provision respecting any employee who is employed by an establishment which is an institution (other than a hospital) primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises, and receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed, and insofar as relating to a hotel, motel, and restaurant employees, substituted “(A) any employee\(other than an employee of a hotel or motel who performs maid or custodial services) who is” for “any employee”, inserted before the semicolon “and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed”, and added subpar. (B). Pub. L. 93–259, §13(b), effective one year after May 1, 1974, substituted “forty-six hours” for “forty-eight hours” in subparas. (A) and (B). Pub. L. 93–259, §13(c), effective two years after May 1, 1974, substituted “forty-four hours” for “forty-six hours” in subpar. (B). Pub. L. 93–259, §13(d), repealed subsec. (b)(8)(B) and eliminated the designation (A), effective three years after May 1, 1974.
+Subsec. (b)(8). Pub. L. 93–259, §§12(a), 13(a), effective May 1, 1974, insofar as relating to nursing home employees, struck out exemption provision respecting any employee who is employed by an establishment which is an institution (other than a hospital) primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises, and receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed, and insofar as relating to a hotel, motel, and restaurant employees, substituted “(A) any employee (other than an employee of a hotel or motel who performs maid or custodial services) who is” for “any employee”, inserted before the semicolon “and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed”, and added subpar. (B). Pub. L. 93–259, §13(b), effective one year after May 1, 1974, substituted “forty-six hours” for “forty-eight hours” in subparas. (A) and (B). Pub. L. 93–259, §13(c), effective two years after May 1, 1974, substituted “forty-four hours” for “forty-six hours” in subpar. (B). Pub. L. 93–259, §13(d), repealed subsec. (b)(8)(B) and eliminated the designation (A), effective three years after May 1, 1974.
 
 Subsec. (b)(10). Pub. L. 93–259, §14, incorporated existing paragraph in provisions designated as subpar. (A), struck out from the list references to trailers and aircraft, inserted reference to implements, and added subpar. (B) incorporating references to trailers and aircraft.
 
@@ -663,4 +667,6 @@ Section 13 of Pub. L. 87–30 directed Secretary of Labor to study complicated s
 #### Transportation of Migrant Farm Workers
 
 Section 3 of act Aug. 3, 1956, provided that: “Section 13(b)(1) of the Fair Labor Standards Act, as amended \[subsec. (b)(1) of this section\] shall not apply in the case of any employee with respect to whom the Interstate Commerce Commission \[now Secretary of Transportation\] has power to establish qualifications and maximum hours of service solely by virtue of section 204(a)(3a) of the Interstate Commerce Act \[now 49 U.S.C. 31502\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

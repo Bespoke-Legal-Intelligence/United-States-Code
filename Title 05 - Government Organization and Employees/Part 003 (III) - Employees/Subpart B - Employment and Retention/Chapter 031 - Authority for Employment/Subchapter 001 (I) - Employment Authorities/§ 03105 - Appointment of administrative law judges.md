@@ -52,7 +52,7 @@ Functions vested by section 551 et seq. of this title in hearing examiners emplo
 
 #### Hearing Examiners Employed by Department of the Treasury
 
-Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Treasury not included in functions of officers, agencies,and employees of Department transferred to Secretary of the Treasury by 1950 Reorg. Plan No. 26, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to this title.
+Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Treasury not included in functions of officers, agencies, and employees of Department transferred to Secretary of the Treasury by 1950 Reorg. Plan No. 26, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to this title.
 
 #### Hearing Examiners Appointed for Indian Probate Work
 

@@ -28,3 +28,7 @@ Within 60 days after October 28, 1998, the National Aeronautics and Space Admini
 
 (Pub. L. 105–303, title II, §204, Oct. 28, 1998, 112 Stat. 2856.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

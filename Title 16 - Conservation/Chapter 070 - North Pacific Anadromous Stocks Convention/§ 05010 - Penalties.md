@@ -48,7 +48,7 @@
 
 (5) For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel and which is seized in connection with an act prohibited by section 5009 of this title were taken or retained in violation of the Convention and this chapter.
 
-(Pub. L. 102–567, title VIII, §811, Oct. 29, 1992, 106 Stat. 4314; Pub. L. 102–587, title VIII, §8011, Nov. 4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, §811, Oct. 29, 1992, 106 Stat. 4314; Pub. L. 102–587, title VIII, §8011, Nov.4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 #### References in Text
 

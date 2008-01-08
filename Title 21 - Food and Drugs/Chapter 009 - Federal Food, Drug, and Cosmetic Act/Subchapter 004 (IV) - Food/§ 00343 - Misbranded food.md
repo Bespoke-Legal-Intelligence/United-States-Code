@@ -70,7 +70,7 @@ If it bears or contains any artificial flavoring, artificial coloring, or chemic
 
 #### (<i>l</i>) Pesticide chemicals on raw agricultural commodities
 
-If it is a raw agricultural commodity which is the produce of the soil, bearing or containing a pesticide chemical applied after harvest, unless the shipping container of such commodity bears labeling which declares the presence of such chemical in or on such commodity and the common or usual name and the function of such chemical, except that no such declaration shall be required while such commodity, having been removed from the shipping container, is being held or displayed for sale at retail out of such container in accordance with the custom of the trade.
+If it is a raw agricultural commodity which is the produce of the soil, bearing or containing a pesticide chemical applied after harvest, unless the shipping container of such commodity bears labeling which declares the presence of such chemical in or on such commodity and the common or usual name and the function of such chemical, except that no such declaration shall be required while such commodity, having beenremoved from the shipping container, is being held or displayed for sale at retail out of such container in accordance with the custom of the trade.
 
 #### (m) Color additives
 
@@ -128,9 +128,9 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (C)(i) Upon the expiration of 30 months after November 8, 1990, the Secretary shall issue a report on actions taken by food retailers to provide consumers with nutrition information for raw agricultural commodities and raw fish under the guidelines issued under clause (A). Such report shall include a determination of whether there is substantial compliance with the guidelines.
 
-(ii) If the Secretary finds that there is substantial compliance with the guidelines, the Secretary shall issue a report and make a determination of the type required in subclause (i) every two years.
+(ii) If the Secretary finds that there is substantial compliance with the guidelines, theSecretary shall issue a report and make a determination of the type required in subclause (i) every two years.
 
-(D)(i) If the Secretary determines that there is not substantial compliance with the guidelines issued under clause (A), the Secretary shall at the time such determination is made issue proposed regulations requiring that any person who offers raw agricultural commodities or raw fish to consumers provide, in a manner prescribed byregulations, the nutrition information required by subparagraphs (1) and (2). The Secretary shall issue final regulations imposing such requirements 6 months after issuing the proposed regulations. The final regulations shall become effective 6 months after the date of their promulgation.
+(D)(i) If the Secretary determines that there is not substantial compliance with the guidelines issued under clause (A), the Secretary shall at the time such determination is made issue proposed regulations requiring that any person who offers raw agricultural commodities or raw fish to consumers provide, in a manner prescribed by regulations, the nutrition information required by subparagraphs (1) and (2). The Secretary shall issue final regulations imposing such requirements 6 months after issuing the proposed regulations. The final regulations shall become effective 6 months after the date of their promulgation.
 
 (ii) Regulations issued under subclause (i) may require that the nutrition information required by subparagraphs (1) and (2) be provided for more than 20 varieties of vegetables, 20 varieties of fruit, and 20 varieties of fish most frequently consumed during a year if the Secretary finds that a larger number of such products are frequently consumed. Such regulations shall permit such information to be provided in a single location in each area in which raw agricultural commodities and raw fish are offered for sale. Such regulations may provide that information shall be expressed as an average or range per serving of the same type of raw agricultural commodity or raw fish. The Secretary shall develop and make available to the persons who offer such food to consumers the information required by subparagraphs (1) and (2).
 
@@ -170,7 +170,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (ii) During the 12-month period after the applicable date referred to in this sentence, the requirements of subparagraphs (1) and (2) shall not apply to any food product which was first introduced into interstate commerce before May 8, 1994, if the labeling for such product does not provide nutrition information or make a claim subject to paragraph (r), if such person provided the notice described in subclause (iii), and if—
 
-&emsp;(I) during the 12-month period preceding May 8, 1994, the person who claims for such product an exemption from such subparagraphs employed fewer than an average of 300full-time equivalent employees and fewer than 600,000 units of such product were sold in the United States,
+&emsp;(I) during the 12-month period preceding May 8, 1994, the person who claims for such product an exemption from such subparagraphs employed fewer than an average of 300 full-time equivalent employees and fewer than 600,000 units of such product were sold in the United States,
 
 &emsp;(II) during the 12-month period preceding May 8, 1995, the person who claims for such product an exemption from such subparagraphs employed fewer than an average of 300 full-time equivalent employees and fewer than 400,000 units of such product were sold in the United States, or
 
@@ -214,7 +214,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 #### (r) Nutrition levels and health-related claims
 
-(1) Except as provided in clauses (A) through (C) of subparagraph (5), if it is a food intended for human consumption which is offered for sale and for which a claim is made in the label or labeling of the food which expressly or by implication—
+(1) Except as provided in clauses (A) through (C) of subparagraph (5), if it is a food intended for human consumption which is offered for saleand for which a claim is made in the label or labeling of the food which expressly or by implication—
 
 &emsp;(A) characterizes the level of any nutrient which is of the type required by paragraph (q)(1) or (q)(2) to be in the label or labeling of the food unless the claim is made in accordance with subparagraph (2), or
 
@@ -254,7 +254,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (F) Subclause (i) clause (A) does not apply to a statement in the labeling of a dietary supplement that characterizes the percentage level of a dietary ingredient for which the Secretary has not established a reference daily intake, daily recommended value, or other recommendation for daily consumption.
 
-(G) A claim of the type described in subparagraph (1)(A) for a nutrient, for which the Secretary has not promulgated a regulation under clause (A)(i), shall be authorized and may be made with respect to a food if—
+(G) A claim of the type described in subparagraph (1)(A) for a nutrient, for which the Secretary has not promulgated a regulation underclause (A)(i), shall be authorized and may be made with respect to a food if—
 
 &emsp;(i) a scientific body of the United States Government with official responsibility for public health protection or research directly relating to human nutrition (such as the National Institutes of Health or the Centers for Disease Control and Prevention) or the National Academy of Sciences or any of its subdivisions has published an authoritative statement, which is currently in effect, which identifies the nutrient level to which the claim refers;
 
@@ -296,7 +296,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(i) a scientific body of the United States Government with official responsibility for public health protection or research directly relating to human nutrition (such as the National Institutes of Health or the Centers for Disease Control and Prevention) or the National Academy of Sciences or any of its subdivisions has published an authoritative statement, which is currently in effect, about the relationship between a nutrient and a disease or health-related condition to which the claim refers;
 
-&emsp;(ii) a person has submitted to the Secretary, at least 120 days (during which the Secretary may notify any person who is making a claim as authorized by clause (C) that such person has not submitted all the information required by such clause) before the first introduction into interstate commerce of the food with a label containing the claim, (I) a notice of the claim, which shall include the exact words used in the claim and shall include a concise description of the basis upon which such person relied for determining that the requirements of subclause (i) have been satisfied, (II) a copy of the statement referred to in subclause (i) upon which such person relied in making the claim, and (III) a balanced representation of the scientific literature relating to the relationship between a nutrient and adisease or health-related condition to which the claim refers;
+&emsp;(ii) a person has submitted to the Secretary, at least 120 days (during which the Secretary may notify any person who is making a claim as authorized by clause (C) that such person has not submitted all the information required by such clause) before the first introduction into interstate commerce of the food with a label containing the claim, (I) a notice of theclaim, which shall include the exact words used in the claim and shall include a concise description of the basis upon which such person relied for determining that the requirements of subclause (i) have been satisfied, (II) a copy of the statement referred to in subclause (i) upon which such person relied in making the claim, and (III) a balanced representation of the scientific literature relating to the relationship between a nutrient and a disease or health-related condition to which the claim refers;
 
 &emsp;(iii) the claim and the food for which the claim is made are in compliance with clause (A)(ii) and are otherwise in compliance with paragraph (a) and section 321(n) of this title; and
 
@@ -334,7 +334,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (6) For purposes of paragraph (r)(1)(B), a statement for a dietary supplement may be made if—
 
-&emsp;(A) the statement claims a benefit related to a classical nutrient deficiency disease and discloses the prevalence of such disease in the United States, describes the role of a nutrient or dietary ingredient intended to affect the structure or function in humans, characterizes the documented mechanism by which a nutrient or dietary ingredient acts to maintain such structure or function, or describes general well-being from consumption of a nutrient or dietary ingredient,
+&emsp;(A) the statement claims a benefit related to a classical nutrient deficiency disease and discloses the prevalence of such disease in the United States, describes the role of a nutrientor dietary ingredient intended to affect the structure or function in humans, characterizes the documented mechanism by which a nutrient or dietary ingredient acts to maintain such structure or function, or describes general well-being from consumption of a nutrient or dietary ingredient,
 
 &emsp;(B) the manufacturer of the dietary supplement has substantiation that such statement is truthful and not misleading, and
 
@@ -458,7 +458,7 @@ Notwithstanding subsection (g), (i), or (k) of this section, or any other law, a
 
 If it is a dietary supplement that is marketed in the United States, unless the label of such dietary supplement includes a domestic address or domestic phone number through which the responsible person (as described in section 379aa–1 of this title) may receive a report of a serious adverse event with such dietary supplement.
 
-(June 25, 1938, ch. 675, §403, 52 Stat. 1047; Pub. L. 86–537, §1, June 29, 1960, 74 Stat. 251; Pub. L. 86–618, title I, §102(a)(3), July 12, 1960, 74 Stat. 398; Pub. L. 91–601, §6(c), formerly §7(c), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–278, title V, §502(a)(1), Apr. 22, 1976, 90 Stat. 411; Pub. L. 95–203, §4(a)(1), (b)(1), Nov. 23, 1977, 91 Stat. 1452, 1453; Pub. L. 101–535, §§2(a), 3(a), 7, Nov. 8, 1990, 104 Stat. 2353, 2357, 2364; Pub. L. 102–108, §2(a), (c), Aug. 17, 1991, 105 Stat. 549; Pub. L. 102–571, title I, §107(5), (6), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§2(b), 3(j), Aug. 13, 1993, 107 Stat. 773, 776; Pub. L. 103–417, §§6, 7(a)–(c), 10(c), Oct. 25, 1994, 108 Stat. 4329, 4330, 4332; Pub. L. 104–124, §1, Apr. 1, 1996, 110 Stat. 882; Pub. L. 105–115, title III, §§301–305, Nov. 21, 1997, 111 Stat. 2350–2353; Pub. L. 106–554, §1(a)(1) \[title V, §517\], Dec. 21, 2000, 114 Stat. 2763, 2763A–73; Pub. L. 107–171, title X, §§10806(a)(2), (b)(2), 10808(b), May 13, 2002, 116 Stat. 526, 527, 530; Pub. L. 107–188, title III, §308(b), June 12, 2002, 116 Stat. 672; Pub. L. 108–282, title II, §203(a), Aug. 2, 2004, 118 Stat. 906; Pub. L. 109–462, §3(c), Dec. 22, 2006, 120 Stat. 3475.)
+(June 25, 1938, ch. 675, §403, 52 Stat. 1047; Pub. L. 86–537, §1, June 29, 1960, 74 Stat. 251; Pub. L. 86–618, title I, §102(a)(3), July 12, 1960, 74 Stat. 398; Pub. L. 91–601, §6(c), formerly §7(c), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–278, title V, §502(a)(1), Apr. 22, 1976, 90 Stat. 411; Pub. L. 95–203, §4(a)(1), (b)(1), Nov. 23, 1977, 91 Stat. 1452, 1453; Pub. L. 101–535, §§2(a), 3(a), 7, Nov. 8, 1990, 104 Stat. 2353, 2357, 2364; Pub. L. 102–108, §2(a), (c), Aug. 17, 1991, 105 Stat. 549; Pub. L. 102–571, title I, §107(5), (6), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§2(b), 3(j), Aug. 13, 1993, 107 Stat. 773, 776; Pub. L. 103–417, §§6, 7(a)–(c), 10(c), Oct. 25, 1994, 108 Stat. 4329, 4330, 4332; Pub. L. 104–124, §1, Apr. 1, 1996, 110 Stat. 882; Pub. L. 105–115, title III, §§301–305, Nov. 21, 1997, 111 Stat. 2350–2353; Pub. L. 106–554, §1(a)(1) \[title V, §517\], Dec. 21, 2000, 114 Stat. 2763, 2763A–73; Pub. L. 107–171, title X, §§10806(a)(2), (b)(2), 10808(b), May 13, 2002, 116 Stat. 526, 527, 530; Pub.L. 107–188, title III, §308(b), June 12, 2002, 116 Stat. 672; Pub. L. 108–282, title II, §203(a), Aug. 2, 2004, 118 Stat. 906; Pub. L. 109–462, §3(c), Dec. 22, 2006, 120 Stat. 3475.)
 
 #### Amendments
 
@@ -556,7 +556,7 @@ Pub. L. 109–462, §3(d)(1), (2), Dec. 22, 2006, 120 Stat. 3475, provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 379aa–1 of this title and amending this section and section 331 of this title\] shall take effect 1 year after the date of enactment of this Act \[Dec. 22, 2006\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section379aa–1 of this title and amending this section and section 331 of this title\] shall take effect 1 year after the date of enactment of this Act \[Dec. 22, 2006\].
 
 “(2)
 
@@ -564,7 +564,7 @@ Misbranding.—Section 403(y) of the Federal Food, Drug, and Cosmetic Act \[21 U
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–282 applicable to any food that is labeled on or after Jan. 1, 2006, see section 203(d)of Pub. L. 108–282, set out as a note under section 321 of this title.
+Amendment by Pub. L. 108–282 applicable to any food that is labeled on or after Jan. 1, 2006, see section 203(d) of Pub. L. 108–282, set out as a note under section 321 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -708,7 +708,7 @@ Section 2(b) of Pub. L. 101–535, as amended by Pub. L. 102–571, title II, §
 
 “(2) If the Secretary of Health and Human Services does not promulgate final regulations under paragraph (1) upon the expiration of 24 months after the date of the enactment of this Act, the proposed regulations issued in accordance with paragraph (1) shall be considered as the final regulations upon the expiration of such 24 months, except that the proposed regulations applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not be considered to be final regulations until December 31, 1993. There shall be promptly published in the Federal Register notice of new status of the proposed regulations \[see 57 F.R. 56347\].
 
-“(3) If the Secretary of Health and Human Services does not promulgate final regulations under section 403(q)(4) of the Federal Food, Drug, and Cosmetic Act upon the expiration of 6 months after the date on which the Secretary makes a finding that there has been no substantial compliance with section 403(q)(4)(C) of such Act, the proposed regulations issued in accordance with such section shall be considered as the final regulations upon the expiration of such 6 months. There shall be promptly published in the Federal Register notice of new status of the proposed regulations.”
+“(3) If the Secretary of Health and Human Services does not promulgate final regulations under section403(q)(4) of the Federal Food, Drug, and Cosmetic Act upon the expiration of 6 months after the date on which the Secretary makes a finding that there has been no substantial compliance with section 403(q)(4)(C) of such Act, the proposed regulations issued in accordance with such section shall be considered as the final regulations upon the expiration of such 6 months. There shall be promptly published in the Federal Register notice of new status of the proposed regulations.”
 
 \[Section 202(a)(2)(C) of Pub. L. 102–571 provided that: “The amendments made by subparagraph (B) \[amending sections 2(b) and 3(b) of Pub. L. 101–535, set out above and below\] shall not be construed to modify the effective date of final regulations under sections 2(b) and 3(b) of the Nutrition Labeling and Education Act of 1990 \[Pub. L. 101–535\] (21 U.S.C. 343 note) with respect to foods that are not such dietary supplements.”\]
 

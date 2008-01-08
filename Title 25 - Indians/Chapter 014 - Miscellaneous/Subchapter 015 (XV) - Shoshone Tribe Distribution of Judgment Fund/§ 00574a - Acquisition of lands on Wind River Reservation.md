@@ -14,7 +14,7 @@ The income from lands acquired under subsection (a) of this section shall be cre
 
 #### (d) Savings provision
 
-Nothing in this section shall be construed to prevent the joint acquisition of lands for the benefit of the Eastern Shoshone Tribe of theWind River Reservation and the Northern Arapaho Tribe of the Wind River Reservation.
+Nothing in this section shall be construed to prevent the joint acquisition of lands for the benefit of the Eastern Shoshone Tribe of the Wind River Reservation and the Northern Arapaho Tribe of the Wind River Reservation.
 
 (Pub. L. 103–435, §15, Nov. 2, 1994, 108 Stat. 4573.)
 

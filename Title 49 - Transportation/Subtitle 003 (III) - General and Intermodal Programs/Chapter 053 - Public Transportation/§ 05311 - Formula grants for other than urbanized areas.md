@@ -148,7 +148,7 @@ In general.—A State shall expend at least 15 percent of the amount made availa
 
 &emsp;(2)
 
-Certification.—A State does not have to comply with paragraph (1) of this subsectionin a fiscal year in which the chief executive officer of the State certifies to the Secretary, after consultation with affected intercity bus service providers, that the intercity bus service needs of the State are being met adequately.
+Certification.—A State does not have to comply with paragraph (1) of this subsection in a fiscal year in which the chief executive officer of the State certifies to the Secretary, after consultation with affected intercity bus service providers, that the intercity bus service needs of the State are being met adequately.
 
 (g)
 
@@ -190,7 +190,7 @@ Remainder.—The remainder of net project costs—
 
 &emsp;(4)
 
-Use of certain funds.—For purposes of paragraph (3)(B), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to Federal or State funds to be used for transportation purposes.
+Use of certain funds.—For purposes of paragraph (3)(B), the prohibitions on the use offunds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to Federal or State funds to be used for transportation purposes.
 
 &emsp;(5)
 
@@ -352,7 +352,7 @@ Subsec. (g). Pub. L. 109–59, §3013(f), substituted “Government” for “Go
 
 “(1) In this subsection, ‘amounts of the Government or revenues’ do not include amounts received under a service agreement with a State or local social service agency or a private social service organization.
 
-“(2) A grant of the Government for a capital project under this section may not be more than 80 percent of the net cost of the project, as determined by the Secretary of Transportation. A grant to pay a subsidy for operating expenses may not be more than 50 percent of the net cost of the operating expense project. At least 50 percent of the remainder shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation. Transit system amounts that make up the remainder shall befrom an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.”
+“(2) A grant of the Government for a capital project under this section may not be more than 80 percent of the net cost of the project, as determined by the Secretary of Transportation. A grant to pay a subsidy for operating expenses may not be more than 50 percent of the net cost of the operating expense project. At least 50 percent of the remainder shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation. Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.”
 
 Subsec. (h). Pub. L. 109–59, §3013(g), redesignated subsec. (i) as (h) and struck out heading and text of former subsec. (h). Text read as follows: “An amount made available under this section may be used for operating assistance.”
 

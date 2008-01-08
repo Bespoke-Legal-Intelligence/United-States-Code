@@ -6,7 +6,7 @@ The purposes of assistance authorized by this section are—
 
 &emsp;(1) to promote good health, economic development, poverty reduction, women's empowerment, conflict prevention, and environmental sustainability by providing assistance to expand access to safe water and sanitation, promoting integrated water resource management, and improving hygiene for people around the world;
 
-&emsp;(2) to seek to reduce by one-half from the baseline year 1990 the proportion of people who are unable to reach or afford safe drinking water and the proportion of people without access to basic sanitation by 2015;
+&emsp;(2) to seek to reduce by one-half from the baseline year 1990 the proportion of people whoare unable to reach or afford safe drinking water and the proportion of people without access to basic sanitation by 2015;
 
 &emsp;(3) to focus water and sanitation assistance toward the countries, locales, and people with the greatest need;
 
@@ -82,7 +82,7 @@ Pub. L. 109–121, Dec. 1, 2005, 119 Stat. 2533, provided that:
 
 &emsp;“(10) Access to safe water and sanitation and improved hygiene are significant factors in controlling the spread of disease in the developing world and positively affecting worker productivity and economic development.
 
-&emsp;“(11) Increasing access to safe water and sanitation advances efforts toward other development objectives, such as fighting poverty and hunger, promotingprimary education and gender equality, reducing child mortality, promoting environmental stability, improving the lives of slum dwellers, and strengthening national security.
+&emsp;“(11) Increasing access to safe water and sanitation advances efforts toward other development objectives, such as fighting poverty and hunger, promoting primary education and gender equality, reducing child mortality, promoting environmental stability, improving the lives of slum dwellers, and strengthening national security.
 
 &emsp;“(12) Providing safe supplies of water and sanitation and hygiene improvements would save millions of lives by reducing the prevalence of water-borne diseases, water-based diseases, water-privation diseases, and water-related vector diseases.
 
@@ -166,7 +166,7 @@ Conforming Amendment.—\[Amended section 1704 of Title 7, Agriculture.\]
 
 “(a)
 
-Strategy.—The President, acting through the Secretary of State, shall develop a strategy to furtherthe United States foreign assistance objective to provide affordable and equitable access to safe water and sanitation in developing countries, as described in section 135 of the Foreign Assistance Act of 1961 \[this section\], as added by section 5(a) of this Act.
+Strategy.—The President, acting through the Secretary of State, shall develop a strategy to further the United States foreign assistance objective to provide affordable and equitable access to safe water and sanitation in developing countries, as described in section 135 of the Foreign Assistance Act of 1961 \[this section\], as added by section 5(a) of this Act.
 
 “(b)
 
@@ -228,7 +228,7 @@ Additional information.—Such reports shall include information on the amount o
 
 Definition.—In this subsection, the term ‘appropriate congressional committees’ means—
 
-&emsp;&emsp;“(A) the Committee on International Relations and the Committee on Appropriations of the House of Representatives; and
+&emsp;&emsp;“(A) the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Appropriations of the House of Representatives; and
 
 &emsp;&emsp;“(B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
@@ -256,7 +256,7 @@ Sense of Congress.—It is the sense of Congress that United States programs to 
 
 “(b)
 
-Report.—The Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report on efforts that the United States is making to support and promote programs that develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation.
+Report.—The Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on efforts that the United States is making to support and promote programs that develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation.
 
 #### “SEC. 11. AUTHORIZATION OF APPROPRIATIONS.
 

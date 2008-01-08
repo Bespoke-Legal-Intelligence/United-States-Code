@@ -44,7 +44,7 @@ The Secretary, acting through the Commissioner, shall—
 
 &emsp;(4) ensure that the Automated Targeting System has the capability to electronically identify, compile, and compare select data elements for cargo entered into or bound for the United States following a maritime transportation security incident, in order to efficiently identify cargo for increased inspection or expeditious release; and
 
-&emsp;(5) develop a schedule to address the recommendations of the Comptroller General of theUnited States, the Inspector General of the Department of the Treasury, and the Inspector General of the Department with respect to the operation of the Automated Targeting System.
+&emsp;(5) develop a schedule to address the recommendations of the Comptroller General of the United States, the Inspector General of the Department of the Treasury, and the Inspector General of the Department with respect to the operation of the Automated Targeting System.
 
 #### (f) Secure transmission of certain information
 

@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the “Hazardous Substance Superfund” (hereinafter in this section referred to as the “Superfund”), consisting of such amounts as may be—
+There is established in the Treasury of the United States a trust fund to be known as the“Hazardous Substance Superfund” (hereinafter in this section referred to as the “Superfund”), consisting of such amounts as may be—
 
 &emsp;(1) appropriated to the Superfund as provided in this section,
 
@@ -110,7 +110,7 @@ The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec.
 
 1990—Subsec. (d)(3)(B). Pub. L. 101–508 substituted “December 31, 1995” for “December 31, 1991”.
 
-1986—Subsec. (b). Pub. L. 99–509 inserted at end “In the case of the tax imposed by section 4611, paragraph\(1) shall apply only to so much of such tax as is attributable to the Hazardous Substance Superfund financing rate under section 4611(c).”
+1986—Subsec. (b). Pub. L. 99–509 inserted at end “In the case of the tax imposed by section 4611, paragraph (1) shall apply only to so much of such tax as is attributable to the Hazardous Substance Superfund financing rate under section 4611(c).”
 
 #### Effective Date of 1986 Amendment
 

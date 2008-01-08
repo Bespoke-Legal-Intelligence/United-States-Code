@@ -48,6 +48,10 @@ Each State technical committee established under subsection (a) of this section 
 
 (Pub. L. 99–198, title XII, §1261, as added Pub. L. 101–624, title XIV, §1446, Nov. 28, 1990, 104 Stat. 3604; amended Pub. L. 104–127, title III, §342(a), Apr. 4, 1996, 110 Stat. 1009.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+
 #### Amendments
 
 1996—Subsec. (c)(9) to (12). Pub. L. 104–127 added pars. (9) to (12).

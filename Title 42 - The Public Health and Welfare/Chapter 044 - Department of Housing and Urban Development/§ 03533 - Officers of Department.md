@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 90–83 struck out provision covering the compensation to b
 
 #### Effective Date of 1990 Amendment; Continued Service by Incumbents
 
-Amendment by Pub. L. 101–509 effective on first day of first pay period that begins on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Housing and Urban Development, see section 529 \[title I, §112(e)(1), (2)(D)\] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
+Amendment by Pub. L. 101–509 effective on first day of first pay period that begins on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Housing and Urban Development, see section 529\[title I, §112(e)(1), (2)(D)\] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
 
 #### Effective Date; Interim Appointments
 

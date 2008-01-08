@@ -10,9 +10,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### Similar Provisions
 
-Pub. L. 109–102, title V, §514, Nov. 14, 2005, 119 Stat. 2200, provided that: “The Secretary of the Treasury shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund to use the voice and vote of the United States to oppose any assistance by these institutions, using funds appropriated or made available pursuant to this Act \[see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
+Pub. L. 110–161, div. J, title VI, §614, Dec. 26, 2007, 121 Stat. 2318, provided that: “The Secretary of the Treasury shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund to use the voice and vote of the United States to oppose any assistance by these institutions, using funds appropriated or made available pursuant to titles II through V of this Act \[div. J of Pub. L. 110–161, see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 109–102, title V, §514, Nov. 14, 2005, 119 Stat. 2200.
 
 Pub. L. 108–447, div. D, title V, §514, Dec. 8, 2004, 118 Stat. 2995.
 

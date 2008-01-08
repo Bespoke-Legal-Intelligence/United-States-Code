@@ -26,7 +26,7 @@ Pub. L. 101–382, title II, §201, Aug. 20, 1990, 104 Stat. 655, provided that:
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 98–67 provided that: “This title \[enacting this chapter, amending section 1202 of this title and sections 274 and 7652 of Title 26, Internal Revenue Code, repealing section 2582 of thistitle, and enacting provisions set out as notes under sections 1319, 2251, and 2703 of this title, sections 274 and 7652 of Title 26, and section 1311 of Title 33, Navigation and Navigable Waters\] may be cited as the ‘Caribbean Basin Economic Recovery Act’.”
+Section 201 of title II of Pub. L. 98–67 provided that: “This title \[enacting this chapter, amending section 1202 of this title and sections 274 and 7652 of Title 26, Internal Revenue Code, repealing section 2582 of this title, and enacting provisions set out as notes under sections 1319, 2251, and 2703 of this title, sections 274 and 7652 of Title 26, and section 1311 of Title 33, Navigation and Navigable Waters\] may be cited as the ‘Caribbean Basin Economic Recovery Act’.”
 
 #### Findings and Policy
 
@@ -50,7 +50,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(7) Offering temporary benefits to Caribbean Basin countries will preserve the United States commitment to Caribbean Basin beneficiary countries, promote the growth of free enterprise and economic opportunity in these neighboring countries, and thereby enhance the national security interests of the United States.
 
-&emsp;“(8) Given the greater propensity of countries located in the Western Hemisphere to use United States components and to purchase United States products compared to other countries, increased trade and economic activity between the United States and countries in the Western Hemisphere will create new jobs in the United States as a result of expanding export opportunities.
+&emsp;“(8) Given the greater propensity of countries located in the Western Hemisphere to use United States components and to purchase United Statesproducts compared to other countries, increased trade and economic activity between the United States and countries in the Western Hemisphere will create new jobs in the United States as a result of expanding export opportunities.
 
 “(b)
 

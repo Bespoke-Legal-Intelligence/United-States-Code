@@ -6,7 +6,7 @@ Discrimination Against Airline Employees.—No air carrier or contractor or subc
 
 &emsp;(1) provided, caused to be provided, or is about to provide (with any knowledge of the employer) or cause to be provided to the employer or Federal Government information relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to air carrier safety under this subtitle or any other law of the United States;
 
-&emsp;(2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to air carrier safety under this subtitle or any other law of the United States;
+&emsp;(2) has filed, caused to be filed, or is about to file (with any knowledge of the employer) or cause to be filed a proceeding relating to any violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision ofFederal law relating to air carrier safety under this subtitle or any other law of the United States;
 
 &emsp;(3) testified or is about to testify in such a proceeding; or
 
@@ -26,7 +26,7 @@ Investigation; preliminary order.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 60 days after the date of receipt of a complaint filed under paragraph (1) and after affording the person named in the complaint an opportunity to submit to the Secretary of Labor a written response to the complaint and an opportunity to meet with a representative of the Secretary to present statements from witnesses, the Secretary of Labor shall conduct an investigation and determine whether there is reasonable cause to believe that the complaint has merit and notify, in writing, the complainant and the person alleged to have committed a violation of subsection (a) of the Secretary's findings. If the Secretary of Labor concludes that there is a reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary shall accompany the Secretary's findings with a preliminary order providing the relief prescribed by paragraph (3)(B). Not later than 30 days after the date of notification of findings under this paragraph, either the person alleged to have committed the violation or the complainant may file objectionsto the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Such hearings shall be conducted expeditiously. If a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
+In general.—Not later than 60 days after the date of receipt of a complaint filed under paragraph (1) and after affording the person named in the complaint an opportunity to submit to the Secretary of Labor a written response to the complaint and an opportunity to meet with a representative of the Secretary to present statements from witnesses, the Secretary of Labor shall conduct an investigation and determine whether there is reasonable cause to believe that the complaint has merit and notify, in writing, the complainant and the person alleged to have committed a violation of subsection (a) of the Secretary's findings. If the Secretary of Labor concludes that there is a reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary shall accompany the Secretary's findings with a preliminary order providing the relief prescribed by paragraph (3)(B). Not later than 30 days after the date of notification of findings under this paragraph, either the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Such hearings shall be conducted expeditiously. If a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
 
 &emsp;&emsp;(B)
 
@@ -70,7 +70,7 @@ Remedy.—If, in response to a complaint filed under paragraph (1), the Secretar
 
 &emsp;&emsp;(C)
 
-Frivolous complaints.—If the Secretary of Labor finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary of Labor may award to the prevailing employer a reasonable attorney's fee not exceeding $1,000.
+Frivolous complaints.—If the Secretary of Labor finds that a complaint under paragraph (1) is frivolous or has beenbrought in bad faith, the Secretary of Labor may award to the prevailing employer a reasonable attorney's fee not exceeding $1,000.
 
 &emsp;(4)
 

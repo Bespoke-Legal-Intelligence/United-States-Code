@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If the population of any possession of the United States for any calendar year is lessthan the population of the least populous State (other than a possession) for such calendar year, the limitation under paragraph (1)(A) shall not be less than the amount determined under subparagraph (B) for such calendar year.
+&emsp;&emsp;If the population of any possession of the United States for any calendar year is less than the population of the least populous State (other than a possession) for such calendar year, the limitation under paragraph (1)(A) shall not be less than the amount determined under subparagraph (B) for such calendar year.
 
 #### (B) Limitation
 
@@ -178,7 +178,7 @@ Only for purposes of this section, the term “private activity bond” shall no
 
 #### (1) In general
 
-&emsp;Only for purposes of this section, the term “private activity bond” shall not include anyexempt facility bond described in section 142(a)(6) which is issued as part of an issue if all of the property to be financed by the net proceeds of such issue is to be owned by a governmental unit.
+&emsp;Only for purposes of this section, the term “private activity bond” shall not include any exempt facility bond described in section 142(a)(6) which is issued as part of an issue if all of the property to be financed by the net proceeds of such issue is to be owned by a governmental unit.
 
 #### (2) Safe harbor for determination of government ownership
 
@@ -262,11 +262,11 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 &emsp;(2) the amount of any reduction in such ceiling under section 25(f) applicable to such authority for such year.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965.)
 
-#### Adjustment of State Ceiling for Private Activity Bond Volume Cap for Calendar Year 2007
+#### Adjustment of State Ceiling for Private Activity Bond Volume Cap for Calendar Year 2008
 
-<i>For inflation adjustment of amounts in subsection (d)(1) of this section used to calculate the State ceiling for volume cap for private activity bonds for calendar year 2007, see section 3.16 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of amounts in subsection (d)(1) of this section used to calculate the State ceiling for volume cap for private activity bonds for calendar year 2008, see section 3.16 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -274,7 +274,7 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 #### Amendments
 
-2005—Subsec. (g)(3). Pub. L. 109–59 substituted “(14), or (15) of section 142(a), and” for “or (14) of section 142(a) (relating to airports, docks and wharves, environmental enhancements of hydroelectric generating facilities, qualified public educational facilities, and qualified green building and sustainable design projects), and”.
+2005—Subsec. (g)(3). Pub. L. 109–59 substituted “(14), or (15) of section 142(a), and” for “or (14) of section142(a) (relating to airports, docks and wharves, environmental enhancements of hydroelectric generating facilities, qualified public educational facilities, and qualified green building and sustainable design projects), and”.
 
 2004—Subsec. (g)(3). Pub. L. 108–357 substituted “(13), or (14)” for “or (13)” and “qualified public educational facilities, and qualified green building and sustainable design projects” for “and qualified public educational facilities”.
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 102–486 applicable to bonds issued after Oct. 24, 1992, s
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

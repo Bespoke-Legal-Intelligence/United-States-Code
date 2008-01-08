@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b) of this section, the Commission may issue a license for the export of highly enriched uranium to be used as a fuel or target in a nuclear research or test reactor only if, in addition to any other requirement of this chapter, the Commission determines that—
+Except as provided in subsection (b) of this section, the Commission may issue a license for the export of highly enriched uranium to be used as a fuel or target in a nuclear research ortest reactor only if, in addition to any other requirement of this chapter, the Commission determines that—
 
 &emsp;(1) there is no alternative nuclear reactor fuel or target enriched in the isotope 235 to a lesser percent than the proposed export, that can be used in that reactor;
 
@@ -80,7 +80,7 @@ Except as provided in subsection (b) of this section, the Commission may issue a
 
 &emsp;&emsp;&emsp;(ii) sufficient quantities of medical isotopes are available from low enriched uranium targets and fuel to meet United States domestic needs; and
 
-&emsp;&emsp;&emsp;(iii) the average anticipated total cost increase from production of medical isotopes in such facilities without use of highly enriched uranium is less than 10 percent.
+&emsp;&emsp;&emsp;(iii) the average anticipated total cost increase from production of medical isotopes in such facilities without use ofhighly enriched uranium is less than 10 percent.
 
 #### (C) Report by the Secretary
 

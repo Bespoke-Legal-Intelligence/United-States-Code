@@ -34,7 +34,7 @@
 
 #### (c) Local uses of funds
 
-Funds made available under this subpart may not be used to pay any stipend, allowance, orother financial support to any student who is a participant under this division, except reimbursement for transportation, meals, and other reasonable out-of-pocket expenses directly related to participation in a program assisted under this subpart.
+Funds made available under this subpart may not be used to pay any stipend, allowance, or other financial support to any student who is a participant under this division, except reimbursement for transportation, meals, and other reasonable out-of-pocket expenses directly related to participation in a program assisted under this subpart.
 
 (Pub. L. 101–610, title I, §116A, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 832.)
 

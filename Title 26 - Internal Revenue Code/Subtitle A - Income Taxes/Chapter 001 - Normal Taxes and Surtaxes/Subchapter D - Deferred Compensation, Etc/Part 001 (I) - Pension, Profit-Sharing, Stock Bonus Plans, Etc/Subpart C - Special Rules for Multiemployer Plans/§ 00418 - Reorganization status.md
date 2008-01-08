@@ -20,9 +20,9 @@ For purposes of this subpart—
 
 &emsp;The net charge to the funding standard account for any plan year is the excess (if any) of—
 
-&emsp;&emsp;(A) the charges to the funding standard account for such year under section 412(b)(2), over
+&emsp;&emsp;(A) the charges to the funding standard account for such year under section 412(b)(2),<sup>1</sup> over
 
-&emsp;&emsp;(B) the credits to the funding standard account under section 412(b)(3)(B).
+&emsp;&emsp;(B) the credits to the funding standard account under section 412(b)(3)(B).<sup>1</sup>
 
 #### (3) Vested benefits charge
 
@@ -136,7 +136,7 @@ For purposes of this subpart—
 
 #### (E) Withdrawal liability
 
-&emsp;&emsp;For purposes of this part, any outstanding claim for withdrawal liability shall not be considered a plan asset, except as otherwise provided in regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of this part, any outstanding claim for withdrawal liability shall not beconsidered a plan asset, except as otherwise provided in regulations prescribed by the Secretary.
 
 #### (c) Prohibition of nonannuity payments
 
@@ -149,6 +149,8 @@ Any multiemployer plan which terminates under section 4041A(a)(2) of the Employe
 (Added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1271.)
 
 #### References in Text
+
+Section 412, referred to in subsec. (b)(2), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, section 412(b)(3) no longer contains a subpar. (B) and section 412(b)(2) no longer relates to charges to the funding standard account.
 
 Section 4001(a)(8) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(B), is classified to section 1301(a)(8) of Title 29, Labor.
 
@@ -167,4 +169,6 @@ Section 210 of title II of Pub. L. 96–364 provided that:
 &emsp;“(2) 3 years after the date of the enactment of this Act \[Sept. 26, 1980\].
 
 “(c) The amendments made by section 209 \[enacting section 194 of this title, and amending sections 501 and 4975 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Sept. 26, 1980\].”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -17,6 +17,7 @@
 | [6213\.](%C2%A7%2006213%20-%20Definitions.md) | Definitions. |
 | [6214\.](%C2%A7%2006214%20-%20Relocation%20costs.md) | Relocation costs. |
 | [6215\.](%C2%A7%2006215%20-%20Establishment%20of%20Radio%20Free%20Afghanistan.md) | Establishment of Radio Free Afghanistan. |
+| [6216\.](%C2%A7%2006216%20-%20Special%20authority%20for%20surge%20capacity.md) | Special authority for surge capacity. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,3 +41,4 @@
 - [&sect; 06213 - Definitions](%C2%A7%2006213%20-%20Definitions.md)
 - [&sect; 06214 - Relocation costs](%C2%A7%2006214%20-%20Relocation%20costs.md)
 - [&sect; 06215 - Establishment of Radio Free Afghanistan](%C2%A7%2006215%20-%20Establishment%20of%20Radio%20Free%20Afghanistan.md)
+- [&sect; 06216 - Special authority for surge capacity](%C2%A7%2006216%20-%20Special%20authority%20for%20surge%20capacity.md)

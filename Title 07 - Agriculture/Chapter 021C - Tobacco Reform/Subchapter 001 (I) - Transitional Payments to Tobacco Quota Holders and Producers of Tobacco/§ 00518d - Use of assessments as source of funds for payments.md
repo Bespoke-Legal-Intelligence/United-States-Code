@@ -14,7 +14,7 @@ In this section:
 
 &emsp;&emsp;(A) removed (as defined by section 5702 of title 26); and
 
-&emsp;&emsp;(B) not exempt from tax under chapter 52 of title 26 at the time of their removal underthat chapter or the Harmonized Tariff Schedule of the United States.
+&emsp;&emsp;(B) not exempt from tax under chapter 52 of title 26 at the time of their removal under that chapter or the Harmonized Tariff Schedule of the United States.
 
 #### (3) Market share
 
@@ -62,7 +62,7 @@ In this section:
 
 #### (3) Effect of insufficient amounts
 
-&emsp;If the Secretary determines that the assessment imposed under subsection (b) will result in insufficient amounts to carry out this subchapter during a fiscal year, the Secretary shall assess such additional amounts as the Secretary determines to be necessary to carry out this subchapter during that fiscal year. The additional amount shall be allocated to manufacturers and importers of each class of tobacco product specified in paragraph (1) in the same manner and based on the same percentages applicable under paragraph (1) or (2) for that fiscal year.
+&emsp;If the Secretary determines that the assessment imposed under subsection (b) will resultin insufficient amounts to carry out this subchapter during a fiscal year, the Secretary shall assess such additional amounts as the Secretary determines to be necessary to carry out this subchapter during that fiscal year. The additional amount shall be allocated to manufacturers and importers of each class of tobacco product specified in paragraph (1) in the same manner and based on the same percentages applicable under paragraph (1) or (2) for that fiscal year.
 
 #### (d) Notification and timing of assessments
 
@@ -96,7 +96,7 @@ In this section:
 
 #### (B) Base period quarter
 
-&emsp;&emsp;The assessment for a calendar year quarter shall correspond to the base period quarterthat ended at the end of the preceding calendar year quarter.
+&emsp;&emsp;The assessment for a calendar year quarter shall correspond to the base period quarter that ended at the end of the preceding calendar year quarter.
 
 #### (e) Allocation of assessment within each class of tobacco product
 

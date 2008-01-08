@@ -84,5 +84,3 @@ Section 380(e) of Pub. L. 102–484 provided that:
 
 Section 328(h) of Pub. L. 101–510 provided that: “The amendments made by this section \[amending this section and sections 4308, 4311, and 4313 of this title\] shall take effect on October 1, 1992.”
 
-§4310
-

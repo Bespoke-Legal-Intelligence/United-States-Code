@@ -6,7 +6,7 @@
 
 &emsp;(2) “value” means fair market value as of the date of the filing of the petition or, with respect to property that becomes property of the estate after such date, as of the date such property becomes property of the estate.
 
-(b)(1) Notwithstanding section 541 of this title, an individual debtor may exempt from property of the estate the property listed in either paragraph (2) or, in the alternative, paragraph (3) of this subsection. In joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Federal Rules of Bankruptcy Procedure, one debtor may not elect to exempt property listed in paragraph (2) and the other debtor elect to exempt property listed in paragraph (3) of this subsection. If the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph\(2), where such election is permitted under the law of the jurisdiction where the case is filed.
+(b)(1) Notwithstanding section 541 of this title, an individual debtor may exempt from property of the estate the property listed in either paragraph (2) or, in the alternative, paragraph (3) of this subsection. In joint cases filed under section 302 of this title and individual cases filed under section 301 or 303 of this title by or against debtors who are husband and wife, and whose estates are ordered to be jointly administered under Rule 1015(b) of the Federal Rules of Bankruptcy Procedure, one debtor may not elect to exempt property listed in paragraph (2) and the other debtor elect to exempt property listed in paragraph (3) of this subsection. If the parties cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (2), where such election is permitted under the law of the jurisdiction where the case is filed.
 
 (2) Property listed in this paragraph is property that is specified under subsection (d), unless the State law that is applicable to the debtor under paragraph (3)(A) specifically does not so authorize.
 
@@ -212,11 +212,11 @@
 
 (k) Property that the debtor exempts under this section is not liable for payment of any administrative expense except—
 
-&emsp;(1) the aliquot share of the costs and expenses of avoiding a transfer of property that the debtor exempts under subsection (g) of this section, or of recovery of such property, that is attributable to the value of the portion of such property exempted in relation to the value of the property recovered; and
+&emsp;(1) the aliquot share of the costs and expenses of avoiding a transfer of property that the debtor exempts under subsection (g) of this section, or of recovery of such property, that is attributable to the value of the portionof such property exempted in relation to the value of the property recovered; and
 
 &emsp;(2) any costs and expenses of avoiding a transfer under subsection (f) or (h) of this section, or of recovery of property under subsection (i)(1) of this section, that the debtor has not paid.
 
-(<i>l</i>) The debtor shall file a list of property that the debtor claims as exempt under subsection\(b) of this section. If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor. Unless a party in interest objects, the property claimed as exempt on such list is exempt.
+(<i>l</i>) The debtor shall file a list of property that the debtor claims as exempt under subsection (b) of this section. If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor. Unless a party in interest objects, the property claimed as exempt on such list is exempt.
 
 (m) Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
 
@@ -346,17 +346,17 @@ Subsection (b), the operative subsection of this section, is a significant depar
 
 &emsp;—Injury or death compensation payments from war risk hazards, 42 U.S.C. 1717;
 
-&emsp;—Wages of fishermen, seamen, and apprentices, 46 U.S.C. 601;
+&emsp;—Wages of fishermen, seamen, and apprentices, 46 U.S.C. 601; <sup>8</sup>
 
-&emsp;—Civil service retirement benefits, 5 U.S.C. 729, 2265; <sup>8</sup>
+&emsp;—Civil service retirement benefits, 5 U.S.C. 729, 2265; <sup>9</sup>
 
 &emsp;—Longshoremen's and Harbor Workers’ Compensation Act death and disability benefits, 33 U.S.C. 916;
 
-&emsp;—Railroad Retirement Act annuities and pensions, 45 U.S.C. 228(<i>l</i>); <sup>9</sup>
+&emsp;—Railroad Retirement Act annuities and pensions, 45 U.S.C. 228(<i>l</i>); <sup>10</sup>
 
-&emsp;—Veterans benefits, 45 U.S.C. 352(E); <sup>10</sup>
+&emsp;—Veterans benefits, 45 U.S.C. 352(E); <sup>11</sup>
 
-&emsp;—Special pensions paid to winners of the Congressional Medal of Honor, 38 U.S.C. 3101; <sup>11</sup> and
+&emsp;—Special pensions paid to winners of the Congressional Medal of Honor, 38 U.S.C. 3101; <sup>12</sup> and
 
 &emsp;—Federal homestead lands on debts contracted before issuance of the patent, 43 U.S.C. 175.
 
@@ -452,7 +452,7 @@ Subsecs. (p), (q). Pub. L. 109–8, §322(a), added subsecs. (p) and (q).
 
 1994—Subsec. (b). Pub. L. 103–394, §501(d)(12)(A), substituted “Federal Rules of Bankruptcy Procedure” for “Bankruptcy Rules”.
 
-Subsec. (d)(1) to (6). Pub. L. 103–394, §108(d)(1)–(6), substituted “$15,000” for “$7,500” in par. (1), “$2,400” for“$1,200” in par. (2), “$400” and “$8,000” for “$200” and “$4,000”, respectively, in par. (3), “$1,000” for “$500” in par. (4), “$800” and “$7,500” for “$400” and “$3,750”, respectively, in par. (5), and “$1,500” for “$750” in par. (6).
+Subsec. (d)(1) to (6). Pub. L. 103–394, §108(d)(1)–(6), substituted “$15,000” for “$7,500” in par. (1), “$2,400” for “$1,200” in par. (2), “$400” and “$8,000” for “$200” and “$4,000”, respectively, in par. (3), “$1,000” for “$500” in par. (4), “$800” and “$7,500” for “$400” and “$3,750”, respectively, in par. (5), and “$1,500” for “$750” in par. (6).
 
 Subsec. (d)(8). Pub. L. 103–394, §108(d)(7), substituted “$8,000” for “$4,000”.
 
@@ -544,11 +544,13 @@ For adjustment of dollar amounts specified in subsecs. (d)(1) to (6), (8), (11)(
 
 <i><sup>7</sup></i><i> Replaced by 22 U.S.C. 4060(c).</i>
 
-<i><sup>8</sup></i><i> Replaced by 5 U.S.C. 8346.</i>
+<i><sup>8</sup></i><i> Replaced by 46 U.S.C. 11108, 11109.</i>
 
-<i><sup>9</sup></i><i> Replaced by 45 U.S.C. 231m.</i>
+<i><sup>9</sup></i><i> Replaced by 5 U.S.C. 8346.</i>
 
-<i><sup>10</sup></i><i> Railroad unemployment benefits are covered by 45 U.S.C. 352(e).</i>
+<i><sup>10</sup></i><i> Replaced by 45 U.S.C. 231m.</i>
 
-<i><sup>11</sup></i><i> Veterans benefits generally are covered by 38 U.S.C. 3101 \[now 5301\].</i>
+<i><sup>11</sup></i><i> Railroad unemployment benefits are covered by 45 U.S.C. 352(e).</i>
+
+<i><sup>12</sup></i><i> Veterans benefits generally are covered by 38 U.S.C. 3101 \[now 5301\].</i>
 

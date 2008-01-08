@@ -26,7 +26,7 @@
 
 (e)(1)(A) In any proceeding under subsection (a)(1), any member of the Board may request from the Director of the Office of Personnel Management an advisory opinion concerning the interpretation of any rule, regulation, or other policy directive promulgated by the Office of Personnel Management.
 
-(B)(i) The Merit Systems Protection Board may, during an investigation by the Office of Special Counsel or during the pendency of any proceeding before the Board, issue any order which may be necessary to protect a witness or other individual from harassment, except that an agency (other than the Office of Special Counsel) may not request any such order with regard to an investigation by the Office of Special Counsel from the Board during such investigation.
+(B)(i) The Merit Systems Protection Board may, during an investigation by the Office of Special Counsel or during the pendency of any proceeding before the Board, issue any order which may be necessary to protect a witness orother individual from harassment, except that an agency (other than the Office of Special Counsel) may not request any such order with regard to an investigation by the Office of Special Counsel from the Board during such investigation.
 
 (ii) An order issued under this subparagraph may be enforced in the same manner as provided for under paragraph (2) with respect to any order under subsection (a)(2).
 
@@ -66,7 +66,7 @@
 
 (j) The Chairman of the Board may appoint such personnel as may be necessary to perform the functions of the Board. Any appointment made under this subsection shall comply with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
 
-(k) The Board shall prepare and submit to the President, and, at the same time, to the appropriate committees of Congress, an annual budget of the expenses and other items relating to the Board which shall, as revised, be included asa separate item in the budget required to be transmitted to the Congress under section 1105 of title 31.
+(k) The Board shall prepare and submit to the President, and, at the same time, to the appropriate committees of Congress, an annual budget of the expenses and other items relating to the Board which shall, as revised, be included as a separate item in the budget required to be transmitted to the Congress under section 1105 of title 31.
 
 (<i>l</i>) The Board shall submit to the President, and, at the same time, to each House of the Congress, any legislative recommendations of the Board relating to any of its functions under this title.
 

@@ -10,3 +10,7 @@ The provisions of this section shall not be applicable to the conveyance in exch
 
 1983—Pub. L. 97–465 inserted references to State, county, or municipal government in three places in existing provisions and inserted provision authorizing the conveyance of lands to any State, county, or municipal government pursuant to this section only if the lands were being utilized by such entities on January 12, 1983, and requiring that lands so conveyed be used only for the purposes for which they were being used prior to conveyance.
 
+#### Short Title
+
+This section is popularly known as the Sisk Act.
+

@@ -58,7 +58,7 @@ This subchapter does not apply to any discharge—
 
 #### (A) Third party treated as responsible party
 
-&emsp;&emsp;Except as provided in subparagraph (B), in any case in which a responsible party establishes that a discharge or threat of a discharge and the resulting removal costs and damages were caused solely by an act or omission of one or more third parties described in section 2703(a)(3) of this title (or solely by such an act or omission in combination with an act of God or an act of war), the third party or parties shall be treated as the responsible party or parties for purposesof determining liability under this subchapter.
+&emsp;&emsp;Except as provided in subparagraph (B), in any case in which a responsible party establishes that a discharge or threat of a discharge and the resulting removal costs and damages were caused solely by an act or omission of one or more third parties described in section 2703(a)(3) of this title (or solely by such an act or omission in combination with an act of God or an act of war), the third party or parties shall be treated as the responsible party or parties for purposes of determining liability under this subchapter.
 
 #### (B) Subrogation of responsible party
 
@@ -86,5 +86,5 @@ This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 S
 
 The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
-The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
+The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands.For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 

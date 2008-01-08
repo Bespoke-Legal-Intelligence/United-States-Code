@@ -14,7 +14,7 @@ There is hereby established within the Department of the Interior the National M
 
 #### (1) Grants to National Trust for Historic Preservation
 
-&emsp;The Secretary, subject to paragraphs (2), (3), and (4), and the availability of amounts for that purpose under section 5405(b)(1)(A) of this title, shall make an annual grant to the National Trust for maritime heritage education projects.
+&emsp;The Secretary, subject to paragraphs (2), (3), and (4), <sup>1</sup> and the availability of amounts for that purpose under section 5405(b)(1)(A) of this title, shall make an annual grant to the National Trust for maritime heritage education projects.
 
 #### (2) Use of grants
 
@@ -54,11 +54,11 @@ There is hereby established within the Department of the Interior the National M
 
 #### (1) Grants to State Historic Preservation Officers
 
-&emsp;The Secretary, acting through the National Maritime Initiative of the National Park Service and subject to paragraphs (2) and (3), and the availability of amounts for that purpose under section 5405(b)(1)(B) of this title, shall make grants to State Historic Preservation Officers for maritime heritage preservation projects.
+&emsp;The Secretary, acting through the National Maritime Initiative of the National Park Service and subject to paragraphs (2) and (3), <sup>2</sup> and the availability of amounts for that purpose under section 5405(b)(1)(B) of this title, shall make grants to State Historic Preservation Officers for maritime heritage preservation projects.
 
 #### (2) Use of grants
 
-&emsp;Amounts received by a State Historic Preservation Officer as a grant under this subsection shall be used by the Officer to carry out <sup>1</sup> or to make subgrants to local governments and private nonprofit organizations to carry out, projects which have been approved by the Secretary under subsection (f) of this section for the preservation of historic maritime resources through—
+&emsp;Amounts received by a State Historic Preservation Officer as a grant under this subsection shall be used by the Officer to carry out <sup>3</sup> or to make subgrants to local governments and private nonprofit organizations to carry out, projects which have been approved by the Secretary under subsection (f) of this section for the preservation of historic maritime resources through—
 
 &emsp;&emsp;(A) identification of historic maritime resources, including underwater archaeological sites;
 
@@ -66,7 +66,7 @@ There is hereby established within the Department of the Interior the National M
 
 &emsp;&emsp;(C) repair, restoration, stabilization, maintenance, or other capital improvements to historic maritime resources, in accordance with standards prescribed by the Secretary; and
 
-&emsp;&emsp;(D) research, recording (through drawings, photographs, or otherwise), planning\(through feasibility studies, architectural and engineering services, or otherwise), and other services carried out as part of a preservation program for historic maritime resources.
+&emsp;&emsp;(D) research, recording (through drawings, photographs, or otherwise), planning (through feasibility studies, architectural and engineering services, or otherwise), and other services carried out as part of a preservation program for historic maritime resources.
 
 #### (d) Criteria for direct grant and subgrant eligibility
 
@@ -102,7 +102,7 @@ To qualify for a subgrant from the National Trust under subsection (b) of this s
 
 #### (1) Committee recommendations
 
-&emsp;The National Maritime Heritage Grants Committee shall review applications for subgrants under subsection (b) of this section, and direct grants or subgrants under subsection (c) of this section, and submit recommendations to the Secretary regarding projects which should receive funding under those direct grants and subgrants.
+&emsp;The National Maritime Heritage Grants Committee <sup>4</sup> shall review applications for subgrants under subsection (b) of this section, and direct grants or subgrants under subsection (c) of this section, and submit recommendations to the Secretary regarding projects which should receive funding under those direct grants and subgrants.
 
 #### (2) Allocation of grant funding
 
@@ -172,7 +172,7 @@ The Secretary, the National Trust, and the State Historic Preservation Officers 
 
 &emsp;&emsp;(C) A grant to any nonprofit organization which operates and maintains a former hospital ship to be converted to engage in public health activities, for use in refurbishing and maintaining the ship for those activities.
 
-&emsp;&emsp;(D) A grant to the Mariners’ Museum (a not-for-profit educational institution located in Newport News, Virginia,<sup>2</sup> for use for expenses directly related to the computerization of the library and archives of that museum, including for the purpose of providing to the public enhanced national access to those materials.
+&emsp;&emsp;(D) A grant to the Mariners’ Museum (a not-for-profit educational institution located in Newport News, Virginia,<sup>5</sup> for use for expenses directly related to the computerization of the library and archives of that museum, including for the purpose of providing to the public enhanced national access to those materials.
 
 &emsp;&emsp;(E) A grant for each of fiscal years 1996, 1997, 1998, 1999, and 2000 to the Center for Maritime and Underwater Resource Management at Michigan State University, for a pilot project to plan, design, implement, and evaluate innovative approaches to management and development of maritime and underwater cultural resources at the following sites: Thunder Bay, the Manitou Passage, Isle Royale National Park, Keweenaw Peninsula, Marquette County, Alger County, Whitefish Point, the Straits of Mackinac, the Thumb Area, and Sanilac Shores.
 
@@ -192,7 +192,13 @@ The Secretary shall submit to the Congress, after review by the Committee, an an
 
 (Pub. L. 103–451, §4, Nov. 2, 1994, 108 Stat. 4770.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> So in original. No pars. (3) and (4) have been enacted.</i>
 
-<i><sup>2</sup></i><i> So in original. The comma probably should be a closing parenthesis.</i>
+<i><sup>2</sup></i><i> So in original. No par. (3) has been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “National Maritime Heritage Grants Advisory Committee”.</i>
+
+<i><sup>5</sup></i><i> So in original. The comma probably should be a closing parenthesis.</i>
 

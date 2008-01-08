@@ -2,7 +2,7 @@
 
 (a)
 
-Investigative and Surveillance Activities.—The Secretary concerned may prescribe investigative and surveillance activities necessary to enforce the safety regulations prescribed and orders issued by the Secretary <sup>1</sup> that apply to railroad equipment, facilities, rollingstock, and operations in a State. The State may participate in those activities when the safety practices for railroad equipment, facilities, rolling stock, and operations in the State are regulated by a State authority and the authority submits to the Secretary concerned an annual certification as provided in subsection (b) of this section.
+Investigative and Surveillance Activities.—The Secretary concerned may prescribe investigative and surveillance activities necessary to enforce the safety regulations prescribed and orders issued by the Secretary <sup>1</sup> that apply to railroad equipment, facilities, rolling stock, and operations in a State. The State may participate in those activities when the safety practices for railroad equipment, facilities, rolling stock, and operations in the State are regulated by a State authority and the authority submits to the Secretary concerned an annual certification as provided in subsection (b) of this section.
 
 (b)
 
@@ -38,7 +38,7 @@ Agreement When Certification Not Received.—(1) If the Secretary concerned does
 
 (d)
 
-Agreement for Investigative and Surveillance Activities.—In addition to providing for State participation under this section, the Secretary concerned may make an agreement with a State to provide investigative and surveillance activities related to the duties under chapters 203–213 of this title (in the case of the Secretary of Transportation) and duties under section 114 of this title (in the case of the Secretary of Homeland Security).
+Agreement for Investigative and Surveillance Activities.—In addition to providing for State participation under this section, theSecretary concerned may make an agreement with a State to provide investigative and surveillance activities related to the duties under chapters 203–213 of this title (in the case of the Secretary of Transportation) and duties under section 114 of this title (in the case of the Secretary of Homeland Security).
 
 (e)
 

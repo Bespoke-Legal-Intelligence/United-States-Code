@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this subchapter, the Secretary shall establish a demonstration program under which States may provide under their State plans under this subchapter (including such a plan operating under a statewide waiver under section 1315 of this title) in accordance with this section for the provision of alternative benefits consistent with subsection (c) for eligible population groups in one or more geographic areas of the State specified by the State. An amendment under the previous sentence is referred to in this section as a “State demonstration program”.
+&emsp;Notwithstanding any other provision of this subchapter, the Secretary shall establish a demonstration program under which States may provide under their State plans underthis subchapter (including such a plan operating under a statewide waiver under section 1315 of this title) in accordance with this section for the provision of alternative benefits consistent with subsection (c) for eligible population groups in one or more geographic areas of the State specified by the State. An amendment under the previous sentence is referred to in this section as a “State demonstration program”.
 
 #### (2) Initial demonstration
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(A) Individuals who are 65 years of age or older.
 
-&emsp;&emsp;(B) Individuals who are disabled, regardless of whether or not their eligibility formedical assistance under this subchapter is based on such disability.
+&emsp;&emsp;(B) Individuals who are disabled, regardless of whether or not their eligibility for medical assistance under this subchapter is based on such disability.
 
 &emsp;&emsp;(C) Individuals who are eligible for medical assistance under this subchapter only because they are (or were within the previous 60 days) pregnant.
 
@@ -134,7 +134,7 @@
 
 &emsp;&emsp;For purposes of this paragraph:
 
-&emsp;&emsp;&emsp;(i) The term “demonstration program Medicaid services” means, with respect to an individual participating in a State demonstration program, services for which theindividual would be provided medical assistance under this subchapter but for the application of the deductible described in paragraph (1)(A).
+&emsp;&emsp;&emsp;(i) The term “demonstration program Medicaid services” means, with respect to an individual participating in a State demonstration program, services for which the individual would be provided medical assistance under this subchapter but for the application of the deductible described in paragraph (1)(A).
 
 &emsp;&emsp;&emsp;(ii) The term “participating provider” means—
 
@@ -148,7 +148,7 @@
 
 #### (5) Overriding cost sharing and comparability requirements for alternative benefits
 
-&emsp;The provisions of this subchapter relating to cost sharing for benefits (including sections 1396<i>o</i> and 1396<i>o</i>–1 of this title) shall not apply with respect to benefits to which the annual deductible under paragraph (1)(A) applies. The provisions of section 1396a(a)(10)(B) of this title (relating to comparability) shall not apply with respect to the provision of alternative benefits (as described in this subsection).
+&emsp;The provisions of this subchapter relating to cost sharing for benefits (including sections 1396<i>o</i> and 1396<i>o</i>–1 of this title) shall not apply with respect to benefits to which the annual deductible under paragraph (1)(A) applies. Theprovisions of section 1396a(a)(10)(B) of this title (relating to comparability) shall not apply with respect to the provision of alternative benefits (as described in this subsection).
 
 #### (6) Treatment as medical assistance
 
@@ -210,7 +210,7 @@
 
 #### (iii) Budget neutral adjustment
 
-&emsp;&emsp;&emsp;A State may provide for dollar limitations in excess of those specified in clause\(i)(III) (as increased under clause (ii)) for specified individuals if the State provides assurances satisfactory to the Secretary that contributions otherwise made to other individuals will be reduced in a manner so as to provide for aggregate contributions that do not exceed the aggregate contributions that would otherwise be permitted under this subparagraph.
+&emsp;&emsp;&emsp;A State may provide for dollar limitations in excess of those specified in clause (i)(III) (as increased under clause (ii)) for specified individuals if the State provides assurances satisfactory to the Secretary that contributions otherwise made to other individuals will be reduced in a manner so as to provide for aggregate contributions that do not exceed the aggregate contributions that would otherwise be permitted under this subparagraph.
 
 #### (D) Limitations on Federal matching
 

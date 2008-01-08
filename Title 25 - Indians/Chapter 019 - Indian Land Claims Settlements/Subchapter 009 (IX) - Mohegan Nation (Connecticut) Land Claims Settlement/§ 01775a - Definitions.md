@@ -4,7 +4,7 @@ As used in this subchapter:
 
 #### (1) Lands or natural resources
 
-&emsp;The term “lands or natural resources” means any real property or natural resources,or any interest in or right involving any real property or natural resources, including any right or interest in minerals, timber, or water, and any hunting or fishing rights.
+&emsp;The term “lands or natural resources” means any real property or natural resources, or any interest in or right involving any real property or natural resources, including any right or interest in minerals, timber, or water, and any hunting or fishing rights.
 
 #### (2) Mohegan Tribe
 

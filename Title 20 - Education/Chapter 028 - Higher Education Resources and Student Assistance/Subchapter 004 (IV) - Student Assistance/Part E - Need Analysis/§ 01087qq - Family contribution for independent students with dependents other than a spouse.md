@@ -49,7 +49,8 @@ Percentages for Computation of State and Other Tax Allowance
 | If student's State or territory of residence is— | And family's total income is— |  |
 | :--- | :---: | ---: |
 | less than $15,000 | $15,000 or more |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then the percentage is— |  |  |
+| &nbsp; |  |  |
+| (1)then the percentage is— |  |  |
 |  |  |  |
 |  |  |  |
 | Alaska, Puerto Rico, Wyoming | &nbsp;3 | &nbsp;2 |
@@ -135,7 +136,8 @@ Asset Protection Allowances for Families and Students
 | If the age of the student is— | And the student is |  |
 | :--- | :---: | ---: |
 | married | single |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then the allowance is— |  |  |
+| &nbsp; |  |  |
+| (1)then the allowance is— |  |  |
 |  |  |  |
 |  |  |  |
 | 25 or less | &nbsp;$  0 | &nbsp;&nbsp;&nbsp;$0 |
@@ -204,7 +206,79 @@ Assessment From Adjusted Available Income (AAI)
 
 In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's available income or assets.
 
-(Pub. L. 89–329, title IV, §477, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100–50, §14(1)–(6), (8), (18), (19), June 3, 1987, 101 Stat. 349–351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 597; Pub. L. 103–208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(i), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §475, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(c)(1), Feb. 8, 2006, 120 Stat. 173.)
+(Pub. L. 89–329, title IV, §477, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100–50, §14(1)–(6), (8), (18), (19), June 3, 1987, 101 Stat. 349–351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 597; Pub. L. 103–208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(i), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §475, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(c)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(c), Sept. 27, 2007, 121 Stat. 802.)
+
+#### Amendment of Subsection (b)(4)
+
+<i>Pub. L. 110–84, title VI, §601(c), (e), Sept. 27, 2007, 121 Stat. 802, 804, provided that, effective July 1, 2009, subsection (b)(4) of this section is amended to read as follows:</i>
+
+#### <i>(4) Income protection allowance</i>
+
+&emsp;<i>The income protection allowance is determined by the tables described in subparagraphs (A) through (D) (or a successor table prescribed by the Secretary under section 1087rr of this title).</i>
+
+#### <i>(A) Academic year 2009–2010</i>
+
+&emsp;&emsp;<i>For academic year 2009–2010, the income protection allowance is determined by the following table:</i>
+
+<i>Income Protection Allowance</i>
+
+| Family Size | Number in College |  |  |  |  |  |
+| :--- | :---: | :---: | :---: | :---: | :---: | ---: |
+| (including student) | 1 | 2 | 3 | 4 | 5 | For each additional subtract: |
+| 2 | $17,720 | $14,690 |  |  |  |  |
+| 3 | &nbsp;22,060 | &nbsp;19,050 | $16,020 |  |  |  |
+| 4 | &nbsp;27,250 | &nbsp;24,220 | &nbsp;21,210 | $18,170 |  |  |
+| 5 | &nbsp;32,150 | &nbsp;29,120 | &nbsp;26,100 | &nbsp;23,070 | $20,060 |  |
+| 6 | &nbsp;37,600 | &nbsp;34,570 | &nbsp;31,570 | &nbsp;28,520 | &nbsp;25,520 | &nbsp;$3,020 |
+| For each additional add: | 4,240 | 4,240 | 4,240 | 4,240 | 4,240 |  |
+
+#### <i>(B) Academic year 2010–2011</i>
+
+&emsp;&emsp;<i>For academic year 2010–2011, the income protection allowance is determined by the following table:</i>
+
+<i>Income Protection Allowance</i>
+
+| Family Size | Number in College |  |  |  |  |  |
+| :--- | :---: | :---: | :---: | :---: | :---: | ---: |
+| (including student) | 1 | 2 | 3 | 4 | 5 | For each additional subtract: |
+| 2 | $19,690 | $16,330 |  |  |  |  |
+| 3 | &nbsp;24,510 | &nbsp;21,160 | $17,800 |  |  |  |
+| 4 | &nbsp;30,280 | &nbsp;26,910 | &nbsp;23,560 | $20,190 |  |  |
+| 5 | &nbsp;35,730 | &nbsp;32,350 | &nbsp;29,000 | &nbsp;25,640 | $22,290 |  |
+| 6 | &nbsp;41,780 | &nbsp;38,410 | &nbsp;35,080 | &nbsp;31,690 | &nbsp;28,350 | $3,350 |
+| For each additional add: | 4,710 | 4,710 | 4,710 | 4,710 | 4,710 |  |
+
+#### <i>(C) Academic year 2011–2012</i>
+
+&emsp;&emsp;<i>For academic year 2011–2012, the income protection allowance is determined by the following table:</i>
+
+<i>Income Protection Allowance</i>
+
+| Family Size | Number in College |  |  |  |  |  |
+| :--- | :---: | :---: | :---: | :---: | :---: | ---: |
+| (including student) | 1 | 2 | 3 | 4 | 5 | For each additional subtract: |
+| 2 | $21,660 | $17,960 |  |  |  |  |
+| 3 | &nbsp;26,960 | &nbsp;23,280 | $19,580 |  |  |  |
+| 4 | &nbsp;33,300 | &nbsp;29,600 | &nbsp;25,920 | $22,210 |  |  |
+| 5 | &nbsp;39,300 | &nbsp;35,590 | &nbsp;31,900 | &nbsp;28,200 | $24,520 |  |
+| 6 | &nbsp;45,950 | &nbsp;42,250 | &nbsp;38,580 | &nbsp;34,860 | &nbsp;31,190 | $3,690 |
+| For each additional add: | 5,180 | 5,180 | 5,180 | 5,180 | 5,180 |  |
+
+#### <i>(D) Academic year 2012–2013</i>
+
+&emsp;&emsp;<i>For academic year 2012–2013, the income protection allowance is determined by the following table:</i>
+
+<i>Income Protection Allowance</i>
+
+| Family Size | Number in College |  |  |  |  |  |
+| :--- | :---: | :---: | :---: | :---: | :---: | ---: |
+| (including student) | 1 | 2 | 3 | 4 | 5 | For each additional subtract: |
+| 2 | $23,630 | $19,590 |  |  |  |  |
+| 3 | &nbsp;29,420 | &nbsp;25,400 | $21,360 |  |  |  |
+| 4 | &nbsp;36,330 | &nbsp;32,300 | &nbsp;28,280 | $24,230 |  |  |
+| 5 | &nbsp;42,870 | &nbsp;38,820 | &nbsp;34,800 | &nbsp;30,770 | $26,750 |  |
+| 6 | &nbsp;50,130 | &nbsp;46,100 | &nbsp;42,090 | &nbsp;38,030 | &nbsp;34,020 | $4,020 |
+| For each additional add: | 5,660 | 5,660 | 5,660 | 5,660 | 5,660 |  |
 
 #### Amendments
 
@@ -247,6 +321,10 @@ Subsec. (c)(4)(B). Pub. L. 100–50, §14(5), substituted “$15,999” for “$
 Subsec. (c)(4)(C). Pub. L. 100–50, §14(6), substituted “$16,000” for “$15,000” in three places.
 
 Subsec. (d). Pub. L. 100–50, §14(1), (8), substituted “section 1087rr of this title” for “section 1087ss of this title” in text and inserted a minus sign before “$3,409” in two places in table.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub. L. 110–84, set out as a note under section 1087<i>oo</i> of this title.
 
 #### Effective Date of 2006 Amendment
 

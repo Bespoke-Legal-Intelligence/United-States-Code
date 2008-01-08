@@ -24,7 +24,7 @@ Pub. L. 105–219, §1(a), Aug. 7, 1998, 112 Stat. 913, provided that: “This A
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–86, title VII, §701, Aug. 10, 1987, 101 Stat. 652, provided that: “This title \[enacting section 1772c of this title and amending sections 1757, 1761a, 1761b, 1764, 1766, 1767, and 1786 to 1788 of this title and sections 45, 46, and 57a of Title 15, Commerce and Trade\] may be cited as the ‘Credit Union Amendments of 1987’.”
+Pub. L. 100–86, title VII, §701, Aug. 10, 1987, 101 Stat. 652, provided that: “This title \[enacting section 1772c ofthis title and amending sections 1757, 1761a, 1761b, 1764, 1766, 1767, and 1786 to 1788 of this title and sections 45, 46, and 57a of Title 15, Commerce and Trade\] may be cited as the ‘Credit Union Amendments of 1987’.”
 
 #### Short Title of 1978 Amendment
 

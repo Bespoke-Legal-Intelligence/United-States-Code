@@ -20,7 +20,7 @@ Except as otherwise provided in this division, the Secretary shall, on a competi
 
 &emsp;&emsp;&emsp;(ii) meets the requirements of this division; and
 
-&emsp;&emsp;&emsp;(iii) contains a plan to consolidate and use funds in accordance with section 7321a of this title in order to meet the State's definition of adequate yearly progress and the local educational agency's specific,measurable goals for improving student achievement and narrowing achievement gaps; and
+&emsp;&emsp;&emsp;(iii) contains a plan to consolidate and use funds in accordance with section 7321a of this title in order to meet the State's definition of adequate yearly progress and the local educational agency's specific, measurable goals for improving student achievement and narrowing achievement gaps; and
 
 &emsp;&emsp;(B) have consulted and involved parents and other educators in the development of the proposed local flexibility demonstration agreement.
 
@@ -88,7 +88,7 @@ Each local flexibility demonstration agreement entered into with the Secretary u
 
 #### (10) Annual reports
 
-&emsp;The local flexibility demonstration agreement shall contain an assurance that the local educational agency shall, not later than 1 year after the date on which the Secretary entersinto the agreement, and annually thereafter during the term of the agreement, disseminate widely to parents and the general public, transmit to the Secretary, and the State educational agency for the State in which the local educational agency is located, distribute to print and broadcast media, and post on the Internet, a report that includes a detailed description of how the local educational agency used the funds consolidated under the agreement to improve student academic achievement and reduce achievement gaps.
+&emsp;The local flexibility demonstration agreement shall contain an assurance that the local educational agency shall, not later than 1 year after the date on which the Secretary enters into the agreement, and annually thereafter during the term of the agreement, disseminate widely to parents and the general public, transmit to the Secretary, and the State educational agency for the State in which the local educational agency is located, distribute to print and broadcast media, and post on the Internet, a report that includes a detailed description of how the local educational agency used the funds consolidated under the agreement to improve student academic achievement and reduce achievement gaps.
 
 #### (d) Peer review
 
@@ -120,7 +120,7 @@ The Secretary shall—
 
 #### (B) Disapproval
 
-&emsp;&emsp;The Secretary shall not finally disapprove the proposed amendment, except after giving the local educational agency notice and an opportunity for a hearing.
+&emsp;&emsp;The Secretary shall not finally disapprove the proposed amendment, except after givingthe local educational agency notice and an opportunity for a hearing.
 
 #### (C) Notification
 

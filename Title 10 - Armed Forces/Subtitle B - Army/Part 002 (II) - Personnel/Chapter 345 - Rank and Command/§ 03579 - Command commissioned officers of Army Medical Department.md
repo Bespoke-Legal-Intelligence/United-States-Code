@@ -72,5 +72,3 @@ Subsec. (b). Pub. L. 85–861, §1(60), (87), substituted “Army Medical Specia
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-§3580
-

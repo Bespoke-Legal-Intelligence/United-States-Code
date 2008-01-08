@@ -24,7 +24,7 @@ When a pushing vessel and a vessel being pushed ahead are rigidly connected in a
 
 #### (f) Vessels at anchor
 
-A vessel at anchor shall at intervals of not more than 1 minute ring the bell rapidly for about 5 seconds. In a vessel of 100 meters or more in length the bell shall be sounded in the forepart of the vessel and immediately after the ringing of the bell the gong shall be sounded rapidly for about 5 seconds in the after part of the vessel. A vessel at anchor may in addition sound three blasts in succession; namely, one short, one prolonged and one short blast, to give warning of her position and of the possibility of collision to an approaching vessel.
+A vessel at anchor shall at intervals of not more than 1 minute ring the bell rapidly forabout 5 seconds. In a vessel of 100 meters or more in length the bell shall be sounded in the forepart of the vessel and immediately after the ringing of the bell the gong shall be sounded rapidly for about 5 seconds in the after part of the vessel. A vessel at anchor may in addition sound three blasts in succession; namely, one short, one prolonged and one short blast, to give warning of her position and of the possibility of collision to an approaching vessel.
 
 #### (g) Vessels aground
 

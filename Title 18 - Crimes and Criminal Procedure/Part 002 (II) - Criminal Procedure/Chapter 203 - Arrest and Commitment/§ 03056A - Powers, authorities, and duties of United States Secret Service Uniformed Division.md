@@ -1,6 +1,6 @@
 ### §3056A. Powers, authorities, and duties of United States Secret Service Uniformed Division
 
-(a) There is hereby created and established a permanent police force, to be known as the “United States Secret Service Uniformed Division”. Subject to the supervision of the Secretary of Homeland Security, the United States Secret Service Uniformed Division shall perform such duties as the Director, United States Secret Service, may prescribe in connection with the protection of the following:
+(a) There is hereby created and established a permanent police force, to be known as the“United States Secret Service Uniformed Division”. Subject to the supervision of the Secretary of Homeland Security, the United States Secret Service Uniformed Division shall perform such duties as the Director, United States Secret Service, may prescribe in connection with the protection of the following:
 
 &emsp;(1) The White House in the District of Columbia.
 
@@ -58,7 +58,7 @@
 
 #### References in Text
 
-Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (d), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of Title 22, Foreign Relationsand Intercourse. For complete classification of title II to the Code, see Short Title note set out under section 4301 of Title 22 and Tables.
+Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (d), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Short Title note set out under section 4301 of Title 22 and Tables.
 
 #### Change of Name
 
@@ -70,7 +70,7 @@ Pub. L. 91–297, title II, §202, June 30, 1970, 84 Stat. 358, provided that: �
 
 Pub. L. 109–177, title VI, §606, Mar. 9, 2006, 120 Stat. 256, provided that:
 
-“(a) This title \[see Tables for classification\] does not affect the retirement benefits of current employees or annuitants that existed on the day before the effective date of this Act \[probably means Mar. 9, 2006, the date of enactment of Pub. L. 109–177\].
+“(a) This title \[see Tables for classification\] does not affect the retirement benefits of current employees orannuitants that existed on the day before the effective date of this Act \[probably means Mar. 9, 2006, the date of enactment of Pub. L. 109–177\].
 
 “(b) This title does not affect any Executive order transferring to the Secretary of State the authority of section 208 of title 3 (now section 3056A(d) of title 18) in effect on the day before the effective date of this Act.”
 
@@ -142,7 +142,7 @@ Conversion to New Salary Schedule.—
 
 &emsp;“(1)(A) Effective on the first day of the first pay period beginning after the date of enactment of this section \[Oct. 10, 1997\], the Secretary of the Treasury shall fix the rates of basic pay for members of the United States Secret Service Uniformed Division in accordance with this paragraph.
 
-&emsp;“(B) Subject to subparagraph (C), each officer and member receiving basic compensation, immediately prior to the effective date of this section, at one of the scheduled rates in the salary schedule in section 101 of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title I, Aug. 1, 1958, 72 Stat. 481\], as adjusted by law and as in effect prior to the effective date of this section, shall be placed in and receive basic compensation at the corresponding scheduled service step of the salary schedule under subsection (a)(4).
+&emsp;“(B) Subject to subparagraph (C), each officer and member receiving basic compensation, immediately prior to the effective date of this section, at one of the scheduled rates in the salary schedule in section 101 of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title I, Aug. 1, 1958,72 Stat. 481\], as adjusted by law and as in effect prior to the effective date of this section, shall be placed in and receive basic compensation at the corresponding scheduled service step of the salary schedule under subsection (a)(4).
 
 &emsp;“(C)(i) The Assistant Chief and the Chief of the United States Secret Service Uniformed Division shall be placed in and receive basic compensation in salary class 10 and salary class 11, respectively, in the appropriate service step in the new salary class in accordance with section 304 of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title III, Aug. 1, 1958, 72 Stat. 484\] (District of Columbia Code, section 4–413).
 

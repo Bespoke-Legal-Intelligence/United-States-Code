@@ -12,11 +12,13 @@ The purposes of the corporation are—
 
 &emsp;(2) in carrying out the purposes described in paragraph (1) of this section, to perform all the duties devolved on a national society by each nation that has acceded to any of those treaties, conventions, or protocols;
 
-&emsp;(3) to act in matters of voluntary relief and in accordance with the military authorities as a medium of communication between the people of the United States and the Armed Forces of the United States and to act in those matters between similar national societies of governments of other countries through the International Committee of the Red Cross and the Government, the people, and the Armed Forces of the United States; and
+&emsp;(3) to act in matters of voluntary relief and in accordance with the military authorities as a medium of communication between the people of the United States and the Armed Forces of the United States and to act in those matters between similar national societies of governments of other countries through the International Committee of the Red Cross and the Government, the people, and the Armed Forces of the United States;
 
-&emsp;(4) to carry out a system of national and international relief in time of peace, and to apply that system in mitigating the suffering caused by pestilence, famine, fire, floods, and other great national calamities, and to devise and carry out measures for preventing those calamities.
+&emsp;(4) to carry out a system of national and international relief in time of peace, and to apply that system in mitigating the suffering caused by pestilence, famine, fire, floods, and other great national calamities, and to devise and carry out measures for preventing those calamities; and
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1490.)
+&emsp;(5) to conduct other activities consistent with the foregoing purposes.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1490; Pub. L. 110–26, §4, May 11, 2007, 121 Stat. 105.)
 
 Historical and Revision Notes
 
@@ -43,4 +45,8 @@ In clause (2), the words “in carrying out the purposes described in clause (1)
 In clause (3), the words “International Committee of the Red Cross” are substituted for “Comite�AE1 International de Secours” because the name has been changed.
 
 In clause (4), the word “continue” is omitted as included in “carry out”.
+
+#### Amendments
+
+2007—Par. (5). Pub. L. 110–26 added par. (5).
 

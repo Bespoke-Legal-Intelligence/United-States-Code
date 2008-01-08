@@ -66,6 +66,10 @@ Subsec. (e)(1)(D). Pub. L. 108–128, §4(a), added subpar. (D). See Codificatio
 
 Subsec. (e)(3). Pub. L. 108–128, §4(b), added subpars. (B) and (C), redesignated former subpar. (B) as (D), and, in subpar. (D), substituted “corporation or” for “partnership, corporation, or” in three places and “subparagraphs (A), (B), or (C)” for “subparagraph (A)”. See Codification note above.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Transfer of Administrative Jurisdiction
 
 Pub. L. 108–128, §2(b), Nov. 17, 2003, 117 Stat. 1355, provided that: “On the date of enactment of this Act \[Nov. 17, 2003\], the Secretary shall transfer the land under the jurisdiction of the Bureau of Land Management identified as ‘Tract C’ on the map described in subsection (a)(2) \[amending this section\] to the administrative jurisdiction of the National Park Service for inclusion in the Black Canyon of the Gunnison National Park.”

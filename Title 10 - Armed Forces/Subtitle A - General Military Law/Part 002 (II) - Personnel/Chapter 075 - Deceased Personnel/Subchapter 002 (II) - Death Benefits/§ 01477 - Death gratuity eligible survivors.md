@@ -1,6 +1,6 @@
 ### §1477. Death gratuity: eligible survivors
 
-(a) A death gratuity payable upon the death of a person covered by section 1475 or 1476 of this title shall be paid to or for the living survivor highest on the following list:
+(a) Subject to subsection (d), a death gratuity payable upon the death of a person covered by section 1475 or 1476 of this title shall be paid to or for the living survivor highest on the following list:
 
 &emsp;(1) His surviving spouse.
 
@@ -40,11 +40,13 @@
 
 &emsp;&emsp;(D) to whose support the decedent had been judicially ordered to contribute.
 
-(c) Clauses (3) and (4) of subsection (a), so far as they apply to parents and persons in loco parentis, include fathers and mothers through adoption, and persons who stood in loco parentis to the decedent for a period of not less than one year at any time before he acquired a status described in section 1475 or 1476 of this title. However, only one father and one mother, or their counterparts in loco parentis, may be recognized in any case, and preference shall be given to those who exercised a parental relationship on the date, or most nearly before the date, on which the decedent entered that status.
+(c) Clauses (3) and (4) of subsection (a), so far as they apply to parents and persons in loco parentis, include fathers and mothers through adoption, and persons who stood in loco parentis to the decedent for a period of not less than one year at any time before he acquired a status described in section 1475 or 1476 of this title. However, only one father and one mother, or their counterparts in loco parentis, may be recognizedin any case, and preference shall be given to those who exercised a parental relationship on the date, or most nearly before the date, on which the decedent entered that status.
 
-(d) If an eligible survivor dies before he receives the death gratuity, it shall be paid to the living survivor next in the order prescribed by subsection (a).
+(d) During the period beginning on the date of the enactment of this subsection and ending on September 30, 2007, a person covered by section 1475 or 1476 of this title may designate another person to receive not more than 50 percent of the amount payable under section 1478 of this title. The designation shall indicate the percentage of the amount, to be specified only in 10 percent increments up to the maximum of 50 percent, that the designated person may receive. The balance of the amount of the death gratuity shall be paid to or for the living survivors of the person concerned in accordance with paragraphs (1) through (5) of subsection (a).
 
-(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1453; amended Pub. L. 101–189, div. A, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1603.)
+(e) If a person entitled to all or a portion of a death gratuity under subsection (a) or (d) dies before the person receives the death gratuity, it shall be paid to the living survivor next in the order prescribed by subsection (a).
+
+(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1453; amended Pub. L. 101–189, div. A, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 110–28, title III, §3306, May 25, 2007, 121 Stat. 136.)
 
 Historical and Revision Notes
 
@@ -88,7 +90,17 @@ In subsection (a), the words “highest on the following list” are substituted
 
 In subsection (d), the words “the death gratuity” are substituted for the words “the amount to which he is entitled under this subchapter”. The words “next in the order prescribed” are substituted for the words “first listed under”.
 
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (d), is the date of enactment of Pub. L. 110–28, which was approved May 25, 2007.
+
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 110–28, §3306(1), substituted “Subject to subsection (d), a death gratuity” for “A death gratuity”.
+
+Subsec. (d). Pub. L. 110–28, §3306(3), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 110–28, §3306(2), redesignated subsec. (d) as (e) and substituted “If a person entitled to all or a portion of a death gratuity under subsection (a) or (d) dies before the person” for “If an eligible survivor dies before he”.
 
 1989—Subsec. (b)(5)(C). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 

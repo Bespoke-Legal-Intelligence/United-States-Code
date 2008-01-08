@@ -1,6 +1,6 @@
 ### §577d. Boundary limits of additional lands acquired in northern Minnesota
 
-The authority granted in section 577c of this title shall be supplemental to the authoritygranted by existing Acts relating to the acquisition of lands for national-forest purposes and shall not be deemed as repealing any portions of those Acts except as provided hereinafter; and said supplemental authority granted by section 577c of this title, but not the authority granted by existing Acts, shall be confined to the following described areas in Cook, Lake, and Saint Louis Counties, State of Minnesota:
+The authority granted in section 577c of this title shall be supplemental to the authority granted by existing Acts relating to the acquisition of lands for national-forest purposes and shall not be deemed as repealing any portions of those Acts except as provided hereinafter; and said supplemental authority granted by section 577c of this title, but not the authority granted by existing Acts, shall be confined to the following described areas in Cook, Lake, and Saint Louis Counties, State of Minnesota:
 
 Township 63 north, range 2 west, fourth principal meridian, sections 5 to 8, inclusive.
 

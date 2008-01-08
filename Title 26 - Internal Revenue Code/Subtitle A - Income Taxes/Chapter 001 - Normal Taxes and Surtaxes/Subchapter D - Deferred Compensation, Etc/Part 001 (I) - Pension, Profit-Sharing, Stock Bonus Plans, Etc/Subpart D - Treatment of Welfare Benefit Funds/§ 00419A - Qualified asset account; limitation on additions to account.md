@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this subpart and section 512, the term “qualified asset account” means any account consisting of assets set aside to provide for the payment of—
+For purposes of this subpart and section 512, the term “qualified asset account” means anyaccount consisting of assets set aside to provide for the payment of—
 
 &emsp;(1) disability benefits,
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (iv) Long-term disability or life insurance benefits
 
-&emsp;&emsp;&emsp;In the case of any long-term disability benefit or life insurance benefit, the safeharbor limit for any taxable year shall be the amount prescribed by regulations.
+&emsp;&emsp;&emsp;In the case of any long-term disability benefit or life insurance benefit, the safe harbor limit for any taxable year shall be the amount prescribed by regulations.
 
 #### (6) Additional reserve for medical benefits of bona fide association plans
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;This subpart shall not apply in the case of any welfare benefit fund which is part of a 10 or more employer plan. The preceding sentence shall not apply to any plan whichmaintains experience-rating arrangements with respect to individual employers.
+&emsp;&emsp;This subpart shall not apply in the case of any welfare benefit fund which is part of a 10 or more employer plan. The preceding sentence shall not apply to any plan which maintains experience-rating arrangements with respect to individual employers.
 
 #### (B) 10 or more employer plan
 

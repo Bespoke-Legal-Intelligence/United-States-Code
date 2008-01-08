@@ -88,7 +88,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(E) any unprocessed timber which is a softwood.
 
-> &emsp;Subparagraph (C) shall not apply to any commodity or product at least 50 percent of the fair market value of which is attributable to manufacturing or processing, except that subparagraph (C) shall apply to any primary product from oil, gas, coal, or uranium. For purposes of the preceding sentence, the term “processing” does not include extracting or handling, packing, packaging, grading, storing, or transporting. For purposes of subparagraph (E), the term “unprocessed timber” means any log, cant, or similar form of timber.
+> &emsp;Subparagraph (C) shall not apply to any commodity or product at least 50 percent of the fair market value of which is attributable to manufacturing or processing, except that subparagraph (C) shall apply to any primary product from oil, gas, coal, or uranium. For purposes of the preceding sentence, the term “processing” does not include extracting or handling, packing, packaging, grading, storing, or transporting. For purposes of subparagraph (E), the term “unprocessed timber”means any log, cant, or similar form of timber.
 
 #### (3) Property in short supply
 
@@ -142,7 +142,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;For purposes of this paragraph, a borrower is a domestic film maker with respect to a film if—
 
-&emsp;&emsp;&emsp;(i) such borrower is a United States person within the meaning of section 7701(a)(30), except that with respect to apartnership, all of the partners must be United States persons, and with respect to a corporation, all of its officers and at least a majority of its directors must be United States persons;
+&emsp;&emsp;&emsp;(i) such borrower is a United States person within the meaning of section 7701(a)(30), except that with respect to a partnership, all of the partners must be United States persons, and with respect to a corporation, all of its officers and at least a majority of its directors must be United States persons;
 
 &emsp;&emsp;&emsp;(ii) such borrower is engaged in the trade or business of making the film with respect to which the loan is made;
 

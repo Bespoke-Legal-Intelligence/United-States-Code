@@ -10,7 +10,7 @@ The Attorney General shall cooperate with local, State, and Federal agencies con
 
 &emsp;(3) conduct training programs on controlled substance law enforcement for local, State, and Federal personnel;
 
-&emsp;(4) maintain in the Department of Justice a unit which will accept, catalog, file, andotherwise utilize all information and statistics, including records of controlled substance abusers and other controlled substance law offenders, which may be received from Federal, State, and local agencies, and make such information available for Federal, State, and local law enforcement purposes;
+&emsp;(4) maintain in the Department of Justice a unit which will accept, catalog, file, and otherwise utilize all information and statistics, including records of controlled substance abusers and other controlled substance law offenders, which may be received from Federal, State, and local agencies, and make such information available for Federal, State, and local law enforcement purposes;
 
 &emsp;(5) conduct programs of eradication aimed at destroying wild or illicit growth of plant species from which controlled substances may be extracted;
 
@@ -104,7 +104,7 @@ Activities.—In order to combat the illegal manufacturing and trafficking in am
 
 &emsp;“(3) establish additional resident offices and posts of duty to assist State and local law enforcement in rural areas in combating such manufacturing and trafficking;
 
-&emsp;“(4) provide the Special Operations Division of the Administration with additional agents and staff to collect, evaluate, interpret, and disseminate critical intelligence targeting the command and control operations of major amphetamine and methamphetamine manufacturing and trafficking organizations;
+&emsp;“(4) provide the Special Operations Division of the Administration with additional agents and staff tocollect, evaluate, interpret, and disseminate critical intelligence targeting the command and control operations of major amphetamine and methamphetamine manufacturing and trafficking organizations;
 
 &emsp;“(5) enhance the investigative and related functions of the Chemical Control Program of the Administration to implement more fully the provisions of the Comprehensive Methamphetamine Control Act of 1996 (Public Law 104–237) \[see Short Title of 1996 Amendments note set out under section 801 of this title\];
 

@@ -86,7 +86,7 @@
 
 &emsp;Except as provided in subsection (h), a private activity bond shall not be a qualified bond if—
 
-&emsp;&emsp;(A) it is issued as part of an issue and 25 percent or more of the net proceeds of such issue are to be used (directly or indirectly) for the acquisition of land (or an interest therein), or
+&emsp;&emsp;(A) it is issued as part of an issue and 25 percent or more of the net proceeds of suchissue are to be used (directly or indirectly) for the acquisition of land (or an interest therein), or
 
 &emsp;&emsp;(B) any portion of the proceeds of such issue is to be used (directly or indirectly) for the acquisition of land (or an interest therein) to be used for farming purposes.
 
@@ -260,7 +260,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;&emsp;&emsp;&emsp;(II) the chief elected executive officer, the chief elected State legal officer of the executive branch, or any other elected official of such unit designated for purposes of this paragraph by such chief elected executive officer or by State law.
 
-&emsp;&emsp;&nbsp;If the office of any elected official described in subclause (II) is vacated and an individual is appointed by the chief elected executive officer of the governmental unit and confirmed by the elected legislative body of such unit (if any) to serve the remaining term of the elected official, the individual so appointed shall be treated as the elected official for such remaining term.
+&emsp;&emsp;&nbsp;If the office of any elected official described in subclause (II) is vacated and an individual is appointed by the chief elected executive officer of the governmental unitand confirmed by the elected legislative body of such unit (if any) to serve the remaining term of the elected official, the individual so appointed shall be treated as the elected official for such remaining term.
 
 #### (ii) No applicable elected representative
 

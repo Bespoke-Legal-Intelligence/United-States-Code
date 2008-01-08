@@ -24,7 +24,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 &emsp;&emsp;(A) Section 101(a)(15)(A) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(A)).
 
-&emsp;&emsp;(B) Section 204(d)(2) of the Immigration and Nationality Act (8 U.S.C. 1154) (as it will take effect upon the entry into force of theConvention on Protection of Children and Cooperation in Respect to Inter-Country adoption).
+&emsp;&emsp;(B) Section 204(d)(2) of the Immigration and Nationality Act (8 U.S.C. 1154) (as it will take effect upon the entry into force of the Convention on Protection of Children and Cooperation in Respect to Inter-Country adoption).
 
 &emsp;&emsp;(C) Section 212(a)(3)(B)(i)(IV)(bb) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(B)(i)(IV)(bb)).
 
@@ -94,7 +94,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 #### (5) Permanent assignment; participation in terrorist lookout committee
 
-&emsp;When appropriate, employees of the Department assigned to perform functions described in paragraph (2) may be assigned permanently to overseas diplomatic or consular posts with country-specific or regional responsibility. If the Secretary so directs, any such employee, when present at an overseas post, shall participate in the terrorist lookout committee established under section 304 of the Enhanced Border Security and Visa Entry Reform Act of 2002 (8 U.S.C. 1733).
+&emsp;When appropriate, employees of the Department assigned to perform functions describedin paragraph (2) may be assigned permanently to overseas diplomatic or consular posts with country-specific or regional responsibility. If the Secretary so directs, any such employee, when present at an overseas post, shall participate in the terrorist lookout committee established under section 304 of the Enhanced Border Security and Visa Entry Reform Act of 2002 (8 U.S.C. 1733).
 
 #### (6) Training and hiring
 
@@ -165,6 +165,10 @@ Section 568 of the Foreign Operations, Export Financing, and Related Programs Ap
 #### Change of Name
 
 References to National Foreign Affairs Training Center considered to refer to George P. Shultz National Foreign Affairs Training Center, see section 1(b) of Pub. L. 107–132, set out as a note under section 4021 of this title.
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight andGovernment Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

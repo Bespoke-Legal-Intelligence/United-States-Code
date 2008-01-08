@@ -62,7 +62,7 @@ It shall be the duty of the Joint Committee—
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1998 Amendment
 
@@ -74,9 +74,9 @@ Pub. L. 105–206, title IV, §4022(b), July 22, 1998, 112 Stat. 785, provided t
 
 “(1)
 
-In general.—The Joint Committee on Taxation, in consultation with the Internal Revenue Service and the Department of the Treasury, shall include a tax complexity analysis in each report for legislation, or provide such analysis to members of the committee reporting the legislation as soon as practicable after the report is filed, if—
+In general.—The Joint Committee on Taxation, in consultation with the Internal Revenue Service and the Department of the Treasury, shall include a taxcomplexity analysis in each report for legislation, or provide such analysis to members of the committee reporting the legislation as soon as practicable after the report is filed, if—
 
-&emsp;“(A) such legislation is reported by the Committee on Finance in the Senate, the Committee on Waysand Means of the House of Representatives, or any committee of conference; and
+&emsp;“(A) such legislation is reported by the Committee on Finance in the Senate, the Committee on Ways and Means of the House of Representatives, or any committee of conference; and
 
 &emsp;“(B) such legislation includes a provision which would directly or indirectly amend the Internal Revenue Code of 1986 and which has widespread applicability to individuals or small businesses.
 

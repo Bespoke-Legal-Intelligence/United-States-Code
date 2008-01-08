@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Department a National Advisory Committee on Institutional Quality and Integrity (hereafter in this section referred to as the “Committee”), which shall be composed of 15 members appointed by the Secretary from among individuals who are representatives of, or knowledgeable concerning, education and training beyond secondary education, including representatives of all sectors and types of institutions of higher education (as defined in section 1002 of this title), to assess theprocess of eligibility and certification of such institutions under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 and the provision of financial aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+There is established in the Department a National Advisory Committee on Institutional Quality and Integrity (hereafter in this section referred to as the “Committee”), which shall be composed of 15 members appointed by the Secretary from among individuals who are representatives of, or knowledgeable concerning, education and training beyond secondary education, including representatives of all sectors and types of institutions of higher education (as defined in section 1002 of this title), to assess the process of eligibility and certification of such institutions under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 and the provision of financial aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (b) Terms of members
 
@@ -40,7 +40,7 @@ The Committee shall—
 
 #### (e) Meeting procedures
 
-The Committee shall meet not less than twice each year at the call of the Chairperson. The date of, and agenda for, each meeting of the Committee shall be submitted in advance to the Secretary for approval. A representative of the Secretary shall be present at all meetings of the Committee.
+The Committee shall meet not less than twice each year at the call of the Chairperson. The date of, and agenda for, each meeting of theCommittee shall be submitted in advance to the Secretary for approval. A representative of the Secretary shall be present at all meetings of the Committee.
 
 #### (f) Report
 

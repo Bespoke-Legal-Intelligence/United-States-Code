@@ -2,7 +2,7 @@
 
 #### (a) Articles made from imported merchandise
 
-Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such duties shall not be so refunded upon the exportation or destruction of flour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, the drawback shall be distributed to the several products in accordance with their relative values at the time of separation.
+Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such duties shall not be so refunded upon the exportation or destruction of flour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, thedrawback shall be distributed to the several products in accordance with their relative values at the time of separation.
 
 #### (b) Substitution for drawback purposes
 
@@ -56,7 +56,7 @@ The provisions of this section shall apply to materials imported and used in the
 
 #### (h) Jet aircraft engines
 
-Upon the exportation of jet aircraft engines manufactured or produced abroad that have been overhauled, repaired, rebuilt, or reconditioned in the United States with the use of imported merchandise, including parts, there shall be refunded, upon satisfactory proof that such imported merchandise has been so used, the duties which have been paid thereon, in amounts not less than $100.
+Upon the exportation of jet aircraft engines manufactured or produced abroad that havebeen overhauled, repaired, rebuilt, or reconditioned in the United States with the use of imported merchandise, including parts, there shall be refunded, upon satisfactory proof that such imported merchandise has been so used, the duties which have been paid thereon, in amounts not less than $100.
 
 #### (i) Time limitation on exportation
 
@@ -76,7 +76,7 @@ Unless otherwise provided for in this section, no drawback shall be allowed unde
 
 > then upon such exportation or destruction 99 percent of the amount of each duty, tax, or fee so paid shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
 
-(2) Subject to paragraph (4), if there is, with respect to imported merchandise on which waspaid any duty, tax, or fee imposed under Federal law upon entry or importation, any other merchandise (whether imported or domestic), that—
+(2) Subject to paragraph (4), if there is, with respect to imported merchandise on which was paid any duty, tax, or fee imposed under Federal law upon entry or importation, any other merchandise (whether imported or domestic), that—
 
 &emsp;(A) is commercially interchangeable with such imported merchandise;
 
@@ -110,7 +110,7 @@ Unless otherwise provided for in this section, no drawback shall be allowed unde
 
 (1) For purposes of subsections (a) and (b) of this section, the use of any domestic merchandise acquired in exchange for imported merchandise of the same kind and quality shall be treated as the use of such imported merchandise if no certificate of delivery is issued with respect to such imported merchandise.
 
-(2) For purposes of subsections (a) and (b) of this section, the use of any domestic merchandise acquired in exchange for a drawback product of the same kind and quality shall be treated as the use of such drawback product if no certificate of delivery or certificate of manufacture and delivery pertaining to such drawback product is issued, other than that which documents the product's manufacture and delivery. As used in this paragraph, the term “drawback product” means any domestically produced product, manufactured with imported merchandise or any other merchandise (whether imported or domestic) of the same kind and quality, that is subject to drawback.
+(2) For purposes of subsections (a) and (b) of this section, the use of any domestic merchandise acquired in exchange for a drawback product of the same kind and quality shall be treated as the use of such drawback product if no certificate of delivery or certificate of manufacture and delivery pertaining to such drawback product is issued, other than that which documents the product's manufacture and delivery. As used in this paragraph, the term “drawback product”means any domestically produced product, manufactured with imported merchandise or any other merchandise (whether imported or domestic) of the same kind and quality, that is subject to drawback.
 
 #### (<i>l</i>) Regulations
 
@@ -246,7 +246,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;(B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article. If an article is referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.
 
-&emsp;&emsp;(C) The term “drawback claimant” means the exporter of the exported article or the refiner, producer, or importer of either the qualified article or the exported article. Any person eligible to file a drawback claim under this subparagraph may designate another person to file such claim.
+&emsp;&emsp;(C) The term “drawback claimant” means the exporter of the exported article or the refiner, producer, or importer of either the qualified article or the exported article. Any person eligible to file a drawback claimunder this subparagraph may designate another person to file such claim.
 
 #### (4) Limitation on drawback
 
@@ -264,7 +264,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 #### (2) Packaging material under subsections (a) and (b)
 
-&emsp;Packaging material that is manufactured or produced under subsection (a) or (b) of this section shall be eligible for drawback, upon exportation, of 99 percent of any duty, tax, or fee imposed under Federal law on the imported orsubstituted merchandise used to manufacture or produce such material.
+&emsp;Packaging material that is manufactured or produced under subsection (a) or (b) of this section shall be eligible for drawback, upon exportation, of 99 percent of any duty, tax, or fee imposed under Federal law on the imported or substituted merchandise used to manufacture or produce such material.
 
 #### (3) Contents
 
@@ -312,7 +312,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(A) all or substantially all of the rights, privileges, immunities, powers, duties, and liabilities of the predecessor; or
 
-&emsp;(B) the assets and other business interests of a division, plant, or other business unit of such predecessor, but only if in such transfer the value of the transferred realty, personalty, and intangibles (other than drawback rights, inchoate or otherwise) exceeds the value of all transferred drawback rights, inchoate or otherwise.
+&emsp;(B) the assets and other business interests of a division, plant, or other business unit of such predecessor, but only if in such transfer the value of the transferred realty, personalty, and intangibles (other than drawback rights, inchoate or otherwise) exceeds the value of alltransferred drawback rights, inchoate or otherwise.
 
 (4) No drawback shall be paid under this subsection until either the predecessor or the drawback successor (who shall also certify that it has the predecessor's records) certifies that—
 
@@ -370,7 +370,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (p)(
 
 Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, O, 38 Stat. 200, which was superseded by act Sept. 21, 1922, ch. 356, title III, §313, 42 Stat. 940, and repealed by section 321 thereof. Section 313 of the 1922 act was superseded by section 313 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Earlier provisions relating to this subject were made by the Tariff Acts of Oct. 1, 1890, ch. 1244, §25, 26 Stat. 617; Aug. 27, 1894, ch. 349, §22, 28 Stat. 551; July 24, 1897, ch. 11, §30, 30 Stat. 211; and Aug. 5, 1909, ch. 6, §25, 36 Stat. 90, which superseded provisions of a similar nature contained in R.S. §§3019, 3020, 3026, as amended by act Mar. 10, 1880, ch. 37, 21 Stat. 67, and said sections 3019, 3020, and 3026, were also repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Earlier provisions relating to this subject were made by the Tariff Acts of Oct. 1, 1890, ch. 1244, §25, 26 Stat. 617; Aug. 27, 1894, ch. 349, §22, 28 Stat. 551; July 24, 1897, ch. 11, §30, 30 Stat. 211; and Aug. 5, 1909, ch. 6, §25, 36Stat. 90, which superseded provisions of a similar nature contained in R.S. §§3019, 3020, 3026, as amended by act Mar. 10, 1880, ch. 37, 21 Stat. 67, and said sections 3019, 3020, and 3026, were also repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 The provisions of section IV, O, of the act of 1913, similar to subdivision (g) of this section concerning materials used in the construction and equipment of vessels built for foreign account, superseded a similar provision of act June 26, 1884, ch. 121, §17, 23 Stat. 57.
 
@@ -536,7 +536,7 @@ Pub. L. 108–429, title I, §1571, Dec. 3, 2004, 118 Stat. 2587, provided that:
 
 #### Effective and Termination Dates of 2003 Amendment
 
-Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement entersinto force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
 
 #### Effective Date of 2000 Amendment
 

@@ -16,7 +16,7 @@ Any officer or employee of the United States who is authorized (by the Secretary
 
 &emsp;(4) seize without warrant—
 
-&emsp;&emsp;(A) any evidentiary item where there are reasonable grounds to believe that a person has committed or is attempting to commit an act prohibited by section 2435 of this title,
+&emsp;&emsp;(A) any evidentiary item where there are reasonable grounds to believe that a personhas committed or is attempting to commit an act prohibited by section 2435 of this title,
 
 &emsp;&emsp;(B) any Antarctic marine living resources (or part of <sup>1</sup> product thereof) with respect to which such an act is committed,
 

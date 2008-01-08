@@ -62,7 +62,7 @@ A Federal agency may use the Foundation and the Institute to provide assessment,
 
 #### (2) Other mandated mechanisms or avenues
 
-&emsp;A dispute or conflict involving agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality) for which Congress by law has mandated another dispute resolution mechanism or avenue to address or resolve shall not be submitted to the Foundation or Institute.
+&emsp;A dispute or conflict involving agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality) for which Congressby law has mandated another dispute resolution mechanism or avenue to address or resolve shall not be submitted to the Foundation or Institute.
 
 #### (e) Non-Federal entities
 

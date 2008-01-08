@@ -12,7 +12,7 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 #### (A) In general
 
-&emsp;&emsp;The amount of all bequests, legacies, devises, or transfers (including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)—
+&emsp;&emsp;The amount of all bequests, legacies, devises, or transfers (including the interest which falls into any such bequest, legacy,devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)—
 
 &emsp;&emsp;&emsp;(i) to or for the use of the United States, any State, any political subdivision thereof, or the District of Columbia, for exclusively public purposes;
 
@@ -40,7 +40,7 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 &emsp;&emsp;&emsp;<b>(i) For option as to time for valuation for purposes of deduction under this section, see section 2032.</b>
 
-&emsp;&emsp;&emsp;<b>(ii) For exemption of certain bequests for the benefit of the United States and for rules of construction for certain bequests, see section 2055(g).</b><b><sup>1</sup></b>
+&emsp;&emsp;&emsp;<b>(ii) For exemption of certain bequests for the benefit of the United States and for rules of construction for certain bequests, see section 2055(g).</b>
 
 &emsp;&emsp;&emsp;<b>(iii) For treatment of gifts and bequests to or for the use of Indian tribal governments (or their subdivisions), see section 7871.</b>
 
@@ -61,10 +61,6 @@ No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
-#### References in Text
-
-Subsec. (g) of section 2055 of this title, referred to in subsec. (a)(2)(F)(ii), was redesignated (h) by Pub. L. 109–280, title XII, §1218(b), Aug. 17, 2006, 120 Stat. 1081.
 
 #### Amendments
 
@@ -150,7 +146,5 @@ Section 4(e)(2) of Pub. L. 86–779 provided that: “The amendments made by sub
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec.19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
 

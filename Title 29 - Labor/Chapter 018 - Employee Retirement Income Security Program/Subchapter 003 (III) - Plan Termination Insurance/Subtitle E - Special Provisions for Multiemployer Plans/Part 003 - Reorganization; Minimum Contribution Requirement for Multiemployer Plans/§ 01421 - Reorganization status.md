@@ -14,9 +14,9 @@ A multiemployer plan is in reorganization for a plan year if the plan's reorgani
 
 (2) For purposes of this part, the net charge to the funding standard account for any plan year is the excess (if any) of—
 
-&emsp;(A) the charges to the funding standard account for such year under section 412(b)(2) of title 26, over
+&emsp;(A) the charges to the funding standard account for such year under section 412(b)(2) <sup>1</sup> of title 26, over
 
-&emsp;(B) the credits to the funding standard account under section 412(b)(3)(B) of title 26.
+&emsp;(B) the credits to the funding standard account under section 412(b)(3)(B) <sup>1</sup> of title 26.
 
 (3) For purposes of this part, the vested benefits charge for any plan year is the amount which would be necessary to amortize the plan's unfunded vested benefits as of the end of the base plan year in equal annual installments—
 
@@ -106,6 +106,10 @@ Any multiemployer plan which terminates under section 1341a(a)(2) of this title 
 
 (Pub. L. 93–406, title IV, §4241, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1249; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 
+#### References in Text
+
+Section 412, referred to in subsec. (b)(2), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, section 412 no longer contains a subsec. (b)(3)(B) and section 412(b)(2) no longer relates to charges to the funding standard account.
+
 #### Amendments
 
 1989—Subsec. (b)(2)(A). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
@@ -117,4 +121,6 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Part, relating to multiemployer plan reorganization, effective, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of the date on which the last collective-bargaining agreement providing for employer contributions under the plan, which was in effect on Sept. 26, 1980, expires, without regard to extensions agreed to after Sept. 26, 1980, or three years after Sept. 26, 1980, see section 1461(e)(3) of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

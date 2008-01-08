@@ -64,7 +64,7 @@ In this chapter:
 
 #### (9) Technical Secretariat
 
-&emsp;The term “Technical Secretariat” means the Technical Secretariat of the Organization for the Prohibition of Chemical Weapons established by the Chemical Weapons Convention.
+&emsp;The term “Technical Secretariat” means the Technical Secretariat of the Organizationfor the Prohibition of Chemical Weapons established by the Chemical Weapons Convention.
 
 #### (10) Schedule 1 chemical agent
 
@@ -94,7 +94,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;2-Chloroethylchloromethylsulfide
 
-&emsp;&emsp;&emsp;Mustard gas: (Bis(2-chloroethyl)sulfide
+&emsp;&emsp;&emsp;Mustard gas: (Bis(2-chloroethyl)sulfide <sup>1</sup>
 
 &emsp;&emsp;&emsp;Bis(2-chloroethylthio)methane
 
@@ -228,7 +228,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “toxic chemical” means any chemical which through its chemical action on life processes can cause death, temporary incapacitation or permanent harm to humans or animals. The term includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere.
+&emsp;&emsp;The term “toxic chemical” means any chemical which through its chemical actionon life processes can cause death, temporary incapacitation or permanent harm to humans or animals. The term includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere.
 
 #### (B) List of toxic chemicals
 
@@ -238,9 +238,9 @@ In this chapter:
 
 &emsp;The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
 
-&emsp;&emsp;(A) any of the places within the provisions of paragraph (41) <sup>1</sup> of section 40102 of title 49;
+&emsp;&emsp;(A) any of the places within the provisions of paragraph (41) <sup>2</sup> of section 40102 of title 49;
 
-&emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37),<sup>1</sup> respectively, of section 40102 of title 49; and
+&emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37),<sup>2</sup> respectively, of section 40102 of title 49; and
 
 &emsp;&emsp;(C) any vessel of the United States, as such term is defined in section 70502(b) of title 46.
 

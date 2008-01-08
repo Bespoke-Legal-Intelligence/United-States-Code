@@ -20,7 +20,7 @@
 
 (5) In the event of a plant closing or mass layoff (as such terms are defined in section 2101(a)(2) and (3) of title 29) at either of the gaseous diffusion plants, the Secretary of Energy shall treat any adversely affected employee of an operating contractor at either plant who was an employee at such plant on July 1, 1993, as a Department of Energy employee for purposes of sections 3161 and 3162 of the National Defense Authorization Act for Fiscal Year 1993 (42 U.S.C. 7274h–7274i).<sup>1</sup>
 
-(6)(A) The Secretary and the private corporation shall cause the post-retirement health benefits plan provider (or its successor) to continue to provide benefits for eligible persons, as described under subparagraph (B), employed by an operating contractor at either of the gaseousdiffusion plants in an economically efficient manner and at substantially the same level of coverage as eligible retirees are entitled to receive on the privatization date.
+(6)(A) The Secretary and the private corporation shall cause the post-retirement health benefits plan provider (or its successor) to continue to provide benefits for eligible persons, as described under subparagraph (B), employed by an operating contractor at either of the gaseous diffusion plants in an economically efficient manner and at substantially the same level of coverage as eligible retirees are entitled to receive on the privatization date.
 
 (B) Persons eligible for coverage under subparagraph (A) shall be limited to:
 
@@ -70,7 +70,7 @@ Continuity of benefits.—To the extent appropriations are provided in advance f
 
 (3) The Corporation shall pay to the Thrift Savings Fund such employee and agency contributions as are required or authorized by sections 8432 and 8351 of title 5 for employees who elect to retain their coverage under CSRS or FERS pursuant to paragraph (1).
 
-(4) Any employee of the Corporation who was subject to the Federal Employee Health Benefits Program (referred to in this section as “FEHBP”) on the day immediately preceding the privatization date and who elects to retain coverage under either CSRS or FERS pursuant to paragraph (1) shall have the option to receivehealth benefits from a health benefit plan established by the Corporation or to continue without interruption coverage under the FEHBP, in lieu of coverage by the Corporation's health benefit system.
+(4) Any employee of the Corporation who was subject to the Federal Employee Health Benefits Program (referred to in this section as “FEHBP”) on the day immediately preceding the privatization date and who elects to retain coverage under either CSRS or FERS pursuant to paragraph (1) shall have the option to receive health benefits from a health benefit plan established by the Corporation or to continue without interruption coverage under the FEHBP, in lieu of coverage by the Corporation's health benefit system.
 
 (5) The Corporation shall pay to the Employees Health Benefits Fund—
 

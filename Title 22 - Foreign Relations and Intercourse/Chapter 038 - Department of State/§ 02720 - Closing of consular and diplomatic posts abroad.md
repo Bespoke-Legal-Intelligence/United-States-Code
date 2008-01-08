@@ -36,10 +36,6 @@ A prior section 48 of act Aug. 1, 1956, was set out as a Short Title of 1956 Ame
 
 Provisions similar to this section were contained in Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, and set out as a note under section 2656 of this title, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Authority of Secretary of State
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.

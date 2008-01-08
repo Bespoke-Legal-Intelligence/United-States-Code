@@ -32,7 +32,7 @@ The Secretary is authorized to award grants to eligible local educational agenci
 
 #### (B) Additional amounts
 
-&emsp;&emsp;If additional funds become available for making payments under paragraph (1) forsuch fiscal year, payments that were reduced under subparagraph (A) shall be increased on the same basis as such payments were reduced.
+&emsp;&emsp;If additional funds become available for making payments under paragraph (1) for such fiscal year, payments that were reduced under subparagraph (A) shall be increased on the same basis as such payments were reduced.
 
 #### (c) Disbursement
 

@@ -4,7 +4,7 @@ The importation into the United States is prohibited of—
 
 &emsp;(1) any agricultural or vegetable seeds if any such seed contains noxious-weed seeds or the labeling of which is false or misleading in any respect;
 
-&emsp;(2) screenings of any seeds subject to this subchapter (except that this shall not apply toscreenings of wheat, oats, rye, barley, buckwheat, field corn, sorghum, broomcorn, flax, millet, proso, soybeans, cowpeas, field peas, or field beans, which are not imported for seeding purposes and are declared for cleaning, processing, or manufacturing purposes, and not for seeding purposes);
+&emsp;(2) screenings of any seeds subject to this subchapter (except that this shall not apply to screenings of wheat, oats, rye, barley, buckwheat, field corn, sorghum, broomcorn, flax, millet, proso, soybeans, cowpeas, field peas, or field beans, which are not imported for seeding purposes and are declared for cleaning, processing, or manufacturing purposes, and not for seeding purposes);
 
 &emsp;(3) any seed containing 10 per centum or more of any agricultural or vegetable seeds, unless the invoice pertaining to such seed and any other labeling of such seed bear a lot identification and the name of each kind and variety of vegetable seed present in any amount and each kind or kind and variety of agricultural seed present in excess of 5 per centum of the whole, and unless in the case of hybrid seed present in excess of 5 per centum of the whole it is designated as hybrid.<sup>1</sup>
 

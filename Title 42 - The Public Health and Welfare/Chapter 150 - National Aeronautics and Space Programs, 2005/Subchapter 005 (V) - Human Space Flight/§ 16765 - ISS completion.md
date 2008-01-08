@@ -32,5 +32,9 @@ The Administrator shall ensure that the ISS will—
 
 (Pub. L. 109–155, title V, §505, Dec. 30, 2005, 119 Stat. 2929.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “a crew size”.</i>
 

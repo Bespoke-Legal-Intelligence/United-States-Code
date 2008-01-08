@@ -26,7 +26,7 @@ The allocation of basis among partnership properties where subsection (b) is app
 
 #### (2) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out thepurposes of paragraph (1) and section 734(d), including regulations aggregating related partnerships and disregarding property acquired by the partnership in an attempt to avoid such purposes.
+&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of paragraph (1) and section 734(d), including regulations aggregating related partnerships and disregarding property acquired by the partnership in an attempt to avoid such purposes.
 
 #### (e) Alternative rules for electing investment partnerships
 
@@ -108,7 +108,7 @@ Subsec. (e). Pub. L. 108–357, §833(b)(4)(A), added subsec. (e).
 
 Subsec. (f). Pub. L. 108–357, §833(b)(5), added subsec. (f).
 
-1984—Subsec. (b). Pub. L. 98–369 substituted “property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply indetermining such share” for “an agreement described in section 704(c)(2) (relating to effect of partnership agreement on contributed property), such share shall be determined by taking such agreement into account” in penultimate sentence.
+1984—Subsec. (b). Pub. L. 98–369 substituted “property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share” for “an agreement described in section 704(c)(2) (relating to effect of partnership agreement on contributed property), such share shall be determined by taking such agreement into account” in penultimate sentence.
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

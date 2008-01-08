@@ -2,7 +2,7 @@
 
 #### (a) Authority; oath of allegiance
 
-In furtherance of the purposes of this chapter, the head of any agency of the United States Government is authorized to detail, assign, or otherwise make available any officer or employee of his agency (1) to serve with, or as a member of, the international staff of any international organization, or (2) to any office or position to which no compensation is attached with any foreign government or agency thereof: <i>Provided</i>, That such acceptance of such office or position shall in no case involve the taking of an oath of allegiance to another government.
+In furtherance of the purposes of this chapter, the head of any agency of the United StatesGovernment is authorized to detail, assign, or otherwise make available any officer or employee of his agency (1) to serve with, or as a member of, the international staff of any international organization, or (2) to any office or position to which no compensation is attached with any foreign government or agency thereof: <i>Provided</i>, That such acceptance of such office or position shall in no case involve the taking of an oath of allegiance to another government.
 
 #### (b) Benefits of detailed personnel
 
@@ -22,7 +22,7 @@ Details or assignments may be made under this section—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Amendments
 

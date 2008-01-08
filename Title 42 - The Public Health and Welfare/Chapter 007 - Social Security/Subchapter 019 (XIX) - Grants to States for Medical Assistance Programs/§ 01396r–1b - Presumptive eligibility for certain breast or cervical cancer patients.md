@@ -12,7 +12,7 @@ For purposes of this section:
 
 &emsp;The term “presumptive eligibility period” means, with respect to an individual described in subsection (a) of this section, the period that—
 
-&emsp;&emsp;(A) begins with the date on which a qualified entity determines, on the basis of preliminary information, that the individual isdescribed in section 1396a(aa) of this title; and
+&emsp;&emsp;(A) begins with the date on which a qualified entity determines, on the basis of preliminary information, that the individual is described in section 1396a(aa) of this title; and
 
 &emsp;&emsp;(B) ends with (and includes) the earlier of—
 

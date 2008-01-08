@@ -17,6 +17,6 @@
 - [&sect; 02940 - References](%C2%A7%2002940%20-%20References.md)
 - [&sect; 02941 - State legislative authority](%C2%A7%2002941%20-%20State%20legislative%20authority.md)
 - [&sect; 02942 - Workforce flexibility plans](%C2%A7%2002942%20-%20Workforce%20flexibility%20plans.md)
-- [&sect; 02943 - Use of certain real property](%C2%A7%2002943%20-%20Use%20of%20certain%20real%20property.md)
+- [&sect; 02943 - Transfer of Federal equity in State employment security real property to the States](%C2%A7%2002943%20-%20Transfer%20of%20Federal%20equity%20in%20State%20employment%20security%20real%20property%20to%20the%20States.md)
 - [&sect; 02944 - Continuation of State activities and policies](%C2%A7%2002944%20-%20Continuation%20of%20State%20activities%20and%20policies.md)
 - [&sect; 02945 - General program requirements](%C2%A7%2002945%20-%20General%20program%20requirements.md)

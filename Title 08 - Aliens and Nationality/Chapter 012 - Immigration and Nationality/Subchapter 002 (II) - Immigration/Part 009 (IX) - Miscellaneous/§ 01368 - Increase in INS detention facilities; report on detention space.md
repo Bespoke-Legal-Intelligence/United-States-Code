@@ -52,7 +52,7 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(g)(10)(G) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(g)(10)(G) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

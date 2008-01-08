@@ -4,7 +4,3 @@ Effective on and after July 1, 1966, neither the Secretary of the Interior nor a
 
 (Pub. L. 89–72, §8, July 9, 1965, 79 Stat. 217.)
 
-#### References in Text
-
-Reclamation law, referred to in text, is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands.
-

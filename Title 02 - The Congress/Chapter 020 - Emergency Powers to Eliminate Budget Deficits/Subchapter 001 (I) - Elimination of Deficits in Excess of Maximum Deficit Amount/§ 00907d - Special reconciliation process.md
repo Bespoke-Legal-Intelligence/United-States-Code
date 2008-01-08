@@ -8,7 +8,7 @@
 
 #### (2) Initial Budget Committee action
 
-&emsp;After the submission of such a report, the Committee on the Budget of the Senate may, not later than October 15, report to the Senate a resolution. The resolution may affirm the impact of the order envisioned by such report, in whole or in part. To the extent that any part is not affirmed, the resolution shall state which parts are not affirmed and shall contain instructions to committees of the Senate of the type referred to in section 641(a) of this title, sufficient to achieve at least the total level of deficit reduction contained in those sections which are not affirmed.
+&emsp;After the submission of such a report, the Committee on the Budget of the Senate may, not later than October 15, report to the Senate a resolution. The resolution may affirm the impact of the order envisioned by such report,in whole or in part. To the extent that any part is not affirmed, the resolution shall state which parts are not affirmed and shall contain instructions to committees of the Senate of the type referred to in section 641(a) of this title, sufficient to achieve at least the total level of deficit reduction contained in those sections which are not affirmed.
 
 #### (3) Response of committees
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(C) the enactment of such bill or resolution in the form recommended in such conference report,
 
-> &emsp;would cause the amount of the deficit for such fiscal year to exceed the maximum deficitamount for such fiscal year, unless the low-growth report submitted under section 904 of this title projects negative real economic growth for such fiscal year, or for each of any two consecutive quarters during such fiscal year.
+> &emsp;would cause the amount of the deficit for such fiscal year to exceed the maximum deficit amount for such fiscal year, unless the low-growth report submitted under section 904 of this title projects negative real economic growth for such fiscal year, or for each of any two consecutive quarters during such fiscal year.
 
 #### (6) Treatment of certain amendments
 

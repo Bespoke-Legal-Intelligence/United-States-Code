@@ -12,7 +12,7 @@ The Secretary shall make grants to States with applications approved under secti
 
 &emsp;&emsp;From the total amount appropriated under section 6603(a) of this title for a fiscal year, the Secretary shall reserve—
 
-&emsp;&emsp;&emsp;(i) one-half of 1 percent for allotments for the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, tobe distributed among those outlying areas on the basis of their relative need, as determined by the Secretary, in accordance with the purpose of this part; and
+&emsp;&emsp;&emsp;(i) one-half of 1 percent for allotments for the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be distributed among those outlying areas on the basis of their relative need, as determined by the Secretary, in accordance with the purpose of this part; and
 
 &emsp;&emsp;&emsp;(ii) one-half of 1 percent for the Secretary of the Interior for programs under this part in schools operated or funded by the Bureau of Indian Affairs.
 

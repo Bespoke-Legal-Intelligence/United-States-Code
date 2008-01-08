@@ -24,7 +24,7 @@ An eligible entity that receives a grant under this subpart may not use the gran
 
 #### (d) Administrative expenses
 
-The eligible entity may use not more than 5 percent of the funds made available through the grant for any fiscal year for administrative expenses.
+The eligible entity may use not more than 5 percent of the funds made available through thegrant for any fiscal year for administrative expenses.
 
 (Pub. L. 89–10, title V, §5242, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1804.)
 

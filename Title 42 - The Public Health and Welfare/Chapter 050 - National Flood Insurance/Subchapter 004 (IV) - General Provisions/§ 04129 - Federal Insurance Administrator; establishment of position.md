@@ -8,7 +8,7 @@ There is hereby established in the Federal Emergency Management Agency the posit
 
 Section was formerly classified to section 3533a of this title.
 
-Section was enacted as part of the Urban Property Protection and Reinsurance Act of 1968 and also as partof the Housing and Urban Development Act of 1968, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Urban Property Protection and Reinsurance Act of 1968 and also as part of the Housing and Urban Development Act of 1968, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Amendments
 

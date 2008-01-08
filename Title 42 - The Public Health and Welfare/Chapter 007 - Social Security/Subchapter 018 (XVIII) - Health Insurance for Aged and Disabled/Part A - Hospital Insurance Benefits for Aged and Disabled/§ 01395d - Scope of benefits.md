@@ -10,7 +10,7 @@ The benefits provided to an individual by the insurance program under this part 
 
 &emsp;(3) in the case of individuals not enrolled in part B of this subchapter, home health services, and in the case of individuals so enrolled, post-institutional home health services furnished during a home health spell of illness for up to 100 visits during such spell of illness;
 
-&emsp;(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each and an unlimited number of subsequent periods of 60 days each with respect to which the individual makes an election under subsection (d)(1) of this section; and
+&emsp;(4) in lieu of certain other benefits, hospice care with respect to the individual during upto two periods of 90 days each and an unlimited number of subsequent periods of 60 days each with respect to which the individual makes an election under subsection (d)(1) of this section; and
 
 &emsp;(5) for individuals who are terminally ill, have not made an election under subsection (d)(1) of this section, and have not previously received services under this paragraph, services that are furnished by a physician (as defined in section 1395x(r)(1) of this title) who is either the medical director or an employee of a hospice program and that—
 
@@ -66,7 +66,7 @@ If an individual is an inpatient of a psychiatric hospital on the first day of t
 
 #### (e) Services taken into account
 
-For purposes of subsections (b) and (c) of this section, inpatient hospital services, inpatient psychiatric hospital services, and post-hospital extended care services shall be taken into account only if payment is or would be, except for this section or the failure to comply with the request and certification requirements of or under section 1395f(a) of this title, made with respect to such services under this part.
+For purposes of subsections (b) and (c) of this section, inpatient hospital services, inpatientpsychiatric hospital services, and post-hospital extended care services shall be taken into account only if payment is or would be, except for this section or the failure to comply with the request and certification requirements of or under section 1395f(a) of this title, made with respect to such services under this part.
 
 #### (f) Coverage of extended care services without regard to three-day prior hospitalization requirement
 
@@ -84,7 +84,7 @@ For purposes of subsections (b) and (c) of this section, inpatient hospital serv
 
 For definitions of “spell of illness”, and for definitions of other terms used in this part, see section 1395x of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1812, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79Stat. 291; amended Pub. L. 90–248, title I, §§129(c)(2), 137(a), 138(a), 143(b), 146(a), Jan. 2, 1968, 81 Stat. 847, 853, 854, 857, 859; Pub. L. 96–499, title IX, §§930(b)–(d), 931(a), Dec. 5, 1980, 94 Stat. 2631, 2633; Pub. L. 97–35, title XXI, §2121(a), Aug. 13, 1981, 95 Stat. 796; Pub. L. 97–248, title I, §§122(b), 123, Sept. 3, 1982, 96 Stat. 356, 364; Pub. L. 97–448, title III, §309(b)(5), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 100–360, title I, §101, July 1, 1988, 102 Stat. 684; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–239, title VI, §6003(g)(3)(B)(i), Dec. 19, 1989, 103 Stat. 2152; Pub. L. 101–508, title IV, §4006(a), Nov. 5, 1990, 104 Stat. 1388–43; Pub. L. 103–432, title I, §102(g)(1), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §§4201(c)(1), 4443(a), (b)(1), 4611(a), Aug. 5, 1997, 111 Stat. 373, 423, 472; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title V, §512(a), title VII, §736(c)(1), Dec. 8, 2003, 117 Stat. 2299, 2356.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1812, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 90–248, title I, §§129(c)(2), 137(a), 138(a), 143(b), 146(a), Jan. 2, 1968, 81 Stat. 847, 853, 854, 857, 859; Pub. L. 96–499, title IX, §§930(b)–(d), 931(a), Dec. 5, 1980, 94 Stat. 2631, 2633; Pub. L. 97–35, title XXI, §2121(a), Aug. 13, 1981, 95 Stat. 796; Pub. L. 97–248, title I, §§122(b), 123, Sept. 3, 1982, 96 Stat. 356, 364; Pub. L. 97–448, title III, §309(b)(5), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 100–360, title I, §101, July 1, 1988, 102 Stat. 684; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–239, title VI, §6003(g)(3)(B)(i), Dec. 19, 1989, 103 Stat. 2152; Pub. L. 101–508, title IV, §4006(a), Nov. 5, 1990, 104 Stat. 1388–43; Pub. L. 103–432, title I, §102(g)(1), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §§4201(c)(1), 4443(a), (b)(1), 4611(a), Aug. 5, 1997, 111 Stat. 373, 423, 472; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title V, §512(a), title VII, §736(c)(1), Dec. 8, 2003, 117 Stat. 2299, 2356.)
 
 #### References in Text
 

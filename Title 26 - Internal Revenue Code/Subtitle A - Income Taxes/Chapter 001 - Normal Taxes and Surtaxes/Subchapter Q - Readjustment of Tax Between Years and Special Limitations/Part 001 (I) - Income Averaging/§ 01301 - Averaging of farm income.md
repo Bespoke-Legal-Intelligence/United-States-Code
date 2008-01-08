@@ -60,7 +60,7 @@ A prior section 1302, added Pub. L. 88–272, title II, §232(a), Feb. 26, 1964,
 
 Another prior section 1302, act Aug. 16, 1964, ch. 736, 68A Stat. 335, related to income from an invention or artistic work, prior to the general revision of this part by Pub. L. 88–272.
 
-A prior section 1303, added Pub. L. 88–272, title II, §232(a), Feb. 26, 1964, 78 Stat. 107; amended Pub. L. 91–172, title III, §311(d)(1), Dec. 30, 1969, 83 Stat. 587; Pub. L. 94–455, title XIX, §1901(b)(8)(G), Oct. 4, 1976, 90 Stat. 1795; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 99–272, title XIII, §13206(a), (b), Apr. 7, 1986, 100 Stat. 318, 319, related to individuals eligible for income averaging, prior to repeal by Pub. L. 99–514, title I, §§141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
+A prior section 1303, added Pub. L. 88–272, title II, §232(a), Feb. 26, 1964, 78 Stat. 107; amended Pub. L. 91–172, title III, §311(d)(1), Dec. 30, 1969, 83 Stat. 587; Pub. L. 94–455, title XIX, §1901(b)(8)(G), Oct. 4, 1976, 90 Stat. 1795; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981,95 Stat. 194; Pub. L. 99–272, title XIII, §13206(a), (b), Apr. 7, 1986, 100 Stat. 318, 319, related to individuals eligible for income averaging, prior to repeal by Pub. L. 99–514, title I, §§141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
 
 Another prior section 1303, acts Aug. 16, 1954, ch. 736, 68A Stat. 335, Sept. 22, 1961, Pub. L. 87–293, title II, §201(b), 75 Stat. 625, related to income from back pay, prior to the general revision of this part by Pub. L. 88–272.
 

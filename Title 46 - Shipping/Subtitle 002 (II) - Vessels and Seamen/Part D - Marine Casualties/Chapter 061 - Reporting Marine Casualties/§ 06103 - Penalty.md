@@ -4,7 +4,7 @@
 
 (b) A person failing to comply with section 6104 of this title or a regulation prescribed under that section is liable to the Government for a civil penalty of not more than $5,000.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(2), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 100–424, §4(b), Sept. 9, 1988, 102 Stat.1590; Pub. L. 104–324, title III, §§306(a), 314(b), Oct. 19, 1996, 110 Stat. 3918, 3922.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(2), Oct. 19, 1984, 98 Stat.2306; Pub. L. 100–424, §4(b), Sept. 9, 1988, 102 Stat. 1590; Pub. L. 104–324, title III, §§306(a), 314(b), Oct. 19, 1996, 110 Stat. 3918, 3922.)
 
 Historical and Revision Notes
 

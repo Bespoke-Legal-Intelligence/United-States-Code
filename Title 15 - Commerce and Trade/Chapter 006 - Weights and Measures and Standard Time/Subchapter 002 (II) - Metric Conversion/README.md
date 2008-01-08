@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—METRIC CONVERSION
 
-<i><sup>1</sup></i><i> Denotes exact figures.</i>
-
 
 ---
 

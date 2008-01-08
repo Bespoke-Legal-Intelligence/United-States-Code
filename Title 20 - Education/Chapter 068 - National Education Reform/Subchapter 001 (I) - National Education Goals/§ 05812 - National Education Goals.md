@@ -64,7 +64,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;&emsp;(i) mathematics and science education, including the metric system of measurement, will be strengthened throughout the system, especially in the early grades;
 
-&emsp;&emsp;(ii) the number of teachers with a substantive background in mathematics and science, including the metric system of measurement, will increase by 50 percent; and
+&emsp;&emsp;(ii) the number of teachers with a substantive background in mathematics andscience, including the metric system of measurement, will increase by 50 percent; and
 
 &emsp;&emsp;(iii) the number of United States undergraduate and graduate students, especially women and minorities, who complete degrees in mathematics, science, and engineering will increase significantly.
 

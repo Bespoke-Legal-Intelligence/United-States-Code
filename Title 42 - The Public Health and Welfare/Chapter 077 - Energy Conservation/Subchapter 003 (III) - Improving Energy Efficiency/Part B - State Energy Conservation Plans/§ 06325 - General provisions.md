@@ -26,7 +26,7 @@ Within 90 days after August 14, 1976, the Secretary shall—
 
 #### (f) Authorization of appropriations
 
-For the purpose of carrying out this part, there are authorized to be appropriated $100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008.
+For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for each of fiscal years 2007 through 2012.
 
 #### (g) State Energy Advisory Board
 
@@ -62,7 +62,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 (9) The Board shall continue until terminated by law.
 
-(Pub. L. 94–163, title III, §365, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, §432(d), Aug. 14, 1976, 90 Stat. 1162; Pub. L. 95–619, title VI, §§621, 691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288;Pub. L. 101–440, §§5, 8(a), Oct. 18, 1990, 104 Stat. 1009, 1015; Pub. L. 102–486, title I, §141(a)(2), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 104–66, title I, §1052(f), Dec. 21, 1995, 109 Stat. 718; Pub. L. 105–388, §2(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 109–58, title I, §123(c), Aug. 8, 2005, 119 Stat. 617.)
+(Pub. L. 94–163, title III, §365, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, §432(d), Aug. 14, 1976, 90 Stat. 1162; Pub. L. 95–619, title VI, §§621, 691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288; Pub. L. 101–440, §§5, 8(a), Oct. 18, 1990, 104 Stat. 1009, 1015; Pub. L. 102–486, title I, §141(a)(2), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 104–66, title I, §1052(f), Dec. 21, 1995, 109 Stat. 718; Pub. L. 105–388, §2(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 109–58, title I, §123(c), Aug. 8, 2005, 119 Stat. 617; Pub. L. 110–140, title V, §531, Dec. 19, 2007, 121 Stat. 1665.)
 
 #### References in Text
 
@@ -71,6 +71,8 @@ The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1
 The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (f). Pub. L. 110–140 substituted “$125,000,000 for each of fiscal years 2007 through 2012” for “$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008”.
 
 2005—Subsec. (f). Pub. L. 109–58 substituted “$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008” for “for fiscal years 1999 through 2003 such sums as may be necessary”.
 
@@ -97,6 +99,10 @@ Subsec. (f). Pub. L. 95–619, §621, authorized to be appropriated $50,000,000 
 Subsec. (e). Pub. L. 94–385, §432(d)(2), added subsec. (e).
 
 Subsec. (f). Pub. L. 94–385, §432(d)(1), (3), redesignated former subsec. (d) as (f) and inserted “(other than section 6327 of this title)” after “part”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Termination of Reporting Requirements
 

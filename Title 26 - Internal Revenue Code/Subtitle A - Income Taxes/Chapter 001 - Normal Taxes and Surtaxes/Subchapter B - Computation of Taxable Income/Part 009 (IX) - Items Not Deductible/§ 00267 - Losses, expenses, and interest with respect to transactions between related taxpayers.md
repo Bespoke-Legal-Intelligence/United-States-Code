@@ -62,7 +62,7 @@ The persons referred to in subsection (a) are:
 
 &emsp;(11) An S corporation and another S corporation if the same persons own more than 50 percent in value of the outstanding stock of each corporation;
 
-&emsp;(12) An S corporation and a C corporation, if the same persons own more than 50 percent in value of the outstanding stock of each corporation; or
+&emsp;(12) An S corporation and a C corporation, if the same persons own more than 50 percent invalue of the outstanding stock of each corporation; or
 
 &emsp;(13) Except in the case of a sale or exchange in satisfaction of a pecuniary bequest, an executor of an estate and a beneficiary of such estate.
 
@@ -216,7 +216,7 @@ If—
 
 #### (g) Coordination with section 1041
 
-Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (relating totransfers of property between spouses or incident to divorce).
+Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (relating to transfers of property between spouses or incident to divorce).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s), July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098; Pub. L. 106–170, title V, §532(c)(2)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title VIII, §841(b), Oct. 22, 2004, 118 Stat. 1598.)
 

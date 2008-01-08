@@ -24,7 +24,7 @@ For purposes of this part—
 
 #### (B) Special rule for terminations and reduced employment
 
-&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title, the term “qualified beneficiary” includes the covered employee.
+&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title, the term“qualified beneficiary” includes the covered employee.
 
 #### (C) Special rule for retirees and widows
 
@@ -78,7 +78,7 @@ Par. (4). Pub. L. 99–514, §1895(d)(9)(A), added par. (4).
 
 Amendment by section 321(d)(2) of Pub. L. 104–191 applicable to contracts issued after Dec. 31, 1996, see section 321(f) of Pub. L. 104–191, set out as an Effective Date note under section 7702B of Title 26, Internal Revenue Code.
 
-Amendment by section 421(b)(3) of Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qualifyingevent occurred before, on, or after such date, see section 421(d) of Pub. L. 104–191 set out as a note under section 4980B of Title 26.
+Amendment by section 421(b)(3) of Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qualifying event occurred before, on, or after such date, see section 421(d) of Pub. L. 104–191 set out as a note under section 4980B of Title 26.
 
 #### Effective Date of 1989 Amendment
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 100–647 applicable to taxable years beginning after Dec. 
 
 Section 1895(d)(9)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect in the same manner and to the same extent as the amendments made by subsections (e) and (i) of section 1151 of this Act \[amending sections 132 and 414 of Title 26, Internal Revenue Code, see section 1151(k) of Pub. L. 99–514, set out as an Effective Date note under section 89 of Title 26\].”
 
-Amendment by section 1895(d)(8) of Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26.
+Amendment by section 1895(d)(8) of Pub. L. 99–514 effective, except as otherwise provided, as if included inenactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26.
 
 Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if included in title X of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 9501(e) of Pub. L. 99–509, set out as a note under section 162 of Title 26.
 

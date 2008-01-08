@@ -12,7 +12,7 @@ The Secretary shall discontinue the educational assistance allowance on behalf o
 
 &emsp;&emsp;(C) if a proposed change of program is involved, the change meets the requirements for approval under section 3691 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, §1724; Pub. L. 94–502, title III, §§307, 310(15), Oct. 15, 1976, 90 Stat. 2390, 2392; Pub. L. 95–202, title III, §305(b)(1), Nov. 23, 1977, 91 Stat. 1443; Pub. L.96–466, title III, §328, Oct. 17, 1980, 94 Stat. 2197; Pub. L. 101–237, title IV, §§411(b), 412(b), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2085, 2092; renumbered §3524 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, §1724; Pub. L. 94–502, title III, §§307, 310(15), Oct. 15, 1976, 90 Stat. 2390, 2392; Pub. L. 95–202, title III, §305(b)(1), Nov. 23, 1977, 91 Stat. 1443; Pub. L. 96–466, title III, §328, Oct. 17, 1980, 94 Stat. 2197; Pub. L. 101–237, title IV, §§411(b), 412(b), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2085, 2092; renumbered §3524 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 
@@ -52,5 +52,5 @@ Amendment by sections 307 and 310(15) of Pub. L. 94–502 effective Dec. 1, 1976
 
 #### Suspension of Implementation of 1976 Amendment
 
-For provisions directing the Administrator to suspend the implementation of the amendment to this section by section 307 of Pub. L. 94–502 in the case of any accredited educational institution which submits to the Administrator its course catalog or bulletin and a certification that the policies and regulations described in cls. (6) and (7) of section 1776(b) \[now 3676(b)(6) and (7)\] of this title are being enforced by such institution, unless the Administrator finds that the catalog or bulletin fails to state fully and clearly the policies and regulations, and for that suspension to continue until the Administrator submits the report required under section 305(b)(2) of Pub. L. 95–202, see section 305(b)(4)(A) of Pub. L. 95–202, set out as a note under section 3474 of this title.
+For provisions directing the Administrator to suspend the implementation of the amendment to this section by section 307 of Pub. L. 94–502 in the case of any accredited educational institution which submits to the Administrator its course catalog or bulletin and acertification that the policies and regulations described in cls. (6) and (7) of section 1776(b) \[now 3676(b)(6) and (7)\] of this title are being enforced by such institution, unless the Administrator finds that the catalog or bulletin fails to state fully and clearly the policies and regulations, and for that suspension to continue until the Administrator submits the report required under section 305(b)(2) of Pub. L. 95–202, see section 305(b)(4)(A) of Pub. L. 95–202, set out as a note under section 3474 of this title.
 

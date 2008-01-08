@@ -76,7 +76,7 @@ The Secretary of State is authorized to establish within the Department of State
 
 #### (4) Availability of information
 
-&emsp;Each Federal department or agency represented on the Operating Group shall fully share all information with such Group regarding the department or agency's plans, beforeand after final agency decisions are made, on all matters relating to grants, grant policies, and other significant actions regarding the international trafficking in persons and the implementation of this chapter.
+&emsp;Each Federal department or agency represented on the Operating Group shall fully share all information with such Group regarding the department or agency's plans, before and after final agency decisions are made, on all matters relating to grants, grant policies, and other significant actions regarding the international trafficking in persons and the implementation of this chapter.
 
 #### (5) Regulations
 
@@ -103,6 +103,10 @@ Subsec. (d)(7)(G), (H). Pub. L. 109–164, §205, added subpar. (G) and redesign
 Subsec. (e). Pub. L. 108–193, §6(b)(1), inserted before period at end of second sentence “, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large”.
 
 Subsec. (f). Pub. L. 108–193, §6(c)(1), added subsec. (f).
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Savings Provision
 

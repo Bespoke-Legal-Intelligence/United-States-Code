@@ -6,7 +6,7 @@ To carry out the educational and training objectives of this subchapter, the Sec
 
 #### (b) Dean John A. Knauss Marine Policy Fellowship
 
-The Secretary may award marine policy fellowships to support the placement of individuals at the graduate level of education in fields related to ocean, coastal and Great Lakes resources in positions with the executive and legislative branches of the United States Government. Afellowship awarded under this subsection shall be for a period of not more than 1 year.
+The Secretary may award marine policy fellowships to support the placement of individuals at the graduate level of education in fields related to ocean, coastal and Great Lakes resources in positions with the executive and legislative branches of the United States Government. A fellowship awarded under this subsection shall be for a period of not more than 1 year.
 
 (Pub. L. 89–454, title II, §208, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–66, §3, July 10, 1987, 101 Stat. 384; Pub. L. 100–220, title III, §3107, Dec. 29, 1987, 101 Stat. 1472; Pub. L. 102–186, §4(b)(1)(C), (D), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 105–160, §4(b)(2), Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, §5, Nov. 26, 2002, 116 Stat. 2346.)
 

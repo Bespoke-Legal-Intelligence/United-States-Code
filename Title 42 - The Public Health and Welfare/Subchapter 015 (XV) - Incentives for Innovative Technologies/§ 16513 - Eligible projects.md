@@ -26,7 +26,7 @@ Projects from the following categories shall be eligible for a guarantee under t
 
 &emsp;(7) Efficient end-use energy technologies.
 
-&emsp;(8) Production facilities for fuel efficient vehicles, including hybrid and advanced diesel vehicles.
+&emsp;(8) Production facilities for the manufacture of fuel efficient vehicles or parts of those vehicles, including electric drive vehicles and advanced diesel vehicles.
 
 &emsp;(9) Pollution control equipment.
 
@@ -108,9 +108,15 @@ In addition to any other applicable Federal or State emission limitation require
 
 A project that receives tax credits for clean coal technology shall not be disqualified from receiving a guarantee under this subchapter.
 
-(Pub. L. 109–58, title XVII, §1703, Aug. 8, 2005, 119 Stat. 1120; Pub. L. 109–168, §1(b)(1), Jan. 10, 2006, 119 Stat. 3580.)
+(Pub. L. 109–58, title XVII, §1703, Aug. 8, 2005, 119 Stat. 1120; Pub. L. 109–168, §1(b)(1), Jan. 10, 2006, 119 Stat. 3580; Pub. L. 110–140, title I, §134(b), Dec. 19, 2007, 121 Stat. 1513.)
 
 #### Amendments
 
+2007—Subsec. (b)(8). Pub. L. 110–140 added par. (8) and struck out former par. (8) which read as follows: “Production facilities for fuel efficient vehicles, including hybrid and advanced diesel vehicles.”
+
 2006—Subsec. (c)(4). Pub. L. 109–168 substituted “Department of Energy's Clean Coal Power Initiative for Fischer-Tropsch” for “clean coal power initiative under part A of subchapter IV for”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

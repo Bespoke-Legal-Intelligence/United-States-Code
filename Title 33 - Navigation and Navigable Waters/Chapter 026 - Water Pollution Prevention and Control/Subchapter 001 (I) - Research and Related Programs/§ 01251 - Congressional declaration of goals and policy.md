@@ -20,11 +20,11 @@ The objective of this chapter is to restore and maintain the chemical, physical,
 
 #### (b) Congressional recognition, preservation, and protection of primary responsibilities and rights of States
 
-It is the policy of the Congress to recognize, preserve, and protect the primary responsibilities and rights of States to prevent, reduce, and eliminate pollution, to plan the development and use (including restoration, preservation, and enhancement) of land and water resources, and to consult with the Administrator in the exercise of his authority under this chapter. It is the policy of Congress that the States manage the construction grant program under this chapter and implement the permit programs under sections 1342 and 1344 of this title. It is further the policy of the Congress to support and aid research relating to the prevention, reduction, and elimination of pollution and to provide Federal technical services and financial aid to State and interstate agencies and municipalities in connection with the prevention, reduction, and elimination of pollution.
+It is the policy of the Congress to recognize, preserve, and protect the primary responsibilities and rights of States to prevent, reduce, and eliminate pollution, to plan the development and use (including restoration, preservation, and enhancement) of land and water resources, and to consult with the Administrator in the exercise of his authority under this chapter. It is the policy of Congress that the States manage the construction grant program under this chapter and implement the permit programs under sections 1342 and 1344 of this title. It is further the policy of the Congress to support and aid research relating to the prevention, reduction, and elimination of pollution and to provide Federal technical services and financial aid to State andinterstate agencies and municipalities in connection with the prevention, reduction, and elimination of pollution.
 
 #### (c) Congressional policy toward Presidential activities with foreign countries
 
-It is further the policy of Congress that the President, acting through the Secretary of State and such national and international organizations as he determines appropriate, shall take such action as may be necessary to insure that to the fullest extent possible all foreign countries shall take meaningful action for the prevention, reduction, and elimination of pollution in their waters and in international waters and for the achievement of goals regarding the elimination of discharge of pollutants and theimprovement of water quality to at least the same extent as the United States does under its laws.
+It is further the policy of Congress that the President, acting through the Secretary of State and such national and international organizations as he determines appropriate, shall take such action as may be necessary to insure that to the fullest extent possible all foreign countries shall take meaningful action for the prevention, reduction, and elimination of pollution in their waters and in international waters and for the achievement of goals regarding the elimination of discharge of pollutants and the improvement of water quality to at least the same extent as the United States does under its laws.
 
 #### (d) Administrator of Environmental Protection Agency to administer chapter
 
@@ -86,7 +86,7 @@ Pub. L. 101–596, title III, §301, Nov. 16, 1990, 104 Stat. 3006, provided tha
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–653, title X, §1001, Nov. 14, 1988, 102 Stat. 3835, provided that: “This title \[amending section 1330 of this title and enacting provisions set out as notes under section 1330 of this title\] may be cited as the ‘Massachusetts Bay Protection Act of 1988’.”
+Pub. L. 100–653, title X, §1001, Nov. 14, 1988, 102 Stat. 3835, provided that: “This title \[amending section 1330 of this title and enacting provisions set out as notesunder section 1330 of this title\] may be cited as the ‘Massachusetts Bay Protection Act of 1988’.”
 
 #### Short Title of 1987 Amendment
 
@@ -94,7 +94,7 @@ Section 1(a) of Pub. L. 100–4 provided that: “This Act \[enacting sections 1
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act \[enacting sections 1298, 1299, and 1313aof this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title\] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
+Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act \[enacting sections 1298, 1299, and 1313a of this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title\] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
 
 #### Short Title of 1977 Amendment
 
@@ -160,7 +160,7 @@ Advisory Committee.—(1) For the purpose of providing oversight of the Program 
 
 &emsp;“(A) three members representing agencies having authority under State law to regulate the shellfish industry, of whom one shall represent each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions;
 
-&emsp;“(B) three members representing persons engaged in the shellfish industry in the Atlantic, Pacific, andGulf of Mexico shellfish growing regions (who shall be appointed from among at least six recommendations by the industry members of the Interstate Shellfish Sanitation Conference Executive Board), of whom one shall represent the shellfish industry in each region;
+&emsp;“(B) three members representing persons engaged in the shellfish industry in the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions (who shall be appointed from among at least six recommendations by the industry members of the Interstate Shellfish Sanitation Conference Executive Board), of whom one shall represent the shellfish industry in each region;
 
 &emsp;“(C) three members, of whom one shall represent each of the following Federal agencies: the National Oceanic and Atmospheric Administration, the Environmental Protection Agency, and the Food and Drug Administration; and
 

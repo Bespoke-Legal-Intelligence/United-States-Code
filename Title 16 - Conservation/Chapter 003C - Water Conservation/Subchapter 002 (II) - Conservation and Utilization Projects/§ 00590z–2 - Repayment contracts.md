@@ -16,7 +16,7 @@ The repayment contract or contracts for a project shall, in their aggregate, pro
 
 &emsp;(2) The United States shall operate and maintain the project during the development period fixed for it. After the development period, the United States shall operate and maintain the project or any part thereof as long as is deemed necessary by the Secretary, and shall be paid in advance for each year that part of the estimated cost of operating and maintaining the project for such year allocated by the Secretary to irrigation. In the event charges due the United States are not paid when due the United States may, at its election, suspend operations in whole or in part.
 
-&emsp;(3) The repayment of the reimbursable construction costs, except as to Indian lands which shall be repayable in accordance with existing law relating to Indian lands, shall be spread in not to exceed forty annual installments, of the number and amounts fixed by the Secretary; and the first annual installment under each contract shall become due and payable on the date fixed by the Secretary, in the year next following the last year of the development period fixed under subsection (c)(1) of this section: <i>Provided</i>, That the provisions of this subsection shall not be construed to modify the provisions of special legislation pertaining to any particular project.
+&emsp;(3) The repayment of the reimbursable construction costs, except as to Indian landswhich shall be repayable in accordance with existing law relating to Indian lands, shall be spread in not to exceed forty annual installments, of the number and amounts fixed by the Secretary; and the first annual installment under each contract shall become due and payable on the date fixed by the Secretary, in the year next following the last year of the development period fixed under subsection (c)(1) of this section: <i>Provided</i>, That the provisions of this subsection shall not be construed to modify the provisions of special legislation pertaining to any particular project.
 
 &emsp;(4) The water users or their organization will take such measures as the Secretary deems proper to secure the adoption of proper accounting, to protect the condition of project works, and to provide for the proper use thereof, and to protect project lands against deterioration due to improper use of water. Delinquencies in any payments due to the United States shall be penalized by a penalty of not less than one-half of 1 per centum per month. No water shall be delivered to or for any land or party while either said land or the organization in which it is located or said party is in arrears in the advance payment of operation and maintenance charges or development period charges under subsection (c)(1) of this section, or in arrears for more than twelve months in the payment of an installment of the reimbursable construction costs.
 
@@ -30,7 +30,7 @@ Herein, referred to in subsec. (c)(5), means act Aug. 11, 1939, which comprises 
 
 #### Prior Provisions
 
-A prior section 4 of act Aug. 11, 1939, ch. 717, 53 Stat. 1419, covered authorization of appropriations, prior tothe general amendment of that act by act Oct. 14, 1940. See section 590z–10 of this title.
+A prior section 4 of act Aug. 11, 1939, ch. 717, 53 Stat. 1419, covered authorization of appropriations, prior to the general amendment of that act by act Oct. 14, 1940. See section 590z–10 of this title.
 
 #### Amendments
 

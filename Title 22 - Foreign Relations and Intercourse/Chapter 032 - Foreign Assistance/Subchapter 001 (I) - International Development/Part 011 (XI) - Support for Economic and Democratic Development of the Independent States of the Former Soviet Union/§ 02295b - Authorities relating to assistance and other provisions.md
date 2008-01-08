@@ -108,7 +108,7 @@ The Support for East European Democracy (SEED) Act of 1989, referred to in subse
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (j)(1)(D), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (j)(1)(D), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to theCode, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (j)(1)(D), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 The Budget Enforcement Act of 1990, referred to in subsec. (j)(1)(D), is title XIII of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–573. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 900 of Title 2 and Tables.
 
@@ -121,10 +121,6 @@ Section 510 of the Foreign Operations, Export Financing, and Related Programs Ap
 1996—Subsec. (k)(3), (4). Pub. L. 104–114 added pars. (3) and (4).
 
 1994—Subsec. (j)(1)(C). Pub. L. 103–236 substituted “sections 2799aa and 2799aa–1” for “sections 2429 and 2429a”.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

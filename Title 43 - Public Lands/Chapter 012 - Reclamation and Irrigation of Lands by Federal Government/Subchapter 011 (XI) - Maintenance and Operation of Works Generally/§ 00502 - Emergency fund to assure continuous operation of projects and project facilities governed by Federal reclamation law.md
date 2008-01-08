@@ -50,7 +50,7 @@ General Authority.—The Secretary of the Interior may make available, by contra
 
 Contracts.—Any contract signed under this section shall provide that—
 
-&emsp;“(1) the price for the use of such water shall be at least sufficient to recover all Federal operation and maintenance costs, and an appropriate share of capital costs, except that, for water delivered to a landholding in excess of 960 acres of class I lands or the equivalent thereof for a qualified recipient and 320 acres of class I lands or the equivalent thereof for a limited recipient, the cost of such water shall be full cost (as defined in section 202(3)(A) of Public Law97–293, 43 U.S.C. 390bb) for those acres in excess of 960 acres or 320 acres, as appropriate;
+&emsp;“(1) the price for the use of such water shall be at least sufficient to recover all Federal operation and maintenance costs, and an appropriate share of capital costs, except that, for water delivered to a landholding in excess of 960 acres of class I lands or the equivalent thereof for a qualified recipient and 320 acres of class I lands or the equivalent thereof for a limited recipient, the cost of such water shall be full cost (as defined in section 202(3)(A) of Public Law 97–293, 43 U.S.C. 390bb) for those acres in excess of 960 acres or 320 acres, as appropriate;
 
 &emsp;“(2) the lands not now subject to reclamation law that receive temporary irrigation water supplies under this section shall not become subject to the ownership limitations of Federal reclamation law because of the delivery of such temporary water supplies;
 

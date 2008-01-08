@@ -46,5 +46,9 @@ In calculating an annual adjustment to the base cabin user fee as determined by 
 
 2003—Subsec. (b)(2). Pub. L. 108–7 substituted “criteria” for “value influences” and “section 6205(b)(2)” for “section 6205(b)(3)”.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

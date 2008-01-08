@@ -1,6 +1,6 @@
 ### §§218 to 218d. Repealed. Pub. L. 100–173, §10, Nov. 23, 1987, 101 Stat. 922
 
-Section 218, act Aug. 15, 1921, ch. 64, title V, §501, as added Aug. 14, 1935, ch. 532, 49 Stat. 648, stated necessity to curb unfair, deceptive, and fraudulent practices relating to live poultry.
+Section 218, act Aug. 15, 1921, ch. 64, title V, §501, as added Aug. 14, 1935, ch. 532, 49 Stat. 648, stated necessityto curb unfair, deceptive, and fraudulent practices relating to live poultry.
 
 Section 218a, act Aug. 15, 1921, ch. 64, title V, §502, as added Aug. 14, 1935, ch. 532, 49 Stat. 648, authorized Secretary to designate cities and markets where unfair practices exist, to require licensing, and to prescribe information to be contained in application license, and authorized penalty for dealing without license.
 

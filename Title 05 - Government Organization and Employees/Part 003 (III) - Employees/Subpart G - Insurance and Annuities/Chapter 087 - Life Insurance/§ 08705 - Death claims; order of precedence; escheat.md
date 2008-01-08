@@ -20,7 +20,7 @@
 
 (d) If, within 4 years after the death of the employee, payment has not been made under this section and no claim for payment by a person entitled under this section is pending, the amount payable escheats to the credit of the Employees’ Life Insurance Fund.
 
-(e)(1) Any amount which would otherwise be paid to a person determined under the order of precedence named by subsection (a) shall be paid (in whole or in part) by the Office to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation.
+(e)(1) Any amount which would otherwise be paid to a person determined under the order ofprecedence named by subsection (a) shall be paid (in whole or in part) by the Office to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation.
 
 (2) For purposes of this subsection, a decree, order, or agreement referred to in paragraph (1) shall not be effective unless it is received, before the date of the covered employee's death, by the employing agency or, if the employee has separated from service, by the Office.
 

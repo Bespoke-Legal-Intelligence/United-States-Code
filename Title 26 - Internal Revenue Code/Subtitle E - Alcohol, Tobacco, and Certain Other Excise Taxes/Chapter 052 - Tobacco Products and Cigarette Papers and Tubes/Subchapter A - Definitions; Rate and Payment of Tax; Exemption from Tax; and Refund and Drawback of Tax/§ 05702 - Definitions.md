@@ -12,7 +12,7 @@ When used in this chapter—
 
 &emsp;(1) any roll of tobacco wrapped in paper or in any substance not containing tobacco, and
 
-&emsp;(2) any roll of tobacco wrapped in any substance containing tobacco which, because ofits appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette described in paragraph (1).
+&emsp;(2) any roll of tobacco wrapped in any substance containing tobacco which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette described in paragraph (1).
 
 #### (c) Tobacco products
 
@@ -178,7 +178,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §315(b)\], Dec. 21, 2000, 114 Stat. 2
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to articles removed, as defined in subsec. (k) of this section, after Dec. 31, 1999, with transition rule, see section 9302(i) of Pub. L. 105–33, set out as a note under section 5701 of this title.
+Amendment by Pub. L. 105–33 applicable to articles removed, as defined in subsec. (k) of this section, after Dec. 31, 1999, with transition rule, see section 9302(i) ofPub. L. 105–33, set out as a note under section 5701 of this title.
 
 #### Effective Date of 1990 Amendment
 

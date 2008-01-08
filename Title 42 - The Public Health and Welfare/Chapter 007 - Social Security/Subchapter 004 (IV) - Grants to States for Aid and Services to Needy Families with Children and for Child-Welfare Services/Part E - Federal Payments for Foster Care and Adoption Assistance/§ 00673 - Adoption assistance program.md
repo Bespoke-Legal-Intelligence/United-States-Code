@@ -102,7 +102,7 @@ Subsec. (b). Pub. L. 104–193, §108(d)(6), amended subsec. (b) generally. Prio
 
 &emsp;“(1)(A) who is a child described in subsection (a)(2) of this section, and
 
-&emsp;“(B) with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided under the agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued), or
+&emsp;“(B) with respect to whom an adoption assistance agreement is in effect under this section (whether or not adoption assistance payments are provided underthe agreement or are being made under this section), including any such child who has been placed for adoption in accordance with applicable State and local law (whether or not an interlocutory or other judicial decree of adoption has been issued), or
 
 &emsp;“(2) with respect to whom foster care maintenance payments are being made under section 672 of this title,
 

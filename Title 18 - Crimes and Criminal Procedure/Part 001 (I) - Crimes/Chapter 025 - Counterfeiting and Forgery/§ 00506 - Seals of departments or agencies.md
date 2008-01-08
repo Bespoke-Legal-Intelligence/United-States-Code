@@ -30,7 +30,7 @@
 
 &emsp;(2) each instance of forgery, counterfeiting, mutilation, or alteration shall constitute a separate offense under this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title V, §561, Sept. 30, 1996, 110 Stat. 3009–681.)
+(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994,108 Stat. 2147; Pub. L. 104–208, div. C, title V, §561, Sept. 30, 1996, 110 Stat. 3009–681.)
 
 #### Historical and revision Notes
 

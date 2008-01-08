@@ -16,7 +16,7 @@ Notwithstanding any other provision of Federal, State, or local law, and subject
 
 #### (b) Confidentiality of patient safety work product
 
-Notwithstanding any other provision of Federal, State, or local law, and subject to subsection (c) of this section, patient safety work product shall be confidential and shall not be disclosed.
+Notwithstanding any other provision of Federal, State, or local law, and subject to subsection (c) of this section, patient safety workproduct shall be confidential and shall not be disclosed.
 
 #### (c) Exceptions
 
@@ -64,7 +64,7 @@ Except as provided in subsection (g)(3) of this section—
 
 #### (1) In general
 
-&emsp;Patient safety work product that is disclosed under subsection (c) of this section shall continue to be privileged and confidential as provided for in subsections (a) and (b) of this section, and such disclosure shall not be treated as a waiver of privilege or confidentiality, and the privileged and confidential nature of such work product shall also apply tosuch work product in the possession or control of a person to whom such work product was disclosed.
+&emsp;Patient safety work product that is disclosed under subsection (c) of this section shall continue to be privileged and confidential as provided for in subsections (a) and (b) of this section, and such disclosure shall not be treated as a waiver of privilege or confidentiality, and the privileged and confidential nature of such work product shall also apply to such work product in the possession or control of a person to whom such work product was disclosed.
 
 #### (2) Exception
 
@@ -92,7 +92,7 @@ Except as provided in subsection (g)(3) of this section—
 
 #### (B) Providers
 
-&emsp;&emsp;An accrediting body shall not take an accrediting action against a provider based on the good faith participation of the provider in the collection, development, reporting, or maintenance of patient safety work product in accordance with this part. An accrediting body may not require a provider to reveal its communications with any patient safety organization established in accordance with this part.
+&emsp;&emsp;An accrediting body shall not take an accrediting action against a provider based onthe good faith participation of the provider in the collection, development, reporting, or maintenance of patient safety work product in accordance with this part. An accrediting body may not require a provider to reveal its communications with any patient safety organization established in accordance with this part.
 
 #### (e) Reporter protection
 
@@ -168,7 +168,7 @@ For purposes of applying the HIPAA confidentiality regulations—
 
 #### (1) Draft report
 
-&emsp;Not later than the date that is 18 months after any network of patient safety databases is operational, the Secretary, in consultation with the Director, shall prepare a draft report on effective strategies for reducing medical errors and increasing patient safety. The draft report shall include any measure determined appropriate by the Secretary to encourage the appropriate use of such strategies, including use in any federally funded programs. The Secretary shall make the draft report available for public comment and submit the draft report to the Institute of Medicine for review.
+&emsp;Not later than the date that is 18 months after any network of patient safety databases is operational, the Secretary, in consultation with the Director, shall prepare a draft report on effective strategies for reducing medical errors and increasing patient safety. The draft report shall include any measure determinedappropriate by the Secretary to encourage the appropriate use of such strategies, including use in any federally funded programs. The Secretary shall make the draft report available for public comment and submit the draft report to the Institute of Medicine for review.
 
 #### (2) Final report
 

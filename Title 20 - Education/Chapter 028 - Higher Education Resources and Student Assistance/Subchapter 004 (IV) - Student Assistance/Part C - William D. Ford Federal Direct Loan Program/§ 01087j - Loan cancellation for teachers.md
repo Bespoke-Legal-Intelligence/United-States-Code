@@ -90,6 +90,10 @@ For the purpose of this section, the term “year” where applied to service as
 
 The National and Community Service Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
+#### Prior Provisions
+
+A prior section 1087j, Pub. L. 89–329, title IV, §459A, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 575, which related to funds for administrative expenses under Federal direct loan demonstration program, was omitted in the general amendment of this part by Pub. L. 103–66.
+
 #### Amendments
 
 2006—Subsec. (b)(1)(A)(ii). Pub. L. 109–171, §8013(e)(2)(A), inserted “, or meets the requirements of subsection (g)(3)” after “section 7801 of this title”.

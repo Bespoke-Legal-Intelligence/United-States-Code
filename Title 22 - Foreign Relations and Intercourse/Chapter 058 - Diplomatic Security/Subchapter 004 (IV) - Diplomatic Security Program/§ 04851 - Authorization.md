@@ -68,15 +68,11 @@ Section is comprised of section 401 of Pub. L. 99–399. Subsecs. (a)(2) and (h)
 
 1994—Subsec. (a)(3). Pub. L. 103–236, §101(c), struck out heading and text of par. (3). Text read as follows: “There is authorized to be appropriated for the Department of State for ‘Acquisition and Maintenance of Buildings Abroad’ for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made.”
 
-Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: “Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
+Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: “Amounts made available for capital projects pursuantto subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
 Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par. (3). Text read as follows: “Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
-1987—Subsec. (a)(3). Pub. L. 100–204 inserted sentence at end providing that authorizations of appropriationsunder this paragraph remain available until appropriations are made.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1987—Subsec. (a)(3). Pub. L. 100–204 inserted sentence at end providing that authorizations of appropriations under this paragraph remain available until appropriations are made.
 
 #### Effective Date of 1994 Amendment
 
@@ -88,7 +84,7 @@ Section 160 of Pub. L. 100–204, as amended by Pub. L. 101–246, title I, §13
 
 “(a)
 
-Certification.—Before undertaking any new construction or major renovation project in any foreign facility intended for the storage of classified materials or the conduct of classified activities, or approving occupancy of a similar facility for which construction or major renovation began before the effective date of this section \[Dec. 22, 1987\], the Secretary of State, after consultation with the Director of Central Intelligence, shall certify to the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives and the Committee on Foreign Relations of the Senate that—
+Certification.—Before undertaking any new construction or major renovation project in any foreign facility intended for the storage of classified materials or the conduct of classified activities, or approving occupancy of a similar facility for which construction or major renovation began before the effective date of this section \[Dec. 22, 1987\], the Secretary of State, after consultation with the Director of Central Intelligence, shall certify to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate that—
 
 &emsp;“(1) appropriate and adequate steps have been taken to ensure the security of the construction project (including an evaluation of how all security-related factors with respect to such project are being addressed);
 
@@ -102,7 +98,7 @@ Certification.—Before undertaking any new construction or major renovation pro
 
 “(b)
 
-Availability of Documentation.—All documentation with respect to a certification referred to in subsection (a) and any dissenting views thereto shall be available, in an appropriately classified form, to the Chairman of the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate.
+Availability of Documentation.—All documentation with respect to a certification referred to in subsection (a) and any dissenting views thereto shall be available, in an appropriately classified form, to the Chairman of the Committee on Foreign Affairs of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate.
 
 “(c)
 

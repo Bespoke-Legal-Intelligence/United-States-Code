@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-(a) The term “agency head” shall mean the head or any assistant head of any executiveagency, and may at the option of the Administrator include the chief official of any principal organizational unit of the General Services Administration.
+(a) The term “agency head” shall mean the head or any assistant head of any executive agency, and may at the option of the Administrator include the chief official of any principal organizational unit of the General Services Administration.
 
 (b) The term “competitive procedures” means procedures under which an executive agency enters into a contract pursuant to full and open competition. Such term also includes—
 
@@ -98,7 +98,7 @@ Section effective July 1, 1949, see section 605, formerly section 505, of act Ju
 
 #### Small Business Act
 
-Amendment to this section by section 2711(a)(3) of Pub. L. 98–369 not to affect or supersede the provisionsof section 637(a) of Title 15, Commerce and Trade, see section 2711(c) of Pub. L. 98–369, set out as a note under section 253 of this title.
+Amendment to this section by section 2711(a)(3) of Pub. L. 98–369 not to affect or supersede the provisions of section 637(a) of Title 15, Commerce and Trade, see section 2711(c) of Pub. L. 98–369, set out as a note under section 253 of this title.
 
 #### Definitions
 

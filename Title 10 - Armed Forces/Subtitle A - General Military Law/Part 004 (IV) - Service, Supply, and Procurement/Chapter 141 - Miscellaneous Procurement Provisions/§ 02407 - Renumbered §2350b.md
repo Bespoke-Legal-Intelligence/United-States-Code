@@ -1,7 +1,5 @@
 ### \[§2407. Renumbered §2350b\]
 
-§2407
-
 #### NATO Cooperative Logistic Support Agreements
 
 Section 1102 of Pub. L. 99–661, div. A, title XI, §1102, Nov. 14, 1986, 100 Stat. 3961, which authorized Secretary of Defense to enter Weapon System Partnership Agreements with one or more governments of other member countries of NATO, was repealed by Pub. L. 101–189, div. A, title IX, §931(d)(2), Nov. 29, 1989, 103 Stat. 1535. See section 2350d of this title.

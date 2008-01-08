@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 93–495, §409, added subsec (c).
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -56,5 +56,5 @@ Section 504(b) of Pub. L. 90–321 provided in part that chapter 2 of title I, w
 
 #### Real Estate Settlement Procedures
 
-Provisions of Real Estate Settlement Procedures Act of 1974, as superseding provisions of subsec. (c) of thissection insofar as applying to federally related mortgage loans, see section 2605 of Title 12, Banks and Banking.
+Provisions of Real Estate Settlement Procedures Act of 1974, as superseding provisions of subsec. (c) of this section insofar as applying to federally related mortgage loans, see section 2605 of Title 12, Banks and Banking.
 

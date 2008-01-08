@@ -24,7 +24,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) a State (including a department, agency, or political subdivision of a State); or
 
-&emsp;&emsp;(B) a conservancy district, irrigation district, canal company, water users’ association, Indian tribe, an agency created by interstate compact, or any other entity that has the capacity to contract with the United States under Federal reclamation law.
+&emsp;&emsp;(B) a conservancy district, irrigation district, canal company, water users’ association, Indian tribe, an agency created byinterstate compact, or any other entity that has the capacity to contract with the United States under Federal reclamation law.
 
 #### (5) Obligation
 

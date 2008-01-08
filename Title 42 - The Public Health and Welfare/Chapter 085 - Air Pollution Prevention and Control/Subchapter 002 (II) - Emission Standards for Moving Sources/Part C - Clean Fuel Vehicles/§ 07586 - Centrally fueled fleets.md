@@ -28,7 +28,7 @@
 
 #### (b) Phase-in of requirements
 
-The plan revision required under this section shall contain provisions requiring that at least a specified percentage of all new covered fleet vehicles in model year 1998 and thereafter purchased by each covered fleet operator in each covered area shall be clean-fuel vehicles and shall use clean alternative fuels when operating in the covered area. For the applicable model years (MY) specified in the following table and thereafter, the specified percentage shall be as provided in the table for the vehicle types set forth in the table:
+The plan revision required under this section shall contain provisions requiring that at least aspecified percentage of all new covered fleet vehicles in model year 1998 and thereafter purchased by each covered fleet operator in each covered area shall be clean-fuel vehicles and shall use clean alternative fuels when operating in the covered area. For the applicable model years (MY) specified in the following table and thereafter, the specified percentage shall be as provided in the table for the vehicle types set forth in the table:
 
 Clean Fuel Vehicle Phase-in Requirements for Fleets
 
@@ -108,11 +108,11 @@ The plan revision shall require fuel providers to make clean alternative fuel av
 
 #### (4) Standards for issuing credits for cleaner vehicles
 
-&emsp;Solely for purposes of issuing credits under paragraph (1)(B), the Administrator shall establish under this paragraph standards for Ultra-Low Emission Vehicles (“ULEV”s) and Zero Emissions Vehicles (“ZEV”s) which shall be more stringent than those otherwise applicable to clean-fuel vehicles under this part. The Administrator shall certify clean fuel <sup>2</sup> vehicles as complying with such more stringent standards, and administer and enforce such more stringent standards, in the same manner as in the case of the otherwise applicable clean-fuel vehicle standards established under this section. The standards established by the Administrator under this paragraph for vehicles under 8,500 lbs. GVWR or greater shall conform as closely as possible to standards which are established by the State of California for ULEV and ZEV vehicles in the same class. For vehicles of 8,500 lbs. GVWR or more, the Administrator shall promulgate comparable standards for purposes of this subsection.
+&emsp;Solely for purposes of issuing credits under paragraph (1)(B), the Administrator shall establish under this paragraph standards for Ultra-Low Emission Vehicles (“ULEV”s) and Zero Emissions Vehicles (“ZEV”s) which shall be more stringent than those otherwise applicable to clean-fuel vehicles under this part. The Administrator shall certify clean fuel <sup>2</sup> vehicles as complying with such more stringent standards, and administer and enforce such more stringent standards, in the same manner as in the case of the otherwise applicableclean-fuel vehicle standards established under this section. The standards established by the Administrator under this paragraph for vehicles under 8,500 lbs. GVWR or greater shall conform as closely as possible to standards which are established by the State of California for ULEV and ZEV vehicles in the same class. For vehicles of 8,500 lbs. GVWR or more, the Administrator shall promulgate comparable standards for purposes of this subsection.
 
 #### (5) Early fleet credits
 
-&emsp;The State plan revision shall provide credits under this subsection to fleet operators thatpurchase vehicles certified to meet clean-fuel vehicle standards under this part during any period after approval of the plan revision and prior to the effective date of the fleet program under this section.
+&emsp;The State plan revision shall provide credits under this subsection to fleet operators that purchase vehicles certified to meet clean-fuel vehicle standards under this part during any period after approval of the plan revision and prior to the effective date of the fleet program under this section.
 
 #### (g) Availability to public
 

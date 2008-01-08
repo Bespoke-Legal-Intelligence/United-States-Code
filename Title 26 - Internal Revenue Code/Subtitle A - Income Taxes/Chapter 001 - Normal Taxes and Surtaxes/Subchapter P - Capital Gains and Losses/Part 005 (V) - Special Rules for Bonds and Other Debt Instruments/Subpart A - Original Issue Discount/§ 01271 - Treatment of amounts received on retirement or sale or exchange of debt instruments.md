@@ -52,7 +52,7 @@ For purposes of this title—
 
 #### (E) Election of accrual on basis of constant interest rate
 
-&emsp;&emsp;At the election of the taxpayer with respect to any obligation, the ratable share of the acquisition discount is the portion of the acquisition discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of—
+&emsp;&emsp;At the election of the taxpayer with respect to any obligation, the ratable share ofthe acquisition discount is the portion of the acquisition discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of—
 
 &emsp;&emsp;&emsp;(i) the taxpayer's yield to maturity based on the taxpayer's cost of acquiring the obligation, and
 
@@ -64,7 +64,7 @@ For purposes of this title—
 
 #### (A) In general
 
-&emsp;&emsp;On the sale or exchange of any short-term nongovernment obligation, any gain realizedwhich does not exceed an amount equal to the ratable share of the original issue discount shall be treated as ordinary income.
+&emsp;&emsp;On the sale or exchange of any short-term nongovernment obligation, any gain realized which does not exceed an amount equal to the ratable share of the original issue discount shall be treated as ordinary income.
 
 #### (B) Short-term nongovernment obligation
 
@@ -156,7 +156,7 @@ Obligations issued before July 2, 1982, by certain issuers.—Any obligation iss
 
 1988—Subsec. (a)(2)(A)(ii). Pub. L. 100–647 substituted “subsection (a)(7)” for “subsection (a)(6)”.
 
-1986—Subsec. (a)(3)(B). Pub. L. 99–514, §1803(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this paragraph, the term ‘short-term Government obligation’ means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia which is—
+1986—Subsec. (a)(3)(B). Pub. L. 99–514, §1803(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this paragraph, the term ‘short-term Government obligation’means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia which is—
 
 &emsp;“(i) issued on a discount basis, and
 
@@ -172,7 +172,7 @@ Subsec. (a)(4). Pub. L. 99–514, §1803(a)(1)(A), added par. (4).
 
 #### Effective Date of 1997 Amendment
 
-Section 1003(c)(2) of Pub. L. 105–34 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to sales, exchanges, and retirements after the date of enactment of this Act \[Aug. 5, 1997\].”
+Section 1003(c)(2) of Pub. L. 105–34 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to sales, exchanges, and retirements after the date of enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -564,5 +564,5 @@ Clarification That Prior Effective Date Rules Not Affected.—Nothing in the ame
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

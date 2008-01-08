@@ -56,7 +56,7 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 &emsp;(C) indicate whether the United States has voted in favor of a loan, financial assistance, or technical assistance to a country with respect to which the United States had, in the preceding 2 years, opposed a loan, financial assistance, or technical assistance on human rights grounds; and
 
-&emsp;(D) in cases where the United States changed its voting position from opposition to support or from support to opposition, on human rights grounds—
+&emsp;(D) in cases where the United States changed its voting position from opposition to supportor from support to opposition, on human rights grounds—
 
 &emsp;&emsp;(i) indicate the policy considerations that were taken into account in the development of the United States voting position;
 

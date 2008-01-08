@@ -88,7 +88,7 @@ Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1996, see section 1073(c) ofPub. L. 105–34, set out as an Effective Date of Repeal note under section 4980A of this title.
+Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1996, see section 1073(c) of Pub. L. 105–34, set out as an Effective Date of Repeal note under section 4980A of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -6,7 +6,7 @@ No arrangement shall be made under section 2051 of this title, no contract shall
 
 #### (b) Employment of personnel; access to Restricted Data
 
-Except as authorized by the Commission or the General Manager upon a determination by the Commission or General Manager that such action is clearly consistent with the national interest, no individual shall be employed by the Commission nor shall the Commission permit any individual to have access to Restricted Data until the Director of the Office of Personnel Management shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual, and the Commission shall have determined that permitting such person to have access to Restricted Data will not endanger the common defense and security.
+Except as authorized by the Commission or the General Manager upon a determination bythe Commission or General Manager that such action is clearly consistent with the national interest, no individual shall be employed by the Commission nor shall the Commission permit any individual to have access to Restricted Data until the Director of the Office of Personnel Management shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual, and the Commission shall have determined that permitting such person to have access to Restricted Data will not endanger the common defense and security.
 
 #### (c) Acceptance of investigation and clearance granted by other Government agencies
 
@@ -58,7 +58,7 @@ Subsec. (f). Pub. L. 108–136, §3131(a), amended text of subsec. (f) generally
 
 1961—Subsecs. (c), (d). Pub. L. 87–206 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-Subsec. (e). Pub. L. 87–206 redesignated former subsec. (d) as (e) and amended provisions by substituting “determine that” for “cause investigations”, inserting reference to subsection (c) of this section and striking out “instead of by the Civil Service Commission” after “Federal Bureau of Investigation”. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 87–206 redesignated former subsec. (d) as (e) and amended provisions by substituting “determine that” for “cause investigations”, inserting reference to subsection (c) of this section and striking out“instead of by the Civil Service Commission” after “Federal Bureau of Investigation”. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 87–206 redesignated former subsec. (e) as (f) and amended provisions by inserting reference to subsection (c) of this section and striking out “instead of by the Civil Service Commission” after “Federal Bureau of Investigation”. Former subsec. (f) redesignated (g).
 

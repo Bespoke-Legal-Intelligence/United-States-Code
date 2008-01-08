@@ -140,7 +140,7 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, a qualifying State (as defined in paragraph (2)) may elect to use not more than 20 percent of any allotment under section 1397dd of this title for fiscal year 1998, 1999, 2000, 2001, 2004, 2005, 2006, or 2007 (insofar as it is available under subsections (e) and (g) of such section) for payments under subchapter XIX of this chapter in accordance with subparagraph (B), instead of for expenditures under this subchapter.
+&emsp;&emsp;Notwithstanding any other provision of law, a qualifying State (as defined in paragraph (2)) may elect to use not more than 20 percent of any allotment under section 1397dd of this title for fiscal year 1998, 1999, 2000, 2001, 2004, 2005, 2006, 2007, 2008, or 2009 (insofar as it is available under subsections (e) and (g) of such section) for payments under subchapter XIX of this chapter in accordance with subparagraph (B), instead of for expenditures under this subchapter.
 
 #### (B) Payments to States
 
@@ -154,7 +154,7 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### (iii) No impact on determination of budget neutrality for waivers
 
-&emsp;&emsp;&emsp;In the case of a qualifying State that uses amounts paid under this subsectionfor expenditures described in clause (ii) that are incurred under a waiver approved for the State, any budget neutrality determinations with respect to such waiver shall be determined without regard to such amounts paid.
+&emsp;&emsp;&emsp;In the case of a qualifying State that uses amounts paid under this subsection for expenditures described in clause (ii) that are incurred under a waiver approved for the State, any budget neutrality determinations with respect to such waiver shall be determined without regard to such amounts paid.
 
 #### (2) Qualifying State
 
@@ -164,11 +164,19 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 &emsp;Nothing in paragraphs (1) and (2) shall be construed as modifying the requirements applicable to States implementing State child health plans under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582; Pub. L. 108–74, §1(b), Aug. 15, 2003, 117 Stat. 895; Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354; Pub. L. 109–171, title VI, §§6102(b), 6103(a), Feb. 8, 2006, 120 Stat. 131, 132; Pub. L. 109–482, title II, §201(b), Jan. 15, 2007, 120 Stat. 3701.)
+(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582; Pub. L. 108–74, §1(b), Aug. 15, 2003, 117 Stat. 895; Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354; Pub. L. 109–171, title VI, §§6102(b), 6103(a), Feb. 8, 2006, 120 Stat. 131, 132; Pub. L. 109–482, title II, §201(b), Jan. 15, 2007, 120 Stat. 3701; Pub. L. 110–92, §136(d), Sept. 29, 2007, 121 Stat. 995; Pub. L. 110–173, title II, §201(b)(1), Dec. 29, 2007, 121 Stat. 2509.)
+
+#### Amendment of Subsection (g)(1)(A)
+
+<i>For termination of amendment by section 201(b)(2) of Pub. L. 110–173, see Termination Date of 2007 Amendment note below.</i>
 
 #### Amendments
 
-2007—Subsec. (g)(1)(A). Pub. L. 109–482 substituted “2005, 2006, or 2007” for “or 2005”.
+2007—Subsec. (g)(1)(A). Pub. L. 110–173 temporarily substituted “2008, or 2009” for “or 2008”.
+
+Pub. L. 110–92 substituted “2007, or 2008” for “or 2007”.
+
+Pub. L. 109–482 substituted “2005, 2006, or 2007” for “or 2005”.
 
 2006—Subsec. (c)(1). Pub. L. 109–171, §6102(b), inserted “and may not include coverage of a nonpregnant childless adult” after “section 1397aa of this title)” and “For purposes of the preceding sentence, a caretaker relative (as such term is defined for purposes of carrying out section 1396u–1 of this title) shall not be considered a childless adult.” at end.
 
@@ -194,13 +202,17 @@ Subsec. (d)(2)(B)(ii). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(e)\], su
 
 1999—Subsec. (d)(2)(B)(iii). Pub. L. 106–113 inserted “in” after “described”.
 
-1997—Subsec. (c)(2)(A). Pub. L. 105–100, §162(5), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in this paragraph, payment shall not be made under subsection (a) of this section for expenditures for items described in subsection (a) of this section (other than paragraph (1)) for a quarter in a fiscalyear to the extent the total of such expenditures exceeds 10 percent of the sum of—
+1997—Subsec. (c)(2)(A). Pub. L. 105–100, §162(5), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in this paragraph, payment shall not be made under subsection (a) of this section for expenditures for items described in subsection (a) of this section (other than paragraph (1)) for a quarter in a fiscal year to the extent the total of such expenditures exceeds 10 percent of the sum of—
 
 &emsp;“(i) the total Federal payments made under subsection (a) of this section for such quarter in the fiscal year, and
 
 &emsp;“(ii) the total Federal payments made under section 1396b(a)(1) of this title based on an enhanced FMAP described in section 1396d(u)(2) of this title for such quarter.”
 
 Subsec. (f). Pub. L. 105–100, §162(7), added subsec. (f).
+
+#### Termination Date of 2007 Amendment
+
+Pub. L. 110–173, title II, §201(b)(2), Dec. 29, 2007, 121 Stat. 2510, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be in effect through March 31, 2009.”
 
 #### Effective Date of 2006 Amendment
 

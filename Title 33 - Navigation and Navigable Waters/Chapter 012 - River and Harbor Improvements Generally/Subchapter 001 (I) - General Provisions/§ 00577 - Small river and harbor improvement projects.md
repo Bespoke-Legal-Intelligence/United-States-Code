@@ -6,7 +6,7 @@ The Secretary of the Army is authorized to allot from any appropriations hereaft
 
 #### (b) Limitation on allotment
 
-Not more than $4,000,000 shall be allotted for the construction of a project under this section at any single locality and the amount allotted shall be sufficient to complete the Federal participation in the project under this section.
+Not more than $7,000,000 shall be allotted for the construction of a project under this section at any single locality and the amount allotted shall be sufficient to complete the Federal participation in the project under this section.
 
 #### (c) Lands, easements, and rights-of-way; indemnification; assurances of local cooperation
 
@@ -24,9 +24,11 @@ Each project for which money is allotted under this section shall be complete in
 
 This section shall apply to, but not be limited to, the provision of low water access navigation channels from the existing channel of the Mississippi River to harbor areas heretofore or now established and located along the Mississippi River.
 
-(Pub. L. 86–645, title I, §107, July 14, 1960, 74 Stat. 486; Pub. L. 89–298, title III, §310(a) Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(a), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 94–587, §133(a), Oct. 22, 1976, 90 Stat. 2928; Pub. L. 99–662, title IX, §915(d), Nov. 17, 1986, 100 Stat. 4191.)
+(Pub. L. 86–645, title I, §107, July 14, 1960, 74 Stat. 486; Pub. L. 89–298, title III, §310(a) Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(a), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 94–587, §133(a), Oct. 22, 1976, 90 Stat. 2928; Pub. L. 99–662, title IX, §915(d), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 110–114, title II, §2022, Nov. 8, 2007, 121 Stat. 1078.)
 
 #### Amendments
+
+2007—Subsec. (b). Pub. L. 110–114 substituted “$7,000,000” for “$4,000,000”.
 
 1986—Subsec. (a). Pub. L. 99–662 substituted “$35,000,000” for “$25,000,000”.
 

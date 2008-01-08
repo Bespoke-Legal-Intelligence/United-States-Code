@@ -46,7 +46,7 @@ Annual Reports.—The Secretary of Defense shall include each year in the materi
 
 &emsp;(3) A review of activities of the Secretary under this subchapter during such preceding fiscal year, shown for military family housing, military unaccompanied housing, dual military family housing and military unaccompanied housing, and ancillary supporting facilities.
 
-&emsp;(4) If a contract for the acquisition or construction of military family housing, military unaccompanied housing, or dual military family housing and military unaccompanied housing entered into during the preceding fiscal year did not include the acquisition or construction of the types of ancillary supporting facilities specifically referred to in section 2871(1) of this title, a explanation of the reasons why such ancillary supporting facilities were not included.
+&emsp;(4) If a contract for the acquisition or construction of military family housing, militaryunaccompanied housing, or dual military family housing and military unaccompanied housing entered into during the preceding fiscal year did not include the acquisition or construction of the types of ancillary supporting facilities specifically referred to in section 2871(1) of this title, a explanation of the reasons why such ancillary supporting facilities were not included.
 
 &emsp;(5) A report setting forth, by armed force—
 

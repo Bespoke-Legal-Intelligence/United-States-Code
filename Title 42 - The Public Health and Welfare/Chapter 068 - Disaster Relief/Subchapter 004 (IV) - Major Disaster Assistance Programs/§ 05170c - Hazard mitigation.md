@@ -74,7 +74,7 @@ A prior section 404 of Pub. L. 93–288 was classified to section 5174 of this t
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–295, §684, in last sentence substituted “15 percent for amounts not morethan $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000” for “7.5 percent”.
+2006—Subsec. (a). Pub. L. 109–295, §684, in last sentence substituted “15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000” for “7.5 percent”.
 
 2003—Subsec. (a). Pub. L. 108–7 substituted “7.5 percent” for “15 percent”.
 

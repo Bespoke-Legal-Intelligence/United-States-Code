@@ -84,11 +84,11 @@ In General.—None of the funds made available by this Act \[see Short Title of 
 
 “(b)
 
-Migration and Refugee Assistance.—None of the funds made available by this Act or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return of any person to any country unless the Secretary of State first notifies the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\], except that in the case of an emergency involving a threat to human life the Secretary of State shall notify the appropriate congressional committees as soon as practicable.
+Migration and Refugee Assistance.—None of the funds made available by this Act or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return of any person to any country unless the Secretary of State first notifies the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\], except that in the case of an emergency involving a threat to human life the Secretary of State shall notify the appropriate congressional committees as soon as practicable.
 
 “(c)
 
-Involuntary Return Defined.—As used in this section, the term ‘to effect the involuntary return’ means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.”
+Involuntary Return Defined.—As used in this section, the term ‘to effect the involuntary return’ means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardlessof whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.”
 
 Similar provisions were contained in the following prior act:
 
@@ -148,7 +148,7 @@ Investigation of Reports.—Upon receipt of credible reports of abuses under sub
 
 Multilateral Implementation of the 1991
 
-UNHCR ‘Guidelines on the Protection of Refugee Women’.—The Secretary of State should work to ensurethat multilateral organizations fully incorporate the needs of refugee women and children into all elements of refugee assistance programs and work to encourage other governments that provide refugee assistance to adopt refugee assistance policies designed to encourage full implementation of the 1991 UNHCR's ‘Guidelines on the Protection of Refugee Women’.”
+UNHCR ‘Guidelines on the Protection of Refugee Women’.—The Secretary of State should work to ensure that multilateral organizations fully incorporate the needs of refugee women and children into all elements of refugee assistance programs and work to encourage other governments that provide refugee assistance to adopt refugee assistance policies designed to encourage full implementation of the 1991 UNHCR's ‘Guidelines on the Protection of Refugee Women’.”
 
 #### United States Membership in Intergovernmental Committee for European Migration
 

@@ -68,7 +68,7 @@ The Administrator of General Services shall provide to the Committee on a reimbu
 
 The Committee shall, not later than December 31 of each year, transmit to the President and to the Congress a report which shall include the names of the Committee members serving in the preceding fiscal year, the dates of Committee meetings in that year, a description of its activities under sections 46 to 48c of this title in that year, and any recommendations for changes in sections 46 to 48c of this title which it determines are necessary.
 
-(June 25, 1938, ch. 697, §1, 52 Stat. 1196; Pub. L. 92–28, §1, June 23, 1971, 85 Stat. 77; Pub. L. 93–358,§1(1), (2), July 25, 1974, 88 Stat. 392, 393; Pub. L. 94–273, §8(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–54, §13(p), June 13, 1991, 105 Stat. 278; Pub. L. 102–569, title IX, §911(a), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–73, title III, §301, Aug. 11, 1993, 107 Stat. 736.)
+(June 25, 1938, ch. 697, §1, 52 Stat. 1196; Pub. L. 92–28, §1, June 23, 1971, 85 Stat. 77; Pub. L. 93–358, §1(1), (2), July 25, 1974, 88 Stat. 392, 393; Pub. L. 94–273, §8(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–54, §13(p), June 13, 1991, 105 Stat. 278; Pub. L. 102–569, title IX, §911(a), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–73, title III, §301, Aug. 11, 1993, 107 Stat. 736.)
 
 #### References in Text
 
@@ -104,7 +104,7 @@ Section 7 of act June 25, 1938, as added by Pub. L. 103–355, title X, §10005(
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (i) of this section relating to the requirement that the Committee transmit a report to Congress each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 199 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (i) of this section relating to the requirementthat the Committee transmit a report to Congress each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 199 of House Document No. 103–7.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -154,7 +154,7 @@ Statement of Policy.—The Secretary of Defense, the Secretary of Education, and
 
 “(c)
 
-Report.—Not later than April 1, 2006, the Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Health, Education, Labor and Pensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives a report describing the joint statement of policy issued under subsection (b), with such findings and recommendations as the Secretaries consider appropriate.”
+Report.—Not later than April 1, 2006, the Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Health, Education, Labor and Pensions of the Senate, and the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives a report describing the joint statement of policy issued under subsection (b), with such findings and recommendations as the Secretaries consider appropriate.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

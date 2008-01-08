@@ -20,7 +20,7 @@ In order to coordinate the policies and operations of the representatives of the
 
 &emsp;(A) to minimize projected adverse impacts; and
 
-&emsp;(B) to avoid, wherever possible, government subsidization of production and exports of international commodities without regard to economic conditions in the markets for such commodities.
+&emsp;(B) to avoid, wherever possible, government subsidization of production and exports ofinternational commodities without regard to economic conditions in the markets for such commodities.
 
 #### (c) Reports to Council
 

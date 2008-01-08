@@ -14,7 +14,7 @@ In General.—To conserve oil and natural gas and better utilize coal, the head 
 
 (b)
 
-Pricing Policies.—Federally generated electric energy sold by the head of a federal agency under subsection (a) shall be priced to recover the fuel and variable operation and maintenance costs of the facility generating the energy that are attributable to that sale, plus an amount equal to one-half the difference between—
+Pricing Policies.—Federally generated electric energy sold by the head of a federalagency under subsection (a) shall be priced to recover the fuel and variable operation and maintenance costs of the facility generating the energy that are attributable to that sale, plus an amount equal to one-half the difference between—
 
 &emsp;(1) the costs of producing the electric energy by coal generation; and
 

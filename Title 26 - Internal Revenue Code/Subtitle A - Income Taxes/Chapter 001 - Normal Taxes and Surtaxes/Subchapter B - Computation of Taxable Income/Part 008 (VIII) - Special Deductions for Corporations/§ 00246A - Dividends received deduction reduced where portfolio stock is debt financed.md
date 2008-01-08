@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (ii) Bank holding company
 
-&emsp;&emsp;&emsp;The term “bank holding company” means a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956).
+&emsp;&emsp;&emsp;The term “bank holding company” means a bank holding company (withinthe meaning of section 2(a) of the Bank Holding Company Act of 1956).
 
 #### (4) Treatment of certain preferred stock
 
@@ -140,7 +140,7 @@ Amendment by section 1804(a) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date
 
-Section 51(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to stock the holding period for which begins after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
+Section 51(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to stock the holding period for which begins after the date of the enactment ofthis Act \[July 18, 1984\] in taxable years ending after such date.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

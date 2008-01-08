@@ -52,7 +52,7 @@ The Secretary shall—
 
 &emsp;(1) organize members of the Corps into units for rapid deployment by the Secretary to respond to urgent or emergency public health care needs;
 
-&emsp;(2) establish appropriate procedures for the command and control of units or individual members of the Corps that are deployed at the direction of the President or the Secretary in response to an urgent or emergency public health care need of national, State or local significance;
+&emsp;(2) establish appropriate procedures for the command and control of units or individual members of the Corps that are deployed at the direction of the President or the Secretary inresponse to an urgent or emergency public health care need of national, State or local significance;
 
 &emsp;(3) ensure that members of the Corps are trained, equipped and otherwise prepared to fulfill their public health and emergency response roles; and
 
@@ -64,7 +64,7 @@ The Secretary shall—
 
 #### (c) Deployment of detailed or assigned officers
 
-For purposes of pay, allowances, and benefits of a Commissioned Corps officer who is detailed or assigned to a Federal entity, the deploymentof such officer by the Secretary in response to an urgent or emergency public health care need shall be deemed to be an authorized activity of the Federal entity to which the officer is detailed or assigned.
+For purposes of pay, allowances, and benefits of a Commissioned Corps officer who is detailed or assigned to a Federal entity, the deployment of such officer by the Secretary in response to an urgent or emergency public health care need shall be deemed to be an authorized activity of the Federal entity to which the officer is detailed or assigned.
 
 (July 1, 1944, ch. 373, title II, §203A, as added Pub. L. 109–417, title II, §206(b), Dec. 19, 2006, 120 Stat. 2851.)
 

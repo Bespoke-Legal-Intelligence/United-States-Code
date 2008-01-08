@@ -42,7 +42,7 @@ Each public housing agency shall consult with the appropriate public housing res
 
 #### (A) Failure to identify projects
 
-&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that apublic housing agency has failed to identify 1 or more public housing projects that the Secretary determines should have been identified under subsection (a) of this section, the Secretary may designate the public housing projects to be removed from the inventory of the public housing agency pursuant to this section.
+&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that a public housing agency has failed to identify 1 or more public housing projects that the Secretary determines should have been identified under subsection (a) of this section,the Secretary may designate the public housing projects to be removed from the inventory of the public housing agency pursuant to this section.
 
 #### (B) Erroneous identification of projects
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of law, if a project or projects are identif
 
 #### (g) Removal by Secretary
 
-The Secretary shall take appropriate actions to ensure removal of any public housing project identified under subsection (a) of this section from the inventory of a public housing agency,if the public housing agency fails to adequately develop a plan under subsection (c) of this section with respect to that project, or fails to adequately implement such plan in accordance with the terms of the plan.
+The Secretary shall take appropriate actions to ensure removal of any public housing project identified under subsection (a) of this section from the inventory of a public housing agency, if the public housing agency fails to adequately develop a plan under subsection (c) of this section with respect to that project, or fails to adequately implement such plan in accordance with the terms of the plan.
 
 #### (h) Administration
 

@@ -1,6 +1,6 @@
 ### §802. Congressional disapproval procedure
 
-(a) For purposes of this section, the term “joint resolution” means only a joint resolution introduced in the period beginning on the date on which the report referred to in section 801(a)(1)(A) is received by Congress and ending 60 days thereafter (excluding days either House of Congress is adjourned for more than 3 days during a session of Congress), the matter after the resolving clause of which is as follows: “That Congress disapproves the rule submitted by the \_\_\_\_ relating to \_\_\_\_, and such rule shall have no force or effect.” (The blank spaces being appropriately filled in).
+(a) For purposes of this section, the term “joint resolution” means only a joint resolution introduced in the period beginning on the date on which the report referred to in section 801(a)(1)(A) is received by Congress and ending 60 days thereafter (excluding days either House ofCongress is adjourned for more than 3 days during a session of Congress), the matter after the resolving clause of which is as follows: “That Congress disapproves the rule submitted by the \_\_\_\_ relating to \_\_\_\_, and such rule shall have no force or effect.” (The blank spaces being appropriately filled in).
 
 (b)(1) A joint resolution described in subsection (a) shall be referred to the committees in each House of Congress with jurisdiction.
 

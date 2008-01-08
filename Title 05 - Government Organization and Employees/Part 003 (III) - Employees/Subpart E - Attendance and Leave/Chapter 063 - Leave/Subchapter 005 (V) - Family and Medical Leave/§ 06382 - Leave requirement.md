@@ -24,7 +24,7 @@
 
 (d) An employee may elect to substitute for leave under subparagraph (A), (B), (C), or (D) of subsection (a)(1) any of the employee's accrued or accumulated annual or sick leave under subchapter I for any part of the 12-week period of leave under such subsection, except that nothing in this subchapter shall require an employing agency to provide paid sick leave in any situation in which such employing agency would not normally provide any such paid leave.
 
-(e)(1) In any case in which the necessity for leave under subparagraph (A) or (B) of subsection (a)(1) is foreseeable based on an expected birth or placement, the employee shall provide the employing agency with not less than 30 days’ notice, before the date the leave is to begin, of the employee's intention to take leaveunder such subparagraph, except that if the date of the birth or placement requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
+(e)(1) In any case in which the necessity for leave under subparagraph (A) or (B) of subsection (a)(1) is foreseeable based on an expected birth or placement, the employee shall provide the employing agency with not less than 30 days’ notice, before the date the leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the birth or placement requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
 
 (2) In any case in which the necessity for leave under subparagraph (C) or (D) of subsection (a)(1) is foreseeable based on planned medical treatment, the employee—
 

@@ -16,7 +16,7 @@
 
 &emsp;(F) such training is suitable for the worker and available at a reasonable cost,
 
-> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
+> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on thejob, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
 
 (2)(A) The total amount of payments that may be made under paragraph (1) for any fiscal year shall not exceed $220,000,000.
 
@@ -72,7 +72,7 @@
 
 &emsp;(C) such plan or program requires the worker to reimburse the plan or program from funds provided under this part, or from wages paid under such training program, for any portion of the costs of such training program paid under the plan or program.
 
-(8) The Secretary may approve training for any adversely affected worker who is a member of a group certified under subpart A of this partat any time after the date on which the group is certified under subpart A of this part, without regard to whether such worker has exhausted all rights to any unemployment insurance to which the worker is entitled.
+(8) The Secretary may approve training for any adversely affected worker who is a member of a group certified under subpart A of this part at any time after the date on which the group is certified under subpart A of this part, without regard to whether such worker has exhausted all rights to any unemployment insurance to which the worker is entitled.
 
 (9) The Secretary shall prescribe regulations which set forth the criteria under each of the subparagraphs of paragraph (1) that will be used as the basis for making determinations under paragraph (1).
 
@@ -142,7 +142,7 @@ Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 o
 
 Subsec. (a)(5)(A). Pub. L. 107–210, §118(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “on-the-job training,”.
 
-Subsec. (c)(8). Pub. L. 107–210, §118(b), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the employer certifies to the Secretary that the employer will continue to employ such worker for at least 26 weeks after completion of such training if the worker desires to continue such employment and the employer does not have due cause to terminate such employment,”.
+Subsec. (c)(8). Pub. L. 107–210, §118(b), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the employer certifies to the Secretary that theemployer will continue to employ such worker for at least 26 weeks after completion of such training if the worker desires to continue such employment and the employer does not have due cause to terminate such employment,”.
 
 Subsec. (f). Pub. L. 107–210, §118(c), added subsec. (f).
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Termination of Reporting Requirements
 

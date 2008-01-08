@@ -76,7 +76,7 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 #### (A) Estimates by Secretary
 
-&emsp;&emsp;The Secretary as of the close of each calendar quarter (and at such other times as the Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under section 59A, this section (to the extent attributable to the Hazardous Substance Superfund financing rate), and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987, and ending December 31, 1995.
+&emsp;&emsp;The Secretary as of the close of each calendar quarter (and at such other times asthe Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under section 59A, this section (to the extent attributable to the Hazardous Substance Superfund financing rate), and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987, and ending December 31, 1995.
 
 #### (B) Termination if $11,970,000,000 credited before January 1, 1996
 
@@ -158,7 +158,7 @@ Pub. L. 99–499, §§511(a), 512(b), amended subsec. (d) generally and redesign
 
 &emsp;“(1) the unobligated balance in the Hazardous Substance Response Trust Fund as of such date exceeds $900,000,000, and
 
-&emsp;“(2) the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that such unobligated balance will exceed $500,000,000 on September 30 of the following year if no tax is imposed under section 4611 or 4661 during the calendar year following the date referred to above,
+&emsp;“(2) the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that such unobligated balance will exceed $500,000,000 on September 30 of the following year ifno tax is imposed under section 4611 or 4661 during the calendar year following the date referred to above,
 
 > then no tax shall be imposed by this section during the first calendar year beginning after the date referred to in paragraph (1).”
 

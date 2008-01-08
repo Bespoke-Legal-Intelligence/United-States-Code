@@ -6,7 +6,7 @@ From the sums appropriated pursuant to the authority of section 1070d–41 of th
 
 #### (b) Number of scholarships available
 
-The number of scholarships to be made available in a State for any fiscal year shall bear the same ratio to the number of scholarships made available to all States as the State's population ages 5 through 17 bears to the population ages 5 through 17 in all the States, except that not less than 10 scholarships shall be made available to any State.
+The number of scholarships to be made available in a State for any fiscal year shall bear thesame ratio to the number of scholarships made available to all States as the State's population ages 5 through 17 bears to the population ages 5 through 17 in all the States, except that not less than 10 scholarships shall be made available to any State.
 
 #### (c) Use of census data
 

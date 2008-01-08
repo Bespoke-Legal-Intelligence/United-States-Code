@@ -11,7 +11,7 @@
 
 #### Amendment of Analysis
 
-<i>For inapplicability of amendment by Pub. L. 108–27 to taxable years beginning after Dec. 31,</i><i>2008, see section 303 of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.</i>
+<i>For inapplicability of amendment by Pub. L. 108–27 to taxable years beginning after Dec. 31, 2008, see section 303 of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.</i>
 
 #### Amendments
 

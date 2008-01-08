@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (8) Other definitions
 
-&emsp;Except as provided in regulations, the terms “net unrealized built-in gain”, “net unrealizedbuilt-in loss”, “recognized built-in loss”, “recognition period”, and “recognition period taxable year”, have the same respective meanings as when used in section 382(h), except that the acquisition date shall be taken into account in lieu of the change date.
+&emsp;Except as provided in regulations, the terms “net unrealized built-in gain”, “net unrealized built-in loss”, “recognized built-in loss”, “recognition period”, and “recognition period taxable year”, have the same respective meanings as when used in section 382(h), except that the acquisition date shall be taken into account in lieu of the change date.
 
 #### (d) Limitation also to apply to excess credits or net capital losses
 
@@ -160,7 +160,7 @@ Subsecs. (e), (f). Pub. L. 100–647, §2004(m)(2), (4), substituted “a corpor
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

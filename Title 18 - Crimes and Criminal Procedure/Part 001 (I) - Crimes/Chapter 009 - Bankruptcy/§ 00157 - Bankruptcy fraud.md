@@ -1,6 +1,6 @@
 ### §157. Bankruptcy fraud
 
-A person who, having devised or intending to devise a scheme or artifice to defraud and forthe purpose of executing or concealing such a scheme or artifice or attempting to do so—
+A person who, having devised or intending to devise a scheme or artifice to defraud and for the purpose of executing or concealing such a scheme or artifice or attempting to do so—
 
 &emsp;(1) files a petition under title 11, including a fraudulent involuntary bankruptcy petition under section 303 of such title;
 

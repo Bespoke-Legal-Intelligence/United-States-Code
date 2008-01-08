@@ -2,7 +2,7 @@
 
 (a)
 
-Procedures.—(1) The Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff, shall establish procedures for overseeing the careers of—
+Procedures.—(1) The Secretary of Defense, with the advice of the Chairman of the JointChiefs of Staff, shall establish procedures for overseeing the careers of—
 
 &emsp;(A) officers with the joint specialty; and
 

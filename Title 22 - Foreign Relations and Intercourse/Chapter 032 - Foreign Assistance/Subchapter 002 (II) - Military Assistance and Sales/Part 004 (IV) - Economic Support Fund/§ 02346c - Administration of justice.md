@@ -64,10 +64,6 @@ Pub. L. 101–513 substituted “fiscal year 1991” for “fiscal year 1990”.
 
 Subsec. (e). Pub. L. 100–202, §101(e) \[title V, §579(b)\], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The authority of this section shall expire on September 30, 1987.”
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.

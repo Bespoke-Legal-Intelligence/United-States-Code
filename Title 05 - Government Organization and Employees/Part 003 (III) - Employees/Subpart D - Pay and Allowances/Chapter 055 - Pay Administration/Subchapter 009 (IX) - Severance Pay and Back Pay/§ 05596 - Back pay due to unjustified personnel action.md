@@ -120,7 +120,7 @@ Section 101(m) \[title VI, §623(b)\] of Pub. L. 100–202 provided that:
 
 “(1)
 
-Generally.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\], and shall apply with respect to any employee found, in a final judgment entered or a final decision otherwise rendered on or after such date, to have been the subject of an unjustified or unwarranted personnel action, the correction of which entitles such employee to an amount under section 5596(b)(1)(A)(i) of title 5, United States Code.
+Generally.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\], and shall apply with respect to any employee found, in a final judgment entered or a final decision otherwise rendered on or aftersuch date, to have been the subject of an unjustified or unwarranted personnel action, the correction of which entitles such employee to an amount under section 5596(b)(1)(A)(i) of title 5, United States Code.
 
 “(2)
 
@@ -164,7 +164,7 @@ Section 1(b) of Pub. L. 94–172 provided that: “The amendment made by subsect
 
 #### Lump-Sum Payments for Former Employees not on the Rolls on December 23, 1975
 
-Section 2 of Pub. L. 94–172 provided that: “With respect to former employee (except a former employee referred to in section 3 of this Act) \[set out as a note below\] who is not on the rolls on the date of the enactment of this Act \[Dec. 23, 1975\], annual leave, which was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to the employee's credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed within three years immediately following the date of the enactment of this Act with the agency by which the employee was employed whenthe lump-sum payment provisions of section 5551 of title 5, United States Code, last became applicable to such employee. Payment shall be by that agency at the salary rate in effect on the date the lump-sum payment provisions became applicable.”
+Section 2 of Pub. L. 94–172 provided that: “With respect to former employee (except a former employee referred to in section 3 of this Act) \[set out as a note below\] who is not on the rolls on the date of the enactment of this Act \[Dec. 23, 1975\], annual leave, which was not credited under section 5596 of title 5, United States Code, because it was in an amount that would have caused the amount of leave to the employee's credit to exceed the maximum amount of the leave authorized for the employee by law or regulation, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed within three years immediately following the date of the enactment of this Act with the agency by which the employee was employed when the lump-sum payment provisions of section 5551 of title 5, United States Code, last became applicable to such employee. Payment shall be by that agency at the salary rate in effect on the date the lump-sum payment provisions became applicable.”
 
 #### Lump-Sum Payments for Postal Employees not on the Rolls on December 23, 1975
 

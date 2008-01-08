@@ -6,11 +6,11 @@ It shall be lawful for the Secretary to receive for internal revenue taxes (or i
 
 #### (b) Ultimate liability
 
-If a check, money order, or other method of payment, including payment by credit card, debit card, or charge card so received is not duly paid, or is paid and subsequently charged back to the Secretary, the person by whom such check, or money order, or other method of payment has been tendered shall remain liable for the payment of the tax or for the stamps, and for all legal penalties and additions, to the same extent as if such check, money order, or other method of payment had not been tendered.
+If a check, money order, or other method of payment, including payment by credit card, debit card, or charge card so received is not dulypaid, or is paid and subsequently charged back to the Secretary, the person by whom such check, or money order, or other method of payment has been tendered shall remain liable for the payment of the tax or for the stamps, and for all legal penalties and additions, to the same extent as if such check, money order, or other method of payment had not been tendered.
 
 #### (c) Liability of banks and others
 
-If any certified, treasurer's, or cashier's check (or other guaranteed draft), or any money order, or any other means of payment that has been guaranteed by a financial institution (such as acredit card, debit card, or charge card transaction which has been guaranteed expressly by a financial institution) so received is not duly paid, the United States shall, in addition to its right to exact payment from the party originally indebted therefor, have a lien for—
+If any certified, treasurer's, or cashier's check (or other guaranteed draft), or any money order, or any other means of payment that has been guaranteed by a financial institution (such as a credit card, debit card, or charge card transaction which has been guaranteed expressly by a financial institution) so received is not duly paid, the United States shall, in addition to its right to exact payment from the party originally indebted therefor, have a lien for—
 
 &emsp;(1) the amount of such check (or draft) upon all assets of the financial institution on which drawn,
 
@@ -62,7 +62,7 @@ If any certified, treasurer's, or cashier's check (or other guaranteed draft), o
 
 &emsp;(A) Debit or credit card issuers or others acting on behalf of such issuers may also use and disclose such information for purposes directly related to servicing an issuer's accounts.
 
-&emsp;(B) Debit or credit card issuers or others directly involved in the processing of credit or debit card transactions or the billing or collection of amounts charged or debited thereto may also use and disclose such information for purposes directly related to—
+&emsp;(B) Debit or credit card issuers or others directly involved in the processing of credit or debit card transactions or the billing or collection of amounts charged or debited theretomay also use and disclose such information for purposes directly related to—
 
 &emsp;&emsp;(i) statistical risk and profitability assessment;
 

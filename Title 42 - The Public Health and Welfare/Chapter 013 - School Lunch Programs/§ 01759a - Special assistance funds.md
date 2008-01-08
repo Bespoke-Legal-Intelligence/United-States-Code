@@ -2,9 +2,9 @@
 
 #### (a) Formula for computation of payments; computation for lunches to eligible children in schools funding service to ineligible children from non-Federal sources; special assistance factors; annual adjustments
 
-(1)(A) Except as provided in section 1759 of this title, in each fiscal year each State educational agency shall receive special assistance payments in an amount equal to the sum of the product obtained by multiplying the number of lunches (consisting of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary pursuant to section 1758(a) of this title) served free to children eligible for such lunches in schools within that State during such fiscal year by the special assistance factor for free lunches prescribed by the Secretary for such fiscal year and the product obtained by multiplying the number of lunches served at a reduced price to children eligible for such reduced price lunches in schools within that State during such fiscal year by the special assistance factor for reduced price lunches prescribed by the Secretary for such fiscal year.
+(1)(A) Except as provided in section 1759 of this title, in each fiscal year each State educational agency shall receive special assistance payments in an amount equal to the sum of the product obtained by multiplying the number of lunches (consisting of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary pursuant to section 1758(a) of this title) served free to children eligible for such lunches in schools within that State during such fiscal year by the special assistancefactor for free lunches prescribed by the Secretary for such fiscal year and the product obtained by multiplying the number of lunches served at a reduced price to children eligible for such reduced price lunches in schools within that State during such fiscal year by the special assistance factor for reduced price lunches prescribed by the Secretary for such fiscal year.
 
-(B) Except as provided in subparagraph (C), (D), or (E), in the case of any school which determines that at least 80 percent of the childrenin attendance during a school year (hereinafter in this sentence referred to as the “first school year”) are eligible for free lunches or reduced price lunches, special assistance payments shall be paid to the State educational agency with respect to that school, if that school so requests for the school year following the first school year, on the basis of the number of free lunches or reduced price lunches, as the case may be, that are served by that school during the school year for which the request is made, to those children who were determined to be so eligible in the first school year and the number of free lunches and reduced price lunches served during that year to other children determined for that year to be eligible for such lunches.
+(B) Except as provided in subparagraph (C), (D), or (E), in the case of any school which determines that at least 80 percent of the children in attendance during a school year (hereinafter in this sentence referred to as the “first school year”) are eligible for free lunches or reduced price lunches, special assistance payments shall be paid to the State educational agency with respect to that school, if that school so requests for the school year following the first school year, on the basis of the number of free lunches or reduced price lunches, as the case may be, that are served by that school during the school year for which the request is made, to those children who were determined to be so eligible in the first school year and the number of free lunches and reduced price lunches served during that year to other children determined for that year to be eligible for such lunches.
 
 (C)(i) Except as provided in subparagraph (D), in the case of any school or school district that—
 
@@ -32,9 +32,9 @@
 
 &emsp;(II) pays, from sources other than Federal funds, for the costs of serving the lunches or breakfasts that are in excess of the value of assistance received under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the number of lunches or breakfasts served during the period;
 
-> total Federal cash reimbursements and total commodity assistance shall be provided to the State educational agency with respect to the school or school district at a level that is equal to the total Federal cash reimbursements and total commodity assistance received by the school or school district in the last school year for which the school or school district accepted applications under the school lunch or school breakfast program, adjusted annually for inflation in accordance with paragraph (3)(B) and for changes in enrollment, to carry out the school lunch or school breakfast program.
+> total Federal cash reimbursements and total commodity assistance shall be provided to the State educational agency with respect to the school or school district at a level that is equal to the total Federal cash reimbursements and total commodity assistance received by the school or school district in the last school year for which the school or school district accepted applications under the school lunch or school breakfast program, adjusted annually for inflation in accordance with paragraph (3)(B) and forchanges in enrollment, to carry out the school lunch or school breakfast program.
 
-(ii) A school or school district described in clause (i) may reapply to the State at the end of the 4-school-year period described in clause (i), and at the end of each 4-school-year period thereafter for which the school or school district receives reimbursements and assistance under this subparagraph, for the purpose of continuing to receive the reimbursements and assistance for a subsequent 4-school-year period. The Statemay approve an application under this clause if the State determines, through available socioeconomic data approved by the Secretary, that the income level of the population of the school or school district has remained consistent with the income level of the population of the school or school district in the last school year for which the school or school district accepted the applications described in clause (i).
+(ii) A school or school district described in clause (i) may reapply to the State at the end of the 4-school-year period described in clause (i), and at the end of each 4-school-year period thereafter for which the school or school district receives reimbursements and assistance under this subparagraph, for the purpose of continuing to receive the reimbursements and assistance for a subsequent 4-school-year period. The State may approve an application under this clause if the State determines, through available socioeconomic data approved by the Secretary, that the income level of the population of the school or school district has remained consistent with the income level of the population of the school or school district in the last school year for which the school or school district accepted the applications described in clause (i).
 
 (2) The special assistance factor prescribed by the Secretary for free lunches shall be 98.75 cents and the special assistance factor for reduced price lunches shall be 40 cents less than the special assistance factor for free lunches.
 
@@ -94,7 +94,7 @@ Commodity only schools shall also be eligible for special assistance payments un
 
 #### (1) In general
 
-&emsp;From funds made available under paragraph (3), the Secretary shall provide grants to not more than 10 State agencies in each of fiscal years 2000 and 2001 to enable the agencies, in accordance with criteria established by the Secretary, to—
+&emsp;From funds made available under paragraph (3), the Secretary shall provide grants to notmore than 10 State agencies in each of fiscal years 2000 and 2001 to enable the agencies, in accordance with criteria established by the Secretary, to—
 
 &emsp;&emsp;(A) identify separately in a list—
 
@@ -233,6 +233,10 @@ Subsec. (e). Pub. L. 91–248 substituted provision requiring that funds disburs
 Subsec. (f). Pub. L. 91–248 substituted “in the fiscal year beginning two years immediately prior to the fiscal year for which the funds are appropriated” for “in the preceding fiscal year”.
 
 Subsec. (h). Pub. L. 91–248 added subsec. (h).
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2004 Amendment
 

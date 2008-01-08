@@ -72,7 +72,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Prior Provisions
 
-A prior section 244, acts July 1, 1944, ch. 373, title III, §312, 58 Stat. 693; July 3, 1946, ch. 538, §8, 60 Stat. 424; Dec. 5, 1967, Pub. L. 90–174, §12(b), 81 Stat. 541; Oct. 30, 1970, Pub. L. 91–515, title II, §282, 84 Stat. 1308, providedfor health conferences, prior to repeal by Pub. L. 93–353, title I, §102(a), July 23, 1974, 88 Stat. 362. See section 242<i>o</i>(a) of this title.
+A prior section 244, acts July 1, 1944, ch. 373, title III, §312, 58 Stat. 693; July 3, 1946, ch. 538, §8, 60 Stat. 424; Dec. 5, 1967, Pub. L. 90–174, §12(b), 81 Stat. 541; Oct. 30, 1970, Pub. L. 91–515, title II, §282, 84 Stat. 1308, provided for health conferences, prior to repeal by Pub. L. 93–353, title I, §102(a), July 23, 1974, 88 Stat. 362. See section 242<i>o</i>(a) of this title.
 
 A prior section 312 of act July 1, 1944, was classified to section 244–1 of this title prior to repeal by Pub. L. 94–484.
 

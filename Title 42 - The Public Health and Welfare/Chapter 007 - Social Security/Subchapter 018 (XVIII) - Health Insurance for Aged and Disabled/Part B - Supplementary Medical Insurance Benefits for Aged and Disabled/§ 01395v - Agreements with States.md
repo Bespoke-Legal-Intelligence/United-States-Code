@@ -46,7 +46,7 @@ Any individual whose coverage period attributable to the State agreement is term
 
 #### (f) “Carrier” as including State agency; provisions facilitating deductions, coinsurance, etc., and leading to economy and efficiency of operation
 
-With respect to eligible individuals receiving money payments under the plan of a State approved under subchapter I, X, XIV, or XVI of this chapter, or part A of subchapter IV of this chapter, or eligible to receive medical assistance under the plan of such State approved under subchapter XIX of this chapter, if the agreement entered into under this section so provides, the term “carrier” as defined in section 1395u(f) <sup>1</sup> of this title also includes the State agency, specified in such agreement, which administers or supervises the administration of the plan of such State approved under subchapter I, XVI, or XIX of this chapter. The agreement shall also contain such provisions as will facilitate the financial transactions of the State and the carrier with respect to deductions, coinsurance, and otherwise, and as will lead to economy and efficiency of operation, with respect to individuals receiving money payments under plans of the State approved under subchapters I, X, XIV, and XVI of this chapter, and part A of subchapter IV of this chapter, and individuals eligible to receive medical assistance under the plan of the State approved under subchapter XIX of this chapter.
+With respect to eligible individuals receiving money payments under the plan of a State approved under subchapter I, X, XIV, or XVI of this chapter, or part A of subchapter IV of this chapter, or eligible to receive medical assistance under the plan of such State approved under subchapter XIX of this chapter, if the agreemententered into under this section so provides, the term “carrier” as defined in section 1395u(f) <sup>1</sup> of this title also includes the State agency, specified in such agreement, which administers or supervises the administration of the plan of such State approved under subchapter I, XVI, or XIX of this chapter. The agreement shall also contain such provisions as will facilitate the financial transactions of the State and the carrier with respect to deductions, coinsurance, and otherwise, and as will lead to economy and efficiency of operation, with respect to individuals receiving money payments under plans of the State approved under subchapters I, X, XIV, and XVI of this chapter, and part A of subchapter IV of this chapter, and individuals eligible to receive medical assistance under the plan of the State approved under subchapter XIX of this chapter.
 
 #### (g) Subsection (b) exclusions from coverage groups
 
@@ -154,7 +154,7 @@ Section 301(e)(3) of Pub. L. 100–360 provided that: “The amendment made by p
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1983 Amendment; Transitional Rule
 

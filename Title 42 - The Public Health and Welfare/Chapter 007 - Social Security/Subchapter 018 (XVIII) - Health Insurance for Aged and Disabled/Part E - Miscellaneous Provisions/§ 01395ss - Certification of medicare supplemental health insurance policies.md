@@ -50,7 +50,7 @@ The Secretary shall certify under this section any medicare supplemental policy,
 
 &emsp;(2) meets the requirements of subsection (r) of this section;
 
-&emsp;(3)(A) accepts a notice under section 1395u(h)(3)(B) of this title as a claim form forbenefits under such policy in lieu of any claim form otherwise required and agrees to make a payment determination on the basis of the information contained in such notice;
+&emsp;(3)(A) accepts a notice under section 1395u(h)(3)(B) of this title as a claim form for benefits under such policy in lieu of any claim form otherwise required and agrees to make a payment determination on the basis of the information contained in such notice;
 
 &emsp;(B) where such a notice is received—
 
@@ -76,7 +76,7 @@ The Secretary shall certify under this section any medicare supplemental policy,
 
 (3)(A)(i) It is unlawful for a person to sell or issue to an individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter (including an individual electing a Medicare+Choice plan under section 1395w–21 of this title)—
 
-&emsp;(I) a health insurance policy with knowledge that the policy duplicates health benefits to which the individual is otherwise entitled under this subchapter or subchapter XIX of this chapter,
+&emsp;(I) a health insurance policy with knowledge that the policy duplicates health benefits towhich the individual is otherwise entitled under this subchapter or subchapter XIX of this chapter,
 
 &emsp;(II) in the case of an individual not electing a Medicare+Choice plan, a medicare supplemental policy with knowledge that the individual is entitled to benefits under another medicare supplemental policy or in the case of an individual electing a Medicare+Choice plan, a medicare supplemental policy with knowledge that the policy duplicates health benefits to which the individual is otherwise entitled under the Medicare+Choice plan or under another medicare supplemental policy, or
 
@@ -156,7 +156,7 @@ The Secretary shall certify under this section any medicare supplemental policy,
 
 (C) Subparagraph (A) shall not apply in the case of a person who mails or causes to be mailed a medicare supplemental policy into a State if such person has ascertained that the party insured under such policy to whom (or on whose behalf) such policy is mailed is located in such State on a temporary basis.
 
-(D) Subparagraph (A) shall not apply in the case of a person who mails or causes to be mailed a duplicate copy of a medicare supplemental policy previously issued to the party to whom (or on whose behalf) such duplicate copy is mailed.
+(D) Subparagraph (A) shall not apply in the case of a person who mails or causes to be mailed a duplicate copy of a medicare supplemental policy previously issued to the party towhom (or on whose behalf) such duplicate copy is mailed.
 
 (E) Subparagraph (A) shall not apply in the case of an issuer who mails or causes to be mailed a policy, certificate, or other matter solely to comply with the requirements of subsection (q) of this section.
 
@@ -180,7 +180,7 @@ The Secretary shall certify under this section any medicare supplemental policy,
 
 #### (f) Study and evaluation of comparative effectiveness of various State approaches to regulating medicare supplemental policies; report to Congress no later than January 1, 1982; periodic evaluations
 
-(1)(A) The Secretary shall, in consultation with Federal and State regulatory agencies, the National Association of Insurance Commissioners, private insurers, and organizations representing consumers and the aged, conduct a comprehensive study and evaluation of the comparative effectiveness of various State approaches to the regulation of medicare supplemental policies in (i) limiting marketing and agent abuse, (ii) assuring the dissemination of such information to individuals entitled to benefits under this subchapter (and to other consumers) as is necessary to permit informed choice, (iii) promoting policies which provide reasonable economic benefits for such individuals, (iv) reducing the purchase of unnecessary duplicative coverage, (v) improving price competition, and (vi) establishing effective approved Stateregulatory programs described in subsection (b) of this section.
+(1)(A) The Secretary shall, in consultation with Federal and State regulatory agencies, the National Association of Insurance Commissioners, private insurers, and organizations representing consumers and the aged, conduct a comprehensive study and evaluation of the comparative effectiveness of various State approaches to the regulation of medicare supplemental policies in (i) limiting marketing and agent abuse, (ii) assuring the dissemination of such information to individuals entitled to benefits under this subchapter (and to other consumers) as is necessary to permit informed choice, (iii) promoting policies which provide reasonable economic benefits for such individuals, (iv) reducing the purchase of unnecessary duplicative coverage, (v) improving price competition, and (vi) establishing effective approved State regulatory programs described in subsection (b) of this section.
 
 (B) Such study shall also address the need for standards or certification of health insurance policies, other than medicare supplemental policies, sold to individuals eligible for benefits under this subchapter.
 
@@ -198,7 +198,7 @@ The Secretary shall certify under this section any medicare supplemental policy,
 
 #### (g) Definitions
 
-(1) For purposes of this section, a medicare supplemental policy is a health insurance policy or other health benefit plan offered by a private entity to individuals who are entitled to have payment made under this subchapter, which provides reimbursement for expenses incurred for services and items for which payment may be made under this subchapter but which are not reimbursable by reason of the applicability of deductibles, coinsurance amounts, or other limitations imposed pursuant to this subchapter; but does not include a prescription drug plan under part D of this subchapter or a Medicare+Choice plan or any such policy or plan of one or more employers or labor organizations, or of the trustees of a fund established by one or more employers or labor organizations (or combination thereof), for employees or former employees (or combination thereof) or for members or former members (or combination thereof) of the labor organizations and does not include a policy or plan of an eligible organization (as defined in section 1395mm(b) of this title) if the policy or plan provides benefits pursuant to a contract under section 1395mm of this title or an approved demonstration project described in section 603(c) of the Social Security Amendments of 1983, section 2355 of the Deficit Reduction Act of 1984, or section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, or a policy or plan of an organization if the policy or plan provides benefits pursuant to an agreement under section 1395<i>l</i>(a)(1)(A) of this title. For purposes of this section, the term “policy” includes a certificate issued under such policy.
+(1) For purposes of this section, a medicare supplemental policy is a health insurance policy or other health benefit plan offered by a private entity to individuals who are entitled to have payment made under this subchapter, which provides reimbursement for expenses incurred for services and items for which payment may be made under this subchapter but which are not reimbursable by reason of the applicability of deductibles, coinsurance amounts, or other limitations imposed pursuant to this subchapter; but does not include a prescription drug plan under part D of this subchapter or a Medicare+Choice plan or any such policy or plan of one or more employers or labor organizations, or of the trustees of a fund established by one or more employers or labor organizations (or combination thereof), for employees or former employees (or combination thereof) or for members or former members (or combination thereof) of the labor organizations and does not include a policy or plan of an eligible organization (as defined in section 1395mm(b) of this title) if the policy or plan provides benefits pursuant to acontract under section 1395mm of this title or an approved demonstration project described in section 603(c) of the Social Security Amendments of 1983, section 2355 of the Deficit Reduction Act of 1984, or section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, or a policy or plan of an organization if the policy or plan provides benefits pursuant to an agreement under section 1395<i>l</i>(a)(1)(A) of this title. For purposes of this section, the term “policy” includes a certificate issued under such policy.
 
 (2) For purposes of this section:
 
@@ -222,7 +222,7 @@ The Secretary shall prescribe such regulations as may be necessary for the effec
 
 (2)(A) The Secretary shall not implement the certification program established under subsection (a) of this section with respect to policies issued in a State unless the Panel makes a finding that such State cannot be expected to have established, by July 1, 1982, an approved State regulatory program meeting the standards and requirements of subsection (b)(1) of this section. If the Panel makes such a finding, the Secretary shall implement such program under subsection (a) of this section with respect to medicare supplemental policies issued in such State, until such time as the Panel determines that such State has a program that meets the standards and requirements of subsection (b)(1) of this section.
 
-(B) Any finding by the Panel under subparagraph (A) shall be transmitted in writing, not later than January 1, 1982, to the Committee onFinance of the Senate and to the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives and shall not become effective until 60 days after the date of its transmittal to the Committees of the Congress under this subparagraph. In counting such days, days on which either House is not in session because of an adjournment sine die or an adjournment of more than three days to a day certain are excluded in the computation.
+(B) Any finding by the Panel under subparagraph (A) shall be transmitted in writing, not later than January 1, 1982, to the Committee on Finance of the Senate and to the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives and shall not become effective until 60 days after the date of its transmittal to the Committees of the Congress under this subparagraph. In counting such days, days on which either House is not in session because of an adjournment sine die or an adjournment of more than three days to a day certain are excluded in the computation.
 
 #### (j) State regulation of policies issued in other States
 
@@ -236,7 +236,7 @@ Nothing in this section shall be construed so as to affect the right of any Stat
 
 (2)(A) If the Association does not amend the NAIC Model Regulation within the 90-day period specified in paragraph (1)(A), the Secretary shall promulgate, not later than 60 days after the end of such period, Federal model standards (in this subsection and subsection (<i>l</i>) of this section referred to as “Federal model standards”) for medicare supplemental policies to reflect the changes in law made by the Medicare Catastrophic Coverage Act of 1988, and subsection (g)(2)(A) of this section shall be applied in a State, effective on and after the date specified in subparagraph (B), as if the reference to the Model Regulation adopted on June 6, 1979, were a reference to Federal model standards.
 
-(B) The date specified in this subparagraph for a State is the earlier of the date the State adopts standards equal to or more stringent than the Federal model standards or 1 year after the date the Secretary first promulgates such standards.
+(B) The date specified in this subparagraph for a State is the earlier of the date the State adopts standards equal to or more stringent than the Federal model standards or 1 year afterthe date the Secretary first promulgates such standards.
 
 (3) Notwithstanding any other provision of this section (except as provided in subsections (<i>l</i>), (m), and (n) of this section)—
 
@@ -296,7 +296,7 @@ Nothing in this section shall be construed so as to affect the right of any Stat
 
 #### (m) Revision of amended NAIC Model Regulation and amended Federal model standards; effective dates; medicare supplemental policy and State regulatory program meeting applicable standards
 
-(1)(A) If, within the 90-day period beginning on December 13, 1989, the National Association of Insurance Commissioners (in this subsection and subsection (n) of this section referred to as the “Association”) revises the amended NAIC Model Regulation (referred to in subsection (k)(1)(A) of this section and adopted on September 20, 1988) to improve such regulation and otherwise to reflect the changes in law made by the Medicare Catastrophic Coverage Repeal Act of 1989, subsection (g)(2)(A) of this section shall be applied in a State, effective on and after the date specified in subparagraph (B), as if the reference to the Model Regulation adopted on June 6, 1979, were a reference to the amended NAIC Model Regulation (referred to in subsection (k)(1)(A) of this section) as revised by the Association in accordance with this paragraph (in this subsection and subsection (n) of this section referred to as the “revised NAIC Model Regulation”).
+(1)(A) If, within the 90-day period beginning on December 13, 1989, the National Association of Insurance Commissioners (in this subsection and subsection (n) of this section referred to as the “Association”) revises the amended NAIC Model Regulation (referred to in subsection (k)(1)(A) of this section and adopted on September 20, 1988) to improve such regulation and otherwise to reflect the changes in law made by the Medicare Catastrophic Coverage Repeal Act of 1989, subsection (g)(2)(A) of this section shall be applied in a State, effective on and after the date specified in subparagraph (B), as if the reference to the Model Regulation adopted on June 6, 1979,were a reference to the amended NAIC Model Regulation (referred to in subsection (k)(1)(A) of this section) as revised by the Association in accordance with this paragraph (in this subsection and subsection (n) of this section referred to as the “revised NAIC Model Regulation”).
 
 (B) The date specified in this subparagraph for a State is the earlier of the date the State adopts standards equal to or more stringent than the revised NAIC Model Regulation or 1 year after the date the Association first adopts such revised Regulation.
 
@@ -320,7 +320,7 @@ Nothing in this section shall be construed so as to affect the right of any Stat
 
 &emsp;(A) before the transition deadline, the policy is deemed to remain in compliance with the standards described in subsection (b)(1)(A) of this section only if the insurer issuing the policy complies with the transition provision described in paragraph (2), or
 
-&emsp;(B) on or after the transition deadline, the policy is deemed to be in compliance with thestandards described in subsection (b)(1)(A) of this section only if the insurer issuing the policy complies with the revised NAIC Model Regulation or the revised Federal model standards (as the case may be) before the date of the sale of the policy.
+&emsp;(B) on or after the transition deadline, the policy is deemed to be in compliance with the standards described in subsection (b)(1)(A) of this section only if the insurer issuing the policy complies with the revised NAIC Model Regulation or the revised Federal model standards (as the case may be) before the date of the sale of the policy.
 
 > In this paragraph, the term “transition deadline” means 1 year after the date the Association adopts the revised NAIC Model Regulation or 1 year after the date the Secretary promulgates revised Federal model standards (as the case may be).
 
@@ -348,7 +348,7 @@ Nothing in this section shall be construed so as to affect the right of any Stat
 
 > the date specified in this subparagraph is the first day of the first calendar quarter beginning after the close of the first legislative session of the State legislature that begins on or after January 1, 1990. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
 
-(5) In the case of a medicare supplemental policy in effect on January 1, 1990, the policy shall not be deemed to meet the standards in subsection (c) of this section unless each individual who is entitled to benefits under this subchapter and is a policyholder or certificate holder under such policy on such date is sent a notice in an appropriate form by not later than January 31, 1990, that explains—
+(5) In the case of a medicare supplemental policy in effect on January 1, 1990, the policy shall not be deemed to meet the standards in subsection (c) of this section unless each individual who is entitled to benefits under this subchapter and is a policyholder or certificate holder undersuch policy on such date is sent a notice in an appropriate form by not later than January 31, 1990, that explains—
 
 &emsp;(A) the changes in benefits under this subchapter effected by the Medicare Catastrophic Coverage Repeal Act of 1989, and
 
@@ -436,7 +436,7 @@ The requirements of this subsection are as follows:
 
 (B) Anyone who sells a medicare supplemental policy to an individual shall provide the individual, before the sale of the policy, an outline of coverage which describes the benefits under the policy. Such outline shall be on a standard form approved by the State regulatory program or the Secretary (as the case may be) consistent with the 1991 NAIC Model Regulation or 1991 Federal Regulation under this subsection.
 
-(C) Whoever sells a medicare supplemental policy in violation of this paragraph is subject to a civil money penalty of not to exceed $25,000 (or $15,000 in the case of a seller who is not the issuer of the policy) for each such violation. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+(C) Whoever sells a medicare supplemental policy in violation of this paragraph is subject to a civil money penalty of not to exceed $25,000 (or $15,000 in the case of a seller who is not the issuer of the policy) for each such violation. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) andother than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 (D) Subject to paragraph (10), this paragraph shall apply to sales of policies occurring on or after the effective date specified in paragraph (1)(C).
 
@@ -492,7 +492,7 @@ The requirements of this subsection are as follows:
 
 &emsp;(C) Any person who issues a medicare supplemental policy and fails to comply with the requirements of this paragraph or paragraph (6) is subject to a civil money penalty of not to exceed $25,000 for each such violation. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
-&emsp;(6) Each medicare supplemental policy shall provide that benefits and premiums under the policy shall be suspended at the request of the policyholder if the policyholder is entitled to benefits under section 426(b) of this title and is covered under a group health plan (as defined in section 1395y(b)(1)(A)(v) of this title). If such suspension occurs and if the policyholder or certificate holder loses coverage under the group health plan, such policy shall be automatically reinstituted (effective as of the date of such loss of coverage) under terms described in subsection (n)(6)(A)(ii) of this section as of the loss of such coverage if the policyholder provides notice of loss of such coverage within 90 days after the date of such loss.
+&emsp;(6) Each medicare supplemental policy shall provide that benefits and premiums under the policy shall be suspended at the request of the policyholder if the policyholder is entitled to benefits under section 426(b) of this title and is covered under a group health plan (as definedin section 1395y(b)(1)(A)(v) of this title). If such suspension occurs and if the policyholder or certificate holder loses coverage under the group health plan, such policy shall be automatically reinstituted (effective as of the date of such loss of coverage) under terms described in subsection (n)(6)(A)(ii) of this section as of the loss of such coverage if the policyholder provides notice of loss of such coverage within 90 days after the date of such loss.
 
 #### (r) Required ratio of aggregate benefits to aggregate premiums
 
@@ -504,7 +504,7 @@ The requirements of this subsection are as follows:
 
 > For purposes of applying subparagraph (A) only, policies issued as a result of solicitations of individuals through the mails or by mass media advertising (including both print and broadcast advertising) shall be deemed to be individual policies. For the purpose of calculating the refund or credit required under paragraph (1)(B) for a policy issued before the date specified in subsection (p)(1)(C) of this section, the refund or credit calculation shall be based on the aggregate benefits provided and premiums collected under all such policies issued by an insurer in a State (separated as to individual and group policies) and shall be based only on aggregate benefits provided and premiums collected under such policies after the date specified in section 171(m)(4) of the Social Security Act Amendments of 1994.
 
-(2)(A) Paragraph (1)(B) shall be applied with respect to each type of policy by standard package. Paragraph (1)(B) shall not apply to a policy until 12 months following issue. The Comptroller General, in consultation with the National Association of Insurance Commissioners, shall submit to Congress a report containing recommendations on adjustment in the percentages under paragraph (1)(A) that may be appropriate.In the case of a policy issued before the date specified in subsection (p)(1)(C) of this section, paragraph (1)(B) shall not apply until 1 year after the date specified in section 171(m)(4) of the Social Security Act Amendments of 1994.
+(2)(A) Paragraph (1)(B) shall be applied with respect to each type of policy by standard package. Paragraph (1)(B) shall not apply to a policy until 12 months following issue. The Comptroller General, in consultation with the National Association of Insurance Commissioners, shall submit to Congress a report containing recommendations on adjustment in the percentages under paragraph (1)(A) that may be appropriate. In the case of a policy issued before the date specified in subsection (p)(1)(C) of this section, paragraph (1)(B) shall not apply until 1 year after the date specified in section 171(m)(4) of the Social Security Act Amendments of 1994.
 
 (B) A refund or credit required under paragraph (1)(B) shall be made to each policyholder insured under the applicable policy as of the last day of the year involved.
 
@@ -516,9 +516,7 @@ The requirements of this subsection are as follows:
 
 (4) The Secretary shall submit in October of each year (beginning with 1993) a report to the Committees on Energy and Commerce and Ways and Means of the House of Representatives and the Committee on Finance of the Senate on loss ratios under medicare supplemental policies and the use of sanctions, such as a required rebate or credit or the disallowance of premium increases, for policies that fail to meet the requirements of this subsection (relating to loss ratios). Such report shall include a list of the policies that failed to comply with such loss ratio requirements or other requirements of this section.
 
-(5)(A) The Comptroller General shall periodically, not less often than once every 3 years, perform audits with respect to the compliance of medicare supplemental policies with the loss ratio requirements of this subsection and shall report the results of such audits to the State involved and to the Secretary.
-
-(B) The Secretary may independently perform such compliance audits.
+(5) The Secretary may perform audits with respect to the compliance of medicare supplemental policies with the loss ratio requirements of this subsection and shall report the results of such audits to the State involved.
 
 (6)(A) A person who fails to provide refunds or credits as required in paragraph (1)(B) is subject to a civil money penalty of not to exceed $25,000 for each policy issued for which such failure occurred. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
@@ -610,7 +608,7 @@ The requirements of this subsection are as follows:
 
 (ii) For purposes of clauses (v) and (vi) of subparagraph (B), no enrollment of an individual with an organization or provider described in clause (v)(II), or with a plan or in a program described in clause (vi), may be deemed to be an initial enrollment under this clause after the 2-year period beginning on the date on which the individual first enrolled with such an organization, provider, plan, or program.
 
-(4) Any issuer of a medicare supplemental policy that fails to meet the requirements of this subsection is subject to a civil money penalty of not to exceed $5,000 for each such failure. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+(4) Any issuer of a medicare supplemental policy that fails to meet the requirements of this subsection is subject to a civil money penalty of not to exceed $5,000 for each such failure. The provisions of section 1320a–7a of this title (otherthan the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (t) Medicare select policies
 
@@ -840,7 +838,7 @@ The requirements of this subsection are as follows:
 
 &emsp;&emsp;&emsp;(ii) Substitute “$2,000” for “$4,000” in clause (iii) of such subparagraph.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1882, as added Pub. L. 96–265, title V, §507(a), June 9, 1980, 94 Stat. 476; amended H. Res. 549, Mar. 25, 1980; Pub. L. 100–93, §13, Aug. 18, 1987, 101 Stat. 697; Pub. L. 100–203, title IV, §4081(b), Dec. 22, 1987, 101 Stat. 1330–127; Pub. L. 100–360, title II, §221(a)–(f), title IV, §§411(i)(1)(B), (C), 428(b), July 1, 1988, 102 Stat. 742–746, 788, 817; Pub. L. 101–234, title II, §203(a)(1), Dec. 13, 1989, 103 Stat. 1982; Pub. L. 101–508, title IV, §§4207(k)(1), formerly 4027(k)(1), 4351, formerly 4351(a), 4352, 4353(a)–(d)(1), 4354(a), (b), 4355(a)–(c), 4356(a), 4357(a), 4358(a), (b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–124, 1388–125, 1388–129, 1388–130, 1388–132, 1388–134 to 1388–137; Pub. L. 103–432, title I, §§160(d)(4), 171(a)–(d)(3)(B), (4), (e)(1), (2), (f)(1), (g), (h)(1), (j)(2), (k), Oct. 31, 1994, 108 Stat. 4444–4451; Pub. L. 104–191, title II, §271(a), (b), Aug. 21, 1996, 110 Stat. 2034–2036; Pub. L. 105–33, title IV, §§4002(j)(2), 4003, 4031(a)–(c), 4032(a), Aug. 5, 1997, 111 Stat. 330, 355, 357, 359; Pub. L. 105–362, title VI, §601(b)(6), Nov. 10, 1998, 112 Stat. 3286; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(13), (14), title V, §§501(a)(2), 536(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, 1501A–378, 1501A–390; Pub. L. 106–170, title II, §205(a), Dec. 17, 1999, 113 Stat. 1899; Pub. L. 106–554, §1(a)(6) \[title VI, §618\], Dec. 21, 2000, 114 Stat. 2763, 2763A–562; Pub. L. 108–173, title I, §104(a), (b), title VII, §736(e), Dec. 8, 2003, 117 Stat. 2161, 2164, 2357.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1882, as added Pub. L. 96–265, title V, §507(a), June 9, 1980, 94 Stat. 476; amended H. Res. 549, Mar. 25, 1980; Pub. L. 100–93, §13, Aug. 18, 1987, 101 Stat. 697; Pub. L. 100–203, title IV, §4081(b), Dec. 22, 1987, 101 Stat. 1330–127; Pub. L. 100–360, title II, §221(a)–(f), title IV, §§411(i)(1)(B), (C), 428(b), July 1, 1988, 102 Stat. 742–746, 788, 817; Pub. L. 101–234, title II, §203(a)(1), Dec. 13, 1989, 103 Stat. 1982; Pub. L. 101–508, title IV, §§4207(k)(1), formerly 4027(k)(1), 4351, formerly 4351(a), 4352, 4353(a)–(d)(1), 4354(a), (b), 4355(a)–(c), 4356(a), 4357(a), 4358(a), (b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–124, 1388–125, 1388–129, 1388–130, 1388–132, 1388–134 to 1388–137; Pub. L. 103–432, title I, §§160(d)(4), 171(a)–(d)(3)(B), (4), (e)(1), (2), (f)(1), (g), (h)(1), (j)(2), (k), Oct. 31, 1994, 108 Stat. 4444–4451; Pub. L. 104–191, title II, §271(a), (b), Aug. 21, 1996, 110 Stat. 2034–2036; Pub. L. 105–33, title IV, §§4002(j)(2), 4003, 4031(a)–(c), 4032(a), Aug. 5, 1997, 111 Stat. 330, 355, 357, 359; Pub. L. 105–362, title VI, §601(b)(6), Nov. 10, 1998, 112 Stat. 3286; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(13), (14), title V, §§501(a)(2), 536(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, 1501A–378, 1501A–390; Pub. L. 106–170, title II, §205(a), Dec. 17, 1999, 113 Stat. 1899; Pub. L. 106–554, §1(a)(6) \[title VI, §618\], Dec. 21, 2000, 114 Stat. 2763, 2763A–562; Pub. L. 108–173, title I, §104(a), (b), title VII, §736(e), Dec. 8, 2003, 117 Stat. 2161, 2164, 2357; Pub. L. 110–161, div. H, title I, §1502(f), Dec. 26, 2007, 121 Stat. 2250.)
 
 #### References in Text
 
@@ -869,6 +867,8 @@ Paragraphs (2)(A), (B) and (3)(C)–(E) of section 1395u(b) of this title, refer
 The Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (w)(1), is Pub. L. 108–173, Dec. 8, 2003, 117 Stat. 2066. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1305 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (r)(5). Pub. L. 110–161 substituted “The Secretary may” for “(A) The Comptroller General shall periodically, not less often than once every 3 years,” and struck out “and to the Secretary” after “State involved” and subpar. (B) which read as follows: “The Secretary may independently perform such compliance audits.”
 
 2003—Subsec. (d)(3)(A)(i)(II). Pub. L. 108–173, §736(e)(1), substituted “plan, a medicare supplemental policy” for “plan a medicare supplemental policy”.
 
@@ -920,7 +920,7 @@ Subsec. (s)(3)(B)(vi). Pub. L. 106–113, §1000(a)(6) \[title V, §536(a)(3)\],
 
 Subsec. (s)(3)(E). Pub. L. 106–113, §1000(a)(6) \[title V, §501(a)(2)(B)\], added subpar. (E).
 
-1998—Subsec. (<i>l</i>)(6). Pub. L. 105–362 struck out par. (6) which read as follows: “The Secretary shall report to the Congress in March 1989 and in July 1990 on actions States have taken in adopting standards equal to ormore stringent than the NAIC Model Transition Regulation or the amended NAIC Model Regulation (or Federal model standards).”
+1998—Subsec. (<i>l</i>)(6). Pub. L. 105–362 struck out par. (6) which read as follows: “The Secretary shall report to the Congress in March 1989 and in July 1990 on actions States have taken in adopting standards equal to or more stringent than the NAIC Model Transition Regulation or the amended NAIC Model Regulation (or Federal model standards).”
 
 1997—Subsec. (d)(3)(A)(i). Pub. L. 105–33, §4003(a)(1)(A), inserted “(including an individual electing a Medicare+Choice plan under section 1395w–21 of this title)” after “part B of this subchapter” in introductory provisions.
 
@@ -954,7 +954,7 @@ Subsec. (u). Pub. L. 105–33, §4003(b), added subsec. (u).
 
 Subsec. (d)(3)(A)(iv) to (viii). Pub. L. 104–191, §271(a)(2), added cls. (iv) to (viii).
 
-Subsec. (d)(3)(C). Pub. L. 104–191, §271(b)(1), substituted “with respect to” for “with respect to (i)” and struck out before period at end “, (ii) the sale or issuance of a policy or plan described in subparagraph (A)(i)(I) (other than a medicare supplemental policy to an individual entitled to any medical assistance under subchapter XIX of this chapter) under which all the benefits are fully payable directly to or on behalf of the individual without regard to other health benefit coverage of the individual but only if (for policies sold or issued more than 60 days after the date the statements are published or promulgated under subparagraph (D)) there is disclosed in a prominent manner as part of (or together with) the application the applicable statement (specified under subparagraph (D)) of the extent to which benefits payable under the policy or plan duplicate benefits under this subchapter, or (iii) the sale or issuance of a policy or plan described in subparagraph (A)(i)(III) under which all the benefits are fully payable directly to or on behalf of the individual without regard to other health benefit coverage of the individual”.
+Subsec. (d)(3)(C). Pub. L. 104–191, §271(b)(1), substituted “with respect to” for “with respect to (i)” and struck out before period at end “, (ii) the sale or issuance of a policy or plan described in subparagraph (A)(i)(I) (other than a medicare supplemental policy to an individual entitled to any medical assistance under subchapter XIX of this chapter) under which all the benefits are fully payable directly to or on behalf of the individual without regard to other health benefit coverage of the individual but only if (for policies sold or issued more than 60 days after the date the statements are published or promulgated under subparagraph (D)) there is disclosed in a prominent manner as part of (or together with) the application the applicable statement (specified under subparagraph (D)) of the extent to which benefits payable under the policy or plan duplicate benefits under this subchapter, or (iii) the sale or issuance of a policy or plan described in subparagraph (A)(i)(III) under which all the benefits are fully payabledirectly to or on behalf of the individual without regard to other health benefit coverage of the individual”.
 
 Subsec. (d)(3)(D). Pub. L. 104–191, §271(b)(2), struck out subpar. (D) which provided for development of statements for various types of health insurance policies sold or issued to persons entitled to health benefits under this subchapter regarding extent to which benefits payable under those policies duplicate benefits under this subchapter.
 
@@ -1052,7 +1052,7 @@ Subsec. (r)(2)(C), (D). Pub. L. 103–432, §171(e)(1)(J), substituted “calend
 
 Subsec. (r)(4). Pub. L. 103–432, §171(e)(1)(K), substituted “October” for “February”, “disallowance” for “disllowance”, “loss ratios” for “loss-ratios” in two places, and “loss ratio” for “loss-ratio”.
 
-Subsec. (r)(6)(A). Pub. L. 103–432, §171(e)(1)(L), substituted “fails to provide refunds or credits as required in paragraph (1)(B)” for “issues a policy in violation ofthe loss ratio requirements of this subsection” and “policy issued for which such failure occurred” for “such violation”.
+Subsec. (r)(6)(A). Pub. L. 103–432, §171(e)(1)(L), substituted “fails to provide refunds or credits as required in paragraph (1)(B)” for “issues a policy in violation of the loss ratio requirements of this subsection” and “policy issued for which such failure occurred” for “such violation”.
 
 Subsec. (r)(6)(B). Pub. L. 103–432, §171(e)(1)(M), substituted “to the policyholder or, in the case of a group policy, to the certificate holder” for “to policyholders”.
 
@@ -1086,7 +1086,7 @@ Pub. L. 101–508, §4353(b)(3), inserted “and enforcement” after “applica
 
 Subsec. (b)(1)(B). Pub. L. 101–508, §4351(1), formerly §4351(a)(1), as renumbered and amended by Pub. L. 103–432, §171(a)(1), substituted “through (5)” for “through (4)”.
 
-Subsec. (b)(1)(C). Pub. L. 101–508, §4355(b), substituted for semicolon at end “, and that a copy of each such policy, the most recent premium for each such policy, and a listing of the ratio of benefits provided to premiums collected for the most recent 3-year period for each such policy issued or sold in the State is maintained and made available to interested persons;”.
+Subsec. (b)(1)(C). Pub. L. 101–508, §4355(b), substituted for semicolon at end “, and that a copy of each such policy, the most recent premium for each such policy, and a listing of the ratio of benefits provided to premiums collected for the most recent 3-year period foreach such policy issued or sold in the State is maintained and made available to interested persons;”.
 
 Subsec. (b)(1)(D). Pub. L. 101–508, §4353(b)(3), inserted “and enforcement” after “application”.
 
@@ -1260,7 +1260,7 @@ Section 271(d) of Pub. L. 104–191 provided that:
 
 #### Effective Date of 1994 Amendment
 
-Section 171(<i>l</i>) of Pub. L. 103–432 provided that: “The amendments made by this section \[amending this section and sections 1320c–3, 1395b–2, and 1395b–4 of this title, repealing section 1395zz of this title, and enacting and amending provisions set out as notes below\] shall be effective as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\]; except that—
+Section 171(<i>l</i>) of Pub. L. 103–432 provided that: “The amendments made by this section \[amending this section and sections 1320c–3, 1395b–2, and 1395b–4 of this title, repealing section 1395zz of this title, and enactingand amending provisions set out as notes below\] shall be effective as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\]; except that—
 
 &emsp;“(1) the amendments made by subsection (d)(1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 31, 1994\], but no penalty shall be imposed under section 1882(d)(3)(A) of the Social Security Act \[subsec. (d)(3)(A) of this section\] (for an action occurring after the effective date of the amendments made by section 4354 of OBRA–1990 \[see section 4354(c) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note below\] and before the date of the enactment of this Act) with respect to the sale or issuance of a policy which is not unlawful under section 1882(d)(3)(A)(i)(II) of the Social Security Act \[subsec. (d)(3)(A)(i)(II) of this section\] (as amended by this section);
 
@@ -1374,7 +1374,7 @@ In general.—If the Secretary of Health and Human Services identifies a State a
 
 “(2) NAIC
 
-standards.—If, within 9 months after the date of the enactment of this Act \[Aug. 5, 1997\], the National Association of Insurance Commissioners (in this subsection referred to as the ‘NAIC’) modifies its NAICModel Regulation relating to section 1882 of the Social Security Act \[this section\] (referred to in such section as the 1991 NAIC Model Regulation, as modified pursuant to section 171(m)(2) of the Social Security Act Amendments of 1994 (Public Law 103–432) \[set out as a note below\] and as modified pursuant to section 1882(d)(3)(A)(vi)(IV) of the Social Security Act \[subsec. (d)(3)(A)(vi)(IV) of this section\], as added by section 271(a) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) to conform to the amendments made by this section \[amending this section\], such revised regulation incorporating the modifications shall be considered to be the applicable NAIC model regulation (including the revised NAIC model regulation and the 1991 NAIC Model Regulation) for the purposes of such section.
+standards.—If, within 9 months after the date of the enactment of this Act \[Aug. 5, 1997\], the National Association of Insurance Commissioners (in this subsection referred to as the ‘NAIC’) modifies its NAIC Model Regulation relating to section 1882 of the Social Security Act \[this section\] (referred to in such section as the 1991 NAIC Model Regulation, as modified pursuant to section 171(m)(2) of the Social Security Act Amendments of 1994 (Public Law 103–432) \[set out as a note below\] and as modified pursuant to section 1882(d)(3)(A)(vi)(IV) of the Social Security Act \[subsec. (d)(3)(A)(vi)(IV) of this section\], as added by section 271(a) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) to conform to the amendments made by this section \[amending this section\], such revised regulation incorporating the modifications shall be considered to be the applicable NAIC model regulation (including the revised NAIC model regulation and the 1991 NAIC Model Regulation) for the purposes of such section.
 
 “(3)
 
@@ -1418,7 +1418,7 @@ Limitation on legal action.—Subject to paragraph (3), no legal action shall be
 
 “(3)
 
-Disclosure condition.—In the case of a policy described in clause (iv) of section 1882(d)(3)(A) of the Social Security Act that is sold or issued on or after the effective date of statements under section 171(d)(3)(C) of the Social Security Act Amendments of 1994 \[Pub. L. 103–432, set out below\] and before the end of the 30-day period beginning on the date of the enactment of this Act \[Aug. 21, 1996\], paragraphs (1) and (2) shall only apply if disclosure was made in accordance with section 1882(d)(3)(C)(ii) of the Social Security Act (as in effect before the date of the enactment of this Act).
+Disclosure condition.—In the case of a policy described in clause (iv) of section 1882(d)(3)(A) of the Social Security Act that is sold or issued on or after the effective date of statements under section 171(d)(3)(C) of the Social Security Act Amendments of1994 \[Pub. L. 103–432, set out below\] and before the end of the 30-day period beginning on the date of the enactment of this Act \[Aug. 21, 1996\], paragraphs (1) and (2) shall only apply if disclosure was made in accordance with section 1882(d)(3)(C)(ii) of the Social Security Act (as in effect before the date of the enactment of this Act).
 
 “(4)
 
@@ -1464,7 +1464,7 @@ Additional legislative action required.—In the case of a State which the Secre
 
 &emsp;&emsp;“(ii) having a legislature which is not scheduled to meet in 1996 in a legislative session in which such legislation may be considered,
 
-> &emsp;the date specified in this paragraph is the first day of the first calendar quarter beginning after the close of the first legislative session of the State legislature that begins on or after January 1, 1996. For purposes of the previous sentence, in the case of a State thathas a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+> &emsp;the date specified in this paragraph is the first day of the first calendar quarter beginning after the close of the first legislative session of the State legislature that begins on or after January 1, 1996. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
 #### Evaluation of 1990 Amendments
 

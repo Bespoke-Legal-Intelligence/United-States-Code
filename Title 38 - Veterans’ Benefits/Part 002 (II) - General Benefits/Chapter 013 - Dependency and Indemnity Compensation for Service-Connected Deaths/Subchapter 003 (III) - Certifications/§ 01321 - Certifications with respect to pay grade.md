@@ -20,5 +20,5 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–96 effective first day of second calendar month which begins after Oct. 27, 1969, seesection 8 of Pub. L. 91–96, set out as a note under section 1302 of this title.
+Amendment by Pub. L. 91–96 effective first day of second calendar month which begins after Oct. 27, 1969, see section 8 of Pub. L. 91–96, set out as a note under section 1302 of this title.
 

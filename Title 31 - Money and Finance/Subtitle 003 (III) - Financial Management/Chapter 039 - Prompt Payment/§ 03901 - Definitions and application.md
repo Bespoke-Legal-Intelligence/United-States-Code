@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the agency has actually accepted such property or services before such 7th day; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the contract (except in the case of a contract for the procurement of abrand-name commercial item for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
+&emsp;&emsp;&emsp;&emsp;(II) the contract (except in the case of a contract for the procurement of a brand-name commercial item for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
 
 &emsp;&emsp;(B) on the date of the invoice, if the agency has failed to annotate the invoice with the date of receipt at the time of actual receipt by the place or person designated by the agency to first receive such invoice.
 

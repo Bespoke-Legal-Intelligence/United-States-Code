@@ -48,7 +48,7 @@ The Export Administration Act of 1969, referred to in subsec. (e)(3), is Pub. L.
 
 #### Codification
 
-Subsec. (f) of this section, which required the President to submit quarterly reports to Congress concerning the administration of this section and any findings made pursuant to subsec. (a) or (b) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 5th item on page 19 of House Document No. 103–7.
+Subsec. (f) of this section, which required the President to submit quarterly reports to Congress concerning the administration of this section and any findings made pursuant to subsec. (a) or (b) of this section, terminated, effective May 15, 2000, pursuant to section 3003of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 5th item on page 19 of House Document No. 103–7.
 
 #### Amendments
 

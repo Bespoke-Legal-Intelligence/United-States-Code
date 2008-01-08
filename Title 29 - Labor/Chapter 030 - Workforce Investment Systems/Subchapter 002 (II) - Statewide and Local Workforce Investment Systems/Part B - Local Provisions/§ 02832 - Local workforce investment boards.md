@@ -130,7 +130,7 @@ The functions of the local board shall include the following:
 
 #### (B) Selection of youth providers
 
-&emsp;&emsp;Consistent with section 2843 of this title, the local board shall identify eligible providers of youth activities in the local area byawarding grants or contracts on a competitive basis, based on the recommendations of the youth council.
+&emsp;&emsp;Consistent with section 2843 of this title, the local board shall identify eligible providers of youth activities in the local area by awarding grants or contracts on a competitive basis, based on the recommendations of the youth council.
 
 #### (C) Identification of eligible providers of training services
 
@@ -156,7 +156,7 @@ The functions of the local board shall include the following:
 
 #### (II) Designation
 
-&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor ofthe liability for any misuse of grant funds as described in subclause (I).
 
 #### (III) Disbursal
 
@@ -330,5 +330,5 @@ Section 1512 of this title, referred to in subsec. (i)(1)(C)(i), was repealed by
 
 1998—Subsec. (f)(1)(D). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(A)\], substituted “if the Governor” for “if the State”.
 
-Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(B)\], added subcl. (II) and struck out former subcl. (II) which read as follows: “(for a local area in which no employees are represented by such organizations), other representatives of employees in the local area.”
+Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(B)\], added subcl. (II) and struck out former subcl. (II) which read as follows: “(for a local area inwhich no employees are represented by such organizations), other representatives of employees in the local area.”
 

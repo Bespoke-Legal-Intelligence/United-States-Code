@@ -26,7 +26,7 @@ Suspension, Amendments, and Revocations.—
 
 &emsp;(1)
 
-In general.—On application of the registrant, the Secretary may amend or revoke a registration. On complaint or on the Secretary's own initiative and after notice and an opportunity for a proceeding, the Secretary may (A) suspend, amend, or revoke any part of the registration of a motor carrier, broker, or freight forwarder for willful failure to comply with this part, an applicable regulation ororder of the Secretary or of the Board, or a condition of its registration; and (B) suspend, amend, or revoke any part of the registration of a motor carrier, broker, or freight forwarder: (i) for failure to pay a civil penalty imposed under chapter 5, 51, 149, or 311 of this title; or (ii) for failure to arrange and abide by an acceptable payment plan for such civil penalty, within 90 days of the time specified by order of the Secretary for the payment of such penalty. Subparagraph (B) shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11, United States Code.
+In general.—On application of the registrant, the Secretary may amend or revoke a registration. On complaint or on the Secretary's own initiative and after notice and an opportunity for a proceeding, the Secretary may (A) suspend, amend, or revoke any part of the registration of a motor carrier, broker, or freight forwarder for willful failure to comply with this part, an applicable regulation or order of the Secretary or of the Board, or a condition of its registration; and (B) suspend, amend, or revoke any part of the registration of a motor carrier, broker, or freight forwarder: (i) for failure to pay a civil penalty imposed under chapter 5, 51, 149, or 311 of this title; or (ii) for failure to arrange and abide by an acceptable payment plan for such civil penalty, within 90 days of the time specified by order of the Secretary for the payment of such penalty. Subparagraph (B) shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11, United States Code.
 
 &emsp;(2)
 
@@ -48,7 +48,7 @@ Expedited Procedure.—
 
 Protection of safety.—Notwithstanding subchapter II of chapter 5 of title 5, the Secretary—
 
-&emsp;&emsp;(A) may suspend the registration of a motor carrier, a freight forwarder, or a broker for failure to comply with requirements of the Secretary pursuant to section 13904(c) or 13906 or an order or regulation of the Secretary prescribed under those sections; and
+&emsp;&emsp;(A) may suspend the registration of a motor carrier, a freight forwarder, or abroker for failure to comply with requirements of the Secretary pursuant to section 13904(c) or 13906 or an order or regulation of the Secretary prescribed under those sections; and
 
 &emsp;&emsp;(B) shall revoke the registration of a motor carrier that has been prohibited from operating in interstate commerce for failure to comply with the safety fitness requirements of section 31144.
 

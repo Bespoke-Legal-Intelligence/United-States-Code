@@ -26,7 +26,7 @@ To the extent authorized by subsection (a) of this section, the Administrator sh
 
 &emsp;(6) assure that energy programs are designed and implemented in a fair and efficient manner so as to minimize hardship and inequity while assuring that the priority needs of the Nation are met;
 
-&emsp;(7) develop and oversee the implementation of equitable voluntary and mandatory energyconservation programs and promote efficiencies in the use of energy resources;
+&emsp;(7) develop and oversee the implementation of equitable voluntary and mandatory energy conservation programs and promote efficiencies in the use of energy resources;
 
 &emsp;(8) develop and recommend policies on the import and export of energy resources;
 

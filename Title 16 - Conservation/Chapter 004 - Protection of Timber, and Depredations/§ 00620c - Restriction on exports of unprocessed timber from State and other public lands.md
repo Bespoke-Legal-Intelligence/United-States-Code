@@ -154,7 +154,7 @@ Subsecs. (c) to (<i>l</i>). Pub. L. 103–45, §2(3), (4), added subsecs. (c) to
 
 #### Severability of Provisions
 
-Section 4 of Pub. L. 103–45 provided that: “If any provision of this Act \[amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title\], or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.”
+Section 4 of Pub. L. 103–45 provided that: “If any provision of this Act \[amending this section and section620d of this title and enacting provisions set out as a note under section 620 of this title\], or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.”
 
 #### Extension and Issuance of Order Under Subsection (b)(2)
 

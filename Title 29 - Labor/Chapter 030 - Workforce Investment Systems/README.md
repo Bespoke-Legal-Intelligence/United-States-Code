@@ -140,7 +140,7 @@
 | [2940\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2002940%20-%20References.md) | References. |
 | [2941\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2002941%20-%20State%20legislative%20authority.md) | State legislative authority. |
 | [2942\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2002942%20-%20Workforce%20flexibility%20plans.md) | Workforce flexibility plans. |
-| [2943\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2002943%20-%20Use%20of%20certain%20real%20property.md) | Use of certain real property. |
+| [2943\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2002943%20-%20Transfer%20of%20Federal%20equity%20in%20State%20employment%20security%20real%20property%20to%20the%20States.md) | Transfer of Federal equity in State employment security real property to the States. |
 | [2944\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2002944%20-%20Continuation%20of%20State%20activities%20and%20policies.md) | Continuation of State activities and policies. |
 | [2945\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2002945%20-%20General%20program%20requirements.md) | General program requirements. |
 

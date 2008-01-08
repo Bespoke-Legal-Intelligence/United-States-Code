@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 108–375, §1084(d)(14), substituted “the decision of th
 
 2003—Subsec. (d). Pub. L. 108–136 substituted “The Secretary of Defense may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the Secretary determines” for “The acquisition career program board concerned may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the board certifies” in first sentence and “the Secretary” for “the board” in second sentence, and struck out third sentence which read “Such document shall be submitted to and retained by the Director of Acquisition Education, Training, and Career Development.”
 
-2001—Subsec. (a). Pub. L. 107–107, §824(a)(1)(A), reenacted heading without change and substituted introductory provisions for provisions which read “The Secretary of Defense shall require that in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts  above  the  simplified  acquisition  threshold referred to in section 2304(g) of this title, a person must—”.
+2001—Subsec. (a). Pub. L. 107–107, §824(a)(1)(A), reenacted heading without change and substituted introductory provisions for provisions which read “The Secretary of Defense shall require that in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, a person must—”.
 
 Subsec. (a)(1). Pub. L. 107–107, §824(a)(1)(B), struck out “mandatory” before “contracting courses” and substituted cls. (A) and (B) for “at the grade level, or in the position within the grade of the General Schedule (in the case of an employee), that the person is serving in;”.
 
@@ -112,7 +112,7 @@ Subsec. (b). Pub. L. 104–201, §1074(a)(9)(B)(ii), struck out “, beginning 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title X, §1084(h), Oct. 28, 2004, 118 Stat. 2064, provided that the amendment made by section 1084(h) \[amending this section, section 1732 of this title, and provisions set out as a note under section 5949 of Title 5, Government Organization and Employees\] is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
+Pub. L. 108–375, div. A, title X, §1084(h), Oct. 28, 2004, 118 Stat. 2064, provided that the amendment made bysection 1084(h) \[amending this section, section 1732 of this title, and provisions set out as a note under section 5949 of Title 5, Government Organization and Employees\] is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
 
 #### Effective Date of 2000 Amendment
 

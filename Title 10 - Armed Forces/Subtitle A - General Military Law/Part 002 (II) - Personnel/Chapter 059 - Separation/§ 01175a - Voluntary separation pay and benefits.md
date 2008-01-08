@@ -54,7 +54,7 @@ Separation Pay and Benefits.—(1) A member of the armed forces who is separated
 
 (2) A member who is not entitled to retired or retainer pay upon separation shall be entitled to the benefits and services provided under—
 
-&emsp;(A) chapter 58 of this title during the 180-day period beginning on the date the member is separated (notwithstanding any termination date for such benefits and services otherwise applicable under the provisions of such chapter); and
+&emsp;(A) chapter 58 of this title during the 180-day period beginning on the date the member is separated (notwithstanding any termination date for such benefits and services otherwiseapplicable under the provisions of such chapter); and
 
 &emsp;(B) sections 404 and 406 of title 37.
 
@@ -108,7 +108,7 @@ Termination of Authority.—(1) The authority to separate a member of the armed 
 
 (2) A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.
 
-(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L. 109–364, div. A, title VI, §623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256.)
+(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L.109–364, div. A, title VI, §623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256.)
 
 #### References in Text
 

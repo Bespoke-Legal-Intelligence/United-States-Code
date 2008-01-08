@@ -22,7 +22,7 @@
 
 (b) The liability of the United States under any guaranty, within the limitations of this chapter, shall decrease or increase pro rata with any decrease or increase of the amount of the unpaid portion of the obligation.
 
-(c)(1) Loans guaranteed or insured under this chapter shall be payable upon such terms and conditions as may be agreed upon by the partiesthereto, subject to the provisions of this chapter and regulations of the Secretary issued pursuant to this chapter, and shall bear interest not in excess of such rate as the Secretary may from time to time find the loan market demands, except that in establishing the rate of interest that shall be applicable to such loans, the Secretary shall consult with the Secretary of Housing and Urban Development regarding the rate of interest applicable to home loans insured under section 203(b) of the National Housing Act (12 U.S.C. 1709(b)). In establishing rates of interest under this paragraph for one or more of the purposes described in clauses (4) and (7) of section 3710(a) of this title, the Secretary may establish a rate or rates higher than the rate specified for other purposes under such section, but any such rate may not exceed such rate as the Secretary may from time to time find the loan market demands for loans for such purposes.
+(c)(1) Loans guaranteed or insured under this chapter shall be payable upon such terms and conditions as may be agreed upon by the parties thereto, subject to the provisions of this chapter and regulations of the Secretary issued pursuant to this chapter, and shall bear interest not in excess of such rate as the Secretary may from time to time find the loan market demands, except that in establishing the rate of interest that shall be applicable to such loans, the Secretary shall consult with the Secretary of Housing and Urban Development regarding the rate of interest applicable to home loans insured under section 203(b) of the National Housing Act (12 U.S.C. 1709(b)). In establishing rates of interest under this paragraph for one or more of the purposes described in clauses (4) and (7) of section 3710(a) of this title, the Secretary may establish a rate or rates higher than the rate specified for other purposes under such section, but any such rate may not exceed such rate as the Secretary may from time to time find the loan market demands for loans for such purposes.
 
 (2) The provisions of the Servicemen's Readjustment Act of 1944 which were in effect before April 1, 1958, with respect to the interest chargeable on loans made or guaranteed under such Act shall, notwithstanding the provisions of paragraph (1) of this subsection, continue to be applicable—
 
@@ -42,7 +42,7 @@
 
 &emsp;(E) to refinance indebtedness and purchase a manufactured-home lot pursuant to section 3710(a)(9)(B)(ii) or 3712(a)(1)(G) of this title, but only with respect to that portion of the loan used to refinance such indebtedness.
 
-(4)(A) In guaranteeing or insuring loans under this chapter, the Secretary may elect whether to require that such loans bear interest at a rate that is—
+(4)(A) In guaranteeing or insuring loans under this chapter, the Secretary may elect whetherto require that such loans bear interest at a rate that is—
 
 &emsp;(i) agreed upon by the veteran and the mortgagee; or
 
@@ -68,7 +68,7 @@
 
 (3) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner's share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran's realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary's determination must have been made prior to the recordation of the covenant.
 
-(e)(1) Except as provided in paragraph (2) of this subsection, an individual who pays a fee under section 3729 of this title, or who is exempted under section 3729(c) of this title from paying such fee, with respect to a housing loan guaranteed or insured under this chapter that is closed after December 31, 1989, shall have no liability to the Secretary with respect to the loan for any loss resulting from any default of suchindividual except in the case of fraud, misrepresentation, or bad faith by such individual in obtaining the loan or in connection with the loan default.
+(e)(1) Except as provided in paragraph (2) of this subsection, an individual who pays a fee under section 3729 of this title, or who is exempted under section 3729(c) of this title from paying such fee, with respect to a housing loan guaranteed or insured under this chapter that is closed after December 31, 1989, shall have no liability to the Secretary with respect to the loan for any loss resulting from any default of such individual except in the case of fraud, misrepresentation, or bad faith by such individual in obtaining the loan or in connection with the loan default.
 
 (2) The exemption from liability provided by paragraph (1) of this subsection shall not apply to—
 
@@ -220,7 +220,7 @@ Subsec. (b). Pub. L. 91–506, §2(c)(1), substituted “1810, 1811, and 1819”
 
 Subsec. (d)(1). Pub. L. 91–506, §2(c)(2), limited maturity of non-real-estate loan to not more than ten years except as provided in section 1819 of this title.
 
-1969—Subsec. (d)(3). Pub. L. 91–22 authorized the Administrator, in determining whether a Government loan is secured by a first lien on realty, to disregard a superior lien created by a duly recorded covenant which secures a veteran homeowner's share of the costs of managing, operating or maintaining property, services or programs common to the community in which the veteran's home is located, provided the interests ofthe Government and the veteran borrower are not prejudiced.
+1969—Subsec. (d)(3). Pub. L. 91–22 authorized the Administrator, in determining whether a Government loan is secured by a first lien on realty, to disregard a superior lien created by a duly recorded covenant which secures a veteran homeowner's share of the costs of managing, operating or maintaining property, services or programs common to the community in which the veteran's home is located, provided the interests of the Government and the veteran borrower are not prejudiced.
 
 1967—Subsec. (a)(3)(A). Pub. L. 90–77 extended in cls. (i) and (ii) loan program for certain World War II veterans from July 25, 1967 to July 25, 1970.
 

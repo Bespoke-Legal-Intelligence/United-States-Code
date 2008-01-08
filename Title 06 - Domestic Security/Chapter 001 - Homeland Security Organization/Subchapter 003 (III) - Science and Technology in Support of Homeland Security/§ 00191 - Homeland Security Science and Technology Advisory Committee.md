@@ -30,7 +30,7 @@ There is established within the Department a Homeland Security Science and Techn
 
 #### (2) Original appointments
 
-&emsp;The original members of the Advisory Committee shall be appointed to three classes. Oneclass of six shall have a term of 1 year, one class of seven a term of 2 years, and one class of seven a term of 3 years.
+&emsp;The original members of the Advisory Committee shall be appointed to three classes. One class of six shall have a term of 1 year, one class of seven a term of 2 years, and one class of seven a term of 3 years.
 
 #### (3) Vacancies
 

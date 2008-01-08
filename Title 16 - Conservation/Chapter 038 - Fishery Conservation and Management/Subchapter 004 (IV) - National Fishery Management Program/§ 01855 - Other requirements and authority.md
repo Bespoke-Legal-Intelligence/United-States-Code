@@ -50,7 +50,7 @@
 
 &emsp;(B) the Secretary may promulgate emergency regulations or interim measures under paragraph (1) to address the emergency or overfishing if the Council, by less than a unanimous vote, requests the taking of such action.
 
-(3) Any emergency regulation or interim measure which changes any existing fisherymanagement plan or amendment shall be treated as an amendment to such plan for the period in which such regulation is in effect. Any emergency regulation or interim measure promulgated under this subsection—
+(3) Any emergency regulation or interim measure which changes any existing fishery management plan or amendment shall be treated as an amendment to such plan for the period in which such regulation is in effect. Any emergency regulation or interim measure promulgated under this subsection—
 
 &emsp;(A) shall be published in the Federal Register together with the reasons therefor;
 
@@ -102,7 +102,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;(B) provide for public access to the information filed under such system, notwithstanding section 1881a(b) of this title; and
 
-&emsp;(C) provide such notice and other requirements of applicable law that the Secretary deems necessary for an effective registry system.
+&emsp;(C) provide such notice and other requirements of applicable law that the Secretarydeems necessary for an effective registry system.
 
 (2) The Secretary shall promulgate such regulations as may be necessary to carry out this subsection, after consulting with the Councils and providing an opportunity for public comment. The Secretary is authorized to contract with non-Federal entities to administer the central registry system.
 
@@ -146,7 +146,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;&emsp;&emsp;&emsp;(I) the allocation under the program for each directed fishery of the Bering Sea and Aleutian Islands (other than a fishery for halibut, sablefish, pollock, and crab) shall be a total allocation (directed and nontarget combined) of 10.7 percent effective January 1, 2008; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the allocation under the program in any directed fishery of the Bering Sea and Aleutian Islands (other than a fishery for halibut, sablefish, pollock, and crab) established after July 11, 2006, shallbe a total allocation (directed and nontarget combined) of 10.7 percent.
+&emsp;&emsp;&emsp;&emsp;(II) the allocation under the program in any directed fishery of the Bering Sea and Aleutian Islands (other than a fishery for halibut, sablefish, pollock, and crab) established after July 11, 2006, shall be a total allocation (directed and nontarget combined) of 10.7 percent.
 
 &emsp;&emsp;&nbsp;The total allocation (directed and nontarget combined) for a fishery to which subclause (I) or (II) applies may not be exceeded.
 
@@ -160,7 +160,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (C) Allocations to entities
 
-&emsp;&emsp;Each entity eligible to participate in the program shall be authorized under the program to harvest annually the same percentage of each species allocated to the program under subparagraph (B) that it was authorized by the Secretary to harvest of such species annually as of March 1, 2006, except to the extent that its allocation is adjusted under subparagraph (H). Such allocation shall include all processing rights and any other rights and privileges associated with such allocations as of March 1, 2006. Voluntary transfers by and among eligible entities shall be allowed, whether before or after harvesting. Notwithstanding the first sentence of this subparagraph, seven-tenths of one percent of the total allowable catch, guideline harvest level, or other annual catch limit, within the amount allocated to the program by subclause (I) or subclause (II) of subparagraph (B)(ii), shall be allocated among the eligible entities by the panel established in subparagraph (G), or allocated by the Secretary based on the nontarget needs of eligible entities in the absence of a panel decision.
+&emsp;&emsp;Each entity eligible to participate in the program shall be authorized under the program to harvest annually the same percentage of each species allocated to the program under subparagraph (B) that it was authorized by the Secretary to harvest of such species annually as of March 1, 2006, except to the extent that its allocation is adjustedunder subparagraph (H). Such allocation shall include all processing rights and any other rights and privileges associated with such allocations as of March 1, 2006. Voluntary transfers by and among eligible entities shall be allowed, whether before or after harvesting. Notwithstanding the first sentence of this subparagraph, seven-tenths of one percent of the total allowable catch, guideline harvest level, or other annual catch limit, within the amount allocated to the program by subclause (I) or subclause (II) of subparagraph (B)(ii), shall be allocated among the eligible entities by the panel established in subparagraph (G), or allocated by the Secretary based on the nontarget needs of eligible entities in the absence of a panel decision.
 
 #### (D) Eligible villages
 
@@ -206,7 +206,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (v) Annual statement of compliance
 
-&emsp;&emsp;&emsp;Each year the entity, following approval by its board of directors and signed by its chief executive officer, shall submit a written statement to the Secretary and the State of Alaska that summarizes the purposes for which it made investments underclauses (iii) and (iv) during the preceding year.
+&emsp;&emsp;&emsp;Each year the entity, following approval by its board of directors and signed by its chief executive officer, shall submit a written statement to the Secretary and the State of Alaska that summarizes the purposes for which it made investments under clauses (iii) and (iv) during the preceding year.
 
 #### (vi) Other panel requirements
 
@@ -282,7 +282,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (J) Community development plan defined
 
-&emsp;&emsp;In this paragraph, the term “community development plan” means a plan, prepared by an entity referred to in subparagraph (D),for the program that describes how the entity intends—
+&emsp;&emsp;In this paragraph, the term “community development plan” means a plan, prepared by an entity referred to in subparagraph (D), for the program that describes how the entity intends—
 
 &emsp;&emsp;&emsp;(i) to harvest its share of fishery resources allocated to the program, or
 
@@ -298,7 +298,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;(ii) meet criteria developed by the Western Pacific Council, approved by the Secretary and published in the Federal Register;
 
-&emsp;(iii) consist of community residents who are descended from the aboriginal people indigenous to the area who conducted commercial or subsistence fishing using traditional fishing practices in the waters of the Western Pacific region;
+&emsp;(iii) consist of community residents who are descended from the aboriginal people indigenous to the area who conducted commercial or subsistence fishing using traditional fishingpractices in the waters of the Western Pacific region;
 
 &emsp;(iv) not have previously developed harvesting or processing capability sufficient to support substantial participation in fisheries in the Western Pacific Regional Fishery Management Area; and
 
@@ -350,7 +350,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;If the Secretary makes a determination that such actions are not consistent with the plan, the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
 
-(Pub. L. 94–265, title III, §305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, §235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241, title IV, §416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, §3(d)(3), title I, §§108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606.)
+(Pub. L. 94–265, title III, §305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, §235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241,title IV, §416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, §3(d)(3), title I, §§108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606.)
 
 #### References in Text
 
@@ -410,7 +410,7 @@ Pub. L. 104–297, §110(b)(2)(A), (B), substituted “or that interim measures 
 
 Subsec. (c)(3). Pub. L. 104–297, §110(b)(3)(A), inserted “or interim measure” after “emergency regulation” in two places in introductory provisions.
 
-Subsec. (c)(3)(B). Pub. L. 104–297, §110(b)(3)(B), (D), added subpar. (B) and struck out former subpar. (B)which read as follows: “shall remain in effect for not more than 90 days after the date of such publication, except that any such regulation may, by agreement of the Secretary and the Council, be promulgated for one additional period of not more than 90 days; and”.
+Subsec. (c)(3)(B). Pub. L. 104–297, §110(b)(3)(B), (D), added subpar. (B) and struck out former subpar. (B) which read as follows: “shall remain in effect for not more than 90 days after the date of such publication, except that any such regulation may, by agreement of the Secretary and the Council, be promulgated for one additional period of not more than 90 days; and”.
 
 Subsec. (c)(3)(C). Pub. L. 104–297, §110(b)(3)(D), added subpar. (C). Former subpar. (C) redesignated (D).
 

@@ -21,8 +21,6 @@
 
 1958—Pub. L. 85–861, §1(147)(B), Sept. 2, 1958, 72 Stat. 1513, substituted “benefits” for “pay and allowances” in item 6912.
 
-§6901
-
 
 ---
 

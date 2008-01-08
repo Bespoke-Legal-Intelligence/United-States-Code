@@ -2,7 +2,7 @@
 
 #### (a) Acceptance by Secretary
 
-The Secretary is authorized and directed to accept the transfer to the United States, to beheld in trust for the use and benefit of the Miccosukee Tribe of Indians of Florida, of the lands authorized to be conveyed to the Miccosukee Tribe by section 285.061, Florida Statutes, and the lands described in Dedication Deed No. 23228 from the Trustees of the Internal Improvement Trust Fund subject to the provisions of section 285.061, Florida Statutes, and of this section.
+The Secretary is authorized and directed to accept the transfer to the United States, to be held in trust for the use and benefit of the Miccosukee Tribe of Indians of Florida, of the lands authorized to be conveyed to the Miccosukee Tribe by section 285.061, Florida Statutes, and the lands described in Dedication Deed No. 23228 from the Trustees of the Internal Improvement Trust Fund subject to the provisions of section 285.061, Florida Statutes, and of this section.
 
 #### (b) Jurisdiction of State of Florida
 
@@ -14,7 +14,7 @@ The Secretary is authorized and directed to accept the transfer to the United St
 
 #### (c) Transfer of lands as subject to existing leases, etc.; additional water rights
 
-(1) Any transfer of lands under this section shall be subject to all existing leases, easements, and rights-of-way, and all the rights, easements, and reservations in favor of the Central and Southern Florida Flood Control District (now the South Florida Water Management District) and shall not increase, diminish, modify, or otherwise affect the extent to which chapter 373, Florida Statutes, and its successor laws, have force and effect within such lands.
+(1) Any transfer of lands under this section shall be subject to all existing leases, easements, and rights-of-way, and all the rights, easements, and reservations in favor of the Central and Southern Florida Flood Control District (now the South Florida Water ManagementDistrict) and shall not increase, diminish, modify, or otherwise affect the extent to which chapter 373, Florida Statutes, and its successor laws, have force and effect within such lands.
 
 (2) Any transfer of lands under this section shall not confer upon the Miccosukee Tribe, or upon the lands within the reservation, any additional water rights.
 

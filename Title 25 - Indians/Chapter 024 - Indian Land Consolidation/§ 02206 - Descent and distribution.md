@@ -48,7 +48,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If there is no Indian tribe with jurisdiction over the interests in trust or restricted lands that would otherwise descend under subparagraph (B)(v), then such interests shall be divided equally among co-owners of trust or restricted interests in the parcel; if there are no such co-owners, then to the United States, provided that any such interests in land passing to the United States under this subparagraph shall be sold by the Secretary and the proceeds from such sale deposited into the land acquisition fund established under section 2215 of this title and used for the purposes described in subsection (b) of that section.
+&emsp;&emsp;&emsp;If there is no Indian tribe with jurisdiction over the interests in trust or restricted lands that would otherwise descend under subparagraph (B)(v), then such interests shall be divided equally among co-owners of trust or restricted interests in the parcel; if there are no such co-owners, then to the United States, providedthat any such interests in land passing to the United States under this subparagraph shall be sold by the Secretary and the proceeds from such sale deposited into the land acquisition fund established under section 2215 of this title and used for the purposes described in subsection (b) of that section.
 
 #### (ii) Contiguous parcel
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a copy of the tribal rule is delivered to the official designated by the Secretary to receive copies of tribal rules for the purposes of this clause;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the tribal rule provides for the intestate inheritance of such interestby no more than 1 heir, so that the interest does not further fractionate;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the tribal rule provides for the intestate inheritance of such interest by no more than 1 heir, so that the interest does not further fractionate;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the tribal rule does not apply to any interest disposed of by a valid will;
 
@@ -178,7 +178,7 @@
 
 #### (B) In general
 
-&emsp;&emsp;Subject to any applicable Federal law relating to the devise or descent of such trustpersonalty, or a tribal probate code approved by the Secretary in accordance with section 2205 of this title, the owner of an interest in trust personalty may devise such an interest to any person or entity.
+&emsp;&emsp;Subject to any applicable Federal law relating to the devise or descent of such trust personalty, or a tribal probate code approved by the Secretary in accordance with section 2205 of this title, the owner of an interest in trust personalty may devise such an interest to any person or entity.
 
 #### (C) Maintenance as trust personalty
 
@@ -264,7 +264,7 @@ The official authorized to adjudicate the probate of trust or restricted lands s
 
 &emsp;&emsp;(A) Indian tribes, for purposes of tribal probate code development and estate planning services to tribal members;
 
-&emsp;&emsp;(B) organizations that provide legal assistance services for Indian tribes, Indian organizations, and individual owners of interests in trust or restricted lands that are qualified as nonprofit organizations under section501(c)(3) of title 26 and provide such services pursuant to Federal poverty guidelines, for purposes of providing civil legal assistance to such Indian tribes, individual owners, and Indian organizations for the development of tribal probate codes, for estate planning services or for other purposes consistent with the services they provide to Indians and Indian tribes; and
+&emsp;&emsp;(B) organizations that provide legal assistance services for Indian tribes, Indian organizations, and individual owners of interests in trust or restricted lands that are qualified as nonprofit organizations under section 501(c)(3) of title 26 and provide such services pursuant to Federal poverty guidelines, for purposes of providing civil legal assistance to such Indian tribes, individual owners, and Indian organizations for the development oftribal probate codes, for estate planning services or for other purposes consistent with the services they provide to Indians and Indian tribes; and
 
 &emsp;&emsp;(C) in specific areas and reservations where qualified nonprofit organizations referred to in subparagraph (B) do not provide such legal assistance to Indian tribes, Indian organizations, or individual owners of trust or restricted land, to other providers of such legal assistance;
 
@@ -338,7 +338,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (5) Lapsed devises
 
-&emsp;Subject to the provisions of subsection (b) of this section, where the testator devises or bequeaths a trust or restricted interest in land or trust personalty to the testator's grandparents or to the lineal descendent of a grandparent, and the devisee or legatee dies beforethe testator leaving lineal descendents, such descendents shall take the interest so devised or bequeathed per stirpes.
+&emsp;Subject to the provisions of subsection (b) of this section, where the testator devises or bequeaths a trust or restricted interest in land or trust personalty to the testator's grandparents or to the lineal descendent of a grandparent, and the devisee or legatee dies before the testator leaving lineal descendents, such descendents shall take the interest so devised or bequeathed per stirpes.
 
 #### (6) Void devises
 
@@ -418,7 +418,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), if the surviving spouse of a testator married thetestator after the testator executed the will of the testator, the surviving spouse shall receive the intestate share in the decedent's trust or restricted land and trust personalty that the spouse would have received if the testator had died intestate.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the surviving spouse of a testator married the testator after the testator executed thewill of the testator, the surviving spouse shall receive the intestate share in the decedent's trust or restricted land and trust personalty that the spouse would have received if the testator had died intestate.
 
 #### (ii) Exception
 
@@ -558,7 +558,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (C) Acceptance of interest
 
-&emsp;&emsp;A renunciation or disclaimer of an interest filed in accordance with this paragraph shall be considered accepted when implemented in a final order by a decisionmaker, and shall thereafter be irrevocable. No renunciation ordisclaimer of an interest shall be included in such order unless the recipient of the interest has been given notice of the renunciation or disclaimer and has not refused to accept the interest. All disclaimers and renunciations filed and implemented in probate orders made effective prior to October 27, 2004, are hereby ratified.
+&emsp;&emsp;A renunciation or disclaimer of an interest filed in accordance with this paragraph shall be considered accepted when implemented in a final order by a decisionmaker, and shall thereafter be irrevocable. No renunciation or disclaimer of an interest shall be included in such order unless the recipient of the interest has been given notice of the renunciation or disclaimer and has not refused to accept the interest. All disclaimers and renunciations filed and implemented in probate orders made effective prior to October 27, 2004, are hereby ratified.
 
 #### (D) Rule of construction
 
@@ -794,7 +794,7 @@ Subsec. (i). Pub. L. 109–157, §4(a)(1), redesignated subsec. (j) as (i). Form
 
 Subsec. (j). Pub. L. 109–157, §4(a)(1), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-Subsec. (j)(2)(A)(ii)(I). Pub. L. 109–157, §4(a)(4)(A)(i), substituted “the date that is 1 year after the date on which the Secretary publishes a notice of certification under section 8(a)(4) of the American Indian Probate Reform Act of 2004 (25 U.S.C. 2201 note; Public Law 108–374)” for “October 27, 2004”.
+Subsec. (j)(2)(A)(ii)(I). Pub. L. 109–157, §4(a)(4)(A)(i), substituted “the date that is 1 year after the date onwhich the Secretary publishes a notice of certification under section 8(a)(4) of the American Indian Probate Reform Act of 2004 (25 U.S.C. 2201 note; Public Law 108–374)” for “October 27, 2004”.
 
 Subsec. (j)(2)(A)(iii). Pub. L. 109–157, §4(a)(4)(A)(ii), struck out “the provisions of” before “subsection (a)(2)(A)” and made technical amendment to reference in original act which appears in text as reference to subsection (a)(2)(A) in introductory provisions.
 

@@ -138,7 +138,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 #### (C) Credentialing and quality assurance
 
-&emsp;&emsp;Each critical access hospital that is a member of a rural health network shall have an agreement with respect to credentialing and quality assurance with at least—
+&emsp;&emsp;Each critical access hospital that is a member of a rural health network shall havean agreement with respect to credentialing and quality assurance with at least—
 
 &emsp;&emsp;&emsp;(i) 1 hospital that is a member of the network;
 
@@ -158,7 +158,7 @@ The Secretary shall certify a facility as a critical access hospital if the faci
 
 #### (f) Permitting maintenance of swing beds
 
-Nothing in this section shall be construed to prohibit a State from designating or the Secretary from certifying a facility as a critical access hospital solely because, at the time the facility applies to the State for designation as a critical access hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilitiesare used for the provision of extended care services, so long as the total number of beds that may be used at any time for the furnishing of either such services or acute care inpatient services does not exceed 25 beds. For purposes of the previous sentence, any bed of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a critical access hospital shall not be counted.
+Nothing in this section shall be construed to prohibit a State from designating or the Secretary from certifying a facility as a critical access hospital solely because, at the time the facility applies to the State for designation as a critical access hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the provision of extended care services, so long as the total number of beds that may be used at any time for the furnishing of either such services or acute care inpatient services does not exceed 25 beds. For purposes of the previous sentence, any bed of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a critical access hospital shall not be counted.
 
 #### (g) Grants
 
@@ -300,7 +300,7 @@ Subsec. (j). Pub. L. 108–173, §405(f)(1), inserted before period at end “,�
 
 Subsec. (c)(2)(B)(i). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(b)\], substituted “hospital” for “nonprofit or public hospital”.
 
-Pub. L. 106–113, §1000(a)(6) \[title IV, §401(b)(2)\], inserted “or is treated as being located in a rural area pursuant to section 1395ww(d)(8)(E) of this title” after “section 1395ww(d)(2)(D) of this title)”.
+Pub. L. 106–113, §1000(a)(6) \[title IV, §401(b)(2)\], inserted “or is treated as being located in a rural areapursuant to section 1395ww(d)(8)(E) of this title” after “section 1395ww(d)(2)(D) of this title)”.
 
 Pub. L. 106–113, §1000(a)(6) \[title III, §321(a)\], substituted “that is located in a county (or equivalent unit of local government) in a rural area (as defined in section 1395ww(d)(2)(D) of this title), and that” for “and is located in a county (or equivalent unit of local government) in a rural area (as defined in section 1395ww(d)(2)(D) of this title) that”.
 
@@ -316,7 +316,7 @@ Subsec. (j). Pub. L. 105–33, §4002(f)(1), substituted “part D” for “par
 
 1994—Subsec. (c)(1). Pub. L. 103–432, §102(b)(2)(B)(i), substituted “paragraph (3) or subsection (k) of this section” for “paragraph (3)”.
 
-Subsec. (e)(1). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) whichread as follows: “is located in a rural area (as defined in section 1395ww(d)(2)(D) of this title);”.
+Subsec. (e)(1). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “is located in a rural area (as defined in section 1395ww(d)(2)(D) of this title);”.
 
 Subsec. (e)(1)(A). Pub. L. 103–432, §102(b)(1)(A)(ii), substituted “except in the case of a hospital located in an urban area, is located” for “is located” in introductory provisions, substituted “or (ii)” for “, (ii)”, and struck out “or (iii) is located in an urban area that meets the criteria for classification as a regional referral center under such section,” after “section 1395ww(d)(5)(C) of this title,”.
 
@@ -364,7 +364,7 @@ Amendment by section 405(g)(1) of Pub. L. 108–173 applicable to cost reporting
 
 Amendment by section 1000(a)(6) \[title III, §321(a)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395ww of this title\] shall become effective on January 1, 2000.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that:“The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395ww of this title\] shall become effective on January 1, 2000.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §403(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–370, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Nov. 29, 1999\].”
 
@@ -384,7 +384,7 @@ Pub. L. 106–554, §1(a)(6) \[title II, §206\], Dec. 21, 2000, 114 Stat. 2763,
 
 Study.—The Comptroller General of the United States shall conduct a study on the eligibility requirements for critical access hospitals under section 1820(c) of the Social Security Act (42 U.S.C. 1395i–4(c)) with respect to limitations on average length of stay and number of beds in such a hospital, including an analysis of—
 
-&emsp;“(1) the feasibility of having a distinct part unit as part of a critical access hospital for purposes of themedicare program under title XVIII of such Act \[this subchapter\]; and
+&emsp;“(1) the feasibility of having a distinct part unit as part of a critical access hospital for purposes of the medicare program under title XVIII of such Act \[this subchapter\]; and
 
 &emsp;“(2) the effect of seasonal variations in patient admissions on critical access hospital eligibility requirements with respect to limitations on average annual length of stay and number of beds.
 

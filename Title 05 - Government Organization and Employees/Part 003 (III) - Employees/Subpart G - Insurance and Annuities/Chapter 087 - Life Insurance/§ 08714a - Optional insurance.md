@@ -4,7 +4,7 @@
 
 (b) The optional life insurance and accidental death and dismemberment insurance shall be made available to each insured employee under such conditions as the Office shall prescribe and in amounts approved by the Office but not more than the greater of $10,000 or an amount which, when added to the amount provided in section 8704(a) of this title, makes the sum of his insurance equal to his annual pay.
 
-(c)(1) Except as otherwise provided in this subsection, the optional insurance on an employee stops on his separation from service or 12 months after discontinuance of his pay, whichever is earlier, subject to a provision for temporary extension of life insurance coverage and for conversion to an individual policy of life insurance under conditions approved by the Office.
+(c)(1) Except as otherwise provided in this subsection, the optional insurance on an employee stops on his separation from service or 12months after discontinuance of his pay, whichever is earlier, subject to a provision for temporary extension of life insurance coverage and for conversion to an individual policy of life insurance under conditions approved by the Office.
 
 (2)(A) In the case of any employee who retires on an immediate annuity and has been insured under this section throughout—
 
@@ -62,7 +62,7 @@ Subsec. (c)(2). Pub. L. 95–583, §1(c)(2), added par. (2) and struck out forme
 
 &emsp;“(A) the full period or periods of service during which the optional insurance was available to him; or
 
-&emsp;“(B) the 12 years of service immediately preceding his retirement or beginning date of entitlement tocompensation for work injuries and during which the optional insurance was available to him;
+&emsp;“(B) the 12 years of service immediately preceding his retirement or beginning date of entitlement to compensation for work injuries and during which the optional insurance was available to him;
 
 > whichever is shorter, may be continued—
 

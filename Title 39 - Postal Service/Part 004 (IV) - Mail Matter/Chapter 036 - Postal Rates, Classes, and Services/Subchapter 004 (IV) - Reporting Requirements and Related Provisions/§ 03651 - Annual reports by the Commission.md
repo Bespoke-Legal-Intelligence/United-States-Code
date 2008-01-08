@@ -20,7 +20,7 @@ In general.—In addition to the information required under subsection (a), each
 
 &emsp;(2)
 
-Basis for estimates.—The Commission shall detail the basis for its estimates and thestatutory requirements giving rise to the costs identified in each report under this section.
+Basis for estimates.—The Commission shall detail the basis for its estimates and the statutory requirements giving rise to the costs identified in each report under this section.
 
 (c)
 

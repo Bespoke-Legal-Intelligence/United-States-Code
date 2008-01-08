@@ -62,7 +62,7 @@ An adjustment under this section shall—
 
 The Service Contract Act of 1965, referred to in subsec. (d)(2), is Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, as amended, which is classified generally to chapter 6 (§351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
 
-The Trade Agreements Act of 1979, referred to in subsec. (d)(3), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. Title III of the Act is classified generally to subchapter I (§2511 et seq.) of chapter 13 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19 and Tables.
+The Trade Agreements Act of 1979, referred to in subsec. (d)(3), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, asamended. Title III of the Act is classified generally to subchapter I (§2511 et seq.) of chapter 13 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19 and Tables.
 
 #### Relationship to Other Inflation Adjustment Authorities
 

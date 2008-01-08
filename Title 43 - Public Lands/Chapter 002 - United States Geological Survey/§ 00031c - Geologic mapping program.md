@@ -218,3 +218,7 @@ Subsec. (d)(4). Pub. L. 105–36, §3(b)(4)(D), added par. (4) and struck out fo
 
 1994—Subsec. (b)(1)(A), (C). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

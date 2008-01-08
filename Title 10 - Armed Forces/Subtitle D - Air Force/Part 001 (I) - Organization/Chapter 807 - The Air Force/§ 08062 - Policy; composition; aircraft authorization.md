@@ -120,5 +120,3 @@ Subsec. (g). Pub. L. 109–364 added subsec. (g).
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-§8066
-

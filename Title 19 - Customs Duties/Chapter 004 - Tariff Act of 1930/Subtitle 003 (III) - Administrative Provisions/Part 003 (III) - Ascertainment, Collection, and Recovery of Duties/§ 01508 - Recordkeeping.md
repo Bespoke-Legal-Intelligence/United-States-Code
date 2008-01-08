@@ -14,7 +14,7 @@ Any—
 
 &emsp;(3) person whose activities require the filing of a declaration or entry, or both;
 
-> shall make, keep, and render for examination and inspection records (which for purposes of this section include, but are not limited to,statements, declarations, documents and electronically generated or machine readable data) which—
+> shall make, keep, and render for examination and inspection records (which for purposes of this section include, but are not limited to, statements, declarations, documents and electronically generated or machine readable data) which—
 
 &emsp;(A) pertain to any such activity, or to the information contained in the records required by this chapter in connection with any such activity; and
 
@@ -80,7 +80,7 @@ Any—
 
 The records required by subsections (a) and (b) of this section shall be kept for such periods of time as the Secretary shall prescribe; except that—
 
-&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
+&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3)of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
 
 &emsp;(2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
 
@@ -174,9 +174,49 @@ Any person who fails to retain records and supporting documents required by subs
 
 &emsp;(2) the general record keeping penalty that applies under the customs laws of the United States.
 
-(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485.)
+(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476.)
+
+#### Amendment of Subsections (h) and (i)
+
+<i>Pub. L. 110–138, title I, §107(a), title II, §207, Dec. 14, 2007, 121 Stat. 1459, 1476, provided that, effective on the date on which the United States-Peru Trade Promotion Agreement enters into force, this section is amended as follows:</i>
+
+<i>(1) by redesignating subsection (h) as subsection (i);</i>
+
+<i>(2) by inserting after subsection (g) the following new subsection:</i>
+
+#### <i>“(h) Certifications of origin for goods exported under the United States-Peru Trade Promotion Agreement</i>
+
+#### <i>“(1) Definitions</i>
+
+&emsp;<i>“In this subsection:</i>
+
+#### <i>“(A) Records and supporting documents</i>
+
+&emsp;&emsp;<i>“The term ‘records and supporting documents’ means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) the purchase, cost, and value of, and payment for, the good;</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) the production of the good in the form in which it was exported.</i>
+
+#### <i>“(B) PTPA certification of origin</i>
+
+&emsp;&emsp;<i>“The term ‘PTPA certification of origin’ means the certification established under article 4.15 of the United States-Peru Trade Promotion Agreement that a good qualifies as an originating good under such Agreement.</i>
+
+#### <i>“(2) Exports to Peru</i>
+
+&emsp;<i>“Any person who completes and issues a PTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).</i>
+
+#### <i>“(3) Retention period</i>
+
+&emsp;<i>“The person who issues a PTPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.”; and</i>
+
+<i>(3) in subsection (i), as so redesignated, by substituting “(f), (g), or (h)” for “(f) or (g)” and “any such subsection” for “either such subsection”.</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 110–138, see Effective and Termination Dates of 2007 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
@@ -188,7 +228,7 @@ The customs laws, referred to in subsecs. (e)(1)(B) and (h)(2), are classified g
 
 #### Prior Provisions
 
-A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat.518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
+A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
 
@@ -219,6 +259,10 @@ Pub. L. 103–182, §614(2), amended subsec. (c) generally. Prior to amendment, 
 Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
 
 1988—Subsecs. (b) to (e). Pub. L. 100–449 added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e).
+
+#### Effective and Termination Dates of 2007 Amendment
+
+Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2005 Amendment
 

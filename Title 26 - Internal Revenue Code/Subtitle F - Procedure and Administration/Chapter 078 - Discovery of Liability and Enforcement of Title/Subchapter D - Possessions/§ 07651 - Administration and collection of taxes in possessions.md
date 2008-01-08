@@ -22,27 +22,23 @@ Except as otherwise provided in this subchapter, and except as otherwise provide
 
 &emsp;This section shall apply notwithstanding any other provision of law relating to any possession of the United States.
 
-#### (4) Canal Zone
-
-&emsp;For purposes of this section, the term “possession of the United States” includes the Canal Zone.
-
-#### (5) Virgin Islands
+#### (4) Virgin Islands
 
 &emsp;(A) For purposes of this section, the reference in section 28(a) of the Revised Organic Act of the Virgin Islands to “any tax specified in section 3811 of the Internal Revenue Code” shall be deemed to refer to any tax imposed by chapter 2 or by chapter 21.
 
 &emsp;(B) For purposes of this title, section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section 28(a) had been enacted before the enactment of this title and such section 28(a) shall have no effect on the amount of income tax liability required to be paid by any person to the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 906; Pub. L. 91–513, title III, §1102(j), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §130(c), title VIII, §801(d)(9), July 18, 1984, 98 Stat. 661, 997; Pub. L. 99–514, title XII, §1275(b), Oct. 22, 1986, 100 Stat. 2598.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 906; Pub. L. 91–513, title III, §1102(j), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §130(c), title VIII, §801(d)(9), July 18, 1984, 98 Stat. 661, 997; Pub. L. 99–514, title XII, §1275(b), Oct. 22, 1986, 100 Stat. 2598; Pub. L. 110–172, §11(a)(34)(B), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### References in Text
 
-Section 28(a) of the Revised Organic Act of the Virgin Islands, referred to in pars. (1) and (5), is classified to section 1642 of Title 48, Territories and Insular Possessions.
+Section 28(a) of the Revised Organic Act of the Virgin Islands, referred to in introductory provisions and par. (4), is classified to section 1642 of Title 48, Territories and Insular Possessions.
 
-Section 30 of the Organic Act of Guam, referred to in par. (1), is classified to section 1421h of Title 48.
-
-For definition of Canal Zone, referred to in par. (4), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+Section 30 of the Organic Act of Guam, referred to in introductory provisions, is classified to section 1421h of Title 48.
 
 #### Amendments
+
+2007—Pars. (4), (5). Pub. L. 110–172 redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of this section, the term ‘possession of the United States’ includes the Canal Zone.”
 
 1986—Par. (5)(B). Pub. L. 99–514 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this title (other than section 881(b)(1) or subpart C of part III of subchapter N of chapter 1), section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section had been enacted subsequent to the enactment of this title.”
 
@@ -80,7 +76,7 @@ Pub. L. 95–134, title IV, §402, Oct. 15, 1977, 91 Stat. 1163, provided that: 
 
 Pub. L. 95–30, title IV, §407, May 23, 1977, 91 Stat. 156, provided that:
 
-“(a) The Secretary of the Treasury is authorized to make separate payments to the government of American Samoa, the government of Guam, and the government of the Virgin Islands. The payment to the government of a particular possession shall be in an amount equal to the loss to that possession with respect to tax returns for the first taxable year beginning after December 31, 1976, by reason of sections 101 and 102 of this Act \[amending sections 1, 3, 21, 42, 57, 63, 143, 161, 172, 211, 402, 441, 443, 511, 584, 613A, 641, 642, 667, 703, 861, 862, 873, 904, 911, 931, 1034, 1211, 1302, 6014, 6212, 6504, and 6654 of this title and repealing sections 36, 141, 142, 144 and 145 of this title\]. Such amount shall be determined by the Secretary of the Treasury upon certification to the Secretary by the United States Government Comptrollers for Guam and the Virgin Islands.
+“(a) The Secretary of the Treasury is authorized to make separate payments to the government of American Samoa, the government of Guam, and the government of the Virgin Islands. The payment to the government of a particular possession shall be in an amount equal to the loss to that possession with respect to tax returns for the first taxable year beginning after December 31, 1976, by reason of sections 101 and 102 of thisAct \[amending sections 1, 3, 21, 42, 57, 63, 143, 161, 172, 211, 402, 441, 443, 511, 584, 613A, 641, 642, 667, 703, 861, 862, 873, 904, 911, 931, 1034, 1211, 1302, 6014, 6212, 6504, and 6654 of this title and repealing sections 36, 141, 142, 144 and 145 of this title\]. Such amount shall be determined by the Secretary of the Treasury upon certification to the Secretary by the United States Government Comptrollers for Guam and the Virgin Islands.
 
 “(b) There are hereby authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this section.”
 

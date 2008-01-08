@@ -30,7 +30,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 #### (d) Guidelines
 
-(1) Within two years after December 2, 1980, the Secretary shall by regulation establish initial guidelines governing the carrying out of exploratory activities. The guidelines shall bebased upon the results of the study required under subsection (c) of this section and such other information as may be available to the Secretary. The guidelines shall include such prohibitions, restrictions, and conditions on the carrying out of exploratory activities as the Secretary deems necessary or appropriate to ensure that exploratory activities do not significantly adversely affect the fish and wildlife, their habitats, or the environment, including, but not limited to—
+(1) Within two years after December 2, 1980, the Secretary shall by regulation establish initial guidelines governing the carrying out of exploratory activities. The guidelines shall be based upon the results of the study required under subsection (c) of this section and such other information as may be available to the Secretary. The guidelines shall include such prohibitions, restrictions, and conditions on the carrying out of exploratory activities as the Secretary deems necessary or appropriate to ensure that exploratory activities do not significantly adversely affect the fish and wildlife, their habitats, or the environment, including, but not limited to—
 
 &emsp;(A) a prohibition on the carrying out of exploratory activity during caribou calving and immediate post-calving seasons or during any other period in which human activity may have adverse effects;
 

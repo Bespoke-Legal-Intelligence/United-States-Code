@@ -24,11 +24,7 @@ If the Broadcasting Board of Governors determines that the prohibition under sub
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–277, in introductory provisions, substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”, “Board begins” for “Agency begins”, and “Board shall” for “Director shall”.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1998—Subsec. (c). Pub. L. 105–277, in introductory provisions, substituted “Broadcasting Board of Governors”for “Director of the United States Information Agency”, “Board begins” for “Agency begins”, and “Board shall” for “Director shall”.
 
 #### Effective Date of 1998 Amendment
 

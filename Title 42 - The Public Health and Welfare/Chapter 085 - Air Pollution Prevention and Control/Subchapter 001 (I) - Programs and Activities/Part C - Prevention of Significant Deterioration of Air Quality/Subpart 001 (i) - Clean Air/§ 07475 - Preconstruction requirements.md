@@ -30,7 +30,7 @@ Any completed permit application under section 7410 of this title for a major em
 
 #### (d) Action taken on permit applications; notice; adverse impact on air quality related values; variance; emission limitations
 
-(1) Each State shall transmit to the Administrator a copy of each permit application relating to a major emitting facility received by such State and provide notice to the Administrator of every action related to the consideration of such permit.
+(1) Each State shall transmit to the Administrator a copy of each permit application relating to a major emitting facility received by suchState and provide notice to the Administrator of every action related to the consideration of such permit.
 
 (2)(A) The Administrator shall provide notice of the permit application to the Federal Land Manager and the Federal official charged with direct responsibility for management of any lands within a class I area which may be affected by emissions from the proposed facility.
 
@@ -103,7 +103,7 @@ MAXIMUM ALLOWABLE INCREASE<br>(In micrograms per cubic meter)
 
 &emsp;(C) shall require the results of such analysis shall be available at the time of the public hearing on the application for such permit, and
 
-&emsp;(D) shall specify with reasonable particularity each air quality model or models to beused under specified sets of conditions for purposes of this part.
+&emsp;(D) shall specify with reasonable particularity each air quality model or models to be used under specified sets of conditions for purposes of this part.
 
 > Any model or models designated under such regulations may be adjusted upon a determination, after notice and opportunity for public hearing, by the Administrator that such adjustment is necessary to take into account unique terrain or meteorological characteristics of an area potentially affected by emissions from a source applying for a permit required under this part.
 

@@ -202,7 +202,7 @@ Notwithstanding subsection (e)—
 
 #### (A) Daily limit
 
-&emsp;&emsp;The amount of qualified fuels sold during any taxable year which may be taken into account by reason of this subsection with respect to any facility shall not exceed an average barrel-of-oil equivalent of 4,000 barrels per day. Days before the date the facility is placed in service shall not be taken into account in determining such average.
+&emsp;&emsp;The amount of qualified fuels sold during any taxable year which may be taken intoaccount by reason of this subsection with respect to any facility shall not exceed an average barrel-of-oil equivalent of 4,000 barrels per day. Days before the date the facility is placed in service shall not be taken into account in determining such average.
 
 #### (B) Extension period to commence with unadjusted credit amount
 
@@ -288,7 +288,7 @@ Subsec. (c)(4). Pub. L. 101–508, §11816(b)(1), struck out par. (4) “Qualify
 
 “(A)
 
-In general.—The term ‘qualifying processed wood fuel’ means any processed solid wood fuel (other than charcoal, fireplace products, or a product used for ornamental or recreational purposes) which has a Btu content per unit of volume or weight, determined without regard to any nonwood elements, which is at least 40 percent greater per unit of volume or weight than the Btu content of the wood from which it is produced (determined immediately before the processing).
+In general.—The term ‘qualifying processed wood fuel’ means any processed solid wood fuel (otherthan charcoal, fireplace products, or a product used for ornamental or recreational purposes) which has a Btu content per unit of volume or weight, determined without regard to any nonwood elements, which is at least 40 percent greater per unit of volume or weight than the Btu content of the wood from which it is produced (determined immediately before the processing).
 
 “(B)
 
@@ -340,7 +340,7 @@ Pub. L. 98–369, §474(h), amended par. (5) generally, substituting “shall no
 
 1982—Subsec. (d)(9). Pub. L. 97–354 substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
-1981—Subsec. (e). Pub. L. 97–34 substituted provisions respecting application with the Natural Gas Policy Actof 1978 for prior provision reading “If the taxpayer makes an election under section 107(d) of the Natural Gas Policy Act of 1978 to have subsections (a) and (b) of section 107 of that Act, and subtitle B of title I of that Act, apply with respect to gas described in subsection (c)(1)(B)(i) produced from any well on a property, then the credit allowable by subsection (a) shall not be allowed with respect to any gas produced on that property.”
+1981—Subsec. (e). Pub. L. 97–34 substituted provisions respecting application with the Natural Gas Policy Act of 1978 for prior provision reading “If the taxpayer makes an election under section 107(d) of the Natural Gas Policy Act of 1978 to have subsections (a) and (b) of section 107 of that Act, and subtitle B of title I of that Act, apply with respect to gas described in subsection (c)(1)(B)(i) produced from any well on a property, then the credit allowable by subsection (a) shall not be allowed with respect to any gas produced on that property.”
 
 #### Effective Date of 2006 Amendment
 
@@ -434,7 +434,7 @@ Section 11821(b) of Pub. L. 101–508 provided that: “If—
 
 &emsp;&emsp;“(C) any item of income, loss, deduction, or credit taken into account before such date of enactment, and
 
-&emsp;“(2) the treatment of such transaction, property, or item under such provision would (without regard to the amendments made by this part) affect liabilityfor tax for periods ending after such date of enactment,
+&emsp;“(2) the treatment of such transaction, property, or item under such provision would (without regard to the amendments made by this part) affect liability for tax for periods ending after such date of enactment,
 
 > nothing in the amendments made by this part shall be construed to affect the treatment of such transaction, property, or item for purposes of determining liability for tax for periods ending after such date of enactment.”
 

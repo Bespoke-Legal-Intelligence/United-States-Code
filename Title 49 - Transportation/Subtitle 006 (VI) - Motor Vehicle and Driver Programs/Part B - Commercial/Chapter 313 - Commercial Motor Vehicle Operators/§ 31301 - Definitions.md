@@ -210,5 +210,5 @@ Funding.—From the funds amounts made available by section 4101(c)(1) \[119 Sta
 
 #### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
 
-For provisions relating to waiver of requirements of this chapter with respect to vehicles used for snow or ice removal, see section 229(a)(5) of Pub. L. 106–159, set out as a note under section 31136 of this title.
+For provisions relating to waiver of requirements of this chapter with respect to vehicles used for snow orice removal, see section 229(a)(5) of Pub. L. 106–159, set out as a note under section 31136 of this title.
 

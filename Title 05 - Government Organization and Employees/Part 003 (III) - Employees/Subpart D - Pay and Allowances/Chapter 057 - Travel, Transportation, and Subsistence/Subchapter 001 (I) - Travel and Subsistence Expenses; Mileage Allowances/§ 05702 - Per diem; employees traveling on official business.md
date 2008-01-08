@@ -4,7 +4,7 @@
 
 &emsp;(A) a per diem allowance at a rate not to exceed that established by the Administrator of General Services for travel within the continental United States, and by the President or his designee for travel outside the continental United States;
 
-&emsp;(B) reimbursement for the actual and necessary expenses of official travel not to exceed an amount established by the Administrator for travel within the continental United States or an amount established by the President or his designee for travel outside the continental United States; or
+&emsp;(B) reimbursement for the actual and necessary expenses of official travel not to exceedan amount established by the Administrator for travel within the continental United States or an amount established by the President or his designee for travel outside the continental United States; or
 
 &emsp;(C) a combination of payments described in subparagraphs (A) and (B) of this paragraph.
 
@@ -70,7 +70,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1992—Pub. L. 102–378 substituted “employees” for “employee” in section catchline.
 
-1986—Subsec. (a). Pub. L. 99–234, §102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Under regulations prescribed under section 5707 of this title, an employee while traveling on official business away from his designated post of duty, or in the case of an individual described under section 5703 of this title, his home or regular place of business, is entitled to (1) a per diem allowance for travel inside the continental United States at a rate not to exceed $50, and (2) a per diem allowance for travel outside the continental United States, that may not exceed the rate established by the President, or his designee, for each locality where travel is to be performed. For travel consuming less than a full day, such rate may be allocated proportionately.”
+1986—Subsec. (a). Pub. L. 99–234, §102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Under regulations prescribed under section 5707 of this title, an employee while traveling on official business away from his designated post of duty, or in the case of an individual described under section 5703 of this title, his home or regular place of business, is entitled to (1) a per diem allowance for travel inside the continental United States at a rate not to exceed $50, and (2) a per diem allowance for travel outside the continental United States, that may not exceed the rate established by the President, or his designee, foreach locality where travel is to be performed. For travel consuming less than a full day, such rate may be allocated proportionately.”
 
 Subsec. (b). Pub. L. 99–234, §102(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed under section 5707 of this title, an employee who, while traveling on official business away from his designated post of duty or, in the case of an individual described under section 5703 of this title, his home or regular place of business, becomes incapacitated by illness or injury not due to his own misconduct, is entitled to the per diem allowance and appropriate transportation expenses to his designated post of duty, or home or regular place of business, as the case may be.”
 

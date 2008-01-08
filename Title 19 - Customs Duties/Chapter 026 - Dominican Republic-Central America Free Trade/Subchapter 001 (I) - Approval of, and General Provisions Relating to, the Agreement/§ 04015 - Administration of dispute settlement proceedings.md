@@ -18,7 +18,7 @@ There are authorized to be appropriated for each fiscal year after fiscal year 2
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### Proc. No. 7987. To Implement the Dominican Republic-Central America-United States Free Trade Agreement
+#### Delegation of Functions
 
-Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10827, provided in par. (3) that the Secretary of Commerce is authorized to exercise the President's authority under subsec. (a) of this section to establish or designate an office within the Department of Commerce to carry out the functions set forth in this section.
+Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10828, provided in par. (3) that the Secretary of Commerce is authorized to exercise the President's authority under subsec. (a) of this section to establish or designate an office within the Department of Commerce to carry out the functions set forth in this section.
 

@@ -32,7 +32,7 @@ The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 6
 
 The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July 2, 1890, referred to in the text, is known as the Sherman Act, and is classified to sections 1 to 7 of this title.
 
-Sections 73 to 76, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, approved August 27, 1894, referred to in text, are known as the Wilson TariffAct. Sections 73 to 76 are classified to sections 8 to 11 of this title.
+Sections 73 to 76, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, approved August 27, 1894, referred to in text, are known as the Wilson Tariff Act. Sections 73 to 76 are classified to sections 8 to 11 of this title.
 
 Act February 12, 1913, is set out as amendments to sections 8 and 11 of this title.
 

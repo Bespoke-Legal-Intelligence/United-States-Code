@@ -94,13 +94,17 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(E) for the period that begins on January 1, 2006, and ends on September 30, 2006, the total allocation amount is $300,000,000;
 
-&emsp;&emsp;(F) for the period that begins on October 1, 2006, and ends on December 31, 2006, the total allocation amount is $100,000,000; and
+&emsp;&emsp;(F) for the period that begins on October 1, 2006, and ends on December 31, 2006, the total allocation amount is $100,000,000;
 
-&emsp;&emsp;(G) for the period that begins on January 1, 2007, and ends on September 30, 2007, the total allocation amount is $300,000,000.
+&emsp;&emsp;(G) for the period that begins on January 1, 2007, and ends on September 30, 2007, the total allocation amount is $300,000,000;
+
+&emsp;&emsp;(H) for the period that begins on October 1, 2007, and ends on December 31, 2007, the total allocation amount is $100,000,000; and
+
+&emsp;&emsp;(I) for the period that begins on January 1, 2008, and ends on June 30, 2008, the total allocation amount is $200,000,000.
 
 #### (3) Rules for periods that begin after January 1
 
-&emsp;For any specific period described in subparagraph (B), (D), or (F) of paragraph (2), the following applies:
+&emsp;For any specific period described in subparagraph (B), (D), (F), or (H) of paragraph (2), the following applies:
 
 &emsp;&emsp;(A) The specific period shall be treated as a continuation of the immediately preceding period in that calendar year for purposes of applying subsection (b)(2) of this section and qualifying individuals who received assistance in the last month of such immediately preceding period shall be deemed to be selected for the specific period (without the need to complete an application for assistance for such period).
 
@@ -108,13 +112,19 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 &emsp;&emsp;(C) The ratio to be applied under subsection (c)(2) of this section for the specific period shall be the same as the ratio applied under such subsection for the immediately preceding period.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005, 119 Stat. 2091.)
+(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005, 119 Stat. 2091; Pub. L. 110–90, §3(b), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(b), Dec. 29, 2007, 121 Stat. 2513.)
 
 #### Prior Provisions
 
 A prior section 1933 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+2007—Subsec. (g)(2)(H). Pub. L. 110–90, §3(b)(1), added subpar. (H).
+
+Subsec. (g)(2)(I). Pub. L. 110–173 added subpar. (I).
+
+Subsec. (g)(3). Pub. L. 110–90, §3(b)(2), substituted “(F), or (H)” for “or (F)” in introductory provisions.
 
 2005—Subsec. (g)(2)(D) to (G). Pub. L. 109–91, §101(b)(1), added subpars. (D) to (G).
 
@@ -141,6 +151,10 @@ Pub. L. 108–89, §401(c), added subsec. (g).
 Subsec. (g)(2). Pub. L. 108–173, §103(f)(2)(B), substituted “$300,000,000” for “$100,000,000”.
 
 1999—Subsec. (b)(4). Pub. L. 106–113 inserted “a” after “for a month in”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–90 effective as of Sept. 30, 2007, see section 3(c) of Pub. L. 110–90, set out as a note under section 1396a of this title.
 
 #### Effective Date of 2005 Amendment
 

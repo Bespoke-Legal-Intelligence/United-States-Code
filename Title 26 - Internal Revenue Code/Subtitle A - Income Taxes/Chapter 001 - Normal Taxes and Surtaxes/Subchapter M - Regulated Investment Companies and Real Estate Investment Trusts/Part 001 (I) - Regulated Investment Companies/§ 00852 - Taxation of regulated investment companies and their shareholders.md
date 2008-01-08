@@ -98,7 +98,11 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (C) Determination of holding periods
 
-&emsp;&emsp;For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer has held any share of stock; except that “6 months” shall be substituted for each number of days specified in subparagraph (B) <sup>2</sup> of section 246(c)(3).
+&emsp;&emsp;For purposes of this paragraph, in determining the period for which the taxpayer has held any share of stock—
+
+&emsp;&emsp;&emsp;(i) the rules of paragraphs (3) and (4) of section 246(c) shall apply, and
+
+&emsp;&emsp;&emsp;(ii) there shall not be taken into account any day which is more than 6 months after the date on which such share becomes ex-dividend.
 
 #### (D) Losses incurred under a periodic liquidation plan
 
@@ -286,15 +290,15 @@ In the case of a unit investment trust—
 
 &emsp;&emsp;If the taxpayer acquires stock in a regulated investment company from another person in a transaction in which gain or loss is not recognized, the taxpayer shall succeed to the treatment of such other person under this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, §10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, §511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, §104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, §547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§1006(<i>l</i>)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, §13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, §1122(c)(2), (3), title XII, §1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033; Pub. L. 106–170, title V, §566(a)(1), (c), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 109–222, title V, §505(c)(1), May 17, 2006, 120 Stat. 356.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, §10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, §511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, §104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, §547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§1006(<i>l</i>)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, §13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, §1122(c)(2), (3), title XII, §1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033; Pub. L. 106–170, title V, §566(a)(1), (c), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 109–222, title V, §505(c)(1), May 17, 2006, 120 Stat. 356; Pub. L. 110–172, §11(a)(17)(A), Dec. 29, 2007, 121 Stat. 2486.)
 
 #### References in Text
-
-Section 246(c)(3) of this title, referred to in subsec. (b)(4)(C), was amended by Pub. L. 105–34, title X, §1015(b)(2), Aug. 5, 1997, 111 Stat. 922, to strike out subpar. (B) and redesignate subpar. (C) as (B).
 
 The Investment Company Act of 1940, referred to in subsec. (d), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+2007—Subsec. (b)(4)(C). Pub. L. 110–172 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer has held any share of stock; except that ‘6 months’ shall be substituted for each number of days specified in subparagraph (B) of section 246(c)(3).”
 
 2006—Subsec. (b)(3)(E). Pub. L. 109–222 added subpar. (E).
 
@@ -302,7 +306,7 @@ The Investment Company Act of 1940, referred to in subsec. (d), is title I of ac
 
 Subsec. (e)(1). Pub. L. 106–170, §566(c), inserted at end “If the determination under subparagraph (A) is solely as a result of the failure to meet the requirements of subsection (a)(2), the preceding sentence shall also apply for purposes of applying subsection (a)(2) to the non-RIC year and the amount referred to in paragraph (2)(A)(i) shall be the portion of the accumulated earnings and profits which resulted in such failure.”
 
-1997—Subsec. (b)(3)(D)(iii). Pub. L. 105–34, §1254(b)(2), substituted “by the difference between the amount of such includible gains and the tax deemed paid by such shareholder in respect of such shares under clause (ii).” for “by 65 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a).”
+1997—Subsec. (b)(3)(D)(iii). Pub. L. 105–34, §1254(b)(2), substituted “by the difference between the amount ofsuch includible gains and the tax deemed paid by such shareholder in respect of such shares under clause (ii).” for “by 65 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a).”
 
 Subsec. (b)(10). Pub. L. 105–34, §1122(c)(2), added par. (10).
 
@@ -392,7 +396,7 @@ Subsec. (b)(4)(A)(i). Pub. L. 98–369, §55(a)(1), substituted “subparagraph 
 
 Subsec. (b)(4)(A)(ii). Pub. L. 98–369, §55(a)(1), substituted “6 months or less” for “less than 31 days”.
 
-Subsec. (b)(4)(C). Pub. L. 98–369, §55(a)(2), substituted “the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer held any share of stock;” for “the rules of section 246(c)(3) shall apply in determining whether any shareof stock has been held for less than 31 days;” and substituted provisions dealing with the applicable number of days for former provisions which set forth different applicable days.
+Subsec. (b)(4)(C). Pub. L. 98–369, §55(a)(2), substituted “the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer held any share of stock;” for “the rules of section 246(c)(3) shall apply in determining whether any share of stock has been held for less than 31 days;” and substituted provisions dealing with the applicable number of days for former provisions which set forth different applicable days.
 
 Subsec. (b)(4)(D). Pub. L. 98–369, §55(a)(3), added subpar. (D).
 
@@ -470,9 +474,9 @@ Pub. L. 106–170, title V, §566(d), Dec. 17, 1999, 113 Stat. 1950, provided th
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 1122(c)(2), (3) of Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
+Amendment by section 1122(c)(2), (3) of Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxableyears of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
 
-Section 1263 of title XII of Pub. L. 105–34 provided that: “The amendments made by this part \[probablymeans subtitle D (§§1251–1263) of title XII of Pub. L. 105–34, amending this section and sections 856 and 857 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Section 1263 of title XII of Pub. L. 105–34 provided that: “The amendments made by this part \[probably means subtitle D (§§1251–1263) of title XII of Pub. L. 105–34, amending this section and sections 856 and 857 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -601,6 +605,4 @@ Section 2(b) of act July 11, 1956, provided that: “The amendment made by this 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

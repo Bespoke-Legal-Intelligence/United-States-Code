@@ -88,13 +88,13 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 > &emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subparagraph, including regulations with respect to the meaning of the term “employed”.
 
-&emsp;(C) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because plan amendments may be given retroactive application as provided in section 1082(c)(8) of this title.
+&emsp;(C) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because plan amendments may be given retroactive application as provided in section 1082(d)(2) of this title.
 
 &emsp;(D)(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in the last sentence of section 1054(c)(2)(C) of this title) made by such participant.
 
-&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of section 1054(c)(2)(C) of this title (if such subsection applies) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required underthis clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
+&emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of section 1054(c)(2)(C) of this title (if such subsection applies) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
-&emsp;(iii) In the case of accrued benefits derived from employer contributions which accrued before September 2, 1974, a right to such accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that an amount of such accrued benefit may be forfeited on account of the withdrawal by the participant of an amount attributable to the benefit derived from mandatory contributions, made by such participant before September 2, 1974, if such amount forfeited is proportional to such amount withdrawn. This clause shall not apply to any plan to which any mandatory contribution is made after September 2, 1974. The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out the purposes of this clause.
+&emsp;(iii) In the case of accrued benefits derived from employer contributions which accrued before September 2, 1974, a right to such accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that an amount of such accrued benefit may be forfeited on account of the withdrawal by the participant of an amount attributable to the benefit derived from mandatory contributions, made by suchparticipant before September 2, 1974, if such amount forfeited is proportional to such amount withdrawn. This clause shall not apply to any plan to which any mandatory contribution is made after September 2, 1974. The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out the purposes of this clause.
 
 &emsp;(iv) For purposes of this subparagraph, in the case of any class-year plan, a withdrawal of employee contributions shall be treated as a withdrawal of such contributions on a plan year by plan year basis in succeeding order of time.
 
@@ -110,7 +110,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;&emsp;(II) benefit payments under the plan may be suspended under section 1426 or 1441 of this title.
 
-&emsp;(F) A matching contribution (within the meaning of section 401(m) of title 26) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B) of title 26, an excess deferral under section 402(g)(2)(A) of title 26, or an excess aggregate contribution under section 401(m)(6)(B) of title 26.
+&emsp;(F) A matching contribution (within the meaning of section 401(m) of title 26) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B) of title 26, an excess deferral under section 402(g)(2)(A) of title 26, an erroneous automatic contribution under section 414(w) of title 26, or an excess aggregate contribution under section 401(m)(6)(B) of title 26.
 
 #### (b) Computation of period of service
 
@@ -148,11 +148,11 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 (3)(A) For purposes of this paragraph, the term “1-year break in service” means a calendar year, plan year, or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary) during which the participant has not completed more than 500 hours of service.
 
-(B) For purposes of paragraph (1), in the case of any employee who has any 1-year break in service, years of service before such break shall not be required to be taken into account untilhe has completed a year of service after his return.
+(B) For purposes of paragraph (1), in the case of any employee who has any 1-year break in service, years of service before such break shall not be required to be taken into account until he has completed a year of service after his return.
 
 (C) For purposes of paragraph (1), in the case of any participant in an individual account plan or an insured defined benefit plan which satisfies the requirements of subsection 1054(b)(1)(F) of this title who has 5 consecutive 1-year breaks in service, years of service after such 5-year period shall not be required to be taken into account for purposes of determining the nonforfeitable percentage of his accrued benefit derived from employer contributions which accrued before such 5-year period.
 
-(D)(i) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-year breaks in service shall not be required to be taken into account if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
+(D)(i) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-year breaks in service shall not be required to be taken into account if the number of consecutive1-year breaks in service within such period equals or exceeds the greater of—
 
 &emsp;(I) 5, or
 
@@ -222,7 +222,7 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 (3) This subsection shall not apply to any distribution of dividends to which section 404(k) of title 26 applies.
 
-(4) A plan shall not fail to meet the requirements of this subsection if, under the terms ofthe plan, the present value of the nonforfeitable accrued benefit is determined without regard to that portion of such benefit which is attributable to rollover contributions (and earnings allocable thereto). For purposes of this subparagraph, the term “rollover contributions” means any rollover contribution under sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3)(A)(ii), and 457(e)(16) of title 26.
+(4) A plan shall not fail to meet the requirements of this subsection if, under the terms of the plan, the present value of the nonforfeitable accrued benefit is determined without regard to that portion of such benefit which is attributable to rollover contributions (and earnings allocable thereto). For purposes of this subparagraph, the term “rollover contributions” means any rollover contribution under sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3)(A)(ii), and 457(e)(16) of title 26.
 
 #### (f) Special rules for plans computing accrued benefits by reference to hypothetical account balance or equivalent amounts
 
@@ -254,15 +254,13 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 (Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(b), 648(a)(2), June 7, 2001, 115 Stat. 116, 127; Pub. L. 108–311, title IV, §408(b)(8), Oct. 4, 2004, 118 Stat. 1193; Pub. L. 109–280, title I, §107(a)(4), title VII, §701(a)(2), title IX, §§902(d)(2)(E), 904(b), Aug. 17, 2006, 120 Stat. 819, 984, 1038, 1049.)
 
-#### Amendment of Subsection (a)(3)
-
-<i>Pub. L. 109–280, title I, §107(a)(4), (e), Aug. 17, 2006, 120 Stat. 819, 820, provided that, applicable to plan years beginning after 2007, subsection (a)(3)(C) of this section is amended by substituting “1082(d)(2)” for “1082(c)(8)”.</i>
-
-<i>Pub. L. 109–280, title IX, §902(d)(2)(E), (g), Aug. 17, 2006, 120 Stat. 1038, 1039, provided that, applicable to plan years beginning after Dec. 31, 2007, subsection (a)(3)(F) of this section is amended by inserting “an erroneous automatic contribution under section 414(w) of title 26,” before “or an excess aggregate contribution”.</i>
-
 #### Amendments
 
 2006—Subsec. (a)(2). Pub. L. 109–280, §904(b)(1), amended par. (2) generally, substituting provisions relating to satisfaction of requirements in the case of a defined benefit plan and in the case of an individual account plan for provisions relating to satisfaction of requirements if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions or if an employee has a nonforfeitable right to a percentage of such benefit based upon number of years of service.
+
+Subsec. (a)(3)(C). Pub. L. 109–280, §107(a)(4), substituted “1082(d)(2)” for “1082(c)(8)”.
+
+Subsec. (a)(3)(F). Pub. L. 109–280, §902(d)(2)(E), inserted “an erroneous automatic contribution under section 414(w) of title 26,” before “or an excess aggregate contribution”.
 
 Subsec. (a)(4). Pub. L. 109–280, §904(b)(2), struck out par. (4), which related to application of par. (2) in the case of matching contributions, as defined in section 401(m)(4)(A) of title 26.
 
@@ -296,7 +294,7 @@ Subsec. (a)(2)(C). Pub. L. 104–188, §1442(b)(2), struck out subpar. (C) which
 
 &emsp;“(i) by using an interest rate no greater than the applicable interest rate if the vested accrued benefit (using such rate) is not in excess of $25,000, and
 
-&emsp;“(ii) by using an interest rate no greater than 120 percent of the applicable interest rate if the vestedaccrued benefit exceeds $25,000 (as determined under clause (i)).
+&emsp;“(ii) by using an interest rate no greater than 120 percent of the applicable interest rate if the vested accrued benefit exceeds $25,000 (as determined under clause (i)).
 
 > In no event shall the present value determined under subclause (II) be less than $25,000.
 
@@ -312,7 +310,7 @@ Subsec. (a)(3)(F). Pub. L. 101–239, §7861(a)(5)(B), added subpar. (F).
 
 Subsec. (b)(1)(A). Pub. L. 101–239, §7861(a)(6)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “years of service before age 18, except that in case of a plan which does not satisfy subparagraph (A) or (B) of subsection (a)(2) of this section, the plan may not disregard any such year of service during which the employee was a participant;”.
 
-Subsec. (c)(2). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (c)(2). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (e)(1). Pub. L. 101–239, §7862(d)(10), which directed amendment of par. (1) by substituting “nonforfeitable benefit” for “vested accrued benefit”, could not be executed because the language “vested accrued benefit” did not appear after the amendment by Pub. L. 101–239, §7862(d)(5), see below.
 
@@ -376,7 +374,7 @@ Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to plan years beginning on or after the earlier of (1) the later of (A) Jan. 1, 1997, or (B) the date on which the last of the collective bargaining agreements pursuant to which the plan is maintained terminates (determined without regard to any extension thereof after Aug. 20, 1996), or (2) Jan. 1, 1999, but such amendment not applicable to any individual who does not have more than 1 hour of service under the plan on or after the 1st day of the 1st plan year to which such amendment applies, see section 1442(c) of Pub. L. 104–188, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 104–188 applicable to plan years beginning on or after the earlier of (1) the laterof (A) Jan. 1, 1997, or (B) the date on which the last of the collective bargaining agreements pursuant to which the plan is maintained terminates (determined without regard to any extension thereof after Aug. 20, 1996), or (2) Jan. 1, 1999, but such amendment not applicable to any individual who does not have more than 1 hour of service under the plan on or after the 1st day of the 1st plan year to which such amendment applies, see section 1442(c) of Pub. L. 104–188, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1994 Amendment
 
@@ -424,7 +422,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

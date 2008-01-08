@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(i) the Report of the International Joint Commission to the Governments of the United States and Canada under the 1977 reference issued in 1985; and
 
-&emsp;&emsp;&emsp;(ii) the 1993 Report of the International Joint Commission to the Governments of Canada and the United States on Methods of Alleviating Adverse Consequences of Fluctuating Water Levels in the Great Lakes St. Lawrence Basin.
+&emsp;&emsp;&emsp;(ii) the 1993 Report of the International Joint Commission to the Governments of Canada and the United States on Methods of Alleviating Adverse Consequences ofFluctuating Water Levels in the Great Lakes St. Lawrence Basin.
 
 #### (c) Great Lakes recreational boating
 
@@ -98,17 +98,25 @@ In undertaking activities under this section, the Secretary shall—
 
 #### (e) Water use activities and policies
 
-The Secretary may provide technical assistance to the Great Lakes States to develop interstate guidelines to improve the consistency andefficiency of State-level water use activities and policies in the Great Lakes basin.
+The Secretary may provide technical assistance to the Great Lakes States to develop interstate guidelines to improve the consistency and efficiency of State-level water use activities and policies in the Great Lakes basin.
 
 #### (f) Cost sharing
 
 The Secretary may seek and accept funds from non-Federal entities to be used to pay up to 25 percent of the cost of carrying out subsections (b), (c), (d), and (e) of this section.
 
-(Pub. L. 106–53, title IV, §455, Aug. 17, 1999, 113 Stat. 330.)
+#### (g) In-kind contributions for study
+
+The non-Federal interest may provide up to 100 percent of the non-Federal share required under subsection (f) in the form of in-kind services and materials.
+
+(Pub. L. 106–53, title IV, §455, Aug. 17, 1999, 113 Stat. 330; Pub. L. 110–114, title IV, §4001, Nov. 8, 2007, 121 Stat. 1173.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Planning Act which comprises this chapter.
+
+#### Amendments
+
+2007—Subsec. (g). Pub. L. 110–114 added subsec. (g).
 
 #### Definitions
 

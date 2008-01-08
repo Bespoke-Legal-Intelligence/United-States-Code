@@ -6,7 +6,7 @@ The Director is authorized to make grants to or contracts with public and nonpro
 
 #### (b) Application of other laws
 
-Subsections (d), (e), and (f) of section 5011 of this title, and such other provisions of part B as the Director determines to be necessary, shall apply to this part, except that for purposes of this part any reference in such subsections and such provisions to part B shall be deemed to be a reference to this part.
+Subsections (d), (e), and (f) of section 5011 of this title, and such other provisions of part B as the Director determines to be necessary, shallapply to this part, except that for purposes of this part any reference in such subsections and such provisions to part B shall be deemed to be a reference to this part.
 
 #### (c) Senior companion projects to assist homebound elderly
 

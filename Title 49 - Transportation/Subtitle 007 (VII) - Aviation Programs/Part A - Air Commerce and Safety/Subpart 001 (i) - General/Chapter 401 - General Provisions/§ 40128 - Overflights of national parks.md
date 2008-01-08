@@ -20,7 +20,7 @@ Application for operating authority.—
 
 &emsp;&emsp;(A)
 
-Application required.—Before commencing commercial air tour operations over a national park or tribal lands, a commercial air tour operator shall apply to the Administrator for authority to conduct the operations over the park or tribal lands.
+Application required.—Before commencing commercial air tour operations over a national park or tribal lands, a commercial air tour operator shall apply to theAdministrator for authority to conduct the operations over the park or tribal lands.
 
 &emsp;&emsp;(B)
 
@@ -172,7 +172,7 @@ Safety limitation.—The Administrator may not grant interim operating authority
 
 &emsp;&emsp;(C)
 
-ATMP limitation.—The Administrator may grant interim operating authority under subparagraph (A) of this paragraph only if the air tour management plan for the park or tribal lands to which the application relates has not been developed within 24 months after the date of the enactment of this section.
+ATMP limitation.—The Administrator may grant interim operating authorityunder subparagraph (A) of this paragraph only if the air tour management plan for the park or tribal lands to which the application relates has not been developed within 24 months after the date of the enactment of this section.
 
 (d)
 
@@ -184,7 +184,7 @@ Exemptions.—This section shall not apply to—
 
 (e)
 
-Lake Mead.—This section shall not apply to any air tour operator while flying over ornear the Lake Mead National Recreation Area, solely as a transportation route, to conduct an air tour over the Grand Canyon National Park. For purposes of this subsection, an air tour operator flying over the Hoover Dam in the Lake Mead National Recreation Area en route to the Grand Canyon National Park shall be deemed to be flying solely as a transportation route.
+Lake Mead.—This section shall not apply to any air tour operator while flying over or near the Lake Mead National Recreation Area, solely as a transportation route, to conduct an air tour over the Grand Canyon National Park. For purposes of this subsection, an air tour operator flying over the Hoover Dam in the Lake Mead National Recreation Area en route to the Grand Canyon National Park shall be deemed to be flying solely as a transportation route.
 
 (f)
 

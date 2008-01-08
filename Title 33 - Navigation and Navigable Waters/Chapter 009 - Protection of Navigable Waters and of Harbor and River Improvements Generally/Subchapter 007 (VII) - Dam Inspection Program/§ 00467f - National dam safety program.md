@@ -134,7 +134,7 @@ The objectives of the Program are to—
 
 #### (3) Work plans
 
-&emsp;The Director shall enter into a <sup>1</sup> agreement with each State receiving assistance under paragraph (2) to develop a work plan necessaryfor the State dam safety program to reach a level of program performance specified in the agreement.
+&emsp;The Director shall enter into a <sup>1</sup> agreement with each State receiving assistance under paragraph (2) to develop a work plan necessary for the State dam safety program to reach a level of program performance specified in the agreement.
 
 #### (4) Maintenance of effort
 

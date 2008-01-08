@@ -72,3 +72,7 @@ Based on the reports under subsection (c) of this section, the Secretary, after 
 
 (Pub. L. 105–303, title II, §206, Oct. 28, 1998, 112 Stat. 2857.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology ofHouse of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

@@ -18,7 +18,7 @@
 
 (2) Any person on whose behalf an action is brought under subsection (a)(1) of this section may elect to exclude from adjudication the portion of the State claim for monetary relief attributable to him by filing notice of such election with the court within such time as specified in the notice given pursuant to paragraph (1) of this subsection.
 
-(3) The final judgment in an action under subsection (a)(1) of this section shall be res judicata as to any claim under section 15 of this title by any person on behalf of whom such action was brought and who fails to give such notice within the period specified in the notice given pursuant to paragraph (1) of this subsection.
+(3) The final judgment in an action under subsection (a)(1) of this section shall be res judicataas to any claim under section 15 of this title by any person on behalf of whom such action was brought and who fails to give such notice within the period specified in the notice given pursuant to paragraph (1) of this subsection.
 
 #### (c) Dismissal or compromise of action
 

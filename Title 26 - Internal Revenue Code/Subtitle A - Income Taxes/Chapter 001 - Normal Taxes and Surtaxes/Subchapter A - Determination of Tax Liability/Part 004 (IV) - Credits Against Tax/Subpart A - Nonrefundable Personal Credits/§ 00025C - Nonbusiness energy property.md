@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (3) Manufactured homes included
 
-&emsp;The term “dwelling unit” includes a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (section 3280 of title 24, Code of Federal Regulations).
+&emsp;The term “dwelling unit” includes a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations).
 
 #### (d) Residential energy property expenditures
 
@@ -162,13 +162,15 @@ For purposes of this subtitle, if a credit is allowed under this section for any
 
 This section shall not apply with respect to any property placed in service after December 31, 2007.
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636.)
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments
+
+2007—Subsec. (c)(3). Pub. L. 110–172 substituted “part 3280” for “section 3280”.
 
 2005—Subsec. (b)(2). Pub. L. 109–135 substituted “subsection (c)(2)(B)” for “subsection (c)(3)(B)”.
 

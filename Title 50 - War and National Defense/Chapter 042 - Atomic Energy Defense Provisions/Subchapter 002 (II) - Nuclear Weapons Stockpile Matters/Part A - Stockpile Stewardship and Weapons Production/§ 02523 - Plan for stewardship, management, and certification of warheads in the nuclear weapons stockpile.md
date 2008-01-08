@@ -12,7 +12,7 @@ The plan and each update of the plan shall set forth the following:
 
 &emsp;(2) The current age of each warhead type, and any plans for stockpile lifetime extensions and modifications or replacement of each warhead type.
 
-&emsp;(3) The process by which the Secretary of Energy is assessing the lifetime, and requirements for lifetime extension or replacement, of the nuclear and nonnuclear components of the warheads (including active and inactive warheads) in the nuclear weapons stockpile.
+&emsp;(3) The process by which the Secretary of Energy is assessing the lifetime, and requirements for lifetime extension or replacement,of the nuclear and nonnuclear components of the warheads (including active and inactive warheads) in the nuclear weapons stockpile.
 
 &emsp;(4) The process used in recertifying the safety, security, and reliability of each warhead type in the nuclear weapons stockpile.
 

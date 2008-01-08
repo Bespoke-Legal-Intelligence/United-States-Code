@@ -28,7 +28,7 @@ Drive-away saddlemount with fullmount vehicle transporter combination.—The ter
 
 General Limitations.—(1) Except as provided in this section, a State may not prescribe or enforce a regulation of commerce that—
 
-&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
+&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, onany segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
 
 &emsp;(B) imposes an overall length limitation on a commercial motor vehicle operating in a truck tractor-semitrailer or truck tractor-semitrailer-trailer combination;
 

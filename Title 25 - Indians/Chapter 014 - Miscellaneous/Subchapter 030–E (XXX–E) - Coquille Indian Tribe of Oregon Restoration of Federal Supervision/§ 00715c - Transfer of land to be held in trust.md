@@ -66,7 +66,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 #### (7) Memorandum of agreement
 
-&emsp;The Coquille Tribe shall enter into a memorandum of agreement (MOA) with the State of Oregon relating to the establishment and management of the Coquille Forest. The MOA shall include, but not be limited to, the terms and conditions for managing the Coquille Forest in a manner consistent with paragraph (5) of this subsection, preserving public access, advancing jointly-held resource management goals, achieving tribal restoration objectives and establishing a coordinated management framework. Further, provisions set forth in the MOA shall be consistent with federal <sup>6</sup> trust responsibility requirements applicable to Indian trust lands and paragraph (5) of this subsection.
+&emsp;The Coquille Tribe shall enter into a memorandum of agreement (MOA) with the State of Oregon relating to the establishment and management of the Coquille Forest. The MOAshall include, but not be limited to, the terms and conditions for managing the Coquille Forest in a manner consistent with paragraph (5) of this subsection, preserving public access, advancing jointly-held resource management goals, achieving tribal restoration objectives and establishing a coordinated management framework. Further, provisions set forth in the MOA shall be consistent with federal <sup>6</sup> trust responsibility requirements applicable to Indian trust lands and paragraph (5) of this subsection.
 
 #### (8) Public access
 
@@ -74,7 +74,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 #### (9) Jurisdiction
 
-&emsp;(A) The United States District Court for the District of Oregon shall have jurisdiction over actions against the Secretary arising out of claims that this subsection has been violated. Consistent with existing precedents on standing to sue, any affected citizen may bring suit against the Secretary for violations of this subsection, except that suit may not be brought against the Secretary for claims that the MOA has been violated. The Court has theauthority to hold unlawful and set aside actions pursuant to this subsection that are arbitrary and capricious, an abuse of discretion, or otherwise an abuse of law.
+&emsp;(A) The United States District Court for the District of Oregon shall have jurisdiction over actions against the Secretary arising out of claims that this subsection has been violated. Consistent with existing precedents on standing to sue, any affected citizen may bring suit against the Secretary for violations of this subsection, except that suit may not be brought against the Secretary for claims that the MOA has been violated. The Court has the authority to hold unlawful and set aside actions pursuant to this subsection that are arbitrary and capricious, an abuse of discretion, or otherwise an abuse of law.
 
 &emsp;(B) The United States District Court for the District of Oregon shall have jurisdiction over actions between the State of Oregon and the Tribe arising out of claims of breach of the MOA.
 
@@ -135,6 +135,10 @@ The Indian Self-Determination Act, referred to in subsec. (d)(6), is title I of 
 #### Amendments
 
 1996—Subsec. (d). Pub. L. 104–208 added subsec. (d).
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -78,13 +78,13 @@ The purposes of this section are as follows:
 
 #### (1) Annual report
 
-&emsp;Not later than June 1 each year (beginning in 2002), the Commission shall submit to Congress a report, in both unclassified and classified form, regarding the national security implications and impact of the bilateral trade and economic relationship between the United States and the People's Republic of China. The report shall include a full analysis, along with conclusions and recommendations for legislative and administrative actions, if any, of the national security implications for the United States of the trade and current balances with the People's Republic of China in goods and services, financial transactions, and technology transfers. The Commission shall also take into account patterns of trade and transfers through third countries to the extent practicable.
+&emsp;Not later than December 1 each year (beginning in 2002), the Commission shall submit to Congress a report, in both unclassified and classified form, regarding the national security implications and impact of the bilateral trade and economic relationship between the United States and the People's Republic of China. The report shall include a full analysis, along with conclusions and recommendations for legislative and administrative actions, if any, of the national security implications for the United States of the trade and current balances with the People's Republic of China in goods and services, financial transactions, and technology transfers. The Commission shall also take into account patterns of trade and transfers through third countries to the extent practicable.
 
 #### (2) Contents of report
 
 &emsp;Each report under paragraph (1) shall include, at a minimum, a full discussion of the following:
 
-&emsp;&emsp;(A) The portion of trade in goods and services with the United States that the People'sRepublic of China dedicates to military systems or systems of a dual nature that could be used for military purposes.
+&emsp;&emsp;(A) The portion of trade in goods and services with the United States that the People's Republic of China dedicates to military systems or systems of a dual nature that could be used for military purposes.
 
 &emsp;&emsp;(B) The acquisition by the People's Republic of China of advanced military or dual-use technologies from the United States by trade (including procurement) and other technology transfers, especially those transfers, if any, that contribute to the proliferation of weapons of mass destruction or their delivery systems, or that undermine international agreements or United States laws with respect to nonproliferation.
 
@@ -142,7 +142,7 @@ The purposes of this section are as follows:
 
 #### (3) Staff
 
-&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Economic and Security Review Commission shall be employeesunder section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
+&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees ofthe United States-China Economic and Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
 
 #### (4) Detail of government employees
 
@@ -174,7 +174,7 @@ The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply
 
 This section shall take effect on the first day of the 107th Congress.
 
-(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, §635(b), Nov. 22, 2005, 119 Stat. 2347.)
+(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, §635(b), Nov. 22, 2005, 119 Stat. 2347; Pub. L. 110–161, div. J, title I, Dec. 26, 2007, 121 Stat. 2285.)
 
 #### References in Text
 
@@ -189,6 +189,8 @@ The first day of the 107th Congress, referred to in subsec. (h), was Jan. 3, 200
 Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the U.S.-China Relations Act of 2000 which comprises this chapter.
 
 #### Amendments
+
+2007—Subsec. (c)(1). Pub. L. 110–161 substituted “December” for “June”.
 
 2005—Subsec. (g). Pub. L. 109–108 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
 

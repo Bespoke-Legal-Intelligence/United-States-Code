@@ -6,7 +6,7 @@ The purpose of this subchapter is—
 
 &emsp;(b) to stimulate the development of new or improved types of physical facilities for medical, diagnostic, preventive, treatment, or rehabilitative services; and
 
-&emsp;(c) to promote research, experiments, and demonstrations relating to the effective development and utilization of hospital, clinic, or similar services, facilities, and resources, and to promote the coordination of such research, experiments, and demonstrations and the useful application of their results.
+&emsp;(c) to promote research, experiments, and demonstrations relating to the effective development and utilization of hospital, clinic, or similar services, facilities, and resources, and to promote the coordination of such research,experiments, and demonstrations and the useful application of their results.
 
 (July 1, 1944, ch. 373, title VI, §600, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 447.)
 

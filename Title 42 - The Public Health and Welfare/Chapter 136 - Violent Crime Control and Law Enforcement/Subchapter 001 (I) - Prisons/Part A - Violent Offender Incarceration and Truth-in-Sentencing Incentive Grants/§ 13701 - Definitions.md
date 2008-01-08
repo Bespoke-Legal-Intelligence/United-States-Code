@@ -46,7 +46,7 @@ Pub. L. 108–405, title III, §301, Oct. 30, 2004, 118 Stat. 2272, provided tha
 
 Pub. L. 106–560, §1, Dec. 21, 2000, 114 Stat. 2784, provided that: “This Act \[enacting sections 13726 to 13726c of this title\] may be cited as the ‘Interstate Transportation of Dangerous Criminals Act of 2000’ or ‘Jeanna's Act’.”
 
-Pub. L. 106–546, §1, Dec. 19, 2000, 114 Stat. 2726, provided that: “This Act \[enacting sections 14135 to 14135e of this title and section 1565 of Title 10, Armed Forces, amending sections 3753, 3796kk–2, 14132, and 14133 of this title and sections 3563, 3583, and 4209 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under section 14135 of this title and section 1565 of Title 10, and amending provisions set out as a noteunder section 531 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘DNA Analysis Backlog Elimination Act of 2000’.”
+Pub. L. 106–546, §1, Dec. 19, 2000, 114 Stat. 2726, provided that: “This Act \[enacting sections 14135 to 14135e of this title and section 1565 of Title 10, Armed Forces, amending sections 3753, 3796kk–2, 14132, and 14133 of this title and sections 3563, 3583, and 4209 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under section 14135 of this title and section 1565 of Title 10, and amending provisions set out as a note under section 531 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘DNA Analysis Backlog Elimination Act of 2000’.”
 
 Pub. L. 106–386, div. B, §1001, Oct. 28, 2000, 114 Stat. 1491, provided that: “This division \[see Tables for classification\] may be cited as the ‘Violence Against Women Act of 2000’.”
 

@@ -10,7 +10,7 @@
 
 &emsp;(2) available office space (including space for recreational activities for Boy Scouts and Girl Scouts), warehousing, utilities, and a means of communication, without charge.
 
-(d) Supplies of a qualified scouting organization may be transported at the expense of the United States if the Secretary concerned determines, under regulations prescribed under subsection (b), that the supplies are necessary to the cooperation and assistance provided under this section.
+(d) Supplies of a qualified scouting organization may be transported at the expense of the United States if the Secretary concerned determines, under regulations prescribed under subsection (b), that the supplies are necessary tothe cooperation and assistance provided under this section.
 
 (e) The Secretary concerned may reimburse a qualified scouting organization for all or part of the pay of an employee of that organization for any period during which the employee was performing services under subsection (a). Any such reimbursement may not be made from appropriated funds and shall be made under regulations prescribed under subsection (b).
 

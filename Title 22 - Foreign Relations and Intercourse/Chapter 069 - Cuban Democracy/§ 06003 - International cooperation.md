@@ -18,7 +18,7 @@ The President should encourage the governments of countries that conduct trade w
 
 &emsp;For purposes of paragraph (1), the term “assistance to Cuba”—
 
-&emsp;&emsp;(A) means assistance to or for the benefit of the Government of Cuba that is provided by grant, concessional sale, guaranty, or insurance, or by any other means on terms more favorable than that generally available in the applicable market, whether in the form of a loan, lease, credit, or otherwise, and such term includes subsidies for exports to Cuba and favorable tariff treatment of articles that are the growth, product, or manufacture of Cuba;
+&emsp;&emsp;(A) means assistance to or for the benefit of the Government of Cuba that is provided by grant, concessional sale, guaranty, or insurance, or by any other means on terms more favorable than that generally available in the applicable market, whether in theform of a loan, lease, credit, or otherwise, and such term includes subsidies for exports to Cuba and favorable tariff treatment of articles that are the growth, product, or manufacture of Cuba;
 
 &emsp;&emsp;(B) includes an exchange, reduction, or forgiveness of Cuban debt owed to a foreign country in return for a grant of an equity interest in a property, investment, or operation of the Government of Cuba (including the government of any political subdivision of Cuba, and any agency or instrumentality of the Government of Cuba) or of a Cuban national; and
 

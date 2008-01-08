@@ -68,7 +68,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 (E)(i) A domestic relations order shall not be treated as failing to meet the requirements of clause (i) of subparagraph (D) solely because such order requires that payment of benefits be made to an alternate payee—
 
-&emsp;(I) in the case of any payment before a participant has separated from service, on or after the date on which the participant attains (or would have attained) the earliest retirement age,
+&emsp;(I) in the case of any payment before a participant has separated from service, on orafter the date on which the participant attains (or would have attained) the earliest retirement age,
 
 &emsp;(II) as if the participant had retired on the date on which such payment is to begin under such order (but taking into account only the present value of benefits actually accrued and not taking into account the present value of any employer subsidy for early retirement), and
 
@@ -98,7 +98,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(I) shall be in writing,
 
-&emsp;(II) shall provide for the notification of each person specified in a domestic relations order as entitled to payment of benefits under theplan (at the address included in the domestic relations order) of such procedures promptly upon receipt by the plan of the domestic relations order, and
+&emsp;(II) shall provide for the notification of each person specified in a domestic relations order as entitled to payment of benefits under the plan (at the address included in the domestic relations order) of such procedures promptly upon receipt by the plan of the domestic relations order, and
 
 &emsp;(III) shall permit an alternate payee to designate a representative for receipt of copies of notices that are sent to the alternate payee with respect to a domestic relations order.
 
@@ -160,7 +160,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;&emsp;(iii) in such judgment, order, decree, or settlement, such spouse retains the right to receive the survivor annuity under a qualified joint and survivor annuity provided pursuant to section 1055(a)(1) of this title and under a qualified preretirement survivor annuity provided pursuant to section 1055(a)(2) of this title, determined in accordance with paragraph (5).
 
-> A plan shall not be treated as failing to meet the requirements of section 1055 of this titlesolely by reason of an offset under this paragraph.
+> A plan shall not be treated as failing to meet the requirements of section 1055 of this title solely by reason of an offset under this paragraph.
 
 (5)(A) The survivor annuity described in paragraph (4)(C)(iii) shall be determined as if—
 
@@ -180,7 +180,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this part, the fiduciary of a pension plan that is subject to the additional funding requirements of section 1082(d) of this title shall not permit a prohibited payment to be made from a plan during a period in which such plan has a liquidity shortfall (as defined in section 1082(e)(5) of this title).
+&emsp;Notwithstanding any other provision of this part, the fiduciary of a pension plan that is subject to the additional funding requirements of section 1083(j)(4) of this title shall not permit a prohibited payment to be made from a plan during a period in which such plan has a liquidity shortfall (as defined in section 1083(j)(4)(E)(i) of this title).
 
 #### (2) Prohibited payment
 
@@ -194,7 +194,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 #### (3) Period of shortfall
 
-&emsp;For purposes of this subsection, a plan has a liquidity shortfall during the period that there is an underpayment of an installment under section 1082(e) of this title by reason of paragraph (5)(A) thereof.
+&emsp;For purposes of this subsection, a plan has a liquidity shortfall during the period that there is an underpayment of an installment under section 1083(j)(3) of this title by reason of section 1083(j)(4)(A) of this title.
 
 #### (4) Coordination with other provisions
 
@@ -204,259 +204,249 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 In the case of a plan covered by section 1350 of this title, upon termination of the plan, benefits of missing participants shall be treated in accordance with section 1350 of this title.
 
-(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935.)
+#### (g) Funding-based limits on benefits and benefit accruals under single-employer plans
 
-#### Amendment of Section
+#### (1) Funding-based limitation on shutdown benefits and other unpredictable contingent event benefits under single-employer plans
 
-<i>Pub. L. 109–280, title I, §107(a)(9), (10), (e), Aug. 17, 2006, 120 Stat. 819, 820, provided that, applicable to plan years beginning after 2007, subsection (e) of this section is amended as follows:</i>
+#### (A) In general
 
-<i>(1) in paragraph (1), by substituting “1083(j)(4)” for “1082(d)” and “1083(j)(4)(E)(i)” for “1082(e)(5)”; and</i>
+&emsp;&emsp;If a participant of a defined benefit plan which is a single-employer plan is entitledto an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall provide that such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—
 
-<i>(2) in paragraph (3), by substituting “section 1083(j)(3) of this title by reason of section 1083(j)(4)(A) of this title” for “section 1082(e) of this title by reason of paragraph (5)(A) thereof”.</i>
+&emsp;&emsp;&emsp;(i) is less than 60 percent, or
 
-<i>Pub. L. 109–280, title I, §103(a), (c), Aug. 17, 2006, 120 Stat. 809, 816, provided that, applicable to plan years beginning after Dec. 31, 2007, with collective bargaining exception, this section is amended by adding subsection (g) at the end to read as follows:</i>
+&emsp;&emsp;&emsp;(ii) would be less than 60 percent taking into account such occurrence.
 
-#### <i>(g) Funding-based limits on benefits and benefit accruals under single-employer plans</i>
+#### (B) Exemption
 
-#### <i>(1) Funding-based limitation on shutdown benefits and other unpredictable contingent event benefits under single-employer plans</i>
+&emsp;&emsp;Subparagraph (A) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 1083 of this title) equal to—
 
-#### <i>(A) In general</i>
+&emsp;&emsp;&emsp;(i) in the case of subparagraph (A)(i), the amount of the increase in the funding target of the plan (under section 1083 of this title) for the plan year attributable to the occurrence referred to in subparagraph (A), and
 
-&emsp;&emsp;<i>If a participant of a defined benefit plan which is a single-employer plan is entitled to an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall provide that such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—</i>
+&emsp;&emsp;&emsp;(ii) in the case of subparagraph (A)(ii), the amount sufficient to result in a funding target attainment percentage of 60 percent.
 
-&emsp;&emsp;&emsp;<i>(i) is less than 60 percent, or</i>
+#### (C) Unpredictable contingent event
 
-&emsp;&emsp;&emsp;<i>(ii) would be less than 60 percent taking into account such occurrence.</i>
+&emsp;&emsp;For purposes of this paragraph, the term “unpredictable contingent event benefit” means any benefit payable solely by reason of—
 
-#### <i>(B) Exemption</i>
+&emsp;&emsp;&emsp;(i) a plant shutdown (or similar event, as determined by the Secretary of the Treasury), or
 
-&emsp;&emsp;<i>Subparagraph (A) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 1083 of this title) equal to—</i>
+&emsp;&emsp;&emsp;(ii) an event other than the attainment of any age, performance of any service, receipt or derivation of any compensation, or occurrence of death or disability.
 
-&emsp;&emsp;&emsp;<i>(i) in the case of subparagraph (A)(i), the amount of the increase in the funding target of the plan (under section 1083 of this title) for the plan year attributable to the occurrence referred to in subparagraph (A), and</i>
+#### (2) Limitations on plan amendments increasing liability for benefits
 
-&emsp;&emsp;&emsp;<i>(ii) in the case of subparagraph (A)(ii), the amount sufficient to result in a funding target attainment percentage of 60 percent.</i>
+#### (A) In general
 
-#### <i>(C) Unpredictable contingent event</i>
+&emsp;&emsp;No amendment to a defined benefit plan which is a single-employer plan which has the effect of increasing liabilities of the plan by reason of increases in benefits, establishment of new benefits, changing the rate of benefit accrual, or changing the rate at which benefits become nonforfeitable may take effect during any plan year if the adjusted funding target attainment percentage for such plan year is—
 
-&emsp;&emsp;<i>For purposes of this paragraph, the term “unpredictable contingent event benefit” means any benefit payable solely by reason of—</i>
+&emsp;&emsp;&emsp;(i) less than 80 percent, or
 
-&emsp;&emsp;&emsp;<i>(i) a plant shutdown (or similar event, as determined by the Secretary of the Treasury), or</i>
+&emsp;&emsp;&emsp;(ii) would be less than 80 percent taking into account such amendment.
 
-&emsp;&emsp;&emsp;<i>(ii) an event other than the attainment of any age, performance of any service, receipt or derivation of any compensation, or occurrence of death or disability.</i>
+#### (B) Exemption
 
-#### <i>(2) Limitations on plan amendments increasing liability for benefits</i>
+&emsp;&emsp;Subparagraph (A) shall cease to apply with respect to any plan year, effective as of the first day of the plan year (or if later, the effective date of the amendment), upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 1083 of this title) equal to—
 
-#### <i>(A) In general</i>
+&emsp;&emsp;&emsp;(i) in the case of subparagraph (A)(i), the amount of the increase in the funding target of the plan (under section 1083 of this title) for the plan year attributable to the amendment, and
 
-&emsp;&emsp;<i>No amendment to a defined benefit plan which is a single-employer plan which has the effect of increasing liabilities of the plan by reason of increases in benefits, establishment of new benefits, changing the rate of benefit accrual, or changing the rate at which benefits become nonforfeitable may take effect during any plan year if the adjusted funding target attainment percentage for such plan year is—</i>
+&emsp;&emsp;&emsp;(ii) in the case of subparagraph (A)(ii), the amount sufficient to result in an adjusted funding target attainment percentage of 80 percent.
 
-&emsp;&emsp;&emsp;<i>(i) less than 80 percent, or</i>
+#### (C) Exception for certain benefit increases
 
-&emsp;&emsp;&emsp;<i>(ii) would be less than 80 percent taking into account such amendment.</i>
+&emsp;&emsp;Subparagraph (A) shall not apply to any amendment which provides for an increase in benefits under a formula which is not based on a participant's compensation, but only if the rate of such increase is not in excess of the contemporaneous rate of increase in average wages of participants covered by the amendment.
 
-#### <i>(B) Exemption</i>
+#### (3) Limitations on accelerated benefit distributions
 
-&emsp;&emsp;<i>Subparagraph (A) shall cease to apply with respect to any plan year, effective as of the first day of the plan year (or if later, the effective date of the amendment), upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 1083 of this title) equal to—</i>
+#### (A) Funding percentage less than 60 percent
 
-&emsp;&emsp;&emsp;<i>(i) in the case of subparagraph (A)(i), the amount of the increase in the funding target of the plan (under section 1083 of this title) for the plan year attributable to the amendment, and</i>
+&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
 
-&emsp;&emsp;&emsp;<i>(ii) in the case of subparagraph (A)(ii), the amount sufficient to result in an adjusted funding target attainment percentage of 80 percent.</i>
+#### (B) Bankruptcy
 
-#### <i>(C) Exception for certain benefit increases</i>
+&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11 or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan is not less than 100 percent.
 
-&emsp;&emsp;<i>Subparagraph (A) shall not apply to any amendment which provides for an increase in benefits under a formula which is not based on a participant's compensation, but only if the rate of such increase is not in excess of the contemporaneous rate of increase in average wages of participants covered by the amendment.</i>
+#### (C) Limited payment if percentage at least 60 percent but less than 80 percent
 
-#### <i>(3) Limitations on accelerated benefit distributions</i>
+#### (i) In general
 
-#### <i>(A) Funding percentage less than 60 percent</i>
+&emsp;&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is 60 percent or greater but less than 80 percent, the plan may not pay any prohibited payment after the valuation date for the plan year to the extent the amount of the payment exceeds the lesser of—
 
-&emsp;&emsp;<i>A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.</i>
+&emsp;&emsp;&emsp;&emsp;(I) 50 percent of the amount of the payment which could be made without regard to this subsection, or
 
-#### <i>(B) Bankruptcy</i>
+&emsp;&emsp;&emsp;&emsp;(II) the present value (determined under guidance prescribed by the Pension Benefit Guaranty Corporation, using the interest and mortality assumptions under section 1055(g) of this title) of the maximum guarantee with respect to the participant under section 1322 of this title.
 
-&emsp;&emsp;<i>A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11 or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan is not less than 100 percent.</i>
+#### (ii) One-time application
 
-#### <i>(C) Limited payment if percentage at least 60 percent but less than 80 percent</i>
+#### (I) In general
 
-#### <i>(i) In general</i>
+&emsp;&emsp;&emsp;&emsp;The plan shall also provide that only 1 prohibited payment meeting the requirements of clause (i) may be made with respect to any participant during any period of consecutive plan years to which the limitations under either subparagraph (A) or (B) or this subparagraph applies.
 
-&emsp;&emsp;&emsp;<i>A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is 60 percent or greater but less than 80 percent, the plan may not pay any prohibited payment after the valuation date for the plan year to the extent the amount of the payment exceeds the lesser of—</i>
+#### (II) Treatment of beneficiaries
 
-&emsp;&emsp;&emsp;&emsp;<i>(I) 50 percent of the amount of the payment which could be made without regard to this subsection, or</i>
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, a participant and any beneficiary on his behalf (including an alternate payee, as defined in subsection (d)(3)(K)) shall be treated as 1 participant. If the accrued benefit of a participant is allocated to such an alternate payee and 1 or more other persons, the amount under clause (i) shall be allocated among such persons in the same manner as the accrued benefit is allocated unless the qualified domestic relations order (as defined in subsection (d)(3)(B)(i)) provides otherwise.
 
-&emsp;&emsp;&emsp;&emsp;<i>(II) the present value (determined under guidance prescribed by the Pension Benefit Guaranty Corporation, using the interest and mortality assumptions under section 1055(g) of this title) of the maximum guarantee with respect to the participant under section 1322 of this title.</i>
+#### (D) Exception
 
-#### <i>(ii) One-time application</i>
+&emsp;&emsp;This paragraph shall not apply to any plan for any plan year if the terms of such plan (as in effect for the period beginning on September 1, 2005, and ending with such plan year) provide for no benefit accruals with respect to any participant during such period.
 
-#### <i>(I) In general</i>
+#### (E) Prohibited payment
 
-&emsp;&emsp;&emsp;&emsp;<i>The plan shall also provide that only 1 prohibited payment meeting the requirements of clause (i) may be made with respect to any participant during any period of consecutive plan years to which the limitations under either subparagraph (A) or (B) or this subparagraph applies.</i>
+&emsp;&emsp;For purpose <sup>1</sup> of this paragraph, the term “prohibited payment” means—
 
-#### <i>(II) Treatment of beneficiaries</i>
+&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs during any period a limitation under subparagraph (A) or (B) is in effect,
 
-&emsp;&emsp;&emsp;&emsp;<i>For purposes of this clause, a participant and any beneficiary on his behalf (including an alternate payee, as defined in subsection (d)(3)(K)) shall be treated as 1 participant. If the accrued benefit of a participant is allocated to such an alternate payee and 1 or more other persons, the amount under clause (i) shall be allocated among such persons in the same manner as the accrued benefit is allocated unless the qualified domestic relations order (as defined in subsection (d)(3)(B)(i)) provides otherwise.</i>
+&emsp;&emsp;&emsp;(ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
-#### <i>(D) Exception</i>
+&emsp;&emsp;&emsp;(iii) any other payment specified by the Secretary of the Treasury by regulations.
 
-&emsp;&emsp;<i>This paragraph shall not apply to any plan for any plan year if the terms of such plan (as in effect for the period beginning on September 1, 2005, and ending with such plan year) provide for no benefit accruals with respect to any participant during such period.</i>
+#### (4) Limitation on benefit accruals for plans with severe funding shortfalls
 
-#### <i>(E) Prohibited payment</i>
+#### (A) In general
 
-&emsp;&emsp;<i>For purpose of this paragraph, the term “prohibited payment” means—</i>
+&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, benefit accruals under the plan shall cease as of the valuation date for the plan year.
 
-&emsp;&emsp;&emsp;<i>(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title) occurs during any period a limitation under subparagraph (A) or (B) is in effect,</i>
+#### (B) Exemption
 
-&emsp;&emsp;&emsp;<i>(ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and</i>
+&emsp;&emsp;Subparagraph (A) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 1083 of this title) equal to the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
 
-&emsp;&emsp;&emsp;<i>(iii) any other payment specified by the Secretary of the Treasury by regulations.</i>
+#### (5) Rules relating to contributions required to avoid benefit limitations
 
-#### <i>(4) Limitation on benefit accruals for plans with severe funding shortfalls</i>
+#### (A) Security may be provided
 
-#### <i>(A) In general</i>
+#### (i) In general
 
-&emsp;&emsp;<i>A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, benefit accruals under the plan shall cease as of the valuation date for the plan year.</i>
+&emsp;&emsp;&emsp;For purposes of this subsection, the adjusted funding target attainment percentage shall be determined by treating as an asset of the plan any security provided by a plan sponsor in a form meeting the requirements of clause (ii).
 
-#### <i>(B) Exemption</i>
+#### (ii) Form of security
 
-&emsp;&emsp;<i>Subparagraph (A) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 1083 of this title) equal to the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.</i>
+&emsp;&emsp;&emsp;The security required under clause (i) shall consist of—
 
-#### <i>(5) Rules relating to contributions required to avoid benefit limitations</i>
+&emsp;&emsp;&emsp;&emsp;(I) a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title,
 
-#### <i>(A) Security may be provided</i>
+&emsp;&emsp;&emsp;&emsp;(II) cash, or United States obligations which mature in 3 years or less, held in escrow by a bank or similar financial institution, or
 
-#### <i>(i) In general</i>
+&emsp;&emsp;&emsp;&emsp;(III) such other form of security as is satisfactory to the Secretary of the Treasury and the parties involved.
 
-&emsp;&emsp;&emsp;<i>For purposes of this subsection, the adjusted funding target attainment percentage shall be determined by treating as an asset of the plan any security provided by a plan sponsor in a form meeting the requirements of clause (ii).</i>
+#### (iii) Enforcement
 
-#### <i>(ii) Form of security</i>
+&emsp;&emsp;&emsp;Any security provided under clause (i) may be perfected and enforced at any time after the earlier of—
 
-&emsp;&emsp;&emsp;<i>The security required under clause (i) shall consist of—</i>
+&emsp;&emsp;&emsp;&emsp;(I) the date on which the plan terminates,
 
-&emsp;&emsp;&emsp;&emsp;<i>(I) a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title,</i>
+&emsp;&emsp;&emsp;&emsp;(II) if there is a failure to make a payment of the minimum required contribution for any plan year beginning after the security is provided, the due date for the payment under section 1083(j) of this title, or
 
-&emsp;&emsp;&emsp;&emsp;<i>(II) cash, or United States obligations which mature in 3 years or less, held in escrow by a bank or similar financial institution, or</i>
+&emsp;&emsp;&emsp;&emsp;(III) if the adjusted funding target attainment percentage is less than 60 percent for a consecutive period of 7 years, the valuation date for the last year in the period.
 
-&emsp;&emsp;&emsp;&emsp;<i>(III) such other form of security as is satisfactory to the Secretary of the Treasury and the parties involved.</i>
+#### (iv) Release of security
 
-#### <i>(iii) Enforcement</i>
+&emsp;&emsp;&emsp;The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at such time as the Secretary of the Treasury may prescribe in regulations, including regulations for partial releases of the security by reason of increases in the funding target attainment percentage.
 
-&emsp;&emsp;&emsp;<i>Any security provided under clause (i) may be perfected and enforced at any time after the earlier of—</i>
+#### (B) Prefunding balance or funding standard carryover balance may not be used
 
-&emsp;&emsp;&emsp;&emsp;<i>(I) the date on which the plan terminates,</i>
+&emsp;&emsp;No prefunding balance or funding standard carryover balance under section 1083(f) of this title may be used under paragraph (1), (2), or (4) to satisfy any payment an employer may make under any such paragraph to avoid or terminate the application of any limitation under such paragraph.
 
-&emsp;&emsp;&emsp;&emsp;<i>(II) if there is a failure to make a payment of the minimum required contribution for any plan year beginning after the security is provided, the due date for the payment under section 1083(j) of this title, or</i>
+#### (C) Deemed reduction of funding balances
 
-&emsp;&emsp;&emsp;&emsp;<i>(III) if the adjusted funding target attainment percentage is less than 60 percent for a consecutive period of 7 years, the valuation date for the last year in the period.</i>
+#### (i) In general
 
-#### <i>(iv) Release of security</i>
+&emsp;&emsp;&emsp;Subject to clause (iii), in any case in which a benefit limitation under paragraph (1), (2), (3), or (4) would (but for this subparagraph and determined without regard to paragraph (1)(B), (2)(B), or (4)(B)) apply to such plan for the plan year, the plan sponsor of such plan shall be treated for purposes of this chapter as having made an election under section 1083(f) of this title to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.
 
-&emsp;&emsp;&emsp;<i>The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at such time as the Secretary of the Treasury may prescribe in regulations, including regulations for partial releases of the security by reason of increases in the funding target attainment percentage.</i>
+#### (ii) Exception for insufficient funding balances
 
-#### <i>(B) Prefunding balance or funding standard carryover balance may not be used</i>
+&emsp;&emsp;&emsp;Clause (i) shall not apply with respect to a benefit limitation for any plan year if the application of clause (i) would not result in the benefit limitation not applying for such plan year.
 
-&emsp;&emsp;<i>No prefunding balance or funding standard carryover balance under section 1083(f) of this title may be used under paragraph (1), (2), or (4) to satisfy any payment an employer may make under any such paragraph to avoid or terminate the application of any limitation under such paragraph.</i>
+#### (iii) Restrictions of certain rules to collectively bargained plans
 
-#### <i>(C) Deemed reduction of funding balances</i>
+&emsp;&emsp;&emsp;With respect to any benefit limitation under paragraph (1), (2), or (4), clause (i) shall only apply in the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers.
 
-#### <i>(i) In general</i>
+#### (6) New plans
 
-&emsp;&emsp;&emsp;<i>Subject to clause (iii), in any case in which a benefit limitation under paragraph (1), (2), (3), or (4) would (but for this subparagraph and determined without regard to paragraph (1)(B), (2)(B), or (4)(B)) apply to such plan for the plan year, the plan sponsor of such plan shall be treated for purposes of this chapter as having made an election under section 1083(f) of this title to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.</i>
+&emsp;Paragraphs (1), (2), and (4) shall not apply to a plan for the first 5 plan years of the plan. For purposes of this paragraph, the reference in this paragraph to a plan shall include a reference to any predecessor plan.
 
-#### <i>(ii) Exception for insufficient funding balances</i>
+#### (7) Presumed underfunding for purposes of benefit limitations
 
-&emsp;&emsp;&emsp;<i>Clause (i) shall not apply with respect to a benefit limitation for any plan year if the application of clause (i) would not result in the benefit limitation not applying for such plan year.</i>
+#### (A) Presumption of continued underfunding
 
-#### <i>(iii) Restrictions of certain rules to collectively bargained plans</i>
+&emsp;&emsp;In any case in which a benefit limitation under paragraph (1), (2), (3), or (4) has been applied to a plan with respect to the plan year preceding the current plan year, the adjusted funding target attainment percentage of the plan for the current plan year shall be presumed to be equal to the adjusted funding target attainment percentage of the plan for the preceding plan year until the enrolled actuary of the plan certifies the actual adjusted funding target attainment percentage of the plan for the current plan year.
 
-&emsp;&emsp;&emsp;<i>With respect to any benefit limitation under paragraph (1), (2), or (4), clause (i) shall only apply in the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers.</i>
+#### (B) Presumption of underfunding after 10th month
 
-#### <i>(6) New plans</i>
+&emsp;&emsp;In any case in which no certification of the adjusted funding target attainment percentage for the current plan year is made with respect to the plan before the first day of the 10th month of such year, for purposes of paragraphs (1), (2), (3), and (4), such first day shall be deemed, for purposes of such paragraph, to be the valuation date of the plan for the current plan year and the plan's adjusted funding target attainment percentage shall be conclusively presumed to be less than 60 percent as of such first day.
 
-&emsp;<i>Paragraphs (1), (2), and (4) shall not apply to a plan for the first 5 plan years of the plan. For purposes of this paragraph, the reference in this paragraph to a plan shall include a reference to any predecessor plan.</i>
+#### (C) Presumption of underfunding after 4th month for nearly underfunded plans
 
-#### <i>(7) Presumed underfunding for purposes of benefit limitations</i>
+&emsp;&emsp;In any case in which—
 
-#### <i>(A) Presumption of continued underfunding</i>
+&emsp;&emsp;&emsp;(i) a benefit limitation under paragraph (1), (2), (3), or (4) did not apply to a plan with respect to the plan year preceding the current plan year, but the adjusted funding target attainment percentage of the plan for such preceding plan year was not more than 10 percentage points greater than the percentage which would have caused such paragraph to apply to the plan with respect to such preceding plan year, and
 
-&emsp;&emsp;<i>In any case in which a benefit limitation under paragraph (1), (2), (3), or (4) has been applied to a plan with respect to the plan year preceding the current plan year, the adjusted funding target attainment percentage of the plan for the current plan year shall be presumed to be equal to the adjusted funding target attainment percentage of the plan for the preceding plan year until the enrolled actuary of the plan certifies the actual adjusted funding target attainment percentage of the plan for the current plan year.</i>
+&emsp;&emsp;&emsp;(ii) as of the first day of the 4th month of the current plan year, the enrolled actuary of the plan has not certified the actual adjusted funding target attainment percentage of the plan for the current plan year,
 
-#### <i>(B) Presumption of underfunding after 10th month</i>
+> &emsp;&emsp;until the enrolled actuary so certifies, such first day shall be deemed, for purposes of such paragraph, to be the valuation date of the plan for the current plan year and the adjusted funding target attainment percentage of the plan as of such first day shall, for purposes of such paragraph, be presumed to be equal to 10 percentage points less than the adjusted funding target attainment percentage of the plan for such preceding plan year.
 
-&emsp;&emsp;<i>In any case in which no certification of the adjusted funding target attainment percentage</i><i>for the current plan year is made with respect to the plan before the first day of the 10th month of such year, for purposes of paragraphs (1), (2), (3), and (4), such first day shall be deemed, for purposes of such paragraph, to be the valuation date of the plan for the current plan year and the plan's adjusted funding target attainment percentage shall be conclusively presumed to be less than 60 percent as of such first day.</i>
+#### (8) Treatment of plan as of close of prohibited or cessation period
 
-#### <i>(C) Presumption of underfunding after 4th month for nearly underfunded plans</i>
+&emsp;For purposes of applying this part—
 
-&emsp;&emsp;<i>In any case in which—</i>
+#### (A) Operation of plan after period
 
-&emsp;&emsp;&emsp;<i>(i) a benefit limitation under paragraph (1), (2), (3), or (4) did not apply to a plan with respect to the plan year preceding the current plan year, but the adjusted funding target attainment percentage of the plan for such preceding plan year was not more than 10 percentage points greater than the percentage which would have caused such paragraph to apply to the plan with respect to such preceding plan year, and</i>
+&emsp;&emsp;Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the period for which any limitation of payment or accrual of benefits under paragraph (3) or (4) applies.
 
-&emsp;&emsp;&emsp;<i>(ii) as of the first day of the 4th month of the current plan year, the enrolled actuary of the plan has not certified the actual adjusted funding target attainment percentage of the plan for the current plan year,</i>
+#### (B) Treatment of affected benefits
 
-> &emsp;&emsp;<i>until the enrolled actuary so certifies, such first day shall be deemed, for purposes of such paragraph, to be the valuation date of the plan for the current plan year and the adjusted funding target attainment percentage of the plan as of such first day shall, for purposes of such paragraph, be presumed to be equal to 10 percentage points less than the adjusted funding target attainment percentage of the plan for such preceding plan year.</i>
+&emsp;&emsp;Nothing in this paragraph shall be construed as affecting the plan's treatment of benefits which would have been paid or accrued but for this subsection.
 
-#### <i>(8) Treatment of plan as of close of prohibited or cessation period</i>
+#### (9) Terms relating to funding target attainment percentage
 
-&emsp;<i>For purposes of applying this part—</i>
+&emsp;For purposes of this subsection—
 
-#### <i>(A) Operation of plan after period</i>
+#### (A) In general
 
-&emsp;&emsp;<i>Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the period for which any limitation of payment or accrual of benefits under paragraph (3) or (4) applies.</i>
+&emsp;&emsp;The term “funding target attainment percentage” has the same meaning given such term by section 1083(d)(2) of this title.
 
-#### <i>(B) Treatment of affected benefits</i>
+#### (B) Adjusted funding target attainment percentage
 
-&emsp;&emsp;<i>Nothing in this paragraph shall be construed as affecting the plan's treatment of benefits which would have been paid or accrued but for this subsection.</i>
+&emsp;&emsp;The term “adjusted funding target attainment percentage” means the funding target attainment percentage which is determined under subparagraph (A) by increasing each of the amounts under subparagraphs (A) and (B) of section 1083(d)(2) of this title by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q) of title 26) which were made by the plan during the preceding 2 plan years.
 
-#### <i>(9) Terms relating to funding target attainment percentage</i>
+#### (C) Application to plans which are fully funded without regard to reductions for funding balances
 
-&emsp;<i>For purposes of this subsection—</i>
+#### (i) In general
 
-#### <i>(A) In general</i>
+&emsp;&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to this subparagraph and without regard to the reduction in the value of assets under section 1083(f)(4) of this title), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
 
-&emsp;&emsp;<i>The term “funding target attainment percentage” has the same meaning given such term by section 1083(d)(2) of this title.</i>
+#### (ii) Transition rule
 
-#### <i>(B) Adjusted funding target attainment percentage</i>
+&emsp;&emsp;&emsp;Clause (i) shall be applied to plan years beginning after 2007 and before 2011 by substituting for “100 percent” the applicable percentage determined in accordance with the following table:
 
-&emsp;&emsp;<i>The term “adjusted funding target attainment percentage” means the funding target attainment percentage which is determined under subparagraph (A) by increasing each of the amounts under subparagraphs (A) and (B) of section 1083(d)(2) of this title by the aggregate amount of purchases of annuities for employees other than highly compensated employees (as defined in section 414(q) of title 26) which were made by the plan during the preceding 2 plan years.</i>
+<b> In the case of a plan year</b>
 
-#### <i>(C) Application to plans which are fully funded without regard to reductions for funding balances</i>
+<b>The applicable</b>
 
-#### <i>(i) In general</i>
+<b>  beginning in calendar year:</b>
 
-&emsp;&emsp;&emsp;<i>In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to this subparagraph and without regard to the reduction in the value of assets under section 1083(f)(4) of this title), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.</i>
+<b>percentage is</b>
 
-#### <i>(ii) Transition rule</i>
+&emsp;&emsp;2008
 
-&emsp;&emsp;&emsp;<i>Clause (i) shall be applied to plan years beginning after 2007 and before 2011 by substituting for “100 percent” the applicable percentage determined in accordance with the following table:</i>
+92&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<b><i> In the case of a plan year</i></b>
+&emsp;&emsp;2009
 
-<i>The applicable</i>
+94&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<b><i>  beginning in calendar year:</i></b>
+&emsp;&emsp;2010
 
-<i>percentage is</i>
-
-&emsp;&emsp;<i>2008</i>
-
-<i>92     </i>
-
-&emsp;&emsp;<i>2009</i>
-
-<i>94     </i>
-
-&emsp;&emsp;<i>2010</i>
-
-<i>96.   </i>
+96\.&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### <i>(iii) Limitation</i>
+#### (iii) Limitation
 
-&emsp;&emsp;&emsp;<i>Clause (ii) shall not apply with respect to any plan year after 2008 unless the funding target attainment percentage (determined without regard to this subparagraph) of the plan for each preceding plan year after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).</i>
+&emsp;&emsp;&emsp;Clause (ii) shall not apply with respect to any plan year after 2008 unless the funding target attainment percentage (determined without regard to this subparagraph) of the plan for each preceding plan year after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).
 
-#### <i>(10) Special rule for 2008</i>
+#### (10) Special rule for 2008
 
-&emsp;<i>For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.</i>
+&emsp;For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.
+
+(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935.)
 
 #### References in Text
 
@@ -464,11 +454,17 @@ The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 5
 
 The Railroad Retirement Act of 1937, referred to in subsec. (b), is act Aug. 29, 1935, ch. 812, 49 Stat. 967, as amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and which was classified principally to subchapter III (§228a et seq.) of chapter 9 of Title 45, Railroads. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305. The Railroad Retirement Act of 1974 is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45. For complete classification of these acts to the Code, see Tables.
 
-This chapter, referred to in subsec. (e)(4), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974.Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (e)(4) and (g)(5)(C)(i), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 
-2006—Subsec. (f). Pub. L. 109–280, §410(b), substituted “section 1350 of this title” for “subchapter III of this chapter, the plan shall provide that”.
+2006—Subsec. (e)(1). Pub. L. 109–280, §107(a)(9), substituted “1083(j)(4)” for “1082(d)” and “1083(j)(4)(E)(i)” for “1082(e)(5)”.
+
+Subsec. (e)(3). Pub. L. 109–280, §107(a)(10), substituted “section 1083(j)(3) of this title by reason of section 1083(j)(4)(A) of this title” for “section 1082(e) of this title by reason of paragraph (5)(A) thereof”.
+
+Subsec. (f). Pub. L. 109–280, §410(b), substituted “section 1350 of this title” for “subchapter III of this chapter, the plan shall provide that”.
+
+Subsec. (g). Pub. L. 109–280, §103(a), added subsec. (g).
 
 1997—Subsec. (d)(4), (5). Pub. L. 105–34 added pars. (4) and (5).
 
@@ -552,9 +548,11 @@ Amendment by Pub. L. 98–397 effective Jan. 1, 1985, except as otherwise provid
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280,set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “purposes”.</i>
 

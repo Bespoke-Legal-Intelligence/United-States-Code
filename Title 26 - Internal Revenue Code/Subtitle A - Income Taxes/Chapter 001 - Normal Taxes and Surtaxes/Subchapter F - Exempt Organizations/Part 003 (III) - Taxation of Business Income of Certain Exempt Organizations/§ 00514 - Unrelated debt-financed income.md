@@ -66,7 +66,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (D) Refund of taxes when subparagraph (B) applies
 
-&emsp;&emsp;If an organization for any taxable year has not used land in the manner to satisfy the actual use condition of subparagraph (B) before the time prescribed by law (including extensions thereof) for filing the return for such taxable year, the tax for such year shall be computed without regard to the application of subparagraph (B), but if and when such use condition is satisfied, the provisions of subparagraph (B) shall then be applied to such taxable year. If the actual use condition of subparagraph (B) is satisfied for any taxable year after such time for filingthe return, and if credit or refund of any overpayment for the taxable year resulting from the satisfaction of such use condition is prevented at the close of the taxable year in which the use condition is satisfied, by the operation of any law or rule of law (other than chapter 74, relating to closing agreements and compromises), credit or refund of such overpayment may nevertheless be allowed or made if claim therefor is filed before the expiration of 1 year after the close of the taxable year in which the use condition is satisfied.
+&emsp;&emsp;If an organization for any taxable year has not used land in the manner to satisfy the actual use condition of subparagraph (B) before the time prescribed by law (including extensions thereof) for filing the return for such taxable year, the tax for such year shall be computed without regard to the application of subparagraph (B), but if and when such use condition is satisfied, the provisions of subparagraph (B) shall then be applied to such taxable year. If the actual use condition of subparagraph (B) is satisfied for any taxable year after such time for filing the return, and if credit or refund of any overpayment for the taxable year resulting from the satisfaction of such use condition is prevented at the close of the taxable year in which the use condition is satisfied, by the operation of any law or rule of law (other than chapter 74, relating to closing agreements and compromises), credit or refund of such overpayment may nevertheless be allowed or made if claim therefor is filed before the expiration of 1 year after the close of the taxable year in which the use condition is satisfied.
 
 #### (E) Special rule for churches
 
@@ -262,7 +262,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (iii) Disqualified holder
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “disqualified holder” means any shareholder (or beneficiary) which is not described in clause (i) or (ii) of subparagraph (C).
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “disqualified holder” means anyshareholder (or beneficiary) which is not described in clause (i) or (ii) of subparagraph (C).
 
 #### (G) Special rules for purposes of the exceptions
 
@@ -328,7 +328,7 @@ For purposes of this section, the term “real property” includes personal pro
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the circumvention of any provision of this section through the use of segregated asset accounts.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations to prevent the circumvention of any provision of this section through the use of segregated asset accounts.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525; Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(<i>l</i>), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §866(a), Aug. 17, 2006, 120 Stat. 1025.)
 
@@ -392,7 +392,7 @@ Subsec. (c)(9)(C)(i). Pub. L. 99–514, §1878(e)(2), substituted “section 509
 
 Subsec. (c)(9)(C)(iii). Pub. L. 99–514, §1603(b), added cl. (iii).
 
-1984—Subsec. (c)(9). Pub. L. 98–369, §1034(a), amended par. (9) generally, substituting provisions relating to real property acquired by a qualified organization for provisions relating to real property acquired by a qualified trust, with “qualified organization” expanded to include trusts constituting qualified trusts under section 401 of this title as well as organizations described in section 170(b)(1)(A)(ii) of this title and their affiliated support organizations described in section 509(a) of this title.
+1984—Subsec. (c)(9). Pub. L. 98–369, §1034(a), amended par. (9) generally, substituting provisions relating to real property acquired by a qualified organization for provisions relating to real property acquired by a qualified trust, with “qualified organization” expanded toinclude trusts constituting qualified trusts under section 401 of this title as well as organizations described in section 170(b)(1)(A)(ii) of this title and their affiliated support organizations described in section 509(a) of this title.
 
 Subsec. (c)(9)(B)(iii). Pub. L. 98–369, §174(b)(5)(B), inserted reference to section 707(b).
 
@@ -482,7 +482,7 @@ Amendment by section 201(d)(9) of Pub. L. 99–514 not applicable to any propert
 
 Amendment by section 1603(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1603(c) of Pub. L. 99–514, set out as a note under section 501 of this title.
 
-Amendment by section 1878(e) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1878(e) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

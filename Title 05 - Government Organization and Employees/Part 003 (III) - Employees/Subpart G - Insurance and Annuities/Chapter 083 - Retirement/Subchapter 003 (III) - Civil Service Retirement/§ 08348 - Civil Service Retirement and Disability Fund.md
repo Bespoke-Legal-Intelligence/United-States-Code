@@ -170,7 +170,7 @@ Subsec. (m). Pub. L. 108–18, §2(d)(1)(A), struck out subsec. (m) which read a
 
 “(2) The estimated increase in the unfunded liability referred to in paragraph (1) of this subsection shall be determined by the Office after consultation with the Postal Service. The Postal Service shall pay the amount so determined to the Office in 15 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, and with the first payment thereof due at the end of the fiscal year in which the cost-of-living adjustment with respect to which the payment relates becomes effective.
 
-“(3) In determining any amount for which the Postal Service is liable under this subsection, the amount of the liability shall be prorated to reflect only that portion of total service (used in computing the benefits involved) which is attributable to civilian service performed after June 30, 1971, as estimated by the Office.”
+“(3) In determining any amount for which the Postal Service is liable under this subsection, the amount ofthe liability shall be prorated to reflect only that portion of total service (used in computing the benefits involved) which is attributable to civilian service performed after June 30, 1971, as estimated by the Office.”
 
 1998—Subsec. (g). Pub. L. 105–362 struck out at end “The Office shall report to the President and to the Congress the sums credited to the Fund under this subsection.”
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–349 effective July 1, 1971, except that the Postal Service shall not be required to make (1) the payments due June 30, 1972, June 30, 1973, and June 30, 1974, attributable to pay increases granted by the Postal Service prior to July 1, 1973, until such time as funds are appropriated to the Postal Service for that purpose, and (2) the transfer to the Civil Service Retirement and Disability Fund required by title II of the Treasury, Postal Service, and General Government Appropriation Act, 1974, Public Law 93–143, see section 3 of Pub. L. 93–349, set out as a note under section 1005 of Title 39, Postal Service.
+Amendment by Pub. L. 93–349 effective July 1, 1971, except that the Postal Service shall not be required to make (1) the payments due June 30, 1972, June 30, 1973, and June 30, 1974, attributable to pay increases granted by the Postal Service prior to July 1, 1973, until suchtime as funds are appropriated to the Postal Service for that purpose, and (2) the transfer to the Civil Service Retirement and Disability Fund required by title II of the Treasury, Postal Service, and General Government Appropriation Act, 1974, Public Law 93–143, see section 3 of Pub. L. 93–349, set out as a note under section 1005 of Title 39, Postal Service.
 
 #### Effective Date of 1969 Amendment
 
@@ -314,7 +314,7 @@ Pub. L. 101–508, title VII, §7101(c), Nov. 5, 1990, 104 Stat. 1388–331, as 
 
 #### Payments Relating to Amounts Which Would Have Been Due Before Fiscal Year 1987
 
-Pub. L. 101–508, title VII, §7103, Nov. 5, 1990, 104 Stat. 1388–333, required the United States Postal Service topay, not later than Sept. 30, 1995, into the Civil Service Retirement and Disability Fund and into the Employees Health Benefits Fund certain sums for retirement COLA and health benefits which would have been due in any pre-1987 fiscal year if certain amendments had been in effect as of July 1, 1971.
+Pub. L. 101–508, title VII, §7103, Nov. 5, 1990, 104 Stat. 1388–333, required the United States Postal Service to pay, not later than Sept. 30, 1995, into the Civil Service Retirement and Disability Fund and into the Employees Health Benefits Fund certain sums for retirement COLA and health benefits which would have been due in any pre-1987 fiscal year if certain amendments had been in effect as of July 1, 1971.
 
 #### Certain Postal Service Annuitants; Size of Annual Installments To Fund Previous Years’ COLAs
 
@@ -326,7 +326,7 @@ Section 4002(b)(3) of Pub. L. 101–239, which provided that first payment made 
 
 #### Status of Original Subsec. (g) Provisions During Period From Oct. 20, 1969 to June 30, 1970
 
-Section 103(b)(2) of Pub. L. 91–93 provided that: “Paragraph (1) of this subsection \[set out as Effective Date of 1969 Amendment note above\], shall not be held or considered to continue in effect after the enactment of this Act \[Oct. 20, 1969\], the provisions of section 8348(g) of title 5, United States Code, as in effect immediately prior to such enactment.”
+Section 103(b)(2) of Pub. L. 91–93 provided that: “Paragraph (1) of this subsection \[set out as EffectiveDate of 1969 Amendment note above\], shall not be held or considered to continue in effect after the enactment of this Act \[Oct. 20, 1969\], the provisions of section 8348(g) of title 5, United States Code, as in effect immediately prior to such enactment.”
 
 #### Inapplicability to Benefits Under Pub. L. 89–737 of Prohibition Against Payment of Increased Annuity Benefit Without Compensating Appropriation
 

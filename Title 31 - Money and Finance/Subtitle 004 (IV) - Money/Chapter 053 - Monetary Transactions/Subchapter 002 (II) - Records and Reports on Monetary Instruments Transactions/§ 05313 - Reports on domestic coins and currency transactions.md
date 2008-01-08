@@ -4,7 +4,7 @@
 
 (b) The Secretary may designate a domestic financial institution as an agent of the United States Government to receive a report under this section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 <sup>1</sup> of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b).
 
-(c)(1) A person (except a domestic financial institution designated under subsection (b) of thissection) required to file a report under this section shall file the report—
+(c)(1) A person (except a domestic financial institution designated under subsection (b) of this section) required to file a report under this section shall file the report—
 
 &emsp;(A) with the institution involved in the transaction if the institution was designated;
 
@@ -102,7 +102,7 @@ Coordination with other provisions.—Any exemption granted by the Secretary of 
 
 &emsp;&emsp;(A) the authority of the Secretary, under section 5318(a)(6), to revoke such exemption at any time; and
 
-&emsp;&emsp;(B) any requirement to report, or any authority to require a report on, any possibleviolation of any law or regulation or any suspected criminal activity.
+&emsp;&emsp;(B) any requirement to report, or any authority to require a report on, any possible violation of any law or regulation or any suspected criminal activity.
 
 (g)
 
@@ -220,7 +220,7 @@ Interim report.—The Secretary of the Treasury shall submit a report to the Con
 
 &emsp;“(3)
 
-Annual report.—The Secretary of the Treasury shall submit an annual report to the Congress after the end of each of the first 5 calendar years which begin after the date of enactment of this Act on the extent to which the Secretary has reduced the overall number of currency transaction reports filed with the Secretary pursuant to section 5313(a) of title 31, United States Code, consistent with the purposes of such section and effective law enforcement.
+Annual report.—The Secretary of the Treasury shall submit an annual report to the Congressafter the end of each of the first 5 calendar years which begin after the date of enactment of this Act on the extent to which the Secretary has reduced the overall number of currency transaction reports filed with the Secretary pursuant to section 5313(a) of title 31, United States Code, consistent with the purposes of such section and effective law enforcement.
 
 “(c)
 

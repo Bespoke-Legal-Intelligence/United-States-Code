@@ -20,7 +20,7 @@
 
 #### (b) Thresholds
 
-The Administrator may establish threshold quantities for hazardous chemicals covered by this section below which no facility shall be subject to the provisions of this section. The threshold quantities may, in the Administrator's discretion, be based on classes of chemicals or categories of facilities.
+The Administrator may establish threshold quantities for hazardous chemicals covered bythis section below which no facility shall be subject to the provisions of this section. The threshold quantities may, in the Administrator's discretion, be based on classes of chemicals or categories of facilities.
 
 #### (c) Hazardous chemicals covered
 
@@ -90,7 +90,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (C) Discretionary provision of information to public
 
-&emsp;&emsp;In the case of tier II information which is not in the possession of a State emergency response commission or local emergency planning committee and which is with respect to a hazardous chemical which a facility has stored in an amount less than 10,000 pounds present at the facility at any time during the preceding calendar year, a request from a person must include the general need for the information. The State emergency response commission or local emergency planning committee may, pursuant to paragraph (1), request the facility owner or operator for the tier II information on behalf of the person making the request. Upon receipt of any information requested on behalf of such person, the State emergency response commission or local emergency planning committee shall make the information available in accordance with section 11044 of this title to the person.
+&emsp;&emsp;In the case of tier II information which is not in the possession of a State emergencyresponse commission or local emergency planning committee and which is with respect to a hazardous chemical which a facility has stored in an amount less than 10,000 pounds present at the facility at any time during the preceding calendar year, a request from a person must include the general need for the information. The State emergency response commission or local emergency planning committee may, pursuant to paragraph (1), request the facility owner or operator for the tier II information on behalf of the person making the request. Upon receipt of any information requested on behalf of such person, the State emergency response commission or local emergency planning committee shall make the information available in accordance with section 11044 of this title to the person.
 
 #### (D) Response in 45 days
 
@@ -102,7 +102,7 @@ Upon request to an owner or operator of a facility which files an inventory form
 
 #### (g) Format of forms
 
-The Administrator shall publish a uniform format for inventory forms within three months after October 17, 1986. If the Administrator doesnot publish such forms, owners and operators of facilities subject to the requirements of this section shall provide the information required under this section by letter.
+The Administrator shall publish a uniform format for inventory forms within three months after October 17, 1986. If the Administrator does not publish such forms, owners and operators of facilities subject to the requirements of this section shall provide the information required under this section by letter.
 
 (Pub. L. 99–499, title III, §312, Oct. 17, 1986, 100 Stat. 1738.)
 

@@ -230,7 +230,7 @@ In general.—The metropolitan planning process for a metropolitan planning area
 
 &emsp;&emsp;(D) increase the accessibility and mobility of people and for freight;
 
-&emsp;&emsp;(E) protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
+&emsp;&emsp;(E) protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements andState and local planned growth and economic development patterns;
 
 &emsp;&emsp;(F) enhance the integration and connectivity of the transportation system, across and between modes, for people and freight;
 
@@ -376,7 +376,7 @@ Contents.—
 
 &emsp;&emsp;(A)
 
-Priority list.—The TIP shall include a priority list of proposed federally supported projects and strategies to be carriedout within each 4-year period after the initial adoption of the TIP.
+Priority list.—The TIP shall include a priority list of proposed federally supported projects and strategies to be carried out within each 4-year period after the initial adoption of the TIP.
 
 &emsp;&emsp;(B)
 
@@ -424,7 +424,7 @@ Requirement of anticipated full funding.—The program shall include a project, 
 
 &emsp;(4)
 
-Notice and comment.—Before approving a TIP, a metropolitan planning organization, in cooperation with the State and any affected public transportation operator, shall provide an opportunity for participation by interested parties in the development of the program, in accordance with subsection (i)(5).
+Notice and comment.—Before approving a TIP, a metropolitan planning organization,in cooperation with the State and any affected public transportation operator, shall provide an opportunity for participation by interested parties in the development of the program, in accordance with subsection (i)(5).
 
 &emsp;(5)
 
@@ -576,7 +576,7 @@ Funding.—Funds set aside under section 5305(g) of this title or section 104(f)
 
 (p)
 
-Continuation of Current Review Practice.—Since plans and TIPs described in this section are subject to a reasonable opportunityfor public comment, since individual projects included in plans and TIPs are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and TIPs described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a plan or TIP described in this section shall not be considered to be a Federal action subject to review under such Act.
+Continuation of Current Review Practice.—Since plans and TIPs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in plans and TIPs are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and TIPs described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a plan or TIP described in this section shall not be considered to be a Federal action subject to review under such Act.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–102, §2(4), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–178, title III, §§3004, 3029(b)(1)–(3), June 9, 1998, 112 Stat. 341, 372; Pub. L. 105–206, title IX, §9009(b), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §3005(a), Aug. 10, 2005, 119 Stat. 1547.)
 

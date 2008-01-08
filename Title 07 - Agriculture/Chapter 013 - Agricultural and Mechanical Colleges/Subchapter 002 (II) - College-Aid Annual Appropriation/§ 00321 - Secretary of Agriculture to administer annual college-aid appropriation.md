@@ -24,7 +24,7 @@ Prior to July 1, 1939, functions of Secretary of the Interior under this subchap
 
 #### West Virginia State College at Institute, West Virginia
 
-Pub. L. 107–76, title VII, §753, Nov. 28, 2001, 115 Stat. 740, provided that: “Hereafter, any provision of any Act of Congress relating to colleges and universities eligible to receive funds under the Act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including Tuskegee University, shall apply to West Virginia State College at Institute, West Virginia: <i>Provided</i>, That the Secretary may waive the matching funds’ requirement under section 1449 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222d) for fiscal year 2002 for West Virginia State College if the Secretary determines the State of West Virginia will be unlikely to satisfy the matching requirement.”
+Pub. L. 107–76, title VII, §753, Nov. 28, 2001, 115 Stat. 740, provided that: “Hereafter, any provision of any Actof Congress relating to colleges and universities eligible to receive funds under the Act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including Tuskegee University, shall apply to West Virginia State College at Institute, West Virginia: <i>Provided</i>, That the Secretary may waive the matching funds’ requirement under section 1449 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222d) for fiscal year 2002 for West Virginia State College if the Secretary determines the State of West Virginia will be unlikely to satisfy the matching requirement.”
 
 #### Reclamation Fund
 

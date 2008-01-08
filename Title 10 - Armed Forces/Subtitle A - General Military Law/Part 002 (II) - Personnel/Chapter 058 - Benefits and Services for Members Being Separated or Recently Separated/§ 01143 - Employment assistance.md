@@ -10,7 +10,7 @@ Employment Assistance Centers.—The Secretary of Defense shall establish perman
 
 (c)
 
-Information to Civilian Entities.—For the purpose of assisting members covered bysubsection (a) and their spouses in locating civilian employment and training opportunities, the Secretary of Defense and the Secretary of Homeland Security shall establish and implement procedures to release to civilian employers, organizations, State employment agencies, and other appropriate entities the names (and other pertinent information) of such members and their spouses. Such names may be released for such purpose only with the consent of such members and spouses.
+Information to Civilian Entities.—For the purpose of assisting members covered by subsection (a) and their spouses in locating civilian employment and training opportunities, the Secretary of Defense and the Secretary of Homeland Security shall establish and implement procedures to release to civilian employers, organizations, State employment agencies, and other appropriate entities the names (and other pertinent information) of such members and their spouses. Such names may be released for such purpose only with the consent of such members and spouses.
 
 (d)
 
@@ -148,7 +148,7 @@ Purpose.—The purpose of this subtitle is to provide additional means by which 
 
 “For the purposes of this subtitle:
 
-&emsp;“(1) The term ‘Secretary’ means the Secretary of Defense with respect to the Department of Defense and the Secretary of Transportation with respect to the Coast Guard.
+&emsp;“(1) The term ‘Secretary’ means the Secretary of Defense with respect to the Department of Defenseand the Secretary of Transportation with respect to the Coast Guard.
 
 &emsp;“(2) The terms ‘veteran’, ‘compensation’, ‘service-connected’, ‘State’, and ‘active military, naval, or air service’ have the meanings given such terms in paragraphs (2), (13), (16), (20), and (24), respectively, of section 101 of title 38, United States Code.
 
@@ -316,7 +316,7 @@ Payments.—(1)(A) Except as provided in subsections (b) and (c) and subject to 
 
 &emsp;“(ii) $10,000 for an eligible person not described in clause (i).
 
-“(C) Assistance may be paid under this subtitle on behalf of an eligible person to that person's employer for training under two or more programs of job training under this subtitle if such employer has not received (or is not due) on that person's behalf assistance in an amount aggregating the applicable amount set forth in subparagraph (B).
+“(C) Assistance may be paid under this subtitle on behalf of an eligible person to that person's employer for training under two or more programs of job training under this subtitle if such employer has not received (or is not due) on that person's behalf assistance in anamount aggregating the applicable amount set forth in subparagraph (B).
 
 “(b)
 
@@ -382,7 +382,7 @@ Period for Commencement of Participation Under Certificate.—An eligible person
 
 “(a)
 
-Failure To Meet Requirements.—If the implementing official finds at any time that a program of job training previously approved for the purposes of this subtitle thereafter fails to meet any of the requirements established under this subtitle, such official may immediately disapprove further participation by eligible persons in that program. Such official shall provide to the employer concerned, and to each eligible person participating in the employer's program, a statement of the reasons for, and an opportunity for a hearing with respect to, such disapproval. The employer and each such eligible person shall be notified of such disapproval, the reasons for such disapproval, and the opportunity for a hearing. Notification shall be by a certified or registered letter, and a return receipt shall be secured.
+Failure To Meet Requirements.—If the implementing official finds at any time that a program of job training previously approved for the purposes of this subtitle thereafter fails to meet any of the requirements established under this subtitle, such official may immediately disapprove further participation by eligible persons in that program. Such official shall provide to the employer concerned, and to each eligible personparticipating in the employer's program, a statement of the reasons for, and an opportunity for a hearing with respect to, such disapproval. The employer and each such eligible person shall be notified of such disapproval, the reasons for such disapproval, and the opportunity for a hearing. Notification shall be by a certified or registered letter, and a return receipt shall be secured.
 
 “(b)
 

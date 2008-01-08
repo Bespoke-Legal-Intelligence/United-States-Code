@@ -48,7 +48,7 @@
 
 &emsp;(9) The institution is financially sound and capable of fulfilling its commitments for training.
 
-&emsp;(10) The institution does not utilize advertising of any type which is erroneous or misleading, either by actual statement, omission, or intimation. The institution shall not bedeemed to have met this requirement until the State approving agency (A) has ascertained from the Federal Trade Commission whether the Commission has issued an order to the institution to cease and desist from any act or practice, and (B) has, if such an order has been issued, given due weight to that fact.
+&emsp;(10) The institution does not utilize advertising of any type which is erroneous or misleading, either by actual statement, omission, or intimation. The institution shall not be deemed to have met this requirement until the State approving agency (A) has ascertained from the Federal Trade Commission whether the Commission has issued an order to the institution to cease and desist from any act or practice, and (B) has, if such an order has been issued, given due weight to that fact.
 
 &emsp;(11) The institution does not exceed its enrollment limitations as established by the State approving agency.
 
@@ -72,7 +72,7 @@
 
 &emsp;(4) is a candidate for accreditation by a regional accrediting association,
 
-> if the Secretary determines, pursuant to regulations which the Secretary shall prescribe, that such requirements would work an undue administrative hardship because the total amount of tuition, fees, and other charges at such institution is nominal.
+> if the Secretary determines, pursuant to regulations which the Secretary shall prescribe, thatsuch requirements would work an undue administrative hardship because the total amount of tuition, fees, and other charges at such institution is nominal.
 
 (e) Notwithstanding any other provision of this title, a course of education shall not be approved under this section if it is to be pursued in whole or in part by independent study.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to each type of service described in subsection (b) of this section, the Secretaryshall collect and maintain up-to-date statistics, by State, and on a fiscal year basis, on—
+With respect to each type of service described in subsection (b) of this section, the Secretary shall collect and maintain up-to-date statistics, by State, and on a fiscal year basis, on—
 
 &emsp;(1) the number of cases in the caseload of the State agency administering the plan approved under this part in which the service is needed; and
 

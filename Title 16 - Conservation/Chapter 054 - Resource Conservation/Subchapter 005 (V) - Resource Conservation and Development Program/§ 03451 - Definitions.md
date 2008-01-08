@@ -50,7 +50,7 @@ In this subchapter:
 
 #### (2) Board
 
-&emsp;The term “Board” means the Resource Conservation and Development Policy AdvisoryBoard established under section 3456(a) of this title.
+&emsp;The term “Board” means the Resource Conservation and Development Policy Advisory Board established under section 3456(a) of this title.
 
 #### (3) Council
 
@@ -78,7 +78,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) any county, city, town, township, parish, village, or other general-purpose subdivision of a State; and
 
-&emsp;&emsp;(B) any local or regional special district or other limited political subdivision of a State, including any soil conservation district, school district, park authority, and water or sanitary district.
+&emsp;&emsp;(B) any local or regional special district or other limited political subdivision of aState, including any soil conservation district, school district, park authority, and water or sanitary district.
 
 #### (8) Nonprofit organization
 

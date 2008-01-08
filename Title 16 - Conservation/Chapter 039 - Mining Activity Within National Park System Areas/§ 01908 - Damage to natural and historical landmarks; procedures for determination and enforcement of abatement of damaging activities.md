@@ -8,5 +8,5 @@
 
 #### Codification
 
-Subsec. (b) provided that within 2 years the Advisory Council on Historic Preservation report to Congress on effect on surface mining activities on natural and historical landmarks, including recommendations for protective legislation.
+Subsec. (b) provided that within 2 years the Advisory Council on Historic Preservation report to Congress on effect of surface mining activities on natural and historical landmarks, including recommendations for protective legislation.
 

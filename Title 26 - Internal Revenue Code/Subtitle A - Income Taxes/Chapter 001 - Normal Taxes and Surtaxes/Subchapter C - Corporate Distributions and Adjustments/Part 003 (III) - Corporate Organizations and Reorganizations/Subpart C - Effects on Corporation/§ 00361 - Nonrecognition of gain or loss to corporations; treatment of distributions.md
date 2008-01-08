@@ -18,7 +18,7 @@ No gain or loss shall be recognized to a corporation if such corporation is a pa
 
 &emsp;&emsp;If the corporation receiving such other property or money does not distribute it in pursuance of the plan of reorganization, the gain, if any, to the corporation shall be recognized.
 
-> &emsp;The amount of gain recognized under subparagraph (B) shall not exceed the sum of themoney and the fair market value of the other property so received which is not so distributed.
+> &emsp;The amount of gain recognized under subparagraph (B) shall not exceed the sum of the money and the fair market value of the other property so received which is not so distributed.
 
 #### (2) Loss
 

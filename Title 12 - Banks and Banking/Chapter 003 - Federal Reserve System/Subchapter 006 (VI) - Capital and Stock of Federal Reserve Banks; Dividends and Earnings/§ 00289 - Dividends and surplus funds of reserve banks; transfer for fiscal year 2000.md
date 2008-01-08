@@ -24,7 +24,7 @@
 
 #### (2) Allocated by Fed
 
-&emsp;Of the total amount required to be paid by the Federal reserve banks under paragraph (1) for fiscal year 2000, the Board shall determinethe amount each such bank shall pay in such fiscal year.
+&emsp;Of the total amount required to be paid by the Federal reserve banks under paragraph (1) for fiscal year 2000, the Board shall determine the amount each such bank shall pay in such fiscal year.
 
 #### (3) Replenishment of surplus fund prohibited
 

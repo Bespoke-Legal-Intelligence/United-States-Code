@@ -22,7 +22,7 @@ State investigative or law enforcement officer.—Upon an application made under
 
 &emsp;&emsp;(iv) any information which has been collected by the device.
 
-> &emsp;To the extent that the pen register or trap and trace device can be set automatically to record this information electronically, therecord shall be maintained electronically throughout the installation and use of such device.
+> &emsp;To the extent that the pen register or trap and trace device can be set automatically to record this information electronically, the record shall be maintained electronically throughout the installation and use of such device.
 
 &emsp;(B) The record maintained under subparagraph (A) shall be provided ex parte and under seal to the court which entered the ex parte order authorizing the installation and use of the device within 30 days after termination of the order (including any extensions thereof).
 

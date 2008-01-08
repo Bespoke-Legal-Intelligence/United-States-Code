@@ -6,7 +6,7 @@ In computing years of active service of any female member of the armed forces, t
 
 #### Election of Pension or Compensation
 
-Section 2 of Pub. L. 86–142 provided that a person entitled to a pension or compensation under any law administered by the Veterans’ Administration, based on the active service described in section 1 of Pub. L. 86–142, which added section 1038 to Title 10, Armed Forces, could elect within 1 year after Aug. 7, 1959 toreceive that pension or compensation in lieu of any compensation under the Federal Employees’ Compensation Act; that such an election is irrevocable; and that the election does not entitle that person to the pension or compensation for any period before the date of election.
+Section 2 of Pub. L. 86–142 provided that a person entitled to a pension or compensation under any law administered by the Veterans’ Administration, based on the active service described in section 1 of Pub. L. 86–142, which added section 1038 to Title 10, Armed Forces, could elect within 1 year after Aug. 7, 1959 to receive that pension or compensation in lieu of any compensation under the Federal Employees’ Compensation Act; that such an election is irrevocable; and that the election does not entitle that person to the pension or compensation for any period before the date of election.
 
 #### Back Pay or Allowances
 

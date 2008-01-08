@@ -98,7 +98,7 @@ The benchmark benefit packages are as follows:
 
 &emsp;&emsp;(F) without taking into account any differences in coverage based on the method of delivery or means of cost control or utilization used; and
 
-&emsp;&emsp;(G) taking into account the ability of a State to reduce benefits by taking into account the increase in actuarial value of benefits coverage offered under the State child health plan that results from the limitations on cost sharing under such coverage.
+&emsp;&emsp;(G) taking into account the ability of a State to reduce benefits by taking into account the increase in actuarial value of benefits coverage offered under the State childhealth plan that results from the limitations on cost sharing under such coverage.
 
 > &emsp;The actuary preparing the opinion shall select and specify in the memorandum the standardized set and population to be used under subparagraphs (C) and (D).
 

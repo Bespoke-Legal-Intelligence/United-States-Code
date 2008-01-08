@@ -34,7 +34,7 @@ Not later than 180 days after achieving full-scale implementation under subsecti
 
 &emsp;(1) an evaluation of the lessons derived from the pilot system implemented under this subsection;
 
-&emsp;(2) an analysis of the efficacy of the Automated Targeting System or other relevant programs in utilizing the images captured to examine high-risk containers;
+&emsp;(2) an analysis of the efficacy of the Automated Targeting System or other relevantprograms in utilizing the images captured to examine high-risk containers;
 
 &emsp;(3) an evaluation of the effectiveness of the integrated scanning system in detecting shielded and unshielded nuclear and radiological material;
 

@@ -36,7 +36,7 @@ If the Secretary determines that the environmental values of 2 or more applicati
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the cost-share payments provided to a producerproposing to implement 1 or more practices under the program shall be not more than 75 percent of the cost of the practice, as determined by the Secretary.
+&emsp;Except as provided in paragraph (2), the cost-share payments provided to a producer proposing to implement 1 or more practices under the program shall be not more than 75 percent of the cost of the practice, as determined by the Secretary.
 
 #### (2) Exceptions
 
@@ -50,7 +50,7 @@ If the Secretary determines that the environmental values of 2 or more applicati
 
 #### (3) Other payments
 
-&emsp;A producer shall not be eligible for cost-share payments for practices on eligible land under the program if the producer receives cost-share payments or other benefits for the same practice on the same land under part I of this subchapter and the program.
+&emsp;A producer shall not be eligible for cost-share payments for practices on eligible landunder the program if the producer receives cost-share payments or other benefits for the same practice on the same land under part I of this subchapter and the program.
 
 #### (e) Incentive payments
 

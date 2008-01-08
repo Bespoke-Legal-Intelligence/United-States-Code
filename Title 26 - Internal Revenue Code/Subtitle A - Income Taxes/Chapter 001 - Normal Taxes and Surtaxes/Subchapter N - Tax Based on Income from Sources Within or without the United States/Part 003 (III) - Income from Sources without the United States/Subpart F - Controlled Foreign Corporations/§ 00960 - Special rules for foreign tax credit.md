@@ -20,7 +20,7 @@
 
 &emsp;In the case of any taxpayer who—
 
-&emsp;&emsp;(A) either (i) chose to have the benefits of subpart A of this part for a taxable year beginning after September 30, 1993, in which he was required under section 951(a) to include any amount in his gross income, or (ii) did not pay or accrue for such taxable year any income, war profits, or excess profits taxes to any foreign country or to any possession of the United States,
+&emsp;&emsp;(A) either (i) chose to have the benefits of subpart A of this part for a taxable year beginning after September 30, 1993, in which he was required under section 951(a) to include any amount in his gross income, or (ii) didnot pay or accrue for such taxable year any income, war profits, or excess profits taxes to any foreign country or to any possession of the United States,
 
 &emsp;&emsp;(B) chooses to have the benefits of subpart A of this part for any taxable year in which he receives 1 or more distributions or amounts which are excludable from gross income under section 959(a) and which are attributable to amounts included in his gross income for taxable years referred to in subparagraph (A), and
 
@@ -110,7 +110,7 @@ Amendment by section 1031(b)(1) of Pub. L. 94–455 applicable to taxable years 
 
 Amendment by section 1033(b)(2) of Pub. L. 94–455 applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1977, and in respect of any distribution received by a domestic corporation before Jan. 1, 1978, in a taxable year of such corporation beginning after Dec. 31, 1975, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year beginning after Dec. 31, 1975, see section 1033(c) of Pub. L. 94–455, set out as a note under section 902 of this title.
 
-Section 1037(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to earnings and profits of a foreign corporation, included, under section 951(a)of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the gross income of a domestic corporation in taxable years beginning after December 31, 1976.”
+Section 1037(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to earnings and profits of a foreign corporation, included, under section 951(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the gross income of a domestic corporation in taxable years beginning after December 31, 1976.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Reconciliation”.</i>
 

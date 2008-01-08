@@ -6,7 +6,7 @@ The Secretary shall take appropriate action to encourage conservation of the his
 
 #### (b) Prioritization of grants
 
-Within the historic district, the Secretary shall give priority in making grants under section 101(d), and in providing technical assistance, information, and advice under section 101(h), of the National Historic Preservation Act (16 U.S.C. 470a(d), (h)) to those programs and activities in the historic district that will assure development and use of natural and cultural resources in a manner that is consistent with the conservation and maintenance of the district's historic character.
+Within the historic district, the Secretary shall give priority in making grants under section 101(d),<sup>1</sup> and in providing technical assistance, information, and advice under section 101(h),<sup>1</sup> of the National Historic Preservation Act (16 U.S.C. 470a(d), (h)) to those programs and activities in the historic district that will assure development and use of natural and cultural resources in a manner that is consistent with the conservation and maintenance of the district's historic character.
 
 #### (c) Provision of technical assistance
 
@@ -24,7 +24,7 @@ The Secretary, upon recommendation from the Director of the National Park Servic
 
 (1) Any Federal or federally assisted activity or undertaking in the historic district, shall be consistent to the maximum extent possible with the purposes of the preservation of the historic district, including its rural, agricultural, and town elements, and shall also comply with the National Historic Preservation Act \[16 U.S.C. 470 et seq.\] and other applicable laws.
 
-(2) The head of any Federal agency (hereafter in this subsection referred to as the “agency”) having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in the historic district, and the head of any Federal agency having authority to license or permit any undertaking in such area, shall at the earliest feasible date prepare a detailed analysis of any proposed action and submit it to the Secretary.
+(2) The head of any Federal agency (hereafter in this subsection referred to as the “agency”)having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in the historic district, and the head of any Federal agency having authority to license or permit any undertaking in such area, shall at the earliest feasible date prepare a detailed analysis of any proposed action and submit it to the Secretary.
 
 (3) The Secretary shall review the analysis and consult with the agency. If after such review and consultation, the Secretary finds that the proposed action is not consistent with the purposes identified in this subsection, the agency shall not proceed with the action until after a justification for the action has been submitted to the appropriate committees of Congress with adequate time allowed for Congressional comment. Such justification shall include the following elements: the anticipated effects on the historic and commemorative character of the historic district, the social and economic necessity for the proposed action, all possible alternatives to the proposed action, the comparative benefits of proposed alternative actions, and the mitigation measures outlined in the proposed action.
 
@@ -32,5 +32,9 @@ The Secretary, upon recommendation from the Director of the National Park Servic
 
 #### References in Text
 
+Subsections (d) and (h) of section 101 of the National Historic Preservation Act, referred to in subsec. (b), were redesignated as subsecs. (e) and (i), respectively, of that section by Pub. L. 102–575, title XL, §4006(a)(1), Oct. 30, 1992, 106 Stat. 4755, and are classified to subsecs. (e) and (i), respectively, of section 470a of this title.
+
 The National Historic Preservation Act, referred to in subsec. (f)(1), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470(a) of this title and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

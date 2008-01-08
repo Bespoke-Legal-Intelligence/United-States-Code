@@ -4,7 +4,7 @@ The Commission shall make the indemnity payment specified by section 2365 of thi
 
 &emsp;(a) notice is given to the Commission at a time when the conditions of section 2364 of this title are satisfied;
 
-&emsp;(b) the sale is made within such time as the Commission may prescribe and in a manner which the Commission determined to afford adequate assurance of a fair price without excessive costs; and
+&emsp;(b) the sale is made within such time as the Commission may prescribe and in a mannerwhich the Commission determined to afford adequate assurance of a fair price without excessive costs; and
 
 &emsp;(c) the Commission is given such prior notice of the sale and such opportunity to become a purchaser as it shall prescribe.
 

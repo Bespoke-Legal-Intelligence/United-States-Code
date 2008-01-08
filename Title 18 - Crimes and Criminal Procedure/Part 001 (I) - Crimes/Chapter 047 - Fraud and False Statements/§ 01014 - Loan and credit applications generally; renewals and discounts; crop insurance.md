@@ -18,7 +18,7 @@ Eight of the consolidated sections contained identical punishment, each providin
 
 The punishment by maximum fine of $5,000 or maximum imprisonment of 2 years, or both, provided in this consolidated section was adopted as most consistent with the greater number of comparable sections. (See sections 1008 and 1010 of this title.) This is a reasonable reconciliation of the conflicting punishment provisions and adequate for the offenses described.
 
-The enumeration of “application, advance, discount, purchase, purchase agreement, repurchase agreement,commitment, or loan” and the wording “or any change or extension of any of the same, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor” does not occur in any one of the original sections, but such enumeration and such wording are adequate, and they represent a composite of terms and transactions mentioned in each.
+The enumeration of “application, advance, discount, purchase, purchase agreement, repurchase agreement, commitment, or loan” and the wording “or any change or extension of any of the same, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor” does not occur in any one of the original sections, but such enumeration and such wording are adequate, and they represent a composite of terms and transactions mentioned in each.
 
 In addition, changes were made in phraseology to secure uniformity of style, and some rephrasing was necessary, but the consolidation was without change of substance except as above indicated.
 

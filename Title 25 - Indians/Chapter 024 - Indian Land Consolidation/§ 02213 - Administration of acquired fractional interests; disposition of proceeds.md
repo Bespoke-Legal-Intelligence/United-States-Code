@@ -32,7 +32,7 @@ Subject to the conditions described in subsection (b)(1) of this section, an Ind
 
 &emsp;&emsp;(B) in the discretion of the Secretary, it will take an unreasonable period of time for the parcel of land to generate revenue that equals the purchase price paid for the interest; or
 
-&emsp;&emsp;(C) a subsequent decrease in the value of land or commodities associated with the parcel of land make it likely that the interest will be unable to generate revenue that equals the purchase price paid for the interest in a reasonable time.
+&emsp;&emsp;(C) a subsequent decrease in the value of land or commodities associated with theparcel of land make it likely that the interest will be unable to generate revenue that equals the purchase price paid for the interest in a reasonable time.
 
 #### (4) Removal of liens upon payment into the acquisition fund
 

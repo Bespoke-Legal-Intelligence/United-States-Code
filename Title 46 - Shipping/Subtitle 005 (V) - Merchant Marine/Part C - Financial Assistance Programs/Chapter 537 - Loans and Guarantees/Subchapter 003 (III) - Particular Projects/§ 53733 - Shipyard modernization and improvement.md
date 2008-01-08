@@ -44,7 +44,7 @@ Amount of Obligation.—The principal amount of an obligation guaranteed under t
 
 (e)
 
-Transfer of Amounts.—The Secretary may accept the transfer of amounts from a department, agency, or instrumentality of the United States Government and may use those amounts to cover the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a)) of making guarantees or commitments to guarantee under this section.
+Transfer of Amounts.—The Secretary may accept the transfer of amounts from a department, agency, or instrumentality of the United States Government and may use those amounts to cover the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 (2U.S.C. 661a)) of making guarantees or commitments to guarantee under this section.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1623; Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(K), Jan. 6, 2006, 119 Stat. 3555.)
 

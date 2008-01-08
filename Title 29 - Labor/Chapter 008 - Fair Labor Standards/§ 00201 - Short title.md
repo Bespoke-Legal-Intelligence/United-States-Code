@@ -4,9 +4,13 @@ This chapter may be cited as the “Fair Labor Standards Act of 1938”.
 
 (June 25, 1938, ch. 676, §1, 52 Stat. 1060.)
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–28, title VIII, §8101, May 25, 2007, 121 Stat. 188, provided that: “This subtitle \[subtitle A (§§8101–8104) of title VIII of Pub. L. 110–28, amendingsection 206 of this title, repealing sections 205 and 208 of this title, and enacting provisions set out as notes under section 206 of this title\] may be cited as the ‘Fair Minimum Wage Act of 2007’.”
+
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–202, §1, May 18, 2000, 114 Stat. 308, provided that: “This Act \[amending section 207 of this title andenacting provisions set out as notes under section 207 of this title\] may be cited as the ‘Worker Economic Opportunity Act’.”
+Pub. L. 106–202, §1, May 18, 2000, 114 Stat. 308, provided that: “This Act \[amending section 207 of this title and enacting provisions set out as notes under section 207 of this title\] may be cited as the ‘Worker Economic Opportunity Act’.”
 
 #### Short Title of 1998 Amendments
 

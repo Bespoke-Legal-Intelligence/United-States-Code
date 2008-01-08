@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(A) implementing programs to upgrade reading and other academic skills of limited English proficient children;
 
-&emsp;&emsp;(B) developing and using educational technology to improve learning, assessments,and accountability to meet the needs of limited English proficient children;
+&emsp;&emsp;(B) developing and using educational technology to improve learning, assessments, and accountability to meet the needs of limited English proficient children;
 
 &emsp;&emsp;(C) implementing scientifically based research programs to meet the needs of limited English proficient children;
 

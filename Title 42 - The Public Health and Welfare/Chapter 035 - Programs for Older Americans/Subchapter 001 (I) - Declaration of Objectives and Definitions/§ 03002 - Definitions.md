@@ -62,7 +62,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(i) comprehensive assessment of the older individual (including the physical, psychological, and social needs of the individual);
 
-&emsp;&emsp;&emsp;(ii) development and implementation of a service plan with the older individual tomobilize the formal and informal resources and services identified in the assessment to meet the needs of the older individual, including coordination of the resources and services—
+&emsp;&emsp;&emsp;(ii) development and implementation of a service plan with the older individual to mobilize the formal and informal resources and services identified in the assessment to meet the needs of the older individual, including coordination of the resources and services—
 
 &emsp;&emsp;&emsp;&emsp;(I) with any other plans that exist for various formal services, such as hospital discharge plans; and
 
@@ -90,7 +90,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(C) nutritional counseling and educational services for individuals and their primary caregivers;
 
-&emsp;&emsp;(D) evidence-based health promotion programs, including programs related to the prevention and mitigation of the effects of chronic disease (including osteoporosis, hypertension, obesity, diabetes, and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, stress management, falls prevention, physical activity, and improved nutrition;
+&emsp;&emsp;(D) evidence-based health promotion programs, including programs related to the prevention and mitigation of the effects ofchronic disease (including osteoporosis, hypertension, obesity, diabetes, and cardiovascular disease), alcohol and substance abuse reduction, smoking cessation, weight loss and control, stress management, falls prevention, physical activity, and improved nutrition;
 
 &emsp;&emsp;(E) programs regarding physical fitness, group exercise, and music therapy, art therapy, and dance-movement therapy, including programs for multigenerational participation that are provided by—
 
@@ -128,7 +128,7 @@ For the purposes of this chapter—
 
 &emsp;(18)(A) The term “exploitation” means the fraudulent or otherwise illegal, unauthorized, or improper act or process of an individual, including a caregiver or fiduciary, that uses the resources of an older individual for monetary or personal benefit, profit, or gain, or that results in depriving an older individual of rightful access to, or use of, benefits, resources, belongings, or assets.
 
-&emsp;(B) In subparagraph (A), the term “caregiver” means an individual who has the responsibility for the care of an older individual, either voluntarily, by contract, by receipt ofpayment for care, or as a result of the operation of law and means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) compensated or uncompensated care to an older individual.
+&emsp;(B) In subparagraph (A), the term “caregiver” means an individual who has the responsibility for the care of an older individual, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law and means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) compensated or uncompensated care to an older individual.
 
 &emsp;(19) The term “family violence” has the same meaning given the term in the Family Violence Prevention and Services Act \[42 U.S.C. 10401 et seq.\].
 
@@ -220,7 +220,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(i) with respect to long-term care—
 
-&emsp;&emsp;&emsp;&emsp;(I) long-term care items or services provided under a State plan for medical assistance under the Medicaid program established under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.), including nursing facility services, homeand community-based services, personal care services, and case management services provided under the plan; and
+&emsp;&emsp;&emsp;&emsp;(I) long-term care items or services provided under a State plan for medical assistance under the Medicaid program established under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.), including nursing facility services, home and community-based services, personal care services, and case management services provided under the plan; and
 
 &emsp;&emsp;&emsp;&emsp;(II) any other supports, items, or services that are available under any federally funded long-term care program; and
 
@@ -390,7 +390,7 @@ Par. (21). Pub. L. 106–501, §101(3), redesignated par. (22) as (21). Former p
 
 Par. (22). Pub. L. 106–501, §101(5), redesignated par. (24) as (22). Former par. (22) redesignated (21).
 
-Par. (23). Pub. L. 106–501, §101(5), redesignated par. (25) as (23) and struck out former par. (23) which read as follows: “The term ‘dance-movement therapy’ means the use of psychotherapeutic movement as a process facilitated by a dance-movement therapist, to further the emotional, cognitive, or physical health of an older individual.”
+Par. (23). Pub. L. 106–501, §101(5), redesignated par. (25) as (23) and struck out former par. (23) which read as follows: “The term ‘dance-movement therapy’ means the use of psychotherapeutic movement as a process facilitated by a dance-movement therapist, to further theemotional, cognitive, or physical health of an older individual.”
 
 Pars. (24) to (31). Pub. L. 106–501, §101(5), redesignated pars. (26) to (33) as (24) to (31), respectively. Former pars. (24) and (25) redesignated (22) and (23), respectively.
 

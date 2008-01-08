@@ -2,7 +2,7 @@
 
 (a)
 
-Review and Revision of Existing Regulations.—The Secretary of Transportation shall review existing regulations on railroad power brakes and, not later than December 31, 1993, revise the regulations based on safety information presented during the review. Where applicable, the Secretary shall prescribe regulations that establish standards on dynamic braking equipment.
+Review and Revision of Existing Regulations.—The Secretary of Transportation shall review existing regulations on railroad power brakes and, not later than December 31, 1993, revise the regulations based on safety informationpresented during the review. Where applicable, the Secretary shall prescribe regulations that establish standards on dynamic braking equipment.
 
 (b) 2-
 
@@ -10,7 +10,7 @@ Way End-of-Train Devices.—(1) The Secretary shall require 2-way end-of-train d
 
 &emsp;(A) establish standards for the devices based on performance;
 
-&emsp;(B) prohibit a railroad carrier, on or after the date that is one year after the regulationsare prescribed, from acquiring any end-of-train device for use on trains that is not a 2-way device meeting the standards established under clause (A) of this paragraph;
+&emsp;(B) prohibit a railroad carrier, on or after the date that is one year after the regulations are prescribed, from acquiring any end-of-train device for use on trains that is not a 2-way device meeting the standards established under clause (A) of this paragraph;
 
 &emsp;(C) require that the trains be equipped with 2-way end-of-train devices meeting those standards not later than 4 years after the regulations are prescribed; and
 

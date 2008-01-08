@@ -54,7 +54,7 @@ For purposes of subsection (a) of this section, discrimination includes—
 
 #### References in Text
 
-For the effective date of this section, referred to in subsec. (b)(3), (5), see section 310 of Pub. L. 101–336, set out as an Effective Date note under section 12181 of this title.
+For the effective date of this section, referred to in subsec. (b)(3), (5), see section 310 of Pub. L. 101–336, setout as an Effective Date note under section 12181 of this title.
 
 The effective date of this paragraph, referred to in subsec. (b)(6), is 18 months after July 26, 1990, see section 310(a) of Pub. L. 101–336, set out as an Effective Date note under section 12181 of this title.
 

@@ -1,7 +1,5 @@
 ### \[§§5701 to 5711. Repealed. Pub. L. 96–513, title III, §333, Dec. 12, 1980, 94 Stat. 2897\]
 
-§5711
-
 Section 5701, acts Aug. 10, 1956, ch. 1041, 70A Stat. 336; Feb. 26, 1970, Pub. L. 91–199, §1, 84 Stat. 16, related to convening by Secretary of Navy at least annually of selection boards to recommend male officers in line of Navy for promotion and continuation on active list. See section 611 of this title.
 
 Section 5702, acts Aug. 10, 1956, ch. 1041, 70A Stat. 337; Aug. 21, 1957, Pub. L. 85–155, title II, §201(5), 71 Stat. 381; Nov. 8, 1967, Pub. L. 90–130, §1(18)(A)–(H), 81 Stat. 377; Dec. 8, 1967, Pub. L. 90–179, §12, 81 Stat. 549, related to convening of selection boards to recommend staff corps officers, other than women officers appointed under former section 5590 of this title, for promotion and continuation on active list. See section 611 of this title.

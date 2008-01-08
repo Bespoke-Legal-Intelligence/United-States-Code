@@ -28,7 +28,7 @@
 
 &emsp;(A) filed with the Secretary of Veterans Affairs by the end of the first year after the date of the death of the individual entitled to payment; and
 
-&emsp;(B) completed by submitting the necessary evidence by the 6th month after the date theSecretary of Veterans Affairs requests the evidence.
+&emsp;(B) completed by submitting the necessary evidence by the 6th month after the date the Secretary of Veterans Affairs requests the evidence.
 
 (2) Payment shall include only amounts due at the time of death under ratings or decisions existing at the time of the death.
 

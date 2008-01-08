@@ -30,7 +30,7 @@ The purposes of the Foundation shall be—
 
 #### (1) In general
 
-&emsp;The Board of Directors shall be the governing body of the Foundation. The Board may exercise, or provide for the exercise of, the powers of the Foundation.
+&emsp;The Board of Directors shall be the governing body of the Foundation. The Board mayexercise, or provide for the exercise of, the powers of the Foundation.
 
 #### (2) Selection
 
@@ -68,7 +68,7 @@ The Foundation—
 
 &emsp;(3) may make contracts, subject to the limitations of this subchapter;
 
-&emsp;(4) may acquire (through a gift or otherwise), own, lease, encumber, and transfer realor personal property as necessary or convenient to carry out the purposes of the Foundation;
+&emsp;(4) may acquire (through a gift or otherwise), own, lease, encumber, and transfer real or personal property as necessary or convenient to carry out the purposes of the Foundation;
 
 &emsp;(5) may sue and be sued; and
 

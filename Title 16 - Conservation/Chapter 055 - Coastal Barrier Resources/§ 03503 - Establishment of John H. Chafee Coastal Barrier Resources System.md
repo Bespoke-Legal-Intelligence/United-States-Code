@@ -120,7 +120,7 @@ Subsec. (a). Pub. L. 106–167, §3(c)(3)(B), substituted “the John H. Chafee 
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -156,7 +156,7 @@ System unit.—The term ‘System unit’ has the meaning given the term in sect
 
 “(a)
 
-In General.—Not later than 2 years after the date of enactment of this Act \[May 25, 2006\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report regarding the digital maps of the System units and otherwise protected areas created under the pilot project.
+In General.—Not later than 2 years after the date of enactment of this Act \[May 25, 2006\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report regarding the digital maps of the System units and otherwise protected areas created under the pilot project.
 
 “(b)
 
@@ -228,7 +228,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—Not later than 5 years after the submission of the report under section 3(a), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report regarding the digital maps created under this section.
+In general.—Not later than 5 years after the submission of the report under section 3(a), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report regarding the digital maps created under this section.
 
 &emsp;“(2)
 
@@ -252,7 +252,7 @@ Contents.—The report required under paragraph (1) shall contain—
 
 &emsp;&emsp;“(C) recommendations for the adoption of the digital maps created under this section by Congress;
 
-&emsp;&emsp;“(D) recommendations for expansion of the John H. Chafee Coastal Barrier Resources System andotherwise protected areas, as in existence on the date of enactment of this Act \[May 25, 2006\];
+&emsp;&emsp;“(D) recommendations for expansion of the John H. Chafee Coastal Barrier Resources System and otherwise protected areas, as in existence on the date of enactment of this Act \[May 25, 2006\];
 
 &emsp;&emsp;“(E) a summary and update on the implementation and use of the digital maps created under the pilot project; and
 
@@ -320,7 +320,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—Not later than 3 years after the date of enactment of this Act \[Nov. 13, 2000\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report that describes the results of the pilot project and the feasibility, data needs, and costs of completing digital maps for the entire System.
+In general.—Not later than 3 years after the date of enactment of this Act \[Nov. 13, 2000\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report that describes the results of the pilot project and the feasibility, data needs, and costs of completing digital maps for the entire System.
 
 &emsp;“(2)
 

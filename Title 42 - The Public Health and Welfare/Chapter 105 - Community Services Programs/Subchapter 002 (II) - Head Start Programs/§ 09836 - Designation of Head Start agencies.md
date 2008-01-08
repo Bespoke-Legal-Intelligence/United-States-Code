@@ -1,90 +1,260 @@
 ### §9836. Designation of Head Start agencies
 
-#### (a) Authorization; prerequisites
+#### (a) Authority to designate
 
-The Secretary is authorized to designate as a Head Start agency any local public or private nonprofit or for-profit agency, within a community, which (1) has the power and authority to carry out the purposes of this subchapter and perform the functions set forth in section 9837 of this title within a community; and (2) is determined by the Secretary (in consultation with the chief executive officer of the State involved, if such State expends non-Federal funds to carry out Head Start programs) to be capable of planning, conducting, administering, and evaluating, either directly or by other arrangements, a Head Start program.
+#### (1) In general
 
-#### (b) Definition
+&emsp;The Secretary is authorized to designate as a Head Start agency any local public or private nonprofit agency, including community-based and faith-based organizations, or for-profit agency, within a community, pursuant to the requirements of this section.
 
-For purposes of this subchapter, a community may be a city, county, or multicity or multicounty unit within a State, an Indian reservation (including Indians in any off-reservation area designated by an appropriate tribal government in consultation with the Secretary), or a neighborhood or other area (irrespective of boundaries or political subdivisions) which provides a suitable organizational base and possesses the commonality of interest needed to operate a Head Start program.
+#### (2) Interim policy
 
-#### (c) Priority
+&emsp;Notwithstanding paragraph (1), until such time as the Secretary develops and implements the system for designation renewal under this section, the Secretary is authorized to designate as a Head Start agency, any local public or private nonprofit agency, including community-based and faith-based organizations, or for-profit agency, within a community, in the manner and process utilized by the Secretary prior to December 12, 2007.
 
-(1) In the administration of the provisions of this section (subject to paragraph (2)), the Secretary shall, in consultation with the chief executive officer of the State involved if such State expends non-Federal funds to carry out Head Start programs, give priority in the designation of Head Start agencies to any local public or private nonprofit or for-profit agency which is receiving funds under any Head Start program on August 13, 1981, unless the Secretary determines that the agency involved fails to meet program and financial management requirements, performance standards described in section 9836a(a)(1) of this title, results-based performance measures developed by the Secretary under section 9836a(b) of this title, or other requirements established by the Secretary.
+#### (b) Application for designation renewal
 
-(2) If there is no agency of the type referred to in paragraph (1) because of any change in the assistance furnished to programs for economically disadvantaged persons, the Secretary shall, in consultation with the chief executive officer of the State if such State expends non-Federal funds to carry out Head Start programs, give priority in the designation of Head Start agencies to any successor agency that is operating a Head Start program in substantially the same manner as the predecessor agency that did receive funds in the fiscal year preceding the fiscal year for which the determination is made.
+To be considered for designation renewal, an entity shall submit an application to the Secretary, at such time and in such manner as the Secretary may require.
 
-(3) Notwithstanding any other provision of this subsection, the Secretary shall not give such priority to any agency with respect to which financial assistance has been terminated, or an application for refunding has been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title.
+#### (c) System for designation renewal
 
-#### (d) Designation; Head Start agency; qualified applicants
+#### (1) In general
 
-If no entity in a community is entitled to the priority specified in subsection (c) of this section, then the Secretary may designate a Head Start agency from among qualified applicants in such community. In selecting from among qualified applicants for designation as a Head Start agency, the Secretary shall give priority to any qualified agency that functioned as a Head Start delegate agency in the community and carried out a Head Start program that the Secretary determines met or exceeded such performance standards and such results-based performance measures. In selecting from among qualified applicants for designation as a Head Start agency, the Secretary shall consider the effectiveness of each such applicant to provide Head Start services, based on—
+&emsp;The Secretary shall develop a system for designation renewal that integrates the recommendations of the expert panel convened under paragraph (2) to determine if a Head Start agency is delivering a high-quality and comprehensive Head Start program that meets the educational, health, nutritional, and social needs of the children and families it serves, and meets program and financial management requirements and standards described in section 9836a(a)(1) of this title, based on—
 
-&emsp;(1) any past performance of such applicant in providing services comparable to Head Start services, including how effectively such applicant provided such comparable services;
+&emsp;&emsp;(A) annual budget and fiscal management data;
 
-&emsp;(2) the plan of such applicant to provide comprehensive health, nutritional, educational, social, and other services needed to aid participating children in attaining their full potential;
+&emsp;&emsp;(B) program reviews conducted under section 9836a(c) of this title;
 
-&emsp;(3) the plan of such applicant to coordinate the Head Start program it proposes to carry out, with other preschool programs, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.) and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C. 1431–1444, 1419), and with the educational programs such children will enter at the age of compulsory school attendance;
+&emsp;&emsp;(C) annual audits required under section 9842 of this title;
 
-&emsp;(4) the plan of such applicant—
+&emsp;&emsp;(D) classroom quality as measured under section 9836a(c)(2)(F) of this title; and
 
-&emsp;&emsp;(A) to seek the involvement of parents of participating children in activities (at home and in the center involved where practicable) designed to help such parents become full partners in the education of their children;
+&emsp;&emsp;(E) Program Information Reports.
 
-&emsp;&emsp;(B) to afford such parents the opportunity to participate in the development, conduct, and overall performance of the program at the local level;
+#### (2) Expert panel
 
-&emsp;&emsp;(C) to offer (directly or through referral to local entities, such as entities carrying out Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.), public and school libraries, and family support programs) to such parents—
+&emsp;Not later than 3 months after December 12, 2007, the Secretary shall convene an expert panel of 7 members to make recommendations to the Secretary on the development of a transparent, reliable, and valid system for designation renewal.
 
-&emsp;&emsp;&emsp;(i) family literacy services; and
+#### (3) Composition of expert panel
 
-&emsp;&emsp;&emsp;(ii) parenting skills training;
+&emsp;The Secretary, in convening such panel, shall appoint the following:
 
-&emsp;&emsp;(D) to offer to parents of participating children substance abuse counseling (either directly or through referral to local entities), including information on drug-exposed infants and fetal alcohol syndrome;
+&emsp;&emsp;(A)(i) One member, who has demonstrated competency, as evidenced by training, expertise, and experience, in early childhood program accreditation.
 
-&emsp;&emsp;(E) at the option of such applicant, to offer (directly or through referral to local entities) to such parents—
+&emsp;&emsp;(ii) One member, who has demonstrated competency (as so evidenced) in research on early childhood development.
 
-&emsp;&emsp;&emsp;(i) training in basic child development;
+&emsp;&emsp;(iii) One member, who has demonstrated competency (as so evidenced) in governance and finance of nonprofit organizations.
 
-&emsp;&emsp;&emsp;(ii) assistance in developing communication skills;
+&emsp;&emsp;(iv) One member, who has demonstrated competency (as so evidenced) in delivery of services to populations of children with special needs and their families.
 
-&emsp;&emsp;&emsp;(iii) opportunities for parents to share experiences with other parents; or
+&emsp;&emsp;(v) One member, who has demonstrated competency (as so evidenced) in assessment and evaluation of programs serving young children.
 
-&emsp;&emsp;&emsp;(iv) any other activity designed to help such parents become full partners in the education of their children; and
+&emsp;&emsp;(B) An employee from the Office of Head Start.
 
-&emsp;&emsp;(F) to provide, with respect to each participating family, a family needs assessment that includes consultation with such parents about the benefits of parent involvement and about the activities described in subparagraphs (C), (D), and (E) in which such parents may choose to become involved (taking into consideration their specific family needs, work schedules, and other responsibilities);
+&emsp;&emsp;(C) An executive director of a Head Start agency.
 
-&emsp;(5) the ability of such applicant to carry out the plans described in paragraphs (2), (3), and (4);
+#### (4) Expert panel report
 
-&emsp;(6) other factors related to the requirements of this subchapter;
+&emsp;Within 9 months after being convened by the Secretary, the expert panel shall issue a report to the Secretary that provides recommendations on a proposed system for designation renewal that takes into account the criteria in subparagraphs (A) through (E) of paragraph (1) to evaluate whether a Head Start agency is fulfilling its mission to deliver a high-quality and comprehensive Head Start program, including adequately meeting its governance, legal, and financial management requirements.
 
-&emsp;(7) the plan of such applicant to meet the needs of non-English background children and their families, including needs related to the acquisition of the English language;
+#### (5) Public comment and consideration
 
-&emsp;(8) the plan of such applicant to meet the needs of children with disabilities;
+&emsp;Not later than 3 months after receiving the report described in paragraph (4), the Secretary shall publish a notice describing a proposed system for designation renewal in the Federal Register, including a proposal for the transition to such system, providing at least 90 days for public comment. The Secretary shall review and consider public comments prior to finalizing the system for designation renewal described in this subsection.
 
-&emsp;(9) the plan of such applicant who chooses to assist younger siblings of children who will participate in the proposed Head Start program to obtain health services from other sources; and
+#### (6) Designation renewal system
 
-&emsp;(10) the plan of such applicant to collaborate with other entities carrying out early childhood education and child care programs in the community.
+&emsp;Not later than 12 months after publishing a notice describing the proposed system under paragraph (5), the Secretary shall implement the system for designation renewal and use that system to determine—
 
-#### (e) Designation of agency on an interim basis
+&emsp;&emsp;(A) whether a Head Start grantee is successfully delivering a high-quality and comprehensive Head Start program; and
 
-If no agency in the community receives priority designation under subsection (c) of this section, and there is no qualified applicant in the community, the Secretary shall designate a qualified agency to carry out the Head Start program in the community on an interim basis until a qualified applicant from the community is so designated.
+&emsp;&emsp;(B) whether the grantee has any unresolved deficiencies found during the last triennial review under section 9836a(c) of this title.
 
-#### (f) Involvement of parents and area residents in selection of agencies
+#### (7) Implementation of the designation renewal system
 
-The Secretary shall require that the practice of significantly involving parents and area residents affected by the program in selection of Head Start agencies be continued.
+#### (A) In general
 
-#### (g) Priority for nonprofit agencies and applicants with demonstrated capacity
+&emsp;&emsp;A grantee who is determined under such system—
 
-If the Secretary determines that a nonprofit agency and a for-profit agency have submitted applications for designation of equivalent quality under subsection (d) of this section, the Secretary may give priority to the nonprofit agency. In selecting from among qualified applicants for designation as a Head Start agency under subsection (d) of this section, the Secretary shall give priority to applicants that have demonstrated capacity in providing comprehensive early childhood services to children and their families.
+&emsp;&emsp;&emsp;(i) to be delivering a high-quality and comprehensive Head Start program shall be designated (consistent with section 9838 of this title) as a Head Start agency for the period of 5 years described in section 9833 of this title;
 
-(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712; Pub. L. 108–446, title III, §305(<i>l</i>)(3), Dec. 3, 2004, 118 Stat. 2806.)
+&emsp;&emsp;&emsp;(ii) to not be delivering a high-quality and comprehensive Head Start program shall be subject to an open competition as described in subsection (d); and
+
+&emsp;&emsp;&emsp;(iii) in the case of an Indian Head Start agency, to not be delivering a high-quality and comprehensive Head Start program shall (notwithstanding clause (ii)) be subject to the requirements of subparagraph (B).
+
+#### (B) Tribal government consultation and reevaluation
+
+&emsp;&emsp;On making a determination described in subparagraph (A)(iii), the Secretary shall engage in government-to-government consultation with the appropriate tribal government or governments for the purpose of establishing a plan to improve the quality of Head Start programs operated by the Indian Head Start agency. Such plan shall be established and implemented within 6 months after the Secretary's determination. Not more than 6 months after the implementation of that plan, the Secretary shall reevaluate the performance of the Indian Head Start agency. If the Indian Head Start agency is still not delivering a high-quality and comprehensive Head Start program, the Secretary shall conduct an open competition as described in subsection (d), subject to the limitations described in subsection (e).
+
+#### (8) Transparency, reliability, and validity
+
+&emsp;The Secretary shall ensure the system for designation renewal is fair, consistent, and transparent and is applied in a manner that renews designations, in a timely manner, grantees as Head Start agencies for periods of 5 years if such grantees are delivering high-quality and comprehensive Head Start programs. The Secretary shall periodically evaluate whether the criteria of the system are being applied in a manner that is transparent, reliable, and valid.
+
+#### (9) Transition
+
+#### (A) In general
+
+&emsp;&emsp;Each Head Start agency shall be reviewed under the system for designation renewal described in paragraph (6), not later than 3 years after the implementation of such system.
+
+#### (B) Limitation
+
+&emsp;&emsp;A Head Start agency shall not be subject to the requirements of the system for designation renewal prior to 18 months after December 12, 2007.
+
+#### (C) Schedule
+
+&emsp;&emsp;The Secretary shall establish and implement a schedule for reviewing each Head Start agency under the system for designation renewal described in paragraph (6), consistent with subparagraphs (A) and (B).
+
+#### (10) Reports to Congress
+
+&emsp;The Secretary shall—
+
+&emsp;&emsp;(A) make available to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate the report described in paragraph (4);
+
+&emsp;&emsp;(B) concurrently with publishing a notice in the Federal Register as described in paragraph (5), provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate that provides a detailed description of the proposed system described in paragraph (5), including a clear rationale for any differences between the proposed system and the recommendations of the expert panel, if any such differences exist; and
+
+&emsp;&emsp;(C) prior to implementing the system for designation renewal, provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate—
+
+&emsp;&emsp;&emsp;(i) summarizing the public comment on the proposed system and the Secretary's response to such comment; and
+
+&emsp;&emsp;&emsp;(ii) describing the final system for designation renewal and the plans for implementation of such system.
+
+#### (d) Designation when no entity is renewed
+
+#### (1) In general
+
+&emsp;If no entity in a community is determined to be successfully delivering a high-quality and comprehensive Head Start program, as specified in subsection (c), the Secretary shall, after conducting an open competition, designate for a 5-year period a Head Start agency from among qualified applicants in such community.
+
+#### (2) Considerations for designation
+
+&emsp;In selecting from among qualified applicants for designation as a Head Start agency, the Secretary shall consider the effectiveness of each such applicant to provide Head Start services, based on—
+
+&emsp;&emsp;(A) any past performance of such applicant in providing services comparable to Head Start services, including how effectively such applicant provided such comparable services;
+
+&emsp;&emsp;(B) the plan of such applicant to provide comprehensive health, educational, nutritional, social, and other services needed to aid participating children in attaining their full potential, and to prepare children to succeed in school;
+
+&emsp;&emsp;(C) the plan of such applicant to attract and retain qualified staff capable of delivering, including implementing, a high-quality and comprehensive program, including the ability to carry out a research based curriculum aligned with the Head Start Child Outcomes Framework and, as appropriate, State early learning standards;
+
+&emsp;&emsp;(D) the ability of such applicant to maintain child-to-teacher ratios and family service worker caseloads that reflect best practices and are tied to high-quality service delivery;
+
+&emsp;&emsp;(E) the capacity of such applicant to serve eligible children with—
+
+&emsp;&emsp;&emsp;(i) curricula that are based on scientifically valid research, that are developmentally appropriate, and that promote the school readiness of children participating in the program involved; and
+
+&emsp;&emsp;&emsp;(ii) teaching practices that are based, as appropriate, on scientifically valid research, that are developmentally appropriate, and that promote the school readiness of children participating in the program involved;
+
+&emsp;&emsp;(F) the plan of such applicant to meet standards described in section 9836a(a)(1) of this title, with particular attention to the standards described in subparagraphs (A) and (B) of such section;
+
+&emsp;&emsp;(G) the proposed budget of the applicant and plan of such applicant to maintainstrong fiscal controls and cost-effective fiscal management;
+
+&emsp;&emsp;(H) the plan of such applicant to coordinate and collaborate with other public or private entities providing early childhood education and development programs and services for young children in the community involved, including—
+
+&emsp;&emsp;&emsp;(i) programs implementing grant agreements under the Early Reading First and Even Start programs under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6371 et seq., 6381 et seq.);
+
+&emsp;&emsp;&emsp;(ii) other preschool programs under title I of that Act (20 U.S.C. 6301 et seq.);
+
+&emsp;&emsp;&emsp;(iii) programs under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.);
+
+&emsp;&emsp;&emsp;(iv) State prekindergarten programs;
+
+&emsp;&emsp;&emsp;(v) child care programs;
+
+&emsp;&emsp;&emsp;(vi) the educational programs that the children in the Head Start program involved will enter at the age of compulsory school attendance; and
+
+&emsp;&emsp;&emsp;(vii) local entities, such as a public or school library, for—
+
+&emsp;&emsp;&emsp;&emsp;(I) conducting reading readiness programs;
+
+&emsp;&emsp;&emsp;&emsp;(II) developing innovative programs to excite children about the world of books, including providing fresh books in the Head Start classroom;
+
+&emsp;&emsp;&emsp;&emsp;(III) assisting in literacy training for Head Start teachers; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) supporting parents and other caregivers in literacy efforts;
+
+&emsp;&emsp;(I) the plan of such applicant to coordinate the Head Start program that the applicant proposes to carry out, with public and private entities that are willing to commit resources to assist the Head Start program in meeting its program needs;
+
+&emsp;&emsp;(J) the plan of such applicant—
+
+&emsp;&emsp;&emsp;(i) to facilitate the involvement of parents (including grandparents and kinship caregivers, as appropriate) of children participating in the proposed Head Start program, in activities (at home and, if practicable, at the location of the Head Start program) designed to help such parents become full partners in the education of their children;
+
+&emsp;&emsp;&emsp;(ii) to afford such parents the opportunity to participate in the development and overall conduct of the program at the local level, including transportation assistance, as appropriate;
+
+&emsp;&emsp;&emsp;(iii) to offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
+
+&emsp;&emsp;&emsp;&emsp;(I) family literacy services; and
+
+&emsp;&emsp;&emsp;&emsp;(II) parenting skills training;
+
+&emsp;&emsp;&emsp;(iv) to offer to parents of participating children substance abuse counseling (either directly or through referral to local entities), if needed, including information on the effect of drug exposure on infants and fetal alcohol syndrome;
+
+&emsp;&emsp;&emsp;(v) at the option of such applicant, to offer (directly or through referral to local entities) to such parents—
+
+&emsp;&emsp;&emsp;&emsp;(I) training in basic child development (including cognitive, social, and emotional development);
+
+&emsp;&emsp;&emsp;&emsp;(II) assistance in developing literacy and communication skills;
+
+&emsp;&emsp;&emsp;&emsp;(III) opportunities to share experiences with other parents (including parent-mentor relationships);
+
+&emsp;&emsp;&emsp;&emsp;(IV) regular in-home visitation;
+
+&emsp;&emsp;&emsp;&emsp;(V) health services, including information on maternal depression; or
+
+&emsp;&emsp;&emsp;&emsp;(VI) any other activity designed to help such parents become full partners in the education of their children;
+
+&emsp;&emsp;&emsp;(vi) to provide, with respect to each participating family, a family needs assessment that includes consultation with such parents (including foster parents, grandparents, and kinship caregivers, where applicable), in a manner and language that such parents can understand, to the extent practicable, about the benefits of parent involvement and about the activities described in this subparagraph in which such parents may choose to become involved (taking into consideration their specific family needs, work schedules, and other responsibilities); and
+
+&emsp;&emsp;&emsp;(vii) to extend outreach to fathers (including father figures), in appropriate cases, in order to strengthen the role of those fathers in families, in the education of young children, and in the Head Start program, by working directly with the fathers through activities such as—
+
+&emsp;&emsp;&emsp;&emsp;(I) in appropriate cases, including the fathers in home visits and providing opportunities for direct father-child interactions; and
+
+&emsp;&emsp;&emsp;&emsp;(II) targeting increased male participation in the conduct of the program;
+
+&emsp;&emsp;(K) the plan of such applicant to meet the needs of limited English proficient children and their families, including procedures to identify such children, plans to provide trained personnel, and plans to provide services to assist the children in making progress toward the acquisition of the English language, while making meaningful progress in attaining the knowledge, skills, abilities, and development described in section 9836a(a)(1)(B) of this title;
+
+&emsp;&emsp;(L) the plan of such applicant to meet the diverse needs of the population served;
+
+&emsp;&emsp;(M) the plan of such applicant who chooses to assist younger siblings of children who will participate in the Head Start program to obtain health services from other sources;
+
+&emsp;&emsp;(N) the plan of such applicant to meet the needs of children with disabilities, including procedures to identify such children, procedures for referral of such children for evaluation to State or local agencies providingservices under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and plans for collaboration with those State or local agencies;
+
+&emsp;&emsp;(O) the plan of such applicant to meet the needs of homeless children, including transportation needs, and the needs of children in foster care; and
+
+&emsp;&emsp;(P) other factors related to the requirements of this subchapter.
+
+#### (3) Priority
+
+&emsp;In selecting from among qualified applicants for designation as a Head Start agency, the Secretary shall give priority to applicants that have demonstrated capacity in providing effective, comprehensive, and well-coordinated early childhood education and development services and programs to children and their families.
+
+#### (e) Prohibition against non-Indian Head Start agency receiving a grant for an Indian Head Start program
+
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of law, except as provided in paragraph (2), under no condition may a non-Indian Head Start agency receive a grant to carry out an Indian Head Start program.
+
+#### (2) Exception
+
+&emsp;In a community in which there is no Indian Head Start agency available for designation to carry out an Indian Head Start program, a non-Indian Head Start agency may receive a grant to carry out an Indian Head Start program but only until such time as an Indian Head Start agency in such community becomes available and is designated pursuant to this section.
+
+#### (f) Interim provider
+
+If no agency in a community is designated under subsection (d), and there is no qualified applicant in the community, the Secretary shall designate a qualified agency to carry out the Head Start program in the community on an interim basis until a qualified applicant from the community is designated under subsection (d).
+
+#### (g) Parent and community participation
+
+The Secretary shall require that the practice of significantly involving parents and community residents in the area affected by the program involved, in the selection of Head Start agencies, be continued.
+
+#### (h) Community
+
+For purposes of this subchapter, a community may be a city, county, or multicity or multicounty unit within a State, an Indian reservation (including Indians in any off-reservation area designated by an appropriate tribal government in consultation with the Secretary), or a neighborhood or other area (irrespective of boundaries or political subdivisions) that provides a suitable organizational base and possesses the commonality of interest needed to operate a Head Start program.
+
+(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712; Pub. L. 108–446, title III, §305(<i>l</i>)(3), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §7, Dec. 12, 2007, 121 Stat. 1378.)
 
 #### References in Text
 
-Part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3), (4)(C), means part B of chapter 1 of title I of Pub. L. 89–10 which was classified generally to part B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 6381 et seq. of Title 20.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(H)(i), (ii), (J)(iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. Subparts 2 and 3 of part B of title I of the Act are classified generally to subparts 2 (§6371 et seq.) and 3 (§6381 et seq.), respectively, of part B of subchapter I of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d)(2)(H)(iii), (N), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
+
+2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to authorization of and prerequisites for designation of Head Start agencies in subsec. (a), definition of community in subsec. (b), priority in administration of section provisions in subsec. (c), designation in community without entity entitled to priority and qualified applicants in subsec. (d), designation on interim basis in subsec. (e), involvement of parents and area residents in selection of agencies in subsec. (f), and priority for nonprofit agencies and applicants with demonstrated capacity in subsec. (g).
 
 2004—Subsec. (d)(3). Pub. L. 108–446 substituted “U.S.C. 1431–1444” for “U.S.C 1431–1445”.
 
@@ -98,7 +268,7 @@ Subsec. (c)(2). Pub. L. 105–285, §107(3)(B), (C), inserted “, in consultat
 
 Subsec. (c)(3). Pub. L. 105–285, §107(3)(C), realigned margins.
 
-Subsec. (d). Pub. L. 105–285, §107(4)(A), inserted in introductory provisions “In selecting from among qualified applicants for designation as a Head Start agency, the Secretary shall give priority to any qualified agency that functioned as a Head Start delegate agency in the community and carried out a Head Start program that the Secretary determines met or exceeded such performance standards and such results-based performance measures.”
+Subsec. (d). Pub. L. 105–285, §107(4)(A), inserted in introductory provisions “In selecting from among qualified applicants for designation as a Head Start agency,the Secretary shall give priority to any qualified agency that functioned as a Head Start delegate agency in the community and carried out a Head Start program that the Secretary determines met or exceeded such performance standards and such results-based performance measures.”
 
 Subsec. (d)(3). Pub. L. 105–285, §107(4)(B), inserted “and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419)” after “(20 U.S.C. 2741 et seq.)”.
 
@@ -140,7 +310,7 @@ Subsec. (c)(3). Pub. L. 103–252, §107(b)(1), (5), redesignated concluding pro
 
 &emsp;“(A) to the maximum extent practicable, carry out such review by using employees of the Department of Health and Human Services who are knowledgeable about Head Start programs;
 
-&emsp;“(B) ensure that an employee of the Department of Health and Human Services who is knowledgeableabout Head Start programs supervises such review at the site of such agency;
+&emsp;“(B) ensure that an employee of the Department of Health and Human Services who is knowledgeable about Head Start programs supervises such review at the site of such agency;
 
 &emsp;“(C) measure the compliance of the programs of such agency with the performance standards in effect under section 9846(b) of this title; and
 
@@ -203,6 +373,4 @@ Amendment by section 2(f)–(h) of Pub. L. 102–401 effective Oct. 7, 1992, but
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under section 8621 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

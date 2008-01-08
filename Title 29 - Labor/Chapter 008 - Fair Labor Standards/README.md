@@ -6,10 +6,10 @@
 | [202\.](%C2%A7%2000202%20-%20Congressional%20finding%20and%20declaration%20of%20policy.md) | Congressional finding and declaration of policy. |
 | [203\.](%C2%A7%2000203%20-%20Definitions.md) | Definitions. |
 | [204\.](%C2%A7%2000204%20-%20Administration.md) | Administration. |
-| [205\.](%C2%A7%2000205%20-%20Special%20industry%20committees%20for%20American%20Samoa.md) | Special industry committees for American Samoa. |
+| [205\.](%C2%A7%2000205%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9328%2C%20title%20VIII%2C%20%C2%A78103%28c%29%281%29%28A%29%2C%20May%2025%2C%202007%2C%20121%20Stat.%20189.md) | Repealed. |
 | [206\.](%C2%A7%2000206%20-%20Minimum%20wage.md) | Minimum wage. |
 | [207\.](%C2%A7%2000207%20-%20Maximum%20hours.md) | Maximum hours. |
-| [208\.](%C2%A7%2000208%20-%20Wage%20orders%20in%20American%20Samoa.md) | Wage orders in American Samoa. |
+| [208\.](%C2%A7%2000208%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9328%2C%20title%20VIII%2C%20%C2%A78103%28c%29%281%29%28A%29%2C%20May%2025%2C%202007%2C%20121%20Stat.%20189.md) | Repealed. |
 | [209\.](%C2%A7%2000209%20-%20Attendance%20of%20witnesses.md) | Attendance of witnesses. |
 | [210\.](%C2%A7%2000210%20-%20Court%20review%20of%20wage%20orders%20in%20Puerto%20Rico%20and%20the%20Virgin%20Islands.md) | Court review of wage orders in Puerto Rico and the Virgin Islands. |
 | [211\.](%C2%A7%2000211%20-%20Collection%20of%20data.md) | Collection of data. |
@@ -35,10 +35,10 @@
 - [&sect; 00202 - Congressional finding and declaration of policy](%C2%A7%2000202%20-%20Congressional%20finding%20and%20declaration%20of%20policy.md)
 - [&sect; 00203 - Definitions](%C2%A7%2000203%20-%20Definitions.md)
 - [&sect; 00204 - Administration](%C2%A7%2000204%20-%20Administration.md)
-- [&sect; 00205 - Special industry committees for American Samoa](%C2%A7%2000205%20-%20Special%20industry%20committees%20for%20American%20Samoa.md)
+- [&sect; 00205 - Repealed. Pub. L. 110&#8211;28, title VIII, &sect;8103(c)(1)(A), May 25, 2007, 121 Stat. 189](%C2%A7%2000205%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9328%2C%20title%20VIII%2C%20%C2%A78103%28c%29%281%29%28A%29%2C%20May%2025%2C%202007%2C%20121%20Stat.%20189.md)
 - [&sect; 00206 - Minimum wage](%C2%A7%2000206%20-%20Minimum%20wage.md)
 - [&sect; 00207 - Maximum hours](%C2%A7%2000207%20-%20Maximum%20hours.md)
-- [&sect; 00208 - Wage orders in American Samoa](%C2%A7%2000208%20-%20Wage%20orders%20in%20American%20Samoa.md)
+- [&sect; 00208 - Repealed. Pub. L. 110&#8211;28, title VIII, &sect;8103(c)(1)(A), May 25, 2007, 121 Stat. 189](%C2%A7%2000208%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9328%2C%20title%20VIII%2C%20%C2%A78103%28c%29%281%29%28A%29%2C%20May%2025%2C%202007%2C%20121%20Stat.%20189.md)
 - [&sect; 00209 - Attendance of witnesses](%C2%A7%2000209%20-%20Attendance%20of%20witnesses.md)
 - [&sect; 00210 - Court review of wage orders in Puerto Rico and the Virgin Islands](%C2%A7%2000210%20-%20Court%20review%20of%20wage%20orders%20in%20Puerto%20Rico%20and%20the%20Virgin%20Islands.md)
 - [&sect; 00211 - Collection of data](%C2%A7%2000211%20-%20Collection%20of%20data.md)

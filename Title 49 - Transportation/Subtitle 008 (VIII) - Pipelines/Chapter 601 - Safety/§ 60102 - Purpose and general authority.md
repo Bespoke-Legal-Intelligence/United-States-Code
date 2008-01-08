@@ -100,7 +100,7 @@ Peer review panels.—The committees referred to in subparagraph (A) shall serve
 
 &emsp;&emsp;(C)
 
-Review by secretary.—Not later than 90 days after receiving a report submitted bya committee under subparagraph (B), the Secretary—
+Review by secretary.—Not later than 90 days after receiving a report submitted by a committee under subparagraph (B), the Secretary—
 
 &emsp;&emsp;&emsp;(i) shall review the report;
 
@@ -148,7 +148,7 @@ Public Safety Program Requirements.—(1) The Secretary shall include in the sta
 
 Promoting public awareness.—
 
-&emsp;(A) Not later than one year after the date of enactment of the Accountable Pipeline Safety and Accountability Act of 1996,<sup>2</sup> and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
+&emsp;(A) Not later than one year after the date of enactment of the Accountable Pipeline Safetyand Accountability Act of 1996,<sup>2</sup> and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
 
 &emsp;(B)(i) Not later than June 1, 1998, the Secretary shall survey and assess the public education programs under section 60116 and the public safety programs under section 60102(c) and determine their effectiveness and applicability as components of a model program. In particular, the survey shall include the methods by which operators notify residents of the location of the facility and its right of way, public information regarding existing One-Call programs, and appropriate procedures to be followed by residents of affected municipalities in the event of accidents involving interstate gas pipeline facilities.
 
@@ -206,7 +206,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;(2)
 
-Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method that is at least as effective as using the device in providing for the safety of the pipeline.
+Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method thatis at least as effective as using the device in providing for the safety of the pipeline.
 
 (g)
 
@@ -230,7 +230,7 @@ Carbon Dioxide Regulation.—The Secretary shall regulate carbon dioxide transpo
 
 Emergency Flow Restricting Devices.—(1) Not later than October 24, 1994, the Secretary shall survey and assess the effectiveness of emergency flow restricting devices (including remotely controlled valves and check valves) and other procedures, systems, and equipment used to detect and locate hazardous liquid pipeline ruptures and minimize product releases from hazardous liquid pipeline facilities.
 
-(2) Not later than 2 years after the survey and assessment are completed, the Secretary shall prescribe standards on the circumstances underwhich an operator of a hazardous liquid pipeline facility must use an emergency flow restricting device or other procedure, system, or equipment described in paragraph (1) of this subsection on the facility.
+(2) Not later than 2 years after the survey and assessment are completed, the Secretary shall prescribe standards on the circumstances under which an operator of a hazardous liquid pipeline facility must use an emergency flow restricting device or other procedure, system, or equipment described in paragraph (1) of this subsection on the facility.
 
 (3)
 
@@ -454,7 +454,7 @@ In subsection (c)(2), the word “prescribe” is substituted for “provide” 
 
 In subsection (c)(3), the words “participate in a public safety program meeting the requirements of paragraph (1) of this subsection” are substituted for 49 App.:2002(e)(1) to eliminate unnecessary words.
 
-In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” is omitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
+In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” isomitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
 
 In subsections (e) and (f), the word “prescribe” is substituted for “by regulation, establish” for consistency in the revised title and with other titles of the Code.
 
@@ -486,7 +486,7 @@ Subsec. (a). Pub. L. 107–355, §20(a)(1), inserted subsec. heading, added par.
 
 Minimum safety standards” for “
 
-Minimum Safety Standards” inheading and “The Secretary” for “The Secretary of Transportation” in introductory provisions, and redesignated former par. (2) as (3) and inserted heading.
+Minimum Safety Standards” in heading and “The Secretary” for “The Secretary of Transportation” in introductory provisions, and redesignated former par. (2) as (3) and inserted heading.
 
 Subsec. (m). Pub. L. 107–355, §23, added subsec. (m).
 

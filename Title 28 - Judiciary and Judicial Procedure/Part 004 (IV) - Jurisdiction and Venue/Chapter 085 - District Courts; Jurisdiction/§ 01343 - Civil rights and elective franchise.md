@@ -8,7 +8,7 @@
 
 &emsp;(3) To redress the deprivation, under color of any State law, statute, ordinance, regulation, custom or usage, of any right, privilege or immunity secured by the Constitution of the United States or by any Act of Congress providing for equal rights of citizens or of all persons within the jurisdiction of the United States;
 
-&emsp;(4) To recover damages or to secure equitable or other relief under any Act of Congress providing for the protection of civil rights, including the right to vote.
+&emsp;(4) To recover damages or to secure equitable or other relief under any Act of Congressproviding for the protection of civil rights, including the right to vote.
 
 (b) For purposes of this section—
 

@@ -166,3 +166,7 @@ Section 7873, Pub. L. 89–10, title IX, §9153, as added Pub. L. 103–382, tit
 
 Section 7874, Pub. L. 89–10, title IX, §9154, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3793, related to minimum grant criteria. See section 7474 of this title.
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

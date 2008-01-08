@@ -9,6 +9,9 @@
 | [1803\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001803%20-%20Delegation%20of%20authority.md) | Delegation of authority. |
 | [1804\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001804%20-%20Deputy%20Architect%20of%20the%20Capitol%20to%20act%20in%20case%20of%20absence%2C%20disability%2C%20or%20vacancy.md) | Deputy Architect of the Capitol to act in case of absence, disability, or vacancy. |
 | [1805\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001805%20-%20Deputy%20Architect%20of%20the%20Capitol-Chief%20Operating%20Officer.md) | Deputy Architect of the Capitol/Chief Operating Officer. |
+| [1806\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001806%20-%20Chief%20Executive%20Officer%20for%20Visitor%20Services.md) | Chief Executive Officer for Visitor Services. |
+| [1807\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001807%20-%20Assistant%20to%20the%20Chief%20Executive%20Officer%20for%20Visitor%20Services.md) | Assistant to the Chief Executive Officer for Visitor Services. |
+| [1808\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001808%20-%20Inspector%20General%20of%20the%20Architect%20of%20the%20Capitol.md) | Inspector General of the Architect of the Capitol. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,12 +25,17 @@
 | [1814\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001814%20-%20Repairs%20of%20Capitol.md) | Repairs of Capitol. |
 | [1815\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001815%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20I%2C%20%C2%A7101%28c%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20606.md) | Repealed. |
 | [1816\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001816%20-%20Construction%20contracts.md) | Construction contracts. |
+| [1816a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001816a%20-%20Design-build%20contracts.md) | Design-build contracts. |
 | [1817\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001817%20-%20Transfer%20of%20discontinued%20apparatus%20to%20other%20branches.md) | Transfer of discontinued apparatus to other branches. |
 | [1818\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001818%20-%20Rental%20or%20lease%20of%20storage%20space.md) | Rental or lease of storage space. |
 | [1819\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001819%20-%20Computer%20backup%20facilities%20for%20legislative%20offices.md) | Computer backup facilities for legislative offices. |
 | 1820\. | Acquisition of real property for Capitol Police. |
 | [1821\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001821%20-%20Small%20purchase%20contracting%20authority.md) | Small purchase contracting authority. |
 | [1822\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001822%20-%20Leasing%20of%20space.md) | Leasing of space. |
+| [1823\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001823%20-%20Acquisition%20of%20real%20property%20for%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20the%20Senate.md) | Acquisition of real property for Sergeant at Arms and Doorkeeper of the Senate. |
+| [1824\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001824%20-%20Energy%20and%20environmental%20measures%20in%20Capitol%20Complex%20Master%20Plan.md) | Energy and environmental measures in Capitol Complex Master Plan. |
+| [1825\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001825%20-%20CVC%20maintenance.md) | CVC maintenance. |
+| [1826\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001826%20-%20Easements%20for%20rights-of-way.md) | Easements for rights-of-way. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,6 +83,7 @@
 | [1866\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001866%20-%20Certification%20of%20vouchers.md) | Certification of vouchers. |
 | [1867\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001867%20-%20Advancement%20and%20reimbursement%20of%20expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md) | Advancement and reimbursement of expenses for flying American flags and providing certification services therefor. |
 | [1868\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001868%20-%20Semiannual%20compilation%20and%20report%20of%20expenditures.md) | Semiannual compilation and report of expenditures. |
+| [1869\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001869%20-%20Advance%20payments.md) | Advance payments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

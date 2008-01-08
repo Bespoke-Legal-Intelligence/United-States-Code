@@ -32,7 +32,7 @@ Pub. L. 103–199, title I, §§101–103, Dec. 17, 1993, 107 Stat. 2318, 2319, 
 
 “The Congress finds and declares as follows:
 
-&emsp;“(1) The Vancouver Declaration issued by President Clinton and President Yeltsin in April 1993 marked a new milestone in the development of the spirit of cooperation and partnership between the United Statesand Russia. The Congress affirms its support for the principles contained in the Vancouver Declaration.
+&emsp;“(1) The Vancouver Declaration issued by President Clinton and President Yeltsin in April 1993 marked a new milestone in the development of the spirit of cooperation and partnership between the United States and Russia. The Congress affirms its support for the principles contained in the Vancouver Declaration.
 
 &emsp;“(2) The Vancouver Declaration underscored that—
 

@@ -22,7 +22,7 @@ Subsection (a) shall not apply to any liability for an addition to the tax which
 
 #### Prior Provisions
 
-A prior section 6658, act Aug. 16, 1954, ch. 736, 68A Stat. 826, authorized inclusion as part of the tax a 25percent penalty in cases of violations or attempted violations of section 6851 of this title, prior to repeal by Pub. L. 96–167, §6(a), Dec. 29, 1979, 93 Stat. 1276.
+A prior section 6658, act Aug. 16, 1954, ch. 736, 68A Stat. 826, authorized inclusion as part of the tax a 25 percent penalty in cases of violations or attempted violations of section 6851 of this title, prior to repeal by Pub. L. 96–167, §6(a), Dec. 29, 1979, 93 Stat. 1276.
 
 #### Effective Date
 

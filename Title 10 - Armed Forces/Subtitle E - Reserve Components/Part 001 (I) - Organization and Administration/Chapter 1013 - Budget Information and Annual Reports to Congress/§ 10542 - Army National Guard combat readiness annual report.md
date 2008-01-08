@@ -36,13 +36,13 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;(10) The number of waivers, shown for each State, that were granted by the Secretary during the previous fiscal year under section 1115(c)(2) of ANGCRRA of the requirement in section 1115(c)(1) of ANGCRRA described in paragraph (9), together with the reason for each waiver.
 
-&emsp;(11) The number of members, shown for each State, who were screened during the precedingfiscal year to determine whether they meet minimum physical profile standards required for deployment and, of those members—
+&emsp;(11) The number of members, shown for each State, who were screened during the preceding fiscal year to determine whether they meet minimum physical profile standards required for deployment and, of those members—
 
 &emsp;&emsp;(A) the number and percentage who did not meet minimum physical profile standards required for deployment; and
 
 &emsp;&emsp;(B) the number and percentage who were transferred pursuant to section 1116 of ANGCRRA to the personnel accounting category described in paragraph (8).
 
-&emsp;(12) The number of members, and the percentage of the total membership, of the Army National Guard, shown for each State, who underwent a medical screening during the previous fiscal year as provided in section 1117 of ANGCRRA.
+&emsp;(12) The number of members, and the percentage of the total membership, of the ArmyNational Guard, shown for each State, who underwent a medical screening during the previous fiscal year as provided in section 1117 of ANGCRRA.
 
 &emsp;(13) The number of members, and the percentage of the total membership, of the Army National Guard, shown for each State, who underwent a dental screening during the previous fiscal year as provided in section 1117 of ANGCRRA.
 
@@ -100,5 +100,5 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
 

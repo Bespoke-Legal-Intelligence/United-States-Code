@@ -4,7 +4,7 @@
 
 (1) The Secretary is authorized to acquire any lands or interests therein within the special management areas and the Dodson/Warrendale Special Purchase Unit which the Secretary determines are needed to achieve the purposes of sections 544 to 544p of this title: <i>Provided</i>, That any lands, waters, or interests therein owned by either State or any political subdivision thereof may be acquired only by donation or exchange.
 
-(2) Lands within the State of Oregon acquired by the Secretary pursuant to sections 544 to 544p of this title shall become part of the Mount Hood National Forest. Lands within the State of Washington acquired by the Secretary pursuant to this section shall become part of the GiffordPinchot National Forest. All lands acquired by the Secretary pursuant to sections 544 to 544p of this title shall be subject to the laws and regulations pertaining to the National Forest System and sections 544 to 544p of this title.
+(2) Lands within the State of Oregon acquired by the Secretary pursuant to sections 544 to 544p of this title shall become part of the Mount Hood National Forest. Lands within the State of Washington acquired by the Secretary pursuant to this section shall become part of the Gifford Pinchot National Forest. All lands acquired by the Secretary pursuant to sections 544 to 544p of this title shall be subject to the laws and regulations pertaining to the National Forest System and sections 544 to 544p of this title.
 
 #### (b) Limitations on eminent domain
 
@@ -38,7 +38,7 @@ In exercising authority to acquire lands pursuant to this section the Secretary 
 
 (4) In the event that exchanges authorized by this section leave any private forest land owner with ownership of an uneconomic remnant of forest land contiguous to a special management area, the Secretary is authorized to acquire such forest lands as if they were within the boundaries of a special management area.
 
-(5) The following-described Federal lands and interests therein are hereby identified as candidate lands for exchanges conducted pursuant to this section: <i>Provided</i>, That the determination of which candidate lands will be exchanged, and in what sequence, shall be at the discretion of the Secretary. Subject to valid existing rights, such lands are hereby withdrawn from all forms of entry or appropriation or disposal under the public land laws, and from location, entry, and patent under the United States mining law, and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto until the Secretary determines such lands are no longer needed to complete exchanges authorized by this section: <i>Provided</i>, That such period shall not extend beyond five years:
+(5) The following-described Federal lands and interests therein are hereby identified as candidate lands for exchanges conducted pursuant to this section: <i>Provided</i>, That the determination of which candidate lands will be exchanged, and in what sequence, shall be at the discretion of the Secretary. Subject to valid existing rights, such lands are hereby withdrawn from allforms of entry or appropriation or disposal under the public land laws, and from location, entry, and patent under the United States mining law, and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto until the Secretary determines such lands are no longer needed to complete exchanges authorized by this section: <i>Provided</i>, That such period shall not extend beyond five years:
 
 GIFFORD PINCHOT NATIONAL FOREST<br>Wind River-Panther Creek Area
 
@@ -202,7 +202,7 @@ Zig-Zag Area
 
 For the purposes of section 460<i>l</i>–9 of this title, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965.
 
-(Pub. L. 99–663, §9, Nov. 17, 1986, 100 Stat. 4287; Pub. L. 104–66, title I, §1011(n), Dec. 21, 1995, 109Stat. 710; Pub. L. 106–291, title III, §346(a), Oct. 11, 2000, 114 Stat. 999.)
+(Pub. L. 99–663, §9, Nov. 17, 1986, 100 Stat. 4287; Pub. L. 104–66, title I, §1011(n), Dec. 21, 1995, 109 Stat. 710; Pub. L. 106–291, title III, §346(a), Oct. 11, 2000, 114 Stat. 999.)
 
 #### References in Text
 
@@ -254,7 +254,7 @@ Pub. L. 105–83, title III, §340, Nov. 14, 1997, 111 Stat. 1603, provided that
 
 “(b) In return for the Nursery Site properties, Skamania County is authorized and directed to negotiate with the Forest Service the conveyance of approximately 120 acres of high biodiversity, special management lands located near Table Mountain within the Columbia River Gorge National Scenic Area, title to which must be acceptable to the Secretary of Agriculture.
 
-“(c) Before this exchange can occur, it must be of equal value and the Secretary and the Skamania County Board of Commissioners must agree on the exact parcels of land to be included in the exchange. An agreement signed by the Secretary of Agriculture and the Skamania County Board of Commissioners describing the properties involved and a certification that the exchange is of equal value must be completed no later than September 30, 1999.
+“(c) Before this exchange can occur, it must be of equal value and the Secretary and the Skamania County Board of Commissioners must agree on the exact parcels of land to be included in the exchange. An agreement signed by the Secretary of Agriculture andthe Skamania County Board of Commissioners describing the properties involved and a certification that the exchange is of equal value must be completed no later than September 30, 1999.
 
 “(d) During this two-year negotiating period, the Wind River Nursery property shall not be conveyed to another party. The Forest Service shall maintain the site in a tenantable condition.
 
@@ -264,7 +264,7 @@ Pub. L. 105–83, title III, §340, Nov. 14, 1997, 111 Stat. 1603, provided that
 
 “(g) Any cash equalization which Skamania County elects to make may be made up to 50 percent of the fair market value of the Federal property, and such cash equalization may be made in installments over a period not to exceed 25 years. Payments received as partial consideration shall be deposited into the fund in the Treasury established under the Act of December 4, 1967 \[16 U.S.C. 484a\], commonly known as the Sisk Act, and shall be available for expenditure as provided in the Act except that the Secretary may not use those funds to purchase lands within Skamania County.
 
-“(h) In defining the Federal estate to be conveyed, the Secretary may require such additional terms and conditions as deemed necessary in connection with assuring equal value and public interest considerations in this exchange including, but not limited to, continuedresearch use of the Wind River Experimental Forest and protection of natural, cultural, and historic resources, existing administrative sites, and a scenic corridor for the Pacific Crest National Scenic Trail.
+“(h) In defining the Federal estate to be conveyed, the Secretary may require such additional terms and conditions as deemed necessary in connection with assuring equal value and public interest considerations in this exchange including, but not limited to, continued research use of the Wind River Experimental Forest and protection of natural, cultural, and historic resources, existing administrative sites, and a scenic corridor for the Pacific Crest National Scenic Trail.
 
 “(i) This authorization is predicated on Skamania County's Board of Commissioners commitment to give foremost consideration to preservation of the overall integrity of the site and conservation of the educational and research potential of the site, including providing for access to and assurance of the continued administration and operation of forestry research on the adjacent Thornton Munger Research Natural Area.
 

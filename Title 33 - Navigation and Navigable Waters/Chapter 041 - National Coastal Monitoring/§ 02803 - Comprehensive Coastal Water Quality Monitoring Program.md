@@ -124,7 +124,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;&emsp;(H) estimate the costs to Federal and State governments, and other participants, of implementing the monitoring program; and
 
-&emsp;&emsp;(I) describe the methods to assess periodically the success of the monitoring programin meeting its goals and objectives, and the manner in which the program may be modified from time-to-time.
+&emsp;&emsp;(I) describe the methods to assess periodically the success of the monitoring program in meeting its goals and objectives, and the manner in which the program may be modified from time-to-time.
 
 #### (5) Criteria for monitoring Massachusetts and Cape Cod Bays
 

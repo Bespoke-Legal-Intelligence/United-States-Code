@@ -10,7 +10,7 @@
 
 (e) No retired justice or judge shall perform judicial duties except when designated and assigned.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; July 9, 1956, ch. 517, §1(c), 70 Stat. 497; Pub. L. 85–219, Aug. 29,1957, 71 Stat. 495; Pub. L. 85–755, §5, Aug. 25, 1958, 72 Stat. 849; Pub. L. 95–598, title II, §206, Nov. 6, 1978, 92 Stat. 2660.)
+(June 25, 1948, ch. 646, 62 Stat. 901; July 9, 1956, ch. 517, §1(c), 70 Stat. 497; Pub. L. 85–219, Aug. 29, 1957, 71 Stat. 495; Pub. L. 85–755, §5, Aug. 25, 1958, 72 Stat. 849; Pub. L. 95–598, title II, §206, Nov. 6, 1978, 92 Stat. 2660.)
 
 #### Historical and Revision Notes
 

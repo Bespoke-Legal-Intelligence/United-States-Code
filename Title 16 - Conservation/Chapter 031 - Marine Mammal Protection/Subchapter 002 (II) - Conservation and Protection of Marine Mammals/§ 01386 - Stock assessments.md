@@ -8,7 +8,7 @@ Not later than August 1, 1994, the Secretary shall, in consultation with the app
 
 &emsp;(2) provide for such stock the minimum population estimate, current and maximum net productivity rates, and current population trend, including a description of the information upon which these are based;
 
-&emsp;(3) estimate the annual human-caused mortality and serious injury of the stock by source and, for a strategic stock, other factorsthat may be causing a decline or impeding recovery of the stock, including effects on marine mammal habitat and prey;
+&emsp;(3) estimate the annual human-caused mortality and serious injury of the stock by source and, for a strategic stock, other factors that may be causing a decline or impeding recovery of the stock, including effects on marine mammal habitat and prey;
 
 &emsp;(4) describe commercial fisheries that interact with the stock, including—
 

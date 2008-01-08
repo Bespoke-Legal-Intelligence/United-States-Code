@@ -82,7 +82,7 @@ Except as otherwise provided in this section—
 
 #### (B) Exception
 
-&emsp;&emsp;Subparagraph (A) shall not apply where, on the lapse of time, on the occurrence of an event or contingency, or on the failure of an event or contingency to occur, an interest passing to the surviving spouse will terminate or fail—
+&emsp;&emsp;Subparagraph (A) shall not apply where, on the lapse of time, on the occurrence of anevent or contingency, or on the failure of an event or contingency to occur, an interest passing to the surviving spouse will terminate or fail—
 
 &emsp;&emsp;&emsp;(i)(I) if an interest in such property passes or has passed (for less than an adequate and full consideration in money or money's worth) from the decedent to any person other than such surviving spouse (or the estate of such spouse), and
 
@@ -90,7 +90,7 @@ Except as otherwise provided in this section—
 
 &emsp;&emsp;&emsp;(ii) if such interest is to be acquired for the surviving spouse, pursuant to directions of the decedent, by his executor or by the trustee of a trust.
 
-> &emsp;&emsp;For purposes of this subparagraph, an interest shall not be considered as an interest which will terminate or fail merely becauseit is the ownership of a bond, note, or similar contractual obligation, the discharge of which would not have the effect of an annuity for life or for a term.
+> &emsp;&emsp;For purposes of this subparagraph, an interest shall not be considered as an interest which will terminate or fail merely because it is the ownership of a bond, note, or similar contractual obligation, the discharge of which would not have the effect of an annuity for life or for a term.
 
 #### (C) Interest of spouse conditional on survival for limited period
 
@@ -170,7 +170,7 @@ Except as otherwise provided in this section—
 
 #### (ii) Exception for certain gifts from spouse
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to property acquired by the decedent from the decedent's spouse unless, during such 3-year period, such spouse acquired the property in wholeor in part by gift or by inter vivos transfer for less than adequate and full consideration in money or money's worth.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to property acquired by the decedent from the decedent's spouse unless, during such 3-year period, such spouse acquired the property in whole or in part by gift or by inter vivos transfer for less than adequate and full consideration in money or money's worth.
 
 #### (D) Stock of certain entities
 
@@ -280,7 +280,7 @@ Another prior section 1022, act Aug. 16, 1954, ch. 736, 68A Stat. 302, relating 
 
 #### Effective and Termination Dates
 
-Section applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, setout as an Effective and Termination Dates of 2001 Amendment note under section 121 of this title.
+Section applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 121 of this title.
 
 Section inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 

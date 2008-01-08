@@ -10,7 +10,7 @@ Except as otherwise provided in this subsection, no officer or employee of the D
 
 #### (c) Certifications on loans to family members prohibited
 
-No member of a county committee shall knowingly make or join in making any certificationwith respect to a loan to purchase any land in which he or any person related to him within the second degree of consanguinity or affinity has or may acquire any interest or with respect to any applicant related to him within the second degree of consanguinity or affinity.
+No member of a county committee shall knowingly make or join in making any certification with respect to a loan to purchase any land in which he or any person related to him within the second degree of consanguinity or affinity has or may acquire any interest or with respect to any applicant related to him within the second degree of consanguinity or affinity.
 
 #### (d) Penalties
 

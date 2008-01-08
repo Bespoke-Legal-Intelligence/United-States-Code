@@ -8,7 +8,7 @@ Within three full fiscal years following the fiscal year of enactment of this su
 
 &emsp;(2) proposals for public facilities to be developed for the conservation area or the monument, including a visitors center in the vicinity of Bandera Crater and a multiagency orientation center, to be located in or near Grants, New Mexico, and adjacent to Interstate 40, to accommodate visitors to western New Mexico;
 
-&emsp;(3) natural and cultural resources management plans for the monument and the conservation area, with a particular emphasis on the preservation and long-term scientific use of archeological resources, giving high priority to the enforcement of the provisions of the Archeological Resources Protection Act of 1979 \[16 U.S.C. 470aa et seq.\] and the National Historic Preservation Act \[16 U.S.C. 470 et seq.\] within the monument and the conservation area. The natural and cultural resources management plans shall be prepared in close consultation with the Advisory Council on Historic Preservation, the New Mexico State Historic Preservation Office, and the local Indian people and their traditional cultural and religious authorities; and such plans shall provide for long-term scientific use of archaeological resources in the monument and the conservation area, including the wilderness areas designated by this subchapter; and
+&emsp;(3) natural and cultural resources management plans for the monument and the conservation area, with a particular emphasis on the preservation and long-term scientific use of archeological resources, giving high priority to the enforcement of the provisions of the Archeological <sup>1</sup> Resources Protection Act of 1979 \[16 U.S.C. 470aa et seq.\] and the National Historic Preservation Act \[16 U.S.C. 470 et seq.\] within the monument and the conservation area. The natural and cultural resources management plans shall be prepared in close consultation with the Advisory Council on Historic Preservation, the New Mexico State Historic Preservation Office, and the local Indian people and their traditional cultural and religious authorities; and such plans shall provide for long-term scientific use of archaeological resources in the monument and the conservation area, including the wilderness areas designated by this subchapter; and
 
 &emsp;(4) wildlife resources management plans for the monument and the conservation area prepared in close consultation with appropriate departments of the State of New Mexico and using previous studies of the area.
 
@@ -20,7 +20,7 @@ Within three full fiscal years following the fiscal year of enactment of this su
 
 #### (c) Review and recommendation of suitability or nonsuitability of roadless lands
 
-(1) The general management plan for the monument shall review and recommend the suitability or nonsuitability for preservation as wilderness of all roadless lands within the boundaries of the monument as established by this subchapter except those lands within the areas identified as “potential development areas” on the map referenced in section 460uu of this title.
+(1) The general management plan for the monument shall review and recommend the suitability or nonsuitability for preservation as wilderness of all roadless lands within the boundaries of the monument as established bythis subchapter except those lands within the areas identified as “potential development areas” on the map referenced in section 460uu of this title.
 
 (2) Pending the submission of a recommendation and until otherwise directed by Act of Congress, the Secretary, through the Director of the National Park Service, shall manage all roadless lands within the boundaries of the monument so as to maintain their potential for inclusion in the National Wilderness Preservation System, except those lands within the areas identified as “potential development areas” on the map referenced in section 460uu of this title.
 
@@ -36,5 +36,7 @@ The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Archaeological”.</i>
 

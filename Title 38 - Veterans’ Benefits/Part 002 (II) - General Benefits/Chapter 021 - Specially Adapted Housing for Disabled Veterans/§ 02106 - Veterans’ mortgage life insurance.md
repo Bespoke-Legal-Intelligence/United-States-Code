@@ -28,7 +28,7 @@
 
 (j) Termination of life insurance under this section shall not affect the guaranty or insurance of the loan by the Secretary.
 
-(Added Pub. L. 92–95, §1, Aug. 11, 1971, 85 Stat. 320, §806; amended Pub. L. 94–433, title III, §302,Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, §701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, §333(a)(1), May 20, 1988, 102 Stat. 537; renumbered §2106 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, §1201(h)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 105–368, title VI, §602(e)(2), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–330, title III, §302, Dec. 6, 2002, 116 Stat. 2824.)
+(Added Pub. L. 92–95, §1, Aug. 11, 1971, 85 Stat. 320, §806; amended Pub. L. 94–433, title III, §302, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, §701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, §333(a)(1), May 20, 1988, 102 Stat. 537; renumbered §2106 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, §1201(h)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 105–368, title VI, §602(e)(2), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–330, title III, §302, Dec. 6, 2002, 116 Stat. 2824.)
 
 #### Amendments
 

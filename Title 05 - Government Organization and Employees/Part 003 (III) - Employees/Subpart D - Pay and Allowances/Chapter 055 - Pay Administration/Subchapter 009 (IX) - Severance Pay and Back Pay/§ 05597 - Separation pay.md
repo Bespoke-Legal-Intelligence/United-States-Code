@@ -46,7 +46,7 @@
 
 (2) If the employment is with an Executive agency, the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
-(3) If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment ifthe individual involved possesses unique abilities and is the only qualified applicant available for the position.
+(3) If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 (4) If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
@@ -142,7 +142,7 @@ Terms and Conditions.—The authority to provide voluntary separation incentive 
 
 &emsp;&emsp;“(B) by deeming such subsection to be amended by striking ‘Code.’ and inserting ‘Code, or who, during the thirty-six month period preceding the date of separation, performed service for which a student loan repayment benefit was or is to be paid under section 5379 of title 5, United States Code.’
 
-&emsp;“(3) subsection (b)(1) of such section shall be applied by substituting ‘Committee on Government Reform’ for ‘Committee on Government Reform and Oversight’;
+&emsp;“(3) subsection (b)(1) of such section shall be applied by substituting ‘Committee on Government Reform’ \[now Committee on Oversight and Government Reform\] for ‘Committee on Government Reform and Oversight’;
 
 &emsp;“(4) (A) subsection (b)(2)(A) of such section shall be applied by substituting ‘eliminated (if any)’ for ‘eliminated’;
 
@@ -168,7 +168,7 @@ First method.—The amount required under this subparagraph shall be determined 
 
 &emsp;&emsp;&emsp;“(i) First, determine the sum of the following:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) The amount equal to 19 percent of the final basic pay of each employee described in paragraph (2) who takes early retirement under section 8336(d) of title 5, United States Code.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) The amount equal to 19 percent of the final basic pay of each employee described inparagraph (2) who takes early retirement under section 8336(d) of title 5, United States Code.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) The amount equal to 58 percent of the final basic pay of each employee described in paragraph (2) who retires on an immediate annuity under section 8336 of such title 5 (not including any employee covered by subclause (I)).
 
@@ -244,7 +244,7 @@ Pub. L. 106–58, title I, §116, Sept. 29, 1999, 113 Stat. 439, authorized the 
 
 Pub. L. 106–58, title I, §119, Sept. 29, 1999, 113 Stat. 441, authorized the Commissioner of the Financial Management Services of the Department of the Treasury, during the period from Oct. 1, 1999 through Jan. 31, 2000, to offer voluntary separation incentives in order to provide the necessary flexibility to carry out the closure of the Chicago Financial Center (CFC) in a manner which the Commissioner deemed most efficient, equitable to employees, and cost effective to the Government, defined “employee” for separation incentive purposes, and provided for an agency plan, authority to provide separation incentive payments, eligibility requirements, effect on subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
 
-Pub. L. 106–58, title IV, §411, Sept. 29, 1999, 113 Stat. 456, as amended by Pub. L. 106–554, §1(a)(3) \[title IV, §408\], Dec. 21, 2000, 114 Stat. 2763, 2763A–146, authorized the Administrator of General Services, during the period Oct. 1, 1999 through Apr. 30, 2002, to offer a voluntary separation incentive in order to provide the necessary flexibility to carry out the closing of the Federal Supply Service distribution centers, forward supply points, and associated programs in a manner which the Administrator deemed most efficient, equitable to all employees, and cost effective for the Government, defined “employee” for separation incentive purposes, and provided for agency strategic plan, authority to provide incentive payments, eligibility requirements, effect of subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
+Pub. L. 106–58, title IV, §411, Sept. 29, 1999, 113 Stat. 456, as amended by Pub. L. 106–554, §1(a)(3) \[title IV, §408\], Dec. 21, 2000, 114 Stat. 2763, 2763A–146, authorizedthe Administrator of General Services, during the period Oct. 1, 1999 through Apr. 30, 2002, to offer a voluntary separation incentive in order to provide the necessary flexibility to carry out the closing of the Federal Supply Service distribution centers, forward supply points, and associated programs in a manner which the Administrator deemed most efficient, equitable to all employees, and cost effective for the Government, defined “employee” for separation incentive purposes, and provided for agency strategic plan, authority to provide incentive payments, eligibility requirements, effect of subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
 
 Pub. L. 105–206, title I, §1202, July 22, 1998, 112 Stat. 719, authorized Commissioner of Internal Revenue to pay voluntary separation incentive payments to any qualifying employee of the Internal Revenue Service who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2003, provided for pertinent definitions, additional Internal Revenue Service contributions to the Retirement Fund, effect of subsequent employment with the Government, and effect on Internal Revenue Service employment levels.
 
@@ -262,7 +262,7 @@ Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §663\], Sept. 30, 1996
 
 Definitions.—For the purposes of this section—
 
-&emsp;“(1) the term ‘agency’ means any Executive agency (as defined in section 105 of title 5, United StatesCode), other than an Executive agency (except an agency receiving such authority in the Department of Transportation Appropriations Act, 1997 \[probably means the Department of Transportation and Related Agencies Appropriations Act, 1997, Pub. L. 104–205, see Tables for classification\]) that is authorized by any other provision of this Act or any other Act to provide voluntary separation incentive payments during all, or any part of, fiscal year 1997; and
+&emsp;“(1) the term ‘agency’ means any Executive agency (as defined in section 105 of title 5, United States Code), other than an Executive agency (except an agency receiving such authority in the Department of Transportation Appropriations Act, 1997 \[probably means the Department of Transportation and Related Agencies Appropriations Act, 1997, Pub. L. 104–205, see Tables for classification\]) that is authorized by any other provision of this Act or any other Act to provide voluntary separation incentive payments during all, or any part of, fiscal year 1997; and
 
 &emsp;“(2) the term ‘employee’ means an employee (as defined by section 2105 of title 5, United States Code) who is employed by an agency, is serving under an appointment without time limitation, and has been currently employed for a continuous period of at least 3 years, but does not include—
 
@@ -286,7 +286,7 @@ Agency Strategic Plan.—
 
 &emsp;“(1)
 
-In general.—The head of each agency, prior to obligating any resources for voluntary separation incentive payments, shall submit to the House and Senate Committees on Appropriations and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives a strategic plan outlining the intended use of such incentive payments and a proposed organizational chart for the agency once such incentive payments have been completed.
+In general.—The head of each agency, prior to obligating any resources for voluntary separation incentive payments, shall submit to the House and Senate Committees on Appropriations and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives a strategic plan outlining the intended use of such incentive payments and a proposed organizational chart for the agency once such incentive payments have been completed.
 
 &emsp;“(2)
 
@@ -390,7 +390,7 @@ Section 6 of Pub. L. 103–226 provided that: “No later than December 31st of 
 
 &emsp;“(B) the title and the grade or pay level of the position filled by the employee to whom such waiver applied.”
 
-\[Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.\]
+\[Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.\]
 
 #### Source of Payments
 

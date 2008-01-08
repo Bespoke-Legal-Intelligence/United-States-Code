@@ -22,5 +22,5 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 #### Appointment of United States Trustees by Attorney General
 
-For sense of Congress concerning consideration of estate administrators under title 11 by the Attorney General for appointment under this section as U.S. trustee and assistant U.S. trustee, see section 309 of Pub. L. 99–554, set out as a note under section 581 of this title.
+For sense of Congress concerning consideration of estate administrators under title 11 by the Attorney General for appointment under this section as U.S. trusteeand assistant U.S. trustee, see section 309 of Pub. L. 99–554, set out as a note under section 581 of this title.
 

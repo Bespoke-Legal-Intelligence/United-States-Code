@@ -52,7 +52,7 @@
 
 (4) The Secretary of the Treasury may charge a fee sufficient to cover the full cost of implementing this subsection. The fee may be collected either by the retention of a portion of amounts collected pursuant to this subsection, or by billing the agency referring or transferring a claim for those amounts. Fees charged to the agencies shall be based on actual administrative offsets completed. Amounts received by the United States as fees under this subsection shall be deposited into the account of the Department of the Treasury under section 3711(g)(7) of this title, and shall be collected and accounted for in accordance with the provisions of that section.
 
-(5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
+(5) The Secretary of the Treasury in consultation with the Commissioner of Social Securityand the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
 (6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
 
@@ -186,7 +186,7 @@ Ex. Ord. No. 13019, Sept. 28, 1996, 61 F.R. 51763, provided that:
 
 The Debt Collection Improvement Act of 1996, Public Law 104–134 \[§31001\] (110 Stat. 1321–358 <i>et seq</i>.) \[see Short Title of 1996 Amendment note set out under section 3701 of this title\], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
 
-The failure of some parents to meet their child support obligations threatens the health, education, andwell-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
+The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -202,7 +202,7 @@ Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury (
 
 (e) The head of each executive department and agency that is authorized by law to disburse payments shall promptly implement any rule, regulation, or procedure issued by the Secretary pursuant to this section and shall:
 
-(1) match, consistent with computer privacy matching laws, the payment certification records of such department or agency with records of persons delinquent in child support payments as directed by the Secretary; and
+(1) match, consistent with computer privacy matching laws, the payment certification records of such department or agency with records of persons delinquentin child support payments as directed by the Secretary; and
 
 (2) conduct administrative offsets to collect delinquent child support payments.
 

@@ -12,7 +12,7 @@
 
 &emsp;(3) the Commissioner of Social Security is requested to do so—
 
-&emsp;&emsp;(A) by any individual with respect to whom the Commissioner of Social Security holds information obtained under section 6057 of title 26, or
+&emsp;&emsp;(A) by any individual with respect to whom the Commissioner of Social Security holds information obtained under section 6057 of the Internal Revenue Code of 1986, or
 
 &emsp;&emsp;(B) in the case of the death of the individual referred to in subparagraph (A), by the individual who would be entitled to payment under section 404(d) of this title,
 
@@ -22,11 +22,13 @@
 
 (2) There are hereby authorized to be appropriated to the Federal Old-Age and Survivors Insurance Trust Fund for each fiscal year (commencing with the fiscal year ending June 30, 1974) such sums as the Commissioner of Social Security deems necessary on account of additional administrative expenses resulting from the enactment of the provisions of subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1131, as added Pub. L. 93–406, title II, §1032, Sept. 2, 1974, 88 Stat. 947; amended Pub. L. 98–369, div. B, title VI, §2663(e)(7), July 18, 1984, 98 Stat. 1168; Pub. L. 103–296, title I, §108(b)(11), Aug. 15, 1994, 108 Stat. 1484.)
+(Aug. 14, 1935, ch. 531, title XI, §1131, as added Pub. L. 93–406, title II, §1032, Sept. 2, 1974, 88 Stat. 947; amended Pub. L. 98–369, div. B, title VI, §2663(e)(7), July 18, 1984, 98 Stat. 1168; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(b)(11), Aug. 15, 1994, 108 Stat. 1484.)
 
 #### References in Text
 
 Part A of subchapter XVIII of this chapter, referred to in subsec. (a)(2), is classified to section 1395c et seq. of this title.
+
+The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Subsec. (a)(2). Pub. L. 103–296, §108(b)(11)(F), added par. (2). Former par. 
 Subsec. (a)(3). Pub. L. 103–296, §108(b)(11)(A), (E), redesignated par. (2) as (3) and substituted “Commissioner of Social Security” for “Secretary” in introductory provisions and in subpar. (A).
 
 Subsec. (b)(2). Pub. L. 103–296, §108(b)(11)(A), substituted “Commissioner of Social Security” for “Secretary”.
+
+1986—Subsec. (a)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 1984—Subsec. (a). Pub. L. 98–369, §2663(e)(7)(B), realigned margin of provisions following par. (2)(B).
 

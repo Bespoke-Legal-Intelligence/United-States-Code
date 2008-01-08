@@ -8,19 +8,19 @@ The Secretary shall, with respect to trauma care—
 
 &emsp;(2) foster the development of appropriate, modern systems of such care through the sharing of information among agencies and individuals involved in the study and provision of such care;
 
-&emsp;(3) provide to State and local agencies technical assistance; and
+&emsp;(3) collect, compile, and disseminate information on the achievements of, and problems experienced by, State and local agencies and private entities in providing trauma care and emergency medical services and, in so doing, give special consideration to the unique needs of rural areas;
 
-&emsp;(4) sponsor workshops and conferences.
+&emsp;(4) provide to State and local agencies technical assistance to enhance each State's capability to develop, implement, and sustain the trauma care component of each State's plan for the provision of emergency medical services;
+
+&emsp;(5) sponsor workshops and conferences; and
+
+&emsp;(6) promote the collection and categorization of trauma data in a consistent and standardized manner.
 
 #### (b) Grants, cooperative agreements, and contracts
 
-The Secretary may make grants, and enter into cooperative agreements and contracts, for the purpose of carrying out subsection (a) of this section.
+The Secretary may make grants, and enter into cooperative agreements and contracts, for the purpose of carrying out subsection (a).
 
-#### (c) Administration
-
-The Administrator of the Health Resources and Services Administration shall ensure thatthis subchapter is administered by the Division of Trauma and Emergency Medical Systems within such Administration. Such Division shall be headed by a director appointed by the Secretary from among individuals who are knowledgeable by training or experience in the development and operation of trauma and emergency medical systems.
-
-(July 1, 1944, ch. 373, title XII, §1201, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2916; amended Pub. L. 103–183, title VI, §601(a), Dec. 14, 1993, 107 Stat. 2238; Pub. L. 104–146, §12(b), May 20, 1996, 110 Stat. 1373.)
+(July 1, 1944, ch. 373, title XII, §1201, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2916; amended Pub. L. 103–183, title VI, §601(a), Dec. 14, 1993, 107 Stat. 2238; Pub. L. 104–146, §12(b), May 20, 1996, 110 Stat. 1373; Pub. L. 110–23, §2, May 3, 2007, 121 Stat. 90.)
 
 #### Prior Provisions
 
@@ -29,6 +29,8 @@ A prior section 300d, act July 1, 1944, ch. 373, title XII, §1201, as added Nov
 A prior section 1201 of act July 1, 1944, ch. 373, title XII, formerly §1205, as added Nov. 16, 1973, Pub. L. 93–154, §2(a), 87 Stat. 597, was classified to section 300d–4 of this title prior to repeal by Pub. L. 99–117, §12(e), Oct. 7, 1985, 99 Stat. 495.
 
 #### Amendments
+
+2007—Pub. L. 110–23 amended section generally. Prior to amendment, section required the Secretary to provide support to trauma care, authorized the Secretary to make grants and enter into agreements for such support, and required the Administrator of the Health Resources and Services Administration to ensure that the Division of Trauma and Emergency Medical Systems administered this subchapter.
 
 1996—Subsec. (a). Pub. L. 104–146, in introductory provisions, substituted “The Secretary shall,” for “The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall,”.
 

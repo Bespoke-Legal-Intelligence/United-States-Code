@@ -50,7 +50,7 @@ Amount under pre-flat-rate reduction.—An amount equal to 21/2 percent of the f
 
 &emsp;(2)
 
-Additional reduction for child coverage.—If there is a dependent child as well as a spouse or former spouse, the amount prescribed under paragraph (1) shall be increased by an amount prescribed under regulations of the Secretary of Defense.
+Additional reduction for child coverage.—If there is a dependent child as well asa spouse or former spouse, the amount prescribed under paragraph (1) shall be increased by an amount prescribed under regulations of the Secretary of Defense.
 
 &emsp;(3)
 
@@ -132,7 +132,7 @@ Rule for computation.—Computation of a member's retired pay for purposes of th
 
 Rule for designation of new insurable interest beneficiary following death of original beneficiary.—The Secretary of Defense shall prescribe in regulations premiums which a participant making an election under section 1448(b)(1)(G) of this title shall be required to pay for participating in the Plan pursuant to that election. The total amount of the premiums to be paid by a participant under the regulations shall be equal to the sum of the following:
 
-&emsp;&emsp;(A) The total additional amount by which the retired pay of the participant would have been reduced before the effective date of the election if the original beneficiary (i) had not died and had been covered under the Plan through the date of the election, and (ii) had been the same number of years younger than the participant (if any) as the new beneficiary designated under the election.
+&emsp;&emsp;(A) The total additional amount by which the retired pay of the participant would have been reduced before the effective date of the election if the original beneficiary (i) had not died and had been covered under the Plan through the date of the election, and\(ii) had been the same number of years younger than the participant (if any) as the new beneficiary designated under the election.
 
 &emsp;&emsp;(B) Interest on the amounts by which the retired pay of the participant would have been so reduced, computed from the dates on which the retired pay would have been so reduced at such rate or rates and according to such methodology as the Secretary of Defense determines reasonable.
 
@@ -144,7 +144,7 @@ Deposits To Cover Periods When Retired Pay Not Paid.—
 
 &emsp;(1)
 
-Required deposits.—If a person who has elected to participate in the Plan has beenawarded retired pay and is not entitled to that pay for any period, that person must deposit in the Treasury the amount that would otherwise have been deducted from his pay for that period.
+Required deposits.—If a person who has elected to participate in the Plan has been awarded retired pay and is not entitled to that pay for any period, that person must deposit in the Treasury the amount that would otherwise have been deducted from his pay for that period.
 
 &emsp;(2)
 
@@ -220,7 +220,7 @@ Conditions for resumption.—A person described in paragraph (1) who discontinue
 
 &emsp;&emsp;&emsp;(i) after having discontinued participation in the Plan the Secretary of Veterans Affairs reduces that person's service-connected disability rating to a rating of less than total; and
 
-&emsp;&emsp;&emsp;(ii) that person applies to the Secretary concerned, within such period of time after the reduction in such person's service-connected disability rating has been made as the Secretary concerned may prescribe, to again participate in the Plan and includes in such application such information as the Secretary concerned may require.
+&emsp;&emsp;&emsp;(ii) that person applies to the Secretary concerned, within such period of time after the reduction in such person's service-connected disability rating has been made as the Secretary concerned may prescribe, to again participate in the Plan and includesin such application such information as the Secretary concerned may require.
 
 &emsp;&emsp;(B)
 
@@ -236,7 +236,7 @@ Increases in Reduction With Increases in Retired Pay.—
 
 &emsp;(1)
 
-General rule.—Whenever retired pay is increased under section 1401a of this title (orany other provision of law), the amount of the reduction to be made under subsection (a) or (b) in the retired pay of any person shall be increased at the same time and by the same percentage as such retired pay is so increased.
+General rule.—Whenever retired pay is increased under section 1401a of this title (or any other provision of law), the amount of the reduction to be made under subsection (a) or (b) in the retired pay of any person shall be increased at the same time and by the same percentage as such retired pay is so increased.
 
 &emsp;(2)
 

@@ -10,7 +10,7 @@ The consent of the Congress is hereby given to two or more States to negotiate a
 
 &emsp;(1) cooperative effort and mutual assistance for the management of solid waste or hazardous waste (or both) and the enforcement of their respective laws relating thereto, and
 
-&emsp;(2) the establishment of such agencies, joint or otherwise, as they may deem desirable for making effective such agreements or compacts.
+&emsp;(2) the establishment of such agencies, joint or otherwise, as they may deem desirable formaking effective such agreements or compacts.
 
 > No such agreement or compact shall be binding or obligatory upon any State a party thereto unless it is agreed upon by all parties to the agreement and until it has been approved by the Administrator and the Congress.
 

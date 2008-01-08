@@ -36,5 +36,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Delegation of Functions
 
-Secretary of State empowered to prescribe regulations governing allotment to posts in foreign countries,for purpose stated in this section, of funds available to the departments for administrative expenses, and to designate senior officials of this Government in foreign countries, see section 1(c) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of this title.
+Secretary of State empowered to prescribe regulations governing allotment to posts in foreign countries, for purpose stated in this section, of funds available to the departments for administrative expenses, and to designate senior officials of this Government in foreign countries, see section 1(c) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of this title.
 

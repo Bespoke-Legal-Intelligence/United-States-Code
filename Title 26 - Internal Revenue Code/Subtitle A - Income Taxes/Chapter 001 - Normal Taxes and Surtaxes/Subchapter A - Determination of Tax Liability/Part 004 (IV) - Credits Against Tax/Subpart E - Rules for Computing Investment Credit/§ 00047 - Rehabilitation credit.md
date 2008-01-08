@@ -164,7 +164,7 @@ For purposes of this section—
 
 &emsp;In the case of any building to which this subsection applies, except as provided in paragraph (3)—
 
-&emsp;&emsp;(A) if such building is self-rehabilitated property, any qualified rehabilitation expenditure with respect to such building shallbe taken into account for the taxable year for which such expenditure is properly chargeable to capital account with respect to such building, and
+&emsp;&emsp;(A) if such building is self-rehabilitated property, any qualified rehabilitation expenditure with respect to such building shall be taken into account for the taxable year for which such expenditure is properly chargeable to capital account with respect to such building, and
 
 &emsp;&emsp;(B) if such building is not self-rehabilitated property, any qualified rehabilitation expenditure with respect to such building shall be taken into account for the taxable year in which paid.
 
@@ -242,7 +242,7 @@ For purposes of this section—
 
 #### (5) Election
 
-&emsp;This subsection shall apply to any taxpayer only if such taxpayer has made an electionunder this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.
+&emsp;This subsection shall apply to any taxpayer only if such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.
 
 (Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(<i>o</i>)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536.)
 
@@ -250,7 +250,7 @@ For purposes of this section—
 
 1990—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: “Certain dispositions, etc., of section 38 property” and in text substituting present provisions for provisions relating to general rules regarding disposition of section 38 property, nonapplicability of section in certain cases, the treatment of any increase in tax under the section, increases in nonqualified nonrecourse financing, and transfers between spouses or incident to divorce.
 
-Subsec. (b)(1) to (3). Pub. L. 101–508, §11801(c)(8)(A), inserted “or” at end of par. (1), substituted a period for “, or” at end of par. (2), and struck out par. (3) which related to nonapplicability of subsec. (a) in the case of a transfer of section 38 property related to exchanges under final system plan for ConRail.
+Subsec. (b)(1) to (3). Pub. L. 101–508, §11801(c)(8)(A), inserted “or” at end of par. (1), substituted a period for “, or” at end of par. (2), and struck out par. (3) which related to nonapplicability of subsec. (a) in the case ofa transfer of section 38 property related to exchanges under final system plan for ConRail.
 
 1988—Subsec. (a)(5)(D). Pub. L. 100–647, §1002(a)(26)(B), struck out at end “If, prior to a disposition to which this subsection applies, any portion of any credit is not allowable with respect to any property by reason of section 168(i)(3), such portion shall be treated (for purposes of this subparagraph) as not having been used to reduce tax liability.”
 
@@ -304,7 +304,7 @@ Subsec. (d)(3)(A). Pub. L. 97–448, §102(e)(3)(B), substituted “section 46(c
 
 1981—Subsec. (a)(3)(D). Pub. L. 97–34, §211(g)(2)(A), inserted provisions relating to disposition, cessation, or change in expected use described in paragraph (5).
 
-Subsec. (a)(5), (6). Pub. L. 97–34, §211(g)(1), (2)(B), added par. (5), redesignated former par. (5) as (6) andsubstituted “paragraph (1), (3), or (5)” for “paragraph (1) or (3)”. Former par. (6) redesignated (7).
+Subsec. (a)(5), (6). Pub. L. 97–34, §211(g)(1), (2)(B), added par. (5), redesignated former par. (5) as (6) and substituted “paragraph (1), (3), or (5)” for “paragraph (1) or (3)”. Former par. (6) redesignated (7).
 
 Subsec. (a)(7), (8). Pub. L. 97–34, §211(g)(1), (2)(C), redesignated former par. (6) as (7), substituted “paragraph (6)” for “paragraph (5)”, and redesignated former par. (7) as (8).
 
@@ -384,7 +384,7 @@ Section 317(b) of Pub. L. 95–600 provided that: “The amendment made by subse
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 804(b) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1974, seesection 804(e) of Pub. L. 94–455, set out as a note under section 48 of this title.
+Amendment by section 804(b) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1974, see section 804(e) of Pub. L. 94–455, set out as a note under section 48 of this title.
 
 #### Effective Date of 1975 Amendment
 

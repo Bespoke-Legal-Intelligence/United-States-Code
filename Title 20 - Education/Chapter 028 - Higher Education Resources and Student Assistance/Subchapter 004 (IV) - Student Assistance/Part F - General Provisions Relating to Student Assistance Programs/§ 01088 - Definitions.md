@@ -56,7 +56,7 @@
 
 For purposes of this subchapter and part C of subchapter I of chapter 34 of title 42, the term “third party servicer” means any individual, or any State, or private, profit or nonprofit organization which enters into a contract with—
 
-&emsp;(1) any eligible institution of higher education to administer, through either manualor automated processing, any aspect of such institution's student assistance programs under this subchapter and part C of subchapter I of chapter 34 of title 42; or
+&emsp;(1) any eligible institution of higher education to administer, through either manual or automated processing, any aspect of such institution's student assistance programs under this subchapter and part C of subchapter I of chapter 34 of title 42; or
 
 &emsp;(2) any guaranty agency, or any eligible lender, to administer, through either manual or automated processing, any aspect of such guaranty agency's or lender's student loan programs under part B of this subchapter, including originating, guaranteeing, monitoring, processing, servicing, or collecting loans.
 
@@ -114,7 +114,7 @@ Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted “do not have a hi
 
 Subsec. (a)(4)(A). Pub. L. 103–208, §2(h)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such institution has filed for bankruptcy; or”.
 
-Subsec. (d)(2). Pub. L. 103–208, §2(h)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term ‘academic year’ shall require a minimum of 30 weeks of instructional time in which a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution which measures program length in credit hours or at least 900 clock hours at an institution which measures program length in clock hours.”
+Subsec. (d)(2). Pub. L. 103–208, §2(h)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term ‘academic year’ shall require a minimum of 30 weeks of instructional time in which a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution which measures program length in credit hours or atleast 900 clock hours at an institution which measures program length in clock hours.”
 
 Subsec. (e)(2). Pub. L. 103–208, §2(h)(5), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall develop regulations to determine the quality of programs of less than 600 clock hours in length. Such regulations shall require, at a minimum, that the programs have a verified rate of completion of at least 70 percent and a verified rate of placement of at least 70 percent. Pursuant to these regulations and notwithstanding paragraph (1), the Secretary shall allow programs of less than 600 clock hours, but greater than 300 clock hours, in length to be eligible to participate in the programs authorized under part B of this subchapter.”
 
@@ -160,7 +160,7 @@ Subsec. (e). Pub. L. 101–239, §2007(b)(2), added subsec. (e).
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
-Amendment by section 8007(d) of Pub. L. 109–171 applicable with respect to loans for which the first disbursement is made on or after July 1, 2001, see section 8007(f) of Pub. L. 109–171, set out as a note under section 1078 of this title.
+Amendment by section 8007(d) of Pub. L. 109–171 applicable with respect to all loans under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.), see section 8007(f) of Pub. L. 109–171, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1998 Amendments
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 102–26 applicable to any grant, loan, or work assistance 
 
 #### Effective Date of 1990 Amendment
 
-Section 3005(c) of Pub. L. 101–508, which provided that the amendments made by section 3005 (amending this section and section 1091 of this title) were to apply to any grant, loan, or work assistance to cover the cost of instruction for periods of enrollment beginning on or after Jan. 1, 1991, was repealed by section 2(d)(2)(A) of Pub. L. 102–26. See Construction of 1991 Amendment note below.
+Section 3005(c) of Pub. L. 101–508, which provided that the amendments made by section 3005 (amending thissection and section 1091 of this title) were to apply to any grant, loan, or work assistance to cover the cost of instruction for periods of enrollment beginning on or after Jan. 1, 1991, was repealed by section 2(d)(2)(A) of Pub. L. 102–26. See Construction of 1991 Amendment note below.
 
 #### Effective Date of 1987 Amendment
 

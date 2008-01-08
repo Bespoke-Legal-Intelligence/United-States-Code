@@ -22,7 +22,7 @@
 
 &emsp;(1) The terms “includes” and “including” shall not be deemed to exclude other things otherwise within the meaning of the term defined.
 
-&emsp;(2) The term “ordinary customs duty” shall not include any import duty or charge which is imposed to compensate for an internal tax imposed in respect of a like domestic product or in respect of a commodity from which the imported product has been manufactured or produced in whole or in part.
+&emsp;(2) The term “ordinary customs duty” shall not include any import duty or charge whichis imposed to compensate for an internal tax imposed in respect of a like domestic product or in respect of a commodity from which the imported product has been manufactured or produced in whole or in part.
 
 (Mar. 24, 1934, ch. 84, §18, as added Aug. 7, 1939, ch. 502, §5, 53 Stat. 1231.)
 

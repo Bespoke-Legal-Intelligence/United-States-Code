@@ -20,7 +20,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 #### (2) Applicable percentage
 
-&emsp;For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land <sup>1</sup> (determined without regard to thevalue of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
+&emsp;For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land <sup>1</sup> (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
 
 #### (3) Exclusion limitation
 
@@ -68,7 +68,7 @@ $500,000.
 
 #### (i) Debt-financed property
 
-&emsp;&emsp;&emsp;The term “debt-financed property” means any property with respect to which there is an acquisition indebtedness (as defined in clause (ii)) on the date of the decedent's death.
+&emsp;&emsp;&emsp;The term “debt-financed property” means any property with respect to whichthere is an acquisition indebtedness (as defined in clause (ii)) on the date of the decedent's death.
 
 #### (ii) Acquisition indebtedness
 
@@ -150,7 +150,7 @@ $500,000.
 
 #### (9) Treatment of easements granted after death
 
-&emsp;In any case in which the qualified conservation easement is granted after the date of the decedent's death and on or before the due date (including extensions) for filing the return of tax imposed by section 2001, the deduction under section 2055(f) with respect to such easement shall be allowed to the estate but only if no charitable deduction is allowed under chapter 1 to any person with respect to the grant of such easement.
+&emsp;In any case in which the qualified conservation easement is granted after the date of the decedent's death and on or before the due date (including extensions) for filing the return of tax imposed by section 2001, the deductionunder section 2055(f) with respect to such easement shall be allowed to the estate but only if no charitable deduction is allowed under chapter 1 to any person with respect to the grant of such easement.
 
 #### (10) Application of this section to interests in partnerships, corporations, and trusts
 

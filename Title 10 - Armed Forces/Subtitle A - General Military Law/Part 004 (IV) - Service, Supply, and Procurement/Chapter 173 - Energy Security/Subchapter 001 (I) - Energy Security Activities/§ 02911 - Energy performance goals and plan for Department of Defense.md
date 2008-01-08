@@ -58,7 +58,7 @@ Selection of Energy Conservation Measures.—(1) For the purpose of implementing
 
 Goal Regarding Use of Renewable Energy To Meet Electricity Needs.—It shall be the goal of the Department of Defense—
 
-&emsp;(1) to produce or procure not less than 25 percent of the total quantity of electric energy it consumes within its facilities and in its activities during fiscal year 2025 and each fiscal year thereafter from renewable energy sources (as defined in section 203(b) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b))); and
+&emsp;(1) to produce or procure not less than 25 percent of the total quantity of electric energy it consumes within its facilities and in its activities during fiscal year 2025 and each fiscal year thereafter from renewable energysources (as defined in section 203(b) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b))); and
 
 &emsp;(2) to produce or procure electric energy from renewable energy sources whenever the use of such renewable energy sources is consistent with the energy performance goals and energy performance plan for the Department and supported by the special considerations specified in subsection (c).
 
@@ -70,7 +70,7 @@ Goal Regarding Use of Renewable Energy To Meet Electricity Needs.—It shall be 
 
 #### Utilization of Fuel Cells as Back-Up Power Systems in Department of Defense Operations
 
-Pub. L. 109–364, div. A, title III, §358, Oct. 17, 2006, 120 Stat. 2164, provided that: “The Secretary of Defenseshall consider the utilization of fuel cells as replacements for current back-up power systems in a variety of Department of Defense operations and activities, including in telecommunications networks, perimeter security, individual equipment items, and remote facilities, in order to increase the operational longevity of back-up power systems and stand-by power systems in such operations and activities.”
+Pub. L. 109–364, div. A, title III, §358, Oct. 17, 2006, 120 Stat. 2164, provided that: “The Secretary of Defense shall consider the utilization of fuel cells as replacements for current back-up power systems in a variety of Department of Defense operations and activities, including in telecommunications networks, perimeter security, individual equipment items, and remote facilities, in order to increase the operational longevity of back-up power systems and stand-by power systems in such operations and activities.”
 
 #### Energy Efficiency in Weapons Platforms
 
@@ -132,5 +132,5 @@ Strategies for Improving Energy Efficiency.—In order to achieve the goals set 
 
 “(e)
 
-Reporting Requirements.—Not later than January 1, 2002, and each January 1 thereafter through 2010, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the report required to be prepared by the Secretary pursuant to section 303 of Executive Order 13123 (64 Fed. Reg. 30851; 42 U.S.C. 8251 note) regarding the progress made toward achieving the energy efficiency goals of the Department of Defense.”
+Reporting Requirements.—Not later than January 1, 2002, and each January 1 thereafter through 2010, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the report required to be prepared by the Secretary pursuant to section 303 of Executive Order 13123 (64 Fed. Reg. 30851; \[former\] 42 U.S.C. 8251 note) regarding the progress made toward achieving the energy efficiency goals of the Department of Defense.”
 

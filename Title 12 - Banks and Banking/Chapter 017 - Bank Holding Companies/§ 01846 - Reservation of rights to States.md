@@ -8,7 +8,7 @@ No provision of this chapter shall be construed as preventing any State from exe
 
 No provision of this chapter shall be construed as affecting the authority of any State or political subdivision of any State to adopt, apply, or administer any tax or method of taxation to any bank, bank holding company, or foreign bank, or any affiliate of any bank, bank holding company, or foreign bank, to the extent that such tax or tax method is otherwise permissible by or under the Constitution of the United States or other Federal law.
 
-(May 9, 1956, ch. 240, §7, 70 Stat. 138; Pub. L. 100–86, title I, §101(f), Aug. 10, 1987, 101 Stat. 563; Pub. L. 103–328, title I, §101(b), Sept. 29, 1994, 108 Stat. 2341.)
+(May 9, 1956, ch. 240, §7, 70 Stat. 138; Pub. L. 100–86, title I, §101(f), Aug. 10, 1987, 101 Stat. 563;Pub. L. 103–328, title I, §101(b), Sept. 29, 1994, 108 Stat. 2341.)
 
 #### Amendments
 
@@ -18,5 +18,5 @@ No provision of this chapter shall be construed as affecting the authority of an
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–328 effective at end of 1-year period beginning on Sept. 29, 1994, see section101(e) of Pub. L. 103–328, set out as a note under section 1828 of this title.
+Amendment by Pub. L. 103–328 effective at end of 1-year period beginning on Sept. 29, 1994, see section 101(e) of Pub. L. 103–328, set out as a note under section 1828 of this title.
 

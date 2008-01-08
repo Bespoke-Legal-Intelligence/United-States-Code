@@ -18,7 +18,7 @@ Provisions of this section authorizing transfer of cases before the United State
 
 #### Prior Provisions
 
-Prior provisions somewhat similar to those in this section, were contained in R.S. §2983, and section 2984 as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, which contained a further provision for cancellation or satisfaction of warehouse bonds. Both of these sections were superseded by act Sept. 21, 1922, ch. 356, title IV, §563, 42 Stat. 978, and repealed by section 642 thereof. Section 563 of the 1922 act was superseded and enlarged by section 563 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Prior provisions somewhat similar to those in this section, were contained in R.S. §2983, and section 2984as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, which contained a further provision for cancellation or satisfaction of warehouse bonds. Both of these sections were superseded by act Sept. 21, 1922, ch. 356, title IV, §563, 42 Stat. 978, and repealed by section 642 thereof. Section 563 of the 1922 act was superseded and enlarged by section 563 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

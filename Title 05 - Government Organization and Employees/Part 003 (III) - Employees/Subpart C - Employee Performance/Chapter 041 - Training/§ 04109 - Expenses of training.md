@@ -22,7 +22,7 @@
 
 (c) Notwithstanding subsection (a)(1) of this section, the Administrator, Federal Aviation Administration, may pay an individual training to be an air traffic controller of such Administration, and the Secretary of Defense may pay an individual training to be an air traffic controller of the Department of Defense, during the period of such training, at the applicable rate of basic pay for the hours of training officially ordered or approved in excess of forty hours in an administrative workweek.
 
-(d) Notwithstanding subsection (a)(1), a firefighter who is subject to section 5545b of this title shall be paid basic pay and overtime pay for the firefighter's regular tour of duty while attending agency sanctioned training.
+(d) Notwithstanding subsection (a)(1), a firefighter who is subject to section 5545b of thistitle shall be paid basic pay and overtime pay for the firefighter's regular tour of duty while attending agency sanctioned training.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 436; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, §2(a)(19), Aug. 14, 1979, 93 Stat. 382; Pub. L. 97–258, §3(a)(9), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–276, §151(a), Oct. 2, 1982, 96 Stat. 1200; Pub. L. 98–224, §5(b)(2), Mar. 2, 1984, 98 Stat. 48; Pub. L. 98–525, title XV, §1537(a), Oct. 19, 1984, 98 Stat. 2635; Pub. L. 102–378, §2(17), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 105–277, div. A, §101(h) \[title VI, §628(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521.)
 

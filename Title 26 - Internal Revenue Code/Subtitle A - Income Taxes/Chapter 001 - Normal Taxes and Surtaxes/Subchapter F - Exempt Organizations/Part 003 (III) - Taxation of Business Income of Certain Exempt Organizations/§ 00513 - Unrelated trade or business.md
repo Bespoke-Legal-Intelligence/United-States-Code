@@ -6,7 +6,7 @@ The term “unrelated trade or business” means, in the case of any organizatio
 
 &emsp;(1) in which substantially all the work in carrying on such trade or business is performed for the organization without compensation; or
 
-&emsp;(2) which is carried on, in the case of an organization described in section 501(c)(3) or in the case of a college or university described in section 511(a)(2)(B), by the organization primarily for the convenience of its members,students, patients, officers, or employees, or, in the case of a local association of employees described in section 501(c)(4) organized before May 27, 1969, which is the selling by the organization of items of work-related clothes and equipment and items normally sold through vending machines, through food dispensing facilities, or by snack bars, for the convenience of its members at their usual places of employment; or
+&emsp;(2) which is carried on, in the case of an organization described in section 501(c)(3) or in the case of a college or university described in section 511(a)(2)(B), by the organization primarily for the convenience of its members, students, patients, officers, or employees, or, in the case of a local association of employees described in section 501(c)(4) organized before May 27, 1969, which is the selling by the organization of items of work-related clothes and equipment and items normally sold through vending machines, through food dispensing facilities, or by snack bars, for the convenience of its members at their usual places of employment; or
 
 &emsp;(3) which is the selling of merchandise, substantially all of which has been received by the organization as gifts or contributions.
 
@@ -194,9 +194,9 @@ The term “unrelated trade or business” includes the provision of debt manage
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §4, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(b)(4), (c), Dec. 30, 1969, 83 Stat. 541, 542; Pub. L. 94–455, title XIII, §§1305(a), 1311(a), Oct. 4, 1976, 90 Stat. 1716, 1729; Pub. L. 95–502, title III, §301(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 96–605, title I, §106(b), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 99–514, title XVI, §§1601(a), 1602(a), (b), Oct. 22, 1986, 100 Stat. 2766, 2767; Pub. L. 101–508, title XI, §11101(d)(1)(G), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 103–66, title XIII, §13201(b)(3)(H), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title IX, §965(a), Aug. 5, 1997, 111 Stat. 893; Pub. L. 109–280, title XII, §1220(b), Aug. 17, 2006, 120 Stat. 1088.)
 
-#### Adjustment of Low Cost Article Limitation for Taxable Years Beginning in 2007
+#### Adjustment of Low Cost Article Limitation for Taxable Years Beginning in 2008
 
-<i>For adjustment of “low cost article” limitation under subsection (h)(2) of this section for taxable years beginning in 2007, see section 3.27(1) of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of “low cost article” limitation under subsection (h)(2) of this section for taxable years beginning in 2008, see section 3.27(1) of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 
@@ -238,7 +238,7 @@ Section 965(b) of Pub. L. 105–34 provided that: “The amendment made by this 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13201(c)of Pub. L. 103–66, set out as a note under section 1 of this title.
+Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13201(c) of Pub. L. 103–66, set out as a note under section 1 of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -28,11 +28,11 @@ The Secretary shall develop measures to evaluate the effectiveness of the pilot 
 
 #### (e) Report
 
-For each fiscal year for which there are appropriations pursuant to the authorization in subsection (e),<sup>1</sup> the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives, describing the status and implementation of the provisions of this section and the state of financial literacy and education in the United States.
+For each fiscal year for which there are appropriations pursuant to the authorization in subsection (e),<sup>1</sup> the Secretary shall submit a reportto the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives, describing the status and implementation of the provisions of this section and the state of financial literacy and education in the United States.
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development,production, and distribution of a pilot national public service multimedia campaign under this section.
+There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development, production, and distribution of a pilot national public service multimedia campaign under this section.
 
 (Pub. L. 108–159, title V, §518, Dec. 4, 2003, 117 Stat. 2009.)
 

@@ -126,7 +126,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;(iv) by December 31, 1993, issue a final report to Congress on its findings.
 
-&emsp;(C) The Administrator, after providing for public review and comment, shall publish information concerning the public health and environmental consequences of contaminants in Great Lakes sediment. Information published pursuant to this subparagraph shall include specific numerical limits to protect health, aquatic life, and wildlife from the bioaccumulation of toxins. The Administrator shall, at a minimum, publish information pursuant to this subparagraph within 2 years of November 16, 1990.
+&emsp;(C) The Administrator, after providing for public review and comment, shall publish information concerning the public health and environmental consequences of contaminants in Great Lakes sediment. Information published pursuant to this subparagraph shall include specific numerical limits to protecthealth, aquatic life, and wildlife from the bioaccumulation of toxins. The Administrator shall, at a minimum, publish information pursuant to this subparagraph within 2 years of November 16, 1990.
 
 #### (8) Administrator's responsibility
 
@@ -208,7 +208,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (D) Limitation
 
-&emsp;&emsp;The Administrator may not carry out a project under this paragraph for remediation of contaminated sediments located in an area of concern—
+&emsp;&emsp;The Administrator may not carry out a project under this paragraph for remediationof contaminated sediments located in an area of concern—
 
 &emsp;&emsp;&emsp;(i) if an evaluation of remedial alternatives for the area of concern has not been conducted, including a review of the short-term and long-term effects of the alternatives on human health and the environment; or
 
@@ -304,7 +304,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;Each plan prepared under paragraph (1) shall—
 
-&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under theGreat Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>3</sup>
+&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>3</sup>
 
 &emsp;&emsp;(B) include the Agency's assessment of priorities for research needed to fulfill the terms of such Agreement; and
 
@@ -372,7 +372,7 @@ Subsec. (h). Pub. L. 101–596, §105, substituted “and 1990, and $25,000,000 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Funds Contributed by a Non-Federal Sponsor
 
@@ -380,7 +380,7 @@ Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3332, provided in 
 
 #### Great Lakes Remedial Action Plans and Sediment Remediation
 
-Pub. L. 101–640, title IV, §401, Nov. 28, 1990, 104 Stat. 4644, as amended by Pub. L. 104–303, title V, §515, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–53, title V, §505, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title III, §344, Dec. 11, 2000, 114 Stat. 2613, provided that:
+Pub. L. 101–640, title IV, §401, Nov. 28, 1990, 104 Stat. 4644, as amended by Pub. L. 104–303, title V, §515, Oct. 12, 1996, 110 Stat. 3763; Pub. L. 106–53, title V, §505, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title III, §344, Dec. 11, 2000, 114 Stat. 2613; Pub. L. 110–114, title V, §5012, Nov. 8, 2007, 121 Stat. 1195, provided that:
 
 “(a)
 
@@ -420,7 +420,7 @@ Non-federal share.—Non-Federal interests shall contribute 35 percent of costs 
 
 “(c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for each of fiscal years 2001 through 2006.”
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for each of fiscal years 2001 through 2012.”
 
 #### Ex. Ord. No. 13340. Establishment of Great Lakes Interagency Task Force and Promotion of a Regional Collaboration of National Significance for the Great Lakes
 
@@ -444,7 +444,7 @@ Sec. 3. <i>Great Lakes Interagency Task Force</i>.
 
 &emsp;(ii) Collaborate with Canada and its provinces and with bi-national bodies involved in the Great Lakes region regarding policies, strategies, projects, and priorities for the Great Lakes system.
 
-&emsp;(iii) Coordinate the development of consistent Federal policies, strategies, projects, and priorities for addressing the restoration and protection of the Great Lakes system and assisting in the appropriate management of the Great Lakes system.
+&emsp;(iii) Coordinate the development of consistent Federal policies, strategies, projects, and priorities foraddressing the restoration and protection of the Great Lakes system and assisting in the appropriate management of the Great Lakes system.
 
 &emsp;(iv) Develop outcome-based goals for the Great Lakes system relying upon, among other things, existing data and science-based indicators of water quality and related environmental factors. These goals shall focus on outcomes such as cleaner water, sustainable fisheries, and biodiversity of the Great Lakes system and ensure that Federal policies, strategies, projects, and priorities support measurable results.
 

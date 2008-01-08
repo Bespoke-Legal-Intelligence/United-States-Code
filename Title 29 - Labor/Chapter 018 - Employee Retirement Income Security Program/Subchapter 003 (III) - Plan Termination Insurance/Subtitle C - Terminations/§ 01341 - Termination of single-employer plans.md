@@ -12,7 +12,7 @@
 
 #### (3) Adherence to collective bargaining agreements
 
-&emsp;The corporation shall not proceed with a termination of a plan under this section if the termination would violate the terms and conditions of an existing collective bargaining agreement. Nothing in the preceding sentence shall be construed as limiting the authority of the corporation to institute proceedings to involuntarily terminate a plan under section 1342 of this title.
+&emsp;The corporation shall not proceed with a termination of a plan under this section if thetermination would violate the terms and conditions of an existing collective bargaining agreement. Nothing in the preceding sentence shall be construed as limiting the authority of the corporation to institute proceedings to involuntarily terminate a plan under section 1342 of this title.
 
 #### (b) Standard termination of single-employer plans
 
@@ -50,9 +50,9 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the information provided to the corporation under clause (ii) is accurate and complete.
 
-> &emsp;&emsp;Clause (i) and clause (iii)(I) shall not apply to a plan described in section 412(i) of title 26.
+> &emsp;&emsp;Clause (i) and clause (iii)(I) shall not apply to a plan described in section 412(i) <sup>1</sup> of title 26.
 
-#### (B) Notice to participants and beneficiaries of benefit commitments <sup>1</sup>
+#### (B) Notice to participants and beneficiaries of benefit commitments <sup>2</sup>
 
 &emsp;&emsp;No later than the date on which a notice is sent by the plan administrator under subparagraph (A), the plan administrator shall send a notice to each person who is a participant or beneficiary under the plan—
 
@@ -90,7 +90,7 @@
 
 #### (D) Final distribution of assets in absence of notice of noncompliance
 
-&emsp;&emsp;The plan administrator shall commence the final distribution of assets pursuant to the standard termination of the plan as soon as practicable after the expiration of the 60-day (or extended) period referred to in subparagraph (C), but such final distribution may occur only if—
+&emsp;&emsp;The plan administrator shall commence the final distribution of assets pursuant tothe standard termination of the plan as soon as practicable after the expiration of the 60-day (or extended) period referred to in subparagraph (C), but such final distribution may occur only if—
 
 &emsp;&emsp;&emsp;(i) the plan administrator has not received during such period a notice of noncompliance from the corporation under subparagraph (C), and
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;Except as provided in subparagraph (B), if—
 
-&emsp;&emsp;&emsp;(i) there is <sup>2</sup> transaction or series of transactions which result in a person ceasing to be a member of a controlled group, and
+&emsp;&emsp;&emsp;(i) there is <sup>3</sup> transaction or series of transactions which result in a person ceasing to be a member of a controlled group, and
 
 &emsp;&emsp;&emsp;(ii) such person immediately before the transaction or series of transactions maintained a single-employer plan which is a defined benefit plan which is fully funded,
 
@@ -156,7 +156,7 @@
 
 &emsp;A single-employer plan may terminate under a distress termination only if—
 
-&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate to affected parties required under subsection (a)(2) of this section,
+&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate toaffected parties required under subsection (a)(2) of this section,
 
 &emsp;&emsp;(B) the requirements of subparagraph (A) of paragraph (2) are met, and
 
@@ -194,7 +194,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the information provided to the corporation under clauses (i) and (iii) is accurate and complete.
 
-> &emsp;&emsp;Clause (ii) and clause (iv)(I) shall not apply to a plan described in section 412(i) of title 26.
+> &emsp;&emsp;Clause (ii) and clause (iv)(I) shall not apply to a plan described in section 412(i) <sup>1</sup> of title 26.
 
 #### (B) Determination by the corporation of necessary distress criteria
 
@@ -204,7 +204,7 @@
 
 &emsp;&emsp;&emsp;The requirements of this clause are met by a person if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law ofa State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
+&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law of a State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
 
 &emsp;&emsp;&emsp;&emsp;(II) such case has not, as of the proposed termination date, been dismissed.
 
@@ -348,6 +348,8 @@ The adoption of an amendment to a plan which causes the plan to become a plan de
 
 #### References in Text
 
+Section 412, referred to in subsecs. (b)(2)(A) and (c)(2)(A), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, no longer contains a subsec. (i).
+
 Chapter 11, referred to in subsec. (c)(2)(B)(ii)(IV), probably means chapter 11 of Title 11, Bankruptcy.
 
 #### Amendments
@@ -490,7 +492,7 @@ Transition rule.—If notice under section 4041(c)(2)(D) or 4042(c)(3) of the Em
 
 Amendment by section 776(b)(3) of Pub. L. 103–465 effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see section 776(e) of Pub. L. 103–465, set out as a note under section 1056 of this title.
 
-Section 778(a)(2) of Pub. L. 103–465 provided that: “The amendments made by this subsection \[amendingthis section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified.”
+Section 778(a)(2) of Pub. L. 103–465 provided that: “The amendments made by this subsection \[amending this section\] shall apply to any plan termination under section 4041(b) of the Employee Retirement Income Security Act of 1974 \[subsec. (b) of this section\] with respect to which the Pension Benefit Guaranty Corporation has not, as of the date of enactment of this Act \[Dec. 8, 1994\], issued a notice of noncompliance that has become final, or otherwise issued a final determination that the plan termination is nullified.”
 
 Section 778(b)(2) of Pub. L. 103–465 provided that: “The amendment made by this subsection \[amending this section\] shall be effective as if included in the Single-Employer Pension Plan Amendments Act of 1986 \[Pub. L. 99–272, title XI\].”
 
@@ -652,7 +654,9 @@ General rule.—Except as provided in subparagraph (B), the Corporation shall no
 
 Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes of this subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “benefit liabilities”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “a” probably should appear.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “benefit liabilities”.</i>
+
+<i><sup>3</sup></i><i> So in original. The word “a” probably should appear.</i>
 

@@ -74,11 +74,11 @@ If any individual waives, before the death of a participant, any survivor benefi
 
 &emsp;&emsp;The term “private foundation” has the meaning given such term by section 509, except that such term shall not include any private operating foundation (as defined in section 4942(j)(3)).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 404; Pub. L. 91–614, title I, §102(a)(3), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 95–600, title VII, §702(j)(2), Nov. 6, 1978, 92 Stat. 2931; Pub. L. 97–34, title III, §311(h)(5), title IV, §§441(a), (b), 442(a)(3), Aug. 13, 1981, 95 Stat. 282, 319, 320; Pub. L. 99–514, title XVIII, §1898(h)(1)(B), Oct. 22, 1986, 100 Stat. 2957; Pub. L. 100–647, title I, §1018(s)(2)(A), (u)(52), Nov. 10, 1988, 102 Stat. 3586, 3593; Pub. L. 101–239, title VII, §7811(m)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 105–34, title V, §501(c), Aug. 5, 1997, 111 Stat. 846.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 404; Pub. L. 91–614, title I, §102(a)(3), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 95–600, title VII, §702(j)(2), Nov. 6,1978, 92 Stat. 2931; Pub. L. 97–34, title III, §311(h)(5), title IV, §§441(a), (b), 442(a)(3), Aug. 13, 1981, 95 Stat. 282, 319, 320; Pub. L. 99–514, title XVIII, §1898(h)(1)(B), Oct. 22, 1986, 100 Stat. 2957; Pub. L. 100–647, title I, §1018(s)(2)(A), (u)(52), Nov. 10, 1988, 102 Stat. 3586, 3593; Pub. L. 101–239, title VII, §7811(m)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 105–34, title V, §501(c), Aug. 5, 1997, 111 Stat. 846.)
 
-#### Adjustment of Annual Exclusion for Gifts in Calendar Year 2007
+#### Adjustment of Annual Exclusion for Gifts in Calendar Year 2008
 
-<i>For adjustment of dollar amounts of gifts not includible in total amount of taxable gifts under this section for calendar year 2007, see section 3.32 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amounts of gifts not includible in total amount of taxable gifts under this section for calendar year 2008, see section 3.32 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 
@@ -110,7 +110,7 @@ Subsec. (b). Pub. L. 91–614, §102(a)(3)(B), substituted provisions with regar
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, seesection 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1989 Amendment
 

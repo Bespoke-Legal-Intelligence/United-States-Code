@@ -16,7 +16,7 @@ The Secretary of the Interior is authorized to sell and exchange individual Indi
 
 #### (c) Nontaxability
 
-Title to lands, or any interests therein, acquired pursuant to this Act for the Spokane Tribe or individual enrolled members thereof, shall be taken in the name of the United States of America in trust for the tribe or individual Indian, and shall be nontaxable as other tribal and allotted Indian trust lands of the Spokane Reservation.
+Title to lands, or any interests therein, acquired pursuant to this Act for the SpokaneTribe or individual enrolled members thereof, shall be taken in the name of the United States of America in trust for the tribe or individual Indian, and shall be nontaxable as other tribal and allotted Indian trust lands of the Spokane Reservation.
 
 #### (d) Lands held by mortgage or deed of trust
 

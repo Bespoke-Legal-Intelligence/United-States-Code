@@ -20,7 +20,7 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 #### (1) Authority of Commission
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty tobe paid by the person who committed such violation.
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
 
 #### (2) Amount of penalty
 

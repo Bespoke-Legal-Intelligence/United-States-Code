@@ -68,7 +68,7 @@ Sec. 3. The amendments to be deemed made by this Order shall take effect as of F
 
 Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, provided:
 
-By the authority vested in me as President of the United States of America by Section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) (hereafter referred to as “the Act” \[this chapter\]), and in order to conform further the Foreign Service Retirement and DisabilitySystem to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by Section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) (hereafter referred to as “the Act” \[this chapter\]), and in order to conform further the Foreign Service Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
 
 Section 1. <i>Interest Rates, Deposits, Refunds, and Redeposits</i>. (a) The second sentence of Section 805(d)(3) of the Act (22 U.S.C. 4045(d)(3)), the first sentence of Section 815(h) (22 U.S.C. 4055(h)), and the first sentence of Section 825(a) (22 U.S.C. 4065(a)), are deemed to be amended to provide that interest shall be compounded at at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 819 \[22 U.S.C. 4059\], as determined by the Secretary of the Treasury.
 
@@ -110,7 +110,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 (i) by striking out subsection (e) and substituting the following subsection in lieu thereof:
 
-“(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
+“(e)(1) Each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this chapter is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 of the United States Code, to the participant for each period of military or navalservice after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
 
 “(2) Any deposit made under paragraph (1) of this subsection more than two years after the later of—
 
@@ -142,7 +142,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 (c) Section 816 of the Act (22 U.S.C. 4056) is deemed to be further amended by adding a new subsection (j) at the end thereof to read as follows:
 
-“(1) Except as otherwise provided by statute or Executive Order, Section 8332(j) of Title 5, United StatesCode, relating to redetermination of credit for military and naval service, shall be applied to annuities payable under this chapter. The Secretary of State shall redetermine service, and may request and obtain information from the Secretary of Health and Human Services, as the Office of Personnel Management is directed or authorized to do in Section 8332(j).
+“(1) Except as otherwise provided by statute or Executive Order, Section 8332(j) of Title 5, United States Code, relating to redetermination of credit for military and naval service, shall be applied to annuities payable under this chapter. The Secretary of State shall redetermine service, and may request and obtain information from the Secretary of Health and Human Services, as the Office of Personnel Management is directed or authorized to do in Section 8332(j).
 
 “(2) Section 8332(j) of Title 5, United States Code, shall not apply with respect to:
 
@@ -198,7 +198,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13105, Nov. 2, 1998, 63 F.R. 60201, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) and section 292 of the Central Intelligence Agency Retirement Act of 1964 (50 U.S.C. 2141), and in order to conform further the Foreign Service Retirement and Disability System and the CentralIntelligence Agency Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) and section 292 of the Central Intelligence Agency Retirement Act of 1964 (50 U.S.C. 2141), and in order to conform further the Foreign Service Retirement and Disability System and the Central Intelligence Agency Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
 
 Section 1. In conjunction with section 860 of the Foreign Service Act of 1980 (22 U.S.C. 4071i), the Secretary of State shall issue regulations providing for an open enrollment period from November 1, 1998, to April 30, 1999, during which employee participants in the Foreign Service Retirement and Disability System may elect to become subject to the Foreign Service Pension System.
 

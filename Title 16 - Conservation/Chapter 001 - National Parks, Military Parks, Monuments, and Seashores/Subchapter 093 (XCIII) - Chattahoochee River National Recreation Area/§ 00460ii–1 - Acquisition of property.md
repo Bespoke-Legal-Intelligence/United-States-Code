@@ -10,7 +10,7 @@ When a tract of land lies partly within and partly without the boundaries of the
 
 #### (c) Acquisition of improved property used for noncommercial residential purposes; retention by owners of right of use and occupancy for residential purposes; terms; payment of fair market value
 
-Except for property which the Secretary determines to be necessary for the purposes of administration, development, access, or public use, an owner of improved property which is used solely for noncommercial residential purposes on the date of its acquisition by the Secretary may retain, as a condition of such acquisition, a right of use and occupancy of the property for such residential purposes. The right retainedmay be for a definite term which shall not exceed twenty-five years or, in lieu thereof, for a term ending at the death of the owner or the death of the spouse, whichever occurs later. The owner shall elect the term to be retained. The Secretary shall pay the owner the fair market value of the property on the date of such acquisition, less the fair market value of the term retained by the owner.
+Except for property which the Secretary determines to be necessary for the purposes of administration, development, access, or public use, an owner of improved property which is used solely for noncommercial residential purposes on the date of its acquisition by the Secretary may retain, as a condition of such acquisition, a right of use and occupancy of the property for such residential purposes. The right retained may be for a definite term which shall not exceed twenty-five years or, in lieu thereof, for a term ending at the death of the owner or the death of the spouse, whichever occurs later. The owner shall elect the term to be retained. The Secretary shall pay the owner the fair market value of the property on the date of such acquisition, less the fair market value of the term retained by the owner.
 
 #### (d) Terms and conditions respecting rights of use and occupancy retained; termination of right of use and occupancy
 
@@ -24,7 +24,7 @@ As used in this section, the term “improved property” means a detached, year
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30,1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

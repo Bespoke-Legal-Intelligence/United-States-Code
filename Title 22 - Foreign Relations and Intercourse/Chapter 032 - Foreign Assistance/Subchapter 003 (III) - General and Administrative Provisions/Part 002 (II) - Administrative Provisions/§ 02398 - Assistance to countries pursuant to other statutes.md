@@ -4,7 +4,7 @@
 
 (b) No provision of this chapter or any other provision of law shall be construed to prohibit assistance for any training activity which is funded under this chapter for Brazil or Argentina as long as such country continues to have a democractically <sup>1</sup> elected government and the assistance is otherwise consistent with sections 2151n, 2304, 2370(f), 2371, and 2420 of this title.
 
-(Pub. L. 87–195, pt. III, §638, as added Pub. L. 88–205, pt. III, §302(h), Dec. 16, 1963, 77 Stat. 389; amended Pub. L. 89–171, pt. III, §302(j), Sept. 6, 1965, 79 Stat. 661; Pub. L. 93–189, §19, Dec. 17, 1973,87 Stat. 725; Pub. L. 100–202, §101(e) \[title V, §588(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–186.)
+(Pub. L. 87–195, pt. III, §638, as added Pub. L. 88–205, pt. III, §302(h), Dec. 16, 1963, 77 Stat. 389; amended Pub. L. 89–171, pt. III, §302(j), Sept. 6, 1965, 79 Stat. 661; Pub. L. 93–189, §19, Dec. 17, 1973, 87 Stat. 725; Pub. L. 100–202, §101(e) \[title V, §588(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–186.)
 
 #### References in Text
 

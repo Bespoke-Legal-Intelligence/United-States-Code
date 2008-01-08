@@ -54,6 +54,10 @@ The Communications Satellite Act of 1962, referred to in subsec. (a)(5), is Pub.
 
 Executive Order 12046, referred to in subsec. (b)(6), is set out as a note under section 305 of this title.
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–53, title XXIII, §2301, Aug. 3, 2007, 121 Stat. 543, as amended by Pub. L. 110–161, div. B, title V, §539, Dec. 26, 2007, 121 Stat. 1934, provided that: “This title \[amending section 942 of this title and provisions set out as a note under section 309 of this title\] may be cited as the ‘911 Modernization Act’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–494, title I, §101, Dec. 23, 2004, 118 Stat. 3986, provided that: “This title \[enacting section 942 of this title and provisions set out as notes under section 942 of this title\] may be cited as the ‘Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004’ or the ‘ENHANCE 911 Act of 2004’.”
@@ -122,11 +126,13 @@ Term of the President's National Security Telecommunications Advisory Committee 
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

@@ -16,7 +16,7 @@
 
 (1)(A) Of the amounts appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 the Secretary shall retain an amount equal to 123/4 percent thereof for the projects described in subparagraphs (A) through (F) of section 701(a)(3) of this title.
 
-(B) Any amount appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 that remains after the Secretary hasretained the applicable amount (if any) under subparagraph (A) shall be retained by the Secretary in accordance with subsection (a) of this section and allocated to the States in accordance with subsection (c) of this section.
+(B) Any amount appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 that remains after the Secretary has retained the applicable amount (if any) under subparagraph (A) shall be retained by the Secretary in accordance with subsection (a) of this section and allocated to the States in accordance with subsection (c) of this section.
 
 (2)(A) Of the amounts retained for the purpose of carrying out activities described in section 701(a)(3)(A), (B), (C), (D) and (E) of this title, the Secretary shall provide preference to qualified applicants which demonstrate that the activities to be carried out with such amounts shall be in areas with a high infant mortality rate (relative to the average infant mortality rate in the United States or in the State in which the area is located).
 

@@ -66,7 +66,7 @@ Duration.—
 
 &emsp;(1)
 
-In general.—Each master contract under this chapter shall be for a term of 7 years, unless terminated earlier by the Office in accordance with the terms of such contract. However, the rights and responsibilities of the enrolled individual, the insurer, and the Office (or duly designated third-party administrator) under such contract shall continue with respect to such individual until the terminationof coverage of the enrolled individual or the effective date of a successor contract thereto.
+In general.—Each master contract under this chapter shall be for a term of 7 years, unless terminated earlier by the Office in accordance with the terms of such contract. However, the rights and responsibilities of the enrolled individual, the insurer, and the Office (or duly designated third-party administrator) under such contract shall continue with respect to such individual until the termination of coverage of the enrolled individual or the effective date of a successor contract thereto.
 
 &emsp;(2)
 
@@ -95,6 +95,8 @@ Full portability.—Each master contract under this chapter shall include such p
 The Contract Disputes Act of 1978, referred to in subsec. (c)(3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. Sections 8(c) and 10(a)(1) of the Act are classified to sections 607(c) and 609(a)(1), respectively, of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
 
 #### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

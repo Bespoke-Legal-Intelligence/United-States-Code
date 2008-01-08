@@ -10,7 +10,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;(3) amounts received through accident or health insurance (or through an arrangement having the effect of accident or health insurance) for personal injuries or sickness (other than amounts received by an employee, to the extent such amounts (A) are attributable to contributions by the employer which were not includible in the gross income of the employee, or (B) are paid by the employer);
 
-&emsp;(4) amounts received as a pension, annuity, or similar allowance for personal injuries or sickness resulting from active service in the armed forces of any country or in the Coast and Geodetic Survey or the Public Health Service, or as a disability annuity payable under the provisions of section 808 of the Foreign Service Act of 1980; and
+&emsp;(4) amounts received as a pension, annuity, or similar allowance for personal injuries orsickness resulting from active service in the armed forces of any country or in the Coast and Geodetic Survey or the Public Health Service, or as a disability annuity payable under the provisions of section 808 of the Foreign Service Act of 1980; and
 
 &emsp;(5) amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)).
 
@@ -80,7 +80,7 @@ Section 808 of the Foreign Service Act of 1980, referred to in subsec. (a)(4), i
 
 2002—Subsec. (a)(5). Pub. L. 107–134 substituted “a terroristic or military action (as defined in section 692(c)(2)).” for “a violent attack which the Secretary of State determines to be a terrorist attack and which occurred while such individual was an employee of the United States engaged in the performance of his official duties outside the United States.”
 
-1996—Subsec. (a). Pub. L. 104–188, §1605(b), in closing provisions, substituted “For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.” for “Paragraph (2) shall not apply to any punitive damages in connection with a case not involving physical injury or physical sickness.”
+1996—Subsec. (a). Pub. L. 104–188, §1605(b), in closing provisions, substituted “For purposes of paragraph (2),emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.” for “Paragraph (2) shall not apply to any punitive damages in connection with a case not involving physical injury or physical sickness.”
 
 Subsec. (a)(2). Pub. L. 104–188, §1605(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of any damages received (whether by suit or agreement and whether as lump sums or as periodic payments) on account of personal injuries or sickness;”.
 

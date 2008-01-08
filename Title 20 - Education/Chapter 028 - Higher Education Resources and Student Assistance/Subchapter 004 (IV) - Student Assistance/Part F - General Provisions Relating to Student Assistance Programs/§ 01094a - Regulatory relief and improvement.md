@@ -12,7 +12,7 @@
 
 #### (3) Waiver
 
-&emsp;The Secretary is authorized to waive for any institution participating in the Quality Assurance Program any regulations dealing with reporting or verification requirements in this subchapter and part C of subchapter I of chapter 34 of title 42 that are addressed by the institution's alternative management system, and may substitute such quality assurance reporting as the Secretary determines necessary to ensure accountability and compliance with the purposes of the programs under this subchapter and part C of subchapter I of chapter 34 of title 42. The Secretary shall not modify or waive any statutory requirements pursuant to this paragraph.
+&emsp;The Secretary is authorized to waive for any institution participating in the Quality Assurance Program any regulations dealing with reporting or verification requirements in this subchapter and part C of subchapter I of chapter 34 of title 42 that are addressed by the institution's alternative management system, and may substitute such quality assurance reporting as the Secretary determines necessary to ensure accountability and compliance withthe purposes of the programs under this subchapter and part C of subchapter I of chapter 34 of title 42. The Secretary shall not modify or waive any statutory requirements pursuant to this paragraph.
 
 #### (4) Determination
 
@@ -64,7 +64,7 @@
 
 #### (c) “Current award year” defined
 
-For purposes of this section, the term “current award year” means the award year duringwhich the participating institution indicates the institution's intention to cease participation.
+For purposes of this section, the term “current award year” means the award year during which the participating institution indicates the institution's intention to cease participation.
 
 (Pub. L. 89–329, title IV, §487A, as added Pub. L. 102–325, title IV, §491, July 23, 1992, 106 Stat. 629; amended Pub. L. 105–244, title IV, §490, Oct. 7, 1998, 112 Stat. 1751.)
 
@@ -79,6 +79,8 @@ This chapter, referred to in subsecs. (a)(5) and (b)(2)(C), was in the original 
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1998 Amendment
 

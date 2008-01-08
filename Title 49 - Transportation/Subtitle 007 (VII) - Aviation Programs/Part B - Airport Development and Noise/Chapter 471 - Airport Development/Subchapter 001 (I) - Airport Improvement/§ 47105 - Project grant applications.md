@@ -26,7 +26,7 @@ Contents and Form.—An application for a project grant under this subchapter—
 
 &emsp;(2) may propose a project only for a public-use airport included in the current national plan of integrated airport systems;
 
-&emsp;(3) may propose airport development only if the development complies with standards the Secretary prescribes or approves, including standards for site location, airport layout, site preparation, paving, lighting, and safety of approaches; and
+&emsp;(3) may propose airport development only if the development complies with standards theSecretary prescribes or approves, including standards for site location, airport layout, site preparation, paving, lighting, and safety of approaches; and
 
 &emsp;(4) shall be in the form and contain other information the Secretary prescribes.
 
@@ -44,7 +44,7 @@ Preventive Maintenance.—After January 1, 1995, the Secretary may approve an ap
 
 (f)
 
-Notification.—The sponsor of an airport for which an amount is apportioned under section 47114(c) of this title shall notify the Secretary of the fiscal year in which the sponsor intends to submit a project grant application for the apportioned amount. The notification shallbe given by the time and contain the information the Secretary prescribes.
+Notification.—The sponsor of an airport for which an amount is apportioned under section 47114(c) of this title shall notify the Secretary of the fiscal year in which the sponsor intends to submit a project grant application for the apportioned amount. The notification shall be given by the time and contain the information the Secretary prescribes.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1253; Pub. L. 103–305, title I, §§106, 107(a), Aug. 23, 1994, 108 Stat. 1572.)
 

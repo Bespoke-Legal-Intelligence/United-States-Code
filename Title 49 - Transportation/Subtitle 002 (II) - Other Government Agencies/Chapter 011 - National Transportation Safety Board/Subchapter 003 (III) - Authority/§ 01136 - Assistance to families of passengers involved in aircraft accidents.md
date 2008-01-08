@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—As soon as practicable after being notified of an aircraft accident within the United States involving an air carrier or foreign air carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
+In General.—As soon as practicable after being notified of an aircraft accident within theUnited States involving an air carrier or foreign air carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
 
 &emsp;(1) designate and publicize the name and phone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the air carrier or foreign air carrier and the families; and
 

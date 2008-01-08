@@ -14,7 +14,7 @@ The Secretary of the Interior may acquire, only with the consent of the owner, b
 
 #### (c) Administration of acquired lands
 
-Lands acquired under this section shall be administered by the Secretary of the Interior aspart of Mount Rainier National Park in accordance with applicable laws and regulations.
+Lands acquired under this section shall be administered by the Secretary of the Interior as part of Mount Rainier National Park in accordance with applicable laws and regulations.
 
 (Pub. L. 108–312, §3, Oct. 5, 2004, 118 Stat. 1194.)
 

@@ -18,7 +18,7 @@ In connection with the cooperative endeavors authorized by subsection (a) of thi
 
 &emsp;(5) participate and otherwise cooperate in any international meetings, conferences, or other activities concerned with biomedical research, health services research, health statistics, or health care technology;
 
-&emsp;(6) facilitate the interchange between the United States and participating foreign countries, and among participating foreign countries, of research scientists and experts who are engaged in experiments or programs of biomedical research, health services research, health statistical activities, or health caretechnology activities, and in carrying out such purpose may pay per diem compensation, subsistence, and travel for such scientists and experts when away from their places of residence at rates not to exceed those provided in section 5703(b) <sup>1</sup> of title 5 for persons in the Government service employed intermittently;
+&emsp;(6) facilitate the interchange between the United States and participating foreign countries, and among participating foreign countries, of research scientists and experts who are engaged in experiments or programs of biomedical research, health services research, health statistical activities, or health care technology activities, and in carrying out such purpose may pay per diem compensation, subsistence, and travel for such scientists and experts when away from their places of residence at rates not to exceed those provided in section 5703(b) <sup>1</sup> of title 5 for persons in the Government service employed intermittently;
 
 &emsp;(7) procure, in accordance with section 3109 of title 5, the temporary or intermittent services of experts or consultants; and
 
@@ -28,7 +28,7 @@ In connection with the cooperative endeavors authorized by subsection (a) of thi
 
 #### (c) Benefits for overseas assignees
 
-The Secretary may provide to personnel appointed or assigned by the Secretary to serve abroad, allowances and benefits similar to those provided under chapter 9 of title I of the Foreign Service Act of 1990 (22 U.S.C. 4081 et seq.). Leaves of absence for personnel under this subsection shall be on the same basis as that provided under subchapter I of chapter 63 of title 5 to individuals serving in the Foreign Service.
+The Secretary may provide to personnel appointed or assigned by the Secretary to serveabroad, allowances and benefits similar to those provided under chapter 9 of title I of the Foreign Service Act of 1990 (22 U.S.C. 4081 et seq.). Leaves of absence for personnel under this subsection shall be on the same basis as that provided under subchapter I of chapter 63 of title 5 to individuals serving in the Foreign Service.
 
 #### (d) Strategies to improve injection safety
 

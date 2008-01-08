@@ -20,7 +20,7 @@ Funds provided under this section shall be available for the following collabora
 
 &emsp;&emsp;(C) milling and food processing techniques to render wheat scab contaminated grain safe.
 
-&emsp;(4) Strengthening and expansion of plant-breeding activities to enhance the resistance of wheat, triticale, and barley to wheat scab and to Karnal bunt, including the establishment of a regional advanced breeding material evaluation nursery and a germplasm introduction and evaluation system.
+&emsp;(4) Strengthening and expansion of plant-breeding activities to enhance the resistanceof wheat, triticale, and barley to wheat scab and to Karnal bunt, including the establishment of a regional advanced breeding material evaluation nursery and a germplasm introduction and evaluation system.
 
 &emsp;(5) Development and deployment of alternative fungicide application systems and formulations to control wheat scab and Karnal bunt and consideration of other chemical control strategies to assist farmers until new more resistant wheat, triticale, and barley varieties are available.
 

@@ -22,7 +22,7 @@ In order to—
 
 (3) The Director may prohibit the Inspector General from initiating, carrying out, or completing any audit, inspection, or investigation, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena, if the Director determines that such prohibition is necessary to protect vital national security interests of the United States.
 
-(4) If the Director exercises any power under paragraph (3), he shall submit an appropriately classified statement of the reasons for the exercise of such power within seven days to the intelligence committees. The Director shall advise the Inspector General at the time such report is submitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copy of any such report. In such cases, the Inspector General may submit such comments to the intelligence committees that he considers appropriate.
+(4) If the Director exercises any power under paragraph (3), he shall submit an appropriately classified statement of the reasons for the exercise of such power within seven days to the intelligence committees. The Director shall advise the Inspector General at the time such report is submitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copyof any such report. In such cases, the Inspector General may submit such comments to the intelligence committees that he considers appropriate.
 
 (5) In accordance with section 535 of title 28, the Inspector General shall report to the Attorney General any information, allegation, or complaint received by the Inspector General relating to violations of Federal criminal law that involve a program or operation of the Agency, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of all such reports shall be furnished to the Director.
 
@@ -80,7 +80,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(C) a matter requires a report by the Inspector General to the Department of Justice on possible criminal conduct by a current or former Agency official described or referred to in subparagraph (B);
 
-&emsp;(D) the Inspector General receives notice from the Department of Justice declining or approving prosecution of possible criminal conduct of any of the officials described in subparagraph (B); or
+&emsp;(D) the Inspector General receives notice from the Department of Justice declining orapproving prosecution of possible criminal conduct of any of the officials described in subparagraph (B); or
 
 &emsp;(E) the Inspector General, after exhausting all possible alternatives, is unable to obtain significant documentary information in the course of an investigation, inspection, or audit,
 
@@ -94,7 +94,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the Director considers appropriate.
 
-(D)(i) If the Inspector General does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B), the employee (subject to clause (ii)) may submit the complaint or informationto Congress by contacting either or both of the intelligence committees directly.
+(D)(i) If the Inspector General does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B), the employee (subject to clause (ii)) may submit the complaint or information to Congress by contacting either or both of the intelligence committees directly.
 
 (ii) The employee may contact the intelligence committees directly as described in clause (i) only if the employee—
 
@@ -128,7 +128,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (3) The Inspector General is authorized to receive and investigate complaints or information from any person concerning the existence of an activity constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the Agency—
 
-&emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
+&emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official ofthe Department of Justice responsible for determining whether a prosecution should be undertaken; and
 
 &emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
@@ -142,7 +142,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (D) In the case of contumacy or refusal to obey a subpoena issued under this paragraph, the subpoena shall be enforceable by order of any appropriate district court of the United States.
 
-(6) The Inspector General shall be provided with appropriate and adequate office space at central and field office locations, together withsuch equipment, office supplies, maintenance services, and communications facilities and services as may be necessary for the operation of such offices.
+(6) The Inspector General shall be provided with appropriate and adequate office space at central and field office locations, together with such equipment, office supplies, maintenance services, and communications facilities and services as may be necessary for the operation of such offices.
 
 (7) Subject to applicable law and the policies of the Director, the Inspector General shall select, appoint and employ such officers and employees as may be necessary to carry out his functions. In making such selections, the Inspector General shall ensure that such officers and employees have the requisite training and experience to enable him to carry out his duties effectively. In this regard, the Inspector General shall create within his organization a career cadre of sufficient size to provide appropriate continuity and objectivity needed for the effective performance of his duties.
 
@@ -192,7 +192,7 @@ Subsec. (e)(8). Pub. L. 106–567, §402(b), substituted “Government” for �
 
 1998—Subsec. (d). Pub. L. 105–272 inserted “; reports to Congress on urgent concerns” after “functional problems” in heading and added par. (5).
 
-1997—Subsec. (b)(3). Pub. L. 105–107, §402(b), inserted “, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or completesuch audit, inspection, or investigation or to issue such subpoena,” after “or investigation”.
+1997—Subsec. (b)(3). Pub. L. 105–107, §402(b), inserted “, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena,” after “or investigation”.
 
 Subsec. (e)(5) to (8). Pub. L. 105–107, §402(a), added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 

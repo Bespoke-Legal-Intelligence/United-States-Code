@@ -38,7 +38,7 @@ Labeling Requirements and Contents.—(1) Under regulations of the Administrator
 
 &emsp;(C) clearly identify the fuels on which the automobile may be operated; and
 
-&emsp;(D) contain a statement informing the consumer that the additional information required by subsection (c)(2) of this section ispublished and distributed by the Secretary of Energy.
+&emsp;(D) contain a statement informing the consumer that the additional information required by subsection (c)(2) of this section is published and distributed by the Secretary of Energy.
 
 (c)
 
@@ -80,7 +80,49 @@ Violations.—A violation of subsection (b) of this section is—
 
 Consultation.—The Administrator shall consult with the Federal Trade Commission and the Secretaries of Transportation and Energy in carrying out this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1068; Pub. L. 103–429, §6(37), Oct. 31, 1994, 108 Stat. 4382.)
+(g)
+
+Consumer Information.—
+
+&emsp;(1)
+
+Program.—The Secretary of Transportation, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall develop and implement by rule a program to require manufacturers—
+
+&emsp;&emsp;(A) to label new automobiles sold in the United States with—
+
+&emsp;&emsp;&emsp;(i) information reflecting an automobile's performance on the basis of criteria that the Administrator shall develop, not later than 18 months after the date of the enactment of the Ten-in-Ten Fuel Economy Act, to reflect fuel economy and greenhouse gas and other emissions over the useful life of the automobile;
+
+&emsp;&emsp;&emsp;(ii) a rating system that would make it easy for consumers to compare the fuel economy and greenhouse gas and other emissions of automobiles at the point of purchase, including a designation of automobiles—
+
+&emsp;&emsp;&emsp;&emsp;(I) with the lowest greenhouse gas emissions over the useful life of the vehicles; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the highest fuel economy; and
+
+&emsp;&emsp;&emsp;(iii) a permanent and prominent display that an automobile is capable of operating on an alternative fuel; and
+
+&emsp;&emsp;(B) to include in the owner's manual for vehicles capable of operating on alternative fuels information that describes that capability and the benefits of using alternative fuels, including the renewable nature and environmental benefits of using alternative fuels.
+
+&emsp;(2)
+
+Consumer education.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary of Transportation, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall develop and implement by rule a consumer education program to improve consumer understanding of automobile performance described in paragraph (1)(A)(i) and to inform consumers of the benefits of using alternative fuel in automobiles and the location of stations with alternative fuel capacity.
+
+&emsp;&emsp;(B)
+
+Fuel savings education campaign.—The Secretary of Transportation shall establish a consumer education campaign on the fuel savings that would be recognized from the purchase of vehicles equipped with thermal management technologies, including energy efficient air conditioning systems and glass.
+
+&emsp;(3)
+
+Fuel tank labels for alternative fuel automobiles.—The Secretary of Transportation shall by rule require a label to be attached to the fuel compartment of vehicles capable of operating on alternative fuels, with the form of alternative fuel stated on the label. A label attached in compliance with the requirements of section 32905(h) <sup>1</sup> is deemed to meet the requirements of this paragraph.
+
+&emsp;(4)
+
+Rulemaking deadline.—The Secretary of Transportation shall issue a final rule under this subsection not later than 42 months after the date of the enactment of the Ten-in-Ten Fuel Economy Act.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1068; Pub. L. 103–429, §6(37), Oct. 31, 1994, 108 Stat. 4382; Pub. L. 110–140, title I, §105, Dec. 19, 2007, 121 Stat. 1503.)
 
 Historical and Revision Notes
 
@@ -156,7 +198,7 @@ In subsection (a)(1), the words “regardless of whether the Secretary of Transp
 
 In subsection (a)(2), the words “means a person residing or located in a State, the District of Columbia, or a territory or possession of the United States, and engaged in the sale or distribution of new automobiles to the first person (except a dealer buying as a dealer) that buys the automobile in good faith other than for resale” are substituted for “has the same meaning as such term has in section 2(e) of the Automobile Information Disclosure Act (15 U.S.C. 1231(e))” to include the words of 15:1231(e) and (g) in the subsection for clarity. The words “territory or possession” are substituted for “Territory” for consistency in the revised title and with other titles of the United States Code. The words “except that in applying such term to this section, the term ‘automobile’ has the same meaning as such term has in section 2001(1) of this title (taking into account paragraph (3) of this subsection)” are omitted as surplus.
 
-In subsection (b)(1), before clause (A), the text of 15:2006(a)(2) is omitted as executed. The words “Except as otherwise provided in paragraph (2)” are omitted as surplus because 15:2006(a)(2) is executed and is not part of the revised title. The words “Under regulations of the Administrator of the Environmental Protection Agency” are substituted for “as determined in accordance with rules of the EPA Administrator” and the text of 15:2006(a)(3) (1st, 2d sentences) to eliminate unnecessary words, for consistency in the revised title, and because “rules” is synonymous with “regulations”. The word “attach” is substituted for “cause to be affixed”, to eliminate unnecessary words. The words “after model year 1976” are omitted as executed. The words “The label shall contain the following information” are substituted for “indicating” and “containing” for clarity. In clause (C), the words “of all manufacturers” are substituted for “(whether or not manufactured by such manufacturer)” to eliminate unnecessary words. In clause (D), the words “a booklet is available from the dealer to assist in making a comparisonof fuel economy of other automobiles manufactured by all manufacturers in that model year” are substituted for “written information (as described in subsection (b)(1) of this section) with respect to the fuel economy of other automobiles manufactured in such model year (whether or not manufactured by such manufacturer) is available from the dealer in order to facilitate comparison among the various model types” to eliminate unnecessary words. In clause (E), the words “automobile fuel efficiency tax imposed on the sale of the automobile under section 4064 of the Internal Revenue Code of 1986 (26 U.S.C. 4064)” are substituted for “in the case of any automobile, the sale of which is subject to any Federal tax imposed with respect to automobile fuel efficiency, a statement indicating the amount of such tax” for clarity.
+In subsection (b)(1), before clause (A), the text of 15:2006(a)(2) is omitted as executed. The words “Except as otherwise provided in paragraph (2)” are omitted as surplus because 15:2006(a)(2) is executed and is not part of the revised title. The words “Under regulations of the Administrator of the Environmental Protection Agency” are substituted for “as determined in accordance with rules of the EPA Administrator” and the text of 15:2006(a)(3) (1st, 2d sentences) to eliminate unnecessary words, for consistency in the revised title, and because “rules” is synonymous with “regulations”. The word “attach” is substituted for “cause to be affixed”, to eliminate unnecessary words. The words “after model year 1976” are omitted as executed. The words “The label shall contain the following information” are substituted for “indicating” and “containing” for clarity. In clause (C), the words “of all manufacturers” are substituted for “(whether or not manufactured by such manufacturer)” to eliminate unnecessary words. In clause (D), the words “a booklet is available from the dealer to assist in making a comparison of fuel economy of other automobiles manufactured by all manufacturers in that model year” are substituted for “written information (as described in subsection (b)(1) of this section) with respect to the fuel economy of other automobiles manufactured in such model year (whether or not manufactured by such manufacturer) is available from the dealer in order to facilitate comparison among the various model types” to eliminate unnecessary words. In clause (E), the words “automobile fuel efficiency tax imposed on the sale of the automobile under section 4064 of the Internal Revenue Code of 1986 (26 U.S.C. 4064)” are substituted for “in the case of any automobile, the sale of which is subject to any Federal tax imposed with respect to automobile fuel efficiency, a statement indicating the amount of such tax” for clarity.
 
 In subsection (b)(3)(D), the words “Secretary of Energy” are substituted for “Department of Energy” because of 42:7131.
 
@@ -176,11 +218,31 @@ This amends 49:32908(b)(1) to clarify the restatement of 15:2006(a)(1) by sectio
 
 The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
+The date of the enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (g)(1)(A)(i), (4), is the date of enactment of subtitle A (§§101–113) of title I of Pub. L. 110–140, which was approved Dec. 19, 2007.
+
+Subsection (h) of section 32905 of this title, referred to in subsec. (g)(3), was redesignated (f) by Pub. L. 110–140, title I, §109(b)(4), Dec. 19, 2007, 121 Stat. 1506.
+
 #### Amendments
 
+2007—Subsec. (g). Pub. L. 110–140 added subsec. (g).
+
 1994—Subsec. (b)(1). Pub. L. 103–429 inserted “on the automobile” after “maintain the label” in introductory provisions.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+#### Periodic Review of Accuracy of Fuel Economy Labeling Procedures
+
+Pub. L. 110–140, title I, §110, Dec. 19, 2007, 121 Stat. 1506, provided that: “Beginning in December 2009, and not less often than every 5 years thereafter, the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall—
+
+&emsp;“(1) reevaluate the fuel economy labeling procedures described in the final rule published in the Federal Register on December 27, 2006 (71 Fed. Reg. 77,872; 40 CFR parts 86 and 600) to determine whether changes in the factors used to establish the labeling procedures warrant a revision of that process; and
+
+&emsp;“(2) submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives that describes the results of the reevaluation process.”
 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

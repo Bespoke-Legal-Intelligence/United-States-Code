@@ -18,7 +18,7 @@ If—
 
 #### (2) Limitation in title 11 case or insolvency
 
-&emsp;In the case of a discharge to which subparagraph (A) or (B) of section 108(a)(1) applies, thereduction in basis under subsection (a) of this section shall not exceed the excess of—
+&emsp;In the case of a discharge to which subparagraph (A) or (B) of section 108(a)(1) applies, the reduction in basis under subsection (a) of this section shall not exceed the excess of—
 
 &emsp;&emsp;(A) the aggregate of the bases of the property held by the taxpayer immediately after the discharge, over
 

@@ -836,7 +836,7 @@ Section 104 of Pub. L. 95–557 provided that: “The amendments made by this ti
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–288 effective Apr. 1, 1974, see section 605 of Pub. L. 93–288, set out as an Effective Date note under section 5121 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 93–288 effective Apr. 1, 1974, see section 605 of Pub. L. 93–288, formerly set out as an Effective Date note under section 5121 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1970 Amendment
 

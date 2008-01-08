@@ -30,7 +30,7 @@
 
 (2) When the actual number of line officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.
 
-(c)(1) The authorized strengths of the Marine Corps Reserve in officers in an active status in the grades of colonel, lieutenant colonel, major,and captain, and in the grades of first lieutenant and second lieutenant combined, are the following percentages of the total authorized number of those officers:
+(c)(1) The authorized strengths of the Marine Corps Reserve in officers in an active status in the grades of colonel, lieutenant colonel, major, and captain, and in the grades of first lieutenant and second lieutenant combined, are the following percentages of the total authorized number of those officers:
 
 &nbsp;
 

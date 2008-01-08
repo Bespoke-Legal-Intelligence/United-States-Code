@@ -64,7 +64,7 @@
 
 (8) In applying section 8432b to an employee contributing to the Thrift Savings Fund after being restored to or reemployed in a position subject to this subchapter, pursuant to chapter 43 of title 38—
 
-&emsp;(A) any reference in such section to contributions under section 8432(a) shall be considered a reference to employee contributions under this section, except that the reference in section 8432b(b)(2)(B) to employee contributions under section 8432(a) shall be considereda reference to employee contributions under this subchapter and section 8440e;
+&emsp;(A) any reference in such section to contributions under section 8432(a) shall be considered a reference to employee contributions under this section, except that the reference in section 8432b(b)(2)(B) to employee contributions under section 8432(a) shall be considered a reference to employee contributions under this subchapter and section 8440e;
 
 &emsp;(B) the contribution rate under section 8432b(b)(2)(A) shall be the maximum percentage allowable under subsection (b)(2) of this section; and
 
@@ -122,7 +122,7 @@ Subsec. (b)(5)(B) to (D). Pub. L. 103–226, §9(a)(4), (i)(1), (2), substituted
 
 Subsec. (b)(6). Pub. L. 103–226, §9(a)(5), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Notwithstanding paragraphs (4) and (5), if an employee or Member separates from Government employment under circumstances making such employee or Member eligible to make an election under subsection (b) or (c) of section 8433, and such employee's or Member's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b) or (c), as applicable.”
 
-Pub. L. 103–226, §9(a)(2), (3), redesignated par. (9) as (6) and struck out former par. (6) which read as follows: “Section 8433(d) of this title applies to any employee orMember who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from the service before becoming entitled to an immediate or deferred annuity under this subchapter.”
+Pub. L. 103–226, §9(a)(2), (3), redesignated par. (9) as (6) and struck out former par. (6) which read as follows: “Section 8433(d) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from the service before becoming entitled to an immediate or deferred annuity under this subchapter.”
 
 Subsec. (b)(7). Pub. L. 103–226, §9(a)(6), which directed substitution of “nonforfeitable” for “nonforfeiture”, could not be executed because the term “nonforfeiture” does not appear in text.
 
@@ -204,7 +204,7 @@ Section 308(b) of Pub. L. 102–183 provided that:
 
 Section 3(c) of Pub. L. 101–335 provided that: “Subsections (a) and (b), and the amendments made by such subsections \[amending this section and sections 8438, 8440a, and 8440b of this title and enacting provisions set out as a note under section 8438 of this title\], shall be effective as of the second election period described in section 8432(b) of title 5, United States Code, beginning after the date of enactment of this Act \[July 17, 1990\], or as of such earlier date as the Executive Director may by regulation prescribe.”
 
-Section 6(c) of Pub. L. 101–335 provided that: “This section, and the amendments made by this section \[amending this section and sections 8401, 8433, 8435, 8440a, and 8440b of this title and enacting provisions setout as a note under section 8433 of this title\], shall be effective as of the second election period described in section 8432(b) of title 5, United States Code, beginning after the date of enactment of this Act \[July 17, 1990\] (or as of such earlier date as the Executive Director may by regulation prescribe), and shall apply with respect to separations occurring before, on, or after that effective date.”
+Section 6(c) of Pub. L. 101–335 provided that: “This section, and the amendments made by this section \[amending this section and sections 8401, 8433, 8435, 8440a, and 8440b of this title and enacting provisions set out as a note under section 8433 of this title\], shall be effective as of the second election period described in section 8432(b) of title 5, United States Code, beginning after the date of enactment of this Act \[July 17, 1990\] (or as of such earlier date as the Executive Director may by regulation prescribe), and shall apply with respect to separations occurring before, on, or after that effective date.”
 
 #### Effective Date of 1988 Amendment
 
@@ -216,5 +216,5 @@ Section effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out 
 
 #### Period When Election May First Be Made
 
-Section 206(b) of Pub. L. 99–335, as amended by Pub. L. 99–509, title VI, §6001(b), Oct. 21, 1986, 100 Stat. 1930, provided that an election could first be made by a Federal employee or a Member of Congress under 5 U.S.C. 8351 (a)(2) during an election period prescribed by Executive Director of Federal Retirement Thrift Investment Board to begin on Apr. 1, 1987, with such election to take effect on first day of employee's or Member's first pay period which began on or after the date of the election. The maximum amount that an employee or Member could elect to contribute during any pay period which began on or after Apr. 1, 1987, and before Oct. 1, 1987, was an amount equal to 7.5 percent of the individual's basic pay for that period.
+Section 206(b) of Pub. L. 99–335, as amended by Pub. L. 99–509, title VI, §6001(b), Oct. 21, 1986, 100 Stat. 1930, provided that an election could first be made by a Federal employee or a Member of Congress under 5 U.S.C. 8351 (a)(2) during an election period prescribed by Executive Director of Federal Retirement Thrift Investment Board to begin on Apr. 1, 1987, with such electionto take effect on first day of employee's or Member's first pay period which began on or after the date of the election. The maximum amount that an employee or Member could elect to contribute during any pay period which began on or after Apr. 1, 1987, and before Oct. 1, 1987, was an amount equal to 7.5 percent of the individual's basic pay for that period.
 

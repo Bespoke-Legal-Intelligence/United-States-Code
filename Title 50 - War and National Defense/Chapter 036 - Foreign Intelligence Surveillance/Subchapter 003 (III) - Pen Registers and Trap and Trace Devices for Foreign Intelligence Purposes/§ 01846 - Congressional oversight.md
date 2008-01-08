@@ -1,6 +1,6 @@
 ### §1846. Congressional oversight
 
-(a) On a semiannual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate,concerning all uses of pen registers and trap and trace devices pursuant to this subchapter.
+(a) On a semiannual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all uses of pen registers and trap and trace devices pursuant to this subchapter.
 
 (b) On a semiannual basis, the Attorney General shall also provide to the committees referred to in subsection (a) of this section and to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period—
 
@@ -8,7 +8,7 @@
 
 &emsp;(2) the total number of such orders either granted, modified, or denied; and
 
-&emsp;(3) the total number of pen registers and trap and trace devices whose installation and use was authorized by the Attorney General on an emergency basis under section 1843 of this title, and the total number of subsequent orders approving or denying the installation and use of such pen registers and trap and trace devices.
+&emsp;(3) the total number of pen registers and trap and trace devices whose installation anduse was authorized by the Attorney General on an emergency basis under section 1843 of this title, and the total number of subsequent orders approving or denying the installation and use of such pen registers and trap and trace devices.
 
 (Pub. L. 95–511, title IV, §406, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2410; amended Pub. L. 109–177, title I, §§109(b), 128(b), Mar. 9, 2006, 120 Stat. 204, 229.)
 

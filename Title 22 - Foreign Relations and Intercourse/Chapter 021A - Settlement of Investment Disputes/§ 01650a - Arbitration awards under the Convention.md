@@ -6,7 +6,7 @@ An award of an arbitral tribunal rendered pursuant to chapter IV of the conventi
 
 #### (b) Jurisdiction; amount in controversy
 
-The district courts of the United States (including the courts enumerated in section 460 oftitle 28) shall have exclusive jurisdiction over actions and proceedings under subsection (a) of this section, regardless of the amount in controversy.
+The district courts of the United States (including the courts enumerated in section 460 of title 28) shall have exclusive jurisdiction over actions and proceedings under subsection (a) of this section, regardless of the amount in controversy.
 
 (Pub. L. 89–532, §3, Aug. 11, 1966, 80 Stat. 344.)
 

@@ -10,7 +10,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 #### (c) Requirements
 
-(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referredto in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
+(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of thissection, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
 
 &emsp;(A) are not reasonably available within a reasonable period of time;
 
@@ -163,8 +163,4 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 #### Transfer of Functions
 
 For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
-
-#### Greening the Government Through Waste Prevention
-
-Executive agency heads to develop and implement affirmative procurement programs in accordance with this section and Ex. Ord. No. 13101, and specifications, standards, and product descriptions inconsistent with this section or Ex. Ord. No. 13101 to be revised, and guidance for use in determining Federal facility compliance with this section and Ex. Ord. No. 13101 to be prepared with evaluations to be based on this implementing guidance, see Ex. Ord. No. 13101, §§402, 403, 501(a), Sept. 14, 1998, 63 F.R. 49646, 49647, set out as a note under section 6961 of this title.
 

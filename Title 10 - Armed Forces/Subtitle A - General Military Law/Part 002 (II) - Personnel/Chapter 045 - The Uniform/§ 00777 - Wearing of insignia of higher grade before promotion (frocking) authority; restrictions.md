@@ -68,5 +68,5 @@ Pub. L. 108–136, div. A, title V, §509(b), Nov. 24, 2003, 117 Stat. 1459, pro
 
 #### Temporary Variation of Limitations on Numbers of Frocked Officers
 
-Pub. L. 104–106, div. A, title V, §503(b), Feb. 10, 1996, 110 Stat. 294, provided that in the administration of former subsec. (d)(2) of this section, the percent limitation applied under that section for fiscal year 1996 would be 2 percent, rather than 1 percent.
+Pub. L. 104–106, div. A, title V, §503(b), Feb. 10, 1996, 110 Stat. 294, provided that in the administration offormer subsec. (d)(2) of this section, the percent limitation applied under that section for fiscal year 1996 would be 2 percent, rather than 1 percent.
 

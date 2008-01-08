@@ -238,7 +238,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[June 3
 
 #### “SEC. 210. REPORT ON CHANGES TO FEE SCHEDULE OR FEE PAYMENT ARRANGEMENTS.
 
-“Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit a report on any changes or modifications made to the fee schedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
+“Not later than 3 months after the date of enactment of this Act \[June 30, 2004\], the Director shall submit a report on any changes or modifications made to the feeschedule or fee payment arrangements between the Federal Emergency Management Agency and insurance adjusters who provide services with respect to flood insurance policies to—
 
 &emsp;“(1) the Committee on Banking, Housing, and Urban Affairs of the Senate; and
 
@@ -298,7 +298,7 @@ Study of compliance assistance.—Conduct a study of the extent to which Federal
 
 &emsp;“(3)
 
-Study of compliance model.—Conduct a study of the extent to which existing programs of Federal agencies and corporations for compliance with the requirements under the national flood insurance program can serve as a model for other Federal agencies responsible for enforcing compliance, and submit tothe Congress a report describing the study and any conclusions.
+Study of compliance model.—Conduct a study of the extent to which existing programs of Federal agencies and corporations for compliance with the requirements under the national flood insurance program can serve as a model for other Federal agencies responsible for enforcing compliance, and submit to the Congress a report describing the study and any conclusions.
 
 &emsp;“(4)
 

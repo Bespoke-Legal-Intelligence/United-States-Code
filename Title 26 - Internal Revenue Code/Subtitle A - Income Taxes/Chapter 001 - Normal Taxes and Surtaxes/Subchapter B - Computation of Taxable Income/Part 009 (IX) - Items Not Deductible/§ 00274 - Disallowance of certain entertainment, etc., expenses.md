@@ -36,7 +36,7 @@
 
 &emsp;No deduction shall be allowed under section 162 or section 212 for any expense for gifts made directly or indirectly to any individual to the extent that such expense, when added to prior expenses of the taxpayer for gifts made to such individual during the same taxable year, exceeds $25. For purposes of this section, the term “gift” means any item excludable from gross income of the recipient under section 102 which is not excludable from his gross income under any other provision of this chapter, but such term does not include—
 
-&emsp;&emsp;(A) an item having a cost to the taxpayer not in excess of $4.00 on which the name ofthe taxpayer is clearly and permanently imprinted and which is one of a number of identical items distributed generally by the taxpayer, or
+&emsp;&emsp;(A) an item having a cost to the taxpayer not in excess of $4.00 on which the name of the taxpayer is clearly and permanently imprinted and which is one of a number of identical items distributed generally by the taxpayer, or
 
 &emsp;&emsp;(B) a sign, display rack, or other promotional material to be used on the business premises of the recipient.
 
@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;In the case of any individual who travels outside the United States away from home in pursuit of a trade or business or in pursuit of an activity described in section 212, no deduction shall be allowed under section 162, or section 212 for that portion of the expenses of such travel otherwise allowable under such section which, under regulations prescribed by the Secretary, is not allocable to such trade or business or to such activity.
+&emsp;In the case of any individual who travels outside the United States away from home inpursuit of a trade or business or in pursuit of an activity described in section 212, no deduction shall be allowed under section 162, or section 212 for that portion of the expenses of such travel otherwise allowable under such section which, under regulations prescribed by the Secretary, is not allocable to such trade or business or to such activity.
 
 #### (2) Exception
 
@@ -192,7 +192,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 &emsp;&emsp;(A) Except as provided in subparagraph (B), this subsection shall apply to deductions otherwise allowable under section 162 to any person, whether or not such person is the individual attending the convention, seminar, or similar meeting.
 
-&emsp;&emsp;(B) This subsection shall not deny a deduction to any person other than the individual attending the convention, seminar, or similar meeting with respect to any amount paid by such person to or on behalf of such individual if includible in the gross income of such individual. The preceding sentence shall not apply if the amount is required to be included in any information return filed by such person under part III of subchapter A of chapter 61 and is not so included.
+&emsp;&emsp;(B) This subsection shall not deny a deduction to any person other than the individual attending the convention, seminar, or similar meeting with respect to any amount paid by such person to or on behalf of such individual if includible in the gross income of such individual. The preceding sentence shall not apply if the amount is required tobe included in any information return filed by such person under part III of subchapter A of chapter 61 and is not so included.
 
 #### (5) Reporting requirements
 
@@ -244,7 +244,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (iii) Qualified confidential information defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified confidential information”means information which is subject to the nondisclosure provisions of any local law of the beneficiary country regarding bank secrecy or ownership of bearer shares.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified confidential information” means information which is subject to the nondisclosure provisions of any local law of the beneficiary country regarding bank secrecy or ownership of bearer shares.
 
 #### (iv) Civil tax purposes
 
@@ -604,7 +604,7 @@ Subsec. (b)(3). Pub. L. 97–34, §265(b), added par. (3).
 
 Subsec. (e)(10). Pub. L. 96–605 and Pub. L. 96–598 made identical amendments by adding par. (10).
 
-Subsec. (h) Pub. L. 96–608 substituted provision disallowing any deductions for expenses allocable to a convention, seminar, or other similar meeting outside the North American area unless, taking certain factors into account, it is as reasonable for the meeting to be held outside the North American area as within it, disallowing any deductions for a convention, seminar, or similar meeting held on any cruise ship, and defining North American area and cruise ship, for provision allowing deductions with respect to not more than 2 foreign conventions per year, limiting deductible transportation cost to not to exceed the cost of coach or economy air fare, permitting transportation costs to be fully deductible only if at least one-half of the days are devoted to business related activities, disallowing deductions for subsistence expenses unless the individual attends two-thirds of the business activities, limiting deductible subsistence costs to not to exceed the per diem rate for United States civil servants, defining foreign convention and subsistence expenses, providing that if transportation expenses or subsistence expenses are not separately stated or do not reflect the proper allocation all amounts paid be treated as subsistence expenses, and prescribing special reporting and substantiation requirements.
+Subsec. (h) Pub. L. 96–608 substituted provision disallowing any deductions for expenses allocable to a convention, seminar, or other similar meeting outside the North American area unless, taking certain factors into account, it is as reasonable for the meeting to be held outside the North American area as within it, disallowing any deductions for a convention, seminar, or similar meeting held on any cruise ship, and defining North American area and cruise ship, for provision allowing deductions with respect to not more than 2 foreign conventions per year, limiting deductible transportation cost to not to exceed the cost of coach or economy air fare, permitting transportation costs to be fully deductible only if at least one-half of the days are devoted to business related activities, disallowing deductions for subsistence expenses unless the individual attends two-thirds of the business activities, limiting deductible subsistence costs to not to exceed the perdiem rate for United States civil servants, defining foreign convention and subsistence expenses, providing that if transportation expenses or subsistence expenses are not separately stated or do not reflect the proper allocation all amounts paid be treated as subsistence expenses, and prescribing special reporting and substantiation requirements.
 
 1978—Subsec. (a)(1). Pub. L. 95–600, §361(a), substituted provisions allowing no deduction for expenses paid or incurred with respect to a facility which is used in conjunction with an activity which is of a type generally considered to constitute entertainment, amusement, or recreation for provisions allowing a deduction for expenses paid or incurred with respect to a facility if the facility used is primarily for the furtherance of the taxpayer's business, and the expense is “directly related” to the active conduct of taxpayer's business.
 
@@ -684,7 +684,7 @@ Exception From Substantiation Requirements for Qualified Nonpersonal Use Vehicle
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 179(b)(1) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984,see section 179(d)(2) of Pub. L. 98–369, set out as an Effective Date note under section 280F of this title.
+Amendment by section 179(b)(1) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 179(d)(2) of Pub. L. 98–369, set out as an Effective Date note under section 280F of this title.
 
 Amendment by section 801(c) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under section 245 of this title.
 

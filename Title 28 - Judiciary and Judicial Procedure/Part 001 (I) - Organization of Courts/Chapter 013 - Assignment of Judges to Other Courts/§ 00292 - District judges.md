@@ -20,7 +20,7 @@ Section consolidates and simplifies all provisions of sections 17, 21 and 216 of
 
 Term “chief judge” was substituted for “senior circuit judge.” (See Reviser's Note under section 136 of this title.)
 
-Sections 17 and 21 of title 28, U.S.C., 1940 ed., were inconsistent insofar as the words “or in his absence, the circuit judges thereof,” appearing in said section 17were not in section 21, and the words “senior circuit judge then present in the circuit,” appearing in section 21 were not in section 17. The revised section omits all such words and leaves designation of assignment to the chief judge of the circuit. If the chief judge is unable to perform his duties they devolve, under section 45 of this title, upon the circuit judge next in seniority of commission.
+Sections 17 and 21 of title 28, U.S.C., 1940 ed., were inconsistent insofar as the words “or in his absence, the circuit judges thereof,” appearing in said section 17 were not in section 21, and the words “senior circuit judge then present in the circuit,” appearing in section 21 were not in section 17. The revised section omits all such words and leaves designation of assignment to the chief judge of the circuit. If the chief judge is unable to perform his duties they devolve, under section 45 of this title, upon the circuit judge next in seniority of commission.
 
 The provision of said section 17, that designation of a district judge to another circuit should be from an adjacent circuit if practicable, was omitted as an unnecessary restriction on the discretion of the Chief Justice.
 

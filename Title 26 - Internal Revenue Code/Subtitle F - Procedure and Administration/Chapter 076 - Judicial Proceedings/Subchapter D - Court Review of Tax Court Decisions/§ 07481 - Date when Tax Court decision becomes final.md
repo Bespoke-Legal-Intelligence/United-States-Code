@@ -26,7 +26,7 @@ Except as provided in subsections (b), (c), and (d), the decision of the Tax Cou
 
 #### (A) Upon mandate of Supreme Court
 
-&emsp;&emsp;If the Supreme Court directs that the decision of the Tax Court be modified or reversed, the decision of the Tax Court rendered in accordance with the mandate of the Supreme Court shall become final upon theexpiration of 30 days from the time it was rendered, unless within such 30 days either the Secretary or the taxpayer has instituted proceedings to have such decision corrected to accord with the mandate, in which event the decision of the Tax Court shall become final when so corrected.
+&emsp;&emsp;If the Supreme Court directs that the decision of the Tax Court be modified or reversed, the decision of the Tax Court rendered in accordance with the mandate of the Supreme Court shall become final upon the expiration of 30 days from the time it was rendered, unless within such 30 days either the Secretary or the taxpayer has instituted proceedings to have such decision corrected to accord with the mandate, in which event the decision of the Tax Court shall become final when so corrected.
 
 #### (B) Upon mandate of the Court of Appeals
 

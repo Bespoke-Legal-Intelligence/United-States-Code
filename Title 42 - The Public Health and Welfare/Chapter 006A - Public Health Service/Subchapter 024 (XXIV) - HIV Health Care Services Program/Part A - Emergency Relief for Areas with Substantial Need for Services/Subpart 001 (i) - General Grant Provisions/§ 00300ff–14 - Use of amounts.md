@@ -80,7 +80,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “support services” means services, subject to the approval of the Secretary, that are needed for individuals with HIV/AIDS to achieve their medical outcomes (such as respite care for persons caring for individuals with HIV/AIDS, outreach services, medical transportation, linguistic services, and referrals for health care and support services).
+&emsp;For purposes of this section, the term “support services” means services, subject to theapproval of the Secretary, that are needed for individuals with HIV/AIDS to achieve their medical outcomes (such as respite care for persons caring for individuals with HIV/AIDS, outreach services, medical transportation, linguistic services, and referrals for health care and support services).
 
 #### (2) Medical outcomes
 
@@ -138,7 +138,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (2) Allocations by chief elected official
 
-&emsp;In the case of entities and subcontractors to which the chief elected official of an eligible area allocates amounts received by the official under a grant under this subpart, the official shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).
+&emsp;In the case of entities and subcontractors to which the chief elected official of an eligiblearea allocates amounts received by the official under a grant under this subpart, the official shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).
 
 #### (3) Administrative activities
 

@@ -118,7 +118,7 @@ The Higher Education Act of 1965, referred to in subsec. (d)(4), is Pub. L. 89�
 
 #### Prior Provisions
 
-A prior section 6951, Pub. L. 89–10, title III, §3401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3666, authorized a national telecommunications-based demonstration project to improve the teaching of mathematics, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6951, Pub. L. 89–10, title III, §3401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3666, authorized a national telecommunications-based demonstration project to improve the teaching of mathematics, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Prior sections 6952 and 6953 were omitted in the general amendment of this subchapter by Pub. L. 107–110.
 

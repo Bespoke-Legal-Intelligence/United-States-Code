@@ -1,6 +1,6 @@
 ### \[§§3304 to 3307. Repealed. Pub. L. 91–287, §2(c), June 23, 1970, 84 Stat. 321\]
 
-Section 3304, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1300, related to submission of lists and schedules of recordslacking preservation value by the Administrator of General Services to Congress. See section 3303a of this title.
+Section 3304, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1300, related to submission of lists and schedules of records lacking preservation value by the Administrator of General Services to Congress. See section 3303a of this title.
 
 Section 3305, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1300, related to examination of lists and schedules by joint congressional committees and report to Congress. See section 3303a of this title.
 

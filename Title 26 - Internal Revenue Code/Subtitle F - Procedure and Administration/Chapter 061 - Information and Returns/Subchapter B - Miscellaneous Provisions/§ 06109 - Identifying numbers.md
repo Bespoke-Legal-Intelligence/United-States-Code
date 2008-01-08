@@ -16,9 +16,9 @@ When required by regulations prescribed by the Secretary:
 
 &emsp;Any person required under the authority of this title to make a return, statement, or other document with respect to another person shall request from such other person, and shall include in any such return, statement, or other document, such identifying number as may be prescribed for securing proper identification of such other person.
 
-#### (4) Furnishing identifying number of income tax return preparer
+#### (4) Furnishing identifying number of tax return preparer
 
-&emsp;Any return or claim for refund prepared by an income tax return preparer shall bear such identifying number for securing proper identification of such preparer, his employer, or both, as may be prescribed. For purposes of this paragraph, the terms “return” and “claim for refund” have the respective meanings given to such terms by section 6696(e).
+&emsp;Any return or claim for refund prepared by a tax return preparer shall bear such identifying number for securing proper identification of such preparer, his employer, or both, as may be prescribed. For purposes of this paragraph, the terms “return” and “claim for refund” have the respective meanings given to such terms by section 6696(e).
 
 > For purposes of paragraphs (1), (2), and (3), the identifying number of an individual (or his estate) shall be such individual's social security account number.
 
@@ -42,7 +42,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (1) In general
 
-&emsp;In the administration of section 9 of the Food Stamp Act of 1977 (7 U.S.C. 2018) involving the determination of the qualifications of applicants under such Act, the Secretary of Agriculture may, subject to this subsection, require each applicant retail store or wholesale food concern to furnish to the Secretary of Agriculture the employer identification number assigned to the store or concern pursuant to this section. The Secretary of Agriculture shall not have access to any such number for any purpose other than the establishment and maintenance of a list of the names and employer identification numbers of the stores and concerns for use in determining those applicants who have been previouslysanctioned or convicted under section 12 or 15 of such Act (7 U.S.C. 2021 or 2024).
+&emsp;In the administration of section 9 of the Food Stamp Act of 1977 (7 U.S.C. 2018) involving the determination of the qualifications of applicants under such Act, the Secretary of Agriculture may, subject to this subsection, require each applicant retail store or wholesale food concern to furnish to the Secretary of Agriculture the employer identification number assigned to the store or concern pursuant to this section. The Secretary of Agriculture shall not have access to any such number for any purpose other than the establishment and maintenance of a list of the names and employer identification numbers of the stores and concerns for use in determining those applicants who have been previously sanctioned or convicted under section 12 or 15 of such Act (7 U.S.C. 2021 or 2024).
 
 #### (2) Sharing of information and safeguards
 
@@ -74,13 +74,13 @@ The social security account number issued to an individual for purposes of secti
 
 #### (3) Sanctions
 
-&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorizedwillful disclosure to any person of employer identification numbers maintained by the Secretary of Agriculture or the Federal Crop Insurance Corporation pursuant to this subsection in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
+&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained by the Secretary of Agriculture or the Federal Crop Insurance Corporation pursuant to this subsection in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
 
 #### (h) Identifying information required with respect to certain seller-provided financing
 
 #### (1) Payor
 
-&emsp;If any taxpayer claims a deduction under section 163 for qualified residence interest on any seller-provided financing, such taxpayer shall include on the return claiming such deduction the name, address, and TIN of the person to whom such interest is paid or accrued.
+&emsp;If any taxpayer claims a deduction under section 163 for qualified residence interest onany seller-provided financing, such taxpayer shall include on the return claiming such deduction the name, address, and TIN of the person to whom such interest is paid or accrued.
 
 #### (2) Recipient
 
@@ -94,7 +94,7 @@ The social security account number issued to an individual for purposes of secti
 
 &emsp;For purposes of this subsection, the term “seller-provided financing” means any indebtedness incurred in acquiring any residence if the person to whom such indebtedness is owed is the person from whom such residence was acquired.
 
-(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889; Pub. L. 105–206, title III, §3710(a), July 22, 1998, 112 Stat. 779.)
+(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889; Pub. L. 105–206, title III, §3710(a), July 22, 1998, 112 Stat. 779; Pub. L. 110–28, title VIII, §8246(a)(2)(D), May 25, 2007, 121 Stat. 201.)
 
 #### References in Text
 
@@ -109,6 +109,10 @@ The Federal Crop Insurance Act, referred to in subsec. (g), is title V of act Fe
 A prior section 6109 was renumbered section 6116 of this title.
 
 #### Amendments
+
+2007—Subsec. (a)(4). Pub. L. 110–28, §8246(a)(2)(D)(ii), which directed amendment of heading by substituting “tax return preparer” for “income return preparer”, was executed by making the substitution for “income tax return preparer”, to reflect the probable intent of Congress.
+
+Pub. L. 110–28, §8246(a)(2)(D)(i), substituted “a tax return preparer” for “an income tax return preparer”.
 
 1998—Subsec. (a). Pub. L. 105–206 substituted “For purposes of paragraphs (1), (2), and (3)” for “For purposes of this subsection” in concluding provisions.
 
@@ -151,6 +155,10 @@ Subsec. (e)(2). Pub. L. 100–485, §704(a), substituted “age of 2” for “a
 1976—Subsec. (a). Pub. L. 94–455, §§1203(d), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and added par. (4).
 
 Subsec. (d). Pub. L. 94–455, §1211(c), added subsec. (d).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub. L. 110–28, set out as a note under section 6060 of this title.
 
 #### Effective Date of 1998 Amendment
 

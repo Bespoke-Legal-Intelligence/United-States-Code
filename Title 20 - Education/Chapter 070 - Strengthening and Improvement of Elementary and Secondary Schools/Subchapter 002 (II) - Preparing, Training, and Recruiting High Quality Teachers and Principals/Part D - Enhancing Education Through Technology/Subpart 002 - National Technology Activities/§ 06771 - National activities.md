@@ -22,7 +22,7 @@ Using funds made available under section 6754(b)(2) of this title, the Secretary
 
 #### (c) Technical assistance
 
-Using funds made available under section 6754(b)(2) of this title, the Secretary may provide technical assistance (directly or through the competitive award of grants or contracts) to State educational agencies, local educational agencies, and other recipients of funds, particularly in rural areas, under this part, in order to assist such State educational agencies, localeducational agencies, and other recipients to achieve the purposes of this part.
+Using funds made available under section 6754(b)(2) of this title, the Secretary may provide technical assistance (directly or through the competitive award of grants or contracts) to State educational agencies, local educational agencies, and other recipients of funds, particularly in rural areas, under this part, in order to assist such State educational agencies, local educational agencies, and other recipients to achieve the purposes of this part.
 
 (Pub. L. 89–10, title II, §2421, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1682.)
 

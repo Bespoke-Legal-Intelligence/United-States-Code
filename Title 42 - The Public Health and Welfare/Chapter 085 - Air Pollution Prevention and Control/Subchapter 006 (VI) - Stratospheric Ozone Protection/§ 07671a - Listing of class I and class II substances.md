@@ -126,7 +126,7 @@ Simultaneously with publication of the initial list of class I substances, the A
 
 > hydrochlorofluorocarbon-271 (HCFC–271)
 
-> The initial list under this subsection shall also include the isomers of the substances listed above. Pursuant to subsection (c) of this section, the Administrator shall add to the list of class II substances any other substance that the Administrator finds is known or may reasonably be anticipated to cause or contribute to harmful effects on the stratospheric ozone layer.
+> The initial list under this subsection shall also include the isomers of the substances listed above. Pursuant to subsection (c) of this section, the Administrator shall add to the list of classII substances any other substance that the Administrator finds is known or may reasonably be anticipated to cause or contribute to harmful effects on the stratospheric ozone layer.
 
 #### (c) Additions to the lists
 
@@ -226,7 +226,7 @@ halon-2402
 
 carbon tetrachloride
 
-&nbsp;1.1 
+&nbsp;1.1&nbsp;
 
 methyl chloroform
 

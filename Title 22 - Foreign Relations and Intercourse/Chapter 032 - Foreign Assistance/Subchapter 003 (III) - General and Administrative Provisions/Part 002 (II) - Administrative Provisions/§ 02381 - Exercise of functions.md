@@ -8,7 +8,7 @@ The President may exercise any functions conferred upon him by this chapter thro
 
 The President shall issue and enforce regulations determining the eligibility of any person to receive funds made available under this chapter. A person may be suspended under such regulations for a temporary period pending the completion of an investigation and any resulting judicial or debarment proceedings, upon cause for belief that such person or an affiliate thereof probably has undertaken conduct which constitutes a cause for debarment; and, after an opportunity has been afforded to such person for a hearing, he may be debarred for an additional period, not to exceed three years. Among the causes for debarment shall be (1) offering or accepting a bribe or other illegal payment or credit in connection with any transaction financed with funds made available under this chapter; or (2) committing a fraud in the procurement or performance of any contract financed with funds made available under this chapter; or (3) acting in any other manner which shows a lack of integrity or honesty in connection with any transaction financed with funds made available under this chapter. Reinstatement of eligibility in each particular case shall be subject to such conditions as the President shall direct. Each person whose eligibility is denied or suspended under this subsection shall, upon request, be entitled to a review of his eligibility not less often than once every two years.
 
-(Pub. L. 87–195, pt. III, §621, Sept. 4, 1961, 75 Stat. 445; Pub. L. 87–565, pt. III, §302(a), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(a), Dec. 16, 1963, 77 Stat. 388; Pub. L. 90–554, pt. III, §302(a), Oct. 8, 1968, 82 Stat. 964.)
+(Pub. L. 87–195, pt. III, §621, Sept. 4, 1961, 75 Stat. 445; Pub. L. 87–565, pt. III, §302(a), Aug. 1, 1962, 76Stat. 262; Pub. L. 88–205, pt. III, §302(a), Dec. 16, 1963, 77 Stat. 388; Pub. L. 90–554, pt. III, §302(a), Oct. 8, 1968, 82 Stat. 964.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ Ex. Ord. No. 10973, Nov. 3, 1961, 26 F.R. 10469, as amended, was superseded inso
 
 #### Ex. Ord. No. 12163. Administration of Foreign Assistance and Related Functions
 
-Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R. 3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, §1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §2, June 29, 1998, 63 F.R. 36153; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §§1–9, Mar. 31, 1999, 64 F.R. 16595–16598; Ex. Ord. No. 13346, §3, July 8, 2004, 69 F.R. 41905; Ex. Ord. No. 13361, Nov. 16, 2004, 69 F.R. 67633, provided:
+Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended by Ex. Ord. No. 12226, July 22, 1980, 45 F.R. 49235; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12458, Jan. 14, 1984, 49 F.R. 1977; Ex. Ord. No. 12500, Jan. 24, 1985, 50 F.R.3733; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12620, Dec. 24, 1987, 52 F.R. 49135; Ex. Ord. No. 12639, May 6, 1988, 53 F.R. 16691; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12695, Nov. 1, 1989, 54 F.R. 46589; Ex. Ord. No. 12738, §§1–6, Dec. 14, 1990, 55 F.R. 52033; Ex. Ord. No. 13030, §1, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §2, June 29, 1998, 63 F.R. 36153; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(2), Oct. 21, 1998, 112 Stat. 2681–792; Ex. Ord. No. 13118, §§1–9, Mar. 31, 1999, 64 F.R. 16595–16598; Ex. Ord. No. 13346, §3, July 8, 2004, 69 F.R. 41905; Ex. Ord. No. 13361, Nov. 16, 2004, 69 F.R. 67633, provided:
 
 By virtue of the authority vested in me by the Foreign Assistance Act of 1961 \[this chapter\], Reorganization Plan No. 2 of 1979 \[set out above\], the International Development Cooperation Act of 1979 \[see Short Title of 1979 Amendment note set out under section 2151 of this title\], and section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
@@ -112,7 +112,7 @@ Department of State
 
 (c) The functions under sections 239(f), 620(e), 620(g), 620(j), 620(q), and 620(s) of the Act \[22 U.S.C. 2199(f), 2370(e), (g), (j), (q), (s)\] delegated to the Secretary shall be exercised in consultation with the Administrator of the United States Agency for International Development.
 
-(d) The Secretary shall perform all public information functions abroad with respect to the foreign assistance, aid, and development programs of the UnitedStates Government, to the extent such functions are not specifically assigned by statute to be performed by a different officer.
+(d) The Secretary shall perform all public information functions abroad with respect to the foreign assistance, aid, and development programs of the United States Government, to the extent such functions are not specifically assigned by statute to be performed by a different officer.
 
 (e) The Secretary may redelegate to any other officer or agency of the Executive branch functions delegated to the Secretary by this order to the extent such delegation is not otherwise prohibited by law.
 
@@ -198,7 +198,7 @@ Additional Delegations and Limitations of Authority; Consultation
 
 (a) section 654 \[22 U.S.C. 2414\] (except as reserved to the President); and
 
-(b) those provisions of acts appropriating funds under the authority of the Act \[this chapter\] that relate tothe Act, or other acts authorizing such funds, insofar as they relate to the functions delegated by this order.
+(b) those provisions of acts appropriating funds under the authority of the Act \[this chapter\] that relate to the Act, or other acts authorizing such funds, insofar as they relate to the functions delegated by this order.
 
 1–602. <i>Personnel</i>. (a) In carrying out the functions conferred upon the President by the provisions of section 625(d) of the Act \[22 U.S.C. 2385(d)\], and by this order delegated to the Secretary of State, the Secretary shall authorize such of the agencies that administer programs under the Act \[this chapter\] as he may deem appropriate to perform any of the functions under section 625(d) of the Act to the extent that the said functions relate to the programs administered by the respective agencies.
 
@@ -280,7 +280,7 @@ General Provisions
 
 (c) References in this order to provisions of any Act, and references in any other Executive order or in any memorandum delegation to provisions of any Act related to the subject of this order shall be deemed to include references to any provision of law that is the same or substantially the same as such provisions, respectively.
 
-(d) References in this order or in any other Executive order to this order or to any provision thereof shall be deemed to include references thereto, respectively, as amended from time to time.
+(d) References in this order or in any other Executive order to this order or to any provision thereof shall bedeemed to include references thereto, respectively, as amended from time to time.
 
 (e) References in any prior Executive order not superseded by this order to any provisions of any Executive order so superseded shall hereafter be deemed to be references to the corresponding provisions, if any, of this order.
 

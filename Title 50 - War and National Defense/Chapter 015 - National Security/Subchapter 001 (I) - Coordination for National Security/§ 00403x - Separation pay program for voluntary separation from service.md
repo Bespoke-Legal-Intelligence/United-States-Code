@@ -30,7 +30,7 @@ In order to avoid or minimize the need for involuntary separations due to downsi
 
 #### (2) Penalty
 
-&emsp;An employee who violates an agreement under this subsection shall be liable to the United States in the amount of the separationpay paid to the employee pursuant to this section times the proportion of the 12-month period during which the employee was in violation of the agreement.
+&emsp;An employee who violates an agreement under this subsection shall be liable to the United States in the amount of the separation pay paid to the employee pursuant to this section times the proportion of the 12-month period during which the employee was in violation of the agreement.
 
 #### (d) Limitations
 

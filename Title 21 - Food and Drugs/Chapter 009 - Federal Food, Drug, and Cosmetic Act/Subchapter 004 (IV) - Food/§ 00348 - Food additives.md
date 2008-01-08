@@ -46,7 +46,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 &emsp;(B) by order deny the petition, and shall notify the petitioner of such order and of the reasons for such action.
 
-(2) The order required by paragraph (1)(A) or (B) of this subsection shall be issued within ninety days after the date of filing of the petition, except that the Secretary may (prior to such ninetieth day), by written notice to the petitioner, extend such ninety-day period to such time (not more than one hundred and eighty days after the date of filing of the petition) as the Secretary deems necessary to enable him to study and investigate the petition.
+(2) The order required by paragraph (1)(A) or (B) of this subsection shall be issued within ninety days after the date of filing of the petition, except that the Secretary may (prior to such ninetieth day), by written notice to the petitioner, extend such ninety-day period to such time (not more than one hundred and eighty days after the date of filing of the petition) asthe Secretary deems necessary to enable him to study and investigate the petition.
 
 (3) No such regulation shall issue if a fair evaluation of the data before the Secretary—
 
@@ -92,7 +92,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (3) The court, on such judicial review, shall not sustain the order of the Secretary if he failed to comply with any requirement imposed on him by subsection (f)(2) of this section.
 
-(4) If application is made to the court for leave to adduce additional evidence, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such termsand conditions as to the court may seem proper, if such evidence is material and there were reasonable grounds for failure to adduce such evidence in the proceedings below. The Secretary may modify his findings as to the facts and order by reason of the additional evidence so taken, and shall file with the court such modified findings and order.
+(4) If application is made to the court for leave to adduce additional evidence, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper, if such evidence is material and there were reasonable grounds for failure to adduce such evidence in the proceedings below. The Secretary may modify his findings as to the facts and order by reason of the additional evidence so taken, and shall file with the court such modified findings and order.
 
 (5) The judgment of the court affirming or setting aside, in whole or in part, any order under this section shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28. The commencement of proceedings under this section shall not, unless specifically ordered by the court to the contrary, operate as a stay of an order.
 
@@ -188,7 +188,7 @@ Section effective Sept. 6, 1958, see section 6(a) of Pub. L. 85–929, set out a
 
 #### Transfer of Functions
 
-Functions vested in Secretary of Health, Education, and Welfare \[now Health and Human Services\] in establishing tolerances for pesticide chemicals under this section together with authority to monitor compliance with tolerances and effectiveness of surveillance and enforcement and to provide technical assistance to States and conduct research under this chapter and section 201 et seq. of Title 42, The Public Health and Welfare, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970,§2(a)(4), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested in Secretary of Health, Education, and Welfare \[now Health and Human Services\] in establishing tolerances for pesticide chemicals under this section together with authority to monitor compliance with tolerances and effectiveness of surveillance and enforcement and to provide technical assistance to States and conduct research under this chapter and section 201 et seq. of Title 42, The Public Health and Welfare, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(4), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Glass and Ceramic Ware
 

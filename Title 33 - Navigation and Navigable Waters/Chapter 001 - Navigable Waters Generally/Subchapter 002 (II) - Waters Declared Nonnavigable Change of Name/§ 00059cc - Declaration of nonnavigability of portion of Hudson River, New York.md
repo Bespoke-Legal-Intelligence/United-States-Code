@@ -8,7 +8,7 @@ Subject to subsections (c), (d), and (e) of this section, the area described in 
 
 The area described in this subsection is the portion of the Hudson River, New York, described as follows (according to coordinates and bearings in the system used on the Borough Survey, Borough President's Office, New York, New York):
 
-&emsp;Beginning at a point in the United States Bulkhead Line approved by the Secretary ofWar, July 31, 1941, having a coordinate of north 1918.003 west 9806.753;
+&emsp;Beginning at a point in the United States Bulkhead Line approved by the Secretary of War, July 31, 1941, having a coordinate of north 1918.003 west 9806.753;
 
 &emsp;Running thence easterly, on the arc of a circle curving to the left, whose radial line bears north 3°–44–20 east, having a radius of 390.00 feet and a central angle of 22°–05–50, 150.41 feet to a point of tangency;
 
@@ -34,7 +34,7 @@ The area described in this subsection is the portion of the Hudson River, New Yo
 
 &emsp;Thence westerly, on the arc of a circle curving to the left, whose radial bears north 13°–16–57 west, having a radius of 6.00 feet and a central angle of 180°–32–31, 18.91 feet to a point of curve intersection;
 
-&emsp;Thence southerly, on the arc of a circle curving to the left, whose radial line bears north 75°–37–11 east, having a radius of 313.40 feet and a central angle of 4°–55–26, 26.93 feet to a point of curve intersection;
+&emsp;Thence southerly, on the arc of a circle curving to the left, whose radial line bearsnorth 75°–37–11 east, having a radius of 313.40 feet and a central angle of 4°–55–26, 26.93 feet to a point of curve intersection;
 
 &emsp;Thence south 70°–41–45 west, 36.60 feet;
 

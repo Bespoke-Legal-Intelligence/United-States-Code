@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall provide for the establishment and operation in accordance with this section of a system to provide for the lifetime care of chimpanzees that have been used, or were bred or purchased for use, in research conducted or supported by the National Institutes of Health, the Food and Drug Administration, or other agencies of the Federal Government, and with respect to which it has been determined by the Secretary that the chimpanzees are not needed for such research (in this section referred to as “surplus chimpanzees”).
+The Secretary shall provide for the establishment and operation in accordance with this section of a system to provide for the lifetime care of chimpanzees that have been used, or were bred or purchased for use, in research conducted or supported by the National Institutes of Health, the Food and Drug Administration, or other agencies of the Federal Government, andwith respect to which it has been determined by the Secretary that the chimpanzees are not needed for such research (in this section referred to as “surplus chimpanzees”).
 
 #### (b) Administration of sanctuary system
 
@@ -40,7 +40,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 &emsp;&emsp;(I) A prohibition that none of the chimpanzees may be subjected to euthanasia, except as in the best interests of the chimpanzee involved, as determined by the system and an attending veterinarian.
 
-&emsp;&emsp;(J) A prohibition that the chimpanzees may not be discharged from the system. If any chimpanzee is removed from a sanctuary facility for purposes of research authorized under paragraph (3)(A)(ii), the chimpanzee shall be returned immediately upon the completion of that research. All costs associated with the removal of the chimpanzee from the facility, with the care of the chimpanzee during such absence from the facility, and with the return of the chimpanzee to the facility shall be the responsibility of the entity that obtains approval under such paragraph regarding use of the chimpanzee and removes the chimpanzee from the sanctuary facility.
+&emsp;&emsp;(J) A prohibition that the chimpanzees may not be discharged from the system.
 
 &emsp;&emsp;(K) A provision that the Secretary may, in the discretion of the Secretary, accept into the system chimpanzees that are not surplus chimpanzees.
 
@@ -50,41 +50,11 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (2)(A), standards under paragraph (1) shall provide that a chimpanzee accepted into the sanctuary system may not be used for studies or research, except as provided in clause (i) or (ii), as follows:
+&emsp;&emsp;For purposes of paragraph (2)(A), standards under paragraph (1) shall provide that a chimpanzee accepted into the sanctuary system may not be used for studies or research, except that the chimpanzee may be used for noninvasive behavioral studies or medical studies based on information collected during the course of normal veterinary care that is provided for the benefit of the chimpanzee, provided that any such study involves minimal physical and mental harm, pain, distress, and disturbance to the chimpanzee and the social group in which the chimpanzee lives.
 
-&emsp;&emsp;&emsp;(i) The chimpanzee may be used for noninvasive behavioral studies or medical studies based on information collected during the course of normal veterinary care that is provided for the benefit of the chimpanzee, provided that any such study involves minimal physical and mental harm, pain, distress, and disturbance to the chimpanzee and the social group in which the chimpanzee lives.
+#### (B) Additional restriction
 
-&emsp;&emsp;&emsp;(ii) The chimpanzee may be used in research if—
-
-&emsp;&emsp;&emsp;&emsp;(I) the Secretary finds that there are special circumstances in which there is need for that individual, specific chimpanzee (based on that chimpanzee's prior medical history, prior research protocols, and current status), and there is no chimpanzee with a similar history and current status that is reasonably available among chimpanzees that are not in the sanctuary system;
-
-&emsp;&emsp;&emsp;&emsp;(II) the Secretary finds that there are technological or medical advancements that were not available at the time the chimpanzee entered the sanctuary system, and that such advancements can and will be used in the research;
-
-&emsp;&emsp;&emsp;&emsp;(III) the Secretary finds that the research is essential to address an important public health need; and
-
-&emsp;&emsp;&emsp;&emsp;(IV) the design of the research involves minimal pain and physical harm to the chimpanzee, and otherwise minimizes mental harm, distress, and disturbance to the chimpanzee and the social group in which the chimpanzee lives (including with respect to removal of the chimpanzee from the sanctuary facility involved).
-
-#### (B) Approval of research design
-
-#### (i) Evaluation by sanctuary board
-
-&emsp;&emsp;&emsp;With respect to a proposed use in research of a chimpanzee in the sanctuary system under subparagraph (A)(ii), the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section shall, after consultation with the head of the sanctuary facility in which the chimpanzee has been placed and with the attending veterinarian, evaluate whether the design of the research meets the conditions described in subparagraph (A)(ii)(IV) and shall submit to the Secretary the findings of the evaluation.
-
-#### (ii) Acceptance of board findings
-
-&emsp;&emsp;&emsp;The Secretary shall accept the findings submitted to the Secretary under clause (i) by the board of directors referred to in such clause unless the Secretary makes a determination that the findings of the board are arbitrary or capricious.
-
-#### (iii) Public participation
-
-&emsp;&emsp;&emsp;With respect to a proposed use in research of a chimpanzee in the sanctuary system under subparagraph (A)(ii), the proposal shall not be approved until—
-
-&emsp;&emsp;&emsp;&emsp;(I) the Secretary publishes in the Federal Register the proposed findings of the Secretary under such subparagraph, the findings of the evaluation by the board under clause (i) of this subparagraph, and the proposed evaluation by the Secretary under clause (ii) of this subparagraph; and
-
-&emsp;&emsp;&emsp;&emsp;(II) the Secretary seeks public comment for a period of not less than 60 days.
-
-#### (C) Additional restriction
-
-&emsp;&emsp;For purposes of paragraph (2)(A), a condition for the use in studies or research of a chimpanzee accepted into the sanctuary system is (in addition to conditions under subparagraphs (A) and (B) of this paragraph) that the applicant for such use has not been fined for, or signed a consent decree for, any violation of the Animal Welfare Act \[7 U.S.C. 2131 et seq.\].
+&emsp;&emsp;For purposes of paragraph (2)(A), a condition for the use in studies or research of a chimpanzee accepted into the sanctuary system is (in addition to conditions under subparagraph (A) of this paragraph) that the applicant for such use has not been fined for, or signed a consent decree for, any violation of the Animal Welfare Act \[7 U.S.C. 2131 et seq.\].
 
 #### (4) Non-Federal chimpanzees offered for acceptance into system
 
@@ -98,7 +68,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 > &emsp;&emsp;Any fees collected under this subparagraph are available to the Secretary for the costs of operating the system. Any other fees received by the Secretary for the long-term care of chimpanzees (including any Federal fees that are collected for such purpose and are identified in the report under section 3 of the Chimpanzee Health Improvement, Maintenance, and Protection Act) are available for operating the system, in addition to availability for such other purposes as may be authorized for the use of the fees.
 
-&emsp;&emsp;(B) A provision that the Secretary may deny such chimpanzee acceptance into the system if the capacity of the system is not sufficient to accept the chimpanzee, taking into account the physical capacity of thesystem; the financial resources of the system; the number of individuals serving as the staff of the system, including the number of professional staff; the necessity of providing for the safety of the staff and of the public; the necessity of caring for accepted chimpanzees in accordance with the standards under paragraph (1); and such other factors as may be appropriate.
+&emsp;&emsp;(B) A provision that the Secretary may deny such chimpanzee acceptance into the system if the capacity of the system is not sufficient to accept the chimpanzee, taking into account the physical capacity of the system; the financial resources of the system; the number of individuals serving as the staff of the system, including the number of professional staff; the necessity of providing for the safety of the staff and of the public; the necessity of caring for accepted chimpanzees in accordance with the standards under paragraph (1); and such other factors as may be appropriate.
 
 &emsp;&emsp;(C) A provision that the Secretary may deny such chimpanzee acceptance into the system if a complete history of the health and use in research of the chimpanzee is not available to the Secretary.
 
@@ -158,7 +128,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 &emsp;&emsp;&emsp;(i) The term of the chair of the board is 3 years.
 
-&emsp;&emsp;&emsp;(ii) The initial members of the board select, by a random method, one member from each of the six fields specified in subparagraph (A) to serve a term of 2 years and (in addition to the chair) one member from each of such fields to serve a term of 3 years.
+&emsp;&emsp;&emsp;(ii) The initial members of the board select, by a random method, one memberfrom each of the six fields specified in subparagraph (A) to serve a term of 2 years and (in addition to the chair) one member from each of such fields to serve a term of 3 years.
 
 &emsp;&emsp;&emsp;(iii) After the initial terms under clause (ii) expire, each member of the board (other than the chair) is appointed to serve a term of 2 years.
 
@@ -214,17 +184,29 @@ For purposes of this section:
 
 &emsp;With respect to amounts reserved under paragraph (1) for a fiscal year, the Secretary may use a portion of such amounts to make awards of grants or contracts to public or private entities operating facilities that, as determined by the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section, provide for the retirement of chimpanzees in accordance with the same standards that apply to the sanctuary system pursuant to regulations under subsection (d) of this section. Such an award may be expended for the expenses of operating the facilities involved.
 
-(July 1, 1944, ch. 373, title IV, §481C, as added Pub. L. 106–551, §2, Dec. 20, 2000, 114 Stat. 2752.)
+(July 1, 1944, ch. 373, title IV, §481C, as added Pub. L. 106–551, §2, Dec. 20, 2000, 114 Stat. 2752; amended Pub. L. 110–170, §2(a), Dec. 26, 2007, 121 Stat. 2465.)
 
 #### References in Text
 
-The Animal Welfare Act, referred to in subsecs. (d)(2)(D), (3)(C) and (e)(3)(A)(ix), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
+The Animal Welfare Act, referred to in subsecs. (d)(2)(D), (3)(B) and (e)(3)(A)(ix), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
 
 Section 3 of the Chimpanzee Health Improvement, Maintenance, and Protection Act, referred to in subsec. (d)(4)(A), is section 3 of Pub. L. 106–551, which is set out as a note below.
 
-#### Codification
+#### Prior Provisions
 
-Another section 481C of act July 1, 1944, is classified to section 287a–4 of this title.
+A prior section 481C of act July 1, 1944, was renumbered section 481D and is classified to section 287a–4 of this title.
+
+#### Amendments
+
+2007—Subsec. (d)(2)(J). Pub. L. 110–170, §2(a)(1), struck out at end “If any chimpanzee is removed from a sanctuary facility for purposes of research authorized under paragraph (3)(A)(ii), the chimpanzee shall be returned immediately upon the completion of that research. All costs associated with the removal of the chimpanzee from the facility, with the care of the chimpanzee during such absence from the facility, and with the return of the chimpanzee to the facility shall be the responsibility of the entity that obtains approval under such paragraph regarding use of the chimpanzee and removes the chimpanzee from the sanctuary facility.”
+
+Subsec. (d)(3)(A). Pub. L. 110–170, §2(a)(2)(A), substituted “except that the chimpanzee may be used for noninvasive behavioral studies” for “except as provided in clause (i) or (ii), as follows:
+
+&emsp;“(i) The chimpanzee may be used for noninvasive behavioral studies”
+
+> and struck out cl. (ii) which related to findings necessary before a chimpanzee may be used in research.
+
+Subsec. (d)(3)(B), (C). Pub. L. 110–170, §2(a)(2)(B)–(D), redesignated subpar. (C) as (B), substituted “under subparagraph (A)” for “under subparagraphs (A) and (B)”, and struck out former subpar. (B) which related to approval of research design.
 
 #### Report to Congress Regarding Number of Chimpanzees and Funding for Care of Chimpanzees
 

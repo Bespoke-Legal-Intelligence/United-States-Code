@@ -160,7 +160,7 @@ In subsection (b), the words “recorded under subsection (a)(2)(C) or (D) of th
 
 In subsection (c), before clause (1), the words “by regulation” are omitted because of 49:322(a). In clause (2), the words “possession of the United States” are substituted for “possession thereof” for clarity.
 
-In subsection (d), the words “lease, and instrument” are substituted for “other instruments” for clarity and consistency in this subchapter. In clause (1), the words “of the time and date of” before “recordation” areomitted as unnecessary because of the restatement. In clause (2), before subclause (A), the words “in files to be kept for that purpose” are omitted as unnecessary. In subclause (A), the words “location specified in a lease or instrument recorded under subsection (a)(2)(C) or (D) of this section” are substituted for “in the case of an instrument referred to in subsection (a)(3) of this section, the location or locations specified therein” for clarity and consistency in this subchapter.
+In subsection (d), the words “lease, and instrument” are substituted for “other instruments” for clarity and consistency in this subchapter. In clause (1), the words “of the time and date of” before “recordation” are omitted as unnecessary because of the restatement. In clause (2), before subclause (A), the words “in files to be kept for that purpose” are omitted as unnecessary. In subclause (A), the words “location specified in a lease or instrument recorded under subsection (a)(2)(C) or (D) of this section” are substituted for “in the case of an instrument referred to in subsection (a)(3) of this section, the location or locations specified therein” for clarity and consistency in this subchapter.
 
 #### Amendments
 

@@ -14,9 +14,15 @@ The Council shall be responsible for—
 
 &emsp;(3) developing and transmitting to Congress a national strategy for restoration of estuary habitat;
 
-&emsp;(4) periodically reviewing the effectiveness of the national strategy in meeting the purposes of this chapter and, as necessary, updating the national strategy; and
+&emsp;(4) periodically reviewing the effectiveness of the national strategy in meeting the purposes of this chapter and, as necessary, updating the national strategy;
 
-&emsp;(5) providing advice on the development of the database, monitoring standards, and report required under sections 2906 and 2907 of this title.
+&emsp;(5) providing advice on the development of the database, monitoring standards, and report required under sections 2906 and 2907 of this title;
+
+&emsp;(6) cooperating in the implementation of the strategy developed under section 2905 of this title;
+
+&emsp;(7) recommending standards for monitoring for restoration projects and contribution of project information to the database developed under section 2906 of this title; and
+
+&emsp;(8) otherwise using the respective authorities of the Council members to carry out this chapter.
 
 #### (c) Membership
 
@@ -68,5 +74,9 @@ The Council shall consult with persons with recognized scientific expertise in e
 
 &emsp;(2) to provide advice and recommendations to the Council on proposed estuary habitat restoration projects, including advice on the scientific merit, technical merit, and feasibility of a project.
 
-(Pub. L. 106–457, title I, §105, Nov. 7, 2000, 114 Stat. 1962.)
+(Pub. L. 106–457, title I, §105, Nov. 7, 2000, 114 Stat. 1962; Pub. L. 110–114, title V, §5017(d), Nov. 8, 2007, 121 Stat. 1198.)
+
+#### Amendments
+
+2007—Subsec. (b)(6) to (8). Pub. L. 110–114 added pars. (6) to (8).
 

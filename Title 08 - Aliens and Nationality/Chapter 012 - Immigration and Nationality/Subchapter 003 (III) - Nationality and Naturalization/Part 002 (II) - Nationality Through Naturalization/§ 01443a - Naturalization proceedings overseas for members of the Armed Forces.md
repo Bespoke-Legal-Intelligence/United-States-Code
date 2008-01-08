@@ -10,7 +10,7 @@ The Immigration and Nationality Act, referred to in text, is act June 27, 1952, 
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as part of the Immigration and Nationality Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as partof the Immigration and Nationality Act which comprises this chapter.
 
 #### Effective Date
 

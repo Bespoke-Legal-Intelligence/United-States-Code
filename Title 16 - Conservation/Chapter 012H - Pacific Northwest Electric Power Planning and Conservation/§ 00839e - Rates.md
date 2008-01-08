@@ -18,7 +18,7 @@
 
 (2) After July 1, 1985, the projected amounts to be charged for firm power for the combined general requirements of public body, cooperative and Federal agency customers, exclusive of amounts charged such customers under subsection (g) of this section for the costs of conservation, resource and conservation credits, experimental resources and uncontrollable events, may not exceed in total, as determined by the Administrator, during any year after July 1, 1985, plus the ensuing four years, an amount equal to the power costs for general requirements of such customer if, the Administrator assumes that—
 
-&emsp;(A) the public body and cooperative customers’ general requirements had included during such five-year period the direct service industrial customer loads which are—
+&emsp;(A) the public body and cooperative customers’ general requirements had includedduring such five-year period the direct service industrial customer loads which are—
 
 &emsp;&emsp;(i) served by the Administrator, and
 
@@ -86,7 +86,7 @@ Nothing in this chapter prohibits the Administrator from establishing, in rate s
 
 #### (f) Basis for rates
 
-Rates for all other firm power sold by the Administrator for use in the Pacific Northwestshall be based upon the cost of the portions of Federal base system resources, purchases of power under section 839c(c) of this title and additional resources which, in the determination of the Administrator, are applicable to such sales.
+Rates for all other firm power sold by the Administrator for use in the Pacific Northwest shall be based upon the cost of the portions of Federal base system resources, purchases of power under section 839c(c) of this title and additional resources which, in the determination of the Administrator, are applicable to such sales.
 
 #### (g) Allocation of costs and benefits
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of this section, rates established by the Ad
 
 #### References in Text
 
-The Bonneville Project Act, referred to in subsec. (k), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, popularly known as the Bonneville Project Act of 1937, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
+The Bonneville Project Act, referred to in subsec. (k), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended,popularly known as the Bonneville Project Act of 1937, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
 
 The Flood Control Act of 1944, referred to in subsec. (k), is act Dec. 22, 1944, ch. 665, 58 Stat. 887, as amended, which enacted sections 460d and 825s of this title, sections 701–1, 701a–1, 708, and 709 of Title 33, Navigation and Navigable Waters, and section 390 of Title 43, Public Lands, and enacted provisions set out as notes under sections 701c, 701f, and 701j of Title 33. For complete classification of this Act to the Code, see Tables. For provisions of the Act relating to sale of electric power, see section 825s of this title.
 

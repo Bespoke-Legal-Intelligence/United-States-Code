@@ -18,7 +18,7 @@ The Secretary shall—
 
 #### (c) Policy recommendations to President and Congress
 
-The Secretary is authorized and directed, within one year of November 4, 1978, to makerecommendations to the President and to the Congress for Federal policies relating to barriers to the early and widespread utilization of photovoltaic systems in order to realize the goals set forth in section 5581 of this title. These recommendations shall include but not be limited to—
+The Secretary is authorized and directed, within one year of November 4, 1978, to make recommendations to the President and to the Congress for Federal policies relating to barriers to the early and widespread utilization of photovoltaic systems in order to realize the goals set forth in section 5581 of this title. These recommendations shall include but not be limited to—
 
 &emsp;(1) the potential for integration of electricity derived from photovoltaic energy systems into the existing national grid system, including the potential of photovoltaic-generated electricity to meet the peak-load energy needs of electric utilities, load management and reliability implications of the utilization of photovoltaic electricity by utilities, the implications of utility ownership of photovoltaic components leased to others primarily for decentralized applications, the impacts of utility use of electricity derived from photovoltaic energy systems on utility rate structures, and the potential for reducing or obviating the need for energy storage components for photovoltaic energy systems through utility interface;
 

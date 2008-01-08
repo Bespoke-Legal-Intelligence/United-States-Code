@@ -104,7 +104,7 @@ Authority to terminate program.—The Secretary shall immediately terminate a pi
 
 &emsp;(5)
 
-Report to congress.—At the conclusion of each pilot program, the Secretary shall report to Congress the findings, conclusions, and recommendations of the program, includingsuggested amendments to laws and regulations that would enhance motor carrier, commercial motor vehicle, and driver safety and improve compliance with national safety standards.
+Report to congress.—At the conclusion of each pilot program, the Secretary shall report to Congress the findings, conclusions, and recommendations of the program, including suggested amendments to laws and regulations that would enhance motor carrier, commercial motor vehicle, and driver safety and improve compliance with national safety standards.
 
 (d)
 

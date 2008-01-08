@@ -40,7 +40,7 @@
 
 (d) The finding referred to in subsection (b)(2)(B) with respect to a proposal for designation of a site as a location of a center under this section is a finding by the Secretary, upon the recommendation of the Under Secretary for Health, that the facilities submitting the proposal have developed (or may reasonably be anticipated to develop) each of the following:
 
-&emsp;(1) An arrangement with an accredited medical school that provides education and training in psychiatry and with which one or more of the participating Department facilities is affiliated under which medical residents receive education and training in psychiatry through regular rotation through the participating Department facilities so as to provide such residents with training in the diagnosis and treatment of mental illness.
+&emsp;(1) An arrangement with an accredited medical school that provides education and training in psychiatry and with which one or more of the participating Department facilities is affiliated under which medical residents receive education and training in psychiatrythrough regular rotation through the participating Department facilities so as to provide such residents with training in the diagnosis and treatment of mental illness.
 
 &emsp;(2) An arrangement with an accredited graduate program of psychology under which students receive education and training in clinical, counseling, or professional psychology through regular rotation through the participating Department facilities so as to provide such students with training in the diagnosis and treatment of mental illness.
 

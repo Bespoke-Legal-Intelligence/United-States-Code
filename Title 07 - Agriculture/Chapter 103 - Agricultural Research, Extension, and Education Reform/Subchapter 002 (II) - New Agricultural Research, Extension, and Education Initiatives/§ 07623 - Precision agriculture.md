@@ -88,7 +88,7 @@ In this section:
 
 #### (c) Purposes of projects
 
-A research, education, or information dissemination project supported by a grant under this section shall address 1 or more of the following purposes:
+A research, education, or information dissemination project supported by a grant under thissection shall address 1 or more of the following purposes:
 
 &emsp;(1) The study and promotion of components of precision agriculture technologies using a systems research approach designed to increase long-term site-specific and whole-farm production efficiencies, productivity, and profitability.
 
@@ -158,7 +158,7 @@ A grant made under this section may not be used for the planning, repair, rehabi
 
 #### (2) Availability of funds
 
-&emsp;Funds made available under paragraph (1) shall be available for obligation for a 2-year period beginning on October 1 of the fiscal year for which the funds are made available.
+&emsp;Funds made available under paragraph (1) shall be available for obligation for a 2-yearperiod beginning on October 1 of the fiscal year for which the funds are made available.
 
 (Pub. L. 105–185, title IV, §403, June 23, 1998, 112 Stat. 567; Pub. L. 107–171, title VII, §§7129, 7207(a), May 13, 2002, 116 Stat. 435, 440.)
 

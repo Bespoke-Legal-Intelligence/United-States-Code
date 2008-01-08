@@ -26,7 +26,7 @@ The maximum fee schedule is derived from section 48c(1) of the present act \[sec
 
 It should be noted that the bases on which the maximum fee is computed includes moneys turned over to secured creditors, to cover the situation where the trustee liquidates property subject to a lien and distributes the proceeds. It does not cover cases in which the trustee simply turns over the property to the secured creditor, nor where the trustee abandons the property and the secured creditor is permitted to foreclose. The provision is also subject to the rights of the secured creditor generally under proposed section 506, especially 506(c). The $150 discretionary fee provision of current law is retained.
 
-Subsection (b) of this section entitles an operating trustee to a reasonable fee, without any limitation based on the maximum provided for a liquidating trustee as in current law, Bankruptcy Act §48c(2) \[section 76(c)(2) of former title 11\].
+Subsection (b) of this section entitles an operating trustee to a reasonable fee, without any limitationbased on the maximum provided for a liquidating trustee as in current law, Bankruptcy Act §48c(2) \[section 76(c)(2) of former title 11\].
 
 Subsection (c) \[enacted as (b)\] permits a maximum fee of five percent on all payments to creditors under a chapter 13 plan to the trustee appointed in the case.
 

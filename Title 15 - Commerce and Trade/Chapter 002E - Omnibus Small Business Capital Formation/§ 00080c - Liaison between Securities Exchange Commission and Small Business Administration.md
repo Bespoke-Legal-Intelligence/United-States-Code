@@ -12,7 +12,7 @@ The Commission shall make the results of such studies available to the Small Bus
 
 #### Effective Date
 
-Section 507 of title V of Pub. L. 96–477 provided that: “Except as otherwise specified, the amendments made by this title \[enacting this chapter and amending section 77s of this title\] shall become effective January 1 of the year following the date of enactment of this Act \[Oct. 21, 1980\].”
+Section 507 of title V of Pub. L. 96–477 provided that: “Except as otherwise specified, the amendments madeby this title \[enacting this chapter and amending section 77s of this title\] shall become effective January 1 of the year following the date of enactment of this Act \[Oct. 21, 1980\].”
 
 #### Short Title
 

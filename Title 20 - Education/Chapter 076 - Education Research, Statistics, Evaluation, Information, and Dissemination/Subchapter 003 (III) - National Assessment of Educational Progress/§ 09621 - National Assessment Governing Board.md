@@ -82,7 +82,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (2) Additional nominations
 
-&emsp;The Secretary may request that each organization described in paragraph (1)(A) submit additional nominations if the Secretary determines that none of the individuals nominated by such organization have appropriate knowledge or expertise.
+&emsp;The Secretary may request that each organization described in paragraph (1)(A) submitadditional nominations if the Secretary determines that none of the individuals nominated by such organization have appropriate knowledge or expertise.
 
 #### (e) Duties
 
@@ -164,7 +164,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect 
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(2)(B), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(2)(B),are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -225,6 +225,10 @@ Subsec. (h). Pub. L. 107–279, §401(c)(2), substituted “Assessment Board” 
 2000—Subsec. (c)(1). Pub. L. 106–554, §1(a)(1) \[title III, §307(1)\], substituted “4 years” for “3 years”.
 
 Subsec. (c)(4). Pub. L. 106–554, §1(a)(1) \[title III, §307(2)\], added par. (4).
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2002 Amendment
 

@@ -102,6 +102,10 @@ Not later than 90 days after April 4, 1996, the Secretary shall issue regulation
 
 (Pub. L. 99–198, title XII, §1243, as added Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008; amended Pub. L. 107–171, title II, §§2003, 2006(d), May 13, 2002, 116 Stat. 233, 237.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (f)(4)(A), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+
 #### Prior Provisions
 
 A prior section 3843, Pub. L. 99–198, title XII, §1243, Dec. 23, 1985, 99 Stat. 1515; Pub. L. 101–624, title XIV, §1442, Nov. 28, 1990, 104 Stat. 3602, which related to administration of this chapter, was omitted in the general amendment of this subchapter by Pub. L. 104–127.

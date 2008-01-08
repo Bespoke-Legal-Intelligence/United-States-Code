@@ -56,6 +56,28 @@ Pub. L. 109–162, title VIII, §827, Jan. 5, 2006, 119 Stat. 3066, provided tha
 
 #### Improved Security for Drivers’ Licenses and Personal Identification Cards
 
+Pub. L. 110–177, title V, §508, Jan. 7, 2008, 121 Stat. 2543, provided that:
+
+“(a)
+
+Minimum Document Requirements.—
+
+&emsp;“(1)
+
+Minimum requirements.—For purposes of section 202(b)(6) of the REAL ID Act of 2005 \[div. B of Pub. L. 109–13\] (49 U.S.C. 30301 note), a State may, in the case of an individual described in subparagraph (A) or (B) of paragraph (2), include in a driver's license or other identification card issued to that individual by the State, the address specified in that subparagraph in lieu of the individual's address of principle residence.
+
+&emsp;“(2)
+
+Individuals and information.—The individuals and addresses referred to in paragraph (1) are the following:
+
+&emsp;&emsp;“(A) In the case of a Justice of the United States, the address of the United States Supreme Court.
+
+&emsp;&emsp;“(B) In the case of a judge of a Federal court, the address of the courthouse.
+
+“(b)
+
+Verification of Information.—For purposes of section 202(c)(1)(D) of the REAL ID Act of 2005 (49 U.S.C. 30301 note), in the case of an individual described in subparagraph (A) or (B) of subsection (a)(2), a State need only require documentation of the address appearing on the individual's driver's license or other identification card issued by that State to the individual.”
+
 Pub. L. 109–13, div. B, title II, May 11, 2005, 119 Stat. 311, provided that:
 
 #### “SEC. 201. DEFINITIONS.
@@ -264,7 +286,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 “(a)
 
-Participation of Secretary of Transportation and States.—All authority to issue regulations, set standards, and issue grants under this title shall be carried out by the Secretary, in consultation with the Secretary of Transportation and the States.
+Participation of Secretary of Transportation and States.—All authority to issue regulations, setstandards, and issue grants under this title shall be carried out by the Secretary, in consultation with the Secretary of Transportation and the States.
 
 “(b)
 
@@ -278,7 +300,7 @@ Extensions of Deadlines.—The Secretary may grant to a State an extension of ti
 
 “Nothing in this title shall be construed to affect the authorities or responsibilities of the Secretary of Transportation or the States under chapter 303 of title 49, United States Code.”
 
-Pub. L. 108–458, title VII, §7212, Dec. 17, 2004, 118 Stat. 3827, which prohibited acceptance by a Federal agency, for any official purpose, of a driver's license or personal identification card issued by a State more than 2 years after the promulgation of minimum standards unless the driver's license or personal identification card conformed to such minimum standards, and directed theSecretary of Transportation, in consultation with the Secretary of Homeland Security, to establish such standards not later than 18 months after Dec. 17, 2004, was repealed by Pub. L. 109–13, div. B, title II, §206, May 11, 2005, 119 Stat. 316.
+Pub. L. 108–458, title VII, §7212, Dec. 17, 2004, 118 Stat. 3827, which prohibited acceptance by a Federal agency, for any official purpose, of a driver's license or personal identification card issued by a State more than 2 years after the promulgation of minimum standards unless the driver's license or personal identification card conformed to such minimum standards, and directed the Secretary of Transportation, in consultation with the Secretary of Homeland Security, to establish such standards not later than 18 months after Dec. 17, 2004, was repealed by Pub. L. 109–13, div. B, title II, §206, May 11, 2005, 119 Stat. 316.
 
 #### Evaluation and Assessment of Alternatives
 

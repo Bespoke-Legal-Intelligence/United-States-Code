@@ -74,7 +74,7 @@ Violent entry and disorderly conduct.—An individual or group of individuals ma
 
 &emsp;&emsp;(C) with the intent to disrupt the orderly conduct of official business, enter or remain in a room in any of the Capitol Buildings set aside or designated for the use of either House of Congress or a Member, committee, officer, or employee of Congress or either House of Congress;
 
-&emsp;&emsp;(D) utter loud, threatening, or abusive language, or engage in disorderly or disruptive conduct, at any place in the Grounds or in any of the Capitol Buildings with the intent to impede, disrupt, or disturb the orderly conduct of a session of Congress or either House of Congress, or the orderly conduct in that building of a hearing before, or any deliberations of, a committee of Congress or either House of Congress;
+&emsp;&emsp;(D) utter loud, threatening, or abusive language, or engage in disorderly or disruptive conduct, at any place in the Grounds or in any of the Capitol Buildings with the intentto impede, disrupt, or disturb the orderly conduct of a session of Congress or either House of Congress, or the orderly conduct in that building of a hearing before, or any deliberations of, a committee of Congress or either House of Congress;
 
 &emsp;&emsp;(E) obstruct, or impede passage through or within, the Grounds or any of the Capitol Buildings;
 
@@ -102,7 +102,17 @@ Parades, Assemblages, and Display of Flags.—Except as provided in section 5106
 
 &emsp;(2) display in the Grounds a flag, banner, or device designed or adapted to bring into public notice a party, organization, or movement.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1176.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1176; Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(iii), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(b)(1)(C), Jan. 7, 2008, 121 Stat. 2552.)
+
+#### Amendment of Subsection (e)(2)(C)
+
+<i>Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(iii), (4), Dec. 26, 2007, 121 Stat. 2234, and Pub. L. 110–178, §4(b)(1)(C), (d), Jan. 7, 2008, 121 Stat. 2552, provided that, effective Oct. 1, 2009, subsection (e)(2) of this section is amended by striking subparagraph (C) and inserting the following:</i>
+
+&emsp;&emsp;<i>“(C) with the intent to disrupt the orderly conduct of official business, enter or remain in a room in any of the Capitol Buildings set aside or designated for the use of—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) either House of Congress or a Member, committee, officer, or employee of Congress, or either House of Congress; or</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) the Library of Congress;”.</i>
 
 Historical and Revision Notes
 
@@ -155,6 +165,14 @@ In subsection (e)(2)(A), the words “unless authorized to do so pursuant to rul
 #### References in Text
 
 The Act of July 8, 1932, referred to in subsec. (a)(2)(A), is act July 8, 1932, ch. 465, 47 Stat. 650, as amended, which is not classified to the Code.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. L. 110–178, set out as an Effective Date of Repeal note under section 167 of Title 2, The Congress.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–161 effective Oct. 1, 2009, see section 1004(d)(4) of title I of div. H of Pub. L. 110–161, set out as an Effective Date of Repeal note under section 167 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “921(a)(3)”.</i>
 

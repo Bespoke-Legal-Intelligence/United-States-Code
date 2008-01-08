@@ -26,7 +26,7 @@ If no existing default.—The Secretary is not required to make payment under th
 
 (c)
 
-Assumption of Rights and Obligations Before Demand.—An obligee or the obligee's agent may not demand payment under this section if the Secretary, before the demand and on terms that may be provided in the obligation or a related agreement, has assumed the obligor's rights and duties under the obligation and any related agreement and made any payment in default. However, the guarantee of the obligation remains in effect after the Secretary's assumption.
+Assumption of Rights and Obligations Before Demand.—An obligee or the obligee's agent may not demand payment under this section if the Secretary, before the demand and on terms that may be provided in the obligation ora related agreement, has assumed the obligor's rights and duties under the obligation and any related agreement and made any payment in default. However, the guarantee of the obligation remains in effect after the Secretary's assumption.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1617; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (F), Jan. 6, 2006, 119 Stat. 3555.)
 

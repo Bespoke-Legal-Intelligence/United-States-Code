@@ -18,7 +18,7 @@ There is hereby established a body corporate to be known as the Telecommunicatio
 
 #### (1) Composition of Board; Chairman
 
-&emsp;The Fund shall have a Board of Directors which shall consist of 7 persons appointed by the Chairman of the Commission. Four of suchdirectors shall be representative of the private sector and three of such directors shall be representative of the Commission, the Small Business Administration, and the Department of the Treasury, respectively. The Chairman of the Commission shall appoint one of the representatives of the private sector to serve as chairman of the Fund within 30 days after February 8, 1996, in order to facilitate rapid creation and implementation of the Fund. The directors shall include members with experience in a number of the following areas: finance, investment banking, government banking, communications law and administrative practice, and public policy.
+&emsp;The Fund shall have a Board of Directors which shall consist of 7 persons appointed by the Chairman of the Commission. Four of such directors shall be representative of the private sector and three of such directors shall be representative of the Commission, the Small Business Administration, and the Department of the Treasury, respectively. The Chairman of the Commission shall appoint one of the representatives of the private sector to serve as chairman of the Fund within 30 days after February 8, 1996, in order to facilitate rapid creation and implementation of the Fund. The directors shall include members with experience in a number of the following areas: finance, investment banking, government banking, communications law and administrative practice, and public policy.
 
 #### (2) Terms of appointed and elected members
 
@@ -102,7 +102,7 @@ The Fund shall have power—
 
 &emsp;(8) to appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them, and fix the penalty thereof; and
 
-&emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, to make loans andequity investment, and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
+&emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, to make loans and equity investment, and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
 
 #### (i) Accounting, auditing, and reporting
 
@@ -132,7 +132,7 @@ As used in this section:
 
 #### Amendments
 
-2004—Subsec. (f). Pub. L. 108–494 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Loans or other extensions of credit from the Fund shall be made available in accordance with the requirements of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and any other applicable law to an eligible small business on the basis of—
+2004—Subsec. (f). Pub. L. 108–494 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “Loans or other extensions of credit from the Fund shall be made available in accordance with the requirements of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and any other applicable law to an eligible small business on the basis of—
 
 &emsp;“(1) the analysis of the business plan of the eligible small business;
 

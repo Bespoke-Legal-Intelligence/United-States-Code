@@ -14,7 +14,7 @@ For purposes of this section:
 
 #### (b) Contracts on loan security properties
 
-Subject to subsection (c) of this section, the Secretary may enter into a contract related to real property for conservation, recreation, or wildlife purposes.
+Subject to subsection (c) of this section, the Secretary may enter into a contract related toreal property for conservation, recreation, or wildlife purposes.
 
 #### (c) Limitations
 
@@ -66,7 +66,7 @@ If the Secretary elects to use the authority provided by this section, the Secre
 
 The Secretary, and any person or governmental entity designated by the Secretary, may enforce a contract entered into by the Secretary under this section.
 
-(Pub. L. 87–128, title III, §349, as added Pub. L. 99–198, title XIII, §1318(a), Dec. 23, 1985, 99 Stat. 1530; amended Pub. L. 100–233, title VI, §612, Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–624, title XVIII, §1815, title XXIII, §2388(j), Nov. 28, 1990, 104 Stat.3825, 4053; Pub. L. 104–127, title VI, §642, Apr. 4, 1996, 110 Stat. 1102.)
+(Pub. L. 87–128, title III, §349, as added Pub. L. 99–198, title XIII, §1318(a), Dec. 23, 1985, 99 Stat. 1530; amended Pub. L. 100–233, title VI, §612, Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–624, title XVIII, §1815, title XXIII, §2388(j), Nov. 28, 1990, 104 Stat. 3825, 4053; Pub. L. 104–127, title VI, §642, Apr. 4, 1996, 110 Stat. 1102.)
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Subsec. (g). Pub. L. 104–127, §642(6), substituted “a contract entered into
 
 Subsec. (c). Pub. L. 101–624, §1815(1)(A)–(D), (F), (G), in introductory provision, struck out “such property” after “real property if”, and inserted “such property” after par. (1), (2), (3)(A)(i), (3)(B), and (4) designations.
 
-Subsec. (c)(3)(A)(ii). Pub. L. 101–624, §1815(1)(E), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the borrower of such loan is unable, as determined by the Secretary, to repay such loan in a timely manner; or”.
+Subsec. (c)(3)(A)(ii). Pub. L. 101–624, §1815(1)(E), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the borrower of such loan is unable, asdetermined by the Secretary, to repay such loan in a timely manner; or”.
 
 Subsec. (e). Pub. L. 101–624, §1815(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any such easement acquired by the Secretary shall be purchased from the borrower involved by canceling that part of the aggregate amount of such outstanding loans of the borrower held by the Secretary under laws administered by the Farmers Home Administration that bears the same ratio to the aggregate amount of the outstanding loans of such borrower held by the Secretary under all such laws as the number of acres of the real property of such borrower that are subject to such easement bears to the aggregate number of acres securing such loans. In no case shall the amount so cancelled exceed the value of the land on which the easement is acquired or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater.”
 

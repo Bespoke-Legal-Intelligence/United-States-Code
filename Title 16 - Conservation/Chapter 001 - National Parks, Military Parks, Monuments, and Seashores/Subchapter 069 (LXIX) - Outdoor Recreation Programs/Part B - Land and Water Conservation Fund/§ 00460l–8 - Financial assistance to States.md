@@ -8,7 +8,7 @@ The Secretary of the Interior (hereinafter referred to as the “Secretary”) i
 
 Sums appropriated and available for State purposes for each fiscal year shall be apportioned among the several States by the Secretary, whose determination shall be final, in accordance with the following formula:
 
-&emsp;(1) Forty per centum of the first $225,000,000; thirty per centum of the next $275,000,000; and twenty per centum of all additional appropriations shall be apportioned equally among the several States; and
+&emsp;(1) Forty per centum of the first $225,000,000; thirty per centum of the next $275,000,000; and twenty per centum of all additional appropriations shall be apportioned equally among the several States; and <sup>1</sup>
 
 &emsp;(2) At any time, the remaining appropriation shall be apportioned on the basis of need to individual States by the Secretary in such amounts as in his judgment will best accomplish the purposes of this part. The determination of need shall include among other things a consideration of the proportion which the population of each State bears to the total population of the United States and of the use of outdoor recreation resources of individual States by persons from outside the State as well as a consideration of the Federal resources and programs in the particular States.
 
@@ -16,7 +16,7 @@ Sums appropriated and available for State purposes for each fiscal year shall be
 
 &emsp;(4) The Secretary shall notify each State of its apportionments; and the amounts thereof shall be available thereafter for payment to such State for planning, acquisition, or development projects as hereafter prescribed. Any amount of any apportionment that has not been paid or obligated by the Secretary during the fiscal year in which such notification is given and for two fiscal years thereafter shall be reapportioned by the Secretary in accordance with paragraph (2) of this subsection, without regard to the 10 per centum limitation to an individual State specified in this subsection.
 
-&emsp;(5) For the purposes of paragraph (1) of this subsection, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands (when such islands achieve Commonwealth status) shall be treated collectively as one State, and shall receive shares of such apportionment in proportion to their populations. The above listed areas shall be treated as States for all other purposes of this title.
+&emsp;(5) For the purposes of paragraph (1) of this subsection, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands (when such islands achieve Commonwealth status) shall be treated collectively as one State, and shall receive shares of such apportionment in proportion to their populations. The above listed areas shall be treated as States for all other purposes of sections 460<i>l</i>–4 to 460<i>l</i>–6a and 460<i>l</i>–7 to 460<i>l</i>–10e of this title.
 
 #### (c) Matching requirements
 
@@ -38,7 +38,7 @@ A comprehensive statewide outdoor recreation plan shall be required prior to the
 
 The Secretary may provide financial assistance to any State for projects for the preparation of a comprehensive statewide outdoor recreation plan when such plan is not otherwise available or for the maintenance of such plan.
 
-For fiscal year 1988 and thereafter each comprehensive statewide outdoor recreation plan shall specifically address wetlands within that State as an important outdoor recreation resource as a prerequisite to approval, except that a revised comprehensive statewide outdoorrecreation plan shall not be required by the Secretary, if a State submits, and the Secretary, acting through the Director of the National Park Service, approves, as a part of and as an addendum to the existing comprehensive statewide outdoor recreation plan, a wetlands priority plan developed in consultation with the State agency with responsibility for fish and wildlife resources and consistent with the national wetlands priority conservation plan developed under section 3921 of this title or, if such national plan has not been completed, consistent with the provisions of that section <sup>1</sup>
+For fiscal year 1988 and thereafter each comprehensive statewide outdoor recreation plan shall specifically address wetlands within that State as an important outdoor recreation resource as a prerequisite to approval, except that a revised comprehensive statewide outdoor recreation plan shall not be required by the Secretary, if a State submits, and the Secretary, acting through the Director of the National Park Service, approves, as a part of and as an addendum to the existing comprehensive statewide outdoor recreation plan, a wetlands priority plan developed in consultation with the State agency with responsibility for fish and wildlife resources and consistent with the national wetlands priority conservation plan developed under section 3921 of this title or, if such national plan has not been completed, consistent with the provisions of that section <sup>2</sup>
 
 #### (e) Projects for land and water acquisition; development
 
@@ -48,7 +48,7 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 &emsp;Whenever a State provides that the owner of a single-family residence may, at his option, elect to retain a right of use and occupancy for not less than six months from the date of acquisition of such residence and such owner elects to retain such a right, such owner shall be deemed to have waived any benefits under sections 4623, 4624, 4625, and 4626 of title 42 and for the purposes of those sections such owner shall not be considered a displaced person as defined in section 4601(6) of title 42.
 
-&emsp;(2) For development of basic outdoor recreation facilities to serve the general public, including the development of Federal lands under lease to States for terms of twenty-five years or more: <i>Provided</i>, That no assistance shall be available under this part to enclose or shelter facilities normally used for outdoor recreation activities, but the Secretary may permit local funding, and after September 28, 1976, not to exceed 10 per centum of the total amount allocated to a State in any one year to be used for sheltered facilities for swimming pools and ice skating rinks in areas where the Secretary determines that the severity of climatic conditions and the increased public use thereby made possible justifies the construction of such facilities.
+&emsp;(2) For development of basic outdoor recreation facilities to serve the general public, including the development of Federal lands under lease to States for terms of twenty-fiveyears or more: <i>Provided</i>, That no assistance shall be available under this part to enclose or shelter facilities normally used for outdoor recreation activities, but the Secretary may permit local funding, and after September 28, 1976, not to exceed 10 per centum of the total amount allocated to a State in any one year to be used for sheltered facilities for swimming pools and ice skating rinks in areas where the Secretary determines that the severity of climatic conditions and the increased public use thereby made possible justifies the construction of such facilities.
 
 #### (f) Requirements for project approval; conditions; progress payments; payments to Governors or State officials or agencies; State transfer of funds to public agencies; conversion of property to other uses; reports to Secretary; accounting; records; audit; discrimination prohibited
 
@@ -56,11 +56,11 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 (2) Payments for all projects shall be made by the Secretary to the Governor of the State or to a State official or agency designated by the Governor or by State law having authority and responsibility to accept and to administer funds paid hereunder for approved projects. If consistent with an approved project, funds may be transferred by the State to a political subdivision or other appropriate public agency.
 
-(3) No property acquired or developed with assistance under this section shall, without the approval of the Secretary, be converted to other than public outdoor recreation uses. The Secretary shall approve such conversion only if he finds it to be in accord with the then existing comprehensive statewide outdoor recreation plan and only upon such conditions as he deems necessary to assure the substitution of other recreation properties of at least equal fair market value and of reasonably equivalent usefulness and location.: <sup>2</sup> <i>Provided</i>, That wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan and proposed to be acquired as suitable replacement property within that same State that is otherwise acceptable to the Secretary, acting through the Director of the National Park Service, shall be considered to be of reasonably equivalent usefulness with the property proposed for conversion.
+(3) No property acquired or developed with assistance under this section shall, without the approval of the Secretary, be converted to other than public outdoor recreation uses. The Secretary shall approve such conversion only if he finds it to be in accord with the then existing comprehensive statewide outdoor recreation plan and only upon such conditions as he deems necessary to assure the substitution of other recreation properties of at least equal fair market value and of reasonably equivalent usefulness and location.: <sup>3</sup> <i>Provided</i>, That wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan and proposed to be acquired as suitable replacement property within that same State that is otherwise acceptable to the Secretary, acting through the Director of the National Park Service, shall be considered to be of reasonably equivalent usefulness with the property proposed for conversion.
 
 (4) No payment shall be made to any State until the State has agreed to (1) provide such reports to the Secretary, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his duties under this part, and (2) provide such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting for Federal funds paid to the State under this part.
 
-(5) Each recipient of assistance under this part shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied byother sources, and such other records as will facilitate an effective audit.
+(5) Each recipient of assistance under this part shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and the disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (6) The Secretary, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
 
@@ -70,13 +70,13 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 #### (g) Coordination with Federal agencies
 
-In order to assure consistency in policies and actions under this part with other related Federal programs and activities (including those conducted pursuant to title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\] and section 701 <sup>3</sup> of the Housing Act of 1954) and to assure coordination of the planning, acquisition, and development assistance to States under this section with other related Federal programs and activities, the President may issue such regulations with respect thereto as he deems desirable and such assistance may be provided only in accordance with such regulations.
+In order to assure consistency in policies and actions under this part with other related Federal programs and activities (including those conducted pursuant to title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\] and section 701 <sup>4</sup> of the Housing Act of 1954) and to assure coordination of the planning, acquisition, and development assistance to States under this section with other related Federal programs and activities, the President may issue such regulations with respect thereto as he deems desirable and such assistance may be provided only in accordance with such regulations.
 
 #### (h) Capital improvement and other projects to reduce crime
 
 #### (1) Availability of funds
 
-&emsp;In addition to assistance for planning projects, and in addition to the projects identified in subsection (e) of this section, and from amounts appropriated out of the Violent Crime Reduction Trust Fund, the Secretary may provide financial assistance to the States, not to exceed $15,000,000, for projects or combinations thereof for the purpose of making capital improvements and other measures to increase safety in urban parks and recreation areas, including funds to—
+&emsp;In addition to assistance for planning projects, and in addition to the projects identified in subsection (e) of this section, and from amounts appropriated out of the Violent Crime Reduction Trust Fund, the Secretary may provide financial assistance to theStates, not to exceed $15,000,000, for projects or combinations thereof for the purpose of making capital improvements and other measures to increase safety in urban parks and recreation areas, including funds to—
 
 &emsp;&emsp;(A) increase lighting within or adjacent to public parks and recreation areas;
 
@@ -97,6 +97,8 @@ In order to assure consistency in policies and actions under this part with othe
 (Pub. L. 88–578, title I, §6, formerly §5, Sept. 3, 1964, 78 Stat. 900; renumbered §6, Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459; amended Pub. L. 93–303, §2, June 7, 1974, 88 Stat. 194; Pub. L. 94–422, title I, §101(3), Sept. 28, 1976, 90 Stat. 1314; Pub. L. 95–625, title VI, §606, Nov. 10, 1978, 92 Stat. 3519; Pub. L. 99–645, title III, §303, Nov. 10, 1986, 100 Stat. 3587; Pub. L. 103–322, title IV, §40133, Sept. 13, 1994, 108 Stat. 1918; Pub. L. 103–437, §6(p)(2), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(H), Nov. 12, 1996, 110 Stat. 4196.)
 
 #### References in Text
+
+This part, referred to in text, was in the original “this Act”, meaning Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which is classified principally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
 The Housing Act of 1961, referred to in subsec. (g), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 5316 of Title 42 which terminated authority to make grants or loans under title VII of that Act after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title of 1961 Amendment note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
@@ -154,9 +156,11 @@ All functions of the Housing and Home Finance Agency and the Administrator there
 
 Ex. Ord. No. 11237, July 27, 1965, 30 F.R. 9433, which related to coordinating planning and acquisition of land under outdoor recreation and open space programs, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>1</sup></i><i> So in original. Probably should end with period instead of “; and”.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. The period probably should not appear.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

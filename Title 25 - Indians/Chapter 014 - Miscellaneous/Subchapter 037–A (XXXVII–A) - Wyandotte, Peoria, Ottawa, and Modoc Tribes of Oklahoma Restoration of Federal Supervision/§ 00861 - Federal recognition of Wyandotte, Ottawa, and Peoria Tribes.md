@@ -20,7 +20,7 @@ There are hereby reinstated all rights and privileges of each of the tribes desc
 
 #### (d) Continuation of property or contractual rights or obligations and tax obligations
 
-Except as specifically provided in this subchapter, nothing contained in this subchapter shall alter any property rights or obligations, any contractual rights or obligations, including existing fishing rights, or any obligation for taxes already levied.
+Except as specifically provided in this subchapter, nothing contained in this subchaptershall alter any property rights or obligations, any contractual rights or obligations, including existing fishing rights, or any obligation for taxes already levied.
 
 (Pub. L. 95–281, §1, May 15, 1978, 92 Stat. 246.)
 

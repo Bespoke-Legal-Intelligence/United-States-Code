@@ -14,7 +14,7 @@ It is hereby declared to be the policy of this chapter also to secure, and the p
 
 1972—Subsec. (a)(6). Pub. L. 92–419 added cl. (6).
 
-1962—Subsecs. (b) to (g). Pub. L. 87–703 repealed subsecs. (b) to (g) which provided for State plans as follows: subsec. (b), cooperation with States by makinggrants; subsec. (c), State plans; subsec. (d), conditions of plans; subsec. (e), approval of plans; subsec. (f), allocation of funds; and subsec. (g), apportionment of funds.
+1962—Subsecs. (b) to (g). Pub. L. 87–703 repealed subsecs. (b) to (g) which provided for State plans as follows: subsec. (b), cooperation with States by making grants; subsec. (c), State plans; subsec. (d), conditions of plans; subsec. (e), approval of plans; subsec. (f), allocation of funds; and subsec. (g), apportionment of funds.
 
 1937—Subsec. (g). Act June 28, 1937, substituted “any such apportionment of funds available for carrying out State plans during any year prior to 1942 may be made at any time prior to or during the year to which such plans relate” for “apportionments of funds available for carrying out the purposes specified in this section for the year 1936 may be made at any time during 1936, and apportionments for 1937 may be made at any time during 1937”.
 

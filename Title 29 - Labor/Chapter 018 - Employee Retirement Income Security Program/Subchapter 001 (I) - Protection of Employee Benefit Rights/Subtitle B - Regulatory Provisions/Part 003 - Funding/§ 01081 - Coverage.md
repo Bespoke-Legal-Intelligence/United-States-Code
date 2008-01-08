@@ -48,15 +48,7 @@ For the purposes of paragraph (2) of subsection (a) of this section a plan is an
 
 This part applies, with respect to a terminated multiemployer plan to which section 1321 of this title applies, until the last day of the plan year in which the plan terminates, within the meaning of section 1341a(a)(2) of this title.
 
-#### (d) Financial assistance from Pension Benefit Guaranty Corporation
-
-Any amount of any financial assistance from the Pension Benefit Guaranty Corporation to any plan, and any repayment of such amount, shall be taken into account under this section in such manner as determined by the Secretary of the Treasury.
-
-(Pub. L. 93–406, title I, §301, Sept. 2, 1974, 88 Stat. 868; Pub. L. 96–364, title III, §304(a), title IV, §411(b), Sept. 26, 1980, 94 Stat. 1293, 1308; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(d)(1)(A), (4)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title II, §201(c)(1), Aug. 17, 2006, 120 Stat. 868.)
-
-#### Repeal of Subsection (d)
-
-<i>Pub. L. 109–280, title II, §201(c)(1), (d), Aug. 17, 2006, 120 Stat. 868, provided that, applicable to plan years beginning after 2007, with special</i><i>rule for certain amortization extensions, subsection (d) of this section is repealed.</i>
+(Pub. L. 93–406, title I, §301, Sept. 2, 1974, 88 Stat. 868; Pub. L. 96–364, title III, §304(a), title IV, §411(b), Sept. 26, 1980, 94 Stat. 1293, 1308; Pub. L.101–239, title VII, §§7891(a)(1), 7894(d)(1)(A), (4)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title II, §201(c)(1), Aug. 17, 2006, 120 Stat. 868.)
 
 #### References in Text
 
@@ -65,6 +57,8 @@ Section 409 of title 26, referred to in subsec. (a)(7), means section 409 of Tit
 This chapter, referred to in subsec. (a)(10), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–280 struck out heading and text of subsec. (d). Text read as follows: “Any amount of any financial assistance from the Pension Benefit Guaranty Corporation to any plan, and any repayment of such amount, shall be taken into account under this section in such manner as determined by the Secretary of the Treasury.”
 
 1989—Subsec. (a)(4)(A), (6). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -90,7 +84,7 @@ In general.—The amendments made by this section \[enacting section 1084 of thi
 
 “(2)
 
-Special rule for certain amortization extensions.—If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084\] and section 412(e) of the Internal Revenue Code of 1986 \[26 U.S.C. 412(e)\] with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shall be applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code \[26 U.S.C. 6621(b)\].”
+Special rule for certain amortization extensions.—If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084\] and section 412(e) of the Internal Revenue Code of 1986 \[former 26 U.S.C. 412(e)\] with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shall be applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code \[26 U.S.C. 6621(b)\].”
 
 #### Effective Date of 1989 Amendment
 

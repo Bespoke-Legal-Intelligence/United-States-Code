@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration and statement of findings
 
-The Congress declares that the achievement of a just and lasting Cyprus settlement is and will remain a central objective of United States foreign policy. The Congress further declares that any action of the United States with respect to section 2370(x) <sup>1</sup> of this title shall not signify a lessening of the United States commitment to a just solution to the conflict on Cyprus but is authorized in the expectation that this action will be conducive to achievement of a Cyprus solution and a general improvement in relations among Greece, Turkey, and Cyprus and between those countries and the United States. The Congress finds that—
+The Congress declares that the achievement of a just and lasting Cyprus settlement is and willremain a central objective of United States foreign policy. The Congress further declares that any action of the United States with respect to section 2370(x) <sup>1</sup> of this title shall not signify a lessening of the United States commitment to a just solution to the conflict on Cyprus but is authorized in the expectation that this action will be conducive to achievement of a Cyprus solution and a general improvement in relations among Greece, Turkey, and Cyprus and between those countries and the United States. The Congress finds that—
 
 &emsp;(1) a just settlement on Cyprus must involve the establishment of a free and independent government on Cyprus and must guarantee that the human rights of all of the people of Cyprus are fully protected;
 
@@ -16,7 +16,7 @@ The Congress declares that the achievement of a just and lasting Cyprus settleme
 
 #### (b) Governing principles
 
-United States policy regarding Cyprus, Greece, and Turkey shall be directed toward therestoration of a stable and peaceful atmosphere in the Eastern Mediterranean region and shall therefore be governed by the following principles:
+United States policy regarding Cyprus, Greece, and Turkey shall be directed toward the restoration of a stable and peaceful atmosphere in the Eastern Mediterranean region and shall therefore be governed by the following principles:
 
 &emsp;(1) The United States shall actively support the resolution of differences through negotiations and internationally established peaceful procedures, shall encourage all parties to avoid provocative actions, and shall strongly oppose any attempt to resolve disputes through force or threat of force.
 
@@ -42,7 +42,7 @@ In order to ensure that United States assistance is furnished consistent with th
 
 (1) Any agreement for the sale or provision of any article on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act \[22 U.S.C. 2778\]) entered into by the United States after December 22, 1987, shall expressly state that the article is being provided by the United States only with the understanding that it will not be transferred to Cyprus or otherwise used to further the severance or division of Cyprus.
 
-(2) The President shall report to Congress any substantial evidence that equipment provided under any such agreement has been used in a manner inconsistent with the purposes of this subsection.
+(2) The President shall report to Congress any substantial evidence that equipment providedunder any such agreement has been used in a manner inconsistent with the purposes of this subsection.
 
 (Pub. L. 87–195, pt. III, §620C, as added Pub. L. 95–384, §13(b), Sept. 26, 1978, 92 Stat. 737; amended Pub. L. 100–202, §101(e) \[title V, §562\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–171.)
 
@@ -72,7 +72,7 @@ Pub. L. 100–461, title V, §579, Oct. 1, 1988, 102 Stat. 2268–48.
 
 #### Delegation of Functions
 
-For delegation of congressional reporting functions of President under subsec. (c) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073,set out as a note under section 301 of Title 3, The President.
+For delegation of congressional reporting functions of President under subsec. (c) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 
 #### Special Ambassadorial Commission for Cyprus and the Aegean
 

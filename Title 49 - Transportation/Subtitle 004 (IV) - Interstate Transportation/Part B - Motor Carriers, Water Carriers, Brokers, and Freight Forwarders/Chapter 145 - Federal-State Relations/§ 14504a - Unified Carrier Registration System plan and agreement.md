@@ -46,7 +46,7 @@ Leasing company.—The term “leasing company” means a lessor that is engaged
 
 &emsp;(5)
 
-Motor carrier.—The term “motor carrier” includes all carriers that are otherwise exempt from this part under subchapter I ofchapter 135 or exemption actions by the former Interstate Commerce Commission under this title.
+Motor carrier.—The term “motor carrier” includes all carriers that are otherwise exempt from this part under subchapter I of chapter 135 or exemption actions by the former Interstate Commerce Commission under this title.
 
 &emsp;(6)
 
@@ -114,7 +114,7 @@ Composition.—The board shall consist of 15 directors appointed by the Secretar
 
 &emsp;&emsp;&emsp;(i)
 
-Federal motor carrier safety administration.—One director from each of the Federal Motor Carrier Safety Administration's 4 service areas (as those areas were defined by the Federal Motor Carrier Safety Administration on January 1, 2005) from among the chief administrative officers of the State agencies responsible for overseeing the administration of the UCR agreement.
+Federal motor carrier safety administration.—One director from each of the Federal Motor Carrier Safety Administration's 4 service areas (as those areas were defined by the Federal Motor Carrier Safety Administration on January 1, 2005)from among the chief administrative officers of the State agencies responsible for overseeing the administration of the UCR agreement.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -320,7 +320,7 @@ Fees.—(A) Fees charged—
 
 &emsp;(2)
 
-Determination of ownership or operation.—For purposes of this subsection, a commercial motor vehicle is owned or operated by a motor carrier, motor private carrier, or freight forwarder if the vehicle is registered under Federal law or State law, or both, in the name of the motor carrier, motor private carrier, or freight forwarder or is controlled by the motor carrier, motor private carrier, orfreight forwarder under a long term lease during a vehicle registration year.
+Determination of ownership or operation.—For purposes of this subsection, a commercial motor vehicle is owned or operated by a motor carrier, motor private carrier, or freight forwarder if the vehicle is registered under Federal law or State law, or both, in the name of the motor carrier, motor private carrier, or freight forwarder or is controlled by the motor carrier, motor private carrier, or freight forwarder under a long term lease during a vehicle registration year.
 
 &emsp;(3)
 
@@ -372,7 +372,7 @@ Enforcement.—
 
 &emsp;(1)
 
-Civil actions.—Upon request by the Secretary, the Attorney General may bring a civil action in the United States district court described in paragraph (2) to enforce an order issued to require compliance with this section and with the terms of the UCR agreement.
+Civil actions.—Upon request by the Secretary, the Attorney General may bring a civilaction in the United States district court described in paragraph (2) to enforce an order issued to require compliance with this section and with the terms of the UCR agreement.
 
 &emsp;(2)
 

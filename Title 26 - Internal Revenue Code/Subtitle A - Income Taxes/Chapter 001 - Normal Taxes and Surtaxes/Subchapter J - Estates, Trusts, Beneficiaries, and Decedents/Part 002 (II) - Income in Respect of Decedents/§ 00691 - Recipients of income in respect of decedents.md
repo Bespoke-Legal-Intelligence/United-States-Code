@@ -18,7 +18,7 @@
 
 #### (3) Character of income determined by reference to decedent
 
-&emsp;The right, described in paragraph (1), to receive an amount shall be treated, in the hands of the estate of the decedent or any person who acquired such right by reason of the death of the decedent, or by bequest, devise, or inheritance from the decedent, as if it had been acquired by the estate or such person in the transaction in which the right to receive the income was originally derived and the amount includible in gross income under paragraph (1) or (2) shall be considered in the hands of the estate or such person to have the characterwhich it would have had in the hands of the decedent if the decedent had lived and received such amount.
+&emsp;The right, described in paragraph (1), to receive an amount shall be treated, in the hands of the estate of the decedent or any person who acquired such right by reason of the death of the decedent, or by bequest, devise, or inheritance from the decedent, as if it had been acquired by the estate or such person in the transaction in which the right to receive the income was originally derived and the amount includible in gross income under paragraph (1) or (2) shall be considered in the hands of the estate or such person to have the character which it would have had in the hands of the decedent if the decedent had lived and received such amount.
 
 #### (4) Installment obligations acquired from decedent
 
@@ -50,7 +50,7 @@
 
 #### (b) Allowance of deductions and credit
 
-The amount of any deduction specified in section 162, 163, 164, 212, or 611 (relating to deductions for expenses, interest, taxes, and depletion) or credit specified in section 27 (relating to foreign tax credit), in respect of a decedent which is not properly allowable to the decedent in respect of the taxable period in which falls the date of his death, or a prior period, shall be allowed:
+The amount of any deduction specified in section 162, 163, 164, 212, or 611 (relating to deductions for expenses, interest, taxes, and depletion) or credit specified in section 27 (relating to foreign tax credit), in respect of a decedentwhich is not properly allowable to the decedent in respect of the taxable period in which falls the date of his death, or a prior period, shall be allowed:
 
 #### (1) Expenses, interest, and taxes
 
@@ -82,7 +82,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;(A) The term “estate tax” means the tax imposed on the estate of the decedent or any prior decedent under section 2001 or 2101, reduced by the credits against such tax.
 
-&emsp;&emsp;(B) The net value for estate tax purposes of all the items described in subsection (a)(1) shall be the excess of the value for estate tax purposes of all the items described in subsection (a)(1) over the deductions from the gross estate in respect of claims which represent the deductions and credit described in subsection (b). Such net value shall be determined with respect to the provisions of section 421(c)(2), relating to the deduction forestate tax with respect to stock options to which part II of subchapter D applies.
+&emsp;&emsp;(B) The net value for estate tax purposes of all the items described in subsection (a)(1) shall be the excess of the value for estate tax purposes of all the items described in subsection (a)(1) over the deductions from the gross estate in respect of claims which represent the deductions and credit described in subsection (b). Such net value shall be determined with respect to the provisions of section 421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies.
 
 &emsp;&emsp;(C) The estate tax attributable to such net value shall be an amount equal to the excess of the estate tax over the estate tax computed without including in the gross estate such net value.
 
@@ -116,7 +116,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) The term “life expectancy period” means the period beginning with the first day of the first period for which an amount is received by the surviving annuitant under the contract and ending with the close of the taxable year with or in which falls the termination of the life expectancy of the surviving annuitant. For purposes of this subparagraph, the life expectancy of the surviving annuitant shall be determined, as of the date of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
+&emsp;&emsp;(A) The term “life expectancy period” means the period beginning with the first day of the first period for which an amountis received by the surviving annuitant under the contract and ending with the close of the taxable year with or in which falls the termination of the life expectancy of the surviving annuitant. For purposes of this subparagraph, the life expectancy of the surviving annuitant shall be determined, as of the date of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
 
 &emsp;&emsp;(B) The surviving annuitant's expected return under the contract shall be computed, as of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
 
@@ -236,7 +236,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, but inapplicableunder certain conditions under will executed before date which is 30 days after Aug. 13, 1981, or under trust created by such date, see section 403(e) of Pub. L. 97–34, set out as a note under section 2056 of this title.
+Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, but inapplicable under certain conditions under will executed before date which is 30 days after Aug. 13, 1981, or under trust created by such date, see section 403(e) of Pub. L. 97–34, set out as a note under section 2056 of this title.
 
 #### Effective Date of 1980 Amendments and Revival of Prior Law
 
@@ -272,7 +272,7 @@ Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amend
 
 #### Savings Provision
 
-Section 1951(b)(10)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], any election made under section 691(e) to have subsection (a)(4) of such section apply in the case of an installment obligation shall continue to be effective with respect to taxable years beginning after December 31, 1976. Section 691(c) shall not apply in respect of any amount included in gross income by reason of the preceding sentence. The liability under bond filed under section 44(d) of the Internal Revenue Code of 1939 (or corresponding provisions of prior law) in respect of which such an election applies is hereby released with respect to taxable years to which such election applies.”
+Section 1951(b)(10)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], any election made under section 691(e) to have subsection (a)(4) of such section apply in the case of an installment obligation shall continue to be effective with respect to taxable years beginning after December 31, 1976. Section 691(c) shall not apply in respect of any amount included in gross income by reason of the preceding sentence. The liability under bond filed undersection 44(d) of the Internal Revenue Code of 1939 (or corresponding provisions of prior law) in respect of which such an election applies is hereby released with respect to taxable years to which such election applies.”
 
 #### Plan Amendments Not Required Until January 1, 1998
 

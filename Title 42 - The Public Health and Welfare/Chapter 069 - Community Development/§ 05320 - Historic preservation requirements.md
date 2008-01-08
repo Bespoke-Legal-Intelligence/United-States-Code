@@ -18,7 +18,7 @@ In prescribing and implementing such regulations with respect to applications su
 
 #### (c) Regulations by Advisory Council on Historic Preservation providing for expeditious action
 
-The Advisory Council on Historic Preservation shall prescribe regulations providing for expeditious action by the Council in making its comments under section 106 of the Act \[16 U.S.C. 470f\] referred to in subsection (a)(1) in the case of properties which are included on, or eligible for inclusion on, the National Register of Historic Places and which are affected by a project for which an application is made under section 5318 of this title.
+The Advisory Council on Historic Preservation shall prescribe regulations providing for expeditious action by the Council in making its comments under section 106 of the Act \[16 U.S.C.470f\] referred to in subsection (a)(1) in the case of properties which are included on, or eligible for inclusion on, the National Register of Historic Places and which are affected by a project for which an application is made under section 5318 of this title.
 
 (Pub. L. 93–383, title I, §121, as added Pub. L. 96–399, title I, §110(c), Oct. 8, 1980, 94 Stat. 1620; amended Pub. L. 97–35, title III, §308(b), Aug. 13, 1981, 95 Stat. 396.)
 
@@ -26,7 +26,7 @@ The Advisory Council on Historic Preservation shall prescribe regulations provid
 
 “An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes”, approved October 14, 1966, as amended, referred to in subsec. (a)(1), probably means Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, known as the National Historic Preservation Act, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code see section 470(a) of Title 16 and Tables.
 
-“An Act to provide for the preservation of historical and archaeological data (including relics and specimens) which might otherwise be lost as a result of the construction of a dam”, approved June 27, 1960, asamended, referred to in subsec. (a)(2), is Pub. L. 86–523, June 27, 1960, 74 Stat. 220, as amended, which enacted sections 469 to 469c–1 of Title 16. For complete classification of this Act, see Tables.
+“An Act to provide for the preservation of historical and archaeological data (including relics and specimens) which might otherwise be lost as a result of the construction of a dam”, approved June 27, 1960, as amended, referred to in subsec. (a)(2), is Pub. L. 86–523, June 27, 1960, 74 Stat. 220, as amended, which enacted sections 469 to 469c–1 of Title 16. For complete classification of this Act, see Tables.
 
 #### Amendments
 

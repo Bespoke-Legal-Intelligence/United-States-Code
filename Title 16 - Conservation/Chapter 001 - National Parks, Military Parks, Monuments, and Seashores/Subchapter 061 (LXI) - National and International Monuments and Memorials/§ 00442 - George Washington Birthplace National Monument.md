@@ -22,9 +22,9 @@ Management of Easement.—The Secretary shall enter into a cooperative agreement
 
 “(c)
 
-Resource Study.—Not later than 18 months after the date on which funds are made available to carry out this section, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a resource study of the property described in subsection (a). The study shall—
+Resource Study.—Not later than 18 months after the date on which funds are made available to carry out this section, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a resource study of the property described in subsection (a). The study shall—
 
-&emsp;“(1) identify the full range of resources and historic themes associated with Ferry Farm, including thoseassociated with George Washington's tenure at the property and those associated with the Civil War period;
+&emsp;“(1) identify the full range of resources and historic themes associated with Ferry Farm, including those associated with George Washington's tenure at the property and those associated with the Civil War period;
 
 &emsp;“(2) identify alternatives for further National Park Service involvement at the property beyond those that may be provided for in the acquisition authorized under subsection (a); and
 
@@ -58,7 +58,7 @@ Pub. L. 103–25, May 3, 1993, 107 Stat. 68, provided that:
 
 #### “SEC. 2. ACQUISITION OF LANDS.
 
-“Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) is authorized to acquire lands, or interests therein, by donation, purchase with donated or appropriated funds, or exchange.
+“Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to asthe ‘Secretary’) is authorized to acquire lands, or interests therein, by donation, purchase with donated or appropriated funds, or exchange.
 
 #### “SEC. 3. ADMINISTRATION OF NATIONAL MONUMENT.
 

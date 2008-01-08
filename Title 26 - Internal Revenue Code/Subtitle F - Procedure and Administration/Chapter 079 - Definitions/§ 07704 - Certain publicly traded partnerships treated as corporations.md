@@ -24,7 +24,7 @@ For purposes of this section, the term “publicly traded partnership” means a
 
 #### (3) Exception not to apply to certain partnerships which could qualify as regulated investment companies
 
-&emsp;This subsection shall not apply to any partnership which would be described in section 851(a) if such partnership were a domestic corporation. To the extent provided in regulations, the preceding sentence shall not apply to any partnership a principal activity of which is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to commodities.
+&emsp;This subsection shall not apply to any partnership which would be described in section851(a) if such partnership were a domestic corporation. To the extent provided in regulations, the preceding sentence shall not apply to any partnership a principal activity of which is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to commodities.
 
 #### (d) Qualifying income
 

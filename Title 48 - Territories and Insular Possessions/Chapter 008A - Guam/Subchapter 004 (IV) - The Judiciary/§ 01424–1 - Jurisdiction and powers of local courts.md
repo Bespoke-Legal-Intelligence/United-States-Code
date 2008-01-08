@@ -48,7 +48,7 @@ The qualifications and duties of the justices and judges of the Supreme Court of
 
 #### Amendments
 
-2004—Pub. L. 108–378 amended section generally, substituting provisions relating to Supreme Court ofGuam and other courts for provisions consisting of subsecs. (a) to (c) relating to composition of local courts and establishment of appellate court, jurisdiction of courts, and practice and procedure in local courts and qualifications and duties of judges.
+2004—Pub. L. 108–378 amended section generally, substituting provisions relating to Supreme Court of Guam and other courts for provisions consisting of subsecs. (a) to (c) relating to composition of local courts and establishment of appellate court, jurisdiction of courts, and practice and procedure in local courts and qualifications and duties of judges.
 
 #### Effective Date
 

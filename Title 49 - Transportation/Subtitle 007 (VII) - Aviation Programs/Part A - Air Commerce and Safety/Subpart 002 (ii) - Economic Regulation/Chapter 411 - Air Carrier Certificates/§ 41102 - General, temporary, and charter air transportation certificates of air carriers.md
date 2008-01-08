@@ -18,7 +18,7 @@ Findings Required for Issuance.—(1) Before issuing a certificate under subsect
 
 (c)
 
-Temporary Certificates.—The Secretary may issue a certificate under subsection (a) of this section for interstate air transportation (except the transportation of passengers) or foreign air transportation for a temporary period of time (whether the application is for permanent or temporary authority) when the Secretary decides that a test period is desirable—
+Temporary Certificates.—The Secretary may issue a certificate under subsection (a) ofthis section for interstate air transportation (except the transportation of passengers) or foreign air transportation for a temporary period of time (whether the application is for permanent or temporary authority) when the Secretary decides that a test period is desirable—
 
 &emsp;(1) to decide if the projected services, efficiencies, methods, and prices and the projected results will materialize and remain for a sustained period of time; or
 

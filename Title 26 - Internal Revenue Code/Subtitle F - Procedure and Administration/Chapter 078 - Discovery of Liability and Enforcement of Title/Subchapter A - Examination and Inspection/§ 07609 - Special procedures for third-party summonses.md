@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) issued to determine whether or not records of the business transactions or affairs of an identified person have been made or kept;
 
-&emsp;&emsp;(C) issued solely to determine the identity of any person having a numbered account (orsimilar arrangement) with a bank or other institution described in section 7603(b)(2)(A);
+&emsp;&emsp;(C) issued solely to determine the identity of any person having a numbered account (or similar arrangement) with a bank or other institution described in section 7603(b)(2)(A);
 
 &emsp;&emsp;(D) issued in aid of the collection of—
 
@@ -80,7 +80,7 @@ No examination of any records required to be produced under a summons as to whic
 
 #### (1) Subsection (b) action
 
-&emsp;If any person takes any action as provided in subsection (b) and such person is the person with respect to whose liability the summons is issued (or is the agent, nominee, or other person acting under the direction or control of such person), then the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which a proceeding, and appeals therein, with respect to the enforcement of such summons is pending.
+&emsp;If any person takes any action as provided in subsection (b) and such person is the person with respect to whose liability the summons is issued (or is the agent, nominee, or other person acting under the direction or control of such person), then the running of any period oflimitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which a proceeding, and appeals therein, with respect to the enforcement of such summons is pending.
 
 #### (2) Suspension after 6 months of service of summons
 
@@ -122,7 +122,7 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 #### (2) Secretary may give summoned party certificate
 
-&emsp;The Secretary may issue a certificate to the summoned party that the period prescribed for beginning a proceeding to quash a summons has expired and that no such proceeding beganwithin such period, or that the taxpayer consents to the examination.
+&emsp;The Secretary may issue a certificate to the summoned party that the period prescribed for beginning a proceeding to quash a summons has expired and that no such proceeding began within such period, or that the taxpayer consents to the examination.
 
 #### (3) Protection for summoned party who discloses
 

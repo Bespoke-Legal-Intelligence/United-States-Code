@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—If an accident involves a substantial question about public safety in air transportation, the National Transportation Safety Board may establish a special board of inquiry composed of—
+Establishment.—If an accident involves a substantial question about public safety in air transportation, the National TransportationSafety Board may establish a special board of inquiry composed of—
 
 &emsp;(1) one member of the Board acting as chairman; and
 

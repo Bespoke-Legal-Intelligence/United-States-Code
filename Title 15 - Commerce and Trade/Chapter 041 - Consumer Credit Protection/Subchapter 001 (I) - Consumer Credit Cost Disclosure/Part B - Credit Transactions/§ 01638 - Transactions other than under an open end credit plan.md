@@ -34,7 +34,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(7) In a sale of property or services in which the seller is the creditor required to disclose pursuant to section 1631(b) of this title, the “total sale price”, using that term, which shall be the total of the cash price of the property or services, additional charges, and the finance charge.
 
-&emsp;(8) Descriptive explanations of the terms “amount financed”, “finance charge”, “annual percentage rate”, “total of payments”, and “total sale price” as specified by the Board. The descriptive explanation of “total sale price” shall include reference to the amount of the downpayment.
+&emsp;(8) Descriptive explanations of the terms “amount financed”, “finance charge”, “annual percentage rate”, “total of payments”,and “total sale price” as specified by the Board. The descriptive explanation of “total sale price” shall include reference to the amount of the downpayment.
 
 &emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 

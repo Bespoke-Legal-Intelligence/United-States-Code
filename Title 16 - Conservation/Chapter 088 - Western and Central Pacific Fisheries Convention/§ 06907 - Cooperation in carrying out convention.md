@@ -40,7 +40,7 @@ Except as provided in subsection (e) of this section, nothing in this chapter sh
 
 #### (3) Hearing
 
-&emsp;If a State requests a formal agency hearing, the Secretary shall not apply the regulations promulgated pursuant <sup>3</sup> section 6905(a) of this title within that State's boundaries unless the hearing record supports a determination under paragraph (1)(A) or (B).
+&emsp;If a State requests a formal agency hearing, the Secretary shall not apply the regulations promulgated pursuant <sup>3</sup> section 6905(a) of this title within that State's boundaries unless thehearing record supports a determination under paragraph (1)(A) or (B).
 
 #### (f) Review of State laws and regulations
 

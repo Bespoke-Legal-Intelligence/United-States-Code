@@ -8,15 +8,15 @@ In addition to the penalty imposed by section 7203 (relating to willful failure 
 
 &emsp;(2) files a return which fails to show the information required under section 6031,
 
-> such partnership shall be liable for a penalty determined under subsection (b) for each month (or fraction thereof) during which such failure continues (but not to exceed 5 months), unless it is shown that such failure is due to reasonable cause.
+> such partnership shall be liable for a penalty determined under subsection (b) for each month (or fraction thereof) during which such failure continues (but not to exceed 12 months), unless it is shown that such failure is due to reasonable cause.
 
 #### (b) Amount per month
 
 For purposes of subsection (a), the amount determined under this subsection for any month is the product of—
 
-&emsp;(1) $50, multiplied by
+&emsp;(1) $85, multiplied by
 
-&emsp;(2) the number of persons who were partners in the partnership during any part of the taxable year
+&emsp;(2) the number of persons who were partners in the partnership during any part of the taxable year <sup>1</sup>
 
 #### (c) Assessment of penalty
 
@@ -24,15 +24,31 @@ The penalty imposed by subsection (a) shall be assessed against the partnership.
 
 #### (d) Deficiency procedures not to apply
 
-Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by subsection (a).
+Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, andcertain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by subsection (a).
 
-(Added Pub. L. 95–600, title II, §211(a), Nov. 6, 1978, 92 Stat. 2817.)
+(Added Pub. L. 95–600, title II, §211(a), Nov. 6, 1978, 92 Stat. 2817; amended Pub. L. 110–142, §8(a), (b), Dec. 20, 2007, 121 Stat. 1806.)
 
 #### Codification
 
 Another section 6698, formerly section 6694, relating to failure to file information with respect to carryover basis property, which was added by Pub. L. 94–455, §2005(d)(2), was renumbered section 6698 by Pub. L. 95–600, renumbered section 6698A by Pub. L. 96–222, and repealed by Pub. L. 96–223.
 
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 110–142, §8(a), substituted “12 months” for “5 months” in concluding provisions.
+
+Subsec. (b)(1). Pub. L. 110–142, §8(b), substituted “$85” for “$50”.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–142, §8(d), Dec. 20, 2007, 121 Stat. 1807, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to returns required to be filed after the date of the enactment of this Act \[Dec. 20, 2007\].”
+
 #### Effective Date
 
 Section 211(c) of Pub. L. 95–600 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to returns for taxable years beginning after December 31, 1978.”
+
+#### Modification of Penalty for Failure To File Partnership Returns
+
+Pub. L. 110–141, §2, Dec. 19, 2007, 121 Stat. 1802, provided that: “For any return of a partnership required to be filed under section 6031 of the Internal Revenue Code of 1986 for a taxable year beginning in 2008, the dollar amount in effect under section 6698(b)(1) of such Code shall be increased by $1.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

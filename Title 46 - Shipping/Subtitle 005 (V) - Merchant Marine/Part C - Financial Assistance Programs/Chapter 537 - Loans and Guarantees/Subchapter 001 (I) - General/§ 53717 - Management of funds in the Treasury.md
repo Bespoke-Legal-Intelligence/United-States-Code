@@ -36,7 +36,7 @@ Direct Loans by Secretary of Commerce.—The Secretary of Commerce shall account
 
 #### Amendments Not Shown in Text
 
-<i>This section was derived from sections 1272, 1274(g), and 1280 of the former Appendix to this title, which were amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(B), (D), (c)(2), Jan. 6, 2006, 119 Stat. 3555, 3556. For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Sections 1272 and 1274(g) of the former Appendix to this title were amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”, and section 1280 of the former Appendix to this title was amended by inserting “or the Administrator of the Maritime Administration” after “Secretary”.</i>
+<i>This section was derived from sections 1272, 1274(g), and 1280 of the former Appendix to this title, which were amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(B), (D), (c)(2), Jan. 6, 2006, 119 Stat. 3555, 3556. For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Sections 1272 and 1274(g) of the former Appendix to this title were amended by striking “Secretary”</i><i>each place it appears and inserting “Secretary or Administrator”, and section 1280 of the former Appendix to this title was amended by inserting “or the Administrator of the Maritime Administration” after “Secretary”.</i>
 
 Historical and Revision Notes
 

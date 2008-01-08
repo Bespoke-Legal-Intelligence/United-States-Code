@@ -82,7 +82,7 @@ The purpose of this section is to authorize the President to establish a program
 
 &emsp;&emsp;(B) the hiring and training of local personnel, including physicians, nurses, other health care providers, counselors, social workers, outreach personnel, laboratory technicians, data managers, and administrative support personnel;
 
-&emsp;&emsp;(C) paying laboratory costs, including costs related to necessary equipment and diagnostic testing and monitoring (including rapid testing), complete blood counts, standard chemistries, and liver function testing for infants, children, and parents, and costs related to the purchase of necessary laboratory equipment;
+&emsp;&emsp;(C) paying laboratory costs, including costs related to necessary equipment and diagnostic testing and monitoring (including rapid testing), complete blood counts, standard chemistries, and liver function testing for infants, children, and parents, and costsrelated to the purchase of necessary laboratory equipment;
 
 &emsp;&emsp;(D) purchasing pharmaceuticals for HIV-related conditions, including antiretroviral therapies;
 

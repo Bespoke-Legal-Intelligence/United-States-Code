@@ -26,7 +26,7 @@ The Secretary of Agriculture shall charge a rental charge for all ski area permi
 
 #### (c) Payment
 
-The rental charge set forth in subsection (b) of this section shall be due on June 1 of each year and shall be paid or prepaid by the permittee on a monthly, quarterly, annual or other schedule as determined appropriate by the Secretary in consultation with the permittee. Unless mutually agreed otherwise by the Secretary and the permittee, the payment or prepayment schedule shall conform to the permittee's schedule in effect prior to November 12, 1996. To reduce costs to the permittee and the Forest Service, the Secretary shall each year provide the permittee with a standardized form and worksheets (including annual rental charge calculation brackets and rates) to be used for rental charge calculation and submitted with the rental charge payment. Information provided on such forms shall be compiled by the Secretary annually and kept in the Office of the Chief, United States Forest Service.
+The rental charge set forth in subsection (b) of this section shall be due on June 1 of each year and shall be paid or prepaid by the permittee on a monthly, quarterly, annual or other schedule as determined appropriate by the Secretary in consultation with the permittee. Unless mutually agreed otherwise by the Secretary and the permittee, the payment or prepayment schedule shall conform to the permittee's schedule in effect prior to November 12, 1996. To reduce costs to the permittee and the Forest Service, the Secretary shall each year provide the permitteewith a standardized form and worksheets (including annual rental charge calculation brackets and rates) to be used for rental charge calculation and submitted with the rental charge payment. Information provided on such forms shall be compiled by the Secretary annually and kept in the Office of the Chief, United States Forest Service.
 
 #### (d) Effective date
 
@@ -36,7 +36,7 @@ The ski area permit rental charge set forth in this section shall become effecti
 
 &emsp;(2) for the 1996–1997 permit year, either the rental charge paid for the 1994–1995 base year or the rental charge calculated pursuant to this section, whichever is higher; and
 
-&emsp;(3) for the 1997–1998 permit year, either the rental charge for the 1994–1995 base year or therental charge calculated pursuant to this section, whichever is higher.
+&emsp;(3) for the 1997–1998 permit year, either the rental charge for the 1994–1995 base year or the rental charge calculated pursuant to this section, whichever is higher.
 
 > If an individual permittee's adjusted gross revenue for the 1995–1996, 1996–1997, or 1997–1998 permit years falls more than 10 percent below the adjusted gross revenue for the 1994–1995 base year, the rental charge paid shall be the rental charge calculated pursuant to this section.
 
@@ -91,4 +91,8 @@ Subsec. (d). Pub. L. 106–176, §117(2), in introductory provisions, substitute
 Subsec. (f). Pub. L. 106–176, §117(3), inserted “offered for commercial or other promotional purposes” after “complimentary lift tickets”.
 
 Subsec. (i). Pub. L. 106–176, §117(4), substituted “this section” for “this Act”.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

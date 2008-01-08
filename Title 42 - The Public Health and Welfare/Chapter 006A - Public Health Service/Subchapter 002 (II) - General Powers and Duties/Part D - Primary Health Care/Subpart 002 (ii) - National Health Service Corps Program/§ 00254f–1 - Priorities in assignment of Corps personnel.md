@@ -66,7 +66,7 @@ In approving applications made under section 254f of this title for the assignme
 
 #### (4) Revisions
 
-&emsp;If the Secretary proposes to make a revision in the list under paragraph (2), and the revision would adversely alter the status of an entity with respect to the list, the Secretary shall notify the entity of the revision. Any entity adversely affected by such a revision shallbe notified in writing by the Secretary of the reasons for the revision and shall have 30 days from such notification to file a written appeal of the determination involved which shall be reasonably considered by the Secretary before the revision to the list becomes final. The revision to the list shall be effective with respect to assignment of Corps members beginning on the date that the revision becomes final.
+&emsp;If the Secretary proposes to make a revision in the list under paragraph (2), and the revision would adversely alter the status of an entity with respect to the list, the Secretary shall notify the entity of the revision. Any entity adversely affected by such a revision shall be notified in writing by the Secretary of the reasons for the revision and shall have 30 days from such notification to file a written appeal of the determination involved which shall be reasonably considered by the Secretary before the revision to the list becomes final. The revision to the list shall be effective with respect to assignment of Corps members beginning on the date that the revision becomes final.
 
 #### (d) Limitation on number of entities offered as assignment choices in Scholarship Program
 

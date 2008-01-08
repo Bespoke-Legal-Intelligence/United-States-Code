@@ -12,7 +12,7 @@
 
 #### (3) Initiation of discussions
 
-&emsp;Unless such a determination is made, the Secretary of the Treasury shall initiate discussions with such industrialized and developing countries as the Secretary may determine to be appropriate with the intent to negotiate the establishment of the International DebtManagement Authority, which would undertake to—
+&emsp;Unless such a determination is made, the Secretary of the Treasury shall initiate discussions with such industrialized and developing countries as the Secretary may determine to be appropriate with the intent to negotiate the establishment of the International Debt Management Authority, which would undertake to—
 
 &emsp;&emsp;(A) purchase sovereign debt of less developed countries from private creditors at an appropriate discount;
 

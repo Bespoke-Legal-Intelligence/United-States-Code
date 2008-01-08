@@ -66,7 +66,7 @@ The duty imposed by subsection (a) of this section shall not apply to—
 
 &emsp;(1) the cost of any equipment, or any part of equipment, purchased for, or the repair parts or materials to be used, or the expense of repairs made in a foreign country with respect to, LASH (Lighter Aboard Ship) barges documented under the laws of the United States and utilized as cargo containers;
 
-&emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, in the United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country;
+&emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, inthe United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country;
 
 &emsp;(3) the cost of spare parts necessarily installed before the first entry into the United States, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country; or
 
@@ -74,7 +74,7 @@ The duty imposed by subsection (a) of this section shall not apply to—
 
 > Declaration and entry shall not be required with respect to the installation, equipment, parts, and materials described in paragraph (4).
 
-(June 17, 1930, ch. 497, title IV, §466, 46 Stat. 719; Pub. L. 91–654, §1, Jan. 5, 1971, 84 Stat. 1944; Pub. L. 95–410, title II, §206, Oct. 3, 1978, 92 Stat. 900; Pub. L. 96–39, title VI, §601(a)(3), July 26, 1979, 93 Stat. 268; Pub. L. 96–467, §14(a)(3)(B), Oct. 17, 1980, 94 Stat. 2225; Pub. L. 96–609, title I, §115(a), Dec. 28, 1980, 94 Stat. 3558; Pub. L. 98–573, title II, §208, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 100–418, title I, §1214(h)(4), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 101–382, title III, §484E(a), Aug. 20, 1990, 104 Stat. 709; Pub. L. 103–465, title I, §112(b), Dec.8, 1994, 108 Stat. 4825; Pub. L. 108–429, title I, §1554(a), Dec. 3, 2004, 118 Stat. 2578; Pub. L. 109–280, title XIV, §1631(a), Aug. 17, 2006, 120 Stat. 1164.)
+(June 17, 1930, ch. 497, title IV, §466, 46 Stat. 719; Pub. L. 91–654, §1, Jan. 5, 1971, 84 Stat. 1944; Pub. L. 95–410, title II, §206, Oct. 3, 1978, 92 Stat. 900; Pub. L. 96–39, title VI, §601(a)(3), July 26, 1979, 93 Stat. 268; Pub. L. 96–467, §14(a)(3)(B), Oct. 17, 1980, 94 Stat. 2225; Pub. L. 96–609, title I, §115(a), Dec. 28, 1980, 94 Stat. 3558; Pub. L. 98–573, title II, §208, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 100–418, title I, §1214(h)(4), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 101–382, title III, §484E(a), Aug. 20, 1990, 104 Stat. 709; Pub. L. 103–465, title I, §112(b), Dec. 8, 1994, 108 Stat. 4825; Pub. L. 108–429, title I, §1554(a), Dec. 3, 2004, 118 Stat. 2578; Pub. L. 109–280, title XIV, §1631(a), Aug. 17, 2006, 120 Stat. 1164.)
 
 #### References in Text
 
@@ -266,5 +266,5 @@ Section 2 of Pub. L. 91–654 provided that:
 
 &emsp;“(2) with respect to which there would have been no duty if the amendment made by the first section of this Act applied to such entry,
 
-> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated as though such entry had been made on the day after the date of the enactment of this Act.”
+> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or anyother provision of law, be liquidated or reliquidated as though such entry had been made on the day after the date of the enactment of this Act.”
 

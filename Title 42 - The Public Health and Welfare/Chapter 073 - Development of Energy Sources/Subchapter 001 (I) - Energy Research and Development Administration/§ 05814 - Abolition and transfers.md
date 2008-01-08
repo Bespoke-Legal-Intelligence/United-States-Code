@@ -42,7 +42,7 @@ There are hereby transferred to and vested in the Administrator such functions o
 
 #### (h) Exercise of authority necessary or appropriate to perform transferred functions and carry out transferred programs
 
-To the extent necessary or appropriate to perform functions and carry out programs transferred by this chapter, the Administrator and Commission may exercise, in relation to the functions so transferred, any authority or part thereof available by law, including appropriation Acts, to the official or agency from which such functions were transferred.
+To the extent necessary or appropriate to perform functions and carry out programs transferred by this chapter, the Administrator and Commission may exercise, in relation to the functions so transferred, any authority or partthereof available by law, including appropriation Acts, to the official or agency from which such functions were transferred.
 
 #### (i) Utilization of technical and management capabilities of other executive agencies; assignment of specific programs or projects in energy research and development
 

@@ -2,7 +2,7 @@
 
 #### (a) Transition services
 
-Each State agency shall reserve not less than 15 percent and not more than 30 percent of theamount such agency receives under this subpart for any fiscal year to support—
+Each State agency shall reserve not less than 15 percent and not more than 30 percent of the amount such agency receives under this subpart for any fiscal year to support—
 
 &emsp;(1) projects that facilitate the transition of children and youth from State-operated institutions to schools served by local educational agencies; or
 

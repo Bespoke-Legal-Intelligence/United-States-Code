@@ -4,7 +4,7 @@
 
 Whenever the Secretary of Agriculture has reason to believe that:
 
-&emsp;(a) The current average farm price for any basic agricultural commodity is less than the fair exchange value thereof, or the average farm price of such commodity is likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, and
+&emsp;(a) The current average farm price for any basic agricultural commodity is less than the fair exchange value thereof, or the average farm price of such commodity is likely to be less than the fair exchange value thereof for the period in which the production of suchcommodity during the current or next succeeding marketing year is normally marketed, and
 
 &emsp;(b) The conditions of and factors relating to the production, marketing, and consumption of such commodity are such that the exercise of any one or more of the powers conferred upon the Secretary under subsections (2) and (3) of this section would tend to effectuate the declared policy of this chapter,
 
@@ -30,7 +30,7 @@ Subject to the provisions of subsection (1) of this section, the Secretary of Ag
 
 #### (4) Additional investigation; suspension of exercise of powers
 
-Whenever, during a period during which any of the powers conferred in subsection (2) or (3) ofthis section is being exercised, the Secretary of Agriculture has reason to believe that, with respect to any basic agricultural commodity:
+Whenever, during a period during which any of the powers conferred in subsection (2) or (3) of this section is being exercised, the Secretary of Agriculture has reason to believe that, with respect to any basic agricultural commodity:
 
 &emsp;(a) The current average farm price for such commodity is not less than the fair exchange value thereof, and the average farm price for such commodity is not likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, or
 
@@ -74,7 +74,7 @@ Subsec. (3) was, together with subsecs. (1), (2), and (4) to (9), inserted in li
 
 Subsec. (4) was, together with subsecs. (1) to (3) and (5) to (9), inserted in lieu of former (1) by section 2 of act Aug. 24, 1935. Former subsec. (4) was struck out by section 6 of said act Aug. 24, 1935, which also added sections 8d and 8e to the Agricultural Adjustment Act, section 608d and former section 608e, respectively, of this title.
 
-Subsec. (5) was, together with subsecs. (1) to (4) and (6) to (9), inserted in lieu of former (1) by section 2 ofact Aug. 24, 1935. Former subsec. (5) was designated section 8f of the Agricultural Adjustment Act, section 608f of this title, and amended by section 7 of said act Aug. 24, 1935.
+Subsec. (5) was, together with subsecs. (1) to (4) and (6) to (9), inserted in lieu of former (1) by section 2 of act Aug. 24, 1935. Former subsec. (5) was designated section 8f of the Agricultural Adjustment Act, section 608f of this title, and amended by section 7 of said act Aug. 24, 1935.
 
 Subsecs. (6) to (9) were, together with subsecs. (1) to (5), inserted in lieu of former (1) by section 2 of act Aug. 24, 1935.
 

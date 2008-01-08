@@ -26,7 +26,7 @@ An order under subsection (a) or (b) of this section shall require the person to
 
 &emsp;(B) authorize a State or local authority or other person to carry out any such action,
 
-> and require, by order, the owner or operator referred to in subsection (a) or (b) of this section to reimburse the Administrator or other authority or person for the costs of such activity.
+> and require, by order, the owner or operator referred to in subsection (a) or (b) of this sectionto reimburse the Administrator or other authority or person for the costs of such activity.
 
 (2) No order may be issued under this subsection requiring reimbursement of the costs of any action carried out by the Administrator which confirms the results of an order issued under subsection (a) or (b) of this section.
 

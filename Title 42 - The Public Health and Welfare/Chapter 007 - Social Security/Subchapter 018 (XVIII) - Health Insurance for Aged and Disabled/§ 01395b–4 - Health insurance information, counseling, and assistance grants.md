@@ -6,7 +6,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 #### (b) Grant applications
 
-(1) In submitting an application under this section, a State may consolidate and coordinatean application that consists of parts prepared by more than one agency or department of such State.
+(1) In submitting an application under this section, a State may consolidate and coordinate an application that consists of parts prepared by more than one agency or department of such State.
 
 (2) As part of an application for a grant under this section, a State shall submit a plan for a State-wide health insurance information, counseling, and assistance program. Such program shall—
 
@@ -124,7 +124,7 @@ Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made ident
 
 Pub. L. 103–432, §171(i)(8)(A), in subsec. (f), relating to authorization of appropriations for grants, substituted “1993, 1994, 1995, and 1996” for “and 1993”.
 
-Subsec. (f)(2) to (5). Pub. L. 103–432, §171(i)(7), in subsec. (f), relating to report to Congress, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “summarizes the scope and content of training conferences convened under this section;”.
+Subsec. (f)(2) to (5). Pub. L. 103–432, §171(i)(7), in subsec. (f), relating to report to Congress, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck outformer par. (2) which read as follows: “summarizes the scope and content of training conferences convened under this section;”.
 
 Subsec. (g). Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
 

@@ -1,6 +1,6 @@
 ### §46109. Joinder and intervention
 
-A person interested in or affected by a matter under consideration in a proceeding before theSecretary of Transportation or civil action to enforce this part or a requirement or regulation prescribed, or an order or any term of a certificate or permit issued, under this part may be joined as a party or permitted to intervene in the proceeding or civil action.
+A person interested in or affected by a matter under consideration in a proceeding before the Secretary of Transportation or civil action to enforce this part or a requirement or regulation prescribed, or an order or any term of a certificate or permit issued, under this part may be joined as a party or permitted to intervene in the proceeding or civil action.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1230.)
 

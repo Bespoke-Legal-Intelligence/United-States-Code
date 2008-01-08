@@ -59,6 +59,7 @@
 | [657e.](%C2%A7%2000657e%20-%20Mentoring%20Networks.md) | Mentoring Networks. |
 | [657f.](%C2%A7%2000657f%20-%20Procurement%20program%20for%20small%20business%20concerns%20owned%20and%20controlled%20by%20service-disabled%20veterans.md) | Procurement program for small business concerns owned and controlled by service-disabled veterans. |
 | [657g.](%C2%A7%2000657g%20-%20Participation%20in%20federally%20funded%20projects.md) | Participation in federally funded projects. |
+| [657h.](%C2%A7%2000657h%20-%20Small%20business%20energy%20efficiency.md) | Small business energy efficiency. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -124,3 +125,4 @@
 - [&sect; 00657e - Mentoring Networks](%C2%A7%2000657e%20-%20Mentoring%20Networks.md)
 - [&sect; 00657f - Procurement program for small business concerns owned and controlled by service-disabled veterans](%C2%A7%2000657f%20-%20Procurement%20program%20for%20small%20business%20concerns%20owned%20and%20controlled%20by%20service-disabled%20veterans.md)
 - [&sect; 00657g - Participation in federally funded projects](%C2%A7%2000657g%20-%20Participation%20in%20federally%20funded%20projects.md)
+- [&sect; 00657h - Small business energy efficiency](%C2%A7%2000657h%20-%20Small%20business%20energy%20efficiency.md)

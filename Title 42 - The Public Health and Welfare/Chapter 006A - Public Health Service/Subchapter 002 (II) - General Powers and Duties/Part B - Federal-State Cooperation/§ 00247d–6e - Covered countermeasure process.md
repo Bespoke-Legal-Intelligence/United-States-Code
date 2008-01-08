@@ -12,7 +12,7 @@ Upon the issuance by the Secretary of a declaration under section 247d–6d(b) o
 
 #### (2) Elements of compensation
 
-&emsp;The compensation that shall be provided pursuant to paragraph (1) shall have the same elements, and be in the same amount, as is prescribed by sections 239c, 239d, and 239e of this title in the case of certain individuals injured as a result of administration of certain countermeasures against smallpox, except that section 239e(a)(2)(B) of this title shall not apply.
+&emsp;The compensation that shall be provided pursuant to paragraph (1) shall have the sameelements, and be in the same amount, as is prescribed by sections 239c, 239d, and 239e of this title in the case of certain individuals injured as a result of administration of certain countermeasures against smallpox, except that section 239e(a)(2)(B) of this title shall not apply.
 
 #### (3) Rule of construction
 

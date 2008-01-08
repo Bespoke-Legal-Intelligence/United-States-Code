@@ -6,7 +6,7 @@ The Secretary may, in accordance with chapter 5 of title 5, prescribe rules and 
 
 #### (b) Acquisition of certain property and services
 
-The Secretary is authorized, in carrying out this chapter, to accept, purchase, or lease in the name of the Department of Labor, and employ or dispose of in furtherance of the purposes of this chapter, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise, and to accept voluntary and uncompensated services notwithstanding the provisions of section 1342 of title 31.
+The Secretary is authorized, in carrying out this chapter, to accept, purchase, or lease in the name of the Department of Labor, and employ or dispose of in furtherance of the purposes of this chapter, any money or property, real, personal, or mixed, tangible or intangible, receivedby gift, devise, bequest, or otherwise, and to accept voluntary and uncompensated services notwithstanding the provisions of section 1342 of title 31.
 
 #### (c) Authority to enter into certain agreements and to make certain expenditures
 
@@ -64,7 +64,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (3) Special rule regarding sanctions
 
-&emsp;A State that enacts, not later than December 31, 1997, a State law providing for the sanctioning of such service delivery areas for failure to meet performance measures for workforce investment activities, may use the State law to sanction local areas for failure to meet State performance measures under this chapter.
+&emsp;A State that enacts, not later than December 31, 1997, a State law providing for the sanctioning of such service delivery areas for failure to meet performance measures for workforce investment activities, may use the Statelaw to sanction local areas for failure to meet State performance measures under this chapter.
 
 #### (4) General waivers of statutory or regulatory requirements
 

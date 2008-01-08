@@ -60,7 +60,7 @@ Pub. L. 108–487, title VI, §611(b), Dec. 23, 2004, 118 Stat. 3955, provided t
 
 #### Effective Date
 
-For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President ofthe United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
@@ -86,7 +86,7 @@ Disciplinary Actions.—The regulations shall specify appropriate disciplinary a
 
 Ex. Ord. No. 13355, Aug. 27, 2004, 69 F.R. 53593, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including section 103(c)(8) of the National Security Act of 1947, as amended \[former 50 U.S.C. 403–3(c)(8)\] (Act), and in order to further strengthen the effective conduct of United States intelligence activities and protect the territory, people, and interests of the United States of America, including against terrorist attacks, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including section 103(c)(8) of the National Security Act of 1947, as amended \[former 50 U.S.C. 403–3(c)(8)\] (Act), and in order to further strengthen the effective conduct of United States intelligence activities and protect the territory, people, and interests of the United States of America, including against terrorist attacks, it is hereby ordered as follows:
 
 Section 1. <i>Strengthening the Authority of the Director of Central Intelligence</i>. The Director of Central Intelligence (Director) shall perform the functions set forth in this order to ensure an enhanced joint, unified national intelligence effort to protect the national security of the United States. Such functions shall be in addition to those assigned to the Director by law, Executive Order, or Presidential directive.
 
@@ -132,7 +132,7 @@ Sec. 7. <i>General Provisions</i>.
 
 (c) Nothing in this order shall be construed to impair or otherwise affect any authority to provide intelligence to the President, the Vice President in the performance of Executive functions, and other officials in the executive branch.
 
-(d) This order and amendments made by this order are intended only to improve the internal management of the Federal Government and are not intended to, and do not, create any rights or benefits, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+(d) This order and amendments made by this order are intended only to improve the internal management of the Federal Government and are not intended to, and do not, create any rights or benefits, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies,instrumentalities, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

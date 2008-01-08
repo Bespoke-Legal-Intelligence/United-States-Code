@@ -206,7 +206,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (7) Interest expense
 
-&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayer as a deduction for interest (within the meaning of section 265(b)(4)) for the taxable year (determined without regard to this subsection, section 265(b), and section 291).
+&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayer as adeduction for interest (within the meaning of section 265(b)(4)) for the taxable year (determined without regard to this subsection, section 265(b), and section 291).
 
 #### (8) Aggregation rules
 

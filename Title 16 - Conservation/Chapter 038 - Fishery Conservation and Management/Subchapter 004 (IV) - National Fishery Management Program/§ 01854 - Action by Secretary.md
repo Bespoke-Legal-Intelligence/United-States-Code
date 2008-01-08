@@ -84,7 +84,7 @@
 
 (B) Such fee shall not exceed 3 percent of the ex-vessel value of fish harvested under any such program, and shall be collected at either the time of the landing, filing of a landing report, or sale of such fish during a fishing season or in the last quarter of the calendar year in which the fish is harvested.
 
-(C)(i) Fees collected under this paragraph shall be in addition to any other fees charged underthis chapter and shall be deposited in the Limited Access System Administration Fund established under section 1855(h)(5)(B) of this title.
+(C)(i) Fees collected under this paragraph shall be in addition to any other fees charged under this chapter and shall be deposited in the Limited Access System Administration Fund established under section 1855(h)(5)(B) of this title.
 
 (ii) Upon application by a State, the Secretary shall transfer to such State up to 33 percent of any fee collected pursuant to subparagraph (A) under a community development quota program and deposited in the Limited Access System Administration Fund in order to reimburse such State for actual costs directly incurred in the management and enforcement of such program.
 
@@ -196,7 +196,7 @@ The Secretary may repeal or revoke a fishery management plan for a fishery under
 
 #### (4) Public participation
 
-&emsp;The Secretary is authorized and directed, in cooperation with the Council on Environmental Quality and the Councils, to involve the affected public in the development of revised procedures, including workshops orother appropriate means of public involvement.
+&emsp;The Secretary is authorized and directed, in cooperation with the Council on Environmental Quality and the Councils, to involve the affected public in the development of revised procedures, including workshops or other appropriate means of public involvement.
 
 #### (i) <sup>2</sup> International overfishing
 
@@ -332,7 +332,7 @@ Subsec. (e). Pub. L. 99–659, §106(4), inserted “, in cooperation with the 
 
 Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
-Subsec. (c)(1). Pub. L. 97–453, §7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B)a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
+Subsec. (c)(1). Pub. L. 97–453, §7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B) a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
 
 Subsec. (c)(2). Pub. L. 97–453, §7(a)(2)(B), amended par. (2) generally, which had provided that whenever, pursuant to paragraph (1), the Secretary prepared a fishery management plan or amendment, the Secretary was to promptly transmit such plan or amendment to the appropriate Council for consideration and comment, that within 45 days after the date of receipt of such plan or amendment, the appropriate Council could recommend, to the Secretary, changes in such plan or amendment, consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that after the expiration of such 45-day period, the Secretary could implement such plan or amendment pursuant to section 1855 of this title.
 
@@ -344,7 +344,7 @@ Pub. L. 109–479, title I, §104(d), Jan. 12, 2007, 120 Stat. 3585, provided th
 
 #### Effective Date of 1983 Amendment
 
-Section 7(b) of Pub. L. 97–453 provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
+Section 7(b) of Pub. L. 97–453 provided that: “The amendments made by subsection (a) \[amending thissection\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
 
 #### Transfer of Functions
 

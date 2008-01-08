@@ -124,7 +124,7 @@ In carrying out this section, the Secretary shall examine appropriate locations,
 
 &emsp;(22) Shenandoah River, Virginia;
 
-&emsp;(23) Lincoln Creek, Wisconsin; and <sup>1</sup>
+&emsp;(23) Lincoln Creek, Wisconsin;
 
 &emsp;(24) Perry Creek, Iowa;
 
@@ -132,9 +132,19 @@ In carrying out this section, the Secretary shall examine appropriate locations,
 
 &emsp;(26) Lower Hudson River and tributaries, New York;
 
-&emsp;(27) Susquehanna River watershed, Bradford County, Pennsylvania; and
+&emsp;(27) Susquehanna River watershed, Bradford County, Pennsylvania;
 
-&emsp;(28) Clear Creek, Harris, Galveston, and Brazoria Counties, Texas.
+&emsp;(28) Clear Creek, Harris, Galveston, and Brazoria Counties, Texas;
+
+&emsp;(29) Ascension Parish, Louisiana;
+
+&emsp;(30) East Baton Rouge Parish, Louisiana;
+
+&emsp;(31) Iberville Parish, Louisiana;
+
+&emsp;(32) Livingston Parish, Louisiana; and
+
+&emsp;(33) Pointe Coupee Parish, Louisiana.
 
 #### (f) Program review
 
@@ -174,25 +184,31 @@ Not more than $30,000,000 may be expended by the United States on any single pro
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section—
-
-&emsp;&emsp;(A) $20,000,000 for fiscal year 2001;
-
-&emsp;&emsp;(B) $30,000,000 for fiscal year 2002; and
-
-&emsp;&emsp;(C) $50,000,000 for each of fiscal years 2003 through 2005.
+&emsp;There are authorized to be appropriated to carry out this section $20,000,000.
 
 #### (2) Full funding
 
 &emsp;All studies and projects carried out under this section from Army Civil Works appropriations shall be fully funded within the program funding levels provided in this subsection.
 
-(Pub. L. 106–53, title II, §212, Aug. 17, 1999, 113 Stat. 288; Pub. L. 106–541, title II, §227, Dec. 11, 2000, 114 Stat. 2599.)
+(Pub. L. 106–53, title II, §212, Aug. 17, 1999, 113 Stat. 288; Pub. L. 106–541, title II, §227, Dec. 11, 2000, 114 Stat. 2599; Pub. L. 110–114, title V, §5005, Nov. 8, 2007, 121 Stat. 1192.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+2007—Subsec. (e)(23). Pub. L. 110–114, §5005(a)(1), struck out “and” at end.
+
+Subsec. (e)(29) to (33). Pub. L. 110–114, §5005(a), added pars. (29) to (33).
+
+Subsec. (i)(1). Pub. L. 110–114, §5005(b), substituted “section $20,000,000” for “section—
+
+&emsp;“(A) $20,000,000 for fiscal year 2001;
+
+&emsp;“(B) $30,000,000 for fiscal year 2002; and
+
+&emsp;“(C) $50,000,000 for each of fiscal years 2003 through 2005”.
 
 2000—Subsec. (e)(24) to (28). Pub. L. 106–541 added pars. (24) to (28).
 
@@ -205,6 +221,4 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 #### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

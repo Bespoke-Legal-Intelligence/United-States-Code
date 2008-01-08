@@ -50,7 +50,7 @@ Subsecs. (h), (i). Pub. L. 94–455, §1901(a)(117), redesignated subsec. (i) as
 
 1972—Subsec. (c). Pub. L. 92–606 substituted “Puerto Rico or Guam” for “Puerto Rico”.
 
-1971—Subsec. (a). Pub. L. 92–178 provided for non-application of section in the case of a corporation for ataxable year for which it is a DISC or in which it owns at any time stock in a DISC or former DISC.
+1971—Subsec. (a). Pub. L. 92–178 provided for non-application of section in the case of a corporation for a taxable year for which it is a DISC or in which it owns at any time stock in a DISC or former DISC.
 
 1966—Subsec (d). Pub. L. 89–809 made applicable to United States citizens and domestic corporations engaged in trade or business in possessions, who qualify for the special tax treatment of income qualifying for the exclusion relating to income from United States possessions, provisions which allow deductions to nonresident aliens or foreign corporations engaged in trade or business in the United States by allowing deductions only where they are allocable to income effectively connected with the trade or business in the United States and by spelling out the exceptions allowing deductions whether or not connected with income from sources within the United States in the case of losses not connected with the trade or business but incurred in transactions entered into for profit, casualty losses, and charitable contributions.
 
@@ -148,7 +148,7 @@ Report on Implementing Agreements.—If, during the 1-year period beginning on t
 
 “(e)
 
-Treatment of Certain United States Persons.—Except as otherwise provided in regulations prescribed by the Secretary of the Treasury or his delegate, if a United States person becomes a resident of Guam, American Samoa, or the Northern Mariana Islands, the rules of section 877(c) of the Internal Revenue Code of 1954 \[now 1986\] shall apply to such person during the 10-year period beginning when such person became such a resident. Notwithstanding subsection\(b), the preceding sentence shall apply to dispositions after December 31, 1985, in taxable years ending after such date.
+Treatment of Certain United States Persons.—Except as otherwise provided in regulations prescribed by the Secretary of the Treasury or his delegate, if a United States person becomes a resident of Guam, American Samoa, or the Northern Mariana Islands, the rules of section 877(c) of the Internal Revenue Code of 1954 \[now 1986\] shall apply to such person during the 10-year period beginning when such person became such a resident. Notwithstanding subsection (b), the preceding sentence shall apply to dispositions after December 31, 1985, in taxable years ending after such date.
 
 “(f)
 

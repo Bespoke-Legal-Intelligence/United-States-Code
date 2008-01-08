@@ -38,7 +38,7 @@ Decisions By Secretary.—The final regulations, policy statements, or guideline
 
 &emsp;(1) Not more than 120 days after an air carrier files with the Secretary a written complaint relating to an airport fee, the Secretary shall issue a final order determining whether such fee is reasonable.
 
-&emsp;(2) Within 30 days after such complaint is filed with the Secretary, the Secretary shall dismiss the complaint if no significant dispute exists or shall assign the matter to an administrative law judge; and thereafter the matter shall be handled in accordance with part 302 of title 14, Code of Federal Regulations, or as modified by the Secretary to ensure an orderly disposition of the matter within the 120-day period and any specifically applicable provisions of this section.
+&emsp;(2) Within 30 days after such complaint is filed with the Secretary, the Secretary shalldismiss the complaint if no significant dispute exists or shall assign the matter to an administrative law judge; and thereafter the matter shall be handled in accordance with part 302 of title 14, Code of Federal Regulations, or as modified by the Secretary to ensure an orderly disposition of the matter within the 120-day period and any specifically applicable provisions of this section.
 
 &emsp;(3) The administrative law judge shall issue a recommended decision within 60 days after the complaint is assigned or within such shorter period as the Secretary may specify.
 

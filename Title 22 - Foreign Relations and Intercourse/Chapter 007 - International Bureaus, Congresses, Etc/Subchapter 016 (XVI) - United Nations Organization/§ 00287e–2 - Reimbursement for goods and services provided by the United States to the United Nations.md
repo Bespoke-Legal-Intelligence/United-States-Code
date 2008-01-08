@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to the United Nations when the assistance is designed to facilitate or assist in carrying out an assessed peacekeeping operation;
 
-&emsp;&emsp;(B) for any United Nations peacekeeping operation that is authorized by the United Nations Security Council under Chapter VI or Chapter VII of the United Nations Charter and paid for by peacekeeping or regular budget assessment of the United Nations members; or
+&emsp;&emsp;(B) for any United Nations peacekeeping operation that is authorized by the United Nations Security Council under Chapter VI or Chapter VII of the United Nations Charter and paid for by peacekeeping or regularbudget assessment of the United Nations members; or
 
 &emsp;&emsp;(C) to any country participating in any operation authorized by the United Nations Security Council under Chapter VI or Chapter VII of the United Nations Charter and paid for by peacekeeping assessments of United Nations members when the assistance is designed to facilitate or assist the participation of that country in the operation.
 
@@ -95,4 +95,8 @@ In this section, the term “assistance” includes personnel, services, supplie
 #### References in Text
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (d)(3), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

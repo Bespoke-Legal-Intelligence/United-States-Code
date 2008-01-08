@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) 50 percent shall be available to the Administrator of the Maritime Administration for such acquisition, maintenance, repair, reconditioning, or improvement of vessels in the National Defense Reserve Fleet as is authorized under other Federal law.
 
-&emsp;&emsp;(B) 25 percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility andtraining ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
+&emsp;&emsp;(B) 25 percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
 
 &emsp;&emsp;(C) The remainder shall be available to the Secretary to carry out the Program, as provided in subsection (b) of this section.
 
@@ -104,7 +104,7 @@ Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling.—(
 
 “(3) Activities under the pilot programs under paragraph (1) shall include the following:
 
-&emsp;“(A) Exploration of the feasibility and advisability of a variety of alternatives (developed for purposes ofthe pilot programs) for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels.
+&emsp;“(A) Exploration of the feasibility and advisability of a variety of alternatives (developed for purposes of the pilot programs) for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels.
 
 &emsp;“(B) Response by the Maritime Administration to proposals from the international ship recycling industry for innovative and cost-effective disposal solutions for obsolete vessels in the National Defense Reserve Fleet, including an evaluation of the feasibility and advisability of such proposals.
 
@@ -118,7 +118,7 @@ Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling.—(
 
 “(d)
 
-Construction.—Nothing in this section shall be construed to establish a preference for the reefing or export of obsolete vessels in the National Defense Reserve Fleet over other alternatives available to the Secretary for the scrapping of such vessels under section 3502(d)(3) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001.”
+Construction.—Nothing in this section shall be construed to establish a preference for the reefing orexport of obsolete vessels in the National Defense Reserve Fleet over other alternatives available to the Secretary for the scrapping of such vessels under section 3502(d)(3) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001.”
 
 #### Scrapping of National Defense Reserve Fleet Vessels
 
@@ -192,5 +192,5 @@ Application.—This subsection shall apply beginning 180 days after the date of 
 
 “(f)
 
-Report.—No later than 1 year after the date of the enactment of this subsection \[Jan. 6, 2006\], and every 6 months thereafter, the Secretary of Transportation, in coordination with the Secretary of the Navy, shall report to the Committee on Transportation and Infrastructure, the Committee on Resources, and the Committee on Armed Services of the House of Representatives, and to the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in implementing the vessel disposal plan developed under subsection (c). In particular, the report shall address the performance measures required to be established under subsection (c)(2)(C).”
+Report.—No later than 1 year after the date of the enactment of this subsection \[Jan. 6, 2006\], and every 6 months thereafter, the Secretary of Transportation, in coordination with the Secretary of the Navy, shall report to the Committee on Transportation and Infrastructure, the Committee on Resources \[now Committee on Natural Resources\], and the Committee on Armed Services of the House of Representatives, and to the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in implementing the vessel disposal plan developed under subsection (c). In particular, the report shall address the performance measures required to be established under subsection (c)(2)(C).”
 

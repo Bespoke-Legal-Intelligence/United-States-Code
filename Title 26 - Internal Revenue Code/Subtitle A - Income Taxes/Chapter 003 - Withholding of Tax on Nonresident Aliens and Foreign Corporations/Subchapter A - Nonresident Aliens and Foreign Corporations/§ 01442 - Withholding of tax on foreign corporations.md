@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of foreign corporations subject to taxation under this subtitle, there shall be deducted and withheld at the source in the same manner and on the same items of income as is provided in section 1441 a tax equal to 30 percent thereof. For purposes of the preceding sentence, the references in section 1441(b) to sections 871(a)(1)(C) and (D) shall be treated as referring to sections 881(a)(3) and (4), the reference in section 1441(c)(1) to section 871(b)(2) shall be treated as referring to section 842 or section 882(a)(2), as the case may be, the reference in section 1441(c)(5) to section 871(a)(1)(D) shall be treated as referring to section 881(a)(4), the reference in section 1441(c)(8) to section 871(a)(1)(C) shall be treated as referring to section 881(a)(3), the references in section 1441(c)(9) to sections 871(h) and 871(h)(3) or (4) shall be treated as referring to sections 881(c) and 881(c)(3) or (4), the reference in section 1441(c)(10) to section 871(i)(2) shall be treated as referring to section 881(d), and the references in section 1441(c)(12) to sections 871(a) and 871(k) shall be treated as referring to sections 881(a) and 881(e) (except that for purposes of applying subparagraph (A) of section 1441(c)(12), as so modified, clause (ii) of section 881(e)(1)(B) shall not apply to any dividend unless the regulated investment company knowsthat such dividend is a dividend referred to in such clause).
+In the case of foreign corporations subject to taxation under this subtitle, there shall be deducted and withheld at the source in the same manner and on the same items of income as is provided in section 1441 a tax equal to 30 percent thereof. For purposes of the preceding sentence, the references in section 1441(b) to sections 871(a)(1)(C) and (D) shall be treated as referring to sections 881(a)(3) and (4), the reference in section 1441(c)(1) to section 871(b)(2) shall be treated as referring to section 842 or section 882(a)(2), as the case may be, the reference in section 1441(c)(5) to section 871(a)(1)(D) shall be treated as referring to section 881(a)(4), the reference in section 1441(c)(8) to section 871(a)(1)(C) shall be treated as referring to section 881(a)(3), the references in section 1441(c)(9) to sections 871(h) and 871(h)(3) or (4) shall be treated as referring to sections 881(c) and 881(c)(3) or (4), the reference in section 1441(c)(10) to section 871(i)(2) shall be treated as referring to section 881(d), and the references in section 1441(c)(12) to sections 871(a) and 871(k) shall be treated as referring to sections 881(a) and 881(e) (except that for purposes of applying subparagraph (A) of section 1441(c)(12), as so modified, clause (ii) of section 881(e)(1)(B) shall not apply to any dividend unless the regulated investment company knows that such dividend is a dividend referred to in such clause).
 
 #### (b) Exemption
 
@@ -66,9 +66,9 @@ Subsec. (c). Pub. L. 98–369, §130(b), substituted provision relating to excep
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 411(a)(3)(B) of Pub. L. 108–357 applicable to dividends with respect to taxable years ofregulated investment companies beginning after Dec. 31, 2004, see section 411(d)(1) of Pub. L. 108–357, set out as a note under section 871 of this title.
+Amendment by section 411(a)(3)(B) of Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, see section 411(d)(1) of Pub. L. 108–357, set out as a note under section 871 of this title.
 
-Amendment by section 420(b) of Pub. L. 108–357 applicable to dividends paid after Oct. 22, 2004, see section 420(d) of Pub. L. 108–357, set out as a note under section 881 of this title.
+Amendment by section 420(b) of Pub. L. 108–357 applicable to dividends paid after Oct. 22, 2004, see section420(d) of Pub. L. 108–357, set out as a note under section 881 of this title.
 
 #### Effective Date of 1993 Amendment
 

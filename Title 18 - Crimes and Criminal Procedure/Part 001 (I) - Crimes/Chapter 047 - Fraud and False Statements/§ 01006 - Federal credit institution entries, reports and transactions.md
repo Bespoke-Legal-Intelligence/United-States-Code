@@ -18,7 +18,7 @@ Each revised section condenses and simplifies the constituent provisions without
 
 The punishment provisions in each section were the same except that in section 1026(b) of title 7, U.S.C., 1940 ed., and sections 984, 1121, and 1311 of title 12, U.S.C., 1940 ed., the maximum fine was $5,000. This consolidated section adopts the $10,000 maximum fine provided by the seven other sections.
 
-References to persons aiding or abetting contained in sections 984, 1121, and 1311 of title 12, U.S.C., 1940 ed., were omitted as unnecessary, as such persons are made principals by section 2 of this title.
+References to persons aiding or abetting contained in sections 984, 1121, and 1311 of title 12, U.S.C., 1940 ed.,were omitted as unnecessary, as such persons are made principals by section 2 of this title.
 
 The term “receiver,” used in sections 1121 and 1311 of title 12, U.S.C., 1940 ed., with reference to Federal intermediate credit banks and agricultural credit corporations, was omitted as this term is undoubtedly embraced in the phrase “or connected in any capacity with.”
 
@@ -42,7 +42,7 @@ The conspiracy provisions of section 1138d(f) of title 12, U.S.C., 1940 ed., Ban
 
 1994—Pub. L. 103–322 struck out “Reconstruction Finance Corporation,” after “in any capacity with the” and “Farmers’ Home Corporation,” after “Federal Crop Insurance Corporation,”.
 
-1990—Pub. L. 101–647, §2595(a)(4), substituted “Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Board, the Resolution Trust Corporation,” for “Home Owners’ Loan Corporation,”, and directed substitution of “institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation”, for “institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” which was executed by making the substitution for “institution the accounts of which are insured by the Federal Deposit Insurance Corporation” toreflect the probable intent of Congress and intervening amendment by Pub. L. 101–647, §1603, see below.
+1990—Pub. L. 101–647, §2595(a)(4), substituted “Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Board, the Resolution Trust Corporation,” for “Home Owners’ Loan Corporation,”, and directed substitution of “institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation”, for “institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” which was executed by making the substitution for “institution the accounts of which are insured by the Federal Deposit Insurance Corporation” to reflect the probable intent of Congress and intervening amendment by Pub. L. 101–647, §1603, see below.
 
 Pub. L. 101–647, §2504(e), substituted “30” for “20” before “years”.
 

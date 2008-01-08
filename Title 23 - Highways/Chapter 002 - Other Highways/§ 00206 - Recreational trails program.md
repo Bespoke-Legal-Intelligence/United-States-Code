@@ -68,13 +68,13 @@ Permissible uses.—Permissible uses of funds apportioned to a State for a fisca
 
 &emsp;&emsp;&emsp;(iii) approved by the administering agency of the State designated under subsection (c)(1); and
 
-&emsp;&emsp;&emsp;(iv) approved by each Federal agency having jurisdiction over the affected lands under such terms and conditions as the head of the Federal agency determines to be appropriate, except that the approval shall be contingent on compliance by the Federal agency with all applicable laws, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.), and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.);
+&emsp;&emsp;&emsp;(iv) approved by each Federal agency having jurisdiction over the affected lands under such terms and conditions as the head of the Federal agency determines to be appropriate, except that the approval shall be contingent on compliance by the Federal agency with all applicable laws, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), theForest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.), and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.);
 
 &emsp;&emsp;(E) acquisition of easements and fee simple title to property for recreational trails or recreational trail corridors;
 
 &emsp;&emsp;(F) assessment of trail conditions for accessibility and maintenance;
 
-&emsp;&emsp;(G) development and dissemination of publications and operation of educational programs to promote safety and environmental protection, (as those objectives relate to oneor more of the use of recreational trails, supporting non-law enforcement trail safety and trail use monitoring patrol programs, and providing trail-related training), but in an amount not to exceed 5 percent of the apportionment made to the State for the fiscal year; and
+&emsp;&emsp;(G) development and dissemination of publications and operation of educational programs to promote safety and environmental protection, (as those objectives relate to one or more of the use of recreational trails, supporting non-law enforcement trail safety and trail use monitoring patrol programs, and providing trail-related training), but in an amount not to exceed 5 percent of the apportionment made to the State for the fiscal year; and
 
 &emsp;&emsp;(H) payment of costs to the State incurred in administering the program, but in an amount not to exceed 7 percent of the apportionment made to the State for the fiscal year.
 
@@ -238,7 +238,7 @@ A prior section 206, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908, provided for
 
 Subsec. (d)(3)(C), (D). Pub. L. 109–59, §1109(c), redesignated subpar. (D) as (C), substituted “(2)(H)” for “(2)(F)”, and struck out heading and text of former subpar. (C). Text read as follows: “A State recreational trail advisory committee established under subsection (c)(2) may waive, in whole or in part, the requirements of clauses (ii) and (iii) of subparagraph (A) if the State recreational trail advisory committee determines and notifies the Secretary that the State does not have sufficient projects to meet the requirements of clauses (ii) and (iii) of subparagraph (A).”
 
-Subsec. (f)(1). Pub. L. 109–59, §1109(d)(1), inserted “and the Federal share of the administrative costs of a State” after “project” and substituted “be determinedin accordance with section 120(b)” for “not exceed 80 percent”.
+Subsec. (f)(1). Pub. L. 109–59, §1109(d)(1), inserted “and the Federal share of the administrative costs of a State” after “project” and substituted “be determined in accordance with section 120(b)” for “not exceed 80 percent”.
 
 Subsec. (f)(2)(A). Pub. L. 109–59, §1109(d)(2), substituted “the amount determined in accordance with section 120(b) for the cost” for “80 percent of the cost”.
 

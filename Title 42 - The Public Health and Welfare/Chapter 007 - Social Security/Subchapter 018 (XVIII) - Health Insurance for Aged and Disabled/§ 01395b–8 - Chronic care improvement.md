@@ -62,7 +62,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall enter into agreements under this subsection in a manner so thatchronic care improvement programs offered under this section are offered in geographic areas that, in the aggregate, consist of areas in which at least 10 percent of the aggregate number of medicare beneficiaries reside.
+&emsp;&emsp;The Secretary shall enter into agreements under this subsection in a manner so that chronic care improvement programs offered under this section are offered in geographic areas that, in the aggregate, consist of areas in which at least 10 percent of the aggregate number of medicare beneficiaries reside.
 
 #### (B) Medicare beneficiary defined
 
@@ -308,7 +308,7 @@ Authorization of Appropriations.—(1) Payments for the costs of carrying out th
 
 #### Reports
 
-Pub. L. 108–173, title VII, §721(b), Dec. 8, 2003, 117 Stat. 2346, provided that: “The Secretary \[of Health andHuman Services\] shall submit to Congress reports on the operation of section 1807 of the Social Security Act \[this section\], as added by subsection (a), as follows:
+Pub. L. 108–173, title VII, §721(b), Dec. 8, 2003, 117 Stat. 2346, provided that: “The Secretary \[of Health and Human Services\] shall submit to Congress reports on the operation of section 1807 of the Social Security Act \[this section\], as added by subsection (a), as follows:
 
 &emsp;“(1) Not later than 2 years after the date of the implementation of such section, the Secretary shall submit to Congress an interim report on the scope of implementation of the programs under subsection (b) of such section, the design of the programs, and preliminary cost and quality findings with respect to those programs based on the following measures of the programs:
 

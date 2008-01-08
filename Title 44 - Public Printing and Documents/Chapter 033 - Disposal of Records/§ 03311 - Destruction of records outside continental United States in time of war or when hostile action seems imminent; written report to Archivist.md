@@ -6,7 +6,7 @@ During a state of war between the United States and another nation, or when host
 
 &emsp;(2) which occupy space urgently needed for military purposes and are, in his opinion, without sufficient administrative, legal, research, or other value to warrant their continued preservation.
 
-> Within six months after their disposal, the official who directed the disposal shall submit a written report to the Archivist in which he shall describe the character of the records and state when and where he disposed of them.
+> Within six months after their disposal, the official who directed the disposal shall submit awritten report to the Archivist in which he shall describe the character of the records and state when and where he disposed of them.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1301; Pub. L. 98–497, title I, §107(b)(23), (25)(C), Oct. 19, 1984, 98 Stat. 2290.)
 

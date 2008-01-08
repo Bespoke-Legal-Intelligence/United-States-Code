@@ -38,7 +38,7 @@ As soon as practicable after receiving any application for a permit under this s
 
 &emsp;&emsp;(i) the number and species of native mammals, native birds, native plants, or native invertebrates to which the permit applies, and
 
-&emsp;&emsp;(ii) the manner in which the taking or harmful interference shall be conducted (which manner shall be determined by the Director to be humane) and the area in which it will be conducted;
+&emsp;&emsp;(ii) the manner in which the taking or harmful interference shall be conducted (which manner shall be determined by theDirector to be humane) and the area in which it will be conducted;
 
 &emsp;(B) the period during which the permit is valid; and
 

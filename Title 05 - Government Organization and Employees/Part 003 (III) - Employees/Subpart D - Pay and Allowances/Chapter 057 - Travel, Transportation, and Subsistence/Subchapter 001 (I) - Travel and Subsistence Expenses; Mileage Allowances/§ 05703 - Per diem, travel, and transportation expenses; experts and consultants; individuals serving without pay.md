@@ -42,5 +42,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1969—Subsec. (c)(1). Pub. L. 91–114 increased the per diem allowance for travel inside continental United States from not to exceed the rate of $16 to not to exceed the rate of $25.
 
-Subsec. (d). Pub. L. 91–114 in cl. (1) increased amount authorized to be named in travel authorization for each day in a travel status inside continental United States from not to exceed $30 to not to exceed $40, and in cl. (2) increased amount authorized to be named in travel authorization for each day in a travel status outside continental United States from not to exceed maximum per diem allowance plus $10 to not to exceed the maximum per diem allowance plus $18.
+Subsec. (d). Pub. L. 91–114 in cl. (1) increased amount authorized to be named in travel authorization for each day in a travel status inside continental United Statesfrom not to exceed $30 to not to exceed $40, and in cl. (2) increased amount authorized to be named in travel authorization for each day in a travel status outside continental United States from not to exceed maximum per diem allowance plus $10 to not to exceed the maximum per diem allowance plus $18.
 

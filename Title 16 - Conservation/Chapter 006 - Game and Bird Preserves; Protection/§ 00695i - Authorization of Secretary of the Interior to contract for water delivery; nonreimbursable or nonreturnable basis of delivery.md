@@ -1,10 +1,10 @@
 ### §695i. Authorization of Secretary of the Interior to contract for water delivery; nonreimbursable or nonreturnable basis of delivery
 
-The Secretary of the Interior is authorized to contract for the delivery of water to public organizations or agencies for use within the boundaries of such organizations or agencies for waterfowl purposes in the Grasslands area of the San Joaquin Valley. If and when available, such water shall be delivered from the Central Valley project to the contracting entity, and the cost of furnishing the water shall not be reimbursable or returnable under the Federal reclamation laws: <i>Provided</i>, That, in order for the delivery of such water to continue on a nonreimbursable or nonreturnable basis—
+The Secretary of the Interior is authorized to contract for the delivery of water to public organizations or agencies for use within the boundaries of such organizations or agencies for waterfowl purposes in the Grasslands area of the San Joaquin Valley. If and when available, such water shall be delivered from the Central Valley project to the contracting entity, and the cost of furnishing the water shall not be reimbursable or returnable under the Federal reclamation laws: <i>Provided</i>, That, in order for the delivery ofsuch water to continue on a nonreimbursable or nonreturnable basis—
 
 #### (a) Amount and time of water delivery to Service
 
-&emsp;the public organizations or agencies contracting with the Secretary of the Interior, excluding the State of California, shall deliver annually to the United States Fish and Wildlife Service (hereinafter referred to as the “Service”), at no cost to the United States, not less than three thousand five hundred acre-feet of water during the period October 1 through November 30, inclusive, and not less than four thousand acre-feet of water duringthe period May 1 through September 30, inclusive, if available: <i>Provided</i>, That such amounts of water and times of delivery may be changed upon approval of the Secretary of the Interior;
+&emsp;the public organizations or agencies contracting with the Secretary of the Interior, excluding the State of California, shall deliver annually to the United States Fish and Wildlife Service (hereinafter referred to as the “Service”), at no cost to the United States, not less than three thousand five hundred acre-feet of water during the period October 1 through November 30, inclusive, and not less than four thousand acre-feet of water during the period May 1 through September 30, inclusive, if available: <i>Provided</i>, That such amounts of water and times of delivery may be changed upon approval of the Secretary of the Interior;
 
 #### (b) Construction, operation, and maintenance of water conveyance facilities
 
@@ -22,7 +22,7 @@ The Secretary of the Interior is authorized to contract for the delivery of wate
 
 #### References in Text
 
-The Federal reclamation laws, referred to in introductory text, include the act of June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+The Federal reclamation laws, referred to in introductory text, are identified in section 695f of this title.
 
 #### Amendments
 

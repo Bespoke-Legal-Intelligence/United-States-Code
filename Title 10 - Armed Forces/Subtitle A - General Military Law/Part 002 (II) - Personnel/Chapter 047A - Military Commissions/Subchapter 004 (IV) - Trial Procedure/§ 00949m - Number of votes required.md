@@ -24,7 +24,7 @@ Sentences.—(1) No person may be sentenced by a military commission to suffer d
 
 Number of Members Required for Penalty of Death.—(1) Except as provided in paragraph (2), in a case in which the penalty of death is sought, the number of members of the military commission under this chapter shall be not less than 12.
 
-(2) In any case described in paragraph (1) in which 12 members are not reasonably available because of physical conditions or military exigencies, the convening authority shall specify a lesser number of members for the military commission (but not fewer than 9 members), and the military commission may be assembled, and the trial held, with not fewer than the number of members so specified. In such a case, the convening authority shall make a detailed written statement, to be appended to the record, stating why a greater number of members were not reasonably available.
+(2) In any case described in paragraph (1) in which 12 members are not reasonably availablebecause of physical conditions or military exigencies, the convening authority shall specify a lesser number of members for the military commission (but not fewer than 9 members), and the military commission may be assembled, and the trial held, with not fewer than the number of members so specified. In such a case, the convening authority shall make a detailed written statement, to be appended to the record, stating why a greater number of members were not reasonably available.
 
 (Added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2616.)
 

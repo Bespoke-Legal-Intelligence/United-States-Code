@@ -86,9 +86,19 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “affected shareholder” means any shareholder to whom a distribution is made by the S corporation during the taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1680; amended Pub. L. 97–448, title III, §305(d)(2), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, §721(r), July 18, 1984, 98 Stat. 970; Pub. L. 99–514, title XVIII, §1879(m)(1)(B), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 104–188, title I, §1309(a)(2)–(c), Aug. 20, 1996, 110 Stat. 1783.)
+#### (f) Restricted bank director stock
+
+If a director receives a distribution (not in part or full payment in exchange for stock) from an S corporation with respect to any restricted bank director stock (as defined in section 1361(f)), the amount of such distribution—
+
+&emsp;(1) shall be includible in gross income of the director, and
+
+&emsp;(2) shall be deductible by the corporation for the taxable year of such corporation in which or with which ends the taxable year in which such amount in <sup>1</sup> included in the gross income of the director.
+
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1680; amended Pub. L. 97–448, title III, §305(d)(2), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, §721(r), July 18, 1984, 98 Stat. 970; Pub. L. 99–514, title XVIII, §1879(m)(1)(B), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 104–188, title I, §1309(a)(2)–(c), Aug. 20, 1996, 110 Stat. 1783; Pub. L. 110–28, title VIII, §8232(b), May 25, 2007, 121 Stat. 197.)
 
 #### Amendments
+
+2007—Subsec. (f). Pub. L. 110–28 added subsec. (f).
 
 1996—Subsec. (d). Pub. L. 104–188, §1309(a)(2), inserted at end “In the case of any distribution made during any taxable year, the adjusted basis of the stock shall be determined with regard to the adjustments provided in paragraph (1) of section 1367(a) for the taxable year.”
 
@@ -103,6 +113,10 @@ Subsec. (e)(1)(C). Pub. L. 104–188, §1309(b), added subpar. (C).
 Subsec. (e)(1)(A). Pub. L. 98–369, §721(r)(1), substituted “(except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase ‘(but not below zero)’ shall be disregarded in section 1367(b)(2)(A))” for “(except that no adjustment shall be made for income which is exempt from tax under this title and no adjustment shall be made for any expense not deductible in computing the corporation's taxable income and not properly chargeable to capital account)”.
 
 1983—Subsec. (e)(3). Pub. L. 97–448 added par. (3).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–28 applicable to taxable years beginning after Dec. 31, 2006, with special rule for treatment as second class of stock, see section 8232(c) of Pub. L. 110–28, set out as a note under section 1361 of this title.
 
 #### Effective Date of 1996 Amendment
 

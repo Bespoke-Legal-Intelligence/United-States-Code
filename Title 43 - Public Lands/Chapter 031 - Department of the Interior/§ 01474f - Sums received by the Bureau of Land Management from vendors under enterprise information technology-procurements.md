@@ -1,0 +1,6 @@
+### §1474f. Sums received by the Bureau of Land Management from vendors under enterprise information technology-procurements
+
+Sums not to exceed 1 percent of the total value of procurements received by the Bureau of Land Management from vendors under enterprise information technology-procurements that the Department of the Interior and other Federal Government agencies may use to order information technology on and after December 26, 2007, may be deposited into the Management of Lands and Resources account to offset costs incurred in conducting the procurement.
+
+(Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2101.)
+

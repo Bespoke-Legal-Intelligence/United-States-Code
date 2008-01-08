@@ -8,7 +8,7 @@ The provisions of Reorganization Plan Numbered 1 of 1953, submitted to the Congr
 
 Reorganization Plan Numbered 1 of 1953, referred to in text, is Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, which is set out as a note below and in the Appendix to Title 5, Government Organization and Employees.
 
-The Reorganization Act of 1949, as amended, referred to in text, is act June 20, 1949, ch. 226, 63 Stat. 203, which enacted sections 133z to 133z–15 of former Title 5, Executive Departments and Government Officers and Employees. Sections 133z to 133z–15 of former Title 5 were repealed and reenacted as sections 901 to 913 of Title 5, Government Organizations and Employees, byPub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. Section 913 of Title 5 has been omitted from the Code. Section 9 of the Reorganization Act of 1949, which enacted section 133z–7 of former Title 5, was also repealed and reenacted as section 907(a) to (c) of Title 5 by Pub. L. 89–554.
+The Reorganization Act of 1949, as amended, referred to in text, is act June 20, 1949, ch. 226, 63 Stat. 203, which enacted sections 133z to 133z–15 of former Title 5, Executive Departments and Government Officers and Employees. Sections 133z to 133z–15 of former Title 5 were repealed and reenacted as sections 901 to 913 ofTitle 5, Government Organizations and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. Section 913 of Title 5 has been omitted from the Code. Section 9 of the Reorganization Act of 1949, which enacted section 133z–7 of former Title 5, was also repealed and reenacted as section 907(a) to (c) of Title 5 by Pub. L. 89–554.
 
 #### Codification
 
@@ -74,7 +74,7 @@ There is hereby established an executive department, which shall be known as the
 
 #### Sec. 2. Under Secretary and Assistant Secretaries
 
-There shall be in the Department an Under Secretary of Health, Education, and Welfare and two Assistant Secretaries of Health, Education, and Welfare, each of whom shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions as the Secretary may prescribe, and shall receive compensation at the rate now or hereafter provided by law for under secretaries and assistant secretaries, respectively, of executive departments. The Under Secretary (or, during the absence or disability of the Under Secretary or in the event of a vacancy in theoffice of Under Secretary, an Assistant Secretary determined according to such order as the Secretary shall prescribe) shall act as Secretary during the absence or disability of the Secretary or in the event of a vacancy in the office of Secretary.
+There shall be in the Department an Under Secretary of Health, Education, and Welfare and two Assistant Secretaries of Health, Education, and Welfare, each of whom shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions as the Secretary may prescribe, and shall receive compensation at the rate now or hereafter provided by law for under secretaries and assistant secretaries, respectively, of executive departments. The Under Secretary (or, during the absence or disability ofthe Under Secretary or in the event of a vacancy in the office of Under Secretary, an Assistant Secretary determined according to such order as the Secretary shall prescribe) shall act as Secretary during the absence or disability of the Secretary or in the event of a vacancy in the office of Secretary.
 
 #### Sec. 3. Special Assistant
 
@@ -230,7 +230,7 @@ Sec. 9. <i>Orders superseded</i>. Executive Order No. 11136 of January 3, 1964, 
 
 Ex. Ord. No. 11702, Jan. 25, 1973, 38 F.R. 2957, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-Under and by virtue of the authority vested in me by section 301 of title 3 of the United States Code \[section 301 of title 3, The President\] and as President of theUnited States of America, it is hereby ordered as follows:
+Under and by virtue of the authority vested in me by section 301 of title 3 of the United States Code \[section 301 of title 3, The President\] and as President of the United States of America, it is hereby ordered as follows:
 
 Section 1. The Office of Consumer Affairs, established by Executive Order No. 11583 of February 24, 1971, as amended by Executive Order No. 11595 of May 26, 1971 \[set out above\], together with its functions, is hereby transferred from the Executive Office of the President to the Department of Health and Human Services. The Director of the Office of Consumer Affairs shall continue as the Special Assistant to the President for Consumer Affairs.
 

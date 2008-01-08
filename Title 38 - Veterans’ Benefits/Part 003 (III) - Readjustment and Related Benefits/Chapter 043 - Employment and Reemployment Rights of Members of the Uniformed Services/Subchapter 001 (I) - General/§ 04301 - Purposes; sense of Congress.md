@@ -110,7 +110,7 @@ Referral of Other Claims Against Federal Executive Agencies.—(1) Under the dem
 
 &emsp;“(B) may refer any claim described in paragraph (2) filed before the demonstration project that is pending before the Secretary at the beginning of the demonstration project.
 
-“(2) A claim referred to in paragraph (1) is a claim under chapter 43 of title 38, United States Code, against a Federal executive agency by a claimant with a socialsecurity account number with an odd number as its terminal digit, or, in the case of a claim that does not contain a social security account number, a case number assigned to the claim with an odd number as its terminal digit.
+“(2) A claim referred to in paragraph (1) is a claim under chapter 43 of title 38, United States Code, against a Federal executive agency by a claimant with a social security account number with an odd number as its terminal digit, or, in the case of a claim that does not contain a social security account number, a case number assigned to the claim with an odd number as its terminal digit.
 
 “(d)
 

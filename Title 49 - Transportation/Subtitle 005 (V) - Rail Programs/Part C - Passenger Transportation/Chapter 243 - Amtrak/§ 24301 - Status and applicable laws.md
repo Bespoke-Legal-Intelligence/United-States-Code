@@ -16,7 +16,7 @@ Principal Office and Place of Business.—The principal office and place of busi
 
 (c)
 
-Application of Subtitle IV.—Subtitle IV of this title shall not apply to Amtrak, except for sections 11123, 11301, 11322(a), 11502, and 11706. Notwithstanding the preceding sentence, Amtrak shall continue to be considered an employer under the Railroad Retirement Act of 1974, the Railroad Unemployment Insurance Act, and the Railroad Retirement Tax Act.
+Application of Subtitle IV.—Subtitle IV of this title shall not apply to Amtrak, exceptfor sections 11123, 11301, 11322(a), 11502, and 11706. Notwithstanding the preceding sentence, Amtrak shall continue to be considered an employer under the Railroad Retirement Act of 1974, the Railroad Unemployment Insurance Act, and the Railroad Retirement Tax Act.
 
 (d)
 
@@ -70,7 +70,7 @@ In general.—Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or 
 
 (m)
 
-Waste Disposal.—(1) An intercity rail passenger car manufactured after October 14,1990, shall be built to provide for the discharge of human waste only at a servicing facility. Amtrak shall retrofit each of its intercity rail passenger cars that was manufactured after May 1, 1971, and before October 15, 1990, with a human waste disposal system that provides for the discharge of human waste only at a servicing facility. Subject to appropriations—
+Waste Disposal.—(1) An intercity rail passenger car manufactured after October 14, 1990, shall be built to provide for the discharge of human waste only at a servicing facility. Amtrak shall retrofit each of its intercity rail passenger cars that was manufactured after May 1, 1971, and before October 15, 1990, with a human waste disposal system that provides for the discharge of human waste only at a servicing facility. Subject to appropriations—
 
 &emsp;(A) the retrofit program shall be completed not later than October 15, 2001; and
 
@@ -80,9 +80,13 @@ Waste Disposal.—(1) An intercity rail passenger car manufactured after October
 
 (n)
 
-Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
+Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contractair program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–134, title I, §§106(b), 110(a), title II, §208, title IV, §§401, 402, 415(d)(1), Dec. 2, 1997, 111 Stat. 2573, 2574, 2584, 2585, 2590; Pub. L. 108–199, div. F, title I, §150(2), Jan. 23, 2004, 118 Stat. 303.)
+(<i>o</i>)
+
+Applicability of District of Columbia Law.—Any lease or contract entered into between Amtrak and the State of Maryland, or any department or agency of the State of Maryland, after the date of the enactment of this subsection shall be governed by the laws of the District of Columbia.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–134, title I, §§106(b), 110(a), title II, §208, title IV, §§401, 402, 415(d)(1), Dec. 2, 1997, 111 Stat. 2573, 2574, 2584, 2585, 2590; Pub. L. 108–199, div. F, title I, §150(2), Jan. 23, 2004, 118 Stat. 303; Pub. L. 110–53, title XV, §1527, Aug. 3, 2007, 121 Stat. 452.)
 
 Historical and Revision Notes
 
@@ -252,7 +256,11 @@ The Railroad Retirement Tax Act, referred to in subsec. (c), is act Aug. 16, 195
 
 The District of Columbia Business Corporation Act, referred to in subsec. (e), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
 
+The date of the enactment of this subsection, referred to in subsec. (<i>o</i>), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
+
 #### Amendments
+
+2007—Subsec. (<i>o</i>). Pub. L. 110–53 added subsec. (<i>o</i>).
 
 2004—Subsec. (c). Pub. L. 108–199 inserted “11123,” after “except for sections”.
 
@@ -306,7 +314,7 @@ Pub. L. 101–610, title VI, §601(d), (e), Nov. 16, 1990, 104 Stat. 3186, provi
 
 “(d) Not later than 1 year after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation, after appropriate notice and comment, and in consultation with the National Railroad Passenger Corporation, the Administrator of the Environmental Protection Agency, the Surgeon General, and State and local officials shall promulgate such regulations as may be necessary to mitigate the impact of the discharge of human waste from railroad passenger cars on areas that may be considered environmentally sensitive.
 
-“(e) Not later than 1 year after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall promulgate regulations directing the National Railroad Passenger Corporation to, where appropriate, publish printed information, and make publicaddress announcements, explaining its existing disposal technology and the retrofit and new equipment program, and encouraging passengers using existing equipment not to dispose of wastes in stations, railroad yards, or while the train is moving through environmentally sensitive areas.”
+“(e) Not later than 1 year after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall promulgate regulations directing the National Railroad Passenger Corporation to, where appropriate, publish printed information, and make public address announcements, explaining its existing disposal technology and the retrofit and new equipment program, and encouraging passengers using existing equipment not to dispose of wastes in stations, railroad yards, or while the train is moving through environmentally sensitive areas.”
 
 #### Passenger Choice
 
@@ -318,5 +326,5 @@ Pub. L. 105–134, title I, §110(b), Dec. 2, 1997, 111 Stat. 2574, provided tha
 
 #### Exemption From Laws Relating to Abandoned or Unclaimed Property
 
-Pub. L. 104–205, title III, §347, Sept. 30, 1996, 110 Stat. 2976, provided that: “Hereinafter, the National Railroad Passenger Corporation (Amtrak) shall be exempted from any State or local law relating to the payment or delivery of abandoned or unclaimed personal property to any government authority, including any provision for the enforcement thereof, with respect to passenger rail tickets for which no refund has been or may be claimed, and such law shall not apply to funds held by Amtrak as a result of the purchase of tickets after April 30, 1972 for which no refund has been claimed.”
+Pub. L. 104–205, title III, §347, Sept. 30, 1996, 110 Stat. 2976, provided that: “Hereinafter, the National RailroadPassenger Corporation (Amtrak) shall be exempted from any State or local law relating to the payment or delivery of abandoned or unclaimed personal property to any government authority, including any provision for the enforcement thereof, with respect to passenger rail tickets for which no refund has been or may be claimed, and such law shall not apply to funds held by Amtrak as a result of the purchase of tickets after April 30, 1972 for which no refund has been claimed.”
 

@@ -70,9 +70,13 @@ The Secretary shall evaluate each project carried out under subsection (a) of th
 
 #### (2) Allocation
 
-&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, not less than $300,000 shall, for purposes relating to fetal alcohol syndrome and alcohol-related birth defects, be made available for collaborative, coordinated interagency efforts with the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Child Health and Human Development, the Health Resources and Services Administration, the Agency for Healthcare Research and Quality, the Centers for Disease Control and Prevention, the Department of Education, and the Department of Justice.
+&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, not less than $300,000 shall, for purposes relating to fetal alcohol syndrome and alcohol-related birth defects, be made available for collaborative, coordinated interagency efforts with the National Institute on Alcohol Abuse and Alcoholism, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the Health Resources and Services Administration, the Agency for Healthcare Research and Quality, the Centers for Disease Control and Prevention, the Department of Education, and the Department of Justice.
 
-(July 1, 1944, ch. 373, title V, §519C, as added Pub. L. 106–310, div. B, title XXXI, §3110, Oct. 17, 2000, 114 Stat. 1183.)
+(July 1, 1944, ch. 373, title V, §519C, as added Pub. L. 106–310, div. B, title XXXI, §3110, Oct. 17, 2000, 114 Stat. 1183; amended Pub. L. 110–154, §1(b)(9), Dec. 21, 2007, 121 Stat. 1827.)
+
+#### Amendments
+
+2007—Subsec. (g)(2). Pub. L. 110–154, which directed substitution of “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”, was executed by making the substitution for “National Institute on Child Health and Human Development” to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “provide”.</i>
 

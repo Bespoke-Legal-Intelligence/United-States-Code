@@ -52,7 +52,7 @@
 
 &emsp;With respect to graduates described in paragraph (1) (in this paragraph referred to as “designated graduates”), the conditions referred to in such paragraph for a school for a 1-year period are as follows:
 
-&emsp;&emsp;(A) Not less than 50 percent of designated graduates of the school meet the criterion ofeither being in a residency training program in primary health care, or being engaged in a practice in such care (having completed such a program).
+&emsp;&emsp;(A) Not less than 50 percent of designated graduates of the school meet the criterion of either being in a residency training program in primary health care, or being engaged in a practice in such care (having completed such a program).
 
 &emsp;&emsp;(B) Not less than 25 percent of the designated graduates of the school meet such criterion, and such percentage is not less than 5 percentage points above the percentage of such graduates meeting such criterion for the preceding 1-year period.
 
@@ -60,7 +60,7 @@
 
 #### (3) Determinations by Secretary
 
-&emsp;Not later than 90 days after the close of each 1-year period described in paragraph (1), the Secretary shall make a determination of whether the school involved has for such period complied with such paragraph and shall in writing inform the school of the determination. Such determination shall be made only after consideration of the report submitted to the Secretary by the school under paragraph (6).
+&emsp;Not later than 90 days after the close of each 1-year period described in paragraph (1), theSecretary shall make a determination of whether the school involved has for such period complied with such paragraph and shall in writing inform the school of the determination. Such determination shall be made only after consideration of the report submitted to the Secretary by the school under paragraph (6).
 
 #### (4) Noncompliance by school
 
@@ -126,7 +126,7 @@ A prior section 723 of act July 1, 1944, was classified to section 293c of this 
 
 Subsec. (b)(1). Pub. L. 105–392, §131(a), substituted “4 years before” for “3 years before”.
 
-Subsecs. (c), (d). Pub. L. 105–392, §131(c), redesignated subsec. (d) as (c) and struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall each fiscal year submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report regarding the administration of this section, including the extent of compliance with the requirements of this section, during the preceding fiscal year.”
+Subsecs. (c), (d). Pub. L. 105–392, §131(c), redesignated subsec. (d) as (c) and struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall each fiscal year submit to the Committee on Energyand Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report regarding the administration of this section, including the extent of compliance with the requirements of this section, during the preceding fiscal year.”
 
 1993—Subsec. (a)(4). Pub. L. 103–43, §2014(c)(1), added par. (4).
 

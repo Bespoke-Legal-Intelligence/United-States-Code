@@ -26,7 +26,7 @@ The second paragraph was based in part on former section 73 of title 5, 1940 ed.
 
 Section 6 of the Travel Expense Act of 1949, which is codified in section 5706 of title 5, United States Code, substantially reenacted former section 73 of title 5, 1940 ed., which was repealed by the Act of June 25, 1948, ch. 646, by which title 28 was originally enacted. The purpose of section 6 was to allow reimbursement for only such actual and necessary travel expenses incurred unless otherwise permitted by the Act of 1949 itself or by laws relating to the military. Section 6 did not, however, provide for the exception of United States attorneys as did former section 73.
 
-Sections 2 and 3 of the Act of 1949, which are codified in sections 5701 and 5702 of title 5, United States Code,defined the coverage of the Act and allowed for specific exclusions in the legislative and judicial branches but did not mention an exclusion in the executive branch for United States attorneys.
+Sections 2 and 3 of the Act of 1949, which are codified in sections 5701 and 5702 of title 5, United States Code, defined the coverage of the Act and allowed for specific exclusions in the legislative and judicial branches but did not mention an exclusion in the executive branch for United States attorneys.
 
 Section 7 of the 1949 Act, which is codified in section 5707 of title 5, United States Code, expressly vested in the Director of the Bureau of the Budget the authority to prescribe regulations covering travel allowances and the reimbursement of travel expenses.
 

@@ -56,7 +56,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### (A) In general
 
-&emsp;&emsp;The corporate officers or officially designated representatives of each packer processing plant that processes barrows or gilts shall report to the Secretary, for each business day of the packer, such information as the Secretary determines necessary and appropriate to—
+&emsp;&emsp;The corporate officers or officially designated representatives of each packer processing plant that processes barrows or gilts shall report to the Secretary, for each business day of the packer, such information asthe Secretary determines necessary and appropriate to—
 
 &emsp;&emsp;&emsp;(i) comply with the publication requirements of this section; and
 
@@ -118,7 +118,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;&emsp;&emsp;&emsp;(VIII) the average lean percentage, which shall be equal to the average percentage of the carcass weight comprised of lean meat for the barrows and gilts slaughtered during the applicable reporting period, except that when a packer is required to report the average lean percentage under this subclause, the packer shall make available to the Secretary the underlying data, applicable methodology and formulae, and supporting materials used to determine the average lean percentage, which the Secretary may convert to the carcass measurements or lean percentage of the barrows and gilts of the individual packer to correlate to a common percent lean measurement; and
 
-&emsp;&emsp;&emsp;&emsp;(IX) the total slaughter quantity, which shall be equal to the total number of barrows and gilts slaughtered during the applicable reporting period, including all types of purchases and barrows and gilts that qualify as packer-owned swine; and
+&emsp;&emsp;&emsp;&emsp;(IX) the total slaughter quantity, which shall be equal to the total numberof barrows and gilts slaughtered during the applicable reporting period, including all types of purchases and barrows and gilts that qualify as packer-owned swine; and
 
 &emsp;&emsp;&emsp;(iii) packer purchase commitments, which shall be equal to the number of barrows and gilts scheduled for delivery to a packer for slaughter for each of the next 14 calendar days.
 
@@ -154,7 +154,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### (B) Publication
 
-&emsp;&emsp;The Secretary shall publish the information obtained under this paragraph in themorning report as soon as practicable, but not later than 11:00 a.m. Central Time, on each reporting day.
+&emsp;&emsp;The Secretary shall publish the information obtained under this paragraph in the morning report as soon as practicable, but not later than 11:00 a.m. Central Time, on each reporting day.
 
 #### (3) Afternoon report
 

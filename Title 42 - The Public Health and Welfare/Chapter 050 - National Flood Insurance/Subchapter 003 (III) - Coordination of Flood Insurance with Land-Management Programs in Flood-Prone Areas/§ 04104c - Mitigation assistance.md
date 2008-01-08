@@ -34,7 +34,7 @@ The Director shall carry out a program to provide financial assistance to States
 
 #### (c) Eligibility for mitigation assistance
 
-To be eligible to receive financial assistance under this section for mitigation activities, a State or community shall develop, and have approved by the Director, a flood risk mitigation plan (in this section referred to as a “mitigation plan”), that describes the mitigation activities to be carried out with assistance provided under this section, is consistent with the criteria established by the Director under section 4102 of this title, and provides protection against flood losses to structures for which contracts for flood insurance are available under this chapter. The mitigation plan shall be consistent with a comprehensive strategy for mitigation activities for the area affected by the mitigation plan, that has been adopted by the State or community following a public hearing.
+To be eligible to receive financial assistance under this section for mitigation activities, aState or community shall develop, and have approved by the Director, a flood risk mitigation plan (in this section referred to as a “mitigation plan”), that describes the mitigation activities to be carried out with assistance provided under this section, is consistent with the criteria established by the Director under section 4102 of this title, and provides protection against flood losses to structures for which contracts for flood insurance are available under this chapter. The mitigation plan shall be consistent with a comprehensive strategy for mitigation activities for the area affected by the mitigation plan, that has been adopted by the State or community following a public hearing.
 
 #### (d) Notification of approval and grant award
 
@@ -58,7 +58,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (3) Standard for approval
 
-&emsp;The Director shall approve mitigation plans meeting the requirements for approval under paragraph (1) that will be most cost-beneficial to the National Flood Mitigation Fund. The Director may approve only mitigation plansthat give priority for funding to such properties, or to such subsets of properties, as are in the best interest of the National Flood Insurance Fund.
+&emsp;The Director shall approve mitigation plans meeting the requirements for approval under paragraph (1) that will be most cost-beneficial to the National Flood Mitigation Fund. The Director may approve only mitigation plans that give priority for funding to such properties, or to such subsets of properties, as are in the best interest of the National Flood Insurance Fund.
 
 #### (4) Priority for mitigation assistance
 
@@ -100,7 +100,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (3) Waiver
 
-&emsp;The Director may waive the dollar amount limitations under paragraphs (1) and (2) for any State or community for any 5-year period during which a major disaster or emergency declared by the President (pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]) as a result of flood conditions is in effect with respect to areas in the State or community.
+&emsp;The Director may waive the dollar amount limitations under paragraphs (1) and (2) for any State or community for any 5-year period during which a major disaster or emergency declared by the President (pursuant to theRobert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]) as a result of flood conditions is in effect with respect to areas in the State or community.
 
 #### (g) Matching requirement
 
@@ -122,7 +122,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (h) Oversight of mitigation plans
 
-The Director shall conduct oversight of recipients of mitigation assistance under this sectionto ensure that the assistance is used in compliance with the approved mitigation plans of the recipients and that matching funds certified under subsection (g) of this section are used in accordance with such certification.
+The Director shall conduct oversight of recipients of mitigation assistance under this section to ensure that the assistance is used in compliance with the approved mitigation plans of the recipients and that matching funds certified under subsection (g) of this section are used in accordance with such certification.
 
 #### (i) Recapture
 

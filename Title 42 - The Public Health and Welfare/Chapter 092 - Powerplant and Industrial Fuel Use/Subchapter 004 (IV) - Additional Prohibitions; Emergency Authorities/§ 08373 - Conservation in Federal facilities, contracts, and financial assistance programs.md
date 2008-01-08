@@ -14,7 +14,7 @@
 
 &emsp;(B) there is a lack of appropriation for such use but only if the President specifically requested such appropriations as a part of the budgetary process and the Congress failed to make available such requested appropriation.
 
-> Such order shall not take effect until 60 days after a copy of such order has been transmittedto each House of the Congress. The President shall review each such determination every 2 years and submit a report to the Congress on the results of such review.
+> Such order shall not take effect until 60 days after a copy of such order has been transmitted to each House of the Congress. The President shall review each such determination every 2 years and submit a report to the Congress on the results of such review.
 
 #### (b) Federal contracts and financial assistance
 
@@ -70,7 +70,7 @@ Proposed rules should be published within 30 days of the close of the comment pe
 
 1–105. Final rules shall be adopted by each agency in accordance with the provisions of Sections 102(b) \[42 U.S.C. 8301(b)\], 403(b) \[42 U.S.C. 8373(b)\] and 701(a) \[42 U.S.C. 8411(a)\] of the Powerplant and Industrial Fuel Use Act of 1978, and the provisions of this Order, not later than 180 days from the date of this Order.
 
-1–106. No one shall be awarded any financial assistance unless that award complies with the provisions ofthe conservation rules adopted by the agency pursuant to this Order.
+1–106. No one shall be awarded any financial assistance unless that award complies with the provisions of the conservation rules adopted by the agency pursuant to this Order.
 
 1–107. To the extent permitted by law and where not inconsistent with the financial assistance program, final rules may provide for the reduction or suspension of financial assistance under any award. Such reduction or suspension shall not be ordered until there has been an opportunity for a hearing on the record, and shall last for such time as the recipient fails to comply with the terms of the conservation rule.
 

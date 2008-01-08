@@ -56,7 +56,7 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 
 #### Codification
 
-Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
+Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1stSession, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
 
 #### Amendments
 
@@ -93,6 +93,158 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### Strategy for the United States Relationship With Pakistan
+
+Pub. L. 110–53, title XX, §2042(a)–(f), Aug. 3, 2007, 121 Stat. 520–523, provided that:
+
+“(a)
+
+Congressional Findings.—Congress finds the following:
+
+&emsp;“(1) A democratic, stable, and prosperous Pakistan that is a full and reliable partner in the struggle against the Taliban, al Qaeda, and other terrorist groups, and is a responsible steward of its nuclear weapons and technology, is vital to the national security of the United States.
+
+&emsp;“(2) Since September 11, 2001, the Government of Pakistan has been a critical ally and an important partner in removing the Taliban regime in Afghanistan and combating al Qaeda.
+
+&emsp;“(3) Pakistan has made great sacrifices in the shared struggle against al Qaeda-affiliated terrorist groups, engaging in military operations that have led to the deaths of hundreds of Pakistani security personnel and enduring acts of terrorism that have killed hundreds of Pakistani civilians.
+
+&emsp;“(4) Publicly-stated goals of the Government of Pakistan and the national interests of the United States are in close agreement in many areas, including—
+
+&emsp;&emsp;“(A) curbing the proliferation of nuclear weapons technology;
+
+&emsp;&emsp;“(B) combating poverty and corruption;
+
+&emsp;&emsp;“(C) enabling effective government institutions, including public education;
+
+&emsp;&emsp;“(D) promoting democracy and the rule of law, particularly at the national level;
+
+&emsp;&emsp;“(E) addressing the continued presence of Taliban and other violent extremist forces throughout the country;
+
+&emsp;&emsp;“(F) maintaining the authority of the Government of Pakistan in all parts of its national territory;
+
+&emsp;&emsp;“(G) securing the borders of Pakistan to prevent the movement of militants and terrorists into other countries and territories; and
+
+&emsp;&emsp;“(H) effectively dealing with violent extremism.
+
+&emsp;“(5) The opportunity exists for shared effort in helping to achieve correlative goals with the Government of Pakistan, particularly—
+
+&emsp;&emsp;“(A) increased United States assistance to Pakistan, as appropriate, to achieve progress in meeting the goals of subparagraphs (A) through (C) of paragraph (4);
+
+&emsp;&emsp;“(B) increased commitment on the part of the Government of Pakistan to achieve the goals of paragraph (4)(D), particularly given continued concerns, based on the conduct of previous elections, regarding whether parliamentary elections scheduled for 2007 will be free, fair, and inclusive of all political parties and carried out in full accordance with internationally-recognized democratic norms; and
+
+&emsp;&emsp;“(C) increased commitment on the part of the Government of Pakistan to take actions described in paragraph (4)(E), particularly given—
+
+&emsp;&emsp;&emsp;“(i) the continued operation of the Taliban's Quetta shura, as noted by then-North Atlantic Treaty Organization Supreme Allied Commander General James Jones in testimony before the Senate Foreign Relations Committee on September 21, 2006; and
+
+&emsp;&emsp;&emsp;“(ii) the continued operation of al Qaeda affiliates Lashkar-e Taiba and Jaish-e Muhammad, sometimes under different names, as demonstrated by the lack of meaningful action taken against Hafiz Muhammad Saeed, Maulana Masood Azhar, and other known leaders and members of such terrorist organizations; and
+
+&emsp;&emsp;“(D) increased commitment on the part of the Government of the United States in regard to working with all elements of Pakistan \[sic\] society in helping to achieve the correlative goals described in subparagraphs (A) through (H) of paragraph (4).
+
+“(b)
+
+Statements of Policy.—The following shall be the policy of the United States:
+
+&emsp;“(1) To maintain and deepen its friendship and long-term strategic relationship with Pakistan.
+
+&emsp;“(2) To work with the Government of Pakistan to combat international terrorism, especially in the frontier provinces of Pakistan, and to end the use of Pakistan as a safe haven for terrorist groups, including those associated with al Qaeda or the Taliban.
+
+&emsp;“(3) To support robust funding for programs of the United States Agency for International Development and the Department of State that assist the Government of Pakistan in working toward the goals described in subsection (a)(4), as the Government of Pakistan demonstrates a clear commitment to building a moderate, democratic state.
+
+&emsp;“(4) To work with the international community to secure additional financial and political support to effectively implement the policies set forth in this subsection.
+
+&emsp;“(5) To facilitate a just resolution of the dispute over the territory of Kashmir, to the extent that such facilitation is invited and welcomed by the Governments of Pakistan and India and by the people of Kashmir.
+
+&emsp;“(6) To facilitate greater communication and cooperation between the Governments of Afghanistan and Pakistan for the improvement of bilateral relations and cooperation in combating terrorism in both countries.
+
+&emsp;“(7) To work with the Government of Pakistan to dismantle existing proliferation networks and prevent the proliferation of nuclear technology.
+
+“(c)
+
+Strategy Relating to Pakistan.—
+
+&emsp;“(1)
+
+Requirement for report on strategy.—Not later than 90 days after the date of the enactment of this Act \[Aug. 3, 2007\], the President shall transmit to the appropriate congressional committees a report that describes the long-term strategy of the United States to engage with the Government of Pakistan to achieve the goals described in subparagraphs (A) through (H) of subsection (a)(4) and to carry out the policies described in subsection (b).
+
+&emsp;“(2)
+
+Form.—The report required by paragraph (1) shall be transmitted in unclassified form, but may include a classified annex, if necessary.
+
+“(d)
+
+Limitation on United States Security Assistance to Pakistan.—
+
+&emsp;“(1)
+
+Limitation.—For fiscal year 2008, United States assistance under chapter 2 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2311 et seq.) or section 23 of the Arms Export Control Act (22 U.S.C. 2763) may not be provided to, and a license for any item controlled under the Arms Export Control Act (22 U.S.C. 2751 et seq.) may not be approved for, Pakistan until the President transmits to the appropriate congressional committees a report that contains a determination of the President that the Government of Pakistan—
+
+&emsp;&emsp;“(A) is committed to eliminating from Pakistani territory any organization such as the Taliban, al Qaeda, or any successor, engaged in military, insurgent, or terrorist activities in Afghanistan;
+
+&emsp;&emsp;“(B) is undertaking a comprehensive military, legal, economic, and political campaign to achieving the goal described in subparagraph (A); and
+
+&emsp;&emsp;“(C) is currently making demonstrated, significant, and sustained progress toward eliminating support or safe haven for terrorists.
+
+&emsp;“(2)
+
+Memorandum of justification.—The President shall include in the report required by paragraph (1) a memorandum of justification setting forth the basis for the President's determination under paragraph (1).
+
+&emsp;“(3)
+
+Form.—The report required by paragraph (1) and the memorandum of justification required by paragraph (2) shall be transmitted in unclassified form, but may include a classified annex, if necessary.
+
+“(e)
+
+Nuclear Proliferation.—
+
+&emsp;“(1)
+
+Congressional finding.—Congress finds that the maintenance by any country of a procurement or supply network for the illicit proliferation of nuclear and missile technologies would be inconsistent with that country being considered an ally of the United States.
+
+&emsp;“(2)
+
+Sense of congress.—It is the sense of Congress that the national security interest of the United States will best be served if the United States develops and implements a long-term strategy to improve the United States relationship with Pakistan and works with the Government of Pakistan to stop nuclear proliferation.
+
+“(f)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There is authorized to be appropriated to the President such sums as may be necessary to provide assistance described in subsection (d)(1) for Pakistan for fiscal year 2008 in accordance with the requirements of subsection (d)(1).
+
+&emsp;“(2)
+
+Other funds.—Amounts authorized to be appropriated under this subsection are in addition to amounts otherwise available for such purposes.
+
+&emsp;“(3)
+
+Declaration of policy.—Congress declares that the amount of funds appropriated pursuant to the authorization of appropriations under paragraph (1) and for subsequent fiscal years shall be determined by the extent to which the Government of Pakistan displays demonstrable progress in—
+
+&emsp;&emsp;“(A) preventing al Qaeda and other terrorist organizations from operating in the territory of Pakistan, including eliminating terrorist training camps or facilities, arresting members and leaders of terrorist organizations, and countering recruitment efforts;
+
+&emsp;&emsp;“(B) preventing the Taliban from using the territory of Pakistan as a sanctuary from which to launch attacks within Afghanistan, including by arresting Taliban leaders, stopping cross-border incursions, and countering recruitment efforts; and
+
+&emsp;&emsp;“(C) implementing democratic reforms, including allowing free, fair, and inclusive elections at all levels of government in accordance with internationally-recognized democratic norms, and respecting the independence of the press and judiciary.
+
+&emsp;“(4)
+
+Biannual reports to congress.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary of State shall submit to the appropriate congressional committees a biannual report describing in detail the extent to which the Government of Pakistan has displayed demonstrable progress in meeting the goals described in subparagraphs (A) through (C) of paragraph (3).
+
+&emsp;&emsp;“(B)
+
+Schedule for submission.—The report required by subparagraph (A) shall be submitted not later than April 15 and October 15 of each year until October 15, 2009.
+
+&emsp;&emsp;“(C)
+
+Form.—The report required by subparagraph (A) shall be submitted in unclassified form, but may include a classified annex, if necessary.”
+
+\[For definition of “appropriate congressional committees” as used in section 2042(a)–(f) of Pub. L. 110–53, set out above, see section 2002 of Pub. L. 110–53, set out as a note under section 2151 of this title.\]
+
+\[Functions of President under section 2042(c)(1), (d) of Pub. L. 110–53, set out above, assigned to Secretary of State by Memorandum of President of the United States, Sept. 28, 2007, 72 F.R. 56871, set out as a note under section 2228 of this title.\]
 
 #### Nuclear Non-Proliferation Conditions on Assistance for Pakistan
 

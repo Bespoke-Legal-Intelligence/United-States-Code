@@ -124,7 +124,7 @@ This subchapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the ori
 
 Title III of this Act, referred to in subsecs. (g)(2) and (<i>l</i>), is title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, and amended, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
 
-The Act of July 3, 1952, referred to in subsec. (h)(2), is act July 3, 1952, ch. 549, 66 Stat. 323, which enacted section 82a of this title and provisions set out as a note under section 82a of this title.
+The Act of July 3, 1952, referred to in subsec. (h)(2), is act July 3, 1952, ch. 549, 66 Stat. 323, which enactedsection 82a of this title and provisions set out as a note under section 82a of this title.
 
 Part A of this subchapter, referred to in subsec. (<i>l</i>), was in the original “title I of this Act”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -135,10 +135,6 @@ Part A of this subchapter, referred to in subsec. (<i>l</i>), was in the origina
 1998—Subsec. (b)(4)(A). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
 
 1996—Subsec. (<i>l</i>). Pub. L. 104–109 added subsec. (<i>l</i>).
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1998 Amendment
 

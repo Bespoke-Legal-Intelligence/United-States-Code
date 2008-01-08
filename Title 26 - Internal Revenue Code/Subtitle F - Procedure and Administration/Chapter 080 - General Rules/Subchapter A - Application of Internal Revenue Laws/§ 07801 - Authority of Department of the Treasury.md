@@ -236,7 +236,7 @@ Nonabatement of actions.—No suit, action, or other proceeding commenced by or 
 
 &emsp;“(6)
 
-Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the Department of the Treasury (or anyadministrative unit of the Department, including the Internal Revenue Service) relating to a function transferred or affected by the reorganization under this section may be continued by the Department of the Treasury through any appropriate administrative unit of the Department, including the Internal Revenue Service with the same effect as if this section had not been enacted.
+Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the Department of the Treasury (or any administrative unit of the Department, including the Internal Revenue Service) relating to a function transferred or affected by the reorganization under this section may be continued by the Department of the Treasury through any appropriate administrative unit of the Department, including the Internal Revenue Service with the same effect as if this section had not been enacted.
 
 “(c)
 
@@ -560,7 +560,7 @@ Authorization of Appropriations.—Such sums as may be necessary are authorized 
 
 Appropriations.—Notwithstanding any other provision of this Act, $1,000,000 shall be available from fiscal year 1996 funds appropriated to the Internal Revenue Service, ‘Information systems’ account, for the activities of the Commission, to remain available until expended.”
 
-\[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(f)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, provided that: “The amendments made by this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of theTreasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\].”\]
+\[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(f)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, provided that: “The amendments made by this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\].”\]
 
 \[Pub. L. 104–134, title II, §2904(b), Apr. 26, 1996, 110 Stat. 1321–333, provided that: “The amendments made by this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\].”\]
 
@@ -574,7 +574,7 @@ Pub. L. 100–647, title VI, §6227, Nov. 10, 1988, 102 Stat. 3731, provided tha
 
 “(a)
 
-In General.—The Secretary of the Treasury shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[Nov. 10, 1988\], prepare a statement which sets forth in simple and nontechnical terms—
+In General.—The Secretary of the Treasury shall, as soon as practicable, but not later than 180 daysafter the date of the enactment of this Act \[Nov. 10, 1988\], prepare a statement which sets forth in simple and nontechnical terms—
 
 &emsp;“(1) the rights of a taxpayer and the obligations of the Internal Revenue Service (hereinafter in this section referred to as the ‘Service’) during an audit;
 

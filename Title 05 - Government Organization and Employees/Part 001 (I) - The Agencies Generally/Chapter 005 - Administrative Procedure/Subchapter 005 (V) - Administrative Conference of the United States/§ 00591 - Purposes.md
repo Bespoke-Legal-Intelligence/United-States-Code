@@ -12,7 +12,7 @@ The purposes of this subchapter are—
 
 &emsp;(5) to improve the effectiveness of laws applicable to the regulatory process.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 388, §571; renumbered §591, Pub. L. 102–354, §2(2), Aug. 26,1992, 106 Stat. 944; Pub. L. 108–401, §2(a), Oct. 30, 2004, 118 Stat. 2255.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 388, §571; renumbered §591, Pub. L. 102–354, §2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 108–401, §2(a), Oct. 30, 2004, 118 Stat. 2255.)
 
 Historical and Revision Notes
 
@@ -38,7 +38,7 @@ A prior section 591 was renumbered section 581 of this title.
 
 #### Amendments
 
-2004—Pub. L. 108–401 amended section catchline and text generally. Prior to amendment, text read as follows: “It is the purpose of this subchapter to provide suitable arrangements through which Federal agencies, assisted by outside experts, may cooperatively study mutual problems, exchange information, and develop recommendations for action by proper authorities to the end that private rights may be fully protected and regulatory activities and other Federal responsibilities may be carried out expeditiously in the public interest.”
+2004—Pub. L. 108–401 amended section catchline and text generally. Prior to amendment, text read as follows: “It is the purpose of this subchapter to providesuitable arrangements through which Federal agencies, assisted by outside experts, may cooperatively study mutual problems, exchange information, and develop recommendations for action by proper authorities to the end that private rights may be fully protected and regulatory activities and other Federal responsibilities may be carried out expeditiously in the public interest.”
 
 1992—Pub. L. 102–354 renumbered section 571 of this title as this section.
 

@@ -142,7 +142,7 @@ Subsec. (d). Pub. L. 108–357, §812(c)(1), added subsec. (d).
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 1219(a)(3) of Pub. L. 109–280 applicable to returns filed after Aug. 17, 2006, with special rule for certain easements, see section 1219(e)(1), (3), ofPub. L. 109–280, set out as a note under section 170 of this title.
+Amendment by section 1219(a)(3) of Pub. L. 109–280 applicable to returns filed after Aug. 17, 2006, with special rule for certain easements, see section 1219(e)(1), (3), of Pub. L. 109–280, set out as a note under section 170 of this title.
 
 Amendment by section 1219(c)(2) of Pub. L. 109–280 applicable to appraisals prepared with respect to returns or submissions filed after Aug. 17, 2006, see section 1219(e)(2) of Pub. L. 109–280, set out as a note under section 170 of this title.
 

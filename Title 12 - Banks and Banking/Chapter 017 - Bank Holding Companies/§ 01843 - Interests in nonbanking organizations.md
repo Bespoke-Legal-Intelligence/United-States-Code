@@ -34,7 +34,7 @@ The prohibitions in this section shall not apply to (i) any company that was on 
 
 &emsp;(8) shares of any company the activities of which had been determined by the Board by regulation or order under this paragraph as of the day before November 12, 1999, to be so closely related to banking as to be a proper incident thereto (subject to such terms and conditions contained in such regulation or order, unless modified by the Board);
 
-&emsp;(9) shares held or activities conducted by any company organized under the laws of aforeign country the greater part of whose business is conducted outside the United States, if the Board by regulation or order determines that, under the circumstances and subject to the conditions set forth in the regulation or order, the exemption would not be substantially at variance with the purposes of this chapter and would be in the public interest;
+&emsp;(9) shares held or activities conducted by any company organized under the laws of a foreign country the greater part of whose business is conducted outside the United States, if the Board by regulation or order determines that, under the circumstances and subject to the conditions set forth in the regulation or order, the exemption would not be substantially at variance with the purposes of this chapter and would be in the public interest;
 
 &emsp;(10) shares lawfully acquired and owned prior to May 9, 1956, by a bank which is a bank holding company, or by any of its wholly owned subsidiaries;
 
@@ -72,11 +72,11 @@ Leverage.—The Board may not disapprove any proposed investment solely on the b
 
 &emsp;&emsp;(vii) A proposed investment may be made prior to the expiration of the disapproval period if the Board issues written notice of its intent not to disapprove the investment.
 
-&emsp;&emsp;(B)(i) The total amount of extensions of credit by a bank holding company which invests in an export trading company, when combined with all such extensions of credit by all the subsidiaries of such bank holding company, to an export trading company shall not exceed at any one time 10 per centum of the bank holding company's consolidated capital and surplus. For purposes of the preceding sentence, an extension of credit shall not be deemed to include any amount invested by a bank holding company in the shares of an export trading company.
+&emsp;&emsp;(B)(i) The total amount of extensions of credit by a bank holding company which invests in an export trading company, when combined with all such extensions of credit by all the subsidiaries of such bank holding company, to an export trading company shall not exceed at any one time 10 per centum of the bank holding company's consolidated capital and surplus. For purposes of the preceding sentence, an extension of credit shall not be deemed to include anyamount invested by a bank holding company in the shares of an export trading company.
 
 &emsp;&emsp;(ii) No provision of any other Federal law in effect on October 1, 1982, relating specifically to collateral requirements shall apply with respect to any such extension of credit.
 
-&emsp;&emsp;(iii) No bank holding company or subsidiary of such company which invests in an export trading company may extend credit to such export trading company or to customers of such export trading company on terms more favorable than those afforded similar borrowers in similar circumstances,and such extension of credit shall not involve more than the normal risk of repayment or present other unfavorable features.
+&emsp;&emsp;(iii) No bank holding company or subsidiary of such company which invests in an export trading company may extend credit to such export trading company or to customers of such export trading company on terms more favorable than those afforded similar borrowers in similar circumstances, and such extension of credit shall not involve more than the normal risk of repayment or present other unfavorable features.
 
 &emsp;&emsp;(C) For purposes of this paragraph, an export trading company—
 
@@ -240,13 +240,13 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (7) Examination
 
-&emsp;The Board may, from time to time, examine a company described in paragraph (1), or a bank controlled by such company, or require reports under oath from appropriate officers or directors of such company or bank solely for purposes of assuring compliance with the provisions of this subsection and enforcing such compliance.
+&emsp;The Board may, from time to time, examine a company described in paragraph (1), or abank controlled by such company, or require reports under oath from appropriate officers or directors of such company or bank solely for purposes of assuring compliance with the provisions of this subsection and enforcing such compliance.
 
 #### (8) Enforcement
 
 #### (A) In general
 
-&emsp;&emsp;In addition to any other power of the Board, the Board may enforce compliancewith the provisions of this chapter which are applicable to any company described in paragraph (1), and any bank controlled by such company, under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\] and such company or bank shall be subject to such section (for such purposes) in the same manner and to the same extent as if such company or bank were a State member insured bank.
+&emsp;&emsp;In addition to any other power of the Board, the Board may enforce compliance with the provisions of this chapter which are applicable to any company described in paragraph (1), and any bank controlled by such company, under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\] and such company or bank shall be subject to such section (for such purposes) in the same manner and to the same extent as if such company or bank were a State member insured bank.
 
 #### (B) Application of other act
 
@@ -384,7 +384,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (A) Scope
 
-&emsp;&emsp;The Board shall consult with the Director, as appropriate, in establishing the scope ofan examination by the Board of a bank holding company that directly or indirectly controls a savings association.
+&emsp;&emsp;The Board shall consult with the Director, as appropriate, in establishing the scope of an examination by the Board of a bank holding company that directly or indirectly controls a savings association.
 
 #### (B) Access to inspection reports
 
@@ -450,11 +450,11 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (C) Conditional action
 
-&emsp;&emsp;Nothing in this subsection limits the authority of the Board to impose conditions in connection with an action under this section.
+&emsp;&emsp;Nothing in this subsection limits the authority of the Board to impose conditions inconnection with an action under this section.
 
 #### (3) No notice required for certain transactions
 
-&emsp;No notice under paragraph (1) of this subsection or under subsection (c)(8) or (a)(2)(B) of this section is required for a proposal by a bank holding company to engage in any activity, other than any complementary activity under subsection (k)(1)(B) of this section, or acquire the shares or assets of any company, other than an insured depository institutionor a company engaged in any complementary activity under subsection (k)(1)(B) of this section, if the proposal qualifies under paragraph (4).
+&emsp;No notice under paragraph (1) of this subsection or under subsection (c)(8) or (a)(2)(B) of this section is required for a proposal by a bank holding company to engage in any activity, other than any complementary activity under subsection (k)(1)(B) of this section, or acquire the shares or assets of any company, other than an insured depository institution or a company engaged in any complementary activity under subsection (k)(1)(B) of this section, if the proposal qualifies under paragraph (4).
 
 #### (4) Criteria for statutory approval
 
@@ -526,7 +526,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (6) Recently acquired institutions
 
-&emsp;Any insured depository institution which has been acquired by a bank holding company during the 12-month period preceding the date on which the company proposes to commence an activity or acquisition pursuant to paragraph (3) may be excluded for purposes of paragraph (4)(B)(ii) if—
+&emsp;Any insured depository institution which has been acquired by a bank holding companyduring the 12-month period preceding the date on which the company proposes to commence an activity or acquisition pursuant to paragraph (3) may be excluded for purposes of paragraph (4)(B)(ii) if—
 
 &emsp;&emsp;(A) the bank holding company has developed a plan for the institution to restore the capital and management of the institution which is acceptable to the appropriate Federal banking agency; and
 
@@ -600,7 +600,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 &emsp;&emsp;(E) Underwriting, dealing in, or making a market in securities.
 
-&emsp;&emsp;(F) Engaging in any activity that the Board has determined, by order or regulation that is in effect on November 12, 1999, tobe so closely related to banking or managing or controlling banks as to be a proper incident thereto (subject to the same terms and conditions contained in such order or regulation, unless modified by the Board).
+&emsp;&emsp;(F) Engaging in any activity that the Board has determined, by order or regulation that is in effect on November 12, 1999, to be so closely related to banking or managing or controlling banks as to be a proper incident thereto (subject to the same terms and conditions contained in such order or regulation, unless modified by the Board).
 
 &emsp;&emsp;(G) Engaging, in the United States, in any activity that—
 
@@ -714,7 +714,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (2) Agreement to correct conditions required
 
-&emsp;Not later than 45 days after the date of receipt by a financial holding company of a notice given under paragraph (1) (or such additional period as the Board may permit), the financial holding company shall execute an agreement with the Board to comply with the requirements applicable to a financial holding company under subsection (<i>l</i>)(1) of this section.
+&emsp;Not later than 45 days after the date of receipt by a financial holding company of a notice given under paragraph (1) (or such additional period as the Board may permit), the financial holding company shall execute an agreement with the Board to comply with the requirements applicable to a financial holdingcompany under subsection (<i>l</i>)(1) of this section.
 
 #### (3) Board may impose limitations
 
@@ -776,7 +776,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (6) Transactions with nonfinancial affiliates
 
-&emsp;A depository institution controlled by a financial holding company may not engage in acovered transaction (as defined in section 371c(b)(7) of this title) with any affiliate controlled by the company pursuant to this subsection.
+&emsp;A depository institution controlled by a financial holding company may not engage in a covered transaction (as defined in section 371c(b)(7) of this title) with any affiliate controlled by the company pursuant to this subsection.
 
 #### (7) Sunset of grandfather
 
@@ -886,7 +886,7 @@ Subsec. (f)(2)(A)(ii). Pub. L. 101–73, §603(a), amended cl. (ii) generally. P
 
 &emsp;“(V) shares or assets of an insured institution described in paragraph (10) of this subsection; or”.
 
-Subsec. (f)(3)(B)(ii). Pub. L. 101–73, §1219, added cl. (ii) and struck out former cl. (ii) which read as follows: “offer or market products or services of an affiliate that are not permissible for bank holding companies to provide under subsection (c)(8) of this section, or permit its products or services to be offered or marketed by or through an affiliate (other than an affiliate that engages only in activities permissible for bank holding companies under subsection (c)(8) of this section), unless such products or services were being so offered or marketed as of March 5, 1987, and then only in the same manner in which they were being offered or marketed as of that date;”.
+Subsec. (f)(3)(B)(ii). Pub. L. 101–73, §1219, added cl. (ii) and struck out former cl. (ii) which read as follows:“offer or market products or services of an affiliate that are not permissible for bank holding companies to provide under subsection (c)(8) of this section, or permit its products or services to be offered or marketed by or through an affiliate (other than an affiliate that engages only in activities permissible for bank holding companies under subsection (c)(8) of this section), unless such products or services were being so offered or marketed as of March 5, 1987, and then only in the same manner in which they were being offered or marketed as of that date;”.
 
 Subsec. (f)(10). Pub. L. 101–73, §603(b)(1), substituted “and (ii)(VIII)” for “and (ii)(V)”, and in subpar. (A) inserted reference to section 13(k) of the Federal Deposit Insurance Act.
 
@@ -1004,11 +1004,11 @@ Section 601(b) of Pub. L. 101–73 provided that: “If the Board of Governors o
 
 #### Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320
 
-No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect before Aug. 10, 1987, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had been made before such date, see section 509(c) of Pub. L. 100–86, set out as a note under section 1464 of this title.
+No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect before Aug. 10, 1987, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had been made before such date,see section 509(c) of Pub. L. 100–86, set out as a note under section 1464 of this title.
 
 No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day before Oct. 8, 1986, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
 
-Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the dayafter Aug. 27, 1986, applicable as if included in Pub. L. 97–320 on Oct. 15, 1982, with no amendment made by such section to any other provision of law to be deemed to have taken effect before Aug. 27, 1986, and any such provision of law to be in effect as if no such amendment had taken effect before Aug. 27, 1986, see section 1(c) of Pub. L. 99–400, set out as a note under section 1464 of this title.
+Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day after Aug. 27, 1986, applicable as if included in Pub. L. 97–320 on Oct. 15, 1982, with no amendment made by such section to any other provision of law to be deemed to have taken effect before Aug. 27, 1986, and any such provision of law to be in effect as if no such amendment had taken effect before Aug. 27, 1986, see section 1(c) of Pub. L. 99–400, set out as a note under section 1464 of this title.
 
 #### Bank Export Services
 

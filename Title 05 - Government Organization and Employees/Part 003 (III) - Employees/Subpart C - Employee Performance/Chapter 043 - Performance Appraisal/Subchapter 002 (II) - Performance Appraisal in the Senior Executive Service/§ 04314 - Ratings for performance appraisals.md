@@ -28,7 +28,7 @@
 
 (c)(1) Each agency shall establish, in accordance with regulations prescribed by the Office, one or more performance review boards, as appropriate. It is the function of the boards to make recommendations to the appropriate appointing authority of the agency relating to the performance of senior executives in the agency.
 
-(2) The supervising official of the senior executive shall provide to the performance reviewboard, an initial appraisal of the senior executive's performance. Before making any recommendation with respect to the senior executive, the board shall review any response by the senior executive to the initial appraisal and conduct such further review as the board finds necessary.
+(2) The supervising official of the senior executive shall provide to the performance review board, an initial appraisal of the senior executive's performance. Before making any recommendation with respect to the senior executive, the board shall review any response by the senior executive to the initial appraisal and conduct such further review as the board finds necessary.
 
 (3) Performance appraisals under this subchapter with respect to any senior executive shall be made by the appointing authority only after considering the recommendations by the performance review board with respect to such senior executive under paragraph (1) of this subsection.
 

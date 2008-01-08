@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 100–177, §402(a)(2), inserted “(including the agency d
 
 #### Effective Date of 1987 Amendment
 
-Section 402(d), formerly section 402(c), of Pub. L. 100–177, as renumbered and amended by Pub. L. 101–239, title VI, §6103(e)(6), Dec. 19, 1989, 103 Stat. 2208, provided that:
+Section 402(d), formerly section 402(c), of Pub. L. 100–177, as renumbered and amended by Pub. L. 101–239,title VI, §6103(e)(6), Dec. 19, 1989, 103 Stat. 2208, provided that:
 
 “(1)
 

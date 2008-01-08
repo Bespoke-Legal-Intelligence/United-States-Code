@@ -12,7 +12,7 @@ For purposes of this chapter, the earnings and profits of a foreign corporation 
 
 #### (b) Exclusion from gross income of certain foreign subsidiaries
 
-For purposes of section 951(a), the earnings and profits of a controlled foreign corporation attributable to amounts which are, or have been, included in the gross income of a United States shareholder under section 951(a), shall not, when distributed through a chain of ownership described under section 958(a), be also included in the gross income of another controlled foreign corporation in such chain for purposes of the application of section 951(a) to such other controlled foreign corporation with respect to such United States shareholder (or to any other United States shareholder who acquires from any person any portion of the interest of such United States shareholder in the controlled foreign corporation, but only to the extent of such portion, and subject to such proof of identity of such interest as the Secretary may prescribe by regulations).
+For purposes of section 951(a), the earnings and profits of a controlled foreign corporation attributable to amounts which are, or have been, included in the gross income of a United States shareholder under section 951(a), shall not, when distributed through a chain of ownership described under section 958(a), be also included in the gross income of another controlled foreign corporation in such chain for purposes of the application of section 951(a) to such other controlled foreign corporation with respect to such United States shareholder (or to any otherUnited States shareholder who acquires from any person any portion of the interest of such United States shareholder in the controlled foreign corporation, but only to the extent of such portion, and subject to such proof of identity of such interest as the Secretary may prescribe by regulations).
 
 #### (c) Allocation of distributions
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 104–188, §1501(b)(6), inserted at end “References in t
 
 Subsec. (f)(1). Pub. L. 104–188, §1501(b)(7), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section—
 
-&emsp;“(A) amounts that would be included under subparagraph (B) of section 951(a)(1) (determined withoutregard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3), and
+&emsp;“(A) amounts that would be included under subparagraph (B) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2), and then to earnings described in subsection (c)(3), and
 
 &emsp;“(B) amounts that would be included under subparagraph (C) of section 951(a)(1) (determined without regard to this section) shall be treated as attributable first to earnings described in subsection (c)(2) to the extent the earnings so described were accumulated in taxable years beginning after September 30, 1993, and then to earnings described in subsection (c)(3).”
 
@@ -76,7 +76,7 @@ Subsec. (a)(3). Pub. L. 103–66, §13231(c)(1), added par. (3).
 
 Subsec. (b). Pub. L. 103–66, §13231(c)(4)(A), substituted “earnings and profits” for “earnings and profits for a taxable year”.
 
-Subsec. (c)(1). Pub. L. 103–66, §13231(c)(2)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “first to earnings and profits attributable to amounts included in gross income under section 951(a)(1)(B) (or which would have been included except for subsection (a)(2) of this section),”.
+Subsec. (c)(1). Pub. L. 103–66, §13231(c)(2)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “first to earnings and profits attributable to amounts included in gross income under section951(a)(1)(B) (or which would have been included except for subsection (a)(2) of this section),”.
 
 Subsec. (c)(2). Pub. L. 103–66, §13231(c)(4)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “then to earnings and profits attributable to amounts included in gross income under section 951(a)(1)(A) (but reduced by amounts not included under section 951(a)(1)(B) because of the exclusion in subsection (a)(2) of this section), and”.
 

@@ -232,7 +232,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a), the new advanced lean burn technology motor vehicle credit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new advanced lean burn technology motor vehicle placed in service by the taxpayer during the taxable year.
+&emsp;For purposes of subsection (a), the new advanced lean burn technology motor vehiclecredit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new advanced lean burn technology motor vehicle placed in service by the taxpayer during the taxable year.
 
 #### (2) Credit amount
 
@@ -406,7 +406,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (ii) Other motor vehicles
 
-&emsp;&emsp;&emsp;In the case of a vehicle to which paragraph (2)(B) applies, the term “maximum available power” means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence, the term “total traction power” means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.
+&emsp;&emsp;&emsp;In the case of a vehicle to which paragraph (2)(B) applies, the term “maximum available power” means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence,the term “total traction power” means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.
 
 #### (e) New qualified alternative fuel motor vehicle credit
 
@@ -534,7 +534,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (1) Business credit treated as part of general business credit
 
-&emsp;So much of the credit which would be allowed under subsection (a) for any taxableyear (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section 38(b) for such taxable year (and not allowed under subsection (a)).
+&emsp;So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section 38(b) for such taxable year (and not allowed under subsection (a)).
 
 #### (2) Personal credit
 

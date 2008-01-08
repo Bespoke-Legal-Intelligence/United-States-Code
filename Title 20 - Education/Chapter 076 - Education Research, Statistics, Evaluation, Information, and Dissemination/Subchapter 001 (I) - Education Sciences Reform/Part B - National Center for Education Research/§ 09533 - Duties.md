@@ -98,7 +98,7 @@ Research carried out under subsection (a) of this section through contracts, gra
 
 #### (6) Continuation of awards
 
-&emsp;The Director shall continue awards made to the national research and development centers that are in effect on the day before November5, 2002, in accordance with the terms of those awards and may renew them in accordance with paragraphs (4) and (5).
+&emsp;The Director shall continue awards made to the national research and development centers that are in effect on the day before November 5, 2002, in accordance with the terms of those awards and may renew them in accordance with paragraphs (4) and (5).
 
 #### (7) Disaggregation
 

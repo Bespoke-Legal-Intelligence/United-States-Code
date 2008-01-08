@@ -16,7 +16,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 #### (2) Refusal to consent to treatment
 
-&emsp;A hospital is deemed to meet the requirement of paragraph (1)(A) with respect to an individual if the hospital offers the individual the further medical examination and treatment described in that paragraph and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such examination and treatment, but the individual (or a person acting on the individual's behalf) refuses to consent to the examination and treatment. The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such examination and treatment.
+&emsp;A hospital is deemed to meet the requirement of paragraph (1)(A) with respect to an individual if the hospital offers the individual the further medical examination and treatment described in that paragraph and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such examination and treatment,but the individual (or a person acting on the individual's behalf) refuses to consent to the examination and treatment. The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such examination and treatment.
 
 #### (3) Refusal to consent to transfer
 
@@ -68,7 +68,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;(ii) misrepresents an individual's condition or other information, including a hospital's obligations under this section,
 
-> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
+> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if theviolation is gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
 
 &emsp;(C) If, after an initial examination, a physician determines that the individual requires the services of a physician listed by the hospital on its list of on-call physicians (required to be maintained under section 1395cc(a)(1)(I) of this title) and notifies the on-call physician and the on-call physician fails or refuses to appear within a reasonable period of time, and the physician orders the transfer of the individual because the physician determines that without the services of the on-call physician the benefits of transfer outweigh the risks of transfer, the physician authorizing the transfer shall not be subject to a penalty under subparagraph (B). However, the previous sentence shall not apply to the hospital or to the on-call physician who failed or refused to appear.
 
@@ -528,7 +528,7 @@ State.—The term ‘State’ means the 50 States and the District of Columbia.�
 
 #### Inspector General Study of Prohibition on Hospital Employment of Physicians
 
-Section 4008(c) of Pub. L. 101–508 directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examinationand treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
+Section 4008(c) of Pub. L. 101–508 directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examination and treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

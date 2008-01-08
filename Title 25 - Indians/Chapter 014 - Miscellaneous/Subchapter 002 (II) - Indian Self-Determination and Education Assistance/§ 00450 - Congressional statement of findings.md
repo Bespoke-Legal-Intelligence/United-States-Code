@@ -14,7 +14,7 @@ The Congress further finds that—
 
 &emsp;(1) true self-determination in any society of people is dependent upon an educational process which will insure the development of qualified people to fulfill meaningful leadership roles;
 
-&emsp;(2) the Federal responsibility for and assistance to education of Indian children has not effected the desired level of educationalachievement or created the diverse opportunities and personal satisfaction which education can and should provide; and
+&emsp;(2) the Federal responsibility for and assistance to education of Indian children has not effected the desired level of educational achievement or created the diverse opportunities and personal satisfaction which education can and should provide; and
 
 &emsp;(3) parental and community control of the educational process is of crucial importance to the Indian people.
 
@@ -22,7 +22,7 @@ The Congress further finds that—
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–568, title VIII, §801, Dec. 27, 2000, 114 Stat. 2916, provided that: “This title \[amending sections 450<i>l</i>, 458cc, 1407, and 3207 of this title and sections 5604, 5608, and 5609 of Title 20, Education, and repealing section 84 of this title and sections 438 and 439 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Native American Laws Technical Corrections Act of 2000’.”
+Pub. L. 106–568, title VIII, §801, Dec. 27, 2000, 114 Stat. 2916, provided that: “This title \[amending sections 450<i>l</i>,458cc, 1407, and 3207 of this title and sections 5604, 5608, and 5609 of Title 20, Education, and repealing section 84 of this title and sections 438 and 439 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Native American Laws Technical Corrections Act of 2000’.”
 
 Pub. L. 106–568, title XIII, §1301, Dec. 27, 2000, 114 Stat. 2936, provided that: “This title \[enacting part F (§458bbb et seq.) of this subchapter\] may be cited as the ‘American Indian Education Foundation Act of 2000’.”
 
@@ -82,7 +82,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (a) “Policies that have tribal implications” refers to regulations, legislative comments or proposed legislation, and other policy statements or actions that have substantial direct effects on one or more Indian tribes, on the relationship between the Federal Government and Indian tribes, or on the distribution of power and responsibilities between the Federal Government and Indian tribes.
 
-(b) “Indian tribe” means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a.
+(b) “Indian tribe” means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist asan Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a.
 
 (c) “Agency” means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(5).
 
@@ -150,7 +150,7 @@ Sec. 7. <i>Accountability.</i>
 
 (a) In transmitting any draft final regulation that has tribal implications to OMB pursuant to Executive Order 12866 of September 30, 1993 \[5 U.S.C. 601 note\], each agency shall include a certification from the official designated to ensure compliance with this order stating that the requirements of this order have been met in a meaningful and timely manner.
 
-(b) In transmitting proposed legislation that has tribal implications to OMB, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
+(b) In transmitting proposed legislation that has tribal implications to OMB, each agency shall include acertification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
 
 (c) Within 180 days after the effective date of this order the Director of OMB and the Assistant to the President for Intergovernmental Affairs shall confer with tribal officials to ensure that this order is being properly and effectively implemented.
 

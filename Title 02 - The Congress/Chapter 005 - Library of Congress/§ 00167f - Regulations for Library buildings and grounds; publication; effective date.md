@@ -6,3 +6,11 @@
 
 (Aug. 4, 1950, ch. 561, §7, 64 Stat. 411.)
 
+#### Repeal of Section
+
+<i>Pub. L. 110–161, div. H, title I, §1004(d)(1)(B), Dec. 26, 2007, 121 Stat. 2233, and Pub. L. 110–178, §4(a)(2), Jan. 7, 2008, 121 Stat. 2551, provided that, effective Oct. 1, 2009, this section is repealed.</i>
+
+#### Effective Date of Repeal
+
+Pub. L. 110–161, div. H, title I, §1004(d)(1)(B), Dec. 26, 2007, 121 Stat. 2233, and Pub. L. 110–178, §4(a)(2), Jan. 7, 2008, 121 Stat. 2551, provided that this section is repealed on Oct. 1, 2009.
+

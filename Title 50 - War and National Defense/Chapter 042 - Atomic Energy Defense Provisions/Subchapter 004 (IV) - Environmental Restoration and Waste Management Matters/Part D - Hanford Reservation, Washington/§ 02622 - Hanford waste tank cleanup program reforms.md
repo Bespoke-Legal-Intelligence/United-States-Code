@@ -22,7 +22,7 @@ The Secretary shall provide the head of the Office with the resources and person
 
 #### (d) Report
 
-The Assistant Secretary of Energy for Environmental Management shall submit to theCommittee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than November 29, 2000, a copy of the delegation of authority required by subsection (b)(3).
+The Assistant Secretary of Energy for Environmental Management shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than November 29, 2000, a copy of the delegation of authority required by subsection (b)(3).
 
 #### (e) Report
 
@@ -44,7 +44,7 @@ Not later than 2 years after the commencement of operations of the Office, the S
 
 (3) In this subsection, the term “Tri-Party Agreement” means the Hanford Federal Facility Agreement and Consent Order entered into among the Department of Energy, the Environmental Protection Agency, and the State of Washington Department of Ecology.
 
-(Pub. L. 107–314, div. D, title XLIV, §4442, formerly Pub. L. 105–261, div. C, title XXXI, §3139, Oct. 17, 1998, 112 Stat. 2250; Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–463; Pub. L. 107–107, div. C, title XXXI, §3135, Dec. 28, 2001, 115 Stat. 1368; renumbered Pub. L. 107–314, div. D, title XLIV, §4442, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(17), Nov. 24, 2003, 117 Stat. 1767.)
+(Pub. L. 107–314, div. D, title XLIV, §4442, formerly Pub. L. 105–261, div. C, title XXXI, §3139, Oct. 17, 1998, 112 Stat. 2250; Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)–(d)\], Oct. 30, 2000, 114Stat. 1654, 1654A–463; Pub. L. 107–107, div. C, title XXXI, §3135, Dec. 28, 2001, 115 Stat. 1368; renumbered Pub. L. 107–314, div. D, title XLIV, §4442, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(17), Nov. 24, 2003, 117 Stat. 1767.)
 
 #### Amendments
 

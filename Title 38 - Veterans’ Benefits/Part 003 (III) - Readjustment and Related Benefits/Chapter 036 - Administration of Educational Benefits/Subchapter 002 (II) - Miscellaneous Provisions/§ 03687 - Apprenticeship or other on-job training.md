@@ -8,7 +8,7 @@
 
 > subject to the conditions and limitations of chapters 34 and 35 of this title with respect to educational assistance.
 
-(b)(1) The monthly training assistance allowance of an eligible veteran pursuing a programdescribed under subsection (a) shall be as follows:
+(b)(1) The monthly training assistance allowance of an eligible veteran pursuing a program described under subsection (a) shall be as follows:
 
 &nbsp;
 
@@ -73,7 +73,7 @@ Subsec. (d). Pub. L. 106–419, §111(f)(2), added subsec. (d).
 
 Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3452(a)(1)” for “1652(a)(1)” and “3501(a)” for “1701(a)” in introductory provisions and “3677” for “1777” in par. (2).
 
-1989—Subsec. (b)(2). Pub. L. 101–237 substituted “$294 for the first six months, $220 for the second six months, $146 for the third six months, and $73 for the fourth andany succeeding six-month periods of training” for “computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course”.
+1989—Subsec. (b)(2). Pub. L. 101–237 substituted “$294 for the first six months, $220 for the second six months, $146 for the third six months, and $73 for the fourth and any succeeding six-month periods of training” for “computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course”.
 
 1984—Subsec. (b)(1). Pub. L. 98–543 increased monthly training assistance allowance of eligible veterans in column II from $249, $186, $124 and $62 to $274, $205, $136, and $68; in column III from $279, $217, $155, and $92 to $307, $239, $171, and $101; in column IV from $305, $243, $180, and $119 to $336, $267, $198 and $131; in column V from $13, $13, $13 and $13 to $14, $14, $14 and $14, respectively.
 
@@ -147,7 +147,7 @@ Amendment by Pub. L. 93–508 effective Sept. 1, 1974, see section 501 of Pub. L
 
 #### Effective Date
 
-Section effective Oct. 1, 1972, except for those veterans and eligible persons in training on Oct. 24, 1972, seesection 601(a) of Pub. L. 92–540, set out as an Effective Date of 1972 Amendment note under section 3482 of this title.
+Section effective Oct. 1, 1972, except for those veterans and eligible persons in training on Oct. 24, 1972, see section 601(a) of Pub. L. 92–540, set out as an Effective Date of 1972 Amendment note under section 3482 of this title.
 
 #### Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Survivors and Dependents Educational Assistance
 

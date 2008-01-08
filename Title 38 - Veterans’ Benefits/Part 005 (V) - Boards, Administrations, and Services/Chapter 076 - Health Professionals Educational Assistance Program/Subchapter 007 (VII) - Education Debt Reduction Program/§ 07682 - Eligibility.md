@@ -6,7 +6,7 @@ Eligibility.—An individual is eligible to participate in the Education Debt Re
 
 &emsp;(1) is a recently appointed employee in the Veterans Health Administration serving in a position (as determined by the Secretary) providing direct-patient care services or services incident to direct-patient care services for which recruitment or retention of qualified health-care personnel (as so determined) is difficult; and
 
-&emsp;(2) owes any amount of principal or interest under a loan, the proceeds of which were usedby or on behalf of that individual to pay costs relating to a course of education or training which led to a degree that qualified the individual for the position referred to in paragraph (1).
+&emsp;(2) owes any amount of principal or interest under a loan, the proceeds of which were used by or on behalf of that individual to pay costs relating to a course of education or training which led to a degree that qualified the individual for the position referred to in paragraph (1).
 
 (b)
 

@@ -6,7 +6,7 @@ Application.—
 
 &emsp;(1)
 
-In general.—This section applies to any project for construction or alteration of a building for which amounts are first appropriated for a fiscal year beginning after September 30, 1989.
+In general.—This section applies to any project for construction or alteration of abuilding for which amounts are first appropriated for a fiscal year beginning after September 30, 1989.
 
 &emsp;(2)
 

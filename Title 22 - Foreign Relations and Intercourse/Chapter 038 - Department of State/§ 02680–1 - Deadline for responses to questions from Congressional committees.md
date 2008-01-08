@@ -10,7 +10,3 @@ The committees referred to in subsection (a) of this section are the Committee o
 
 (Pub. L. 102–138, title I, §196, Oct. 28, 1991, 105 Stat. 684.)
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

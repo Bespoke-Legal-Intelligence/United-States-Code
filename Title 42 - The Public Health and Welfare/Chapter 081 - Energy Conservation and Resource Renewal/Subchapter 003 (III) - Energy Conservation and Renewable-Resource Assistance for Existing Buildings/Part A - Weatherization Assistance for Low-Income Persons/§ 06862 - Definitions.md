@@ -16,7 +16,17 @@ As used in this part:
 
 &emsp;(7) The term “low-income” means that income in relation to family size which (A) is at or below 150 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget, except that the Secretary may establish a higher level if the Secretary, after consulting with the Secretary of Agriculture and the Director of the Community Services Administration, determines that such a higher level is necessary to carry out the purposes of this part and is consistent with the eligibility criteria established for the weatherization program under section 2809(a)(12) of this title, (B) is the basis on which cash assistance payments have been paid during the preceding 12-month period under titles IV and XVI of the Social Security Act \[42 U.S.C. 601 et seq., 1381 et seq.\] or applicable State or local law, or (C) if a State elects, is the basis for eligibility for assistance under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621), provided that such basis is at least 150 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget.
 
-&emsp;(8) The term “State” means each of the States and the District of Columbia.
+&emsp;(8)
+
+State.—The term “State” means—
+
+&emsp;&emsp;(A) a State;
+
+&emsp;&emsp;(B) the District of Columbia;
+
+&emsp;&emsp;(C) the Commonwealth of Puerto Rico; and
+
+&emsp;&emsp;(D) any other territory or possession of the United States.
 
 &emsp;(9) The term “weatherization materials” means—
 
@@ -46,7 +56,7 @@ As used in this part:
 
 &emsp;&emsp;(J) such other insulating or energy conserving devices or technologies as the Secretary may determine, after consulting with the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Director, of the Community Services Administration.
 
-(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, title V, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat. 2843; Pub. L. 105–220, title IV, §414(f), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 109–58, title I, §122(b), Aug. 8, 2005, 119 Stat. 616; Pub. L. 109–365, title IX, §901(b), Oct. 17, 2006, 120 Stat. 2599.)
+(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, title V, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat. 2843; Pub. L. 105–220, title IV, §414(f), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 109–58, title I, §122(b), Aug. 8, 2005, 119 Stat. 616; Pub. L. 109–365, title IX, §901(b), Oct. 17, 2006, 120 Stat. 2599; Pub. L. 110–140, title IV, §411(c), Dec. 19, 2007, 121 Stat. 1601.)
 
 #### References in Text
 
@@ -59,6 +69,8 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 The Low-Income Home Energy Assistance Act of 1981, referred to in par. (7), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of this title and Tables.
 
 #### Amendments
+
+2007—Par. (8). Pub. L. 110–140 added par. (8) and struck out former par. (8) which read as follows: “The term ‘State’ means each of the States and the District of Columbia.”
 
 2006—Par. (6). Pub. L. 109–365 struck out “paragraphs (4), (5), and (6), respectively, of” before “section 3002 of this title”.
 
@@ -88,9 +100,13 @@ Par. (7)(A). Pub. L. 95–619, §231(a)(1), inserted “125 percent of” after 
 
 Par. (9). Pub. L. 95–619, §231(b)(2), substituted a specific listing of items to be considered weatherization materials for purposes of this part for a general statement of the sort of materials that could be considered as such.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
 #### Community Services Administration
 
-Community Services Administration, which was established by section 601 of Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office of Community Services, headed by a Director, was established in Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
+Community Services Administration, which was established by section 601 of Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office ofCommunity Services, headed by a Director, was established in Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

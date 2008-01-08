@@ -6,7 +6,7 @@ The President shall, from time to time as occasion may require, but not less tha
 
 #### (b) Annual report on financial contributions
 
-Not later than July 1 of each year, the Secretary of State shall submit a report to the designated congressional committees on the extentand disposition of all financial contributions made by the United States during the preceding year to international organizations in which the United States participates as a member.
+Not later than July 1 of each year, the Secretary of State shall submit a report to the designated congressional committees on the extent and disposition of all financial contributions made by the United States during the preceding year to international organizations in which the United States participates as a member.
 
 #### (c) Annual report
 
@@ -44,7 +44,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;(A)(i) A description of the status of efforts to establish and implement an independent office of the Inspector General at the United Nations.
 
-&emsp;(ii) If an office of the Inspector General has been established at the United Nations, a discussion of whether the Inspector General is keeping the Secretary General and the members of the General Assembly fully informed about problems, deficiencies, the necessity for corrective action, and the progress of corrective action.
+&emsp;(ii) If an office of the Inspector General has been established at the United Nations, a discussion of whether the Inspector General is keeping the Secretary General and the members of the General Assembly fully informed about problems, deficiencies, the necessity forcorrective action, and the progress of corrective action.
 
 &emsp;(iii) For purposes of this subparagraph, the term “office of the Inspector General” means an independent office (or other independent entity) established by the United Nations to conduct and supervise objective audits, inspections, and investigations relating to the programs and operations of the United Nations.
 
@@ -78,7 +78,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;(A) With respect to ongoing United Nations peacekeeping operations, the following:
 
-&emsp;&emsp;&emsp;(i) A list of all resolutions of the United Nations Security Council anticipated to bevoted on during such month that would extend or change the mandate of any United Nations peacekeeping operation.
+&emsp;&emsp;&emsp;(i) A list of all resolutions of the United Nations Security Council anticipated to be voted on during such month that would extend or change the mandate of any United Nations peacekeeping operation.
 
 &emsp;&emsp;&emsp;(ii) For each such operation, any changes in the duration, mandate, and command and control arrangements that are anticipated as a result of the adoption of the resolution.
 
@@ -142,7 +142,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 #### (B) Annual report
 
-&emsp;&emsp;The President shall submit an annual report to the designated congressional committees on all assistance provided by theUnited States during the preceding calendar year to the United Nations to support peacekeeping operations. Each such report shall describe the assistance provided for each such operation, listed by category of assistance.
+&emsp;&emsp;The President shall submit an annual report to the designated congressional committees on all assistance provided by the United States during the preceding calendar year to the United Nations to support peacekeeping operations. Each such report shall describe the assistance provided for each such operation, listed by category of assistance.
 
 #### (e) Designated congressional committees
 
@@ -178,9 +178,13 @@ Subsecs. (f), (g). Pub. L. 107–228, §405(a)(4), redesignated subsec. (g) as (
 
 1999—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(1)\], struck out at end “He shall make special current reports on decisions of the Security Council to take enforcement measures under the provisions of the Charter of the United Nations, and on the participation therein under his instructions, of the representative of the United States.”
 
-Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(2), (b)\], added subsecs. (e) to (g) and struck out heading and text of former subsec. (e). Text read as follows: “As used in this section, the term ‘designated congressional committees’ has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995.”
+Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(2), (b)\], added subsecs. (e) to (g) and struckout heading and text of former subsec. (e). Text read as follows: “As used in this section, the term ‘designated congressional committees’ has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995.”
 
 1994—Pub. L. 103–236 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Termination of Reporting Requirements
 
@@ -196,7 +200,7 @@ Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed Pr
 
 #### Designated Congressional Committees
 
-Section 415 of Pub. L. 103–236 provided that: “For purposes of this part \[part A (§§401 to 415) of title IV of Pub. L. 103–236, enacting section 2321n of this title, amending this section, enacting provisions set out as notes under this section and section 287e of this title, and amending provisions set out as notes under section 287e of this title\], the term ‘designated congressional committees’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives.”
+Section 415 of Pub. L. 103–236 provided that: “For purposes of this part \[part A (§§401 to 415) of title IV of Pub. L. 103–236, enacting section 2321n of this title, amending this section, enacting provisions set out as notes under this section and section 287e of this title, and amending provisions set out as notes under section 287e of this title\], the term ‘designated congressional committees’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.”
 
 #### Report on Policies Pursued by Other Countries in International Organizations
 

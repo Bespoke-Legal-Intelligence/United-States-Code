@@ -84,7 +84,7 @@ The Secretary shall establish procedures to prioritize financial assistance unde
 
 #### (e) Maximum amount of assistance to individual recipients
 
-The Secretary may establish the maximum amount of financial assistance to be made available to an individual recipient for each fiscal year under this chapter, by publishing notice of the maximum amount in the Federal Register not more than 45 days after funds are made available for the fiscal year to carry out this chapter.
+The Secretary may establish the maximum amount of financial assistance to be made available to an individual recipient for each fiscal year under this chapter, by publishing notice ofthe maximum amount in the Federal Register not more than 45 days after funds are made available for the fiscal year to carry out this chapter.
 
 #### (f) Use of funds
 

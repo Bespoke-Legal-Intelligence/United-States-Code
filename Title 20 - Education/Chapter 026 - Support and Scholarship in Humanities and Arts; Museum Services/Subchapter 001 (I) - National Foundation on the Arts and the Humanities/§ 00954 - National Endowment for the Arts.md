@@ -378,8 +378,6 @@ Subsecs. (j), (k). Pub. L. 90–348, §2(b), inserted “of exceptional talent�
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
-
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–512 effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as a note under section 951 of this title.
@@ -420,5 +418,5 @@ Report Required.—Not later than October 1, 1992, the Comptroller General shall
 
 #### Temporary Independent Commission To Review Grant Making Procedures and Consider Standards for Publicly Funded Art
 
-Pub. L. 101–121, title III, §304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for theArts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
+Pub. L. 101–121, title III, §304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for the Arts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
 

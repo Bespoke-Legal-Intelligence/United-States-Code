@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, the duties of which the person is qualified to perform; or
 
-&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, only if the person is not qualified to perform the duties of the position referred to in subparagraph (A) afterreasonable efforts by the employer to qualify the person.
+&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, only if the person is not qualified to perform the duties of the position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
 
 &emsp;(2) Except as provided in paragraphs (3) and (4), in the case of a person whose period of service in the uniformed services was for more than 90 days—
 
@@ -24,7 +24,7 @@
 
 (b)(1) If two or more persons are entitled to reemployment under section 4312 in the same position of employment and more than one of them has reported for such reemployment, the person who left the position first shall have the prior right to reemployment in that position.
 
-(2) Any person entitled to reemployment under section 4312 who is not reemployed in a position of employment by reason of paragraph (1) shall be entitled to be reemployed as follows:
+(2) Any person entitled to reemployment under section 4312 who is not reemployed in aposition of employment by reason of paragraph (1) shall be entitled to be reemployed as follows:
 
 &emsp;(A) Except as provided in subparagraph (B), in any other position of employment referred to in subsection (a)(1) or (a)(2), as the case may be (in the order of priority set out in the applicable subsection), that provides a similar status and pay to a position of employment referred to in paragraph (1) of this subsection, consistent with the circumstances of such person's case, with full seniority.
 

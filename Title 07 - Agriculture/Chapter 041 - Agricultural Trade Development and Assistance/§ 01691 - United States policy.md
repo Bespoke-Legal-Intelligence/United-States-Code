@@ -30,7 +30,7 @@ It is the policy of the United States to use its abundant agricultural productiv
 
 #### Effective Date of 1990 Amendment
 
-Section 1513 of Pub. L. 101–624 provided that: “The amendment made by section 1512 \[enacting sections1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
+Section 1513 of Pub. L. 101–624 provided that: “The amendment made by section 1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
 
 #### Effective Date of 1966 Amendment
 
@@ -60,7 +60,7 @@ Pub. L. 100–576, §1, Oct. 31, 1988, 102 Stat. 2897, provided that: “This Ac
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–202, §16, as added by Pub. L. 100–418, title IV, §4610(a), Aug. 23, 1988, 102 Stat. 1411, provided that sections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of Pub. L. 100–202, which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “Agricultural Aid and Trade Missions Act”, prior to repeal by Pub. L. 104–127, title II, §271(a), Apr. 4, 1996, 110 Stat. 976.
+Pub. L. 100–202, §16, as added by Pub. L. 100–418, title IV, §4610(a), Aug. 23, 1988, 102 Stat. 1411, provided that sections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of Pub. L. 100–202, which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “AgriculturalAid and Trade Missions Act”, prior to repeal by Pub. L. 104–127, title II, §271(a), Apr. 4, 1996, 110 Stat. 976.
 
 #### Short Title of 1980 Amendment
 
@@ -128,7 +128,7 @@ Ex. Ord. No. 11252, Oct. 20, 1965, 30 F.R. 13507, as amended by Ex. Ord. No. 125
 
 #### Executive Order No. 12220
 
-Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44245, which provided for delegation of administrative functions relating to agricultural trade development, was revoked by section 6 of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out below.
+Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44245, which provided for delegation of administrative functions relating to agricultural trade development, was revokedby section 6 of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out below.
 
 #### Ex. Ord. No. 12752. Implementation of Agricultural Trade Development and Assistance Act of 1954, as Amended, and Food for Progress Act of 1985, as Amended
 

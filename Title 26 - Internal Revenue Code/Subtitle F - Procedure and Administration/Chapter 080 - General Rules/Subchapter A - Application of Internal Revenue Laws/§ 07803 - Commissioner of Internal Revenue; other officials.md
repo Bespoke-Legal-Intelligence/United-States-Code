@@ -6,19 +6,23 @@
 
 #### (A) In general
 
-&emsp;&emsp;There shall be in the Department of the Treasury a Commissioner of Internal Revenue who shall be appointed by the President, by and with the advice and consent of the Senate, to a 5-year term. Such appointment shall be made from individuals who, among other qualifications, have a demonstrated ability in management.
+&emsp;&emsp;There shall be in the Department of the Treasury a Commissioner of Internal Revenue who shall be appointed by the President, by and with the advice and consent of the Senate. Such appointment shall be made from individuals who, among other qualifications, have a demonstrated ability in management.
 
-#### (B) Vacancy
+#### (B) Term
 
-&emsp;&emsp;Any individual appointed to fill a vacancy in the position of Commissioner occurring before the expiration of the term for which such individual's predecessor was appointed shall be appointed only for the remainder of that term.
+&emsp;&emsp;The term of the Commissioner of Internal Revenue shall be a 5-year term, beginning with a term to commence on November 13, 1997. Each subsequent term shall begin on the day after the date on which the previous term expires.
 
-#### (C) Removal
+#### (C) Vacancy
+
+&emsp;&emsp;Any individual appointed as Commissioner of Internal Revenue during a term as defined in subparagraph (B) shall be appointed for the remainder of that term.
+
+#### (D) Removal
 
 &emsp;&emsp;The Commissioner may be removed at the will of the President.
 
-#### (D) Reappointment
+#### (E) Reappointment
 
-&emsp;&emsp;The Commissioner may be appointed to more than one 5-year term.
+&emsp;&emsp;The Commissioner may be appointed to serve more than one term.
 
 #### (2) Duties
 
@@ -86,7 +90,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Office of the Taxpayer Advocate shall be under the supervision and direction of an official to be known as the “National Taxpayer Advocate”. The NationalTaxpayer Advocate shall report directly to the Commissioner of Internal Revenue and shall be entitled to compensation at the same rate as the highest rate of basic pay established for the Senior Executive Service under section 5382 of title 5, United States Code, or, if the Secretary of the Treasury so determines, at a rate fixed under section 9503 of such title.
+&emsp;&emsp;&emsp;The Office of the Taxpayer Advocate shall be under the supervision and direction of an official to be known as the “National Taxpayer Advocate”. The National Taxpayer Advocate shall report directly to the Commissioner of Internal Revenue and shall be entitled to compensation at the same rate as the highest rate of basic pay established for the Senior Executive Service under section 5382 of title 5, United States Code, or, if the Secretary of the Treasury so determines, at a rate fixed under section 9503 of such title.
 
 #### (ii) Appointment
 
@@ -152,7 +156,7 @@
 
 #### (iii) Report to be submitted directly
 
-&emsp;&emsp;&emsp;Each report required under this subparagraph shall be provided directly to the committees described in clause (i) without any prior review or comment from the Commissioner, the Secretary of the Treasury, the Oversight Board, any other officeror employee of the Department of the Treasury, or the Office of Management and Budget.
+&emsp;&emsp;&emsp;Each report required under this subparagraph shall be provided directly to the committees described in clause (i) without any prior review or comment from the Commissioner, the Secretary of the Treasury, the Oversight Board, any other officer or employee of the Department of the Treasury, or the Office of Management and Budget.
 
 #### (iv) Coordination with report of Treasury Inspector General for Tax Administration
 
@@ -252,7 +256,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 &emsp;&emsp;(iii) a summary of the status of such complaints and allegations; and
 
-&emsp;&emsp;(iv) a summary of the disposition of such complaints and allegations, including the outcome of any Department of Justice action and any monies paid as a settlement of such complaints and allegations.
+&emsp;&emsp;(iv) a summary of the disposition of such complaints and allegations, including theoutcome of any Department of Justice action and any monies paid as a settlement of such complaints and allegations.
 
 &emsp;(B) Clauses (iii) and (iv) of subparagraph (A) shall only apply to complaints and allegations of serious employee misconduct.
 
@@ -264,7 +268,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 &emsp;&emsp;(B) establish and maintain a toll-free telephone number for taxpayers to use to confidentially register complaints of misconduct by Internal Revenue Service employees and incorporate the telephone number in the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights (Internal Revenue Service Publication No. 1).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, §1(a), Jan. 4, 2008, 121 Stat. 2532.)
 
 #### References in Text
 
@@ -278,6 +282,8 @@ Section 6227 of the Omnibus Taxpayer Bill of Rights, referred to in subsec. (d)(
 
 #### Amendments
 
+2008—Subsec. (a)(1). Pub. L. 110–176 amended par. (1) generally, substituting provisions relating to appointment, consisting of subpars. (A) to (E), for similar provisions, consisting of subpars. (A) to (D).
+
 1998—Pub. L. 105–206 amended section catchline and text generally, substituting present provisions for provisions which: in subsec. (a), authorized appointment of persons for administration and enforcement of internal revenue laws; in subsec. (b), directed Secretary to determine and designate posts of duty of employees in field service, and authorized Secretary to order such employees to duty within and outside District of Columbia; and in subsec. (c), directed Secretary to issue notice and demand for failure to account for and pay over money or property collected in connection with internal revenue laws, and deemed amount so demanded to be imposed and assessed upon the officer or employee upon the date of such notice and demand. See section 7804 of this title.
 
 1976—Subsecs. (a), (b), (c). Pub. L. 94–455, §1906(b) (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
@@ -288,9 +294,13 @@ Subsecs. (c), (d). Pub. L. 94–455, §1906(a)(58), redesignated subsec. (d) as 
 
 #### Change of Name
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–176, §1(b), Jan. 4, 2008, 121 Stat. 2532, provided that: “The amendment made by this section \[amending this section\] shall apply as if included in the amendment made by section 1102(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\].”
 
 #### Effective Date of 1998 Amendment
 

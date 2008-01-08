@@ -16,7 +16,7 @@ This section shall not apply to any overseas public diplomacy post closed—
 
 &emsp;(2) where there is a real and present threat to United States diplomats in the city where the post is located and where a travel advisory warning against travel by United States citizens to the city has been issued by the Department of State.
 
-(Jan. 27, 1948, ch. 36, title VIII, §812, as added Pub. L. 102–138, title II, §206(a), Oct. 28, 1991, 105Stat. 693; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(a)(5), Oct. 21, 1998, 112 Stat. 2681–787.)
+(Jan. 27, 1948, ch. 36, title VIII, §812, as added Pub. L. 102–138, title II, §206(a), Oct. 28, 1991, 105 Stat. 693; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(a)(5), Oct. 21, 1998, 112 Stat. 2681–787.)
 
 #### Prior Provisions
 
@@ -31,10 +31,6 @@ Subsec. (a). Pub. L. 105–277, §1335(a)(5)(A), (B), substituted “Department 
 Subsec. (b). Pub. L. 105–277, §1335(a)(5)(A), (C), substituted “overseas public diplomacy post” for “United States Information Agency post” and “Secretary of State” for “Director of the United States Information Agency”.
 
 Subsec. (c). Pub. L. 105–277, §1335(a)(5)(A), substituted “overseas public diplomacy post” for “United States Information Agency post” in introductory provisions.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1998 Amendment
 

@@ -6,7 +6,7 @@ Consistent with the findings of section 3901 of this title, the Foreign Service 
 
 #### (b) Objectives
 
-The objective of this subchapter is to strengthen and improve the Foreign Service of the United States through the establishment ofa Foreign Service Internship Program. The program shall promote the Foreign Service as a viable and rewarding career opportunity for qualified individuals who reflect the cultural and ethnic diversity of the United States through a highly selective internship program for students enrolled in institutions of higher education.
+The objective of this subchapter is to strengthen and improve the Foreign Service of the United States through the establishment of a Foreign Service Internship Program. The program shall promote the Foreign Service as a viable and rewarding career opportunity for qualified individuals who reflect the cultural and ethnic diversity of the United States through a highly selective internship program for students enrolled in institutions of higher education.
 
 (Pub. L. 96–465, title I, §1201, as added Pub. L. 101–246, title I, §149(b), Feb. 16, 1990, 104 Stat. 39.)
 

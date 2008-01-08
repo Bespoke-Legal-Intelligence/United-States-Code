@@ -30,7 +30,7 @@ Advisory and training assistance conducted by military personnel assigned under 
 
 #### (d) Costs
 
-Effective October 1, 1989, the entire costs (excluding salaries of the United States military personnel other than the Coast Guard) of overseas management of international security assistance programs under this section shall be charged to or reimbursed from funds made available to carry out this part or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], other thanany such costs which are either paid directly for such defense services under section 21(a) of the Arms Export Control Act \[22 U.S.C. 2761(a)\] or reimbursed from charges for services collected from foreign governments pursuant to section 21(e) \[22 U.S.C. 2761(e)\] and section 43(b) \[22 U.S.C. 2792(b)\] of that Act.
+Effective October 1, 1989, the entire costs (excluding salaries of the United States military personnel other than the Coast Guard) of overseas management of international security assistance programs under this section shall be charged to or reimbursed from funds made available to carry out this part or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], other than any such costs which are either paid directly for such defense services under section 21(a) of the Arms Export Control Act \[22 U.S.C. 2761(a)\] or reimbursed from charges for services collected from foreign governments pursuant to section 21(e) \[22 U.S.C. 2761(e)\] and section 43(b) \[22 U.S.C. 2792(b)\] of that Act.
 
 #### (e) Direction and supervision of assigned personnel
 
@@ -109,10 +109,6 @@ Subsecs. (e) to (g). Pub. L. 95–92 added subsecs. (e) to (g).
 1976—Subsec. (a). Pub. L. 94–329, §104(1), designated existing provisions as subsec. (a) and substituted “During the period beginning July 1, 1976, and ending September 30, 1977” for “Effective July 1, 1976”.
 
 Subsecs. (b) to (d). Pub. L. 94–329, §104(2), added subsecs. (b) to (d).
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 

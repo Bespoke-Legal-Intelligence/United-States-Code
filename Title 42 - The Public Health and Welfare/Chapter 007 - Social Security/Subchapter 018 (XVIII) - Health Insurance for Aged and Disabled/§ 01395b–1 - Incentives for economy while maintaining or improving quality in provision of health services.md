@@ -48,7 +48,7 @@
 
 > For purposes of this subsection, “health programs established by this chapter” means the program established by this subchapter and a program established by a plan of a State approved under subchapter XIX of this chapter.
 
-(2) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under paragraph (1)shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1395t of this title) and from funds appropriated under subchapter XIX of this chapter. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this section. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such subchapter XIX of this chapter) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
+(2) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under paragraph (1) shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1395t of this title) and from funds appropriated under subchapter XIX of this chapter. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this section. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such subchapter XIX of this chapter) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
 
 #### (b) Waiver of certain payment or reimbursement requirements; advice and recommendations of specialists preceding experiments and demonstration projects
 
@@ -222,7 +222,7 @@ In general.—By not later than January 1, 2008, the Secretary of Health and Hum
 
 &emsp;“(2)
 
-Number of sites.—The Secretary shall conduct the demonstration program under this section withsufficient numbers to determine statistically reliable results.
+Number of sites.—The Secretary shall conduct the demonstration program under this section with sufficient numbers to determine statistically reliable results.
 
 &emsp;“(3)
 
@@ -484,7 +484,7 @@ Limitation.—In conducting demonstration projects, the Secretary shall ensure t
 
 #### Lifestyle Modification Program Demonstration
 
-Pub. L. 106–554, §1(a)(6) \[title I, §128\], Dec. 21, 2000, 114 Stat. 2763, 2763A–480, as amended by Pub. L. 108–173,title VII, §736(b)(13), Dec. 8, 2003, 117 Stat. 2356, provided that:
+Pub. L. 106–554, §1(a)(6) \[title I, §128\], Dec. 21, 2000, 114 Stat. 2763, 2763A–480, as amended by Pub. L. 108–173, title VII, §736(b)(13), Dec. 8, 2003, 117 Stat. 2356, provided that:
 
 “(a)
 
@@ -620,7 +620,7 @@ Cancer hospital.—In the case of the project described in subsection (b)(2)(C),
 
 &emsp;&emsp;“(B)
 
-Limitation.—In conducting the demonstration project under this section, the Secretary shall ensure that the aggregate payments made by theSecretary do not exceed the amount which the Secretary would have paid if the demonstration projects under this section were not implemented.
+Limitation.—In conducting the demonstration project under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary would have paid if the demonstration projects under this section were not implemented.
 
 &emsp;“(2)
 
@@ -728,7 +728,7 @@ Limitation.—The total amount of the payments that may be made under this secti
 
 &emsp;“(4)
 
-Cost-sharing.—The project may not impose cost-sharing on a medicare beneficiary for the receiptof services under the project. Project costs will cover all costs to medicare beneficiaries and providers related to participation in the project.
+Cost-sharing.—The project may not impose cost-sharing on a medicare beneficiary for the receipt of services under the project. Project costs will cover all costs to medicare beneficiaries and providers related to participation in the project.
 
 “(e)
 
@@ -886,7 +886,7 @@ For treatment of hospitals in States which have had a waiver approved under this
 
 #### Extension of Certain Medicare Municipal Health Services Demonstration Projects
 
-Pub. L. 99–272, title IX, §9215, Apr. 7, 1986, 100 Stat. 180, as amended by Pub. L. 101–239, title VI, §6135, Dec. 19, 1989, 103 Stat. 2222; Pub. L. 103–66, title XIII, §13557, Aug. 10, 1993, 107 Stat. 592; Pub. L. 105–33, title IV, §4017, Aug. 5, 1997, 111 Stat. 345; Pub. L. 106–113, div. B,§1000(a)(6) \[title V, §534\], Nov. 29, 1999, 113 Stat. 1536, 1501A–390; Pub. L. 106–554, §1(a)(6) \[title VI, §633\], Dec. 21, 2000, 114 Stat. 2763, 2763A–568; Pub. L. 108–173, title II, §235, Dec. 8, 2003, 117 Stat. 2210, provided that:
+Pub. L. 99–272, title IX, §9215, Apr. 7, 1986, 100 Stat. 180, as amended by Pub. L. 101–239, title VI, §6135, Dec. 19, 1989, 103 Stat. 2222; Pub. L. 103–66, title XIII, §13557, Aug. 10, 1993, 107 Stat. 592; Pub. L. 105–33, title IV, §4017, Aug. 5, 1997, 111 Stat. 345; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §534\], Nov. 29, 1999, 113 Stat. 1536, 1501A–390; Pub. L. 106–554, §1(a)(6) \[title VI, §633\], Dec. 21, 2000, 114 Stat. 2763, 2763A–568; Pub. L. 108–173, title II, §235, Dec. 8, 2003, 117 Stat. 2210, provided that:
 
 “(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval of four municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2006, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
 
@@ -918,7 +918,7 @@ Section 2320 of Pub. L. 98–369 provided that:
 
 Pub. L. 98–21, title VI, §603(b), Apr. 20, 1983, 97 Stat. 167, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x, 1395y, 1395cc, 1395mm, 1395<i>oo</i>, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes under this section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under section 1395x of this title\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
+“(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x,1395y, 1395cc, 1395mm, 1395<i>oo</i>, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes under this section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under section 1395x of this title\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
 
 “(2) The Secretary shall provide that, upon the request of a State which has a demonstration project, for payment of hospitals under title XVIII of the Social Security Act \[this subchapter\] approved under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\] or section 222(a) of the Social Security Amendments of 1972 \[set out as a note below\], which (A) is in effect as of March 1, 1983, and (B) was entered into after August 1982 (or upon the request of another party to demonstration project agreement), the terms of the demonstration agreement shall be modified so that the demonstration project is not required to maintain the rate of increase in medicare hospital costs in that State below the national rate of increase in medicare hospital costs.”
 
@@ -966,7 +966,7 @@ Pub. L. 94–182, title I, §107, Dec. 31, 1975, 89 Stat. 1053, provided that: �
 
 Section 222(a) of Pub. L. 92–603, as amended by Pub. L. 97–35, title XXI, §2193(e), Aug. 13, 1981, 95 Stat. 828, provided that:
 
-“(1) The Secretary of Health, Education, and Welfare \[now Health and Human Services\], directly or through contracts with, or grants to, public or private agencies or organizations, shall develop and carry out experiments and demonstration projects designed to determine the relative advantages and disadvantages of various alternative methods of making payment on a prospective basis to hospitals, skilled nursing facilities, and other providers of services for care and servicesprovided by them under title XVIII of the Social Security Act \[this subchapter\] and under State plans approved under title XIX of such Act \[subchapter XIX of this chapter\], including alternative methods for classifying providers, for establishing prospective rates of payment, and for implementing on a gradual, selective, or other basis the establishment of a prospective payment system, in order to stimulate such providers through positive (or negative) financial incentives to use their facilities and personnel more efficiently and thereby to reduce the total costs of the health programs involved without adversely affecting the quality of services by containing or lowering the rate of increase in provider costs that has been and is being experienced under the existing system of retroactive cost reimbursement.
+“(1) The Secretary of Health, Education, and Welfare \[now Health and Human Services\], directly or through contracts with, or grants to, public or private agencies or organizations, shall develop and carry out experiments and demonstration projects designed to determine the relative advantages and disadvantages of various alternative methods of making payment on a prospective basis to hospitals, skilled nursing facilities, and other providers of services for care and services provided by them under title XVIII of the Social Security Act \[this subchapter\] and under State plans approved under title XIX of such Act \[subchapter XIX of this chapter\], including alternative methods for classifying providers, for establishing prospective rates of payment, and for implementing on a gradual, selective, or other basis the establishment of a prospective payment system, in order to stimulate such providers through positive (or negative) financial incentives to use their facilities and personnel more efficiently and thereby to reduce the total costs of the health programs involved without adversely affecting the quality of services by containing or lowering the rate of increase in provider costs that has been and is being experienced under the existing system of retroactive cost reimbursement.
 
 “(2) The experiments and demonstration projects developed under paragraph (1) shall be of sufficient scope and shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods of prospective payment under consideration while giving assurance that the results derived from the experiments and projects will obtain generally in the operation of the programs involved (without committing such programs to the adoption of any prospective payment system either locally or nationally).
 

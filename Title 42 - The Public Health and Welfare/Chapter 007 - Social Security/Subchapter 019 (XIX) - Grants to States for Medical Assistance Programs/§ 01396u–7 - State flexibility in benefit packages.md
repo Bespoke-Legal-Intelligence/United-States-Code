@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter, a State, at its option as aState plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through enrollment in coverage that provides—
+&emsp;&emsp;Notwithstanding any other provision of this subchapter, a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through enrollment in coverage that provides—
 
 &emsp;&emsp;&emsp;(i) benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2); and
 
@@ -22,7 +22,7 @@
 
 #### (D) Treatment as medical assistance
 
-&emsp;&emsp;Payment of premiums for such coverage under this subsection shall be treated as payment of other insurance premiums described in the third sentence of section 1396d(a) of this title.
+&emsp;&emsp;Payment of premiums for such coverage under this subsection shall be treated aspayment of other insurance premiums described in the third sentence of section 1396d(a) of this title.
 
 #### (2) Application
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) qualifies for medical assistance on the basis of section 1396a(a)(10)(A)(ii)(XII) of this title; or
 
-&emsp;&emsp;&emsp;&emsp;(II) is not a qualified alien (as defined in section 1641 of title 8) and receives care and services necessary for the treatment of an emergency medical conditionin accordance with section 1396b(v) of this title.
+&emsp;&emsp;&emsp;&emsp;(II) is not a qualified alien (as defined in section 1641 of title 8) and receives care and services necessary for the treatment of an emergency medical condition in accordance with section 1396b(v) of this title.
 
 #### (C) Full-benefit eligible individuals
 
@@ -176,7 +176,7 @@
 
 &emsp;Notwithstanding the previous provisions of this section, a State may not provide for medical assistance through enrollment of an individual with benchmark coverage or benchmark equivalent coverage under this section unless—
 
-&emsp;&emsp;(A) the individual has access, through such coverage or otherwise, to services describedin subparagraphs (B) and (C) of section 1396d(a)(2) of this title; and
+&emsp;&emsp;(A) the individual has access, through such coverage or otherwise, to services described in subparagraphs (B) and (C) of section 1396d(a)(2) of this title; and
 
 &emsp;&emsp;(B) payment for such services is made in accordance with the requirements of section 1396a(bb) of this title.
 

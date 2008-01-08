@@ -112,5 +112,5 @@ Amendments by Pub. L. 101–535 not to be construed to alter the authority of th
 
 #### Delayed Applicability of Certain Provisions
 
-Pub. L. 102–408, title III, §310, Oct. 13, 1992, 106 Stat. 2090, provided that: “Notwithstanding any other provision of law, section 403A(a)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343–1(a)(1)) shall not apply with respect to any requirement of any State or political subdivision regarding maple syrup until September 1, 1994.”
+Pub. L. 102–408, title III, §310, Oct. 13, 1992, 106 Stat. 2090, provided that: “Notwithstanding any other provision of law, section 403A(a)(1) of the Federal Food,Drug, and Cosmetic Act (21 U.S.C. 343–1(a)(1)) shall not apply with respect to any requirement of any State or political subdivision regarding maple syrup until September 1, 1994.”
 

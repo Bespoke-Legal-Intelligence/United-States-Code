@@ -6,7 +6,7 @@ Not later than May 30 of each year, the Commissioner of Social Security shall pr
 
 &emsp;(1) a comprehensive description of the program;
 
-&emsp;(2) historical and current data on allowances and denials, including number of applicationsand allowance rates for initial determinations, reconsideration determinations, administrative law judge hearings, appeals council reviews, and Federal court decisions;
+&emsp;(2) historical and current data on allowances and denials, including number of applications and allowance rates for initial determinations, reconsideration determinations, administrative law judge hearings, appeals council reviews, and Federal court decisions;
 
 &emsp;(3) historical and current data on characteristics of recipients and program costs, by recipient group (aged, blind, disabled adults, and disabled children);
 

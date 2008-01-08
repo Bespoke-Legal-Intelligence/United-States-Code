@@ -7,7 +7,7 @@
 | [6673\.](%C2%A7%2006673%20-%20Sanctions%20and%20costs%20awarded%20by%20courts.md) | Sanctions and costs awarded by courts. |
 | [6674\.](%C2%A7%2006674%20-%20Fraudulent%20statement%20or%20failure%20to%20furnish%20statement%20to%20employee.md) | Fraudulent statement or failure to furnish statement to employee. |
 | [6675\.](%C2%A7%2006675%20-%20Excessive%20claims%20with%20respect%20to%20the%20use%20of%20certain%20fuels.md) | Excessive claims with respect to the use of certain fuels. |
-| \[6676. | Repealed.\] |
+| [6676\.](%C2%A7%2006676%20-%20Erroneous%20claim%20for%20refund%20or%20credit.md) | Erroneous claim for refund or credit. |
 | [6677\.](%C2%A7%2006677%20-%20Failure%20to%20file%20information%20with%20respect%20to%20certain%20foreign%20trusts.md) | Failure to file information with respect to certain foreign trusts. |
 | \[6678. | Repealed.\] |
 | [6679\.](%C2%A7%2006679%20-%20Failure%20to%20file%20returns%2C%20etc.%2C%20with%20respect%20to%20foreign%20corporations%20or%20foreign%20partnerships.md) | Failure to file returns, etc., with respect to foreign corporations or foreign partnerships. |
@@ -21,7 +21,12 @@
 |  |  |
 | :--- | ---: |
 | [6685\.](%C2%A7%2006685%20-%20Assessable%20penalty%20with%20respect%20to%20public%20inspection%20requirements%20for%20certain%20tax-exempt%20organizations.md) | Assessable penalty with respect to public inspection requirements for certain tax-exempt organizations. |
-| [6686\.](%C2%A7%2006686%20-%20Failure%20to%20file%20returns%20or%20supply%20information%20by%20DISC%20or%20FSC.md) | Failure to file returns or supply information by DISC or FSC. |
+| [6686\.](%C2%A7%2006686%20-%20Failure%20to%20file%20returns%20or%20supply%20information%20by%20DISC%20or%20former%20FSC.md) | Failure to file returns or supply information by DISC or FSC.<sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | \[6687. | Repealed.\] |
 | [6688\.](%C2%A7%2006688%20-%20Assessable%20penalties%20with%20respect%20to%20information%20required%20to%20be%20furnished%20under%20section%207654.md) | Assessable penalties with respect to information required to be furnished under section 7654. |
 | [6689\.](%C2%A7%2006689%20-%20Failure%20to%20file%20notice%20of%20redetermination%20of%20foreign%20tax.md) | Failure to file notice of redetermination of foreign tax. |
@@ -29,13 +34,14 @@
 | \[6691. | Reserved.\] |
 | [6692\.](%C2%A7%2006692%20-%20Failure%20to%20file%20actuarial%20report.md) | Failure to file actuarial report. |
 | [6693\.](%C2%A7%2006693%20-%20Failure%20to%20provide%20reports%20on%20certain%20tax-favored%20accounts%20or%20annuities%3B%20penalties%20relating%20to%20designated%20nondeductible%20contributions.md) | Failure to provide reports on certain tax-favored accounts or annuities; penalties relating to designated nondeductible contributions. |
-| [6694\.](%C2%A7%2006694%20-%20Understatement%20of%20taxpayer%27s%20liability%20by%20income%20tax%20return%20preparer.md) | Understatement of taxpayer's liability by income tax return preparer. |
-| [6695\.](%C2%A7%2006695%20-%20Other%20assessable%20penalties%20with%20respect%20to%20the%20preparation%20of%20income%20tax%20returns%20for%20other%20persons.md) | Other assessable penalties with respect to the preparation of income tax returns for other persons. |
+| [6694\.](%C2%A7%2006694%20-%20Understatement%20of%20taxpayer%27s%20liability%20by%20tax%20return%20preparer.md) | Understatement of taxpayer's liability by tax return preparer. |
+| [6695\.](%C2%A7%2006695%20-%20Other%20assessable%20penalties%20with%20respect%20to%20the%20preparation%20of%20tax%20returns%20for%20other%20persons.md) | Other assessable penalties with respect to the preparation of tax returns for other persons. |
 | [6695A.](%C2%A7%2006695A%20-%20Substantial%20and%20gross%20valuation%20misstatements%20attributable%20to%20incorrect%20appraisals.md) | Substantial and gross valuation misstatements attributable to incorrect appraisals. |
 | [6696\.](%C2%A7%2006696%20-%20Rules%20applicable%20with%20respect%20to%20sections%206694%2C%206695%2C%20and%206695A.md) | Rules applicable with respect to sections 6694, 6695, and 6695A. |
 | [6697\.](%C2%A7%2006697%20-%20Assessable%20penalties%20with%20respect%20to%20liability%20for%20tax%20of%20regulated%20investment%20companies.md) | Assessable penalties with respect to liability for tax of regulated investment companies. |
 | [6698\.](%C2%A7%2006698%20-%20Failure%20to%20file%20partnership%20return.md) | Failure to file partnership return. |
-| \[6698A, 6699. Repealed.\] |  |
+| \[6698A. | Repealed.\] |
+| [6699\.](%C2%A7%2006699%20-%20Failure%20to%20file%20S%20corporation%20return.md) | Failure to file S corporation return. |
 | [6700\.](%C2%A7%2006700%20-%20Promoting%20abusive%20tax%20shelters%2C%20etc.md) | Promoting abusive tax shelters, etc. |
 | [6701\.](%C2%A7%2006701%20-%20Penalties%20for%20aiding%20and%20abetting%20understatement%20of%20tax%20liability.md) | Penalties for aiding and abetting understatement of tax liability. |
 | [6702\.](%C2%A7%2006702%20-%20Frivolous%20tax%20submissions.md) | Frivolous tax submissions. |
@@ -66,6 +72,10 @@
 
 #### Amendments
 
+2007—Pub. L. 110–142, §9(b), Dec. 20, 2007, 121 Stat. 1807, which directed amendment of the analysis for this part by adding item 6699 at the end, was executed by inserting item 6699 after item 6698, to reflect the probable intent of Congress.
+
+Pub. L. 110–28, title VIII, §§8246(a)(2)(F)(ii), (G)(iii), 8247(b), May 25, 2007, 121 Stat. 202, 204, added item 6676, substituted “tax return preparer” for “income tax return preparer” in item 6694, and struck out “income” before “tax returns” in item 6695.
+
 2006—Pub. L. 109–432, div. A, title IV, §407(e), Dec. 20, 2006, 120 Stat. 2962, substituted “tax submissions” for “income tax return” in item 6702.
 
 Pub. L. 109–280, title XII, §§1215(c)(2), 1219(b)(3), Aug. 17, 2006, 120 Stat. 1079, 1084, which directed amendment of the analysis for part I of subchapter B of chapter 68 by adding items 6695A and 6720B and substituting “6694, 6695, and 6695A” for “6694 and 6695” in item 6696, without specifying the act to be amended, was executed by making the amendments to this analysis, which is part of chapter 68 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
@@ -86,7 +96,7 @@ Pub. L. 109–59, title XI, §§11164(b)(4), 11167(c), Aug. 10, 2005, 119 Stat. 
 
 Pub. L. 103–66, title XIII, §13173(c)(2), Aug. 10, 1993, 107 Stat. 457, added item 6714 “Failure to meet disclosure requirements applicable to quid pro quo contributions”.
 
-1989—Pub. L. 101–239, title VII, §§7711(b)(4), 7731(c), 7816(v)(2), Dec. 19, 1989, 103 Stat. 2393, 2401, 2423, substituted “Sanctions and costs awarded by courts” for “Damages assessable for instituting proceedings before the Tax Court primarily for delay, etc.” in item 6673, struck out items 6676 “Failure to supply identifying numbers” and 6687 “Failure to supply information with respect to place of residence”, and redesignated item 6712 “Disclosure or use of information by preparers of returns” as 6713.
+1989—Pub. L. 101–239, title VII, §§7711(b)(4), 7731(c), 7816(v)(2), Dec. 19, 1989, 103 Stat. 2393, 2401, 2423, substituted “Sanctions and costs awarded by courts” for “Damages assessable for instituting proceedings before the Tax Court primarily for delay, etc.” in item 6673, struck out items 6676 “Failure to supply identifying numbers” and 6687 “Failure to supply information withrespect to place of residence”, and redesignated item 6712 “Disclosure or use of information by preparers of returns” as 6713.
 
 1988—Pub. L. 100–647, title I, §1011(b)(4)(B)(ii), Nov. 10, 1988, 102 Stat. 3457, substituted “penalties relating to” for “overstatement of” in item 6693.
 
@@ -156,6 +166,8 @@ Act Apr. 2, 1956, ch. 160, §4(g), 70 Stat. 91, added item 6675.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
+<i><sup>2</sup></i><i> Section catchline amended by Pub. L. 110–172 without corresponding amendment of analysis.</i>
+
 
 ---
 
@@ -166,7 +178,7 @@ Act Apr. 2, 1956, ch. 160, §4(g), 70 Stat. 91, added item 6675.
 - [&sect; 06673 - Sanctions and costs awarded by courts](%C2%A7%2006673%20-%20Sanctions%20and%20costs%20awarded%20by%20courts.md)
 - [&sect; 06674 - Fraudulent statement or failure to furnish statement to employee](%C2%A7%2006674%20-%20Fraudulent%20statement%20or%20failure%20to%20furnish%20statement%20to%20employee.md)
 - [&sect; 06675 - Excessive claims with respect to the use of certain fuels](%C2%A7%2006675%20-%20Excessive%20claims%20with%20respect%20to%20the%20use%20of%20certain%20fuels.md)
-- [&sect; 06676 - Repealed. Pub. L. 101&#8211;239, title VII, &sect;7711(b)(1), Dec. 19, 1989, 103 Stat. 2393](%C2%A7%2006676%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93239%2C%20title%20VII%2C%20%C2%A77711%28b%29%281%29%2C%20Dec.%2019%2C%201989%2C%20103%20Stat.%202393.md)
+- [&sect; 06676 - Erroneous claim for refund or credit](%C2%A7%2006676%20-%20Erroneous%20claim%20for%20refund%20or%20credit.md)
 - [&sect; 06677 - Failure to file information with respect to certain foreign trusts](%C2%A7%2006677%20-%20Failure%20to%20file%20information%20with%20respect%20to%20certain%20foreign%20trusts.md)
 - [&sect; 06678 - Repealed. Pub. L. 99&#8211;514, title XV, &sect;1501(d)(2), Oct. 22, 1986, 100 Stat. 2740](%C2%A7%2006678%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20XV%2C%20%C2%A71501%28d%29%282%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202740.md)
 - [&sect; 06679 - Failure to file returns, etc., with respect to foreign corporations or foreign partnerships](%C2%A7%2006679%20-%20Failure%20to%20file%20returns%2C%20etc.%2C%20with%20respect%20to%20foreign%20corporations%20or%20foreign%20partnerships.md)
@@ -176,7 +188,7 @@ Act Apr. 2, 1956, ch. 160, §4(g), 70 Stat. 91, added item 6675.
 - [&sect; 06683 - Repealed. Pub. L. 109&#8211;135, title IV, &sect;403(n)(3)(A), Dec. 21, 2005, 119 Stat. 2626](%C2%A7%2006683%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93135%2C%20title%20IV%2C%20%C2%A7403%28n%29%283%29%28A%29%2C%20Dec.%2021%2C%202005%2C%20119%20Stat.%202626.md)
 - [&sect; 06684 - Assessable penalties with respect to liability for tax under chapter 42](%C2%A7%2006684%20-%20Assessable%20penalties%20with%20respect%20to%20liability%20for%20tax%20under%20chapter%2042.md)
 - [&sect; 06685 - Assessable penalty with respect to public inspection requirements for certain tax-exempt organizations](%C2%A7%2006685%20-%20Assessable%20penalty%20with%20respect%20to%20public%20inspection%20requirements%20for%20certain%20tax-exempt%20organizations.md)
-- [&sect; 06686 - Failure to file returns or supply information by DISC or FSC](%C2%A7%2006686%20-%20Failure%20to%20file%20returns%20or%20supply%20information%20by%20DISC%20or%20FSC.md)
+- [&sect; 06686 - Failure to file returns or supply information by DISC or former FSC](%C2%A7%2006686%20-%20Failure%20to%20file%20returns%20or%20supply%20information%20by%20DISC%20or%20former%20FSC.md)
 - [&sect; 06687 - Repealed. Pub. L. 101&#8211;239, title VII, &sect;7711(b)(1), Dec. 19, 1989, 103 Stat. 2393](%C2%A7%2006687%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93239%2C%20title%20VII%2C%20%C2%A77711%28b%29%281%29%2C%20Dec.%2019%2C%201989%2C%20103%20Stat.%202393.md)
 - [&sect; 06688 - Assessable penalties with respect to information required to be furnished under section 7654](%C2%A7%2006688%20-%20Assessable%20penalties%20with%20respect%20to%20information%20required%20to%20be%20furnished%20under%20section%207654.md)
 - [&sect; 06689 - Failure to file notice of redetermination of foreign tax](%C2%A7%2006689%20-%20Failure%20to%20file%20notice%20of%20redetermination%20of%20foreign%20tax.md)
@@ -184,14 +196,14 @@ Act Apr. 2, 1956, ch. 160, §4(g), 70 Stat. 91, added item 6675.
 - [&sect; 06691 - Reserved](%C2%A7%2006691%20-%20Reserved.md)
 - [&sect; 06692 - Failure to file actuarial report](%C2%A7%2006692%20-%20Failure%20to%20file%20actuarial%20report.md)
 - [&sect; 06693 - Failure to provide reports on certain tax-favored accounts or annuities; penalties relating to designated nondeductible contributions](%C2%A7%2006693%20-%20Failure%20to%20provide%20reports%20on%20certain%20tax-favored%20accounts%20or%20annuities%3B%20penalties%20relating%20to%20designated%20nondeductible%20contributions.md)
-- [&sect; 06694 - Understatement of taxpayer's liability by income tax return preparer](%C2%A7%2006694%20-%20Understatement%20of%20taxpayer%27s%20liability%20by%20income%20tax%20return%20preparer.md)
-- [&sect; 06695 - Other assessable penalties with respect to the preparation of income tax returns for other persons](%C2%A7%2006695%20-%20Other%20assessable%20penalties%20with%20respect%20to%20the%20preparation%20of%20income%20tax%20returns%20for%20other%20persons.md)
+- [&sect; 06694 - Understatement of taxpayer's liability by tax return preparer](%C2%A7%2006694%20-%20Understatement%20of%20taxpayer%27s%20liability%20by%20tax%20return%20preparer.md)
+- [&sect; 06695 - Other assessable penalties with respect to the preparation of tax returns for other persons](%C2%A7%2006695%20-%20Other%20assessable%20penalties%20with%20respect%20to%20the%20preparation%20of%20tax%20returns%20for%20other%20persons.md)
 - [&sect; 06695A - Substantial and gross valuation misstatements attributable to incorrect appraisals](%C2%A7%2006695A%20-%20Substantial%20and%20gross%20valuation%20misstatements%20attributable%20to%20incorrect%20appraisals.md)
 - [&sect; 06696 - Rules applicable with respect to sections 6694, 6695, and 6695A](%C2%A7%2006696%20-%20Rules%20applicable%20with%20respect%20to%20sections%206694%2C%206695%2C%20and%206695A.md)
 - [&sect; 06697 - Assessable penalties with respect to liability for tax of regulated investment companies](%C2%A7%2006697%20-%20Assessable%20penalties%20with%20respect%20to%20liability%20for%20tax%20of%20regulated%20investment%20companies.md)
 - [&sect; 06698 - Failure to file partnership return](%C2%A7%2006698%20-%20Failure%20to%20file%20partnership%20return.md)
 - [&sect; 06698A - Repealed. Pub. L. 96&#8211;223, title IV, &sect;401(a), Apr. 2, 1980, 94 Stat. 299](%C2%A7%2006698A%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93223%2C%20title%20IV%2C%20%C2%A7401%28a%29%2C%20Apr.%202%2C%201980%2C%2094%20Stat.%20299.md)
-- [&sect; 06699 - Repealed. Pub. L. 99&#8211;514, title XI, &sect;1171(b)(7)(A), Oct. 22, 1986, 100 Stat. 2513](%C2%A7%2006699%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20XI%2C%20%C2%A71171%28b%29%287%29%28A%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202513.md)
+- [&sect; 06699 - Failure to file S corporation return](%C2%A7%2006699%20-%20Failure%20to%20file%20S%20corporation%20return.md)
 - [&sect; 06700 - Promoting abusive tax shelters, etc](%C2%A7%2006700%20-%20Promoting%20abusive%20tax%20shelters%2C%20etc.md)
 - [&sect; 06701 - Penalties for aiding and abetting understatement of tax liability](%C2%A7%2006701%20-%20Penalties%20for%20aiding%20and%20abetting%20understatement%20of%20tax%20liability.md)
 - [&sect; 06702 - Frivolous tax submissions](%C2%A7%2006702%20-%20Frivolous%20tax%20submissions.md)

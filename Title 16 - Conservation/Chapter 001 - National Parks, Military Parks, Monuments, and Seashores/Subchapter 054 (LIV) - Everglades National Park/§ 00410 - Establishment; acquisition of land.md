@@ -1,6 +1,6 @@
 ### §410. Establishment; acquisition of land
 
-When title to all the lands within boundaries to be determined by the Secretary of the Interior within the area of approximately two thousand square miles in the region of the Everglades of Dade, Monroe, and Collier Counties, in the State of Florida, recommended by said Secretary, in his report to Congress of December 3, 1930, pursuant to the Act of March 1, 1929 (45 Stat. 1443), shall have been vested in the United States, said lands shall be, and are, established, dedicated, and set apart as a public park for the benefit and enjoyment of the people and shall be known as the Everglades National Park: <i>Provided</i>, That the United States shall not purchase by appropriation of public moneys any land within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
+When title to all the lands within boundaries to be determined by the Secretary of the Interior within the area of approximately two thousand square miles in the region of the Everglades of Dade, Monroe, and Collier Counties, in the State of Florida, recommended by said Secretary, in his report to Congress of December 3, 1930, pursuant to the Act of March 1, 1929 (45 Stat. 1443), shall have been vested in the United States, said lands shall be, and are, established, dedicated, and set apart as a public park for the benefit and enjoyment of the people and shall beknown as the Everglades National Park: <i>Provided</i>, That the United States shall not purchase by appropriation of public moneys any land within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
 
 (May 30, 1934, ch. 371, §1, 48 Stat. 816.)
 
@@ -24,7 +24,7 @@ Pub. L. 105–313, Oct. 30, 1998, 112 Stat. 2964, provided that:
 
 &emsp;“(2) Since the commencement of the Tribe's permitted use and occupancy of the Special Use Permit Area, the Tribe's membership has grown, as have the needs and desires of the Tribe and its members for modern housing, governmental and administrative facilities, schools and cultural amenities, and related structures.
 
-&emsp;“(3) The United States, the State of Florida, the Miccosukee Tribe, and the Seminole Tribe of Floridaare participating in a major intergovernmental effort to restore the South Florida ecosystem, including the restoration of the environment of the Park.
+&emsp;“(3) The United States, the State of Florida, the Miccosukee Tribe, and the Seminole Tribe of Florida are participating in a major intergovernmental effort to restore the South Florida ecosystem, including the restoration of the environment of the Park.
 
 &emsp;“(4) The Special Use Permit Area is located within the northern boundary of the Park, which is critical to the protection and restoration of the Everglades, as well as to the cultural values of the Miccosukee Tribe.
 
@@ -122,7 +122,7 @@ Governance of affairs in miccosukee reserved area.—Subject to the provisions o
 
 “(b)
 
-Perpetual Use and Occupancy.—The Tribe shall have the exclusive right to use and develop the MRA in perpetuity in a manner consistent with this Act for purposes of the administration, education, housing, and cultural activities of the Tribe, including commercial services necessary to support those purposes.
+Perpetual Use and Occupancy.—The Tribe shall have the exclusive right to use and develop the MRA in perpetuity in a manner consistent with this Act forpurposes of the administration, education, housing, and cultural activities of the Tribe, including commercial services necessary to support those purposes.
 
 “(c)
 

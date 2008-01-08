@@ -6,7 +6,7 @@ Amounts described in subsection (b) of this section may not be expended by a Sta
 
 #### (b) Amounts
 
-The amounts referred to in subsection (a) of this section are amounts provided to a Stateunder the Social Security Act (42 U.S.C. 301 et seq.) as reimbursement for the expenditure of payments received by the State from allotments under section 730 of this title.
+The amounts referred to in subsection (a) of this section are amounts provided to a State under the Social Security Act (42 U.S.C. 301 et seq.) as reimbursement for the expenditure of payments received by the State from allotments under section 730 of this title.
 
 (Pub. L. 93–112, title I, §108, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1160.)
 

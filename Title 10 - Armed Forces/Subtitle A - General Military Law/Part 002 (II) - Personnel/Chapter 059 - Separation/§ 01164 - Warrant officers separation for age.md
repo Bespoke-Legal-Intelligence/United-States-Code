@@ -4,7 +4,7 @@
 
 (b) The Secretary concerned may defer, for not more than four months, the separation under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to be retired or separated under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115; Pub. L.90–130, §1(5), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, §511(41), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–295, §1(16), Oct. 12, 1982, 96 Stat. 1290.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, §1(5), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, §511(41), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–295, §1(16), Oct. 12, 1982, 96 Stat. 1290.)
 
 Historical and Revision Notes
 

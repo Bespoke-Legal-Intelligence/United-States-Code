@@ -10,7 +10,7 @@ Nothing in subsection (a) of this section shall apply to—
 
 &emsp;(1) the exportation of such substances from the United States in conformity with subchapter II of this chapter;
 
-&emsp;(2) the delivery of such a substance to or by a common or contract carrier for carriage in the lawful and usual course of its business, or to or by a warehouseman for storage in the lawful and usual course of its business; but where such carriage or storage is in connection with the distribution by the owner of the substance to a third person, this paragraph shall not relieve the distributor from compliance with subsection (a) of this section.
+&emsp;(2) the delivery of such a substance to or by a common or contract carrier for carriage in the lawful and usual course of its business, or to or by a warehouseman for storage in the lawful and usual course of its business; but where such carriage or storage is in connection with the distribution by the owner of thesubstance to a third person, this paragraph shall not relieve the distributor from compliance with subsection (a) of this section.
 
 #### (c) Preservation and availability
 

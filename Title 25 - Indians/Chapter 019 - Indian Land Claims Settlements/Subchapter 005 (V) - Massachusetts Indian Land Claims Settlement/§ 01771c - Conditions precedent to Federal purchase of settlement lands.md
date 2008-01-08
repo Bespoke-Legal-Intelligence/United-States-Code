@@ -6,7 +6,7 @@ No action shall be taken by the Secretary under section 1771d of this title befo
 
 &emsp;(1) the Commonwealth of Massachusetts has enacted legislation which provides that—
 
-&emsp;&emsp;(A) the town of Gay Head, Massachusetts, is authorized to convey to the Secretary to be held in trust for the Wampanoag Tribal Council of Gay Head, Inc. the public settlement lands and the Cook lands subject to the conditions and limitations set forth in the Settlement Agreement; and
+&emsp;&emsp;(A) the town of Gay Head, Massachusetts, is authorized to convey to the Secretary to be held in trust for the Wampanoag TribalCouncil of Gay Head, Inc. the public settlement lands and the Cook lands subject to the conditions and limitations set forth in the Settlement Agreement; and
 
 &emsp;&emsp;(B) the Wampanoag Tribal Council of Gay Head, Inc. shall have the authority, after consultation with appropriate State and local officials, to regulate any hunting by Indians on the settlement lands that is conducted by means other than firearms or crossbow to the extent provided in, and subject to the conditions and limitations set forth in, the Settlement Agreement;
 

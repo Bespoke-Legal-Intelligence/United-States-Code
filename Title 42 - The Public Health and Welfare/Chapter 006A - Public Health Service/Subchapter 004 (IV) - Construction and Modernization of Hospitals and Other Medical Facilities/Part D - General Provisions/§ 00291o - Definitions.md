@@ -16,7 +16,7 @@ For the purposes of this subchapter—
 
 (d) The term “public health center” means a publicly owned facility for the provision of public health services, including related publicly owned facilities such as laboratories, clinics, and administrative offices operated in connection with such a facility.
 
-(e) The term “nonprofit” as applied to any facility means a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of whichinures, or may lawfully inure, to the benefit of any private shareholder or individual.
+(e) The term “nonprofit” as applied to any facility means a facility which is owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 (f) The term “outpatient facility” means a facility (located in or apart from a hospital) for the diagnosis or diagnosis and treatment of ambulatory patients (including ambulatory inpatients)—
 
@@ -86,7 +86,7 @@ Section 116(g) of Pub. L. 91–296 provided that: “The amendments made by subs
 
 Section 117 of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
-Section 118 of Pub. L. 91–296 provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
+Section 118 of Pub. L. 91–296 provided that the amendment made by that section is effective with respect toprojects approved under this subchapter after June 30, 1970.
 
 Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allotments and grants therefrom under part A of this subchapter for fiscal years ending after June 30, 1970, and with respect to loan guarantees and loans under part B of this subchapter made after June 30, 1970, see section 119(e) of Pub. L. 91–296, set out as a note under section 291b of this title.
 

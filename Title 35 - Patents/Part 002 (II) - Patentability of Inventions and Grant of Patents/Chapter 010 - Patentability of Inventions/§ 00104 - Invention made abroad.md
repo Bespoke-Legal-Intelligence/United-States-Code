@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Proceedings.—In proceedings in the Patent and Trademark Office, in the courts, and before any other competent authority, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign countryother than a NAFTA country or a WTO member country, except as provided in sections 119 and 365 of this title.
+Proceedings.—In proceedings in the Patent and Trademark Office, in the courts, and before any other competent authority, an applicant for a patent, or a patentee, may not establish a date of invention by reference to knowledge or use thereof, or other activity with respect thereto, in a foreign country other than a NAFTA country or a WTO member country, except as provided in sections 119 and 365 of this title.
 
 &emsp;(2)
 

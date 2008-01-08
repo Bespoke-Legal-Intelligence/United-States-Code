@@ -16,7 +16,7 @@ The consolidated bank shall be organized and operated on a cooperative basis.
 
 #### References in Text
 
-Section 413 of the Agricultural Credit Act of 1987, referred to in subsec. (a), is section 413 of Pub. L. 100–233,as amended, which is set out as a note under section 2121 of this title.
+Section 413 of the Agricultural Credit Act of 1987, referred to in subsec. (a), is section 413 of Pub. L. 100–233, as amended, which is set out as a note under section 2121 of this title.
 
 #### Amendments
 

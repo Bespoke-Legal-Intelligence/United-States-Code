@@ -2,7 +2,7 @@
 
 (a)
 
-Regulations.—The Secretary of Defense shall prescribe regulations to require that theArmy, Navy, Air Force, and Marine Corps ensure their compliance with any directives issued by the Secretary of Defense in implementing any voting assistance program.
+Regulations.—The Secretary of Defense shall prescribe regulations to require that the Army, Navy, Air Force, and Marine Corps ensure their compliance with any directives issued by the Secretary of Defense in implementing any voting assistance program.
 
 (b)
 
@@ -42,7 +42,7 @@ Voting Assistance Officers.—(1) Voting assistance officers shall be appointed 
 
 (g)
 
-Delivery of Mail From Overseas Preceding Federal Elections.—(1) During the four months preceding a general Federal election month, the Secretary of Defense shall periodically conduct surveys of all overseas locations and vessels at sea with military units responsible for collecting mail for return shipment to the United States and all port facilities in the United States and overseas where military-related mail is collected for shipment to overseas locations or to the United States. The purpose of each survey shall be to determine if voting materials are awaiting shipment at any such location and, if so, the length of time that such materials have been held at that location. During the fourth and third months before a general Federal election month, such surveys shall be conducted biweekly. During the second and first months before a general Federal election month, such surveys shall be conducted weekly.
+Delivery of Mail From Overseas Preceding Federal Elections.—(1) During the four months preceding a general Federal election month, the Secretary of Defense shall periodically conduct surveys of all overseas locations and vessels at sea with military units responsible for collecting mail for return shipment to the United States and all port facilities in the United States and overseas where military-related mail is collected for shipment to overseas locations or to the United States. The purpose of each survey shall be to determine if voting materials are awaiting shipment at any such location and, if so, the length of time that such materials have been held at that location. During the fourth and third months before a general Federal election month, such surveys shall be conducted biweekly. During the second and firstmonths before a general Federal election month, such surveys shall be conducted weekly.
 
 (2) The Secretary shall ensure that voting materials are transmitted expeditiously by military postal authorities at all times. The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held.
 
@@ -56,7 +56,7 @@ Notice of Deadlines and Requirements.—The Secretary of each military departmen
 
 Registration and Voting Information for Members and Dependents.—(1) The Secretary of each military department, using a variety of means including both print and electronic media, shall, to the maximum extent practicable, ensure that members of the armed forces and their dependents who are qualified to vote have ready access to information regarding voter registration requirements and deadlines (including voter registration), absentee ballot application requirements and deadlines, and the availability of voting assistance officers to assist members and dependents to understand and comply with these requirements.
 
-(2) The Secretary of each military department shall make the national voter registration formprepared for purposes of the Uniformed and Overseas Citizens Absentee Voting Act by the Federal Election Commission available so that each person who enlists shall receive such form at the time of the enlistment, or as soon thereafter as practicable.
+(2) The Secretary of each military department shall make the national voter registration form prepared for purposes of the Uniformed and Overseas Citizens Absentee Voting Act by the Federal Election Commission available so that each person who enlists shall receive such form at the time of the enlistment, or as soon thereafter as practicable.
 
 (3) Where practicable, a special day or days shall be designated at each military installation for the purpose of informing members of the armed forces and their dependents of election timing, registration requirements, and voting procedures.
 

@@ -62,7 +62,7 @@ After one year from the effective date of this subchapter, neither the charter, 
 
 #### (i) Provisions in contracts protecting against willful misfeasance, etc.
 
-After one year from the effective date of this subchapter no contract or agreement under which any person undertakes to act as investment adviser of, or principal underwriter for, a registered investment company shall contain any provision which protects or purports to protect such person against any liability to such company or its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, or gross negligence, in the performance of his duties, or by reason of his reckless disregard of his obligations and duties under such contract or agreement.
+After one year from the effective date of this subchapter no contract or agreement underwhich any person undertakes to act as investment adviser of, or principal underwriter for, a registered investment company shall contain any provision which protects or purports to protect such person against any liability to such company or its security holders to which he would otherwise be subject by reason of willful misfeasance, bad faith, or gross negligence, in the performance of his duties, or by reason of his reckless disregard of his obligations and duties under such contract or agreement.
 
 #### (j) Rules and regulations prohibiting fraudulent, deceptive or manipulative courses of conduct
 
@@ -80,7 +80,7 @@ For the effective date of this subchapter, referred to in subsecs. (h) and (i), 
 
 1999—Subsec. (a)(4). Pub. L. 106–102, §212, added par. (4).
 
-Subsec. (f). Pub. L. 106–102, §211(a), inserted heading, designated first sentence as par. (1) and cls. (1) to (3) as (A) to (C), respectively, designated second through fifthsentences as pars. (2) to (5), respectively, and realigned margins, and added par. (6).
+Subsec. (f). Pub. L. 106–102, §211(a), inserted heading, designated first sentence as par. (1) and cls. (1) to (3) as (A) to (C), respectively, designated second through fifth sentences as pars. (2) to (5), respectively, and realigned margins, and added par. (6).
 
 1987—Subsec. (h). Pub. L. 100–181 struck out second sentence which read as follows: “In the event that any such instrument does not at the effective date of this chapter comply with the requirements of this subsection and is not amended to comply therewith prior to the expiration of said one year, such company may nevertheless continue to be a registered investment company and shall not be deemed to violate this subsection if prior to said expiration date each such director or officer shall have filed with the Commission a waiver in writing of any protective provision of the instrument to the extent that it does not comply with this subsection, and each such person subsequently elected or appointed shall before assuming office file a similar waiver.”
 

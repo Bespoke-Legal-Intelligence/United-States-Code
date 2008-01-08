@@ -22,7 +22,7 @@ For purposes of juvenile drug courts, the term “violent offender” means a ju
 
 &emsp;(2) by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
 
-(Pub. L. 90–351, title I, §2953, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116Stat. 1795; amended Pub. L. 109–162, title XI, §1141, Jan. 5, 2006, 119 Stat. 3110.)
+(Pub. L. 90–351, title I, §2953, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1795; amended Pub. L. 109–162, title XI, §1141, Jan. 5, 2006, 119 Stat. 3110.)
 
 #### Amendments
 

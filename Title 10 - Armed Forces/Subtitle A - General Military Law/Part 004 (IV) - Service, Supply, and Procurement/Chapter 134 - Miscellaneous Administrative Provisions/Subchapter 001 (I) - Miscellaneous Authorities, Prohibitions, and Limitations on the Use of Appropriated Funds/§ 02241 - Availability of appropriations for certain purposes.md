@@ -210,11 +210,11 @@ Pub. L. 101–511, title VIII, §8019, Nov. 5, 1990, 104 Stat. 1879, provided th
 
 Pub. L. 101–511, title VIII, §8080, Nov. 5, 1990, 104 Stat. 1893, provided that:
 
-“(a) Upon the date of enactment of this Act \[Nov. 5, 1990\], the balances of any unobligated amount of an appropriation of the Department of Defense which has been withdrawn under the provisions of section 1552(a)(2) of title 31, United States Code, the obligated balance of which has not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code, shall be restored to that appropriation.Thirty days following enactment of this Act all balances of unobligated funds withdrawn from any account of the Department of Defense under the provisions of section 1552(a)(2) of title 31, United States Code, prior to the enactment of this Act, (other than those restored pursuant to the provisions of this subsection) are cancelled.
+“(a) Upon the date of enactment of this Act \[Nov. 5, 1990\], the balances of any unobligated amount of an appropriation of the Department of Defense which has been withdrawn under the provisions of section 1552(a)(2) of title 31, United States Code, the obligated balance of which has not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code, shall be restored to that appropriation. Thirty days following enactment of this Act all balances of unobligated funds withdrawn from any account of the Department of Defense under the provisions of section 1552(a)(2) of title 31, United States Code, prior to the enactment of this Act, (other than those restored pursuant to the provisions of this subsection) are cancelled.
 
 “(b) During the current fiscal year and thereafter—
 
-&emsp;“(1) on the 3rd September 30th after enactment of this section \[Nov. 5, 1990\], all obligated balances transferred under section 1552(a)(1) of title 31, United States Code;
+&emsp;“(1) on the 3rd September 30th after enactment of this section \[Nov. 5, 1990\], all obligated balancestransferred under section 1552(a)(1) of title 31, United States Code;
 
 &emsp;“(2) on September 30th of the 5th fiscal year after the period of availability of an appropriation account of the Department of Defense available for obligation for a definite period ends or has ended, with respect to those accounts which, upon the date of enactment of this section have expired for obligation but whose obligated balances have not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code; and
 

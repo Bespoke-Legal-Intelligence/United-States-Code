@@ -20,7 +20,7 @@ The Federal Government shall not—
 
 &emsp;(D) is approved by the Secretary of Defense or his designee.
 
-(2) The requirement under paragraph (1) that the certification described in that paragraph must be transmitted at least 30 days before conversion of the missile shall not apply if the Secretary of Defense determines that compliance with that requirement would be inconsistent with meeting immediate national security requirements.
+(2) The requirement under paragraph (1) that the certification described in that paragraph must be transmitted at least 30 days before conversion of the missile shall not apply if the Secretary of Defense determines that compliance with that requirement would be inconsistentwith meeting immediate national security requirements.
 
 #### (c) Missiles referred to
 
@@ -35,4 +35,8 @@ The missiles referred to in this section are missiles owned by the United States
 #### Amendments
 
 1999—Subsec. (b)(1). Pub. L. 106–65 substituted “transmits to the Committee on Armed Services” for “transmits to the Committee on National Security” in introductory provisions.
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -30,6 +30,10 @@ In subsec. (a), “section 10101 of title 36” substituted for “the Act entit
 
 1988—Subsec. (b). Pub. L. 100–240 inserted “; and a description of all acquisition and disposal of real property that is subject to section 3703(e) of this title” before period at end.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b) of this section is listed on page 203), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.

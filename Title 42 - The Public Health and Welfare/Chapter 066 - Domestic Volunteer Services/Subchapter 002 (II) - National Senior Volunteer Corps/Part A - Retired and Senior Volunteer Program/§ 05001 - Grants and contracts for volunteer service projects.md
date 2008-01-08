@@ -76,7 +76,7 @@ Pub. L. 94–135, title II, §205(c), Nov. 28, 1975, 89 Stat. 727, as amended by
 
 &emsp;“(B) the term ‘primary responsibility’ means the devotion of more than one-half of regular working hours to the performance of duties described in paragraph (2)(B); and
 
-&emsp;“(C) the term ‘State’ means the several States, the District of Columbia, the Virgin Islands, Puerto Rico, Guam, American Samoa, and the Trust Territory of the Pacific Islands.”
+&emsp;“(C) the term ‘State’ means the several States, the District of Columbia, the Virgin Islands, Puerto Rico,Guam, American Samoa, and the Trust Territory of the Pacific Islands.”
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 

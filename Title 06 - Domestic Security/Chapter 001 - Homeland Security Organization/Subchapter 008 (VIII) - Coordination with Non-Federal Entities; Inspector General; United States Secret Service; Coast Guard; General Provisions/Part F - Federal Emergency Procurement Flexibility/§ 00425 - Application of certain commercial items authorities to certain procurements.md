@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The head of an executive agency may apply the provisions of law listed in paragraph (2) to a procurement referred to in section 422 of this title without regard to whether the property or services are commercial items.
+&emsp;The head of an executive agency may apply the provisions of law listed in paragraph (2) toa procurement referred to in section 422 of this title without regard to whether the property or services are commercial items.
 
 #### (2) Commercial item laws
 

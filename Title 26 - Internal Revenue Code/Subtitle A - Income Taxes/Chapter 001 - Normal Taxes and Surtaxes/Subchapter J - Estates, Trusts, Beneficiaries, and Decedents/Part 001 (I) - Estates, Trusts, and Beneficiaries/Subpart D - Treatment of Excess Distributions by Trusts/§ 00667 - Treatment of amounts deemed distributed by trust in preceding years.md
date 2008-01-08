@@ -86,7 +86,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (i) Limitation on credit
 
-&emsp;&emsp;&emsp;For purposes of determining under subparagraph (A) the amount treated as acredit for any computation year, the limitations under subpart A of part III of subchapter N shall be applied separately with respect to amounts added under subsection (b)(1)(C) to the taxable income of the beneficiary for such computation year. For purposes of computing the increase in tax under subsection (b)(1)(D) for any computation year for which the beneficiary did not choose the benefits of subpart A of part III of subchapter N, the beneficiary shall be treated as having chosen such benefits for such computation year.
+&emsp;&emsp;&emsp;For purposes of determining under subparagraph (A) the amount treated as a credit for any computation year, the limitations under subpart A of part III of subchapter N shall be applied separately with respect to amounts added under subsection (b)(1)(C) to the taxable income of the beneficiary for such computation year. For purposes of computing the increase in tax under subsection (b)(1)(D) for any computation year for which the beneficiary did not choose the benefits of subpart A of part III of subchapter N, the beneficiary shall be treated as having chosen such benefits for such computation year.
 
 #### (ii) Retention of character
 
@@ -120,7 +120,7 @@ Subsec. (e). Pub. L. 95–600, §701(r)(1), added subsec. (e).
 
 1977—Subsec. (b)(2). Pub. L. 95–30 substituted “not less than (A) in the case of a beneficiary who is an individual, the zero bracket amount for such year, or (B) in the case of a beneficiary who is a corporation, zero” for “not less than zero”.
 
-1976—Pub. L. 94–455, §§701(a)(1), 1014(a), substituted provisions relating to the treatment of amounts deemed distributed by trust in preceding years for provisions that no refund or credit be allowed to a trust for any preceding taxable year by reason of a distribution deemed to have been made by such trust in such year under section 666 or 669 and that there be allowed as a credit against the tax imposed by this subtitle on the beneficiary an amount equal to the amount of the taxes deemed distributed to such beneficiary by the trust under sections 666(b) and (c) and 669(d) and (e) during preceding taxable years of the trust on the last day of which the beneficiary was in being, reduced by the amount of the taxes deemed distributed to such beneficiary for such preceding taxable years to the extent that such taxes are taken into account under sections 668(b)(1) and 669(b) in determining the amount of the tax imposed by section 668. See section 666(e) of this title.
+1976—Pub. L. 94–455, §§701(a)(1), 1014(a), substituted provisions relating to the treatment of amounts deemed distributed by trust in preceding years for provisions that no refund or credit be allowed to a trustfor any preceding taxable year by reason of a distribution deemed to have been made by such trust in such year under section 666 or 669 and that there be allowed as a credit against the tax imposed by this subtitle on the beneficiary an amount equal to the amount of the taxes deemed distributed to such beneficiary by the trust under sections 666(b) and (c) and 669(d) and (e) during preceding taxable years of the trust on the last day of which the beneficiary was in being, reduced by the amount of the taxes deemed distributed to such beneficiary for such preceding taxable years to the extent that such taxes are taken into account under sections 668(b)(1) and 669(b) in determining the amount of the tax imposed by section 668. See section 666(e) of this title.
 
 1969—Subsec. (a). Pub. L. 91–172 incorporated existing provisions of first sentence in provisions designated as subsec. (a), included distributions made under section 669 of this title, and struck out provisions for credit of taxes imposed on the trust against tax of beneficiary. See subsec. (b) of this section.
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Section 701(h) of Pub. L. 94–455 provided that: “The amendments made by subsections (a), (b), (c), (d), and (f) of this section \[amending this section and sections 665, 666, 1302, and 6401 of this title and repealing sections 668 and 669 of this title\] shall apply to distributions made in taxable years beginning after December31, 1975. The amendments made by subsection (e) of this section \[enacting section 644 of this title and amending section 641 of this title\] shall apply to transfers in trust made after May 21, 1976.”
+Section 701(h) of Pub. L. 94–455 provided that: “The amendments made by subsections (a), (b), (c), (d), and (f) of this section \[amending this section and sections 665, 666, 1302, and 6401 of this title and repealing sections 668 and 669 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975. The amendments made by subsection (e) of this section \[enacting section 644 of this title and amending section 641 of this title\] shall apply to transfers in trust made after May 21, 1976.”
 
 #### Effective Date of 1969 Amendment
 

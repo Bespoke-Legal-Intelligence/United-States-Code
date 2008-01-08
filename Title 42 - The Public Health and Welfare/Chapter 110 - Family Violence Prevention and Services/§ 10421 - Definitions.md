@@ -16,7 +16,7 @@ As used in this chapter:
 
 &emsp;(5) The term “related assistance” means the provision of direct assistance to victims of family violence and their dependents for the purpose of preventing further violence, helping such victims to gain access to civil and criminal courts and other community services, facilitating the efforts of such victims to make decisions concerning their lives in the interest of safety, and assisting such victims in healing from the effects of the violence. The term “related assistance” shall include—
 
-&emsp;&emsp;(A) prevention services such as outreach and prevention services for victims and their children, assistance to children who witness domestic violence, employment training, parenting and other educational services for victims and their children, preventive health services within domestic violence programs (including services promoting nutrition, disease prevention, exercise, and prevention of substance abuse), domestic violence prevention programs for school-age children, family violence public awareness campaigns, and violence prevention counseling services to abusers;
+&emsp;&emsp;(A) prevention services such as outreach and prevention services for victims and their children, assistance to children who witness domestic violence, employment training, parenting and other educational services for victims and their children, preventive health services within domestic violence programs (including services promoting nutrition, disease prevention, exercise, and prevention of substance abuse), domestic violence prevention programs for school-age children, family violence public awareness campaigns,and violence prevention counseling services to abusers;
 
 &emsp;&emsp;(B) counseling with respect to family violence, counseling or other supportive services provided by peers individually or in groups, and referral to community social services;
 
@@ -28,7 +28,7 @@ As used in this chapter:
 
 &emsp;(6) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, except as otherwise provided, Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
-(Pub. L. 98–457, title III, §320, formerly §309, Oct. 9, 1984, 98 Stat. 1762; Pub. L. 102–295, title III,§311(b), May 28, 1992, 106 Stat. 203; Pub. L. 103–322, title IV, §40272(a), Sept. 13, 1994, 108 Stat. 1937; renumbered §320 and amended Pub. L. 108–36, title IV, §§405, 415(5), June 25, 2003, 117 Stat. 826, 830.)
+(Pub. L. 98–457, title III, §320, formerly §309, Oct. 9, 1984, 98 Stat. 1762; Pub. L. 102–295, title III, §311(b), May 28, 1992, 106 Stat. 203; Pub. L. 103–322, title IV, §40272(a), Sept. 13, 1994, 108 Stat. 1937; renumbered §320 and amended Pub. L. 108–36, title IV, §§405, 415(5), June 25, 2003, 117 Stat. 826, 830.)
 
 #### References in Text
 

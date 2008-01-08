@@ -196,7 +196,7 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 #### (C) Authority of Secretary with respect to liability amount
 
-&emsp;&emsp;An action by the Secretary under subparagraph (D) or (F)(iii) of paragraph (1) shall not be subject to administrative or judicial review.
+&emsp;&emsp;An action by the Secretary under subparagraph (D) or (F)(iii) of paragraph (1) shallnot be subject to administrative or judicial review.
 
 #### (8) Criteria for payment by a State agency
 
@@ -284,7 +284,7 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 &emsp;&emsp;&emsp;(ii) establish, by regulation, standards for high and most improved performance to be used in awarding performance bonus payments under subparagraph (B)(ii); and
 
-&emsp;&emsp;&emsp;(iii) before issuing proposed regulations to carry out clauses (i) and (ii), solicit ideas for performance criteria and standards for high and most improved performance from State agencies and organizations that represent State interests.
+&emsp;&emsp;&emsp;(iii) before issuing proposed regulations to carry out clauses (i) and (ii), solicitideas for performance criteria and standards for high and most improved performance from State agencies and organizations that represent State interests.
 
 #### (B) Performance bonus payments
 
@@ -434,7 +434,7 @@ Not later than 180 days after September 19, 1988, and annually thereafter, the S
 
 &emsp;Not later than 180 days after June 23, 1998, the Secretary of Health and Human Services, in consultation with the Secretary of Agriculture and the States, shall, with respect to the base period for each State, determine—
 
-&emsp;&emsp;(A) the annualized amount the State received under section 403(a)(3) of the Social Security Act (42 U.S.C. 603(a)(3) (as in effect during the base period)) for administrative costs common to determining the eligibility of individuals, families, and households eligible or applying for the AFDC program and the food stamp program, the AFDC program and the medicaid program, and the AFDC program, the food stamp program, and the medicaid program that were allocated to the AFDC program; and
+&emsp;&emsp;(A) the annualized amount the State received under section 403(a)(3) of the Social Security Act (42 U.S.C. 603(a)(3) (as in effect during the base period)) for administrative costs common to determining the eligibility of individuals, families, and households eligible or applying for the AFDC program and the food stamp program, the AFDC program and the medicaid program, and the AFDCprogram, the food stamp program, and the medicaid program that were allocated to the AFDC program; and
 
 &emsp;&emsp;(B) the annualized amount the State would have received under section 403(a)(3) of the Social Security Act (42 U.S.C. 603(a)(3) (as so in effect)), section 1903(a)(7) of the Social Security Act (42 U.S.C. 1396b(a)(7) (as so in effect)), and subsection (a) of this section (as so in effect), for administrative costs common to determining the eligibility of individuals, families, and households eligible or applying for the AFDC program and the food stamp program, the AFDC program and the medicaid program, and the AFDC program, the food stamp program, and the medicaid program, if those costs had been allocated equally among such programs for which the individual, family, or household was eligible or applied for.
 
@@ -536,11 +536,7 @@ Not later than 180 days after September 19, 1988, and annually thereafter, the S
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (e), (g), and (k), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI, XIX, and XX of the Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), andXX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
-
-#### Codification
-
-September 19, 1988, referred to in subsec. (d)(2), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 100–435, which enacted provisions of this section establishing the payment error improvement system, as the probable intent of Congress.
+The Social Security Act, referred to in subsecs. (e), (g), and (k), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI, XIX, and XX of the Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -712,7 +708,7 @@ Subsec. (i). Pub. L. 99–198, §1539, added subsec. (i).
 
 1982—Subsec. (a). Pub. L. 97–253, §179, inserted “, except the value of funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title which arise from an error of a State agency”.
 
-Subsec. (c). Pub. L. 97–253, §180(a)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary is authorized to adjust a State agency's federally funded share of administrative costs pursuant to subsection (a) of this section, other than the costs already shared in excess of 50 per centum as described in the exception clause of subsection (a) of this section, by increasing such share to (1) effective October 1, 1978, 60 per centum of all such administrative costs in the case of a State agency whose (A) semiannual cumulative allotment error rates with respect to eligibility, overissuance, and underissuance as calculated in the quality control program undertaken pursuant to subsection (d)(1) of this section are less than five per centum and (B) whose rate of invalid decisions in denying eligibility as calculated in the quality control program conducted under subsection (d)(1) of this section is less than a nationwide percentage that the Secretary determines to be reasonable; (2) effective October 1, 1980, 65 per centum of all such administrative costs in the case of a State agency meeting the standards contained in paragraph (1) of this subsection; (3) effective October 1, 1980, 60 per centum of all such administrative costs in the case of a State agency whose cumulative allotment error rate as determined under paragraph (1)(A) of this subsection is greater than 5 per centum but less than 8 per centum or the national standard payment error rate for the base period, whichever is lower, and which also meets the standard contained in paragraph (1)(B) of this subsection; and (4) effective October 1, 1980, 55 per centum of all such administrative costs in the case of a State agency whose annual rate of error reduction is equal to or exceeds 25 per centum, and, effective October 1, 1981, which also meets the standard contained in paragraph (1)(B) of this subsection. No State agency shall receive more than one of the increased federally funded shares of administrative costs set forth in paragraphs (1) through (4) of this subsection.”
+Subsec. (c). Pub. L. 97–253, §180(a)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary is authorized to adjust a State agency's federally funded share of administrative costspursuant to subsection (a) of this section, other than the costs already shared in excess of 50 per centum as described in the exception clause of subsection (a) of this section, by increasing such share to (1) effective October 1, 1978, 60 per centum of all such administrative costs in the case of a State agency whose (A) semiannual cumulative allotment error rates with respect to eligibility, overissuance, and underissuance as calculated in the quality control program undertaken pursuant to subsection (d)(1) of this section are less than five per centum and (B) whose rate of invalid decisions in denying eligibility as calculated in the quality control program conducted under subsection (d)(1) of this section is less than a nationwide percentage that the Secretary determines to be reasonable; (2) effective October 1, 1980, 65 per centum of all such administrative costs in the case of a State agency meeting the standards contained in paragraph (1) of this subsection; (3) effective October 1, 1980, 60 per centum of all such administrative costs in the case of a State agency whose cumulative allotment error rate as determined under paragraph (1)(A) of this subsection is greater than 5 per centum but less than 8 per centum or the national standard payment error rate for the base period, whichever is lower, and which also meets the standard contained in paragraph (1)(B) of this subsection; and (4) effective October 1, 1980, 55 per centum of all such administrative costs in the case of a State agency whose annual rate of error reduction is equal to or exceeds 25 per centum, and, effective October 1, 1981, which also meets the standard contained in paragraph (1)(B) of this subsection. No State agency shall receive more than one of the increased federally funded shares of administrative costs set forth in paragraphs (1) through (4) of this subsection.”
 
 Subsec. (d). Pub. L. 97–253, §180(a)(2), (3), added subsec. (d), and struck out former subsec. (d) which provided that effective October 1, 1981, and annually thereafter, each State not receiving an increased share of administrative costs pursuant to subsec. (c)(2) of this section was required to develop and submit to the Secretary for approval, as part of the plan of operation required to be submitted under section 2020(d) of this title, a quality control plan for the State which had to specify the actions such State proposes to take in order to reduce the incidence of error rates in and the value of food stamp allotments for households which failed to meet basic program eligibility requirements, food stamp allotments overissued to eligible households, and food stamp allotments underissued to eligible households, and (2) the incidence of invalid decisions in certifying or denying eligibility.
 
@@ -724,7 +720,7 @@ Subsec. (g). Pub. L. 97–253, §180(a)(2), redesignated former subsec. (i) as (
 
 Subsecs. (h), (i). Pub. L. 97–253, §180(a)(2), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
 
-1981—Subsec. (a). Pub. L. 97–35 substituted provisions relating to recovery through section 2022(b)(1) and (2) ofthis title for provisions relating to recovery through prosecutions or other State activities, substituted “determinations of ineligibility” for “determinations of fraud”, struck out “(1) outreach,” and redesignated cls. (2) to (5) as (1) to (4), respectively.
+1981—Subsec. (a). Pub. L. 97–35 substituted provisions relating to recovery through section 2022(b)(1) and (2) of this title for provisions relating to recovery through prosecutions or other State activities, substituted “determinations of ineligibility” for “determinations of fraud”, struck out “(1) outreach,” and redesignated cls. (2) to (5) as (1) to (4), respectively.
 
 Subsec. (b)(1). Pub. L. 97–98, §1325, struck out “, including, but not limited to, staffing standards such as caseload per certification worker limitations,” after “by the States”.
 
@@ -836,7 +832,7 @@ Amendment by sections 204(b), 321(b), and 404(e) of Pub. L. 100–435 to be effe
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–603 effective Oct. 1, 1987, see section 121(c)(2) of Pub. L. 99–603, set out as a note under section 502 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 99–603 effective Oct. 1, 1987, see section 121(c)(2) of Pub. L. 99–603, set out as a noteunder section 502 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1985 Amendment
 

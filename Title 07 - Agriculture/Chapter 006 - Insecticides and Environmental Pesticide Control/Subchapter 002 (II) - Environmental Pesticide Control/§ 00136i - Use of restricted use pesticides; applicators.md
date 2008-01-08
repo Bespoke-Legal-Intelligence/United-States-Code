@@ -8,7 +8,7 @@
 
 #### (2) State certification
 
-&emsp;If any State, at any time, desires to certify applicators of pesticides, the Governor of suchState shall submit a State plan for such purpose. The Administrator shall approve the plan submitted by any State, or any modification thereof, if such plan in the Administrator's judgment—
+&emsp;If any State, at any time, desires to certify applicators of pesticides, the Governor of such State shall submit a State plan for such purpose. The Administrator shall approve the plan submitted by any State, or any modification thereof, if such plan in the Administrator's judgment—
 
 &emsp;&emsp;(A) designates a State agency as the agency responsible for administering the plan throughout the State;
 

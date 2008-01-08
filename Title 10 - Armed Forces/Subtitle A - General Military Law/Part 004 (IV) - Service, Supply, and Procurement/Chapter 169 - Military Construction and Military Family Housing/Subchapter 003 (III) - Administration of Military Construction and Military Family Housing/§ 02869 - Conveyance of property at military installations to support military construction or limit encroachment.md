@@ -88,7 +88,7 @@ Additional Terms and Conditions.—The Secretary concerned may require such addi
 
 #### References in Text
 
-The date of the enactment of the John Warner National Defense Authorization Act for Fiscal Year 2007,referred to in subsec. (a)(3), is the date of enactment of Pub. L. 109–364, which was approved Oct. 17, 2006.
+The date of the enactment of the John Warner National Defense Authorization Act for Fiscal Year 2007, referred to in subsec. (a)(3), is the date of enactment of Pub. L. 109–364, which was approved Oct. 17, 2006.
 
 #### Amendments
 

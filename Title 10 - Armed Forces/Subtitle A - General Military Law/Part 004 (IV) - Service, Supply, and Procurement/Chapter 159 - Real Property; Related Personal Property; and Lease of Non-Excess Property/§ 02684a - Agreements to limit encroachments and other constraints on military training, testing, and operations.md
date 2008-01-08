@@ -48,7 +48,7 @@ Acquisition and Acceptance of Property and Interests.—(1) An agreement with an
 
 &emsp;(iii) The exchange or donation of real property or any interest in real property.
 
-(4) The agreement shall require the entity or entities to transfer to the United States, uponthe request of the Secretary concerned, all or a portion of the property or interest acquired under the agreement or a lesser interest therein. The Secretary shall limit such transfer request to the minimum property or interests necessary to ensure that the property concerned is developed and used in a manner appropriate for purposes of this section.
+(4) The agreement shall require the entity or entities to transfer to the United States, upon the request of the Secretary concerned, all or a portion of the property or interest acquired under the agreement or a lesser interest therein. The Secretary shall limit such transfer request to the minimum property or interests necessary to ensure that the property concerned is developed and used in a manner appropriate for purposes of this section.
 
 (5) The Secretary concerned may accept on behalf of the United States any property or interest to be transferred to the United States under the agreement.
 

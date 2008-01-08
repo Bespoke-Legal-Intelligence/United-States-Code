@@ -53,7 +53,8 @@ Percentages for Computation of State and Other Tax Allowance
 | If parents’ State or territory of residence is— | And parents’ total income is— |  |
 | :--- | :---: | ---: |
 | less than $15,000 or | $15,000 or more |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then the percentage is— |  |  |
+| &nbsp; |  |  |
+| (1)then the percentage is— |  |  |
 |  |  |  |
 |  |  |  |
 | Alaska, Puerto Rico, Wyoming | &nbsp;3 | &nbsp;2 |
@@ -139,7 +140,8 @@ Education Savings and Asset Protection Allowances for Families and Students
 | If the age of the oldest parent is— | And there are |  |
 | :--- | :---: | ---: |
 | two parents | one parent |  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then the allowance is— |  |  |
+| &nbsp; |  |  |
+| (1)then the allowance is— |  |  |
 |  |  |  |
 |  |  |  |
 | 25 or less | &nbsp;$  0 | &nbsp;&nbsp;&nbsp;$0 |
@@ -317,7 +319,21 @@ For periods of enrollment other than 9 months, the parents’ contribution from 
 
 For periods of enrollment of less than 9 months, the student's contribution from adjusted available income (as determined under subsection (g) of this section) is determined, for purposes other than subpart 2 of part A of this subchapter, by dividing the amount determined under such subsection by 9, and multiplying the result by the number of months in the period of enrollment.
 
-(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173.)
+(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801.)
+
+#### Amendment of Subsection (g)(2)(D)
+
+<i>Pub. L. 110–84, title VI, §601(a), (e), Sept. 27, 2007, 121 Stat. 801, 804, provided that, effective July 1, 2009, subsection (g)(2)(D) of this section is amended to read as follows:</i>
+
+&emsp;&emsp;<i>“(D) an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) for academic year 2009–2010, $3,750;</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) for academic year 2010–2011, $4,500;</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) for academic year 2011–2012, $5,250; and</i>
+
+&emsp;&emsp;&emsp;<i>“(iv) for academic year 2012–2013, $6,000;”.</i>
 
 #### Amendments
 
@@ -389,9 +405,13 @@ Subsec. (h). Pub. L. 100–50, §14(11), added subsec. (h) and struck out former
 
 Subsec. (i). Pub. L. 100–50, §14(12), added subsec. (i).
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–84, title VI, §601(e), Sept. 27, 2007, 121 Stat. 804, provided that: “The amendments made by this section \[amending this section and sections 1087pp, 1087qq, and 1087rr of this title\] shall be effective on July 1, 2009.”
+
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 Pub. L. 109–171, title VIII, §8017(a)(2), Feb. 8, 2006, 120 Stat. 173, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007.”
 

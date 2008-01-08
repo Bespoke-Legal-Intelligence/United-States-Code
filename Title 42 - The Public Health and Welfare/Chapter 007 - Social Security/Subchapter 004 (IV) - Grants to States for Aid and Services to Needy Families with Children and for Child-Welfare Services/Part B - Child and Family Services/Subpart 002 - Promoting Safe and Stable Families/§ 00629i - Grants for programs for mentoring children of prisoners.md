@@ -102,7 +102,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 &emsp;(1) the qualifications and capacity of applicants and networks of organizations to effectively carry out a mentoring program under this section;
 
-&emsp;(2) the comparative severity of need for mentoring services in local areas, taking into consideration data on the numbers of children (and in particular of low-income children) with an incarcerated parents <sup>1</sup> (or parents) in the areas;
+&emsp;(2) the comparative severity of need for mentoring services in local areas, taking into consideration data on the numbers of children\(and in particular of low-income children) with an incarcerated parents <sup>1</sup> (or parents) in the areas;
 
 &emsp;(3) evidence of consultation with existing youth and family service programs, as appropriate; and
 
@@ -224,7 +224,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (G) Limitation on administrative expenditures
 
-&emsp;&emsp;To ensure that administrative expenditures incurred by the entity in conductingthe demonstration project with respect to a fiscal year do not exceed the amount equal to 10 percent of the amount awarded to carry out the project for that year.
+&emsp;&emsp;To ensure that administrative expenditures incurred by the entity in conducting the demonstration project with respect to a fiscal year do not exceed the amount equal to 10 percent of the amount awarded to carry out the project for that year.
 
 #### (5) Voucher requirements
 
@@ -270,7 +270,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall enter into a contract with an independent, private organization to evaluate and prepare a report on the first 2 fiscal years in which the demonstration project is conducted under this subsection.
+&emsp;&emsp;The Secretary shall enter into a contract with an independent, private organization to evaluate and prepare a report on the first 2fiscal years in which the demonstration project is conducted under this subsection.
 
 #### (B) Deadline for report
 

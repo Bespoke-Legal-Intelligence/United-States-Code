@@ -118,7 +118,7 @@ Tax benefit rule.—If any portion of a nonqualified withdrawal is properly attr
 
 &emsp;(4)
 
-Coordination with deduction for net operating losses.—A nonqualified withdrawal excluded from gross income under paragraph (1) shall be excluded in determining taxable income under section 172(b)(2) of such Code (26 U.S.C. 172(b)(2)).
+Coordination with deduction for net operating losses.—A nonqualified withdrawalexcluded from gross income under paragraph (1) shall be excluded in determining taxable income under section 172(b)(2) of such Code (26 U.S.C. 172(b)(2)).
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1597.)
 

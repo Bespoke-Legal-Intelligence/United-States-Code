@@ -28,6 +28,10 @@ The word “money” is substituted for “money of account” to eliminate unne
 
 > Thus, the phrase “money of account” did not mean, by itself, that dollars or fractions of dollars must be equal to something having intrinsic or “substantive” value. This concept is supported by earlier writings of Thomas Jefferson in his “Notes on the Establishment of a Money Unit, and of a Coinage for the United States” (1784), and the 1782 report to the President of the Continental Congress on the coinage of the United States by the Superintendent of Finances, Robert Morris, which was apparently prepared by the Assistant Superintendent, Gouverneur Morris. See Paul L. Ford, <i>The Writings of Thomas Jefferson</i>, vol. III (G.P. Putnam's Sons, 1894) pp. 446–457; William G. Sumner, <i>The Financier and the Finances of the American Revolution</i>, vol. II (Burt Franklin, 1891, reprinted 1970) pp. 36–47; and George T. Curtis, <i>History of the Constitution</i>, vol. I (Harper and Brothers, 1859) p. 443, n2. The words “or units” and “and all accounts in the public offices and all proceedings in the courts shall be kept and had in conformity to this regulation” are omitted as surplus.
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–82, §1, Sept. 20, 2007, 121 Stat. 777, provided that: “This Act \[amending section 5112 of this title and enacting provisions set out as a note under section 5112 of this title\] may be cited as the ‘Native American $1 Coin Act’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–145, §1, Dec. 22, 2005, 119 Stat. 2664, provided that: “This Act \[amending section 5112 of this title and enacting provisions set out as notes under section 5112 of this title\] may be cited as the ‘Presidential $1 Coin Act of 2005’.”
@@ -48,7 +52,7 @@ Pub. L. 106–445, §1, Nov. 6, 2000, 114 Stat. 1931, provided that: “This Act
 
 Pub. L. 105–124, §1, Dec. 1, 1997, 111 Stat. 2534, provided that: “This Act \[amending section 5112 of this title and enacting provisions set out as notes under this section and section 5112 of this title\] may be cited as the ‘50 States Commemorative Coin Program Act’.”
 
-Pub. L. 105–124, §4(a), Dec. 1, 1997, 111 Stat. 2536, provided that: “This section \[amending section 5112 of this title and enacting provisions set out as notes under section 5112 of this title\] may be cited as the ‘United States $1 Coin Act of 1997’.”
+Pub. L. 105–124, §4(a), Dec. 1, 1997, 111 Stat. 2536, provided that: “This section \[amending section 5112 of thistitle and enacting provisions set out as notes under section 5112 of this title\] may be cited as the ‘United States $1 Coin Act of 1997’.”
 
 #### Short Title of 1996 Amendment
 

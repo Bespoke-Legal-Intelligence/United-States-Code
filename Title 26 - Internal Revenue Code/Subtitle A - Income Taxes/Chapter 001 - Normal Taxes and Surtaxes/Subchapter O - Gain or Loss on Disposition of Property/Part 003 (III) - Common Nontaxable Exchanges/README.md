@@ -22,7 +22,7 @@
 
 #### Amendment of Analysis
 
-<i>Pub. L. 107–16, title V, §542(d)(2), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 84, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, item 1040 is temporarily amended to read as follows: “Use of appreciated carryover basis property to satisfy pecuniary bequest”.</i>
+<i>Pub. L. 107–16, title V, §542(d)(2), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 84, 86, 150, provided that, applicable to estates of decedents</i><i>dying after Dec. 31, 2009, item 1040 is temporarily amended to read as follows: “Use of appreciated carryover basis property to satisfy pecuniary bequest”.</i>
 
 #### Amendments
 

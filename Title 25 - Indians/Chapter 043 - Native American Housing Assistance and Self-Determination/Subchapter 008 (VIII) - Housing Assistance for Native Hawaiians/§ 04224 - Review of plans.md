@@ -54,7 +54,7 @@ If the Secretary determines that a plan submitted under section 4223 of this tit
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), after a plan under section 4223 of this title has been submitted for a fiscal year, the Director of the Department of Hawaiian Home Lands may comply with the provisions of that section for any succeeding fiscal year (with respect to information included for the 5-year period under section 4223(b) of this title or for the 1-year period under section 4223(c) of this title) by submitting only such information regarding suchchanges as may be necessary to update the plan previously submitted.
+&emsp;Subject to paragraph (2), after a plan under section 4223 of this title has been submitted for a fiscal year, the Director of the Department of Hawaiian Home Lands may comply with the provisions of that section for any succeeding fiscal year (with respect to information included for the 5-year period under section 4223(b) of this title or for the 1-year period under section 4223(c) of this title) by submitting only such information regarding such changes as may be necessary to update the plan previously submitted.
 
 #### (2) Complete plans
 

@@ -18,7 +18,7 @@ The Foundation shall be subject to the supervision and direction of the Board of
 
 &emsp;&emsp;(B) in the improvement of the health status of Native Americans and Alaska Natives and in strengthening tribal self-governance, such as tribal leaders involved in health and public policy development affecting Native American and Alaska Native communities.
 
-&emsp;(4) The Secretary of the Interior, or the Secretary's designee, who shall serve as a votingex officio member of the Board but shall not be eligible to serve as Chairperson.
+&emsp;(4) The Secretary of the Interior, or the Secretary's designee, who shall serve as a voting ex officio member of the Board but shall not be eligible to serve as Chairperson.
 
 &emsp;(5) The Secretary of Education, or the Secretary's designee, who shall serve as a voting ex officio member of the Board but shall not be eligible to serve as Chairperson.
 

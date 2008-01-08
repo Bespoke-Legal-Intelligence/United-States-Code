@@ -34,3 +34,7 @@ After the consultation required by subsection (c) of this section, the Forest Su
 
 (Pub. L. 107–216, §5, Aug. 21, 2002, 116 Stat. 1060.)
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

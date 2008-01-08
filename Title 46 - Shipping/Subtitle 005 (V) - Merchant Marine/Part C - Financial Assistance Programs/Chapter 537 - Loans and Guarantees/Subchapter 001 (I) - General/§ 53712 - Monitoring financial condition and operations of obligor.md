@@ -6,7 +6,7 @@ In General.—The Secretary shall monitor the financial condition and operations
 
 (b)
 
-Contract Provisions To Protect Secretary.—The Secretary shall include provisions in a loan agreement with an obligor that provides additional authority to the Secretary to take action to limit potential losses in connection with a defaulted loan or a loan that is in jeopardy due to the deteriorating financial condition of the obligor. These provisions include requirements for additional collateral or greater equity contributions that are effective upon the occurrence of verifiable conditions relating to the obligor's financial condition or the status of the vessel or shipyard project.
+Contract Provisions To Protect Secretary.—The Secretary shall include provisions in a loan agreement with an obligor that provides additional authority to the Secretary to take action to limit potential losses in connection with a defaulted loan or a loan that is injeopardy due to the deteriorating financial condition of the obligor. These provisions include requirements for additional collateral or greater equity contributions that are effective upon the occurrence of verifiable conditions relating to the obligor's financial condition or the status of the vessel or shipyard project.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1612; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (b)(6), Jan. 6, 2006, 119 Stat. 3555, 3556.)
 

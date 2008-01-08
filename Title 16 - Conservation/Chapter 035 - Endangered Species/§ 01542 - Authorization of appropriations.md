@@ -12,7 +12,7 @@ Except as provided in subsections (b), (c), and (d) of this section, there are a
 
 #### (b) Exemptions
 
-There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections <sup>1</sup> 1536(e), (g), and (h) of this title not to exceed $600,000 for each of fiscal years 1988, 1989, 1990, 1991, and 1992.
+There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections <sup>1</sup> 1536(e), (g), and (h) of this titlenot to exceed $600,000 for each of fiscal years 1988, 1989, 1990, 1991, and 1992.
 
 #### (c) Convention implementation
 
@@ -34,7 +34,7 @@ Par. (2). Pub. L. 96–159 deleted appropriations authorization of $5,000,000 fo
 
 1978—Pub. L. 95–632, in provision preceding par. (1), substituted “sections 1535 and 1536 of this title” for “section 1535 of this title”.
 
-Par. (1). Pub. L. 95–632 substituted provision authorizing appropriations of not to exceed $25,000,000 for the fiscal year ending Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978, of not to exceed $23,000,000 for the fiscal year ending Sept. 30, 1979, and of not to exceed $12,500,000 for the period beginning Oct. 1, 1979 and ending Mar. 31, 1980 for provision authorizing appropriations of not to exceed $10,000,000 for the fiscal year ending June 30, 1976, of not to exceed $1,800,000 for the fiscal transitional period ending Sept. 30, 1976, and of notto exceed a total of $25,000,000 for the fiscal year ending Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978, to enable the Department of the Interior to carry out its functions under this chapter.
+Par. (1). Pub. L. 95–632 substituted provision authorizing appropriations of not to exceed $25,000,000 for the fiscal year ending Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978, of not to exceed $23,000,000 for the fiscal year ending Sept. 30, 1979, and of not to exceed $12,500,000 for the period beginning Oct. 1, 1979 and ending Mar. 31, 1980 for provision authorizing appropriations of not to exceed $10,000,000 for the fiscal year ending June 30, 1976, of not to exceed $1,800,000 for the fiscal transitional period ending Sept. 30, 1976, and of not to exceed a total of $25,000,000 for the fiscal year ending Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978, to enable the Department of the Interior to carry out its functions under this chapter.
 
 Par. (2). Pub. L. 95–632 substituted provision authorizing appropriations of not to exceed $5,000,000 for the fiscal year ending Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978, of not to exceed $2,500,000 for the fiscal year ending Sept. 30, 1979, and of not to exceed $12,500,000 for the period beginning Oct. 1, 1979 and ending Mar. 31, 1980 for provision authorizing appropriations of not to exceed $2,000,000 for the fiscal year ending June 30, 1976, of not to exceed $500,000 for the fiscal transitional period ending Sept. 30, 1976 and of not to exceed a total of $5,000,000 for the fiscal year Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978.
 

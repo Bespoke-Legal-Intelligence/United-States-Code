@@ -16,7 +16,7 @@
 
 #### (b) Employer credit for housing employees affected by Hurricane Katrina
 
-For purposes of section 38, in the case of a qualified employer, the Hurricane Katrina housing credit for any month during the taxable year is an amount equal to 30 percent of any amount which is excludable from the gross income of a qualified employee of such employer under subsection (a) and not otherwise excludable under section 119.
+For purposes of section 38, in the case of a qualified employer, the Hurricane Katrina housing credit for any month during the taxable year is an amount equal to 30 percent of any amount which is excludable from the gross income of aqualified employee of such employer under subsection (a) and not otherwise excludable under section 119.
 
 #### (c) Qualified employee
 

@@ -2,15 +2,39 @@
 
 (a)
 
-Filing Complaints and Testifying.—A railroad carrier engaged in interstate or foreign commerce may not discharge or in any way discriminate against an employee because the employee, whether acting for the employee or as a representative, has—
+In General.—A railroad carrier engaged in interstate or foreign commerce, a contractor or a subcontractor of such a railroad carrier, or an officer or employee of such a railroad carrier, may not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee's lawful, good faith act done, or perceived by the employer to have been done or about to be done—
 
-&emsp;(1) filed a complaint or brought or caused to be brought a proceeding related to the enforcement of this part or, as applicable to railroad safety, chapter 51 or 57 of this title; or
+&emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to railroad safety or security, or gross fraud, waste, or abuse of Federal grants or other public funds intended to be used for railroad safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
-&emsp;(2) testified or will testify in that proceeding.
+&emsp;&emsp;(A) a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452);
+
+&emsp;&emsp;(B) any Member of Congress, any committee of Congress, or the Government Accountability Office; or
+
+&emsp;&emsp;(C) a person with supervisory authority over the employee or such other person who has the authority to investigate, discover, or terminate the misconduct;
+
+&emsp;(2) to refuse to violate or assist in the violation of any Federal law, rule, or regulation relating to railroad safety or security;
+
+&emsp;(3) to file a complaint, or directly cause to be brought a proceeding related to the enforcement of this part or, as applicable to railroad safety or security, chapter 51 or 57 of this title, or to testify in that proceeding;
+
+&emsp;(4) to notify, or attempt to notify, the railroad carrier or the Secretary of Transportation of a work-related personal injury or work-related illness of an employee;
+
+&emsp;(5) to cooperate with a safety or security investigation by the Secretary of Transportation, the Secretary of Homeland Security, or the National Transportation Safety Board;
+
+&emsp;(6) to furnish information to the Secretary of Transportation, the Secretary of Homeland Security, the National Transportation Safety Board, or any Federal, State, or local regulatory or law enforcement agency as to the facts relating to any accident or incident resulting in injury or death to an individual or damage to property occurring in connection with railroad transportation; or
+
+&emsp;(7) to accurately report hours on duty pursuant to chapter 211.
 
 (b)
 
-Refusing To Work Because of Hazardous Conditions.—(1) A railroad carrier engaged in interstate or foreign commerce may not discharge or in any way discriminate against an employee for refusing to work when confronted by a hazardous condition related to the performance of the employee's duties, if—
+Hazardous Safety or Security Conditions.—(1) A railroad carrier engaged in interstate or foreign commerce, or an officer or employee of such a railroad carrier, shall not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee for—
+
+&emsp;(A) reporting, in good faith, a hazardous safety or security condition;
+
+&emsp;(B) refusing to work when confronted by a hazardous safety or security condition related to the performance of the employee's duties, if the conditions described in paragraph (2) exist; or
+
+&emsp;(C) refusing to authorize the use of any safety-related equipment, track, or structures, if the employee is responsible for the inspection or repair of the equipment, track, or structures, when the employee believes that the equipment, track, or structures are in a hazardous safety or security condition, if the conditions described in paragraph (2) exist.
+
+(2) A refusal is protected under paragraph (1)(B) and (C) if—
 
 &emsp;(A) the refusal is made in good faith and no reasonable alternative to the refusal is available to the employee;
 
@@ -18,27 +42,111 @@ Refusing To Work Because of Hazardous Conditions.—(1) A railroad carrier engag
 
 &emsp;&emsp;(i) the hazardous condition presents an imminent danger of death or serious injury; and
 
-&emsp;&emsp;(ii) the urgency of the situation does not allow sufficient time to eliminate the danger through regular statutory means; and
+&emsp;&emsp;(ii) the urgency of the situation does not allow sufficient time to eliminate the danger without such refusal; and
 
-&emsp;(C) the employee, where possible, has notified the carrier of the hazardous condition and the intention not to perform further work unless the condition is corrected immediately.
+&emsp;(C) the employee, where possible, has notified the railroad carrier of the existence of the hazardous condition and the intention not to perform further work, or not to authorize the use of the hazardous equipment, track, or structures, unless the condition is corrected immediately or the equipment, track, or structures are repaired properly or replaced.
 
-(2) This subsection does not apply to security personnel employed by a carrier to protect individuals and property transported by railroad.
+(3) In this subsection, only paragraph (1)(A) shall apply to security personnel employed by a railroad carrier to protect individuals and property transported by railroad.
 
 (c)
 
-Dispute Resolution.—A dispute, grievance, or claim arising under this section is subject to resolution under section 3 of the Railway Labor Act (45 U.S.C. 153). In a proceeding by the National Railroad Adjustment Board, a division or delegate of the Board, or another board of adjustment established under section 3 to resolve the dispute, grievance, or claim, the proceeding shall be expedited and the dispute, grievance, or claim shall be resolved not later than 180 days after it is filed. If the violation is a form of discrimination that does not involve discharge, suspension, or another action affecting pay, and no other remedy is available under this subsection, the Board, division, delegate, or other board of adjustment may award the employee reasonable damages, including punitive damages, of not more than $20,000.
+Enforcement Action.—
+
+&emsp;(1)
+
+In general.—An employee who alleges discharge, discipline, or other discrimination in violation of subsection (a) or (b) of this section, may seek relief in accordance with the provisions of this section, with any petition or other request for relief under this section to be initiated by filing a complaint with the Secretary of Labor.
+
+&emsp;(2)
+
+Procedure.—
+
+&emsp;&emsp;(A)
+
+In general.—Any action under paragraph (1) shall be governed under the rules and procedures set forth in section 42121(b), including:
+
+&emsp;&emsp;&emsp;(i)
+
+Burdens of proof.—Any action brought under (c)(1) <sup>1</sup> shall be governed by the legal burdens of proof set forth in section 42121(b).
+
+&emsp;&emsp;&emsp;(ii)
+
+Statute of limitations.—An action under paragraph (1) shall be commenced not later than 180 days after the date on which the alleged violation of subsection (a) or (b) of this section occurs.
+
+&emsp;&emsp;&emsp;(iii)
+
+Civil actions to enforce.—If a person fails to comply with an order issued by the Secretary of Labor pursuant to the procedures in section 42121(b), the Secretary of Labor may bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred, as set forth in 42121.<sup>2</sup>
+
+&emsp;&emsp;(B)
+
+Exception.—Notification made under section 42121(b)(1) shall be made to the person named in the complaint and the person's employer.
+
+&emsp;(3)
+
+De novo review.—With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
+
+&emsp;(4)
+
+Appeals.—Any person adversely affected or aggrieved by an order issued pursuant to the procedures in section 42121(b),<sup>3</sup> may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. The review shall conform to chapter 7 of title 5. The commencement of proceedings under this paragraph shall not, unless ordered by the court, operate as a stay of the order.
 
 (d)
 
-Election of Remedies.—An employee of a railroad carrier may not seek protection under both this section and another provision of law for the same allegedly unlawful act of the carrier.
+Remedies.—
+
+&emsp;(1)
+
+In general.—An employee prevailing in any action under subsection (c) shall be entitled to all relief necessary to make the employee whole.
+
+&emsp;(2)
+
+Damages.—Relief in an action under subsection (c) (including an action described in subsection (c)(3)) shall include—
+
+&emsp;&emsp;(A) reinstatement with the same seniority status that the employee would have had, but for the discrimination;
+
+&emsp;&emsp;(B) any backpay, with interest; and
+
+&emsp;&emsp;(C) compensatory damages, including compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
+
+&emsp;(3)
+
+Possible relief.—Relief in any action under subsection (c) may include punitive damages in an amount not to exceed $250,000.
 
 (e)
 
-Disclosure of Identity.—(1) Except as provided in paragraph (2) of this subsection, or with the written consent of the employee, the Secretary of Transportation may not disclose the name of an employee of a railroad carrier who has provided information about an alleged violation of this part or, as applicable to railroad safety, chapter 51 or 57 of this title or a regulation prescribed or order issued under any of those provisions.
+Election of Remedies.—An employee may not seek protection under both this section and another provision of law for the same allegedly unlawful act of the railroad carrier.
 
-(2) The Secretary shall disclose to the Attorney General the name of an employee described in paragraph (1) of this subsection if the matter is referred to the Attorney General for enforcement.
+(f)
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 867.)
+No Preemption.—Nothing in this section preempts or diminishes any other safeguardsagainst discrimination, demotion, discharge, suspension, threats, harassment, reprimand, retaliation, or any other manner of discrimination provided by Federal or State law.
+
+(g)
+
+Rights Retained by Employee.—Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement. The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
+
+(h)
+
+Disclosure of Identity.—
+
+&emsp;(1) Except as provided in paragraph (2) of this subsection, or with the written consent of the employee, the Secretary of Transportation or the Secretary of Homeland Security may not disclose the name of an employee of a railroad carrier who has provided information about an alleged violation of this part or, as applicable to railroad safety or security, chapter 51 or 57 of this title, or a regulation prescribed or order issued under any of those provisions.
+
+&emsp;(2) The Secretary of Transportation or the Secretary of Homeland Security shall disclose to the Attorney General the name of an employee described in paragraph (1) if the matter is referred to the Attorney General for enforcement. The Secretary making such disclosures shall provide reasonable advance notice to the affected employee if disclosure of that person's identity or identifying information is to occur.
+
+(i)
+
+Process for Reporting Security Problems to the Department of Homeland Security.—
+
+&emsp;(1)
+
+Establishment of process.—The Secretary of Homeland Security shall establish through regulations, after an opportunity for notice and comment, a process by which any person may report to the Secretary of Homeland Security regarding railroad security problems, deficiencies, or vulnerabilities.
+
+&emsp;(2)
+
+Acknowledgment of receipt.—If a report submitted under paragraph (1) identifies the person making the report, the Secretary of Homeland Security shall respond promptly to such person and acknowledge receipt of the report.
+
+&emsp;(3)
+
+Steps to address problem.—The Secretary of Homeland Security shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 867; Pub. L. 110–53, title XV, §1521, Aug. 3, 2007, 121 Stat. 444.)
 
 Historical and Revision Notes
 
@@ -103,4 +211,18 @@ In subsection (b)(2), the words “by a carrier . . . transported by railroad�
 Subsection (d) is substituted for 45:441(d) for clarity and to eliminate unnecessary words.
 
 Subsection (e)(2) is substituted for 45:441(f)(2) to eliminate unnecessary words.
+
+#### References in Text
+
+The Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2007—Pub. L. 110–53 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to prohibition against discharge or discrimination for filing of complaints or testifying, prohibition against discharge or discrimination for refusal to work because of hazardous conditions, dispute resolution, election of remedies, and nondisclosure of identity of employee who had provided information regarding a violation.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “subsection”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

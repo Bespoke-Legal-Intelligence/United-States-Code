@@ -10,7 +10,7 @@ In General.—Whoever, in or affecting interstate or foreign commerce, knowingly
 
 &emsp;(3) materially falsifies header information in multiple commercial electronic mail messages and intentionally initiates the transmission of such messages,
 
-&emsp;(4) registers, using information that materially falsifies the identity of the actual registrant, for five or more electronic mail accounts or online user accounts or two or more domain names, and intentionally initiates the transmission of multiple commercial electronic mail messages from any combination of such accounts or domain names, or
+&emsp;(4) registers, using information that materially falsifies the identity of the actual registrant, for five or more electronic mail accounts or online user accounts or two or moredomain names, and intentionally initiates the transmission of multiple commercial electronic mail messages from any combination of such accounts or domain names, or
 
 &emsp;(5) falsely represents oneself to be the registrant or the legitimate successor in interest to the registrant of 5 or more Internet Protocol addresses, and intentionally initiates the transmission of multiple commercial electronic mail messages from such addresses,
 

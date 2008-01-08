@@ -70,7 +70,7 @@ If an emergency employment of electronic surveillance is authorized under sectio
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 1805(e) of this title, referred to in subsec. (j), was redesignated section 1805(f) of this title by Pub. L. 106–567, title VI, §602(b)(1), Dec. 27, 2000, 114 Stat. 2851.
 

@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as those rules relate to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
-(2) For purposes of this chapter, the term “resolution” means (A) a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on \_\_\_\_\_\_\_\_\_\_, 19  , and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural <sup>1</sup> Environmental Policy Act of 1969.”; the blank space therein shall be filled with the date on which the President submits his decision to the House of Representatives and the Senate; or (B) a joint resolution described in subsection (g) of this section.
+(2) For purposes of this chapter, the term “resolution” means (A) a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on \_\_\_\_\_\_\_\_\_\_, 19  , and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural <sup>1</sup> Environmental Policy Act of 1969.”; the blank space therein shall be filled with the date on which the President submits his decision tothe House of Representatives and the Senate; or (B) a joint resolution described in subsection (g) of this section.
 
 (3) A resolution once introduced with respect to a Presidential decision on an Alaska natural gas transportation system shall be referred to one or more committees (and all resolutions with respect to the same Presidential decision on an Alaska natural gas transportation system shall be referred to the same committee or committees) by the President of the Senate or the Speaker of the House of Representatives, as the case may be.
 
@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (e) Presidential finding respecting and supplementation or modification of environmental impact statement; submittal to Congressional committees
 
-The President shall find that any required environmental impact statement relative to theAlaska natural gas transportation system designated for approval by the President has been prepared and that such statement is in compliance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\]. Such finding shall be set forth in the report of the President submitted under section 719e of this title. The President may supplement or modify the environmental impact statements prepared by the Commission or other Federal officers or agencies. Any such environmental impact statement shall be submitted contemporaneously with the transmittal to the Senate and House of Representatives of the President's decision pursuant to section 719e(b) of this title or subsection (b) of this section.
+The President shall find that any required environmental impact statement relative to the Alaska natural gas transportation system designated for approval by the President has been prepared and that such statement is in compliance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\]. Such finding shall be set forth in the report of the President submitted under section 719e of this title. The President may supplement or modify the environmental impact statements prepared by the Commission or other Federal officers or agencies. Any such environmental impact statement shall be submitted contemporaneously with the transmittal to the Senate and House of Representatives of the President's decision pursuant to section 719e(b) of this title or subsection (b) of this section.
 
 #### (f) Report of Commission: submittal to Congress; Council on Environmental Quality: hearings, report, submittal to Congress; Congressional committee hearings
 
@@ -52,7 +52,7 @@ Within 20 days of the transmittal of the President's decision to the Congress un
 
 #### (g) Waiver; submittal to Congress
 
-(1) At any time after a decision designating a transportation system is submitted to the Congress pursuant to this section, if the President finds that any provision of law applicable to actions to be taken under subsection (a) or (c) of section 719g of this title require waiver in order to permit expeditious construction and initial operation of the approved transportation system, the President may submit such proposed waiver to both Houses of Congress.
+(1) At any time after a decision designating a transportation system is submitted to the Congress pursuant to this section, if the President finds that any provision of law applicable to actions to be taken under subsection (a) or (c) of section 719g of this title require waiver in order to permit expeditious construction and initialoperation of the approved transportation system, the President may submit such proposed waiver to both Houses of Congress.
 
 (2) Such provision shall be waived with respect to actions to be taken under subsection (a) or (c) of section 719g of this title upon enactment of a joint resolution pursuant to the procedures specified in subsections (c) and (d) of this section (other than subsection (d)(2) thereof) within the first period of 60 calendar days of continuous session of Congress beginning on the date after the date of receipt by the Senate and House of Representatives of such proposal.
 
@@ -78,7 +78,7 @@ Pub. L. 97–93, Dec. 15, 1981, 95 Stat. 1204, provided: “That the House of Re
 
 #### Congressional Approval of Presidential Decision on Alaska Natural Gas Transportation System
 
-Pub. L. 95–158, Nov. 8, 1977, 91 Stat. 1268, provided: “That the House of Representatives and Senate approve the Presidential decision on an Alaska naturalgas transportation system submitted to the Congress on September 22, 1977, and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural \[National\] Environmental Policy Act of 1969 \[section 4321 et seq. of Title 42, The Public Health and Welfare\].”
+Pub. L. 95–158, Nov. 8, 1977, 91 Stat. 1268, provided: “That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on September 22, 1977, and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural \[National\] Environmental Policy Act of 1969 \[section 4321 et seq. of Title 42, The Public Health and Welfare\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “National”.</i>
 

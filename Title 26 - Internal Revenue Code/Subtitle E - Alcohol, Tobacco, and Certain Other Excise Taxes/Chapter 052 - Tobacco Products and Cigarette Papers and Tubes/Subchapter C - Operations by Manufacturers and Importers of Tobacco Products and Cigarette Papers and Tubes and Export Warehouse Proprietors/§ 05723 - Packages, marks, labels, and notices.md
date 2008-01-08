@@ -10,11 +10,11 @@ Every package of tobacco products or cigarette papers or tubes shall, before rem
 
 #### (c) Lottery features
 
-No certificate, coupon, or other device purporting to be or to represent a ticket, chance, share, or an interest in, or dependent on, the event of a lottery shall be contained in, attached to, or stamped, marked, written, orprinted on any package of tobacco products or cigarette papers or tubes.
+No certificate, coupon, or other device purporting to be or to represent a ticket, chance, share, or an interest in, or dependent on, the event of a lottery shall be contained in, attached to, or stamped, marked, written, or printed on any package of tobacco products or cigarette papers or tubes.
 
 #### (d) Indecent or immoral material prohibited
 
-No indecent or immoral picture, print, or representation shall be contained in, attached to, or stamped, marked, written, or printed on any package of tobacco products or cigarette papers or tubes.
+No indecent or immoral picture, print, or representation shall be contained in, attached to,or stamped, marked, written, or printed on any package of tobacco products or cigarette papers or tubes.
 
 #### (e) Exceptions
 

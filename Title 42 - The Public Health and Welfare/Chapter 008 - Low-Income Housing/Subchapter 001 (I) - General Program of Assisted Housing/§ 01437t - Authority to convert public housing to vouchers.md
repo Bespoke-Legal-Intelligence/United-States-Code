@@ -14,7 +14,7 @@ A public housing agency may convert any public housing project (or portion there
 
 &emsp;&emsp;(B) an analysis of the market value of the public housing project both before and after rehabilitation, and before and after conversion;
 
-&emsp;&emsp;(C) an analysis of the rental market conditions with respect to the likely success of the use of tenant-based assistance under section 1437f of this title in that market for the specific residents of the public housing project, including an assessment of the availability of decent and safe dwellings renting at or below the payment standard established for tenant-based assistanceunder section 1437f of this title by the agency;
+&emsp;&emsp;(C) an analysis of the rental market conditions with respect to the likely success of the use of tenant-based assistance under section 1437f of this title in that market for the specific residents of the public housing project, including an assessment of the availability of decent and safe dwellings renting at or below the payment standard established for tenant-based assistance under section 1437f of this title by the agency;
 
 &emsp;&emsp;(D) the impact of the conversion to tenant-based assistance under this section on the neighborhood in which the public housing project is located; and
 

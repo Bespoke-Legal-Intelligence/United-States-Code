@@ -1,6 +1,6 @@
 ### §1. Creation, purpose, and composition of council
 
-A Council of National Defense is established, for the coordination of industries and resourcesfor the national security and welfare, to consist of the Secretary of the Army, the Secretary of the Navy, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, and the Secretary of Labor.
+A Council of National Defense is established, for the coordination of industries and resources for the national security and welfare, to consist of the Secretary of the Army, the Secretary of the Navy, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, and the Secretary of Labor.
 
 (Aug. 29, 1916, ch. 418, §2, 39 Stat. 649; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

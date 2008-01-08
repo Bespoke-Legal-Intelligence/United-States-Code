@@ -96,5 +96,5 @@ The definitions in section 262p–5 of this title apply to this section.
 
 <i><sup>1</sup></i><i> So in original. The words “decision point” probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i> See Reference in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

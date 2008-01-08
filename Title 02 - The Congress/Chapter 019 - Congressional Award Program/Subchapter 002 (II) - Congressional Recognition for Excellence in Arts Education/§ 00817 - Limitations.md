@@ -10,7 +10,7 @@ The Board may enter into such contracts as may be appropriate to carry out the b
 
 #### (c) Gifts
 
-The Board may seek and accept, from sources other than the Federal Government, funds and other resources to carry out the Board's activities. The Board may not accept any funds or other resources that are—
+The Board may seek and accept, from sources other than the Federal Government, funds andother resources to carry out the Board's activities. The Board may not accept any funds or other resources that are—
 
 &emsp;(1) donated with a restriction on their use unless such restriction merely provides that such funds or other resources be used in furtherance of the Congressional Recognition for Excellence in Arts Education Awards Program; or
 

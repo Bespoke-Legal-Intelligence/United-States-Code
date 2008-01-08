@@ -46,7 +46,7 @@ Delegation of authority to Secretary with respect to nation's food program durin
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to Secretary of Agriculture, see Parts 1, 2,and 3 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to Secretary of Agriculture, see Parts 1, 2, and 3 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Report on Geographically Disadvantaged Farmers and Ranchers
 

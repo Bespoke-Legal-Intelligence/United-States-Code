@@ -12,5 +12,5 @@ In order to pay for the United States contribution provided for in this section,
 
 #### Subsequent Replenishment
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §594\], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part that the Secretary of the Treasury may contribute on behalf of the United States to the eighth replenishment of the resources of the African Development Fund, and authorized $300,000,000 to be appropriated without fiscal year limitation.
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §594\], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part thatthe Secretary of the Treasury may contribute on behalf of the United States to the eighth replenishment of the resources of the African Development Fund, and authorized $300,000,000 to be appropriated without fiscal year limitation.
 

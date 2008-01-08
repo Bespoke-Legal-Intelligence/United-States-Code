@@ -10,7 +10,7 @@ As used in this chapter—
 
 (2) The term “veteran of the Vietnam era” means an eligible veteran any part of whose active military, naval, or air service was during the Vietnam era.
 
-(3) The term “disabled veteran” means (A) a veteran who is entitled to compensation (or whobut for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary, or (B) a person who was discharged or released from active duty because of a service-connected disability.
+(3) The term “disabled veteran” means (A) a veteran who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary, or (B) a person who was discharged or released from active duty because of a service-connected disability.
 
 (4) The term “eligible veteran” means a person who—
 

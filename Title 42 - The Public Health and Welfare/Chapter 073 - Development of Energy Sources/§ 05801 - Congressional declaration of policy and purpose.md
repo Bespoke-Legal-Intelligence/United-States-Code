@@ -24,7 +24,7 @@ Determination of priorities which are warranted should be based on such consider
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes below. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections2031 and 2032 of this title, and enacted provisions set out as notes below. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Effective Date; Interim Appointments
 
@@ -36,7 +36,7 @@ Section 312 of Pub. L. 93–438 provided that:
 
 #### Short Title
 
-Section 1 of Pub. L. 93–438 provided that: “This Act \[enacting this chapter, repealing sections 2031 and 2032of this title, amending sections 5313 to 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Energy Reorganization Act of 1974’.”
+Section 1 of Pub. L. 93–438 provided that: “This Act \[enacting this chapter, repealing sections 2031 and 2032 of this title, amending sections 5313 to 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Energy Reorganization Act of 1974’.”
 
 #### Separability
 

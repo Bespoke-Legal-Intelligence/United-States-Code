@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) not a subordinate employee; and
 
-&emsp;&emsp;(C) the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))) of such Federal labor organization as defined under section 7103(4) of thistitle or a Federal employee organization which as of the date of the enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); or
+&emsp;&emsp;(C) the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))) of such Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of the enactment of theHatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); or
 
 &emsp;(3) run for the nomination or as a candidate for election to a partisan political office; or
 

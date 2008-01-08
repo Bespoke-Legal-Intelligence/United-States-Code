@@ -24,7 +24,7 @@ After a borrower has made all accrued payments of principal, interest, and penal
 
 #### (2) Review of denial
 
-&emsp;If the borrower was not delinquent in any principal or interest payment under the loanat the time of such action and the borrower's request to have the loan placed back into accrual status is denied, the borrower may obtain a review of such denial before the appropriate credit review committee under section 2202 of this title.
+&emsp;If the borrower was not delinquent in any principal or interest payment under the loan at the time of such action and the borrower's request to have the loan placed back into accrual status is denied, the borrower may obtain a review of such denial before the appropriate credit review committee under section 2202 of this title.
 
 #### (3) Application
 

@@ -38,7 +38,7 @@ Activities for which assistance may be provided under this section are activitie
 
 (2) Supplies and equipment provided as assistance under this section may be provided, by loan or donation, from existing stocks of the Department of Defense and the Department of Energy.
 
-(3) The total amount of the assistance provided in the form of funds under this section, including funds used for activities of the Department of Defense in support of the United Nations Special Commission on Iraq, may not exceed $25,000,000 for fiscal year 1994, $20,000,000 forfiscal year 1995, $15,000,000 for fiscal year 1996, $15,000,000 for fiscal year 1997, or $15,000,000 for fiscal year 1998.
+(3) The total amount of the assistance provided in the form of funds under this section, including funds used for activities of the Department of Defense in support of the United Nations Special Commission on Iraq, may not exceed $25,000,000 for fiscal year 1994, $20,000,000 for fiscal year 1995, $15,000,000 for fiscal year 1996, $15,000,000 for fiscal year 1997, or $15,000,000 for fiscal year 1998.
 
 (4)(A) In the event of a significant unforeseen development related to the activities of the United Nations Special Commission on Iraq (or any successor organization) for which the Secretary of Defense determines that financial assistance under this section is required at a level which would result in the total amount of assistance provided under this section during the then-current fiscal year exceeding the amount of any limitation provided by law on the total amount of such assistance for that fiscal year, the Secretary of Defense may provide such assistance with respect to that fiscal year notwithstanding that limitation. Funds for such purpose may be derived from any funds available to the Department of Defense for that fiscal year.
 
@@ -147,6 +147,8 @@ Subsec. (e)(1). Pub. L. 103–160, §1602(a), substituted “fiscal year 1994”
 Subsec. (e)(2). Pub. L. 103–160, §1182(c)(5), substituted “(d)(4)” for “(d)(2)” in introductory provisions.
 
 #### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

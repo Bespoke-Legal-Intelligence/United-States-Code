@@ -18,7 +18,7 @@
 
 (c) The term “Secretary” means the Secretary of the Interior.
 
-(d) The term “water district” means any public agency providing water service, includingwater districts, county water districts, public utility districts, and irrigation districts.
+(d) The term “water district” means any public agency providing water service, including water districts, county water districts, public utility districts, and irrigation districts.
 
 (e) The term “Floodway” means the Colorado River Floodway established in section 1600c of this title.
 
@@ -37,10 +37,6 @@ In subsec. (b)(1), “section 6702 of title 31” substituted for “section 102
 #### Amendments
 
 1994—Subsec. (a). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

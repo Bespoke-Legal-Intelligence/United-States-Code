@@ -60,7 +60,7 @@
 
 (2)(A) An institution shall invest the endowment fund corpus and endowment fund income in low-risk securities in which a regulated insurance company may invest under the law of the State in which the institution is located such as a federally insured bank savings account or comparable interest-bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
 
-(B) The institution, in investing the endowment fund established under this section, shall exercise the judgment and care, under the circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of such person's own affairs.
+(B) The institution, in investing the endowment fund established under this section, shallexercise the judgment and care, under the circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of such person's own affairs.
 
 (3)(A) An institution may withdraw and expend the endowment fund income to defray any expenses necessary to the operation of such college, including expenses of operations and maintenance, administration, academic and support personnel, construction and renovation, community and student services programs, and technical assistance.
 
@@ -94,7 +94,7 @@ In selecting eligible institutions for grants under this section for any fiscal 
 
 #### (g) Application
 
-Any institution which is eligible for assistance under this section may submit to the Secretary a grant application at such time, in such form, and containing such information as the Secretary may prescribe, including a description of the long- and short-term plans for raising and using the funds under this part. Subject to the availability of appropriations to carry out this section and consistent with the requirement of subsection (f) of this section, the Secretary mayapprove an application for a grant if an institution, in its application, provides adequate assurances that it will comply with the requirements of this section.
+Any institution which is eligible for assistance under this section may submit to the Secretary a grant application at such time, in such form, and containing such information as the Secretary may prescribe, including a description of the long- and short-term plans for raising and using the funds under this part. Subject to the availability of appropriations to carry out this section and consistent with the requirement of subsection (f) of this section, the Secretary may approve an application for a grant if an institution, in its application, provides adequate assurances that it will comply with the requirements of this section.
 
 #### (h) Termination and recovery provisions
 
@@ -116,7 +116,7 @@ A prior section 331 of Pub. L. 89–329, title III, as added Pub. L. 99–498, t
 
 A prior section 1065, Pub. L. 89–329, title III, §332, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1396, related to applications for challenge grants, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1065, Pub. L. 89–329, title IV, §405, Nov. 8, 1965, 79 Stat. 1234; Pub. L. 90–575, title I, §101(b)(2), Oct. 16, 1968, 82 Stat. 1017, related to allotment and reallotment of funds among the States, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1065, Pub. L. 89–329, title IV, §405, Nov. 8, 1965, 79 Stat. 1234; Pub. L. 90–575, title I,§101(b)(2), Oct. 16, 1968, 82 Stat. 1017, related to allotment and reallotment of funds among the States, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 A prior section 1065a, Pub. L. 89–329, title III, §333, as added Pub. L. 98–95, §2, Sept. 26, 1983, 97 Stat. 708, established program of matching grants to increase endowments at eligible institutions of higher education, prior to the general revision of this subchapter by Pub. L. 99–498.
 

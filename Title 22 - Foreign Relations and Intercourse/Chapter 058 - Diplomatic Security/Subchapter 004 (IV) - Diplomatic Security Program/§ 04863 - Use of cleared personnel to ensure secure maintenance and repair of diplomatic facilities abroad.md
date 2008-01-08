@@ -10,7 +10,3 @@ The Secretary of State shall conduct a study of the feasibility and necessity of
 
 (Pub. L. 99–399, title IV, §415, as added Pub. L. 101–246, title I, §133(a), Feb. 16, 1990, 104 Stat. 32.)
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

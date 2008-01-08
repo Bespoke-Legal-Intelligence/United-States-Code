@@ -164,6 +164,10 @@ Subsec. (k). Pub. L. 102–511, §709(a)(2), added subsec. (k).
 
 1991—Subsec. (i). Pub. L. 102–237 substituted “issued by the Commodity Credit Corporation under this section if it is determined by the Corporation, at the time of the assignment, that” for “or proceeds payable under a credit guarantee issued by the Commodity Credit Corporation under this section if it is determined by the Corporation that”.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Regulations
 
 Section 243(d) of Pub. L. 104–127 provided that: “Not later than 180 days after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section \[amending this section and sections 5602 and 5641 of this title\].”
@@ -292,7 +296,7 @@ Effect of credits.—In carrying out the program described in subsection (a), th
 
 &emsp;“(2)
 
-Consultation and report.—Subject to section 217 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6917), not later than 6 months after the effective date of this title \[Nov. 28, 1990\], and not later than the end of each 6-month period occurring thereafter, the Secretary of Agriculture, in consultation with other appropriate Federal departments, shall prepare and transmit to the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report to assist the Congress in assessing the extent to which credits for which repayment is guaranteed under subsection (a) meet the requirements of paragraph (1). The report shall include—
+Consultation and report.—Subject to section 217 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6917), not later than 6 months after the effective date of this title \[Nov. 28, 1990\], and not later than the end of each 6-month period occurring thereafter, the Secretary of Agriculture, in consultation with other appropriate Federal departments, shall prepare and transmit to the Committee on Foreign Affairs and the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report to assist the Congress in assessing the extent to which credits for which repayment is guaranteed under subsection (a) meet the requirements of paragraph (1). The report shall include—
 
 &emsp;&emsp;“(A) the amount and allocation, by country, of credit guarantees issued under subsection (a);
 

@@ -62,7 +62,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 #### (2) Geographical requirements
 
-&emsp;Demonstration projects authorized by this subsection shall be undertaken to reflect a variety of geographical and environmental conditions. As a priority, the Administrator shall undertake demonstration projects at Lake Champlain, New York and Vermont; Lake Houston, Texas; Beaver Lake, Arkansas; Greenwood Lake and Belcher Creek, New Jersey; Deal Lake, New Jersey; Alcyon Lake, New Jersey; Gorton's Pond, Rhode Island; Lake Washington, Rhode Island; Lake Bomoseen, Vermont; Sauk Lake, Minnesota; Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon;Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia; and Lake Worth, Texas.
+&emsp;Demonstration projects authorized by this subsection shall be undertaken to reflect a variety of geographical and environmental conditions. As a priority, the Administrator shall undertake demonstration projects at Lake Champlain, New York and Vermont; Lake Houston, Texas; Beaver Lake, Arkansas; Greenwood Lake and Belcher Creek, New Jersey; Deal Lake, New Jersey; Alcyon Lake, New Jersey; Gorton's Pond, Rhode Island; Lake Washington, Rhode Island; Lake Bomoseen, Vermont; Sauk Lake, Minnesota; Otsego Lake, New York; Oneida Lake, New York; Raystown Lake, Pennsylvania; Swan Lake, Itasca County, Minnesota; Walker Lake, Nevada; Lake Tahoe, California and Nevada; Ten Mile Lakes, Oregon; Woahink Lake, Oregon; Highland Lake, Connecticut; Lily Lake, New Jersey; Strawbridge Lake, New Jersey; Baboosic Lake, New Hampshire; French Pond, New Hampshire; Dillon Reservoir, Ohio; Tohopekaliga Lake, Florida; Lake Apopka, Florida; Lake George, New York; Lake Wallenpaupack, Pennsylvania; Lake Allatoona, Georgia; and Lake Worth, Texas.
 
 #### (3) Reports
 
@@ -124,7 +124,7 @@ Subsec. (b). Pub. L. 100–4, §315(d)(1), substituted “subsection (a) of this
 
 Subsec. (c)(1). Pub. L. 100–4, §315(d)(2), substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
 
-Subsec. (c)(2). Pub. L. 100–4, §§101(g), 315(d)(3), struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years1986 through 1990” after “1982”, and substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
+Subsec. (c)(2). Pub. L. 100–4, §§101(g), 315(d)(3), struck out “and” after “1981,” and inserted “, such sums as may be necessary for fiscal years 1983 through 1985, and $30,000,000 per fiscal year for each of the fiscal years 1986 through 1990” after “1982”, and substituted “subsection (b) of this section” for first reference to “this section” and “subsection (a) of this section” for second reference to “this section”.
 
 Subsec. (d). Pub. L. 100–4, §315(b), added subsec. (d).
 

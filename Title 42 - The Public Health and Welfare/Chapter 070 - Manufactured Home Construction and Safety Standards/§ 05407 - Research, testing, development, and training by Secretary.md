@@ -12,7 +12,7 @@ The Secretary shall conduct research, testing, development, and training necessa
 
 &emsp;(4) encouraging the government-sponsored housing entities to actively develop and implement secondary market securitization programs for the FHA manufactured home loans and those of other loan programs, as appropriate, thereby promoting the availability of affordable manufactured homes to increase homeownership for all people in the United States; and
 
-&emsp;(5) reviewing the programs for FHA manufactured home loans and developing any changes to such programs to promote the affordability of manufactured homes, including changes in loan terms, amortization periods, regulations, and procedures.
+&emsp;(5) reviewing the programs for FHA manufactured home loans and developing anychanges to such programs to promote the affordability of manufactured homes, including changes in loan terms, amortization periods, regulations, and procedures.
 
 #### (b) Contracts and grants with States, interstate agencies, and independent institutions
 

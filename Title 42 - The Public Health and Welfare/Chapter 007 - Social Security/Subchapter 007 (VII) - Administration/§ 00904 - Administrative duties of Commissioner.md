@@ -2,7 +2,7 @@
 
 #### (a) Personnel
 
-(1) The Commissioner shall appoint such additional officers and employees as the Commissioner considers necessary to carry out the functions of the Administration under this chapter,and attorneys and experts may be appointed without regard to the civil service laws. Except as otherwise provided in the preceding sentence or in any other provision of law, such officers and employees shall be appointed, and their compensation shall be fixed, in accordance with title 5.
+(1) The Commissioner shall appoint such additional officers and employees as the Commissioner considers necessary to carry out the functions of the Administration under this chapter, and attorneys and experts may be appointed without regard to the civil service laws. Except as otherwise provided in the preceding sentence or in any other provision of law, such officers and employees shall be appointed, and their compensation shall be fixed, in accordance with title 5.
 
 (2) The Commissioner may procure the services of experts and consultants in accordance with the provisions of section 3109 of title 5.
 
@@ -40,7 +40,7 @@ The Commissioner shall cause a seal of office to be made for the Administration 
 
 &emsp;(B) the Commissioner shall disclose to the Secretary or to any State any record or information requested in writing by the Secretary to be so disclosed for the purpose of administering any program administered by the Secretary, if records or information of such type were so disclosed under applicable rules, regulations, and procedures in effect before August 15, 1994.
 
-(2) The Commissioner and the Secretary shall enter into an agreement under which the Commissioner provides the Secretary data concerning the quality of the services and information provided to beneficiaries of the programs under subchapters XVIII and XIX of this chapter and the administrative services provided by the Social Security Administration in support of such programs. Such agreement shall stipulate the type of data to be provided and the terms and conditions under which the data are to be provided.
+(2) The Commissioner and the Secretary shall enter into an agreement under which the Commissioner provides the Secretary data concerning the quality of the services and informationprovided to beneficiaries of the programs under subchapters XVIII and XIX of this chapter and the administrative services provided by the Social Security Administration in support of such programs. Such agreement shall stipulate the type of data to be provided and the terms and conditions under which the data are to be provided.
 
 (3) The Commissioner and the Secretary shall periodically review the need for exchanges of information not referred to in paragraph (1) or (2) and shall enter into such agreements as may be necessary and appropriate to provide information to each other or to States in order to meet the programmatic needs of the requesting agencies.
 

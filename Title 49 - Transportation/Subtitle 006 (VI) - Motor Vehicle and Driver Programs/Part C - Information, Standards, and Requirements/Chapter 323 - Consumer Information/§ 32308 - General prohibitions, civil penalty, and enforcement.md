@@ -20,6 +20,10 @@ Civil Penalty.—(1) A person that violates subsection (a) of this section is li
 
 (c)
 
+Section 32304A.—Any person who fails to comply with the national tire fuel efficiency information program under section 32304A is liable to the United States Government for a civil penalty of not more than $50,000 for each violation.
+
+(d)
+
 Civil Actions To Enforce.—(1) The Attorney General may bring a civil action in a United States district court to enjoin a violation of subsection (a) of this section.
 
 (2) When practicable, the Secretary shall—
@@ -32,11 +36,11 @@ Civil Actions To Enforce.—(1) The Attorney General may bring a civil action in
 
 (3) The failure of the Secretary to comply with paragraph (2) of this subsection does not prevent a court from granting appropriate relief.
 
-(d)
+(e)
 
 Venue and Service.—A civil action under this section may be brought in the judicial district in which the violation occurred or the defendant is found, resides, or does business. Process in the action may be served in any other judicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1041.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1041; Pub. L. 110–140, title I, §111(b), Dec. 19, 2007, 121 Stat. 1507.)
 
 Historical and Revision Notes
 
@@ -81,4 +85,12 @@ In subsection (b)(1), the words “Each failure to provide information or comply
 In subsection (c), the words “The Attorney General may bring a civil action” are substituted for “Upon petition by the Attorney General on behalf of the United States” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.) and to eliminate unnecessary words. The words “for cause shown” are omitted as surplus. The words “and subject to the provisions of rule 65(a) and (b) of the Federal Rules of Civil Procedure” are omitted as surplus because the rules apply in the absence of an exception from them.
 
 Subsection (d) is substituted for 15:1947 (last sentence) and 1948(c) for clarity and consistency in this part by restating 15:1917(c)(3) and (4).
+
+#### Amendments
+
+2007—Subsecs. (c) to (e). Pub. L. 110–140 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

@@ -12,7 +12,7 @@ The Secretary shall address priority mental health needs of regional and nationa
 
 &emsp;(4) systems change grants including statewide family network grants and client-oriented and consumer run self-help activities.
 
-> The Secretary may carry out the activities described in this subsection directly or throughgrants or cooperative agreements with States, political subdivisions of States, Indian tribes and tribal organizations, other public or private nonprofit entities.
+> The Secretary may carry out the activities described in this subsection directly or through grants or cooperative agreements with States, political subdivisions of States, Indian tribes and tribal organizations, other public or private nonprofit entities.
 
 #### (b) Priority mental health needs
 

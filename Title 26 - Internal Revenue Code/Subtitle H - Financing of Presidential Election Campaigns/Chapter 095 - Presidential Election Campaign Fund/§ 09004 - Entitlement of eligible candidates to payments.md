@@ -4,7 +4,7 @@
 
 Subject to the provisions of this chapter—
 
-&emsp;(1) The eligible candidates of each major party in a presidential election shall be entitled to equal payments under section 9006 in an amount which, in the aggregate, shall not exceed the expenditure limitations applicable to such candidates under section 320(b)(1)(B) of the Federal Election Campaign Act of 1971.
+&emsp;(1) The eligible candidates of each major party in a presidential election shall be entitled to equal payments under section 9006 in an amount which, in the aggregate, shall not exceed the expenditure limitations applicable to such candidates under section 315(b)(1)(B) of the Federal Election Campaign Act of 1971.
 
 &emsp;(2)(A) The eligible candidates of a minor party in a presidential election shall be entitled to payments under section 9006 equal in the aggregate to an amount which bears the same ratio to the amount allowed under paragraph (1) for a major party as the number of popular votes received by the candidate for President of the minor party, as such candidate, in the preceding presidential election bears to the average number of popular votes received by the candidates for President of the major parties in the preceding presidential election.
 
@@ -30,19 +30,21 @@ The eligible candidates of a political party shall be entitled to payments under
 
 #### (d) Expenditures from personal funds
 
-In order to be eligible to receive any payment under section 9006, the candidate of a major, minor, or new party in an election for the office of President shall certify to the Commission, under penalty of perjury, that such candidate will not knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for election to the office of President in excess of, in the aggregate, $50,000. For purposes of this subsection, expenditures from personal funds made by a candidate of a major, minor, or new party for the office of Vice President shall be considered to be expenditures by the candidate of such party for the office of President.
+In order to be eligible to receive any payment under section 9006, the candidate of a major, minor, or new party in an election for the office of President shall certify to the Commission, under penalty of perjury, that such candidate will not knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for election to the office of President inexcess of, in the aggregate, $50,000. For purposes of this subsection, expenditures from personal funds made by a candidate of a major, minor, or new party for the office of Vice President shall be considered to be expenditures by the candidate of such party for the office of President.
 
 #### (e) Definition of immediate family
 
-For purposes of subsection (d), the term “immediate family” means a candidate's spouse,and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.
+For purposes of subsection (d), the term “immediate family” means a candidate's spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.
 
-(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 565; amended Pub. L. 93–443, title IV, §404(a), (b), Oct. 15, 1974, 88 Stat. 1291; Pub. L. 94–283, title III, §§301(a), 307(d), May 11, 1976, 90 Stat. 497, 501.)
+(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 565; amended Pub. L. 93–443, title IV, §404(a), (b), Oct. 15, 1974, 88 Stat. 1291; Pub. L. 94–283, title III, §§301(a), 307(d), May 11, 1976, 90 Stat. 497, 501; Pub. L. 110–172, §11(a)(42)(B), Dec. 29, 2007, 121 Stat. 2488.)
 
 #### References in Text
 
-Section 320 of the Federal Election Campaign Act of 1971, referred to in subsec. (a)(1), was renumbered section 315 of that Act by Pub. L. 96–187, title I, §105(5), Jan. 8, 1980, 93 Stat. 1354, and is classified to section 441a(b)(1)(B) of Title 2, The Congress.
+Section 315(b)(1)(B) of the Federal Election Campaign Act of 1971, referred to in subsec. (a)(1), is classified to section 441a(b)(1)(B) of Title 2, The Congress.
 
 #### Amendments
+
+2007—Subsec. (a)(1). Pub. L. 110–172 substituted “section 315(b)(1)(B)” for “section 320(b)(1)(B)”.
 
 1976—Subsec. (a)(1). Pub. L. 94–283, §307(d), substituted “section 320(b)(1)(B) of the Federal Election Campaign Act of 1971” for “section 608(c)(1)(B) of title 18, United States Code”.
 

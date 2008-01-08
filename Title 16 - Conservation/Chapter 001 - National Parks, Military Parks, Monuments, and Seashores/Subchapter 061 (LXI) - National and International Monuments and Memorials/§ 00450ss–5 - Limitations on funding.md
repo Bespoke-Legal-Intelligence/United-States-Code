@@ -8,7 +8,7 @@ Authorization of Appropriations: <sup>1</sup>
 
 #### (2) Matching requirement
 
-&emsp;Amounts appropriated in any fiscal year to carry out the provisions of sections 450ss to450ss–7 may only be expended on a matching basis in a ratio of at least one non-Federal dollar to every Federal dollar. For the purposes of this provision, each non-Federal dollar donated to the Foundation for the creation, maintenance, operation, or endowment of the Memorial shall satisfy the matching dollar requirement without regard to the fiscal year in which such donation is made.
+&emsp;Amounts appropriated in any fiscal year to carry out the provisions of sections 450ss to 450ss–7 may only be expended on a matching basis in a ratio of at least one non-Federal dollar to every Federal dollar. For the purposes of this provision, each non-Federal dollar donated to the Foundation for the creation, maintenance, operation, or endowment of the Memorial shall satisfy the matching dollar requirement without regard to the fiscal year in which such donation is made.
 
 (Pub. L. 105–58, §7, Oct. 9, 1997, 111 Stat. 1266; Pub. L. 108–199, div. F, title V, §544(f), Jan. 23, 2004, 118 Stat. 348.)
 

@@ -16,7 +16,7 @@ The President shall transmit to the Congress not later than January 20 of each y
 
 #### (b) Appendix to report
 
-The President also shall transmit simultaneously as an appendix to such annual report, a report, by agency and department, on the total dollar value of all Federal contracts exceeding $10,000 in amount and the dollar amount (including the subcontracts thereunder in excess of $10,000) awarded to small, minority-owned, female-owned, and veteran-owned businesses.
+The President also shall transmit simultaneously as an appendix to such annual report, a report, by agency and department, on the total dollar value of all Federal contracts exceeding$10,000 in amount and the dollar amount (including the subcontracts thereunder in excess of $10,000) awarded to small, minority-owned, female-owned, and veteran-owned businesses.
 
 #### (c) Supplementary reports
 
@@ -48,7 +48,7 @@ The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is P
 
 The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, asamended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Codification
 

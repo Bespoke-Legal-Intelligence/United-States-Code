@@ -10,7 +10,7 @@ The Federal share of the costs of the study authorized by this section shall not
 
 #### (c) Report
 
-The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than five years after appropriation of funds authorized by sections 390h to 390h–20 of this title.
+The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than five years after appropriation of funds authorized by sections 390h to 390h–23 of this title.
 
 (Pub. L. 102–575, title XVI, §1611, Oct. 30, 1992, 106 Stat. 4667; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 104–266, §6, Oct. 9, 1996, 110 Stat. 3296.)
 
@@ -19,8 +19,4 @@ The Secretary shall submit the report authorized by this section to the Committe
 1996—Subsec. (c). Pub. L. 104–266 substituted “five” for “four”.
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

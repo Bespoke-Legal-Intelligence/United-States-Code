@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) there is no readily available source of technical biological information that the public can access to assist with the application of state-of-the-art techniques to restore, enhance, and manage fish and wildlife habitats;
 
-&emsp;(4) a voluntary cost-effective program that leverages public and private funds to assist private landowners in the conduct of state-of-the-art fish and wildlife habitat restoration,enhancement, and management projects is needed;
+&emsp;(4) a voluntary cost-effective program that leverages public and private funds to assist private landowners in the conduct of state-of-the-art fish and wildlife habitat restoration, enhancement, and management projects is needed;
 
 &emsp;(5) durable partnerships working collaboratively with willing private landowners to implement on-the-ground projects has lead to the reduction of endangered species listings;
 

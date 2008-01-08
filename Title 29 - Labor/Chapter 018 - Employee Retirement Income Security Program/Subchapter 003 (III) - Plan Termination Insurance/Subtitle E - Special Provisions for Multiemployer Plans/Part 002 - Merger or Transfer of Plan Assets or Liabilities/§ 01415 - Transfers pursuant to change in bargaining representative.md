@@ -2,7 +2,7 @@
 
 #### (a) Authority to transfer from old plan to new plan pursuant to employee participation in another multiemployer plan after certified change of representative
 
-In any case in which an employer has completely or partially withdrawn from a multiemployer plan (hereafter in this section referred to as the “old plan”) as a result of a certifiedchange of collective bargaining representative occurring after September 25, 1980, if participants of the old plan who are employed by the employer will, as a result of that change, participate in another multiemployer plan (hereafter in this section referred to as the “new plan”), the old plan shall transfer assets and liabilities to the new plan in accordance with this section.
+In any case in which an employer has completely or partially withdrawn from a multiemployer plan (hereafter in this section referred to as the “old plan”) as a result of a certified change of collective bargaining representative occurring after September 25, 1980, if participants of the old plan who are employed by the employer will, as a result of that change, participate in another multiemployer plan (hereafter in this section referred to as the “new plan”), the old plan shall transfer assets and liabilities to the new plan in accordance with this section.
 
 #### (b) Notification by employer of plan sponsor of old plan; notification by plan sponsor of old plan of employer and plan sponsor of new plan; appeal by new plan to prevent transfer; further proceedings
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 The Labor-Management Relations Act, 1947, referred to in subsec. (g)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
-The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended,which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 #### Amendments
 

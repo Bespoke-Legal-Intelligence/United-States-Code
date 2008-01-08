@@ -52,7 +52,7 @@ In subsection (b), the words “of objectives” are omitted as surplus.
 
 In subsection (c), the words “chief executive officer” are substituted for “Governor” for consistency in the revised title and because the word “State” includes the territories and possessions of the United States.
 
-In subsection (d), before clause (1), the words “in connection with any project”, “imposed on such sponsor under this section in connection with such project”, and “or discharge” are omitted as surplus. The words “laws and regulations” are substituted for “statutory and administrative requirements” for consistency in the revised title.
+In subsection (d), before clause (1), the words “in connection with any project”, “imposed on such sponsorunder this section in connection with such project”, and “or discharge” are omitted as surplus. The words “laws and regulations” are substituted for “statutory and administrative requirements” for consistency in the revised title.
 
 #### References in Text
 

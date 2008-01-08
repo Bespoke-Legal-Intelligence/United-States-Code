@@ -32,7 +32,7 @@ It is the purpose of this chapter to—
 
 &emsp;(6) expand and strengthen existing service programs with demonstrated experience in providing structured service opportunities with visible benefits to the participants and community;
 
-&emsp;(7) build on the existing organizational service infrastructure of Federal, State, and local programs and agencies to expand full-time and part-time service opportunities for all citizens; and
+&emsp;(7) build on the existing organizational service infrastructure of Federal, State, and localprograms and agencies to expand full-time and part-time service opportunities for all citizens; and
 
 &emsp;(8) provide tangible benefits to the communities in which national service is performed.
 
@@ -106,7 +106,7 @@ Ex. Ord. No. 13254, Jan. 29, 2002, 67 F.R. 4869, as amended by Ex. Ord. No. 1328
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Building on our Nation's rich tradition of citizen service, this Administration's policy is to foster a culture of responsibility, service, and citizenship by promoting, expanding, and enhancing public service opportunities for all Americans and by making these opportunities readily available to citizens from all geographic areas, professions, and walks of life. More specifically, this Administration encourages all Americans to serve their country for the equivalent of at least 2 years (4,000 hours) over their lifetimes. Toward those ends, the executive departments, agencies, and offices constituting the USA Freedom Corps shall coordinate and strengthen Federal and other service opportunities, including opportunities for participation in homeland security preparedness and response, other areas of public and social service, and international service. The executive branch departments, agencies, and offices also will work with State and local governments and private entities to foster and encourage participation in public and social service programs, as appropriate.
+Section 1. <i>Policy</i>. Building on our Nation's rich tradition of citizen service, this Administration's policy is to foster a culture of responsibility, service, and citizenship by promoting, expanding, and enhancing public service opportunities for all Americans and by making these opportunities readily available to citizens fromall geographic areas, professions, and walks of life. More specifically, this Administration encourages all Americans to serve their country for the equivalent of at least 2 years (4,000 hours) over their lifetimes. Toward those ends, the executive departments, agencies, and offices constituting the USA Freedom Corps shall coordinate and strengthen Federal and other service opportunities, including opportunities for participation in homeland security preparedness and response, other areas of public and social service, and international service. The executive branch departments, agencies, and offices also will work with State and local governments and private entities to foster and encourage participation in public and social service programs, as appropriate.
 
 Sec. 2. <i>USA Freedom Corps</i>. The USA Freedom Corps shall be an interagency initiative, bringing together executive branch departments, agencies, and offices with public service programs and components, including but not limited to programs and components with the following functions:
 
@@ -192,7 +192,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13317, Sept. 25, 2003, 68 F.R. 56515, as amended by Ex. Ord. No. 13418, Dec. 14, 2006, 71 F.R. 75647, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to encourage volunteer service by highly skilled Americans to support major initiatives by the United States for promoting health and prosperity around the world, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to encourage volunteer service by highly skilled Americans to support major initiatives by the United States for promoting health and prosperity around the world, it is hereby ordered as follows:
 
 Section 1. (a) <i>Policy</i>. A part of USA Freedom Corps, “Volunteers for Prosperity” is a call to service to support major U.S. initiatives that promote health and prosperity around the world. Deploying highly skilled volunteers abroad is an efficient way to use our resources consistent with the objectives of the United States Government's global prosperity agenda. United States volunteers will help to achieve the objectives of the global prosperity agenda, including providing clean water to the poor, promoting democratic governance, developing economic freedom, promoting free and open markets, stemming the spread of HIV/AIDS and controlling malaria.
 
@@ -250,7 +250,7 @@ Sec. 2. <i>Fundamental Principles and Policymaking Criteria</i>. In formulating 
 
 (d) National and community service programs should expand opportunities for involvement of faith-based and other community organizations.
 
-Sec. 3. <i>Agency Implementation</i>. (a) The Chief Executive Officer of the Corporation for National and Community Service (Chief Executive Officer) shall, in coordination with the USA Freedom Corps Council, review and evaluate existing policies governing national and community service programs in order to assess the consistency of such policies with the fundamental principles and policymaking criteria described in section 2 of this order.
+Sec. 3. <i>Agency Implementation</i>. (a) The Chief Executive Officer of the Corporation for National and CommunityService (Chief Executive Officer) shall, in coordination with the USA Freedom Corps Council, review and evaluate existing policies governing national and community service programs in order to assess the consistency of such policies with the fundamental principles and policymaking criteria described in section 2 of this order.
 
 (b) The Chief Executive Officer shall ensure that all policies governing national and community service programs issued by the Corporation are consistent with the fundamental principles and policymaking criteria described in section 2 of this order. To that end, the Chief Executive Officer shall, to the extent permitted by law,
 

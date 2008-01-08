@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of State and the Administrator of the United States Agency for International Development, in consultation with appropriate nongovernmental organizations, shall establish and carry out programs and initiatives in foreign countries to assist in the safe integration, reintegration, or resettlement, as appropriate, of victims of trafficking. Such programs and initiatives shall be designed to meet the appropriate assistance needs of such persons and their children, as identified by the Task Force. In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:
+&emsp;The Secretary of State and the Administrator of the United States Agency for International Development, in consultation with appropriate nongovernmental organizations, shall establish and carry out programs and initiatives in foreign countries to assist in the safe integration, reintegration, or resettlement, as appropriate, of victims of trafficking. Such programs and initiatives shall be designed to meet the appropriate assistanceneeds of such persons and their children, as identified by the Task Force. In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:
 
 &emsp;&emsp;(A) Support for local in-country nongovernmental organization-operated hotlines, culturally and linguistically appropriate protective shelters, and regional and international nongovernmental organization networks and databases on trafficking, including support to assist nongovernmental organizations in establishing service centers and systems that are mobile and extend beyond large cities.
 
@@ -26,7 +26,7 @@
 
 #### (A) Eligibility for benefits and services
 
-&emsp;&emsp;Notwithstanding title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, an alien who is a victim of a severe form of trafficking in persons, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8, shall be eligible for benefits and services under any Federal or State program or activity funded or administered by any official or agency described in subparagraph (B) to the same extent as an alien who is admitted to the United States as a refugee under section 1157 of title 8.
+&emsp;&emsp;Notwithstanding title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[8 U.S.C. 1601 et seq.\], an alien who is a victim of a severe form of trafficking in persons, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8, shall be eligible for benefits and services under any Federal or State program or activity funded or administered by any official or agency described in subparagraph (B) to the same extent as an alien who is admitted to the United States as a refugee under section 1157 of title 8.
 
 #### (B) Requirement to expand benefits and services
 
@@ -74,7 +74,7 @@
 
 #### (iv) Assistance to investigations
 
-&emsp;&emsp;&emsp;In making the certification described in this subparagraph with respect to the assistance to investigation or prosecution described in clause (i)(I), the Secretary of Health and Human Services shall consider statements from State and local law enforcement officials that the person referred to in subparagraph (C)(ii)(II) has been willing to assist in every reasonable way with respect to the investigation and prosecution of State and local crimes suchas kidnapping, rape, slavery, or other forced labor offenses, where severe forms of trafficking appear to have been involved.
+&emsp;&emsp;&emsp;In making the certification described in this subparagraph with respect to the assistance to investigation or prosecution described in clause (i)(I), the Secretary of Health and Human Services shall consider statements from State and local law enforcement officials that the person referred to in subparagraph (C)(ii)(II) has been willing to assist in every reasonable way with respect to the investigation and prosecution of State and local crimes such as kidnapping, rape, slavery, or other forced labor offenses, where severe forms of trafficking appear to have been involved.
 
 #### (2) Grants
 
@@ -136,7 +136,7 @@ Nothing in subsection (c) of this section shall be construed as creating any pri
 
 #### (5) Statutory construction
 
-&emsp;Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e) of this section, for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien's admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
+&emsp;Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e) of this section, for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien's admission as anonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
 
 #### (f) Omitted
 
@@ -148,9 +148,9 @@ On or before October 31 of each year, the Secretary of Homeland Security shall s
 
 #### References in Text
 
-Section 1101(a)(15)(T)(ii) of title 8, referred to in subsec. (b)(1)(A), (B), was in the original “section101(a)(15)(T)(ii)”, and was translated as meaning section 101(a)(15)(T)(ii) of the Immigration and Nationality Act, act June 27, 1952, ch. 477, which is classified to section 1101(a)(15)(T)(ii) of title 8, to reflect the probable intent of Congress. Section 101 of Pub. L. 106–386 does not contain a subsec. (a)(15)(T)(ii), and section 101(a)(15)(T)(ii) of the Immigration and Nationality Act describes certain nonimmigrant aliens.
+Section 1101(a)(15)(T)(ii) of title 8, referred to in subsec. (b)(1)(A), (B), was in the original “section 101(a)(15)(T)(ii)”, and was translated as meaning section 101(a)(15)(T)(ii) of the Immigration and Nationality Act, act June 27, 1952, ch. 477, which is classified to section 1101(a)(15)(T)(ii) of title 8, to reflect the probable intent of Congress. Section 101 of Pub. L. 106–386 does not contain a subsec. (a)(15)(T)(ii), and section 101(a)(15)(T)(ii) of the Immigration and Nationality Act describes certain nonimmigrant aliens.
 
-Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(1)(A), is title IV (§400 et seq.) of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, as amended. For complete classification of title IV to the Code, see Tables.
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(1)(A), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
 
 For the amendments made by this section, referred to in subsec. (e)(5), see Codification note below.
 
@@ -242,7 +242,7 @@ Form of assistance.—In order to carry out the responsibilities of this subsect
 
 “(6)
 
-Report.—Not later than one year after the date on which the first pilot program is established pursuant to paragraph (2), the Administrator of the United States Agency for International Development shall submit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the implementation of this subsection.
+Report.—Not later than one year after the date on which the first pilot program is established pursuant to paragraph (2), the Administrator of the United States Agency for International Development shall submit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the implementation of this subsection.
 
 “(7)
 

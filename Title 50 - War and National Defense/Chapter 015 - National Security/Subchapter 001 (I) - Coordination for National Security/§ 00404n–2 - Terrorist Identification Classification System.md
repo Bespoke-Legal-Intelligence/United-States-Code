@@ -44,7 +44,7 @@ Subject to section 403–1(i) of this title, relating to the protection of intel
 
 (1) Not later than one year after November 27, 2002, the Director shall, in consultation with the Director of Homeland Security, submit to the congressional intelligence committees a report on the status of the Terrorist Identification Classification System. The report shall contain a certification on the following:
 
-&emsp;(A) Whether the System contains the intelligence information necessary to facilitate the contribution of the System to the domestic security of the United States.
+&emsp;(A) Whether the System contains the intelligence information necessary to facilitate thecontribution of the System to the domestic security of the United States.
 
 &emsp;(B) Whether the departments and agencies having access to the System have access in a manner that permits such departments and agencies to carry out appropriately their domestic security responsibilities.
 

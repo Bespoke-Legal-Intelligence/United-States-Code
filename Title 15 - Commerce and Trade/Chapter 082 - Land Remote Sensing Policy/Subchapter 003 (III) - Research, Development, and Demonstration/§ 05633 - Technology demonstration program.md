@@ -28,7 +28,7 @@ The Landsat Program Management shall have a coordinating role in the technology 
 
 #### (f) Report to Congress
 
-The President shall assess the progress of the technology demonstration program under thissection and, within 2 years after October 28, 1992, submit a report to the Congress on such progress.
+The President shall assess the progress of the technology demonstration program under this section and, within 2 years after October 28, 1992, submit a report to the Congress on such progress.
 
 (Pub. L. 102–555, title III, §303, Oct. 28, 1992, 106 Stat. 4174.)
 

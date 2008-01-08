@@ -8,7 +8,7 @@
 
 &emsp;(i) employable refugees should be placed on jobs as soon as possible after their arrival in the United States;
 
-&emsp;(ii) social service funds should be focused on employment-related services, English-as-a-second-language training (in nonwork hourswhere possible), and case-management services; and
+&emsp;(ii) social service funds should be focused on employment-related services, English-as-a-second-language training (in nonwork hours where possible), and case-management services; and
 
 &emsp;(iii) local voluntary agency activities should be conducted in close cooperation and advance consultation with State and local governments.
 
@@ -170,13 +170,13 @@
 
 &emsp;(ii) to provide training in English where necessary (regardless of whether the refugees are employed or receiving cash or other assistance); and
 
-&emsp;(iii) to provide where specific needs have been shown and recognized by the Director, health (including mental health) services, social services, educational and other services.
+&emsp;(iii) to provide where specific needs have been shown and recognized by the Director,health (including mental health) services, social services, educational and other services.
 
 (B) The funds available for a fiscal year for grants and contracts under subparagraph (A) shall be allocated among the States based on the total number of refugees (including children and adults) who arrived in the United States not more than 36 months before the beginning of such fiscal year and who are actually residing in each State (taking into account secondary migration) as of the beginning of the fiscal year.
 
 (C) Any limitation which the Director establishes on the proportion of funds allocated to a State under this paragraph that the State may use for services other than those described in subsection (a)(1)(B)(ii) of this section shall not apply if the Director receives a plan (established by or in consultation with local governments) and determines that the plan provides for the maximum appropriate provision of employment-related services for, and the maximum placement of, employable refugees consistent with performance standards established under section 106 of the Job Training Partnership Act.
 
-(2)(A) The Director is authorized to make grants to States for assistance to counties and similar areas in the States where, because of factors such as unusually large refugee populations (including secondary migration), high refugee concentrations, and high use of public assistance by refugees, there exists and can bedemonstrated a specific need for supplementation of available resources for services to refugees.
+(2)(A) The Director is authorized to make grants to States for assistance to counties and similar areas in the States where, because of factors such as unusually large refugee populations (including secondary migration), high refugee concentrations, and high use of public assistance by refugees, there exists and can be demonstrated a specific need for supplementation of available resources for services to refugees.
 
 (B) Grants shall be made available under this paragraph—
 
@@ -226,7 +226,7 @@
 
 (4) If a refugee is eligible for aid or assistance under a State program funded under part A of title IV or under title XIX of the Social Security Act \[42 U.S.C. 601 et seq., 1396 et seq.\], or for supplemental security income benefits (including State supplementary payments) under the program established under title XVI of that Act \[42 U.S.C. 1381 et seq.\], funds authorized under this subsection shall only be used for the non-Federal share of such aid or assistance, or for such supplementary payments, with respect to cash and medical assistance provided with respect to such refugee under this paragraph.
 
-(5) The Director is authorized to allow for the provision of medical assistance under paragraph (1) to any refugee, during the one-year periodafter entry, who does not qualify for assistance under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] on account of any resources or income requirement of such plan, but only if the Director determines that—
+(5) The Director is authorized to allow for the provision of medical assistance under paragraph (1) to any refugee, during the one-year period after entry, who does not qualify for assistance under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] on account of any resources or income requirement of such plan, but only if the Director determines that—
 
 &emsp;(A) this will (i) encourage economic self-sufficiency, or (ii) avoid a significant burden on State and local governments; and
 
@@ -266,13 +266,13 @@
 
 &emsp;(B) such other information as the Attorney General may require.
 
-(3) For a fiscal year the Attorney General shall pay the costs described in paragraph (1) to each State and county determined by the Attorney General to be eligible under paragraph (2); except that if the amounts appropriated for the fiscal year to carry out this subsection are insufficient to cover all such payments, each of such payments shall be ratably reduced so that the total of such payments equals the amounts so appropriated.
+(3) For a fiscal year the Attorney General shall pay the costs described in paragraph (1) to each State and county determined by the Attorney General to be eligible under paragraph (2); except that if the amounts appropriated for the fiscal year to carry out this subsection are insufficient to cover all such payments, each ofsuch payments shall be ratably reduced so that the total of such payments equals the amounts so appropriated.
 
 (4) The authority of the Attorney General to pay compensation under this subsection shall be effective for any fiscal year only to the extent and in such amounts as may be provided in advance in appropriation Acts.
 
 (5) It shall be the policy of the United States Government that the President, in consultation with the Attorney General and all other appropriate Federal officials and all appropriate State and county officials referred to in paragraph (2), shall place top priority on seeking the expeditious removal from this country and the return to Cuba of Cuban nationals described in paragraph (1) by any reasonable and responsible means, and to this end the Attorney General may use the funds authorized to carry out this subsection to conduct such policy.
 
-(June 27, 1952, ch. 477, title IV, ch. 2, §412, as added Pub. L. 96–212, title III, §311(a)(2), Mar. 17, 1980, 94 Stat. 111; amended Pub. L. 97–363, §§3(a), 4–6, Oct. 25, 1982, 96 Stat. 1734–1736; Pub. L. 98–164, title X, §1011(b), Nov. 22, 1983, 97 Stat. 1061; Pub. L. 98–473, title I, §101(d), Oct. 12, 1984, 98 Stat. 1876, 1877; Pub. L. 99–605, §§3–5(c), 6(a), (b), (d), 8, 9(a), (b), 10, 12, 13, Nov. 6, 1986, 100 Stat. 3449–3451, 3453–3455; Pub. L. 100–525, §6(b), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 103–236, title I, §162(n)(2), Apr. 30, 1994, 108 Stat. 409; Pub. L.103–416, title II, §219(x), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 104–193, title I, §110(s)(3), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title VI, §671(e)(7), Sept. 30, 1996, 110 Stat. 3009–723.)
+(June 27, 1952, ch. 477, title IV, ch. 2, §412, as added Pub. L. 96–212, title III, §311(a)(2), Mar. 17, 1980, 94 Stat. 111; amended Pub. L. 97–363, §§3(a), 4–6, Oct. 25, 1982, 96 Stat. 1734–1736; Pub. L. 98–164, title X, §1011(b), Nov. 22, 1983, 97 Stat. 1061; Pub. L. 98–473, title I, §101(d), Oct. 12, 1984, 98 Stat. 1876, 1877; Pub. L. 99–605, §§3–5(c), 6(a), (b), (d), 8, 9(a), (b), 10, 12, 13, Nov. 6, 1986, 100 Stat. 3449–3451, 3453–3455; Pub. L. 100–525, §6(b), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 103–236, title I, §162(n)(2), Apr. 30, 1994, 108 Stat. 409; Pub. L. 103–416, title II, §219(x), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 104–193, title I, §110(s)(3), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title VI, §671(e)(7), Sept. 30, 1996, 110 Stat. 3009–723.)
 
 #### References in Text
 
@@ -334,7 +334,7 @@ Subsec. (e)(2)(A)(ii). Pub. L. 99–605, §8(b), inserted “or targeted assista
 
 Subsec. (e)(2)(C). Pub. L. 99–605, §9(a)(2), added subpar. (C).
 
-Subsec. (e)(7)(A). Pub. L. 99–605, §10, inserted provisions which related to alternative projects for specific groups of refugees in the United States 36 months or longer if determined to be disproportionately dependent on welfare.
+Subsec. (e)(7)(A). Pub. L. 99–605, §10, inserted provisions which related to alternative projects for specific groups of refugees in the United States 36 months orlonger if determined to be disproportionately dependent on welfare.
 
 Subsec. (e)(8). Pub. L. 99–605, §9(b), added par. (8).
 
@@ -356,7 +356,7 @@ Subsec. (a)(3). Pub. L. 97–363, §4(b), inserted provision that the Director s
 
 Subsec. (b)(1)(A). Pub. L. 97–363, §5(1), struck out provision that the Secretary of State and the Director shall jointly monitor the assistance provided during fiscal years 1980 and 1981 under this paragraph.
 
-Pub. L. 97–363, §5(2), inserted provision relating to period for expenditure of funds provided under grants and contracts and the inclusion in such grants and contracts of requirements for notification by the agency inthe event of employment offers to the refugee and assurance that refugees identified under par. (4)(B) will report to appropriate health agencies upon resettlement.
+Pub. L. 97–363, §5(2), inserted provision relating to period for expenditure of funds provided under grants and contracts and the inclusion in such grants and contracts of requirements for notification by the agency in the event of employment offers to the refugee and assurance that refugees identified under par. (4)(B) will report to appropriate health agencies upon resettlement.
 
 Subsec. (b)(5). Pub. L. 97–363, §5(3), added par. (5).
 
@@ -416,7 +416,7 @@ Section 313 of part B of title III of Pub. L. 96–212 provided that:
 
 “(b) Subject to subsection (c), the limitations contained in sections 412(d)(2)(A) and 412(e)(1) of the Immigration and Nationality Act \[subsecs. (d)(2)(A) and (e)(1) of this section\] on the duration of the period for which child welfare services and cash and medical assistance may be provided to particular refugees shall not apply to such services and assistance provided before April 1, 1981.
 
-“(c) Notwithstanding section 412(e)(1) of the Immigration and Nationality Act \[subsec. (e)(1) of this section\] and in lieu of any assistance which may otherwise be provided under such section with respect to Cuban refugees who entered the United States and were receiving assistance under section 2(b) of the Migration and Refugee Assistance Act of 1962 \[22 U.S.C. 2601(b)\] before October 1, 1978, the Director of the Office of Refugee Resettlement is authorized—
+“(c) Notwithstanding section 412(e)(1) of the Immigration and Nationality Act \[subsec. (e)(1) of this section\] and in lieu of any assistance which may otherwise be provided under such section with respect to Cuban refugees who entered the United States and were receiving assistance under section 2(b) of the Migrationand Refugee Assistance Act of 1962 \[22 U.S.C. 2601(b)\] before October 1, 1978, the Director of the Office of Refugee Resettlement is authorized—
 
 &emsp;“(1) to provide reimbursement—
 
@@ -508,7 +508,7 @@ I74“definitions
 
 “Sec. 103. (a) The jurisdictions to which this section applies are Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
-“(b)(1) Each jurisdiction to which this section applies shall be entitled to grants for the purposes set forth in sections 201(a), 302, and 402 in amounts equal to amounts determined by the Secretary in accordance with criteria established by the Secretary, except thatthe aggregate of the amount to which such jurisdictions are so entitled for any period—
+“(b)(1) Each jurisdiction to which this section applies shall be entitled to grants for the purposes set forth in sections 201(a), 302, and 402 in amounts equal to amounts determined by the Secretary in accordance with criteria established by the Secretary, except that the aggregate of the amount to which such jurisdictions are so entitled for any period—
 
 &emsp;“(A) for the purposes set forth in section 201(a), shall not exceed an amount equal to 1 percent of the amount authorized to be appropriated under section 201 for that period;
 
@@ -540,7 +540,7 @@ I74“state entitlements
 
 “(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
-“(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
+“(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
 
 “(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
@@ -552,7 +552,7 @@ I74“state entitlements
 
 &emsp;“(2) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with the formula established by the Secretary under section 201, subject to any reductions in payments for those local educational agencies identified under paragraph (3) to which funds described by section 201(b)(2) are made available for the same purposes under other Federal laws;
 
-&emsp;“(3) specify the amount of funds described by section 201(b)(2) which are made available under otherFederal laws for expenditure within the State for the same purposes as those for which funds are made available under this title and the local educational agencies to which such funds are made available;
+&emsp;“(3) specify the amount of funds described by section 201(b)(2) which are made available under other Federal laws for expenditure within the State for the same purposes as those for which funds are made available under this title and the local educational agencies to which such funds are made available;
 
 &emsp;“(4) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this title without first affording the local educational agency submitting the application for such funds reasonable notice and opportunity for a hearing; and
 
@@ -606,7 +606,7 @@ I74“state entitlements
 
 #### “uses of funds
 
-“Sec. 302. (a) Payments made under this title to any State may be used in accordance with applications approved under section 303 for supplementary educationalservices and costs, as described under subsection (b) of this section, for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of the State described in section 301(b)(2) and in elementary and secondary nonpublic schools of that State within the districts served by such agencies.
+“Sec. 302. (a) Payments made under this title to any State may be used in accordance with applications approved under section 303 for supplementary educational services and costs, as described under subsection (b) of this section, for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of the State described in section 301(b)(2) and in elementary and secondary nonpublic schools of that State within the districts served by such agencies.
 
 “(b) Financial assistance provided under this title shall be available to meet the costs of providing eligible participants supplementary educational services, including but not limited to—
 
@@ -668,7 +668,7 @@ I74“state entitlements
 
 &emsp;“(B) $300.
 
-“(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for whichfunds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
+“(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
 “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 402 shall be considered to be payments under this title.
 

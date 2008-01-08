@@ -18,7 +18,7 @@ Whenever it appears to any officer or agency of the United States in whom is ves
 
 #### (e) Private right of action
 
-(1) Any person suffering legal wrong because of any act or practice arising out of any violationof any provision of this chapter described in paragraph (2), may bring an action in an appropriate district court of the United States without regard to the amount in controversy, for appropriate relief, including an action for a declaratory judgment or writ of injunction. Nothing in this subsection shall authorize any person to recover damages.
+(1) Any person suffering legal wrong because of any act or practice arising out of any violation of any provision of this chapter described in paragraph (2), may bring an action in an appropriate district court of the United States without regard to the amount in controversy, for appropriate relief, including an action for a declaratory judgment or writ of injunction. Nothing in this subsection shall authorize any person to recover damages.
 
 (2) The provisions of this chapter referred to in paragraph (1) are as follows:
 

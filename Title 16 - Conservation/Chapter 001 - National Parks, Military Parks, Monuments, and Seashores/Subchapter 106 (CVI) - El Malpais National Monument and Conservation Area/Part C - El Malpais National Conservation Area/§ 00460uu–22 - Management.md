@@ -2,7 +2,7 @@
 
 #### (a) Provisions applicable
 
-The Secretary, acting through the Director of the Bureau of Land Management, shall manage the conservation area to protect the resources specified in section 460uu–21 of this title and in accordance with this subchapter, the Federal Land Management and Policy Act of 1976 \[43 U.S.C. 1701 et seq.\] and other applicable provisions of law, including those provisions relating to grazing on public lands.
+The Secretary, acting through the Director of the Bureau of Land Management, shall manage the conservation area to protect the resources specified in section 460uu–21 of this title and in accordance with this subchapter, the Federal Land Management and Policy <sup>1</sup> Act of 1976 \[43 U.S.C. 1701 et seq.\] and other applicable provisions of law, including those provisions relating to grazing on public lands.
 
 #### (b) Hunting and trapping
 
@@ -20,5 +20,5 @@ Except as otherwise provided in section 460uu–32(b) of this title, within the 
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Management and Policy Act of 1976, referred to in subsec. (a), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 

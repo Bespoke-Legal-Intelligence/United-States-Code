@@ -86,7 +86,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) provide a source of funds for the purchase of obligations described in clause (ii) or (iii) of paragraph (3)(A).
 
-> &emsp;&emsp;The aggregate fair market value of the assets held in any such reserve shall not exceed 50 percent of the aggregate fair market value of all of the assets of the REMIC on the startup day, and the amount of any suchreserve shall be promptly and appropriately reduced to the extent the amount held in such reserve is no longer reasonably required for purposes specified in clause (i) or (ii) of this subparagraph.
+> &emsp;&emsp;The aggregate fair market value of the assets held in any such reserve shall not exceed 50 percent of the aggregate fair market value of all of the assets of the REMIC on the startup day, and the amount of any such reserve shall be promptly and appropriately reduced to the extent the amount held in such reserve is no longer reasonably required for purposes specified in clause (i) or (ii) of this subparagraph.
 
 #### (C) Special rule
 
@@ -164,7 +164,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) providing that a mortgage will be treated as a qualified replacement mortgage only if it is part of a bona fide replacement (and not part of a swap of mortgages).
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, titleI, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1621(b)(6), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(5)–(8), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 109–135, title IV, §403(cc), Dec. 21, 2005, 119 Stat. 2630.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1621(b)(6), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(5)–(8), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 109–135, title IV, §403(cc), Dec. 21, 2005, 119 Stat. 2630.)
 
 #### Amendments
 
@@ -208,7 +208,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 100–647, §1006(t)(5)(C)(i), substituted “on t
 
 Subsec. (a)(3)(A)(ii). Pub. L. 100–647, §1006(t)(5)(C)(ii), inserted before comma at end “if, except as provided in regulations, such purchase is pursuant to a fixed-price contract in effect on the startup day”.
 
-Subsec. (a)(3)(C). Pub. L. 100–647, §1006(t)(5)(C)(iii), substituted “on the startup day in exchange for regular or residual interests in the REMIC” for “on or before the startup day”.
+Subsec. (a)(3)(C). Pub. L. 100–647, §1006(t)(5)(C)(iii), substituted “on the startup day in exchange for regularor residual interests in the REMIC” for “on or before the startup day”.
 
 Subsec. (a)(4)(A). Pub. L. 100–647, §1006(t)(5)(D), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which would be described in paragraph (3)(A) if it were transferred to the REMIC on or before the startup day, and”.
 

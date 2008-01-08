@@ -22,7 +22,7 @@ Additional requirements.—When awarding a contract described in paragraph (1), 
 
 &emsp;&emsp;(A)
 
-Performance of audits.—Any contract or subcontract awarded under thischapter shall be performed and audited in compliance with cost principles contained in part 31 of title 48, Code of Federal Regulations (commonly known as the Federal Acquisition Regulation).
+Performance of audits.—Any contract or subcontract awarded under this chapter shall be performed and audited in compliance with cost principles contained in part 31 of title 48, Code of Federal Regulations (commonly known as the Federal Acquisition Regulation).
 
 &emsp;&emsp;(B)
 
@@ -34,7 +34,7 @@ Application of rates.—After a firm's indirect cost rates are accepted under su
 
 &emsp;&emsp;(D)
 
-Prenotification; confidentiality of data.—A recipient requesting or using the cost and rate data described in subparagraph (C) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided by the group of agencies sharing cost data under this subparagraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
+Prenotification; confidentiality of data.—A recipient requesting or using thecost and rate data described in subparagraph (C) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided by the group of agencies sharing cost data under this subparagraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
 
 (c)
 

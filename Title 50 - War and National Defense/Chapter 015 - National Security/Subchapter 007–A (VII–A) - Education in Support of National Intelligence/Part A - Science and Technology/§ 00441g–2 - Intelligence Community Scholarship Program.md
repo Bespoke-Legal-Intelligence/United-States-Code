@@ -46,7 +46,7 @@ The Director of National Intelligence shall—
 
 #### (1) In general
 
-&emsp;The Director of National Intelligence may provide a scholarship under the Program for an academic year if the individual applying for the scholarship has submitted to the Director, as part of the application required under subsection (c) of this section, a proposed academicprogram leading to a degree in a program or field of study on the list made available under subsection (d) of this section.
+&emsp;The Director of National Intelligence may provide a scholarship under the Program for an academic year if the individual applying for the scholarship has submitted to the Director, as part of the application required under subsection (c) of this section, a proposed academic program leading to a degree in a program or field of study on the list made available under subsection (d) of this section.
 
 #### (2) Limitation on years
 
@@ -92,7 +92,7 @@ The Director of National Intelligence shall—
 
 #### (B) Deferral
 
-&emsp;&emsp;In accordance with regulations established by the Director of National Intelligence, the Director or designee may defer the obligation of an individual to provide a period of service under paragraph (1) if the Director or designee determines that such a deferral is appropriate.
+&emsp;&emsp;In accordance with regulations established by the Director of National Intelligence, theDirector or designee may defer the obligation of an individual to provide a period of service under paragraph (1) if the Director or designee determines that such a deferral is appropriate.
 
 #### (h) Repayment
 
@@ -116,7 +116,7 @@ The Director of National Intelligence shall—
 
 #### (2) Waiver or suspension
 
-&emsp;The Director of National Intelligence shall prescribe regulations to provide for the partial or total waiver or suspension of any obligation of service or payment incurred by an individual under the Program (or a contractual agreement thereunder) whenever complianceby the individual is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be contrary to the best interests of the Government.
+&emsp;The Director of National Intelligence shall prescribe regulations to provide for the partial or total waiver or suspension of any obligation of service or payment incurred by an individual under the Program (or a contractual agreement thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be contrary to the best interests of the Government.
 
 #### (j) Regulations
 

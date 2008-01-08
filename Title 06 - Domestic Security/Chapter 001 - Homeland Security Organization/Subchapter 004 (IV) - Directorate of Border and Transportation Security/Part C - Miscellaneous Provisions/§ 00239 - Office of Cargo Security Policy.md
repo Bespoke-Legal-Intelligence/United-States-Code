@@ -36,7 +36,7 @@ The Office shall—
 
 #### Rule of Construction
 
-Pub. L. 109–347, title III, §301(c), Oct. 13, 2006, 120 Stat. 1920, provided that: “Nothing in this section \[enactingthis section and section 1001 of this title\] shall be construed to affect—
+Pub. L. 109–347, title III, §301(c), Oct. 13, 2006, 120 Stat. 1920, provided that: “Nothing in this section \[enacting this section and section 1001 of this title\] shall be construed to affect—
 
 &emsp;“(1) the authorities, functions, or capabilities of the Coast Guard to perform its missions; or
 

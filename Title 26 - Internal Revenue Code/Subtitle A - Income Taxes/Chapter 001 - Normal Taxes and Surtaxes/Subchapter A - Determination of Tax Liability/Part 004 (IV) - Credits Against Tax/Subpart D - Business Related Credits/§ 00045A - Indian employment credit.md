@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (B) Coordination with work opportunity credit
 
-&emsp;&emsp;The term “qualified wages” shall not include wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer if any portion of such wages is taken into account in determining the credit under section 51.
+&emsp;&emsp;The term “qualified wages” shall not include wages attributable to service renderedduring the 1-year period beginning with the day the individual begins work for the employer if any portion of such wages is taken into account in determining the credit under section 51.
 
 #### (2) Qualified employee health insurance costs
 

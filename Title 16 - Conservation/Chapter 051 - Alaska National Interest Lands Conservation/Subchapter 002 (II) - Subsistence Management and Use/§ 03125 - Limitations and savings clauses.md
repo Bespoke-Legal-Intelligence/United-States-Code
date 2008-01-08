@@ -2,7 +2,7 @@
 
 Nothing in this subchapter shall be construed as—
 
-&emsp;(1) granting any property right in any fish or wildlife or other resource of the public lands or as permitting the level of subsistence uses of fish and wildlife within a conservation system unit to be inconsistent with the conservation of healthy populations, and within a national park or monument to be inconsistent with the conservation of natural and healthy populations, of fish and wildlife. No privilege which may be granted by the State to any individual with respect to subsistence uses may be assigned to any other individual;
+&emsp;(1) granting any property right in any fish or wildlife or other resource of the public lands or as permitting the level of subsistence uses of fish and wildlife within a conservation system unit to be inconsistent with the conservation of healthy populations, and within a national park or monument to be inconsistent with the conservation of natural and healthypopulations, of fish and wildlife. No privilege which may be granted by the State to any individual with respect to subsistence uses may be assigned to any other individual;
 
 &emsp;(2) permitting any subsistence use of fish and wildlife on any portion of the public lands (whether or not within any conservation system unit) which was permanently closed to such uses on January 1, 1978, or enlarging or diminishing the Secretary's authority to manipulate habitat on any portion of the public lands;
 
@@ -26,7 +26,7 @@ The Marine Mammal Protection Act of 1972, referred to in par. (4), is Pub. L. 92
 
 The Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940, referred to in par. (4), is act June 8, 1940, ch. 278, 54 Stat. 250, as amended, which is classified generally to subchapter II (§668 et seq.) of chapter 5A of this title. For complete classification of this Act to the Code, see Tables.
 
-The Migratory Bird Treaty Act, referred to in par. (4), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended,which is classified generally to subchapter II (§703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, referred to in par. (4), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
 The Federal Aid in Wildlife Restoration Act, referred to in par. (4), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Pittman-Robertson Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 

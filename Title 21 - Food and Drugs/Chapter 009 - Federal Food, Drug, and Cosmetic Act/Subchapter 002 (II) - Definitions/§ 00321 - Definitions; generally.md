@@ -28,7 +28,7 @@ For the purposes of this chapter—
 
 &emsp;(3) intended to affect the structure or any function of the body of man or other animals, and
 
-> which does not achieve its primary intended purposes through chemical action within or on the body of man or other animals and which isnot dependent upon being metabolized for the achievement of its primary intended purposes.
+> which does not achieve its primary intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of its primary intended purposes.
 
 (i) The term “cosmetic” means (1) articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human body or any part thereof for cleansing, beautifying, promoting attractiveness, or altering the appearance, and (2) articles intended for use as a component of any such articles; except that such term shall not include soap.
 
@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 (p) The term “new drug” means—
 
-&emsp;(1) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug is not generally recognized, among experts qualified by scientific training and experience to evaluate the safety and effectiveness of drugs, as safe and effective for use under the conditions prescribed, recommended, or suggested in the labeling thereof, except that such a drug not so recognized shall not be deemed to be a “new drug” if at any time prior to June 25, 1938, it was subject to the Food and Drugs Act of June 30, 1906, as amended, and if at such time its labeling contained the same representations concerning the conditions of its use; or
+&emsp;(1) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug is not generally recognized, among experts qualified by scientific training and experience to evaluate the safety and effectiveness of drugs, as safe and effective for use under the conditions prescribed, recommended, or suggested in the labeling thereof, except that such a drug not so recognized shall not be deemed to be a “new drug” if at any time prior to June 25, 1938, it was subjectto the Food and Drugs Act of June 30, 1906, as amended, and if at such time its labeling contained the same representations concerning the conditions of its use; or
 
 &emsp;(2) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug, as a result of investigations to determine its safety and effectiveness for use under such conditions, has become so recognized, but which has not, otherwise than in such investigations, been used to a material extent or for a material time under such conditions.
 
@@ -62,7 +62,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(III) The substance is applied during the transportation of such commodity between the field and such a treatment facility.
 
-&emsp;(ii) The definition in such clause for the term “pesticide chemical” does not include the substance if the substance is a food contact substance as defined in section 348(h)(6) of this title, and any of the following circumstances exist: The substance is included for such use in an object that has a food contact surface but is not intended to have an ongoing effect on any portion of the object; the substance is included for such use in an object that has a food contact surface and is intended to have an ongoing effect on a portion of the object but not on the food contact surface; orthe substance is included for such use in or is applied for such use on food packaging (without regard to whether the substance is intended to have an ongoing effect on any portion of the packaging). The food contact substance is not excluded under this subclause from such definition if any of the following circumstances exist: The substance is applied for such use on a semipermanent or permanent food contact surface (other than being applied on food packaging); or the substance is included for such use in an object that has a semipermanent or permanent food contact surface (other than being included in food packaging) and the substance is intended to have an ongoing effect on the food contact surface.
+&emsp;(ii) The definition in such clause for the term “pesticide chemical” does not include the substance if the substance is a food contact substance as defined in section 348(h)(6) of this title, and any of the following circumstances exist: The substance is included for such use in an object that has a food contact surface but is not intended to have an ongoing effect on any portion of the object; the substance is included for such use in an object that has a food contact surface and is intended to have an ongoing effect on a portion of the object but not on the food contact surface; or the substance is included for such use in or is applied for such use on food packaging (without regard to whether the substance is intended to have an ongoing effect on any portion of the packaging). The food contact substance is not excluded under this subclause from such definition if any of the following circumstances exist: The substance is applied for such use on a semipermanent or permanent food contact surface (other than being applied on food packaging); or the substance is included for such use in an object that has a semipermanent or permanent food contact surface (other than being included in food packaging) and the substance is intended to have an ongoing effect on the food contact surface.
 
 > With respect to the definition of the term “pesticide” that is applicable to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], this clause does not exclude any substance from such definition.
 
@@ -130,7 +130,7 @@ For the purposes of this chapter—
 
 &emsp;(5) The presiding officer in such hearing shall prepare a written report of the hearing to which shall be attached all written material presented at the hearing. The participants in the hearing shall be given the opportunity to review and correct or supplement the presiding officer's report of the hearing.
 
-&emsp;(6) The Secretary may require the hearing to be transcribed. A party to the hearing shall have the right to have the hearing transcribed at his expense. Any transcription of a hearing shall be included in the presiding officer's report of the hearing.
+&emsp;(6) The Secretary may require the hearing to be transcribed. A party to the hearing shall have the right to have the hearing transcribed at his expense. Any transcription of a hearingshall be included in the presiding officer's report of the hearing.
 
 (y) The term “saccharin” includes calcium saccharin, sodium saccharin, and ammonium saccharin.
 
@@ -210,7 +210,7 @@ For the purposes of this chapter—
 
 > &emsp;which was not before such approval, certification, licensing, or authorization marketed as a dietary supplement or as a food unless the Secretary, in the Secretary's discretion, has issued a regulation, after notice and comment, finding that the article would be lawful under this chapter.
 
-> Except for purposes of paragraph (g), a dietary supplement shall be deemed to be a food within the meaning of this chapter.
+> Except for purposes of paragraph (g) and section 350f of this title, a dietary supplement shall be deemed to be a food within the meaning of this chapter.
 
 (gg) The term “processed food” means any food other than a raw agricultural commodity and includes any raw agricultural commodity that has been subject to processing, such as canning, cooking, freezing, dehydration, or milling.
 
@@ -252,7 +252,7 @@ Priority supplement.—The term “priority supplement” means a drug applicati
 
 (qq) The term “major food allergen” means any of the following:
 
-&emsp;(1) Milk, egg, fish (e.g., bass, flounder, or cod), Crustacean shellfish (e.g., crab, lobster,or shrimp), tree nuts (e.g., almonds, pecans, or walnuts), wheat, peanuts, and soybeans.
+&emsp;(1) Milk, egg, fish (e.g., bass, flounder, or cod), Crustacean shellfish (e.g., crab, lobster, or shrimp), tree nuts (e.g., almonds, pecans, or walnuts), wheat, peanuts, and soybeans.
 
 &emsp;(2) A food ingredient that contains protein derived from a food specified in paragraph (1), except the following:
 
@@ -260,7 +260,7 @@ Priority supplement.—The term “priority supplement” means a drug applicati
 
 &emsp;&emsp;(B) A food ingredient that is exempt under paragraph (6) or (7) of section 343(w) of this title.
 
-(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908.)
+(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968.)
 
 #### References in Text
 
@@ -268,13 +268,15 @@ The Food and Drugs Act of June 30, 1906, as amended, referred to in par. (p)(1),
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (q)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Poultry Products Inspection Act, referred to in par. (s)(4), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
+The Poultry Products Inspection Act, referred to in par. (s)(4), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10\(§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
 The Meat Inspection Act of March 4, 1907, as amended and extended, referred to in par. (s)(4), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which are classified generally to subchapters I to IV (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 Section 101(4) of the Food and Drug Administration Modernization Act of 1997, referred to in par. (kk), is section 101(4) of Pub. L. 105–115, which is set out as a note under section 379g of this title.
 
 #### Amendments
+
+2007—Par. (ff). Pub. L. 110–85 substituted “paragraph (g) and section 350f of this title” for “paragraph (g)” in concluding provisions.
 
 2004–Par. (u). Pub. L. 108–282, §102(b)(5)(A), substituted “360b, 360ccc” for “360b”.
 
@@ -432,7 +434,7 @@ Section 107 of Pub. L. 87–781 provided that:
 
 “(a) Except as otherwise provided in this section, the amendments made by the foregoing sections of this part A \[amending this section and sections 331, 332, 348, 351 to 353, 355, 357, 379e of this title, and enacting provisions set out as a note under section 355 of this title\] shall take effect on the date of enactment of this Act \[Oct. 10, 1962\].
 
-“(b) The amendments made by sections 101, 103, 105, and 106 of this part A \[amending sections 331, 332, 351, 352, 355, and 357 of this title\] shall, with respect to any drug, take effect on the first day of the seventh calendar month following the month in which this Act is enacted \[Oct. 1962\].
+“(b) The amendments made by sections 101, 103, 105, and 106 of this part A \[amending sections 331, 332, 351,352, 355, and 357 of this title\] shall, with respect to any drug, take effect on the first day of the seventh calendar month following the month in which this Act is enacted \[Oct. 1962\].
 
 “(c)(1) As used in this subsection, the term ‘enactment date’ means the date of enactment of this Act; and the term ‘basic Act’ means the Federal Food, Drug, and Cosmetic Act \[this chapter\].
 
@@ -480,7 +482,7 @@ Section 702 of Pub. L. 91–513, as amended by Pub. L. 93–481, §2, Oct. 26, 1
 
 #### Transfer of Functions
 
-Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
+Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V,§509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
 Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Federal Food, Drug, and Cosmetic Act, to the extent such functions related to administration and enforcement of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.), transferred to Consumer Product Safety Commission by section 2079 of Title 15, Commerce and Trade.
 
@@ -544,7 +546,7 @@ Section 5 of Pub. L. 90–639 provided that: “It is the sense of the Congress 
 
 #### Congressional Findings and Declaration of Policy
 
-Section 2 of Pub. L. 89–74 provided that: “The Congress hereby finds and declares that there is a widespread illicit traffic in depressant and stimulant drugs moving in or otherwise affecting interstate commerce; that the use of such drugs, when not under the supervision of a licensed practitioner, often endangers safety on the highways (without distinction of interstate and intrastate traffic thereon) and otherwise has become a threat to the public health and safety, making additional regulation of such drugs necessary regardless of the intrastate or interstate origin of such drugs; that in order to make regulation and protection of interstate commerce in such drugs effective, regulation of intrastate commerce is also necessary because, among other things, such drugs, when held for illicit sale, often do not bear labeling showing their place of origin and because in the form in which they are so held or in which they are consumed a determination of their place of origin is often extremely difficult or impossible; and that regulation of interstate commerce without the regulation of intrastate commerce in such drugs, as provided in this Act \[see Short Title of 1965 Amendment note set out under section 301 of this title\], would discriminate against and adversely affect interstate commerce in such drugs.”
+Section 2 of Pub. L. 89–74 provided that: “The Congress hereby finds and declares that there is a widespread illicit traffic in depressant and stimulant drugs moving in or otherwise affecting interstate commerce; that the use of such drugs, when not under the supervision of a licensed practitioner, often endangers safety on the highways (without distinction of interstate and intrastate traffic thereon) and otherwise has become a threat to the public health and safety, making additional regulation of such drugs necessary regardless of the intrastate or interstate origin of such drugs; that in order to make regulation and protection of interstate commerce in such drugs effective, regulation of intrastate commerce is also necessary because, among other things, such drugs, when held for illicit sale, often do not bear labeling showing their place of originand because in the form in which they are so held or in which they are consumed a determination of their place of origin is often extremely difficult or impossible; and that regulation of interstate commerce without the regulation of intrastate commerce in such drugs, as provided in this Act \[see Short Title of 1965 Amendment note set out under section 301 of this title\], would discriminate against and adversely affect interstate commerce in such drugs.”
 
 #### Effect of Drug Abuse Control Amendments of 1965 on State Laws
 

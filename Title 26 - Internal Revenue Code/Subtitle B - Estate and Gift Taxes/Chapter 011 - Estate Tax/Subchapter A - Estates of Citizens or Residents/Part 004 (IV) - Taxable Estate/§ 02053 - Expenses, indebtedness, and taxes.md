@@ -50,7 +50,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (2) Condition for allowance of deduction
 
-&emsp;No deduction shall be allowed under paragraph (1) for a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 orsection 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
+&emsp;No deduction shall be allowed under paragraph (1) for a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
 
 #### (3) Effect on credit for foreign death taxes of deduction under this subsection
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 425(a)(2) of Pub. L. 98–369 applicable to estates of decedents dying after July 18, 1984, see section 425(c)(1) of Pub. L. 98–369, set out as a note under section 2043 of this title.
 
-Section 1027(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 2056 of this title\] shall take effect as if included in the amendment made by section 403 of the Economic Recovery Tax Act of 1981 \[section 403 ofPub. L. 97–34, see Effective Date of 1981 Amendment note set out under section 2056 of this title\].”
+Section 1027(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 2056 of this title\] shall take effect as if included in the amendment made by section 403 of the Economic Recovery Tax Act of 1981 \[section 403 of Pub. L. 97–34, see Effective Date of 1981 Amendment note set out under section 2056 of this title\].”
 
 #### Effective Date of 1959 Amendment
 

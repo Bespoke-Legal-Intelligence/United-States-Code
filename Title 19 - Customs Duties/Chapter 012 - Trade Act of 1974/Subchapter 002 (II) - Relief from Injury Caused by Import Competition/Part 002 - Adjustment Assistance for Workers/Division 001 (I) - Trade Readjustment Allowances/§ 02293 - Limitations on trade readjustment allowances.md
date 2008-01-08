@@ -28,7 +28,7 @@ Amounts payable to an adversely affected worker under this division shall be sub
 
 #### (d) Special adjustments for benefit years ending with extended benefit periods
 
-Notwithstanding any other provision of this chapter or other Federal law, if the benefit yearof a worker ends within an extended benefit period, the number of weeks of extended benefits that such worker would, but for this subsection, be entitled to in that extended benefit period shall be reduced (but not below zero) by the number of weeks for which the worker was entitled, during such benefit year, to trade readjustment allowances under this division. For purposes of this paragraph, the terms “benefit year” and “extended benefit period” shall have the same respective meanings given to them in the Federal-State Extended Unemployment Compensation Act of 1970.
+Notwithstanding any other provision of this chapter or other Federal law, if the benefit year of a worker ends within an extended benefit period, the number of weeks of extended benefits that such worker would, but for this subsection, be entitled to in that extended benefit period shall be reduced (but not below zero) by the number of weeks for which the worker was entitled, during such benefit year, to trade readjustment allowances under this division. For purposes of this paragraph, the terms “benefit year” and “extended benefit period” shall have the same respective meanings given to them in the Federal-State Extended Unemployment Compensation Act of 1970.
 
 #### (e) Week during which worker received on-the-job training
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1423(c)(2) of Pub. L. 100–418 effective on date that is 90 days after Aug. 23, 1988, andamendment by section 1425(a) of Pub. L. 100–418 effective Aug. 23, 1988, but not applicable with respect to any total separation of a worker from adversely affected employment (within the meaning of section 2319 of this title) that occurs before Aug. 23, 1988, if the application of such amendment with respect to such total separation would reduce the period for which such worker would (but for such amendment) be allowed to receive trade readjustment allowances under this division, see section 1430(a), (f), (g) of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
+Amendment by section 1423(c)(2) of Pub. L. 100–418 effective on date that is 90 days after Aug. 23, 1988, and amendment by section 1425(a) of Pub. L. 100–418 effective Aug. 23, 1988, but not applicable with respect to any total separation of a worker from adversely affected employment (within the meaning of section 2319 of this title) that occurs before Aug. 23, 1988, if the application of such amendment with respect to such total separation would reduce the period for which such worker would (but for such amendment) be allowed to receive trade readjustment allowances under this division, see section 1430(a), (f), (g) of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemp
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Waiver of Certain Time Limitations
 

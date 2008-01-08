@@ -16,7 +16,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 #### (2) Contents
 
-&emsp;The implementation plan should include details concerning the separation of the Bureau of Citizenship and Immigration Services and the Bureau of Border Security, including the following:
+&emsp;The implementation plan should include details concerning the separation of the Bureau of Citizenship and Immigration Services andthe Bureau of Border Security, including the following:
 
 &emsp;&emsp;(A) Organizational structure, including the field structure.
 

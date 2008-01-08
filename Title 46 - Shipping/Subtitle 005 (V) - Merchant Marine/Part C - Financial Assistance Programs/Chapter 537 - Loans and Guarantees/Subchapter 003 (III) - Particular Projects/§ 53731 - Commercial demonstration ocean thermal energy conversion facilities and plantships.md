@@ -18,7 +18,7 @@ Reasonableness of Risk.—A guarantee or commitment to guarantee may not be made
 
 &emsp;(1) the successful demonstration of the technology to be used in the facility at a scale sufficient to establish the likelihood of technical and economic viability in the proposed market; and
 
-&emsp;(2) the need of the United States to develop new and renewable sources of energy and the benefits to be realized from the construction and successful operation of the facility or plantship.
+&emsp;(2) the need of the United States to develop new and renewable sources of energy and the benefits to be realized from the constructionand successful operation of the facility or plantship.
 
 (e)
 

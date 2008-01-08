@@ -88,7 +88,7 @@
 
 #### (2) Report on use of Federal funds to cover administrative costs and overhead
 
-&emsp;The report required by paragraph (1) for a fiscal quarter shall include a statement of the percentage of the funds paid to the State under this part for the quarter that are used to cover administrative costs or overhead, with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title.
+&emsp;The report required by paragraph (1) for a fiscal quarter shall include a statement of the percentage of the funds paid to the State under this part for the quarter that are used to cover administrative costs or overhead,with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title.
 
 #### (3) Report on State expenditures on programs for needy families
 
@@ -100,7 +100,7 @@
 
 #### (5) Report on transitional services
 
-&emsp;The report required by paragraph (1) for a fiscal quarter shall include the total amountexpended by the State during the quarter to provide transitional services to a family that has ceased to receive assistance under this part because of employment, along with a description of such services.
+&emsp;The report required by paragraph (1) for a fiscal quarter shall include the total amount expended by the State during the quarter to provide transitional services to a family that has ceased to receive assistance under this part because of employment, along with a description of such services.
 
 #### (6) Report on families receiving assistance
 

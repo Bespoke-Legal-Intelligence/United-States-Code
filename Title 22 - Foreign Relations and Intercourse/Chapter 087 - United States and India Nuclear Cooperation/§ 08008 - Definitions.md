@@ -48,5 +48,9 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which is classified principally tothis chapter. For complete classification of title I to the Code, see Short Title note set out under section 8001 of this title and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 8001 of this title and Tables.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

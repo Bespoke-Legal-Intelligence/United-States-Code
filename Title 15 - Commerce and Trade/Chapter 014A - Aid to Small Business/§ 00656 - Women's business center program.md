@@ -60,7 +60,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 #### (d) Contract authority
 
-A women's business center may enter into a contract with a Federal department or agencyto provide specific assistance to women and other underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
+A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women and other underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
 
 #### (e) Submission of 5-year plan
 
@@ -238,111 +238,97 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 &emsp;&emsp;If the amount reserved under subparagraph (A) for any fiscal year is not fully awarded to private nonprofit organizations described in subsection (<i>l</i>)(1)(B) of this section, the Administration is authorized to use the unawarded amount to fund additional women's business center sites or to increase funding of existing women's business center sites under subsection (b) of this section.
 
-#### (<i>l</i>) Sustainability pilot program
+#### (<i>l</i>) Repealed. Pub. L. 110–28, title VIII, §8305(b), May 25, 2007, 121 Stat. 210
+
+#### (m) Continued funding for centers
 
 #### (1) In general
 
-&emsp;There is established a 4-year pilot program under which the Administration is authorized to award grants (referred to in this section as “sustainability grants”) on a competitivebasis for an additional 5-year project under this section to any private nonprofit organization (or a division thereof)—
+&emsp;A nonprofit organization described in paragraph (2) shall be eligible to receive, subject to paragraph (3), a 3-year grant under this subsection.
 
-&emsp;&emsp;(A) that has received financial assistance under this section pursuant to a grant, contract, or cooperative agreement; and
+#### (2) Applicability
 
-&emsp;&emsp;(B) that—
+&emsp;A nonprofit organization described in this paragraph is a nonprofit organization that has received funding under subsection (b) or (<i>l</i>).
 
-&emsp;&emsp;&emsp;(i) is in the final year of a 5-year project; or
+#### (3) Application and approval criteria
 
-&emsp;&emsp;&emsp;(ii) has completed a project financed under this section (or any predecessor to this section) and continues to provide assistance to women entrepreneurs.
+#### (A) Criteria
 
-#### (2) Conditions for participation
+&emsp;&emsp;Subject to subparagraph (B), the Administrator shall develop and publish criteria for the consideration and approval of applications by nonprofit organizations under this subsection.
 
-&emsp;In order to receive a sustainability grant, an organization described in paragraph (1) shall submit to the Administration an application, which shall include—
+#### (B) Contents
 
-&emsp;&emsp;(A) a certification that the applicant—
+&emsp;&emsp;Except as otherwise provided in this subsection, the conditions for participation in the grant program under this subsection shall be the same as the conditions for participation in the program under subsection (<i>l</i>), as in effect on May 25, 2007.
 
-&emsp;&emsp;&emsp;(i) is a private nonprofit organization;
+#### (C) Notification
 
-&emsp;&emsp;&emsp;(ii) employs a full-time executive director or program manager to manage the center; and
+&emsp;&emsp;Not later than 60 days after the date of the deadline to submit applications for each fiscal year, the Administrator shall approve or deny any application under this subsection and notify the applicant for each such application.
 
-&emsp;&emsp;&emsp;(iii) as a condition of receiving a sustainability grant, agrees—
-
-&emsp;&emsp;&emsp;&emsp;(I) to a site visit as part of the final selection process and to an annual programmatic and financial examination; and
-
-&emsp;&emsp;&emsp;&emsp;(II) to the maximum extent practicable, to remedy any problems identified pursuant to that site visit or examination;
-
-&emsp;&emsp;(B) information demonstrating that the applicant has the ability and resources to meet the needs of the market to be served by the women's business center site for which a sustainability grant is sought, including the ability to fundraise;
-
-&emsp;&emsp;(C) information relating to assistance provided by the women's business center site for which a sustainability grant is sought in the area in which the site is located, including—
-
-&emsp;&emsp;&emsp;(i) the number of individuals assisted;
-
-&emsp;&emsp;&emsp;(ii) the number of hours of counseling, training, and workshops provided; and
-
-&emsp;&emsp;&emsp;(iii) the number of startup business concerns formed;
-
-&emsp;&emsp;(D) information demonstrating the effective experience of the applicant in—
-
-&emsp;&emsp;&emsp;(i) conducting financial, management, and marketing assistance programs, as described in paragraphs (1), (2), and (3) of subsection (b) of this section, designed to impart or upgrade the business skills of women business owners or potential owners;
-
-&emsp;&emsp;&emsp;(ii) providing training and services to a representative number of women who are both socially and economically disadvantaged;
-
-&emsp;&emsp;&emsp;(iii) using resource partners of the Administration and other entities, such as universities;
-
-&emsp;&emsp;&emsp;(iv) complying with the cooperative agreement of the applicant; and
-
-&emsp;&emsp;&emsp;(v) the prudent management of finances and staffing, including the manner in which the performance of the applicant compared to the business plan of the applicant and the manner in which grant funds awarded under subsection (b) of this section were used by the applicant; and
-
-&emsp;&emsp;(E) a 5-year plan that projects the ability of the women's business center site for which a sustainability grant is sought—
-
-&emsp;&emsp;&emsp;(i) to serve women business owners or potential owners in the future by improving fundraising and training activities; and
-
-&emsp;&emsp;&emsp;(ii) to provide training and services to a representative number of women who are both socially and economically disadvantaged.
-
-#### (3) Review of applications
+#### (4) Award of grants
 
 #### (A) In general
 
-&emsp;&emsp;The Administration shall—
+&emsp;&emsp;Subject to the availability of appropriations, the Administrator shall make a grant for the Federal share of the cost of activities described in the application to each applicant approved under this subsection.
 
-&emsp;&emsp;&emsp;(i) review each application submitted under paragraph (2) based on the information provided in subparagraphs (D) and (E) of that paragraph, and the criteria set forth in subsection (f) of this section;
+#### (B) Amount
 
-&emsp;&emsp;&emsp;(ii) as part of the final selection process, conduct a site visit at each women's business center for which a sustainability grant is sought; and
+&emsp;&emsp;A grant under this subsection shall be for not more than $150,000, for each year of that grant.
 
-&emsp;&emsp;&emsp;(iii) approve or disapprove applications for sustainability grants simultaneously with applications for grants under subsection (b) of this section.
+#### (C) Federal share
 
-#### (B) Data collection
+&emsp;&emsp;The Federal share under this subsection shall be not more than 50 percent.
 
-&emsp;&emsp;Consistent with the annual report to Congress under subsection (j) of this section, each women's business center site that is awarded a sustainability grant shall, to the maximum extent practicable, collect information relating to—
+#### (D) Priority
 
-&emsp;&emsp;&emsp;(i) the number of individuals assisted;
+&emsp;&emsp;In allocating funds made available for grants under this section, the Administrator shall give applications under this subsection or subsection (<i>l</i>) priority over first-time applications under subsection (b).
 
-&emsp;&emsp;&emsp;(ii) the number of hours of counseling and training provided and workshops conducted;
-
-&emsp;&emsp;&emsp;(iii) the number of startup business concerns formed;
-
-&emsp;&emsp;&emsp;(iv) any available gross receipts of assisted concerns; and
-
-&emsp;&emsp;&emsp;(v) the number of jobs created, maintained, or lost at assisted concerns.
-
-#### (C) Record retention
-
-&emsp;&emsp;The Administration shall maintain a copy of each application submitted under this subsection for not less than 10 years.
-
-#### (4) Non-Federal contribution
+#### (5) Renewal
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this section, as a condition of receiving a sustainability grant, an organization described in paragraph (1) shall agree to obtain, after its application has been approved under paragraph (3) and notice of award has been issued, cash and in-kind contributions from non-Federal sources for each year of additional program participation in an amount equal to 1 non-Federal dollar for each Federal dollar.
+&emsp;&emsp;The Administrator may renew a grant under this subsection for additional 3-year periods, if the nonprofit organization submits an application for such renewal at such time, in such manner, and accompanied by such information as the Administrator may establish.
 
-#### (B) Form of non-Federal contributions
+#### (B) Unlimited renewals
 
-&emsp;&emsp;Not more than 50 percent of the non-Federal assistance obtained for purposes of subparagraph (A) may be in the form of in-kind contributions that are budget line items only, including office equipment and office space.
+&emsp;&emsp;There shall be no limitation on the number of times a grant may be renewed under subparagraph (A).
 
-#### (5) Timing of requests for proposals
+#### (n) Privacy requirements
 
-&emsp;In carrying out this subsection, the Administration shall issue requests for proposals for women's business centers applying for the pilot program under this subsection simultaneously with requests for proposals for grants under subsection (b) of this section.
+#### (1) In general
 
-(Pub. L. 85–536, §2\[29\], formerly §2\[28\], as added Pub. L. 102–191, §2, Dec. 5, 1991, 105 Stat. 1589; renumbered §2\[29\] and amended Pub. L. 103–403, title IV, §§411, 412, Oct. 22, 1994, 108 Stat. 4192, 4193; Pub. L. 105–135, title III, §308(a), Dec. 2, 1997, 111 Stat. 2611; Pub. L. 106–17, §§2(a), 3, Apr. 6, 1999, 113 Stat. 27; Pub. L. 106–165, §§2–4(b), Dec. 9, 1999, 113 Stat. 1795–1798.)
+&emsp;A women's business center may not disclose the name, address, or telephone number of any individual or small business concern receiving assistance under this section without the consent of such individual or small business concern, unless—
+
+&emsp;&emsp;(A) the Administrator is ordered to make such a disclosure by a court in any civil or criminal enforcement action initiated by a Federal or State agency; or
+
+&emsp;&emsp;(B) the Administrator considers such a disclosure to be necessary for the purpose of conducting a financial audit of a women's business center, but a disclosure under this subparagraph shall be limited to the information necessary for such audit.
+
+#### (2) Administration use of information
+
+&emsp;This subsection shall not—
+
+&emsp;&emsp;(A) restrict Administration access to program activity data; or
+
+&emsp;&emsp;(B) prevent the Administration from using client information (other than the information described in subparagraph (A)) to conduct client surveys.
+
+#### (3) Regulations
+
+&emsp;The Administrator shall issue regulations to establish standards for requiring disclosures during a financial audit under paragraph (1)(B).
+
+(Pub. L. 85–536, §2\[29\], formerly §2\[28\], as added Pub. L. 102–191, §2, Dec. 5, 1991, 105 Stat. 1589; renumbered §2\[29\] and amended Pub. L. 103–403, title IV, §§411, 412, Oct. 22, 1994, 108 Stat. 4192, 4193; Pub. L. 105–135, title III, §308(a), Dec. 2, 1997, 111 Stat. 2611; Pub. L. 106–17, §§2(a), 3, Apr. 6, 1999, 113 Stat. 27; Pub. L. 106–165, §§2–4(b), Dec. 9, 1999, 113 Stat. 1795–1798; Pub. L. 110–28, title VIII, §8305(a), (b), May 25, 2007, 121 Stat. 209, 210.)
+
+#### References in Text
+
+Subsec. (<i>l</i>), referred to in subsecs. (h)(2), (k)(1), (4), and (m)(2), (3)(B), (4)(D), was repealed by Pub. L. 110–28, title VIII, §8305(b), May 25, 2007, 121 Stat. 210, effective Oct. 1 of the first full fiscal year after May 25, 2007.
+
+#### Codification
+
+May 25, 2007, referred to in subsec. (m)(3)(B), was in the original “the date of enactment of this Act”, whichwas translated as meaning the date of enactment of Pub. L. 110–28, which enacted subsec. (m), to reflect the probable intent of Congress.
 
 #### Amendments
+
+2007—Subsec. (<i>l</i>). Pub. L. 110–28, §8305(b), struck out subsec. (<i>l</i>) which related to establishment of a sustainability pilot program.
+
+Subsecs. (m), (n). Pub. L. 110–28, §8305(a), added subsecs. (m) and (n).
 
 1999—Subsec. (a)(2) to (4). Pub. L. 106–165, §2(1), added par. (2) and redesignated former pars. (2) and (3) as pars. (3) and (4), respectively.
 
@@ -396,6 +382,10 @@ Subsec. (h). Pub. L. 103–403, §412, added subsec. (h).
 
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–28, title VIII, §8305(b), May 25, 2007, 121 Stat. 210, provided that the amendment made by section 8305(b) is effective Oct. 1 of the first full fiscal year after May 25, 2007.
+
 #### Effective Date of 1999 Amendments
 
 Pub. L. 106–165, §6, Dec. 9, 1999, 113 Stat. 1801, provided that: “This Act \[amending this section and enacting provisions set out as notes under this section and section 631 of this title\] and the amendments made by this Act shall take effect on October 1, 1999.”
@@ -409,6 +399,10 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 #### Regulations
 
 Pub. L. 106–165, §4(c), Dec. 9, 1999, 113 Stat. 1799, provided that: “Not later than 30 days after the date of enactment of this Act \[Dec. 9, 1999\], the Administrator of the Small Business Administration shall issue guidelines to implement the amendments made by this section \[amending this section\].”
+
+#### Transitional Rule
+
+Pub. L. 110–28, title VIII, §8305(c), May 25, 2007, 121 Stat. 210, provided that: “Notwithstanding any other provision of law, a grant or cooperative agreement that was awarded under subsection (<i>l</i>) of section 29 of the Small Business Act (15 U.S.C. 656), on or before the day before the date described in subsection (b) of this section \[set out as an Effective Date of 2007 Amendment note above\], shall remain in full force and effect under the terms, and for the duration, of such grant or agreement.”
 
 #### Applicability
 

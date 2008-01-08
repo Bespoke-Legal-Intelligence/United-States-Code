@@ -1,5 +1,7 @@
 ### SUBCHAPTER III—PRESIDENT'S COMMITTEE ON SCIENCE AND TECHNOLOGY
 
+<i><sup>1</sup></i><i> So in original. Probably should be “policies”.</i>
+
 
 ---
 

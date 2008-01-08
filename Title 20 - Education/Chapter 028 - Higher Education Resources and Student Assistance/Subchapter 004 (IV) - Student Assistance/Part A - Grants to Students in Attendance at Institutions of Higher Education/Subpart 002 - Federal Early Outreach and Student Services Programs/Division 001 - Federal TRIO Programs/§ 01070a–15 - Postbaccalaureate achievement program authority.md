@@ -56,7 +56,7 @@ Students participating in research under a postbaccalaureate achievement project
 
 #### (f) Funding
 
-From amounts appropriated pursuant to the authority of section 1070a–11(f) of this title, the Secretary shall, to the extent practicable, allocate funds for projects authorized by this section in an amount which is not less than $11,000,000 for each of the fiscal years 1993 through 1997.
+From amounts appropriated pursuant to the authority of section 1070a–11(f) of this title, theSecretary shall, to the extent practicable, allocate funds for projects authorized by this section in an amount which is not less than $11,000,000 for each of the fiscal years 1993 through 1997.
 
 (Pub. L. 89–329, title IV, §402E, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 489; amended Pub. L. 105–244, title IV, §402(e), Oct. 7, 1998, 112 Stat. 1655.)
 

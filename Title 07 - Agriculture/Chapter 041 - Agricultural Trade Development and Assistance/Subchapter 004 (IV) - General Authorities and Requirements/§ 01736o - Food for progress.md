@@ -156,17 +156,17 @@ This section shall be effective during the period beginning October 1, 1985, and
 
 (3) The President may use the assistance provided under this subsection and proceeds derived from the sale of eligible commodities under paragraph (2) to design, monitor, and administer activities undertaken with such assistance, for the purpose of strengthening or creating the capacity of recipient country private enterprises to undertake commercial transactions, with the overall goal of increasing potential markets for United States agricultural eligible commodities.
 
-#### (4) Humanitarian or development purposes
+(4)
 
-&emsp;The Secretary may authorize the use of proceeds to pay the costs incurred by an eligible entity under this section for—
+Humanitarian or development purposes.—The Secretary may authorize the use of proceeds to pay the costs incurred by an eligible entity under this section for—
 
-&emsp;&emsp;(A)(i) programs targeted at hunger and malnutrition; or
+&emsp;(A)(i) programs targeted at hunger and malnutrition; or
 
-&emsp;&emsp;(ii) development programs involving food security;
+&emsp;(ii) development programs involving food security;
 
-&emsp;&emsp;(B) transportation, storage, and distribution of eligible commodities provided under this section; and
+&emsp;(B) transportation, storage, and distribution of eligible commodities provided under this section; and
 
-&emsp;&emsp;(C) administration, sales, monitoring, and technical assistance.
+&emsp;(C) administration, sales, monitoring, and technical assistance.
 
 #### (m) Presidential approval
 
@@ -226,7 +226,7 @@ In carrying out this section, the President shall approve, as determined appropr
 
 #### (3) Reports
 
-&emsp;Each eligible entity that enters into an agreement under this section shall submit tothe President, at such time as the President may request, a report containing such information as the President may request relating to the use of eligible commodities and funds furnished to the eligible entity under this section.
+&emsp;Each eligible entity that enters into an agreement under this section shall submit to the President, at such time as the President may request, a report containing such information as the President may request relating to the use of eligible commodities and funds furnished to the eligible entity under this section.
 
 #### (<i>o</i>) Private voluntary organizations and other private entities
 
@@ -349,6 +349,10 @@ Subsec. (<i>l</i>). Pub. L. 101–624, §1516(9), substituted “December 31, 19
 Subsec. (m). Pub. L. 101–624, §1516(10), added subsec. (m).
 
 1988—Subsecs. (k), (<i>l</i>). Pub. L. 100–418 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Delegation of Functions
 

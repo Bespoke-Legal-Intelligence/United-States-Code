@@ -42,7 +42,7 @@
 
 2006—Subsec. (a)(4). Pub. L. 109–364, §1203(a)(1), struck out par. (4) which read as follows: “The Secretary of Defense shall ensure that no member of the armed forces, while providing assistance under this section that is described in subsection (e)(5)—
 
-&emsp;“(A) engages in the physical detection, lifting, or destroying of landmines or other explosive remnantsof war (unless the member does so for the concurrent purpose of supporting a United States military operation); or
+&emsp;“(A) engages in the physical detection, lifting, or destroying of landmines or other explosive remnants of war (unless the member does so for the concurrent purpose of supporting a United States military operation); or
 
 &emsp;“(B) provides such assistance as part of a military operation that does not involve the armed forces.”
 
@@ -116,6 +116,10 @@ Subsec. (e). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline o
 
 Subsec. (f). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 406 “Expenditure limitation”, designated text of former section 406 as subsec. (f) of this section, and substituted “section” for “chapter”.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Humanitarian Assistance Program for Clearing Landmines
 
 Pub. L. 103–337, div. A, title XIV, §1413, Oct. 5, 1994, 108 Stat. 2913, required Secretary of Defense to carry out program for humanitarian purposes to provide assistance to other nations in detection and clearance of landmines, specified that such assistance was to be provided through instruction, education, training, and advising of personnel of those nations in procedures determined effective for detecting and clearing landmines, specified forms of assistance, required Secretary to ensure that no member of Armed Forces engaged in physical detection, lifting, or destroying of landmines (unless done for concurrent purpose of supporting United States military operations) or gave such assistance as part of military operation not involving Armed Forces, made funds available, specified uses of funds, and required Secretary to provide notice to Congress of activities carried out under the program, prior to repeal by Pub. L. 104–106, div. A, title XIII, §1313(c), Feb. 10, 1996, 110 Stat. 475.
@@ -150,7 +154,7 @@ Authorization of Appropriations.—The funds authorized to be appropriated by se
 
 Appropriate Congressional Committees.—In this section, the term ‘appropriate congressional committees’ means—
 
-&emsp;“(1) the Committee on Appropriations, the Committee on Armed Services \[now Committee on National Security\], and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives; and
+&emsp;“(1) the Committee on Appropriations, the Committee on Armed Services \[now Committee on National Security\], and the Committee on Foreign Affairs of the House of Representatives; and
 
 &emsp;“(2) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Relations of the Senate.”
 

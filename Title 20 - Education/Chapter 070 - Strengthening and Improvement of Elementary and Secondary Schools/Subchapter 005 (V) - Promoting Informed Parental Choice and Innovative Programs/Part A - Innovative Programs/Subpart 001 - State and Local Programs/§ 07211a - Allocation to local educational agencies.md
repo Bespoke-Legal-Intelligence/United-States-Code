@@ -14,7 +14,7 @@
 
 #### (2) Allocation of increased amounts
 
-&emsp;From the amount made available to a State educational agency under this part for a fiscal year that exceeds the amount made availableto the agency under this part for fiscal year 2002, the State educational agency shall distribute 100 percent (or, in the case of a State educational agency receiving a minimum allotment under section 7211(a) of this title, not less than 50 percent, notwithstanding subsection (b) of this section) to local educational agencies within the State, on the same basis as the State educational agency distributes amounts under paragraph (1).
+&emsp;From the amount made available to a State educational agency under this part for a fiscal year that exceeds the amount made available to the agency under this part for fiscal year 2002, the State educational agency shall distribute 100 percent (or, in the case of a State educational agency receiving a minimum allotment under section 7211(a) of this title, not less than 50 percent, notwithstanding subsection (b) of this section) to local educational agencies within the State, on the same basis as the State educational agency distributes amounts under paragraph (1).
 
 #### (b) Limitations and requirements
 
@@ -48,7 +48,7 @@ Not more than 15 percent of funds made available under section 7211 of this titl
 
 #### (B) Review of criteria
 
-&emsp;&emsp;The Secretary shall review criteria submitted by a State educational agency for adjusting allocations under paragraph (1) and shall approve such criteria only if the Secretary determines that such criteria are reasonably calculated to produce an adjusted allocation that reflects the relative needs of the State's local educational agencies based on the factors set forth in subparagraph (A).
+&emsp;&emsp;The Secretary shall review criteria submitted by a State educational agency for adjusting allocations under paragraph (1) and shall approve such criteria only if the Secretary determines that such criteria are reasonably calculated to produce an adjustedallocation that reflects the relative needs of the State's local educational agencies based on the factors set forth in subparagraph (A).
 
 #### (d) Payment of allocations
 

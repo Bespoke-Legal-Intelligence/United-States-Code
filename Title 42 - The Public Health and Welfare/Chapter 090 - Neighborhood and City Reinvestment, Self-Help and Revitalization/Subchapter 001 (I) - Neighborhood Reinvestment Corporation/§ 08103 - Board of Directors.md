@@ -14,7 +14,7 @@ The corporation shall be under the direction of a board of directors made up of 
 
 &emsp;(5) the Comptroller of the Currency; and
 
-&emsp;(6) the Chairman of the National Credit Union Administration or a member of theBoard of the National Credit Union Administration to be designated by the Chairman.
+&emsp;(6) the Chairman of the National Credit Union Administration or a member of the Board of the National Credit Union Administration to be designated by the Chairman.
 
 #### (b) Election of chairman
 

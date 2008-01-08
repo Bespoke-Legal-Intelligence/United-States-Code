@@ -50,7 +50,7 @@ A separate account shall be maintained in the revolving fund under this section 
 
 #### (e) Use of amounts in fund
 
-Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriationsActs and without fiscal year limitation, to carry out the program covered by each such account.
+Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the program covered by each such account.
 
 #### (f) Programs described
 

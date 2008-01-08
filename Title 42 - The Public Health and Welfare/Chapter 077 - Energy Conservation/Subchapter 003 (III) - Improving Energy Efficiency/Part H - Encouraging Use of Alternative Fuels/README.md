@@ -14,3 +14,4 @@ This part was, in the original, designated part J and has been changed to part H
 - [&sect; 06374b - Alternative fuels bus program](%C2%A7%2006374b%20-%20Alternative%20fuels%20bus%20program.md)
 - [&sect; 06374c - Omitted](%C2%A7%2006374c%20-%20Omitted.md)
 - [&sect; 06374d - Studies and reports](%C2%A7%2006374d%20-%20Studies%20and%20reports.md)
+- [&sect; 06374e - Federal fleet conservation requirements](%C2%A7%2006374e%20-%20Federal%20fleet%20conservation%20requirements.md)

@@ -10,7 +10,7 @@ The following acts and the causing thereof are prohibited:
 
 (d) The introduction or delivery for introduction into interstate commerce of any article in violation of section 344, 355, or 360bbb–3 of this title.
 
-(e) The refusal to permit access to or copying of any record as required by section 350a, 350c,350e, 354, 360bbb–3, 373, 374(a), 379aa, or 379aa–1 of this title; or the failure to establish or maintain any record, or make any report, required under section 350a, 350c(b), 350e, 354, 355(i) or (k), 360b(a)(4)(C), 360b(j), (<i>l</i>) or (m), 360ccc–1(i).,<sup>1</sup> 360e(f), 360i, 360bbb–3, 379aa, or 379aa–1 of this title, or the refusal to permit access to or verification or copying of any such required record.
+(e) The refusal to permit access to or copying of any record as required by section 350a, 350c, 350f(g), 350e, 354, 360bbb–3, 373, 374(a), 379aa, or 379aa–1 of this title; or the failure to establish or maintain any record, or make any report, required under section 350a, 350c(b), 350f, 350e, 354, 355(i) or (k), 360b(a)(4)(C), 360b(j), (<i>l</i>) or (m), 360ccc–1(i).,<sup>1</sup> 360e(f), 360i, 360bbb–3, 379aa, or 379aa–1 of this title, or the refusal to permit access to or verification or copying of any such required record.
 
 (f) The refusal to permit entry or inspection as authorized by section 374 of this title.
 
@@ -24,7 +24,7 @@ The following acts and the causing thereof are prohibited:
 
 (3) The doing of any act which causes a drug to be a counterfeit drug, or the sale or dispensing, or the holding for sale or dispensing, of a counterfeit drug.
 
-(j) The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 350c, 355, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 360ccc, 360ccc–1, 360ccc–2.,<sup>1</sup> 374, 379, or 379e of this title concerning any method or process which as a trade secret is entitled to protection; or the violating of section 346a(i)(2) of this title or any regulation issued under that section..<sup>1</sup> This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.
+(j) The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 350c, 355, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 360ccc, 360ccc–1, 360ccc–2.,<sup>1</sup> 374, 379, or 379e of this title concerning any method or process which as a trade secret is entitled to protection; or the violating of section 346a(i)(2) of this title or any regulation issued under that section..<sup>1</sup>This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.
 
 (k) The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the labeling of, or the doing of any other act with respect to, a food, drug, device, or cosmetic, if such act is done while such article is held for sale (whether or not the first sale) after shipment in interstate commerce and results in such article being adulterated or misbranded.
 
@@ -48,7 +48,7 @@ The following acts and the causing thereof are prohibited:
 
 (t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, or the distribution of drugs in violation of section 353(e) of this title or the failure to otherwise comply with the requirements of section 353(e) of this title.
 
-(u) The failure to comply with any requirements of the provisions of, or any regulations ororders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
+(u) The failure to comply with any requirements of the provisions of, or any regulations or orders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
 
 (v) The introduction or delivery for introduction into interstate commerce of a dietary supplement that is unsafe under section 350b of this title.
 
@@ -64,7 +64,7 @@ The following acts and the causing thereof are prohibited:
 
 &emsp;(3) the receipt by a person accredited under section 360m of this title of a bribe in any form or the doing of any corrupt act by such person associated with a responsibility delegated to such person under this chapter.
 
-(z) The dissemination of information in violation of section 360aaa of this title.
+(z) Omitted.
 
 (aa) The importation of a prescription drug in violation of section 384 of this title, the falsification of any record required to be maintained or provided to the Secretary under such section, or any other violation of regulations under such section.
 
@@ -84,13 +84,51 @@ The following acts and the causing thereof are prohibited:
 
 (ii) The falsification of a report of a serious adverse event submitted to a responsible person (as defined under section 379aa or 379aa–1 of this title) or the falsification of a serious adverse event report (as defined under section 379aa or 379aa–1 of this title) submitted to the Secretary.
 
-(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39; Pub. L. 107–188, title III, §§303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, 116 Stat. 664, 666, 668, 670, 672, 676, 677; Pub. L. 107–250, title II, §201(d), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–136, div. A, title XVI, §1603(c), Nov. 24, 2003, 117 Stat. 1690; Pub. L. 108–173, title XI, §1121(b)(1), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 108–214, §2(b)(2)(A), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(C), (D), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–59, title VII, §7202(d), (e), Aug. 10, 2005, 119 Stat. 1913; Pub. L. 109–462, §§2(c), 3(b), 4(a), Dec. 22, 2006, 120 Stat. 3472, 3475.)
+(jj)(1) The failure to submit the certification required by section 282(j)(5)(B) of title 42, or knowingly submitting a false certification under such section.
 
-#### Amendment of Section
+(2) The failure to submit clinical trial information required under subsection (j) of section 282 of title 42.
 
-<i>For termination of amendment by section 401(e) of Pub. L. 105–115, see Effective and Termination Dates of 1997 Amendment note below.</i>
+(3) The submission of clinical trial information under subsection (j) of section 282 of title 42 that is false or misleading in any particular under paragraph (5)(D) of such subsection (j).
+
+(kk) The dissemination of a television advertisement without complying with section 353b of this title.
+
+(<i>ll</i>) The introduction or delivery for introduction into interstate commerce of any food to which has been added a drug approved under section 355 of this title, a biological product licensed under section 262 of title 42, or a drug or a biological product for which substantial clinical investigations have been instituted and for which the existence of such investigations has been made public, unless—
+
+&emsp;(1) such drug or such biological product was marketed in food before any approval of the drug under section 355 of this title, before licensure of the biological product under such section 262 of title 42, and before any substantial clinical investigations involving the drug or the biological product have been instituted;
+
+&emsp;(2) the Secretary, in the Secretary's discretion, has issued a regulation, after notice and comment, approving the use of such drug or such biological product in the food;
+
+&emsp;(3) the use of the drug or the biological product in the food is to enhance the safety of the food to which the drug or the biological product is added or applied and not to have independent biological or therapeutic effects on humans, and the use is in conformity with—
+
+&emsp;&emsp;(A) a regulation issued under section 348 of this title prescribing conditions of safe use in food;
+
+&emsp;&emsp;(B) a regulation listing or affirming conditions under which the use of the drug or the biological product in food is generally recognized as safe;
+
+&emsp;&emsp;(C) the conditions of use identified in a notification to the Secretary of a claim of exemption from the premarket approval requirements for food additives based on the notifier's determination that the use of the drug or the biological product in food is generally recognized as safe, provided that the Secretary has not questioned the general recognition of safety determination in a letter to the notifier;
+
+&emsp;&emsp;(D) a food contact substance notification that is effective under section 348(h) of this title; or
+
+&emsp;&emsp;(E) such drug or biological product had been marketed for smoking cessation prior to September 27, 2007; or
+
+&emsp;(4) the drug is a new animal drug whose use is not unsafe under section 360b of this title.
+
+(mm) The failure to submit a report or provide a notification required under section 350f(d) of this title.
+
+(nn) The falsification of a report or notification required under section 350f(d) of this title.
+
+(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat.1549, 1549A–39; Pub. L. 107–188, title III, §§303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, 116 Stat. 664, 666, 668, 670, 672, 676, 677; Pub. L. 107–250, title II, §201(d), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–136, div. A, title XVI, §1603(c), Nov. 24, 2003, 117 Stat. 1690; Pub. L. 108–173, title XI, §1121(b)(1), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 108–214, §2(b)(2)(A), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(C), (D), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–59, title VII, §7202(d), (e), Aug. 10, 2005, 119 Stat. 1913; Pub. L. 109–462, §§2(c), 3(b), 4(a), Dec. 22, 2006, 120 Stat. 3472, 3475; Pub. L. 110–85, title VIII, §801(b)(1), title IX, §§901(d)(1), 912(a), title X, §1005(d), Sept. 27, 2007, 121 Stat. 920, 939, 951, 968.)
 
 #### Amendments
+
+2007—Par. (e). Pub. L. 110–85, §1005(d)(1), substituted “350c, 350f(g),” for “350c,” and “350c(b), 350f” for “350c(b)”.
+
+Par. (jj). Pub. L. 110–85, §801(b)(1), added par. (jj).
+
+Par. (kk). Pub. L. 110–85, §901(d)(1), added par. (kk).
+
+Par. (<i>ll</i>). Pub. L. 110–85, §912(a), added par. (<i>ll</i>).
+
+Pars. (mm), (nn). Pub. L. 110–85, §1005(d)(2), added pars. (mm) and (nn).
 
 2006—Par. (e). Pub. L. 109–462, §3(b), substituted “374(a), 379aa, or 379aa–1” for “374(a), or 379aa” and “360bbb–3, 379aa, or 379aa–1” for “360bbb–3, or 379aa”.
 
@@ -146,7 +184,7 @@ Par. (x). Pub. L. 105–115, §204(b), added par. (x).
 
 Par. (y). Pub. L. 105–115, §210(c), added par. (y).
 
-Par. (z). Pub. L. 105–115, §401(b), (e), temporarily added par. (z). See Effective and Termination Dates of 1997 Amendment note below.
+Par. (z). Pub. L. 105–115, §401(b), temporarily added par. (z) which related to dissemination of information in violation of section 360aaa of this title. See Effective and Termination Dates of 1997 Amendment note below.
 
 1996—Par. (e). Pub. L. 104–250 inserted “, 354,” before “or 373 of this title” and “354,” before “355(i) or (k)”.
 
@@ -234,6 +272,38 @@ Par. (j). Pub. L. 86–618, §104, inserted reference to section 376 of this tit
 
 1941—Par. (i). Act Dec. 22, 1941, inserted reference to section 356 of this title.
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–85, title IX, §909, Sept. 27, 2007, 121 Stat. 950, provided that:
+
+“(a)
+
+Effective Date.—This subtitle \[subtitle A (§§901–909) of title IX of Pub. L. 110–85, enacting sections 353b and 355–1 of this title, amending this section, sections 333, 352, and 355 of this title, and section 262 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 352, 355, and 355a of this title\] takes effect 180 days after the date of the enactment of this Act \[Sept. 27, 2007\].
+
+“(b)
+
+Drugs Deemed to Have Risk Evaluation and Mitigation Strategies.—
+
+&emsp;“(1)
+
+In general.—A drug that was approved before the effective date of this Act \[probably means “this subtitle”, see above\] is, in accordance with paragraph (2), deemed to have in effect an approved risk evaluation and mitigation strategy under section 505–1 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355–1\] (as added by section 901) (referred to in this section as the ‘Act’) if there are in effect on the effective date of this Act elements to assure safe use—
+
+&emsp;&emsp;“(A) required under section 314.520 or section 601.42 of title 21, Code of Federal Regulations; or
+
+&emsp;&emsp;“(B) otherwise agreed to by the applicant and the Secretary for such drug.
+
+&emsp;“(2)
+
+Elements of strategy; enforcement.—The approved risk evaluation and mitigation strategy in effect for a drug under paragraph (1)—
+
+&emsp;&emsp;“(A) is deemed to consist of the timetable required under section 505–1(d) and any additional elements under subsections (e) and (f) of such section in effect for such drug on the effective date of this Act; and
+
+&emsp;&emsp;“(B) is subject to enforcement by the Secretary to the same extent as any other risk evaluation and mitigation strategy under section 505–1 of the Act, except that sections 303(f)(4) and 502(y) and (z) of the Act \[21 U.S.C. 333(f)(4), 352(y), (z)\] (as added by section 902) shall not apply to such strategy before the Secretary has completed review of, and acted on, the first assessment of such strategy under such section 505–1.
+
+&emsp;“(3)
+
+Submission.—Not later than 180 days after the effective date of this Act, the holder of an approved application for which a risk evaluation and mitigation strategy is deemed to be in effect under paragraph (1) shall submit to the Secretary a proposed risk evaluation and mitigation strategy. Such proposed strategy is subject to section 505–1 of the Act as if included in such application at the time of submission of the application to the Secretary.”
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 2(c) of Pub. L. 109–462 effective 1 year after Dec. 22, 2006, see section 2(e)(1) of Pub. L. 109–462, set out as a note under section 352 of this title.
@@ -256,7 +326,7 @@ Pub. L. 107–188, title III, §322(c), June 12, 2002, 116 Stat. 678, provided t
 
 Amendment by sections 204, 210, and 421 of Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
 
-Amendment by section 401(b) of Pub. L. 105–115 effective 1 year after Nov. 21, 1997, or upon Secretary's issuance of final regulations pursuant to section 401(c) of Pub. L. 105–115, whichever is sooner, and ceases to be effective Sept. 30, 2006, or 7 years after date Secretary promulgates regulations under section 401(c) of Pub. L. 105–115, whichever is later, see section 401(d), (e) of Pub. L. 105–115, set out as an Effective and Termination Dates note under section 360aaa of this title.
+Amendment by section 401(b) of Pub. L. 105–115 effective 1 year after Nov. 21, 1997, or upon Secretary's issuance of final regulations pursuant to section 401(c) of Pub. L. 105–115, whichever is sooner, and ceases to be effective Sept. 30, 2006, see section 401(d), (e) of Pub. L. 105–115, set out as an Effective and Termination Dates note under former section 360aaa of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -8,7 +8,7 @@
 
 (4) No more than one district judge from any one district shall serve simultaneously on the council, unless at least one district judge from each district within the circuit is already serving as a member of the council.
 
-(5) In the event of the death, resignation, retirement under section 371(a) or 372(a) of this title, or disability of a member of the council, a replacement member shall be designated toserve the remainder of the unexpired term by the chief judge of the circuit.
+(5) In the event of the death, resignation, retirement under section 371(a) or 372(a) of this title, or disability of a member of the council, a replacement member shall be designated to serve the remainder of the unexpired term by the chief judge of the circuit.
 
 (6) Each member of the council shall attend each council meeting unless excused by the chief judge of the circuit.
 
@@ -68,7 +68,7 @@ All duties delegated to the circuit executive shall be subject to the general su
 
 (5) The court may appoint either a circuit executive under this subsection or a clerk under section 711 of this title, but not both, or may appoint a combined circuit executive/clerk who shall be paid the salary of a circuit executive.
 
-(June 25, 1948, ch. 646, 62 Stat. 902; Pub. L. 88–176, §3, Nov. 13, 1963, 77 Stat. 331; Pub. L. 91–647, Jan. 5, 1971, 84 Stat. 1907; Pub. L. 95–598, title II, §209, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 96–458, §2(a)–(d)(1), Oct. 15, 1980, 94 Stat. 2035, 2036; Pub. L. 100–459, title IV, §407, Oct. 1, 1988, 102 Stat. 2213; Pub. L. 100–702, title IV, §403(a)(2), (b), title X, §§1018, 1020(a)(1), Nov. 19, 1988, 102 Stat. 4651, 4670, 4671; Pub. L. 101–650, title III, §§323, 325(b)(1), title IV, §403, Dec. 1, 1990, 104 Stat. 5120, 5121, 5124; Pub. L. 102–198, §1, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 104–317, title II, §208, Oct. 19, 1996, 110 Stat. 3851; Pub. L. 106–518, title II, §205, title III, §306, Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 106–553, §1(a)(2) \[title III, §306\], Dec. 21, 2000, 114 Stat. 2762, 2762A–85; Pub. L. 107–273, div. C, title I, §11043(c), Nov. 2, 2002, 116 Stat. 1855.)
+(June 25, 1948, ch. 646, 62 Stat. 902; Pub. L. 88–176, §3, Nov. 13, 1963, 77 Stat. 331; Pub. L. 91–647, Jan. 5, 1971, 84 Stat. 1907; Pub. L. 95–598, title II, §209, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 96–458, §2(a)–(d)(1), Oct. 15, 1980, 94 Stat. 2035, 2036; Pub. L. 100–459, title IV, §407, Oct. 1, 1988, 102 Stat.2213; Pub. L. 100–702, title IV, §403(a)(2), (b), title X, §§1018, 1020(a)(1), Nov. 19, 1988, 102 Stat. 4651, 4670, 4671; Pub. L. 101–650, title III, §§323, 325(b)(1), title IV, §403, Dec. 1, 1990, 104 Stat. 5120, 5121, 5124; Pub. L. 102–198, §1, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 104–317, title II, §208, Oct. 19, 1996, 110 Stat. 3851; Pub. L. 106–518, title II, §205, title III, §306, Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 106–553, §1(a)(2) \[title III, §306\], Dec. 21, 2000, 114 Stat. 2762, 2762A–85; Pub. L. 107–273, div. C, title I, §11043(c), Nov. 2, 2002, 116 Stat. 1855.)
 
 #### Historical and Revision Notes
 
@@ -126,7 +126,7 @@ Pub. L. 106–518, §306, added subsec. (h) relating to circuit executive for Un
 
 &emsp;&emsp;“(ii) if the number of circuit judges fixed in accordance with subparagraph (B) of this paragraph is six or more, the number of district judges fixed in accordance with this subparagraph shall be no less than three.”
 
-Subsec. (a)(3) to (7). Pub. L. 101–650, §323(b), redesignated pars. (4) to (7) as (3) to (6), respectively, andstruck out former par. (3) which read as follows: “The number of circuit and district judges fixed in accordance with paragraphs (1)(B) and (1)(C) of this subsection shall be set by order of the court of appeals for the circuit no less than six months prior to a scheduled meeting of the council so constituted.”
+Subsec. (a)(3) to (7). Pub. L. 101–650, §323(b), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “The number of circuit and district judges fixed in accordance with paragraphs (1)(B) and (1)(C) of this subsection shall be set by order of the court of appeals for the circuit no less than six months prior to a scheduled meeting of the council so constituted.”
 
 Subsec. (d)(2). Pub. L. 101–650, §403, inserted at end “In the case of failure to comply with an order made under this subsection or a subpoena issued under section 372(c) of this title, a judicial council or a special committee appointed under section 372(c)(4) of this title may institute a contempt proceeding in any district court in which the judicial officer or employee of the circuit who fails to comply with the order made under this subsection shall be ordered to show cause before the court why he or she should not be held in contempt of court.”
 
@@ -140,7 +140,7 @@ Subsec. (d)(4). Pub. L. 100–702, §403(a)(2), added par. (4).
 
 Subsec. (e). Pub. L. 100–702, §1018(1), substituted “executive. In appointing a circuit executive, the judicial council shall take into account experience in administrative and executive positions, familiarity with court procedures, and special training.” for “executive from among persons who shall be certified by the Board of Certification.” in first sentence.
 
-Subsec. (f). Pub. L. 100–702, §1018(2), designated last four undesignated pars. as pars. (1) to (4), respectively, and struck out former first undesignated par. which related to establishment, functions, and staffing of Board of Certification and setting standards for certification as qualified to be circuit executive.
+Subsec. (f). Pub. L. 100–702, §1018(2), designated last four undesignated pars. as pars. (1) to (4), respectively,and struck out former first undesignated par. which related to establishment, functions, and staffing of Board of Certification and setting standards for certification as qualified to be circuit executive.
 
 Pub. L. 100–459 substituted “level IV” for “level V”.
 

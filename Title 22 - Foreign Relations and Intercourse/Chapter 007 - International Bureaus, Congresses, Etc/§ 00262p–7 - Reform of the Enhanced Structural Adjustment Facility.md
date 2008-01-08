@@ -1,6 +1,6 @@
 ### §262p–7. Reform of the Enhanced Structural Adjustment Facility
 
-The Secretary of the Treasury shall instruct the United States Executive Directors at the International Bank for Reconstruction and Development (World Bank) and the International Monetary Fund (IMF) to use the voice and voteof the United States to promote the establishment of poverty reduction strategy policies and procedures at the World Bank and the IMF that support countries’ efforts under programs developed and jointly administered by the World Bank and the IMF that have the following components:
+The Secretary of the Treasury shall instruct the United States Executive Directors at theInternational Bank for Reconstruction and Development (World Bank) and the International Monetary Fund (IMF) to use the voice and vote of the United States to promote the establishment of poverty reduction strategy policies and procedures at the World Bank and the IMF that support countries’ efforts under programs developed and jointly administered by the World Bank and the IMF that have the following components:
 
 &emsp;(1) The development of country-specific poverty reduction strategies (Poverty Reduction Strategies) under the leadership of such countries that—
 

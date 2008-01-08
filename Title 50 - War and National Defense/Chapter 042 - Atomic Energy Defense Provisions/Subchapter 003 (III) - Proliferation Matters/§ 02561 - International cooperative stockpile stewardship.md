@@ -18,7 +18,7 @@ Subsection (a) does not apply to the following:
 
 #### References in Text
 
-The National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (b)(2), is Pub. L. 105–85, Nov. 18, 1997, 111 Stat. 1629, as amended. Several sections of title XIV of Pub. L. 105–85 are classified as notes under section 5952 of Title 22, Foreign Relationsand Intercourse. For complete classification of title XIV to the Code, see Tables.
+The National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (b)(2), is Pub. L. 105–85, Nov. 18, 1997, 111 Stat. 1629, as amended. Several sections of title XIV of Pub. L. 105–85 are classified as notes under section 5952 of Title 22, Foreign Relations and Intercourse. For complete classification of title XIV to the Code, see Tables.
 
 #### Codification
 

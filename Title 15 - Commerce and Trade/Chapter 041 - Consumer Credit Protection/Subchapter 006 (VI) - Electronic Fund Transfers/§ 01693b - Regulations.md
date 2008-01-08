@@ -24,7 +24,7 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 #### (1) In general
 
-&emsp;If electronic fund transfer services are made available to consumers by a person other than a financial institution holding a consumer's account, the Board shall by regulation assure that the disclosures, protections, responsibilities, and remedies created by this subchapter are made applicable to such persons and services.
+&emsp;If electronic fund transfer services are made available to consumers by a person other than a financial institution holding a consumer's account, the Board shall by regulation assure that the disclosures, protections, responsibilities, and remedies created by this subchapterare made applicable to such persons and services.
 
 #### (2) State and local government electronic benefit transfer systems
 
@@ -106,7 +106,7 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 1999—Subsec. (d)(3). Pub. L. 106–102 added par. (3).
 
-1996—Subsec. (d). Pub. L. 104–193, §907, which directed the amendment of subsec. (d), was not executed because similar amendment by Pub. L. 104–193, §891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
+1996—Subsec. (d). Pub. L. 104–193, §907, which directed the amendment of subsec. (d), was not executed because of similar amendment by Pub. L. 104–193, §891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
 
 “(2)
 

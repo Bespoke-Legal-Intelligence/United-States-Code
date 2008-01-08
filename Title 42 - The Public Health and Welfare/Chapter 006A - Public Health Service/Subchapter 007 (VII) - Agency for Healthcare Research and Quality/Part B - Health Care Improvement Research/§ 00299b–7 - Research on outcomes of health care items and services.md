@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(iii) disseminate to prescription drug plans and MA–PD plans under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\], other health plans, and the public the findings made under clauses (i) and (ii); and
 
-&emsp;&emsp;&emsp;(iv) work in voluntary collaboration with public and private sector entities to facilitate the development of new scientific knowledge regarding health care items and services (including prescription drugs).
+&emsp;&emsp;&emsp;(iv) work in voluntary collaboration with public and private sector entities tofacilitate the development of new scientific knowledge regarding health care items and services (including prescription drugs).
 
 #### (B) Initial research
 
@@ -88,7 +88,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in this section shall be construed to require or permit the disclosure of data provided to the Secretary that is otherwise protected from disclosure under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301et seq.\], section 1905 of title 18, or other applicable law.
+&emsp;&emsp;Nothing in this section shall be construed to require or permit the disclosure of data provided to the Secretary that is otherwise protected from disclosure under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], section 1905 of title 18, or other applicable law.
 
 #### (5) Evaluations
 

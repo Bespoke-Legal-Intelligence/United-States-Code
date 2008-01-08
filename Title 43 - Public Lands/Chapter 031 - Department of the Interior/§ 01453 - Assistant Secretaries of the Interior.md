@@ -20,7 +20,7 @@ Functions, powers, and duties of Office of Audit and Investigation in Department
 
 #### Administrative Assistant Secretary
 
-An Administrative Assistant Secretary of the Interior, to be appointed, with the approval of the President, by the Secretary of the Interior under the classified civil service, to perform such duties as the Secretary of the Interior shall prescribe, and to receive compensation at the rate of $14,800 per annum, was provided for by section 4 of Reorg. Plan No. 3 of 1950, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out as a noteunder section 1451 of this title, prior to repeal of section 4 by Pub. L. 92–22, §3, June 1, 1971, 85 Stat. 76.
+An Administrative Assistant Secretary of the Interior, to be appointed, with the approval of the President, by the Secretary of the Interior under the classified civil service, to perform such duties as the Secretary of the Interior shall prescribe, and to receive compensation at the rate of $14,800 per annum, was provided for by section 4 of Reorg. Plan No. 3 of 1950, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out as a note under section 1451 of this title, prior to repeal of section 4 by Pub. L. 92–22, §3, June 1, 1971, 85 Stat. 76.
 
 #### Additional Assistant Secretary
 

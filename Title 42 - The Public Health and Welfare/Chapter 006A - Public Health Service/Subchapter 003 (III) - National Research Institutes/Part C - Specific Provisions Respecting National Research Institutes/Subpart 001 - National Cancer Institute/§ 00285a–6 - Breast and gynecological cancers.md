@@ -2,7 +2,7 @@
 
 #### (a) Expansion and coordination of activities
 
-The Director of the Institute, in consultation with the National Cancer Advisory Board, shall expand, intensify, and coordinate the activities of the Institute with respect to research onbreast cancer, ovarian cancer, and other cancers of the reproductive system of women.
+The Director of the Institute, in consultation with the National Cancer Advisory Board, shall expand, intensify, and coordinate the activities of the Institute with respect to research on breast cancer, ovarian cancer, and other cancers of the reproductive system of women.
 
 #### (b) Coordination with other institutes
 
@@ -52,7 +52,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 #### (e) Report
 
-The Director of the Institute shall prepare, for inclusion in the biennial report submitted under section 284b <sup>3</sup> of this title, a report that describes the activities of the National Cancer Institute under the research programs referred to in subsection (a) of this section, that shall include—
+The Director of the Institute shall prepare, for inclusion in the biennial report submitted under section 284b <sup>3</sup> of this title, a report that describes the activities of the National Cancer Instituteunder the research programs referred to in subsection (a) of this section, that shall include—
 
 &emsp;(1) a description of the research plan with respect to breast cancer prepared under subsection (c) of this section;
 

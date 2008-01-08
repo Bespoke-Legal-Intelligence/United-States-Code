@@ -20,7 +20,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress notes the c
 
 #### (4) Transition; construction of sections 141(a)(3) and 141(a)(4) of the U.S.-FSM Compact and U.S.-RMI Compact
 
-&emsp;The words “the effective date of this Compact, as amended” in sections 141(a)(3) and 141(a)(4) of the U.S.-FSM Compact and the U.S.-RMI Compact shall be construed to read, “on the day prior to the enactment by the United States Congress of the Compact of Free Association Amendments Act of 2003.”.
+&emsp;The words “the effective date of this Compact, as amended” in sections 141(a)(3) and 141(a)(4) of the U.S.-FSM Compact and theU.S.-RMI Compact shall be construed to read, “on the day prior to the enactment by the United States Congress of the Compact of Free Association Amendments Act of 2003.”.
 
 #### (c) Nonalienation of lands
 
@@ -78,7 +78,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (B) National Health Service Corps
 
-&emsp;&emsp;The Secretary of Health and Human Services shall continue to make the services ofthe National Health Service Corps available to the residents of the Federated States of Micronesia and the Republic of the Marshall Islands to the same extent and for so long as such services are authorized to be provided to persons residing in any other areas within or outside the United States.
+&emsp;&emsp;The Secretary of Health and Human Services shall continue to make the services of the National Health Service Corps available to the residents of the Federated States of Micronesia and the Republic of the Marshall Islands to the same extent and for so long as such services are authorized to be provided to persons residing in any other areas within or outside the United States.
 
 #### (C) Authorization of appropriations
 
@@ -126,7 +126,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (f) Foreign loans
 
-Congress hereby reaffirms the United States position that the United States Government is not responsible for foreign loans or debt obtained by the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands.
+Congress hereby reaffirms the United States position that the United States Government isnot responsible for foreign loans or debt obtained by the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands.
 
 #### (g) Sense of Congress concerning funding of public infrastructure
 
@@ -166,7 +166,7 @@ As of Fiscal Year 2015, if the United States Gross Domestic Product Implicit Pri
 
 #### (k) Participation by secondary schools in the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program
 
-In furtherance of the provisions of Title Three, Article IV, Section 341 of the U.S.-FSM and the U.S.-RMI Compacts, the purpose of which is to establish the privilege to volunteer for service in the U.S. Armed Forces, it is the sense of Congress that, to facilitate eligibility of FSM and RMI secondary school students to qualify for such service, the Department of Defense may extend the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program (STP) and the ASVAB Career Exploration Program to selected secondary Schools in the FSM and the RMI to the extent such programs areavailable to Department of Defense Dependent Schools located in foreign jurisdictions.
+In furtherance of the provisions of Title Three, Article IV, Section 341 of the U.S.-FSM and the U.S.-RMI Compacts, the purpose of which is to establish the privilege to volunteer for service in the U.S. Armed Forces, it is the sense of Congress that, to facilitate eligibility of FSM and RMI secondary school students to qualify for such service, the Department of Defense may extend the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program (STP) and the ASVAB Career Exploration Program to selected secondary Schools in the FSM and the RMI to the extent such programs are available to Department of Defense Dependent Schools located in foreign jurisdictions.
 
 (Pub. L. 108–188, title I, §104, Dec. 17, 2003, 117 Stat. 2737.)
 
@@ -187,6 +187,10 @@ The Compact of Free Association, as amended, between the Government of the Unite
 The Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, referred to in subsecs. (g) and (i), is contained in section 201(b) of Pub. L. 108–188, set out as a note under section 1921 of this title.
 
 The enactment of this resolution, referred to in subsec. (h)(1), is the enactment of Pub. L. 108–188, which was approved Dec. 17, 2003.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives and Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Assignment of Reporting Functions
 

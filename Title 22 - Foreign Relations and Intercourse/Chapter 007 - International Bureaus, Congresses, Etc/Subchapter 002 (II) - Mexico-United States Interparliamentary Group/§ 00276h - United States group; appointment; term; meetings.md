@@ -10,7 +10,3 @@ Not to exceed twenty-four Members of Congress shall be appointed to meet jointly
 
 1977—Pub. L. 95–45 substituted “International Relations Committee” for “Foreign Affairs Committee” as the name of the House Committee from which not less than four of the House appointees must be drawn, inserted requirement that the appointment of the Senate appointees by the President of the Senate be made upon the recommendations of the majority and minority leaders of the Senate, and inserted provision thatthe Chairman or Vice Chairman of the House delegation be a Member from the International Relations Committee, and, unless the President of the Senate, upon the recommendation of the Majority Leader, determines otherwise, the Chairman or Vice Chairman of the Senate delegation be a Member from the Foreign Relations Committee.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

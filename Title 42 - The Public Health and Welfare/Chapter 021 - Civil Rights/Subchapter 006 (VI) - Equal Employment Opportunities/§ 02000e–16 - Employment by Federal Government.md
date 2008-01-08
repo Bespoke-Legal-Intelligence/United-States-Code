@@ -38,7 +38,7 @@ Nothing contained in this Act shall relieve any Government agency or official of
 
 #### References in Text
 
-This Act, referred to in subsec. (e), means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§2000a etseq.). For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+This Act, referred to in subsec. (e), means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 Executive Order 11478, as amended, referred to in subsecs. (c) and (e), is set out as a note under section 2000e of this title.
 

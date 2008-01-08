@@ -28,7 +28,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 &emsp;&emsp;(A) the Commission, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of Homeland Security, and the head of any other appropriate Federal agency, determines would pose a threat similar to the threat posed by a discrete source of radium-226 to the public health and safety or the common defense and security; and
 
-&emsp;&emsp;(B) before, on, or after August 8, 2005, is extracted or converted after extraction for use in a commercial, medical, or research activity.
+&emsp;&emsp;(B) before, on, or after August 8, 2005, is extracted or converted after extraction for usein a commercial, medical, or research activity.
 
 (f) The term “Commission” means the Atomic Energy Commission.
 
@@ -58,7 +58,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (s) The term “person” means (1) any individual, corporation, partnership, firm, association, trust, estate, public or private institution, group, Government agency other than the Commission, any State or any political subdivision of, or any political entity within a State, any foreign government or nation or any political subdivision of any such government or nation, or other entity; and (2) any legal successor, representative, agent, or agency of the foregoing.
 
-(t) The term “person indemnified” means (1) with respect to a nuclear incident occurring within the United States or outside the United States as the term is used in section 2210(c) of this title, and with respect to any nuclear incident in connection with the design, development, construction, operation, repair, maintenance, or use of the nuclear ship Savannah, the person with whom an indemnity agreement is executed or who is required to maintain financial protection, and any other person who may be liable for public liability or (2) with respect to any other nuclear incident occurring outside the United States, the person with whom an indemnity agreement is executed and any other person who may be liable for public liability by reason of his activities under any contract with the Secretary of Energy or any project to which indemnification under the provisions of section 2210(d) of this title has been extended or under any subcontract, purchase order, or other agreement, of any tier, under any such contract or project.
+(t) The term “person indemnified” means (1) with respect to a nuclear incident occurring within the United States or outside the United States as the term is used in section 2210(c) of this title, and with respect to any nuclear incident in connection with the design, development, construction, operation, repair, maintenance, or use of the nuclear ship Savannah, the person with whom an indemnity agreement is executed or who is required to maintain financial protection, and any other person who may be liable for public liability or (2) with respect to any other nuclear incident occurring outsidethe United States, the person with whom an indemnity agreement is executed and any other person who may be liable for public liability by reason of his activities under any contract with the Secretary of Energy or any project to which indemnification under the provisions of section 2210(d) of this title has been extended or under any subcontract, purchase order, or other agreement, of any tier, under any such contract or project.
 
 (u) The term “produce”, when used in relation to special nuclear material, means (1) to manufacture, make, produce, or refine special nuclear material; (2) to separate special nuclear material from other substances in which such material may be contained; or (3) to make or to produce new special nuclear material.
 
@@ -146,7 +146,7 @@ Subsec. (jj). Pub. L. 100–408, §11(d)(2), added subsec. (jj).
 
 1975—Subsec. (q). Pub. L. 94–197 substituted “source, special nuclear, or byproduct material” for “facility or device” and inserted proviso to include within term as used in section 2210(c) of this title any occurrence outside both the United States and any other nation.
 
-Subsec. (t). Pub. L. 94–197 expanded definition to include nuclear incidents occurring outside the United States as the term is used in section 2210(c) of this title and inserted reference to person required to maintain financial protection.
+Subsec. (t). Pub. L. 94–197 expanded definition to include nuclear incidents occurring outside the United States as the term is used in section 2210(c) of this titleand inserted reference to person required to maintain financial protection.
 
 1966—Subsec. (j). Pub. L. 89–645, §1(a)(2), added subsec. (j). Former subsec. (j) redesignated (k).
 

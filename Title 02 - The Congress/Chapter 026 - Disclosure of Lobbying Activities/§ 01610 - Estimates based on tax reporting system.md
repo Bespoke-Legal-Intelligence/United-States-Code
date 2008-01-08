@@ -4,7 +4,7 @@
 
 A person, other than a lobbying firm, that is required to report and does report lobbying expenditures pursuant to section 6033(b)(8) of title 26 may—
 
-&emsp;(1) make a good faith estimate (by category of dollar value) of applicable amounts that would be required to be disclosed under such section for the appropriate semiannual period to meet the requirements of sections 1603(a)(3) and 1604(b)(4) of this title; and
+&emsp;(1) make a good faith estimate (by category of dollar value) of applicable amounts that would be required to be disclosed under such section for the appropriate quarterly period to meet the requirements of sections 1603(a)(3) and 1604(b)(4) of this title; and
 
 &emsp;(2) for all other purposes consider as lobbying contacts and lobbying activities only—
 
@@ -16,7 +16,7 @@ A person, other than a lobbying firm, that is required to report and does report
 
 A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to section 162(e) of title 26 may—
 
-&emsp;(1) make a good faith estimate (by category of dollar value) of applicable amounts that would not be deductible pursuant to such section for the appropriate semiannual period to meet the requirements of sections 1603(a)(3) and 1604(b)(4) of this title; and
+&emsp;(1) make a good faith estimate (by category of dollar value) of applicable amounts that would not be deductible pursuant to such section for the appropriate quarterly period to meet the requirements of sections 1603(a)(3) and 1604(b)(4) of this title; and
 
 &emsp;(2) for all other purposes consider as lobbying contacts and lobbying activities only—
 
@@ -42,13 +42,15 @@ Not later than March 31, 1997, the Comptroller General of the United States shal
 
 &emsp;(3) any changes to this chapter or to the appropriate sections of title 26 that the Comptroller General may recommend to harmonize the definitions.
 
-(Pub. L. 104–65, §15, Dec. 19, 1995, 109 Stat. 702; Pub. L. 105–166, §4(a), (b), Apr. 6, 1998, 112 Stat. 38.)
+(Pub. L. 104–65, §15, Dec. 19, 1995, 109 Stat. 702; Pub. L. 105–166, §4(a), (b), Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, §201(b)(4), Sept. 14, 2007, 121 Stat. 742.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (c) and (d)(2), (3), was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Amendments
+
+2007—Subsecs. (a)(1), (b)(1). Pub. L. 110–81 substituted “quarterly period” for “semiannual period”.
 
 1998—Subsec. (a). Pub. L. 105–166, §4(a)(1), in introductory provisions, substituted “A person, other than a lobbying firm,” for “A registrant”.
 
@@ -57,4 +59,8 @@ Subsec. (a)(2). Pub. L. 105–166, §4(a)(2), amended par. (2) generally. Prior 
 Subsec. (b). Pub. L. 105–166, §4(b)(1), in introductory provisions, substituted “A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to” for “A registrant that is subject to”.
 
 Subsec. (b)(2). Pub. L. 105–166, §4(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in section 1602(7) of this title, consider as lobbying activities only those activities, the costs of which are not deductible pursuant to section 162(e) of title 26.”
+
+#### Effective Date of 2007 Amendment
+
+Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 434 of this title.
 

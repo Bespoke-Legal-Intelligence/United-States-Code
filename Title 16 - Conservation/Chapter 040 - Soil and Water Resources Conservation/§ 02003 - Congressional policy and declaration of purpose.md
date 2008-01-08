@@ -14,7 +14,7 @@ The Secretary shall promote the attainment of the policies and purposes expresse
 
 &emsp;(1) appraising on a continuing basis the soil, water, and related resources of the Nation;
 
-&emsp;(2) developing and updating periodically a program for furthering the conservation, protection, and enhancement of the soil, water, and related resources of the Nation consistent with the roles and program responsibilities of other Federal agencies and State and local governments; and
+&emsp;(2) developing and updating periodically a program for furthering the conservation, protection, and enhancement of the soil, water, and related resources of the Nation consistentwith the roles and program responsibilities of other Federal agencies and State and local governments; and
 
 &emsp;(3) providing to Congress and the public, through reports, the information developed pursuant to paragraphs (1) and (2) of this subsection, and by providing Congress with an annual evaluation report as provided in section 2006 of this title.
 

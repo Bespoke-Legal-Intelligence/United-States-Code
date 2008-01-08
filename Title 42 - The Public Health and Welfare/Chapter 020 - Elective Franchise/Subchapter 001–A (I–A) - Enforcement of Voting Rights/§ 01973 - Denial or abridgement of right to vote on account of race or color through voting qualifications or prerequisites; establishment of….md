@@ -26,7 +26,7 @@ Pub. L. 109–246, §2, July 27, 2006, 120 Stat. 577, provided that:
 
 “(a)
 
-Purpose.—The purpose of this Act \[see Short Title of 2006 Amendment note set out under section 1971 of this title\] is to ensure that the right of all citizens to vote, including the right to register to vote and cast meaningful votes, is preserved and protected as guaranteed by the Constitution.
+Purpose.—The purpose of this Act \[see Short Title of 2006 Amendment note set out under section 1971 of this title\] is to ensure that the right of all citizensto vote, including the right to register to vote and cast meaningful votes, is preserved and protected as guaranteed by the Constitution.
 
 “(b)
 

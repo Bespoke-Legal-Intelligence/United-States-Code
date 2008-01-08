@@ -4,7 +4,7 @@ The purposes of this subchapter are to—
 
 &emsp;(1) preserve and interpret the history of Natchez, Mississippi, as a significant city in the history of the American South;
 
-&emsp;(2) preserve and interpret the sites and structures associated with all the peoples of Natchez and its surrounding area from earliest inhabitants to the modern era, and including blacks both slave and free;
+&emsp;(2) preserve and interpret the sites and structures associated with all the peoples of Natchez and its surrounding area from earliestinhabitants to the modern era, and including blacks both slave and free;
 
 &emsp;(3) preserve and interpret the region's social, political, and economic development, with particular emphasis on the pre- and post-Civil War eras; and
 

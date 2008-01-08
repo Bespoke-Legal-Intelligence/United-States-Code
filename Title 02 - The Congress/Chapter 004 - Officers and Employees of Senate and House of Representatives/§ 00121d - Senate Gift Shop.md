@@ -18,13 +18,15 @@ Office of the Secretary”, for amounts used from such account to pay the salari
 
 (2) The Secretary of the Senate may transfer from the fund to the Capitol Preservation Fund the net profits (as determined by the Secretary) from sales of items by the Senate Gift Shop which are intended to benefit the Capitol Visitor Center.
 
+(3) The Secretary of the Senate may transfer from the fund to the Senate Employee Child Care Center proceeds from the sale of holiday ornaments by the Senate Gift Shop for the purpose of funding necessary activities and expenses of the Center, including scholarships, educational supplies, and equipment.
+
 #### (d) Exception to prohibition of sale or solicitation on Capitol Grounds
 
 The provisions of section 5104(c) of title 40 shall not be applicable to any activity carried out pursuant to this section.
 
 #### (e) Transfer of moneys from Stationery Revolving Fund
 
-To provide capital for the fund, the Secretary of the Senate is authorized to transfer, from moneys in the Stationery Revolving Fund in the contingent fund of the Senate, to the fund such sum as he may determine necessary, not to exceed $300,000.
+To provide capital for the fund, the Secretary of the Senate is authorized to transfer, from moneys in the Stationery Revolving Fund in the contingent fund of the Senate, to the fund suchsum as he may determine necessary, not to exceed $300,000.
 
 #### (f) Authorization to expend from appropriations account for initial expenses
 
@@ -38,7 +40,7 @@ Disbursements from the fund shall be made upon vouchers approved by the Secretar
 
 The Secretary of the Senate is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 102–392, title I, §2, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 107–68, title I, §107(a), Nov. 12, 2001, 115 Stat. 568.)
+(Pub. L. 102–392, title I, §2, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 107–68, title I, §107(a), Nov. 12, 2001, 115 Stat. 568; Pub. L. 110–39, §1, June 21, 2007, 121 Stat. 231.)
 
 #### References in Text
 
@@ -48,9 +50,11 @@ The Legislative Branch Appropriations Act, 1991, referred to in subsec. (f), is 
 
 Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
 
-In subsec. (d), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C.193d)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (d), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2007—Subsec. (c)(3). Pub. L. 110–39 added par. (3).
 
 2001—Subsec. (c). Pub. L. 107–68 designated existing provisions as par. (1) and added par. (2).
 

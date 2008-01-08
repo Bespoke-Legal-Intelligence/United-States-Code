@@ -30,7 +30,7 @@
 
 &emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, repay to the Government the amount of any benefits received by such employee from that agency under this section.
 
-(2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into the service of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of such employee's entrance into the service of the other agency that payment will be required under this subsection.
+(2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into the service of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of suchemployee's entrance into the service of the other agency that payment will be required under this subsection.
 
 (3) If an employee who is involuntarily separated on account of misconduct or who (excluding any employee relieved of liability under paragraph (2) of this subsection) is voluntarily separated before completing the required period of service fails to repay the amount agreed to under paragraph (1)(B) of this subsection, a sum equal to the amount outstanding is recoverable by the Government from the employee (or such employee's estate, if applicable) by—
 
@@ -42,7 +42,7 @@
 
 (4) Any amount repaid by, or recovered from, an individual (or an estate) under this subsection shall be credited to the appropriation account from which the amount involved was originally paid. Any amount so credited shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the same limitations (if any), as the sums with which merged.
 
-(d) An employee receiving benefits under this section from an agency shall be ineligible forcontinued benefits under this section from such agency if the employee—
+(d) An employee receiving benefits under this section from an agency shall be ineligible for continued benefits under this section from such agency if the employee—
 
 &emsp;(1) separates from such agency; or
 
@@ -96,7 +96,7 @@ Subsec. (h). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(d)\], added s
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title XI, §1123(b), Nov. 24, 2003, 117 Stat. 1637, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2004.”
+Pub. L. 108–136, div. A, title XI, §1123(b), Nov. 24, 2003, 117 Stat. 1637, provided that: “The amendment made bysubsection (a) \[amending this section\] shall take effect on January 1, 2004.”
 
 #### Regulations
 

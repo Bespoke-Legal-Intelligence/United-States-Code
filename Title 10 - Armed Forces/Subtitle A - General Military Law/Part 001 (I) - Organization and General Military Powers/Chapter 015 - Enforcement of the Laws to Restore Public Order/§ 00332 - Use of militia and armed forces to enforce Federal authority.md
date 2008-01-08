@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 R.S. 5298.
 
-50:202 (last 22 words) is omitted as surplusage. The words “armed forces” are substituted for the words “land and naval forces of the United States”. Thewords “call into Federal service such of the militia” are substituted for the words “call forth the militia of any or all the States” for clarity and uniformity. The word “may” is substituted for the words “it shall be lawful”. The words “faithful execution of the” and “in whatever State or Territory thereof the laws of the United States may be forcibly opposed” are omitted as surplusage.
+50:202 (last 22 words) is omitted as surplusage. The words “armed forces” are substituted for the words “land and naval forces of the United States”. The words “call into Federal service such of the militia” are substituted for the words “call forth the militia of any or all the States” for clarity and uniformity. The word “may” is substituted for the words “it shall be lawful”. The words “faithful execution of the” and “in whatever State or Territory thereof the laws of the United States may be forcibly opposed” are omitted as surplusage.
 
 #### Derivation
 

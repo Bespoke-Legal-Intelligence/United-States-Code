@@ -66,9 +66,9 @@ The Secretary may prescribe rules for simplified reporting of all trusts having 
 
 (Added Pub. L. 105–34, title XIII, §1309(a), Aug. 5, 1997, 111 Stat. 1042; amended Pub. L. 105–206, title VI, §6013(b), July 22, 1998, 112 Stat. 820.)
 
-#### Limitation on Contributions Received By Trust During Calendar Year 2007
+#### Limitation on Contributions Received By Trust During Calendar Year 2008
 
-<i>For limitation on aggregate contributions received by qualified funeral trust by or for the benefit of an individual for contracts entered into during calendar year 2007, see section 3.28 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For limitation on aggregate contributions received by qualified funeral trust by or for the benefit of an individual for contracts entered into during calendar year 2008, see section 3.28 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

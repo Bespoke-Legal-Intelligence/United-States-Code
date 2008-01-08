@@ -176,7 +176,7 @@ Not less than 25 per centum of the funds made available for grants under this se
 
 #### (j) Grant contingent on factors related to non-Federal funds
 
-A grant may be made under this section only where the Secretary determines that there is astrong probability that (1) the non-Federal investment in the project would not be made without the grant, and (2) the grant would not substitute for non-Federal funds which are otherwise available to the project.
+A grant may be made under this section only where the Secretary determines that there is a strong probability that (1) the non-Federal investment in the project would not be made without the grant, and (2) the grant would not substitute for non-Federal funds which are otherwise available to the project.
 
 #### (k) Duty of Secretary to minimize amount
 
@@ -218,7 +218,7 @@ For fiscal years 1988 and 1989, the maximum grant amount for any project under t
 
 #### (t) UDAG retention program
 
-If a grant or a portion of a grant under this section remains unexpended upon the issuance of a notice implementing this subsection, the grantee may enter into an agreement, as provided under this subsection, with the Secretary to receive a percentage of the grant amount and relinquish all claims to the balance of the grant within 90 days of the issuance of notice implementing this subsection (or such later date as the Secretary may approve). The Secretary shall not recapture any funds obligated pursuant to this section during a period beginning on April 11, 1994, until 90 days after the issuance of a notice implementing this subsection. A grantee may receive as a grant under this subsection—
+If a grant or a portion of a grant under this section remains unexpended upon the issuance of a notice implementing this subsection, the grantee may enter into an agreement, as provided under this subsection, with the Secretaryto receive a percentage of the grant amount and relinquish all claims to the balance of the grant within 90 days of the issuance of notice implementing this subsection (or such later date as the Secretary may approve). The Secretary shall not recapture any funds obligated pursuant to this section during a period beginning on April 11, 1994, until 90 days after the issuance of a notice implementing this subsection. A grantee may receive as a grant under this subsection—
 
 &emsp;(1) 33 percent of such unexpended amounts if—
 
@@ -226,7 +226,7 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 
 &emsp;&emsp;(B)(i) the remainder of the amount received is used for economic development activities eligible under this chapter; and
 
-&emsp;&emsp;(ii) except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs ofactivities under subparagraph (B) are derived from such unexpended amounts; or
+&emsp;&emsp;(ii) except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs of activities under subparagraph (B) are derived from such unexpended amounts; or
 
 &emsp;(2) 25 percent of such unexpended amounts if—
 
@@ -370,7 +370,7 @@ Section effective Oct. 1, 1977, see section 114 of Pub. L. 95–128, set out as 
 
 #### Implementation of Urban Development Action Grant Retention Program
 
-Section 232(c)(2) of Pub. L. 103–233 provided that: “Not later than 10 days after the date of enactment ofthis Act \[Apr. 11, 1994\], the Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection \[amending this section\].”
+Section 232(c)(2) of Pub. L. 103–233 provided that: “Not later than 10 days after the date of enactment of this Act \[Apr. 11, 1994\], the Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection \[amending this section\].”
 
 #### New Towns Demonstration Program for Emergency Relief of Los Angeles
 
@@ -472,7 +472,7 @@ Submission.—Not later than the expiration of the 6-month period beginning on t
 
 &emsp;“(2)
 
-Approval.—For a plan to be eligible for assistance available under this title, the chief executive officer of all units of general local government to whom the new town plan is submitted shall approve the plan at a public meeting after the plan has been made publicly available for a period of not less than 30 days. A governing board may resubmit for approvalany plan returned by any such chief executive officer to the governing board, and such chief executive officer may, upon returning the plan indicate any modifications necessary for approval. A new town plan may not be approved unless such chief executive officers determine that the membership of the governing board submitting the plan is constituted in accordance with section 1107 and the governing board is capable of carrying out the plan.
+Approval.—For a plan to be eligible for assistance available under this title, the chief executive officer of all units of general local government to whom the new town plan is submitted shall approve the plan at a public meeting after the plan has been made publicly available for a period of not less than 30 days. A governing board may resubmit for approval any plan returned by any such chief executive officer to the governing board, and such chief executive officer may, upon returning the plan indicate any modifications necessary for approval. A new town plan may not be approved unless such chief executive officers determine that the membership of the governing board submitting the plan is constituted in accordance with section 1107 and the governing board is capable of carrying out the plan.
 
 &emsp;“(3)
 

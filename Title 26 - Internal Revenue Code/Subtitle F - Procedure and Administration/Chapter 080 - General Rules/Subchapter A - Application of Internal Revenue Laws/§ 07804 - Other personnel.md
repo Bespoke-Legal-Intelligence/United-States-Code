@@ -90,11 +90,11 @@ In general.—The Commissioner of Internal Revenue may take a personnel action o
 
 &emsp;“(2)
 
-Discretion.—The exercise of authority under paragraph (1) shall be at the sole discretion of the Commissioner of Internal Revenue and may not bedelegated to any other officer. The Commissioner of Internal Revenue, in his sole discretion, may establish a procedure which will be used to determine whether an individual should be referred to the Commissioner of Internal Revenue for a determination by the Commissioner under paragraph (1).
+Discretion.—The exercise of authority under paragraph (1) shall be at the sole discretion of the Commissioner of Internal Revenue and may not be delegated to any other officer. The Commissioner of Internal Revenue, in his sole discretion, may establish a procedure which will be used to determine whether an individual should be referred to the Commissioner of Internal Revenue for a determination by the Commissioner under paragraph (1).
 
 &emsp;“(3)
 
-No appeal.—Any determination of the Commissioner of Internal Revenue under this subsection may not be appealed in any administrative or judicial proceeding.
+No appeal.—Any determination of the Commissioner of Internal Revenue under this subsectionmay not be appealed in any administrative or judicial proceeding.
 
 “(d)
 
@@ -158,9 +158,7 @@ Pub. L. 104–168, title XII, §1211, July 30, 1996, 110 Stat. 1474, provided th
 
 #### Taxpayers’ Rights, Courtesy and Cross-Cultural Relations Training
 
-Pub. L. 109–115, div. A, title II, §202, Nov. 30, 2005, 119 Stat. 2438, provided that: “The Internal Revenue Service shall maintain a training program to ensure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with taxpayers, and in cross-cultural relations.”
-
-Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 109–115, div. A, title II, §202, Nov. 30, 2005, 119 Stat. 2438, which provided that the Internal Revenue Service was to maintain a training program to ensure that Internal Revenue Service employees were trained in taxpayers’ rights, in dealing courteously with taxpayers, and in cross-cultural relations, was from the Department of the Treasury Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
 Pub. L. 108–447, div. H, title II, §202, Dec. 8, 2004, 118 Stat. 3240.
 
@@ -226,7 +224,7 @@ Pub. L. 100–203, title X, §10622, Dec. 22, 1987, 101 Stat. 1330–452, provid
 
 Findings.—The Congress hereby finds that—
 
-&emsp;“(1) the Internal Revenue Service estimates that the amount of taxes owed for 1986 will exceed the amount of taxes collected for such year by $100 billion;
+&emsp;“(1) the Internal Revenue Service estimates that the amount of taxes owed for 1986 will exceed theamount of taxes collected for such year by $100 billion;
 
 &emsp;“(2) the current taxpayer compliance rate stands at 81.5 percent;
 

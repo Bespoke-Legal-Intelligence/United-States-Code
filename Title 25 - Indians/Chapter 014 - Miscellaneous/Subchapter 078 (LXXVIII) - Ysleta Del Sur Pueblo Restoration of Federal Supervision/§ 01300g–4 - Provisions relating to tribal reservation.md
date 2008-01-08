@@ -2,7 +2,7 @@
 
 #### (a) Federal reservation established
 
-The reservation is hereby declared to be a Federal Indian reservation for the use and benefit of the tribe without regard to whether legal title to such lands is held in trust by the Secretary.
+The reservation is hereby declared to be a Federal Indian reservation for the use and benefit ofthe tribe without regard to whether legal title to such lands is held in trust by the Secretary.
 
 #### (b) Conveyance of land by State
 

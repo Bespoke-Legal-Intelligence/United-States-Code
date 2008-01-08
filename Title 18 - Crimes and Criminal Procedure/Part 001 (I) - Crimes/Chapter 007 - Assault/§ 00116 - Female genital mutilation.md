@@ -6,7 +6,7 @@
 
 &emsp;(1) necessary to the health of the person on whom it is performed, and is performed by a person licensed in the place of its performance as a medical practitioner; or
 
-&emsp;(2) performed on a person in labor or who has just given birth and is performed for medical purposes connected with that labor or birth bya person licensed in the place it is performed as a medical practitioner, midwife, or person in training to become such a practitioner or midwife.
+&emsp;(2) performed on a person in labor or who has just given birth and is performed for medical purposes connected with that labor or birth by a person licensed in the place it is performed as a medical practitioner, midwife, or person in training to become such a practitioner or midwife.
 
 (c) In applying subsection (b)(1), no account shall be taken of the effect on the person on whom the operation is to be performed of any belief on the part of that person, or any other person, that the operation is required as a matter of custom or ritual.
 

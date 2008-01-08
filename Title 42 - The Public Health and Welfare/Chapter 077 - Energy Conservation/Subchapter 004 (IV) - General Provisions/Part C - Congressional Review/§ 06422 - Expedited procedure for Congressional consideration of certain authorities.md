@@ -70,7 +70,7 @@ For the purpose of subsection (b) of this section—
 
 > &emsp;An amendment described in this subparagraph shall not be amendable.
 
-&emsp;(C) If one House receives from the other House a resolution with respect to a rationingcontingency plan, then the following procedure applies:
+&emsp;(C) If one House receives from the other House a resolution with respect to a rationing contingency plan, then the following procedure applies:
 
 &emsp;&emsp;(i) the resolution of the other House with respect to such plan shall not be referred to a committee;
 
@@ -78,7 +78,7 @@ For the purpose of subsection (b) of this section—
 
 &emsp;&emsp;&emsp;(I) the procedure with respect to that or other resolutions of such House with respect to such plan shall be the same as if no resolution from the other House with respect to such plan had been received; but
 
-&emsp;&emsp;&emsp;(II) on any vote on final passage of a resolution of the first House with respect to such plan a resolution from the other House with respect to such plan which has the same effect shall be automatically substituted for the resolution of the first House.
+&emsp;&emsp;&emsp;(II) on any vote on final passage of a resolution of the first House with respect to such plan a resolution from the otherHouse with respect to such plan which has the same effect shall be automatically substituted for the resolution of the first House.
 
 &emsp;(D) Notwithstanding any of the preceding provisions of this subsection, if a House has approved a resolution with respect to a rationing contingency plan, then it shall not be in order to consider in that House any other resolution under this section with respect to the approval of such plan.
 

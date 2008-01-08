@@ -8,7 +8,7 @@ Assistance may be provided under this chapter to the Hamas-controlled Palestinia
 
 A certification described in subsection (a) is a certification transmitted by the President to Congress that contains a determination of the President that—
 
-&emsp;(1) no ministry, agency, or instrumentality of the Palestinian Authority is effectivelycontrolled by Hamas, unless the Hamas-controlled Palestinian Authority has—
+&emsp;(1) no ministry, agency, or instrumentality of the Palestinian Authority is effectively controlled by Hamas, unless the Hamas-controlled Palestinian Authority has—
 
 &emsp;&emsp;(A) publicly acknowledged the Jewish state of Israel's right to exist; and
 
@@ -88,13 +88,17 @@ In this section:
 
 #### (3) Palestinian Authority
 
-&emsp;The term “Palestinian Authority” means the interim Palestinian administrative organization that governs part of the West Bank andall of the Gaza Strip (or any successor Palestinian governing entity), including the Palestinian Legislative Council.
+&emsp;The term “Palestinian Authority” means the interim Palestinian administrative organization that governs part of the West Bank and all of the Gaza Strip (or any successor Palestinian governing entity), including the Palestinian Legislative Council.
 
 (Pub. L. 87–195, pt. III, §620K, as added, Pub. L. 109–446, §2(b)(2), Dec. 21, 2006, 120 Stat. 3318.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Palestinian Anti-Terrorism Act of 2006
 
@@ -186,7 +190,7 @@ Exception.—The restriction under subsection (a) should not apply to—
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, and except as provided in subsection (b),the President should restrict the travel of officials and representatives of the Palestinian Authority and of the Palestine Liberation Organization, who are stationed at the United Nations in New York City to a 25-mile radius of the United Nations headquarters building during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority.
+In General.—Notwithstanding any other provision of law, and except as provided in subsection (b), the President should restrict the travel of officials and representatives of the Palestinian Authority and of the Palestine Liberation Organization, who are stationed at the United Nations in New York City to a 25-mile radius of the United Nations headquarters building during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(b)\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority.
 
 “(b)
 
@@ -274,11 +278,37 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—
 
-&emsp;&emsp;“(A) the Committee on International Relations and the Committee on Appropriations of the House of Representatives; and
+&emsp;&emsp;“(A) the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Appropriations of the House of Representatives; and
 
 &emsp;&emsp;“(B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
 &emsp;“(2)
 
 Palestinian authority.—The term ‘Palestinian Authority’ has the meaning given the term in section 620K(e)(2) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2378b(e)(2)\] (as added by section 2(b)(2) of this Act).”
+
+#### Assistance for the West Bank and Gaza
+
+Determination of President of the United States, No. 2007–20, June 1, 2007, 72 F.R. 34973, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 550(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2006 (FOAA)(Public Law 109–102), as amended by the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006 (Public Law 109–234), sections 620K(e) and 620L(b)(4) of the Foreign Assistance Act \[of 1961\], as added by the Palestinian Anti-Terrorism Act of 2006 (Public Law 109–446), and section 301 of title 3, United States Code, I hereby certify and report that:
+
+With respect to the provision of assistance for the administrative and personal security costs of the Office of the President of the Palestinian Authority; for the activities of the President of the Palestinian Authority to promote democracy, peaceful resolution of the Israeli-Palestinian conflict, and the rule of law and to fulfill his duties as President, including, among other things, to maintain control of the management and security of border crossings and to foster the Middle East peace process; and, with respect to independent agencies:
+
+• it is in the national security interest of the United States to provide such assistance;
+
+• as the case may be, the President of the Palestinian Authority, the President's party, and independent agencies and any members thereof, including any individual or entity for which assistance is proposed to be provided, are not members of, appointed by, or effectively controlled by Hamas or any other foreign terrorist organization; and
+
+• such assistance provided hereunder will not be transferred or retransferred to any member of Hamas or other foreign terrorist organization or to any entity effectively controlled by Hamas or other foreign terrorist organization.
+
+Accordingly, I hereby waive section 550(a) of the FOAA, as amended, and section 620K(a) of the Foreign Assistance Act, as amended, with respect to such assistance, and authorize such assistance for the above purposes.
+
+Furthermore, I hereby determine that, with respect to assistance to nongovernmental organizations for the West Bank and Gaza other than assistance covered by paragraphs (b)(1), (2), and (3) of section 620L of the Foreign Assistance Act, as amended, it is in the national security interest of the United States to provide such assistance as the Secretary of State deems appropriate, and assign to the Secretary of State the functions under section 620L(b)(4)(B) regarding the specific programs, projects, and activities to be carried out using such assistance.
+
+I also hereby assign the functions of the President under section 550(b) and (c) of the FOAA, as amended and as carried forward under the Revised Continuing Appropriations Resolution, 2007 (Public Law 110–5), to the Secretary of State.
+
+You are hereby authorized and directed to report this determination to the Congress and publish it in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

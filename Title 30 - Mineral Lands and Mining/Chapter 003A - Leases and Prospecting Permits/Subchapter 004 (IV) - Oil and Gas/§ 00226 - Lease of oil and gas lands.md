@@ -246,10 +246,6 @@ Act July 29, 1954, in fifth par., provided that the primary term of a lease whic
 
 1930—Act July 3, 1930, amended section generally.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1992 Amendment
 
 Section 2507(b) of Pub. L. 102–486 provided that: “The amendments made by subsection (a) \[amending this section\] apply with respect to those mineral estates in which the interest of the United States becomes a vested present interest after January 1, 1990.”
@@ -322,7 +318,7 @@ Section 5111 of Pub. L. 100–203 provided that: “The National Academy of Scie
 
 #### Reinstatement and Extension of Certain Ten-Year Oil and Gas Leases
 
-Act July 14, 1952, ch. 742, 66 Stat. 630, provided: “That any lease issued for a ten-year term in exchange for an oil and gas prospecting permit pursuant to sections 13 and 17 of the Act entitled ‘An Act to promote the mining of coal, phosphate, oil, oil shale, gas, and sodium on the public domain’, approved February 25, 1920, as amended by the Act of August 21, 1935 (49 Stat. 674) \[sections 221 and 226, respectively, of this title\], and prior to amendment by the Act of August 8, 1946 \[act Aug. 8, 1946, ch. 916, §3, 60 Stat. 951\], and upon which drilling operations were being diligently prosecuted on the expiration date of such lease, prior to the effective date of this Act \[July 14, 1952\], is hereby reinstated effective from the expiration date of the lease and shall continue in effect for a period of two years after the effective date of this Act and so long thereafter as oil or gas is produced in paying quantities, if, within ninety days after the enactment of this Act, payment is made, under the terms of such lease as reinstated and extended, of any sums due the United States for prior years. This Act shall not be applicable to any lands which, subsequent to such expiration and prior to the enactment of this Act, have been withdrawn from leasing, leased, or otherwise disposed of.”
+Act July 14, 1952, ch. 742, 66 Stat. 630, provided: “That any lease issued for a ten-year term in exchange for anoil and gas prospecting permit pursuant to sections 13 and 17 of the Act entitled ‘An Act to promote the mining of coal, phosphate, oil, oil shale, gas, and sodium on the public domain’, approved February 25, 1920, as amended by the Act of August 21, 1935 (49 Stat. 674) \[sections 221 and 226, respectively, of this title\], and prior to amendment by the Act of August 8, 1946 \[act Aug. 8, 1946, ch. 916, §3, 60 Stat. 951\], and upon which drilling operations were being diligently prosecuted on the expiration date of such lease, prior to the effective date of this Act \[July 14, 1952\], is hereby reinstated effective from the expiration date of the lease and shall continue in effect for a period of two years after the effective date of this Act and so long thereafter as oil or gas is produced in paying quantities, if, within ninety days after the enactment of this Act, payment is made, under the terms of such lease as reinstated and extended, of any sums due the United States for prior years. This Act shall not be applicable to any lands which, subsequent to such expiration and prior to the enactment of this Act, have been withdrawn from leasing, leased, or otherwise disposed of.”
 
 #### Outer Continental Shelf; Leases
 

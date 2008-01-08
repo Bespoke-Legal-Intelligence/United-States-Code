@@ -1,6 +1,6 @@
 ### §1831. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this chapter $125,000 for the period beginning July 1, 1976, and ending September 30, 1976; and for the fiscal year beginning October 1, 1976, and for each fiscal year thereafter there are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary to carry out this chapter.
+There are authorized to be appropriated to carry out this chapter $125,000 for the period beginning July 1, 1976, and ending September 30, 1976; and for the fiscal year beginning October 1, 1976, and for each fiscal year thereafter there areauthorized to be appropriated such sums, not to exceed $500,000, as may be necessary to carry out this chapter.
 
 (Pub. L. 91–540, §12, Dec. 9, 1970, 84 Stat. 1407; Pub. L. 94–360, §10, July 13, 1976, 90 Stat. 921.)
 

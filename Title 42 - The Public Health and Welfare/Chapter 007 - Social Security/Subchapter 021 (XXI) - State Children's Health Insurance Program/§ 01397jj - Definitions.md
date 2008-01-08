@@ -22,7 +22,7 @@ For purposes of this subchapter, the term “child health assistance” means pa
 
 &emsp;(9) Prenatal care and prepregnancy family planning services and supplies.
 
-&emsp;(10) Inpatient mental health services, other than services described in paragraph (18) but including services furnished in a State-operated mental hospital and including residential or other 24-hour therapeutically planned structured services.
+&emsp;(10) Inpatient mental health services, other than services described in paragraph (18) but including services furnished in a State-operated mental hospital and including residentialor other 24-hour therapeutically planned structured services.
 
 &emsp;(11) Outpatient mental health services, other than services described in paragraph (19) but including services furnished in a State-operated mental hospital and including community-based services.
 
@@ -62,7 +62,7 @@ For purposes of this subchapter, the term “child health assistance” means pa
 
 &emsp;(26) Medical transportation.
 
-&emsp;(27) Enabling services (such as transportation, translation, and outreach services) only if designed to increase the accessibility ofprimary and preventive health care services for eligible low-income individuals.
+&emsp;(27) Enabling services (such as transportation, translation, and outreach services) only if designed to increase the accessibility of primary and preventive health care services for eligible low-income individuals.
 
 &emsp;(28) Any other health care services or items specified by the Secretary and not excluded under this section.
 
@@ -154,7 +154,7 @@ Subsec. (c)(3). Pub. L. 105–100, §162(9), made technical amendment to referen
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 effective as if included in the enactment of section 4901 of Pub. L. 105–33, seesection 1(a)(6) \[title VIII, §802(f)\] of Pub. L. 106–554, set out as a note under section 1396d of this title.
+Amendment by Pub. L. 106–554 effective as if included in the enactment of section 4901 of Pub. L. 105–33, see section 1(a)(6) \[title VIII, §802(f)\] of Pub. L. 106–554, set out as a note under section 1396d of this title.
 
 #### Effective Date of 1997 Amendment
 

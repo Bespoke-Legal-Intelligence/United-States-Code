@@ -60,7 +60,7 @@ Sec. 9. It is the sense of Congress that living accommodations, generally equiva
 
 #### Official Residence for the Vice President; Design and Construction; Authorization of Appropriation
 
-Pub. L. 89–386, Apr. 9, 1966, 80 Stat. 106, provided: “That the Administrator of General Services is herebyauthorized to plan, design, and construct an official residence for the Vice President of the United States in the District of Columbia.
+Pub. L. 89–386, Apr. 9, 1966, 80 Stat. 106, provided: “That the Administrator of General Services is hereby authorized to plan, design, and construct an official residence for the Vice President of the United States in the District of Columbia.
 
 “
 

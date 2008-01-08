@@ -92,7 +92,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 #### (2) Comprehensive 5-year review
 
-&emsp;The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) of this section during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A) of this section, and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph nolater than 6 years after the initiation of the program.
+&emsp;The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) of this section during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A) of this section, and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph no later than 6 years after the initiation of the program.
 
 #### (f) Definitions
 
@@ -117,6 +117,10 @@ The Intergovernmental Personnel Act of 1970, referred to in subsec. (d)(2), (4),
 #### Prior Provisions
 
 A prior section 22 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Information Security”.</i>
 

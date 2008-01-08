@@ -32,7 +32,7 @@ This chapter, referred to in pars. (e), (f), and (k), was in the original “thi
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–432, div. C, title II, §200, Dec. 20, 2006, 120 Stat. 3006, provided that: “This title \[enacting section 1244 of this title, amending sections 1231 to 1233, 1236, 1238, 1240a, 1260, 1300, and 1302 of this title and sections 9701, 9702, 9704 to 9707, 9711, 9712, and 9721 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 1232 of this title and sections 9701, 9704, and 9712 of Title 26\] may be cited as the ‘Surface Mining Control and Reclamation Act Amendments of 2006’.”
+Pub. L. 109–432, div. C, title II, §200, Dec. 20, 2006, 120 Stat. 3006, provided that: “This title \[enacting section 1244 of this title, amending sections 1231 to 1233, 1236, 1238, 1240a, 1260, 1300, and 1302 of this title and sections9701, 9702, 9704 to 9707, 9711, 9712, and 9721 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 1232 of this title and sections 9701, 9704, and 9712 of Title 26\] may be cited as the ‘Surface Mining Control and Reclamation Act Amendments of 2006’.”
 
 #### Short Title of 1990 Amendments
 

@@ -26,5 +26,5 @@ Section 804(c) of Pub. L. 89–44 provided that: “The amendments made by subse
 
 #### Determination of Partnership as Continuing or Terminated Partnership
 
-Section 141(b) of Pub. L. 85–859 mandated that only changes in the partnership occurring on or after the effective date specified in section 1(c) of Pub. L. 85–859shall be taken into account in the determination of whether a partnership is a continuing or terminated one.
+Section 141(b) of Pub. L. 85–859 mandated that only changes in the partnership occurring on or after the effective date specified in section 1(c) of Pub. L. 85–859 shall be taken into account in the determination of whether a partnership is a continuing or terminated one.
 

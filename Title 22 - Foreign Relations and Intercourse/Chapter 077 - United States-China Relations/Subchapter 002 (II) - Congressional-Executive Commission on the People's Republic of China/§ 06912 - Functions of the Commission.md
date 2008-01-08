@@ -50,7 +50,7 @@ The Commission shall monitor the development of the rule of law in the People's 
 
 &emsp;(1) progress toward the development of institutions of democratic governance;
 
-&emsp;(2) processes by which statutes, regulations, rules, and other legal acts of the Governmentof the People's Republic of China are developed and become binding within the People's Republic of China;
+&emsp;(2) processes by which statutes, regulations, rules, and other legal acts of the Government of the People's Republic of China are developed and become binding within the People's Republic of China;
 
 &emsp;(3) the extent to which statutes, regulations, rules, administrative and judicial decisions, and other legal acts of the Government of the People's Republic of China are published and are made accessible to the public;
 
@@ -109,6 +109,10 @@ The Commission may submit to the President and the Congress reports that supplem
 #### Amendments
 
 2002—Subsec. (h). Pub. L. 107–228 substituted “shall include—” for “shall include”, inserted par. (1) designation before “specific information”, and added par. (2).
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

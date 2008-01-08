@@ -47,7 +47,7 @@ Pub. L. 94–455, title XV, §1501(c), Oct. 4, 1976, 90 Stat. 1737, added item 2
 
 1974—Pub. L. 93–406, title II, §2002(h)(1), Sept. 2, 1974, 88 Stat. 970, added item 219 and redesignated former item 219 as 220.
 
-1971—Pub. L. 92–178, title II, §210(b), title VII, §702(c), Dec. 10, 1971, 85 Stat. 520, 562, substituted “Expenses for household and dependent care services necessary for gainful employment” for “expenses for care of certain dependents” in item 214, added item 218, and redesignated former item 218 as 219.
+1971—Pub. L. 92–178, title II, §210(b), title VII, §702(c), Dec. 10, 1971, 85 Stat. 520, 562, substituted “Expenses for household and dependent care services necessary for gainful employment” for “expenses for care of certaindependents” in item 214, added item 218, and redesignated former item 218 as 219.
 
 1964—Pub. L. 88–272, title II, §213(a)(2), Feb. 26, 1964, 78 Stat. 52, added item 217 and redesignated former item 217 as 218.
 

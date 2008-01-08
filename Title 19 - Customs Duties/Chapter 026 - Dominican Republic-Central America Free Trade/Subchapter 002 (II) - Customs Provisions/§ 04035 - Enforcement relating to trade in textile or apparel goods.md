@@ -54,7 +54,7 @@ Appropriate action under subsection (c) includes—
 
 &emsp;&emsp;(B) the textile or apparel good for which a claim of preferential tariff treatment has been made that is the subject of a verification under subsection (a)(1) regarding a claim described in subsection (a)(2)(B), if the Secretary determines there is insufficient information to support, or that a person has provided incorrect information to support, that claim; and
 
-&emsp;(2) denial of entry into the United States of any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A) or a claim described in subsection (a)(2)(B), if the Secretary determines there is insufficient information to determine, or that the person has provided incorrect information as to, the country of origin of any such good.
+&emsp;(2) denial of entry into the United States of any textile or apparel good exported or produced by the person that is the subject of a verification under subsection (a)(1) regarding compliance described in subsection (a)(2)(A) ora claim described in subsection (a)(2)(B), if the Secretary determines there is insufficient information to determine, or that the person has provided incorrect information as to, the country of origin of any such good.
 
 #### (e) Publication of name of person
 
@@ -76,5 +76,5 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 #### Proc. No. 7987. To Implement the Dominican Republic-Central America-United States Free Trade Agreement
 
-Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10827, provided in par. (5) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under this section to suspend or deny preferential tariff treatment to textile or apparel goods; to detain textile or apparel goods; and to deny entry to textile or apparel goods.
+Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10829, provided in par. (5) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President's authority under this section to suspend or deny preferential tariff treatment to textile or apparel goods; to detain textile or apparel goods; and to deny entry to textile or apparel goods.
 

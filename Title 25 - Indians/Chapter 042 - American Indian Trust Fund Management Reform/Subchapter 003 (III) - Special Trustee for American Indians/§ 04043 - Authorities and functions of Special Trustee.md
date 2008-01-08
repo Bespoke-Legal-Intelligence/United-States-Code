@@ -20,7 +20,7 @@
 
 #### (1) General oversight of reform efforts
 
-&emsp;The Special Trustee shall oversee all reform efforts within the Bureau, the Bureau of Land Management, and the Minerals Management Service relating to the trust responsibilities ofthe Secretary to ensure the establishment of policies, procedures, systems and practices to allow the Secretary to discharge his trust responsibilities in compliance with this chapter.
+&emsp;The Special Trustee shall oversee all reform efforts within the Bureau, the Bureau of Land Management, and the Minerals Management Service relating to the trust responsibilities of the Secretary to ensure the establishment of policies, procedures, systems and practices to allow the Secretary to discharge his trust responsibilities in compliance with this chapter.
 
 #### (2) Bureau of Indian Affairs
 
@@ -124,10 +124,6 @@ The Special Trustee shall report to the Secretary and the Committee on Natural R
 
 1996—Subsec. (c)(5)(D). Pub. L. 104–109 substituted “subparagraph (C)” for “paragraph (3)(B)”.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Lands Title Report Commission
 
 Pub. L. 106–569, title V, §501, Dec. 27, 2000, 114 Stat. 2959, provided that:
@@ -190,7 +186,7 @@ Duties.—The Commission shall analyze the system of the Bureau of Indian Affair
 
 “(e)
 
-Report.—Not later than the date of the termination of the Commission under subsection (h), theCommission shall submit a report to the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate describing the analysis and determinations made pursuant to subsection (d).
+Report.—Not later than the date of the termination of the Commission under subsection (h), the Commission shall submit a report to the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate describing the analysis and determinations made pursuant to subsection (d).
 
 “(f)
 

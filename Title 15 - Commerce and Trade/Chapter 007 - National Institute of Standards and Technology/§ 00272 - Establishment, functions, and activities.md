@@ -2,11 +2,11 @@
 
 #### (a) Establishment of National Institute of Standards and Technology
 
-There is established within the Department of Commerce a science, engineering, technology,and measurement laboratory to be known as the National Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
+There is established within the Department of Commerce a science, engineering, technology, and measurement laboratory to be known as the National Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
 
 #### (b) Functions of Secretary and Institute
 
-The Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) acting through the Director of the Institute (hereafter in this chapter referred to as the “Director”) and, if appropriate, through other officials, is authorized to take all actions necessary and appropriate to accomplish the purposes of this chapter, including the following functions of the Institute—
+The Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) acting through the Director of the Institute (hereafter in this chapter referred to as the “Director”) is authorized to take all actions necessary and appropriate to accomplish the purposes of this chapter, including the following functions of the Institute—
 
 &emsp;(1) to assist industry in the development of technology and procedures needed to improve quality, to modernize manufacturing processes, to ensure product reliability, manufacturability, functionality, and cost-effectiveness, and to facilitate the more rapid commercialization, especially by small- and medium-sized companies throughout the United States, of products based on new scientific discoveries in fields such as automation, electronics, advanced materials, biotechnology, and optical technologies;
 
@@ -14,7 +14,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the “Secre
 
 &emsp;(3) to compare standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government and to coordinate the use by Federal agencies of private sector standards, emphasizing where possible the use of standards developed by private, consensus organizations;
 
-&emsp;(4) to enter into contracts, including cooperative research and development arrangements, in furtherance of the purposes of this chapter;
+&emsp;(4) to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;
 
 &emsp;(5) to provide United States industry, Government, and educational institutions with a national clearinghouse of current information, techniques, and advice for the achievement of higher quality and productivity based on current domestic and international scientific and technical development;
 
@@ -36,7 +36,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the “Secre
 
 #### (c) Implementation activities
 
-In carrying out the functions specified in subsection (b) of this section, the Secretary, acting through the Director and, if appropriate, through other appropriate officials, may, among other things—
+In carrying out the functions specified in subsection (b) of this section, the Secretary, acting through the Director <sup>1</sup> may, among other things—
 
 &emsp;(1) construct physical standards;
 
@@ -62,7 +62,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 &emsp;(12) develop and test standard interfaces, communication protocols, and data structures for computer and related telecommunications systems;
 
-&emsp;(13) study computer systems (as that term is defined in section 278g–3(d) <sup>1</sup> of this title) and their use to control machinery and processes;
+&emsp;(13) study computer systems (as that term is defined in section 278g–3(d) <sup>2</sup> of this title) and their use to control machinery and processes;
 
 &emsp;(14) perform research to develop standards and test methods to advance the effective use of computers and related systems and to protect the information stored, processed, and transmitted by such systems and to provide advice in support of policies affecting Federal computer and related telecommunications systems;
 
@@ -86,13 +86,19 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k, 278<i>l</i>, and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute's management of these programs.
 
-(Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782.)
+(Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782; Pub. L. 110–69, title III, §§3002(c)(2)(A), 3013(b), Aug. 9, 2007, 121 Stat. 586, 598.)
 
 #### References in Text
 
 Section 278g–3 of this title, referred to in subsec. (c)(13), was amended, and no longer defines the term “computer systems”.
 
 #### Amendments
+
+2007—Subsec. (b). Pub. L. 110–69, §3002(c)(2)(A)(i), struck out “and, if appropriate, through other officials,” before “is authorized” in introductory provisions.
+
+Subsec. (b)(4). Pub. L. 110–69, §3013(b), inserted “and grants and cooperative agreements,” after “arrangements,”.
+
+Subsec. (c). Pub. L. 110–69, §3002(c)(2)(A)(ii), struck out “and, if appropriate, through other appropriate officials,” before “may,” in introductory provisions.
 
 1996—Subsec. (b)(2). Pub. L. 104–113, §12(a)(1), struck out “, including comparing standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government” after “consistent with those standards”.
 
@@ -140,7 +146,7 @@ Reports.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 1998\], and annually thereafter, the Director of the NationalInstitute of Standards and Technology shall prepare and submit to the President a report. The President shall submit the report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
+In general.—Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 1998\], and annually thereafter, the Director of the National Institute of Standards and Technology shall prepare and submit to the President a report. The President shall submit the report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
 
 &emsp;&emsp;“(B)
 
@@ -184,13 +190,13 @@ Program.—The Secretary, acting through the Director of the National Institute 
 
 “(b)
 
-Long-Term Plan.—No later than June 30, 1989, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a long-term plan for assistance under this section for each nation or group of nations which annually has imports of at least $1,000,000,000 from the United States (or has the potential for being a major importer from the United States) and which desires such assistance. The plan shall include a description of the resources needed to provide such assistance, the appropriate and likely sources of such funds, and the appropriate relationship between the program established under this section and private sector standards organizations. Special consideration is to be given to the feasibility of establishing a data base and other methods for making standards information developed in cooperation with one country available to other countries.”
+Long-Term Plan.—No later than June 30, 1989, the Secretary shall submit to the Committee on Science, Space, and Technology \[now Committee onScience and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a long-term plan for assistance under this section for each nation or group of nations which annually has imports of at least $1,000,000,000 from the United States (or has the potential for being a major importer from the United States) and which desires such assistance. The plan shall include a description of the resources needed to provide such assistance, the appropriate and likely sources of such funds, and the appropriate relationship between the program established under this section and private sector standards organizations. Special consideration is to be given to the feasibility of establishing a data base and other methods for making standards information developed in cooperation with one country available to other countries.”
 
 #### Initial Organization Plan for Institute
 
-Section 5112(d) of Pub. L. 100–418 provided that:
+Pub. L. 100–418, title V, §5112(d), Aug. 23, 1988, 102 Stat. 1431, provided that:
 
-“(1) At least 60 days before its effective date and within 120 days after the date of the enactment of this Act \[Aug. 23, 1988\], an initial organization plan for the National Institute of Standards and Technology (hereafter in this part \[see Short Title of 1988 Amendment note set out under section 271 of this title\] referred to as the ‘Institute’) shall be submitted by the Director of the Institute (hereafter in this part referred to as the ‘Director’) after consultation with the Visiting Committee on Advanced Technology, to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. Such plan shall—
+“(1) At least 60 days before its effective date and within 120 days after the date of the enactment of this Act \[Aug. 23, 1988\], an initial organization plan for the National Institute of Standards and Technology (hereafter in this part \[see Short Title of 1988 Amendment note set out under section 271 of this title\] referred to as the ‘Institute’) shall be submitted by the Director of the Institute (hereafter in this part referred to as the ‘Director’) after consultation with the Visiting Committee on Advanced Technology, to the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. Such plan shall—
 
 &emsp;“(A) establish the major operating units of the Institute;
 
@@ -198,7 +204,7 @@ Section 5112(d) of Pub. L. 100–418 provided that:
 
 &emsp;“(C) provide details of a 2-year program for the Institute, including the Advanced Technology Program;
 
-&emsp;“(D) provide details regarding how the Institute will expand and fund the Inventions program in accordance with section 27 of the Act of March 3, 1901 \[15 U.S.C. 278m\]; and
+&emsp;“(D) provide details regarding how the Institute will expand and fund the Inventions program in accordance with section 27 of the Act of March 3, 1901 \[former 15 U.S.C. 278m\]; and
 
 &emsp;“(E) make no changes in the Center for Building Technology or the Center for Fire Research.
 
@@ -208,7 +214,7 @@ Section 5112(d) of Pub. L. 100–418 provided that:
 
 #### National Institute of Standards and Technology; Small Business Plan
 
-Section 5163(b) of Pub. L. 100–418 provided that: “The Director of the National Institute of Standards and Technology shall prepare a plan detailing the manner in which the Institute will make small businesses more aware of the Institute's activities and research, and themanner in which the Institute will seek to increase the application by small businesses of the Institute's research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Aug. 23, 1988\].”
+Pub. L. 100–418, title V, §5163(b), Aug. 23, 1988, 102 Stat. 1450, provided that: “The Director of the National Institute of Standards and Technology shall prepare a plan detailing the manner in which the Institute will make small businesses more aware of the Institute's activities and research, and the manner in which the Institute will seek to increase the application by small businesses of the Institute's research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology \[now Committee on Science and Technology\] of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Aug. 23, 1988\].”
 
 #### Construction of Radio Laboratory Building
 
@@ -218,5 +224,7 @@ Act Oct. 25, 1949, ch. 703, 63 Stat. 886, provided for the construction and equi
 
 Act Oct. 25, 1949, ch. 728, 63 Stat. 905, provided for the construction and equipment of a research laboratory building, suitable for use as a guided-missile laboratory, together with necessary utilities and appurtenances thereto, under a limit of cost of $1,900,000, for the National Bureau of Standards.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

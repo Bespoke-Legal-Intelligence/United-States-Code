@@ -20,7 +20,7 @@ Unless the Committee on International Relations and the Committee on Appropriati
 
 #### (b) Final 15 days in which funds available
 
-Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.
+Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which suchfunds are available unless notice of such reprogramming is made before such period.
 
 #### (c) Waiver
 
@@ -43,4 +43,8 @@ Subsec. (c). Pub. L. 105–277, §2243(2), added subsec. (c).
 1991—Subsec. (a)(7). Pub. L. 102–138 substituted “$500,000” for “$250,000”.
 
 1987—Pub. L. 100–204 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

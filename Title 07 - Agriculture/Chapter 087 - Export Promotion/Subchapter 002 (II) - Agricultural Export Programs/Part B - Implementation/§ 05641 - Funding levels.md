@@ -8,7 +8,7 @@ The Commodity Credit Corporation may make available for each fiscal year such fu
 
 #### (1) Export credit guarantees
 
-&emsp;The Commodity Credit Corporation shall make available for each of fiscal years 1996 through 2007 not less than $5,500,000,000 in credit guarantees under subsections (a) and (b) of section 5622 of this title.
+&emsp;The Commodity Credit Corporation shall make available for each of fiscal years 1996through 2007 not less than $5,500,000,000 in credit guarantees under subsections (a) and (b) of section 5622 of this title.
 
 #### (2) Limitation on origination fee
 

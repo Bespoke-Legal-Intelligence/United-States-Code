@@ -12,7 +12,7 @@ The Customs Service shall, under rules and regulations prescribed by the Secreta
 
 &emsp;(e) give or transmit, pursuant to an electronic data interchange system, notice of such liquidation to the importer, his consignee, or agent in such form and manner as the Secretary shall by regulation prescribe.
 
-(June 17, 1930, ch. 497, title IV, §500, 46 Stat. 729; Aug. 2, 1956, ch. 887, §4(b), 70 Stat. 948; Pub. L.91–271, title II, §204(a), June 2, 1970, 84 Stat. 283; Pub. L. 96–39, title II, §202(a)(4), July 26, 1979, 93 Stat. 202; Pub. L. 103–182, title VI, §638, Dec. 8, 1993, 107 Stat. 2203.)
+(June 17, 1930, ch. 497, title IV, §500, 46 Stat. 729; Aug. 2, 1956, ch. 887, §4(b), 70 Stat. 948; Pub. L. 91–271, title II, §204(a), June 2, 1970, 84 Stat. 283; Pub. L. 96–39, title II, §202(a)(4), July 26, 1979, 93 Stat. 202; Pub. L. 103–182, title VI, §638, Dec. 8, 1993, 107 Stat. 2203.)
 
 #### Prior Provisions
 
@@ -64,11 +64,11 @@ Amendment by Pub. L. 96–39 effective July 1, 1980, see section 204(a) of Pub. 
 
 #### Effective Date of 1970 Amendment
 
-Section 203 of Pub. L. 91–271 provided that: “Titles II and III of this Act \[see Short Title of 1970 Amendment note set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has not become final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970.”
+Section 203 of Pub. L. 91–271 provided that: “Titles II and III of this Act \[see Short Title of 1970 Amendmentnote set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has not become final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970.”
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, toSecretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 

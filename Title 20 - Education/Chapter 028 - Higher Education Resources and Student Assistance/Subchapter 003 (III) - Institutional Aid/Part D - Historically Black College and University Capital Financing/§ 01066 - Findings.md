@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(4) due to their small enrollments, limited endowments and other financial factors normally considered by lenders in construction financing, historically Black colleges and universities often lack access to the sources of funding necessary to undertake the necessary capital improvements through borrowing and bond financing;
 
-&emsp;(5) despite their track record of long-standing and remarkable institutional longevity and viability, historically Black colleges and universities often lack the financial resources necessary to gain access to traditional sources of capital financing such as bank loans and bond financing; and
+&emsp;(5) despite their track record of long-standing and remarkable institutional longevity and viability, historically Black colleges and universities often lack the financial resources necessary to gain access to traditional sourcesof capital financing such as bank loans and bond financing; and
 
 &emsp;(6) Federal assistance to facilitate low-cost capital basis for historically Black colleges and universities will enable such colleges and universities to continue and expand their educational mission and enhance their significant role in American higher education.
 

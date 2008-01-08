@@ -4,9 +4,9 @@
 
 #### (1) Professional requirements
 
-&emsp;The Secretary shall ensure that each Head Start classroom in a center-based program is assigned one teacher who has demonstrated competency to perform functions that include—
+&emsp;The Secretary shall ensure that each Head Start classroom in a center-based program is assigned 1 teacher who has demonstrated competency to perform functions that include—
 
-&emsp;&emsp;(A) planning and implementing learning experiences that advance the intellectual and physical development of children, including improving the readiness of children for school by developing their literacy and phonemic, print, and numeracy awareness, their understanding and use of language, their understanding and use of increasingly complex and varied vocabulary, their appreciation of books, and their problem solving abilities;
+&emsp;&emsp;(A) planning and implementing learning experiences that advance the intellectual and physical development of children, including improving the readiness of children for school by developing their literacy, phonemic, and print awareness, their understanding and use of language, their understanding and use of increasingly complex and varied vocabulary, their appreciation of books, their understanding of early math and early science, their problem-solving abilities, and their approaches to learning;
 
 &emsp;&emsp;(B) establishing and maintaining a safe, healthy learning environment;
 
@@ -16,41 +16,115 @@
 
 #### (2) Degree requirements
 
-#### (A) In general
+#### (A) Head Start teachers
 
-&emsp;&emsp;The Secretary shall ensure that not later than September 30, 2003, at least 50 percent of all Head Start teachers nationwide in center-based programs have—
+&emsp;&emsp;The Secretary shall ensure that not later than September 30, 2013, at least 50 percent of Head Start teachers nationwide in center-based programs have—
 
-&emsp;&emsp;&emsp;(i) an associate, baccalaureate, or advanced degree in early childhood education; or
+&emsp;&emsp;&emsp;(i) a baccalaureate or advanced degree in early childhood education; or
 
-&emsp;&emsp;&emsp;(ii) an associate, baccalaureate, or advanced degree in a field related to early childhood education, with experience in teaching preschool children.
+&emsp;&emsp;&emsp;(ii) a baccalaureate or advanced degree and coursework equivalent to a major relating to early childhood education, with experience teaching preschool-age children.
 
-#### (B) Progress
+#### (B) Additional staff
 
-&emsp;&emsp;The Secretary shall require Head Start agencies to demonstrate continuing progress each year to reach the result described in subparagraph (A).
+&emsp;&emsp;The Secretary shall ensure that, not later than September 30, 2013, all—
 
-#### (3) Alternative credentialing requirements
+&emsp;&emsp;&emsp;(i) Head Start education coordinators, including those that serve as curriculum specialists, nationwide in center-based programs—
 
-&emsp;The Secretary shall ensure that, for center-based programs, each Head Start classroom that does not have a teacher that meets the requirements of clause (i) or (ii) of paragraph (2)(A) is assigned one teacher who has—
+&emsp;&emsp;&emsp;&emsp;(I) have the capacity to offer assistance to other teachers in the implementation and adaptation of curricula to the group and individual needs of children in a Head Start classroom; and
 
-&emsp;&emsp;(A) a child development associate credential that is appropriate to the age of the children being served in center-based programs;
+&emsp;&emsp;&emsp;&emsp;(II) have—
 
-&emsp;&emsp;(B) a State-awarded certificate for preschool teachers that meets or exceeds the requirements for a child development associate credential; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a baccalaureate or advanced degree in early childhood education; or
 
-&emsp;&emsp;(C) a degree in a field related to early childhood education with experience in teaching preschool children and a State-awarded certificate to teach in a preschool program.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a baccalaureate or advanced degree and coursework equivalent to a major relating to early childhood education, with experience teaching preschool-age children; and
+
+&emsp;&emsp;&emsp;(ii) Head Start teaching assistants nationwide in center-based programs have—
+
+&emsp;&emsp;&emsp;&emsp;(I) at least a child development associate credential;
+
+&emsp;&emsp;&emsp;&emsp;(II) enrolled in a program leading to an associate or baccalaureate degree; or
+
+&emsp;&emsp;&emsp;&emsp;(III) enrolled in a child development associate credential program to be completed within 2 years.
+
+#### (C) Progress
+
+#### (i) Implementation
+
+&emsp;&emsp;&emsp;The Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) require Head Start agencies to—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) describe continuing progress each year toward achieving the goals described in subparagraphs (A) and (B); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) annually submit to the Secretary a report indicating the number and percentage of classroom personnel described in subparagraphs (A) and (B)in center-based programs with child development associate credentials or associate, baccalaureate, or advanced degrees;
+
+&emsp;&emsp;&emsp;&emsp;(II) compile and submit a summary of all program reports described in subclause (I)(bb) to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate; and
+
+&emsp;&emsp;&emsp;&emsp;(III) not impose any penalties or sanctions on any individual Head Start agency, program, or staff in the monitoring of local agencies and programs under this subchapter not meeting the requirements of subparagraph (A) or (B).
+
+#### (D) Construction
+
+&emsp;&emsp;In this paragraph a reference to a Head Start agency, or its program, services, facility, or personnel, shall not be considered to be a reference to an Early Head Start agency, or its program, services, facility, or personnel.
+
+#### (3) Alternative credentialing and degree requirements
+
+&emsp;The Secretary shall ensure that, for center-based programs, each Head Start classroom that does not have a teacher who meets the qualifications described in clause (i) or (ii) of paragraph (2)(A) is assigned one teacher who has the following during the period specified:
+
+&emsp;&emsp;(A) Through September 30, 2011—
+
+&emsp;&emsp;&emsp;(i) a child development associate credential that is appropriate to the age of children being served in center-based programs;
+
+&emsp;&emsp;&emsp;(ii) a State-awarded certificate for preschool teachers that meets or exceeds the requirements for a child development associate credential;
+
+&emsp;&emsp;&emsp;(iii) an associate degree in early childhood education;
+
+&emsp;&emsp;&emsp;(iv) an associate degree in a related field and coursework equivalent to a major relating to early childhood education, with experience teaching preschool-age children; or
+
+&emsp;&emsp;&emsp;(v) a baccalaureate degree and has been admitted into the Teach For America program, passed a rigorous early childhood content exam, such as the Praxis II, participated in a Teach For America summer training institute that includes teaching preschool children, and is receiving ongoing professional development and support from Teach For America's professional staff.
+
+&emsp;&emsp;(B) As of October 1, 2011—
+
+&emsp;&emsp;&emsp;(i) an associate degree in early childhood education;
+
+&emsp;&emsp;&emsp;(ii) an associate degree in a related field and coursework equivalent to a major relating to early childhood education, with experience teaching preschool-age children; or
+
+&emsp;&emsp;&emsp;(iii) a baccalaureate degree and has been admitted into the Teach For America program, passed a rigorous early childhood content exam, such as the Praxis II, participated in a Teach For America summer training institute that includes teaching preschool children, and is receiving ongoing professional development and support from Teach For America's professional staff.
 
 #### (4) Waiver
 
-#### (A) In general
+&emsp;On request, the Secretary shall grant—
 
-&emsp;&emsp;On request, the Secretary shall grant a 180-day waiver of the requirements of paragraph (3), for a Head Start agency that can demonstrate that the agency has unsuccessfully attempted to recruit an individual who has a credential, certificate, or degree described in paragraph (3), with respect to an individual who—
+&emsp;&emsp;(A) through September 30, 2011, a 180-day waiver ending on or before September 30, 2011, of the requirements of paragraph (3)(A) for a Head Start agency that can demonstrate that the agency has attempted unsuccessfully to recruit an individual who has the qualifications described in any of clauses (i) through (iv) of paragraph (3)(A) with respect to an individual who—
 
-&emsp;&emsp;&emsp;(i) is enrolled in a program that grants any such credential, certificate, or degree; and
+&emsp;&emsp;&emsp;(i) is enrolled in a program that grants a credential, certificate, or degree described in clauses (i) through (iv) of paragraph (3)(A); and
 
-&emsp;&emsp;&emsp;(ii) will receive such credential, certificate, or degree under the terms of such program not later than 180 days after beginning employment as a teacher with such agency.
+&emsp;&emsp;&emsp;(ii) will receive such credential, certificate, or degree under the terms of such program not later than 180 days after beginning employment as a teacher with such agency; and
 
-#### (B) Limitation
+&emsp;&emsp;(B) as of October 1, 2011, a 3-year waiver of the requirements of paragraph (3)(B) for a Head Start agency that can demonstrate that—
 
-&emsp;&emsp;The Secretary may not grant more than one such waiver with respect to such individual.
+&emsp;&emsp;&emsp;(i) the agency has attempted unsuccessfully to recruit an individual who has the qualifications described in clause (i) or (ii) of such paragraph, with respect to an individual who is enrolled in a program that grants a degree described in clause (i) or (ii) of such paragraph and will receive such degree in a reasonable time; and
+
+&emsp;&emsp;&emsp;(ii) each Head Start classroom has a teacher who has, at a minimum—
+
+&emsp;&emsp;&emsp;&emsp;(I) a child development associate credential that is appropriate to the age of children being served in center-based programs; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a State-awarded certificate for preschool teachers that meets or exceeds the requirements for a child development associate credential.
+
+#### (5) Teacher in-service requirement
+
+&emsp;Each Head Start teacher shall attend not less than 15 clock hours of professional development per year. Such professional development shall be high-quality, sustained, intensive, and classroom-focused in order to have a positive and lasting impact on classroom instruction and the teacher's performance in the classroom, and regularly evaluated by the program for effectiveness.
+
+#### (6) Service requirements
+
+&emsp;The Secretary shall establish requirements to ensure that, in order to enable Head Start agencies to comply with the requirements of paragraph (2)(A), individuals who receive financial assistance under this subchapter to pursue a degree described in paragraph (2)(A) shall—
+
+&emsp;&emsp;(A) teach or work in a Head Start program for a minimum of 3 years after receiving the degree; or
+
+&emsp;&emsp;(B) repay the total or a prorated amount of the financial assistance received based on the length of service completed after receiving the degree.
+
+#### (7) Use of funds
+
+&emsp;The Secretary shall require that any Federal funds provided directly or indirectly to comply with paragraph (2)(A) shall be used toward degrees awarded by an institution of higher education, as defined by section 1001 or 1002 of title 20.
 
 #### (b) Mentor teachers
 
@@ -72,13 +146,17 @@
 
 #### (c) Family service workers
 
-In order to improve the quality and effectiveness of staff providing in-home and other services (including needs assessment, development of service plans, family advocacy, and coordination of service delivery) to families of children participating in Head Start programs, the Secretary, in coordination with concerned public and private agencies and organizations examining the issues of standards and training for family service workers, shall—
+To improve the quality and effectiveness of staff providing in-home and other services (including needs assessment, development of service plans, family advocacy, and coordination of service delivery) to families of children participating in Head Start programs, the Secretary, in coordination with concerned public and private agencies and organizations examining the issues of standards and training for family service workers, shall—
 
-&emsp;(1) review and, as necessary, revise or develop new qualification standards for Head Start staff providing such services;
+&emsp;(1) review, and, as necessary, revise or develop new qualification standards for Head Start staff providing such services;
 
-&emsp;(2) promote the development of model curricula (on subjects including parenting training and family literacy) designed to ensure the attainment of appropriate competencies by individuals working or planning to work in the field of early childhood and family services; and
+&emsp;(2) review, and as necessary, revise or develop maximum caseload requirements, as suggested by best practices;
 
-&emsp;(3) promote the establishment of a credential that indicates attainment of the competencies and that is accepted nationwide.
+&emsp;(3) promote the development of model curricula (on subjects including parenting training and family literacy) designed to ensure the attainment of appropriate competencies by individuals working or planning to work in the field of early childhood and family services;
+
+&emsp;(4) promote the establishment of a credential that indicates attainment of the competencies and that is accepted nationwide; and
+
+&emsp;(5) promote the use of appropriate strategies to meet the needs of special populations (including populations of limited English proficient children).
 
 #### (d) Head Start Fellowships
 
@@ -96,7 +174,7 @@ In order to improve the quality and effectiveness of staff providing in-home and
 
 &emsp;&emsp;Fellowship positions under the fellowship program may be located (subject to subparagraphs (B) and (C))—
 
-&emsp;&emsp;&emsp;(i) in agencies of the Department of Health and Human Services administeringprograms authorized under this subchapter (in national or regional offices of such agencies);
+&emsp;&emsp;&emsp;(i) in agencies of the Department of Health and Human Services administering programs authorized under this subchapter (in national or regional offices of such agencies);
 
 &emsp;&emsp;&emsp;(ii) in local Head Start agencies and programs;
 
@@ -112,7 +190,7 @@ In order to improve the quality and effectiveness of staff providing in-home and
 
 #### (C) No placement in lobbying organizations
 
-&emsp;&emsp;Head Start Fellowship positions may not be located in any agency whose primary purpose, or one of whose major purposes, is to influence Federal, State, or local legislation.
+&emsp;&emsp;Head Start Fellowship positions may not be located in any agency (including a center) whose primary purpose, or one of whose major purposes, is to influence Federal, State, or local legislation.
 
 #### (4) Selection of Fellows
 
@@ -124,7 +202,7 @@ In order to improve the quality and effectiveness of staff providing in-home and
 
 #### (6) Authorized expenditures
 
-&emsp;From amounts appropriated under this subchapter and allotted under section 9835(a)(2)(D) of this title, the Secretary is authorized to make expenditures of not to exceed $1,000,000 for any fiscal year, for stipends and other reasonable expenses of the fellowship program.
+&emsp;From amounts made available under section 9835(a)(2)(E) of this title, the Secretary is authorized to make expenditures of not to exceed $1,000,000 for any fiscal year, for stipends and other reasonable expenses of the fellowship program.
 
 #### (7) Status of Fellows
 
@@ -138,9 +216,45 @@ In order to improve the quality and effectiveness of staff providing in-home and
 
 Not later than 1 year after May 18, 1994, the Secretary, in consultation with appropriate public agencies, private agencies, and organizations and with individuals with expertise in the field of children and family services, shall develop model staffing plans to provide guidance to local Head Start agencies and programs on the numbers, types, responsibilities, and qualifications of staff required to operate a Head Start program.
 
-(Pub. L. 97–35, title VI, §648A, as added Pub. L. 103–252, title I, §115, May 18, 1994, 108 Stat. 643; amended Pub. L. 105–285, title I, §115, Oct. 27, 1998, 112 Stat. 2722.)
+#### (f) Professional development plans
+
+Each Head Start agency and program shall create, in consultation with an employee, a professional development plan for all full-time Head Start employees who provide direct services to children and shall ensure that such plans are regularly evaluated for their impact on teacher and staff effectiveness. The agency and the employee shall implement the plan to the extent feasible and practicable.
+
+#### (g) Staff recruitment and selection procedures
+
+Before a Head Start agency employs an individual, such agency shall—
+
+&emsp;(1) conduct an interview of such individual;
+
+&emsp;(2) verify the personal and employment references provided by such individual; and
+
+&emsp;(3) obtain—
+
+&emsp;&emsp;(A) a State, tribal, or Federal criminal record check covering all jurisdictions where the grantee provides Head Start services to children;
+
+&emsp;&emsp;(B) a State, tribal, or Federal criminal record check as required by the law of the jurisdiction where the grantee provides Head Start services; or
+
+&emsp;&emsp;(C) a criminal record check as otherwise required by Federal law.
+
+(Pub. L. 97–35, title VI, §648A, as added Pub. L. 103–252, title I, §115, May 18, 1994, 108 Stat. 643; amended Pub. L. 105–285, title I, §115, Oct. 27, 1998, 112 Stat. 2722; Pub. L. 110–134, §19, Dec. 12, 2007, 121 Stat. 1430.)
 
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 110–134, §19(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to qualification and development requirements for Head Start teachers in center-based programs and gave Secretary limited authority to waive alternative credentialing requirements.
+
+Subsec. (c). Pub. L. 110–134, §19(2), amended subsec. (c) generally. Prior to amendment, text of subsec. (c) read as follows: “In order to improve the quality and effectiveness of staff providing in-home and other services (including needs assessment, development of service plans, family advocacy, and coordination of service delivery) to families of children participating in Head Start programs, the Secretary, in coordination with concerned public and private agencies and organizations examining the issues of standards and training for family service workers, shall—
+
+&emsp;“(1) review and, as necessary, revise or develop new qualification standards for Head Start staff providing such services;
+
+&emsp;“(2) promote the development of model curricula (on subjects including parenting training and family literacy) designed to ensure the attainment of appropriate competencies by individuals working or planning to work in the field of early childhood and family services; and
+
+&emsp;“(3) promote the establishment of a credential that indicates attainment of the competencies and that is accepted nationwide.”
+
+Subsec. (d)(3)(C). Pub. L. 110–134, §19(3)(A), inserted “(including a center)” after “agency”.
+
+Subsec. (d)(6). Pub. L. 110–134, §19(3)(B), substituted “amounts made available under section 9835(a)(2)(E) of this title” for “amounts appropriated under this subchapter and allotted under section 9835(a)(2)(D) of this title”.
+
+Subsecs. (f), (g). Pub. L. 110–134, §19(4), added subsecs. (f) and (g).
 
 1998—Subsec. (a). Pub. L. 105–285, §115(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) required Secretary to ensure that not later than Sept. 30, 1996, each Head Start classroom in a center-based program was assigned a teacher with certain specified credentials and gave Secretary limited authority to waive that requirement.
 

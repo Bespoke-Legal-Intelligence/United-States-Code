@@ -4,6 +4,10 @@ All provisions of law that prohibit the collection of entrance, admission, or ot
 
 (Pub. L. 88–578, title I, §11, formerly §10, as added Pub. L. 90–401, §1(a), July 15, 1968, 82 Stat. 354; renumbered §11, Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459.)
 
+#### References in Text
+
+This part, referred to in text, was in the original “this Act”, meaning Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which is classified principally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+
 #### Codification
 
 In addition to the text set out in the section above, the original contained provisions directing the repeal of section 14 of this title and the deletion of “, without charge,” in the sentence of section 460d of this title beginning “The water areas of all such projects shall be open to public use generally”. The repeals and deletions called for by those provisions were executed as thus directed so that those provisions have been omitted from the text as executed.

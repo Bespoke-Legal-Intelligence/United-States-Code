@@ -2,7 +2,7 @@
 
 #### (a) Willful or repeated violation
 
-Any employer who willfully or repeatedly violates the requirements of section 654 of thistitle, any standard, rule, or order promulgated pursuant to section 655 of this title, or regulations prescribed pursuant to this chapter may be assessed a civil penalty of not more than $70,000 for each violation, but not less than $5,000 for each willful violation.
+Any employer who willfully or repeatedly violates the requirements of section 654 of this title, any standard, rule, or order promulgated pursuant to section 655 of this title, or regulations prescribed pursuant to this chapter may be assessed a civil penalty of not more than $70,000 for each violation, but not less than $5,000 for each willful violation.
 
 #### (b) Citation for serious violation
 
@@ -18,7 +18,7 @@ Any employer who fails to correct a violation for which a citation has been issu
 
 #### (e) Willful violation causing death to employee
 
-Any employer who willfully violates any standard, rule, or order promulgated pursuant to section 655 of this title, or of any regulations prescribed pursuant to this chapter, and that violation caused death to any employee, shall, upon conviction, be punished by a fine of not more than $10,000 or by imprisonment for not more than six months, or by both; except that if the conviction is for a violation committed after a first conviction of such person, punishment shall be by a fine of not more than $20,000 or by imprisonment for not more than one year, or by both.
+Any employer who willfully violates any standard, rule, or order promulgated pursuant to section 655 of this title, or of any regulations prescribed pursuant to this chapter, and that violation caused death to any employee, shall, upon conviction, be punished by a fine of not more than $10,000 or by imprisonment for not more than six months, or by both; except that if the conviction is for a violation committed after a first conviction of such person, punishmentshall be by a fine of not more than $20,000 or by imprisonment for not more than one year, or by both.
 
 #### (f) Giving advance notice of inspection
 

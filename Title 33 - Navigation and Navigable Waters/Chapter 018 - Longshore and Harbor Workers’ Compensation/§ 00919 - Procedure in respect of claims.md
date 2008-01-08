@@ -18,7 +18,7 @@ Notwithstanding any other provisions of this chapter, any hearing held under thi
 
 #### (e) Filing and mailing of order rejecting claim or making award
 
-The order rejecting the claim or making the award (referred to in this chapter as a compensation order) shall be filed in the office of the deputy commissioner, and a copy thereof shall be sent by registered mail or by certified mail to the claimant and to the employer at the last known address of each.
+The order rejecting the claim or making the award (referred to in this chapter as a compensation order) shall be filed in the office of the deputy commissioner, and a copy thereof shallbe sent by registered mail or by certified mail to the claimant and to the employer at the last known address of each.
 
 #### (f) Awards after death of employee
 
@@ -26,7 +26,7 @@ An award of compensation for disability may be made after the death of an injure
 
 #### (g) Transfer of case
 
-At any time after a claim has been filed with him, the deputy commissioner may, with the approval of the Secretary, transfer such case toany other deputy commissioner for the purpose of making investigation, taking testimony, making physical examinations or taking such other necessary action therein as may be directed.
+At any time after a claim has been filed with him, the deputy commissioner may, with the approval of the Secretary, transfer such case to any other deputy commissioner for the purpose of making investigation, taking testimony, making physical examinations or taking such other necessary action therein as may be directed.
 
 #### (h) Physical examination of injured employee
 

@@ -20,7 +20,7 @@
 
 #### (4) Commission determination
 
-&emsp;Notwithstanding any provision of the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\] or title II ofthe Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], if a majority of the Commissioners issues an affirmative report under paragraph (1), the Commission, upon the written request of the Trade Representative, shall issue a determination in connection with the particular proceeding that would render the Commission's action described in paragraph (1) not inconsistent with the findings of the panel or Appellate Body. The Commission shall issue its determination not later than 120 days after the request from the Trade Representative is made.
+&emsp;Notwithstanding any provision of the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\] or title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], if a majority of the Commissioners issues an affirmative report under paragraph (1), the Commission, upon the written request of the Trade Representative, shall issue a determination in connection with the particular proceeding that would render the Commission's action described in paragraph (1) not inconsistent with the findings of the panel or Appellate Body. The Commission shall issue its determination not later than 120 days after the request from the Trade Representative is made.
 
 #### (5) Consultations on implementation of Commission determination
 
@@ -28,7 +28,7 @@
 
 #### (6) Revocation of order
 
-&emsp;If, by virtue of the Commission's determination under paragraph (4), an antidumping or countervailing duty order with respect to some or all of the imports that are subject to the action of the Commission described in paragraph (1) is no longer supported by an affirmative Commission determination under title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] or this subsection, the Trade Representative may, after consulting with the congressional committees under paragraph (5), direct the administering authority to revoke the antidumping or countervailing duty order in whole or in part.
+&emsp;If, by virtue of the Commission's determination under paragraph (4), an antidumping or countervailing duty order with respect to some or all of the imports that are subject to the action of the Commission described in paragraph (1) is no longer supported by an affirmative Commission determination under title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] or this subsection, the Trade Representative may, after consulting with thecongressional committees under paragraph (5), direct the administering authority to revoke the antidumping or countervailing duty order in whole or in part.
 
 #### (b) Action by administering authority
 
@@ -78,5 +78,5 @@ The Trade Act of 1974, referred to in subsecs. (a)(1), (4) and (c)(2)(B), is Pub
 
 #### Codification
 
-Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e) of section 129 of Pub. L. 103–465amended sections 2254 and 1516a, respectively, of this title.
+Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e) of section 129 of Pub. L. 103–465 amended sections 2254 and 1516a, respectively, of this title.
 

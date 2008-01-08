@@ -44,7 +44,7 @@ Offset for Amount of Dependency and Indemnity Compensation.—
 
 &emsp;(1)
 
-Required offset.—If, upon the death of a person to whom section 1448 of this title applies, the surviving spouse or former spouse of that person is also entitled to dependency andindemnity compensation under section 1311(a) of title 38, the surviving spouse or former spouse may be paid an annuity under this section, but only in the amount that the annuity otherwise payable under this section would exceed that compensation.
+Required offset.—If, upon the death of a person to whom section 1448 of this title applies, the surviving spouse or former spouse of that person is also entitled to dependency and indemnity compensation under section 1311(a) of title 38, the surviving spouse or former spouse may be paid an annuity under this section, but only in the amount that the annuity otherwise payable under this section would exceed that compensation.
 
 &emsp;(2)
 
@@ -98,7 +98,7 @@ Limitation on change in beneficiary when former spouse coverage in effect.—A p
 
 &emsp;&emsp;(B) In a case of a written agreement that has not been incorporated in or ratified or approved by a court order, the person—
 
-&emsp;&emsp;&emsp;(i) furnishes to the Secretary concerned a statement, in such form as the Secretary concerned may prescribe, signed by the former spouse and evidencing the former spouse's agreement to a change in the election under paragraph (1); and
+&emsp;&emsp;&emsp;(i) furnishes to the Secretary concerned a statement, in such form as the Secretary concerned may prescribe, signed by theformer spouse and evidencing the former spouse's agreement to a change in the election under paragraph (1); and
 
 &emsp;&emsp;&emsp;(ii) certifies to the Secretary concerned that the statement is current and in effect.
 
@@ -118,7 +118,7 @@ Request from former spouse.—A written request, in such manner as the Secretary
 
 Copy of court order or other official statement.—Either—
 
-&emsp;&emsp;&emsp;&emsp;(I) a copy of the court order, regular on its face, which requires such election orincorporates, ratifies, or approves the written agreement of such person; or
+&emsp;&emsp;&emsp;&emsp;(I) a copy of the court order, regular on its face, which requires such election or incorporates, ratifies, or approves the written agreement of such person; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a statement from the clerk of the court (or other appropriate official) that such agreement has been filed with the court in accordance with applicable State law.
 
@@ -200,7 +200,7 @@ General rule.—A surviving spouse or former spouse whose annuity is readjusted 
 
 &emsp;&emsp;(B)
 
-Interest required if repayment not a lump sum.—If the repayment is not made in a lump sum, the surviving spouse or former spouse shall pay interest on the amount to be repaid. Such interest shall commence on the date on which the first such payment is due and shall be applied over the period during which any part of the repayment remains to be paid.
+Interest required if repayment not a lump sum.—If the repayment is not made in a lump sum, the surviving spouse or former spouse shall pay interest on the amount to be repaid. Such interest shall commence on the date on which the first such payment isdue and shall be applied over the period during which any part of the repayment remains to be paid.
 
 &emsp;&emsp;(C)
 
@@ -372,7 +372,7 @@ Subsec. (f)(2). Pub. L. 98–94, §941(c)(3)(B), substituted “or annulment,”
 
 1982—Subsec. (a)(4). Pub. L. 97–252, §1003(c), substituted “former spouse or other natural person” for “natural person” and “unless the election to provide an annuity to the former spouse or other natural person has been changed as provided in subsection (f)” for “if there is no eligible beneficiary under clause (1) or clause (2)”.
 
-Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted “A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection,” for “An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,”, inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
+Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted “A person whoelects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection,” for “An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,”, inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
 
 1981—Subsec. (d). Pub. L. 97–22 substituted “Office of Personnel Management” for “Civil Service Commission”.
 

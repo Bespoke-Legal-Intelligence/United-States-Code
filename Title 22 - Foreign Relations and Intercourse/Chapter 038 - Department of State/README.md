@@ -88,6 +88,7 @@
 | [2704\.](%C2%A7%2002704%20-%20Subsistence%20expenses.md) | Subsistence expenses. |
 | [2705\.](%C2%A7%2002705%20-%20Documentation%20of%20citizenship.md) | Documentation of citizenship. |
 | [2706\.](%C2%A7%2002706%20-%20Reprograming%20of%20funds%3B%20notice%20requirements.md) | Reprograming of funds; notice requirements. |
+| [2706a.](%C2%A7%2002706a%20-%20Rewards%20payments.md) | Rewards payments. |
 | [2707\.](%C2%A7%2002707%20-%20International%20communications%20and%20information%20policy%3B%20duties%20of%20Secretary%20of%20State.md) | International communications and information policy; duties of Secretary of State. |
 | [2708\.](%C2%A7%2002708%20-%20Department%20of%20State%20rewards%20program.md) | Department of State rewards program. |
 | [2708a.](%C2%A7%2002708a%20-%20Award%20of%20Thomas%20Jefferson%20Star%20for%20Foreign%20Service.md) | Award of Thomas Jefferson Star for Foreign Service. |
@@ -214,6 +215,7 @@
 - [&sect; 02704 - Subsistence expenses](%C2%A7%2002704%20-%20Subsistence%20expenses.md)
 - [&sect; 02705 - Documentation of citizenship](%C2%A7%2002705%20-%20Documentation%20of%20citizenship.md)
 - [&sect; 02706 - Reprograming of funds; notice requirements](%C2%A7%2002706%20-%20Reprograming%20of%20funds%3B%20notice%20requirements.md)
+- [&sect; 02706a - Rewards payments](%C2%A7%2002706a%20-%20Rewards%20payments.md)
 - [&sect; 02707 - International communications and information policy; duties of Secretary of State](%C2%A7%2002707%20-%20International%20communications%20and%20information%20policy%3B%20duties%20of%20Secretary%20of%20State.md)
 - [&sect; 02708 - Department of State rewards program](%C2%A7%2002708%20-%20Department%20of%20State%20rewards%20program.md)
 - [&sect; 02708a - Award of Thomas Jefferson Star for Foreign Service](%C2%A7%2002708a%20-%20Award%20of%20Thomas%20Jefferson%20Star%20for%20Foreign%20Service.md)

@@ -26,7 +26,7 @@ A nominated area shall be eligible for designation under section 1391 only if it
 
 &emsp;&emsp;(A) does not exceed 20 square miles if an urban area or 1,000 square miles if a rural area,
 
-&emsp;&emsp;(B) has a boundary which is continuous, or, except in the case of a rural area locatedin more than 1 State, consists of not more than 3 noncontiguous parcels,
+&emsp;&emsp;(B) has a boundary which is continuous, or, except in the case of a rural area located in more than 1 State, consists of not more than 3 noncontiguous parcels,
 
 &emsp;&emsp;(C)(i) in the case of an urban area, is located entirely within no more than 2 contiguous States, and
 

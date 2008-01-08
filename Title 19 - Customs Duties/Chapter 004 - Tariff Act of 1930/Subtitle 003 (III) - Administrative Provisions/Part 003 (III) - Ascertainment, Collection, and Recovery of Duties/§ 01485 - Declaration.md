@@ -18,7 +18,7 @@ The Secretary of the Treasury is authorized to prescribe regulations for one dec
 
 #### (c) Agents
 
-In the event that an entry is made by an agent under the provisions of section 1484 of this title and such agent is not in possession of such declaration of the importer of record, such agent shall give a bond to produce such declaration.
+In the event that an entry is made by an agent under the provisions of section 1484 of this titleand such agent is not in possession of such declaration of the importer of record, such agent shall give a bond to produce such declaration.
 
 #### (d) Liability of importer of record for increased duties
 
@@ -30,7 +30,7 @@ The Secretary of the Treasury shall prescribe separate forms for the declaration
 
 #### (f) Deceased or insolvent persons; partnerships and corporations
 
-Whenever such merchandise is consigned to a deceased person, or to an insolvent person whohas assigned the same for the benefit of his creditors, the executor or administrator, or the assignee of such person or trustee in a case under title 11, shall be considered as the importer of record; when consigned to a partnership the declaration of one of the partners only shall be required, and when consigned to a corporation such declaration may be made by any officer of such corporation. Whether the importer of record is an individual, a partnership, or a corporation, the declaration may be made by any person who has knowledge of the facts and who is specifically authorized by such individual, a member of such partnership, or an officer of such corporation to make such declaration.
+Whenever such merchandise is consigned to a deceased person, or to an insolvent person who has assigned the same for the benefit of his creditors, the executor or administrator, or the assignee of such person or trustee in a case under title 11, shall be considered as the importer of record; when consigned to a partnership the declaration of one of the partners only shall be required, and when consigned to a corporation such declaration may be made by any officer of such corporation. Whether the importer of record is an individual, a partnership, or a corporation, the declaration may be made by any person who has knowledge of the facts and who is specifically authorized by such individual, a member of such partnership, or an officer of such corporation to make such declaration.
 
 #### (g) Exported merchandise returned as undeliverable
 

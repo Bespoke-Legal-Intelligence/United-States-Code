@@ -34,7 +34,3 @@ Pub. L. 96–205 substituted “Energy and Natural Resources” for “Interior 
 
 1978—Subsec. (a). Pub. L. 95–625 authorized appropriation of $2,250,000 in fiscal year 1980.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

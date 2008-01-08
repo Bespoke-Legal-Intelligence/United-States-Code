@@ -1,6 +1,6 @@
 ### §735. Marking pierheads in certain lakes
 
-The Commandant of the Coast Guard shall properly mark all pierheads belonging to the United States situated on the northern and northwestern lakes, whenever he is duly notified by the department charged with the construction or repair of pierheads that the construction or repair of any such pierheads has been completed.
+The Commandant of the Coast Guard shall properly mark all pierheads belonging to theUnited States situated on the northern and northwestern lakes, whenever he is duly notified by the department charged with the construction or repair of pierheads that the construction or repair of any such pierheads has been completed.
 
 (R.S. §4677; June 17, 1910, ch. 301, §§6, 13, 36 Stat. 538, 539; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Aug. 4, 1949, ch. 393, §§1, 20, 63 Stat. 496, 561.)
 

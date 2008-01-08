@@ -56,7 +56,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (1) Regulated lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with theFinancial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Director or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Director or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
 
 #### (2) Federal agency lenders
 
@@ -82,7 +82,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (2) Purchase of coverage on behalf of borrower
 
-&emsp;If the borrower fails to purchase such flood insurance within 45 days after notification under paragraph (1), the lender or servicer for the loan shall purchase the insurance on behalf of the borrower and may charge the borrower for the cost of premiums and fees incurred by the lender or servicer for the loan in purchasing the insurance.
+&emsp;If the borrower fails to purchase such flood insurance within 45 days after notificationunder paragraph (1), the lender or servicer for the loan shall purchase the insurance on behalf of the borrower and may charge the borrower for the cost of premiums and fees incurred by the lender or servicer for the loan in purchasing the insurance.
 
 #### (3) Review of determination regarding required purchase
 
@@ -150,7 +150,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (8) Deposit of penalties
 
-&emsp;Any penalties collected under this subsection shall be paid into the National Flood Mitigation Fund under section 1367 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4104d\].
+&emsp;Any penalties collected under this subsection shall be paid into the National FloodMitigation Fund under section 1367 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4104d\].
 
 #### (9) Additional penalties
 
@@ -214,7 +214,7 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 Subsec. (a). Pub. L. 103–325, §582(c), struck out “, during the anticipated economic or useful life of the project,” before “covered by flood insurance” and inserted at end “The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.”
 
-Subsec. (b). Pub. L. 103–325, §522(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions shall by regulation direct such institutions not to make, increase, extend, or renew after the expiration of sixty days following December 31, 1973, any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or to the maximum limit of coverage made available with respect to the particular type of property under the Act, whichever is less.”
+Subsec. (b). Pub. L. 103–325, §522(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions shall by regulation direct such institutions not to make, increase, extend, or renew after the expiration of sixty days following December 31, 1973, any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or to themaximum limit of coverage made available with respect to the particular type of property under the Act, whichever is less.”
 
 Subsec. (c). Pub. L. 103–325, §522(b), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 

@@ -2,7 +2,7 @@
 
 #### (a) General
 
-Every person liable to any tax imposed by this chapter, or for the collection thereof, shall keepsuch records, render such statements, make such returns, and comply with such rules and regulations as the Secretary may prescribe.
+Every person liable to any tax imposed by this chapter, or for the collection thereof, shall keep such records, render such statements, make such returns, and comply with such rules and regulations as the Secretary may prescribe.
 
 #### (b) Authority to waive
 

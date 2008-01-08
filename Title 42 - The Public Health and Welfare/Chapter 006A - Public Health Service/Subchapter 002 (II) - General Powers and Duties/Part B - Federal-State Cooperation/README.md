@@ -54,6 +54,7 @@ Part B—Federal-State Cooperation
 - [&sect; 00247d&#8211;3b - Partnerships for State and regional hospital preparedness to improve surge capacity](%C2%A7%2000247d%E2%80%933b%20-%20Partnerships%20for%20State%20and%20regional%20hospital%20preparedness%20to%20improve%20surge%20capacity.md)
 - [&sect; 00247d&#8211;4 - Revitalizing the Centers for Disease Control and Prevention](%C2%A7%2000247d%E2%80%934%20-%20Revitalizing%20the%20Centers%20for%20Disease%20Control%20and%20Prevention.md)
 - [&sect; 00247d&#8211;5 - Combating antimicrobial resistance](%C2%A7%2000247d%E2%80%935%20-%20Combating%20antimicrobial%20resistance.md)
+- [&sect; 00247d&#8211;5a - Identification of clinically susceptible concentrations of antimicrobials](%C2%A7%2000247d%E2%80%935a%20-%20Identification%20of%20clinically%20susceptible%20concentrations%20of%20antimicrobials.md)
 - [&sect; 00247d&#8211;6 - Public health countermeasures to a bioterrorist attack](%C2%A7%2000247d%E2%80%936%20-%20Public%20health%20countermeasures%20to%20a%20bioterrorist%20attack.md)
 - [&sect; 00247d&#8211;6a - Authority for use of certain procedures regarding qualified countermeasure research and development activities](%C2%A7%2000247d%E2%80%936a%20-%20Authority%20for%20use%20of%20certain%20procedures%20regarding%20qualified%20countermeasure%20research%20and%20development%20activities.md)
 - [&sect; 00247d&#8211;6b - Strategic National Stockpile and security countermeasure procurements](%C2%A7%2000247d%E2%80%936b%20-%20Strategic%20National%20Stockpile%20and%20security%20countermeasure%20procurements.md)

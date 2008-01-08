@@ -12,7 +12,7 @@ A company shall be eligible to apply to participate, as a New Markets Venture Ca
 
 #### (b) Application
 
-To participate, as a New Markets Venture Capital company, in the program establishedunder this part a company meeting the eligibility requirements set forth in subsection (a) of this section shall submit an application to the Administrator that includes—
+To participate, as a New Markets Venture Capital company, in the program established under this part a company meeting the eligibility requirements set forth in subsection (a) of this section shall submit an application to the Administrator that includes—
 
 &emsp;(1) a business plan describing how the company intends to make successful developmental venture capital investments in identified low-income geographic areas;
 
@@ -34,7 +34,7 @@ To participate, as a New Markets Venture Capital company, in the program establi
 
 #### (1) In general
 
-&emsp;From among companies submitting applications under subsection (b) of this section, the Administrator shall, in accordance with this subsection, conditionally approval <sup>1</sup> companies to participate in the New Markets Venture Capital Program.
+&emsp;From among companies submitting applications under subsection (b) of this section, the Administrator shall, in accordance with this subsection, conditionally approval <sup>1</sup> companiesto participate in the New Markets Venture Capital Program.
 
 #### (2) Selection criteria
 
@@ -90,7 +90,7 @@ The Administrator shall grant each conditionally approved company a period of ti
 
 &emsp;&emsp;&emsp;&emsp;(III) that yields cash payments over a multiyear period acceptable to the Administrator (not to exceed 10 years) in an amount not less than 30 percent of the total amount of capital and commitments raised under paragraph (1); or
 
-&emsp;&emsp;&emsp;(iii) shall have binding commitments (for contributions in cash or in kind) of the type described in clause (i) and shall have purchased an annuity of the type described in clause (ii), which in the aggregate make available, over a multiyear period acceptable to the Administrator (not to exceed 10years), an amount not less than 30 percent of the total amount of capital and commitments raised under paragraph (1).
+&emsp;&emsp;&emsp;(iii) shall have binding commitments (for contributions in cash or in kind) of the type described in clause (i) and shall have purchased an annuity of the type described in clause (ii), which in the aggregate make available, over a multiyear period acceptable to the Administrator (not to exceed 10 years), an amount not less than 30 percent of the total amount of capital and commitments raised under paragraph (1).
 
 #### (B) Exception
 

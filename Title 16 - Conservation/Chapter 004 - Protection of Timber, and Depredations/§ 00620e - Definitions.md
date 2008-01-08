@@ -30,7 +30,7 @@ Northwestern private timber open market area.—The term “northwestern private
 
 &emsp;&emsp;(C) held by any Native Corporation as defined in section 1602 of title 43.
 
-&emsp;(7) The term “public lands” means lands west of the 100th meridian in the contiguous 48States, that are held or owned by a State or political subdivision thereof, or any other public agency. Such term does not include any lands the title to which is—
+&emsp;(7) The term “public lands” means lands west of the 100th meridian in the contiguous 48 States, that are held or owned by a State or political subdivision thereof, or any other public agency. Such term does not include any lands the title to which is—
 
 &emsp;&emsp;(A) held by the United States;
 
@@ -68,7 +68,7 @@ Northwestern private timber open market area.—The term “northwestern private
 
 &emsp;&emsp;(ix) Pulp logs, cull logs, and incidental volumes of grade 3 and 4 sawlogs processed at domestic pulp mills, domestic chip plants, or other domestic operations for the primary purpose of conversion of the logs into chips, or to the extent that a small quantity of such logs are processed, into other products at domestic processing facilities.
 
-&emsp;(10) The acquisition of unprocessed timber from Federal lands west of the 100th meridian in the contiguous 48 States to be used in “substitution” for exported unprocessed timber originating from private lands means acquiring unprocessed timber from such Federal lands and engaging in exporting, or selling for export, unprocessed timber originating from private lands within the same geographic and economic area.
+&emsp;(10) The acquisition of unprocessed timber from Federal lands west of the 100th meridian in the contiguous 48 States to be used in “substitution” for exported unprocessed timber originating from private lands means acquiring unprocessed timber from such Federal lands and engaging in exporting, or selling forexport, unprocessed timber originating from private lands within the same geographic and economic area.
 
 &emsp;(11)
 

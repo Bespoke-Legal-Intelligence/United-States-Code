@@ -14,7 +14,7 @@ If 1 or more taxable terminations with respect to the same trust occur at the sa
 
 #### (d) Reduction for consideration provided by transferee
 
-For purposes of this chapter, the value of the property transferred shall be reduced by theamount of any consideration provided by the transferee.
+For purposes of this chapter, the value of the property transferred shall be reduced by the amount of any consideration provided by the transferee.
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2721.)
 

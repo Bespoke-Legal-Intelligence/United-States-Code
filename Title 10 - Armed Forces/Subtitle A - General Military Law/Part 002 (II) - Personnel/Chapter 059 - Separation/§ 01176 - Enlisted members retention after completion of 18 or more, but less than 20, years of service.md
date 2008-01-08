@@ -2,7 +2,7 @@
 
 (a)
 
-Regular Members.—A regular enlisted member who is selected to be involuntarily separated, or whose term of enlistment expires and who is denied reenlistment, and who on the date on which the member is to be discharged is within two years of qualifying for retirement under section 3914 or 8914 of this title, or of qualifying for transfer to the Fleet Reserve or Fleet Marine Corps Reserve under section 6330 of this title, shall be retained on active duty untilthe member is qualified for retirement or transfer to the Fleet Reserve or Fleet Marine Corps Reserve, as the case may be, unless the member is sooner retired or discharged under any other provision of law.
+Regular Members.—A regular enlisted member who is selected to be involuntarily separated, or whose term of enlistment expires and who is denied reenlistment, and who on the date on which the member is to be discharged is within two years of qualifying for retirement under section 3914 or 8914 of this title, or of qualifying for transfer to the Fleet Reserve or Fleet Marine Corps Reserve under section 6330 of this title, shall be retained on active duty until the member is qualified for retirement or transfer to the Fleet Reserve or Fleet Marine Corps Reserve, as the case may be, unless the member is sooner retired or discharged under any other provision of law.
 
 (b)
 
@@ -35,6 +35,4 @@ Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that se
 #### Effective Date of 1993 Amendment
 
 Section 562(b) of Pub. L. 103–160 provided that: “Subsection (b) of section 1176 of title 10, United States Code, as added by subsection (a), shall take effect as of October 23, 1992.”
-
-§1177
 

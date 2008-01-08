@@ -140,7 +140,7 @@ Copies of each notice required to be served on a management official under this 
 
 &emsp;&emsp;Upon the filing of a petition under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) the court shall have jurisdiction, which, upon the filing of the record under subparagraph (C), shall be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Administrator, except as provided in the last sentence of paragraph (3)(B);
+&emsp;&emsp;&emsp;(i) the court shall have jurisdiction, which, upon the filing of the record under subparagraph (C), shall be exclusive, to affirm, modify, terminate, or set aside, inwhole or in part, the order of the Administrator, except as provided in the last sentence of paragraph (3)(B);
 
 &emsp;&emsp;&emsp;(ii) review of such proceedings shall be had as provided in chapter 7 of title 5; and
 

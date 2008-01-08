@@ -1,10 +1,10 @@
 ### §6316. Administration, penalties, enforcement, and preemption
 
-(a) The provisions of section 6296(a), (b), and (d) of this title, the provisions of subsections (<i>l</i>) through (s) of section 6295 of this title, and section <sup>1</sup> 6297 through 6306 of this title shall apply with respect to this part (other than the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(1) of this title) to thesame extent and in the same manner as they apply in part A of this subchapter. In applying such provisions for the purposes of this part—
+(a) The provisions of section 6296(a), (b), and (d) of this title, the provisions of subsections (<i>l</i>) through (s) of section 6295 of this title, and section <sup>1</sup> 6297 through 6306 of this title shall apply with respect to this part (other than the equipment specified in subparagraphs (B) through (G) of section 6311(1) of this title) to the same extent and in the same manner as they apply in part A. In applying such provisions for the purposes of this part—
 
 &emsp;(1) references to sections 6293, 6294, and 6295 of this title shall be considered as references to sections 6314, 6315, and 6313 of this title, respectively;
 
-&emsp;(2) references to “this part” shall be treated as referring to part A–1 of this subchapter;
+&emsp;(2) references to “this part” shall be treated as referring to part A–1;
 
 &emsp;(3) the term “equipment” shall be substituted for the term “product”;
 
@@ -20,7 +20,7 @@
 
 &emsp;(9) in the case of commercial clothes washers, section 6297(b)(1) of this title shall be applied as if the National Appliance Energy Conservation Act of 1987 was the Energy Policy Act of 2005.
 
-(b)(1) The provisions of section 6296(a), (b), and (d) of this title, section 6297(a) of this title, and sections 6298 through 6306 of this title shall apply with respect to the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(1) of this title to the same extent and in the same manner as they apply in part A of this subchapter. In applying such provisions for the purposes of such equipment, paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall apply.
+(b)(1) The provisions of section 6295(p)(5) <sup>2</sup> of this title, section 6296(a), (b), and (d) of this title, section 6297(a) of this title, and sections 6298 through 6306 of this title shall apply with respect to the equipment specified in subparagraphs (B) through (G) of section 6311(1) of this title to the same extent and in the same manner as they apply in part A.<sup>3</sup> In applying such provisions for the purposes of such equipment, paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall apply.
 
 (2)(A) A standard prescribed or established under section 6313(a) of this title shall, beginning on the effective date of such standard, supersede any State or local regulation concerning the energy efficiency or energy use of a product for which a standard is prescribed or established pursuant to such section.
 
@@ -36,19 +36,19 @@
 
 (c) With respect to any electric motor to which standards are applicable under section 6313(b) of this title, the Secretary shall require manufacturers to certify, through an independent testing or certification program nationally recognized in the United States, that such motor meets the applicable standard.
 
-(d)(1) Except as provided in paragraphs (2) and (3), section 6297 of this title shall apply with respect to very large commercial package air conditioning and heating equipment to the same extent and in the same manner as section 6297 of this title applies under part A of this subchapter on August 8, 2005.
+(d)(1) Except as provided in paragraphs (2) and (3), section 6297 of this title shall apply with respect to very large commercial package air conditioning and heating equipment to the same extent and in the same manner as section 6297 of this title applies under part A <sup>3</sup> on August 8, 2005.
 
 (2) Any State or local standard issued before August 8, 2005, shall not be preempted until the standards established under section 6313(a)(9) of this title take effect on January 1, 2010.
 
-(e)(1)(A) Subsections (a), (b), and (d) of section 6296 of this title, subsections (m) through (s) of section 6295 of this title, and sections 6298 through 6306 of this title shall apply with respect to commercial refrigerators, freezers, and refrigerator-freezers to the same extent and in the same manner as those provisions apply under part A of this subchapter.
+(e)(1)(A) Subsections (a), (b), and (d) of section 6296 of this title, subsections (m) through (s) of section 6295 of this title, and sections 6298 through 6306 of this title shall apply with respect to commercial refrigerators, freezers, and refrigerator-freezers to the same extent and in the same manner as those provisions apply under part A.<sup>3</sup>
 
 (B) In applying those provisions to commercial refrigerators, freezers, and refrigerator-freezers, paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall apply.
 
-(2)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under paragraphs (2) and (3) of section 6313(c) of this title to the same extent and in the same manner as those provisions apply under part A of this subchapter on August 8, 2005, except that any State or local standard issued before August 8, 2005, shall not be preempted until the standards established under paragraphs (2) and (3) of section 6313(c) of this title take effect.
+(2)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under paragraphs (2) and (3) of section 6313(c) of this title to the same extent and in the same manner as those provisions apply under part A <sup>3</sup> on August 8, 2005, except that any State or local standard issued before August 8, 2005, shall not be preempted until the standards established under paragraphs (2) and (3) of section 6313(c) of this title take effect.
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
-(3)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under section 6313(c)(4) of this title to the same extent and in the same manner as the provisions apply under part A of this subchapter on the date of publication of the final rule by the Secretary, except that any State or local standard issued before the date of publication of the final rule by the Secretary shall not be preempted until the standards take effect.
+(3)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under section 6313(c)(4) of this title to the same extent and in the same manner as the provisions apply under part A <sup>3</sup> on the date of publication of the final rule by the Secretary, except that any State or local standard issued before the date of publication of the final rule by the Secretary shall not be preempted until the standards take effect.
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
@@ -62,13 +62,13 @@
 
 (C) As part of certification, information on equipment energy use and interior volume shall be made available to the Secretary.
 
-(f)(1)(A)(i) Except as provided in clause (ii), section 6297 of this title shall apply to automatic commercial ice makers for which standards have been established under section 6313(d)(1) of this title to the same extent and in the same manner as the section applies under part A of this subchapter on August 8, 2005.
+(f)(1)(A)(i) Except as provided in clause (ii), section 6297 of this title shall apply to automatic commercial ice makers for which standards have been established under section 6313(d)(1) of this title to the same extent and in the same manner as the section applies under part A <sup>3</sup> on August 8, 2005.
 
 (ii) Any State standard issued before August 8, 2005, shall not be preempted until the standards established under section 6313(d)(1) of this title take effect.
 
 (B) In applying section 6297 of this title to the equipment under subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
-(2)(A)(i) Except as provided in clause (ii), section 6297 of this title shall apply to automatic commercial ice makers for which standards have been established under section 6313(d)(2) of this title to the same extent and in the same manner as the section applies under part A of this subchapter on the date of publication of the final rule by the Secretary.
+(2)(A)(i) Except as provided in clause (ii), section 6297 of this title shall apply to automatic commercial ice makers for which standards have been established under section 6313(d)(2) of this title to the same extent and in the same manner as the section applies under part A <sup>3</sup> on the date of publication of the final rule by the Secretary.
 
 (ii) Any State standard issued before the date of publication of the final rule by the Secretary shall not be preempted until the standards established under section 6313(d)(2) of this title take effect.
 
@@ -88,7 +88,51 @@
 
 (2) The Secretary shall undertake an educational program to inform owners of laundromats, multifamily housing, and other sites where commercial clothes washers are located about the new standard, including impacts on washer purchase costs and options for recovering those costs through coin collection.
 
-(Pub. L. 94–163, title III, §345, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3272; amended Pub. L. 102–486, title I, §122(e), Oct. 24, 1992, 106 Stat. 2815; Pub. L. 105–388, §5(a)(7), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §136(h), Aug. 8, 2005, 119 Stat. 643.)
+(h)
+
+Walk-in coolers and walk-in freezers.—
+
+&emsp;(1)
+
+Covered types.—
+
+&emsp;&emsp;(A)
+
+Relationship to other law.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Except as otherwise provided in this subsection, section 6297 of this title shall apply to walk-in coolers and walk-in freezers for which standards have been established under paragraphs (1), (2), and (3) of section 6313(f) of this title to the same extent and in the same manner as the section applies under part A <sup>3</sup> on December 19, 2007.
+
+&emsp;&emsp;&emsp;(ii)
+
+State standards.—Any State standard prescribed before December 19, 2007, shall not be preempted until the standards established under paragraphs (1) and (2) of section 6313(f) of this title take effect.
+
+&emsp;&emsp;(B)
+
+Administration.—In applying section 6297 of this title to equipment under subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) shall apply.
+
+&emsp;(2)
+
+Final rule not timely.—
+
+&emsp;&emsp;(A)
+
+In general.—If the Secretary does not issue a final rule for a specific type of walk-in cooler or walk-in freezer within the timeframe established under paragraph (4) or (5) of section 6313(f) of this title, subsections (b) and (c) of section 6297 of this title shall no longer apply to the specific type of walk-in cooler or walk-in freezer during the period—
+
+&emsp;&emsp;&emsp;(i) beginning on the day after the scheduled date for a final rule; and
+
+&emsp;&emsp;&emsp;(ii) ending on the date on which the Secretary publishes a final rule covering the specific type of walk-in cooler or walk-in freezer.
+
+&emsp;&emsp;(B)
+
+State standards.—Any State standard issued before the publication of the final rule shall not be preempted until the standards established in the final rule take effect.
+
+&emsp;(3)
+
+California.—Any standard issued in the State of California before January 1, 2011, under title 20 of the California Code of Regulations, that refers to walk-in coolers and walk-in freezers, for which standards have been established under paragraphs (1), (2), and (3) of section 6313(f) of this title, shall not be preempted until the standards established under section 6313(f)(3) of this title take effect.
+
+(Pub. L. 94–163, title III, §345, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3272; amended Pub. L. 102–486, title I, §122(e), Oct. 24, 1992, 106 Stat. 2815; Pub. L. 105–388, §5(a)(7), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §136(h), Aug. 8, 2005, 119 Stat. 643; Pub. L. 110–140, title III, §§308(b), 312(e), Dec. 19, 2007, 121 Stat. 1561, 1567.)
 
 #### References in Text
 
@@ -96,15 +140,23 @@ The National Appliance Energy Conservation Act of 1987, referred to in subsec. (
 
 The Energy Policy Act of 1992, referred to in subsec. (a)(5), (6), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
-The Energy Policy Act of 2005, referred to in subsec. (a)(9), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594. Forcomplete classification of this Act to the Code, see Short Title note set out under section 15801 of this title and Tables.
+The Energy Policy Act of 2005, referred to in subsec. (a)(9), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of this title and Tables.
 
 The National Appliance Energy Conservation Amendments of 1988, referred to in subsec. (a)(6), is Pub. L. 100–357, June 28, 1988, 102 Stat. 671. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 6201 of this title and Tables.
 
+The references to “part A” in subsecs. (b)(1), (d)(1), (e)(1)(A), (2)(A), (3)(A), (f)(1)(A)(i), (2)(A)(i), and (h)(1)(A)(i) are shown in those subsecs. as they appear in the original Act. Those references in the original probably should have been to “part B”, meaning part B of title III of Pub. L. 94–163, which is classified generally to part A of this subchapter.
+
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 110–140, §312(e)(1), substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), (E), and (F)” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 110–140, §§308(b), 312(e)(1), inserted “section 6295(p)(5) of this title,” after “The provisions of” and substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), (E), and (F)”.
+
+Subsec. (h). Pub. L. 110–140, §312(e)(2), added subsec. (h).
 
 2005—Subsec. (a)(9). Pub. L. 109–58, §136(h)(1), added par. (9).
 
-Subsec. (b)(1). Pub. L. 109–58, §136(h)(2), substituted “part A” for “part B”.
+Subsec. (b)(1). Pub. L. 109–58, §136(h)(2), substituted “part A” for “part B”, which for purposes of codification had been translated as “part A” thus requiring no change in text.
 
 Subsecs. (d) to (g). Pub. L. 109–58, §136(h)(3), added subsecs. (d) to (g).
 
@@ -120,5 +172,13 @@ Subsec. (a)(5) to (8). Pub. L. 102–486, §122(e)(1)(C)–(E), added pars. (5) 
 
 Subsecs. (b), (c). Pub. L. 102–486, §122(e)(2), added subsecs. (b) and (c).
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>2</sup></i><i> So in original. Section 6295(p) of this title does not contain a par. (5).</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ In all cases of seizure of any goods, wares, or merchandise as being subject to 
 
 #### (4) Sale in absence of bond
 
-&emsp;If no claim is interposed and no bond is given within the time above specified, the Secretary shall give reasonable notice of the sale of the goods, wares, or merchandise by publication, and, at the time and place specified in the notice, shall, unless otherwise provided by law, sell the articles so seized at public auction, or upon competitive bids, in accordance with such regulations as may be prescribed by the Secretary.
+&emsp;If no claim is interposed and no bond is given within the time above specified, the Secretary shall give reasonable notice of the saleof the goods, wares, or merchandise by publication, and, at the time and place specified in the notice, shall, unless otherwise provided by law, sell the articles so seized at public auction, or upon competitive bids, in accordance with such regulations as may be prescribed by the Secretary.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 870; Pub. L. 85–859, title II, §204(10), (12), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 85–866, title I, §78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1566(a), (b), Oct. 22, 1986, 100 Stat. 2763.)
 

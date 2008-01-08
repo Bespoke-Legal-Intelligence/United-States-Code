@@ -74,7 +74,7 @@ The Director for Emergency Communications shall coordinate—
 
 #### Codification
 
-Another section 1801 of Pub. L. 107–296 is classified to section 591 of this title.
+Another section 1801 of Pub. L. 107–296 was renumbered section 1901 and is classified to section 591 of this title.
 
 #### Change of Name
 

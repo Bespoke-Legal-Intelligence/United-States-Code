@@ -62,5 +62,5 @@ A prior section 5116e, Pub. L. 93–247, title II, §206, formerly Pub. L. 98–
 
 Subsec. (a)(3)(B). Pub. L. 108–36, §126(2), inserted “voluntary home visiting and” after “including”.
 
-Subsec. (a)(6). Pub. L. 108–36, §126(3), added par. (6) and struck out former par. (6) which read as follows: “participate with other community-based, prevention-focused, family resource and support program grantees in the development, operation and expansion of the Statewide network.”
+Subsec. (a)(6). Pub. L. 108–36, §126(3), added par. (6) and struck out former par. (6) which read as follows: “participate with other community-based, prevention-focused, family resource and support program granteesin the development, operation and expansion of the Statewide network.”
 

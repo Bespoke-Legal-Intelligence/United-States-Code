@@ -36,7 +36,7 @@ Advance payments under subsection (a) of this section may be made only upon adeq
 
 #### (f) Conditions for payments for commercial items
 
-(1) Payments under subsection (a) of this section for commercial items may be made under such terms and conditions as the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the executive agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
+(1) Payments under subsection (a) of this section for commercial items may be made undersuch terms and conditions as the head of the executive agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the executive agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
 
 (2) Advance payments made under subsection (a) of this section for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
@@ -52,7 +52,7 @@ Advance payments under subsection (a) of this section may be made only upon adeq
 
 (4) A written justification for each decision of the head of an executive agency whether to reduce or suspend payments under paragraph (2), and for each recommendation received by the executive agency in connection with such decision, shall be prepared and be retained in the files of the executive agency.
 
-(5) The head of each executive agency shall prescribe procedures to ensure that, before thehead of the executive agency decides to reduce or suspend payments in the case of a contractor under paragraph (2), the contractor is afforded notice of the proposed reduction or suspension and an opportunity to submit matters to the executive agency in response to such proposed reduction or suspension.
+(5) The head of each executive agency shall prescribe procedures to ensure that, before the head of the executive agency decides to reduce or suspend payments in the case of a contractor under paragraph (2), the contractor is afforded notice of the proposed reduction or suspension and an opportunity to submit matters to the executive agency in response to such proposed reduction or suspension.
 
 (6) Not later than 180 days after the date on which the head of an executive agency reduces or suspends payments to a contractor under paragraph (2), the remedy coordination official of the executive agency shall—
 

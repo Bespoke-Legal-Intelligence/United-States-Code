@@ -42,7 +42,7 @@ Pub. L. 97–253, title I, §191, Sept. 8, 1982, 96 Stat. 787, provided that:
 
 “(b) It is the sense of the Congress that—
 
-&emsp;“(1) departments and agencies of the Federal Government should take such steps as may be necessary to distribute to hungry people of the United States surplus food or food which would otherwise be discarded;
+&emsp;“(1) departments and agencies of the Federal Government should take such steps as may be necessaryto distribute to hungry people of the United States surplus food or food which would otherwise be discarded;
 
 &emsp;“(2) State and local governments which have not yet enacted so-called Good Samaritan or donor liability laws to encourage private cooperative efforts to provide food for hungry people within their respective jurisdictions should do so as quickly as possible; and
 

@@ -42,7 +42,7 @@ Improvement of DTS-PO.—In order for the DTS-PO to better manage a fully integr
 
 “(c)
 
-Report on Improving Management.—Not later than March 31, 2000, the Director and Deputy Director of DTS-PO shall jointly submit to the Committee on International Relations and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate the Director's plan for improving network architecture, engineering, operations monitoring and control, service metrics reporting, and service provisioning, so as to achieve highly secure, reliable, and robust communications capabilities that meet the needs of both national security agencies and other United States agencies with overseas personnel.
+Report on Improving Management.—Not later than March 31, 2000, the Director and Deputy Director of DTS-PO shall jointly submit to the Committee on International Relations \[now Committee on Foreign Affairs\] and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate the Director's plan for improving network architecture, engineering, operations monitoring and control, service metrics reporting, and service provisioning, so as to achieve highly secure, reliable, and robust communications capabilities that meet the needs of both national security agencies and other United States agencies with overseas personnel.
 
 “(d)
 
@@ -50,5 +50,5 @@ Funding of DTS-PO.—Funds appropriated for allocation to DTS-PO shall be made a
 
 “(e)
 
-Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means the Committee on International Relations and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.”
+Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means the Committee on International Relations \[now Committee on Foreign Affairs\] and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.”
 

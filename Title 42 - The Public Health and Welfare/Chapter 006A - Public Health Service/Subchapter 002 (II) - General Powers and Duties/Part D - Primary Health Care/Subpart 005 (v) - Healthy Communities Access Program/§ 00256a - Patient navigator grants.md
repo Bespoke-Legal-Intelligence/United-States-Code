@@ -16,7 +16,7 @@ The Secretary shall require each recipient of a grant under this section to use 
 
 &emsp;(4) Anticipating, identifying, and helping patients to overcome barriers within the health care system to ensure prompt diagnostic and treatment resolution of an abnormal finding of cancer or other chronic disease.
 
-&emsp;(5) Coordinating with the relevant health insurance ombudsman programs to provide information to individuals who are at risk for or who have cancer or other chronic diseases about health coverage, including private insurance, health care savings accounts, and other publicly funded programs (such as Medicare, Medicaid, health programs operated by the Department of Veterans Affairs or the Department of Defense, the State children's health insurance program, and any private or governmental prescription assistance programs).
+&emsp;(5) Coordinating with the relevant health insurance ombudsman programs to provide information to individuals who are at risk for or who have cancer or other chronic diseases about health coverage, including private insurance, health care savings accounts, and other publicly funded programs (such as Medicare, Medicaid, health programs operated bythe Department of Veterans Affairs or the Department of Defense, the State children's health insurance program, and any private or governmental prescription assistance programs).
 
 &emsp;(6) Conducting ongoing outreach to health disparity populations, including the uninsured, rural populations, and other medically underserved populations, in addition to assisting other individuals who are at risk for or who have cancer or other chronic diseases to seek preventative care.
 
@@ -78,7 +78,7 @@ The Secretary shall ensure coordination of the demonstration grant program under
 
 #### (1) Final report by Secretary
 
-&emsp;Not later than 6 months after the completion of the demonstration grant program under this section, the Secretary shall conduct a study of the results of the program andsubmit to the Congress a report on such results that includes the following:
+&emsp;Not later than 6 months after the completion of the demonstration grant program under this section, the Secretary shall conduct a study of the results of the program and submit to the Congress a report on such results that includes the following:
 
 &emsp;&emsp;(A) An evaluation of the program outcomes, including—
 

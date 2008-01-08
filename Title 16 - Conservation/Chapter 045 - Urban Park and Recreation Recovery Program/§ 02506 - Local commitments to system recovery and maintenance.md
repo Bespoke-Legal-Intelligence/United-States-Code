@@ -2,7 +2,7 @@
 
 #### (a) Recovery action programs; preliminary action programs; five-year recovery action programs; continuing planning process
 
-As a requirement for project approval, local governments applying for assistance under this chapter shall submit to the Secretary evidence of their commitments to ongoing planning, rehabilitation, service, operation, and maintenance programs for their park and recreation systems. These commitments will be expressed in local park and recreation recovery action programs which maximize coordination of all community resources, including other federally supported urban development and recreation programs. During an initial interim period to be established by regulations under this chapter, this requirement may be satisfied by local government submissions of preliminary action programs which briefly define objectives, priorities, and implementation strategies for overall system recovery and maintenance and commit the applicant to a scheduled program development process. Following this interim period, all local applicants shall submit to the Secretary, as a condition of eligibility, a five-year action program for park and recreation recovery that satisfactorily demonstrate:
+As a requirement for project approval, local governments applying for assistance under this chapter shall submit to the Secretary evidence of their commitments to ongoing planning, rehabilitation, service, operation, and maintenance programs for their park and recreation systems. These commitments will be expressed in local park and recreation recovery action programs which maximize coordination of all community resources, including other federally supported urban development and recreation programs. During an initial interim period to be established by regulations under this chapter, this requirement may be satisfied by local government submissions of preliminary action programs which briefly define objectives, priorities, and implementation strategies for overall system recovery and maintenance and commit the applicant to a scheduled program development process. Following this interim period, all local applicants shall submit to the Secretary, as a condition of eligibility, a five-year action program for park and recreation recovery that satisfactorily demonstrate: <sup>1</sup>
 
 &emsp;(1) systematic identification of recovery objectives, priorities, and implementation strategies;
 
@@ -14,7 +14,7 @@ As a requirement for project approval, local governments applying for assistance
 
 &emsp;(5) the relationship of the park and recreation recovery program to overall community development and urban revitalization efforts.
 
-> Where appropriate, the Secretary may encourage local governments to meet action program requirements through a continuing planning process which includes periodic improvements and updates in action program submissions to eliminate identified gaps in program information and policy development.
+> Where appropriate, the Secretary may encourage local governments to meet action programrequirements through a continuing planning process which includes periodic improvements and updates in action program submissions to eliminate identified gaps in program information and policy development.
 
 #### (b) Recovery action program special considerations
 
@@ -39,4 +39,6 @@ The Secretary is authorized to provide up to 50 per centum matching grants to el
 #### “Secretary” Defined
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “demonstrates:”.</i>
 

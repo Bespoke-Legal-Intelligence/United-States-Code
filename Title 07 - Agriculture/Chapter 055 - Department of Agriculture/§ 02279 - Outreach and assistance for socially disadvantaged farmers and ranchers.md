@@ -190,7 +190,7 @@
 
 #### (1) Consolidated suboffice
 
-&emsp;The Secretary shall require the Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices, and such other officesand functions the Secretary may choose to include, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices. The tribe shall be required to provide the necessary office space if it wishes to participate in this program.
+&emsp;The Secretary shall require the Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices, and such other offices and functions the Secretary may choose to include, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices. The tribe shall be required to provide the necessary office space if it wishes to participate in this program.
 
 #### (2) Cooperative agreements
 
@@ -264,7 +264,7 @@ Pub. L. 105–277, div. A, §101(a) \[title VII, §741\], Oct. 21, 1998, 112 Sta
 
 &emsp;“(2) award the complainant such relief as would be afforded under the applicable statute from which the eligible complaint arose notwithstanding any statute of limitations; and
 
-&emsp;“(3) to the maximum extent practicable within 180 days after the date a determination of an eligible complaint is sought under this subsection conduct an investigation, issue a written determination and propose a resolution in accordance with this subsection.
+&emsp;“(3) to the maximum extent practicable within 180 days after the date a determination of an eligiblecomplaint is sought under this subsection conduct an investigation, issue a written determination and propose a resolution in accordance with this subsection.
 
 “(c) Notwithstanding subsections (a) and (b), if an eligible claim is denied administratively, the claimant shall have at least 180 days to commence a cause of action in a Federal court of competent jurisdiction seeking a review of such denial.
 

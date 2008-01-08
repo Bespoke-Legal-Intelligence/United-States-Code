@@ -18,7 +18,7 @@ In general.—If the Secretary accepts a certification under section 60105 and m
 
 &emsp;(2)
 
-Determinations required.—The Secretary may not enter into an agreement under this subsection, unless the Secretary determines in writing that—
+Determinations required.—The Secretary may not enter into an agreement underthis subsection, unless the Secretary determines in writing that—
 
 &emsp;&emsp;(A) the agreement allowing participation of the State authority is consistent with the Secretary's program for inspection and consistent with the safety policies and provisions provided under this chapter;
 

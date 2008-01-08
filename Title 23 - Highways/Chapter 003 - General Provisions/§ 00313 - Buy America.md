@@ -60,3 +60,7 @@ Subsec. (d). Pub. L. 109–59, §1903(c)(3), substituted “the Surface Transpor
 
 Subsec. (e) to (g). Pub. L. 109–59, §1903(c)(4), (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, Pub. L. 95–599. The second subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as added by Pub. L. 102–240, §1048(b), related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
 
+#### Buy America Waiver Notification and Annual Reports
+
+Pub. L. 110–161, div. K, title I, §130, Dec. 26, 2007, 121 Stat. 2389, provided that: “Not less than 15 days prior to waiving, under her statutory authority, any Buy America requirement for Federal-aid highway projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the Appropriations Committees of the Congress on any waivers granted under the Buy America requirements.”
+

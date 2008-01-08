@@ -18,7 +18,7 @@ Each participating jurisdiction shall annually submit to the Secretary a report 
 
 &emsp;(2) any information as the Secretary may request to assist the Secretary in evaluating the demonstration program under this subchapter; and
 
-&emsp;(3) a description and analysis of the effect of assisted activities in addressing the objectives of the demonstration program under this subchapter.
+&emsp;(3) a description and analysis of the effect of assisted activities in addressing the objectivesof the demonstration program under this subchapter.
 
 #### (c) Access to documents by Secretary and Comptroller General
 

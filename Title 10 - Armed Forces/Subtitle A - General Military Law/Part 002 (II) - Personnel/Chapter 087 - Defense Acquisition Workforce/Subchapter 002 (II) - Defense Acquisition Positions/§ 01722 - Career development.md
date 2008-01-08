@@ -6,7 +6,7 @@ Career Paths.—The Secretary of Defense, acting through the Under Secretary of 
 
 (b)
 
-Limitation on Preference for Military Personnel.—(1) The Secretary of Defense shall ensure that no requirement or preference for a member of the armed forces is used in the consideration of persons for acquisition positions, except as provided in the policy established under paragraph (2).
+Limitation on Preference for Military Personnel.—(1) The Secretary of Defense shall ensure that no requirement or preference for amember of the armed forces is used in the consideration of persons for acquisition positions, except as provided in the policy established under paragraph (2).
 
 (2)(A) The Secretary shall establish a policy permitting a particular acquisition position to be specified as available only to members of the armed forces if a determination is made, under criteria specified in the policy, that a member of the armed forces is required for that position by law, is essential for performance of the duties of the position, or is necessary for another compelling reason.
 

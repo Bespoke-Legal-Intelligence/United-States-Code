@@ -28,3 +28,4 @@
 - [&sect; 00350c - Maintenance and inspection of records](%C2%A7%2000350c%20-%20Maintenance%20and%20inspection%20of%20records.md)
 - [&sect; 00350d - Registration of food facilities](%C2%A7%2000350d%20-%20Registration%20of%20food%20facilities.md)
 - [&sect; 00350e - Sanitary transportation practices](%C2%A7%2000350e%20-%20Sanitary%20transportation%20practices.md)
+- [&sect; 00350f - Reportable food registry](%C2%A7%2000350f%20-%20Reportable%20food%20registry.md)

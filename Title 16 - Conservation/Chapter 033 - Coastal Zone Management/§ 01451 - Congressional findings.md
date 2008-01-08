@@ -10,7 +10,7 @@ The Congress finds that—
 
 (d) The habitat areas of the coastal zone, and the fish, shellfish, other living marine resources, and wildlife therein, are ecologically fragile and consequently extremely vulnerable to destruction by man's alterations.
 
-(e) Important ecological, cultural, historic, and esthetic values in the coastal zone which are essential to the well-being of all citizens are being irretrievably damaged or lost.
+(e) Important ecological, cultural, historic, and esthetic values in the coastal zone whichare essential to the well-being of all citizens are being irretrievably damaged or lost.
 
 (f) New and expanding demands for food, energy, minerals, defense needs, recreation, waste disposal, transportation, and industrial activities in the Great Lakes, territorial sea, exclusive economic zone, and Outer Continental Shelf are placing stress on these areas and are creating the need for resolution of serious conflicts among important and competing uses and values in coastal and ocean waters;
 
@@ -24,7 +24,7 @@ The Congress finds that—
 
 (k) Land uses in the coastal zone, and the uses of adjacent lands which drain into the coastal zone, may significantly affect the quality of coastal waters and habitats, and efforts to control coastal water pollution from land use activities must be improved.
 
-(<i>l</i>) Because global warming may result in a substantial sea level rise with serious adverseeffects in the coastal zone, coastal states must anticipate and plan for such an occurrence.
+(<i>l</i>) Because global warming may result in a substantial sea level rise with serious adverse effects in the coastal zone, coastal states must anticipate and plan for such an occurrence.
 
 (m) Because of their proximity to and reliance upon the ocean and its resources, the coastal states have substantial and significant interests in the protection, management, and development of the resources of the exclusive economic zone that can only be served by the active participation of coastal states in all Federal programs affecting such resources and, wherever appropriate, by the development of state ocean resource plans as part of their federally approved coastal zone management programs.
 
@@ -72,11 +72,15 @@ Section 1 of Pub. L. 94–370 provided: “That this Act \[enacting section 1511
 
 Section 301 of title III of Pub. L. 89–454, as added by Pub. L. 92–583, provided that: “This title \[enacting this chapter\] may be cited as the ‘Coastal Zone Management Act of 1972’.”
 
+#### Hypoxia Assessment
+
+Pub. L. 110–114, title V, §5022, Nov. 8, 2007, 121 Stat. 1203, provided that: “The Secretary \[of the Army\] may participate with Federal, State, and local agencies, non-Federal and nonprofit entities, regional researchers, and other interested parties to assess hypoxia in the Gulf of Mexico.”
+
 #### Harmful Algal Blooms and Hypoxia Research and Control
 
 Pub. L. 108–456, title I, §102, Dec. 10, 2004, 118 Stat. 3630, provided in part that: “In developing the assessments, reports, and plans under the amendments made by this title \[see Short Title of 2004 Amendment note above\], the Task Force \[Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia\] shall consult with the coastal States, Indian tribes, local governments, appropriate industries (including fisheries, agriculture, and fertilizer), academic institutions, and nongovernmental organizations with expertise in coastal zone science and management.”
 
-Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L. 108–456, title I, §§102–105, Dec. 10, 2004, 118 Stat. 3630–3633, provided that:
+Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L. 108–456, title I, §§102–105, Dec. 10, 2004, 118 Stat. 3630–3633; Pub. L. 110–161, div. B, title V, §528, Dec. 26, 2007, 121 Stat. 1930, provided that:
 
 #### “SEC. 601. SHORT TITLE.
 
@@ -252,7 +256,7 @@ Scientific Assessments of Harmful Algal Blooms.—(1) Not less than once every 5
 
 “(i)
 
-National Scientific Research, Development, Demonstration, and Technology Transfer Plan on Reducing Impacts From Harmful Algal Blooms.—(1) Not later than 12 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\], the Task Force shall develop and submit to Congress a plan providing for a comprehensive and coordinated national research program to develop and demonstrate prevention, control, and mitigation methods to reduce the impacts of harmful algal blooms on coastal ecosystems (including the Great Lakes), public health, and the economy.
+National Scientific Research, Development, Demonstration, and Technology Transfer Plan on Reducing Impacts From Harmful Algal Blooms.—(1) Not later than 12 months after the date of enactment of the Harmful Algal Bloom and Hypoxia AmendmentsAct of 2004 \[Dec. 10, 2004\], the Task Force shall develop and submit to Congress a plan providing for a comprehensive and coordinated national research program to develop and demonstrate prevention, control, and mitigation methods to reduce the impacts of harmful algal blooms on coastal ecosystems (including the Great Lakes), public health, and the economy.
 
 “(2) The plan shall—
 
@@ -276,19 +280,19 @@ Submission of a Plan.—No later than March 30, 2000, the President, in conjunct
 
 #### “SEC. 605. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated to the Secretary of Commerce for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia, $15,000,000 for fiscal year 1999, $18,250,000 for fiscal year 2000, $19,000,000 for fiscal year 2001, $23,500,000 for fiscal year 2005, $24,500,000 for fiscal year 2006, $25,000,000 for fiscal year 2007, and $25,500,000 for fiscal year 2008, to remain available until expended. The Secretary shall consult with the States on a regular basis regarding the development and implementation of the activities authorized under this section. Of such amounts for each fiscal year—
+“There are authorized to be appropriated to the Secretary of Commerce for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia, $15,000,000 for fiscal year 1999, $18,250,000 for fiscal year 2000, $19,000,000 for fiscal year 2001, $23,500,000 for fiscal year 2005, $24,500,000 for fiscal year 2006, $25,000,000 for fiscal year 2007, and $30,000,000 for each of fiscal years 2008 through 2010, to remain available until expended. The Secretary shall consult with the States on a regular basis regarding the development and implementation of the activities authorized under this section. Of such amounts for each fiscal year—
 
-&emsp;“(1) $1,500,000 for fiscal year 1999, $1,500,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $2,500,000 for each of fiscal years 2005 through 2008 may be used to enable the National Oceanic and Atmospheric Administration to carry out research and assessment activities, including procurement of necessary research equipment, at research laboratories of the National Ocean Service and the National Marine Fisheries Service;
+&emsp;“(1) $1,500,000 for fiscal year 1999, $1,500,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $2,500,000 for each of fiscal years 2005 through 2010 may be used to enable the National Oceanic and Atmospheric Administration to carry out research and assessment activities, including procurement of necessary research equipment, at research laboratories of the National Ocean Service and the National Marine Fisheries Service;
 
-&emsp;“(2) $4,000,000 for fiscal year 1999, $5,500,000 for fiscal year 2000, $5,500,000 for fiscal year 2001, and $6,500,000, of which $1,000,000 shall be used for the research program described in section 603(f)(2)(B), for each of fiscal years 2005 through 2008 may be used to carry out the Ecology and Oceanography of Harmful Algal Blooms (ECOHAB) project under the Coastal Ocean Program established under section 201(c) of Public Law 102–567 \[106 Stat. 4280\];
+&emsp;“(2) $4,000,000 for fiscal year 1999, $5,500,000 for fiscal year 2000, $5,500,000 for fiscal year 2001, and $6,500,000, of which $1,000,000 shall be used for the research program described in section 603(f)(2)(B), for each of fiscal years 2005 through 2010 may be used to carry out the Ecology and Oceanography of Harmful Algal Blooms (ECOHAB) project under the Coastal Ocean Program established under section 201(c) of Public Law 102–567 \[106 Stat. 4280\];
 
-&emsp;“(3) $1,000,000 for fiscal year 1999, $2,000,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $3,000,000 for each of fiscal years 2005 through 2008 may be used by the National Ocean Service of the National Oceanic and Atmospheric Administration to carry out a peer-reviewed research project on management measures that can be taken to prevent, reduce, control, and mitigate harmful algal blooms and to carry out section 603(d);
+&emsp;“(3) $1,000,000 for fiscal year 1999, $2,000,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $3,000,000 for each of fiscal years 2005 through 2010 may be used by the National Ocean Service of the National Oceanic and Atmospheric Administration to carry out a peer-reviewed research project on management measures that can be taken to prevent, reduce, control, and mitigate harmful algal blooms and to carry out section 603(d);
 
-&emsp;“(4) $5,500,000 for each of the fiscal years 1999, 2000, 2001, and $6,000,000 for each of fiscal years 2005 through 2008 may be used to carry out Federal and State annual monitoring and analysis activities for harmful algal blooms administered by the National Ocean Service of the National Oceanic and Atmospheric Administration;
+&emsp;“(4) $5,500,000 for each of the fiscal years 1999, 2000, 2001, and $6,000,000 for each of fiscal years 2005 through 2010 may be used to carry out Federal and State annual monitoring and analysis activities for harmful algal blooms administered by the National Ocean Service of the National Oceanic and Atmospheric Administration;
 
-&emsp;“(5) $3,000,000 for fiscal year 1999, $3,750,000 for fiscal year 2000, $4,000,000 for fiscal year 2001, $4,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, $5,500,000 for fiscal year 2007, and $6,000,000 for fiscal year 2008 may be used for activities related to research and monitoring on hypoxia by the National Ocean Service and the Office of Oceanic and Atmospheric Research of the National Oceanic and Atmospheric Administration; and
+&emsp;“(5) $3,000,000 for fiscal year 1999, $3,750,000 for fiscal year 2000, $4,000,000 for fiscal year 2001, $4,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, $5,500,000 for fiscal year 2007, and $6,000,000 for each of fiscal years 2008 through 2010 may be used for activities related to research and monitoring on hypoxia by the National Ocean Service and the Office of Oceanic and Atmospheric Research of the National Oceanic and Atmospheric Administration; and
 
-&emsp;“(6) $1,500,000 for each of fiscal years 2005 through 2008 to carry out section 603(e).
+&emsp;“(6) $1,500,000 for each of fiscal years 2005 through 2010 to carry out section 603(e).
 
 #### “SEC. 606. PROTECTION OF STATES’ RIGHTS.
 
@@ -310,7 +314,7 @@ Findings.—Congress finds and declares the following:
 
 &emsp;“(3) Marine resources contribute to the Nation's economic stability. Commercial and recreational fishery activities support an industry with an estimated value of $12,000,000,000 a year.
 
-&emsp;“(4) Wetlands play a vital role in sustaining the coastal economy and environment. Wetlands support and nourish fishery and marine resources. They also protect the Nation's shores from storm and wave damage. Coastal wetlands contribute an estimated $5,000,000,000 to the production of fish and shellfish in the United States coastal waters. Yet, 50 percent of the Nation's coastal wetlands have been destroyed, and more are likely to decline in the near future.
+&emsp;“(4) Wetlands play a vital role in sustaining the coastal economy and environment. Wetlands support and nourish fishery and marine resources. They also protect the Nation's shores from storm and wave damage. Coastal wetlands contribute an estimated$5,000,000,000 to the production of fish and shellfish in the United States coastal waters. Yet, 50 percent of the Nation's coastal wetlands have been destroyed, and more are likely to decline in the near future.
 
 &emsp;“(5) Nonpoint source pollution is increasingly recognized as a significant factor in coastal water degradation. In urban areas, storm water and combined sewer overflow are linked to major coastal problems, and in rural areas, run-off from agricultural activities may add to coastal pollution.
 

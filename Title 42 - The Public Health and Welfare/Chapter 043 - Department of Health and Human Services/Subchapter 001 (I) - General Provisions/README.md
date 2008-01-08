@@ -26,6 +26,7 @@
 - [&sect; 03513a - Working capital fund; availability for centralized personnel data collection and reporting and common regional administrative support&#8230;](%C2%A7%2003513a%20-%20Working%20capital%20fund%3B%20availability%20for%20centralized%20personnel%20data%20collection%20and%20reporting%20and%20common%20regional%20administrative%20support%E2%80%A6.md)
 - [&sect; 03513b - Working capital fund; availability for common personnel support services](%C2%A7%2003513b%20-%20Working%20capital%20fund%3B%20availability%20for%20common%20personnel%20support%20services.md)
 - [&sect; 03514 - Special account for grants of Department; reports](%C2%A7%2003514%20-%20Special%20account%20for%20grants%20of%20Department%3B%20reports.md)
+- [&sect; 03514a - Nonrecurring expenses fund](%C2%A7%2003514a%20-%20Nonrecurring%20expenses%20fund.md)
 - [&sect; 03515 - Performance of one-year contracts during two fiscal years](%C2%A7%2003515%20-%20Performance%20of%20one-year%20contracts%20during%20two%20fiscal%20years.md)
 - [&sect; 03515a - Dedicated telephone service between employee residences and computer centers](%C2%A7%2003515a%20-%20Dedicated%20telephone%20service%20between%20employee%20residences%20and%20computer%20centers.md)
 - [&sect; 03515b - Prohibition on funding certain experiments involving human participants](%C2%A7%2003515b%20-%20Prohibition%20on%20funding%20certain%20experiments%20involving%20human%20participants.md)

@@ -38,7 +38,7 @@ Formula.—The Secretary shall apportion amounts made available to carry out thi
 
 &emsp;(2)
 
-Transfer of funds.—Any funds apportioned to a State under paragraph (1) may betransferred by the State to the apportionments made under sections 5311(c) and 5336 if such funds are only used for eligible projects selected under this section.
+Transfer of funds.—Any funds apportioned to a State under paragraph (1) may be transferred by the State to the apportionments made under sections 5311(c) and 5336 if such funds are only used for eligible projects selected under this section.
 
 (c)
 
@@ -84,7 +84,7 @@ Certification requirements.—
 
 &emsp;&emsp;(A)
 
-Fund transfers.—A grant recipient under this section that transfers funds to a project funded under section 5336 in accordance with subsection (b)(2) shall certify that the project for which the funds are requested has been coordinated with private nonprofit providers of services under this section.
+Fund transfers.—A grant recipient under this section that transfers funds to a project funded under section 5336 in accordance with subsection (b)(2) shall certify that the project for which the funds are requestedhas been coordinated with private nonprofit providers of services under this section.
 
 &emsp;&emsp;(B)
 
@@ -258,7 +258,7 @@ Report.—Not later than 2 years after the date of enactment of this Act \[Aug. 
 
 &emsp;“(B) whether States participating in the pilot program use the funds to provide services to persons with disabilities that exceed those services required by the Americans with Disabilities Act of 1990 differently than States not in the pilot program;
 
-&emsp;“(C) whether States participating in this pilot program use the funds to provide services to individualswith disabilities that exceed those services required by the Americans with Disabilities Act of 1990 to the detriment of other eligible projects;
+&emsp;“(C) whether States participating in this pilot program use the funds to provide services to individuals with disabilities that exceed those services required by the Americans with Disabilities Act of 1990 to the detriment of other eligible projects;
 
 &emsp;“(D) the percentage of funds used to assist elderly individuals;
 

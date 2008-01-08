@@ -104,7 +104,7 @@ In general.—The Secretary shall establish a pilot program to reimburse not to 
 
 &emsp;&emsp;(B)
 
-Report.—Not later than July 31, 2008, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House ofRepresentatives a report on the status and effectiveness of the pilot program established under subparagraph (A).
+Report.—Not later than July 31, 2008, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status and effectiveness of the pilot program established under subparagraph (A).
 
 (f)
 
@@ -180,7 +180,7 @@ Written justification for public interest waiver.—When issuing a waiver based 
 
 (6) A person is ineligible under subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations, to receive a contract or subcontract made with amounts authorized under the Federal Public Transportation Act of 2005 if a court or department, agency, or instrumentality of the Government decides the person intentionally—
 
-&emsp;(A) affixed a “Made in America” label, or a label with an inscription having the same meaning, to goods sold in or shipped to theUnited States that are used in a project to which this subsection applies but not produced in the United States; or
+&emsp;(A) affixed a “Made in America” label, or a label with an inscription having the same meaning, to goods sold in or shipped to the United States that are used in a project to which this subsection applies but not produced in the United States; or
 
 &emsp;(B) represented that goods described in clause (A) of this paragraph were produced in the United States.
 
@@ -188,7 +188,7 @@ Written justification for public interest waiver.—When issuing a waiver based 
 
 (8)
 
-Opportunity to correct inadvertent error.—The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properly complete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
+Opportunity to correct inadvertent error.—The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properly complete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufactureror supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
 
 (9)
 
@@ -414,7 +414,7 @@ This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erro
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (i)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (i)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Clean Air Act, referred to in subsec. (i)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 

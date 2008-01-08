@@ -46,7 +46,7 @@ Subchapter effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set 
 
 #### Short Title
 
-For short title of title IV of Pub. L. 95–471, which enacted this subchapter, as the “Tribal Economic Development and Technology Related Education Assistance Act of 1990”, see section 401 of Pub. L. 95–471, set out as a Short Title of 1990 Amendment note under section 1801 of this title.
+For short title of title IV of Pub. L. 95–471, which enacted this subchapter, as the “Tribal Economic Development and Technology Related Education Assistance Act of 1990”, see section 401 of Pub. L. 95–471, set out as a Short Title note under section 1801 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

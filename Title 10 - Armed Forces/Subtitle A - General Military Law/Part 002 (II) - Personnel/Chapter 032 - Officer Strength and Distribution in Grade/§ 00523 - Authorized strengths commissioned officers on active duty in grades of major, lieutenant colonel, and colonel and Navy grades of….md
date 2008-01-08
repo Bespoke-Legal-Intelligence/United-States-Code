@@ -108,7 +108,7 @@
 
 &emsp;(8) Permanent professors of the United States Military Academy and the United States Air Force Academy and professors of the United States Naval Academy who are career military professors (as defined in regulations prescribed by the Secretary of the Navy), but not to exceed 50 from any such academy.
 
-(c) Whenever the number of officers serving in any grade is less than the number authorized forthat grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
+(c) Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
 
 (d) An officer may not be reduced in grade, or have his pay or allowances reduced, because of a reduction in the number of commissioned officers authorized for his grade under this section.
 
@@ -182,7 +182,7 @@ Pub. L. 104–106, div. A, title IV, §402, Feb. 10, 1996, 110 Stat. 286, provid
 
 #### Temporary Variation of End Strength Limitations for Army Majors and Lieutenant Colonels
 
-Section 402 of Pub. L. 103–337 provided that number of officers of the Army authorized under subsec. (a)(1) of this section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1995 through 1997 was limited to numbers set forth in table prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(2), Sept. 23, 1996, 110 Stat. 2506.
+Section 402 of Pub. L. 103–337 provided that number of officers of the Army authorized under subsec. (a)(1) ofthis section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1995 through 1997 was limited to numbers set forth in table prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(2), Sept. 23, 1996, 110 Stat. 2506.
 
 #### Temporary Variation of End Strength Limitations for Marine Corps Majors and Lieutenant Colonels
 
@@ -190,7 +190,7 @@ Pub. L. 103–160, div. A, title IV, §402, Nov. 30, 1993, 107 Stat. 1639, as am
 
 #### Temporary Increase in Officer Grade Limitations
 
-Pub. L. 101–189, div. A, title IV, §403, Nov. 29, 1989, 103 Stat. 1431, authorized the Secretary of Defense, until Sept. 30, 1991, to increase the strength-in-grade limitations specified in subsec. (a) of this section by a total of 250 positions, to be distributed among grades andservices as the Secretary considers appropriate and directed the Secretary to submit to Congress a comprehensive report on the adequacy of the strength-in-grade limitations prescribed in subsec. (a) of this section.
+Pub. L. 101–189, div. A, title IV, §403, Nov. 29, 1989, 103 Stat. 1431, authorized the Secretary of Defense, until Sept. 30, 1991, to increase the strength-in-grade limitations specified in subsec. (a) of this section by a total of 250 positions, to be distributed among grades and services as the Secretary considers appropriate and directed the Secretary to submit to Congress a comprehensive report on the adequacy of the strength-in-grade limitations prescribed in subsec. (a) of this section.
 
 #### Temporary Reduction in Number of Air Force Colonels
 

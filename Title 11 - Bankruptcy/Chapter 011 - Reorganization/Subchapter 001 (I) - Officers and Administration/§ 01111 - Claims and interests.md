@@ -22,9 +22,9 @@
 
 I74legislative statements
 
-A discussion of section 1111(b) of the House amendment is best considered in the context of confirmation and will therefore, be discussed in connection with section 1129.
+A discussion of section 1111(b) of the House amendment is best considered in the context of confirmationand will therefore, be discussed in connection with section 1129.
 
 #### senate report no. 95–989
 
-This section dispenses with the need for every creditor and equity security holder to file a proof of claim or interest in a reorganization case. Usually the debtor's schedules are accurate enough that they will suffice to determine the claims or interests allowable inthe case. Thus, the section specifies that any claim or interest included on the debtor's schedules is deemed filed under section 501. This does not apply to claims or interests that are scheduled as disputed, contingent, or unliquidated.
+This section dispenses with the need for every creditor and equity security holder to file a proof of claim or interest in a reorganization case. Usually the debtor's schedules are accurate enough that they will suffice to determine the claims or interests allowable in the case. Thus, the section specifies that any claim or interest included on the debtor's schedules is deemed filed under section 501. This does not apply to claims or interests that are scheduled as disputed, contingent, or unliquidated.
 

@@ -94,3 +94,7 @@ The Federal Tort Claims Act, referred to in subsec. (d)(1), is title IV of act A
 
 Subsec. (g)(3)(A). Pub. L. 106–176, §122(3)(B), substituted “the tallgrass prairie” for “the tall grass prairie”.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

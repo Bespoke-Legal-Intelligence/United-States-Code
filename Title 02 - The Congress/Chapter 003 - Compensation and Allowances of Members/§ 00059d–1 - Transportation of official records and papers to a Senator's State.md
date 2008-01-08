@@ -6,7 +6,7 @@ Upon request of a Senator, amounts in the appropriation account “Miscellaneous
 
 #### (b) Sending and transportation
 
-The Sergeant at Arms and Doorkeeper of the Senate shall provide for the most economical means of sending or transporting the official records and papers under this section while ensuring the orderly and timely delivery of the records and papers to the location specified by the Senator.
+The Sergeant at Arms and Doorkeeper of the Senate shall provide for the most economicalmeans of sending or transporting the official records and papers under this section while ensuring the orderly and timely delivery of the records and papers to the location specified by the Senator.
 
 #### (c) Oversight
 

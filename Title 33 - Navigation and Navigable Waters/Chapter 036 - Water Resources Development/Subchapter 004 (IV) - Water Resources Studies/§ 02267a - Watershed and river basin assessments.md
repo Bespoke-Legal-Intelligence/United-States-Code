@@ -44,9 +44,19 @@ In selecting river basins and watersheds for assessment under this section, the 
 
 &emsp;(3) the Potomac River basin;
 
-&emsp;(4) the Susquehanna River basin; and
+&emsp;(4) the Susquehanna River basin;
 
-&emsp;(5) the Willamette River basin.
+&emsp;(5) the Willamette River basin;
+
+&emsp;(6) Tuscarawas River Basin, Ohio;
+
+&emsp;(7) Sauk River Basin, Snohomish and Skagit Counties, Washington;
+
+&emsp;(8) Niagara River Basin, New York;
+
+&emsp;(9) Genesee River Basin, New York; and
+
+&emsp;(10) White River Basin, Arkansas and Missouri.
 
 #### (e) Acceptance of contributions
 
@@ -56,25 +66,27 @@ In carrying out an assessment under subsection (a) of this section, the Secretar
 
 #### (1) Non-Federal share
 
-&emsp;The non-Federal share of the costs of an assessment carried out under this section shall be 50 percent.
+&emsp;The non-Federal share of the costs of an assessment carried out under this section on or after December 11, 2000, shall be 25 percent.
 
 #### (2) Credit
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary may credit toward the non-Federal share of an assessment under this section the cost of services, materials, supplies, or other in-kind contributions provided by the non-Federal interests for the assessment.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary may credit toward the non-Federal share ofan assessment under this section the cost of services, materials, supplies, or other in-kind contributions provided by the non-Federal interests for the assessment.
 
 #### (B) Maximum amount of credit
 
 &emsp;&emsp;The credit under subparagraph (A) may not exceed an amount equal to 25 percent of the costs of the assessment.
 
-#### (g) Authorization of appropriations
-
-There is authorized to be appropriated to carry out this section $15,000,000.
-
-(Pub. L. 99–662, title VII, §729, Nov. 17, 1986, 100 Stat. 4164; Pub. L. 106–541, title II, §202, Dec. 11, 2000, 114 Stat. 2587.)
+(Pub. L. 99–662, title VII, §729, Nov. 17, 1986, 100 Stat. 4164; Pub. L. 106–541, title II, §202, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2010, Nov. 8, 2007, 121 Stat. 1074.)
 
 #### Amendments
+
+2007—Subsec. (d)(6) to (10). Pub. L. 110–114, §2010(1), added pars. (6) to (10).
+
+Subsec. (f)(1). Pub. L. 110–114, §2010(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The non-Federal share of the costs of an assessment carried out under this section shall be 50 percent.”
+
+Subsec. (g). Pub. L. 110–114, §2010(3), struck out heading and text of subsec. (g). Text read as follows: “There is authorized to be appropriated to carry out this section $15,000,000.”
 
 2000—Pub. L. 106–541 amended section catchline and text generally. Prior to amendment, section read as follows:
 

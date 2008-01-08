@@ -12,7 +12,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 (1)(A) A defined benefit plan satisfies the requirements of this paragraph if the accrued benefit to which each participant is entitled upon his separation from the service is not less than—
 
-&emsp;(i) 3 percent of the normal retirement benefit to which he would be entitled at the normal retirement age if he commenced participation at the earliest possible entry age under the plan and served continuously until the earlier of age 65 or the normal retirement age specified under the plan, multiplied by
+&emsp;(i) 3 percent of the normal retirement benefit to which he would be entitled at the normal retirement age if he commenced participation at the earliest possible entry age underthe plan and served continuously until the earlier of age 65 or the normal retirement age specified under the plan, multiplied by
 
 &emsp;(ii) the number of years (not in excess of 331/3) of his participation in the plan.
 
@@ -54,7 +54,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 (H)(i) Notwithstanding the preceding subparagraphs, a defined benefit plan shall be treated as not satisfying the requirements of this paragraph if, under the plan, an employee's benefit accrual is ceased, or the rate of an employee's benefit accrual is reduced, because of the attainment of any age.
 
-(ii) A plan shall not be treated as failing to meet the requirements of this subparagraph solely because the plan imposes (without regard to age) a limitation on the amount of benefits that the plan provides or a limitation on the number of years of service or years of participation which are taken into account for purposes of determining benefit accrual under the plan.
+(ii) A plan shall not be treated as failing to meet the requirements of this subparagraph solely because the plan imposes (without regard to age) a limitation on the amount of benefits that the plan provides or a limitation on thenumber of years of service or years of participation which are taken into account for purposes of determining benefit accrual under the plan.
 
 (iii) In the case of any employee who, as of the end of any plan year under a defined benefit plan, has attained normal retirement age under such plan—
 
@@ -86,7 +86,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 (B) For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit to which he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
 
-(C) For purposes of this paragraph, in the case of any employee whose service is less than 1,000 hours during any calendar year, plan year or other 12-consecutive-month period designated by the plan (and not prohibited under regulationsprescribed by the Secretary) the calculation of his period of service shall not be treated as not made on a reasonable and consistent basis merely because such service is not taken into account.
+(C) For purposes of this paragraph, in the case of any employee whose service is less than 1,000 hours during any calendar year, plan year or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary) the calculation of his period of service shall not be treated as not made on a reasonable and consistent basis merely because such service is not taken into account.
 
 (D) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term “year of participation” shall be such period as determined under regulations prescribed by the Secretary.
 
@@ -244,7 +244,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 (3) For purposes of this section, in the case of any defined benefit plan, if an employee's accrued benefit is to be determined as an amount other than an annual benefit commencing at normal retirement age, or if the accrued benefit derived from contributions made by an employee is to be determined with respect to a benefit other than an annual benefit in the form of a single life annuity (without ancillary benefits) commencing at normal retirement age, the employee's accrued benefit, or the accrued benefits derived from contributions made by an employee, as the case may be, shall be the actuarial equivalent of such benefit or amount determined under paragraph (1) or (2).
 
-(4) In the case of a defined benefit plan which permits voluntary employee contributions, the portion of an employee's accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
+(4) In the case of a defined benefit plan which permits voluntary employee contributions, theportion of an employee's accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
 
 #### (d) Employee service which may be disregarded in determining employee's accrued benefits under plan
 
@@ -274,7 +274,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (g) Decrease of accrued benefits through amendment of plan
 
-(1) The accrued benefit of a participant under a plan may not be decreased by an amendment of the plan, other than an amendment described in section 1082(c)(8) or 1441 of this title.
+(1) The accrued benefit of a participant under a plan may not be decreased by an amendment of the plan, other than an amendment described in section 1082(d)(2) or 1441 of this title.
 
 (2) For purposes of paragraph (1), a plan amendment which has the effect of—
 
@@ -314,7 +314,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (h) Notice of significant reduction in benefit accruals
 
-(1) An applicable pension plan may not be amended so as to provide for a significant reduction in the rate of future benefit accrual unless the plan administrator provides the notice described in paragraph (2) to each applicable individual (and to each employee organization representing applicable individuals).
+(1) An applicable pension plan may not be amended so as to provide for a significant reduction in the rate of future benefit accrual unless the plan administrator provides the notice described in paragraph (2) to each applicable individual (and to each employee organization representing applicable individuals) and to each employer who has an obligation to contribute to the plan.
 
 (2) The notice required by paragraph (1) shall be written in a manner calculated to be understood by the average plan participant and shall provide sufficient information (as determined in accordance with regulations prescribed by the Secretary of the Treasury) to allow applicable individuals to understand the effect of the plan amendment. The Secretary of the Treasury may provide a simplified form of notice for, or exempt from any notice requirement, a plan—
 
@@ -378,15 +378,15 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(A) the Secretary of the Treasury determines to be reasonable and that provides for only de minimis increases in the liabilities of the plan with respect to employees of the debtor,
 
-&emsp;(B) only repeals an amendment described in section 1082(c)(8) of this title,
+&emsp;(B) only repeals an amendment described in section 1082(d)(2) of this title,
 
 &emsp;(C) is required as a condition of qualification under part I of subchapter D of chapter 1 of title 26, or
 
 &emsp;(D) was adopted prior to, or pursuant to a collective bargaining agreement entered into prior to, the date on which the employer became a debtor in a case under title 11 or similar Federal or State law.
 
-(3) This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funded current liability percentage (within the meaning of section 1082(d)(8) of this title) is less than 100 percent after taking into account the effect of the amendment.
+(3) This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funding target attainment percentage (as defined in section 1083(d)(2) of this title) is less than 100 percent after taking into account the effect of the amendment.
 
-(4) For purposes of this subsection, the term “employer” has the meaning set forth in section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title.
+(4) For purposes of this subsection, the term “employer” has the meaning set forth in section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title.
 
 #### (j) Diversification requirements for certain individual account plans
 
@@ -448,7 +448,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in regulations or in clause (ii), a plan holding employer securities which are not publicly traded employer securities shall be treated as holding publicly traded employer securities if any employer corporation, or any member of a controlled group of corporations which includes such employer corporation, has issued a class of stock which is a publicly traded employer security.
+&emsp;&emsp;&emsp;Except as provided in regulations or in clause (ii), a plan holding employer securities which are not publicly traded employer securities shall be treated as holding publicly traded employer securities ifany employer corporation, or any member of a controlled group of corporations which includes such employer corporation, has issued a class of stock which is a publicly traded employer security.
 
 #### (ii) Exception for certain controlled groups with publicly traded securities
 
@@ -542,19 +542,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;<b>For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.</b>
 
-(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat.52; Pub. L. 109–280, title I, §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029.)
-
-#### Amendment of Section
-
-<i>Pub. L. 109–280, title I, §107(a)(5)–(8), (e), Aug. 17, 2006, 120 Stat. 819, 820, provided that, applicable to plan years beginning after 2007, this section is amended as follows:</i>
-
-<i>(1) in subsections (g)(1) and (i)(2)(B), by substituting “1082(d)(2)” for “1082(c)(8)”;</i>
-
-<i>(2) in subsection (i)(3), by substituting “funding target attainment percentage (as defined in section 1083(d)(2) of this title)” for “funded current liability percentage (within the meaning of section 1082(d)(8) of this title)”; and</i>
-
-<i>(3) in subsection (i)(4), by substituting “section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title” for “section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title”.</i>
-
-<i>Pub. L. 109–280, title V, §502(c)(1), (d), Aug. 17, 2006, 120 Stat. 941, provided that, applicable to plan years beginning after Dec. 31, 2007, subsection (h)(1) of this section is amended by inserting before the period at the end “and to each employer who has an obligation to contribute to the plan”.</i>
+(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029.)
 
 #### References in Text
 
@@ -563,6 +551,16 @@ The Social Security Act, referred to in subsec. (b)(1)(G), is act Aug. 14, 1935,
 #### Amendments
 
 2006—Subsec. (b)(5). Pub. L. 109–280, §701(a)(1), added par. (5).
+
+Subsec. (g)(1). Pub. L. 109–280, §107(a)(5), substituted “1082(d)(2)” for “1082(c)(8)”.
+
+Subsec. (h)(1). Pub. L. 109–280, §502(c)(1), inserted before period at end “and to each employer who has an obligation to contribute to the plan”.
+
+Subsec. (i)(2)(B). Pub. L. 109–280, §107(a)(6), substituted “1082(d)(2)” for “1082(c)(8)”.
+
+Subsec. (i)(3). Pub. L. 109–280, §107(a)(7), substituted “funding target attainment percentage (as defined in section 1083(d)(2) of this title)” for “funded current liability percentage (within the meaning of section 1082(d)(8) of this title)”.
+
+Subsec. (i)(4). Pub. L. 109–280, §107(a)(8), substituted “section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title” for “section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title”.
 
 Subsecs. (j), (k). Pub. L. 109–280, §901(b)(1), added subsec. (j) and redesignated former subsec. (j) as (k).
 
@@ -698,7 +696,7 @@ Amendment by section 7881(m)(2)(A)–(C) of Pub. L. 101–239 effective, except 
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Amendment by section 7894(c)(4)–(6) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee RetirementIncome Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7894(c)(4)–(6) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -716,7 +714,7 @@ Plan amendments not required until january 1, 1989.—If any amendment made by t
 
 &emsp;“(B) such plan amendment applies retroactively to the period after such amendments take effect and such first plan year.
 
-> A plan shall not be treated as failing to provide definitely determinable benefits or contributions, or to be operated in accordance with the provisions of the plan, merely because it operates in accordance with this subsection.”
+> A plan shall not be treated as failing to provide definitely determinable benefits or contributions, or to be operated in accordance with the provisions of the plan,merely because it operates in accordance with this subsection.”
 
 #### Effective Date of 1986 Amendments
 

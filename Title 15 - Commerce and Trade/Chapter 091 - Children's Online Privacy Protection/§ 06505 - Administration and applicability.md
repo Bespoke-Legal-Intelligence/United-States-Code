@@ -50,7 +50,7 @@ The Federal Credit Union Act, referred to in subsec. (b)(3), is act June 26, 193
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (b)(5), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified generally to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (b)(6), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (b)(6), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see ShortTitle note set out under section 2001 of Title 12 and Tables.
 
 This chapter, referred to in subsec. (e), was in the original “Act” and “the Act”, respectively, and was translated as reading “this title” to reflect the probable intent of Congress.
 

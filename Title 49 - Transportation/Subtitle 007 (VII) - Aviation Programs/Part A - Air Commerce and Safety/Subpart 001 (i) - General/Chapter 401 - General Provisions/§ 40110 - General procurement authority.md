@@ -24,7 +24,7 @@ Adjustments for inflation.—For fiscal years beginning after September 30, 1997
 
 &emsp;(3)
 
-Continuing obligations.—Notwithstanding section 1341 of title 31, the Administratormay purchase a housing unit under paragraph (1) even if there is an obligation thereafter to pay necessary and reasonable fees duly assessed upon such unit, including fees related to operation, maintenance, taxes, and insurance.
+Continuing obligations.—Notwithstanding section 1341 of title 31, the Administrator may purchase a housing unit under paragraph (1) even if there is an obligation thereafter to pay necessary and reasonable fees duly assessed upon such unit, including fees related to operation, maintenance, taxes, and insurance.
 
 &emsp;(4)
 
@@ -98,7 +98,7 @@ Certain provisions of the office of federal procurement policy act.—Notwithsta
 
 &emsp;(4)
 
-Adjudication of certain bid protests and contract disputes.—A bid protest or contract dispute that is not addressed or resolved through alternative dispute resolution shall be adjudicated by the Administrator through Dispute Resolution Officers or Special Masters of the Federal Aviation Administration Office ofDispute Resolution for Acquisition, acting pursuant to sections 46102, 46104, 46105, 46106 and 46107 and shall be subject to judicial review under section 46110 and to section 504 of title 5.
+Adjudication of certain bid protests and contract disputes.—A bid protest or contract dispute that is not addressed or resolved through alternative dispute resolution shall be adjudicated by the Administrator through Dispute Resolution Officers or Special Masters of the Federal Aviation Administration Office of Dispute Resolution for Acquisition, acting pursuant to sections 46102, 46104, 46105, 46106 and 46107 and shall be subject to judicial review under section 46110 and to section 504 of title 5.
 
 (e)
 
@@ -190,7 +190,7 @@ The Office of Federal Procurement Policy Act, referred to in subsec. (d)(2)(B), 
 
 The Federal Acquisition Streamlining Act of 1994, referred to in subsec. (d)(2)(C), is Pub. L. 103–355, Oct. 13, 1994, 108 Stat. 3243. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 251 of Title 41, Public Contracts, and Tables.
 
-The Small Business Act, referred to in subsec. (d)(2)(D), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (d)(2)(D), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 The Competition in Contracting Act, referred to in subsec. (d)(2)(E), probably means the Competition in Contracting Act of 1984, which is title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 251 of Title 41, Public Contracts, and Tables.
 
@@ -198,7 +198,7 @@ The date of the enactment of the Wendell H. Ford Aviation Investment and Reform 
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–176, §224(a), struck out par. (1), which related to the senior procurement executive, par. (2) designation before “may—”, and subpar.\(D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
+2003—Subsec. (c). Pub. L. 108–176, §224(a), struck out par. (1), which related to the senior procurement executive, par. (2) designation before “may—”, and subpar. (D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
 
 Subsec. (d)(1). Pub. L. 108–176, §224(b)(1), struck out “, not later than January 1, 1996,” after “shall develop and implement”, substituted “provides for—” for “provides for more timely and cost-effective acquisitions of equipment and materials.”, and added subpars. (A) and (B).
 
@@ -286,7 +286,7 @@ Authority.—The Secretary of Transportation may conduct a test of alternative a
 
 “(b)
 
-Pilot Program Implementation.—(1) The Secretary of Transportation should prescribe policies andprocedures for the interaction of the program manager and the end user executive responsible for the requirement for the equipment acquired. Such policies and procedures should include provisions for enabling the end user executive to participate in acceptance testing.
+Pilot Program Implementation.—(1) The Secretary of Transportation should prescribe policies and procedures for the interaction of the program manager and the end user executive responsible for the requirement for the equipment acquired. Such policies and procedures should include provisions for enabling the end user executive to participate in acceptance testing.
 
 “(2) Not later than 45 days after the date of enactment of this Act \[Oct. 13, 1994\], the Secretary of Transportation shall identify for the pilot program quantitative measures and goals for reducing acquisition management costs.
 

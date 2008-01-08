@@ -18,7 +18,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 (B) As used in this subsection the term “counterfeit mark” means—
 
-&emsp;(i) a counterfeit of a mark that is registered on the principal register in the United States Patent and Trademark Office for such goods or services sold, offered for sale, or distributed and that is in use, whether or not the person against whom relief is sought knew such mark was so registered; or
+&emsp;(i) a counterfeit of a mark that is registered on the principal register in the United States Patent and Trademark Office for such goods orservices sold, offered for sale, or distributed and that is in use, whether or not the person against whom relief is sought knew such mark was so registered; or
 
 &emsp;(ii) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of this chapter are made available by reason of section 220506 of title 36;
 
@@ -72,7 +72,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 (9) The court shall order that service of a copy of the order under this subsection shall be made by a Federal law enforcement officer (such as a United States marshal or an officer or agent of the United States Customs Service, Secret Service, Federal Bureau of Investigation, or Post Office) or may be made by a State or local law enforcement officer, who, upon making service, shall carry out the seizure under the order. The court shall issue orders, when appropriate, to protect the defendant from undue damage from the disclosure of trade secrets or other confidential information during the course of the seizure, including, when appropriate, orders restricting the access of the applicant (or any agent or employee of the applicant) to such secrets or information.
 
-(10)(A) The court shall hold a hearing, unless waived by all the parties, on the date set by the court in the order of seizure. That date shall be not sooner than ten days after the order is issued and not later than fifteen days after the order is issued, unless the applicant for the order shows good cause for another date or unless the party against whom such order is directed consents to another date for such hearing. At such hearing the party obtaining the order shall have the burden to prove that the facts supporting findings of fact and conclusions of law necessary to support such order are still in effect. If that party fails to meet that burden,the seizure order shall be dissolved or modified appropriately.
+(10)(A) The court shall hold a hearing, unless waived by all the parties, on the date set by the court in the order of seizure. That date shall be not sooner than ten days after the order is issued and not later than fifteen days after the order is issued, unless the applicant for the order shows good cause for another date or unless the party against whom such order is directed consents to another date for such hearing. At such hearing the party obtaining theorder shall have the burden to prove that the facts supporting findings of fact and conclusions of law necessary to support such order are still in effect. If that party fails to meet that burden, the seizure order shall be dissolved or modified appropriately.
 
 (B) In connection with a hearing under this paragraph, the court may make such orders modifying the time limits for discovery under the Rules of Civil Procedure as may be necessary to prevent the frustration of the purposes of such hearing.
 

@@ -136,7 +136,7 @@ For purposes of this section—
 
 #### (ii) Treatment of certain rights
 
-&emsp;&emsp;&emsp;If a right is assumed to be exercised in a particular manner under subsection\(a)(3)(B), such right shall be treated as so exercised for purposes of clause (i).
+&emsp;&emsp;&emsp;If a right is assumed to be exercised in a particular manner under subsection (a)(3)(B), such right shall be treated as so exercised for purposes of clause (i).
 
 #### (C) Exception for certain rights to convert
 

@@ -14,7 +14,7 @@ Reconstruction Finance Corporation was abolished and remaining functions transfe
 
 #### Eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 29, 1957, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 29, 1957, pursuant to the provisions ofthe Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
 
 #### ABOLITION OF THE RECONSTRUCTION FINANCE CORPORATION
 
@@ -36,7 +36,7 @@ As used in this reorganization plan:
 
 (c) Except as otherwise provided in sections 2(d)(1) and 2(d)(2) of this reorganization plan (relating to financial assistance to railroads, etc., and to Schedule A hereto annexed), there are hereby transferred to the Administrator of the Small Business Administration the remaining functions with respect to or arising out of programs of financial assistance to business enterprises and to victims of floods or other disasters.
 
-(d) There are hereby transferred to the Secretary of the Treasury all functions of the Corporation nototherwise transferred by the provisions of this reorganization plan, including, but not limited to, all functions of the Corporation with respect to or arising out of (1) programs of financial assistance to railroad companies, financial institutions, and insurance companies, (2) the obligations and loans listed in Schedule A hereto annexed, and (3) the War Damage Corporation.
+(d) There are hereby transferred to the Secretary of the Treasury all functions of the Corporation not otherwise transferred by the provisions of this reorganization plan, including, but not limited to, all functions of the Corporation with respect to or arising out of (1) programs of financial assistance to railroad companies, financial institutions, and insurance companies, (2) the obligations and loans listed in Schedule A hereto annexed, and (3) the War Damage Corporation.
 
 (e) The foregoing transfers include the transfer to each transferee, for use in executing his respective functions thereunder, of the powers, authority, rights, and immunities now vested in or available or applicable to the Corporation for carrying out the functions transferred to the transferee under this reorganization plan.
 
@@ -62,7 +62,7 @@ Each transferee may from time to time make such provisions as he shall deem appr
 
 #### Sec. 7. Effective Date
 
-The provisions of this reorganization plan shall take effect at the time determined under the provisions of section 6(a) of the Reorganization Act of 1949, as amended \[see 5 U.S.C. 906(a)\] or at the close of June 30, 1957, whichever is later.
+The provisions of this reorganization plan shall take effect at the time determined under the provisions ofsection 6(a) of the Reorganization Act of 1949, as amended \[see 5 U.S.C. 906(a)\] or at the close of June 30, 1957, whichever is later.
 
 #### Schedule A
 

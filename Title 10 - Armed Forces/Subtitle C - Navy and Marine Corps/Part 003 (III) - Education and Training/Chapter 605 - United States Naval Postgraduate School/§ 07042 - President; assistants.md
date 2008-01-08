@@ -2,8 +2,6 @@
 
 (a)(1) The President of the Naval Postgraduate School shall be one of the following:
 
-z
-
 &emsp;(A) An active-duty officer of the Navy or Marine Corps in a grade not below the grade of captain, or colonel, respectively, who is assigned or detailed to such position.
 
 &emsp;(B) A civilian individual, including an individual who was retired from the Navy or Marine Corps in a grade not below captain, or colonel, respectively, who has the qualifications appropriate to the position of President and is selected by the Secretary of the Navy as the best qualified from among candidates for the position in accordance with—
@@ -93,6 +91,4 @@ Pub. L. 108–375, div. A, title V, §557(a)(1), (2), Oct. 28, 2004, 118 Stat. 1
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-z
 

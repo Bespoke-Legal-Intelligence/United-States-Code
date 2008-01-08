@@ -44,5 +44,5 @@ Amendment by Pub. L. 103–446 applicable with respect to payments made after De
 
 #### Savings Provision
 
-Pub. L. 89–358, §12(b), Mar. 3, 1966, 80 Stat. 28, provided that the provisions of subsec. (b) of this section, relating to payment of reporting allowance at rate of $1per month, as in effect before Mar. 3, 1966, were to remain in effect through May 31, 1966.
+Pub. L. 89–358, §12(b), Mar. 3, 1966, 80 Stat. 28, provided that the provisions of subsec. (b) of this section, relating to payment of reporting allowance at rate of $1 per month, as in effect before Mar. 3, 1966, were to remain in effect through May 31, 1966.
 

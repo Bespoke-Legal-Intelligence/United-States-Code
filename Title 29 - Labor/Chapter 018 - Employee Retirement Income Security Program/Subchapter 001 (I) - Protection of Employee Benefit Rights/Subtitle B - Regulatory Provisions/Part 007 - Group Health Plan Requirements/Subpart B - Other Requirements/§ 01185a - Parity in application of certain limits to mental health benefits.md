@@ -20,7 +20,7 @@
 
 #### (C) Rule in case of different limits
 
-&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) andthat includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
+&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) and that includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
 
 #### (2) Annual limits
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (1) Aggregate lifetime limit
 
-&emsp;The term “aggregate lifetime limit” means, with respect to benefits under a group health plan or health insurance coverage, a dollar limitation on the total amount that may bepaid with respect to such benefits under the plan or health insurance coverage with respect to an individual or other coverage unit.
+&emsp;The term “aggregate lifetime limit” means, with respect to benefits under a group health plan or health insurance coverage, a dollar limitation on the total amount that may be paid with respect to such benefits under the plan or health insurance coverage with respect to an individual or other coverage unit.
 
 #### (2) Annual limit
 

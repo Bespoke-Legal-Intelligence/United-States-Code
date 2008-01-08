@@ -32,7 +32,7 @@
 
 #### (4) Sampling techniques
 
-&emsp;The review and analysis under paragraph (1) shall be based on a random sample, or other scientifically appropriate sample, of not less than 10 percent of all Federal, State, and county prisons, and a representative sample of municipal prisons. The selection shall include at least one prison from each State. The selection of facilities for sampling shall be made at the latest practicable date prior to conducting the surveys and shall not be disclosed to any facility or prison system official prior to the time period studied in the survey. Selection of a facility for sampling during any year shall not preclude its selection for sampling in any subsequent year.
+&emsp;The review and analysis under paragraph (1) shall be based on a random sample, or other scientifically appropriate sample, of not less than 10 percent of all Federal, State, and county prisons, and a representative sample of municipal prisons. The selection shall include at least one prison from each State. The selection of facilities for sampling shall be made at the latest practicable date prior to conductingthe surveys and shall not be disclosed to any facility or prison system official prior to the time period studied in the survey. Selection of a facility for sampling during any year shall not preclude its selection for sampling in any subsequent year.
 
 #### (5) Surveys
 
@@ -92,7 +92,7 @@
 
 #### (1) In general
 
-&emsp;Not later than June 30 of each year, the Attorney General shall submit a report on theactivities of the Bureau and the Review Panel, with respect to prison rape, for the preceding calendar year to—
+&emsp;Not later than June 30 of each year, the Attorney General shall submit a report on the activities of the Bureau and the Review Panel, with respect to prison rape, for the preceding calendar year to—
 
 &emsp;&emsp;(A) Congress; and
 

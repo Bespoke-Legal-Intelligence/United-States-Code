@@ -2,7 +2,7 @@
 
 #### (a) Limitation
 
-Assistance may be provided under this chapter to nongovernmental organizations for the WestBank and Gaza only during a period for which a certification described in section 2378b(b) of this title is in effect with respect to the Palestinian Authority.
+Assistance may be provided under this chapter to nongovernmental organizations for the West Bank and Gaza only during a period for which a certification described in section 2378b(b) of this title is in effect with respect to the Palestinian Authority.
 
 #### (b) Exceptions
 
@@ -54,11 +54,21 @@ In this section:
 
 #### (2) Foreign terrorist organization
 
-&emsp;The term “foreign terrorist organization” means an organization designated as a foreign terrorist organization by the Secretary of State in accordance with section 1189(a) of title 8.
+&emsp;The term “foreign terrorist organization” means an organization designated as a foreign terrorist organization by the Secretary ofState in accordance with section 1189(a) of title 8.
 
 (Pub. L. 87–195, pt. III, §620L, as added Pub. L. 109–446, §3(a), Dec. 21, 2006, 120 Stat. 3320.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (c), and (d), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Delegation of Functions
+
+Functions of President under subsec. (b)(4)(B) of this section delegated to Secretary of State by Determination of President of the United States, No. 2007–20, June 1, 2007, 72 F.R. 34973, set out as a note under section 2378b of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

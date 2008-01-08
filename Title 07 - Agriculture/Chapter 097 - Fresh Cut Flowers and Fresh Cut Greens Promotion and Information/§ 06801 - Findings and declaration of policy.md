@@ -36,7 +36,7 @@ Congress finds that—
 
 &emsp;(9) there exist established State and commodity-specific producer-funded programs of promotion and research that are valuable efforts to expand markets for domestic producers of cut flowers and cut greens and that will benefit from the promotion and consumer information program authorized by this chapter in that the program will enhance the market development efforts of the programs for domestic producers;
 
-&emsp;(10) an effective and coordinated method for ensuring cooperative and collective action inproviding for and financing a nationwide program of generic promotion and consumer information is needed to ensure that the cut flowers and cut greens industry will be able to provide, obtain, and implement programs of promotion and consumer information necessary to maintain, expand, and develop markets for cut flowers and cut greens; and
+&emsp;(10) an effective and coordinated method for ensuring cooperative and collective action in providing for and financing a nationwide program of generic promotion and consumer information is needed to ensure that the cut flowers and cut greens industry will be able to provide, obtain, and implement programs of promotion and consumer information necessary to maintain, expand, and develop markets for cut flowers and cut greens; and
 
 &emsp;(11) the most efficient method of financing such a nationwide program is to assess cut flowers and cut greens at the point at which the flowers and greens are sold by handlers into the retail market.
 

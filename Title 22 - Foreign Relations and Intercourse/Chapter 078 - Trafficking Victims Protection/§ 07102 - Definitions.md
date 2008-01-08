@@ -46,7 +46,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) assistance under chapter 8 of part I of that Act \[22 U.S.C. 2291 et seq.\];
 
-&emsp;&emsp;&emsp;(iii) any other narcotics-related assistance under part I of that Act \[22 U.S.C. 2151 et seq.\] or under chapter 4 or 5 <sup>1</sup> part II of that Act \[22 U.S.C. 2346 et seq., 2347 et seq.\], but any such assistance provided under this clause shall be subject to the prior notification procedures applicable to reprogrammings pursuant to section 634A of that Act \[22 U.S.C. 2394–1\];
+&emsp;&emsp;&emsp;(iii) any other narcotics-related assistance under part I of that Act \[22 U.S.C. 2151 et seq.\] or under chapter 4 or 5 <sup>1</sup> partII of that Act \[22 U.S.C. 2346 et seq., 2347 et seq.\], but any such assistance provided under this clause shall be subject to the prior notification procedures applicable to reprogrammings pursuant to section 634A of that Act \[22 U.S.C. 2394–1\];
 
 &emsp;&emsp;&emsp;(iv) disaster relief assistance, including any assistance under chapter 9 of part I of that Act \[22 U.S.C. 2292 et seq.\];
 
@@ -107,6 +107,10 @@ The Arms Export Control Act, referred to in par. (7)(B), is Pub. L. 90–629, Oc
 #### Amendments
 
 2003—Par. (7)(A)(i). Pub. L. 108–193 inserted “in support of programs of nongovernmental organizations” before “that is made available”.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

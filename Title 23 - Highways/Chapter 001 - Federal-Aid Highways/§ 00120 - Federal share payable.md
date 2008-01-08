@@ -24,13 +24,21 @@ Other Projects.—Except as otherwise provided in this title, the Federal share 
 
 (c)
 
-Increased Federal Share for Certain Safety Projects.—The Federal share payable on account of any project for traffic control signalization, traffic circles (also known as “roundabouts”), safety rest areas, pavement marking, commuter carpooling and vanpooling, rail-highway crossing closure, or installation of traffic signs, traffic lights, guardrails, impact attenuators, concrete barrier endtreatments, breakaway utility poles, or priority control systems for emergency vehicles or transit vehicles at signalized intersections may amount to 100 percent of the cost of construction of such projects; except that not more than 10 percent of all sums apportioned for all the Federal-aid systems for any fiscal year in accordance with section 104 of this title shall be used under this subsection. In this subsection, the term “safety rest area” means an area where motor vehicle operators can park their vehicles and rest, where food, fuel, and lodging services are not available, and that is located on a segment of highway with respect to which the Secretary determines there is a shortage of public and private areas at which motor vehicle operators can park their vehicles and rest.
+Increased Federal Share.—
+
+&emsp;(1)
+
+Certain safety projects.—The Federal share payable on account of any project for traffic control signalization, traffic circles (also known as “roundabouts”), safety rest areas, pavement marking, commuter carpooling and vanpooling, rail-highway crossing closure, or installation of traffic signs, traffic lights, guardrails, impact attenuators, concrete barrier endtreatments, breakaway utility poles, or priority control systems for emergency vehicles or transit vehicles at signalized intersections may amount to 100 percent of the cost of construction of such projects; except that not more than 10 percent of all sums apportioned for all the Federal-aid systems for any fiscal year in accordance with section 104 of this title shall be used under this subsection. In this subsection, the term “safety rest area” means an area where motor vehicle operators can park their vehicles and rest, where food, fuel, and lodging services are not available, and that is located on a segment of highway with respect to which the Secretary determines there is a shortage of public and private areas at which motor vehicle operators can park their vehicles and rest.
+
+&emsp;(2) CMAQ
+
+projects.—The Federal share payable on account of a project or program carried out under section 149 with funds obligated in fiscal year 2008 or 2009, or both, shall be not less than 80 percent and, at the discretion of the State, may be up to 100 percent of the cost thereof.
 
 (d) The Secretary may rely on a statement from the Secretary of the Interior as to the area of the lands referred to in subsections (a) and (b) of this section. The Secretary of the Interior is authorized and directed to provide such statement annually.
 
 (e)
 
-Emergency Relief.—The Federal share payable on account of any repair or reconstruction provided for by funds made available under section 125 of this title on account of any project on a Federal-aid highway, including the Interstate System, shall not exceed the Federal share payable on a project on such highway as provided in subsections (a) and (b) of this section; except that (1) the Federal share payablefor eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the costs thereof; and (2) the Federal share payable on account of any repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, parkways, public lands highways, public lands development roads and trails, and Indian reservation roads may amount to 100 percent of the cost thereof. The total cost of a project may not exceed the cost of repair or reconstruction of a comparable facility. As used in this section with respect to bridges and in section 144 of this title, “a comparable facility” shall mean a facility which meets the current geometric and construction standards required for the types and volume of traffic which such facility will carry over its design life.
+Emergency Relief.—The Federal share payable on account of any repair or reconstruction provided for by funds made available under section 125 of this title on account of any project on a Federal-aid highway, including the Interstate System, shall not exceed the Federal share payable on a project on such highway as provided in subsections (a) and (b) of this section; except that (1) the Federal share payable for eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the costs thereof; and (2) the Federal share payable on account of any repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, parkways, public lands highways, public lands development roads and trails, and Indian reservation roads may amount to 100 percent of the cost thereof. The total cost of a project may not exceed the cost of repair or reconstruction of a comparable facility. As used in this section with respect to bridges and in section 144 of this title, “a comparable facility” shall mean a facility which meets the current geometric and construction standards required for the types and volume of traffic which such facility will carry over its design life.
 
 (f) The Secretary is authorized to cooperate with the State transportation departments and with the Department of the Interior in the construction of Federal-aid highways within Indian reservations and national parks and monuments under the jurisdiction of the Department of the Interior and to pay the amount assumed therefor from the funds apportioned in accordance with section 104 of this title to the State wherein the reservations and national parks and monuments are located.
 
@@ -96,15 +104,17 @@ Chartered multistate agencies.—When a credit that is received from a chartered
 
 (k)
 
-Use of Federal Land Management Agency Funds.—Notwithstanding any other provision of law, the funds appropriated to any Federal land management agency may be used topay the non-Federal share of the cost of any project the Federal share of which is funded under this title or chapter 53 of title 49.
+Use of Federal Land Management Agency Funds.—Notwithstanding any other provision of law, the funds appropriated to any Federal land management agency may be used to pay the non-Federal share of the cost of any project the Federal share of which is funded under this title or chapter 53 of title 49.
 
 (<i>l</i>)
 
 Use of Federal Lands Highways Program Funds.—Notwithstanding any other provision of law, the funds authorized to be appropriated to carry out the Federal lands highways program under section 204 may be used to pay the non-Federal share of the cost of any project that is funded under this title or chapter 53 of title 49 and that provides access to or within Federal or Indian lands.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848; Pub. L. 109–59, title I, §§1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, 119 Stat. 1171, 1177, 1181, 1467, 1513.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848; Pub. L. 109–59, title I, §§1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, 119 Stat. 1171, 1177, 1181, 1467, 1513; Pub. L. 110–140, title XI, §1131, Dec. 19, 2007, 121 Stat. 1763.)
 
 #### Amendments
+
+2007—Subsec. (c). Pub. L. 110–140 struck out “for Certain Safety Projects” after “Share” in subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
 2005—Subsec. (c). Pub. L. 109–59, §1947, inserted “traffic circles (also known as ‘roundabouts’),” after “traffic control signalization,”.
 
@@ -226,13 +236,17 @@ Subsec. (f). Pub. L. 86–342 provided that the Federal share payable on account
 
 Subsec. (h). Pub. L. 86–70, §21(d)(4), repealed subsec. (h) which related to contributions by the Territory of Alaska and to the expenditure of Federal funds apportioned to the Territory of Alaska and funds contributed by the Territory.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
 #### Effective Date of 1998 Amendment
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 1021 of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized tobe appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by section 1021 of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 Section 1022(c) of Pub. L. 102–240 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 125 of this title\] shall only apply to natural disasters and catastrophic failures occurring after the date of the enactment of this Act \[Dec. 18, 1991\].”
 
@@ -298,7 +312,7 @@ Qualifying Project Defined.—For purposes of this section, the term ‘qualifyi
 
 #### Incentive Program for Use of Coal Ash
 
-Section 117(f) of Pub. L. 100–17 provided that: “Notwithstanding sections 119, 120, and 144 of title 23, United States Code, in each of fiscal years 1987, 1988, 1989, 1990, and 1991, the percentage specified in such sections as the Federal share of the cost payable on account of any highway or bridge construction project in which materials produced from coal ash are used in significant amounts shall be increased by adding 5 percent to such percentage; except that in no case shall the Federal share payable on account of any project exceed 95 percent of the cost of such project as a result of increasing such Federal share under this subsection.”
+Section 117(f) of Pub. L. 100–17 provided that: “Notwithstanding sections 119, 120, and 144 of title 23, UnitedStates Code, in each of fiscal years 1987, 1988, 1989, 1990, and 1991, the percentage specified in such sections as the Federal share of the cost payable on account of any highway or bridge construction project in which materials produced from coal ash are used in significant amounts shall be increased by adding 5 percent to such percentage; except that in no case shall the Federal share payable on account of any project exceed 95 percent of the cost of such project as a result of increasing such Federal share under this subsection.”
 
 #### Obligations for Projects Resulting From Natural Disasters or Catastrophic Failures; Emergency Relief; Federal Share
 

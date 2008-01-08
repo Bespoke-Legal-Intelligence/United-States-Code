@@ -52,7 +52,7 @@ Amounts received by the Secretary as proceeds from the sale of loans under this 
 
 #### (g) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary, for deposit in the loan fund established by section 291j–6 of this title, $30,000,000 to provide initial capital for the making of direct loans by the Secretary to public agencies for the modernization or construction of facilities referred to in subsection (a)(1) of this section.
+There is authorized to be appropriated to the Secretary, for deposit in the loan fund established by section 291j–6 of this title, $30,000,000 to provide initial capital for the making of directloans by the Secretary to public agencies for the modernization or construction of facilities referred to in subsection (a)(1) of this section.
 
 (July 1, 1944, ch. 373, title VI, §627, as added Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 349; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

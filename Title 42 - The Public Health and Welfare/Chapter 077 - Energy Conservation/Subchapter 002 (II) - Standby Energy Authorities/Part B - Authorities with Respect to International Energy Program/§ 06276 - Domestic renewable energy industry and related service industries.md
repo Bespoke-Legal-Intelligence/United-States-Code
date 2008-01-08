@@ -94,7 +94,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 &emsp;(C) recommend specific renewable energy and energy efficiency technology markets for primary emphasis by Federal export loan programs, development programs, and private sector assistance programs.
 
-(2) The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e) <sup>1</sup> of this section, and shall include in subsequent reports adescription of any modifications to such plan and of the progress in implementing the plan.
+(2) The interagency working group shall include a description of the plan established under paragraph (1)(A) in no later than the second report submitted under subsection (e) <sup>1</sup> of this section, and shall include in subsequent reports a description of any modifications to such plan and of the progress in implementing the plan.
 
 #### (g) Repealed. Pub. L. 102–486, title XII, §1207(c), Oct. 24, 1992, 106 Stat. 2963
 
@@ -150,5 +150,5 @@ Subsecs. (e) to (h). Pub. L. 101–218, §7(c), added subsecs. (e) to (h).
 
 #### Effective Date
 
-Section 3 of Pub. L. 98–370 provided that: “The amendments made by this Act \[enacting this section and a provision set out as a note under section 6201 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Section 3 of Pub. L. 98–370 provided that: “The amendments made by this Act \[enacting this sectionand a provision set out as a note under section 6201 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 

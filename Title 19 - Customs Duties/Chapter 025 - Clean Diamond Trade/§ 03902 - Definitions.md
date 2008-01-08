@@ -62,3 +62,7 @@ In this chapter:
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (9), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

@@ -26,7 +26,7 @@ No Federal funds may be used to sponsor or fund in whole or in part a meeting, c
 
 &emsp;(A) Each Executive department, Government corporation, and independent establishment providing Federal funds to non-Federal entities shall notify recipients of such funds of the prohibition described in subsection (a) of this section.
 
-&emsp;(B) In subparagraph (A), the terms “Executive department”, “Government corporation”, and “independent establishment” have the meanings given such terms in chapter 1 of title 5.
+&emsp;(B) In subparagraph (A), the terms “Executive department”, “Government corporation”,and “independent establishment” have the meanings given such terms in chapter 1 of title 5.
 
 #### (d) Effective date
 

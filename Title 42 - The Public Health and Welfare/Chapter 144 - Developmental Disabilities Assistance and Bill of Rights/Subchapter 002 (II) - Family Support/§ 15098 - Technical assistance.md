@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall enter into contracts or cooperative agreements with appropriate public or private agencies and organizations, including institutions of higher education, with documented experience, expertise, and capacity, for the purpose of providing technical assistance and information with respect to the development and implementation, or expansion and enhancement, of a statewide system of family support services for families of children with disabilities.
+The Secretary shall enter into contracts or cooperative agreements with appropriate public orprivate agencies and organizations, including institutions of higher education, with documented experience, expertise, and capacity, for the purpose of providing technical assistance and information with respect to the development and implementation, or expansion and enhancement, of a statewide system of family support services for families of children with disabilities.
 
 #### (b) Purpose
 
@@ -10,7 +10,7 @@ An agency or organization that provides technical assistance and information und
 
 #### (c) Reports to the Secretary
 
-An entity providing technical assistance and information under this section shall prepare and submit to the Secretary periodic reports regarding Federal policies and procedures identified within the States that facilitate or impede the delivery of family support services to families of children with disabilities. The report shall include recommendations to the Secretary regarding the delivery of services, coordination with other programs, and integration of the policiesdescribed in section 15091 of this title in Federal law, other than this subchapter.
+An entity providing technical assistance and information under this section shall prepare and submit to the Secretary periodic reports regarding Federal policies and procedures identified within the States that facilitate or impede the delivery of family support services to families of children with disabilities. The report shall include recommendations to the Secretary regarding the delivery of services, coordination with other programs, and integration of the policies described in section 15091 of this title in Federal law, other than this subchapter.
 
 (Pub. L. 106–402, title II, §209, Oct. 30, 2000, 114 Stat. 1732.)
 

@@ -24,11 +24,11 @@ Wine may be withdrawn from bonded wine cellars on payment or determination of th
 
 #### (4) Transfer in bond not treated as removal for consumption or sale
 
-&emsp;For purposes of this chapter, the removal of wine for transfer in bond between bondedpremises shall not be treated as a removal for consumption or sale.
+&emsp;For purposes of this chapter, the removal of wine for transfer in bond between bonded premises shall not be treated as a removal for consumption or sale.
 
 #### (5) Bonded premises
 
-&emsp;For purposes of this subsection, the term “bonded premises” means a bonded wine cellar or the bonded premises of a distilled spirits plant.
+&emsp;For purposes of this subsection, the term “bonded premises” means a bonded wine cellaror the bonded premises of a distilled spirits plant.
 
 #### (c) Withdrawals of wine free of tax or without payment of tax
 

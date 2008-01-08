@@ -34,7 +34,7 @@
 
 #### (D) Judicial review of certain legal claims
 
-&emsp;&emsp;Nothing in subparagraph (B) or (C), or in any other provision of this chapter (otherthan this section) which limits or eliminates judicial review, shall be construed as precluding review of constitutional claims or questions of law raised upon a petition for review filed with an appropriate court of appeals in accordance with this section.
+&emsp;&emsp;Nothing in subparagraph (B) or (C), or in any other provision of this chapter (other than this section) which limits or eliminates judicial review, shall be construed as precluding review of constitutional claims or questions of law raised upon a petition for review filed with an appropriate court of appeals in accordance with this section.
 
 #### (3) Treatment of certain decisions
 
@@ -226,13 +226,13 @@ A court may review a final order of removal only if—
 
 #### (g) Exclusive jurisdiction
 
-Except as provided in this section and notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
+Except as provided in this section and notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney Generalto commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
 
 (June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
 
 #### References in Text
 
-Section 1253 of this title, referred to in subsec. (b)(8)(B), was amended generally by Pub. L. 104–208, div.C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (g). Provisions similar to those contained in former subsec. (g) of section 1253 are now contained in subsec. (d) of section 1253.
+Section 1253 of this title, referred to in subsec. (b)(8)(B), was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (g). Provisions similar to those contained in former subsec. (g) of section 1253 are now contained in subsec. (d) of section 1253.
 
 Rule 23 of the Federal Rules of Civil Procedure, referred to in subsec. (e)(1)(B), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -286,7 +286,7 @@ Subsec. (j). Pub. L. 104–208, §306(a)(1), redesignated subsec. (j) as subsec.
 
 1994—Subsec. (b). Pub. L. 103–416, §224(b), substituted “Except as provided in section 1252a(d) of this title, the” for “The” in ninth sentence.
 
-Subsec. (e). Pub. L. 103–322, §130001(a), struck out “paragraph (2), (3), or (4) of” before “section 1251(a) of this title” and substituted “shall be imprisoned not more than four years, or shall be imprisoned not more than ten years if the alien is a member of any of the classes described in paragraph (1)(E), (2), (3), or (4) of section 1251(a) of this title.” for “shall be imprisoned not more than ten years”.
+Subsec. (e). Pub. L. 103–322, §130001(a), struck out “paragraph (2), (3), or (4) of” before “section 1251(a) of this title” and substituted “shall be imprisoned not more than four years, or shall be imprisoned not morethan ten years if the alien is a member of any of the classes described in paragraph (1)(E), (2), (3), or (4) of section 1251(a) of this title.” for “shall be imprisoned not more than ten years”.
 
 Subsec. (h). Pub. L. 103–416, §219(h), substituted “Parole,” for “Parole,,”.
 
@@ -300,7 +300,7 @@ Subsec. (e). Pub. L. 102–232, §307(m)(2), substituted “paragraph (2), (3), 
 
 Subsec. (h). Pub. L. 102–232, §309(b)(9), inserted a comma after “Parole”.
 
-1990—Subsec. (a)(2). Pub. L. 101–649, §504(a), designated existing text as subpar. (A), substituted “upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or furtherconfinement in respect of the same offense)” for “upon completion of the alien's sentence for such conviction” and “Notwithstanding paragraph (1) or subsections (c) and (d) of this section but subject to subparagraph (B)” for “Notwithstanding subsection (a) of this section”, and added subpar. (B).
+1990—Subsec. (a)(2). Pub. L. 101–649, §504(a), designated existing text as subpar. (A), substituted “upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)” for “upon completion of the alien's sentence for such conviction” and “Notwithstanding paragraph (1) or subsections (c) and (d) of this section but subject to subparagraph (B)” for “Notwithstanding subsection (a) of this section”, and added subpar. (B).
 
 Subsec. (b). Pub. L. 101–649, §603(b)(2)(A), substituted “(2), (3), or (4)” for “(4), (5), (6), (7), (11), (12), (14), (15), (16), (17), (18), or (19)”.
 
@@ -366,7 +366,7 @@ Section 436(b)(3) of Pub. L. 104–132 provided that: “The amendments made by 
 
 #### Effective Date of 1994 Amendments
 
-Amendment by section 219(h) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
+Amendment by section 219(h) of Pub. L. 103–416 effective as if included in the enactment of the ImmigrationAct of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
 Section 224(c) of Pub. L. 103–416 provided that: “The amendments made by this section \[amending this section and section 1252a of this title\] shall apply to all aliens whose adjudication of guilt or guilty plea is entered in the record after the date of enactment of this Act \[Oct. 25, 1994\].”
 
@@ -388,7 +388,7 @@ Section 545(g) of Pub. L. 101–649, as amended by Pub. L. 104–208, div. C, ti
 
 Notice-related provisions.—
 
-&emsp;“(A) Subsections (a), (b), (c), and (e)(1) of section 242B of the Immigration and Nationality Act \[former8 U.S.C. 1252b(a), (b), (c) and (e)(1)\] (as inserted by the amendment made by subsection (a)), and the amendment made by subsection (e) \[amending this section\], shall be effective on a date specified by the Attorney General in the certification described in subparagraph (B), which date may not be earlier than 6 months after the date of such certification.
+&emsp;“(A) Subsections (a), (b), (c), and (e)(1) of section 242B of the Immigration and Nationality Act \[former 8 U.S.C. 1252b(a), (b), (c) and (e)(1)\] (as inserted by the amendment made by subsection (a)), and the amendment made by subsection (e) \[amending this section\], shall be effective on a date specified by the Attorney General in the certification described in subparagraph (B), which date may not be earlier than 6 months after the date of such certification.
 
 &emsp;“(B) The Attorney General shall certify to the Congress when the central address file system (described in section 239(a)(4) \[probably means 239(a)(3)\] of the Immigration and Nationality Act) \[8 U.S.C. 1229(a)(3)\] has been established.
 

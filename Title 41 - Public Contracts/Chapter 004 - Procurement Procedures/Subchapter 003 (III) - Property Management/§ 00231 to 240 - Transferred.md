@@ -16,7 +16,7 @@ Section 235, acts June 30, 1949, ch. 288, title II, §205, 63 Stat. 389; Sept. 5
 
 Section 236, acts June 30, 1949, ch. 288, title II, §206, 63 Stat. 390; Aug. 10, 1949, ch. 412, §12(a), 63 Stat. 591, which related to surveys of government property and property management practices, was transferred to section 487 of former Title 40, and was repealed and reenacted as section 506 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
-Section 237, act June 30, 1949, ch. 288, title II, §207, 63 Stat. 391, which related to applicability of antitrust laws to property disposal, was transferred to section 488 of former Title 40, and was repealed and reenacted as section 559 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+Section 237, act June 30, 1949, ch. 288, title II, §207, 63 Stat. 391, which related to applicability of antitrustlaws to property disposal, was transferred to section 488 of former Title 40, and was repealed and reenacted as section 559 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 Section 238, acts June 30, 1949, ch. 288, title II, §208, 63 Stat. 391; Sept. 5, 1950, ch. 849, §7(b), (c), 64 Stat. 590, which related to appointment and compensation of personnel, was transferred to section 630h of former Title 5, Executive Departments and Government Officers and Employees, subsequently transferred to section 758 of former Title 40, and repealed and reenacted as section 311(a)–(c) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 

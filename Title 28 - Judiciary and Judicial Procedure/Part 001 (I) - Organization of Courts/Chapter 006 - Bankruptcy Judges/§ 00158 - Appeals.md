@@ -144,7 +144,7 @@ References in rule 5.—For purposes of rule 5 of the Federal Rules of Appellate
 
 “(6)
 
-Application of rules.—The Federal Rules of Appellate Procedure shall apply in the courts of appealswith respect to appeals authorized under section 158(d)(2)(A), to the extent relevant and as if such appeals were taken from final judgments, orders, or decrees of the district courts or bankruptcy appellate panels exercising appellate jurisdiction under subsection (a) or (b) of section 158 of title 28, United States Code.”
+Application of rules.—The Federal Rules of Appellate Procedure shall apply in the courts of appeals with respect to appeals authorized under section 158(d)(2)(A), to the extent relevant and as if such appeals were taken from final judgments, orders, or decrees of the district courts or bankruptcy appellate panels exercising appellate jurisdiction under subsection (a) or (b) of section 158 of title 28, United States Code.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 

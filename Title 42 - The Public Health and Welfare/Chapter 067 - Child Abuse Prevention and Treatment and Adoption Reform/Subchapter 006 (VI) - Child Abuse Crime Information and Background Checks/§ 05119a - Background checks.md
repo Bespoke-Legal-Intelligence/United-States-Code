@@ -6,7 +6,7 @@
 
 (2) The authorized agency shall access and review State and Federal criminal history records through the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
 
-(3) In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorizedagency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) of this section and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.
+(3) In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) of this section and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.
 
 #### (b) Guidelines
 
@@ -32,7 +32,7 @@ The procedures established under subsection (a) of this section shall require—
 
 &emsp;(3) that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
-&emsp;(4) that the authorized agency shall make a determination whether the provider has been convicted of, or is under pending indictment for, a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
+&emsp;(4) that the authorized agency shall make a determination whether the provider has beenconvicted of, or is under pending indictment for, a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
 
 &emsp;(5) that any background check under subsection (a) of this section and the results thereof shall be handled in accordance with the requirements of Public Law 92–544, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section.
 
@@ -110,7 +110,7 @@ Costs.—A State may collect a fee to perform a criminal background check under 
 
 &emsp;&emsp;“(F)
 
-Timing.—For any background check performed under this paragraph, the State shall provide the State criminal record information to the Attorney General within 7 days after receiving the request from the organization, unless the Attorney General determines during the feasibility study that such a check cannot reasonably be performed within that time period. The Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 7 business days after receiving the request from the State.
+Timing.—For any background check performed under this paragraph, the State shall provide the State criminal record information to the Attorney General within 7 days after receiving the request from the organization, unless the AttorneyGeneral determines during the feasibility study that such a check cannot reasonably be performed within that time period. The Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 7 business days after receiving the request from the State.
 
 &emsp;“(3)
 

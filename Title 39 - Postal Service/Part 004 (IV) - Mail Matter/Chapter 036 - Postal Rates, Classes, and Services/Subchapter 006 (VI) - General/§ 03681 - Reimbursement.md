@@ -10,5 +10,5 @@ No mailer may be reimbursed for any amount paid under any rate or fee which, aft
 
 #### Effective Date
 
-Subchapter effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Subchapter effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 

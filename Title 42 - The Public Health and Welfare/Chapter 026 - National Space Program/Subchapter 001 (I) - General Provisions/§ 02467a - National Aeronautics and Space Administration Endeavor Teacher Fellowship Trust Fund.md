@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury of the United States, in tribute to the dedicated crew of the Space Shuttle Challenger, a trust fund to be known as the “National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund” (hereafter in this section referred to as the “Trust Fund”). The Trust Fund shall consist of gifts and donations accepted by the National Aeronautics and Space Administration pursuant to section 2476b of this title, as well as other amounts which may from time totime, at the discretion of the Administrator, be transferred from the National Aeronautics and Space Administration Gifts and Donations Trust Fund.
+There is established in the Treasury of the United States, in tribute to the dedicated crew of the Space Shuttle Challenger, a trust fund to be known as the “National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund” (hereafter in this section referred to as the “Trust Fund”). The Trust Fund shall consist of gifts and donations accepted by the National Aeronautics and Space Administration pursuant to section 2476b of this title, as well as other amounts which may from time to time, at the discretion of the Administrator, be transferred from the National Aeronautics and Space Administration Gifts and Donations Trust Fund.
 
 #### (b) Investment of Trust Fund
 

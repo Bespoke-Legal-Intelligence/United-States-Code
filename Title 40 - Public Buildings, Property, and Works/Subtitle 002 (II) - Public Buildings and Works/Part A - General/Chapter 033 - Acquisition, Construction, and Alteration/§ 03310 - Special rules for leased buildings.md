@@ -6,13 +6,15 @@ For any building to be constructed for lease to, and for predominant use by, the
 
 &emsp;(2) may acquire a leasehold interest in the building only by the use of competitive procedures required by section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253);
 
-&emsp;(3) shall inspect every building during construction to establish that the specifications established for the building are complied with;
+&emsp;(3) shall include in the solicitation for any lease requiring a prospectus under section 3307 an evaluation factor considering the extent to which the offeror will promote energy efficiency and the use of renewable energy;
 
-&emsp;(4) on completion of the building, shall evaluate the building to determine the extent of failure to comply with the specifications referred to in clause (1); and
+&emsp;(4) shall inspect every building during construction to establish that the specifications established for the building are complied with;
 
-&emsp;(5) shall ensure that any contract entered into for the building shall contain provisions permitting a reduction of rent during any period when the building is not in compliance with the specifications.
+&emsp;(5) on completion of the building, shall evaluate the building to determine the extent of failure to comply with the specifications referred to in clause (1); and
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1164.)
+&emsp;(6) shall ensure that any contract entered into for the building shall contain provisions permitting a reduction of rent during any period when the building is not in compliance with the specifications.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1164; Pub. L. 110–140, title III, §323(d), Dec. 19, 2007, 121 Stat. 1591.)
 
 Historical and Revision Notes
 
@@ -29,4 +31,12 @@ Historical and Revision Notes
 40:618.
 
 Pub. L. 86–249, §20, as added Pub. L. 100–678, §5, Nov. 17, 1988, 102 Stat. 4050.
+
+#### Amendments
+
+2007—Pars. (3) to (6). Pub. L. 110–140 added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

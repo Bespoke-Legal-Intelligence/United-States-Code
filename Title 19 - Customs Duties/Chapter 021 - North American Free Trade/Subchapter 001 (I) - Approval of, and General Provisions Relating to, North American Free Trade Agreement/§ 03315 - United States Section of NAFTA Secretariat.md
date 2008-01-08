@@ -2,7 +2,7 @@
 
 #### (a) Establishment of United States Section
 
-The President is authorized to establish within any department or agency of the United States Government a United States Section of the Secretariat established under chapter 20 of the Agreement. The United States Section, subject to the oversight of the interagency group established under section 3432 of this title, shall carry out its functions within the Secretariat to facilitate the operation of the Agreement, including the operation of chapters 19 and 20 of the Agreement and the work of the panels, extraordinary challenge committees, special committees, and scientific review boards convened under those chapters. The United States Sectionmay not be considered to be an agency for purposes of section 552 of title 5.
+The President is authorized to establish within any department or agency of the United States Government a United States Section of the Secretariat established under chapter 20 of the Agreement. The United States Section, subject to the oversight of the interagency group established under section 3432 of this title, shall carry out its functions within the Secretariat to facilitate the operation of the Agreement, including the operation of chapters 19 and 20 of the Agreement and the work of the panels, extraordinary challenge committees, special committees, and scientific review boards convened under those chapters. The United States Section may not be considered to be an agency for purposes of section 552 of title 5.
 
 #### (b) Authorization of appropriations
 
@@ -12,13 +12,17 @@ There are authorized to be appropriated for each fiscal year after fiscal year 1
 
 &emsp;(2) $2,000,000;
 
-> for the establishment and operations of the United States Section and for the payment of the United States share of the expenses of binational panels and extraordinary challenge committees convened under chapter 19, and of the expenses incurred in dispute settlement proceedings under chapter 20, of the Agreement.
+> for the establishment and operations of the United States Section and for the payment of the United States share of the expenses, including food when sequestered, of binational panels and extraordinary challenge committees convened under chapter 19, and of the expenses incurred in dispute settlement proceedings under chapter 20, of the Agreement.
 
 #### (c) Reimbursement of certain expenses
 
 If, in accordance with Annex 2002.2 of the Agreement, the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year, as reimbursement for expenses by the Canadian Section or the Mexican Section in connection with settlement proceedings under chapter 19 or 20 of the Agreement, the United States Section may retain and use such funds to carry out the functions described in subsection (a) of this section.
 
-(Pub. L. 103–182, title I, §105, Dec. 8, 1993, 107 Stat. 2064.)
+(Pub. L. 103–182, title I, §105, Dec. 8, 1993, 107 Stat. 2064; Pub. L. 110–161, div. B, title I, §107, Dec. 26, 2007, 121 Stat. 1893.)
+
+#### Amendments
+
+2007—Subsec. (b). Pub. L. 110–161, which directed the amendment of section 3315 of title 19, United States Code, by inserting “, including food when sequestered,” after “for the establishment and operations of the United States Section and for the payment of the United States share of the expenses”, was executed by making the substitution in the concluding provisions of this section, which is section 105 of Pub. L. 103–182, to reflect the probable intent of Congress.
 
 #### Termination of NAFTA Status
 

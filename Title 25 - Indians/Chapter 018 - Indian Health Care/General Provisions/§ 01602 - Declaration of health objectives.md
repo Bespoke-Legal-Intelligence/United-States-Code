@@ -1,6 +1,6 @@
 ### §1602. Declaration of health objectives
 
-(a) The Congress hereby declares that it is the policy of this Nation, in fulfillment of its specialresponsibilities and legal obligation to the American Indian people, to assure the highest possible health status for Indians and urban Indians and to provide all resources necessary to effect that policy.
+(a) The Congress hereby declares that it is the policy of this Nation, in fulfillment of its special responsibilities and legal obligation to the American Indian people, to assure the highest possible health status for Indians and urban Indians and to provide all resources necessary to effect that policy.
 
 (b) It is the intent of the Congress that the Nation meet the following health status objectives with respect to Indians and urban Indians by the year 2000:
 
@@ -146,7 +146,7 @@
 
 &emsp;(58) Increase to at least 65 percent the proportion of parents and caregivers who use feeding practices that prevent baby bottle tooth decay.
 
-&emsp;(59) Increase to at least 75 percent the proportion of mothers who breast feed their babies in the early postpartum period, and to at least 50 percent the proportion who continue breast feeding until their babies are 5 to 6 months old.
+&emsp;(59) Increase to at least 75 percent the proportion of mothers who breast feed their babies in the early postpartum period, and to at least 50 percent the proportion who continuebreast feeding until their babies are 5 to 6 months old.
 
 &emsp;(60) Increase to at least 90 percent the proportion of pregnant women who receive prenatal care in the first trimester of pregnancy.
 

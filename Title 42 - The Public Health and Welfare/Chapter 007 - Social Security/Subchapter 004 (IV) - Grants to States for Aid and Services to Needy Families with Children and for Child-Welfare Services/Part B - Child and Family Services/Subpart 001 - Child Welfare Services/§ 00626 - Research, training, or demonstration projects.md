@@ -52,7 +52,7 @@ Section 628a of this title, which was transferred and redesignated as subsec. (c
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b) and struck out former subsec. (b)which related to appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization.
+2006—Subsec. (b). Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization.
 
 Subsec. (c). Pub. L. 109–288, §6(f)(2), amended section as amended by Pub. L. 109–288, §11(b), by transferring section 628a of this title and redesignating it as subsec. (c) of this section. See Codification note above.
 

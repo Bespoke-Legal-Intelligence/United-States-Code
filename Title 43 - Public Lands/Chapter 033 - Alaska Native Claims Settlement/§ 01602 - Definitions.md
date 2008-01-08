@@ -38,7 +38,7 @@ For the purposes of this chapter, the term—
 
 (r) “Descendant of a Native” means—
 
-&emsp;(1) a lineal descendant of a Native or of an individual who would have been a Native ifsuch individual were alive on December 18, 1971, or
+&emsp;(1) a lineal descendant of a Native or of an individual who would have been a Native if such individual were alive on December 18, 1971, or
 
 &emsp;(2) an adoptee of a Native or of a descendant of a Native, whose adoption—
 

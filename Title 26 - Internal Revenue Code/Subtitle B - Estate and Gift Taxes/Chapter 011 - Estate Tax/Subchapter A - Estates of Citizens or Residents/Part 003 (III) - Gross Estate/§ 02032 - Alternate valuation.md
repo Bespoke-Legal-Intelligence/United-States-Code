@@ -80,5 +80,5 @@ Transitional rule.—In the case of an estate of a decedent dying before the dat
 
 #### Effective Date of 1970 Amendment
 
-Section 101(j) of Pub. L. 91–614 provided that: “The amendments made by this section \[enacting section 6905 of this title, amending this section and sections 1223, 2055, 2204, 6040, 6075, 6091, 6161, 6314, 6324, and 6504 of this title, and enacting provisions set out as notes under this section and sections 2204 and 6905 of this title\] (other than subsection (f)) \[amending sections 2204 and 6905 of this title\] shall apply with respect to decedents dying after December 31, 1970.”
+Section 101(j) of Pub. L. 91–614 provided that: “The amendments made by this section \[enacting section 6905 of this title, amending this section and sections 1223, 2055, 2204, 6040, 6075, 6091, 6161, 6314, 6324, and 6504 of this title, and enacting provisions set out as notes under this section and sections 2204 and 6905 of this title\] (other than subsection (f)) \[amending sections2204 and 6905 of this title\] shall apply with respect to decedents dying after December 31, 1970.”
 

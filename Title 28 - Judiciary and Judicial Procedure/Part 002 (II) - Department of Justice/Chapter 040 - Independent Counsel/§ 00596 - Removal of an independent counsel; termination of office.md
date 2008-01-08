@@ -10,7 +10,7 @@ Grounds for removal.—An independent counsel appointed under this chapter may b
 
 &emsp;(2)
 
-Report to division of the court and congress.—If an independent counsel is removed from office, the Attorney General shall promptly submit to the division of the court and the Committees on the Judiciary of the Senate and the House of Representatives a report specifying the facts found and the ultimate grounds for such removal. The committees shall make available to the public such report, except that each committee may, if necessary to protect the rights of any individual named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report. The division of the court may release any or all of such report in accordance with section 594(h)(2).
+Report to division of the court and congress.—If an independent counsel is removed from office, the Attorney General shall promptly submit to the division of the courtand the Committees on the Judiciary of the Senate and the House of Representatives a report specifying the facts found and the ultimate grounds for such removal. The committees shall make available to the public such report, except that each committee may, if necessary to protect the rights of any individual named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report. The division of the court may release any or all of such report in accordance with section 594(h)(2).
 
 &emsp;(3)
 
@@ -30,7 +30,7 @@ Termination by action of independent counsel.—An office of independent counsel
 
 &emsp;(2)
 
-Termination by division of the court.—The division of the court, either on its own motion or upon the request of the Attorney General, may terminate an office of independent counsel at any time, on the ground thatthe investigation of all matters within the prosecutorial jurisdiction of such independent counsel or accepted by such independent counsel under section 594(e), and any resulting prosecutions, have been completed or so substantially completed that it would be appropriate for the Department of Justice to complete such investigations and prosecutions. At the time of such termination, the independent counsel shall file the final report required by section 594(h)(1)(B). If the Attorney General has not made a request under this paragraph, the division of the court shall determine on its own motion whether termination is appropriate under this paragraph no later than 2 years after the appointment of an independent counsel, at the end of the succeeding 2-year period, and thereafter at the end of each succeeding 1-year period.
+Termination by division of the court.—The division of the court, either on its own motion or upon the request of the Attorney General, may terminate an office of independent counsel at any time, on the ground that the investigation of all matters within the prosecutorial jurisdiction of such independent counsel or accepted by such independent counsel under section 594(e), and any resulting prosecutions, have been completed or so substantially completed that it would be appropriate for the Department of Justice to complete such investigations and prosecutions. At the time of such termination, the independent counsel shall file the final report required by section 594(h)(1)(B). If the Attorney General has not made a request under this paragraph, the division of the court shall determine on its own motion whether termination is appropriate under this paragraph no later than 2 years after the appointment of an independent counsel, at the end of the succeeding 2-year period, and thereafter at the end of each succeeding 1-year period.
 
 (c)
 
@@ -68,7 +68,7 @@ Subsecs. (a)(2), (3), (b). Pub. L. 97–409, §2(a)(1)(A), substituted “indepe
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee onGovernment Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 

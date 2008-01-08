@@ -124,7 +124,7 @@
 
 (k) The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit to individual accounts in the name of each judge from whom such amounts are received.
 
-(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 617, §4096; renumbered §7296 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, §5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§1022,1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 107–103, title VI, §602, Dec. 27, 2001, 115 Stat. 999.)
+(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 617, §4096; renumbered §7296 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, §5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§1022, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 107–103, title VI, §602, Dec. 27, 2001, 115 Stat. 999.)
 
 #### References in Text
 
@@ -240,11 +240,11 @@ Transitional Service of Judge Retired Under This Section.—(1) A judge who reti
 
 &emsp;“(A) shall not be treated as—
 
-&emsp;&emsp;“(i) compensation for employment with the United States for purposes of section 7296(e) of title 38, United States Code, or any provision of title 5,United States Code, relating to the receipt or forfeiture of retired pay or retirement annuities by a person accepting compensation for employment with the United States; or
+&emsp;&emsp;“(i) compensation for employment with the United States for purposes of section 7296(e) of title 38, United States Code, or any provision of title 5, United States Code, relating to the receipt or forfeiture of retired pay or retirement annuities by a person accepting compensation for employment with the United States; or
 
 &emsp;&emsp;“(ii) pay for purposes of deductions or contributions for or on behalf of the person to retired pay under subchapter V of chapter 72 of title 38, United States Code, or under chapter 83 or 84 of title 5, United States Code, as applicable; but
 
-&emsp;“(B) may, at the election of the person, be treated as pay for purposes of deductions or contributions for or on behalf of the person to a retirement or other annuity, or both, under subchapter V of chapter 72 of title 38, United States Code, or under chapter 83 or 84 of title 5, United States Code, as applicable.
+&emsp;“(B) may, at the election of the person, be treated as pay for purposes of deductions or contributions for or on behalf of the person to a retirement or otherannuity, or both, under subchapter V of chapter 72 of title 38, United States Code, or under chapter 83 or 84 of title 5, United States Code, as applicable.
 
 “(5) Amounts paid under paragraph (3) shall be derived from amounts available for payment of salaries and benefits of judges of the Court.
 

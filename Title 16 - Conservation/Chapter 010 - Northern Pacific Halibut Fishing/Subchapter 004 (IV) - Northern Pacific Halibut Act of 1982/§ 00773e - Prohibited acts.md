@@ -22,9 +22,9 @@ It is unlawful—
 
 #### Amendment of Subsection (b)
 
-<i>Pub. L. 102–251, title III, §§302(b), 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b) is amended by substituting “exclusive economic zone or special areas” for “fishery conservation zone”.</i>
+<i>Pub. L. 102–251, title III, §§302(b), 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the</i><i>date on which the Agreement enters into force for the United States, subsection (b) is amended by substituting “exclusive economic zone or special areas” for “fishery conservation zone”.</i>
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary,signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 

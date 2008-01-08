@@ -18,7 +18,7 @@
 
 &emsp;Every operator of a vessel required by the Secretary to register under this section shall display proof of registration through an identification device prescribed by the Secretary on each vessel used by such operator to transport any taxable fuel.
 
-#### (4) <sup>1</sup> Registration of persons extending credit on certain exempt sales of fuel
+#### (4) Registration of persons extending credit on certain exempt sales of fuel
 
 &emsp;The Secretary shall require registration by any person which—
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(B) does not collect the amount of such tax from such ultimate purchaser.
 
-#### (4) <sup>1</sup> Reregistration in event of change in ownership
+#### (5) Reregistration in event of change in ownership
 
 &emsp;Under regulations prescribed by the Secretary, a person (other than a corporation the stock of which is regularly traded on an established securities market) shall be required to reregister under this section if after a transaction (or series of related transactions) more than 50 percent of ownership interests in, or assets of, such person are held by persons other than persons (or persons related thereto) who held more than 50 percent of such interests or assets before the transaction (or series of related transactions).
 
@@ -64,9 +64,11 @@ The Secretary may require—
 
 > Any person who is required to report under this subsection and who has 25 or more reportable transactions in a month shall file such report in electronic format.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, §802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, §515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, §1703(b)(1), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–203, title X, §10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, §13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, §1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, §6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, §615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, §301(b), title VIII, §§853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, §802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, §515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, §1703(b)(1), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–203, title X, §10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, §13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, §1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, §6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, §615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, §301(b), title VIII, §§853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975; Pub. L. 110–172, §11(a)(29), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### Amendments
+
+2007—Subsec. (a)(4), (5). Pub. L. 110–172 redesignated par. (4) relating to reregistration in event of change of ownership as (5).
 
 2005—Subsec. (a)(1). Pub. L. 109–59, §11113(c), substituted “4041(a)” for “4041(a)(1)”.
 
@@ -124,7 +126,7 @@ Bond.—Under regulations prescribed by the Secretary, every person who register
 
 Amendment by section 11113(c) of Pub. L. 109–59 applicable to any sale or use for any period after Sept. 30, 2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
 
-Pub. L. 109–59, title XI, §11163(e), Aug. 10, 2005, 119 Stat. 1975, provided that: “The amendments made by this section \[amending this section and sections 6206,6416, 6427, and 6675 of this title\] shall apply to sales after December 31, 2005.”
+Pub. L. 109–59, title XI, §11163(e), Aug. 10, 2005, 119 Stat. 1975, provided that: “The amendments made by this section \[amending this section and sections 6206, 6416, 6427, and 6675 of this title\] shall apply to sales after December 31, 2005.”
 
 Pub. L. 109–59, title XI, §11164(c), Aug. 10, 2005, 119 Stat. 1976, provided that: “The amendments made by this section \[amending this section and sections 6719, 7232, and 7272 of this title\] shall apply to actions, or failures to act, after the date of the enactment of this Act \[Aug. 10, 2005\].”
 
@@ -183,6 +185,4 @@ Pub. L. 109–59, title XI, §11166(a), Aug. 10, 2005, 119 Stat. 1976, provided 
 #### Publication of Registered Persons
 
 Pub. L. 108–357, title VIII, §860(c), Oct. 22, 2004, 118 Stat. 1618, provided that: “Beginning on January 1, 2005, the Secretary of the Treasury (or the Secretary's delegate) shall periodically publish under section 6103(k)(7) of the Internal Revenue Code of 1986 a current list of persons registered under section 4101 of such Code who are required to register under such section.”
-
-<i><sup>1</sup></i><i> So in original. Two pars. (4) have been enacted.</i>
 

@@ -32,7 +32,7 @@
 
 &emsp;(B) the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in section 10(a)(1) of such Act relative to such a dispute.
 
-(e) Nothing in this section shall be considered to grant authority for the Office or third-party reviewer to change the terms of any contract under this chapter.
+(e) Nothing in this section shall be considered to grant authority for the Office or third-partyreviewer to change the terms of any contract under this chapter.
 
 (f) Contracts under this chapter shall be for a uniform term of 7 years and may not be renewed automatically.
 

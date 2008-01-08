@@ -44,7 +44,7 @@ In determining whether to initiate an investigation under subsection (a) or (b) 
 
 #### Prior Provisions
 
-A prior section 302 of Pub. L. 93–618, title III, Jan. 3, 1975, 88 Stat. 2043, which related to the procedure for Congressional disapproval of certain actions taken bythe President to eliminate foreign import restrictions and export subsidies and which was classified to this section, was omitted in the general revision of chapter 1 of title III of Pub. L. 93–618 by Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295.
+A prior section 302 of Pub. L. 93–618, title III, Jan. 3, 1975, 88 Stat. 2043, which related to the procedure for Congressional disapproval of certain actions taken by the President to eliminate foreign import restrictions and export subsidies and which was classified to this section, was omitted in the general revision of chapter 1 of title III of Pub. L. 93–618 by Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295.
 
 #### Amendments
 

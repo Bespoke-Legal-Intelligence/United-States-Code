@@ -90,7 +90,7 @@ Training of employees and agents.—An assurance that the foreign air carrier wi
 
 &emsp;(16)
 
-Consultation on carrier response not covered by plan.—An assurance that the foreign air carrier, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, the foreign air carrier <sup>1</sup> will consult with the Board and the Department of State on the provision of the assistance.
+Consultation on carrier response not covered by plan.—An assurance that the foreign air carrier, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, theforeign air carrier <sup>1</sup> will consult with the Board and the Department of State on the provision of the assistance.
 
 &emsp;(17)
 

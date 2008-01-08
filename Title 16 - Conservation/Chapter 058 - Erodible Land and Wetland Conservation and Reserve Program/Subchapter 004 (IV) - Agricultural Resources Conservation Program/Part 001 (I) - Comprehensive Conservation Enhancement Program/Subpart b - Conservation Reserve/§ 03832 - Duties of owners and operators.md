@@ -26,7 +26,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;&emsp;(A) to forfeit all rights to receive rental payments and cost sharing payments under the contract and to refund to the Secretary any rental payments and cost sharing payments received by the owner or operator under the contract, together with interest on the payments as determined by the Secretary, if the Secretary, after considering the recommendations of the soil conservation district and the Natural Resources Conservation Service, determines that the violation is of such nature as to warrant termination of the contract; or
 
-&emsp;&emsp;(B) to refund to the Secretary, or accept adjustments to, the rental payments and cost sharing payments provided to the owner or operator, as the Secretary considers appropriate, if the Secretary determines that the violation does not warrant termination of the contract;
+&emsp;&emsp;(B) to refund to the Secretary, or accept adjustments to, the rental payments andcost sharing payments provided to the owner or operator, as the Secretary considers appropriate, if the Secretary determines that the violation does not warrant termination of the contract;
 
 &emsp;(6) on the transfer of the right and interest of the owner or operator in land subject to the contract—
 

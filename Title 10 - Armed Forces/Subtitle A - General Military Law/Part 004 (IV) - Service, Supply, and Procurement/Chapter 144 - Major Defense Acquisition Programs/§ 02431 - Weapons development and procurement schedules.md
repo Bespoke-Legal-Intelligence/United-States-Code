@@ -626,7 +626,7 @@ Definitions.—In this section:
 
 &emsp;“(3) The term ‘appropriate congressional committees’ means—
 
-&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on Foreign Affairs \[now Committee on International Relations\], and the Committee on Appropriations of the House of Representatives; and
+&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives; and
 
 &emsp;&emsp;“(B) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.”
 
@@ -858,7 +858,7 @@ Section 1252 of Pub. L. 98–525 directed Secretary of Defense, not later than o
 
 #### Consultation With Allies on Strategic Defense Initiative Program
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8104\], Oct. 12, 1984, 98 Stat. 1904, 1942, provided that: “It is the sense of the Congress that—(a) the President shall inform and make every effort to consult with other member nations of the North Atlantic Treaty Organization, Japan, and other appropriate allies concerning the research being conducted in the Strategic Defense Initiative program. (b) The Secretary of Defense, in coordination with the Secretary of State and the Director of the Arms Control and Disarmament Agency, shall at the time of the submission of the annual budget presentation materials for each fiscal year beginning after September 30, 1984, report to the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate and the Committees on Appropriations, Armed Services, and Foreign Affairs \[now International Relations\] of the House of Representatives on the status of the consultations referred to under subsection (a).”
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8104\], Oct. 12, 1984, 98 Stat. 1904, 1942, provided that: “It is the sense of the Congress that—(a) the President shall inform and make every effort to consult with other member nations of the North Atlantic Treaty Organization, Japan, and other appropriate allies concerning the research being conducted in the Strategic Defense Initiative program. (b) The Secretary of Defense, in coordination with the Secretary of State and the Director of the Arms Control and Disarmament Agency, shall at the time of the submission of the annual budget presentation materials for each fiscal year beginning after September 30, 1984, report to the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate and the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives on the status of the consultations referred to under subsection (a).”
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.\]
 

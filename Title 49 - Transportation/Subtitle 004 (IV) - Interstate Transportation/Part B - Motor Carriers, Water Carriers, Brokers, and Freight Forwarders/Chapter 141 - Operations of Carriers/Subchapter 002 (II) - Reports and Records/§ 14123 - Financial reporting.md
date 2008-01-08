@@ -10,7 +10,7 @@ Annual reports.—The Secretary shall require Class I and Class II motor carrier
 
 &emsp;(2)
 
-Other reports.—The Secretary may require motor carriers, freight forwarders, brokers, lessors, and associations, or classes of them as the Secretary may prescribe, to file quarterly, periodic, or special reports with the Secretary and to respond to surveys concerning their operations.
+Other reports.—The Secretary may require motor carriers, freight forwarders, brokers, lessors, and associations, or classes of them as the Secretary may prescribe, to filequarterly, periodic, or special reports with the Secretary and to respond to surveys concerning their operations.
 
 (b)
 

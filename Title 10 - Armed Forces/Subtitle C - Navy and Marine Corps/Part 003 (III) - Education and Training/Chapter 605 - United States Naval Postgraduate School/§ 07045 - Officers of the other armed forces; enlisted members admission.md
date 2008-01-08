@@ -72,8 +72,6 @@ Subsec. (d). Pub. L. 109–163, §526(b), added subsec. (d).
 
 2003—Subsec. (a)(2). Pub. L. 108–136, §532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may permit an enlisted member of the armed forces who is assigned to the Naval Postgraduate School or to a nearby command to receive instruction at the Naval Postgraduate School. Admission of enlisted members for instruction under this paragraph shall be on a space-available basis.”
 
-z
-
 Subsec. (b). Pub. L. 108–136, §532(b), designated first sentence as par. (1) and substituted “Except as provided under paragraph (3), the Department” for “The Department” and “members” for “officers”, designated second sentence as par. (2) and inserted “under subsection (a)(2)(C)” after “permitted” and “on a space-available basis” after “instruction at the Postgraduate School” and struck out “(taking into consideration the admission of enlisted members on a space-available basis)” before period at end, and added par. (3).
 
 2002—Subsec. (a)(1). Pub. L. 107–296, §1704(b)(5)(A), substituted “Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security” for “Secretaries of the Army, Air Force, and Transportation”.

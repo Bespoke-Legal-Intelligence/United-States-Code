@@ -14,7 +14,7 @@ As used in this chapter:
 
 #### (2) Prescriber
 
-&emsp;The term “prescriber” means, with respect to contact lens prescriptions, an ophthalmologist, optometrist, or other person permitted under State law to issue prescriptions for contact lenses in compliance with any applicable requirements established by the Food and Drug Administration.
+&emsp;The term “prescriber” means, with respect to contact lens prescriptions, an ophthalmologist, optometrist, or other person permitted under State law to issue prescriptions for contact lenses in compliance with any applicablerequirements established by the Food and Drug Administration.
 
 #### (3) Contact lens prescription
 

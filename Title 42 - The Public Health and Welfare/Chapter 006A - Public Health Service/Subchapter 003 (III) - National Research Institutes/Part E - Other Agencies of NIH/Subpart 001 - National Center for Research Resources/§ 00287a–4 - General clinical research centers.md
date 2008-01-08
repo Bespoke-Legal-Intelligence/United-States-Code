@@ -8,11 +8,7 @@ The Director of the National Center for Research Resources shall award grants fo
 
 In carrying out subsection (a) of this section, the Director of National Institutes of Health shall expand the activities of the general clinical research centers through the increased use of telecommunications and telemedicine initiatives.
 
-(July 1, 1944, ch. 373, title IV, §481C, as added Pub. L. 106–505, title II, §204(a), Nov. 13, 2000, 114 Stat. 2327; amended Pub. L. 109–482, title I, §103(b)(42), Jan. 15, 2007, 120 Stat. 3688.)
-
-#### Codification
-
-Another section 481C of act July 1, 1944, is classified to section 287a–3a of this title.
+(July 1, 1944, ch. 373, title IV, §481D, formerly §481C, as added Pub. L. 106–505, title II, §204(a), Nov. 13, 2000, 114 Stat. 2327; amended Pub. L. 109–482, title I, §103(b)(42), Jan. 15, 2007, 120 Stat. 3688; renumbered §481D, Pub. L. 110–170, §2(b), Dec. 26, 2007, 121 Stat. 2466.)
 
 #### Amendments
 

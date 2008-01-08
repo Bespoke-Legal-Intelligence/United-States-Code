@@ -32,7 +32,7 @@
 
 #### (I) No adverse decision
 
-&emsp;&emsp;&emsp;&emsp;The determination shall not be considered an adverse decision for purposes of subtitle H of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6991 et seq.).
+&emsp;&emsp;&emsp;&emsp;The determination shall not be considered an adverse decision for purposes ofsubtitle H of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6991 et seq.).
 
 #### (II) Reversal or modification
 
@@ -188,7 +188,7 @@
 
 #### (iv) Current policies
 
-&emsp;&emsp;&emsp;This clause shall take effect beginning with the 1997 crop year. Subject to clause (ii) all catastrophic risk protection policies written by local offices of the Department shall be transferred to the approved insurance provider for performance of all sales, service, and loss adjustment functions. Any fees in connection with such policies that are not yet collected at the time of the transfer shall be payable to the approved insurance providers assuming the policies. The transfer process for policies for the 1997 crop year with sales closing dates before January 1, 1997, shall begin at the time of the Secretary's announcement under clause (iii) and be completed by the sales closing date for the crop and county. The transfer process for all subsequent policies (including policies for the 1998 and subsequent crop years) shall begin at a date that permits the process to be completed not later than 45 days before the sales closing date.
+&emsp;&emsp;&emsp;This clause shall take effect beginning with the 1997 crop year. Subject to clause (ii) all catastrophic risk protection policies written by local offices of the Department shall be transferred to the approvedinsurance provider for performance of all sales, service, and loss adjustment functions. Any fees in connection with such policies that are not yet collected at the time of the transfer shall be payable to the approved insurance providers assuming the policies. The transfer process for policies for the 1997 crop year with sales closing dates before January 1, 1997, shall begin at the time of the Secretary's announcement under clause (iii) and be completed by the sales closing date for the crop and county. The transfer process for all subsequent policies (including policies for the 1998 and subsequent crop years) shall begin at a date that permits the process to be completed not later than 45 days before the sales closing date.
 
 #### (5) Administrative fee
 
@@ -256,7 +256,7 @@
 
 &emsp;&emsp;&emsp;(i) obtain at least the catastrophic level of insurance for each crop of economic significance in which the person has an interest; or
 
-&emsp;&emsp;&emsp;(ii) provide a written waiver to the Secretary that waives any eligibility for emergency crop loss assistance in connection with the crop.
+&emsp;&emsp;&emsp;(ii) provide a written waiver to the Secretary that waives any eligibility foremergency crop loss assistance in connection with the crop.
 
 #### (B) “Crop of economic significance” defined
 
@@ -290,7 +290,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall offer to producers of agricultural commodities grown in theUnited States plans of crop insurance that provide additional coverage.
+&emsp;&emsp;The Corporation shall offer to producers of agricultural commodities grown in the United States plans of crop insurance that provide additional coverage.
 
 #### (B) Purchase
 
@@ -354,7 +354,7 @@
 
 #### (9) Limitations on additional coverage
 
-&emsp;The Board may limit the availability of additional coverage under this subsection in any county or area, or on any farm, on the basis of the insurance risk involved. The Board shall not offer additional coverage equal to lessthan 50 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage.
+&emsp;The Board may limit the availability of additional coverage under this subsection in any county or area, or on any farm, on the basis of the insurance risk involved. The Board shall not offer additional coverage equal to less than 50 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage.
 
 #### (10) Administrative fee
 
@@ -392,7 +392,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of encouraging the broadest possible participation of producers in the catastrophic risk protection provided under subsection (b) of this section and the additional coverage provided under subsection (c) of this section, the Corporation shall pay a part of the premium in the amounts provided in accordance with this subsection.
+&emsp;For the purpose of encouraging the broadest possible participation of producers in the catastrophic risk protection provided under subsection (b) of this section and the additional coverage provided under subsection (c) of this section, the Corporation shall pay a part ofthe premium in the amounts provided in accordance with this subsection.
 
 #### (2) Amount of payment
 
@@ -446,7 +446,7 @@
 
 #### (5) Premium payment disclosure
 
-&emsp;Each policy or plan of insurance under this chapter shall prominently indicate the dollar amount of the portion of the premium paid by the Corporation.
+&emsp;Each policy or plan of insurance under this chapter shall prominently indicate the dollaramount of the portion of the premium paid by the Corporation.
 
 #### (f) Eligibility
 
@@ -638,7 +638,7 @@
 
 #### (iii) Failure to meet deadline
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this chapter, if the Board fails to make adetermination within the prescribed time period, the submitted policy or other material shall be deemed approved by the Board for the initial reinsurance year designated for the policy or material, unless the Board and the applicant agree to an extension.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this chapter, if the Board fails to make a determination within the prescribed time period, the submitted policy or other material shall be deemed approved by the Board for the initial reinsurance year designated for the policy or material, unless the Board and the applicant agree to an extension.
 
 #### (5) Premium schedule
 
@@ -784,7 +784,7 @@ The Corporation may offer specific risk protection programs, including protectio
 
 &emsp;&emsp;&emsp;(i) The agricultural commodity is sold on an identity-preserved basis.
 
-&emsp;&emsp;&emsp;(ii) All quality determinations are made solely by the Federal agency designated tograde or classify the agricultural commodity.
+&emsp;&emsp;&emsp;(ii) All quality determinations are made solely by the Federal agency designated to grade or classify the agricultural commodity.
 
 &emsp;&emsp;&emsp;(iii) All quality determinations are made in accordance with standards published by the Federal agency in the Federal Register.
 
@@ -846,7 +846,7 @@ Section 7759 of this title, referred to in subsec. (g)(5)(A)(i), was amended by 
 
 Section 118 of the Federal Crop Insurance Reform Act of 1994, referred to in subsec. (k)(5), is section 118 of Pub. L. 103–354, which is set out as a note under section 1506 of this title.
 
-The United States Warehouse Act, referred to in subsec. (m)(4)(A), is part C of act Aug. 11, 1916, ch. 313, 39Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
+The United States Warehouse Act, referred to in subsec. (m)(4)(A), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (n)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle C of the Act is classified generally to subchapter III (§1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
@@ -952,7 +952,7 @@ Subsec. (c)(10)(C). Pub. L. 105–185, §532(b)(2), substituted “$20” for �
 
 Subsec. (h)(10). Pub. L. 105–185, §534, added par. (10).
 
-Subsec. (k)(4). Pub. L. 105–185, §532(c), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “The rate established by the Board to reimburse approved insurance providers and agents for the administrative and operating costs of the providers and agents shall not exceed—
+Subsec. (k)(4). Pub. L. 105–185, §532(c), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “The rate established by the Board toreimburse approved insurance providers and agents for the administrative and operating costs of the providers and agents shall not exceed—
 
 &emsp;“(A) for the 1997 reinsurance year, 29 percent of the premium used to define loss ratio;
 
@@ -994,7 +994,7 @@ Subsec. (e). Pub. L. 101–624, §2204(a)(1), (b)(2), redesignated subsec. (b) a
 
 Subsec. (f). Pub. L. 101–624, §2204(a)(1), redesignated subsec. (c) as (f). Former subsec. (f) redesignated (i).
 
-Pub. L. 101–624, §2203(a), inserted heading, substituted “The Corporation may adjust and pay claims for lossesas provided under subsection (a) of this section” for “To adjust and pay claims for losses”, and inserted after first sentence “The rules prescribed by the Board shall establish standards to ensure that all claims for losses are adjusted to the extent practicable in a uniform and timely manner.”
+Pub. L. 101–624, §2203(a), inserted heading, substituted “The Corporation may adjust and pay claims for losses as provided under subsection (a) of this section” for “To adjust and pay claims for losses”, and inserted after first sentence “The rules prescribed by the Board shall establish standards to ensure that all claims for losses are adjusted to the extent practicable in a uniform and timely manner.”
 
 Subsec. (g). Pub. L. 101–624, §2204(a)(1), (b)(3), redesignated subsec. (d) as (g), inserted heading, and substituted “the Corporation may include” for “to include”. Former subsec. (g) redesignated (j).
 
@@ -1020,7 +1020,7 @@ Subsec. (n). Pub. L. 101–624, §2204(a)(3), added subsec. (n).
 
 1988—Subsec. (j). Pub. L. 100–387 added subsec. (j).
 
-1980—Subsec. (a). Pub. L. 96–365, §105, authorized Corporation, if sufficient actuarial data is available, to insure producers of any agricultural commodity grown in the United States under any plan of insurance determined to be adapted to the commodity involved; defined “field” in the case of aquacultural species to mean the environment in which the commodity is produced; in revising percentage limitations for crop insurance coverage, prescribed 75 per centum protection for recorded or appraised average yield (previously protected up to such percentage), offered producers lesser levels of coverage including 50 per centum of recorded or appraised average yield as adjusted, barred protection exceeding 75 per centum, offered price election approximating (but not less than 90 per centum of) projected market price for commodity involved, and struck out requirement for downward adjustment of minimum percentage in yield which may be insured to reflect investment in crop; and struck out limitations on Federal crop insurance program which: limited crop insurance to not more than seven agricultural commodities in 1948 and to not more than three additional commodities yearly thereafter, beginning with 1954 crop authorized yearly expansion of crop insurance program to not more than 150 counties in addition to counties offered insurance the previous year, limited reinsurance for private insurance companies to 20 counties, and required counties selected by the Board for crop insurance to be representative of areas where the commodity involved normally was produced; and struck out general reinsurance provision, covered in subsec. (e) of this section.
+1980—Subsec. (a). Pub. L. 96–365, §105, authorized Corporation, if sufficient actuarial data is available, to insure producers of any agricultural commodity grown in the United States under any plan of insurance determined to be adapted to the commodity involved; defined “field” in the case of aquacultural species to mean the environment in which the commodity is produced; in revising percentage limitations for crop insurance coverage, prescribed 75 per centum protection for recorded or appraised average yield (previously protected up to such percentage), offered producers lesser levels of coverage including 50 per centum of recorded or appraised average yield as adjusted, barred protection exceeding 75 per centum, offered price election approximating (but not less than 90 per centum of) projected market price for commodity involved, and struck out requirement for downward adjustment of minimum percentage in yield which may be insured to reflect investment in crop; and struck out limitations on Federal crop insurance program which: limited cropinsurance to not more than seven agricultural commodities in 1948 and to not more than three additional commodities yearly thereafter, beginning with 1954 crop authorized yearly expansion of crop insurance program to not more than 150 counties in addition to counties offered insurance the previous year, limited reinsurance for private insurance companies to 20 counties, and required counties selected by the Board for crop insurance to be representative of areas where the commodity involved normally was produced; and struck out general reinsurance provision, covered in subsec. (e) of this section.
 
 Subsec. (b). Pub. L. 96–365, §106(1), designated existing provisions as par. (1), struck out “in the agricultural commodity or in cash,” after “premiums for insurance” and proviso from first sentence authorizing establishment of premiums on the basis of the parity or comparable price for the commodity as determined and publish by Secretary of Agriculture, or on the basis of an average market price designated by the Board and second sentence providing for collection of premiums at such time or times, or for securing in such manner, as the Board may determine, which is covered in par. (4), required the rates to be actuarially sufficient, added pars. (2) and (3), incorporated existing provision in par. (4), and added pars. (5) and (6).
 
@@ -1200,7 +1200,7 @@ Section 117 of Pub. L. 103–354 provided that: “Not later than 180 days after
 
 #### Federal Crop Insurance Commission
 
-Pub. L. 100–546, Oct. 28, 1988, 102 Stat. 2730, provided for establishment, membership, compensation, etc., of Commission for the Improvement of the Federal Crop Insurance Program, directed Commission to study and determine why participation in program had not reached levels anticipated when Federal Crop Insurance Act of 1980 was enacted, to identify States and commodities to which lack of participation in program is most serious, and to prepare findings and recommendations setting forth means by which participation in program could be increased and natural protection for producers of agricultural commodities could be improved, required Commission to submit an interim report to Congressional committees and Secretary of Agriculture, not later than Apr. 1, 1989, containing findings and recommendations for immediate administrative improvement in program, aimed at improving program in 1990 sales year, and a final report, not later than July 1, 1989, to include Commission's findings and recommendation and a status report on improvement of program, authorized Commission to continue to monitor program and to submit monthly reports beginning July 1, 1989, and ending Dec. 31, 1990, and terminated Commission on Dec. 31, 1990.
+Pub. L. 100–546, Oct. 28, 1988, 102 Stat. 2730, provided for establishment, membership, compensation, etc., ofCommission for the Improvement of the Federal Crop Insurance Program, directed Commission to study and determine why participation in program had not reached levels anticipated when Federal Crop Insurance Act of 1980 was enacted, to identify States and commodities to which lack of participation in program is most serious, and to prepare findings and recommendations setting forth means by which participation in program could be increased and natural protection for producers of agricultural commodities could be improved, required Commission to submit an interim report to Congressional committees and Secretary of Agriculture, not later than Apr. 1, 1989, containing findings and recommendations for immediate administrative improvement in program, aimed at improving program in 1990 sales year, and a final report, not later than July 1, 1989, to include Commission's findings and recommendation and a status report on improvement of program, authorized Commission to continue to monitor program and to submit monthly reports beginning July 1, 1989, and ending Dec. 31, 1990, and terminated Commission on Dec. 31, 1990.
 
 #### Loss Adjustment Obligations
 

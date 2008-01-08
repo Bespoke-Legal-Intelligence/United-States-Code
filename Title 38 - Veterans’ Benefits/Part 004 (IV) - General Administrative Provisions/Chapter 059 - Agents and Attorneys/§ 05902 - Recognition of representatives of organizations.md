@@ -2,11 +2,11 @@
 
 (a)(1) The Secretary may recognize representatives of the American National Red Cross, the American Legion, the Disabled American Veterans, the United Spanish War Veterans, the Veterans of Foreign Wars, and such other organizations as the Secretary may approve, in the preparation, presentation, and prosecution of claims under laws administered by the Secretary.
 
-(2) The Secretary may, in the discretion of the Secretary, furnish, if available, space and officefacilities for the use of paid full-time representatives of national organizations so recognized.
+(2) The Secretary may, in the discretion of the Secretary, furnish, if available, space and office facilities for the use of paid full-time representatives of national organizations so recognized.
 
 (b)(1) No individual shall be recognized under this section—
 
-&emsp;(A) unless the individual has certified to the Secretary that no fee or compensation of any nature will be charged any individual for services rendered in connection with any claim; and
+&emsp;(A) unless the individual has certified to the Secretary that no fee or compensation of anynature will be charged any individual for services rendered in connection with any claim; and
 
 &emsp;(B) unless, with respect to each claim, such individual has filed with the Secretary a power of attorney, executed in such manner and form as the Secretary may prescribe.
 

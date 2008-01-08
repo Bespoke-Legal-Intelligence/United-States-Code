@@ -360,6 +360,17 @@ I74subpart 1—minority science and engineering improvement program
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### subpart 9—teach grants
+
+|  |  |
+| :--- | ---: |
+| [1070g.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20A%20-%20Grants%20to%20Students%20in%20Attendance%20at%20Institutions%20of%20Higher%20Education/Subpart%20009%20-%20Teach%20Grants/%C2%A7%2001070g%20-%20Definitions.md) | Definitions. |
+| 1070g–1. | Program established. |
+| 1070g–2. | Applications; eligibility. |
+| 1070g–3. | Program period and funding. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part B—Federal Family Education Loan Program
 
 |  |  |
@@ -383,7 +394,7 @@ I74subpart 1—minority science and engineering improvement program
 | 1078–6. | Default reduction program. |
 | 1078–7. | Requirements for disbursement of student loans. |
 | 1078–8. | Unsubsidized Stafford loans for middle-income borrowers. |
-| 1078–9. | Special insurance and reinsurance rules. |
+| 1078–9. | Repealed. |
 | 1078–10. | Loan forgiveness for teachers. |
 | 1078–11. | Loan forgiveness for child care providers. |
 | [1079\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001079%20-%20Certificate%20of%20Federal%20loan%20insurance%E2%80%94effective%20date%20of%20insurance.md) | Certificate of Federal loan insurance—effective date of insurance. |
@@ -490,7 +501,22 @@ I74subpart 1—minority science and engineering improvement program
 | [1098b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098b%20-%20Authorization%20of%20appropriations%20for%20administrative%20expenses.md) | Authorization of appropriations for administrative expenses. |
 | [1098c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098c%20-%20Year%202000%20requirements%20at%20the%20Department.md) | Year 2000 requirements at the Department. |
 | [1098d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098d%20-%20Procedures%20for%20cancellations%20and%20deferments%20for%20eligible%20disabled%20veterans.md) | Procedures for cancellations and deferments for eligible disabled veterans. |
-| [1099\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001099%20-%20Exemption%20from%20State%20disclosure%20requirements.md) | Exemption from State disclosure requirements. |
+| [1098e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098e%20-%20Income-based%20repayment.md) | Income-based repayment. |
+| [1098f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098f%20-%20Deferral%20of%20loan%20repayment%20following%20active%20duty.md) | Deferral of loan repayment following active duty. |
+| [1098g.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098g%20-%20Exemption%20from%20State%20disclosure%20requirements.md) | Exemption from State disclosure requirements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part F–1—Higher Education Relief Opportunities for Students
+
+|  |  |
+| :--- | ---: |
+| [1098aa.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098aa%20-%20Short%20title%3B%20findings%3B%20reference.md) | Short title; findings; reference. |
+| [1098bb.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/1098bb.%20Waiver%20authority%20for%20response%20to%20military%20contingencies%20and%20national%20emergencies.md) | Waiver authority for response to military contingencies and national emergencies. |
+| [1098cc.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/1098cc.%20Tuition%20refunds%20or%20credits%20for%20members%20of%20armed%20forces.md) | Tuition refunds or credits for members of armed forces. |
+| [1098dd.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/1098dd.%20Use%20of%20professional%20judgment.md) | Use of professional judgment. |
+| [1098ee.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/1098ee.%20Definitions.md) | Definitions. |
+| [1099\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001099%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -519,6 +545,22 @@ I74subpart 1—state role
 | [1099c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20G%20-%20Program%20Integrity/Subpart%20003%20-%20Eligibility%20and%20Certification%20Procedures/%C2%A7%2001099c%20-%20Eligibility%20and%20certification%20procedures.md) | Eligibility and certification procedures. |
 | 1099c–1. | Program review and data. |
 | 1099c–2. | Review of regulations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part H—Competitive Loan Auction Pilot Program
+
+|  |  |
+| :--- | ---: |
+| [1099d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20H%20-%20Competitive%20Loan%20Auction%20Pilot%20Program/%C2%A7%2001099d%20-%20Competitive%20loan%20auction%20pilot%20program.md) | Competitive loan auction pilot program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part I—Strengthening Historically Black Colleges and Universities and Other Minority-Serving Institutions
+
+|  |  |
+| :--- | ---: |
+| [1099e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20I%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities%20and%20Other%20Minority-Serving%20Institutions/%C2%A7%2001099e%20-%20Investment%20in%20historically%20Black%20colleges%20and%20universities%20and%20other%20minority-serving%20institutions.md) | Investment in historically Black colleges and universities and other minority-serving institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -693,6 +735,14 @@ I74subpart 1—jacob k. javits fellowship program
 | [1140b.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Demonstration%20Projects%20to%20Ensure%20Students%20with%20Disabilities%20Receive%20a%20Quality%20Higher%20Education/%C2%A7%2001140b%20-%20Applications.md) | Applications. |
 | [1140c.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Demonstration%20Projects%20to%20Ensure%20Students%20with%20Disabilities%20Receive%20a%20Quality%20Higher%20Education/%C2%A7%2001140c%20-%20Rule%20of%20construction.md) | Rule of construction. |
 | [1140d.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Demonstration%20Projects%20to%20Ensure%20Students%20with%20Disabilities%20Receive%20a%20Quality%20Higher%20Education/%C2%A7%2001140d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—College Access Challenge Grant Program
+
+|  |  |
+| :--- | ---: |
+| [1141\.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20E%20-%20College%20Access%20Challenge%20Grant%20Program/%C2%A7%2001141%20-%20College%20access%20challenge%20grant%20program.md) | College access challenge grant program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

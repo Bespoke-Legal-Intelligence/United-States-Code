@@ -52,7 +52,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 &emsp;&emsp;(C) that are sponsored by public or private nonprofit employers who agree to pay 100 percent of the salaries and benefits (other than any national service educational award under division D of this subchapter) of the participants.
 
-&emsp;(9) A program in which economically disadvantaged individuals who are between the ages of 16 and 24 years of age, inclusive, are provided with opportunities to perform servicethat, while enabling such individuals to obtain the education and employment skills necessary to achieve economic self-sufficiency, will help their communities meet—
+&emsp;(9) A program in which economically disadvantaged individuals who are between the ages of 16 and 24 years of age, inclusive, are provided with opportunities to perform service that, while enabling such individuals to obtain the education and employment skills necessary to achieve economic self-sufficiency, will help their communities meet—
 
 &emsp;&emsp;(A) the housing needs of low-income families and the homeless; and
 

@@ -1,6 +1,6 @@
 ### §1431a. Cotton donations to educational institutions
 
-Commodity Credit Corporation is authorized, on such terms as the Secretary of Agriculturemay approve, to donate cotton acquired through its price support operations to educational institutions for use in the training of students in the processing and manufacture of cotton into textiles.
+Commodity Credit Corporation is authorized, on such terms as the Secretary of Agriculture may approve, to donate cotton acquired through its price support operations to educational institutions for use in the training of students in the processing and manufacture of cotton into textiles.
 
 (Pub. L. 85–835, title V, §505, Aug. 28, 1958, 72 Stat. 996.)
 

@@ -44,7 +44,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 &emsp;&emsp;&emsp;(iii) the operation of the mineral leasing, mineral materials, and geothermal leasing laws, and all amendments thereto.
 
-> &emsp;&emsp;Nothing in this subparagraph shall be construed to affect discretionary authority of the Secretary under other Federal laws to grant, issue, or renew rights-of-way or other land use authorizations consistent with the other provisions of this Act.
+> &emsp;&emsp;Nothing in this subparagraph shall be construed to affect discretionary authority ofthe Secretary under other Federal laws to grant, issue, or renew rights-of-way or other land use authorizations consistent with the other provisions of this Act.
 
 #### (C) Motorized and mechanized travel
 
@@ -108,7 +108,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (3) Water infrastructure
 
-&emsp;Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, or construction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including the use of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F) of this section.
+&emsp;Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, or construction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including theuse of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F) of this section.
 
 (Pub. L. 107–216, §3, Aug. 21, 2002, 116 Stat. 1056.)
 
@@ -123,6 +123,10 @@ The mining laws, referred to in subsec. (d)(1)(B)(ii), are classified generally 
 The mineral leasing laws, referred to in subsec. (d)(1)(B)(iii), are classified generally to Title 30, Mineral Lands and Mining.
 
 The geothermal leasing laws, referred to in subsec. (d)(1)(B)(iii), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Short Title
 

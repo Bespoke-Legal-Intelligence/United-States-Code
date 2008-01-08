@@ -42,9 +42,9 @@
 
 &emsp;&emsp;(B) in the case of negotiable instruments, only for a negotiable instrument drawn on a financial institution located in the United States or on a foreign branch of such an institution.
 
-(c)(1) An amount held by the disbursing official that is available for expenditure may beused to carry out subsection (a) of this section with the approval of the head of the agency having jurisdiction over the amount.
+(c)(1) An amount held by the disbursing official that is available for expenditure may be used to carry out subsection (a) of this section with the approval of the head of the agency having jurisdiction over the amount.
 
-(2) The head of an agency having jurisdiction over a disbursing official may offset, within the same fiscal year, a deficiency resulting from a transaction under subsection (a) of this section with a gain from a transaction under subsection (a). A gain in the account of a disbursing official not used to offset deficiencies under subsection (a) shall be deposited in the Treasury as miscellaneous receipts.
+(2) The head of an agency having jurisdiction over a disbursing official may offset, within the same fiscal year, a deficiency resulting from atransaction under subsection (a) of this section with a gain from a transaction under subsection (a). A gain in the account of a disbursing official not used to offset deficiencies under subsection (a) shall be deposited in the Treasury as miscellaneous receipts.
 
 (3) The amount of any deficiency resulting from cashing a check for a dependent under subsection (b)(3), including any charges assessed against the disbursing official by a financial institution for insufficient funds to pay the check, may be offset from the pay of the dependent's sponsor.
 

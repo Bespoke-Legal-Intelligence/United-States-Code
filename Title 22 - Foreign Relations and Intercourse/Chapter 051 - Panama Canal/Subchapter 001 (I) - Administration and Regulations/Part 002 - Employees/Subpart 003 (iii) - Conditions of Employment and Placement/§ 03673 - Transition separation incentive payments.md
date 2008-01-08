@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) an employee described in any of subparagraphs (A) through (F) of subsection (a)(2) of section 663; or
 
-&emsp;&emsp;(B) an employee of the Commission who, during the 24-month period preceding the date of separation, has received a recruitment or relocation bonus under section 3657(c) of this title or who, within the 12-month period preceding the date of separation, received a retention bonus under section 3657(d) of this title;
+&emsp;&emsp;(B) an employee of the Commission who, during the 24-month period preceding thedate of separation, has received a recruitment or relocation bonus under section 3657(c) of this title or who, within the 12-month period preceding the date of separation, received a retention bonus under section 3657(d) of this title;
 
 &emsp;(2) the strategic plan under subsection (b) of section 663 shall include (in lieu of the matter specified in subsection (b)(2) of that section)—
 

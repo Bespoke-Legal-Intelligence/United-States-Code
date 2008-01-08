@@ -36,11 +36,11 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (e) Required providers regarding certain services
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254b, 256a, or 300 of this title,<sup>1</sup> or areother public or nonprofit private entities that provide health services to a significant number of low-income women.
+The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254b, 256a, or 300 of this title,<sup>1</sup> or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
 
 #### (f) Quality assurance regarding screening for diseases
 
-For purposes of this section, the Secretary shall establish criteria for ensuring the quality of screening procedures for diseases described in subsection (a) of this section.
+For purposes of this section, the Secretary shall establish criteria for ensuring the qualityof screening procedures for diseases described in subsection (a) of this section.
 
 #### (g) Confidentiality
 
@@ -182,7 +182,7 @@ Subsec. (r)(2). Pub. L. 103–183, §402(b)(2), substituted “1998” for “19
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, andjurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 2003 Amendment
 

@@ -78,7 +78,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;&emsp;The term “qualified State expenditures” means, with respect to a State and a fiscal year, the total expenditures by the State during the fiscal year, under all State programs, for any of the following with respect to eligible families:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) Cash assistance, including any amount collected by the State as support pursuant to a plan approved under part D of this subchapter, on behalf of a family receiving assistance under theState program funded under this part, that is distributed to the family under section 657(a)(1)(B) of this title and disregarded in determining the eligibility of the family for, and the amount of, such assistance.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) Cash assistance, including any amount collected by the State as support pursuant to a plan approved under part D of this subchapter, on behalf of a family receiving assistance under the State program funded under this part, that is distributed to the family under section 657(a)(1)(B) of this title and disregarded in determining the eligibility of the family for, and the amount of, such assistance.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) Child care assistance.
 
@@ -142,7 +142,7 @@ Subject to this section:
 
 #### (v) Source of data
 
-&emsp;&emsp;&emsp;In determining expenditures by a State for fiscal years 1994 and 1995, the Secretary shall use information which was reported by the State on ACF Form 231 or (in the case of expenditures under part F of thissubchapter) ACF Form 331, available as of the dates specified in clauses (ii) and (iii) of section 603(a)(1)(D) <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;In determining expenditures by a State for fiscal years 1994 and 1995, the Secretary shall use information which was reported by the State on ACF Form 231 or (in the case of expenditures under part F of this subchapter) ACF Form 331, available as of the dates specified in clauses (ii) and (iii) of section 603(a)(1)(D) <sup>1</sup> of this title.
 
 #### (8) Noncompliance of State child support enforcement program with requirements of part D
 
@@ -194,7 +194,7 @@ Subject to this section:
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that a State to which a grant is made under section 603 of this title for a fiscal year has violated section 607(e)(2) of this title during the fiscalyear, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to not more than 5 percent of the State family assistance grant.
+&emsp;&emsp;If the Secretary determines that a State to which a grant is made under section 603 of this title for a fiscal year has violated section 607(e)(2) of this title during the fiscal year, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to not more than 5 percent of the State family assistance grant.
 
 #### (B) Penalty based on severity of failure
 
@@ -260,7 +260,7 @@ Subject to this section:
 
 #### (D) Acceptance of plan
 
-&emsp;&emsp;A corrective compliance plan submitted by a State in accordance with subparagraph (B)is deemed to be accepted by the Secretary if the Secretary does not accept or reject the plan during 60-day period that begins on the date the plan is submitted.
+&emsp;&emsp;A corrective compliance plan submitted by a State in accordance with subparagraph (B) is deemed to be accepted by the Secretary if the Secretary does not accept or reject the plan during 60-day period that begins on the date the plan is submitted.
 
 #### (2) Effect of correcting or discontinuing violation
 
@@ -400,7 +400,7 @@ Pub. L. 105–33, §5001(g)(1)(C), substituted “(12), or (13)” for “or (12
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
+Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
 #### Effective Date of 2003 Amendment
 

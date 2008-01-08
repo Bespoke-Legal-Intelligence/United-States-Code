@@ -44,7 +44,7 @@ By the authority vested in me as President of the United States of America by th
 
 Section 1. <i>Delegation of Functions</i>. The reporting function conferred upon the President by Section 6 of the Multinational Force and Observers Participation Resolution (22 U.S.C. 3425) is delegated to the Secretary of State.
 
-Sec. 2. <i>Interagency Coordination</i>. In the exercise of the function conferred on the Secretary of State by Section 1 of this Order, the Secretary of State shall consult with the Director of the Office of Management and Budget, the Secretary of Defense, the Director of the United States Arms Control and Disarmament Agency, the Assistant to the President for National Security Affairs, and the heads of other Executive agencies as appropriate.
+Sec. 2. <i>Interagency Coordination</i>. In the exercise of the function conferred on the Secretary of State by Section 1 of this Order, the Secretary of State shall consult with the Director of the Office of Management andBudget, the Secretary of Defense, the Director of the United States Arms Control and Disarmament Agency, the Assistant to the President for National Security Affairs, and the heads of other Executive agencies as appropriate.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

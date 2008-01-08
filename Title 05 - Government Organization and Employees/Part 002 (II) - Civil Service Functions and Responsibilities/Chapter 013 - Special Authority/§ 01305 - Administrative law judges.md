@@ -1,6 +1,6 @@
 ### §1305. Administrative law judges
 
-For the purpose of sections 3105, 3344, 4301(2)(D), and 5372 of this title and the provisions of section 5335(a)(B) of this title that relate to administrative law judges, the Office of Personnel Management may, and for the purpose of section 7521 of this title, the Merit Systems Protection Board may investigate, prescribe regulations, appoint advisory committees as necessary, recommend legislation, subpenawitnesses and records, and pay witness fees as established for the courts of the United States.
+For the purpose of sections 3105, 3344, 4301(2)(D), and 5372 of this title and the provisions of section 5335(a)(B) of this title that relate to administrative law judges, the Office of Personnel Management may, and for the purpose of section 7521 of this title, the Merit Systems Protection Board may investigate, prescribe regulations, appoint advisory committees as necessary, recommend legislation, subpena witnesses and records, and pay witness fees as established for the courts of the United States.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 402; Pub. L. 90–83, §1(3), Sept. 11, 1967, 81 Stat. 196; Pub. L. 95–251, §2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title VIII, §801(a)(3)(B)(iii), title IX, §906(a)(12), Oct. 13, 1978, 92 Stat. 1221, 1225; Pub. L. 102–378, §2(4), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 105–362, title XIII, §1302(a), Nov. 10, 1998, 112 Stat. 3293.)
 

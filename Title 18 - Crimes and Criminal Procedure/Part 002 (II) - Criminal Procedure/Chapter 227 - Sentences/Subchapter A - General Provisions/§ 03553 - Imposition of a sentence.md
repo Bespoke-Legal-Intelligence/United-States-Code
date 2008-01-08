@@ -74,7 +74,7 @@ Statement of Reasons for Imposing a Sentence.—The court, at the time of senten
 
 &emsp;(1) is of the kind, and within the range, described in subsection (a)(4), and that range exceeds 24 months, the reason for imposing a sentence at a particular point within the range; or
 
-&emsp;(2) is not of the kind, or is outside the range, described in subsection (a)(4), the specific reason for the imposition of a sentence different from that described, which reasons must also be stated with specificity in the written orderof judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements.
+&emsp;(2) is not of the kind, or is outside the range, described in subsection (a)(4), the specific reason for the imposition of a sentence different from that described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements.
 
 > If the court does not order restitution, or orders only partial restitution, the court shall include in the statement the reason therefor. The court shall provide a transcription or other appropriate public record of the court's statement of reasons, together with the order of judgment and commitment, to the Probation System and to the Sentencing Commission,,<sup>3</sup> and, if the sentence includes a term of imprisonment, to the Bureau of Prisons.
 
@@ -228,7 +228,7 @@ Contents.—The report submitted pursuant to subparagraph (A) shall set forth—
 
 &emsp;“(C)
 
-Appeal of the departure.—Not later than 5 days after a decision by the Solicitor General regarding the authorization of an appeal of the departure, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate that describes the decision of the Solicitor General and the basis for such decision.
+Appeal of the departure.—Not later than 5 days after a decision by the Solicitor General regarding the authorization of an appeal of the departure,the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate that describes the decision of the Solicitor General and the basis for such decision.
 
 “(3)
 

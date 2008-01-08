@@ -6,7 +6,7 @@ Limitation.—
 
 &emsp;(1)
 
-Issuance of licenses.—A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary hasfirst determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license.
+Issuance of licenses.—A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary of Homeland Security has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license.
 
 &emsp;(2)
 
@@ -14,7 +14,7 @@ Renewals included.—For the purposes of this section, the term “issue”, wit
 
 (b)
 
-Hazardous Materials Described.—The limitation in subsection (a) shall apply with respect to any material defined as hazardous material by the Secretary for which the Secretary requires placarding of a commercial motor vehicle transporting that material in commerce.
+Hazardous Materials Described.—The limitation in subsection (a) shall apply with respect to any material defined as hazardous material by the Secretary of Transportation for which the Secretary of Transportation requires placarding of a commercial motor vehicle transporting that material in commerce.
 
 (c)
 
@@ -30,7 +30,7 @@ In general.—Upon the request of a State regarding issuance of a license descri
 
 &emsp;&emsp;(A) shall carry out a background records check regarding the individual; and
 
-&emsp;&emsp;(B) upon completing the background records check, shall notify the Secretary of the completion and results of the background records check.
+&emsp;&emsp;(B) upon completing the background records check, shall notify the Secretary of Homeland Security of the completion and results of the background records check.
 
 &emsp;(2)
 
@@ -44,11 +44,11 @@ Scope.—A background records check regarding an individual under this subsectio
 
 (e)
 
-Reporting Requirement.—Each State shall submit to the Secretary, at such time and in such manner as the Secretary may prescribe, the name, address, and such other information as the Secretary may require, concerning—
+Reporting Requirement.—Each State shall submit to the Secretary of Homeland Security, at such time and in such manner as the Secretary of Homeland Security may prescribe, the name, address, and such other information as the Secretary of Homeland Security may require, concerning—
 
 &emsp;(1) each alien to whom the State issues a license described in subsection (a); and
 
-&emsp;(2) each other individual to whom such a license is issued, as the Secretary may require.
+&emsp;(2) each other individual to whom such a license is issued, as the Secretary of Homeland Security may require.
 
 (f)
 
@@ -102,7 +102,7 @@ Appeals process for more stringent state procedures.—If a State establishes it
 
 &emsp;(3)
 
-Clarification of term defined in regulations.—The term “transportation securityincident”, as defined in part 1572 of title 49, Code of Federal Regulations, does not include a work stoppage or other nonviolent employee-related action resulting from an employer-employee dispute. Not later than 30 days after the date of enactment of this subsection, the Director shall modify the definition of that term to reflect the preceding sentence.
+Clarification of term defined in regulations.—The term “transportation security incident”, as defined in part 1572 of title 49, Code of Federal Regulations, does not include a work stoppage or other nonviolent employee-related action resulting from an employer-employee dispute. Not later than 30 days after the date of enactment of this subsection, the Director shall modify the definition of that term to reflect the preceding sentence.
 
 &emsp;(4)
 
@@ -140,7 +140,7 @@ Extension.—The Director of the Transportation Security Administration may exte
 
 Commercial motor vehicle defined.—In this subsection, the term “commercial motor vehicle” has the meaning given that term by section 31101.
 
-(Added Pub. L. 107–56, title X, §1012(a)(1), Oct. 26, 2001, 115 Stat. 396; amended Pub. L. 109–59, title VII, §§7104, 7105, 7126, Aug. 10, 2005, 119 Stat. 1894, 1909.)
+(Added Pub. L. 107–56, title X, §1012(a)(1), Oct. 26, 2001, 115 Stat. 396; amended Pub. L. 109–59, title VII, §§7104, 7105, 7126, Aug. 10, 2005, 119 Stat. 1894, 1909; Pub. L. 110–53, title XV, §1556(a), Aug. 3, 2007, 121 Stat. 475.)
 
 #### References in Text
 
@@ -151,6 +151,14 @@ The date of enactment of this subsection, referred to in subsecs. (g) and (h), i
 The date of enactment of this Act, referred to in subsec. (g)(1)(B)(ii), probably means the date of enactment of Pub. L. 109–59, which enacted subsec. (g) of this section, and was approved Aug. 10, 2005.
 
 #### Amendments
+
+2007—Subsec. (a)(1). Pub. L. 110–53, §1556(a)(1), substituted “Secretary of Homeland Security” for “Secretary”.
+
+Subsec. (b). Pub. L. 110–53, §1556(a)(2), substituted “Secretary of Transportation” for “Secretary” in two places.
+
+Subsec. (d)(1)(B). Pub. L. 110–53, §1556(a)(3), substituted “Secretary of Homeland Security” for “Secretary”.
+
+Subsec. (e). Pub. L. 110–53, §1556(a)(4), substituted “Secretary of Homeland Security” for “Secretary” wherever appearing.
 
 2005—Subsec. (a)(1). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
 

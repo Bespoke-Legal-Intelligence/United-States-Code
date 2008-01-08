@@ -24,17 +24,73 @@
 
 &emsp;Notwithstanding section 1341(c) of this title but subject to advance appropriations, any monies received through collection of fees under this subsection shall be available to the Secretary, and shall be used by the Secretary, for the operation and maintenance of the disposal facility from which the fees were collected.
 
-#### (c) Public-private partnerships
+#### (c) Dredged material facility
 
 #### (1) In general
 
-&emsp;The Secretary may carry out a program to evaluate and implement opportunities for public-private partnerships in the design, construction, management, or operation of dredged material disposal facilities in connection with construction or maintenance of Federal navigation projects. If a non-Federal interest is a sponsor of the project, the Secretary shall consult with the non-Federal interest in carrying out the program with respect to the project.
+&emsp;The Secretary may enter into a partnership agreement under section 1962d–5b of title 42 with one or more non-Federal interests with respect to a water resources project, or group of water resources projects within a geographic region, if appropriate, for the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility (including any facility used to demonstrate potential beneficial uses of dredged material, which may include effective sediment contaminant reduction technologies) using funds provided in whole or in part by the Federal Government.
+
+#### (2) Performance
+
+&emsp;One or more of the parties to a partnership agreement under this subsection may perform the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility.
+
+#### (3) Multiple projects
+
+&emsp;If appropriate, the Secretary may combine portions of separate water resources projects with appropriate combined cost-sharing among the various water resources projects in a partnership agreement for a facility under this subsection if the facility serves to manage dredged material from multiple water resources projects located in the geographic region of the facility.
+
+#### (4) Specified Federal funding sources and cost sharing
+
+#### (A) Specified Federal funding
+
+&emsp;&emsp;A partnership agreement with respect to a facility under this subsection shall specify—
+
+&emsp;&emsp;&emsp;(i) the Federal funding sources and combined cost-sharing when applicable to multiple water resources projects; and
+
+&emsp;&emsp;&emsp;(ii) the responsibilities and risks of each of the parties relating to present and future dredged material managed by the facility.
+
+#### (B) Management of sediments
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A partnership agreement under this subsection may include the management of sediments from the maintenance dredging of Federal water resources projects that do not have partnership agreements.
+
+#### (ii) Payments
+
+&emsp;&emsp;&emsp;A partnership agreement under this subsection may allow the non-Federal interest to receive reimbursable payments from the Federal Government for commitments made by the non-Federal interest for disposal or placement capacity at dredged material processing, treatment, contaminant reduction, or disposal facilities.
+
+#### (C) Credit
+
+&emsp;&emsp;A partnership agreement under this subsection may allow costs incurred by the non-Federal interest before execution of the partnership agreement to be credited in accordance with section 1962d–5b of title 42.
+
+#### (5) Credit
+
+#### (A) Effect on existing agreements
+
+&emsp;&emsp;Nothing in this subsection supersedes or modifies an agreement in effect on November 8, 2007, between the Federal Government and any non-Federal interest for the cost-sharing, construction, and operation and maintenance of a water resources project.
+
+#### (B) Credit for funds
+
+&emsp;&emsp;Subject to the approval of the Secretary and in accordance with law (including regulations and policies) in effect on November 8, 2007, a non-Federal interest for a water resources project may receive credit for funds provided for the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility to the extent the facility is used to manage dredged material from the project.
+
+#### (C) Non-Federal interest responsibilities
+
+&emsp;&emsp;A non-Federal interest entering into a partnership agreement under this subsection for a facility shall—
+
+&emsp;&emsp;&emsp;(i) be responsible for providing all necessary lands, easements, relocations, and rights-of-way associated with the facility; and
+
+&emsp;&emsp;&emsp;(ii) receive credit toward the non-Federal share of the cost of the project with respect to which the agreement is being entered into for those items.
+
+#### (d) Public-private partnerships
+
+#### (1) In general
+
+&emsp;The Secretary may carry out a program to evaluate and implement opportunities for public-private partnerships in the design, construction, management, or operation and maintenance of dredged material processing, treatment, contaminant reduction, or disposal facilities in connection with construction or maintenance of Federal navigation projects. If a non-Federal interest is a sponsor of the project, the Secretary shall consult with the non-Federal interest in carrying out the program with respect to the project.
 
 #### (2) Private financing
 
 #### (A) Agreements
 
-&emsp;&emsp;In carrying out this subsection, the Secretary may enter into an agreement with a non-Federal interest with respect to a project, a private entity, or both for the acquisition, design, construction, management, or operation of a dredged material disposal facility (including any facility used to demonstrate potential beneficial uses of dredged material) using funds provided in whole or in part by the private entity.
+&emsp;&emsp;In carrying out this subsection, the Secretary may enter into an agreement with a non-Federal interest with respect to a project, a private entity, or both for the acquisition, design, construction, management, or operation and maintenance of a dredged material processing, treatment, contaminant reduction, or disposal facility (including any facility used to demonstrate potential beneficial uses of dredged material) using funds provided in whole or in part by the private entity.
 
 #### (B) Reimbursement
 
@@ -42,7 +98,7 @@
 
 #### (C) Amount of fees
 
-&emsp;&emsp;User fees paid pursuant to subparagraph (B) shall be sufficient to repay funds contributed by the private entity plus a reasonablereturn on investment approved by the Secretary in cooperation with the non-Federal interest with respect to the project and the private entity.
+&emsp;&emsp;User fees paid pursuant to subparagraph (B) shall be sufficient to repay funds contributed by the private entity plus a reasonable return on investment approved by the Secretary in cooperation with the non-Federal interest with respect to the project and the private entity.
 
 #### (D) Federal share
 
@@ -52,15 +108,25 @@
 
 &emsp;&emsp;Any spending authority (as defined in section 651(c)(2) of title 2) authorized by this section shall be effective only to such extent and in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 104–303, title II, §217, Oct. 12, 1996, 110 Stat. 3694.)
+(Pub. L. 104–303, title II, §217, Oct. 12, 1996, 110 Stat. 3694; Pub. L. 110–114, title II, §2005, Nov. 8, 2007, 121 Stat. 1071.)
 
 #### References in Text
 
-The Budget Act, referred to in subsec. (c)(2)(E) heading, probably means the Congressional Budget Act of 1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+The Budget Act, referred to in subsec. (d)(2)(E) heading, probably means the Congressional Budget Act of 1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+2007—Subsec. (c). Pub. L. 110–114, §2005(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 110–114, §2005(1), redesignated subsec. (c) as (d).
+
+Subsec. (d)(1). Pub. L. 110–114, §2005(3), inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “dredged material”.
+
+Subsec. (d)(2)(A). Pub. L. 110–114, §2005(3), inserted “and maintenance” after “operation” and “processing, treatment, contaminant reduction, or” after “of a dredged material”.
 
 #### “Secretary” Defined
 

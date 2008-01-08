@@ -24,7 +24,7 @@
 
 #### (3) Grants
 
-&emsp;To carry out the program under this section, the Secretary, acting through the Director, may award grants or enter into other appropriate arrangements with Indian tribes, tribal organizations, intertribal consortia, or other tribal entities that the Secretary, in consultation with the Director, determines to be appropriate.
+&emsp;To carry out the program under this section, the Secretary, acting through the Director,may award grants or enter into other appropriate arrangements with Indian tribes, tribal organizations, intertribal consortia, or other tribal entities that the Secretary, in consultation with the Director, determines to be appropriate.
 
 #### (4) Locations
 

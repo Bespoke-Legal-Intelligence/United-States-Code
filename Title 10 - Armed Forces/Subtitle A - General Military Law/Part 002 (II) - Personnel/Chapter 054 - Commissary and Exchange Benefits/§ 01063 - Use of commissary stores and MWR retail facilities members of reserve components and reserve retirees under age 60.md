@@ -20,7 +20,7 @@ Dependents.—(1) Dependents of a member who is permitted under subsection (a) o
 
 (e)
 
-MWR Retail Facility Defined.—In this section, the term “MWR retail facilities” meansexchange stores and other revenue-generating facilities operated by nonappropriated fund activities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
+MWR Retail Facility Defined.—In this section, the term “MWR retail facilities” means exchange stores and other revenue-generating facilities operated by nonappropriated fund activities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
 
 (Added Pub. L. 101–510, div. A, title III, §321(c), Nov. 5, 1990, 104 Stat. 1528, §1065; amended Pub. L. 104–106, div. A, title III, §342(a), Feb. 10, 1996, 110 Stat. 265; renumbered §1063 and amended Pub. L. 108–136, div. A, title VI, §651(a), (b)(4), (5), Nov. 24, 2003, 117 Stat. 1521, 1522.)
 
@@ -53,6 +53,4 @@ Pub. L. 101–510, div. A, title III, §321(e)(1), Nov. 5, 1990, 104 Stat. 1528,
 #### Regulations
 
 Pub. L. 101–510, div. A, title III, §321(e)(2), Nov. 5, 1990, 104 Stat. 1528, provided that: “The Secretary of Defense shall prescribe such regulations as may be necessary for the proper administration of sections \[former\] 1064 and 1065 \[now 1063\] of title 10, United States Code, as added by this section, not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
-
-§1063a
 

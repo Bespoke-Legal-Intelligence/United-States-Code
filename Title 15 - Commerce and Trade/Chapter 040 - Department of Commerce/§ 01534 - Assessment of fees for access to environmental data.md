@@ -22,7 +22,7 @@ Any assessment of fees under this section by the National Environmental Satellit
 
 &emsp;(1) The initial schedule of fees established by the National Environmental Satellite, Data, and Information Service for archived data shall remain in effect for the 3-year period beginning on the date that the fees under that schedule take effect.
 
-&emsp;(2) With respect to the first one-year period during which the initial fee schedule is in effect, fees shall be assessed at no more than one-third of the fair market value specified in subsection (a) of this section.
+&emsp;(2) With respect to the first one-year period during which the initial fee schedule is in effect, fees shall be assessed at no more thanone-third of the fair market value specified in subsection (a) of this section.
 
 &emsp;(3) With respect to the second one-year period during which the initial fee schedule is in effect, fees shall be assessed at not more than two-thirds of such fair market value.
 
@@ -66,7 +66,7 @@ Subsec. (g). Pub. L. 101–508, §10201(a)(7), inserted before period at end “
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effect of Amendments
 

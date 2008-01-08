@@ -6,7 +6,7 @@ The Director of the Center shall establish a program of entering into contracts 
 
 #### (b) Service provisions
 
-The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title shall, except as inconsistentwith subsection (a) of this section, apply to the program established in such subsection to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter.
+The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title shall, except as inconsistent with subsection (a) of this section, apply to the program established in such subsection to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter.
 
 #### (c) Requirement regarding health disparity populations
 

@@ -38,7 +38,7 @@ Use of Energy Efficiency Products in New Construction.—(1) The Secretary of De
 
 Pub. L. 109–364, §2851(b)(1), renumbered section 2857 of this title as this section.
 
-Subsec. (a). Pub. L. 109–364, §2854(b)(2),(3)(A)(i), inserted heading and substituted “is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section2911 of this title and supported by the special considerations specified in subsection (c) of such section” for “would be practical and economically feasible”.
+Subsec. (a). Pub. L. 109–364, §2854(b)(2),(3)(A)(i), inserted heading and substituted “is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section 2911 of this title and supported by the special considerations specified in subsection (c) of such section” for “would be practical and economically feasible”.
 
 Subsec. (b). Pub. L. 109–364, §2854(b)(3), inserted heading.
 

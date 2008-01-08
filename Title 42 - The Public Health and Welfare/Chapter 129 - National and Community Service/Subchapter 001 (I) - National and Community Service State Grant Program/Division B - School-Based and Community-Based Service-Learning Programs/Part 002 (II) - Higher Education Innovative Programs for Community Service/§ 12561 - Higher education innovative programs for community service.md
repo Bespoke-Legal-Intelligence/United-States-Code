@@ -44,7 +44,7 @@ The Corporation, in consultation with the Secretary of Education, is authorized 
 
 #### (2) Waiver
 
-&emsp;The Chief Executive Officer may waive the requirements of paragraph (1), in whole or inpart, as provided in section 12529(b) of this title.
+&emsp;The Chief Executive Officer may waive the requirements of paragraph (1), in whole or in part, as provided in section 12529(b) of this title.
 
 #### (d) Application for grant
 

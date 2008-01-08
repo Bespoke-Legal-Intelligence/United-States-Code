@@ -10,7 +10,7 @@ The Foundation—
 
 &emsp;(3) shall have its principal offices in the Washington, D.C. metropolitan area; and
 
-&emsp;(4) shall at all times maintain a designated agent in the District of Columbia authorizedto accept service of process for the Foundation.
+&emsp;(4) shall at all times maintain a designated agent in the District of Columbia authorized to accept service of process for the Foundation.
 
 #### (b) Notice and service of process
 

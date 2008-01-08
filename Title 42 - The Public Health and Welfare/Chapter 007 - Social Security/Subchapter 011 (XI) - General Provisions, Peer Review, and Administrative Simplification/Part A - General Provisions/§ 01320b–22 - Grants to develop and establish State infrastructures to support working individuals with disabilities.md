@@ -76,7 +76,7 @@
 
 #### (II) Other States
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall determine, consistent with the limit described in subclause (I), a maximum award limit for a grant for a fiscal year for a State that has an application that has been approved under this section but that has not elected to provide medical assistance under subchapter XIX of this chapter to individuals described in section 1396a(a)(10)(A)(ii)(XIII) of this title.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall determine, consistent with the limit described in subclause (I), a maximum award limit for a grant for a fiscal year for a State that has an application that has been approved under this section but that hasnot elected to provide medical assistance under subchapter XIX of this chapter to individuals described in section 1396a(a)(10)(A)(ii)(XIII) of this title.
 
 #### (c) Availability of funds
 

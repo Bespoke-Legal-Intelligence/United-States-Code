@@ -24,7 +24,7 @@ No funds made available under this chapter shall be used for the purchase in bul
 
 #### (c) Agricultural commodities or products thereof available for disposition under Agricultural Trade Development and Assistance Act of 1954
 
-In providing for the procurement of any agricultural commodity or product thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grant under this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and when in furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
+In providing for the procurement of any agricultural commodity or product thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grantunder this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and when in furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
 
 #### (d) Marine insurance
 
@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 96–533, §705(b), added subsec. (g).
 
 1968—Subsec. (f). Pub. L. 90–554 added subsec. (f).
 
-1966—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out “surplus” before “agricultural commodity” in three places and inserted “or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended,” after “commodity” where first appearing.
+1966—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out “surplus” before “agricultural commodity” in three places and inserted “or products thereof available for disposition under the Agricultural Trade Developmentand Assistance Act of 1954, as amended,” after “commodity” where first appearing.
 
 Subsec. (e). Pub. L. 89–583, §301(b)(2), added subsec. (e).
 

@@ -79,7 +79,7 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is
 
 1993—Subsec. (a)(3). Pub. L. 103–178, §204(b)(1), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
-Subsec. (d). Pub. L. 103–178, §204(b)(2)(B), substituted “the Central Intelligence Agency Retirement Act (50U.S.C. 2151 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
+Subsec. (d). Pub. L. 103–178, §204(b)(2)(B), substituted “the Central Intelligence Agency Retirement Act (50 U.S.C. 2151 et seq.)” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
 1988—Subsec. (e). Pub. L. 100–238 struck out “matching” after “shall make a” and inserted “determined under section 4071f(a) of this title” after “participant)”.
 

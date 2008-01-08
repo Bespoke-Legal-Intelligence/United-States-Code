@@ -60,7 +60,7 @@ Amendment by Pub. L. 95–628 applicable with respect to penalties assessed more
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1204(c)(10) of Pub. L. 94–455 applicable with respect to action taken under section 6851, 6861, or 6862 of this title where notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
+Amendment by section 1204(c)(10) of Pub. L. 94–455 applicable with respect to action taken under section6851, 6861, or 6862 of this title where notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
 
 #### Effective Date of 1974 Amendment
 

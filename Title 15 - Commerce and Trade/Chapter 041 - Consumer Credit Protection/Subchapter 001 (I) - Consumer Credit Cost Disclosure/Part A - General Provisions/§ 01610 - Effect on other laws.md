@@ -26,7 +26,7 @@ The provisions of subsection (c) of section 1632 of this title and subsections (
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–325, §152(e)(2)(B), which directed the amendment of par. (2) by inserting“, and such State-required disclosure may not be made in lieu of the disclosures applicable to certain mortgages under section 1639 of this title” before period, was executed by making the insertion before period at end of par. (2), to reflect the probable intent of Congress.
+1994—Subsec. (a)(2). Pub. L. 103–325, §152(e)(2)(B), which directed the amendment of par. (2) by inserting “, and such State-required disclosure may not be made in lieu of the disclosures applicable to certain mortgages under section 1639 of this title” before period, was executed by making the insertion before period at end of par. (2), to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 103–325, §152(e)(2)(C), substituted “Except as provided in section 1639 of this title, this subchapter” for “This subchapter” and inserted at end “The provisions of section 1639 of this title do not annul, alter, or affect the applicability of the laws of any State or exempt any person subject to the provisions of section 1639 of this title from complying with the laws of any State, with respect to the requirements for mortgages referred to in section 1602(aa) of this title, except to the extent that those State laws are inconsistent with any provisions of section 1639 of this title, and then only to the extent of the inconsistency.”
 

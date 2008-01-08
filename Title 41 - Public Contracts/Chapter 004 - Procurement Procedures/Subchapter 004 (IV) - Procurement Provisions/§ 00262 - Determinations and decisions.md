@@ -6,7 +6,7 @@ Determinations and decisions required to be made under this subchapter by the he
 
 #### (b) Written findings required
 
-(1) Each determination under section 255(d) of this title or section 254d(c)(2)(B) of this titleshall be based on a written finding by the person making the determination or decision. The finding shall set out facts and circumstances that support the determination or decision.
+(1) Each determination under section 255(d) of this title or section 254d(c)(2)(B) of this title shall be based on a written finding by the person making the determination or decision. The finding shall set out facts and circumstances that support the determination or decision.
 
 (2) Each finding referred to in paragraph (1) is final.
 

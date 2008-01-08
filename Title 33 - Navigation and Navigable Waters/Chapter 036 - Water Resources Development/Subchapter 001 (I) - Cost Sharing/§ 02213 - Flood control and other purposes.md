@@ -152,7 +152,7 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 #### (2) Criteria and procedures
 
-&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with criteria and procedures in effect under paragraph (3) on the day before December 11, 2000; except that such criteria and procedures shall be revised, and new criteria and procedures shall be developed, not later than180 days after December 11, 2000, to reflect the requirements of such paragraph (3).
+&emsp;The ability of a non-Federal interest to pay shall be determined by the Secretary in accordance with criteria and procedures in effect under paragraph (3) on the day before December 11, 2000; except that such criteria and procedures shall be revised, and new criteria and procedures shall be developed, not later than December 31, 2007, to reflect the requirements of such paragraph (3).
 
 #### (3) Revision of criteria and procedures
 
@@ -170,7 +170,21 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 &emsp;Notwithstanding subsection (a) of this section, the Secretary may reduce the requirement that a non-Federal interest make a cash contribution for any project that is determined to be eligible for a reduction in the non-Federal share under criteria and procedures in effect under paragraphs (1), (2), and (3).
 
-(Pub. L. 99–662, title I, §103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, §305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, §201(a), title III, §333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681; Pub. L. 106–53, title II, §§215(a), 219(c), Aug. 17, 1999, 113 Stat. 292, 295; Pub. L. 106–109, §5, Nov. 24, 1999, 113 Stat. 1495; Pub. L. 106–541, title II, §204, Dec. 11, 2000, 114 Stat. 2589.)
+#### (n) Non-Federal contributions
+
+#### (1) Prohibition on solicitation of excess contributions
+
+&emsp;The Secretary may not—
+
+&emsp;&emsp;(A) solicit contributions from non-Federal interests for costs of constructing authorized water resources projects or measures in excess of the non-Federal share assigned to the appropriate project purposes listed in subsections (a), (b), and (c); or
+
+&emsp;&emsp;(B) condition Federal participation in such projects or measures on the receipt of such contributions.
+
+#### (2) Limitation on statutory construction
+
+&emsp;Nothing in this subsection shall be construed to affect the Secretary's authority under section 903(c).<sup>1</sup>
+
+(Pub. L. 99–662, title I, §103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, §305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, §201(a), title III, §333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681; Pub. L. 106–53, title II, §§215(a), 219(c), Aug. 17, 1999, 113 Stat. 292, 295; Pub. L. 106–109, §5, Nov. 24, 1999, 113 Stat. 1495; Pub. L. 106–541, title II, §204, Dec. 11, 2000, 114 Stat. 2589; Pub. L. 110–114, title II, §§2001, 2019(a), Nov. 8, 2007, 121 Stat. 1067, 1078.)
 
 #### References in Text
 
@@ -186,7 +200,13 @@ Public Law 99–88, referred to in subsec. (g)(2)(B), is Pub. L. 99–88, Aug. 1
 
 The Flood Control Act approved August 18, 1941, referred to in subsec. (g)(2)(C), is act Aug. 18, 1941, ch. 377, 55 Stat. 638. For complete classification of this Act to the Code, see Tables.
 
+Section 903(c), referred to in subsec. (n)(2), is section 903(c) of Pub. L. 99–662, title IX, Nov. 17, 1986, 100 Stat. 4184, which is not classified to the Code.
+
 #### Amendments
+
+2007—Subsec. (m)(2). Pub. L. 110–114, §2019(a), substituted “December 31, 2007” for “180 days after December 11, 2000”.
+
+Subsec. (n). Pub. L. 110–114, §2001, added subsec. (n).
 
 2000—Subsec. (m)(1), (2). Pub. L. 106–541, §204(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which required any cost-sharing agreement to be subject to the ability of a non-Federal interest to pay and required the Secretary to determine ability to pay using certain criteria and procedures.
 
@@ -236,7 +256,7 @@ Regulations.—Not later than 1 year after November 28, 1990, the Secretary shal
 
 #### Effective Date of 1996 Amendment
 
-Section 202(a)(1)(B) of Pub. L. 104–303 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to any project authorized after the date of the enactment of this Act \[Oct. 12,1996\] and to any flood control project that is not specifically authorized by Congress for which a Detailed Project Report is approved after such date of enactment or, in the case of a project for which no Detailed Project Report is prepared, construction is initiated after such date of enactment.”
+Section 202(a)(1)(B) of Pub. L. 104–303 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to any project authorized after the date of the enactment of this Act \[Oct. 12, 1996\] and to any flood control project that is not specifically authorized by Congress for which a Detailed Project Report is approved after such date of enactment or, in the case of a project for which no Detailed Project Report is prepared, construction is initiated after such date of enactment.”
 
 Section 202(b)(2) of Pub. L. 104–303 provided that:
 
@@ -246,11 +266,13 @@ Generally.—Subject to subparagraph (C), the amendment made by paragraph (1) \[
 
 “(B)
 
-Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendment made by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
+Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendmentmade by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
 
 “(C)
 
 Non-federal option.—If requested by the non-Federal interest, the Secretary shall apply the criteria and procedures established pursuant to section 103(m) of the Water Resources Development Act of 1986 \[subsec. (m) of this section\] as in effect on the day before the date of the enactment of this Act for projects that are authorized before the date of the enactment of this Act.”
+
+\[Reference to “project cooperation agreement” deemed to be reference to “project partnership agreement”, see section 2003(f)(2) of Pub. L. 110–114, set out as a note under section 1962d–5b of Title 42, The Public Health and Welfare.\]
 
 Section 210(b) of Pub. L. 104–303 provided that: “The amendments made by subsection (a) \[amending this section\] apply only to projects authorized after the date of the enactment of this Act \[Oct. 12, 1996\].”
 
@@ -261,4 +283,6 @@ Section 305(b) of Pub. L. 101–640 provided that: “Regulations issued to carr
 #### Reports to Congress
 
 Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: “The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 \[33 U.S.C. 2213(m)\] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act \[July 11, 1987\] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

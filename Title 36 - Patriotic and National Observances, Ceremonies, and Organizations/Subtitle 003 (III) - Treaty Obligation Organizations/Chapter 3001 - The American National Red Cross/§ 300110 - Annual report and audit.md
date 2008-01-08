@@ -2,7 +2,7 @@
 
 (a)
 
-Submission of Report.—As soon as practicable after July 1 of each year, the corporation shall submit a report to the Secretary of Defense on the activities of the corporation during the fiscal year ending June 30, including a complete, itemized report of all receipts and expenditures.
+Submission of Report.—As soon as practicable after the end of the corporation's fiscal year, which may be changed from time to time by the board of governors, the corporation shall submit a report to the Secretary of Defense on the activities of the corporation during such fiscal year, including a complete, itemized report of all receipts and expenditures.
 
 (b)
 
@@ -12,7 +12,7 @@ Auditing of Report and Submission to Congress.—The Secretary shall audit the r
 
 Payment of Audit Expenses.—The corporation shall reimburse the Secretary each year for auditing its accounts. The amount paid shall be deposited in the Treasury of the United States as a miscellaneous receipt.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493; Pub. L. 110–26, §10, May 11, 2007, 121 Stat. 109.)
 
 Historical and Revision Notes
 
@@ -39,4 +39,8 @@ May 29, 1920, ch. 214, §1 (1st complete par. on p. 659), 41 Stat. 659; July 17,
 In subsection (a), the words “make and”, “next preceding”, and “full” are omitted as unnecessary. The word “activities” is substituted for “proceedings” for consistency in the revised title. The words “all receipts and expenditures” are substituted for “receipts and expenditures of whatever kind” to eliminate unnecessary words.
 
 In subsections (b) and (c), the word “Secretary” is substituted for “Department of Defense” for consistency.
+
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 110–26 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “As soon as practicable after July 1 of each year, the corporation shall submit a report to the Secretary of Defense on the activities of the corporation during the fiscal year ending June 30, including a complete, itemized report of all receipts and expenditures.”
 

@@ -24,7 +24,7 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 &emsp;(11) title IV of the Civil Rights Act of 1964 \[42 U.S.C. 2000c et seq.\];
 
-&emsp;(12) the Navajo Community College Act \[25 U.S.C. 640a et seq.\] and the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\];
+&emsp;(12) the Navajo Community College Act \[25 U.S.C. 640a et seq.\] and the Tribally ControlledCollege or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\];
 
 &emsp;(13) part C of title IX of the Elementary and Secondary Education Act of 1965,<sup>1</sup> relating to Women's Educational Equity; and
 
@@ -93,4 +93,6 @@ Section 502 of subtitle A of title V of Pub. L. 97–35 provided that:
 “(b) Notwithstanding any authorization of appropriations for fiscal year 1982, 1983, or 1984 contained in any provision of law which is specified in this subtitle (including any authorization of appropriations contained in section 528 of this title \[this section\]), no funds are authorized to be appropriated in excess of the limitations imposed upon appropriations by the provisions of this subtitle.
 
 “(c) No funds are authorized to be appropriated for the fiscal year 1982, 1983, or 1984 to pay for the expenses of any advisory council which provides advice to a program for which there are no authorizations of appropriations made under this subtitle or made by an amendment made by this subtitle.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

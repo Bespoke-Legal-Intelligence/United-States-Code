@@ -20,7 +20,7 @@
 
 &emsp;(B) the terms of the modification requested are appropriate because of commercial impracticability.
 
-(3) In the case of any proposed modification of a requirement for services, the court shall grant such modification only if the cable operator demonstrates to the court that the mix, quality, and level of services required by the franchise at the time it was granted will be maintained after such modification.
+(3) In the case of any proposed modification of a requirement for services, the court shall grantsuch modification only if the cable operator demonstrates to the court that the mix, quality, and level of services required by the franchise at the time it was granted will be maintained after such modification.
 
 #### (c) Rearrangement, replacement, or removal of service
 

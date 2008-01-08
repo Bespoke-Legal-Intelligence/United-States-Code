@@ -34,7 +34,7 @@ Air carrier fees.—
 
 &emsp;&emsp;(A)
 
-Authority.—In addition to the fee imposed pursuant to paragraph (1), and only to the extent that the Under Secretary estimates that such fee will be insufficient to pay for the costs of providing civil aviation security services described in paragraph (1), the Under Secretary may impose a fee on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation to pay for the difference between any such costs and the amount collected from such fee, as estimated by the Under Secretary at the beginning of each fiscal year. The estimates of the Under Secretary under this subparagraph are not subject to judicial review.
+Authority.—In addition to the fee imposed pursuant to paragraph (1), and only to the extent that the Under Secretary estimates that such fee will be insufficient to pay for the costs of providing civil aviation security services described in paragraph (1), the Under Secretary may impose a fee on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation to pay for the difference between any such costs and the amount collected from such fee, as estimated by the Under Secretary at the beginning of each fiscal year. The estimates of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.
 
 &emsp;&emsp;(B)
 
@@ -50,11 +50,11 @@ Per-carrier limit.—The amount of fees collected under this paragraph from an a
 
 &emsp;&emsp;&emsp;(iii)
 
-Adjustment of per-carrier limit.—For fiscal year 2005 and subsequent fiscal years, the per-carrier limitation under clause (ii) may be determined by the Under Secretary on the basis of market share or any other appropriate measure in lieu ofactual screening costs in calendar year 2000.
+Adjustment of per-carrier limit.—For fiscal year 2005 and subsequent fiscal years, the per-carrier limitation under clause (ii) may be determined by the Under Secretary on the basis of market share or any other appropriate measure in lieu of actual screening costs in calendar year 2000.
 
 &emsp;&emsp;&emsp;(iv)
 
-Finality of determinations.—Determinations of the Under Secretary under this subparagraph are not subject to judicial review.
+Finality of determinations.—Determinations of the Under Secretary under this subparagraph are not subject to judicial review except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.
 
 &emsp;&emsp;(C)
 
@@ -62,7 +62,7 @@ Special rule for fiscal year 2002.—The amount of fees collected under this par
 
 (b)
 
-Schedule of Fees.—In imposing fees under subsection (a), the Under Secretary shall ensure that the fees are reasonably related to the Transportation Security Administration's costs of providing services rendered.
+Schedule of Fees.—In imposing fees under subsection (a), the Under Secretary shall ensurethat the fees are reasonably related to the Transportation Security Administration's costs of providing services rendered.
 
 (c)
 
@@ -86,7 +86,7 @@ Subsequent modification of fee.—After imposing a fee in accordance with paragr
 
 &emsp;(4)
 
-Limitation on collection.—No fee may be collected under this section except to the extent that the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act or in section 44923.
+Limitation on collection.—No fee may be collected under this section, other than subsection (i), except to the extent that the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act or in section 44923.
 
 (e)
 
@@ -134,7 +134,27 @@ Refunds.—The Under Secretary may refund any fee paid by mistake or any amount 
 
 Exemptions.—The Under Secretary may exempt from the passenger fee imposed under subsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
 
-(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625; amended Pub. L. 108–7, div. I, title III, §351(b), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–176, title VI, §605(b)(1), (2), Dec. 12, 2003, 117 Stat. 2568.)
+(i)
+
+Checkpoint Screening Security Fund.—
+
+&emsp;(1)
+
+Establishment.—There is established in the Department of Homeland Security a fund to be known as the “Checkpoint Screening Security Fund”.
+
+&emsp;(2)
+
+Deposits.—In fiscal year 2008, after amounts are made available under section 44923(h), the next $250,000,000 derived from fees received under subsection (a)(1) shall be available to be deposited in the Fund.
+
+&emsp;(3)
+
+Fees.—The Secretary of Homeland Security shall impose the fee authorized by subsection (a)(1) so as to collect at least $250,000,000 in fiscal year 2008 for deposit into the Fund.
+
+&emsp;(4)
+
+Availability of amounts.—Amounts in the Fund shall be available until expended by the Administrator of the Transportation Security Administration for the purchase, deployment, installation, research, and development of equipment to improve the ability of security screening personnel at screening checkpoints to detect explosives.
+
+(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625; amended Pub. L. 108–7, div. I, title III, §351(b), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–176, title VI, §605(b)(1), (2), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 110–53, title XVI, §1601, Aug. 3, 2007, 121 Stat. 477; Pub. L. 110–161, div. E, title V, §540, Dec. 26, 2007, 121 Stat. 2079.)
 
 #### References in Text
 
@@ -142,9 +162,15 @@ The date of enactment of this Act, referred to in subsec. (d)(1), probably means
 
 #### Codification
 
-2001—Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
+Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2007—Subsec. (a)(2)(A), (B)(iv). Pub. L. 110–161, which directed amendment of subsec. (a)(2) “by striking the period in the last sentence of subparagraph (A) and the clause (iv) of subparagraph B and adding the following, ‘except for estimates and additional collections made pursuant to the appropriation for Aviation Security in Public Law 108–334: <i>Provided,</i> That such judicial review shall be pursuant to section 46110 of title 49, United States Code: <i>Provided further,</i> That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.’ ”, was executed by substituting the quoted language directed to be added for the period at the end of last sentence of subpar. (A) and for the period at the end of cl. (iv) of subpar. (B), to reflect the probable intent of Congress.
+
+Subsec. (d)(4). Pub. L. 110–53, §1601(1), inserted “, other than subsection (i),” before “except to”.
+
+Subsec. (i). Pub. L. 110–53, §1601(2), added subsec. (i).
 
 2003—Subsec. (a)(1). Pub. L. 108–7 inserted at end of concluding provisions “For purposes of subparagraph (A), the term ‘Federal law enforcement personnel’ includes State and local law enforcement officers who are deputized under section 44922.”
 

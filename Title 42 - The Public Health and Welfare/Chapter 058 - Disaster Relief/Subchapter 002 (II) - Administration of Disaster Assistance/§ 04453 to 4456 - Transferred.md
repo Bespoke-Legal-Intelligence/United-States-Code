@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 4453, Pub. L. 91–606, title II, §234, Dec. 31, 1970, 84 Stat. 1754, which related to disaster loan interest rates, was transferred to section 636b of Title 15, Commerce and Trade.
+Section 4453, Pub. L. 91–606, title II, §234, Dec. 31, 1970, 84 Stat. 1754, which related to disaster loan interestrates, was transferred to section 636b of Title 15, Commerce and Trade.
 
 Section 4454, Pub. L. 91–606, title II, §235, Dec. 31, 1970, 84 Stat. 1754, which related to prohibition on consideration of age of applicant for disaster loans, was transferred to section 636c of Title 15.
 

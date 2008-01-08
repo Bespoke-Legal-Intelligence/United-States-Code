@@ -14,7 +14,7 @@ For purposes of this subtitle, any insured depository institution, or a qualifie
 
 &emsp;&emsp;(D) invests in a community development organization jointly controlled by two or more institutions;
 
-&emsp;(2) except in the case of an institution which is a community development bank, the amount of the capital invested, in the form of debt or equity, by the institution in the community development organization referred to in paragraph (1) (or, in the case of any community development unit, the amount which the institution irrevocably makes available to such unit for the purposes described in paragraph (3)) is not less than the greater of—
+&emsp;(2) except in the case of an institution which is a community development bank, theamount of the capital invested, in the form of debt or equity, by the institution in the community development organization referred to in paragraph (1) (or, in the case of any community development unit, the amount which the institution irrevocably makes available to such unit for the purposes described in paragraph (3)) is not less than the greater of—
 
 &emsp;&emsp;(A) 1/2 of 1 percent of the capital, as defined by generally accepted accounting principles, of the institution; or
 

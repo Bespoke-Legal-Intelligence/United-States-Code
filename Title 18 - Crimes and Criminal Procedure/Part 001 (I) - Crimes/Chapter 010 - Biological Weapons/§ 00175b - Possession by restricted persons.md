@@ -46,7 +46,7 @@ Certain other biological agents and toxins.—Whoever knowingly possesses a biol
 
 &emsp;&emsp;(F) has been adjudicated as a mental defective or has been committed to any mental institution;
 
-&emsp;&emsp;(G)(i) is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of chapter 1 of part M of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), or section 40(d) of chapter 3 of the Arms Export Control Act (22 U.S.C. 2780(d)), has made a determination (that remains in effect) that such country has repeatedly provided support for acts of international terrorism, or (ii) acts for or on behalf of, or operates subject to the direction or control of, a government or official of a country described in this subparagraph;
+&emsp;&emsp;(G)(i) is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of chapter 1 of part M of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), or section 40(d) of chapter 3 of the Arms Export Control Act (22U.S.C. 2780(d)), has made a determination (that remains in effect) that such country has repeatedly provided support for acts of international terrorism, or (ii) acts for or on behalf of, or operates subject to the direction or control of, a government or official of a country described in this subparagraph;
 
 &emsp;&emsp;(H) has been discharged from the Armed Services of the United States under dishonorable conditions; or
 

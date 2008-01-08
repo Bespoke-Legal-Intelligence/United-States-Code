@@ -4,7 +4,7 @@
 
 (b) Members of the Authority shall be appointed by the President by and with the advice and consent of the Senate, and may be removed by the President only upon notice and hearing and only for inefficiency, neglect of duty, or malfeasance in office. The President shall designate one member to serve as Chairman of the Authority. The Chairman is the chief executive and administrative officer of the Authority.
 
-(c) A member of the Authority shall be appointed for a term of 5 years. An individual chosen to fill a vacancy shall be appointed for the unexpired term of the member replaced. The term of any member shall not expire before the earlier of—
+(c) A member of the Authority shall be appointed for a term of 5 years. An individual chosen to fill a vacancy shall be appointed for the unexpired term of the member replaced. Theterm of any member shall not expire before the earlier of—
 
 &emsp;(1) the date on which the member's successor takes office, or
 

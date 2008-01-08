@@ -6,7 +6,7 @@ There shall be allowed as a deduction the expenses paid during the taxable year,
 
 #### (b) Limitation with respect to medicine and drugs
 
-An amount paid during the taxable year for medicine or a drug shall be taken into accountunder subsection (a) only if such medicine or drug is a prescribed drug or is insulin.
+An amount paid during the taxable year for medicine or a drug shall be taken into account under subsection (a) only if such medicine or drug is a prescribed drug or is insulin.
 
 #### (c) Special rule for decedents
 
@@ -158,9 +158,9 @@ Any expense allowed as a credit under section 21 shall not be treated as an expe
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 69; Pub. L. 85–866, title I, §§16, 17(a), (b), Sept. 2, 1958, 72 Stat. 1613, 1614; Pub. L. 86–470, §3(a), May 14, 1960, 74 Stat. 133; Pub. L. 87–863, §1(a), (b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §211(a), Feb. 26, 1964, 78 Stat. 49; Pub. L. 89–97, title I, §106(a)–(d)(1), July 30, 1965, 79 Stat. 336, 337; Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1565, 1834; Pub. L. 97–248, title II, §202(a)–(b)(3)(B), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), July 18, 1984, 98 Stat. 800, 841, 847, 848, 943; Pub. L. 99–514, title I, §133, Oct. 22, 1986, 100 Stat. 2116; Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), Nov. 5, 1990, 104 Stat. 1388–412, 1388–471; Pub. L. 103–66, title XIII, §13131(d)(3), Aug. 10, 1993, 107 Stat. 435; Pub. L. 104–191, title III, §322(a)–(b)(2)(A), (C), (3), (4), Aug. 21, 1996, 110 Stat. 2060–2062; Pub. L. 108–311, title II, §207(17), (18), Oct. 4, 2004, 118 Stat. 1177.)
 
-#### Adjustment of Long-Term Care Premium Limitation for Taxable Years Beginning in 2007
+#### Adjustment of Long-Term Care Premium Limitation for Taxable Years Beginning in 2008
 
-<i>For adjustment of limitation of amount of eligible long-term care premiums includible in term “medical care” under subsection (d) of this section for taxable years beginning in 2007, see section 3.20 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation of amount of eligible long-term care premiums includible in term “medical care” under subsection (d) of this section for taxable years beginning in 2008, see section 3.21 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### References In Text
 
@@ -284,7 +284,7 @@ Subsec. (g). Pub. L. 85–866, §17(A), added subsec. (g).
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 ofPub. L. 108–311, set out as a note under section 2 of this title.
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 #### Effective Date of 1996 Amendment
 

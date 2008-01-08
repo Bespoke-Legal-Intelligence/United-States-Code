@@ -8,7 +8,7 @@ The Board may adopt regulations concerning its organization and procedures. Such
 
 &emsp;&emsp;(B) issues which, in the judgment of the Board, can best be resolved by a hearing or presentation of oral argument.
 
-&emsp;(2) The grievant, the representatives of the grievant, the exclusive representative (if the grievant is a member of the bargaining unit represented by the exclusive representative), and the representatives of the Department are entitled to be present at the hearing. The Board may, after considering the views of theparties and any other individuals connected with the grievance, decide that a hearing should be open to others. Testimony at a hearing shall be given under oath, which any Board member or individual designated by the Board shall have authority to administer.
+&emsp;(2) The grievant, the representatives of the grievant, the exclusive representative (if the grievant is a member of the bargaining unit represented by the exclusive representative), and the representatives of the Department are entitled to be present at the hearing. The Board may, after considering the views of the parties and any other individuals connected with the grievance, decide that a hearing should be open to others. Testimony at a hearing shall be given under oath, which any Board member or individual designated by the Board shall have authority to administer.
 
 &emsp;(3) Each party (including an exclusive representative appearing in the proceedings) shall be entitled to examine and cross-examine witnesses at the hearing or by deposition and to serve interrogatories upon another party and have such interrogatories answered by the other party unless the Board finds such interrogatory irrelevant, immaterial, or unduly repetitive. Upon request of the Board, or upon a request of the grievant deemed relevant and material by the Board, an agency shall promptly make available at the hearing or by deposition any witness under its control, supervision, or responsibility, except that if the Board determines that the presence of such witness at the hearing is required for just resolution of the grievance, then the witness shall be made available at the hearing, with necessary costs and travel expenses paid by the Department.
 
@@ -24,7 +24,7 @@ The Board may adopt regulations concerning its organization and procedures. Such
 
 &emsp;(9) The Board may reconsider any decision upon presentation of newly discovered or previously unavailable material evidence.
 
-(Pub. L. 96–465, title I, §1106, Oct. 17, 1980, 94 Stat. 2145; Pub. L. 101–167, title V, §586(a), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 102–138, title I, §143(b), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–236, title I, §§177(a), 181(a)(4)(B), Apr. 30, 1994, 108 Stat. 414, 417; Pub. L. 107–228, div. A, title III, §314(b), Sept. 30, 2002, 116 Stat. 1379; Pub. L. 109–140, §5, Dec. 22, 2005, 119 Stat. 2652.)
+(Pub. L. 96–465, title I, §1106, Oct. 17, 1980, 94 Stat. 2145; Pub. L. 101–167, title V, §586(a), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 102–138, title I,§143(b), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–236, title I, §§177(a), 181(a)(4)(B), Apr. 30, 1994, 108 Stat. 414, 417; Pub. L. 107–228, div. A, title III, §314(b), Sept. 30, 2002, 116 Stat. 1379; Pub. L. 109–140, §5, Dec. 22, 2005, 119 Stat. 2652.)
 
 #### Amendments
 
@@ -38,5 +38,5 @@ Pub. L. 103–236, §177(a), substituted “until the date which is one year aft
 
 1991—Par. (8). Pub. L. 102–138 substituted “exercised his authority under subsection (a)(3) of section 4010 of this title” for “determined that there is reasonable cause to believe that a grievant has committed a job-related crime for which a sentence of imprisonment may be imposed and has taken action to suspend the grievant without pay pending a final resolution of the underlying matter”.
 
-1989—Par. (8). Pub. L. 101–167 inserted at end “Notwithstanding the first sentence of this paragraph, the Board's authority to suspend such action shall not extend to instances where the Secretary, or his designee, has determined that there is reasonable cause to believe that a grievant has committed a job-related crimefor which a sentence of imprisonment may be imposed and has taken action to suspend the grievant without pay pending a final resolution of the underlying matter.”
+1989—Par. (8). Pub. L. 101–167 inserted at end “Notwithstanding the first sentence of this paragraph, the Board's authority to suspend such action shall not extend to instances where the Secretary, or his designee, has determined that there is reasonable cause to believe that a grievant has committed a job-related crime for which a sentence of imprisonment may be imposed and has taken action to suspend the grievant without pay pending a final resolution of the underlying matter.”
 

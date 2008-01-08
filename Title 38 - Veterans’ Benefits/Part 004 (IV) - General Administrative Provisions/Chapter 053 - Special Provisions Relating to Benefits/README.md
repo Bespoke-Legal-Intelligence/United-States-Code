@@ -22,12 +22,15 @@
 | [5315\.](%C2%A7%2005315%20-%20Interest%20and%20administrative%20cost%20charges%20on%20delinquent%20payments%20of%20certain%20amounts%20due%20the%20United%20States.md) | Interest and administrative cost charges on delinquent payments of certain amounts due the United States. |
 | [5316\.](%C2%A7%2005316%20-%20Authority%20to%20sue%20to%20collect%20certain%20debts.md) | Authority to sue to collect certain debts. |
 | [5317\.](%C2%A7%2005317%20-%20Use%20of%20income%20information%20from%20other%20agencies%20notice%20and%20verification.md) | Use of income information from other agencies: notice and verification. |
+| [5317A.](%C2%A7%2005317A%20-%20Use%20of%20income%20information%20from%20other%20agencies%20independent%20verification%20required%20before%20termination%20or%20reduction%20of%20certain%20benefits%20and%E2%80%A6.md) | Use of income information from other agencies: independent verification required before termination or reduction of certain benefits and services. |
 | [5318\.](%C2%A7%2005318%20-%20Review%20of%20Social%20Security%20Administration%20death%20information.md) | Review of Social Security Administration death information. |
 | [5319\.](%C2%A7%2005319%20-%20Limitations%20on%20access%20to%20financial%20records.md) | Limitations on access to financial records. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 110–157, title III, §301(b)(2), Dec. 26, 2007, 121 Stat. 1836, added item 5317A.
 
 2003—Pub. L. 108–183, title VII, §708(c)(4)(B)(ii), Dec. 16, 2003, 117 Stat. 2675, substituted “Social Security Administration” for “Department of Health and Human Services” in item 5318.
 
@@ -80,5 +83,6 @@ Pub. L. 96–385, title V, §504(b), Oct. 7, 1980, 94 Stat. 1535, added item 311
 - [&sect; 05315 - Interest and administrative cost charges on delinquent payments of certain amounts due the United States](%C2%A7%2005315%20-%20Interest%20and%20administrative%20cost%20charges%20on%20delinquent%20payments%20of%20certain%20amounts%20due%20the%20United%20States.md)
 - [&sect; 05316 - Authority to sue to collect certain debts](%C2%A7%2005316%20-%20Authority%20to%20sue%20to%20collect%20certain%20debts.md)
 - [&sect; 05317 - Use of income information from other agencies notice and verification](%C2%A7%2005317%20-%20Use%20of%20income%20information%20from%20other%20agencies%20notice%20and%20verification.md)
+- [&sect; 05317A - Use of income information from other agencies independent verification required before termination or reduction of certain benefits and&#8230;](%C2%A7%2005317A%20-%20Use%20of%20income%20information%20from%20other%20agencies%20independent%20verification%20required%20before%20termination%20or%20reduction%20of%20certain%20benefits%20and%E2%80%A6.md)
 - [&sect; 05318 - Review of Social Security Administration death information](%C2%A7%2005318%20-%20Review%20of%20Social%20Security%20Administration%20death%20information.md)
 - [&sect; 05319 - Limitations on access to financial records](%C2%A7%2005319%20-%20Limitations%20on%20access%20to%20financial%20records.md)

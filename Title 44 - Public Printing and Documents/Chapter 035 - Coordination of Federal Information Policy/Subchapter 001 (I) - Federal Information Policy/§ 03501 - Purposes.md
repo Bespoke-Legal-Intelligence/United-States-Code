@@ -38,7 +38,7 @@ Section 11332 of title 40, referred to in par. (8)(B), was repealed by Pub. L. 1
 
 #### Prior Provisions
 
-A prior section 3501, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812; amended Pub. L. 99–500, §101(m) \[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §811\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3501, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812; amended Pub. L. 99–500, §101(m) \[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §811\],Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3501, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, related to information for Federal agencies, prior to the general amendment of this chapter by Pub. L. 96–511.
 
@@ -50,7 +50,7 @@ Another prior section 3501, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, rela
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] ofPub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
 
 #### Effective Date
 
@@ -288,7 +288,7 @@ Privacy and security concerns.—
 
 &emsp;&emsp;&emsp;“(I) by authorizing the filing under seal, and permitting the amendment as of right under seal, of a reference list that—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(aa) identifies each item of unredacted protected information that the attorney or, ifthere is no attorney, the party, certifies is relevant to the case; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(aa) identifies each item of unredacted protected information that the attorney or, if there is no attorney, the party, certifies is relevant to the case; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(bb) specifies an appropriate redacted identifier that uniquely corresponds to each item of unredacted protected information listed; and
 
@@ -342,7 +342,7 @@ Exception.—To the extent that the Supreme Court, a court of appeals, district,
 
 &emsp;“(2)
 
-Report.—Not later than 1 year after the effective date of this title \[see Effective Date note set out under section 3601 of this title\], and every year thereafter, the Judicial Conference of the United States shall submit a report to the Committees on Governmental Affairs and the Judiciary of the Senate and the Committees on Government Reform and the Judiciary of the House of Representatives that—
+Report.—Not later than 1 year after the effective date of this title \[see Effective Date note set out under section 3601 of this title\], and every year thereafter, the Judicial Conference of the United States shall submit a report to the Committees on Governmental Affairs and the Judiciary of the Senate and the Committees on Government Reform \[now Oversight and Government Reform\] and the Judiciary of the House of Representatives that—
 
 &emsp;&emsp;“(A) contains all notifications submitted to the Administrative Office of the United States Courts under this subsection; and
 
@@ -692,7 +692,7 @@ In general.—An agency shall take actions described under subparagraph (B) befo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) will be collected, maintained, or disseminated using information technology; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) includes any information in an identifiable form permitting the physical or online contacting of a specific individual, if identical questions have been posed to, or identical reporting requirements imposed on, 10 or more persons, other than agencies, instrumentalities, or employees of the Federal Government.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) includes any information in an identifiable form permitting the physical or online contacting of a specific individual, if identicalquestions have been posed to, or identical reporting requirements imposed on, 10 or more persons, other than agencies, instrumentalities, or employees of the Federal Government.
 
 &emsp;&emsp;“(B)
 
@@ -836,7 +836,7 @@ Information technology training reporting.—The Director of the Office of Manag
 
 &emsp;“(6)
 
-Authority to detail employees to non-Federal employers.—In carrying out the preceding provisions of this subsection, the Director of the Office of Personnel Management may provide for a programunder which a Federal employee may be detailed to a non-Federal employer. The Director of the Office of Personnel Management shall prescribe regulations for such program, including the conditions for service and duties as the Director considers necessary.
+Authority to detail employees to non-Federal employers.—In carrying out the preceding provisions of this subsection, the Director of the Office of Personnel Management may provide for a program under which a Federal employee may be detailed to a non-Federal employer. The Director of the Office of Personnel Management shall prescribe regulations for such program, including the conditions for service and duties as the Director considers necessary.
 
 &emsp;“(7)
 
@@ -864,7 +864,7 @@ In general.—\[Enacted chapter 37 of Title 5, Government Organization and Emplo
 
 &emsp;“(2)
 
-Report.—Not later than 4 years after the date of the enactment of this Act \[Dec. 17, 2002\], the Government Accountability Office shall prepare and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the operation of chapter 37 of title 5, United States Code (as added by this subsection). Such report shall include—
+Report.—Not later than 4 years after the date of the enactment of this Act \[Dec. 17, 2002\], the Government Accountability Office shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the operation of chapter 37 of title 5, United States Code (as added by this subsection). Such report shall include—
 
 &emsp;&emsp;“(A) an evaluation of the effectiveness of the program established by such chapter; and
 
@@ -910,7 +910,7 @@ Exchange program defined.—For purposes of this subsection, the term ‘exchang
 
 &emsp;“(2)
 
-Reporting requirement.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report identifying all existing exchange programs.
+Reporting requirement.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report identifying all existing exchange programs.
 
 &emsp;“(3)
 
@@ -930,7 +930,7 @@ Report on the Establishment of a Governmentwide Information Technology Training 
 
 &emsp;“(1)
 
-In general.—Not later January 1, 2003, the Office of Personnel Management, in consultation with the Chief Information Officers Council and the Administrator of General Services, shall review and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a written report on the following:
+In general.—Not later January 1, 2003, the Office of Personnel Management, in consultation with the Chief Information Officers Council and the Administrator of General Services, shall review and submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a written report on the following:
 
 &emsp;&emsp;“(A) The adequacy of any existing information technology training programs available to Federal employees on a Governmentwide basis.
 
@@ -972,7 +972,7 @@ Other Contracts.—\[Enacted section 266a of Title 41.\]
 
 “(c)
 
-Development of Incentives.—The Director of the Office of Management and Budget shall, in consultation with the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform of the House of Representatives, and executive agencies, develop techniques to permit an executive agency to retain a portion of the savings (after payment of the contractor's share of the savings) derived from share-in-savings contracts as funds are appropriated to the agency in future fiscal years.
+Development of Incentives.—The Director of the Office of Management and Budget shall, in consultation with the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and executive agencies, develop techniques to permit an executive agency to retain a portion of the savings (after payment of the contractor's share of the savings) derived from share-in-savings contracts as funds are appropriated to the agency in future fiscal years.
 
 “(d)
 
@@ -1052,7 +1052,7 @@ Procedures.—Not later than 30 days after the date of the enactment of this Act
 
 “(c)
 
-Report.—Not later than December 31, 2004, the Administrator shall submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the implementation and effects of the amendment made by subsection (a).
+Report.—Not later than December 31, 2004, the Administrator shall submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report on the implementation and effects of the amendment made by subsection (a).
 
 #### “SEC. 212. INTEGRATED REPORTING STUDY AND PILOT PROJECTS.
 
@@ -1080,7 +1080,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—Not later than 3 years after the date of enactment of this Act \[Dec. 17, 2002\], the Director shall oversee a study, in consultation with agencies, the regulated community, public interest organizations, and the public, and submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform of the House of Representatives on progress toward integrating Federal information systems across agencies.
+In general.—Not later than 3 years after the date of enactment of this Act \[Dec. 17, 2002\], the Director shall oversee a study, in consultation with agencies, the regulated community, public interest organizations, and the public, and submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives on progress toward integrating Federal information systems across agencies.
 
 &emsp;“(2)
 
@@ -1092,7 +1092,7 @@ Contents.—The report under this section shall—
 
 &emsp;&emsp;“(C) address the feasibility of developing a distributed information system involving, on a voluntary basis, at least 2 agencies, that—
 
-&emsp;&emsp;&emsp;“(i) provides consistent, dependable, and timely public access to the information holdings of 1 or more agencies, or some portion of such holdings, without requiring public users to know which agency holds the information; and
+&emsp;&emsp;&emsp;“(i) provides consistent, dependable, and timely public access to the information holdings of 1 ormore agencies, or some portion of such holdings, without requiring public users to know which agency holds the information; and
 
 &emsp;&emsp;&emsp;“(ii) allows the integration of public information held by the participating agencies;
 
@@ -1164,9 +1164,9 @@ Study and Report.—Not later than 2 years after the effective date of this titl
 
 &emsp;&emsp;“(B) the Committee on Health, Education, Labor, and Pensions of the Senate;
 
-&emsp;&emsp;“(C) the Committee on Government Reform of the House of Representatives; and
+&emsp;&emsp;“(C) the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives; and
 
-&emsp;&emsp;“(D) the Committee on Education and the Workforce of the House of Representatives.
+&emsp;&emsp;“(D) the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives.
 
 “(c)
 
@@ -1240,7 +1240,7 @@ Distribution.—The Administrator, with assistance from the Secretary of Educati
 
 “(g)
 
-Promotion of Community Technology Centers.—The Administrator, with assistance from the Department of Education and in consultation with other agencies and organizations, shall promote the availability of community technology centers to raise awareness within each community where such a center is located.
+Promotion of Community Technology Centers.—The Administrator, with assistance from theDepartment of Education and in consultation with other agencies and organizations, shall promote the availability of community technology centers to raise awareness within each community where such a center is located.
 
 “(h)
 
@@ -1264,7 +1264,7 @@ In General.—
 
 &emsp;“(1)
 
-Study on enhancement of crisis response.—Not later than 90 days after the date of enactment of this Act \[Dec. 17, 2002\], the Administrator, in consultation with the Federal Emergency Management Agency, shall ensure that a study is conducted onusing information technology to enhance crisis preparedness, response, and consequence management of natural and manmade disasters.
+Study on enhancement of crisis response.—Not later than 90 days after the date of enactment of this Act \[Dec. 17, 2002\], the Administrator, in consultation with the Federal Emergency Management Agency, shall ensure that a study is conducted on using information technology to enhance crisis preparedness, response, and consequence management of natural and manmade disasters.
 
 &emsp;“(2)
 
@@ -1284,7 +1284,7 @@ Report.—Not later than 2 years after the date on which a contract is entered i
 
 &emsp;&emsp;“(A) the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate; and
 
-&emsp;&emsp;“(B) the Committee on Government Reform of the House of Representatives.
+&emsp;&emsp;“(B) the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives.
 
 &emsp;“(4)
 
@@ -1310,7 +1310,7 @@ Study.—Not later than 90 days after the date of enactment of this Act \[Dec. 1
 
 &emsp;“(2)
 
-Report.—Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform of the House of Representatives a final report of the study under this section, which shall set forth the findings, conclusions, and recommendations of the National Research Council.
+Report.—Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives a final report of the study under this section, which shall set forth the findings, conclusions, and recommendations of the National Research Council.
 
 “(b)
 
@@ -1456,7 +1456,7 @@ Pub. L. 107–347, title V, Dec. 17, 2002, 116 Stat. 2962, provided that:
 
 “(a)
 
-In General.—The Director of the Office of Management and Budget shall coordinate and oversee the confidentiality and disclosure policies established by this title. The Director may promulgate rules or provide other guidance to ensure consistent interpretation of this title by the affected agencies.
+In General.—The Director of the Office of Management and Budget shall coordinate and oversee the confidentiality and disclosure policies established bythis title. The Director may promulgate rules or provide other guidance to ensure consistent interpretation of this title by the affected agencies.
 
 “(b)
 
@@ -1472,9 +1472,9 @@ Reports.—
 
 &emsp;“(1) The head of each agency shall provide to the Director of the Office of Management and Budget such reports and other information as the Director requests.
 
-&emsp;“(2) Each Designated Statistical Agency referred to in section 522 shall report annually to the Director of the Office of Management and Budget, the Committee on Government Reform of the House of Representatives, and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate on the actions it has taken to implement sections 523 and 524. The report shall include copies of each written agreement entered into pursuant to section 524(a) for the applicable year.
+&emsp;“(2) Each Designated Statistical Agency referred to in section 522 shall report annually to the Director of the Office of Management and Budget, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate on the actions it has taken to implement sections 523 and 524. The report shall include copies of each written agreement entered into pursuant to section 524(a) for the applicable year.
 
-&emsp;“(3) The Director of the Office of Management and Budget shall include a summary of reports submitted to the Director under paragraph (2) and actions takenby the Director to advance the purposes of this title in the annual report to the Congress on statistical programs prepared under section 3504(e)(2) of title 44, United States Code.
+&emsp;“(3) The Director of the Office of Management and Budget shall include a summary of reports submitted to the Director under paragraph (2) and actions taken by the Director to advance the purposes of this title in the annual report to the Congress on statistical programs prepared under section 3504(e)(2) of title 44, United States Code.
 
 #### “SEC. 504. EFFECT ON OTHER LAWS.
 
@@ -1562,7 +1562,7 @@ Purposes.—The purposes of this subtitle are the following:
 
 “(a)
 
-Use of Statistical Data or Information.—Data or information acquired by an agency under a pledge of confidentiality and for exclusively statistical purposes shall be used by officers, employees, or agents of the agency exclusively for statistical purposes.
+Use of Statistical Data or Information.—Data or information acquired by an agency under a pledge ofconfidentiality and for exclusively statistical purposes shall be used by officers, employees, or agents of the agency exclusively for statistical purposes.
 
 “(b)
 
@@ -1580,7 +1580,7 @@ Rule for Use of Data or Information for Nonstatistical Purposes.—A statistical
 
 “(d)
 
-Designation of Agents.—A statistical agency or unit may designate agents, by contract or by entering into a special agreement containing the provisions required under section 502(2) for treatment as an agentunder that section, who may perform exclusively statistical activities, subject to the limitations and penalties described in this title.
+Designation of Agents.—A statistical agency or unit may designate agents, by contract or by entering into a special agreement containing the provisions required under section 502(2) for treatment as an agent under that section, who may perform exclusively statistical activities, subject to the limitations and penalties described in this title.
 
 #### “SEC. 513. FINES AND PENALTIES.
 
@@ -1664,7 +1664,7 @@ In General.—A Designated Statistical Agency may provide business data in an id
 
 “(b)
 
-Responsibilities of Agencies Under Other Laws.—The provision of business data by an agency to a Designated Statistical Agency under this subtitle shall in no way alter the responsibility of the agency providing the data under other statutes (including section 552 of title 5, United States Code (popularly known as the Freedom of Information Act), and section 552b of title 5, United States Code (popularly known as the Privacy Act of 1974 \[Pub. L. 93–579, see Short Title note setout under section 552a of Title 5, Government Organization and Employees\])) with respect to the provision or withholding of such information by the agency providing the data.
+Responsibilities of Agencies Under Other Laws.—The provision of business data by an agency to a Designated Statistical Agency under this subtitle shall in no way alter the responsibility of the agency providing the data under other statutes (including section 552 of title 5, United States Code (popularly known as the Freedom of Information Act), and section 552b of title 5, United States Code (popularly known as the Privacy Act of 1974 \[Pub. L. 93–579, see Short Title note set out under section 552a of Title 5, Government Organization and Employees\])) with respect to the provision or withholding of such information by the agency providing the data.
 
 “(c)
 

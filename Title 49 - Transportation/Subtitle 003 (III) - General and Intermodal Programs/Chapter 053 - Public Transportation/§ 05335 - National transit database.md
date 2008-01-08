@@ -82,7 +82,7 @@ This amends 49:5335(d)(2)(B) to amend an erroneous cross-reference.
 
 #### Amendments
 
-2005—Pub. L. 109–59, §3033(a), substituted “National transit database” for “Reports and audits” in section catchline, redesignated pars. (1) and (2) of subsec. (a) as subsecs. (a) and (b), respectively, inserted subsec. (b) heading, substituted “The Secretary may award a grant under section 5307 or 5311” for “The Secretary may make a grant under section 5307 of this title” in subsec. (b), and struck out former subsec. (b) which related to submission of a report in January- 1993, on carrying out former section 5307(b)(5) of this title.
+2005—Pub. L. 109–59, §3033(a), substituted “National transit database” for “Reports and audits” in sectioncatchline, redesignated pars. (1) and (2) of subsec. (a) as subsecs. (a) and (b), respectively, inserted subsec. (b) heading, substituted “The Secretary may award a grant under section 5307 or 5311” for “The Secretary may make a grant under section 5307 of this title” in subsec. (b), and struck out former subsec. (b) which related to submission of a report in January- 1993, on carrying out former section 5307(b)(5) of this title.
 
 Subsec. (a)(1). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 

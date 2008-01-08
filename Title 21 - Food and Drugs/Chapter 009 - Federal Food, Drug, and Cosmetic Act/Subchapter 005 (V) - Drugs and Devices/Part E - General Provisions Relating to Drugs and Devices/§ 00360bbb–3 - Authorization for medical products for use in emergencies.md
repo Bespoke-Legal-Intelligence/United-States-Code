@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) is not approved, licensed, or cleared for commercial distribution under a provision of law referred to in such paragraph (referred to in this section as an “unapproved product”); or
 
-&emsp;&emsp;(B) is approved, licensed, or cleared under such a provision, but which use is not undersuch provision an approved, licensed, or cleared use of the product (referred to in this section as an “unapproved use of an approved product”).
+&emsp;&emsp;(B) is approved, licensed, or cleared under such a provision, but which use is not under such provision an approved, licensed, or cleared use of the product (referred to in this section as an “unapproved use of an approved product”).
 
 #### (3) Relation to other uses
 
@@ -152,9 +152,9 @@ An authorization of a product under this section shall state—
 
 &emsp;&emsp;(B)(i) If the authorization under this section regarding the emergency use authorizes a change in the labeling of the product, but the manufacturer of the product chooses not to make such change, such authorization may not authorize distributors of the product or any other person to alter or obscure the labeling provided by the manufacturer.
 
-&emsp;&emsp;(ii) In the circumstances described in clause (i), for a person who does not manufacture the product and who chooses to act under this clause, an authorization under this section regarding the emergency use shall, to the extent practicable given the circumstances of the emergency, authorize such person to provide appropriate information with respect to such product in additionto the labeling provided by the manufacturer, subject to compliance with clause (i). While the authorization under this section is effective, such additional information shall not be considered labeling for purposes of section 352 of this title.
+&emsp;&emsp;(ii) In the circumstances described in clause (i), for a person who does not manufacture the product and who chooses to act under this clause, an authorization under this section regarding the emergency use shall, to the extent practicable given the circumstances of the emergency, authorize such person to provide appropriate information with respect to such product in addition to the labeling provided by the manufacturer, subject to compliance with clause (i). While the authorization under this section is effective, such additional information shall not be considered labeling for purposes of section 352 of this title.
 
-&emsp;&emsp;(C) The Secretary may establish with respect to the distribution and administration of the product for the unapproved use conditions no more restrictive than those established by the Secretary with respect to the distribution and administration of the product for the approved use.
+&emsp;&emsp;(C) The Secretary may establish with respect to the distribution and administration of the product for the unapproved use conditions no more restrictive than those established by the Secretary with respect to thedistribution and administration of the product for the approved use.
 
 #### (3) Good manufacturing practice
 

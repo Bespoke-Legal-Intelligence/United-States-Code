@@ -1,6 +1,6 @@
 ### §1494. Expense of weighing and measuring
 
-In all cases in which the invoice or entry does not state the weight, quantity, or measure of the merchandise, the expense of ascertaining the same shall be collected from the importer of record before its release from customs custody.
+In all cases in which the invoice or entry does not state the weight, quantity, or measure ofthe merchandise, the expense of ascertaining the same shall be collected from the importer of record before its release from customs custody.
 
 (June 17, 1930, ch. 497, title IV, §494, 46 Stat. 727; Pub. L. 97–446, title II, §201(e), Jan. 12, 1983, 96 Stat. 2350.)
 

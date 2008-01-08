@@ -2,7 +2,7 @@
 
 (a)
 
-By Force or Threat.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General, knowingly causes another person to engage in a sexual act—
+By Force or Threat.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly causes another person to engage in a sexual act—
 
 &emsp;(1) by using force against that other person; or
 
@@ -12,7 +12,7 @@ By Force or Threat.—Whoever, in the special maritime and territorial jurisdict
 
 (b)
 
-By Other Means.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General, knowingly—
+By Other Means.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly—
 
 &emsp;(1) renders another person unconscious and thereby engages in a sexual act with that other person; or
 
@@ -26,19 +26,21 @@ By Other Means.—Whoever, in the special maritime and territorial jurisdiction 
 
 (c)
 
-With Children.—Whoever crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General, knowingly engages in a sexual act with another person who has not attained the age of 12 years, or knowingly engages in a sexual act under the circumstances described in subsections (a) and (b) with another person who has attained the age of 12 years but has not attained the age of 16 years (and is at least 4 years younger than the person so engaging), or attempts to do so, shall be fined under this title and imprisoned for not less than 30 years or for life. If the defendant has previously been convicted of another Federal offense under this subsection, or of a State offense that would have been an offense under either such provision had the offense occurred in a Federal prison, unless the death penalty is imposed, the defendant shall be sentenced to life in prison.
+With Children.—Whoever crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in a sexual act with another person who has not attained the age of 12 years, or knowingly engages in a sexual act under the circumstances described in subsections (a) and (b) with another person who has attained the age of 12 years but has not attained the age of 16 years (and is at least 4 years younger than the person so engaging), or attempts to do so, shall be fined under this title and imprisoned for not less than 30 years or for life. If the defendant has previously been convicted of another Federal offense under this subsection, or of a State offense that would have been an offense under either such provision had the offense occurred in a Federal prison, unless the death penalty is imposed, the defendant shall be sentenced to life in prison.
 
 (d)
 
 State of Mind Proof Requirement.—In a prosecution under subsection (c) of this section, the Government need not prove that the defendant knew that the other person engaging in the sexual act had not attained the age of 12 years.
 
-(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3660; amended Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, §301(a), Oct. 30, 1998, 112 Stat. 2978; Pub. L. 109–162, title XI, §1177(a)(1), (2), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§206(a)(1), 207(2), July 27, 2006, 120 Stat. 613, 615.)
+(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3660; amended Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, §301(a), Oct. 30, 1998, 112 Stat. 2978; Pub. L. 109–162, title XI, §1177(a)(1), (2), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§206(a)(1), 207(2), July 27, 2006, 120 Stat. 613, 615; Pub. L. 110–161, div. E, title V, §554, Dec. 26, 2007, 121 Stat. 2082.)
 
 #### Codification
 
 Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2241.
 
 #### Amendments
+
+2007—Subsecs. (a) to (c). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General”.
 
 2006—Subsecs. (a), (b). Pub. L. 109–248, §207(2), inserted comma after “Attorney General” in introductory provisions.
 
@@ -62,7 +64,7 @@ Section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654 provided, re
 
 Section 101(a) \[title I, §121\[7(a)\]\] of Pub. L. 104–208 provided that: “This section \[probably means subsec. 7 of section 121 of Pub. L. 104–208, div. A, title I, §101(a), which amended sections 2241 and 2243 of this title\] may be cited as the ‘Amber Hagerman Child Protection Act of 1996’.”
 
-#### Short Title
+#### Short Title of 1986 Amendment
 
 Section 87(a) of Pub. L. 99–646 and section 1 of Pub. L. 99–654 provided, respectively, that: “This section \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, The Public Health and Welfare, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the ‘Sexual Abuse Act of 1986’.” and “This Act \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the ‘Sexual Abuse Act of 1986’.”
 

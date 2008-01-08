@@ -58,11 +58,11 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §117(f); added Apr. 3, 1980, Pub. L. 96�
 
 31:67(f)(1)(2d sentence).
 
-In subsection (a)(1), the words “Notwithstanding any provision of law” are omitted as unnecessary. The words “may audit” are added for clarity and for consistency in the revised section and chapter. The words “as may be necessary to enable him” and “in fact, actually” are omitted as surplus. The words “Records . . . shall be made available” are substituted for “shall have access to such books, documents, papers, records” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(1), the words “Notwithstanding any provision of law” are omitted as unnecessary. The words “may audit” are added for clarity and for consistency in the revised section and chapter. The words “as may be necessary to enable him” and “in fact, actually” are omitted as surplus. The words “Records. . . shall be made available” are substituted for “shall have access to such books, documents, papers, records” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(2), the words “With respect to any expenditure accounted for solely on the approval, authorization, or certificate of the President of the United States or an official of an executive agency and notwithstanding any provision of law” are omitted because of the restatement. The words “in question” are omitted as surplus.
 
-In subsection (b), the words “Before December 1 of each year” are substituted for “Not later than sixtydays after the beginning of each fiscal year” for clarity. The words “starting on or after October 1, 1980” are omitted as executed. The words “audit by the Comptroller General under” and “the Chairmen of” are omitted as surplus.
+In subsection (b), the words “Before December 1 of each year” are substituted for “Not later than sixty days after the beginning of each fiscal year” for clarity. The words “starting on or after October 1, 1980” are omitted as executed. The words “audit by the Comptroller General under” and “the Chairmen of” are omitted as surplus.
 
 In subsection (c), the words “proceeding pursuant to the provisions of paragraph (1) of this subsection” and “the safety of” are omitted as surplus.
 
@@ -74,7 +74,7 @@ In subsection (e), the words “from the provisions of paragraph (1)” are omit
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Termination of Reporting Requirements
 

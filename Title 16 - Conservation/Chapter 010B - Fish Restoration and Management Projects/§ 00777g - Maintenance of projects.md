@@ -24,7 +24,7 @@ Each State may use not to exceed 15 percent of the funds apportioned to it under
 
 &emsp;The plan shall provide—
 
-&emsp;&emsp;(A) guidance, including guidance on the development of an administrative process and funding priorities, for outreach and communications programs; and
+&emsp;&emsp;(A) guidance, including guidance on the development of an administrative processand funding priorities, for outreach and communications programs; and
 
 &emsp;&emsp;(B) for the establishment of a national program.
 

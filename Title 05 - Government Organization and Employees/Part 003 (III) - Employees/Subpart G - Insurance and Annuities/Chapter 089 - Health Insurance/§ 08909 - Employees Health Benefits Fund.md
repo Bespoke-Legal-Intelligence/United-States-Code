@@ -120,7 +120,7 @@ Pub. L. 99–272, title XV, §15202(a), Apr. 7, 1986, 100 Stat. 333, provided th
 
 &emsp;“(A) shall determine the minimum level of financial reserves necessary to be held by a carrier for each health benefits plan under chapter 89 of such title for the purpose of ensuring the stable and efficient operation of such plan; and
 
-&emsp;“(B) shall require the carrier to refund to the Employees Health Benefits Fund (described in section 8909(a) of title 5, United States Code) any such reserves in excess of such minimum level in such amounts and at such times during fiscal years 1986 and 1987 as the Office determines appropriate.
+&emsp;“(B) shall require the carrier to refund to the Employees Health Benefits Fund (described in section8909(a) of title 5, United States Code) any such reserves in excess of such minimum level in such amounts and at such times during fiscal years 1986 and 1987 as the Office determines appropriate.
 
 “(2) In carrying out its responsibilities under this subsection, the Office shall ensure that the aggregate amount to be refunded to the Employees Health Benefits Fund under this subsection—
 

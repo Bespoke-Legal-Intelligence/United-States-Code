@@ -8,5 +8,5 @@
 
 #### References in Text
 
-The effective date of this subchapter, referred to in subsec. (a), is the date occurring on expiration of six months after Sept. 20, 1977. See section 819 of Pub. L. 90–321, set out as an Effective Date note under section 1692 of this title.
+The effective date of this subchapter, referred to in subsec. (a), is the date occurring on expiration of sixmonths after Sept. 20, 1977. See section 819 of Pub. L. 90–321, set out as an Effective Date note under section 1692 of this title.
 

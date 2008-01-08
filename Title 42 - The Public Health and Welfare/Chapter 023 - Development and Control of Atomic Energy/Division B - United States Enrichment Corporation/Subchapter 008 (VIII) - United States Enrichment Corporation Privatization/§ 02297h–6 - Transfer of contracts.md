@@ -14,7 +14,7 @@ The Corporation shall transfer to the private corporation the right to purchase 
 
 #### (c) Effect of transfer
 
-(1) Notwithstanding subsection (a) of this section, the United States shall remain obligated to the parties to the contracts, agreements, and leases transferred under subsection (a) of this section for the performance of its obligations under such contracts, agreements, or leases during their terms. Performance of such obligations by the private corporation shall be considered performance by the United States.
+(1) Notwithstanding subsection (a) of this section, the United States shall remain obligated to the parties to the contracts, agreements, and leases transferred under subsection (a) of this section for the performance of its obligations under such contracts, agreements, or leases during their terms. Performance of such obligationsby the private corporation shall be considered performance by the United States.
 
 (2) If a contract, agreement, or lease transferred under subsection (a) of this section is terminated, extended, or materially amended after the privatization date—
 

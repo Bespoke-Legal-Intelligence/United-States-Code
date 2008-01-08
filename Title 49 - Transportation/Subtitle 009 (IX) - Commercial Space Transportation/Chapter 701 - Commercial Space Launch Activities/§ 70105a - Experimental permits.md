@@ -40,3 +40,7 @@
 
 (Added Pub. L. 108–492, §2(c)(16), Dec. 23, 2004, 118 Stat. 3979.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

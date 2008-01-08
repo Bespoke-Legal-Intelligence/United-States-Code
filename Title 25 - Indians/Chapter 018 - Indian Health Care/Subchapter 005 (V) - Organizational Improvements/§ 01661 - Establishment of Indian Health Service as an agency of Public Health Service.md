@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to more effectively and efficiently carry out the responsibilities, authorities, and functions of the United States to provide health care services to Indians and Indian tribes, as are or may be on and after November 23, 1988, provided by Federal statute or treaties, there is established within the Public Health Service of the Department of Health and Human Services the Indian Health Service. The Indian Health Service shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate. The Director of the Indian Health Service shall report to the Secretary through the Assistant Secretary for Health of the Department of Health and Human Services. Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term.
+In order to more effectively and efficiently carry out the responsibilities, authorities, andfunctions of the United States to provide health care services to Indians and Indian tribes, as are or may be on and after November 23, 1988, provided by Federal statute or treaties, there is established within the Public Health Service of the Department of Health and Human Services the Indian Health Service. The Indian Health Service shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate. The Director of the Indian Health Service shall report to the Secretary through the Assistant Secretary for Health of the Department of Health and Human Services. Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term.
 
 #### (b) Agency status
 
@@ -54,7 +54,7 @@ The Indian Self-Determination Act, referred to in subsec. (c)(3)(E), is title I 
 
 #### Prior Provisions
 
-A prior section 1661, Pub. L. 94–437, title VI, §601, Sept. 30, 1976, 90 Stat. 1412, related to feasibility studyand report to Congress, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1661, Pub. L. 94–437, title VI, §601, Sept. 30, 1976, 90 Stat. 1412, related to feasibility study and report to Congress, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 #### Amendments
 

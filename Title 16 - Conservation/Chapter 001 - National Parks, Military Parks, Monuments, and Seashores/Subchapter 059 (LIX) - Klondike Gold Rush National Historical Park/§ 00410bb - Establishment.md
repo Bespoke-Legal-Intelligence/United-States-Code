@@ -26,7 +26,7 @@ For Federal surplus property laws, referred to in subsec. (a), see, generally, s
 
 Subsection 6(i) of the act of July 7, 1958, commonly known as the Alaska Statehood Act, referred to in subsec. (b)(1), probably means subsection (i) of section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
-That portion of the act of February 25, 1920, which is set out at 41 Stat. 449, as referred to in subsec. (c), is classified to sections 185 to 187 of Title 30, Mineral Lands and Mining. For complete classification of the Act to the Code, see Tables.
+That portion of the act of February 25, 1920, which is set out at 41 Stat. 449, as referred to in subsec. (c), isclassified to sections 185 to 187 of Title 30, Mineral Lands and Mining. For complete classification of the Act to the Code, see Tables.
 
 That portion of the act of August 21, 1935, which is set out at 49 Stat. 678, as referred to in subsec. (c), is classified to section 185 of Title 30. For complete classification of the Act to the Code, see Tables.
 
@@ -39,8 +39,4 @@ The act of May 14, 1898, referred to in subsec. (c), is act May 14, 1898, ch. 29
 1994—Subsec. (a). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the Congress of the United States”.
 
 1980—Subsec. (b)(1). Pub. L. 96–487 inserted “or exchange and notwithstanding the provisions of subsection 6(i) of the Act of July 7, 1958, (72 Stat. 339, 342), commonly known as the Alaska Statehood Act, the State may include the minerals in any such transaction” after “only by donation”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

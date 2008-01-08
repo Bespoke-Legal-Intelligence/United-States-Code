@@ -1,6 +1,6 @@
 ### §450jj–7. Development and management plan for East Saint Louis, Illinois, portion of Memorial
 
-(a) Within two years from August 24, 1984, the Commission shall develop and transmit to the Secretary a development and management planfor the East Saint Louis, Illinois, portion of the Memorial. The plan shall include—
+(a) Within two years from August 24, 1984, the Commission shall develop and transmit to the Secretary a development and management plan for the East Saint Louis, Illinois, portion of the Memorial. The plan shall include—
 
 &emsp;(1) measures for the preservation of the area's resources;
 

@@ -16,7 +16,7 @@ For purposes of this part, any passive foreign investment company shall be treat
 
 #### (1) In general
 
-&emsp;A taxpayer may make an election under this subsection with respect to any passive foreigninvestment company for any taxable year of the taxpayer. Such an election, once made with respect to any company, shall apply to all subsequent taxable years of the taxpayer with respect to such company unless revoked by the taxpayer with the consent of the Secretary.
+&emsp;A taxpayer may make an election under this subsection with respect to any passive foreign investment company for any taxable year of the taxpayer. Such an election, once made with respect to any company, shall apply to all subsequent taxable years of the taxpayer with respect to such company unless revoked by the taxpayer with the consent of the Secretary.
 
 #### (2) When made
 

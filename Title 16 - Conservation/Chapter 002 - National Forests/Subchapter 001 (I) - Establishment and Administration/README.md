@@ -14,7 +14,7 @@
 - [&sect; 00471f - Cradle of Forestry in America in Pisgah National Forest; establishment; statement of purposes; publication in Federal Register](%C2%A7%2000471f%20-%20Cradle%20of%20Forestry%20in%20America%20in%20Pisgah%20National%20Forest%3B%20establishment%3B%20statement%20of%20purposes%3B%20publication%20in%20Federal%20Register.md)
 - [&sect; 00471g - Administration, protection, and development; use of natural resources](%C2%A7%2000471g%20-%20Administration%2C%20protection%2C%20and%20development%3B%20use%20of%20natural%20resources.md)
 - [&sect; 00471h - Cooperation with public and private agencies, organizations, and individuals; acceptance of contributions and gifts](%C2%A7%2000471h%20-%20Cooperation%20with%20public%20and%20private%20agencies%2C%20organizations%2C%20and%20individuals%3B%20acceptance%20of%20contributions%20and%20gifts.md)
-- [&sect; 00471i - Pine Barrens Area, New Jersey](%C2%A7%2000471i%20-%20Pine%20Barrens%20Area%2C%20New%20Jersey.md)
+- [&sect; 00471i - Pinelands National Reserve](%C2%A7%2000471i%20-%20Pinelands%20National%20Reserve.md)
 - [&sect; 00471j - Headwaters Forest and Elk River Property acquisition](%C2%A7%2000471j%20-%20Headwaters%20Forest%20and%20Elk%20River%20Property%20acquisition.md)
 - [&sect; 00472 - Laws affecting national forest lands](%C2%A7%2000472%20-%20Laws%20affecting%20national%20forest%20lands.md)
 - [&sect; 00472a - Timber sales on National Forest System lands](%C2%A7%2000472a%20-%20Timber%20sales%20on%20National%20Forest%20System%20lands.md)

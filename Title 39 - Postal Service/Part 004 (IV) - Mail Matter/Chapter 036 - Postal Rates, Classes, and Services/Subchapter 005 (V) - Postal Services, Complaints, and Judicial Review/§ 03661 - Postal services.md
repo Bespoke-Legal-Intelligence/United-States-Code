@@ -18,5 +18,5 @@ Subchapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Boar
 
 #### Commission on Postal Service
 
-Pub. L. 94–421, §7, Sept. 24, 1976, 90 Stat. 1307, related to establishment, appointment and compensation of personnel and officers of a Commission on Postal Service and its duty to determine public service aspects of Postal Service and extent to which public service aspects of Postal Service are to be supported by appropriations, to study rate making, and to review service levels and electronic fund transfers and communication techniques, with appropriate recommendations to be transmitted to President and Congress on or before Mar. 15, 1977, 60 days after which transmittal it was to cease to exist.
+Pub. L. 94–421, §7, Sept. 24, 1976, 90 Stat. 1307, related to establishment, appointment and compensation ofpersonnel and officers of a Commission on Postal Service and its duty to determine public service aspects of Postal Service and extent to which public service aspects of Postal Service are to be supported by appropriations, to study rate making, and to review service levels and electronic fund transfers and communication techniques, with appropriate recommendations to be transmitted to President and Congress on or before Mar. 15, 1977, 60 days after which transmittal it was to cease to exist.
 

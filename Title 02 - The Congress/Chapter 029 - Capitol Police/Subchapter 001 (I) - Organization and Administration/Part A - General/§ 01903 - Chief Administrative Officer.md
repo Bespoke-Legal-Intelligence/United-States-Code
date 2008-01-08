@@ -132,7 +132,7 @@ Amendment by Pub. L. 109–55 effective Aug. 2, 2005, see section 1909(f) of thi
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–7 applicable with respect to the first pay period beginning on or after Feb. 20, 2003, see section 1013(d) of Pub. L. 108–7, set out as a note under section 1902 of this title.
+Amendment by Pub. L. 108–7 applicable with respect to the first pay period beginning on or after Feb. 20,2003, see section 1013(d) of Pub. L. 108–7, set out as a note under section 1902 of this title.
 
 #### Effective Date of 2001 Amendment
 

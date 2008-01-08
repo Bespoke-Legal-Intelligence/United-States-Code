@@ -180,7 +180,7 @@ For purposes of this part and section 103—
 
 #### (E) Independent member
 
-&emsp;&emsp;The term “independent member” means a member of the board of directors of the issuer who (except for services as a member of such board) receives no compensation directly or indirectly—
+&emsp;&emsp;The term “independent member” means a member of the board of directors of the issuer who (except for services as a member ofsuch board) receives no compensation directly or indirectly—
 
 &emsp;&emsp;&emsp;(i) for services performed in connection with such transferee corporation, or
 

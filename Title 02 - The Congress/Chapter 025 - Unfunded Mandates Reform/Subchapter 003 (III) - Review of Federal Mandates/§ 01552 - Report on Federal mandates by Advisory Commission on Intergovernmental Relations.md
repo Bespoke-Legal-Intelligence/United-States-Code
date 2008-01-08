@@ -24,7 +24,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 &emsp;&emsp;(G)(i) the mitigation of negative impacts on the private sector that may result from relieving State, local, and tribal governments from Federal mandates (if and to the extent that such negative impacts exist on the private sector); and
 
-&emsp;&emsp;(ii) the feasibility of applying relief from Federal mandates in the same manner and to the same extent to private sector entities as such relief is applied to State, local, and tribal governments; and
+&emsp;&emsp;(ii) the feasibility of applying relief from Federal mandates in the same manner andto the same extent to private sector entities as such relief is applied to State, local, and tribal governments; and
 
 &emsp;(4) identify and consider in each recommendation made under paragraph (3), to the extent practicable—
 
@@ -86,5 +86,5 @@ For purposes of this section the term “State mandate” means any provision in
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

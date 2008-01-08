@@ -22,7 +22,7 @@ Upon receipt of any application for a license or permit under this subchapter, t
 
 #### (d) Revocation of reciprocating state status
 
-The Administrator, in consultation with the Secretary of State and the heads of other appropriate departments and agencies, shall revoke the designation of a foreign nation as a reciprocating state if the Secretary of State finds that such foreign nation no longer complies with the requirements of subsection (a) of this section. At the request of any holder of a license, permit, or equivalent authorization of such foreign nation, who obtained the license, permit, or equivalent authorization while such foreign nation was a reciprocating state, the Administrator, in consultation with the Secretary of State, may decide to recognize the license, permit, or equivalent authorization for purposes of subsection (b) of this section.
+The Administrator, in consultation with the Secretary of State and the heads of other appropriate departments and agencies, shall revoke the designation of a foreign nation as a reciprocating state if the Secretary of State findsthat such foreign nation no longer complies with the requirements of subsection (a) of this section. At the request of any holder of a license, permit, or equivalent authorization of such foreign nation, who obtained the license, permit, or equivalent authorization while such foreign nation was a reciprocating state, the Administrator, in consultation with the Secretary of State, may decide to recognize the license, permit, or equivalent authorization for purposes of subsection (b) of this section.
 
 #### (e) Authorization
 

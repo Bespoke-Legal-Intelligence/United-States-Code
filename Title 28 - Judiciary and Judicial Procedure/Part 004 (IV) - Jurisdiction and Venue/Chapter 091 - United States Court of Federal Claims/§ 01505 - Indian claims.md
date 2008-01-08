@@ -18,7 +18,7 @@ The omitted language is as follows: “In any suit brought under the jurisdictio
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States ClaimsCourt” and “Court of Federal Claims” for “Claims Court”.
+1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”.
 
 1982—Pub. L. 97–164 substituted “The United States Claims Court shall have jurisdiction” for “The Court of Claims shall have jurisdiction” and “cognizable in the Claims Court” for “cognizable in the Court of Claims”.
 

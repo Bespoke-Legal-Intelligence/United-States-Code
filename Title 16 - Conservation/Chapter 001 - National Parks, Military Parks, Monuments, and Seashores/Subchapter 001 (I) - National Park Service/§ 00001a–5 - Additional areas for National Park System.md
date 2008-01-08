@@ -108,10 +108,6 @@ Subsec. (b). Pub. L. 96–199, §104(b), added subsec. (b).
 
 1978—Pub. L. 95–625 authorized annual appropriations of $1,000,000 for studies for potential new Park System units and for monitoring the welfare of those resources and $1,500,000 for monitoring the welfare and integrity of the national landmarks.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### National Park Service Studies
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §326\], Nov. 29, 1999, 113 Stat. 1535, 1501A–194, provided that:
@@ -166,7 +162,7 @@ Study areas.—The Secretary shall conduct studies of the following:
 
 “(c)
 
-Reports.—The Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a report on the findings, conclusions, and recommendations of each study under subsection (b) within three fiscal years following the date on which funds are first made available for each study.”
+Reports.—The Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report on the findings, conclusions, and recommendations of each study under subsection (b) within three fiscal years following the date on which funds are first made available for each study.”
 
 #### Purpose of 1998 Amendment
 
@@ -194,11 +190,11 @@ Pub. L. 102–98, Aug. 17, 1991, 105 Stat. 485, directed Secretary of the Interi
 
 #### Niobrara-Buffalo Prairie National Park Study
 
-Pub. L. 102–50, §8, May 24, 1991, 105 Stat. 257, directed Secretary of the Interior to study within 18 months after May 24, 1991, feasibility and suitability of establishing Niobrara-Buffalo Prairie National Park in Nebraska, including assessment of significance of natural, cultural, historic, scenic, and recreational resources and study of feasibility of managing the area by various methods, in consultation with appropriate Federal agencies, Nature Conservancy, and Nebraska Game andParks Commission, and directed Secretary to submit study to Congress, prior to repeal by Pub. L. 105–362, title IX, §901(g)(1), Nov. 10, 1998, 112 Stat. 3290.
+Pub. L. 102–50, §8, May 24, 1991, 105 Stat. 257, directed Secretary of the Interior to study within 18 months after May 24, 1991, feasibility and suitability of establishing Niobrara-Buffalo Prairie National Park in Nebraska, including assessment of significance of natural, cultural, historic, scenic, and recreational resources and study of feasibility of managing the area by various methods, in consultation with appropriate Federal agencies, Nature Conservancy, and Nebraska Game and Parks Commission, and directed Secretary to submit study to Congress, prior to repeal by Pub. L. 105–362, title IX, §901(g)(1), Nov. 10, 1998, 112 Stat. 3290.
 
 #### Underground Railroad Study
 
-Pub. L. 101–628, title VI, Nov. 28, 1990, 104 Stat. 4495, directed Secretary of the Interior to conduct a study of alternatives for commemorating the Underground Railroad in order to preserve and protect this aspect of American history, directed preparation of an interpretive handbook on the Underground Railroad in larger context of American antebellum society, including history of slavery and abolitionism, and authorized establishment of Underground Railroad Advisory Committee to meet and consult with Secretary on matters relating to the study.
+Pub. L. 101–628, title VI, Nov. 28, 1990, 104 Stat. 4495, directed Secretary of the Interior to conduct a study of alternatives for commemorating the Underground Railroad in order to preserve and protect this aspect of American history, directed preparation of an interpretive handbook on the Underground Railroad in larger context of American antebellum society, including history of slavery and abolitionism, and authorized establishment of Underground Railroad Advisory Committeeto meet and consult with Secretary on matters relating to the study.
 
 #### Civil War and Other Studies
 

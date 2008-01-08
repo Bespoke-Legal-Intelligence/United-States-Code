@@ -6,11 +6,11 @@ For the purposes of this chapter—
 
 &emsp;(2) The term “candidate” means an individual who seeks nomination for election to be President of the United States. For purposes of this paragraph, an individual shall be considered to seek nomination for election if he (A) takes the action necessary under the law of a State to qualify himself for nomination for election, (B) receives contributions or incurs qualified campaign expenses, or (C) gives his consent for any other person to receive contributions or to incur qualified campaign expenses on his behalf. The term “candidate” shall not include any individual who is not actively conducting campaigns in more than one State in connection with seeking nomination for election to be President of the United States.
 
-&emsp;(3) The term “Commission” means the Federal Election Commission established by section 309(a)(1) of the Federal Election Campaign Act of 1971.
+&emsp;(3) The term “Commission” means the Federal Election Commission established by section 306(a)(1) of the Federal Election Campaign Act of 1971.
 
 &emsp;(4) Except as provided by section 9034(a), the term “contribution”—
 
-&emsp;&emsp;(A) means a gift, subscription, loan, advance, or deposit of money, or anything of value, the payment of which was made on or after the beginning of the calendar year immediately preceding the calendar year of the presidential election with respect to which such gift, subscription, loan, advance, or deposit or money, or anything of value, is made, for the purpose of influencing the result of a primary election,
+&emsp;&emsp;(A) means a gift, subscription, loan, advance, or deposit of money, or anything of value, the payment of which was made on or after the beginning of the calendar year immediately preceding the calendar year of the presidential election with respect to which such gift, subscription, loan, advance, or deposit of money, or anything of value, is made, for the purpose of influencing the result of a primary election,
 
 &emsp;&emsp;(B) means a contract, promise, or agreement, whether or not legally enforceable, to make a contribution for any such purpose,
 
@@ -42,13 +42,15 @@ For the purposes of this chapter—
 
 &emsp;(10) The term “State” means each State of the United States and the District of Columbia.
 
-(Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1297; amended Pub. L. 94–283, title I, §115(c)(2), title III, §306(b)(1), May 11, 1976, 90 Stat. 495, 500.)
+(Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1297; amended Pub. L. 94–283, title I, §115(c)(2), title III, §306(b)(1), May 11, 1976, 90 Stat. 495, 500; Pub. L. 110–172, §11(a)(42)(C), Dec. 29, 2007, 121 Stat. 2488.)
 
 #### References in Text
 
-Section 309 of the Federal Election Campaign Act of 1971, referred to in par. (3), was renumbered section 306 of that Act by Pub. L. 96–187, title I, §105(3), Jan. 8, 1980, 93 Stat. 1354, and is classified to section 437c of Title 2, The Congress.
+Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in par. (3), is classified to section 437c(a)(1) of Title 2, The Congress.
 
 #### Amendments
+
+2007—Par. (3). Pub. L. 110–172 substituted “section 306(a)(1)” for “section 309(a)(1)”.
 
 1976—Par. (2). Pub. L. 94–283, §306(b)(1), inserted provision that “candidate” shall not include any individual who is not actively conducting campaigns in more than one State in connection with seeking nomination for election to be President of the United States.
 

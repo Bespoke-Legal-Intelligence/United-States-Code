@@ -22,7 +22,7 @@ No petition may be filed under this section challenging an order, ruling, determ
 
 #### (e) Standard of review
 
-The court shall decide a petition filed under this section based on its review on the merits of all questions presented under State and Federal law, including the nature of the product or activity and the history and purpose of its regulation under State and Federal law, without unequal deference.
+The court shall decide a petition filed under this section based on its review on the merits ofall questions presented under State and Federal law, including the nature of the product or activity and the history and purpose of its regulation under State and Federal law, without unequal deference.
 
 (Pub. L. 106–102, title III, §304, Nov. 12, 1999, 113 Stat. 1409.)
 

@@ -58,7 +58,7 @@
 
 (g)(1) If and to the extent that the head of a Federal agency, in his or her sole discretion, deems it appropriate, a passenger carrier may be used to transport an officer or employee of a Federal agency between the officer's or employee's place of employment and a mass transit facility (whether or not publicly owned) in accordance with succeeding provisions of this subsection.
 
-(2) Notwithstanding section 1343, a Federal agency that provides transportation services under this subsection (including by passengercarrier) may absorb the costs of such services using any funds available to such agency, whether by appropriation or otherwise.
+(2) Notwithstanding section 1343, a Federal agency that provides transportation services under this subsection (including by passenger carrier) may absorb the costs of such services using any funds available to such agency, whether by appropriation or otherwise.
 
 (3) In carrying out this subsection, a Federal agency, to the maximum extent practicable and consistent with sound budget policy, should—
 
@@ -196,7 +196,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2004 Amendment
 
@@ -220,7 +220,7 @@ Pub. L. 101–194, title V, §503, Nov. 30, 1989, 103 Stat. 1755, as amended by 
 
 #### Use of Official Vehicles of House of Representatives
 
-Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II, §219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: “The Committee on House Oversight \[now Committee on House Administration\] of the House of Representativesshall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives.”
+Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, as amended by Pub. L. 104–186, title II, §219(a), Aug. 20, 1996, 110 Stat. 1747, provided that: “The Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives shall take such action as may be necessary to carry out section 503 \[set out above\] with respect to vehicles of the House of Representatives.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

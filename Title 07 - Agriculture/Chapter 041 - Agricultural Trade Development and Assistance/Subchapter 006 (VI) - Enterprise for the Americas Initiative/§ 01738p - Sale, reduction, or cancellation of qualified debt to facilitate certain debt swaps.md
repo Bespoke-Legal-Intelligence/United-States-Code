@@ -38,7 +38,7 @@ In the aggregate, not more than 40 percent of the qualified debt of an eligible 
 
 #### (f) Administration
 
-The Facility shall notify the Commodity Credit Corporation of purchasers and payors the President has determined to be eligible under subsection (c) of this section, and shall direct the corporation to carry out the sale, reduction, or cancellation of a qualified debt pursuant to this section. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect such sale, reduction, or cancellation.
+The Facility shall notify the Commodity Credit Corporation of purchasers and payors the President has determined to be eligible undersubsection (c) of this section, and shall direct the corporation to carry out the sale, reduction, or cancellation of a qualified debt pursuant to this section. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect such sale, reduction, or cancellation.
 
 #### (g) Appropriations requirement
 

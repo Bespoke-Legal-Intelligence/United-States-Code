@@ -40,9 +40,9 @@ Limitation.—A civil action under this section may not be commenced later than 
 
 (g)
 
-Improper Disclosure.—Any willful disclosure of a “record”, as that term is defined in section 552a(a) of title 5, United States Code, obtained by an investigative or law enforcement officer, or a governmental entity, pursuant to section 2703 of this title, or from a device installed pursuant to section 3123 or 3125 of thistitle, that is not a disclosure made in the proper performance of the official functions of the officer or governmental entity making the disclosure, is a violation of this chapter. This provision shall not apply to information previously lawfully disclosed (prior to the commencement of any civil or administrative proceeding under this chapter) to the public by a Federal, State, or local governmental entity or by the plaintiff in a civil action under this chapter.
+Improper Disclosure.—Any willful disclosure of a “record”, as that term is defined in section 552a(a) of title 5, United States Code, obtained by an investigative or law enforcement officer, or a governmental entity, pursuant to section 2703 of this title, or from a device installed pursuant to section 3123 or 3125 of this title, that is not a disclosure made in the proper performance of the official functions of the officer or governmental entity making the disclosure, is a violation of this chapter. This provision shall not apply to information previously lawfully disclosed (prior to the commencement of any civil or administrative proceeding under this chapter) to the public by a Federal, State, or local governmental entity or by the plaintiff in a civil action under this chapter.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 104–293, title VI, §601(c), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title II, §§223(b), title VIII, §815, Oct. 26, 2001, 115 Stat. 293, 384; Pub. L. 107–273, div. B, title IV, §4005(f)(2), Nov. 2, 2002, 116 Stat. 1813.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 104–293, title VI, §601(c), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title II, §§223(b), title VIII, §815, Oct. 26,2001, 115 Stat. 293, 384; Pub. L. 107–273, div. B, title IV, §4005(f)(2), Nov. 2, 2002, 116 Stat. 1813.)
 
 #### Amendments
 

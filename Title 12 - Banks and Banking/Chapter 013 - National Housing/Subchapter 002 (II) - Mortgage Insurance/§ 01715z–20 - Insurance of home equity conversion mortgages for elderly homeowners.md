@@ -164,7 +164,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 #### (1) In general
 
-&emsp;The Secretary may, upon application by a mortgagee, insure under this subsection any mortgage given to refinance an existing home equity conversion mortgage insured under this section.
+&emsp;The Secretary may, upon application by a mortgagee, insure under this subsection any mortgage given to refinance an existing homeequity conversion mortgage insured under this section.
 
 #### (2) Anti-churning disclosure
 
@@ -228,7 +228,7 @@ Of any amounts made available for any of fiscal years 2000 through 2003 for hous
 
 &emsp;For transfer to the departmental salaries and expenses account for consumer education and outreach activities.
 
-(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300; Pub. L. 109–289, div. B, §131, Sept. 29, 2006, 120 Stat. 1316.)
+(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300; Pub. L. 109–289, div. B, §131, Sept. 29, 2006, 120 Stat. 1316.)
 
 #### Amendments
 
@@ -306,7 +306,7 @@ Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 
 
 #### Regulations
 
-Pub. L. 106–569, title II, §201(a)(2), Dec. 27, 2000, 114 Stat. 2949, provided that: “The Secretary shall issue any final regulations necessary to implement the amendments made by paragraph (1) of this subsection \[amending this section\], which shall take effect not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 27, 2000\]. The regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+Pub. L. 106–569, title II, §201(a)(2), Dec. 27, 2000, 114 Stat. 2949, provided that: “The Secretary shall issue any final regulations necessary to implement the amendments made by paragraph (1) of this subsection\[amending this section\], which shall take effect not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 27, 2000\]. The regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
 Section 417(b) of Pub. L. 100–242 directed Secretary of Housing and Urban Development, not later than 6 months after Feb. 5, 1988, to consult with lenders, insurers, and organizations and individuals with expertise in home equity conversion in developing proposed regulations implementing this section and not later than 9 months after Feb. 5, 1988, to issue proposed regulations implementing this section.
 
@@ -316,7 +316,7 @@ Pub. L. 105–276, title V, §593(e)(2), Oct. 21, 1998, 112 Stat. 2655, provided
 
 “(A)
 
-Notice.—The Secretary of Housing and Urban Development shall, by interim notice, implement theamendments made by paragraph (1) \[amending this section\] in an expeditious manner, as determined by the Secretary. Such notice shall not be effective after the date of the effectiveness of the final regulations issued under subparagraph (B) of this paragraph.
+Notice.—The Secretary of Housing and Urban Development shall, by interim notice, implement the amendments made by paragraph (1) \[amending this section\] in an expeditious manner, as determined by the Secretary. Such notice shall not be effective after the date of the effectiveness of the final regulations issued under subparagraph (B) of this paragraph.
 
 “(B)
 

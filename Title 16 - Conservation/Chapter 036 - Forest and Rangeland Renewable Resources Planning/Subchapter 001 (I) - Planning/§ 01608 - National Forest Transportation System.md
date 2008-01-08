@@ -40,7 +40,7 @@ Pub. L. 105–174, title III, §3006, May 1, 1998, 112 Stat. 85, provided that:
 
 “(b)(1) For any previously scheduled sales that are not offered pursuant to subsection (a)(2), the Chief may, to the extent practicable, offer substitute sales within the same State in fiscal year 1998 or fiscal year 1999. Such substitute sales shall be subject to the requirements of subsection (a)(3).
 
-“(2)(A) The Chief shall pay as soon as practicable after fiscal year 1998 and fiscal year 1999 to any Statein which sales previously scheduled to be offered that are referred to in, but not offered pursuant to, subsection (a)(2) would have occurred, 25 percent of any anticipated receipts from such sales that—
+“(2)(A) The Chief shall pay as soon as practicable after fiscal year 1998 and fiscal year 1999 to any State in which sales previously scheduled to be offered that are referred to in, but not offered pursuant to, subsection (a)(2) would have occurred, 25 percent of any anticipated receipts from such sales that—
 
 &emsp;“(i) were scheduled from fiscal year 1998 or fiscal year 1999 sales in the absence of any moratorium referred to in subsection (a)(2); and
 

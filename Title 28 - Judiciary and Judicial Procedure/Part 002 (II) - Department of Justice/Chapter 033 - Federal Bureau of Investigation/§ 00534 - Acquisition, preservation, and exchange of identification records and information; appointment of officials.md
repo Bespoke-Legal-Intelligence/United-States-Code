@@ -38,7 +38,7 @@ Indian Law Enforcement Agencies.—The Attorney General shall permit Indian law 
 
 &emsp;(B) the term “protection order” includes—
 
-&emsp;&emsp;(i) any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against, sexual violence or contact or communication with or physical proximity to, another person, including any temporary or final orders issued by civil or criminal courts whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
+&emsp;&emsp;(i) any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against,sexual violence or contact or communication with or physical proximity to, another person, including any temporary or final orders issued by civil or criminal courts whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
 
 &emsp;&emsp;(ii) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
 
@@ -268,7 +268,7 @@ Use of information.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—Upon receipt of the criminal history record information from the Attorney General by the State identification bureau, theinformation shall be used only as provided in clause (ii).
+In general.—Upon receipt of the criminal history record information from the Attorney General by the State identification bureau, the information shall be used only as provided in clause (ii).
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -354,7 +354,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat.
 
 “(i) In this section:
 
-&emsp;“(1) The term ‘home health care agency’ means an agency that provides home health care or personalcare services on a visiting basis in a place of residence.
+&emsp;“(1) The term ‘home health care agency’ means an agency that provides home health care or personal care services on a visiting basis in a place of residence.
 
 &emsp;“(2) The term ‘nursing facility’ means a facility or institution (or a distinct part of an institution) that is primarily engaged in providing to residents of the facility or institution nursing care, including skilled nursing care, and related services for individuals who require medical or nursing care.
 
@@ -460,7 +460,7 @@ In general.—The Attorney General shall acquire, collect, classify, and preserv
 
 &emsp;“(2)
 
-Reporting by federal agencies.—All departments and agencies within the Federal government (including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
+Reporting by federal agencies.—All departments and agencies within the Federal government\(including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
 
 &emsp;“(3)
 

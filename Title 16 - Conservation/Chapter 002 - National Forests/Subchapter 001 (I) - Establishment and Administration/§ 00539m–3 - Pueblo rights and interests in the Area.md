@@ -24,7 +24,7 @@ The Pueblo shall have the following rights and interests in the Area:
 
 &emsp;(4) Exclusive authority, in accordance with the customs and laws of the Pueblo, to administer access to the Area for traditional or cultural uses by members of the Pueblo and of other federally-recognized Indian tribes.
 
-&emsp;(5) Such other rights and interests as are recognized in subsection (c) of this section and sections 539m–2, 539m–5, 539m–6, and 539m–7 of this title.
+&emsp;(5) Such other rights and interests as are recognized in subsection (c) of this section andsections 539m–2, 539m–5, 539m–6, and 539m–7 of this title.
 
 #### (b) Access
 
@@ -50,7 +50,7 @@ Except as provided in subsection (a)(4), access to and use of the Area for all o
 
 The Wilderness Act, referred to in subsec. (a)(1)(A), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
-Sections 539m to 539m–12 of this title, referred to in subsec. (a)(2), was in the original “this title”, meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat.279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
+Sections 539m to 539m–12 of this title, referred to in subsec. (a)(2), was in the original “this title”, meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(1)”.</i>
 

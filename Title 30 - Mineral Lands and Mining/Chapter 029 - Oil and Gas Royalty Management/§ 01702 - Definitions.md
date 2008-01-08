@@ -142,7 +142,7 @@ Section 29(f)(2) of Pub. L. 92–203, as added by Pub. L. 100–241, §15, Feb. 
 
 #### Applicability of 1996 Amendment
 
-Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indianlands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

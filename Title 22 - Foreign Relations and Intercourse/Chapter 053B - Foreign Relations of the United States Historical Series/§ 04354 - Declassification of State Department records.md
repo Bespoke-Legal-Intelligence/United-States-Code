@@ -58,7 +58,11 @@ The Advisory Committee shall annually submit to the Secretary of State and to th
 
 Subsec. (e). Pub. L. 107–228, §205(b), substituted “Annual reports by the Secretary” for “Report to Congress” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than 180 days after October 28, 1991, the Secretary of State shall prepare and submit a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on factors relevant to compliance with this section, and the procedures to be used for implementing the requirements of this section.”
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Compliance With Declassification of State Department Records; Notification to Congressional Committees on Inability To Comply; Final Deadline
 
-Section 198(c)(1) of Pub. L. 102–138 provided that: “The Secretary of State shall ensure that the requirements of section 404 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 4354\] (as amended by this section) are met not later than one year after the date of enactment of this Act \[Oct. 28, 1991\]. If the Secretarycannot reasonably meet the requirements of such section, he shall so notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and describe how the Department of State intends to meet the requirements of that section. In no event shall full compliance with the requirements of such section take place later than 2 years after the date of enactment of this Act.”
+Section 198(c)(1) of Pub. L. 102–138 provided that: “The Secretary of State shall ensure that the requirements of section 404 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 4354\] (as amended by this section) are met not later than one year after the date of enactment of this Act \[Oct. 28, 1991\]. If the Secretary cannot reasonably meet the requirements of such section, he shall so notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and describe how the Department of State intends to meet the requirements of that section. In no event shall full compliance with the requirements of such section take place later than 2 years after the date of enactment of this Act.”
 

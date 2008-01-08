@@ -2,7 +2,7 @@
 
 (a) Whoever knowingly deprives or attempts to deprive any person of a right under the Uniformed and Overseas Citizens Absentee Voting Act shall be fined in accordance with this title or imprisoned not more than five years, or both.
 
-(b) Whoever knowingly gives false information for the purpose of establishing the eligibility of any person to register or vote under the Uniformed and Overseas Citizens Absentee Voting Act, or pays or offers to pay, or accepts payment for registering or voting under such Act shall be fined in accordance with this title or imprisoned not more than five years, or both.
+(b) Whoever knowingly gives false information for the purpose of establishing the eligibility of any person to register or vote under the Uniformed and Overseas Citizens Absentee Voting Act, or pays or offers to pay, or accepts paymentfor registering or voting under such Act shall be fined in accordance with this title or imprisoned not more than five years, or both.
 
 (Added Pub. L. 99–410, title II, §202(a), Aug. 28, 1986, 100 Stat. 929.)
 
@@ -16,5 +16,5 @@ A prior section 608, acts June 25, 1948, ch. 645, 62 Stat. 723; Feb. 7, 1972, Pu
 
 #### Effective Date
 
-Section applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L.99–410, set out as a note under section 1973ff of Title 42, The Public Health and Welfare.
+Section applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as a note under section 1973ff of Title 42, The Public Health and Welfare.
 

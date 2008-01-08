@@ -8,7 +8,7 @@
 
 #### (2) Adjustment of vested benefits charge
 
-&emsp;In determining the minimum contribution requirement with respect to a plan for a plan year under section 418B(b), the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under this section or section 412(c)(8), but only if the amendment is adopted and effective no later than 21/2 months after the end of the plan year, or within such extended period as the Secretary may prescribe by regulations under section 412(c)(10).
+&emsp;In determining the minimum contribution requirement with respect to a plan for a plan year under section 418B(b), the vested benefits charge may be adjusted to reflect a plan amendment reducing benefits under this section or section 412(c)(8),<sup>1</sup> but only if the amendment is adopted and effective no later than 21/2 months after the end of the plan year, or within such extended period as the Secretary may prescribe by regulations under section 412(c)(10).<sup>1</sup>
 
 #### (b) Limitation on reduction
 
@@ -94,5 +94,9 @@ The Secretary may prescribe rules under which, notwithstanding any other provisi
 
 Section 4022A(b) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(1), is classified to section 1322a(b) of Title 29, Labor.
 
+Section 412, referred to in subsec. (a)(2), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, no longer contains a subsec. (c)(8) or (10).
+
 Section 4212(a) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(1)(A)(ii), is classified to section 1392(a) of Title 29.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

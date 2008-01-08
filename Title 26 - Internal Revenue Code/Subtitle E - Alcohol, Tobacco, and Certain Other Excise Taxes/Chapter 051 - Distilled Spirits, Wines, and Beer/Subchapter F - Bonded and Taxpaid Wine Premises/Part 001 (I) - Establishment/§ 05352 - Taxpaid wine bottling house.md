@@ -1,8 +1,8 @@
 ### §5352. Taxpaid wine bottling house
 
-Any person bottling, packaging, or repackaging taxpaid wines shall, before commencing such operations, make application to the Secretaryand receive permission to operate. Such premises shall be known as “tax-paid wine bottling houses.”
+Any person bottling, packaging, or repackaging taxpaid wines shall, before commencing such operations, make application to the Secretary and receive permission to operate. Such premises shall be known as “tax-paid wine bottling houses.”
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1378; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(42), July 26, 1979, 93 Stat. 287.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1378; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L.96–39, title VIII, §807(a)(42), July 26, 1979, 93 Stat. 287.)
 
 #### Prior Provisions
 

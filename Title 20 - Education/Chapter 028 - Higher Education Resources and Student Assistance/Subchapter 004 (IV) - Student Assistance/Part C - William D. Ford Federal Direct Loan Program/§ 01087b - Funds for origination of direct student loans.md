@@ -14,9 +14,9 @@ No institution of higher education shall have a right to participate in the prog
 
 #### (c) Delivery of loan funds
 
-Loan funds shall be paid and delivered to an institution by the Secretary prior to the beginning of the payment period established by the Secretary in a manner that is consistent withpayment and delivery of Federal Pell Grants under subpart 1 of part A of this subchapter.
+Loan funds shall be paid and delivered to an institution by the Secretary prior to the beginning of the payment period established by the Secretary in a manner that is consistent with payment and delivery of Federal Pell Grants under subpart 1 of part A of this subchapter.
 
-(Pub. L. 89–329, title IV, §452, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 105–33, title VI, §6102, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–244, title IV, §401(g)(5), Oct. 7, 1998, 112 Stat. 1652.)
+(Pub. L. 89–329, title IV, §452, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 105–33, title VI, §6102, Aug. 5, 1997, 111 Stat. 652; Pub. L.105–244, title IV, §401(g)(5), Oct. 7, 1998, 112 Stat. 1652.)
 
 #### Prior Provisions
 

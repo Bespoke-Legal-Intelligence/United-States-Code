@@ -21,6 +21,7 @@
 | 701b–11. | Flood protection projects. |
 | 701b–12. | Floodplain management requirements. |
 | 701b–13. | Construction of flood control projects by non-Federal interests. |
+| 701b–14. | Structural integrity evaluations. |
 | [701c.](%C2%A7%2000701c%20-%20Rights-of-way%2C%20easements%2C%20etc.%3B%20acquisition%20by%20local%20authorities%3B%20maintenance%20and%20operation%3B%20protection%20of%20United%20States%20from%20liability%E2%80%A6.md) | Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability for damages; requisites to run-off and water-flow retardation and soil erosion prevention assistance. |
 | 701c–1. | Acquirement of titles for certain projects and to lands, easements, rights-of-way; reimbursement of local agencies. |
 | 701c–2. | Acquisition and sale of land. |
@@ -120,6 +121,7 @@
 - [&sect; 00701b&#8211;11 - Flood protection projects](%C2%A7%2000701b%E2%80%9311%20-%20Flood%20protection%20projects.md)
 - [&sect; 00701b&#8211;12 - Floodplain management requirements](%C2%A7%2000701b%E2%80%9312%20-%20Floodplain%20management%20requirements.md)
 - [&sect; 00701b&#8211;13 - Construction of flood control projects by non-Federal interests](%C2%A7%2000701b%E2%80%9313%20-%20Construction%20of%20flood%20control%20projects%20by%20non-Federal%20interests.md)
+- [&sect; 00701b&#8211;14 - Structural integrity evaluations](%C2%A7%2000701b%E2%80%9314%20-%20Structural%20integrity%20evaluations.md)
 - [&sect; 00701c - Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability&#8230;](%C2%A7%2000701c%20-%20Rights-of-way%2C%20easements%2C%20etc.%3B%20acquisition%20by%20local%20authorities%3B%20maintenance%20and%20operation%3B%20protection%20of%20United%20States%20from%20liability%E2%80%A6.md)
 - [&sect; 00701c&#8211;1 - Acquirement of titles for certain projects and to lands, easements, rights-of-way; reimbursement of local agencies](%C2%A7%2000701c%E2%80%931%20-%20Acquirement%20of%20titles%20for%20certain%20projects%20and%20to%20lands%2C%20easements%2C%20rights-of-way%3B%20reimbursement%20of%20local%20agencies.md)
 - [&sect; 00701c&#8211;2 - Acquisition and sale of land](%C2%A7%2000701c%E2%80%932%20-%20Acquisition%20and%20sale%20of%20land.md)

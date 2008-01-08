@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall request the Institute of Medicine to enter into an agreement with theSecretary under which such Institute conducts a study to provide the following:
+&emsp;The Secretary shall request the Institute of Medicine to enter into an agreement with the Secretary under which such Institute conducts a study to provide the following:
 
 &emsp;&emsp;(A) For the most recent fiscal year for which the information is available, a determination of the number of newborn infants with HIV born in the United States with respect to whom the attending obstetrician for the birth did not know the HIV status of the mother.
 

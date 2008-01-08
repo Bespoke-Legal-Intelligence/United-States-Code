@@ -12,7 +12,7 @@ It is the purpose of this part to supplement State and local resources to—
 
 #### Clubs for Boys and Girls Interested in Science; Authorization of Appropriations; Purposes; Personnel and Facilities
 
-Pub. L. 85–875, Sept. 2, 1958, 72 Stat. 1700, provided: “That in order to strengthen future scientific accomplishment in our Nation by assisting in the development of a body of boys and girls with a special interest in science, there is hereby authorized to be appropriated for the fiscal year ending June 30, 1959, and for each fiscal year thereafter, such sums, not in excess of $50,000, as may be necessary to enable the Commissioner of Education \[now Secretary of Education\] to encourage, foster, and assist in the establishment in localities throughout the Nation of clubs which are composed of boys and girls who have an especial interest in science.
+Pub. L. 85–875, Sept. 2, 1958, 72 Stat. 1700, provided: “That in order to strengthen future scientific accomplishment in our Nation by assisting in the development of a body of boys and girls with a special interestin science, there is hereby authorized to be appropriated for the fiscal year ending June 30, 1959, and for each fiscal year thereafter, such sums, not in excess of $50,000, as may be necessary to enable the Commissioner of Education \[now Secretary of Education\] to encourage, foster, and assist in the establishment in localities throughout the Nation of clubs which are composed of boys and girls who have an especial interest in science.
 
 “
 

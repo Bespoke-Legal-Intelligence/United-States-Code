@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) perform tests of controls unless the controls are deemed to be ineffective; and
 
-&emsp;(4) determine whether the non-Federal entity has complied with the provisions of laws,regulations, and contracts or grants pertaining to Federal awards that have a direct and material effect on each major program.
+&emsp;(4) determine whether the non-Federal entity has complied with the provisions of laws, regulations, and contracts or grants pertaining to Federal awards that have a direct and material effect on each major program.
 
 (f)(1) Each Federal agency which provides Federal awards to a recipient shall—
 
@@ -86,7 +86,7 @@ The effective date of the Single Audit Act Amendments of 1996, referred to in su
 
 #### Amendments
 
-1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to audit requirements and exemptions from such requirements for State and local governments receiving Federal financial assistance of $100,000 or more in any fiscal year and requiring audits to be conducted annually in most instances, to cover entirety of government operations, for reports to be made on audits in specified time period, and for appropriate corrective action plans to be submitted to Federal officials for any material State or local noncompliance with Federal laws and regulations.
+1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to audit requirements and exemptions from such requirements for State and local governments receiving Federal financial assistance of $100,000 or more in any fiscal year and requiring audits to be conducted annually in most instances, to cover entirety of government operations, for reports to be made on audits in specified time period, and for appropriate corrective action plansto be submitted to Federal officials for any material State or local noncompliance with Federal laws and regulations.
 
 1994—Subsec. (b)(2). Pub. L. 103–272, §4(f)(1)(W), substituted “October 19, 1984” for “the date of enactment of this chapter” in subpar. (A) and for “such date” in subpar. (B).
 
@@ -98,5 +98,5 @@ Subsec. (g). Pub. L. 103–272, §4(f)(1)(W)(iv), substituted “section 3512(c)
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

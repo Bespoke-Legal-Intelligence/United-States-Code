@@ -30,9 +30,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Effective and Termination Dates
 
-Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
+Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease tohave effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
 #### Proc. No. 7987. To Implement the Dominican Republic-Central America-United States Free Trade Agreement
 
-Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10827, provided in par. (8) that the United States Trade Representative is authorized to exercise the President's authority under this section to obtain advice from the appropriate advisory committees and the United States International Trade Commission on the proposed implementation of an action by presidential proclamation; to submit a report on such proposed action to the appropriate congressional committees; and to consult with those congressional committees regarding the proposed action.
+Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10829, provided in par. (8) that the United States Trade Representative is authorized to exercise the President's authority under this section to obtain advice from the appropriate advisory committees and the United States International Trade Commission on the proposed implementation of an action by presidential proclamation; to submit a report on such proposed action to the appropriate congressional committees; and to consult with those congressional committees regarding the proposed action.
 

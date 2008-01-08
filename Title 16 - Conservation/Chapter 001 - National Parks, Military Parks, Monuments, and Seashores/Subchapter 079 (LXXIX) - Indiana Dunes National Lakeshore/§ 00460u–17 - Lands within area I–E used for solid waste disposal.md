@@ -8,5 +8,5 @@ The Secretary may not acquire such lands within the western section of area I–
 
 With respect to the property identified as area I–E on map numbered 626–91007, the Secretary may enter into a cooperative agreement whereby the State of Indiana or any political subdivision thereof may undertake to develop, manage, and interpret such area in a manner consistent with the purposes of this subchapter.
 
-(Pub. L. 89–761, §17, formerly §18; as added and renumbered Pub. L. 94–549, §1(8), (9), Oct. 18, 1976, 90 Stat. 2531, 2533.)
+(Pub. L. 89–761, §17, formerly §18, as added and renumbered Pub. L. 94–549, §1(8), (9), Oct. 18, 1976, 90 Stat. 2531, 2533.)
 

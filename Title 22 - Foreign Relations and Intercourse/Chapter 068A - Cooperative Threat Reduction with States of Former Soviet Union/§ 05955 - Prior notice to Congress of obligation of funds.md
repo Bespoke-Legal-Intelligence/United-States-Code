@@ -72,7 +72,7 @@ Annual Requirement.—(1) Not less than 15 days before any obligation of any fun
 
 &emsp;“(A) The Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.
 
-&emsp;“(B) The Committee on Armed Services, the Committee on International Relations, and the Committee on Appropriations of the House of Representatives.
+&emsp;“(B) The Committee on Armed Services, the Committee on International Relations \[now Committee on Foreign Affairs\], and the Committee on Appropriations of the House of Representatives.
 
 “(b)
 
@@ -82,7 +82,7 @@ Matters To Be Specified in Reports.—Each such report shall specify—
 
 &emsp;“(2) the amount of the proposed obligation; and
 
-&emsp;“(3) the projected involvement (if any) of any department or agency of the United States (in addition to the Department of Defense) and of the private sector of the United States in the activities and forms of assistance for which the Secretary of Defense plans to obligate such funds.
+&emsp;“(3) the projected involvement (if any) of any department or agency of the United States (in additionto the Department of Defense) and of the private sector of the United States in the activities and forms of assistance for which the Secretary of Defense plans to obligate such funds.
 
 #### “\[SEC. 1206. Repealed. Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1308(g)(1)(C)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–343.\]”
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-During fiscal years 1996 through 2002, the Secretary of Agriculture (referred to in this section as the “Secretary”) may enter into a contract with a producer on a farm who has contract acreage under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] that is frequently flooded.
+During fiscal years 1996 through 2002, the Secretary of Agriculture (referred to in this sectionas the “Secretary”) may enter into a contract with a producer on a farm who has contract acreage under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] that is frequently flooded.
 
 #### (b) Duties of producers
 
@@ -20,7 +20,7 @@ Under the terms of the contract, with respect to acres that are subject to the c
 
 &emsp;(6) not apply for disaster program benefits provided by the Secretary; and
 
-&emsp;(7) refund the payments, with interest, issued under the flood risk reduction contractto the Secretary, if the producer violates the terms of the contract or if the producer transfers the property to another person who violates the contract.
+&emsp;(7) refund the payments, with interest, issued under the flood risk reduction contract to the Secretary, if the producer violates the terms of the contract or if the producer transfers the property to another person who violates the contract.
 
 #### (c) Duties of Secretary
 

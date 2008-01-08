@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 99–514, §122(a)(1)(D), added subsec. (c).
 
 Amendment by section 122(a)(1) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Amendment by section 123(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in the case of scholarships and fellowshipsgranted after Aug. 16, 1986, see section 151(d) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 123(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in the case of scholarships and fellowships granted after Aug. 16, 1986, see section 151(d) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 

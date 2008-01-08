@@ -2,7 +2,7 @@
 
 #### (a) Comprehensive health promotion, disease prevention, and primary health services
 
-(1)(A) The Secretary, in consultation with Papa Ola Lokahi, may make grants to, or enter into contracts with, any qualified entity for the purpose of providing comprehensive health promotion and disease prevention services as well as primary health services to Native Hawaiians.
+(1)(A) The Secretary, in consultation with Papa Ola Lokahi, may make grants to, or enterinto contracts with, any qualified entity for the purpose of providing comprehensive health promotion and disease prevention services as well as primary health services to Native Hawaiians.
 
 (B) In making grants and entering into contracts under this paragraph, the Secretary shall give preference to Native Hawaiian health care systems and Native Hawaiian organizations and, to the extent feasible, health promotion and disease prevention services shall be performed through Native Hawaiian health care systems.
 
@@ -50,7 +50,7 @@ During a fiscal year, the Secretary under this chapter may make a grant to, or h
 
 &emsp;(A) in an amount exceeding 83.3 percent of the costs of providing health services under the grant or contract; and
 
-&emsp;(B) unless the Native Hawaiian health care system agrees that the Native Hawaiian health care system or the State of Hawaii will make available, directly or through donationsto the Native Hawaiian health care system, non-Federal contributions toward such costs in an amount equal to not less than $1 (in cash or in kind under paragraph (2)) for each $5 of Federal funds provided in such grant or contract.
+&emsp;(B) unless the Native Hawaiian health care system agrees that the Native Hawaiian health care system or the State of Hawaii will make available, directly or through donations to the Native Hawaiian health care system, non-Federal contributions toward such costs in an amount equal to not less than $1 (in cash or in kind under paragraph (2)) for each $5 of Federal funds provided in such grant or contract.
 
 (2) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government or services assisted or subsidized to any significant extent by the Federal Government may not be included in determining the amount of such non-Federal contributions.
 

@@ -204,7 +204,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (6) Publication of Treasury bill rate
 
-&emsp;For the purpose of enabling holders of loans to make the determinations and adjustments provided for in this subsection, the Secretary shall for each calendar quarter commencing with the quarter beginning on July 1, 1987, publish a notice of the average of the bond equivalent rates of 91-day Treasury bills auctioned for such quarter. Such notice shall be published not later than 7 days after the end of the quarter to which the notice relates.
+&emsp;For the purpose of enabling holders of loans to make the determinations and adjustments provided for in this subsection, the Secretary shall for each calendar quarter commencing with the quarter beginning on July 1, 1987,publish a notice of the average of the bond equivalent rates of 91-day Treasury bills auctioned for such quarter. Such notice shall be published not later than 7 days after the end of the quarter to which the notice relates.
 
 #### (7) Conversion to variable rate
 
@@ -258,7 +258,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (h) of this section and subject to paragraph (2) of this subsection, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsection (h) of this section and subject to paragraph (2) of this subsection, with respect to any loan made, insured, or guaranteed under this part (otherthan a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -314,6 +314,20 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 &emsp;&emsp;(B) 8.25 percent.
 
+#### (4) Reduced rates for undergraduate subsidized loans
+
+&emsp;Notwithstanding subsection (h) and paragraph (1) of this subsection, with respect to any loan to an undergraduate student made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2, 1078–3, or 1078–8 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2012, the applicable rate of interest shall be as follows:
+
+&emsp;&emsp;(A) For a loan for which the first disbursement is made on or after July 1, 2006, and before July 1, 2008, 6.8 percent on the unpaid principal balance of the loan.
+
+&emsp;&emsp;(B) For a loan for which the first disbursement is made on or after July 1, 2008, and before July 1, 2009, 6.0 percent on the unpaid principal balance of the loan.
+
+&emsp;&emsp;(C) For a loan for which the first disbursement is made on or after July 1, 2009, and before July 1, 2010, 5.6 percent on the unpaid principal balance of the loan.
+
+&emsp;&emsp;(D) For a loan for which the first disbursement is made on or after July 1, 2010, and before July 1, 2011, 4.5 percent on the unpaid principal balance of the loan.
+
+&emsp;&emsp;(E) For a loan for which the first disbursement is made on or after July 1, 2011, and before July 1, 2012, 3.4 percent on the unpaid principal balance of the loan.
+
 #### (m) Lesser rates permitted
 
 Nothing in this section or section 1078–3 of this title shall be construed to prohibit a lender from charging a borrower interest at a rate less than the rate which is applicable under this part.
@@ -322,11 +336,11 @@ Nothing in this section or section 1078–3 of this title shall be construed to 
 
 For the purpose of subsections (a) and (d) of this section—
 
-&emsp;(1) the term “period of instruction” shall, at the discretion of the lender, be any academic year, semester, trimester, quarter, or other academic period; or shall be the period for which the loan is made as determined by the institution of higher education; and
+&emsp;(1) the term “period of instruction” shall, at the discretion of the lender, be any academic year, semester, trimester, quarter, or otheracademic period; or shall be the period for which the loan is made as determined by the institution of higher education; and
 
 &emsp;(2) the term “period of enrollment” shall be the period for which the loan is made as determined by the institution of higher education and shall coincide with academic terms such as academic year, semester, trimester, quarter, or other academic period as defined by such institution.
 
-(Pub. L. 89–329, title IV, §427A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1364; amended Pub. L. 100–50, §10(d)(1), June 3, 1987, 101 Stat. 342; Pub. L. 102–325, title IV, §415, July 23, 1992, 106 Stat. 514; Pub. L. 103–66, title IV, §4101, Aug. 10, 1993, 107 Stat. 364; Pub. L. 103–208, §2(c)(5)–(10), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 105–178, title VIII, §8301(a)(1), June 9, 1998, 112 Stat. 496; Pub. L. 105–244, title IV, §416(a)(1), Oct. 7, 1998, 112 Stat. 1679; Pub. L. 106–554, §1(a)(1) \[title III, §318(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(a)(1), (c), Feb. 8, 2002, 116 Stat. 8, 9; Pub. L. 109–171, title VIII, §8006(a), Feb. 8, 2006, 120 Stat. 159.)
+(Pub. L. 89–329, title IV, §427A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1364; amended Pub. L. 100–50, §10(d)(1), June 3, 1987, 101 Stat. 342; Pub. L. 102–325, title IV, §415, July 23, 1992, 106 Stat. 514; Pub. L. 103–66, title IV, §4101, Aug. 10, 1993, 107 Stat. 364; Pub. L. 103–208, §2(c)(5)–(10), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 105–178, title VIII, §8301(a)(1), June 9, 1998, 112 Stat. 496; Pub. L. 105–244, title IV, §416(a)(1), Oct. 7, 1998, 112 Stat. 1679; Pub. L. 106–554, §1(a)(1) \[title III, §318(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(a)(1), (c), Feb. 8, 2002, 116 Stat. 8, 9; Pub. L. 109–171, title VIII, §8006(a), Feb. 8, 2006, 120 Stat. 159; Pub. L. 110–84, title II, §201(a)(1), Sept. 27, 2007, 121 Stat. 790.)
 
 #### References in Text
 
@@ -341,6 +355,8 @@ Amendments by section 2(c)(6)–(10) of Pub. L. 103–208 (which were effective 
 A prior section 1077a, Pub. L. 89–329, title IV, §427A, as added Pub. L. 96–374, title IV, §415(a)(1), Oct. 3, 1980, 94 Stat. 1419; amended Pub. L. 97–35, title V, §534(a)(1), Aug. 13, 1981, 95 Stat. 454; Pub. L. 98–79, §5(a), (b)(1), Aug. 15, 1983, 97 Stat. 481, 482, prescribed applicable interest rates on loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2007—Subsec. (<i>l</i>)(4). Pub. L. 110–84 added par. (4).
 
 2006—Subsec. (<i>l</i>)(2). Pub. L. 109–171 substituted “8.5 percent” for “7.9 percent”.
 
@@ -400,9 +416,13 @@ Subsecs. (f) to (h). Pub. L. 102–325, §415(c)(1), redesignated subsecs. (e) t
 
 Subsec. (c)(4)(B). Pub. L. 100–50, §10(d)(1)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “For any calendar year, the rate determined under this subparagraph is determined on December 15 preceding such calendar year and is equal to—
 
-&emsp;“(i) the average of the bond equivalent rates of 91-day Treasury bills auctioned during the 12 months ending on November 30 preceding such calendar year; plus
+&emsp;“(i) the average of the bond equivalent rates of 91-day Treasury bills auctioned during the 12 monthsending on November 30 preceding such calendar year; plus
 
 &emsp;“(ii) 3.75 percent.”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as a note under section 1070a of this title.
 
 #### Effective Date of 2006 Amendment
 

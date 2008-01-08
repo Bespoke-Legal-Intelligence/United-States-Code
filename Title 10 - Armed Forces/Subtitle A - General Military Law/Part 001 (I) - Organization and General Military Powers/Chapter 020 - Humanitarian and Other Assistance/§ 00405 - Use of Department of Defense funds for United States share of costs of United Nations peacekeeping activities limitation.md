@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition on Use of Funds.—Funds available to the Department of Defense may not be used to make a financial contribution (directly or through another department or agency of the United States) to the United Nations—
+Prohibition on Use of Funds.—Funds available to the Department of Defense may notbe used to make a financial contribution (directly or through another department or agency of the United States) to the United Nations—
 
 &emsp;(1) for the costs of a United Nations peacekeeping activity; or
 

@@ -22,7 +22,7 @@ Integration Council.—(1) The Under Secretary of Defense for Intelligence shall
 
 Integration Roadmap.—(1) The Under Secretary of Defense for Intelligence shall develop a comprehensive plan, to be known as the “Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap”, to guide the development and integration of the Department of Defense intelligence, surveillance, and reconnaissance capabilities for the 15-year period of fiscal years 2004 through 2018.
 
-(2) The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation withthe Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of Central Intelligence.
+(2) The Under Secretary shall develop the Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap in consultation with the Intelligence, Surveillance, and Reconnaissance Integration Council and the Director of Central Intelligence.
 
 (Added Pub. L. 108–136, div. A, title IX, §923(c)(1), Nov. 24, 2003, 117 Stat. 1575; amended Pub. L. 109–364, div. A, title X, §1071(a)(3), Oct. 17, 2006, 120 Stat. 2398.)
 

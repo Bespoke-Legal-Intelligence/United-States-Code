@@ -14,7 +14,7 @@ Based on title 28, U.S.C., 1940 ed., §§9, 595, 596 (R.S. §715; Mar. 3, 1905, 
 
 Section consolidates parts of sections 9, 595, and 596 of title 28, U.S.C., 1940 ed. The other provisions of such sections appear in section 604 of this title.
 
-Compensation of criers and other court attendants, except bailiffs under section 604 of this title, will befixed by the Director of the Administrative Office of the United States Courts.
+Compensation of criers and other court attendants, except bailiffs under section 604 of this title, will be fixed by the Director of the Administrative Office of the United States Courts.
 
 #### Amendments
 

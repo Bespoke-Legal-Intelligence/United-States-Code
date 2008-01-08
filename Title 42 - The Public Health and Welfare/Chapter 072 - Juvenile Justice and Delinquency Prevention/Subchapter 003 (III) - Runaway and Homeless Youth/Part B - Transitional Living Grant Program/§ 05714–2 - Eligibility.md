@@ -26,7 +26,7 @@ To be eligible for assistance under this part, an applicant shall propose to est
 
 &emsp;(11) to submit to the Secretary an annual budget that estimates the itemized costs to be incurred in the year for which the applicant requests a grant under this part;
 
-&emsp;(12) to keep adequate statistical records profiling homeless youth which it serves and not to disclose the identity of individual homeless youth in reports or other documents based on such statistical records;
+&emsp;(12) to keep adequate statistical records profiling homeless youth which it serves and notto disclose the identity of individual homeless youth in reports or other documents based on such statistical records;
 
 &emsp;(13) not to disclose records maintained on individual homeless youth without the informed consent of the individual youth to anyone other than an agency compiling statistical records;
 

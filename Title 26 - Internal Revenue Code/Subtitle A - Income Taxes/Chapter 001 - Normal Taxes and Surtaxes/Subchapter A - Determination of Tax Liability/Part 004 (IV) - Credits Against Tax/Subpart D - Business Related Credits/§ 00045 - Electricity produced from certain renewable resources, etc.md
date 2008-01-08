@@ -46,7 +46,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 &emsp;&emsp;(B) the denominator of which is the aggregate amount of additions to the capital account for the project for the taxable year and all prior taxable years.
 
-> &emsp;The amounts under the preceding sentence for any taxable year shall be determined as of the close of the taxable year. This paragraph shall not apply with respect to any facility described in subsection (d)(2)(A)(ii).
+> &emsp;The amounts under the preceding sentence for any taxable year shall be determined as of theclose of the taxable year. This paragraph shall not apply with respect to any facility described in subsection (d)(2)(A)(ii).
 
 #### (4) Credit rate and period for electricity produced and sold from certain facilities
 
@@ -58,7 +58,7 @@ For purposes of section 38, the renewable electricity production credit for any 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii) or clause (iii), in the case of any facility described in paragraph (3), (4), (5), (6), or (7) of subsection (d), the 5-year period beginning on the date the facility was originallyplaced in service shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
+&emsp;&emsp;&emsp;Except as provided in clause (ii) or clause (iii), in the case of any facility described in paragraph (3), (4), (5), (6), or (7) of subsection (d), the 5-year period beginning on the date the facility was originally placed in service shall be substituted for the 10-year period in subsection (a)(2)(A)(ii).
 
 #### (ii) Certain open-loop biomass facilities
 
@@ -104,7 +104,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) any agricultural livestock waste nutrients, or
 
-&emsp;&emsp;&emsp;(ii) any solid, nonhazardous, cellulosic waste material or any lignin material which is segregated from other waste materials and which is derived from—
+&emsp;&emsp;&emsp;(ii) any solid, nonhazardous, cellulosic waste material or any lignin material which is derived from—
 
 &emsp;&emsp;&emsp;&emsp;(I) any of the following forest-related resources: mill and harvesting residues, precommercial thinnings, slash, and brush,
 
@@ -152,7 +152,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(iii) is certified by the taxpayer as resulting (when used in the production of steam) in a qualified emission reduction, and
 
-&emsp;&emsp;&emsp;(iv) is produced in such a manner as to result in an increase of at least 50 percent in the market value of the refined coal (excluding any increase caused by materials combined or added during the production process), as compared to the value of the feedstock coal.
+&emsp;&emsp;&emsp;(iv) is produced in such a manner as to result in an increase of at least 50 percentin the market value of the refined coal (excluding any increase caused by materials combined or added during the production process), as compared to the value of the feedstock coal.
 
 #### (B) Qualified emission reduction
 
@@ -224,11 +224,9 @@ For purposes of this section:
 
 &emsp;&emsp;In the case of a qualified facility described in subparagraph (A)(ii)—
 
-&emsp;&emsp;&emsp;(i) the 10-year period referred to in subsection (a) shall be treated as beginning no earlier than the date of the enactment of this clause,
+&emsp;&emsp;&emsp;(i) the 10-year period referred to in subsection (a) shall be treated as beginning no earlier than the date of the enactment of this clause, and
 
-&emsp;&emsp;&emsp;(ii) the amount of the credit determined under subsection (a) with respect to the facility shall be an amount equal to the amount determined without regard to this clause multiplied by the ratio of the thermal content of the closed-loop biomass used in such facility to the thermal content of all fuels used in such facility, and
-
-&emsp;&emsp;&emsp;(iii) if the owner of such facility is not the producer of the electricity, the person eligible for the credit allowable under subsection (a) shall be the lessee or the operator of such facility.
+&emsp;&emsp;&emsp;(ii) if the owner of such facility is not the producer of the electricity, the person eligible for the credit allowable under subsection (a) shall be the lessee or the operator of such facility.
 
 #### (3) Open-loop biomass facilities
 
@@ -246,7 +244,7 @@ For purposes of this section:
 
 #### (B) Credit eligibility
 
-&emsp;&emsp;In the case of any facility described in subparagraph (A), if the owner of such facility is not the producer of the electricity, theperson eligible for the credit allowable under subsection (a) shall be the lessee or the operator of such facility.
+&emsp;&emsp;In the case of any facility described in subparagraph (A), if the owner of such facility is not the producer of the electricity, the person eligible for the credit allowable under subsection (a) shall be the lessee or the operator of such facility.
 
 #### (4) Geothermal or solar energy facility
 
@@ -308,7 +306,7 @@ For purposes of this section—
 
 #### (C) Reference price
 
-&emsp;&emsp;The term “reference price” means, with respect to a calendar year, the Secretary's determination of the annual average contract price per kilowatt hour of electricity generated from the same qualified energy resource and sold in the previous year in the United States. For purposes of the preceding sentence, only contracts entered into after December 31, 1989, shall be taken into account.
+&emsp;&emsp;The term “reference price” means, with respect to a calendar year, the Secretary's determination of the annual average contract price per kilowatt hour of electricity generated from the same qualified energy resource and sold in the previous year in the United States. For purposes of the preceding sentence, only contracts entered into afterDecember 31, 1989, shall be taken into account.
 
 #### (3) Production attributable to the taxpayer
 
@@ -330,7 +328,7 @@ For purposes of this section—
 
 &emsp;&emsp;The credit determined under subsection (a) shall not apply to electricity—
 
-&emsp;&emsp;&emsp;(i) produced at a qualified facility described in subsection (d)(1) which is placed in service by the taxpayer after June 30, 1999, and
+&emsp;&emsp;&emsp;(i) produced at a qualified facility described in subsection (d)(1) which is originally placed in service after June 30, 1999, and
 
 &emsp;&emsp;&emsp;(ii) sold to a utility pursuant to a contract originally entered into before January 1, 1987 (whether or not amended or restated after that date).
 
@@ -460,7 +458,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of this section the term “eligible cooperative” means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
 
-(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) \[title III, §319(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944.)
+(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) \[title III, §319(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484.)
 
 #### References in Text
 
@@ -479,6 +477,12 @@ The date of enactment of the Energy Tax Incentives Act of 2005, referred to in s
 A prior section 45 was renumbered section 36 of this title.
 
 #### Amendments
+
+2007—Subsec. (c)(3)(A)(ii). Pub. L. 110–172, §7(b)(1), struck out “which is segregated from other waste materials and” after “lignin material”.
+
+Subsec. (d)(2)(B)(i) to (iii). Pub. L. 110–172, §7(b)(2), inserted “and” at the end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “the amount of the credit determined under subsection (a) with respect to the facility shall be an amount equal to the amount determined without regard to this clause multiplied by the ratio of the thermal content of the closed-loop biomass used in such facility to the thermal content of all fuels used in such facility, and”.
+
+Subsec. (e)(7)(A)(i). Pub. L. 110–172, §9(a), substituted “originally placed in service” for “placed in service by the taxpayer”.
 
 2006—Subsec. (d)(1) to (7), (9). Pub. L. 109–432 substituted “January 1, 2009” for “January 1, 2008” wherever appearing.
 
@@ -564,11 +568,17 @@ Subsec. (e)(9). Pub. L. 108–357, §710(d), added par. (9).
 
 1999—Subsec. (c)(1)(C). Pub. L. 106–170, §507(b)(1), added subpar. (C).
 
-Subsec. (c)(3). Pub. L. 106–170, §507(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified facility’ means any facility owned by the taxpayer which is originally placed in service after December 31, 1993 (December 31, 1992, in the case of a facility using closed-loop biomass to produce electricity), and before July 1, 1999.”
+Subsec. (c)(3). Pub. L. 106–170, §507(a), reenacted heading without change and amended text generally. Priorto amendment, text read as follows: “The term ‘qualified facility’ means any facility owned by the taxpayer which is originally placed in service after December 31, 1993 (December 31, 1992, in the case of a facility using closed-loop biomass to produce electricity), and before July 1, 1999.”
 
 Subsec. (c)(4). Pub. L. 106–170, §507(b)(2), added par. (4).
 
 Subsec. (d)(6), (7). Pub. L. 106–170, §507(c), added pars. (6) and (7).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by section 7(b) of Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
+
+Pub. L. 110–172, §9(c), Dec. 29, 2007, 121 Stat. 2484, provided that: “The amendments made by this section \[amending this section and section 856 of this title\] shall take effect as if included in the provisions of the Tax Relief Extension Act of 1999 \[Pub. L. 106–170\] to which they relate.”
 
 #### Effective Date of 2005 Amendments
 
@@ -576,15 +586,15 @@ Amendment by section 402(b) of Pub. L. 109–135 effective as if included in the
 
 Amendment by section 403(t) of Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
-Pub. L. 109–58, title XIII, §1301(g), Aug. 8, 2005, 119 Stat. 990, provided that:
+Pub. L. 109–58, title XIII, §1301(g), Aug. 8, 2005, 119 Stat. 990, as amended by Pub. L. 110–172, §11(a)(45), Dec. 29, 2007, 121 Stat. 2488, provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 168 of this title and amending provisions set out as a note under this section\] shall take effect of \[on\] the date of the enactment of this Act \[Aug. 8, 2005\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 168 of this title and amending provisions set out as a note under this section\] shall take effect on the date of the enactment of this Act \[Aug. 8, 2005\].
 
 “(2)
 
-Technical amendments.—The amendments made by subsections (e) and (f) \[amending this section and section 168 of this title and amending provisions set outas a note under this section\] shall take effect as if included in the amendments made by section 710 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\].”
+Technical amendments.—The amendments made by subsections (e) and (f) \[amending this section and section 168 of this title and amending provisions set out as a note under this section\] shall take effect as if included in the amendments made by section 710 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\].”
 
 Pub. L. 109–58, title XIII, §1302(c), Aug. 8, 2005, 119 Stat. 991, provided that: “The amendments made by this section \[amending this section and section 55 of this title\] shall apply to taxable years of cooperative organizations ending after the date of the enactment of this Act \[Aug. 8, 2005\].”
 

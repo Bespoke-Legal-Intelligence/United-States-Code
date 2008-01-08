@@ -22,7 +22,7 @@ The original jurisdiction conferred upon the district courts by this section sha
 
 #### (d) Venue
 
-The venue of such case or controversy shall be as prescribed by law: <i>Provided</i>, That in addition thereto, such case or controversy may bebrought in in any judicial district in which the acts of pollution complained of, or any portion thereof, occur, regardless of the place or places of residence, or situs, of any of the parties plaintiff or defendant.
+The venue of such case or controversy shall be as prescribed by law: <i>Provided</i>, That in addition thereto, such case or controversy may be brought in in any judicial district in which the acts of pollution complained of, or any portion thereof, occur, regardless of the place or places of residence, or situs, of any of the parties plaintiff or defendant.
 
 (Pub. L. 87–830, §1, Oct. 15, 1962, 76 Stat. 957.)
 

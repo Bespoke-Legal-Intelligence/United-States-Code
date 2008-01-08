@@ -76,6 +76,10 @@ Subsec. (c)(3), (4). Pub. L. 108–423, §5(a)(3)(B)–(D), added par. (3) and r
 
 Subsec. (f). Pub. L. 108–423, §5(a)(4), substituted “other Federal advisory committees that advise Federal agencies that engage in related research activities” for “the advisory bodies of other Federal agencies, such as the Department of Energy, which may engage in related research activities”.
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–423, §5(b), Nov. 30, 2004, 118 Stat. 2402, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on March 15, 2005.”

@@ -24,7 +24,7 @@ For purposes of section 38, the advanced nuclear power facility production credi
 
 #### (2) Amount of national limitation
 
-&emsp;The national megawatt capacity limitation shall be 6,000 megawatts.
+&emsp;The aggregate amount of national megawatt capacity limitation allocated by the Secretary under paragraph (3) shall not exceed 6,000 megawatts.
 
 #### (3) Allocation of limitation
 
@@ -78,17 +78,23 @@ For purposes of this section—
 
 Rules similar to the rules of paragraphs (1), (3), (4), and (5) of section 45(e) shall apply for purposes of this section.
 
-(Added Pub. L. 109–58, title XIII, §1306(a), Aug. 8, 2005, 119 Stat. 997; amended Pub. L. 109–135, title IV, §402(d), Dec. 21, 2005, 119 Stat. 2610.)
+(Added Pub. L. 109–58, title XIII, §1306(a), Aug. 8, 2005, 119 Stat. 997; amended Pub. L. 109–135, title IV, §402(d), Dec. 21, 2005, 119 Stat. 2610; Pub. L. 110–172, §6(a), Dec. 29, 2007, 121 Stat. 2479.)
 
 #### References in Text
 
-The date of the enactment of this section and the date of the enactment of this paragraph, referred to insubsecs. (b)(4) and (d)(1)(B), are the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
+The date of the enactment of this section and the date of the enactment of this paragraph, referred to in subsecs. (b)(4) and (d)(1)(B), are the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments
+
+2007—Subsec. (b)(2). Pub. L. 110–172 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The national megawatt capacity limitation shall be 6,000 megawatts.”
 
 2005—Subsec. (c)(2). Pub. L. 109–135, §402(d)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Rules similar to the rules of section 45(b)(1) shall apply for purposes of this section.”
 
 Subsec. (e). Pub. L. 109–135, §402(d)(2), struck out “(2),” after “(1),”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 6(e) of Pub. L. 110–172, set out as a note under section 30C of this title.
 
 #### Effective Date of 2005 Amendment
 

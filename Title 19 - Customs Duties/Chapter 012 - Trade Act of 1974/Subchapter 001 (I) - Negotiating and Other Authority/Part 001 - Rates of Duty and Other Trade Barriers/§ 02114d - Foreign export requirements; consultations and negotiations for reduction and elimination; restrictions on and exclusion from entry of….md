@@ -10,7 +10,7 @@
 
 &emsp;(B) any written commitment relating to a foreign direct investment that is binding on October 30, 1984, has been made directly or indirectly by any United States person.
 
-(4) Whenever the international obligations of the United States and actions taken under paragraph (2) make compensation necessary or appropriate, compensation may be provided by the United States Trade Representative subject tothe limitations and conditions contained in section 2133 of this title for providing compensation for actions taken under section 2253 of this title.
+(4) Whenever the international obligations of the United States and actions taken under paragraph (2) make compensation necessary or appropriate, compensation may be provided by the United States Trade Representative subject to the limitations and conditions contained in section 2133 of this title for providing compensation for actions taken under section 2253 of this title.
 
 (Pub. L. 98–573, title III, §307(b), Oct. 30, 1984, 98 Stat. 3012; Pub. L. 99–514, title XVIII, §1889(5), Oct. 22, 1986, 100 Stat. 2926.)
 

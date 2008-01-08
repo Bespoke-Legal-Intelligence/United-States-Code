@@ -154,7 +154,7 @@ Cooperation with industry.—A primary component of the plan shall be cooperatio
 
 &emsp;“(6)
 
-Conformance with plan.—All surface transportation research and development within the Department of Transportation shall be included in the plan and shall be evaluated in accordance with the plan.
+Conformance with plan.—All surface transportation research and development within the Department of Transportation shall be included in theplan and shall be evaluated in accordance with the plan.
 
 &emsp;“(7)
 

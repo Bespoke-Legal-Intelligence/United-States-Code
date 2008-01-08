@@ -6,7 +6,7 @@ The Secretary is authorized to make such rules and regulations, prescribe the te
 
 #### (b) Debt service margin requirements
 
-Notwithstanding subsection (a) of this section, in providing farmer program loan guarantees under this chapter, the Secretary shall consider the income of the borrower adequate if the income is equal to or greater than the income necessary—
+Notwithstanding subsection (a) of this section, in providing farmer program loan guaranteesunder this chapter, the Secretary shall consider the income of the borrower adequate if the income is equal to or greater than the income necessary—
 
 &emsp;(1) to make principal and interest payments on all debt obligations of the borrower, in a timely manner;
 
@@ -74,7 +74,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 &emsp;&emsp;(A) guarantee 80 percent of an approved loan made by a certified lending institution as described in this subsection, subject to county committee certification that the borrower meets the eligibility requirements or such other criteria as may be applicable to loans guaranteed by the Secretary under other provisions of this chapter;
 
-&emsp;&emsp;(B) permit certified lending institutions to make all decisions, with respect to loans to be guaranteed by the Secretary under this subsection relating to credit worthiness, the closing, monitoring, collection and liquidation of loans, and to accept appropriate certifications, as provided by regulations issued by the Secretary, that the borrower is in compliance with all requirements of law or regulations promulgated by the Secretary; and
+&emsp;&emsp;(B) permit certified lending institutions to make all decisions, with respect to loans to be guaranteed by the Secretary under this subsection relating to credit worthiness, the closing, monitoring, collection and liquidation of loans, and to accept appropriate certifications, as provided by regulations issued by the Secretary, that the borrower is incompliance with all requirements of law or regulations promulgated by the Secretary; and
 
 &emsp;&emsp;(C) be deemed to have guaranteed 80 percent of a loan made by a preferred certified lending institution as described in paragraph (1), if the Secretary fails to approve or reject the application of such institution within 14 calendar days after the date that the lending institution presented the application to the Secretary. If the Secretary rejects the application within the 14-day period, the Secretary shall state, in writing, the reasons the application was rejected.
 
@@ -118,7 +118,7 @@ Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that:
 
 Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that:
 
-“Hereafter, funds appropriated or available to the Farmers Home Administration under this or any other Act to make or to service farm loans shall be availablefor continuing assistance to delinquent borrowers on the basis of the policies contained in Farmers Home Administration Announcement Number 1113–1960, dated November 30, 1984.
+“Hereafter, funds appropriated or available to the Farmers Home Administration under this or any other Act to make or to service farm loans shall be available for continuing assistance to delinquent borrowers on the basis of the policies contained in Farmers Home Administration Announcement Number 1113–1960, dated November 30, 1984.
 
 “Hereafter, none of the funds appropriated or made available by this or any other Act, or otherwise made available to the Secretary of Agriculture or the Farmers Home Administration, may be used to implement section 1944.16(c)(1) of title 7, Code of Federal Regulations, as published in 52 Federal Register 11983 (April 14, 1987) or any other regulation that would have the same effect as such regulation.”
 

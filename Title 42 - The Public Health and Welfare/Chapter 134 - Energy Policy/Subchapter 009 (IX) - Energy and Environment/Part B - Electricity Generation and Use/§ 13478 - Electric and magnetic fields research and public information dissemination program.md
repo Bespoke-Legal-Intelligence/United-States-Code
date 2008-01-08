@@ -88,7 +88,7 @@ The program shall provide for—
 
 &emsp;(ix) The Federal Energy Regulatory Commission.
 
-(B) The Interagency Committee shall elect a chairperson from among its members who shallbe responsible for ensuring that the duties of the Interagency Committee are carried out.
+(B) The Interagency Committee shall elect a chairperson from among its members who shall be responsible for ensuring that the duties of the Interagency Committee are carried out.
 
 (C) Agencies that have members on the Interagency Committee shall provide appropriate staff to carry out the duties of the Interagency Committee.
 

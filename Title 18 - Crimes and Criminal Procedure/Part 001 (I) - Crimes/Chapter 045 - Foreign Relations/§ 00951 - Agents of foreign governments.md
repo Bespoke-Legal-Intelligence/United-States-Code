@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(B) has been convicted of, or has entered a plea of nolo contendere with respect to, any offense under section 792 through 799, 831, or 2381 of this title or under section 11 of the Export Administration Act of 1979, except that the provisions of this subsection shall not apply to a person described in this clause for a period of more than five years beginning on the date of the conviction or the date of entry of the plea of nolo contendere, as the case may be.
 
-(June 25, 1948, ch. 645, 62 Stat. 743; Pub. L. 97–462, §6, Jan. 12, 1983, 96 Stat. 2530; Pub. L. 98–473, title II, §1209, Oct. 12, 1984, 98 Stat. 2164; Pub. L.99–569, title VII, §703, Oct. 27, 1986, 100 Stat. 3205; Pub. L. 103–199, title II, §202, Dec. 17, 1993, 107 Stat. 2321; Pub. L. 103–322, title XXXIII, §330016(1)(R), Sept. 13, 1994, 108 Stat. 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 743; Pub. L. 97–462, §6, Jan. 12, 1983, 96 Stat. 2530; Pub. L. 98–473, title II, §1209, Oct. 12, 1984, 98 Stat. 2164; Pub. L. 99–569, title VII, §703, Oct. 27, 1986, 100 Stat. 3205; Pub. L. 103–199, title II, §202, Dec. 17, 1993, 107 Stat. 2321; Pub. L. 103–322, title XXXIII, §330016(1)(R), Sept. 13, 1994, 108 Stat. 2148.)
 
 #### Historical and Revision Notes
 

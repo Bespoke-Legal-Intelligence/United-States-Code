@@ -6,7 +6,7 @@ If the property taken is of a value exceeding $1,000, or is taken from the perso
 
 If the property stolen consists of any evidence of debt, or other written instrument, the amount of money due thereon, or secured to be paid thereby and remaining unsatisfied, or which in any contingency might be collected thereon, or the value of the property the title to which is shown thereby, or the sum which might be recovered in the absence thereof, shall be the value of the property stolen.
 
-(June 25, 1948, ch. 645, 62 Stat. 731; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §§601(a)(3), 606(a), Oct. 11, 1996, 110 Stat. 3498, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 731; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13,1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §§601(a)(3), 606(a), Oct. 11, 1996, 110 Stat. 3498, 3511.)
 
 #### Historical and Revision Notes
 

@@ -8,7 +8,7 @@ Each justice or judge of the United States may administer oaths and affirmations
 
 Based on title 28, U.S.C., 1940 ed., §§264, 385, section 1509 of title 19, U.S.C., 1940 ed., Customs Duties, and section 1114(a) of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1911, ch. 231, §§158, 268, 36 Stat. 1139, 1163; June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; Feb. 10, 1939, ch. 2, §1114(a), 53 Stat. 160; Oct. 21, 1942, ch. 619, title V, §504(a), (c), 56 Stat. 957; Feb. 25, 1944, ch. 63, title V, §503, 58 Stat. 72).
 
-Section consolidates provisions of sections 264 and 385 of title 28, U.S.C., 1940 ed., section 1509 of title 19, U.S.C., 1940 ed., and section 1114(a) of title 26, U.S.C., 1940 ed., relating to administration of oaths and acknowledgments by judges and courts.
+Section consolidates provisions of sections 264 and 385 of title 28, U.S.C., 1940 ed., section 1509 of title 19,U.S.C., 1940 ed., and section 1114(a) of title 26, U.S.C., 1940 ed., relating to administration of oaths and acknowledgments by judges and courts.
 
 The provision of section 385 of title 28, U.S.C., 1940 ed., giving to “all courts of the United States” power to impose and administer all necessary oaths is the only part of such section in this title. The remainder is incorporated in section 401 of revised title 18, U.S.C. (H.R. 1600, 80th Cong.), Crimes and Criminal Procedure.
 

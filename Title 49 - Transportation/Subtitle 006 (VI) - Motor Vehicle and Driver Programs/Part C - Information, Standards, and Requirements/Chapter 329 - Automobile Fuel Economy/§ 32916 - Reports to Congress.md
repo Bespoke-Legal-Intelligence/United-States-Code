@@ -6,7 +6,7 @@ Annual Report.—Not later than January 15 of each year, the Secretary of Transp
 
 (b)
 
-Joint Examinations After Granting Exemptions.—(1) After an exemption has been granted under section 32904(b)(6) of this title, the Secretaries of Transportation and Labor shall conduct annually a joint examination of the extent to which section 32904(b)(6)—
+Joint Examinations After Granting Exemptions.—(1) After an exemption has been granted under section 32904(b)(6) <sup>1</sup> of this title, the Secretaries of Transportation and Labor shall conduct annually a joint examination of the extent to which section 32904(b)(6)—<sup>1</sup>
 
 &emsp;(A) achieves the purposes of this chapter;
 
@@ -60,7 +60,13 @@ In subsection (b)(2), the reference to “subsection (a) of this section” is r
 
 This makes conforming amendments necessary because of the restatement of 15:2003(b)(2)(G) as 49:32904(b)(3) by section 6(36)(B) of the bill.
 
+#### References in Text
+
+Paragraph (6) of section 32904(b) of this title, referred to in subsec. (b), was repealed by Pub. L. 110–140, title I, §113(a), Dec. 19, 2007, 121 Stat. 1508.
+
 #### Amendments
 
 1994—Subsec. (b). Pub. L. 103–429, in par. (1), introductory provisions, substituted “32904(b)(6)” for “32904(b)(4)” in two places, in par. (1)(E), substituted “32904(b)(2)” for “32904(b)(1)(A)”, and in par. (2), substituted “32904(b)(6)” for “32904(b)(4)”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

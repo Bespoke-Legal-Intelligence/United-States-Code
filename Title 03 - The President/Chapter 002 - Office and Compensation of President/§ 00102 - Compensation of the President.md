@@ -194,9 +194,9 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 #### Expense Allowance: Use; Reversion of Unexpended Portion; Nontaxable
 
-Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552 were contained in the following appropriation acts:
+Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552 were contained in a paragraph under the headings “EXECUTIVE OFFICE OF THE PRESIDENT AND FUNDS APPROPRIATED TO THE PRESIDENT” and “
 
-Pub. L. 109–115, div. A, title V, Nov. 30, 2005, 119 Stat. 2472.
+Compensation of the President” in the Executive Office of the President Appropriations Act, 2006, Pub. L. 109–115, div. A, title V, Nov. 30, 2005, 119 Stat. 2472, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriation acts:
 
 Pub. L. 108–447, div. H, title III, Dec. 8, 2004, 118 Stat. 3246.
 
@@ -252,7 +252,7 @@ Pub. L. 96–74, title III, Sept. 29, 1979, 93 Stat. 563.
 
 #### Former Presidents; Allowance; Selection, Compensation, and Status of Office Staff; Office Space; Widow's Allowance, Termination; “Former President” Defined
 
-Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, §12(c), Sept. 2, 1960, 74 Stat. 730; Pub. L. 88–426, title I, §124, Aug. 14, 1964, 78 Stat. 412; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 90–206, title II, §224(c), Dec. 16, 1967, 81 Stat. 642; Pub. L. 91–231,§7, Apr. 15, 1970, 84 Stat. 198; Pub. L. 91–658, §6, Jan. 8, 1971, 84 Stat. 1963; Pub. L. 95–138, §1, Oct. 18, 1977, 91 Stat. 1170; Pub. L. 103–123, title IV, §6(a), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 103–329, title V, §531, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title V, §523, Nov. 19, 1995, 109 Stat. 495; Pub. L. 105–61, title IV, §409(a), Oct. 10, 1997, 111 Stat. 1299; Pub. L. 108–447, div. H, title V, §526, Dec. 8, 2004, 118 Stat. 3271, provided that:
+Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, §12(c), Sept. 2, 1960, 74 Stat. 730; Pub.L. 88–426, title I, §124, Aug. 14, 1964, 78 Stat. 412; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 90–206, title II, §224(c), Dec. 16, 1967, 81 Stat. 642; Pub. L. 91–231, §7, Apr. 15, 1970, 84 Stat. 198; Pub. L. 91–658, §6, Jan. 8, 1971, 84 Stat. 1963; Pub. L. 95–138, §1, Oct. 18, 1977, 91 Stat. 1170; Pub. L. 103–123, title IV, §6(a), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 103–329, title V, §531, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title V, §523, Nov. 19, 1995, 109 Stat. 495; Pub. L. 105–61, title IV, §409(a), Oct. 10, 1997, 111 Stat. 1299; Pub. L. 108–447, div. H, title V, §526, Dec. 8, 2004, 118 Stat. 3271, provided that:
 
 “(a) Each former President shall be entitled for the remainder of his life to receive from the United States a monetary allowance at a rate per annum, payable monthly by the Secretary of the Treasury, which is equal to the annual rate of basic pay, as in effect from time to time, of the head of an executive department, as defined in section 101 of title 5, United States Code. However, such allowance shall not be paid for any period during which such former President holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate.
 

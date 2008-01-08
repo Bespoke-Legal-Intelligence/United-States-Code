@@ -76,7 +76,7 @@ Other Definitions.—In this section:
 
 2003—Pub. L. 108–136, §642(e)(1), substituted “Combat-related special compensation” for “Special compensation for certain combat-related disabled uniformed services retirees” in section catchline.
 
-Subsec. (b)(1). Pub. L. 108–136, §642(c), substituted “under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability.” for “for a combat-related disabilityunder subsection (a) is the monthly amount of compensation to which the retiree would be entitled solely for the combat-related disability consistent with chapter 11 of title 38.”
+Subsec. (b)(1). Pub. L. 108–136, §642(c), substituted “under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability.” for “for a combat-related disability under subsection (a) is the monthly amount of compensation to which the retiree would be entitled solely for the combat-related disability consistent with chapter 11 of title 38.”
 
 Subsec. (c)(1). Pub. L. 108–136, §642(b), inserted before semicolon at end “or is entitled to retired pay under section 12731 of this title (other than by reason of section 12731b of this title)”.
 

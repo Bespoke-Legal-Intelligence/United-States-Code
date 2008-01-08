@@ -1,5 +1,5 @@
 
-22 U.S.C.<br>United States Code, 2006 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+22 U.S.C.<br>United States Code, 2007 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 22—FOREIGN RELATIONS AND INTERCOURSE
 
@@ -104,6 +104,7 @@
 | [<b>86.</b>](Chapter%20086%20-%20Climate%20Change%20Technology%20Deployment%20in%20Developing%20Countries/README.md) | <b>Climate Change Technology Deployment in Developing Countries</b> | <b>7901</b> |
 | [<b>87.</b>](Chapter%20087%20-%20United%20States%20and%20India%20Nuclear%20Cooperation/README.md) | <b>United States and India Nuclear Cooperation</b> | <b>8001</b> |
 | [<b>88.</b>](Chapter%20088%20-%20Nuclear%20Non-Proliferation%20Treaty%E2%80%94United%20States%20Additional%20Protocol%20Implementation/README.md) | <b>Nuclear Non-Proliferation Treaty—United States Additional Protocol Implementation</b> | <b>8101</b> |
+| [<b>89.</b>](Chapter%20089%20-%20Advancing%20Democratic%20Values/README.md) | <b>Advancing Democratic Values</b> | <b>8201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -211,3 +212,4 @@
 - [Chapter 086 - Climate Change Technology Deployment in Developing Countries](Chapter%20086%20-%20Climate%20Change%20Technology%20Deployment%20in%20Developing%20Countries/README.md)
 - [Chapter 087 - United States and India Nuclear Cooperation](Chapter%20087%20-%20United%20States%20and%20India%20Nuclear%20Cooperation/README.md)
 - [Chapter 088 - Nuclear Non-Proliferation Treaty&#8212;United States Additional Protocol Implementation](Chapter%20088%20-%20Nuclear%20Non-Proliferation%20Treaty%E2%80%94United%20States%20Additional%20Protocol%20Implementation/README.md)
+- [Chapter 089 - Advancing Democratic Values](Chapter%20089%20-%20Advancing%20Democratic%20Values/README.md)

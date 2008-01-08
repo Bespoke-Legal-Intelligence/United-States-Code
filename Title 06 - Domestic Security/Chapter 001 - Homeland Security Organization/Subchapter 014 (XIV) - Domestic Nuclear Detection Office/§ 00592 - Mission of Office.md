@@ -22,7 +22,7 @@ The Office shall be responsible for coordinating Federal efforts to detect and p
 
 &emsp;(6) conduct, support, coordinate, and encourage an aggressive, expedited, evolutionary, and transformational program of research and development to generate and improve technologies to detect and prevent the illicit entry, transport, assembly, or potential use within the United States of a nuclear explosive device or fissile or radiological material, and coordinate with the Under Secretary for Science and Technology on basic and advanced or transformational research and development efforts relevant to the mission of both organizations;
 
-&emsp;(7) carry out a program to test and evaluate technology for detecting a nuclear explosive device and fissile or radiological material, in coordination with the Secretary of Defense and the Secretary of Energy, as appropriate,and establish performance metrics for evaluating the effectiveness of individual detectors and detection systems in detecting such devices or material—
+&emsp;(7) carry out a program to test and evaluate technology for detecting a nuclear explosive device and fissile or radiological material, in coordination with the Secretary of Defense and the Secretary of Energy, as appropriate, and establish performance metrics for evaluating the effectiveness of individual detectors and detection systems in detecting such devices or material—
 
 &emsp;&emsp;(A) under realistic operational and environmental conditions; and
 
@@ -34,11 +34,7 @@ The Office shall be responsible for coordinating Federal efforts to detect and p
 
 &emsp;(10) perform other duties as assigned by the Secretary.
 
-(Pub. L. 107–296, title XVIII, §1802, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1932.)
-
-#### Codification
-
-Another section 1802 of Pub. L. 107–296 is classified to section 572 of this title.
+(Pub. L. 107–296, title XIX, §1902, formerly title XVIII, §1802, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1932; renumbered title XIX, §1902, Pub. L. 110–53, title I, §104(a)(1), (2), Aug. 3, 2007, 121 Stat. 294.)
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

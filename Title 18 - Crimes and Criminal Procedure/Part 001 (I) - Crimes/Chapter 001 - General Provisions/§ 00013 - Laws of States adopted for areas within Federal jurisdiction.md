@@ -18,7 +18,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §468 (Mar. 4, 1909, ch. 321, §289, 35 Stat. 1145; June 15, 1933, ch. 85, 48 Stat.152; June 20, 1935, ch. 284, 49 Stat. 394; June 6, 1940, ch. 241, 54 Stat. 234).
+Based on title 18, U.S.C., 1940 ed., §468 (Mar. 4, 1909, ch. 321, §289, 35 Stat. 1145; June 15, 1933, ch. 85, 48 Stat. 152; June 20, 1935, ch. 284, 49 Stat. 394; June 6, 1940, ch. 241, 54 Stat. 234).
 
 Act March 4, 1909, §289 used the words “now in force” when referring to the laws of any State, organized Territory or district, to be considered in force.
 

@@ -42,7 +42,7 @@
 
 #### (3) Purpose
 
-&emsp;The Prince William Sound Program shall be responsible for environmental monitoring of the terminal facilities in Prince William Sound and the crude oil tankers operating in Prince William Sound. The Cook Inlet Program shall be responsible for environmental monitoring of the terminal facilities and crudeoil tankers operating in Cook Inlet located South of the latitude at Point Possession and North of the latitude at Amatuli Island, including offshore facilities in Cook Inlet.
+&emsp;The Prince William Sound Program shall be responsible for environmental monitoring of the terminal facilities in Prince William Sound and the crude oil tankers operating in Prince William Sound. The Cook Inlet Program shall be responsible for environmental monitoring of the terminal facilities and crude oil tankers operating in Cook Inlet located South of the latitude at Point Possession and North of the latitude at Amatuli Island, including offshore facilities in Cook Inlet.
 
 #### (4) Suits barred
 
@@ -160,7 +160,7 @@
 
 &emsp;&emsp;(A) provide advice and recommendations to the Association on policies, permits, and site-specific regulations relating to the operation and maintenance of terminal facilities and crude oil tankers which affect or may affect the environment in the vicinity of the terminal facilities;
 
-&emsp;&emsp;(B) monitor through the committee established under subsection (e) of this section, the environmental impacts of the operation of the terminal facilities and crude oil tankers;
+&emsp;&emsp;(B) monitor through the committee established under subsection (e) of this section, the environmental impacts of the operationof the terminal facilities and crude oil tankers;
 
 &emsp;&emsp;(C) monitor those aspects of terminal facilities’ and crude oil tankers’ operations and maintenance which affect or may affect the environment in the vicinity of the terminal facilities;
 
@@ -256,7 +256,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 #### (2) Compensation
 
-&emsp;No member of an Association or Council shall be compensated for the member's services as a member of the Association or Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at a rate established by the Association or Council not to exceed the rates authorized for employees of agencies under sections 5702 and 5703 of title 5. However, each Council may enter intocontracts to provide compensation and expenses to members of the committees created under subsections (d), (e), and (f) of this section.
+&emsp;No member of an Association or Council shall be compensated for the member's services as a member of the Association or Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at a rate established by the Association or Council not to exceed the rates authorized for employees of agencies under sections 5702 and 5703 of title 5. However, each Council may enter into contracts to provide compensation and expenses to members of the committees created under subsections (d), (e), and (f) of this section.
 
 #### (k) Funding
 

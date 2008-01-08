@@ -128,7 +128,7 @@ References to the Magnuson-Stevens Fishery Conservation and Management Act or an
 
 #### References to Magnuson Fishery Conservation and Management Act Redesignated as References to Magnuson-Stevens Fishery Conservation and Management Act
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, providedthat: “Effective 15 days after the enactment of the Sustainable Fisheries Act \[Pub. L. 104–297, enacted Oct. 11, 1996\], all references to the Magnuson Fishery Conservation and Management Act \[see Short Title note below\] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Effective 15 days after the enactment of the Sustainable Fisheries Act \[Pub. L. 104–297, enacted Oct. 11, 1996\], all references to the Magnuson Fishery Conservation and Management Act \[see Short Title note below\] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
 
 #### References to Fishery Conservation and Management Act of 1976 Redesignated as References to Magnuson Fishery Conservation and Management Act
 
@@ -152,7 +152,7 @@ Pub. L. 104–43, title VI, §601, Nov. 3, 1995, 109 Stat. 391, provided that: �
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–582, §1, Nov. 2, 1992, 106 Stat. 4900, provided that: “This Act \[enacting sections 1826a to 1826c of this title and section 1707a of Title 46, Appendix, Shipping, amending sections 1362, 1371, 1852, and 1862 of this title, section 1978 of Title 22, Foreign Relations and Intercourse, and section 2110 of Title 46, repealing section 1111c of Title 46, Appendix, and enacting provisions set out as notes under sections 1823, 1826a, and 1861 of this title and section 2110 of Title 46\] may be cited as the ‘High Seas Driftnet Fisheries Enforcement Act’.”
+Pub. L. 102–582, §1, Nov. 2, 1992, 106 Stat. 4900, provided that: “This Act \[enacting sections 1826a to 1826c of this title and section 1707a of Title 46, Appendix, Shipping, amending sections 1362, 1371, 1852, and 1862 of this title, section 1978 of Title 22, Foreign Relationsand Intercourse, and section 2110 of Title 46, repealing section 1111c of Title 46, Appendix, and enacting provisions set out as notes under sections 1823, 1826a, and 1861 of this title and section 2110 of Title 46\] may be cited as the ‘High Seas Driftnet Fisheries Enforcement Act’.”
 
 #### Short Title of 1990 Amendment
 

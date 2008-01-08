@@ -1,6 +1,6 @@
 ### §5383. Setting individual senior executive pay
 
-(a) Each appointing authority shall determine, in accordance with criteria established by theOffice of Personnel Management, which of the rates within a range established under section 5382 shall be paid to each senior executive under such appointing authority.
+(a) Each appointing authority shall determine, in accordance with criteria established by the Office of Personnel Management, which of the rates within a range established under section 5382 shall be paid to each senior executive under such appointing authority.
 
 (b) Members of the Senior Executive Service shall be subject to the limitation under section 5307.
 

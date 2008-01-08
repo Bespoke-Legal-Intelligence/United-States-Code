@@ -6,7 +6,7 @@ In order to protect and enhance certain scenery and wildlife within the Ouachita
 
 #### (b) Map and description
 
-The Secretary of Agriculture (hereinafter in this section referred to as the “Secretary”) shall, as soon as practicable after October 18, 1988, file a map and a legal description of the national scenic area with the Committee on Interior and Insular Affairs and the Committee on Agriculture of the United States House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the United States Senate. Each such map and legal description shall have the same force and effect as if included in this subchapter; except that correction of clerical and typographical errors in such legal description and map may be made. The map and legal description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
+The Secretary of Agriculture (hereinafter in this section referred to as the “Secretary”) shall, as soon as practicable after October 18,1988, file a map and a legal description of the national scenic area with the Committee on Interior and Insular Affairs and the Committee on Agriculture of the United States House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the United States Senate. Each such map and legal description shall have the same force and effect as if included in this subchapter; except that correction of clerical and typographical errors in such legal description and map may be made. The map and legal description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
 
 #### (c) Administration
 
@@ -16,5 +16,5 @@ The Secretary shall administer the national scenic area in accordance with the l
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

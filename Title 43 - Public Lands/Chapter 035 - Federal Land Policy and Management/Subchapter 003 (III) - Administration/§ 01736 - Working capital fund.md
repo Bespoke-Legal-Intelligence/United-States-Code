@@ -2,7 +2,7 @@
 
 #### (a) Establishment; availability of fund
 
-There is hereby established a working capital fund for the management of the public lands.This fund shall be available without fiscal year limitation for expenses necessary for furnishing, in accordance with the Federal Property and Administrative Services Act of 1949 <sup>1</sup> (63 Stat. 377, as amended), and regulations promulgated thereunder, supplies and equipment services in support of Bureau programs, including but not limited to, the purchase or construction of storage facilities, equipment yards, and related improvements and the purchase, lease, or rent of motor vehicles, aircraft, heavy equipment, and fire control and other resource management equipment within the limitations set forth in appropriations made to the Secretary for the Bureau.
+There is hereby established a working capital fund for the management of the public lands. This fund shall be available without fiscal year limitation for expenses necessary for furnishing, in accordance with the Federal Property and Administrative Services Act of 1949 <sup>1</sup> (63 Stat. 377, as amended), and regulations promulgated thereunder, supplies and equipment services in support of Bureau programs, including but not limited to, the purchase or construction of storage facilities, equipment yards, and related improvements and the purchase, lease, or rent of motor vehicles, aircraft, heavy equipment, and fire control and other resource management equipment within the limitations set forth in appropriations made to the Secretary for the Bureau.
 
 #### (b) Initial funding; subsequent transfers
 
@@ -10,7 +10,7 @@ The initial capital of the fund shall consist of appropriations made for that pu
 
 #### (c) Payments credited to fund; amount; advancement or reimbursement
 
-The fund shall be credited with payments from appropriations, and funds of the Bureau, other agencies of the Department of the Interior, other Federal agencies, and other sources, as authorized by law, at rates approximately equal to the cost of furnishing the facilities, supplies, equipment, and services (including depreciation and accrued annual leave). Such payments may be made in advance in connection with firm orders, or by way of reimbursement.
+The fund shall be credited with payments from appropriations, and funds of the Bureau, otheragencies of the Department of the Interior, other Federal agencies, and other sources, as authorized by law, at rates approximately equal to the cost of furnishing the facilities, supplies, equipment, and services (including depreciation and accrued annual leave). Such payments may be made in advance in connection with firm orders, or by way of reimbursement.
 
 #### (d) Authorization of appropriations
 

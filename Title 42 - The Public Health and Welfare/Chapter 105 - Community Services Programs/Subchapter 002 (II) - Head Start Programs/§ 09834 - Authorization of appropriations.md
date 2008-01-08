@@ -1,18 +1,12 @@
 ### §9834. Authorization of appropriations
 
-(a) There are authorized to be appropriated for carrying out the provisions of this subchapter such sums as may be necessary for fiscal years 1999 through 2003.
+There are authorized to be appropriated to carry out this subchapter (other than section 9852b of this title) $7,350,000,000 for fiscal year 2008, $7,650,000,000 for fiscal year 2009, $7,995,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 and 2012.
 
-(b) From the amount appropriated under subsection (a) of this section, the Secretary shall make available—
-
-&emsp;(1) for each of fiscal years 1999 through 2003 to carry out activities authorized under section 9837a of this title, not more than $35,000,000 but not less than the amount that was made available for such activities for fiscal year 1998;
-
-&emsp;(2) not more than $5,000,000 for each of fiscal years 1999 through 2003 to carry out impact studies under section 9844(g) of this title; and
-
-&emsp;(3) not more than $12,000,000 for fiscal year 1999, and such sums as may be necessary for each of fiscal years 2000 through 2003, to carry out other research, demonstration, and evaluation activities, including longitudinal studies, under section 9844 of this title.
-
-(Pub. L. 97–35, title VI, §639, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §102, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §101, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–120, §2, Oct. 23, 1989, 103 Stat. 700; Pub. L. 101–501, title I, §§103, 120(b), 140, Nov. 3, 1990, 104 Stat. 1224, 1236, 1242; Pub. L. 103–252, title I, §104, May 18, 1994, 108 Stat. 625; Pub. L. 105–285, title I, §105, Oct. 27, 1998, 112 Stat. 2705.)
+(Pub. L. 97–35, title VI, §639, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §102, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §101, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–120, §2, Oct. 23, 1989, 103 Stat. 700; Pub. L. 101–501, title I, §§103, 120(b), 140, Nov. 3, 1990, 104 Stat. 1224, 1236, 1242; Pub. L. 103–252, title I, §104, May 18, 1994, 108 Stat. 625; Pub. L. 105–285, title I, §105, Oct. 27, 1998, 112 Stat. 2705; Pub. L. 110–134, §5, Dec. 12, 2007, 121 Stat. 1367.)
 
 #### Amendments
+
+2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to authorization of appropriations to carry out this subchapter for fiscal years 1999 through 2003 and availability of amount appropriated.
 
 1998—Subsec. (a). Pub. L. 105–285, §105(1), substituted “1999 through 2003” for “1995 through 1998”.
 

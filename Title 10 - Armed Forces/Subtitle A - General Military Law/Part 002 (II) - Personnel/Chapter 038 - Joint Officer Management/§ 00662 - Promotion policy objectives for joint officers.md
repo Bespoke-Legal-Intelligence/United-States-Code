@@ -6,7 +6,7 @@ Qualifications.—The Secretary of Defense shall ensure that the qualifications 
 
 &emsp;(1) officers who are serving on, or have served on, the Joint Staff are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and
 
-&emsp;(2) officers who are serving in or have served in joint duty assignments are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for all officers of the same armed force in the same grade and competitive category.
+&emsp;(2) officers who are serving in or have served in joint duty assignments are expected, as a group, to be promoted to the next higher gradeat a rate not less than the rate for all officers of the same armed force in the same grade and competitive category.
 
 (b)
 

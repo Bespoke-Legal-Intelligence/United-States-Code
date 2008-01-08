@@ -18,7 +18,7 @@ For purposes of this subtitle, if any person strips 1 or more coupons from a bon
 
 &emsp;&emsp;(A) the interest accrued on such bond while held by such person and before the time such coupon or bond was disposed of (to the extent such interest has not theretofore been included in such person's gross income), and
 
-&emsp;&emsp;(B) the accrued market discount on such bond determined as of the time such coupon or bond was disposed of (to the extent such discount has not theretofore been included in such person's gross income),
+&emsp;&emsp;(B) the accrued market discount on such bond determined as of the time such couponor bond was disposed of (to the extent such discount has not theretofore been included in such person's gross income),
 
 &emsp;(2) the basis of the bond and coupons shall be increased by the amount included in gross income under paragraph (1),
 
@@ -102,11 +102,11 @@ For purposes of this section—
 
 #### (f) Treatment of stripped interests in bond and preferred stock funds, etc.
 
-In the case of an account or entity substantially all of the assets of which consist of bonds, preferred stock, or a combination thereof, the Secretary may by regulations provide that rules similar to the rules of this section and 305(e),<sup>1</sup> as appropriate, shall apply to interests in such account or entity to which (but for this subsection) this section or section 305(e), as the case may be, would not apply.
+In the case of an account or entity substantially all of the assets of which consist of bonds, preferred stock, or a combination thereof, the Secretary may by regulations provide that rules similar to the rules of this section and 305(e),<sup>1</sup> asappropriate, shall apply to interests in such account or entity to which (but for this subsection) this section or section 305(e), as the case may be, would not apply.
 
 #### (g) Regulation authority
 
-The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, or other circumstances, the tax treatment under this section does not accurately reflect the income of theholder of a stripped coupon or stripped bond, or of the person disposing of such bond or coupon, as the case may be, for any period, such treatment shall be modified to require that the proper amount of income be included for such period.
+The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, or other circumstances, the tax treatment under this section does not accurately reflect the income of the holder of a stripped coupon or stripped bond, or of the person disposing of such bond or coupon, as the case may be, for any period, such treatment shall be modified to require that the proper amount of income be included for such period.
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 551; amended Pub. L. 99–514, title XVIII, §§1803(a)(13)(B), 1879(s)(1), Oct. 22, 1986, 100 Stat. 2796, 2912; Pub. L. 100–647, title I, §1018(q)(4)(A), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 108–357, title VIII, §831(a), Oct. 22, 2004, 118 Stat. 1587.)
 

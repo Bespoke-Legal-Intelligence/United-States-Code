@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make awards of grants, contracts, or cooperative agreements to public and nonprofit private entities (including tribal entities) for the purpose of carrying out research and demonstration projects (including research and demonstration projects for continuing health professions education) for training and education of health professionalsfor the reduction of disparities in health care outcomes and the provision of culturally competent health care.
+&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make awards of grants, contracts, or cooperative agreements to public and nonprofit private entities (including tribal entities) for the purpose of carrying out research and demonstration projects (including research and demonstration projects for continuing health professions education) for training and education of health professionals for the reduction of disparities in health care outcomes and the provision of culturally competent health care.
 
 #### (2) Eligible entities
 

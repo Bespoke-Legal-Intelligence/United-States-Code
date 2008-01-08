@@ -22,7 +22,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 &emsp;(B) is not in order after the Committee <sup>1</sup> has reported a resolution with respect to the same matter.
 
-(2) A motion to discharge under paragraph (1) may be made only by an individual favoring the resolution, and is highly privileged in the House and privileged in the Senate; and debate thereon shall be limited to not more than 1 hour, the time to be divided in the House equally between those favoring and those opposing the resolution, and to be divided in the Senate equally between, and controlled by, the majority leader and the minority leader or their designees. An amendment to the motion is not in order, and itis not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(2) A motion to discharge under paragraph (1) may be made only by an individual favoring the resolution, and is highly privileged in the House and privileged in the Senate; and debate thereon shall be limited to not more than 1 hour, the time to be divided in the House equally between those favoring and those opposing the resolution, and to be divided in the Senate equally between, and controlled by, the majority leader and the minority leader or their designees. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 #### (d) Floor consideration in the House
 

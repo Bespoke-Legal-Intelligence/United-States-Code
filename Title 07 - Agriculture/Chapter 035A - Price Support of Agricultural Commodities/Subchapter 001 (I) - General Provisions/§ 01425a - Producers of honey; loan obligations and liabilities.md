@@ -14,7 +14,7 @@ The loan contracts of the Commodity Credit Corporation entered into with produce
 
 #### (d) Promulgation of regulations
 
-The Commodity Credit Corporation may issue such regulations as the Corporation deems necessary to carry out this section. The regulations shall provide for the attribution of the value of collateral forfeited on loans described in subsection (a) of this section.
+The Commodity Credit Corporation may issue such regulations as the Corporation deems necessary to carry out this section. The regulationsshall provide for the attribution of the value of collateral forfeited on loans described in subsection (a) of this section.
 
 (Oct. 31, 1949, ch. 792, title IV, §405A, as added Pub. L. 100–460, title VI, §634(b), Oct. 1, 1988, 102 Stat. 2263; amended Pub. L. 101–624, title X, §1002, title XI, §1161(d), Nov. 28, 1990, 104 Stat. 3490, 3521.)
 

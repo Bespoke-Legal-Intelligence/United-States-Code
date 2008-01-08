@@ -14,7 +14,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;(B) if the cost is incurred after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatability <sup>1</sup> program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;
 
-&emsp;(C) if the Government's share is paid only with amounts apportioned under paragraphs\(1) and (2) of section 47114(c) or section 47114(d)(3)(A) and if the cost is incurred—
+&emsp;(C) if the Government's share is paid only with amounts apportioned under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) and if the cost is incurred—
 
 &emsp;&emsp;(i) after September 30, 1996;
 
@@ -76,7 +76,7 @@ Letters of Intent.—(1) The Secretary may issue a letter of intent to the spons
 
 (3) A letter of intent issued under paragraph (1) of this subsection is not an obligation of the Government under section 1501 of title 31, and the letter is not deemed to be an administrative commitment for financing. An obligation or administrative commitment may be made only as amounts are provided in authorization and appropriation laws.
 
-(4) The total estimated amount of future Government obligations covered by all outstanding letters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title, less an amount reasonably estimated by theSecretary to be needed for grants under section 48103 that are not covered by a letter.
+(4) The total estimated amount of future Government obligations covered by all outstanding letters of intent under paragraph (1) of this subsection may not be more than the amount authorized to carry out section 48103 of this title, less an amount reasonably estimated by the Secretary to be needed for grants under section 48103 that are not covered by a letter.
 
 (5)
 
@@ -154,7 +154,7 @@ Sept. 3, 1982, Pub. L. 97–248, §513(c), 96 Stat. 691; Dec. 30, 1987, Pub. L. 
 
 In subsection (a), the words “for airport development or airport planning” are omitted because of the definition of “project” in section 47102 of the revised title. The text of 49 App.:2212(a) (last sentence) is omitted as surplus because of 49:322(a).
 
-In subsection (b)(1), the word “approved” is omitted as surplus because a project that was not approved could not be carried out in compliance with a grant agreement. The words “in compliance with the grant agreement made for the project under this subchapter” are substituted for “in conformity with the terms and conditions of the grant agreement entered into in connection with the project” to eliminate unnecessary words. The word “sponsor” is substituted for “recipient” for clarity.
+In subsection (b)(1), the word “approved” is omitted as surplus because a project that was not approved could not be carried out in compliance with a grantagreement. The words “in compliance with the grant agreement made for the project under this subchapter” are substituted for “in conformity with the terms and conditions of the grant agreement entered into in connection with the project” to eliminate unnecessary words. The word “sponsor” is substituted for “recipient” for clarity.
 
 In subsection (b)(2)(A), the words “with respect to the project” are omitted as unnecessary because “the grant agreement” means “the grant agreement made for the project” referred to in clause (1) of this subsection. The words “under the project” are omitted as surplus.
 
@@ -227,7 +227,7 @@ Subsec. (g). Pub. L. 104–264, §144(b), added subsec. (g).
 
 &emsp;“(A) after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed; or
 
-&emsp;“(B) after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatibility program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;”.
+&emsp;“(B) after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) aspart of a Government-approved noise compatibility program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;”.
 
 Subsec. (e)(6). Pub. L. 103–305 added par. (6).
 
@@ -253,7 +253,7 @@ Pub. L. 108–7, div. I, title III, §367, Feb. 20, 2003, 117 Stat. 423, provide
 
 “(c) A letter of intent may be issued under this section only if—
 
-&emsp;“(1) The airport security improvement project to which the letter applies involves the replacement ofbaggage conveyer systems or the reconfiguration of terminal baggage areas in order to install explosive detection systems; and
+&emsp;“(1) The airport security improvement project to which the letter applies involves the replacement of baggage conveyer systems or the reconfiguration of terminal baggage areas in order to install explosive detection systems; and
 
 &emsp;“(2) The Under Secretary determines that the project will improve security or will improve the efficiency of the airport without lessening security.
 

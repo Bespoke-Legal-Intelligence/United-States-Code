@@ -22,9 +22,5 @@ Prior to the implementation of any project developed pursuant to the transportat
 
 1994—Subsec. (b)(2). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

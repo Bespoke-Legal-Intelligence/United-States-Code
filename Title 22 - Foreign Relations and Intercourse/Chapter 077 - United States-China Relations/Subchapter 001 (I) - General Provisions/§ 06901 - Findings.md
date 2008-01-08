@@ -294,7 +294,7 @@ In general.—Notwithstanding any change in the exercise of sovereignty over Mac
 
 &emsp;“(2)
 
-Exception.—Whenever the President determines that Macau is not sufficiently autonomous to justify treatment under a particular law of the United States, or any provision thereof, different from that accorded the People's Republic of China, the President may issue an Executive order suspending the application of paragraph (1) to such law or provision of law. The President shall promptly notify the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate concerning any such determination and shall publish the Executive order in the Federal Register.
+Exception.—Whenever the President determines that Macau is not sufficiently autonomous to justify treatment under a particular law of the United States, or any provision thereof, different from that accorded the People's Republic of China, the President may issue an Executive order suspending the application of paragraph (1) to such law or provision of law. The President shall promptly notify the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate concerning any such determination and shall publish the Executive order in the Federal Register.
 
 “(b)
 
@@ -318,13 +318,13 @@ In general.—Subject to subsection (b) and paragraph (2), for all purposes, inc
 
 &emsp;“(2)
 
-Exception.—If, in carrying out this subsection, the President determines that Macau is not legally competent to carry out its obligations under any such treaty or other international agreement, or that the continuation of Macau's obligations or rights under any such treaty or other international agreement is not appropriate under the circumstances, the President shall take appropriate action to modify or terminate such treaty or other international agreement. The President shall promptly notify the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate concerning such determination.
+Exception.—If, in carrying out this subsection, the President determines that Macau is not legally competent to carry out its obligations under any such treaty or other international agreement, or that the continuation of Macau's obligations or rights under any such treaty or other international agreement is not appropriate under the circumstances, the President shall take appropriate action to modify or terminate such treaty or other international agreement. The President shall promptly notify the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate concerning such determination.
 
 #### “SEC. 204. REPORTING REQUIREMENT.
 
 “(a)
 
-In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2000\], and not later than March 31 of each of the years 2001, 2002, and 2003, the Secretary of State shall transmit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report on conditions in Macau of interest to the United States. The report shall describe—
+In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2000\], and not later than March 31 of each of the years 2001, 2002, and 2003, the Secretary of State shall transmit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on conditions in Macau of interest to the United States. The report shall describe—
 
 &emsp;“(1) significant developments in United States relations with Macau, including any determination made under section 203;
 

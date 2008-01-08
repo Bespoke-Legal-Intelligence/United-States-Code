@@ -38,7 +38,7 @@ For purposes of this chapter—
 
 #### (c) Death benefit premium
 
-The death benefit premium for any plan year for any assigned operator shall be equal to theapplicable percentage of the amount, actuarially determined, which the Combined Fund will be required to pay during the plan year for death benefits coverage described in section 9703(c).
+The death benefit premium for any plan year for any assigned operator shall be equal to the applicable percentage of the amount, actuarially determined, which the Combined Fund will be required to pay during the plan year for death benefits coverage described in section 9703(c).
 
 #### (d) Unassigned beneficiaries premium
 
@@ -268,7 +268,7 @@ Pub. L. 109–432, div. C, title II, §212(a)(4), Dec. 20, 2006, 120 Stat. 3025,
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a noteunder section 401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 

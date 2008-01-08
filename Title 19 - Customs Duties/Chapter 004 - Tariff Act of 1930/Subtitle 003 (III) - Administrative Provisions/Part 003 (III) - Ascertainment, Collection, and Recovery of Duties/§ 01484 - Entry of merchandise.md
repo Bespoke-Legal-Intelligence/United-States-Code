@@ -42,7 +42,7 @@ The Customs Service may permit the entry and release of merchandise from customs
 
 #### (e) Production of invoice
 
-The Secretary may provide by regulation for the production of an invoice, parts thereof, or the electronic equivalents thereof, in such manner and form, and under such terms and conditions, as the Secretary considers necessary.
+The Secretary may provide by regulation for the production of an invoice, parts thereof, orthe electronic equivalents thereof, in such manner and form, and under such terms and conditions, as the Secretary considers necessary.
 
 #### (f) Statistical enumeration
 
@@ -50,7 +50,7 @@ The Secretary, the Secretary of Commerce, and the United States International Tr
 
 #### (g) Statement of cost of production
 
-Under such regulations as the Secretary may prescribe, the Customs Service may require a verified statement from the manufacturer orproducer showing the cost of producing the imported merchandise, if the Customs Service considers such verification necessary for the appraisement of such merchandise.
+Under such regulations as the Secretary may prescribe, the Customs Service may require a verified statement from the manufacturer or producer showing the cost of producing the imported merchandise, if the Customs Service considers such verification necessary for the appraisement of such merchandise.
 
 #### (h) Admissibility of data electronically transmitted
 
@@ -142,7 +142,7 @@ Subsec. (b)(1). Pub. L. 104–295, §18(b), substituted “A party may elect to 
 
 Subsec. (d). Pub. L. 104–153 designated existing provisions as par. (1) and added par. (2).
 
-1993—Pub. L. 103–182 amended section generally, substituting present provisions for provisions relating to entry of merchandise and providing specifically for requirement and time, production of certified invoice, production of bill of lading, signing and contents of entry, statistical enumeration, packages included, statement of cost of production, certification of owner by carrier, acceptance of duplicate bill of lading, and release of merchandise from customs custody.
+1993—Pub. L. 103–182 amended section generally, substituting present provisions for provisions relating to entry of merchandise and providing specifically for requirement and time, production of certified invoice, production of bill of lading, signing and contents ofentry, statistical enumeration, packages included, statement of cost of production, certification of owner by carrier, acceptance of duplicate bill of lading, and release of merchandise from customs custody.
 
 1983—Subsec. (a)(1). Pub. L. 97–446, §201(d)(1)(A), substituted “one of the parties qualifying as ‘importer of record’ under paragraph (2)(C) of this subsection” for “the consignee of imported merchandise”, and “authorized by him” for “authorized by the consignee”.
 

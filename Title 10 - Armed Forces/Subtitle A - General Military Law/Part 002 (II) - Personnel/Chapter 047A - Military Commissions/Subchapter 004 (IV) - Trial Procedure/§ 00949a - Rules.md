@@ -6,7 +6,7 @@ Procedures and Rules of Evidence.—Pretrial, trial, and post-trial procedures, 
 
 (b)
 
-Rules for Military Commission.—(1) Notwithstanding any departures from the law and the rules of evidence in trial by general courts-martial authorized by subsection (a), the procedures and rules of evidence in trials by militarycommission under this chapter shall include the following:
+Rules for Military Commission.—(1) Notwithstanding any departures from the law and the rules of evidence in trial by general courts-martial authorized by subsection (a), the procedures and rules of evidence in trials by military commission under this chapter shall include the following:
 
 &emsp;(A) The accused shall be permitted to present evidence in his defense, to cross-examine the witnesses who testify against him, and to examine and respond to evidence admitted against him on the issue of guilt or innocence and for sentencing, as provided for by this chapter.
 

@@ -1,6 +1,6 @@
 ### §3695. Limitation on period of assistance under two or more programs
 
-(a) The aggregate period for which any person may receive assistance under two or more of the provisions of law listed below may not exceed 48 months (or the part-time equivalent thereof):
+(a) The aggregate period for which any person may receive assistance under two or more of theprovisions of law listed below may not exceed 48 months (or the part-time equivalent thereof):
 
 &emsp;(1) Parts VII or VIII, Veterans Regulation numbered 1(a), as amended.
 

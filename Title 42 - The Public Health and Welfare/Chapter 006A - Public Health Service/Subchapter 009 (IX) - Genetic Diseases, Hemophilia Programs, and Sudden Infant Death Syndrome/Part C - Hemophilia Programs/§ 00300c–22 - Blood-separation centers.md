@@ -4,7 +4,7 @@
 
 The Secretary may make grants to and enter into contracts with public and nonprofit private entities for projects to develop and expand, within existing facilities, blood-separation centers to separate and make available for distribution blood components to providers of blood services and manufacturers of blood fractions. For purposes of this section—
 
-&emsp;(1) the term “blood components” means those constituents of whole blood which are used for therapy and which are obtained by physical separation processes which result in licensed products such as red blood cells, platelets, white blood cells, AHF-rich plasma, fresh-frozen plasma, cryoprecipitate, and single unit plasma for infusion; and
+&emsp;(1) the term “blood components” means those constituents of whole blood which areused for therapy and which are obtained by physical separation processes which result in licensed products such as red blood cells, platelets, white blood cells, AHF-rich plasma, fresh-frozen plasma, cryoprecipitate, and single unit plasma for infusion; and
 
 &emsp;(2) the term “blood fractions” means those constituents of plasma which are used for therapy and which are obtained by licensed fractionation processes presently used in manufacturing which result in licensed products such as normal serum albumin, plasma, protein fraction, prothrombin complex, fibrinogen, AHF concentrate, immune serum globulin, and hyperimmune globulins.
 
@@ -216,7 +216,7 @@ One Petition With Respect to Each Victim.—With respect to each individual desc
 
 #### “SEC. 107. LIMITATION ON AGENT AND ATTORNEY FEES.
 
-“Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the petition of an individual under this title, more than 5 percent of a payment made under this title on the petition. Any such representative who violates this section shall be fined not more than $50,000.
+“Notwithstanding any contract, the representative of an individual may not receive, for services rendered inconnection with the petition of an individual under this title, more than 5 percent of a payment made under this title on the petition. Any such representative who violates this section shall be fined not more than $50,000.
 
 #### “SEC. 108. DEFINITIONS.
 

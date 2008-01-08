@@ -1,5 +1,7 @@
 Part B—Remote Sensing
 
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+
 
 ---
 

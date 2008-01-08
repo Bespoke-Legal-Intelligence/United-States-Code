@@ -24,13 +24,115 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 The Secretary may not make a grant under section 300k of this title unless the State involved agrees that the State will, in accordance with applicable law, assure the quality of screening procedures conducted pursuant to such section.
 
-(July 1, 1944, ch. 373, title XV, §1503, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410; amended Pub. L. 103–183, title I, §101(c)(1), Dec. 14, 1993, 107 Stat. 2227.)
+#### (d) Waiver of services requirement on division of funds
+
+#### (1) In general
+
+&emsp;The Secretary shall establish a demonstration project under which the Secretary may waive the requirements of paragraphs (1) and (4) of subsection (a) for not more than 5 States, if—
+
+&emsp;&emsp;(A) the State involved will use the waiver to leverage non-Federal funds to supplementeach of the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title;
+
+&emsp;&emsp;(B) the application of such requirement would result in a barrier to the enrollment of qualifying women;
+
+&emsp;&emsp;(C) the State involved—
+
+&emsp;&emsp;&emsp;(i) demonstrates, to the satisfaction of the Secretary, the manner in which the State will use such waiver to expand the level of screening and follow-up services provided immediately prior to the date on which the waiver is granted; and
+
+&emsp;&emsp;&emsp;(ii) provides assurances, satisfactory to the Secretary, that the State will, on an annual basis, demonstrate, through such documentation as the Secretary may require, that the State has used such waiver as described in clause (i);
+
+&emsp;&emsp;(D) the State involved submits to the Secretary—
+
+&emsp;&emsp;&emsp;(i) assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier is granted, at a level that is not less than—
+
+&emsp;&emsp;&emsp;&emsp;(I) the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
+
+&emsp;&emsp;&emsp;&emsp;(II) at the option of the State and upon approval by the Secretary, the average level of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted; and
+
+&emsp;&emsp;&emsp;(ii) a plan, satisfactory to the Secretary, for maintaining the level of activities carried out under the waiver after the expiration of the waiver and any extension of such waiver;
+
+&emsp;&emsp;(E) the Secretary finds that granting such a waiver to a State will increase the number of women in the State that receive each of the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title, including making available screening procedures for both breast and cervical cancers; and
+
+&emsp;&emsp;(F) the Secretary finds that granting such a waiver to a State will not adversely affect the quality of each of the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title.
+
+#### (2) Duration of waiver
+
+#### (A) In general
+
+&emsp;&emsp;In granting waivers under paragraph (1), the Secretary—
+
+&emsp;&emsp;&emsp;(i) shall grant such waivers for a period that is not less than 1 year but not more than 2 years; and
+
+&emsp;&emsp;&emsp;(ii) upon request of a State, may extend a waiver for an additional period that is not less than 1 year but not more than 2 years in accordance with subparagraph (B).
+
+#### (B) Additional period
+
+&emsp;&emsp;The Secretary, upon the request of a State that has received a waiver under paragraph (1), shall, at the end of the waiver period described in subparagraph (A)(i), review performance under the waiver and may extend the waiver for an additional period if the Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) without an extension of the waiver, there will be a barrier to the enrollment of qualifying women;
+
+&emsp;&emsp;&emsp;(ii) the State requesting such extended waiver will use the waiver to leverage non-Federal funds to supplement the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title;
+
+&emsp;&emsp;&emsp;(iii) the waiver has increased, and will continue to increase, the number of women in the State that receive the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title;
+
+&emsp;&emsp;&emsp;(iv) the waiver has not, and will not, result in lower quality in the State of the services or activities described in paragraphs (1) and (2) of section 300k(a) of this title; and
+
+&emsp;&emsp;&emsp;(v) the State has maintained the average annual level of State fiscal expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver was granted at a level that is not less than—
+
+&emsp;&emsp;&emsp;&emsp;(I) the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
+
+&emsp;&emsp;&emsp;&emsp;(II) at the option of the State and upon approval by the Secretary, the average level of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted.
+
+#### (3) Reporting requirements
+
+&emsp;The Secretary shall include as part of the evaluations and reports required under section 300n–4 of this title, the following:
+
+&emsp;&emsp;(A) A description of the total amount of dollars leveraged annually from Non-Federal <sup>1</sup> entities in States receiving a waiver under paragraph (1) and how these amounts were used.
+
+&emsp;&emsp;(B) With respect to States receiving a waiver under paragraph (1), a description of the percentage of the grant that is expended on providing each of the services or activities described in—
+
+&emsp;&emsp;&emsp;(i) paragraphs (1) and (2) of section 300k(a) of this title; and
+
+&emsp;&emsp;&emsp;(ii) paragraphs (3) through (6) of section 300k(a) of this title.
+
+&emsp;&emsp;(C) A description of the number of States receiving waivers under paragraph (1) annually.
+
+&emsp;&emsp;(D) With respect to States receiving a waiver under paragraph (1), a description of—
+
+&emsp;&emsp;&emsp;(i) the number of women receiving services under paragraphs (1), (2), and (3) of section 300k(a) of this title in programs before and after the granting of such waiver; and
+
+&emsp;&emsp;&emsp;(ii) the average annual level of State fiscal expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the year preceding the first year for which the waiver was granted.
+
+#### (4) Limitation
+
+&emsp;Amounts to which a waiver applies under this subsection shall not be used to increase the number of salaried employees.
+
+#### (5) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Indian tribe
+
+&emsp;&emsp;The term “Indian tribe” has the meaning given the term in section 1603 of title 25.
+
+#### (B) Tribal organization
+
+&emsp;&emsp;The term “tribal organization” has the meaning given the term in section 1603 of title 25.
+
+#### (C) State
+
+&emsp;&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, an Indian tribe, and a tribal organization.
+
+#### (6) Sunset
+
+&emsp;The Secretary may not grant a waiver or extension under this subsection after September 30, 2012.
+
+(July 1, 1944, ch. 373, title XV, §1503, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410; amended Pub. L. 103–183, title I, §101(c)(1), Dec. 14, 1993, 107 Stat. 2227; Pub. L. 110–18, §2(2), Apr. 20, 2007, 121 Stat. 80.)
 
 #### Prior Provisions
 
 Prior sections 300m to 300m–6 were repealed by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
 
-Section 300m, act July 1, 1944, ch. 373, title XV, §1521, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2242;amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(<i>l</i>), (m), 91 Stat. 385; Dec. 19, 1977, Pub. L. 95–215, §6(b), 91 Stat. 1507; July 16, 1979, Pub. L. 96–33, 93 Stat. 86; Oct. 4, 1979, Pub. L. 96–79, title I, §123(a), (b)(1)(A), (2), (d), (f), (g)(2), 93 Stat. 624–627; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Jan. 2, 1980, Pub. L. 96–181, §15(b), 93 Stat. 1316; Dec. 17, 1980, Pub. L. 96–538, title III, §303(b), 94 Stat. 3190; Aug. 13, 1981, Pub. L. 97–35, title IX, §§902(g)(5), 936(b), 95 Stat. 561, 572; Jan. 4, 1983, Pub. L. 97–414, §9(b), 96 Stat. 2064, provided for designation of State health planning and development agencies.
+Section 300m, act July 1, 1944, ch. 373, title XV, §1521, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2242; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(<i>l</i>), (m), 91 Stat. 385; Dec. 19, 1977, Pub. L. 95–215, §6(b), 91 Stat. 1507; July 16, 1979, Pub. L. 96–33, 93 Stat. 86; Oct. 4, 1979, Pub. L. 96–79, title I, §123(a), (b)(1)(A), (2), (d), (f), (g)(2), 93 Stat. 624–627; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Jan. 2, 1980, Pub. L. 96–181, §15(b), 93 Stat. 1316; Dec. 17, 1980, Pub. L. 96–538, title III, §303(b), 94 Stat. 3190; Aug. 13, 1981, Pub. L. 97–35, title IX, §§902(g)(5), 936(b), 95 Stat. 561, 572; Jan. 4, 1983, Pub. L. 97–414, §9(b), 96 Stat. 2064, provided for designation of State health planning and development agencies.
 
 A prior section 1503 of act July 1, 1944, ch. 373, title XV, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2228; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(a), 91 Stat. 384; July 10, 1979, Pub. L. 96–32, §7(g), 93 Stat. 84; Oct. 4, 1979, Pub. L. 96–79, title I, §102(b), 93 Stat. 594; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, which related to National Council on Health Planning and Development, was classified to section 300k–3 of this title.
 
@@ -48,9 +150,13 @@ Section 300m–6, act July 1, 1944, ch. 373, title XV, §1527, as added Oct. 4, 
 
 #### Amendments
 
+2007—Subsec. (d). Pub. L. 110–18 added subsec. (d).
+
 1993—Subsecs. (c) to (e). Pub. L. 103–183 added subsec. (c) and struck out former subsecs. (c) which related to quality assurance regarding screening for breast cancer, (d) which related to quality assurance regarding screening for cervical cancer, and (e) which related to issuance by Secretary of guidelines with respect to quality of mammography and cytological services.
 
 #### Transition Rule Regarding Mammographies
 
 Section 101(c)(2) of Pub. L. 103–183 provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[subsec. (c) of this section\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[section 300k of this title\]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act \[section 263b of this title\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “non-Federal”.</i>
 

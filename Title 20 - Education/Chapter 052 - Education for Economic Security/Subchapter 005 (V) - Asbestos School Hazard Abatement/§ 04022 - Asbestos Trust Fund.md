@@ -44,7 +44,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (d) Expenditures from Asbestos Trust Fund
 
-Amounts in the Asbestos Trust Fund shall be available, as provided by appropriation Acts, only for purposes of carrying out the Asbestos Hazards Abatement Assistance Program under section 4014 of this title.
+Amounts in the Asbestos Trust Fund shall be available, as provided by appropriation Acts,only for purposes of carrying out the Asbestos Hazards Abatement Assistance Program under section 4014 of this title.
 
 #### (e) Authority to borrow
 
@@ -74,7 +74,7 @@ Section was enacted as part of the Asbestos Hazard Emergency Response Act of 198
 
 #### Amendments
 
-1995—Subsec. (c)(2). Pub. L. 104–66 struck out heading and text of par. (2). Text read as follows: “It shall be the duty of the Secretary of the Treasury to hold the Asbestos Trust Fund and to report to the Congress eachyear on the financial condition and the results of the operations of the Trust Fund during the preceding fiscal year and on its expected condition and operations during the next 5 fiscal years.”
+1995—Subsec. (c)(2). Pub. L. 104–66 struck out heading and text of par. (2). Text read as follows: “It shall be the duty of the Secretary of the Treasury to hold the Asbestos Trust Fund and to report to the Congress each year on the financial condition and the results of the operations of the Trust Fund during the preceding fiscal year and on its expected condition and operations during the next 5 fiscal years.”
 
 1990—Subsec. (b)(1). Pub. L. 101–637, §12(a), substituted a comma for “as in effect on October 22, 1986, and” in subpar. (A) and “, and” for period at end of subpar. (B), and added subpar. (C).
 

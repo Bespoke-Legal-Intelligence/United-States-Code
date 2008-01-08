@@ -18,7 +18,7 @@
 
 #### (1) Contracts not to entities in area
 
-&emsp;Any expenditure of Federal funds for debris clearance, distribution of supplies, reconstruction, and other major disaster or emergency assistance activities which may be carried out by contract or agreement with private organizations, firms, or individuals, not awarded to an organization, firm, or individual residing or doing business primarily in the area affectedby such major disaster shall be justified in writing in the contract file.
+&emsp;Any expenditure of Federal funds for debris clearance, distribution of supplies, reconstruction, and other major disaster or emergency assistance activities which may be carried out by contract or agreement with private organizations, firms, or individuals, not awarded to an organization, firm, or individual residing or doing business primarily in the area affected by such major disaster shall be justified in writing in the contract file.
 
 #### (2) Transition
 

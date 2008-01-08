@@ -58,7 +58,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. The President shall designate one member as chairman at the time of the appointment of that member.
 
-(3) Members shall serve for terms of 3 years each, except that, of the members first appointed, one of the members representing the interests of employee organizations, one of the members representing the interests of employers, and one of the members representing the interests of the general public shall be appointed for terms of 2 years each, one of the members representing the interests of the general public shall be appointed for a term of 1 year, and the other members shall be appointed to full 3–year terms. The advisory committee shall meet at least six times each year and at such other times as may be determined by the chairman orrequested by any three members of the advisory committee.
+(3) Members shall serve for terms of 3 years each, except that, of the members first appointed, one of the members representing the interests of employee organizations, one of the members representing the interests of employers, and one of the members representing the interests of the general public shall be appointed for terms of 2 years each, one of the members representing the interests of the general public shall be appointed for a term of 1 year, and the other members shall be appointed to full 3–year terms. The advisory committee shall meet at least six times each year and at such other times as may be determined by the chairman or requested by any three members of the advisory committee.
 
 (4) Members shall be chosen on the basis of their experience with employee organizations, with employers who maintain pension plans, with the administration of pension plans, or otherwise on account of outstanding demonstrated ability in related fields. Of the members serving on the advisory committee at any time, no more than four shall be affiliated with the same political party.
 
@@ -94,7 +94,7 @@ Subsec. (c) amended section 5108 of Title 5, Government Organization and Employe
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–280 in introductory provisions substituted “In carrying out its functions under this subchapter, the corporation shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board” for “In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board”.
+2006—Subsec. (a). Pub. L. 109–280 in introductory provisions substituted “In carrying out its functions under this subchapter, the corporation shall be administeredby a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board” for “In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board”.
 
 2002—Subsec. (i). Pub. L. 107–134 added subsec. (i).
 
@@ -108,7 +108,7 @@ Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to i
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134,set out as a note under section 6081 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

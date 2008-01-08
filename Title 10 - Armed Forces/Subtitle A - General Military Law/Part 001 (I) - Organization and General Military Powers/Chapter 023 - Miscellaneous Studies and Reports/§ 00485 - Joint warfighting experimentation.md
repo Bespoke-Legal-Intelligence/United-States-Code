@@ -140,7 +140,7 @@ Initial Report.—(1) The commander of the combatant command assigned by the Sec
 
 &emsp;“(C) The process established for tasking forces to participate in experimentation and the commander's specific authority over those forces, including forces designated as joint experimentation forces.
 
-&emsp;“(D) The resources provided for initial implementation of joint warfighting experimentation, the process for providing those resources to the commander, the categories of the funding, and the authority of the commander for budget execution.
+&emsp;“(D) The resources provided for initial implementation of joint warfighting experimentation, the process for providing those resources to the commander,the categories of the funding, and the authority of the commander for budget execution.
 
 &emsp;“(E) The process established for the development and acquisition of the materiel, supplies, services, and equipment necessary for the conduct of joint warfighting experimentation.
 

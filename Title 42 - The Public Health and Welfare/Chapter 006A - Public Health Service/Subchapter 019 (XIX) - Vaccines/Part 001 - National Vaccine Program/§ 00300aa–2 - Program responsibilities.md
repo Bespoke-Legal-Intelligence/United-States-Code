@@ -12,7 +12,7 @@
 
 #### (3) Safety and efficacy testing of vaccines
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for safety and efficacy testing of vaccines carried out in or through the National Institutes ofHealth, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for safety and efficacy testing of vaccines carried out in or through the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development.
 
 #### (4) Licensing of vaccine manufacturers and vaccines
 

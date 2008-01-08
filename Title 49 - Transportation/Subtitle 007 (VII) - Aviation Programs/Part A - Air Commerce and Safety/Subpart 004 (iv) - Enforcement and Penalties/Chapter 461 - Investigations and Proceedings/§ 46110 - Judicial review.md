@@ -110,7 +110,7 @@ In subsections (a)–(d), the word “Administrator” in section 1006 of the Fe
 
 In subsection (a), the words “affirmative or negative” are omitted as surplus. The words “is issued” are substituted for “the entry of” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b), the words “if any” are omitted as surplus. The words “of any proceeding” are added forclarity. The words “complained of” are omitted as surplus.
+In subsection (b), the words “if any” are omitted as surplus. The words “of any proceeding” are added for clarity. The words “complained of” are omitted as surplus.
 
 In subsection (c), the word “amend” is added for consistency in the revised title. The word “interim” is substituted for “interlocutory” for clarity. The words “taking other appropriate action” are substituted for “by such mandatory or other relief as may be appropriate” for clarity and to eliminate unnecessary words.
 

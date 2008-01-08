@@ -18,7 +18,3 @@ Such committees shall report, as appropriate, to their respective Houses on the 
 
 (Pub. L. 96–8, §14, Apr. 10, 1979, 93 Stat. 20.)
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

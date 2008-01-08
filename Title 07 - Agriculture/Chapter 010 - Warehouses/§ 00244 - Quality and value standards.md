@@ -1,6 +1,6 @@
 ### §244. Quality and value standards
 
-If standards for the evaluation or determination of the quality or value of an agricultural product are not established under another Federal law, the Secretary may establish standardsfor the evaluation or determination of the quality or value of the agricultural product under this chapter.
+If standards for the evaluation or determination of the quality or value of an agricultural product are not established under another Federal law, the Secretary may establish standards for the evaluation or determination of the quality or value of the agricultural product under this chapter.
 
 (Aug. 11, 1916, ch. 313, pt. C, §5, as added Pub. L. 106–472, title II, §201, Nov. 9, 2000, 114 Stat. 2064.)
 

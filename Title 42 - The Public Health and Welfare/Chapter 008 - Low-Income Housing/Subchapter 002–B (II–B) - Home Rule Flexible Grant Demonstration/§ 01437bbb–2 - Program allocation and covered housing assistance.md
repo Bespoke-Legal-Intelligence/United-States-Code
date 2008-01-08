@@ -8,7 +8,7 @@ In each fiscal year, the amount made available to each participating jurisdictio
 
 For purposes of this subchapter, the term “covered housing assistance” means—
 
-&emsp;(1) operating assistance under section 1437g of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
+&emsp;(1) operating assistance under section 1437g of this title (as in effect before the effectivedate under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
 
 &emsp;(2) modernization assistance under section 1437<i>l</i> of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998);
 

@@ -14,7 +14,7 @@
 
 (ii) No such period of internship or residency or other advanced clinical training shall be counted toward satisfying a period of obligated service under this subchapter.
 
-(B) In the case of a participant receiving a degree from a school of nursing, the participant's service commencement date is the later of (i) the participant's course completion date, or (ii) the date upon which the participant becomes licensed as a registered nurse in a State.
+(B) In the case of a participant receiving a degree from a school of nursing, the participant'sservice commencement date is the later of (i) the participant's course completion date, or (ii) the date upon which the participant becomes licensed as a registered nurse in a State.
 
 (C) In the case of a participant not covered by subparagraph (A) or (B) of this paragraph, the participant's service commencement date is the later of (i) the participant's course completion date, or (ii) the date the participant meets any applicable licensure or certification requirements.
 

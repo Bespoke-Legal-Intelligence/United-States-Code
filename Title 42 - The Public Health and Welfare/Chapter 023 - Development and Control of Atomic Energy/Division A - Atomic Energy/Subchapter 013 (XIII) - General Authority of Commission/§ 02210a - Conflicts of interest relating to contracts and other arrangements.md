@@ -16,7 +16,7 @@ The Commission shall, by rule, require any person proposing to enter into a cont
 
 &emsp;&emsp;(A) it is unlikely that a conflict of interest would exist, or
 
-&emsp;&emsp;(B) such conflict has been avoided after appropriate conditions have been included in such contract, agreement, or arrangement; except that if the Commission determines that such conflict of interest exists and that such conflict of interest cannot be avoided by including appropriate conditions therein, the Commission may enter into such contract, agreement, or arrangement, if the Commission determines that it is in the best interests of the United States to do so and includes appropriate conditions in such contract, agreement, or arrangement to mitigate such conflict.
+&emsp;&emsp;(B) such conflict has been avoided after appropriate conditions have been included in such contract, agreement, or arrangement; except that if the Commission determinesthat such conflict of interest exists and that such conflict of interest cannot be avoided by including appropriate conditions therein, the Commission may enter into such contract, agreement, or arrangement, if the Commission determines that it is in the best interests of the United States to do so and includes appropriate conditions in such contract, agreement, or arrangement to mitigate such conflict.
 
 #### (2) Nuclear Regulatory Commission
 

@@ -40,7 +40,7 @@ For purposes of subsection (a), a contract fails to meet the 7-pay test of this 
 
 #### (A) In general
 
-&emsp;&emsp;If there is a material change in the benefits under (or in other terms of) the contractwhich was not reflected in any previous determination under this section, for purposes of this section—
+&emsp;&emsp;If there is a material change in the benefits under (or in other terms of) the contract which was not reflected in any previous determination under this section, for purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such contract shall be treated as a new contract entered into on the day on which such material change takes effect, and
 

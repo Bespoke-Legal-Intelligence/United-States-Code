@@ -170,11 +170,11 @@ In subsection (a)(2), before clause (A), the word “application” is substitut
 
 In subsection (a)(3), the words “to the provision, or to the order (other than an order issued in accordance with this sentence), rule, regulation, term, condition, or limitation found by the Board to have been violated” are omitted as surplus.
 
-In subsection (a)(4), the word “provide” is substituted for “engage in” for consistency in the revised title. The words “altered” and “the simplified procedures of” are omitted as surplus.
+In subsection (a)(4), the word “provide” is substituted for “engage in” for consistency in the revised title. Thewords “altered” and “the simplified procedures of” are omitted as surplus.
 
 In subsection (b), the words “to the extent of such service” are omitted as surplus. The word “provided” is substituted for “performed” for consistency in the revised title.
 
-In subsection (c)(1), the word “place” is substituted for “point” for consistency in the revised title. In clause (A), the cross-reference is to section 41734(a) ofthe revised title for clarity because 49 App.:1371(j) is obsolete. The comparable provision is 49 App.:1389(b)(2), restated as section 41734(a). The words “provided by that carrier” are omitted as surplus. In clause (B), the word “immediately” is added for clarity.
+In subsection (c)(1), the word “place” is substituted for “point” for consistency in the revised title. In clause (A), the cross-reference is to section 41734(a) of the revised title for clarity because 49 App.:1371(j) is obsolete. The comparable provision is 49 App.:1389(b)(2), restated as section 41734(a). The words “provided by that carrier” are omitted as surplus. In clause (B), the word “immediately” is added for clarity.
 
 In subsection (d)(2), the words “alter” and “the procedures prescribed in” are omitted as surplus.
 

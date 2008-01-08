@@ -60,7 +60,7 @@ Allocations of Apportioned Funds.—
 
 &emsp;(2)
 
-For transportation enhancement activities.—In a fiscal year, the greater of 10 percent of the funds apportioned to a State under section 104(b)(3) for such fiscal year, or the amount set aside under this paragraph with respect to the State for fiscal year 2005, shall only be available for transportation enhancement activities.
+For transportation enhancement activities.—In a fiscal year, the greater of 10 percent of the funds apportioned to a State under section 104(b)(3) for such fiscal year, orthe amount set aside under this paragraph with respect to the State for fiscal year 2005, shall only be available for transportation enhancement activities.
 
 &emsp;(3)
 
@@ -154,7 +154,7 @@ In general.—The Secretary may advance funds to the State for transportation en
 
 &emsp;&emsp;&emsp;(ii)
 
-Limitation on amounts.—Amounts advanced under this subparagraph shall be limited to such amounts as are necessary to make prompt payments for project costs.
+Limitation on amounts.—Amounts advanced under this subparagraph shall belimited to such amounts as are necessary to make prompt payments for project costs.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -242,7 +242,7 @@ A prior section 133, Pub. L. 87–866, §5(a), Oct. 23, 1962, 76 Stat. 1146, pro
 
 Subsec. (b)(12). Pub. L. 109–59, §1113(a)(2), added par. (12).
 
-Subsec. (b)(14), (15). Pub. L. 109–59, §6006(a)(2), added pars. (14) and (15) and struck out former par. (14) which read as follows: “Environmental restoration and pollution abatement projects (including the retrofit or construction of storm water treatment systems) to address water pollution or environmental degradation caused or contributed to by transportation facilities, which projects shall be carried out when the transportationfacilities are undergoing reconstruction, rehabilitation, resurfacing, or restoration; except that the expenditure of funds under this section for any such environmental restoration or pollution abatement project shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration project.”
+Subsec. (b)(14), (15). Pub. L. 109–59, §6006(a)(2), added pars. (14) and (15) and struck out former par. (14) which read as follows: “Environmental restoration and pollution abatement projects (including the retrofit or construction of storm water treatment systems) to address water pollution or environmental degradation caused or contributed to by transportation facilities, which projects shall be carried out when the transportation facilities are undergoing reconstruction, rehabilitation, resurfacing, or restoration; except that the expenditure of funds under this section for any such environmental restoration or pollution abatement project shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration project.”
 
 Subsec. (d)(1). Pub. L. 109–59, §1113(b)(1), struck out heading and text of par. (1). Text read as follows: “10 percent of the funds apportioned to a State under section 104(b)(3) for the surface transportation program for a fiscal year shall only be available for carrying out sections 130 and 152 of this title. Of the funds set aside under the preceding sentence, the State shall reserve in such fiscal year an amount of such funds for carrying out each such section which is not less than the amount of funds apportioned to the State in fiscal year 1991 under such section.”
 
@@ -302,7 +302,7 @@ Subsec. (e)(5). Pub. L. 104–59, §316(2), added par. (5).
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title I, §1113(b)(3), Aug. 10, 2005, 119 Stat. 1172, provided that: “Paragraph (1) and paragraph\(2)(A)(ii) of this subsection \[amending this section\] shall take effect October 1, 2005.”
+Pub. L. 109–59, title I, §1113(b)(3), Aug. 10, 2005, 119 Stat. 1172, provided that: “Paragraph (1) and paragraph (2)(A)(ii) of this subsection \[amending this section\] shall take effect October 1, 2005.”
 
 Pub. L. 109–59, title I, §1113(c), Aug. 10, 2005, 119 Stat. 1172, provided that the amendment made by section 1113(c) is effective Oct. 1, 2005.
 

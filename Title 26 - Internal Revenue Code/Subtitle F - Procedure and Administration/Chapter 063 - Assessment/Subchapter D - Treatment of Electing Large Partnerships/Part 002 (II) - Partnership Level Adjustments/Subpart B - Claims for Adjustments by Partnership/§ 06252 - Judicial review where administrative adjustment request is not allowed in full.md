@@ -28,7 +28,7 @@ A petition may be filed under subsection (a) with respect to partnership items f
 
 #### (2) Notice of partnership adjustment after filing but before hearing of petition
 
-&emsp;If the Secretary mails to the partnership a notice of a partnership adjustment for thepartnership taxable year to which the request under section 6251 relates after the filing of a petition under this subsection but before the hearing of such petition, such petition shall be treated as an action brought under section 6247 with respect to such notice, except that subsection (b) of section 6247 shall not apply.
+&emsp;If the Secretary mails to the partnership a notice of a partnership adjustment for the partnership taxable year to which the request under section 6251 relates after the filing of a petition under this subsection but before the hearing of such petition, such petition shall be treated as an action brought under section 6247 with respect to such notice, except that subsection (b) of section 6247 shall not apply.
 
 #### (3) Notice must be before expiration of statute of limitations
 

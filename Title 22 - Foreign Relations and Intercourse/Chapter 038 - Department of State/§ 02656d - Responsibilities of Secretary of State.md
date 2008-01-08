@@ -16,7 +16,7 @@
 
 &emsp;(D) relevant Executive orders,
 
-> with an opportunity to review the proposed agreement or activity to ensure its consistencywith such policies and Executive orders, and to ensure effective interagency coordination.
+> with an opportunity to review the proposed agreement or activity to ensure its consistency with such policies and Executive orders, and to ensure effective interagency coordination.
 
 #### (b) Long-term contracts, grants, to obtain studies, etc., with respect to application of science and technology to foreign policy
 

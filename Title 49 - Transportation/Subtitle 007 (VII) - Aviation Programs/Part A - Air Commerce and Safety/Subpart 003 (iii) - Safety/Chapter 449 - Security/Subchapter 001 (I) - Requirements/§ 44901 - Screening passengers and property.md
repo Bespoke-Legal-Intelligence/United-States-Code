@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Under Secretary of Transportation for Security shall provide forthe screening of all passengers and property, including United States mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. In the case of flights and flight segments originating in the United States, the screening shall take place before boarding and shall be carried out by a Federal Government employee (as defined in section 2105 of title 5, United States Code), except as otherwise provided in section 44919 or 44920 and except for identifying passengers and baggage for screening under the CAPPS and known shipper programs and conducting positive bag-match programs.
+In General.—The Under Secretary of Transportation for Security shall provide for the screening of all passengers and property, including United States mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. In the case of flights and flight segments originating in the United States, the screening shall take place before boarding and shall be carried out by a Federal Government employee (as defined in section 2105 of title 5, United States Code), except as otherwise provided in section 44919 or 44920 and except for identifying passengers and baggage for screening under the CAPPS and known shipper programs and conducting positive bag-match programs.
 
 (b)
 
@@ -32,7 +32,7 @@ Deadline.—
 
 &emsp;&emsp;(A)
 
-In general.—If, in his discretion or at the request of an airport, the Under Secretary of Transportation for Security determines that the Transportation Security Administration is not able to deploy explosive detection systems required to be deployed under paragraph (1) at all airports where explosive detection systems are required by December 31, 2002, then with respect to each airport for which the Under Secretary makes that determination—
+In general.—If, in his discretion or at the request of an airport, the Under Secretary of Transportation for Security determines that the Transportation Security Administration is not able to deploy explosive detection systems required to be deployedunder paragraph (1) at all airports where explosive detection systems are required by December 31, 2002, then with respect to each airport for which the Under Secretary makes that determination—
 
 &emsp;&emsp;&emsp;(i) the Under Secretary shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a detailed plan (which may be submitted in classified form) for the deployment of the number of explosive detection systems at that airport necessary to meet the requirements of paragraph (1) as soon as practicable at that airport but in no event later than December 31, 2003; and
 
@@ -82,6 +82,54 @@ Cargo Deadline.—A system must be in operation to screen, inspect, or otherwise
 
 (g)
 
+Air Cargo on Passenger Aircraft.—
+
+&emsp;(1)
+
+In general.—Not later than 3 years after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Secretary of Homeland Security shall establish a system to screen 100 percent of cargo transported on passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation to ensure the security of all such passenger aircraft carrying cargo.
+
+&emsp;(2)
+
+Minimum standards.—The system referred to in paragraph (1) shall require, at a minimum, that equipment, technology, procedures, personnel, or other methods approved by the Administrator of the Transportation Security Administration, are used to screen cargo carried on passenger aircraft described in paragraph (1) to provide a level of security commensurate with the level of security for the screening of passenger checked baggage as follows:
+
+&emsp;&emsp;(A) 50 percent of such cargo is so screened not later than 18 months after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007.
+
+&emsp;&emsp;(B) 100 percent of such cargo is so screened not later than 3 years after such date of enactment.
+
+&emsp;(3)
+
+Regulations.—
+
+&emsp;&emsp;(A)
+
+Interim final rule.—The Secretary of Homeland Security may issue an interim final rule as a temporary regulation to implement this subsection without regard to the provisions of chapter 5 of title 5.
+
+&emsp;&emsp;(B)
+
+Final rule.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—If the Secretary issues an interim final rule under subparagraph (A), the Secretary shall issue, not later than one year after the effective date of the interim final rule, a final rule as a permanent regulation to implement this subsection in accordance with the provisions of chapter 5 of title 5.
+
+&emsp;&emsp;&emsp;(ii)
+
+Failure to act.—If the Secretary does not issue a final rule in accordance with clause (i) on or before the last day of the one-year period referred to in clause (i), the Secretary shall submit to the Committee on Homeland Security of the House of Representatives, Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate a report explaining why the final rule was not timely issued and providing an estimate of the earliest date on which the final rule will be issued. The Secretary shall submit the first such report within 10 days after such last day and submit a report to the Committees containing updated information every 30 days thereafter until the final rule is issued.
+
+&emsp;&emsp;&emsp;(iii)
+
+Superceding <sup>1</sup> of interim final rule.—The final rule issued in accordance with this subparagraph shall supersede the interim final rule issued under subparagraph (A).
+
+&emsp;(4)
+
+Report.—Not later than 1 year after the date of establishment of the system under paragraph (1), the Secretary shall submit to the Committees referred to in paragraph (3)(B)(ii) a report that describes the system.
+
+&emsp;(5)
+
+Screening defined.—In this subsection the term “screening” means a physical examination or non-intrusive methods of assessing whether cargo poses a threat to transportation security. Methods of screening include x-ray systems, explosives detection systems, explosives trace detection, explosives detection canine teams certified by the Transportation Security Administration, or a physical search together with manifest verification. The Administrator may approve additional methods to ensure that the cargo does not pose a threat to transportation security and to assist in meeting the requirements of this subsection. Such additional cargo screening methods shall not include solely performing a review of information about the contents of cargo or verifying the identity of a shipper of the cargo that is not performed in conjunction with other security methods authorized under this subsection, including whether a known shipper is registered in the known shipper database. Such additional cargo screening methods may include a program to certify the security methods used by shippers pursuant to paragraphs (1) and (2) and alternative screening methods pursuant to exemptions referred to in subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007.
+
+(h)
+
 Deployment of Armed Personnel.—
 
 &emsp;(1)
@@ -92,7 +140,7 @@ In general.—The Under Secretary shall order the deployment of law enforcement 
 
 Minimum requirements.—Except at airports required to enter into agreements under subsection (c), the Under Secretary shall order the deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
 
-(h)
+(i)
 
 Exemptions and Advising Congress on Regulations.—The Under Secretary—
 
@@ -100,7 +148,61 @@ Exemptions and Advising Congress on Regulations.—The Under Secretary—
 
 &emsp;(2) shall advise Congress of a regulation to be prescribed under this section at least 30 days before the effective date of the regulation, unless the Under Secretary decides an emergency exists requiring the regulation to become effective in fewer than 30 days and notifies Congress of that decision.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1204; Pub. L. 107–71, title I, §§101(f)(7), 110(b), Nov. 19, 2001, 115 Stat. 603, 614; Pub. L. 107–296, title IV, §425, Nov. 25, 2002, 116 Stat. 2185.)
+(j)
+
+Blast-Resistant Cargo Containers.—
+
+&emsp;(1)
+
+In general.—Before January 1, 2008, the Administrator of the Transportation Security Administration shall—
+
+&emsp;&emsp;(A) evaluate the results of the blast-resistant cargo container pilot program that was initiated before the date of enactment of this subsection; and
+
+&emsp;&emsp;(B) prepare and distribute through the Aviation Security Advisory Committee to the appropriate Committees of Congress and air carriers a report on that evaluation which may contain nonclassified and classified sections.
+
+&emsp;(2)
+
+Acquisition, maintenance, and replacement.—Upon completion and consistent with the results of the evaluation that paragraph (1)(A) requires, the Administrator shall—
+
+&emsp;&emsp;(A) develop and implement a program, as the Administrator determines appropriate, to acquire, maintain, and replace blast-resistant cargo containers;
+
+&emsp;&emsp;(B) pay for the program; and
+
+&emsp;&emsp;(C) make available blast-resistant cargo containers to air carriers pursuant to paragraph (3).
+
+&emsp;(3)
+
+Distribution to air carriers.—The Administrator shall make available, beginning not later than July 1, 2008, blast-resistant cargo containers to air carriers for use on a risk managed basis as determined by the Administrator.
+
+(k)
+
+General Aviation Airport Security Program.—
+
+&emsp;(1)
+
+In general.—Not later than one year after the date of enactment of this subsection, the Administrator of the Transportation Security Administration shall—
+
+&emsp;&emsp;(A) develop a standardized threat and vulnerability assessment program for general aviation airports (as defined in section 47134(m)); and
+
+&emsp;&emsp;(B) implement a program to perform such assessments on a risk-managed basis at general aviation airports.
+
+&emsp;(2)
+
+Grant program.—Not later than 6 months after the date of enactment of this subsection, the Administrator shall initiate and complete a study of the feasibility of a program, based on a risk-managed approach, to provide grants to operators of general aviation airports (as defined in section 47134(m)) for projects to upgrade security at such airports. If the Administrator determines that such a program is feasible, the Administrator shall establish such a program.
+
+&emsp;(3)
+
+Application to general aviation aircraft.—Not later than 180 days after the date of enactment of this subsection, the Administrator shall develop a risk-based system under which—
+
+&emsp;&emsp;(A) general aviation aircraft, as identified by the Administrator, in coordination with the Administrator of the Federal Aviation Administration, are required to submit passenger information and advance notification requirements for United States Customs and Border Protection before entering United States airspace; and
+
+&emsp;&emsp;(B) such information is checked against appropriate databases.
+
+&emsp;(4)
+
+Authorization of appropriations.—There are authorized to be appropriated to the Administrator of the Transportation Security Administration such sums as may be necessary to carry out paragraphs (2) and (3).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1204; Pub. L. 107–71, title I, §§101(f)(7), 110(b), Nov. 19, 2001, 115 Stat. 603, 614; Pub. L. 107–296, title IV, §425, Nov. 25, 2002, 116 Stat. 2185; Pub. L. 110–53, title XVI, §§1602(a), 1609, 1617, Aug. 3, 2007, 121 Stat. 477, 484, 488.)
 
 Historical and Revision Notes
 
@@ -146,7 +248,17 @@ The date of enactment of the Aviation and Transportation Security Act, referred 
 
 The date of enactment of this Act, referred to in subsec. (d)(3), probably means the date of enactment of Pub. L. 107–296, which enacted subsec. (d)(2), (3) of this section and was approved Nov. 25, 2002.
 
+The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, such date of enactment, and the date of enactment of this subsection, referred to in subsecs. (g)(1), (2), (j)(1)(A), and (k)(1)–(3), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
+
+Subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (g)(5), is section 1602(b) of Pub. L. 110–53, title XVI, Aug. 3, 2007, 121 Stat. 479, which is not classified to the Code.
+
 #### Amendments
+
+2007—Subsecs. (g) to (i). Pub. L. 110–53, §1602(a), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+
+Subsec. (j). Pub. L. 110–53, §1609, added subsec. (j).
+
+Subsec. (k). Pub. L. 110–53, §1617, added subsec. (k).
 
 2002—Subsec. (d)(2), (3). Pub. L. 107–296 added pars. (2) and (3).
 
@@ -172,7 +284,7 @@ Pub. L. 107–71, title I, §141, Nov. 19, 2001, 115 Stat. 643, provided that:
 
 “(a)
 
-Transfer of Assets and Personnel.—Except as otherwise provided in this Act \[see Tables for classification\], those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Transportation Security Administration by this Act shall be transferred to the Transportation Security Administration for use in connection with the functions transferred. Unexpended balances of appropriations, allocations, and other funds made available to the Federal Aviation Administration to carry out such functionsshall also be transferred to the Transportation Security Administration for use in connection with the functions transferred.
+Transfer of Assets and Personnel.—Except as otherwise provided in this Act \[see Tables for classification\], those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Transportation Security Administration by this Act shall be transferred to the Transportation Security Administration for use in connection with the functions transferred. Unexpended balances of appropriations, allocations, and other funds made available to the Federal Aviation Administration to carry out such functions shall also be transferred to the Transportation Security Administration for use in connection with the functions transferred.
 
 “(b)
 
@@ -256,11 +368,35 @@ Schedule.—The Under Secretary may enter into an agreement under subparagraph (
 
 “(4)
 
-Transfer of ownership.—In recognition of the assumption of the financial costs of security screening of passengers and property at airports, and as soon as practical after the date of enactment of this Act \[Nov. 19, 2001\], air carriers may enter into agreements with the Under Secretary to transfer the ownership, at no cost to the United States Government, of any personal property, equipment, supplies, or other material associated with such screening, regardless of the source of funds used to acquire the property, that the Secretary determines to be useful for the performance of security screening of passengers and property at airports.
+Transfer of ownership.—In recognition of the assumption of the financial costs of security screening of passengers and property at airports, and as soon as practical after the date of enactment of this Act \[Nov.19, 2001\], air carriers may enter into agreements with the Under Secretary to transfer the ownership, at no cost to the United States Government, of any personal property, equipment, supplies, or other material associated with such screening, regardless of the source of funds used to acquire the property, that the Secretary determines to be useful for the performance of security screening of passengers and property at airports.
 
 “(5)
 
 Performance of under secretary's functions during interim period.—Until the Under Secretary takes office, the functions of the Under Secretary that relate to aviation security may be carried out by the Secretary or the Secretary's designee.”
+
+#### Protection of Passenger Planes From Explosives
+
+Pub. L. 110–53, title XVI, §1610, Aug. 3, 2007, 121 Stat. 484, provided that:
+
+“(a)
+
+Technology Research and Pilot Projects.—
+
+&emsp;“(1)
+
+Research and development.—The Secretary of Homeland Security, in consultation with the Administrator of the Transportation Security Administration, shall expedite research and development programs for technologies that can disrupt or prevent an explosive device from being introduced onto a passenger plane or from damaging a passenger plane while in flight or on the ground. The research shall be used in support of implementation of section 44901 of title 49, United States Code.
+
+&emsp;“(2)
+
+Pilot projects.—The Secretary, in conjunction with the Secretary of Transportation, shall establish a grant program to fund pilot projects—
+
+&emsp;&emsp;“(A) to deploy technologies described in paragraph (1); and
+
+&emsp;&emsp;“(B) to test technologies to expedite the recovery, development, and analysis of information from aircraft accidents to determine the cause of the accident, including deployable flight deck and voice recorders and remote location recording devices.
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Homeland Security for fiscal year 2008 such sums as may be necessary to carry out this section. Such sums shall remain available until expended.”
 
 #### Standards for Increasing the Use of Explosive Detection Equipment
 
@@ -300,35 +436,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 #### Pilot Program To Evaluate Use of Blast Resistant Cargo and Baggage Containers
 
-Pub. L. 108–458, title IV, §4051, Dec. 17, 2004, 118 Stat. 3728, provided that:
-
-“(a)
-
-In General.—Beginning not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the Assistant Secretary of Homeland Security (Transportation Security Administration) shall carry out a pilot program to evaluate the use of blast-resistant containers for cargo and baggage on passenger aircraft to minimize the potential effects of detonation of an explosive device.
-
-“(b)
-
-Incentives for Participation in Pilot Program.—
-
-&emsp;“(1)
-
-In general.—As part of the pilot program, the Assistant Secretary shall provide incentives to air carriers to volunteer to test the use of blast-resistant containers for cargo and baggage on passenger aircraft.
-
-&emsp;“(2)
-
-Applications.—To volunteer to participate in the incentive program, an air carrier shall submit to the Assistant Secretary an application that is in such form and contains such information as the Assistant Secretary requires.
-
-&emsp;“(3)
-
-Types of incentives.—Incentives provided by the Assistant Secretary to air carriers that volunteer to participate in the pilot program shall include the use of, and financial assistance to cover increased costs to the carriers associated with the use and maintenance of, blast-resistant containers, including increased fuel costs.
-
-“(c)
-
-Technological Improvements.—The Secretary of Homeland Security, in cooperation with the Secretary of Transportation, shall support efforts to explore alternative technologies for minimizing the potential effects of detonation of an explosive device on cargo and passenger aircraft.
-
-“(d)
-
-Authorization of Appropriations.—There is authorized to be appropriated to carry out subsections (a) and (b) $2,000,000. Such sum shall remain available until expended.”
+Pub. L. 108–458, title IV, §4051, Dec. 17, 2004, 118 Stat. 3728, directed the Assistant Secretary of Homeland Security (Transportation Security Administration), beginning not later than 180 days after Dec. 17, 2004, to carry out a pilot program to evaluate the use of blast-resistant containers for cargo and baggage on passenger aircraft to minimize the potential effects of detonation of an explosive device, and directed the Assistant Secretary to provide incentives to air carriers to volunteer to participate in such program.
 
 #### Air Cargo Security
 
@@ -368,11 +476,11 @@ Advanced Cargo Security Grants.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall establish and carry out a program to issue competitive grants to encourage the development of advanced air cargo security technology, including use of innovative financing or other means of funding such activities. The Secretary may make available funding for this purpose from amounts appropriated pursuant to subsection (c).
+In general.—The Secretary shall establish and carry out a program to issue competitive grants toencourage the development of advanced air cargo security technology, including use of innovative financing or other means of funding such activities. The Secretary may make available funding for this purpose from amounts appropriated pursuant to subsection (c).
 
 &emsp;“(2)
 
-Eligibility criteria, etc.—The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and providefor such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible.”
+Eligibility criteria, etc.—The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and provide for such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible.”
 
 #### Identification Standards
 
@@ -488,7 +596,7 @@ Motion to proceed.—A motion in the Senate to proceed to the consideration of a
 
 &emsp;&emsp;“(B)
 
-Debate on resolution.—Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not morethan 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
+Debate on resolution.—Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
 
 &emsp;&emsp;“(C)
 
@@ -578,7 +686,7 @@ Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: 
 
 #### Research and Development of Improved Airport Security Systems
 
-Pub. L. 100–649, §2(d), Nov. 10, 1988, 102 Stat. 3817, provided that: “The Administrator of the Federal AviationAdministration shall conduct such research and development as may be necessary to improve the effectiveness of airport security metal detectors and airport security x-ray systems in detecting firearms that, during the 10-year period beginning on the effective date of this Act \[see Effective Date of 1988 Amendment; Sunset Provision note set out under section 922 of Title 18, Crimes and Criminal Procedure\], are subject to the prohibitions of section 922(p) of title 18, United States Code.”
+Pub. L. 100–649, §2(d), Nov. 10, 1988, 102 Stat. 3817, provided that: “The Administrator of the Federal Aviation Administration shall conduct such research and development as may be necessary to improve the effectiveness of airport security metal detectors and airport security x-ray systems in detecting firearms that, during the 10-year period beginning on the effective date of this Act \[see Effective Date of 1988 Amendment; Sunset Provision note set out under section 922 of Title 18, Crimes and Criminal Procedure\], are subject to the prohibitions of section 922(p) of title 18, United States Code.”
 
 #### Definitions of Terms in Title IV of Pub. L. 108–458
 
@@ -599,4 +707,6 @@ Secure area of an airport.—The term ‘secure area of an airport’ means the 
 #### Definitions of Terms in Pub. L. 107–71
 
 For definitions of terms used in sections 101(g) and 110(c), (d), of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

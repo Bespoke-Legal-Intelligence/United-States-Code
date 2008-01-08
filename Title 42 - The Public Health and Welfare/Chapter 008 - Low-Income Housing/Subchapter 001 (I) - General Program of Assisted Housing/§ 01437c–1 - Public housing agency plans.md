@@ -236,7 +236,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (1) Initial submission
 
-&emsp;Each public housing agency shall submit the initial plan required by this section, and any amendment or modification to the initial plan, to the Secretary at such time and in such form as the Secretary shall require.
+&emsp;Each public housing agency shall submit the initial plan required by this section, and anyamendment or modification to the initial plan, to the Secretary at such time and in such form as the Secretary shall require.
 
 #### (2) Annual submission
 
@@ -344,7 +344,7 @@ Interim rule.—Not later than 120 days after the date of the enactment of this 
 
 “(2)
 
-Final regulations.—Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], theSecretary shall issue final regulations implementing section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section).
+Final regulations.—Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue final regulations implementing section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section).
 
 “(3)
 

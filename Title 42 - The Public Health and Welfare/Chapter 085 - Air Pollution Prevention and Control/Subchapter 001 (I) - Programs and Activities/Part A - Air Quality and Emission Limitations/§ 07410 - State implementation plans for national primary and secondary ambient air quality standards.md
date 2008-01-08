@@ -108,7 +108,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (2)(A) Repealed. Pub. L. 101–549, title I, §101(d)(3)(A), Nov. 15, 1990, 104 Stat. 2409.
 
-(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicable implementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administrator from approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
+(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicable implementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administratorfrom approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
 
 (C) Repealed. Pub. L. 101–549, title I, §101(d)(3)(B), Nov. 15, 1990, 104 Stat. 2409.
 
@@ -218,7 +218,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (4) Conditional approval
 
-&emsp;The Administrator may approve a plan revision based on a commitment of the State toadopt specific enforceable measures by a date certain, but not later than 1 year after the date of approval of the plan revision. Any such conditional approval shall be treated as a disapproval if the State fails to comply with such commitment.
+&emsp;The Administrator may approve a plan revision based on a commitment of the State to adopt specific enforceable measures by a date certain, but not later than 1 year after the date of approval of the plan revision. Any such conditional approval shall be treated as a disapproval if the State fails to comply with such commitment.
 
 #### (5) Calls for plan revisions
 
@@ -240,7 +240,7 @@ The Administrator may apply any of the sanctions listed in section 7509(b) of th
 
 #### (1) Existing plan provisions
 
-&emsp;Any provision of any applicable implementation plan that was approved or promulgated by the Administrator pursuant to this section as in effect before November 15, 1990, shall remain in effect as part of such applicable implementation plan, except to the extent that a revision to such provision is approved or promulgated by the Administrator pursuant to this chapter.
+&emsp;Any provision of any applicable implementation plan that was approved or promulgated bythe Administrator pursuant to this section as in effect before November 15, 1990, shall remain in effect as part of such applicable implementation plan, except to the extent that a revision to such provision is approved or promulgated by the Administrator pursuant to this chapter.
 
 #### (2) Attainment dates
 
@@ -254,7 +254,7 @@ The Administrator may apply any of the sanctions listed in section 7509(b) of th
 
 #### (3) Retention of construction moratorium in certain areas
 
-&emsp;In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) of this section (as in effect immediately before November 15, 1990) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D of this subchapter (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
+&emsp;In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) of this section (as in effect immediately before November 15, 1990) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section 7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D of this subchapter (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
 
 #### (<i>o</i>) Indian tribes
 
@@ -386,7 +386,7 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an EffectiveDate of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Implementation Plans Approved and In Effect Prior to Aug. 7, 1977
 

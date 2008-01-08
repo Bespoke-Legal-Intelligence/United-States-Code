@@ -118,7 +118,7 @@ Regions.—At least 1 sex offender management program under paragraph (1)(A), an
 
 &emsp;(3)
 
-Authorization of appropriations.—There are authorized to be appropriated to the Bureau of Prisons for each fiscal year suchsums as may be necessary to carry out this subsection.
+Authorization of appropriations.—There are authorized to be appropriated to the Bureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, §622, July 27, 2006, 120 Stat. 634.)
 

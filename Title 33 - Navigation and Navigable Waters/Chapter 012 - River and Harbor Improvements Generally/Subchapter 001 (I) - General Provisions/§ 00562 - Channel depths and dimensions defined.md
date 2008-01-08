@@ -10,7 +10,7 @@ Section is from act Mar. 4, 1915, popularly known as the “Rivers and Harbors A
 
 #### Prior Provisions
 
-Section superseded act Mar. 4, 1913, ch. 144, §9, 37 Stat. 827, which read as follows: “In the preparation of projects under this and subsequent river and harbor acts, unless otherwise expressed, the channel depths referred to shall be understood to signify the depth at mean lower low water in tidal waters, and the mean depth during the month of lowest water in the navigation season in rivers and nontidal channels, and the channel dimensions specified shall be understood to admit of such increase at the entrances, bends, sidings, and turning places as may be necessary to allow of the free movement of boats.”
+Section superseded act Mar. 4, 1913, ch. 144, §9, 37 Stat. 827, which read as follows: “In the preparation of projects under this and subsequent river and harbor acts, unless otherwise expressed, the channel depths referred to shall be understood to signify the depth atmean lower low water in tidal waters, and the mean depth during the month of lowest water in the navigation season in rivers and nontidal channels, and the channel dimensions specified shall be understood to admit of such increase at the entrances, bends, sidings, and turning places as may be necessary to allow of the free movement of boats.”
 
 #### Amendments
 

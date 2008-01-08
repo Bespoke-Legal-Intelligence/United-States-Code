@@ -40,7 +40,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(11) the term “negligent treatment” means the failure to provide, for reasons other than poverty, adequate food, clothing, shelter, or medical care so as to seriously endanger the physical health of the child; and
 
-&emsp;(12) the term “child abuse” does not include discipline administered by a parent or legalguardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
+&emsp;(12) the term “child abuse” does not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
 
 (b)
 
@@ -62,7 +62,7 @@ Child's live testimony by 2-way closed circuit television.—
 
 &emsp;&emsp;&emsp;(iv) Conduct by defendant or defense counsel causes the child to be unable to continue testifying.
 
-&emsp;&emsp;(C) The court shall support a ruling on the child's inability to testify with findings on the record. In determining whether the impact on an individual child of one or more of the factors described in subparagraph (B) is so substantial as to justify an order under subparagraph (A), the court may question the minor in chambers, or at some other comfortable place other than the courtroom, on the record for a reasonable period of time with the child attendant, the prosecutor, the child's attorney, the guardian ad litem, and the defense counsel present.
+&emsp;&emsp;(C) The court shall support a ruling on the child's inability to testify with findings onthe record. In determining whether the impact on an individual child of one or more of the factors described in subparagraph (B) is so substantial as to justify an order under subparagraph (A), the court may question the minor in chambers, or at some other comfortable place other than the courtroom, on the record for a reasonable period of time with the child attendant, the prosecutor, the child's attorney, the guardian ad litem, and the defense counsel present.
 
 &emsp;&emsp;(D) If the court orders the taking of testimony by television, the attorney for the Government and the attorney for the defendant not including an attorney pro se for a party shall be present in a room outside the courtroom with the child and the child shall be subjected to direct and cross-examination. The only other persons who may be permitted in the room with the child during the child's testimony are—
 
@@ -108,7 +108,7 @@ Videotaped deposition of child.—(A) In a proceeding involving an alleged offen
 
 > &emsp;The defendant shall be afforded the rights applicable to defendants during trial, including the right to an attorney, the right to be confronted with the witness against the defendant, and the right to cross-examine the child.
 
-&emsp;(iv) If the preliminary finding of inability under clause (i) is based on evidence that the child is unable to testify in the physical presence of the defendant, the court may order that the defendant, including a defendant represented pro se, be excluded from the room inwhich the deposition is conducted. If the court orders that the defendant be excluded from the deposition room, the court shall order that 2-way closed circuit television equipment relay the defendant's image into the room in which the child is testifying, and the child's testimony into the room in which the defendant is viewing the proceeding, and that the defendant be provided with a means of private, contemporaneous communication with the defendant's attorney during the deposition.
+&emsp;(iv) If the preliminary finding of inability under clause (i) is based on evidence that the child is unable to testify in the physical presence of the defendant, the court may order that the defendant, including a defendant represented pro se, be excluded from the room in which the deposition is conducted. If the court orders that the defendant be excluded from the deposition room, the court shall order that 2-way closed circuit television equipment relay the defendant's image into the room in which the child is testifying, and the child's testimony into the room in which the defendant is viewing the proceeding, and that the defendant be provided with a means of private, contemporaneous communication with the defendant's attorney during the deposition.
 
 &emsp;(v)
 
@@ -118,7 +118,7 @@ Handling of videotape.—The complete record of the examination of the child, in
 
 &emsp;(D) Upon timely receipt of notice that new evidence has been discovered after the original videotaping and before or during trial, the court, for good cause shown, may order an additional videotaped deposition. The testimony of the child shall be restricted to the matters specified by the court as the basis for granting the order.
 
-&emsp;(E) In connection with the taking of a videotaped deposition under this paragraph, the court may enter a protective order for the purpose of protecting the privacy of the child.
+&emsp;(E) In connection with the taking of a videotaped deposition under this paragraph, thecourt may enter a protective order for the purpose of protecting the privacy of the child.
 
 &emsp;(F) The videotape of a deposition taken under this paragraph shall be destroyed 5 years after the date on which the trial court entered its judgment, but not before a final judgment is entered on appeal including Supreme Court review. The videotape shall become part of the court record and be kept by the court until it is destroyed.
 
@@ -196,7 +196,7 @@ Confidentiality of information.—(A) A person acting in a capacity described in
 
 &emsp;(2)
 
-Filing under seal.—All papers to be filed in court that disclose the name of or any other information concerning a child shall be filed under seal without necessity of obtaining acourt order. The person who makes the filing shall submit to the clerk of the court—
+Filing under seal.—All papers to be filed in court that disclose the name of or any other information concerning a child shall be filed under seal without necessity of obtaining a court order. The person who makes the filing shall submit to the clerk of the court—
 
 &emsp;&emsp;(A) the complete paper to be kept under seal; and
 
@@ -218,7 +218,7 @@ Disclosure of information.—This subsection does not prohibit disclosure of the
 
 (e)
 
-Closing the Courtroom.—When a child testifies the court may order the exclusion from the courtroom of all persons, including members of the press, who do not have a direct interest in the case. Such an order may be made if the court determines on the record that requiring the child to testify in open court would cause substantial psychological harm to the child or would result in the child's inability to effectively communicate. Such an order shall be narrowly tailored to serve the Government's specific compelling interest.
+Closing the Courtroom.—When a child testifies the court may order the exclusion fromthe courtroom of all persons, including members of the press, who do not have a direct interest in the case. Such an order may be made if the court determines on the record that requiring the child to testify in open court would cause substantial psychological harm to the child or would result in the child's inability to effectively communicate. Such an order shall be narrowly tailored to serve the Government's specific compelling interest.
 
 (f)
 
@@ -272,7 +272,7 @@ Adult Attendant.—A child testifying at or attending a judicial proceeding shal
 
 (j)
 
-Speedy Trial.—In a proceeding in which a child is called to give testimony, on motion by the attorney for the Government or a guardian ad litem, or on its own motion, the court may designate the case as being of special public importance. In cases so designated, the court shall, consistent with these rules, expedite the proceeding and ensure that it takes precedence over any other. The court shall ensure a speedy trial in order to minimize the length of time the child must endure the stress of involvement with the criminal process. When deciding whether to grant a continuance, the court shall take into consideration the age of the child and the potential adverse impact the delay may have on the child's well-being. The court shall make written findings of fact and conclusions of law when granting a continuance in cases involving a child.
+Speedy Trial.—In a proceeding in which a child is called to give testimony, on motion by the attorney for the Government or a guardian ad litem, or on its own motion, the court may designate the case as being of special public importance. In cases so designated, the court shall, consistent with these rules, expedite the proceeding and ensure that it takes precedence over any other. The court shall ensure a speedy trial in order to minimize the length of time the child must endure the stress of involvement with the criminal process. When deciding whether to grant a continuance, the court shall take into consideration the age of the child and the potential adverse impact the delay may have on the child's well-being. The court shall make written findings of fact and conclusions of law whengranting a continuance in cases involving a child.
 
 (k)
 

@@ -12,11 +12,69 @@ Section was formerly classified to section 156 of Title 5 prior to the general r
 
 #### Delegation of Functions
 
-Functions of President respecting certain facilities constructed and maintained on United States bordersdelegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under section 301 of Title 3, The President.
+Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under section 301 of Title 3, The President.
 
 #### Presidential Directive
 
 National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, formerly set out as section 403 of Title 50, War and National Defense.
+
+#### Strategy for the United States Relationship With Saudi Arabia
+
+Pub. L. 110–53, title XX, §2043, Aug. 3, 2007, 121 Stat. 524, provided that:
+
+“(a)
+
+Congressional Findings.—Congress finds that:
+
+&emsp;“(1) The National Commission on Terrorist Attacks Upon the United States concluded that the Kingdom of Saudi Arabia has ‘been a problematic ally in combating Islamic extremism. At the level of high policy, Saudi Arabia's leaders cooperated with American diplomatic initiatives aimed at the Taliban or Pakistan before 9/11. At the same time, Saudi Arabia's society was a place where al Qaeda raised money directly from individuals and through charities. It was the society that produced 15 of the 19 hijackers.’.
+
+&emsp;“(2) Saudi Arabia has an uneven record in the fight against terrorism, especially with respect to terrorist financing, support for radical madrassas, a lack of political outlets for its citizens, and restrictions on religious pluralism, that poses a threat to the security of the United States, the international community, and Saudi Arabia itself.
+
+&emsp;“(3) The National Commission on Terrorist Attacks Upon the United States concluded that the ‘problems in the U.S.-Saudi relationship must be confronted, openly’. It recommended that the two countries build a relationship that includes a ‘shared commitment to political and economic reform . . . and a shared interest in greater tolerance and cultural respect, translating into a commitment to fight the violent extremists who foment hatred’.
+
+&emsp;“(4) The United States has a national security interest in working with the Government of Saudi Arabia to combat international terrorists that operate within that country or that operate outside Saudi Arabia with the support of citizens of Saudi Arabia.
+
+&emsp;“(5) The United States and Saudi Arabia established a Strategic Dialogue in 2005, which provides a framework for the two countries to discuss a range of bilateral issues at high levels, including counterterrorism policy and political and economic reforms.
+
+&emsp;“(6) It is in the national security interest of the United States to support the Government of Saudi Arabia in undertaking a number of political and economic reforms, including increasing anti-terrorism operations conducted by law enforcement agencies, providing more political and religious rights to its citizens, increasing the rights of women, engaging in comprehensive educational reform, enhancing monitoring of charitable organizations, and promulgating and enforcing domestic laws and regulation on terrorist financing.
+
+“(b)
+
+Statement of Policy.—It is the policy of the United States—
+
+&emsp;“(1) to engage with the Government of Saudi Arabia to openly confront the issue of terrorism, as well as other problematic issues such as the lack of political freedoms;
+
+&emsp;“(2) to enhance counterterrorism cooperation with the Government of Saudi Arabia; and
+
+&emsp;“(3) to support the efforts of the Government of Saudi Arabia to make political, economic, and social reforms, including greater religious freedom, throughout the country.
+
+“(c)
+
+Progress in Counterterrorism and Other Cooperation.—
+
+&emsp;“(1)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], the President shall transmit to the appropriate congressional committees a report that—
+
+&emsp;&emsp;“(A) describes the long-term strategy of the United States—
+
+&emsp;&emsp;&emsp;“(i) to engage with the Government of Saudi Arabia to facilitate political, economic, and social reforms, including greater religious freedom, that will enhance the ability of the Government of Saudi Arabia to combat international terrorism; and
+
+&emsp;&emsp;&emsp;“(ii) to work with the Government of Saudi Arabia to combat terrorism, including through effective measures to prevent and prohibit the financing of terrorists by Saudi institutions and citizens; and
+
+&emsp;&emsp;“(B) provides an assessment of the progress made by Saudi Arabia since 2001 on the matters described in subparagraph (A), including—
+
+&emsp;&emsp;&emsp;“(i) whether Saudi Arabia has become a party to the International Convention for the Suppression of the Financing of Terrorism; and
+
+&emsp;&emsp;&emsp;“(ii) the activities and authority of the Saudi Nongovernmental National Commission for Relief and Charity Work Abroad.
+
+&emsp;“(2)
+
+Form.—The report required by paragraph (1) shall be transmitted in unclassified form, but may include a classified annex, if necessary.”
+
+\[For definition of “appropriate congressional committees” as used in section 2043 of Pub. L. 110–53, set out above, see section 2002 of Pub. L. 110–53, set out as a note under section 2151 of this title.\]
+
+\[For assignment of functions of President under section 2043(c)(1) of Pub. L. 110–53, set out above, see Memorandum of President of the United States, Sept. 28, 2007, 72 F.R. 56871, set out as a note under section 2228 of this title.\]
 
 #### Findings
 
@@ -94,7 +152,7 @@ International Agreements To Track and Curtail Terrorist Travel.—
 
 &emsp;“(1)
 
-International agreement on lost, stolen, or falsified documents.—The President should lead efforts to track and curtail the travel of terrorists bysupporting the drafting, adoption, and implementation of international agreements, and relevant United Nations Security Council resolutions to track and stop international travel by terrorists and other criminals through the use of lost, stolen, or falsified documents to augment United Nations and other international anti-terrorism efforts.
+International agreement on lost, stolen, or falsified documents.—The President should lead efforts to track and curtail the travel of terrorists by supporting the drafting, adoption, and implementation of international agreements, and relevant United Nations Security Council resolutions to track and stop international travel by terrorists and other criminals through the use of lost, stolen, or falsified documents to augment United Nations and other international anti-terrorism efforts.
 
 &emsp;“(2)
 
@@ -156,7 +214,7 @@ In general.—Not later than 1 year after the date of enactment of this Act \[De
 
 &emsp;“(2)
 
-Termination.—Paragraph (1) shall cease to be effective when the President certifies to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate that the goals described in subsection (b) have been fully achieved.”
+Termination.—Paragraph (1) shall cease to be effective when the President certifies to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate that the goals described in subsection (b) have been fully achieved.”
 
 \[Functions of President under subsec. (c) of section 7204 of Pub. L. 108–458, set out above, assigned to Secretary of State by section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of title 3, The President.\]
 
@@ -228,7 +286,7 @@ In general.—There are authorized to be appropriated to the Trade and Developme
 
 &emsp;&emsp;“(B)
 
-Availability.—Amounts appropriated pursuant to the authorization of appropriations undersubparagraph (A) are authorized to remain available until expended.
+Availability.—Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended.
 
 “(c)
 
@@ -368,7 +426,7 @@ Monitoring of Developments.—The Commission should monitor developments in coun
 
 “(c)
 
-Policy Review and Recommendations.—In carrying out this section, the Commission should evaluate United States Government policies toward countries of the Asia-Pacific region and recommend options for policies of the United States Government with respect to such countries, with a particular emphasis on countries that are of importance to the foreign policy, economic, and military interests of the United States.
+Policy Review and Recommendations.—In carrying out this section, the Commission should evaluateUnited States Government policies toward countries of the Asia-Pacific region and recommend options for policies of the United States Government with respect to such countries, with a particular emphasis on countries that are of importance to the foreign policy, economic, and military interests of the United States.
 
 “(d)
 
@@ -402,7 +460,7 @@ Appointment.—
 
 In general.—The individuals referred to in subsection (a) shall be appointed—
 
-&emsp;&emsp;“(A) by the President, after consultation with the Speaker and Minority Leader of the House of Representatives, the Chairman and ranking member of the Committee on International Relations of the House of Representatives, the Majority Leader and Minority Leader of the Senate, and the Chairman and ranking member of the Committee on Foreign Relations of the Senate; and
+&emsp;&emsp;“(A) by the President, after consultation with the Speaker and Minority Leader of the House of Representatives, the Chairman and ranking member of the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, the Majority Leader and Minority Leader of the Senate, and the Chairman and ranking member of the Committee on Foreign Relations of the Senate; and
 
 &emsp;&emsp;“(B) by and with the advice and consent of the Senate.
 
@@ -572,7 +630,7 @@ Findings.—Congress finds that administrative and technical personnel posted to
 
 “(b)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of State should submit a report to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] concerning the extent to which administrative and technical personnel posted to United States missions abroad who do not have diplomatic status suffer financial disadvantages from their lack of such status, including proposals to alleviate such disadvantages.”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of State should submit a report to the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\] concerning the extent to which administrative and technical personnel posted to United States missions abroad who do not have diplomatic status suffer financial disadvantages from their lack of such status, including proposals to alleviate such disadvantages.”
 
 #### Prisoner Information Registry for the People's Republic of China
 
@@ -672,7 +730,7 @@ Establishment.—(1) None of the funds authorized to be appropriated by this Act
 
 “(b)
 
-Purpose.—The purpose of the Office shall be to support, through organizations and individuals with whom the Secretary of State may contract to carry outthe operations of the Office, as appropriate, efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979, including—
+Purpose.—The purpose of the Office shall be to support, through organizations and individuals with whom the Secretary of State may contract to carry out the operations of the Office, as appropriate, efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979, including—
 
 &emsp;“(1) to investigate crimes against humanity committed by national Khmer Rouge leaders during that period;
 
@@ -688,7 +746,7 @@ Contracting Authority.—The Secretary of State shall, subject to the availabili
 
 “(d)
 
-Notification to Congress.—The Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives shall be notified of any exercise of the authority of section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\] with respect to the Office or any of its programs, projects, or activities at least 15 days in advance in accordance with procedures applicable to notifications under that section.
+Notification to Congress.—The Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives shall be notified of any exercise of the authority of section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\] with respect to the Office or any of its programs, projects, or activities at least 15 days in advance in accordance with procedures applicable to notifications under that section.
 
 #### “SEC. 574. REPORTING REQUIREMENT.
 
@@ -702,7 +760,7 @@ In General.—Beginning 6 months after the date of enactment of this Act \[Apr. 
 
 “(b)
 
-Definition.—For purposes of this section, the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives.”
+Definition.—For purposes of this section, the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.”
 
 \[Functions of President under section 574 of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
 
@@ -816,7 +874,7 @@ Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: “That the Congress re
 
 #### United States Diplomatic Relations With the Vatican
 
-Pub. L. 98–164, title I, §134, Nov. 22, 1983, 97 Stat. 1029, provided that: “In order to provide for the establishment of United States diplomatic relations with the Vatican, the Act entitled ‘An Act making Appropriations for the Consular and Diplomatic Expenses of theGovernment for the Year ending thirtieth June, eighteen hundred and sixty-eight, and for other purposes’, approved February 28, 1867, is amended by repealing the following sentence (14 Stat. 413): ‘And no money hereby or otherwise appropriated shall be paid for the support of an American legation at Rome, from and after the thirtieth day of June, eighteen hundred and sixty-seven.’.”
+Pub. L. 98–164, title I, §134, Nov. 22, 1983, 97 Stat. 1029, provided that: “In order to provide for the establishment of United States diplomatic relations with the Vatican, the Act entitled ‘An Act making Appropriations for the Consular and Diplomatic Expenses of the Government for the Year ending thirtieth June, eighteen hundred and sixty-eight, and for other purposes’, approved February 28, 1867, is amended by repealing the following sentence (14 Stat. 413): ‘And no money hereby or otherwise appropriated shall be paid for the support of an American legation at Rome, from and after the thirtieth day of June, eighteen hundred and sixty-seven.’.”
 
 #### Reopening Certain United States Consulates
 

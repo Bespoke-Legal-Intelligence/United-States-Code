@@ -148,7 +148,7 @@ In determining whether to designate any country a beneficiary country under this
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-Subsec. (h) of section 2291 of title 22, referred to in subsec. (d)(11), was repealed by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. For successor provisions to former subsec. (h), see sections 2291j and 2291k of Title 22, Foreign Relations and Intercourse.
+Subsec. (h) of section 2291 of title 22, referred to in subsec. (d)(11), was repealed by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. For successor provisions toformer subsec. (h), see sections 2291j and 2291k of Title 22, Foreign Relations and Intercourse.
 
 This chapter, referred to in subsec. (d)(12), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 102–182 which enacted this chapter, to reflect the probable intent of Congress.
 

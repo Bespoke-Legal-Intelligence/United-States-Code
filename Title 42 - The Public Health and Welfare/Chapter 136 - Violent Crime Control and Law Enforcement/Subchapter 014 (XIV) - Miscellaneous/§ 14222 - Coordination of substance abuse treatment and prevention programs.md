@@ -1,6 +1,6 @@
 ### §14222. Coordination of substance abuse treatment and prevention programs
 
-The Attorney General shall consult with the Secretary of the Department of Health andHuman Services in establishing and carrying out the substance abuse treatment and prevention components of the programs authorized under this Act, to assure coordination of programs, eliminate duplication of efforts and enhance the effectiveness of such services.
+The Attorney General shall consult with the Secretary of the Department of Health and Human Services in establishing and carrying out the substance abuse treatment and prevention components of the programs authorized under this Act, to assure coordination of programs, eliminate duplication of efforts and enhance the effectiveness of such services.
 
 (Pub. L. 103–322, title XXXII, §320401, Sept. 13, 1994, 108 Stat. 2114.)
 

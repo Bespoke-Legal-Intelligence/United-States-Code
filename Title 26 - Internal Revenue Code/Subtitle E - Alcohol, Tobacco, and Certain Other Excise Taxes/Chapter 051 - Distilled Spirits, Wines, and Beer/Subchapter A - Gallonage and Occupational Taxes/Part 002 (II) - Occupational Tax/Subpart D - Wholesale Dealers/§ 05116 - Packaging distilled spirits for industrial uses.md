@@ -12,7 +12,7 @@ The Secretary may, at his discretion and under such regulations as he may prescr
 
 #### Amendment and Redesignation of Section
 
-<i>Pub. L. 109–59, title XI, §11125(b)(11), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (a) of this section is amended by inserting “(as</i><i>defined in section 5121(c))” after “dealer” and this section is redesignated section 5131 and transferred and inserted after the section analysis of subpart D of this part.</i>
+<i>Pub. L. 109–59, title XI, §11125(b)(11), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (a) of this section is amended by inserting “(as defined in section 5121(c))” after “dealer” and this section is redesignated section 5131 and transferred and inserted after the section analysis of subpart D of this part.</i>
 
 #### Prior Provisions
 
@@ -28,7 +28,7 @@ A prior section 5116, act Aug. 16, 1954, ch. 736, 68A Stat. 620, consisted of pr
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
+Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods beforesuch date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
 
 #### Effective Date of 1984 Amendment
 

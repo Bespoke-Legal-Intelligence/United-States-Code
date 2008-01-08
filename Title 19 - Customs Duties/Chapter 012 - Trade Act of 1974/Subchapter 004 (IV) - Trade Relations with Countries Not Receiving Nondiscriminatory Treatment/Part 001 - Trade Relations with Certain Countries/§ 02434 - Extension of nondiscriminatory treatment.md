@@ -120,7 +120,7 @@ Pub. L. 109–432, div. D, title IV, §§4001, 4002, Dec. 20, 2006, 120 Stat. 31
 
 &emsp;“(5) Vietnam has undertaken significant market-based economic reforms, including the reduction of government subsidies, tariffs and nontariff barriers, and extensive legal reform. These measures have dramatically improved Vietnam's business and investment climate.
 
-&emsp;“(6) Vietnam has completed its negotiations to join the World Trade Organization (WTO). On May 31, 2006, the United States and Vietnam signed a comprehensive bilateral agreement providing greater market access for goods and services and other trade liberalizing commitments. On November 7, 2006, the WTO General Council approved Vietnam's membership.Vietnam's National Assembly ratified Vietnam's WTO accession commitments on November 28, 2006, and Vietnam will become the 150th Member of the WTO 30 days thereafter.
+&emsp;“(6) Vietnam has completed its negotiations to join the World Trade Organization (WTO). On May 31, 2006, the United States and Vietnam signed a comprehensive bilateral agreement providing greater market access for goods and services and other trade liberalizing commitments. On November 7, 2006, the WTO General Council approved Vietnam's membership. Vietnam's National Assembly ratified Vietnam's WTO accession commitments on November 28, 2006, and Vietnam will become the 150th Member of the WTO 30 days thereafter.
 
 &emsp;“(7) On November 13, 2006, the Department of State removed Vietnam from its list of Countries of Particular Concern (CPC) for severe violations of religious freedom. In reaching this determination, the Department of State cited significant improvements in Vietnam toward advancing religious freedom, though problems remain that merit immediate attention and important work remains to be done to fully protect religious freedom in Vietnam.
 
@@ -162,7 +162,7 @@ Pub. L. 106–476, title III, Nov. 9, 2000, 114 Stat. 2175, provided that:
 
 &emsp;“(7) endeavored to address issues related to its national and religious minorities and, as a member state of the Organization for Security and Cooperation in Europe (OSCE), committed to adopting special measures for ensuring that persons belonging to national minorities have full equality individually as well as in community with other members of their group;
 
-&emsp;“(8) also committed to enacting legislation to provide protection against incitement to violence against persons or groups based on national, racial, ethnic, or religious discrimination, hostility, or hatred, including anti-Semitism;
+&emsp;“(8) also committed to enacting legislation to provide protection against incitement to violenceagainst persons or groups based on national, racial, ethnic, or religious discrimination, hostility, or hatred, including anti-Semitism;
 
 &emsp;“(9) continued to return communal properties confiscated from national and religious minorities during the Soviet period, facilitating the reemergence of these communities in the national life of Georgia and establishing the legal framework for completion of this process in the future;
 
@@ -208,7 +208,7 @@ Accession of the People's Republic of China to the World Trade Organization.—P
 
 “(a)
 
-Effective Date of Nondiscriminatory Treatment.—The extension of nondiscriminatory treatment pursuant to section 101(a) shall be effective no earlier than the effective date of the accession of the People'sRepublic of China to the World Trade Organization \[Dec. 11, 2001\].
+Effective Date of Nondiscriminatory Treatment.—The extension of nondiscriminatory treatment pursuant to section 101(a) shall be effective no earlier than the effective date of the accession of the People's Republic of China to the World Trade Organization \[Dec. 11, 2001\].
 
 “(b)
 
@@ -322,7 +322,7 @@ Presidential determinations and extensions of nondiscriminatory treatment.—Not
 
 &emsp;“(2)
 
-Termination of application of title iv.—On or after the effective date of the extension under paragraph (1)(B) of nondiscriminatory treatment tothe products of Mongolia \[Nondiscriminatory treatment extended July 1, 1999, see Proc. No. 7207, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 \[19 U.S.C. 2431 et seq.\] shall cease to apply to that country.”
+Termination of application of title iv.—On or after the effective date of the extension under paragraph (1)(B) of nondiscriminatory treatment to the products of Mongolia \[Nondiscriminatory treatment extended July 1, 1999, see Proc. No. 7207, listed in the table of presidential documents below.\], title IV of the Trade Act of 1974 \[19 U.S.C. 2431 et seq.\] shall cease to apply to that country.”
 
 #### Extension of Nondiscriminatory Treatment to Products of Romania
 
@@ -368,7 +368,7 @@ Pub. L. 102–420, Oct. 16, 1992, 106 Stat. 2149, provided that:
 
 “(a)
 
-Findings.—The Congress finds that Serbia or Montenegro are not complying with the provisions of the Final Act of the Conference on Security and Cooperation in Europe (also known as the ‘Helsinki Final Act’), particularly the provisions regarding human rights and humanitarian affairs and are not respecting minority rights in Kosovo and Vojvodina.
+Findings.—The Congress finds that Serbia or Montenegro are not complying with the provisions ofthe Final Act of the Conference on Security and Cooperation in Europe (also known as the ‘Helsinki Final Act’), particularly the provisions regarding human rights and humanitarian affairs and are not respecting minority rights in Kosovo and Vojvodina.
 
 “(b)
 
@@ -462,7 +462,7 @@ Pub. L. 102–182, title I, Dec. 4, 1991, 105 Stat. 1235, provided that:
 
 &emsp;“(8) Immediate action should be taken to remove the impediments, imposed in response to the circumstances referred to in paragraph (5), in United States trade laws to the extension of nondiscriminatory treatment (most-favored-nation treatment) to the products of those countries.
 
-&emsp;“(9) As a consequence of establishment of United States diplomatic relations with Estonia, Latvia, and Lithuania, these independent countries are eligible to receive the benefits of the Generalized System of Preferences provided for in title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\].
+&emsp;“(9) As a consequence of establishment of United States diplomatic relations with Estonia, Latvia, andLithuania, these independent countries are eligible to receive the benefits of the Generalized System of Preferences provided for in title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\].
 
 #### “SEC. 102. EXTENSION OF NONDISCRIMINATORY TREATMENT TO THE PRODUCTS OF ESTONIA, LATVIA, AND LITHUANIA.
 
@@ -512,7 +512,7 @@ Supplemental Action.—The Congress notes that the United States Trade Represent
 
 “(a)
 
-Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding anyprovision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
 
 &emsp;“(1) determine that such title should no longer apply to Bulgaria; and
 
@@ -660,7 +660,9 @@ Determination of the President of the United States, No. 91–47, Aug. 2, 1991, 
 
 Uzbekistan.—Determination of the President of the United States, No. 97–6, Nov. 26, 1996, 61 F.R. 63693.
 
-Vietnam.—Determination of the President of the United States, No. 2005–11, Dec. 10, 2004, 69 F.R. 76587.
+Vietnam.—Proc. No. 8096, Dec. 29, 2006, 72 F.R. 451.
+
+Determination of the President of the United States, No. 2005–11, Dec. 10, 2004, 69 F.R. 76587.
 
 Proc. No. 7449, June 8, 2001, 66 F.R. 31375.
 

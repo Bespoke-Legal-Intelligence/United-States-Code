@@ -18,7 +18,7 @@ No adjustment assistance shall be extended under section 1913, 1914, or 1917 <s
 
 #### (d) Agreement with respect to employment of persons who occupied a position, or engaged in activities which the Secretary of Commerce determines involved discretion
 
-No financial assistance shall be provided to any firm under section 1914 <sup>1</sup> of this title unless the owners, partners, or officers shall execute an agreement binding them and the firm for a period of 2 years after such financial assistance is provided, to refrain from employing, tendering any office or employment to, or retaining for professional services any person who, on the date such assistance or any part thereof was provided, or within one year prior thereto, shall have served as an officer, attorney, agent, or employee occupying a position or engaging in activities which the Secretary of Commerce shall have determined involve discretion with respect to the provision of such financial assistance.
+No financial assistance shall be provided to any firm under section 1914 <sup>1</sup> of this title unless the owners, partners, or officers shall execute an agreement binding them and the firm for a period of 2 years after such financial assistance is provided, to refrain from employing, tendering any office or employment to, or retaining for professional services any person who, on the date such assistance or any part thereof was provided, or within one year prior thereto, shall have served as an officer, attorney, agent, or employee occupying a position or engaging inactivities which the Secretary of Commerce shall have determined involve discretion with respect to the provision of such financial assistance.
 
 (Pub. L. 87–794, title III, §318, Oct. 11, 1962, 76 Stat. 891.)
 

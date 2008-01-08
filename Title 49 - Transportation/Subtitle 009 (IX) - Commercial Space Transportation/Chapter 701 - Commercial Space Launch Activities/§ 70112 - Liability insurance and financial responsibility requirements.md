@@ -32,7 +32,7 @@ General Requirements.—(1) When a launch or reentry license is issued or transf
 
 Reciprocal Waiver of Claims.—(1) A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with its contractors, subcontractors, and customers, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the applicable license.
 
-(2) The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services or reentry services, and contractors and subcontractors involved in launch services or reentry services, a reciprocal waiver of claims with the licensee or transferee, contractors, subcontractors, crew, space flight participants, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees or by space flight participants, resulting from an activity carried out under the applicable license. The waiver applies only to the extent that claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right to recover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
+(2) The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services or reentry services, and contractors and subcontractors involved in launch services or reentry services, a reciprocal waiver of claims with the licensee or transferee, contractors, subcontractors, crew, space flight participants, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees or by space flight participants, resulting from an activity carried out under the applicable license. The waiver applies only to the extent that claims are more than theamount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right to recover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
 
 (c)
 
@@ -42,7 +42,7 @@ Determination of Maximum Probable Losses.—The Secretary of Transportation shal
 
 Annual Report.—(1) Not later than November 15 of each year, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives a report on current determinations made under subsection (c) of this section related to all issued licenses and the reasons for the determinations.
 
-(2) Not later than May 15 of each year, the Secretary of Transportation shall review the amounts specified in subsection (a)(3)(A) of this section and submit a report to Congress that contains proposed adjustments in the amountsto conform with changed liability expectations and availability of insurance on the world market. The proposed adjustment takes effect 30 days after a report is submitted.
+(2) Not later than May 15 of each year, the Secretary of Transportation shall review the amounts specified in subsection (a)(3)(A) of this section and submit a report to Congress that contains proposed adjustments in the amounts to conform with changed liability expectations and availability of insurance on the world market. The proposed adjustment takes effect 30 days after a report is submitted.
 
 (e)
 
@@ -147,6 +147,10 @@ Subsec. (f). Pub. L. 105–303, §102(a)(12)(I), inserted “launch or reentry�
 1996—Subsec. (a)(3)(B). Pub. L. 104–287, §5(93), substituted “clause (A)(i) or (ii)” for “clause (A)”.
 
 Subsec. (d)(1). Pub. L. 104–287, §5(74), substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1996 Amendment
 

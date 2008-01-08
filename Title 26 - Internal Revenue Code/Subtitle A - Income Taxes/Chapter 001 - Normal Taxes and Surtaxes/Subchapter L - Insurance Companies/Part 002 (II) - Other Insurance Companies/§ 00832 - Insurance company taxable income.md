@@ -30,7 +30,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (2) Investment income
 
-&emsp;The term “investment income” means the gross amount of income earned during the taxable year from interest, dividends, and rents, computed as follows: To all interest, dividends, and rents received during the taxable year, add interest, dividends, and rents due and accrued at the end of the taxable year, and deduct all interest, dividends, and rents due and accrued at the end of the preceding taxable year.
+&emsp;The term “investment income” means the gross amount of income earned during the taxable year from interest, dividends, and rents,computed as follows: To all interest, dividends, and rents received during the taxable year, add interest, dividends, and rents due and accrued at the end of the taxable year, and deduct all interest, dividends, and rents due and accrued at the end of the preceding taxable year.
 
 #### (3) Underwriting income
 

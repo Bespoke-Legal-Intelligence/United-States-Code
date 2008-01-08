@@ -14,7 +14,7 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 &emsp;(1) establishing guidelines for public involvement;
 
-&emsp;(2) establishing guidelines on how agencies will demonstrate on an annual basis how they have provided information to the public on the use of recreation fee revenues; and
+&emsp;(2) establishing guidelines on how agencies will demonstrate on an annual basis how theyhave provided information to the public on the use of recreation fee revenues; and
 
 &emsp;(3) publishing the guidelines in paragraphs (1) and (2) in the Federal Register.
 
@@ -163,4 +163,8 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 This chapter, referred to in subsecs. (a), (b), (d)(1)(B), and (e)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(12), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

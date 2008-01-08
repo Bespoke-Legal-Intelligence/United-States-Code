@@ -54,7 +54,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 &emsp;&emsp;&emsp;(i) a United States person, or
 
-&emsp;&emsp;&emsp;(ii) a person who would be a United States person if references to the UnitedStates in section 7701 included references to a possession of the United States.
+&emsp;&emsp;&emsp;(ii) a person who would be a United States person if references to the United States in section 7701 included references to a possession of the United States.
 
 #### (B) Indirect ownership rules
 

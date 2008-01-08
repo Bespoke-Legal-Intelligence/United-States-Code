@@ -26,7 +26,7 @@ Pub. L. 107–84, §2, Dec. 18, 2001, 115 Stat. 823, provided that: “Congress 
 
 &emsp;“(2) Duchenne muscular dystrophy is genetically inherited, and mothers are the carriers in approximately 70 percent of all cases.
 
-&emsp;“(3) If a female is a carrier of the dystrophin gene, there is a 50 percent chance per birth that her male offspring will have Duchenne muscular dystrophy, and a 50 percent chance per birth that her female offspring will be carriers.
+&emsp;“(3) If a female is a carrier of the dystrophin gene, there is a 50 percent chance per birth that her maleoffspring will have Duchenne muscular dystrophy, and a 50 percent chance per birth that her female offspring will be carriers.
 
 &emsp;“(4) Duchenne is the most common lethal genetic disorder of childhood worldwide, affecting approximately 1 in every 3,500 boys worldwide.
 

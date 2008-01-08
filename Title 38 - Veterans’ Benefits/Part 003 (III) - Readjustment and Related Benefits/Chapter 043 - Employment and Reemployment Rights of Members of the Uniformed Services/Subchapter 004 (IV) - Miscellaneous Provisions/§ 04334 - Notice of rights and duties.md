@@ -28,7 +28,7 @@ Another prior section 5003, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1252, rela
 
 A prior section 5004 was renumbered section 8104 of this title.
 
-Another prior section 5004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 152; Pub. L. 89–785, title II, §201(a), Nov. 7, 1966, 80 Stat. 1372; Pub. L. 94–581, title II, §210(e)(3), Oct. 21, 1976, 90 Stat. 2865, relating to garage and parking facilities, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8109 of this title.
+Another prior section 5004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 152; Pub. L. 89–785, title II, §201(a), Nov. 7, 1966, 80 Stat. 1372; Pub. L. 94–581, title II, §210(e)(3), Oct.21, 1976, 90 Stat. 2865, relating to garage and parking facilities, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8109 of this title.
 
 A prior section 5005 was renumbered section 8105 of this title.
 

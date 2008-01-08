@@ -59,9 +59,8 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>931.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20931%20-%20Civil%20Reserve%20Air%20Fleet/README.md) | <b>Civil Reserve Air Fleet</b> | <b>9511</b> |
-| Chap. |  | Sec. |
 | [<b>933.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20933%20-%20Procurement/README.md) | <b>Procurement</b> | <b>9531</b> |
-| <b>935.</b> | <b>Issue of Serviceable Material to Armed Forces</b> | <b>9561</b> |
+| [<b>935.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20935%20-%20Issue%20of%20Serviceable%20Material%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material to Armed Forces</b> | <b>9561</b> |
 | [<b>937.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20937%20-%20Utilities%20and%20Services/README.md) | <b>Utilities and Services</b> | <b>9591</b> |
 | [<b>939.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20939%20-%20Sale%20of%20Serviceable%20Material/README.md) | <b>Sale of Serviceable Material</b> | <b>9621</b> |
 | [<b>941.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20941%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material other than to Armed Forces</b> | <b>9651</b> |

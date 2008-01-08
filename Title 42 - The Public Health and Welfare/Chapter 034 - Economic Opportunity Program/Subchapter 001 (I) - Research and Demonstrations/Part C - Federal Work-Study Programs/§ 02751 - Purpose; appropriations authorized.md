@@ -26,7 +26,7 @@ For purposes of this part, the term “community services” means services whic
 
 &emsp;&emsp;(C) counseling, including career counseling.
 
-(Pub. L. 89–329, title IV, §441, formerly title I, §141, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), 132, 133(a), Oct. 16,1968, 82 Stat. 1028, 1029; Pub. L. 91–95, §5, Oct. 22, 1969, 83 Stat. 143; Pub. L. 92–318, title I, §§135, 135A(a), June 23, 1972, 86 Stat. 270; Pub. L. 94–482, title I, §128(a), Oct. 12, 1976, 90 Stat. 2143; Pub. L. 96–374, title IV, §431, Oct. 3, 1980, 94 Stat. 1433; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 102–325, title IV, §441(b)–(d), July 23, 1992, 106 Stat. 563; Pub. L. 103–82, title I, §111(b)(3), Sept. 21, 1993, 107 Stat. 860; Pub. L. 105–244, title IV, §441, Oct. 7, 1998, 112 Stat. 1711.)
+(Pub. L. 89–329, title IV, §441, formerly title I, §141, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), 132, 133(a), Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 91–95, §5, Oct. 22, 1969, 83 Stat. 143; Pub. L. 92–318, title I, §§135, 135A(a), June 23, 1972, 86 Stat. 270; Pub. L. 94–482, title I, §128(a), Oct. 12, 1976, 90 Stat. 2143; Pub. L. 96–374, title IV, §431, Oct. 3, 1980, 94 Stat. 1433; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 102–325, title IV, §441(b)–(d), July 23, 1992, 106 Stat. 563; Pub. L. 103–82, title I, §111(b)(3), Sept. 21, 1993, 107 Stat. 860; Pub. L. 105–244, title IV, §441, Oct. 7, 1998, 112 Stat. 1711.)
 
 #### Codification
 

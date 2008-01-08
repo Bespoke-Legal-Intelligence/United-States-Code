@@ -36,7 +36,7 @@ The Secretary of the Treasury is authorized and directed to pay out of the Fund 
 
 There is hereby established in the Unemployment Trust Fund a Federal unemployment account.
 
-(Aug. 14, 1935, ch. 531, title IX, §904, 49 Stat. 640; June 25, 1938, ch. 680, §10(e)–(g), 52 Stat. 1104, 1105; Oct. 3, 1944, ch. 480, title IV, §401, 58 Stat. 789; Aug. 6, 1947, ch. 510, §5(a), 61 Stat. 794; Aug. 28, 1950, ch. 809, title IV, §404(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(b)–(f), 68 Stat. 673; Pub. L. 85–927, pt. II, §204, Sept. 6, 1958, 72 Stat. 1782;Pub. L. 86–346, title I, §104(3), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 976; Pub. L. 98–369, div. B, title VI, §2663(d)(3), July 18, 1984, 98 Stat. 1167; Pub. L. 102–318, title V, §531(d)(3), July 3, 1992, 106 Stat. 317.)
+(Aug. 14, 1935, ch. 531, title IX, §904, 49 Stat. 640; June 25, 1938, ch. 680, §10(e)–(g), 52 Stat. 1104, 1105; Oct. 3, 1944, ch. 480, title IV, §401, 58 Stat. 789; Aug. 6, 1947, ch. 510, §5(a), 61 Stat. 794; Aug. 28, 1950, ch. 809, title IV, §404(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(b)–(f), 68 Stat. 673; Pub. L. 85–927, pt. II, §204, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–346, title I, §104(3), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 976; Pub. L. 98–369, div. B, title VI, §2663(d)(3), July 18, 1984, 98 Stat. 1167; Pub. L. 102–318, title V, §531(d)(3), July 3, 1992, 106 Stat. 317.)
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–927 effective Sept. 6, 1958, except as otherwise indicated, see section 207(c) of Pub.L. 85–927, set out as a note under section 351 of Title 45, Railroads.
+Amendment by Pub. L. 85–927 effective Sept. 6, 1958, except as otherwise indicated, see section 207(c) of Pub. L. 85–927, set out as a note under section 351 of Title 45, Railroads.
 
 #### Effective Date of 1950 Amendment
 

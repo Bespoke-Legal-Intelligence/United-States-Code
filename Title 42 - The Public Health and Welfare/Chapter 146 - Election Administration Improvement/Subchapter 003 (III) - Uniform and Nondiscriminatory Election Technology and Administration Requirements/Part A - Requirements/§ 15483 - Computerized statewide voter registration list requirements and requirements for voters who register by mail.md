@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(v) Any election official in the State, including any local election official, may obtain immediate electronic access to the information contained in the computerized list.
 
-&emsp;&emsp;&emsp;(vi) All voter registration information obtained by any local election official in the State shall be electronically entered into the computerized list on an expedited basis at the time the information is provided to the local official.
+&emsp;&emsp;&emsp;(vi) All voter registration information obtained by any local election official inthe State shall be electronically entered into the computerized list on an expedited basis at the time the information is provided to the local official.
 
 &emsp;&emsp;&emsp;(vii) The chief State election official shall provide such support as may be required so that local election officials are able to enter information as described in clause (vi).
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;Except as provided in clause (ii), notwithstanding any other provision of law, an application for voter registration for an election for Federal office may not be accepted or processed by a State unless the application includes—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of an applicant who has been issued a current and valid driver'slicense, the applicant's driver's license number; or
+&emsp;&emsp;&emsp;&emsp;(I) in the case of an applicant who has been issued a current and valid driver's license, the applicant's driver's license number; or
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of any other applicant (other than an applicant to whom clause (ii) applies), the last 4 digits of the applicant's social security number.
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;(i) The question “Are you a citizen of the United States of America?” and boxes for the applicant to check to indicate whether the applicant is or is not a citizen of the United States.
 
-&emsp;&emsp;&emsp;(ii) The question “Will you be 18 years of age on or before election day?” and boxes for the applicant to check to indicate whether or not the applicant will be 18 years of age or older on election day.
+&emsp;&emsp;&emsp;(ii) The question “Will you be 18 years of age on or before election day?” and boxesfor the applicant to check to indicate whether or not the applicant will be 18 years of age or older on election day.
 
 &emsp;&emsp;&emsp;(iii) The statement “If you checked ‘no’ in response to either of these questions, do not complete this form.”.
 

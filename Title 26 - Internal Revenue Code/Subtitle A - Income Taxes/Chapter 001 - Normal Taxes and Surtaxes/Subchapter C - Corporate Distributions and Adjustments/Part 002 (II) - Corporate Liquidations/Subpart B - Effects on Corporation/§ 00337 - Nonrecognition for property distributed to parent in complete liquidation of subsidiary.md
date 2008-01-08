@@ -34,7 +34,7 @@ No gain or loss shall be recognized to the liquidating corporation on the distri
 
 #### (c) 80-percent distributee
 
-For purposes of this section, the term “80-percent distributee” means only the corporation which meets the 80-percent stock ownership requirements specified in section 332(b). For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.
+For purposes of this section, the term “80-percent distributee” means only the corporationwhich meets the 80-percent stock ownership requirements specified in section 332(b). For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.
 
 #### (d) Regulations
 
@@ -42,7 +42,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(1) regulations to ensure that such purposes may not be circumvented through the use of any provision of law or regulations (including the consolidated return regulations and part III of this subchapter) or through the use of a regulated investment company, real estate investment trust, or tax-exempt entity, and
 
-&emsp;(2) regulations providing for appropriate coordination of the provisions of this section with the provisions of this title relating totaxation of foreign corporations and their shareholders.
+&emsp;(2) regulations providing for appropriate coordination of the provisions of this section with the provisions of this title relating to taxation of foreign corporations and their shareholders.
 
 (Added Pub. L. 99–514, title VI, §631(a), Oct. 22, 1986, 100 Stat. 2271; amended Pub. L. 100–203, title X, §10223(a), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1006(e)(4), (5)(A), Nov. 10, 1988, 102 Stat. 3400.)
 

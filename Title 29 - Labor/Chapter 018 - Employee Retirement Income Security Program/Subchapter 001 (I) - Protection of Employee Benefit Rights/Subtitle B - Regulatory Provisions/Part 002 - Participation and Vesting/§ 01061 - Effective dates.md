@@ -12,7 +12,7 @@
 
 &emsp;(B) December 31, 1980.
 
-> For purposes of subparagraph (A) and section 1086(c) <sup>1</sup> of this title, any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement contained in this chapter or the Internal Revenue Code of 1986 shall not be treated as a termination of such collective bargaining agreement. This paragraph shall not apply unless the Secretary determines that the participation and vesting rules in effect on September 2, 1974, are not less favorable to participants, in the aggregate, than the rules provided under sections 1052, 1053, and 1054 of this title.
+> For purposes of subparagraph (A) and section 1086(c) <sup>1</sup> of this title, any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement contained in this chapter or title 26 shall not be treated as a termination of such collective bargaining agreement. This paragraph shall not apply unless the Secretary determines that the participation and vesting rules in effect on September 2, 1974, are not less favorable to participants, in the aggregate, than the rules provided under sections 1052, 1053, and 1054 of this title.
 
 (2) For purposes of paragraph (1), the term “supplementary or special plan provision” means any plan provision which—
 
@@ -22,7 +22,7 @@
 
 (3) This subsection shall apply with respect to a plan if (and only if) the application of this subsection results in a later effective date for this part than the effective date required by subsection (b) of this section.
 
-(d) If the administrator of a plan elects under section 1017(d) of this Act to make applicable to a plan year and to all subsequent plan years the provisions of the Internal Revenue Code of 1986 relating to participation, vesting, funding, and form of benefit, this part shall apply to the first plan year to which such election applies and to all subsequent plan years.
+(d) If the administrator of a plan elects under section 1017(d) of this Act to make applicable to a plan year and to all subsequent plan years the provisions of title 26 relating to participation, vesting, funding, and form of benefit, this part shall apply to the first plan year to which such election applies and to all subsequent plan years.
 
 (e)(1) No pension plan to which section 1052 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1052 of this title first becomes effective with respect to such plan) which provides that any employee's participation in the plan would commence at any date later than the later of—
 
@@ -48,17 +48,15 @@ Section 1086(c) of this title, referred to in subsec. (c)(1), was in the origina
 
 This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Internal Revenue Code of 1986, referred to in subsecs. (c)(1) and (d), is classified generally to Title 26, Internal Revenue Code.
-
 Section 1017(d) of this Act, referred to in subsec. (d), is section 1017 of Pub. L. 93–406, which is set out as an Effective Date; Transitional Rules note under section 410 of Title 26.
 
 #### Amendments
 
-1989—Subsecs. (c)(1), (d). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1989—Subsecs. (c)(1), (d). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26”.
 
 Subsec. (f). Pub. L. 101–239, §7894(h)(2), added subsec. (f).
 
-1986—Subsec. (c)(1). Pub. L. 99–272 made a technical amendment to the reference to section 1086(c) of thistitle to reflect the renumbering of the corresponding section of the original act.
+1986—Subsec. (c)(1). Pub. L. 99–272 made a technical amendment to the reference to section 1086(c) of this title to reflect the renumbering of the corresponding section of the original act.
 
 #### Effective Date of 1989 Amendment
 
@@ -68,5 +66,5 @@ Amendment by section 7894(h)(2) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 applicable with respect to applications for waivers, extensions, and modifications filed on or after Apr. 7, 1986, see section 11015(a)(3) of Pub. L. 99–272, set out as an Effective Date note under section 1085a of this title.
+Amendment by Pub. L. 99–272 applicable with respect to applications for waivers, extensions, and modifications filed on or after Apr. 7, 1986, see section 11015(a)(3) of Pub. L. 99–272, set out as an Effective Date note under section 412 of Title 26, Internal Revenue Code.
 

@@ -2,7 +2,7 @@
 
 (a) The Director of the Office of Personnel Management may establish, and from time to time revise, the maximum number of scientific or professional positions for carrying out research and development functions which require the services of specially qualified personnel which may be established outside of the General Schedule. Any such position may be established by action of the Director or, under such standards and procedures as the Office prescribes (including procedures under which the prior approval of the Director may be required), by agency action.
 
-(b) The provisions of subsection (a) of this section shall not apply to any Senior Executive Service position (as defined in section 3132(a) of this title).
+(b) The provisions of subsection (a) of this section shall not apply to any Senior ExecutiveService position (as defined in section 3132(a) of this title).
 
 (c) In addition to the number of positions authorized by subsection (a) of this section, the Librarian of Congress may establish, without regard to the second sentence of subsection (a) of this section, not more than 8 scientific or professional positions to carry out the research and development functions of the Library of Congress which require the services of specially qualified personnel.
 
@@ -118,7 +118,7 @@ Program Authorized.—During the program period specified in subsection (e)(1), 
 
 Special Personnel Management Authority.—Under the program, the Secretary may—
 
-&emsp;“(1) without regard to any provision of title 5, United States Code, governing the appointment of employees in the civil service, appoint scientists and engineers from outside the civil service and uniformed services (as such terms are defined in section 2101 of such title) to—
+&emsp;“(1) without regard to any provision of title 5, United States Code, governing the appointment ofemployees in the civil service, appoint scientists and engineers from outside the civil service and uniformed services (as such terms are defined in section 2101 of such title) to—
 
 &emsp;&emsp;“(A) not more than 40 scientific and engineering positions in the Defense Advanced Research Projects Agency;
 
@@ -188,19 +188,21 @@ Annual Report.—(1) Not later than October 15 of each year, beginning in 1999 a
 
 #### FBI Personnel Management System for Non-Special Agent Employees; Secretary of the Treasury
 
-Pub. L. 109–108, title I, §106, Nov. 22, 2005, 119 Stat. 2304, provided that: “The Attorney General is authorized to extend through September 30, 2007, the Personnel Management Demonstration Project transferred to the Attorney General pursuant to section 1115 of the Homeland Security Act of 2002, Public Law 107–296 (6 U.S.C. 533) without limitation on the number of employees or the positions covered.”
+Pub. L. 110–161, div. B, title II, §206, Dec. 26, 2007, 121 Stat. 1913, provided that: “The Attorney General is authorized to extend through September 30, 2009, the Personnel Management Demonstration Project transferred to the Attorney General pursuant to section 1115 of the Homeland Security Act of 2002, Public Law 107–296 (6 U.S.C. 533) without limitation on the number of employees or the positions covered.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–108, title I, §106, Nov. 22, 2005, 119 Stat. 2304.
 
 Pub. L. 108–447, div. B, title I, §109, Dec. 8, 2004, 118 Stat. 2868.
 
-Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, §102, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 107–67, title I, §120, Nov. 12, 2001, 115 Stat. 525; Pub. L. 108–7, div. J, title I, §119, Feb. 20, 2003, 117 Stat. 439; Pub. L. 108–199, div. F, title II, §216, Jan. 23, 2004, 118 Stat. 320; Pub. L. 108–447, div. H, title II, §216, Dec. 8, 2004, 118 Stat. 3241; Pub. L. 109–115, div. A, title II, §216, Nov. 30, 2005, 119 Stat. 2439, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of eight years from Oct. 21, 1998, personnel managementdemonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Bureau of Alcohol, Tobacco and Firearms, and further provided for submittal of reports to Congress and termination of authority to establish demonstration project on Nov. 26, 2000.
+Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, §102, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 107–67, title I, §120, Nov. 12, 2001, 115 Stat. 525; Pub. L. 108–7, div. J, title I, §119, Feb. 20, 2003, 117 Stat. 439; Pub. L. 108–199, div. F, title II, §216, Jan. 23, 2004, 118 Stat. 320; Pub. L. 108–447, div. H, title II, §216, Dec. 8, 2004, 118 Stat. 3241; Pub. L. 109–115, div. A, title II, §216, Nov. 30, 2005, 119 Stat. 2439; Pub. L. 110–161, div. D, title I, §115, Dec. 26, 2007, 121 Stat. 1978, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of 10 years from Oct. 21, 1998, personnel management demonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Bureau of Alcohol, Tobacco and Firearms, and further provided for submittal of reports to Congress and termination of authority to establish demonstration project on Nov. 26, 2000.
 
 \[Personnel management demonstration project transferred to Attorney General for continued use by Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, and Secretary of the Treasury for continued use by Tax and Trade Bureau, see section 533 of Title 6, Domestic Security.\]
 
 #### Termination of Authority To Establish Scientific or Professional Positions Outside the General Schedule
 
-Section 414(a)(2)(A) of Pub. L. 95–454 provided that: “Notwithstanding any other provision of law (other than section 3104 of title 5, United States Code), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5) to establish scientific or professional positions outside of the General Schedule is hereby terminated.”
+Section 414(a)(2)(A) of Pub. L. 95–454 provided that: “Notwithstanding any other provision of law (other than section 3104 of title 5, United States Code), the authority granted to an agency (as defined in section5102(a)(1) of such title 5) to establish scientific or professional positions outside of the General Schedule is hereby terminated.”
 
 Section 415(a)(3) of Pub. L. 95–454 provided that the provisions of section 414(a)(2)(A) take effect 180 days after Oct. 13, 1978.
 

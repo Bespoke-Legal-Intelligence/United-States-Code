@@ -12,7 +12,7 @@ In General.—The district courts shall have original jurisdiction of any civil 
 
 (b)
 
-Limitation of Jurisdiction of District Courts.—The district court shall abstain from hearing any civil action described in subsection (a) in which—
+Limitation of Jurisdiction of District Courts.—The district court shall abstain fromhearing any civil action described in subsection (a) in which—
 
 &emsp;(1) the substantial majority of all plaintiffs are citizens of a single State of which the primary defendants are also citizens; and
 

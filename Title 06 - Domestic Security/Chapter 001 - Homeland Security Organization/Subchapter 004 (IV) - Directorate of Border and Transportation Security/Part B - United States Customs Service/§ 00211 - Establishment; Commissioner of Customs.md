@@ -14,7 +14,7 @@ There is established in the Department the United States Customs Service, under 
 
 #### (3) Continuation in office
 
-&emsp;The individual serving as the Commissioner of Customs on the day before the effective date of this chapter may serve as the Commissioner of Customs on and after such effective date until a Commissioner of Customs is appointed under paragraph (1).
+&emsp;The individual serving as the Commissioner of Customs on the day before the effectivedate of this chapter may serve as the Commissioner of Customs on and after such effective date until a Commissioner of Customs is appointed under paragraph (1).
 
 (Pub. L. 107–296, title IV, §411, Nov. 25, 2002, 116 Stat. 2178.)
 
@@ -28,5 +28,5 @@ Section is comprised of section 411 of Pub. L. 107–296. Subsec. (b)(2) of sect
 
 #### Change of Name
 
-Customs Service, referred to in subsecs. (a) and (b)(1), changed to Bureau of Customs and Border Protectionby Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
+Customs Service, referred to in subsecs. (a) and (b)(1), changed to Bureau of Customs and Border Protection by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 

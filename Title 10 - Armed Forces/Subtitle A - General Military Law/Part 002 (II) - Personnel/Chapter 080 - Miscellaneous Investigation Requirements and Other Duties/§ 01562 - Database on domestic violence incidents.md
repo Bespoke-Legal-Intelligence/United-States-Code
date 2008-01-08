@@ -10,7 +10,7 @@ Reporting of Information for the Database.—The Secretary shall require that th
 
 &emsp;(1) Each domestic violence incident reported to a commander, a law enforcement authority of the armed forces, or a family advocacy program of the Department of Defense.
 
-&emsp;(2) The number of those incidents that involve evidence determined sufficient for supporting disciplinary action and, for each such incident, a description of the substantiated allegation and the action taken by command authorities in the incident.
+&emsp;(2) The number of those incidents that involve evidence determined sufficient for supporting disciplinary action and, for each suchincident, a description of the substantiated allegation and the action taken by command authorities in the incident.
 
 &emsp;(3) The number of those incidents that involve evidence determined insufficient for supporting disciplinary action and for each such case, a description of the allegation.
 

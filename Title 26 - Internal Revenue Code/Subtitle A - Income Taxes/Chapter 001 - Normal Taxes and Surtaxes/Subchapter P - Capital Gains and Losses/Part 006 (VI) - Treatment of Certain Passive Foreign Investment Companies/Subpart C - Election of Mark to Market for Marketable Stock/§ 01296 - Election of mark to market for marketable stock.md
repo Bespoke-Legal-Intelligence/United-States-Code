@@ -24,7 +24,7 @@ In the case of marketable stock in a passive foreign investment company which is
 
 #### (2) Special rule for stock constructively owned
 
-&emsp;In the case of stock in a passive foreign investment company which the United Statesperson is treated as owning under subsection (g)—
+&emsp;In the case of stock in a passive foreign investment company which the United States person is treated as owning under subsection (g)—
 
 &emsp;&emsp;(A) the adjustments under paragraph (1) shall apply to such stock in the hands of the person actually holding such stock but only for purposes of determining the subsequent treatment under this chapter of the United States person with respect to such stock, and
 
@@ -92,7 +92,7 @@ In the case of a foreign corporation which is a controlled foreign corporation a
 
 &emsp;(2) for purposes of subpart F of part III of subchapter N—
 
-&emsp;&emsp;(A) any amount included in gross income under subsection (a)(1) shall be treated as foreign personal holding company income described in section 954(c)(1)(A), and
+&emsp;&emsp;(A) any amount included in gross income under subsection (a)(1) shall be treated asforeign personal holding company income described in section 954(c)(1)(A), and
 
 &emsp;&emsp;(B) any amount allowed as a deduction under subsection (a)(2) shall be treated as a deduction allocable to foreign personal holding company income so described.
 
@@ -166,7 +166,7 @@ This section shall apply to marketable stock in a passive foreign investment com
 
 If any individual becomes a United States person in a taxable year beginning after December 31, 1997, solely for purposes of this section, the adjusted basis (before adjustments under subsection (b)) of any marketable stock in a passive foreign investment company owned by such individual on the first day of such taxable year shall be treated as being the greater of its fair market value on such first day or its adjusted basis on such first day.
 
-(Added Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972; amended Pub. L. 105–206, title VI, §6011(c)(3), July 22, 1998, 112 Stat. 818; Pub. L.107–16, title V, §542(e)(5)(C), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title IV, §408(a)(19), Oct. 4, 2004, 118 Stat. 1192.)
+(Added Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972; amended Pub. L. 105–206, title VI, §6011(c)(3), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(C), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title IV, §408(a)(19), Oct. 4, 2004, 118 Stat. 1192.)
 
 #### Amendment of Section
 

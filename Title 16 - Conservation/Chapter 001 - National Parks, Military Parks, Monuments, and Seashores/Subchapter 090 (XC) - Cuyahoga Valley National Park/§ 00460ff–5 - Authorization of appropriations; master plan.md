@@ -16,7 +16,7 @@ For the development of the park, including improvements of properties acquired f
 
 #### (c) Restoration of vegetative cover to eliminate erosion
 
-There are hereby authorized to be appropriated not more than $500,000 for fiscal year 1986, $1,000,000 for fiscal year 1987, $1,500,000 for fiscal year 1988, and $1,750,000 for fiscal year 1989, to carry out the provisions of section 460ff–3(c)(2) of this title. Any amounts authorized to be appropriated for any fiscal year underthis subsection which are not appropriated for that fiscal year shall remain available for appropriation in succeeding fiscal years.
+There are hereby authorized to be appropriated not more than $500,000 for fiscal year 1986, $1,000,000 for fiscal year 1987, $1,500,000 for fiscal year 1988, and $1,750,000 for fiscal year 1989, to carry out the provisions of section 460ff–3(c)(2) of this title. Any amounts authorized to be appropriated for any fiscal year under this subsection which are not appropriated for that fiscal year shall remain available for appropriation in succeeding fiscal years.
 
 (Pub. L. 93–555, §5, formerly §6, Dec. 27, 1974, 88 Stat. 1788; Pub. L. 94–578, title III, §323(b), Oct. 21, 1976, 90 Stat. 2742; Pub. L. 95–625, title III, §315(b), (c), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 99–658, title I, §104(j)(2), Nov. 14, 1986, 100 Stat. 3678; renumbered §5 and amended Pub. L. 106–291, title I, §149(c)(2), (d), Oct. 11, 2000, 114 Stat. 956.)
 
@@ -40,9 +40,9 @@ Subsec. (b). Pub. L. 95–625, §315(c), substituted “For the development of t
 
 Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### Expenditure of Funds To Commence October 1, 1977
 
-Section 323(c) of Pub. L. 94–578 provided that: “No funds authorized by this section \[amending sections 460ff–1(a) and 460ff–5 of this title\] in excess of those sums previously authorized by the Act of December 27, 1974, \[this section as originally enacted\], shall be available for expenditure before October 1, 1977.”
+Section 323(c) of Pub. L. 94–578 provided that: “No funds authorized by this section \[amending sections460ff–1(a) and 460ff–5 of this title\] in excess of those sums previously authorized by the Act of December 27, 1974, \[this section as originally enacted\], shall be available for expenditure before October 1, 1977.”
 

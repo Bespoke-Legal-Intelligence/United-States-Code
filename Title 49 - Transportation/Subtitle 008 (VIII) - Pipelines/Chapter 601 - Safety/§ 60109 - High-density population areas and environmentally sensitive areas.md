@@ -48,7 +48,7 @@ Authority to issue regulations.—The Secretary may satisfy the requirements of 
 
 Minimum requirements of integrity management programs.—An integrity management program required under paragraph (1) shall include, at a minimum, the following requirements:
 
-&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 yearsafter such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
+&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
 
 &emsp;&emsp;(B) Subject to paragraph (5), periodic reassessment of the facility, at a minimum of once every 7 years, using methods described in subparagraph (A).
 
@@ -96,7 +96,7 @@ Standards.—The standards prescribed by the Secretary under paragraph (2) shall
 
 Additional optional standards.—The Secretary may also prescribe standards requiring an operator of a pipeline facility to include in an integrity management program under this subsection—
 
-&emsp;&emsp;(A) changes to valves or the establishment or modification of systems that monitor pressure and detect leaks based on the operator's risk analysis; and
+&emsp;&emsp;(A) changes to valves or the establishment or modification of systems that monitorpressure and detect leaks based on the operator's risk analysis; and
 
 &emsp;&emsp;(B) the use of emergency flow restricting devices.
 
@@ -176,7 +176,7 @@ In general.—The minimum standards shall include a requirement for an operator 
 
 &emsp;&emsp;(B)
 
-Reports.—Operators of natural gas distribution systems shall report annually to the Secretary on the number of excess flow valves installed on their systems under subparagraph (A).
+Reports.—Operators of natural gas distribution systems shall report annuallyto the Secretary on the number of excess flow valves installed on their systems under subparagraph (A).
 
 &emsp;(4)
 
@@ -198,7 +198,7 @@ Certification of Pipeline Integrity Management Program Performance.—The Secret
 
 &emsp;(2) to the best of such officer's knowledge and belief, the report is true and complete.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat.4388; Pub. L. 104–304, §§7, 20(i), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 107–355, §14(a), (b), Dec. 17, 2002, 116 Stat. 3002, 3005; Pub. L. 109–468, §§9, 14, 16, Dec. 29, 2006, 120 Stat. 3493, 3496.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§7, 20(i), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 107–355, §14(a), (b), Dec. 17, 2002, 116 Stat. 3002, 3005; Pub. L. 109–468, §§9, 14, 16, Dec. 29, 2006, 120 Stat. 3493, 3496.)
 
 Historical and Revision Notes
 

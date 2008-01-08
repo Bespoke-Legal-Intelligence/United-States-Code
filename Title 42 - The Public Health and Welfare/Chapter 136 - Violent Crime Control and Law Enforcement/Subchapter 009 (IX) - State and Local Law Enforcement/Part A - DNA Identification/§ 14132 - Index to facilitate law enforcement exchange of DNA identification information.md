@@ -30,7 +30,7 @@ The index described in subsection (a) of this section shall include only informa
 
 &emsp;&emsp;(B) undergo external audits, not less than once every 2 years, that demonstrate compliance with standards established by the Director of the Federal Bureau of Investigation; and
 
-&emsp;(3) maintained by Federal, State, and local criminal justice agencies (or the Secretary of Defense in accordance with section 1565 of title 10) pursuant to rules that allow disclosure of stored DNA samples and DNA analyses only—
+&emsp;(3) maintained by Federal, State, and local criminal justice agencies (or the Secretary ofDefense in accordance with section 1565 of title 10) pursuant to rules that allow disclosure of stored DNA samples and DNA analyses only—
 
 &emsp;&emsp;(A) to criminal justice agencies for law enforcement identification purposes;
 
@@ -66,7 +66,7 @@ Access to the index established by this section is subject to cancellation if th
 
 #### (2) By States
 
-&emsp;(A) As a condition of access to the index described in subsection (a) of this section, a State shall promptly expunge from that indexthe DNA analysis of a person included in the index by that State if—
+&emsp;(A) As a condition of access to the index described in subsection (a) of this section, a State shall promptly expunge from that index the DNA analysis of a person included in the index by that State if—
 
 &emsp;&emsp;(i) the responsible agency or official of that State receives, for each conviction of the person of an offense on the basis of which that analysis was or could have been included in the index, a certified copy of a final court order establishing that such conviction has been overturned; or
 

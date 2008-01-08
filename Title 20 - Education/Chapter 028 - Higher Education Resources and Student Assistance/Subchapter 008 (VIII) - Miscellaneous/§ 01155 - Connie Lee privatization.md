@@ -88,7 +88,7 @@
 
 #### (2) Reimbursement of costs and expenses of sale
 
-&emsp;The Secretary of the Treasury shall be reimbursed from the proceeds of the sale of the stock under this subsection for all reasonablecosts and expenses related to such sale, except that one-half of all reasonable costs and expenses relating to the independent appraisal under paragraph (1) shall be borne by the Corporation.
+&emsp;The Secretary of the Treasury shall be reimbursed from the proceeds of the sale of the stock under this subsection for all reasonable costs and expenses related to such sale, except that one-half of all reasonable costs and expenses relating to the independent appraisal under paragraph (1) shall be borne by the Corporation.
 
 #### (3) Deposit into account
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) obtaining financing to acquire interests in real property (including by purchase, lease, or donation), including financing to cover planning, development, and other incidental costs;
 
-&emsp;&emsp;&emsp;&emsp;(II) obtaining financing for construction of facilities or the renovation, repair, or alteration of existing property or facilities (including the purchase or replacement of fixtures and equipment), including financing to cover planning, development, and other incidental costs;
+&emsp;&emsp;&emsp;&emsp;(II) obtaining financing for construction of facilities or the renovation, repair, or alteration of existing property orfacilities (including the purchase or replacement of fixtures and equipment), including financing to cover planning, development, and other incidental costs;
 
 &emsp;&emsp;&emsp;&emsp;(III) enhancing the availability of loans (including mortgages) and bonds; and
 
@@ -228,7 +228,7 @@ Subsec. (e)(3)(C)(iv). Pub. L. 107–96, proviso, which directed amendment of th
 
 2000—Subsec. (e)(2)(B). Pub. L. 106–553, §1(a)(1) \[§161(1)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(1), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
 
-Pub. L. 106–522, §161(1), as amended by Pub. L. 107–96, par. (2), amended second sentence generally. Prior to amendment, second sentence read as follows: “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor ofthe District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
+Pub. L. 106–522, §161(1), as amended by Pub. L. 107–96, par. (2), amended second sentence generally. Prior to amendment, second sentence read as follows: “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
 
 Subsec. (e)(3). Pub. L. 106–553, §1(a)(1) \[§161(2)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(2), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
 

@@ -100,7 +100,7 @@
 
 #### (G) Payment of penalties
 
-&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paidto the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for the purpose of enforcing the provisions with respect to which the penalty was imposed.
+&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paid to the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for the purpose of enforcing the provisions with respect to which the penalty was imposed.
 
 (July 1, 1944, ch. 373, title XXVII, §2722, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1968.)
 

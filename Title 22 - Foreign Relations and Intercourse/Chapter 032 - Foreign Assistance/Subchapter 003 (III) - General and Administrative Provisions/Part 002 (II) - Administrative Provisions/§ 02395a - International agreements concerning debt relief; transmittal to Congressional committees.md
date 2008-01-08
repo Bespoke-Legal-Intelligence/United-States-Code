@@ -8,7 +8,7 @@
 
 #### References in Text
 
-“Such committees” and “such debt relief”, referred to in par. (2), mean the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of the each House of Congress named as the ongoing recipients of any information respecting debt relief negotiations with foreign governments regarding any debts owing to the United States in par. (1) provisions prior to repeal thereof by section 734(a)(1) of Pub. L. 97–113.
+“Such committees” and “such debt relief”, referred to in par. (2), mean the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of Congress named as the ongoing recipients of any information respecting debt relief negotiations with foreign governments regarding any debts owing to the United States in par. (1) provisions prior to repeal thereof by section 734(a)(1) of Pub. L. 97–113.
 
 #### Codification
 
@@ -16,11 +16,7 @@ Section enacted as part of the International Development and Food Assistance Act
 
 #### Amendments
 
-1981—Par. (1). Pub. L. 97–113 struck out par. (1) which required Secretary of State keep the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of Congress informed respecting any debt relief negotiations with foreign governments regarding any debts owing to the United States.
-
-#### Change of Name
-
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs, on Feb. 5, 1979, by House Resolution No. 89, 96th Congress.
+1981—Par. (1). Pub. L. 97–113 struck out par. (1) which required Secretary of State keep the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of Congress informed respecting any debt relief negotiationswith foreign governments regarding any debts owing to the United States.
 
 #### Effective Date
 
@@ -28,7 +24,7 @@ Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as 
 
 #### Actions To Provide Bilateral Debt Relief
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–311, as amended by Pub. L. 108–447, div. D, title V, §591(b), Dec. 8, 2004, 118 Stat. 3037; Pub. L. 109–102, title V, §578, Nov. 14, 2005, 119 Stat. 2232, provided that:
+Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–311, as amended by Pub. L. 108–447, div. D, title V, §591(b), Dec. 8, 2004, 118 Stat. 3037; Pub. L. 109–102, title V, §578, Nov. 14, 2005, 119 Stat. 2232; Pub. L. 110–161, div. J, title VI, §699H(b)(1), Dec. 26, 2007, 121 Stat. 2372, provided that:
 
 “(a)
 
@@ -106,11 +102,11 @@ Certain Prohibitions Inapplicable.—Except as the President may otherwise deter
 
 “(i)
 
-Authorization of Appropriations.—For the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661a(5)\]) of the cancellation of any debt under this section, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2000–2006, which shall remain available until expended.
+Authorization of Appropriations.—For the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661a(5)\]) of the cancellation of any debt under this section, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2000–2010, which shall remain available until expended.
 
 “(j)
 
-Annual Reports to the Congress.—Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], Appropriations, and International Relations of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, which shall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
+Annual Reports to the Congress.—Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], Appropriations, and International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, which shall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
 
 \[Pub. L. 108–447, §591(b), which directed amendment of section 501(i) of Public Law 106–113 by substituting “2000–2006” for “2003–2004”, was executed in section 1000(a)(5) \[title V, §501\] of div. B of Pub. L. 106–113, set out above, by making substitution for “2000 through 2004”, to reflect the probable intent of Congress.\]
 

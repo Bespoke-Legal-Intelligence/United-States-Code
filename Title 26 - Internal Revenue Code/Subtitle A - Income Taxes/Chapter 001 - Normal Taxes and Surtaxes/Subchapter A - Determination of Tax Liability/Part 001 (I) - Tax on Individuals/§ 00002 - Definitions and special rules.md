@@ -22,7 +22,7 @@
 
 #### (3) Special rule where deceased spouse was in missing status
 
-&emsp;If an individual was in a missing status (within the meaning of section 6013(f)(3)) as a result of service in a combat zone (as determined for purposes of section 112) and if such individual remains in such status until the date referred to in subparagraph (A) or (B), then, for purposes of paragraph (1)(A), the date on which such individual died shall be treated as the earlier of the date determined under subparagraph (A) or the date determined under subparagraph (B):
+&emsp;If an individual was in a missing status (within the meaning of section 6013(f)(3)) as aresult of service in a combat zone (as determined for purposes of section 112) and if such individual remains in such status until the date referred to in subparagraph (A) or (B), then, for purposes of paragraph (1)(A), the date on which such individual died shall be treated as the earlier of the date determined under subparagraph (A) or the date determined under subparagraph (B):
 
 &emsp;&emsp;(A) the date on which the determination is made under section 556 of title 37 of the United States Code or under section 5566 of title 5 of such Code (whichever is applicable) that such individual died while in such missing status, or
 
@@ -116,7 +116,7 @@ Subsec. (b)(1)(A)(i). Pub. L. 98–369, §423(c)(2)(B), inserted “(or would be
 
 1983—Subsec. (a)(3)(B)(i). Pub. L. 97–448 substituted “December 31, 1982” for “January 2, 1978”.
 
-1976—Subsec. (a)(3)(B). Pub. L. 94–569 substituted “the date which is” for “the date which is 2 years after” inprovisions preceding cl. (i), substituted “January 2, 1978” for “the date of the enactment of this paragraph” in cl. (i), and substituted “2 years after the date” for “the date” in cl. (ii).
+1976—Subsec. (a)(3)(B). Pub. L. 94–569 substituted “the date which is” for “the date which is 2 years after” in provisions preceding cl. (i), substituted “January 2, 1978” for “the date of the enactment of this paragraph” in cl. (i), and substituted “2 years after the date” for “the date” in cl. (ii).
 
 Subsec. (b)(3)(B)(ii). Pub. L. 94–455, §1901(b)(9), redesignated cl. (iii) as (ii) and struck out former cl. (ii) which provided that an individual who was a dependent solely by reason of par. (10) of section 152(a) would not be considered as a head of a household.
 

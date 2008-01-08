@@ -34,10 +34,6 @@ For the purposes of this section—
 
 December 22, 1987, referred to in subsec. (d), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 100–204, which enacted this section, to reflect the probable intent of Congress.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date
 
 Section 128(b) of Pub. L. 100–204 provided that:

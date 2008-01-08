@@ -170,13 +170,13 @@ Selection criteria.—In conducting a competition under paragraph (1), the Secre
 
 &emsp;&emsp;(A) the criteria described in subsection (d)(2); and
 
-&emsp;&emsp;(B) whether or not the institution (or, in the case of a consortium of institutions, thelead institution) can demonstrate that it has an established, recognized program in transportation research and education, as evidenced by—
+&emsp;&emsp;(B) whether or not the institution (or, in the case of a consortium of institutions, the lead institution) can demonstrate that it has an established, recognized program in transportation research and education, as evidenced by—
 
 &emsp;&emsp;&emsp;(i) not less than $1,000,000 in highway or public transportation research expenditures each year for each of the preceding 5 years or not less than $6,000,000 in such expenditures during the 5 preceding years;
 
 &emsp;&emsp;&emsp;(ii) not less than 5 graduate degrees awarded in professional fields closely related to highways and public transportation each year for each of the preceding 5 years; and
 
-&emsp;&emsp;&emsp;(iii) not less than 3 tenured or tenure-track faculty members who specialize on a full-time basis in professional fields closely related to highways and public transportation who, as a group, have published a total at least 20 refereed journal publications on highway or public transportation research during the preceding 5 years.
+&emsp;&emsp;&emsp;(iii) not less than 3 tenured or tenure-track faculty members who specialize on afull-time basis in professional fields closely related to highways and public transportation who, as a group, have published a total at least 20 refereed journal publications on highway or public transportation research during the preceding 5 years.
 
 &emsp;(3)
 

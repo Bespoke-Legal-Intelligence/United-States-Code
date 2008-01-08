@@ -34,7 +34,7 @@ No person shall become ineligible under section 3811 of this title for program l
 
 &emsp;(2) on highly erodible land that is planted or set aside in reliance on a determination by the Soil Conservation Service that such land was not highly erodible land, except that this paragraph shall not apply to any agricultural commodity that was planted or set aside on any land after the Soil Conservation Service determines that such land is highly erodible land; or
 
-&emsp;(3) on highly erodible land planted to alfalfa during each of the 1981 through 1985 crop yearsas part of a rotation practice approved by the Secretary, if the person has submitted a conservation plan, in which case, such person shall have until June 1, 1988, to comply with the plan without being subject to program ineligibility under section 3811 of this title.
+&emsp;(3) on highly erodible land planted to alfalfa during each of the 1981 through 1985 crop years as part of a rotation practice approved by the Secretary, if the person has submitted a conservation plan, in which case, such person shall have until June 1, 1988, to comply with the plan without being subject to program ineligibility under section 3811 of this title.
 
 #### (d) Program ineligibility inapplicable to pre-December 23, 1985, section 3811 loans
 
@@ -86,7 +86,7 @@ The Secretary, in providing assistance to an individual in the preparation or re
 
 Section 3811 of this title shall not apply to the noncommercial production of agricultural commodities on a farm if such production is limited to two acres or less and if the Secretary determines that such production is not intended to circumvent the conservation requirements otherwise applicable to lands under this subchapter.
 
-(Pub. L. 99–198, title XII, §1212, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 100–28, §§2, 3, Apr. 24, 1987, 101Stat. 291; Pub. L. 101–624, title XIV, §1412, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, §204(2), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §§301(d), 312–314, Apr. 4, 1996, 110 Stat. 981–983.)
+(Pub. L. 99–198, title XII, §1212, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 100–28, §§2, 3, Apr. 24, 1987, 101 Stat. 291; Pub. L. 101–624, title XIV, §1412, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, §204(2), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §§301(d), 312–314, Apr. 4, 1996, 110 Stat. 981–983.)
 
 #### References in Text
 
@@ -96,7 +96,7 @@ The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subse
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–127, §301(d)(1), in first sentence, struck out “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary” after “applying a conservation plan”.
+1996—Subsec. (a)(2). Pub. L. 104–127, §301(d)(1), in first sentence, struck out “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures andschedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary” after “applying a conservation plan”.
 
 Subsec. (a)(3). Pub. L. 104–127, §312, substituted “shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall” for “shall, if the conservation plan established under this subchapter for such land requires structures to be constructed,”.
 

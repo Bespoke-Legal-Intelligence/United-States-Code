@@ -22,7 +22,7 @@ The Secretary may—
 
 &emsp;(7) obtain fidelity bonds protecting the Government against fraud and dishonesty of officers and employees of the Farmers Home Administration in lieu of faithful performance of duties bonds under section 14 <sup>1</sup> of title 6, and regulations issued pursuant thereto, but otherwise in accordance with the provisions thereof;
 
-&emsp;(8) consent to (A) long-term leases of facilities financed under this subchapter notwithstanding the failure of the lessee to meet any of the requirements of this subchapter if such long-term leases are necessary to ensure the continuation of services for which financing was extended to the lessor, and (B) the transfer of property securing any loan or financed by any loan or grant made, insured, or held by the Secretary under this chapter, or the provisions of any other law administered by the Rural Development Administration under thischapter or by the Farmers Home Administration, upon such terms as he deems necessary to carry out the purpose of the loan or grant or to protect the financial interest of the Government, and shall document the consent of the Secretary for the transfer of the property of a borrower in the file of the borrower; and
+&emsp;(8) consent to (A) long-term leases of facilities financed under this subchapter notwithstanding the failure of the lessee to meet any of the requirements of this subchapter if such long-term leases are necessary to ensure the continuation of services for which financing was extended to the lessor, and (B) the transfer of property securing any loan or financed by any loan or grant made, insured, or held by the Secretary under this chapter, or the provisions of any other law administered by the Rural Development Administration under this chapter or by the Farmers Home Administration, upon such terms as he deems necessary to carry out the purpose of the loan or grant or to protect the financial interest of the Government, and shall document the consent of the Secretary for the transfer of the property of a borrower in the file of the borrower; and
 
 &emsp;(9) notwithstanding that an area ceases, or has ceased, to be “rural”, in a “rural area”, or an eligible area, make loans and grants, and approve transfers and assumptions, under this chapter on the same basis as though the area still was rural in connection with property securing any loan made, insured, or held by the Secretary under this chapter or in connection with any property held by the Secretary under this chapter.
 
@@ -118,7 +118,7 @@ Subsec. (a). Pub. L. 101–624, §§2303(a)(1), 2388(d)(1)(B), designated first 
 
 Subsec. (b). Pub. L. 101–624, §2388(d)(1)(B), designated second undesignated par. beginning “The Secretary may—” as subsec. (b).
 
-Subsec. (b)(1) to (3). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, §501(c)(2)(B)(iii), (v), redesignated pars. (a) to (c) as (1) to (3), respectively, of subsec. (b).
+Subsec. (b)(1) to (3). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L.102–237, §501(c)(2)(B)(iii), (v), redesignated pars. (a) to (c) as (1) to (3), respectively, of subsec. (b).
 
 Subsec. (b)(4). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, §501(c)(2)(B)(iii), (v), redesignated par. (d) as (4) of subsec. (b).
 

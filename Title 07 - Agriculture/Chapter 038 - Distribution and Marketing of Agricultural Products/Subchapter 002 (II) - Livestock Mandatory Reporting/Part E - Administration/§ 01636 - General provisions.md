@@ -12,7 +12,7 @@ The Secretary shall make available to the public information, statistics, and do
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), no officer, employee, or agent of the United States shall, without the consent of the packer or other person concerned, divulge or make known in any manner, any facts or information regarding the business of the packer or other person that was acquired through reporting required under this subchapter.
+&emsp;Subject to paragraph (2), no officer, employee, or agent of the United States shall,without the consent of the packer or other person concerned, divulge or make known in any manner, any facts or information regarding the business of the packer or other person that was acquired through reporting required under this subchapter.
 
 #### (2) Exceptions
 

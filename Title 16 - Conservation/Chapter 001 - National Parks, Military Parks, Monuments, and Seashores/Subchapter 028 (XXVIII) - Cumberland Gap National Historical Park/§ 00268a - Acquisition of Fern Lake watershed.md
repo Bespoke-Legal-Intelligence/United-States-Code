@@ -64,7 +64,7 @@ This section may be cited as the “Fern Lake Conservation and Recreation Act”
 
 #### (B) Terms of conveyance
 
-&emsp;&emsp;In executing the conveyance under subparagraph (4)(A), the Secretary may retain an easement for scenic and recreational purposes.
+&emsp;&emsp;In executing the conveyance under subparagraph (4)(A), the Secretary may retainan easement for scenic and recreational purposes.
 
 #### (C) Reversionary interest
 

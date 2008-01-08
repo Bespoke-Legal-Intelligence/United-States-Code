@@ -11,3 +11,4 @@
 - [&sect; 03554 - Decisions on protests](%C2%A7%2003554%20-%20Decisions%20on%20protests.md)
 - [&sect; 03555 - Regulations; authority of Comptroller General to verify assertions](%C2%A7%2003555%20-%20Regulations%3B%20authority%20of%20Comptroller%20General%20to%20verify%20assertions.md)
 - [&sect; 03556 - Nonexclusivity of remedies; matters included in agency record](%C2%A7%2003556%20-%20Nonexclusivity%20of%20remedies%3B%20matters%20included%20in%20agency%20record.md)
+- [&sect; 03557 - Expedited action in protests for public-private competitions](%C2%A7%2003557%20-%20Expedited%20action%20in%20protests%20for%20public-private%20competitions.md)

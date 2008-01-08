@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to such terms and conditions as the Secretary may prescribe, the Secretary may make telephone loans under this subchapter to borrowers of loans made by the Rural Utilities Service, State or local governments, Indian tribes (as defined in section 450b of title 25), or other public entities for facilities and equipment to expand or improve 911 access and integrated emergency communications systems in rural areas.
+Subject to such terms and conditions as the Secretary may prescribe, the Secretary maymake telephone loans under this subchapter to borrowers of loans made by the Rural Utilities Service, State or local governments, Indian tribes (as defined in section 450b of title 25), or other public entities for facilities and equipment to expand or improve 911 access and integrated emergency communications systems in rural areas.
 
 #### (b) Authorization of appropriations
 

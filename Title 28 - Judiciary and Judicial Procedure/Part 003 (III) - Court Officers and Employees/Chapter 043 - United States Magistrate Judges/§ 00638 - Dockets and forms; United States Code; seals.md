@@ -4,7 +4,7 @@
 
 (b) All property furnished to any such officer shall remain the property of the United States and, upon the termination of his term of office, shall be transmitted to his successor in office or otherwise disposed of as the Director orders.
 
-(c) The Director shall furnish to each United States magistrate judge appointed under this chapter an official impression seal in a form prescribed by the conference. Each such officer shall affix his seal to every jurat or certificate of his official acts without fee.
+(c) The Director shall furnish to each United States magistrate judge appointed under thischapter an official impression seal in a form prescribed by the conference. Each such officer shall affix his seal to every jurat or certificate of his official acts without fee.
 
 (June 25, 1948, ch. 646, 62 Stat. 917; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1114; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

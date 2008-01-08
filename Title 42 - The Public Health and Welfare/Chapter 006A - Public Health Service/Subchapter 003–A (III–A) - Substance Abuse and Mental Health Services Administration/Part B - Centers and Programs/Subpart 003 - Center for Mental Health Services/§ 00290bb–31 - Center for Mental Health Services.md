@@ -36,7 +36,7 @@ The Director of the Center shall—
 
 &emsp;(12) provide technical assistance to public and private entities that are providers of mental health services;
 
-&emsp;(13) monitor and enforce obligations incurred by community mental health centers pursuant to the Community Mental Health Centers Act (as in effect prior to the repeal of such Act on August 13, 1981, by section 902(e)(2)(B) of Public Law 97–35 (95 Stat. 560));
+&emsp;(13) monitor and enforce obligations incurred by community mental health centers pursuant to the Community Mental HealthCenters Act (as in effect prior to the repeal of such Act on August 13, 1981, by section 902(e)(2)(B) of Public Law 97–35 (95 Stat. 560));
 
 &emsp;(14) conduct surveys with respect to mental health, such as the National Reporting Program; and
 

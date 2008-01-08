@@ -6,7 +6,7 @@ Upon the certification of the Federal land manager concerned, the Secretary of t
 
 #### (b) Forfeitures
 
-All archaeological resources with respect to which a violation of subsection (a), (b), or (c) of section 470ee of this title occurred and which are in the possession of any person, and all vehicles and equipment of any person which were used in connection with such violation, may be (in the discretion of the court or administrative law judge, as the case may be) subject to forfeiture to the United States upon—
+All archaeological resources with respect to which a violation of subsection (a), (b), or (c) of section 470ee of this title occurred and which are in the possession of any person, and all vehicles and equipment of any person which were used in connection with such violation, may be (in thediscretion of the court or administrative law judge, as the case may be) subject to forfeiture to the United States upon—
 
 &emsp;(1) such person's conviction of such violation under section 470ee of this title,
 
@@ -16,7 +16,7 @@ All archaeological resources with respect to which a violation of subsection (a)
 
 #### (c) Disposition of penalties collected and items forfeited in cases involving archaeological resources excavated or removed from Indian lands
 
-In cases in which a violation of the prohibition contained in subsection (a), (b), or (c) of section 470ee of this title involve archaeological resources excavated or removed from Indian lands, the Federal land manager or the court, as the case may be, shall provide for the payment tothe Indian or Indian tribe involved of all penalties collected pursuant to section 470ff of this title and for the transfer to such Indian or Indian tribe of all items forfeited under this section.
+In cases in which a violation of the prohibition contained in subsection (a), (b), or (c) of section 470ee of this title involve archaeological resources excavated or removed from Indian lands, the Federal land manager or the court, as the case may be, shall provide for the payment to the Indian or Indian tribe involved of all penalties collected pursuant to section 470ff of this title and for the transfer to such Indian or Indian tribe of all items forfeited under this section.
 
 (Pub. L. 96–95, §8, Oct. 31, 1979, 93 Stat. 726.)
 

@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(D) Families and other natural supports can play important roles in the success of a vocational rehabilitation program, if the individual with a disability involved requests, desires, or needs such supports.
 
-&emsp;&emsp;(E) Vocational rehabilitation counselors that are trained and prepared in accordance with State policies and procedures as described in section 721(a)(7)(B) of this title (referred to individually in this subchapter as a “qualified vocational rehabilitation counselor”), other qualified rehabilitation personnel, and other qualified personnel facilitate the accomplishment of the employment outcomes and objectives of an individual.
+&emsp;&emsp;(E) Vocational rehabilitation counselors that are trained and prepared in accordancewith State policies and procedures as described in section 721(a)(7)(B) of this title (referred to individually in this subchapter as a “qualified vocational rehabilitation counselor”), other qualified rehabilitation personnel, and other qualified personnel facilitate the accomplishment of the employment outcomes and objectives of an individual.
 
 &emsp;&emsp;(F) Individuals with disabilities and the individuals’ representatives are full partners in a vocational rehabilitation program and must be involved on a regular basis and in a meaningful manner with respect to policy development and implementation.
 
@@ -124,7 +124,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 

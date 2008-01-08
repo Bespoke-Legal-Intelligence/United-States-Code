@@ -18,7 +18,7 @@ The Administrator shall endeavor, where appropriate, to supplement grants made u
 
 #### (c) “Eligible State” defined
 
-In this section, the term “eligible State” means a State designated by the Administrator as eligible to compete in the Foundation's Experimental Program to Stimulate Competitive Research.
+In this section, the term “eligible State” means a State designated by the Administratoras eligible to compete in the Foundation's Experimental Program to Stimulate Competitive Research.
 
 (Pub. L. 102–588, title III, §304, Nov. 4, 1992, 106 Stat. 5120.)
 

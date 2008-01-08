@@ -30,7 +30,7 @@ Reports.—(1) The Secretary of the Navy shall transmit to the appropriate commi
 
 &emsp;(C) the proposed partial basic allowance for housing rates for each contract as they vary by grade of the member and how they compare to basic allowance for housing rates for other contracts written under the authority of the pilot programs.
 
-(2) The report shall describe the proposed contract, conveyance, or lease and the intendedmethod of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation. The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease.
+(2) The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation. The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease.
 
 (f)
 

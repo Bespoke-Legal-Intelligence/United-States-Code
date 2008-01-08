@@ -16,7 +16,7 @@ Findings.—Congress finds that—
 
 &emsp;(6) providing launch services and reentry services by the private sector is consistent with the national security and foreign policy interests of the United States and would be facilitated by stable, minimal, and appropriate regulatory guidelines that are fairly and expeditiously applied;
 
-&emsp;(7) the United States should encourage private sector launches, reentries, and associated services and, only to the extent necessary, regulate those launches, reentries, and services to ensure compliance with international obligations of the United States and to protect the public health and safety, safety of property, and national security and foreign policy interests of the United States;
+&emsp;(7) the United States should encourage private sector launches, reentries, and associatedservices and, only to the extent necessary, regulate those launches, reentries, and services to ensure compliance with international obligations of the United States and to protect the public health and safety, safety of property, and national security and foreign policy interests of the United States;
 
 &emsp;(8) space transportation, including the establishment and operation of launch sites, reentry sites, and complementary facilities, the providing of launch services and reentry services, the establishment of support facilities, and the providing of support services, is an important element of the transportation system of the United States, and in connection with the commerce of the United States there is a need to develop a strong space transportation infrastructure with significant private sector involvement;
 
@@ -118,7 +118,7 @@ Pub. L. 108–492, §1, Dec. 23, 2004, 118 Stat. 3974, provided that: “This Ac
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–405, §1, Nov. 1, 2000, 114 Stat. 1751, provided that: “This Act \[amending sections 70113 and 70119 of this title and enacting provisions set out asnotes under this section and sections 70112 and 70113 of this title and section 2281 of Title 10, Armed Forces\] may be cited as the ‘Commercial Space Transportation Competitiveness Act of 2000’.”
+Pub. L. 106–405, §1, Nov. 1, 2000, 114 Stat. 1751, provided that: “This Act \[amending sections 70113 and 70119 of this title and enacting provisions set out as notes under this section and sections 70112 and 70113 of this title and section 2281 of Title 10, Armed Forces\] may be cited as the ‘Commercial Space Transportation Competitiveness Act of 2000’.”
 
 #### Findings
 

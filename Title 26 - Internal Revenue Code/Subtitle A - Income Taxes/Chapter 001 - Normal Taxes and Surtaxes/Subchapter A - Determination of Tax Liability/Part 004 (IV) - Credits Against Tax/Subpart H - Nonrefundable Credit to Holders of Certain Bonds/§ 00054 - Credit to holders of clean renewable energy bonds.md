@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (B) Refinancing rules
 
-&emsp;&emsp;For purposes of paragraph (1)(B), a qualified project may be refinanced with proceeds of a clean renewable energy bond only if the indebtedness being refinanced (including any obligation directly or indirectly refinanced by such indebtedness) was originally incurred by a qualified borrower after the date of the enactment of this section.
+&emsp;&emsp;For purposes of paragraph (1)(B), a qualified project may be refinanced with proceedsof a clean renewable energy bond only if the indebtedness being refinanced (including any obligation directly or indirectly refinanced by such indebtedness) was originally incurred by a qualified borrower after the date of the enactment of this section.
 
 #### (C) Reimbursement
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (2) Maximum term
 
-&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued duringthe following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined without regard to the requirements of subsection (<i>l</i>)(6) and using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
+&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined without regard to the requirements of subsection (<i>l</i>)(6) and using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
 
 #### (f) Limitation on amount of bonds designated
 
@@ -134,7 +134,7 @@ Gross income includes the amount of the credit allowed to the taxpayer under thi
 
 #### (i) Special rules relating to arbitrage
 
-A bond which is part of an issue shall not be treated as a clean renewable energy bond unless, with respect to the issue of which the bond is a part, the qualified issuer satisfies the arbitrage requirements of section 148 with respect to proceeds of the issue.
+A bond which is part of an issue shall not be treated as a clean renewable energy bond unless, with respect to the issue of which the bond is apart, the qualified issuer satisfies the arbitrage requirements of section 148 with respect to proceeds of the issue.
 
 #### (j) Cooperative electric company; qualified energy tax credit bond lender; governmental body; qualified borrower
 

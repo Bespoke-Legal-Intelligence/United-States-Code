@@ -228,7 +228,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsecs. (d)(1) and (h)(3)(D), (5)(B)(vi), isact June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (d)(1) and (h)(3)(D), (5)(B)(vi), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 Section 204 of the Child Nutrition and WIC Reauthorization Act of 2004, referred to in subsec. (h)(3)(C), is section 204 of Pub. L. 108–265, which is set out as a note under section 1751 of this title.
 
@@ -252,7 +252,7 @@ Subsec. (f)(1). Pub. L. 104–193, §731(b)(1)(B), struck out “(A)” before �
 
 Pub. L. 104–193, §731(b)(1)(A), struck out subpar. (B) which read as follows: “As used in this paragraph, the term ‘language appropriate’ used with respect to materials, programming, or advertisements means materials, programming, or advertisements, respectively, using a language other than the English language in a case in which the language is dominant for a large percentage of individuals participating in the program.”
 
-Subsec. (f)(2), (3). Pub. L. 104–193, §731(b)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any State desiring to receive grants authorized by this section may, from the funds appropriated to carry out this section, receive a planning and assessment grant for the purposes of carrying out the responsibilities described in clauses (A), (B), (C), and (D) of paragraph (1) of this subsection. Any State receiving a planning and assessment grant, may, during the first year of participation, be advanced a portion of the funds necessary to carry out such responsibilities: <i>Provided</i>, That in order to receive additional funding, the State must carry out such responsibilities.”
+Subsec. (f)(2), (3). Pub. L. 104–193, §731(b)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any State desiring to receive grants authorized by this section may, from the funds appropriated to carry out this section, receive a planning and assessment grant for the purposes of carrying out the responsibilities described in clauses (A), (B),\(C), and (D) of paragraph (1) of this subsection. Any State receiving a planning and assessment grant, may, during the first year of participation, be advanced a portion of the funds necessary to carry out such responsibilities: <i>Provided</i>, That in order to receive additional funding, the State must carry out such responsibilities.”
 
 Subsec. (f)(4). Pub. L. 104–193, §731(b)(2), struck out par. (4) which read as follows: “Nothing in this section shall prohibit State or local educational agencies from making available or distributing to adults nutrition education materials, resources, activities, or programs authorized under this section.”
 
@@ -353,6 +353,10 @@ Subsecs. (i), (j). Pub. L. 99–500 and Pub. L. 99–591, §§315, 362, 372(b)(2
 Subsec. (j)(2). Pub. L. 97–35, §806, substituted provisions authorizing $15,000,000 for fiscal year 1981 and not more than $5,000,000 for each subsequent fiscal year for provisions authorizing $15,000,000 for the fiscal year beginning Oct. 1, 1980, and each subsequent fiscal year.
 
 1980—Subsec. (j)(2). Pub. L. 96–499 substituted “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1984” for “For the fiscal year beginning October 1, 1979” and “second preceding sentence” for “preceding sentence” and inserted provision authorizing appropriations for the fiscal year beginning October 1, 1980, and subsequent fiscal years, for the grants referred to in the preceding sentence, not more than $15,000,000.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1998 Amendment
 

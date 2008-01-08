@@ -2,7 +2,7 @@
 
 (a) The Supreme Court may appoint a marshal, who shall be subject to removal by the Court, and may fix his compensation.
 
-(b) The marshal may, with the approval of the Chief Justice of the United States, appoint andfix the compensation of necessary assistants and other employees to attend the Court, and necessary custodial employees.
+(b) The marshal may, with the approval of the Chief Justice of the United States, appoint and fix the compensation of necessary assistants and other employees to attend the Court, and necessary custodial employees.
 
 (c) The marshal shall:
 
@@ -50,7 +50,7 @@ Subsec. (c)(7). Pub. L. 88–279, §2(b), added par. (7).
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–279 effective upon appropriation and availability of funds to pay salaries and other expenses of the clerk's office, see section 4 of Pub. L. 88–279, set out as a note under section 671 of this title.
+Amendment by Pub. L. 88–279 effective upon appropriation and availability of funds to pay salaries and other expenses of the clerk's office, see section 4 ofPub. L. 88–279, set out as a note under section 671 of this title.
 
 #### Appropriations
 

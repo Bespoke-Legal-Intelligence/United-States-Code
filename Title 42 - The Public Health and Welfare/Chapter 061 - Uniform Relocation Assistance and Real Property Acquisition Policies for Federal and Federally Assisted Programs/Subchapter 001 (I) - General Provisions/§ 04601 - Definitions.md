@@ -64,7 +64,7 @@ This chapter, referred to in introductory provision and par. (6)(B)(i), was in t
 
 1987—Par. (1). Pub. L. 100–17, §402(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Federal agency’ means any department, agency, or instrumentality in the executive branch of the Government (except the National Capital Housing Authority), any wholly owned Government corporation (except the District of Columbia Redevelopment Land Agency), and the Architect of the Capitol, the Federal Reserve banks and branches thereof.”
 
-Par. (3). Pub. L. 100–17, §402(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘State agency’ means the National Capital Housing Authority, the District of Columbia Redevelopment Land Agency, and any department, agency, or instrumentality of a State or of a political subdivision of a State, or any department, agency, or instrumentality of two or more States or of two or more political subdivisions of a State or States.”
+Par. (3). Pub. L. 100–17, §402(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows:“The term ‘State agency’ means the National Capital Housing Authority, the District of Columbia Redevelopment Land Agency, and any department, agency, or instrumentality of a State or of a political subdivision of a State, or any department, agency, or instrumentality of two or more States or of two or more political subdivisions of a State or States.”
 
 Par. (4). Pub. L. 100–17, §402(c), inserted “, any interest reduction payment to an individual in connection with the purchase and occupancy of a residence by that individual,” after “insurance”.
 

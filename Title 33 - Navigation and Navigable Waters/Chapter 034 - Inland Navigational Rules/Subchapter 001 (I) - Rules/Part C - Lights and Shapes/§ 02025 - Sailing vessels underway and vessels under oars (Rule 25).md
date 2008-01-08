@@ -24,7 +24,7 @@ A sailing vessel underway may, in addition to the lights prescribed in paragraph
 
 #### (e) Vessels proceeding under sail
 
-A vessel proceeding under sail when also being propelled by machinery shall exhibit forward where it can best be seen a conical shape, apexdownward. A vessel of less than 12 meters in length is not required to exhibit this shape, but may do so.
+A vessel proceeding under sail when also being propelled by machinery shall exhibit forward where it can best be seen a conical shape, apex downward. A vessel of less than 12 meters in length is not required to exhibit this shape, but may do so.
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3426.)
 

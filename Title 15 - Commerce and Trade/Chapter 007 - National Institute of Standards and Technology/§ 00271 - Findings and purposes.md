@@ -48,7 +48,7 @@ Pub. L. 105–309, §1, Oct. 30, 1998, 112 Stat. 2935, provided that: “This Ac
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–245, title II, §201(a), Feb. 14, 1992, 106 Stat. 15, provided that: “This title \[amending sections 272 and 278n of this title and enacting provisions set out as notes under section 278n of this title\] may be cited as the ‘Emerging Technologies and Advanced Technology Program Amendments Act of 1991’.”
+Pub. L. 102–245, title II, §201(a), Feb. 14, 1992, 106 Stat. 15, provided that: “This title \[amending sections 272and 278n of this title and enacting provisions set out as notes under section 278n of this title\] may be cited as the ‘Emerging Technologies and Advanced Technology Program Amendments Act of 1991’.”
 
 #### Short Title of 1988 Amendment
 
@@ -56,9 +56,7 @@ Section 5101 of Pub. L. 100–418 provided that: “This part \[part I (§§5101
 
 #### Short Title
 
-Act Mar. 3, 1901, ch. 872, §32, formerly §23, as added Jan. 8, 1988, Pub. L. 100–235, §3(3), 101 Stat. 1728; renumbered §31 and amended Pub. L. 100–418, title V, §§5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433; renumbered §32, Pub. L. 105–309, §4(a), Oct. 30, 1998, 112 Stat. 2935, provided that: “This Act \[enacting this chapter\] may be cited as the National Institute of Standards and Technology Act.”
-
-\[Another section 32 of act Mar. 3, 1901, ch. 872, is classified to section 278q of this title.\]
+Act Mar. 3, 1901, ch. 872, §34, formerly §23, as added Jan. 8, 1988, Pub. L. 100–235, §3(3), 101 Stat. 1728; renumbered §31 and amended Pub. L. 100–418, title V, §§5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433; renumbered §32, Pub. L. 105–309, §4(a), Oct. 30, 1998, 112 Stat. 2935; renumbered §34, Pub. L. 110–69, title III, §3007(1), Aug. 9, 2007, 121 Stat. 590, provided that: “This Act \[enacting this chapter\] may be cited as the National Institute of Standards and Technology Act.”
 
 #### Savings Provision
 

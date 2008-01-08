@@ -22,7 +22,5 @@ Section is based on section 1 of House Resolution No. 1047, Ninety-fifth Congres
 
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
-
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

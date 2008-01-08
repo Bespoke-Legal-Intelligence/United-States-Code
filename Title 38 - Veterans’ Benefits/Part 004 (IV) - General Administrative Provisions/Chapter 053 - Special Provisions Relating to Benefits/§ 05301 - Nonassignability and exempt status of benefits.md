@@ -6,7 +6,7 @@
 
 (3)(A) This paragraph is intended to clarify that, in any case where a beneficiary entitled to compensation, pension, or dependency and indemnity compensation enters into an agreement with another person under which agreement such other person acquires for consideration the right to receive such benefit by payment of such compensation, pension, or dependency and indemnity compensation, as the case may be, except as provided in subparagraph (B), and including deposit into a joint account from which such other person may make withdrawals, or otherwise, such agreement shall be deemed to be an assignment and is prohibited.
 
-(B) Notwithstanding subparagraph (A), nothing in this paragraph is intended to prohibit a loan involving a beneficiary under the terms of which the beneficiary may use the benefit to repay such other person as long as each of the periodic payments made to repay such other person is separately and voluntarily executed by the beneficiary or is made by preauthorized electronic funds transfer pursuant to the Electronic Funds Transfers Act (15 U.S.C. 1693 et seq.).
+(B) Notwithstanding subparagraph (A), nothing in this paragraph is intended to prohibit aloan involving a beneficiary under the terms of which the beneficiary may use the benefit to repay such other person as long as each of the periodic payments made to repay such other person is separately and voluntarily executed by the beneficiary or is made by preauthorized electronic funds transfer pursuant to the Electronic Funds Transfers Act (15 U.S.C. 1693 et seq.).
 
 (C) Any agreement or arrangement for collateral for security for an agreement that is prohibited under subparagraph (A) is also prohibited and is void from its inception.
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 94–502 effective Dec. 1, 1976, see section 703(c) of Pub.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Undue Hardship Cases
 

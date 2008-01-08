@@ -10,7 +10,7 @@ Such schedules shall plainly state all such rates and charges in such detail as 
 
 #### (c) Changes
 
-No changes shall be made in the rates or charges so filed and published, except after tendays’ notice to the Secretary and to the public filed and published as aforesaid, which shall plainly state the changes proposed to be made and the time such changes will go into effect; but the Secretary may, for good cause shown, allow changes on less than ten days’ notice, or modify the requirements of this section in respect to publishing, posting, and filing of schedules, either in particular instances or by a general order applicable to special or peculiar circumstances or conditions.
+No changes shall be made in the rates or charges so filed and published, except after ten days’ notice to the Secretary and to the public filed and published as aforesaid, which shall plainly state the changes proposed to be made and the time such changes will go into effect; but the Secretary may, for good cause shown, allow changes on less than ten days’ notice, or modify the requirements of this section in respect to publishing, posting, and filing of schedules, either in particular instances or by a general order applicable to special or peculiar circumstances or conditions.
 
 #### (d) Rejection by Secretary
 
@@ -22,7 +22,7 @@ Whenever there is filed with the Secretary any schedule, stating a new rate or c
 
 #### (f) Suspension of operations; compliance
 
-After the expiration of the sixty days referred to in subsection (a) of this section, no person shall carry on the business of a stockyard owner or market agency unless the rates and charges for the stockyard services furnished at the stockyard have been filed and published in accordance with this section and the orders of the Secretary made thereunder; nor charge, demand, or collect a greater or less or different compensation for such services than the rates and charges specified in the schedules filed and in effect at the time; nor refund or remit in any manner any portion of the rates or charges so specified (but this shall not prohibit a cooperative association of producers from bona fide returning to its members, on a patronage basis, its excess earnings on their livestock, subject to such regulations as the Secretary may prescribe); nor extend to any person at such stockyard any stockyard services except such as are specified in such schedules.
+After the expiration of the sixty days referred to in subsection (a) of this section, no person shall carry on the business of a stockyard owner or market agency unless the rates and charges for the stockyard services furnished at the stockyard have been filed and published in accordance with this section and the orders of theSecretary made thereunder; nor charge, demand, or collect a greater or less or different compensation for such services than the rates and charges specified in the schedules filed and in effect at the time; nor refund or remit in any manner any portion of the rates or charges so specified (but this shall not prohibit a cooperative association of producers from bona fide returning to its members, on a patronage basis, its excess earnings on their livestock, subject to such regulations as the Secretary may prescribe); nor extend to any person at such stockyard any stockyard services except such as are specified in such schedules.
 
 #### (g) Penalty
 

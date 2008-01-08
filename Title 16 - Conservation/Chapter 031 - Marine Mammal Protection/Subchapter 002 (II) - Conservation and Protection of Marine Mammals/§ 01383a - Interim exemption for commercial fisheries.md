@@ -74,7 +74,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(3) for each incidental taking, the number and species of marine mammals involved, whether the marine mammals were deterred from gear or catch, incidentally injured, incidentally killed, or lethally removed to protect gear, catch, or human life.
 
-> If there was no incidental taking of marine mammals during the reporting period, a reportstating that fact shall be filed with the Secretary.
+> If there was no incidental taking of marine mammals during the reporting period, a report stating that fact shall be filed with the Secretary.
 
 #### (d) Program for enhancement and verification of information received from vessel owners; confidentiality of information
 
@@ -170,7 +170,7 @@ The Secretary shall design and implement an information management system capabl
 
 #### (i) Utilization of services of State and Federal agencies and private entities
 
-When carrying out the Secretary's responsibilities under subsections (b), (d), (e), (f), and (h) of this section, the Secretary shall, to the maximum extent practicable, utilize the services and programs of State agencies, Federal agencies (including programs established by Regional Fishery Management Councils), marine fisheries commissions, universities, and private entities, on a reimbursable basis or otherwise. The Secretary is authorized to enter into contracts and agreements to carry out his or her responsibilities and shall establish appropriate guidelines to ensure that other programs used or contracted for will meet the same standards as a program established by the Secretary. A person contracting with the Secretary to provide observer services under subsection (e) of this section must provide evidence of financial responsibility in an amount and form prescribed by theSecretary to compensate employees (or their survivors) adequately for any illness, disability, injury, or death from service on a vessel.
+When carrying out the Secretary's responsibilities under subsections (b), (d), (e), (f), and (h) of this section, the Secretary shall, to the maximum extent practicable, utilize the services and programs of State agencies, Federal agencies (including programs established by Regional Fishery Management Councils), marine fisheries commissions, universities, and private entities, on a reimbursable basis or otherwise. The Secretary is authorized to enter into contracts andagreements to carry out his or her responsibilities and shall establish appropriate guidelines to ensure that other programs used or contracted for will meet the same standards as a program established by the Secretary. A person contracting with the Secretary to provide observer services under subsection (e) of this section must provide evidence of financial responsibility in an amount and form prescribed by the Secretary to compensate employees (or their survivors) adequately for any illness, disability, injury, or death from service on a vessel.
 
 #### (j) Confidentiality of information; exceptions
 
@@ -274,7 +274,7 @@ Section 404(a)(2) of Pub. L. 104–43 provided that: “The amendment made by pa
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

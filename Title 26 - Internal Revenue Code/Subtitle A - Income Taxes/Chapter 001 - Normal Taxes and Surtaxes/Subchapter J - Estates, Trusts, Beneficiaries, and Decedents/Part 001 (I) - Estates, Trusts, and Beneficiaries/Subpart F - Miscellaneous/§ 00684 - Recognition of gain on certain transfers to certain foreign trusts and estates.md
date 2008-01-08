@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in regulations, in the case of any transfer of property by a United Statesperson to a foreign estate or trust, for purposes of this subtitle, such transfer shall be treated as a sale or exchange for an amount equal to the fair market value of the property transferred, and the transferor shall recognize as gain the excess of—
+Except as provided in regulations, in the case of any transfer of property by a United States person to a foreign estate or trust, for purposes of this subtitle, such transfer shall be treated as a sale or exchange for an amount equal to the fair market value of the property transferred, and the transferor shall recognize as gain the excess of—
 
 &emsp;(1) the fair market value of the property so transferred, over
 

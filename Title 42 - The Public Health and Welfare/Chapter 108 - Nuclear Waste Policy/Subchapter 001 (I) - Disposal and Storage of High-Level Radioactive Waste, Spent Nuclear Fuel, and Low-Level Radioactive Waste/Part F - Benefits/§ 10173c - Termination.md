@@ -16,7 +16,7 @@ A State or Indian tribe may terminate a benefits agreement under this subchapter
 
 Decisions of the Secretary under this section shall be in writing, shall be available to Congress and the public, and are not subject to judicial review.
 
-(Pub. L. 97–425, title I, §173, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5031, Dec. 22, 1987, 101 Stat. 1330–240.)
+(Pub. L. 97–425, title I, §173, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5031, Dec. 22, 1987, 101 Stat. 1330–240.)
 
 #### Codification
 

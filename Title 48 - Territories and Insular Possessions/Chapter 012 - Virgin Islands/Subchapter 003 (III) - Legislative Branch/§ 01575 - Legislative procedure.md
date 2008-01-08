@@ -38,7 +38,7 @@ A listing of all laws enacted by the legislature each year shall be transmitted 
 
 1978—Subsec. (c). Pub. L. 95–348 inserted provision authorizing the Virgin Islands Legislature to determine other dates on which the fiscal year shall commence.
 
-1977—Subsec. (d). Pub. L. 95–134 inserted “, unless the legislature, after reconsideration upon motion of amember thereof, passes such items, parts, or portions so objected to by a vote of two-thirds of all the members of the legislature” after “shall not take effect”.
+1977—Subsec. (d). Pub. L. 95–134 inserted “, unless the legislature, after reconsideration upon motion of a member thereof, passes such items, parts, or portions so objected to by a vote of two-thirds of all the members of the legislature” after “shall not take effect”.
 
 1968—Subsec. (a). Pub. L. 90–496, §2, increased the quorum requirement from seven to eight members.
 

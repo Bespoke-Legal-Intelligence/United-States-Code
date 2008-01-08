@@ -74,7 +74,7 @@ Implementation.—The Under Secretary of Homeland Security for Border and Transp
 
 “(d)
 
-Report.—Not later than 1 year after implementing the pilot program under subsection (a), the Under Secretary shall submit a report on the program to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science, the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary. The Under Secretary shall include in the report a description of the program together with such recommendations as the Under Secretary finds appropriate, including recommendations for terminating the program, making the program permanent, or enhancing the program.”
+Report.—Not later than 1 year after implementing the pilot program under subsection (a), the UnderSecretary shall submit a report on the program to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science \[now Committee on Science and Technology\], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary. The Under Secretary shall include in the report a description of the program together with such recommendations as the Under Secretary finds appropriate, including recommendations for terminating the program, making the program permanent, or enhancing the program.”
 
 #### Advanced Technology Northern Border Security Pilot Program
 

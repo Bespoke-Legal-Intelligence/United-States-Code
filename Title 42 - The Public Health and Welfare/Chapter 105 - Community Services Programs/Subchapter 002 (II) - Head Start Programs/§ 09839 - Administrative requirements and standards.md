@@ -2,7 +2,35 @@
 
 #### (a) Employment practices, nonpartisanship, staff accountability, public access to information, etc.
 
-Each Head Start agency shall observe standards of organization, management, and administration which will assure, so far as reasonably possible, that all program activities are conducted in a manner consistent with the purposes of this subchapter and the objective of providing assistance effectively, efficiently, and free of any taint of partisan political bias or personal or family favoritism. Each such agency shall establish or adopt rules to carry out this section, which shall include rules to assure full staff accountability in matters governed by law, regulations, or agency policy. Each agency shall also provide for reasonable public access to information, including public hearings at the request of appropriate community groups and reasonable public access to books and records of the agency or other agencies engaged in program activities or operations involving the use of authority or funds for which it is responsible. Each such agency shall adopt for itself and other agencies using funds or exercising authority for which it is responsible, rules designed to (1) establish specific standards governing salaries, salary increases, travel and per diem allowances, and other employee benefits; (2) assure that only persons capable of discharging their duties with competence and integrity are employed and that employees are promoted or advanced under impartial procedures calculated to improve agency performance and effectiveness; (3) guard against personal or financial conflicts of interest; and (4) define employee duties in an appropriate manner which will in any case preclude employees from participating, in connection with the performance of their duties, in any form of picketing, protest, or other direct action which is in violation of law.
+(1) Each Head Start agency shall observe standards of organization, management, and administration that will ensure, so far as reasonably possible, that all program activities are conducted in a manner consistent with the purposes of this subchapter and the objective of providing assistance effectively, efficiently, and free of any taint of partisan political bias or personal or family favoritism. Each such agency shall establish or adopt rules to carry out this section, which shall include rules to assure full staff accountability in matters governed by law, regulations, or agency policy. Each agency shall also provide for reasonable public access to information, including public hearings at the request of appropriate community groups and reasonable public access to books and records of the agency or other agencies engaged in program activities or operations involving the use of authority or funds for which it is responsible.
+
+(2) Each Head Start agency shall make available to the public a report published at least once in each fiscal year that discloses the following information from the most recently concluded fiscal year, except that reporting such information shall not reveal personally identifiable information about an individual child or parent:
+
+&emsp;(A) The total amount of public and private funds received and the amount from each source.
+
+&emsp;(B) An explanation of budgetary expenditures and proposed budget for the fiscal year.
+
+&emsp;(C) The total number of children and families served, the average monthly enrollment (as a percentage of funded enrollment), and the percentage of eligible children served.
+
+&emsp;(D) The results of the most recent review by the Secretary and the financial audit.
+
+&emsp;(E) The percentage of enrolled children that received medical and dental exams.
+
+&emsp;(F) Information about parent involvement activities.
+
+&emsp;(G) The agency's efforts to prepare children for kindergarten.
+
+&emsp;(H) Any other information required by the Secretary.
+
+(3) Each such agency shall adopt for itself and other agencies using funds or exercising authority for which it is responsible, rules designed to—
+
+&emsp;(A) establish specific standards governing salaries, salary increases, travel and per diem allowances, and other employee benefits;
+
+&emsp;(B) assure that only persons capable of discharging their duties with competence and integrity are employed and that employees are promoted or advanced under impartial procedures calculated to improve agency performance and effectiveness;
+
+&emsp;(C) guard against personal or financial conflicts of interest; and
+
+&emsp;(D) define employee duties in an appropriate manner that will in any case preclude employees from participating, in connection with the performance of their duties, in any form of picketing, protest, or other direct action that is in violation of law.
 
 #### (b) Development and administrative costs of programs
 
@@ -10,7 +38,7 @@ Except as provided in subsection (f) of this section, no financial assistance sh
 
 #### (c) Rules and regulations; special or simplified requirements for small agencies; common or joint use of facilities
 
-The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f) of this section, which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
+The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f) of this section, which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smalleragencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
 
 #### (d) Publication and notification of proposed rules, etc.
 
@@ -26,21 +54,23 @@ Funds appropriated to carry out this subchapter shall not be used to assist, pro
 
 (2) Financial assistance provided under this subchapter may not be used by a Head Start agency to purchase a facility (including paying the cost of amortizing the principal, and paying interest on, loans) to be used to carry out a Head Start program unless the Secretary approves a request that is submitted by such agency and contains—
 
-&emsp;(A) a description of the site of the facility proposed to be purchased or that was previously purchased;
+&emsp;(A) a description of the efforts by the agency to coordinate or collaborate with other providers in the community to seek assistance, including financial assistance, prior to the use of funds under this section;
 
-&emsp;(B) the plans and specifications of such facility;
+&emsp;(B) a description of the site of the facility proposed to be purchased or that was previously purchased;
 
-&emsp;(C) information demonstrating that—
+&emsp;(C) the plans and specifications of such facility;
+
+&emsp;(D) information demonstrating that—
 
 &emsp;&emsp;(i) the proposed purchase will result, or the previous purchase has resulted, in savings when compared to the costs that would be incurred to acquire the use of an alternative facility to carry out such program; or
 
 &emsp;&emsp;(ii) the lack of alternative facilities will prevent, or would have prevented, the operation of such program;
 
-&emsp;(D) in the case of a request regarding a previously purchased facility, information demonstrating that the facility will be used principally as a Head Start center, or a direct support facility for a Head Start program; and
+&emsp;(E) in the case of a request regarding a previously purchased facility, information demonstrating that the facility will be used principally as a Head Start center, or a direct support facility for a Head Start program; and
 
-&emsp;(E) such other information and assurances as the Secretary may require.
+&emsp;(F) such other information and assurances as the Secretary may require.
 
-(3) Upon a determination by the Secretary that suitable facilities are not otherwise available to Indian tribes to carry out Head Start programs, and that the lack of suitable facilities will inhibit the operation of such programs, the Secretary, in the discretion of the Secretary, may authorize the use of financial assistance, from the amount reserved under section 9835(a)(2)(A) of this title, to make payments for the purchase of facilities owned by such tribes. The amount of such a payment for such a facility shall not exceed the fair market value of the facility.
+(3) Upon a determination by the Secretary that suitable facilities are not otherwise available to Indian tribes to carry out Head Start programs, and that the lack of suitable facilities will inhibit the operation of such programs, the Secretary, in the discretion of the Secretary, may authorize the use of financial assistance to make payments for the purchase of facilities owned by such tribes. The amount of such a payment for such a facility shall not exceed the fair market value of the facility.
 
 #### (g) Payments for capital expenditures
 
@@ -60,13 +90,19 @@ Funds appropriated to carry out this subchapter shall not be used to assist, pro
 
 In all personnel actions of the American Indian Programs Branch of the Head Start Bureau of the Administration for Children and Families, the Secretary shall give the same preference to individuals who are members of an Indian tribe as the Secretary gives to a disabled veteran, as defined in section 2108(3)(C) of title 5. The Secretary shall take such additional actions as may be necessary to promote recruitment of such individuals for employment in the Administration.
 
-(Pub. L. 97–35, title VI, §644, Aug. 13, 1981, 95 Stat. 502; Pub. L. 101–501, title I, §§111, 112, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(j), Oct. 7, 1992, 106 Stat. 1958; Pub. L. 103–218, title IV, §403, Mar. 9, 1994, 108 Stat. 96; Pub. L. 103–252, title I, §110, May 18, 1994, 108 Stat. 636; Pub. L. 105–285, title I, §106(e), Oct. 27, 1998, 112 Stat. 2712.)
+(Pub. L. 97–35, title VI, §644, Aug. 13, 1981, 95 Stat. 502; Pub. L. 101–501, title I, §§111, 112, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(j), Oct.7, 1992, 106 Stat. 1958; Pub. L. 103–218, title IV, §403, Mar. 9, 1994, 108 Stat. 96; Pub. L. 103–252, title I, §110, May 18, 1994, 108 Stat. 636; Pub. L. 105–285, title I, §106(e), Oct. 27, 1998, 112 Stat. 2712; Pub. L. 110–134, §13, Dec. 12, 2007, 121 Stat. 1414.)
 
 #### Codification
 
 In subsec. (g)(3), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, as amended (40 U.S.C. 276a et seq., commonly known as the ‘Davis-Bacon Act’)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 110–134, §13(1), added subsec. (a) and struck out former subsec. (a) which related to employment practices, nonpartisanship, staff accountability, and public access to information.
+
+Subsec. (f)(2). Pub. L. 110–134, §13(2)(A), added subpar. (A) and redesignated former subpars. (A) to (E) as (B) to (F), respectively.
+
+Subsec. (f)(3). Pub. L. 110–134, §13(2)(B), struck out “, from the amount reserved under section 9835(a)(2)(A) of this title,” after “financial assistance”.
 
 1998—Subsec. (f)(2). Pub. L. 105–285 substituted “Financial assistance” for “Except as provided in section 9835(a)(3)(C)(v) of this title, financial assistance”.
 

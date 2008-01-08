@@ -32,7 +32,7 @@ Repeal effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as an
 
 #### Savings Provision
 
-Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193, provided in part that findings in effect on the effective date of the repeal of sections 160 to 171 of this title (Jan. 1, 1980, see Effective Date of Repeal note set out above) or issued pursuant to court order in an action brought before that date, shall remain in effect, subject to review under section 1675 of this title.
+Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193, provided in part that findings in effect on the effective date of the repeal of sections 160 to 171 of this title (Jan. 1, 1980, see Effective Date of Repeal note set outabove) or issued pursuant to court order in an action brought before that date, shall remain in effect, subject to review under section 1675 of this title.
 
 #### Administration of the Antidumping Act, 1921, by United States Tariff Commission; Report to Congress
 

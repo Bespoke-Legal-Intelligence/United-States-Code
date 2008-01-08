@@ -74,5 +74,5 @@ Pub. L. 101–162, title IV, §406(b), Nov. 21, 1989, 103 Stat. 1016, as amended
 
 \[Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that the amendment to section 406(b) of Pub. L. 101–162, set out above, is effective 30 days after Nov. 29, 1999.\]
 
-\[Section 111(a), (b) of Pub. L. 103–121 provided in part that the amendments to section 406(b) of Pub. L. 101–162, set out above, are effective 30 days after Oct. 27, 1993.\]
+\[Section 111(a), (b) of Pub. L. 103–121 provided in part that the amendments to section 406(b) of Pub. L.101–162, set out above, are effective 30 days after Oct. 27, 1993.\]
 

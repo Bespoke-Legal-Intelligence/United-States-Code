@@ -24,7 +24,7 @@
 
 #### (B) Alternate countries
 
-&emsp;&emsp;If the alien refuses to designate a country to which the alien wishes to be removed or if the Attorney General, in consultation with the Secretary of State, determines thatremoval of the alien to the country so designated would impair a treaty obligation or adversely affect United States foreign policy, the Attorney General shall cause the alien to be removed to any country willing to receive such alien.
+&emsp;&emsp;If the alien refuses to designate a country to which the alien wishes to be removed or if the Attorney General, in consultation with the Secretary of State, determines that removal of the alien to the country so designated would impair a treaty obligation or adversely affect United States foreign policy, the Attorney General shall cause the alien to be removed to any country willing to receive such alien.
 
 #### (C) Continued detention
 
@@ -70,7 +70,7 @@ For purposes of sections 751 and 752 of title 18, an alien in the custody of the
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the firstmonth beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

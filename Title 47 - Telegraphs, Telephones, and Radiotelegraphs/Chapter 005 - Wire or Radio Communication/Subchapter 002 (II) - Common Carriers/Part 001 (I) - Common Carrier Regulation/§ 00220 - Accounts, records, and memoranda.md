@@ -24,7 +24,7 @@ Any person who shall willfully make any false entry in the accounts of any book 
 
 #### (f) Confidentiality of information
 
-No member, officer, or employee of the Commission shall divulge any fact or information which may come to his knowledge during thecourse of examination of books or other accounts, as hereinbefore provided, except insofar as he may be directed by the Commission or by a court.
+No member, officer, or employee of the Commission shall divulge any fact or information which may come to his knowledge during the course of examination of books or other accounts, as hereinbefore provided, except insofar as he may be directed by the Commission or by a court.
 
 #### (g) Use of other forms; alterations in prescribed forms
 
@@ -42,7 +42,7 @@ The Commission, before prescribing any requirements as to accounts, records, or 
 
 The Commission shall investigate and report to Congress as to the need for legislation to define further or harmonize the powers of the Commission and of State commissions with respect to matters to which this section relates.
 
-(June 19, 1934, ch. 652, title II, §220, 48 Stat. 1078; Pub. L. 101–239, title III, §3002(f), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 103–414, title III, §§303(a)(7), (8), 304(a)(5), Oct. 25, 1994, 108 Stat. 4294, 4296; Pub. L. 104–104, title IV, §403(d), (e), Feb. 8, 1996, 110 Stat. 130.)
+(June 19, 1934, ch. 652, title II, §220, 48 Stat. 1078; Pub. L. 101–239, title III, §3002(f), Dec. 19, 1989,103 Stat. 2131; Pub. L. 103–414, title III, §§303(a)(7), (8), 304(a)(5), Oct. 25, 1994, 108 Stat. 4294, 4296; Pub. L. 104–104, title IV, §403(d), (e), Feb. 8, 1996, 110 Stat. 130.)
 
 #### Amendments
 

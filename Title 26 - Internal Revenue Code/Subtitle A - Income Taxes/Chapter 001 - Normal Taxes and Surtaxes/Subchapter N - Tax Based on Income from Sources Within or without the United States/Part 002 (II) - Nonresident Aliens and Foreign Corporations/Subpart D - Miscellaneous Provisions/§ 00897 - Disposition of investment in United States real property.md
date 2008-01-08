@@ -140,7 +140,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) at the time of the receipt of the distributed property, the distributee would be subject to taxation under this chapter on a subsequent disposition of the distributed property, and
 
-&emsp;&emsp;&emsp;(ii) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by theamount of gain (if any) recognized by the distributing corporation, or
+&emsp;&emsp;&emsp;(ii) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by the amount of gain (if any) recognized by the distributing corporation, or
 
 &emsp;&emsp;(B) if such nonrecognition is provided in regulations prescribed by the Secretary under subsection (e)(2).
 
@@ -282,7 +282,7 @@ For purposes of this section—
 
 &emsp;An election under paragraph (1) may be made only—
 
-&emsp;&emsp;(A) if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the time of the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980, which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
+&emsp;&emsp;(A) if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the timeof the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980, which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
 
 &emsp;&emsp;(B) subject to such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders.
 
@@ -392,7 +392,7 @@ Pub. L. 109–222, title V, §506(c), May 17, 2006, 120 Stat. 358, provided that
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -468,11 +468,11 @@ In General.—For purposes of section 897 of the Internal Revenue Code of 1986, 
 
 &emsp;“(4) the transfer, sale, exchange, or other disposition is part of a single integrated plan, whereby the stock of the corporation described in paragraph (1) becomes owned directly by the 2 corporations specifically referred to in subsection (b) or by such 2 corporations and by 1 or both of their jointly owned direct subsidiaries,
 
-&emsp;“(5) within 20 days after each transfer, sale, exchange, or other disposition, the person making such transfer, sale, exchange, or other disposition notifies the Internal Revenue Service of the transaction, the date of the transaction, the basis of the stock involved, the holding period for such stock, and such other information as the Internal Revenue Service may require, and
+&emsp;“(5) within 20 days after each transfer, sale, exchange, or other disposition, the person making such transfer, sale, exchange, or other disposition notifiesthe Internal Revenue Service of the transaction, the date of the transaction, the basis of the stock involved, the holding period for such stock, and such other information as the Internal Revenue Service may require, and
 
 &emsp;“(6) the integrated plan is completed before the date 4 years after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\].
 
-> In the case of any underpayment attributable to a failure to meet any requirement of this subsection, the period during which such underpayment may be assessed shall in no event expire before the date 5 years afterthe date of the enactment of the Technical and Miscellaneous Revenue Act of 1988.
+> In the case of any underpayment attributable to a failure to meet any requirement of this subsection, the period during which such underpayment may be assessed shall in no event expire before the date 5 years after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988.
 
 “(b)
 

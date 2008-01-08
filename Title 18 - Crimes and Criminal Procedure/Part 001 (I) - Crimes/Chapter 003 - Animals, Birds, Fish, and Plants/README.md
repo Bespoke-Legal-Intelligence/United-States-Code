@@ -9,6 +9,7 @@
 | [46\.](%C2%A7%2000046%20-%20Transportation%20of%20water%20hyacinths.md) | Transportation of water hyacinths. |
 | [47\.](%C2%A7%2000047%20-%20Use%20of%20aircraft%20or%20motor%20vehicles%20to%20hunt%20certain%20wild%20horses%20or%20burros%3B%20pollution%20of%20watering%20holes.md) | Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes. |
 | [48\.](%C2%A7%2000048%20-%20Depiction%20of%20animal%20cruelty.md) | Depiction of animal cruelty. |
+| [49\.](%C2%A7%2000049%20-%20Enforcement%20of%20animal%20fighting%20prohibitions.md) | Enforcement of animal fighting prohibitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -17,6 +18,8 @@
 The criminal provisions of the Migratory Bird Treaty Act, sections 703–711 of title 16, U.S.C., 1940 ed., Conservation, and the Migratory Bird Conservation Act, sections 715–715r of title 16, U.S.C., 1940 ed., Conservation, were considered for inclusion in this chapter. Since these provisions, except parts of sections 704–707 of said title 16, are so inextricably interwoven with the Migratory Bird Acts, it was found advisable to exclude them.
 
 #### Amendments
+
+2007—Pub. L. 110–22, §2(b), May 3, 2007, 121 Stat. 88, added item 49.
 
 2006—Pub. L. 109–374, §2(b), Nov. 27, 2006, 120 Stat. 2655, substituted “Force, violence, and threats involving animal enterprises” for “Animal enterprise terrorism” in item 43.
 
@@ -45,3 +48,4 @@ The criminal provisions of the Migratory Bird Treaty Act, sections 703–711 of 
 - [&sect; 00046 - Transportation of water hyacinths](%C2%A7%2000046%20-%20Transportation%20of%20water%20hyacinths.md)
 - [&sect; 00047 - Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes](%C2%A7%2000047%20-%20Use%20of%20aircraft%20or%20motor%20vehicles%20to%20hunt%20certain%20wild%20horses%20or%20burros%3B%20pollution%20of%20watering%20holes.md)
 - [&sect; 00048 - Depiction of animal cruelty](%C2%A7%2000048%20-%20Depiction%20of%20animal%20cruelty.md)
+- [&sect; 00049 - Enforcement of animal fighting prohibitions](%C2%A7%2000049%20-%20Enforcement%20of%20animal%20fighting%20prohibitions.md)

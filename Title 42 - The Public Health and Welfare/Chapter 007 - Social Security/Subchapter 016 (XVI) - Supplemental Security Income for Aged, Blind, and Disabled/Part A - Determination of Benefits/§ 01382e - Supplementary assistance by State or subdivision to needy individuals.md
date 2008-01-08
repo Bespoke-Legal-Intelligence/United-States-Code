@@ -78,7 +78,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (ii) The Commissioner may charge States a penalty in an amount equal to 5 percent of the payment and the fees due if the remittance is received after the date required by clause (i).
 
-(B) The Cash Management Improvement Act of 1990 shall not apply to any payments or fees required under this subsection that are paid by a State before the date required by subparagraph (A)(i).
+(B) The Cash Management Improvement Act of 1990 shall not apply to any payments or fees required under this subsection that are paid bya State before the date required by subparagraph (A)(i).
 
 (C) Notwithstanding subparagraph (A)(i), the Commissioner may make supplementary payments on behalf of a State with funds appropriated for payment of benefits under this subchapter, and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinary circumstances affecting a State's ability to make payment when required by subparagraph (A)(i) are determined by the Commissioner to exist.
 
@@ -90,7 +90,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (3) Each State shall certify annually to the Commissioner of Social Security that it is in compliance with the requirements of this subsection.
 
-(4) Payments made under this subchapter with respect to an individual shall be reduced by an amount equal to the amount of any supplementary payment (as described in subsection (a) of this section) or other payment made by aState (or political subdivision thereof) which is made for or on account of any medical or any other type of remedical care provided by an institution of the type described in paragraph (1) to such individual as a resident or an inpatient of such institution if such institution is not approved as meeting the standards described in such paragraph by the appropriate State or local authorities.
+(4) Payments made under this subchapter with respect to an individual shall be reduced by an amount equal to the amount of any supplementary payment (as described in subsection (a) of this section) or other payment made by a State (or political subdivision thereof) which is made for or on account of any medical or any other type of remedical care provided by an institution of the type described in paragraph (1) to such individual as a resident or an inpatient of such institution if such institution is not approved as meeting the standards described in such paragraph by the appropriate State or local authorities.
 
 (Aug. 14, 1935, ch. 531, title XVI, §1616, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 93–233, §14, Dec. 31, 1973, 87 Stat. 965; Pub. L. 94–566, title V, §505(c), (d), Oct. 20, 1976, 90 Stat. 2687; Pub. L. 96–265, title II, §201(b)(1), June 9, 1980, 94 Stat. 446; Pub. L. 97–35, title XXIII, §2353(n), Aug. 13, 1981, 95 Stat. 873; Pub. L. 99–272, title XII, §12201(b), Apr. 7, 1986, 100 Stat. 290; Pub. L. 103–66, title XIII, §13731(a)(1), Aug. 10, 1993, 107 Stat. 660; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5102(a)(1), (b)(1)(A), Aug. 5, 1997, 111 Stat. 595, 596; Pub. L. 105–78, title V, §516(a)(1), (b)(1)(A), Nov. 13, 1997, 111 Stat. 1517, 1518; Pub. L. 106–170, title IV, §410(a)(1), Dec. 17, 1999, 113 Stat. 1916.)
 
@@ -144,7 +144,7 @@ Section 13731(b) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 ofPub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 of Pub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
 
 #### Effective Date of 1980 Amendment
 

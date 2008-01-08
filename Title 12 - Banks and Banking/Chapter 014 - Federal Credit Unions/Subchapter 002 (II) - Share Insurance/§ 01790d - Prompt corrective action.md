@@ -192,7 +192,7 @@
 
 #### (5) Accepting plan
 
-&emsp;The Board may accept a net worth restoration plan only if the Board determines that the plan is based on realistic assumptions and is likely to succeed in restoring the net worth of the credit union.
+&emsp;The Board may accept a net worth restoration plan only if the Board determines thatthe plan is based on realistic assumptions and is likely to succeed in restoring the net worth of the credit union.
 
 #### (g) Restrictions on undercapitalized credit unions
 
@@ -208,7 +208,7 @@
 
 #### (2) Restriction on member business loans
 
-&emsp;Notwithstanding section 1757a(a) of this title, an insured credit union that is undercapitalized may not make any increase in thetotal amount of member business loans (as defined in section 1757a(c) of this title) outstanding at that credit union at any one time, until such time as the credit union becomes adequately capitalized.
+&emsp;Notwithstanding section 1757a(a) of this title, an insured credit union that is undercapitalized may not make any increase in the total amount of member business loans (as defined in section 1757a(c) of this title) outstanding at that credit union at any one time, until such time as the credit union becomes adequately capitalized.
 
 #### (h) More stringent treatment based on other supervisory criteria
 
@@ -382,7 +382,7 @@ Pub. L. 105–219, title III, §301(d), Aug. 7, 1998, 112 Stat. 930, provided th
 
 In general.—Except as provided in paragraph (2), the Board shall—
 
-&emsp;“(A) publish in the Federal Register proposed regulations to implement section 216 of the Federal Credit Union Act \[12 U.S.C. 1790d\] (as added by subsection (a) of this section) not later than 270 days after the date of enactment of this Act \[Aug. 7, 1998\]; and
+&emsp;“(A) publish in the Federal Register proposed regulations to implement section 216 of the Federal CreditUnion Act \[12 U.S.C. 1790d\] (as added by subsection (a) of this section) not later than 270 days after the date of enactment of this Act \[Aug. 7, 1998\]; and
 
 &emsp;“(B) promulgate final regulations to implement section 216 not later than 18 months after the date of enactment of this Act.
 

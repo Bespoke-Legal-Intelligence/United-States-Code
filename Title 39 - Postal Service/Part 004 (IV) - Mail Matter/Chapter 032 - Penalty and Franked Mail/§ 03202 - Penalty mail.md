@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(E) the United States Employment Service and the system of employment offices operated by it in conformity with the provisions of sections 49–49c, 49d, 49e–49k of title 29, and all State employment systems which receive funds appropriated under authority of those sections; and
 
-&emsp;&emsp;(F) any college officer or other person connected with the extension department of thecollege as the Secretary of Agriculture may designate to the Postal Service to the extent that the official mail consists of correspondence, bulletins, and reports for the furtherance of the purpose of sections 341–343 and 344–348 of title 7;
+&emsp;&emsp;(F) any college officer or other person connected with the extension department of the college as the Secretary of Agriculture may designate to the Postal Service to the extent that the official mail consists of correspondence, bulletins, and reports for the furtherance of the purpose of sections 341–343 and 344–348 of title 7;
 
 &emsp;(2) mail relating to naturalization to be sent to the Immigration and Naturalization Service by clerks of courts addressed to the Department of Justice or the Immigration and Naturalization Service, or any official thereof;
 

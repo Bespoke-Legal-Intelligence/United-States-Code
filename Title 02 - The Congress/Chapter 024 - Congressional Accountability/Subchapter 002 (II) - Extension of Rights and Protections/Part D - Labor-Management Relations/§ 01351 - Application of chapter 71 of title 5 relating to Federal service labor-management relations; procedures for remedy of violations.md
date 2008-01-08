@@ -18,7 +18,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (1) General authorities of Board; petitions
 
-&emsp;For purposes of this section and except as otherwise provided in this section, the Board shall exercise the authorities of the Federal Labor Relations Authority under sections 7105, 7111, 7112, 7113, 7115, 7117, 7118, and 7122 of title 5 and of the President under section 7103(b) oftitle 5. For purposes of this section, any petition or other submission that, under chapter 71 of title 5, would be submitted to the Federal Labor Relations Authority shall, if brought under this section, be submitted to the Board. The Board shall refer any matter under this paragraph to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title. The Board may direct that the General Counsel carry out the Board's investigative authorities under this paragraph.
+&emsp;For purposes of this section and except as otherwise provided in this section, the Board shall exercise the authorities of the Federal Labor Relations Authority under sections 7105, 7111, 7112, 7113, 7115, 7117, 7118, and 7122 of title 5 and of the President under section 7103(b) of title 5. For purposes of this section, any petition or other submission that, under chapter 71 of title 5, would be submitted to the Federal Labor Relations Authority shall, if brought under this section, be submitted to the Board. The Board shall refer any matter under this paragraph to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title. The Board may direct that the General Counsel carry out the Board's investigative authorities under this paragraph.
 
 #### (2) General authorities of the General Counsel; charges of unfair labor practice
 
@@ -88,7 +88,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (2) Certain offices
 
-&emsp;With respect to the offices listed in subsection (e)(2) of this section, to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) of this section shall be effective on the effective date of regulations under subsection (e) of this section.
+&emsp;With respect to the offices listed in subsection (e)(2) of this section, to the coveredemployees of such offices, and to representatives of such employees, subsections (a) and (b) of this section shall be effective on the effective date of regulations under subsection (e) of this section.
 
 (Pub. L. 104–1, title II, §220, Jan. 23, 1995, 109 Stat. 19.)
 

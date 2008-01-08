@@ -244,7 +244,7 @@ As used in this part:
 
 &emsp;&emsp;(B) the institution or organization, and the eligible lender, with respect to its duties as trustee, each comply on and after January 1, 2007, with the requirements of paragraph (2), except that—
 
-&emsp;&emsp;&emsp;(i) the requirements of clauses (i), (ii), (vi), and (viii) of paragraph (2)(A) shall, subject to clause (ii) of this subparagraph, only apply to the institution (includingboth an institution for which the lender serves as trustee and an institution affiliated with an organization for which the lender serves as trustee);
+&emsp;&emsp;&emsp;(i) the requirements of clauses (i), (ii), (vi), and (viii) of paragraph (2)(A) shall, subject to clause (ii) of this subparagraph, only apply to the institution (including both an institution for which the lender serves as trustee and an institution affiliated with an organization for which the lender serves as trustee);
 
 &emsp;&emsp;&emsp;(ii) in the case of an organization affiliated with an institution—
 
@@ -262,7 +262,7 @@ The term “line of credit” means an arrangement or agreement between the lend
 
 #### (f) Due diligence
 
-The term “due diligence” requires the utilization by a lender, in the servicing and collection of loans insured under this part, of servicing and collection practices at least as extensive and forceful as those generally practiced by financial institutions for the collection of consumer loans.
+The term “due diligence” requires the utilization by a lender, in the servicing and collectionof loans insured under this part, of servicing and collection practices at least as extensive and forceful as those generally practiced by financial institutions for the collection of consumer loans.
 
 #### (g), (h) Repealed. Pub. L. 102–325, title IV, §427(f), July 23, 1992, 106 Stat. 550
 
@@ -298,13 +298,13 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;(B) A loan on which a payment is made by the school, such school's owner, agent, contractor, employee, or any other entity or individual affiliated with such school, in order to avoid default by the borrower, is considered as in default for purposes of this subsection.
 
-&emsp;(C) Any loan which has been rehabilitated before the end of such following fiscal year is not considered as in default for the purposes of this subsection. The Secretary may requireguaranty agencies to collect data with respect to defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such following fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.
+&emsp;(C) Any loan which has been rehabilitated before the end of such following fiscal year is not considered as in default for the purposes of this subsection. The Secretary may require guaranty agencies to collect data with respect to defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such following fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.
 
 &emsp;(D) For the purposes of this subsection, a loan made in accordance with section 1078–1 <sup>2</sup> of this title (or the portion of a loan made under section 1078–3 of this title that is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall not be considered to enter repayment until after the borrower has ceased to be enrolled in a course of study leading to a degree or certificate at an eligible institution on at least a half-time basis (as determined by the institution) and ceased to be in a period of forbearance based on such enrollment. Each eligible lender of a loan made under section 1078–1 <sup>2</sup> of this title (or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall provide the guaranty agency with the information necessary to determine when the loan entered repayment for purposes of this subsection, and the guaranty agency shall provide such information to the Secretary.
 
 #### (3) Regulations to prevent evasions
 
-&emsp;The Secretary shall prescribe regulations designed to prevent an institution from evading the application to that institution of a default rate determination under this subsection through the use of such measures as branching, consolidation, change of ownership or control, or any similar device.
+&emsp;The Secretary shall prescribe regulations designed to prevent an institution from evading the application to that institution of a defaultrate determination under this subsection through the use of such measures as branching, consolidation, change of ownership or control, or any similar device.
 
 #### (4) Collection and reporting of cohort default rates
 
@@ -328,29 +328,93 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;&emsp;&emsp;(i) the minimum wage rate described in section 206 of title 29; or
 
-&emsp;&emsp;&emsp;(ii) an amount equal to 100 percent of the poverty line for a family of 2 as determined in accordance with section 9902(2) of title 42;
+&emsp;&emsp;&emsp;(ii) an amount equal to 150 percent of the poverty line applicable to the borrower's family size as determined in accordance with section 9902(2) of title 42; or
 
-&emsp;&emsp;(B) such borrower is working full-time and has a Federal educational debt burden that equals or exceeds 20 percent of such borrower's adjusted gross income, and the difference between such borrower's adjusted gross income minus such burden is less than 220 percent of the greater of—
-
-&emsp;&emsp;&emsp;(i) the annual earnings of an individual earning the minimum wage under section 206 of title 29; or
-
-&emsp;&emsp;&emsp;(ii) the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of title 42) applicable to a family of two; or
-
-&emsp;&emsp;(C) such borrower meets such other criteria as are established by the Secretary by regulation in accordance with paragraph (2).
+&emsp;&emsp;(B) such borrower meets such other criteria as are established by the Secretary by regulation in accordance with paragraph (2).
 
 #### (2) Considerations
 
-&emsp;In establishing criteria for purposes of paragraph (1)(C), the Secretary shall consider the borrower's income and debt-to-income ratio as primary factors.
+&emsp;In establishing criteria for purposes of paragraph (1)(B), the Secretary shall consider the borrower's income and debt-to-income ratio as primary factors.
 
-(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–244, title I, §102(b)(2), title IV, §429(a)–(c)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1622, 1704–1709, 1828; Pub. L. 106–554, §1(a)(1) \[title III, §§308(a), 312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45, 2763A–46; Pub. L. 109–171, title VIII, §8011, Feb. 8, 2006, 120 Stat. 165; Pub. L. 109–292, §3(a), Sept. 30, 2006, 120 Stat. 1340.)
+#### (p) Eligible not-for-profit holder
+
+#### (1) Definition
+
+&emsp;Subject to the limitations in paragraph (2) and the prohibition in paragraph (3), the term “eligible not-for-profit holder” means an eligible lender under subsection (d) (except for an eligible lender described in subsection (d)(1)(E)) that requests a special allowance payment under section 1087–1(b)(2)(I)(vi)(II) of this title or a payment under section 1141 of this title and that is—
+
+&emsp;&emsp;(A) a State, or a political subdivision, authority, agency, or other instrumentality thereof, including such entities that are eligible to issue bonds described in section 1.103–1 of title 26, Code of Federal Regulations, or section 144(b) of title 26;
+
+&emsp;&emsp;(B) an entity described in section 150(d)(2) of such title that has not made the election described in section 150(d)(3) of such title;
+
+&emsp;&emsp;(C) an entity described in section 501(c)(3) of such title; or
+
+&emsp;&emsp;(D) acting as a trustee on behalf of a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d).
+
+#### (2) Limitations
+
+#### (A) Existing on September 27, 2007
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;An eligible lender shall not be an eligible not-for-profit holder under this chapter unless such lender—
+
+&emsp;&emsp;&emsp;&emsp;(I) was a State, political subdivision, authority, agency, instrumentality, or other entity described in paragraph (1)(A), (B), or (C) that was, on September 27, 2007, acting as an eligible lender under subsection (d) (other than an eligible lender described in subsection (d)(1)(E)); or
+
+&emsp;&emsp;&emsp;&emsp;(II) is acting as a trustee on behalf of a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C) of paragraph (1), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d), and such State, political subdivision, authority, agency, instrumentality, or other entity, on September 27, 2007, was the sole beneficial owner of a loan eligible for any special allowance payment under section 1087–1 of this title.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;Notwithstanding clause (i), a State may elect, in accordance with regulations of the Secretary, to waive the requirements of this subparagraph for a new not-for-profit holder determined by the State to be necessary to carry out a public purpose of such State, except that a State may not make such election with respect the <sup>3</sup> requirements of clause (i)(II).
+
+#### (B) No for-profit ownership or control
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;No State, political subdivision, authority, agency, instrumentality, or other entity described in paragraph (1)(A), (B), or (C) shall be an eligible not-for-profit holder under this chapter if such State, political subdivision, authority, agency, instrumentality, or other entity is owned or controlled, in whole or in part, by a for-profit entity.
+
+#### (ii) Trustees
+
+&emsp;&emsp;&emsp;A trustee described in paragraph (1)(D) shall not be an eligible not-for-profit holder under this chapter with respect to a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C) of paragraph (1), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d), if such State, political subdivision, authority, agency, instrumentality, or other entity is owned or controlled, in whole or in part, by a for-profit entity.
+
+#### (C) Sole ownership of loans and income
+
+&emsp;&emsp;No State, political subdivision, authority, agency, instrumentality, trustee, or other entity described in paragraph (1)(A), (B), (C), or (D) shall be an eligible not-for-profit holder under this chapter with respect to any loan, or income from any loan, unless—
+
+&emsp;&emsp;&emsp;(i) such State, political subdivision, authority, agency, instrumentality, or other entity is the sole beneficial owner of such loan and the income from such loan; or
+
+&emsp;&emsp;&emsp;(ii) such trustee holds the loan on behalf of a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C) of paragraph (1), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d), and such State, political subdivision, authority, agency, instrumentality, or other entity is the sole beneficial owner of such loan and the income from such loan.
+
+#### (D) Trustee compensation limitations
+
+&emsp;&emsp;A trustee described in paragraph (1)(D) shall not receive compensation as consideration for acting as an eligible lender on behalf of a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C) of paragraph (1), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d), in excess of reasonable and customary fees.
+
+#### (E) Rule of construction
+
+&emsp;&emsp;For purposes of subparagraphs (A), (B), (C), and (D) of this paragraph, a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C) of paragraph (1), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d), shall not—
+
+&emsp;&emsp;&emsp;(i) be deemed to be owned or controlled, in whole or in part, by a for-profit entity; or
+
+&emsp;&emsp;&emsp;(ii) lose its status as the sole owner of a beneficial interest in a loan and the income from a loan,
+
+> &emsp;&emsp;by such State, political subdivision, authority, agency, instrumentality, or other entity, or by the trustee described in paragraph (1)(D), granting a security interest in, or otherwise pledging as collateral, such loan, or the income from such loan, to secure a debt obligation for which such State, political subdivision, authority, agency, instrumentality, or other entity is the issuer of the debt obligation.
+
+#### (3) Prohibition
+
+&emsp;In the case of a loan for which the special allowance payment is calculated under section 1087–1(b)(2)(I)(vi)(II) of this title and that is sold by the eligible not-for-profit holder holding the loan to an entity that is not an eligible not-for-profit holder under this chapter, the special allowance payment for such loan shall, beginning on the date of the sale, no longer be calculated under section 1087–1(b)(2)(I)(vi)(II) of this title and shall be calculated under section 1087–1(b)(2)(I)(vi)(I) of this title instead.
+
+#### (4) Regulations
+
+&emsp;Not later than 1 year after September 27, 2007, the Secretary shall promulgate regulations in accordance with the provisions of this subsection.
+
+(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–244, title I, §102(b)(2), title IV, §429(a)–(c)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1622, 1704–1709, 1828; Pub. L. 106–554, §1(a)(1) \[title III, §§308(a), 312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45, 2763A–46; Pub. L. 109–171, title VIII, §8011, Feb. 8, 2006, 120 Stat. 165; Pub. L. 109–292, §3(a), Sept. 30, 2006, 120 Stat. 1340; Pub. L. 110–84, title III, §304, Sept. 27, 2007, 121 Stat. 797; Pub. L. 110–109, §4, Oct. 31, 2007, 121 Stat. 1028.)
 
 #### References in Text
 
-Section 1801(a)(4) of title 25, referred to in subsec. (a)(2)(C)(ii), was amended by Pub. L. 105–244, title IX,§901(b)(5), Oct. 7, 1998, 112 Stat. 1828, and, as so amended, no longer defines the term “tribally controlled community college”.
+Section 1801(a)(4) of title 25, referred to in subsec. (a)(2)(C)(ii), was amended by Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828, and, as so amended, no longer defines the term “tribally controlled community college”.
 
 The Navajo Community College Act, referred to in subsec. (a)(2)(C)(iii), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
-The Employee Retirement Income Security Act, referred to in subsec. (d)(1)(B), probably means the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act, referred to in subsec. (d)(1)(B), probably means the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) ofTitle 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Section 1078–1 of this title, referred to in subsecs. (a)(3)(B), (d)(1)(G), and (m)(1)(A), (2)(D), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
@@ -358,11 +422,45 @@ Public Law 499, Eighty-first Congress (64 Stat. 98 (1950)), referred to in subse
 
 Title IV, referred to in subsec. (m)(2)(C), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
 
+This chapter, referred to in subsec. (p), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 89–698, title II, §204, Oct. 29, 1966, 80 Stat. 1072; Pub. L. 90–575, title I, §§116(a), 118(a), Oct. 16, 1968, 82 Stat. 1023, 1026; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2130; Pub. L. 95–43, §1(a)(35), (36), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§413(e), 421(e)(2), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1418, 1432, 1503; Pub. L. 99–272, title XVI, §§16017(b)(2), 16020, Apr. 7, 1986, 100 Stat. 347, 349, defined terms used in this part, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2007—Subsec. (<i>o</i>)(1)(A)(ii). Pub. L. 110–84, §304(1)(A), substituted “150 percent of the poverty line applicable to the borrower's family size” for “100 percent of the poverty line for a family of 2” and inserted “or” after semicolon at end.
+
+Subsec. (<i>o</i>)(1)(B), (C). Pub. L. 110–84, §304(1)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “such borrower is working full-time and has a Federal educational debt burden that equals or exceeds 20 percent of such borrower's adjusted gross income, and the difference between such borrower's adjusted gross income minus such burden is less than 220 percent of the greater of—
+
+&emsp;“(i) the annual earnings of an individual earning the minimum wage under section 206 of title 29; or
+
+&emsp;“(ii) the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of title 42) applicable to a family of two; or”.
+
+Subsec. (<i>o</i>)(2). Pub. L. 110–84, §304(2), substituted “(1)(B)” for “(1)(C)”.
+
+Subsec. (p). Pub. L. 110–84, §304(3), added subsec. (p).
+
+Subsec. (p)(1)(D). Pub. L. 110–109, §4(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “a trustee acting as an eligible lender on behalf of a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C).”
+
+Subsec. (p)(2)(A)(i)(II). Pub. L. 110–109, §4(2)(A), added subcl. (II) and struck out former subcl. (II) which read as follows: “is a trustee acting as an eligible lender under this chapter on behalf of such a State, political subdivision, authority, agency, instrumentality, or other entity described in subclause (I) of this clause.”
+
+Subsec. (p)(2)(A)(ii). Pub. L. 110–109, §4(2)(B), inserted “of” after “waive the requirements”.
+
+Subsec. (p)(2)(B). Pub. L. 110–109, §4(2)(C), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “No political subdivision, authority, agency, instrumentality, or other entity described in paragraph (1)(A), (B), or (C) shall be an eligible not-for-profit holder under this chapter if such entity is owned or controlled, in whole or in part, by a for-profit entity.”
+
+Subsec. (p)(2)(C). Pub. L. 110–109, §4(2)(D), reenacted heading without change and amended text of subpar. (C) generally. Prior to amendment, text read as follows: “No State, political subdivision, authority, agency, instrumentality, or other entity described in paragraph (1)(A), (B), or (C) shall be an eligible not-for-profit holder under this chapter with respect to any loan, or income from any loan, unless the State, political subdivision, authority, agency, instrumentality, or other entity described in paragraph (1)(A), (B), or (C) is the sole owner of the beneficial interest in such loan and the income from such loan.”
+
+Subsec. (p)(2)(D). Pub. L. 110–109, §4(2)(E), substituted “a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C) of paragraph (1), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d),” for “an entity described in described in paragraph (1)(A), (B), or (C)”.
+
+Subsec. (p)(2)(E). Pub. L. 110–109, §4(2)(F), reenacted heading without change and amended text of subpar. (E) generally. Prior to amendment, text read as follows: “For purposes of subparagraphs (B), (C), and (D) of this paragraph, a State, political subdivision, authority, agency, instrumentality, or other entity described in paragraph (1)(A), (B), or (C) shall not—
+
+&emsp;“(i) be deemed to be owned or controlled, in whole or in part, by a for-profit entity, or
+
+&emsp;“(ii) lose its status as the sole owner of a beneficial interest in a loan and the income from a loan by that political subdivision, authority, agency, instrumentality, or other entity,
+
+> by granting a security interest in, or otherwise pledging as collateral, such loan, or the income from such loan, to secure a debt obligation in the operation of an arrangement described in paragraph (1)(D).”
 
 2006—Subsec. (d)(2). Pub. L. 109–171 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “To be an eligible lender under this part, an eligible institution—
 
@@ -416,7 +514,7 @@ Subsec. (m)(2)(C). Pub. L. 105–244, §429(d)(2), inserted at end “The Secret
 
 Subsec. (m)(4)(D). Pub. L. 105–244, §429(d)(3), added subpar. (D).
 
-1996—Subsec. (d)(1)(F). Pub. L. 104–208, §101(e) \[title VI, §602(b)(1)(A)(i)\], inserted “or the Holding Company of the Student Loan Marketing Association, includingany subsidiary of the Holding Company, created pursuant to section 1087–3 of this title,” after “Student Loan Marketing Association”.
+1996—Subsec. (d)(1)(F). Pub. L. 104–208, §101(e) \[title VI, §602(b)(1)(A)(i)\], inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title,” after “Student Loan Marketing Association”.
 
 Subsec. (d)(1)(G). Pub. L. 104–208, §101(e) \[title VI, §602(b)(1)(A)(ii)\], inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title” after “Student Loan Marketing Association”.
 
@@ -460,7 +558,7 @@ Subsec. (m)(4). Pub. L. 103–208, §2(c)(62), added par. (4).
 
 &emsp;“(B) a vocational school; or
 
-&emsp;“(C) with respect to students who are nationals of the United States, an institution outside the United States which is comparable to an institution of higher education or to a vocational school and which has been approved by the Secretary for the purpose of this part,
+&emsp;“(C) with respect to students who are nationals of the United States, an institution outside the United States which is comparable to an institution of higher education or to a vocational school and which hasbeen approved by the Secretary for the purpose of this part,
 
 > except that such term does not include any such institution or school which employs or uses commissioned salesmen to promote the availability of any loan program described in section 1078(a)(1), 1078–1, or 1078–2 of this title at that institution or school.”
 
@@ -512,6 +610,10 @@ Subsec. (g)(2). Pub. L. 100–50, §10(aa)(4), added par. (2) and struck out for
 
 Subsec. (h). Pub. L. 100–50, §10(aa)(5), struck out “Definition of” before “Parental” in heading.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as a note under section 1070a of this title.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–292, §3(b), Sept. 30, 2006, 120 Stat. 1341, provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply with respect to any loan under part B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq.) disbursed before January 1, 2007.”
@@ -534,7 +636,7 @@ Amendment by Pub. L. 104–208 effective on reorganization effective date as def
 
 #### Effective Date of 1993 Amendments
 
-Amendments by section 2(c)(55), (60)(B) of Pub. L. 103–208 applicable with respect to determination (and appeals from determinations) of cohort default rates for fiscal year 1989 and any succeeding fiscal year, amendments by section 2(c)(56)–(58), (61) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, amendment by section 2(c)(59) of Pub. L. 103–208 effective on and after 30 days after Dec. 20, 1993, amendment by section 2(c)(60)(A) of Pub. L. 103–208 effective on and after Oct. 1, 1994, and amendment by section 2(c)(62) effective on and after Dec. 20, 1993, see section 5(a), (b)(2), (3), (7), (8) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendments by section 2(c)(55), (60)(B) of Pub. L. 103–208 applicable with respect to determination (and appeals from determinations) of cohort default rates for fiscal year 1989 and any succeeding fiscal year, amendments by section 2(c)(56)–(58), (61) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, amendment by section 2(c)(59) of Pub. L. 103–208 effective on and after 30 days after Dec. 20, 1993, amendment by section 2(c)(60)(A) of Pub. L. 103–208 effective on and after Oct. 1, 1994, and amendment by section 2(c)(62) effective on and after Dec. 20, 1993, seesection 5(a), (b)(2), (3), (7), (8) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 Amendment by section 4046(b)(1) of Pub. L. 103–66 effective July 1, 1994, see section 4046(c) of Pub. L. 103–66, set out as a note under section 1078–3 of this title.
 
@@ -561,4 +663,6 @@ Section 427(b)(2) of Pub. L. 102–325 provided that: “With respect to referen
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “with respect to the”.</i>
 

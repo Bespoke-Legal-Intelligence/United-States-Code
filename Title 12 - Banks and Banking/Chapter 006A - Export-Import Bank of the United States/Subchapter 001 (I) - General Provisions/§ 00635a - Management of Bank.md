@@ -148,7 +148,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 &emsp;&emsp;&emsp;&emsp;(III) the adequacy of the staffing and resources of the Small Business Division.
 
-&emsp;&emsp;&emsp;(iii) Establishing criteria for evaluating the performance of staff designated by the President of the Bank under subsection (g)(1).
+&emsp;&emsp;&emsp;(iii) Establishing criteria for evaluating the performance of staff designated by thePresident of the Bank under subsection (g)(1).
 
 &emsp;&emsp;&emsp;(iv) Coordinating the provision of services with other United States Government departments and agencies to small business concerns.
 
@@ -230,7 +230,7 @@ Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation o
 
 #### Effective Date of 1954 Amendment
 
-Section 4 of act Aug. 9, 1954, provided that: “The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon itsenactment \[Aug. 9, 1954\]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 \[set out below\].”
+Section 4 of act Aug. 9, 1954, provided that: “The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment \[Aug. 9, 1954\]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 \[set out below\].”
 
 #### Untied Aid
 
@@ -276,9 +276,11 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
 
-\[Pub. L. 109–102, title I, Nov. 14, 2005, 119 Stat. 2173, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2006.”\]
+\[Pub. L. 110–161, div. J, title II, Dec. 26, 2007, 121 Stat. 2290, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2008.”\]
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 109–102, title I, Nov. 14, 2005, 119 Stat. 2173.
 
 \[Pub. L. 108–447, div. D, title I, Dec. 8, 2004, 118 Stat. 2969.
 
@@ -336,7 +338,7 @@ There is hereby established the office of Managing Director of the Export-Import
 
 #### Sec. 2. Deputy Director
 
-There is hereby established the office of Deputy Director of the Export-Import Bank of Washington. TheDeputy Director shall be appointed by the President by and with the advice and consent of the Senate, shall receive compensation at the rate of $16,000 per annum, shall perform such functions as the Managing Director may from time to time prescribe, and shall act as Managing Director during the absence or disability of the Managing Director or in the event of a vacancy in the office of Managing Director.
+There is hereby established the office of Deputy Director of the Export-Import Bank of Washington. The Deputy Director shall be appointed by the President by and with the advice and consent of the Senate, shall receive compensation at the rate of $16,000 per annum, shall perform such functions as the Managing Director may from time to time prescribe, and shall act as Managing Director during the absence or disability of the Managing Director or in the event of a vacancy in the office of Managing Director.
 
 #### Sec. 3. Assistant Director
 

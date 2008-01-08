@@ -72,7 +72,7 @@
 
 #### (2) Term
 
-&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of such term.
+&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointedshall be appointed only for the remainder of such term.
 
 #### (3) Extension
 

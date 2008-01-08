@@ -106,8 +106,6 @@ Subsec. (d). Pub. L. 85–479, §4, added subsec. (d).
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.

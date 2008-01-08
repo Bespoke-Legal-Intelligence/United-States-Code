@@ -36,7 +36,7 @@
 
 #### (3) Duty to provide notice of dispute
 
-&emsp;If the completeness or accuracy of any information furnished by any person to any consumer reporting agency is disputed to suchperson by a consumer, the person may not furnish the information to any consumer reporting agency without notice that such information is disputed by the consumer.
+&emsp;If the completeness or accuracy of any information furnished by any person to any consumer reporting agency is disputed to such person by a consumer, the person may not furnish the information to any consumer reporting agency without notice that such information is disputed by the consumer.
 
 #### (4) Duty to provide notice of closed accounts
 
@@ -152,7 +152,7 @@
 
 #### (C) Applicability
 
-&emsp;&emsp;Subparagraphs (D) through (G) shall apply in any circumstance identified under the regulations promulgated under subparagraph (A).
+&emsp;&emsp;Subparagraphs (D) through (G) shall apply in any circumstance identified under theregulations promulgated under subparagraph (A).
 
 #### (D) Submitting a notice of dispute
 
@@ -180,7 +180,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This paragraph shall not apply if the person receiving a notice of a dispute from aconsumer reasonably determines that the dispute is frivolous or irrelevant, including—
+&emsp;&emsp;&emsp;This paragraph shall not apply if the person receiving a notice of a dispute from a consumer reasonably determines that the dispute is frivolous or irrelevant, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) by reason of the failure of a consumer to provide sufficient information to investigate the disputed information; or
 
@@ -230,7 +230,7 @@
 
 #### (2) Deadline
 
-&emsp;A person shall complete all investigations, reviews, and reports required under paragraph (1) regarding information provided by the person to a consumer reporting agency, before the expiration of the period under section 1681i(a)(1) of this title within which the consumer reporting agency is required to complete actions required by that section regarding that information.
+&emsp;A person shall complete all investigations, reviews, and reports required under paragraph\(1) regarding information provided by the person to a consumer reporting agency, before the expiration of the period under section 1681i(a)(1) of this title within which the consumer reporting agency is required to complete actions required by that section regarding that information.
 
 #### (c) Limitation on liability
 

@@ -30,7 +30,7 @@ An individual who, as a part of an individualized plan for employment under a St
 
 The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, §604(d), Dec. 20, 2006, 120 Stat. 3242.)
+(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), titleV, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, §604(d), Dec. 20, 2006, 120 Stat. 3242.)
 
 #### References in Text
 
@@ -176,7 +176,7 @@ Sec. 2. The Interagency Committee on Handicapped Employees shall also be referre
 
 #### Executive Order No. 12640
 
-Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R. 4527, which established the President's Committee on Employment of People with Disabilities, the Executive Committee of the President's Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord.No. 11480, was revoked by Ex. Ord. No. 13187, §4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
+Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R. 4527, which established the President's Committee on Employment of People with Disabilities, the Executive Committee of the President's Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord. No. 11480, was revoked by Ex. Ord. No. 13187, §4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
 
 #### Ex. Ord. No. 13163. Increasing the Opportunity for Individuals With Disabilities To Be Employed in the Federal Government
 
@@ -238,7 +238,7 @@ Section 1. <i>Establishment of Effective Written Procedures to Facilitate the Pr
 
 Sec. 2. <i>Submission of Agency Reasonable Accommodation Procedures to the Equal Employment Opportunity Commission (EEOC)</i>. Within 1 year from the date of this order, each agency shall submit its procedures to the EEOC. Each agency shall also submit to the EEOC any modifications to its reasonable accommodation procedures at the time that those modifications are adopted.
 
-Sec. 3. <i>Collective Bargaining Obligations</i>. In adopting their reasonable accommodation procedures, agenciesmust honor their obligations to notify their collective bargaining representatives and bargain over such procedures to the extent required by law.
+Sec. 3. <i>Collective Bargaining Obligations</i>. In adopting their reasonable accommodation procedures, agencies must honor their obligations to notify their collective bargaining representatives and bargain over such procedures to the extent required by law.
 
 Sec. 4. <i>Implementation</i>. The EEOC shall issue guidance for the implementation of this order within 90 days from the date of this order.
 

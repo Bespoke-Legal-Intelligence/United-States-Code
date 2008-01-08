@@ -88,7 +88,7 @@ Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as am
 
 1958—Pub. L. 85–508 struck out provisions which related to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1954—Act Feb. 10, 1954, among other changes, inserted provisions for retirement after attaining the age of 65years and after serving at least fifteen years continuously or otherwise, changed period of service in connection with retirement at age 70, and reduced from 70 to 65 years the age requirement in connection with payment of salary after removal for mental or physical disability or failure of reappointment.
+1954—Act Feb. 10, 1954, among other changes, inserted provisions for retirement after attaining the age of 65 years and after serving at least fifteen years continuously or otherwise, changed period of service in connection with retirement at age 70, and reduced from 70 to 65 years the age requirement in connection with payment of salary after removal for mental or physical disability or failure of reappointment.
 
 1951—Act Oct. 31, 1951, inserted reference to judge of District Court of Guam in first par.
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 86–3 effective on admission of State of Hawaii into the U
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notesset out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Election, Recall, Status, Compensation, Conduct, and Termination of Senior Judges
 

@@ -16,7 +16,7 @@ Amounts in the Trust shall be available—
 
 #### (1) Application by eligible individuals
 
-&emsp;An eligible individual under section 12602 of this title who desires to apply the national service educational award of the individual to the repayment of qualified student loans shall submit, in a manner prescribed by the Corporation, an application to the Corporation that—
+&emsp;An eligible individual under section 12602 of this title who desires to apply the national service educational award of the individual tothe repayment of qualified student loans shall submit, in a manner prescribed by the Corporation, an application to the Corporation that—
 
 &emsp;&emsp;(A) identifies, or permits the Corporation to identify readily, the holder or holders of such loans;
 
@@ -88,7 +88,7 @@ Amounts in the Trust shall be available—
 
 #### (4) Multiple disbursements required
 
-&emsp;The total amount required to be disbursed to an institution of higher education under paragraph (3) for any period of enrollment shall be disbursed by the Corporation in 2 or more installments, none of which exceeds 1/2 of such total amount. The interval between the first and second such installment shall not be less than 1/2 of such period of enrollment, except as necessary to permit the second installment to be paid at the beginning of the second semester, quarter, or similar division of such period of enrollment.
+&emsp;The total amount required to be disbursed to an institution of higher education under paragraph (3) for any period of enrollment shall bedisbursed by the Corporation in 2 or more installments, none of which exceeds 1/2 of such total amount. The interval between the first and second such installment shall not be less than 1/2 of such period of enrollment, except as necessary to permit the second installment to be paid at the beginning of the second semester, quarter, or similar division of such period of enrollment.
 
 #### (5) Refund rules
 
@@ -96,7 +96,7 @@ Amounts in the Trust shall be available—
 
 #### (6) Maximum award
 
-&emsp;The portion of an eligible individual's total available national service educational awardthat may be disbursed under this subsection for any period of enrollment shall not exceed the difference between—
+&emsp;The portion of an eligible individual's total available national service educational award that may be disbursed under this subsection for any period of enrollment shall not exceed the difference between—
 
 &emsp;&emsp;(A) the eligible individual's cost of attendance for such period of enrollment, determined in accordance with section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>); and
 

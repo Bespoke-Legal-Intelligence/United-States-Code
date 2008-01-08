@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) after June 30, 1985, serves at least three years of continuous active duty in the Armed Forces; or
 
-&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience ofthe Government, if the individual completed not less than 30 months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy; or
+&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience of the Government, if the individual completed not less than 30 months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy; or
 
 &emsp;&emsp;(C) as of December 31, 1989, was eligible for educational assistance benefits under chapter 34 of this title and—
 
@@ -68,7 +68,7 @@
 
 &emsp;(C) a defective enlistment agreement.
 
-(3) The period of service referred to in paragraph (1) is also any period of service on active duty which an individual in the Selected Reserve was ordered to perform under section12301, 12302, 12304, 12306, or 12307 of title 10 for a period of less than 2 years.
+(3) The period of service referred to in paragraph (1) is also any period of service on active duty which an individual in the Selected Reserve was ordered to perform under section 12301, 12302, 12304, 12306, or 12307 of title 10 for a period of less than 2 years.
 
 (e)(1) Any individual eligible for educational assistance under this section who does not make an election under subsection (c)(1) may contribute amounts for purposes of receiving an increased amount of basic educational assistance as provided for under section 3015(g) of this title. Such contributions shall be in addition to any reductions in the basic pay of such individual under subsection (b).
 
@@ -116,7 +116,7 @@ Another prior section 3011, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227; Pub.
 
 #### Amendments
 
-2006—Subsec. (a)(1)(A)(ii)(III). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461,set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Subsec. (a)(1)(A)(ii)(III). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(b)(2), made technical amendment to directory language of Pub. L. 107–296. See 2002 Amendment note below.
 
@@ -148,7 +148,7 @@ Subsec. (e)(4). Pub. L. 107–14, §7(c)(1)(C), substituted “Secretary of the 
 
 2000—Subsec. (a)(1)(A)(i). Pub. L. 106–419, §103(a)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: “who (I) serves, as the individual's initial obligated period of active duty, at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose initial period of active duty is less than three years, serves at least two years of continuous active duty in the Armed Forces; or”.
 
-Subsec. (a)(1)(A)(ii)(II). Pub. L. 106–419, §103(a)(1)(B), substituted “if, in the case of an individual with an obligated period of service of two years, the individual completes not less than 20 months of continuous active duty under that period of obligated service, or, in the case of an individual with an obligated period of service of at least three years, the individual completes not less than 30 months of continuous active duty under that period of obligated service” for “in the case of an individual who completed not less than 20 months of continuous active duty, if the initial obligated period of active duty of the individual was less than three years, or in the case of an individual who completed not less than 30 months of continuous active duty if the initial obligated period of active duty of the individual was at least three years”.
+Subsec. (a)(1)(A)(ii)(II). Pub. L. 106–419, §103(a)(1)(B), substituted “if, in the case of an individual with an obligated period of service of two years, the individual completes not less than 20 months of continuous active duty under that period of obligated service, or, in the case of an individual with an obligated period of service of at least three years, the individual completes not less than 30 months of continuous active duty under that period of obligated service” for “in the case of an individual who completed not less than 20 months ofcontinuous active duty, if the initial obligated period of active duty of the individual was less than three years, or in the case of an individual who completed not less than 30 months of continuous active duty if the initial obligated period of active duty of the individual was at least three years”.
 
 Subsec. (a)(2). Pub. L. 106–419, §102(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “who, except as provided in subsection (e) of this section, completed the requirements of a secondary school diploma (or equivalency certificate) not later than—
 

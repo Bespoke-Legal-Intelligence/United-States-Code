@@ -58,7 +58,7 @@ The following members of the Armed Forces are eligible for selection to particip
 
 &emsp;&emsp;If a member of the Armed Forces described in paragraph (1), (2), or (3) of subsection (a) of this section is applying for assistance for placement as a vocational or technical teacher, the Secretary shall require the member—
 
-&emsp;&emsp;&emsp;ave <sup>1</sup> received the equivalent of 1 year of college from an accredited institution of higher education and have 6 or more years of military experience in a vocational or technical field; or
+&emsp;&emsp;&emsp;ave <sup>1</sup> received the equivalent of 1 year of college from an accredited institution ofhigher education and have 6 or more years of military experience in a vocational or technical field; or
 
 &emsp;&emsp;&emsp;(ii) to otherwise meet the certification or licensing requirements for a vocational or technical teacher in the State in which the member seeks assistance for placement under the Program.
 

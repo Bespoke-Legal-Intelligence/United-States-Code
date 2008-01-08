@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, or any authorization heretofore give
 
 #### (b) Assistance detrimental to protected waters
 
-No department or agency of the United States may assist by loan, grant, license, or otherwise the construction of any water resource facility within the recreation area which the Secretary determines would have a direct and adverse effect on the values for which the waters of the area are protected.
+No department or agency of the United States may assist by loan, grant, license, or otherwisethe construction of any water resource facility within the recreation area which the Secretary determines would have a direct and adverse effect on the values for which the waters of the area are protected.
 
 (Pub. L. 94–199, §4, Dec. 31, 1975, 89 Stat. 1118; Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583.)
 

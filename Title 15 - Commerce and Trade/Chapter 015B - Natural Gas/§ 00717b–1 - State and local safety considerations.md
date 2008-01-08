@@ -2,7 +2,7 @@
 
 #### (a) Promulgation of regulations
 
-The Commission shall promulgate regulations on the National Environmental Policy Act of1969 (42 U.S.C. 4321 et seq.) pre-filing process within 60 days after August 8, 2005. An applicant shall comply with pre-filing process required under the National Environmental Policy Act of 1969 prior to filing an application with the Commission. The regulations shall require that the pre-filing process commence at least 6 months prior to the filing of an application for authorization to construct an LNG terminal and encourage applicants to cooperate with State and local officials.
+The Commission shall promulgate regulations on the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) pre-filing process within 60 days after August 8, 2005. An applicant shall comply with pre-filing process required under the National Environmental Policy Act of 1969 prior to filing an application with the Commission. The regulations shall require that the pre-filing process commence at least 6 months prior to the filing of an application for authorization to construct an LNG terminal and encourage applicants to cooperate with State and local officials.
 
 #### (b) State consultation
 
@@ -22,7 +22,7 @@ The Governor of a State in which an LNG terminal is proposed to be located shall
 
 #### (c) Advisory report
 
-The State agency may furnish an advisory report on State and local safety considerations to the Commission with respect to an application no later than 30 days after the application was filed with the Commission. Before issuing an order authorizing an applicant to site, construct, expand, or operate an LNG terminal, the Commission shall review and respond specifically to the issues raised by the State agency described in subsection (b) of this section in the advisory report. This subsection shall apply to any application filed after August 8, 2005. A State agency has 30 days after August 8, 2005 to file an advisory report related to any applications pending at the Commission as of August 8, 2005.
+The State agency may furnish an advisory report on State and local safety considerations to the Commission with respect to an application no later than 30 days after the application was filed with the Commission. Before issuing an order authorizing an applicant to site, construct, expand, or operate an LNG terminal, the Commission shall review and respond specifically to the issues raised by the State agency described in subsection (b) of this section in the advisory report. This subsection shall apply to any application filed after August 8, 2005. A State agency has 30 days after August 8, 2005 tofile an advisory report related to any applications pending at the Commission as of August 8, 2005.
 
 #### (d) Inspections
 

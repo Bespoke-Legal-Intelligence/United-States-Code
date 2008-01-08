@@ -40,7 +40,7 @@ Of the applicants who qualify for preference under this section—
 
 &emsp;(2) the Secretary shall give preference to areas that are underserved with respect to such services.
 
-(July 1, 1944, ch. 373, title XXVI, §2653, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 608; amended Pub. L. 106–345, title III, §311, Oct. 20, 2000, 114 Stat. 1345; Pub. L. 109–415, titleIII, §302(b), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2806, 2820.)
+(July 1, 1944, ch. 373, title XXVI, §2653, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 608; amended Pub. L. 106–345, title III, §311, Oct. 20, 2000, 114 Stat. 1345; Pub. L. 109–415, title III, §302(b), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2806, 2820.)
 
 #### Repeal of Section
 

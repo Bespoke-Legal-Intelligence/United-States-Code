@@ -22,9 +22,9 @@
 
 &emsp;(9) On or after January 1, 2001, section 651 of Public Law 104–208.
 
-(c) A member of the Auxiliary, while assigned to duty, shall be deemed to be a person acting under an officer of the United States or an agency thereof for purposes of section 1442(a)(1) of title 28.
+(c) A member of the Auxiliary, while assigned to duty, shall be deemed to be a person actingunder an officer of the United States or an agency thereof for purposes of section 1442(a)(1) of title 28.
 
-(Added Pub. L. 104–324, title IV, §403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, titleIV, §415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, §17(c), Oct. 6, 2006, 120 Stat. 1707.)
+(Added Pub. L. 104–324, title IV, §403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, title IV, §415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, §17(c), Oct. 6, 2006, 120 Stat. 1707.)
 
 #### References in Text
 

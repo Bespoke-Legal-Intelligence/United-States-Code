@@ -32,7 +32,7 @@ The Administrator shall undertake on an annual basis a thorough inspection of ea
 
 #### (d) State-operated facilities
 
-The Administrator shall annually undertake a thorough inspection of every facility for the treatment, storage, or disposal of hazardous waste which is operated by a State or local government for which a permit is required under section 6925 of this title. The records of such inspection shall be available to the public as provided in subsection (b) of this section.
+The Administrator shall annually undertake a thorough inspection of every facility for the treatment, storage, or disposal of hazardouswaste which is operated by a State or local government for which a permit is required under section 6925 of this title. The records of such inspection shall be available to the public as provided in subsection (b) of this section.
 
 #### (e) Mandatory inspections
 
@@ -40,7 +40,7 @@ The Administrator shall annually undertake a thorough inspection of every facili
 
 (2) Not later than six months after November 8, 1984, the Administrator shall submit to the Congress a report on the potential for inspections of hazardous waste treatment, storage, or disposal facilities by nongovernmental inspectors as a supplement to inspections conducted by officers, employees, or representatives of the Environmental Protection Agency or States having authorized hazardous waste programs or operating under a cooperative agreement with the Administrator. Such report shall be prepared in cooperation with the States, insurance companies offering environmental impairment insurance, independent companies providing inspection services, and other such groups as appropriate. Such report shall contain recommendations on provisions and requirements for a program of private inspections to supplement governmental inspections.
 
-(Pub. L. 89–272, title II, §3007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2810; amended Pub. L. 95–609, §7(j), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §12, Oct. 21, 1980, 94 Stat. 2339;Pub. L. 98–616, title II, §§229–231, title V, §502(a), Nov. 8, 1984, 98 Stat. 3255, 3256, 3276; Pub. L. 102–386, title I, §104, Oct. 6, 1992, 106 Stat. 1507.)
+(Pub. L. 89–272, title II, §3007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2810; amended Pub. L. 95–609, §7(j), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §12, Oct. 21, 1980, 94 Stat. 2339; Pub. L. 98–616, title II, §§229–231, title V, §502(a), Nov. 8, 1984, 98 Stat. 3255, 3256, 3276; Pub. L. 102–386, title I, §104, Oct. 6, 1992, 106 Stat. 1507.)
 
 #### Amendments
 

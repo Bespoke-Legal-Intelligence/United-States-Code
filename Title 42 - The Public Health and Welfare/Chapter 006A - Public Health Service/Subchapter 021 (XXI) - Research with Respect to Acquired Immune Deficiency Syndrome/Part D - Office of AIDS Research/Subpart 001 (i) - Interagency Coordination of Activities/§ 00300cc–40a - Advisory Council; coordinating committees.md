@@ -8,7 +8,7 @@
 
 #### (2) Composition, compensation, terms, chair, etc.
 
-&emsp;Subsections (b) through (g) of section 284a of this title apply to the Advisory Council to the same extent and in the same manner as such subsections apply to advisory councils for the national research institutes, except that—
+&emsp;Subsections (b) through (g) of section 284a of this title apply to the Advisory Council to thesame extent and in the same manner as such subsections apply to advisory councils for the national research institutes, except that—
 
 &emsp;&emsp;(A) in addition to the ex officio members specified in section 284a(b)(2) of this title, there shall serve as such members of the Advisory Council a representative from the advisory council of each of the National Cancer Institute and the National Institute on Allergy and Infectious Diseases; and
 

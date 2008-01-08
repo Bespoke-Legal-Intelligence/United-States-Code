@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;For each fiscal year, the amount of the subgrant which a State agency in the Commonwealth of Puerto Rico shall be eligible to receive under this subpart shall be the amountdetermined by multiplying the number of children counted under subsection (a)(1)(A) of this section for the Commonwealth of Puerto Rico by the product of—
+&emsp;For each fiscal year, the amount of the subgrant which a State agency in the Commonwealth of Puerto Rico shall be eligible to receive under this subpart shall be the amount determined by multiplying the number of children counted under subsection (a)(1)(A) of this section for the Commonwealth of Puerto Rico by the product of—
 
 &emsp;&emsp;(A) the percentage which the average per-pupil expenditure in the Commonwealth of Puerto Rico is of the lowest average per-pupil expenditure of any of the 50 States; and
 

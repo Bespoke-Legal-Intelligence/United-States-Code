@@ -16,7 +16,7 @@
 
 &emsp;(1) a reasonable allowance for transportation of the house trailer or mobile dwelling, if the trailer or dwelling is transported by the employee; or
 
-&emsp;(2) commercial transportation of the house trailer or mobile dwelling, at Government expense, or reimbursement to the employee therefor, including the payment of necessary tolls, charges, and permit fees, if the trailer or dwelling is not transported by the employee.
+&emsp;(2) commercial transportation of the house trailer or mobile dwelling, at Government expense, or reimbursement to the employeetherefor, including the payment of necessary tolls, charges, and permit fees, if the trailer or dwelling is not transported by the employee.
 
 > However, payment under this subsection may not exceed the maximum payment to which the employee otherwise would be entitled under subsection (a) of this section for transportation and temporary storage of his household goods and personal effects in connection with this transfer.
 
@@ -34,7 +34,7 @@
 
 (i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental United States only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by the Government for the expenses and allowances is recoverable from the employee as a debt due the Government.
 
-(j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee's commuting area shall take effect only after the employee hasbeen given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
+(j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee's commuting area shall take effect only after the employee has been given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, §1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, §1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, §2314(d), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 98–151, §118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, §629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, §3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, §2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§3(a), 4, Oct. 6, 1994, 108 Stat. 3114; Pub. L. 104–201, div. A, title XVII, §1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–85, div. C, title XXXV, §3550(c)(1), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–264, §6(4), Oct. 19, 1998, 112 Stat. 2356.)
 
@@ -106,7 +106,7 @@ July 21, 1966, Pub. L. 89–516, §2 “Sec. 26”, 80 Stat. 324.
 
 July 21, 1966, Pub. L. 89–516, §2 “Sec. 28”, 80 Stat. 325.
 
-Subsection (a)(1), (3) of section 1 of the act of July 21, 1966, was effected in the codification of 5 U.S.C. 5724(a)(1), (f); accordingly, no further amendments to 5 U.S.C. 5724 are necessary.
+Subsection (a)(1), (3) of section 1 of the act of July 21, 1966, was effected in the codification of 5 U.S.C.5724(a)(1), (f); accordingly, no further amendments to 5 U.S.C. 5724 are necessary.
 
 In subsection (e), the word “However” is substituted for “and notwithstanding the provisions of the fourth proviso of section 1(a) of this Act” to reflect the codification of that proviso in 5 U.S.C. 5724(e). The words “agency” and “agencies” are substituted for “department” and “departments”, respectively, to conform to the definition in 5 U.S.C. 5721(1). The words “this section and sections 5726(b) and 5727 of this title” and “section 5724a (a), (b) of this title” are substituted for “section 1, subsections (a) and (b) and subsections (e) and (f)” and “sections 23 and 24 of this Act”, respectively, to reflect the codification of the cited sections in 5 U.S.C. The word “employee” is substituted for “officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105.
 
@@ -228,5 +228,5 @@ Section 118(b) of Pub. L. 98–151 provided that: “The amendments made by subs
 
 #### Rates of Reimbursement
 
-Administrator of General Services empowered to prescribe regulations relating to establishment of ratesused in reimbursing civilian officers or employees of Government on a commuted basis in lieu of payment of actual expenses of transportation, etc., of their household goods and personal effects upon transfer from one official station to another, see Ex. Ord. No. 11012, Mar. 28, 1962, 27 F.R. 2983, set out as a note under section 301 of Title 3, The President.
+Administrator of General Services empowered to prescribe regulations relating to establishment of rates used in reimbursing civilian officers or employees of Government on a commuted basis in lieu of payment of actual expenses of transportation, etc., of their household goods and personal effects upon transfer from one official station to another, see Ex. Ord. No. 11012, Mar. 28, 1962, 27 F.R. 2983, set out as a note under section 301 of Title 3, The President.
 

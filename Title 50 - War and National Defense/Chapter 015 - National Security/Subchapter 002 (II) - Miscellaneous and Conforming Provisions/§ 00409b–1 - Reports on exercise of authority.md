@@ -40,3 +40,7 @@
 
 Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 2004, and not as part of the National Security Act of 1947 which comprises this chapter.
 
+#### Change of Name
+
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

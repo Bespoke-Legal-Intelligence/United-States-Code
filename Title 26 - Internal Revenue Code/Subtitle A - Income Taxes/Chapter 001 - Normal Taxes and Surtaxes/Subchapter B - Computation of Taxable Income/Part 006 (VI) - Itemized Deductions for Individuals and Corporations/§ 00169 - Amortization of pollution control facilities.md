@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) State certifying authority
 
-&emsp;The term “State certifying authority” means, in the case of water pollution, the State water pollution control agency as defined in section 13(a) of the Federal Water Pollution Control Act and, in the case of air pollution, the air pollution control agency as defined in section 302(b) of the Clean Air Act. The term “State certifying authority” includes any interstate agency authorized to act in place of a certifying authority of the State.
+&emsp;The term “State certifying authority” means, in the case of water pollution, theState water pollution control agency as defined in section 13(a) of the Federal Water Pollution Control Act and, in the case of air pollution, the air pollution control agency as defined in section 302(b) of the Clean Air Act. The term “State certifying authority” includes any interstate agency authorized to act in place of a certifying authority of the State.
 
 #### (3) Federal certifying authority
 
@@ -96,7 +96,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### References in Text
 
-The Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), referred to in subsec. (d)(1)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. The subject matter of section 13(a) of the act, referred to in subsec. (d)(2), is covered by section 1362(1) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), referred to in subsec. (d)(1)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. The subject matter of section 13(a) of the act, referred to in subsec. (d)(2),is covered by section 1362(1) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Clean Air Act, referred to in subsec. (d)(1)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 

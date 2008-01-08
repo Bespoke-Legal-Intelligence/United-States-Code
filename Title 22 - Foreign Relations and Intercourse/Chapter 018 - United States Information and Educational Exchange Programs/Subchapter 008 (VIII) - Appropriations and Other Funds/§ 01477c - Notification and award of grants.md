@@ -34,10 +34,6 @@ Subsec. (c). Pub. L. 100–204, §202(b), added subsec. (c).
 
 1985—Subsec. (b). Pub. L. 99–93 substituted “1986 and 1987” for “1984 and 1985”.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.

@@ -98,7 +98,7 @@ The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95�
 
 #### Amendments
 
-2000—Subsec. (f). Pub. L. 106–531 struck out “(1)” before “For each audited”, substituted “subsection (a)” for “subsections (a) and (f)”, and struck out par. (2) which read as follows: “Not later than June 30 following the fiscal year for which a financial statement is submitted under subsection (g) of section 3515 of this title, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.”
+2000—Subsec. (f). Pub. L. 106–531 struck out “(1)” before “For each audited”, substituted “subsection (a)” for “subsections (a) and (f)”, and struck out par. (2) which read as follows: “Not later than June 30 following the fiscal year for which a financial statement is submitted under subsection (g) of section 3515 of thistitle, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.”
 
 1996—Subsec. (f)(1). Pub. L. 104–208 inserted “and the Controller of the Office of Federal Financial Management” before period at end of first sentence.
 

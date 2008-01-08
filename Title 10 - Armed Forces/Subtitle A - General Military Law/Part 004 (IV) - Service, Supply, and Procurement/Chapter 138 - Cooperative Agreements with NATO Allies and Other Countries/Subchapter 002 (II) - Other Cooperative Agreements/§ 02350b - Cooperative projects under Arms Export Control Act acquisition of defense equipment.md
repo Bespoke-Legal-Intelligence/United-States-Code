@@ -4,9 +4,9 @@
 
 (2) Except as provided in subsection (c), chapter 137 of this title shall apply to such contracts (referred to in paragraph (1)) entered into by the Secretary of Defense. Except to the extent waived under subsection (c) or some other provision of law, all other provisions of law relating to procurement, if otherwise applicable, shall apply to such contracts entered into by the Secretary of Defense.
 
-(b) When contracting or incurring obligations under section 27(d) of the Arms Export Control Act for cooperative projects, the Secretary of Defense may require subcontracts to be awarded to particular subcontractors in furtherance of the cooperative project.
+(b) When contracting or incurring obligations under section 27(d) of the Arms Export Control Act for cooperative projects, the Secretary ofDefense may require subcontracts to be awarded to particular subcontractors in furtherance of the cooperative project.
 
-(c)(1) Subject to paragraph (2), when entering into contracts or incurring obligations under section 27(d) of the Arms Export Control Act outside the United States, the Secretary of Defense may waive with respect to any such contract or subcontract the application of any provision of law, other than a provision of the ArmsExport Control Act or section 2304 of this title, that specifically prescribes—
+(c)(1) Subject to paragraph (2), when entering into contracts or incurring obligations under section 27(d) of the Arms Export Control Act outside the United States, the Secretary of Defense may waive with respect to any such contract or subcontract the application of any provision of law, other than a provision of the Arms Export Control Act or section 2304 of this title, that specifically prescribes—
 
 &emsp;(A) procedures to be followed in the formation of contracts;
 

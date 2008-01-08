@@ -68,7 +68,7 @@ Subject to subsections (d) and (e) of this section, an amount collected on behal
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The State shall first distribute the amount so collected (other than any amount described in clause (iv)) to thefamily to the extent necessary to satisfy any support arrearages with respect to the family that accrued before the family received assistance from the State.
+&emsp;&emsp;&emsp;&emsp;&emsp;The State shall first distribute the amount so collected (other than any amount described in clause (iv)) to the family to the extent necessary to satisfy any support arrearages with respect to the family that accrued before the family received assistance from the State.
 
 #### (bb) Reimbursement of governments for assistance provided to the family
 
@@ -192,7 +192,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 #### Amendment of Section
 
-<i>Pub. L. 109–171, title VII, §7301(b)(1)(A), (2), (c), (e), Feb. 8, 2006, 120 Stat. 141, 143, 144, pro</i><i>vided that, effective Oct. 1, 2009, and applicable to payments under parts A and D of this subchapter for calendar quarters beginning on or after such date, subject to certain State options, this section is amended as follows:</i>
+<i>Pub. L. 109–171, title VII, §7301(b)(1)(A), (2), (c), (e), Feb. 8, 2006, 120 Stat. 141, 143, 144, provided that, effective Oct. 1, 2009, and applicable to payments under parts A and D of this subchapter for calendar quarters beginning on or after such date, subject to certain State options, this section is amended as follows:</i>
 
 <i>(1) by amending subsection (a) to read as follows:</i>
 
@@ -268,7 +268,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 #### <i>“(A) In general</i>
 
-&emsp;&emsp;<i>“Any rights to support obligations accruing before the date on which a family first receives assistance under part A that are assigned to a State under that part and in effect before the implementation date of this section may remain assigned after such date.</i>
+&emsp;&emsp;<i>“Any rights to support obligations accruing before the date on which a family first receives assistance under part A that are assigned to a State under that part and in effect before the</i><i>implementation date of this section may remain assigned after such date.</i>
 
 #### <i>“(B) Distribution of amounts after assignment discontinuation</i>
 
@@ -362,7 +362,7 @@ Subsec. (c). Pub. L. 99–514, §1883(b)(6), substituted “subsection (b)(4)(A)
 
 Subsec. (b)(1). Pub. L. 98–369, §2640(b)(1), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (b)(2). Pub. L. 98–369, §2640(b)(1), (2)(A), redesignated former par. (1) as (2), and inserted “which arein excess of any amount paid to the family under paragraph (1) and”. Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 98–369, §2640(b)(1), (2)(A), redesignated former par. (1) as (2), and inserted “which are in excess of any amount paid to the family under paragraph (1) and”. Former par. (2) redesignated (3).
 
 Subsec. (b)(3). Pub. L. 98–369, §2640(b)(1), (2)(B), redesignated former par. (2) as (3), and substituted “paragraph (2)” for “paragraph (1)”. Former par. (3) redesignated (4).
 

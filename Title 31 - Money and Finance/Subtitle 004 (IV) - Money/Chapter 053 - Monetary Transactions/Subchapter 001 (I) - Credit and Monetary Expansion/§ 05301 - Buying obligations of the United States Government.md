@@ -1,6 +1,6 @@
 ### §5301. Buying obligations of the United States Government
 
-(a) The President may direct the Secretary of the Treasury to make an agreement with the Federal reserve banks and the Board of Governors of the Federal Reserve System when thePresident decides that the foreign commerce of the United States is affected adversely because—
+(a) The President may direct the Secretary of the Treasury to make an agreement with the Federal reserve banks and the Board of Governors of the Federal Reserve System when the President decides that the foreign commerce of the United States is affected adversely because—
 
 &emsp;(1) the value of coins and currency of a foreign country compared to the present standard value of gold is depreciating;
 

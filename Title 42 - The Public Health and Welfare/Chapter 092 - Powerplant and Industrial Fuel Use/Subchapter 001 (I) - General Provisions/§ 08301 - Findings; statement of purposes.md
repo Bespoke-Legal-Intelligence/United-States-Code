@@ -42,7 +42,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 1987—Subsec. (a)(1), (2). Pub. L. 100–42, §1(c)(1)(A), struck out “and major fuel-burning installations” after “electric powerplants”.
 
-Subsec. (b)(2). Pub. L. 100–42, §1(c)(1)(B), redesignated par. (3) as (2) and struck out former par. (2) relating toconservation of natural gas and petroleum for uses for which there are no alternatives.
+Subsec. (b)(2). Pub. L. 100–42, §1(c)(1)(B), redesignated par. (3) as (2) and struck out former par. (2) relating to conservation of natural gas and petroleum for uses for which there are no alternatives.
 
 Subsec. (b)(3), (4). Pub. L. 100–42, §1(c)(1)(B), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 

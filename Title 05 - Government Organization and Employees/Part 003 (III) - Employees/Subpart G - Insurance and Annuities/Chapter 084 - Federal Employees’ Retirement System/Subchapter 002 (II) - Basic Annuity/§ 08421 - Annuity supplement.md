@@ -16,7 +16,7 @@
 
 (2) The amount under this paragraph for an annuitant is an amount equal to the old-age insurance benefit which would be payable to such annuitant under title II of the Social Security Act (without regard to sections 203, 215(a)(7), and 215(d)(5) of such Act) upon attaining age 62 and filing application therefor, determined as if the annuitant had attained such age and filed application therefor, and were a fully insured individual (as defined in section 214(a) of such Act), on January 1 of the year in which such annuitant's entitlement to any payment under this section commences, except that the reduction of such old-age insurance benefit under section 202(q) of such Act shall be the maximum applicable for an individual born in the same year as the annuitant. In computing the primary insurance amount under section 215 of such Act for purposes of this paragraph, the number of elapsed years (referred to in section 215(b)(2)(B)(iii) of such Act and used to compute the number of benefit computation years) shall not include years beginning with the year in which such annuitant's entitlement to any payment under this section commences, and—
 
-&emsp;(A) only basic pay for service performed (if any) shall be taken into account in computingthe total wages and self-employment income of the annuitant for a benefit computation year;
+&emsp;(A) only basic pay for service performed (if any) shall be taken into account in computing the total wages and self-employment income of the annuitant for a benefit computation year;
 
 &emsp;(B) for a benefit computation year which commences after the date of the separation with respect to which entitlement to the annuitant's annuity under this subchapter is based and before the date as of which such annuitant is treated, under the preceding sentence, to have attained age 62, the total wages and self-employment income of such annuitant for such year shall be deemed to be zero; and
 
@@ -32,7 +32,7 @@
 
 (3) The fraction under this paragraph for any annuitant is a fraction—
 
-&emsp;(A) the numerator of which is the annuitant's total years of service (rounding a fraction to the nearest whole number, with 1/2 being rounded to the next higher number), not to exceed the number under subparagraph (B); and
+&emsp;(A) the numerator of which is the annuitant's total years of service (rounding a fraction to the nearest whole number, with 1/2being rounded to the next higher number), not to exceed the number under subparagraph (B); and
 
 &emsp;(B) the denominator of which is 40.
 

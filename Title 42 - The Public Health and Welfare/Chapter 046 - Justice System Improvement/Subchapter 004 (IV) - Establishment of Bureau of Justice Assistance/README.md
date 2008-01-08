@@ -18,7 +18,7 @@ Section 3746, Pub. L. 90–351, title I, §406, as added Pub. L. 98–473, title
 
 Section 3747, Pub. L. 90–351, title I, §407, as added Pub. L. 98–473, title II, §606, Oct. 12, 1984, 98 Stat. 2084, related to allocation and distribution of funds.
 
-Section 3748, Pub. L. 90–351, title I, §408, as added Pub. L. 98–473, title II, §606, Oct. 12, 1984, 98 Stat. 2085, related to designation of a State office to prepare applications and administer funds.
+Section 3748, Pub. L. 90–351, title I, §408, as added Pub. L. 98–473, title II, §606, Oct. 12, 1984, 98 Stat. 2085,related to designation of a State office to prepare applications and administer funds.
 
 Another prior subchapter IV, consisting of sections 3741 to 3745, related to formula grant program, prior to the general amendment of this subchapter by Pub. L. 98–473.
 

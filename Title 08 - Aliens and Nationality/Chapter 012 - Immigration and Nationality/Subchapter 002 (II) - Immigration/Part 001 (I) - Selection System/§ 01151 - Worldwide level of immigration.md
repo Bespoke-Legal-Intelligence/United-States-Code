@@ -26,7 +26,7 @@ Aliens described in this subsection, who are not subject to the worldwide levels
 
 &emsp;(2)(A)(i)
 
-Immediate relatives.—For purposes of this subsection, the term “immediate relatives” means the children, spouses, and parents of a citizen of the United States, except that, in the case of parents, such citizensshall be at least 21 years of age. In the case of an alien who was the spouse of a citizen of the United States for at least 2 years at the time of the citizen's death and was not legally separated from the citizen at the time of the citizen's death, the alien (and each child of the alien) shall be considered, for purposes of this subsection, to remain an immediate relative after the date of the citizen's death but only if the spouse files a petition under section 1154(a)(1)(A)(ii) of this title within 2 years after such date and only until the date the spouse remarries. For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse or parent loses United States citizenship on account of the abuse.
+Immediate relatives.—For purposes of this subsection, the term “immediate relatives” means the children, spouses, and parents of a citizen of the United States, except that, in the case of parents, such citizens shall be at least 21 years of age. In the case of an alien who was the spouse of a citizen of the United States for at least 2 years at the time of the citizen's death and was not legally separated from the citizen at the time of the citizen's death, the alien (and each child of the alien) shall be considered, for purposes of this subsection, to remain an immediate relative after the date of the citizen's death but only if the spouse files a petition under section 1154(a)(1)(A)(ii) of this title within 2 years after such date and only until the date the spouse remarries. For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse or parent loses United States citizenship on account of the abuse.
 
 &emsp;(ii) Aliens admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent who is such an immediate relative.
 
@@ -88,7 +88,7 @@ The worldwide level of diversity immigrants is equal to 55,000 for each fiscal y
 
 #### (2) Age on parent's naturalization date
 
-&emsp;In the case of a petition under section 1154 of this title initially filed for an alien child's classification as a family-sponsored immigrant under section 1153(a)(2)(A) of this title, based on the child's parent being lawfully admitted for permanent residence, if the petition is later converted, due to the naturalization ofthe parent, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section, the determination described in paragraph (1) shall be made using the age of the alien on the date of the parent's naturalization.
+&emsp;In the case of a petition under section 1154 of this title initially filed for an alien child's classification as a family-sponsored immigrant under section 1153(a)(2)(A) of this title, based on the child's parent being lawfully admitted for permanent residence, if the petition is later converted, due to the naturalization of the parent, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section, the determination described in paragraph (1) shall be made using the age of the alien on the date of the parent's naturalization.
 
 #### (3) Age on marriage termination date
 
@@ -140,7 +140,7 @@ Subsecs. (c) to (e). Pub. L. 94–571, §2(2), struck out subsec. (c) which prov
 
 1965—Subsec. (a). Pub. L. 89–236 substituted provisions setting up a 170,000 maximum on total annual immigration and 45,000 maximum on total quarterly immigration without regard to national origins, for provisions setting an annual quota for quota areas which allowed admission of one-sixth of one per centum of portion of national population of continental United States in 1920 attributable by national origin of that quota area and setting a minimum quota of 100 for each quota area.
 
-Subsec. (b). Pub. L. 89–236 substituted provisions defining “immediate relatives” for provisions calling for a determination of annual quota for each quota area bySecretaries of State and Commerce and Attorney General, and proclamation of quotas by President.
+Subsec. (b). Pub. L. 89–236 substituted provisions defining “immediate relatives” for provisions calling for a determination of annual quota for each quota area by Secretaries of State and Commerce and Attorney General, and proclamation of quotas by President.
 
 Subsec. (c). Pub. L. 89–236 substituted provisions allowing carryover through June 30, 1968, of quotas for quota areas in effect on June 30, 1965, and redistribution of unused quota numbers, for provisions which limited issuance of immigrant visas.
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–212 effective, except as otherwise provided, Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 96–212 effective, except as otherwise provided, Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct.1, 1979, see section 204 of Pub. L. 96–212, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -226,7 +226,7 @@ Parents.—
 
 &emsp;&emsp;“(A)
 
-In general.—In the case of an alien who was the parent of a citizen of the United States at thetime of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
+In general.—In the case of an alien who was the parent of a citizen of the United States at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
 
 &emsp;&emsp;“(B)
 
@@ -272,7 +272,7 @@ Petitions.—An alien spouse or child described in subparagraph (A) may file a p
 
 &emsp;“(2)
 
-Self-petitions.—Any spouse or child of an alien described in paragraph (3) who is not a beneficiary of a petition for classification as a family-sponsored immigrant may file a petition for such classification under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)) with the Secretary of Homeland Security, but only if the spouse or child files a petition within 2 years after such date. Such spouse or child shall be eligible for deferred action, advance parole, and work authorization.
+Self-petitions.—Any spouse or child of an alien described in paragraph (3) who is not a beneficiary of a petition for classification as a family-sponsored immigrant may file a petition for such classification under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)) with the Secretary of Homeland Security, but only if the spouse or child files a petition within 2 years after such date. Such spouse or childshall be eligible for deferred action, advance parole, and work authorization.
 
 &emsp;“(3)
 
@@ -322,7 +322,7 @@ Pub. L. 105–100, title II, §203(d), Nov. 19, 1997, 111 Stat. 2199, as amended
 
 #### Transition Relating to Death of Citizen Spouse
 
-Section 101(c) of Pub. L. 101–649, as added by Pub. L. 102–232, title III, §302(a)(2), Dec. 12, 1991, 105 Stat. 1742, provided that: “In applying the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act \[8 U.S.C. 1151(b)(2)(A)(i)\] (as amended by subsection\(a)) in the case of a \[sic\] alien whose citizen spouse died before the date of the enactment of this Act \[Nov. 29, 1990\], notwithstanding the deadline specified in such sentence the alien spouse may file the classification petition referred to in such sentence within 2 years after the date of the enactment of this Act.”
+Section 101(c) of Pub. L. 101–649, as added by Pub. L. 102–232, title III, §302(a)(2), Dec. 12, 1991, 105 Stat. 1742, provided that: “In applying the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act \[8 U.S.C. 1151(b)(2)(A)(i)\] (as amended by subsection (a)) in the case of a \[sic\] alien whose citizen spouse died before the date of the enactment of this Act \[Nov. 29, 1990\], notwithstanding the deadline specified in such sentence the alien spouse may file the classification petition referred to in such sentence within 2 years after the date of the enactment of this Act.”
 
 #### Inapplicability of Numerical Limitations for Certain Aliens Residing in the United States Virgin Islands
 
@@ -348,5 +348,5 @@ Section 21(a)–(d) and (f)–(h) of Pub. L. 89–236 established a Select Commi
 
 #### Termination of Quota Deductions
 
-Section 10 of Pub. L. 85–316, Sept. 11, 1957, 71 Stat. 642, provided that the quota deductions required under the provisions of former subsec. (e) of this section, the Displaced Persons Act of 1948, as amended, the act of June 30, 1950, and the act of April 9, 1952 were terminated effective July 1, 1957.
+Section 10 of Pub. L. 85–316, Sept. 11, 1957, 71 Stat. 642, provided that the quota deductions required under theprovisions of former subsec. (e) of this section, the Displaced Persons Act of 1948, as amended, the act of June 30, 1950, and the act of April 9, 1952 were terminated effective July 1, 1957.
 

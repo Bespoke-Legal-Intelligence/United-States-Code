@@ -6,7 +6,7 @@ The Director of the Office shall receive compensation at the rate now or hereaft
 
 #### (b) Authorization of Director to appoint and fix compensation of employees
 
-To carry out the functions of the Office, the Director, on behalf of the Administrator, is authorized to appoint and fix the compensation ofsuch professionally qualified employees as he deems necessary, including up to ten of the employees in grade GS–16, GS–17, or GS–18 authorized by section 766 of this title.
+To carry out the functions of the Office, the Director, on behalf of the Administrator, is authorized to appoint and fix the compensation of such professionally qualified employees as he deems necessary, including up to ten of the employees in grade GS–16, GS–17, or GS–18 authorized by section 766 of this title.
 
 #### (c) Delegation of functions by the Director
 

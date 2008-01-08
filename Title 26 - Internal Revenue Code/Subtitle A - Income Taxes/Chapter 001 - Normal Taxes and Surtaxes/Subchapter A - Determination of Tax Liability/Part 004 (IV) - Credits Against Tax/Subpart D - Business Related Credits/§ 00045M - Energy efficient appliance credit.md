@@ -200,7 +200,7 @@ For purposes of this section—
 
 #### Effective Date
 
-Section applicable to appliances produced after Dec. 31, 2005, see section 1334(d) of Pub. L. 109–58, set out asan Effective Date of 2005 Amendments note under section 38 of this title.
+Section applicable to appliances produced after Dec. 31, 2005, see section 1334(d) of Pub. L. 109–58, set out as an Effective Date of 2005 Amendments note under section 38 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

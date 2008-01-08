@@ -32,7 +32,7 @@ As used in this subchapter:
 
 &emsp;(C) lysergic acid diethylamide; or
 
-&emsp;(D) any drug which contains any quantity of a substance which the Attorney General, after investigation, has found to have, and by regulation designated as having, a potential for abuse because of its depressant or stimulant effect on the central nervous system or its hallucinogenic effect.
+&emsp;(D) any drug which contains any quantity of a substance which the Attorney General, afterinvestigation, has found to have, and by regulation designated as having, a potential for abuse because of its depressant or stimulant effect on the central nervous system or its hallucinogenic effect.
 
 (10) The term “dispense” means to deliver a controlled substance to an ultimate user or research subject by, or pursuant to the lawful order of, a practitioner, including the prescribing and administering of a controlled substance and the packaging, labeling or compounding necessary to prepare the substance for such delivery. The term “dispenser” means a practitioner who so delivers a controlled substance to an ultimate user or research subject.
 
@@ -90,7 +90,7 @@ As used in this subchapter:
 
 &emsp;(C) protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
-(26) The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+(26) The term “State” means a State of the United States, the District of Columbia, and anycommonwealth, territory, or possession of the United States.
 
 (27) The term “ultimate user” means a person who has lawfully obtained, and who possesses, a controlled substance for his own use or for the use of a member of his household or for an animal owned by him or by a member of his household.
 
@@ -198,7 +198,7 @@ As used in this subchapter:
 
 &emsp;(J) Hydrochloric gas.
 
-(36) The term “regular customer” means, with respect to a regulated person, a customer with whom the regulated person has an established business relationship that is reported to the Attorney General.
+(36) The term “regular customer” means, with respect to a regulated person, a customer withwhom the regulated person has an established business relationship that is reported to the Attorney General.
 
 (37) The term “regular importer” means, with respect to a listed chemical, a person that has an established record as an importer of that listed chemical that is reported to the Attorney General.
 
@@ -386,7 +386,7 @@ As used in this subchapter:
 
 > Each reference in clause (i) to ephedrine, pseudoephedrine, or phenylpropanolamine includes each of the salts, optical isomers, and salts of optical isomers of such chemical.
 
-(B) Such term does not include a product described in subparagraph (A) if the product contains a chemical specified in such subparagraph that the Attorney General has under section 811(a) of this title added to any of the schedules under section 812(c) of this title. In the absence of such scheduling by the Attorney General, a chemical specified in such subparagraph may not be considered to be a controlled substance.
+(B) Such term does not include a product described in subparagraph (A) if the product contains a chemical specified in such subparagraphthat the Attorney General has under section 811(a) of this title added to any of the schedules under section 812(c) of this title. In the absence of such scheduling by the Attorney General, a chemical specified in such subparagraph may not be considered to be a controlled substance.
 
 (46) The term “regulated seller” means a retail distributor (including a pharmacy or a mobile retail vendor), except that such term does not include an employee or agent of such distributor.
 
@@ -446,7 +446,7 @@ Par. (34)(X), (Y). Pub. L. 106–172, §3(c), added subpar. (X) and redesignated
 
 Par. (39)(A)(iv)(II). Pub. L. 106–310 substituted “9 grams” for “24 grams” in two places and inserted before semicolon at end “and sold in package sizes of not more than 3 grams of pseudoephedrine base or 3 grams of phenylpropanolamine base”.
 
-1997—Par. (9)(A). Pub. L. 105–115 redesignated cl. (i) as subpar. (A) and struck out cl. (ii) which read as follows: “any derivative of barbituric acid which has been designated by the Secretary as habit forming under section 352(d) of this title; or”.
+1997—Par. (9)(A). Pub. L. 105–115 redesignated cl. (i) as subpar. (A) and struck out cl. (ii) which read as follows:“any derivative of barbituric acid which has been designated by the Secretary as habit forming under section 352(d) of this title; or”.
 
 1996—Par. (26). Pub. L. 104–294, §607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
 

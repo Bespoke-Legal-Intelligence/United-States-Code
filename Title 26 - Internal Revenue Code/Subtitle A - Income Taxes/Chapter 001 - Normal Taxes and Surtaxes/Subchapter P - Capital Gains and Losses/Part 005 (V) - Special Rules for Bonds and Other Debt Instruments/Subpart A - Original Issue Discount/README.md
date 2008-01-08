@@ -15,8 +15,6 @@ Subpart A—Original Issue Discount
 
 1985—Pub. L. 99–121, title I, §102(d), Oct. 11, 1985, 99 Stat. 509, added item 1274A.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by the word “and”.</i>
-
 
 ---
 

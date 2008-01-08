@@ -2,7 +2,7 @@
 
 #### (a) Limitations on licensing and assistance authorities; criteria for upgrading, improving, etc., supply and quality enhancement programs
 
-The Federal Energy Regulatory Commission shall not license the construction of any dam, water conduit, reservoir, powerhouse, transmission line, or other project works under the Federal Power Act (16 U.S.C. 791a et seq.), on or directly affecting the recreation area, and no department or agency of the United States shall assist by loan, grant, license, or otherwise in the construction of any water resources project that would have a direct and adverse effect on the values for which such area is established, except where such project is determined by the State of Georgia to be necessary for water supply or water quality enhancement purposes and authorized by the United States Congress. Nothing contained in the foregoing sentence, however, shall preclude licensing of, or assistance to, developments upstream or downstream from the recreation area or on any stream tributary thereto which will not invade the recreation area or unreasonably diminish the scenic, recreational, and fish and wildlife values present therein on August 15, 1978. Nothing contained in this subsection shall preclude the upgrading, improvement, expansion or development of facilities or public works for water supply or water quality enhancement purposes if such action would not have a material adverse effect on the values for which the recreation area is established.
+The Federal Energy Regulatory Commission shall not license the construction of any dam, water conduit, reservoir, powerhouse, transmission line, or other project works under the Federal Power Act (16 U.S.C. 791a et seq.), on or directly affecting the recreation area, and no department or agency of the United States shall assist by loan, grant, license, or otherwise in the construction of any water resources project that would have a direct and adverse effect on the values for which such area is established, except where such project is determined by the State of Georgia to be necessary for water supply or water quality enhancement purposes and authorized by the United States Congress. Nothing contained in the foregoing sentence, however, shall preclude licensing of, or assistance to, developments upstream or downstream from the recreation area or on any stream tributary thereto which will not invade the recreation area or unreasonably diminish the scenic, recreational, and fish and wildlife values present therein on August 15, 1978. Nothing contained in this subsection shall preclude the upgrading, improvement, expansion or development of facilities or public works for water supply or water quality enhancement purposes if such actionwould not have a material adverse effect on the values for which the recreation area is established.
 
 #### (b) Limitations on recommending authorizations and requesting appropriations; applicability of local considerations and criteria
 
@@ -20,7 +20,7 @@ The Secretary is directed to proceed as expeditiously as possible to acquire the
 
 (3) If lands as described in paragraph (2) are not available for acquisition, other lands within the State of Georgia may be acquired as replacement lands under paragraph (1) if such lands are transferred to the State of Georgia for permanent management for public outdoor recreation.
 
-(Pub. L. 95–344, title I, §104, Aug. 15, 1978, 92 Stat. 476; Pub. L. 98–568, §1(d), Oct. 30, 1984, 98Stat. 2928; Pub. L. 103–437, §6(d)(18), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 106–154, §2(e)(2), (3), Dec. 9, 1999, 113 Stat. 1739.)
+(Pub. L. 95–344, title I, §104, Aug. 15, 1978, 92 Stat. 476; Pub. L. 98–568, §1(d), Oct. 30, 1984, 98 Stat. 2928; Pub. L. 103–437, §6(d)(18), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 106–154, §2(e)(2), (3), Dec. 9, 1999, 113 Stat. 1739.)
 
 #### References in Text
 
@@ -35,8 +35,4 @@ Subsec. (d)(2). Pub. L. 106–154, §2(e)(3), substituted “under this subchapt
 1994—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
 1984—Subsec. (d). Pub. L. 98–568 added subsec. (d).
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

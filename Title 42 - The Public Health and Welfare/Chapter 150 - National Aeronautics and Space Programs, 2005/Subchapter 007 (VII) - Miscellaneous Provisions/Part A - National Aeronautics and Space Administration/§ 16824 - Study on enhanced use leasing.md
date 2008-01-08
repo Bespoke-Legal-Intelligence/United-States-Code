@@ -14,3 +14,7 @@ Not later than one year after December 30, 2005, the Comptroller General shall t
 
 Section 2459j of this title, referred to in text, was in the original “section 315 of the National Aeronautics and Space Administration Act of 1958”, which was translated as reading “section 315 of the National Aeronautics and Space Act of 1958”, to reflect the probable intent of Congress.
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

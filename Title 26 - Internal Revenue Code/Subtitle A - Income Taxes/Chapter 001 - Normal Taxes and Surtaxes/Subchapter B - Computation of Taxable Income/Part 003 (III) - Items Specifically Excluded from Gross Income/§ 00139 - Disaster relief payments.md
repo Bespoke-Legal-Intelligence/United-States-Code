@@ -40,7 +40,7 @@ Subsections (a), (f), and (g) shall not apply with respect to any individual ide
 
 #### (f) Exclusion of certain additional payments
 
-Gross income shall not include any amount received as payment under section 406 of the Air Transportation Safety and System Stabilization Act.
+Gross income shall not include any amount received as payment under section 406 of the AirTransportation Safety and System Stabilization Act.
 
 #### (g) Qualified disaster mitigation payments
 

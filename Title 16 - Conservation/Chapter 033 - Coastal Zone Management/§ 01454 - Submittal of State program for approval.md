@@ -2,7 +2,7 @@
 
 Any coastal state which has completed the development of its management program shall submit such program to the Secretary for review and approval pursuant to section 1455 of this title.
 
-(Pub. L. 89–454, title III, §305, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1282; amended Pub. L. 93–612, §1(1), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, §4, July 26, 1976, 90 Stat. 1015; Pub. L.101–508, title VI, §6205, Nov. 5, 1990, 104 Stat. 1388–302; Pub. L. 102–587, title II, §2205(b)(1)(A), Nov. 4, 1992, 106 Stat. 5050; Pub. L. 104–150, §2(a), (b)(1), June 3, 1996, 110 Stat. 1380.)
+(Pub. L. 89–454, title III, §305, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1282; amended Pub. L. 93–612, §1(1), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, §4, July 26, 1976, 90 Stat. 1015; Pub. L. 101–508, title VI, §6205, Nov. 5, 1990, 104 Stat. 1388–302; Pub. L. 102–587, title II, §2205(b)(1)(A), Nov. 4, 1992, 106 Stat. 5050; Pub. L. 104–150, §2(a), (b)(1), June 3, 1996, 110 Stat. 1380.)
 
 #### Amendments
 

@@ -12,7 +12,7 @@ For purposes of this part:
 
 #### (3) Health care provider
 
-&emsp;The term “health care provider” includes a provider of services (as defined in section 1395x(u) of this title), a provider of medical or other health services (as defined in section 1395x(s) of this title), and any other person furnishing health care services or supplies.
+&emsp;The term “health care provider” includes a provider of services (as defined in section 1395x(u) of this title), a provider of medical orother health services (as defined in section 1395x(s) of this title), and any other person furnishing health care services or supplies.
 
 #### (4) Health information
 
@@ -92,7 +92,7 @@ A prior section 1171 of act Aug. 14, 1935, was classified to section 1320c–20 
 
 #### Purpose
 
-Section 261 of title II of Pub. L. 104–191 provided that: “It is the purpose of this subtitle \[subtitle F (§§261–264) of title II of Pub. L. 104–191, enacting this part, amending sections 242k and 1395cc of this title, and enacting provisions set out as a note under section 1320d–2 of this title\] to improve the Medicare program under title XVIII of the Social Security Act \[subchapter XVIII of this chapter\], the medicaid program under title XIX of such Act \[subchapter XIX of this chapter\], and the efficiency and effectiveness of the health care system, by encouraging the development of a health information system through the establishment of standards and requirements for the electronic transmission of certain health information.”
+Section 261 of title II of Pub. L. 104–191 provided that: “It is the purpose of this subtitle \[subtitle F (§§261–264) of title II of Pub. L. 104–191, enacting this part, amending sections 242k and 1395cc of this title, and enacting provisions set out as a note under section 1320d–2 of this title\] to improve the Medicare program under title XVIII of the Social Security Act \[subchapter XVIII of this chapter\], the medicaid program under title XIX ofsuch Act \[subchapter XIX of this chapter\], and the efficiency and effectiveness of the health care system, by encouraging the development of a health information system through the establishment of standards and requirements for the electronic transmission of certain health information.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Part”.</i>
 

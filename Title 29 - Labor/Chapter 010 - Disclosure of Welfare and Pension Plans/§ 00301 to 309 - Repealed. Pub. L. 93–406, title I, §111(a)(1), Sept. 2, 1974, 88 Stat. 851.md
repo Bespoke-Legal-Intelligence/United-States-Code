@@ -12,7 +12,7 @@ Section 305, Pub. L. 85–836, §6, Aug. 28, 1958, 72 Stat. 999; Pub. L. 87–42
 
 Section 306, Pub. L. 85–836, §7, Aug. 28, 1958, 72 Stat. 1000; Pub. L. 87–420, §§9–13, Mar. 20, 1962, 76 Stat. 36, 37, related to time for publication, contents, etc., of annual reports. See section 1023 of this title.
 
-Section 307, Pub. L. 85–836, §8, Aug. 28, 1958, 72 Stat. 1002; Pub. L. 87–420, §§14, 18, Mar. 20, 1962, 76 Stat. 37, 43,related to publication of description of plan and annual report. See section 1024 of this title.
+Section 307, Pub. L. 85–836, §8, Aug. 28, 1958, 72 Stat. 1002; Pub. L. 87–420, §§14, 18, Mar. 20, 1962, 76 Stat. 37, 43, related to publication of description of plan and annual report. See section 1024 of this title.
 
 Section 308, Pub. L. 85–836, §9, Aug. 28, 1958, 72 Stat. 1002; Pub. L. 87–420, §15, Mar. 20, 1962, 76 Stat. 37, related to enforcement provisions. See section 1131 et seq. of this title.
 

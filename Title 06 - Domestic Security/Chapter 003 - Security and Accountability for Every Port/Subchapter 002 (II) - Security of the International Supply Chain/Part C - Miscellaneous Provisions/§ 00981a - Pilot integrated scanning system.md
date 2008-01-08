@@ -58,5 +58,5 @@ If the Secretary determines the available technology meets the criteria outlined
 
 #### Codification
 
-Section was enacted as part of the Department of Homeland Security Appropriations Act, 2007, and not as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, which comprises this chapter.
+Section was enacted as part of the Department of Homeland Security Appropriations Act, 2007, and not aspart of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, which comprises this chapter.
 

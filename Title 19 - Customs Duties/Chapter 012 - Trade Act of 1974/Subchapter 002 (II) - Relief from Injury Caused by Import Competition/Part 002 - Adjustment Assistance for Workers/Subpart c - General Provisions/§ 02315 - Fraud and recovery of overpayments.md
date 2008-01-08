@@ -8,7 +8,7 @@
 
 &emsp;(B) requiring such repayment would be contrary to equity and good conscience.
 
-(2) Unless an overpayment is otherwise recovered, or waived under paragraph (1), the State agency or the Secretary shall recover the overpayment by deductions from any sums payable to such person under this part, under any Federal unemployment compensation law administered by the State agency or the Secretary, or under any other Federal law administered by the State agency or the Secretary which provides for the payment of assistance or an allowance with respect to unemployment, and, notwithstanding any other provision of State law or Federal law to the contrary, the Secretary may require the State agency to recover any overpayment under this part by deduction from any unemployment insurance payable to such person under the State law, except that no single deduction under this paragraph shall exceed 50 percent of the amount otherwise payable.
+(2) Unless an overpayment is otherwise recovered, or waived under paragraph (1), the Stateagency or the Secretary shall recover the overpayment by deductions from any sums payable to such person under this part, under any Federal unemployment compensation law administered by the State agency or the Secretary, or under any other Federal law administered by the State agency or the Secretary which provides for the payment of assistance or an allowance with respect to unemployment, and, notwithstanding any other provision of State law or Federal law to the contrary, the Secretary may require the State agency to recover any overpayment under this part by deduction from any unemployment insurance payable to such person under the State law, except that no single deduction under this paragraph shall exceed 50 percent of the amount otherwise payable.
 
 #### (b) False representation or nondisclosure of material fact
 
@@ -44,5 +44,5 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, with transition provisions
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

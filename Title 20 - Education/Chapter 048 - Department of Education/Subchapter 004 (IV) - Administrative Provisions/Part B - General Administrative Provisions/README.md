@@ -24,3 +24,4 @@ Part B—General Administrative Provisions
 - [&sect; 03487 - Repealed. Pub. L. 103&#8211;382, title II, &sect;271(a)(1), Oct. 20, 1994, 108 Stat. 3929](%C2%A7%2003487%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93382%2C%20title%20II%2C%20%C2%A7271%28a%29%281%29%2C%20Oct.%2020%2C%201994%2C%20108%20Stat.%203929.md)
 - [&sect; 03488 - Authorization of appropriations](%C2%A7%2003488%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 03489 - General extension of authorizations](%C2%A7%2003489%20-%20General%20extension%20of%20authorizations.md)
+- [&sect; 03490 - Potential financial interests or impaired objectivity of covered individuals or entities](%C2%A7%2003490%20-%20Potential%20financial%20interests%20or%20impaired%20objectivity%20of%20covered%20individuals%20or%20entities.md)

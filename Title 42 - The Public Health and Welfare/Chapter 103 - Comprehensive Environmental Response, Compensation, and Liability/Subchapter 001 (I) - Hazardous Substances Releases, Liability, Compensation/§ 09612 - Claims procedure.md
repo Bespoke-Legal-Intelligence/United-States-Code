@@ -8,7 +8,7 @@ No claim may be asserted against the Fund pursuant to section 9611(a) of this ti
 
 #### (1) Prescribing forms and procedures
 
-&emsp;The President shall prescribe appropriate forms and procedures for claims filed hereunder, which shall include a provision requiring the claimant to make a sworn verification of the claim to the best of his knowledge. Anyperson who knowingly gives or causes to be given any false information as a part of any such claim shall, upon conviction, be fined in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both.
+&emsp;The President shall prescribe appropriate forms and procedures for claims filed hereunder, which shall include a provision requiring the claimant to make a sworn verification of the claim to the best of his knowledge. Any person who knowingly gives or causes to be given any false information as a part of any such claim shall, upon conviction, be fined in accordance with the applicable provisions of title 18 or imprisoned for not more than 3 years (or not more than 5 years in the case of a second or subsequent conviction), or both.
 
 #### (2) Payment or request for hearing
 
@@ -24,7 +24,7 @@ No claim may be asserted against the Fund pursuant to section 9611(a) of this ti
 
 #### (5) Finality and appeal
 
-&emsp;All administrative decisions hereunder shall be final, and any party to the proceeding may appeal a decision within 30 days of notification of the award or decision. Any such appeal shall be made to the Federal district court for the district where the release or threat of release took place. In any such appeal, the decision shall be considered binding and conclusive, and shall not be overturned except for arbitrary or capricious abuse of discretion.
+&emsp;All administrative decisions hereunder shall be final, and any party to the proceeding mayappeal a decision within 30 days of notification of the award or decision. Any such appeal shall be made to the Federal district court for the district where the release or threat of release took place. In any such appeal, the decision shall be considered binding and conclusive, and shall not be overturned except for arbitrary or capricious abuse of discretion.
 
 #### (6) Payment
 
@@ -66,7 +66,7 @@ Regardless of any State statutory or common law to the contrary, no person who a
 
 #### (f) Double recovery prohibited
 
-Where the President has paid out of the Fund for any response costs or any costs specifiedunder section 9611(c)(1) or (2) of this title, no other claim may be paid out of the Fund for the same costs.
+Where the President has paid out of the Fund for any response costs or any costs specified under section 9611(c)(1) or (2) of this title, no other claim may be paid out of the Fund for the same costs.
 
 (Pub. L. 96–510, title I, §112, Dec. 11, 1980, 94 Stat. 2792; Pub. L. 99–499, title I, §§109(a)(3), 112, Oct. 17, 1986, 100 Stat. 1633, 1646.)
 
@@ -80,7 +80,7 @@ Pub. L. 99–499, §109(a)(3), substituted “in accordance with the applicable 
 
 Subsec. (b)(2) to (6). Pub. L. 99–499, §112(b), added pars. (2) to (6) and struck out former pars. (2) to (4) which related to the settlement and arbitration of claims against liable persons and against the Fund.
 
-Subsec. (d). Pub. L. 99–499, §112(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No claim may be presented, nor may an action be commenced for damages under this subchapter, unless that claim is presented or action commenced within three years from the date of the discovery of the loss or December 11, 1980, whichever is later: <i>Provided, however</i>, That the time limitations contained herein shall not begin to run against a minor until he reaches eighteen years of age or a legal representative is duly appointed for him, nor against an incompetent person until his incompetency ends or a legal representative is duly appointed for him.”
+Subsec. (d). Pub. L. 99–499, §112(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No claim may be presented, nor may an action be commenced for damages under this subchapter, unless that claim is presented or action commenced within three years from the date of the discovery of the loss or December 11, 1980, whichever is later: <i>Provided,</i><i>however</i>, That the time limitations contained herein shall not begin to run against a minor until he reaches eighteen years of age or a legal representative is duly appointed for him, nor against an incompetent person until his incompetency ends or a legal representative is duly appointed for him.”
 
 Subsec. (f). Pub. L. 99–499, §112(d), added subsec. (f).
 

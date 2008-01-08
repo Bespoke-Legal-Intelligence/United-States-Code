@@ -26,7 +26,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(5) he has received the opinion of the Attorney General, pursuant to section 9114 of this title, stating that issuance of the license would create a situation in violation of the antitrust laws, or the 90-day period provided in section 9114 of this title has not expired;
 
-&emsp;(6) he has consulted with the Secretary of Energy, the Secretary of Transportation, the Secretary of State, the Secretary of the Interior, and the Secretary of Defense, to determine their views on the adequacy of the application, and its effect on programs within their respective jurisdictions and determines on the basis thereof, that the application for a license is inadequate;
+&emsp;(6) he has consulted with the Secretary of Energy, the Secretary of Transportation, the Secretary of State, the Secretary of the Interior, and the Secretary of Defense, to determine their views on the adequacy of the application, and its effect on programs within theirrespective jurisdictions and determines on the basis thereof, that the application for a license is inadequate;
 
 &emsp;(7) the proposed ocean thermal energy conversion facility or plantship will be documented under the laws of a foreign nation;
 
@@ -68,7 +68,7 @@ Licenses issued under this chapter shall be for a term of not to exceed 25 years
 
 #### References in Text
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (c)(10), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, and amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (c)(10), is title III of Pub. L. 89–454 as addedby Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, and amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 #### Amendments
 

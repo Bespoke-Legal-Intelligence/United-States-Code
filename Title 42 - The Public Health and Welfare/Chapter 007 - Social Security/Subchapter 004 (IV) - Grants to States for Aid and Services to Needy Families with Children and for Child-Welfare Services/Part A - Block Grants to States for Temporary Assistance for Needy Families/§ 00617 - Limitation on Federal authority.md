@@ -6,7 +6,7 @@ No officer or employee of the Federal Government may regulate the conduct of Sta
 
 #### Prior Provisions
 
-A prior section 617, act Aug. 14, 1935, ch. 531, title IV, §417, formerly §418, as added Oct. 13, 1988, Pub. L.100–485, title VI, §603(a), 102 Stat. 2408; renumbered §417, Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(7), 102 Stat. 3798, related to Assistant Secretary for Family Support, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 617, act Aug. 14, 1935, ch. 531, title IV, §417, formerly §418, as added Oct. 13, 1988, Pub. L. 100–485, title VI, §603(a), 102 Stat. 2408; renumbered §417, Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(7), 102 Stat. 3798, related to Assistant Secretary for Family Support, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
 

@@ -8,7 +8,7 @@ Nothing in this chapter shall be construed to alter, amend, repeal, modify, or b
 
 The Secretary is directed to—
 
-&emsp;(1) make reports as to the annual consumptive uses and losses of water from the Colorado River system after each successive five-year period, beginning with the five-year period starting on October 1, 1970. Such reports shall include a detailed breakdown of the beneficial consumptive use of water on a State-by-State basis. Specific figures on quantities consumptively used from the major tributarystreams flowing into the Colorado River shall also be included on a State-by-State basis. Such reports shall be prepared in consultation with the States of the lower basin individually and with the Upper Colorado River Commission, and shall be transmitted to the President, the Congress, and to the Governors of each State signatory to the Colorado River Compact; and
+&emsp;(1) make reports as to the annual consumptive uses and losses of water from the Colorado River system after each successive five-year period, beginning with the five-year period starting on October 1, 1970. Such reports shall include a detailed breakdown of the beneficial consumptive use of water on a State-by-State basis. Specific figures on quantities consumptively used from the major tributary streams flowing into the Colorado River shall also be included on a State-by-State basis. Such reports shall be prepared in consultation with the States of the lower basin individually and with the Upper Colorado River Commission, and shall be transmitted to the President, the Congress, and to the Governors of each State signatory to the Colorado River Compact; and
 
 &emsp;(2) condition all contracts for the delivery of water originating in the drainage basin of the Colorado River system upon the availability of water under the Colorado River Compact.
 
@@ -20,7 +20,7 @@ All Federal officers and agencies are directed to comply with the applicable pro
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 90–537,Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
 The Boulder Canyon Project Act, referred to in subsec. (a), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 617t of this title and Tables.
 

@@ -40,7 +40,7 @@ Military Animal Defined.—In this section, the term “military animal” means
 
 &emsp;(2) A horse owned by the Department of Defense.
 
-(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L.107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160.)
+(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160.)
 
 #### Amendments
 

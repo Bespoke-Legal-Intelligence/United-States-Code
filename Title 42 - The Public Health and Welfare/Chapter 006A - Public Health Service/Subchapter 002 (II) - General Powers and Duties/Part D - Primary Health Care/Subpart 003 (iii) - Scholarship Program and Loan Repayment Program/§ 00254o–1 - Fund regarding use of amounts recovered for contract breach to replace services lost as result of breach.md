@@ -22,7 +22,7 @@ For each fiscal year, there is authorized to be appropriated to the Fund an amou
 
 &emsp;&emsp;(A) to which a Corps member has been assigned under section 254f of this title; and
 
-&emsp;&emsp;(B) that has a need for a health professional to provide primary health services as a result of the Corps member having breached the contract entered into under section 254<i>l</i> or 254<i>l</i>–1 of this title by the individual.
+&emsp;&emsp;(B) that has a need for a health professional to provide primary health services as a result of the Corps member having breached the contract entered into undersection 254<i>l</i> or 254<i>l</i>–1 of this title by the individual.
 
 #### (2) Purpose of payments
 

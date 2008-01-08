@@ -136,3 +136,59 @@ Pending matters and proceedings.—This Act shall not affect any pending matters
 
 Judicial proceedings and causes of actions.—No suit, action, or other proceeding or cause of action relating to a function or authority transferred under this Act shall abate by reason of the enactment of this Act. If, before the date on which a transfer of a function or authority this Act takes effect, the Comptroller General of the United States or any officer or employee of the General Accounting Office \[now Government Accountability Office\] in their official capacity is party to a suit relating to the function or authority, then such suit shall be continued and the head of the agency to which the function or authority is transferred, or other appropriate official of that agency, shall be substituted or added as a party.”
 
+#### Contract Appeals Board
+
+Pub. L. 110–161, div. H, title I, §1501, Dec. 26, 2007, 121 Stat. 2249, provided that:
+
+“(a)
+
+Definitions.—In this section—
+
+&emsp;“(1) the term ‘Board’ means the Contract Appeals Board established under subsection (b); and
+
+&emsp;“(2) the term ‘legislative branch agency’ means—
+
+&emsp;&emsp;“(A) the Architect of the Capitol;
+
+&emsp;&emsp;“(B) the United States Botanic Gardens \[sic\];
+
+&emsp;&emsp;“(C) the Government Accountability Office;
+
+&emsp;&emsp;“(D) the Government Printing Office;
+
+&emsp;&emsp;“(E) the Library of Congress;
+
+&emsp;&emsp;“(F) the Congressional Budget Office;
+
+&emsp;&emsp;“(G) the United States Capitol Police; and
+
+&emsp;&emsp;“(H) any other agency, including any office, board, or commission, established in the legislative branch; and
+
+“(b)
+
+Establishment.—There is established a Contract Appeals Board within the Government Accountability Office. The Board shall hear and decide appeals from decisions of a contracting officer with respect to any contract entered into by a legislative branch agency.
+
+“(c)
+
+Members of the Board.—
+
+&emsp;“(1)
+
+Appointment.—The Comptroller General shall appoint at least 3 members to the Contract Appeals Board.
+
+&emsp;“(2)
+
+Qualifications.—Each member shall have not less than 5 years experience in public contract law.
+
+&emsp;“(3)
+
+Pay.—Subject to any provision of law relating to pay applicable to the Office of General Counsel of the Government Accountability Office, the Comptroller General shall establish and adjust the annual rate of basic pay of members of the Board.
+
+“(d)
+
+Provisions Applicable to Appeals.—The Contract Disputes Act of 1978 (Public Law 95–563, 41 U.S.C. 601 et seq.), as amended, shall apply to appeals to the Board, except that section 4 \[41 U.S.C. 603\], subsections 8(a), (b), and (c) \[41 U.S.C. 607(a)–(c)\], and subsection 10(a) \[41 U.S.C. 609(a)\] shall not apply to such appeals and the amount of any claim referenced in subsection 6(c) \[41 U.S.C. 605(c)\] shall be $50,000. The Comptroller General shall prescribe regulations for procedures forappeals to the Board that are consistent with procedures under the Contract Disputes Act of 1978.
+
+“(e)
+
+Effective Date.—This section shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
+

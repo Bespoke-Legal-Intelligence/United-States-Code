@@ -26,7 +26,7 @@ Because of the large scale of contemplated mining operations and the proximity o
 
 &emsp;&emsp;(A) preventing significant adverse environmental impacts to the fishery habitat (including but not limited to water quality and water quantity) or other fishery values; and
 
-&emsp;&emsp;(B) maintaining present and continued productivity of the habitat of anadromous fish and other foodfish which might be affected by the mining and other activities proposed to be conducted in accordance with such plan or such stages of the plan of operations;
+&emsp;&emsp;(B) maintaining present and continued productivity of the habitat of anadromous fish and other foodfish which might be affected by the mining and other activities proposed to be conducted in accordance withsuch plan or such stages of the plan of operations;
 
 &emsp;(4)(A) the Secretary shall ensure, to the maximum extent feasible, that the cumulative effects of activities carried out under the operating plan will not interfere with the ability to collect baseline information needed by the Secretary to evaluate the effects of various stages of the operating plan on the fishery habitat and productivity of such habitats;
 

@@ -18,7 +18,7 @@ In this section, the term “local development district” means an entity that�
 
 &emsp;&emsp;&emsp;&emsp;(I) by the Governor of each State in which the entity is located; or
 
-> &emsp;(II) by the State officer designated by the appropriate State law to make the certification; and
+&emsp;&emsp;&emsp;&emsp;(II) by the State officer designated by the appropriate State law to make the certification; and
 
 &emsp;&emsp;&emsp;(iv)(I) a nonprofit incorporated body organized or chartered under the law of the State in which the entity is located;
 
@@ -52,7 +52,7 @@ In this section, the term “local development district” means an entity that�
 
 #### (C) Local share
 
-&emsp;&emsp;The contributions of a local development district for administrative expenses may be in cash or in kind, fairly evaluated, including space, equipment, and services.
+&emsp;&emsp;The contributions of a local development district for administrative expenses may bein cash or in kind, fairly evaluated, including space, equipment, and services.
 
 #### (c) Duties of local development districts
 

@@ -2,7 +2,7 @@
 
 (a) The head of each agency may provide for the advance payment of basic pay, covering not more than 2 pay periods, to any individual who is newly appointed to a position in the agency.
 
-(b)(1) Subject to adjustment of the account of an employee under paragraph (2) and other applicable statutes, the advance payment of basicpay shall be made, under agency procedures governing advance payments under this section, at the initial rate of basic pay to be payable to the employee upon the commencement of service in the position to which appointed.
+(b)(1) Subject to adjustment of the account of an employee under paragraph (2) and other applicable statutes, the advance payment of basic pay shall be made, under agency procedures governing advance payments under this section, at the initial rate of basic pay to be payable to the employee upon the commencement of service in the position to which appointed.
 
 (2) The head of each agency shall provide for—
 

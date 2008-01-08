@@ -88,7 +88,7 @@ Section 300x–1a, act July 1, 1944, ch. 373, title XIX, §1912A, as added and a
 
 Another prior section 300x–1a, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 19, 1984, Pub. L. 98–509, title I, §102(a), 98 Stat. 2353, was transferred to section 300x–1b of this title.
 
-Section 300x–1b, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 19, 1984, Pub. L. 98–509, title I,§102(a), 98 Stat. 2353; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2022(d), 102 Stat. 4197; Aug. 16, 1989, Pub. L. 101–93, §2(b), 103 Stat. 605, related to allotments to States and Indian tribes or tribal organizations for alcohol, drug abuse, and mental health services.
+Section 300x–1b, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 19, 1984, Pub. L. 98–509, title I, §102(a), 98 Stat. 2353; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2022(d), 102 Stat. 4197; Aug. 16, 1989, Pub. L. 101–93, §2(b), 103 Stat. 605, related to allotments to States and Indian tribes or tribal organizations for alcohol, drug abuse, and mental health services.
 
 #### Amendments
 

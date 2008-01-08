@@ -108,7 +108,7 @@ Actions included.—The term “adverse action”—
 
 &emsp;(2)
 
-Applicable findings, decisions, commentary, and orders.—For purposes of any determination of whether an action is an adverse action under paragraph (1)(A), all appropriate final findings, decisions, commentary, and orders issued under section 1691(d)(6) of this title by the Board of Governors of the Federal Reserve System or any court shall apply.
+Applicable findings, decisions, commentary, and orders.—For purposes of anydetermination of whether an action is an adverse action under paragraph (1)(A), all appropriate final findings, decisions, commentary, and orders issued under section 1691(d)(6) of this title by the Board of Governors of the Federal Reserve System or any court shall apply.
 
 (<i>l</i>)
 
@@ -180,7 +180,7 @@ Excluded Communications.—A communication is described in this subsection if it
 
 (p)
 
-Consumer Reporting Agency That Compiles and Maintains Files on Consumers on a Nationwide Basis.—The term “consumer reporting agency that compiles and maintains files on consumers on a nationwide basis” means a consumer reporting agency that regularly engages in the practice of assembling or evaluating, and maintaining, for the purpose of furnishing consumer reports to third parties bearing on a consumer's credit worthiness,<sup>4</sup> credit standing, or credit capacity, each of the following regarding consumers residing nationwide:
+Consumer Reporting Agency That Compiles and Maintains Files on Consumers on a Nationwide Basis.—The term “consumer reporting agency that compiles and maintains files on consumers on a nationwide basis” means a consumer reporting agency that regularly engages in the practice of assembling or evaluating, and maintaining, for the purpose of furnishing consumer reports to third parties bearing on a consumer's credit worthiness,<sup>4</sup> credit standing, orcredit capacity, each of the following regarding consumers residing nationwide:
 
 &emsp;(1) Public record information.
 
@@ -208,7 +208,7 @@ Fraud alert; active duty alert.—The terms “fraud alert” and “active duty
 
 &emsp;(3)
 
-Identity theft.—The term “identity theft” means a fraud committed using theidentifying information of another person, subject to such further definition as the Commission may prescribe, by regulation.
+Identity theft.—The term “identity theft” means a fraud committed using the identifying information of another person, subject to such further definition as the Commission may prescribe, by regulation.
 
 &emsp;(4)
 
@@ -302,7 +302,7 @@ Communications described in this subsection.—A communication is described in t
 
 &emsp;&emsp;&emsp;(ii) compliance with Federal, State, or local laws and regulations, the rules of a self-regulatory organization, or any preexisting written policies of the employer;
 
-&emsp;&emsp;(C) the communication is not made for the purpose of investigating a consumer's credit worthiness,<sup>5</sup> credit standing, or credit capacity; and
+&emsp;&emsp;(C) the communication is not made for the purpose of investigating a consumer's creditworthiness,<sup>5</sup> credit standing, or credit capacity; and
 
 &emsp;&emsp;(D) the communication is not provided to any person except—
 
@@ -322,7 +322,7 @@ Subsequent disclosure.—After taking any adverse action based in whole or in pa
 
 &emsp;(3)
 
-Self-regulatory organization defined.—For purposes of this subsection, the term “self-regulatory organization” includes any self-regulatory organization (as defined in section 78c(a)(26) of this title), any entity established under title I of the Sarbanes-OxleyAct of 2002 \[15 U.S.C. 7211 et seq.\], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
+Self-regulatory organization defined.—For purposes of this subsection, the term “self-regulatory organization” includes any self-regulatory organization (as defined in section 78c(a)(26) of this title), any entity established under title I of the Sarbanes-Oxley Act of 2002 \[15 U.S.C. 7211 et seq.\], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
 
 (Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §111, title II, §214(c)(1), title IV, §411(b), (c), title VI, §611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010.)
 
@@ -388,7 +388,7 @@ Section 2420 of div. A of Pub. L. 104–208 provided that:
 
 “(a)
 
-In General.—Except as otherwise specifically provided in this chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under section 1601 of this title\], the amendments made by this chapter shall become effective 365 days after the date of enactment of this Act \[Sept. 30, 1996\].
+In General.—Except as otherwise specifically provided in this chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see ShortTitle of 1996 Amendment note set out under section 1601 of this title\], the amendments made by this chapter shall become effective 365 days after the date of enactment of this Act \[Sept. 30, 1996\].
 
 “(b)
 

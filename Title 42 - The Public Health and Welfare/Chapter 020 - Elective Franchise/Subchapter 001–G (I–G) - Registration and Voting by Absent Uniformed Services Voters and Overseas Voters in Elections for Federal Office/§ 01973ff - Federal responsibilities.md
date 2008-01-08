@@ -10,7 +10,7 @@ The Presidential designee shall—
 
 &emsp;(1) consult State and local election officials in carrying out this subchapter, and ensure that such officials are aware of the requirements of this Act;
 
-&emsp;(2) prescribe an official post card form, containing both an absentee voter registration application and an absentee ballot application,for use by the States as required under section 1973ff–1(4) of this title;
+&emsp;(2) prescribe an official post card form, containing both an absentee voter registration application and an absentee ballot application, for use by the States as required under section 1973ff–1(4) of this title;
 
 &emsp;(3) carry out section 1973ff–2 of this title with respect to the Federal write-in absentee ballot for absent uniformed services voters and overseas voters in general elections for Federal office;
 
@@ -100,7 +100,7 @@ In general.—Subject to paragraph (2), the Secretary of Defense shall carry out
 
 &emsp;“(2)
 
-Authority to delay implementation.—If the Secretary of Defense determines that the implementation of the demonstration project under paragraph (1) with respect to the regularly scheduled general election for Federal office for November 2002 may adversely affect the national security of the UnitedStates, the Secretary may delay the implementation of such demonstration project until the first regularly scheduled general election for Federal office which occurs after the Election Assistance Commission notifies the Secretary that the Commission has established electronic absentee voting guidelines and certifies that it will assist the Secretary in carrying out the project. The Secretary shall notify the Committee on Armed Services and the Committee on Rules and Administration of the Senate and the Committee on Armed Services and the Committee on House Administration of the House of Representatives of any decision to delay implementation of the demonstration project.
+Authority to delay implementation.—If the Secretary of Defense determines that the implementation of the demonstration project under paragraph (1) with respect to the regularly scheduled general election for Federal office for November 2002 may adversely affect the national security of the United States, the Secretary may delay the implementation of such demonstration project until the first regularly scheduled general election for Federal office which occurs after the Election Assistance Commission notifies the Secretary that the Commission has established electronic absentee voting guidelines and certifies that it will assist the Secretary in carrying out the project. The Secretary shall notify the Committee on Armed Services and the Committee on Rules and Administration of the Senate and the Committee on Armed Services and the Committee on House Administration of the House of Representatives of any decision to delay implementation of the demonstration project.
 
 “(b)
 

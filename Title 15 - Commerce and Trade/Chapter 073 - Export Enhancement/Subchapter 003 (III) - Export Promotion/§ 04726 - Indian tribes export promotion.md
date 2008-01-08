@@ -6,11 +6,11 @@ The Secretary of Commerce is authorized to provide assistance to eligible entiti
 
 #### (b) Activities eligible for assistance
 
-Activities eligible for assistance under this section include, but are not limited to, conduct of market surveys, development of promotional materials, financing of trade missions, participation in international trade fairs, direct marketing, and other market development activities.
+Activities eligible for assistance under this section include, but are not limited to, conductof market surveys, development of promotional materials, financing of trade missions, participation in international trade fairs, direct marketing, and other market development activities.
 
 #### (c) Administration of assistance
 
-Assistance under this section shall be administered by the Secretary of Commerce underguidelines developed by the Secretary. Priority shall be given to projects which support the establishment of long term, stable international markets for American Indian arts and crafts and which are designed to provide the greatest economic benefit to American Indian artisans.
+Assistance under this section shall be administered by the Secretary of Commerce under guidelines developed by the Secretary. Priority shall be given to projects which support the establishment of long term, stable international markets for American Indian arts and crafts and which are designed to provide the greatest economic benefit to American Indian artisans.
 
 #### (d) Technical and other assistance
 

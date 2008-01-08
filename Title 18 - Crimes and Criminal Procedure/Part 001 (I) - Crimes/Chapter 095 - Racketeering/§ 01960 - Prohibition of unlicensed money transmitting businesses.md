@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) fails to comply with the money transmitting business registration requirements under section 5330 of title 31, United States Code, or regulations prescribed under such section; or
 
-&emsp;&emsp;(C) otherwise involves the transportation or transmission of funds that are known tothe defendant to have been derived from a criminal offense or are intended to be used to promote or support unlawful activity;
+&emsp;&emsp;(C) otherwise involves the transportation or transmission of funds that are known to the defendant to have been derived from a criminal offense or are intended to be used to promote or support unlawful activity;
 
 &emsp;(2) the term “money transmitting” includes transferring funds on behalf of the public by any and all means including but not limited to transfers within this country or to locations abroad by wire, check, draft, facsimile, or courier; and
 

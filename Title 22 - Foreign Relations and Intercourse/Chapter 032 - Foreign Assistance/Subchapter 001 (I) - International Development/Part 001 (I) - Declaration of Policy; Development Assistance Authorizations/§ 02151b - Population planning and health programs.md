@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration of policy
 
-The Congress recognizes that poor health conditions and uncontrolled population growth canvitiate otherwise successful development efforts.
+The Congress recognizes that poor health conditions and uncontrolled population growth can vitiate otherwise successful development efforts.
 
 Large families in developing countries are the result of complex social and economic factors which change relatively slowly among the poor majority least affected by economic progress, as well as the result of a lack of effective birth control. Therefore, effective family planning depends upon economic and social change as well as the delivery of services and is often a matter of political and religious sensitivity. While every country has the right to determine its own policies with respect to population growth, voluntary population planning programs can make a substantial contribution to economic development, higher living standards, and improved health and nutrition.
 
@@ -10,7 +10,7 @@ Good health conditions are a principal element in improved quality of life and c
 
 #### (b) Assistance for voluntary population planning
 
-In order to increase the opportunities and motivation for family planning and to reduce the rate of population growth, the President is authorized to furnish assistance, on such terms and conditions as he may determine, for voluntary population planning. In addition to the provision of family planning information and services, including also information and services which relate to and support natural family planning methods, and the conduct of directly relevant demographic research, population planning programs shall emphasize motivation for small families.
+In order to increase the opportunities and motivation for family planning and to reduce the rate of population growth, the President is authorized to furnish assistance, on such termsand conditions as he may determine, for voluntary population planning. In addition to the provision of family planning information and services, including also information and services which relate to and support natural family planning methods, and the conduct of directly relevant demographic research, population planning programs shall emphasize motivation for small families.
 
 #### (c) Assistance for health programs; special health needs of children and mothers; Child Survival Fund; promotion of immunization and oral rehydration; control of AIDS and tuberculosis
 
@@ -30,9 +30,9 @@ Relationship to other laws.—Assistance made available under this subsection an
 
 #### (d) Administration of assistance
 
-(1) Assistance under this part shall be administered so as to give particular attention to theinterrelationship between (A) population growth, and (B) development and overall improvement in living standards in developing countries, and to the impact of all programs, projects, and activities on population growth. All appropriate activities proposed for financing under this part shall be designed to build motivation for smaller families through modification of economic and social conditions supportive of the desire for large families, in programs such as education in and out of school, nutrition, disease control, maternal and child health services, improvements in the status and employment of women, agricultural production, rural development, and assistance to the urban poor, and through community-based development programs which give recognition to people motivated to limit the size of their families. Population planning programs shall be coordinated with other programs aimed at reducing the infant mortality rate, providing better nutrition for pregnant women and infants, and raising the standard of living of the poor.
+(1) Assistance under this part shall be administered so as to give particular attention to the interrelationship between (A) population growth, and (B) development and overall improvement in living standards in developing countries, and to the impact of all programs, projects, and activities on population growth. All appropriate activities proposed for financing under this part shall be designed to build motivation for smaller families through modification of economic and social conditions supportive of the desire for large families, in programs such as education in and out of school, nutrition, disease control, maternal and child health services, improvements in the status and employment of women, agricultural production, rural development, and assistance to the urban poor, and through community-based development programs which give recognition to people motivated to limit the size of their families. Population planning programs shall be coordinated with other programs aimed at reducing the infant mortality rate, providing better nutrition for pregnant women and infants, and raising the standard of living of the poor.
 
-(2) Since the problems of malnutrition, disease, and rapid population growth are closely related, planning for assistance to be provided under subsections (b) and (c) of this section and under section 2151a of this title shall be coordinated to the maximum extent practicable.
+(2) Since the problems of malnutrition, disease, and rapid population growth are closely related, planning for assistance to be provided under subsections (b) and (c) of this section andunder section 2151a of this title shall be coordinated to the maximum extent practicable.
 
 (3) Assistance provided under this section shall emphasize low-cost integrated delivery systems for health, nutrition, and family planning for the poorest people, with particular attention to the needs of mothers and young children, using paramedical and auxiliary medical personnel, clinics and health posts, commercial distribution systems, and other modes of community outreach.
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 98–473 is based on section 303 of H.R. 5119, Ninety-eight
 
 #### Amendments
 
-2003—Subsec. (c)(4) to (7). Pub. L. 108–25 added par. (4) and struck out former pars. (4) to (7), which related to coordination between governments and organizations to prevent vertical transmission of HIV, prioritizationof HIV/AIDS in foreign assistance program efforts, appropriation of funds for fiscal years 2001 and 2002, and coordination in developing a comprehensive tuberculosis program.
+2003—Subsec. (c)(4) to (7). Pub. L. 108–25 added par. (4) and struck out former pars. (4) to (7), which related to coordination between governments and organizations to prevent vertical transmission of HIV, prioritization of HIV/AIDS in foreign assistance program efforts, appropriation of funds for fiscal years 2001 and 2002, and coordination in developing a comprehensive tuberculosis program.
 
 2000—Subsec. (c)(4) to (7). Pub. L. 106–264 added pars. (4) to (7).
 
@@ -182,7 +182,7 @@ Pub. L. 106–264, title II, §202, Aug. 19, 2000, 114 Stat. 758, provided that:
 
 &emsp;&emsp;“(C) the unique circumstances in each country, which requires the development and implementation of country-specific programs; and
 
-&emsp;&emsp;“(D) the risk of having a bad tuberculosis program, which is worse than having no tuberculosis program because it would significantly increase the risk of the development of more widespread drug-resistant strains of the disease.
+&emsp;&emsp;“(D) the risk of having a bad tuberculosis program, which is worse than having no tuberculosisprogram because it would significantly increase the risk of the development of more widespread drug-resistant strains of the disease.
 
 &emsp;“(8) Eliminating the barriers to the international control of tuberculosis through a well-structured, comprehensive, and coordinated worldwide effort would be a significant step in dealing with the increasing public health problem posed by the disease.”
 

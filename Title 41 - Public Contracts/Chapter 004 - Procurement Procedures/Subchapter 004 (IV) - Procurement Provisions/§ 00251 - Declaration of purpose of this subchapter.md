@@ -74,7 +74,7 @@ Pub. L. 98–369, div. B, title VII, §2751, July 18, 1984, 98 Stat. 1203, provi
 
 #### Effective Date
 
-Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
+Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat.403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Short Title of 1996 Amendment
 
@@ -88,7 +88,7 @@ Pub. L. 103–355, §1, Oct. 13, 1994, 108 Stat. 3243, provided that: “This Ac
 
 Pub. L. 98–577, §1, Oct. 30, 1984, 98 Stat. 3066, provided that this Act \[enacting sections 253c to 253h, 414a, 418a, and 418b of this title, repealing section 2303a of Title 10, Armed Forces, amending sections 253, 253b, 259, 403, and 416 of this title, sections 2302, 2304, 2311, and 2320 of Title 10, and sections 637 and 644 of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section, section 416 of this title, and sections 637 and 644 of Title 15\] may be cited as the “Small Business and Federal Procurement Competition Enhancement Act of 1984”.
 
-Pub. L. 98–369, div. B, title VII, §2701, July 18, 1984, 98 Stat. 1175, provided that: “This title \[enacting sections 253a, 253b, 416 to 419 of this title and sections 3551 to 3556 of Title 31, Money and Finance, amending sections 252, 253, 254, 257, 258, 259, 260, 403, 405, and 414 of this title, sections 2301 to 2306, 2310, 2311, 2313, and 2356 of Title 10, Armed Forces, and section 759 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section, sections253, 403, and 407 of this title, section 2304 of Title 10, and section 759 of former Title 40\] may be cited as the ‘Competition in Contracting Act of 1984’.”
+Pub. L. 98–369, div. B, title VII, §2701, July 18, 1984, 98 Stat. 1175, provided that: “This title \[enacting sections 253a, 253b, 416 to 419 of this title and sections 3551 to 3556 of Title 31, Money and Finance, amending sections 252, 253, 254, 257, 258, 259, 260, 403, 405, and 414 of this title, sections 2301 to 2306, 2310, 2311, 2313, and 2356 of Title 10, Armed Forces, and section 759 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section, sections 253, 403, and 407 of this title, section 2304 of Title 10, and section 759 of former Title 40\] may be cited as the ‘Competition in Contracting Act of 1984’.”
 
 #### Short Title
 
@@ -240,7 +240,7 @@ Sec. 5. <i>Definitions</i>. For purposes of this Executive order:
 
 (c) “Qualified large business” means a large for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; and (2) either has a significant physical presence in the area of general economic distress or has a direct impact on generating significant economic activity in the area of general economic distress.
 
-(d) “Qualified small business” means a small for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; (2) has a significant physical presence in the area of general economic distress; or (3) has a direct impact on generating significant economic activity in the area of general economic distress.
+(d) “Qualified small business” means a small for-profit or not-for-profit trade or business that (1) employs asignificant number of residents from the area of general economic distress; (2) has a significant physical presence in the area of general economic distress; or (3) has a direct impact on generating significant economic activity in the area of general economic distress.
 
 (e) “Secretary” means the Secretary of Commerce.
 
@@ -290,7 +290,7 @@ Sec. 9. The Presidential Memorandum of June 5, 1997, entitled “Use of Project 
 
 Sec. 10. The heads of executive departments and agencies shall revoke expeditiously any orders, rules, regulations, guidelines, or policies implementing or enforcing the Memorandum or Executive Order 12836 of February 1, 1993, as it relates to project agreements, to the extent consistent with law.
 
-Sec. 11. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 11. This order is intended only to improve the internal management of the executive branch and is notintended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -10,7 +10,7 @@ The legitimate proprietary interest of the United States and of a contractor in 
 
 &emsp;(A) was required as an element of performance under a contract; and
 
-&emsp;(B) is needed to ensure the competitive acquisition of supplies or services that will berequired in substantial quantities in the future.
+&emsp;(B) is needed to ensure the competitive acquisition of supplies or services that will be required in substantial quantities in the future.
 
 (2) Except as otherwise expressly provided by Federal statute, the regulations prescribed pursuant to subsection (a) of this section shall provide, with respect to executive agencies that are subject to the provisions of title III of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 251 et seq.\], that the United States (and each agency thereof) shall have an unrestricted, royalty-free right to use, or to have its contractors use, for governmental purposes (excluding publication outside the Government) technical data developed exclusively with Federal funds.
 
@@ -46,7 +46,7 @@ Regulations prescribed under subsection (a) of this section shall require that a
 
 &emsp;(5) to the maximum practicable extent, identifying, in advance of delivery, technical data which is to be delivered with restrictions on the right of the United States to use such data;
 
-&emsp;(6) requiring the contractor to revise any technical data delivered under the contract to reflect engineering design changes made during the performance of the contract and affecting the form, fit, and function of the items specified in the contract and to deliver such revised technical data to an agency within a time specified in the contract;
+&emsp;(6) requiring the contractor to revise any technical data delivered under the contract to reflect engineering design changes made during the performance of the contract and affecting the form, fit, and function of the itemsspecified in the contract and to deliver such revised technical data to an agency within a time specified in the contract;
 
 &emsp;(7) requiring the contractor to furnish written assurance at the time the technical data is delivered or is made available that the technical data is complete and accurate and satisfies the requirements of the contract concerning technical data;
 

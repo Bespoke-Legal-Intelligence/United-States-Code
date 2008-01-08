@@ -16,7 +16,7 @@
 
 &emsp;(5) as soon as practicable, file a plan under section 1121 of this title, file a report of why the trustee will not file a plan, or recommend conversion of the case to a case under chapter 7, 12, or 13 of this title or dismissal of the case;
 
-&emsp;(6) for any year for which the debtor has not filed a tax return required by law, furnish, without personal liability, such information as may be required by the governmental unit with which such tax return was to be filed, in light of the condition of the debtor's books and records and the availability of such information;
+&emsp;(6) for any year for which the debtor has not filed a tax return required by law, furnish, without personal liability, such information as may be required by the governmental unit with which such tax return was to be filed, in light of the condition of the debtor's booksand records and the availability of such information;
 
 &emsp;(7) after confirmation of a plan, file such reports as are necessary or as the court orders; and
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commencedunder this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Payment of Certain Benefits to Retired Former Employees
 
-Pub. L. 99–500, §101(b) \[title VI, §608\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–74, and Pub. L. 99–591, §101(b) \[titleVI, §608\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–74, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716; Pub. L. 100–334, §3(a), June 16, 1988, 102 Stat. 613, provided that:
+Pub. L. 99–500, §101(b) \[title VI, §608\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–74, and Pub. L. 99–591, §101(b) \[title VI, §608\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–74, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716; Pub. L. 100–334, §3(a), June 16, 1988, 102 Stat. 613, provided that:
 
 “(a)(1) Subject to paragraphs (2), (3), (4), and (5), and notwithstanding title 11 of the United States Code, the trustee shall pay benefits to retired former employees under a plan, fund, or program maintained or established by the debtor prior to filing a petition (through the purchase of insurance or otherwise) for the purpose of providing medical, surgical, or hospital care benefits, or benefits in the event of sickness, accident, disability, or death.
 

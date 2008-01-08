@@ -36,7 +36,7 @@ If the Secretary of the Army makes a determination pursuant to subsection (b) of
 
 #### (e) Periodic review
 
-(1) Not later than 18 months after the completion of the project modifications authorized in subsection (a) of this section, and periodically thereafter, the Secretary of the Army shall review the determination of adverse effect for adjacent agricultural areas.
+(1) Not later than 18 months after the completion of the project modifications authorized insubsection (a) of this section, and periodically thereafter, the Secretary of the Army shall review the determination of adverse effect for adjacent agricultural areas.
 
 (2) In conducting such review, the Secretary of the Army shall consult with all affected parties, including, but not limited to, the Secretary, the South Florida Water Management District and agricultural users within adjacent agricultural areas.
 
@@ -89,8 +89,6 @@ The Department of the Interior and Related Agencies Appropriations Acts for fisc
 Subsec. (k). Pub. L. 103–219 added subsec. (k).
 
 #### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 

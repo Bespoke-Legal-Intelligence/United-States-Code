@@ -6,7 +6,7 @@ There is hereby established within the Environmental Protection Agency an Asbest
 
 #### (b) Application submission
 
-(1) Applications for financial assistance shall be submitted by a local educational agency to the Governor, or the Governor's designee, who shall establish a priority list based on the criteria of section 4013(b)(2) of this title.
+(1) Applications for financial assistance shall be submitted by a local educational agency tothe Governor, or the Governor's designee, who shall establish a priority list based on the criteria of section 4013(b)(2) of this title.
 
 (2) Pursuant to section 4013 of this title, the Governor shall submit applications, together with the Governor's report and priority list, to the Administrator who shall review and rank such applications pursuant to subsection (c)(2) of this section and propose financing pursuant to the criteria of section 4013(b)(4) of this title. The Administrator shall approve or disapprove applications for financial assistance no later than April 30 of each year.
 
@@ -32,7 +32,7 @@ There is hereby established within the Environmental Protection Agency an Asbest
 
 &emsp;(iv) the extent to which the corrective action proposed by the applicant uses the least burdensome methods which protect human health and the environment.
 
-(3) In determining whether an applicant is eligible for assistance, and the nature and amountof financial assistance, the Administrator shall consider the financial resources available to the applicant as certified by the Governor pursuant to section 4013(b)(4) of this title.
+(3) In determining whether an applicant is eligible for assistance, and the nature and amount of financial assistance, the Administrator shall consider the financial resources available to the applicant as certified by the Governor pursuant to section 4013(b)(4) of this title.
 
 #### (d) Limitation
 

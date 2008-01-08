@@ -40,7 +40,7 @@
 
 (2) A comparability payment—
 
-&emsp;(A) shall be considered to be part of basic pay for purposes of retirement under chapter 83 or 84, as applicable, life insurance under chapter 87, and premium pay under subchapter V of chapter 55, and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe; and
+&emsp;(A) shall be considered to be part of basic pay for purposes of retirement under chapter 83 or 84, as applicable, life insurance underchapter 87, and premium pay under subchapter V of chapter 55, and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe; and
 
 &emsp;(B) shall be paid in the same manner and at the same time as the basic pay payable to such employee pursuant to any provision of law outside of this section.
 
@@ -288,7 +288,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 &emsp;“(3) the term ‘pay locality’ has the meaning given such term by section 5302(5) of such title.
 
-“(b) Notwithstanding any provision of section 5304 of title 5, United States Code, for purposes of determining appropriate pay localities and making comparabilitypayment recommendations, the President's pay agent may, in accordance with succeeding provisions of this section, make comparisons of General Schedule pay and non-Federal pay within any of the metropolitan statistical areas described in subsection (d)(3), using—
+“(b) Notwithstanding any provision of section 5304 of title 5, United States Code, for purposes of determining appropriate pay localities and making comparability payment recommendations, the President's pay agent may, in accordance with succeeding provisions of this section, make comparisons of General Schedule pay and non-Federal pay within any of the metropolitan statistical areas described in subsection (d)(3), using—
 
 &emsp;“(1) data from surveys of the Bureau of Labor Statistics;
 
@@ -324,9 +324,9 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 “(2) Any comparisons and recommendations so made shall, if included in the pay agent's report under section 5304(d)(1) of title 5, United States Code, for any year (or the pay agent's supplementary report, in accordance with subsection (d)(1)(C)(i)(II)), be considered and acted on as the pay agent's comparisons and recommendations under such section 5304(d)(1) for the area and the year involved.
 
-“(f)(1) No later than March 1, 2001, the President's pay agent shall submit to the Committee on Government Reform of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, and the Committees on Appropriations of the House of Representatives and of the Senate, a report on the use of pay comparison data, as described in subsection (b)(2) or (3) (as appropriate), for purposes of comparability payments.
+“(f)(1) No later than March 1, 2001, the President's pay agent shall submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, and the Committees on Appropriations of the House of Representatives and of the Senate, a report on the use of pay comparison data, as described in subsection (b)(2) or (3) (as appropriate), for purposes of comparability payments.
 
-“(2) The report shall include the cost of obtaining such data, the rationale underlying the decisions reached based on such data, and the relative advantages and disadvantages of using such data (including whether the effort involved in analyzing and integrating such data is commensurate with the benefits derived from their use). The report may include specific recommendations regarding the continued use of such data.
+“(2) The report shall include the cost of obtaining such data, the rationale underlying the decisions reached based on such data, and the relative advantages and disadvantages of using such data (including whether the effort involved in analyzing and integrating such data is commensurate with the benefits derived from their use). The report may include specificrecommendations regarding the continued use of such data.
 
 “(g)(1) No later than May 1, 2001, the President's pay agent shall prepare and submit to the committees specified in subsection (f)(1) a report relating to the ongoing efforts of the Office of Personnel Management, the Office of Management and Budget, and the Bureau of Labor Statistics to revise the methodology currently being used by the Bureau of Labor Statistics in performing its surveys under section 5304 of title 5, United States Code.
 
@@ -410,7 +410,7 @@ Effective Date.—This section shall take effect on the date of enactment of thi
 
 \[Amendment by Pub. L. 103–89 to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as an Effective Date of 1993 Amendment note under section 3372 of this title.\]
 
-\[Amendment by Pub. L. 102–378 to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
+\[Amendment by Pub. L. 102–378 to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, effective Nov.5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
 
 Interim geographic adjustments pursuant to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, were provided by the following executive orders, formerly set out as notes under section 5332 of this title, effective on the first day of first pay period beginning on or after the effective date shown:
 

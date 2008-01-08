@@ -36,5 +36,5 @@ A majority of the Board shall constitute a quorum.
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–167, title II, Nov. 21, 1989, 103 Stat. 1209, provided: “That the amendment to section 507(a)(1) ofsuch Act \[22 U.S.C. 290h–5(a)(1)\] shall not affect an appointment made to the Board prior to the date of enactment of this Act \[Nov. 21, 1989\]”.
+Pub. L. 101–167, title II, Nov. 21, 1989, 103 Stat. 1209, provided: “That the amendment to section 507(a)(1) of such Act \[22 U.S.C. 290h–5(a)(1)\] shall not affect an appointment made to the Board prior to the date of enactment of this Act \[Nov. 21, 1989\]”.
 

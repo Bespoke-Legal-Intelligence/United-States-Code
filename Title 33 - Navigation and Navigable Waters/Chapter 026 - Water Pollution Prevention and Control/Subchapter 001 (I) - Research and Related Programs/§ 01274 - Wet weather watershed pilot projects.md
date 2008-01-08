@@ -10,7 +10,7 @@ The Administrator, in coordination with the States, may provide technical assist
 
 #### (2) Stormwater best management practices
 
-&emsp;The control of pollutants from municipal separate storm sewer systems for the purpose of demonstrating and determining controls that are cost-effective and that use innovative technologies in reducing such pollutants from stormwater discharges.
+&emsp;The control of pollutants from municipal separate storm sewer systems for the purpose of demonstrating and determining controls that are cost-effective and that use innovativetechnologies in reducing such pollutants from stormwater discharges.
 
 #### (b) Administration
 
@@ -28,7 +28,7 @@ The Administrator, in coordination with the States, shall provide municipalities
 
 #### (3) Administrative expenses
 
-&emsp;The Administrator may retain not to exceed 4 percent of any amounts appropriated for afiscal year pursuant to this subsection for the reasonable and necessary costs of administering this section.
+&emsp;The Administrator may retain not to exceed 4 percent of any amounts appropriated for a fiscal year pursuant to this subsection for the reasonable and necessary costs of administering this section.
 
 #### (d) Report to Congress
 

@@ -36,7 +36,7 @@ Disbursal.—Any gift, devise, or bequest made for the benefit of a particular n
 
 Matching.—Subject to the availability of appropriations and the requirements of the National Wildlife Refuge Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a particular national wildlife refuge or complex of geographically related refuges. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
 
-(3) For the purpose of Federal income, estate, and gift taxes, property, or proceeds therefrom, or interests therein, accepted under this subsection shall be considered as a gift or bequest to the United States.
+(3) For the purpose of Federal income, estate, and gift taxes, property, or proceeds therefrom,or interests therein, accepted under this subsection shall be considered as a gift or bequest to the United States.
 
 #### (c) Volunteer services; incidental expenses; Federal employee status; authorization of appropriations
 
@@ -98,7 +98,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (iii) Ownership of facilities
 
-&emsp;&emsp;&emsp;Any new facility, improvement to an existing facility, or other permanent improvement to a refuge constructed underthis subsection shall be the property of the United States Government.
+&emsp;&emsp;&emsp;Any new facility, improvement to an existing facility, or other permanent improvement to a refuge constructed under this subsection shall be the property of the United States Government.
 
 #### (D) Treasury account
 

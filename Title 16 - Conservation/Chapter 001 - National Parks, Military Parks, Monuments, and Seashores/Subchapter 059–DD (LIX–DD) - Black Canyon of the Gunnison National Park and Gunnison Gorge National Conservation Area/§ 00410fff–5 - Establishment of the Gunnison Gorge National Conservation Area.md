@@ -88,3 +88,7 @@ Geothermal leasing laws, referred to in subsec. (c), are classified principally 
 
 2003—Subsec. (a). Pub. L. 108–128 designated existing provisions as par. (1) and added par. (2).
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

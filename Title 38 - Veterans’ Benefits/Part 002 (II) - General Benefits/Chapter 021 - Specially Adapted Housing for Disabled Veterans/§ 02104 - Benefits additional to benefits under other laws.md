@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-Prior section 2104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to time limitations, prior to repeal by Pub. L. 89–50, §1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
+Prior section 2104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to time limitations, prior to repealby Pub. L. 89–50, §1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 #### Amendments
 

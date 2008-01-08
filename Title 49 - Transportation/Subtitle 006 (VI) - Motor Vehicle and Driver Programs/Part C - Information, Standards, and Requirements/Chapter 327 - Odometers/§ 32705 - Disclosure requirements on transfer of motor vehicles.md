@@ -58,7 +58,7 @@ Mileage Statement Requirement for Licensing.—(1) A motor vehicle the ownership
 
 (c)
 
-Leased Motor Vehicles.—(1) For a leased motor vehicle, the regulations prescribed undersubsection (a) of this section shall require written disclosure about mileage to be made by the lessee to the lessor when the lessor transfers ownership of that vehicle.
+Leased Motor Vehicles.—(1) For a leased motor vehicle, the regulations prescribed under subsection (a) of this section shall require written disclosure about mileage to be made by the lessee to the lessor when the lessor transfers ownership of that vehicle.
 
 (2) Under those regulations, the lessor shall provide written notice to the lessee of—
 

@@ -80,7 +80,7 @@
 
 &emsp;(ii) determine the period over which that unfunded liability should be liquidated; and
 
-&emsp;(iii) determine for the following fiscal year, the total amount, and the monthly amount, of the Department of Defense contributions that must be made to the Fund during that fiscal year in order to fund the unfunded liabilities of the Fund over the applicable amortization periods.
+&emsp;(iii) determine for the following fiscal year, the total amount, and the monthly amount, ofthe Department of Defense contributions that must be made to the Fund during that fiscal year in order to fund the unfunded liabilities of the Fund over the applicable amortization periods.
 
 (B) The Board shall carry out its responsibilities for each fiscal year in sufficient time for the amounts referred to in subparagraph (A)(iii) to be included in budget requests for that fiscal year.
 
@@ -152,7 +152,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §572(b)\], Oct. 30, 2000, 114 Sta
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title V, §563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments made by this section \[amending this section\] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United States Code (whether before, on, or after the date of the enactment of this Act) \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title V, §563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments made by this section \[amending this section\] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United StatesCode (whether before, on, or after the date of the enactment of this Act) \[Oct. 17, 1998\].”
 
 #### Effective Date of 1994 Amendment
 

@@ -82,7 +82,7 @@ Members of the Advisory Committee shall be appointed for a term of 3 years, exce
 
 #### References in Text
 
-Executive Order No. 13134, referred to in subsec. (a), is set out as a note under section 8601 of this title.
+Executive Order No. 13134, referred to in subsec. (a), which was set out as a note under section 8601 of this title, was revoked by Ex. Ord. No. 13423, §11(a)(iii), Jan. 24, 2007, 72 F.R. 3923, set out in a note under section 4321 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

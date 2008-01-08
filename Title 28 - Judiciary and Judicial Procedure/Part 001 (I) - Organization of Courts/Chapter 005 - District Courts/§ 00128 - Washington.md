@@ -12,9 +12,9 @@ Washington is divided into two judicial districts to be known as the Eastern and
 
 (b) The Western District comprises the counties of Clallam, Clark, Cowlitz, Grays Harbor, Island, Jefferson, King, Kitsap, Lewis, Mason, Pacific, Pierce, San Juan, Skagit, Skamania, Snohomish, Thurston, Wahkiakum, and Whatcom.
 
-&emsp;&emsp;Court for the Western District shall be held at Bellingham, Seattle, and Tacoma.
+&emsp;&emsp;Court for the Western District shall be held at Bellingham, Seattle, Tacoma, and Vancouver.
 
-(June 25, 1948, ch. 646, 62 Stat. 894; Pub. L. 87–699, Sept. 25, 1962, 76 Stat. 598; Pub. L. 91–272, §4, June 2, 1970, 84 Stat. 297.)
+(June 25, 1948, ch. 646, 62 Stat. 894; Pub. L. 87–699, Sept. 25, 1962, 76 Stat. 598; Pub. L. 91–272, §4, June 2, 1970, 84 Stat. 297; Pub. L. 110–161, div. D, title III, §308, Dec. 26, 2007, 121 Stat. 1990.)
 
 #### Historical and Revision Notes
 
@@ -31,6 +31,8 @@ Pend Oreille County of the northern division of the eastern district and Grays H
 Changes in arrangement and phraseology were made.
 
 #### Amendments
+
+2007—Subsec. (b). Pub. L. 110–161 substituted “Bellingham, Seattle, Tacoma, and Vancouver” for “Bellingham, Seattle, and Tacoma”.
 
 1970—Subsec. (a). Pub. L. 91–272, §4(a), struck out provisions which had divided Eastern District into a Northern Division and a Southern Division.
 

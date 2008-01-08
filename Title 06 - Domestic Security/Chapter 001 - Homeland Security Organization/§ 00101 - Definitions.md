@@ -18,9 +18,15 @@ In this chapter, the following definitions apply:
 
 &emsp;(8) The term “functions” includes authorities, powers, rights, privileges, immunities, programs, projects, activities, duties, and responsibilities.
 
-&emsp;(9) The term “key resources” means publicly or privately controlled resources essential to the minimal operations of the economy and government.
+&emsp;(9) The term “intelligence component of the Department” means any element or entity of the Department that collects, gathers, processes, analyzes, produces, or disseminates intelligence information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, or national intelligence, as defined under section 401a(5) of title 50, except—
 
-&emsp;(10) The term “local government” means—
+&emsp;&emsp;(A) the United States Secret Service; and
+
+&emsp;&emsp;(B) the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command or control the Coast Guard as an armed force or the authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 401a(4) of title 50.<sup>1</sup>
+
+&emsp;(10) The term “key resources” means publicly or privately controlled resources essential to the minimal operations of the economy and government.
+
+&emsp;(11) The term “local government” means—
 
 &emsp;&emsp;(A) a county, municipality, city, town, township, local public authority, school district, special district, intrastate district, council of governments (regardless of whether the council of governments is incorporated as a nonprofit corporation under State law), regional or interstate government entity, or agency or instrumentality of a local government;
 
@@ -28,15 +34,15 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;(C) a rural community, unincorporated town or village, or other public entity.
 
-&emsp;(11) The term “major disaster” has the meaning given in section 5122(2) of title 42.
+&emsp;(12) The term “major disaster” has the meaning given in section 5122(2) of title 42.
 
-&emsp;(12) The term “personnel” means officers and employees.
+&emsp;(13) The term “personnel” means officers and employees.
 
-&emsp;(13) The term “Secretary” means the Secretary of Homeland Security.
+&emsp;(14) The term “Secretary” means the Secretary of Homeland Security.
 
-&emsp;(14) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States.
+&emsp;(15) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States.
 
-&emsp;(15) The term “terrorism” means any activity that—
+&emsp;(16) The term “terrorism” means any activity that—
 
 &emsp;&emsp;(A) involves an act that—
 
@@ -52,19 +58,25 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;(iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping.
 
-&emsp;(16)(A) The term “United States”, when used in a geographic sense, means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any possession of the United States, and any waters within the jurisdiction of the United States.
+&emsp;(17)(A) The term “United States”, when used in a geographic sense, means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any possession of the United States, and any waters within the jurisdiction of the United States.
 
 &emsp;(B) Nothing in this paragraph or any other provision of this chapter shall be construed to modify the definition of “United States” for the purposes of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] or any other immigration or nationality law.
 
-(Pub. L. 107–296, §2, Nov. 25, 2002, 116 Stat. 2140; Pub. L. 109–295, title VI, §612(d), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title VI, §613, Oct. 13, 2006, 120 Stat. 1943.)
+&emsp;(18) The term “voluntary preparedness standards” means a common set of criteria for preparedness, disaster management, emergency management, and business continuity programs, such as the American National Standards Institute's National Fire Protection Association Standard on Disaster/Emergency Management and Business Continuity Programs (ANSI/NFPA 1600).
+
+(Pub. L. 107–296, §2, Nov. 25, 2002, 116 Stat. 2140; Pub. L. 109–295, title VI, §612(d), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title VI, §613, Oct. 13, 2006, 120 Stat. 1943; Pub. L. 110–53, title V, §502(a), title IX, §901(d), Aug. 3, 2007, 121 Stat. 310, 371.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Immigration and Nationality Act, referred to in par. (16)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in par. (17)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Amendments
+
+2007—Pars. (9) to (17). Pub. L. 110–53, §502(a), added par. (9) and redesignated former pars. (9) to (16) as (10) to (17), respectively.
+
+Par. (18). Pub. L. 110–53, §901(d), added par. (18).
 
 2006—Par. (6). Pub. L. 109–347 inserted “governmental and nongovernmental” after “local”.
 
@@ -72,7 +84,11 @@ Pub. L. 109–295 inserted “fire,” after “safety,”.
 
 #### Effective Date
 
-Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act \[see Tables for classification\]shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
+Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
+
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–53, §1(a), Aug. 3, 2007, 121 Stat. 266, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Implementing Recommendations of the 9/11 Commission Act of 2007’.”
 
 #### Short Title of 2006 Amendment
 
@@ -88,7 +104,7 @@ Pub. L. 108–330, §1, Oct. 16, 2004, 118 Stat. 1275, provided that: “This Ac
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: “This division \[enacting sections 103 and 552a of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and section 300aa–33 of Title 42, The Public Health and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing section 371 of this title and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under section 521 of this title, section 1356 of Title 8, and section 300aa–33 of Title 42, and repealing provisions set out as a note under section 300aa–33 of Title 42\] may be cited as the ‘Homeland Security Act Amendments of 2003’.”
+Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: “This division \[enacting sections 103and 552a of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and section 300aa–33 of Title 42, The Public Health and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing section 371 of this title and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under section 521 of this title, section 1356 of Title 8, and section 300aa–33 of Title 42, and repealing provisions set out as a note under section 300aa–33 of Title 42\] may be cited as the ‘Homeland Security Act Amendments of 2003’.”
 
 #### Short Title
 
@@ -401,4 +417,6 @@ Additional Funding.—In addition to the amounts made available to the Commissio
 “(c)
 
 Duration of Availability.—Amounts made available to the Commission under this section shall remain available until the termination of the Commission.”
+
+<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the period.</i>
 

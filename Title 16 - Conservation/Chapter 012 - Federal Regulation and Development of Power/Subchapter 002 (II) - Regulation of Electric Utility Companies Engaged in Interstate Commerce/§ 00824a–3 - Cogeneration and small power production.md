@@ -96,7 +96,7 @@ Except for a hydroelectric project located at a Government dam (as defined in se
 
 #### (k) “New dam or diversion” defined
 
-For purposes of this section, the term “new dam or diversion” means a dam or diversion which requires, for purposes of installing any hydroelectric power project, any construction, or enlargement of any impoundment or diversion structure (other than repairs or reconstruction or the addition of flashboards or similar adjustable devices).
+For purposes of this section, the term “new dam or diversion” means a dam or diversion which requires, for purposes of installing any hydroelectric power project, any construction, or enlargement of any impoundment or diversion structure (other than repairs or reconstruction or the addition of flashboards or similar adjustable devices) <sup>4</sup>
 
 #### (<i>l</i>) Definitions
 
@@ -130,7 +130,7 @@ For purposes of this section, the terms “small power production facility”, �
 
 #### (4) Reinstatement of obligation to purchase
 
-&emsp;At any time after the Commission makes a finding under paragraph (3) relieving an electric utility of its obligation to purchase electric energy, a qualifying cogeneration facility, a qualifying small power production facility, a State agency, or any other affected person may apply to the Commission for an order reinstating the electric utility's obligation to purchase electric energy under this section. Such application shall set forth the factualbasis upon which the application is based and describe why the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) of this subsection are no longer met. After notice, including sufficient notice to potentially affected utilities, and opportunity for comment, the Commission shall issue an order within 90 days of such application reinstating the electric utility's obligation to purchase electric energy under this section if the Commission finds that the conditions set forth in subparagraphs (A), (B) or (C) of paragraph (1) which relieved the obligation to purchase, are no longer met.
+&emsp;At any time after the Commission makes a finding under paragraph (3) relieving an electric utility of its obligation to purchase electric energy, a qualifying cogeneration facility, a qualifying small power production facility, a State agency, or any other affected person may apply to the Commission for an order reinstating the electric utility's obligation topurchase electric energy under this section. Such application shall set forth the factual basis upon which the application is based and describe why the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) of this subsection are no longer met. After notice, including sufficient notice to potentially affected utilities, and opportunity for comment, the Commission shall issue an order within 90 days of such application reinstating the electric utility's obligation to purchase electric energy under this section if the Commission finds that the conditions set forth in subparagraphs (A), (B) or (C) of paragraph (1) which relieved the obligation to purchase, are no longer met.
 
 #### (5) Obligation to sell
 
@@ -182,7 +182,7 @@ This Act, referred to in subsecs. (m)(6) and (n)(1)(B), is Pub. L. 95–617, Nov
 
 #### Codification
 
-Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
+Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of theFederal Power Act which generally comprises this chapter.
 
 August 8, 2005, referred to in subsec. (n)(1)(A), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–58, which enacted subsecs. (m) and (n) of this section, to reflect the probable intent of Congress.
 
@@ -271,4 +271,6 @@ For definitions of terms used in this section, see section 2602 of this title.
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be followed by a period.</i>
 

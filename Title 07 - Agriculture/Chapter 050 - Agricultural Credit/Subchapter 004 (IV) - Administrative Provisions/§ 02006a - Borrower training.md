@@ -22,7 +22,7 @@ The Secretary shall enter into contracts to provide educational training to all 
 
 #### (2) Loan conditions
 
-&emsp;The need of a borrower who satisfies the criteria set out in section 1922(a)(2) or 1941(a)(2) of this title for management assistance under this section shall not be cause for denial of eligibility of the borrower for a direct loan under this chapter.
+&emsp;The need of a borrower who satisfies the criteria set out in section 1922(a)(2) or 1941(a)(2) of this title for management assistance underthis section shall not be cause for denial of eligibility of the borrower for a direct loan under this chapter.
 
 #### (d) Guidelines and curriculum
 

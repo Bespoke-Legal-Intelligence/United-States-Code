@@ -6,7 +6,7 @@ Lawful Activities.—Nothing in this subchapter authorizes the conduct of any in
 
 (b)
 
-Domestic Activities.—Personnel conducting commercial activity authorized by this subchapter may only engage in those activities in the United States to the extent necessary to support intelligence activities abroad.
+Domestic Activities.—Personnel conducting commercial activity authorized by this subchapter may only engage in those activities inthe United States to the extent necessary to support intelligence activities abroad.
 
 (c)
 

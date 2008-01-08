@@ -216,7 +216,7 @@ The Council may use funds allocated to the Council by the designated State unit 
 
 #### (h) Hearings and forums
 
-The Council is authorized to hold such hearings and forums as the Council may determineto be necessary to carry out the duties of the Council.
+The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
 
 (Pub. L. 93–112, title I, §105, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 106–402, title IV, §401(b)(3)(A), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–446, title III, §305(h)(2), (3), Dec. 3, 2004, 118 Stat. 2805.)
 
@@ -236,7 +236,7 @@ Subsec. (c)(6). Pub. L. 108–446, §305(h)(3), substituted “section 612(a)(20
 
 2000—Subsec. (c)(6). Pub. L. 106–402 substituted “the State Council on Developmental Disabilities established under section 15025 of title 42” for “the State Developmental Disabilities Council described in section 6024 of title 42”.
 
-1998—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted “Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
+1998—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted “Governor or, in the case ofa State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
 
 Subsec. (b)(4)(A)(i). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(B)\], substituted “section 705(20)(B)” for “section 705(20)(A)”.
 

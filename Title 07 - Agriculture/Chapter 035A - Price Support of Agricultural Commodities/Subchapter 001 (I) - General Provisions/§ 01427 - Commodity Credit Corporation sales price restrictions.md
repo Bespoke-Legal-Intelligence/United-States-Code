@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Commodity Credit Corporation may sell any farm commodity owned or controlled by theCorporation at any price not prohibited by this section.
+The Commodity Credit Corporation may sell any farm commodity owned or controlled by the Corporation at any price not prohibited by this section.
 
 #### (b) Inventories
 
@@ -88,7 +88,7 @@ The foregoing restrictions of this section shall not apply to—
 
 #### (2) Offsets
 
-&emsp;The sales shall be offset (if necessary) by the purchases of commodities as the Corporation determines is appropriate to prevent the sales from substantially impairing any price support program or unduly affecting marketprices, except that the purchase price shall not exceed the Corporation's minimum sales price for the commodities for unrestricted use.
+&emsp;The sales shall be offset (if necessary) by the purchases of commodities as the Corporation determines is appropriate to prevent the sales from substantially impairing any price support program or unduly affecting market prices, except that the purchase price shall not exceed the Corporation's minimum sales price for the commodities for unrestricted use.
 
 #### (3) Competitive bid basis
 
@@ -114,7 +114,7 @@ A prior section 308 of act July 10, 1954, ch. 469, title III, as added Sept. 21,
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, designating part of existing text as subsecs. (a) to (g), and as so designated, in subsec. (c), substituting provisions restricting sales of nonbasic or agricultural commodities at less than 115 percent of the levels of the current national price support level or the loan repayment level for provisions restricting such sales at less than 5 percent above the current support price, substituting provisions authorizing the sale of extra long staple cotton at any price determined appropriate for provisions that it sell at not less than 15 percent above the current support price, adding provisions relating to oilseeds, and wheat and feed grains, deleting provisions relating to sales of extra long staple cotton for unrestricted use and the authority of Secretary in carrying out this section.
+1990—Pub. L. 101–624 amended section generally, designating part of existing text as subsecs. (a) to (g), and as so designated, in subsec. (c), substituting provisionsrestricting sales of nonbasic or agricultural commodities at less than 115 percent of the levels of the current national price support level or the loan repayment level for provisions restricting such sales at less than 5 percent above the current support price, substituting provisions authorizing the sale of extra long staple cotton at any price determined appropriate for provisions that it sell at not less than 15 percent above the current support price, adding provisions relating to oilseeds, and wheat and feed grains, deleting provisions relating to sales of extra long staple cotton for unrestricted use and the authority of Secretary in carrying out this section.
 
 1988—Pub. L. 100–707, substituted “the Disaster Relief and Emergency Assistance Act” for “Public Law 875, Eighty-first Congress, as amended (42 U.S.C. 1855)”.
 
@@ -136,7 +136,7 @@ Pub. L. 99–198, §503, temporarily reenacted substantially without change the 
 
 1968—Pub. L. 90–559 extended termination date for sale of upland cotton from July 31, 1970, to July 31, 1971.
 
-Pub. L. 90–475 required that notwithstanding any other provision of this section, effective Aug. 1, 1968, the Commodity Credit Corporation make available for sale for unrestricted use at current market prices a quantity of American grown extra long staple cotton equal to the specified amount, with the proviso that beginning with the marketing year for which the national marketing quota is not established pursuant to section 1347(b)(3) of this title, no sales shall be made at less than 115 percent of the loan rate for extra long staple cotton under section 1441(f) of this title, and required the Secretary to make adjustments in the quantities of cotton to be made available.
+Pub. L. 90–475 required that notwithstanding any other provision of this section, effective Aug. 1, 1968, the Commodity Credit Corporation make available for sale for unrestricted use at current market prices a quantity of American grown extra long staple cotton equal to the specified amount, with the proviso that beginning with the marketing year for which the national marketing quota is not established pursuant to section 1347(b)(3) of this title, no sales shall be made at lessthan 115 percent of the loan rate for extra long staple cotton under section 1441(f) of this title, and required the Secretary to make adjustments in the quantities of cotton to be made available.
 
 1966—Pub. L. 89–808 inserted proviso to third sentence prohibiting, whenever carryover at end of any marketing year of a price supported agricultural commodity for which a voluntary adjustment program is in effect will be less than 25 per centum (35 per centum in the case of wheat) of the estimated export and domestic consumption of such commodity during such marketing year, sale of CCC stocks of such commodity during such year for unrestricted use at less than 115 per centum (120 per centum in the case of wheat whenever its carryover will be less than 25 per centum of such estimated export and domestic consumption) of the current price support loan plus reasonable carrying charges.
 
@@ -152,7 +152,7 @@ Pub. L. 88–297, §204, temporarily substituted proviso that if wheat marketing
 
 1961—Pub. L. 87–127 empowered Corporation to sell, at not less than 75 percent of the current support price, feed owned or controlled by it to assist in the preservation and maintenance of foundation herds of cattle, sheep, and goats in such areas where the Secretary determines an emergency exists warranting such assistance.
 
-1958—Pub. L. 85–835 required Corporation to sell cotton for unrestricted use at not less than 15 per centum above support price plus reasonable carrying charges, and authorized Corporation to sell at market price a number of bales equal to that by which the nationalmarketing quota is less than domestic consumption and exports.
+1958—Pub. L. 85–835 required Corporation to sell cotton for unrestricted use at not less than 15 per centum above support price plus reasonable carrying charges, and authorized Corporation to sell at market price a number of bales equal to that by which the national marketing quota is less than domestic consumption and exports.
 
 1956—Act Jan. 28, 1956, included as “sales for export” sales made on condition that like commodities of comparable value or quantity be exported in raw or processed form.
 
@@ -190,7 +190,7 @@ Amendment by §1111(a) of Pub. L. 97–98 effective Dec. 22, 1981, see section 1
 
 Section 408 of Pub. L. 95–113 provided that the amendment made by that section \[which reenacted without change the amendment first made by section 409 of Pub. L. 91–524 establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation's operations\] is effective only with respect to marketing years for 1978 through 1981 crops.
 
-Section 603 of Pub. L. 95–113 provided that the amendment made by that section \[which reenacted with some changes (see 1977 Amendment note above) the amendment first made by section 603 of Pub. L. 91–524 relating to sale of upland cotton by Corporation\] is effective only with respect to period beginning Aug. 1, 1978, and ending July 31, 1982.
+Section 603 of Pub. L. 95–113 provided that the amendment made by that section \[which reenacted with somechanges (see 1977 Amendment note above) the amendment first made by section 603 of Pub. L. 91–524 relating to sale of upland cotton by Corporation\] is effective only with respect to period beginning Aug. 1, 1978, and ending July 31, 1982.
 
 #### Effective and Termination Dates of 1970 Amendment
 
@@ -226,7 +226,7 @@ In General.—Except as otherwise provided in this section and notwithstanding s
 
 “(b)
 
-Price.—Corn shall be sold under this section at a price that is not more than such fuel conversion price, except that such price shall not be less than 110 percent of the basic county loan rate for corn, prior toany adjustment made under section 105C(a)(3) of the Agricultural Act of 1949 (7 U.S.C. 1444e(a)(3)).
+Price.—Corn shall be sold under this section at a price that is not more than such fuel conversion price, except that such price shall not be less than 110 percent of the basic county loan rate for corn, prior to any adjustment made under section 105C(a)(3) of the Agricultural Act of 1949 (7 U.S.C. 1444e(a)(3)).
 
 “(c)
 
@@ -268,7 +268,7 @@ Act Aug. 28, 1954, ch. 1041, title II, §208, 68 Stat. 901, authorized the Commo
 
 #### Authorization for Commodity Credit Corporation To Sell Wheat and Corn
 
-Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit Corporation to purchase flour and cornmeal for donation and to sell, without regard to this section, an equivalent amount of wheat and corn, see note set out under section 1431 of this title.
+Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit Corporation to purchase flourand cornmeal for donation and to sell, without regard to this section, an equivalent amount of wheat and corn, see note set out under section 1431 of this title.
 
 #### Sale of Commodities for Foreign Currencies
 

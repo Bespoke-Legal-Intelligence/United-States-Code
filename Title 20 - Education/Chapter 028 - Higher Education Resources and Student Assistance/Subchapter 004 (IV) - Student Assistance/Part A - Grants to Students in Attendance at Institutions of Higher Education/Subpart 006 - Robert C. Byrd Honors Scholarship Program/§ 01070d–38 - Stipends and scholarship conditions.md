@@ -6,7 +6,7 @@ Each student awarded a scholarship under this subpart shall receive a stipend of
 
 #### (b) Use of award
 
-The State educational agency shall establish procedures to assure that a scholar awarded ascholarship under this subpart pursues a course of study at an institution of higher education.
+The State educational agency shall establish procedures to assure that a scholar awarded a scholarship under this subpart pursues a course of study at an institution of higher education.
 
 (Pub. L. 89–329, title IV, §419H, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1345; amended Pub. L. 102–325, title IV, §406(e), July 23, 1992, 106 Stat. 509.)
 

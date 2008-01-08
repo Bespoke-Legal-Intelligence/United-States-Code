@@ -40,7 +40,7 @@ A prior section 2361 was renumbered section 2351 of this title.
 
 Subsec. (c)(1). Pub. L. 104–106, §1502(a)(1), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-Subsec. (c)(2). Pub. L. 104–106, §264, substituted “preceding fiscal year” for “preceding calendar year” and“the fiscal year after the fiscal year” for “the year after the year”.
+Subsec. (c)(2). Pub. L. 104–106, §264, substituted “preceding fiscal year” for “preceding calendar year” and “the fiscal year after the fiscal year” for “the year after the year”.
 
 1994—Subsec. (c). Pub. L. 103–337 added subsec. (c).
 
@@ -83,6 +83,4 @@ Section 220(c) of Pub. L. 100–456 provided that: “The limitation specified i
 #### Initial Report on Use of Competitive Procedures in Awarding Contracts
 
 Section 252(c)(2) of Pub. L. 101–189 required that first report under subsec. (c) of this section cover last six months of 1989 and be submitted not later than Feb. 1, 1990.
-
-§2362
 

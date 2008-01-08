@@ -68,7 +68,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 2 years after December 19, 2006, the Secretary, in collaboration withState, local, and tribal public health officials, shall establish a near real-time electronic nationwide public health situational awareness capability through an interoperable network of systems to share data and information to enhance early detection of rapid response to, and management of, potentially catastrophic infectious disease outbreaks and other public health emergencies that originate domestically or abroad. Such network shall be built on existing State situational awareness systems or enhanced systems that enable such connectivity.
+&emsp;Not later than 2 years after December 19, 2006, the Secretary, in collaboration with State, local, and tribal public health officials, shall establish a near real-time electronic nationwide public health situational awareness capability through an interoperable network of systems to share data and information to enhance early detection of rapid response to, and management of, potentially catastrophic infectious disease outbreaks and other public health emergencies that originate domestically or abroad. Such network shall be built on existing State situational awareness systems or enhanced systems that enable such connectivity.
 
 #### (2) Strategic plan
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(B) may award grants or contracts to entities described in paragraph (1) within or serving such State to assist such entities in improving the operation of information technology systems, facilitating the secure exchange of data and information, and training personnel to enhance the operation of the system described in subparagraph (A); and
 
-&emsp;&emsp;(C) may conduct a pilot program for the development of multi-State telehealth network test beds that build on, enhance, and securely link existing State and local telehealth programs to prepare for, monitor, respond to, and manage the events of public health emergencies, facilitate coordination and communication among medical, public health, and emergency response agencies,and provide medical services through telehealth initiatives within the States that are involved in such a multi-State telehealth network test bed.
+&emsp;&emsp;(C) may conduct a pilot program for the development of multi-State telehealth network test beds that build on, enhance, and securely link existing State and local telehealth programs to prepare for, monitor, respond to, and manage the events of public health emergencies, facilitate coordination and communication among medical, public health, and emergency response agencies, and provide medical services through telehealth initiatives within the States that are involved in such a multi-State telehealth network test bed.
 
 #### (4) Limitation
 

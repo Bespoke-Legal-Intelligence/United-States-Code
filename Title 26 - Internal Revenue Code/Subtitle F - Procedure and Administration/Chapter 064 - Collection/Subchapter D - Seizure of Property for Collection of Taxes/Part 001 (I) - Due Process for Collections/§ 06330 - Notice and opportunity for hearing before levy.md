@@ -126,19 +126,29 @@ In the case of any hearing conducted under this section—
 
 If—
 
-&emsp;(1) the Secretary has made a finding under the last sentence of section 6331(a) that the collection of tax is in jeopardy; or
+&emsp;(1) the Secretary has made a finding under the last sentence of section 6331(a) that the collection of tax is in jeopardy,
 
-&emsp;(2) the Secretary has served a levy on a State to collect a Federal tax liability from a State tax refund,
+&emsp;(2) the Secretary has served a levy on a State to collect a Federal tax liability from a State tax refund, or
 
-> this section shall not apply, except that the taxpayer shall be given the opportunity for thehearing described in this section within a reasonable period of time after the levy.
+&emsp;(3) the Secretary has served a disqualified employment tax levy,
+
+> this section shall not apply, except that the taxpayer shall be given the opportunity for the hearing described in this section within a reasonable period of time after the levy.
 
 #### (g) Frivolous requests for hearing, etc.
 
 Notwithstanding any other provision of this section, if the Secretary determines that any portion of a request for a hearing under this section or section 6320 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
 
-(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961.)
+#### (h) Disqualified employment tax levy
+
+For purposes of subsection (f), a disqualified employment tax levy is any levy in connection with the collection of employment taxes for any taxable period if the person subject to the levy (or any predecessor thereof) requested a hearing under this section with respect to unpaid employment taxes arising in the most recent 2-year period before the beginning of the taxable period with respect to which the levy is served. For purposes of the preceding sentence, the term “employment taxes” means any taxes under chapter 21, 22, 23, or 24.
+
+(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961; Pub. L. 110–28, title VIII, §8243(a), (b), May 25, 2007, 121 Stat. 200.)
 
 #### Amendments
+
+2007—Subsec. (f)(3). Pub. L. 110–28, §8243(a), added par. (3).
+
+Subsec. (h). Pub. L. 110–28, §8243(b), added subsec. (h).
 
 2006—Subsec. (b)(1). Pub. L. 109–432, §407(b)(3), substituted “in writing under subsection (a)(3)(B) and states the grounds for the requested hearing” for “under subsection (a)(3)(B)”.
 
@@ -157,6 +167,10 @@ Subsec. (g). Pub. L. 109–432, §407(b)(1), added subsec. (g).
 2000—Subsec. (d)(1)(A). Pub. L. 106–554, §1(a)(7) \[title III, §313(d)\], substituted “with respect to” for “to hear”.
 
 Subsec. (e)(1). Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A)\], inserted at end “Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.”
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–28, title VIII, §8243(c), May 25, 2007, 121 Stat. 200, provided that: “The amendments made by this section \[amending this section\] shall apply to levies served on or after the date that is 120 days after the date of the enactment of this Act \[May 25, 2007\].”
 
 #### Effective Date of 2006 Amendment
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 45 - Railroads
 
-GPO's 2006 edition (laws in effect as of 2007-01-03), from its printed page marks. The exact position of
+GPO's 2007 edition (laws in effect as of 2008-01-08), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title45.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -91,8 +91,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00231f&#8211;1 - Annual actuarial report](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231f%E2%80%931%20-%20Annual%20actuarial%20report.md) | 79 |
 | [&sect; 00231g - Court jurisdiction](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231g%20-%20Court%20jurisdiction.md) | 79–80 |
 | [&sect; 00231h - Returns of compensation; conclusiveness](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231h%20-%20Returns%20of%20compensation%3B%20conclusiveness.md) | 80 |
-| [&sect; 00231i - Erroneous payments](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231i%20-%20Erroneous%20payments.md) | 80 |
-| [&sect; 00231j - Waiver of annuities](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231j%20-%20Waiver%20of%20annuities.md) | 80–81 |
+| [&sect; 00231i - Erroneous payments](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231i%20-%20Erroneous%20payments.md) | 80–81 |
+| [&sect; 00231j - Waiver of annuities](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231j%20-%20Waiver%20of%20annuities.md) | 81 |
 | [&sect; 00231k - Incompetence](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231k%20-%20Incompetence.md) | 81 |
 | [&sect; 00231l - Penalties](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231l%20-%20Penalties.md) | 81 |
 | [&sect; 00231m - Assignability; exemption from levy](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231m%20-%20Assignability%3B%20exemption%20from%20levy.md) | 81–82 |
@@ -100,8 +100,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00231n&#8211;1 - Social Security Equivalent Benefit Account](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231n%E2%80%931%20-%20Social%20Security%20Equivalent%20Benefit%20Account.md) | 90–92 |
 | [&sect; 00231o - Private pensions](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231o%20-%20Private%20pensions.md) | 92 |
 | [&sect; 00231p - Free transportation](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231p%20-%20Free%20transportation.md) | 92 |
-| [&sect; 00231q - Crediting service under Social Security Act](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231q%20-%20Crediting%20service%20under%20Social%20Security%20Act.md) | 92 |
-| [&sect; 00231r - Automatic benefit eligibility requirement adjustments](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231r%20-%20Automatic%20benefit%20eligibility%20requirement%20adjustments.md) | 92–94 |
+| [&sect; 00231q - Crediting service under Social Security Act](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231q%20-%20Crediting%20service%20under%20Social%20Security%20Act.md) | 92–93 |
+| [&sect; 00231r - Automatic benefit eligibility requirement adjustments](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231r%20-%20Automatic%20benefit%20eligibility%20requirement%20adjustments.md) | 93–94 |
 | [&sect; 00231s - Separability](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231s%20-%20Separability.md) | 94 |
 | [&sect; 00231t - Short title](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231t%20-%20Short%20title.md) | 94 |
 | [&sect; 00231u - Benefit preservation](Chapter%20009%20-%20Retirement%20of%20Railroad%20Employees/Subchapter%20004%20%28IV%29%20-%20Railroad%20Retirement%20Act%20of%201974/%C2%A7%2000231u%20-%20Benefit%20preservation.md) | 94–95 |

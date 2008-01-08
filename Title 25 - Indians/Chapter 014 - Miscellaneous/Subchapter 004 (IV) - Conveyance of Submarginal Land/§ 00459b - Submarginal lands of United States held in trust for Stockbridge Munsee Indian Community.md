@@ -1,6 +1,6 @@
 ### §459b. Submarginal lands of United States held in trust for Stockbridge Munsee Indian Community
 
-All of the right, title, and interest of the United States in all the minerals including gas and oil underlying the submarginal lands declared to be held in trust for the Stockbridge Munsee Indian Community by the Act of October 9, 1972 (86 Stat. 795), are hereby declared to be held by the United States in trust for the Stockbridge Munsee Indian Community.
+All of the right, title, and interest of the United States in all the minerals including gasand oil underlying the submarginal lands declared to be held in trust for the Stockbridge Munsee Indian Community by the Act of October 9, 1972 (86 Stat. 795), are hereby declared to be held by the United States in trust for the Stockbridge Munsee Indian Community.
 
 (Pub. L. 94–114, §3(a), Oct. 17, 1975, 89 Stat. 578.)
 

@@ -46,7 +46,7 @@
 
 #### (3) Exception for exigent, threatening circumstances
 
-&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protect life or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
+&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protectlife or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
 
 #### (4) Exception for maritime law enforcement
 
@@ -130,7 +130,7 @@ For purposes of this part and other provisions of this chapter relating specific
 
 #### References in Text
 
-The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I,§1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
+The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Number 12333, referred to in subsec. (b)(2), is set out as a note under section 401 of Title 50, War and National Defense.
 
@@ -266,7 +266,7 @@ Subsec. (h)(3)(D). Pub. L. 101–231, §17(d)(4), substituted “illicit product
 
 Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
 
-Subsec. (k)(4). Pub. L. 101–231, §17(f), struck out par. (4) which required that reports under subsec. (e) discusschanges made since notification provided pursuant to subsec. (k)(2) and (3).
+Subsec. (k)(4). Pub. L. 101–231, §17(f), struck out par. (4) which required that reports under subsec. (e) discuss changes made since notification provided pursuant to subsec. (k)(2) and (3).
 
 1988—Subsec. (a)(1)(B) to (E). Pub. L. 100–690, §4502, added subpar. (B), and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
@@ -312,7 +312,7 @@ Subsec. (k). Pub. L. 100–690, §4405(a), added subsec. (k).
 
 1987—Subsec. (e)(7). Pub. L. 100–204, §805(a), added par. (7).
 
-Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted “in satisfying the goals agreed to in an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and,” after “on its own,”, and added cl. (ii).
+Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted “in satisfying the goals agreed toin an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and,” after “on its own,”, and added cl. (ii).
 
 Subsec. (h)(4)(A). Pub. L. 100–204, §805(b), which directed that subpar. (A) of subsec. (h) of this section be amended by substituting “45” for “30”, was executed by making the substitution in subpar. (A) of subsec. (h)(4) of this section to reflect the probable intent of Congress.
 
@@ -378,13 +378,9 @@ Subsec. (d). Pub. L. 95–384, §4, added subsec. (d).
 
 1973—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1987 Amendment
 
-Section 101(e) \[title V, §585(b)\] of Pub. L. 100–202 provided that: “The amendments made by paragraph (1) \[probably means subsec. (a) which amended this section\] shall apply with respect to any certification of the President under section 481(h)(2)(A) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291(h)(2)(A)\] made on or after March 1, 1989.”
+Section 101(e) \[title V, §585(b)\] of Pub. L. 100–202 provided that: “The amendments made by paragraph (1)\[probably means subsec. (a) which amended this section\] shall apply with respect to any certification of the President under section 481(h)(2)(A) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291(h)(2)(A)\] made on or after March 1, 1989.”
 
 #### Effective Date of 1985 Amendment
 
@@ -490,7 +486,7 @@ Exception.—If the Government of Colombia negotiates or permits the establishme
 
 “(3)
 
-Notification.—In each case in which counternarcotics assistance is provided for the Government of Colombia as a result of a finding by the President described in paragraph (2), the President shall notify the Committees on Appropriations and the authorizing committees of jurisdiction of the House of Representatives and the Senate not later than 5 days after such assistance is provided.”
+Notification.—In each case in which counternarcotics assistance is provided for the Government of Colombia as a result of a finding by the President described in paragraph (2), the President shall notify the Committees on Appropriations and the authorizingcommittees of jurisdiction of the House of Representatives and the Senate not later than 5 days after such assistance is provided.”
 
 \[For delegation of functions of President under section 821(b) of Pub. L. 105–277, div. C, title VIII, set out above, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
 
@@ -504,7 +500,7 @@ Pub. L. 101–513, title V, §599H, Nov. 5, 1990, 104 Stat. 2068, provided that:
 
 “(a)
 
-Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowinglysupplying chemicals for the illicit manufacture of controlled substances.
+Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowingly supplying chemicals for the illicit manufacture of controlled substances.
 
 “(2) The purposes of the negotiations shall be to (a) establish a list of precursor and essential chemicals contributing to the illicit manufacture of controlled substances, as defined in section 102 of the Controlled Substances Act (21 USC 802); (b) reach one or more international agreements on a method for maintaining records of transactions of these listed chemicals; (c) establish a procedure by which such records may be made available to (and kept confidential as necessary by) United States law enforcement authorities for the exclusive purpose of conducting an investigation relative to precursor chemicals, essential chemicals and/or controlled substances contributing to the manufacture of illicit narcotics; and (d) encourage chemical source countries to enact national chemical control legislation which would (i) impose specific record keeping and reporting requirements for domestic transactions involving listed chemicals; (ii) establish a system of permits or declarations for imports and exports of listed chemicals; and (iii) authorize government officials to seize or suspend shipments of listed chemicals based on evidence that they may be destined for the illicit manufacture of controlled substances.
 
@@ -562,7 +558,7 @@ Authority.—The President may release Bolivia, Colombia, or Peru from its oblig
 
 “(b)
 
-Congressional Review of Agreements.—The President shall submit any such agreement with Bolivia, Colombia, or Peru to the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives and the Committee on Foreign Relations of the Senate at least 15 days before exercising the authority of \[sub\]section (a) with respect to that country.
+Congressional Review of Agreements.—The President shall submit any such agreement with Bolivia, Colombia, or Peru to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate at least 15 days before exercising the authority of \[sub\]section (a) with respect to that country.
 
 “(b) \[(c)\]
 
@@ -630,7 +626,7 @@ Multilateral development bank.—The term ‘multilateral development bank’ me
 
 &emsp;“(2)
 
-Major illicit drug producing country.—The term ‘major illicit drug producing country’ has the meaning provided in section 481(i)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(i)(2)).
+Major illicit drug producing country.—The term ‘major illicit drug producing country’ has themeaning provided in section 481(i)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(i)(2)).
 
 &emsp;“(3)
 
@@ -648,7 +644,7 @@ Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
 “(b) This section shall apply to pay periods beginning on or after October 1, 2001.”
 
-Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119,title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
+Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
 
 “(a)
 

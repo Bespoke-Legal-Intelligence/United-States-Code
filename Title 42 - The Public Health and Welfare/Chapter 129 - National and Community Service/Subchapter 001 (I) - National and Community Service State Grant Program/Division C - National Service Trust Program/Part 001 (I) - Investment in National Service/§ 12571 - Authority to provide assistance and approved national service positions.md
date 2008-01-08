@@ -94,3 +94,7 @@ A prior section 121 of Pub. L. 101–610 was renumbered section 199A, and is cla
 
 Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 
+#### Overall Minimum Share Requirement
+
+Pub. L. 110–161, div. G, title IV, §407, Dec. 26, 2007, 121 Stat. 2202, provided that: “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first three years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) \[42 U.S.C. 12571(e)\] or the member support Federal share limitations in section 140 \[42 U.S.C. 12594\] of the National and Community Service Act of 1990, and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
+

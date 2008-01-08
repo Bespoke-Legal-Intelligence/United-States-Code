@@ -20,7 +20,7 @@ The amounts of the following liabilities shall, except as hereinafter in this se
 
 #### (B) Fiduciaries
 
-&emsp;&emsp;The liability of a fiduciary under section 3713(b) of title 31, United States Code <sup>1</sup> in respect of the payment of any tax described in subparagraph (A) from the estate of the taxpayer, the decedent, or the donor, as the case may be.
+&emsp;&emsp;The liability of a fiduciary under section 3713(b) of title 31, United States Code <sup>1</sup> in respect of the payment of any tax described insubparagraph (A) from the estate of the taxpayer, the decedent, or the donor, as the case may be.
 
 #### (2) Other taxes
 

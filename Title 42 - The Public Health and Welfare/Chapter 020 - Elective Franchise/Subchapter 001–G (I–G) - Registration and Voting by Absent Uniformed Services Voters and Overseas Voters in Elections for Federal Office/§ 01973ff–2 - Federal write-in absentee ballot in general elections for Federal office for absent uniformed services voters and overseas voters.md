@@ -62,7 +62,7 @@ Subsec. (b). Pub. L. 108–375, §566(c)(2), inserted second sentence and struck
 
 &emsp;“(2) if the application of the overseas voter for a State absentee ballot is received by the appropriate State election official less than 30 days before the general election; or
 
-&emsp;“(3) if a State absentee ballot of the overseas voter is received by the appropriate State election official not later than the deadline for receipt of the State absentee ballot under State law.”
+&emsp;“(3) if a State absentee ballot of the overseas voter is received by the appropriate State election officialnot later than the deadline for receipt of the State absentee ballot under State law.”
 
 Subsec. (c)(1). Pub. L. 108–375, §566(c)(3), substituted “absent uniformed services voter or overseas voter” for “overseas voter”.
 

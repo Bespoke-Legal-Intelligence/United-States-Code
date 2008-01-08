@@ -48,7 +48,7 @@ Payments under subsections (c) through (e) of this section shall be paid in the 
 
 &emsp;(5) If none of the above, to the duly appointed executor or administrator of the estate of the participant.
 
-&emsp;(6) If none of the above, to such other next of kin of the participant as may be determined in the judgment of the Secretary of State tobe legally entitled to such payment, except that no payment shall be made under this paragraph until after the expiration of 30 days after the death of the participant or annuitant.
+&emsp;(6) If none of the above, to such other next of kin of the participant as may be determined in the judgment of the Secretary of State to be legally entitled to such payment, except that no payment shall be made under this paragraph until after the expiration of 30 days after the death of the participant or annuitant.
 
 #### (g) Death of survivor annuitant
 

@@ -10,7 +10,7 @@ The Secretary of the Interior is further authorized to provide technical assista
 
 #### (c) Extension of programs administered by Department of Agriculture to Guam, Northern Mariana Islands, etc.
 
-The Secretary of Agriculture is authorized to extend, in his discretion, programs administered by the Department of Agriculture to Guam, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Virgin Islands, and American Samoa (hereinafter called the territories). Notwithstanding any other provision of law, the Secretary of Agriculture is authorized to waive or modify any statutory requirements relating to the provision of assistance under such programs when he deems it necessary in order to adapt the programs to the needs of the respective territory: <i>Provided</i>, That not less than sixty days prior to extending any program pursuant to this section or waiving or modifying any statutory requirement pursuant to this section, the Secretary of Agriculture shall notify the Committee on Agriculture and the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Agriculture, Nutrition, and Forestry of the Senate of his proposed action together with an explanation of why his action is necessary and the anticipated benefits to each territory affected. Such programs shall be carried out in cooperation with the respective governments of the territories and shall be covered by a memorandum of understanding between the respective territorial government and the Department of Agriculture. Any sums appropriated pursuant to this paragraph shall be allocated to the agencies of the Department of Agriculture concerned with the administration of programs in the territories.
+The Secretary of Agriculture is authorized to extend, in his discretion, programs administered by the Department of Agriculture to Guam, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Virgin Islands, and American Samoa (hereinafter called the territories). Notwithstanding any other provision of law, the Secretary of Agriculture is authorized to waive or modify any statutory requirements relating to the provision of assistance undersuch programs when he deems it necessary in order to adapt the programs to the needs of the respective territory: <i>Provided</i>, That not less than sixty days prior to extending any program pursuant to this section or waiving or modifying any statutory requirement pursuant to this section, the Secretary of Agriculture shall notify the Committee on Agriculture and the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Agriculture, Nutrition, and Forestry of the Senate of his proposed action together with an explanation of why his action is necessary and the anticipated benefits to each territory affected. Such programs shall be carried out in cooperation with the respective governments of the territories and shall be covered by a memorandum of understanding between the respective territorial government and the Department of Agriculture. Any sums appropriated pursuant to this paragraph shall be allocated to the agencies of the Department of Agriculture concerned with the administration of programs in the territories.
 
 #### (d) Authorization of appropriations
 
@@ -25,10 +25,6 @@ In subsec. (a), “sections 1535 and 1536 of title 31” substituted in text for
 #### Amendments
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Termination of Trust Territory of the Pacific Islands
 

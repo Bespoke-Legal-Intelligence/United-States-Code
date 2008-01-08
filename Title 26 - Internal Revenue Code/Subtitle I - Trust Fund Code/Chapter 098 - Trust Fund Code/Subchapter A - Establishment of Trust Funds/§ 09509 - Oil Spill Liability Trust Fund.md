@@ -32,7 +32,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 &emsp;&emsp;(A) for the payment of removal costs and other costs, expenses, claims, and damages referred to in section 1012 of such Act,
 
-&emsp;&emsp;(B) to carry out sections 5 and 7 of the Intervention on the High Seas Act relating to oil pollution or the substantial threat of oil pollution,
+&emsp;&emsp;(B) to carry out sections 5 and 7 of the Intervention on the High Seas Act relatingto oil pollution or the substantial threat of oil pollution,
 
 &emsp;&emsp;(C) for the payment of liabilities incurred by the revolving fund established by section 311(k) of the Federal Water Pollution Control Act,
 
@@ -74,7 +74,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 #### (B) Final repayment
 
-&emsp;&emsp;No advance shall be made to the Oil Spill Liability Trust Fund after December 31, 1994,and all advances to such Fund shall be repaid on or before such date.
+&emsp;&emsp;No advance shall be made to the Oil Spill Liability Trust Fund after December 31, 1994, and all advances to such Fund shall be repaid on or before such date.
 
 #### (C) Rate of interest
 
@@ -182,7 +182,7 @@ Pub. L. 107–295, title III, §322(a), Nov. 25, 2002, 116 Stat. 2103, provided 
 
 Pub. L. 104–66, title I, §1122(a), Dec. 21, 1995, 109 Stat. 724, provided that: “The quarterly report regarding the Oil Spill Liability Trust Fund required to be submitted to the House and Senate Committees on Appropriations under House Report 101–892, accompanying the appropriations for the Coast Guard in the Department of Transportation and Related Agencies Appropriations Act, 1991 \[Pub. L. 101–516\], shall be submitted not later than 30 days after the end of the fiscal year in which this Act is enacted and annually thereafter.”
 
-\[House Report 101–892, 101st Congress, 2d Session, provided that: “The conferees direct the Coast Guard to submit quarterly reports to the House and Senate Committee on Appropriations detailing and summarizing all transfers to and expenditures from the oil spill liability trust fund. Each report shall account for each transfer to and expenditure from the fund as authorized by Section 9509 of the Internal Revenue Code of 1986, as amended, and Sections 5003 and 5004 of the Oil Pollution Act of 1990 (Public Law 101–380) \[33 U.S.C. 2733, 2734\]. The report shall also show amounts collectable under Section 9509(b)(2), (3), and (8) of the Internal Revenue Code of 1986. For those authorized expenditures subject to limitations, the report shall so indicate. The Coast Guard shall confer with the House and Senate Committees on Appropriations as to the format for these reports.”\]
+\[House Report 101–892, 101st Congress, 2d Session, provided that: “The conferees direct the Coast Guard to submit quarterly reports to the House and Senate Committee on Appropriations detailing and summarizing all transfers to and expenditures from the oil spill liability trust fund. Each report shall account for each transfer to and expenditure from the fund as authorized by Section 9509 of the Internal Revenue Code of 1986, as amended, and Sections 5003 and 5004 of the Oil Pollution Act of 1990 (Public Law 101–380) \[33 U.S.C. 2733, 2734\]. The report shall also show amounts collectable under Section 9509(b)(2), (3), and (8) of the Internal Revenue Code of 1986. For those authorized expenditures subject to limitations, the report shall so indicate. The Coast Guard shall confer with the House and SenateCommittees on Appropriations as to the format for these reports.”\]
 
 #### Deepwater Port Liability Fund
 

@@ -32,7 +32,7 @@ In addition to authority to appoint personnel subject to the provisions of title
 
 There is authorized to be appropriated, for use in carrying out this section, not to exceed $17,250,000.
 
-(June 30, 1948, ch. 758, title III, §315, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 93–207, §1(5), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §5, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 94–238, Mar. 23, 1976, 90 Stat. 250; H. Res. 988, Oct. 8, 1974; S. Res. 4, Feb. 4, 1977.)
+(June 30, 1948, ch. 758, title III, §315, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875;amended Pub. L. 93–207, §1(5), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §5, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 94–238, Mar. 23, 1976, 90 Stat. 250; H. Res. 988, Oct. 8, 1974; S. Res. 4, Feb. 4, 1977.)
 
 #### References in Text
 

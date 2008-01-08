@@ -14,7 +14,7 @@ Based on title 28, U.S.C., 1940 ed., §1, and section 641 of title 48, U.S.C., 1
 
 Section consolidates section 1 of title 28, U.S.C., 1940 ed., and section 641 of title 48, U.S.C., 1940 ed., with changes in phraseology necessary to effect the consolidation.
 
-Subsection (c) is derived from section 641 of title 48, U.S.C., 1940 ed., which applied only to the Territory of Hawaii. The revised section, by extending it to all districts, merely recognizes established practice.
+Subsection (c) is derived from section 641 of title 48, U.S.C., 1940 ed., which applied only to the Territory ofHawaii. The revised section, by extending it to all districts, merely recognizes established practice.
 
 Other portions of section 1 of title 28, U.S.C., 1940 ed., are incorporated in sections 133 and 134 of this title. The remainder of section 641 of title 48, U.S.C., 1940 ed., is incorporated in sections 91 and 133 of this title.
 

@@ -1,10 +1,22 @@
 ### §6872. Authorization of appropriations
 
-For the purpose of carrying out the weatherization program under this part, there are authorized to be appropriated $500,000,000 for fiscal year 2006, $600,000,000 for fiscal year 2007, and $700,000,000 for fiscal year 2008.
+For the purpose of carrying out the weatherization program under this part, there are authorized to be appropriated—
 
-(Pub. L. 94–385, title IV, §422, Aug. 14, 1976, 90 Stat. 1158; Pub. L. 95–619, title II, §231(d), Nov. 9, 1978, 92 Stat. 3226; Pub. L. 96–294, title V, §576, June 30, 1980, 94 Stat. 760; Pub. L. 98–181, title IV, §464, Nov. 30, 1983, 97 Stat. 1235; Pub. L. 101–440, §8(c), Oct. 18, 1990, 104 Stat. 1016; Pub. L. 105–388, §3, Nov. 13, 1998, 112 Stat. 3477; Pub. L. 109–58, title I, §122(a), Aug. 8, 2005, 119 Stat. 616.)
+&emsp;(1) $750,000,000 for fiscal year 2008;
+
+&emsp;(2) $900,000,000 for fiscal year 2009;
+
+&emsp;(3) $1,050,000,000 for fiscal year 2010;
+
+&emsp;(4) $1,200,000,000 for fiscal year 2011; and
+
+&emsp;(5) $1,400,000,000 for fiscal year 2012..<sup>1</sup>
+
+(Pub. L. 94–385, title IV, §422, Aug. 14, 1976, 90 Stat. 1158; Pub. L. 95–619, title II, §231(d), Nov. 9, 1978, 92 Stat. 3226; Pub. L. 96–294, title V, §576, June 30, 1980, 94 Stat. 760; Pub. L. 98–181, title IV, §464, Nov. 30, 1983, 97 Stat. 1235; Pub. L. 101–440, §8(c), Oct. 18, 1990, 104 Stat. 1016; Pub. L. 105–388, §3, Nov. 13, 1998, 112 Stat. 3477; Pub. L. 109–58, title I, §122(a), Aug. 8, 2005, 119 Stat. 616; Pub. L. 110–140, title IV, §411(a), Dec. 19, 2007, 121 Stat. 1600.)
 
 #### Amendments
+
+2007—Pub. L. 110–140 substituted “appropriated—” and pars. (1) to (5) for “appropriated $500,000,000 for fiscal year 2006, $600,000,000 for fiscal year 2007, and $700,000,000 for fiscal year 2008”.
 
 2005—Pub. L. 109–58 substituted “$500,000,000 for fiscal year 2006, $600,000,000 for fiscal year 2007, and $700,000,000 for fiscal year 2008” for “for fiscal years 1999 through 2003 such sums as may be necessary”.
 
@@ -21,4 +33,42 @@ For the purpose of carrying out the weatherization program under this part, ther
 1980—Pub. L. 96–294 inserted provisions authorizing to be appropriated $200,000,000 for fiscal year ending on Sept. 30, 1981, such sums to remain available until expended, substituted “the sum of” for “not to exceed” wherever appearing.
 
 1978—Pub. L. 95–619 substituted an appropriations authorization of not to exceed $130,000,000 for fiscal year ending Sept. 30, 1978, for an authorization of not to exceed $65,000,000 for such fiscal year, substituted an authorization of not to exceed $200,000,000 for fiscal year ending Sept. 30, 1979, for an authorization of $80,000,000 for such fiscal year, and added an authorization of not to exceed $200,000,000 for fiscal year ending Sept. 30, 1980.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+#### Sustainable Energy Resources for Consumers Grants
+
+Pub. L. 110–140, title IV, §411(b), Dec. 19, 2007, 121 Stat. 1600, provided that:
+
+“(1)
+
+In general.—The Secretary \[of Energy\] may make funding available to local weatherization agencies from amounts authorized under the amendment made by subsection (a) \[amending this section\] to expand the weatherization assistance program for residential buildings to include materials, benefits, and renewable and domestic energy technologies not covered by the program (as of the date of enactment of this Act\[Dec. 19, 2007\]), if the State weatherization grantee certifies that the applicant has the capacity to carry out the proposed activities and that the grantee will include the project in the financial oversight of the grantee of the weatherization assistance program.
+
+“(2)
+
+Priority.—In selecting grant recipients under this subsection, the Secretary shall give priority to—
+
+&emsp;“(A) the expected effectiveness and benefits of the proposed project to low- and moderate-income energy consumers;
+
+&emsp;“(B) the potential for replication of successful results;
+
+&emsp;“(C) the impact on the health and safety and energy costs of consumers served; and
+
+&emsp;“(D) the extent of partnerships with other public and private entities that contribute to the resources and implementation of the program, including financial partnerships.
+
+“(3)
+
+Funding.—
+
+&emsp;“(A)
+
+In general.—Except as provided in paragraph (2), the amount of funds used for projects described in paragraph (1) may equal up to 2 percent of the amount of funds made available for any fiscal year under section 422 of the Energy Conservation and Production Act (42 U.S.C. 6872).
+
+&emsp;“(B)
+
+Exception.—No funds may be used for sustainable energy resources for consumers grants for a fiscal year under this subsection if the amount of funds made available for the fiscal year to carry out the Weatherization Assistance Program for Low-Income Persons established under part A of title IV of the Energy Conservation and Production Act (42 U.S.C. 6861 et seq.) is less than $275,000,000.”
+
+<i><sup>1</sup></i><i> So in original.</i>
 

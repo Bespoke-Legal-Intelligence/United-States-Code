@@ -4,7 +4,7 @@
 
 (b) A person is enlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard in the grade or rating prescribed by the Secretary concerned.
 
-(c) The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than eight years, in the Regular Army,Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be.
+(c) The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than eight years, in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be.
 
 (d)(1) The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for a period determined under this subsection.
 

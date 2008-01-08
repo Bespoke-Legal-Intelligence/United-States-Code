@@ -56,7 +56,7 @@ In developing any regulation under this section, the Secretary shall consult wit
 
 &emsp;(B) shall remain in effect for the duration of the applicable fishing year; and
 
-&emsp;(C) may be terminated by the Secretary at an earlier date by publication in the FederalRegister of a notice of termination if the Secretary determines that the reasons for the emergency action no longer exist.
+&emsp;(C) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination if the Secretary determines that the reasons for the emergency action no longer exist.
 
 (4) If the Secretary finds that the incidental mortality and serious injury of marine mammals in the yellowfin tuna fishery in the eastern tropical Pacific Ocean is continuing to have a significant adverse impact on a stock or species, the Secretary may extend the emergency regulations for such additional periods as may be necessary.
 

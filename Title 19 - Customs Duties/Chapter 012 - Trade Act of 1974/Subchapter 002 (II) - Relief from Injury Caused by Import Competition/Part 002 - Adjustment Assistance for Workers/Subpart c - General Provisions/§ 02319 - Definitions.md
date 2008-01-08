@@ -12,7 +12,7 @@ For purposes of this part—
 
 &emsp;(3) Repealed. Pub. L. 97–35, title XXV, §2511(1), Aug. 13, 1981, 95 Stat. 888.
 
-&emsp;(4) The term “average weekly wage” means one-thirteenth of the total wages paid to an individual in the high quarter. For purposes of this computation, the high quarter shall bethat quarter in which the individual's total wages were highest among the first 4 of the last 5 completed calendar quarters immediately before the quarter in which occurs the week with respect to which the computation is made. Such week shall be the week in which total separation occurred, or, in cases where partial separation is claimed, an appropriate week, as defined in regulations prescribed by the Secretary.
+&emsp;(4) The term “average weekly wage” means one-thirteenth of the total wages paid to an individual in the high quarter. For purposes of this computation, the high quarter shall be that quarter in which the individual's total wages were highest among the first 4 of the last 5 completed calendar quarters immediately before the quarter in which occurs the week with respect to which the computation is made. Such week shall be the week in which total separation occurred, or, in cases where partial separation is claimed, an appropriate week, as defined in regulations prescribed by the Secretary.
 
 &emsp;(5) The term “average weekly hours” means the average hours worked by the individual (excluding overtime) in the employment from which he has been or claims to have been separated in the 52 weeks (excluding weeks during which the individual was sick or on vacation) preceding the week specified in the last sentence of paragraph (4).
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemp
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

@@ -984,7 +984,7 @@ In general.—If the Secretary of Labor initially makes a determination describe
 
 &emsp;“(ii)
 
-Requests for determination.—Any person may request the Secretary of Labor to make a determination under this subparagraph with respect to any computer model investment advice program, and the Secretary of Labor shall make a determination with respect to such request within 90 days. If the Secretary of Labor makes a determination that such program is not described in subparagraph (B), the Secretary shall, within 10 days of such determination, notify the Committee on Ways and Means and the Committee on Education and the Workforce of the House of Representatives and the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate of such determination and the reasons for such determination.
+Requests for determination.—Any person may request the Secretary of Labor to make a determination under this subparagraph with respect to any computer model investment advice program, and the Secretary of Labor shall make a determination with respect to such request within 90 days. If the Secretary of Labor makes a determination that such program is not described in subparagraph (B), the Secretary shall, within 10 days of such determination, notify the Committee on Ways and Means and the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives and the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate of such determination and the reasons for such determination.
 
 “(E)
 

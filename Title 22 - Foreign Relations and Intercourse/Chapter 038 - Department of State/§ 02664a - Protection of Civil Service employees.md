@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the effectiveness and efficiency of the Department of State is dependent not only onthe contribution of Foreign Service employees but equally on the contribution of the 42 percent of the Department's employees who are employed under the Civil Service personnel system;
+&emsp;(1) the effectiveness and efficiency of the Department of State is dependent not only on the contribution of Foreign Service employees but equally on the contribution of the 42 percent of the Department's employees who are employed under the Civil Service personnel system;
 
 &emsp;(2) the contribution of these Civil Service employees has been overlooked in the management of the Department and greater equality of promotion, training, and career enhancement opportunities should be accorded to the Civil Service employees of the Department; and
 

@@ -166,7 +166,7 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subsections (b), (c), and (h) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 (10 U.S.C.2371 note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.
+&emsp;&emsp;&emsp;&emsp;Subsections (b), (c), and (h) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 (10 U.S.C. 2371 note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.
 
 #### (II) Written determinations required
 
@@ -184,7 +184,7 @@ In this section:
 
 #### (ii) Application of provisions
 
-&emsp;&emsp;&emsp;Provisions in such section 247d–6a of this title that apply to such authorities and that require institution of internal controls, limit review, provide for Federal Tort Claims Act coverage of personal services contractors, and commit decisions to the discretion of the Secretary shall apply to the authorities as exercised pursuant to this paragraph.
+&emsp;&emsp;&emsp;Provisions in such section 247d–6a of this title that apply to such authorities and that require institution of internal controls, limit review, provide for Federal Tort Claims Act coverage of personal services contractors, and commit decisions to the discretion of the Secretary shall applyto the authorities as exercised pursuant to this paragraph.
 
 #### (iii) Authority to limit competition
 

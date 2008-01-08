@@ -2,7 +2,7 @@
 
 #### (a) Expanded participation by local distribution companies in acquisition of leases and development of natural gas resources
 
-The purpose of this section is to encourage expanded participation by local distribution companies in acquisition of leases and development of natural gas resources on the Outer Continental Shelf by facilitating the transportation in interstate commerce of natural gas, which is produced from a lease located on the Outer Continental Shelf and owned, in whole or in part, by a local distribution company, from such lease tothe service area of such local distribution company.
+The purpose of this section is to encourage expanded participation by local distribution companies in acquisition of leases and development of natural gas resources on the Outer Continental Shelf by facilitating the transportation in interstate commerce of natural gas, which is produced from a lease located on the Outer Continental Shelf and owned, in whole or in part, by a local distribution company, from such lease to the service area of such local distribution company.
 
 #### (b) Application and issuance of certificates of public convenience and necessity for transportation of natural gas
 
@@ -12,7 +12,7 @@ The Federal Energy Regulatory Commission shall, after opportunity for presentati
 
 &emsp;(2) whether the public convenience and necessity will be served by the issuance of the requested certificate of transportation.
 
-> Such statement of policy shall also set forth the terms or limitations on which the Commission may condition, pursuant to section 717f of title 15, the issuance of a certificate of transportation under such statement of policy. To the maximum extent practicable, such statement shall be promulgated and published within one year after September 18, 1978.
+> Such statement of policy shall also set forth the terms or limitations on which the Commission may condition, pursuant to section 717f of title15, the issuance of a certificate of transportation under such statement of policy. To the maximum extent practicable, such statement shall be promulgated and published within one year after September 18, 1978.
 
 #### (c) Definitions
 

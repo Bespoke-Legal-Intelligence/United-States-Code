@@ -4,7 +4,7 @@
 
 The Secretary is authorized and directed to—
 
-&emsp;(1) transfer not to exceed two hundred and fifty thousand acres of lands under the jurisdiction of the Bureau of Land Management within the State <sup>1</sup> of Arizona and New Mexicoto the Navajo Tribe: <i>Provided</i>, That, in order to facilitate such transfer, the Secretary is authorized to exchange such lands for State or private lands of equal value or, if they are not equal, the values shall be equalized by the payment of money to the grantor or to the Secretary as the circumstances require so long as payment does not exceed 25 per centum of the total value of the lands transferred out of Federal ownership. The Secretary shall try to reduce the payment to as small an amount as possible.
+&emsp;(1) transfer not to exceed two hundred and fifty thousand acres of lands under the jurisdiction of the Bureau of Land Management within the State <sup>1</sup> of Arizona and New Mexico to the Navajo Tribe: <i>Provided</i>, That, in order to facilitate such transfer, the Secretary is authorized to exchange such lands for State or private lands of equal value or, if they are not equal, the values shall be equalized by the payment of money to the grantor or to the Secretary as the circumstances require so long as payment does not exceed 25 per centum of the total value of the lands transferred out of Federal ownership. The Secretary shall try to reduce the payment to as small an amount as possible.
 
 &emsp;(2) <sup>2</sup> on behalf of the United States, accept title to not to exceed one hundred and fifty thousand acres of private lands acquired by the Navajo Tribe. Title thereto shall be taken in the name of the United States in trust for the benefit of the Navajo Tribe as a part of the Navajo Reservation.
 
@@ -32,7 +32,7 @@ Payments being made to any State or local government pursuant to the provisions 
 
 (1) For a period of three years after July 8, 1980, the Secretary shall not accept title to lands acquired pursuant to subsection (a)(2) <sup>4</sup> of this section unless fee title to both surface and subsurface has been acquired or the owner of the subsurface interest consents to the acceptance of the surface interest in trust by the Secretary.
 
-(2) If, ninety days prior to the expiration of such three year period, the full entitlement of private lands has not been acquired by the Navajo Tribe and accepted by the Secretary in trustfor the Navajo Tribe under the restrictions of paragraph (1) of this subsection, the Commissioner, after public notice, shall, within thirty days, make a report thereon to the House Committee on Interior and Insular Affairs and the Senate Select Committee on Indian Affairs.
+(2) If, ninety days prior to the expiration of such three year period, the full entitlement of private lands has not been acquired by the Navajo Tribe and accepted by the Secretary in trust for the Navajo Tribe under the restrictions of paragraph (1) of this subsection, the Commissioner, after public notice, shall, within thirty days, make a report thereon to the House Committee on Interior and Insular Affairs and the Senate Select Committee on Indian Affairs.
 
 (3) In any case where the Secretary accepts, in trust, title to the surface of lands acquired pursuant to subsection (a)(2) <sup>4</sup> of this section where the subsurface interest is owned by third parties, the trust status of such surface ownership and the inclusion of the land within the Navajo Reservation shall not impair any existing right of the subsurface owner to develop the subsurface interest and to have access to the surface for the purpose of such development.
 
@@ -86,7 +86,7 @@ Subsecs. (c) to (i). Pub. L. 96–305 added subsecs. (c) to (i).
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 Select Committee on Indian Affairs of the Senate redesignated Committee on Indian Affairs of the Senate by section 25 of Senate Resolution No. 71, Feb. 25, 1993, One Hundred Third Congress.
 

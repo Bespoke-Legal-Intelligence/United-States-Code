@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) at a minimum, annual increases in the number or percentage of children making progress in learning English;
 
-&emsp;&emsp;&emsp;(ii) at a minimum, annual increases in the number or percentage of children attaining English proficiency by the end of each school year, as determined by a validand reliable assessment of English proficiency consistent with section 6311(b)(7) of this title; and
+&emsp;&emsp;&emsp;(ii) at a minimum, annual increases in the number or percentage of children attaining English proficiency by the end of each school year, as determined by a valid and reliable assessment of English proficiency consistent with section 6311(b)(7) of this title; and
 
 &emsp;&emsp;&emsp;(iii) making adequate yearly progress for limited English proficient children as described in section 6311(b)(2)(B) of this title; and
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(D) require such entity to utilize such strategies and activities; and
 
-&emsp;&emsp;(E) develop, in consultation with the entity, a plan to incorporate strategies and methodologies, based on scientifically based research, to improve the specific program or method of instruction provided to limited English proficient children.
+&emsp;&emsp;(E) develop, in consultation with the entity, a plan to incorporate strategies andmethodologies, based on scientifically based research, to improve the specific program or method of instruction provided to limited English proficient children.
 
 #### (4) Accountability
 

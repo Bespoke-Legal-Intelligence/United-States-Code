@@ -8,7 +8,7 @@
 
 &emsp;&emsp;&emsp;<b>(3) Tobacco, snuff, cigars and cigarettes, see chapter 52.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 831; Pub. L. 88–36, title II, §201(d), June 4, 1963, 77 Stat. 54; Pub. L. 89–44, title VI, §601(f), June 21, 1965, 79 Stat. 155;Pub. L. 91–513, title III, §1102(c), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 93–490, §3(b)(6), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIX, §§1904(b)(5)(B), (7)(A), (8)(B), (9)(A), 1952(n)(1), Oct. 4, 1976, 90 Stat. 1815, 1816, 1846.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 831; Pub. L. 88–36, title II, §201(d), June 4, 1963, 77 Stat. 54; Pub. L. 89–44, title VI, §601(f), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, §1102(c), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 93–490, §3(b)(6), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIX, §§1904(b)(5)(B), (7)(A), (8)(B), (9)(A), 1952(n)(1), Oct. 4, 1976, 90 Stat. 1815, 1816, 1846.)
 
 #### Amendments
 

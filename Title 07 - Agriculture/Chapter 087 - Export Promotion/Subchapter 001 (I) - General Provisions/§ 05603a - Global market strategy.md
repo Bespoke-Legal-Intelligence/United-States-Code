@@ -24,5 +24,9 @@ The consultations under subsection (a) of this section shall include a review of
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Agricultural Trade Act of 1978 which comprises this chapter.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “removes”.</i>
 

@@ -96,7 +96,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 #### (e) Database on security clearances
 
-(1) Not later than 12 months after December 17, 2004, the Director of the Office of Personnel Management shall, in cooperation with the heads of the entities selected pursuant to subsections (b) and (c) of this section, establish and commence operating and maintaining an integrated, secure, database into which appropriate data relevant to the granting, denial, or revocation of a security clearance or access pertaining to military, civilian, or government contractor personnel shall be entered from all authorized investigative and adjudicative agencies.
+(1) Not later than 12 months after December 17, 2004, the Director of the Office of Personnel Management shall, in cooperation with theheads of the entities selected pursuant to subsections (b) and (c) of this section, establish and commence operating and maintaining an integrated, secure, database into which appropriate data relevant to the granting, denial, or revocation of a security clearance or access pertaining to military, civilian, or government contractor personnel shall be entered from all authorized investigative and adjudicative agencies.
 
 (2) The database under this subsection shall function to integrate information from existing Federal clearance tracking systems from other authorized investigative and adjudicative agencies into a single consolidated database.
 
@@ -154,7 +154,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 (2) Each report shall include, for the period covered by such report—
 
-&emsp;(A) the periods of time required by the authorized investigative agencies and authorized adjudicative agencies for conducting investigations, adjudicating cases, and granting clearances, from date of submission to ultimate disposition and notification to the subject and the subject's employer;
+&emsp;(A) the periods of time required by the authorized investigative agencies and authorizedadjudicative agencies for conducting investigations, adjudicating cases, and granting clearances, from date of submission to ultimate disposition and notification to the subject and the subject's employer;
 
 &emsp;(B) a discussion of any impediments to the smooth and timely functioning of the requirements of this section; and
 
@@ -175,6 +175,10 @@ Executive Order 12958, referred to in subsec. (a)(4)(A), is set out as a note un
 #### Codification
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004 and not as part of the National Security Act of 1947 which comprises this chapter.
+
+#### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Security Clearances for Transition Team Members
 

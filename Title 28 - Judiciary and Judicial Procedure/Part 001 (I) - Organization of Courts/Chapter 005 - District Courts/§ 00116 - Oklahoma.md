@@ -24,7 +24,7 @@ Oklahoma is divided into three judicial districts to be known as the Northern, E
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§182, 182a (Mar. 3, 1911, ch. 231, §101, 36 Stat. 1122; Feb. 20, 1917, ch. 102, 39Stat. 927; June 13, 1918, ch. 98, 40 Stat. 604; Feb. 26, 1919, ch. 54, 40 Stat. 1184; June 5, 1924, ch. 259, 43 Stat. 387; Jan. 10, 1925, chs. 68, 69, 43 Stat. 730, 731; Feb. 16, 1925, ch. 233, §1, 43 Stat. 945; May 7, 1926, ch. 255, 44 Stat. 408; Apr. 21, 1928, ch. 395, 45 Stat. 440; Mar. 2, 1929, ch. 539, 45 Stat. 1518; June 28, 1930, ch. 714, 46 Stat. 829; May 13, 1936, ch. 386, 49 Stat. 1271; Aug. 12, 1937, ch. 595, 50 Stat. 625).
+Based on title 28, U.S.C., 1940 ed., §§182, 182a (Mar. 3, 1911, ch. 231, §101, 36 Stat. 1122; Feb. 20, 1917, ch. 102, 39 Stat. 927; June 13, 1918, ch. 98, 40 Stat. 604; Feb. 26, 1919, ch. 54, 40 Stat. 1184; June 5, 1924, ch. 259, 43 Stat. 387; Jan. 10, 1925, chs. 68, 69, 43 Stat. 730, 731; Feb. 16, 1925, ch. 233, §1, 43 Stat. 945; May 7, 1926, ch. 255, 44 Stat. 408; Apr. 21, 1928, ch. 395, 45 Stat. 440; Mar. 2, 1929, ch. 539, 45 Stat. 1518; June 28, 1930, ch. 714, 46 Stat. 829; May 13, 1936, ch. 386, 49 Stat. 1271; Aug. 12, 1937, ch. 595, 50 Stat. 625).
 
 Provisions for furnishing rooms and accommodations at Ada, Bartlesville, Mangum, Miami, Okmulgee, and Ponca City were omitted as obsolete, on advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available at such places.
 

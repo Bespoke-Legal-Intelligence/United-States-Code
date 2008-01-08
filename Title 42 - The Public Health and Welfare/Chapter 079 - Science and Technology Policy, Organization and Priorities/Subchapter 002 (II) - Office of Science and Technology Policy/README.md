@@ -13,3 +13,5 @@
 - [&sect; 06616 - Additional functions of Director](%C2%A7%2006616%20-%20Additional%20functions%20of%20Director.md)
 - [&sect; 06617 - Coordination with other organizations](%C2%A7%2006617%20-%20Coordination%20with%20other%20organizations.md)
 - [&sect; 06618 - Major science and technology proposals](%C2%A7%2006618%20-%20Major%20science%20and%20technology%20proposals.md)
+- [&sect; 06619 - National coordination of research infrastructure](%C2%A7%2006619%20-%20National%20coordination%20of%20research%20infrastructure.md)
+- [&sect; 06620 - Release of scientific research results](%C2%A7%2006620%20-%20Release%20of%20scientific%20research%20results.md)

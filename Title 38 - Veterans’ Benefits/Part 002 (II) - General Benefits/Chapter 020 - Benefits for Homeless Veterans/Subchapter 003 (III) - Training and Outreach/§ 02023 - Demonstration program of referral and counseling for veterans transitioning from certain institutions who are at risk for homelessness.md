@@ -22,7 +22,7 @@ Scope of Program.—(1) To the extent practicable, the demonstration program sha
 
 (d)
 
-Duration.—The authority of the Secretaries to provide referral and counseling services under the demonstration program shall cease on the date that is four years after the date of the commencement of the program.
+Duration.—The authority of the Secretaries to provide referral and counseling services under the demonstration program shall cease on September 30, 2007.
 
 (e)
 
@@ -32,9 +32,13 @@ Definition.—In this section, the term “eligible veteran” means a veteran w
 
 &emsp;(2) is at risk for homelessness absent referral and counseling services provided under the demonstration program (as determined under guidelines established by the Secretaries).
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 912.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 912; amended Pub. L. 110–28, title V, §5705, May 25, 2007, 121 Stat. 170.)
 
 #### Prior Provisions
 
 Prior sections 2023 to 2027 were renumbered sections 4303 to 4307 of this title, respectively, and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150.
+
+#### Amendments
+
+2007—Subsec. (d). Pub. L. 110–28 substituted “shall cease on September 30, 2007” for “shall cease on the date that is four years after the date of the commencement of the program”.
 

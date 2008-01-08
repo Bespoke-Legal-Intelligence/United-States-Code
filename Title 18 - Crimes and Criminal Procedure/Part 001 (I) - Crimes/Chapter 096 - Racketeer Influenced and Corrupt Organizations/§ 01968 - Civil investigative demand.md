@@ -16,7 +16,7 @@
 
 &emsp;(1) contain any requirement which would be held to be unreasonable if contained in a subpena duces tecum issued by a court of the United States in aid of a grand jury investigation of such alleged racketeering violation; or
 
-&emsp;(2) require the production of any documentary evidence which would be privileged from disclosure if demanded by a subpena duces tecum issued by a court of the United Statesin aid of a grand jury investigation of such alleged racketeering violation.
+&emsp;(2) require the production of any documentary evidence which would be privileged from disclosure if demanded by a subpena duces tecum issued by a court of the United States in aid of a grand jury investigation of such alleged racketeering violation.
 
 (d) Service of any such demand or any petition filed under this section may be made upon a person by—
 
@@ -34,7 +34,7 @@
 
 (3) The custodian to whom any documentary material is so delivered shall take physical possession thereof, and shall be responsible for the use made thereof and for the return thereof pursuant to this chapter. The custodian may cause the preparation of such copies of such documentary material as may be required for official use under regulations which shall be promulgated by the Attorney General. While in the possession of the custodian, no material so produced shall be available for examination, without the consent of the person who produced such material, by any individual other than the Attorney General. Under such reasonable terms and conditions as the Attorney General shall prescribe, documentary material while in the possession of the custodian shall be available for examination by the person who produced such material or any duly authorized representatives of such person.
 
-(4) Whenever any attorney has been designated to appear on behalf of the United States before any court or grand jury in any case or proceeding involving any alleged violation of this chapter, the custodian may deliver to such attorney such documentary material in the possession of the custodian as such attorney determines to be required for use in the presentation of such case or proceeding on behalf of the United States. Upon the conclusion of any such case or proceeding, such attorney shall return to the custodian any documentary material so withdrawn which has not passed into the control of such court or grand jury through the introduction thereof into the record of such case or proceeding.
+(4) Whenever any attorney has been designated to appear on behalf of the United States beforeany court or grand jury in any case or proceeding involving any alleged violation of this chapter, the custodian may deliver to such attorney such documentary material in the possession of the custodian as such attorney determines to be required for use in the presentation of such case or proceeding on behalf of the United States. Upon the conclusion of any such case or proceeding, such attorney shall return to the custodian any documentary material so withdrawn which has not passed into the control of such court or grand jury through the introduction thereof into the record of such case or proceeding.
 
 (5) Upon the completion of—
 

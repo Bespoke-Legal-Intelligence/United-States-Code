@@ -39,3 +39,4 @@ Part I—General Provisions
 - [&sect; 02378a - Depleted uranium ammunition](%C2%A7%2002378a%20-%20Depleted%20uranium%20ammunition.md)
 - [&sect; 02378b - Limitation on assistance to the Palestinian authority](%C2%A7%2002378b%20-%20Limitation%20on%20assistance%20to%20the%20Palestinian%20authority.md)
 - [&sect; 02378c - Limitation on assistance for the West Bank and Gaza](%C2%A7%2002378c%20-%20Limitation%20on%20assistance%20for%20the%20West%20Bank%20and%20Gaza.md)
+- [&sect; 02378d - Limitation on assistance to security forces](%C2%A7%2002378d%20-%20Limitation%20on%20assistance%20to%20security%20forces.md)

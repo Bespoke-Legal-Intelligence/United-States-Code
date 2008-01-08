@@ -30,9 +30,9 @@
 
 Within 180 days after the filing of an application pursuant to subsection (a) of this section, or such additional period as may be agreed upon by the Secretary and the applicant, the Secretary shall either—
 
-&emsp;(1) issue an order, effective for one year, conditionally approving the application if the Secretary finds that none of the grounds for denying conditional approval, specified in subsection (c) of this section applies and publish a Federal Register notice of the conditional approval, or
+&emsp;(1) issue an order, effective for one year, conditionally approving the application if the Secretary finds that none of the grounds for denying conditional approval, specified in subsection (c) of this section applies and publisha Federal Register notice of the conditional approval, or
 
-&emsp;(2) give the applicant notice of an opportunity for an informal hearing on the questionwhether such application can be conditionally approved.
+&emsp;(2) give the applicant notice of an opportunity for an informal hearing on the question whether such application can be conditionally approved.
 
 #### (c) Order of approval or refusal after hearing
 
@@ -78,7 +78,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 &emsp;(B) on the basis of new information before the Secretary with respect to such drug, evaluated together with the evidence available to the Secretary when the application was conditionally approved, that there is not a reasonable expectation that such drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the labeling thereof.
 
-(3) The Secretary may also, after due notice and opportunity for an informal hearing to the applicant, issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that any of the provisions of section 360b(e)(2) of this title are applicable.
+(3) The Secretary may also, after due notice and opportunity for an informal hearing to the applicant, issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretaryfinds that any of the provisions of section 360b(e)(2) of this title are applicable.
 
 #### (f) Labeling
 

@@ -18,7 +18,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(B) the department of a public secondary school exclusively or principally used for providing career and technical education in not fewer than 5 different occupational fields to individuals who are available for study in preparation for entering the labor market;
 
-&emsp;&emsp;(C) a public or nonprofit technical institution or career and technical education school used exclusively or principally for the provision of career and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits, as regular students, individuals who have completed secondary school and individuals who have left secondary school; or
+&emsp;&emsp;(C) a public or nonprofit technical institution or career and technical education school used exclusively or principally for the provision of career and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits, as regular students, individuals who havecompleted secondary school and individuals who have left secondary school; or
 
 &emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 5 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
 
@@ -100,7 +100,7 @@ Unless otherwise specified, in this chapter:
 
 #### (12) Eligible agency
 
-&emsp;The term “eligible agency” means a State board designated or created consistent with State law as the sole State agency responsible for the administration of career and technical education in the State or for the supervision of the administration of career and technical education in the State.
+&emsp;The term “eligible agency” means a State board designated or created consistent with State law as the sole State agency responsible for the administration of career and technicaleducation in the State or for the supervision of the administration of career and technical education in the State.
 
 #### (13) Eligible institution
 
@@ -220,7 +220,7 @@ Unless otherwise specified, in this chapter:
 
 #### (30) State
 
-&emsp;The term “State”, unless otherwise specified, means each of the several States of theUnited States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.
+&emsp;The term “State”, unless otherwise specified, means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.
 
 #### (31) Support services
 

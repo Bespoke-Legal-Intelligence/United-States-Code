@@ -48,11 +48,15 @@ The terms and conditions prescribed by the Secretary under this subsection shall
 
 #### (i) Termination of new Federal assistance and Federal assistance programs
 
-New Federal assistance for technology applications systems shall terminate upon the appropriate determination by the Secretary, in the annual update of the comprehensive program management plan pursuant to section 9203 ofthis title. Termination of the small wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1985, whichever occurs first. Termination of the large wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1988, whichever occurs first.
+New Federal assistance for technology applications systems shall terminate upon the appropriate determination by the Secretary, in the annual update of the comprehensive program management plan pursuant to section 9203 of this title. Termination of the small wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1985, whichever occurs first. Termination of the large wind energy systems program shall occur when the Secretary finds that such systems have become economically competitive with conventional energy sources, or on September 30, 1988, whichever occurs first.
 
 (Pub. L. 96–345, §6, Sept. 8, 1980, 94 Stat. 1142.)
 
 #### References in Text
 
 Section 1962d–17 of this title, referred to in subsec. (f)(3), was in the original “section 80 of the Water Resources Development Act of 1974 (42 U.S.C. 1962(d)–17(a))”. Section 80 of the Water Resources Development Act of 1974 is classified to section 1962d–17 of this title.
+
+#### Change of Name
+
+The Water and Power Resources Service changed to the Bureau of Reclamation on May 18, 1981. See 155 Dep't of the Interior, Departmental Manual 1.1 (2008 repl.); Sec'y James G. Watt, Dep't of the Interior, Secretarial Order 3064, §§3, 5 (May 18, 1981).
 

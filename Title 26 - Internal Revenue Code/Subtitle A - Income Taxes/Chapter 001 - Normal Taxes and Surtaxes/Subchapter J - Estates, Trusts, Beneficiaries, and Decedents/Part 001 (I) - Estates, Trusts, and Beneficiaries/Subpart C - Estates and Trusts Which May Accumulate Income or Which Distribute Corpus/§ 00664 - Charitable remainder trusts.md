@@ -22,7 +22,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 #### (1) Income tax
 
-&emsp;A charitable remainder annuity trust and a charitable remainder unitrust shall, for anytaxable year, not be subject to any tax imposed by this subtitle.
+&emsp;A charitable remainder annuity trust and a charitable remainder unitrust shall, for any taxable year, not be subject to any tax imposed by this subtitle.
 
 #### (2) Excise tax
 
@@ -56,7 +56,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 &emsp;For purposes of this section, a charitable remainder unitrust is a trust—
 
-&emsp;&emsp;(A) from which a fixed percentage (which is not less than 5 percent nor more than 50 percent) of the net fair market value of its assets, valued annually, is to be paid, not less often than annually, to one or more persons (at least one of which is not an organization described in section 170(c) and, in the case of individuals, only to an individual who is living at the time of the creation of the trust) for a term of years (not in excess of 20 years) or for the life or lives of such individual or individuals,
+&emsp;&emsp;(A) from which a fixed percentage (which is not less than 5 percent nor more than 50percent) of the net fair market value of its assets, valued annually, is to be paid, not less often than annually, to one or more persons (at least one of which is not an organization described in section 170(c) and, in the case of individuals, only to an individual who is living at the time of the creation of the trust) for a term of years (not in excess of 20 years) or for the life or lives of such individual or individuals,
 
 &emsp;&emsp;(B) from which no amount other than the payments described in subparagraph (A) and other than qualified gratuitous transfers described in subparagraph (C) may be paid to or for the use of any person other than an organization described in section 170(c),
 
@@ -84,7 +84,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 #### (e) Valuation for purposes of charitable contribution
 
-For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust orcharitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
+For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
 
 #### (f) Certain contingencies permitted
 
@@ -194,7 +194,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;The Secretary shall adjust annually the $30,000 amount under subparagraph (A)(i) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning October 1, 1993, and any increase under this subparagraph which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
 
-(Added Pub. L. 91–172, title II, §201(e)(1), Dec. 30, 1969, 83 Stat. 562; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title X, §1022(d), July 18, 1984, 98 Stat. 1029; Pub. L. 105–34, title X, §1089(a)(1), (b)(1), (2), (4), title XV, §1530(a), (b), (c)(5), 111 Stat. 960, 1075, 1078; Pub. L. 105–206, title VI, §6010(r), July 22, 1998, 112 Stat. 817; Pub. L. 106–554, §1(a)(7) \[title III, §319(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §632(a)(3)(H), June 7, 2001, 115 Stat. 114; Pub. L. 109–280, title VIII, §868(a), Aug. 17, 2006, 120 Stat. 1025; Pub. L. 109–432, div. A, title IV, §424(a), Dec. 20, 2006, 120 Stat. 2974.)
+(Added Pub. L. 91–172, title II, §201(e)(1), Dec. 30, 1969, 83 Stat. 562; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title X, §1022(d), July 18, 1984, 98 Stat. 1029; Pub. L. 105–34, title X, §1089(a)(1), (b)(1), (2), (4), title XV, §1530(a), (b),\(c)(5), 111 Stat. 960, 1075, 1078; Pub. L. 105–206, title VI, §6010(r), July 22, 1998, 112 Stat. 817; Pub. L. 106–554, §1(a)(7) \[title III, §319(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §632(a)(3)(H), June 7, 2001, 115 Stat. 114; Pub. L. 109–280, title VIII, §868(a), Aug. 17, 2006, 120 Stat. 1025; Pub. L. 109–432, div. A, title IV, §424(a), Dec. 20, 2006, 120 Stat. 2974.)
 
 #### References in Text
 

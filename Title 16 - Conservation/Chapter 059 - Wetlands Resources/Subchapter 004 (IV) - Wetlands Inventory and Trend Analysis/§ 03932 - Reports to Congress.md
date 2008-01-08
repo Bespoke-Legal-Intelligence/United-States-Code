@@ -38,7 +38,7 @@ The reports required under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(A) assistance for normal silviculture activity (such as plowing, seeding, planting, cultivating, minor drainage, or harvesting for the production of fiber or forest products);
 
-&emsp;&emsp;(B) Federal expenditures required incident to studies, evaluations, design, construction,operation, maintenance, or rehabilitation of Federal water resource development activities, including channel improvements;
+&emsp;&emsp;(B) Federal expenditures required incident to studies, evaluations, design, construction, operation, maintenance, or rehabilitation of Federal water resource development activities, including channel improvements;
 
 &emsp;&emsp;(C) the commodity loans and purchases program and cotton, feed grain, wheat, and rice production stabilization programs administered by the Department of Agriculture; and
 

@@ -50,7 +50,7 @@
 
 #### (4) Rounding
 
-&emsp;If the President determines that such action will simplify the computation of reductionsunder paragraph (3), the President may round an annual reduction by an amount equal to the lesser of—
+&emsp;If the President determines that such action will simplify the computation of reductions under paragraph (3), the President may round an annual reduction by an amount equal to the lesser of—
 
 &emsp;&emsp;(A) the difference between the reduction without regard to this paragraph and the next lower whole number; or
 
@@ -62,7 +62,7 @@
 
 #### (6) Other tariff modifications
 
-&emsp;Notwithstanding paragraphs (1)(B), (2)(A), (2)(C), and (3) through (5), and subject to the consultation and layover requirements of section 115 of the Uruguay Round Agreements Act \[19 U.S.C. 3524\], the President may proclaim the modification of any duty or staged rate reduction of any duty set forth in Schedule XX, as defined in section 2(5) of that Act \[19 U.S.C. 3501(5)\], if the United States agrees to such modification or staged rate reduction in a negotiation for the reciprocal elimination or harmonization of duties under the auspices of the World Trade Organization.
+&emsp;Notwithstanding paragraphs (1)(B), (2)(A), (2)(C), and (3) through (5), and subject to the consultation and layover requirements of section 115 of the Uruguay Round Agreements Act \[19 U.S.C. 3524\], the President may proclaim the modification of any duty or staged rate reduction of any duty set forth in Schedule XX, as defined in section 2(5) of that Act \[19 U.S.C. 3501(5)\], if the United States agreesto such modification or staged rate reduction in a negotiation for the reciprocal elimination or harmonization of duties under the auspices of the World Trade Organization.
 
 #### (7) Authority under Uruguay Round Agreements Act not affected
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;(A) a description of all trade agreements that have been negotiated under subsection (b) of this section and the anticipated schedule for submitting such agreements to the Congress for approval;
 
-&emsp;&emsp;(B) a description of the progress that has been made in negotiations to achieve thepurposes, policies, priorities, and objectives of this chapter, and a statement that such progress justifies the continuation of negotiations; and
+&emsp;&emsp;(B) a description of the progress that has been made in negotiations to achieve the purposes, policies, priorities, and objectives of this chapter, and a statement that such progress justifies the continuation of negotiations; and
 
 &emsp;&emsp;(C) a statement of the reasons why the extension is needed to complete the negotiations.
 

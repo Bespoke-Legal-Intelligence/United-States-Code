@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-Except where such authority is expressly given by this title to any person other than an officer or employee of the Treasury Department, the Secretary shall prescribe all needful rules and regulations for the enforcement of this title,including all rules and regulations as may be necessary by reason of any alteration of law in relation to internal revenue.
+Except where such authority is expressly given by this title to any person other than an officer or employee of the Treasury Department, the Secretary shall prescribe all needful rules and regulations for the enforcement of this title, including all rules and regulations as may be necessary by reason of any alteration of law in relation to internal revenue.
 
 #### (b) Retroactivity of regulations
 
@@ -90,7 +90,7 @@ Except to the extent otherwise provided by this title, any election under this t
 
 1998—Subsec. (d). Pub. L. 105–206 struck out “by regulations or forms” before “prescribe”.
 
-1996—Subsec. (b). Pub. L. 104–168 struck out “or rulings” after “regulations” in heading and amended text generally. Prior to amendment, text read as follows:“The Secretary may prescribe the extent, if any, to which any ruling or regulation, relating to the internal revenue laws, shall be applied without retroactive effect.”
+1996—Subsec. (b). Pub. L. 104–168 struck out “or rulings” after “regulations” in heading and amended text generally. Prior to amendment, text read as follows: “The Secretary may prescribe the extent, if any, to which any ruling or regulation, relating to the internal revenue laws, shall be applied without retroactive effect.”
 
 1990—Subsec. (f). Pub. L. 101–508 substituted heading for one which read “Impact of regulations on small business reviewed” and amended text generally. Prior to amendment, text read as follows: “After the publication of any proposed regulation by the Secretary and before the promulgation of any final regulation by the Secretary which does not supersede a proposed regulation, the Secretary shall submit such regulation to the Administrator of the Small Business Administration for comment on the impact of such regulation on small business. The Administrator shall have 4 weeks from the date of submission to respond.”
 

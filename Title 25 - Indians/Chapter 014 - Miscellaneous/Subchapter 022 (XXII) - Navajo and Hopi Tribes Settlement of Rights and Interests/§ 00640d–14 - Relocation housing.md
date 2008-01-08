@@ -36,7 +36,7 @@ Notwithstanding any other provision of law to the contrary, the Commissioner sha
 
 #### (g) Appeals of eligibility determinations
 
-Notwithstanding any other provision of law, appeals from any eligibility determination of the Relocation Commission, irrespective of the amount in controversy, shall be brought in theUnited States District Court for the District of Arizona.
+Notwithstanding any other provision of law, appeals from any eligibility determination of the Relocation Commission, irrespective of the amount in controversy, shall be brought in the United States District Court for the District of Arizona.
 
 (Pub. L. 93–531, §15, Dec. 22, 1974, 88 Stat. 1719; Pub. L. 96–305, §7, July 8, 1980, 94 Stat. 932; Pub. L. 100–666, §§4(b), 10, Nov. 16, 1988, 102 Stat. 3930, 3934.)
 

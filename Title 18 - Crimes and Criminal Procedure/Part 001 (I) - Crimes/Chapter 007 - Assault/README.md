@@ -15,10 +15,13 @@
 |  |  |
 | :--- | ---: |
 | [118\.](%C2%A7%2000118%20-%20Interference%20with%20certain%20protective%20functions.md) | Interference with certain protective functions. |
+| [119\.](%C2%A7%2000119%20-%20Protection%20of%20individuals%20performing%20certain%20official%20duties.md) | Protection of individuals performing certain official duties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–177, title II, §202(b), Jan. 7, 2008, 121 Stat. 2537, added item 119.
 
 2007—Pub. L. 109–472, §4(b), Jan. 11, 2007, 120 Stat. 3555, added item 118.
 
@@ -47,3 +50,4 @@
 - [&sect; 00116 - Female genital mutilation](%C2%A7%2000116%20-%20Female%20genital%20mutilation.md)
 - [&sect; 00117 - Domestic assault by an habitual offender](%C2%A7%2000117%20-%20Domestic%20assault%20by%20an%20habitual%20offender.md)
 - [&sect; 00118 - Interference with certain protective functions](%C2%A7%2000118%20-%20Interference%20with%20certain%20protective%20functions.md)
+- [&sect; 00119 - Protection of individuals performing certain official duties](%C2%A7%2000119%20-%20Protection%20of%20individuals%20performing%20certain%20official%20duties.md)

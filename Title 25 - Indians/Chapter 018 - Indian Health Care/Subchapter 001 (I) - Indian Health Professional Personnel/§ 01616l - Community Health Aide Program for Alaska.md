@@ -6,7 +6,7 @@ Under the authority of section 13 of this title, the Secretary shall maintain a 
 
 &emsp;(1) provides for the training of Alaska Natives as health aides or community health practitioners;
 
-&emsp;(2) uses such aides or practitioners in the provision of health care, health promotion, and disease prevention services to Alaska Natives living in villages in rural Alaska; and
+&emsp;(2) uses such aides or practitioners in the provision of health care, health promotion,and disease prevention services to Alaska Natives living in villages in rural Alaska; and
 
 &emsp;(3) provides for the establishment of teleconferencing capacity in health clinics located in or near such villages for use by community health aides or community health practitioners.
 

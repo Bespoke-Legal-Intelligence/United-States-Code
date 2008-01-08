@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), the United States, the State of New Mexico, and local public bodies shall have the same civil adjudicatory, regulatory, and taxing jurisdiction over the Area as was exercised by those entities on the day before February 20, 2003.
+&emsp;Except as provided in paragraphs (2) and (3), the United States, the State of New Mexico,and local public bodies shall have the same civil adjudicatory, regulatory, and taxing jurisdiction over the Area as was exercised by those entities on the day before February 20, 2003.
 
 #### (2) Jurisdiction of the Pueblo
 

@@ -8,7 +8,7 @@ The President, with respect to any agreement that is subject to the provisions o
 
 &emsp;(2) before and after submission of the notice, consult regarding the negotiations with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, such other committees of the House and Senate as the President deems appropriate, and the Congressional Oversight group convened under section 3807 of this title; and
 
-&emsp;(3) upon the request of a majority of the members of the Congressional Oversight Group under section 3807(c) of this title, meet with the Congressional Oversight Group before initiating the negotiations or at any other time concerning the negotiations.
+&emsp;(3) upon the request of a majority of the members of the Congressional OversightGroup under section 3807(c) of this title, meet with the Congressional Oversight Group before initiating the negotiations or at any other time concerning the negotiations.
 
 #### (b) Negotiations regarding agriculture
 
@@ -48,7 +48,7 @@ The President, with respect to any agreement that is subject to the provisions o
 
 #### (c) Negotiations regarding textiles
 
-Before initiating or continuing negotiations the subject matter of which is directly relatedto textiles and apparel products with any country, the President shall assess whether United States tariffs on textile and apparel products that were bound under the Uruguay Round Agreements are lower than the tariffs bound by that country and whether the negotiation provides an opportunity to address any such disparity. The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
+Before initiating or continuing negotiations the subject matter of which is directly related to textiles and apparel products with any country, the President shall assess whether United States tariffs on textile and apparel products that were bound under the Uruguay Round Agreements are lower than the tariffs bound by that country and whether the negotiation provides an opportunity to address any such disparity. The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
 
 #### (d) Consultation with Congress before agreements entered into
 
@@ -145,6 +145,10 @@ The Tariff Act of 1930, referred to in subsec. (d)(3)(A)(i), is act June 17, 193
 The Trade Act of 1974, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 Sections 2104(d)(3) and 2102(b)(14) of the Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (d)(3)(C)(ii), are classified to subsec. (d)(3) of this section and section 3802(b)(14) of this title, respectively.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Delegation of Functions
 

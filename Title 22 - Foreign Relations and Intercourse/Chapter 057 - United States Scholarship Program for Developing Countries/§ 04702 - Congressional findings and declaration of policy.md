@@ -8,13 +8,13 @@ The Congress finds and declares that—
 
 &emsp;(3) study in United States institutions by foreign students enhances trade and economic relationships by providing strong English language skills and establishing professional and business contacts;
 
-&emsp;(4) students from families of limited financial means have, in the past, largely not had the opportunity to study in the United States, and scholarship programs sponsored by the United States have made no provision for identifying, preparing, or supporting such students for study in the United States;
+&emsp;(4) students from families of limited financial means have, in the past, largely not had the opportunity to study in the United States, and scholarship programs sponsored by the United States have made no provision foridentifying, preparing, or supporting such students for study in the United States;
 
 &emsp;(5) it is essential that the United States citizenry develop its knowledge and understanding of the developing countries and their languages, cultures, and socioeconomic composition as these areas assume an ever larger role in the world community;
 
 &emsp;(6) an undergraduate scholarship program for students of limited financial means from developing countries to study in the United States would complement current assistance efforts in the areas of advanced education and training of people of developing countries in such disciplines as are required for planning and implementation of public and private development activities;
 
-&emsp;(7) the National Bipartisan Commission on Central America has recommended a program of 10,000 United States Government-sponsoredscholarships to bring Central American students to the United States, which program would involve careful targeting to encourage participation by young people from all social and economic classes, would maintain existing admission standards by providing intensive English and other training, and would encourage graduates to return to their home countries after completing their education; and
+&emsp;(7) the National Bipartisan Commission on Central America has recommended a program of 10,000 United States Government-sponsored scholarships to bring Central American students to the United States, which program would involve careful targeting to encourage participation by young people from all social and economic classes, would maintain existing admission standards by providing intensive English and other training, and would encourage graduates to return to their home countries after completing their education; and
 
 &emsp;(8) it is also in the interest of the United States, as well as peaceful cooperation in the Western Hemisphere, that particular attention be given to the students of the Caribbean region.
 

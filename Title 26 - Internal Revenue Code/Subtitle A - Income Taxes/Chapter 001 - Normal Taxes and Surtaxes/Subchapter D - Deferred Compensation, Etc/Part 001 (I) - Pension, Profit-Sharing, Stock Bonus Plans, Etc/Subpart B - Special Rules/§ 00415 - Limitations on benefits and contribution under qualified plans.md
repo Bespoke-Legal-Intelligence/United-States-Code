@@ -48,7 +48,7 @@
 
 #### (D) Adjustment to $160,000 limit where benefit begins after age 65
 
-&emsp;&emsp;If the retirement income benefit under the plan begins after age 65, the determination as to whether the $160,000 limitation set forth in paragraph (1)(A) has been satisfied shall be made, in accordance with regulations prescribed by the Secretary, by increasing the limitation of paragraph (1)(A) so that such limitation (as so increased) equals an annual benefit (beginning when such retirement income benefit begins) which is equivalent to a $160,000 annual benefit beginning at age 65.
+&emsp;&emsp;If the retirement income benefit under the plan begins after age 65, the determination as to whether the $160,000 limitation setforth in paragraph (1)(A) has been satisfied shall be made, in accordance with regulations prescribed by the Secretary, by increasing the limitation of paragraph (1)(A) so that such limitation (as so increased) equals an annual benefit (beginning when such retirement income benefit begins) which is equivalent to a $160,000 annual benefit beginning at age 65.
 
 #### (E) Limitation on certain assumptions
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;In the case of an employee who has less than 10 years of participation in a defined benefit plan, the limitation referred to in paragraph (1)(A) shall be the limitation determined under such paragraph (without regard to this paragraph) multiplied by a fraction—
 
-&emsp;&emsp;&emsp;(i) the numerator of which is the number of years (or part thereof) of participation in the defined benefit plan of the employer, and
+&emsp;&emsp;&emsp;(i) the numerator of which is the number of years (or part thereof) of participationin the defined benefit plan of the employer, and
 
 &emsp;&emsp;&emsp;(ii) the denominator of which is 10.
 
@@ -188,7 +188,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This paragraph shall not apply to any plan unless each employer maintaining the plan elects before the close of the 1st plan year beginning after December 31, 1989, to have this subsection (other than paragraph (2)(G)).
+&emsp;&emsp;&emsp;This paragraph shall not apply to any plan unless each employer maintaining the plan elects before the close of the 1st plan year beginning after December 31, 1989, tohave this subsection (other than paragraph (2)(G)).
 
 #### (ii) Revocation of election
 
@@ -196,7 +196,7 @@
 
 #### (11) Special limitation rule for governmental and multiemployer plans
 
-&emsp;In the case of a governmental plan (as defined in section 414(d)) or a multiemployer plan (as defined in section 414(f)), subparagraph (B) of paragraph (1) shall not apply.Subparagraph (B) of paragraph (1) shall not apply to a plan maintained by an organization described in section 3121(w)(3)(A) except with respect to highly compensated benefits. For purposes of this paragraph, the term “highly compensated benefits” means any benefits accrued for an employee in any year on or after the first year in which such employee is a highly compensated employee (as defined in section 414(q)) of the organization described in section 3121(w)(3)(A). For purposes of applying paragraph (1)(B) to highly compensated benefits, all benefits of the employee otherwise taken into account (without regard to this paragraph) shall be taken into account.
+&emsp;In the case of a governmental plan (as defined in section 414(d)) or a multiemployer plan (as defined in section 414(f)), subparagraph (B) of paragraph (1) shall not apply. Subparagraph (B) of paragraph (1) shall not apply to a plan maintained by an organization described in section 3121(w)(3)(A) except with respect to highly compensated benefits. For purposes of this paragraph, the term “highly compensated benefits” means any benefits accrued for an employee in any year on or after the first year in which such employee is a highly compensated employee (as defined in section 414(q)) of the organization described in section 3121(w)(3)(A). For purposes of applying paragraph (1)(B) to highly compensated benefits, all benefits of the employee otherwise taken into account (without regard to this paragraph) shall be taken into account.
 
 #### (c) Limitation for defined contribution plans
 
@@ -354,7 +354,7 @@
 
 #### (A) $160,000 amount
 
-&emsp;&emsp;Any increase under subparagraph (A) of paragraph (1) which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000. This subparagraph shall also apply for purposes of any provision ofthis title that provides for adjustments in accordance with the method contained in this subsection, except to the extent provided in such provision.
+&emsp;&emsp;Any increase under subparagraph (A) of paragraph (1) which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000. This subparagraph shall also apply for purposes of any provision of this title that provides for adjustments in accordance with the method contained in this subsection, except to the extent provided in such provision.
 
 #### (B) $40,000 amount
 
@@ -432,7 +432,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;For purposes of this paragraph, the term “qualified cost-of-living arrangement” means an arrangement under a defined benefit plan which—
 
-&emsp;&emsp;&emsp;(i) provides a cost-of-living adjustment to a benefit provided under such plan or aseparate plan subject to the requirements of section 412, and
+&emsp;&emsp;&emsp;(i) provides a cost-of-living adjustment to a benefit provided under such plan or a separate plan subject to the requirements of section 412, and
 
 &emsp;&emsp;&emsp;(ii) meets the requirements of subparagraphs (C), (D), (E), and (F) and such other requirements as the Secretary may prescribe.
 
@@ -578,7 +578,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;&emsp;(ii) the distribution rules applicable under this title to the defined benefit governmental plan to which any amounts are so transferred shall apply to such amounts and any benefits attributable to such amounts.
 
-(Added Pub. L. 93–406, title II, §2004(a)(2), Sept. 2, 1974, 88 Stat. 979; amended Pub. L. 94–455, title VIII, §803(b)(4), (f), title XV, §§1501(b)(3),1502(a)(1), 1511(a), title XIX, §§1901(a)(65), (b)(8)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1589, 1735–1737, 1741, 1775, 1794, 1834; Pub. L. 95–600, title I, §§141(f)(7), 152(g), 153(a), Nov. 6, 1978, 92 Stat. 2795, 2800; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VII), (iv)(I), (10)(I), (J)(iii), (11), Apr. 1, 1980, 94 Stat. 199, 200, 203, 204; Pub. L. 96–605, title II, §222(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§311(g)(4), (h)(3), 333(b)(1), Aug. 13, 1981, 95 Stat. 281, 282, 297; Pub. L. 97–248, title II, §§235(a)–(e), 238(d)(5), 251(c)(1), (2), 253(a), Sept. 3, 1982, 96 Stat. 505–507, 513, 530, 532; Pub. L. 98–21, title I, §122(c)(5), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §15, title IV, §491(d)(28)–(32), (e)(6), title (V), §528(a), title VII, §713(a)(1), (3), (d)(4)(B), (7), (k), July 18, 1984, 98 Stat. 505, 850, 853, 876, 955, 956, 958, 960; Pub. L. 99–514, title XI, §§1106(a)–(c)(1), (e)–(g), 1108(g)(5), 1114(b)(12), 1174(d)(1), (2), title XVIII, §§1847(b)(4), 1852(h)(2), (3), 1875(c)(9), (11), 1898(b)(15)(C), 1899A(13), Oct. 22, 1986, 100 Stat. 2420, 2422, 2424, 2425, 2434, 2451, 2518, 2856, 2869, 2895, 2951, 2958; Pub. L. 100–647, title I, §§1011(d)(2), (3), (6), (7), 1018(t)(3)(B), (8)(D), title VI, §§6054(a), 6059(a), Nov. 10, 1988, 102 Stat. 3459, 3460, 3588, 3589, 3696, 3699; Pub. L. 101–239, title VII, §7304(c)(1), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 102–318, title V, §521(b)(23)–(25), July 3, 1992, 106 Stat. 311, 312; Pub. L. 103–465, title VII, §§732(b), 767(b), Dec. 8, 1994, 108 Stat. 5004, 5038; Pub. L. 104–188, title I, §§1434(a), 1444(a), (b)(1), (c), (d), 1446(a), 1449(b), 1452(a), (c)(1)–(6), 1704(t)(75), Aug. 20, 1996, 110 Stat. 1807, 1809–1811, 1814, 1816, 1891; Pub. L. 105–34, title XV, §§1526(a), (b), 1527(a), 1530(c)(3), (4), Aug. 5, 1997, 111 Stat. 1072–1074, 1078; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§611(a), (b), (h), 632(a)(1), (3)(C)–(F), (b)(1), 641(e)(9), (10), 654(a), (b), June 7, 2001, 115 Stat. 96, 97, 100, 113–115, 121, 130, 131; Pub. L. 107–147, title IV, §411(p)(4), Mar. 9, 2002, 116 Stat. 50; Pub. L. 108–218, title I, §101(b)(4), Apr. 10, 2004, 118 Stat. 598; Pub. L. 108–311, title IV, §§404(b)(2), 408(a)(17), Oct. 4, 2004, 118 Stat. 1188, 1192; Pub. L. 109–135, title IV, §§407(b), 412(y), (z), Dec. 21, 2005, 119 Stat. 2635, 2638; Pub. L. 109–280, title III, §303(a), title VIII, §§821(a)–(c), 832(a), 867(a), title IX, §906(b)(1)(A), (B), Aug. 17, 2006, 120 Stat. 921, 997, 1003, 1025, 1051, 1052.)
+(Added Pub. L. 93–406, title II, §2004(a)(2), Sept. 2, 1974, 88 Stat. 979; amended Pub. L. 94–455, title VIII, §803(b)(4), (f), title XV, §§1501(b)(3), 1502(a)(1), 1511(a), title XIX, §§1901(a)(65), (b)(8)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1589, 1735–1737, 1741, 1775, 1794, 1834; Pub. L. 95–600, title I, §§141(f)(7), 152(g), 153(a), Nov. 6, 1978, 92 Stat. 2795, 2800; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VII), (iv)(I), (10)(I), (J)(iii), (11), Apr. 1, 1980, 94 Stat. 199, 200, 203, 204; Pub. L. 96–605, title II, §222(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§311(g)(4), (h)(3), 333(b)(1), Aug. 13, 1981, 95 Stat. 281, 282, 297; Pub. L. 97–248, title II, §§235(a)–(e), 238(d)(5), 251(c)(1), (2), 253(a), Sept. 3, 1982, 96 Stat. 505–507, 513, 530, 532; Pub. L. 98–21, title I, §122(c)(5), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §15, title IV, §491(d)(28)–(32), (e)(6), title (V), §528(a), title VII, §713(a)(1), (3), (d)(4)(B), (7), (k), July 18, 1984, 98 Stat. 505, 850, 853, 876, 955, 956, 958, 960; Pub. L. 99–514, title XI, §§1106(a)–(c)(1), (e)–(g), 1108(g)(5), 1114(b)(12), 1174(d)(1), (2), title XVIII, §§1847(b)(4), 1852(h)(2), (3), 1875(c)(9), (11), 1898(b)(15)(C), 1899A(13), Oct. 22, 1986, 100 Stat. 2420, 2422, 2424, 2425, 2434, 2451, 2518, 2856, 2869, 2895, 2951, 2958; Pub. L. 100–647, title I, §§1011(d)(2), (3), (6), (7), 1018(t)(3)(B), (8)(D), title VI, §§6054(a), 6059(a), Nov. 10, 1988, 102 Stat. 3459, 3460, 3588, 3589, 3696, 3699; Pub. L. 101–239, title VII, §7304(c)(1), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 102–318, title V, §521(b)(23)–(25), July 3, 1992, 106 Stat. 311, 312; Pub. L. 103–465, title VII, §§732(b), 767(b), Dec. 8, 1994, 108 Stat. 5004, 5038; Pub. L. 104–188, title I, §§1434(a), 1444(a), (b)(1), (c), (d), 1446(a), 1449(b), 1452(a), (c)(1)–(6), 1704(t)(75), Aug. 20, 1996, 110 Stat. 1807, 1809–1811, 1814, 1816, 1891; Pub. L. 105–34, title XV, §§1526(a), (b), 1527(a), 1530(c)(3), (4), Aug. 5, 1997, 111 Stat. 1072–1074, 1078; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§611(a), (b), (h), 632(a)(1), (3)(C)–(F), (b)(1), 641(e)(9), (10), 654(a), (b), June 7, 2001, 115 Stat. 96, 97, 100, 113–115, 121, 130, 131; Pub. L. 107–147, title IV, §411(p)(4), Mar. 9, 2002, 116 Stat. 50; Pub. L. 108–218, title I, §101(b)(4), Apr. 10, 2004, 118 Stat. 598; Pub. L. 108–311, title IV, §§404(b)(2), 408(a)(17), Oct. 4, 2004, 118 Stat. 1188, 1192; Pub. L. 109–135, title IV, §§407(b), 412(y), (z), Dec. 21, 2005, 119 Stat. 2635, 2638; Pub. L. 109–280, title III, §303(a), title VIII, §§821(a)–(c), 832(a), 867(a), title IX, §906(b)(1)(A), (B), Aug. 17, 2006, 120 Stat. 921, 997, 1003, 1025, 1051, 1052.)
 
 #### References in Text
 
@@ -624,7 +624,7 @@ Subsec. (n)(3)(C). Pub. L. 109–135, §412(z), substituted “clause” for “
 
 Subsec. (c)(7)(C). Pub. L. 108–311, §408(a)(17), substituted “subparagraph (B)” for “subparagraph (D)”.
 
-Subsec. (d)(4)(A). Pub. L. 108–311, §404(b)(2), inserted at end “This subparagraph shall also apply for purposes of any provision of this title that provides for adjustments in accordance with the method contained in thissubsection, except to the extent provided in such provision.”
+Subsec. (d)(4)(A). Pub. L. 108–311, §404(b)(2), inserted at end “This subparagraph shall also apply for purposes of any provision of this title that provides for adjustments in accordance with the method contained in this subsection, except to the extent provided in such provision.”
 
 2002—Subsec. (c)(7). Pub. L. 107–147 amended heading and text of par. (7) generally, substituting provisions relating to special rules relating to church plans for provisions relating to certain contributions by church plans not treated as exceeding limit and adding provisions relating to foreign missionaries and definitions of “church” and “convention or association of churches”.
 
@@ -1130,7 +1130,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 “(2)
 
-Collective bargaining agreements.—In the case of a plan in effect before March 1, 1986, pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers, the amendments made by this section (other than subsection (d)) shall not apply to contributions or benefits pursuant to such agreement in years beginning before October 1, 1991.
+Collective bargaining agreements.—In the case of a plan in effect before March 1, 1986, pursuantto 1 or more collective bargaining agreements between employee representatives and 1 or more employers, the amendments made by this section (other than subsection (d)) shall not apply to contributions or benefits pursuant to such agreement in years beginning before October 1, 1991.
 
 “(3)
 
@@ -1156,7 +1156,7 @@ Special rule.—For purposes of determining the amount of any individual's curre
 
 &emsp;&emsp;&emsp;“(II) no cost-of-living adjustment occurring after May 5, 1986,
 
-&nbsp;&nbsp;shall be taken into account. For purposes of subclause (I), any change in the terms and conditionsof the plan pursuant to a collective bargaining agreement ratified before May 6, 1986, shall be treated as a change made before May 6, 1986.
+&nbsp;&nbsp;shall be taken into account. For purposes of subclause (I), any change in the terms and conditions of the plan pursuant to a collective bargaining agreement ratified before May 6, 1986, shall be treated as a change made before May 6, 1986.
 
 “(4)
 
@@ -1258,7 +1258,7 @@ Right to higher accrued defined benefit preserved.—
 
 &emsp;“(A)
 
-In general.—In the case of an individual who is a participant before January 1, 1983, in a definedbenefit plan which is in existence on July 1, 1982, and with respect to which the requirements of section 415 of such Code have been met for all years, if such individual's current accrued benefit under such plan exceeds the limitation of subsection (b) of section 415 of the Internal Revenue Code of 1986 (as amended by this section), then (in the case of such plan) for purposes of subsections (b) and (e) of such section, the limitation of such subsection (b) with respect to such individual shall be equal to such current accrued benefit.
+In general.—In the case of an individual who is a participant before January 1, 1983, in a defined benefit plan which is in existence on July 1, 1982, and with respect to which the requirements of section 415 of such Code have been met for all years, if such individual's current accrued benefit under such plan exceeds the limitation of subsection (b) of section 415 of the Internal Revenue Code of 1986 (as amended by this section), then (in the case of such plan) for purposes of subsections (b) and (e) of such section, the limitation of such subsection (b) with respect to such individual shall be equal to such current accrued benefit.
 
 &emsp;“(B)
 
@@ -1342,7 +1342,7 @@ General rule.—The amendments made by this section \[enacting this section, ame
 
 Transition rule for defined benefit plans.—In the case of an individual who was an active participant in a defined benefit plan before October 3, 1973, if—
 
-&emsp;&emsp;“(A) the annual benefit (within the meaning of section 415(b)(2) of the Internal Revenue Code of1986 \[formerly I.R.C. 1954\]) payable to such participant on retirement does not exceed 100 percent of his annual rate of compensation on the earlier of (i) October 2, 1973, or (ii) the date on which he separated from the service of the employer,
+&emsp;&emsp;“(A) the annual benefit (within the meaning of section 415(b)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) payable to such participant on retirement does not exceed 100 percent of his annual rate of compensation on the earlier of (i) October 2, 1973, or (ii) the date on which he separated from the service of the employer,
 
 &emsp;&emsp;“(B) such annual benefit is no greater than the annual benefit which would have been payable to such participant on retirement if (i) all the terms and conditions of such plan in existence on such date had remained in existence until such retirement, and (ii) his compensation taken into account for any period after October 2, 1973, had not exceeded his annual rate of compensation on such date, and
 

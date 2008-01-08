@@ -54,7 +54,7 @@ The Administrator may provide liability insurance for, or indemnification to, th
 
 #### (B) Liability for negligence
 
-&emsp;&emsp;A reciprocal waiver under paragraph (1) may not absolve any party of liability toany natural person (including, but not limited to, a natural person who is an employee of the United States, the developer, the cooperating party, or their respective subcontractors) or such a natural person's estate, survivors, or subrogees for negligence, except with respect to a subrogee that is a party to the waiver or has otherwise agreed to be bound by the terms of the waiver.
+&emsp;&emsp;A reciprocal waiver under paragraph (1) may not absolve any party of liability to any natural person (including, but not limited to, a natural person who is an employee of the United States, the developer, the cooperating party, or their respective subcontractors) or such a natural person's estate, survivors, or subrogees for negligence, except with respect to a subrogee that is a party to the waiver or has otherwise agreed to be bound by the terms of the waiver.
 
 #### (C) Indemnification for damages
 

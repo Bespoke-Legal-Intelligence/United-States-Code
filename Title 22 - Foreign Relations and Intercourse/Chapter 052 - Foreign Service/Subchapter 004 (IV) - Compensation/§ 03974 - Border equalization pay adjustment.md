@@ -14,7 +14,7 @@ For purposes of this section, the term “employee” means a person who—
 
 #### (c) Treatment as basic pay
 
-An equalization pay adjustment paid under this section shall be considered to be part ofbasic pay for the same purposes for which comparability payments are considered to be part of basic pay under section 5304 of title 5.
+An equalization pay adjustment paid under this section shall be considered to be part of basic pay for the same purposes for which comparability payments are considered to be part of basic pay under section 5304 of title 5.
 
 #### (d) Regulations
 

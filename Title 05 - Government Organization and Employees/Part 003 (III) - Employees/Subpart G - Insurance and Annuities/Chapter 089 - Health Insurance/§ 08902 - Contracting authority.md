@@ -24,7 +24,7 @@
 
 (j) Each contract under this chapter shall require the carrier to agree to pay for or provide a health service or supply in an individual case if the Office finds that the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title is entitled thereto under the terms of the contract.
 
-(k)(1) When a contract under this chapter requires payment or reimbursement for services which may be performed by a clinical psychologist, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/clinical specialist, licensed or certified as such under Federal or State law, as applicable, or by a qualified clinical social worker as defined in section 8901(11), an employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title covered by the contract shall be free to select, and shall have direct access to, such a clinical psychologist, qualified clinical social worker, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/nurse clinical specialist without supervision or referral by another health practitioner and shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed.
+(k)(1) When a contract under this chapter requires payment or reimbursement for services which may be performed by a clinical psychologist, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/clinical specialist, licensed or certified as such under Federal or State law, as applicable, or by a qualified clinical social worker as defined in section 8901(11), an employee, annuitant, familymember, former spouse, or person having continued coverage under section 8905a of this title covered by the contract shall be free to select, and shall have direct access to, such a clinical psychologist, qualified clinical social worker, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/nurse clinical specialist without supervision or referral by another health practitioner and shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed.
 
 (2) Nothing in this subsection shall be considered to preclude a health benefits plan from providing direct access or direct payment or reimbursement to a provider in a health care practice or profession other than a practice or profession listed in paragraph (1), if such provider is licensed or certified as such under Federal or State law.
 
@@ -90,7 +90,7 @@ Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1416, enacted sect
 
 1998—Subsec. (k)(2), (3). Pub. L. 105–266, §8, added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (m)(1). Pub. L. 105–266, §3(c), added par. (1) and struck out former par. (1) which read as follows: “The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans to the extent that such law or regulation is inconsistent with such contractual provisions.”
+Subsec. (m)(1). Pub. L. 105–266, §3(c), added par. (1) and struck out former par. (1) which read as follows:“The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans to the extent that such law or regulation is inconsistent with such contractual provisions.”
 
 1997—Subsec. (<i>o</i>). Pub. L. 105–12 added subsec. (<i>o</i>).
 
@@ -100,7 +100,7 @@ Subsec. (m)(1). Pub. L. 105–266, §3(c), added par. (1) and struck out former 
 
 “(2) The provisions of this subsection shall not apply to group practice prepayment plans.”
 
-1990—Subsec. (k)(1). Pub. L. 101–509 substituted “performed by a clinical psychologist, optometrist, nurse midwife, or nurse practitioner/clinical specialist” for“performed by a clinical psychologist or optometrist” and “qualified clinical social worker, optometrist, nurse midwife, or nurse practitioner/nurse clinical specialist” for “qualified clinical social worker or optometrist”.
+1990—Subsec. (k)(1). Pub. L. 101–509 substituted “performed by a clinical psychologist, optometrist, nurse midwife, or nurse practitioner/clinical specialist” for “performed by a clinical psychologist or optometrist” and “qualified clinical social worker, optometrist, nurse midwife, or nurse practitioner/nurse clinical specialist” for “qualified clinical social worker or optometrist”.
 
 Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 
 #### Effective Date of 1980 Amendment
 
-Section 5(b) of Pub. L. 96–179, as amended by Pub. L. 99–251, title I, §106(a)(2), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by section 3 \[amending this section\] shall apply to services providedafter December 31, 1979, under any contract entered into or renewed after December 31, 1979.”
+Section 5(b) of Pub. L. 96–179, as amended by Pub. L. 99–251, title I, §106(a)(2), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by section 3 \[amending this section\] shall apply to services provided after December 31, 1979, under any contract entered into or renewed after December 31, 1979.”
 
 #### Effective Date of 1978 Amendments
 

@@ -18,7 +18,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(B) A program to provide and administer fellowships and grants to research personnel in order to work and study in association with the National Institutes of Health. Such fellowships and grants may include stipends, travel, health insurance benefits and other appropriate expenses. The recipients of fellowships shall be selected by the donors and the Foundation upon the recommendation of the National Institutes of Health employees in the laboratory where the fellow would serve, and shall be subject to the agreement of the Director of the National Institutes of Health and the Executive Director of the Foundation.
 
-&emsp;&emsp;(C) A program to collect funds for pediatric pharmacologic research and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21.
+&emsp;&emsp;(C) A program to collect funds for pediatric pharmacologic research and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21).<sup>1</sup>
 
 &emsp;&emsp;(D) Supplementary programs to provide for—
 
@@ -86,7 +86,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;(A) The ex officio members of the Board under paragraph (1)(B) shall designate an individual to serve as the initial Chair of the Board.
 
-&emsp;(B) Upon the termination of the term of service of the initial Chair of the Board, the appointed members of the Board shall elect amember of the Board to serve as the Chair of the Board.
+&emsp;(B) Upon the termination of the term of service of the initial Chair of the Board, the appointed members of the Board shall elect a member of the Board to serve as the Chair of the Board.
 
 #### (3) Terms and vacancies
 
@@ -200,7 +200,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (4) Reports
 
-&emsp;(A) Not later than 5 months following the end of each fiscal year, the Foundation shall publish a report describing the activities of the Foundation during the preceding fiscal year. Each such report shall include for the fiscal year involved a comprehensive statement of the operations, activities, financial condition, and accomplishments of the Foundation, including an accounting of the use of amounts transferred under subsection (<i>l</i>).
+&emsp;(A) Not later than 5 months following the end of each fiscal year, the Foundation shall publish a report describing the activities of the Foundation during the preceding fiscal year. Each such report shall include for thefiscal year involved a comprehensive statement of the operations, activities, financial condition, and accomplishments of the Foundation, including an accounting of the use of amounts transferred under subsection (<i>l</i>).
 
 &emsp;(B) With respect to the financial condition of the Foundation, each report under subparagraph (A) shall include the source, and a description of, all gifts or grants to the Foundation of real or personal property, and the source and amount of all gifts or grants to the Foundation of money. Each such report shall include a specification of any restrictions on the purposes for which gifts or grants to the Foundation may be used.
 
@@ -226,7 +226,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (8) National Institutes of Health Amendments of 1990
 
-&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>1</sup>
+&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>2</sup>
 
 #### (9) Limitation of activities
 
@@ -254,7 +254,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (iv) Action by the Commissioner of Food and Drugs
 
-&emsp;&emsp;&emsp;The Commissioner of Food and Drugs shall take appropriate action in response to a report received under clause (iii) in accordance with paragraphs (7) through (12) of section 284m(c) of this title, including negotiating with the holders of approved applications for the drugs studied for any labeling changes that the Commissioner determines to be appropriate and requests the holders to make.
+&emsp;&emsp;&emsp;The Commissioner of Food and Drugs shall take appropriate action in response to a report received under clause (iii) in accordance with paragraphs (7) through (12) <sup>3</sup> of section 284m(c) of this title, including negotiating with the holders of approved applications for the drugs studied for any labeling changes that the Commissioner determines to be appropriate and requests the holders to make.
 
 #### (C) Applicability
 
@@ -268,7 +268,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (1) Applicability of certain standards to non-Federal employees
 
-&emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
+&emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, hasbeen executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
 
 #### (2) Support services
 
@@ -278,7 +278,7 @@ No participant in the program established under this part shall exercise any adm
 
 From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.
 
-(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696.)
+(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889.)
 
 #### References in Text
 
@@ -286,13 +286,17 @@ Section 109(16) of the Ethics in Government Act of 1978, referred to in subsec. 
 
 The National Institutes of Health Amendments of 1990, referred to in subsec. (j)(8), is Pub. L. 101–613, Nov. 16, 1990, 104 Stat. 3224, as amended, which enacted this section, section 285g–4 of this title, and provisions set out as notes under section 201 and 285g–4 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of this title and Tables.
 
+Section 284m of this title, referred to in subsec. (j)(9)(B)(iv), was amended generally by Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886, and, as so amended, does not contain a par. (12) in subsec. (c).
+
 #### Prior Provisions
 
 A prior section 499 of act July 1, 1944, was classified to section 289h of this title prior to repeal by Pub. L. 103–43.
 
 #### Amendments
 
-2007—Subsec. (d)(1)(D)(ii). Pub. L. 109–482, §107(1)(A)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.”
+2007—Subsec. (c)(1)(C). Pub. L. 110–85 substituted “and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21” for “and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21”. Amendment was executed as the probable intent of Congress, notwithstanding errors in the directory language in quoting the text in the original to be stricken out.
+
+Subsec. (d)(1)(D)(ii). Pub. L. 109–482, §107(1)(A)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.”
 
 Subsec. (d)(1)(G). Pub. L. 109–482, §107(1)(A)(ii), inserted “appointed” after “that the number of”.
 
@@ -346,7 +350,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 107–109, §13(5), redesignated subsec. (m) a
 
 1998—Subsec. (a). Pub. L. 105–392, §418(2)(A), substituted “Foundation for the National Institutes of Health” for “National Foundation for Biomedical Research”.
 
-Subsec. (k)(10). Pub. L. 105–392, §418(2)(B), struck out “not” after “may” and inserted at end “Any funds transferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.”
+Subsec. (k)(10). Pub. L. 105–392, §418(2)(B), struck out “not” after “may” and inserted at end “Any fundstransferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.”
 
 Subsec. (m)(1). Pub. L. 105–392, §418(2)(C), substituted “$500,000 for each fiscal year” for “$200,000 for the fiscal years 1994 and 1995”.
 

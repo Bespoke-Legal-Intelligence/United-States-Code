@@ -1,6 +1,6 @@
 ### §1437. Payment of annuity
 
-(a) Except as provided in subsections (b) and (c), each annuity payable under this subchapter accrues as of the first day of the month in which the person upon whose pay the annuity is based dies. Payments shall be made in equal installments and not later than the fifteenth day of each month following that month. However, no annuity accrues for the month in which entitlement thereto ends. The monthly amount of an annuity payable under this subchapter, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
+(a) Except as provided in subsections (b) and (c), each annuity payable under this subchapter accrues as of the first day of the month in which the person upon whose pay the annuity is based dies. Payments shall be made in equal installments and not later than the fifteenth day of each month following that month. However, no annuity accrues for the month in which entitlement thereto ends. The monthly amount of anannuity payable under this subchapter, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
 (b) Each annuity payable to or on behalf of an eligible child (other than a child who is incapable of supporting himself because of a mental defect or physical incapacity existing before his eighteenth birthday) as defined in section 1435(2)(B) of this title who is at least eighteen years of age and pursuing a full-time course of study or training at a recognized educational institution, accrues—
 

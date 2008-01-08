@@ -6,7 +6,7 @@ The participation of the United States as a member in the International Centre f
 
 #### (b) Official delegation
 
-The Council shall recommend to the Secretary of State, after consultation with the Smithsonian Institution and other public and private organizations concerned with the technical problems of preservation, the members of the official delegation which will participate in the activities of the Centre on behalf of the United States. The Secretary of State shall appoint themembers of the official delegation from the persons recommended to him by the Council.
+The Council shall recommend to the Secretary of State, after consultation with the Smithsonian Institution and other public and private organizations concerned with the technical problems of preservation, the members of the official delegation which will participate in the activities of the Centre on behalf of the United States. The Secretary of State shall appoint the members of the official delegation from the persons recommended to him by the Council.
 
 #### (c) Authorization of appropriations and payments
 

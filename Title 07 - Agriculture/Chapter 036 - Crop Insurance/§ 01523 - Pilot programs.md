@@ -128,7 +128,7 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of the pilot program established under this subsection is to determine whether approved insurance providers will compete to market policies or plans of insurance with reduced rates of premium, in a manner that maintains the financial soundness of approved insurance providers and is consistent with the integrity of the Federal crop insurance program.
+&emsp;The purpose of the pilot program established under this subsection is to determine whetherapproved insurance providers will compete to market policies or plans of insurance with reduced rates of premium, in a manner that maintains the financial soundness of approved insurance providers and is consistent with the integrity of the Federal crop insurance program.
 
 #### (2) Establishment
 
@@ -178,7 +178,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In addition to counties otherwise included in the pilot program, the Corporation shallinclude in the pilot program for the 2003 reinsurance year at least 8 counties in the State of California and at least 8 counties in the State of Pennsylvania.
+&emsp;&emsp;In addition to counties otherwise included in the pilot program, the Corporation shall include in the pilot program for the 2003 reinsurance year at least 8 counties in the State of California and at least 8 counties in the State of Pennsylvania.
 
 #### (B) Selection criteria
 

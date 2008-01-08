@@ -16,7 +16,7 @@ The Secretary shall establish a program, including a uniform health professions 
 
 #### (3) Grants and contracts regarding States
 
-&emsp;The Secretary is authorized to make grants and to enter into contracts with States (or an appropriate nonprofit private entity in anyState) for the purpose of participating in the program established under subsection (a) of this section. The Secretary shall determine the amount and scope of any such grant or contract. To be eligible for a grant or contract under this paragraph a State or entity shall submit an application in such form and manner and containing such information as the Secretary shall require. Such application shall include reasonable assurance, satisfactory to the Secretary, that—
+&emsp;The Secretary is authorized to make grants and to enter into contracts with States (or an appropriate nonprofit private entity in any State) for the purpose of participating in the program established under subsection (a) of this section. The Secretary shall determine the amount and scope of any such grant or contract. To be eligible for a grant or contract under this paragraph a State or entity shall submit an application in such form and manner and containing such information as the Secretary shall require. Such application shall include reasonable assurance, satisfactory to the Secretary, that—
 
 &emsp;&emsp;(A) such State (or nonprofit entity within a State) will establish a program of mandatory annual registration of the health professions personnel described in subsection (a) of this section who reside or practice in such State and of health institutions licensed by such State, which registration shall include such information as the Secretary shall determine to be appropriate;
 

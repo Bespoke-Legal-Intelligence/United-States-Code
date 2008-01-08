@@ -6,7 +6,7 @@ There is hereby established in the Treasury of the United States a Bonneville Po
 
 #### (b) Authorized purposes of expenditures
 
-The Administrator may make expenditures from the fund, which shall have been included in his annual budget submitted to Congress, without further appropriation and without fiscal year limitation, but within such specific directives or limitations as may be included in appropriation acts, for any purpose necessary or appropriate to carry out the duties imposed upon the Administrator pursuant to law, including but not limited to—
+The Administrator may make expenditures from the fund, which shall have been included inhis annual budget submitted to Congress, without further appropriation and without fiscal year limitation, but within such specific directives or limitations as may be included in appropriation acts, for any purpose necessary or appropriate to carry out the duties imposed upon the Administrator pursuant to law, including but not limited to—
 
 &emsp;(1) construction, acquisition, and replacement of (i) the transmission system, including facilities and structures appurtenant thereto, and (ii) additions, improvements, and betterments thereto (hereinafter in this chapter referred to as “transmission system”);
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 96–501 effective Dec. 5, 1980, see section 11 of Pub. L. 
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) and “Department of Energy” substituted for “Department of Interior” in subsec. (b)(11) pursuant to Pub. L. 95–91, §302(a)(1)(D),which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) and “Department of Energy” substituted for “Department of Interior” in subsec. (b)(11) pursuant to Pub. L. 95–91, §302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 

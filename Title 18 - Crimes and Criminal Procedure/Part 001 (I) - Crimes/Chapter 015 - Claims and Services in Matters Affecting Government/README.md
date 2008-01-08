@@ -25,7 +25,7 @@
 
 1988—Pub. L. 100–700, §3(b), Nov. 19, 1988, 102 Stat. 4633, added item 293.
 
-1987—Pub. L. 100–180, div. A, title VIII, §822(b)(2), Dec. 4, 1987, 101 Stat. 1133, added item 281, struck out former item 281 “Compensation to Members of Congress, officers, and others in matters affecting Government”, item 282 “Practice in Court of Claims by Members of Congress”, item 283 “Officers or employees interested in claims against the Government”, and item 284 “Disqualification of former officers and employees in matters connected with former duties”.
+1987—Pub. L. 100–180, div. A, title VIII, §822(b)(2), Dec. 4, 1987, 101 Stat. 1133, added item 281, struck out former item 281 “Compensation to Members of Congress, officers, and others in matters affecting Government”, item 282 “Practice in Court of Claims by Members ofCongress”, item 283 “Officers or employees interested in claims against the Government”, and item 284 “Disqualification of former officers and employees in matters connected with former duties”.
 
 1966—Pub. L. 89–554, §3(a), Sept. 6, 1966, 80 Stat. 608, added item 292.
 

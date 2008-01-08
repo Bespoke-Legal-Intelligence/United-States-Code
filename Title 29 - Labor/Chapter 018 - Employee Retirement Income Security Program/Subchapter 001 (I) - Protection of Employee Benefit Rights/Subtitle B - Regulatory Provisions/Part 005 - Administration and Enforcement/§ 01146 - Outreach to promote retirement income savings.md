@@ -38,7 +38,7 @@ The Secretary shall establish a permanent site on the Internet concerning retire
 
 &emsp;(2) a description in simple terms of the common types of retirement income savings arrangements available to both individuals and employers (specifically including small employers), including information on the amount of money that can be placed into a given vehicle, the tax treatment of the money, the amount of accumulation possible through different typical investment options and interest rate projections, and a directory of resources of more descriptive information;
 
-&emsp;(3) materials explaining to employers in simple terms, the characteristics and operation of the different retirement savings arrangements for their workers and what the basic legal requirements are under this chapter and the Internal Revenue Code of 1986, including the steps to establish each such arrangement;
+&emsp;(3) materials explaining to employers in simple terms, the characteristics and operation of the different retirement savings arrangements for their workers and what the basic legal requirements are under this chapter and title 26, including the steps to establish each such arrangement;
 
 &emsp;(4) copies of all educational materials developed by the Department of Labor, and by other Federal agencies in consultation with such Department, to promote retirement income savings by workers and employers; and
 
@@ -53,8 +53,6 @@ The Secretary shall coordinate the outreach program under this section with simi
 #### References in Text
 
 This chapter, referred to in subsec. (d)(3), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
-The Internal Revenue Code of 1986, referred to in subsec. (d)(3), is classified generally to Title 26, Internal Revenue Code.
 
 #### Findings and Purpose
 

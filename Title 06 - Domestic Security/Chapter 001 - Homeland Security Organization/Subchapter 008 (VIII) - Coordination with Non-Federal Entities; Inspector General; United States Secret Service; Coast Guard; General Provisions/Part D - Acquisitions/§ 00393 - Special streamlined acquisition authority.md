@@ -54,7 +54,7 @@
 
 #### (1) In general
 
-&emsp;With respect to a procurement described in subsection (a) of this section, the Secretary may deem any item or service to be a commercial item for the purpose of Federal procurement laws.
+&emsp;With respect to a procurement described in subsection (a) of this section, the Secretarymay deem any item or service to be a commercial item for the purpose of Federal procurement laws.
 
 #### (2) Limitation
 
@@ -91,6 +91,8 @@ Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (d)(3),
 Section is comprised of section 833 of Pub. L. 107–296. Subsec. (c)(2) of section 833 of Pub. L. 107–296 amended section 416 of Title 41, Public Contracts.
 
 #### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

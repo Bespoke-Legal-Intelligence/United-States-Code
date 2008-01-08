@@ -30,7 +30,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;(4) provide that for a student employed in a work-study program under this part, at the time income derived from any need-based employment is in excess of the determination of the amount of such student's need by more than $300, continued employment shall not be subsidized with funds appropriated under this part;
 
-&emsp;(5) provide that the Federal share of the compensation of students employed in thework-study program in accordance with the agreement shall not exceed 75 percent, except that—
+&emsp;(5) provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent, except that—
 
 &emsp;&emsp;(A) the Federal share may exceed 75 percent, but not exceed 90 percent, if, consistent with regulations of the Secretary—
 
@@ -62,7 +62,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;(9) provide assurances that employment made available from funds under this part may be used to support programs for supportive services to students with disabilities;
 
-&emsp;(10) provide assurances that the institution will inform all eligible students of the opportunity to perform community service, and will consult with local nonprofit, governmental, and community-based organizations to identify such opportunities; and
+&emsp;(10) provide assurances that the institution will inform all eligible students of the opportunity to perform community service, and will consult with local nonprofit, governmental,and community-based organizations to identify such opportunities; and
 
 &emsp;(11) include such other reasonable provisions as the Secretary shall deem necessary or appropriate to carry out the purpose of this part.
 
@@ -128,7 +128,7 @@ Subsec. (b)(2)(B), (C). Pub. L. 105–244, §443(c)(1)(B), (C), added subpar. (B
 
 Subsec. (b)(3). Pub. L. 105–244, §443(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “provide that in the selection of students for employment under such work-study program, only students, who demonstrate financial need in accordance with part F of this title, and who meet the requirements of section 1091 of title 20 will be assisted, except that—
 
-&emsp;“(A) if the institution's grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (i) attending the institution less than full time, or (ii) independent students; and
+&emsp;“(A) if the institution's grant under this part is directly or indirectly based in part on the financialneed demonstrated by students who are (i) attending the institution less than full time, or (ii) independent students; and
 
 &emsp;“(B) if the total financial need of all such less than full-time and independent students at the institution exceeds 5 percent of the total financial need of all students at such institution,
 
@@ -162,7 +162,7 @@ Subsec. (b)(8)(A) to (C). Pub. L. 103–208, §2(d)(5), added subpars. (A) and (
 
 Subsec. (b)(1). Pub. L. 102–325, §443(a), inserted “, work in community service” after “institution itself”.
 
-Subsec. (b)(2)(A). Pub. L. 102–325, §443(b), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “an institution may use not to exceed 10 percent of the funds granted to the institution in any fiscal year to carry out the work study program described in section 2756a of this title at the increased Federal share specified in paragraph (5)(B) of this subsection, and”.
+Subsec. (b)(2)(A). Pub. L. 102–325, §443(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an institution may use not to exceed 10 percent of the funds granted to the institution in any fiscal year to carry out the work study program described in section 2756a of this title at the increased Federal share specified in paragraph (5)(B) of this subsection, and”.
 
 Subsec. (b)(3) to (5). Pub. L. 102–325, §443(c)–(e), amended par. (3) to (5) generally. Prior to amendment, pars. (3) to (5) read as follows:
 

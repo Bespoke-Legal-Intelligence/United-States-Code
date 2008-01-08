@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To enhance the security of the United States with respect to public health emergencies, the Secretary shall award cooperative agreements to eligible entities to enable such entities to conduct the activities described in subsection (d).
+To enhance the security of the United States with respect to public health emergencies, theSecretary shall award cooperative agreements to eligible entities to enable such entities to conduct the activities described in subsection (d).
 
 #### (b) Eligible entities
 
@@ -124,7 +124,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 &emsp;&emsp;&emsp;(iii) For the fiscal year immediately following three consecutive fiscal years in which an entity experienced such a failure, an amount equal to 20 percent of the amount the entity was eligible to receive for such fiscal year, taking into account the withholding of funds for the immediately preceding fiscal years under clauses (i) and (ii).
 
-&emsp;&emsp;&emsp;(iv) For the fiscal year immediately following four consecutive fiscal years in which an entity experienced such a failure, an amount equal to 25 percent of the amount the entity was eligible to receive for such a fiscal year, taking into accountthe withholding of funds for the immediately preceding fiscal years under clauses (i), (ii), and (iii).
+&emsp;&emsp;&emsp;(iv) For the fiscal year immediately following four consecutive fiscal years in which an entity experienced such a failure, an amount equal to 25 percent of the amount the entity was eligible to receive for such a fiscal year, taking into account the withholding of funds for the immediately preceding fiscal years under clauses (i), (ii), and (iii).
 
 #### (B) Separate accounting
 
@@ -196,7 +196,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 &emsp;&emsp;Beginning in fiscal year 2009, in the case of any State or consortium of two or more States, the Secretary may not award a cooperative agreement under this section unless the State or consortium of States agree that, with respect to the amount of the cooperative agreement awarded by the Secretary, the State or consortium of States will make available (directly or through donations from public or private entities) non-Federal contributions in an amount equal to—
 
-&emsp;&emsp;&emsp;(i) for the first fiscal year of the cooperative agreement, not less than 5 percent of such costs ($1 for each $20 of Federal fundsprovided in the cooperative agreement); and
+&emsp;&emsp;&emsp;(i) for the first fiscal year of the cooperative agreement, not less than 5 percent of such costs ($1 for each $20 of Federal funds provided in the cooperative agreement); and
 
 &emsp;&emsp;&emsp;(ii) for any second fiscal year of the cooperative agreement, and for any subsequent fiscal year of such cooperative agreement, not less than 10 percent of such costs ($1 for each $10 of Federal funds provided in the cooperative agreement).
 
@@ -260,7 +260,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (D) Continuity of funding
 
-&emsp;&emsp;In determining whether to make an award pursuant to subparagraph (A) to a political subdivision, the Secretary may consider, as a factor indicating that the award should be made, that the political subdivision received public health funding from the Secretary for fiscal year 2006.
+&emsp;&emsp;In determining whether to make an award pursuant to subparagraph (A) to a politicalsubdivision, the Secretary may consider, as a factor indicating that the award should be made, that the political subdivision received public health funding from the Secretary for fiscal year 2006.
 
 #### (5) Significant unmet needs; degree of risk
 
@@ -375,6 +375,34 @@ Subsec. (j). Pub. L. 109–417, §201(5), added subsec. (j).
 Pub. L. 109–417, §201(3), redesignated subsec. (j) as (i).
 
 Subsec. (k). Pub. L. 109–417, §201(5), added subsec. (k).
+
+#### Emergency Medical and Public Health Communications Pilot Projects
+
+Pub. L. 110–53, title XXII, §2201(d), Aug. 3, 2007, 121 Stat. 541, provided that:
+
+“(1)
+
+In general.—The Assistant Secretary of Commerce for Communications and Information may establish not more than 10 geographically dispersed project grants to emergency medical and public health care facilities to improve the capabilities of emergency communications systems in emergency medical care facilities.
+
+“(2)
+
+Maximum amount.—The Assistant Secretary may not provide more than $2,000,000 in Federal assistance under the pilot program to any applicant.
+
+“(3)
+
+Cost sharing.—The Assistant Secretary may not provide more than 20 percent of the cost, incurred during the period of the grant, of any project under the pilot program.
+
+“(4)
+
+Maximum period of grants.—The Assistant Secretary may not fund any applicant under the pilot program for more than 3 years.
+
+“(5)
+
+Deployment and distribution.—The Assistant Secretary shall seek to the maximum extent practicable to ensure a broad geographic distribution of project sites.
+
+“(6)
+
+Transfer of information and knowledge.—The Assistant Secretary shall establish mechanisms to ensure that the information and knowledge gained by participants in the pilot program are transferred among the pilot program participants and to other interested parties, including other applicants that submitted applications.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “makes”.</i>
 

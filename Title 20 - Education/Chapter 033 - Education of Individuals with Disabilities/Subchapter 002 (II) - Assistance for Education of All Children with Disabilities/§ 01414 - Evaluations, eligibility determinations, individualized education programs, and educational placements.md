@@ -254,7 +254,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) meet each of the child's other educational needs that result from the child's disability;
 
-&emsp;&emsp;&emsp;&emsp;(III) a description of how the child's progress toward meeting the annualgoals described in subclause (II) will be measured and when periodic reports on the progress the child is making toward meeting the annual goals (such as through the use of quarterly or other periodic reports, concurrent with the issuance of report cards) will be provided;
+&emsp;&emsp;&emsp;&emsp;(III) a description of how the child's progress toward meeting the annual goals described in subclause (II) will be measured and when periodic reports on the progress the child is making toward meeting the annual goals (such as through the use of quarterly or other periodic reports, concurrent with the issuance of report cards) will be provided;
 
 &emsp;&emsp;&emsp;&emsp;(IV) a statement of the special education and related services and supplementary aids and services, based on peer-reviewed research to the extent practicable, to be provided to the child, or on behalf of the child, and a statement of the program modifications or supports for school personnel that will be provided for the child—
 
@@ -324,7 +324,7 @@
 
 #### (ii) Excusal
 
-&emsp;&emsp;&emsp;A member of the IEP Team may be excused from attending an IEP meeting, in whole or in part, when the meeting involves a modification to or discussion ofthe member's area of the curriculum or related services, if—
+&emsp;&emsp;&emsp;A member of the IEP Team may be excused from attending an IEP meeting, in whole or in part, when the meeting involves a modification to or discussion of the member's area of the curriculum or related services, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the parent and the local educational agency consent to the excusal; and
 
@@ -362,7 +362,7 @@
 
 #### (II) Transfer outside State
 
-&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in another State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency conducts an evaluation pursuant to subsection (a)(1), if determined to be necessary by such agency, and develops a new IEP, if appropriate, that is consistent with Federal and State law.
+&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within thesame academic year, who enrolls in a new school, and who had an IEP that was in effect in another State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency conducts an evaluation pursuant to subsection (a)(1), if determined to be necessary by such agency, and develops a new IEP, if appropriate, that is consistent with Federal and State law.
 
 #### (ii) Transmittal of records
 
@@ -396,7 +396,7 @@
 
 &emsp;&emsp;&emsp;(iii) in the case of a child who is blind or visually impaired, provide for instruction in Braille and the use of Braille unless the IEP Team determines, after an evaluation of the child's reading and writing skills, needs, and appropriate reading and writing media (including an evaluation of the child's future needs for instruction in Braille or the use of Braille), that instruction in Braille or the use of Braille is not appropriate for the child;
 
-&emsp;&emsp;&emsp;(iv) consider the communication needs of the child, and in the case of a child who is deaf or hard of hearing, consider the child's language and communicationneeds, opportunities for direct communications with peers and professional personnel in the child's language and communication mode, academic level, and full range of needs, including opportunities for direct instruction in the child's language and communication mode; and
+&emsp;&emsp;&emsp;(iv) consider the communication needs of the child, and in the case of a child who is deaf or hard of hearing, consider the child's language and communication needs, opportunities for direct communications with peers and professional personnel in the child's language and communication mode, academic level, and full range of needs, including opportunities for direct instruction in the child's language and communication mode; and
 
 &emsp;&emsp;&emsp;(v) consider whether the child needs assistive technology devices and services.
 
@@ -538,7 +538,11 @@ A prior section 1414, Pub. L. 91–230, title VI, §614, as added Pub. L. 105–
 
 Another prior section 1414, Pub. L. 91–230, title VI, §614, Apr. 13, 1970, 84 Stat. 181; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 784; Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, §102(d), Nov. 7, 1988, 102 Stat. 3293; Pub. L. 101–476, title IX, §901(b)(59)–(70), Oct. 30, 1990, 104 Stat. 1144, 1145; Pub. L. 102–119, §§6, 25(b), Oct. 7, 1991, 105 Stat. 591, 607, related to requisite features of an application, approval of application by State educational agency, consolidated applications of local educational agencies, and provision of special education and related services directly to children with disabilities in areas not served by local educational agency, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-A prior section 1414a, Pub. L. 91–230, title VI, §614A, as added Pub. L. 103–382, title III, §312, Oct. 20, 1994, 108Stat. 3934, which related to treatment of State agencies that received funds for fiscal year 1994 under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in existence on the day preceding Oct. 20, 1994), was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1414a, Pub. L. 91–230, title VI, §614A, as added Pub. L. 103–382, title III, §312, Oct. 20, 1994, 108 Stat. 3934, which related to treatment of State agencies that received funds for fiscal year 1994 under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in existence on the day preceding Oct. 20, 1994), was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

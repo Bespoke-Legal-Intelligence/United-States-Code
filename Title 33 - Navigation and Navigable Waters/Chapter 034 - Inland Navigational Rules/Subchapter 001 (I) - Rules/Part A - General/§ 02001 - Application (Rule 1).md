@@ -36,7 +36,7 @@ The Secretary may accept a certificate of alternative compliance issued by a con
 
 These Rules, referred to in pars. (a), (b), (c), and (e), are the Inland Navigational Rules which are classified to this subchapter.
 
-The International Regulations, referred to in pars. (b) and (f), are the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of this title.
+The International Regulations, referred to in pars. (b) and (f), are the International Regulations for Preventing Collisions at Sea, 1972, which are maintained and published by the United States Coast Guard, U.S. Department of Homeland Security, in the publication <i>Navigation Rules</i>, which is available for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
 
 #### Codification
 
@@ -64,5 +64,5 @@ Section 1 of Pub. L. 96–591 provided: “That this Act \[enacting this chapter
 
 Section 8(a) of Pub. L. 96–591 provided in part that: “The laws specified in the following schedules are repealed. Any prior rights or liabilities existing under these laws are not affected by their repeal.” \[The schedules repealed sections 154 to 159, 171 to 183, 191, 192, 201 to 213, 221, 222, 231, 232, 301 to 303, 311 to 323, 331, 341 to 356, 360, and 360a of this title and sections 526b, 526c, and 526d of former Title 46, Shipping.\]
 
-Section 8(b) of Pub. L. 96–591 provided in part that: “The following laws \[sections 241 to 244, 251 to 262, 271, 272, and 281 to 295 of this title\] are repealed when the Secretary establishes an effective date under section 7 \[set out as a note above\].”
+Section 8(b) of Pub. L. 96–591 provided in part that: “The following laws \[sections 241 to 244, 251 to 262, 271,272, and 281 to 295 of this title\] are repealed when the Secretary establishes an effective date under section 7 \[set out as a note above\].”
 

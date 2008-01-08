@@ -20,7 +20,7 @@
 
 Subsec. (b). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-Subsec. (d). Pub. L. 102–572, §§902(a)(2), 904(b), substituted “Court of Federal Claims” for “Claims Court”and struck out “civil service” before “retirement annuity”.
+Subsec. (d). Pub. L. 102–572, §§902(a)(2), 904(b), substituted “Court of Federal Claims” for “Claims Court” and struck out “civil service” before “retirement annuity”.
 
 1986—Subsec. (a). Pub. L. 99–651 inserted reference to chapter 84 of title 5.
 

@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) which is interest, a dividend, or a rent or royalty, which is received or accrued from a related person (within the meaning of section 954(d)(3)) to the extent such amount is properly allocable (under regulations prescribed by the Secretary) to income of such related person which is not passive income, or
 
-&emsp;&emsp;(D) which is foreign trade income of an FSC or export trade income of an export trade corporation (as defined in section 971).
+&emsp;&emsp;(D) which is export trade income of an export trade corporation (as defined in section 971).
 
 > &emsp;For purposes of subparagraph (C), the term “related person” has the meaning given such term by section 954(d)(3) determined by substituting “foreign corporation” for “controlled foreign corporation” each place it appears in section 954(d)(3).
 
@@ -38,11 +38,7 @@ If a foreign corporation owns (directly or indirectly) at least 25 percent (by v
 
 &emsp;(2) received directly its proportionate share of the income of such other corporation.
 
-#### (d) Section 1247 <sup>1</sup> corporations
-
-For purposes of this part, the term “passive foreign investment company” does not include any foreign investment company to which section 1247 <sup>1</sup> applies.
-
-#### (e) Exception for United States shareholders of controlled foreign corporations
+#### (d) Exception for United States shareholders of controlled foreign corporations
 
 #### (1) In general
 
@@ -70,7 +66,7 @@ For purposes of this part, the term “passive foreign investment company” doe
 
 &emsp;Paragraph (1) shall not apply to stock treated as owned by a person by reason of section 1298(a)(4) (relating to the treatment of a person that has an option to acquire stock as owning such stock) unless such person establishes that such stock is owned (within the meaning of section 958(a)) by a United States shareholder (as defined in section 951(b)) who is not exempt from tax under this chapter.
 
-#### (f) Methods for measuring assets
+#### (e) Methods for measuring assets
 
 #### (1) Determination using value
 
@@ -98,19 +94,21 @@ For purposes of this part, the term “passive foreign investment company” doe
 
 &emsp;&emsp;(B) any exchange or other market which the Secretary determines has rules adequate to carry out the purposes of this subsection.
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2572, §1296; amended Pub. L. 100–647, title I, §§1012(p)(2), (5), (16), (26), (27), 1018(u)(40), Nov. 10, 1988, 102 Stat. 3515, 3518–3520, 3592; Pub. L. 103–66, title XIII, §13231(d)(1), (3), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1704(r)(1), Aug. 20, 1996, 110 Stat. 1887; renumbered §1297 and amended Pub. L. 105–34, title XI, §§1121, 1122(a), (d)(4), 1123, Aug. 5, 1997, 111 Stat. 971, 972, 977; Pub. L. 105–206, title VI, §6011(b)(1), (d), July 22, 1998, 112 Stat. 817, 818.)
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2572, §1296; amended Pub. L. 100–647, title I, §§1012(p)(2), (5), (16), (26), (27), 1018(u)(40), Nov. 10, 1988, 102 Stat. 3515, 3518–3520, 3592; Pub. L. 103–66, title XIII, §13231(d)(1), (3), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1704(r)(1), Aug. 20, 1996, 110 Stat. 1887; renumbered §1297 and amended Pub. L. 105–34, title XI, §§1121, 1122(a), (d)(4), 1123, Aug. 5, 1997, 111 Stat. 971, 972, 977; Pub. L. 105–206, title VI, §6011(b)(1), (d), July 22, 1998, 112 Stat. 817, 818; Pub. L. 110–172, §11(a)(24)(A), (g)(18), Dec. 29, 2007, 121 Stat. 2486, 2491.)
 
 #### References in Text
 
-Section 1247, referred to in subsec. (d), was repealed by Pub. L. 108–357, title IV, §413(a)(3), Oct. 22, 2004, 118 Stat. 1506.
-
-Section 11A of the Securities and Exchange Act of 1934, referred to in subsec. (f)(3)(A), is classified to section 78k–1 of Title 15, Commerce and Trade.
+Section 11A of the Securities and Exchange Act of 1934, referred to in subsec. (e)(3)(A), is classified to section 78k–1 of Title 15, Commerce and Trade.
 
 #### Prior Provisions
 
 A prior section 1297 was renumbered section 1298 of this title.
 
 #### Amendments
+
+2007—Subsec. (b)(2)(D). Pub. L. 110–172, §11(g)(18), which directed amendment of subpar. (D) by striking out “foreign trade income of a FSC or”, was executed by striking out “foreign trade income of an FSC or” before “export trade income” to reflect the probable intent of Congress.
+
+Subsecs. (d) to (f). Pub. L. 110–172, §11(a)(24)(A), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “For purposes of this part, the term ‘passive foreign investment company’ does not include any foreign investment company to which section 1247 applies.”
 
 1998—Subsec. (e). Pub. L. 105–206, §6011(d), redesignated subsec. (e), relating to methods for measuring assets, as (f).
 
@@ -173,6 +171,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

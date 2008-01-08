@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Librarian shall request each organization described in paragraph (2) to submit a listof three candidates qualified to serve as a member of the Board. The Librarian shall appoint one member from each such list, and shall designate from that list an alternate who may attend at Board expense those meetings which the individual appointed to the Board cannot attend.
+&emsp;The Librarian shall request each organization described in paragraph (2) to submit a list of three candidates qualified to serve as a member of the Board. The Librarian shall appoint one member from each such list, and shall designate from that list an alternate who may attend at Board expense those meetings which the individual appointed to the Board cannot attend.
 
 #### (2) Organizations described
 

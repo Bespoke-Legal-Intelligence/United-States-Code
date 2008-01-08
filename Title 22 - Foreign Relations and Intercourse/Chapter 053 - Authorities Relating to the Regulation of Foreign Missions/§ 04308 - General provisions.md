@@ -6,7 +6,7 @@ The Secretary may issue such regulations as the Secretary may determine necessar
 
 #### (b) Discharge of obligation; liability
 
-Compliance with any regulation, instruction, or direction issued by the Secretary under this chapter shall to the extent thereof be a full acquittance and discharge for all purposes of the obligation of the person making the same. No person shall be held liable in any court or administrative proceeding for or with respect to anything done or omitted in good faith in connection with the administration of, or pursuant to and in reliance on, this chapter, or any regulation, instruction, or direction issued by the Secretary under this chapter.
+Compliance with any regulation, instruction, or direction issued by the Secretary under this chapter shall to the extent thereof be a full acquittance and discharge for all purposes of the obligation of the person making the same. No person shall be held liable in any court or administrative proceeding for or with respect to anything done or omitted in good faith in connection with the administration of, or pursuantto and in reliance on, this chapter, or any regulation, instruction, or direction issued by the Secretary under this chapter.
 
 #### (c) Use of employees from other Federal agencies; experts and consultants
 
@@ -18,7 +18,7 @@ For purposes of administering this chapter—
 
 #### (d) Contracts and subcontracts for supplies and services; advertisement; factors considered
 
-Contracts and subcontracts for supplies or services, including personal services, made by or on behalf of the Secretary shall be made afteradvertising, in such manner and at such times as the Secretary shall determine to be adequate to ensure notice and opportunity for competition, except that advertisement shall not be required when (1) the Secretary determines that it is impracticable or will not permit timely performance to obtain bids by advertising, or (2) the aggregate amount involved in a purchase of supplies or procurement of services does not exceed $10,000. Such contracts and subcontracts may be entered into without regard to laws and regulations otherwise applicable to solicitation, negotiation, administration, and performance of government contracts. In awarding contracts, the Secretary may consider such factors as relative quality and availability of supplies or services and the compatibility of the supplies or services with implementation of this chapter.
+Contracts and subcontracts for supplies or services, including personal services, made by or on behalf of the Secretary shall be made after advertising, in such manner and at such times as the Secretary shall determine to be adequate to ensure notice and opportunity for competition, except that advertisement shall not be required when (1) the Secretary determines that it is impracticable or will not permit timely performance to obtain bids by advertising, or (2) the aggregate amount involved in a purchase of supplies or procurement of services does not exceed $10,000. Such contracts and subcontracts may be entered into without regard to laws and regulations otherwise applicable to solicitation, negotiation, administration, and performance of government contracts. In awarding contracts, the Secretary may consider such factors as relative quality and availability of supplies or services and the compatibility of the supplies or services with implementation of this chapter.
 
 #### (e) Transfer or loan of property to or from Department of State
 

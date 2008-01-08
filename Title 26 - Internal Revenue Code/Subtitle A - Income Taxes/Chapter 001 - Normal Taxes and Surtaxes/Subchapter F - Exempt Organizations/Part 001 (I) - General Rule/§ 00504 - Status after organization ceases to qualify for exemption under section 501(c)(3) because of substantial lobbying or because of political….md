@@ -16,7 +16,7 @@ An organization which—
 
 #### (b) Regulations to prevent avoidance
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to prevent the avoidance of subsection (a), including regulations relating to a direct or indirect transfer of all or part of the assets of an organization to an organization controlled (directly or indirectly) by the same person or persons who control the transferor organization.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to prevent the avoidance of subsection (a), including regulations relating to a direct or indirect transfer of all or part of the assets of an organization toan organization controlled (directly or indirectly) by the same person or persons who control the transferor organization.
 
 #### (c) Churches, etc.
 
@@ -36,7 +36,7 @@ Subsec. (a)(2). Pub. L. 100–203, §10711(b)(1), amended par. (2) generally. Pr
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 22, 1987, see section10711(c) of Pub. L. 100–203, set out as a note under section 170 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 22, 1987, see section 10711(c) of Pub. L. 100–203, set out as a note under section 170 of this title.
 
 #### Construction of Amendment
 

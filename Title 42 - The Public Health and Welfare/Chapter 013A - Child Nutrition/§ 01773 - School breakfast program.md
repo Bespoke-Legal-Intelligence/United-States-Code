@@ -10,7 +10,7 @@ There is hereby authorized to be appropriated such sums as are necessary to enab
 
 &emsp;(I) the number of breakfasts served during such fiscal year to children in schools in such States which participate in the school breakfast program under agreements with such State educational agency; by
 
-&emsp;(II) the national average breakfast payment for free breakfasts, for reduced price breakfasts, or for breakfasts served to children noteligible for free or reduced price meals, as appropriate, as prescribed in clause (B) of this paragraph.
+&emsp;(II) the national average breakfast payment for free breakfasts, for reduced price breakfasts, or for breakfasts served to children not eligible for free or reduced price meals, as appropriate, as prescribed in clause (B) of this paragraph.
 
 (ii) The agreements described in clause (i)(I) shall be permanent agreements that may be amended as necessary. Nothing in the preceding sentence shall be construed to limit the ability of the State educational agency to suspend or terminate any such agreement in accordance with regulations prescribed by the Secretary.
 
@@ -240,7 +240,7 @@ Pub. L. 96–499, title II, §210, Dec. 5, 1980, 94 Stat. 2602, provided that: �
 
 #### Alternate Foods
 
-Pub. L. 95–627, §6(d), Nov. 10, 1998, 93 Stat. 3621, provided that: “The Secretary shall not limit or prohibit, during the school year 1978–79, the use of formulated grain-fruit products currently approved for use in the school breakfast program. The Secretary shall consult experts in child nutrition, industry representatives, and school food service personnel and school administrators (including personnel and administrators in school systems using such products) with respect to the continued use of formulated grain-fruit products in the school breakfast program, and shall also take into account the findings and recommendations in the report on this subject of the General Accounting Office \[now Government Accountability Office\]. The Secretary shall not promulgate a final rule disapproving the use of such products in the school breakfast program beyond the 1978–79 school year until the Secretary has notified the appropriate committees of Congress, andsuch rule shall not take effect until sixty days after such notification.”
+Pub. L. 95–627, §6(d), Nov. 10, 1998, 93 Stat. 3621, provided that: “The Secretary shall not limit or prohibit, during the school year 1978–79, the use of formulated grain-fruit products currently approved for use in the school breakfast program. The Secretary shall consult experts in child nutrition, industry representatives, and school food service personnel and school administrators (including personnel and administrators in school systems using such products) with respect to the continued use of formulated grain-fruit products in the school breakfast program, and shall also take into account the findings and recommendations in the report on this subject of the General Accounting Office \[now Government Accountability Office\]. The Secretary shall not promulgate a final rule disapproving the use of such products in the school breakfast program beyond the 1978–79 school year until the Secretary has notified the appropriate committees of Congress, and such rule shall not take effect until sixty days after such notification.”
 
 #### Report to Congress of Needs for Additional Funds for School Breakfast and Nonfood Assistance Programs, Fiscal Year Ending June 30, 1972
 

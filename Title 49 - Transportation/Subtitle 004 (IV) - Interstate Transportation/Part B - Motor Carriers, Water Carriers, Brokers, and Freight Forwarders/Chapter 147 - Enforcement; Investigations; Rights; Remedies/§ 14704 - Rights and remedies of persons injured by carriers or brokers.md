@@ -22,7 +22,7 @@ Election.—
 
 &emsp;(1)
 
-Complaint to dot or board; civil action.—A person may file a complaint with the Board or the Secretary, as applicable, undersection 14701(b) or bring a civil action under subsection (b) to enforce liability against a carrier or broker providing transportation or service subject to jurisdiction under chapter 135.
+Complaint to dot or board; civil action.—A person may file a complaint with the Board or the Secretary, as applicable, under section 14701(b) or bring a civil action under subsection (b) to enforce liability against a carrier or broker providing transportation or service subject to jurisdiction under chapter 135.
 
 &emsp;(2)
 

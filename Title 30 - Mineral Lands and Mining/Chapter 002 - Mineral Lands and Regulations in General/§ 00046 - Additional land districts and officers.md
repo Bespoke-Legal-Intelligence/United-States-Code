@@ -14,7 +14,7 @@ R.S. §2343 derived from act July 26, 1866, ch. 262, §7, 14 Stat. 252.
 
 #### Delegation of Functions
 
-For delegation to the Secretary of the Interior of authority vested in the President by this section, see Ex.Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under section 301 of Title 3, The President.
+For delegation to the Secretary of the Interior of authority vested in the President by this section, see Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under section 301 of Title 3, The President.
 
 #### Submerged Lands Act
 

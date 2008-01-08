@@ -136,19 +136,301 @@
 
 #### (D) Priority
 
-&emsp;&emsp;In awarding grants or contracts under this subsection, priority shall be provided to entities with nationally recognized expertise in the methods, techniques, and knowledge of workforce investment activities and shall include appropriate time limits, established by the Secretary, for the duration of such projects.
+&emsp;&emsp;In awarding grants or contracts under this subsection, priority shall be provided to entities with nationally recognized expertise in the methods, techniques, and knowledgeof workforce investment activities and shall include appropriate time limits, established by the Secretary, for the duration of such projects.
 
 #### (d) Dislocated worker projects
 
 Of the amount made available pursuant to section 2862(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects, relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (c)(4)(C) of this section. Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered through the dislocated worker office described in section 2918(b) of this title.
 
-(Pub. L. 105–220, title I, §171, Aug. 7, 1998, 112 Stat. 1031; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(11)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+#### (e) Energy efficiency and renewable energy worker training program
+
+#### (1) Grant program
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 6 months after December 19, 2007, the Secretary, in consultation with the Secretary of Energy, shall establish an energy efficiency and renewable energy worker training program under which the Secretary shall carry out the activities described in paragraph (2) to achieve the purposes of this subsection.
+
+#### (B) Eligibility
+
+&emsp;&emsp;For purposes of providing assistance and services under the program established under this subsection—
+
+&emsp;&emsp;&emsp;(i) target populations of eligible individuals to be given priority for training and other services shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) workers impacted by national energy and environmental policy;
+
+&emsp;&emsp;&emsp;&emsp;(II) individuals in need of updated training related to the energy efficiency and renewable energy industries;
+
+&emsp;&emsp;&emsp;&emsp;(III) veterans, or past and present members of reserve components of the Armed Forces;
+
+&emsp;&emsp;&emsp;&emsp;(IV) unemployed individuals;
+
+&emsp;&emsp;&emsp;&emsp;(V) individuals, including at-risk youth, seeking employment pathways out of poverty and into economic self-sufficiency; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) formerly incarcerated, adjudicated, nonviolent offenders; and
+
+&emsp;&emsp;&emsp;(ii) energy efficiency and renewable energy industries eligible to participate in a program under this subsection include—
+
+&emsp;&emsp;&emsp;&emsp;(I) the energy-efficient building, construction, and retrofits industries;
+
+&emsp;&emsp;&emsp;&emsp;(II) the renewable electric power industry;
+
+&emsp;&emsp;&emsp;&emsp;(III) the energy efficient and advanced drive train vehicle industry;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the biofuels industry;
+
+&emsp;&emsp;&emsp;&emsp;(V) the deconstruction and materials use industries;
+
+&emsp;&emsp;&emsp;&emsp;(VI) the energy efficiency assessment industry serving the residential, commercial, or industrial sectors; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) manufacturers that produce sustainable products using environmentally sustainable processes and materials.
+
+#### (2) Activities
+
+#### (A) National research program
+
+&emsp;&emsp;Under the program established under paragraph (1), the Secretary, acting through the Bureau of Labor Statistics, where appropriate, shall collect and analyze labor market data to track workforce trends resulting from energy-related initiatives carried out under this subsection. Activities carried out under this paragraph shall include—
+
+&emsp;&emsp;&emsp;(i) tracking and documentation of academic and occupational competencies as well as future skill needs with respect to renewable energy and energy efficiency technology;
+
+&emsp;&emsp;&emsp;(ii) tracking and documentation of occupational information and workforce training data with respect to renewable energy and energy efficiency technology;
+
+&emsp;&emsp;&emsp;(iii) collaborating with State agencies, workforce investments boards, industry, organized labor, and community and nonprofit organizations to disseminate information on successful innovations for labor market services and worker training with respect to renewable energy and energy efficiency technology;
+
+&emsp;&emsp;&emsp;(iv) serving as a clearinghouse for best practices in workforce development, job placement, and collaborative training partnerships;
+
+&emsp;&emsp;&emsp;(v) encouraging the establishment of workforce training initiatives with respect to renewable energy and energy efficiency technologies;
+
+&emsp;&emsp;&emsp;(vi) linking research and development in renewable energy and energy efficiency technology with the development of standards and curricula for current and future jobs;
+
+&emsp;&emsp;&emsp;(vii) assessing new employment and work practices including career ladder and upgrade training as well as high performance work systems; and
+
+&emsp;&emsp;&emsp;(viii) providing technical assistance and capacity building to national and State energy partnerships, including industry and labor representatives.
+
+#### (B) National Energy Training Partnership Grants
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Under the program established under paragraph (1), the Secretary shall award National Energy Training Partnerships Grants on a competitive basis to eligible entities to enable such entities to carry out training that leads to economic self-sufficiency and to develop an energy efficiency and renewable energy industries workforce. Grants shall be awarded under this subparagraph so as to ensure geographic diversity with at least 2 grants awarded to entities located in each of the 4 Petroleum Administration for Defense Districts with no subdistricts, and at least 1 grant awarded to an entity located in each of the subdistricts of the Petroleum Administration for Defense District with subdistricts.
+
+#### (ii) Eligibility
+
+&emsp;&emsp;&emsp;To be eligible to receive a grant under clause (i), an entity shall be a nonprofit partnership that—
+
+&emsp;&emsp;&emsp;&emsp;(I) includes the equal participation of industry, including public or private employers, and labor organizations, including joint labor-management training programs, and may include workforce investment boards, community-based organizations, qualified service and conservation corps, educational institutions, small businesses, cooperatives, State and local veterans agencies, and veterans service organizations; and
+
+&emsp;&emsp;&emsp;&emsp;(II) demonstrates—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) experience in implementing and operating worker skills training and education programs;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the ability to identify and involve in training programs carried out under this grant, target populations of individuals who would benefit from training and be actively involved in activities related to energy efficiency and renewable energy industries; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the ability to help individuals achieve economic self-sufficiency.
+
+#### (iii) Priority
+
+&emsp;&emsp;&emsp;Priority shall be given to partnerships which leverage additional public and private resources to fund training programs, including cash or in-kind matches from participating employers.
+
+#### (C) State labor market research, information, and labor exchange research program
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Under the program established under paragraph (1), the Secretary shall award competitive grants to States to enable such States to administer labor market and labor exchange information programs that include the implementation of the activities described in clause (ii), in coordination with the one-stop delivery system.
+
+#### (ii) Activities
+
+&emsp;&emsp;&emsp;A State shall use amounts awarded under a grant under this subparagraph to provide funding to the State agency that administers the Wagner-Peyser Act \[29 U.S.C. 49 et seq.\] and State unemployment compensation programs to carry out the following activities using State agency merit staff:
+
+&emsp;&emsp;&emsp;&emsp;(I) The identification of job openings in the renewable energy and energy efficiency sector.
+
+&emsp;&emsp;&emsp;&emsp;(II) The administration of skill and aptitude testing and assessment for workers.
+
+&emsp;&emsp;&emsp;&emsp;(III) The counseling, case management, and referral of qualified job seekers to openings and training programs, including energy efficiency and renewable energy training programs.
+
+#### (D) State energy training partnership program
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Under the program established under paragraph (1), the Secretary shall award competitive grants to States to enable such States to administer renewable energy and energy efficiency workforce development programs that include the implementation of the activities described in clause (ii).
+
+#### (ii) Partnerships
+
+&emsp;&emsp;&emsp;A State shall use amounts awarded under a grant under this subparagraph to award competitive grants to eligible State Energy Sector Partnerships to enable such Partnerships to coordinate with existing apprenticeship and labor management training programs and implement training programs that lead to the economic self-sufficiency of trainees.
+
+#### (iii) Eligibility
+
+&emsp;&emsp;&emsp;To be eligible to receive a grant under this subparagraph, a State Energy Sector Partnership shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) consist of nonprofit organizations that include equal participation from industry, including public or private nonprofit employers, and labor organizations, including joint labor-management training programs, and may include representatives from local governments, the workforce investment system, including one-stop career centers, community based organizations, qualified service and conservation corps, community colleges, and other post-secondary institutions, small businesses, cooperatives, State and local veterans agencies, and veterans service organizations;
+
+&emsp;&emsp;&emsp;&emsp;(II) demonstrate experience in implementing and operating worker skills training and education programs; and
+
+&emsp;&emsp;&emsp;&emsp;(III) demonstrate the ability to identify and involve in training programs, target populations of workers who would benefit from training and be actively involved in activities related to energy efficiency and renewable energy industries.
+
+#### (iv) Priority
+
+&emsp;&emsp;&emsp;In awarding grants under this subparagraph, the Secretary shall give priority to States that demonstrate that activities under the grant—
+
+&emsp;&emsp;&emsp;&emsp;(I) meet national energy policies associated with energy efficiency, renewable energy, and the reduction of emissions of greenhouse gases;
+
+&emsp;&emsp;&emsp;&emsp;(II) meet State energy policies associated with energy efficiency, renewable energy, and the reduction of emissions of greenhouse gases; and
+
+&emsp;&emsp;&emsp;&emsp;(III) leverage additional public and private resources to fund training programs, including cash or in-kind matches from participating employers.
+
+#### (v) Coordination
+
+&emsp;&emsp;&emsp;A grantee under this subparagraph shall coordinate activities carried out under the grant with existing other appropriate training programs, including apprenticeship and labor management training programs, including such activities referenced in paragraph (3)(A), and implement training programs that lead to the economic self-sufficiency of trainees.
+
+#### (E) Pathways Out of Poverty Demonstration Program
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Under the program established under paragraph (1), the Secretary shall award competitive grants of sufficient size to eligible entities to enable such entities to carry out training that leads to economic self-sufficiency. The Secretary shall give priority to entities that serve individuals in families with income of less than 200 percent of the sufficiency standard for the local areas where the training is conducted that specifies, as defined by the State, or where such standard is not established, the income needs of families, by family size, the number and ages of children in the family, and sub-State geographical considerations. Grants shall be awarded to ensure geographic diversity.
+
+#### (ii) Eligible entities
+
+&emsp;&emsp;&emsp;To be eligible to receive a grant an entity shall be a partnership that—
+
+&emsp;&emsp;&emsp;&emsp;(I) includes community-based nonprofit organizations, educational institutions with expertise in serving low-income adults or youth, public or private employers from the industry sectors described in paragraph (1)(B)(ii), and labor organizations representing workers in such industry sectors;
+
+&emsp;&emsp;&emsp;&emsp;(II) demonstrates a record of successful experience in implementing and operating worker skills training and education programs;
+
+&emsp;&emsp;&emsp;&emsp;(III) coordinates activities, where appropriate, with the workforce investment system; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) demonstrates the ability to recruit individuals for training and to support such individuals to successful completion in training programs carried out under this grant, targeting populations of workers who are or will be engaged in activities related to energy efficiency and renewable energy industries.
+
+#### (iii) Priorities
+
+&emsp;&emsp;&emsp;In awarding grants under this paragraph, the Secretary shall give priority to applicants that—
+
+&emsp;&emsp;&emsp;&emsp;(I) target programs to benefit low-income workers, unemployed youth and adults, high school dropouts, or other underserved sectors of the workforce within areas of high poverty;
+
+&emsp;&emsp;&emsp;&emsp;(II) ensure that supportive services are integrated with education and training, and delivered by organizations with direct access to and experience with targeted populations;
+
+&emsp;&emsp;&emsp;&emsp;(III) leverage additional public and private resources to fund training programs, including cash or in-kind matches from participating employers;
+
+&emsp;&emsp;&emsp;&emsp;(IV) involve employers and labor organizations in the determination of relevant skills and competencies and ensure that the certificates or credentials that result from the training are employer-recognized;
+
+&emsp;&emsp;&emsp;&emsp;(V) deliver courses at alternative times (such as evening and weekend programs) and locations most convenient and accessible to participants and link adult remedial education with occupational skills training; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) demonstrate substantial experience in administering local, municipal, State, Federal, foundation, or private entity grants.
+
+#### (iv) Data collection
+
+&emsp;&emsp;&emsp;Grantees shall collect and report the following information:
+
+&emsp;&emsp;&emsp;&emsp;(I) The number of participants.
+
+&emsp;&emsp;&emsp;&emsp;(II) The demographic characteristics of participants, including race, gender, age, parenting status, participation in other Federal programs, education and literacy level at entry, significant barriers to employment (such as limited English proficiency, criminal record, addiction or mental health problem requiring treatment, or mental disability).
+
+&emsp;&emsp;&emsp;&emsp;(III) The services received by participants, including training, education, and supportive services.
+
+&emsp;&emsp;&emsp;&emsp;(IV) The amount of program spending per participant.
+
+&emsp;&emsp;&emsp;&emsp;(V) Program completion rates.
+
+&emsp;&emsp;&emsp;&emsp;(VI) Factors determined as significantly interfering with program participation or completion.
+
+&emsp;&emsp;&emsp;&emsp;(VII) The rate of job placement and the rate of employment retention after 1 year.
+
+&emsp;&emsp;&emsp;&emsp;(VIII) The average wage at placement, including any benefits, and the rate of average wage increase after 1 year.
+
+&emsp;&emsp;&emsp;&emsp;(IX) Any post-employment supportive services provided.
+
+&emsp;&emsp;&nbsp;The Secretary shall assist grantees in the collection of data under this clause by making available, where practicable, low-cost means of tracking the labor market outcomes of participants, and by providing standardized reporting forms, where appropriate.
+
+#### (3) Activities
+
+#### (A) In general
+
+&emsp;&emsp;Activities to be carried out under a program authorized by subparagraph (B), (D), or (E) of paragraph (2) shall be coordinated with existing systems or providers, as appropriate. Such activities may include—
+
+&emsp;&emsp;&emsp;(i) occupational skills training, including curriculum development, on-the-job training, and classroom training;
+
+&emsp;&emsp;&emsp;(ii) safety and health training;
+
+&emsp;&emsp;&emsp;(iii) the provision of basic skills, literacy, GED, English as a second language, and job readiness training;
+
+&emsp;&emsp;&emsp;(iv) individual referral and tuition assistance for a community college training program, or any training program leading to an industry-recognized certificate;
+
+&emsp;&emsp;&emsp;(v) internship programs in fields related to energy efficiency and renewable energy;
+
+&emsp;&emsp;&emsp;(vi) customized training in conjunction with an existing registered apprenticeship program or labor-management partnership;
+
+&emsp;&emsp;&emsp;(vii) incumbent worker and career ladder training and skill upgrading and retraining;
+
+&emsp;&emsp;&emsp;(viii) the implementation of transitional jobs strategies; and
+
+&emsp;&emsp;&emsp;(ix) the provision of supportive services.
+
+#### (B) Outreach activities
+
+&emsp;&emsp;In addition to the activities authorized under subparagraph (A), activities authorized for programs under subparagraph (E) of paragraph (2) may include the provision of outreach, recruitment, career guidance, and case management services.
+
+#### (4) Worker protections and nondiscrimination requirements
+
+#### (A) Application of WIA
+
+&emsp;&emsp;The provisions of sections 2931 and 2938 of this title shall apply to all programs carried out with assistance under this subsection.
+
+#### (B) Consultation with labor organizations
+
+&emsp;&emsp;If a labor organization represents a substantial number of workers who are engaged in similar work or training in an area that is the same as the area that is proposed to be funded under this Act, the labor organization shall be provided an opportunity to be consulted and to submit comments in regard to such a proposal.
+
+#### (5) Performance measures
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall negotiate and reach agreement with the eligible entities that receive grants and assistance under this section on performance measures for the indicators of performance referred to in subparagraphs (A) and (B) of section 2871(b)(2) of this title that will be used to evaluate the performance of the eligible entity in carrying out the activities described in subsection (e)(2). Each performance measure shall consist of such an indicator of performance, and a performance level referred to in subparagraph (B).
+
+#### (B) Performance levels
+
+&emsp;&emsp;The Secretary shall negotiate and reach agreement with the eligible entity regarding the levels of performance expected to be achieved by the eligible entity on the indicators of performance.
+
+#### (6) Report
+
+#### (A) Status report
+
+&emsp;&emsp;Not later than 18 months after December 19, 2007, the Secretary shall transmit a report to the Senate Committee on Energy and Natural Resources, the Senate Committee on Health, Education, Labor, and Pensions, the House Committee on Education and Labor, and the House Committee on Energy and Commerce on the training program established by this subsection. The report shall include a description of the entities receiving funding and the activities carried out by such entities.
+
+#### (B) Evaluation
+
+&emsp;&emsp;Not later than 3 years after December 19, 2007, the Secretary shall transmit to the Senate Committee on Energy and Natural Resources, the Senate Committee on Health, Education, Labor, and Pensions, the House Committee on Education and Labor, and the House Committee on Energy and Commerce an assessment of such program and an evaluation of the activities carried out by entities receiving funding from such program.
+
+#### (7) Definition
+
+&emsp;As used in this subsection, the term “renewable energy” has the meaning given such term in section 15852(b)(2) of title 42.
+
+#### (8) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection, $125,000,000 for each fiscal year, of which—
+
+&emsp;&emsp;(A) not to exceed 20 percent of the amount appropriated in each such fiscal year shall be made available for, and shall be equally divided between, national labor market research and information under paragraph (2)(A) and State labor market information and labor exchange research under paragraph (2)(C), and not more than 2 percent of such amount shall be for the evaluation and report required under paragraph (4);<sup>1</sup>
+
+&emsp;&emsp;(B) 20 percent shall be dedicated to Pathways Out of Poverty Demonstration Programs under paragraph (2)(E); and
+
+&emsp;&emsp;(C) the remainder shall be divided equally between National Energy Partnership Training Grants under paragraph (2)(B) and State energy training partnership grants under paragraph (2)(D).
+
+(Pub. L. 105–220, title I, §171, Aug. 7, 1998, 112 Stat. 1031; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(11)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 110–140, title X, §1002, Dec. 19, 2007, 121 Stat. 1748.)
+
+#### References in Text
+
+The Wagner-Peyser Act, referred to in subsec. (e)(2)(C)(ii), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+
+This Act, referred to in subsec. (e)(4)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 
+2007—Subsec. (e). Pub. L. 110–140 added subsec. (e).
+
 1998—Subsec. (b)(2)(A). Pub. L. 105–277, which directed the amendment of subsec. (b)(2) of this section by substituting “in accordance with generally applicable Federal requirements.” for “ ‘only on a competitive’ and all that follows through the period”, was executed to subsec. (b)(2)(A) by making the substitution for “only on a competitive basis, except that a noncompetitive award may be made in the case of a project that is funded jointly with other public or private sector entities that provide a portion of the funding for the project.”, to reflect the probable intent of Congress.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Demonstration Programs and Projects To Provide Technical Skills Training for Workers
 
 Pub. L. 105–277, div. C, title IV, §414(c), Oct. 21, 1998, 112 Stat. 2681–653, as amended, formerly set out as a note under this section, was transferred and is classified to section 2916a of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(6)”.</i>
 

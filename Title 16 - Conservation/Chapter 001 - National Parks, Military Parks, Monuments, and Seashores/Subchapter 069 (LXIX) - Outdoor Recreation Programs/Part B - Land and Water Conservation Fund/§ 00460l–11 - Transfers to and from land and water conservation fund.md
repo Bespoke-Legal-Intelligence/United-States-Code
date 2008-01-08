@@ -2,7 +2,7 @@
 
 #### (a) Motorboat fuel taxes from highway trust fund into conservation fund
 
-There shall be set aside in the land and water conservation fund in the Treasury of the United States provided for in this part the amounts specified in section 9503(c)(4)(B) of title 26 (relating to special motor fuels and gasoline used in motorboats).
+There shall be set aside in the land and water conservation fund in the Treasury of the UnitedStates provided for in sections 460<i>l</i>–4 to 460<i>l</i>–6a and 460<i>l</i>–7 to 460<i>l</i>–10e of this title the amounts specified in section 9503(c)(4)(B) of title 26 (relating to special motor fuels and gasoline used in motorboats).
 
 #### (b) Refunds of gasoline taxes for certain nonhighway purposes or used by local transit systems and motorboat fuel taxes from conservation fund into general fund of Treasury
 

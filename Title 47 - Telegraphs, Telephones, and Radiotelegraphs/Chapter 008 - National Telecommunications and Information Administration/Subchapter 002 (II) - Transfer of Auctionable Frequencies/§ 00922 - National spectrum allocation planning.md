@@ -8,7 +8,7 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
 &emsp;(3) the spectrum allocation actions necessary to accommodate those uses; and
 
-&emsp;(4) actions necessary to promote the efficient use of the spectrum, including spectrum management techniques to promote increased shared use of the spectrum that does not cause harmful interference as a means of increasing commercial access.
+&emsp;(4) actions necessary to promote the efficient use of the spectrum, including spectrum management techniques to promote increased shared use of the spectrum that does not causeharmful interference as a means of increasing commercial access.
 
 (Pub. L. 102–538, title I, §112, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380.)
 

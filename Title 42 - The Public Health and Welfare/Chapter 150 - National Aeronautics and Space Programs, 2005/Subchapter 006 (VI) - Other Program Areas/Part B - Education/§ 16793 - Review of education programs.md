@@ -22,3 +22,7 @@ Not later than 18 months after December 30, 2005, the Administrator shall transm
 
 (Pub. L. 109–155, title VI, §614, Dec. 30, 2005, 119 Stat. 2933.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

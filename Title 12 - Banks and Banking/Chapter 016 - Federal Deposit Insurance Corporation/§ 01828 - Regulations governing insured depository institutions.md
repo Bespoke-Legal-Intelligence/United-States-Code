@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each insured depository institution shall display at each place of business maintainedby that institution a sign or signs relating to the insurance of the deposits of the institution, in accordance with regulations to be prescribed by the Corporation.
+&emsp;&emsp;Each insured depository institution shall display at each place of business maintained by that institution a sign or signs relating to the insurance of the deposits of the institution, in accordance with regulations to be prescribed by the Corporation.
 
 #### (B) Statement to be included
 
@@ -110,7 +110,7 @@ Exceptions.—A responsible agency may not be required to request a report under
 
 &emsp;(C) a statement by the responsible agency of the basis for its approval.
 
-(10) Until June 30, 1976, the responsible agency shall not grant any approval required by law which has the practical effect of permitting a conversion from the mutual to the stock form of organization, including approval of any application pending on the date of enactment of this subsection, except that this sentence shall not be deemed to limit now or hereafter the authority of the responsible agency to grant approvals in cases where the responsible agency finds that it must act in order to maintain the safety, soundness, and stability of an insured depository institution. The responsible agency may by rule, regulation, or otherwise and under such civil penalties (which shall be cumulative to any other remedies) as it may prescribe take whatever action it deems necessary or appropriate to implement or enforce this subsection.
+(10) Until June 30, 1976, the responsible agency shall not grant any approval required by law which has the practical effect of permitting aconversion from the mutual to the stock form of organization, including approval of any application pending on the date of enactment of this subsection, except that this sentence shall not be deemed to limit now or hereafter the authority of the responsible agency to grant approvals in cases where the responsible agency finds that it must act in order to maintain the safety, soundness, and stability of an insured depository institution. The responsible agency may by rule, regulation, or otherwise and under such civil penalties (which shall be cumulative to any other remedies) as it may prescribe take whatever action it deems necessary or appropriate to implement or enforce this subsection.
 
 (11)
 
@@ -198,7 +198,7 @@ The Corporation may require any insured depository institution to provide protec
 
 #### (f) Publication of reports
 
-Whenever any insured depository institution (except a national bank), after written notice of the recommendations of the Corporation basedon a report of examination of such insured depository institution by an examiner of the Corporation, shall fail to comply with such recommendations within one hundred and twenty days after such notice, the Corporation shall have the power, and is authorized, to publish only such part of such report of examination as relates to any recommendation not complied with: <i>Provided</i>, That notice of intention to make such publication shall be given to the insured depository institution at least ninety days before such publication is made.
+Whenever any insured depository institution (except a national bank), after written notice of the recommendations of the Corporation based on a report of examination of such insured depository institution by an examiner of the Corporation, shall fail to comply with such recommendations within one hundred and twenty days after such notice, the Corporation shall have the power, and is authorized, to publish only such part of such report of examination as relates to any recommendation not complied with: <i>Provided</i>, That notice of intention to make such publication shall be given to the insured depository institution at least ninety days before such publication is made.
 
 #### (g) Interest or dividend on demand deposits; definitions; regulation of interest rates
 
@@ -216,7 +216,7 @@ Whenever any insured depository institution (except a national bank), after writ
 
 &emsp;Paragraph (1) shall not apply if—
 
-&emsp;&emsp;(A) the failure to pay an assessment is due to a dispute between the insured depository institution and the Corporation over the amount of such assessment; and
+&emsp;&emsp;(A) the failure to pay an assessment is due to a dispute between the insured depositoryinstitution and the Corporation over the amount of such assessment; and
 
 &emsp;&emsp;(B) the insured depository institution deposits security satisfactory to the Corporation for payment upon final determination of the issue.
 
@@ -226,7 +226,7 @@ Whenever any insured depository institution (except a national bank), after writ
 
 #### (4) Authority to modify or remit penalty
 
-&emsp;The Corporation, in the sole discretion of the Corporation, may compromise, modify orremit any penalty which the Corporation may assess or has already assessed under paragraph (1) upon a finding that good cause prevented the timely payment of an assessment.
+&emsp;The Corporation, in the sole discretion of the Corporation, may compromise, modify or remit any penalty which the Corporation may assess or has already assessed under paragraph (1) upon a finding that good cause prevented the timely payment of an assessment.
 
 #### (i) Reduction or retirement of capital stock, notes, or debentures; conversion of insured Federal depository institutions to insured State banks or noninsured institutions; consent of banking agencies; applicability
 
@@ -700,7 +700,7 @@ Section 633 of this title shall apply to every nonmember insured bank in the sam
 
 #### (3) Malicious intent
 
-&emsp;Notwithstanding any other provision of this subsection, voluntary disclosure made by an insured depository institution, and any director, officer, employee, or agent of such institution, under this subsection concerning potentially unlawful activity that is made with malicious intent, shall not be shielded from liability from the person identified in the disclosure.
+&emsp;Notwithstanding any other provision of this subsection, voluntary disclosure made by aninsured depository institution, and any director, officer, employee, or agent of such institution, under this subsection concerning potentially unlawful activity that is made with malicious intent, shall not be shielded from liability from the person identified in the disclosure.
 
 #### (4) Definition
 
@@ -742,7 +742,7 @@ Section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforc
 
 Section 202 of Pub. L. 96–104, cited as a credit to this section, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979. The amendment of this section by that repealed provision, described in the 1979 Amendment note set out under this section, shall continue in effect for limited purposes pursuant to section 212 of Pub. L. 96–161. See Savings Provisions note, describing the provisions of section 212 of Pub. L. 96–161, set out under section 85 of this title.
 
-Section 302 of Pub. L. 93–501, cited as a credit to this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789. The amendment of this section by that repealed provision, described in the 1974 Amendment note set out under this section, shall continue in effect for limited purposes pursuant to section 1 of Pub. L. 96–104. See Savings Provisions note, describing the provisions of section 1 of Pub. L. 96–104, set out under section 85 of this title.
+Section 302 of Pub. L. 93–501, cited as a credit to this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789. The amendment of this section by that repealed provision, described in the 1974 Amendment note set out under this section, shall continue in effect for limited purposes pursuant to section 1 of Pub. L. 96–104. See Savings Provisions note, describing the provisionsof section 1 of Pub. L. 96–104, set out under section 85 of this title.
 
 #### Prior Provisions
 
@@ -822,7 +822,7 @@ Pub. L. 106–102, §204, which directed amendment of section by adding at end s
 
 1998—Subsec. (s)(4), (5). Pub. L. 105–277 redesignated par. (4) as (5) and added par. (4).
 
-1996—Subsec. (m)(3). Pub. L. 104–208, §2704(d)(14)(U), which directed substitution of “Deposit InsuranceFund” for “Savings Association Insurance Fund” wherever appearing and striking of “or the Bank Insurance Fund” in subpar. (C), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+1996—Subsec. (m)(3). Pub. L. 104–208, §2704(d)(14)(U), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund” wherever appearing and striking of “or the Bank Insurance Fund” in subpar. (C), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (p). Pub. L. 104–208, §2704(d)(14)(V), which directed substitution of “Deposit Insurance Fund” for “deposit insurance funds”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
@@ -898,7 +898,7 @@ Subsec. (j)(3)(D). Pub. L. 101–73, §201(a), substituted “insured depository
 
 Subsec. (j)(4), (5). Pub. L. 101–73, §907(c), amended pars. (4) and (5) generally. Prior to amendment, pars. (4) and (5) read as follows:
 
-“(4)(A) Any nonmember insured bank which violates or any officer, director, employee, agent, or other person participating in the conduct of the affairs of such nonmember insured bank who violates any provision of section 371c, 371c–1, or 375b of this title, or any lawful regulation issued pursuant thereto, or any provision of section 377 of this title, shall forfeit and pay a civil penalty of not more than $1,000 per day for each day during which such violation continues: <i>Provided</i>, That the Corporation may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Corporation by written notice. As used in this section, the term ‘violates’ includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+“(4)(A) Any nonmember insured bank which violates or any officer, director, employee, agent, or other person participating in the conduct of the affairs of such nonmember insured bank who violates any provision ofsection 371c, 371c–1, or 375b of this title, or any lawful regulation issued pursuant thereto, or any provision of section 377 of this title, shall forfeit and pay a civil penalty of not more than $1,000 per day for each day during which such violation continues: <i>Provided</i>, That the Corporation may, in its discretion, compromise, modify, or remit any civil money penalty which is subject to imposition or has been imposed under authority of this subsection. The penalty may be assessed and collected by the Corporation by written notice. As used in this section, the term ‘violates’ includes without any limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 “(B) In determining the amount of the penalty the Corporation shall take into account the appropriateness of the penalty with respect to the size of financial resources and good faith of the member bank or person charged, the gravity of the violation, the history of previous violations, and such other matters as justice may require.
 
@@ -952,7 +952,7 @@ Subsec. (k). Pub. L. 96–221, §529, repealed Pub. L. 96–104 and title II of 
 
 Subsec. (k). Pub. L. 96–161, §209, added subsec. (k). A prior subsec. (k), added by Pub. L. 96–104 and identical to the subsec. (k) added by Pub. L. 96–161, was repealed by section 212 of Pub. L. 96–161. See Codification note above.
 
-Pub. L. 96–104 added subsec. (k). A prior subsec. (k), which also related to the inapplicability of State usury ceilings to certain obligations issued by insured nonmember banks and affiliates, was repealed by section 1 of Pub. L. 96–104.
+Pub. L. 96–104 added subsec. (k). A prior subsec. (k), which also related to the inapplicability of State usuryceilings to certain obligations issued by insured nonmember banks and affiliates, was repealed by section 1 of Pub. L. 96–104.
 
 1978—Subsec. (c)(1)(B). Pub. L. 95–630, §306, inserted “(including liabilities which would be ‘deposits’ except for the proviso in section 1813(<i>l</i>)(5) of this title)” after “pay any deposits”.
 
@@ -960,7 +960,7 @@ Subsec. (c)(11). Pub. L. 95–369, §6(c)(25), added par. (11).
 
 Subsec. (d). Pub. L. 95–630, §301(b), designated existing provisions as par. (1) and, inserted “domestic” after “operate any new” and “such” after “main office or any”, and added par. (2).
 
-Pub. L. 95–369, §6(c)(26), inserted provision prohibiting a foreign bank from moving any insured branchfrom one location to another without the consent of the Corporation.
+Pub. L. 95–369, §6(c)(26), inserted provision prohibiting a foreign bank from moving any insured branch from one location to another without the consent of the Corporation.
 
 Subsec. (g). Pub. L. 95–369, §6(c)(27), inserted “and in insured branches of foreign banks” after “in insured nonmember banks”.
 
@@ -1008,13 +1008,13 @@ Amendment by section 2104(c) of Pub. L. 109–171 effective Jan. 1, 2007, see se
 
 #### Effective Date of 2004 Amendments
 
-Pub. L. 108–458, title VI, §6205, Dec. 17, 2004, 118 Stat. 3747, provided that: “The amendments made by this subchapter \[probably means subtitle C (§§6201–6205) of title VI of Pub. L. 108–458, see Short Title of 2004 Amendment note set out under section 5301 of Title 31, Money and Finance\] to Public Law 107–56, the United States Code, the Federal Deposit Insurance Act, and any other provision of law shall take effect as if such amendments had been included in Public Law 107–56, as of the date of enactment of such Public Law \[Oct. 26, 2001\], and no amendment made by such Public Law that is inconsistent with an amendment made by this subchapter shall be deemed to have taken effect.”
+Pub. L. 108–458, title VI, §6205, Dec. 17, 2004, 118 Stat. 3747, provided that: “The amendments made by this subchapter \[probably means subtitle C (§§6201–6205) of title VI of Pub. L. 108–458, see Short Title of 2004 Amendment note set out under section 5301 of Title 31, Money and Finance\] to Public Law 107–56, the UnitedStates Code, the Federal Deposit Insurance Act, and any other provision of law shall take effect as if such amendments had been included in Public Law 107–56, as of the date of enactment of such Public Law \[Oct. 26, 2001\], and no amendment made by such Public Law that is inconsistent with an amendment made by this subchapter shall be deemed to have taken effect.”
 
 Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise provided, applicable with respect to fiscal year 2005 and each succeeding fiscal year, see sections 8(i) and 9 of Pub. L. 108–386, set out as notes under section 321 of this title.
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–56, title III, §327(b)(2), Oct. 26, 2001, 115 Stat. 319, as amended by Pub. L. 108–458, title VI,§6202(i), Dec. 17, 2004, 118 Stat. 3746, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any application submitted to the responsible agency under section 18(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1828(c)\] after December 31, \[sic\].”
+Pub. L. 107–56, title III, §327(b)(2), Oct. 26, 2001, 115 Stat. 319, as amended by Pub. L. 108–458, title VI, §6202(i), Dec. 17, 2004, 118 Stat. 3746, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any application submitted to the responsible agency under section 18(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1828(c)\] after December 31, \[sic\].”
 
 #### Effective Date of 1999 Amendment
 
@@ -1068,7 +1068,7 @@ Amendment by sections 301(c) and 306 of Pub. L. 95–630 effective on the expira
 
 Section 102(b) of Pub. L. 93–501 provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply to any bank holding company which has filed prior to the date of enactment of this Act \[Oct. 29, 1974\] an irrevocable declaration with the Board of Governors of the Federal Reserve System to divest itself of all of its banks under section 4 of the Bank Holding Company Act \[section 1843 of this title\], or to any debt obligation which is an exempted security under section 3(a)(3) of the Securities Act of 1933 \[section 77c(a)(3) of Title 15, Commerce and Trade\].”
 
-Amendment by section 302 of Pub. L. 93–501 applicable to deposits made or obligations issued in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977 or the date of enactment by the state of a law limiting the amount of interest which may be charged in connection with such deposits or obligations, see section 304 of Pub. L. 93–501, set out as a note under section 371b–1 of this title.
+Amendment by section 302 of Pub. L. 93–501 applicable to deposits made or obligations issued in any state after Oct. 29, 1974, but prior to the earlier of July 1, 1977 or the date of enactment by the state of a law limitingthe amount of interest which may be charged in connection with such deposits or obligations, see section 304 of Pub. L. 93–501, set out as a note under section 371b–1 of this title.
 
 #### Effective Date of 1973 Amendment
 
@@ -1076,7 +1076,7 @@ Amendment by Pub. L. 93–100 effective on thirtieth day after Aug. 16, 1973, se
 
 #### Effective and Termination Dates of 1969 Amendment
 
-Section 7 of Pub. L. 89–597, as amended, formerly set out as an Effective and Termination Dates of 1966 Amendment note under section 461 of this title (whichprovided in part that amendment of subsec. (g) of this section by addition of three sentences at the end thereof by section 2(a) of Pub. L. 91–151 to be effective only to Dec. 15, 1980, and that on Dec 15, 1980, such three sentences were to be repealed) was repealed by section 207(a) of Pub. L. 96–221.
+Section 7 of Pub. L. 89–597, as amended, formerly set out as an Effective and Termination Dates of 1966 Amendment note under section 461 of this title (which provided in part that amendment of subsec. (g) of this section by addition of three sentences at the end thereof by section 2(a) of Pub. L. 91–151 to be effective only to Dec. 15, 1980, and that on Dec 15, 1980, such three sentences were to be repealed) was repealed by section 207(a) of Pub. L. 96–221.
 
 #### Effective and Termination Dates of 1966 Amendment
 
@@ -1198,7 +1198,7 @@ Pub. L. 102–242, title IV, §475, Dec. 19, 1991, 105 Stat. 2386, as amended by
 
 In General.—Notwithstanding section 5(t)(4) of the Home Owners’ Loan Act \[former 12 U.S.C. 1464(t)(4)\], each appropriate Federal banking agency shall determine, with respect to insured depository institutions for which it is the appropriate Federal regulator, the amount of readily marketable purchased mortgage servicing rights that may be included in calculating such institution's tangible capital, risk-based capital, or leverage limit, if—
 
-&emsp;“(1) such servicing rights are valued at not more than 90 percent (or such other percentage exceeding90 percent but not exceeding 100 percent, as may be determined under subsection (b)) of their fair market value; and
+&emsp;“(1) such servicing rights are valued at not more than 90 percent (or such other percentage exceeding 90 percent but not exceeding 100 percent, as may be determined under subsection (b)) of their fair market value; and
 
 &emsp;“(2) the fair market value of such servicing rights is determined not less often than quarterly.
 
@@ -1248,7 +1248,7 @@ Section 2 of Pub. L. 89–356 provided that:
 
 “(b) No merger, consolidation, acquisition of assets, or assumption of liabilities involving an insured bank which was consummated after June 16, 1963, and prior to the date of enactment of this Act \[Feb. 21, 1966\] and as to which no litigation was initiated by the Attorney General prior to the date of enactment of this Act \[Feb. 21, 1966\] may be attacked after such date in any judicial proceeding on the ground that it alone and of itself constituted a violation of any antitrust laws other than section 2 of the Act of July 2, 1890 (section 2 of the Sherman Antitrust Act, 15 U.S.C. 2).
 
-“(c) Any court having pending before it on or after the date of enactment of this Act \[Feb. 21, 1966\] any litigation initiated under the antitrust laws by the Attorney General after June 16, 1963 with respect to the merger, consolidation, acquisition of assets, or assumption of liabilities of an insured bank consummated after June 16, 1963, shall apply the substantive rule of law set forth in section 18(c)(5) of the Federal Deposit Insurance Act \[subsec. (c)(5) of this section\], as amended by this Act.
+“(c) Any court having pending before it on or after the date of enactment of this Act \[Feb. 21, 1966\] any litigation initiated under the antitrust laws by the Attorney General after June 16, 1963 with respect to the merger, consolidation, acquisition of assets, or assumption of liabilities of an insured bank consummated after June 16, 1963, shall apply the substantive rule of law set forth in section 18(c)(5) of the Federal DepositInsurance Act \[subsec. (c)(5) of this section\], as amended by this Act.
 
 “(d) For the purposes of this section, the term ‘antitrust laws’ means the Act of July 2, 1890 (the Sherman Antitrust Act, 15 U.S.C. 1–7), the Act of October 15, 1914 (the Clayton Act, 15 U.S.C. 12–27), and any other Acts in pari materia.”
 

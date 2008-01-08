@@ -18,19 +18,15 @@ A nonresident alien individual or a foreign corporation engaged in trade or busi
 
 (4) For purposes of sections 902(a) and 78, a foreign corporation choosing the benefits of this subpart which receives dividends shall, with respect to such dividends, be treated as a domestic corporation.
 
-(5) No credit shall be allowed under this section for any income, war profits, and excess profits taxes paid or accrued with respect to the foreign trade income (within the meaning of section 923(b)) <sup>1</sup> of a FSC.
+(5) For purposes of section 902, any income, war profits, and excess profits taxes paid or accrued (or deemed paid or accrued) to any foreign country or possession of the United States with respect to income effectively connected with the conduct of a trade or business within the United States shall not be taken into account, and any accumulated profits attributable to such income shall not be taken into account.
 
-(6) For purposes of section 902, any income, war profits, and excess profits taxes paid or accrued (or deemed paid or accrued) to any foreign country or possession of the United States with respect to income effectively connected with the conduct of a trade or business within the United States shall not be taken into account, and any accumulated profits attributable to such income shall not be taken into account.
+(6) No credit shall be allowed under this section against the tax imposed by section 884.
 
-(7) No credit shall be allowed under this section against the tax imposed by section 884.
-
-(Added Pub. L. 89–809, title I, §106(a)(1), Nov. 13, 1966, 80 Stat. 1568; amended Pub. L. 98–369, div. A, title VIII, §801(d)(3), July 18, 1984, 98 Stat. 996; Pub. L. 99–514, title XII, §1241(c), title XVIII, §1876(d)(3), Oct. 22, 1986, 100 Stat. 2580, 2899; Pub. L. 100–647, title I, §1012(q)(10), Nov. 10, 1988, 102 Stat. 3524.)
-
-#### References in Text
-
-Section 923, referred to in subsec. (b)(5), was repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
+(Added Pub. L. 89–809, title I, §106(a)(1), Nov. 13, 1966, 80 Stat. 1568; amended Pub. L. 98–369, div. A, title VIII, §801(d)(3), July 18, 1984, 98 Stat. 996; Pub. L. 99–514, title XII, §1241(c), title XVIII, §1876(d)(3), Oct. 22, 1986, 100 Stat. 2580, 2899; Pub. L. 100–647, title I, §1012(q)(10), Nov. 10, 1988, 102 Stat. 3524; Pub. L. 110–172, §11(g)(11), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### Amendments
+
+2007—Subsec. (b)(5) to (7). Pub. L. 110–172 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: “No credit shall be allowed under this section for any income, war profits, and excess profits taxes paid or accrued with respect to the foreign trade income (within the meaning of section 923(b)) of a FSC.”
 
 1988—Subsec. (b)(6), (7). Pub. L. 100–647 redesignated par. (6), relating to credit against tax imposed by section 884, as (7).
 
@@ -48,7 +44,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1241(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1241(e) of Pub. L. 99–514, set out as an Effective Date note under section 884 of this title.
 
-Amendment by section 1876(d)(3) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1876(d)(3) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -61,6 +57,4 @@ Section applicable with respect to taxable years beginning after Dec. 31, 1966, 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (A) Review
 
-&emsp;&emsp;Not later than 6 years after the date of enactment of this section, the Secretary shallreview the credits allocated under this section as of the date which is 6 years after the date of enactment of this section.
+&emsp;&emsp;Not later than 6 years after the date of enactment of this section, the Secretary shall review the credits allocated under this section as of the date which is 6 years after the date of enactment of this section.
 
 #### (B) Redistribution
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) there is an insufficient quantity of qualifying applications for certification pending at the time of the review, or
 
-&emsp;&emsp;&emsp;(ii) any certification made pursuant to subsection paragraph (2) has been revoked pursuant to subsection paragraph (2)(D) because the project subject to the certification has been delayed as a result of third party opposition or litigation to the proposed project.
+&emsp;&emsp;&emsp;(ii) any certification made pursuant to paragraph (2) has been revoked pursuant to paragraph (2)(D) because the project subject to the certification has been delayed as a result of third party opposition or litigation to the proposed project.
 
 #### (C) Reallocation
 
@@ -209,7 +209,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) be adjusted for the heat content of the design coal to be used by the unit—
 
-&emsp;&emsp;&emsp;(i) if the heat content is less than 13,500 Btu per pound, but greater than 7,000 Btuper pound, according to the following formula: design net heat rate = unit net heat rate x \[1–\[((13,500-design coal heat content, Btu per pound)/1,000)\* 0.013\]\], and
+&emsp;&emsp;&emsp;(i) if the heat content is less than 13,500 Btu per pound, but greater than 7,000 Btu per pound, according to the following formula: design net heat rate = unit net heat rate x \[1–\[((13,500-design coal heat content, Btu per pound)/1,000)\* 0.013\]\], and
 
 &emsp;&emsp;&emsp;(ii) if the heat content is less than or equal to 7,000 Btu per pound, according to the following formula: design net heat rate = unit net heat rate x \[1–\[((13,500-design coal heat content, Btu per pound)/1,000)\* 0.018\]\], and
 
@@ -245,7 +245,7 @@ No use of technology (or level of emission reduction solely by reason of the use
 
 &emsp;(3) achievable in practice for purposes of section 171 of such Act (42 U.S.C. 7501).
 
-(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 999; amended Pub. L. 109–432, div. A, title II, §203(a), Dec. 20, 2006, 120 Stat. 2945.)
+(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 999; amended Pub. L. 109–432, div. A, title II, §203(a), Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(10), Dec. 29, 2007, 121 Stat. 2485.)
 
 #### References in Text
 
@@ -254,6 +254,8 @@ The enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. 
 The date of enactment of this section, referred to in subsecs. (d)(1), (4)(A) and (f)(3), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments
+
+2007—Subsec. (d)(4)(B)(ii). Pub. L. 110–172 struck out “subsection” before “paragraph” in two places.
 
 2006—Subsec. (f)(1). Pub. L. 109–432 inserted concluding provisions.
 

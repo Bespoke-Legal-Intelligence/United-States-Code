@@ -22,7 +22,7 @@ For the purposes of this subchapter, the term “program or activity” and the 
 
 > any part of which is extended Federal financial assistance.
 
-(Pub. L. 88–352, title VI, §606, as added Pub. L. 100–259, §6, Mar. 22, 1988, 102 Stat. 31; amendedPub. L. 103–382, title III, §391(q), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 107–110, title X, §1076(y), Jan. 8, 2002, 115 Stat. 2093.)
+(Pub. L. 88–352, title VI, §606, as added Pub. L. 100–259, §6, Mar. 22, 1988, 102 Stat. 31; amended Pub. L. 103–382, title III, §391(q), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 107–110, title X, §1076(y), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### Amendments
 

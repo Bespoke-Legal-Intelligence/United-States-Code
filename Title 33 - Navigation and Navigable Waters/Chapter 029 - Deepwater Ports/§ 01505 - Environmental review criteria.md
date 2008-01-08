@@ -20,7 +20,7 @@ The Secretary, in accordance with the recommendations of the Administrator of th
 
 #### (b) Review and revision
 
-The Secretary shall periodically review and, whenever necessary, revise in the same manneras originally developed, criteria established pursuant to subsection (a) of this section.
+The Secretary shall periodically review and, whenever necessary, revise in the same manner as originally developed, criteria established pursuant to subsection (a) of this section.
 
 #### (c) Concurrent development of criteria and regulations
 

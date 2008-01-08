@@ -30,13 +30,13 @@ A State that desires a grant under this section shall, as part of the State appl
 
 &emsp;(5) a demonstration that the resources will be allocated in accordance with the local demographic incidence of AIDS including appropriate allocations for services for infants, children, women, and families with HIV/AIDS;
 
-&emsp;(6) a demonstration of the inclusiveness of the planning process, with particular emphasison affected communities and individuals with HIV/AIDS; and
+&emsp;(6) a demonstration of the inclusiveness of the planning process, with particular emphasis on affected communities and individuals with HIV/AIDS; and
 
 &emsp;(7) a demonstration of the manner in which the proposed services are consistent with local needs assessments and the statewide coordinated statement of need.
 
 #### (d) Definitions of emerging community
 
-For purposes of this section, the term “emerging community” means a metropolitan area (as defined in section 300ff–17 of this title) for which there has been reported to and confirmed by the Director of the Centers for Disease Control and Prevention a cumulative total of at least 500, but fewer than 1,000, cases of AIDS during the most recent period of 5 calendar years for which such data are available.
+For purposes of this section, the term “emerging community” means a metropolitan area (as defined in section 300ff–17 of this title) for which there has been reported to and confirmed by the Director of the Centers for Disease Control and Prevention a cumulative total of at least 500,but fewer than 1,000, cases of AIDS during the most recent period of 5 calendar years for which such data are available.
 
 #### (e) Continued status as emerging community
 

@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-In order to promote efficiency and economy in contracting and to avoid unnecessary burdensfor agencies and contractors, the Federal Acquisition Regulation shall provide for—
+In order to promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for—
 
 &emsp;(1) special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and
 
@@ -76,7 +76,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
 #### Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold
 

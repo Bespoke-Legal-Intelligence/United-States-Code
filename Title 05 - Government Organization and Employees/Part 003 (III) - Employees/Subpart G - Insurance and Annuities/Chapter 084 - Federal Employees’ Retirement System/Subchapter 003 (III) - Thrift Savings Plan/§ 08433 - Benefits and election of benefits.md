@@ -60,7 +60,7 @@
 
 #### References in Text
 
-Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(3) and (g)(3), areclassified to sections 72(p) and 402(c)(8), respectively, of Title 26, Internal Revenue Code.
+Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(3) and (g)(3), are classified to sections 72(p) and 402(c)(8), respectively, of Title 26, Internal Revenue Code.
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Subsec. (c)(1). Pub. L. 103–226, §9(b)(3), substituted “directly to an elig
 
 Subsec. (d). Pub. L. 103–353, §4(b)(1), inserted before period at end “, unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred”.
 
-Pub. L. 103–226, §9(b)(2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment before becoming entitled to a deferred annuity under subchapter II of this chapter shall transfer the amount of the balance in the employee's or Member's account to an eligible retirement plan as provided in subsection (e), unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred.”
+Pub. L. 103–226, §9(b)(2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment before becoming entitled to a deferred annuity under subchapter II of this chapter shall transfer the amount of the balance in the employee's or Member's account to an eligible retirement plan as provided in subsection\(e), unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred.”
 
 Subsec. (d)(1). Pub. L. 103–226, §9(i)(4), substituted “(c) of section 8435” for “(d) of section 8435”.
 

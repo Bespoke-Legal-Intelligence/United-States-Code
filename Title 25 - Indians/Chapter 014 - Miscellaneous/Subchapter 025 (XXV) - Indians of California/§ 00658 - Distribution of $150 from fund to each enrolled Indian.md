@@ -6,7 +6,7 @@ Notwithstanding the provisions of section 656 of this title, the Secretary of th
 
 #### References in Text
 
-The Court of Claims, referred to in text, and the Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, into a new United States Court ofAppeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
+The Court of Claims, referred to in text, and the Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, into a new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
 
 Section 203 of the Act of April 25, 1945, referred to in text, is section 203 of act Apr. 25, 1945, ch. 95, title II, 59 Stat. 94, which was not classified to the Code.
 

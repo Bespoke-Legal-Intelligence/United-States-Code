@@ -48,7 +48,7 @@ There is established in the executive branch a corporation to be known as the â€
 
 #### (2) Duties
 
-&emsp;The Board shall perform the functions specified to be carried out by the Board in this chapter and may prescribe, amend, and repeal bylaws, rules, regulations, and procedures governing the manner in which the business of the Corporation may be conducted and in which the powers granted to it by law may be exercised.
+&emsp;The Board shall perform the functions specified to be carried out by the Board in this chapter and may prescribe, amend, and repealbylaws, rules, regulations, and procedures governing the manner in which the business of the Corporation may be conducted and in which the powers granted to it by law may be exercised.
 
 #### (3) Membership
 

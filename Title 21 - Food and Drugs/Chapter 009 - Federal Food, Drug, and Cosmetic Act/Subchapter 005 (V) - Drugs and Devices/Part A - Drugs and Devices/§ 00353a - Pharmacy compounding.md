@@ -38,7 +38,7 @@ Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a dru
 
 &emsp;&emsp;&emsp;&emsp;(III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, that appear on a list developed by the Secretary through regulations issued by the Secretary under subsection (d) of this section;
 
-&emsp;&emsp;&emsp;(ii) that are manufactured by an establishment that is registered under section 360 of this title (including a foreign establishment that is registered under section 360(i) of this title); and
+&emsp;&emsp;&emsp;(ii) that are manufactured by an establishment that is registered under section360 of this title (including a foreign establishment that is registered under section 360(i) of this title); and
 
 &emsp;&emsp;&emsp;(iii) that are accompanied by valid certificates of analysis for each bulk drug substance;
 

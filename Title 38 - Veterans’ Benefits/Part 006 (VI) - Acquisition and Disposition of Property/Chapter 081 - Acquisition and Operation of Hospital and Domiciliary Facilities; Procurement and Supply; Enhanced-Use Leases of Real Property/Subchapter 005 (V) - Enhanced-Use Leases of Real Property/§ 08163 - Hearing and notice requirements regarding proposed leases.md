@@ -8,7 +8,7 @@
 
 &emsp;(3) services to veterans in the community.
 
-(b) Before conducting such a hearing, the Secretary shall provide reasonable notice to thecongressional veterans’ affairs committees and to the public of the proposed lease and of the hearing. The notice shall include the following:
+(b) Before conducting such a hearing, the Secretary shall provide reasonable notice to the congressional veterans’ affairs committees and to the public of the proposed lease and of the hearing. The notice shall include the following:
 
 &emsp;(1) The time and place of the hearing.
 

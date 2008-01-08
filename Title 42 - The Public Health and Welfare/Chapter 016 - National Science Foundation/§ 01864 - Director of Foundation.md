@@ -38,7 +38,7 @@ The Director, in his capacity as ex officio member of the Board, shall, except w
 
 1968—Subsec. (a). Pub. L. 90–407 inserted provision prescribing the annual rate of compensation of the Director, and struck out provision authorizing the Director to serve as a nonvoting ex officio member of the Board and as the chief executive officer of the Foundation.
 
-Subsec. (b). Pub. L. 90–407 substituted provisions authorizing the Director, except as otherwise provided, to exercise all of the authority granted to the Foundation by this chapter and to take action final and binding upon the Foundation for provisions authorizing the Director, in addition to the powers and duties specifically vested in him by this chapter, to exercise the powers granted by sections 1869 or 1870(c) of this title and such other powers and duties delegated by the Board to him, and the proviso that no action taken by the Director pursuant to section 1869 or 1870(c) shall be final unless in each instance the Board has reviewed and approved the action proposed to be taken, or such action is taken pursuant to the terms of a delegation of authority from the Board or the Executive Committee to the Director.
+Subsec. (b). Pub. L. 90–407 substituted provisions authorizing the Director, except as otherwise provided, to exercise all of the authority granted to the Foundation by this chapter and to take action final and bindingupon the Foundation for provisions authorizing the Director, in addition to the powers and duties specifically vested in him by this chapter, to exercise the powers granted by sections 1869 or 1870(c) of this title and such other powers and duties delegated by the Board to him, and the proviso that no action taken by the Director pursuant to section 1869 or 1870(c) shall be final unless in each instance the Board has reviewed and approved the action proposed to be taken, or such action is taken pursuant to the terms of a delegation of authority from the Board or the Executive Committee to the Director.
 
 Subsecs. (c) to (f). Pub. L. 90–407 added subsecs. (c) to (f).
 
@@ -47,6 +47,8 @@ Subsecs. (c) to (f). Pub. L. 90–407 added subsecs. (c) to (f).
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1968 Amendment
 

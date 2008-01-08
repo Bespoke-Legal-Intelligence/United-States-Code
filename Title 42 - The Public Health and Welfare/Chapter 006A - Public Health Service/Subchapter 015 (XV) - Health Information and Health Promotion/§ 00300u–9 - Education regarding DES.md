@@ -6,13 +6,13 @@ The Secretary, acting through the heads of the appropriate agencies of the Publi
 
 #### (b) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 1999 through 2003. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriation that is available for such purpose.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through 2003. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriation that is available for such purpose.
 
 (July 1, 1944, ch. 373, title XVII, §1710, as added Pub. L. 105–340, title I, §101(b), Oct. 31, 1998, 112 Stat. 3191; amended Pub. L. 109–482, title I, §104(a)(2), Jan. 15, 2007, 120 Stat. 3689.)
 
 #### References in Text
 
-Section 283a–3 of this title, referred to in subsec. (a), was in the original “section 403C”, and was translated as meaning section 403C of act July 1, 1944, ch. 373, as renumbered by section 104(a)(1) of Pub. L. 109–482. Another section 403C of act July 1, 1944, ch. 373, as added by section 104(a)(3) of Pub. L. 109–482, is classified to section 283a–2 of this title.
+Section 283a–3 of this title, referred to in subsec. (a), was in the original “section 403C”, and was translated as meaning section 403D of act July 1, 1944, ch. 373, as renumbered section 403C by section 104(a)(1) of Pub. L. 109–482 and then section 403D by section 1104(4) of Pub. L. 110–85. Another section 403C of act July 1, 1944, ch. 373, as added by section 104(a)(3) of Pub. L. 109–482, is classified to section 283a–2 of this title.
 
 #### Prior Provisions
 

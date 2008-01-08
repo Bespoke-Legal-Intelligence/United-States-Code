@@ -88,7 +88,7 @@ While away from their homes or regular places of business in the performance of 
 
 #### (f) Hearings; public involvement
 
-The Commission may, for purposes of carrying out this subchapter, hold such hearings, sit andact at such times and places, take such public testimony, and receive such evidence, as the Commission considers appropriate. The Commission may not issue subpoenas or exercise any subpoena authority.
+The Commission may, for purposes of carrying out this subchapter, hold such hearings, sit and act at such times and places, take such public testimony, and receive such evidence, as the Commission considers appropriate. The Commission may not issue subpoenas or exercise any subpoena authority.
 
 (Pub. L. 107–373, §9, Dec. 19, 2002, 116 Stat. 3107.)
 

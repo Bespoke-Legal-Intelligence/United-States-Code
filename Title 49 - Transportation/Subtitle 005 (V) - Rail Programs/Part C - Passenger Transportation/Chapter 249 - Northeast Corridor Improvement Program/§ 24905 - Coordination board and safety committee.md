@@ -12,7 +12,7 @@ Northeast Corridor Coordination Board.—(1) The Northeast Corridor Coordination
 
 (2) The Board shall recommend to Amtrak—
 
-&emsp;(A) policies that ensure equitable access to the Northeast Corridor, considering the need for equitable access by commuter and intercity rail passenger transportation and the requirements of section 24308(c) of this title; and
+&emsp;(A) policies that ensure equitable access to the Northeast Corridor, considering the needfor equitable access by commuter and intercity rail passenger transportation and the requirements of section 24308(c) of this title; and
 
 &emsp;(B) equitable policies for the Northeast Corridor related to—
 

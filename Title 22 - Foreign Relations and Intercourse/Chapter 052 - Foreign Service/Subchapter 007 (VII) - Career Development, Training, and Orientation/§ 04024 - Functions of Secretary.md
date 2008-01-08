@@ -12,7 +12,7 @@ In the exercise of functions under this subchapter, the Secretary of State mayâ€
 
 &emsp;(4)(A) employ in accordance with the civil service laws such personnel as may be necessary to carry out the provisions of this subchapter, and
 
-&emsp;(B) if and to the extent determined to be necessary by the Secretary of State, obtain without regard to the provisions of law governing appointments in the competitive service, by appointment or contract (subject to the availability of appropriations), the services of individuals to serve as language instructors, linguists, and other academic and training specialists (including, in the absence of suitably qualified United States citizens, qualified individuals who are not citizens of the United States); and
+&emsp;(B) if and to the extent determined to be necessary by the Secretary of State, obtain without regard to the provisions of law governing appointments in the competitive service, by appointment or contract (subject to the availability of appropriations), the services of individuals to serve as language instructors, linguists, and other academic and training specialists (including, in the absenceof suitably qualified United States citizens, qualified individuals who are not citizens of the United States); and
 
 &emsp;(5) acquire such real and personal property and equipment as may be necessary for the establishment, maintenance, and operation of the facilities necessary to carry out the provisions of this subchapter without regard to section 5 of title 41 and section 252 of title 41.
 

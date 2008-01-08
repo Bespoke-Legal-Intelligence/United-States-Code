@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) after the transaction, the corporation surviving the merger holds substantially all of its properties and of the properties of the merged corporation (other than stock of the controlling corporation distributed in the transaction); and
 
-&emsp;&emsp;&emsp;(ii) in the transaction, former shareholders of the surviving corporation exchanged, for an amount of voting stock of the controlling corporation, an amount of stock in the surviving corporation which constitutes control of such corporation.
+&emsp;&emsp;&emsp;(ii) in the transaction, former shareholders of the surviving corporation exchanged, for an amount of voting stock ofthe controlling corporation, an amount of stock in the surviving corporation which constitutes control of such corporation.
 
 #### (F) Certain transactions involving 2 or more investment companies
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of a transaction with respect to which the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met, the term “control” has the meaning given such term by section 304(c), and
 
-&emsp;&emsp;&emsp;(ii) in the case of a transaction with respect to which the requirements of section 355 (or so much of section 356 as relates to section 355) are met, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account.
+&emsp;&emsp;&emsp;(ii) in the case of a transaction with respect to which the requirements of section355 (or so much of section 356 as relates to section 355) are met, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account.
 
 #### (3) Additional rules relating to title 11 and similar cases
 
@@ -174,7 +174,7 @@ Pub. L. 105–206 amended cl. (ii) generally. Prior to amendment, cl. (ii) read 
 
 Pub. L. 101–73, §1401(a)(1), inserted “receivership” in heading and amended text generally, changing the structure of the subparagraph from one consisting of five clauses designated (i) to (v) to one consisting of a single undesignated subparagraph.
 
-1988—Subsec. (a)(2)(F)(ii). Pub. L. 100–647, §1018(q)(5), struck out “(other than stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause (ii))” after “any one issuer” and after “orfewer issuers” and inserted at end “For purposes of this clause, a person holding stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause shall, except as provided in regulations, be treated as holding its proportionate share of the assets held by such company or trust.”
+1988—Subsec. (a)(2)(F)(ii). Pub. L. 100–647, §1018(q)(5), struck out “(other than stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause (ii))” after “any one issuer” and after “or fewer issuers” and inserted at end “For purposes of this clause, a person holding stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause shall, except as provided in regulations, be treated as holding its proportionate share of the assets held by such company or trust.”
 
 Subsec. (a)(3)(D)(iv), (v). Pub. L. 100–647, §4012(b)(1)(A), amended subpar. (D), as in effect before the amendment made by section 904(a) of Pub. L. 99–514, by adding cls. (iv) and (v).
 
@@ -218,7 +218,7 @@ Subsec. (a)(3). Pub. L. 96–589, §4(b), added par. (3).
 
 Subsec. (b). Pub. L. 96–589, §4(h)(4), substituted “paragraph (1)(A), (1)(B), (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C)” and “paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D)” for “paragraph (1)(A), (1)(B), or (1)(C) of subsection (a) by reason of paragraph (2)(C)” and “paragraph (1)(A) of subsection (a) by reason of paragraph (2)(D)”, respectively.
 
-1978—Subsec. (a)(2)(F). Pub. L. 95–600 substituted in cl. (iii), first sentence, “50 percent or more” and “80 percent or more” for “more than 50 percent” and “more than 80 percent”; substituted in cl. (vi), first sentence, “does not meet the requirements” for “is not diversified within the meaning”; struck from cl. (vi), second sentence, “(hereafter referred to as the (‘actual acquisition’)” after “section 368(a)(1)(B)” and “and security holders” after “the shareholders” and substituted “stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange” for “stock in such investment company for a percentage of the value of the total outstanding stock of the other corporation equal to the percentage of the value of the total outstanding stock of such investment company which such shareholders own immediately after the actual acquisition”; and added cls. (vii) and (viii).
+1978—Subsec. (a)(2)(F). Pub. L. 95–600 substituted in cl. (iii), first sentence, “50 percent or more” and “80percent or more” for “more than 50 percent” and “more than 80 percent”; substituted in cl. (vi), first sentence, “does not meet the requirements” for “is not diversified within the meaning”; struck from cl. (vi), second sentence, “(hereafter referred to as the (‘actual acquisition’)” after “section 368(a)(1)(B)” and “and security holders” after “the shareholders” and substituted “stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange” for “stock in such investment company for a percentage of the value of the total outstanding stock of the other corporation equal to the percentage of the value of the total outstanding stock of such investment company which such shareholders own immediately after the actual acquisition”; and added cls. (vii) and (viii).
 
 1976—Subsec. (a)(2)(F). Pub. L. 94–455, §2131(a), added subpar. (F).
 
@@ -242,7 +242,7 @@ Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see s
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 

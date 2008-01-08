@@ -34,7 +34,7 @@
 
 #### (c) Applicability of other provisions of law or remedies
 
-None of the moneys mentioned in this part shall be assignable either in law or equity, except under subsection (a) or (b) of this section, or subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal law.
+None of the moneys mentioned in this part shall be assignable either in law or equity, except under subsection (a) or (b) of this section,or subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal law.
 
 (Pub. L. 96–465, title I, §820, Oct. 17, 1980, 94 Stat. 2120; Pub. L. 99–335, title IV, §402(a)(2), June 6, 1986, 100 Stat. 609.)
 

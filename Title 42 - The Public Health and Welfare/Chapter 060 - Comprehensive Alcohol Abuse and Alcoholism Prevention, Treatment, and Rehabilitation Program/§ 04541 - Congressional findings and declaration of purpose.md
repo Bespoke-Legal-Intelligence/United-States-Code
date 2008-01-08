@@ -8,7 +8,7 @@
 
 &emsp;(3) it is estimated that alcoholism and other alcohol related problems cost the United States over $43,000,000,000 annually in lost production, medical and public assistance expenditures, police and court costs, and motor vehicle and other accidents;
 
-&emsp;(4) alcohol abuse is found with increasing frequency among persons who are multiple-drug abusers and among former heroin userswho are being treated in methadone maintenance programs;
+&emsp;(4) alcohol abuse is found with increasing frequency among persons who are multiple-drug abusers and among former heroin users who are being treated in methadone maintenance programs;
 
 &emsp;(5) alcohol abuse is being discovered among growning numbers of youth;
 
@@ -70,7 +70,7 @@ Section 101 of title I of Pub. L. 93–282 provided that: “This title \[enacti
 
 #### Short Title
 
-Section 1 of Pub. L. 91–616 provided that: “This Act \[enacting this chapter and section 2688j–2 of this title and amending sections 218, 246, 2688h and 2688t of this title\] may be cited as the ‘Comprehensive AlcoholAbuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970’.”
+Section 1 of Pub. L. 91–616 provided that: “This Act \[enacting this chapter and section 2688j–2 of this title and amending sections 218, 246, 2688h and 2688t of this title\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970’.”
 
 #### National Commission on Alcoholism and Other Alcohol-Related Problems; Establishment; Executive Secretary; Interim and Final Reports of Study; Termination; Authorization of Appropriations
 

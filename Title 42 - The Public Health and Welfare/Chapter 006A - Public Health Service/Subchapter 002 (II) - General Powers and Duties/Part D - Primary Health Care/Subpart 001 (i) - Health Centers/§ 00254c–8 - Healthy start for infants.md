@@ -24,7 +24,7 @@ Recipients of grants under subsection (a) of this section shall coordinate their
 
 #### (d) Rule of construction
 
-Except to the extent inconsistent with this section, this section may not be construed as affecting the authority of the Secretary to makemodifications in the program carried out under subsection (a) of this section.
+Except to the extent inconsistent with this section, this section may not be construed as affecting the authority of the Secretary to make modifications in the program carried out under subsection (a) of this section.
 
 #### (e) Additional services for at-risk pregnant women and infants
 

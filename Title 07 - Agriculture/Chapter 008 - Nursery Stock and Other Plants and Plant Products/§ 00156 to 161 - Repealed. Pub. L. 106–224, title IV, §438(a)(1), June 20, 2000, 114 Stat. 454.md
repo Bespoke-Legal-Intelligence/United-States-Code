@@ -1,6 +1,6 @@
 ### §§156 to 161. Repealed. Pub. L. 106–224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454
 
-Section 156, acts Aug. 20, 1912, ch. 308, §2, 37 Stat. 316; Pub. L. 100–449, title III, §301(f)(3)(B), Sept. 28, 1988, 102Stat. 1869; Pub. L. 103–465, title IV, §431(d)(2), Dec. 8, 1994, 108 Stat. 4968, required that Secretary of Agriculture be notified of arrival of nursery stock at port of entry, prohibited forwarding without notification, and provided for inspection before shipment.
+Section 156, acts Aug. 20, 1912, ch. 308, §2, 37 Stat. 316; Pub. L. 100–449, title III, §301(f)(3)(B), Sept. 28, 1988, 102 Stat. 1869; Pub. L. 103–465, title IV, §431(d)(2), Dec. 8, 1994, 108 Stat. 4968, required that Secretary of Agriculture be notified of arrival of nursery stock at port of entry, prohibited forwarding without notification, and provided for inspection before shipment.
 
 Section 157, act Aug. 20, 1912, ch. 308, §3, 37 Stat. 316, set forth marking requirements for entry of nursery stock into United States.
 

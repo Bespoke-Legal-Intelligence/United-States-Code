@@ -4,19 +4,23 @@
 
 Every employer shall pay to each of his employees who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, wages at the following rates:
 
-&emsp;(1) except as otherwise provided in this section, not less than $4.25 an hour during the period ending on September 30, 1996, not less than $4.75 an hour during the year beginning on October 1, 1996, and not less than $5.15 an hour beginning September 1, 1997;
+&emsp;(1) except as otherwise provided in this section, not less than—
+
+&emsp;&emsp;(A) $5.85 an hour, beginning on the 60th day after May 25, 2007;
+
+&emsp;&emsp;(B) $6.55 an hour, beginning 12 months after that 60th day; and
+
+&emsp;&emsp;(C) $7.25 an hour, beginning 24 months after that 60th day;
 
 &emsp;(2) if such employee is a home worker in Puerto Rico or the Virgin Islands, not less than the minimum piece rate prescribed by regulation or order; or, if no such minimum piece rate is in effect, any piece rate adopted by such employer which shall yield, to the proportion or class of employees prescribed by regulation or order, not less than the applicable minimum hourly wage rate. Such minimum piece rates or employer piece rates shall be commensurate with, and shall be paid in lieu of, the minimum hourly wage rate applicable under the provisions of this section. The Administrator, or his authorized representative, shall have power to make such regulations or orders as are necessary or appropriate to carry out any of the provisions of this paragraph, including the power without limiting the generality of the foregoing, to define any operation or occupation which is performed by such home work employees in Puerto Rico or the Virgin Islands; to establish minimum piece rates for any operation or occupation so defined; to prescribe the method and procedure for ascertaining and promulgating minimum piece rates; to prescribe standards for employer piece rates, including the proportion or class of employees who shall receive not less than the minimum hourly wage rate; to define the term “home worker”; and to prescribe the conditions under which employers, agents, contractors, and subcontractors shall cause goods to be produced by home workers;
 
-&emsp;(3) if such employee is employed in American Samoa, in lieu of the rate or rates provided by this subsection or subsection (b) of this section, not less than the applicable rate established by the Secretary of Labor in accordance with recommendations of a special industry committee or committees which he shall appoint pursuant to sections 205 and 208 of this title. The minimum wage rate thus established shall not exceed the rate prescribed in paragraph (1) of this subsection;
+&emsp;(3) if such employee is employed as a seaman on an American vessel, not less than the rate which will provide to the employee, for the period covered by the wage payment, wages equal to compensation at the hourly rate prescribed by paragraph (1) of this subsection for all hours during such period when he was actually on duty (including periods aboard shipwhen the employee was on watch or was, at the direction of a superior officer, performing work or standing by, but not including off-duty periods which are provided pursuant to the employment agreement); or
 
-&emsp;(4) if such employee is employed as a seaman on an American vessel, not less than the rate which will provide to the employee, for the period covered by the wage payment, wages equal to compensation at the hourly rate prescribed by paragraph (1) of this subsection for all hours during such period when he was actually on duty (including periods aboard ship when the employee was on watch or was, at the direction of a superior officer, performing work or standing by, but not including off-duty periods which are provided pursuant to the employment agreement); or
-
-&emsp;(5) if such employee is employed in agriculture, not less than the minimum wage rate in effect under paragraph (1) after December 31, 1977.
+&emsp;(4) if such employee is employed in agriculture, not less than the minimum wage rate in effect under paragraph (1) after December 31, 1977.
 
 #### (b) Additional applicability to employees pursuant to subsequent amendatory provisions
 
-Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) of this section applies) who in anyworkweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to this chapter by the Fair Labor Standards Amendments of 1966, title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not less than the minimum wage rate in effect under subsection (a)(1) of this section.
+Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) of this section applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to this chapter by the Fair Labor Standards Amendments of 1966, title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not less than the minimum wage rate in effect under subsection (a)(1) of this section.
 
 #### (c) Repealed. Pub. L. 104–188, \[title II\], §2104(c), Aug. 20, 1996, 110 Stat. 1929
 
@@ -60,7 +64,7 @@ Any employee—
 
 (4) This subsection shall only apply to an employee who has not attained the age of 20 years.
 
-(June 25, 1938, ch. 676, §6, 52 Stat. 1062; June 26, 1940, ch. 432, §3(e), (f), 54 Stat. 616; Oct. 26, 1949, ch. 736, §6, 63 Stat. 912; Aug. 12, 1955, ch. 867, §3, 69 Stat. 711; Aug. 8, 1956, ch. 1035, §2, 70 Stat. 1118; Pub. L. 87–30, §5, May 5, 1961, 75 Stat. 67; Pub. L. 88–38, §3, June 10, 1963, 77 Stat. 56; Pub. L. 89–601, title III, §§301–305, Sept. 23, 1966, 80 Stat. 838, 839, 841; Pub. L. 93–259, §§2–4, 5(b), 7(b)(1), Apr. 8, 1974, 88 Stat. 55, 56, 62; Pub. L. 95–151, §2(a)–(d)(2), Nov. 1, 1977, 91 Stat. 1245, 1246; Pub. L. 101–157, §§2, 4(b), Nov. 17, 1989, 103 Stat. 938, 940; Pub. L. 101–239, title X, §10208(d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2481; Pub. L. 104–188, \[title II\], §§2104(b), (c), 2105(c), Aug. 20, 1996, 110 Stat. 1928, 1929.)
+(June 25, 1938, ch. 676, §6, 52 Stat. 1062; June 26, 1940, ch. 432, §3(e), (f), 54 Stat. 616; Oct. 26, 1949, ch. 736, §6, 63 Stat. 912; Aug. 12, 1955, ch. 867, §3, 69 Stat. 711; Aug. 8, 1956, ch. 1035, §2, 70 Stat. 1118; Pub. L. 87–30, §5, May 5, 1961, 75 Stat. 67; Pub. L. 88–38, §3, June 10, 1963, 77 Stat. 56; Pub. L. 89–601, title III, §§301–305, Sept. 23, 1966, 80 Stat. 838, 839, 841; Pub. L. 93–259, §§2–4, 5(b), 7(b)(1), Apr. 8, 1974, 88 Stat. 55, 56, 62; Pub. L. 95–151, §2(a)–(d)(2), Nov. 1, 1977, 91 Stat. 1245, 1246; Pub. L. 101–157, §§2, 4(b), Nov. 17, 1989, 103 Stat. 938, 940; Pub. L. 101–239, title X, §10208(d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2481; Pub. L. 104–188, \[title II\], §§2104(b), (c), 2105(c), Aug. 20, 1996, 110 Stat. 1928, 1929; Pub. L. 110–28, title VIII, §§8102(a), 8103(c)(1)(B), May 25, 2007, 121 Stat. 188, 189.)
 
 #### References in Text
 
@@ -75,6 +79,10 @@ The Service Contract Act of 1965, referred to in subsec. (e)(1), (2), is Pub. L.
 The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of such Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2007—Subsec. (a)(1). Pub. L. 110–28, §8102(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “except as otherwise provided in this section, not less than $4.25 an hour during the period ending on September 30, 1996, not less than $4.75 an hour during the year beginning on October 1, 1996, and not less than $5.15 an hour beginning September 1, 1997;”.
+
+Subsec. (a)(3) to (5). Pub. L. 110–28, §8103(c)(1)(B), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “if such employee is employed in American Samoa, in lieu of the rate or rates provided by this subsection or subsection (b) of this section, not less than the applicable rate established by the Secretary of Labor in accordance with recommendations of a special industry committee or committees which he shall appoint pursuant to sections 205 and 208 of this title. The minimum wage rate thus established shall not exceed the rate prescribed in paragraph (1) of this subsection;”.
 
 1996—Subsec. (a)(1). Pub. L. 104–188, §2104(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “except as otherwise provided in this section, not less than $3.35 an hour during the period ending March 31, 1990, not less than $3.80 an hour during the year beginning April 1, 1990, and not less than $4.25 an hour after March 31, 1991;”.
 
@@ -126,7 +134,7 @@ Subsec. (c)(2) to (6). Pub. L. 93–259, §5(b), added pars. (2) to (6) and stru
 
 “(3) In the case of any such employee to whom subsection (a)(5) or subsection (b) of this section would otherwise apply, the Secretary shall within sixty days after the effective date of the Fair Labor Standards Amendments of 1966 appoint a special industry committee in accordance with section 205 of this title to recommend the highest minimum wage rate or rates in accordance with the standards prescribed by section 208 of this title, but not in excess of the applicable rate provided by subsection (a)(5) or subsection (b) of this section, to be applicable to such employee in lieu of the rate or rates prescribed by subsection (a)(5) or subsection (b) of this section, as the case may be. The rate or rates recommended by the special industry committee shall be effective with respect to such employee upon the effective date of the wage order issued pursuant to such recommendation but not before sixty days after the effective date of the Fair Labor Standards Amendments of 1966.
 
-“(4) The provisions of sections 205 and 208 of this title, relating to special industry committees, shall be applicable to review committees appointed under this subsection. The appointment of a review committee shall be in addition to and not in lieu of any special industry committee required to be appointed pursuant to the provisions of subsection (a) of section 208 of this title, except that no special industry committee shall hold any hearing within one year after a minimum wage rate or rates for such industry shall have been recommended to the Secretary by a review committee to be paid in lieu of the rate or rates provided for under paragraph (A) or (B). The minimum wage rate or rates prescribed by this subsection shall be in effect only for so long as and insofar as such minimum wage rate or rates have not been superseded by a wage order fixing a higher minimum wage rate or rates (but not in excess of the applicable rate prescribed in subsection (a) or subsection (b) of this section) hereafter issued by the Secretary pursuant to the recommendation of a special industry committee.”
+“(4) The provisions of sections 205 and 208 of this title, relating to special industry committees, shall be applicable to review committees appointed under this subsection. The appointment of a review committee shall be in addition to and not in lieu of any special industry committee required to be appointed pursuant to the provisions of subsection (a) of section 208 of this title, except that no special industry committee shall hold any hearing within one year after a minimum wage rate or rates for such industry shall have been recommended to the Secretary by a review committee to be paid in lieu of the rate or rates provided for under paragraph (A) or (B). The minimum wage rate or rates prescribed by this subsection shall be in effect only for so long as and insofar as such minimum wage rate or rates have not been superseded by a wage order fixing a higher minimum wage rate or rates (but not in excess of the applicable rate prescribed in subsection (a) or subsection (b) of this section) hereafter issued by theSecretary pursuant to the recommendation of a special industry committee.”
 
 Subsec. (f). Pub. L. 93–259, §7(b)(1), added subsec. (f).
 
@@ -166,6 +174,12 @@ Subsec. (c). Act Oct. 26, 1949, §6(c), continued existing minimum wage rates in
 
 1940—Subsec. (a)(5). Act June 26, 1940, added par. (5).
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–28, title VIII, §8102(b), May 25, 2007, 121 Stat. 188, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 60 days after the date of enactment of this Act \[May 25, 2007\].”
+
+Pub. L. 110–28, title VIII, §8103(c)(2), May 25, 2007, 121 Stat. 189, provided that: “The amendments made by this subsection \[amending this section and repealing sections 205 and 208 of this title\] shall take effect 60 days after the date of enactment of this Act \[May 25, 2007\].”
+
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–151 effective Jan. 1, 1978, see section 15(a) of Pub. L. 95–151, set out as a note under section 203 of this title.
@@ -200,7 +214,33 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 Functions relating to enforcement and administration of equal pay provisions vested by this section in Secretary of Labor and Administrator of Wage and Hour Division of Department of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+Functions of all other officers of Department of Labor and functions of all agencies and employees ofthat Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+
+#### Applicability of Minimum Wage to American Samoa and the Commonwealth of the Northern Mariana Islands
+
+Pub. L. 110–28, title VIII, §8103(a), (b), May 25, 2007, 121 Stat. 188, 189, provided that:
+
+“(a)
+
+In General.—Section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206) shall apply to American Samoa and the Commonwealth of the Northern Mariana Islands.
+
+“(b)
+
+Transition.—Notwithstanding subsection (a)—
+
+&emsp;“(1) the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) shall be—
+
+&emsp;&emsp;“(A) $3.55 an hour, beginning on the 60th day after the date of enactment of this Act \[May 25, 2007\]; and
+
+&emsp;&emsp;“(B) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under this paragraph is equal to the minimum wage set forth in such section; and
+
+&emsp;“(2) the minimum wage applicable to American Samoa under section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) shall be—
+
+&emsp;&emsp;“(A) the applicable wage rate in effect for each industry and classification under section 697 of title 29, Code of Federal Regulations, on the date of enactment of this Act;
+
+&emsp;&emsp;“(B) increased by $0.50 an hour, beginning on the 60th day after the date of enactment of this Act; and
+
+&emsp;&emsp;“(C) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and each year thereafter until the minimum wage applicable to American Samoa under this paragraph is equal to the minimum wage set forth in such section.”
 
 #### Training Wage
 
@@ -298,7 +338,7 @@ Duration.—
 
 &emsp;&emsp;&emsp;“(ii) An employee who has been employed by an employer at the wage authorized by subsection (a) for the period authorized by clause (i) may be employed by any other employer for an additional 90 days if the employer meets the requirements of subsection (h).
 
-&emsp;&emsp;&emsp;“(iii) The total period, as authorized by clauses (i) and (ii), that an employee may be paid the wage authorized by subsection (a) may not exceed 180 days.
+&emsp;&emsp;&emsp;“(iii) The total period, as authorized by clauses (i) and (ii), that an employee may be paid thewage authorized by subsection (a) may not exceed 180 days.
 
 &emsp;&emsp;&emsp;“(iv) For purposes of this subparagraph, the term ‘employer’ means with respect to an employee an employer who is required to withhold payroll taxes for such employee.
 
@@ -324,7 +364,7 @@ Employer Requirements.—An employer who wants to employ employees at the wage a
 
 &emsp;“(1) notify the Secretary annually of the positions at which such employees are to be employed at such wage,
 
-&emsp;“(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives and other interested persons,
+&emsp;“(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and Labor of the House of Representatives and other interested persons,
 
 &emsp;“(3) keep on file a copy of the training program which the employer will provide such employees,
 
@@ -358,7 +398,7 @@ Amendment by Pub. L. 99–150 not to affect liability of certain public agencies
 
 #### Inapplicability to Northern Mariana Islands
 
-Pursuant to section 503(c) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands with the United States of America, as set forth in Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, set out as a noteunder section 1801 of Title 48, Territories and Insular Possessions, this section is inapplicable to the Northern Mariana Islands.
+Pursuant to section 503(c) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands with the United States of America, as set forth in Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, set out as a note under section 1801 of Title 48, Territories and Insular Possessions, this section is inapplicable to the Northern Mariana Islands.
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 

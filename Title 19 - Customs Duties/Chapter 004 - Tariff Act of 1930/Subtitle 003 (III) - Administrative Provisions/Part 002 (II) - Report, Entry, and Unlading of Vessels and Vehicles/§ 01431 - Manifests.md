@@ -118,7 +118,7 @@ Amendment to this section effective on and after thirtieth day following Aug. 8,
 
 #### Regulations
 
-Section 14 of Pub. L. 104–153 provided that: “Not later than 6 months after the date of the enactment of this Act \[July 2, 1996\], the Secretary of the Treasury shall prescribe such regulations or amendments to existing regulations that may be necessary to carry out the amendments made by sections 9, 10, 11, 12, and 13 of this Act \[amending this section, sections 1484 and 1526 of this title, and section 80302 of Title 49, Transportation\].”
+Section 14 of Pub. L. 104–153 provided that: “Not later than 6 months after the date of the enactment of thisAct \[July 2, 1996\], the Secretary of the Treasury shall prescribe such regulations or amendments to existing regulations that may be necessary to carry out the amendments made by sections 9, 10, 11, 12, and 13 of this Act \[amending this section, sections 1484 and 1526 of this title, and section 80302 of Title 49, Transportation\].”
 
 #### Transfer of Functions
 

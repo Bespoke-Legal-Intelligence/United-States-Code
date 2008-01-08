@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(ii) the candidate is a participant in the Science, Mathematics, and Research for Transformation (SMART) Defense Defense <sup>1</sup> Education Program under section 2192a of title 10, United States Code.
 
-> The Office shall prescribe, by regulation, criteria for identifying such positions and maydelegate authority to make determinations under such criteria.
+> The Office shall prescribe, by regulation, criteria for identifying such positions and may delegate authority to make determinations under such criteria.
 
 (b) An individual may be appointed in the competitive service only if he has passed an examination or is specifically excepted from examination under section 3302 of this title. This subsection does not take from the President any authority conferred by section 3301 of this title that is consistent with the provisions of this title governing the competitive service.
 
@@ -42,7 +42,7 @@
 
 (5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI,§1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450.)
 
 Historical and Revision Notes
 
@@ -98,7 +98,7 @@ In subsection (a), the authority of the President to prescribe rules is added on
 
 In subsection (b), the words “That after the expiration of six months from the passage of this act” are omitted as executed. The words “in the competitive service” are substituted for “in either of the said classes now existing, or that may be arranged hereunder pursuant to said rules” because of the definition of “competitive service” in section 2102. In the second sentence, the words “the provisions of this title governing the competitive service” are substituted for “this act”.
 
-In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words “From and after the effective date of this Act” and “From and after the date of approval of this Act” are omitted as executed. The words “competitive service” are substituted for “classified civil service” in view of the definition of “competitive service” in section 2102. The words “or as a clerical employee of the Senate or House of Representatives” are omitted as included in the reference to “an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the Houseof Representatives”. The words “and nothing in this Act shall be construed to impair any right of retransfer provided for under civil service laws or regulations made thereunder” are omitted as unnecessary.
+In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words “From and after the effective date of this Act” and “From and after the date of approval of this Act” are omitted as executed. The words “competitive service” are substituted for “classified civil service” in view of the definition of “competitive service” in section 2102. The words “or as a clerical employee of the Senate or House of Representatives” are omitted as included in the reference to “an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives”. The words “and nothing in this Act shall be construed to impair any right of retransfer provided for under civil service laws or regulations made thereunder” are omitted as unnecessary.
 
 In subsection (d), the word “Employees” is substituted for “collector, postmaster, and other officers of the United States”.
 

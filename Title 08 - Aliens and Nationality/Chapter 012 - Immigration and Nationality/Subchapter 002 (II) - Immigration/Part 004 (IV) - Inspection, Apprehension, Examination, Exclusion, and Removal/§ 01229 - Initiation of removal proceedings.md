@@ -86,7 +86,7 @@ Service by mail under this section shall be sufficient if there is proof of atte
 
 #### Prior Provisions
 
-A prior section 1229, act June 27, 1952, ch. 477, title II, ch. 4, §239, 66 Stat. 203, as amended, which related to designation of ports of entry for aliens arriving by aircraft, was renumbered section 234 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §304(a)(1), Sept. 30, 1996, 110 Stat. 3009–587, and was transferred to section 1224 of this title.
+A prior section 1229, act June 27, 1952, ch. 477, title II, ch. 4, §239, 66 Stat. 203, as amended, which related todesignation of ports of entry for aliens arriving by aircraft, was renumbered section 234 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §304(a)(1), Sept. 30, 1996, 110 Stat. 3009–587, and was transferred to section 1224 of this title.
 
 #### Amendments
 

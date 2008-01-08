@@ -44,7 +44,7 @@ There is established, within the Bureau of Diplomatic Security of the Department
 
 #### (A) Analysis of methods
 
-&emsp;&emsp;Analyze, in coordination with other appropriate government agencies, methods used by terrorists to travel internationally, particularly the use of false or altered travel documents to illegally enter foreign countries and the United States, and consult with the Bureau of Consular Affairs and the Secretary of Homeland Security on recommended changes to the visa issuance process that could combat such methods, including the introduction of new technologies into such process.
+&emsp;&emsp;Analyze, in coordination with other appropriate government agencies, methods usedby terrorists to travel internationally, particularly the use of false or altered travel documents to illegally enter foreign countries and the United States, and consult with the Bureau of Consular Affairs and the Secretary of Homeland Security on recommended changes to the visa issuance process that could combat such methods, including the introduction of new technologies into such process.
 
 #### (B) Identification of individuals and documents
 

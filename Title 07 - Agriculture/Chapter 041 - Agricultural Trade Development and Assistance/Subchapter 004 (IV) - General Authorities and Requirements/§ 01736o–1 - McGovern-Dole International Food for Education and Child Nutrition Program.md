@@ -94,7 +94,7 @@ Assistance may be provided under this section to private voluntary organizations
 
 &emsp;&emsp;(B)(i) in the case of preschool and school-age children, target low-income areas where children's enrollment and attendance in school is low or girls’ enrollment and participation in preschool or school is low, and incorporate developmental objectives for improving literacy and primary education, particularly with respect to girls; and
 
-&emsp;&emsp;(ii) in the case of programs to benefit mothers and children who are 5 years of ageor younger, coordinate supplementary feeding and nutrition programs with existing or newly-established maternal, infant, and children programs that provide health-needs interventions, including maternal, prenatal, and postnatal and newborn care;
+&emsp;&emsp;(ii) in the case of programs to benefit mothers and children who are 5 years of age or younger, coordinate supplementary feeding and nutrition programs with existing or newly-established maternal, infant, and children programs that provide health-needs interventions, including maternal, prenatal, and postnatal and newborn care;
 
 &emsp;&emsp;(C) involve indigenous institutions as well as local communities and governments in the development and implementation of the programs and activities to foster local capacity building and leadership; and
 
@@ -153,6 +153,10 @@ The requirement of section 1733(a) of this title applies with respect to the ava
 #### Codification
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Agricultural Trade Development and Assistance Act of 1954 which comprises this chapter.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Implementation of Section 3107 of the Farm Security and Rural Investment Act of 2002, Relating to Food for Education and Child Nutrition
 

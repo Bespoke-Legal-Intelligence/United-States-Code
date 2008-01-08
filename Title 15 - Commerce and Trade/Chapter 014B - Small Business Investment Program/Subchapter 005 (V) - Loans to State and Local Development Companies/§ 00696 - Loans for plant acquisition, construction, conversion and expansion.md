@@ -16,9 +16,13 @@ In general.—Loans made by the Administration under this section shall be limit
 
 &emsp;&emsp;(i) $1,500,000 for each small business concern if the loan proceeds will not be directed toward a goal or project described in subparagraph (B) or (C);
 
-&emsp;&emsp;(ii) $2,000,000 for each small business concern if the loan proceeds will be directed toward 1 or more of the public policy goals described under section 695(d)(3) of this title; and
+&emsp;&emsp;(ii) $2,000,000 for each small business concern if the loan proceeds will be directed toward 1 or more of the public policy goals described under section 695(d)(3) of this title;
 
-&emsp;&emsp;(iii) $4,000,000 for each project of a small manufacturer.
+&emsp;&emsp;(iii) $4,000,000 for each project of a small manufacturer;
+
+&emsp;&emsp;(iv) $4,000,000 for each project that reduces the borrower's energy consumption by at least 10 percent; and
+
+&emsp;&emsp;(v) $4,000,000 for each project that generates renewable energy or renewable fuels, such as biodiesel or ethanol production.
 
 &emsp;(B)
 
@@ -54,7 +58,7 @@ Sources of funds.—Community injection funds may be derived, in whole or in par
 
 &emsp;&emsp;(ii)
 
-Funding from institutions.—Not less than 50 percent of the total cost of anyproject financed pursuant to clauses <sup>1</sup> (i), (ii), or (iii) of subparagraph (C) shall come from the institutions described in subclauses (I), (II), and (III) of clause (i).
+Funding from institutions.—Not less than 50 percent of the total cost of any project financed pursuant to clauses <sup>1</sup> (i), (ii), or (iii) of subparagraph (C) shall come from the institutions described in subclauses (I), (II), and (III) of clause (i).
 
 &emsp;(C)
 
@@ -92,15 +96,17 @@ Appraisals.—With respect to commercial real property provided by the small bus
 
 (5)
 
-Limitation on leasing.—In addition to any portion of the project permitted to be leased under paragraph (4), not to exceed 20 percent of the project may be leased by the assisted small business to 1 or more other tenants, if the assisted small business occupies permanently and uses not less than a total of 60 percent of the space in the project after the execution of any leases authorized under this section.
+Limitation on leasing.—In addition to any portion of the project permitted to be leased under paragraph (4), not to exceed 20 percent of the project may be leased by the assisted smallbusiness to 1 or more other tenants, if the assisted small business occupies permanently and uses not less than a total of 60 percent of the space in the project after the execution of any leases authorized under this section.
 
 (6)
 
 Ownership requirements.—Ownership requirements to determine the eligibility of a small business concern that applies for assistance under any credit program under this subchapter shall be determined without regard to any ownership interest of a spouse arising solely from the application of the community property laws of a State for purposes of determining marital interests.
 
-(Pub. L. 85–699, title V, §502, Aug. 21, 1958, 72 Stat. 697; Pub. L. 87–27, §26, May 1, 1961, 75 Stat. 63; Pub. L. 87–341, §10, Oct. 3, 1961, 75 Stat. 756; Pub. L. 94–305, title I, §§108(a), 110, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–507, title I, §112, Oct. 24, 1978, 92 Stat. 1760; Pub. L. 97–35, title XIX, §1909, Aug. 13, 1981, 95 Stat. 778; Pub. L. 100–418, title VIII, §8007(b), Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–590, title I, §116(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997, 2998; Pub. L. 101–574, title II, §214(c), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 104–208, div. D, title II, §202(a), Sept. 30, 1996, 110 Stat. 3009–734; Pub. L. 105–135, title II, §221, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, §1(a)(9) \[title II, §208(b), title III, §303, title VIII, §802(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683, 2763A–684, 2763A–702; Pub. L. 108–447, div. K, title I, §104, Dec. 8, 2004, 118 Stat. 3444.)
+(Pub. L. 85–699, title V, §502, Aug. 21, 1958, 72 Stat. 697; Pub. L. 87–27, §26, May 1, 1961, 75 Stat. 63; Pub. L. 87–341, §10, Oct. 3, 1961, 75 Stat. 756; Pub. L. 94–305, title I, §§108(a), 110, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–507, title I, §112, Oct. 24, 1978, 92 Stat. 1760; Pub. L. 97–35, title XIX, §1909, Aug. 13, 1981, 95 Stat. 778; Pub. L. 100–418, title VIII, §8007(b), Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–590, title I, §116(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997, 2998; Pub. L. 101–574, title II, §214(c), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 104–208, div. D, title II, §202(a), Sept. 30, 1996, 110 Stat. 3009–734; Pub. L. 105–135, title II, §221, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, §1(a)(9) \[title II, §208(b), title III, §303, title VIII, §802(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683, 2763A–684, 2763A–702; Pub. L. 108–447, div. K, title I, §104, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, §1204(b), Dec. 19, 2007, 121 Stat. 1772.)
 
 #### Amendments
+
+2007—Par. (2)(A)(iv), (v). Pub. L. 110–140 added cls. (iv) and (v).
 
 2004—Par. (2). Pub. L. 108–447 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Loans made by the Administration under this section shall be limited to $1,000,000 for each such identifiable small business concern, except loans meeting the criteria specified in section 695(d)(3) of this title, which shall be limited to $1,300,000 for each such identifiable small business concern.”
 
@@ -149,6 +155,10 @@ Par. (3). Pub. L. 94–305, §110, substituted “$500,000” for “$350,000”
 Par. (5). Pub. L. 87–341, §10(2), substituted “twenty-five” for “ten” before “years plus such additional period”.
 
 Par. (6). Pub. L. 87–27 struck out par. (6) which provided for termination of authority of the Administration to make loans to local development companies after June 30, 1961.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Effective Date of 1997 Amendment
 

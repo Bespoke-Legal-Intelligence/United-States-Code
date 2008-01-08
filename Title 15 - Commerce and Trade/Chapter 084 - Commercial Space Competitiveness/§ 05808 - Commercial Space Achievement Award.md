@@ -10,7 +10,7 @@ The Secretary of Commerce shall periodically make, and the Chairman of the Natio
 
 &emsp;(1) For corporate entities, at least one-half of the revenues from the space-related activities of the corporation, division, or subsidiary is derived from sources other than the United States Government.
 
-&emsp;(2) The activities and achievements of the individual, corporation, division, or subsidiary have substantially contributed to the United States gross national product and the stature of United States industry in international markets, with due consideration for both the economic magnitude and the technical quality of the activities and achievements.
+&emsp;(2) The activities and achievements of the individual, corporation, division, or subsidiary have substantially contributed to the UnitedStates gross national product and the stature of United States industry in international markets, with due consideration for both the economic magnitude and the technical quality of the activities and achievements.
 
 &emsp;(3) The individual, corporation, division, or subsidiary has substantially advanced space technology and space applications directly related to commercial space activities.
 

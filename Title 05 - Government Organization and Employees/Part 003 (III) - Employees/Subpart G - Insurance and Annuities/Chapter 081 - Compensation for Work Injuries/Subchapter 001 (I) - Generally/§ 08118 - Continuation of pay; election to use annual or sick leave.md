@@ -16,7 +16,7 @@
 
 (e) Payments under this section shall not be considered as compensation as defined by section 8101(12) of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 543; Pub. L. 93–416, §11, Sept. 7, 1974, 88 Stat. 1145; Pub. L.109–435, title IX, §901(b), Dec. 20, 2006, 120 Stat. 3254.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 543; Pub. L. 93–416, §11, Sept. 7, 1974, 88 Stat. 1145; Pub. L. 109–435, title IX, §901(b), Dec. 20, 2006, 120 Stat. 3254.)
 
 Historical and Revision Notes
 

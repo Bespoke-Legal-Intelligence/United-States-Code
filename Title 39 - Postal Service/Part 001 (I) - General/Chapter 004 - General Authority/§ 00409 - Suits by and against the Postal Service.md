@@ -1,6 +1,6 @@
 ### §409. Suits by and against the Postal Service
 
-(a) Except as otherwise provided in this title, the United States district courts shall have original but not exclusive jurisdiction over allactions brought by or against the Postal Service. Any action brought in a State court to which the Postal Service is a party may be removed to the appropriate United States district court under the provisions of chapter 89 of title 28.
+(a) Except as otherwise provided in this title, the United States district courts shall have original but not exclusive jurisdiction over all actions brought by or against the Postal Service. Any action brought in a State court to which the Postal Service is a party may be removed to the appropriate United States district court under the provisions of chapter 89 of title 28.
 
 (b) Unless otherwise provided in this title, the provisions of title 28 relating to service of process, venue, and limitations of time for bringing action in suits in which the United States, its officers, or employees are parties, and the rules of procedure adopted under title 28 for suits in which the United States, its officers, or employees are parties, shall apply in like manner to suits in which the Postal Service, its officers, or employees are parties.
 
@@ -56,7 +56,7 @@
 
 (5) In addition to consulting with local and State officials under paragraph (3), the Postal Service shall establish procedures for soliciting, assessing, and incorporating local community input on real property and land use decisions.
 
-(6) For purposes of this subsection, the term “State” includes the District of Columbia, theCommonwealth of Puerto Rico, and a territory or possession of the United States.
+(6) For purposes of this subsection, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and a territory or possession of the United States.
 
 (g)(1) Notwithstanding any other provision of law, legal representation may not be furnished by the Department of Justice to the Postal Service in any action, suit, or proceeding arising, in whole or in part, under any of the following:
 

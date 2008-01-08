@@ -50,7 +50,7 @@ The overall allotment quantity for the crop year shall be allotted between—
 
 #### (B) Individually
 
-&emsp;&emsp;The collective offshore State allotment provided for under subparagraph (A) shall be further allotted among the offshore Statesin which sugarcane is produced, after a hearing (if requested by the affected sugarcane processors and growers) and on such notice as the Secretary by regulation may prescribe, in a fair and equitable manner on the basis of—
+&emsp;&emsp;The collective offshore State allotment provided for under subparagraph (A) shall be further allotted among the offshore States in which sugarcane is produced, after a hearing (if requested by the affected sugarcane processors and growers) and on such notice as the Secretary by regulation may prescribe, in a fair and equitable manner on the basis of—
 
 &emsp;&emsp;&emsp;(i) past marketings of sugar, based on the average of the 2 highest years of production of raw cane sugar from the 1996 through 2000 crops;
 
@@ -84,7 +84,7 @@ Except as provided in section 1359ee of this title, a State cane sugar allotment
 
 #### (3) Carry-over of reductions
 
-&emsp;Whenever a marketing allotment for a crop year is required to be reduced during the crop year under this subsection, if, at the time of the reduction, the quantity of sugar marketed exceeds the processor's reduced allocation, the allocation of an allotment next established for the processor shall be reduced by the quantity of the excess sugar marketed.
+&emsp;Whenever a marketing allotment for a crop year is required to be reduced during the crop year under this subsection, if, at the time ofthe reduction, the quantity of sugar marketed exceeds the processor's reduced allocation, the allocation of an allotment next established for the processor shall be reduced by the quantity of the excess sugar marketed.
 
 #### (h) Suspension of allotments
 

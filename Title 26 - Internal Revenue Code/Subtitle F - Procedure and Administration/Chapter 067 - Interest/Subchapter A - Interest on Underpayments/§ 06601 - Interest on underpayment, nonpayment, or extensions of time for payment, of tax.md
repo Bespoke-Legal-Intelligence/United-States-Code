@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If any amount of tax imposed by this title (whether required to be shown on a return, or tobe paid by stamp or by some other method) is not paid on or before the last date prescribed for payment, interest on such amount at the underpayment rate established under section 6621 shall be paid for the period from such last date to the date paid.
+If any amount of tax imposed by this title (whether required to be shown on a return, or to be paid by stamp or by some other method) is not paid on or before the last date prescribed for payment, interest on such amount at the underpayment rate established under section 6621 shall be paid for the period from such last date to the date paid.
 
 #### (b) Last date prescribed for payment
 
@@ -44,7 +44,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (2) Foreign tax credit carrybacks
 
-&emsp;If any credit allowed for any taxable year is increased by reason of a carryback of tax paid or accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+&emsp;If any credit allowed for any taxable year is increased by reason of a carryback of tax paid or accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increaseshall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
 
 #### (3) Certain credit carrybacks
 
@@ -66,7 +66,7 @@ Except as otherwise provided in this title—
 
 #### (1) Interest treated as tax
 
-&emsp;Interest prescribed under this section on any tax shall be paid upon notice and demand, andshall be assessed, collected, and paid in the same manner as taxes. Any reference to this title (except subchapter B of chapter 63, relating to deficiency procedures) to any tax imposed by this title shall be deemed also to refer to interest imposed by this section on such tax.
+&emsp;Interest prescribed under this section on any tax shall be paid upon notice and demand, and shall be assessed, collected, and paid in the same manner as taxes. Any reference to this title (except subchapter B of chapter 63, relating to deficiency procedures) to any tax imposed by this title shall be deemed also to refer to interest imposed by this section on such tax.
 
 #### (2) Interest on penalties, additional amounts, or additions to the tax
 
@@ -118,7 +118,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 &emsp;For purposes of this subsection, the term “2-percent portion” means the lesser of—
 
-&emsp;&emsp;(A)(i) the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax is to be computed were the sum of $1,000,000 and the applicable exclusion amount in effect under section 2010(c), reduced by
+&emsp;&emsp;(A)(i) the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax is to be computed were the sum of$1,000,000 and the applicable exclusion amount in effect under section 2010(c), reduced by
 
 &emsp;&emsp;(ii) the applicable credit amount in effect under section 2010(c), or
 
@@ -136,7 +136,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 #### (4) Treatment of payments
 
-&emsp;If the amount of tax imposed by chapter 11 which is extended as provided in section 6166 exceeds the 2-percent portion, any payment of a portion of such amount shall, for purposes of computing interest for periods after such payment, be treated as reducing the 2-percent portion by an amount which bears the same ratio to the amount of such payment as the amount of the 2-percent portion (determined without regard to this paragraph) bears to the amountof the tax which is extended as provided in section 6166.
+&emsp;If the amount of tax imposed by chapter 11 which is extended as provided in section 6166 exceeds the 2-percent portion, any payment of a portion of such amount shall, for purposes of computing interest for periods after such payment, be treated as reducing the 2-percent portion by an amount which bears the same ratio to the amount of such payment as the amount of the 2-percent portion (determined without regard to this paragraph) bears to the amount of the tax which is extended as provided in section 6166.
 
 #### (k) No interest on certain adjustments
 
@@ -146,7 +146,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 #### Adjustment of Dollar Amount Used in Determining “2-Percent Portion”
 
-<i>For adjustment of dollar amount used in determining “2-percent portion” for purpose of calculating interest under subsection (j) of this section in the case of decedents dying in calendar year 2007, see section 3.39 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amount used in determining “2-percent portion” for purpose of calculating interest under subsection (j) of this section in the case of decedents dying in calendar year 2008, see section 3.38 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -432,7 +432,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Administration of Penalties and Interest
 
-Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxation and the Secretary of the Treasury shall each conduct a separate study—
+Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxationand the Secretary of the Treasury shall each conduct a separate study—
 
 &emsp;“(1) reviewing the administration and implementation by the Internal Revenue Service of the interest and penalty provisions of the Internal Revenue Code of 1986 (including the penalty reform provisions of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, see Tables for classification\]); and
 
@@ -450,7 +450,7 @@ Section 946(a) of Pub. L. 91–172 provided that in the case of any taxable year
 
 #### Interest Attributable to Net Operating Loss Carryback for Certain Taxable Years Ending in 1954
 
-Section 83(e) of Pub. L. 85–866 provided that if by reason of the enactment of section 172(b)(1)(A) of this title,a deficiency resulted for the first taxable year preceding a taxable year ending after Dec. 31, 1953 but before Aug. 17, 1954 and an overpayment resulted in the second preceding taxable year, then no interest was payable for any portion of such deficiency for any period during which there existed a corresponding overpayment to which interest was not payable.
+Section 83(e) of Pub. L. 85–866 provided that if by reason of the enactment of section 172(b)(1)(A) of this title, a deficiency resulted for the first taxable year preceding a taxable year ending after Dec. 31, 1953 but before Aug. 17, 1954 and an overpayment resulted in the second preceding taxable year, then no interest was payable for any portion of such deficiency for any period during which there existed a corresponding overpayment to which interest was not payable.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 &emsp;&emsp;(ii) who is a head of a household (as so defined) and for the taxable year has gross income of less than the sum of the exemption amount plus the basic standard deduction applicable to such an individual,
 
-&emsp;&emsp;(iii) who is a surviving spouse (as so defined) and for the taxable year has gross income of less than the sum of the exemptionamount plus the basic standard deduction applicable to such an individual, or
+&emsp;&emsp;(iii) who is a surviving spouse (as so defined) and for the taxable year has gross income of less than the sum of the exemption amount plus the basic standard deduction applicable to such an individual, or
 
 &emsp;&emsp;(iv) who is entitled to make a joint return and whose gross income, when combined with the gross income of his spouse, is, for the taxable year, less than the sum of twice the exemption amount plus the basic standard deduction applicable to a joint return, but only if such individual and his spouse, at the close of the taxable year, had the same household as their home.
 
@@ -76,7 +76,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 #### (6) IRA share of partnership income
 
-&emsp;In the case of a trust which is exempt from taxation under section 408(e), for purposes of this section, the trust's distributive share of items of gross income and gain of any partnership to which subchapter C or D of chapter 63 applies shall be treated as equal to the trust's distributive share of the taxable income of such partnership.
+&emsp;In the case of a trust which is exempt from taxation under section 408(e), for purposes ofthis section, the trust's distributive share of items of gross income and gain of any partnership to which subchapter C or D of chapter 63 applies shall be treated as equal to the trust's distributive share of the taxable income of such partnership.
 
 #### (c) Certain income earned abroad or from sale of residence
 
@@ -212,7 +212,7 @@ Amendment by section 1225 of Pub. L. 105–34 applicable to partnership taxable 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -312,7 +312,7 @@ Pub. L. 97–424, title V, §542, Jan. 6, 1983, 96 Stat. 2195, as amended by Pub
 
 “(a)
 
-In General.—Nothing in section 6012(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]shall be construed to require the filing of a return with respect to income taxes under subtitle A of such code by an individual whose only gross income for the taxable year is a grant of $1,000 received from a State which made such grants generally to residents of such State.
+In General.—Nothing in section 6012(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be construed to require the filing of a return with respect to income taxes under subtitle A of such code by an individual whose only gross income for the taxable year is a grant of $1,000 received from a State which made such grants generally to residents of such State.
 
 “(b)
 
@@ -320,7 +320,7 @@ Effective Date.—Subsection (a) shall apply to taxable years beginning after De
 
 #### Exemption From Filing Requirement for Prior Years Where Income of Political Party was $100 or Less
 
-Section 10(f) of Pub. L. 93–625 provided for exemption from filing requirement for a taxable year beginning after Dec. 31, 1971, and before Jan. 1, 1975, of any section 527(e)(1) organization where income of political organization was $100 or less.
+Section 10(f) of Pub. L. 93–625 provided for exemption from filing requirement for a taxable year beginningafter Dec. 31, 1971, and before Jan. 1, 1975, of any section 527(e)(1) organization where income of political organization was $100 or less.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

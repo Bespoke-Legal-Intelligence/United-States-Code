@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) existing lobbying disclosure statutes have been ineffective because of unclear statutory language, weak administrative and enforcement provisions, and an absence of clear guidance as to who is required to register and what they are required to disclose; and
 
-&emsp;(3) the effective public disclosure of the identity and extent of the efforts of paid lobbyists to influence Federal officials in the conduct ofGovernment actions will increase public confidence in the integrity of Government.
+&emsp;(3) the effective public disclosure of the identity and extent of the efforts of paid lobbyists to influence Federal officials in the conduct of Government actions will increase public confidence in the integrity of Government.
 
 (Pub. L. 104–65, §2, Dec. 19, 1995, 109 Stat. 691.)
 
@@ -22,6 +22,10 @@ Section 24 of Pub. L. 104–65 provided that:
 
 &emsp;“(2) shall not affect the requirements of Federal agencies to compile, publish, and retain information filed or received before the effective date of such repeals and amendments.”
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–81, §1(a), Sept. 14, 2007, 121 Stat. 735, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Honest Leadership and Open Government Act of 2007’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–166, §1(a), Apr. 6, 1998, 112 Stat. 38, provided that: “This Act \[amending sections 1602, 1604, and 1610 of this title and section 613 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘Lobbying Disclosure Technical Amendments Act of 1998’.”
@@ -29,4 +33,8 @@ Pub. L. 105–166, §1(a), Apr. 6, 1998, 112 Stat. 38, provided that: “This Ac
 #### Short Title
 
 Section 1 of Pub. L. 104–65 provided that: “This Act \[enacting this chapter, amending sections 3304 of Title 5, Government Organization and Employees, section 102 of Pub. L. 95–521, set out in the Appendix to Title 5, section 4804 of Title 15, Commerce and Trade, sections 207 and 219 of Title 18, Crimes and Criminal Procedure, section 2171 of Title 19, Customs Duties, sections 611, 613, 614, 616, 618, 621, and 4002 of Title 22, Foreign Relations and Intercourse, section 1352 of Title 31, Money and Finance, and section 1490p of Title 42, The Public Health and Welfare, repealing sections 261 to 270 of this title and section 3537b of Title 42, enacting provisions set out as notes under this section, section 3304 of Title 5, section 102 of Pub. L. 95–521, set out in the Appendix to Title 5, and section 207 of Title 18, and repealing provisions set out as a note under section 261 of this title\] may be cited as the ‘Lobbying Disclosure Act of 1995’.”
+
+#### Construction of 2007 Amendment
+
+Pub. L. 110–81, title VII, §703, Sept. 14, 2007, 121 Stat. 776, provided that: “Nothing in this Act \[see Tables for classification\] or the amendments made by this Act shall be construed to prohibit any expressive conduct protected from legal prohibition by, or any activities protected by the free speech, free exercise, or free association clauses of, the First Amendment to the Constitution.”
 

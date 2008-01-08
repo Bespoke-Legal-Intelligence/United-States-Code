@@ -76,7 +76,7 @@
 
 #### (2) Accounting information
 
-&emsp;The accounting information that a participant in the program established under this section shall be required to report shall be the same as the information required to be reported by participants in the demonstration program authorized under this section as in effect on the day before November 1, 2000. The Secretary may from time to time, after consultation with the program participants, change the accounting information submission requirements.
+&emsp;The accounting information that a participant in the program established under thissection shall be required to report shall be the same as the information required to be reported by participants in the demonstration program authorized under this section as in effect on the day before November 1, 2000. The Secretary may from time to time, after consultation with the program participants, change the accounting information submission requirements.
 
 #### (e) Withdrawal from program
 
@@ -114,7 +114,7 @@ Subsec. (e). Pub. L. 106–417, §4(b), struck out subsec. (e). For text of subs
 
 “(a) The Secretary shall establish a demonstration program under which Indian tribes, tribal organizations, and Alaska Native health organizations, which are contracting the entire operation of an entire hospital or clinic of the Service under the authority of the Indian Self-Determination Act, shall directly bill for, and receive payment for, health care services provided by such hospital or clinic for which payment is made under title XVIII of the Social Security Act (medicare), under a State plan for medical assistance approved under title XIX of the Social Security Act (medicaid), or from any other third-party payor. The last sentence of section 1905(b) of the Social Security Act shall apply for purposes of the demonstration program.
 
-“(b)(1) Each hospital or clinic participating in the demonstration program described in subsection (a) of this section shall be reimbursed directly under themedicare and medicaid programs for services furnished, without regard to the provisions of section 1880(c) of the Social Security Act and sections 1642(a) and 1680c(b)(2)(A) of this title, but all funds so reimbursed shall first be used by the hospital or clinic for the purpose of making any improvements in the hospital or clinic that may be necessary to achieve or maintain compliance with the conditions and requirements applicable generally to facilities of such type under the medicare or medicaid program. Any funds so reimbursed which are in excess of the amount necessary to achieve or maintain such conditions or requirements shall be used—
+“(b)(1) Each hospital or clinic participating in the demonstration program described in subsection (a) of this section shall be reimbursed directly under the medicare and medicaid programs for services furnished, without regard to the provisions of section 1880(c) of the Social Security Act and sections 1642(a) and 1680c(b)(2)(A) of this title, but all funds so reimbursed shall first be used by the hospital or clinic for the purpose of making any improvements in the hospital or clinic that may be necessary to achieve or maintain compliance with the conditions and requirements applicable generally to facilities of such type under the medicare or medicaid program. Any funds so reimbursed which are in excess of the amount necessary to achieve or maintain such conditions or requirements shall be used—
 
 &emsp;“(A) solely for improving the health resources deficiency level of the Indian tribe, and
 

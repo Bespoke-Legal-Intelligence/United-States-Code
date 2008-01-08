@@ -34,7 +34,7 @@ Notwithstanding the assumption of management of the Preserve by the Trust, the S
 
 #### (2) Use of the fund
 
-&emsp;All monies received by the Secretary from the management of the Preserve during the interim period under paragraph (1) shall be deposited into the “Valles Caldera Fund” established under section 698v–4(h)(2) of this title, and such monies in the fund shall be available to the Secretary, without further appropriation, for the purpose of managing the Preserve in accordance with the responsibilities and authorities provided to the Trust under section 698v–6 of this title.
+&emsp;All monies received by the Secretary from the management of the Preserve during the interim period under paragraph (1) shall be deposited into the “Valles Caldera Fund” established under section 698v–4(h)(2) of this title, and such monies in the fund shall be availableto the Secretary, without further appropriation, for the purpose of managing the Preserve in accordance with the responsibilities and authorities provided to the Trust under section 698v–6 of this title.
 
 #### (c) Secretarial authority
 

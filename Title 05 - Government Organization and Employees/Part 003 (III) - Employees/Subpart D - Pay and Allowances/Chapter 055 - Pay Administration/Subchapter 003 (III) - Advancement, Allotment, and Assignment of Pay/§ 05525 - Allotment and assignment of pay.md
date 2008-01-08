@@ -26,5 +26,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–68, title I, §133(b)(2), Nov. 12, 2001, 115 Stat. 582, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to pay periods beginning on or after the date of the enactment of this Act \[Nov. 12, 2001\].”
+Pub. L. 107–68, title I, §133(b)(2), Nov. 12, 2001, 115 Stat. 582, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply withrespect to pay periods beginning on or after the date of the enactment of this Act \[Nov. 12, 2001\].”
 

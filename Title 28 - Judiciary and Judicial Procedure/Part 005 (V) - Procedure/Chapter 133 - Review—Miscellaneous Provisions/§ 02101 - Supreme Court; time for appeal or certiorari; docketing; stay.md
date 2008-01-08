@@ -20,7 +20,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§47, 47a, 349a, 350, 380, 380a, section 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 45 of title 49, U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, §2, 32 Stat. 1167; Mar. 3, 1911, ch. 231, §§210, 266, 291, 36 Stat. 1150, 1162, 1167; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Sept. 6, 1916, ch. 448, §6, 39 Stat. 727; Feb. 13, 1925, ch. 229, §§1, 8 (a, b, d), 43 Stat. 938, 940; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; June 7, 1934, ch. 426, 48 Stat. 936; Aug. 24, 1937, ch. 754, §§2, 3, 50 Stat. 752; June 9, 1944, ch. 239, 58 Stat. 272).
+Based on title 28, U.S.C., 1940 ed., §§47, 47a, 349a, 350, 380, 380a, section 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 45 of title 49, U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, §2, 32 Stat. 1167; Mar. 3, 1911, ch. 231, §§210, 266, 291, 36 Stat. 1150, 1162, 1167; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Sept. 6, 1916, ch. 448, §6, 39 Stat. 727; Feb. 13, 1925, ch. 229, §§1, 8 (a, b, d), 43 Stat. 938, 940; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; June 7, 1934, ch. 426,48 Stat. 936; Aug. 24, 1937, ch. 754, §§2, 3, 50 Stat. 752; June 9, 1944, ch. 239, 58 Stat. 272).
 
 Section consolidates section 350 of title 28, U.S.C., 1940 ed., with those portions of sections 47, 47a, 349a, 380, and 380a, of said title 28, section 29, of title 15, U.S.C., 1940 ed., and section 45 of title 49, U.S.C., 1940 ed., respective time for taking direct appeal. (For disposition of other provisions of said sections, see Distribution Table.)
 
@@ -30,7 +30,7 @@ Subsection (b) is in accord with sections 47 and 47a of title 28, U.S.C., 1940 e
 
 Subsection (c), with respect to the time for taking other appeals or petitioning for a writ of certiorari, substitutes, as more specific, the words “ninety days” for the words “three months” contained in section 350 of title 28, U.S.C., 1940 ed. The provision in said section 350 for allowance of additional time was retained, notwithstanding the language of the Supreme Court in <i>Comm'r v. Bedford's Estate</i>, 1945, 65 S.Ct. 1157, 1159, 325 U.S. 283, 89 L.Ed. 1611, to the effect that the 3 months’ period is “more than ample \* \* \* to determine whether to seek further review”.
 
-In subsection (c), words “in a civil action, suit, or proceeding” were added because section 350 of title 28,U.S.C., 1940 ed., was superseded as to criminal cases by Federal Rules of Criminal Procedure, Rule 39(a)(2), (b)(2).
+In subsection (c), words “in a civil action, suit, or proceeding” were added because section 350 of title 28, U.S.C., 1940 ed., was superseded as to criminal cases by Federal Rules of Criminal Procedure, Rule 39(a)(2), (b)(2).
 
 Words “or the United States Court of Appeals for the District of Columbia” in section 350 of title 28, U.S.C., 1940 ed., were omitted as covered by “court of appeals” in subsection (d) of this revised section.
 

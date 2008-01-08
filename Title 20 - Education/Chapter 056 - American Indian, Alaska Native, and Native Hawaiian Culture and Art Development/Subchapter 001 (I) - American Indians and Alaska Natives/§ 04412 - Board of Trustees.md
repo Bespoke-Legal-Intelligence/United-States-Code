@@ -64,7 +64,7 @@ The President of the United States shall designate the initial Chairman and Vice
 
 #### (f) Quorum
 
-Unless otherwise provided by the bylaws of the Institute, a majority of the members appointedunder subsection (a)(1)(A) of this section shall constitute a quorum.
+Unless otherwise provided by the bylaws of the Institute, a majority of the members appointed under subsection (a)(1)(A) of this section shall constitute a quorum.
 
 #### (g) Powers
 

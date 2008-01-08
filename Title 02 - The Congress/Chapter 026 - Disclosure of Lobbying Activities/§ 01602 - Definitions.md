@@ -68,7 +68,7 @@ As used in this chapter:
 
 #### (A) Definition
 
-&emsp;&emsp;The term “lobbying contact” means any oral or written communication (including anelectronic communication) to a covered executive branch official or a covered legislative branch official that is made on behalf of a client with regard to—
+&emsp;&emsp;The term “lobbying contact” means any oral or written communication (including an electronic communication) to a covered executive branch official or a covered legislative branch official that is made on behalf of a client with regard to—
 
 &emsp;&emsp;&emsp;(i) the formulation, modification, or adoption of Federal legislation (including legislative proposals);
 
@@ -148,7 +148,7 @@ As used in this chapter:
 
 #### (10) Lobbyist
 
-&emsp;The term “lobbyist” means any individual who is employed or retained by a client for financial or other compensation for services that include more than one lobbying contact, other than an individual whose lobbying activities constitute less than 20 percent of the time engaged in the services provided by such individual to that client over a six month period.
+&emsp;The term “lobbyist” means any individual who is employed or retained by a client for financial or other compensation for services that include more than one lobbying contact, other than an individual whose lobbying activities constitute less than 20 percent of the time engaged in the services provided by such individual to that client over a 3-month period.
 
 #### (11) Media organization
 
@@ -196,7 +196,7 @@ As used in this chapter:
 
 &emsp;The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Pub. L. 104–65, §3, Dec. 19, 1995, 109 Stat. 691; Pub. L. 105–166, §§2, 3, Apr. 6, 1998, 112 Stat. 38.)
+(Pub. L. 104–65, §3, Dec. 19, 1995, 109 Stat. 691; Pub. L. 105–166, §§2, 3, Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, §201(b)(1), Sept. 14, 2007, 121 Stat. 742.)
 
 #### References in Text
 
@@ -220,11 +220,17 @@ The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 19
 
 #### Amendments
 
+2007—Par. (10). Pub. L. 110–81 substituted “3-month period” for “six month period”.
+
 1998—Par. (3)(F). Pub. L. 105–166, §2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
 
 Par. (8)(B)(ix). Pub. L. 105–166, §3(a), inserted before semicolon at end “, including any communication compelled by a Federal contract, grant, loan, permit, or license”.
 
 Par. (15)(F). Pub. L. 105–166, §3(b), inserted before period at end “, or a group of governments acting together as an international organization”.
+
+#### Effective Date of 2007 Amendment
+
+Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 434 of this title.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
 

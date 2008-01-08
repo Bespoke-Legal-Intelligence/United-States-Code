@@ -14,7 +14,7 @@ The institution of higher education may allow a fellowship recipient to interrup
 
 #### (d) Process and timing of competition
 
-The Secretary shall make applications for fellowships under this part available not later than October 1 of the academic year preceding the academic year for which fellowships will be awarded, and shall announce the recipients of fellowships under this section not later than March 1 of the academic year preceding the academic year for which the fellowships are awarded.
+The Secretary shall make applications for fellowships under this part available not later thanOctober 1 of the academic year preceding the academic year for which fellowships will be awarded, and shall announce the recipients of fellowships under this section not later than March 1 of the academic year preceding the academic year for which the fellowships are awarded.
 
 #### (e) Authority to contract
 

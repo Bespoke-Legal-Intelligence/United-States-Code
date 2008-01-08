@@ -10,7 +10,7 @@ Within 15 days after receipt of notice under subsection (a) of this section, the
 
 #### (c) Scheduling agreement
 
-Within 90 days after receipt of notice under subsection (a) of this section, the Secretary of the Interior, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, and any State or local agencies that have notified the Secretary under subsection (b) of this section shall enter into an agreement with the Secretary establishing a schedule of decisionmaking for approval of the project and permits associated with it and with related activities. Such schedule may not exceed two and one-half years from the date of the agreement.
+Within 90 days after receipt of notice under subsection (a) of this section, the Secretary ofthe Interior, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, and any State or local agencies that have notified the Secretary under subsection (b) of this section shall enter into an agreement with the Secretary establishing a schedule of decisionmaking for approval of the project and permits associated with it and with related activities. Such schedule may not exceed two and one-half years from the date of the agreement.
 
 #### (d) Contents of agreement
 

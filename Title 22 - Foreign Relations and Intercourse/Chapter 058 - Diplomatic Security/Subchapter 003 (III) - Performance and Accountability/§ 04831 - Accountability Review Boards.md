@@ -24,7 +24,7 @@
 
 &emsp;&emsp;In the case of an incident described in subparagraph (A), the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) promptly notify the Committee on International Relations of the House ofRepresentatives and the Committee on Foreign Relations of the Senate of the incident;
+&emsp;&emsp;&emsp;(i) promptly notify the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate of the incident;
 
 &emsp;&emsp;&emsp;(ii) conduct an inquiry of the incident; and
 
@@ -65,4 +65,8 @@ Subsec. (a)(3). Pub. L. 109–140, §3(2), added par. (3).
 1999—Pub. L. 106–113 substituted “Review Boards” for “review” in section catchline and amended text generally. Prior to amendment, text read as follows: “In any case of serious injury, loss of life, or significant destruction of property at or related to a United States Government mission abroad, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, which is covered by the provisions of this chapter (other than a facility or installation subject to the control of a United States area military commander), the Secretary of State shall convene an Accountability Review Board (hereafter in this subchapter referred to as the ‘Board’). With respect to breaches of security involving intelligence activities, the Secretary of State may delay establishing an Accountability Review Board if, after consultation with the Chairman of the Select Committee on Intelligence of the Senate and the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that doing so would compromise intelligence sources and methods. The Secretary shall promptly advise the Chairmen of such committees of each determination pursuant to this section to delay the establishment of an Accountability Review Board. The Secretary shall not convene a Board where the Secretary determines that a case clearly involves only causes unrelated to security.”
 
 1987—Pub. L. 100–204 inserted “, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad,” after “mission abroad” in first sentence, and inserted after first sentence “With respect to breaches of security involving intelligence activities, the Secretary of State may delay establishing an Accountability Review Board if, after consultation with the Chairman of the Select Committee on Intelligence of the Senate and the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that doing so would compromise intelligence sources and methods. The Secretary shall promptly advise the Chairmen of such committees of each determination pursuant to this section to delay the establishment of an Accountability Review Board.”
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

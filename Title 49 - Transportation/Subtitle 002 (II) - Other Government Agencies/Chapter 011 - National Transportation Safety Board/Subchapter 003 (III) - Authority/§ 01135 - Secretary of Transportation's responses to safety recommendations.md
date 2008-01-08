@@ -12,7 +12,7 @@ General.—When the National Transportation Safety Board submits a recommendatio
 
 (b)
 
-Timetable for Completing Procedures and Reasons for Refusals.—A response under subsection (a)(1) or (2) of this section shall include a copy of a proposed timetable for completing the procedures. A response under subsection (a)(2) of this section shall detail the reasons for the refusal to carry out procedures on the remainder of the recommendation. A response under subsection (a)(3) of this section shall detail the reasons for the refusal to carry out procedures.
+Timetable for Completing Procedures and Reasons for Refusals.—A response undersubsection (a)(1) or (2) of this section shall include a copy of a proposed timetable for completing the procedures. A response under subsection (a)(2) of this section shall detail the reasons for the refusal to carry out procedures on the remainder of the recommendation. A response under subsection (a)(3) of this section shall detail the reasons for the refusal to carry out procedures.
 
 (c)
 

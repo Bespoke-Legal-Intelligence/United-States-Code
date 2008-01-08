@@ -6,7 +6,7 @@
 
 (c) A selection board convened under section 611(a) of this title shall include in its report to the Secretary concerned the name of any officer considered and not recommended for promotion by the board who submitted to the board a request not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under section 614(b) of this title.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2853; amended Pub. L. 100–456, div. A, title V, §501(c), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–484, div. A, title X, §1052(8), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title XVI, §1623, Oct. 5, 1994, 108 Stat. 2961; Pub. L. 105–261, div. A, title V, §502(b), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–65, div. A, title V, §503(a), Oct. 5, 1999, 113 Stat. 590.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2853; amended Pub. L. 100–456, div. A, title V, §501(c), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–484, div. A, title X, §1052(8), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title XVI, §1623, Oct. 5, 1994, 108 Stat. 2961; Pub. L. 105–261, div. A, title V, §502(b), Oct. 17, 1998, 112 Stat.2003; Pub. L. 106–65, div. A, title V, §503(a), Oct. 5, 1999, 113 Stat. 590.)
 
 #### Amendments
 

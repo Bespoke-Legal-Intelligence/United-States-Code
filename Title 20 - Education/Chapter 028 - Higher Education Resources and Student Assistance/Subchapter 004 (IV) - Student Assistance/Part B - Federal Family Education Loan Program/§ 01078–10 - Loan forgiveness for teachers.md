@@ -54,7 +54,7 @@ Nothing in this section shall be construed to authorize any refunding of any rep
 
 #### (f) List
 
-If the list of schools in which a teacher may perform service pursuant to subsection (b) of this section is not available before May 1 of any year, the Secretary may use the list for the yearpreceding the year for which the determination is made to make such service determination.
+If the list of schools in which a teacher may perform service pursuant to subsection (b) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
 
 #### (g) Additional eligibility provisions
 
@@ -74,7 +74,7 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 #### (3) Private school teachers
 
-&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 7801 of this title, and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
+&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private schoolteacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 7801 of this title, and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
 
 #### (h) “Year” defined
 
@@ -134,7 +134,7 @@ Rule.—The amendments made by paragraph (1) of this subsection to sections 428J
 
 Rule not applicable to increased qualified loan amounts.—Subparagraph (A) of this paragraph shall not apply for purposes of obtaining increased qualified loan amounts under sections 428J(c)(3) and 460(c)(3) of the Higher Education Act of 1965 \[sections 1078–10(c)(3) and 1087j(c)(3) of this title\] as added by subsection (b) of this section.”
 
-Pub. L. 108–409, §3(b)(3), Oct. 30, 2004, 118 Stat. 2301, as amended by Pub. L. 109–150, §2(c)(1), Dec. 30, 2005, 119Stat. 2884; Pub. L. 109–171, title VIII, §8013(c)(2), (d)(1), Feb. 8, 2006, 120 Stat. 167, provided that: “The amendments made by this subsection \[amending this section and section 1087j of this title\] shall apply only with respect to eligible individuals who are new borrowers (as such term is defined in 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) on or after October 1, 1998.”
+Pub. L. 108–409, §3(b)(3), Oct. 30, 2004, 118 Stat. 2301, as amended by Pub. L. 109–150, §2(c)(1), Dec. 30, 2005, 119 Stat. 2884; Pub. L. 109–171, title VIII, §8013(c)(2), (d)(1), Feb. 8, 2006, 120 Stat. 167, provided that: “The amendments made by this subsection \[amending this section and section 1087j of this title\] shall apply only with respect to eligible individuals who are new borrowers (as such term is defined in 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) on or after October 1, 1998.”
 
 \[Pub. L. 109–150, §2(c)(1), which amended section 3(b)(3) of Pub. L. 108–409, set out above, was repealed by Pub. L. 109–171, §8013(d)(1), eff. July 1, 2006.\]
 

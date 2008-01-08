@@ -20,11 +20,15 @@ The revolving fund shall be credited with all advances and amounts received as p
 
 #### (d) Unobligated balances
 
-Any unobligated and unexpended balances in the revolving fund that the Librarian determines to be in excess of amounts needed for activities financed by the revolving fund, shall be deposited in the Treasury of the United States as miscellaneous receipts. Amounts needed for activities financed by the revolving fund means the direct and indirect costs of the program, including the costs of purchasing, shipping, binding of books and other library materials; supplies, materials, equipment and services neededin support of the program; salaries and benefits; general overhead; and travel.
+Any unobligated and unexpended balances in the revolving fund that the Librarian determines to be in excess of amounts needed for activities financed by the revolving fund, shall be deposited in the Treasury of the United States as miscellaneous receipts. Amounts needed for activities financed by the revolving fund means the direct and indirect costs of the program, including the costs of purchasing, shipping, binding of books and other library materials; supplies, materials, equipment and services needed in support of the program; salaries and benefits; general overhead; and travel.
 
-#### (e) Annual report
+#### (e) Audit
 
-Not later than March 31 of each year, the Librarian of Congress shall prepare and submit to Congress an audited financial statement for the revolving fund for the preceding fiscal year. The audit shall be conducted in accordance with Government Auditing Standards for financial audits issued by the Comptroller General of the United States.
+The revolving fund shall be subject to audit by the Comptroller General at the Comptroller General's discretion.
 
-(Pub. L. 105–55, title II, §207, Oct. 7, 1997, 111 Stat. 1193.)
+(Pub. L. 105–55, title II, §207, Oct. 7, 1997, 111 Stat. 1193; Pub. L. 110–161, div. H, title I, §1403, Dec. 26, 2007, 121 Stat. 2247.)
+
+#### Amendments
+
+2007—Subsec. (e). Pub. L. 110–161 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Not later than March 31 of each year, the Librarian of Congress shall prepare and submit to Congress an audited financial statement for the revolving fund for the preceding fiscal year. The audit shall be conducted in accordance with Government Auditing Standards for financial audits issued by the Comptroller General of the United States.”
 

@@ -16,7 +16,11 @@ A student financial aid administrator shall be considered to be making a necessa
 
 On a case-by-case basis, an eligible institution may refuse to certify a statement that permits a student to receive a loan under part B or C of this subchapter, or may certify a loan amount or make a loan that is less than the student's determination of need (as determined under this part), if the reason for the action is documented and provided in written form to the student. No eligible institution shall discriminate against any borrower or applicant in obtaining a loan on the basis of race, national origin, religion, sex, marital status, age, or disability status.
 
-(Pub. L. 89–329, title IV, §479A, as added Pub. L. 100–50, §14(26), June 3, 1987, 101 Stat. 352; amended Pub. L. 101–239, title II, §2009, Dec. 19, 1989, 103 Stat. 2122; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 605; Pub. L. 103–208, §2(g)(16), Dec. 20, 1993, 107 Stat. 2473; Pub. L. 105–244, title IV, §478, Oct. 7, 1998, 112 Stat. 1731.)
+(Pub. L. 89–329, title IV, §479A, as added Pub. L. 100–50, §14(26), June 3, 1987, 101 Stat. 352; amended Pub. L. 101–239, title II, §2009, Dec. 19, 1989, 103 Stat. 2122; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 605; Pub. L. 103–208, §2(g)(16), Dec. 20, 1993, 107 Stat. 2473; Pub. L. 105–244, title IV, §478, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 110–84, title VI, §603(a), Sept. 27, 2007, 121 Stat. 805.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 110–84, title VI, §603, Sept. 27, 2007, 121 Stat. 805, provided that, effective July 1, 2009, the third sentence of subsection (a) of this section is amended by inserting “or an independent student” after “family member”, “a family member who is a dislocated worker (as defined in section 2801 of title 29),” before “the number of parents”, and “a change in housing status that results in an individual being homeless (as defined in section 11302 of title 42),” after “under section 1094 of this title,”.</i>
 
 #### Prior Provisions
 
@@ -32,7 +36,11 @@ Subsec. (c). Pub. L. 105–244, §478(2), amended heading and text of subsec. (c
 
 1992—Pub. L. 102–325 amended section generally, revising and restating provisions of subsecs. (a) and (b) and striking out former subsec. (c) which related to asset adjustment as example.
 
-1989—Subsec. (a). Pub. L. 101–239 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selectingrecipients and determining the amount of awards under subparts 1 and 2 of part A and parts B and D of this subchapter and part C of subchapter I of chapter 34 of title 42.”
+1989—Subsec. (a). Pub. L. 101–239 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selecting recipients and determining the amount of awards under subparts 1 and 2 of part A and parts B and D of this subchapter and part C of subchapter I of chapter 34 of title 42.”
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–84, title VI, §603(b), Sept. 27, 2007, 121 Stat. 806, provided that: “The amendments made by this section \[amending this section\] shall take effect on July 1, 2009.”
 
 #### Effective Date of 1998 Amendment
 

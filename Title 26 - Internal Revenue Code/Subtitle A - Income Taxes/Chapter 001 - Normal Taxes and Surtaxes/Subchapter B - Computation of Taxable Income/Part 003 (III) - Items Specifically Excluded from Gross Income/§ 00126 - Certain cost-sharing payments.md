@@ -56,9 +56,9 @@ No deduction or credit shall be allowed with respect to any expenditure which is
 
 #### (e) Basis of property not increased by reason of excludable payments
 
-Notwithstanding any provision of section 1016 to the contrary, no adjustment to basis shall be made with respect to property acquired or improved through the use of any payment, to the extent that such adjustment would reflect any amount which is excluded from gross income under subsection (a).
+Notwithstanding any provision of section 1016 to the contrary, no adjustment to basis shall bemade with respect to property acquired or improved through the use of any payment, to the extent that such adjustment would reflect any amount which is excluded from gross income under subsection (a).
 
-(Added Pub. L. 95–600, title V, §543(a), Nov. 6, 1978, 92 Stat. 2888; amended Pub. L. 96–222, titleI, §105(a)(7)(A), (C), (E), Apr. 1, 1980, 94 Stat. 220, 221.)
+(Added Pub. L. 95–600, title V, §543(a), Nov. 6, 1978, 92 Stat. 2888; amended Pub. L. 96–222, title I, §105(a)(7)(A), (C), (E), Apr. 1, 1980, 94 Stat. 220, 221.)
 
 #### References in Text
 

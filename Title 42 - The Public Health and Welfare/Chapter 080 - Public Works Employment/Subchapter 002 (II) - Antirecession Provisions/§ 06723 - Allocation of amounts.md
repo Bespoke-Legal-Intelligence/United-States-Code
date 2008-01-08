@@ -40,7 +40,7 @@
 
 &emsp;(A) the local excess unemployment percentage is equal to the difference resulting from the subtraction of 4.5 percentage points from the local unemployment rate, but shall not be less than zero;
 
-&emsp;(B) the local unemployment rate is equal to the rate of unemployment in the jurisdiction of the local government during the appropriated calendar quarter, as determined or assigned by the Secretary of Labor and reported to the Secretary (in the case of a local government for which the Secretary of Labor cannot determine a local unemployment rate, he shall assign such local government the local unemployment rate of the smallest unit or subunit of local government for which he has determined a local unemployment rate and within the jurisdiction of which such local government is located, unless—
+&emsp;(B) the local unemployment rate is equal to the rate of unemployment in the jurisdictionof the local government during the appropriated calendar quarter, as determined or assigned by the Secretary of Labor and reported to the Secretary (in the case of a local government for which the Secretary of Labor cannot determine a local unemployment rate, he shall assign such local government the local unemployment rate of the smallest unit or subunit of local government for which he has determined a local unemployment rate and within the jurisdiction of which such local government is located, unless—
 
 &emsp;&emsp;(i) the Governor of the State in which such local government is located has provided the Secretary of Labor with a local unemployment rate for such local government, and
 
@@ -52,7 +52,7 @@
 
 &emsp;(D) the term “local government” means the government of a county, municipality, township, or other unit of government below the State which—
 
-&emsp;&emsp;(i) is a unit of general government (determined on the basis of the same principles asare used by the Bureau of the Census for general statistical purposes), and
+&emsp;&emsp;(i) is a unit of general government (determined on the basis of the same principles as are used by the Bureau of the Census for general statistical purposes), and
 
 &emsp;&emsp;(ii) performs substantial governmental functions. Such term includes the District of Columbia and also includes the recognized governing body of an Indian tribe or Alaskan Native village which performs substantial governmental functions. Such term does not include the government of a township area unless such government performs substantial governmental functions.
 

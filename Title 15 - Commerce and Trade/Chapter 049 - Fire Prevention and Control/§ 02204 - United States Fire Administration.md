@@ -12,7 +12,7 @@ There shall be at the head of the Administration the Administrator of the United
 
 There shall be in the Administration a Deputy Administrator of the United States Fire Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate now or hereafter provided for level V of the Executive Schedule pay rates (5 U.S.C. 5316). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
-(Pub. L. 93–498, §5, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 106–503, title I, §110(a)(2)(B)(i), Nov. 13, 2000, 114 Stat. 2302.)
+(Pub. L. 93–498, §5, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932;Pub. L. 106–503, title I, §110(a)(2)(B)(i), Nov. 13, 2000, 114 Stat. 2302.)
 
 #### Amendments
 
@@ -58,11 +58,11 @@ Major Reorganization Defined.—With respect to the United States Fire Administr
 
 “(b)
 
-Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act \[see Short Title of 1997 Amendment note set out under section 2201 of this title\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives.
+Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act \[see Short Title of 1997 Amendment note set out under section 2201 of this title\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives.
 
 “(c)
 
-Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the United States Fire Administration, the Administrator of the United States Fire Administration shall provide notice to the Committees on Science and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate.”
+Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the United States Fire Administration, the Administrator of the United States Fire Administration shall provide notice to the Committees on Science \[now Science and Technology\] and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate.”
 
 #### Abolition of Position of Deputy Administrator
 

@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(XV) S. 11°2850 W. 38.56 feet to the point of beginning.
 
-&emsp;&emsp;(ii) The parcel described in clause (i) does not include the parcel beginning at the point in the centerline of Church Street (49.50 feet wide), that point being N. 11°2850 E. 796.36 feet, measured along the centerline, from its intersection with the curved northerly right-of-way line of Pennsylvania-Reading Seashore Lines Railroad (66.00 feet wide)—
+&emsp;&emsp;(ii) The parcel described in clause (i) does not include the parcel beginning at the point in the centerline of Church Street (49.50 feetwide), that point being N. 11°2850 E. 796.36 feet, measured along the centerline, from its intersection with the curved northerly right-of-way line of Pennsylvania-Reading Seashore Lines Railroad (66.00 feet wide)—
 
 &emsp;&emsp;&emsp;(I) N. 78°2740 W. 118.47 feet; thence
 

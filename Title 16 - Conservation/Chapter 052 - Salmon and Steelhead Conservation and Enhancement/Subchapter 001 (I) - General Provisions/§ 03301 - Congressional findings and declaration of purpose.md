@@ -34,7 +34,7 @@ Section 101 of title I of Pub. L. 96–561 provided that: “This title \[enacti
 
 #### Research and Development Program To Improve Salmon Survival
 
-Pub. L. 104–303, title V, §511, Oct. 12, 1996, 110 Stat. 3761, as amended by Pub. L. 106–53, title V, §582, Aug. 17, 1999, 113 Stat. 375, provided that:
+Pub. L. 104–303, title V, §511, Oct. 12, 1996, 110 Stat. 3761, as amended by Pub. L. 106–53, title V, §582, Aug. 17, 1999, 113 Stat. 375; Pub. L. 110–114, title V, §5025, Nov. 8, 2007, 121 Stat. 1203, provided that:
 
 “(a)
 
@@ -42,7 +42,7 @@ Salmon Survival Activities.—
 
 &emsp;“(1)
 
-In general.—In conjunction with the Secretary of Commerce and the Secretary of the Interior, the Secretary shall accelerate ongoing research and development activities, and may carry out or participate in additional research and development activities, for the purpose of developing innovative methods and technologies for improving the survival of salmon, especially salmon in the Columbia/Snake River Basin.
+In general.—In conjunction with the Secretary of Commerce and the Secretary of the Interior, the Secretary shall accelerate ongoing research and development activities, and may carry out or participate in additional research and development activities, for the purpose of developing innovative methods and technologies for improving the survivalof salmon, especially salmon in the Columbia/Snake River Basin.
 
 &emsp;“(2)
 
@@ -84,7 +84,7 @@ Report.—Not later than 3 years after the date of enactment of the Water Resour
 
 &emsp;“(6)
 
-Authorization of appropriations.—There is authorized to be appropriated $10,000,000 to carry out research and development activities under paragraph (3).
+Authorization of appropriations.—There is authorized to be appropriated $25,000,000 to carry out research and development activities under paragraph (3).
 
 “(b)
 
@@ -108,7 +108,7 @@ Nesting avian predators.—In conjunction with the Secretary of Commerce and the
 
 &emsp;“(2)
 
-Authorization of appropriations.—There is authorized to be appropriated $1,000,000 to carry out research and development activities under this subsection.
+Authorization of appropriations.—There is authorized to be appropriated $10,000,000 to carry out research and development activities under this subsection.
 
 “(d)
 

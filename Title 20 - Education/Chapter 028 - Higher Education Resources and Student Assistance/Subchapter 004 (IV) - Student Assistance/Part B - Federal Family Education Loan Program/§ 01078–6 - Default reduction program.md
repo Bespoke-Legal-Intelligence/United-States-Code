@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(i) for the repayment by the agency to the Secretary of 81.5 percent of the amount of the principal balance outstanding at the time of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
 
-&emsp;&emsp;(ii) for the reinstatement by the Secretary (I) of the obligation to reimburse such agency for the amount expended by it in discharge of its insurance obligation under its loan insurance program, and (II) of the obligation to pay to the holder of such loan aspecial allowance pursuant to section 1087–1 of this title.
+&emsp;&emsp;(ii) for the reinstatement by the Secretary (I) of the obligation to reimburse such agency for the amount expended by it in discharge of its insurance obligation under its loan insurance program, and (II) of the obligation to pay to the holder of such loan a special allowance pursuant to section 1087–1 of this title.
 
 &emsp;(C) A guaranty agency may charge the borrower and retain collection costs in an amount not to exceed 18.5 percent of the outstanding principal and interest at the time of sale of a loan rehabilitated under subparagraph (A).
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Publicity Through Communications Media of Availability of Default Reduction Program
 
-Section 2005(b) of Pub. L. 101–239 provided that: “The Secretary of Education shall, from funds availablethrough student loan collections, commencing not less than 30 days before the beginning of the default reduction program required by the amendment made by this section \[amending this section\], and continuing throughout the duration of such program, widely publicize (through various communications media) the availability of the default reduction program.”
+Section 2005(b) of Pub. L. 101–239 provided that: “The Secretary of Education shall, from funds available through student loan collections, commencing not less than 30 days before the beginning of the default reduction program required by the amendment made by this section \[amending this section\], and continuing throughout the duration of such program, widely publicize (through various communications media) the availability of the default reduction program.”
 

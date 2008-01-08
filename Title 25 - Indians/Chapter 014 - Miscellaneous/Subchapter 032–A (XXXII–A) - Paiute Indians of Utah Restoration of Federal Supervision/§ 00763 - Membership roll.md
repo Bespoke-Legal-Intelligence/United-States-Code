@@ -24,7 +24,7 @@ The final membership roll is declared open. The Secretary, the Interim Council, 
 
 #### (c) Verification of descendancy, age, and blood; procedures applicable
 
-(1) Before election of the Interim Council, verification of descendancy, age, and blood shall bemade upon oath before the Secretary and his determination thereon shall be final.
+(1) Before election of the Interim Council, verification of descendancy, age, and blood shall be made upon oath before the Secretary and his determination thereon shall be final.
 
 (2) After election of the Interim Council and before the initial election of the tribal officials, verification of descendancy, age, and blood shall be made upon oath before the Interim Council, or its authorized representative. A member of the tribe, with respect to the inclusion of any name, and any person, with respect to the exclusion of his name, may appeal to the Secretary, who shall make a final determination of each such appeal within ninety days after an appeal has been filed with him. The determination of the Secretary with respect to an appeal under this paragraph shall be final.
 

@@ -200,9 +200,9 @@ The Secretary may prescribe such regulations as may be necessary or appropriate 
 
 (Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59.)
 
-#### Inflation Adjusted Items for Taxable Years Beginning in 2007
+#### Inflation Adjusted Items for Taxable Years Beginning in 2008
 
-<i>For inflation adjustment of amounts in subsection (b)(1) of this section used in determining Hope Scholarship Credit and amounts in subsection (d)(2)(A)(ii) of this section used in determining reduction in amount of credits otherwise allowable for taxable years beginning in 2007, see section 3.05 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of amounts in subsection (b)(1) of this section used in determining Hope Scholarship Credit and amounts in subsection (d)(2)(A)(ii) of this section used in determining reduction in amount of credits otherwise allowable for taxable years beginning in 2008, see section 3.05 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 

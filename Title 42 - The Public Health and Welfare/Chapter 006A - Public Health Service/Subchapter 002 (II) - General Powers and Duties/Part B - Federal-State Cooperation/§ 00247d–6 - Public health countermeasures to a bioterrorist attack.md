@@ -62,7 +62,7 @@
 
 &emsp;&emsp;The Advisory Committee shall provide recommendations regarding—
 
-&emsp;&emsp;&emsp;(i) the preparedness of the health care (including mental health care) system torespond to public health emergencies as they relate to at-risk individuals;
+&emsp;&emsp;&emsp;(i) the preparedness of the health care (including mental health care) system to respond to public health emergencies as they relate to at-risk individuals;
 
 &emsp;&emsp;&emsp;(ii) needed changes to the health care and emergency medical service systems and emergency medical services protocols to meet the special needs of at-risk individuals; and
 
@@ -110,7 +110,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### (2) Eligibility
 
-&emsp;To be eligible to receive an award under this subsection to establish a Center, an accredited school of public health shall agree to conduct activities consistent with the requirements of this subsection.
+&emsp;To be eligible to receive an award under this subsection to establish a Center, an accreditedschool of public health shall agree to conduct activities consistent with the requirements of this subsection.
 
 #### (3) Core curricula
 

@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (2) Inversion gain
 
-&emsp;The term “inversion gain” means the income or gain recognized by reason of the transfer during the applicable period of stock or other properties by an expatriated entity, and any income received or accrued during the applicable period by reason of a license of any property by an expatriated entity—
+&emsp;The term “inversion gain” means the income or gain recognized by reason of the transfer during the applicable period of stockor other properties by an expatriated entity, and any income received or accrued during the applicable period by reason of a license of any property by an expatriated entity—
 
 &emsp;&emsp;(A) as part of the acquisition described in subsection (a)(2)(B)(i), or
 
@@ -174,5 +174,5 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date
 
-Pub. L. 108–357, title VIII, §801(c), Oct. 22, 2004, 118 Stat. 1566, provided that: “The amendments made bythis section \[enacting this section\] shall apply to taxable years ending after March 4, 2003.”
+Pub. L. 108–357, title VIII, §801(c), Oct. 22, 2004, 118 Stat. 1566, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years ending after March 4, 2003.”
 

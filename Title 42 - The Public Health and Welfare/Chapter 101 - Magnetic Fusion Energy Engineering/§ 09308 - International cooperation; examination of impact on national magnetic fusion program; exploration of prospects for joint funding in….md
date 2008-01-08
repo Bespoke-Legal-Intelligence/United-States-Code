@@ -12,7 +12,3 @@
 
 (Pub. L. 96–386, §9, Oct. 7, 1980, 94 Stat. 1543.)
 
-#### Change of Name
-
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

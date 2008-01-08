@@ -6,7 +6,7 @@ There is established within the Administration an Office of International Trade 
 
 #### (b) Development of distribution network; marketing of programs and dissemination of information; bilingual job applicants
 
-The Office, working in close cooperation with the Department of Commerce and other relevantFederal agencies, Small Business Development Centers engaged in export promotion efforts, regional and local Administration offices, the small business community, and relevant State and local export promotion programs, shall—
+The Office, working in close cooperation with the Department of Commerce and other relevant Federal agencies, Small Business Development Centers engaged in export promotion efforts, regional and local Administration offices, the small business community, and relevant State and local export promotion programs, shall—
 
 &emsp;(1) assist in developing a distribution network for existing trade promotion, trade finance, trade adjustment, trade remedy assistance and trade data collection programs through use of the Administration's regional and local offices and the Small Business Development Center network;
 
@@ -56,7 +56,7 @@ The Office shall promote sales opportunities for small business goods and servic
 
 &emsp;&emsp;(C) encourage financial institutions to develop and expand programs for export financing;
 
-&emsp;&emsp;(D) provide advice to Administration personnel involved in granting loans, loan guarantees, and extensions and revolving lines ofcredit, and providing other forms of assistance to small businesses engaged in exports; and
+&emsp;&emsp;(D) provide advice to Administration personnel involved in granting loans, loan guarantees, and extensions and revolving lines of credit, and providing other forms of assistance to small businesses engaged in exports; and
 
 &emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments and agencies, to study export programs and to examine small businesses’ needs for export information and assistance.
 
@@ -120,7 +120,7 @@ Section 113(b) of Pub. L. 96–481 provided that: “The amendment made by subse
 
 #### Short Title
 
-For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, seeShort Title of 1980 Amendment note set out under section 631 of this title.
+For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, see Short Title of 1980 Amendment note set out under section 631 of this title.
 
 #### Congressional Declaration of Policy
 

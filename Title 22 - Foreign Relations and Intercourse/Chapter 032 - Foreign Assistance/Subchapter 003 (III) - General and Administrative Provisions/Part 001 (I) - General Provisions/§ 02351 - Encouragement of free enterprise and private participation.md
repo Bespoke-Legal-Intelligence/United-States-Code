@@ -10,7 +10,7 @@ In order to encourage and facilitate participation by private enterprise to the 
 
 &emsp;(1) make arrangements to find, and draw the attention of private enterprise to, opportunities for investment and development in less-developed friendly countries and areas;
 
-&emsp;(2) establish an effective system for obtaining adequate information with respect to theactivities of, and opportunities for, nongovernmental participation in the development process, and for utilizing such information in the planning, direction, and execution of programs carried out under this chapter, and in the coordination of such programs with the ever-increasing developmental activities of nongovernmental United States institutions;
+&emsp;(2) establish an effective system for obtaining adequate information with respect to the activities of, and opportunities for, nongovernmental participation in the development process, and for utilizing such information in the planning, direction, and execution of programs carried out under this chapter, and in the coordination of such programs with the ever-increasing developmental activities of nongovernmental United States institutions;
 
 &emsp;(3) accelerate a program of negotiating treaties for commerce and trade, including tax treaties, which shall include provisions to encourage and facilitate the flow of private investment to, and its equitable treatment in, friendly countries and areas participating in programs under this chapter;
 
@@ -28,7 +28,7 @@ In order to encourage and facilitate participation by private enterprise to the 
 
 (1) There is hereby established an International Private Investment Advisory Council on Foreign Aid to be composed of such number of leading American business specialists as may be selected, from time to time, by the Administrator of the Agency for International Development for the purpose of carrying out the provisions of this subsection. The members of the Council shall serve at the pleasure of the Administrator, who shall designate one member to serve as Chairman.
 
-(2) It shall be the duty of the Council, at the request of the Administrator, to make recommendations to the Administrator with respect to particular aspects of programs and activities under this chapter where private enterprise can play a contributing role and to act as liaison for the Administrator to involve specific private enterprises in such programs and activities.
+(2) It shall be the duty of the Council, at the request of the Administrator, to make recommendations to the Administrator with respect to particular aspects of programs and activities under this chapter where private enterprise canplay a contributing role and to act as liaison for the Administrator to involve specific private enterprises in such programs and activities.
 
 (3) The members of the Advisory Council shall receive no compensation for their services but shall be entitled to reimbursement in accordance with section 5703 of title 5 for travel and other expenses incurred by them in the performance of their functions under this subsection.
 

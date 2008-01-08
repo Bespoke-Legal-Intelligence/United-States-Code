@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) shall be equal to 50 percent of so much of such individual's earnings for the immediately preceding year as exceeds the applicable exempt amount for such preceding year; but
 
-&emsp;&emsp;(B) may not exceed the total amount of the annuity supplement payments to whichsuch individual was entitled for such preceding year under section 8421 (determined without regard to subsection (c) of such section, and without regard to this section).
+&emsp;&emsp;(B) may not exceed the total amount of the annuity supplement payments to which such individual was entitled for such preceding year under section 8421 (determined without regard to subsection (c) of such section, and without regard to this section).
 
 &emsp;(3)(A) Subject to subparagraph (B), the number of an individual's supplement entitlement months for a year shall be 12.
 

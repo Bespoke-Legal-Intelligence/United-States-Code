@@ -52,7 +52,7 @@ The Board of Directors shall administer the affairs of the Corporation fairly an
 
 &emsp;Each examiner appointed under paragraph (1) shall—
 
-&emsp;&emsp;(A) have power to make a thorough examination of any insured depository institution or affiliate under paragraph (2), (3), (4), or (5); and
+&emsp;&emsp;(A) have power to make a thorough examination of any insured depository institutionor affiliate under paragraph (2), (3), (4), or (5); and
 
 &emsp;&emsp;(B) shall make a full and detailed report of condition of any insured depository institution or affiliate examined to the Corporation.
 
@@ -130,7 +130,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (8) Report
 
-&emsp;At the time the system provided for in paragraph (6) is established, the Federal banking agencies shall submit a joint report describing the system to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives. Thereafter, the Federal banking agencies shall annually submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives regarding the progress of the agencies in implementing the system and indicating areas in which enhancements to the system, including legislature improvements, would be appropriate.
+&emsp;At the time the system provided for in paragraph (6) is established, the Federal banking agencies shall submit a joint report describing the system to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance andUrban Affairs of the House of Representatives. Thereafter, the Federal banking agencies shall annually submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives regarding the progress of the agencies in implementing the system and indicating areas in which enhancements to the system, including legislature improvements, would be appropriate.
 
 #### (9) Standards for determining adequacy of State examinations
 
@@ -206,7 +206,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (3) Authority of the Federal banking agencies
 
-&emsp;Any photographs, microphotographs, or photographic film or copies thereof described in paragraph (1)(A) or reproduction of electronically stored data described in paragraph (1)(B) shall be preserved in such manner as the Federal banking agency shall prescribe, and the original records, papers, or documents may be destroyed or otherwise disposed of as the Federal banking agency may direct.
+&emsp;Any photographs, microphotographs, or photographic film or copies thereof described in paragraph (1)(A) or reproduction of electronically stored data described in paragraph (1)(B)shall be preserved in such manner as the Federal banking agency shall prescribe, and the original records, papers, or documents may be destroyed or otherwise disposed of as the Federal banking agency may direct.
 
 #### (g) Authority to prescribe regulations and definitions
 
@@ -236,7 +236,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a branch operated in a host State by an out-of-State insured Statebank that resulted from an interstate merger transaction approved under section 1831u of this title, or that was established in such State pursuant to section 36(g) of this title, the third undesignated paragraph of section 321 of this title or section 1828(d)(4) of this title, the appropriate State bank supervisor of such host State may—
+&emsp;&emsp;With respect to a branch operated in a host State by an out-of-State insured State bank that resulted from an interstate merger transaction approved under section 1831u of this title, or that was established in such State pursuant to section 36(g) of this title, the third undesignated paragraph of section 321 of this title or section 1828(d)(4) of this title, the appropriate State bank supervisor of such host State may—
 
 &emsp;&emsp;&emsp;(i) with written notice to the State bank supervisor of the bank's home State and subject to the terms of any applicable cooperative agreement with the State bank supervisor of such home State, examine such branch for the purpose of determining compliance with host State laws that are applicable pursuant to section 1831a(j) of this title, including those that govern community reinvestment, fair lending, and consumer protection; and
 
@@ -264,7 +264,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of this subsection, the term “cooperative agreement” means a written agreement that is signed by the home State bank supervisor and the host State bank supervisor to facilitate State regulatory supervision of State banks, and includes nationwide or multi-State cooperative agreements and cooperative agreements solely between the home State and host State.
+&emsp;&emsp;For purposes of this subsection, the term “cooperative agreement” means a written agreement that is signed by the home State bank supervisor and the host State bank supervisor to facilitate State regulatory supervision of State banks, and includes nationwide or multi-State cooperative agreementsand cooperative agreements solely between the home State and host State.
 
 #### (C) Rule of construction
 
@@ -406,7 +406,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (ii) Civil monetary penalty
 
-&emsp;&emsp;&emsp;The Federal banking agency may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with section 1818(i) of this title. In lieu of an action by the Federal banking agency under this clause, the Attorney General of the United States may bring a civil action under this clause in the appropriate United States district court.
+&emsp;&emsp;&emsp;The Federal banking agency may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with section 1818(i) of this title. In lieu of an action by the Federal banking agency under this clause, the Attorney General ofthe United States may bring a civil action under this clause in the appropriate United States district court.
 
 #### (B) Scope of prohibition order
 
@@ -484,7 +484,7 @@ Consumer compliance examinations excluded.—For purposes of this subsection, th
 
 Subsec. (e). Pub. L. 102–550, §1603(b)(4), amended directory language of Pub. L. 102–242, §113(a)(2). See 1991 Amendment note below.
 
-Subsec. (g). Pub. L. 102–558, §303(b)(5), redesignated subsec. (f), relating to authority to prescribe regulations and definitions, as (g). Pub. L. 102–550, §1605(a)(4), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+Subsec. (g). Pub. L. 102–558, §303(b)(5), redesignated subsec. (f), relating to authority to prescribe regulations and definitions, as (g). Pub. L. 102–550, §1605(a)(4), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set outas a Repeal of Duplicative Provisions note under section 1815 of this title.
 
 1991—Subsec. (b)(2)(B). Pub. L. 102–242, §113(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “any savings association, State nonmember bank, or State branch of a foreign bank, or other depository institution which files an application with the Corporation to become an insured depository institution; and”.
 
@@ -514,7 +514,7 @@ Subsec. (d). Pub. L. 101–73, §210(b)(2), struck out subsec. (d) which defined
 
 Subsec. (d). Pub. L. 97–320, §410(g), inserted “as in section 221a(b) of this title and”.
 
-1978—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank” and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which themain office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
+1978—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank” and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the main office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
 
 Pub. L. 95–369 inserted “any insured State branch of a foreign bank, any State branch of a foreign bank making application to become an insured bank” after “(except a District bank)”, inserted “or branch” after “and any closed insured bank”, substituted “any national bank, insured Federal branch of a foreign bank, or District bank” for “any national bank or District bank” and inserted “and in the case of a foreign bank, a binding commitment by such bank to permit such examination to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter shall be required as a condition to the insurance of any deposits” after “effect of such relations upon such banks”.
 

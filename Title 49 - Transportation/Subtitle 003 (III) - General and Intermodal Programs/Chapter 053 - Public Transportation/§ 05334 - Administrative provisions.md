@@ -42,7 +42,7 @@ Limitation on statutory construction.—Nothing in this subsection shall be cons
 
 Procedures for Prescribing Regulations.—(1) The Secretary of Transportation shall prepare an agenda listing all areas in which the Secretary intends to propose regulations governing activities under this chapter within the following 12 months. The Secretary shall publish the proposed agenda in the Federal Register as part of the Secretary's semiannual regulatory agenda that lists regulatory activities of the Federal Transit Administration. The Secretary shall submit the agenda to the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate on the day the agenda is published.
 
-(2) Except for emergency regulations, the Secretary of Transportation shall give interested parties at least 60 days to participate in a regulatory proceeding under this chapter by submitting written information, views, or arguments,with or without an oral presentation, except when the Secretary for good cause finds that public notice and comment are unnecessary because of the routine nature or insignificant impact of the regulation or that an emergency regulation should be issued. The Secretary may extend the 60-day period if the Secretary decides the period is insufficient to allow diligent individuals to prepare comments or that other circumstances justify an extension.
+(2) Except for emergency regulations, the Secretary of Transportation shall give interested parties at least 60 days to participate in a regulatory proceeding under this chapter by submitting written information, views, or arguments, with or without an oral presentation, except when the Secretary for good cause finds that public notice and comment are unnecessary because of the routine nature or insignificant impact of the regulation or that an emergency regulation should be issued. The Secretary may extend the 60-day period if the Secretary decides the period is insufficient to allow diligent individuals to prepare comments or that other circumstances justify an extension.
 
 (3) An emergency regulation ends 120 days after it is issued.
 
@@ -58,7 +58,7 @@ Budget Program and Set of Accounts.—The Secretary of Transportation shall—
 
 (e)
 
-Depository and Availability of Amounts.—The Secretary of Transportation shall deposit amounts made available to the Secretary under this chapter in a checking account in the Treasury. Receipts, assets, and amounts obtained or held by the Secretary to carry out this chapter are available for administrative expenses to carry out this chapter.
+Depository and Availability of Amounts.—The Secretary of Transportationshall deposit amounts made available to the Secretary under this chapter in a checking account in the Treasury. Receipts, assets, and amounts obtained or held by the Secretary to carry out this chapter are available for administrative expenses to carry out this chapter.
 
 (f)
 
@@ -126,7 +126,7 @@ Agency Statements.—
 
 &emsp;(1)
 
-In general.—The Administrator of the Federal Transit Administration shall followapplicable rulemaking procedures under section 553 of title 5 before the Federal Transit Administration issues a statement that imposes a binding obligation on recipients of Federal assistance under this chapter.
+In general.—The Administrator of the Federal Transit Administration shall follow applicable rulemaking procedures under section 553 of title 5 before the Federal Transit Administration issues a statement that imposes a binding obligation on recipients of Federal assistance under this chapter.
 
 &emsp;(2)
 

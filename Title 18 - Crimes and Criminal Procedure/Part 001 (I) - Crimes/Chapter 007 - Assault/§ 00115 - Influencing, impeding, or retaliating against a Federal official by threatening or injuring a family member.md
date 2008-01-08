@@ -10,7 +10,17 @@
 
 (2) Whoever assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or a member of the immediate family of any person who formerly served as a person designated in paragraph (1), with intent to retaliate against such person on account of the performance of official duties during the term of service of such person, shall be punished as provided in subsection (b).
 
-(b)(1) An assault in violation of this section shall be punished as provided in section 111 of this title.
+(b)(1) The punishment for an assault in violation of this section is—
+
+&emsp;(A) a fine under this title; and
+
+&emsp;(B)(i) if the assault consists of a simple assault, a term of imprisonment for not more than 1 year;
+
+&emsp;(ii) if the assault involved physical contact with the victim of that assault or the intent to commit another felony, a term of imprisonment for not more than 10 years;
+
+&emsp;(iii) if the assault resulted in bodily injury, a term of imprisonment for not more than 20 years; or
+
+&emsp;(iv) if the assault resulted in serious bodily injury (as that term is defined in section 1365 of this title, and including any conduct that, if the conduct occurred in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242 of this title) or a dangerous weapon was used during and in relation to the offense, a term of imprisonment for not more than 30 years.
 
 (2) A kidnapping, attempted kidnapping, or conspiracy to kidnap in violation of this section shall be punished as provided in section 1201 of this title for the kidnapping or attempted kidnapping of, or a conspiracy to kidnap, a person described in section 1201(a)(5) of this title.
 
@@ -20,7 +30,7 @@
 
 (c) As used in this section, the term—
 
-&emsp;(1) “Federal law enforcement officer” means any officer, agent, or employee of the United States authorized by law or by a Governmentagency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of Federal criminal law;
+&emsp;(1) “Federal law enforcement officer” means any officer, agent, or employee of the United States authorized by law or by a Government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of Federal criminal law;
 
 &emsp;(2) “immediate family member” of an individual means—
 
@@ -34,9 +44,11 @@
 
 (d) This section shall not interfere with the investigative authority of the United States Secret Service, as provided under sections 3056, 871, and 879 of this title.
 
-(Added Pub. L. 98–473, title II, §1008(a), Oct. 12, 1984, 98 Stat. 2140; amended Pub. L. 99–646, §§37(a), 60, Nov. 10, 1986, 100 Stat. 3599, 3613; Pub. L. 100–690, title VI, §6487(f)\[b\], Nov. 18, 1988, 102 Stat. 4386; Pub. L. 101–647, title XXXV, §3508, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §§330016(2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 2148, 2150; Pub. L. 104–132, title VII, §§723(a), 727(b), Apr. 24, 1996, 110 Stat. 1300, 1302; Pub. L. 107–273, div. B, title IV, §4002(b)(9), div. C, title I, §11008(c), Nov. 2, 2002, 116 Stat. 1808, 1818.)
+(Added Pub. L. 98–473, title II, §1008(a), Oct. 12, 1984, 98 Stat. 2140; amended Pub. L. 99–646, §§37(a), 60, Nov. 10, 1986, 100 Stat. 3599, 3613; Pub. L. 100–690, title VI, §6487(f)\[b\], Nov. 18, 1988, 102 Stat. 4386; Pub. L. 101–647, title XXXV, §3508, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §§330016(2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 2148, 2150; Pub. L. 104–132, title VII, §§723(a), 727(b), Apr. 24, 1996, 110 Stat. 1300, 1302; Pub. L. 107–273, div. B, title IV, §4002(b)(9), div. C, title I, §11008(c), Nov. 2, 2002, 116 Stat. 1808, 1818; Pub. L. 110–177, title II, §208(a), Jan. 7, 2008, 121 Stat. 2538.)
 
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–177 added par. (1) and struck out former par. (1) which read as follows: “An assault in violation of this section shall be punished as provided in section 111 of this title.”
 
 2002—Subsec. (b)(2). Pub. L. 107–273, §4002(b)(9), substituted “or attempted kidnapping of, or a conspiracy to kidnap, a person” for “, attempted kidnapping, or conspiracy to kidnap of a person”.
 

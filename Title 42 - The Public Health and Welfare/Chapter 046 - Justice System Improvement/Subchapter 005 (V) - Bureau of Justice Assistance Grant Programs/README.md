@@ -4,7 +4,7 @@
 
 A prior subchapter V, consisting of sections 3761 to 3766, related to discretionary grants, prior to repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
-Section 3761, Pub. L. 90–351, title I, §501, formerly §601, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1195; renumbered §501 and amended Pub. L. 98–473, title II, §608(a), Oct. 12, 1984, 98 Stat. 2086, related to Congressional statement of purpose regarding discretionary grants.
+Section 3761, Pub. L. 90–351, title I, §501, formerly §601, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1195; renumbered §501 and amended Pub. L. 98–473, titleII, §608(a), Oct. 12, 1984, 98 Stat. 2086, related to Congressional statement of purpose regarding discretionary grants.
 
 Section 3762, Pub. L. 90–351, title I, §502, formerly §602, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1195; renumbered §502 and amended Pub. L. 98–473, title II, §608(a), Oct. 12, 1984, 98 Stat. 2086, related to percentage of appropriation for discretionary grant program.
 

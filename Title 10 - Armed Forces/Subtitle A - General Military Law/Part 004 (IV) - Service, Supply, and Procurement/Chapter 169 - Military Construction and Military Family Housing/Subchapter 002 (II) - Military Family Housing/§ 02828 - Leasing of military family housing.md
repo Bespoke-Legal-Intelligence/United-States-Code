@@ -140,7 +140,7 @@ Pub. L. 103–35 substituted “per year” for “per annum”.
 
 Subsec. (e)(2) to (4). Pub. L. 103–160, §2801(b)(3), (4), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-1991—Subsecs. (g), (h). Pub. L. 102–190 redesignated subsec. (h) as (g) and struck out former subsec. (g) which authorized contracts for lease of family housing units on or near military installations at which thereis a validated deficit in family housing. See section 2835 of this title.
+1991—Subsecs. (g), (h). Pub. L. 102–190 redesignated subsec. (h) as (g) and struck out former subsec. (g) which authorized contracts for lease of family housing units on or near military installations at which there is a validated deficit in family housing. See section 2835 of this title.
 
 1989—Subsec. (b)(2). Pub. L. 101–189, §2802(1), substituted “$12,000” for “$10,000”.
 

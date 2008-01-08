@@ -50,7 +50,7 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 &emsp;&emsp;If an election under this paragraph is in effect with respect to any affiliated group—
 
-&emsp;&emsp;&emsp;(i) part II of subchapter B of chapter 6 (relating to certain controlled corporations) shall be applied with respect to themembers of such group without regard to sections 1563(a)(4) and 1563(b)(2)(D), and
+&emsp;&emsp;&emsp;(i) part II of subchapter B of chapter 6 (relating to certain controlled corporations) shall be applied with respect to the members of such group without regard to sections 1563(a)(4) and 1563(b)(2)(D), and
 
 &emsp;&emsp;&emsp;(ii) for purposes of this subsection, a distribution by any member of such group which is subject to tax under section 801 shall not be treated as a qualifying dividend if such distribution is out of earnings and profits for a taxable year for which an election under this paragraph is not effective and for which such distributing corporation was not a component member of a controlled group of corporations within the meaning of section 1563 solely by reason of section 1563(b)(2)(D).
 

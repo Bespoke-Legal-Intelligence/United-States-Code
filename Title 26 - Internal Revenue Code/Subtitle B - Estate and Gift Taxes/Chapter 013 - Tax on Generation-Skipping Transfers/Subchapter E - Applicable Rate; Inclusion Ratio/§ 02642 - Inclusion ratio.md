@@ -214,7 +214,7 @@ Except as provided in regulations—
 
 &emsp;&emsp;(A) if such property is includible in the gross estate of the transferor (other than by reason of section 2035), its value for purposes of chapter 11, or
 
-&emsp;&emsp;(B) if subparagraph (A) does not apply, its value as of the close of the estate tax inclusion period (or, if any allocation of GST exemption to such property is not made on a timely filed gift tax return for the calendar year in which such period ends, its value as of the time such allocation is filed with the Secretary).
+&emsp;&emsp;(B) if subparagraph (A) does not apply, its value as of the close of the estate tax inclusion period (or, if any allocation of GST exemption to such property is not made on atimely filed gift tax return for the calendar year in which such period ends, its value as of the time such allocation is filed with the Secretary).
 
 #### (3) Estate tax inclusion period
 
@@ -264,7 +264,7 @@ Except as provided in regulations—
 
 2001—Subsec. (a)(3). Pub. L. 107–16, §§562(a), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 107–16, §§563(a), 901, temporarily reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filedon or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
+Subsec. (b)(1). Pub. L. 107–16, §§563(a), 901, temporarily reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filed on or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
 
 &emsp;“(A) the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 12, and
 

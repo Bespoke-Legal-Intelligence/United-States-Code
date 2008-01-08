@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each year (beginning with 2006) the Secretary shall compute a national average monthly bid amount equal to the average of the standardized bid amounts (as defined in paragraph (5)) for each prescription drug plan and for each MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title. Such average does not take into account the bids submitted for MSA plans, MA private fee-for-service plan, and specialized MA plans for special needs individuals, PACE programs under section 1395eee of this title (pursuant to section 1395w–131(f) of this title), and under reasonable cost reimbursement contracts under section 1395mm(h) of this title (pursuant to section 1395w–131(e) of this title).
+&emsp;&emsp;For each year (beginning with 2006) the Secretary shall compute a national average monthly bid amount equal to the average of the standardized bid amounts (as defined inparagraph (5)) for each prescription drug plan and for each MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title. Such average does not take into account the bids submitted for MSA plans, MA private fee-for-service plan, and specialized MA plans for special needs individuals, PACE programs under section 1395eee of this title (pursuant to section 1395w–131(f) of this title), and under reasonable cost reimbursement contracts under section 1395mm(h) of this title (pursuant to section 1395w–131(e) of this title).
 
 #### (B) Weighted average
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;&emsp;(ii) for which the basis for eligibility for such entitlement changed between section 426(b) of this title and section 426(a) of this title, between 426(b) <sup>2</sup> of this title and section 426–1 of this title, or between section 426–1 of this title and section 426(a) of this title,
 
-> &emsp;&emsp;shall be a separate continuous period of eligibility with respect to the individual (andeach such period which terminates shall be deemed not to have existed for purposes of subsequently applying this paragraph).
+> &emsp;&emsp;shall be a separate continuous period of eligibility with respect to the individual (and each such period which terminates shall be deemed not to have existed for purposes of subsequently applying this paragraph).
 
 #### (c) Collection of monthly beneficiary premiums
 

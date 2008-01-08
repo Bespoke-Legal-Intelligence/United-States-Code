@@ -58,7 +58,7 @@ Effective date of election.—An election under paragraph (1) is effective as of
 
 (e)
 
-Notice to Spouse of Former Spouse Coverage.—If a married person who is eligible to provide an annuity under the Survivor Benefit Plan elects to provide an annuity under that Plan for a former spouse (or for a former spouse and dependent child) and elects under this section to provide a supplemental spouse annuity for that former spouse, the notification to the person's spouse under section 1448(a)(3)(E) or 1448(b)(3)(D) of this title shall include notice of the election under this section.
+Notice to Spouse of Former Spouse Coverage.—If a married person who is eligible toprovide an annuity under the Survivor Benefit Plan elects to provide an annuity under that Plan for a former spouse (or for a former spouse and dependent child) and elects under this section to provide a supplemental spouse annuity for that former spouse, the notification to the person's spouse under section 1448(a)(3)(E) or 1448(b)(3)(D) of this title shall include notice of the election under this section.
 
 (f)
 

@@ -1,6 +1,6 @@
 ### §3685. Filing of information relating to periodical publications
 
-(a) Each owner of a publication having periodical publication mail privileges shall furnish tothe Postal Service at least once a year, and shall publish in such publication once a year, information in such form and detail and at such time as the Postal Service may require with respect to—
+(a) Each owner of a publication having periodical publication mail privileges shall furnish to the Postal Service at least once a year, and shall publish in such publication once a year, information in such form and detail and at such time as the Postal Service may require with respect to—
 
 &emsp;(1) the identity of the editor, managing editor, publishers, and owners;
 

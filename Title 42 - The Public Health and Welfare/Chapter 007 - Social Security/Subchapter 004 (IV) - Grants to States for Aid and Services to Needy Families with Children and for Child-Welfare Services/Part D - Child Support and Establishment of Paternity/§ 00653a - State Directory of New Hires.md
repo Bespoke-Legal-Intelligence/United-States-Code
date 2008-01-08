@@ -44,7 +44,7 @@
 
 #### (B) Multistate employers
 
-&emsp;&emsp;An employer that has employees who are employed in 2 or more States and that transmits reports magnetically or electronicallymay comply with subparagraph (A) by designating 1 State in which such employer has employees to which the employer will transmit the report described in subparagraph (A), and transmitting such report to such State. Any employer that transmits reports pursuant to this subparagraph shall notify the Secretary in writing as to which State such employer designates for the purpose of sending reports.
+&emsp;&emsp;An employer that has employees who are employed in 2 or more States and that transmits reports magnetically or electronically may comply with subparagraph (A) by designating 1 State in which such employer has employees to which the employer will transmit the report described in subparagraph (A), and transmitting such report to such State. Any employer that transmits reports pursuant to this subparagraph shall notify the Secretary in writing as to which State such employer designates for the purpose of sending reports.
 
 #### (C) Federal Government employers
 

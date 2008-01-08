@@ -10,7 +10,7 @@ The Center established under subsection (a) shall—
 
 &emsp;(1) prioritize its activities based on the “National Plan To Improve Maritime Domain Awareness” published by the Department in October 2005;
 
-&emsp;(2) recognize the extensive previous and ongoing work and existing competence in the field of maritime domain awareness at numerous academic and research institutions, such as the Naval Postgraduate School;
+&emsp;(2) recognize the extensive previous and ongoing work and existing competence in thefield of maritime domain awareness at numerous academic and research institutions, such as the Naval Postgraduate School;
 
 &emsp;(3) leverage existing knowledge and continue development of a broad base of expertise within academia and industry in maritime domain awareness; and
 

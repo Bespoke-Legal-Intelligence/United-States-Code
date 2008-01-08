@@ -290,7 +290,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—The Director of the Office of Management and Budget shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives an annual report regarding the implementation of the website established under this section.
+In general.—The Director of the Office of Management and Budget shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives an annual report regarding the implementation of the website established under this section.
 
 &emsp;“(2)
 

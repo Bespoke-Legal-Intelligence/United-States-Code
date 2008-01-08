@@ -50,7 +50,7 @@ Subsec. (b)(5), (6). Pub. L. 102–486, §1202(c)(2), added pars. (5) and (6) an
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a) and (b) of this section are listed as the 20th item on page 84 and the 19th item on page 86), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a) and (b) of this section are listed as the 20th item on page 84 and the 19th item on page 86), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

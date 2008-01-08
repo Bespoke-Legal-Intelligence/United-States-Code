@@ -78,7 +78,7 @@ Modifications of contracts and subcontracts for commercial items.—In the case 
 
 Noncommercial modifications of commercial items.—(A) The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than $500,000 or 5 percent of the total price of the contract, whichever is greater.
 
-&emsp;(B) In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification of such item that is not a modification described in section 4(12)(C)(i) of the Office of Federal Procurement Policy Act (41 U.S.C. 403 (12)(C)(i)).
+&emsp;(B) In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification of such item that is not a modification described in section 4(12)(C)(i) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(C)(i)).
 
 &emsp;(C) Nothing in subparagraph (A) shall be construed—
 
@@ -408,7 +408,7 @@ Definitions.—In this section:
 
 &emsp;“(1) The term ‘exceptional case exception or waiver’ means either of the following:
 
-&emsp;&emsp;“(A) An exception pursuant to section 2306a (b)(1)(C) of title 10, United States Code, relating to submission of certified cost and pricing data.
+&emsp;&emsp;“(A) An exception pursuant to section 2306a(b)(1)(C) of title 10, United States Code, relating to submission of certified cost and pricing data.
 
 &emsp;&emsp;“(B) A waiver pursuant to section 26(f)(5)(B) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f)(5)(B)), relating to the applicability of cost accounting standards to contracts and subcontracts.
 

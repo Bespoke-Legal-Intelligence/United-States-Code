@@ -68,7 +68,7 @@ Each tech prep program shall—
 
 &emsp;&emsp;(A) meet academic standards developed by the State;
 
-&emsp;&emsp;(B) link secondary schools and 2-year postsecondary institutions, and if possible andpracticable, 4-year institutions of higher education, through—
+&emsp;&emsp;(B) link secondary schools and 2-year postsecondary institutions, and if possible and practicable, 4-year institutions of higher education, through—
 
 &emsp;&emsp;&emsp;(i) nonduplicative sequences of courses in career fields;
 

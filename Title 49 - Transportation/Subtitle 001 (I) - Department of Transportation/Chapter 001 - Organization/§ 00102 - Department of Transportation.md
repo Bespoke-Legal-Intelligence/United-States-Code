@@ -34,9 +34,25 @@ Responsibility of secretary.—In carrying out this title, the Secretary shall b
 
 Preservation of united states responsibility.—Nothing in this title shall absolve the United States from any responsibility to Indians and Indian tribes, including responsibilities derived from the trust relationship and any treaty, executive order, or agreement between the United States and an Indian tribe.
 
-(g) The Department shall have a seal that shall be judicially recognized.
+(g)
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–557, §26(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 103–272, §4(j)(1), July 5, 1994, 108 Stat. 1365; Pub. L. 107–295, title II, §215(a), (c), Nov. 25, 2002, 116 Stat. 2101, 2102; Pub. L. 109–59, title I, §1119(<i>l</i>), Aug. 10, 2005, 119 Stat. 1189.)
+Office of Climate Change and Environment.—
+
+&emsp;(1)
+
+Establishment.—There is established in the Department an Office of Climate Change and Environment to plan, coordinate, and implement—
+
+&emsp;&emsp;(A) department-wide research, strategies, and actions under the Department's statutory authority to reduce transportation-related energy use and mitigate the effects of climate change; and
+
+&emsp;&emsp;(B) department-wide research strategies and actions to address the impacts of climate change on transportation systems and infrastructure.
+
+&emsp;(2)
+
+Clearinghouse.—The Office shall establish a clearinghouse of solutions, including cost-effective congestion reduction approaches, to reduce air pollution and transportation-related energy use and mitigate the effects of climate change.
+
+(h) The Department shall have a seal that shall be judicially recognized.
+
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–557, §26(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 103–272, §4(j)(1), July 5, 1994, 108 Stat. 1365; Pub. L. 107–295, title II, §215(a), (c), Nov. 25, 2002, 116 Stat. 2101, 2102; Pub. L. 109–59, title I, §1119(<i>l</i>), Aug. 10, 2005, 119 Stat. 1189; Pub. L. 110–140, title XI, §1101(a), Dec. 19, 2007, 121 Stat. 1756.)
 
 Historical and Revision Notes
 
@@ -80,11 +96,13 @@ In subsection (b), the words “(hereafter referred to in this chapter as the �
 
 In subsection (c), the words “carry out duties and powers” and “acts for” are substituted for “act for and exercise the powers of” and “perform such functions, powers, and duties”, respectively, for consistency and to eliminate surplus words. The words “unable to serve” are substituted for “disability” for consistency and clarity.
 
-In subsection (d), the words “in the competitive service” are substituted for “under the classified civil service” to conform to 5:2102. The words “from time totime” are omitted as surplus. The words “acts for” are substituted for “act for, and exercise the powers of” for consistency and to eliminate surplus words. The words “when the Secretary and the Deputy Secretary are absent or unable to serve, or when the offices of Secretary and Deputy Secretary are vacant” are substituted for “during the absence or disability of the Deputy Secretary, or in the event of a vacancy in the office of a Deputy Secretary” as being more precise and for consistency.
+In subsection (d), the words “in the competitive service” are substituted for “under the classified civil service” to conform to 5:2102. The words “from time to time” are omitted as surplus. The words “acts for” are substituted for “act for, and exercise the powers of” for consistency and to eliminate surplus words. The words “when the Secretary and the Deputy Secretary are absent or unable to serve, or when the offices of Secretary and Deputy Secretary are vacant” are substituted for “during the absence or disability of the Deputy Secretary, or in the event of a vacancy in the office of a Deputy Secretary” as being more precise and for consistency.
 
 In subsection (e), the words “The Secretary shall cause a . . . of office” and “of such device” are omitted as unnecessary because of the restatement. The words “as he shall approve” are omitted as unnecessary because subsection (b) of the section establishes the Secretary of Transportation as the head of the Department of Transportation.
 
 #### Amendments
+
+2007—Subsecs. (g), (h). Pub. L. 110–140 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 2005—Subsecs. (f), (g). Pub. L. 109–59, which directed amendment of this section by adding subsec. (f) and redesignating former subsecs. (f) and (g) as (g) and (h), respectively, was executed by adding subsec. (f) and redesignating former subsec. (f) as (g), to reflect the probable intent of Congress. See 2002 Amendment note below.
 
@@ -100,9 +118,17 @@ Pub. L. 107–295, §215(a)(1), redesignated subsec. (d) as (g).
 
 1984—Subsecs. (d), (e). Pub. L. 98–557 added subsec. (d) and redesignated former subsec. (d), relating to Assistant Secretaries and General Counsel, as (e).
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–295, title II, §215(c), Nov. 25, 2002, 116 Stat. 2102, provided that the amendment to this section made by section 215(c) is effective on the date that an individual is appointed to the position of Under Secretary of Transportation for Policy under subsection (d) of this section. On Mar. 19, 2003, the United States Senate confirmed the appointment of the first Under Secretary of Transportation for Policy.
+
+#### Coordination
+
+Pub. L. 110–140, title XI, §1101(b), Dec. 19, 2007, 121 Stat. 1756, provided that: “The Office of Climate Change and Environment of the Department of Transportation shall coordinate its activities with the United States Global Change Research Program.”
 
 #### Notice
 
@@ -110,21 +136,21 @@ Pub. L. 109–59, title V, §5510, Aug. 10, 2005, 119 Stat. 1828, provided that:
 
 “(a)
 
-Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations, Transportation and Infrastructure, and Science of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, notice of that action shall be concurrently provided to the Committee of Transportation and Infrastructure and the Committee on Science of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations, Transportation and Infrastructure, and Science \[now Science and Technology\] of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, notice of that action shall be concurrently provided to the Committee of Transportation and Infrastructure and the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 “(b)
 
-Notice of Reorganization.—On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department \[of Transportation\] for which funds are authorized by this title or the amendments made by this title, the Secretary \[of Transportation\] shall provide notice of the reorganization to the Committees on Transportation and Infrastructure and Science of the House of Representatives and the Committee on Environment and Public Works of the Senate.”
+Notice of Reorganization.—On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department \[of Transportation\] for which funds are authorized by this title or the amendments made by this title, the Secretary \[of Transportation\] shall provide notice of the reorganization to the Committees on Transportation and Infrastructure and Science \[now Science and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.”
 
 Pub. L. 105–178, title V, §5003, June 9, 1998, 112 Stat. 422, provided that:
 
 “(a)
 
-Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committee on Transportation and Infrastructure and the Committee on Science of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 “(b)
 
-Notice of Reorganization.—On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department of Transportation for which funds are authorized by this title or the amendments made by this title, the Secretary shall provide notice of such reorganization to the Committee on Transportation and Infrastructure and the Committee on Science of the House of Representatives and the Committee on Environment and Public Works of the Senate.”
+Notice of Reorganization.—On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department of Transportation for which funds are authorized by this title or the amendments made by this title, the Secretary shall provide notice of such reorganization to the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate.”
 
 #### Surface Transportation Administration
 

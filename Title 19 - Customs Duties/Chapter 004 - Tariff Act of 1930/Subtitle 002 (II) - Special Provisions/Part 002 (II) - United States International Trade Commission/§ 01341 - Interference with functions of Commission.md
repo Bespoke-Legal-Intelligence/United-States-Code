@@ -10,7 +10,7 @@ Any person who violates any of the provisions of this section shall, upon convic
 
 #### (c) “Person” defined
 
-As used in this section the term “person” includes an individual, corporation, association, partnership, or any other organization or group of individuals.
+As used in this section the term “person” includes an individual, corporation, association,partnership, or any other organization or group of individuals.
 
 (June 17, 1930, ch. 497, title III, §341, 46 Stat. 707.)
 

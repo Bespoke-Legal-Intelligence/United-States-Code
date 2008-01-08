@@ -1,4 +1,0 @@
-### §9852a. Repealed. Pub. L. 105–285, title I, §118, Oct. 27, 1998, 112 Stat. 2727
-
-Section, Pub. L. 97–35, title VI, §657A, as added Pub. L. 103–252, title I, §123, May 18, 1994, 108 Stat. 650, related to consultation with Corporation for National and Community Service.
-

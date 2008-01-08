@@ -30,25 +30,19 @@
 
 #### (b) Calculation basis
 
-Account maintenance fees payable to guaranty agencies under subsection (a)(3) shall be calculated on the basis of 0.10 percent of the original principal amount of outstanding loans on which insurance was issued under part B.
+Account maintenance fees payable to guaranty agencies under subsection (a)(3) shall be calculated on the basis of 0.06 percent of the original principal amount of outstanding loans on which insurance was issued under part B.
 
 #### (c) Budget justification
 
 No funds may be expended under this section unless the Secretary includes in the Department of Education's annual budget justification to Congress a detailed description of the specific activities for which the funds made available by this section have been used in the prior and current years (if applicable), the activities and costs planned for the budget year, and the projection of activities and costs for each remaining year for which administrative expenses under this section are made available.
 
-(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(<i>l</i>), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, §8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, §5, Sept. 30, 2006, 120 Stat. 1341.)
-
-#### Prior Provisions
-
-Prior sections 1087i and 1087j were omitted in the general revision of this part by Pub. L. 103–66.
-
-Section 1087i, Pub. L. 89–329, title IV, §459, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 575, related to schedule of regulatory activities by Secretary under Federal direct loan demonstration program.
-
-Section 1087j, Pub. L. 89–329, title IV, §459A, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 575, related to funds for administrative expenses under Federal direct loan demonstration program.
+(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(<i>l</i>), Nov. 13, 1997, 111 Stat.1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, §8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, §5, Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–84, title III, §306, Sept. 27, 2007, 121 Stat. 800.)
 
 #### Amendments
 
-2006—Pub. L. 109–171 reenacted section catchline without change and amended text generally. Prior toamendment, text consisted of subsecs. (a) to (d) relating to administrative expenses, calculation basis for account maintenance fees payable to guaranty agencies, special rules relating to caps on account maintenance fees and insufficient funding, and budget justification for funds expended, respectively.
+2007—Subsec. (b). Pub. L. 110–84 substituted “0.06 percent” for “0.10 percent”.
+
+2006—Pub. L. 109–171 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to administrative expenses, calculation basis for account maintenance fees payable to guaranty agencies, special rules relating to caps on account maintenance fees and insufficient funding, and budget justification for funds expended, respectively.
 
 Subsec. (b). Pub. L. 109–292 substituted “shall be calculated on” for “shall not exceed”.
 
@@ -69,6 +63,10 @@ Subsec. (a)(1). Pub. L. 105–78 substituted “$507,000,000” for “$532,000,
 1995—Subsec. (a). Pub. L. 104–19 substituted “$284,000,000 in fiscal year 1995” for “$345,000,000 in fiscal year 1995” and “$2,439,000,000 in fiscal years 1994 through 1998” for “$2,500,000,000 in fiscal years 1994 through 1998”.
 
 1993—Pub. L. 103–66 amended section generally, substituting provisions relating to funds for administrative expenses for former provisions relating to reports.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as a note under section 1070a of this title.
 
 #### Effective Date of 2006 Amendment
 

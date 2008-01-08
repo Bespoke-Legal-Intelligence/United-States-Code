@@ -8,13 +8,13 @@
 
 &emsp;&emsp;(i) in the case of a student at an eligible institution who has not successfully completed the first year of a program of undergraduate education—
 
-&emsp;&emsp;&emsp;(I) $2,625, if such student is enrolled in a program whose length is at least one academic year in length (as determined under section 1088 of this title); and
+&emsp;&emsp;&emsp;(I) $3,500, if such student is enrolled in a program whose length is at least one academic year in length (as determined under section 1088 of this title); and
 
 &emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
 &emsp;&emsp;(ii) in the case of a student at an eligible institution who has successfully completed such first year but has not successfully completed the remainder of a program of undergraduate education—
 
-&emsp;&emsp;&emsp;(I) $3,500; or
+&emsp;&emsp;&emsp;(I) $4,500; or
 
 &emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education, the remainder of which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as such remainder measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
@@ -28,7 +28,7 @@
 
 &emsp;(B) The annual insurable limits contained in subparagraph (A) shall not apply in cases where the Secretary determines, pursuant to regulations, that a higher amount is warranted in order to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education. The annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any year in excess of the annual limit.
 
-&emsp;(C) For the purpose of subparagraph (A), the number of years that a student has completed in a program of undergraduate education shall include any prior enrollment in an eligible program of undergraduate education for which the student was awarded an associate or baccalaureate degree, if such degree is required by the institution for admission to the program in which the student is enrolled.
+&emsp;(C) For the purpose of subparagraph (A), the number of years that a student has completedin a program of undergraduate education shall include any prior enrollment in an eligible program of undergraduate education for which the student was awarded an associate or baccalaureate degree, if such degree is required by the institution for admission to the program in which the student is enrolled.
 
 #### (2) Aggregate limits
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(ii) $65,500, in the case of any graduate or professional student (as defined by regulations of the Secretary) and (I) including any loans which are insured by the Secretary under this section, or by a guaranty agency, made to such student before the student became a graduate or professional student),<sup>2</sup> but (II) excluding loans made under section 1078–1 <sup>1</sup> or 1078–2 of this title,
 
-> &emsp;except that the Secretary may increase the limit applicable to students who are pursuingprograms which the Secretary determines are exceptionally expensive.
+> &emsp;except that the Secretary may increase the limit applicable to students who are pursuing programs which the Secretary determines are exceptionally expensive.
 
 &emsp;(B) The Secretary may increase the aggregate insurable limit applicable to students who are pursuing programs which the Secretary determines are exceptionally expensive.
 
@@ -82,14 +82,6 @@
 
 (Pub. L. 89–329, title IV, §425, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1359; amended Pub. L. 100–50, §10(a), June 3, 1987, 101 Stat. 341; Pub. L. 102–325, title IV, §413, July 23, 1992, 106 Stat. 512; Pub. L. 103–208, §2(c)(2), (3), Dec. 20, 1993, 107 Stat. 2460, 2461; Pub. L. 105–244, title IV, §415, Oct. 7, 1998, 112 Stat. 1679; Pub. L. 109–171, title VIII, §8005(a), Feb. 8, 2006, 120 Stat. 158.)
 
-#### Amendment of Subsection (a)(1)(A)
-
-<i>Pub. L. 109–171, title VIII, §8005(a), (e), Feb. 8, 2006, 120 Stat. 158, 159, provided that, effective July 1, 2007, subsection (a)(1)(A) of this section is amended:</i>
-
-<i>(1) in clause (i)(I), by substituting “$3,500” for “$2,625”; and</i>
-
-<i>(2) in clause (ii)(I), by substituting “$4,500” for “$3,500”.</i>
-
 #### References in Text
 
 Section 1078–1 of this title, referred to in subsec. (a)(2)(A), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
@@ -99,6 +91,10 @@ Section 1078–1 of this title, referred to in subsec. (a)(2)(A), was repealed b
 A prior section 1075, Pub. L. 89–329, title IV, §425, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 90–575, title I, §§116(b)(1), 120(a)(2), Oct. 16, 1968, 82 Stat. 1023, 1027; Pub. L. 92–318, title I, §§132A(a), 132B(a), June 23, 1972, 86 Stat. 261, 262; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2104; Pub. L. 95–43, §1(a)(15)–(17), June 15, 1977, 91 Stat. 214; Pub. L. 95–566, §5(b)(2), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §412(a), (b), (f), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1416, 1417, 1503; Pub. L. 97–35, title V, §535(a), (b), Aug. 13, 1981, 95 Stat. 455; Pub. L. 99–272, title XVI, §16013(e)(1), Apr. 7, 1986, 100 Stat. 341, limited Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2006—Subsec. (a)(1)(A)(i)(I). Pub. L. 109–171, §8005(a)(1), substituted “$3,500” for “$2,625”.
+
+Subsec. (a)(1)(A)(ii)(I). Pub. L. 109–171, §8005(a)(2), substituted “$4,500” for “$3,500”.
 
 1998—Subsec. (a)(1)(A)(i)(I). Pub. L. 105–244, §415(1)(A), inserted “and” after semicolon.
 

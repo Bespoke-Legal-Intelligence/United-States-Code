@@ -98,7 +98,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;An employee shall not be eligible for continued student loan payments under a service agreement under this section and (except in a case in which an employee's duty is terminated under paragraph (2) or an employing office assumes responsibilities under paragraph (3)) shall reimburse the Senate for the amount of all student loan payments made on behalf of the employee under the agreement, if, before the employee completes the required period of employment specified in the agreement—
+&emsp;An employee shall not be eligible for continued student loan payments under a serviceagreement under this section and (except in a case in which an employee's duty is terminated under paragraph (2) or an employing office assumes responsibilities under paragraph (3)) shall reimburse the Senate for the amount of all student loan payments made on behalf of the employee under the agreement, if, before the employee completes the required period of employment specified in the agreement—
 
 &emsp;&emsp;(A) the employee voluntarily separates from service with the employing office;
 
@@ -148,7 +148,7 @@ In this section:
 
 #### (2) Confidentiality
 
-&emsp;Such report shall not include any information which is considered confidential or coulddisclose the identity of individual employees or employing offices. Information required to be contained in the report of the Secretary under section 104a of this title shall not be considered to be personal information for purposes of this paragraph.
+&emsp;Such report shall not include any information which is considered confidential or could disclose the identity of individual employees or employing offices. Information required to be contained in the report of the Secretary under section 104a of this title shall not be considered to be personal information for purposes of this paragraph.
 
 #### (f) Other administrative matters
 
@@ -226,7 +226,7 @@ In this section:
 
 &emsp;&emsp;(A) the maximum amount for that employing office for that fiscal year; or
 
-&emsp;&emsp;(B) if the total amount is not sufficient to provide the maximum amount to each employing office, an amount that bears the same relationship to the total amount as the maximum amount for that employing office for that fiscal year bears to the total of themaximum amounts for all employing offices for that fiscal year.
+&emsp;&emsp;(B) if the total amount is not sufficient to provide the maximum amount to each employing office, an amount that bears the same relationship to the total amount as the maximum amount for that employing office for that fiscal year bears to the total of the maximum amounts for all employing offices for that fiscal year.
 
 #### (3) Apportionment
 
@@ -256,7 +256,7 @@ This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
 The Higher Education Act of 1965, referred to in subsec. (a)(5)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(5)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(5)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare.Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Section 60c–2a(c) of this title, referred to in subsec. (d)(4)(A), was in the original “section 104(c) of the Legislative Appropriation Act, 1977”, and was translated as reading “section 104(c) of the Legislative Branch Appropriation Act, 1977”, to reflect the probable intent of Congress.
 

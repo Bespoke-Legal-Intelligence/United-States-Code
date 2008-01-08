@@ -40,7 +40,7 @@ In this subchapter:
 
 #### (6) National plan
 
-&emsp;The term “national plan” means a national strategic investment plan of the National Board developed under section 2009dd–3(d)(3) of this title.
+&emsp;The term “national plan” means a national strategic investment plan of the NationalBoard developed under section 2009dd–3(d)(3) of this title.
 
 #### (7) Planning grant
 

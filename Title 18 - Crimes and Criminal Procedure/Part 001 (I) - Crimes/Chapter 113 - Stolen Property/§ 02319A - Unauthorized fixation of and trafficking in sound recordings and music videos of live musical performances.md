@@ -48,7 +48,7 @@ Applicability.—This section shall apply to any Act or Acts that occur on or af
 
 #### References in Text
 
-The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (c) and (f), isthe date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (c) and (f), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
 

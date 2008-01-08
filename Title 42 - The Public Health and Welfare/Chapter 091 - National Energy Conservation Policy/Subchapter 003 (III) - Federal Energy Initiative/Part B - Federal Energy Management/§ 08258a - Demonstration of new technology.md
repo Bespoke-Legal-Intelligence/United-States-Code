@@ -24,7 +24,7 @@ In addition to the determination under subsection (a) of this section, the Secre
 
 #### (c) Proposals
 
-Federal agencies may submit to the Secretary, for each fiscal year, proposals for projects to befunded by the Secretary under this section. Each such proposal shall include—
+Federal agencies may submit to the Secretary, for each fiscal year, proposals for projects to be funded by the Secretary under this section. Each such proposal shall include—
 
 &emsp;(1) a description of the proposed project emphasizing the innovative use of technology in the Federal sector;
 

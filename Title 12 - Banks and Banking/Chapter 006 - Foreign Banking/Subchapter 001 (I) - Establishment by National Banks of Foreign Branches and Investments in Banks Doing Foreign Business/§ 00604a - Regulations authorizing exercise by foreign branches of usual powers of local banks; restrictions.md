@@ -10,5 +10,5 @@ This subchapter, referred to in text, was in the original “this section”, me
 
 #### Codification
 
-Section is comprised of a part of section 25 of act Dec. 23, 1913, as amended, which comprises this subchapter.
+Section is comprised of the seventh undesignated par. of section 25 of act Dec. 23, 1913, which comprises this subchapter. For classification of other pars. of section 25 of this Act, see Codification note under section 601 of this title.
 

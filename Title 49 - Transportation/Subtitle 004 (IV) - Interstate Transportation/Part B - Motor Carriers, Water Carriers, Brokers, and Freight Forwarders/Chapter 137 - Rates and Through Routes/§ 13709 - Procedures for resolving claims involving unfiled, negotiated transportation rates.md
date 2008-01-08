@@ -118,7 +118,7 @@ Subchapter II of chapter 105, referred to in subsec. (a)(1), was omitted in the 
 
 Chapter 119, referred to in subsec. (a)(3), was omitted and a new chapter 119 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 849, effective Jan. 1, 1996.
 
-The Small Business Act, referred to in subsec. (h)(1)(A), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see ShortTitle note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (h)(1)(A), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see ShortTitle note set out under section 631 of Title 15 and Tables.
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (h)(1)(B), is classified to section 501 of Title 26, Internal Revenue Code.
 

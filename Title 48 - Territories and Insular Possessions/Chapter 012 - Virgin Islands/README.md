@@ -120,7 +120,7 @@ Sec. 2. \[Constitutional conventions and draft provisions\] (a) The Legislatures
 
 “
 
-Sec. 3. \[Selection and qualification of members\] The members of such constitutional conventions shall be chosen as provided by the laws of the Virgin Islands and Guam, respectively (enacted after the date of enactment of this Act \[Oct. 21, 1976\]): <i>Provided, however</i>, That no person shall be eligible to be a member of the constitutional conventions, unless he is a citizen of the United States and qualified to vote in the Virgin Islands and Guam, respectively.
+Sec. 3. \[Selection and qualification of members\] The members of such constitutional conventions shall bechosen as provided by the laws of the Virgin Islands and Guam, respectively (enacted after the date of enactment of this Act \[Oct. 21, 1976\]): <i>Provided, however</i>, That no person shall be eligible to be a member of the constitutional conventions, unless he is a citizen of the United States and qualified to vote in the Virgin Islands and Guam, respectively.
 
 “
 

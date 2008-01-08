@@ -30,9 +30,9 @@
 
 &emsp;(B) his existing rate of basic pay, if that rate is the higher.
 
-> If an employee's rate after promotion or transfer is greater than the maximum rate of basic pay for the employee's grade, that rate shall be treated as a retained rate under section 5363. The Office of Personnel Management shall prescribe by regulation the circumstances under which and the extent to which special rates under section 5305 (or similar provision of law) or locality-adjusted rates under section 5304 (or similar provision of law) are considered to be basic pay in applying this subsection.
+> If an employee's rate after promotion or transfer is greater than the maximum rate of basic pay for the employee's grade, that rate shall be treated as a retained rate under section 5363. The Office of Personnel Management shall prescribe by regulation the circumstances under which and the extent to which special rates under section 5305 (or similar provision of law) or locality-adjusted rates under section 5304 (orsimilar provision of law) are considered to be basic pay in applying this subsection.
 
-(c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Chief Administrative Officer of the House ofRepresentatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointment to a position to which this subchapter applies, have his initial rate of pay fixed—
+(c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointment to a position to which this subchapter applies, have his initial rate of pay fixed—
 
 &emsp;(1) at the minimum rate of the appropriate grade; or
 
@@ -104,7 +104,7 @@ July 17, 1959, Pub. L. 86–91. §9, 73 Stat. 216.
 
 In subsection (b), the words “under any provision of law” are omitted from the second sentence as unnecessary.
 
-In subsection (e), the words “as defined by section 901 of title 20” are added on authority of former section 2351, which section is scheduled for transfer to section 901 of title 20.
+In subsection (e), the words “as defined by section 901 of title 20” are added on authority of former section2351, which section is scheduled for transfer to section 901 of title 20.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1978 Amendment
 
-Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(f) of Pub. L. 95–454 was effective onfirst day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(f) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 801(a)(2), (3)(F), (G) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 

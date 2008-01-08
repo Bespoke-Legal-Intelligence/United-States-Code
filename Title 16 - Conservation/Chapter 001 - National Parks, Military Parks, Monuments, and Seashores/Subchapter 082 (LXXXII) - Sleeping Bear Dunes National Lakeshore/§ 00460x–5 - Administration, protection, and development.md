@@ -2,7 +2,7 @@
 
 #### (a) Applicability of provisions; utilization of statutory authorities
 
-The administration, protection, and development of the lakeshore shall be exercised by theSecretary, subject to the provisions of this subchapter and of sections 1, 2, 3, and 4 of this title, as amended and supplemented, relating to the areas administered and supervised by the Secretary through the National Park Service; except that authority otherwise available to the Secretary for the conservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of this subchapter.
+The administration, protection, and development of the lakeshore shall be exercised by the Secretary, subject to the provisions of this subchapter and of sections 1, 2, 3, and 4 of this title, as amended and supplemented, relating to the areas administered and supervised by the Secretary through the National Park Service; except that authority otherwise available to the Secretary for the conservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of this subchapter.
 
 #### (b) Land and water use management plan; preparation and implementation by Secretary; required provisions
 
@@ -20,7 +20,7 @@ Within four years from October 21, 1970, the Secretary of the Interior shall rev
 
 #### (d) Public use areas; preservation of rights of owner or occupant of improved property located within public use area
 
-In developing the lakeshore the Secretary shall provide public use areas in such places and manner as he determines will not diminish the value or enjoyment for the owner or occupant of any improved property located thereon.
+In developing the lakeshore the Secretary shall provide public use areas in such places andmanner as he determines will not diminish the value or enjoyment for the owner or occupant of any improved property located thereon.
 
 (Pub. L. 91–479, §6, Oct. 21, 1970, 84 Stat. 1077.)
 

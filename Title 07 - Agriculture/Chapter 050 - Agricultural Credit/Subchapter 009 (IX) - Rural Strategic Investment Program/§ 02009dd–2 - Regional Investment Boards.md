@@ -76,7 +76,7 @@ The National Board may certify a group representing the interests described in s
 
 &emsp;&emsp;(C) implement the approved regional plan;
 
-&emsp;&emsp;(D) provide annual reports to the Secretary and the National Board on progress made in achieving the benchmarks of the regional plan, including an annual financial statement; and
+&emsp;&emsp;(D) provide annual reports to the Secretary and the National Board on progressmade in achieving the benchmarks of the regional plan, including an annual financial statement; and
 
 &emsp;&emsp;(E) select a non-Federal organization (such as a regional development organization) in the local area served by the Regional Board that has previous experience in the management of Federal funds to serve as fiscal manager of any funds of the Regional Board.
 

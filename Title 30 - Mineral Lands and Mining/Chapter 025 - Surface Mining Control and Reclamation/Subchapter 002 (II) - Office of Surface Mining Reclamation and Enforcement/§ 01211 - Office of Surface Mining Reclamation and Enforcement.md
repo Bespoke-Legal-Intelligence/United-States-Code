@@ -50,7 +50,7 @@ No employee of the Office or any other Federal employee performing any function 
 
 #### (g) Petition for issuance, amendment, or repeal of rule; filing; hearing or investigation; notice of denial
 
-(1) After the Secretary has adopted the regulations required by section 1251 of this title, any person may petition the Director to initiate a proceeding for the issuance, amendment, or repeal of a rule under this chapter.
+(1) After the Secretary has adopted the regulations required by section 1251 of this title, any person may petition the Director to initiate aproceeding for the issuance, amendment, or repeal of a rule under this chapter.
 
 (2) Such petitions shall be filed in the principal office of the Director and shall set forth the facts which it is claimed established that it is necessary to issue, amend, or repeal a rule under this chapter.
 
@@ -91,6 +91,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That notwithstanding any other provisions of law, appropriations for the Office of Surface Mining Reclamation and Enforcement may, hereafter, provide for the travel and per diem expenses of State and tribal personnel attending OSMRE sponsored training”.
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2109.
 
 Pub. L. 109–54, title I, Aug. 2, 2005, 119 Stat. 512.
 

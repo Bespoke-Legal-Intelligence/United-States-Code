@@ -46,13 +46,15 @@ Pub. L. 101–193, title VI, §603, Nov. 30, 1989, 103 Stat. 1710, provided that
 
 #### Undercover Investigative Operations Conducted by Federal Bureau of Investigation or Drug Enforcement Administration; Annual Report to Congress; Financial Audit
 
-Pub. L. 109–162, title XI, §1151(c), Jan. 5, 2006, 119 Stat. 3112, provided that: “Section 102(b) of the Department of Justice and Related Agencies Appropriations Act, 1993 \[Pub. L. 102–395, set out below\], as in effect pursuant to section 815(d) of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, set out below\] shall apply with respect to the Bureau of Alcohol, Tobacco, Firearms, and Explosives and the undercover investigative operations of the Bureau on the same basis as such section applies with respect to any other agency and the undercover investigative operations of such agency.”
+Pub. L. 110–161, div. B, title II, §207, Dec. 26, 2007, 121 Stat. 1913, provided that: “Notwithstanding any other provision of law, Public Law 102–395 section 102(b) \[set out below\] shall extend to the Bureau of Alcohol, Tobacco, Firearms and Explosives in the conduct of undercover investigative operations and shall apply without fiscal year limitation with respect to any undercover investigative operation initiated by the Bureau of Alcohol, Tobacco, Firearms and Explosives that is necessary for the detection and prosecution of crimes against the United States.”
 
-Pub. L. 109–108, title I, §107, Nov. 22, 2005, 119 Stat. 2304, provided that: “Notwithstanding any other provision of law, Public Law 102–395 section 102(b) \[set out below\] shall extend to the Bureau of Alcohol, Tobacco, Firearms and Explosives in the conduct of undercover investigative operations and shall apply without fiscal year limitation with respect to any undercover investigative operation initiated by the Bureau of Alcohol, Tobacco, Firearms and Explosives that is necessary for the detection and prosecution of crimes against the United States.”
+Similar provisions were contained in the following prior appropriation acts:
 
-Similar Provisions were contained in the following prior appropriation act:
+Pub. L. 109–108, title I, §107, Nov. 22, 2005, 119 Stat. 2304.
 
 Pub. L. 108–447, div. B, title I, §116, Dec. 8, 2004, 118 Stat. 2870.
+
+Pub. L. 109–162, title XI, §1151(c), Jan. 5, 2006, 119 Stat. 3112, provided that: “Section 102(b) of the Department of Justice and Related Agencies Appropriations Act, 1993 \[Pub. L. 102–395, set out below\], as in effect pursuant to section 815(d) of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, set out below\] shall apply with respect to the Bureau of Alcohol, Tobacco, Firearms, and Explosives and the undercover investigative operations of the Bureau on the same basis as such section applies with respect to any other agency and the undercover investigative operations of such agency.”
 
 Pub. L. 104–132, title VIII, §815(d), Apr. 24, 1996, 110 Stat. 1315, provided that: “Notwithstanding any other provision of law, section 102(b) of the Department of Justice and Related Agencies Appropriations Act, 1993 (Public Law 102–395) \[Pub. L. 102–395, set out below\], shall remain in effect until specifically repealed, subject to any limitation on appropriations contained in any Department of Justice Appropriation Authorization Act.”
 
@@ -94,7 +96,7 @@ Pub. L. 102–395, title I, §102(b), Oct. 6, 1992, 106 Stat. 1838, as amended b
 
 &emsp;“(ii) the number, by programs, of undercover investigative operations commenced in the one-year period preceding the period for which such report is submitted, and
 
-&emsp;“(iii) the number, by programs, of undercover investigative operations closed in the one-year period preceding the period for which such report is submitted and, with respect to each such closed undercover operation, the results obtained. With respect to each such closed undercover operation which involves anyof the sensitive circumstances specified in the Attorney General's Guidelines on Federal Bureau of Investigation Undercover Operations, such report shall contain a detailed description of the operation and related matters, including information pertaining to—
+&emsp;“(iii) the number, by programs, of undercover investigative operations closed in the one-year period preceding the period for which such report is submitted and, with respect to each such closed undercover operation, the results obtained. With respect to each such closed undercover operation which involves any of the sensitive circumstances specified in the Attorney General's Guidelines on Federal Bureau of Investigation Undercover Operations, such report shall contain a detailed description of the operation and related matters, including information pertaining to—
 
 &emsp;&emsp;“(I) the results,
 

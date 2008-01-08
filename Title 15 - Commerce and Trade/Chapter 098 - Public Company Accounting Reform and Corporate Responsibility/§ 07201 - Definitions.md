@@ -44,7 +44,7 @@ In this Act, the following definitions shall apply:
 
 #### (8) Non-audit services
 
-&emsp;The term “non-audit services” means any professional services provided to an issuer by a registered public accounting firm, other than those provided to an issuer in connection with an audit or a review of the financial statements of an issuer.
+&emsp;The term “non-audit services” means any professional services provided to an issuer bya registered public accounting firm, other than those provided to an issuer in connection with an audit or a review of the financial statements of an issuer.
 
 #### (9) Person associated with a public accounting firm
 
@@ -98,7 +98,7 @@ In this Act, the following definitions shall apply:
 
 #### (15) Securities laws
 
-&emsp;The term “securities laws” means the provisions of law referred to in section 78c(a)(47) ofthis title and includes the rules, regulations, and orders issued by the Commission thereunder.
+&emsp;The term “securities laws” means the provisions of law referred to in section 78c(a)(47) of this title and includes the rules, regulations, and orders issued by the Commission thereunder.
 
 #### (16) State
 

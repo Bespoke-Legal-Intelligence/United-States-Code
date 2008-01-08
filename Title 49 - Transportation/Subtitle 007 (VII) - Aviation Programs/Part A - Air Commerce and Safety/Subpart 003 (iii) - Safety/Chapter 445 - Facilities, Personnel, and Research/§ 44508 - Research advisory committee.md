@@ -4,7 +4,7 @@
 
 Establishment and Duties.—(1) There is a research advisory committee in the Federal Aviation Administration. The committee shall—
 
-&emsp;(A) provide advice and recommendations to the Administrator of the Federal Aviation Administration about needs, objectives, plans, approaches, content, and accomplishments of the aviation research program carried out under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title;
+&emsp;(A) provide advice and recommendations to the Administrator of the Federal Aviation Administration about needs, objectives, plans, approaches, content, and accomplishments of the aviation research program carried outunder sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title;
 
 &emsp;(B) assist in ensuring that the research is coordinated with similar research being conducted outside the Administration;
 

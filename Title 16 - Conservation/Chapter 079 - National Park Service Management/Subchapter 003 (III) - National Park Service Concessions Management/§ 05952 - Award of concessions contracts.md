@@ -40,7 +40,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;&emsp;(iii) Measures necessary to ensure the protection, conservation, and preservation of resources of the unit of the National Park System.
 
-&emsp;(B) The Secretary shall reject any proposal, regardless of the franchise fee offered, if the Secretary determines that the person, corporation, or entity is not qualified, is not likely to provide satisfactory service, or that the proposal is not responsive to the objectives of protecting and preserving resources of the unit of the National Park System and of providing necessary and appropriate facilities and services to the public at reasonable rates.
+&emsp;(B) The Secretary shall reject any proposal, regardless of the franchise fee offered, if the Secretary determines that the person, corporation, or entity is not qualified, is not likely to provide satisfactory service, or that the proposal is not responsive to the objectives ofprotecting and preserving resources of the unit of the National Park System and of providing necessary and appropriate facilities and services to the public at reasonable rates.
 
 &emsp;(C) If all proposals submitted to the Secretary either fail to meet the minimum requirements or are rejected by the Secretary, the Secretary shall establish new minimum contract requirements and re-initiate the competitive selection process pursuant to this section.
 
@@ -86,7 +86,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;(B) For the purposes of this subchapter, an “outfitting and guide concessions contract” means a concessions contract which solely authorizes the provision of specialized backcountry outdoor recreation guide services which require the employment of specially trained and experienced guides to accompany park visitors in the backcountry so as to provide a safe and enjoyable experience for visitors who otherwise may not have the skills and equipment to engage in such activity. Outfitting and guide concessioners, where otherwise qualified, include concessioners which provide guided river running, hunting, fishing, horseback, camping, and mountaineering experiences. An outfitting and guide concessioner is entitled to a preferential right of renewal under this subchapter only if—
 
-&emsp;&emsp;(i) the contract with the outfitting and guide concessioner does not grant the concessioner any interest, including any leasehold surrender interest or possessory interest, in capital improvements on lands owned by the United States within a unit of the National Park System, other than a capital improvement constructed by a concessioner pursuant to the terms of a concessions contract prior to November 13, 1998, or constructed or owned by a concessioner or his or her predecessor before the subject land was incorporated into the National Park System;
+&emsp;&emsp;(i) the contract with the outfitting and guide concessioner does not grant the concessioner any interest, including any leasehold surrender interest or possessory interest, in capital improvements on lands ownedby the United States within a unit of the National Park System, other than a capital improvement constructed by a concessioner pursuant to the terms of a concessions contract prior to November 13, 1998, or constructed or owned by a concessioner or his or her predecessor before the subject land was incorporated into the National Park System;
 
 &emsp;&emsp;(ii) the Secretary determines that the concessioner has operated satisfactorily during the term of the contract (including any extension thereof); and
 
@@ -119,6 +119,10 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 #### References in Text
 
 This subchapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3503, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Short Title note set out under section 5901 of this title and Tables.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “concessions contract”.</i>
 

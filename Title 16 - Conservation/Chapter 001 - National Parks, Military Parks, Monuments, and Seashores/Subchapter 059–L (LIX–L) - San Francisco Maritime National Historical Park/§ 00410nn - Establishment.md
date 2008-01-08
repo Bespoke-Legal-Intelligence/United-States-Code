@@ -14,7 +14,7 @@ The Secretary shall revise the boundaries of the Golden Gate National Recreation
 
 #### (d) Museum building
 
-The building housing and displaying the marine collections, libraries, historic documents, equipment, and marine artifacts shall be namedthe “Sala Burton Building” and an appropriate plaque with this designation shall be prominently displayed as part of the structure.
+The building housing and displaying the marine collections, libraries, historic documents, equipment, and marine artifacts shall be named the “Sala Burton Building” and an appropriate plaque with this designation shall be prominently displayed as part of the structure.
 
 (Pub. L. 100–348, §2, June 27, 1988, 102 Stat. 654; Pub. L. 103–437, §6(d)(11), Nov. 2, 1994, 108 Stat. 4584.)
 
@@ -25,10 +25,6 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original “thi
 #### Amendments
 
 1994—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Short Title
 

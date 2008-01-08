@@ -12,7 +12,7 @@ Agreements Required.—The Secretary of Defense may enter into one or more agree
 
 (b)
 
-Treatment of Costs.—The costs of such agreements shall be considered, for purposes ofthe special account established under section 2541a(c), to be costs of administrative expenses of the Department of Defense that are attributable to the loan guarantee program under this subchapter.
+Treatment of Costs.—The costs of such agreements shall be considered, for purposes of the special account established under section 2541a(c), to be costs of administrative expenses of the Department of Defense that are attributable to the loan guarantee program under this subchapter.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–259.)
 

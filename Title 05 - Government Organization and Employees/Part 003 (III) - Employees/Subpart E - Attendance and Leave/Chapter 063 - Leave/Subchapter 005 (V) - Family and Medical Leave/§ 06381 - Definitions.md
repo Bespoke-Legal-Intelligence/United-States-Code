@@ -4,7 +4,7 @@ For the purpose of this subchapter—
 
 &emsp;(1) the term “employee” means any individual who—
 
-&emsp;&emsp;(A) is an “employee”, as defined by section 6301(2), including any individual employed in a position referred to in clause (v) or (ix) of section 6301(2), but excluding any individualemployed by the government of the District of Columbia <sup>1</sup> any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
+&emsp;&emsp;(A) is an “employee”, as defined by section 6301(2), including any individual employed in a position referred to in clause (v) or (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia <sup>1</sup> any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
 
 &emsp;&emsp;(B) has completed at least 12 months of service as an employee (within the meaning of subparagraph (A));
 
@@ -30,7 +30,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) 18 years of age or older and incapable of self-care because of a mental or physical disability.
 
-(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 19; amended Pub. L. 104–1, title II, §202(c)(2), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 19; amended Pub. L. 104–1, title II,§202(c)(2), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
 

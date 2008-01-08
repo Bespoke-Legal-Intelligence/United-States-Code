@@ -78,5 +78,5 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Officials Designated To Make Certifications
 
-For provisions listing officials designated by President to make certifications required by subsec. (a)(7) ofthis section, see Ex. Ord. No. 12949, §3, Feb. 9, 1995, 60 F.R. 8169, set out as a note under section 1822 of this title.
+For provisions listing officials designated by President to make certifications required by subsec. (a)(7) of this section, see Ex. Ord. No. 12949, §3, Feb. 9, 1995, 60 F.R. 8169, set out as a note under section 1822 of this title.
 

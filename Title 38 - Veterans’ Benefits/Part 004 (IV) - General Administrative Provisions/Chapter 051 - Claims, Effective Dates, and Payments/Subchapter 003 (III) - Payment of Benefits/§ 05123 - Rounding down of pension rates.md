@@ -1,6 +1,6 @@
 ### §5123. Rounding down of pension rates
 
-The monthly or other periodic rate of pension payable to an individual under section 1521, 1541,or 1542 of this title or under section 306(a) of the Veterans’ and Survivors’ Pension Improvement Act of 1978 (Public Law 95–588), if not a multiple of $1, shall be rounded down to the nearest dollar.
+The monthly or other periodic rate of pension payable to an individual under section 1521, 1541, or 1542 of this title or under section 306(a) of the Veterans’ and Survivors’ Pension Improvement Act of 1978 (Public Law 95–588), if not a multiple of $1, shall be rounded down to the nearest dollar.
 
 (Added Pub. L. 97–253, title IV, §403(a)(1), Sept. 8, 1982, 96 Stat. 802, §3023; renumbered §5123, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §5(c)(1), Aug. 6, 1991, 105 Stat. 406.)
 

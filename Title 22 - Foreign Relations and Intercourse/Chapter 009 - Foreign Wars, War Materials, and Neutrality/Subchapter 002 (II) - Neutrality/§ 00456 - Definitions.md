@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 (b) The term “person” includes a partnership, company, association, or corporation, as well as a natural person.
 
-(c) The term “vessel” means every description of watercraft and aircraft capable of being usedas a means of transportation on, under, or over water.
+(c) The term “vessel” means every description of watercraft and aircraft capable of being used as a means of transportation on, under, or over water.
 
 (d) The term “American vessel” means any vessel documented, and any aircraft registered or licensed, under the laws of the United States.
 

@@ -24,7 +24,7 @@ Exception.—(1) In issuing such regulations, the Secretary may except from the 
 
 &emsp;(C) for which, in the judgment of the Secretary, supplementary safety measures fully compensate for the absence of the warning provided by the locomotive horn.
 
-(2) In order to provide for safety and the quiet of communities affected by train operations, theSecretary may specify in such regulations that any supplementary safety measures must be applied to all highway-rail grade crossings within a specified distance along the railroad in order to be excepted from the requirement of this section.
+(2) In order to provide for safety and the quiet of communities affected by train operations, the Secretary may specify in such regulations that any supplementary safety measures must be applied to all highway-rail grade crossings within a specified distance along the railroad in order to be excepted from the requirement of this section.
 
 (d)
 

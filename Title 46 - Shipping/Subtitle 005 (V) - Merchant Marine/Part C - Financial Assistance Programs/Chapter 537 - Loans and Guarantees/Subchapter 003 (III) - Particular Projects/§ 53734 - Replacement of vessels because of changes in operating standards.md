@@ -8,7 +8,7 @@ General Authority.—Notwithstanding any other provision of this chapter, the Se
 
 &emsp;(2) the construction or reconstruction is necessary to replace a vessel that cannot continue to be operated because of a change required by law in the standards for the operation of vessels, and the applicant for the guarantee or commitment would not otherwise legally be able to continue operating vessels in the trades in which the applicant operated vessels before the change;
 
-&emsp;(3) the applicant is presently engaged in transporting cargoes in vessels of the type andclass that will be constructed or reconstructed under this section and agrees to employ vessels constructed or reconstructed under this section as replacements only for vessels made obsolete by the change in operating standards;
+&emsp;(3) the applicant is presently engaged in transporting cargoes in vessels of the type and class that will be constructed or reconstructed under this section and agrees to employ vessels constructed or reconstructed under this section as replacements only for vessels made obsolete by the change in operating standards;
 
 &emsp;(4) the capacity of the vessels to be constructed or reconstructed under this section will not increase the cargo carrying capacity of the vessels being replaced;
 

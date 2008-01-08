@@ -192,13 +192,13 @@ Par. (3)(A)(i). Pub. L. 109–59, §7102(2)(A), added cl. (i) and struck out for
 
 Par. (3)(A)(ii). Pub. L. 109–59, §7102(2)(B), substituted “course of such full time, part time, or temporary employment, or such self employment,” for “course of employment” and inserted “and” at end.
 
-Par. (3)(B). Pub. L. 109–59, §7102(2)(D)(i), substituted “employed on a full time, part time, or temporary basis by a hazmat employer, or self employed,” for “employed by a hazmat employer,” in introductory provisions.
+Par. (3)(B). Pub. L. 109–59, §7102(2)(D)(i), which directed amendment of par. (3)(A) by substituting “employed on a full time, part time, or temporary basis by a hazmat employer, or self employed,” for “employed by a hazmat employer,” in subpar. (B), was executed to introductory provisions of par. (3)(B) to reflect the probable intent of Congress.
 
-Pub. L. 109–59, §7102(2)(C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “includes an owner-operator of a motor vehicle transporting hazardous material in commerce; and”.
+Pub. L. 109–59, §7102(2)(C), which directed amendment of par. (3)(A) by striking subpar. (B) and redesignating subpar. (C) as (B), was executed by redesignating par. (3)(C) as (3)(B) and striking out former par. (3)(B) to reflect the probable intent of Congress. Prior to amendment, par. (3)(B) read as follows: “includes an owner-operator of a motor vehicle transporting hazardous material in commerce; and”.
 
-Par. (3)(B)(ii). Pub. L. 109–59, §7102(2)(D)(ii), added cl. (ii) and struck out former cl. (ii) which read as follows: “manufactures, reconditions, or tests containers, drums, and packagings represented as qualified for use in transporting hazardous material;”.
+Par. (3)(B)(ii). Pub. L. 109–59, §7102(2)(D)(ii), which directed amendment of par. (3)(A) by striking out cl. (ii) and inserting new cl. (ii) in subpar. (B), was executed by adding par. (3)(B)(ii) and striking out former par. (3)(B)(ii) to reflect the probable intent of Congress. Prior to amendment, par. (3)(B)(ii) read as follows: “manufactures, reconditions, or tests containers, drums, and packagings represented as qualified for use in transporting hazardous material;”.
 
-Par. (3)(C). Pub. L. 109–59, §7102(2)(C), redesignated subpar. (C) as (B).
+Par. (3)(C). Pub. L. 109–59, §7102(2)(C), which directed amendment of par. (3)(A) by redesignating subpar. (C) as (B), was executed by redesignating par. (3)(C) as (3)(B) to reflect the probable intent of Congress.
 
 Par. (4). Pub. L. 109–59, §7102(3), amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (C), which included within definition of “hazmat employer” a person using at least one employee in connection with transporting or containers for transporting hazardous material, an owner-operator of a motor vehicle transporting hazardous material in commerce, and a department, agency, or instrumentality of the United States Government, or an authority of a State, political subdivision of a State, or Indian tribe, carrying out certain described activities.
 

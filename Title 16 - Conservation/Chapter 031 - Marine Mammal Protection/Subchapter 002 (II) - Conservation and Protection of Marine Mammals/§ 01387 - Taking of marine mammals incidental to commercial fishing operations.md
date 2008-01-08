@@ -84,7 +84,7 @@
 
 (5)(A) The Secretary shall develop, in consultation with the appropriate States, affected Regional Fishery Management Councils, and other interested persons, the means by which the granting and administration of authorizations under this section shall be integrated and coordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
 
-(B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
+(B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advisingcommercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
 
 (C) The Secretary is authorized to charge a fee for the granting of an authorization under this section. The level of fees charged under this subparagraph shall not exceed the administrative costs incurred in granting an authorization. Fees collected under this subparagraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in the granting and administration of authorizations under this section.
 
@@ -162,7 +162,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 #### (f) Take reduction plans
 
-(1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fisherylisted under subsection (c)(1)(A)(i) of this section which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
+(1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
 
 (2) The immediate goal of a take reduction plan for a strategic stock shall be to reduce, within 6 months of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to levels less than the potential biological removal level established for that stock under section 1386 of this title. The long-term goal of the plan shall be to reduce, within 5 years of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to insignificant levels approaching a zero mortality and serious injury rate, taking into account the economics of the fishery, the availability of existing technology, and existing State or regional fishery management plans.
 
@@ -198,7 +198,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (7) Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, the following procedures shall apply in the development of the take reduction plan for the stock:
 
-&emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for such stock to the Secretary,consistent with the other provisions of this section.
+&emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for such stock to the Secretary, consistent with the other provisions of this section.
 
 &emsp;(ii) Such draft take reduction plan shall be developed by consensus. In the event consensus cannot be reached, the team shall advise the Secretary in writing on the range of possibilities considered by the team, and the views of both the majority and minority.
 
@@ -232,7 +232,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
-(9) In implementing a take reduction plan developed pursuant to this subsection, the Secretary may, where necessary to implement a take reduction plan to protect or restore a marine mammal stock or species covered by such plan, promulgate regulations which include, but are not limited to, measures to—
+(9) In implementing a take reduction plan developed pursuant to this subsection, the Secretary may, where necessary to implement atake reduction plan to protect or restore a marine mammal stock or species covered by such plan, promulgate regulations which include, but are not limited to, measures to—
 
 &emsp;(A) establish fishery-specific limits on incidental mortality and serious injury of marine mammals in commercial fisheries or restrict commercial fisheries by time or area;
 
@@ -284,7 +284,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(A) shall be published in the Federal Register, together with an explanation thereof;
 
-&emsp;(B) shall remain in effect for not more than 180 days or until the end of the applicable commercial fishing season, whichever is earlier; and
+&emsp;(B) shall remain in effect for not more than 180 days or until the end of the applicablecommercial fishing season, whichever is earlier; and
 
 &emsp;(C) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination, if the Secretary determines that the reasons for emergency regulations no longer exist.
 
@@ -292,7 +292,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 #### (h) Penalties
 
-Except as provided in subsection (c) of this section, any person who violates this sectionshall be subject to the provisions of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title as the Secretary shall establish by regulations.
+Except as provided in subsection (c) of this section, any person who violates this section shall be subject to the provisions of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title as the Secretary shall establish by regulations.
 
 #### (i) Assistance
 
@@ -330,7 +330,7 @@ Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided th
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Section”.</i>
 

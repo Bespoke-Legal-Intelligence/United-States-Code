@@ -26,7 +26,7 @@ Each voting system used in an election for Federal office shall meet the followi
 
 &emsp;&emsp;(ii) providing the voter with instructions on how to correct the ballot before it is cast and counted (including instructions on how to correct the error through the issuance of a replacement ballot if the voter was otherwise unable to change the ballot or correct any error).
 
-&emsp;(C) The voting system shall ensure that any notification required under this paragraph preserves the privacy of the voter and the confidentiality of the ballot.
+&emsp;(C) The voting system shall ensure that any notification required under this paragraphpreserves the privacy of the voter and the confidentiality of the ballot.
 
 #### (2) Audit capacity
 

@@ -12,7 +12,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(2) The plan shall provide that the State agency will—
 
-&emsp;&emsp;(A) evaluate, using uniform procedures described in section 3012(a)(29) <sup>1</sup> of this title,the need for supportive services (including legal assistance pursuant to subsection (a)(11) of this section, information and assistance, and transportation services), nutrition services, and multipurpose senior centers within the State;
+&emsp;&emsp;(A) evaluate, using uniform procedures described in section 3012(a)(29) <sup>1</sup> of this title, the need for supportive services (including legal assistance pursuant to subsection (a)(11) of this section, information and assistance, and transportation services), nutrition services, and multipurpose senior centers within the State;
 
 &emsp;&emsp;(B) develop a standardized process to determine the extent to which public or private programs and resources (including volunteers and programs and services of voluntary organizations) that have the capacity and actually meet such need;
 
@@ -76,7 +76,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(C) the State agency will provide for the coordination of the furnishing of legal services to older individuals within the State, and provide advice and technical assistance in the provision of legal services to older individuals within the State and support the furnishing of training and technical assistance for legal services for older individuals;
 
-&emsp;&emsp;(D) the plan contains assurances, to the extent practicable, that legal services furnished under the plan will be in addition to any legal services for older individuals being furnished with funds from sources other than this chapter and that reasonable efforts will be made to maintain existing levels of legal services for older individuals; and
+&emsp;&emsp;(D) the plan contains assurances, to the extent practicable, that legal services furnished under the plan will be in addition to any legal services for older individuals being furnished with funds from sources other than this chapter and that reasonable effortswill be made to maintain existing levels of legal services for older individuals; and
 
 &emsp;&emsp;(E) the plan contains assurances that area agencies on aging will give priority to legal assistance related to income, health care, long-term care, nutrition, housing, utilities, protective services, defense of guardianship, abuse, neglect, and age discrimination.
 
@@ -188,7 +188,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 (1) The Assistant Secretary shall approve any State plan which the Assistant Secretary finds fulfills the requirements of subsection (a) of this section, except the Assistant Secretary may not approve such plan unless the Assistant Secretary determines that the formula submitted under section 3025(a)(2)(D) of this title complies with the guidelines in effect under section 3025(a)(2)(C) of this title.
 
-(2) The Assistant Secretary, in approving any State plan under this section, may waive the requirement described in paragraph (3)(B) of subsection (a) of this section if the State agency demonstrates to the Assistant Secretary that the service needs of older individuals residing in rural areas in the State are being met, or that the number of older individuals residing in such rural areas is not sufficient to require the State agency to comply with such requirement.
+(2) The Assistant Secretary, in approving any State plan under this section, may waive the requirement described in paragraph (3)(B) of subsection (a) of this section if the State agency demonstrates to the Assistant Secretary thatthe service needs of older individuals residing in rural areas in the State are being met, or that the number of older individuals residing in such rural areas is not sufficient to require the State agency to comply with such requirement.
 
 #### (c) Notice and hearing prior to disapproval
 
@@ -212,7 +212,7 @@ Whenever the Assistant Secretary, after reasonable notice and opportunity for a 
 
 #### (e) Appeal
 
-(1) A State which is dissatisfied with a final action of the Assistant Secretary under subsection (b), (c), or (d) of this section may appeal to the United States court of appeals for the circuit in which the State is located, by filing a petition with such court within 30 days after such final action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Assistant Secretary, or any officer designated by the Assistant Secretary for such purpose. The Assistant Secretary thereupon shall file in the court the record of the proceedings onwhich the Assistant Secretary's action is based, as provided in section 2112 of title 28.
+(1) A State which is dissatisfied with a final action of the Assistant Secretary under subsection (b), (c), or (d) of this section may appeal to the United States court of appeals for the circuit in which the State is located, by filing a petition with such court within 30 days after such final action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Assistant Secretary, or any officer designated by the Assistant Secretary for such purpose. The Assistant Secretary thereupon shall file in the court the record of the proceedings on which the Assistant Secretary's action is based, as provided in section 2112 of title 28.
 
 (2) Upon the filing of such petition, the court shall have jurisdiction to affirm the action of the Assistant Secretary or to set it aside, in whole or in part, temporarily or permanently, but until the filing of the record, the Assistant Secretary may modify or set aside the Assistant Secretary's order. The findings of the Assistant Secretary as to the facts, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Assistant Secretary to take further evidence, and the Assistant Secretary shall, within 30 days, file in the court the record of those further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence. The judgment of the court affirming or setting aside, in whole or in part, any action of the Assistant Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
@@ -260,7 +260,7 @@ Subsec. (a)(7)(C). Pub. L. 106–501, §306(2), struck out subpar. (C) which req
 
 Subsec. (a)(8), (9). Pub. L. 106–501, §306(3), added pars. (8) and (9) and struck out former pars. (8) and (9) which read as follows:
 
-“(8) The plan shall provide that the State agency will conduct periodic evaluations of, and public hearings on,activities and projects carried out under the State plan, including an evaluation of the effectiveness of the State agency in reaching older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals. In conducting such evaluations and public hearings, the State agency shall solicit the views and experiences of entities that are knowledgeable about the needs and concerns of low-income minority older individuals.
+“(8) The plan shall provide that the State agency will conduct periodic evaluations of, and public hearings on, activities and projects carried out under the State plan, including an evaluation of the effectiveness of the State agency in reaching older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals. In conducting such evaluations and public hearings, the State agency shall solicit the views and experiences of entities that are knowledgeable about the needs and concerns of low-income minority older individuals.
 
 “(9) The plan shall provide for establishing and maintaining information and assistance services in sufficient numbers to assure that all older individuals in the State who are not furnished adequate information and assistance services under section 3026(a)(4) of this title will have reasonably convenient access to such services.”
 
@@ -448,7 +448,7 @@ Subsec. (a)(24). Pub. L. 102–375, §307(<i>l</i>), amended par. (24) generally
 
 &emsp;“(B) inform such individuals of the availability of such assistance.”
 
-Subsec. (a)(30). Pub. L. 102–375, §307(m), amended par. (30) generally. Prior to amendment, par. (30) read as follows: “The plan shall provide assurances that if the State receives funds appropriated under section 3023(g) of this title, the State agency and area agencies on aging will expend such funds to carry out part G of this subchapter.”
+Subsec. (a)(30). Pub. L. 102–375, §307(m), amended par. (30) generally. Prior to amendment, par. (30) read as follows: “The plan shall provide assurances that if the State receives funds appropriated under section 3023(g) of this title, the State agency and area agencies onaging will expend such funds to carry out part G of this subchapter.”
 
 Subsec. (a)(31). Pub. L. 102–375, §307(n), amended par. (31) generally, substituting provisions relating to an area or State volunteer services coordinator for provisions that State agency make funds available to eligible area agencies on aging based on number of older individuals with greatest economic need and inadequacy of outreach activities and application assistance, that State agency require area agency to submit application describing and evaluating activities for which funds were sought, that State agency distribute to area agencies certain eligibility information, and that State agency submit to Commissioner a report on evaluations required to be submitted to it by area agencies.
 
@@ -586,7 +586,7 @@ Subsec. (a)(13)(C)(ii). Pub. L. 97–115, §7(d), inserted “, to facilitate a
 
 Subsec. (a)(13)(D). Pub. L. 97–115, §§3(d), 7(e), inserted “in the case of meals served in a congregate setting,” before “a site for such services”, substituted “supportive services” for “social services”, and struck out “or home delivered meals are furnished to eligible individuals who are homebound” after “transportation to such site is furnished”.
 
-Subsec. (a)(13)(I). Pub. L. 97–115, §7(f), substituted “each area agency shall establish procedures that willallow nutrition project administrators the option to offer a meal, on the same basis as meals are provided to elderly participants, to individuals providing volunteer services during the meal hours” for “each State agency may only for fiscal years 1979 and 1980, use not to exceed 20 percent for the amounts allotted under part C to the State for supportive services, including recreational activities, informational services, health and welfare counseling, and referral services, directly related to the delivery of congregate or home delivered meals, except that the Commissioner may approve an application from a State to use not to exceed 50 percent of its amount allotted under part C in areas with unusually high supportive services costs”.
+Subsec. (a)(13)(I). Pub. L. 97–115, §7(f), substituted “each area agency shall establish procedures that will allow nutrition project administrators the option to offer a meal, on the same basis as meals are provided to elderly participants, to individuals providing volunteer services during the meal hours” for “each State agency may only for fiscal years 1979 and 1980, use not to exceed 20 percent for the amounts allotted under part C to the State for supportive services, including recreational activities, informational services, health and welfare counseling, and referral services, directly related to the delivery of congregate or home delivered meals, except that the Commissioner may approve an application from a State to use not to exceed 50 percent of its amount allotted under part C in areas with unusually high supportive services costs”.
 
 Subsec. (a)(16) to (18). Pub. L. 97–115, §7(g), added pars. (16) and (17) and redesignated former par. (16) as (18).
 

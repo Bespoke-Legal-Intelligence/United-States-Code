@@ -64,11 +64,11 @@ Geographic proximity of conflict resolution provision.—In providing assessment
 
 #### (6) Repository
 
-&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the Trust Fund to the Center to maintain the current site of the repository for Morris K. Udall's papers and other such public papers as may be appropriate and assure such papers’ availability to the public.
+&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the TrustFund to the Center to maintain the current site of the repository for Morris K. Udall's papers and other such public papers as may be appropriate and assure such papers’ availability to the public.
 
 #### (7) Coordination
 
-&emsp;The Foundation shall assist in the development and implementation of a Program forEnvironmental Policy Research and Environmental Conflict Resolution and Training to be located at the Center.
+&emsp;The Foundation shall assist in the development and implementation of a Program for Environmental Policy Research and Environmental Conflict Resolution and Training to be located at the Center.
 
 #### (b) Morris K. Udall Scholars
 

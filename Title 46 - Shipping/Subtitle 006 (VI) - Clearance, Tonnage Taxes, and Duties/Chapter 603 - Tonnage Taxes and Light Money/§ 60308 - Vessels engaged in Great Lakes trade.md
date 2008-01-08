@@ -1,6 +1,6 @@
 ### §60308. Vessels engaged in Great Lakes trade
 
-A documented vessel with a registry endorsement, engaged in foreign trade on the GreatLakes or their tributary or connecting waters in trade with Canada, does not become subject to tonnage taxes or light money because of that trade.
+A documented vessel with a registry endorsement, engaged in foreign trade on the Great Lakes or their tributary or connecting waters in trade with Canada, does not become subject to tonnage taxes or light money because of that trade.
 
 (Pub. L. 109–304, §9(b), Oct. 6, 2006, 120 Stat. 1679.)
 

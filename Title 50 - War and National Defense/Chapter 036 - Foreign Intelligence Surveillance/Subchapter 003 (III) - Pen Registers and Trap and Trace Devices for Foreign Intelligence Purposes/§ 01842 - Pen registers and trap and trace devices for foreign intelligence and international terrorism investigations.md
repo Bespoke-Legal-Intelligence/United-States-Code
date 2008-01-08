@@ -80,7 +80,7 @@ Each application under this section shall require the approval of the Attorney G
 
 (1) Except as provided in paragraph (2), an order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d) of this section. The period of extension shall be for a period not to exceed 90 days.
 
-(2) In the case of an application under subsection (c) where the applicant has certified that the information likely to be obtained is foreign intelligence information not concerning a United States person, an order, or an extensionof an order, under this section may be for a period not to exceed one year.
+(2) In the case of an application under subsection (c) where the applicant has certified that the information likely to be obtained is foreign intelligence information not concerning a United States person, an order, or an extension of an order, under this section may be for a period not to exceed one year.
 
 #### (f) Cause of action barred
 
@@ -88,7 +88,7 @@ No cause of action shall lie in any court against any provider of a wire or elec
 
 #### (g) Furnishing of results
 
-Unless otherwise ordered by the judge, the results of a pen register or trap and trace device shall be furnished at reasonable intervals during regular business hours for the duration of the order to the authorized Government official or officials.
+Unless otherwise ordered by the judge, the results of a pen register or trap and trace deviceshall be furnished at reasonable intervals during regular business hours for the duration of the order to the authorized Government official or officials.
 
 (Pub. L. 95–511, title IV, §402, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2405; amended Pub. L. 107–56, title II, §214(a), Oct. 26, 2001, 115 Stat. 286; Pub. L. 107–108, title III, §314(a)(5), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§105(c), 128(a), Mar. 9, 2006, 120 Stat. 195, 228.)
 

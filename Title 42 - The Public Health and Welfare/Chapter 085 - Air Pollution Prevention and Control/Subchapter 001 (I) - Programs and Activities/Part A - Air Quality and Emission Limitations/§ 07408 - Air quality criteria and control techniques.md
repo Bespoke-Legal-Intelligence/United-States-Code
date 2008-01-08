@@ -12,7 +12,7 @@
 
 (2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a list under paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects on public health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
 
-&emsp;(A) those variable factors (including atmospheric conditions) which of themselves or in combination with other factors may alter the effects on public health or welfare of such air pollutant;
+&emsp;(A) those variable factors (including atmospheric conditions) which of themselves or incombination with other factors may alter the effects on public health or welfare of such air pollutant;
 
 &emsp;(B) the types of air pollutants which, when present in the atmosphere, may interact with such pollutant to produce an adverse effect on public health or welfare; and
 
@@ -26,7 +26,7 @@
 
 #### (c) Review, modification, and reissuance of criteria or information
 
-The Administrator shall from time to time review, and, as appropriate, modify, and reissue any criteria or information on control techniques issued pursuant to this section. Not later than six months after August 7, 1977, the Administrator shall revise and reissue criteria relatingto concentrations of NO<b>2</b> over such period (not more than three hours) as he deems appropriate. Such criteria shall include a discussion of nitric and nitrous acids, nitrites, nitrates, nitrosamines, and other carcinogenic and potentially carcinogenic derivatives of oxides of nitrogen.
+The Administrator shall from time to time review, and, as appropriate, modify, and reissue any criteria or information on control techniques issued pursuant to this section. Not later than six months after August 7, 1977, the Administrator shall revise and reissue criteria relating to concentrations of NO<b>2</b> over such period (not more than three hours) as he deems appropriate. Such criteria shall include a discussion of nitric and nitrous acids, nitrites, nitrates, nitrosamines, and other carcinogenic and potentially carcinogenic derivatives of oxides of nitrogen.
 
 #### (d) Publication in Federal Register; availability of copies for general public
 
@@ -138,7 +138,7 @@ Subsec. (h). Pub. L. 101–549, §108(c), added subsec. (h).
 
 Subsec. (b)(1). Pub. L. 95–95, §104(a), substituted “cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology” for “technology and costs of emission control”.
 
-Subsec. (c). Pub. L. 95–95, §104(b), inserted provision directing the Administrator, not later than six months after Aug. 7, 1977, to revise and reissue criteria relating to concentrations of NO<b>2</b> over such period (not more than three hours) as he deems appropriate, with the criteria to include a discussion of nitric and nitrous acids, nitrites, nitrates, nitrosamines, and other carcinogenic and potentially carcinogenic derivatives of oxides of nitrogen.
+Subsec. (c). Pub. L. 95–95, §104(b), inserted provision directing the Administrator, not later than six monthsafter Aug. 7, 1977, to revise and reissue criteria relating to concentrations of NO<b>2</b> over such period (not more than three hours) as he deems appropriate, with the criteria to include a discussion of nitric and nitrous acids, nitrites, nitrates, nitrosamines, and other carcinogenic and potentially carcinogenic derivatives of oxides of nitrogen.
 
 Subsecs. (e), (f). Pub. L. 95–95, §105, added subsecs. (e) and (f).
 

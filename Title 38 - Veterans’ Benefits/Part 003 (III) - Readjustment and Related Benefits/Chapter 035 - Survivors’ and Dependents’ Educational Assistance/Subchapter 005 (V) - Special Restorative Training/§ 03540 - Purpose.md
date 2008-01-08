@@ -28,7 +28,7 @@ Amendment by section 301(b)(4) of Pub. L. 109–461 applicable with respect to a
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

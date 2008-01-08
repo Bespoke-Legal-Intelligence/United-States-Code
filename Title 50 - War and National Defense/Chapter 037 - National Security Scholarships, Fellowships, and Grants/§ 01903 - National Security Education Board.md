@@ -42,11 +42,11 @@ The Board shall perform the following functions:
 
 &emsp;&emsp;(B) which areas within the disciplines described in section 1902(a)(1)(B) of this title relating to the national security interests of the United States are areas of study in which United States students are deficient in learning and are, therefore, critical areas within those disciplines for the purposes of that section;
 
-&emsp;&emsp;(C) which areas within the disciplines described in section 1902(a)(1)(C) of this title are areas in which United States students, educators, and Government employees aredeficient in learning and in which insubstantial numbers of United States institutions of higher education provide training and are, therefore, critical areas within those disciplines for the purposes of that section;
+&emsp;&emsp;(C) which areas within the disciplines described in section 1902(a)(1)(C) of this title are areas in which United States students, educators, and Government employees are deficient in learning and in which insubstantial numbers of United States institutions of higher education provide training and are, therefore, critical areas within those disciplines for the purposes of that section;
 
 &emsp;&emsp;(D) how students desiring scholarships or fellowships can be encouraged to work for an agency or office of the Federal Government involved in national security affairs or national security policy upon completion of their education; and
 
-&emsp;&emsp;(E) which foreign languages are critical to the national security interests of the United States for purposes of section 1902(a)(1)(D) of this title (relating to grants for the National Flagship Language Initiative) and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced English language studies by heritage community citizens).
+&emsp;&emsp;(E) which foreign languages are critical to the national security interests of the United States for purposes of section 1902(a)(1)(D) of this title (relating to grants for the National Flagship Language Initiative) and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced Englishlanguage studies by heritage community citizens).
 
 &emsp;(5) Encourage applications for fellowships under this chapter from graduate students having an educational background in any academic discipline, particularly in the areas of science or technology.
 

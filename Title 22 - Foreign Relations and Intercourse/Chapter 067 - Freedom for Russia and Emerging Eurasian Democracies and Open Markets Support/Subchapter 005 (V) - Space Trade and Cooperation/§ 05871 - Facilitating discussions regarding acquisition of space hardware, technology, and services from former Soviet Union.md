@@ -2,7 +2,7 @@
 
 #### (a) Expedited review
 
-Any request for a license or other approval described in subsection (c) of this section that issubmitted to any United States Government agency by the National Aeronautics and Space Administration, any of its contractors, or any other person shall be considered on an expedited basis by that agency and any other agency involved in an applicable interagency review process.
+Any request for a license or other approval described in subsection (c) of this section that is submitted to any United States Government agency by the National Aeronautics and Space Administration, any of its contractors, or any other person shall be considered on an expedited basis by that agency and any other agency involved in an applicable interagency review process.
 
 #### (b) Notice to Congress if license denied
 

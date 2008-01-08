@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(aa) materially and substantially participates in the operation of the farm or ranch; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) provides substantial day-to-day labor and management of the farm or ranch, consistent with the practices inthe State or county in which the farm or ranch is located; or
+&emsp;&emsp;&emsp;&emsp;(bb) provides substantial day-to-day labor and management of the farm or ranch, consistent with the practices in the State or county in which the farm or ranch is located; or
 
 &emsp;&emsp;&emsp;(II)(aa) in the case of a loan made to a cooperative, corporation, partnership, or joint operation, has members, stockholders, partners, or joint operators, materially and substantially participate in the operation of the farm or ranch; and
 

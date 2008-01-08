@@ -6,7 +6,7 @@ The Secretary shall establish foreign language proficiency requirements for memb
 
 #### (b) Training
 
-The Secretary of State shall arrange for appropriate language training of members of the Service by the institution or otherwise in order to assist in meeting the requirements established under subsection (a) of this section.
+The Secretary of State shall arrange for appropriate language training of members of theService by the institution or otherwise in order to assist in meeting the requirements established under subsection (a) of this section.
 
 #### (c) Report
 
@@ -25,4 +25,8 @@ Not later than January 31 of each year, the Director General of the Foreign Serv
 1999—Subsec. (c). Pub. L. 106–113 added subsec. (c).
 
 1994—Subsec. (b). Pub. L. 103–236 substituted “institution” for “Institute”.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

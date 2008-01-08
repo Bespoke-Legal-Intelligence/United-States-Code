@@ -32,7 +32,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live animal or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
 
-&emsp;(B) if it is, in whole or in part, a raw agricultural commodity and such commodity bears or contains a pesticide chemical which is unsafe within the meaning of section 346a of this title,
+&emsp;(B) if it is, in whole or in part, a raw agricultural commodity and such commodity bears or contains a pesticide chemical which is unsafewithin the meaning of section 346a of this title,
 
 &emsp;(C) if it bears or contains any food additive which is unsafe within the meaning of section 348 of this title,
 
@@ -72,11 +72,11 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(9) if it is not subject to the provisions of subparagraph (7), unless its label bears (A) the common or usual name of the food, if any there be, and (B) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient; except that spices, flavorings, and colorings may, when authorized by the Secretary, be designated as spices, flavorings, and colorings without naming each: <i>Provided</i>, That to the extent that compliance with the requirements of clause (B) of this subparagraph (9) is impracticable, or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary;
 
-&emsp;(10) if it purports to be or is represented for special dietary uses, unless its label bears such information concerning its vitamin, mineral, and other dietary properties as the Secretary,after consultation with the Secretary of Health and Human Services, determines to be, and by regulations prescribes as, necessary in order fully to inform purchasers as to its value for such uses;
+&emsp;(10) if it purports to be or is represented for special dietary uses, unless its label bears such information concerning its vitamin, mineral, and other dietary properties as the Secretary, after consultation with the Secretary of Health and Human Services, determines to be, and by regulations prescribes as, necessary in order fully to inform purchasers as to its value for such uses;
 
 &emsp;(11) if it bears or contains any artificial flavoring, artificial coloring, or chemical preservative, unless it bears labeling stating that fact: <i>Provided</i>, That, to the extent that compliance with the requirements of this subparagraph (11) is impracticable, exemptions shall be established by regulations promulgated by the Secretary; or
 
-&emsp;(12) if it fails to bear, directly thereon or on its container, as the Secretary may by regulations prescribe, the inspection legend and, unrestricted by any of the foregoing, such other information as the Secretary may require in such regulations to assure that it will not have false or misleading labeling and that the public will be informed of the manner of handling required to maintain the article in a wholesome condition.
+&emsp;(12) if it fails to bear, directly thereon or on its container, as the Secretary may by regulations prescribe, the inspection legend and, unrestricted by any of the foregoing, such other information as the Secretary may require insuch regulations to assure that it will not have false or misleading labeling and that the public will be informed of the manner of handling required to maintain the article in a wholesome condition.
 
 (<i>o</i>) The term “label” means a display of written, printed, or graphic matter upon the immediate container (not including package liners) of any article.
 
@@ -148,5 +148,5 @@ Section 1 of Pub. L. 90–201 provided in part that the provisions of act Mar. 4
 
 #### Separability
 
-Section 19 of Pub. L. 90–201 provided that: “If any provision of this Act or of the amendments made hereby \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments \[see Short Title note above\] and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Section 19 of Pub. L. 90–201 provided that: “If any provision of this Act or of the amendments made hereby \[see Short Title note above\] or the application thereofto any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments \[see Short Title note above\] and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 

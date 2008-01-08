@@ -144,7 +144,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 #### (6) Limitation on defense
 
-&emsp;Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
+&emsp;Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threatof discharge of oil which is the subject of the action relating to the facility.
 
 (Pub. L. 101–380, title I, §1003, Aug. 18, 1990, 104 Stat. 491; Pub. L. 108–293, title VII, §703(c), Aug. 9, 2004, 118 Stat. 1072.)
 

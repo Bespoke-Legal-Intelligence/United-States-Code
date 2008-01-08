@@ -18,7 +18,7 @@ Subsection (a) of this section applies to an employee who—
 
 &emsp;&emsp;(A) the Secretary of Energy determines that the Department of Energy is undergoing a major reorganization as a result of the establishment of the National Nuclear Security Administration; and
 
-&emsp;&emsp;(B) the employee is within the scope of an offer of voluntary early retirement (as defined by organizational unit, occupational series or level, geographical location, any other similar factor that the Office of Personnel Management determines appropriate, or any combination of such definitions of scope), as determined by the Secretary under regulations prescribed by the Office.
+&emsp;&emsp;(B) the employee is within the scope of an offer of voluntary early retirement (as defined by organizational unit, occupational series or level, geographical location, any other similar factor that the Office of Personnel Management determines appropriate,or any combination of such definitions of scope), as determined by the Secretary under regulations prescribed by the Office.
 
 #### (c) Treatment of employees
 

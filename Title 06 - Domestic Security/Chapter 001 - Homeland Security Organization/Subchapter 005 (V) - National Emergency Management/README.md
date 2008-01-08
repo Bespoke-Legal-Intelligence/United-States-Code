@@ -31,3 +31,6 @@
 - [&sect; 00321h - Use of national private sector networks in emergency response](%C2%A7%2000321h%20-%20Use%20of%20national%20private%20sector%20networks%20in%20emergency%20response.md)
 - [&sect; 00321i - Use of commercially available technology, goods, and services](%C2%A7%2000321i%20-%20Use%20of%20commercially%20available%20technology%2C%20goods%2C%20and%20services.md)
 - [&sect; 00321j - Procurement of security countermeasures for Strategic National Stockpile](%C2%A7%2000321j%20-%20Procurement%20of%20security%20countermeasures%20for%20Strategic%20National%20Stockpile.md)
+- [&sect; 00321k - Model standards and guidelines for critical infrastructure workers](%C2%A7%2000321k%20-%20Model%20standards%20and%20guidelines%20for%20critical%20infrastructure%20workers.md)
+- [&sect; 00321l - Guidance and recommendations](%C2%A7%2000321l%20-%20Guidance%20and%20recommendations.md)
+- [&sect; 00321m - Voluntary private sector preparedness accreditation and certification program](%C2%A7%2000321m%20-%20Voluntary%20private%20sector%20preparedness%20accreditation%20and%20certification%20program.md)

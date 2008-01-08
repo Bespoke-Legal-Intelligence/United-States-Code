@@ -76,7 +76,7 @@ Virgin Islands, British
 
 &emsp;(2) if such country—
 
-&emsp;&emsp;(A) has nationalized, expropriated or otherwise seized ownership or control of property owned by a United States citizen or by a corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens,
+&emsp;&emsp;(A) has nationalized, expropriated or otherwise seized ownership or control ofproperty owned by a United States citizen or by a corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens,
 
 &emsp;&emsp;(B) has taken steps to repudiate or nullify—
 
@@ -204,7 +204,7 @@ This chapter, referred to in subsec. (e)(1)(B), was in the original “this subt
 
 #### Codification
 
-Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedules of the United States. The Tariff Schedules were replaced by the Harmonized Tariff Schedule of the United States. See References in Text note above.
+Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedules of the United States. TheTariff Schedules were replaced by the Harmonized Tariff Schedule of the United States. See References in Text note above.
 
 #### Amendments
 

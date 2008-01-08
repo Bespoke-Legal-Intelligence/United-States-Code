@@ -198,7 +198,7 @@ Gifts.—The Council—
 
 &emsp;“(1) may accept money and other property donated, bequeathed, or devised to the Council without condition or restriction (other than that it be used to carry out the work of the Council); and
 
-&emsp;“(2) may use, sell, or otherwise dispose of any such property to carry out its functions under this Act, except that, upon the termination of the Council, any such property shall be disposed of in accordance with applicable provisions of law governing the disposal of Federal property.
+&emsp;“(2) may use, sell, or otherwise dispose of any such property to carry out its functions under this Act, except that, upon the termination of the Council, anysuch property shall be disposed of in accordance with applicable provisions of law governing the disposal of Federal property.
 
 #### “SEC. 8. REPORTS.
 
@@ -232,7 +232,7 @@ Section 1. All offices and positions in the executive civil service of the Unite
 
 Section 2. Section 1 of this order shall become effective on January 1, 1942, except that as to positions affected thereby which are vacant at any time after June 30, 1941, and before January 1, 1942, it shall become effective when the vacancies first exist during such period, and appointments to such vacant positions shall be made in accordance with the Civil Service Rules as amended by section 3 of this order, unless prior express permission is given by the Office of Personnel Management for appointment without regard thereto.
 
-Section 3. (a) Upon consideration of the report of the Committee on Civil Service Improvement (House Document No. 118, 77th Congress) appointed by Executive Order No. 8044 of January 31, 1939, it is hereby found and determined that the regulations and procedureshereinafter prescribed in this section with respect to attorney positions in the classified civil service are required by the conditions of good administration.
+Section 3. (a) Upon consideration of the report of the Committee on Civil Service Improvement (House Document No. 118, 77th Congress) appointed by Executive Order No. 8044 of January 31, 1939, it is hereby found and determined that the regulations and procedures hereinafter prescribed in this section with respect to attorney positions in the classified civil service are required by the conditions of good administration.
 
 (b) There is hereby created in the Office of Personnel Management (hereinafter referred to as the Office) a board to be known as the Board of Legal Examiners (hereinafter referred to as the Board). The Board shall consist of the Solicitor General of the United States and the chief law officer of the Office of Personnel Management, as members <i>ex officio</i>, and nine members to be appointed by the President, four of whom shall be attorneys chosen from the chief officers of the Executive departments, agencies or corporate instrumentalities of the Government, two from the law-teaching profession, and three from attorneys engaged in private practice. The President shall designate the chairman of the Board. Five members shall constitute a quorum, and the Board may transact business notwithstanding vacancies thereon. Members of the Board shall receive no salary as such, but shall be entitled to necessary expenses incurred in the performance of their duties hereunder.
 
@@ -344,7 +344,7 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 11162
 
-Ex. Ord. No. 11162, July 28, 1964, 29 F.R. 10563, which related to membership of the President's Committee on Equal Employment Opportunity, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as anote under section 2000e of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 11162, July 28, 1964, 29 F.R. 10563, which related to membership of the President's Committee on Equal Employment Opportunity, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under section 2000e of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 11202
 
@@ -386,7 +386,7 @@ Ex. Ord. No. 11219, May 6, 1965, 30 F.R. 6381, as amended by Ex. Ord. No. 12107,
 
 By virtue of the authority vested in me by section 1753 of the Revised Statutes \[sections 3301 and 7301 of this title\] and the Civil Service Act (22 Stat. 403), and as President of the United States, it is hereby ordered as follows:
 
-Section 1. Under regulations and conditions prescribed by the Office of Personnel Management, a present or former member of the Foreign Service may be appointed in the competitive service if he:
+Section 1. Under regulations and conditions prescribed by the Office of Personnel Management, apresent or former member of the Foreign Service may be appointed in the competitive service if he:
 
 (a) Is qualified for the position in the competitive service;
 
@@ -412,7 +412,7 @@ Sec. 3. A person appointed to a nontemporary position in the competitive service
 
 Sec. 4. Any law, Executive order, or regulation that would disqualify an applicant for appointment in the competitive service shall also disqualify a person for appointment under Section 1 of this Order.
 
-Sec. 5. For the purpose of this Order, a person is deemed to be a member of the “Foreign Service” if he was appointed in any agency under authority of the Foreign Service Act of 1946, as amended \[former section 801 et seq. of Title 22, Foreign Relations and Intercourse\], the Foreign Service Act of 1980 \[section 3901 etseq. of Title 22\], or legislation that supplements or replaces the latter Act.
+Sec. 5. For the purpose of this Order, a person is deemed to be a member of the “Foreign Service” if he was appointed in any agency under authority of the Foreign Service Act of 1946, as amended \[former section 801 et seq. of Title 22, Foreign Relations and Intercourse\], the Foreign Service Act of 1980 \[section 3901 et seq. of Title 22\], or legislation that supplements or replaces the latter Act.
 
 #### Executive Order No. 11315
 
@@ -454,7 +454,7 @@ Ex. Ord. No. 12008, Aug. 25, 1977, 42 F.R. 43373, as amended by Ex. Ord. No. 121
 
 Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13024, Nov. 7, 1996, 61 F.R. 58125, provided:
 
-By virtue of the authority vested in me by Sections 3301 and 3302 of Title 5 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
+By virtue of the authority vested in me by Sections 3301 and 3302 of Title 5 of the United States Code, andas President of the United States of America, it is hereby ordered as follows:
 
 Section 1. As used in this order “career-related work-study programs” are those programs established by the Office of Personnel Management which provide for a formally-arranged schedule of periods of attendance at an accredited school combined with periods of career-related work in a Federal agency under a Schedule B appointment.
 
@@ -484,7 +484,7 @@ Ex. Ord. No. 12257, Dec. 18, 1980, 45 F.R. 84005, which provided for noncompetit
 
 #### Executive Order No. 12362
 
-Ex. Ord. No. 12362, May 12, 1982, 47 F.R. 21231, as amended by Ex. Ord. No. 12585, Mar. 3, 1987, 52 F.R. 6773,which related to appointment to competitive status of certain overseas employees upon return to the United States, was revoked by Ex. Ord. No. 12721, July 30, 1990, 55 F.R. 31349, set out below.
+Ex. Ord. No. 12362, May 12, 1982, 47 F.R. 21231, as amended by Ex. Ord. No. 12585, Mar. 3, 1987, 52 F.R. 6773, which related to appointment to competitive status of certain overseas employees upon return to the United States, was revoked by Ex. Ord. No. 12721, July 30, 1990, 55 F.R. 31349, set out below.
 
 #### Executive Order No. 12364
 
@@ -534,7 +534,7 @@ Ex. Ord. No. 12718, June 29, 1990, 55 F.R. 27451, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to provide a continuing source of advice on the public service from outstanding leaders in various walks of private life, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. The President's Advisory Commission on the Public Service (“Commission”) is hereby established. The Commission shall be comprised of 13 members to be appointed by the President from among leading citizens in private life. The members shall be appointed for 2-year terms, except that initial appointments shall include six members appointed to serve 1-year terms. Any vacancy in the Commission shall be filled by an appointment for the remainder of the term for which the original appointment was made, and a member whose term has expired may serve until his or her successor has been appointed. The President shall designate one of the members of the Commission to serve as Chairperson.
+Section 1. <i>Establishment</i>. The President's Advisory Commission on the Public Service (“Commission”) is hereby established. The Commission shall be comprised of 13 members to be appointed by the President from among leading citizens in private life. The members shall be appointed for 2-year terms, except that initialappointments shall include six members appointed to serve 1-year terms. Any vacancy in the Commission shall be filled by an appointment for the remainder of the term for which the original appointment was made, and a member whose term has expired may serve until his or her successor has been appointed. The President shall designate one of the members of the Commission to serve as Chairperson.
 
 Sec. 2. <i>Functions</i>. (a) The Commission shall meet from time to time at the request of the Chairperson and shall consider ways to enhance the public service in American life, including:
 
@@ -606,7 +606,7 @@ Ex. Ord. No. 13162, July 6, 2000, 65 F.R. 43211, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and in order to provide for the recruitment and selection of exceptional employees for careers in the public sector, it is hereby ordered as follows:
 
-Section 1. There is hereby constituted the Federal Career Intern Program (Program). The purpose of the Program is to attract exceptional men and women to the Federal workforce who have diverse professional experiences, academic training, and competencies, and to prepare them for careers in analyzing and implementing public programs. “Career Intern” is a generic term, and agencies may use occupational titles as appropriate.
+Section 1. There is hereby constituted the Federal Career Intern Program (Program). The purpose of theProgram is to attract exceptional men and women to the Federal workforce who have diverse professional experiences, academic training, and competencies, and to prepare them for careers in analyzing and implementing public programs. “Career Intern” is a generic term, and agencies may use occupational titles as appropriate.
 
 Sec. 2. The Program is another step in the Administration's effort to recruit the highest caliber people to the Federal Government, develop their professional abilities, and retain them in Federal departments and agencies. Cabinet secretaries and agency administrators should view the Program as complementary to existing programs that provide career enhancement opportunities for Federal employees, and departments and agencies are encouraged to identify and make use of those programs, as well as the new Program, to meet department and agency needs.
 

@@ -8,7 +8,7 @@ Except as provided in subsection (d) of this section, the plan administrator of 
 
 &emsp;(2) request that the corporation determine the liability of all persons with respect to the withdrawal of the substantial employer.
 
-> The corporation shall, as soon as practicable thereafter, determine whether there is liability resulting from the withdrawal of the substantial employer and notify the liable persons of such liability.
+> The corporation shall, as soon as practicable thereafter, determine whether there is liability resulting from the withdrawal of the substantialemployer and notify the liable persons of such liability.
 
 #### (b) Computation of liability
 

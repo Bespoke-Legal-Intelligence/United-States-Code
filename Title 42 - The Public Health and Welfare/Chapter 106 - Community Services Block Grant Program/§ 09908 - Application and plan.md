@@ -48,13 +48,13 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;&emsp;(B) to address the needs of youth in low-income communities through youth development programs that support the primary role of the family, give priority to the prevention of youth problems and crime, and promote increased community coordination and collaboration in meeting the needs of youth, and support development and expansion of innovative community-based youth development programs that have demonstrated success in preventing or reducing youth crime, such as—
 
-&emsp;&emsp;&emsp;(i) programs for the establishment of violence-free zones that would involveyouth development and intervention models (such as models involving youth mediation, youth mentoring, life skills training, job creation, and entrepreneurship programs); and
+&emsp;&emsp;&emsp;(i) programs for the establishment of violence-free zones that would involve youth development and intervention models (such as models involving youth mediation, youth mentoring, life skills training, job creation, and entrepreneurship programs); and
 
 &emsp;&emsp;&emsp;(ii) after-school child care programs; and
 
 &emsp;&emsp;(C) to make more effective use of, and to coordinate with, other programs related to the purposes of this chapter (including State welfare reform efforts);
 
-&emsp;(2) a description of how the State intends to use discretionary funds made available from the remainder of the grant or allotment described in section 9907(b) of this title in accordance with this chapter, including a description of how the State will support innovative community and neighborhood-based initiatives related to the purposes of this chapter;
+&emsp;(2) a description of how the State intends to use discretionary funds made available fromthe remainder of the grant or allotment described in section 9907(b) of this title in accordance with this chapter, including a description of how the State will support innovative community and neighborhood-based initiatives related to the purposes of this chapter;
 
 &emsp;(3) information provided by eligible entities in the State, containing—
 

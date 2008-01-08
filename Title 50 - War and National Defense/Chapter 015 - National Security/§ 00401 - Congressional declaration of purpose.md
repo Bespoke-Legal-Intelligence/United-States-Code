@@ -38,7 +38,7 @@ Pub. L. 108–458, title I, subtitle H, Dec. 17, 2004, 118 Stat. 3697, as amende
 
 “(a)
 
-Transfer.—There shall be transferred to the Office of the Director of National Intelligence such staff of the Community Management Staff as of the date ofthe enactment of this Act \[Dec. 17, 2004\] as the Director of National Intelligence determines to be appropriate, including all functions and activities discharged by the Community Management Staff as of that date.
+Transfer.—There shall be transferred to the Office of the Director of National Intelligence such staff of the Community Management Staff as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Director of National Intelligence determines to be appropriate, including all functions and activities discharged by the Community Management Staff as of that date.
 
 “(b)
 
@@ -136,7 +136,7 @@ Section 310 of act July 26, 1947, provided:
 
 “(a) The first sentence of section 202(a) \[section 171a of former Title 5, Executive Departments and Government Officers and Employees\] and sections 1, 2, 307, 308, 309, and 310 \[section 171 note of former Title 5, section 361 of this title, and sections 171m and 171n of former Title 5\] shall take effect immediately upon the enactment of this Act \[July 26, 1947\].
 
-“(b) Except as provided in subsection (a), the provisions of this Act \[sections 171 to 171<i>l</i>, 181–1, 181–2, 411a, 411b, 626 to 626d of former Title 5, section 24 of Title 3,The President, and sections 401 to 405 of this title\] shall take effect on whichever of the following days is the earlier: The day after the day upon which the Secretary of Defense first appointed takes office, or the sixtieth day after the date of the enactment of this Act \[July 26, 1947\].”
+“(b) Except as provided in subsection (a), the provisions of this Act \[sections 171 to 171<i>l</i>, 181–1, 181–2, 411a, 411b, 626 to 626d of former Title 5, section 24 of Title 3, The President, and sections 401 to 405 of this title\] shall take effect on whichever of the following days is the earlier: The day after the day upon which the Secretary of Defense first appointed takes office, or the sixtieth day after the date of the enactment of this Act \[July 26, 1947\].”
 
 #### Short Title of 2004 Amendment
 
@@ -277,7 +277,7 @@ Similar provisions were contained in Pub. L. 107–306, title I, §108, Nov. 27,
 
 #### National Commission for Review of Research and Development Programs of the United States Intelligence Community
 
-Pub. L. 107–306, title X, Nov. 27, 2002, 116 Stat. 2437, as amended by Pub. L. 108–177, title III, §315(a), Dec. 13,2003, 117 Stat. 2610, established the National Commission for the Review of the Research and Development Programs of the United States Intelligence Community to review the status of research and development programs and activities within the intelligence community, directed the Commission to submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report on such review not later than Sept. 1, 2004, provided that the Commission was to terminate at the end of the 120-day period beginning on the date on which the final report was transmitted to the congressional intelligence committees, and directed the Director of Central Intelligence and the Secretary of Defense to each submit to the congressional intelligence committees an assessment of the final report not later than 60 days after receipt.
+Pub. L. 107–306, title X, Nov. 27, 2002, 116 Stat. 2437, as amended by Pub. L. 108–177, title III, §315(a), Dec. 13, 2003, 117 Stat. 2610, established the National Commission for the Review of the Research and Development Programs of the United States Intelligence Community to review the status of research and development programs and activities within the intelligence community, directed the Commission to submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report on such review not later than Sept. 1, 2004, provided that the Commission was to terminate at the end of the 120-day period beginning on the date on which the final report was transmitted to the congressional intelligence committees, and directed the Director of Central Intelligence and the Secretary of Defense to each submit to the congressional intelligence committees an assessment of the final report not later than 60 days after receipt.
 
 #### National Commission for the Review of the National Reconnaissance Office
 
@@ -363,7 +363,7 @@ Number and Appointment.—The Commission shall be composed of 10 members, as fol
 
 “(b)
 
-Qualifications.—Persons appointed to the Commission shall be persons who are not officers or employees of the Federal Government (including Members of Congress) and who are specially qualified to serve on the Commission by virtue of their education, training, or experience.
+Qualifications.—Persons appointed to the Commission shall be persons who are not officers or employees of the Federal Government (including Members of Congress) and who are specially qualified to serve onthe Commission by virtue of their education, training, or experience.
 
 “(c)
 
@@ -826,9 +826,9 @@ In order to discharge the duties and responsibilities prescribed by law, the Dir
 
 (3) After consultation with the heads of relevant departments, report periodically, and not less often than semiannually, to the President on the effectiveness of implementation of the NFIP Program by organizations within the Intelligence Community, for which purpose the heads of departments and agencies shall ensure that the Director has access to programmatic, execution, and other appropriate information.
 
-(q) Together with the Secretary of Defense, ensure that there is no unnecessary overlap between national foreign intelligence programs and Department of Defense intelligence programs consistent with the requirement to develop competitive analysis, and provide to and obtain from the Secretary of Defense all information necessary for this purpose;
+(q) Together with the Secretary of Defense, ensure that there is no unnecessary overlap between nationalforeign intelligence programs and Department of Defense intelligence programs consistent with the requirement to develop competitive analysis, and provide to and obtain from the Secretary of Defense all information necessary for this purpose;
 
-(r) In accordance with law and relevant procedures approved by the Attorney General under this Order, give the heads of the departments and agencies access to all intelligence, developed by the CIA or the staffelements of the Director of Central Intelligence, relevant to the national intelligence needs of the departments and agencies; and
+(r) In accordance with law and relevant procedures approved by the Attorney General under this Order, give the heads of the departments and agencies access to all intelligence, developed by the CIA or the staff elements of the Director of Central Intelligence, relevant to the national intelligence needs of the departments and agencies; and
 
 (s) Facilitate the use of national foreign intelligence products by Congress in a secure manner.
 
@@ -1250,7 +1250,7 @@ For the purposes of this Order, the following terms shall have these meanings:
 
 Purpose and Effect
 
-This Order is intended to control and provide direction and guidance to the Intelligence Community. Nothing contained herein or in any procedures promulgated hereunder is intended to confer any substantive or procedural right or privilege on any person or organization.
+This Order is intended to control and provide direction and guidance to the Intelligence Community.Nothing contained herein or in any procedures promulgated hereunder is intended to confer any substantive or procedural right or privilege on any person or organization.
 
 #### 3\.6
 
@@ -1302,13 +1302,93 @@ Sec. 2.4. The heads of departments and agencies of the Intelligence Community, t
 
 #### PART III. GENERAL PROVISIONS
 
-Sec. 3.1. Information made available to the PFIAB, or members of the PFIAB acting in their IOB capacity, shall be given all necessary security protection in accordance with applicable laws and regulations. Each member of the PFIAB, each member of the PFIAB's staff and each of the PFIAB's consultants shall execute an agreement never to reveal any classified information obtained by virtue of his or her services with the PFIAB except to the President or to such persons as the President may designate.
+Sec. 3.1. Information made available to the PFIAB, or members of the PFIAB acting in their IOB capacity, shall be given all necessary security protection in accordance with applicable laws and regulations. Each member of the PFIAB, each member of the PFIAB's staff and each of the PFIAB's consultants shall executean agreement never to reveal any classified information obtained by virtue of his or her services with the PFIAB except to the President or to such persons as the President may designate.
 
 Sec. 3.2. Members of the PFIAB shall serve without compensation but may receive transportation expenses and per diem allowance as authorized by law. Staff and consultants to the PFIAB shall receive pay and allowances as authorized by the President.
 
 Sec. 3.3. Executive Order No. 12334 of December 4, 1981, as amended, and Executive Order No. 12537 of October 28, 1985, as amended \[50 U.S.C. 403 note\], are revoked.
 
 Sec. 3.4. This order is intended only to improve the internal management of the executive branch of the Federal Government, and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
+
+#### Ex. Ord. No. 13434. National Security Professional Development
+
+Ex. Ord. No. 13434, May 17, 2007, 72 F.R. 28583, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to enhance the national security, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. In order to enhance the national security of the United States, including preventing, protecting against, responding to, and recovering from natural and manmade disasters, such as acts of terrorism, it is the policy of the United States to promote the education, training, and experience of current and future professionals in national security positions (security professionals) in executive departments and agencies (agencies).
+
+Sec. 2. <i>National Strategy for Professional Development</i>. Not later than 60 days after the date of this order, the Assistant to the President for Homeland Security and Counterterrorism (APHS/CT), in coordination with the Assistant to the President for National Security Affairs (APNSA), shall submit to the President for approval a National Strategy for the Development of Security Professionals (National Strategy). The National Strategy shall set forth a framework that will provide to security professionals access to integrated education, training, and professional experience opportunities for the purpose of enhancing their mission-related knowledge, skills, and experience and thereby improve their capability to safeguard the security of the Nation. Such opportunities shall be provided across organizations, levels of government, and incident management disciplines, as appropriate.
+
+Sec. 3. <i>Executive Steering Committee</i>. (a) There is established the Security Professional Development Executive Steering Committee (Steering Committee), which shall facilitate the implementation of the National Strategy. Not later than 120 days after the approval of the National Strategy by the President, the Steering Committee shall submit to the APHS/CT and the APNSA an implementation plan (plan) for the National Strategy, and annually thereafter shall submit to the APHS/CT and the APNSA a status report on the implementation of the plan and any recommendations for changes to the National Strategy.
+
+(b) The Steering Committee shall consist exclusively of the following members (or their designees who shall be full-time officers or employees of the members’ respective agencies):
+
+(i) the Director of the Office of Personnel Management, who shall serve as Chair;
+
+(ii) the Secretary of State;
+
+(iii) the Secretary of the Treasury;
+
+(iv) the Secretary of Defense;
+
+(v) the Attorney General;
+
+(vi) the Secretary of Agriculture;
+
+(vii) the Secretary of Labor;
+
+(viii) the Secretary of Health and Human Services;
+
+(ix) the Secretary of Housing and Urban Development;
+
+(x) the Secretary of Transportation;
+
+(xi) the Secretary of Energy;
+
+(xii) the Secretary of Education;
+
+(xiii) the Secretary of Homeland Security;
+
+(xiv) the Director of National Intelligence;
+
+(xv) the Director of the Office of Management and Budget; and
+
+(xvi) such other officers of the United States as the Chair of the Steering Committee may designate from time to time.
+
+(c) The Steering Committee shall coordinate, to the maximum extent practicable, national security professional development programs and guidance issued by the heads of agencies in order to ensure an integrated approach to such programs.
+
+(d) The Chair of the Steering Committee shall convene and preside at the meetings of the Steering Committee, set its agenda, coordinate its work, and, as appropriate to deal with particular subject matters, establish subcommittees of the Steering Committee that shall consist exclusively of members of the Steering Committee (or their designees under subsection (b) of this section), and such other full-time or permanent part-time officers or employees of the Federal Government as the Chair may designate.
+
+Sec. 4. <i>Responsibilities</i>. The head of each agency with national security functions shall:
+
+(a) identify and enhance existing national security professional development programs and infrastructure, and establish new programs as necessary, in order to fulfill their respective missions to educate, train, and employ security professionals consistent with the National Strategy and, to the maximum extent practicable, the plan and related guidance from the Steering Committee; and
+
+(b) cooperate with the Steering Committee and provide such information, support, and assistance as the Chair of the Steering Committee may request from time to time.
+
+Sec. 5. <i>Additional Responsibilities</i>. (a) Except for employees excluded by law, and subject to subsections (b), (c), and (d) of this section, the Director of the Office of Personnel Management, after consultation with the Steering Committee, shall:
+
+(i) consistent with applicable merit-based hiring and advancement principles, lead the establishment of a national security professional development program in accordance with the National Strategy and the plan that provides for interagency and intergovernmental assignments and fellowship opportunities and provides for professional development guidelines for career advancement; and
+
+(ii) issue to agencies rules and guidance or apply existing rules and guidance relating to the establishment of national security professional development programs to implement the National Strategy and the plan;
+
+(b) The Secretary of Defense shall issue rules or guidance on professional development programs for Department of Defense military personnel, including interagency and intergovernmental assignments and fellowship opportunities, to implement the National Strategy and the plan, as appropriate, and shall coordinate such programs, to the maximum extent practicable, with the Steering Committee;
+
+(c) The Secretary of State shall issue rules or guidance on national security professional development programs for the Foreign Service, including interagency and intergovernmental exchanges and fellowship opportunities, to implement the National Strategy and the plan, as appropriate, and shall coordinate such programs, to the maximum extent practicable, with the Steering Committee;
+
+(d) The Director of National Intelligence, in coordination with the heads of agencies of which elements of the intelligence community are a part, shall issue rules or guidance on national security professional development programs for the intelligence community, including interagency and intergovernmental assignmentsand fellowship opportunities, to implement the National Strategy and the plan, as appropriate, and shall coordinate such programs, to the maximum extent practicable, with the Steering Committee; and
+
+(e) The Secretary of Homeland Security shall develop a program to provide to Federal, State, local, and tribal government officials education in disaster preparedness, response, and recovery plans and authorities, and training in crisis decision-making skills, consistent with applicable presidential guidance.
+
+Sec. 6. <i>General Provisions</i>. This order:
+
+(a) shall be implemented consistent with applicable law and authorities of agencies, or heads of agencies, vested by law, and subject to the availability of appropriations;
+
+(b) shall not be construed to impair or otherwise affect the authorities of any agency, instrumentality, officer, or employee of the United States under applicable law, including the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals, or the functions assigned by the President to the Director of the Office of Personnel Management; and
+
+(c) is not intended to, and does not, create any right, benefit, or privilege, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Effective Dates of Provisions in Title I of the Intelligence Reform and Terrorism Prevention Act of 2004
 

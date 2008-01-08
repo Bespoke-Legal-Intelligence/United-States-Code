@@ -22,7 +22,7 @@ Except as provided in subsection (b) of this section, the park shall include the
 
 (2) The Secretary may not delete or convey the lands referred to in paragraph (1)(E) unless, prior to or simultaneously with such deletion or conveyance and in consideration of such conveyance, the State of Minnesota—
 
-&emsp;(A) tenders a conveyance of the lands described in paragraph (1)(C) and (D) to the United States by such instrument and in such manner as are satisfactory to the Secretary, including but not limited to lease or easement: <i>Provided</i>, That if the interest conveyed is a lease or easement, the State of Minnesota shall substitute therefore a transfer of all right, title, and interest in the land by June 30, 1987: <i>Provided further</i>, That if the State does not transfer all right, title, and interest in such lands by June 30, 1987, the land described in paragraph 1(E) shall revert to the United States for administration by the Secretary as part of the park; and
+&emsp;(A) tenders a conveyance of the lands described in paragraph (1)(C) and (D) to the United States by such instrument and in such manner as are satisfactory to the Secretary, including but not limited to lease or easement: <i>Provided</i>, That if the interest conveyed is a lease or easement, the State of Minnesota shall substitute therefore a transfer of all right, title, and interest in the land by June 30, 1987: <i>Provided further</i>, That if the State does not transfer all right, title, and interest in such lands by June 30, 1987, the land described in paragraph 1(E) <sup>1</sup> shall revert to the United States for administration by the Secretary as part of the park; and
 
 &emsp;(B) enters into a recordable agreement satisfactory to the Secretary which provides that—
 
@@ -47,4 +47,6 @@ Provisions of section 102 of Pub. L. 91–661 \[this section\] were formerly set
 1983—Subsec. (a). Pub. L. 97–405, §1(1), substituted “(a) Except as provided in subsection (b) of this section, the park” for “The park”.
 
 Subsec. (b). Pub. L. 97–405, §1(2), added subsec. (b).
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(1)(E)”.</i>
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(II) the amount determined under section 6083(a)(2) of this title, plus interest; or
 
-&emsp;&emsp;&emsp;(III) the fair market value of that property, calculated as being either the current value of the property, or the value of the property when confiscated plus interest, whichever is greater; and
+&emsp;&emsp;&emsp;(III) the fair market value of that property, calculated as being either the current value of the property, or the value ofthe property when confiscated plus interest, whichever is greater; and
 
 &emsp;&emsp;(ii) court costs and reasonable attorneys’ fees.
 
@@ -56,7 +56,7 @@
 
 #### (4) Applicability
 
-&emsp;(A) Except as otherwise provided in this paragraph, actions may be brought underparagraph (1) with respect to property confiscated before, on, or after March 12, 1996.
+&emsp;(A) Except as otherwise provided in this paragraph, actions may be brought under paragraph (1) with respect to property confiscated before, on, or after March 12, 1996.
 
 &emsp;(B) In the case of property confiscated before March 12, 1996, a United States national may not bring an action under this section on a claim to the confiscated property unless such national acquires ownership of the claim before March 12, 1996.
 
@@ -114,7 +114,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 &emsp;&emsp;(A) any United States national that brings an action under this section may not bring any other civil action or proceeding under the common law, Federal law, or the law of any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States, that seeks monetary or nonmonetary compensation by reason of the same subject matter; and
 
-&emsp;&emsp;(B) any person who brings, under the common law or any provision of law other thanthis section, a civil action or proceeding for monetary or nonmonetary compensation arising out of a claim for which an action would otherwise be cognizable under this section may not bring an action under this section on that claim.
+&emsp;&emsp;(B) any person who brings, under the common law or any provision of law other than this section, a civil action or proceeding for monetary or nonmonetary compensation arising out of a claim for which an action would otherwise be cognizable under this section may not bring an action under this section on that claim.
 
 #### (2) Treatment of certified claimants
 
@@ -130,7 +130,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 #### (g) Deposit of excess payments by Cuba under claims agreement
 
-Any amounts paid by Cuba under any agreement entered into between the United States and Cuba settling certified claims under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] that are in excess of the payments made on such certified claims after the application of subsection (f) of this section shall be deposited into the United States Treasury.
+Any amounts paid by Cuba under any agreement entered into between the United States and Cuba settling certified claims under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] that are in excess of the payments made on such certified claimsafter the application of subsection (f) of this section shall be deposited into the United States Treasury.
 
 #### (h) Termination of rights
 

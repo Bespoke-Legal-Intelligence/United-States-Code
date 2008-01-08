@@ -86,7 +86,7 @@ It is unlawful—
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, as amended by Pub. L. 104–297, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3621, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regu</i><i>lations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
+<i>Pub. L. 102–251, title III, §§301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, as amended by Pub. L. 104–297, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3621, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
 
 <i>(1) in paragraph (1)(K), by inserting “or special areas” immediately after “exclusive economic zone”;</i>
 

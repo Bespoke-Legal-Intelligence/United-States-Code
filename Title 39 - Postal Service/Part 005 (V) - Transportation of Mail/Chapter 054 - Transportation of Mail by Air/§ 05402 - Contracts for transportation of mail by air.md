@@ -76,11 +76,11 @@
 
 (c) When the Postal Service deems that the transportation of mail by aircraft is required between points in foreign air transportation between which the Secretary has not authorized an air carrier or combination of air carriers to engage in the transportation of mail, it may contract with any air carrier in such manner and under such terms and conditions as it may deem appropriate for the transportation of any class or classes of mail. The transportation of mail under contracts entered into under this subsection is not, except for sections 40109(a) and (c)–(h) and 42112 of title 49, air transportation within the provisions of part A of subtitle VII of title 49. The Postal Service shall cancel such contract, in whole or in respect to certain points as the certificate shall require, upon the issuance by the Secretary of an authorization under chapters 411 and 413 of title 49 to any air carrier to engage in the transportation of mail by aircraft between any of the points named in the contract, and the inauguration of scheduled service by such carrier.
 
-(d) If the Postal Service determines that service by certificated air carriers or combination of air carriers between any pair or pairs of points in foreign air transportation is not adequate for its purposes, it may contract, without advertising for bids, in such manner and under such terms and conditions as it may deem appropriate, with any air taxi operator or combination thereof for such air transportation service. Contracts made under this subsection may be renewed at the existing rate by mutual agreement between the holder and the Postal Service. The Postal Service, with the consent of the air taxi operator, may adjust the compensation under such contracts for increased or decreased costs occasioned by changed conditions occurring during the contract term. The Postal Service shall cancel such a contract when the Secretary authorizes an additional certificated carrier or carriers to provide service between any pair or pairs of points covered by the contract, and such carrier or carriers inaugurate schedules adequate for its purposes.
+(d) If the Postal Service determines that service by certificated air carriers or combination of air carriers between any pair or pairs of points in foreign air transportation is not adequate for its purposes, it may contract, without advertising for bids, in such manner and under such terms and conditions as it may deem appropriate, with any air taxi operator or combination thereof for such air transportation service. Contracts made under this subsection may be renewed at the existing rate by mutual agreement between the holder and the Postal Service. The Postal Service, with the consent of the air taxi operator, may adjust the compensation under such contracts for increased or decreased costs occasioned by changed conditions occurring during the contract term. The Postal Service shall cancel such a contract when the Secretary authorizes an additional certificated carrier or carriers to provide service between any pair or pairs of points covered by the contract,and such carrier or carriers inaugurate schedules adequate for its purposes.
 
 (e)(1) The Postal Service may determine rates and contract with any air carrier for the transportation of mail by aircraft in interstate air transportation either through negotiations or competitive bidding.
 
-(2)(A) In the exercise of its authority under paragraph (1), the Postal Service may require any air carrier to accept as mail shipments of day-old poultry, honeybees, and such other liveanimals as postal regulations allow to be transmitted as mail matter. The authority of the Postal Service under this subparagraph shall not apply in the case of any air carrier who commonly and regularly refuses to accept any live animals as cargo.
+(2)(A) In the exercise of its authority under paragraph (1), the Postal Service may require any air carrier to accept as mail shipments of day-old poultry, honeybees, and such other live animals as postal regulations allow to be transmitted as mail matter. The authority of the Postal Service under this subparagraph shall not apply in the case of any air carrier who commonly and regularly refuses to accept any live animals as cargo.
 
 (B) Notwithstanding any other provision of law, the Postal Service is authorized to assess, as postage to be paid by the mailers of any shipments covered by subparagraph (A), a reasonable surcharge that the Postal Service determines in its discretion to be adequate to compensate air carriers for any necessary additional expense incurred in handling such shipments.
 
@@ -204,7 +204,7 @@
 
 &emsp;(i) meets the requirements of subsection (g)(1)(A)(iv)(II); and
 
-&emsp;(ii) has provided at least 75 percent of the number of insured passenger seats as the number of available passenger seats being provided by the mainline passenger carrier providing the greatest number of available passenger seats on that route for the 6 months immediately preceding the date on which the carrier seeks tender of such mail.
+&emsp;(ii) has provided at least 75 percent of the number of insured passenger seats as the number of available passenger seats being provided by the mainline passenger carrier providing the greatest number of available passengerseats on that route for the 6 months immediately preceding the date on which the carrier seeks tender of such mail.
 
 (B) A new 121 mainline passenger carrier that is tendered nonpriority mainline bypass mail under subparagraph (A)—
 
@@ -308,7 +308,7 @@
 
 &emsp;(B) the amount of nonpriority bypass mail available for tender among qualified carriers under subsection (i) shall be 25 percent.
 
-(3)(A) Except as provided by subparagraph (B), the percentage rate under paragraph (1) shall be0 percent beginning 3 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002.
+(3)(A) Except as provided by subparagraph (B), the percentage rate under paragraph (1) shall be 0 percent beginning 3 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002.
 
 (B) The percentage rate under paragraph (1) shall remain 10 percent for equitable tender for 6 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002 for a nonpriority bypass mail carrier on routes served exclusively by bush carriers in the State of Alaska originating from the main hub of the carrier designated under subparagraph (C), if the carrier seeking the tender of such mail—
 
@@ -360,9 +360,9 @@
 
 (p)(1) The Postal Service or the Secretary, in carrying out subsection (g)(2), (h), or (i), may deny equitable tender to an otherwise qualified carrier that does not operate under this section in good faith or under the intent of this section.
 
-(2) The Postal Service or the Secretary may waive any provision of subsection (h) or (i), if the carrier provides substantial passenger or nonmail freight service on the route in the State of Alaska where the carrier seeks tender of nonpriority mail and nonpriority bypass mail.
+(2) The Postal Service or the Secretary may waive any provision of subsection (h) or (i), ifthe carrier provides substantial passenger or nonmail freight service on the route in the State of Alaska where the carrier seeks tender of nonpriority mail and nonpriority bypass mail.
 
-(3) To ensure adequate competition among passenger carriers on a mainline route in the State of Alaska the Postal Service or the Secretary may waive the requirements of subsection (g)(1)(A)(iv), (g)(2)(E), (g)(4), or (g)(5), orany provision of subsection (h) if a 121 bush passenger carrier seeks tender of nonpriority bypass mail on a mainline route in the State of Alaska not served by a 121 mainline passenger carrier and the 121 bush passenger carrier provides substantial passenger service on the route. Waivers provided for under this paragraph shall be granted only in extreme cases of lack of competition and only to extent that are absolutely necessary to meet the minimum needs of the community. Waivers granted under this subsection shall cease to be valid once a qualified mainline passenger carrier begins providing service and seeks tender of nonpriority bypass mail in accordance with this section on the city pair route. The receipt of waivers and subsequent operation of service on a city pair route under this subsection shall not be counted towards meeting the requirements of any part of this section for any other city pair route.
+(3) To ensure adequate competition among passenger carriers on a mainline route in the State of Alaska the Postal Service or the Secretary may waive the requirements of subsection (g)(1)(A)(iv), (g)(2)(E), (g)(4), or (g)(5), or any provision of subsection (h) if a 121 bush passenger carrier seeks tender of nonpriority bypass mail on a mainline route in the State of Alaska not served by a 121 mainline passenger carrier and the 121 bush passenger carrier provides substantial passenger service on the route. Waivers provided for under this paragraph shall be granted only in extreme cases of lack of competition and only to extent that are absolutely necessary to meet the minimum needs of the community. Waivers granted under this subsection shall cease to be valid once a qualified mainline passenger carrier begins providing service and seeks tender of nonpriority bypass mail in accordance with this section on the city pair route. The receipt of waivers and subsequent operation of service on a city pair route under this subsection shall not be counted towards meeting the requirements of any part of this section for any other city pair route.
 
 (4) In granting waivers for or denying tender to carriers under this subsection, the Postal Service or the Secretary shall consider in the following order of importance—
 
@@ -522,7 +522,7 @@ Pub. L. 107–206, title III, §3002(g), Aug. 2, 2002, 116 Stat. 924, provided t
 
 “(1)
 
-In general.—Except as provided under paragraph (2), this title \[amending this section, section 2703 of Title 19, Customs Duties, section 1626 of Title 43, PublicLands, and section 41901 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 101 of this title, section 112 of Title 1, General Provisions, and sections 2703 and 3203 of Title 19\] (including the amendments made by this title) shall take effect on the date of enactment of this Act \[Aug. 2, 2002\].
+In general.—Except as provided under paragraph (2), this title \[amending this section, section 2703 of Title 19, Customs Duties, section 1626 of Title 43, Public Lands, and section 41901 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 101 of this title, section 112 of Title 1, General Provisions, and sections 2703 and 3203 of Title 19\] (including the amendments made by this title) shall take effect on the date of enactment of this Act \[Aug. 2, 2002\].
 
 “(2)
 
@@ -600,7 +600,7 @@ Pub. L. 107–206, title III, §3002(d), Aug. 2, 2002, 116 Stat. 923, provided t
 
 #### Reports to Congress
 
-Pub. L. 107–206, title III, §3002(f), Aug. 2, 2002, 116 Stat. 924, provided that, not later than 18 months after Aug. 2, 2002, the Postal Service and the Secretary of Transportation were to submit a report to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate on the progress of implementing title III of Pub. L. 107–206.
+Pub. L. 107–206, title III, §3002(f), Aug. 2, 2002, 116 Stat. 924, provided that, not later than 18 months after Aug. 2, 2002, the Postal Service and the Secretary of Transportation were to submit a report to the Committee on Government Reform (now Committee on Oversight and Government Reform) of the House of Representatives and the Committee on Governmental Affairs of theSenate on the progress of implementing title III of Pub. L. 107–206.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

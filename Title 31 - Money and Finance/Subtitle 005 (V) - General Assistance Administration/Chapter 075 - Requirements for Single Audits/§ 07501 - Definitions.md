@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) Compliance with applicable laws and regulations;
 
-&emsp;(11) “local government” means any unit of local government within a State, including a county, borough, municipality, city, town,township, parish, local public authority, special district, school district, intrastate district, council of governments, any other instrumentality of local government and, in accordance with guidelines issued by the Director, a group of local governments;
+&emsp;(11) “local government” means any unit of local government within a State, including a county, borough, municipality, city, town, township, parish, local public authority, special district, school district, intrastate district, council of governments, any other instrumentality of local government and, in accordance with guidelines issued by the Director, a group of local governments;
 
 &emsp;(12) “major program” means a Federal program identified in accordance with risk-based criteria prescribed by the Director under this chapter, subject to the limitations described under subsection (b);
 
@@ -84,9 +84,9 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probabl
 
 Section 1(a) of Pub. L. 104–156 provided that: “This Act \[amending this chapter and enacting provisions set out as notes below\] may be cited as the ‘Single Audit Act Amendments of 1996’.”
 
-#### Short Title
+#### Short Title of 1984 Amendment
 
-Section 1(a) of Pub. L. 98–502 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Single Audit Act of 1984’.”
+Pub. L. 98–502, §1(a), Oct. 19, 1984, 98 Stat. 2327, provided that: “This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Single Audit Act of 1984’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -110,7 +110,7 @@ Section 1(b) of Pub. L. 104–156 provided that: “The purposes of this Act \[s
 
 &emsp;“(5) ensure that Federal departments and agencies, to the maximum extent practicable, rely upon and use audit work done pursuant to chapter 75 of title 31, United States Code (as amended by this Act).”
 
-Section 1(b) of Pub. L. 98–502 provided that: “It is the purpose of this Act \[enacting this chapter\]—
+Pub. L. 98–502, §1(b), Oct. 19, 1984, 98 Stat. 2327, provided that: “It is the purpose of this Act \[enacting this chapter and provisions set out as notes under this section\]—
 
 &emsp;“(1) to improve the financial management of State and local governments with respect to Federal financial assistance programs;
 
@@ -122,7 +122,7 @@ Section 1(b) of Pub. L. 98–502 provided that: “It is the purpose of this Act
 
 #### Tennessee Valley Authority Audits Unaffected by Single Audit Requirements
 
-Section 2(b) of Pub. L. 98–502 provided that: “The provisions of this Act \[enacting this chapter\] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct its own audits of any matter involving funds disbursed by the Tennessee Valley Authority.”
+Pub. L. 98–502, §2(b), Oct. 19, 1984, 98 Stat. 2334, provided that: “The provisions of this Act \[enacting this chapter and provisions set out as notes under this section\] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct its own audits of any matter involving funds disbursed by the Tennessee Valley Authority.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

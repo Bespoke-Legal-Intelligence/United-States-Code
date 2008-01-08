@@ -38,7 +38,7 @@ Any person in possession of (or obligated with respect to) property or rights to
 
 #### (f) Person defined
 
-The term “person,” as used in subsection (a), includes an officer or employee of a corporationor a member or employee of a partnership, who as such officer, employee, or member is under a duty to surrender the property or rights to property, or to discharge the obligation.
+The term “person,” as used in subsection (a), includes an officer or employee of a corporation or a member or employee of a partnership, who as such officer, employee, or member is under a duty to surrender the property or rights to property, or to discharge the obligation.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 784; Pub. L. 89–719, title I, §104(b), Nov. 2, 1966, 80 Stat. 1135; Pub. L. 93–625, §7(a)(2)(D), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XII, §1209(d)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1710, 1834; Pub. L. 99–514, title XV, §1511(c)(9), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–647, title I, §1015(t)(1), title VI, §6236(e), Nov. 10, 1988, 102 Stat. 3573, 3739; Pub. L. 101–508, title XI, §11704(a)(27), Nov. 5, 1990, 104 Stat. 1388–519.)
 

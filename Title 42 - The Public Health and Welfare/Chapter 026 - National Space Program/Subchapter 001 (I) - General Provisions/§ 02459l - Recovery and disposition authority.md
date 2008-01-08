@@ -8,7 +8,7 @@
 
 #### (2) Treatment
 
-&emsp;Each crewmember shall provide the Administrator with his or her preferences regardingthe treatment accorded to his or her remains and the Administrator shall, to the extent possible, respect those stated preferences.
+&emsp;Each crewmember shall provide the Administrator with his or her preferences regarding the treatment accorded to his or her remains and the Administrator shall, to the extent possible, respect those stated preferences.
 
 #### (3) Construction
 

@@ -6,7 +6,7 @@ In any case in which a WTO member other than the United States requests consulta
 
 #### (b) Initiation of investigation
 
-(1) Upon the filing of a petition by an entity described in section 2252(a) of this title, upon the request of the President or the Trade Representative, upon resolution of either of the Committees, or on its own motion, the Commission shall promptly make an investigation to determine whether an action described in subsection (c) of this section has caused, or threatens to cause, a significant diversion of trade into the domestic market of the United States.
+(1) Upon the filing of a petition by an entity described in section 2252(a) of this title, uponthe request of the President or the Trade Representative, upon resolution of either of the Committees, or on its own motion, the Commission shall promptly make an investigation to determine whether an action described in subsection (c) of this section has caused, or threatens to cause, a significant diversion of trade into the domestic market of the United States.
 
 (2) The Commission shall publish notice of the commencement of any proceeding under this subsection in the Federal Register and shall, within a reasonable time thereafter, hold public hearings at which the Commission shall afford interested parties an opportunity to be present, to present evidence, to respond to the presentations of other parties, and otherwise to be heard.
 
@@ -98,7 +98,7 @@ Action taken under subsection (h) of this section shall be terminated not later 
 
 #### (j) Review of circumstances
 
-The Commission shall review the continued need for action taken under subsection (h) ofthis section if the WTO member or members involved notify the Committee on Safeguards of the WTO of any modification in the action taken by them against the People's Republic of China pursuant to consultation referred to in subsection (a) of this section. The Commission shall, not later than 60 days after such notification, determine whether a significant diversion of trade continues to exist and report its determination to the President. The President shall determine, within 15 days after receiving the Commission's report, whether to modify, withdraw, or keep in place the action taken under subsection (h) of this section.
+The Commission shall review the continued need for action taken under subsection (h) of this section if the WTO member or members involved notify the Committee on Safeguards of the WTO of any modification in the action taken by them against the People's Republic of China pursuant to consultation referred to in subsection (a) of this section. The Commission shall, not later than 60 days after such notification, determine whether a significant diversion of trade continues to exist and report its determination to the President. The President shall determine, within 15 days after receiving the Commission's report, whether to modify, withdraw, or keep in place the action taken under subsection (h) of this section.
 
 (Pub. L. 93–618, title IV, §422, as added Pub. L. 106–286, div. A, title I, §103(a)(3), Oct. 10, 2000, 114 Stat. 887; amended Pub. L. 108–429, title II, §2004(d)(4), Dec. 3, 2004, 118 Stat. 2592.)
 

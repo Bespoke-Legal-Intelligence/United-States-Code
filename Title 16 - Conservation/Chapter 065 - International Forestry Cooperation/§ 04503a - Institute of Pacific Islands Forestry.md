@@ -26,7 +26,7 @@ The Secretary shall expand the capabilities of and construct additional faciliti
 
 &emsp;&emsp;(D) the study of biological control of non-native species that degrade or destroy native forest ecosystems;
 
-&emsp;&emsp;(E) achieving a better understanding of global climate change and the significanceof achieving a reduction of greenhouse gases through research associated with the unique atmospheric conditions found in Hawaii and the Pacific Ocean;
+&emsp;&emsp;(E) achieving a better understanding of global climate change and the significance of achieving a reduction of greenhouse gases through research associated with the unique atmospheric conditions found in Hawaii and the Pacific Ocean;
 
 &emsp;&emsp;(F) a review of the extent to which existing Federal forestry programs can be utilized to achieve the purposes of the plan; and
 
@@ -59,10 +59,6 @@ A prior section 605 of Pub. L. 101–513 was renumbered section 609 and is class
 #### Amendments
 
 1994—Subsec. (b)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Hawaii Tropical Forest Recovery Task Force
 
@@ -108,7 +104,7 @@ Composition.—The Task Force shall be composed of 12 members, of whom—
 
 &emsp;“(1) three members shall be appointed by the Secretary of Agriculture, two of whom shall be representatives of the Forest Service and the Soil Conservation Service, respectively;
 
-&emsp;“(2) two members shall be appointed by the Secretary of the Interior as representatives of the United States Fish and Wildlife Service and the National Park Service, respectively;
+&emsp;“(2) two members shall be appointed by the Secretary of the Interior as representatives of the UnitedStates Fish and Wildlife Service and the National Park Service, respectively;
 
 &emsp;“(3) six members shall be appointed by the Governor of Hawaii, of whom—
 

@@ -16,7 +16,7 @@
 
 (3) This subsection applies to a medical officer or dental officer or an officer appointed in a medical skill other than as a medical officer or dental officer (as defined in regulations prescribed by the Secretary of Defense).
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2862; amended Pub. L. 107–107, div. A, title V, §505(d)(3), (4)(C), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 108–136, div. A, title V, §505(a), (b), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 108–375, div. A, title X, §1084(d)(6), Oct. 28, 2004, 118 Stat. 2061.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2862; amended Pub. L. 107–107, div. A,title V, §505(d)(3), (4)(C), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 108–136, div. A, title V, §505(a), (b), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 108–375, div. A, title X, §1084(d)(6), Oct. 28, 2004, 118 Stat. 2061.)
 
 #### Amendments
 

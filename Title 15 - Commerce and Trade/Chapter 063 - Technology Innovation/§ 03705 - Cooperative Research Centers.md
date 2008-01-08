@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall provide assistance for the establishment of Cooperative Research Centers. Such Centers shall be affiliated with any university, or other nonprofit institution, or groupthereof, that applies for and is awarded a grant or enters into a cooperative agreement under this section. The objective of the Centers is to enhance technological innovation through—
+The Secretary shall provide assistance for the establishment of Cooperative Research Centers. Such Centers shall be affiliated with any university, or other nonprofit institution, or group thereof, that applies for and is awarded a grant or enters into a cooperative agreement under this section. The objective of the Centers is to enhance technological innovation through—
 
 &emsp;(1) the participation of individuals from industry and universities in cooperative technological innovation activities;
 

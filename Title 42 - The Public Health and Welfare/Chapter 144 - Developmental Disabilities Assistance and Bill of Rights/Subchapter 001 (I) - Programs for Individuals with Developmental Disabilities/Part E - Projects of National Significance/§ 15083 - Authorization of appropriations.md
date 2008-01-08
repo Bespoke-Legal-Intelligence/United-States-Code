@@ -18,7 +18,7 @@ There are authorized to be appropriated to carry out the projects specified in t
 
 #### (1) In general
 
-&emsp;For each covered year, the Secretary shall expend, to provide technical assistance for entities funded under part B or D of this subchapter, an amount from funds appropriated under subsection (a) of this section that is not less than the amount the Secretary expendedon technical assistance for entities funded under that part (or a corresponding provision) in the previous fiscal year.
+&emsp;For each covered year, the Secretary shall expend, to provide technical assistance for entities funded under part B or D of this subchapter, an amount from funds appropriated under subsection (a) of this section that is not less than the amount the Secretary expended on technical assistance for entities funded under that part (or a corresponding provision) in the previous fiscal year.
 
 #### (2) Covered year
 

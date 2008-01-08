@@ -186,13 +186,13 @@ Subsec. (e). Pub. L. 95–227, §4(d)(1), inserted provisions relating to sectio
 
 Subsec. (f). Pub. L. 95–227, §4(d)(2), inserted references to chapters 41 and 44.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1204(c)(6), 1307(d)(2)(F)(iii), 1605(b)(6), 1906(a)(15), inserted “section 6851 or” before “section 6861” and references to chapter 41 and chapter 44 and substituted “United States” for “States of the Union and the District of Columbia”.
+1976—Subsec. (a). Pub. L. 94–455, §§1204(c)(6), 1307(d)(2)(F)(iii), 1605(b)(6), 1906(a)(15), inserted “section6851 or” before “section 6861” and references to chapter 41 and chapter 44 and substituted “United States” for “States of the Union and the District of Columbia”.
 
 Subsec. (b)(1). Pub. L. 94–455, §1206(a)(2), substituted in heading “Assessments arising out of mathematical or clerical errors” for “Mathematical errors” and in text inserted “or clerical” after “mathematical” in two places and inserted provision that each notice under this paragraph shall set forth the error alleged and an explanation thereof.
 
 Subsec. (b)(2). Pub. L. 94–455, §1206(a)(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 94–455, §§1206(a)(1), (c)(1), 1906(b)(13)(A), redesignated former par. (2) as (3), and asso redesignated, struck out “or his delegate” after “Secretary” and inserted “without regard to the provisions of paragraph (2)” after “he may assess” and “or clerical” after “mathematical”. Former par. (3) redesignated (4).
+Subsec. (b)(3). Pub. L. 94–455, §§1206(a)(1), (c)(1), 1906(b)(13)(A), redesignated former par. (2) as (3), and as so redesignated, struck out “or his delegate” after “Secretary” and inserted “without regard to the provisions of paragraph (2)” after “he may assess” and “or clerical” after “mathematical”. Former par. (3) redesignated (4).
 
 Subsec. (b)(4). Pub. L. 94–455, §1206(a)(1), redesignated former par. (3) as (4).
 
@@ -274,7 +274,7 @@ Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning 
 
 #### Effective Date of 1980 Amendments
 
-For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tiertax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
+For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
 
 Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 

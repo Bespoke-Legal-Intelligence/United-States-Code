@@ -20,7 +20,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;(C) conduct a national assessment and collect and report assessment data, including achievement data trends, in a valid and reliable manner on student academic achievement in public and private schools in reading and mathematics in grade 12 in regularly scheduled intervals, but at least as often as such assessments were conducted prior to January 8, 2002;
 
-&emsp;&emsp;(D) to the extent time and resources allow, and after the requirements described in subparagraph (B) are implemented and the requirements described in subparagraph (C) are met, conduct additional national assessments and collect and report assessment data, including achievement data trends, in a valid and reliable manner on student academic achievement in grades 4, 8, and 12 in public and private elementary schools and secondary schools in regularly scheduled intervals in additional subject matter, including writing, science, history, geography,civics, economics, foreign languages, and arts, and the trend assessment described in subparagraph (F);
+&emsp;&emsp;(D) to the extent time and resources allow, and after the requirements described in subparagraph (B) are implemented and the requirements described in subparagraph (C) are met, conduct additional national assessments and collect and report assessment data, including achievement data trends, in a valid and reliable manner on student academic achievement in grades 4, 8, and 12 in public and private elementary schools and secondary schools in regularly scheduled intervals in additional subject matter, including writing, science, history, geography, civics, economics, foreign languages, and arts, and the trend assessment described in subparagraph (F);
 
 &emsp;&emsp;(E) conduct the reading and mathematics assessments described in subparagraph (B) in the same year, and every other year thereafter, to provide for 1 year in which no such assessments are conducted in between each administration of such assessments;
 
@@ -162,13 +162,13 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (2) Student participation
 
-&emsp;Parents of children selected to participate in any assessment authorized under this section shall be informed before the administration of any authorized assessment, that their child may be excused from participation for any reason, is not required to finish any authorized assessment, and is not required to answer any test question.
+&emsp;Parents of children selected to participate in any assessment authorized under this section shall be informed before the administration ofany authorized assessment, that their child may be excused from participation for any reason, is not required to finish any authorized assessment, and is not required to answer any test question.
 
 #### (3) State participation
 
 #### (A) Voluntary
 
-&emsp;&emsp;Participation in assessments authorized under this section, other than reading andmathematics in grades 4 and 8, shall be voluntary.
+&emsp;&emsp;Participation in assessments authorized under this section, other than reading and mathematics in grades 4 and 8, shall be voluntary.
 
 #### (B) Agreement
 
@@ -244,11 +244,11 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (2) Report
 
-&emsp;The Secretary shall report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, the President, and the Nation on the findings and recommendations of such reviews.
+&emsp;The Secretary shall report to the Committee on Education and the Workforce of the Houseof Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, the President, and the Nation on the findings and recommendations of such reviews.
 
 #### (3) Use of findings and recommendations
 
-&emsp;The Commissioner for Education Statistics and the Assessment Board shall consider thefindings and recommendations of such reviews in designing the competition to select the organization, or organizations, through which the Commissioner for Education Statistics carries out the National Assessment.
+&emsp;The Commissioner for Education Statistics and the Assessment Board shall consider the findings and recommendations of such reviews in designing the competition to select the organization, or organizations, through which the Commissioner for Education Statistics carries out the National Assessment.
 
 #### (g) Coverage agreements
 
@@ -325,6 +325,10 @@ Subsec. (f)(1)(B)(iv). Pub. L. 107–279, §401(d)(7), substituted “section 96
 Subsec. (f)(3). Pub. L. 107–279, §401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
 
 Pub. L. 107–279, §401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” in two places.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2002 Amendment
 

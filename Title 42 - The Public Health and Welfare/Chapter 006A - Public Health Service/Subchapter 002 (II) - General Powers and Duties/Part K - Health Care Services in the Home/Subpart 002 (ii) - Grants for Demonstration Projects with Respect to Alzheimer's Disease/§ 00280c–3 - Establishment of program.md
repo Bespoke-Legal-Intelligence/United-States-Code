@@ -4,7 +4,7 @@
 
 The Secretary shall make grants to States for the purpose of assisting grantees in carrying out demonstration projects for planning, establishing, and operating programs—
 
-&emsp;(1) to coordinate the development and operation with public and private organizations of diagnostic, treatment, care management, respite care, legal counseling, and education services provided within the State to individuals with Alzheimer's disease or related disorders and to the families and care providers of such individuals;
+&emsp;(1) to coordinate the development and operation with public and private organizations ofdiagnostic, treatment, care management, respite care, legal counseling, and education services provided within the State to individuals with Alzheimer's disease or related disorders and to the families and care providers of such individuals;
 
 &emsp;(2) to provide home health care, personal care, day care, companion services, short-term care in health facilities, and other respite care to individuals with Alzheimer's disease or related disorders who are living in single family homes or in congregate settings;
 

@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish priorities with respect to the diseases, disorders, and other health conditions for which research and evaluations are to be conducted or supported under subsection (a) of this section. In establishing such priorities, the Secretary shall, with respect to a disease, disorder, or other health condition, consider the extent to which—
+&emsp;The Secretary shall establish priorities with respect to the diseases, disorders, and otherhealth conditions for which research and evaluations are to be conducted or supported under subsection (a) of this section. In establishing such priorities, the Secretary shall, with respect to a disease, disorder, or other health condition, consider the extent to which—
 
 &emsp;&emsp;(A) improved methods of prevention, diagnosis, treatment, and clinical management can benefit a significant number of individuals;
 
@@ -150,7 +150,7 @@ The Secretary may conduct or support research with respect to improving methods 
 
 #### References in Text
 
-Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b), were in the original references to sections 912 to 914 of act July 1, 1944, which were omitted in the general amendment of subchapter VII ofchapter 6A of this title by Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1653. Section 2(a) of Pub. L. 106–129 enacted new sections 912 to 914 of act July 1, 1944, which are classified to sections 299b–1 to 299b–3, respectively, of this title.
+Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b), were in the original references to sections 912 to 914 of act July 1, 1944, which were omitted in the general amendment of subchapter VII of chapter 6A of this title by Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1653. Section 2(a) of Pub. L. 106–129 enacted new sections 912 to 914 of act July 1, 1944, which are classified to sections 299b–1 to 299b–3, respectively, of this title.
 
 #### Codification
 

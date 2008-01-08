@@ -10,7 +10,7 @@ Eligible Costs.—The following costs of funding the correction of Coast Guard i
 
 &emsp;(1) Salary, benefits, overtime compensation, retirement contributions, and other costs of additional Coast Guard mandated security personnel.
 
-&emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8) <sup>1</sup> ), including those facilities insupport of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
+&emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8) <sup>1</sup> ), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
 
 &emsp;&emsp;(A) $1,000,000 per project; or
 
@@ -194,7 +194,7 @@ In general.—In conjunction with ongoing efforts to improve security at United 
 
 &emsp;&emsp;&emsp;(i) testing of new detection and screening technologies;
 
-&emsp;&emsp;&emsp;(ii) projects to protect United States ports and infrastructure on or adjacent tothe navigable waters of the United States, including underwater access; and
+&emsp;&emsp;&emsp;(ii) projects to protect United States ports and infrastructure on or adjacent to the navigable waters of the United States, including underwater access; and
 
 &emsp;&emsp;&emsp;(iii) tools for responding to a transportation security incident at United States ports and infrastructure on or adjacent to the navigable waters of the United States, including underwater access.
 
@@ -216,7 +216,7 @@ Applications.—To be eligible to receive a grant under this paragraph, a nonpro
 
 &emsp;&emsp;(C)
 
-Competitive selection process.—The Secretary shall select grant recipients under this paragraph through a competitive process on the basis of the following criteria:
+Competitive selection process.—The Secretary shall select grant recipients underthis paragraph through a competitive process on the basis of the following criteria:
 
 &emsp;&emsp;&emsp;(i) Whether the applicant can demonstrate that personnel, laboratory, and organizational resources will be available to the applicant to carry out the investigations authorized in this paragraph.
 

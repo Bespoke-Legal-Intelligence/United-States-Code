@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, the Federal share under this section
 
 #### (e) Special grants for projects to study increasing security for women
 
-From the sums authorized under this section, the Secretary shall provide grants and loans forthe purpose of studying ways to reduce violent crimes against women in public transit through better design or operation of public transit systems.
+From the sums authorized under this section, the Secretary shall provide grants and loans for the purpose of studying ways to reduce violent crimes against women in public transit through better design or operation of public transit systems.
 
 #### (f) General requirements
 

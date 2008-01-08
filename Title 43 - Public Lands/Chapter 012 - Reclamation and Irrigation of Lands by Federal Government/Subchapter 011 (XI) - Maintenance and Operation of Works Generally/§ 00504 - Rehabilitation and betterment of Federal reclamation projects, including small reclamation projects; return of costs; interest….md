@@ -18,10 +18,6 @@ Act of June 17, 1902, referred to in text, is popularly known as the Reclamation
 
 1950—Act Mar. 3, 1950, struck out period at end of second sentence and inserted “; except that, any such determination may become effective prior to the expiration of such sixty days in any case in which each such committee approves an earlier date and notifies the Secretary in writing, of such approval: <i>Provided</i>, That when Congress is not in session the Secretary's determination, if accompanied by a finding by the Secretary that substantial hardship to the water users concerned or substantial further injury to the project works will result, shall become effective when the chairman and ranking minority member of each such committee shall file with the Secretary their written approval of said findings.”
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Short Title
 
 Act Oct. 7, 1949, ch. 650, 63 Stat. 724, which enacted this section and provisions set out below, is popularly known as the “Rehabilitation and Betterment Act of 1949”.

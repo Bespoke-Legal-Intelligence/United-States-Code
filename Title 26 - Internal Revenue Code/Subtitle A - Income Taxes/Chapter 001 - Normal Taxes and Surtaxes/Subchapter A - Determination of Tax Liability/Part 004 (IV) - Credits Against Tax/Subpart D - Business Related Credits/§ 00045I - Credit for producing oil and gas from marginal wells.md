@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;In the case of production from a qualified marginal well which is eligible for the credit allowed under section 45K for the taxable year, no credit shall be allowable under this section unless the taxpayer elects not to claim the credit under section 45K with respect to the well.
 
-(Added Pub. L. 108–357, title III, §341(a), Oct. 22, 2004, 118 Stat. 1485; amended Pub. L. 109–58, title XIII, §1322(a)(3)(B), (D), Aug. 8, 2005, 119 Stat.1011; Pub. L. 109–135, title IV, §412(k), Dec. 21, 2005, 119 Stat. 2637.)
+(Added Pub. L. 108–357, title III, §341(a), Oct. 22, 2004, 118 Stat. 1485; amended Pub. L. 109–58, title XIII, §1322(a)(3)(B), (D), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 109–135, title IV, §412(k), Dec. 21, 2005, 119 Stat. 2637.)
 
 #### Amendments
 

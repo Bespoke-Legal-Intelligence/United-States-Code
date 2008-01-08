@@ -6,7 +6,7 @@ The scholarship program under this chapter shall be carried out in accordance wi
 
 &emsp;(2) United States missions shall design ways to identify promising students who are in secondary educational institutions, or who have completed their secondary education, for study in the United States. In carrying out this paragraph, the United States mission in a country shall consult with Peace Corps volunteers and staff assigned to that country and with private and voluntary organizations with a proven record of providing development assistance to developing countries.
 
-&emsp;(3) United States missions shall develop and strictly implement specific economic need criteria. Scholarships under this chapter may only be provided to students who meet the economic need criteria.
+&emsp;(3) United States missions shall develop and strictly implement specific economic need criteria. Scholarships under this chapter mayonly be provided to students who meet the economic need criteria.
 
 &emsp;(4) The program shall utilize educational institutions in the United States and in developing countries to help participants in the programs acquire necessary skills in English and other appropriate education training.
 

@@ -78,3 +78,7 @@ Authority of President under subsec. (b) of this section to prescribe regulation
 
 Authority of President under subsec. (e) of this section delegated to Office of Personnel Management by section 6(b) of Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, eff. May 4, 1991, set out as a note under section 5301 of this title.
 
+#### Travel to United States for Immediate Family of Employees Serving Abroad
+
+Pub. L. 110–161, div. D, title VII, §701, Dec. 26, 2007, 121 Stat. 2019, provided that: “Hereafter, funds appropriated in this or any other Act may be used to pay travel to the United States for the immediate family of employees serving abroad in cases of death or life threatening illness of said employee.”
+

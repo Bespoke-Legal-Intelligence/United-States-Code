@@ -6,7 +6,7 @@ A registration pursuant to section 823 of this title to manufacture, distribute,
 
 &emsp;(1) has materially falsified any application filed pursuant to or required by this subchapter or subchapter II of this chapter;
 
-&emsp;(2) has been convicted of a felony under this subchapter or subchapter II of this chapter orany other law of the United States, or of any State, relating to any substance defined in this subchapter as a controlled substance or a list I chemical;
+&emsp;(2) has been convicted of a felony under this subchapter or subchapter II of this chapter or any other law of the United States, or of any State, relating to any substance defined in this subchapter as a controlled substance or a list I chemical;
 
 &emsp;(3) has had his State license or registration suspended, revoked, or denied by competent State authority and is no longer authorized by State law to engage in the manufacturing, distribution, or dispensing of controlled substances or list I chemicals or has had the suspension, revocation, or denial of his registration recommended by competent State authority;
 
@@ -18,7 +18,7 @@ A registration pursuant to section 823 of this title to manufacture, distribute,
 
 #### (b) Limits of revocation or suspension
 
-The Attorney General may limit revocation or suspension of a registration to the particular controlled substance or list I chemical with respect to which grounds for revocation or suspension exist.
+The Attorney General may limit revocation or suspension of a registration to the particularcontrolled substance or list I chemical with respect to which grounds for revocation or suspension exist.
 
 #### (c) Service of show cause order; proceedings
 
@@ -44,7 +44,7 @@ The Attorney General may, in his discretion, seize or place under seal any contr
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a)(1), (2), was in the original “this title”, meaning title II of Pub. L.91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsec. (a)(1), (2), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 Subchapter II of this chapter, referred to in subsec. (a)(1), (2), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 

@@ -62,13 +62,17 @@ Section 2403 of Pub. L. 96–465, as amended by Pub. L. 99–93, title I, §119(
 
 “(2) Except to the extent provided in section 2109 \[section 4159 of this title\], the provisions of such chapter \[subchapter VIII of this chapter\] regarding the rights of former spouses to receive survivor annuities under chapter 8 \[subchapter VIII of this chapter\] shall apply in the case of any individual who after the effective date of this Act becomes a former spouse of a participant or former participant in the Foreign Service Retirement and Disability System.”
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–50, §1, July 30, 2007, 121 Stat. 261, provided that: “This Act \[amending section 4064 of this title\] may be cited as the ‘Passport Backlog Reduction Act of 2007’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–382, §1, Nov. 13, 1998, 112 Stat. 3406, provided that: “This Act \[amending sections 4044 to 4046, 4052, 4071a, and 4071d of this title and enacting provisions set out as a note under section 4044 of this title\] may be cited as the ‘Department of State Special Agents Retirement Act of 1998’.”
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–335, title IV, §401(a), June 6, 1986, 100 Stat. 609, provided that: “This title \[enacting sections 4068and 4071 to 4071k of this title, amending sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of this title, and enacting provisions set out as a note under section 4046 of this title\] may be cited as the ‘Foreign Service Pension System Act of 1986’.”
+Pub. L. 99–335, title IV, §401(a), June 6, 1986, 100 Stat. 609, provided that: “This title \[enacting sections 4068 and 4071 to 4071k of this title, amending sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of this title, and enacting provisions set out as a note under section 4046 of this title\] may be cited as the ‘Foreign Service Pension System Act of 1986’.”
 
 #### Short Title
 
@@ -194,7 +198,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477; Ex. Ord. No. 13118, §10(4), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13325, Jan. 23, 2004, 69 F.R. 4217; Ex. Ord. No. 13374, Mar. 14, 2005, 70 F.R. 12961, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Foreign Service Act of 1980 (94 Stat. 2071, 22 U.S.C. 3901 et seq.), Section 202 of the Revised Statutes (22 U.S.C. 2656), and Section 301 of Title 3 of the United States Code, and in order to provide for the administration of the Foreign Service of the United States, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America,including the Foreign Service Act of 1980 (94 Stat. 2071, 22 U.S.C. 3901 et seq.), Section 202 of the Revised Statutes (22 U.S.C. 2656), and Section 301 of Title 3 of the United States Code, and in order to provide for the administration of the Foreign Service of the United States, it is hereby ordered as follows:
 
 Section 1. There are hereby delegated to the Secretary of State those functions vested in the President by Sections 205, 401(a), 502(c), 613, and 801 of the Foreign Service Act of 1980, hereinafter referred to as the Act (22 U.S.C. 3925, 3942(a)(1), 3892(c) \[3982(c)\], 4013, and 4041).
 

@@ -54,7 +54,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;For purposes of this title—
 
-&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forth in paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
+&emsp;&emsp;(A) In the case of a nonresident alien individual or a foreign corporation engaged in trade or business within the United States during the taxable year, the rules set forthin paragraphs (2), (3), (4), (6), and (7) shall apply in determining the income, gain, or loss which shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
 &emsp;&emsp;(B) Except as provided in paragraph (6) or (7) or in section 871(d) or sections 882(d) and (e), in the case of a nonresident alien individual or a foreign corporation not engaged in trade or business within the United States during the taxable year, no income, gain, or loss shall be treated as effectively connected with the conduct of a trade or business within the United States.
 
@@ -102,7 +102,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(B) income, gain, or loss shall not be considered as attributable to an office or other fixed place of business within the United States unless such office or fixed place of business is a material factor in the production of such income, gain, or loss and such office or fixed place of business regularly carries on activities of the type from which such income, gain, or loss is derived, and
 
-&emsp;&emsp;(C) the income, gain, or loss which shall be attributable to an office or other fixed place of business within the United States shall be the income, gain, or loss property allocable thereto, but, in the case of a sale or exchange described in clause (iii) of such subparagraph, the income which shall be treated as attributable to an office or other fixed place of business within the United States shall not exceed the income which would be derived from sources within the United States if the sale or exchange were made in the United States.
+&emsp;&emsp;(C) the income, gain, or loss which shall be attributable to an office or other fixed placeof business within the United States shall be the income, gain, or loss property allocable thereto, but, in the case of a sale or exchange described in clause (iii) of such subparagraph, the income which shall be treated as attributable to an office or other fixed place of business within the United States shall not exceed the income which would be derived from sources within the United States if the sale or exchange were made in the United States.
 
 #### (6) Treatment of certain deferred payments, etc.
 
@@ -188,7 +188,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(A) the person acquiring such receivable and such related person are created or organized under the laws of the same foreign country and such related person has a substantial part of its assets used in its trade or business located in such same foreign country, and
 
-&emsp;&emsp;(B) such related person would not have derived any foreign base company income (as defined in section 954(a), determined without regard to section 954(b)(3)(A)), or any income effectively connected with the conduct of a trade or business within the United States, from such receivable if it had been collected by such related person.
+&emsp;&emsp;(B) such related person would not have derived any foreign base company income (as defined in section 954(a), determined withoutregard to section 954(b)(3)(A)), or any income effectively connected with the conduct of a trade or business within the United States, from such receivable if it had been collected by such related person.
 
 #### (8) Regulations
 
@@ -326,7 +326,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) if incurred by a United States person, shall be allocated and apportioned under this section in the same manner as if they were attributable to activities conducted in the United States, and
 
-&emsp;&emsp;&emsp;(ii) if incurred by a person other than a United States person, shall be allocated and apportioned under this section in the same manner as if they were attributable to activities conducted outside the United States.
+&emsp;&emsp;&emsp;(ii) if incurred by a person other than a United States person, shall be allocated and apportioned under this section in thesame manner as if they were attributable to activities conducted outside the United States.
 
 #### (B) Description of expenditures
 
@@ -334,7 +334,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) in space,
 
-&emsp;&emsp;&emsp;(ii) on or under water not within the jurisdiction (as recognized by the UnitedStates) of a foreign country, possession of the United States, or the United States, or
+&emsp;&emsp;&emsp;(ii) on or under water not within the jurisdiction (as recognized by the United States) of a foreign country, possession of the United States, or the United States, or
 
 &emsp;&emsp;&emsp;(iii) in Antarctica.
 
@@ -388,11 +388,11 @@ For purposes of this subchapter—
 
 #### <i>“(B) Treatment of worldwide affiliated group</i>
 
-&emsp;&emsp;<i>“The taxable income of the domestic members of a worldwide affiliated group from sources outside the United States shall be determined by allocating and apportioning the interest expense of such domestic members to such income in an amount equal to the excess (if any) of—</i>
+&emsp;&emsp;<i>“The taxable income of the domestic members of a worldwide affiliated group from sources</i><i>outside the United States shall be determined by allocating and apportioning the interest expense of such domestic members to such income in an amount equal to the excess (if any) of—</i>
 
 &emsp;&emsp;&emsp;<i>“(i) the total interest expense of the worldwide affiliated group multiplied by the ratio which the foreign assets of the worldwide affiliated group bears to all the assets of the worldwide affiliated group, over</i>
 
-&emsp;&emsp;&emsp;<i>“(ii) the interest expense of all foreign corporations which are members of the worldwide affiliated group to the extent such inter</i><i>est expense of such foreign corporations would have been allocated and apportioned to foreign source income if this subsection were applied to a group consisting of all the foreign corporations in such worldwide affiliated group.</i>
+&emsp;&emsp;&emsp;<i>“(ii) the interest expense of all foreign corporations which are members of the worldwide affiliated group to the extent such interest expense of such foreign corporations would have been allocated and apportioned to foreign source income if this subsection were applied to a group consisting of all the foreign corporations in such worldwide affiliated group.</i>
 
 #### <i>“(C) Worldwide affiliated group</i>
 
@@ -544,7 +544,7 @@ In general.—Except as provided in this paragraph, this subsection shall apply 
 
 “(B)
 
-Reduction.—Notwithstanding subparagraph (A), this subsection shall only apply to that portion of the qualified research and experimental expenditures forthe taxable year referred to in subparagraph (A) which bears the same ratio to the total amount of such expenditures as—
+Reduction.—Notwithstanding subparagraph (A), this subsection shall only apply to that portion of the qualified research and experimental expenditures for the taxable year referred to in subparagraph (A) which bears the same ratio to the total amount of such expenditures as—
 
 &emsp;“(i) the lesser of 9 months or the number of months in the taxable year, bears to
 
@@ -718,7 +718,7 @@ General phase-in amount.—Except as provided in clause (iii), the general phase
 
 &emsp;&emsp;“(iii)
 
-Lower limit where taxpayer reduces indebtedness.—For purposes of applying this subparagraph to interest expenses attributable to any month, the general phase-in amount shall in no event exceed the lowest amount of indebtedness of the taxpayer outstanding as of the close of any preceding month beginning after November 16, 1985. To the extent provided in regulations, the average amount of indebtedness outstanding during any month shall be used (in lieu of the amount outstanding as of the close of such month) for purposes of the preceding sentence.
+Lower limit where taxpayer reduces indebtedness.—For purposes of applying this subparagraph to interest expenses attributable to anymonth, the general phase-in amount shall in no event exceed the lowest amount of indebtedness of the taxpayer outstanding as of the close of any preceding month beginning after November 16, 1985. To the extent provided in regulations, the average amount of indebtedness outstanding during any month shall be used (in lieu of the amount outstanding as of the close of such month) for purposes of the preceding sentence.
 
 &emsp;“(B)
 
@@ -882,7 +882,7 @@ Treatment of affiliated group.—For purposes of this paragraph, all members of 
 
 &emsp;“(F)
 
-Election to have paragraph not apply.—A taxpayer may elect (at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe) to have this paragraph not apply. In the case of members of the same affiliated group (as so defined), such an election may be made only if each member consents to such election.
+Election to have paragraph not apply.—A taxpayer may elect (at such time and in such manneras the Secretary of the Treasury or his delegate may prescribe) to have this paragraph not apply. In the case of members of the same affiliated group (as so defined), such an election may be made only if each member consents to such election.
 
 “(3)
 
@@ -990,11 +990,11 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, except that in applying section 864(c)(4)(B)(iii) of this title with respect to a binding contract entered into on or before Feb. 24, 1966, activities in the United States on or before such date in negotiating or carrying out such contract shall not be taken into account, see section 102(e)(1) of Pub. L. 89–809, set out as a note under section 861 of this title.
+Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, exceptthat in applying section 864(c)(4)(B)(iii) of this title with respect to a binding contract entered into on or before Feb. 24, 1966, activities in the United States on or before such date in negotiating or carrying out such contract shall not be taken into account, see section 102(e)(1) of Pub. L. 89–809, set out as a note under section 861 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 1201(d)(4) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, and for nonapplication of amendments by sections 1211(b)(2)and 1242(a) of Pub. L. 99–514 to the extent application of such amendments would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2) to (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 1201(d)(4) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, and for nonapplication of amendments by sections 1211(b)(2) and 1242(a) of Pub. L. 99–514 to the extent application of such amendments would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2) to (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

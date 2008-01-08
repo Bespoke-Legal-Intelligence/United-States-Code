@@ -16,7 +16,7 @@ The President may exempt any contract, loan, or grant from all or part of the pr
 
 #### (e) Annual report to Congress
 
-The President shall annually report to the Congress on measures taken in compliance with the purpose and intent of this section, including, but not limited to, the progress and problems associated with such compliance.
+The President shall annually report to the Congress on measures taken in compliance with the purpose and intent of this section, including,but not limited to, the progress and problems associated with such compliance.
 
 #### (f) Contractor certification or contract clause in acquisition of commercial items
 

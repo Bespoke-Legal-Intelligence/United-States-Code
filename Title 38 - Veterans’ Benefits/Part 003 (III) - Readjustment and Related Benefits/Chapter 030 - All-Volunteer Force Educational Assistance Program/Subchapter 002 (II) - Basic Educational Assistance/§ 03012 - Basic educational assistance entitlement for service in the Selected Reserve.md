@@ -42,7 +42,7 @@
 
 (B) The requirement of four years of service under clauses (1)(A)(ii) and (1)(B)(ii) of subsection (a) of this section is not applicable to an individual—
 
-&emsp;(i) who, during the two years of service described in clauses (1)(A)(i) and (1)(B)(i) of subsection (a) of this section, was discharged or released from active duty in the Armed Forces for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, or for a physical or mental condition not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title, if the individual was obligated, at the beginning of such two years of service, to serve such four years of service;
+&emsp;(i) who, during the two years of service described in clauses (1)(A)(i) and (1)(B)(i) of subsection (a) of this section, was discharged or released from active duty in the Armed Forces for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, or for a physical or mental condition not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title, if the individual was obligated, at the beginning of such twoyears of service, to serve such four years of service;
 
 &emsp;(ii) who, during the four years of service described in clauses (1)(A)(ii) and (1)(B)(ii) of subsection (a) of this section, is discharged or released from service in the Selected Reserve (I) for a service-connected disability, (II) for a medical condition which preexisted the individual's becoming a member of the Selected Reserve and which the Secretary determines is not service connected, (III) for hardship, (IV) in the case of an individual discharged or released after 30 months of such service, for the convenience of the Government, (V) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, or (VI) for a physical or mental condition not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title; or
 
@@ -60,7 +60,7 @@
 
 (3) Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual.
 
-(d)(1) An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under thischapter. Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces. Any individual who makes such an election is not entitled to educational assistance under this chapter.
+(d)(1) An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces. Any individual who makes such an election is not entitled to educational assistance under this chapter.
 
 (2) An individual who after December 31, 1976, receives a commission as an officer in the Armed Forces upon graduation from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy is not eligible for educational assistance under this section.
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 2001 Amendments
 
-Amendment by section 106(a) of Pub. L. 107–103 applicable with respect to educational assistance allowancespaid under this chapter for months beginning after Dec. 27, 2001, see section 106(b) of Pub. L. 107–103, set out as a note under section 3011 of this title.
+Amendment by section 106(a) of Pub. L. 107–103 applicable with respect to educational assistance allowances paid under this chapter for months beginning after Dec. 27, 2001, see section 106(b) of Pub. L. 107–103, set out as a note under section 3011 of this title.
 
 Amendment by Pub. L. 107–14 effective as if included in the enactment of section 105 of Pub. L. 106–419, see section 7(c)(4) of Pub. L. 107–14, set out as a note under section 3011 of this title.
 
@@ -234,7 +234,7 @@ Amendment by section 303(a)(2) of Pub. L. 99–576 applicable to any reduction i
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Notification Requirement
 

@@ -80,7 +80,7 @@ Subsec. (g)(2)(B). Pub. L. 100–180, §1314(b)(2)(B), inserted “the President
 
 #### Effective Date of 1993 Amendment
 
-Section 202(b) of Pub. L. 103–35 provided that: “The amendments made by this section \[amending this section, sections 1079, 1086a, 1174a, 1463, 2323, 2347, 2391, and 2410d of this title, and sections 5013 and 5113 of \[former\] Title 36, Patriotic Societies and Observances, and amending provisions set out as notes under sections 664, 2350a, 2431, 2501, 2505, 10105, and 12681 of this title and section 5611 of Title 15, Commerce and Trade\] shall apply as if included in the enactment of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484).”
+Section 202(b) of Pub. L. 103–35 provided that: “The amendments made by this section \[amending this section, sections 1079, 1086a, 1174a, 1463, 2323, 2347, 2391, and 2410d of this title, and sections 5013 and 5113 of former Title 36, Patriotic Societies and Observances, and amending provisions set out as notes under sections 664, 2350a, 2431, 2501, 2505, 10105, and 12681 of this title and section 5611 of Title 15, Commerce and Trade\] shall apply as if included in the enactment of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484).”
 
 #### Transfer of Functions
 

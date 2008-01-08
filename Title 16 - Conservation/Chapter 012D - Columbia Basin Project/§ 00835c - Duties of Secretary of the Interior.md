@@ -76,7 +76,7 @@ Sec. 3. \[
 
 Manner of Disposal Priority of Purchasers; Terms of Sale\]. (a) All land authorized to be sold under section 2 of this Act which, when offered for sale, is occupied by improvements owned by the United States shall be sold with the improvements in place.
 
-“(b) Of the property authorized to be sold under section 2 of this Act, lands in the town area occupied bydwelling units shall be sold in accordance with the following terms and conditions:
+“(b) Of the property authorized to be sold under section 2 of this Act, lands in the town area occupied by dwelling units shall be sold in accordance with the following terms and conditions:
 
 “(1) First priority to purchase shall be given to the tenant of the United States in the town area who occupies the land and dwelling unit to be sold. The land and dwelling unit shall be offered at the appraised value as established under section 5 less any applicable discounts under this Act. This right of priority shall expire unless a deposit of earnest money in an amount to be fixed by the Secretary is received by him before the expiration of sixty days after the date on which the property has been offered for sale, and the right of priority shall be deemed abandoned unless within an additional one hundred and eighty days the prospective purchaser shall have signed a contract to purchase the property.
 
@@ -140,7 +140,7 @@ Sec. 6. \[
 
 Authority of Secretary To Transfer Property and Facilities\]. The Secretary is authorized to transfer without cost out of the properties in his custody within the town and Grand Coulee areas ownership of—
 
-&emsp;“(a) any Federally owned municipal-type property and facilities together with rights-of-way therefor, equipment, materials, and supplies, in or serving said areas, including but not limited to the sewer, water, fire-alarm, street-lighting, electric feeder lines, and power-distribution systems, and the highways, streets, alleys, sidewalks, parks, and parking areas to the municipality or Grand Coulee if their respective areas are substantially served by such properties. Any such transfer to the municipality, however, will not be made unless the town area or a part thereof is incorporated within four years from the date of this Act \[Aug. 30, 1957\];
+&emsp;“(a) any Federally owned municipal-type property and facilities together with rights-of-way therefor, equipment, materials, and supplies, in or serving said areas, including but not limited to the sewer, water, fire-alarm, street-lighting, electric feeder lines, and power-distribution systems, and the highways, streets, alleys, sidewalks, parks, and parking areas to the municipality or Grand Coulee if their respective areas are substantially served by such properties. Any such transfer to the municipality, however, will not be made unless the town area or a part thereof isincorporated within four years from the date of this Act \[Aug. 30, 1957\];
 
 &emsp;“(b) the school buildings and grounds, athletic fields, tennis courts, and other properties currently used for educational purposes to the appropriate school district; and
 

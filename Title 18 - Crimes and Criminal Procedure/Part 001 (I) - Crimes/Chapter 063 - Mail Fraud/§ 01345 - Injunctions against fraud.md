@@ -2,7 +2,7 @@
 
 (a)(1) If a person is—
 
-&emsp;(A) violating or about to violate this chapter or section 287, 371 (insofar as such violation involves a conspiracy to defraud the United States or any agency thereof), or 1001 of this title;
+&emsp;(A) violating or about to violate this chapter or section 287, 371 (insofar as such violation involves a conspiracy to defraud the UnitedStates or any agency thereof), or 1001 of this title;
 
 &emsp;(B) committing or about to commit a banking law violation (as defined in section 3322(d) of this title); or
 

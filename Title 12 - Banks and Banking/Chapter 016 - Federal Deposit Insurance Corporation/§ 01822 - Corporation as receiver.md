@@ -50,7 +50,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (5) Reversion
 
-&emsp;If a depositor does not claim the deposit delivered to the custody of the appropriate State pursuant to paragraph (2)(B) within 10 years of the date of delivery, the deposit shall be immediately refunded to the Corporation and become its property. All rights of the depositor against the appropriate State with respect to such deposit shall be barred as of the date of the refund to the Corporation.
+&emsp;If a depositor does not claim the deposit delivered to the custody of the appropriate Statepursuant to paragraph (2)(B) within 10 years of the date of delivery, the deposit shall be immediately refunded to the Corporation and become its property. All rights of the depositor against the appropriate State with respect to such deposit shall be barred as of the date of the refund to the Corporation.
 
 #### (6) Definitions
 
@@ -144,7 +144,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (6) Priority of FDIC rules
 
-&emsp;To the extent that the regulations under this subsection conflict with rules of otheragencies or Government corporations, officers, directors, employees, and independent contractors of the Corporation who are also subject to the conflict of interest or ethical rules of another agency or Government corporation, shall be governed by the regulations prescribed by the Board of Directors under this subsection when acting for or on behalf of the Corporation. Notwithstanding the preceding sentence, the rules of the Corporation shall not take priority over the ethics and conflict of interest rules and regulations promulgated by the Office of Government Ethics unless specifically authorized by that Office.
+&emsp;To the extent that the regulations under this subsection conflict with rules of other agencies or Government corporations, officers, directors, employees, and independent contractors of the Corporation who are also subject to the conflict of interest or ethical rules of another agency or Government corporation, shall be governed by the regulations prescribed by the Board of Directors under this subsection when acting for or on behalf of the Corporation. Notwithstanding the preceding sentence, the rules of the Corporation shall not take priority over the ethics and conflict of interest rules and regulations promulgated by the Office of Government Ethics unless specifically authorized by that Office.
 
 (Sept. 21, 1950, ch. 967, §2\[12\], 64 Stat. 887; Pub. L. 95–369, §6(c)(23), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §113(<i>l</i>), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 101–73, title II, §§201(a), 216, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 103–44, §1, June 28, 1993, 107 Stat. 220; Pub. L. 103–204, §19(a), Dec. 17, 1993, 107 Stat. 2402; Pub. L. 104–179, §4(b)(1), Aug. 6, 1996, 110 Stat. 1567; Pub. L. 109–173, §8(a)(18), Feb. 15, 2006, 119 Stat. 3613.)
 
@@ -192,7 +192,7 @@ In General.—The amendments made by section 1 of this Act \[amending this secti
 
 “(b)
 
-Special Rule for Receiverships in Progress.—Section 12(e) of the Federal Deposit Insurance Act \[12 U.S.C. 1822(e)\] as in effect on the day before the date of enactment of this Act \[June 28, 1993\] shall apply with respect to insured deposits in depository institutions for which the Corporation was first appointed receiver during the period between January 1, 1989 and the date of enactment of this Act, except that such section 12(e) shall not bar any claim made against the Corporation by an insured depositor for an insured or transferred deposit, so long as such claim is made prior to the termination of the receivership.
+Special Rule for Receiverships in Progress.—Section 12(e) of the Federal Deposit Insurance Act \[12 U.S.C. 1822(e)\] as in effect on the day before the date of enactment of this Act \[June 28, 1993\] shall apply with respect to insured deposits in depository institutions for which the Corporation was first appointed receiver during the period between January 1, 1989 and the dateof enactment of this Act, except that such section 12(e) shall not bar any claim made against the Corporation by an insured depositor for an insured or transferred deposit, so long as such claim is made prior to the termination of the receivership.
 
 “(c)
 

@@ -66,7 +66,7 @@
 
 &emsp;(9) Sponsor ongoing dialogue that—
 
-&emsp;&emsp;(A) shall be conducted among Federal, State, local, and tribal government leaders on electronic Government in the executive,legislative, and judicial branches, as well as leaders in the private and nonprofit sectors, to encourage collaboration and enhance understanding of best practices and innovative approaches in acquiring, using, and managing information resources;
+&emsp;&emsp;(A) shall be conducted among Federal, State, local, and tribal government leaders on electronic Government in the executive, legislative, and judicial branches, as well as leaders in the private and nonprofit sectors, to encourage collaboration and enhance understanding of best practices and innovative approaches in acquiring, using, and managing information resources;
 
 &emsp;&emsp;(B) is intended to improve the performance of governments in collaborating on the use of information technology to improve the delivery of Government information and services; and
 

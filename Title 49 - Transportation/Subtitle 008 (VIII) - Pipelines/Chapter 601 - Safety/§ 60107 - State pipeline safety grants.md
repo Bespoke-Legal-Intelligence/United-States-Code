@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—If a State authority files an application not later than September 30 of a calendar year, the Secretary of Transportation shall pay not more than 80 percent of the cost of the personnel, equipment, and activitiesthe authority reasonably requires during the next calendar year—
+General Authority.—If a State authority files an application not later than September 30 of a calendar year, the Secretary of Transportation shall pay not more than 80 percent of the cost of the personnel, equipment, and activities the authority reasonably requires during the next calendar year—
 
 &emsp;(1) to carry out a safety program under a certification under section 60105 of this title or an agreement under section 60106 of this title; or
 
@@ -108,7 +108,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §205(d)(5); added Oct. 31, 1988,
 
 In subsection (a), before clause (1), the words “Except as otherwise provided in this section” and “out of funds appropriated or otherwise made available” are omitted as surplus.
 
-In subsection (b), before clause (1), the word “payment” is substituted for “funds” for clarity. The words “the total State amount spent” are substituted for “the aggregate expenditures of funds for the State”, and the words “at least equal the average amount spent” are substituted for “be maintained at a level which does not fall below the average level of such expenditures”, to eliminate unnecessary words. In clause (1), the words “that ended June 30, 1967, and June 30, 1968” are substituted for “last two . . . preceding August 12, 1968” for clarity. In clause (2), the words “that ended September 30, 1978, and September 30, 1979” are substituted for “last two . . . preceding November 30, 1979” for clarity.
+In subsection (b), before clause (1), the word “payment” is substituted for “funds” for clarity. The words“the total State amount spent” are substituted for “the aggregate expenditures of funds for the State”, and the words “at least equal the average amount spent” are substituted for “be maintained at a level which does not fall below the average level of such expenditures”, to eliminate unnecessary words. In clause (1), the words “that ended June 30, 1967, and June 30, 1968” are substituted for “last two . . . preceding August 12, 1968” for clarity. In clause (2), the words “that ended September 30, 1978, and September 30, 1979” are substituted for “last two . . . preceding November 30, 1979” for clarity.
 
 In subsection (c), the words “the Federal grants-in-aid provisions of”, “for payments to aid in the conduct of pipeline safety programs in accordance with paragraph (1) of this subsection”, and “with necessary adjustments on account of overpayments and underpayments” are omitted as surplus.
 

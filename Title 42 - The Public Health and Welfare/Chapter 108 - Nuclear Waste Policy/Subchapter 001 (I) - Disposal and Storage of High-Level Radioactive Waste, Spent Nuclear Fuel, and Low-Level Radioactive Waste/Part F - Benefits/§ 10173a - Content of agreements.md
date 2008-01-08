@@ -42,7 +42,7 @@ A benefits agreement under section 10173 of this title shall provide that—
 
 &emsp;(2) the State or Indian tribe that is party to such agreement waive its rights under this subchapter to disapprove the recommendation of a site for a repository;
 
-&emsp;(3) the parties to the agreement shall share with one another information relevant to thelicensing process for the repository or monitored retrievable storage facility, as it becomes available;
+&emsp;(3) the parties to the agreement shall share with one another information relevant to the licensing process for the repository or monitored retrievable storage facility, as it becomes available;
 
 &emsp;(4) the State or Indian tribe that is party to such agreement participate in the design of the repository or monitored retrievable storage facility and in the preparation of documents required under law or regulation governing the effects of the facility on the public health and safety; and
 

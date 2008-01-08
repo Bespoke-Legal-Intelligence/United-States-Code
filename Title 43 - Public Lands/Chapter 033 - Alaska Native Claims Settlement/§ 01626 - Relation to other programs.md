@@ -62,7 +62,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 For the purposes of implementation of the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\], a Native Corporation and corporations, partnerships, joint ventures, trusts, or affiliates in which the Native Corporation owns not less than 25 per centum of the equity shall be within the class of entities excluded from the definition of “employer” by section 701(b)(1) of Public Law 88–352 (78 Stat. 253), as amended \[42 U.S.C. 2000e(b)(1)\], or successor statutes.
 
-(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131; Pub. L. 107–117, div. B, §702, Jan. 10, 2002, 115 Stat. 2312; Pub. L. 107–206, title III, §3003, Aug. 2, 2002, 116 Stat. 924.)
+(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131; Pub. L.107–117, div. B, §702, Jan. 10, 2002, 115 Stat. 2312; Pub. L. 107–206, title III, §3003, Aug. 2, 2002, 116 Stat. 924.)
 
 #### References in Text
 

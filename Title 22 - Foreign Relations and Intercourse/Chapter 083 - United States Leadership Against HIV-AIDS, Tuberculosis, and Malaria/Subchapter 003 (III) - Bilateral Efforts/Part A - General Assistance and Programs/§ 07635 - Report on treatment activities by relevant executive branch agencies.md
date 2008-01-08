@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 15 months after May 27, 2003, the President shall submit to appropriate congressional committees a report on the programs and activities of the relevant executive branch agencies that are directed to the treatment ofindividuals in foreign countries infected with HIV or living with AIDS.
+Not later than 15 months after May 27, 2003, the President shall submit to appropriate congressional committees a report on the programs and activities of the relevant executive branch agencies that are directed to the treatment of individuals in foreign countries infected with HIV or living with AIDS.
 
 #### (b) Report elements
 

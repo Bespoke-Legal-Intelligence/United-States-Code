@@ -28,7 +28,7 @@ A prior section 3531, added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061
 
 Subchapter effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as a note under section 101 of Title 6, Domestic Security.
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1065\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275, which provided that subtitle G (§§1061–1065) of title X of \[div. A\] of H.R. 5408, as enacted by section 1 of Pub. L. 106–398, enacting this subchapter, amending sections 3501 to 3507, 3509, 3512, 3514 to 3518, and 3520 of this title, and section 2224 of Title 10, Armed Forces, and enacting provisions formerly set out as a note below , would take effect 30days after Oct. 30, 2000, was repealed by Pub. L. 107–296, title X, §1005(b), Nov. 25, 2002, 116 Stat. 2272.
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1065\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275, which provided that subtitle G (§§1061–1065) of title X of \[div. A\] of H.R. 5408, as enacted by section 1 of Pub. L. 106–398, enacting this subchapter, amending sections 3501 to 3507, 3509, 3512, 3514 to 3518, and 3520 of this title, and section 2224 of Title 10, Armed Forces, and enacting provisions formerly set out as a note below , would take effect 30 days after Oct. 30, 2000, was repealed by Pub. L. 107–296, title X, §1005(b), Nov. 25, 2002, 116 Stat. 2272.
 
 #### Responsibilities of Certain Agencies
 

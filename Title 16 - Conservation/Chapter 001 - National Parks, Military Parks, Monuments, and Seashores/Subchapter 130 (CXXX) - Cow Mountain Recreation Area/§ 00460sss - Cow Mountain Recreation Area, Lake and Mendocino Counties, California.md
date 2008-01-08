@@ -74,6 +74,10 @@ This Act, referred to in subsec. (b)(2), is Pub. L. 109–362, Oct. 17, 2006, 12
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Short Title
 
 Pub. L. 109–362, §1(a), Oct. 17, 2006, 120 Stat. 2064, provided that: “This Act \[enacting this section, amending sections 460y–8 and 1274 of this title, and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Northern California Coastal Wild Heritage Wilderness Act’.”

@@ -18,7 +18,7 @@ Pub. L. 107–273, div. C, title II, §12222(b), Nov. 2, 2002, 116 Stat. 1896, a
 
 #### Short Title
 
-For short title of title V of Pub. L. 93–415, which enacted this subchapter, as the “Incentive Grants for Local Delinquency Prevention Programs Act of 2002”, see section 501 of Pub. L. 93–415, as added by Pub. L. 107–273, set out as a note under section 5601 of this title.
+For short title of title V of Pub. L. 93–415, which enacted this subchapter, as the “Incentive Grants forLocal Delinquency Prevention Programs Act of 2002”, see section 501 of Pub. L. 93–415, as added by Pub. L. 107–273, set out as a note under section 5601 of this title.
 
 #### GAO Studies and Reports
 

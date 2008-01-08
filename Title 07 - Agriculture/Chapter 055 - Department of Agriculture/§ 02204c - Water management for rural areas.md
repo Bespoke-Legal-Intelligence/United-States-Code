@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture is authorized, directly or in coordination with any other Federalagency, entity, corporation, department, unit of State or local government, cooperative, confederation, individual, public or private organization, Indian tribe, or university, to—
+The Secretary of Agriculture is authorized, directly or in coordination with any other Federal agency, entity, corporation, department, unit of State or local government, cooperative, confederation, individual, public or private organization, Indian tribe, or university, to—
 
 &emsp;(1) conduct research and demonstration projects;
 
@@ -26,7 +26,7 @@ In implementing this section, the Secretary—
 
 &emsp;(3) shall cooperate with—
 
-&emsp;&emsp;(A) cooperatives, public or private organizations, confederations, authorities, or other entities (including such entities that may be organized under multiple State agreements or compacts and entities created under State law) to carry out projects authorized under this section; and
+&emsp;&emsp;(A) cooperatives, public or private organizations, confederations, authorities, or other entities (including such entities that may be organized under multiple State agreements or compacts and entities created underState law) to carry out projects authorized under this section; and
 
 &emsp;&emsp;(B) water, watershed, and sewer authorities, rural electric cooperatives, Federal agencies, and other State or local governments or agencies.
 

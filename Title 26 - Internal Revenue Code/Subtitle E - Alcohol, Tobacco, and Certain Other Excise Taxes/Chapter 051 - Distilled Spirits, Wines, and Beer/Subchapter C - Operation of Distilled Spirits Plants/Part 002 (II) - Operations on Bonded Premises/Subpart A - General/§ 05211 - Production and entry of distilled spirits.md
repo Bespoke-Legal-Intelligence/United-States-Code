@@ -10,7 +10,7 @@ Distilled spirits in the process of production in a distilled spirits plant may 
 
 &emsp;(4) transfer for redistillation under the provisions of section 5223.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(26), July 26, 1979, 93 Stat. 284.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(26), July 26, 1979, 93 Stat. 284.)
 
 #### Prior Provisions
 

@@ -114,7 +114,7 @@ For purposes of this part—
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, asamended. Title XXII of the Act is classified generally to subchapter XX (§300bb–1 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXII of the Act is classified generally to subchapter XX (§300bb–1 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim for liquidated damages withheld from a contractor or subcontractor under section 3703 of title 40.
 
-(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 87–581, title II, §202(a), Aug. 13, 1962, 76 Stat. 360; Pub. L. 97–164, title I, §133(e)(1), (2)(A), Apr. 2, 1982, 96 Stat. 40, 41; Pub. L. 101–650, title III, §325(b)(7), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 102–572, titleIX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–217, §3(g)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–284, §4(2), Sept. 27, 2006, 120 Stat. 1211.)
+(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 87–581, title II, §202(a), Aug. 13, 1962, 76 Stat. 360; Pub. L. 97–164, title I, §133(e)(1), (2)(A), Apr. 2, 1982, 96 Stat. 40, 41; Pub. L. 101–650, title III, §325(b)(7), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–217, §3(g)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–284, §4(2), Sept. 27, 2006, 120 Stat. 1211.)
 
 #### Historical and Revision Notes
 

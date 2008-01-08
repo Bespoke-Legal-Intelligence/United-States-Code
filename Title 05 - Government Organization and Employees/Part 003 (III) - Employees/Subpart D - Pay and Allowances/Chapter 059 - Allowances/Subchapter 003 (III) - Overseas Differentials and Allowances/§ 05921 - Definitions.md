@@ -78,7 +78,7 @@ Section 521 of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 802, Overseas Different
 
 #### Transitional Provisions for Payment of Allowances and Differentials
 
-Section 522 of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 802, Overseas Differentials and Allowances Act, provided that: “Notwithstanding any provision of this Act \[enacting chapter 37 of former title 5 (now covered by thissubchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code\] and until such time as regulations are issued under this Act, employees shall continue to be paid allowances and differentials in accordance with rules and regulations issued pursuant to the laws in effect immediately prior to the enactment of this Act \[Sept. 6, 1960\] and such rules and regulations may be amended or revoked in accordance with the provision of such laws.”
+Section 522 of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 802, Overseas Differentials and Allowances Act, provided that: “Notwithstanding any provision of this Act \[enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code\] and until such time as regulations are issued under this Act, employees shall continue to be paid allowances and differentials in accordance with rules and regulations issued pursuant to the laws in effect immediately prior to the enactment of this Act \[Sept. 6, 1960\] and such rules and regulations may be amended or revoked in accordance with the provision of such laws.”
 
 #### Ex. Ord. No. 10903. Delegation of Regulatory Authority
 
@@ -158,7 +158,7 @@ Sec. 6. This order and such of the regulations prescribed by the Secretary of St
 
 Ex. Ord. No. 11137, Jan. 7, 1964, 29 F.R. 223, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided:
 
-By virtue of the authority vested in me by section 301 of title 3 of the United States Code and by the variousprovisions of law cited in the body of this order, and as President of the United States it is ordered as follows:
+By virtue of the authority vested in me by section 301 of title 3 of the United States Code and by the various provisions of law cited in the body of this order, and as President of the United States it is ordered as follows:
 
 #### Part I—Allowances and Differentials in Foreign Areas
 
@@ -186,7 +186,7 @@ Sec. 202. Regulations approved under authority delegated by the provisions of Se
 
 (b) Shall not apply to employees who are stationed in either the Canal Zone or in any “foreign area” as defined in 5 U.S.C. 5921(6).
 
-(c) Shall be limited to employees whose rates of basic compensation are fixed in conformity with rates paid by the Government for work of a comparable level of difficulty and responsibility to employees stationed in the continental United States, exclusive of Alaska.
+(c) Shall be limited to employees whose rates of basic compensation are fixed in conformity with rates paidby the Government for work of a comparable level of difficulty and responsibility to employees stationed in the continental United States, exclusive of Alaska.
 
 (d) Shall not, with respect to any locality, authorize allowances which exceed those prescribed under Executive Order No. 10000 of September 16, 1948, as amended, for other employees of the United States in the same locality.
 

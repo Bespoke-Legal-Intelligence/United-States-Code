@@ -142,7 +142,7 @@ Pub. L. 105–261, div. A, title III, §373(d)(1), Oct. 17, 1998, 112 Stat. 1992
 
 #### Implementation Plan To Examine Readiness Indicators
 
-Pub. L. 105–85, div. A, title III, §322(b), Nov. 18, 1997, 111 Stat. 1675, directed the Secretary of Defense, not later than Jan. 15, 1998, to submit to the congressional defense committees a plan specifying the manner in which the additional reporting requirement of subsec. (d) of this section would be implemented and the criteria proposed to be used to evaluate the readiness indicators identified in subsec. (d).
+Pub. L. 105–85, div. A, title III, §322(b), Nov. 18, 1997, 111 Stat. 1675, directed the Secretary of Defense, notlater than Jan. 15, 1998, to submit to the congressional defense committees a plan specifying the manner in which the additional reporting requirement of subsec. (d) of this section would be implemented and the criteria proposed to be used to evaluate the readiness indicators identified in subsec. (d).
 
 #### Transition To Complete Report
 

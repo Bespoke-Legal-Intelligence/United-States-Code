@@ -38,7 +38,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 (1) In order to provide safe access routes for the movement of vessel traffic proceeding to or from ports or places subject to the jurisdiction of the United States, and subject to the requirements of paragraph (3) hereof, the Secretary shall designate necessary fairways and traffic separation schemes for vessels operating in the territorial sea of the United States and in high seas approaches, outside the territorial sea, to such ports or places. Such a designation shall recognize, within the designated area, the paramount right of navigation over all other uses.
 
-(2) No designation may be made by the Secretary pursuant to this subsection, if such a designation, as implemented, would deprive any person of the effective exercise of a right granted by a lease or permit executed or issued under other applicable provisions of law: <i>Provided</i>, That such right has become vested prior to the time of publication of the notice required by clause (A) of paragraph (3) hereof: <i>Provided further</i>, That the determination as to whether the designation would so deprive any such person shall be made by the Secretary, after consultation with the responsible official under whose authority the lease was executed or the permit issued.
+(2) No designation may be made by the Secretary pursuant to this subsection, if such a designation, as implemented, would deprive any person of the effective exercise of a right granted by a lease or permit executed or issued under other applicable provisions of law: <i>Provided</i>, That such right has become vested prior to the time of publication of the notice required by clause (A) of paragraph (3) hereof: <i>Provided further</i>, That the determination as to whether thedesignation would so deprive any such person shall be made by the Secretary, after consultation with the responsible official under whose authority the lease was executed or the permit issued.
 
 (3) Prior to making a designation pursuant to paragraph (1) hereof, and in accordance with the requirements of section 1224 of this title, the Secretary shall—
 
@@ -82,7 +82,7 @@ Except pursuant to international treaty, convention, or agreement, to which the 
 
 The date of enactment of this Act, referred to in subsec. (c)(3)(A), probably means the date of enactment of Pub. L. 95–474, which was approved Oct. 17, 1978.
 
-For the International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (c)(5)(A), see International Regulations for Preventing Collisions at Sea, 1972, set out as a note under section 1602 of this title.
+The International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (c)(5)(A), are maintained and published by the United States Coast Guard, U.S. Department of Homeland Security, in the publication <i>Navigation Rules</i>, which is available for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of this title.
 
 #### Amendments
 

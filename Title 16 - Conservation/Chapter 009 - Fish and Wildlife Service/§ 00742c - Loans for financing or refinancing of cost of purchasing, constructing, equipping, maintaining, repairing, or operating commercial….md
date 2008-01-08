@@ -8,9 +8,9 @@ The Secretary of the Interior is authorized, under such rules and regulations an
 
 Any loans made under the provisions of this section shall be subject to the following restrictions:
 
-&emsp;(1) Bear an interest rate of not less than (a) a rate determined by the Secretary of the Treasury, taking into consideration the average market yield on outstanding Treasury obligations of comparable maturity, plus (b) such additional charge, if any, toward covering other costs of the program as the Secretary may determine to be consistent with its purpose.
+&emsp;(1) Bear an interest rate of not less than (a) a rate determined by the Secretary of the Treasury, taking into consideration the average market yield on outstanding Treasury obligations of comparable maturity, plus (b)such additional charge, if any, toward covering other costs of the program as the Secretary may determine to be consistent with its purpose.
 
-&emsp;(2) Mature in not more than ten years, except that where a loan is for all or part of thecosts of constructing a new fishing vessel, such period may be fourteen years.
+&emsp;(2) Mature in not more than ten years, except that where a loan is for all or part of the costs of constructing a new fishing vessel, such period may be fourteen years.
 
 &emsp;(3) No financial assistance shall be extended pursuant to this section unless reasonable financial assistance applied for is not otherwise available on reasonable terms.
 
@@ -40,11 +40,11 @@ The Secretary, subject to the specific limitations in this section, may consent 
 
 The Secretary is authorized under such terms and conditions and pursuant to regulations prescribed by him to use the funds appropriated under this section to make loans to commercial fishermen for the purpose of chartering fishing vessels pending the construction or repair of vessels lost, destroyed, or damaged by the earthquake of March 27, 1964, and subsequent tidal waves related thereto: <i>Provided</i>, That any loans made under this subsection shall only be repaid from the net profits of the operations of such chartered vessels, which profits shall be reduced by such reasonable amount as determined by the Secretary for the salary of the fishermen chartering such vessels. The funds authorized herein shall not be available for such loans after June 30, 1966.
 
-(Aug. 8, 1956, ch. 1036, §4, 70 Stat. 1121; Pub. L. 85–888, Sept. 2, 1958, 72 Stat. 1710; Pub. L. 88–309, §9, May 20, 1964, 78 Stat. 199; Pub. L. 89–85, §§1–4, July 24, 1965, 79 Stat. 262; Pub. L. 91–279, §9, June 12, 1970, 84 Stat. 309; Pub. L. 91–387, §§1, 2, Aug. 24, 1970, 84 Stat. 829; Pub. L. 94–273, §2(8), Apr. 21, 1976, 90 Stat. 375; Pub. L. 96–478, §16(a), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 97–347, §1, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(1), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(1), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 99–659, title IV, §409, Nov. 14, 1986, 100 Stat. 3740.)
+(Aug. 8, 1956, ch. 1036, §4, 70 Stat. 1121; Pub. L. 85–888, Sept. 2, 1958, 72 Stat. 1710; Pub. L. 88–309, §9, May 20, 1964, 78 Stat. 199; Pub. L. 89–85, §§1–4, July 24, 1965, 79 Stat. 262; Pub. L. 91–279, §9, June 12, 1970, 84 Stat. 309; Pub. L. 91–387, §§1, 2, Aug. 24, 1970, 84 Stat. 829; Pub. L. 94–273, §2(8), Apr. 21, 1976, 90 Stat. 375; Pub. L. 96–478, §16(a), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 97–347, §1, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(1),July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(1), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 99–659, title IV, §409, Nov. 14, 1986, 100 Stat. 3740.)
 
 #### Codification
 
-In subsec. (b)(8), “section 50501 of title 46” substituted for “section 2 of the Shipping Act, 1916, as amended,”on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
+In subsec. (b)(8), “section 50501 of title 46” substituted for “section 2 of the Shipping Act, 1916, as amended,” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
 
 #### Amendments
 

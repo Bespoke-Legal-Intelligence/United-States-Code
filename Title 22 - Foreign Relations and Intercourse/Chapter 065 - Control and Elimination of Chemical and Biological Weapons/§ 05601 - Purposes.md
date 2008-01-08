@@ -70,7 +70,7 @@ Industry.—The term ‘industry’ means any corporate or private sector entity
 
 &emsp;“(10) The raw materials of biological agents are difficult to use as an indicator of an offensive military program because the same materials occur in nature or can be used to produce a wide variety of products.
 
-&emsp;“(11) Some biological products are genetically manipulated to develop new commercial products, optimizing production and ensuring the integrity of theproduct, making it difficult to distinguish between legitimate commercial activities and offensive military activities.
+&emsp;“(11) Some biological products are genetically manipulated to develop new commercial products, optimizing production and ensuring the integrity of the product, making it difficult to distinguish between legitimate commercial activities and offensive military activities.
 
 &emsp;“(12) Only a small culture of a biological agent and some growth medium are needed to produce a large amount of biological agents with the potential for offensive purposes.
 

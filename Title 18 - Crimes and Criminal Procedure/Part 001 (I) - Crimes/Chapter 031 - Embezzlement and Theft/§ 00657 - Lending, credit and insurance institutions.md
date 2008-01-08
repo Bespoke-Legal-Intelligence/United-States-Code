@@ -24,7 +24,7 @@ The enumeration of “moneys, funds, credits, securities, or other things of val
 
 References to persons aiding and abetting contained in sections 984, 1121, 1311 of title 12, U.S.C., 1940 ed., Banks and Banking, were omitted as unnecessary, such persons being made principals by section 2 of this title.
 
-The term “receiver” is used in sections 1121 and 1311 of title 12, U.S.C., 1940 ed., Banks and Banking, withreference to Federal intermediate banks and agricultural credit corporations, and is undoubtedly embraced in the term “connected in any capacity with,” but the phrase “and whoever, being a receiver of any such institution” was inserted in this section to obviate all doubt as to its comprehensive scope.
+The term “receiver” is used in sections 1121 and 1311 of title 12, U.S.C., 1940 ed., Banks and Banking, with reference to Federal intermediate banks and agricultural credit corporations, and is undoubtedly embraced in the term “connected in any capacity with,” but the phrase “and whoever, being a receiver of any such institution” was inserted in this section to obviate all doubt as to its comprehensive scope.
 
 The suggestion has been made that “private examiners” should be included. These undoubtedly are covered by the words “connected in any capacity with.” (See also section 655 of this title.)
 

@@ -120,7 +120,7 @@ Expiration of Authority and Account.—(1) The authority under subsection (c) to
 
 (2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.
 
-(Added Pub. L. 104–106, div. A, title IX, §912(a)(1), Feb. 10, 1996, 110 Stat. 407; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X,§§1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611; Pub. L. 109–364, div. A, title X, §1071(a)(16), Oct. 17, 2006, 120 Stat. 2399.)
+(Added Pub. L. 104–106, div. A, title IX, §912(a)(1), Feb. 10, 1996, 110 Stat. 407; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §§1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611; Pub. L. 109–364, div. A, title X, §1071(a)(16), Oct. 17, 2006, 120 Stat. 2399.)
 
 #### Codification
 
@@ -164,7 +164,7 @@ Subsec. (k). Pub. L. 108–136, §1008(f)(1), added subsec. (k).
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date
 
@@ -177,6 +177,4 @@ Pub. L. 104–106, div. A, title IX, §912(c), Feb. 10, 1996, 110 Stat. 410, as 
 #### GAO Reviews
 
 Pub. L. 104–106, div. A, title IX, §912(d), Feb. 10, 1996, 110 Stat. 410, required Comptroller General of the United States to conduct two reviews of the administration of the Defense Modernization Account, prior to repeal by Pub. L. 107–314, div. A, title VIII, §825(a)(2), Dec. 2, 2002, 116 Stat. 2615.
-
-§2216a
 

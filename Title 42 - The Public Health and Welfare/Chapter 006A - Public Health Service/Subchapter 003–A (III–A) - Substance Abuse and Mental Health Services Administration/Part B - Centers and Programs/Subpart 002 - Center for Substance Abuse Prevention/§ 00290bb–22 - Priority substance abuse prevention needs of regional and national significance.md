@@ -42,7 +42,7 @@ The Secretary shall address priority substance abuse prevention needs of regiona
 
 #### (4) Maintenance of effort
 
-&emsp;With respect to activities for which a grant, contract, or cooperative agreement is awardedunder this section, the Secretary may require that recipients for specific projects under subsection (a) of this section agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
+&emsp;With respect to activities for which a grant, contract, or cooperative agreement is awarded under this section, the Secretary may require that recipients for specific projects under subsection (a) of this section agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
 
 #### (d) Evaluation
 
@@ -54,7 +54,7 @@ The Secretary shall establish comprehensive information and education programs t
 
 #### (f) Authorization of appropriation
 
-There are authorized to be appropriated to carry out this section, $300,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+There are authorized to be appropriated to carry out this section, $300,000,000 for fiscal year2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
 (July 1, 1944, ch. 373, title V, §516, formerly §509, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–112; renumbered §516 and amended Pub. L. 102–321, title I, §113(f), July 10, 1992, 106 Stat. 345; Pub. L. 106–310, div. B, title XXXIII, §3302(a), Oct. 17, 2000, 114 Stat. 1209.)
 

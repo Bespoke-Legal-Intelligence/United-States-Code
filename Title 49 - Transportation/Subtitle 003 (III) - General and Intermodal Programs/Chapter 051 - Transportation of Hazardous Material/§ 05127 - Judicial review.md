@@ -10,7 +10,7 @@ Judicial Procedures.—When a petition is filed under subsection (a), the clerk 
 
 (c)
 
-Authority of Court.—The court has exclusive jurisdiction, as provided in subchapter II of chapter 5 of title 5, to affirm or set aside any part of the Secretary's final action and may order the Secretary to conduct further proceedings.
+Authority of Court.—The court has exclusive jurisdiction, as provided in subchapter II of chapter 5 of title 5, to affirm or set aside any part of the Secretary's final action and mayorder the Secretary to conduct further proceedings.
 
 (d)
 

@@ -46,7 +46,7 @@ Pub. L. 105–34, §511(b)(1), redesignated par. (3) as (2) and struck out headi
 
 Subsec. (c)(3). Pub. L. 105–34, §511(b)(1), redesignated par. (3) as (2).
 
-1988—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(15), amended par. (2) generally. Prior to amendment, par.\(2) read as follows: “If, upon the termination of an interest in property held in a trust, a specified portion of the trust assets are distributed to skip persons who are lineal descendants of the holder of such interest (or to 1 or more trusts for the exclusive benefit of such persons), such termination shall constitute a taxable termination with respect to such portion of the trust property.”
+1988—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(15), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If, upon the termination of an interest in property held in a trust, a specified portion of the trust assets are distributed to skip persons who are lineal descendants of the holder of such interest (or to 1 or more trusts for the exclusive benefit of such persons), such termination shall constitute a taxable termination with respect to such portion of the trust property.”
 
 Subsec. (c)(2). Pub. L. 100–647, §1014(g)(7), in closing provisions, inserted at end “If any transfer of property to a trust would be a direct skip but for this paragraph, any generation assignment under this paragraph shall apply also for purposes of applying this chapter to transfers from the portion of the trust attributable to such property.”
 

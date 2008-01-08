@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established an estuary habitat restoration program under which the Secretary may carry out estuary habitat restoration projects and provide technical assistance in accordance with the requirements of this chapter.
+There is established an estuary habitat restoration program under which the Secretary may carry out estuary habitat restoration projects and provide technical assistance through the award of contracts and cooperative agreements in accordance with the requirements of this chapter.
 
 #### (b) Origin of projects
 
@@ -30,7 +30,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 &emsp;In selecting an estuary habitat restoration project, the Secretary shall consider the following factors:
 
-&emsp;&emsp;(A) Whether the project is part of an approved Federal estuary management or habitat restoration plan.
+&emsp;&emsp;(A) Whether the project is part of an approved Federal or State estuary management or habitat restoration plan.
 
 &emsp;&emsp;(B) The technical feasibility of the project.
 
@@ -52,21 +52,37 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 &emsp;&emsp;(A) the project occurs within a watershed in which there is a program being carried out that addresses sources of pollution and other activities that otherwise would re-impair the restored habitat; or
 
-&emsp;&emsp;(B) the project includes pilot testing of or a demonstration of an innovative technology having the potential for improved cost-effectiveness in estuary habitat restoration.
+&emsp;&emsp;(B) the project includes pilot testing of or a demonstration of an innovative technology or approach having the potential for improved cost-effectiveness in estuary habitat restoration.
 
 #### (d) Cost sharing
 
 #### (1) Federal share
 
-&emsp;Except as provided in paragraph (2) and subsection (e)(2) of this section, the Federal share of the cost of an estuary habitat restoration project (other than the cost of operation and maintenance of the project) carried out under this chapter shall not exceed 65 percent of such cost.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in paragraph (2) and subsection (e)(2) of this section, the Federal share of the cost of an estuary habitat restoration project (other than the cost of operation and maintenance of the project) carried out under this chapter shall not exceed 65 percent of such cost.
+
+#### (B) Monitoring
+
+#### (i) Costs
+
+&emsp;&emsp;&emsp;The costs of monitoring an estuary habitat restoration project funded under this chapter may be included in the total cost of the estuary habitat restoration project.
+
+#### (ii) Goals
+
+&emsp;&emsp;&emsp;The goals of the monitoring shall be—
+
+&emsp;&emsp;&emsp;&emsp;(I) to measure the effectiveness of the restoration project; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to allow adaptive management to ensure project success.
 
 #### (2) Innovative technology costs
 
-&emsp;The Federal share of the incremental additional cost of including in a project pilot testing of or a demonstration of an innovative technology described in subsection (c)(4)(B) of this section shall be 85 percent.
+&emsp;The Federal share of the incremental additional cost of including in a project pilot testing of or a demonstration of an innovative technology or approach described in subsection (c)(4)(B) of this section shall be 85 percent.
 
 #### (3) Non-Federal share
 
-&emsp;The non-Federal share of the cost of an estuary habitat restoration project carried out under this chapter shall include lands, easements, rights-of-way, and relocations and may include services, or any other form of in-kind contribution determined by the Secretary to be an appropriate contribution equivalent to the monetary amount required for the non-Federal share of the activity.
+&emsp;The non-Federal share of the cost of an estuary habitat restoration project carried out under this chapter shall include lands, easements, rights-of-way, and relocations and may include services (including monitoring), or any other form of in-kind contribution determined by the Secretary to be an appropriate contribution equivalent to the monetary amount required for the non-Federal share of the activity.
 
 #### (4) Operation and maintenance
 
@@ -90,7 +106,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 &emsp;&emsp;(A) provide all lands, easements, rights-of-way, and relocations and any other elements the Secretary determines appropriate under subsection (d)(3) of this section; and
 
-&emsp;&emsp;(B) provide for maintenance and monitoring of the project.
+&emsp;&emsp;(B) provide for long-term maintenance and monitoring of the project.
 
 #### (2) Nongovernmental organizations
 
@@ -98,7 +114,53 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### (g) Delegation of project implementation
 
-In carrying out this chapter, the Secretary may delegate project implementation to another Federal department or agency on a reimbursable basis if the Secretary, upon the recommendation of the Council, determines such delegation is appropriate.
+#### (1) In general
 
-(Pub. L. 106–457, title I, §104, Nov. 7, 2000, 114 Stat. 1960.)
+&emsp;In carrying out this chapter, the Secretary may delegate project implementation to another Federal department or agency on a reimbursable basis if the Secretary, upon the recommendation of the Council, determines such delegation is appropriate.
+
+#### (2) Small projects
+
+#### (A) Small project defined
+
+&emsp;&emsp;In this paragraph, the term “small project” means a project carried out under this chapter with an estimated Federal cost of less than $1,000,000.
+
+#### (B) Delegation of project implementation
+
+&emsp;&emsp;In carrying out this section, the Secretary, on recommendation of the Council, may delegate implementation of a small project to—
+
+&emsp;&emsp;&emsp;(i) the Secretary of the Interior (acting through the Director of the United States Fish and Wildlife Service);
+
+&emsp;&emsp;&emsp;(ii) the Under Secretary for Oceans and Atmosphere of the Department of Commerce;
+
+&emsp;&emsp;&emsp;(iii) the Administrator of the Environmental Protection Agency; or
+
+&emsp;&emsp;&emsp;(iv) the Secretary of Agriculture.
+
+#### (C) Funding
+
+&emsp;&emsp;A small project delegated to the head of a Federal department or agency under this paragraph may be carried out using funds appropriated to the department or agency under section 2908(a)(1) of this title or other funds available to the department or agency.
+
+#### (D) Agreements
+
+&emsp;&emsp;The head of a Federal department or agency to which a small project is delegated under this paragraph shall enter into an agreement with the non-Federal interest for the project generally in conformance with the criteria in subsections (d) and (e). Cooperative agreements may be used for any delegated project to allow the non-Federal interest to carry out the project on behalf of the Federal agency.
+
+(Pub. L. 106–457, title I, §104, Nov. 7, 2000, 114 Stat. 1960; Pub. L. 110–114, title V, §5017(c), Nov. 8, 2007, 121 Stat. 1197.)
+
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 110–114, §5017(c)(1), inserted “through the award of contracts and cooperative agreements” after “assistance”.
+
+Subsec. (c)(3)(A). Pub. L. 110–114, §5017(c)(2)(A), inserted “or State” after “Federal”.
+
+Subsec. (c)(4)(B). Pub. L. 110–114, §5017(c)(2)(B), inserted “or approach” after “technology”.
+
+Subsec. (d)(1). Pub. L. 110–114, §5017(c)(3)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (d)(2). Pub. L. 110–114, §5017(c)(3)(B), inserted “or approach” after “technology”.
+
+Subsec. (d)(3). Pub. L. 110–114, §5017(c)(3)(C), inserted “(including monitoring)” after “services”.
+
+Subsec. (f)(1)(B). Pub. L. 110–114, §5017(c)(4), inserted “long-term” before “maintenance”.
+
+Subsec. (g). Pub. L. 110–114, §5017(c)(5), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

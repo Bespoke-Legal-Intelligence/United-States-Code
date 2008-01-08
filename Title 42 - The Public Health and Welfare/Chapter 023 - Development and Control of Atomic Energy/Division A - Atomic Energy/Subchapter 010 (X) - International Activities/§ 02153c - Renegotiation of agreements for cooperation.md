@@ -32,13 +32,9 @@ Section 2153b of this title, referred to in subsec. (b), was in the original “
 
 1994—Subsec. (d). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date
 
-Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for thepromulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
 
 #### Delegation of Functions
 

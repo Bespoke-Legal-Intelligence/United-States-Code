@@ -10,7 +10,7 @@ As used in sections 105–109 of this title—
 
 (d) The term “State” includes any Territory or possession of the United States.
 
-(e) The term “Federal area” means any lands or premises held or acquired by or for the use of the United States or any department, establishment, or agency, of the United States; and anyFederal area, or any part thereof, which is located within the exterior boundaries of any State, shall be deemed to be a Federal area located within such State.
+(e) The term “Federal area” means any lands or premises held or acquired by or for the use of the United States or any department, establishment, or agency, of the United States; and any Federal area, or any part thereof, which is located within the exterior boundaries of any State, shall be deemed to be a Federal area located within such State.
 
 (July 30, 1947, ch. 389, 61 Stat. 645.)
 

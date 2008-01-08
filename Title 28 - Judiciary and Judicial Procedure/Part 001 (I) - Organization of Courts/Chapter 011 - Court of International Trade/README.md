@@ -23,7 +23,7 @@ In this connection former Congressman Walter Chandler said, “Among the major s
 
 The United States Customs Court \[now Court of International Trade\] as “constituted on June 17, 1930”, consisted of nine members as provided by act Sept. 21, 1922, ch. 356, title IV, §518, 42 Stat. 972, which established the Board of General Appraisers, designated the “United States Customs Court” by act May 28, 1926, ch. 411, §1, 44 Stat. 669.
 
-Provisions similar to these were contained in act Sept. 21, 1922, ch. 356, title IV, §518, 42 Stat. 972. That section was superseded by section 518 of the Tariff Act of 1930, and was repealed by section 651 (a)(1) of said 1930 act.
+Provisions similar to these were contained in act Sept. 21, 1922, ch. 356, title IV, §518, 42 Stat. 972. Thatsection was superseded by section 518 of the Tariff Act of 1930, and was repealed by section 651 (a)(1) of said 1930 act.
 
 The sentence in the former first paragraph as to sitting in a case previously participated in, is from act Aug. 5, 1909, ch. 6, §28, 36 Stat. 98, which combined and amended Customs Administrative Act June 10, 1890, ch. 407, §12, 26 Stat. 136, and section 31, as added by act May 27, 1908, ch. 205, 35 Stat. 406. Section 12 of the act of 1890 was expressly saved from repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989, and prior acts, but its provisions, other than the sentence above mentioned, were omitted from the Code.
 

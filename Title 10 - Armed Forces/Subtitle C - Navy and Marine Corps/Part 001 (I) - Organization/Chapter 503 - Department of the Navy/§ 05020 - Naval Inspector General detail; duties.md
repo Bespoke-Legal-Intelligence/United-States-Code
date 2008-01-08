@@ -56,5 +56,3 @@ Subsec. (d). Pub. L. 96–513, §503(7)(B), struck out subsec. (d) which authori
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-§5021
-

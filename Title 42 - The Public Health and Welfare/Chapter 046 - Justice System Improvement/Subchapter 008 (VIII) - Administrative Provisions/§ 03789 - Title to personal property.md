@@ -26,7 +26,7 @@ A prior section 808 of Pub. L. 90–351, title I, as added Pub. L. 96–157, §2
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 3750 of this title.
+Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5,2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 3750 of this title.
 
 #### Effective Date
 

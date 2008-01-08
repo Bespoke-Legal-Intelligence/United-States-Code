@@ -80,7 +80,7 @@ Provisions similar to those in this section were contained in section 115(b)(1)(
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–261, in introductory provisions, struck out “, not later than February 15 of each fiscal year,” after “submit to Congress” and substituted “The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report” for “The report shall be in writing and”.
+1998—Subsec. (a). Pub. L. 105–261, in introductory provisions, struck out “, not later than February 15 ofeach fiscal year,” after “submit to Congress” and substituted “The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report” for “The report shall be in writing and”.
 
 1997—Subsec. (h). Pub. L. 105–85, §522(i)(2)(A), inserted “(displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians)” after “of the following” in introductory provisions.
 
@@ -131,6 +131,4 @@ Subsec. (h). Pub. L. 104–106, §513(e), added subsec. (h).
 #### Assessment of Structure and Mix of Active and Reserve Forces
 
 Section 402 of Pub. L. 102–190, as amended by Pub. L. 102–484, div. A, title V, §513(b), Oct. 23, 1992, 106 Stat. 2406, required Secretary of Defense to submit to Congress a report containing an assessment of alternatives relating to structure and mix of active and reserve forces appropriate for carrying out assigned missions in mid- to late-1990s and an evaluation and recommendations of Secretary and Chairman of Joint Chiefs of Staff as to mix or mixes of reserve and active forces considered acceptable to carry out expected future missions, and further provided for matters to be included in report and evaluation, commencement of assessment, submission of interim and final reports, and funding for assessment.
-
-§115b
 

@@ -152,5 +152,3 @@ Definitions.—In this section:
 
 Section 1315(g) of Pub. L. 103–160 provided that in the case of projects funded under section 2511, 2512, 2513, 2523, or 2524 of this title with funds appropriated for a fiscal year beginning before Oct. 1, 1993, the amendments made by section 1315 of Pub. L. 103–160 would not alter the financial commitment requirements in effect on Nov. 30, 1993, for the non-Federal Government participants in the project.
 
-§2512
-

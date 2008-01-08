@@ -2,7 +2,7 @@
 
 #### (a) Furnishing of assistance and arms export sales, credits, and guaranties upon determination and notification of Congress of importance and vitality of such action to security interests and national security interests of United States; policy justification; fiscal year limitations; transfers between accounts
 
-(1) The President may authorize the furnishing of assistance under this chapter without regard to any provision of this chapter, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under this chapter, in furtherance of any of the purposes of this chapter, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, that to do so is important to the security interests of the United States.
+(1) The President may authorize the furnishing of assistance under this chapter without regard to any provision of this chapter, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under this chapter,in furtherance of any of the purposes of this chapter, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, that to do so is important to the security interests of the United States.
 
 (2) The President may make sales, extend credit, and issue guaranties under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], without regard to any provision of this chapter, the Arms Export Control Act, any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under the Arms Export Control Act, in furtherance of any of the purposes of such Act, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, that to do so is vital to the national security interests of the United States.
 
@@ -18,7 +18,7 @@
 
 (B) If the authority of this subsection is used both to authorize a sale under the Arms Export Control Act and to authorize funds to be used under the Arms Export Control Act or under this chapter with respect to the financing of that sale, then the use of the funds shall be counted against the limitation in subparagraph (A)(ii) and the portion, if any, of the sale which is not so financed shall be counted against the limitation in subparagraph (A)(i).
 
-(C) Not more than $50,000,000 of the $250,000,000 limitation provided in subparagraph (A)(ii) may be allocated to any one country in any fiscal year unless that country is a victim of activeaggression, and not more than $500,000,000 of the aggregate limitation of $1,000,000,000 provided in subparagraphs (A)(i) and (A)(ii) may be allocated to any one country in any fiscal year.
+(C) Not more than $50,000,000 of the $250,000,000 limitation provided in subparagraph (A)(ii) may be allocated to any one country in any fiscal year unless that country is a victim of active aggression, and not more than $500,000,000 of the aggregate limitation of $1,000,000,000 provided in subparagraphs (A)(i) and (A)(ii) may be allocated to any one country in any fiscal year.
 
 (5) The authority of this section may not be used to waive the limitations on transfers contained in section 2360(a) of this title.
 
@@ -59,10 +59,6 @@ Part IV of subchapter I (§2241 et seq.) of this chapter has been repealed. Refe
 1966—Subsec. (a). Pub. L. 89–583, §301(f), provided that the $50,000,000 limitation on allocation of funds to any country in any one fiscal year shall not apply to any country which is a victim of active Communist or Communist-supported aggression.
 
 Subsec. (c). Pub. L. 89–583, §301(g), inserted provision for reports to Congress of use of funds under this subsec.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 

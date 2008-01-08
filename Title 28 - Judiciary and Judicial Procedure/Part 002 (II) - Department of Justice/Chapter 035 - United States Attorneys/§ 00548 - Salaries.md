@@ -20,7 +20,7 @@ Act
 
 \[None\].
 
-The words “sections 5315–5317 of title 5” are substituted for “subsection (f) and (g) of section 303 of the Federal Executive Salary Act of 1964” to reflect the codification of those subsections in title 5. The words “GS–18 of the General Schedule set forth in section 5332 of title 5” are substituted for “grade 18 of the General Schedule of the Classification Act of 1949, as amended”.
+The words “sections 5315–5317 of title 5” are substituted for “subsection (f) and (g) of section 303 of theFederal Executive Salary Act of 1964” to reflect the codification of those subsections in title 5. The words “GS–18 of the General Schedule set forth in section 5332 of title 5” are substituted for “grade 18 of the General Schedule of the Classification Act of 1949, as amended”.
 
 #### 1948 Act
 

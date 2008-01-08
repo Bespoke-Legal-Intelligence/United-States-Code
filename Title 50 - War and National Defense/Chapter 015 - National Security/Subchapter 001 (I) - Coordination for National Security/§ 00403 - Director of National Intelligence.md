@@ -12,7 +12,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 &emsp;(1) serve as head of the intelligence community;
 
-&emsp;(2) act as the principal adviser to the President, to the National Security Council, and the Homeland Security Council for intelligence matters related to the national security; and
+&emsp;(2) act as the principal adviser to the President, to the National Security Council, andthe Homeland Security Council for intelligence matters related to the national security; and
 
 &emsp;(3) consistent with section 1018 of the National Security Intelligence Reform Act of 2004, oversee and direct the implementation of the National Intelligence Program.
 

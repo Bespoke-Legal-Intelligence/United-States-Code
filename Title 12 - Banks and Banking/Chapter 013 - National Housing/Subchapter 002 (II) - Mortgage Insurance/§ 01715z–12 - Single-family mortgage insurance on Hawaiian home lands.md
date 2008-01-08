@@ -34,7 +34,7 @@ For purposes of this section:
 
 Possession of a lease of Hawaiian home lands issued under section 207(a) of the Hawaiian Homes Commission Act of 1920 (42 Stat. 110), shall be sufficient to certify eligibility to receive a mortgage under this section.
 
-(June 27, 1934, ch. 847, title II, §247, as added Pub. L. 98–181, title IV, §421, Nov. 30, 1983, 97 Stat. 1213; amended Pub. L. 100–202, §101(f) \[title I, §101\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–191; Pub. L. 100–242, title IV, §§413(a), (b), 429(h), Feb. 5, 1988, 101 Stat. 1906, 1919; Pub. L. 100–628, title X, §1065, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 107–73, title II, §215, Nov. 26, 2001, 115 Stat. 677.)
+(June 27, 1934, ch. 847, title II, §247, as added Pub. L. 98–181, title IV, §421, Nov. 30, 1983, 97Stat. 1213; amended Pub. L. 100–202, §101(f) \[title I, §101\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–191; Pub. L. 100–242, title IV, §§413(a), (b), 429(h), Feb. 5, 1988, 101 Stat. 1906, 1919; Pub. L. 100–628, title X, §1065, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 107–73, title II, §215, Nov. 26, 2001, 115 Stat. 677.)
 
 #### References in Text
 

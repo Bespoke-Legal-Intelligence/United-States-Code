@@ -4,7 +4,7 @@ For the purposes of this subchapter—
 
 &emsp;(a) The term “person” includes one or more individuals, governments, governmental agencies, political subdivisions, labor unions, partnerships, associations, corporations, legal representatives, mutual companies, joint-stock companies, trusts, unincorporated organizations, trustees, trustees in cases under title 11, or receivers.
 
-&emsp;(b) The term “employer” means a person engaged in an industry affecting commerce who has fifteen or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year, and any agent of such a person, but such term does not include (1) the United States, a corporation wholly owned by the Government of the United States, an Indian tribe, or any department or agency of the District of Columbia subject by statute to procedures of the competitive service (as defined in section 2102 of title 5), or (2) a bona fide private membership club (other than a labor organization)which is exempt from taxation under section 501(c) of title 26, except that during the first year after March 24, 1972, persons having fewer than twenty-five employees (and their agents) shall not be considered employers.
+&emsp;(b) The term “employer” means a person engaged in an industry affecting commerce who has fifteen or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year, and any agent of such a person, but such term does not include (1) the United States, a corporation wholly owned by the Government of the United States, an Indian tribe, or any department or agency of the District of Columbia subject by statute to procedures of the competitive service (as defined in section 2102 of title 5), or (2) a bona fide private membership club (other than a labor organization) which is exempt from taxation under section 501(c) of title 26, except that during the first year after March 24, 1972, persons having fewer than twenty-five employees (and their agents) shall not be considered employers.
 
 &emsp;(c) The term “employment agency” means any person regularly undertaking with or without compensation to procure employees for an employer or to procure for employees opportunities to work for an employer and includes an agent of such a person.
 
@@ -22,7 +22,7 @@ For the purposes of this subchapter—
 
 &emsp;&emsp;(5) is a conference, general committee, joint or system board, or joint council subordinate to a national or international labor organization, which includes a labor organization engaged in an industry affecting commerce within the meaning of any of the preceding paragraphs of this subsection.
 
-&emsp;(f) The term “employee” means an individual employed by an employer, except that the term “employee” shall not include any person elected to public office in any State or political subdivision of any State by the qualified voters thereof, or any person chosen by such officer to be on such officer's personal staff, or an appointee on the policy making level or an immediate adviser with respect to the exercise of the constitutional or legal powers of the office. The exemption set forth in the preceding sentence shall not include employees subject to the civil service laws of a State government, governmental agency or political subdivision. With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.
+&emsp;(f) The term “employee” means an individual employed by an employer, except that theterm “employee” shall not include any person elected to public office in any State or political subdivision of any State by the qualified voters thereof, or any person chosen by such officer to be on such officer's personal staff, or an appointee on the policy making level or an immediate adviser with respect to the exercise of the constitutional or legal powers of the office. The exemption set forth in the preceding sentence shall not include employees subject to the civil service laws of a State government, governmental agency or political subdivision. With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.
 
 &emsp;(g) The term “commerce” means trade, traffic, commerce, transportation, transmission, or communication among the several States; or between a State and any place outside thereof; or within the District of Columbia, or a possession of the United States; or between points in the same State but through a point outside thereof.
 
@@ -134,7 +134,7 @@ Under and by virtue of the authority vested in me as President of the United Sta
 
 #### subpart a—duties of the secretary of labor
 
-Sec. 201. The Secretary of Labor shall be responsible for the administration and enforcement of Parts II and III of this Order. The Secretary shall adopt such rules and regulations and issue such orders as are deemed necessary and appropriate to achieve the purposes of Parts II and III of this Order.
+Sec. 201. The Secretary of Labor shall be responsible for the administration and enforcement of Parts II andIII of this Order. The Secretary shall adopt such rules and regulations and issue such orders as are deemed necessary and appropriate to achieve the purposes of Parts II and III of this Order.
 
 #### subpart b—contractors’ agreements
 
@@ -168,7 +168,7 @@ Sec. 204. (a) The Secretary of Labor may, when the Secretary deems that special 
 
 (b) The Secretary of Labor may, by rule or regulation, exempt certain classes of contracts, subcontracts, or purchase orders (1) whenever work is to be or has been performed outside the United States and no recruitment of workers within the limits of the United States is involved; (2) for standard commercial supplies or raw materials; (3) involving less than specified amounts of money or specified numbers of workers; or (4) to the extent that they involve subcontracts below a specified tier.
 
-(c) Section 202 of this Order shall not apply to a Government contractor or subcontractor that is a religious corporation, association, educational institution, or society, with respect to the employment of individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities. Such contractors and subcontractors are not exempted or excused from complying with the other requirements contained in this Order.
+(c) Section 202 of this Order shall not apply to a Government contractor or subcontractor that is a religiouscorporation, association, educational institution, or society, with respect to the employment of individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities. Such contractors and subcontractors are not exempted or excused from complying with the other requirements contained in this Order.
 
 (d) The Secretary of Labor may also provide, by rule, regulation, or order, for the exemption of facilities of a contractor that are in all respects separate and distinct from activities of the contractor related to the performance of the contract: <i>provided</i>, that such an exemption will not interfere with or impede the effectuation of the purposes of this Order: <i>and provided further</i>, that in the absence of such an exemption all facilities shall be covered by the provisions of this Order.
 
@@ -190,7 +190,7 @@ Sec. 208. (a) The Secretary of Labor, or any agency, officer, or employee in the
 
 Sec. 209. (a) In accordance with such rules, regulations, or orders as the Secretary of Labor may issue or adopt, the Secretary may:
 
-(1) Publish, or cause to be published, the names of contractors or unions which it has concluded have complied or have failed to comply with the provisions ofthis Order or of the rules, regulations, and orders of the Secretary of Labor.
+(1) Publish, or cause to be published, the names of contractors or unions which it has concluded have complied or have failed to comply with the provisions of this Order or of the rules, regulations, and orders of the Secretary of Labor.
 
 (2) Recommend to the Department of Justice that, in cases in which there is substantial or material violation or the threat of substantial or material violation of the contractual provisions set forth in Section 202 of this Order, appropriate proceedings be brought to enforce those provisions, including the enjoining, within the limitations of applicable law, of organizations, individuals, or groups who prevent directly or indirectly, or seek to prevent directly or indirectly, compliance with the provisions of this Order.
 
@@ -212,7 +212,7 @@ Sec. 212. When a contract has been cancelled or terminated under Section 209(a)(
 
 #### subpart e—certificates of merit
 
-Sec. 213. The Secretary of Labor may provide for issuance of a United States Government Certificate of Merit to employers or labor unions, or other agencies which are or may hereafter be engaged in work under Government contracts, if the Secretary is satisfied that the personnel and employment practices of the employer, or that the personnel, training, apprenticeship, membership, grievance and representation, upgrading, and other practices, and policies of the labor union or other agency conform to the purposes and provisions of this Order.
+Sec. 213. The Secretary of Labor may provide for issuance of a United States Government Certificate of Merit to employers or labor unions, or other agencies which are or may hereafter be engaged in work under Government contracts, if the Secretary is satisfied that the personnel and employment practices of the employer, or that the personnel, training, apprenticeship,membership, grievance and representation, upgrading, and other practices, and policies of the labor union or other agency conform to the purposes and provisions of this Order.
 
 Sec. 214. Any Certificate of Merit may at any time be suspended or revoked by the Secretary of Labor if the holder thereof, in the judgment of the Secretary, has failed to comply with the provisions of this Order.
 
@@ -344,7 +344,7 @@ Specific Responsibilities
 
 1–302. The Equal Employment Opportunity Commission shall assist the Office of Personnel Management, or its successor, in establishing uniform job-related qualifications and requirements for job classifications and descriptions for Federal employees involved in enforcing all Federal equal employment opportunity provisions.
 
-1–303. The Equal Employment Opportunity Commission shall issue such rules, regulations, policies, procedures or orders as it deems necessary to carry out itsresponsibilities under this order. It shall advise and offer to consult with the affected Federal departments and agencies during the development of any proposed rules, regulations, policies, procedures or orders and shall formally submit such proposed issuances to affected departments and agencies at least 15 working days prior to public announcement. The Equal Employment Opportunity Commission shall use its best efforts to reach agreement with the agencies on matters in dispute. Departments and agencies shall comply with all final rules, regulations, policies, procedures or orders of the Equal Employment Opportunity Commission.
+1–303. The Equal Employment Opportunity Commission shall issue such rules, regulations, policies, procedures or orders as it deems necessary to carry out its responsibilities under this order. It shall advise and offer to consult with the affected Federal departments and agencies during the development of any proposed rules, regulations, policies, procedures or orders and shall formally submit such proposed issuances to affected departments and agencies at least 15 working days prior to public announcement. The Equal Employment Opportunity Commission shall use its best efforts to reach agreement with the agencies on matters in dispute. Departments and agencies shall comply with all final rules, regulations, policies, procedures or orders of the Equal Employment Opportunity Commission.
 
 1–304. All Federal departments and agencies shall advise and offer to consult with the Equal Employment Opportunity Commission during the development of any proposed rules, regulations, policies, procedures or orders concerning equal employment opportunity. Departments and agencies shall formally submit such proposed issuances to the Equal Employment Opportunity Commission and other interested Federal departments and agencies at least 15 working days prior to public announcement. The Equal Employment Opportunity Commission shall review such proposed rules, regulations, policies, procedures or orders to ensure consistency among the operations of the various Federal departments and agencies. Issuances related to internal management and administration are exempt from this clearance process. Case handling procedures unique to a single program also are exempt, although the Equal Employment Opportunity Commission may review such procedures in order to assure maximum consistency within the Federal equal employment opportunity program.
 
@@ -362,7 +362,7 @@ Specific Responsibilities
 
 Annual Report
 
-1–401. The Equal Employment Opportunity Commission shall include in the annual report transmitted to the President and the Congress pursuant to Section 715 of Title VII of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e–14), a statement of the progress that has been made in achieving the purpose of this order. The Equal Employment Opportunity Commission shall provide Federal departments and agencies an opportunity to comment on the report prior to formal submission.
+1–401. The Equal Employment Opportunity Commission shall include in the annual report transmitted to the President and the Congress pursuant to Section 715of Title VII of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e–14), a statement of the progress that has been made in achieving the purpose of this order. The Equal Employment Opportunity Commission shall provide Federal departments and agencies an opportunity to comment on the report prior to formal submission.
 
 #### 1–5.
 

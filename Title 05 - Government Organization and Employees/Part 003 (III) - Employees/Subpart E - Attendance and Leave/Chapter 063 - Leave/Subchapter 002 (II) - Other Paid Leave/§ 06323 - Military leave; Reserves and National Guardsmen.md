@@ -74,7 +74,7 @@ Section 8401(30) of this title, referred to in subsec. (d)(1), was amended gener
 
 Subsec. (d)(1). Pub. L. 106–65, §§672(b) and 1105(a), amended par. (1) identically, striking out “noncombat” after “for participation in”.
 
-1996—Subsec. (b). Pub. L. 104–106, §516(a), inserted at end “Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.”
+1996—Subsec. (b). Pub. L. 104–106, §516(a), inserted at end “Upon the request of an employee, the period forwhich an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.”
 
 Subsec. (d). Pub. L. 104–106, §1039, added subsec. (d).
 
@@ -128,7 +128,7 @@ Section 2 of Pub. L. 96–431 provided that: “The amendments made by the first
 
 #### Effective Date of 1979 Amendments
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
 

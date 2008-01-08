@@ -2,7 +2,7 @@
 
 (a)
 
-Preemption After Decision.—A State may not enforce a State law or regulation on commercial motor vehicle safety that the Secretaryof Transportation decides under this section may not be enforced.
+Preemption After Decision.—A State may not enforce a State law or regulation on commercial motor vehicle safety that the Secretary of Transportation decides under this section may not be enforced.
 
 (b)
 

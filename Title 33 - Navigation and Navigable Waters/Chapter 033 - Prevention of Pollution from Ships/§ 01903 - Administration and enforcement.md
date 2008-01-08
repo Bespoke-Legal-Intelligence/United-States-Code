@@ -2,7 +2,7 @@
 
 #### (a) Duty of Secretary; Annexes of Convention applicable to seagoing vessels
 
-Unless otherwise specified in this chapter, the Secretary shall administer and enforce the MARPOL Protocol, Annex IV to the Antarctic Protocol, and this chapter. In the administration and enforcement of the MARPOL Protocol and this chapter, Annexes I and II of the Convention apply only to seagoing ships.
+Unless otherwise specified in this chapter, the Secretary shall administer and enforce theMARPOL Protocol, Annex IV to the Antarctic Protocol, and this chapter. In the administration and enforcement of the MARPOL Protocol and this chapter, Annexes I and II of the Convention apply only to seagoing ships.
 
 #### (b) Regulations; refuse record books; waste management plans; notification of crew and passengers
 
@@ -40,7 +40,7 @@ The effective date of this paragraph, referred to in subsec. (b)(2)(C), is Dec. 
 
 Subsec. (b)(1). Pub. L. 104–227, §201(c)(2), inserted “, Annex IV to the Antarctic Protocol,” after “the MARPOL Protocol”.
 
-Subsec. (b)(2)(A). Pub. L. 104–227, §201(c)(3), (4), struck out “within 1 year after the effective date of this paragraph,” before “prescribe” in introductory provisionsand inserted “and of Annex IV to the Antarctic Protocol” after “the Convention” in cl. (i).
+Subsec. (b)(2)(A). Pub. L. 104–227, §201(c)(3), (4), struck out “within 1 year after the effective date of this paragraph,” before “prescribe” in introductory provisions and inserted “and of Annex IV to the Antarctic Protocol” after “the Convention” in cl. (i).
 
 1987—Subsec. (a). Pub. L. 100–220, §2107(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unless otherwise specified herein, the Secretary shall administer and enforce the MARPOL Protocol and this chapter. In the administration and enforcement of the MARPOL Protocol and this chapter, Annexes I and II of the MARPOL Protocol shall be applicable only to seagoing ships.”
 

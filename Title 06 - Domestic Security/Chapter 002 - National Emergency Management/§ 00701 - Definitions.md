@@ -48,7 +48,7 @@ Section 314(a)(6) of this title, referred to in par. (13), was in the original �
 
 #### Change of Name
 
-Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
+Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L.109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
 
 #### Effective Date
 
@@ -75,6 +75,10 @@ Exceptions.—The following shall take effect on March 31, 2007:
 #### Short Title
 
 Pub. L. 109–295, title VI, §601, Oct. 4, 2006, 120 Stat. 1394, provided that: “This title \[see Tables for classification\] may be cited as the ‘Post-Katrina Emergency Management Reform Act of 2006’.”
+
+#### Clarification of Congressional Intent
+
+Pub. L. 110–53, title XXII, §2202, Aug. 3, 2007, 121 Stat. 541, provided that: “The Federal departments and agencies (including independent agencies) identified under the provisions of this title \[enacting provisions set out as notes under section 194 of this title and section 247d–3a of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 309 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\] and title III of this Act \[enacting sections 579 and 580 of this title and amending sections 194 and 572 of this title\] and title VI of Public Law 109–295 \[see Short Title note set out above\] shall carry out their respective duties and responsibilities in a manner that does not impede the implementation of requirements specified under this title and title III of this Act and title VI of Public Law 109–295. Notwithstanding the obligations under section 1806 of Public Law 109–295 \[probably means Pub. L. 107–296; 6 U.S.C. 576\], the provisions of this title and title III of this Act and title VI of Public Law 109–295 shall not preclude or obstruct any such department or agency from exercising its other authorities related to emergency communications matters.”
 
 #### National Weather Service
 

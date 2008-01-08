@@ -48,7 +48,7 @@ The Center shall—
 
 &emsp;(1) consult with the Secretary of the Senate on the administration of this section;
 
-&emsp;(2) maintain records on all employees covered under this section in such manner as theSecretary of the Senate may require for administrative purposes;
+&emsp;(2) maintain records on all employees covered under this section in such manner as the Secretary of the Senate may require for administrative purposes;
 
 &emsp;(3) make deductions and withholdings from the pay of employees in the amounts determined under sections 8422, 8432, and 8707 of title 5; and
 

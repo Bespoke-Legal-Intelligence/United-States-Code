@@ -62,7 +62,7 @@ The corporation is authorized to issue to the Secretary of the Treasury notes or
 
 &emsp;(B) earnings on investments of the fund or on assets credited to the fund.
 
-> The fund shall be available for making payments pursuant to the supplemental benefit guarantee program established under section 1322a(g)(2) of this title, including those expensesand other charges determined to be appropriate by the corporation.
+> The fund shall be available for making payments pursuant to the supplemental benefit guarantee program established under section 1322a(g)(2) of this title, including those expenses and other charges determined to be appropriate by the corporation.
 
 (3) The corporation may invest amounts of the fund in such obligations as the corporation considers appropriate.
 

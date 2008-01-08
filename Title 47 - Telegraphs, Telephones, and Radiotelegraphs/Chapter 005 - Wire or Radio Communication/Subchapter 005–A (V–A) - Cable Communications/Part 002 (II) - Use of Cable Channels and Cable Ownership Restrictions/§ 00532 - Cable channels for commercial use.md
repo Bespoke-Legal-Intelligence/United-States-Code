@@ -20,7 +20,7 @@ The purpose of this section is to promote competition in the delivery of diverse
 
 (2) Any Federal agency, State, or franchising authority may not require any cable system to designate channel capacity for commercial use by unaffiliated persons in excess of the capacity specified in paragraph (1), except as otherwise provided in this section.
 
-(3) A cable operator may not be required, as part of a request for proposals or as part of a proposal for renewal, subject to section 546 of this title, to designate channel capacity for any use (other than commercial use by unaffiliated persons under this section) except as provided in sections 531 and 557 of this title, but a cable operator may offer in a franchise, or proposal for renewal thereof, to provide, consistent with applicable law, such capacity for other than commercial use by such persons.
+(3) A cable operator may not be required, as part of a request for proposals or as part of aproposal for renewal, subject to section 546 of this title, to designate channel capacity for any use (other than commercial use by unaffiliated persons under this section) except as provided in sections 531 and 557 of this title, but a cable operator may offer in a franchise, or proposal for renewal thereof, to provide, consistent with applicable law, such capacity for other than commercial use by such persons.
 
 (4) A cable operator may use any unused channel capacity designated pursuant to this section until the use of such channel capacity is obtained, pursuant to a written agreement, by a person unaffiliated with the operator.
 
@@ -60,7 +60,7 @@ Any person aggrieved by the failure or refusal of a cable operator to make chann
 
 #### (f) Presumption of reasonableness and good faith
 
-In any action brought under this section in any Federal district court or before the Commission, there shall be a presumption that the price, terms, and conditions for use of channel capacity designated pursuant to subsection (b) of this section are reasonable and in good faith unless shown by clear and convincing evidence to the contrary.
+In any action brought under this section in any Federal district court or before the Commission, there shall be a presumption that the price, terms, and conditions for use of channel capacity designated pursuant to subsection (b)of this section are reasonable and in good faith unless shown by clear and convincing evidence to the contrary.
 
 #### (g) Promulgation of rules
 
@@ -76,7 +76,7 @@ Any cable service offered pursuant to this section shall not be provided, or sha
 
 (2) For purposes of this subsection, the term “qualified minority programming source” means a programming source which devotes substantially all of its programming to coverage of minority viewpoints, or to programming directed at members of minority groups, and which is over 50 percent minority-owned, as the term “minority” is defined in section 309(i)(3)(C)(ii) of this title.
 
-(3) For purposes of this subsection, the term “qualified educational programming source” means a programming source which devotes substantially all of its programming to educational or instructional programming that promotes public understanding of mathematics, the sciences, the humanities, and the arts and has adocumented annual expenditure on programming exceeding $15,000,000. The annual expenditure on programming means all annual costs incurred by the programming source to produce or acquire programs which are scheduled to be televised, and specifically excludes marketing, promotion, satellite transmission and operational costs, and general administrative costs.
+(3) For purposes of this subsection, the term “qualified educational programming source” means a programming source which devotes substantially all of its programming to educational or instructional programming that promotes public understanding of mathematics, the sciences, the humanities, and the arts and has a documented annual expenditure on programming exceeding $15,000,000. The annual expenditure on programming means all annual costs incurred by the programming source to produce or acquire programs which are scheduled to be televised, and specifically excludes marketing, promotion, satellite transmission and operational costs, and general administrative costs.
 
 (4) Nothing in this subsection shall substitute for the requirements to carry qualified noncommercial educational television stations as specified under section 535 of this title.
 
@@ -110,7 +110,7 @@ Subsec. (c)(1). Pub. L. 102–385, §9(b)(1), inserted “and with rules prescri
 
 Subsec. (c)(4). Pub. L. 102–385, §9(b)(2), added par. (4).
 
-Subsec. (h). Pub. L. 102–385, §10(a), inserted “or the cable operator” after “franchising authority” and inserted at end “This subsection shall permit a cable operator to enforce prospectively a written and published policy of prohibiting programming that the cable operator reasonably believes describes or depicts sexual or excretory activities or organs in a patently offensive manner as measured by contemporary community standards.”
+Subsec. (h). Pub. L. 102–385, §10(a), inserted “or the cable operator” after “franchising authority” and inserted at end “This subsection shall permit a cable operator to enforce prospectively a written and published policy of prohibiting programming that the cable operator reasonably believes describes or depicts sexual or excretory activities or organs in a patently offensivemanner as measured by contemporary community standards.”
 
 Subsec. (i). Pub. L. 102–385, §9(c), added subsec. (i).
 

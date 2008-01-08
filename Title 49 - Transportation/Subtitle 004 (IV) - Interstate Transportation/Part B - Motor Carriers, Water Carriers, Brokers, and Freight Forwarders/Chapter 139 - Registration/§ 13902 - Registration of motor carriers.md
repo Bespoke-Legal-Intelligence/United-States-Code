@@ -286,6 +286,48 @@ Subsecs. (c)(4)(A), (d)(1)(A), (2). Pub. L. 104–287, §5(32)(C), substituted �
 
 Pub. L. 109–59, title IV, §4308, Aug. 10, 2005, 119 Stat. 1774, provided that: “The Secretary \[of Transportation\] may issue such regulations as the Secretary determines are necessary to carry out this subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] and the amendments made by this subtitle.”
 
+#### Authority of Mexican Motor Carriers To Operate Beyond United States Municipalities and Commercial Zones on United States-Mexico Border
+
+Pub. L. 110–28, title VI, §6901, May 25, 2007, 121 Stat. 183, provided that:
+
+“(a) Hereafter, funds limited or appropriated for the Department of Transportation may be obligated or expended to grant authority to a Mexico-domiciled motor carrier to operate beyond United States municipalities and commercial zones on the United States-Mexico border only to the extent that—
+
+&emsp;“(1) granting such authority is first tested as part of a pilot program;
+
+&emsp;“(2) such pilot program complies with the requirements of section 350 of Public Law 107–87 \[set out below\] and the requirements of section 31315(c) of title 49, United States Code, related to pilot programs; and
+
+&emsp;“(3) simultaneous and comparable authority to operate within Mexico is made available to motor carriers domiciled in the United States.
+
+“(b) Prior to the initiation of the pilot program described in subsection (a) in any fiscal year—
+
+&emsp;“(1) the Inspector General of the Department of Transportation shall transmit to Congress and the Secretary of Transportation a report verifying compliance with each of the requirements of subsection (a) of section 350 of Public Law 107–87, including whether the Secretary of Transportation has established sufficient mechanisms to apply Federal motor carrier safety laws and regulations to motor carriers domiciled in Mexico that are granted authority to operate beyond the United States municipalities and commercial zones on the United States-Mexico border and to ensure compliance with such laws and regulations; and
+
+&emsp;“(2) the Secretary of Transportation shall—
+
+&emsp;&emsp;“(A) take such action as may be necessary to address any issues raised in the report of the Inspector General under subsection (b)(1) and submit a report to Congress detailing such actions; and
+
+&emsp;&emsp;“(B) publish in the Federal Register, and provide sufficient opportunity for public notice and comment—
+
+&emsp;&emsp;&emsp;“(i) comprehensive data and information on the pre-authorization safety audits conducted before and after the date of enactment of this Act \[May 25, 2007\] of motor carriers domiciled in Mexico that are granted authority to operate beyond the United States municipalities and commercial zones on the United States-Mexico border;
+
+&emsp;&emsp;&emsp;“(ii) specific measures to be required to protect the health and safety of the public, including enforcement measures and penalties for noncompliance;
+
+&emsp;&emsp;&emsp;“(iii) specific measures to be required to ensure compliance with section 391.11(b)(2) and section 365.501(b) of title 49, Code of Federal Regulations;
+
+&emsp;&emsp;&emsp;“(iv) specific standards to be used to evaluate the pilot program and compare any change in the level of motor carrier safety as a result of the pilot program; and
+
+&emsp;&emsp;&emsp;“(v) a list of Federal motor carrier safety laws and regulations, including the commercial drivers license requirements, for which the Secretary of Transportation will accept compliance with a corresponding Mexican law or regulation as the equivalent to compliance with the United States law or regulation, including for each law or regulation an analysis as to how the corresponding United States and Mexican laws and regulations differ.
+
+“(c) During and following the pilot program described in subsection (a), the Inspector General of the Department of Transportation shall monitor and review the conduct of the pilot program and submit to Congress and the Secretary of Transportation an interim report, 6 months after the commencement of the pilot program, and a final report, within 60 days after the conclusion of the pilot program. Such reports shall address whether—
+
+&emsp;“(1) the Secretary of Transportation has established sufficient mechanisms to determine whether the pilot program is having any adverse effects on motor carrier safety;
+
+&emsp;“(2) Federal and State monitoring and enforcement activities are sufficient to ensure that participants in the pilot program are in compliance with all applicable laws and regulations; and
+
+&emsp;“(3) the pilot program consists of a representative and adequate sample of Mexico-domiciled carriers likely to engage in cross-border operations beyond United States municipalities and commercial zones on the United States-Mexico border.
+
+“(d) In the event that the Secretary of Transportation in any fiscal year seeks to grant operating authority for the purpose of initiating cross-border operations beyond United States municipalities and commercial zones on the United States-Mexico border either with Mexico-domiciled motor coaches or Mexico-domiciled commercial motor vehicles carrying placardable quantities of hazardous materials, such activities shall be initiated only after the conclusion of a separate pilot program limited to vehicles of the pertinent type. Each such separate pilot program shall follow the same requirements and processes stipulated under subsections (a) through (c) of this section and shall be planned, conducted and evaluated in concert with the Department of Homeland Security or its Inspector General, as appropriate, so as to address any and all security concerns associated with such cross-border operations.”
+
 #### Relationship to Other Laws
 
 Pub. L. 109–59, title IV, §4302, Aug. 10, 2005, 119 Stat. 1761, provided that: “Except as provided in section 14504 of title 49, United States Code, and sections 14504a and 14506 of title 49, United States Code, as added by this subtitle, this subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law.”
@@ -294,7 +336,7 @@ Pub. L. 109–59, title IV, §4302, Aug. 10, 2005, 119 Stat. 1761, provided that
 
 Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
-“(a) No funds limited or appropriated in this Act \[see Tables for classification\] may be obligated or expended for the review or processing of an application by a Mexican motor carrier for authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border until the Federal Motor Carrier Safety Administration—
+“(a) No funds limited or appropriated in this Act \[see Tables for classification\] may be obligated or expended for the review or processing of an application by a Mexican motor carrier for authority to operate beyond United States municipalities and commercial zones onthe United States-Mexico border until the Federal Motor Carrier Safety Administration—
 
 &emsp;“(1)(A) requires a safety examination of such motor carrier to be performed before the carrier is granted conditional operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
 
@@ -362,7 +404,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 &emsp;&emsp;“(A) interim final regulations under section 210(b) of the Motor Carrier Safety Improvement Act of 1999 \[Pub. L. 106–159\] (49 U.S.C. 31144 note) that establish minimum requirements for motor carriers, including foreign motor carriers, to ensure they are knowledgeable about Federal safety standards, that may include the administration of a proficiency examination;
 
-&emsp;&emsp;“(B) interim final regulations under section 31148 of title 49, United States Code, that implement measures to improve training and provide for the certification of motor carrier safety auditors;
+&emsp;&emsp;“(B) interim final regulations under section 31148 of title 49, United States Code, that implementmeasures to improve training and provide for the certification of motor carrier safety auditors;
 
 &emsp;&emsp;“(C) a policy under sections 218(a) and (b) of that Act (49 U.S.C. 31133 note) establishing standards for the determination of the appropriate number of Federal and State motor carrier inspectors for the United States-Mexico border;
 
@@ -398,7 +440,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 “(e) For purposes of this section, the term ‘Mexican motor carrier’ shall be defined as a Mexico-domiciled motor carrier operating beyond United States municipalities and commercial zones on the United States-Mexico border.
 
-“(f) In addition to amounts otherwise made available in this Act, to be derived from the Highway Trust Fund, there is hereby appropriated to the Federal Motor Carrier Safety Administration, $25,866,000 for thesalary, expense, and capital costs associated with the requirements of this section.”
+“(f) In addition to amounts otherwise made available in this Act, to be derived from the Highway Trust Fund, there is hereby appropriated to the Federal Motor Carrier Safety Administration, $25,866,000 for the salary, expense, and capital costs associated with the requirements of this section.”
 
 #### Limited Modification to Moratorium on Issuance of Certificates or Permits With Respect to Mexico
 
@@ -456,7 +498,7 @@ Memorandum of President of the United States, Mar. 2, 1995, 60 F.R. 12393, provi
 
 Memorandum for the Secretary of Transportation \[and\] the United States Trade Representative
 
-Pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. 10922(<i>l</i>)(1) and (2) \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\], I hereby extend foran additional 2 years both the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country. This action preserves the <i>status quo</i> and will maintain the moratorium through September 19, 1996, unless earlier revoked or modified.
+Pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. 10922(<i>l</i>)(1) and (2) \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\], I hereby extend for an additional 2 years both the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country. This action preserves the <i>status quo</i> and will maintain the moratorium through September 19, 1996, unless earlier revoked or modified.
 
 This memorandum shall be published in the Federal Register.
 

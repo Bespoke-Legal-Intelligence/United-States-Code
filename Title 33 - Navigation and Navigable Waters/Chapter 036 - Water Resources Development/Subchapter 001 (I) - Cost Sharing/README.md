@@ -16,3 +16,4 @@
 - [&sect; 02219 - Definitions](%C2%A7%2002219%20-%20Definitions.md)
 - [&sect; 02220 - Rivers and harbors and other waterways projects for benefit of navigation, flood control, hurricane protection, beach erosion control, and&#8230;](%C2%A7%2002220%20-%20Rivers%20and%20harbors%20and%20other%20waterways%20projects%20for%20benefit%20of%20navigation%2C%20flood%20control%2C%20hurricane%20protection%2C%20beach%20erosion%20control%2C%20and%E2%80%A6.md)
 - [&sect; 02221 - Cost limitations on projects](%C2%A7%2002221%20-%20Cost%20limitations%20on%20projects.md)
+- [&sect; 02222 - Use of other Federal funds](%C2%A7%2002222%20-%20Use%20of%20other%20Federal%20funds.md)

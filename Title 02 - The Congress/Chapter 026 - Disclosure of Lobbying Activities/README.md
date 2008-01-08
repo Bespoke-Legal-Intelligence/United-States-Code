@@ -14,6 +14,8 @@
 | [1610\.](%C2%A7%2001610%20-%20Estimates%20based%20on%20tax%20reporting%20system.md) | Estimates based on tax reporting system. |
 | [1611\.](%C2%A7%2001611%20-%20Exempt%20organizations.md) | Exempt organizations. |
 | [1612\.](%C2%A7%2001612%20-%20Sense%20of%20Senate%20that%20lobbying%20expenses%20should%20remain%20nondeductible.md) | Sense of Senate that lobbying expenses should remain nondeductible. |
+| [1613\.](%C2%A7%2001613%20-%20Prohibition%20on%20provision%20of%20gifts%20or%20travel%20by%20registered%20lobbyists%20to%20Members%20of%20Congress%20and%20to%20congressional%20employees.md) | Prohibition on provision of gifts or travel by registered lobbyists to Members of Congress and to congressional employees. |
+| [1614\.](%C2%A7%2001614%20-%20Annual%20audits%20and%20reports%20by%20Comptroller%20General.md) | Annual audits and reports by Comptroller General. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,3 +36,5 @@
 - [&sect; 01610 - Estimates based on tax reporting system](%C2%A7%2001610%20-%20Estimates%20based%20on%20tax%20reporting%20system.md)
 - [&sect; 01611 - Exempt organizations](%C2%A7%2001611%20-%20Exempt%20organizations.md)
 - [&sect; 01612 - Sense of Senate that lobbying expenses should remain nondeductible](%C2%A7%2001612%20-%20Sense%20of%20Senate%20that%20lobbying%20expenses%20should%20remain%20nondeductible.md)
+- [&sect; 01613 - Prohibition on provision of gifts or travel by registered lobbyists to Members of Congress and to congressional employees](%C2%A7%2001613%20-%20Prohibition%20on%20provision%20of%20gifts%20or%20travel%20by%20registered%20lobbyists%20to%20Members%20of%20Congress%20and%20to%20congressional%20employees.md)
+- [&sect; 01614 - Annual audits and reports by Comptroller General](%C2%A7%2001614%20-%20Annual%20audits%20and%20reports%20by%20Comptroller%20General.md)

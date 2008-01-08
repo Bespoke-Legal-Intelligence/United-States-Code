@@ -52,7 +52,7 @@ The Social Security Act, referred to in subsec. (d)(3), is act Aug. 14, 1935, ch
 
 “(2) Where any benefit is discontinued by reason of paragraph (1) of this subsection the Secretary may nevertheless apportion and pay to the dependent parents of the veteran on the basis of need all or any part of the benefit which would otherwise be payable to or for such incompetent veteran. Paragraph (1) of this subsection shall not prevent the payment, out of any remaining amounts discontinued under that paragraph, on account of any veteran of so much of the veteran's pension, compensation, or retirement pay as equals the amount charged to the veteran for the veteran's current care and maintenance in the institution in which treatment or care is furnished the veteran, but not more than the amount determined by the Secretary to be the proper charge as fixed by any applicable statute or valid administrative regulation.
 
-“(3) All or any part of the pension, compensation, or retirement pay payable on account of any incompetent veteran who is being furnished hospital treatment, institutional or domiciliary care may, in the discretion of the Secretary, be paid to the chief officer of the institution wherein the veteran is being furnished such treatment or care, to be properly accounted for by suchchief officer and to be used for the benefit of the veteran.
+“(3) All or any part of the pension, compensation, or retirement pay payable on account of any incompetent veteran who is being furnished hospital treatment, institutional or domiciliary care may, in the discretion of the Secretary, be paid to the chief officer of the institution wherein the veteran is being furnished such treatment or care, to be properly accounted for by such chief officer and to be used for the benefit of the veteran.
 
 “(c) Any veteran subject to the provisions of subsection (b) shall be deemed to be single and without dependents in the absence of satisfactory evidence to the contrary. In no event shall increased compensation, pension, or retirement pay of such veteran be granted for any period more than one year before receipt of satisfactory evidence showing such veteran has a spouse, child, or dependent parent.”
 
@@ -150,7 +150,7 @@ Subsec. (d). Pub. L. 92–328, §104(b), (f), redesignated subsec. (e) as (d) an
 
 Subsecs. (e), (f). Pub. L. 92–328, §104(f), (g), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-1969—Subsec. (d)(2). Pub. L. 91–24 substituted “the amount payable to the veteran while being furnishedsuch care which would be payable to him if pension were payable under section 521(c) of this title” for “$30 per month which would be payable to the veteran while being furnished such care if pension were payable to him under section 521(c) of this title”.
+1969—Subsec. (d)(2). Pub. L. 91–24 substituted “the amount payable to the veteran while being furnished such care which would be payable to him if pension were payable under section 521(c) of this title” for “$30 per month which would be payable to the veteran while being furnished such care if pension were payable to him under section 521(c) of this title”.
 
 1966—Subsec. (a)(1). Pub. L. 89–362, §1, limited the application of the rule requiring immediate reduction of withheld benefits following discharge against medical advice or as a result of disciplinary action to situations where the readmission occurs within 6 months following prior termination of the hospitalization or institutional care.
 

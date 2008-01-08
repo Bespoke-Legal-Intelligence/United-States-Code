@@ -62,7 +62,7 @@ End-of-Quarter Strength Levels.—(1) The Secretary of Defense shall prescribe a
 
 Authority for Secretary of Defense Variances for Active-Duty and Selected Reserve Strengths.—Upon determination by the Secretary of Defense that such action is in the national interest, the Secretary may—
 
-&emsp;(1) increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for any of the armed forces by a number equal to not more than 3 percent of that end strength;
+&emsp;(1) increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal yearfor any of the armed forces by a number equal to not more than 3 percent of that end strength;
 
 &emsp;(2) increase the end strength authorized pursuant to subsection (a)(1)(B) for a fiscal year for any of the armed forces by a number equal to not more than 2 percent of that end strength;
 
@@ -120,7 +120,7 @@ A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973
 
 #### Amendments
 
-2006—Subsec. (a)(1)(A). Pub. L. 109–364, §1071(g)(1)(A), made technical correction to directory language of Pub. L. 108–375, §416(a)(1). See 2004 Amendment note below.
+2006—Subsec. (a)(1)(A). Pub. L. 109–364, §1071(g)(1)(A), made technical correction to directory language ofPub. L. 108–375, §416(a)(1). See 2004 Amendment note below.
 
 Subsec. (i). Pub. L. 109–364, §1071(a)(1)(A), struck out heading and text of subsec. (i) enacted by Pub. L. 108–375, §512(b). Text read as follows: “In counting full-time National Guard duty personnel for the purpose of end-strengths authorized pursuant to subsection (a)(1), persons involuntarily performing homeland defense activities under chapter 9 of title 32 shall be excluded.”
 
@@ -232,7 +232,7 @@ Pub. L. 108–136, div. A, title IV, §403(d), Nov. 24, 2003, 117 Stat. 1452, pr
 
 #### Effective Date of 1996 Amendment
 
-Section 513(a)(2) of Pub. L. 104–106 provided that: “The amendment made by paragraph (1) \[amending this section\] does not apply with respect to fiscal year 1995.”
+Section 513(a)(2) of Pub. L. 104–106 provided that: “The amendment made by paragraph (1) \[amending thissection\] does not apply with respect to fiscal year 1995.”
 
 Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
@@ -330,7 +330,7 @@ Pub. L. 104–106, div. A, title V, §513(b), Feb. 10, 1996, 110 Stat. 305.
 
 #### Comptroller General Review of Proposed Army End Strength Allocations
 
-Pub. L. 104–106, title V, §552, Feb. 10, 1996, 110 Stat. 319, provided that, during fiscal years 1996 through 2001, the Comptroller General was (1) to analyze the plans of the Secretary of the Army for the allocation of assigned active component end strengths for the Army through the requirements process known as Total Army Analysis 2003 and through any subsequent similar requirements process of the Army that was conducted before 2002, (2) to consider whether the proposed active component end strengths and planned allocation of forces for that period was sufficient to implement the national military strategy, and (3) to submit toCongress an annual report by Mar. 1 of each year through 2002 on the Comptroller General's findings and conclusions, prior to repeal by Pub. L. 107–107, div. A, title V, §595, Dec. 28, 2001, 115 Stat. 1126.
+Pub. L. 104–106, title V, §552, Feb. 10, 1996, 110 Stat. 319, provided that, during fiscal years 1996 through 2001, the Comptroller General was (1) to analyze the plans of the Secretary of the Army for the allocation of assigned active component end strengths for the Armythrough the requirements process known as Total Army Analysis 2003 and through any subsequent similar requirements process of the Army that was conducted before 2002, (2) to consider whether the proposed active component end strengths and planned allocation of forces for that period was sufficient to implement the national military strategy, and (3) to submit to Congress an annual report by Mar. 1 of each year through 2002 on the Comptroller General's findings and conclusions, prior to repeal by Pub. L. 107–107, div. A, title V, §595, Dec. 28, 2001, 115 Stat. 1126.
 
 #### Effect of Reserve Component on Computation of End Strength Limitation for Active Forces for Fiscal Year 1995
 

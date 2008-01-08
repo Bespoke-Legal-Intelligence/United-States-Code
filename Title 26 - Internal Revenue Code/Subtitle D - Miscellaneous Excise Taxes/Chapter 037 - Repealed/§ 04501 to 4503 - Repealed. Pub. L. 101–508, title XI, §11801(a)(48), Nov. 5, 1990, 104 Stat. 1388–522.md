@@ -1,6 +1,6 @@
 ### \[§§4501 to 4503. Repealed. Pub. L. 101–508, title XI, §11801(a)(48), Nov. 5, 1990, 104 Stat. 1388–522\]
 
-Section 4501, acts Aug. 16, 1954, ch. 736, 68A Stat. 533; May 29, 1956, ch. 342, §19, 70 Stat. 221; Sept. 2, 1958, Pub. L. 85–859, title I, §162(b), 72 Stat. 1306; July 6, 1960, Pub. L. 86–592, §2, 74 Stat. 330; Mar. 31, 1961, Pub. L. 87–15, §2(a), 75 Stat. 40; May 24, 1962, Pub. L. 87–456, title III, §302(a), (b), 76 Stat. 77; July 13, 1962, Pub. L. 87–535, §18(a), 76 Stat. 166; Nov. 8, 1965, Pub. L. 89–331, §13, 79 Stat. 1280; Oct. 14, 1971, Pub. L. 92–138, §18(b), 85 Stat. 390, related to imposition of tax upon sugar manufactured in United States.
+Section 4501, acts Aug. 16, 1954, ch. 736, 68A Stat. 533; May 29, 1956, ch. 342, §19, 70 Stat. 221; Sept. 2, 1958, Pub. L. 85–859, title I, §162(b), 72 Stat. 1306; July 6, 1960, Pub. L. 86–592, §2, 74 Stat. 330; Mar. 31, 1961, Pub. L. 87–15,§2(a), 75 Stat. 40; May 24, 1962, Pub. L. 87–456, title III, §302(a), (b), 76 Stat. 77; July 13, 1962, Pub. L. 87–535, §18(a), 76 Stat. 166; Nov. 8, 1965, Pub. L. 89–331, §13, 79 Stat. 1280; Oct. 14, 1971, Pub. L. 92–138, §18(b), 85 Stat. 390, related to imposition of tax upon sugar manufactured in United States.
 
 Section 4502, acts Aug. 16, 1954, ch. 736, 68A Stat. 534; May 29, 1956, ch. 342, §20, 70 Stat. 221; June 25, 1959, Pub. L. 86–70, §22(c), 73 Stat. 146; July 12, 1960, Pub. L. 86–624, §18(f), 74 Stat. 416, provided for applicable definitions.
 

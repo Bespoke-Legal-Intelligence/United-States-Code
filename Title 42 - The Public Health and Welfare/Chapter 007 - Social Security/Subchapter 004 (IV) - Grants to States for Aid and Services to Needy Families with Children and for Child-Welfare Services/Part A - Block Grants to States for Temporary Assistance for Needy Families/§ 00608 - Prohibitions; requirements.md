@@ -28,7 +28,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not require, as a condition of providing assistance to any family under the State program funded under this part, that a member of the family assign to the State any rights to support described in subparagraph (A) which accrueafter the date the family ceases to receive assistance under the program.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not require, as a condition of providing assistance to any family under the State program funded under this part, that a member of the family assign to the State any rights to support described in subparagraph (A) which accrue after the date the family ceases to receive assistance under the program.
 
 #### (4) No assistance for teenage parents who do not attend high school or other equivalent training program
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family that includes an adult who has received assistance under any State program funded under this part attributable to fundsprovided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences, subject to this paragraph.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences, subject to this paragraph.
 
 #### (B) Minor child exception
 
@@ -156,7 +156,7 @@
 
 #### (8) Denial of assistance for 10 years to a person found to have fraudulently misrepresented residence in order to obtain assistance in 2 or more States
 
-&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX of this chapter, or the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI of this chapter. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
+&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that beginson the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX of this chapter, or the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI of this chapter. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
 
 #### (9) Denial of assistance for fugitive felons and probation and parole violators
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to any individual who is—
 
-&emsp;&emsp;&emsp;(i) fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the individual flees, for a crime, or an attemptto commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
+&emsp;&emsp;&emsp;(i) fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the individual flees, for a crime, or an attempt to commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
 
 &emsp;&emsp;&emsp;(ii) violating a condition of probation or parole imposed under Federal or State law.
 
@@ -204,7 +204,7 @@
 
 #### (B) Child support
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D of this subchapter and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case ofa family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D of this subchapter and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
 
 #### (b) Individual responsibility plans
 
@@ -278,7 +278,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (A) Income deeming rule
 
-&emsp;&emsp;The income of any sponsor of the alien and of any spouse of the sponsor is deemed to be income of the alien, to the extent that the total amount of the income exceeds the sum of—
+&emsp;&emsp;The income of any sponsor of the alien and of any spouse of the sponsor is deemed to be income of the alien, to the extent that thetotal amount of the income exceeds the sum of—
 
 &emsp;&emsp;&emsp;(i) the lesser of—
 
@@ -354,7 +354,7 @@ Each State to which a grant is made under section 603 of this title shall, at le
 
 Part D of this subchapter, referred to in subsec. (a)(2), (11)(B), is classified to section 651 et seq. of this title.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For completeclassification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 For effective date of this part, referred to in subsec. (b)(2)(B)(i), see Effective Date note set out below.
 
@@ -418,7 +418,7 @@ Pub. L. 109–171, title VII, §7301(e), Feb. 8, 2006, 120 Stat. 144, provided t
 
 “(1)
 
-In general.—Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and section 6402 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[this part and part D of this subchapter\] for calendar quarters beginning on or after such date, and without regard to whether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
+In general.—Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and section 6402 of Title 26, Internal Revenue Code\] shall take effect on October1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[this part and part D of this subchapter\] for calendar quarters beginning on or after such date, and without regard to whether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
 
 “(2)
 

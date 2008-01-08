@@ -44,5 +44,3 @@ Pub. L. 107–107, div. A, title V, §562(c), Dec. 28, 2001, 115 Stat. 1120, pro
 
 Pub. L. 106–398, §1 \[\[div. A\], title V, §575(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, provided that: “The amendments made by this section \[amending this section, section 115 of Title 32, National Guard, and section 435 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply with respect to funeral honors duty performed on or after October 1, 2000.”
 
-§12505
-

@@ -108,3 +108,7 @@ Pub. L. 106–554 amended section generally. Prior to amendment, section consist
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions for the creation and functioning of a Pribilof Islands Trust for provisions which authorized the Secretary to set apart land on Saint Paul Island for a townsite and to aid in the development of a municipal government therefor.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

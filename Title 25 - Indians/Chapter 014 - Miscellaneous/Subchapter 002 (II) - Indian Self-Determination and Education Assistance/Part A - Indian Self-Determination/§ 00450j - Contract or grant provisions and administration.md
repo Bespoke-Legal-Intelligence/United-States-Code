@@ -14,7 +14,7 @@
 
 &emsp;(iii) not inconsistent with this subchapter.
 
-(B) A list of the Federal requirements that meet the requirements of clauses (i) through (iii) of subparagraph (A) shall be included in an attachment to the contract pursuant to negotiations between the Secretary and the tribal organization.
+(B) A list of the Federal requirements that meet the requirements of clauses (i) through (iii) of subparagraph (A) shall be included in anattachment to the contract pursuant to negotiations between the Secretary and the tribal organization.
 
 (C)(i) Except as provided in subparagraph (B), no Federal law listed in clause (ii) or any other provision of Federal law (including an Executive order) relating to acquisition by the Federal Government shall apply to a construction contract that a tribe or tribal organization enters into under this subchapter, unless expressly provided in such law.
 
@@ -86,7 +86,7 @@ In connection with any self-determination contract or grant made pursuant to sec
 
 &emsp;&emsp;(A) subject to the provisions of subparagraph (B), title to property and equipment furnished by the Federal Government for use in the performance of the contract or purchased with funds under any self-determination contract or grant agreement shall, unless otherwise requested by the tribe or tribal organization, vest in the appropriate tribe or tribal organization;
 
-&emsp;&emsp;(B) if property described in subparagraph (A) has a value in excess of $5,000 at the time of the retrocession, rescission, or termination of the self-determination contract or grant agreement, at the option of the Secretary, upon the retrocession, rescission, or termination, title to such property and equipment shall revert to the Department of the Interior or the Department of Health and Human Services, as appropriate; and
+&emsp;&emsp;(B) if property described in subparagraph (A) has a value in excess of $5,000 at the timeof the retrocession, rescission, or termination of the self-determination contract or grant agreement, at the option of the Secretary, upon the retrocession, rescission, or termination, title to such property and equipment shall revert to the Department of the Interior or the Department of Health and Human Services, as appropriate; and
 
 &emsp;&emsp;(C) all property referred to in subparagraph (A) shall remain eligible for replacement on the same basis as if title to such property were vested in the United States; and
 
@@ -102,7 +102,7 @@ Contracts and grants with tribal organizations pursuant to sections 450f and 450
 
 #### (i) Division of administration of program
 
-(1) If a self-determination contract requires the Secretary to divide the administration of a program that has previously been administered for the benefit of a greater number of tribes than are represented by the tribal organizationthat is a party to the contract, the Secretary shall take such action as may be necessary to ensure that services are provided to the tribes not served by a self-determination contract, including program redesign in consultation with the tribal organization and all affected tribes.
+(1) If a self-determination contract requires the Secretary to divide the administration of a program that has previously been administered for the benefit of a greater number of tribes than are represented by the tribal organization that is a party to the contract, the Secretary shall take such action as may be necessary to ensure that services are provided to the tribes not served by a self-determination contract, including program redesign in consultation with the tribal organization and all affected tribes.
 
 (2) Nothing in this part shall be construed to limit or reduce in any way the funding for any program, project, or activity serving a tribe under this or other applicable Federal law. Any tribe or tribal organization that alleges that a self-determination contract is in violation of this section may apply the provisions of section 450m–1 of this title.
 
@@ -142,7 +142,7 @@ For purposes of section 501 of title 40 (relating to Federal sources of supply, 
 
 &emsp;(E) Upon the request of the tribe or tribal organization, the use of an alternative dispute resolution mechanism to seek resolution of all remaining areas of disagreement pursuant to the dispute resolution provisions under subchapter IV of chapter 5 of title 5.
 
-&emsp;(F) The submission to the Secretary by the tribe or tribal organization of a final contractproposal pursuant to section 450f(a) of this title.
+&emsp;(F) The submission to the Secretary by the tribe or tribal organization of a final contract proposal pursuant to section 450f(a) of this title.
 
 (4)(A) Subject to subparagraph (B), in funding a fixed-price construction contract pursuant to section 450j–1(a) of this title, the Secretary shall provide for the following:
 
@@ -178,7 +178,7 @@ Notwithstanding any other provision of law, the rental rates for housing provide
 
 #### (1) In general
 
-&emsp;At the option of an Indian tribe or tribal organization, patient records may be deemed to be Federal records under those provisions of title 44 that are commonly referred to as the “Federal Records Act of 1950” for the limited purposes of making such records eligible for storage by Federal Records Centers to the same extent and in the same manner as other Department of Health and Human Services patient records.
+&emsp;At the option of an Indian tribe or tribal organization, patient records may be deemed to be Federal records under those provisions oftitle 44 that are commonly referred to as the “Federal Records Act of 1950” for the limited purposes of making such records eligible for storage by Federal Records Centers to the same extent and in the same manner as other Department of Health and Human Services patient records.
 
 #### (2) Treatment of records
 
@@ -196,9 +196,9 @@ Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(II
 
 The Service Control Act of 1965, referred to in subsec. (a)(3)(C)(ii)(IX), probably means the Service Contract Act of 1965, or Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, as amended, which is classified generally to chapter 6 (§351 et seq.) of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 41 and Tables.
 
-The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord.No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
+Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
 
 This part, referred to in subsecs. (b) and (i)(2), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this part (450f et seq.). For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -224,7 +224,7 @@ Subsec. (<i>o</i>). Pub. L. 106–260, §8, added subsec. (<i>o</i>).
 
 1996—Subsec. (e). Pub. L. 104–109 made technical amendment to directory language of Pub. L. 103–413, §102(11). See 1994 Amendment note below.
 
-1994—Subsec. (a). Pub. L. 103–413, §102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: “Contracts with tribal organizations pursuant to section 450f of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: <i>Provided</i>, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: <i>Provided further</i>, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C. 401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts.”
+1994—Subsec. (a). Pub. L. 103–413, §102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: “Contracts with tribal organizations pursuant to section 450f of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: <i>Provided</i>, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: <i>Provided further</i>, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C.401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts.”
 
 Subsec. (e). Pub. L. 103–413, §102(11), as amended by Pub. L. 104–109, added subsec. (e) and struck out former subsec. (e) which read as follows: “Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe.”
 
@@ -250,7 +250,7 @@ Subsec. (f)(2), (3). Pub. L. 101–644, §203(e), inserted “or real” after �
 
 Subsec. (b). Pub. L. 100–472, §204(d), which directed the amendment of subsec. (b) by substituting “sections 450f and 450h” for “sections 450f, 450g, and 450h” was executed by substituting the new language for “section 450f, 450g, or 450h” as the probable intent of Congress.
 
-Subsec. (c). Pub. L. 100–472, §204(e), added subsec. (c) and struck out former subsec. (c) which read as follows: “Any contract requested by a tribe pursuant to sections 450f and 450g of this title shall be for a term not to exceed one year unless the appropriate Secretary determines that a longer term would be advisable: <i>Provided</i>, That such term may not exceed three years and shall be subject to the availability of appropriations: <i>Provided, further</i>, That the amounts of such contractsmay be renegotiated annually to reflect factors, including but not limited to cost increases beyond the control of a tribal organization.”
+Subsec. (c). Pub. L. 100–472, §204(e), added subsec. (c) and struck out former subsec. (c) which read as follows: “Any contract requested by a tribe pursuant to sections 450f and 450g of this title shall be for a term not to exceed one year unless the appropriate Secretary determines that a longer term would be advisable: <i>Provided</i>, That such term may not exceed three years and shall be subject to the availability of appropriations: <i>Provided, further</i>, That the amounts of such contracts may be renegotiated annually to reflect factors, including but not limited to cost increases beyond the control of a tribal organization.”
 
 Subsec. (d). Pub. L. 100–472, §204(e), added subsec. (d) and struck out former subsec. (d) which related to revision or amendment of contracts or grants at request or with consent of tribal organization and effective date for retrocession of contracts.
 

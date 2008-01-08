@@ -30,7 +30,7 @@ The activities of the Program shall include—
 
 &emsp;&emsp;(D) make use of ongoing research and development at the micrometer scale to support their work in nanotechnology; and
 
-&emsp;&emsp;(E) to the greatest extent possible, be established in geographically diverse locations, encourage the participation of Historically Black Colleges and Universities that are part B institutions as defined in section 1061(2) of title 20 and minority institutions (as defined in section 1067k(3) of title 20), and include institutions located in States participating in the Experimental Program to Stimulate Competitive Research (EPSCoR);
+&emsp;&emsp;(E) to the greatest extent possible, be established in geographically diverse locations, encourage the participation of Historically Black Colleges and Universities that are part B institutions as defined in section 1061(2) of title 20 and minority institutions (as defined in section 1067k(3) of title 20), and include institutions located inStates participating in the Experimental Program to Stimulate Competitive Research (EPSCoR);
 
 &emsp;(5) ensuring United States global leadership in the development and application of nanotechnology;
 
@@ -72,7 +72,7 @@ The National Science and Technology Council shall oversee the planning, manageme
 
 &emsp;&emsp;(C) the allocation of funding for interagency nanotechnology projects;
 
-&emsp;(5) propose a coordinated interagency budget for the Program to the Office of Managementand Budget to ensure the maintenance of a balanced nanotechnology research portfolio and an appropriate level of research effort;
+&emsp;(5) propose a coordinated interagency budget for the Program to the Office of Management and Budget to ensure the maintenance of a balanced nanotechnology research portfolio and an appropriate level of research effort;
 
 &emsp;(6) exchange information with academic, industry, State and local government (including State and regional nanotechnology programs), and other appropriate groups conducting research on and using nanotechnology;
 
@@ -86,7 +86,7 @@ The National Science and Technology Council shall oversee the planning, manageme
 
 #### (d) Annual report
 
-The Council shall prepare an annual report, to be submitted to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science, and other appropriate committees, at the time of the President's budget request to Congress, that includes—
+The Council shall prepare an annual report, to be submitted to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science,and other appropriate committees, at the time of the President's budget request to Congress, that includes—
 
 &emsp;(1) the Program budget, for the current fiscal year, for each agency that participates in the Program, including a breakout of spending for the development and acquisition of research facilities and instrumentation, for each program component area, and for all activities pursuant to subsection (b)(10);
 
@@ -103,6 +103,10 @@ The Council shall prepare an annual report, to be submitted to the Senate Commit
 #### References in Text
 
 Section 246 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (c)(3), is section 246 of Pub. L. 107–314, which is set out as a note under section 2358 of Title 10, Armed Forces.
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Short Title
 

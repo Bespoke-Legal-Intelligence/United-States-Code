@@ -32,7 +32,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(III) a third party directly or indirectly controls the producer and the exporter or importer, or
 
-&emsp;&emsp;&emsp;(IV) the producer and the exporter or importer directly or indirectly control a third party and there is reason to believe that the relationship causes the producer to act differently than a nonrelated producer.
+&emsp;&emsp;&emsp;(IV) the producer and the exporter or importer directly or indirectly control athird party and there is reason to believe that the relationship causes the producer to act differently than a nonrelated producer.
 
 > &emsp;&emsp;For purposes of this subparagraph, a party shall be considered to directly or indirectly control another party if the party is legally or operationally in a position to exercise restraint or direction over the other party.
 
@@ -156,7 +156,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(i) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, expressly limits access to the subsidy to an enterprise or industry, the subsidy is specific as a matter of law.
 
-&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
+&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant towhich the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) eligibility is automatic,
 
@@ -286,7 +286,7 @@ For purposes of this subtitle—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the Subsidies Agreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
+&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the SubsidiesAgreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
 
 #### (ii) Exception
 
@@ -364,7 +364,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(III) actual and potential negative effects on cash flow, inventories, employment, wages, growth, ability to raise capital, and investment,
 
-&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
+&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development andproduction efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
 
 &emsp;&emsp;&emsp;&emsp;(V) in a proceeding under part II of this subtitle, the magnitude of the margin of dumping.
 
@@ -478,7 +478,7 @@ For purposes of this subtitle—
 
 #### (H) Cumulation for determining threat of material injury
 
-&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause (i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
+&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause\(i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
 
 &emsp;&emsp;&emsp;(i) petitions were filed under section 1671a(b) or 1673a(b) of this title on the same day,
 
@@ -710,7 +710,7 @@ For purposes of this subtitle—
 
 #### (D) Regional industries
 
-&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of all subject merchandise imported into the United States.
+&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of allsubject merchandise imported into the United States.
 
 #### (25) Subject merchandise
 

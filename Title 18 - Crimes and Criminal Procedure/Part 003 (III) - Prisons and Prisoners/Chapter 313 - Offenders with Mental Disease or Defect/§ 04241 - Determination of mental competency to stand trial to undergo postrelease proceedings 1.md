@@ -34,7 +34,7 @@ Discharge.—When the director of the facility in which a defendant is hospitali
 
 (f)
 
-Admissibility of Finding of Competency.—A finding by the court that the defendant is mentally competent to stand trial shall not prejudice the defendant in raising the issue of his insanity as a defense to the offense charged,and shall not be admissible as evidence in a trial for the offense charged.
+Admissibility of Finding of Competency.—A finding by the court that the defendant is mentally competent to stand trial shall not prejudice the defendant in raising the issue of his insanity as a defense to the offense charged, and shall not be admissible as evidence in a trial for the offense charged.
 
 (June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2057; Pub. L. 109–248, title III, §302(2), July 27, 2006, 120 Stat. 619.)
 
@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 109–248, §302(2)(D), inserted “or other proceedings”
 
 #### Short Title of 1984 Amendment
 
-Section 401 of chapter IV (§§401–406) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting section 20 of this title and amending this chapter, section 3006A of this title, and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title\] may be sited \[cited\] as the ‘Insanity Defense Reform Act of 1984’.”
+Section 401 of chapter IV (§§401–406) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting section 20 of this title and amending this chapter, section 3006Aof this title, and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title\] may be sited \[cited\] as the ‘Insanity Defense Reform Act of 1984’.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “stand trial or to undergo postrelease proceedings”.</i>
 

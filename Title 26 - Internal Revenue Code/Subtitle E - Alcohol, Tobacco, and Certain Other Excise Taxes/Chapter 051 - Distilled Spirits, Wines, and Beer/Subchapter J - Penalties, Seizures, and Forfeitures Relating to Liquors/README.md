@@ -12,7 +12,7 @@
 
 #### Amendment of Analysis
 
-<i>Pub. L. 109–59, title XI, §11125(b)(19)(B), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes</i><i>imposed for periods before such date, the table of parts is amended by striking out the item for part V.</i>
+<i>Pub. L. 109–59, title XI, §11125(b)(19)(B), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, the table of parts is amended by striking out the item for part V.</i>
 
 #### Prior Provisions
 

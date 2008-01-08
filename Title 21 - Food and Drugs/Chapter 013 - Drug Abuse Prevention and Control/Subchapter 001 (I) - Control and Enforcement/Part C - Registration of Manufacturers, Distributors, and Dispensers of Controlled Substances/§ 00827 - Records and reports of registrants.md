@@ -4,7 +4,7 @@
 
 Except as provided in subsection (c) of this section—
 
-&emsp;(1) every registrant under this subchapter shall, on May 1, 1971, or as soon thereafter as such registrant first engages in the manufacture, distribution, or dispensing of controlled substances, and every second year thereafter, make a complete and accurate record of all stocks thereof on hand, except that the regulations prescribed under this section shall permit each such biennial inventory (following the initial inventory required by this paragraph) to be prepared on such registrant's regular general physical inventory date (if any) which is nearest to and does not vary by more than six months from the biennial date that would otherwise apply;
+&emsp;(1) every registrant under this subchapter shall, on May 1, 1971, or as soon thereafter as such registrant first engages in the manufacture, distribution, or dispensing of controlled substances, and every second year thereafter,make a complete and accurate record of all stocks thereof on hand, except that the regulations prescribed under this section shall permit each such biennial inventory (following the initial inventory required by this paragraph) to be prepared on such registrant's regular general physical inventory date (if any) which is nearest to and does not vary by more than six months from the biennial date that would otherwise apply;
 
 &emsp;(2) on the effective date of each regulation of the Attorney General controlling a substance that immediately prior to such date was not a controlled substance, each registrant under this subchapter manufacturing, distributing, or dispensing such substance shall make a complete and accurate record of all stocks thereof on hand; and
 
@@ -36,7 +36,7 @@ Every manufacturer registered under section 823 of this title shall, at such tim
 
 #### (e) Reporting and recordkeeping requirements of drug conventions
 
-In addition to the reporting and recordkeeping requirements under any other provision of this subchapter, each manufacturer registered under section 823 of this title shall, with respect to narcotic and nonnarcotic controlled substances manufactured by it, make such reports to the Attorney General, and maintain such records, as the Attorney General may require to enable the United States to meet its obligations under articles 19 and 20 of the Single Convention on Narcotic Drugs and article 16 of the Convention on Psychotropic Substances. The Attorney General shall administer the requirements of this subsection in such a manner as to avoid the unnecessary imposition of duplicative requirementsunder this subchapter on manufacturers subject to the requirements of this subsection.
+In addition to the reporting and recordkeeping requirements under any other provision of this subchapter, each manufacturer registered under section 823 of this title shall, with respect to narcotic and nonnarcotic controlled substances manufactured by it, make such reports to the Attorney General, and maintain such records, as the Attorney General may require to enable the United States to meet its obligations under articles 19 and 20 of the Single Convention on Narcotic Drugs and article 16 of the Convention on Psychotropic Substances. The Attorney General shall administer the requirements of this subsection in such a manner as to avoid the unnecessary imposition of duplicative requirements under this subchapter on manufacturers subject to the requirements of this subsection.
 
 #### (f) Investigational uses of drugs; procedures
 
@@ -48,7 +48,7 @@ Every registrant under this subchapter shall be required to report any change of
 
 #### (h) Reporting requirements for GHB
 
-In the case of a drug product containing gamma hydroxybutyric acid for which an application has been approved under section 355 of this title, the Attorney General may, in addition to any other requirements that apply under this section with respect to such a drug product, establish any of the following as reporting requirements:
+In the case of a drug product containing gamma hydroxybutyric acid for which an application has been approved under section 355 of this title, the Attorney General may, in addition to any other requirements that apply under thissection with respect to such a drug product, establish any of the following as reporting requirements:
 
 &emsp;(1) That every person who is registered as a manufacturer of bulk or dosage form, as a packager, repackager, labeler, relabeler, or distributor shall report acquisition and distribution transactions quarterly, not later than the 15th day of the month succeeding the quarter for which the report is submitted, and annually report end-of-year inventories.
 

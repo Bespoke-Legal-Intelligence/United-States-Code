@@ -2,7 +2,7 @@
 
 #### (a) Lack of formalized contract
 
-Where any person has arranged to furnish or furnished to a contracting agency or to a warcontractor any materials, services, or facilities related to the prosecution of the war, without a formal contract, relying in good faith upon the apparent authority of an officer or agent of a contracting agency, written or oral instructions, or any other request to proceed from a contracting agency, the contracting agency shall pay such person fair compensation therefor.
+Where any person has arranged to furnish or furnished to a contracting agency or to a war contractor any materials, services, or facilities related to the prosecution of the war, without a formal contract, relying in good faith upon the apparent authority of an officer or agent of a contracting agency, written or oral instructions, or any other request to proceed from a contracting agency, the contracting agency shall pay such person fair compensation therefor.
 
 #### (b) Technical defects or omissions
 

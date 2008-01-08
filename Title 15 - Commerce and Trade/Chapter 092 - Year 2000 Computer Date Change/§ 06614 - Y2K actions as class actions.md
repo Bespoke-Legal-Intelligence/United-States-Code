@@ -6,7 +6,7 @@ A Y2K action involving a claim that a product or service is defective may be mai
 
 &emsp;(1) it satisfies all other prerequisites established by applicable Federal or State law, including applicable rules of civil procedure; and
 
-&emsp;(2) the court finds that the defect in a product or service as alleged would be a materialdefect for the majority of the members of the class.
+&emsp;(2) the court finds that the defect in a product or service as alleged would be a material defect for the majority of the members of the class.
 
 #### (b) Notification
 
@@ -34,7 +34,7 @@ In any Y2K action that is maintained as a class action, the court, in addition t
 
 &emsp;&emsp;(iii) the claims asserted will be governed primarily by the laws of that State;
 
-&emsp;&emsp;(B) the primary defendants are States, State officials, or other governmental entities against whom the district courts of the United States may be foreclosed from ordering relief;
+&emsp;&emsp;(B) the primary defendants are States, State officials, or other governmental entities against whom the district courts of theUnited States may be foreclosed from ordering relief;
 
 &emsp;&emsp;(C) the plaintiff class does not seek an award of punitive damages, and the amount in controversy is less than the sum of $10,000,000 (exclusive of interest and costs), computed on the basis of all claims to be determined in the action; or
 

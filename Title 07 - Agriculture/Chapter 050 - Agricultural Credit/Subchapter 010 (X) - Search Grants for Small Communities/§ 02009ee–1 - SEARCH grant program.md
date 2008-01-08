@@ -90,7 +90,7 @@ To be eligible to receive a SEARCH grant, a small community in a State shall sub
 
 #### (A) In general
 
-&emsp;&emsp;Any unexpended funds that are not awarded under subsection (f) of this section or paragraph (1) shall be retained by the State rural development director for award during the following fiscal year.
+&emsp;&emsp;Any unexpended funds that are not awarded under subsection (f) of this section or paragraph (1) shall be retained by the Staterural development director for award during the following fiscal year.
 
 #### (B) Limitation
 

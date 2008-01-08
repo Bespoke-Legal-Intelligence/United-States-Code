@@ -24,7 +24,7 @@ The Attorney General may make grants to States, State courts, local courts, unit
 
 #### (b) Limitation
 
-Economic sanctions imposed on an offender pursuant to this section shall not be at a level that would interfere with the offender's rehabilitation.
+Economic sanctions imposed on an offender pursuant to this section shall not be at a levelthat would interfere with the offender's rehabilitation.
 
 #### (c) Mandatory drug testing and mandatory sanctions
 

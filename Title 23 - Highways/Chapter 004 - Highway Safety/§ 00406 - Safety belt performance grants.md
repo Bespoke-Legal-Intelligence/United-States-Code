@@ -38,7 +38,7 @@ Shortfall.—If the total amount of grants provided for by this subsection for a
 
 &emsp;(5)
 
-Catch-up grants.—The Secretary shall make a grant to any State eligible for a grant under this subsection that did not receive a grant for a fiscal year because of the application of paragraph (4), in the next fiscal year if the State's conforming primary safety belt use law remains in effect or its safety belt use rate is 85 percent or more for the 2 consecutive calendar years preceding such next fiscal year (subject to the condition in paragraph (4)).
+Catch-up grants.—The Secretary shall make a grant to any State eligible for a grant under this subsection that did not receive a grant for a fiscal year because of the application of paragraph (4), in the next fiscal year if the State's conforming primary safety belt use law remains in effect or its safety belt use rateis 85 percent or more for the 2 consecutive calendar years preceding such next fiscal year (subject to the condition in paragraph (4)).
 
 (c)
 
@@ -64,7 +64,7 @@ Additional grants.—The Secretary shall make additional grants under this secti
 
 &emsp;(2)
 
-Allocation.—The additional grants made under this subsection shall be allocated among all States that, as of that date, have enacted, have in effect, and are enforcing conforming primary safety belt laws for all passengermotor vehicles. The allocations shall be made in accordance with the formula for apportioning funds among the States under section 402(c).
+Allocation.—The additional grants made under this subsection shall be allocated among all States that, as of that date, have enacted, have in effect, and are enforcing conforming primary safety belt laws for all passenger motor vehicles. The allocations shall be made in accordance with the formula for apportioning funds among the States under section 402(c).
 
 (e)
 

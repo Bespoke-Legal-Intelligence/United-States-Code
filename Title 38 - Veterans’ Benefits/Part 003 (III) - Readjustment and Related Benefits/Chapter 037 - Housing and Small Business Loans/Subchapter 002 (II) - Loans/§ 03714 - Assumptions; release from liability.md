@@ -1,6 +1,6 @@
 ### §3714. Assumptions; release from liability
 
-(a)(1) Except as provided in subsection (f) of this section, if a veteran or any other person disposes of residential property securing a loan guaranteed, insured, or made under this chapter and the veteran or other person notifies the holder of the loan in writing before the property is disposed of, the veteran or other person, as the case may be, shall be relieved of all further liability to the Secretary with respect to the loan (including liability for any loss resulting from any default of the purchaser or any subsequent owner of the property) and the application for assumption shall be approved if the holder determines that—
+(a)(1) Except as provided in subsection (f) of this section, if a veteran or any other person disposes of residential property securing a loan guaranteed, insured, or made under this chapter and the veteran or other person notifies the holder of the loan in writing before the propertyis disposed of, the veteran or other person, as the case may be, shall be relieved of all further liability to the Secretary with respect to the loan (including liability for any loss resulting from any default of the purchaser or any subsequent owner of the property) and the application for assumption shall be approved if the holder determines that—
 
 &emsp;(A) the loan is current; and
 
@@ -24,7 +24,7 @@
 
 (ii) If the Secretary determines under subparagraph (A) of this paragraph that the purchaser does not meet the requirements of paragraph (1)(B) of this subsection, the Secretary may direct the holder to approve the assumption of the loan if—
 
-&emsp;(I) the Secretary determines that the transferor of the property is unable to make payments on the loan and has made reasonable efforts to find a buyer who meets the requirements of paragraph (1)(B) of this subsection and that, as a result, the proposed transfer isin the best interests of the Department and the transferor;
+&emsp;(I) the Secretary determines that the transferor of the property is unable to make payments on the loan and has made reasonable efforts to find a buyer who meets the requirements of paragraph (1)(B) of this subsection and that, as a result, the proposed transfer is in the best interests of the Department and the transferor;
 
 &emsp;(II) the transferor has requested, within 15 days after receiving the notice referred to in subparagraph (A) of this paragraph, that the Secretary approve the assumption; and
 
@@ -50,7 +50,7 @@
 
 (f)(1) This section shall apply—
 
-&emsp;(A) in the case of loans other than loans to finance the purchase of real property described in section 3733(a)(1) of this title, only to loans for which commitments are made on or after March 1, 1988; and
+&emsp;(A) in the case of loans other than loans to finance the purchase of real property describedin section 3733(a)(1) of this title, only to loans for which commitments are made on or after March 1, 1988; and
 
 &emsp;(B) in the case of loans to finance the purchase of such property, only to loans which are closed after January 1, 1989.
 

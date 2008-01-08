@@ -52,9 +52,21 @@ In approving applications for upward bound projects under this division for any 
 
 Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $60 per month during June, July, and August, except that youth participating in a work-study position under subsection (b)(10) of this section may be paid a stipend of $300 per month during June, July, and August. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.
 
-(Pub. L. 89–329, title IV, §402C, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 487; amended Pub. L. 103–208, §2(b)(10), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(c), Oct. 7, 1998, 112 Stat. 1654.)
+#### (f) Additional funds
+
+#### (1) Authorization and appropriation
+
+&emsp;There are authorized to be appropriated, and there are appropriated to the Secretary, from funds not otherwise appropriated, $57,000,000 for each of the fiscal years 2008 through 2011 to carry out paragraph (2), except that any amounts that remain unexpended for such purpose for each of such fiscal years may be available for technical assistance and administration costs for the Upward Bound program. The authority to award grants under this subsection shall expire at the end of fiscal year 2011.
+
+#### (2) Use of funds
+
+&emsp;The amounts made available by paragraph (1) shall be available to provide assistance to all Upward Bound projects that did not receive assistance in fiscal year 2007 and that have a grant score above 70. Such assistance shall be made available in the form of 4-year grants.
+
+(Pub. L. 89–329, title IV, §402C, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 487; amended Pub. L. 103–208, §2(b)(10), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(c), Oct. 7, 1998, 112 Stat. 1654; Pub. L. 110–84, title I, §103, Sept. 27, 2007, 121 Stat. 786.)
 
 #### Amendments
+
+2007—Subsec. (f). Pub. L. 110–84 added subsec. (f).
 
 1998—Subsec. (b)(2). Pub. L. 105–244, §402(c)(1)(A), substituted “counseling and workshops” for “personal counseling”.
 
@@ -70,11 +82,15 @@ Subsec. (e). Pub. L. 105–244, §402(c)(2), substituted “except that youth pa
 
 1993—Subsec. (c). Pub. L. 103–208 substituted “foreign” for “and foreign”.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as a note under section 1070a of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
 

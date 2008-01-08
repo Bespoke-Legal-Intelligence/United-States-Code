@@ -134,7 +134,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (1) General rule
 
-&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of anyprogram authorized under this subchapter and part C of subchapter I of chapter 34 of title 42 of each such institution for a period not to exceed 6 years.
+&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter and part C of subchapter I of chapter 34 of title 42 of each such institution for a period not to exceed 6 years.
 
 #### (2) Notification
 
@@ -196,7 +196,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 (2) The Secretary may waive the requirement of section 1001(a)(2) of this title for a branch that (A) is not located in a State, (B) is affiliated with an eligible institution, and (C) was participating in one or more programs under this subchapter and part C of subchapter I of chapter 34 of title 42 on or before January 1, 1992.
 
-(Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20, 1993, 107 Stat. 2479, 2480; Pub. L. 105–244, title I, §102(a)(6)(B), (b)(6), (7), title IV, §493(a)–(c)(1), (d)–(h), Oct. 7, 1998, 112 Stat. 1618, 1622, 1761–1763.)
+(Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20,1993, 107 Stat. 2479, 2480; Pub. L. 105–244, title I, §102(a)(6)(B), (b)(6), (7), title IV, §493(a)–(c)(1), (d)–(h), Oct. 7, 1998, 112 Stat. 1618, 1622, 1761–1763.)
 
 #### References in Text
 
@@ -258,9 +258,9 @@ Subsec. (c)(4) to (6). Pub. L. 103–208, §2(i)(9)(D), (E), added par. (4) and 
 
 Subsec. (f). Pub. L. 103–208, §2(i)(10), inserted after second sentence “The Secretary may establish priorities by which institutions are to receive site visits, and may coordinate such visits with site visits by States, guaranty agencies, and accrediting bodies in order to eliminate duplication, and reduce administrative burden.”
 
-Subsec. (h)(1)(B)(iii). Pub. L. 103–208, §2(i)(11), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “the Secretary determines that the institution is, in the judgment of the Secretary, in an administrative or financial condition that may jeopardize itsability to perform its responsibilities under its program participation agreement.”
+Subsec. (h)(1)(B)(iii). Pub. L. 103–208, §2(i)(11), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “the Secretary determines that the institution is, in the judgment of the Secretary, in an administrative or financial condition that may jeopardize its ability to perform its responsibilities under its program participation agreement.”
 
-Subsec. (i)(1). Pub. L. 103–208, §2(i)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of certifying the eligibility of an institution, an eligible institution of higher education that has a change in ownership resulting in a change in control shall not be considered to be the same institution (except as provided in paragraph (3)) and shall be considered a new institution for the purpose of establishing eligibility, except that such institution shall not be required (under section 1088(b)(5) or 1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
+Subsec. (i)(1). Pub. L. 103–208, §2(i)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of certifying the eligibility of an institution, an eligible institution of higher education that has a change in ownership resulting in a change in control shall not be considered to be the same institution (except as provided in paragraph (3)) and shall be considered a new institution for the purpose of establishing eligibility, except that such institution shall not be required (under section 1088(b)(5) or1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
 
 Subsec. (i)(3)(A). Pub. L. 103–208, §2(i)(13), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the death of an owner of an institution, when the owner's interest is sold or transferred to either a family member or a current stockholder of the corporation; or”.
 

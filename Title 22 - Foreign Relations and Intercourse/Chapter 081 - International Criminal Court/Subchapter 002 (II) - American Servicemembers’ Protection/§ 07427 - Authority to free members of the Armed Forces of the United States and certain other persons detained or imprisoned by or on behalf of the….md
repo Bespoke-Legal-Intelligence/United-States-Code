@@ -16,7 +16,7 @@ The authority of subsection (a) of this section shall extend to the following pe
 
 #### (c) Authorization of legal assistance
 
-When any person described in subsection (b) of this section is arrested, detained, investigated,prosecuted, or imprisoned by, on behalf of, or at the request of the International Criminal Court, the President is authorized to direct any agency of the United States Government to provide—
+When any person described in subsection (b) of this section is arrested, detained, investigated, prosecuted, or imprisoned by, on behalf of, or at the request of the International Criminal Court, the President is authorized to direct any agency of the United States Government to provide—
 
 &emsp;(1) legal representation and other legal assistance to that person (including, in the case of a person entitled to assistance under section 1037 of title 10, representation and other assistance in the manner provided in that section);
 

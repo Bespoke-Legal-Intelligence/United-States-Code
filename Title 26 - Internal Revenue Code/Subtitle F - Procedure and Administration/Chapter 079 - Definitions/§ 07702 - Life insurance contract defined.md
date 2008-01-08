@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (i) Charges not specified in the contract
 
-&emsp;&emsp;&emsp;If any charge is not specified in the contract, the amount taken into accountunder subparagraph (B)(ii) for such charge shall be zero.
+&emsp;&emsp;&emsp;If any charge is not specified in the contract, the amount taken into account under subparagraph (B)(ii) for such charge shall be zero.
 
 #### (ii) New companies, etc.
 

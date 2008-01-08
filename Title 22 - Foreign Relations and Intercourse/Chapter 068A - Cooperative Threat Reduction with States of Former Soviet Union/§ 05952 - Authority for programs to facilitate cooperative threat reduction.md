@@ -28,25 +28,11 @@ The programs referred to in subsection (a) of this section are the following:
 
 The programs described in subsection (b) of this section should, to the extent feasible, draw upon United States technology and expertise, especially from the private sector of the United States.
 
-#### (d) Restrictions
-
-Assistance authorized by subsection (a) of this section may not be provided to any independent state of the former Soviet Union for any fiscal year unless the President certifies to Congress for such fiscal year that the proposed recipient state is committed to each of the following:
-
-&emsp;(1) Making substantial investment of its resources for dismantling or destroying its weapons of mass destruction, if such state has an obligation under a treaty or other agreement to destroy or dismantle any such weapons.
-
-&emsp;(2) Foregoing any military modernization program that exceeds legitimate defense requirements and foregoing the replacement of destroyed weapons of mass destruction.
-
-&emsp;(3) Foregoing any use in new nuclear weapons of fissionable or other components of destroyed nuclear weapons.
-
-&emsp;(4) Facilitating United States verification of any weapons destruction carried out under this chapter, section 5902(b) of this title, or section 212(b) of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228; 22 U.S.C. 2551 note).
-
-&emsp;(5) Complying with all relevant arms control agreements.
-
-&emsp;(6) Observing internationally recognized human rights, including the protection of minorities.
-
-(Pub. L. 103–160, div. A, title XII, §1203, Nov. 30, 1993, 107 Stat. 1778; Pub. L. 107–314, div. A, title XIII, §1306(c), formerly §1306(e), Dec. 2, 2002, 116 Stat. 2673, renumbered §1306(c), Pub. L. 109–163, div. A, title XIII, §1303(2), Jan. 6, 2006, 119 Stat. 3474.)
+(Pub. L. 103–160, div. A, title XII, §1203, Nov. 30, 1993, 107 Stat. 1778; Pub. L. 107–314, div. A, title XIII, §1306(c), formerly §1306(e), Dec. 2, 2002, 116 Stat. 2673, renumbered §1306(c), Pub. L. 109–163, div. A, title XIII, §1303(2), Jan. 6, 2006, 119 Stat. 3474; Pub. L. 110–53, title XVIII, §1811(2), Aug. 3, 2007, 121 Stat. 492.)
 
 #### Amendments
+
+2007—Subsec. (d). Pub. L. 110–53 struck out subsec. (d) which prohibited assistance unless the President had certified to Congress that the proposed recipient state was committed to meeting specified conditions relating to elimination of weapons of mass destruction, compliance with arms control agreements, and observation of internationally recognized human rights.
 
 2002—Subsec. (d). Pub. L. 107–314, §1306(c), formerly §1306(e), as renumbered by Pub. L. 109–163, in introductory provisions, substituted “any fiscal year” for “any year” and “such fiscal year” for “that year”.
 
@@ -102,7 +88,7 @@ Definition.—In this section, the term ‘country of proliferation concern’ m
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
-\[Functions of President under section 1206 of Pub. L. 107–314, set out above, delegated to Secretary of State by section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46074, set out as a note under section 301 of Title 3, The President.\]
+\[Functions of President under section 1206 of Pub. L. 107–314, set out above, delegated to Secretary of Stateby section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46074, set out as a note under section 301 of Title 3, The President.\]
 
 #### Specification of Cooperative Threat Reduction Programs for Purposes of Pub. L. 107–314
 
@@ -174,7 +160,7 @@ Availability of Transferred Funds.—(1) Notwithstanding any restriction or limi
 
 Limitation.—(1) Of the amounts authorized to be appropriated by this title or any other Act for the program referred to in subsection (a), the Administrator for Nuclear Security may not obligate any funds for construction, or obligate or expend more than $100,000,000 for that program, until 30 days after the later of—
 
-&emsp;“(A) the date on which the Administrator submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on International Relations of the House of Representatives, and the Committee on Foreign Relations of the Senate, a copy of an agreement or agreements entered into between the United States Government and the Government of the Russian Federation to shut down the three plutonium-producing reactors in Russia as specified under paragraph (2); and
+&emsp;“(A) the date on which the Administrator submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, and the Committee on Foreign Relations of the Senate, a copy of an agreement or agreements entered into between the United States Government and the Government of the Russian Federation to shut down the three plutonium-producing reactors in Russia as specified under paragraph (2); and
 
 &emsp;“(B) the date on which the Administrator submits to the committees specified in subparagraph (A) a report on a plan to achieve international participation in the program referred to in subsection (a), including cost sharing.
 
@@ -338,7 +324,7 @@ Purposes.—The purposes of this subtitle are—
 
 Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—
 
-&emsp;&emsp;“(A) the Committee on International Relations and the Committee on Appropriations of the House of Representatives; and
+&emsp;&emsp;“(A) the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Appropriations of the House of Representatives; and
 
 &emsp;&emsp;“(B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
@@ -370,7 +356,7 @@ In general.—Upon the entry into force of a Russian Federation Nonproliferation
 
 &emsp;“(2)
 
-Limitation.—The authority provided by paragraph (1) shall be available only to the extent that appropriations for the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661a(5)\]) of reducing any debt pursuant to such subsection are made in advance.
+Limitation.—The authority provided by paragraph (1) shall be available only to the extent thatappropriations for the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661a(5)\]) of reducing any debt pursuant to such subsection are made in advance.
 
 &emsp;“(3)
 
@@ -440,7 +426,7 @@ Congressional notification.—The President shall notify the appropriate congres
 
 Content of the Agreement.—The Russian Federation Nonproliferation Investment Agreement shall ensure that—
 
-&emsp;“(1) an amount equal to the value of the debt reduced pursuant to this subtitle will be made availableby the Russian Federation for agreed nonproliferation programs and projects;
+&emsp;“(1) an amount equal to the value of the debt reduced pursuant to this subtitle will be made available by the Russian Federation for agreed nonproliferation programs and projects;
 
 &emsp;“(2) each program or project funded pursuant to the Agreement will be approved by the President;
 
@@ -662,9 +648,9 @@ Expiration of Authority.—The authority under paragraph (a) shall expire Januar
 
 Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1303\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, provided that: “No fiscal year 2001 Cooperative Threat Reduction funds and no funds appropriated for Cooperative Threat Reduction programs for any other fiscal year, may be obligated or expended for elimination of conventional weapons or the delivery vehicles primarily intended to deliver such weapons.” \[For definitions, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title.\]
 
-Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1304\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, as amended by Pub. L. 107–107, div. A, title XIII, §1305(b), Dec. 28, 2001, 115 Stat. 1255, provided that: “Out of funds authorized to be appropriated for Cooperative Threat Reduction programs \[for definition, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title\] for fiscal year 2001 or any other fiscal year, not more than $412,600,000 may be used for planning, design, or construction of the first wing for the storage facility for Russian fissile material referred to in section 1302(a)(5) \[114 Stat. 1654–339\] other than planning, design, or construction to improve security at such first wing.”
+Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1304\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, as amended by Pub. L. 107–107, div. A, title XIII, §1305(b), Dec. 28, 2001, 115 Stat. 1255, provided that: “Out of funds authorized to be appropriated for Cooperative Threat Reduction programs \[for definition, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title\] for fiscal year 2001 or any other fiscal year, not more than $412,600,000 may be used forplanning, design, or construction of the first wing for the storage facility for Russian fissile material referred to in section 1302(a)(5) \[114 Stat. 1654–339\] other than planning, design, or construction to improve security at such first wing.”
 
-Pub. L. 106–65, div. A, title XIII, §§1303–1305, Oct. 5, 1999, 113 Stat. 793, 794, as amended by Pub. L. 107–107, div. A, title XIII, §1308, Dec. 28, 2001, 115 Stat. 1256; Pub. L. 107–314, div. A, title X, §1062(j)(2), Dec. 2, 2002, 116 Stat. 2651, provided that:
+Pub. L. 106–65, div. A, title XIII, §§1303–1305, Oct. 5, 1999, 113 Stat. 793, 794, as amended by Pub. L. 107–107, div. A, title XIII, §1308, Dec. 28, 2001, 115 Stat. 1256; Pub. L. 107–314, div. A, title X, §1062(j)(2), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 110–53, title XVIII, §1811(3), Aug. 3, 2007, 121 Stat. 492, provided that:
 
 #### “SEC. 1303. PROHIBITION ON USE OF FUNDS FOR SPECIFIED PURPOSES
 
@@ -708,23 +694,9 @@ Limitation on Construction.—No funds authorized to be appropriated for Coopera
 
 &emsp;“(2) A detailed cost estimate for a second wing for the facility.
 
-&emsp;“(3) A certification that Russia and the United States have signed a verifiable written transparency agreement that ensures that material stored at the facility is of weapons origin.
+&emsp;“(3) A certification that Russia and the United States have signed a verifiable written transparency agreement that ensures that material stored at the facility is of weapons origin.”
 
-#### “SEC. 1305. LIMITATION ON USE OF FUNDS FOR CHEMICAL WEAPONS DESTRUCTION
-
-“No fiscal year 2000 Cooperative Threat Reduction funds, and no funds appropriated for Cooperative Threat Reduction programs after the date of the enactment of this Act \[Oct. 5, 1999\], may be obligated or expended for planning, design, or construction of a chemical weapons destruction facility in Russia until the Secretary of Defense submits to Congress a certification that there has been—
-
-&emsp;“(1) information provided by Russia, that the United States assesses to be full and accurate, regarding the size of the chemical weapons stockpile of Russia;
-
-&emsp;“(2) a demonstrated annual commitment by Russia to allocate at least $25,000,000 to chemical weapons elimination;
-
-&emsp;“(3) development by Russia of a practical plan for destroying its stockpile of nerve agents;
-
-&emsp;“(4) enactment of a law by Russia that provides for the elimination of all nerve agents at a single site;
-
-&emsp;“(5) an agreement by Russia to destroy or convert its chemical weapons production facilities at Volgograd and Novocheboksark; and
-
-&emsp;“(6) a demonstrated commitment from the international community to fund and build infrastructure needed to support and operate the facility.”
+#### \[SEC. 1305. Repealed. Pub. L. 110–53, title XVIII, §1811(3), Aug. 3, 2007, 121 Stat. 492.\]
 
 Similar provisions were contained in the following prior authorization acts:
 

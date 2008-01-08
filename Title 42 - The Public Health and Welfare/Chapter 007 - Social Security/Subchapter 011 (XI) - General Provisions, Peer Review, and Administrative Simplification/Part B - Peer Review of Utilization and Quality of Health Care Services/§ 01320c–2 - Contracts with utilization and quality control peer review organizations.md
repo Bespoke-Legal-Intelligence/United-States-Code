@@ -22,7 +22,7 @@
 
 (3)(A) The Secretary shall not enter into a contract under this part with any entity which is, or is affiliated with (through management, ownership, or common control), a health care facility, or association of such facilities, within the area served by such entity or which would be served by such entity if it entered into a contract with the Secretary under this part.
 
-(B) For purposes of subparagraph (A), an entity shall not be considered to be affiliated with a health care facility or association of facilities by reason of management, ownership, or common control if the management, ownership, or common control consists only of not more than 20 percent of the members of the governing board of the entity being affiliated (through management, ownership, or common control) with one or more of such facilities or associations.
+(B) For purposes of subparagraph (A), an entity shall not be considered to be affiliated with a health care facility or association of facilities by reason of management, ownership, or common control if the management, ownership, or common control consists only of not more than 20 percent of the members of the governing board of the entity being affiliated (through management, ownership, or common control)with one or more of such facilities or associations.
 
 #### (c) Terms of contract
 
@@ -42,7 +42,7 @@ Each contract with an organization under this section shall provide that—
 
 &emsp;&emsp;(A) the organization does not substantially meet the requirements of section 1320c–1 of this title; or
 
-&emsp;&emsp;(B) the organization has failed substantially to carry out the contract or is carrying out the contract in a manner inconsistent with the efficient and effective administration of this part, but only after such organization has had an opportunity to submit data and have such data reviewed by thepanel established under subsection (d) of this section;
+&emsp;&emsp;(B) the organization has failed substantially to carry out the contract or is carrying out the contract in a manner inconsistent with the efficient and effective administration of this part, but only after such organization has had an opportunity to submit data and have such data reviewed by the panel established under subsection (d) of this section;
 
 &emsp;(7) the Secretary shall include in the contract negotiated objectives against which the organization's performance will be judged, and negotiated specifications for use of regional norms, or modifications thereof based on national norms, for performing review functions under the contract; and
 
@@ -84,7 +84,7 @@ The Secretary shall provide that fiscal intermediaries furnish to peer review or
 
 #### (i) Preference in contracting with in-State organizations
 
-(1) Notwithstanding any other provision of this section, the Secretary shall not renew acontract with any organization that is not an in-State organization (as defined in paragraph (3)) unless the Secretary has first complied with the requirements of paragraph (2).
+(1) Notwithstanding any other provision of this section, the Secretary shall not renew a contract with any organization that is not an in-State organization (as defined in paragraph (3)) unless the Secretary has first complied with the requirements of paragraph (2).
 
 (2)(A) Not later than six months before the date on which a contract period ends with respect to an organization that is not an in-State organization, the Secretary shall publish in the Federal Register—
 

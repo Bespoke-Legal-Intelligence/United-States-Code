@@ -22,7 +22,7 @@ The recreation area shall be managed in accordance with plans prepared in subsec
 
 #### (d) Mining
 
-(1) Subject to valid existing rights, all mining claims located within the recreation area shall be subject to such reasonable regulations as the Secretary may prescribe to insure that mining activities will, to the maximum extent practicable, be consistent with the purposes for which the recreation area is established. Any patent issued after June 26, 1984, shall convey title only to the minerals together with theright to use the surface of lands for mining purposes subject to such reasonable regulations as the Secretary shall prescribe.
+(1) Subject to valid existing rights, all mining claims located within the recreation area shall be subject to such reasonable regulations as the Secretary may prescribe to insure that mining activities will, to the maximum extent practicable, be consistent with the purposes for which the recreation area is established. Any patent issued after June 26, 1984, shall convey title only to the minerals together with the right to use the surface of lands for mining purposes subject to such reasonable regulations as the Secretary shall prescribe.
 
 (2) Effective January 1, 1989, and subject to valid existing rights, the lands located within the recreation area are hereby withdrawn from all forms of appropriation under the mining laws and from disposition under all laws pertaining to the mineral leasing and geothermal leasing and all amendments thereto.
 
@@ -36,7 +36,7 @@ Within the recreation area, the Secretary may permit, under appropriate regulati
 
 &emsp;(3) livestock grazing, to the extent that such use will not significantly adversely affect the resources of the recreation area;
 
-&emsp;(4) salvage of major timber mortality caused by fire, insects, disease, blowdown, or other causes when the scenic characteristics of the recreation area are significantly affected, or the health and safety of the public is threatened, or the overall protection of the forested area inside or outside the recreation area might be adversely affected by failure to remove the dead or damaged timber;
+&emsp;(4) salvage of major timber mortality caused by fire, insects, disease, blowdown, or other causes when the scenic characteristics of the recreation area are significantly affected, orthe health and safety of the public is threatened, or the overall protection of the forested area inside or outside the recreation area might be adversely affected by failure to remove the dead or damaged timber;
 
 &emsp;(5) those developments or facilities necessary for the public enjoyment and use of the recreation area, when such development or facilities do not detract from the purposes of the recreation area; and
 

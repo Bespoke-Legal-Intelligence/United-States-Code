@@ -24,7 +24,7 @@ Payment Amount.—Payments made under subsection (a) may not exceed the unpaid c
 
 (d)
 
-Security for Advance Payments.—Advance payments made under subsection (a) may be made only if the contractor gives adequate security and after a determination by the head of the agency that to do so would be in the public interest. Such security may be in the form of a lien in favor of the United States on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien is paramount to any other liensand is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
+Security for Advance Payments.—Advance payments made under subsection (a) may be made only if the contractor gives adequate security and after a determination by the head of the agency that to do so would be in the public interest. Such security may be in the form of a lien in favor of the United States on the property contracted for, on the balance in an account in which such payments are deposited,and on such of the property acquired for performance of the contract as the parties may agree. This lien is paramount to any other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
 
 (e)
 
@@ -182,11 +182,11 @@ Subsec. (f). Pub. L. 101–510, §836(a), added subsec. (f).
 
 1973—Subsec. (d). Pub. L. 93–155 added subsec. (d).
 
-1958—Pub. L. 85–800 authorized advance or other payments under contracts for property or services by agency, authorized insertion in bid solicitations of provision limiting advance or progress payments to small business concerns, restricted payments under subsec. (a) to unpaid contract price, and reworded generally conditions for making advance payments.
+1958—Pub. L. 85–800 authorized advance or other payments under contracts for property or services by agency, authorized insertion in bid solicitations of provision limiting advance or progress payments to smallbusiness concerns, restricted payments under subsec. (a) to unpaid contract price, and reworded generally conditions for making advance payments.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1990 Amendment
 

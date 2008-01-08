@@ -86,7 +86,7 @@ Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2802, Oct. 21, 1998, 112 S
 
 “(a)
 
-Reports Required.—Not later than 30 days after the date of the enactment of this Act \[Oct. 21, 1998\] and every 3 months thereafter during the period ending September 30, 2003, the Secretary of State shall submit to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the implementation of section 401 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 (22 U.S.C. 6091). Each report shall include—
+Reports Required.—Not later than 30 days after the date of the enactment of this Act \[Oct. 21, 1998\] and every 3 months thereafter during the period ending September 30, 2003, the Secretary of State shall submit to the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the implementation of section 401 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 (22 U.S.C. 6091). Each report shall include—
 
 &emsp;“(1) an unclassified list, by economic sector, of the number of entities then under review pursuant to that section;
 

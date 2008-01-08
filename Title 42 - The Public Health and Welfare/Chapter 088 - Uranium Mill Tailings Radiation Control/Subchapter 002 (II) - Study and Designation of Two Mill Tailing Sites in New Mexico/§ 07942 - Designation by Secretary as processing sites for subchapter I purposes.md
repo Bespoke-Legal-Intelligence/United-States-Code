@@ -6,7 +6,7 @@ Within ninety days from the date of his receipt of the report and recommendation
 
 #### (b) Effective date
 
-(1) <sup>1</sup> No designation under subsection (a) of this section shall take effect before the expiration ofone hundred and twenty calendar days (not including any day in which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain or an adjournment sine die) after receipt by such Committees of such designation.
+(1) <sup>1</sup> No designation under subsection (a) of this section shall take effect before the expiration of one hundred and twenty calendar days (not including any day in which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain or an adjournment sine die) after receipt by such Committees of such designation.
 
 #### (c) Subchapter I provisions applicable
 
@@ -16,7 +16,7 @@ Except as otherwise specifically provided in subsection (a) of this section, any
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 Committee on Interstate and Foreign Commerce of the House of Representatives changed to Committee on Energy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;(C) assistance to international organizations and host governments in maintaining security by screening refugees to ensure the exclusion of armed combatants, members of foreign terrorist organizations, and other individuals not eligible for economic assistance from the United States; and
 
-&emsp;&emsp;(D) assistance for voluntary refugee repatriation and reintegration inside Afghanistan and continued assistance to those refugees who are unable or unwilling to return, and humanitarian assistance to internally displaced persons, including those persons who need assistance to return to their homes, through the United Nations High Commissioner for Refugees and other organizations charged with providing such assistance.
+&emsp;&emsp;(D) assistance for voluntary refugee repatriation and reintegration inside Afghanistan and continued assistance to those refugees who are unable or unwilling to return, and humanitarian assistance to internally displaced persons, including those persons who need assistance to return to theirhomes, through the United Nations High Commissioner for Refugees and other organizations charged with providing such assistance.
 
 #### (3) Counternarcotics efforts
 
@@ -270,9 +270,13 @@ Subsec. (a)(7)(A)(xii). Pub. L. 108–458, §7104(k)(2), substituted “Afghan I
 
 Subsec. (d). Pub. L. 108–458, §7104(g), added subsec. (d).
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Declarations of policy
 
-Pub. L. 108–458, title VII, §7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: “Congress reaffirms theauthorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 \[7511\] et seq.), relating to economic and democratic development assistance for Afghanistan.”
+Pub. L. 108–458, title VII, §7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: “Congress reaffirms the authorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 \[7511\] et seq.), relating to economic and democratic development assistance for Afghanistan.”
 
 Pub. L. 108–458, title VII, §7104(f)(1), Dec. 17, 2004, 118 Stat. 3783, provided that: “Congress declares that, although Afghanistan has adopted a new constitution and made progress on primary education, the United States must invest in a concerted effort in Afghanistan to improve the rule of law, good governance, and effective policing, to accelerate work on secondary and university education systems, and to establish new initiatives to increase the capacity of civil society.”
 
@@ -322,7 +326,7 @@ In General.—Subject to subsection (b), the President is authorized, on such te
 
 Implementation.—(1) In providing assistance under subsection (a), the President shall ensure that such assistance is provided in a manner that protects and promotes the human rights of all people in Afghanistan, utilizing indigenous institutions and nongovernmental organizations, especially women's organizations, to the extent possible.
 
-“(2) Beginning 6 months after the date of enactment of this Act \[Dec. 12, 2001\], and at least annually for the 2 years thereafter, the Secretary of State shall submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations of the House of Representatives describing the activities carried out under this Act and otherwise describing the condition and status of women and children in Afghanistan and the persons in refugee camps while United States aid is given to displaced Afghans.
+“(2) Beginning 6 months after the date of enactment of this Act \[Dec. 12, 2001\], and at least annually for the 2 years thereafter, the Secretary of State shall submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives describing the activities carried out under this Act and otherwise describing the condition and status of women and children in Afghanistan and the persons in refugee camps while United States aid is given to displaced Afghans.
 
 “(c)
 

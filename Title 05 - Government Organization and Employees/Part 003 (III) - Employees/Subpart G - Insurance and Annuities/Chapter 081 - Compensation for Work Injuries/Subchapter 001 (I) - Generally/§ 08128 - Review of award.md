@@ -42,7 +42,7 @@ June 5, 1924, ch. 261, §1, 43 Stat. 389.
 
 July 28, 1945, ch. 328, §4 (penultimate sentence), 59 Stat. 504.
 
-In subsection (a), the words “If the original claim for compensation has been made within the time specified in section 770 of this title” are omitted as surplusage. The words “an award for or against payment of compensation” are coextensive with and, for clarity and consistency with section 8124, substituted for “the award”. The second sentence of former section 787 is omitted as included in the penultimate sentence of former section 793, which is carried into subsection (b). The last sentence of former section 787 is omitted as executed.
+In subsection (a), the words “If the original claim for compensation has been made within the time specified in section 770 of this title” are omitted as surplusage. The words “an award for or against payment of compensation” are coextensive with and, for clarity and consistency with section 8124, substituted for “theaward”. The second sentence of former section 787 is omitted as included in the penultimate sentence of former section 793, which is carried into subsection (b). The last sentence of former section 787 is omitted as executed.
 
 In subsection (b), the word “official” is substituted for “officer” because of the definition of “officer” in section 2104 which excludes a member of a uniformed service.
 

@@ -80,11 +80,11 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (A) In general
 
-&emsp;&emsp;A plan meets the requirements of this paragraph if the average benefits provided to employees who are not highly compensated employees under all plans of the employer is at least 55 percent of the average benefits provided to highly compensated employees under all plans of the employer.
+&emsp;&emsp;A plan meets the requirements of this paragraph if the average benefits provided toemployees who are not highly compensated employees under all plans of the employer is at least 55 percent of the average benefits provided to highly compensated employees under all plans of the employer.
 
 #### (B) Salary reduction agreements
 
-&emsp;&emsp;For purposes of subparagraph (A), in the case of any benefits provided through a salary reduction agreement, a plan may disregard any employees whose compensation is less than $25,000. For purposes of this subparagraph, the term “compensation” has the meaning given such term by section 414(q)(4), except that, under rules prescribedby the Secretary, an employer may elect to determine compensation on any other basis which does not discriminate in favor of highly compensated employees.
+&emsp;&emsp;For purposes of subparagraph (A), in the case of any benefits provided through a salary reduction agreement, a plan may disregard any employees whose compensation is less than $25,000. For purposes of this subparagraph, the term “compensation” has the meaning given such term by section 414(q)(4), except that, under rules prescribed by the Secretary, an employer may elect to determine compensation on any other basis which does not discriminate in favor of highly compensated employees.
 
 #### (9) Excluded employees
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 > &emsp;In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.
 
-(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I, §101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A), title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 104–188, title I, §1431(c)(1)(B), Aug. 20, 1996, 110 Stat. 1803; Pub. L. 108–311, title II, §207(12), Oct. 4, 2004, 118 Stat. 1177.)
+(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I, §101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A),title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 104–188, title I, §1431(c)(1)(B), Aug. 20, 1996, 110 Stat. 1803; Pub. L. 108–311, title II, §207(12), Oct. 4, 2004, 118 Stat. 1177.)
 
 #### Codification
 
@@ -330,7 +330,7 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

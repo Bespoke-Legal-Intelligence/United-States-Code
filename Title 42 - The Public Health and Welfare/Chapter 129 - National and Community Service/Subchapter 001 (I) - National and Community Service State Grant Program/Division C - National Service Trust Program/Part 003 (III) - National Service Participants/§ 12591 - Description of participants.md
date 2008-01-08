@@ -28,7 +28,7 @@ An individual shall be considered to be a participant in a youth corps program d
 
 The Corporation may waive the requirements of subsection (a)(5) of this section with respect to an individual if the program in which the individual seeks to become a participant conducts an independent evaluation demonstrating that the individual is incapable of obtaining a high school diploma or its equivalent.
 
-(Pub. L. 101–610, title I, §137, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 808; amended Pub. L. 103–304, §3(b)(3), Aug. 23, 1994, 108 Stat. 1567.)
+(Pub. L. 101–610, title I, §137, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 808;amended Pub. L. 103–304, §3(b)(3), Aug. 23, 1994, 108 Stat. 1567.)
 
 #### Prior Provisions
 

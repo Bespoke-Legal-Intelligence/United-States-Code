@@ -180,7 +180,7 @@ Continuing obligation to pay.—Any amount of additional death gratuity payable 
 
 Pub. L. 108–136, div. A, title VI, §646(b), Nov. 24, 2003, 117 Stat. 1520, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of September 11, 2001, and shall apply with respect to deaths occurring on or after that date.”
 
-Pub. L. 108–121, title I, §102(a)(2), Nov. 11, 2003, 117 Stat. 1337, provided that: “The amendment made by this subsection \[amending this section\] shall take effect as of September 11, 2001, and shall apply with respect to deaths occurring on or after that date.”
+Pub. L. 108–121, title I, §102(a)(2), Nov. 11, 2003, 117 Stat. 1337, provided that: “The amendment made bythis subsection \[amending this section\] shall take effect as of September 11, 2001, and shall apply with respect to deaths occurring on or after that date.”
 
 #### Effective Date of 1991 Amendment; Transition Provision
 

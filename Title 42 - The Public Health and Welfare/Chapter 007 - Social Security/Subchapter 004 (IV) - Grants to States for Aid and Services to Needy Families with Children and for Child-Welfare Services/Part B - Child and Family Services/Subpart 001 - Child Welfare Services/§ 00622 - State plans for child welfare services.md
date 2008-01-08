@@ -8,7 +8,7 @@ In order to be eligible for payment under this subpart, a State must have a plan
 
 Each plan for child welfare services under this subpart shall—
 
-&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of theState agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
+&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
 
 &emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under subchapter XX of this chapter, under the State program funded under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under the State plan approved <sup>1</sup> under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
 
@@ -62,7 +62,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;(B) determining appropriate medical treatment for the children;
 
-&emsp;(16) provide that, not later than 1 year after September 28, 2006, the State shall have in place procedures providing for how the State programs assisted under this subpart, subpart2 of this part, or part E would respond to a disaster, in accordance with criteria established by the Secretary which should include how a State would—
+&emsp;(16) provide that, not later than 1 year after September 28, 2006, the State shall have in place procedures providing for how the State programs assisted under this subpart, subpart 2 of this part, or part E would respond to a disaster, in accordance with criteria established by the Secretary which should include how a State would—
 
 &emsp;&emsp;(A) identify, locate, and continue availability of services for children under State care or supervision who are displaced or adversely affected by a disaster;
 
@@ -206,7 +206,7 @@ Subsec. (b)(2). Pub. L. 103–66, §13711(b)(1)(B), (C), inserted “under the S
 
 Subsec. (b)(3). Pub. L. 103–66, §13711(b)(1)(B), substituted “under this subpart” for “under this part”.
 
-1989—Subsec. (b)(1)(A). Pub. L. 101–239 substituted “the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter” for “the individual or agency designated pursuant to section 1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program”.
+1989—Subsec. (b)(1)(A). Pub. L. 101–239 substituted “the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter” for “the individual or agency designated pursuant to section1397b(d)(1)(C) of this title to administer or supervise the administration of the State's services program”.
 
 1980—Pub. L. 96–272 substituted provisions relating to State plans covering child welfare services for provisions relating to the payments to States and the computation of amounts.
 
@@ -226,7 +226,7 @@ Pub. L. 109–239, §14, July 3, 2006, 120 Stat. 514, provided that:
 
 “(a)
 
-In General.—Except as otherwise provided in this section, the amendments made by this Act \[enacting section 673c of this title, amending this section and sections 629h, 671, and 675 of this title, and repealing section 673c of this title\] shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[this part and part E of this subchapter\] for calendar quarters beginning on or after such date, without regard to whetherregulations to implement the amendments are promulgated by such date.
+In General.—Except as otherwise provided in this section, the amendments made by this Act \[enacting section 673c of this title, amending this section and sections 629h, 671, and 675 of this title, and repealing section 673c of this title\] shall take effect on October 1, 2006, and shall apply to payments under parts B and E of title IV of the Social Security Act \[this part and part E of this subchapter\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
 “(b)
 
@@ -272,7 +272,7 @@ Section 10403(b)(2) of Pub. L. 101–239 provided that: “The amendment made by
 
 #### Effective Date of 1975 Amendment
 
-Amendment by section 3 of Pub. L. 93–647 effective with respect to payments under sections 603 and 803 of this title for quarters commencing after Sept. 30, 1975, except that amendment by section 3(a) of Pub. L. 93–647 not effective with respect to the Commonwealth of Puerto Rico, the Virgin Islands, or Guam, see section 7(b) of Pub. L. 93–647, set out as a note under section 303 of this title.
+Amendment by section 3 of Pub. L. 93–647 effective with respect to payments under sections 603 and 803 ofthis title for quarters commencing after Sept. 30, 1975, except that amendment by section 3(a) of Pub. L. 93–647 not effective with respect to the Commonwealth of Puerto Rico, the Virgin Islands, or Guam, see section 7(b) of Pub. L. 93–647, set out as a note under section 303 of this title.
 
 #### Effective Date of 1968 Amendment; Different State Agencies for Administration of State Plans Under Parts A and B
 

@@ -16,7 +16,7 @@ The Secretary is authorized, in accordance with the requirements of this divisio
 
 #### (1) In general
 
-&emsp;From funds appropriated under section 1070a–28 of this title for each fiscal year, theSecretary shall make awards to eligible entities described in paragraphs (1) and (2) of subsection (c) of this section to enable the entities to carry out the program authorized under subsection (a) of this section.
+&emsp;From funds appropriated under section 1070a–28 of this title for each fiscal year, the Secretary shall make awards to eligible entities described in paragraphs (1) and (2) of subsection (c) of this section to enable the entities to carry out the program authorized under subsection (a) of this section.
 
 #### (2) Priority
 
@@ -24,7 +24,7 @@ The Secretary is authorized, in accordance with the requirements of this divisio
 
 &emsp;&emsp;(A) give priority to eligible entities that—
 
-&emsp;&emsp;&emsp;(i) on the day before October 7, 1998, carried out successful educational opportunity programs under this division (as this division was in effect on such day); and
+&emsp;&emsp;&emsp;(i) on the day before October 7, 1998, carried out successful educational opportunity programs under this division (asthis division was in effect on such day); and
 
 &emsp;&emsp;&emsp;(ii) have a prior, demonstrated commitment to early intervention leading to college access through collaboration and replication of successful strategies;
 

@@ -12,9 +12,15 @@
 | [300108\.](%C2%A7%20300108%20-%20Buildings.md) | Buildings. |
 | [300109\.](%C2%A7%20300109%20-%20Endowment%20fund.md) | Endowment fund. |
 | [300110\.](%C2%A7%20300110%20-%20Annual%20report%20and%20audit.md) | Annual report and audit. |
-| [300111\.](%C2%A7%20300111%20-%20Reservation%20of%20right%20to%20amend%20or%20repeal.md) | Reservation of right to amend or repeal. |
+| [300111\.](%C2%A7%20300111%20-%20Authority%20of%20the%20Comptroller%20General%20of%20the%20United%20States.md) | Authority of the Comptroller General of the United States. |
+| [300112\.](%C2%A7%20300112%20-%20Office%20of%20the%20Ombudsman.md) | Office of the Ombudsman. |
+| [300113\.](%C2%A7%20300113%20-%20Reservation%20of%20right%20to%20amend%20or%20repeal.md) | Reservation of right to amend or repeal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2007—Pub. L. 110–26, §11(b), May 11, 2007, 121 Stat. 110, added items 300111 to 300113 and struck out former item 300111 “Reservation of right to amend or repeal”.
 
 
 ---
@@ -31,4 +37,6 @@
 - [&sect; 300108 - Buildings](%C2%A7%20300108%20-%20Buildings.md)
 - [&sect; 300109 - Endowment fund](%C2%A7%20300109%20-%20Endowment%20fund.md)
 - [&sect; 300110 - Annual report and audit](%C2%A7%20300110%20-%20Annual%20report%20and%20audit.md)
-- [&sect; 300111 - Reservation of right to amend or repeal](%C2%A7%20300111%20-%20Reservation%20of%20right%20to%20amend%20or%20repeal.md)
+- [&sect; 300111 - Authority of the Comptroller General of the United States](%C2%A7%20300111%20-%20Authority%20of%20the%20Comptroller%20General%20of%20the%20United%20States.md)
+- [&sect; 300112 - Office of the Ombudsman](%C2%A7%20300112%20-%20Office%20of%20the%20Ombudsman.md)
+- [&sect; 300113 - Reservation of right to amend or repeal](%C2%A7%20300113%20-%20Reservation%20of%20right%20to%20amend%20or%20repeal.md)

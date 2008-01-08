@@ -6,7 +6,7 @@ For purposes of this section—
 
 &emsp;(1) The term “Tax Court” means the United States Tax Court.
 
-&emsp;(2) The term “judge” means the chief judge or a judge of the Tax Court; but such term does not include any individual performing judicial duties pursuant to subsection (c).
+&emsp;(2) The term “judge” means the chief judge or a judge of the Tax Court; but such termdoes not include any individual performing judicial duties pursuant to subsection (c).
 
 &emsp;(3) In any determination of length of service as judge there shall be included all periods (whether or not consecutive) during which an individual served as judge, as judge of the Tax Court of the United States, or as a member of the Board of Tax Appeals.
 
@@ -108,7 +108,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (1) 1-year forfeiture for failure to perform judicial duties
 
-&emsp;If such individual during any calendar year fails to perform judicial duties required of him by subsection (c), such individual shall forfeit all rights to retired pay under subsection (d) for the 1-year period which begins on the 1st day on which he so fails to perform such duties.
+&emsp;If such individual during any calendar year fails to perform judicial duties required of himby subsection (c), such individual shall forfeit all rights to retired pay under subsection (d) for the 1-year period which begins on the 1st day on which he so fails to perform such duties.
 
 #### (2) Permanent forfeiture of retired pay where certain non-Government services performed
 
@@ -174,7 +174,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (2) Manner of revoking
 
-&emsp;Any revocation under this subsection shall be made by filing a notice thereof in writing with the Civil Service Commission. The Civil Service Commission shall transmit to the chief judge a copy of each notice filed under this subsection.
+&emsp;Any revocation under this subsection shall be made by filing a notice thereof in writing with the Civil Service Commission. The CivilService Commission shall transmit to the chief judge a copy of each notice filed under this subsection.
 
 #### (3) Effect of revocation
 
@@ -280,7 +280,7 @@ Subsec. (d). Pub. L. 91–172, §954(b), substituted provisions specifying metho
 
 Subsec. (g)(1). Pub. L. 91–172, §954(e)(2), substituted “civil service retirement laws” and “such civil service retirement laws apply” for “Civil Service Retirement Act” and “such Act applies”, respectively.
 
-Subsec. (g)(2). Pub. L. 91–172, §954(c), substituted provisions that any individual electing to receive retirement pay under subsec. (d) of this section is not to receive any payment under the civil service retirement laws, and no deduction is to be made for the Civil Service Retirement and Disability Fund, and a lump-sum credit computed under section 8331(8) of Title 5 is to be paid, for provisions which enumerated the effects andconditions of electing retirement pay under former subsec. (d) of this section.
+Subsec. (g)(2). Pub. L. 91–172, §954(c), substituted provisions that any individual electing to receive retirement pay under subsec. (d) of this section is not to receive any payment under the civil service retirement laws, and no deduction is to be made for the Civil Service Retirement and Disability Fund, and a lump-sum credit computed under section 8331(8) of Title 5 is to be paid, for provisions which enumerated the effects and conditions of electing retirement pay under former subsec. (d) of this section.
 
 Subsec. (g)(3). Pub. L. 91–172, §954(c), struck out par. (3) which enumerated the conditions and effects of waiving civil service benefits in lieu of retirement pay under former subsec. (d) of this section.
 
@@ -322,7 +322,7 @@ Section 4(c)(1) of Pub. L. 92–41, as amended by Pub. L. 99–514, §2, Oct. 22
 
 Amendment by sections 954(c), (e) and 960(c), (d) of Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub. L. 91–172, set out as a note under section 7441 of this title.
 
-Section 962(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), and (d) of section 954 \[amending this section\] shall apply to—
+Section 962(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by subsections (a), (b), and (d) of section 954 \[amending this section\] shall apply to—
 
 &emsp;“(1) all judges of the Tax Court retiring on or after the date of enactment of this Act \[Dec. 30, 1969\], and
 

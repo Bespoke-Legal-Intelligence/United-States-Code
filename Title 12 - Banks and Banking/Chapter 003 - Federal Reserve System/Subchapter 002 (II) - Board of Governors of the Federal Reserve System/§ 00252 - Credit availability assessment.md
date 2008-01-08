@@ -26,7 +26,7 @@
 
 #### (b) Use of existing data
 
-The studies required by this section shall not increase the regulatory or paperwork burden onregulated financial institutions, other sources of small business credit, or small businesses.
+The studies required by this section shall not increase the regulatory or paperwork burden on regulated financial institutions, other sources of small business credit, or small businesses.
 
 (Pub. L. 104–208, div. A, title II, §2227, Sept. 30, 1996, 110 Stat. 3009–417.)
 

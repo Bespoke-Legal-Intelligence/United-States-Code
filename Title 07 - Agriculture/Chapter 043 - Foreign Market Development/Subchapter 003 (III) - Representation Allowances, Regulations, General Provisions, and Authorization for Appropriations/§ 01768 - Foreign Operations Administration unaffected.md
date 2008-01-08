@@ -1,6 +1,6 @@
 ### §1768. Foreign Operations Administration unaffected
 
-Nothing in this chapter shall be construed to affect personnel employed by or funds available to the Foreign Operations Administration or programs conducted under its authorities.
+Nothing in this chapter shall be construed to affect personnel employed by or funds availableto the Foreign Operations Administration or programs conducted under its authorities.
 
 (Aug. 28, 1954, ch. 1041, title VI, §608, 68 Stat. 910.)
 

@@ -1,6 +1,6 @@
 ### §4116. Training program assistance
 
-The Office of Personnel Management, on request of an agency, shall advise and assist in the establishment, operation, and maintenance ofthe training programs and plans of the agency under this chapter, to the extent of its facilities and personnel available for that purpose.
+The Office of Personnel Management, on request of an agency, shall advise and assist in the establishment, operation, and maintenance of the training programs and plans of the agency under this chapter, to the extent of its facilities and personnel available for that purpose.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 

@@ -18,7 +18,7 @@ Risk assessment.—Before entering into an agreement under this subsection, the 
 
 &emsp;(4)
 
-Investment-grade rating requirement.—The funding of a line of credit under this section shall be contingent on the project's senior obligations receiving an investment-grade rating from at least 1 rating agency.
+Investment-grade rating requirement.—The funding of a line of credit underthis section shall be contingent on the project's senior obligations receiving an investment-grade rating from at least 1 rating agency.
 
 (b)
 

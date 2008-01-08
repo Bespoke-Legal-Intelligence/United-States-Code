@@ -24,7 +24,7 @@
 
 #### (C) Waiver of certain provisions
 
-&emsp;&emsp;In carrying out the programs, the Secretary may waive such provisions of the Federal Acquisition Regulation as are necessary for the efficient implementation of this section, other than provisions relating to confidentiality of information and such other provisions as the Secretary determines appropriate.
+&emsp;&emsp;In carrying out the programs, the Secretary may waive such provisions of the Federal Acquisition Regulation as are necessary for the efficient implementation of this section, other than provisions relating to confidentiality of information and such otherprovisions as the Secretary determines appropriate.
 
 #### (2) Items and services described
 
@@ -66,7 +66,7 @@
 
 #### (6) Application
 
-&emsp;For each competitive acquisition area in which the program is implemented under thissubsection with respect to items and services, the payment basis determined under the competition conducted under subsection (b) of this section shall be substituted for the payment basis otherwise applied under section 1395m(a) of this title, section 1395m(h) of this title, or section 1395u(s) of this title, as appropriate.
+&emsp;For each competitive acquisition area in which the program is implemented under this subsection with respect to items and services, the payment basis determined under the competition conducted under subsection (b) of this section shall be substituted for the payment basis otherwise applied under section 1395m(a) of this title, section 1395m(h) of this title, or section 1395u(s) of this title, as appropriate.
 
 #### (b) Program requirements
 
@@ -152,7 +152,7 @@
 
 #### (C) Rules for mergers and acquisitions
 
-&emsp;&emsp;In applying subparagraph (A) to a contractor, the contractor shall include a successor entity in the case of a merger or acquisition,if the successor entity assumes such contract along with any liabilities that may have occurred thereunder.
+&emsp;&emsp;In applying subparagraph (A) to a contractor, the contractor shall include a successor entity in the case of a merger or acquisition, if the successor entity assumes such contract along with any liabilities that may have occurred thereunder.
 
 #### (D) Protection of small suppliers
 
@@ -284,7 +284,7 @@ Pub. L. 108–173, title III, §302(b)(3), Dec. 8, 2003, 117 Stat. 2230, provide
 
 “(A)
 
-Study.—The Comptroller General of the United States shall conduct a study on the impact of competitive acquisition of durable medical equipment under section 1847 of the Social Security Act \[this section\], as amended by paragraph (1), on suppliers and manufacturers of such equipment and on patients. Such study shall specifically examine the impact of such competitive acquisition on access to, and quality of, such equipment and service related to such equipment.
+Study.—The Comptroller General of the United States shall conduct a study on the impact of competitive acquisition of durable medical equipment under section 1847 of the Social Security Act \[this section\], asamended by paragraph (1), on suppliers and manufacturers of such equipment and on patients. Such study shall specifically examine the impact of such competitive acquisition on access to, and quality of, such equipment and service related to such equipment.
 
 “(B)
 

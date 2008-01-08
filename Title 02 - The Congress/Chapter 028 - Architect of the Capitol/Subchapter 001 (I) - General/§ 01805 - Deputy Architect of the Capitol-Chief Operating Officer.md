@@ -54,7 +54,7 @@ The Government Accountability Office shall evaluate annually the implementation 
 
 #### (g) Removal
 
-The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i) of this section. Upon the removal ofthe Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
+The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i) of this section. Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.
 
 #### (h) Compensation
 
@@ -72,7 +72,7 @@ As of October 1, 2006, the role of the Comptroller General and the Government Ac
 
 #### References in Text
 
-Section 1849(a) of this title, as amended by section 129(c) of the Legislative Branch Appropriations Act, 2002, referred to in subsec. (e)(3), is section 1849(a) of this title, as amended by section 129(c) of Pub. L. 107–68.
+Section 1849(a) of this title, as amended by section 129(c) of the Legislative Branch Appropriations Act, 2002, referred to in subsec. (e)(3), is section 1849(a) ofthis title, as amended by section 129(c) of Pub. L. 107–68.
 
 #### Codification
 

@@ -62,7 +62,7 @@ For each of fiscal years 2006 through 2009, the balance of each annual appropria
 
 #### (c) Apportionment among States
 
-The Secretary <sup>3</sup> after the distribution, transfer, use and deduction under subsection (b) of this section, and after deducting amounts used for grants under section 777m of this title, shall apportion 57 percent of the balance of each such annual appropriation among the several States in the following manner: 40 percent in the ratio which the area of each State including coastal and Great Lakes waters (as determined by the Secretary of the Interior) bears to the total area of all the States, and 60 percent in the ratio which the number of persons holding paid licenses to fish for sport or recreation in the State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the number of such persons in all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than 1 percent nor more than 5 percent of the total amount apportioned. Where the apportionment to any State under this section is less than $4,500 annually, the Secretary of the Interior may allocate not more than $4,500 of said appropriation to said State to carry out the purposes of this chapter when said State certifies to the Secretary of the Interior that it has set aside not less than $1,500 from its fish-and-game funds or has made, through its legislature, an appropriation in this amount of said purposes.
+The Secretary <sup>3</sup> after the distribution, transfer, use and deduction under subsection (b) of this section, and after deducting amounts used for grants under section 777m of this title, shall apportion 57 percent of the balance of each such annual appropriation among the several States in the following manner: 40 percent in the ratio which the area of each State including coastal and Great Lakes waters (as determined by the Secretary of the Interior) bears to the total area of all the States, and 60 percent in the ratio which the number of persons holding paid licenses to fish for sport or recreation in the State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the number of such persons in all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than 1 percent nor more than 5 percent of the total amount apportioned.Where the apportionment to any State under this section is less than $4,500 annually, the Secretary of the Interior may allocate not more than $4,500 of said appropriation to said State to carry out the purposes of this chapter when said State certifies to the Secretary of the Interior that it has set aside not less than $1,500 from its fish-and-game funds or has made, through its legislature, an appropriation in this amount of said purposes.
 
 #### (d) Unallocated funds
 
@@ -112,7 +112,7 @@ Pub. L. 109–40, §8(b), amended heading and text of par. (4) generally, substi
 
 Pub. L. 109–37, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 300 days of fiscal year 2005 for similar provisions relating to use of funds for first 42 weeks of fiscal year 2005.
 
-Pub. L. 109–35, §8(b), amended heading and text of par. (4) generally, substituting provisions relating touse of funds for first 42 weeks of fiscal year 2005 for similar provisions relating to use of funds for first 292 days of fiscal year 2005.
+Pub. L. 109–35, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 42 weeks of fiscal year 2005 for similar provisions relating to use of funds for first 292 days of fiscal year 2005.
 
 Pub. L. 109–20, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 292 days of fiscal year 2005 for similar provisions relating to use of funds for first 9 months of fiscal year 2005.
 
@@ -184,7 +184,7 @@ Subsec. (g). Pub. L. 106–408, §121(c), added subsec. (g).
 
 1999—Subsec. (a). Pub. L. 106–74 substituted “fiscal year 2000” for “fiscal year 1999” in second sentence.
 
-1998—Subsec. (b). Pub. L. 105–178, §7403(a), as amended by Pub. L. 105–206, §9012(b)(1), inserted heading and amended text generally, substituting provisions relating to fiscal years 1998 to 2003 for provisions relating to fiscal years 1993 to 1998.
+1998—Subsec. (b). Pub. L. 105–178, §7403(a), as amended by Pub. L. 105–206, §9012(b)(1), inserted heading andamended text generally, substituting provisions relating to fiscal years 1998 to 2003 for provisions relating to fiscal years 1993 to 1998.
 
 Subsec. (b)(3)(B). Pub. L. 105–178, §7403(b), as added by Pub. L. 105–206, §9012(b)(2), made a technical amendment to reference in original act which appears in text as reference to section 777g–1(d) of this title.
 

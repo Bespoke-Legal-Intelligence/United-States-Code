@@ -40,7 +40,7 @@ Pub. L. 106–167, §1, Dec. 9, 1999, 113 Stat. 1803, provided that: “This Act
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–591, §1, Nov. 16, 1990, 104 Stat. 2931, provided that: “This Act \[enacting section 1441a–3 of Title 12, Banks and Banking, amending sections 3502 to 3506 and 3510 of this title and section 4028 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 3503 of this title, and repealing provisions set out as a note under section 3505 of this title\] may be cited as the ‘Coastal Barrier Improvement Act of 1990’.”
+Pub. L. 101–591, §1, Nov. 16, 1990, 104 Stat. 2931, provided that: “This Act \[enacting section 1441a–3 of Title 12, Banks and Banking, amending sections 3502 to 3506 and 3510 of this title and section 4028 of Title 42, The Public Health and Welfare, enacting provisions set outas notes under section 3503 of this title, and repealing provisions set out as a note under section 3505 of this title\] may be cited as the ‘Coastal Barrier Improvement Act of 1990’.”
 
 #### Short Title of 1988 Amendment
 
@@ -56,7 +56,7 @@ Pub. L. 106–514, §7, Nov. 13, 2000, 114 Stat. 2397, provided that:
 
 “(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Nov. 13, 2000\], the Secretary of the Interior shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives an economic assessment of the John H. Chafee Coastal Barrier Resources System.
+In General.—Not later than 1 year after the date of enactment of this Act \[Nov. 13, 2000\], the Secretary of the Interior shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives an economic assessment of the John H. Chafee Coastal Barrier Resources System.
 
 “(b)
 

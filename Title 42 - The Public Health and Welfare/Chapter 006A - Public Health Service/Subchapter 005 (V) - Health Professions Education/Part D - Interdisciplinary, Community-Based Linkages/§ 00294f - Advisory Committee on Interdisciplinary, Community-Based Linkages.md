@@ -80,7 +80,7 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Codification
 
-November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
+November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, whichwas translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

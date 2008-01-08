@@ -40,7 +40,7 @@
 
 &emsp;(7) “non-basic benefits” means benefits guaranteed under section 1322(c) <sup>1</sup> of this title or 1322a(g) of this title;
 
-&emsp;(8) “nonforfeitable benefit” means, with respect to a plan, a benefit for which a participant has satisfied the conditions for entitlement under the plan or the requirements of this chapter (other than submission of a formal application, retirement, completion of a required waiting period, or death in the case of a benefit which returns all or a portion of a participant's accumulated mandatory employee contributions upon the participant's death), whether or not the benefit may subsequently be reduced or suspended by a plan amendment, an occurrence of any condition, or operation of this chapter or the Internal Revenue Code of 1986;
+&emsp;(8) “nonforfeitable benefit” means, with respect to a plan, a benefit for which a participant has satisfied the conditions for entitlement under the plan or the requirements ofthis chapter (other than submission of a formal application, retirement, completion of a required waiting period, or death in the case of a benefit which returns all or a portion of a participant's accumulated mandatory employee contributions upon the participant's death), whether or not the benefit may subsequently be reduced or suspended by a plan amendment, an occurrence of any condition, or operation of this chapter or title 26;
 
 &emsp;(9) “reorganization index” means the amount determined under section 1421(b) of this title;
 
@@ -54,7 +54,7 @@
 
 &emsp;(12) “outstanding claim for withdrawal liability” means a plan's claim for the unpaid balance of the liability determined under part 1 of subtitle E of this subchapter for which demand has been made, valued in accordance with regulations prescribed by the corporation;
 
-&emsp;(13) “contributing sponsor”, of a single-employer plan, means a person described in section 1082(c)(11)(A) of this title (without regard to section 1082(c)(11)(B) of this title) or section 412(c)(11)(A) of title 26 (without regard to section 412(c)(11)(B) of such title).<sup>2</sup>
+&emsp;(13) “contributing sponsor”, of a single-employer plan, means a person described in section 1082(b)(1) of this title (without regard to section 1082(b)(2) of this title) or section 412(b)(1) of title 26 (without regard to section 412(b)(2) of such title).<sup>2</sup>
 
 &emsp;(14) in the case of a single-employer plan—
 
@@ -116,15 +116,11 @@
 
 (2) For purposes of subtitle E of this subchapter—
 
-&emsp;(A) except as otherwise provided in subtitle E of this subchapter, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
+&emsp;(A) except as otherwise provided in subtitle E of this subchapter, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
 
 &emsp;(B) the term “Secretary of the Treasury” means the Secretary of the Treasury or such Secretary's delegate.
 
 (Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, title XI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034; Pub. L. 109–280, title I, §107(b)(1), Aug. 17, 2006, 120 Stat. 819.)
-
-#### Amendment of Subsection (a)(13)
-
-<i>Pub. L. 109–280, title I, §107(b)(1), (e), Aug. 17, 2006, 120 Stat. 819, 820, provided that, applicable to plan years beginning after 2007, subsection (a)(13) of this section is amended by substituting “1082(b)(1)” for “1082(c)(11)(A)”, “1082(b)(2)” for “1082(c)(11)(B)”, “412(b)(1)” for “412(c)(11)(A)”, and “412(b)(2)” for “412(c)(11)(B)”.</i>
 
 #### References in Text
 
@@ -132,13 +128,17 @@ Section 1322(c) of this title, referred to in subsec. (a)(6), (7), was redesigna
 
 This chapter, referred to in subsec. (a)(8), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Internal Revenue Code of 1986, referred to in subsec. (a)(8), is classified generally to Title 26, Internal Revenue Code.
+Section 412, referred to in subsec. (b)(2)(A), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, no longer contains a subsec. (c)(10).
 
 #### Codification
+
+Subsec. (a)(8) is set out in this supplement to show a translation not made in the main edition.
 
 In subsec. (a)(14)(C)(ii)(I), “section 40102(a)(2) of title 49” substituted for “section 101(3) of the Federal Aviation Act of 1958” and “section 41102 of title 49” substituted for “section 401 of such Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+
+2006—Subsec. (a)(13). Pub. L. 109–280 substituted “1082(b)(1)” for “1082(c)(11)(A)”, “1082(b)(2)” for “1082(c)(11)(B)”, “412(b)(1)” for “412(c)(11)(A)”, and “412(b)(2)” for “412(c)(11)(B)”.
 
 1994—Subsec. (a)(13). Pub. L. 103–465 substituted “means a person described in section 1082(c)(11)(A) of this title (without regard to section 1082(c)(11)(B) of this title) or section 412(c)(11)(A) of title 26 (without regard to section 412(c)(11)(B) of such title).” for “means a person—
 
@@ -148,9 +148,7 @@ In subsec. (a)(14)(C)(ii)(I), “section 40102(a)(2) of title 49” substituted 
 
 1991—Subsec. (a)(14)(C). Pub. L. 102–229, which directed the amendment of section 4001(a)(14) of the Employment Retirement Income Security Act of 1974 by adding subpar. (C), was executed to section 4001(a)(14) of the Employee Retirement Income Security Act of 1974, which is classified to this section, to reflect the probable intent of Congress.
 
-1989—Subsec. (a)(8). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
-
-Subsecs. (a)(13)(A), (14)(B), (b)(1), (2)(A). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1989—Subsecs. (a)(8), (13)(A), (14)(B), (b)(1), (2)(A). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1987—Subsec. (a)(16). Pub. L. 100–203, §9312(b)(4), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “ ‘benefit commitments’, to a participant or beneficiary as of any date under a single-employer plan, means all benefits provided by the plan with respect to the participant or beneficiary which—
 
@@ -164,7 +162,7 @@ Subsecs. (a)(13)(A), (14)(B), (b)(1), (2)(A). Pub. L. 101–239 substituted “I
 
 &emsp;&emsp;“(ii) plant closing benefits,
 
-> &emsp;irrespective of whether any such supplements, subsidies, or benefits are benefits guaranteed under section 1322 of this title, if the participant or beneficiary has satisfied, as of such date, all of the conditions required of him or her under the provisions of the plan to establish entitlement to the benefits, except for the submission of a formal application, retirement, completion of a required waiting period subsequent to application for benefits, or designation of a beneficiary;”.
+> &emsp;irrespective of whether any such supplements, subsidies, or benefits are benefits guaranteed under section 1322 of this title, if the participant or beneficiary has satisfied, as of such date, all of the conditions required of him or her under the provisions of the planto establish entitlement to the benefits, except for the submission of a formal application, retirement, completion of a required waiting period subsequent to application for benefits, or designation of a beneficiary;”.
 
 Subsec. (a)(18). Pub. L. 100–203, §9313(a)(2)(F), amended par. (18) generally. Prior to amendment, par. (18) read as follows: “ ‘amount of unfunded benefit commitments’, of a participant or beneficiary as of any date under a single-employer plan, means an amount equal to the excess of—
 
@@ -241,4 +239,6 @@ This subchapter not applicable in interpreting Internal Revenue Code of 1986, ex
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

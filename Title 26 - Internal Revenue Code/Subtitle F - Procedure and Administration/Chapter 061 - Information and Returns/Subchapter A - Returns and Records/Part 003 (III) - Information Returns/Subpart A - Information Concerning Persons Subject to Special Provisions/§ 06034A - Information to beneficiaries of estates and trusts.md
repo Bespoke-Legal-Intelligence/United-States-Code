@@ -22,7 +22,7 @@ Any person who holds an interest in an estate or trust as a nominee for another 
 
 #### (1) In general
 
-&emsp;A beneficiary of any estate or trust to which subsection (a) applies shall, on such beneficiary's return, treat any reported item in amanner which is consistent with the treatment of such item on the applicable entity's return.
+&emsp;A beneficiary of any estate or trust to which subsection (a) applies shall, on such beneficiary's return, treat any reported item in a manner which is consistent with the treatment of such item on the applicable entity's return.
 
 #### (2) Notification of inconsistent treatment
 

@@ -26,13 +26,13 @@ For purposes of this section:
 
 (1) The Administrator of the Environmental Protection Agency shall establish an Indian Environmental General Assistance Program that provides grants to eligible Indian tribal governments or intertribal consortia to cover the costs of planning, developing, and establishing environmental protection programs consistent with other applicable provisions of law providing for enforcement of such laws by Indian tribes on Indian lands.
 
-(2) Each grant awarded for general assistance under this subsection for a fiscal year shall beno less than $75,000, and no single grant may be awarded to an Indian tribal government or intertribal consortium for more than 10 percent of the funds appropriated under subsection (h) of this section.
+(2) Each grant awarded for general assistance under this subsection for a fiscal year shall be no less than $75,000, and no single grant may be awarded to an Indian tribal government or intertribal consortium for more than 10 percent of the funds appropriated under subsection (h) of this section.
 
 (3) The term of any general assistance award made under this subsection may exceed one year. Any awards made pursuant to this section shall remain available until expended. An Indian tribal government or intertribal consortium may receive a general assistance grant for a period of up to four years in each specific media area.
 
 #### (e) No reduction in amounts
 
-In no case shall the award of a general assistance grant to an Indian tribal government or intertribal consortium under this section result in a reduction of Environmental Protection Agency grants for environmental programs to that tribal government or consortium. Nothing in this section shall preclude an Indian tribal government or intertribal consortium from receiving individual media grants or cooperative agreements. Funds provided by the Environmental Protection Agency through the general assistance program shall be used by an Indian tribal government or intertribal consortium to supplement other funds provided by the Environmental Protection Agency through individual media grants or cooperative agreements.
+In no case shall the award of a general assistance grant to an Indian tribal government orintertribal consortium under this section result in a reduction of Environmental Protection Agency grants for environmental programs to that tribal government or consortium. Nothing in this section shall preclude an Indian tribal government or intertribal consortium from receiving individual media grants or cooperative agreements. Funds provided by the Environmental Protection Agency through the general assistance program shall be used by an Indian tribal government or intertribal consortium to supplement other funds provided by the Environmental Protection Agency through individual media grants or cooperative agreements.
 
 #### (f) Expenditure of general assistance
 

@@ -20,11 +20,11 @@ No deduction shall be allowed under subsection (a) for any contribution or gift 
 
 #### (1) Illegal payments to government officials or employees
 
-&emsp;No deduction shall be allowed under subsection (a) for any payment made, directly orindirectly, to an official or employee of any government, or of any agency or instrumentality of any government, if the payment constitutes an illegal bribe or kickback or, if the payment is to an official or employee of a foreign government, the payment is unlawful under the Foreign Corrupt Practices Act of 1977. The burden of proof in respect of the issue, for the purposes of this paragraph, as to whether a payment constitutes an illegal bribe or kickback (or is unlawful under the Foreign Corrupt Practices Act of 1977) shall be upon the Secretary to the same extent as he bears the burden of proof under section 7454 (concerning the burden of proof when the issue relates to fraud).
+&emsp;No deduction shall be allowed under subsection (a) for any payment made, directly or indirectly, to an official or employee of any government, or of any agency or instrumentality of any government, if the payment constitutes an illegal bribe or kickback or, if the payment is to an official or employee of a foreign government, the payment is unlawful under the Foreign Corrupt Practices Act of 1977. The burden of proof in respect of the issue, for the purposes of this paragraph, as to whether a payment constitutes an illegal bribe or kickback (or is unlawful under the Foreign Corrupt Practices Act of 1977) shall be upon the Secretary to the same extent as he bears the burden of proof under section 7454 (concerning the burden of proof when the issue relates to fraud).
 
 #### (2) Other illegal payments
 
-&emsp;No deduction shall be allowed under subsection (a) for any payment (other than a payment described in paragraph (1)) made, directly or indirectly, to any person, if the payment constitutes an illegal bribe, illegal kickback, or other illegal payment under any law of the United States, or under any law of a State (but only if such State law is generally enforced), which subjects the payor to a criminal penalty or the loss of license or privilege to engage in a trade or business. For purposes of this paragraph, a kickback includes a payment in consideration of the referral of a client, patient, or customer. The burden of proof in respect of the issue, for purposes of this paragraph, as to whether a payment constitutes an illegal bribe, illegal kickback, or other illegal payment shall be upon the Secretary to the same extent as he bears the burden of proof under section 7454 (concerning the burden of proof when the issue relates to fraud).
+&emsp;No deduction shall be allowed under subsection (a) for any payment (other than a payment described in paragraph (1)) made, directly or indirectly, to any person, if the payment constitutes an illegal bribe, illegal kickback, or other illegal payment under any law of the United States, or under any law of a State (but only if such State law is generallyenforced), which subjects the payor to a criminal penalty or the loss of license or privilege to engage in a trade or business. For purposes of this paragraph, a kickback includes a payment in consideration of the referral of a client, patient, or customer. The burden of proof in respect of the issue, for purposes of this paragraph, as to whether a payment constitutes an illegal bribe, illegal kickback, or other illegal payment shall be upon the Secretary to the same extent as he bears the burden of proof under section 7454 (concerning the burden of proof when the issue relates to fraud).
 
 #### (3) Kickbacks, rebates, and bribes under medicare and medicaid
 
@@ -72,7 +72,7 @@ For purposes of this subtitle, whenever the amount of capital contributions evid
 
 #### (A) In general
 
-&emsp;&emsp;The term “influencing legislation” means any attempt to influence any legislation through communication with any member or employee of a legislative body, or withany government official or employee who may participate in the formulation of legislation.
+&emsp;&emsp;The term “influencing legislation” means any attempt to influence any legislation through communication with any member or employee of a legislative body, or with any government official or employee who may participate in the formulation of legislation.
 
 #### (B) Legislation
 
@@ -262,7 +262,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (1) In general
 
-&emsp;In the case of any publicly held corporation, no deduction shall be allowed under this chapter for applicable employee remuneration with respect to any covered employee to the extent that the amount of such remuneration for the taxable year with respect to such employee exceeds $1,000,000.
+&emsp;In the case of any publicly held corporation, no deduction shall be allowed under this chapter for applicable employee remuneration withrespect to any covered employee to the extent that the amount of such remuneration for the taxable year with respect to such employee exceeds $1,000,000.
 
 #### (2) Publicly held corporation
 
@@ -374,7 +374,7 @@ For purposes of subsection (a)(2), in the case of an individual who performs ser
 
 &emsp;&emsp;&emsp;<b>(B) deferred compensation and other deferred benefits, see section 404.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L. 86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194;Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457, 469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094; Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L. 86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194; Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457,469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094; Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568.)
 
 #### References in Text
 
@@ -451,7 +451,7 @@ Subsec. (<i>l</i>)(6). Pub. L. 104–7, §1(a), struck out par. (6) “Terminati
 
 1993—Subsec. (e). Pub. L. 103–66, §13222(a), amended heading and text generally. Prior to amendment, text consisted of pars. (1) and (2) relating to deduction of ordinary and necessary expenses paid or incurred in connection with certain activities relating to congressional, State, and local legislation.
 
-Subsec. (<i>l</i>)(2)(B). Pub. L. 103–66, §13174(b)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “Paragraph (1) shallnot apply to any taxpayer who is eligible to participate in any subsidized health plan maintained by any employer of the taxpayer or of the spouse of the taxpayer.”
+Subsec. (<i>l</i>)(2)(B). Pub. L. 103–66, §13174(b)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to any taxpayer who is eligible to participate in any subsidized health plan maintained by any employer of the taxpayer or of the spouse of the taxpayer.”
 
 Subsec. (<i>l</i>)(3). Pub. L. 103–66, §13131(d)(2), amended heading and text of par. (3) generally. Prior to amendment, text read as follows:
 
@@ -473,7 +473,7 @@ Pub. L. 103–66, §13211(a), redesignated subsec. (m) as (n).
 
 Subsec. (<i>o</i>). Pub. L. 103–66, §13442(a), redesignated subsec. (n) as (<i>o</i>).
 
-1992—Subsec. (a). Pub. L. 102–486 inserted at end “For purposes of paragraph (2), the taxpayer shall not be treated as being temporarily away from home during any period of employment if such period exceeds 1 year.”
+1992—Subsec. (a). Pub. L. 102–486 inserted at end “For purposes of paragraph (2), the taxpayer shall not be treated as being temporarily away from home duringany period of employment if such period exceeds 1 year.”
 
 1991—Subsec. (<i>l</i>)(6). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
 
@@ -545,7 +545,7 @@ Subsec. (k)(2)(B)(iii). Pub. L. 99–514, §1895(d)(3)(A), inserted “The payme
 
 Subsec. (k)(2)(B)(iv). Pub. L. 99–514, §1895(d)(4)(A)(iii), substituted “Group health plan coverage” for “Reemployment” in heading.
 
-Subsec. (k)(2)(B)(iv)(I). Pub. L. 99–514, §1895(d)(4)(A)(ii), substituted “covered under any othergroup health plan (as an employee or otherwise)” for “a covered employee under any other group health plan”.
+Subsec. (k)(2)(B)(iv)(I). Pub. L. 99–514, §1895(d)(4)(A)(ii), substituted “covered under any other group health plan (as an employee or otherwise)” for “a covered employee under any other group health plan”.
 
 Subsec. (k)(2)(B)(iv)(II). Pub. L. 99–509, §9501(b)(2)(A), inserted “in the case of a qualified beneficiary other than a qualified beneficiary described in paragraph (7)(B)(iv),”.
 
@@ -727,7 +727,7 @@ Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. 
 
 Amendment by sections 1011B(b)(1)–(3) and 1018(t)(7)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Section 3011(d) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting section 4980B of this title, and amending this section, sections106 and 414 of this title, section 1167 of Title 29, Labor, and section 300bb–8 of Title 42, The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 1988, but shall not apply to any plan for any plan year to which section 162(k) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) did not apply by reason of section 10001(e)(2) of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[section 10001(e)(2) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 106 of this title\].”
+Section 3011(d) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting section 4980B of this title, and amending this section, sections 106 and 414 of this title, section 1167 of Title 29, Labor, and section 300bb–8 of Title 42, The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 1988, but shall not apply to any plan for any plan year to which section 162(k) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) did not apply by reason of section 10001(e)(2) of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[section 10001(e)(2) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 106 of this title\].”
 
 #### Effective Date of 1986 Amendments
 
@@ -795,7 +795,7 @@ Section 215(d) of Pub. L. 97–216 provided that: “The amendments made by this
 
 #### Effective Date of 1981 Amendments
 
-Section 139(b)(3) of Pub. L. 97–51, as amended by Pub. L. 97–92, §133a, Dec. 15, 1981, 95 Stat. 1199, provided that: “The amendments made by this subsection \[amending this section and repealing section 31c of Title 2, TheCongress\] shall apply to taxable years beginning after December 31, 1980.”
+Section 139(b)(3) of Pub. L. 97–51, as amended by Pub. L. 97–92, §133a, Dec. 15, 1981, 95 Stat. 1199, provided that: “The amendments made by this subsection \[amending this section and repealing section 31c of Title 2, The Congress\] shall apply to taxable years beginning after December 31, 1980.”
 
 Section 2146(c)(2) of Pub. L. 97–35 provided that: “The amendments made by subsection (b) \[amending this section\] shall be effective with respect to taxable years beginning on or after January 1, 1982.”
 
@@ -811,7 +811,7 @@ Section 310(b) of Pub. L. 92–178 provided that: “The amendments made by subs
 
 #### Effective Date of 1969 Amendment
 
-Section 902(c) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Section 162(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall apply to all taxable years to which such Code applies. Section 162(g) of such Code (as added by subsection (a)) shall apply with respect to amounts paid or incurred after December 31, 1969. Section 162(c)(1) of such Code (as amended by subsection (b)) shall apply to all taxable years to which such Code applies. Sections 162(c)(2) and (3) of such Code (as amended by subsection (b)) shall apply with respect to payments made after the date of the enactment of this Act \[Dec. 30, 1969\].”
+Section 902(c) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“Section 162(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall apply to all taxable years to which such Code applies. Section 162(g) of such Code (as added by subsection (a)) shall apply with respect to amounts paid or incurred after December 31, 1969. Section 162(c)(1) of such Code (as amended by subsection (b)) shall apply to all taxable years to which such Code applies. Sections 162(c)(2) and (3) of such Code (as amended by subsection (b)) shall apply with respect to payments made after the date of the enactment of this Act \[Dec. 30, 1969\].”
 
 Amendment by section 516(c)(2)(A) of Pub. L. 91–172 applicable to transfers after Dec. 31, 1969, see section 516(d)(3) of Pub. L. 91–172, set out as a note under section 1001 of this title.
 
@@ -863,7 +863,7 @@ General.—For purposes of section 162(a) of the Internal Revenue Code of 1986 \
 
 &emsp;“(1) the place of residence of such individual within the legislative district which he represented shall be considered his home, and
 
-&emsp;“(2) he shall be deemed to have expended for living expenses (in connection with his trade or business as a legislator) an amount equal to the sum of the amounts determined by multiplying each legislative day of such individual during the taxable year by the amount generally allowable with respect to such day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
+&emsp;“(2) he shall be deemed to have expended for living expenses (in connection with his trade or business as a legislator) an amount equal to the sum of the amounts determined by multiplying each legislative day of such individual during the taxable year by theamount generally allowable with respect to such day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
 
 “(b)
 

@@ -4,7 +4,7 @@
 
 #### (1) Report required
 
-&emsp;Each insured depository institution shall submit an annual report to the Corporation,the appropriate Federal banking agency, and any appropriate State bank supervisor (including any State bank supervisor of a host State).
+&emsp;Each insured depository institution shall submit an annual report to the Corporation, the appropriate Federal banking agency, and any appropriate State bank supervisor (including any State bank supervisor of a host State).
 
 #### (2) Contents of report
 
@@ -90,11 +90,11 @@ Each insured depository institution shall prepare—
 
 #### (A) Establishment
 
-&emsp;&emsp;Each insured depository institution (to which this section applies) shall have an independent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
+&emsp;&emsp;Each insured depository institution (to which this section applies) shall have anindependent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
 
 #### (B) Duties
 
-&emsp;&emsp;An independent audit committee's duties shall include reviewing with managementand the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d) of this section.
+&emsp;&emsp;An independent audit committee's duties shall include reviewing with management and the independent public accountant the basis for the reports issued under subsections (b)(2), (c), and (d) of this section.
 
 #### (C) Criteria applicable to committees of large insured depository institutions
 
@@ -168,7 +168,7 @@ Each insured depository institution shall prepare—
 
 #### (A) In general
 
-&emsp;&emsp;Each insured depository institution which has engaged the services of an independent auditor to audit such institution shall transmit to the auditor a copy of the most recent report of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
+&emsp;&emsp;Each insured depository institution which has engaged the services of an independent auditor to audit such institution shall transmit to the auditor a copy of the most recentreport of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
 
 #### (B) Additional information
 
@@ -246,13 +246,13 @@ In general—An independent public accountant shall apply procedures agreed upon
 
 “(2)
 
-Attestation requirements—Any attestation pursuant to paragraph (1) shall be made in accordance with generally accepted standards for attestation engagements.”
+Attestation requirements—Any attestation pursuant to paragraph (1) shall be made in accordancewith generally accepted standards for attestation engagements.”
 
 Subsec. (g)(1)(A). Pub. L. 104–208, §2301(b)(1), inserted “, except as provided in subparagraph (D)” after “management of the institution”.
 
 Subsec. (g)(1)(D). Pub. L. 104–208, §2301(b)(2), added subpar. (D).
 
-Subsec. (i)(3). Pub. L. 104–208, §2704(d)(14)(Z), which directed substitution of “Deposit Insurance Fund” for“affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (i)(3). Pub. L. 104–208, §2704(d)(14)(Z), which directed substitution of “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1994—Subsec. (g)(2)(D). Pub. L. 103–325, §314(b), added subpar. (D).
 

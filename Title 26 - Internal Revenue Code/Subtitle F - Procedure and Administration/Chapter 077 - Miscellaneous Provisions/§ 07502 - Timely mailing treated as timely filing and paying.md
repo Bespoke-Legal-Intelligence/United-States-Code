@@ -20,7 +20,7 @@
 
 #### (b) Postmarks
 
-This section shall apply in the case of postmarks not made by the United States Postal Service only if and to the extent provided by regulations prescribed by the Secretary.
+This section shall apply in the case of postmarks not made by the United States PostalService only if and to the extent provided by regulations prescribed by the Secretary.
 
 #### (c) Registered and certified mailing; electronic filing
 
@@ -74,7 +74,7 @@ This section shall not apply with respect to—
 
 #### (2) Designated delivery service
 
-&emsp;For purposes of this subsection, the term “designated delivery service” means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretarymay designate a delivery service under the preceding sentence only if the Secretary determines that such service—
+&emsp;For purposes of this subsection, the term “designated delivery service” means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretary may designate a delivery service under the preceding sentence only if the Secretary determines that such service—
 
 &emsp;&emsp;(A) is available to the general public,
 

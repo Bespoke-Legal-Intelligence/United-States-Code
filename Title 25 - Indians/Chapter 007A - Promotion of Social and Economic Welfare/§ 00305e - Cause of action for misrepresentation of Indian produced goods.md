@@ -48,7 +48,7 @@ As used in this section—
 
 &emsp;(3) the term “Indian tribe” means—
 
-&emsp;&emsp;(A) any Indian tribe, band, nation, Alaska Native village, or other organized group orcommunity which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
+&emsp;&emsp;(A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
 
 &emsp;&emsp;(B) any Indian group that has been formally recognized as an Indian tribe by a State legislature or by a State commission or similar organization legislatively vested with State tribal recognition authority; and
 
@@ -62,7 +62,7 @@ In the event that any provision of this section is held invalid, it is the inten
 
 Not later than 180 days after November 9, 2000, the Board shall promulgate regulations to include in the definition of the term “Indian product” specific examples of such product to provide guidance to Indian artisans as well as to purveyors and consumers of Indian arts and crafts, as defined under this Act.
 
-(Aug. 27, 1935, ch. 748, §6, as added Pub. L. 101–644, title I, §105, Nov. 29, 1990, 104 Stat. 4664; amended Pub. L. 106–497, §2, Nov. 9, 2000, 114 Stat. 2219.)
+(Aug. 27, 1935, ch. 748, §6, as added Pub. L. 101–644, title I, §105, Nov. 29, 1990, 104 Stat. 4664;amended Pub. L. 106–497, §2, Nov. 9, 2000, 114 Stat. 2219.)
 
 #### References in Text
 

@@ -28,7 +28,7 @@ Members of the Advisory Board who are officers or employees of the Federal Gover
 
 #### (d) Term of office; vacancy
 
-The term of office of an appointed member of the Advisory Board is four years. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 90 days after the date the vacancy occurred.
+The term of office of an appointed member of the Advisory Board is four years. Any memberappointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 90 days after the date the vacancy occurred.
 
 #### (e) Chairman
 
@@ -36,7 +36,7 @@ The members of the Advisory Board shall select a chairman from among the appoint
 
 #### (f) Executive director, professional and clerical staff; administrative support services and facilities
 
-The Secretary shall, after consultation with and consideration of the recommendations ofthe Advisory Board, provide the Advisory Board with an executive director and one other professional staff member. In addition, the Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with such additional professional staff members, such clerical staff members, and (through contracts or other arrangements) with such administrative support services and facilities, such information, and such services of consultants, as the Secretary determines are necessary for the Advisory Board to carry out its functions.
+The Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with an executive director and one other professional staff member. In addition, the Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with such additional professional staff members, such clerical staff members, and (through contracts or other arrangements) with such administrative support services and facilities, such information, and such services of consultants, as the Secretary determines are necessary for the Advisory Board to carry out its functions.
 
 #### (g) Meetings
 

@@ -18,7 +18,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) The pilot watershed program authorized under the heading “
 
-Flood Prevention” of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
+Flood Prevention”of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
 
 &emsp;&emsp;(D) Subtitle H of title XV of the Agriculture and Food Act of 1981 (16 U.S.C. 3451 et seq.; commonly known as the Resource Conservation and Development Program).
 
@@ -34,7 +34,7 @@ Flood Prevention” of the Department of Agriculture Appropriation Act, 1954 (Pu
 
 #### (2) Amount of assistance; limitations
 
-&emsp;The amount of Federal funds that may be made available under this subsection to alocal organization for construction of a particular rehabilitation project shall be equal to 65 percent of the total rehabilitation costs, but not to exceed 100 percent of actual construction costs incurred in the rehabilitation. However, the local organization shall be responsible for the costs of water, mineral, and other resource rights and all Federal, State, and local permits.
+&emsp;The amount of Federal funds that may be made available under this subsection to a local organization for construction of a particular rehabilitation project shall be equal to 65 percent of the total rehabilitation costs, but not to exceed 100 percent of actual construction costs incurred in the rehabilitation. However, the local organization shall be responsible for the costs of water, mineral, and other resource rights and all Federal, State, and local permits.
 
 #### (3) Relation to land use and development regulations
 
@@ -110,7 +110,7 @@ The Secretary, in concert with the responsible State agencies, shall conduct an 
 
 #### (1) Secretary
 
-&emsp;The Secretary shall maintain a data base to track the benefits derived from rehabilitation projects supported under this section and the expenditures made under this section. On the basis of such data and the reports submittedunder paragraph (2), the Secretary shall prepare and submit to Congress an annual report providing the status of activities conducted under this section.
+&emsp;The Secretary shall maintain a data base to track the benefits derived from rehabilitation projects supported under this section and the expenditures made under this section. On the basis of such data and the reports submitted under paragraph (2), the Secretary shall prepare and submit to Congress an annual report providing the status of activities conducted under this section.
 
 #### (2) Grant recipients
 

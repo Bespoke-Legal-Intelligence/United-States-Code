@@ -34,7 +34,7 @@ Act Aug. 13, 1954, which enacted this chapter, amended section 1805 of Title 42,
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, ThePublic Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
 #### Separability
 

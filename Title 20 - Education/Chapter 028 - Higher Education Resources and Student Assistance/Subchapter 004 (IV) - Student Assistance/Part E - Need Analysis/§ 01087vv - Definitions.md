@@ -4,7 +4,7 @@ As used in this part:
 
 #### (a) Total income
 
-(1) Except as provided in paragraph (2), the term “total income” is equal to adjusted grossincome plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e) of this section).
+(1) Except as provided in paragraph (2), the term “total income” is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e) of this section).
 
 (2) No portion of any student financial assistance received from any program by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 \[42 U.S.C. 12511 et seq.\], and no portion of any tax credit taken under section 25A of title 26, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter.
 
@@ -136,7 +136,7 @@ The term “net assets” means the current market value at the time of applicat
 
 #### (h) Treatment of income taxes paid to other jurisdictions
 
-(1) The tax on income paid to the Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, or the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau under the laws applicable to those jurisdictions, or the comparable tax paid to the central government of a foreign country, shall be treated as Federal income taxes.
+(1) The tax on income paid to the Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, orthe Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau under the laws applicable to those jurisdictions, or the comparable tax paid to the central government of a foreign country, shall be treated as Federal income taxes.
 
 (2) References in this part to title 26, Federal income tax forms, and the Internal Revenue Service shall, for purposes of the tax described in paragraph (1), be treated as references to the corresponding laws, tax forms, and tax collection agencies of those jurisdictions, respectively, subject to such adjustments as the Secretary may provide by regulation.
 
@@ -178,7 +178,113 @@ The term “current balance of checking and savings accounts” does not include
 
 The term “business assets” means property that is used in the operation of a trade or business, including real estate, inventories, buildings, machinery, and other equipment, patents, franchise rights, and copyrights.
 
-(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176.)
+(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824.)
+
+#### Amendment of Section
+
+<i>Pub. L. 110–153, §1, Dec. 21, 2007, 121 Stat. 1824, provided that, effective July 1, 2009, subsection (b) of this section is amended by striking paragraph (2) and inserting the following:</i>
+
+&emsp;<i>(2) The term “untaxed income and benefits” shall not include—</i>
+
+&emsp;&emsp;<i>(A) the amount of additional child tax credit claimed for Federal income tax purposes;</i>
+
+&emsp;&emsp;<i>(B) welfare benefits, including assistance under a State program funded under part A of title IV of the Social Security Act and aid to dependent children;</i>
+
+&emsp;&emsp;<i>(C) the amount of earned income credit claimed for Federal income tax purposes;</i>
+
+&emsp;&emsp;<i>(D) the amount of credit for Federal tax on special fuels claimed for Federal income tax purposes;</i>
+
+&emsp;&emsp;<i>(E) the amount of foreign income excluded for purposes of Federal income taxes; or</i>
+
+&emsp;&emsp;<i>(F) untaxed social security benefits.</i>
+
+<i>Pub. L. 110–84, title VI, §604, Sept. 27, 2007, 121 Stat. 806, provided that, effective July 1, 2009, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(2), by striking “and no portion” and inserting “no portion” and by inserting “and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax,” after “title 26,”;</i>
+
+<i>(2) by striking subsection (b) and inserting the following:</i>
+
+#### <i>“(b) Untaxed income and benefits</i>
+
+<i>“(1) The term ‘untaxed income and benefits’ means—</i>
+
+&emsp;<i>“(A) child support received;</i>
+
+&emsp;<i>“(B) workman's compensation;</i>
+
+&emsp;<i>“(C) veteran's benefits such as death pension, dependency, and indemnity compensation, but excluding veterans’ education benefits as defined in subsection (c);</i>
+
+&emsp;<i>“(D) interest on tax-free bonds;</i>
+
+&emsp;<i>“(E) housing, food, and other allowances (excluding rent subsidies for low-income housing) for military, clergy, and others (including cash payments and cash value of benefits);</i>
+
+&emsp;<i>“(F) cash support or any money paid on the student‘s behalf, except, for dependent students, funds provided by the student's parents;</i>
+
+&emsp;<i>“(G) untaxed portion of pensions;</i>
+
+&emsp;<i>“(H) payments to individual retirement accounts and Keogh accounts excluded from income for Federal income tax purposes; and</i>
+
+&emsp;<i>“(I) any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, or railroad retirement benefits, or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.).</i>
+
+<i>“(2) The term ‘untaxed income and benefits’ shall not include the amount of additional child tax credit claimed for Federal income tax purposes.”;</i>
+
+<i>(3) in subsection (d):</i>
+
+<i>(A) by redesignating paragraphs (1), (2), (3) through (6), and (7) as subparagraphs (A), (B), (D) through (G), and (I), respectively, and indenting appropriately;</i>
+
+<i>(B) by striking “The term” and inserting the following:</i>
+
+#### <i>“(1) Definition</i>
+
+&emsp;<i>“The term”;</i>
+
+<i>(C) by striking subparagraph (B) (as redesignated by subparagraph (A)) and inserting the following:</i>
+
+&emsp;&emsp;<i>“(B) is an orphan, in foster care, or a ward of the court, at any time when the individual is 13 years of age or older;</i>
+
+&emsp;&emsp;<i>“(C) is an emancipated minor or is in legal guardianship as determined by a court of competent jurisdiction in the individual's State of legal residence;”;</i>
+
+<i>(D) in subparagraph (G) (as redesignated by subparagraph (A)), by striking “or” after the semicolon;</i>
+
+<i>(E) by inserting after subparagraph (G) (as redesignated by subparagraph (A)) the following:</i>
+
+&emsp;&emsp;<i>“(H) has been verified during the school year in which the application is submitted as either an unaccompanied youth who is a homeless child or youth (as such terms are defined in section 725 of the McKinney-Vento Homeless Assistance Act), or as unaccompanied, at risk of homelessness, and self-supporting, by—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) a local educational agency homeless liaison, designated pursuant to section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act;</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) the director of a program funded under the Runaway and Homeless Youth Act or a designee of the director;</i>
+
+&emsp;&emsp;&emsp;<i>“(iii) the director of a program funded under subtitle B of title IV of the McKinney-Vento Homeless Assistance Act (relating to emergency shelter grants) or a designee of the director; or</i>
+
+&emsp;&emsp;&emsp;<i>“(iv) a financial aid administrator; or”; and</i>
+
+<i>(F) by adding at the end the following:</i>
+
+#### <i>“(2) Simplifying the dependency override process</i>
+
+&emsp;<i>“A financial aid administrator may make a determination of independence under paragraph (1)(I) based upon a documented determination of independence that was previously made by another financial aid administrator under such paragraph in the same award year.”;</i>
+
+<i>(4) in subsection (e), by striking “and” after the semicolon in paragraph (3), by striking the period at the end of paragraph (4) and inserting “; and”, and by adding at the end the following:</i>
+
+&emsp;<i>“(5) special combat pay.”;</i>
+
+<i>(5) in subsection (f), by striking paragraph (3) and inserting the following:</i>
+
+<i>“(3) A qualified education benefit shall be considered an asset of—</i>
+
+&emsp;<i>“(A) the student if the student is an independent student; or</i>
+
+&emsp;<i>“(B) the parent if the student is a dependent student, regardless of whether the owner of the account is the student or the parent.”;</i>
+
+<i>(6) in subsection (j), by inserting “, or a distribution that is not includable in gross income under section 529 of such title, under another prepaid tuition plan offered by a State, or under a Coverdell education savings account under section 530 of such title,” after “title 26” in paragraph (2) and by adding at the end the following:</i>
+
+<i>“(4) Notwithstanding paragraph (1), special combat pay shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title.”; and</i>
+
+<i>(7) by adding at the end the following:</i>
+
+#### <i>“(n) Special combat pay</i>
+
+<i>“The term ‘special combat pay’ means pay received by a member of the Armed Forces because of exposure to a hazardous situation.”</i>
 
 #### References in Text
 
@@ -258,7 +364,7 @@ Subsec. (f)(3). Pub. L. 101–610, §185(3), added par. (3).
 
 1987—Subsec. (a)(1). Pub. L. 100–50, §14(28)(A), (B), substituted “paragraphs (2) through (4)” for “paragraphs (2) and (3)” and inserted “minus excludable income (as defined in subsection (f) of this section)” before period at end.
 
-Subsec. (a)(2). Pub. L. 100–50, §14(28)(C), added par. (2) and struck out former par. (2) which read as follows: “The Secretary shall promulgate special regulations to permit, in the computation of family contributions for the programs under subpart 2 of part A and parts B and D of this subchapter and part C of subchapter I of chapter 34 of title 42 for any academic year the exclusion from family income of any proceeds of a sale of farm or business assets of that family if such sale results from a voluntary or involuntary foreclosure, forfeiture, liquidation, or bankruptcy.”
+Subsec. (a)(2). Pub. L. 100–50, §14(28)(C), added par. (2) and struck out former par. (2) which read as follows: “The Secretary shall promulgate special regulations to permit, in the computation of family contributions for the programs under subpart 2 of part A and parts B andD of this subchapter and part C of subchapter I of chapter 34 of title 42 for any academic year the exclusion from family income of any proceeds of a sale of farm or business assets of that family if such sale results from a voluntary or involuntary foreclosure, forfeiture, liquidation, or bankruptcy.”
 
 Subsec. (a)(4). Pub. L. 100–50, §14(28)(D), added par. (4).
 
@@ -267,6 +373,12 @@ Subsecs. (b), (c). Pub. L. 100–50, §14(28)(E), substituted subsec. (b) consis
 Subsec. (d)(2)(F). Pub. L. 100–50, §14(28)(F), substituted “annual total resources (including all sources of resources other than parents)” for “an annual total income”.
 
 Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–153, §1(b), Dec. 21, 2007, 121 Stat. 1824, provided that: “This section \[amending this section\] and the amendment made by this section shall take effect on July 1, 2009.”
+
+Pub. L. 110–84, title VI, §604(b), Sept. 27, 2007, 121 Stat. 808, provided that: “The amendments made by this section \[amending this section\] shall be effective on July 1, 2009.”
 
 #### Effective Date of 2006 Amendment
 

@@ -70,7 +70,7 @@ No grant funds provided under this section may be used for the following purpose
 
 (1) Such financial transactions of RFE/RL, Incorporated, as relate to functions carried out under this section may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places where accounts of RFE/RL, Incorporated, are normally kept.
 
-(2) Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assetsheld by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
+(2) Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
 
 (3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
 
@@ -82,7 +82,7 @@ The foreign relations laws of the United States, referred to in subsec. (h)(1)(A
 
 The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442. See section 6209(e) of this title.
 
-The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

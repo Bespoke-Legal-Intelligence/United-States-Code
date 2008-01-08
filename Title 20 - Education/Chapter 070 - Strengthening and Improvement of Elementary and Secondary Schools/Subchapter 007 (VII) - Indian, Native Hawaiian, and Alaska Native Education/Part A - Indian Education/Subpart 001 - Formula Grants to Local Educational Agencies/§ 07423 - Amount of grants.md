@@ -30,7 +30,7 @@
 
 #### (3) Increase
 
-&emsp;The Secretary may increase the minimum grant under paragraph (1) to not more than$4,000 for all grantees if the Secretary determines such increase is necessary to ensure the quality of the programs provided.
+&emsp;The Secretary may increase the minimum grant under paragraph (1) to not more than $4,000 for all grantees if the Secretary determines such increase is necessary to ensure the quality of the programs provided.
 
 #### (c) Definition
 

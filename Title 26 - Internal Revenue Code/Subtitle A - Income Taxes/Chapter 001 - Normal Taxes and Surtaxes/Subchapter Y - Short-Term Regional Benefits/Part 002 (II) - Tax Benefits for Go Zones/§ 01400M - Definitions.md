@@ -8,7 +8,7 @@ For purposes of this part—
 
 #### (2) Hurricane Katrina disaster area
 
-&emsp;The term “Hurricane Katrina disaster area” means an area with respect to which a majordisaster has been declared by the President before September 14, 2005, under section 401 of such Act by reason of Hurricane Katrina.
+&emsp;The term “Hurricane Katrina disaster area” means an area with respect to which a major disaster has been declared by the President before September 14, 2005, under section 401 of such Act by reason of Hurricane Katrina.
 
 #### (3) Rita GO Zone
 

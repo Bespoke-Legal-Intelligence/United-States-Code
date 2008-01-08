@@ -20,7 +20,7 @@ Upon an application made pursuant to section 1804 of this title, the judge shall
 
 #### (b) Determination of probable cause
 
-In determining whether or not probable cause exists for purposes of an order under subsection\(a)(3) of this section, a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
+In determining whether or not probable cause exists for purposes of an order under subsection (a)(3) of this section, a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
 
 #### (c) Specifications and directions of orders
 
@@ -46,7 +46,7 @@ Directions.—An order approving an electronic surveillance under this section s
 
 &emsp;&emsp;(A) that the minimization procedures be followed;
 
-&emsp;&emsp;(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person, or in circumstances where the Court finds, based upon specific facts provided in the application, that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons, furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
+&emsp;&emsp;(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person, or in circumstances where the Court finds, based upon specific facts provided in the application, that the actions of the target of the application may have the effect of thwarting the identification of a specified person, such other persons, furnishthe applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;
 
 &emsp;&emsp;(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and
 
@@ -72,7 +72,7 @@ Whenever the target of the electronic surveillance is a foreign power, as define
 
 (1) An order issued under this section may approve an electronic surveillance for the period necessary to achieve its purpose, or for ninety days, whichever is less, except that (A) an order under this section shall approve an electronic surveillance targeted against a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title, for the period specified in the application or for one year, whichever is less, and (B) an order under this chapter for a surveillance targeted against an agent of a foreign power who is not a United States person may be for the period specified in the application or for 120 days, whichever is less.
 
-(2) Extensions of an order issued under this subchapter may be granted on the same basis as an original order upon an application for an extension and new findings made in the same manner as required for an original order, except that (A) an extension of an order under this chapter for a surveillance targeted against a foreign power, as defined in section 1801(a)(5) or (6) of this title, or against a foreign power as defined in section 1801(a)(4) of this title that is not a United States person, may be for a period not to exceed one year if the judge finds probable causeto believe that no communication of any individual United States person will be acquired during the period, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power who is not a United States person may be for a period not to exceed 1 year.
+(2) Extensions of an order issued under this subchapter may be granted on the same basis as an original order upon an application for an extension and new findings made in the same manner as required for an original order, except that (A) an extension of an order under this chapter for a surveillance targeted against a foreign power, as defined in section 1801(a)(5) or (6) of this title, or against a foreign power as defined in section 1801(a)(4) of this title that is not a United States person, may be for a period not to exceed one year if the judge finds probable cause to believe that no communication of any individual United States person will be acquired during the period, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power who is not a United States person may be for a period not to exceed 1 year.
 
 (3) At or before the end of the period of time for which electronic surveillance is approved by an order or an extension, the judge may assess compliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
 
@@ -124,7 +124,7 @@ Notwithstanding any other provision of this subchapter, officers, employees, or 
 
 #### (h) Retention of certifications, applications and orders
 
-Certifications made by the Attorney General pursuant to section 1802(a) of this title and applications made and orders granted under this subchapter shall be retained for a period of atleast ten years from the date of the certification or application.
+Certifications made by the Attorney General pursuant to section 1802(a) of this title and applications made and orders granted under this subchapter shall be retained for a period of at least ten years from the date of the certification or application.
 
 #### (i) Bar to legal action
 
@@ -142,7 +142,7 @@ No cause of action shall lie in any court against any provider of a wire or elec
 
 &emsp;&emsp;<i>(B) that, upon the request of the applicant, a specified communication or other common carrier, landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or technical assistance necessary to accomplish the electronic surveillance in such a manner as will protect its secrecy and produce a minimum of interference with the services that such carrier, landlord, custodian, or other person is providing that target of electronic surveillance;</i>
 
-&emsp;&emsp;<i>(C) that such carrier, landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and</i>
+&emsp;&emsp;<i>(C) that such carrier, landlord, custodian, or other person maintain under security proce</i><i>dures approved by the Attorney General and the Director of Central Intelligence any records concerning the surveillance or the aid furnished that such person wishes to retain; and</i>
 
 &emsp;&emsp;<i>(D) that the applicant compensate, at the prevailing rate, such carrier, landlord, custodian, or other person for furnishing such aid.</i>
 
@@ -230,7 +230,7 @@ Pub. L. 107–273, div. B, title IV, §4005(c), Nov. 2, 2002, 116 Stat. 1812, pr
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided in part that the amendment made by section 314(c)(1) of Pub. L. 107–108 is effective as of Oct. 26, 2001, and as if included in Pub. L. 107–56 as originally enacted.
+Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided in part that the amendment madeby section 314(c)(1) of Pub. L. 107–108 is effective as of Oct. 26, 2001, and as if included in Pub. L. 107–56 as originally enacted.
 
 #### Effective Date of 1984 Amendment
 

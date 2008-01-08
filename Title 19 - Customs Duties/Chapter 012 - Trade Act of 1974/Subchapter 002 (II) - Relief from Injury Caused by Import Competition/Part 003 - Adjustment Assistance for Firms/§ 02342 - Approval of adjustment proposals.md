@@ -36,9 +36,9 @@ Whenever the Secretary determines that any firm no longer requires assistance un
 
 &emsp;&emsp;“(iii) demonstrates that the firm will make all reasonable efforts to use its own resources for economic development.”
 
-Subsecs. (c), (d). Pub. L. 99–272, §13006(a)(2), redesignated subsec. (d) as (c) and struck out former subsec.\(c) which authorized the Secretary to assist an eligible firm in the preparation of a viable adjustment proposal.
+Subsecs. (c), (d). Pub. L. 99–272, §13006(a)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which authorized the Secretary to assist an eligible firm in the preparation of a viable adjustment proposal.
 
 #### Termination Date
 
-No technical assistance to be provided under this part after Sept. 30, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No technical assistance to be provided under this part after Dec. 31, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

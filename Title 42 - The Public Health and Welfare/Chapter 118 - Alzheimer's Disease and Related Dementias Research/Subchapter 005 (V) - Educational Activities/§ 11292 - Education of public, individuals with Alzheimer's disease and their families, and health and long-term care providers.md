@@ -38,7 +38,7 @@
 
 #### (b) Educational grants
 
-The Director of the National Institute on Aging is authorized to make grants to public and nonprofit private entities to assist such entities in establishing programs, for educating health care providers and the families of individuals with Alzheimer's disease or related disorders, regarding—
+The Director of the National Institute on Aging is authorized to make grants to publicand nonprofit private entities to assist such entities in establishing programs, for educating health care providers and the families of individuals with Alzheimer's disease or related disorders, regarding—
 
 &emsp;(1) caring for individuals with such diseases or disorders; and
 

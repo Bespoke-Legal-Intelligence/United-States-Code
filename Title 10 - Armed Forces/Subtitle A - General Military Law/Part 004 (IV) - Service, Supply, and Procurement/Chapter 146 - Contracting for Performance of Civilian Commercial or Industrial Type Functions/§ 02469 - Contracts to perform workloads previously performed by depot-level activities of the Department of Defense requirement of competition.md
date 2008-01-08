@@ -50,5 +50,3 @@ Inapplicability of OMB Circular A–76.—The use of Office of Management and Bu
 
 Pub. L. 103–160, §1182(a)(7), struck out “, prior to any such change,” after “Department of Defense unless”.
 
-§2469a
-

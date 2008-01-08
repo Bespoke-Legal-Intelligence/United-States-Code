@@ -40,7 +40,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 &emsp;For purposes of paragraph (1) in determining capital gain net income—
 
-&emsp;&emsp;(A) There shall be taken into account only gains and losses from the sale or other disposition of property used for the production of gross investment income (as defined in paragraph (2)), and property used for the production of income included in computing the tax imposed by section 511 (except to the extent gain or loss from the sale or other disposition of such property is taken into account for purposes of such tax).
+&emsp;&emsp;(A) There shall not be taken into account any gain or loss from the sale or other disposition of property to the extent that such gain or loss is taken into account for purposes of computing the tax imposed by section 511.
 
 &emsp;&emsp;(B) The basis for determining gain in the case of property held by the private foundation on December 31, 1969, and continuously thereafter to the date of its disposition shall be deemed to be not less than the fair market value of such property on December 31, 1969.
 
@@ -148,7 +148,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 #### (C) Special rule where tax reduced under this subsection
 
-&emsp;&emsp;For purposes of this paragraph, if the amount of the tax imposed by this sectionfor any taxable year in the base period is reduced by reason of this subsection, the amount of the qualifying distributions made by the private foundation during such year shall be reduced by the amount of such reduction in tax.
+&emsp;&emsp;For purposes of this paragraph, if the amount of the tax imposed by this section for any taxable year in the base period is reduced by reason of this subsection, the amount of the qualifying distributions made by the private foundation during such year shall be reduced by the amount of such reduction in tax.
 
 #### (4) Base period
 
@@ -182,13 +182,15 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 &emsp;&emsp;(B) a merger, reorganization, or division of a private foundation, this subsection shall be applied under regulations prescribed by the Secretary.
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 498; amended Pub. L. 94–455, title XIX, §1901(b)(33)(N), Oct. 4, 1976, 90 Stat. 1802; Pub. L. 95–345, §2(a)(4), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title V, §520(a), Nov. 6, 1978, 92 Stat. 2884; Pub. L. 98–369, div. A, title III, §§302(a), 303(a), July 18, 1984, 98 Stat. 779, 781; Pub. L. 99–514, title XIII, §1301(j)(6), title XVIII, §1832, Oct. 22, 1986, 100 Stat. 2658, 2851; Pub. L. 109–280, title XII, §1221(a)(1), (b), Aug. 17, 2006, 120 Stat. 1089.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 498; amended Pub. L. 94–455, title XIX, §1901(b)(33)(N), Oct. 4, 1976, 90 Stat. 1802; Pub. L. 95–345, §2(a)(4), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title V, §520(a), Nov. 6, 1978, 92 Stat. 2884; Pub. L. 98–369, div. A, title III, §§302(a), 303(a), July 18, 1984, 98 Stat. 779, 781; Pub. L. 99–514, title XIII, §1301(j)(6), title XVIII, §1832, Oct. 22, 1986, 100 Stat. 2658, 2851; Pub. L. 109–280, title XII, §1221(a)(1), (b), Aug. 17, 2006, 120 Stat. 1089; Pub. L. 110–172, §3(f), Dec. 29, 2007, 121 Stat. 2475.)
 
 #### Codification
 
 Section 1221(a)(1), (b) of Pub. L. 109–280, which directed the amendment of section 4940 without specifying the act to be amended, was executed to this section, which is section 4940 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+2007—Subsec. (c)(4)(A). Pub. L. 110–172 amended text generally. Prior to amendment, text read as follows: “There shall be taken into account only gains and losses from the sale or other disposition of property used for the production of interest, dividends, rents, and royalties, and property used for the production of income included in computing the tax imposed by section 511 (except to the extent gain or loss from the sale or other disposition of such property is taken into account for purposes of such tax).”
 
 2006—Subsec. (c)(2). Pub. L. 109–280, §1221(a)(1), inserted at end “Such term shall also include income from sources similar to those in the preceding sentence.” See Codification note above.
 
@@ -215,6 +217,10 @@ Subsec. (e). Pub. L. 98–369, §303(a), added subsec. (e).
 Subsec. (c)(2). Pub. L. 95–345 inserted provision relating to payments with respect to securities loans.
 
 1976—Subsec. (c). Pub. L. 94–455 substituted “capital gain net income” for “net capital gain” in par. (1) after “investment income and the”, and in par. (4) after “par. (1) in determining”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -244,7 +250,7 @@ Section 101(k) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection and subsection (<i>l</i>) \[set out as a note below\] the amendments made by this section \[enacting this section and sections 507 to 509, 4941 to 4848, 6056,6684, and 6685 of this title, amending sections 101, 170, 501, 503, 542, 663, 681, 878, 884, 1443, 2039, 2517, 4057, 4221, 4253, 4294, 5214, 6033, 6034, 6043, 6104, 6161, 6201, 6211 to 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 7207, 7422, and 7454 of this title, repealing section 504 of this title, and enacting provisions set out as notes under this section and section 1 of this title\] shall take effect on January 1, 1970.
+In general.—Except as otherwise provided in this subsection and subsection (<i>l</i>) \[set out as a note below\] the amendments made by this section \[enacting this section and sections 507 to 509, 4941 to 4848, 6056, 6684, and 6685 of this title, amending sections 101, 170, 501, 503, 542, 663, 681, 878, 884, 1443, 2039, 2517, 4057, 4221, 4253, 4294, 5214, 6033, 6034, 6043, 6104, 6161, 6201, 6211 to 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 7207, 7422, and 7454 of this title, repealing section 504 of this title, and enacting provisions set out as notes under this section and section 1 of this title\] shall take effect on January 1, 1970.
 
 “(2)
 
@@ -302,7 +308,7 @@ Section 4942.—In the case of organizations organized before May 27, 1969, sect
 
 &emsp;“(D) apply, for purposes of section 4942(f), in such a manner as to treat any distribution made to a private foundation in redemption of stock held by such private foundation in a business enterprise as not essentially equivalent to a dividend under section 302(b)(1) if such redemption is described in paragraph (2)(B) of this subsection;
 
-&emsp;“(E) not apply to an organization which is prohibited by its governing instrument or other instrumentfrom distributing capital or corpus to the extent the requirements of section 4942 are inconsistent with such prohibition; and
+&emsp;“(E) not apply to an organization which is prohibited by its governing instrument or other instrument from distributing capital or corpus to the extent the requirements of section 4942 are inconsistent with such prohibition; and
 
 &emsp;“(F) apply, in the case of an organization described in paragraph (4)(A) of this subsection,
 
@@ -312,7 +318,7 @@ Section 4942.—In the case of organizations organized before May 27, 1969, sect
 
 &emsp;&emsp;“(iii) by defining the distributable amount as the sum of the amount determined under section 4942(d) (after the application of clauses (i) and (ii)), and the amount of the dividend income from such stock.
 
-> With respect to taxable years beginning after December 31, 1971, subparagraphs (B) and (E) shall apply only during the pendency of any judicial proceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to comply with the provisions of section 4942, and in the case of subparagraph (B) for all periods after the termination of such judicial proceeding during which the governing instrument or any other instrument does not permit compliance with such provisions.
+> With respect to taxable years beginning after December 31, 1971, subparagraphs (B) and (E) shall apply only during the pendency of any judicial proceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to comply with the provisions of section 4942, and in the case of subparagraph (B) for all periods after the termination of such judicial proceeding during which the governing instrument or anyother instrument does not permit compliance with such provisions.
 
 “(4)
 

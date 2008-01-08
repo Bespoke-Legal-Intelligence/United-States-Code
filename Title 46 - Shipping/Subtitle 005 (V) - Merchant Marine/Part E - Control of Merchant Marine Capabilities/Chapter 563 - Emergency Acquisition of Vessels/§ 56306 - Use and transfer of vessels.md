@@ -28,5 +28,5 @@ June 29, 1936, ch. 858, title IX, §902(e); as added Aug. 7, 1939, ch. 555, §3,
 
 In this section, the word “vessel” is substituted for “property” for consistency in the chapter.
 
-In subsection (b), the words “Such reimbursements shall be deposited in the construction fund establishedby section 1116 of this Appendix” are omitted as impliedly repealed by 46 App. U.S.C. 1119 as amended in 1967.
+In subsection (b), the words “Such reimbursements shall be deposited in the construction fund established by section 1116 of this Appendix” are omitted as impliedly repealed by 46 App. U.S.C. 1119 as amended in 1967.
 

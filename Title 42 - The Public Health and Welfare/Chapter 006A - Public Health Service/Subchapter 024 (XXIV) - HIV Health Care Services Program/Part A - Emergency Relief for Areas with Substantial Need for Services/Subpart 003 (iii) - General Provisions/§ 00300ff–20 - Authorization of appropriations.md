@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of carrying out this part, there are authorized to be appropriated $604,000,000 for fiscal year 2007, $626,300,000 for fiscal year 2008, and $649,500,000 for fiscal year 2009. Amounts appropriated under the preceding sentence for a fiscal year are available for obligation by the Secretary until the end of the second succeeding fiscal year.
+For the purpose of carrying out this part, there are authorized to be appropriated $604,000,000 for fiscal year 2007, $626,300,000 for fiscal year 2008, and $649,500,000 for fiscal year 2009. Amounts appropriated under the precedingsentence for a fiscal year are available for obligation by the Secretary until the end of the second succeeding fiscal year.
 
 #### (b) Reservation of amounts
 

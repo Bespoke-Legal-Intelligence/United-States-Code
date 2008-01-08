@@ -6,7 +6,7 @@ The Secretary of Energy shall submit to the Committees on Armed Services of the 
 
 #### (b) Significant nuclear defense intelligence losses
 
-In this section, the term “significant nuclear defense intelligence loss” means any national security or counterintelligence failure or compromise of classified information at a facility of the Department of Energy or operated by a contractor of the Department that the Secretary considers likely to cause significant harm or damage to the national security interests of the United States.
+In this section, the term “significant nuclear defense intelligence loss” means any national security or counterintelligence failure or compromise of classified information at a facility of the Department of Energy or operated by a contractor of the Department that the Secretaryconsiders likely to cause significant harm or damage to the national security interests of the United States.
 
 #### (c) Manner of notification
 

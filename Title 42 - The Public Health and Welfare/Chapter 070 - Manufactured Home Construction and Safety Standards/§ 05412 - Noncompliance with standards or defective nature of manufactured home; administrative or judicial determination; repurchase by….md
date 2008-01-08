@@ -8,7 +8,7 @@
 
 > The value of such reasonable reimbursements as specified in paragraphs (1) and (2) of this subsection shall be fixed by mutual agreement of the parties, or, failing such agreement, by the court pursuant to the provisions of subsection (b) of this section.
 
-(b) If any manufacturer fails to comply with the requirements of subsection (a) of this section, then the distributor or retailer, as the case may be, to whom such manufactured home has been sold may bring an action seeking a court injunction compelling compliance with such requirements on the part of such manufacturer. Such action may be brought in any district court in the United States in the district in which such manufacturer resides, or is found, or has an agent, without regard to the amount in controversy, and the person bringing the action shall also be entitled to recover any damage sustained by him, as well as all court costs plus reasonable attorneys’ fees. Any action brought pursuant to this section shall be forever barred unless commenced within three years after the cause of action shall have accrued.
+(b) If any manufacturer fails to comply with the requirements of subsection (a) of this section, then the distributor or retailer, as the case may be, to whom such manufactured home has been sold may bring an action seeking a court injunction compelling compliance with such requirements on the part of such manufacturer. Such action may be brought in any district court in the United States in the district in which such manufacturer resides, or is found, or has an agent, without regard to the amount in controversy, and the person bringing the actionshall also be entitled to recover any damage sustained by him, as well as all court costs plus reasonable attorneys’ fees. Any action brought pursuant to this section shall be forever barred unless commenced within three years after the cause of action shall have accrued.
 
 (Pub. L. 93–383, title VI, §613, Aug. 22, 1974, 88 Stat. 706; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2999.)
 
@@ -20,5 +20,5 @@
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter andpublished as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
 

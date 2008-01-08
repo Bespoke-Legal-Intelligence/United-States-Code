@@ -20,7 +20,7 @@ Beginning at a stone bound set in the ground in the southeasterly side line of S
 
 &emsp;thence north 20 degrees 31 minutes east and following a southeasterly line of land belonging to the Jackson Laboratory, 445 feet to a stone bound set in the ground;
 
-&emsp;thence following the same course; namely, north 20 degrees 31 minutes east and following a southeasterly line of land belonging to the Jackson Laboratory, 888.38 feet to a stone bound set in the ground; said stone bound marking the northeasterly corner of land belonging to the Jackson Laboratory and the southeasterly corner of a lot of land belonging to the United States of America;
+&emsp;thence following the same course; namely, north 20 degrees 31 minutes east and following a southeasterly line of land belonging to the Jackson Laboratory, 888.38 feet to a stone bound set in the ground; said stone bound marking the northeasterly corner of land belonging to the Jackson Laboratory and thesoutheasterly corner of a lot of land belonging to the United States of America;
 
 &emsp;thence in a general easterly direction 38 feet more or less to a point in the westerly side line of the Schooner Head Road so called;
 

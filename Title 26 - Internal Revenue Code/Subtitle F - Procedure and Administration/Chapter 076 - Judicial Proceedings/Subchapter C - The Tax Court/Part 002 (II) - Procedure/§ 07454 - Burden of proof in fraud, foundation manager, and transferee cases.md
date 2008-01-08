@@ -22,7 +22,7 @@ Pub. L. 104–168 inserted “or whether an organization manager (as defined in 
 
 1987—Subsec. (b). Pub. L. 100–203, §10714(b), substituted “, or whether an organization manager (as defined in section 4912(d)(2)) has ‘knowingly’ agreed to the making of disqualifying lobbying expenditures within the meaning of section 4912(b), the burden of proof” for “the burden of proof”.
 
-Pub. L. 100–203, §10712(c)(6), substituted “or whether an organization manager (as defined in section4955(e)(2)) has ‘knowingly’ agreed to the making of a political expenditure (within the meaning of section 4955), the burden of proof” for “the burden of proof”.
+Pub. L. 100–203, §10712(c)(6), substituted “or whether an organization manager (as defined in section 4955(e)(2)) has ‘knowingly’ agreed to the making of a political expenditure (within the meaning of section 4955), the burden of proof” for “the burden of proof”.
 
 1980—Subsec. (b). Pub. L. 96–222 substituted “section 501(c)(21)” for “section 502(c)(21)”.
 

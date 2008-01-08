@@ -76,7 +76,7 @@ A Bell operating company and an affiliate that is subject to the requirements of
 
 &emsp;(2) shall not provide any facilities, services, or information concerning its provision of exchange access to the affiliate described in subsection (a) of this section unless such facilities, services, or information are made available to other providers of interLATA services in that market on the same terms and conditions;
 
-&emsp;(3) shall charge the affiliate described in subsection (a) of this section, or impute to itself (if using the access for its provision of its own services), an amount for access to its telephone exchange service and exchange accessthat is no less than the amount charged to any unaffiliated interexchange carriers for such service; and
+&emsp;(3) shall charge the affiliate described in subsection (a) of this section, or impute to itself (if using the access for its provision of its own services), an amount for access to its telephone exchange service and exchange access that is no less than the amount charged to any unaffiliated interexchange carriers for such service; and
 
 &emsp;(4) may provide any interLATA or intraLATA facilities or services to its interLATA affiliate if such services or facilities are made available to all carriers at the same rates and on the same terms and conditions, and so long as the costs are appropriately allocated.
 

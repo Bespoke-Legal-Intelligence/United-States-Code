@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Amounts provided under a grant or contract awarded under this subchapter may be used for training program development and support, faculty development, model demonstrations, trainee support including tuition, books, program fees and reasonable living expenses during the period of training, technical assistance, workforce analysis, and dissemination of information, as appropriate to meet recognized nursing objectives, in accordance with this subchapter.
+Amounts provided under a grant or contract awarded under this subchapter may be used fortraining program development and support, faculty development, model demonstrations, trainee support including tuition, books, program fees and reasonable living expenses during the period of training, technical assistance, workforce analysis, and dissemination of information, as appropriate to meet recognized nursing objectives, in accordance with this subchapter.
 
 #### (b) Maintenance of effort
 

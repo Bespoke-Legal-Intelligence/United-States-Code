@@ -1,7 +1,5 @@
 ### \[§§8850 to 8855. Repealed. Pub. L. 103–337, div. A, title XVI, §1629(c)(3), Oct. 5, 1994, 108 Stat. 2963\]
 
-§8855
-
 Section 8850, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1537; amended Pub. L. 90–168, §2(22), Dec. 1, 1967, 81 Stat. 525; Pub. L. 104–106, div. A, title XV, §1501(c)(25), Feb. 10, 1996, 110 Stat. 499, related to transfer or discharge of excessive reserve commissioned officers in active status with 30 or more years of service. See sections 14514 and 14704 of this title.
 
 Section 8851, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1537; amended Pub. L. 86–559, §1(73), June 30, 1960, 74 Stat. 280; Pub. L. 90–83, §3(6), Sept. 11, 1967, 81 Stat. 220; Pub. L. 90–486, §9(2), Aug. 13, 1968, 82 Stat. 760; Pub. L. 96–513, title V, §514(7), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 98–525, title XIV, §1405(55), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 99–145, title V, §522(b)(2), title XIII, §1303(a)(27)(B), Nov. 8, 1985, 99 Stat. 632, 740; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of reserve lieutenant colonels, colonels, and brigadier generals with 30 years of service or five years in grade. See section 14508(a), (c) of this title.

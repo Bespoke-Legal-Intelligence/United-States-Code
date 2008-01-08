@@ -26,9 +26,13 @@ Each report shall contain the following information for the reporting period:
 
 #### (c) “Appropriate congressional committees” defined
 
-The term “appropriate congressional committees” means the Committee on the Judiciary, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+The term “appropriate congressional committees” means the Committee on the Judiciary, the Committee on Foreign Relations, and theSelect Committee on Intelligence of the Senate and the Committee on the Judiciary, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 (Pub. L. 105–277, div. I, title III, §309, Oct. 21, 1998, 112 Stat. 2681–879.)
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Delegation of Functions
 

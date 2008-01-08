@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to ensure the conservation and protection of certain natural, scenic, historic, pastoral, and fish and wildlife values and to provide for the enhancement of the recreational values associated therewith, there is hereby establishedthe Winding Stair Mountain National Recreation Area located in the Ouachita National Forest, Oklahoma.
+In order to ensure the conservation and protection of certain natural, scenic, historic, pastoral, and fish and wildlife values and to provide for the enhancement of the recreational values associated therewith, there is hereby established the Winding Stair Mountain National Recreation Area located in the Ouachita National Forest, Oklahoma.
 
 #### (b) Area included
 
@@ -24,5 +24,5 @@ Any sales of timber from within the recreation area shall be designed so as to n
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

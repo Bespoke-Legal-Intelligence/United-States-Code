@@ -126,7 +126,7 @@
 
 &emsp;(C) the amount of the loan may not exceed—
 
-&emsp;&emsp;(i) an amount equal to the sum of the balance of the loan being refinanced and suchclosing costs (including any discount permitted pursuant to section 3703(c)(3)(A) of this title) as may be authorized by the Secretary (under regulations which the Secretary shall prescribe) to be included in the loan; or
+&emsp;&emsp;(i) an amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount permitted pursuant to section 3703(c)(3)(A) of this title) as may be authorized by the Secretary (under regulations which the Secretary shall prescribe) to be included in the loan; or
 
 &emsp;&emsp;(ii) in the case of a loan for the purpose specified in subsection (a)(11), an amount equal to the sum of the amount referred to with respect to the loan under clause (i) and the amount specified under subsection (d)(2);
 
@@ -148,7 +148,7 @@
 
 (f)(1) For a loan to be guaranteed for the purpose specified in subclause (A)(ii) or (B)(ii) of subsection (a)(9) of this section, the purchase of (or the refinancing of a loan secured by) the manufactured home and the lot for that home shall be considered as one loan and must comply with such criteria as may be prescribed by the Secretary in regulations.
 
-(2) A loan may not be guaranteed for the purposes of subsection (a)(9) of this section unless the manufactured home purchased, upon being permanently affixed to the lot, is considered to be real property under the laws of the State where the lot is located.
+(2) A loan may not be guaranteed for the purposes of subsection (a)(9) of this section unlessthe manufactured home purchased, upon being permanently affixed to the lot, is considered to be real property under the laws of the State where the lot is located.
 
 (g)(1) For the purposes of this subsection, the term “veteran”, when used with respect to a loan guaranteed or to be guaranteed under this chapter, includes the veteran's spouse if the spouse is jointly liable with the veteran under the loan.
 
@@ -250,7 +250,7 @@ Subsec. (g)(2). Pub. L. 100–322, §415(c)(4)(B), substituted “section 1812(e
 
 Subsec. (b). Pub. L. 100–198, §11(b), substituted “pursuant to section 1831 of this title” for “by the Administrator” in cl. (5) and struck out last sentence which read as follows: “After the reasonable value of any property, construction, repairs, or alterations is determined under paragraph (5), the Administrator shall, as soon as possible thereafter, notify the veteran concerned of such determination.”
 
-Subsec. (c). Pub. L. 100–198, §3(a)(2), struck out subsec. (c) which read as follows: “The amount of guarantyentitlement available to a veteran under this section shall not be more than $27,500 less such entitlement as may have been used previously under this section and other sections of this chapter.”
+Subsec. (c). Pub. L. 100–198, §3(a)(2), struck out subsec. (c) which read as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $27,500 less such entitlement as may have been used previously under this section and other sections of this chapter.”
 
 Subsec. (e)(1)(B). Pub. L. 100–198, §7(a)(1), struck out “and such dwelling or residence must be owned and occupied by the veteran as such veteran's home” after “refinanced”.
 
@@ -300,7 +300,7 @@ Subsec. (d). Pub. L. 93–569, §3(4), struck out subsec. (d) relating to guaran
 
 Subsec. (d). Pub. L. 91–506, §3(2), added subsec. (d).
 
-1968—Subsec. (b). Pub. L. 90–301, §2(a), substituted “loan to be paid” for “price paid or to be paid” in par. (5) of first sentence and inserted sentence at end relating to notification of veteran concerned of determination of reasonable value of any property, construction, repairs, or alterations.
+1968—Subsec. (b). Pub. L. 90–301, §2(a), substituted “loan to be paid” for “price paid or to be paid” in par.\(5) of first sentence and inserted sentence at end relating to notification of veteran concerned of determination of reasonable value of any property, construction, repairs, or alterations.
 
 Subsec. (c). Pub. L. 90–301, §1(a), increased limitation on amount of guaranty entitlement from $7,500 to $12,500.
 

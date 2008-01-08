@@ -52,7 +52,7 @@ Amendment by Pub. L. 99–514 applicable only with respect to qualifying events 
 
 #### Notification to Covered Employees
 
-Section 10003(c) of Pub. L. 99–272 provided that: “At the time that the amendments made by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[section 300bb–1 of this title\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[this subchapter\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[par. (1) of this section\] with respect to such individuals.”
+Section 10003(c) of Pub. L. 99–272 provided that: “At the time that the amendments made by this section\[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[section 300bb–1 of this title\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[this subchapter\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[par. (1) of this section\] with respect to such individuals.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subchapter”.</i>
 

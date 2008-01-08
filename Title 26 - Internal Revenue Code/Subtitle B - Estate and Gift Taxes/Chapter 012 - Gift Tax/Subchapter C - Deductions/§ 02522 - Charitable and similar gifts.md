@@ -22,7 +22,7 @@ In the case of a nonresident not a citizen of the United States, there shall be 
 
 &emsp;(2) a domestic corporation organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
 
-&emsp;(3) a trust, or community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals, no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to)any candidate for public office; but only if such gifts are to be used within the United States exclusively for such purposes;
+&emsp;(3) a trust, or community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals, no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office; but only if such gifts are to be used within the United States exclusively for such purposes;
 
 &emsp;(4) a fraternal society, order, or association, operating under the lodge system, but only if such gifts are to be used within the United States exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals;
 
@@ -72,7 +72,7 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 #### (A) In general
 
-&emsp;&emsp;No deduction shall be allowed for a contribution of an undivided portion of a taxpayer's entire interest in tangible personal property unless all interest in the property is held immediately before such contribution by—
+&emsp;&emsp;No deduction shall be allowed for a contribution of an undivided portion of a taxpayer's entire interest in tangible personal property unless all interests in the property are held immediately before such contribution by—
 
 &emsp;&emsp;&emsp;(i) the taxpayer, or
 
@@ -82,21 +82,13 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;The Secretary may, by regulation, provide for exceptions to subparagraph (A) in cases where all persons who hold an interest in the property make proportional contributions of an undivided portion of the entire interest held by such persons.
 
-#### (2) Valuation of subsequent gifts
-
-&emsp;In the case of any additional contribution, the fair market value of such contribution shall be determined by using the lesser of—
-
-&emsp;&emsp;(A) the fair market value of the property at the time of the initial fractional contribution, or
-
-&emsp;&emsp;(B) the fair market value of the property at the time of the additional contribution.
-
-#### (3) Recapture of deduction in certain cases; addition to tax
+#### (2) Recapture of deduction in certain cases; addition to tax
 
 #### (A) In general
 
 &emsp;&emsp;The Secretary shall provide for the recapture of an amount equal to any deduction allowed under this section (plus interest) with respect to any contribution of an undivided portion of a taxpayer's entire interest in tangible personal property—
 
-&emsp;&emsp;&emsp;(i) in any case in which the donor does not contribute all of the remaining interest in such property to the donee (or, if such donee is no longer in existence, to any person described in section 170(c)) before the earlier of—
+&emsp;&emsp;&emsp;(i) in any case in which the donor does not contribute all of the remaining interests in such property to the donee (or, if such donee is no longer in existence, to any person described in section 170(c)) on or before the earlier of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the date that is 10 years after the date of the initial fractional contribution, or
 
@@ -112,17 +104,9 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;The tax imposed under this chapter for any taxable year for which there is a recapture under subparagraph (A) shall be increased by 10 percent of the amount so recaptured.
 
-#### (4) Definitions
+#### (C) Initial fractional contribution
 
-&emsp;For purposes of this subsection—
-
-#### (A) Additional contribution
-
-&emsp;&emsp;The term “additional contribution” means any gift for which a deduction is allowed under subsection (a) or (b) of any interest in a property with respect to which the donor has previously made an initial fractional contribution.
-
-#### (B) Initial fractional contribution
-
-&emsp;&emsp;The term “initial fractional contribution” means, with respect to any donor, the first gift of an undivided portion of the donor's entire interest in any tangible personal property for which a deduction is allowed under subsection (a) or (b).
+&emsp;&emsp;For purposes of this paragraph, the term “initial fractional contribution” means, with respect to any donor, the first gift of an undivided portion of the donor's entire interest in any tangible personal property for which a deduction is allowed under subsection (a) or (b).
 
 #### (f) Cross references
 
@@ -132,13 +116,37 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;<b>(3) For treatment of gifts to or for the use of Indian tribal governments (or their subdivisions), see section 7871.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 410; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, §201(d)(3), (4)(C), (D), Dec. 30, 1969, 83 Stat. 561, 562; Pub. L. 91–614, title I, §102(c)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XII, §§1307(d)(1)(B)(iv), (v), 1313(b)(3), title XIX, §1902(a)(11), (12)(D), title XXI, §2124(e)(3), Oct. 4, 1976, 90 Stat. 1727, 1730, 1805, 1806, 1920; Pub. L. 97–34, title IV, §§423(b), 442(c), Aug. 13, 1981, 95 Stat. 317, 322; Pub. L. 97–248, title II, §286(b)(3), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–473, title II, §202(b)(7), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§1022(c), 1032(b)(3), July 18, 1984, 98 Stat. 1028, 1034; Pub. L. 99–514, title XIV, §1422(b), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(5), (6), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 109–280, title XII, §§1218(c), 1234(c), Aug. 17, 2006, 120 Stat. 1082, 1101.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 410; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, §201(d)(3), (4)(C), (D), Dec. 30, 1969, 83 Stat. 561, 562; Pub. L. 91–614, title I, §102(c)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XII, §§1307(d)(1)(B)(iv), (v), 1313(b)(3), title XIX, §1902(a)(11), (12)(D), title XXI, §2124(e)(3), Oct. 4, 1976, 90 Stat. 1727, 1730, 1805, 1806, 1920; Pub. L. 97–34, title IV, §§423(b), 442(c), Aug. 13, 1981, 95 Stat. 317, 322; Pub. L. 97–248, title II, §286(b)(3), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–473, title II, §202(b)(7), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§1022(c), 1032(b)(3), July 18, 1984, 98 Stat. 1028, 1034; Pub. L. 99–514, title XIV, §1422(b), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(5), (6), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 109–280, title XII, §§1218(c), 1234(c), Aug. 17, 2006, 120 Stat. 1082, 1101; Pub. L. 110–172, §§3(d)(2), 11(a)(16), Dec. 29, 2007, 121 Stat. 2474, 2485.)
 
 #### Codification
 
 Sections 1218(c) and 1234(c) of Pub. L. 109–280, which directed the amendment of section 2522 without specifying the act to be amended, were executed to this section, which is section 2522 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+2007—Subsec. (e)(1)(A). Pub. L. 110–172, §11(a)(16)(A), in introductory provisions, substituted “all interests in the property are” for “all interest in the property is”.
+
+Subsec. (e)(2). Pub. L. 110–172, §3(d)(2)(A), (B), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “In the case of any additional contribution, the fair market value of such contribution shall be determined by using the lesser of—
+
+&emsp;“(A) the fair market value of the property at the time of the initial fractional contribution, or
+
+&emsp;“(B) the fair market value of the property at the time of the additional contribution.”
+
+Subsec. (e)(2)(A)(i). Pub. L. 110–172, §11(a)(16)(B), substituted “interests” for “interest” and “on or before” for “before”.
+
+Subsec. (e)(2)(C). Pub. L. 110–172, §3(d)(2)(C), added subpar. (C).
+
+Subsec. (e)(3). Pub. L. 110–172, §3(d)(2)(B), redesignated par. (3) as (2).
+
+Subsec. (e)(4). Pub. L. 110–172, §3(d)(2)(A), struck out heading and text of par. (4). Text read as follows: “For purposes of this subsection—
+
+&emsp;“(A)
+
+Additional contribution.—The term ‘additional contribution’ means any gift for which a deduction is allowed under subsection (a) or (b) of any interest in a property with respect to which the donor has previously made an initial fractional contribution.
+
+&emsp;“(B)
+
+Initial fractional contribution.—The term ‘initial fractional contribution’ means, with respect to any donor, the first gift of an undivided portion of the donor's entire interest in any tangible personal property for which a deduction is allowed under subsection (a) or (b).”
 
 2006—Subsec. (c)(5). Pub. L. 109–280, §1234(c), added par. (5). See Codification note above.
 
@@ -181,6 +189,10 @@ Subsec. (d). Pub. L. 94–455, §1902(a)(11), substituted subsec. (d) for former
 Subsec. (c). Pub. L. 91–172, §201(d)(3), substituted substantive provisions for simple reference to sections 503 and 681 in which such substantive provisions were formerly set out.
 
 1958—Subsec. (c). Pub. L. 85–866 substituted “503” for “504”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by section 3(d)(2) of Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2006 Amendment
 

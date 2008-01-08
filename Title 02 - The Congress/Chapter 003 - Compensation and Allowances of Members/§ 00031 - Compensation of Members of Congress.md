@@ -92,6 +92,8 @@ Section 201 of title II of Pub. L. 88–426 provided that: “This title \[enact
 
 #### Cost of Living Adjustment
 
+Pub. L. 109–289, div. B, title I, §115, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 12, provided that: “Notwithstanding any other provision of this division \[see Tables for classification\] and notwithstanding section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31\[(2)\]), the percentage adjustment scheduled to take effect under such section for 2007 shall not take effect.”
+
 Pub. L. 103–6, §7, Mar. 4, 1993, 107 Stat. 35, provided that:
 
 “(a)
@@ -116,7 +118,7 @@ Act Aug. 7, 1953, ch. 353, 67 Stat. 485, which established a Commission to deter
 
 #### Salary Increases
 
-For adjustment of pay rates under this section, see the executive order detailing the adjustment of certainrates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
+For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 For prior year salary increases per the recommendation of the President, see Prior Salary Recommendations notes under section 358 of this title.
 

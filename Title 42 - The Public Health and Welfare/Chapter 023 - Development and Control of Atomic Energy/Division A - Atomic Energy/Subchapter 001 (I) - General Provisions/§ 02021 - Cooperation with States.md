@@ -10,7 +10,7 @@ It is the purpose of this section—
 
 &emsp;(3) to promote an orderly regulatory pattern between the Commission and State governments with respect to nuclear development and use and regulation of byproduct, source, and special nuclear materials;
 
-&emsp;(4) to establish procedures and criteria for discontinuance of certain of the Commission's regulatory responsibilities with respect to byproduct, source, and special nuclear materials, and the assumption thereof by the States;
+&emsp;(4) to establish procedures and criteria for discontinuance of certain of the Commission'sregulatory responsibilities with respect to byproduct, source, and special nuclear materials, and the assumption thereof by the States;
 
 &emsp;(5) to provide for coordination of the development of radiation standards for the guidance of Federal agencies and cooperation with the States; and
 
@@ -18,7 +18,7 @@ It is the purpose of this section—
 
 #### (b) Agreements with States
 
-Except as provided in subsection (c) of this section, the Commission is authorized to enterinto agreements with the Governor of any State providing for discontinuance of the regulatory authority of the Commission under subchapters V, VI, and VII of this division, and section 2201 of this title, with respect to any one or more of the following materials within the State:
+Except as provided in subsection (c) of this section, the Commission is authorized to enter into agreements with the Governor of any State providing for discontinuance of the regulatory authority of the Commission under subchapters V, VI, and VII of this division, and section 2201 of this title, with respect to any one or more of the following materials within the State:
 
 &emsp;(1) Byproduct materials (as defined in section 2014(e) of this title).
 

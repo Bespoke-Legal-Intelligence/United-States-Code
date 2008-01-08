@@ -66,7 +66,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 #### (3) Investigatory powers
 
-&emsp;For purposes of bringing any action under this subsection, nothing in this subsectionshall prevent the chief law enforcement officer, or an official or agency designated by a State, from exercising the powers conferred on the chief law enforcement officer or such official by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
+&emsp;For purposes of bringing any action under this subsection, nothing in this subsection shall prevent the chief law enforcement officer, or an official or agency designated by a State, from exercising the powers conferred on the chief law enforcement officer or such official by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
 #### (4) Limitation on State action while Federal action pending
 

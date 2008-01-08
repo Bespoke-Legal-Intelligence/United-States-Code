@@ -38,7 +38,7 @@ Total budget resources.—The term “total budget resources” means the total 
 
 &emsp;(2)
 
-Level of receipts plus interest.—The term “level of receipts plus interest” means the level of excise taxes and interest credited to the Airport and Airway Trust Fund under section 9502 of the Internal Revenue Code of 1986 for a fiscal year as set forth in the President's budget baseline projection as defined in section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) (Treasury identification code 20–8103–0–7–402) for that fiscal year submitted pursuant to section 1105 of title 31, United States Code.
+Level of receipts plus interest.—The term “level of receipts plus interest” means the level of excise taxes and interest credited to the Airport and Airway Trust Fund under section 9502 of the Internal Revenue Code of 1986 for a fiscal year as set forth in the President's budget baseline projection as defined insection 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) (Treasury identification code 20–8103–0–7–402) for that fiscal year submitted pursuant to section 1105 of title 31, United States Code.
 
 (c)
 

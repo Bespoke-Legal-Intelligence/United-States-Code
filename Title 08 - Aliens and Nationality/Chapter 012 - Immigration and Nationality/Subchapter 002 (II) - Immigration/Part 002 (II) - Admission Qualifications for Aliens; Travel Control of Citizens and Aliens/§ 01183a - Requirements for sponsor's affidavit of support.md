@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) in which the sponsor agrees to provide support to maintain the sponsored alien at an annual income that is not less than 125 percent of the Federal poverty line during the period in which the affidavit is enforceable;
 
-&emsp;&emsp;(B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested publicbenefit (as defined in subsection (e) <sup>1</sup> of this section), consistent with the provisions of this section; and
+&emsp;&emsp;(B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e) <sup>1</sup> of this section), consistent with the provisions of this section; and
 
 &emsp;&emsp;(C) in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2) of this section.
 
@@ -154,7 +154,7 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 #### (iii) Percent of poverty
 
-&emsp;&emsp;&emsp;For purposes of this section, a reference to an annual income equal to at least aparticular percentage of the Federal poverty line means an annual income equal to at least such percentage of the Federal poverty line for a family unit of a size equal to the number of members of the sponsor's household (including family and non-family dependents) plus the total number of other dependents and aliens sponsored by that sponsor.
+&emsp;&emsp;&emsp;For purposes of this section, a reference to an annual income equal to at least a particular percentage of the Federal poverty line means an annual income equal to at least such percentage of the Federal poverty line for a family unit of a size equal to the number of members of the sponsor's household (including family and non-family dependents) plus the total number of other dependents and aliens sponsored by that sponsor.
 
 #### (B) Limitation
 
@@ -220,7 +220,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §232\], Nov. 29, 19
 
 “(a)
 
-Authority To Charge Fee.—The Secretary of State may charge and retain a fee or surcharge for services provided by the Department of State to any sponsor who provides an affidavit of support under section 213A of the Immigration and Nationality Act (8 U.S.C. 1183a) to ensure that such affidavit is properly completed before it is forwarded to a consular post foradjudication by a consular officer in connection with the adjudication of an immigrant visa. Such fee or surcharge shall be in addition to and separate from any fee imposed for immigrant visa application processing and issuance, and shall recover only the costs of such services not recovered by such fee.
+Authority To Charge Fee.—The Secretary of State may charge and retain a fee or surcharge for services provided by the Department of State to any sponsor who provides an affidavit of support under section 213A of the Immigration and Nationality Act (8 U.S.C. 1183a) to ensure that such affidavit is properly completed before it is forwarded to a consular post for adjudication by a consular officer in connection with the adjudication of an immigrant visa. Such fee or surcharge shall be in addition to and separate from any fee imposed for immigrant visa application processing and issuance, and shall recover only the costs of such services not recovered by such fee.
 
 “(b)
 

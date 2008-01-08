@@ -2,7 +2,7 @@
 
 (a)
 
-Exclusive Appellate Jurisdiction.—(1)(A) Except as provided in subparagraph (B), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of a final judgment rendered by a military commission (as approved by the convening authority) under this chapter.
+Exclusive Appellate Jurisdiction.—(1)(A) Except as provided in subparagraph (B),the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of a final judgment rendered by a military commission (as approved by the convening authority) under this chapter.
 
 (B) The Court of Appeals may not review the final judgment until all other appeals under this chapter have been waived or exhausted.
 
@@ -26,7 +26,7 @@ Scope of Review.—The jurisdiction of the Court of Appeals on an appeal under s
 
 (d)
 
-Supreme Court.—The Supreme Court may review by writ of certiorari the final judgmentof the Court of Appeals pursuant to section 1257 of title 28.
+Supreme Court.—The Supreme Court may review by writ of certiorari the final judgment of the Court of Appeals pursuant to section 1257 of title 28.
 
 (Added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2622.)
 

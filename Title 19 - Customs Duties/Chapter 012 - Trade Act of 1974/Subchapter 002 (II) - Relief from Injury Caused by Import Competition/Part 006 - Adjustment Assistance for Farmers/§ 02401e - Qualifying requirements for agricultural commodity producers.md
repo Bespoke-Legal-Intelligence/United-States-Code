@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) The producer certifies that the producer has not received cash benefits under any provision of this subchapter other than this part.
 
-&emsp;&emsp;(C) The producer's net farm income (as determined by the Secretary) for the most recent year is less than the producer's netfarm income for the latest year in which no adjustment assistance was received by the producer under this part.
+&emsp;&emsp;(C) The producer's net farm income (as determined by the Secretary) for the most recent year is less than the producer's net farm income for the latest year in which no adjustment assistance was received by the producer under this part.
 
 &emsp;&emsp;(D) The producer certifies that the producer has met with an Extension Service employee or agent to obtain, at no cost to the producer, information and technical assistance that will assist the producer in adjusting to import competition with respect to the adversely affected agricultural commodity, including—
 
@@ -94,11 +94,15 @@ An agricultural commodity producer entitled to receive a cash benefit under this
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–429, §2004(a)(9)(A)(i), substituted “adjustment assistance under this part”for “trade adjustment allowance” and “such assistance” for “such allowance” in introductory provisions.
+2004—Subsec. (a)(1). Pub. L. 108–429, §2004(a)(9)(A)(i), substituted “adjustment assistance under this part” for “trade adjustment allowance” and “such assistance” for “such allowance” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 108–429, §2004(a)(9)(A)(ii), made technical amendment to reference in original act which appears in text as reference to this subsection.
 
 Subsec. (b)(2). Pub. L. 108–429, §2004(a)(9)(B), substituted “paragraph (1), except” for “paragraph (1) except”.
+
+#### Termination Date
+
+No adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

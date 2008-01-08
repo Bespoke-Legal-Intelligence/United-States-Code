@@ -10,5 +10,5 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 #### Delegation of Functions
 
-For delegation of certain functions of President under this section, see Memorandum of President of May 30, 2001, 66 F.R. 30629, set out as a note under section 1942 of this title.
+For delegation of certain functions of President under this section, see Memorandum of President of the United States, May 30, 2001, 66 F.R. 30629, set out as a note under section 1942 of this title.
 

@@ -22,7 +22,7 @@ Effective with the publication of the option election date pursuant to section 1
 
 #### (e) Federal share
 
-There is hereby authorized to be appropriated the sum of $10,000,000 which shall be deposited into the Settlement Fund after the payments are made pursuant to subsections (c) and (d) of this section and section 1300i–5(c) of this title. The Settlement Fund, including the amount deposited pursuant to this subsection and all income earned subsequent to the payments made pursuant to subsections (c) and (d) of this section and section 1300i–5(c) of this title, shall be available to make the payments authorized by section 1300i–5(d) of this title.
+There is hereby authorized to be appropriated the sum of $10,000,000 which shall be deposited into the Settlement Fund after the payments are made pursuant to subsections (c) and (d) of this section and section 1300i–5(c) of this title. The Settlement Fund, including the amount deposited pursuant to this subsection and all income earned subsequent to the payments made pursuant to subsections (c) and (d) of this section and section 1300i–5(c) of this title, shall beavailable to make the payments authorized by section 1300i–5(d) of this title.
 
 (Pub. L. 100–580, §4, Oct. 31, 1988, 102 Stat. 2927.)
 

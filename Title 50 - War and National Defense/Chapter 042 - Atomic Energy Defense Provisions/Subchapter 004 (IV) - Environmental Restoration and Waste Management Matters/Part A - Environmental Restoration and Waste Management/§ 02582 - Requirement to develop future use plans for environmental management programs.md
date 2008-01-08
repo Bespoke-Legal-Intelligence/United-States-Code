@@ -32,7 +32,7 @@ A future use plan developed under this section shall cover a period of at least 
 
 #### (f) Deadlines
 
-For each facility listed in subsection (b), the Secretary of Energy shall develop a draft future use plan by October 1, 1997, and a final future use plan by March 15, 1998.
+For each facility listed in subsection (b), the Secretary of Energy shall develop a draft futureuse plan by October 1, 1997, and a final future use plan by March 15, 1998.
 
 #### (g) Report
 

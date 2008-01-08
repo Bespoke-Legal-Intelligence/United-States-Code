@@ -58,7 +58,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (C) Financial instrument
 
-&emsp;&emsp;The term “financial instrument” includes stocks and other equity interests, evidences of indebtedness, options, forward or futures contracts, notional principal contracts, and derivatives.
+&emsp;&emsp;The term “financial instrument” includes stocks and other equity interests, evidencesof indebtedness, options, forward or futures contracts, notional principal contracts, and derivatives.
 
 #### (3) Exceptions
 
@@ -100,7 +100,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;&emsp;&emsp;&emsp;(V) foreign currencies,
 
-&emsp;&emsp;&emsp;&emsp;(VI) interests in or derivative financial instruments (including options, forward or futures contracts, short positions, andsimilar financial instruments) in any asset described in any other subclause of this clause or in any commodity traded on or subject to the rules of a board of trade or commodity exchange,
+&emsp;&emsp;&emsp;&emsp;(VI) interests in or derivative financial instruments (including options, forward or futures contracts, short positions, and similar financial instruments) in any asset described in any other subclause of this clause or in any commodity traded on or subject to the rules of a board of trade or commodity exchange,
 
 &emsp;&emsp;&emsp;&emsp;(VII) other assets specified in regulations prescribed by the Secretary, or
 
@@ -192,7 +192,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 “(2)
 
-Certain distributions before january 1, 1995.—The amendments made by this section shall not applyto any marketable security distributed before January 1, 1995, by the partnership which held such security on July 27, 1994.
+Certain distributions before january 1, 1995.—The amendments made by this section shall not apply to any marketable security distributed before January 1, 1995, by the partnership which held such security on July 27, 1994.
 
 “(3)
 

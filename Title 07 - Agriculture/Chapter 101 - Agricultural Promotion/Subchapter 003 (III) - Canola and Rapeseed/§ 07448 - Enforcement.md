@@ -42,7 +42,7 @@ A civil action authorized to be commenced under this section shall be referred t
 
 &emsp;Any person who has been determined to be in violation of this subchapter, or against whom a civil penalty has been assessed or a cease-and-desist order issued under subsection (c) of this section, may obtain review of the penalty or cease-and-desist order by—
 
-&emsp;&emsp;(A) filing, within the 30-day period beginning on the date the penalty is assessed orcease-and-desist order issued, a notice of appeal in—
+&emsp;&emsp;(A) filing, within the 30-day period beginning on the date the penalty is assessed or cease-and-desist order issued, a notice of appeal in—
 
 &emsp;&emsp;&emsp;(i) the district court of the United States for the district in which the person resides or carries on business; or
 

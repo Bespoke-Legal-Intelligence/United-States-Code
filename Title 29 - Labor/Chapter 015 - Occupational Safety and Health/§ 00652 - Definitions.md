@@ -6,7 +6,7 @@ For the purposes of this chapter—
 
 &emsp;(2) The term “Commission” means the Occupational Safety and Health Review Commission established under this chapter.
 
-&emsp;(3) The term “commerce” means trade, traffic, commerce, transportation, or communication among the several States, or between a State and any place outside thereof, or within the District of Columbia, or a possession of the United States (other than the Trust Territory of the Pacific Islands), or between pointsin the same State but through a point outside thereof.
+&emsp;(3) The term “commerce” means trade, traffic, commerce, transportation, or communication among the several States, or between a State and any place outside thereof, or within the District of Columbia, or a possession of the United States (other than the Trust Territory of the Pacific Islands), or between points in the same State but through a point outside thereof.
 
 &emsp;(4) The term “person” means one or more individuals, partnerships, associations, corporations, business trusts, legal representatives, or any organized group of persons.
 

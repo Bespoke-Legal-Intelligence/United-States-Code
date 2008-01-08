@@ -6,9 +6,5 @@ For the purposes of conserving and interpreting an area containing unique scenic
 
 #### Amendments
 
-1994—Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and theCommittee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States House of Representatives and the United States Senate”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1994—Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States House of Representatives and the United States Senate”.
 

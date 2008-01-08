@@ -2,7 +2,7 @@
 
 #### (a) “Commodity promotion law” defined
 
-In this section, the term “commodity promotion law” means a Federal law that providesfor the establishment and operation of a promotion program regarding an agricultural commodity that includes a combination of promotion, research, industry information, or consumer information activities, is funded by mandatory assessments on producers or processors, and is designed to maintain or expand markets and uses for the commodity (as determined by the Secretary). The term includes—
+In this section, the term “commodity promotion law” means a Federal law that provides for the establishment and operation of a promotion program regarding an agricultural commodity that includes a combination of promotion, research, industry information, or consumer information activities, is funded by mandatory assessments on producers or processors, and is designed to maintain or expand markets and uses for the commodity (as determined by the Secretary). The term includes—
 
 &emsp;(1) the marketing promotion provisions under section 608c(6)(I) of this title;
 
@@ -66,7 +66,7 @@ Congress finds the following:
 
 &emsp;&emsp;(B) produce nonideological and commercial communication the purpose of which is to further the governmental policy and objective of maintaining and expanding the markets for the covered commodities.
 
-&emsp;(9) While some commodity promotion laws grant a producer or processor the option of crediting individual advertising conducted by the producer or processor for all or a portion of the producer's or processor's marketing promotion assessments, all promotion programs established under the commodity promotion laws, both those programs that permit credit for individual advertising and those programs that do not contain such provisions, are very narrowly tailored to fulfill the congressional purposes of the commodity promotion laws without impairing or infringing the legal or constitutional rights of any individual producer or processor.
+&emsp;(9) While some commodity promotion laws grant a producer or processor the option of crediting individual advertising conducted by the producer or processor for all or a portion of the producer's or processor's marketing promotion assessments, all promotion programs established under the commodity promotion laws, both those programs that permit credit for individual advertising and those programs that do not contain such provisions, are verynarrowly tailored to fulfill the congressional purposes of the commodity promotion laws without impairing or infringing the legal or constitutional rights of any individual producer or processor.
 
 &emsp;(10) These generic commodity promotion programs are of particular benefit to small producers who often lack the resources or market power to advertise on their own and who are otherwise often unable to benefit from the economies of scale available in promotion and advertising.
 
@@ -74,7 +74,7 @@ Congress finds the following:
 
 #### (c) Independent evaluation of promotion program effectiveness
 
-Except as otherwise provided by law, each commodity board established under the supervision and oversight of the Secretary of Agriculture pursuant to a commodity promotion law shall, not less often than every 5 years, authorize and fund, from funds otherwise available tothe board, an independent evaluation of the effectiveness of the generic commodity promotion programs and other programs conducted by the board pursuant to a commodity promotion law. The board shall submit to the Secretary, and make available to the public, the results of each periodic independent evaluation conducted under this subsection.
+Except as otherwise provided by law, each commodity board established under the supervision and oversight of the Secretary of Agriculture pursuant to a commodity promotion law shall, not less often than every 5 years, authorize and fund, from funds otherwise available to the board, an independent evaluation of the effectiveness of the generic commodity promotion programs and other programs conducted by the board pursuant to a commodity promotion law. The board shall submit to the Secretary, and make available to the public, the results of each periodic independent evaluation conducted under this subsection.
 
 #### (d) Administrative costs
 
@@ -112,7 +112,7 @@ Public Law 101–624, referred to in subsec. (a)(10), (11), (12), is Pub. L. 101
 
 Public Law 103–190, referred to in subsec. (a)(13), is Pub. L. 103–190, Dec. 14, 1993, 107 Stat. 2266, known as the Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993, which is classified generally to chapter 97 (§6801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
-Public Law 103–407, referred to in subsec. (a)(14), is Pub. L. 103–407, Oct. 22, 1994, 108 Stat. 4210, known as the Sheep Promotion, Research, and Information Act of 1994, which is classified generally to chapter 99 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+Public Law 103–407, referred to in subsec. (a)(14), is Pub. L. 103–407, Oct. 22, 1994, 108 Stat. 4210, known as the Sheep Promotion, Research, and Information Act of 1994, which is classified generally to chapter 99 (§7101 etseq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 
@@ -128,5 +128,5 @@ Section 531 of title V of Pub. L. 104–127 provided that: “This subtitle \[su
 
 Section 551 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle D (§§551–564) of title V of Pub. L. 104–127, enacting subchapter IV of this chapter\] may be cited as the ‘National Kiwifruit Research, Promotion, and Consumer Information Act’.”
 
-Section 571 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle E (§§571–582) of title V of Pub.L. 104–127, enacting subchapter V of this chapter\] may be cited as the ‘Popcorn Promotion, Research, and Consumer Information Act’.”
+Section 571 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle E (§§571–582) of title V of Pub. L. 104–127, enacting subchapter V of this chapter\] may be cited as the ‘Popcorn Promotion, Research, and Consumer Information Act’.”
 

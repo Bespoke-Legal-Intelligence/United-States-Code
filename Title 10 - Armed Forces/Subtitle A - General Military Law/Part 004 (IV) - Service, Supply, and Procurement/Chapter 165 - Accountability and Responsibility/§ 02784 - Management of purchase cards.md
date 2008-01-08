@@ -64,6 +64,10 @@ Subsec. (c). Pub. L. 107–314, §1007(a)(2), added subsec. (c).
 
 Pub. L. 106–65, div. A, title IX, §933(b)(1), Oct. 5, 1999, 113 Stat. 730, provided that: “Regulations under section 2784 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 5, 1999\].”
 
+#### Crediting of Refunds
+
+Pub. L. 110–116, div. A, title VIII, §8067, Nov. 13, 2007, 121 Stat. 1329, provided that: “Beginning in the current fiscal year and hereafter, refunds attributable to the use of the Government travel card, refunds attributable to the use of the Government Purchase Card and refunds attributable to official Government travel arranged by Government Contracted Travel Management Centers may be credited to operation and maintenance, and research, development, test and evaluation accounts of the Department of Defense which are current when the refunds are received.”
+
 #### Government Charge Card Accounts: Limitation on Number; Requirements for Issuance; Disciplinary Action for Misuse; Report
 
 Pub. L. 107–248, title VIII, §8149, Oct. 23, 2002, 116 Stat. 1572, as amended by Pub. L. 108–87, title VIII, §8144, Sept. 30, 2003, 117 Stat. 1108, provided that:

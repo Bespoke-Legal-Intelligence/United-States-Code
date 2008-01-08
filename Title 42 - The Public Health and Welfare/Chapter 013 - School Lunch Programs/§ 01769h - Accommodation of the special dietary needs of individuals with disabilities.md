@@ -12,7 +12,7 @@ In this section:
 
 &emsp;&emsp;(B) the school breakfast program authorized under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773); and
 
-&emsp;&emsp;(C) any other program authorized under this chapter or the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\] (except for section 17 \[42 U.S.C. 1786\]) that the Secretary determines is appropriate.
+&emsp;&emsp;(C) any other program authorized under this chapter or the Child Nutrition Act of1966 \[42 U.S.C. 1771 et seq.\] (except for section 17 \[42 U.S.C. 1786\]) that the Secretary determines is appropriate.
 
 #### (2) Eligible entity
 

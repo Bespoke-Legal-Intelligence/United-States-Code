@@ -1,6 +1,6 @@
 ### \[§§3651 to 3656. Repealed or Renumbered. Pub. L. 98–473, title II, §212(a)(1), (2), Oct. 12, 1984, 98 Stat. 1987\]
 
-Section 3651, acts June 25, 1948, ch. 645, 62 Stat. 842; June 20, 1958, Pub. L. 85–463, §1, 72 Stat. 216; Aug. 23, 1958, Pub. L. 85–741, 72 Stat. 834; Oct. 22, 1970, Pub. L. 91–492, §1, 84 Stat. 1090; May 11, 1972, Pub. L. 92–293, §1, 86 Stat. 136; Oct. 27, 1978, Pub. L. 95–537, §2, 92 Stat. 2038; Oct. 12, 1984, Pub. L. 98–473, title II, §§235(a)(1), 238(b), (c), (i), 98 Stat. 2031, 2038, 2039; Oct. 30, 1984, Pub. L.98–596, §§4, 12(a)(2), (3), (9), (b), 98 Stat. 3136, 3139, 3140, related to suspension of sentence and probation.
+Section 3651, acts June 25, 1948, ch. 645, 62 Stat. 842; June 20, 1958, Pub. L. 85–463, §1, 72 Stat. 216; Aug. 23, 1958, Pub. L. 85–741, 72 Stat. 834; Oct. 22, 1970, Pub. L. 91–492, §1, 84 Stat. 1090; May 11, 1972, Pub. L. 92–293, §1, 86 Stat. 136; Oct. 27, 1978, Pub. L. 95–537, §2, 92 Stat. 2038; Oct. 12, 1984, Pub. L. 98–473, title II, §§235(a)(1), 238(b), (c), (i), 98 Stat. 2031, 2038, 2039; Oct. 30, 1984, Pub. L. 98–596, §§4, 12(a)(2), (3), (9), (b), 98 Stat. 3136, 3139, 3140, related to suspension of sentence and probation.
 
 Section 3652, act June 25, 1948, ch. 645, 62 Stat. 842, related to probation—(Rule).
 

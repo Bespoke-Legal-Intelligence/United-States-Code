@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If the Secretary finds that a taxpayer designs quickly to depart from the United States or to remove his property therefrom, or to conceal himself or his property therein, or to do any other act (including in the case of a corporation distributing all or a part of its assets in liquidation or otherwise) tending to prejudice or to render wholly or partially ineffectual proceedings to collect the income tax for the current or the immediately preceding taxable year unless such proceeding be brought without delay, the Secretary shall immediately make a determination of tax for the current taxable year or for the preceding taxable year, or both, as the case may be, andnotwithstanding any other provision of law, such tax shall become immediately due and payable. The Secretary shall immediately assess the amount of the tax so determined (together with all interest, additional amounts, and additions to the tax provided by law) for the current taxable year or such preceding taxable year, or both, as the case may be, and shall cause notice of such determination and assessment to be given the taxpayer, together with a demand for immediate payment of such tax.
+&emsp;If the Secretary finds that a taxpayer designs quickly to depart from the United States or to remove his property therefrom, or to conceal himself or his property therein, or to do any other act (including in the case of a corporation distributing all or a part of its assets in liquidation or otherwise) tending to prejudice or to render wholly or partially ineffectual proceedings to collect the income tax for the current or the immediately preceding taxable year unless such proceeding be brought without delay, the Secretary shall immediately make a determination of tax for the current taxable year or for the preceding taxable year, or both, as the case may be, and notwithstanding any other provision of law, such tax shall become immediately due and payable. The Secretary shall immediately assess the amount of the tax so determined (together with all interest, additional amounts, and additions to the tax provided by law) for the current taxable year or such preceding taxable year, or both, as the case may be, and shall cause notice of such determination and assessment to be given the taxpayer, together with a demand for immediate payment of such tax.
 
 #### (2) Computation of tax
 
@@ -50,7 +50,7 @@ The provisions of section 6861(f) (relating to collection of unpaid amounts) and
 
 1976—Pub. L. 94–455, §1204(b)(1), substituted “assessments of income tax” for “of taxable year” in section catchline.
 
-Subsec. (a). Pub. L. 94–455, §1204(b)(1), revised pars. (1) and (2) to provide that a termination assessment does not end the taxable year for any purpose other than the computation of the amount of tax to be assessed and collected and to set out the method for determining the tax for the current taxable year, and added pars. (3) and (4).
+Subsec. (a). Pub. L. 94–455, §1204(b)(1), revised pars. (1) and (2) to provide that a termination assessment doesnot end the taxable year for any purpose other than the computation of the amount of tax to be assessed and collected and to set out the method for determining the tax for the current taxable year, and added pars. (3) and (4).
 
 Subsec. (b). Pub. L. 94–455, §1204(b)(1), substituted provisions for the mailing of a notice of deficiency for provisions for the reopening of taxable period.
 

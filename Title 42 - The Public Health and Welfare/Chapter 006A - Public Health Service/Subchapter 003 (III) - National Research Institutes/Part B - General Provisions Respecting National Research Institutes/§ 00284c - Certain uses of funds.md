@@ -22,7 +22,7 @@
 
 “(1)(A) For the National Cancer Institute (other than its programs under section 285a–1 of this title), there are authorized to be appropriated $1,194,000,000 for fiscal year 1986, $1,270,000,000 for fiscal year 1987, and $1,344,000,000 for fiscal year 1988.
 
-“(B) For the programs under section 285a–1 of this title, there are authorized to be appropriated $68,000,000for fiscal year 1986, $74,000,000 for fiscal year 1987, and $80,000,000 for fiscal year 1988.
+“(B) For the programs under section 285a–1 of this title, there are authorized to be appropriated $68,000,000 for fiscal year 1986, $74,000,000 for fiscal year 1987, and $80,000,000 for fiscal year 1988.
 
 “(2)(A) For the National Heart, Lung, and Blood Institute (other than its programs under section 285b–1 of this title), there are authorized to be appropriated $809,000,000 for fiscal year 1986, $871,000,000 for fiscal year 1987, and $927,000,000 for fiscal year 1988. Of the amount appropriated under this subsection for such fiscal year, not less than 15 percent of such amount shall be reserved for programs respecting diseases of the lung and not less than 15 percent of such amount shall be reserved for programs respecting blood diseases and blood resources.
 

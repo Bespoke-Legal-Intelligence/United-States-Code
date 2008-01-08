@@ -16,7 +16,7 @@
 
 #### (3) Procedure
 
-&emsp;Upon receipt of a completed registration described in paragraph (1), the Secretary shallnotify the registrant of the receipt of such registration and assign a registration number to each registered facility.
+&emsp;Upon receipt of a completed registration described in paragraph (1), the Secretary shall notify the registrant of the receipt of such registration and assign a registration number to each registered facility.
 
 #### (4) List
 

@@ -138,7 +138,7 @@ For the purposes specified in subsection (a), a subdivision of an Indian tribal 
 
 For purposes of this section, the term “essential governmental function” shall not include any function which is not customarily performed by State and local governments with general taxing powers.
 
-(Added Pub. L. 97–473, title II, §202(a), Jan. 14, 1983, 96 Stat. 2608; amended Pub. L. 98–21, title I, §122(c)(6), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §474(r)(41), title X, §1065(b), July 18, 1984, 98 Stat. 847, 1048; Pub. L. 99–514, title I, §§112(b)(4), 123(b)(3), title XIII, §1301(j)(6), (7),title XVIII, §§1878(i), 1899A(65), Oct. 22, 1986, 100 Stat. 2109, 2113, 2658, 2905, 2962; Pub. L. 100–203, title X, §10632(a), (b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 103–66, title XIII, §13222(d), Aug. 10, 1993, 107 Stat. 481.)
+(Added Pub. L. 97–473, title II, §202(a), Jan. 14, 1983, 96 Stat. 2608; amended Pub. L. 98–21, title I, §122(c)(6), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §474(r)(41), title X, §1065(b), July 18, 1984, 98 Stat. 847, 1048; Pub. L. 99–514, title I, §§112(b)(4), 123(b)(3), title XIII, §1301(j)(6), (7), title XVIII, §§1878(i), 1899A(65), Oct. 22, 1986, 100 Stat. 2109, 2113, 2658, 2905, 2962; Pub. L. 100–203, title X, §10632(a), (b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 103–66, title XIII, §13222(d), Aug. 10, 1993, 107 Stat. 481.)
 
 #### Amendments
 
@@ -222,11 +222,11 @@ For short title of title II of Pub. L. 97–473 as the “Indian Tribal Governme
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 123(b)(3) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligationof the United States in effect on Oct. 22, 1986, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 123(b)(3) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “calendar”.</i>
 

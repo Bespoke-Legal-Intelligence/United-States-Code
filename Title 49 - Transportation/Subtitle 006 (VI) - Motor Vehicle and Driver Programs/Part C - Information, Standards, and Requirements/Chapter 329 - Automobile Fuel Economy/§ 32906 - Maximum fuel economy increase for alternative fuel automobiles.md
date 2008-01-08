@@ -2,21 +2,27 @@
 
 (a)
 
-Maximum Increases.—(1)(A) For each of model years 1993–2010 for each category of automobile (except an electric automobile), the maximum increase in average fuel economy for a manufacturer attributable to dual fueled automobiles is 1.2 miles a gallon.
+In General.—For each of model years 1993 through 2019 for each category of automobile (except an electric automobile), the maximum increase in average fuel economy for a manufacturer attributable to dual fueled automobiles is—
 
-(B) If the application of section 32905(b) and (d) of this title is extended under section 32905(f) of this title, for each category of automobile (except an electric automobile) the maximum increase in average fuel economy for a manufacturer for each of model years 2011–2014 attributable to dual fueled automobiles is .9 mile a gallon.
+&emsp;(1) 1.2 miles a gallon for each of model years 1993 through 2014;
 
-(2) In applying paragraph (1) of this subsection, the Administrator of the Environmental Protection Agency shall determine the increase in a manufacturer's average fuel economy attributable to dual fueled automobiles by subtracting from the manufacturer's average fuel economy calculated under section 32905(e) of this title the number equal to what the manufacturer's average fuel economy would be if it were calculated by the formula in section 32904(a)(1) of this title by including as the denominator for each model of dual fueled automobile the fuel economy when the automobiles are operated on gasoline or diesel fuel. If the increase attributable to dual fueled automobiles for any model year described—
+&emsp;(2) 1.0 miles per gallon for model year 2015;
 
-&emsp;(A) in paragraph (1)(A) of this subsection is more than 1.2 miles a gallon, the limitation in paragraph (1)(A) applies; and
+&emsp;(3) 0.8 miles per gallon for model year 2016;
 
-&emsp;(B) in paragraph (1)(B) of this subsection is more than .9 mile a gallon, the limitation in paragraph (1)(B) applies.
+&emsp;(4) 0.6 miles per gallon for model year 2017;
+
+&emsp;(5) 0.4 miles per gallon for model year 2018;
+
+&emsp;(6) 0.2 miles per gallon for model year 2019; and
+
+&emsp;(7) 0 miles per gallon for model years after 2019.
 
 (b)
 
-Offsets.—Notwithstanding this section and sections 32901(c) and 32905 of this title, if the Secretary of Transportation reduces the average fuel economy standard for passenger automobiles for any model year below 27.5 miles a gallon, an increase in average fuel economy for passenger automobiles of more than .7 mile a gallon to which a manufacturer of dual fueled automobiles would otherwise be entitled is reduced by an amount equal to the amount of the reduction in the standard. However, the increase may not be reduced to less than .7 mile a gallon.
+Calculation.—In applying subsection (a), the Administrator of the Environmental Protection Agency shall determine the increase in a manufacturer's average fuel economy attributable to dual fueled automobiles by subtracting from the manufacturer's average fuel economy calculated under section 32905(e) the number equal to what the manufacturer's average fuel economy would be if it were calculated by the formula under section 32904(a)(1) by including as the denominator for each model of dual fueled automobiles the fuel economy when the automobiles are operated on gasoline or diesel fuel.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1067; Pub. L. 109–58, title VII, §772(b), Aug. 8, 2005, 119 Stat. 834.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1067; Pub. L. 109–58, title VII, §772(b), Aug. 8, 2005, 119 Stat. 834; Pub. L. 110–140, title I, §109(a), Dec. 19, 2007, 121 Stat. 1505.)
 
 Historical and Revision Notes
 
@@ -40,7 +46,13 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §513(g)(1), (2)(A); added Oct. 1
 
 #### Amendments
 
+2007—Pub. L. 110–140 amended section generally, substituting provisions relating to maximum increase in average fuel economy for each of model years 1993 through 2019 and calculation of each such increase for provisions relating to maximum increase for each of model years 1993 through 2010 and authorizing offsets if the Secretary of Transportation reduced the average fuel economy standard for passenger automobiles for any model year below 27.5 miles per gallon.
+
 2005—Subsec. (a)(1)(A). Pub. L. 109–58, §772(b)(1), substituted “model years 1993–2010” for “the model years 1993–2004”.
 
 Subsec. (a)(1)(B). Pub. L. 109–58, §772(b)(2), substituted “model years 2011–2014” for “the model years 2005–2008”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

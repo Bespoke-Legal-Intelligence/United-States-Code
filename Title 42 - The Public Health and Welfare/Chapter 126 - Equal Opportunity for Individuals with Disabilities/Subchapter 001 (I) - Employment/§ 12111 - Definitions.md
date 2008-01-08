@@ -92,7 +92,7 @@ This chapter, referred to in par. (10)(B)(i), was in the original “this Act”
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–166 inapplicable to conduct occurring before Nov. 21, 1991, see section 109(c) of Pub. L. 102–166, set out as a note under section 2000e of this title.
+Amendment by Pub. L. 102–166 inapplicable to conduct occurring before Nov. 21, 1991, see section 109(c) ofPub. L. 102–166, set out as a note under section 2000e of this title.
 
 #### Effective Date
 

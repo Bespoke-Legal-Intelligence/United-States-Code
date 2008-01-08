@@ -1,0 +1,12 @@
+### §690k. Reporting requirement
+
+Each Renewable Fuel Capital Investment company that participates in the program established under this part shall provide to the Administrator such information as the Administrator may require, including—
+
+&emsp;(1) information related to the measurement criteria that the company proposed in its program application; and
+
+&emsp;(2) in each case in which the company makes, under this part, an investment in, or a loan or a grant to, a business that is not primarily engaged in the research, development, manufacture, or bringing to market or <sup>1</sup> renewable energy sources, a report on the nature, origin, and revenues of the business in which investments are made.
+
+(Pub. L. 85–699, title III, §392, as added Pub. L. 110–140, title XII, §1207, Dec. 19, 2007, 121 Stat. 1782.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+

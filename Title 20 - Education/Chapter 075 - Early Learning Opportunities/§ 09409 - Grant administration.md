@@ -8,7 +8,7 @@ The Secretary may use not more than 3 percent of the amount appropriated under s
 
 A State that receives a grant under this chapter may use—
 
-&emsp;(1) not more than 2 percent of the funds made available through the grant to carry out activities designed to coordinate early learning programs on the State level, including programs funded or operated by the State educational agency, health, children and family, and human service agencies, and any State-level collaboration or coordination council involving early learning and education, such as the entities funded under section 9835(a)(5) of title 42;
+&emsp;(1) not more than 2 percent of the funds made available through the grant to carry out activities designed to coordinate early learning programs on the State level, including programs funded or operated by the State educational agency, health, children and family, and human service agencies, and any State-level collaboration or coordination council involving early learning and education, such as the entities funded under section 9835(a)(2)(B)(vi) of title 42;
 
 &emsp;(2) not more than 2 percent of the funds made available through the grant for the administrative costs of carrying out the grant program and the costs of reporting State and local efforts to the Secretary; and
 
@@ -62,5 +62,9 @@ A State that receives a grant under this chapter may use—
 
 &emsp;&emsp;&emsp;(vi) ensure that training and research is made available to Local Councils and that such training and research reflects the latest available brain development and early childhood development research related to early learning.
 
-(Pub. L. 106–554, §1(a)(1) \[title VIII, §810\], Dec. 21, 2000, 114 Stat. 2763, 2763A–85.)
+(Pub. L. 106–554, §1(a)(1) \[title VIII, §810\], Dec. 21, 2000, 114 Stat. 2763, 2763A–85; Pub. L. 110–134, §29(b), Dec. 12, 2007, 121 Stat. 1449.)
+
+#### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 110–134 substituted “entities funded under section 9835(a)(2)(B)(vi) of title 42” for “entities funded under section 9835(a)(5) of title 42”.
 

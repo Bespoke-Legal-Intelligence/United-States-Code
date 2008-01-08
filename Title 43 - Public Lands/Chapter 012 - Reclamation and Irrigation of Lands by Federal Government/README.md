@@ -90,6 +90,9 @@
 | 390h–18. | Irvine basin groundwater and surface water improvement projects. |
 | 390h–19. | Williamson County, Texas, water recycling and reuse project. |
 | 390h–20. | Hawaii reclamation projects. |
+| 390h–21. | Inland Empire regional water recycling project. |
+| 390h–22. | Cucamonga Valley water recycling project. |
+| 390h–23. | Southern California desert region integrated water and economic sustainability plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

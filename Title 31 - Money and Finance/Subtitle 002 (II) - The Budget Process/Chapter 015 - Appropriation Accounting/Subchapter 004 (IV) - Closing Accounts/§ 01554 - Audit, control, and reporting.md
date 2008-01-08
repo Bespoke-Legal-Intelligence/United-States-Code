@@ -62,9 +62,9 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–510 applicable to any appropriation account the obligated balance of which, on Nov. 5, 1990, has not been transferred under section 1552(a)(1) of this title, as in effect Nov. 4, 1990, withtransitional provisions, see section 1405(b) of Pub. L. 101–510, set out as a note under section 1551 of this title.
+Amendment by Pub. L. 101–510 applicable to any appropriation account the obligated balance of which, on Nov. 5, 1990, has not been transferred under section 1552(a)(1) of this title, as in effect Nov. 4, 1990, with transitional provisions, see section 1405(b) of Pub. L. 101–510, set out as a note under section 1551 of this title.
 
 #### Reporting Requirement Regarding Effect of Certain Payments and Adjustments on Federal Deficit
 
-Section 1004(a) of Pub. L. 102–190 provided that: “At the same time that the President submits to Congress the budget for each of fiscal years 1993, 1994, 1995, and 1996 under section 1105 of title 31, United States Code, the Director of the Office of Management and Budget shall submit to Congress a report regarding the effect on the Federal deficit of payments and adjustments made with respect to sections 1552 and 1553 of such title for the fiscal year in which such budget is submitted, the fiscal year preceding that fiscal year, and the fiscal year covered by that budget. The report shall include separate estimates for the accounts of each agency.”
+Section 1004(a) of Pub. L. 102–190 provided that: “At the same time that the President submits to Congressthe budget for each of fiscal years 1993, 1994, 1995, and 1996 under section 1105 of title 31, United States Code, the Director of the Office of Management and Budget shall submit to Congress a report regarding the effect on the Federal deficit of payments and adjustments made with respect to sections 1552 and 1553 of such title for the fiscal year in which such budget is submitted, the fiscal year preceding that fiscal year, and the fiscal year covered by that budget. The report shall include separate estimates for the accounts of each agency.”
 

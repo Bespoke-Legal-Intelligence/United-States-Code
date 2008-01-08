@@ -40,7 +40,7 @@ Seat belt.—The term “seat belt” means—
 
 State seat belt use rate.—The term “State seat belt use rate” means the rate of use of seat belts in passenger motor vehicles in a State, as measured and submitted to the Secretary—
 
-&emsp;&emsp;(A) for each of calendar years 1996 and 1997, by the State, as weighted by the Secretaryto ensure national consistency in methods of measurement (as determined by the Secretary); and
+&emsp;&emsp;(A) for each of calendar years 1996 and 1997, by the State, as weighted by the Secretary to ensure national consistency in methods of measurement (as determined by the Secretary); and
 
 &emsp;&emsp;(B) for each of calendar years 1998 through 2003, by the State in a manner consistent with the criteria established by the Secretary under subsection (e).
 
@@ -140,7 +140,7 @@ In general.—There is authorized to be appropriated from the Highway Trust Fund
 
 &emsp;(2)
 
-Proportionate adjustment.—If the total amounts to be allocated under subsection (c) for any fiscal year would exceed the amounts authorized for the fiscal year under paragraph (1), the allocation to each State under subsection (c) shall be reduced proportionately.
+Proportionate adjustment.—If the total amounts to be allocated under subsection (c)for any fiscal year would exceed the amounts authorized for the fiscal year under paragraph (1), the allocation to each State under subsection (c) shall be reduced proportionately.
 
 &emsp;(3)
 

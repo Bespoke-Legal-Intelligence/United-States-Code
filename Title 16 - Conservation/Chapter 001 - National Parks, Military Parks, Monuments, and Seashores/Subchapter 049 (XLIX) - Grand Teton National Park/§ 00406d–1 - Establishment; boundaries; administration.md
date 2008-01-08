@@ -14,6 +14,100 @@ Provisions relating to the “present Grand Teton National Park”, referred to 
 
 Section comprises all of section 1 of act Sept. 14, 1950, except the final sentence thereof. The final sentence repealed sections 406 to 406d of this title which established, and related to, the former “Grand Teton National Park of Wyoming”. It also contained a proviso, of which part is set out as section 431a of this title, and the remainder, as section 451a of this title.
 
+#### Grand Teton National Park Extension
+
+Pub. L. 110–47, July 13, 2007, 121 Stat. 241, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Grand Teton National Park Extension Act of 2007’.
+
+#### “SEC. 2. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Park.—The term ‘Park’ means the Grand Teton National Park.
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+&emsp;“(3)
+
+Subdivision.—The term ‘Subdivision’ means the GT Park Subdivision, with an area of approximately 49.67 acres, as generally depicted on—
+
+&emsp;&emsp;“(A) the plat recorded in the Office of the Teton County Clerk and Recorder on December 16, 1997, numbered 918, entitled ‘Final Plat GT Park Subdivision’, and dated June 18, 1997; and
+
+&emsp;&emsp;“(B) the map entitled ‘2006 Proposed Grand Teton Boundary Adjustment’, numbered 136/80,198, and dated March 21, 2006, which shall be on file and available for inspection in appropriate offices of the National Park Service.
+
+#### “SEC. 3. ACQUISITION OF LAND.
+
+“(a)
+
+In General.—The Secretary may accept from any willing donor the donation of any land or interest in land of the Subdivision.
+
+“(b)
+
+Administration.—On acquisition of land or an interest in land under subsection (a), the Secretary shall—
+
+&emsp;“(1) include the land or interest in the boundaries of the Park; and
+
+&emsp;“(2) administer the land or interest as part of the Park, in accordance with all applicable laws (including regulations).
+
+“(c)
+
+Deadline for Acquisition.—It is the intent of Congress that the acquisition of land or an interest in land under subsection (a) be completed not later than 1 year after the date of enactment of this Act \[July 13, 2007\].
+
+“(d)
+
+Restriction on Transfer.—The Secretary shall not donate, sell, exchange, or otherwise transfer any land acquired under this section without express authorization from Congress.
+
+#### “SEC. 4. CRAIG THOMAS DISCOVERY AND VISITOR CENTER.
+
+“(a)
+
+Findings.—Congress finds that—
+
+&emsp;“(1) Craig Thomas was raised on a ranch just outside of Cody, Wyoming, near Yellowstone National Park and Grand Teton National Park, where he—
+
+&emsp;&emsp;“(A) began a lifelong association with those parks; and
+
+&emsp;&emsp;“(B) developed a deep and abiding dedication to the values of the public land of the United States;
+
+&emsp;“(2) during his 18-year tenure in Congress, including service in both the Senate and the House of Representatives, Craig Thomas forged a distinguished legislative record on issues as diverse as public land management, agriculture, fiscal responsibility, and rural health care;
+
+&emsp;“(3) as Chairman and Ranking Member of the National Parks Subcommittee of the Committee on Energy and Natural Resources of the Senate and a frequent visitor to many units of the National Park System, including Yellowstone National Park and Grand Teton National Park, Craig Thomas was a strong proponent for ensuring that people of all ages and abilities had a wide range of opportunities to learn more about the natural and cultural heritage of the United States;
+
+&emsp;“(4) Craig Thomas authored legislation to provide critical funding and management reforms to protect units of the National Park System into the 21st century, ensuring quality visits to units of the National Park System and the protection of natural and cultural resources;
+
+&emsp;“(5) Craig Thomas strongly supported public-private partnerships and collaboration between the National Park Service and other organizations that foster new opportunities for providing visitor services while encouraging greater citizen involvement in the stewardship of units of the National Park System;
+
+&emsp;“(6) Craig Thomas was instrumental in obtaining the Federal share for a public-private partnership with the Grand Teton National Park Foundation and the Grand Teton Natural History Association to construct a new discovery and visitor center at Grand Teton National Park;
+
+&emsp;“(7) on June 4, 2007, Craig Thomas passed away after battling cancer for 7 months;
+
+&emsp;“(8) Craig Thomas is survived by his wife, Susan, and children, Patrick, Greg, Peter, and Lexie; and
+
+&emsp;“(9) in memory of the distinguished career of service of Craig Thomas to the people of the United States, the dedication of Craig Thomas to units of the National Park System, generally, and to Grand Teton National Park, specifically, and the critical role of Craig Thomas in the new discovery and visitor center at Grand Teton National Park, the Grand Teton Discovery and Visitor Center should be designated as the ‘Craig Thomas Discovery and Visitor Center’.
+
+“(b)
+
+The Craig Thomas Discovery and Visitor Center.—
+
+&emsp;“(1)
+
+Designation.—The Grand Teton Discovery and Visitor Center located in Moose, Wyoming, and scheduled for completion in August 2007 shall be known and designated as the ‘Craig Thomas Discovery and Visitor Center’.
+
+&emsp;“(2)
+
+Reference.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Grand Teton Discovery and Visitor Center referred to in paragraph (1) shall be deemed to be a reference to the ‘Craig Thomas Discovery and Visitor Center’.
+
+#### “SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this Act.”
+
 #### Grand Teton National Park Land Exchange
 
 Pub. L. 108–32, June 17, 2003, 117 Stat. 779, provided that:
@@ -44,7 +138,7 @@ Pub. L. 108–32, June 17, 2003, 117 Stat. 779, provided that:
 
 &emsp;“(3) exchange of Federal lands in the State of Wyoming that are identified for disposal under approved land use plans in effect on the date of enactment of this Act \[June 17, 2003\] under section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) that are of equal value to the State lands acquired in the exchange.
 
-“(b) In the event that the Secretary or the Governor determines that the Federal lands eligible for exchange under subsection (a)(3) are not sufficient or acceptable for the acquisition of all the State lands identified in section 2(4), the Secretary shall identify other Federal lands or interests therein in the State of Wyoming for possible exchange and shall identify such lands or interests together with their estimated value in a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the House of Representatives. Such lands or interests shall not be available for exchange unless authorized by an Act of Congress enacted after the date of submission of the report.
+“(b) In the event that the Secretary or the Governor determines that the Federal lands eligible for exchange under subsection (a)(3) are not sufficient or acceptable for the acquisition of all the State lands identified in section 2(4), the Secretary shall identify other Federal lands or interests therein in the State of Wyoming for possible exchange and shall identify such lands or interests together with their estimated value in a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives. Such lands or interests shall not be available for exchange unless authorized by an Act of Congress enacted after the date of submission of the report.
 
 #### “SEC. 4. VALUATION OF STATE AND FEDERAL INTERESTS.
 

@@ -6,7 +6,7 @@
 
 &emsp;(B) by virtue of their business and location of operation, competitors, so that the elimination of competition by agreement between them would constitute a violation of any of the antitrust laws;
 
-> if each of the corporations has capital, surplus, and undivided profits aggregating more than$10,000,000 as adjusted pursuant to paragraph (5) of this subsection.
+> if each of the corporations has capital, surplus, and undivided profits aggregating more than $10,000,000 as adjusted pursuant to paragraph (5) of this subsection.
 
 (2) Notwithstanding the provisions of paragraph (1), simultaneous service as a director or officer in any two corporations shall not be prohibited by this section if—
 

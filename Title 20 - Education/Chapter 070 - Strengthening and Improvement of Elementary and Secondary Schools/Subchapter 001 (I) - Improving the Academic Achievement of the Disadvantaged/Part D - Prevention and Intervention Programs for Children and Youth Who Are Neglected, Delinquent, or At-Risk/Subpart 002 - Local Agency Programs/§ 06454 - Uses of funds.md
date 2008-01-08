@@ -4,7 +4,7 @@ Funds provided to local educational agencies under this subpart may be used, as 
 
 &emsp;(1) programs that serve children and youth returning to local schools from correctional facilities, to assist in the transition of such children and youth to the school environment and help them remain in school in order to complete their education;
 
-&emsp;(2) dropout prevention programs which serve at-risk children and youth, including pregnantand parenting teens, children and youth who have come in contact with the juvenile justice system, children and youth at least 1 year behind their expected grade level, migrant youth, immigrant youth, students with limited English proficiency, and gang members;
+&emsp;(2) dropout prevention programs which serve at-risk children and youth, including pregnant and parenting teens, children and youth who have come in contact with the juvenile justice system, children and youth at least 1 year behind their expected grade level, migrant youth, immigrant youth, students with limited English proficiency, and gang members;
 
 &emsp;(3) the coordination of health and social services for such individuals if there is a likelihood that the provision of such services, including day care, drug and alcohol counseling, and mental health services, will improve the likelihood such individuals will complete their education;
 

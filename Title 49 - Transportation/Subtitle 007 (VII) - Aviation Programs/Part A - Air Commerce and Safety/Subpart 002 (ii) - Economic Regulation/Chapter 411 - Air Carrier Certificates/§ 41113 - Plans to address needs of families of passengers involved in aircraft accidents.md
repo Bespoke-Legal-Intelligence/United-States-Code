@@ -30,7 +30,7 @@ Contents of Plans.—A plan to be submitted by an air carrier under subsection (
 
 &emsp;(11) An assurance that the air carrier will provide reasonable compensation to any organization designated under section 1136(a)(2) of this title for services provided by the organization.
 
-&emsp;(12) An assurance that the air carrier will assist the family of a passenger in traveling tothe location of the accident and provide for the physical care of the family while the family is staying at such location.
+&emsp;(12) An assurance that the air carrier will assist the family of a passenger in traveling to the location of the accident and provide for the physical care of the family while the family is staying at such location.
 
 &emsp;(13) An assurance that the air carrier will commit sufficient resources to carry out the plan.
 
@@ -96,7 +96,7 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 
 #### Update Plans
 
-Pub. L. 108–176, title VIII, §809(c), Dec. 12, 2003, 117 Stat. 2589, provided that: “Air carriers and foreign air carriers shall update their plans under sections 41113and 41313 of title 49, United States Code, respectively, to reflect the amendments made by subsections (a) and (b) of this section \[amending this section and section 41313 of this title\] not later than 90 days after the date of enactment of this Act \[Dec. 12, 2003\].”
+Pub. L. 108–176, title VIII, §809(c), Dec. 12, 2003, 117 Stat. 2589, provided that: “Air carriers and foreign air carriers shall update their plans under sections 41113 and 41313 of title 49, United States Code, respectively, to reflect the amendments made by subsections (a) and (b) of this section \[amending this section and section 41313 of this title\] not later than 90 days after the date of enactment of this Act \[Dec. 12, 2003\].”
 
 #### Establishment of Task Force
 

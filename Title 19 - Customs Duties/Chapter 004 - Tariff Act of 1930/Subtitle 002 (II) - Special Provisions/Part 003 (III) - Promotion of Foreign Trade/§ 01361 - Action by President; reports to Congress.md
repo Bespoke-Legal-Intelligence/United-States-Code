@@ -6,7 +6,7 @@ Within thirty days after any trade agreement under section 1351 of this title ha
 
 #### (b) Transmittal by Commission of copy of report to the President to Congressional committees
 
-Promptly after the President has transmitted such foreign trade agreement to Congress the Commission shall deposit with the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, a copy of the portions of its report to the President dealing with the articles with respect to which such limits or minimum requirements are not complied with.
+Promptly after the President has transmitted such foreign trade agreement to Congress the Commission shall deposit with the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, a copy of the portions of its report to the President dealing with the articles with respectto which such limits or minimum requirements are not complied with.
 
 (June 16, 1951, ch. 141, §4, 65 Stat. 73; Pub. L. 93–618, title I, §171(b), Jan. 3, 1975, 88 Stat. 2009.)
 

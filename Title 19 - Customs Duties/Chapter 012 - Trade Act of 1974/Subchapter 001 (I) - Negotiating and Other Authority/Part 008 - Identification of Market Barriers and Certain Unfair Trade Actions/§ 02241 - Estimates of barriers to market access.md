@@ -90,7 +90,7 @@
 
 For purposes of this section, the term “electronic commerce” has the meaning given that term in section 1104(3) <sup>4</sup> of the Internet Tax Freedom Act.
 
-(Pub. L. 93–618, title I, §181, as added Pub. L. 98–573, title III, §303(a), Oct. 30, 1984, 98 Stat. 3001; amended Pub. L. 100–418, title I, §1304, Aug. 23, 1988, 102 Stat. 1181; Pub. L. 103–465, title III, §§311(a), 312, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 105–277, div. C, title XII, §1202, Oct. 21, 1998, 112 Stat. 2681–726.)
+(Pub. L. 93–618, title I, §181, as added Pub. L. 98–573, title III, §303(a), Oct. 30, 1984, 98 Stat.3001; amended Pub. L. 100–418, title I, §1304, Aug. 23, 1988, 102 Stat. 1181; Pub. L. 103–465, title III, §§311(a), 312, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 105–277, div. C, title XII, §1202, Oct. 21, 1998, 112 Stat. 2681–726.)
 
 #### References in Text
 
@@ -136,7 +136,7 @@ Pub. L. 105–277, div. C, title XII, §1206, Oct. 21, 1998, 112 Stat. 2681–72
 
 #### Construction of 1998 Amendments
 
-Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title\[amending this section and enacting provisions set out under this section\] shall be construed to expand the duty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall be construed to expand the duty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 Pub. L. 105–277, div. C, title XII, §1205, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 (Public Law 104–104) \[see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\] or the amendments made by such Act.”
 

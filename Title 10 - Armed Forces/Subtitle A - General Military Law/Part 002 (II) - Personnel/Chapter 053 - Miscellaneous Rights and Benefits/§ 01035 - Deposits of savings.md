@@ -10,7 +10,7 @@
 
 (e) The Secretary concerned, or his designee, may in the interest of a member who is in a missing status or his dependents, initiate, stop, modify, and change allotments, and authorize a withdrawal of deposits, made under this section, even though the member had an opportunity to deposit amounts under this section and elected not to do so. Interest may be computed from the day the member entered a missing status, or September 1, 1966, whichever is later.
 
-(f) The Secretary of Defense may authorize a member of the armed forces who is on a temporary duty assignment outside of the United States or its possessions in support of a contingency operation to make deposits of unallotted current pay and allowances during that duty as provided in subsection (a). The Secretary shallprescribe regulations establishing standards and procedures for the administration of this subsection.
+(f) The Secretary of Defense may authorize a member of the armed forces who is on a temporary duty assignment outside of the United States or its possessions in support of a contingency operation to make deposits of unallotted current pay and allowances during that duty as provided in subsection (a). The Secretary shall prescribe regulations establishing standards and procedures for the administration of this subsection.
 
 (g) In this section:
 
@@ -100,7 +100,7 @@ Subsec. (g). Pub. L. 102–190, §639(b)(1), (c), redesignated subsec. (f) as (g
 
 1966—Subsec. (a). Pub. L. 89–538 permitted not only enlisted personnel but any member of the armed forces, provided he is on permanent duty outside the United States, to participate in the savings program organized under this section and changed the fund into which such savings deposits are made.
 
-Subsec. (b). Pub. L. 89–538 changed rate of interest from 4 per centum per annum to a rate prescribed by the President, not to exceed 10 per centum per annum, did away with the necessity that amounts be on deposit for six months or more, set a maximum of $10,000 upon which interest shall be paid, and provided for termination of interest 90 days after the member's return to the United States or its possessions.
+Subsec. (b). Pub. L. 89–538 changed rate of interest from 4 per centum per annum to a rate prescribed by the President, not to exceed 10 per centum per annum,did away with the necessity that amounts be on deposit for six months or more, set a maximum of $10,000 upon which interest shall be paid, and provided for termination of interest 90 days after the member's return to the United States or its possessions.
 
 Subsec. (c). Pub. L. 89–538 substituted provisions that, unless changed by joint regulations of the Secretaries concerned, payments of deposits and interest may not be made to the individual while stationed outside of the United States, for provisions that payment of deposits and interest could be made only to the member upon discharge, or before discharge as prescribed by the Secretary concerned, or to the member's heirs or legal representatives.
 

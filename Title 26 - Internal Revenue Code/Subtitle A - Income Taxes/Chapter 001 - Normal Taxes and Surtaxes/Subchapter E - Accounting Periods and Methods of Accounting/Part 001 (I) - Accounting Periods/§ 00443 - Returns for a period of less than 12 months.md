@@ -40,7 +40,7 @@ A return for a period of less than 12 months (referred to in this section as “
 
 #### (C) Application for benefits
 
-&emsp;&emsp;Application for the benefits of this paragraph shall be made in such manner and at such time as the regulations prescribed under subparagraph (D) may require; except that the time so prescribed shall not be later than the time (including extensions) for filing the return for the first taxable year which ends on or after the day which is 12 months after the first day of the short period. Such application, in case the return was filed without regard to this paragraph, shall be considered a claim for credit or refund with respect to the amount by which the tax is reduced under this paragraph.
+&emsp;&emsp;Application for the benefits of this paragraph shall be made in such manner and at such time as the regulations prescribed under subparagraph (D) may require; except that the time so prescribed shall not be laterthan the time (including extensions) for filing the return for the first taxable year which ends on or after the day which is 12 months after the first day of the short period. Such application, in case the return was filed without regard to this paragraph, shall be considered a claim for credit or refund with respect to the amount by which the tax is reduced under this paragraph.
 
 #### (D) Regulations
 
@@ -110,7 +110,7 @@ Subsec. (d). Pub. L. 95–600, §421(e)(2), substituted “Adjustment in computi
 
 1976—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (a)(3). Pub. L. 94–455, §1204(c)(2), struck out par. (3) which made termination of taxpayer's taxable year under section 6851 as one of the circumstancesunder which a tax return for a period of less than 12 months shall be made.
+Subsec. (a)(3). Pub. L. 94–455, §1204(c)(2), struck out par. (3) which made termination of taxpayer's taxable year under section 6851 as one of the circumstances under which a tax return for a period of less than 12 months shall be made.
 
 Subsec. (b)(2)(D). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 

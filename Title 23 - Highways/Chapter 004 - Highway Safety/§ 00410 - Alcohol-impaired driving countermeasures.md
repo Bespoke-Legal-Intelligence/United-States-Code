@@ -146,7 +146,7 @@ Coordination of uses.—Grant funds used for a campaign under paragraph (3) or (
 
 (f)
 
-Allocation.—Subject to subsection (g), funds made available to carry out this section shall be allocated among States that meet the eligibility criteria in subsection (b) on the basis of the apportionment formula under section 402(c).
+Allocation.—Subject to subsection (g), funds made available to carry out this section shall be allocated among States that meet the eligibility criteria in subsection (b) on the basisof the apportionment formula under section 402(c).
 
 (g)
 
@@ -262,7 +262,7 @@ Amount of Basic Grants.—The amount of a basic grant to be made in a fiscal yea
 
 Subsec. (f). Pub. L. 102–388, §§601(2), 604, redesignated subsec. (e) as (f) and substituted “Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title” for “A State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in the fiscal year under this section” in pars. (1) to (7). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 102–388, §§601(1), (2), 605, redesignated subsec. (f) as (g), struck out “, and the remainder shall be apportioned among the several States” before the period at end, and struck out former subsec. (g) which provided for apportionment of the remainder of the funds authorized to be appropriated to carry outthis section among the States according to certain formulas.
+Subsec. (g). Pub. L. 102–388, §§601(1), (2), 605, redesignated subsec. (f) as (g), struck out “, and the remainder shall be apportioned among the several States” before the period at end, and struck out former subsec. (g) which provided for apportionment of the remainder of the funds authorized to be appropriated to carry out this section among the States according to certain formulas.
 
 Subsec. (j). Pub. L. 102–388, §606, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “
 
@@ -326,7 +326,7 @@ Report.—Not later than 2 years after the date of enactment of this Act \[June 
 
 #### Effectiveness of Drunk Driving Laws
 
-Pub. L. 104–59, title III, §358(d), Nov. 28, 1995, 109 Stat. 626, provided that: “The Secretary shall conduct a study to evaluate the effectiveness on reducing drunk driving and appropriateness of laws enacted in the States which allow a health care provider who treats an individual involved in a vehicular accident to report the blood alcohol level, if known, of such individual to the local law enforcement agency which has jurisdiction over the accident site if the blood alcohol concentration level exceeds the maximum level permitted under State law.”
+Pub. L. 104–59, title III, §358(d), Nov. 28, 1995, 109 Stat. 626, provided that: “The Secretary shall conduct a study to evaluate the effectiveness on reducing drunk driving and appropriateness of laws enacted in the States which allow a health care provider who treatsan individual involved in a vehicular accident to report the blood alcohol level, if known, of such individual to the local law enforcement agency which has jurisdiction over the accident site if the blood alcohol concentration level exceeds the maximum level permitted under State law.”
 
 #### States Eligible for Grants Before December 18, 1991
 

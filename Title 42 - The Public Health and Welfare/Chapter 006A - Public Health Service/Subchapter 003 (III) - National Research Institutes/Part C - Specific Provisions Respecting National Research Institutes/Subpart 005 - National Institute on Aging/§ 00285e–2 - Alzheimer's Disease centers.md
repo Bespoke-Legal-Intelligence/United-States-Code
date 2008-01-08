@@ -8,7 +8,7 @@
 
 #### (b) Use of Federal payments under cooperative agreement or grant
 
-(1) Federal payments made under a cooperative agreement or grant under subsection (a) of this section may, with respect to Alzheimer's disease, be used for—
+(1) Federal payments made under a cooperative agreement or grant under subsection (a) ofthis section may, with respect to Alzheimer's disease, be used for—
 
 &emsp;(A) diagnostic examinations, patient assessments, patient care costs, and other costs necessary for conducting research;
 
@@ -20,7 +20,7 @@
 
 &emsp;(E) the dissemination of information.
 
-(2) For purposes of paragraph (1), the term “training” does not include research trainingfor which Ruth L. Kirschstein National Research Service Awards may be provided under section 288 of this title.
+(2) For purposes of paragraph (1), the term “training” does not include research training for which Ruth L. Kirschstein National Research Service Awards may be provided under section 288 of this title.
 
 #### (c) Support period; additional periods
 

@@ -32,17 +32,13 @@ Subsec. (b)(3), (4). Pub. L. 105–277, §1335(f)(2)–(4), redesignated par. (4
 
 1990—Subsec. (b)(4). Pub. L. 101–454 substituted “international affairs or foreign languages,” for “Soviet or Eastern European area studies or languages,”.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Effective Date of 1990 Amendment
 
-Section 9(c)(2) of Pub. L. 101–454 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only to appointments to the FascellFellowship Board after the date of the enactment of this section \[Oct. 24, 1990\] and shall not affect the service of members of such board on the date of the enactment of this section.”
+Section 9(c)(2) of Pub. L. 101–454 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only to appointments to the Fascell Fellowship Board after the date of the enactment of this section \[Oct. 24, 1990\] and shall not affect the service of members of such board on the date of the enactment of this section.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “member”.</i>
 

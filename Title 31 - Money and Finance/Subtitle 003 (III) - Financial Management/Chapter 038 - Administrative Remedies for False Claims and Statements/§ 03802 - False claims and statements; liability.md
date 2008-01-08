@@ -34,7 +34,7 @@
 
 > shall be subject to, in addition to any other remedy that may be prescribed by law, a civil penalty of not more than $5,000 for each such statement.
 
-(3) An assessment shall not be made under the second sentence of paragraph (1) with respect to a claim if payment by the Government has not been made on such claim.
+(3) An assessment shall not be made under the second sentence of paragraph (1) with respect toa claim if payment by the Government has not been made on such claim.
 
 (b)(1) Except as provided in paragraphs (2) and (3) of this subsection—
 

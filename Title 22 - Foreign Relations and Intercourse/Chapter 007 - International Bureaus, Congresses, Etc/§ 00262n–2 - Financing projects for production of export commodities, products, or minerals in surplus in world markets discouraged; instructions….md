@@ -6,7 +6,7 @@
 
 &emsp;(1) to oppose financing by the respective bank of projects which produce, or will produce, commodities, products, or minerals for export if—
 
-&emsp;&emsp;(A) the commodity, product, or mineral is subsidized in a manner which is inconsistent with Article XVI.3 of the GATT 1994 as defined in section 3501(1)(B) of title 19, or Article 3.1(a) of the Agreement on Subsidies andCountervailing Measures referred to in section 3511(d)(12) of title 19; and
+&emsp;&emsp;(A) the commodity, product, or mineral is subsidized in a manner which is inconsistentwith Article XVI.3 of the GATT 1994 as defined in section 3501(1)(B) of title 19, or Article 3.1(a) of the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19; and
 
 &emsp;&emsp;(B) support from financial sources other than multilateral development banks does not accompany such financing; and
 

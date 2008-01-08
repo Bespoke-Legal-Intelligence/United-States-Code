@@ -24,7 +24,7 @@
 
 #### (2) Development of standards
 
-&emsp;Entities that contribute geologic maps to the national archives shall develop the standards described in paragraph (1) in cooperation with the Federal Geographic Data Committee, which is charged with standards development and other data coordination activities as described in Office of Management and Budget revised Circular A–16.
+&emsp;Entities that contribute geologic maps to the national archives shall develop the standards described in paragraph (1) in cooperationwith the Federal Geographic Data Committee, which is charged with standards development and other data coordination activities as described in Office of Management and Budget revised Circular A–16.
 
 (Pub. L. 102–285, §7, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, §3(e), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §7, Dec. 9, 1999, 113 Stat. 1723.)
 

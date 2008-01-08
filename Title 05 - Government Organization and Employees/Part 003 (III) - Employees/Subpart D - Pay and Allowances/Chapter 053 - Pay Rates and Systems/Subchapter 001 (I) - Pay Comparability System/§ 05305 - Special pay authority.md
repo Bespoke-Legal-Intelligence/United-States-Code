@@ -40,7 +40,7 @@
 
 (j) A rate determined under a schedule of special rates established under this section shall be considered to be part of basic pay for purposes of subchapter III of chapter 83, chapter 84, chapter 87, subchapter V of chapter 55, and section 5941, and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe.
 
-(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1946; amended Pub. L. 94–82, title II, §202(c), Aug. 9, 1975, 89 Stat. 420; Pub. L. 101–509, title V, §529\[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1436; Pub. L. 108–411, title III, §301(a)(2), Oct. 30, 2004, 118 Stat. 2313.)
+(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1946; amended Pub. L. 94–82, title II, §202(c), Aug. 9, 1975, 89 Stat. 420; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1436; Pub. L. 108–411, title III, §301(a)(2), Oct. 30, 2004, 118 Stat. 2313.)
 
 #### References in Text
 
@@ -217,7 +217,7 @@ Step 2
 | “Area | Differential |
 | :--- | ---: |
 | Boston-Lawrence-Salem, MA–NH Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
-| Chicago-Gary-Lake County, IL–IN–WI Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
+| Chicago-Gary-Lake County, IL–IN–WI Consolidated Metropolitan Statistical Area | 4%   |
 | Los Angeles-Anaheim-Riverside, CA Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | New York-Northern New Jersey-Long Island, NY–NJ–CT Consolidated Metropolitan Statistical Area | 16%&nbsp;&nbsp; |
 | Philadelphia-Wilmington-Trenton, PA–NJ–DE–MD Consolidated Metropolitan Statistical Area | 4%&nbsp;&nbsp; |
@@ -251,7 +251,7 @@ Step 2
 
 #### “SEC. 406. FBI NEW YORK FIELD DIVISION.
 
-“(a) The total pay of an employee of the Federal Bureau of Investigation assigned to the New York Field Division before the date of September 29, 1993, in a position covered by the demonstration project conductedunder section 601 of the Intelligence Authorization Act for Fiscal Year 1989 (Public Law 100–453) \[102 Stat. 1911\] shall not be reduced as a result of the termination of the demonstration project during the period that employee remains employed after that date in a position covered by the demonstration project.
+“(a) The total pay of an employee of the Federal Bureau of Investigation assigned to the New York Field Division before the date of September 29, 1993, in a position covered by the demonstration project conducted under section 601 of the Intelligence Authorization Act for Fiscal Year 1989 (Public Law 100–453) \[102 Stat. 1911\] shall not be reduced as a result of the termination of the demonstration project during the period that employee remains employed after that date in a position covered by the demonstration project.
 
 “(b) Beginning on September 30, 1993, any periodic payment under section 601(a)(2) of the Intelligence Authorization Act for Fiscal Year 1989 \[Pub. L. 100–453, 102 Stat. 1911\] for any such employee shall be reduced by the amount of any increase in basic pay under title 5, United States Code, including the following provisions: an annual adjustment under section 5303, locality-based comparability payment under section 5304, initiation or increase in a special pay rate under section 5305, promotion under section 5334, periodic step increase under section 5335, merit increase under section 5404, or other increase to basic pay under any provision of law.”
 

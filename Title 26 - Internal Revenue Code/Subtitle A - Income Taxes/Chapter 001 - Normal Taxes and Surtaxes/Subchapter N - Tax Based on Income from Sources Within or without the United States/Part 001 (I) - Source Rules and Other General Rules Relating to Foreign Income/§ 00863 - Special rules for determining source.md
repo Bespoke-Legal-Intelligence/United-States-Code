@@ -2,11 +2,11 @@
 
 #### (a) Allocation under regulations
 
-Items of gross income, expenses, losses, and deductions, other than those specified in sections 861(a) and 862(a), shall be allocated or apportioned to sources within or without the United States, under regulations prescribed by the Secretary. Where items of gross income are separately allocated to sources within the United States, there shall be deducted (for the purpose of computing the taxable income therefrom) the expenses, losses, and other deductions properly apportioned or allocated thereto and a ratable part of other expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be included in full as taxable income from sources within the United States.
+Items of gross income, expenses, losses, and deductions, other than those specified in sections 861(a) and 862(a), shall be allocated or apportioned to sources within or without theUnited States, under regulations prescribed by the Secretary. Where items of gross income are separately allocated to sources within the United States, there shall be deducted (for the purpose of computing the taxable income therefrom) the expenses, losses, and other deductions properly apportioned or allocated thereto and a ratable part of other expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be included in full as taxable income from sources within the United States.
 
 #### (b) Income partly from within and partly from without the United States
 
-In the case of gross income derived from sources partly within and partly without the United States, the taxable income may first be computed by deducting the expenses, losses, orother deductions apportioned or allocated thereto and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income; and the portion of such taxable income attributable to sources within the United States may be determined by processes or formulas of general apportionment prescribed by the Secretary. Gains, profits, and income—
+In the case of gross income derived from sources partly within and partly without the United States, the taxable income may first be computed by deducting the expenses, losses, or other deductions apportioned or allocated thereto and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income; and the portion of such taxable income attributable to sources within the United States may be determined by processes or formulas of general apportionment prescribed by the Secretary. Gains, profits, and income—
 
 &emsp;(1) from services rendered partly within and partly without the United States,
 
@@ -204,7 +204,7 @@ Amendment by section 1901(b)(26)(C), (D) of Pub. L. 94–455 effective for taxab
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendments by sections 1211(b)(1)(A) and 1212(a) of Pub. L. 99–514 to the extent application of such amendments would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendments by sections 1211(b)(1)(A) and 1212(a) of Pub. L. 99–514 to the extent application of such amendments would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Qualified Research and Experimental Expenditures; Allocation and Appointment; Definitions; Special Rules; Effective Dates
 

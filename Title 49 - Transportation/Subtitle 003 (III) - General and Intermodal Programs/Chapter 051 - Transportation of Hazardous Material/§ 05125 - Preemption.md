@@ -36,7 +36,7 @@ Regulations.—(1) Except as provided in paragraph (2) of this subsection, after
 
 (B) This subsection and section 5112 of this title do not require a State or Indian tribe to comply with section 5112(b)(1)(I) if the highway routing designation, limitation, or requirement was established before November 16, 1990.
 
-(C) The Secretary may allow a highway routing designation, limitation, or requirement to continue in effect until a dispute related to the designation, limitation, or requirement is resolved under section 5112(d) of this title.
+(C) The Secretary may allow a highway routing designation, limitation, or requirement to continue in effect until a dispute related to thedesignation, limitation, or requirement is resolved under section 5112(d) of this title.
 
 (d)
 

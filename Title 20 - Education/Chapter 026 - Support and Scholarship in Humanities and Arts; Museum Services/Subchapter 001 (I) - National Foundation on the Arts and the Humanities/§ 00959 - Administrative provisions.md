@@ -54,7 +54,7 @@ The Chairperson of the National Endowment for the Arts shall utilize advisory pa
 
 &emsp;(6) to require that the membership of each panel change substantially from year to year and to provide that each individual is ineligible to serve on a panel for more than 3 consecutive years.
 
-> In making appointments to panels, the Chairperson shall ensure that an individual who has a pending application for financial assistance under this subchapter, or who is an employee or agent of an organization with a pending application, does not serve as a member of any panel before which such application is pending. Theprohibition described in the preceding sentence shall commence with respect to such individual beginning on the date such application is submitted and shall continue for so long as such application is pending.
+> In making appointments to panels, the Chairperson shall ensure that an individual who has a pending application for financial assistance under this subchapter, or who is an employee or agent of an organization with a pending application, does not serve as a member of any panel before which such application is pending. The prohibition described in the preceding sentence shall commence with respect to such individual beginning on the date such application is submitted and shall continue for so long as such application is pending.
 
 #### (d) Endowment activities reports
 
@@ -110,7 +110,7 @@ Subsec. (b). Pub. L. 101–512, §318 \[title I, §109(9)\], which directed amen
 
 Pub. L. 101–512, §318 \[title I, §109(8)\], which directed amendment of the fifth sentence of this section by making the substitution for “For the purpose”, was executed by substituting “(4) For the purposes” for “For the purposes” to reflect the probable intent of Congress.
 
-Pub. L. 101–512, §318 \[title I, §109(4)–(7)\], redesignated concluding provisions of subsec. (a) as subsec. (b), inserted pars. (1), (2), and (3) designations, and struck out “(A)” before “without designation” and “(B)” before “without condition”. Former subsec. (b) redesignated (d).
+Pub. L. 101–512, §318 \[title I, §109(4)–(7)\], redesignated concluding provisions of subsec. (a) as subsec. (b), inserted pars. (1), (2), and (3) designations, and struck out“(A)” before “without designation” and “(B)” before “without condition”. Former subsec. (b) redesignated (d).
 
 Subsecs. (c) to (e). Pub. L. 101–512, §318 \[title I, §109(3), (4), (9)\], added subsec. (c), redesignated former subsecs. (b) and (c) as (d) and (e), respectively, and struck out former subsec. (e) which related to studies and reports on the state and quality of arts and humanities education in public elementary and secondary schools. Former subsec. (d) redesignated (f).
 

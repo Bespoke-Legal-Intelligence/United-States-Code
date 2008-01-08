@@ -76,7 +76,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (4) Daily depletable natural gas quantity
 
-&emsp;For purposes of paragraph (1), the depletable natural gas quantity of any taxpayer for anytaxable year shall be equal to 6,000 cubic feet multiplied by the number of barrels of the taxpayer's depletable oil quantity to which the taxpayer elects to have this paragraph apply. The taxpayer's depletable oil quantity for any taxable year shall be reduced by the number of barrels with respect to which an election under this paragraph applies. Such election shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
+&emsp;For purposes of paragraph (1), the depletable natural gas quantity of any taxpayer for any taxable year shall be equal to 6,000 cubic feet multiplied by the number of barrels of the taxpayer's depletable oil quantity to which the taxpayer elects to have this paragraph apply. The taxpayer's depletable oil quantity for any taxable year shall be reduced by the number of barrels with respect to which an election under this paragraph applies. Such election shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
 
 #### \[(5) Repealed. Pub. L. 101–508, title XI, §11815(a)(1)(C), Nov. 5, 1990, 104 Stat. 1388–557\]
 
@@ -280,7 +280,7 @@ For purposes of this section—
 
 Section 503 of the Natural Gas Policy Act of 1978, referred to in subsec. (b)(3)(C)(i), which was classified to section 3413 of Title 15, Commerce and Trade, was repealed by Pub. L. 101–60, §3(b)(5), July 26, 1989, 103 Stat. 159, effective Jan. 1, 1993.
 
-The Subchapter S Revision Act of 1982, referred to in subsec. (c)(11)(B), is Pub. L. 97–354, Oct. 19, 1982, 96 Stat. 1669, which is classified principally to subchapter S (§1361 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title of 1982 Amendments note set out under section 1 of this title and Tables.
+The Subchapter S Revision Act of 1982, referred to in subsec. (c)(11)(B), is Pub. L. 97–354, Oct. 19, 1982, 96 Stat.1669, which is classified principally to subchapter S (§1361 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title of 1982 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
 

@@ -48,7 +48,7 @@ Section 2(e) of Pub. L. 100–566 provided that:
 
 “(B) The Office of Personnel Management may require agencies to maintain such records and to provide such information as the Office may need to carry out subparagraph (A).
 
-“(2) The excepted agencies that establish programs under sections 6339 and 6372 of title 5, United StatesCode, shall report to the Congress on the operation of such programs within 2 years after the date of the enactment of this Act and again no later than 6 months before the scheduled termination of any such programs.”
+“(2) The excepted agencies that establish programs under sections 6339 and 6372 of title 5, United States Code, shall report to the Congress on the operation of such programs within 2 years after the date of the enactment of this Act and again no later than 6 months before the scheduled termination of any such programs.”
 
 #### Continuation of Temporary Leave Transfer Programs
 

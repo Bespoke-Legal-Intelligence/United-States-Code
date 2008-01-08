@@ -14,7 +14,7 @@ In accordance with regulations issued under this section—
 
 &emsp;&emsp;(C) provide to the Secretary concerned copies of all notices, acknowledgments, and agreements referred to in subparagraphs (A) and (B);
 
-&emsp;(3) each person who acquires, either directly or indirectly, unprocessed timber originating from public lands in a State that is subject to an order issued by the Secretary of Commerce under section 620c(a) of this title, other than a State that is administering and enforcing a program under section 620c(d) of this title, shall report the receipt and disposition of the timber to the Secretary of Commerce, in such form as the Secretary may by rule prescribe, except that nothing in this paragraph shall be construed to hold any person responsible forreporting the disposition of any timber held by subsequent persons; and
+&emsp;(3) each person who acquires, either directly or indirectly, unprocessed timber originating from public lands in a State that is subject to an order issued by the Secretary of Commerce under section 620c(a) of this title, other than a State that is administering and enforcing a program under section 620c(d) of this title, shall report the receipt and disposition of the timber to the Secretary of Commerce, in such form as the Secretary may by rule prescribe, except that nothing in this paragraph shall be construed to hold any person responsible for reporting the disposition of any timber held by subsequent persons; and
 
 &emsp;(4) each person who transfers to another person unprocessed timber originating from public lands in a State that is subject to an order issued by the Secretary of Commerce under section 620c(a) of this title, other than a State that is administering and enforcing a program under section 620c(d) of this title, shall, before completing the transfer—
 
@@ -52,7 +52,7 @@ Using the information gathered under subsection (a) of this section, the Secreta
 
 &emsp;(A) If the Secretary concerned finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the prohibition contained in sections 620 to 620j of this title against exporting Federal timber, exported or caused to be exported unprocessed timber originating from Federal lands in violation of sections 620 to 620j of this title, such Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
 
-&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the restrictions contained in an order of the Secretary under section 620c(a) of this title on exports of unprocessed timber from public lands, exported or caused to be exported unprocessed timber originating from public lands in violation of such order, the Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
+&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after anopportunity for a hearing, that a person, with willful disregard for the restrictions contained in an order of the Secretary under section 620c(a) of this title on exports of unprocessed timber from public lands, exported or caused to be exported unprocessed timber originating from public lands in violation of such order, the Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
 
 &emsp;(ii) Clause (i) shall not apply with respect to exports of unprocessed timber originating from public lands in a State that is administering and enforcing a program under section 620c(d) of this title.
 
@@ -90,7 +90,7 @@ In general.—The Secretary concerned—
 
 &emsp;&emsp;(ii)
 
-Contractural remedies.—In the case of a minor violation of sections 620 to 620j of this title (including a regulation), the Secretary concerned shall, to the maximum extent practicable, permit a contracting officer to redress the violation in accordance with the applicable timber sale contract rather than assess a penalty under this paragraph.
+Contractural <sup>1</sup> remedies.—In the case of a minor violation of sections 620 to 620j of this title (including a regulation), the Secretary concerned shall, to the maximum extent practicable, permit a contracting officer to redress the violation in accordance with the applicable timber sale contract rather than assess a penalty under this paragraph.
 
 #### (3) Penalties not exclusive; judicial review
 
@@ -135,4 +135,6 @@ Subsec. (d)(1). Pub. L. 105–83, §603(2), inserted subpar. (A) designation and
 Subsec. (c)(1). Pub. L. 103–45, §3(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (c)(2). Pub. L. 103–45, §3(b)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), and added subpar. (B).
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Contractual”.</i>
 

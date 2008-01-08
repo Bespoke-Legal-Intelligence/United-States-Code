@@ -38,17 +38,13 @@ There are authorized to be appropriated to the Foreign Currency Fluctuations, Pe
 
 #### (h) Reports
 
-Each year the Director of the Peace Corps shall submit to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives, and to the Committee on Foreign Relations and the Committee on Appropriations of the Senate, a report on funds transferred under this section.
+Each year the Director of the Peace Corps shall submit to the Committee on Foreign Affairs and the Committee on Appropriations ofthe House of Representatives, and to the Committee on Foreign Relations and the Committee on Appropriations of the Senate, a report on funds transferred under this section.
 
 (Pub. L. 87–293, title I, §16, as added Pub. L. 102–565, §2(a), Oct. 28, 1992, 106 Stat. 4265.)
 
 #### Prior Provisions
 
 A prior section 2515, Pub. L. 87–293, title I, §16, Sept. 22, 1961, 75 Stat. 622, related to appointment of persons serving under prior law, prior to repeal by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

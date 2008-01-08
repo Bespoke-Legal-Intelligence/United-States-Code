@@ -38,3 +38,7 @@ The effective date of the Wilderness Act, referred to in subsec. (b), means Sept
 
 The effective date of this subchapter, referred to in subsec. (b), means Oct. 21, 1999, the date of enactment of Pub. L. 106–76, which enacted this subchapter.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

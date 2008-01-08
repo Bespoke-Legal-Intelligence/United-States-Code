@@ -34,7 +34,7 @@ In the case of the sale of real property pursuant to section 6335—
 
 #### (2) Deed as conveyance of title
 
-&emsp;If the proceedings of the Secretary as set forth have been substantially in accordancewith the provisions of law, such deed shall be considered and operate as a conveyance of all the right, title, and interest the party delinquent had in and to the real property thus sold at the time the lien of the United States attached thereto.
+&emsp;If the proceedings of the Secretary as set forth have been substantially in accordance with the provisions of law, such deed shall be considered and operate as a conveyance of all the right, title, and interest the party delinquent had in and to the real property thus sold at the time the lien of the United States attached thereto.
 
 #### (c) Effect of junior encumbrances
 

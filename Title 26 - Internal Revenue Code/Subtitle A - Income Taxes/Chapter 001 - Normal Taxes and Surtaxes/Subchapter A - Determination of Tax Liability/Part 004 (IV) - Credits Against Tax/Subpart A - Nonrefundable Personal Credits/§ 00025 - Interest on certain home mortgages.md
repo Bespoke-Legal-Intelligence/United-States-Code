@@ -234,7 +234,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;If for any calendar year any mortgage credit certificate program which satisfies procedural requirements with respect to volume limitations prescribed by the Secretary fails to meet the requirements of paragraph (2) of subsection (d), such requirements shall be treated as satisfied with respect to any certified indebtedness of such program, but the applicableState ceiling under subsection (d) of section 146 for the State in which such program operates shall be reduced by 1.25 times the correction amount with respect to such failure. Such reduction shall be applied to such State ceiling for the calendar year following the calendar year in which the Secretary determines the correction amount with respect to such failure.
+&emsp;If for any calendar year any mortgage credit certificate program which satisfies procedural requirements with respect to volume limitations prescribed by the Secretary fails to meet the requirements of paragraph (2) of subsection (d), such requirements shall be treated as satisfied with respect to any certified indebtedness of such program, but the applicable State ceiling under subsection (d) of section 146 for the State in which such program operates shall be reduced by 1.25 times the correction amount with respect to such failure. Such reduction shall be applied to such State ceiling for the calendar year following the calendar year in which the Secretary determines the correction amount with respect to such failure.
 
 #### (2) Correction amount
 
@@ -294,7 +294,7 @@ Each person who makes a loan which is a certified indebtedness amount under any 
 
 &emsp;&emsp;<b>For provisions increasing the tax imposed by this chapter to recapture a portion of the Federal subsidy from the use of mortgage credit certificates, see section 143(m).</b>
 
-(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108; Pub. L. 109–58, title XIII, §1335(b)(2), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(C), (4), Dec. 21, 2005, 119 Stat. 2613, 2615.)
+(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L.99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108; Pub. L. 109–58, title XIII, §1335(b)(2), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(C), (4), Dec. 21, 2005, 119 Stat. 2613, 2615.)
 
 #### Amendment of Section
 
@@ -408,7 +408,7 @@ Subsec. (f)(4). Pub. L. 99–514, §1899A(1), substituted “ensure” for “in
 
 Amendment by section 402(i)(3)(C) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
-The Internal Revenue Code of 1986 to be applied and administered as if the amendments made by section1335(b)(1)–(3) of Pub. L. 109–58 had never been enacted, see section 402(i)(4) of Pub. L. 109–135, set out as a note under section 23 of this title.
+The Internal Revenue Code of 1986 to be applied and administered as if the amendments made by section 1335(b)(1)–(3) of Pub. L. 109–58 had never been enacted, see section 402(i)(4) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(C) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 

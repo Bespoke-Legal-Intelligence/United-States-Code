@@ -14,7 +14,7 @@
 
 &emsp;(6) Reasonable assurance that adequate financial support will be available for the construction of the project (or for facility acquisition and construction of the project) by July 1 of the fiscal year for which the application is approved and for its maintenance and operation when complete.
 
-&emsp;(7) Reasonable assurance that the State will make such reports in such form and containing such information as the Secretary may from time to time reasonably require, and givethe Secretary, upon demand, access to the records upon which such information is based.
+&emsp;(7) Reasonable assurance that the State will make such reports in such form and containing such information as the Secretary may from time to time reasonably require, and give the Secretary, upon demand, access to the records upon which such information is based.
 
 &emsp;(8) Reasonable assurance that the rates of pay for laborers and mechanics engaged in construction of the project will be not less than the prevailing local wage rates for similar work as determined in accordance with sections 3141–3144, 3146, and 3147 of title 40.
 
@@ -70,9 +70,9 @@
 
 (C) An application deferred in accordance with the requirements of this paragraph shall be accorded priority in any subsequent fiscal year ahead of applications that had not been approved before the first day of the fiscal year in which the deferred application was first approved.
 
-(D) For the purposes of this paragraph, the term “July 1 deadline” means July 1 of the fiscal year in which the State is notified by theSecretary of the availability of funding for a grant for such project.
+(D) For the purposes of this paragraph, the term “July 1 deadline” means July 1 of the fiscal year in which the State is notified by the Secretary of the availability of funding for a grant for such project.
 
-(6)(A) The Secretary may conditionally approve a project under this section, conditionally award a grant for the project, and obligate funds for the grant if the Secretary determines that the application for the grant is sufficiently complete to warrant awarding the grant and that, based on assurances provided by the State submitting the application, the State will complete the application and meet all the requirements referred to in paragraph (1)(A) of this subsection by the date, not later than 180 days after the date of the conditional approval, specified by the Secretary.
+(6)(A) The Secretary may conditionally approve a project under this section, conditionally award a grant for the project, and obligate funds for the grant if the Secretary determines that the application for the grant is sufficiently complete to warrant awarding the grant and that,based on assurances provided by the State submitting the application, the State will complete the application and meet all the requirements referred to in paragraph (1)(A) of this subsection by the date, not later than 180 days after the date of the conditional approval, specified by the Secretary.
 
 (B) If a State does not complete the application and meet all the requirements referred to in such paragraph by the date specified by the Secretary under subparagraph (A) of this paragraph, the Secretary shall rescind the conditional approval and award under such subparagraph and deobligate the funds previously obligated in connection with the application. In the event the Secretary rescinds conditional approval of a project under this subparagraph, the Secretary may not further obligate funds for the project during the fiscal year in which the Secretary rescinds such approval.
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 99–576 effective July 1, 1987, see section 224(e) of Pub.
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1,1977, under former section 644 of this title and with additional provision for the modification of the terms and conditions of both grants made under former section 644 of this title prior to Oct. 1, 1977, and of grants made under this subchapter prior to Oct. 1, 1977, see section 5 of Pub. L. 95–62, set out as a note under section 8131 of this title.
+Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under former section 644 of this title and with additional provision for the modification of the terms and conditions of both grants made under former section 644 of this title prior to Oct. 1, 1977, and of grants made under this subchapter prior to Oct. 1, 1977, see section 5 of Pub. L. 95–62, set out as a note under section 8131 of this title.
 
 #### Effective Date of 1976 Amendment
 

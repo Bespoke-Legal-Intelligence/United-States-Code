@@ -96,6 +96,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER V—HEALTHY HIGH-PERFORMANCE SCHOOLS
+
+|  |  |
+| :--- | ---: |
+| [2695\.](Subchapter%20005%20%28V%29%20-%20Healthy%20High-Performance%20Schools/%C2%A7%2002695%20-%20Grants%20for%20healthy%20school%20environments.md) | Grants for healthy school environments. |
+| [2695a.](Subchapter%20005%20%28V%29%20-%20Healthy%20High-Performance%20Schools/%C2%A7%2002695a%20-%20Model%20guidelines%20for%20siting%20of%20school%20facilities.md) | Model guidelines for siting of school facilities. |
+| [2695b.](Subchapter%20005%20%28V%29%20-%20Healthy%20High-Performance%20Schools/%C2%A7%2002695b%20-%20Public%20outreach.md) | Public outreach. |
+| [2695c.](Subchapter%20005%20%28V%29%20-%20Healthy%20High-Performance%20Schools/%C2%A7%2002695c%20-%20Environmental%20health%20program.md) | Environmental health program. |
+| [2695d.](Subchapter%20005%20%28V%29%20-%20Healthy%20High-Performance%20Schools/%C2%A7%2002695d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -105,3 +117,4 @@
 - [Subchapter 002 (II) - Asbestos Hazard Emergency Response](Subchapter%20002%20%28II%29%20-%20Asbestos%20Hazard%20Emergency%20Response/README.md)
 - [Subchapter 003 (III) - Indoor Radon Abatement](Subchapter%20003%20%28III%29%20-%20Indoor%20Radon%20Abatement/README.md)
 - [Subchapter 004 (IV) - Lead Exposure Reduction](Subchapter%20004%20%28IV%29%20-%20Lead%20Exposure%20Reduction/README.md)
+- [Subchapter 005 (V) - Healthy High-Performance Schools](Subchapter%20005%20%28V%29%20-%20Healthy%20High-Performance%20Schools/README.md)

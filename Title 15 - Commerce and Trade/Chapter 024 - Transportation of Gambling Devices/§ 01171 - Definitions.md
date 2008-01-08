@@ -42,7 +42,7 @@ Section 1 of Pub. L. 87–840 provided: “That this Act \[enacting section 1178
 
 #### Short Title
 
-Act Jan. 2, 1951, which enacted this chapter, is popularly known as the “Gambling Devices Transportation Act”.
+Act Jan. 2, 1951, which enacted this chapter and a note set out under this section, is popularly known as the “Gambling Devices Transportation Act”.
 
 #### Separability
 

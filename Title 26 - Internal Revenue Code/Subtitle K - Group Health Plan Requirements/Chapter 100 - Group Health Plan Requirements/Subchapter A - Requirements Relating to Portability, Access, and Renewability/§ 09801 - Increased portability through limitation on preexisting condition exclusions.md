@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “preexisting condition exclusion” means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
+&emsp;&emsp;The term “preexisting condition exclusion” means, with respect to coverage, alimitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
 
 #### (B) Treatment of genetic information
 
@@ -284,7 +284,7 @@ Transitional rule.—In the case of an individual who seeks to establish credita
 
 &emsp;&emsp;“(i) the individual may present other credible evidence of such coverage in order to establish the period of creditable coverage; and
 
-&emsp;&emsp;“(ii) a group health plan and a health insurance issuer shall not be subject to any penalty or enforcement action with respect to the plan's or issuer's crediting (or not crediting) such coverage if the plan or issuer has sought to comply in good faith with the applicable requirements under the amendments made by this section.
+&emsp;&emsp;“(ii) a group health plan and a health insurance issuer shall not be subject to any penalty or enforcement action with respect to the plan's or issuer's crediting (or not crediting) such coverage if the plan or issuer has sought to comply in good faithwith the applicable requirements under the amendments made by this section.
 
 “(3)
 

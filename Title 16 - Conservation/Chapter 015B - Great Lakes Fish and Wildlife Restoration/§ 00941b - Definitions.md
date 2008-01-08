@@ -6,7 +6,7 @@ In this chapter—
 
 &emsp;(2) the term “Director” means the Director of the United States Fish and Wildlife Service;
 
-&emsp;(3) the term “Great Lakes Basin” means the air, land, water, and living organisms within the drainage basin of the Saint LawrenceRiver at or upstream from the point at which the river becomes the international boundary between Canada and the United States;
+&emsp;(3) the term “Great Lakes Basin” means the air, land, water, and living organisms within the drainage basin of the Saint Lawrence River at or upstream from the point at which the river becomes the international boundary between Canada and the United States;
 
 &emsp;(4) the term “Indian Tribe” means any Indian tribe, band, village, nation, or other organized group or community that is recognized by the Bureau of Indian Affairs as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, and that has Great Lakes fish and wildlife management authority in the Great Lakes Basin;
 

@@ -32,10 +32,6 @@ Section is comprised of section 413 of Pub. L. 99–399, as amended. Subsec. (e)
 
 1987—Pub. L. 100–204 struck out former subsec. (a) designation and heading “Inspector General of Department of State”, redesignated former pars. (1) to (5) as subsecs. (a) to (e), respectively, and struck out former subsec. (b) which related to establishment of the Office of Policy and Program Review. See Codification note above.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Evaluation of Policies and Procedures of Department of State on Protection of Classified Information at Department Headquarters
 
 Pub. L. 107–306, title VIII, §832, Nov. 27, 2002, 116 Stat. 2431, provided that:
@@ -50,7 +46,7 @@ Annual Report.—Except as provided in subsection (c), not later than February 1
 
 &emsp;“(1) The congressional intelligence committees.
 
-&emsp;“(2) The Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
+&emsp;“(2) The Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
 
 “(c)
 

@@ -64,7 +64,7 @@ Section 13 of Pub. L. 104–146 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), this Act \[enacting sections 300ff–27a, 300ff–31, 300ff–33 to 300ff–37, 300ff–77, 300ff–78, and 300ff–101 of this title, amending this section and sections 294n, 300d, 300ff–12 to 300ff–17, 300ff–21 to 300ff–23, 300ff–26 to 300ff–29, 300ff–47 to 300ff–49, 300ff–51, 300ff–52, 300ff–54, 300ff–55, 300ff–64, 300ff–71, 300ff–74, 300ff–76, and 300ff–84 of this title, transferring section 294n of this title to section 300ff–111 of this title, repealing sections 300ff–18and 300ff–30 of this title, and enacting provisions set out as notes under sections 201, 300cc, and 300ff–33 of this title and section 4103 of Title 5, Government Organization and Employees\], and the amendments made by this Act, shall become effective on October 1, 1996.
+In General.—Except as provided in subsection (b), this Act \[enacting sections 300ff–27a, 300ff–31, 300ff–33 to 300ff–37, 300ff–77, 300ff–78, and 300ff–101 of this title, amending this section and sections 294n, 300d, 300ff–12 to 300ff–17, 300ff–21 to 300ff–23, 300ff–26 to 300ff–29, 300ff–47 to 300ff–49, 300ff–51, 300ff–52, 300ff–54, 300ff–55, 300ff–64, 300ff–71, 300ff–74, 300ff–76, and 300ff–84 of this title, transferring section 294n of this title to section 300ff–111 of this title, repealing sections 300ff–18 and 300ff–30 of this title, and enacting provisions set out as notes under sections 201, 300cc, and 300ff–33 of this title and section 4103 of Title 5, Government Organization and Employees\], and the amendments made by this Act, shall become effective on October 1, 1996.
 
 “(b)
 
@@ -72,7 +72,7 @@ Exception.—The amendments made by sections 3(a), 5, 6, and 7 of this Act to se
 
 #### Studies by Institute of Medicine
 
-Pub. L. 106–345, title V, §501, Oct. 20, 2000, 114 Stat. 1352, required the Secretary of Health and Human Services to request the Institute of Medicine or another appropriate entity to conduct a study of State surveillance systems on the prevalence of HIV and a study concerning the relationship between epidemiological measures and health care for certain individuals with HIV and to ensure that the former study be completed and a report submitted to congressional committees not later than 3 years after Oct. 20, 2000, and that the latter study be completed and a report submitted to congressional committees not later than 2 years after Oct. 20, 2000.
+Pub. L. 106–345, title V, §501, Oct. 20, 2000, 114 Stat. 1352, required the Secretary of Health and Human Services to request the Institute of Medicine or another appropriate entity to conduct a study of State surveillance systems on the prevalence of HIV and a study concerning the relationship between epidemiological measures and health care for certain individuals withHIV and to ensure that the former study be completed and a report submitted to congressional committees not later than 3 years after Oct. 20, 2000, and that the latter study be completed and a report submitted to congressional committees not later than 2 years after Oct. 20, 2000.
 
 #### Study Regarding HIV Disease in Rural Areas
 

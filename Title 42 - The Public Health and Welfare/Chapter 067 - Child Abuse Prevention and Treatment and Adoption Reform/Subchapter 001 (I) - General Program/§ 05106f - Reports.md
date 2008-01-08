@@ -38,3 +38,7 @@ A prior section 110 of Pub. L. 93–247 was renumbered section 108 and is classi
 
 1989—Subsec. (b). Pub. L. 101–126, §3(b)(6), made technical amendments to references to sections 5106b and 5106c of this title to reflect renumbering of corresponding sections of original act.
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

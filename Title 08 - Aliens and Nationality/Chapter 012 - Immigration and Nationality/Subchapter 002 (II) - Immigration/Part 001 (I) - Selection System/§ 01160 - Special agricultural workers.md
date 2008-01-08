@@ -38,7 +38,7 @@
 
 #### (C) Numerical limitation
 
-&emsp;&emsp;Subparagraph (A) shall not apply to more than 350,000 aliens. If more than 350,000aliens meet the requirements of such subparagraph, such subparagraph shall apply to the 350,000 aliens whose applications for adjustment were first filed under paragraph (1) and subparagraph (B) shall apply to the remaining aliens.
+&emsp;&emsp;Subparagraph (A) shall not apply to more than 350,000 aliens. If more than 350,000 aliens meet the requirements of such subparagraph, such subparagraph shall apply to the 350,000 aliens whose applications for adjustment were first filed under paragraph (1) and subparagraph (B) shall apply to the remaining aliens.
 
 #### (3) Termination of temporary residence
 
@@ -98,7 +98,7 @@
 
 #### (4) Treatment of applications by designated entities
 
-&emsp;Each designated entity must agree to forward to the Attorney General applicationsfiled with it in accordance with paragraph (1)(A)(ii) but not to forward to the Attorney General applications filed with it unless the applicant has consented to such forwarding. No such entity may make a determination required by this section to be made by the Attorney General.
+&emsp;Each designated entity must agree to forward to the Attorney General applications filed with it in accordance with paragraph (1)(A)(ii) but not to forward to the Attorney General applications filed with it unless the applicant has consented to such forwarding. No such entity may make a determination required by this section to be made by the Attorney General.
 
 #### (5) Limitation on access to information
 
@@ -178,7 +178,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) Paragraph (4) (relating to aliens likely to become public charges).
 
-&emsp;&emsp;&emsp;&emsp;(III) Paragraph (2)(C) (relating to drug offenses), except for so much of suchparagraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
+&emsp;&emsp;&emsp;&emsp;(III) Paragraph (2)(C) (relating to drug offenses), except for so much of such paragraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Paragraph (3) (relating to security and related grounds), other than subparagraph (E) thereof.
 
@@ -208,7 +208,7 @@
 
 &emsp;No application fees collected by the Service pursuant to this subsection may be used by the Service to offset the costs of the special agricultural worker legalization program until the Service implements the program consistent with the statutory mandate as follows:
 
-&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) of this section the Service may grant temporary admission to the United States, work authorization, and provide an “employment authorized” endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) of this section at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
+&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) of this section the Service may grant temporary admission to the United States, work authorization, and provide an “employment authorized” endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status undersubsection (a) of this section at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
 
 &emsp;&emsp;(B) During the application period described in subsection (a)(1)(A) of this section any alien who has filed an application for adjustment of status within the United States as provided in subsection (b)(1)(A) of this section pursuant to the provision of 8 CFR section 210.1(j) is subject to paragraph (2) of this subsection.
 
@@ -344,7 +344,7 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Commission on Agricultural Workers
 

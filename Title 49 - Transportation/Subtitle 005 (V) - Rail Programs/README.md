@@ -19,7 +19,7 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>221.</b>](Part%20B%20-%20Assistance/Chapter%20221%20-%20Local%20Rail%20Freight%20Assistance/README.md) | <b>Local Rail Freight Assistance</b> | <b>22101</b> |
-| [<b>223.</b>](Part%20B%20-%20Assistance/Chapter%20223%20-%20Light%20Density%20Rail%20Line%20Pilot%20Projects/README.md) | <b>Light Density Rail Line Pilot Projects</b> | <b>22301</b> |
+| [<b>223.</b>](Part%20B%20-%20Assistance/Chapter%20223%20-%20Capital%20Grants%20for%20Class%20II%20and%20Class%20III%20Railroads/README.md) | <b>Capital Grants for Class II and Class III Railroads</b> | <b>22301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -53,6 +53,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 110–140, title XI, §1112(b), Dec. 19, 2007, 121 Stat. 1759, substituted “Capital Grants for Class II and Class III Railroads” for “Light Density Rail Line Pilot Projects” in item for chapter 223.
 
 1998—Pub. L. 105–178, title VII, §7202(b), June 9, 1998, 112 Stat. 471, added item for chapter 223.
 

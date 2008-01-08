@@ -10,7 +10,7 @@ The radiotelegraph station and the radio direction finding apparatus required by
 
 &emsp;(d) The main and reserve installations shall be capable of transmitting and receiving on the frequencies, and using the classes of emission, designated by the Commission pursuant to law for the purposes of distress and safety of navigation.
 
-&emsp;(e) The main and reserve installations shall, when connected to the main antenna, have aminimum normal range of two hundred nautical miles and one hundred nautical miles, respectively; that is, they must be capable of transmitting and receiving clearly perceptible signals from ship to ship by day and under normal conditions and circumstances over the specified ranges.
+&emsp;(e) The main and reserve installations shall, when connected to the main antenna, have a minimum normal range of two hundred nautical miles and one hundred nautical miles, respectively; that is, they must be capable of transmitting and receiving clearly perceptible signals from ship to ship by day and under normal conditions and circumstances over the specified ranges.
 
 &emsp;(f) Sufficient electrical energy shall be available at all times to operate the main installation over the normal range required by subsection (e) of this section as well as for the purpose of charging any batteries forming part of the radiotelegraph station.
 

@@ -16,7 +16,7 @@ It is the sense of Congress that—
 
 #### Amendments
 
-1996—Pub. L. 104–127 substituted “Food aid to developing countries” for “Global food aid needs” in section catchline and amended text generally. Prior to amendment, text read as follows: “In view of the principal findings of the National Research Council of the National Academy of Sciences that doubling food aid above 1990 levels of about 10,000,000 metric tons per year would be necessary to meet projected global food needs throughout the decade of the nineties, it is the sense of Congress that the President should—
+1996—Pub. L. 104–127 substituted “Food aid to developing countries” for “Global food aid needs” in sectioncatchline and amended text generally. Prior to amendment, text read as follows: “In view of the principal findings of the National Research Council of the National Academy of Sciences that doubling food aid above 1990 levels of about 10,000,000 metric tons per year would be necessary to meet projected global food needs throughout the decade of the nineties, it is the sense of Congress that the President should—
 
 &emsp;“(1) increase the contributions of food aid by the United States, and encourage other donor countries to increase their contributions toward meeting new food aid requirements; and
 

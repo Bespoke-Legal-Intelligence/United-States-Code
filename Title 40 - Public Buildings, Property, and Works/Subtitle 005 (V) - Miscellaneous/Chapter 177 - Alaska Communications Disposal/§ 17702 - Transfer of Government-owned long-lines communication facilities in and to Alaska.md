@@ -22,7 +22,7 @@ Consent of secretary concerned.—An interest in public lands, withdrawn or othe
 
 &emsp;(3)
 
-Procedures and methods.—The Secretary of Defense shall carry out a transfer under this chapter in accordance with the procedures and methods required of the Administrator of General Services by section 545(a) and (b) of this title.
+Procedures and methods.—The Secretary of Defense shall carry out a transferunder this chapter in accordance with the procedures and methods required of the Administrator of General Services by section 545(a) and (b) of this title.
 
 (b)
 

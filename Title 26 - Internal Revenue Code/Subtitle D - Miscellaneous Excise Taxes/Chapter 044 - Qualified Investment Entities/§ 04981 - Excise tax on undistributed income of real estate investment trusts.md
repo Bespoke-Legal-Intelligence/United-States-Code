@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “capital gain net income” has the meaning given such term by section 1222(9) (determined by treating the calendar year as the trust's taxable year).
+&emsp;&emsp;The term “capital gain net income” has the meaning given such term by section1222(9) (determined by treating the calendar year as the trust's taxable year).
 
 #### (B) Reduction for net ordinary loss
 

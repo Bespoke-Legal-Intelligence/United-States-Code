@@ -26,21 +26,21 @@ For purposes of this section—
 
 #### (2) Tax-exempt use property
 
-&emsp;The term “tax-exempt use property” has the meaning given to such term by section 168(h), except that such section shall be applied—
+#### (A) In general
 
-&emsp;&emsp;(A) without regard to paragraphs (1)(C) and (3) thereof, and
+&emsp;&emsp;The term “tax-exempt use property” has the meaning given to such term by section 168(h), except that such section shall be applied—
 
-&emsp;&emsp;(B) as if property described in—
+&emsp;&emsp;&emsp;(i) without regard to paragraphs (1)(C) and (3) thereof, and
 
-&emsp;&emsp;&emsp;(i) section 167(f)(1)(B),
+&emsp;&emsp;&emsp;(ii) as if section 197 intangible property (as defined in section 197), and property described in paragraph (1)(B) or (2) of section 167(f), were tangible property.
 
-&emsp;&emsp;&emsp;(ii) section 167(f)(2), and
+#### (B) Exception for partnerships
 
-&emsp;&emsp;&emsp;(iii) section 197 intangible,
+&emsp;&emsp;Such term shall not include any property which would (but for this subparagraph) be tax-exempt use property solely by reason of section 168(h)(6).
 
-> &emsp;&emsp;were tangible property.
+#### (C) Cross reference
 
-> &emsp;Such term shall not include property which would (but for this sentence) be tax-exempt use property solely by reason of section 168(h)(6) if any credit is allowable under section 42 or 47 with respect to such property.
+&emsp;&emsp;<b>For treatment of partnerships as leases to which section 168(h) applies, see section 7701(e).</b>
 
 #### (d) Exception for certain leases
 
@@ -50,7 +50,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (A) In general
 
-&emsp;&emsp;A lease of property meets the requirements of this paragraph if (at any time during the lease term) not more than an allowable amount of funds are—
+&emsp;&emsp;A lease of property meets the requirements of this paragraph if (at all times during the lease term) not more than an allowable amount of funds are—
 
 &emsp;&emsp;&emsp;(i) subject to any arrangement referred to in subparagraph (B), or
 
@@ -212,7 +212,31 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) provide for the determination of the allocation of interest expense for purposes of this section.
 
-(Added Pub. L. 108–357, title VIII, §848(a), Oct. 22, 2004, 118 Stat. 1602.)
+(Added Pub. L. 108–357, title VIII, §848(a), Oct. 22, 2004, 118 Stat. 1602; amended Pub. L. 110–172, §7(c), Dec. 29, 2007, 121 Stat. 2482.)
+
+#### Amendments
+
+2007—Subsec. (c)(2). Pub. L. 110–172, §7(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘tax-exempt use property’ has the meaning given to such term by section 168(h), except that such section shall be applied—
+
+&emsp;“(A) without regard to paragraphs (1)(C) and (3) thereof, and
+
+&emsp;“(B) as if property described in—
+
+&emsp;&emsp;“(i) section 167(f)(1)(B),
+
+&emsp;&emsp;“(ii) section 167(f)(2), and
+
+&emsp;&emsp;“(iii) section 197 intangible,
+
+> &emsp;were tangible property.
+
+> Such term shall not include property which would (but for this sentence) be tax-exempt use property solely by reason of section 168(h)(6) if any credit is allowable under section 42 or 47 with respect to such property.”
+
+Subsec. (d)(1)(A). Pub. L. 110–172, §7(c)(2), in introductory provisions, substituted “(at all times during the lease term)” for “(at any time during the lease term)”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
 
 #### Effective Date
 

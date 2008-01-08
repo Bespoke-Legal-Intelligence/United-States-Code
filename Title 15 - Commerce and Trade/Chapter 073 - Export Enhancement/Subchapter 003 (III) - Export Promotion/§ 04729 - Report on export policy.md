@@ -54,7 +54,3 @@ Sections 5821 and 5822 of title 22, referred to in subsec. (b)(1)(H), was, in th
 
 1995—Subsec. (b)(1)(G) to (J). Pub. L. 104–66 added subpars. (G) to (J).
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

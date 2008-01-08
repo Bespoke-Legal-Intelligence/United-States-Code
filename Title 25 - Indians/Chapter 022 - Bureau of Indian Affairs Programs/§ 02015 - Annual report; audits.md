@@ -14,7 +14,7 @@ The annual budget request for the education programs of the Bureau, as submitted
 
 #### (c) Financial and compliance audits
 
-The Inspector General of the Department of the Interior shall establish a system to ensure that financial and compliance audits, based upon the extent to which a school described in subsection (a) of this section has complied with the local financial plan under section 2010 of thistitle, are conducted of each Bureau-operated school at least once every 3 years.
+The Inspector General of the Department of the Interior shall establish a system to ensure that financial and compliance audits, based upon the extent to which a school described in subsection (a) of this section has complied with the local financial plan under section 2010 of this title, are conducted of each Bureau-operated school at least once every 3 years.
 
 #### (d) Administrative evaluation of schools
 
@@ -26,7 +26,7 @@ The Director shall, at least once every 3 to 5 years, conduct a comprehensive ev
 
 A prior section 2015, Pub. L. 95–561, title XI, §1135, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4010, related to uniform education procedures and practices, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2015, Pub. L. 95–561, title XI, §1135, Nov. 1, 1978, 92 Stat. 2327, related to recruitment policy for Indian educators and promotion plan for Bureau employees, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2015, Pub. L. 95–561, title XI, §1135, Nov. 1, 1978, 92 Stat. 2327, related to recruitmentpolicy for Indian educators and promotion plan for Bureau employees, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “2005(c)”.</i>
 

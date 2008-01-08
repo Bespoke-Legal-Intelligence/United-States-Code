@@ -40,7 +40,7 @@
 
 #### (4) Waiver
 
-&emsp;The Administrator may waive such regulations or rules applicable to the provisions ofassistance under the sections referred to in paragraph (1) as the Administrator determines are necessary to carry out the pilot program under this section.
+&emsp;The Administrator may waive such regulations or rules applicable to the provisions of assistance under the sections referred to in paragraph (1) as the Administrator determines are necessary to carry out the pilot program under this section.
 
 #### (b) Report
 

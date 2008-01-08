@@ -12,7 +12,7 @@
 
 #### (3) Certification
 
-&emsp;Not later than April 1, 2005, the Administrator shall, from among the low-cost poverty measurement methods developed under paragraph (1), certify no fewer than two such methods as approved methods for measuring the poverty levels of current, incoming, or prospective clients of microenterprise institutions for purposes of assistance under section 2211a of this title.
+&emsp;Not later than April 1, 2005, the Administrator shall, from among the low-cost povertymeasurement methods developed under paragraph (1), certify no fewer than two such methods as approved methods for measuring the poverty levels of current, incoming, or prospective clients of microenterprise institutions for purposes of assistance under section 2211a of this title.
 
 #### (b) Application
 

@@ -11,6 +11,8 @@
 |  |  |
 | :--- | ---: |
 | [16611\.](Subchapter%20001%20%28I%29%20-%20General%20Principles%20and%20Reports/%C2%A7%2016611%20-%20Responsibilities%2C%20policies%2C%20and%20plans.md) | Responsibilities, policies, and plans. |
+| [16611a.](Subchapter%20001%20%28I%29%20-%20General%20Principles%20and%20Reports/%C2%A7%2016611a%20-%20NASA%27s%20contribution%20to%20innovation.md) | NASA's contribution to innovation. |
+| [16611b.](Subchapter%20001%20%28I%29%20-%20General%20Principles%20and%20Reports/%C2%A7%2016611b%20-%20NASA%20annual%20budget%20justification.md) | NASA annual budget justification. |
 | [16612\.](Subchapter%20001%20%28I%29%20-%20General%20Principles%20and%20Reports/%C2%A7%2016612%20-%20Reports.md) | Reports. |
 | [16613\.](Subchapter%20001%20%28I%29%20-%20General%20Principles%20and%20Reports/%C2%A7%2016613%20-%20Baselines%20and%20cost%20controls.md) | Baselines and cost controls. |
 | [16614\.](Subchapter%20001%20%28I%29%20-%20General%20Principles%20and%20Reports/%C2%A7%2016614%20-%20Foreign%20launch%20vehicles.md) | Foreign launch vehicles. |
@@ -47,6 +49,7 @@
 | [16655\.](Subchapter%20003%20%28III%29%20-%20Science/Part%20A%20-%20General%20Provisions/%C2%A7%2016655%20-%20Microgravity%20research.md) | Microgravity research. |
 | [16656\.](Subchapter%20003%20%28III%29%20-%20Science/Part%20A%20-%20General%20Provisions/%C2%A7%2016656%20-%20Coordination%20with%20the%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Coordination with the National Oceanic and Atmospheric Administration. |
 | [16657\.](Subchapter%20003%20%28III%29%20-%20Science/Part%20A%20-%20General%20Provisions/%C2%A7%2016657%20-%20Review%20and%20report%20on%20Headquarters%20Earth-Sun%20System%20Applied%20Sciences%20Program.md) | Review and report on Headquarters Earth-Sun System Applied Sciences Program. |
+| [16658\.](Subchapter%20003%20%28III%29%20-%20Science/Part%20A%20-%20General%20Provisions/%C2%A7%2016658%20-%20Basic%20research%20enhancement.md) | Basic research enhancement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -84,6 +87,7 @@
 |  |  |
 | :--- | ---: |
 | [16711\.](Subchapter%20004%20%28IV%29%20-%20Aeronautics/Part%20A%20-%20Governmental%20Interest%20in%20Aeronautics%20Research%20and%20Development/%C2%A7%2016711%20-%20Governmental%20interest.md) | Governmental interest. |
+| [16712\.](Subchapter%20004%20%28IV%29%20-%20Aeronautics/Part%20A%20-%20Governmental%20Interest%20in%20Aeronautics%20Research%20and%20Development/%C2%A7%2016712%20-%20Aeronautics.md) | Aeronautics. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -203,8 +207,6 @@
 | [16850\.](Subchapter%20008%20%28VIII%29%20-%20Human%20Space%20Flight%20Independent%20Investigation%20Commission/%C2%A7%2016850%20-%20Reporting%20requirements%20and%20termination.md) | Reporting requirements and termination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 
 ---

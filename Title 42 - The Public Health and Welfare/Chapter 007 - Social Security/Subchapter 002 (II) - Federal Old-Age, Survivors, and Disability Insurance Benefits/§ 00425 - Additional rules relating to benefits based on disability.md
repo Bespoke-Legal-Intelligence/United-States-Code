@@ -6,13 +6,13 @@ If the Commissioner of Social Security, on the basis of information obtained by 
 
 #### (b) Continued payments during rehabilitation program
 
-Notwithstanding any other provision of this subchapter, payment to an individual of benefits based on disability (as described in the first sentence of subsection (a) of this section) shall not be terminated or suspended because the physical or mental impairment, on which the individual's entitlement to such benefits is based, has or may have ceased, if—
+Notwithstanding any other provision of this subchapter, payment to an individual of benefitsbased on disability (as described in the first sentence of subsection (a) of this section) shall not be terminated or suspended because the physical or mental impairment, on which the individual's entitlement to such benefits is based, has or may have ceased, if—
 
 &emsp;(1) such individual is participating in a program consisting of the Ticket to Work and Self-Sufficiency Program under section 1320b–19 of this title or another program of vocational rehabilitation services, employment services, or other support services approved by the Commissioner of Social Security, and
 
 &emsp;(2) the Commissioner of Social Security determines that the completion of such program, or its continuation for a specified period of time, will increase the likelihood that such individual may (following his participation in such program) be permanently removed from the disability benefit rolls.
 
-(Aug. 14, 1935, ch. 531, title II, §225, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 817; amended Pub. L. 85–840, title II, §205(<i>o</i>), Aug. 28, 1958, 72 Stat. 1025; Pub. L. 89–97, title III, §306(c)(15), July 30, 1965, 79 Stat. 373; Pub. L. 90–248, title I, §§104(d)(5), 158(c)(9), Jan. 2, 1968, 81Stat. 833, 869; Pub. L. 92–603, title I, §107(b)(5), Oct. 30, 1972, 86 Stat. 1343; Pub. L. 96–265, title III, §301(a), June 9, 1980, 94 Stat. 449; Pub. L. 98–21, title III, §309(p), Apr. 20, 1983, 97 Stat. 117; Pub. L. 101–508, title V, §5113(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(3)(A), Aug. 15, 1994, 108 Stat. 1478, 1494; Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853; Pub. L. 106–170, title I, §101(b)(1)(D), Dec. 17, 1999, 113 Stat. 1873.)
+(Aug. 14, 1935, ch. 531, title II, §225, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 817; amended Pub. L. 85–840, title II, §205(<i>o</i>), Aug. 28, 1958, 72 Stat. 1025; Pub. L. 89–97, title III, §306(c)(15), July 30, 1965, 79 Stat. 373; Pub. L. 90–248, title I, §§104(d)(5), 158(c)(9), Jan. 2, 1968, 81 Stat. 833, 869; Pub. L. 92–603, title I, §107(b)(5), Oct. 30, 1972, 86 Stat. 1343; Pub. L. 96–265, title III, §301(a), June 9, 1980, 94 Stat. 449; Pub. L. 98–21, title III, §309(p), Apr. 20, 1983, 97 Stat. 117; Pub. L. 101–508, title V, §5113(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(3)(A), Aug. 15, 1994, 108 Stat. 1478, 1494; Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853; Pub. L. 106–170, title I, §101(b)(1)(D), Dec. 17, 1999, 113 Stat. 1873.)
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Referral and monitoring agencies.—Section 225(c)(5) of the Social Security Act
 
 &emsp;“(iii)
 
-Termination after 36 months.—Section 225(c)(7) of the Social Security Act \[subsec. (c)(7) of this section\] (added by this subsection) shall apply with respect to benefits based on disability (as so defined) for months beginning after 180 days after the date of the enactment of this Act.”
+Termination after 36 months.—Section 225(c)(7) of the Social Security Act \[subsec. (c)(7) ofthis section\] (added by this subsection) shall apply with respect to benefits based on disability (as so defined) for months beginning after 180 days after the date of the enactment of this Act.”
 
 #### Effective Date of 1990 Amendment
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 98–21 applicable only with respect to monthly payments pa
 
 #### Effective Date of 1980 Amendment
 
-Section 301(c) of Pub. L. 96–265 provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall become effective on the first day of the sixth month which begins after the date of the enactment of this Act \[June 9,1980\], and shall apply with respect to individuals whose disability has not been determined to have ceased prior to such first day.”
+Section 301(c) of Pub. L. 96–265 provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall become effective on the first day of the sixth month which begins after the date of the enactment of this Act \[June 9, 1980\], and shall apply with respect to individuals whose disability has not been determined to have ceased prior to such first day.”
 
 #### Effective Date of 1972 Amendment
 

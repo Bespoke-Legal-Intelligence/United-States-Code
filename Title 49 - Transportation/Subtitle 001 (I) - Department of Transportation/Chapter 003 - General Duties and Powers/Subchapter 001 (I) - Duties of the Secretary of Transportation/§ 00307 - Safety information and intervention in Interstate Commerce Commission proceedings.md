@@ -48,7 +48,7 @@ In subsection (b), the words “person applying for permanent authority to provi
 
 In subsection (c)(1), the words “providing transportation or freight forwarder service subject to its jurisdiction” are inserted for clarity.
 
-Subsection (c)(2) is substituted for 49:1653(e)(3) for clarity and to conform to subtitle IV of the revised title. The words “freight forwarder service” are notused because the law does not provide for temporary authority for freight forwarders.
+Subsection (c)(2) is substituted for 49:1653(e)(3) for clarity and to conform to subtitle IV of the revised title. The words “freight forwarder service” are not used because the law does not provide for temporary authority for freight forwarders.
 
 In subsection (c)(3) and (4), the word “finding” is substituted for “determination” to conform to subtitle IV of the revised title.
 

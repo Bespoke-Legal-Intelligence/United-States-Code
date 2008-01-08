@@ -6,7 +6,7 @@ Notwithstanding any other provision of law—
 
 &emsp;(1) subject to subsection (b) of this section, the Sergeant at Arms of the Senate and the head of an executive agency (as defined in section 105 of title 5) may enter into a memorandum of understanding under which the agency may provide facilities, equipment, supplies, personnel, and other support services for the use of the Senate during an emergency situation; and
 
-&emsp;(2) the Sergeant at Arms of the Senate and the head of the agency may take any actionnecessary to carry out the terms of the memorandum of understanding.
+&emsp;(2) the Sergeant at Arms of the Senate and the head of the agency may take any action necessary to carry out the terms of the memorandum of understanding.
 
 #### (b) Consistency with Senate Procurement Regulations
 

@@ -20,7 +20,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (4) Future obligation of Fund
 
-&emsp;In the case of a completed remedial action pursuant to an agreement described in paragraph (1), the Fund shall be subject to an obligation for subsequent remedial actions at the same facility but only to the extent that suchsubsequent actions are necessary by reason of the failure of the original remedial action. Such obligation shall be in a proportion equal to, but not exceeding, the proportion contributed by the Fund for the original remedial action. The Fund's obligation for such future remedial action may be met through Fund expenditures or through payment, following settlement or enforcement action, by parties who were not signatories to the original agreement.
+&emsp;In the case of a completed remedial action pursuant to an agreement described in paragraph (1), the Fund shall be subject to an obligation for subsequent remedial actions at the same facility but only to the extent that such subsequent actions are necessary by reason of the failure of the original remedial action. Such obligation shall be in a proportion equal to, but not exceeding, the proportion contributed by the Fund for the original remedial action. The Fund's obligation for such future remedial action may be met through Fund expenditures or through payment, following settlement or enforcement action, by parties who were not signatories to the original agreement.
 
 #### (c) Effect of agreement
 
@@ -70,7 +70,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (1) Notice
 
-&emsp;Whenever the President determines that a period of negotiation under this subsectionwould facilitate an agreement with potentially responsible parties for taking response action (including any action described in section 9604(b) of this title) and would expedite remedial action, the President shall so notify all such parties and shall provide them with information concerning each of the following:
+&emsp;Whenever the President determines that a period of negotiation under this subsection would facilitate an agreement with potentially responsible parties for taking response action (including any action described in section 9604(b) of this title) and would expedite remedial action, the President shall so notify all such parties and shall provide them with information concerning each of the following:
 
 &emsp;&emsp;(A) The names and addresses of potentially responsible parties (including owners and operators and other persons referred to in section 9607(a) of this title), to the extent such information is available.
 
@@ -110,7 +110,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (D) Costs
 
-&emsp;&emsp;The costs incurred by the President in producing the nonbinding preliminary allocation of responsibility shall be reimbursed bythe potentially responsible parties whose offer is accepted by the President. Where an offer under this section is not accepted, such costs shall be considered costs of response.
+&emsp;&emsp;The costs incurred by the President in producing the nonbinding preliminary allocation of responsibility shall be reimbursed by the potentially responsible parties whose offer is accepted by the President. Where an offer under this section is not accepted, such costs shall be considered costs of response.
 
 #### (E) Decision to reject offer
 
@@ -244,7 +244,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (D) Alternative payment methods
 
-&emsp;&emsp;If the President determines that a person is unable to pay its total settlement amount at the time of settlement, the President shall consider such alternative payment methods as may be necessary or appropriate.
+&emsp;&emsp;If the President determines that a person is unable to pay its total settlement amountat the time of settlement, the President shall consider such alternative payment methods as may be necessary or appropriate.
 
 #### (8) Additional conditions for expedited settlements
 
@@ -306,7 +306,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (3) Consideration of comments
 
-&emsp;The head of the department or agency shall consider any comments filed under paragraph (2) in determining whether or not to consent to the proposed settlement and may withdraw or withhold consent to the proposed settlement if such comments disclose facts or considerations which indicate the proposed settlement is inappropriate, improper, or inadequate.
+&emsp;The head of the department or agency shall consider any comments filed under paragraph\(2) in determining whether or not to consent to the proposed settlement and may withdraw or withhold consent to the proposed settlement if such comments disclose facts or considerations which indicate the proposed settlement is inappropriate, improper, or inadequate.
 
 #### (j) Natural resources
 

@@ -20,7 +20,7 @@ Funds are hereby authorized to be appropriated for any fiscal year in such amoun
 
 The Secretary of Agriculture shall provide the Secretary of Defense with the technical assistance in the administration of the school lunch programs authorized by this section.
 
-(June 4, 1946, ch. 281, §20, formerly §22, as added Pub. L. 95–561, title XIV, §1408(a), Nov. 1, 1978, 92Stat. 2368; renumbered §20 and amended Pub. L. 99–500, title III, §§328(a), 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§328(a), 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §20 and amended Pub. L. 99–661, div. D, title II, §4208(a), title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 101–147, title III, §312(2), Nov. 10, 1989, 103 Stat. 916.)
+(June 4, 1946, ch. 281, §20, formerly §22, as added Pub. L. 95–561, title XIV, §1408(a), Nov. 1, 1978, 92 Stat. 2368; renumbered §20 and amended Pub. L. 99–500, title III, §§328(a), 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§328(a), 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §20 and amended Pub. L. 99–661, div. D, title II, §4208(a), title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 101–147, title III, §312(2), Nov. 10, 1989, 103 Stat. 916.)
 
 #### Codification
 

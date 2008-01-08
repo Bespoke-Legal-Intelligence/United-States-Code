@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(E) the nation in whose armed forces the sender is a member has agreed to assume all international postal transportation charges incurred.
 
-(b) There shall be transported by air, between Armed Forces post offices which are located outside the 48 contiguous States of the United States or between any such Armed Forces post office and the point of embarkation or debarkation within the United States, the territories and possessions of the United States in the Pacific area, the Commonwealth of Puerto Rico, or the Virgin Islands, on a space available basis, on scheduled United States air carriers at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers, the following categories of mail matter:
+(b) There shall be transported by air, between Armed Forces post offices which are located outside the 48 contiguous States of the United States or between any such Armed Forces post office and the point of embarkation or debarkation within the United States, the territories and possessions of the United States in the Pacific area, the Commonwealth of Puerto Rico, or the Virgin Islands, on a space available basis, onscheduled United States air carriers at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers, the following categories of mail matter:
 
 &emsp;(1)(A) letter mail or sound- or video-recorded communications having the character of personal correspondence;
 
@@ -68,7 +68,7 @@ Subsec. (g). Pub. L. 108–375, §1071(b), added subsec. (g).
 
 1994—Subsecs. (b), (c). Pub. L. 103–272 substituted “section 41901” for “section 1376”.
 
-1993—Subsec. (a)(1). Pub. L. 103–160, in introductory provisions, inserted “an individual who is” before “a member” and “or a civilian, otherwise authorized to use postal services at Armed Forces installations, who holds a position or performs one or more functions in support of military operations, as designated by the military theater commander,” after “section 101 of title 10,” and, in subpars. (A) and (B), substituted “such individual” for “the member”.
+1993—Subsec. (a)(1). Pub. L. 103–160, in introductory provisions, inserted “an individual who is” before “a member” and “or a civilian, otherwise authorized touse postal services at Armed Forces installations, who holds a position or performs one or more functions in support of military operations, as designated by the military theater commander,” after “section 101 of title 10,” and, in subpars. (A) and (B), substituted “such individual” for “the member”.
 
 1992—Subsec. (a)(1). Pub. L. 102–484 substituted “section 101 of title 10,” for “section 101(4) and (22) of title 10,” in introductory provisions.
 
@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 108–375, §1071(b), added subsec. (g).
 
 Subsec. (a)(1)(A). Pub. L. 101–510 substituted “sound- or video-recorded” for “sound-recorded”.
 
-Pub. L. 101–509, which directed that “, or temporarily deployed overseas for an operational contingency in arduous circumstances, as determined by the Secretaryof Defense” be inserted after “belligerent”, and that “or” be struck out the first time it appears, was executed by making the insertion as directed but by striking out “or” appearing before “serving with a friendly foreign force” to reflect the probable intent of Congress.
+Pub. L. 101–509, which directed that “, or temporarily deployed overseas for an operational contingency in arduous circumstances, as determined by the Secretary of Defense” be inserted after “belligerent”, and that “or” be struck out the first time it appears, was executed by making the insertion as directed but by striking out “or” appearing before “serving with a friendly foreign force” to reflect the probable intent of Congress.
 
 Pub. L. 101–384 inserted “engaged in temporary military operations under arduous circumstances,” before “or serving”.
 

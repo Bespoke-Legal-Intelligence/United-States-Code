@@ -32,7 +32,7 @@ Notice.—If the Administrator takes any action pursuant to this paragraph, the 
 
 #### (b) Judicial determinations in appropriate Federal district courts; civil penalties, separate violations
 
-The Administrator may bring a civil action in the appropriate United States district court to require compliance with any applicable requirement with an order issued under subsection (g) of this section, or with any schedule or other requirement imposed pursuant to a variance or exemption granted under section 300g–4 or 300g–5 of this title if—
+The Administrator may bring a civil action in the appropriate United States district court to require compliance with any applicable requirement, with an order issued under subsection (g) of this section, or with any schedule or other requirement imposed pursuant to a variance or exemption granted under section 300g–4 or 300g–5 of this title if—
 
 &emsp;(1) authorized under paragraph (1) or (2) of subsection (a) of this section, or
 

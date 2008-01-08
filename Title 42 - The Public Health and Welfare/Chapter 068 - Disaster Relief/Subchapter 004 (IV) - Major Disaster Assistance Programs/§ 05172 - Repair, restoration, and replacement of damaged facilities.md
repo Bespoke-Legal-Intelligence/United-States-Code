@@ -214,7 +214,7 @@
 
 &emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner's responsibility and not the contractor's responsibility.
 
-(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §§612(c), 689h, Oct. 4, 2006, 120 Stat. 1410, 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942.)
+(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II,§205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §§612(c), 689h, Oct. 4, 2006, 120 Stat. 1410, 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942.)
 
 #### References in Text
 
@@ -266,13 +266,13 @@ Special rule.—In any case in which the facility being repaired, restored, reco
 
 Subsec. (f). Pub. L. 106–390, §205(e), struck out subsec. (f) which set out various associated expenses, including necessary and extraordinary costs, and costs of using the National Guard and prison labor.
 
-#### Effective Date of 2000 Amendment
-
-Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect.”
-
 #### Change of Name
 
 “Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for “Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsecs. (c)(1)(C)(ii), (2)(C)(ii), (d)(1), and (e)(3)(A) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
+#### Effective Date of 2000 Amendment
+
+Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect.”
 
 #### Transfer of Functions
 

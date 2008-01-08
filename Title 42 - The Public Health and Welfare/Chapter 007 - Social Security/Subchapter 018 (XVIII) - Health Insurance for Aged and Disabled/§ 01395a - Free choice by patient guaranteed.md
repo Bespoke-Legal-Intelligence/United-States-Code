@@ -42,7 +42,7 @@ Any individual entitled to insurance benefits under this subchapter may obtain h
 
 &emsp;&emsp;&emsp;(iv) acknowledges that Medigap plans under section 1395ss of this title do not, and other supplemental insurance plans may elect not to, make payments for such items and services because payment is not made under this subchapter; and
 
-&emsp;&emsp;&emsp;(v) acknowledges that the medicare beneficiary has the right to have such itemsor services provided by other physicians or practitioners for whom payment would be made under this subchapter.
+&emsp;&emsp;&emsp;(v) acknowledges that the medicare beneficiary has the right to have such items or services provided by other physicians or practitioners for whom payment would be made under this subchapter.
 
 > &emsp;&emsp;Such contract shall also clearly indicate whether the physician or practitioner is excluded from participation under the medicare program under section 1320a–7 of this title.
 

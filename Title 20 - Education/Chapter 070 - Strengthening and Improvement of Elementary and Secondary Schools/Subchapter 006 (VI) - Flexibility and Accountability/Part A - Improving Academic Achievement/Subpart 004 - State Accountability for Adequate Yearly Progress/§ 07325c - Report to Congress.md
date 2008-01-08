@@ -20,3 +20,7 @@ Section 7331, Pub. L. 89–10, title VI, §6201, as added Pub. L. 103–382, tit
 
 Section 7332, Pub. L. 89–10, title VI, §6202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3710, related to State applications. See section 7213a of this title.
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

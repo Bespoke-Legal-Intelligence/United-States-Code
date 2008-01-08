@@ -12,7 +12,7 @@ Nothing in this chapter shall be construed to authorize the Attorney General or 
 
 Nothing in this chapter shall be construed to authorize the Attorney General or the Federal law enforcement community—
 
-&emsp;(1) to condition the availability or amount of Federal law enforcement assistance uponthe adoption by an applicant for such assistance of, or
+&emsp;(1) to condition the availability or amount of Federal law enforcement assistance upon the adoption by an applicant for such assistance of, or
 
 &emsp;(2) to deny or discontinue such assistance upon the failure of such applicant to adopt,
 

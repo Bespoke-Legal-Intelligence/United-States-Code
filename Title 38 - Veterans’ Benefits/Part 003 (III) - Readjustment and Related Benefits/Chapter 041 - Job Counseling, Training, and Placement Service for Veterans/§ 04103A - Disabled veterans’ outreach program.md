@@ -40,7 +40,7 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(B)\], substituted “incl
 
 1992—Subsec. (a)(1). Pub. L. 102–568, §501, substituted “specialist for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.” for “specialist for each 5,300 veterans of the Vietnam era and disabled veterans residing in such State.”
 
-Subsec. (b)(1)(A). Pub. L. 102–568, §503, amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Services to disabled veterans of the Vietnam era who are participating in or have completed a program of vocational rehabilitation under chapter 31 of this title.”
+Subsec. (b)(1)(A). Pub. L. 102–568, §503, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Services to disabled veterans of the Vietnam era who are participating in or have completed a program of vocational rehabilitation under chapter 31 of this title.”
 
 1991—Pub. L. 102–83, §5(a), renumbered section 2003A of this title as this section.
 
@@ -72,7 +72,7 @@ Subsec. (c)(6). Pub. L. 100–323, §7(b)(2), inserted “(including the program
 
 Subsec. (c)(9), (10). Pub. L. 100–323, §7(b)(3), added pars. (9) and (10).
 
-Subsec. (d). Pub. L. 100–323, §2(e)(1)(B), struck out subsec. (d) which read as follows: “The Secretary of Labor shall administer the program provided for by this section through the Assistant Secretary of Labor for Veterans’ Employment. The Secretary shall monitor the appointment of disabled veterans’ outreach program specialists to ensure compliance with the provisions of subsection (a)(2) of this section with respect to the employment of such specialists.”
+Subsec. (d). Pub. L. 100–323, §2(e)(1)(B), struck out subsec. (d) which read as follows: “The Secretary ofLabor shall administer the program provided for by this section through the Assistant Secretary of Labor for Veterans’ Employment. The Secretary shall monitor the appointment of disabled veterans’ outreach program specialists to ensure compliance with the provisions of subsection (a)(2) of this section with respect to the employment of such specialists.”
 
 1982—Subsec. (a)(1). Pub. L. 97–306, §305(a)(1), (3), inserted “, acting through the Assistant Secretary for Veterans’ Employment,” after “Secretary of Labor”, and substituted “available for use in” for “available to”.
 

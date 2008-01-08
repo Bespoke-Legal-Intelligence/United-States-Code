@@ -254,7 +254,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (A) Terminally ill individual
 
-&emsp;&emsp;The term “terminally ill individual” means an individual who has been certified by a physician as having an illness or physical condition which can reasonably be expected to result in death in 24 months or less after the date of the certification.
+&emsp;&emsp;The term “terminally ill individual” means an individual who has been certifiedby a physician as having an illness or physical condition which can reasonably be expected to result in death in 24 months or less after the date of the certification.
 
 #### (B) Chronically ill individual
 
@@ -422,7 +422,7 @@ Subsec. (i)(4). Pub. L. 108–121, §110(b)(1), added par. (4).
 
 2002—Subsec. (i). Pub. L. 107–134 added subsec. (i).
 
-1997—Subsec. (a)(2). Pub. L. 105–34, §1084(b)(2), inserted at end “The term ‘other amounts’ in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtedness with respect to such contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).”
+1997—Subsec. (a)(2). Pub. L. 105–34, §1084(b)(2), inserted at end “The term ‘other amounts’ in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtedness with respect tosuch contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).”
 
 Subsec. (h). Pub. L. 105–34, §1528(a), added subsec. (h).
 
@@ -498,7 +498,7 @@ Waiver of limitations.—If refund or credit of any overpayment of tax resulting
 
 #### Effective Date of 1997 Amendment
 
-Section 1084(d) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6010(<i>o</i>)(3)(B), July 22, 1998, 112 Stat. 816, provided that: “The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract.”
+Section 1084(d) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6010(<i>o</i>)(3)(B), July 22, 1998, 112 Stat. 816, provided that: “The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract\(within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract.”
 
 Section 1528(b) of Pub. L. 105–34, as amended by Pub. L. 107–15, §2, June 5, 2001, 115 Stat. 37, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 1996, with respect to individuals dying after such date, and to amounts received in taxable years beginning after December 31, 2001, with respect to individuals dying on or before December 31, 1996.”
 

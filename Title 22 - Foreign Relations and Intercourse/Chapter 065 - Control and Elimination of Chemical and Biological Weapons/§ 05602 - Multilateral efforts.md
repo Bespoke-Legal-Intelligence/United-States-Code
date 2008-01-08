@@ -22,7 +22,7 @@ It is also the policy of the United States to strengthen efforts to control chem
 
 &emsp;(3) to implement paragraph (2) by proposing steps complementary to, and not mutually exclusive of, existing multilateral efforts seeking a verifiable ban on chemical weapons, such as the establishment of—
 
-&emsp;&emsp;(A) a harmonized list of export control rules and regulations to prevent relativecommercial advantage and disadvantages accruing to Australia Group members,
+&emsp;&emsp;(A) a harmonized list of export control rules and regulations to prevent relative commercial advantage and disadvantages accruing to Australia Group members,
 
 &emsp;&emsp;(B) liaison officers to the Australia Group's coordinating entity from within the diplomatic missions,
 

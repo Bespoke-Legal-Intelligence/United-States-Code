@@ -40,7 +40,7 @@ The Administrator may establish a research program which covers a unique range o
 
 #### (2) Approach
 
-&emsp;The Administrator may establish a program of competitively awarded grants available to teams of researchers that may include the participation of individuals from universities, industry, and government for the conduct of this research.
+&emsp;The Administrator may establish a program of competitively awarded grants available toteams of researchers that may include the participation of individuals from universities, industry, and government for the conduct of this research.
 
 #### (g) Mars aircraft research
 

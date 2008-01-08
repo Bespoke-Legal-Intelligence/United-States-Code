@@ -12,7 +12,7 @@ Definition.—In this section, “law enforcement personnel” means individuals
 
 (b)
 
-Protection Against Violence and Piracy.—The Under Secretary shall prescribe regulations to protect passengers and property onan aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Under Secretary shall—
+Protection Against Violence and Piracy.—The Under Secretary shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Under Secretary shall—
 
 &emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
 
@@ -60,11 +60,11 @@ Authorizing Individuals To Carry Firearms and Make Arrests.—With the approval 
 
 (e)
 
-Exclusive Responsibility Over Passenger Safety.—The Under Secretary has the exclusive responsibility to direct law enforcement activity related to the safety of passengers on an aircraft involved in an offense under section 46502 of this title from the moment all external doors of the aircraft are closed following boarding until those doors are opened to allow passengers to leave the aircraft. When requested by the Under Secretary, other departments, agencies, and instrumentalities of the Government shall provide assistance necessary to carry out this subsection.
+Exclusive Responsibility Over Passenger Safety.—The Under Secretary has the exclusive responsibility to direct law enforcement activity related to the safety of passengers on an aircraft involved in an offense under section 46502 of this title from the moment all external doors of the aircraft are closed following boarding until those doors are opened to allowpassengers to leave the aircraft. When requested by the Under Secretary, other departments, agencies, and instrumentalities of the Government shall provide assistance necessary to carry out this subsection.
 
 (f)
 
-Government and Industry Consortia.—The Under Secretary may establish at airportssuch consortia of government and aviation industry representatives as the Under Secretary may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
+Government and Industry Consortia.—The Under Secretary may establish at airports such consortia of government and aviation industry representatives as the Under Secretary may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (g)
 
@@ -128,7 +128,7 @@ Airport perimeter screening.—The Under Secretary—
 
 &emsp;&emsp;&emsp;(i) all persons providing services with respect to aircraft providing passenger air transportation or intrastate air transportation and facilities of such persons at an airport in the United States described in section 44903(c);
 
-&emsp;&emsp;&emsp;(ii) all supplies, including catering and passenger amenities, placed aboard such aircraft, including the sealing of supplies to ensure easy visual detection of tampering; and
+&emsp;&emsp;&emsp;(ii) all supplies, including catering and passenger amenities, placed aboard such aircraft, including the sealing of suppliesto ensure easy visual detection of tampering; and
 
 &emsp;&emsp;&emsp;(iii) all persons providing such supplies and facilities of such persons;
 
@@ -154,31 +154,47 @@ Use of biometric technology in airport access control systems.—In issuing guid
 
 &emsp;(6)
 
-Use of biometric technology for law enforcement officer travel.—
+Use of biometric technology for armed law enforcement travel.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 120 days after the date of enactment of this paragraph, the Assistant Secretary, in consultation with the Attorney General, shall—
+In general.—Not later than 18 months after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Secretary of Homeland Security, in consultation with the Attorney General, shall—
 
-&emsp;&emsp;&emsp;(i) establish a law enforcement officer travel credential that incorporates biometric identifier technology and is uniform across all Federal, State, local, tribal, and territorial government law enforcement agencies;
+&emsp;&emsp;&emsp;(i) implement this section <sup>1</sup> by publication in the Federal Register; and
 
-&emsp;&emsp;&emsp;(ii) establish a process by which the travel credential will be used to verify the identity of a Federal, State, local, tribal, or territorial law enforcement officer seeking to carry a weapon on board an aircraft, without unnecessarily disclosing to the public that the individual is a law enforcement officer;
-
-&emsp;&emsp;&emsp;(iii) establish procedures—
-
-&emsp;&emsp;&emsp;&emsp;(I) to ensure that only Federal, State, local, tribal, and territorial government law enforcement officers are issued a law enforcement travel credential;
-
-&emsp;&emsp;&emsp;&emsp;(II) to resolve failures to enroll, false matches, and false non-matches relating to use of the law enforcement travel credential; and
-
-&emsp;&emsp;&emsp;&emsp;(III) to invalidate any law enforcement travel credential that is lost, stolen, or no longer authorized for use;
-
-&emsp;&emsp;&emsp;(iv) begin issuance of the travel credential to each Federal, State, local, tribal, or territorial government law enforcement officer authorized by the Assistant Secretary to carry a weapon on board an aircraft; and
-
-&emsp;&emsp;&emsp;(v) take such other actions with respect to the travel credential as the Assistant Secretary considers appropriate.
+&emsp;&emsp;&emsp;(ii) establish a national registered armed law enforcement program, that shall be federally managed, for law enforcement officers needing to be armed when traveling by commercial aircraft.
 
 &emsp;&emsp;(B)
 
-Funding.—There is authorized to be appropriated such sums as may be necessary to carry out this paragraph.
+Program requirements.—The program shall—
+
+&emsp;&emsp;&emsp;(i) establish a credential or a system that incorporates biometric technology and other applicable technologies;
+
+&emsp;&emsp;&emsp;(ii) establish a system for law enforcement officers who need to be armed when traveling by commercial aircraft on a regular basis and for those who need to be armed during temporary travel assignments;
+
+&emsp;&emsp;&emsp;(iii) comply with other uniform credentialing initiatives, including the Homeland Security Presidential Directive 12;
+
+&emsp;&emsp;&emsp;(iv) apply to all Federal, State, local, tribal, and territorial government law enforcement agencies; and
+
+&emsp;&emsp;&emsp;(v) establish a process by which the travel credential or system may be used to verify the identity, using biometric technology, of a Federal, State, local, tribal, or territorial law enforcement officer seeking to carry a weapon on board a commercial aircraft, without unnecessarily disclosing to the public that the individual is a law enforcement officer.
+
+&emsp;&emsp;(C)
+
+Procedures.—In establishing the program, the Secretary shall develop procedures—
+
+&emsp;&emsp;&emsp;(i) to ensure that a law enforcement officer of a Federal, State, local, tribal, or territorial government flying armed has a specific reason for flying armed and the reason is within the scope of the duties of such officer;
+
+&emsp;&emsp;&emsp;(ii) to preserve the anonymity of the armed law enforcement officer;
+
+&emsp;&emsp;&emsp;(iii) to resolve failures to enroll, false matches, and false nonmatches relating to the use of the law enforcement travel credential or system;
+
+&emsp;&emsp;&emsp;(iv) to determine the method of issuance of the biometric credential to law enforcement officers needing to be armed when traveling by commercial aircraft;
+
+&emsp;&emsp;&emsp;(v) to invalidate any law enforcement travel credential or system that is lost, stolen, or no longer authorized for use;
+
+&emsp;&emsp;&emsp;(vi) to coordinate the program with the Federal Air Marshal Service, including the force multiplier program of the Service; and
+
+&emsp;&emsp;&emsp;(vii) to implement a phased approach to launching the program, addressing the immediate needs of the relevant Federal agent population before expanding to other law enforcement populations.
 
 &emsp;(7)
 
@@ -194,7 +210,7 @@ Biometric identifier.—The term “biometric identifier” means a technology t
 
 &emsp;&emsp;(C)
 
-Failure to enroll.—The term “failure to enroll” means the inability of an individual to enroll in a biometric identifier system due to an insufficiently distinctive biometric sample, the lack of a body part necessary to provide the biometric sample, a system design that makes it difficult to provide consistent biometric identifier information, or other factors.
+Failure to enroll.—The term “failure to enroll” means the inability of an individual to enroll in a biometric identifier system due to an insufficiently distinctive biometric sample, the lack of a body part necessaryto provide the biometric sample, a system design that makes it difficult to provide consistent biometric identifier information, or other factors.
 
 &emsp;&emsp;(D)
 
@@ -218,7 +234,7 @@ In general.—If the Under Secretary, after receiving the recommendations of the
 
 &emsp;(2)
 
-Usage.—If the Under Secretary grants authority under paragraph (1) for flight deckcrew members to carry a less-than-lethal weapon while engaged in providing air transportation or intrastate air transportation, the Under Secretary shall—
+Usage.—If the Under Secretary grants authority under paragraph (1) for flight deck crew members to carry a less-than-lethal weapon while engaged in providing air transportation or intrastate air transportation, the Under Secretary shall—
 
 &emsp;&emsp;(A) prescribe rules requiring that any such crew member be trained in the proper use of the weapon; and
 
@@ -278,7 +294,7 @@ Commencement of testing.—Not later than January 1, 2005, the Assistant Secreta
 
 &emsp;&emsp;&emsp;(ii)
 
-Assumption of function.—Not later than 180 days after completion of testing under clause (i), the Assistant Secretary, or the designee of the Assistant Secretary, shall begin to assume the performance of the passenger prescreening function of comparing passenger information to the automatic selectee and no fly lists and utilize all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government in performing that function.
+Assumption of function.—Not later than 180 days after completion of testingunder clause (i), the Assistant Secretary, or the designee of the Assistant Secretary, shall begin to assume the performance of the passenger prescreening function of comparing passenger information to the automatic selectee and no fly lists and utilize all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government in performing that function.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -384,7 +400,7 @@ Security procedures.—The Secretary of Defense, in consultation with the Secret
 
 Armed forces defined.—In this paragraph, the term “armed forces” has the meaning given that term by section 101(a)(4) of title 10.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 108–458, title IV, §§4011(a), 4012(a)(1), Dec. 17, 2004, 118 Stat. 3712, 3714.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 108–458, title IV, §§4011(a), 4012(a)(1), Dec. 17, 2004, 118 Stat. 3712, 3714; Pub. L. 110–53, title XVI, §1615(a), Aug. 3, 2007, 121 Stat. 486.)
 
 Historical and Revision Notes
 
@@ -436,7 +452,7 @@ In subsection (c)(1), the words “traveling in air transportation or intrastate
 
 In subsection (c)(2)(A), before clause (i), the words “under this section” are omitted as surplus. The words “or an amendment in an existing program” are substituted for “and may approve an amendment to a security program of an airport operator approved by the Administrator under subsection (b)” to eliminate unnecessary words. In clause (ii), the word “monetary” is substituted for “financial” for consistency.
 
-In subsection (e), the words “Notwithstanding any other provisions of law”, “the commission of”, “considered”, and “the moment when” before “such door” are omitted as surplus. The words “to allow passengers to leave” are substituted for “disembarkation”, and the words “the aircraft” are added, for clarity. The words “departments, agencies, and instrumentalities of the Government” are substituted for “Federal departments and agencies” for consistency in the revised title and with other titles of the Code. The words “as may be . . . the purposes of” are omitted as surplus.
+In subsection (e), the words “Notwithstanding any other provisions of law”, “the commission of”, “considered”, and “the moment when” before “such door” are omitted as surplus. The words “to allow passengers to leave” are substituted for “disembarkation”, and the words “the aircraft” are added, for clarity. The words “departments, agencies, and instrumentalities of the Government” are substituted for “Federal departmentsand agencies” for consistency in the revised title and with other titles of the Code. The words “as may be . . . the purposes of” are omitted as surplus.
 
 #### References in Text
 
@@ -444,7 +460,7 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 
 The date of enactment of this subsection, referred to in subsec. (h)(4)(A), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
-The date of enactment of this paragraph, referred to in subsec. (h)(6)(A), is the date of enactment of Pub. L. 108–458, which was approved Dec. 17, 2004.
+The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (h)(6)(A), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
 
 The date of enactment of this paragraph, referred to in subsec. (i)(3), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
 
@@ -456,6 +472,8 @@ Section 607 of the Vision 100—Century of Aviation Reauthorization Act, referre
 
 #### Amendments
 
+2007—Subsec. (h)(6). Pub. L. 110–53 amended par. (6) generally. Prior to amendment, par. (6) related to establishment of a uniform law enforcement officer travel credential incorporating biometric identifier technology not later than 120 days after Dec. 17, 2004.
+
 2004—Subsec. (h)(4)(E). Pub. L. 108–458, §4011(a)(1), substituted “shall issue, not later than March 31, 2005, guidance for” for “may provide for”.
 
 Subsec. (h)(5) to (7). Pub. L. 108–458, §4011(a)(2), added pars. (5) to (7).
@@ -464,7 +482,7 @@ Subsec. (j)(2)(C) to (H). Pub. L. 108–458, §4012(a)(1), added subpars. (C) to
 
 2003—Subsec. (<i>l</i>). Pub. L. 108–176 added subsec. (<i>l</i>).
 
-2002—Subsec. (h). Pub. L. 107–296, §1406(3), redesignated subsec. (h), relating to limitation on liability foracts to thwart criminal violence or aircraft piracy, as (k).
+2002—Subsec. (h). Pub. L. 107–296, §1406(3), redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
 
 Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i).
 
@@ -536,7 +554,113 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, includingthe functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Strategic Plan To Test and Implement Advanced Passenger Prescreening System
+
+Pub. L. 110–53, title XVI, §1605, Aug. 3, 2007, 121 Stat. 481, provided that:
+
+“(a)
+
+In General.—Not later than 120 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security, in consultation with the Administrator of the Transportation Security Administration, shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate a plan that—
+
+&emsp;“(1) describes the system to be utilized by the Department of Homeland Security to assume the performance of comparing passenger information, as defined by the Administrator, to the automatic selectee and no-fly lists, utilizing appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government;
+
+&emsp;“(2) provides a projected timeline for each phase of testing and implementation of the system;
+
+&emsp;“(3) explains how the system will be integrated with the prescreening system for passengers on international flights; and
+
+&emsp;“(4) describes how the system complies with section 552a of title 5, United States Code.
+
+“(b) GAO
+
+Assessment.—Not later than 180 days after the date of enactment of this Act, the Comptroller General shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives that—
+
+&emsp;“(1) describes the progress made by the Transportation Security Administration in implementing the secure flight passenger pre-screening program;
+
+&emsp;“(2) describes the effectiveness of the current appeals process for passengers wrongly assigned to the no-fly and terrorist watch lists;
+
+&emsp;“(3) describes the Transportation Security Administration's plan to protect private passenger information and progress made in integrating the system with the pre-screening program for international flights operated by United States Customs and Border Protection;
+
+&emsp;“(4) provides a realistic determination of when the system will be completed; and
+
+&emsp;“(5) includes any other relevant observations or recommendations the Comptroller General deems appropriate.”
+
+#### Pilot Project To Test Different Technologies at Airport Exit Lanes
+
+Pub. L. 110–53, title XVI, §1613, Aug. 3, 2007, 121 Stat. 485, provided that:
+
+“(a)
+
+In General.—The Administrator of the Transportation Security Administration shall conduct a pilot program at not more than 2 airports to identify technologies to improve security at airport exit lanes.
+
+“(b)
+
+Program Components.—In conducting the pilot program under this section, the Administrator shall—
+
+&emsp;“(1) utilize different technologies that protect the integrity of the airport exit lanes from unauthorized entry;
+
+&emsp;“(2) work with airport officials to deploy such technologies in multiple configurations at a selected airport or airports at which some of the exits are not colocated with a screening checkpoint; and
+
+&emsp;“(3) ensure the level of security is at or above the level of existing security at the airport or airports where the pilot program is conducted.
+
+“(c)
+
+Reports.—
+
+&emsp;“(1)
+
+Initial briefing.—Not later than 180 days after the date of enactment of this Act \[Aug. 3, 2007\], the Administrator shall conduct a briefing to the congressional committees set forth in paragraph (3) that describes—
+
+&emsp;&emsp;“(A) the airport or airports selected to participate in the pilot program;
+
+&emsp;&emsp;“(B) the technologies to be tested;
+
+&emsp;&emsp;“(C) the potential savings from implementing the technologies at selected airport exits;
+
+&emsp;&emsp;“(D) the types of configurations expected to be deployed at such airports; and
+
+&emsp;&emsp;“(E) the expected financial contribution from each airport.
+
+&emsp;“(2)
+
+Final report.—Not later than 18 months after the technologies are deployed at the airports participating in the pilot program, the Administrator shall submit a final report to the congressional committees set forth in paragraph (3) that describes—
+
+&emsp;&emsp;“(A) the changes in security procedures and technologies deployed;
+
+&emsp;&emsp;“(B) the estimated cost savings at the airport or airports that participated in the pilot program; and
+
+&emsp;&emsp;“(C) the efficacy and staffing benefits of the pilot program and its applicability to other airports in the United States.
+
+&emsp;“(3)
+
+Congressional committees.—The reports required under this subsection shall be submitted to—
+
+&emsp;&emsp;“(A) the Committee on Commerce, Science, and Transportation of the Senate;
+
+&emsp;&emsp;“(B) the Committee on Appropriations of the Senate;
+
+&emsp;&emsp;“(C) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;“(D) the Committee on Homeland Security of the House of Representatives; and
+
+&emsp;&emsp;“(E) the Committee on Appropriations of the House of Representatives.
+
+“(d)
+
+Use of Existing Funds.—This section shall be executed using existing funds.”
+
+#### Security Credentials for Airline Crews
+
+Pub. L. 110–53, title XVI, §1614, Aug. 3, 2007, 121 Stat. 486, provided that:
+
+“(a)
+
+Report.—Not later than 180 days after the date of enactment of this Act \[Aug. 3, 2007\], the Administrator of the Transportation Security Administration, after consultation with airline, airport, and flight crew representatives, shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the Administration's efforts to institute a sterile area access system or method that will enhance security by properly identifying authorized airline flight deck and cabin crew members at screening checkpoints and granting them expedited access through screening checkpoints. The Administrator shall include in the report recommendations on the feasibility of implementing the system for the domestic aviation industry beginning 1 year after the date on which the report is submitted.
+
+“(b)
+
+Beginning Implementation.—The Administrator shall begin implementation of the system or method referred to in subsection (a) not later than 1 year after the date on which the Administrator submits the report under subsection (a).”
 
 #### CAPPS2
 
@@ -740,7 +864,7 @@ Training and background of law enforcement officers.—
 
 &emsp;&emsp;“(A)
 
-In general.—Under the program, to qualify to serve as a Deputy United States Marshal under the program, a State or local law enforcement officer shall—
+In general.—Under the program, to qualify to serve as a Deputy United States Marshal underthe program, a State or local law enforcement officer shall—
 
 &emsp;&emsp;&emsp;“(i) meet the minimum background and training requirements for a law enforcement officer under part 107 of title 14, Code of Federal Regulations (or equivalent requirements established by the Attorney General); and
 
@@ -793,4 +917,6 @@ Pub. L. 104–264, title III, §309, Oct. 9, 1996, 110 Stat. 3253, provided that
 #### Definitions of Terms in Pub. L. 107–71
 
 For definitions of terms used in sections 104, 106(b), (e), 117, 121, 128, and 132(a) of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

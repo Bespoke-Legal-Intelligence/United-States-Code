@@ -1,6 +1,6 @@
 ### §8121. Revolving supply fund
 
-(a) The revolving supply fund established for the operation and maintenance of a supply system for the Department (including procurementof supplies, equipment, and personal services and the repair and reclamation of used, spent, or excess personal property) shall be—
+(a) The revolving supply fund established for the operation and maintenance of a supply system for the Department (including procurement of supplies, equipment, and personal services and the repair and reclamation of used, spent, or excess personal property) shall be—
 
 &emsp;(1) available without fiscal year limitations for all expenses necessary for the operation and maintenance of such supply system;
 

@@ -32,7 +32,7 @@ If any property distributed in the liquidation is subject to a liability or the 
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of determining the amount of loss recognized by any liquidating corporation on any sale, exchange, or distribution ofproperty described in subparagraph (B), the adjusted basis of such property shall be reduced (but not below zero) by the excess (if any) of—
+&emsp;&emsp;For purposes of determining the amount of loss recognized by any liquidating corporation on any sale, exchange, or distribution of property described in subparagraph (B), the adjusted basis of such property shall be reduced (but not below zero) by the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the adjusted basis of such property immediately after its acquisition by such corporation, over
 
@@ -310,7 +310,7 @@ Other Transitional Rules.—
 
 &emsp;&emsp;“(i) if—
 
-&emsp;&emsp;&emsp;“(I) an option agreement to sell substantially all of the assets of a selling corporation organized under the laws of Massachusetts on October 20, 1976, is executed before August 1, 1986, the corporation adopts (by approval of its shareholders) a conditional plan of liquidation before August 1, 1986 to become effective upon the exercise of such option agreement (or modification thereto), and the assets are sold pursuant to the exercise of the option (as originally executed or subsequently modified provided that the purchase price is not thereby increased), or
+&emsp;&emsp;&emsp;“(I) an option agreement to sell substantially all of the assets of a selling corporation organized under the laws of Massachusetts on October 20, 1976, is executed before August 1, 1986, the corporation adopts (by approval of its shareholders) a conditional plan of liquidation before August 1, 1986 to become effective upon the exercise of such option agreement (or modification thereto), and the assets are sold pursuant to the exercise of the option (as originally executed or subsequentlymodified provided that the purchase price is not thereby increased), or
 
 &emsp;&emsp;&emsp;“(II) in the event that the optionee does not acquire substantially all the assets of the corporation, the optionor corporation sells substantially all its assets to another purchaser at a purchase price not greater than that contemplated by such option agreement pursuant to an effective plan of liquidation, and
 

@@ -56,7 +56,7 @@ Submission to Congressional Committees.—The Secretary shall each quarter submi
 
 Regulations.—The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the units that are subject to reporting in the readiness reporting system, what type of equipment is subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
 
-(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595.)
+(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000,114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595.)
 
 #### Prior Provisions
 

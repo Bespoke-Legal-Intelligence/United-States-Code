@@ -28,7 +28,7 @@
 
 Mail order reporting.—(A) As used in this paragraph:
 
-&emsp;(i) The term “drug product” means an active ingredient in dosage form that has been approved or otherwise may be lawfully marketed under the Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] for distribution in the United States.
+&emsp;(i) The term “drug product” means an active ingredient in dosage form that has been approved or otherwise may be lawfully marketed under the Food, Drug, and Cosmetic Act <sup>1</sup> \[21 U.S.C. 301 et seq.\] for distribution in the United States.
 
 &emsp;(ii) The term “valid prescription” means a prescription which is issued for a legitimate medical purpose by an individual practitioner licensed by law to administer and prescribe the drugs concerned and acting in the usual course of the practitioner's professional practice.
 
@@ -52,7 +52,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 &emsp;(i) Distributions of sample packages of drug products when such packages contain not more than two solid dosage units or the equivalent of two dosage units in liquid form, not to exceed 10 milliliters of liquid per package, and not more than one package is distributed to an individual or residential address in any 30-day period.
 
-&emsp;(ii) Distributions of drug products by retail distributors that may not include face-to-facetransactions to the extent that such distributions are consistent with the activities authorized for a retail distributor as specified in section 802(49) of this title, except that this clause does not apply to sales of scheduled listed chemical products at retail.
+&emsp;(ii) Distributions of drug products by retail distributors that may not include face-to-face transactions to the extent that such distributions are consistent with the activities authorized for a retail distributor as specified in section 802(49) of this title, except that this clause does not apply to sales of scheduled listed chemical products at retail.
 
 &emsp;(iii) Distributions of drug products to a resident of a long term care facility (as that term is defined in regulations prescribed by the Attorney General) or distributions of drug products to a long term care facility for dispensing to or for use by a resident of that facility.
 
@@ -108,7 +108,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;(ii) The seller delivers the product directly into the custody of the purchaser.
 
-&emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the “logbook”), except thatsuch requirement does not apply to any purchase by an individual of a single sales package if that package contains not more than 60 milligrams of pseudoephedrine.
+&emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the “logbook”), except that such requirement does not apply to any purchase by an individual of a single sales package if that package contains not more than 60 milligrams of pseudoephedrine.
 
 &emsp;&emsp;&emsp;(iv) In the case of a sale to which the requirement of clause (iii) applies, the seller does not sell such a product unless—
 
@@ -120,7 +120,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;&emsp;(II) the seller—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) determines that the name entered in the logbook corresponds to the name provided on such identification and that the date and time entered are correct; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) determines that the name entered in the logbook corresponds to thename provided on such identification and that the date and time entered are correct; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) enters in the logbook the name of the product and the quantity sold.
 
@@ -174,7 +174,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 #### (C) Privacy protections
 
-&emsp;&emsp;In order to protect the privacy of individuals who purchase scheduled listed chemicalproducts, the Attorney General shall by regulation establish restrictions on disclosure of information in logbooks under subparagraph (A)(iii). Such regulations shall—
+&emsp;&emsp;In order to protect the privacy of individuals who purchase scheduled listed chemical products, the Attorney General shall by regulation establish restrictions on disclosure of information in logbooks under subparagraph (A)(iii). Such regulations shall—
 
 &emsp;&emsp;&emsp;(i) provide for the disclosure of the information as appropriate to the Attorney General and to State and local law enforcement agencies; and
 
@@ -186,7 +186,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 #### (E) Good faith protection
 
-&emsp;&emsp;A regulated seller who in good faith releases information in a logbook under subparagraph (A)(iii) to Federal, State, or local law enforcement authorities is immune from civil liability for such release unless the release constitutes gross negligence or intentional, wanton, or willful misconduct.
+&emsp;&emsp;A regulated seller who in good faith releases information in a logbook under subparagraph (A)(iii) to Federal, State, or local law enforcement authorities is immune fromcivil liability for such release unless the release constitutes gross negligence or intentional, wanton, or willful misconduct.
 
 #### (F) Inapplicability of requirements to certain sales
 
@@ -246,7 +246,7 @@ Subsec. (b)(3). Pub. L. 104–237, §402, added par. (3).
 
 1993—Subsec. (a)(1). Pub. L. 103–200, §2(c)(1), substituted “list I chemical” for “precursor chemical” in subpar. (A) and “a list II chemical” for “an essential chemical” in subpar. (B).
 
-Subsec. (b). Pub. L. 103–200, §10, designated existing provisions as par. (1), redesignated former pars. (1) to\(4) as subpars. (A) to (D), respectively, in concluding provisions, substituted “subparagraph (A)” for “paragraph (1)” in two places, “subparagraph (B)” for “paragraph (2)”, and “subparagraph (C)” for “paragraph (3)”, and added par. (2).
+Subsec. (b). Pub. L. 103–200, §10, designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, in concluding provisions, substituted “subparagraph (A)” for “paragraph (1)” in two places, “subparagraph (B)” for “paragraph (2)”, and “subparagraph (C)” for “paragraph (3)”, and added par. (2).
 
 Subsec. (c)(2)(D). Pub. L. 103–200, §2(c)(2), substituted “chemical control laws” for “precursor chemical laws”.
 
@@ -260,7 +260,7 @@ Pub. L. 109–177, title VII, §711(b)(2), Mar. 9, 2006, 120 Stat. 261, provided
 
 &emsp;“(B) Such subsection (e)(1) applies on and after September 30, 2006.”
 
-Pub. L. 109–177, title VII, §711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\].”
+Pub. L. 109–177, title VII, §711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] apply onand after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\].”
 
 #### Effective Date of 1993 Amendment
 

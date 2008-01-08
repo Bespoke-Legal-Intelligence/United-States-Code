@@ -52,7 +52,7 @@ Section 4995 of this title, referred to in subsec. (a)(3), (4), was in the origi
 
 #### Amendments
 
-1993—Pub. L. 103–82 amended section generally, substituting provisions authorizing appropriations forparts A, B, and C of subchapter I of this chapter for fiscal years 1994 through 1996 for provisions authorizing appropriations for such parts for fiscal years 1987 through 1993.
+1993—Pub. L. 103–82 amended section generally, substituting provisions authorizing appropriations for parts A, B, and C of subchapter I of this chapter for fiscal years 1994 through 1996 for provisions authorizing appropriations for such parts for fiscal years 1987 through 1993.
 
 1991—Subsec. (c). Pub. L. 102–73 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added pars. (2) and (3).
 

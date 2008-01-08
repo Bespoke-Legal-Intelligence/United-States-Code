@@ -12,7 +12,7 @@
 
 (B) For purposes of subparagraph (A), the appropriate base amount—
 
-&emsp;(i) for American Samoa, Guam, the Marshall Islands, the Federated States of Micronesia, the Commonwealth of the Northern MarianaIslands, the Republic of Palau, and the Virgin Islands, is $139,300; and
+&emsp;(i) for American Samoa, Guam, the Marshall Islands, the Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, and the Virgin Islands, is $139,300; and
 
 &emsp;(ii) for any other State, is $260,000.
 

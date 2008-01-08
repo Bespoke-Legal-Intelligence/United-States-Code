@@ -62,7 +62,7 @@ Authority for Administrative Reorganization.—The Secretary of Veterans Affairs
 
 “(b)
 
-Specified Reorganization.—Subsection (a) applies to the organizational realignment of managementresponsibility for the Department of Veterans Affairs Data Processing Centers, together with the corresponding organizational realignment of associated Information Resources Management operational components and functions within the Department of Veterans Affairs central office, as such realignment was described in the detailed plan and justification submitted by the Secretary of Veterans Affairs in \[sic\] January 4, 1991, letters to the Chairmen of the Committees on Veterans’ Affairs of the Senate and the House of Representatives.”
+Specified Reorganization.—Subsection (a) applies to the organizational realignment of management responsibility for the Department of Veterans Affairs Data Processing Centers, together with the corresponding organizational realignment of associated Information Resources Management operational components and functions within the Department of Veterans Affairs central office, as such realignment was described in the detailed plan and justification submitted by the Secretary of Veterans Affairs in \[sic\] January 4, 1991, letters to the Chairmen of the Committees on Veterans’ Affairs of the Senate and the House of Representatives.”
 
 #### Inapplicability of Restrictions
 

@@ -12,7 +12,7 @@ Amounts authorized to be appropriated under subsection (a) of this section shall
 
 State hazardous waste programs for which grants may be made under subsection (a) of this section may include (but shall not be limited to) planning for hazardous waste treatment, storage and disposal facilities, and the development and execution of programs to protect health and the environment from inactive facilities which may contain hazardous waste.
 
-(Pub. L. 89–272, title II, §3011, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2812; amendedPub. L. 96–482, §§16, 31(b), Oct. 21, 1980, 94 Stat. 2342, 2352; Pub. L. 98–616, §2(b), Nov. 8, 1984, 98 Stat. 3222.)
+(Pub. L. 89–272, title II, §3011, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2812; amended Pub. L. 96–482, §§16, 31(b), Oct. 21, 1980, 94 Stat. 2342, 2352; Pub. L. 98–616, §2(b), Nov. 8, 1984, 98 Stat. 3222.)
 
 #### Amendments
 

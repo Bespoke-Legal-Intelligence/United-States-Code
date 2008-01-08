@@ -44,7 +44,7 @@ Requirements.—An act meets the requirements of this subparagraph if the act—
 
 #### (6) Non-Federal Government customers
 
-&emsp;The term “non-Federal Government customers” means any customer of a Seller that is not an agency or instrumentality of the United States Government with authority under Public Law 85–804 \[50 U.S.C. 1431 et seq.\] to provide for indemnification under certain circumstances for third-party claims against its contractors, including but not limited to State and local authorities and commercial entities.
+&emsp;The term “non-Federal Government customers” means any customer of a Seller that is not an agency or instrumentality of the United States Government with authority under Public Law 85–804 \[50 U.S.C. 1431 et seq.\] to provide for indemnification under certain circumstances for third-party claims againstits contractors, including but not limited to State and local authorities and commercial entities.
 
 (Pub. L. 107–296, title VIII, §865, Nov. 25, 2002, 116 Stat. 2241.)
 

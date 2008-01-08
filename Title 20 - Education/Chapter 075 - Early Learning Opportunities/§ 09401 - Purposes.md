@@ -8,7 +8,7 @@ The purposes of this chapter are—
 
 &emsp;(3) to remove barriers to the provision of an accessible system of early childhood learning programs in communities throughout the United States;
 
-&emsp;(4) to increase the availability and affordability of professional development activities and compensation for caregivers and child care providers; and
+&emsp;(4) to increase the availability and affordability of professional development activitiesand compensation for caregivers and child care providers; and
 
 &emsp;(5) to facilitate the development of community-based systems of collaborative service delivery models characterized by resource sharing, linkages between appropriate supports, and local planning for services.
 

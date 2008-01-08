@@ -26,7 +26,7 @@ No loan may be provided under this section to a qualifying hospital except pursu
 
 &emsp;An entity described in this paragraph is an entity that—
 
-&emsp;&emsp;(A) is described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title;
+&emsp;&emsp;(A) is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code;
 
 &emsp;&emsp;(B) has at least 1 existing memorandum of understanding or affiliation agreement with a hospital located in the State in which the entity is located; and
 
@@ -83,6 +83,8 @@ There shall be no administrative or judicial review of any determination made by
 (Aug. 14, 1935, ch. 531, title XVIII, §1897, as added Pub. L. 108–173, title X, §1016, Dec. 8, 2003, 117 Stat. 2447; amended Pub. L. 109–13, div. A, title VI, §6045(a), (b), May 11, 2005, 119 Stat. 294.)
 
 #### References in Text
+
+The Internal Revenue Code of 1986, referred to in subsec. (c)(3)(A), is classified generally to Title 26, Internal Revenue Code.
 
 The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part D of title IV of the Act is classified to part C (§1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 

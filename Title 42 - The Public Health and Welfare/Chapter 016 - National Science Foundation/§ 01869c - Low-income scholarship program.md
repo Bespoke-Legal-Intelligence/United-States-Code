@@ -22,11 +22,11 @@ The Director of the National Science Foundation (referred to in this section as 
 
 #### (3) Limitation
 
-The amount of a scholarship awarded under this section shall be determined by the Director,except that the Director shall not award a scholarship in an amount exceeding $10,000 per year. The Director may renew scholarships for up to 4 years.
+The amount of a scholarship awarded under this section shall be determined by the Director, except that the Director shall not award a scholarship in an amount exceeding $10,000 per year. The Director may renew scholarships for up to 4 years.
 
 #### (4) Funding
 
-The Director shall carry out this section only with funds made available under section 1356(s)(3) of title 8. The Director may use no more than 50 percent of such funds for undergraduate programs for curriculum development, professional and workforce development, and to advance technological education. Funds for these other programs may be used for purposes other than scholarships.
+The Director shall carry out this section only with funds made available under section 1356(s)(3) of title 8. The Director may use no more than 50 percent of such funds for undergraduate programs for curriculum development, professional and workforce development, and to advance technological education. Funds forthese other programs may be used for purposes other than scholarships.
 
 #### (5) Federal Register
 

@@ -198,7 +198,7 @@ For purposes of this section:
 
 #### (D) Death of qualified former spouse
 
-&emsp;&emsp;If the qualified former spouse dies before payment of the benefit provided under this subsection, such payment shall be made to the estate of the qualified former spouse.
+&emsp;&emsp;If the qualified former spouse dies before payment of the benefit provided under thissubsection, such payment shall be made to the estate of the qualified former spouse.
 
 #### (E) Bar to recovery
 

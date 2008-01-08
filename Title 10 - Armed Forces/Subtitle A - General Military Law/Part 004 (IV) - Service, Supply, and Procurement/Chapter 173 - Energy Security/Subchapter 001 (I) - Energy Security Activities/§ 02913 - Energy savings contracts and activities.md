@@ -34,13 +34,15 @@ Agreements With Gas or Electric Utilities.—(1) The Secretary of Defense may au
 
 (4) An agreement under this subsection shall provide that title to any energy-saving device or technology installed at a military installation pursuant to the agreement vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
 
-(e)
-
-Congressional Notification of Cancellation Ceiling for Energy Savings Performance Contracts.—When a decision is made to award an energy savings performance contract that contains a clause setting forth a cancellation ceiling in excess of $7,000,000, the Secretary of Defense shall submit to the appropriate committees of Congress written notification of the proposed contract and of the proposed cancellation ceiling for the contract. The notification shall include the justification for the proposed cancellation ceiling. The contract may then be awarded only after the end of the 30-day periodbeginning on the date the notification is received by such committees or, if earlier, the end of the 15-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
-
-(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2853, Oct. 17, 2006, 120 Stat. 2491, 2496.)
+(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2853, Oct. 17, 2006, 120 Stat. 2491, 2496; Pub. L. 110–140, title V, §511(c), Dec. 19, 2007, 121 Stat. 1658.)
 
 #### Amendments
 
+2007—Subsec. (e). Pub. L. 110–140 struck out heading and text of subsec. (e). Text read as follows: “When a decision is made to award an energy savings performance contract that contains a clause setting forth a cancellation ceiling in excess of $7,000,000, the Secretary of Defense shall submit to the appropriate committees of Congress written notification of the proposed contract and of the proposed cancellation ceiling for the contract. The notification shall include the justification for the proposed cancellation ceiling. The contract may then be awarded only after the end of the 30-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 15-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.”
+
 2006—Subsec. (e). Pub. L. 109–364, §2853, added subsec. (e).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

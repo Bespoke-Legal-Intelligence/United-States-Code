@@ -16,7 +16,7 @@
 
 #### (4) Guarantee
 
-&emsp;Notwithstanding any other provision of law, the Secretary may guarantee not more than 80percent of a loan made by a certified lender described in paragraph (1), if the borrower of the loan meets the eligibility requirements and such other criteria for the loan guarantee that are established by the Secretary.
+&emsp;Notwithstanding any other provision of law, the Secretary may guarantee not more than 80 percent of a loan made by a certified lender described in paragraph (1), if the borrower of the loan meets the eligibility requirements and such other criteria for the loan guarantee that are established by the Secretary.
 
 #### (5) Certifications
 
@@ -48,7 +48,7 @@
 
 #### (3) Revocation of designation
 
-&emsp;The designation of a lender as a preferred certified lender shall be revoked if the Secretary determines that the lender is not adhering to the rules and regulations applicable to the program or if the loss experiences of the preferred certified lender are greater than other preferred certified lenders, except that the suspension or revocation shall not affect any outstanding guarantee.
+&emsp;The designation of a lender as a preferred certified lender shall be revoked if the Secretary determines that the lender is not adhering to the rules and regulations applicable to the program or if the loss experiences of thepreferred certified lender are greater than other preferred certified lenders, except that the suspension or revocation shall not affect any outstanding guarantee.
 
 #### (4) Condition of certification
 

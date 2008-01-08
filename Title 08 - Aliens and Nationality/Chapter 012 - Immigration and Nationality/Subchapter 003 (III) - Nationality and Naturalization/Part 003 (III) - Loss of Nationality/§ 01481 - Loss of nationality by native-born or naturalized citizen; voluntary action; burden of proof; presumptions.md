@@ -4,7 +4,7 @@
 
 &emsp;(1) obtaining naturalization in a foreign state upon his own application or upon an application filed by a duly authorized agent, after having attained the age of eighteen years; or
 
-&emsp;(2) taking an oath or making an affirmation or other formal declaration of allegiance to aforeign state or a political subdivision thereof, after having attained the age of eighteen years; or
+&emsp;(2) taking an oath or making an affirmation or other formal declaration of allegiance to a foreign state or a political subdivision thereof, after having attained the age of eighteen years; or
 
 &emsp;(3) entering, or serving in, the armed forces of a foreign state if (A) such armed forces are engaged in hostilities against the United States, or (B) such persons serve as a commissioned or non-commissioned officer; or
 
@@ -44,7 +44,7 @@ Subsecs. (b), (c). Pub. L. 99–653, §19, as amended by Pub. L. 100–525, §8(
 
 1981—Subsec. (a). Pub. L. 97–116 struck out “(a)” designation as added by section 4 of Pub. L. 95–432, which was not executed since it would have resulted in a subsec. (a) designation of “(a)(a)”, and substituted in par. (1) “special immigrant” for “nonquota immigrant”.
 
-1978—Subsec. (a)(5). Pub. L. 95–432, §§2, 4, redesignated par. (6) as (5). Former par. (5), which dealt withexpatriation of persons who voted in a political election in a foreign state or participated in an election or plebiscite to determine sovereignty over foreign territory, was struck out.
+1978—Subsec. (a)(5). Pub. L. 95–432, §§2, 4, redesignated par. (6) as (5). Former par. (5), which dealt with expatriation of persons who voted in a political election in a foreign state or participated in an election or plebiscite to determine sovereignty over foreign territory, was struck out.
 
 Subsec. (a)(6), (7). Pub. L. 95–432, §4, redesignated pars. (7) and (9) as (6) and (7), respectively. Former pars. (6) and (7) redesignated (5) and (6), respectively.
 

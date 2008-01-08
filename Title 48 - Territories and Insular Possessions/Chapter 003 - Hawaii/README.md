@@ -416,7 +416,7 @@ Determination by Secretary.—Not later than 60 days after receiving the materia
 
 “(c)
 
-Congressional Approval Required.—If, pursuant to subsection (b), the Secretary determines that the proposed amendment requires the approval of Congress, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives—
+Congressional Approval Required.—If, pursuant to subsection (b), the Secretary determines that the proposed amendment requires the approval of Congress, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives—
 
 &emsp;“(1) a draft joint resolution approving the amendment;
 
@@ -450,7 +450,7 @@ In general.—Not later than 120 days after receiving the information required t
 
 &emsp;“(2)
 
-Notification.—The Secretary shall notify the Chairman, the Committee on Energy and Natural Resources of the Senate, and the Committee on Resources of the House of Representatives of the reasons for the approval or disapproval of the proposed exchange.
+Notification.—The Secretary shall notify the Chairman, the Committee on Energy and Natural Resources of the Senate, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives of the reasons for the approval or disapproval of the proposed exchange.
 
 “(c)
 
@@ -462,7 +462,7 @@ In general.—The Secretary may recommend to the Chairman an exchange of Hawaiia
 
 &emsp;“(2)
 
-Approval by chairman.—Not later than 120 days after receiving a recommendation for an exchange from the Secretary under paragraph (1), the Chairman shall provide written notification to the Secretary of the approval or disapproval of a proposed exchange. If the Chairman approves the proposed exchange, upon receipt of the written notification, the Secretary shall notify the Committee on Energy and Natural Resources of the Senate, and the Committee on Resources of the House of Representatives of the approval of the Chairman of the proposed exchange.
+Approval by chairman.—Not later than 120 days after receiving a recommendation for an exchange from the Secretary under paragraph (1), the Chairman shall provide written notification to the Secretary of the approval or disapproval of a proposed exchange. If the Chairman approves the proposed exchange, upon receipt of the written notification, the Secretary shall notify the Committee on Energy and Natural Resources of the Senate, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives of the approval of the Chairman of the proposed exchange.
 
 &emsp;“(3)
 

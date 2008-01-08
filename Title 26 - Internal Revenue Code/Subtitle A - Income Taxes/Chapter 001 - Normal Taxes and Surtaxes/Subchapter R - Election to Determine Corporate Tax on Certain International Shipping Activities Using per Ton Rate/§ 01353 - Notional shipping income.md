@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of this subchapter, the notional shipping income of an electing corporation shallbe the sum of the amounts determined under subsection (b) for each qualifying vessel operated by such electing corporation.
+For purposes of this subchapter, the notional shipping income of an electing corporation shall be the sum of the amounts determined under subsection (b) for each qualifying vessel operated by such electing corporation.
 
 #### (b) Amounts
 

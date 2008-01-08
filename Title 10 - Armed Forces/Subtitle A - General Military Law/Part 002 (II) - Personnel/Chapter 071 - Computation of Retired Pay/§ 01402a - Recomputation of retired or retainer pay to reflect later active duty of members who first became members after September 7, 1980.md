@@ -94,7 +94,7 @@ Pub. L. 98–94, §923(a)(1), (2)(E), in footnote 1 of table, substituted “Bef
 
 1980—Pub. L. 96–513, §511(51)(B), substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after the enactment of the Department of Defense Authorization Act, 1981” in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 96–513, §511(51)(A), substituted “after September 7, 1980” for “on or after the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
+Subsecs. (a) to (c). Pub. L. 96–513, §511(51)(A), substituted “after September 7, 1980” for “on or after thedate of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing.
 
 #### Effective Date of 1983 Amendment
 

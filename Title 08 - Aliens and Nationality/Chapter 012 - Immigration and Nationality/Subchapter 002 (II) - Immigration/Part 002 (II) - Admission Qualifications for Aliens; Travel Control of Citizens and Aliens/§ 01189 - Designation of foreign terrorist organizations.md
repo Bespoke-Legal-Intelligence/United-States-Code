@@ -116,7 +116,7 @@
 
 #### (B) Procedure
 
-&emsp;&emsp;The procedural requirements of paragraphs (2) and (3) shall apply to a revocation under this paragraph. Any revocation shall take effect on the date specified in the revocation or upon publication in the Federal Register if no effective date is specified.
+&emsp;&emsp;The procedural requirements of paragraphs (2) and (3) shall apply to a revocationunder this paragraph. Any revocation shall take effect on the date specified in the revocation or upon publication in the Federal Register if no effective date is specified.
 
 #### (7) Effect of revocation
 
@@ -200,7 +200,7 @@ Another section 411(c) of Pub. L. 107–56 enacted provisions set out as an Effe
 
 Subsec. (a)(4)(A). Pub. L. 108–458, §7119(a)(1), substituted “A designation” for “Subject to paragraphs (5) and (6), a designation” and “until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c) of this section” for “for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B)”.
 
-Subsec. (a)(4)(B). Pub. L. 108–458, §7119(a)(2), added subpar. (B) and struck out former subpar. (B) which contained provisions authorizing Secretary to redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end ofthe 2-year period referred to in subpar. (A) or at the end of any 2-year redesignation period.
+Subsec. (a)(4)(B). Pub. L. 108–458, §7119(a)(2), added subpar. (B) and struck out former subpar. (B) which contained provisions authorizing Secretary to redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subpar. (A) or at the end of any 2-year redesignation period.
 
 Subsec. (a)(4)(C). Pub. L. 108–458, §7119(a)(3), added subpar. (C).
 

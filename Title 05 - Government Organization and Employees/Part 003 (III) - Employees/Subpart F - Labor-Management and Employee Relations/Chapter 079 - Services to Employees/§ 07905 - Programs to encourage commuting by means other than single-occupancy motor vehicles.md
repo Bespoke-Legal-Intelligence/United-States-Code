@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the judicial branch;
 
-&emsp;(3) the term “entity of the legislative branch” means the House of Representatives,the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment; and
+&emsp;(3) the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment; and
 
 &emsp;(4) the term “transit pass” means a transit pass as defined by section 132(f)(5) of the Internal Revenue Code of 1986.
 
@@ -70,6 +70,10 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Section 3 of Pub. L. 103–172 provided that: “This Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994.”
 
+#### Transit Subsidy for Department of Labor Employees of National Capital Region
+
+Pub. L. 110–161, div. G, title I, §104, Dec. 26, 2007, 121 Stat. 2167, provided that: “After September 30, 2007, the Secretary of Labor shall issue a monthly transit subsidy of not less than the full amount (of not less than $110) that each of its employees of the National Capital Region is eligible to receive.”
+
 #### Transit Pass Transportation Fringe Benefits
 
 Pub. L. 109–59, title III, §3049(a), Aug. 10, 2005, 119 Stat. 1711, as amended by Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242, provided that:
@@ -108,7 +112,7 @@ Rule of construction.—Nothing in this subsection shall be considered to requir
 
 #### Transportation Subsidy for Employees of the Senate
 
-Pub. L. 107–68, title I, §112, Nov. 12, 2001, 115 Stat. 569, authorized an employing office of an employee of the Senate to provide a monthly transportation subsidy to such employee up to the maximum monthly amountauthorized under section 132(f)(2)(A) of Title 26, Internal Revenue Code.
+Pub. L. 107–68, title I, §112, Nov. 12, 2001, 115 Stat. 569, authorized an employing office of an employee of the Senate to provide a monthly transportation subsidy to such employee up to the maximum monthly amount authorized under section 132(f)(2)(A) of Title 26, Internal Revenue Code.
 
 #### Transit Subsidies; Appropriations
 

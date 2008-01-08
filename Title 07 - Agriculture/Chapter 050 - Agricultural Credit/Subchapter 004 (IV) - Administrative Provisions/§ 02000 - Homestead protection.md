@@ -62,7 +62,7 @@ As used in this section:
 
 (B) At any time during the period of occupancy, the borrower-owner shall have a right of first refusal to reacquire the homestead property on such terms and conditions as the Secretary shall determine, except that the Secretary may not demand a payment for the homestead property that is in excess of the current market value of the homestead property as established by an independent appraisal. The independent appraisal shall be conducted by an appraiser selected by the borrower-owner from a list of three appraisers approved by the county supervisor.
 
-(5) No rights of a borrower-owner under this section, and no agreement entered into between the borrower-owner and the Secretary for occupancy of the homestead property, shall be transferable or assignable by the borrower-owner or by operation of any law, except that in the caseof death or incompetency of such borrower-owner, such rights and agreements shall be transferable to the spouse of the borrower-owner if the spouse agrees to comply with the terms and conditions thereof.
+(5) No rights of a borrower-owner under this section, and no agreement entered into between the borrower-owner and the Secretary for occupancy of the homestead property, shall be transferable or assignable by the borrower-owner or by operation of any law, except that in the case of death or incompetency of such borrower-owner, such rights and agreements shall be transferable to the spouse of the borrower-owner if the spouse agrees to comply with the terms and conditions thereof.
 
 (6) Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996), the Secretary shall notify the borrower-owner from whom the property was acquired of the availability of homestead protection rights under this section.
 
@@ -82,11 +82,11 @@ The Secretary may enter into contracts authorized by this section before the Sec
 
 In the event of any conflict between this section and any provision of the law of any State relating to the right of a borrower-owner to designate for separate sale or redeem part or all of the real property securing a loan foreclosed on by the lender thereof, such provision of State law shall prevail.
 
-(Pub. L. 87–128, title III, §352, as added Pub. L. 99–198, title XIII, §1321, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §614, Jan. 6, 1988, 101 Stat. 1675; Pub. L. 102–237, title V, §501(g), title VII, §701(h)(2), Dec. 13, 1991, 105 Stat. 1867, 1880; Pub. L. 102–552, title V, §516(i), (j)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 104–127, title VI, §644, Apr. 4, 1996, 110 Stat. 1103.)
+(Pub. L. 87–128, title III, §352, as added Pub. L. 99–198, title XIII, §1321, Dec. 23, 1985, 99 Stat.1532; amended Pub. L. 100–233, title VI, §614, Jan. 6, 1988, 101 Stat. 1675; Pub. L. 102–237, title V, §501(g), title VII, §701(h)(2), Dec. 13, 1991, 105 Stat. 1867, 1880; Pub. L. 102–552, title V, §516(i), (j)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 104–127, title VI, §644, Apr. 4, 1996, 110 Stat. 1103.)
 
 #### References in Text
 
-The Small Business Act, referred to in subsecs. (a)(3) and (b)(1)(B), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsecs. (a)(3) and (b)(1)(B), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 For definition of “this chapter”, referred to in subsecs. (b)(1)(A) and (c)(6), see note set out under section 1921 of this title.
 

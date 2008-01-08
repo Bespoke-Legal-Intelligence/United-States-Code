@@ -14,7 +14,7 @@ With respect to any loan—
 
 The Secretary shall continue to attempt to collect any loan referred, transferred, or assigned under paragraph (5)(A), (5)(B)(i), or (6) of section 1087cc(a) <sup>1</sup> of this title until all appropriate collection efforts, as determined by the Secretary, have been expended.
 
-(Pub. L. 89–329, title IV, §467, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1453; amended Pub. L. 102–325, title IV, §467, July 23, 1992, 106 Stat. 584; Pub. L. 105–244, title IV, §467(a), Oct. 7, 1998, 112 Stat. 1728.)
+(Pub. L. 89–329, title IV, §467, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat.1453; amended Pub. L. 102–325, title IV, §467, July 23, 1992, 106 Stat. 584; Pub. L. 105–244, title IV, §467(a), Oct. 7, 1998, 112 Stat. 1728.)
 
 #### References in Text
 

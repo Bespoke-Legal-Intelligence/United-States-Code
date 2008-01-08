@@ -20,7 +20,7 @@ The term “upstream subsidy” means any countervailable subsidy, other than an
 
 #### (2) Adjustments
 
-&emsp;If the administering authority has determined in a previous proceeding that a countervailable subsidy is paid or bestowed on the input product that is used for comparison under paragraph (1), the administering authority may (A) where appropriate, adjust the price that the manufacturer or producer of merchandise which is the subject of such proceeding would otherwise pay for the product to reflect the effects of the countervailable subsidy, or (B) select in lieu of that price a price from another source.
+&emsp;If the administering authority has determined in a previous proceeding that a countervailable subsidy is paid or bestowed on the input product that is used for comparison under paragraph (1), the administering authority may (A) where appropriate, adjust theprice that the manufacturer or producer of merchandise which is the subject of such proceeding would otherwise pay for the product to reflect the effects of the countervailable subsidy, or (B) select in lieu of that price a price from another source.
 
 #### (c) Inclusion of amount of countervailable subsidy
 

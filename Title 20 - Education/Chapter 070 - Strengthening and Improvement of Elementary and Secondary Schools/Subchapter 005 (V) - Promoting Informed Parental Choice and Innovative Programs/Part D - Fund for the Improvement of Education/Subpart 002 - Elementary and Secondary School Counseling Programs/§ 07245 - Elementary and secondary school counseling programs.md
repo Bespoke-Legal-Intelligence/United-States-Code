@@ -158,7 +158,7 @@ Not later than 2 years after assistance is made available to local educational a
 
 #### (2) Amount less than $40,000,000
 
-&emsp;If the amount of funds made available by the Secretary for this subpart is less than $40,000,000, the Secretary shall award grants to local educational agencies only to establish or expand counseling programs in elementary schools.
+&emsp;If the amount of funds made available by the Secretary for this subpart is less than$40,000,000, the Secretary shall award grants to local educational agencies only to establish or expand counseling programs in elementary schools.
 
 (Pub. L. 89–10, title V, §5421, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1814.)
 

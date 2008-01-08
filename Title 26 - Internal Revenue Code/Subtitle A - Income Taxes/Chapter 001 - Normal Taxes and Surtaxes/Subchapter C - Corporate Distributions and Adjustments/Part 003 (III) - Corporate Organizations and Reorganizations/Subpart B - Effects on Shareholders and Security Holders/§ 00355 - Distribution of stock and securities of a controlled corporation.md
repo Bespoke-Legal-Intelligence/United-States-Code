@@ -58,11 +58,11 @@
 
 #### (C) Property attributable to accrued interest
 
-&emsp;&emsp;Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shall apply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder's holding period.
+&emsp;&emsp;Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shallapply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder's holding period.
 
 #### (D) Nonqualified preferred stock
 
-&emsp;&emsp;Nonqualified preferred stock (as defined in section 351(g)(2)) received in a distributionwith respect to stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
+&emsp;&emsp;Nonqualified preferred stock (as defined in section 351(g)(2)) received in a distribution with respect to stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
 
 #### (4) Cross references
 
@@ -84,7 +84,7 @@
 
 &emsp;For purposes of paragraph (1), a corporation shall be treated as engaged in the active conduct of a trade or business if and only if—
 
-&emsp;&emsp;(A) it is engaged in the active conduct of a trade or business, or substantially all of its assets consist of stock and securities of a corporation controlled by it (immediately after the distribution) which is so engaged,
+&emsp;&emsp;(A) it is engaged in the active conduct of a trade or business,
 
 &emsp;&emsp;(B) such trade or business has been actively conducted throughout the 5-year period ending on the date of the distribution,
 
@@ -98,31 +98,23 @@
 
 > &emsp;&emsp;For purposes of subparagraph (D), all distributee corporations which are members of the same affiliated group (as defined in section 1504(a) without regard to section 1504(b)) shall be treated as 1 distributee corporation.
 
-#### (3) Special rule relating to active business requirement
+#### (3) Special rules for determining active conduct in the case of affiliated groups
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any distribution made after the date of the enactment of this paragraph, a corporation shall be treated as meeting the requirement of paragraph (2)(A) if and only if such corporation is engaged in the active conduct of a trade or business.
+&emsp;&emsp;For purposes of determining whether a corporation meets the requirements of paragraph (2)(A), all members of such corporation's separate affiliated group shall be treated as one corporation.
 
-#### (B) Affiliated group rule
+#### (B) Separate affiliated group
 
-&emsp;&emsp;For purposes of subparagraph (A), all members of such corporation's separate affiliated group shall be treated as one corporation. For purposes of the preceding sentence, a corporation's separate affiliated group is the affiliated group which would be determined under section 1504(a) if such corporation were the common parent and section 1504(b) did not apply.
+&emsp;&emsp;For purposes of this paragraph, the term “separate affiliated group” means, with respect to any corporation, the affiliated group which would be determined under section 1504(a) if such corporation were the common parent and section 1504(b) did not apply.
 
-#### (C) Transition rule
+#### (C) Treatment of trade or business conducted by acquired member
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any distribution pursuant to a transaction which is—
+&emsp;&emsp;If a corporation became a member of a separate affiliated group as a result of one or more transactions in which gain or loss was recognized in whole or in part, any trade or business conducted by such corporation (at the time that such corporation became such a member) shall be treated for purposes of paragraph (2) as acquired in a transaction in which gain or loss was recognized in whole or in part.
 
-&emsp;&emsp;&emsp;(i) made pursuant to an agreement which was binding on the date of the enactment of this paragraph and at all times thereafter,
+#### (D) Regulations
 
-&emsp;&emsp;&emsp;(ii) described in a ruling request submitted to the Internal Revenue Service on or before such date, or
-
-&emsp;&emsp;&emsp;(iii) described on or before such date in a public announcement or in a filing with the Securities and Exchange Commission.
-
-> &emsp;&emsp;The preceding sentence shall not apply if the distributing corporation elects not to have such sentence apply to distributions of such corporation. Any such election, once made, shall be irrevocable.
-
-#### (D) Special rule for certain pre-enactment distributions
-
-&emsp;&emsp;For purposes of determining the continued qualification under paragraph (2)(A) of distributions made on or before the date of the enactment of this paragraph as a result of an acquisition, disposition, or other restructuring after such date, such distribution shall be treated as made on the date of such acquisition, disposition, or restructuring for purposes of applying subparagraphs (A) through (C) of this paragraph.
+&emsp;&emsp;The Secretary shall prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which provide for the proper application of subparagraphs (B), (C), and (D) of paragraph (2), and modify the application of subsection (a)(3)(B), in connection with the application of this paragraph.
 
 #### (c) Taxability of corporation on distribution
 
@@ -480,15 +472,17 @@ Except as provided in regulations, this section (or so much of section 356 as re
 
 &emsp;&emsp;(C) which modify the application of the attribution rules applied for purposes of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 113; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §4(e)(2), Dec. 24, 1980, 94 Stat. 3403; Pub. L. 100–203, title X, §10223(b), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1018(d)(5)(C), title II, §2004(k)(1), Nov. 10, 1988, 102 Stat. 3580, 3605; Pub. L. 101–508, title XI, §§11321(a), 11702(e)(2), Nov. 5, 1990, 104 Stat. 1388–460, 1388–515; Pub. L. 104–188, title I, §1704(t)(31), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 105–34, title X, §§1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, 111 Stat. 914, 916, 921; Pub. L. 105–206, title VI, §6010(c)(2), July 22, 1998, 112 Stat. 813; Pub. L. 109–222, title II, §202, title V, §507(a), May 17, 2006, 120 Stat. 348, 358; Pub. L. 109–432, div. A, title IV, §410(a), Dec. 20, 2006, 120 Stat. 2963.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 113; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §4(e)(2), Dec. 24, 1980, 94 Stat. 3403; Pub. L. 100–203, title X, §10223(b), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1018(d)(5)(C), title II, §2004(k)(1), Nov. 10, 1988, 102 Stat. 3580, 3605; Pub. L. 101–508, title XI, §§11321(a), 11702(e)(2), Nov. 5, 1990, 104 Stat. 1388–460, 1388–515; Pub. L. 104–188, title I, §1704(t)(31), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 105–34, title X, §§1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, 111 Stat. 914, 916, 921; Pub. L. 105–206, title VI, §6010(c)(2), July 22, 1998, 112 Stat. 813; Pub. L. 109–222, title II, §202, title V, §507(a), May 17, 2006, 120 Stat. 348, 358; Pub. L. 109–432, div. A, title IV, §410(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 110–172, §4(b)(1), (2), Dec. 29, 2007, 121 Stat. 2476.)
 
 #### References in Text
-
-The date of the enactment of this paragraph, referred to in subsec. (b)(3)(A), (C)(i), (D), is the date of enactment of Pub. L. 109–222, which was approved May 17, 2006.
 
 The date of the enactment of this subsection, referred to in subsec. (g)(2)(A)(i), is the date of enactment of Pub. L. 109–222, which was approved May 17, 2006.
 
 #### Amendments
+
+2007—Subsec. (b)(2)(A). Pub. L. 110–172, §4(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “it is engaged in the active conduct of a trade or business, or substantially all of its assets consist of stock and securities of a corporation controlled by it (immediately after the distribution) which is so engaged,”.
+
+Subsec. (b)(3). Pub. L. 110–172, §4(b)(2), amended par. (3) generally. Prior to amendment, par. (3) provided forspecial rule relating to active business requirement applicable in the case of any distribution made after May 17, 2006.
 
 2006—Subsec. (b)(3). Pub. L. 109–222, §202, added par. (3).
 
@@ -576,6 +570,44 @@ Subsec. (a)(4). Pub. L. 96–589, §4(e)(2), designated existing provisions as s
 
 1976—Subsec. (a)(1)(D)(ii). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–172, §4(d), Dec. 29, 2007, 121 Stat. 2478, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 911 and 954 of this title\] shall take effect as if included in the provisions of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\] to which they relate.
+
+“(2)
+
+Modification of active business definition under section 355.—
+
+&emsp;“(A)
+
+In general.—Except as otherwise provided in this paragraph, the amendments made by subsection (b) \[amending this section\] shall apply to distributions made after May 17, 2006.
+
+&emsp;“(B)
+
+Transition rule.—The amendments made by subsection (b) shall not apply to any distribution pursuant to a transaction which is—
+
+&emsp;&emsp;“(i) made pursuant to an agreement which was binding on May 17, 2006, and at all times thereafter,
+
+&emsp;&emsp;“(ii) described in a ruling request submitted to the Internal Revenue Service on or before such date, or
+
+&emsp;&emsp;“(iii) described on or before such date in a public announcement or in a filing with the Securities and Exchange Commission.
+
+&emsp;“(C)
+
+Election out of transition rule.—Subparagraph (B) shall not apply if the distributing corporation elects not to have such subparagraph apply to distributions of such corporation. Any such election, once made, shall be irrevocable.
+
+&emsp;“(D)
+
+Special rule for certain pre-enactment distributions.—For purposes of determining the continued qualification under section 355(b)(2)(A) of the Internal Revenue Code of 1986 of distributions made on or before May 17, 2006, as a result of an acquisition, disposition, or other restructuring after such date, such distribution shall be treated as made on the date of such acquisition, disposition, or restructuring for purposes of applying subparagraphs (A) through (C) of this paragraph. The preceding sentence shall only apply with respect to the corporation that undertakes such acquisition, disposition, or other restructuring, and only if such application results in continued qualification under section 355(b)(2)(A) of such Code.
+
+“(3)
+
+Amendment related to section 515 of the act.—The amendment made by subsection (c) \[amending section 911 of this title\] shall apply to taxable years beginning after December 31, 2006.”
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–432, div. A, title IV, §410(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in section 202 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
@@ -602,7 +634,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 1012(a), (b)(1) of Pub. L. 105–34 applicable, with transition rule, to distributions afterApr. 16, 1997, except that amendment by section 1012(a) applicable to such distributions only if pursuant to a plan (or series of related transactions) which involves an acquisition described in subsec. (e)(2)(A)(ii) of this section occurring after such date, see section 1012(d) of Pub. L. 105–34, as amended, set out as a note under section 351 of this title.
+Amendment by section 1012(a), (b)(1) of Pub. L. 105–34 applicable, with transition rule, to distributions after Apr. 16, 1997, except that amendment by section 1012(a) applicable to such distributions only if pursuant to a plan (or series of related transactions) which involves an acquisition described in subsec. (e)(2)(A)(ii) of this section occurring after such date, see section 1012(d) of Pub. L. 105–34, as amended, set out as a note under section 351 of this title.
 
 Amendment by section 1014(c), (e)(1), (2) of Pub. L. 105–34 applicable, with certain exceptions, to transactions after June 8, 1997, see section 1014(f) of Pub. L. 105–34, set out as a note under section 351 of this title.
 
@@ -649,4 +681,8 @@ Amendment by Pub. L. 100–203 applicable to distributions or transfers after De
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commencing after Dec. 31, 1980, and to exchanges which occur after Dec. 31, 1980, and which do not occur in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11, Bankruptcy, commenced on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to such cases, proceedings or exchanges commencing after Sept. 30, 1979, see section 7(c), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
+
+#### Termination of Tax Increase Prevention and Reconciliation Act of 2005 and Tax Relief and Health Care Act of 2006 Amendments
+
+Pub. L. 110–172, §4(b)(3), Dec. 29, 2007, 121 Stat. 2476, provided that: “The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made by section 202 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, amending this section\] and by section 410 of division A of the Tax Relief and Health Care Act of 2006 \[Pub. L. 109–432, amending this section\] had never been enacted.”
 

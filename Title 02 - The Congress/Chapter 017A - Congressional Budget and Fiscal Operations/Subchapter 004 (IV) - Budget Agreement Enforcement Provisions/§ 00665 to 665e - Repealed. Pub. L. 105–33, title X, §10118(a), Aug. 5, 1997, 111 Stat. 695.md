@@ -6,7 +6,7 @@ A prior section 601 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 323, 
 
 Section 665a, Pub. L. 93–344, title VI, §602, as added Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–603; amended Pub. L. 103–322, title XXXI, §310001(f)(1), Sept. 13, 1994, 108 Stat. 2103, related to committee allocations and enforcement.
 
-A prior section 602 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of former Title 31, prior to repeal and reenactment as section 1106(a) of Title 31, Money and Finance, by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 602 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of formerTitle 31, prior to repeal and reenactment as section 1106(a) of Title 31, Money and Finance, by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
 Section 665b, Pub. L. 93–344, title VI, §603, as added Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–605, related to consideration of legislation before adoption of budget resolution for that fiscal year.
 

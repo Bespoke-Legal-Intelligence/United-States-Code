@@ -14,7 +14,7 @@ When used in this chapter the term—
 
 &emsp;&emsp;(2) innovation grants, or
 
-&emsp;&emsp;(3) matching grants for continuing program support for programs of demonstratedvalue or success in providing constructive alternatives to youth at risk for engaging in criminal behavior, including grants for operating, or coordinating recreation programs and services;
+&emsp;&emsp;(3) matching grants for continuing program support for programs of demonstrated value or success in providing constructive alternatives to youth at risk for engaging in criminal behavior, including grants for operating, or coordinating recreation programs and services;
 
 > &emsp;in neighborhoods and communities with a high prevalence of crime, particularly violent crime or crime committed by youthful offenders; in addition to the purposes specified in subsection (b) of this section, rehabilitation grants referred to in paragraph (1) of this subsection may be used for the provision of lighting, emergency phones or other capital improvements which will improve the security of urban parks;
 

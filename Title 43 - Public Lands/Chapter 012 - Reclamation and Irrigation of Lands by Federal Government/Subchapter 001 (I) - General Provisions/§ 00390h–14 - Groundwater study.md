@@ -2,7 +2,7 @@
 
 #### (a) Investigation, analysis, and report
 
-In furtherance of the High Plains Groundwater Demonstration Program Act of 1983 (98 Stat.1675) \[43 U.S.C. 390g et seq.\], the Secretary of the Interior, acting through the Bureau of Reclamation and the Geological Survey, shall conduct an investigation and analysis of the impacts of existing Bureau of Reclamation projects on the quality and quantity of groundwater resources. Based on such investigation and analysis, the Secretary shall prepare a reclamation groundwater management and technical assistance report which shall include—
+In furtherance of the High Plains Groundwater Demonstration Program Act of 1983 (98 Stat. 1675) \[43 U.S.C. 390g et seq.\], the Secretary of the Interior, acting through the Bureau of Reclamation and the Geological Survey, shall conduct an investigation and analysis of the impacts of existing Bureau of Reclamation projects on the quality and quantity of groundwater resources. Based on such investigation and analysis, the Secretary shall prepare a reclamation groundwater management and technical assistance report which shall include—
 
 &emsp;(1) a description of the findings of the investigation and analysis, including the methodology employed;
 
@@ -33,8 +33,6 @@ The High Plains Groundwater Demonstration Program Act of 1983, referred to in su
 #### Change of Name
 
 Geological Survey redesignated United States Geological Survey by provision of title I of Pub. L. 102–154, Nov. 13, 1991, 105 Stat. 1000, set out as a note under section 31 of this title.
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

@@ -44,7 +44,7 @@ Except as otherwise provided in any section of this title—
 
 #### (B) Assessment, collection, and refunds
 
-&emsp;&emsp;Notwithstanding the provisions of subparagraph (A), and notwithstanding any contrary provision of subchapter A of chapter 63 (relating to assessment), chapter 64 (relating to collection), or chapter 65 (relating to abatements, credits, and refunds) of this title, the provisions of part II of subchapter A of chapter 28 and chapters 35, 36, and 37 (except section 3777) of subtitle D of the Internal Revenue Code of 1939 shall remain in effect until January 1, 1955, and shall also be applicable to the taxes imposed by this title. On and after January 1, 1955, the provisions of subchapter A of chapter 63, chapter 64, and chapter 65 (except section 6405) of this title shall be applicable to all internal revenue taxes (whether imposed by this title or by the Internal Revenue Code of 1939), notwithstanding any contrary provision of part II of subchapter A of chapter 28, or of chapter 35, 36, or 37, of the Internal Revenue Code of 1939. The provisions of section 6405 (relating to reports of refunds and credits) shall be applicable with respect to refunds or credits allowed after the date of enactment of this title, and section 3777 of the Internal Revenue Code of 1939 is hereby repealed with respect to such refunds and credits.
+&emsp;&emsp;Notwithstanding the provisions of subparagraph (A), and notwithstanding any contrary provision of subchapter A of chapter 63 (relating to assessment), chapter 64 (relating to collection), or chapter 65 (relating to abatements, credits, and refunds) of this title, the provisions of part II of subchapter A of chapter 28 and chapters 35, 36, and 37\(except section 3777) of subtitle D of the Internal Revenue Code of 1939 shall remain in effect until January 1, 1955, and shall also be applicable to the taxes imposed by this title. On and after January 1, 1955, the provisions of subchapter A of chapter 63, chapter 64, and chapter 65 (except section 6405) of this title shall be applicable to all internal revenue taxes (whether imposed by this title or by the Internal Revenue Code of 1939), notwithstanding any contrary provision of part II of subchapter A of chapter 28, or of chapter 35, 36, or 37, of the Internal Revenue Code of 1939. The provisions of section 6405 (relating to reports of refunds and credits) shall be applicable with respect to refunds or credits allowed after the date of enactment of this title, and section 3777 of the Internal Revenue Code of 1939 is hereby repealed with respect to such refunds and credits.
 
 #### (C) Taxes imposed under the 1939 Code
 
@@ -102,11 +102,11 @@ All offenses committed, and all penalties or forfeitures incurred, under any pro
 
 #### (d) Periods of limitation
 
-All periods of limitation, whether applicable to civil causes and proceedings, or to the prosecution of offenses, or for the recovery of penalties or forfeitures, hereby repealed shall not be affected thereby, but all suits, proceedings, or prosecutions, whether civil or criminal, forcauses arising, or acts done or committed, prior to said repeal, may be commenced and prosecuted within the same time as if this title had not been enacted.
+All periods of limitation, whether applicable to civil causes and proceedings, or to the prosecution of offenses, or for the recovery of penalties or forfeitures, hereby repealed shall not be affected thereby, but all suits, proceedings, or prosecutions, whether civil or criminal, for causes arising, or acts done or committed, prior to said repeal, may be commenced and prosecuted within the same time as if this title had not been enacted.
 
 #### (e) Reference to other provisions
 
-For the purpose of applying the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 to any period, any reference in either such code to another provision of the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 which is not then applicable to such period shall be deemed a reference to the corresponding provision of the other code which is then applicable to such period.
+For the purpose of applying the Internal Revenue Code of 1939 or the Internal Revenue Code of1986 to any period, any reference in either such code to another provision of the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 which is not then applicable to such period shall be deemed a reference to the corresponding provision of the other code which is then applicable to such period.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 919; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -146,7 +146,7 @@ Subtitles B and C of the Internal Revenue Code of 1939, referred to in subsec. (
 
 Chapter 15 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2000 to 2199 of former Title 26, Internal Revenue Code. Chapter 15 was repealed by subsec. (a)(5) of this section.
 
-Chapter 26 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2800 to 3195 of former Title 26, Internal Revenue Code. Sections 2800 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195 were repealed by subsec. (a)(5) of this section. Section 2906 was repealed by act Feb. 21, 1950, ch. 36, §7, 64 Stat.8. Section 2907 was repealed by act July 22, 1941, ch. 314, §3, 55 Stat. 602. Sections 3151 and 3154 were repealed by act Aug. 23, 1949, ch. 498, §6, 63 Stat. 626.
+Chapter 26 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2800 to 3195 of former Title 26, Internal Revenue Code. Sections 2800 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195 were repealed by subsec. (a)(5) of this section. Section 2906 was repealed by act Feb. 21, 1950, ch. 36, §7, 64 Stat. 8. Section 2907 was repealed by act July 22, 1941, ch. 314, §3, 55 Stat. 602. Sections 3151 and 3154 were repealed by act Aug. 23, 1949, ch. 498, §6, 63 Stat. 626.
 
 Chapter 28 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (6)(B), (D), was comprised of sections 3300 to 3361 of former Title 26, Internal Revenue Code. Part II of subchapter A of chapter 27 of the Internal Revenue Code of 1939 was comprised of sections 3310 to 3314 of former Title 26.
 

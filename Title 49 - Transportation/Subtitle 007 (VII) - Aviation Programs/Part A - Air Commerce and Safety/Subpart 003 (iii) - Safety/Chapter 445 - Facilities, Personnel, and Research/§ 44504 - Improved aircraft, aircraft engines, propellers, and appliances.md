@@ -112,7 +112,7 @@ Objective.—The Administrator of the Federal Aviation Administration shall esta
 
 “(b)
 
-Implementation.—Within 180 days after the date of the enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration, in cooperation with the Administrator of the National Aeronautics and Space Administration, shall provide a plan to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate for the implementation of the initiative described in subsection (a).”
+Implementation.—Within 180 days after the date of the enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration, in cooperation with the Administrator of the National Aeronautics and Space Administration, shall provide a plan to the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate for the implementation of the initiative described in subsection (a).”
 
 #### Specialty Metals Consortium
 

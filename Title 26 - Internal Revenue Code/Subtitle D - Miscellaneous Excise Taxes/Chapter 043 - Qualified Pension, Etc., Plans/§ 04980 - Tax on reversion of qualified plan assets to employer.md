@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (D) Participants
 
-&emsp;&emsp;The requirements of this subparagraph are met if at least half of the participants in the qualified plan are participants in the employee stock ownership plan (as of the closeof the 1st plan year for which an allocation of the securities is required).
+&emsp;&emsp;The requirements of this subparagraph are met if at least half of the participants in the qualified plan are participants in the employee stock ownership plan (as of the close of the 1st plan year for which an allocation of the securities is required).
 
 #### (E) Applicable amount
 
@@ -162,7 +162,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;If any amount credited to a suspense account under clause (i)(II) is not allocated as of the termination date of the replacement plan—
 
-&emsp;&emsp;&emsp;&emsp;(I) such amount shall be allocated to the accounts of participants as of suchdate, except that any amount which may not be allocated by reason of any limitation under section 415 shall be allocated to the accounts of other participants, and
+&emsp;&emsp;&emsp;&emsp;(I) such amount shall be allocated to the accounts of participants as of such date, except that any amount which may not be allocated by reason of any limitation under section 415 shall be allocated to the accounts of other participants, and
 
 &emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treated as an employer reversion to which this section applies.
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 &emsp;This subsection shall not apply to an employer who, as of the termination date of the qualified plan, is in bankruptcy liquidation under chapter 7 of title 11 of the United States Code or in similar proceedings under State law.
 
-(Added Pub. L. 99–514, title XI, §1132(a), Oct. 22, 1986, 100 Stat. 2478; amended Pub. L. 100–647, title I, §1011A(f)(1)–(3), (6), (7), title V, §5072(a), titleVI, §6069(a), Nov. 10, 1988, 102 Stat. 3478, 3479, 3681, 3704; Pub. L. 101–508, title XII, §§12001, 12002(a), Nov. 5, 1990, 104 Stat. 1388–562; Pub. L. 104–188, title I, §1704(a), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–280, title IX, §901(a)(2)(C), Aug. 17, 2006, 120 Stat. 1029.)
+(Added Pub. L. 99–514, title XI, §1132(a), Oct. 22, 1986, 100 Stat. 2478; amended Pub. L. 100–647, title I, §1011A(f)(1)–(3), (6), (7), title V, §5072(a), title VI, §6069(a), Nov. 10, 1988, 102 Stat. 3478, 3479, 3681, 3704; Pub. L. 101–508, title XII, §§12001, 12002(a), Nov. 5, 1990, 104 Stat. 1388–562; Pub. L.104–188, title I, §1704(a), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–280, title IX, §901(a)(2)(C), Aug. 17, 2006, 120 Stat. 1029.)
 
 #### Amendments
 
@@ -340,7 +340,7 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 
 &emsp;“(B)
 
-Election to have amendments apply.—A corporation may elect to have the amendments made by this section apply to any reversion after 1985 pursuant to a plan termination occurring before 1986 if such corporation was incorporated in the State ofDelaware in March, 1978, and became a parent corporation of the consolidated group on September 19, 1978, pursuant to a merger agreement recorded in the State of Nevada on September 19, 1978.
+Election to have amendments apply.—A corporation may elect to have the amendments made by this section apply to any reversion after 1985 pursuant to a plan termination occurring before 1986 if such corporation was incorporated in the State of Delaware in March, 1978, and became a parent corporation of the consolidated group on September 19,1978, pursuant to a merger agreement recorded in the State of Nevada on September 19, 1978.
 
 “(3)
 

@@ -46,7 +46,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (ii) Determination of damage or threat thereof
 
-&emsp;&emsp;&emsp;Whenever the Secretary of Commerce determines, based on the data described in clause (i), or pursuant to a written request made by an interested party, that there has been a surge in imports of an article described in this paragraph from a beneficiary sub-Saharan African country, the Secretary shall determine whether such article from such country is being imported in such increased quantities as tocause serious damage, or threat thereof, to the domestic industry producing a like or directly competitive article. If the Secretary's determination is affirmative, the President shall suspend the duty-free treatment provided for such article under this paragraph. If the inquiry is initiated at the request of an interested party, the Secretary shall make the determination within 60 days after the date of the request.
+&emsp;&emsp;&emsp;Whenever the Secretary of Commerce determines, based on the data described in clause (i), or pursuant to a written request made by an interested party, that there has been a surge in imports of an article described in this paragraph from a beneficiary sub-Saharan African country, the Secretary shall determine whether such article from such country is being imported in such increased quantities as to cause serious damage, or threat thereof, to the domestic industry producing a like or directly competitive article. If the Secretary's determination is affirmative, the President shall suspend the duty-free treatment provided for such article under this paragraph. If the inquiry is initiated at the request of an interested party, the Secretary shall make the determination within 60 days after the date of the request.
 
 #### (iii) Factors to consider
 
@@ -180,7 +180,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (iii) Determination regarding imported articles
 
-&emsp;&emsp;&emsp;After the end of each applicable 1-year period for which a determination under clause (i) is in effect, the Commission shall determine to what extent the quantity of the fabric or yarn determined under clause (i) to be available in commercial quantities for use by lesser developed beneficiary sub-Saharan African countries was used in the production of apparel articles receiving preferential treatment under paragraph (1) that were entered in that applicable 1-year period. To the extent that the quantity so determined was not so used, then the Commission shall add to the quantity of that fabric or yarn determined to be available in the next applicable 1-year period the quantity not so used in the preceding applicable 1-year period.
+&emsp;&emsp;&emsp;After the end of each applicable 1-year period for which a determination under clause (i) is in effect, the Commission shall determine to what extent the quantity of the fabric or yarn determined under clause\(i) to be available in commercial quantities for use by lesser developed beneficiary sub-Saharan African countries was used in the production of apparel articles receiving preferential treatment under paragraph (1) that were entered in that applicable 1-year period. To the extent that the quantity so determined was not so used, then the Commission shall add to the quantity of that fabric or yarn determined to be available in the next applicable 1-year period the quantity not so used in the preceding applicable 1-year period.
 
 #### (C) Denim
 
@@ -322,7 +322,7 @@ In this section and section 3722 of this title:
 
 #### (4) Former sub-Saharan African country
 
-&emsp;The term “former <sup>2</sup> sub-Saharan African country” means a country that, after beingdesignated as a beneficiary sub-Saharan African country under this chapter <sup>3</sup>, ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
+&emsp;The term “former <sup>2</sup> sub-Saharan African country” means a country that, after being designated as a beneficiary sub-Saharan African country under this chapter <sup>3</sup>, ceased to be designated as such a beneficiary sub-Saharan country by reason of its entering into a free trade agreement with the United States.
 
 #### (5) Enter; entered
 

@@ -6,7 +6,7 @@
 
 | Circuits | Number of Judges |
 | :--- | ---: |
-| District of Columbia | 12&nbsp;&nbsp; |
+| District of Columbia | 11&nbsp;&nbsp; |
 | First | 6&nbsp;&nbsp; |
 | Second | 13&nbsp;&nbsp; |
 | Third | 14&nbsp;&nbsp; |
@@ -15,7 +15,7 @@
 | Sixth | 16&nbsp;&nbsp; |
 | Seventh | 11&nbsp;&nbsp; |
 | Eighth | 11&nbsp;&nbsp; |
-| Ninth | 28&nbsp;&nbsp; |
+| Ninth | 29&nbsp;&nbsp; |
 | Tenth | 12&nbsp;&nbsp; |
 | Eleventh | 12&nbsp;&nbsp; |
 | Federal | 12\. |
@@ -26,7 +26,7 @@
 
 (d) Each circuit judge shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as adjusted by section 461 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 871; Aug. 3, 1949, ch. 387, §1, 63 Stat. 493; Feb. 10, 1954, ch. 6, §1, 68 Stat. 8; Mar. 2, 1955, ch. 9, §1(b), 69 Stat. 10; Pub. L. 87–36, §1(b), May 19, 1961, 75 Stat. 80; Pub. L. 88–426, title IV, §403(b), Aug. 14, 1964, 78 Stat. 434; Pub. L. 89–372, §1(b), Mar. 18, 1966, 80 Stat. 75; Pub. L. 90–347, §3, June 18, 1968, 82 Stat. 184; Pub. L. 94–82, title II, §205(b)(2), Aug. 9, 1975, 89 Stat. 422; Pub. L. 95–486, §3(b), Oct. 20, 1978, 92 Stat. 1632; Pub. L. 96–452, §3, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §102, Apr. 2, 1982, 96 Stat. 25; Pub. L. 98–353, title II, §201(b), July 10, 1984, 98 Stat. 346; Pub. L. 101–650, title II, §202(b), Dec. 1, 1990, 104 Stat. 5099; Pub. L. 102–198, §10(c), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 105–119, title III, §307, Nov. 26, 1997, 111 Stat. 2493.)
+(June 25, 1948, ch. 646, 62 Stat. 871; Aug. 3, 1949, ch. 387, §1, 63 Stat. 493; Feb. 10, 1954, ch. 6, §1, 68 Stat. 8; Mar. 2, 1955, ch. 9, §1(b), 69 Stat. 10; Pub. L. 87–36, §1(b), May 19, 1961, 75 Stat. 80; Pub. L. 88–426, title IV, §403(b), Aug. 14, 1964, 78 Stat. 434; Pub. L. 89–372, §1(b), Mar. 18, 1966, 80 Stat. 75; Pub. L. 90–347, §3, June 18, 1968, 82 Stat. 184; Pub. L. 94–82, title II, §205(b)(2), Aug. 9, 1975, 89 Stat. 422; Pub. L. 95–486, §3(b), Oct. 20, 1978, 92 Stat. 1632; Pub. L. 96–452, §3, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §102, Apr. 2, 1982, 96 Stat. 25; Pub. L. 98–353, title II, §201(b), July 10, 1984, 98 Stat. 346; Pub. L. 101–650, title II, §202(b), Dec. 1, 1990, 104 Stat. 5099; Pub. L. 102–198, §10(c), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 105–119, title III, §307, Nov. 26, 1997, 111 Stat. 2493; Pub. L. 110–177, title V, §509(a), Jan. 7, 2008, 121 Stat. 2543.)
 
 #### Historical and Revision Notes
 
@@ -57,6 +57,10 @@ The effective date of the Federal Courts Improvement Act of 1982, referred to in
 Section 225 of the Federal Salary Act of 1967, referred to in subsec. (d), is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, as amended, which is classified to chapter 11 (§351 et seq.) of Title 2, The Congress.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–177, §509(a)(2), substituted “29” for “28” in item relating to Ninth Circuit.
+
+Pub. L. 110–177, §509(a)(1), substituted “11” for “12” in item relating to District of Columbia Circuit.
 
 1997—Subsec. (c). Pub. L. 105–119 inserted at end “In each circuit (other than the Federal judicial circuit) there shall be at least one circuit judge in regular active service appointed from the residents of each state in that circuit.”
 
@@ -99,7 +103,7 @@ Section 225 of the Federal Salary Act of 1967, referred to in subsec. (d), is se
 
 Subsec. (c). Pub. L. 97–164, §102(b), inserted provision relating to requirement that judges of Federal judicial circuit reside within fifty miles of the District of Columbia.
 
-1980—Subsec. (a). Pub. L. 96–452 substituted “14” for “26” in item relating to fifth circuit, and added item relating to eleventh circuit.
+1980—Subsec. (a). Pub. L. 96–452 substituted “14” for “26” in item relating to Fifth Circuit, and added item relating to Eleventh Circuit.
 
 1978—Subsec. (a). Pub. L. 95–486 altered number of permanent circuit judgeships in the named circuits as follows:
 
@@ -133,7 +137,11 @@ Subsec. (c). Pub. L. 97–164, §102(b), inserted provision relating to requirem
 
 1954—Subsec. (a). Act Feb. 10, 1954, increased the number of circuit judges in the Fifth Circuit from six to seven, and in the Ninth Circuit from seven to nine.
 
-1949—Subsec. (a). Act Aug. 3, 1949, increased the number of circuit judges for the District of Columbia from six to nine, for the third circuit from six to seven, for the seventh circuit from five to six, and for the tenth circuit from four to five.
+1949—Subsec. (a). Act Aug. 3, 1949, increased the number of circuit judges for the District of Columbia from six to nine, for the Third Circuit from six to seven, for the Seventh Circuit from five to six, and for the Tenth Circuit from four to five.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–177, title V, §509(b), Jan. 7, 2008, 121 Stat. 2543, provided that: “The amendments made by subsection (a)(2) \[amending this section\] shall take effect on January 21, 2009.”
 
 #### Effective Date of 1990 Amendment
 

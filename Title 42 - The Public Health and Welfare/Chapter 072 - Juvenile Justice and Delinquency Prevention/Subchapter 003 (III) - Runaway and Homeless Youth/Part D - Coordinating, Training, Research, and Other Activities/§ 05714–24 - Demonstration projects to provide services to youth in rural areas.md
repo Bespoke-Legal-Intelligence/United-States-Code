@@ -8,7 +8,7 @@
 
 (C) Not more than 2 grants may be made under paragraph (1) in each fiscal year to carry out projects in a particular State.
 
-(3) Each eligible applicant that receives a grant for a fiscal year to carry out a project under this section shall have priority to receive a grant for the subsequent fiscal year to carry out a project under this section.
+(3) Each eligible applicant that receives a grant for a fiscal year to carry out a projectunder this section shall have priority to receive a grant for the subsequent fiscal year to carry out a project under this section.
 
 (b) To be eligible to receive a grant under subsection (a) of this section, an applicant shall—
 

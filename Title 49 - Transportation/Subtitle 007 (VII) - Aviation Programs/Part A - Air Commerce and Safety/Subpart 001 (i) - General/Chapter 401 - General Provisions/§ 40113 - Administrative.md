@@ -108,7 +108,7 @@ In subsection (d), the text of 49 App.:1354(e) (last sentence) is omitted becaus
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–71, §140(c)(1), inserted “the Under Secretary of Transportation for Securitywith respect to security duties and powers designated to be carried out by the Under Secretary or” before “the Administrator of the Federal Aviation Administration” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
+2001—Subsec. (a). Pub. L. 107–71, §140(c)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” before “the Administrator of the Federal Aviation Administration” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
 Subsec. (d). Pub. L. 107–71, §140(c)(2), inserted “Under Secretary of Transportation for Security or the” after “The” and substituted “employee of the Transportation Security Administration or Federal Aviation Administration, as the case may be,” for “employee of the Administration” and “the Under Secretary or Administrator, as the case may be, decides” for “the Administrator decides”.
 

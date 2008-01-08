@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall make a payment to each State which is eligible under section1252(j) <sup>1</sup> of title 8 in such amount as is determined under section 1252(j) <sup>1</sup> of title 8, and for which payment is not made to such State for such fiscal year under such section.
+The Attorney General shall make a payment to each State which is eligible under section 1252(j) <sup>1</sup> of title 8 in such amount as is determined under section 1252(j) <sup>1</sup> of title 8, and for which payment is not made to such State for such fiscal year under such section.
 
 #### (b) Authorization of appropriations
 

@@ -26,7 +26,7 @@
 
 (2) If at the time of any such valuation there has been a change in benefits under the uniformed services retiree health care programs for medicare-eligible beneficiaries that has been made since the last such valuation and such change in benefits increases or decreases the present value of amounts payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the amortization of the cumulative unfunded liability (or actuarial gain to the Fund) created by such change and any previous such changes so that the present value of the sum of the amortization payments (or reductions in payments that would otherwise be made) equals the cumulative increase (or decrease) in the present value of such amounts.
 
-(3) If at the time of any such valuation the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedulefor the amortization of the cumulative gain or loss to the Fund created by such change in assumptions and any previous such changes in assumptions through an increase or decrease in the payments that would otherwise be made to the Fund.
+(3) If at the time of any such valuation the Secretary of Defense determines that, basedupon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the amortization of the cumulative gain or loss to the Fund created by such change in assumptions and any previous such changes in assumptions through an increase or decrease in the payments that would otherwise be made to the Fund.
 
 (4) If at the time of any such valuation the Secretary of Defense determines that, based upon the Fund's actuarial experience (other than resulting from changes in benefits or actuarial assumptions) since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the amortization of the cumulative gain or loss to the Fund created by such actuarial experience and any previous actuarial experience through an increase or decrease in the payments that would otherwise be made to the Fund.
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 108–375 effective Oct. 1, 2005, see section 725(d) of Pub
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–107 effective as if included in the enactment of this chapter by Pub. L. 106–398, see section 711(f) of Pub. L. 107–107, set out as a note under section 1111 of this title.
+Amendment by Pub. L. 107–107 effective as if included in the enactment of this chapter by Pub. L. 106–398, seesection 711(f) of Pub. L. 107–107, set out as a note under section 1111 of this title.
 
 #### Effective Date
 

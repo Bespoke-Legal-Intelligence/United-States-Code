@@ -20,7 +20,7 @@ In awarding grants under subsection (a) of this section, the Attorney General sh
 
 &emsp;(2) the extent to which the proposed supervised visitation programs and services serve underserved populations (as defined in section 3796gg–2 <sup>2</sup> of this title);
 
-&emsp;(3) with respect to an applicant for a contract or cooperative agreement, the extent to which the applicant demonstrates cooperation and collaboration with nonprofit, nongovernmental entities in the local community served, including the State or tribal domesticviolence coalition, State or tribal sexual assault coalition, local shelters, and programs for domestic violence and sexual assault victims; and
+&emsp;(3) with respect to an applicant for a contract or cooperative agreement, the extent to which the applicant demonstrates cooperation and collaboration with nonprofit, nongovernmental entities in the local community served, including the State or tribal domestic violence coalition, State or tribal sexual assault coalition, local shelters, and programs for domestic violence and sexual assault victims; and
 
 &emsp;(4) the extent to which the applicant demonstrates coordination and collaboration with State and local court systems, including mechanisms for communication and referral.
 

@@ -16,13 +16,13 @@ Manufacturer Reports.—(1) A manufacturer shall report to the Secretary of Tran
 
 &emsp;(B) beginning on the 180th day of the model year.
 
-(3) When a manufacturer decides that actions reported under paragraph (1)(B) of this subsection are not sufficient to ensure compliance with that standard, the manufacturer shall report to the Secretary additional actions the manufacturer intends to take to comply with the standard and include a statement about whether those actions are sufficient to ensure compliance.
+(3) When a manufacturer decides that actions reported under paragraph (1)(B) of this subsection are not sufficient to ensure compliance with that standard, the manufacturer shall report to the Secretary additional actions the manufacturer intends to take to comply withthe standard and include a statement about whether those actions are sufficient to ensure compliance.
 
 (4) This subsection does not apply to a manufacturer for a model year for which the manufacturer is subject to an alternative average fuel economy standard under section 32902(d) of this title.
 
 (b)
 
-Records, Reports, Tests, Information, and Inspection.—(1) Under regulations prescribed by the Secretary or the Administrator ofthe Environmental Protection Agency to carry out this chapter, a manufacturer shall keep records, make reports, conduct tests, and provide items and information. On request and display of proper credentials, an officer or employee designated by the Secretary or Administrator may inspect automobiles and records of the manufacturer. An inspection shall be made at a reasonable time and in a reasonable way.
+Records, Reports, Tests, Information, and Inspection.—(1) Under regulations prescribed by the Secretary or the Administrator of the Environmental Protection Agency to carry out this chapter, a manufacturer shall keep records, make reports, conduct tests, and provide items and information. On request and display of proper credentials, an officer or employee designated by the Secretary or Administrator may inspect automobiles and records of the manufacturer. An inspection shall be made at a reasonable time and in a reasonable way.
 
 (2) The district courts of the United States may—
 

@@ -2,7 +2,7 @@
 
 #### (a) Submission by State educational agency receiving administrative funds for programs; contents
 
-Not later than six months after June 14, 1980, the State educational agency of any State which receives administrative funds for any applicableprogram (as defined under section 1221(c)(1)(A) <sup>1</sup> of this title) shall submit to the Secretary a plan which—
+Not later than six months after June 14, 1980, the State educational agency of any State which receives administrative funds for any applicable program (as defined under section 1221(c)(1)(A) <sup>1</sup> of this title) shall submit to the Secretary a plan which—
 
 &emsp;(1) describes the manner in which the State, not later than nine months after June 14, 1980, shall distribute to local educational agencies within that State's jurisdiction information describing—
 

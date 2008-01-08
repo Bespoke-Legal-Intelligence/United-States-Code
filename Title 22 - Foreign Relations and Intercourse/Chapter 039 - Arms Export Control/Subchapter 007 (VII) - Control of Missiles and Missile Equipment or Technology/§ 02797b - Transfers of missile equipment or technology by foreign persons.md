@@ -100,7 +100,7 @@ The President shall not apply the sanction under this section prohibiting the im
 
 &emsp;&emsp;(D) information and technology essential to United States products or production.
 
-(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994,108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, §1408(d), Feb. 10, 1996, 110 Stat. 494; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(8), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1136(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–495.)
+(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, §1408(d), Feb. 10, 1996, 110 Stat. 494; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(8), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1136(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–495.)
 
 #### References in Text
 
@@ -134,6 +134,8 @@ Subsecs. (f) to (h). Pub. L. 103–236, §734(b), added subsec. (f) and redesign
 
 Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
@@ -152,7 +154,7 @@ Annual Certification.—
 
 &emsp;“(1)
 
-Requirement.—The President shall submit each year to the appropriate committees of Congress \[Committee on Foreign Relations of the Senate and Committee on International Relations of the House of Representatives\], with respect to each Russian person described in paragraph (2), a certification that the reports required to be submitted to Congress during the preceding calendar year under section 2 of the Iran and Syria Nonproliferation Act (Public Law 106–178) \[now Iran, North Korea, and Syria Nonproliferation Act\] \[50 U.S.C. 1701 note\] do not identify that person on account of a transfer to Iran of goods, services, or technology described in section 2(a)(1)(B) of such Act.
+Requirement.—The President shall submit each year to the appropriate committees of Congress \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\], with respect to each Russian person described in paragraph (2), a certification that the reports required to be submitted to Congress during the preceding calendar year under section 2 of the Iran and Syria Nonproliferation Act (Public Law 106–178) \[now Iran, North Korea, and Syria Nonproliferation Act\] \[50 U.S.C. 1701 note\] do not identify that person on account of a transfer to Iran of goods, services, or technology described in section 2(a)(1)(B) of such Act.
 
 &emsp;“(2)
 

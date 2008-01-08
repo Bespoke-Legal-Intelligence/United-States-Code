@@ -20,7 +20,7 @@
 
 #### (b) Sales practices
 
-The regulations prescribed pursuant to subsection (a) of this section shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice thatwould lead a customer to believe an extension of credit, in violation of section 1972 of this title, is conditional upon—
+The regulations prescribed pursuant to subsection (a) of this section shall include antitying and anticoercion rules applicable to the sale of insurance products that prohibit a depository institution from engaging in any practice that would lead a customer to believe an extension of credit, in violation of section 1972 of this title, is conditional upon—
 
 &emsp;(1) the purchase of an insurance product from the institution or any of its affiliates; or
 
@@ -98,7 +98,7 @@ The regulations prescribed pursuant to subsection (a) of this section shall incl
 
 #### (1) Regulations required
 
-&emsp;The regulations prescribed pursuant to subsection (a) of this section shall include such provisions as the Federal banking agencies consider appropriate to ensure that the routine acceptance of deposits is kept, to the extent practicable, physically segregated from insurance product activity.
+&emsp;The regulations prescribed pursuant to subsection (a) of this section shall include such provisions as the Federal banking agenciesconsider appropriate to ensure that the routine acceptance of deposits is kept, to the extent practicable, physically segregated from insurance product activity.
 
 #### (2) Requirements
 
@@ -170,7 +170,7 @@ The Federal banking agencies shall jointly establish a consumer complaint mechan
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, with respect to any provision of the regulations prescribed under this section, the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Board of Directors of the Corporation determine jointly that the protection afforded by such provision for customers is greater than the protection provided by a comparable provision of the statutes, regulations, orders, or interpretations referred to in subparagraph (A) of any State, the appropriate State regulatory authority shall be notified of such determination in writing.
+&emsp;&emsp;&emsp;If, with respect to any provision of the regulations prescribed under this section, the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Board of Directors of theCorporation determine jointly that the protection afforded by such provision for customers is greater than the protection provided by a comparable provision of the statutes, regulations, orders, or interpretations referred to in subparagraph (A) of any State, the appropriate State regulatory authority shall be notified of such determination in writing.
 
 #### (ii) Considerations
 

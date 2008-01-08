@@ -16,7 +16,7 @@ Section consolidates provisions of section 1131 of title 26, U.S.C., 1940 ed., r
 
 Other provisions of section 1131 of title 26, U.S.C., 1940 ed., are incorporated in section 604 of this title.
 
-Provisions of section 530 of title 28, U.S.C., 1940 ed., limiting the price to be paid for volumes of the Federal Reporter and other similar reports were omitted after consultation with the Administrative Office of United States Courts as more properly covered by current appropriation acts. Similar provisions relating to the Federal Digest and the United States Code Annotated were omitted as covered in current appropriation acts. (See Act June 29, 1944, ch. 286, title II, §212, 58 Stat. 361, 387.)
+Provisions of section 530 of title 28, U.S.C., 1940 ed., limiting the price to be paid for volumes of the Federal Reporter and other similar reports were omitted after consultation with the Administrative Office of United States Courts as more properly covered by current appropriation acts. Similar provisions relating to the Federal Digest and the United States Code Annotated were omitted as covered in current appropriation acts.\(See Act June 29, 1944, ch. 286, title II, §212, 58 Stat. 361, 387.)
 
 Provisions of said section 337 of title 28, U.S.C., 1940 ed., that books are to remain United States property, so marked, and transmitted to successors in office of persons receiving them, were omitted as covered by section 414 of this title.
 

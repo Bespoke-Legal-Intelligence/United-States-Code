@@ -22,9 +22,9 @@
 
 In implementing the program, the Secretary shall target resources to achieve the following objectives:
 
-&emsp;(1) Investing in practices to establish, restore, protect, manage, maintain, and enhance the health and productivity of the nonindustrial private forest lands in the United States for timber, habitat for flora and fauna, soil, water, and air quality, wetlands, and riparian buffers.
+&emsp;(1) Investing in practices to establish, restore, protect, manage, maintain, and enhancethe health and productivity of the nonindustrial private forest lands in the United States for timber, habitat for flora and fauna, soil, water, and air quality, wetlands, and riparian buffers.
 
-&emsp;(2) Ensuring that afforestation, reforestation, improvement of poorly stocked stands, timber stand improvement, practices necessary to improve seedling growth and survival, and growth enhancement practicesoccur where needed to enhance and sustain the long-term productivity of timber and nontimber forest resources to help meet future public demand for all forest resources and provide environmental benefits.
+&emsp;(2) Ensuring that afforestation, reforestation, improvement of poorly stocked stands, timber stand improvement, practices necessary to improve seedling growth and survival, and growth enhancement practices occur where needed to enhance and sustain the long-term productivity of timber and nontimber forest resources to help meet future public demand for all forest resources and provide environmental benefits.
 
 &emsp;(3) Reducing the risks and helping restore, recover, and mitigate the damage to forests caused by fire, insects, invasive species, disease, and damaging weather.
 
@@ -96,7 +96,7 @@ In implementing the program, the Secretary shall target resources to achieve the
 
 &emsp;Approved activities and practices under paragraph (1) may consist of activities and practices for the following purposes:
 
-&emsp;&emsp;(A) The establishment, management, maintenance, and restoration of forests for shelterbelts, windbreaks, aesthetic quality, and other conservation purposes.
+&emsp;&emsp;(A) The establishment, management, maintenance, and restoration of forests forshelterbelts, windbreaks, aesthetic quality, and other conservation purposes.
 
 &emsp;&emsp;(B) The sustainable growth and management of forests for timber production.
 

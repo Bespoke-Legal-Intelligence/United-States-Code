@@ -40,5 +40,5 @@ Sections 404 and 605 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(11)
 
 #### Savings Provision
 
-Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or anearlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
+Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 

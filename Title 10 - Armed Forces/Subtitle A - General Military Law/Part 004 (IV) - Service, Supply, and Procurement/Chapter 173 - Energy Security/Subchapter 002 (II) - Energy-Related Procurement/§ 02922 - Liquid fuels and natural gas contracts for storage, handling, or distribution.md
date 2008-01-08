@@ -6,7 +6,7 @@ Authority To Contract.—The Secretary of Defense and the Secretary of a militar
 
 (b)
 
-Period of Contract.—The period of a contract entered into under subsection (a) may notexceed 5 years. However, the contract may provide options for the Secretary to renew the contract for additional periods of not more than 5 years each, but not for more than a total of 20 years.
+Period of Contract.—The period of a contract entered into under subsection (a) may not exceed 5 years. However, the contract may provide options for the Secretary to renew the contract for additional periods of not more than 5 years each, but not for more than a total of 20 years.
 
 (c)
 

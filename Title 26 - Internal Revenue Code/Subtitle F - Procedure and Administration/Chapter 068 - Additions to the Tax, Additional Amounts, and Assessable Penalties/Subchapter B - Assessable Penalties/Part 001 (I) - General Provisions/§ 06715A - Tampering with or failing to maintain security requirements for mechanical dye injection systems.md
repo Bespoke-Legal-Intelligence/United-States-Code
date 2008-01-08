@@ -8,7 +8,7 @@
 
 #### (2) Failure to maintain security requirements
 
-&emsp;If any operator of a mechanical dye injection system used to indelibly dye fuel for purposes of section 4082 fails to maintain the security standards for such system as established by the Secretary, then such operatorshall pay a penalty in addition to the tax (if any).
+&emsp;If any operator of a mechanical dye injection system used to indelibly dye fuel for purposes of section 4082 fails to maintain the security standards for such system as established by the Secretary, then such operator shall pay a penalty in addition to the tax (if any).
 
 #### (b) Amount of penalty
 

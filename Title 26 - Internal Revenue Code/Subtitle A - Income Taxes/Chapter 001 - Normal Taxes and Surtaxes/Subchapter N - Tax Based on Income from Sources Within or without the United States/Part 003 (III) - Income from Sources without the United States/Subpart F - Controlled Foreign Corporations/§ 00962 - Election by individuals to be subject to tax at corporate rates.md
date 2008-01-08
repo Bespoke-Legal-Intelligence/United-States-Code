@@ -4,7 +4,7 @@
 
 Under regulations prescribed by the Secretary, in the case of a United States shareholder who is an individual and who elects to have the provisions of this section apply for the taxable year—
 
-&emsp;(1) the tax imposed under this chapter on amounts which are included in his gross income under section 951(a) shall (in lieu of the tax determined under sections 1 and 55) be anamount equal to the tax which would be imposed under sections 11 and 55 if such amounts were received by a domestic corporation, and
+&emsp;(1) the tax imposed under this chapter on amounts which are included in his gross income under section 951(a) shall (in lieu of the tax determined under sections 1 and 55) be an amount equal to the tax which would be imposed under sections 11 and 55 if such amounts were received by a domestic corporation, and
 
 &emsp;(2) for purposes of applying the provisions of section 960 (relating to foreign tax credit) such amounts shall be treated as if they were received by a domestic corporation.
 
@@ -14,7 +14,7 @@ An election to have the provisions of this section apply for any taxable year sh
 
 #### (c) Pro ration of each section 11 bracket amount
 
-For purposes of applying subsection (a)(1), the amount in each taxable income bracket in the tax table in section 11(b) shall not exceed an amount which bears the same ratio to such bracket amount as the amount included in the gross income of the United States shareholder under section 951(a) for the taxable year bears to such shareholder's pro rata share of the earnings and profits for the taxable year of all controlled foreign corporations with respect to which such shareholder includes any amount in gross income under section 951(a).
+For purposes of applying subsection (a)(1), the amount in each taxable income bracket in the tax table in section 11(b) shall not exceed an amount which bears the same ratio to such bracket amount as the amount included in the gross income of the United States shareholder under section 951(a) for the taxable year bears to such shareholder's pro rata share of the earnings and profits for the taxable year of all controlled foreign corporations with respect to which suchshareholder includes any amount in gross income under section 951(a).
 
 #### (d) Special rule for actual distributions
 

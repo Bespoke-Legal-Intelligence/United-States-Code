@@ -52,7 +52,7 @@ Rules similar to the rules of subsections (e), (f), and (g) of section 23 shall 
 
 #### (f) Adjustments for inflation
 
-In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts in subsection (a)(2) and paragraphs (1) and (2)(A) of subsection (b) shall be increased by an amount equal to—
+In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts insubsection (a)(2) and paragraphs (1) and (2)(A) of subsection (b) shall be increased by an amount equal to—
 
 &emsp;(1) such dollar amount, multiplied by
 
@@ -62,9 +62,9 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 (Added Pub. L. 104–188, title I, §1807(b), Aug. 20, 1996, 110 Stat. 1901; amended Pub. L. 105–34, title XVI, §1601(h)(2)(C), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(C), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title II, §202(a)(2), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, §431(c)(1), June 7, 2001, 115 Stat. 47, 48, 68; Pub. L. 107–147, title IV, §§411(c)(2), 418(a)(2), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–311, title IV, §403(e), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
 
-#### Adjustment for Adoption Assistance Program Expenses Exclusion for Taxable Years Beginning in 2007
+#### Adjustment for Adoption Assistance Program Expenses Exclusion for Taxable Years Beginning in 2008
 
-<i>For inflation adjustment for taxable years beginning in 2007 of maximum exclusion in sub</i><i>section (a)(2) of this section in connection with employee's adoption of a child with special needs, of maximum exclusion in subsection (b)(1) of this section in connection with adoption assistance program for other adoptions, and of phaseout of exclusion in subsection (b)(2)(A) of this section, see section 3.15 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment for taxable years beginning in 2008 of maximum exclusion in subsection (a)(2) of this section in connection with employee's adoption of a child with special needs, of maximum exclusion in subsection (b)(1) of this section in connection with adoption assistance program for other adoptions, and of phaseout of exclusion in subsection (b)(2)(A) of this section, see section 3.15 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -124,7 +124,7 @@ Amendment by section 202(a)(2) of Pub. L. 107–16 applicable to taxable years b
 
 Amendment by section 431(c)(1) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010,and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

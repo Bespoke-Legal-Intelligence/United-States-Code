@@ -22,7 +22,7 @@ The Secretary of State may waive the requirements of this section on a country-b
 
 #### (c) Responses to contract solicitations
 
-(1) Except as provided in paragraph (2) of this subsection, the Secretary of State shall ensurethat any response to a solicitation for a bid or a request for a proposal, with respect to a contract covered by subsection (a) of this section, includes the following clause, in substantially the following form:
+(1) Except as provided in paragraph (2) of this subsection, the Secretary of State shall ensure that any response to a solicitation for a bid or a request for a proposal, with respect to a contract covered by subsection (a) of this section, includes the following clause, in substantially the following form:
 
 “arab league boycott of israel
 
@@ -32,7 +32,7 @@ Definitions.—As used in this clause—
 
 &emsp;“(1) the term ‘foreign person’ means any person other than a United States person as defined in paragraph (2); and
 
-&emsp;“(2) the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations of the President.
+&emsp;“(2) the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concernwhich is controlled in fact by such domestic concern, as determined under regulations of the President.
 
 “(b)
 

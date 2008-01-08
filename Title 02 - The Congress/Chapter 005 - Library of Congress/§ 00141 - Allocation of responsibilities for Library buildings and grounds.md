@@ -34,7 +34,7 @@ The Architect of the Capitol and the Librarian of Congress may enter into agreem
 
 #### Amendments
 
-2003—Pub. L. 108–7 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Architect of the Capitol shall have charge of all structural work at the Library of Congress buildings and grounds (as defined in section 167j of this title), including all necessary repairs, the operation, maintenance, and repair of the mechanical plant and elevators, the care and maintenance of the grounds, and the purchasing of all equipment other than office equipment. The employees required for the performance of the foregoing duties shall be appointedby the Architect of the Capitol. All other duties on June 29, 1922, required to be performed by the Superintendent of the Library Building and Grounds shall be performed under the direction of the Librarian of Congress, who shall appoint the employees necessary therefor. The Librarian of Congress shall provide for the purchase and supply of office equipment and furniture for library purposes.”
+2003—Pub. L. 108–7 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Architect of the Capitol shall have charge of all structural work at the Library of Congress buildings and grounds (as defined in section 167j of this title), including all necessary repairs, the operation, maintenance, and repair of the mechanical plant and elevators, the care and maintenance of the grounds, and the purchasing of all equipment other than office equipment. The employees required for the performance of the foregoing duties shall be appointed by the Architect of the Capitol. All other duties on June 29, 1922, required to be performed by the Superintendent of the Library Building and Grounds shall be performed under the direction of the Librarian of Congress, who shall appoint the employees necessary therefor. The Librarian of Congress shall provide for the purchase and supply of office equipment and furniture for library purposes.”
 
 1990—Pub. L. 101–520 and Pub. L. 101–562 made substantively identical amendments, substituting reference to the Library of Congress buildings and grounds (as defined in section 167j of this title) for reference to the Library Building and on the grounds.
 
@@ -68,7 +68,7 @@ Uses.—Effective on the date on which the Architect of the Capitol acquires the
 
 “(c)
 
-Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement or transfer of funds under subsection (a) of this section, the Architect of the Capitol may, not later than 90 days after acquisition of the property under this section, transfer funds to the entity from which the property was acquired by the Architect of the Capitol. Such transfers may not exceed a total of $16,500,000.
+Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement or transferof funds under subsection (a) of this section, the Architect of the Capitol may, not later than 90 days after acquisition of the property under this section, transfer funds to the entity from which the property was acquired by the Architect of the Capitol. Such transfers may not exceed a total of $16,500,000.
 
 #### “SEC. 2. LIBRARY BUILDINGS AND GROUNDS.
 
@@ -104,7 +104,7 @@ Pub. L. 103–110, §122, Oct. 21, 1993, 107 Stat. 1043, provided that:
 
 “(d) Any real property and improvements thereon transferred pursuant to this section shall be under the jurisdiction of the Architect of the Capitol, subject to the rules and regulations providing for the use of such property as may be approved by the House Office Building Commission and the Senate Committee on Rules and Administration: <i>Provided</i>, That any existing improvements made available by the Architect to the Librarian of Congress, under the direction of the Joint Committee on the Library, or hereafter erected upon such real property pursuant to law for the purposes of providing for the long-term storage and service needs of the Library of Congress shall be subject to the provisions of sections 136, 141 and 167 to 167j of title 2, United States Code.
 
-“(e) Portions of the real property and any improvements thereon transferred pursuant to this section thatare not determined to be immediately required for storage or service needs by the Architect are authorized to be leased temporarily to the Secretary of the Army: <i>Provided</i>, That nominal lease payments made by the Secretary of the Army shall be credited to the appropriation ‘Architect of the Capitol, Library Buildings and Grounds, Structural and Mechanical Care, No Year’.
+“(e) Portions of the real property and any improvements thereon transferred pursuant to this section that are not determined to be immediately required for storage or service needs by the Architect are authorized to be leased temporarily to the Secretary of the Army: <i>Provided</i>, That nominal lease payments made by the Secretary of the Army shall be credited to the appropriation ‘Architect of the Capitol, Library Buildings and Grounds, Structural and Mechanical Care, No Year’.
 
 “(f) There are authorized to be appropriated to the Architect of the Capitol such sums as may be necessary to carry out the provisions of this section.”
 

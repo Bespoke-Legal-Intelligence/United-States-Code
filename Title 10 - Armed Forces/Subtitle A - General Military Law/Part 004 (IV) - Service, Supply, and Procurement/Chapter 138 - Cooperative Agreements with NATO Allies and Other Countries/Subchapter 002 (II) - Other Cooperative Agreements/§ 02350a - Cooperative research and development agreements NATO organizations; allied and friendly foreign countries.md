@@ -58,7 +58,7 @@ Cooperative Opportunities Document.—(1)(A) In order to ensure that opportuniti
 
 Side-by-Side Testing.—(1) It is the sense of Congress—
 
-&emsp;(A) that the Secretary of Defense should test conventional defense equipment, munitions, and technologies manufactured and developedby countries referred to in subsection (a)(2) to determine the ability of such equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
+&emsp;(A) that the Secretary of Defense should test conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) to determine the ability of such equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
 
 &emsp;(B) that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
 
@@ -118,7 +118,7 @@ Subsec. (a)(3). Pub. L. 107–107, §1212(b), added par. (3).
 
 Subsec. (b)(1). Pub. L. 107–107, §1212(a)(2), struck out “(NATO)” after “North Atlantic Treaty Organization” and substituted “a country or organization referred to in subsection (a)(2)” for “its major non-NATO allies”.
 
-Subsec. (b)(2). Pub. L. 107–107, §1212(c), substituted “Deputy Secretary of Defense and to one other official of the Department of Defense” for “Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (b)(2). Pub. L. 107–107, §1212(c), substituted “Deputy Secretary of Defense and to one other official of the Department of Defense” for “Deputy Secretaryof Defense or the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
 Subsec. (d)(1). Pub. L. 107–107, §1212(a)(3)(A), substituted “countries and organizations referred to in subsection (a)(2)” for “the major allies of the United States”.
 
@@ -171,6 +171,10 @@ Subsec. (i)(4). Pub. L. 103–337, §1301(b), added par. (4).
 1991—Subsec. (g)(1)(A), (4)(A). Pub. L. 102–190 inserted “and other friendly foreign countries” after “major allies of the United States”.
 
 1990—Subsec. (g)(4). Pub. L. 101–510 amended introductory provisions generally, substituting “submit to Congress each year, not later than March 1, a report containing” for “include in the annual report to Congress required by section 2457(d) of this title”.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2002 Amendment
 

@@ -34,7 +34,7 @@ Pub. L. 97–424, title II, §201, Jan. 6, 1983, 96 Stat. 2137, provided that: �
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–599, title II, §201, Nov. 6, 1978, 92 Stat. 2727, provided that: “This title \[enacting section 407 of this title, amending sections 154 and 402 of this title, and enacting provisions set out as notes under this section and sections 130, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1978’.”
+Pub. L. 95–599, title II, §201, Nov. 6, 1978, 92 Stat. 2727, provided that: “This title \[enacting section 407 of thistitle, amending sections 154 and 402 of this title, and enacting provisions set out as notes under this section and sections 130, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1978’.”
 
 #### Short Title of 1976 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: 
 
 #### Short Title
 
-Section 208 of Pub. L. 89–564 provided that: “This Act \[enacting this chapter, amending sections 105 and 307 ofthis title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
+Section 208 of Pub. L. 89–564 provided that: “This Act \[enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
 
 #### Wildlife Vehicle Collision Reduction Study
 
@@ -174,7 +174,7 @@ In general.—There is authorized to be appropriated from the Highway Trust Fund
 
 &emsp;“(2)
 
-Contract authority.—Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable.”
+Contract authority.—Funds authorized by this subsection shall be available for obligation inthe same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable.”
 
 #### Prohibition on Other Uses
 
@@ -302,7 +302,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 #### Highway Safety Educational Programing and Study; Report to Congress; Series of Highway Safety Television Programs; Appropriations Authorizations
 
-Section 211 of Pub. L. 93–87 directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
+Section 211 of Pub. L. 93–87 directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity ofhighway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
 
 #### Highway Safety Citizen Participation Study
 
@@ -314,7 +314,7 @@ Section 213 of Pub. L. 93–87 authorized the appropriation of $5,000,000 to mak
 
 #### Pedestrian and Bicycle Safety Study
 
-Section 214 of Pub. L. 93–87 authorized the appropriation of $5,000,000 for a study of pedestrian and bicyclesafety, including a review of local ordinances, the relationship between alcohol and pedestrian and bicycle safety, etc., the results of such study and recommendations to be reported to Congress not later than Jan. 31, 1975.
+Section 214 of Pub. L. 93–87 authorized the appropriation of $5,000,000 for a study of pedestrian and bicycle safety, including a review of local ordinances, the relationship between alcohol and pedestrian and bicycle safety, etc., the results of such study and recommendations to be reported to Congress not later than Jan. 31, 1975.
 
 #### Highway Safety Needs Study
 

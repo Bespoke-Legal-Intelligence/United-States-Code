@@ -20,3 +20,7 @@ Not later than March 1 of each year, beginning with the first fiscal year after 
 
 (Pub. L. 109–155, title III, §301, Dec. 30, 2005, 119 Stat. 2916.)
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

@@ -28,6 +28,10 @@ Content.—The strategic plan shall include, at minimum—
 
 &emsp;&emsp;(F) a description of any recommended legislative actions.
 
+&emsp;(3)
+
+Implementation.—The Secretary shall begin implementation of the strategic plan within one year after the date of enactment of this paragraph.
+
 (c)
 
 Portal Detection Systems.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $250,000,000, in addition to any amounts otherwise authorized by law, for research, development, and installation of detection systems and other devices for the detection of biological, chemical, radiological, and explosive materials.
@@ -36,23 +40,23 @@ Portal Detection Systems.—There is authorized to be appropriated to the Secret
 
 Interim Action.—Until measures are implemented that enable the screening of all passengers for explosives, the Assistant Secretary shall provide, by such means as the Assistant Secretary considers appropriate, explosives detection screening for all passengers identified for additional screening and their personal property that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation.
 
-(Added Pub. L. 108–458, title IV, §4013(a), Dec. 17, 2004, 118 Stat. 3719.)
+(Added Pub. L. 108–458, title IV, §4013(a), Dec. 17, 2004, 118 Stat. 3719; amended Pub. L. 110–53, title XVI, §1607(b), Aug. 3, 2007, 121 Stat. 483.)
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 108–458, which was approved Dec. 17, 2004.
 
+The date of enactment of this paragraph, referred to in subsec. (b)(3), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
+
+#### Amendments
+
+2007—Subsec. (b)(3). Pub. L. 110–53 added par. (3).
+
+#### Issuance of Strategic Plan for Deployment and Use of Explosive Detection Equipment at Airport Screening Checkpoints
+
+Pub. L. 110–53, title XVI, §1607(a), Aug. 3, 2007, 121 Stat. 483, provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security, in consultation with the Administrator of the Transportation Security Administration, shall issue the strategic plan the Secretary was required by section 44925(b) of title 49, United States Code, to have issued within 90 days after the date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) \[Dec. 17, 2004\].”
+
 #### Advanced Airport Checkpoint Screening Devices
 
-Pub. L. 108–458, title IV, §4014, Dec. 17, 2004, 118 Stat. 3720, provided that:
-
-“(a)
-
-Advanced Integrated Airport Checkpoint Screening System Pilot Program.—Not later than March 31, 2005, the Assistant Secretary of Homeland Security (Transportation Security Administration) shall develop and initiate a pilot program to deploy and test advanced airport checkpoint screening devices and technology as an integrated system at not less than 5 airports in the United States.
-
-“(b)
-
-Funding.—Of the amounts appropriated pursuant to section 48301(a) of title 49, United States Code, for each of fiscal years 2005 and 2006, not more than $150,000,000 shall be available to carry out subsection (a).”
-
-\[For definition of “airport” used in section 4014 of Pub. L. 108–458, set out above, see section 4081 of Pub. L. 108–458, set out as a note under section 44901 of this title.\]
+Pub. L. 108–458, title IV, §4014, Dec. 17, 2004, 118 Stat. 3720, directed the Assistant Secretary of Homeland Security (Transportation Security Administration), not later than Mar. 31, 2005, to develop and initiate a pilot program to deploy and test advanced airport checkpoint screening devices and technology as an integrated system at not less than 5 airports in the United States.
 

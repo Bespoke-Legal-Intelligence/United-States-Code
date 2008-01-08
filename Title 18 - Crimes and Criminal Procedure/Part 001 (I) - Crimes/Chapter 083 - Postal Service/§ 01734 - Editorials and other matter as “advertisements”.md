@@ -1,6 +1,6 @@
 ### §1734. Editorials and other matter as “advertisements”
 
-Whoever, being an editor or publisher, prints in a publication entered as second class mail, editorial or other reading matter for which he has been paid or promised a valuable consideration, without plainly marking the same “advertisement” shall be fined under this title.
+Whoever, being an editor or publisher, prints in a publication entered as second class mail, editorial or other reading matter for which hehas been paid or promised a valuable consideration, without plainly marking the same “advertisement” shall be fined under this title.
 
 (Added Pub. L. 86–682, §7, Sept. 2, 1960, 74 Stat. 706; amended Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 

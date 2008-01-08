@@ -54,5 +54,5 @@ Section 601 of Pub. L. 96–259 provided that: “The Congress finds that—
 
 &emsp;“(6) growing dependence of the world's poor on wood for heating and cooking has forced the overcutting of forests and as a consequence erosion and loss of available agricultural land; and
 
-&emsp;“(7) recent initiatives by the international financial institutions to develop and utilize decentralized solar, hydro, biomass, geothermal, and wind energy should be significantly expanded to make renewable energy resources increasingly available to the world's poor on a wide scale.”
+&emsp;“(7) recent initiatives by the international financial institutions to develop and utilize decentralized solar, hydro, biomass, geothermal, and wind energy should be significantly expanded to make renewableenergy resources increasingly available to the world's poor on a wide scale.”
 

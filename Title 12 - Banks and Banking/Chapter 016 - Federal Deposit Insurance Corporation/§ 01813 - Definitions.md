@@ -74,7 +74,7 @@ Institutions included for certain purposes.—The term “insured depository ins
 
 &emsp;(4)
 
-Federal depository institution.—The term “Federal depository institution” means any national bank, any Federal savings association, and any Federal branch.
+Federal depository institution.—The term “Federal depository institution” meansany national bank, any Federal savings association, and any Federal branch.
 
 &emsp;(5)
 
@@ -424,7 +424,7 @@ Subsec. (q)(2)(E). Pub. L. 103–325, §602(a)(1)(C), substituted “Financial I
 
 Subsec. (z). Pub. L. 103–204, §19(b)(1), amended subsec. (z) generally. Prior to amendment, subsec. (z) read as follows: “
 
-Federal Banking Agencies.—The term ‘Federal banking agencies’ means the Office of the Comptroller of the Currency, the Office of Thrift Supervision, the Board of Governors of the Federal ReserveSystem, and the Federal Deposit Insurance Corporation.”
+Federal Banking Agencies.—The term ‘Federal banking agencies’ means the Office of the Comptroller of the Currency, the Office of Thrift Supervision, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.”
 
 1992—Subsec. (i)(2). Pub. L. 102–550, §1606(g)(2), substituted “1821(n)” for “1821(i)”.
 

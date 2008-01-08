@@ -16,7 +16,7 @@ An Americas Framework Agreement with an eligible country shall—
 
 &emsp;(4) when appropriate, seek to maintain the value of the local currency resources of the Americas Fund in terms of United States dollars;
 
-&emsp;(5) specify, in accordance with subsection (d) of this section, the purposes for which amounts in an Americas Fund may be used; and
+&emsp;(5) specify, in accordance with subsection (d) of this section, the purposes for whichamounts in an Americas Fund may be used; and
 
 &emsp;(6) contain reasonable provisions for the enforcement of the terms of the agreement.
 
@@ -90,11 +90,11 @@ In the event that a country ceases to meet the eligibility requirements set fort
 
 (Pub. L. 87–195, pt. IV, §708, as added Pub. L. 102–549, title VI, §602(a), Oct. 28, 1992, 106 Stat. 3667; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
-#### Amendments
-
-2004—Subsec. (c)(3)(D). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
-
 #### Prior Provisions
 
 A prior section 708 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 464, amended sections 1041, 1112, 1136, 1148, and 1157 of this title, prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 708 affected sections 1041, 1112, 1136, 1148, and 1157.
+
+#### Amendments
+
+2004—Subsec. (c)(3)(D). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

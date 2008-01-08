@@ -16,7 +16,7 @@
 
 #### (3) Schedule rate of duty
 
-&emsp;For purposes of subsection (b), the term “schedule rate of duty” means, with respect toa safeguard good, the rate of duty for that good that is set out in the Schedule of the United States to Annex 3.3 of the Agreement.
+&emsp;For purposes of subsection (b), the term “schedule rate of duty” means, with respect to a safeguard good, the rate of duty for that good that is set out in the Schedule of the United States to Annex 3.3 of the Agreement.
 
 #### (4) Safeguard good
 
@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;In addition to any duty proclaimed under subsection (a) or (b) of section 4031 of this title, and subject to subsection (a), the Secretary of the Treasury shall assess a duty, in the amount determined under paragraph (2), on a safeguard good of a CAFTA–DR country imported into the United States in a calendar year if the Secretary determines that, prior to such importation, the total volume of that safeguard good of such country that is imported into the United States in that calendar year exceeds 130 percent of the volume that is set out for that safeguard good in the corresponding year in the table for that country contained in Appendix I of the General Notes to the Schedule of the United States to Annex 3.3 of the Agreement. For purposes of this subsection, year 1 in that table corresponds to the calendar year in which the Agreement enters into force.
+&emsp;In addition to any duty proclaimed under subsection (a) or (b) of section 4031 of this title, and subject to subsection (a), the Secretary of the Treasury shall assess a duty, in the amount determined under paragraph (2), on a safeguard good of a CAFTA–DR country imported into the United States in a calendaryear if the Secretary determines that, prior to such importation, the total volume of that safeguard good of such country that is imported into the United States in that calendar year exceeds 130 percent of the volume that is set out for that safeguard good in the corresponding year in the table for that country contained in Appendix I of the General Notes to the Schedule of the United States to Annex 3.3 of the Agreement. For purposes of this subsection, year 1 in that table corresponds to the calendar year in which the Agreement enters into force.
 
 #### (2) Calculation of additional duty
 

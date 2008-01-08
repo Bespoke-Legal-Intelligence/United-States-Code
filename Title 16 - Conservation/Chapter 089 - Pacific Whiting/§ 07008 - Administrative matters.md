@@ -22,7 +22,7 @@ Individuals appointed under section 7002, 7003, 7004, or 7005 of this title who 
 
 #### (c) Travel expenses
 
-Except as provided in subsection (d), the Secretary shall pay the necessary travel expenses of individuals appointed under this chapter in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+Except as provided in subsection (d), the Secretary shall pay the necessary travel expenses of individuals appointed under this chapter in accordance with the Federal Travel Regulationsand sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
 
 #### (d) Joint appointees
 

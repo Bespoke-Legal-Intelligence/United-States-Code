@@ -18,7 +18,7 @@ The reporting requirements under subsections (a) and (b) of this section shall b
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) obtain (by a filing or other procedure required of each individual packer) information indicating what types of contracts forthe purchase of swine are available from each packer; and
+&emsp;&emsp;(A) obtain (by a filing or other procedure required of each individual packer) information indicating what types of contracts for the purchase of swine are available from each packer; and
 
 &emsp;&emsp;(B) make the information available in a monthly report to swine producers and other interested persons.
 

@@ -34,7 +34,7 @@ Any person who receives compensation for removal costs or damages or claims purs
 
 #### (4) Effective date
 
-&emsp;The effective date of paragraphs (1) and (2) of this subsection shall be the effective date of regulations or standards promulgated under section 3014 of the Solid Waste Disposal Act\[42 U.S.C. 6935\] that include, among other provisions, a requirement to conduct corrective action to respond to any releases of recycled oil under subtitle C or subtitle I of such Act \[42 U.S.C. 6921 et seq., 6991 et seq.\].
+&emsp;The effective date of paragraphs (1) and (2) of this subsection shall be the effective date of regulations or standards promulgated under section 3014 of the Solid Waste Disposal Act \[42 U.S.C. 6935\] that include, among other provisions, a requirement to conduct corrective action to respond to any releases of recycled oil under subtitle C or subtitle I of such Act \[42 U.S.C. 6921 et seq., 6991 et seq.\].
 
 #### (d) Financial responsibility of owner or operator of vessel or facility under State or local law, rule, or regulation
 
@@ -44,7 +44,7 @@ Except as provided in this subchapter, no owner or operator of a vessel or facil
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (c)(3), (4), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitles C and I of the Solid Waste Disposal Act are classified generally to subchapters III (§6921 et seq.) and IX (§6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c)(3), (4), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitles C and I of the Solid Waste Disposal Act are classified generally to subchapters III (§6921 et seq.) and IX (§6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 6901 of this title and Tables.
 
 #### Amendments
 

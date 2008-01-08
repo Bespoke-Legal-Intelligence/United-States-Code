@@ -36,7 +36,7 @@
 
 (2)(A) If the Secretary <sup>1</sup> determines that the responsible person or the employee is not one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue, to the responsible person or employee, a letter of clearance, which confirms the determination.
 
-(B) If the Secretary <sup>1</sup> determines that the responsible person or employee is one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue to the responsible person or the employee, as the case may be, a document that—
+(B) If the Secretary <sup>1</sup> determines that the responsible person or employee is one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer inwriting or electronically of the determination and issue to the responsible person or the employee, as the case may be, a document that—
 
 &emsp;(i) confirms the determination;
 

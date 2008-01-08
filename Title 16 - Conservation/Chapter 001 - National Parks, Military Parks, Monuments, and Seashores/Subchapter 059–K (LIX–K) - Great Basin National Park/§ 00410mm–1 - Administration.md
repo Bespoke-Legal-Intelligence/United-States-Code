@@ -6,7 +6,7 @@ The Secretary shall administer the park in accordance with this subchapter and w
 
 #### (b) Fishing
 
-The Secretary shall permit fishing on lands and waters under his jurisdiction within the park in accordance with the applicable laws of the United States and the State of Nevada, except that he may designate zones where, and periods when, no fishing may be permitted for reasons of public safety. Except in emergencies, any regulations prescribing such restrictions relating to fishing, shall be put into effect only after consultation with the appropriate State agency having jurisdiction over fishing activities.
+The Secretary shall permit fishing on lands and waters under his jurisdiction within the park in accordance with the applicable laws of the United States and the State of Nevada, except that he may designate zones where, and periods when, no fishing may be permitted for reasons of public safety. Except in emergencies, any regulations prescribing such restrictions relating to fishing,<sup>1</sup> shall be put into effect only after consultation with the appropriate State agency having jurisdiction over fishing activities.
 
 #### (c) Preparation of management plan; submission to Congress; amendment of plan
 
@@ -66,5 +66,7 @@ Subsec. (f). Pub. L. 104–134, §101(c) \[title III, §319(2)\], designated exi
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

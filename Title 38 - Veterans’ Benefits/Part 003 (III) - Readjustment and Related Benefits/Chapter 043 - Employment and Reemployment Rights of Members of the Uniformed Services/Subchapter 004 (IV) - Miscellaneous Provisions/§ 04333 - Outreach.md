@@ -1,6 +1,6 @@
 ### §4333. Outreach
 
-The Secretary, the Secretary of Defense, and the Secretary of Veterans Affairs shall takesuch actions as such Secretaries determine are appropriate to inform persons entitled to rights and benefits under this chapter and employers of the rights, benefits, and obligations of such persons and such employers under this chapter.
+The Secretary, the Secretary of Defense, and the Secretary of Veterans Affairs shall take such actions as such Secretaries determine are appropriate to inform persons entitled to rights and benefits under this chapter and employers of the rights, benefits, and obligations of such persons and such employers under this chapter.
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3169.)
 

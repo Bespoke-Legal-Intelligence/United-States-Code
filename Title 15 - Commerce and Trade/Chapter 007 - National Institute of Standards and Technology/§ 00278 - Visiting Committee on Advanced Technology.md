@@ -26,7 +26,7 @@ The persons appointed as members of the Committee—
 
 #### (d) Meetings; quorum; notice
 
-The Committee shall meet at least quarterly at the call of the Chairman or whenever one-third of the members so request in writing. A majority of the members of the Committee not having a conflict of interest in the matter being considered by the Committee shall constitute a quorum. Each member shall be given appropriate notice, whenever possible, not less than 15 days prior to any meeting, of the call of such meeting.
+The Committee shall meet at least twice each year at the call of the Chairman or whenever one-third of the members so request in writing. A majority of the members of the Committee not having a conflict of interest in the matter being considered by the Committee shall constitute a quorum. Each member shall be given appropriate notice, whenever possible, not less than 15 days prior to any meeting, of the call of such meeting.
 
 #### (e) Appointment by Committee of executive and other committees
 
@@ -42,17 +42,23 @@ The Committee may, with the concurrence of a majority of its members, permit the
 
 #### (h) Annual and other reports to Secretary and Congress
 
-(1) The Committee shall render an annual report to the Secretary for submission to the Congress on or before January 31 in each year. Such report shall deal essentially, though not necessarily exclusively, with policy issues or matters which affect the Institute, including the Program established under section 278n of this title, or with which the Committee in its official role as the private sector policy advisor of the Institute is concerned. Each such report shall identify areas of research and research techniques of the Institute of potential importance to the long-term competitiveness of United States industry, in which the Institute possesses special competence, which could be used to assist United States enterprises and United States industrial joint research and development ventures.
+(1) The Committee shall render an annual report to the Secretary for submission to the Congress not later than 30 days after the submittal to Congress of the President's annual budget request in each year. Such report shall deal essentially, though not necessarily exclusively, with policy issues or matters which affect the Institute, including the Program established under section 278n <sup>1</sup> of this title, or with which the Committee in its official role as the private sector policy advisor of the Institute is concerned. Each such report shall identify areas of research and research techniques of the Institute of potential importance to the long-term competitiveness of United States industry, in which the Institute possesses special competence, which could be used to assist United States enterprises and United States industrial joint research and development ventures. Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.
 
 (2) The Committee shall render to the Secretary and the Congress such additional reports on specific policy matters as it deems appropriate.
 
-(Mar. 3, 1901, ch. 872, §10, 31 Stat. 1450; Pub. L. 100–418, title V, §§5115(a)(1), 5131(b), Aug. 23, 1988, 102 Stat. 1433, 1441; Pub. L. 104–113, §8(1), Mar. 7, 1996, 110 Stat. 779.)
+(Mar. 3, 1901, ch. 872, §10, 31 Stat. 1450; Pub. L. 100–418, title V, §§5115(a)(1), 5131(b), Aug. 23, 1988, 102 Stat. 1433, 1441; Pub. L. 104–113, §8(1), Mar. 7, 1996, 110 Stat. 779; Pub. L. 110–69, title III, §§3005, 3006, Aug. 9, 2007, 121 Stat. 590.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
+Section 278n of this title, referred to in subsec. (h)(1), was repealed and a new section 278n enacted by Pub. L. 110–69, title III, §3012(a), (b), Aug. 9, 2007, 121 Stat. 593, and, as so enacted, section 278n no longer relates to the Advanced Technology Program, to which the term “Program” referred in this chapter.
+
 #### Amendments
+
+2007—Subsec. (d). Pub. L. 110–69, §3006, substituted “twice each year” for “quarterly”.
+
+Subsec. (h)(1). Pub. L. 110–69, §3005, substituted “not later than 30 days after the submittal to Congress of the President's annual budget request in each year” for “on or before January 31 in each year” and inserted at end “Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.”
 
 1996—Subsec. (a). Pub. L. 104–113 substituted “15 members” for “nine members” and “at least 10” for “at least five”.
 
@@ -63,4 +69,6 @@ Pub. L. 100–418, §5115(a)(1), substituted “Institute” for “bureau”.
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

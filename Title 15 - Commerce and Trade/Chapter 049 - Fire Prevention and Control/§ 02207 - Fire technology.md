@@ -32,7 +32,7 @@ The Administration shall not engage in the manufacture or sale of any equipment 
 
 (2) The Administrator is authorized to conduct, directly or through contracts or grants, research concerning the productivity and efficiency of fire service personnel, the job categories and skills required by fire services under varying conditions, the reduction of injuries to fire service personnel, the most effective fire prevention programs and activities, and techniques for accuracy measuring and analyzing the foregoing.
 
-(3) The Administrator is authorized to conduct, directly or through contracts, grants, or other forms of assistance, development, testing and demonstration projects to the extent deemed necessary to introduce and to encourage the acceptance of new technology, standards, operating methods, command techniques, and management systems for utilization by the fire services.
+(3) The Administrator is authorized to conduct, directly or through contracts, grants, or other forms of assistance, development, testingand demonstration projects to the extent deemed necessary to introduce and to encourage the acceptance of new technology, standards, operating methods, command techniques, and management systems for utilization by the fire services.
 
 (4) The Administrator is authorized to assist the Nation's fire services, directly or through contracts, grants, or other forms of assistance, to measure and evaluate, on a cost-benefit basis, the effectiveness of the programs and activities of each fire service and the predictable consequences on the applicable local fire services of coordination or combination, in whole or in part, in a regional, metropolitan, or statewide fire service.
 

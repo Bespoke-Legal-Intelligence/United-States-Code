@@ -194,7 +194,7 @@ In general.—Subparagraph (A) shall not apply to any improvement placed in serv
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the cost of such property; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) if such property is substituted basis property (as defined in section 7701(a)(42) of theInternal Revenue Code of 1986), the fair market value of the property at the time of acquisition.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) if such property is substituted basis property (as defined in section 7701(a)(42) of the Internal Revenue Code of 1986), the fair market value of the property at the time of acquisition.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -206,7 +206,7 @@ Exception for permitted transfers, etc.—The term ‘nonqualified real property
 
 &emsp;“(5)
 
-Treatment of entities which are not stapled, etc. on march 26, 1998.—Notwithstanding any other provision of this section, all interests in real property held by an exempt REIT or any stapled entity with respect to such REIT (or treated under subsection (c) as held by such REIT or stapled entity) shall be treated as nonqualified real property interests unless—
+Treatment of entities which are not stapled, etc. on march 26, 1998.—Notwithstanding any other provision of this section, all interests in real property held by an exempt REIT or any stapled entity with respect to such REIT (or treated under subsection (c) as held by such REIT or stapled entity)shall be treated as nonqualified real property interests unless—
 
 &emsp;&emsp;“(A) such stapled entity was a stapled entity with respect to such REIT as of March 26, 1998, and at all times thereafter; and
 

@@ -110,7 +110,7 @@ The program under this section for providing assistance for eligible activities 
 
 &emsp;&emsp;&emsp;(i) contain one or more severe repetitive loss properties; and
 
-&emsp;&emsp;&emsp;(ii) are located in States that receive little or no assistance, as determined by theDirector, under the allocation formula under subparagraph (A).
+&emsp;&emsp;&emsp;(ii) are located in States that receive little or no assistance, as determined by the Director, under the allocation formula under subparagraph (A).
 
 #### (6) Notice
 
@@ -176,7 +176,7 @@ A State or community may take action under subsection (c)(2) of this section to 
 
 &emsp;&emsp;&emsp;(i) As a result of such action, the owner of the property will not be able to purchase a replacement primary residence of comparable value and that is functionally equivalent.
 
-&emsp;&emsp;&emsp;(ii) Based on independent information, such as contractor estimates or appraisals,the property owner believes that the price offered for purchasing the property is not an accurate estimation of the value of the property, or the amount of Federal funds offered for mitigation activities, when combined with funds from non-Federal sources, will not cover the actual cost of mitigation.
+&emsp;&emsp;&emsp;(ii) Based on independent information, such as contractor estimates or appraisals, the property owner believes that the price offered for purchasing the property is not an accurate estimation of the value of the property, or the amount of Federal funds offered for mitigation activities, when combined with funds from non-Federal sources, will not cover the actual cost of mitigation.
 
 &emsp;&emsp;&emsp;(iii) As a result of such action, the preservation or maintenance of any prehistoric or historic district, site, building, structure, or object included in, or eligible for inclusion in, the National Register of Historic Places will be interfered with, impaired, or disrupted.
 

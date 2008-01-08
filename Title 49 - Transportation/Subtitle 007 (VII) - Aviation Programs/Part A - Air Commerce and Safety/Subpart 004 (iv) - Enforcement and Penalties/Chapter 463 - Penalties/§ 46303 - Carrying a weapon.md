@@ -58,7 +58,7 @@ In subsection (b)(1), the words “imposed under” are substituted for “provi
 
 In subsection (b)(2), the words “imposed or compromised” are substituted for “The amount of such penalty when finally determined or fixed by order of the Board, or the amount agreed upon in compromise” to eliminate unnecessary words.
 
-In subsection (c)(1), the words “State or political subdivision of a State” are substituted for “municipal or State government” for consistency in the revised titleand with other titles of the United States Code. The words “or required” are omitted as surplus.
+In subsection (c)(1), the words “State or political subdivision of a State” are substituted for “municipal or State government” for consistency in the revised title and with other titles of the United States Code. The words “or required” are omitted as surplus.
 
 #### Amendments
 

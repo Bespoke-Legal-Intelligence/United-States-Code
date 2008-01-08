@@ -30,7 +30,7 @@ Within 12 months after September 17, 1976, the Secretary of Energy shall develop
 
 The Secretary of Energy, in supervising the demonstration of vehicles acquired under subsection (c) of this section, shall make such arrangements as may be necessary or appropriate—
 
-&emsp;(1)(A) to make such vehicles available to Federal agencies and to State or local governments and other persons for individual or business use (including farms). The individuals and businesses involved shall be selected by an equitable process which assures that the Secretary of Energy will receive accurate and adequate data on vehicle performance, including representative geographical and climatological information and data on user reaction to the utilization of electric and hybrid vehicles. Such individuals and businesses shall be given the option of purchasing or leasing such vehicles under terms and conditions which will promote their widespread use;
+&emsp;(1)(A) to make such vehicles available to Federal agencies and to State or local governments and other persons for individual or business use (including farms). The individuals and businesses involved shall be selected by an equitable process which assures that the Secretary of Energy will receive accurate and adequate data on vehicle performance, including representative geographical and climatological information and data on user reactionto the utilization of electric and hybrid vehicles. Such individuals and businesses shall be given the option of purchasing or leasing such vehicles under terms and conditions which will promote their widespread use;
 
 &emsp;(B) to pay the differential operating costs of such vehicles to the extent necessary to assure the adequate demonstration of such vehicles;
 
@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 95–238, §601(c), in par. (1) substituted provisions rela
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Transfer of Functions
 

@@ -20,7 +20,7 @@
 
 &emsp;(7) coordinating information security policies and procedures with related information resources management policies and procedures; and
 
-&emsp;(8) reporting to Congress no later than March 1 of each year on agency compliancewith the requirements of this subchapter, including—
+&emsp;(8) reporting to Congress no later than March 1 of each year on agency compliance with the requirements of this subchapter, including—
 
 &emsp;&emsp;(A) a summary of the findings of evaluations required by section 3535;
 

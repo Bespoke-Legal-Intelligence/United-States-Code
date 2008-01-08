@@ -134,7 +134,7 @@ Section 1501(d) of Pub. L. 100–418 provided that:
 
 Cessation of Force and Effect of Presidential Action
 
-Pub. L. 96–264, §2, June 6, 1980, 94 Stat. 439, provided that: “Notwithstanding any other provision of law, the action taken by the President under section 232(b) of the Trade Expansion Act of 1962 (19 U.S.C. 1862(b)) with respect to petroleum imports under Proclamation 4744, dated April 2, 1980, as amended \[formerly set out below\], shall cease to have force and effect upon the date of the enactment of this Act \[June 6, 1980\].”
+Pub. L. 96–264, §2, June 6, 1980, 94 Stat. 439, provided that: “Notwithstanding any other provision of law, the action taken by the President under section 232(b) ofthe Trade Expansion Act of 1962 (19 U.S.C. 1862(b)) with respect to petroleum imports under Proclamation 4744, dated April 2, 1980, as amended \[formerly set out below\], shall cease to have force and effect upon the date of the enactment of this Act \[June 6, 1980\].”
 
 #### Proclamation No. 3279
 

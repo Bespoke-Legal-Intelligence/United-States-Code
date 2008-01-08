@@ -48,7 +48,7 @@ Retired pay under chapter 1223.—The high-three average of a member or former m
 
 Nonregular service disability retired pay.—The high-three average of a member entitled to retired pay under section 1204 or 1205 of this title is the amount equal to—
 
-&emsp;&emsp;(A) the total amount of monthly basic pay to which the member was entitled duringthe member's high-36 months (or to which the member would have been entitled if the member had served on active duty during the entire period of the member's high-36 months), divided by
+&emsp;&emsp;(A) the total amount of monthly basic pay to which the member was entitled during the member's high-36 months (or to which the member would have been entitled if the member had served on active duty during the entire period of the member's high-36 months), divided by
 
 &emsp;&emsp;(B) 36.
 
@@ -118,7 +118,7 @@ chapter 67” and in text “section 12731” for “section 1331”.
 
 Subsec. (f)(2). Pub. L. 103–337, §1662(j)(5)(B), which directed amendment of subsec. (f)(2) by substituting “Chapter 1223” for “Chapter 67” in heading and “section 12731” for “section 1331” in text, could not be executed because of previous repeal of subsec. (f) by Pub. L. 101–189, §651(a)(2). See 1989 Amendment note below.
 
-1989—Subsec. (b). Pub. L. 101–189, §651(a)(1), (b)(2), substituted “person” for “member”, “person's” for“member's”, and “subsection (c) or (d)” for “subsection (c)”.
+1989—Subsec. (b). Pub. L. 101–189, §651(a)(1), (b)(2), substituted “person” for “member”, “person's” for “member's”, and “subsection (c) or (d)” for “subsection (c)”.
 
 Subsec. (c). Pub. L. 101–189, §651(a)(2), (4), added subsec. (c) and struck out former subsec. (c) which related to computation of high-three average.
 

@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original “this Act”, and was t
 
 #### Short Title
 
-Pub. L. 106–553, §1(a)(2) \[title X, §1001\], Dec. 21, 2000, 114 Stat. 2762, 2762A–128, provided that: “This title \[title X of H.R. 5548, as enacted by section 1(a)(2) of Pub. L. 106–553, enacting this chapter and amending section 339 of this title\] may be cited as the ‘Launching Our Communities’ Access to Local Television Act of 2000’.”
+Pub. L. 106–553, §1(a)(2) \[title X, §1001\], Dec. 21, 2000, 114 Stat. 2762, 2762A–128, provided that: “This title \[titleX of H.R. 5548, as enacted by section 1(a)(2) of Pub. L. 106–553, enacting this chapter and amending section 339 of this title\] may be cited as the ‘Launching Our Communities’ Access to Local Television Act of 2000’.”
 

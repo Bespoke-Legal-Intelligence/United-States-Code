@@ -24,7 +24,7 @@ If any international financial institution approves a loan or other assistance t
 
 #### (c) “International financial institution” defined
 
-For purposes of this section, the term “international financial institution” means the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guaranty Agency, and the Inter-American Development Bank.
+For purposes of this section, the term “international financial institution” means the International Monetary Fund, the InternationalBank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guaranty Agency, and the Inter-American Development Bank.
 
 (Pub. L. 104–114, title I, §104, Mar. 12, 1996, 110 Stat. 794.)
 

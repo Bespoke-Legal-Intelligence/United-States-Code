@@ -40,7 +40,15 @@ The Secretary shall establish new qualifying levels—
 
 &emsp;(1) not later than January 1, 2006, for clothes washers and dishwashers, effective beginning January 1, 2007; and
 
-&emsp;(2) not later than January 1, 2008, for clothes washers, effective beginning January 1, 2010.
+&emsp;(2) not later than January 1, 2008, for clothes washers, effective beginning July 1, 2009.
 
-(Pub. L. 94–163, title III, §324A, as added Pub. L. 109–58, title I, §131(a), Aug. 8, 2005, 119 Stat. 620.)
+(Pub. L. 94–163, title III, §324A, as added Pub. L. 109–58, title I, §131(a), Aug. 8, 2005, 119 Stat. 620; amended Pub. L. 110–140, title III, §311(b), Dec. 19, 2007, 121 Stat. 1564.)
+
+#### Amendments
+
+2007—Subsec. (d)(2). Pub. L. 110–140 substituted “July 1, 2009” for “January 1, 2010”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

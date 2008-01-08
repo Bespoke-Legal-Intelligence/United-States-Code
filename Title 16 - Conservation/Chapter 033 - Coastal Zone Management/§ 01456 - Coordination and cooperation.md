@@ -14,7 +14,7 @@ The Secretary shall not approve the management program submitted by a state purs
 
 (B) After any final judgment, decree, or order of any Federal court that is appealable under section 1291 or 1292 of title 28, or under any other applicable provision of Federal law, that a specific Federal agency activity is not in compliance with subparagraph (A), and certification by the Secretary that mediation under subsection (h) of this section is not likely to result in such compliance, the President may, upon written request from the Secretary, exempt from compliance those elements of the Federal agency activity that are found by the Federal court to be inconsistent with an approved State program, if the President determines that the activity is in the paramount interest of the United States. No such exemption shall be granted on the basis of a lack of appropriations unless the President has specifically requested such appropriations as part of the budgetary process, and the Congress has failed to make available the requested appropriations.
 
-(C) Each Federal agency carrying out an activity subject to paragraph (1) shall provide a consistency determination to the relevant State agency designated under section 1455(d)(6) ofthis title at the earliest practicable time, but in no case later than 90 days before final approval of the Federal activity unless both the Federal agency and the State agency agree to a different schedule.
+(C) Each Federal agency carrying out an activity subject to paragraph (1) shall provide a consistency determination to the relevant State agency designated under section 1455(d)(6) of this title at the earliest practicable time, but in no case later than 90 days before final approval of the Federal activity unless both the Federal agency and the State agency agree to a different schedule.
 
 (2) Any Federal agency which shall undertake any development project in the coastal zone of a state shall insure that the project is, to the maximum extent practicable, consistent with the enforceable policies of approved state management programs.
 
@@ -24,7 +24,7 @@ The Secretary shall not approve the management program submitted by a state purs
 
 &emsp;(i) such state or its designated agency, in accordance with the procedures required to be established by such state pursuant to subparagraph (A), concurs with such person's certification and notifies the Secretary and the Secretary of the Interior of such concurrence;
 
-&emsp;(ii) concurrence by such state with such certification is conclusively presumed as provided for in subparagraph (A), except if such state fails to concur with or object to such certification within three months after receipt of its copy of such certification and supporting information, such state shall provide the Secretary, the appropriate federal agency, and such person with a written statement describing the status of review and the basis for further delay in issuing a final decision, and if such statement is not so provided, concurrence by such state with such certification shall be conclusively presumed; or
+&emsp;(ii) concurrence by such state with such certification is conclusively presumed as provided for in subparagraph (A), except if such statefails to concur with or object to such certification within three months after receipt of its copy of such certification and supporting information, such state shall provide the Secretary, the appropriate federal agency, and such person with a written statement describing the status of review and the basis for further delay in issuing a final decision, and if such statement is not so provided, concurrence by such state with such certification shall be conclusively presumed; or
 
 &emsp;(iii) the Secretary finds, pursuant to subparagraph (A), that each activity which is described in detail in such plan is consistent with the objectives of this chapter or is otherwise necessary in the interest of national security.
 
@@ -32,7 +32,7 @@ The Secretary shall not approve the management program submitted by a state purs
 
 #### (d) Application of local governments for Federal assistance; relationship of activities with approved management programs
 
-State and local governments submitting applications for Federal assistance under other Federal programs, in or outside of the coastal zone, affecting any land or water use of natural resource of the coastal zone shall indicate the views of the appropriate state or local agency as to the relationship of such activities to the approved management program for the coastal zone. Such applications shall be submitted and coordinated in accordance with the provisions of section 6506 of title 31. Federal agencies shall not approve proposed projects that are inconsistent with the enforceable policies of a coastal state's management program, except upon a finding by the Secretary that such project isconsistent with the purposes of this chapter or necessary in the interest of national security.
+State and local governments submitting applications for Federal assistance under other Federal programs, in or outside of the coastal zone, affecting any land or water use of natural resource of the coastal zone shall indicate the views of the appropriate state or local agency as to the relationship of such activities to the approved management program for the coastal zone. Such applications shall be submitted and coordinated in accordance with the provisions of section 6506 of title 31. Federal agencies shall not approve proposed projects that are inconsistent with the enforceable policies of a coastal state's management program, except upon a finding by the Secretary that such project is consistent with the purposes of this chapter or necessary in the interest of national security.
 
 #### (e) Construction with other laws
 
@@ -62,7 +62,7 @@ In case of serious disagreement between any Federal agency and a coastal state�
 
 #### (i) Application fee for appeals
 
-(1) With respect to appeals under subsections (c)(3) and (d) of this section which are submitted after November 5, 1990, the Secretary shall collect an application fee of not less than $200 for minor appeals and not less than $500 for major appeals, unless the Secretary, upon consideration of an applicant's request for a fee waiver, determines that the applicant is unable to pay the fee.
+(1) With respect to appeals under subsections (c)(3) and (d) of this section which are submitted after November 5, 1990, the Secretary shall collect an application fee of not less than $200 for minor appeals and not less than $500 for major appeals, unless the Secretary, upon consideration of an applicant's request for a fee waiver,determines that the applicant is unable to pay the fee.
 
 (2)(A) The Secretary shall collect such other fees as are necessary to recover the full costs of administering and processing such appeals under subsection (c) of this section.
 
@@ -88,7 +88,7 @@ In subsec. (d), “section 6506 of title 31” substituted for “title IV of th
 
 1992—Subsec. (c)(3)(B). Pub. L. 102–587, §2205(b)(13), made technical amendment to directory language of Pub. L. 101–508, §6208(b)(3)(B). See 1990 Amendment note below.
 
-Subsec. (i). Pub. L. 102–587, §2205(b)(14), designated existing provisions as par. (1), added pars. (2) and (3), and struck out at end of par. (1) “The Secretary shall collect such other fees as are necessary to recover the fullcosts of administering and processing such appeals under subsection (c) of this section.”
+Subsec. (i). Pub. L. 102–587, §2205(b)(14), designated existing provisions as par. (1), added pars. (2) and (3), and struck out at end of par. (1) “The Secretary shall collect such other fees as are necessary to recover the full costs of administering and processing such appeals under subsection (c) of this section.”
 
 1990—Subsec. (c)(1). Pub. L. 101–508, §6208(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each Federal agency conducting or supporting activities directly affecting the coastal zone shall conduct or support those activities in a manner which is, to the maximum extent practicable, consistent with approved state management programs.”
 

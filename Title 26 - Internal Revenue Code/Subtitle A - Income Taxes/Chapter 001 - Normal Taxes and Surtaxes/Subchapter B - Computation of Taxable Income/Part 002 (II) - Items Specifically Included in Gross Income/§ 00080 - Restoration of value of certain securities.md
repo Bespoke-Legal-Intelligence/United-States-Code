@@ -4,7 +4,7 @@
 
 In the case of a domestic corporation subject to the tax imposed by section 11 or 801, if the value of any security (as defined in section 165(g)(2))—
 
-&emsp;(1) which became worthless by reason of the expropriation, intervention, seizure, or similar taking by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing of property to which such security was related, and
+&emsp;(1) which became worthless by reason of the expropriation, intervention, seizure, or similar taking by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing ofproperty to which such security was related, and
 
 &emsp;(2) which was taken into account as a loss from the sale or exchange of a capital asset or with respect to which a deduction for a loss was allowed under section 165,
 
@@ -46,5 +46,5 @@ Amendment by section 1901(b)(3)(K) of Pub. L. 94–455 applicable with respect t
 
 #### Effective Date
 
-Section 1(b)(3) of Pub. L. 89–384, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by this subsection \[enacting this section\] shall apply to taxable years beginning after December 31, 1965, but only with respect to losses described in section 80(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by paragraph (1) of this subsection) which were sustained after December 31, 1958.”
+Section 1(b)(3) of Pub. L. 89–384, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this subsection \[enacting this section\] shall apply to taxable years beginning after December 31, 1965, but only with respect to losses described in section 80(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by paragraph (1) of this subsection) which were sustained after December 31, 1958.”
 

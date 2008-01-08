@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(ii) Proposed mechanisms to coordinate existing regulatory and management authorities within the area.
 
-&emsp;&emsp;&emsp;(iii) The proposed goals and objectives, management responsibilities, resource studies, and appropriate strategies for managing sanctuary resources of the proposed sanctuary, including interpretation and education, innovative management strategies, research, monitoring and assessment, resource protection, restoration, enforcement, and surveillance activities.
+&emsp;&emsp;&emsp;(iii) The proposed goals and objectives, management responsibilities, resourcestudies, and appropriate strategies for managing sanctuary resources of the proposed sanctuary, including interpretation and education, innovative management strategies, research, monitoring and assessment, resource protection, restoration, enforcement, and surveillance activities.
 
 &emsp;&emsp;&emsp;(iv) An evaluation of the advantages of cooperative State and Federal management if all or part of the proposed sanctuary is within the territorial limits of any State or is superjacent to the subsoil and seabed within the seaward boundary of a State, as that boundary is established under the Submerged Lands Act (43 U.S.C. 1301 et seq.).
 
@@ -68,7 +68,7 @@
 
 #### (1) Notice
 
-&emsp;In designating a national marine sanctuary, the Secretary shall publish in the Federal Register notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of the availability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6) of this section. The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final after the close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.
+&emsp;In designating a national marine sanctuary, the Secretary shall publish in the Federal Register notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of the availability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6) of this section. The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final after the close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect inthe area of the sanctuary lying within the seaward boundary of the State.
 
 #### (2) Withdrawal of designation
 
@@ -84,7 +84,7 @@
 
 #### (c) Access and valid rights
 
-(1) Nothing in this chapter shall be construed as terminating or granting to the Secretary theright to terminate any valid lease, permit, license, or right of subsistence use or of access that is in existence on the date of designation of any national marine sanctuary.
+(1) Nothing in this chapter shall be construed as terminating or granting to the Secretary the right to terminate any valid lease, permit, license, or right of subsistence use or of access that is in existence on the date of designation of any national marine sanctuary.
 
 (2) The exercise of a lease, permit, license, or right is subject to regulation by the Secretary consistent with the purposes for which the sanctuary is designated.
 
@@ -146,9 +146,9 @@ Not more than five years after the date of designation of any national marine sa
 
 #### References in Text
 
-The Submerged Lands Act, referred to in subsec. (a)(2)(C)(iv), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43, and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), is Pub. L. 91–190, Jan. 1,1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The Submerged Lands Act, referred to in subsec. (a)(2)(C)(iv), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43, and Tables.
 
 This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which enacted this chapter, chapter 32A (§1447 et seq.) of this title, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters.
 
@@ -222,7 +222,11 @@ Subsecs. (d), (e). Pub. L. 102–587, §2104(d), added subsecs. (d) and (e).
 
 1976—Pub. L. 94–326 inserted provision authorizing to be appropriated not to exceed $500,000 for fiscal year 1977.
 
-1975—Pub. L. 94–62 substituted provisions authorizing to be appropriated not to exceed $10,000,000 for each of fiscal years 1973, 1974, and 1975, for provisions authorizing to be appropriated for fiscal year in which this Actwas enacted and for next two fiscal years thereafter not to exceed $10,000,000 for each such fiscal year, and inserted provisions authorizing to be appropriated not to exceed $6,200,000 for fiscal year 1976, and not to exceed $1,550,000 for the transition period (July 1, through Sept. 30, 1976).
+1975—Pub. L. 94–62 substituted provisions authorizing to be appropriated not to exceed $10,000,000 for each of fiscal years 1973, 1974, and 1975, for provisions authorizing to be appropriated for fiscal year in which this Act was enacted and for next two fiscal years thereafter not to exceed $10,000,000 for each such fiscal year, and inserted provisions authorizing to be appropriated not to exceed $6,200,000 for fiscal year 1976, and not to exceed $1,550,000 for the transition period (July 1, through Sept. 30, 1976).
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2000 Amendments
 

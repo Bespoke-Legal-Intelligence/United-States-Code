@@ -38,13 +38,11 @@ Pub. L. 103–382, §235, amended section generally, substituting single undesig
 
 1979—Subsec. (a). Pub. L. 96–46 substituted “(a) Not later than” for “(a)(1) Not later than” and struck out par. (2) which provided that, in the case of programs and projects assisted under title I of the Elementary and Secondary Education Act of 1965, the report include a survey of how many children counted under section 103(c) of such Act do or do not participate in such programs and projects and how many disadvantaged children do or do not participate in such programs and projects.
 
-1978—Subsec. (a)(1). Pub. L. 95–561 inserted “(including compliance with provisions of law requiring the maintenance of non-Federal expenditures for the purposes of such applicable programs)” after “effectiveness of applicable programs” and substituted “Committee on Human Resources” for “Committee on Labor and Public Welfare” in provisions preceding subpar. (A).
+1978—Subsec. (a)(1). Pub. L. 95–561 inserted “(including compliance with provisions of law requiring themaintenance of non-Federal expenditures for the purposes of such applicable programs)” after “effectiveness of applicable programs” and substituted “Committee on Human Resources” for “Committee on Labor and Public Welfare” in provisions preceding subpar. (A).
 
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 2002 Amendment
 

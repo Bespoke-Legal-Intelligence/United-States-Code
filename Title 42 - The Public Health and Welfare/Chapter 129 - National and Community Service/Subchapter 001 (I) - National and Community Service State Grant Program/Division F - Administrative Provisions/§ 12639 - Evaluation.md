@@ -50,7 +50,7 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 &emsp;(3) encouraging each participant to engage in public and community service after completion of the program based on career choices and service in other service programs such as the Volunteers in Service to America Program and National Senior Volunteer Corps programs established under the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.), the Peace Corps (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)), the military, and part-time volunteer service;
 
-&emsp;(4) promoting of positive attitudes among each participant regarding the role of such participant in solving community problems based on the view of such participant regarding the personal capacity of such participant to improve the lives of others, the responsibilities of such participant as a citizen and community member, and other factors;
+&emsp;(4) promoting of positive attitudes among each participant regarding the role of such participant in solving community problemsbased on the view of such participant regarding the personal capacity of such participant to improve the lives of others, the responsibilities of such participant as a citizen and community member, and other factors;
 
 &emsp;(5) enabling each participant to finance a lesser portion of the higher education of such participant through student loans;
 
@@ -126,7 +126,7 @@ The Peace Corps Act, referred to in subsecs. (a)(2)(D) and (g)(3), (9), is Pub. 
 
 Section 12575 of this title, referred to in subsec. (g)(1), was in the original a reference to section 145 of Pub. L. 101–610. Section 145 of Pub. L. 101–610 was omitted in the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816. Pub. L. 103–82 enacted a new section 125 of Pub. L. 101–610, relating to training and technical assistance, and a new section 145, relating to establishment of the National Service Trust, which are classified to sections 12575 and sections 12601, respectively, of this title. Provisions relating to the eligibility of individuals for participation in national service programs are now contained in section 12591 et seq. of this title.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(3), (9), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(3), (9), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Amendments
 

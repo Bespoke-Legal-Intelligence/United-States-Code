@@ -1,6 +1,6 @@
 ### §411. Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary and appropriate to carry out the provisions and purposes of this Act (other than the provisions and purposes of sections 102, 103, 104, 105 \[50 U.S.C. 403, 403–3, 403–4, 403–5\] and titles V, VI, and VII \[50 U.S.C. 413 et seq., 421 et seq., 431 et seq.\]).
+There are authorized to be appropriated such sums as may be necessary and appropriate tocarry out the provisions and purposes of this Act (other than the provisions and purposes of sections 102, 103, 104, 105 \[50 U.S.C. 403, 403–3, 403–4, 403–5\] and titles V, VI, and VII \[50 U.S.C. 413 et seq., 421 et seq., 431 et seq.\]).
 
 (July 26, 1947, ch. 343, title III, §307, 61 Stat. 509; Pub. L. 103–178, title III, §309, Dec. 3, 1993, 107 Stat. 2036.)
 

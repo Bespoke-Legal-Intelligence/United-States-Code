@@ -84,7 +84,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### (5) Waiver regarding certain secondary agreements
 
-&emsp;The requirement established in paragraph (1)(B)(i) shall be waived by the Secretary in the case of any entity for whom the Secretary has granted a waiver under section 300ff–52(b)(2) of this title.
+&emsp;The requirement established in paragraph (1)(B)(i) shall be waived by the Secretary inthe case of any entity for whom the Secretary has granted a waiver under section 300ff–52(b)(2) of this title.
 
 #### (f) Relationship to items and services under other programs
 

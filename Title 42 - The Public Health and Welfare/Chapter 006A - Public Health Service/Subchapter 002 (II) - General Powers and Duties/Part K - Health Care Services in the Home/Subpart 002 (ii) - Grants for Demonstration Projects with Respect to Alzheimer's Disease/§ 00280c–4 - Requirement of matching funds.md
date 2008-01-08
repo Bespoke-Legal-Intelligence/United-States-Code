@@ -20,7 +20,7 @@
 
 Non-Federal contributions required in subsection (b) of this section may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-(July 1, 1944, ch. 373, title III, §398A, formerly §399, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 982; renumbered §398A, Pub. L. 102–321, title V, §502(1), July 10, 1992, 106 Stat. 427; amended Pub. L. 105–392, title III, §302(b), Nov. 13, 1998, 112 Stat. 3586.)
+(July 1, 1944, ch. 373, title III, §398A, formerly §399, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 982; renumbered §398A, Pub. L.102–321, title V, §502(1), July 10, 1992, 106 Stat. 427; amended Pub. L. 105–392, title III, §302(b), Nov. 13, 1998, 112 Stat. 3586.)
 
 #### Amendments
 

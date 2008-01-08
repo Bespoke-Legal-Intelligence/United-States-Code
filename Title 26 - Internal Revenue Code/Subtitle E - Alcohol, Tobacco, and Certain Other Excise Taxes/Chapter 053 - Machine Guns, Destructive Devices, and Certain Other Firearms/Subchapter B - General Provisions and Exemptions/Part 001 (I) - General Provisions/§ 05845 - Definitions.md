@@ -12,7 +12,7 @@ The term “machinegun” means any weapon which shoots, is designed to shoot, o
 
 #### (c) Rifle
 
-The term “rifle” means a weapon designed or redesigned, made or remade, and intended to befired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed cartridge to fire only a single projectile through a rifled bore for each single pull of the trigger, and shall include any such weapon which may be readily restored to fire a fixed cartridge.
+The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed cartridge to fire only a single projectile through a rifled bore for each single pull of the trigger, and shall include any such weapon which may be readily restored to fire a fixed cartridge.
 
 #### (d) Shotgun
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section
 
 #### Effective Date
 
-Section effective on first day of first month following October 1968, except as to persons possessing firearms as defined in subsec. (a) of this section which are not registered to such persons in the National Firearms Registration and Transfer Record, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.
+Section effective on first day of first month following October 1968, except as to persons possessing firearmsas defined in subsec. (a) of this section which are not registered to such persons in the National Firearms Registration and Transfer Record, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.
 

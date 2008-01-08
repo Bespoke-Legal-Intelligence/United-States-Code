@@ -64,7 +64,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Prior Provisions
 
-A prior section 2151q, Pub. L. 87–195, pt. I, §119, as added Pub. L. 95–88, title I, §114, Aug. 3, 1977, 91 Stat. 538; amended Pub. L. 95–424, title I, §111, Oct. 6, 1978, 92 Stat. 948; Pub. L. 96–53, title I, §§104(c), 107, Aug. 14, 1979, 93 Stat. 362, related to renewable and unconventional energy technologies, prior to repeal by Pub. L. 96–533, title III, §304(g), Dec. 16, 1980, 94 Stat. 3147.
+A prior section 2151q, Pub. L. 87–195, pt. I, §119, as added Pub. L. 95–88, title I, §114, Aug. 3, 1977, 91 Stat. 538; amended Pub. L. 95–424, title I, §111, Oct. 6, 1978, 92 Stat. 948; Pub. L. 96–53, title I, §§104(c), 107, Aug. 14,1979, 93 Stat. 362, related to renewable and unconventional energy technologies, prior to repeal by Pub. L. 96–533, title III, §304(g), Dec. 16, 1980, 94 Stat. 3147.
 
 #### Amendments
 

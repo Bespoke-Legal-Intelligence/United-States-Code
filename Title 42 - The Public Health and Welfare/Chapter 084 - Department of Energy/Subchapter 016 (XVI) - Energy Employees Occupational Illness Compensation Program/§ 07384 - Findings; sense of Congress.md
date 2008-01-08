@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;(5) Over the past 20 years, more than two dozen scientific findings have emerged that indicate that certain of such employees are experiencing increased risks of dying from cancer and non-malignant diseases. Several of these studies have also established a correlation between excess diseases and exposure to radiation and beryllium.
 
-&emsp;(6) While linking exposure to occupational hazards with the development of occupational disease is sometimes difficult, scientific evidence supports the conclusion that occupational exposure to dust particles or vapor of beryllium can cause beryllium sensitivity and chronic beryllium disease. Furthermore, studies indicate than 98 percent of radiation-induced cancers within the nuclear weapons complex have occurred at dose levels below existing maximum safe thresholds.
+&emsp;(6) While linking exposure to occupational hazards with the development of occupationaldisease is sometimes difficult, scientific evidence supports the conclusion that occupational exposure to dust particles or vapor of beryllium can cause beryllium sensitivity and chronic beryllium disease. Furthermore, studies indicate than 98 percent of radiation-induced cancers within the nuclear weapons complex have occurred at dose levels below existing maximum safe thresholds.
 
 &emsp;(7) Existing information indicates that State workers’ compensation programs do not provide a uniform means of ensuring adequate compensation for the types of occupational illnesses and diseases that relate to the employees at those sites.
 
@@ -96,7 +96,7 @@ Pub. L. 107–107, div. C, title XXXI, §3151(b), Dec. 28, 2001, 115 Stat. 1375,
 
 &emsp;“(i) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Health, Education, Labor, and Pensions of the Senate; and
 
-&emsp;“(ii) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Education and the Workforce of the House of Representatives.
+&emsp;“(ii) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives.
 
 “(3) Amounts for the study under paragraph (1) shall be derived from amounts authorized to be appropriated by section 3614(a) of the Energy Employees Occupational Illness Compensation Program Act of 2000 (114 Stat. 1654A–498) \[42 U.S.C. 7384g(a)\].
 
@@ -174,7 +174,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (d) <i>Attorney General</i>. The Attorney General shall:
 
-(i) Develop procedures to notify, to the extent possible, each claimant (or the survivor of that claimant if deceased) whose claim for compensation under section 5 of the Radiation Exposure Compensation Act\[Pub. L. 101–426, 42 U.S.C. 2210 note\] has been or is approved by the Department of Justice, of the availability of supplemental compensation and benefits under the Energy Employees Occupational Illness Compensation Program;
+(i) Develop procedures to notify, to the extent possible, each claimant (or the survivor of that claimant if deceased) whose claim for compensation under section 5 of the Radiation Exposure Compensation Act \[Pub. L. 101–426, 42 U.S.C. 2210 note\] has been or is approved by the Department of Justice, of the availability of supplemental compensation and benefits under the Energy Employees Occupational Illness Compensation Program;
 
 (ii) Identify and notify eligible covered uranium employees or their survivors of the availability of supplemental compensation under the Program; and
 

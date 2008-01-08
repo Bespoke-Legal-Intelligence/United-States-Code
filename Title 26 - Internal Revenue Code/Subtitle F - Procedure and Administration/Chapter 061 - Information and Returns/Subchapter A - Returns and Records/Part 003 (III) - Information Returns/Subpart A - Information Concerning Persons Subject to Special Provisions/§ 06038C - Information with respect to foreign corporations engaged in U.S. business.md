@@ -54,7 +54,7 @@ The provisions of subsection (d) of section 6038A shall apply to—
 
 #### (e) Definitions
 
-For purposes of this section, the terms “related party”, “foreign person”, and “records” have the respective meanings given to such terms by section 6038A(c).
+For purposes of this section, the terms “related party”, “foreign person”, and “records” havethe respective meanings given to such terms by section 6038A(c).
 
 (Added Pub. L. 101–508, title XI, §11315(a), Nov. 5, 1990, 104 Stat. 1388–456.)
 

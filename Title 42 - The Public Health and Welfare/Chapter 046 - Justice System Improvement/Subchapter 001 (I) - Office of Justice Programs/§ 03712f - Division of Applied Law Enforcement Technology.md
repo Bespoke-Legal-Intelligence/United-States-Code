@@ -10,7 +10,7 @@ In carrying out the purpose of the Division, the head of the Division shall—
 
 &emsp;(1) establish clear minimum standards for computer systems that can be purchased using amounts awarded under such grants; and
 
-&emsp;(2) ensure that recipients of such grants use such systems to participate in crime reportingprograms administered by the Department, such as Uniform Crime Reports or the National Incident-Based Reporting System.
+&emsp;(2) ensure that recipients of such grants use such systems to participate in crime reporting programs administered by the Department, such as Uniform Crime Reports or the National Incident-Based Reporting System.
 
 (Pub. L. 90–351, title I, §107, as added Pub. L. 109–162, title XI, §1160(a), Jan. 5, 2006, 119 Stat. 3117.)
 

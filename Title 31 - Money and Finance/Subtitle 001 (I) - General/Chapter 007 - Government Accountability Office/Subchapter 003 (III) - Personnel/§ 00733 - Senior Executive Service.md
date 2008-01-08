@@ -76,7 +76,7 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 3 of Pub. L. 108–271 effective Oct. 1, 2005, and applicable in the case of any annual pay adjustment taking effect on or after Oct. 1, 2005, subject to authority of Comptroller General to change pay adjustments or delay the effective date for certain groups of officers and employees, see section 13 of Pub. L. 108–271, set out as a note under section 731 of this title.
+Amendment by section 3 of Pub. L. 108–271 effective Oct. 1, 2005, and applicable in the case of any annualpay adjustment taking effect on or after Oct. 1, 2005, subject to authority of Comptroller General to change pay adjustments or delay the effective date for certain groups of officers and employees, see section 13 of Pub. L. 108–271, set out as a note under section 731 of this title.
 
 #### Effective Date of 1984 Amendment
 

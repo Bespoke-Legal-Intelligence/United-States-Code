@@ -206,7 +206,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
-Section 2 of Pub. L. 98–326 provided that: “The amendments made by this Act \[amending this sectionand sections 732 and 733 of this title\] shall take effect beginning on October 1, 1984.”
+Section 2 of Pub. L. 98–326 provided that: “The amendments made by this Act \[amending this section and sections 732 and 733 of this title\] shall take effect beginning on October 1, 1984.”
 
 #### Consultation
 

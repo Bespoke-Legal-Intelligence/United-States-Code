@@ -2,7 +2,7 @@
 
 In the administration, protection, and development of the lakeshore, the Secretary shall adopt and implement, and may from time to time revise, a land and water use management plan which shall include specific provision for—
 
-&emsp;(a) protection of scenic, scientific, historic, geological, and archeological features contributing to public education, inspiration, and enjoyment:
+&emsp;(a) protection of scenic, scientific, historic, geological, and archeological features contributing to public education, inspiration, and enjoyment;
 
 &emsp;(b) development of facilities to provide the benefits of public recreation together with such access roads as he deems appropriate; and
 

@@ -14,7 +14,7 @@ Sections 12705a to 12705d of this title, referred to in text, were in the origin
 
 #### Codification
 
-Section was enacted as part of the Removal of Regulatory Barriers to Affordable Housing Act of 1992, andalso as part of the Housing and Community Development Act of 1992, and not as part of the Cranston-Gonzalez National Affordable Housing Act which comprises this chapter.
+Section was enacted as part of the Removal of Regulatory Barriers to Affordable Housing Act of 1992, and also as part of the Housing and Community Development Act of 1992, and not as part of the Cranston-Gonzalez National Affordable Housing Act which comprises this chapter.
 
 #### Short Title
 

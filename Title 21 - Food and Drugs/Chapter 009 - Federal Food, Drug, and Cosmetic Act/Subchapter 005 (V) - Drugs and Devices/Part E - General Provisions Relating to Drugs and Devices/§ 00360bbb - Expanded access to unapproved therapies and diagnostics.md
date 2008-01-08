@@ -2,7 +2,7 @@
 
 #### (a) Emergency situations
 
-The Secretary may, under appropriate conditions determined by the Secretary, authorize the shipment of investigational drugs or investigational devices for the diagnosis, monitoring, or treatment of a serious disease or condition in emergency situations.
+The Secretary may, under appropriate conditions determined by the Secretary, authorize the shipment of investigational drugs or investigational devices for the diagnosis, monitoring,or treatment of a serious disease or condition in emergency situations.
 
 #### (b) Individual patient access to investigational products intended for serious diseases
 

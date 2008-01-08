@@ -48,7 +48,7 @@ Program of Interrelated Projects.—(1) In this subsection, a program of interre
 
 &emsp;&emsp;(iii) the East Side Extension, consisting of an initial line of approximately 3 miles, with at least 2 stations, beginning at Union Station and running generally east.
 
-&emsp;(D) the Baltimore-Washington Transportation Improvement Program, consisting of 3 extensions of the Baltimore Light Rail to Hunt Valley, Penn Station, and Baltimore-Washington Airport, MARC extensions to Frederick and Waldorf, Maryland, and an extension of the Washington Subway system to Largo, Maryland.
+&emsp;(D) the Baltimore-Washington Transportation Improvement Program, consisting of 3extensions of the Baltimore Light Rail to Hunt Valley, Penn Station, and Baltimore-Washington Airport, MARC extensions to Frederick and Waldorf, Maryland, and an extension of the Washington Subway system to Largo, Maryland.
 
 &emsp;(E) the Tri-County Metropolitan Transportation District of Oregon Light Rail Program, consisting of the locally preferred alternative for the Westside Light Rail Project, including system related costs, contained in the Department of Transportation and Related Agencies Appropriations Act, 1991 (Public Law 101–516, 104 Stat. 2155), and defined in House Report 101–584, the Hillsboro extension to the Westside Light Rail Project contained in that Act, and the locally preferred alternative for the South/North Corridor Project.
 
@@ -126,7 +126,7 @@ Subsec. (a)(2). Pub. L. 109–59, §3027(2), inserted heading and substituted �
 
 Subsec. (a)(3). Pub. L. 109–59, §3027(3), inserted heading, struck out “of construction” after “stage”, and inserted “if the Secretary determines that the project meets the requirements of subsection (d) or (e) of section 5309” before period at end.
 
-Subsec. (a)(4). Pub. L. 109–59, §3027(4), added par. (4) and struck out former par. (4) which read as follows: “The Secretary shall make a full funding grant agreement under section 5309 of this title for a project not later than 120 days after the project enters the final design stage of construction. The agreement shall provide for a United States Government share of the construction cost at least equal to the Government share estimated in the Secretary's most recent report required under 5309(<i>o</i>)(1) or an update of the report unless the applicant requests otherwise.”
+Subsec. (a)(4). Pub. L. 109–59, §3027(4), added par. (4) and struck out former par. (4) which read as follows: “The Secretary shall make a full funding grant agreement under section 5309 of this title for a project notlater than 120 days after the project enters the final design stage of construction. The agreement shall provide for a United States Government share of the construction cost at least equal to the Government share estimated in the Secretary's most recent report required under 5309(<i>o</i>)(1) or an update of the report unless the applicant requests otherwise.”
 
 1998—Subsec. (a)(2). Pub. L. 105–178, §3009(h)(2), substituted “5309(e)” for “5309(e)(1)–(6) of this title”.
 

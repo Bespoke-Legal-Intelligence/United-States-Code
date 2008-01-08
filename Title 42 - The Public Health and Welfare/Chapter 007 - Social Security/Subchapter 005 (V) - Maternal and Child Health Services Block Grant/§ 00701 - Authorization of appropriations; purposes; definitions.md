@@ -100,7 +100,7 @@
 
 (5) For purposes of this subsection, the term “State” means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat.818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100.)
+(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ Section 6510 of Pub. L. 101–239 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C (§§6501–6510) of title VI of Pub. L. 101–239, amending thissection and sections 702 to 706, 708, and 709 of this title\] shall apply to appropriations for fiscal years beginning with fiscal year 1990.
+In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C (§§6501–6510) of title VI of Pub. L. 101–239, amending this section and sections 702 to 706, 708, and 709 of this title\] shall apply to appropriations for fiscal years beginning with fiscal year 1990.
 
 “(b)
 
@@ -236,7 +236,7 @@ Section 2194 of Pub. L. 97–35 provided that:
 
 &emsp;“(C) The term ‘consolidated State programs’ means the consolidated health programs, other than the consolidated Federal programs.
 
-“(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under section 1243 of Title 31\] shall not apply to financial and complianceaudits conducted under section 506(b) of the Social Security Act \[section 706(b) of this title\] (as amended by this subtitle).”
+“(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under section 1243 of Title 31\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[section 706(b) of this title\] (as amended by this subtitle).”
 
 #### Development of Model Applications for Maternal and Child Assistance Programs
 

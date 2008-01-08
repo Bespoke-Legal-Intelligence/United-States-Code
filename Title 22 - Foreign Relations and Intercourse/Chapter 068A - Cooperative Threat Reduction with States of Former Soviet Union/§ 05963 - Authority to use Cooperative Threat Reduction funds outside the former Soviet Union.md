@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-Subject to the provisions of this section, the President may obligate and expend Cooperative Threat Reduction funds for a fiscal year, and any Cooperative Threat Reduction funds for a fiscal year before such fiscal year that remain available for obligation, for a proliferation threat reduction project or activity outside the states of the former Soviet Union if the President determines each of the following:
+Subject to the provisions of this section, the Secretary of Defense may obligate and expend Cooperative Threat Reduction funds for a fiscal year, and any Cooperative Threat Reduction funds for a fiscal year before such fiscal year that remain available for obligation, for a proliferation threat reduction project or activity outside the states of the former Soviet Union if the Secretary of Defense, with the concurrence of the Secretary of State, determines each of the following:
 
 &emsp;(1) That such project or activity will—
 
@@ -24,13 +24,15 @@ The amount that may be obligated in a fiscal year under the authority in subsect
 
 #### (d) Limitation on availability of funds
 
-(1) The President may not obligate funds for a project or activity under the authority in subsection (a) of this section until the President makes each determination specified in that subsection with respect to such project or activity.
+(1) The Secretary of Defense may not obligate funds for a project or activity under the authority in subsection (a) of this section until the Secretary of Defense, with the concurrence of the Secretary of State, makes each determination specified in that subsection with respect to such project or activity.
 
-(2) Not later than 10 days after obligating funds under the authority in subsection (a) of this section for a project or activity, the President shall notify Congress in writing of the determinations made under paragraph (1) with respect to such project or activity, together with—
+(2) Not later than 15 days prior to obligating funds under the authority in subsection (a) ofthis section for a project or activity, the Secretary of Defense shall notify the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives and the Committee on Armed Services and the Committee on Foreign Relations of the Senate in writing of the determinations made under paragraph (1) with respect to such project or activity, together with—
 
 &emsp;(A) a justification for such determinations; and
 
 &emsp;(B) a description of the scope and duration of such project or activity.
+
+(3) In the case of a situation that threatens human life or safety or where a delay would severely undermine the national security of the United States, notification under paragraph (2) shall be made not later than 10 days after obligating funds under the authority in subsection (a) for a project or activity.
 
 #### (e) Additional limitations and requirements
 
@@ -42,9 +44,19 @@ Except as otherwise provided in subsections (a) and (b) of this section, the exe
 
 &emsp;(3) Any limitation on Cooperative Threat Reduction projects or activities.
 
-(Pub. L. 108–136, div. A, title XIII, §1308, Nov. 24, 2003, 117 Stat. 1662.)
+(Pub. L. 108–136, div. A, title XIII, §1308, Nov. 24, 2003, 117 Stat. 1662; Pub. L. 110–53, title XVIII, §1811(4), Aug. 3, 2007, 121 Stat. 493.)
 
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as part of the Cooperative Threat Reduction Act of 1993 which comprises this chapter.
+
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 110–53, §1811(4)(A), in introductory provisions, substituted “the Secretary of Defense may” for “the President may” and “if the Secretary of Defense, with the concurrence of the Secretary of State,” for “if the President”.
+
+Subsec. (d)(1). Pub. L. 110–53, §1811(4)(B), substituted “The Secretary of Defense may not” for “The President may not” and “until the Secretary of Defense, with the concurrence of the Secretary of State,” for “until the President”.
+
+Subsec. (d)(2). Pub. L. 110–53, §1811(4)(C), in introductory provisions, substituted “Not later than 15 days prior to” for “Not later than 10 days after” and “the Secretary of Defense shall notify the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives and the Committee on Armed Services and the Committee on Foreign Relations of the Senate” for “the President shall notify Congress”.
+
+Subsec. (d)(3). Pub. L. 110–53, §1811(4)(D), added par. (3).
 

@@ -24,7 +24,7 @@
 
 &emsp;(4) knowingly possess, without promptly notifying the Secretary or his representative, any official device or any counterfeit, simulated, forged, or improperly altered official certificate or any device or label or any carcass of any poultry, or part or product thereof, bearing any counterfeit, simulated, forged, or improperly altered official mark;
 
-&emsp;(5) knowingly make any false statement in any shipper's certificate or other nonofficialor official certificate provided for in the regulations prescribed by the Secretary; or
+&emsp;(5) knowingly make any false statement in any shipper's certificate or other nonofficial or official certificate provided for in the regulations prescribed by the Secretary; or
 
 &emsp;(6) knowingly represent that any article has been inspected and passed, or exempted, under this chapter when, in fact, it has respectively, not been so inspected and passed, or exempted.
 
@@ -32,7 +32,7 @@
 
 #### Amendments
 
-1968—Pub. L. 90–492 made revisions in form and phraseology, added to the enumerated prohibited acts slaughtering poultry or processing any poultry products capable of use as human food, except in compliance with the requirements of this chapter, selling and transporting adulterated or misbranded poultry products or uninspected poultry products, adulterating or misbranding poultry products while they are being transported in commerce or held for sale after such transportation, treating carcasses not in accordance with regulations promulgated by the Secretary, possessing, without notifying the Secretary, any official device or any counterfeit, simulated, etc., official certificate, or any device or label bearing any counterfeit, simulated, etc., official mark, and making false representations and statements, and clarified application to brand manufacturers and printers of existing provisions prohibiting the counterfeiting of official marks, labels, or certificates.
+1968—Pub. L. 90–492 made revisions in form and phraseology, added to the enumerated prohibited actsslaughtering poultry or processing any poultry products capable of use as human food, except in compliance with the requirements of this chapter, selling and transporting adulterated or misbranded poultry products or uninspected poultry products, adulterating or misbranding poultry products while they are being transported in commerce or held for sale after such transportation, treating carcasses not in accordance with regulations promulgated by the Secretary, possessing, without notifying the Secretary, any official device or any counterfeit, simulated, etc., official certificate, or any device or label bearing any counterfeit, simulated, etc., official mark, and making false representations and statements, and clarified application to brand manufacturers and printers of existing provisions prohibiting the counterfeiting of official marks, labels, or certificates.
 
 #### Effective Date of 1968 Amendment
 

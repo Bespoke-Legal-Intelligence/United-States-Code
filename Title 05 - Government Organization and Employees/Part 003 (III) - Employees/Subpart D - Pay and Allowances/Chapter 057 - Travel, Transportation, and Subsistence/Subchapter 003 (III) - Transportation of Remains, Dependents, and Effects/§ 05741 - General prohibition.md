@@ -1,6 +1,6 @@
 ### §5741. General prohibition
 
-Except as specifically authorized by statute, the head of an Executive department or militarydepartment may not authorize an expenditure in connection with the transportation of remains of a deceased employee.
+Except as specifically authorized by statute, the head of an Executive department or military department may not authorize an expenditure in connection with the transportation of remains of a deceased employee.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 506.)
 

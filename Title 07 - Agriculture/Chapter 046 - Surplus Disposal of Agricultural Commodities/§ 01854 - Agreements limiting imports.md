@@ -34,7 +34,7 @@ Sec. 2. The Secretary of Agriculture, with the concurrence of the Secretary of S
 
 Sec. 3. The Commissioner of Customs shall take such actions and supply such information to the Secretary of Agriculture with respect to entry or withdrawal from warehouse for consumption in the United States of such meats as the Secretary of Agriculture, with the Concurrence of the Secretary of State and the Special Representative for Trade Negotiations \[United States Trade Representative\], may request to carry out any such agreements or regulations.
 
-Sec. 4. Heads of departments and heads of agencies are hereby authorized to redelegate within their respective departments or agencies the functions herein assigned to them, except that the function of negotiating agreements delegated to the United States Trade Representative by section 1 and the function of issuing regulations delegated to the Secretary of Agriculture by section 2 of this order may be redelegated only to officials required to be appointed by and with the advice and consent of the Senate, as provided by 3 U.S.C. 301.
+Sec. 4. Heads of departments and heads of agencies are hereby authorized to redelegate within their respective departments or agencies the functions herein assigned to them, except that the function of negotiating agreements delegated to the United States Trade Representative by section 1 and the function of issuing regulations delegated to the Secretary of Agricultureby section 2 of this order may be redelegated only to officials required to be appointed by and with the advice and consent of the Senate, as provided by 3 U.S.C. 301.
 
 #### Ex. Ord. No. 11651. Textile Trade Agreements
 
@@ -78,7 +78,7 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12475, May 9, 1984, 49 F.R. 19955, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including Section 204 of the Agricultural Act of 1956, as amended (76 Stat. 104, 7 U.S.C. 1854), and Section 301 of Title 3 of the United States Code, and in order to prevent circumvention or frustration of multilateral and bilateral agreements to which the United States is a party and to facilitate efficient and equitable administration of the United States Textile Import Program, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 204 of the Agricultural Act of 1956, as amended (76 Stat. 104, 7 U.S.C. 1854), and Section 301 of Title 3 of the United States Code, and in order to prevent circumvention or frustration of multilateral and bilateral agreements to which the United States is a party and to facilitate efficient and equitable administration of the United States Textile Import Program, it is hereby ordered as follows:
 
 Section 1. (a) In accordance with policy guidance provided by the Committee for the Implementation of Textile Agreements (CITA), through its Chairman, in accordance with the provisions of Executive Order No. 11651, as amended \[set out above\], the Secretary of the Treasury shall issue regulations governing the entry or withdrawal from warehouse for consumption of textiles and textile products subject to Section 204 of the Act \[7 U.S.C. 1854\].
 

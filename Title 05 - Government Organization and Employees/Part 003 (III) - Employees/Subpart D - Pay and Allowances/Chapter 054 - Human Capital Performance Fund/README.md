@@ -41,7 +41,7 @@ Applicability.—Notwithstanding section 5332(a)(1) of title 5, United States Co
 
 &emsp;“(1) which is in the same grade of the General Schedule, and the same agency, as the position which such employee occupied on October 31, 1993; and
 
-&emsp;“(2) to which the provisions of \[former\] chapter 54 of title 5, United States Code (as in effect on October 31, 1993) would apply if such provisions had remained in effect.
+&emsp;“(2) to which the provisions of \[former\] chapter 54 of title 5, United States Code (as in effect on October31, 1993) would apply if such provisions had remained in effect.
 
 “(c)
 

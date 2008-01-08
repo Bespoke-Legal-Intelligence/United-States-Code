@@ -14,7 +14,7 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 #### (d) Compliance assistance program
 
-(1) The Secretary shall establish and support cooperative agreements with the States under which employers subject to this chapter may consult with State personnel with respect to—
+(1) The Secretary shall establish and support cooperative agreements with the States underwhich employers subject to this chapter may consult with State personnel with respect to—
 
 &emsp;(A) the application of occupational safety and health requirements under this chapter or under State plans approved under section 667 of this title; and
 
@@ -50,9 +50,7 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 #### Retention of Training Institute Course Tuition Fees by OSHA
 
-Pub. L. 109–149, title I, Dec. 30, 2005, 119 Stat. 2839, provided in part that: “notwithstanding 31 U.S.C. 3302, the Occupational Safety and Health Administration may retain up to $750,000 per fiscal year of training institute course tuition fees, otherwise authorized by law to be collected, and may utilize such sums for occupational safety and health training and education grants”.
-
-Similar provisions were contained in the following prior appropriation acts:
+Provisions stating that notwithstanding 31 U.S.C. 3302, the Occupational Safety and Health Administration could retain up to $750,000 per fiscal year of training institute course tuition fees, otherwise authorized by law to be collected, and could utilize such sums for occupational safety and health training and education grants, were contained in Department of Labor Appropriations Act, 2006, Pub. L. 109–149, title I, Dec. 30, 2005, 119 Stat. 2839, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
 Pub. L. 108–447, div. F, title I, Dec. 8, 2004, 118 Stat. 3118.
 

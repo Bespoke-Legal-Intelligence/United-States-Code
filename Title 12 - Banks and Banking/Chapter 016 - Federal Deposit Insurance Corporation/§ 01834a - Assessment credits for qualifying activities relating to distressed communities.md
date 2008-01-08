@@ -14,9 +14,9 @@
 
 &emsp;An insured depository institution may apply for for <sup>1</sup> any community enterprise assessment credit for any semiannual period for—
 
-&emsp;&emsp;(A) the amount, during such period, of new originations of qualified loans and other assistance provided for low- and moderate-income persons in distressed communities, or enterprises integrally involved with such neighborhoods, which the Board determines are qualified to be taken into account for purposes of this subsection;
+&emsp;&emsp;(A) the amount, during such period, of new originations of qualified loans and other assistance provided for low- and moderate-income persons in distressed communities, or enterprises integrally involved with such neighborhoods, which the Board determinesare qualified to be taken into account for purposes of this subsection;
 
-&emsp;&emsp;(B) the amount, during such period, of deposits accepted from persons domiciled inthe distressed community, at any office of the institution (including any branch) located in any qualified distressed community, and new originations of any loans and other financial assistance made within that community, except that in no case shall the credit for deposits at any institution or branch exceed the credit for loans and other financial assistance by the bank or branch in the distressed community; and
+&emsp;&emsp;(B) the amount, during such period, of deposits accepted from persons domiciled in the distressed community, at any office of the institution (including any branch) located in any qualified distressed community, and new originations of any loans and other financial assistance made within that community, except that in no case shall the credit for deposits at any institution or branch exceed the credit for loans and other financial assistance by the bank or branch in the distressed community; and
 
 &emsp;&emsp;(C) any increase during the period in the amount of new equity investments in community development financial institutions.
 
@@ -188,7 +188,7 @@
 
 #### (B) Interim appointment
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the termto which such member's predecessor was appointed shall be appointed only for the remainder of such term.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term to which such member's predecessor was appointed shall be appointed only for the remainder of such term.
 
 #### (C) Continuation of service
 

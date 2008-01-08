@@ -14,7 +14,7 @@ Nothing in this Act shall be construed as a relinquishment or reduction of any w
 
 #### (d) Specific reservation
 
-The Federal water rights reserved by this Act are specific to the wilderness area located in theState of California designated under this Act. Nothing in this Act related to the reserved Federal water rights shall be construed as establishing a precedent with regard to any future designations, nor shall it constitute an interpretation of any other Act or any designation made thereto.
+The Federal water rights reserved by this Act are specific to the wilderness area located in the State of California designated under this Act. Nothing in this Act related to the reserved Federal water rights shall be construed as establishing a precedent with regard to any future designations, nor shall it constitute an interpretation of any other Act or any designation made thereto.
 
 (Pub. L. 103–433, title VII, §706, Oct. 31, 1994, 108 Stat. 4498.)
 

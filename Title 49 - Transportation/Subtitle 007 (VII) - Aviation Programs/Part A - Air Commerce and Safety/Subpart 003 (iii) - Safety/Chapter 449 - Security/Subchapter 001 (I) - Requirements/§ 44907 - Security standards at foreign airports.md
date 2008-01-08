@@ -16,7 +16,7 @@ Assessment.—(1) At intervals the Secretary of Transportation considers necessa
 
 (2) The Secretary of Transportation shall conduct an assessment under paragraph (1) of this subsection—
 
-&emsp;(A) in consultation with appropriate aeronautic authorities of the government of a foreign country concerned and each air carrierserving the foreign airport for which the Secretary is conducting the assessment;
+&emsp;(A) in consultation with appropriate aeronautic authorities of the government of a foreign country concerned and each air carrier serving the foreign airport for which the Secretary is conducting the assessment;
 
 &emsp;(B) to establish the extent to which a foreign airport effectively maintains and carries out security measures; and
 

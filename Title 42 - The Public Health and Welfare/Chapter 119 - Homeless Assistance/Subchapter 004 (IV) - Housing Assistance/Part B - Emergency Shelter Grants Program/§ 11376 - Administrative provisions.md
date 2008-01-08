@@ -6,7 +6,7 @@ Not later than 60 days after July 22, 1987, the Secretary shall by notice establ
 
 #### (b) Initial allocation of assistance
 
-Not later than the expiration of the 60-day period following the date of enactment of a law providing appropriations to carry out this part, the Secretary shall notify each State, metropolitan city, and urban county that is to receive a direct grant of its allocation of assistance under this part. Such assistance shall be allocated and may be used notwithstanding any failure of the Secretary to issue requirements under subsection (a) of this section.
+Not later than the expiration of the 60-day period following the date of enactment of a lawproviding appropriations to carry out this part, the Secretary shall notify each State, metropolitan city, and urban county that is to receive a direct grant of its allocation of assistance under this part. Such assistance shall be allocated and may be used notwithstanding any failure of the Secretary to issue requirements under subsection (a) of this section.
 
 #### (c) Minimum standards of habitability
 
@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 101–625, §832(g), added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 Amendment by Pub. L. 104–330 applicable with respect to amounts made available for assistance under this subchapter for fiscal year 1998 and fiscal years thereafter, see section 506(c) of Pub. L. 104–330, set out as a note under section 11371 of this title.
 

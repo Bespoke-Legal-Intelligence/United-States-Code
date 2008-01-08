@@ -38,9 +38,11 @@
 
 &emsp;(7) the compensation of trustees received under section 330(d) of title 11 by the clerks of the bankruptcy courts;
 
-&emsp;(8) excess fees collected under section 586(e)(2) of this title; and
+&emsp;(8) excess fees collected under section 586(e)(2) of this title;
 
-&emsp;(9) interest earned on Fund investment.
+&emsp;(9) interest earned on Fund investment; and
+
+&emsp;(10) fines imposed under section 110(<i>l</i>) of title 11, United States Code.
 
 (c) Amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
@@ -48,13 +50,15 @@
 
 (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 
-(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, §325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297.)
+(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, §325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 110–161, div. B, title II, §212(a), Dec. 26, 2007, 121 Stat. 1914.)
 
 #### Codification
 
 Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
+
+2007—Subsec. (b)(10). Pub. L. 110–161 added par. (10).
 
 2005—Subsec. (b)(1). Pub. L. 109–8, §325(b)(1), as amended by Pub. L. 109–13, §6058(a), added par. (1) and struck out former par. (1), which read as follows: “27.42 percent of the fees collected under section 1930(a)(1) of this title;”.
 

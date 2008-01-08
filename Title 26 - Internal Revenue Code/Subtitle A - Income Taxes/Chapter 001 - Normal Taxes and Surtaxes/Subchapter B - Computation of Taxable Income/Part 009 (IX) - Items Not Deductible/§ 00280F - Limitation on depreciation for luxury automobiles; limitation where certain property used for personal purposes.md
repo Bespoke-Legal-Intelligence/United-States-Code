@@ -94,7 +94,7 @@
 
 #### (2) Lessee's deductions reduced
 
-&emsp;For purposes of determining the amount allowable as a deduction under this chapter for rentals or other payments under a lease for a period of 30 days or more of listed property,only the allowable percentage of such payments shall be taken into account.
+&emsp;For purposes of determining the amount allowable as a deduction under this chapter for rentals or other payments under a lease for a period of 30 days or more of listed property, only the allowable percentage of such payments shall be taken into account.
 
 #### (3) Allowable percentage
 
@@ -268,7 +268,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 1990—Pub. L. 101–508, §11813(b)(13)(E), struck out “investment tax credit and” after “Limitation on” in section catchline.
 
-Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) “Investment tax credit” which read as follows: “The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
+Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1)“Investment tax credit” which read as follows: “The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
 
 Subsec. (a)(2). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicableto any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 

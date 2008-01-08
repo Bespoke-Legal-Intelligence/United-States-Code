@@ -10,11 +10,91 @@ Congress makes the following declarations:
 
 &emsp;(4) The United States should support the objectives agreed to on December 5, 2001, in Bonn, Germany, regarding the provisional arrangement for Afghanistan as it moves toward the establishment of permanent institutions and, in particular, should work intensively toward ensuring the future neutrality of Afghanistan, establishing the principle that neighboring countries and other countries in the region do not threaten or interfere in one another's sovereignty, territorial integrity, or political independence, including supporting diplomatic initiatives to support this goal.
 
-&emsp;(5) The special emergency situation in Afghanistan, which from the perspective of theAmerican people combines security, humanitarian, political, law enforcement, and development imperatives, requires that the President should receive maximum flexibility in designing, coordinating, and administering efforts with respect to assistance for Afghanistan and that a temporary special program of such assistance should be established for this purpose.
+&emsp;(5) The special emergency situation in Afghanistan, which from the perspective of the American people combines security, humanitarian, political, law enforcement, and development imperatives, requires that the President should receive maximum flexibility in designing, coordinating, and administering efforts with respect to assistance for Afghanistan and that a temporary special program of such assistance should be established for this purpose.
 
 &emsp;(6) To foster stability and democratization and to effectively eliminate the causes of terrorism, the United States and the international community should also support efforts that advance the development of democratic civil authorities and institutions in the broader Central Asia region.
 
 (Pub. L. 107–327, title I, §101, Dec. 4, 2002, 116 Stat. 2798.)
+
+#### Strategy for the United States Relationship With Afghanistan
+
+Pub. L. 110–53, title XX, §2041, Aug. 3, 2007, 121 Stat. 518, provided that:
+
+“(a)
+
+Congressional Findings.—Congress finds the following:
+
+&emsp;“(1) A democratic, stable, and prosperous Afghanistan is vital to the national security of the United States and to combating international terrorism.
+
+&emsp;“(2) Following the ouster of the Taliban regime in 2001, the Government of Afghanistan, with assistance from the United States and the international community, has achieved some notable successes, including—
+
+&emsp;&emsp;“(A) adopting a constitution;
+
+&emsp;&emsp;“(B) holding presidential, parliamentary, and provincial council elections;
+
+&emsp;&emsp;“(C) improving the protection of human rights, including women's rights; and
+
+&emsp;&emsp;“(D) expanding educational opportunities.
+
+&emsp;“(3) The following factors pose a serious and immediate threat to the stability of Afghanistan:
+
+&emsp;&emsp;“(A) Taliban and anti-government forces, al Qaeda, and criminal networks.
+
+&emsp;&emsp;“(B) Drug trafficking and corruption.
+
+&emsp;&emsp;“(C) Weak institutions of administration, security, and justice, including pervasive lack of the rule of law.
+
+&emsp;&emsp;“(D) Poverty, unemployment, and lack of provision of basic services.
+
+&emsp;“(4) The United States and the international community must significantly increase political, economic, and military support to Afghanistan to ensure its long-term stability and prosperity, and to deny violent extremist groups such as al Qaeda sanctuary in Afghanistan.
+
+“(b)
+
+Statements of Policy.—The following shall be the policies of the United States:
+
+&emsp;“(1) The United States shall vigorously support the people and Government of Afghanistan as they continue to commit to the path toward a government representing and protecting the rights of all Afghans, and shall maintain its long-term commitment to the people of Afghanistan by increased assistance and the continued deployment of United States troops in Afghanistan as long as the Government of Afghanistan supports such United States involvement.
+
+&emsp;“(2) In order to reduce the ability of the Taliban and al Qaeda to finance their operations through the opium trade, the President shall engage aggressively with the Government of Afghanistan, countries in the region or otherwise influenced by the trade and transit of narcotics, as well as North Atlantic Treaty Organization (NATO) partners of the United States, and in consultation with Congress, to assess the success of the current Afghan counter-narcotics strategy and to explore additional options for addressing the narcotics crisis in Afghanistan, including possible changes in rules of engagement for NATO and Coalition forces for participation in actions against narcotics trafficking and kingpins, and the provision of comprehensive assistance to farmers who rely on opium for their livelihood, including through the promotion of alternative crops and livelihoods.
+
+&emsp;“(3) The United States shall continue to work with and provide assistance to the Government of Afghanistan to strengthen local and national government institutions and the rule of law, including the training of judges and prosecutors, and to train and equip the Afghan National Security Forces.
+
+&emsp;“(4) The United States shall continue to call on NATO members participating in operations in Afghanistan to meet their commitments to provide forces and equipment, and to lift restrictions on how such forces can be deployed.
+
+&emsp;“(5) The United States shall continue to foster greater understanding and cooperation between the Governments of Afghanistan and Pakistan by taking the following actions:
+
+&emsp;&emsp;“(A) Facilitating greater communication, including through official mechanisms such as the Tripartite Commission and the Joint Intelligence Operations Center, and by promoting other forms of exchange between the parliaments and civil society of the two countries.
+
+&emsp;&emsp;“(B) Urging the Government of Afghanistan to enter into a political dialogue with Pakistan with respect to all issues relating to the border between the two countries, with the aim of establishing a mutually-recognized and monitored border, open to human and economic exchange, and with both countries fully responsible for border security.
+
+“(c)
+
+Statement of Congress.—Congress strongly urges that the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 et seq.) be reauthorized and updated to take into account new developments in Afghanistan and in the region so as to demonstrate the continued support by the United States for the people and Government of Afghanistan.
+
+“(d)
+
+Emergency Increase in Effective Police Training and Policing Operations.—
+
+&emsp;“(1)
+
+Congressional finding.—Congress finds that police training programs in Afghanistan have achieved far less return on substantial investment to date and require a substantive review and justification of the means and purposes of such assistance, consequent to any provision of additional resources.
+
+&emsp;“(2)
+
+Assistance authorized.—The President shall make increased efforts, on an urgent basis, to—
+
+&emsp;&emsp;“(A) dramatically improve the capability and effectiveness of United States and international police trainers, mentors, and police personnel for police training programs in Afghanistan, as well as develop a pretraining screening program;
+
+&emsp;&emsp;“(B) increase the numbers of such trainers, mentors, and personnel only if such increase is determined to improve the performance and capabilities of the Afghanistan civil security forces; and
+
+&emsp;&emsp;“(C) assist the Government of Afghanistan, in conjunction with the Afghanistan civil security forces and their leadership, in addressing the corruption crisis that is threatening to undermine Afghanistan's future.
+
+&emsp;“(3)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], and every 6 months thereafter until September 30, 2010, the President shall transmit to the appropriate congressional committees a report on United States efforts to fulfill the requirements of this subsection. The report required by this paragraph may be transmitted concurrently with any similar report required by the Afghanistan Freedom Support Act of 2002 \[22 U.S.C. 7501 et seq.\].”
+
+\[For definition of “appropriate congressional committees” as used in section 2041 of Pub. L. 110–53, set out above, see section 2002 of Pub. L. 110–53, set out as a note under section 2151 of this title.\]
+
+\[For assignment of functions of President under section 2041(d)(3) of Pub. L. 110–53, set out above, see Memorandum of President of the United States, Sept. 28, 2007, 72 F.R. 56871, set out as a note under section 2228 of this title.\]
 
 #### Coordination of Assistance
 
@@ -52,7 +132,7 @@ Sense of congress.—It is the sense of Congress that the United States Governme
 
 &emsp;“(B) Use the voice and vote of the United States in relevant international organizations, including the North Atlantic Treaty Organization and the United Nations Security Council, to strengthen international commitments to assist the Government of Afghanistan in enhancing security, building national police and military forces, increasing counter-narcotics efforts, and expanding infrastructure and public services throughout the country.
 
-&emsp;“(C) Take appropriate steps to increase the assistance provided under programs of the Department of State and the United States Agency for International Development throughout Afghanistan and to increase the number of personnel of those agencies in Afghanistan as necessary to support the increased assistance.”
+&emsp;“(C) Take appropriate steps to increase the assistance provided under programs of the Department ofState and the United States Agency for International Development throughout Afghanistan and to increase the number of personnel of those agencies in Afghanistan as necessary to support the increased assistance.”
 
 #### Declarations of General Policy
 

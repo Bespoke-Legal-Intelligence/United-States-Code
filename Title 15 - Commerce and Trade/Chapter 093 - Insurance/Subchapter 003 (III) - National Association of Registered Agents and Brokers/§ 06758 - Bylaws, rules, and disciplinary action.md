@@ -134,7 +134,7 @@ The NAIC may, in accordance with such rules as the NAIC determines to be necessa
 
 &emsp;&emsp;(A) on the NAIC's own motion; or
 
-&emsp;&emsp;(B) upon application by any person aggrieved by such action if such application is filed with the NAIC not more than 30 days after the later of—
+&emsp;&emsp;(B) upon application by any person aggrieved by such action if such application isfiled with the NAIC not more than 30 days after the later of—
 
 &emsp;&emsp;&emsp;(i) the date the notice was filed with the NAIC pursuant to paragraph (1); or
 

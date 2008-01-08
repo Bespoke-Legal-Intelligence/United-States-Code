@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(B) has not attained 18 years of age;
 
-&emsp;(3) “local child protective services agency” means that agency of the Federal Government, of a State, or of an Indian tribe that has the primary responsibility for child protectionon any Indian reservation or within any community in Indian country; and
+&emsp;(3) “local child protective services agency” means that agency of the Federal Government, of a State, or of an Indian tribe that has the primary responsibility for child protection on any Indian reservation or within any community in Indian country; and
 
 &emsp;(4) “local law enforcement agency” means that Federal, tribal, or State law enforcement agency that has the primary responsibility for the investigation of an instance of alleged child abuse within the portion of Indian country involved.
 

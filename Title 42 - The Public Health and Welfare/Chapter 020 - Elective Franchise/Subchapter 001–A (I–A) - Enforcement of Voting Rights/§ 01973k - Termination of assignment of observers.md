@@ -1,14 +1,20 @@
 ### §1973k. Termination of assignment of observers
 
-(a) The assignment of observers shall terminate in any political subdivision of any State—
+#### (a) In general
+
+The assignment of observers shall terminate in any political subdivision of any State—
 
 &emsp;(1) with respect to observers appointed pursuant to section 1973f of this title or with respect to examiners certified under subchapters I–A to I–C before July 27, 2006, whenever the Attorney General notifies the Director of the Office of Personnel Management, or whenever the District Court for the District of Columbia determines in an action for declaratory judgment brought by any political subdivision described in subsection (b), that there is no longer reasonable cause to believe that persons will be deprived of or denied the right to vote on account of race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title in such subdivision; and
 
 &emsp;(2) with respect to observers appointed pursuant to section 1973a(a) of this title, upon order of the authorizing court.
 
-(b) A political subdivision referred to in subsection (a)(1) is one with respect to which the Director of the Census has determined that more than 50 per centum of the nonwhite persons of voting age residing therein are registered to vote.
+#### (b) Political subdivision with majority of nonwhite persons registered
 
-(c) A political subdivision may petition the Attorney General for a termination under subsection (a)(1).
+A political subdivision referred to in subsection (a)(1) is one with respect to which the Director of the Census has determined that more than 50 per centum of the nonwhite persons of voting age residing therein are registered to vote.
+
+#### (c) Petition for termination
+
+A political subdivision may petition the Attorney General for a termination under subsection (a)(1).
 
 (Pub. L. 89–110, title I, §13, Aug. 6, 1965, 79 Stat. 444; renumbered title I, Pub. L. 91–285, §2, June 22, 1970, 84 Stat. 314; amended Pub. L. 94–73, title II, §206, Aug. 6, 1975, 89 Stat. 402; Pub. L. 109–246, §3(b), July 27, 2006, 120 Stat. 579.)
 

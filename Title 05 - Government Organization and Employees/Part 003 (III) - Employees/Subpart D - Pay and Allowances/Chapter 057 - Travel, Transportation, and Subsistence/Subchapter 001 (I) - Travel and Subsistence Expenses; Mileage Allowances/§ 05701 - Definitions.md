@@ -100,7 +100,7 @@ Pub. L. 104–201, div. A, title XVII, §1701, Sept. 23, 1996, 110 Stat. 2752, p
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–234 provided that: “This Act \[enacting sections 5706a and 5734 of this title and section 420 of Title 41, Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title41\] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
+Section 1 of Pub. L. 99–234 provided that: “This Act \[enacting sections 5706a and 5734 of this title and section 420 of Title 41, Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title 41\] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
 
 #### Short Title of 1975 Amendment
 
@@ -112,9 +112,11 @@ Pub. L. 108–447, div. G, title II, §209, Dec. 8, 2004, 118 Stat. 3193, provid
 
 #### Creditworthiness of Individuals To Be Issued Government Charge Cards
 
-Pub. L. 109–115, div. A, title VIII, §846, Nov. 30, 2005, 119 Stat. 2507, provided that: “Each executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. The department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: <i>Provided</i>, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
+Pub. L. 110–161, div. D, title VII, §743, Dec. 26, 2007, 121 Stat. 2032, provided that: “Each executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually-billed travel charge cards shall include an assessment of the individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (Public Law 91–508 \[90–321\]) \[15 U.S.C. 1681a\]: <i>Provided</i>, \[Proviso amended section 1681b of Title 15, Commerce and Trade.\]: <i>Provided further</i>, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: <i>Provided further</i>, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 109–115, div. A, title VIII, §846, Nov. 30, 2005, 119 Stat. 2507.
 
 Pub. L. 108–447, div. H, title VI, §639, Dec. 8, 2004, 118 Stat. 3281.
 
@@ -126,7 +128,7 @@ Pub. L. 105–264, §2, Oct. 19, 1998, 112 Stat. 2350, provided that:
 
 “(a)
 
-In General.—Under regulations issued by the Administrator of General Services after consultation with the Secretary of the Treasury, the Administrator shall require that Federal employees use the travel charge card established pursuant to the United States Travel and Transportation Payment and Expense Control System, or any Federal contractor-issued travel charge card, for all payments of expenses of official Government travel. The Administrator shall exempt any payment, person, type or class of payments, or type or class of personnel from any requirement established under the preceding sentence in any case in which—
+In General.—Under regulations issued by the Administrator of General Services after consultation with the Secretary of the Treasury, the Administrator shall require that Federal employees use the travelcharge card established pursuant to the United States Travel and Transportation Payment and Expense Control System, or any Federal contractor-issued travel charge card, for all payments of expenses of official Government travel. The Administrator shall exempt any payment, person, type or class of payments, or type or class of personnel from any requirement established under the preceding sentence in any case in which—
 
 &emsp;“(1) it is in the best interest of the United States to do so;
 
@@ -188,7 +190,7 @@ Regulations.—Within 270 days after the date of the enactment of this Act \[Oct
 
 &emsp;“(3) provide that any deduction under subsection (d) from pay owed to an employee may occur only after reimbursement of the employee for the expenses of Government travel with respect to which the deduction is made; and
 
-&emsp;“(4) require agencies to promptly reimburse employees for expenses charged on a travel charge cardpursuant to this section, and by no later than 30 days after the submission of a claim for reimbursement.
+&emsp;“(4) require agencies to promptly reimburse employees for expenses charged on a travel charge card pursuant to this section, and by no later than 30 days after the submission of a claim for reimbursement.
 
 “(f)
 

@@ -66,7 +66,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (A) In general
 
-&emsp;&emsp;If the personal casualty losses for any taxable year exceed the personal casualty gainsfor such taxable year, such losses shall be allowed for the taxable year only to the extent of the sum of—
+&emsp;&emsp;If the personal casualty losses for any taxable year exceed the personal casualty gains for such taxable year, such losses shall be allowed for the taxable year only to the extent of the sum of—
 
 &emsp;&emsp;&emsp;(i) the amount of the personal casualty gains for the taxable year, plus
 
@@ -152,7 +152,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (3) Exceptions
 
-&emsp;The Secretary may, by regulations, provide that this subsection and section 1287 shall notapply with respect to obligations held by any person if—
+&emsp;The Secretary may, by regulations, provide that this subsection and section 1287 shall not apply with respect to obligations held by any person if—
 
 &emsp;&emsp;(A) such person holds such obligations in connection with a trade or business outside the United States,
 
@@ -254,7 +254,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;<b>(5) For special rule for losses on small business stock, see section 1244.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L.91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191.)
 
 #### References in Text
 
@@ -300,7 +300,7 @@ Subsecs. (k), (<i>l</i>). Pub. L. 98–369, §1051(a), added subsec. (k) and red
 
 Subsec. (h). Pub. L. 97–248, §203(a), added subsec. (h) relating to casualty and theft losses. Former subsec. (h), relating to disaster losses, redesignated (i).
 
-Subsec. (i). Pub. L. 97–248, §203(a), redesignated former subsec. (h), relating to disaster losses, as (i), in subsec. (i), as so redesignated, further redesignated existing unnumbered provisions as pars. (1) and (2), in par. (1), as so redesignated, substituted “be taken into account for the taxable year” for “be deducted for the taxable year”, in par. (2), as so redesignated, substituted “shall be treated for purposes of this title as having occurred” for “will be deemed to have occurred”, added par. (3), and struck out provision that a deduction under this subsection could not be in excessof so much of the loss as would have been deductible in the taxable year in which the casualty occurred, based on facts existing at the date the taxpayer claimed the loss. Former subsec. (i), setting forth cross references, redesignated (j).
+Subsec. (i). Pub. L. 97–248, §203(a), redesignated former subsec. (h), relating to disaster losses, as (i), in subsec. (i), as so redesignated, further redesignated existing unnumbered provisions as pars. (1) and (2), in par. (1), as so redesignated, substituted “be taken into account for the taxable year” for “be deducted for the taxable year”, in par. (2), as so redesignated, substituted “shall be treated for purposes of this title as having occurred” for “will be deemed to have occurred”, added par. (3), and struck out provision that a deduction under this subsection could not be in excess of so much of the loss as would have been deductible in the taxable year in which the casualty occurred, based on facts existing at the date the taxpayer claimed the loss. Former subsec. (i), setting forth cross references, redesignated (j).
 
 Subsec. (j). Pub. L. 97–248, §310(b)(5), added subsec. (j) relating to denial of deduction for losses on certain obligations not in registered form. Former subsec. (j), setting forth cross references, redesignated (k).
 
@@ -312,7 +312,7 @@ Subsec. (k). Pub. L. 97–248, §310(b)(5), redesignated former subsec. (j), set
 
 1974—Subsec. (h). Pub. L. 93–288 substituted “Disaster Relief Act of 1974” for “Disaster Relief Act of 1970”.
 
-1972—Subsec. (h). Pub. L. 92–418 struck out par. (1) provisions relating to losses attributable to a disaster occurring during period following close of taxable year and on or before time prescribed by law for filing the income tax return for the taxable year without regard to any extension of time, struck out par. (2) designation, and inserted “attributable to a disaster” before “occurring in an area”, and at end of second sentence, inserted “based on facts existing at the date the taxpayer claims the loss”.
+1972—Subsec. (h). Pub. L. 92–418 struck out par. (1) provisions relating to losses attributable to a disaster occurring during period following close of taxable yearand on or before time prescribed by law for filing the income tax return for the taxable year without regard to any extension of time, struck out par. (2) designation, and inserted “attributable to a disaster” before “occurring in an area”, and at end of second sentence, inserted “based on facts existing at the date the taxpayer claims the loss”.
 
 Subsec. (h)(1). Pub. L. 92–336 substituted provisions relating to losses attributable to a disaster which occurs during the period after the close of the taxable year and on or before the last day of the 6th calendar month beginning after the close of the taxable year, for provisions relating to losses attributable to a disaster which occurs during the period following the close of the taxable year and on or before the time prescribed by law for filing the income tax return for the taxable year, determined without regard to any extension of time.
 
@@ -372,7 +372,7 @@ Section 1051(b) of Pub. L. 98–369 provided that: “The amendment made by subs
 
 #### Effective Date of 1982 Amendment
 
-Section 203(c) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982. Such amendments shall also apply to the taxpayer's last taxable year beginning before January 1, 1983, solely for purposes of determining the amount allowable as a deduction with respect to any loss taken into account for such year by reason of anelection under section 165(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section).”
+Section 203(c) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982. Such amendments shall also apply to the taxpayer's last taxable year beginning before January 1, 1983, solely for purposes of determining the amount allowable as a deduction with respect to any loss taken into account for such year by reason of an election under section 165(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section).”
 
 Amendment by section 310(b)(5) of Pub. L. 97–248 applicable to obligations issued after Dec. 31, 1982, with exceptions for certain warrants, see section 310(d) of Pub. L. 97–248, set out as a note under section 103 of this title.
 
@@ -386,7 +386,7 @@ Amendment by Pub. L. 93–288 effective Apr. 1, 1974, see section 605 of Pub. L.
 
 #### Effective Date of 1972 Amendments
 
-Section 2(c) of Pub. L. 92–418 provided in part that: “The amendment made by subsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 1971, in taxable years ending after such date.”
+Section 2(c) of Pub. L. 92–418 provided in part that: “The amendment made by subsection (a) \[amendingthis section\] shall apply to disasters occurring after December 31, 1971, in taxable years ending after such date.”
 
 Section 2(b) of Pub. L. 92–336 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 1971, in taxable years ending after such date.”
 
@@ -462,7 +462,7 @@ Exceptions.—The provisions of this section shall not apply to any assistance t
 
 #### Overpayments or Underpayments of Tax Attributable to Certain Amendments by Pub. L. 99–514 or Pub. L. 100–647
 
-Section 1009(d)(4) of Pub. L. 100–647 provided that: “If on the date of the enactment of this Act \[Nov. 10, 1988\] (or at any time before the date 1 year after such date of enactment) credit or refund of any overpayment of tax attributable to amendments made by section 905 of the Reform Act \[section 905 of Pub. L. 99–514, amending this section and section 451 of this title\] or by this subsection \[amending this section and section 451 of this title and provisions set out as a note under section 451 of this title\] (or the assessment of any underpayment of tax so attributable) is barred by any law or rule of law—
+Section 1009(d)(4) of Pub. L. 100–647 provided that: “If on the date of the enactment of this Act \[Nov. 10, 1988\]\(or at any time before the date 1 year after such date of enactment) credit or refund of any overpayment of tax attributable to amendments made by section 905 of the Reform Act \[section 905 of Pub. L. 99–514, amending this section and section 451 of this title\] or by this subsection \[amending this section and section 451 of this title and provisions set out as a note under section 451 of this title\] (or the assessment of any underpayment of tax so attributable) is barred by any law or rule of law—
 
 &emsp;“(A) credit or refund of any such overpayment may nevertheless be made if claim therefore \[sic\] is filed before the date 1 year after such date of enactment, and
 
@@ -652,7 +652,7 @@ Income Taken Into Account.—For purposes of this section, the income taken into
 
 “(d)
 
-Phaseout Where Adjusted Gross Income Exceeds $15,000.—If for the taxable year for which the deduction for the loss was taken the individual's adjusted gross income exceeded $15,000, the $5,000 limit set forth in paragraph (1) or (2) of subsection (c) (whichever applies) shall be reduced by one dollar for each full dollarthat such adjusted gross income exceeds $15,000. In the case of a married individual filing a separate return, the preceding sentence shall be applied by substituting ‘$7,500’ for ‘$15,000’.
+Phaseout Where Adjusted Gross Income Exceeds $15,000.—If for the taxable year for which the deduction for the loss was taken the individual's adjusted gross income exceeded $15,000, the $5,000 limit set forth in paragraph (1) or (2) of subsection (c) (whichever applies) shall be reduced by one dollar for each full dollar that such adjusted gross income exceeds $15,000. In the case of a married individual filing a separate return, the preceding sentence shall be applied by substituting ‘$7,500’ for ‘$15,000’.
 
 “(e)
 

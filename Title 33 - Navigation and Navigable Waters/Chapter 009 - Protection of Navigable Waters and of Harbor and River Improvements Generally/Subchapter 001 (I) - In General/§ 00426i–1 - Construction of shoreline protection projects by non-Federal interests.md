@@ -22,7 +22,7 @@ The Secretary is authorized to complete and transmit to the appropriate non-Fede
 
 #### (1) In general
 
-&emsp;Any non-Federal interest which has received from the Secretary pursuant to subsection (b) or (c) of this section a favorable recommendation to carry out a shoreline protectionproject or separable element thereof, based on the results of completed studies and engineering for the project or element, may carry out the project or element if a final environmental impact statement has been filed for the project or element.
+&emsp;Any non-Federal interest which has received from the Secretary pursuant to subsection (b) or (c) of this section a favorable recommendation to carry out a shoreline protection project or separable element thereof, based on the results of completed studies and engineering for the project or element, may carry out the project or element if a final environmental impact statement has been filed for the project or element.
 
 #### (2) Permits
 

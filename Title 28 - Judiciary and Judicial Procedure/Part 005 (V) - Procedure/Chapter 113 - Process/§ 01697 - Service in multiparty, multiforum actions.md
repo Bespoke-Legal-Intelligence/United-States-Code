@@ -6,5 +6,5 @@ When the jurisdiction of the district court is based in whole or in part upon se
 
 #### Effective Date
 
-Section applicable to a civil action if the accident giving rise to the cause of action occurred on or afterthe 90th day after Nov. 2, 2002, see section 11020(c) of Pub. L. 107–273, set out as a note under section 1369 of this title.
+Section applicable to a civil action if the accident giving rise to the cause of action occurred on or after the 90th day after Nov. 2, 2002, see section 11020(c) of Pub. L. 107–273, set out as a note under section 1369 of this title.
 

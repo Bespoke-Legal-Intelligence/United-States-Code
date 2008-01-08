@@ -6,7 +6,7 @@ Effective Date of Actions.—Unless otherwise provided in subtitle IV, the Board
 
 (b)
 
-Terminating and Changing Actions.—An action of the Board remains in effect under its own terms or until superseded. The Board may change, suspend, or set aside any such action on notice. Notice may be given in a manner determined by the Board. A court of competent jurisdiction may suspend or set aside any such action.
+Terminating and Changing Actions.—An action of the Board remains in effect under itsown terms or until superseded. The Board may change, suspend, or set aside any such action on notice. Notice may be given in a manner determined by the Board. A court of competent jurisdiction may suspend or set aside any such action.
 
 (c)
 

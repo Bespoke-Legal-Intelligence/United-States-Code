@@ -10,11 +10,11 @@
 
 (2) The Comptroller General shall credit the accounts of the Treasury or the depositary for the payment.
 
-(3) The amount of the relief shall be charged to the Check Forgery Insurance Fund (31 U.S.C. 3343). A recovery or repayment of a loss for which replacement is made out of the fund shall be credited to the fund and is available for the purposes for which the fund was established.
+(3) The amount of the relief and the amount of any relief granted to an official or agent of the Department of the Treasury under 31 U.S.C. 3527, shall be charged to the Check Forgery Insurance Fund (31 U.S.C. 3343). A recovery or repayment of a loss for which replacement is made out of the fund shall be credited to the fund and is available for the purposes for which the fund was established.
 
 (b) This section does not relieve another individual from civil or criminal liability for a check, draft, warrant, or debt obligation of the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 956; Pub. L. 108–447, div. H, title II, §220(a), Dec. 8, 2004, 118 Stat. 3242.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 956; Pub. L. 108–447, div. H, title II, §220(a), Dec. 8, 2004, 118 Stat. 3242; Pub. L. 110–161, div. D, title I, §119, Dec. 26, 2007, 121 Stat. 1979.)
 
 Historical and Revision Notes
 
@@ -38,9 +38,11 @@ In subsection (a)(1), before clause (A), the words “Secretary of the Treasury�
 
 In subsection (a)(2), the words “of the United States” are omitted as unnecessary. The words “of the Treasury or the depositary” are substituted for “Treasurer's” because of the restatement.
 
-In subsection (b), the words “another individual” are substituted for “any person, other than the Treasurer of the United States” to eliminate unnecessary words. The words “now existing or which may hereafter exist” are omitted as unnecessary.
+In subsection (b), the words “another individual” are substituted for “any person, other than the Treasurerof the United States” to eliminate unnecessary words. The words “now existing or which may hereafter exist” are omitted as unnecessary.
 
 #### Amendments
+
+2007—Subsec. (a)(3). Pub. L. 110–161 added par. (3) and struck out former par. (3) which read as follows: “The amount of the relief shall be charged to the Check Forgery Insurance Fund (31 U.S.C. 3343). A recovery or repayment of a loss for which replacement is made out of the fund shall be credited to the fund and is available for the purposes for which the fund was established.”
 
 2004—Subsec. (a)(1). Pub. L. 108–447, §220(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follow: “The Secretary of the Treasury is not liable for a payment made by the Secretary or depositary in due course and without negligence, of a—
 

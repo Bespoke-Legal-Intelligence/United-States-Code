@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;If the determination made under subsection (a)(2)(A) of this section and a determinationmade under any clause of subsection (a)(2)(B) of this section with respect to a petition are affirmative, the Commission shall immediately commence monitoring of trade in the downstream product that is the subject of the determination made under subsection (a)(2)(A) of this section. If the Commission finds that imports of a downstream product being monitored increased during any calendar quarter by 5 percent or more over the preceding quarter, the Commission shall analyze that increase in the context of overall economic conditions in the product sector.
+&emsp;If the determination made under subsection (a)(2)(A) of this section and a determination made under any clause of subsection (a)(2)(B) of this section with respect to a petition are affirmative, the Commission shall immediately commence monitoring of trade in the downstream product that is the subject of the determination made under subsection (a)(2)(A) of this section. If the Commission finds that imports of a downstream product being monitored increased during any calendar quarter by 5 percent or more over the preceding quarter, the Commission shall analyze that increase in the context of overall economic conditions in the product sector.
 
 #### (2) Reports
 

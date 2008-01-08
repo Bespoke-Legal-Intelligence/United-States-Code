@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 2 years after November 29, 1990, the Secretary, in consultation with theTask Force, shall issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the ballast water of vessels.
+&emsp;Not later than 2 years after November 29, 1990, the Secretary, in consultation with the Task Force, shall issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the ballast water of vessels.
 
 #### (2) Content of regulations
 

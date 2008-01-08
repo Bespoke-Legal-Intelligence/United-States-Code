@@ -1,5 +1,5 @@
 
-50 U.S.C.<br>United States Code, 2006 Edition<br>Title 50 - WAR AND NATIONAL DEFENSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+50 U.S.C.<br>United States Code, 2007 Edition<br>Title 50 - WAR AND NATIONAL DEFENSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 50—WAR AND NATIONAL DEFENSE
 
@@ -51,6 +51,7 @@
 | [<b>40.</b>](Chapter%20040%20-%20Defense%20Against%20Weapons%20of%20Mass%20Destruction/README.md) | <b>Defense Against Weapons of Mass Destruction</b> | <b>2301</b> |
 | [<b>41.</b>](Chapter%20041%20-%20National%20Nuclear%20Security%20Administration/README.md) | <b>National Nuclear Security Administration</b> | <b>2401</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Atomic%20Energy%20Defense%20Provisions/README.md) | <b>Atomic Energy Defense Provisions</b> | <b>2501</b> |
+| [<b>43.</b>](Chapter%20043%20-%20Preventing%20Weapons%20of%20Mass%20Destruction%20Proliferation%20and%20Terrorism/README.md) | <b>Preventing Weapons of Mass Destruction Proliferation and Terrorism</b> | <b>2901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -109,3 +110,4 @@ The Treaty of Peace with Japan, signed at San Francisco on Sept. 8, 1951, was ra
 - [Chapter 040 - Defense Against Weapons of Mass Destruction](Chapter%20040%20-%20Defense%20Against%20Weapons%20of%20Mass%20Destruction/README.md)
 - [Chapter 041 - National Nuclear Security Administration](Chapter%20041%20-%20National%20Nuclear%20Security%20Administration/README.md)
 - [Chapter 042 - Atomic Energy Defense Provisions](Chapter%20042%20-%20Atomic%20Energy%20Defense%20Provisions/README.md)
+- [Chapter 043 - Preventing Weapons of Mass Destruction Proliferation and Terrorism](Chapter%20043%20-%20Preventing%20Weapons%20of%20Mass%20Destruction%20Proliferation%20and%20Terrorism/README.md)

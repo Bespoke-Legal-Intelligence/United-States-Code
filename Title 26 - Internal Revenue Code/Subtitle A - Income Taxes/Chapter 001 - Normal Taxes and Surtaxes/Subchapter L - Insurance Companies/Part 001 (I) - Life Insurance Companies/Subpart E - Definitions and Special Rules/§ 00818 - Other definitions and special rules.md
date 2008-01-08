@@ -18,7 +18,7 @@ For purposes of this part, the term “pension plan contract” means any contra
 
 &emsp;&emsp;(A) a governmental plan (within the meaning of section 414(d)) or an eligible deferred compensation plan (within the meaning of section 457(b)), or
 
-&emsp;&emsp;(B) the Government of the United States, the government of any State or political subdivision thereof, or by any agency or instrumentality of the foregoing, or any organization (other than a governmental unit) exempt from tax under this subtitle, for use in satisfying an obligation of such government, political subdivision, agency or instrumentality, or organization to provide a benefit under a plan described in subparagraph (A).
+&emsp;&emsp;(B) the Government of the United States, the government of any State or political subdivision thereof, or by any agency or instrumentality of the foregoing, or any organization (other than a governmental unit)exempt from tax under this subtitle, for use in satisfying an obligation of such government, political subdivision, agency or instrumentality, or organization to provide a benefit under a plan described in subparagraph (A).
 
 #### (b) Treatment of capital gains and losses, etc.
 
@@ -86,7 +86,7 @@ For purposes of this part, the term “insurance or annuity contract” includes
 
 #### (A) In general
 
-&emsp;&emsp;On or before September 15, 1985, any life insurance company may elect to treat itemsdescribed in paragraph (1) as properly apportioned or allocated among items of gross income to the extent (and in the manner) prescribed in regulations.
+&emsp;&emsp;On or before September 15, 1985, any life insurance company may elect to treat items described in paragraph (1) as properly apportioned or allocated among items of gross income to the extent (and in the manner) prescribed in regulations.
 
 #### (B) Election irrevocable
 
@@ -152,7 +152,7 @@ Subsec. (c)(3). Pub. L. 106–170, §532(c)(1)(D), substituted “section 1221(a
 
 1996—Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
-1988—Subsec. (a)(6). Pub. L. 100–647, §1011(e)(5)(A), in subpar. (A) substituted “eligible deferred compensation plan” for “eligible State deferred compensation plan”, and in subpar. (B), inserted “or any organization (other than a governmental unit) exempt from tax under this subtitle,” after “foregoing,” and substituted “agency or instrumentality, or organization” for “or agency or instrumentality”.
+1988—Subsec. (a)(6). Pub. L. 100–647, §1011(e)(5)(A), in subpar. (A) substituted “eligible deferred compensation plan” for “eligible State deferred compensation plan”,and in subpar. (B), inserted “or any organization (other than a governmental unit) exempt from tax under this subtitle,” after “foregoing,” and substituted “agency or instrumentality, or organization” for “or agency or instrumentality”.
 
 Subsec. (f)(3). Pub. L. 100–647, §1010(k), added par. (3).
 

@@ -46,7 +46,7 @@
 
 (g) The Office of Personnel Management shall consult with the Office of Management and Budget before making any decision to grant or terminate any authority under this section.
 
-(h) The Office of Personnel Management shall report to the Committee on Government Reformof the House of Representatives and the Committee on Governmental Affairs of the Senate each year, in writing, on the operation of this section. Each report under this subsection shall include—
+(h) The Office of Personnel Management shall report to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate each year, in writing, on the operation of this section. Each report under this subsection shall include—
 
 &emsp;(1) the number of positions, in the aggregate and by agency, for which higher rates of pay were authorized or paid under this section during any part of the period covered by such report; and
 
@@ -79,6 +79,8 @@ Subsec. (h). Pub. L. 108–411, §102(2), (4), in introductory provisions, subst
 Subsec. (i). Pub. L. 102–378, §2(34)(B), added subsec. (i).
 
 #### Change of Name
+
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

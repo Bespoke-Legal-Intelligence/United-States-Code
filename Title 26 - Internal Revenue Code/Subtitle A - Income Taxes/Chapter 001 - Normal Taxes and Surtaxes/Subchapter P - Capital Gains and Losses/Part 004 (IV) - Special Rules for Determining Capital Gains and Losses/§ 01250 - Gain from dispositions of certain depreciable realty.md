@@ -50,9 +50,9 @@ Except as otherwise provided in this section—
 
 &emsp;&emsp;&emsp;(i) in the case of section 1250 property disposed of pursuant to a written contract which was, on July 24, 1969, and at all times thereafter, binding on the owner of the property, 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 20 full months;
 
-&emsp;&emsp;&emsp;(ii) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatement under similar provisions of State or local laws, and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 20 full months;
+&emsp;&emsp;&emsp;(ii) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financedor assisted by direct loan or tax abatement under similar provisions of State or local laws, and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 20 full months;
 
-&emsp;&emsp;&emsp;(iii) in the case of residential rental property (as defined in section 167(j)(2)(B)) other than that covered by clauses (i) and (ii), 100 percent minus 1 percentage point for each full month the property was heldafter the date the property was held 100 full months;
+&emsp;&emsp;&emsp;(iii) in the case of residential rental property (as defined in section 167(j)(2)(B)) other than that covered by clauses (i) and (ii), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
 
 &emsp;&emsp;&emsp;(iv) in the case of section 1250 property with respect to which a depreciation deduction for rehabilitation expenditures was allowed under section 167(k), 100 percent minus 1 percentage point for each full month in excess of 100 full months after the date on which such property was placed in service; and
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (4) Additional depreciation attributable to rehabilitation expenditures
 
-&emsp;The term “additional depreciation” also means, in the case of section 1250 property with respect to which a depreciation or amortization deduction for rehabilitation expenditures was allowed under section 167(k) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) or 191 (as in effect before its repeal by the Economic Recovery Tax Act of 1981), the depreciation or amortization adjustments allowed under such section to the extent attributable to such property, except that, in the case of such property held for more than one year after the rehabilitation expenditures so allowed were incurred, it means such adjustments only to the extent that they exceed the amount of the depreciation adjustments which would have resulted if such adjustments had been determined under the straight line method of adjustment without regard to the useful life permitted under section 167(k) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) or 191 (as in effect before its repeal by the Economic Recovery Tax Act of 1981).
+&emsp;The term “additional depreciation” also means, in the case of section 1250 property with respect to which a depreciation or amortization deduction for rehabilitation expenditures was allowed under section 167(k) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) or 191 (as in effect before its repeal by the Economic Recovery Tax Act of 1981), the depreciation or amortization adjustments allowed under such section to the extent attributable to such property, except that, in the case of such property held for more than oneyear after the rehabilitation expenditures so allowed were incurred, it means such adjustments only to the extent that they exceed the amount of the depreciation adjustments which would have resulted if such adjustments had been determined under the straight line method of adjustment without regard to the useful life permitted under section 167(k) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) or 191 (as in effect before its repeal by the Economic Recovery Tax Act of 1981).
 
 #### (5) Method of computing straight line adjustments
 
@@ -246,7 +246,7 @@ For purposes of determining the applicable percentage under this section, the pr
 
 #### (A) In general
 
-&emsp;&emsp;The term “separate improvement” means each improvement added during the 36–month period ending on the last day of any taxable year to the capital account for the property, but only if the sum of the amounts added to such account during such period exceeds the greatest of—
+&emsp;&emsp;The term “separate improvement” means each improvement added during the 36–month period ending on the last day of any taxable year to the capital account for the property, but only if the sum of theamounts added to such account during such period exceeds the greatest of—
 
 &emsp;&emsp;&emsp;(i) 25 percent of the adjusted basis of the property,
 
@@ -314,7 +314,7 @@ Subsec. (e)(2). Pub. L. 109–135, §402(a)(7)(B), substituted “or (3)” for 
 
 &emsp;“(A) property to the extent used by the taxpayer as his principal residence (within the meaning of section 1034, relating to rollover of gain on sale of principal residence), and
 
-&emsp;“(B) property in respect of which the taxpayer meets the age and ownership requirements of section 121 (relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55) but only to the extent that he meets the userequirements of such section in respect of such property.”
+&emsp;“(B) property in respect of which the taxpayer meets the age and ownership requirements of section 121 (relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55) but only to the extent that he meets the use requirements of such section in respect of such property.”
 
 Subsec. (e)(3). Pub. L. 105–34, §312(d)(10)(B), struck out heading and text of par. (3). Text read as follows: “If the basis of property acquired in a transaction described in paragraph (7) of subsection (d) is determined by reference to the basis in the hands of the taxpayer of other property, then the holding period of the property acquired shall include the holding period of such other property.”
 
@@ -474,7 +474,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to that portion of the basis of any property which is attributable to expenditures paid or incurred after Dec. 31, 1986, except as otherwise provided, see section 242(c) of Pub. L.99–514, set out as an Effective Date of Repeal note under former section 185 of this title.
+Amendment by Pub. L. 99–514 applicable to that portion of the basis of any property which is attributable to expenditures paid or incurred after Dec. 31, 1986, except as otherwise provided, see section 242(c) of Pub. L. 99–514, set out as an Effective Date of Repeal note under former section 185 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -548,5 +548,5 @@ Section 231(c) of Pub. L. 88–272 provided that: “The amendments made by this
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

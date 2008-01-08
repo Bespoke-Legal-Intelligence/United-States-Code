@@ -16,7 +16,7 @@ Functions.—The functions of the Office are as follows:
 
 &emsp;(2) To work with all personnel and offices of the Department of Veterans Affairs to develop, refine, and promulgate policies, best practices, lessons learned, and innovative and successful programs to improve care and services for veterans who reside in rural areas of the United States.
 
-&emsp;(3) To designate in each Veterans Integrated Service Network (VISN) an individual whoshall consult on and coordinate the discharge in such Network of programs and activities of the Office for veterans who reside in rural areas of the United States.
+&emsp;(3) To designate in each Veterans Integrated Service Network (VISN) an individual who shall consult on and coordinate the discharge in such Network of programs and activities of the Office for veterans who reside in rural areas of the United States.
 
 &emsp;(4) To perform such other functions and duties as the Secretary or the Under Secretary for Health considers appropriate.
 

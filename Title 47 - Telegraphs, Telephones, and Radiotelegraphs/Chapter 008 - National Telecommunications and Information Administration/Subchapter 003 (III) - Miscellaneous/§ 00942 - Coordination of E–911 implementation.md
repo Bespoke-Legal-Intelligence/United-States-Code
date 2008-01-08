@@ -60,7 +60,7 @@
 
 #### (4) Criteria
 
-&emsp;The Assistant Secretary and the Administrator shall jointly issue regulations within 180 days after December 23, 2004, after a public comment period of not less than 60 days, prescribing the criteria for selection for grants under this section, and shall update such regulations as necessary. The criteria shall include performance requirements and a timeline for completion of any project to be financed by a grant under this section.
+&emsp;The Assistant Secretary and the Administrator shall jointly issue regulations within 180 days after December 23, 2004, after a public comment period of not less than 60 days, prescribing the criteria for selection for grants under this section, and shall update such regulations as necessary. The criteria shall include performance requirements and a timeline for completion of any project to be financed by a grant under this section. Within 180 days after August 3, 2007, the Assistant Secretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance. Such grants shall be subject to all other requirements of this section.
 
 #### (c) Diversion of E–911 charges
 
@@ -120,7 +120,7 @@ As used in this section:
 
 #### (C) Exception
 
-&emsp;&emsp;Such term does not include any entity that has failed to submit the most recently required certification under subsection (c) of this section within 30 days after the date on which such certification is due.
+&emsp;&emsp;Such term does not include any entity that has failed to submit the most recentlyrequired certification under subsection (c) of this section within 30 days after the date on which such certification is due.
 
 #### (4) E–911 services
 
@@ -134,11 +134,15 @@ As used in this section:
 
 &emsp;The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
 
-(Pub. L. 102–538, title I, §158, as added Pub. L. 108–494, title I, §104, Dec. 23, 2004, 118 Stat. 3987.)
+(Pub. L. 102–538, title I, §158, as added Pub. L. 108–494, title I, §104, Dec. 23, 2004, 118 Stat. 3987; amended Pub. L. 110–53, title XXIII, §2303, Aug. 3, 2007, 121 Stat. 543.)
 
 #### Codification
 
 December 23, 2004, referred to in subsec. (a)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 108–494, which enacted this section, to reflect the probable intent of Congress.
+
+#### Amendments
+
+2007—Subsec. (b)(4). Pub. L. 110–53 inserted at end “Within 180 days after August 3, 2007, the Assistant Secretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance. Such grants shall be subject to all other requirements of this section.”
 
 #### Findings
 

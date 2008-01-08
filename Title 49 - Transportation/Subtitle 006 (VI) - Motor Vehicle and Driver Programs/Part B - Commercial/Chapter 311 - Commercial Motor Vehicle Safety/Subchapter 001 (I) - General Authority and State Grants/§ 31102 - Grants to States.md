@@ -40,7 +40,7 @@ State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedur
 
 &emsp;(P) provides satisfactory assurances that the State will promote activities in support of national priorities and performance goals, including—
 
-&emsp;&emsp;(i) activities aimed at removing impaired commercial motor vehicle drivers from thehighways of the United States through adequate enforcement of regulations on the use of alcohol and controlled substances and by ensuring ready roadside access to alcohol detection and measuring equipment;
+&emsp;&emsp;(i) activities aimed at removing impaired commercial motor vehicle drivers from the highways of the United States through adequate enforcement of regulations on the use of alcohol and controlled substances and by ensuring ready roadside access to alcohol detection and measuring equipment;
 
 &emsp;&emsp;(ii) activities aimed at providing an appropriate level of training to State motor carrier safety assistance program officers and employees on recognizing drivers impaired by alcohol or controlled substances; and
 
@@ -250,7 +250,7 @@ Allocation of withheld funds after compliance.—If, before the last day of the 
 
 “(4)
 
-Period of availability of subsequently allocated funds.—Any funds allocated pursuant to paragraph (3) shall remain available for expenditure until the last day of the first fiscal year following the fiscal year in which the funds are so allocated. Sums not expended at the end of such period are released to the Secretary for reallocation.
+Period of availability of subsequently allocated funds.—Any funds allocated pursuant to paragraph (3) shall remain available for expenditure untilthe last day of the first fiscal year following the fiscal year in which the funds are so allocated. Sums not expended at the end of such period are released to the Secretary for reallocation.
 
 “(5)
 

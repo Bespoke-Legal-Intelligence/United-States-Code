@@ -6,7 +6,7 @@ Grants may be made to the Foundation pursuant to this subchapter only if the Fou
 
 #### (b) Activities
 
-The Foundation may use funds provided under this subchapter only for activities and programs consistent with the purposes described in sections 12661 and 12663 of this title.
+The Foundation may use funds provided under this subchapter only for activities and programsconsistent with the purposes described in sections 12661 and 12663 of this title.
 
 #### (c) Limitation
 

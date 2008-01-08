@@ -39,6 +39,7 @@
 | [1720C.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720C%20-%20Noninstitutional%20alternatives%20to%20nursing%20home%20care.md) | Noninstitutional alternatives to nursing home care. |
 | [1720D.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720D%20-%20Counseling%20and%20treatment%20for%20sexual%20trauma.md) | Counseling and treatment for sexual trauma. |
 | [1720E.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720E%20-%20Nasopharyngeal%20radium%20irradiation.md) | Nasopharyngeal radium irradiation. |
+| [1720F.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720F%20-%20Comprehensive%20program%20for%20suicide%20prevention%20among%20veterans.md) | Comprehensive program for suicide prevention among veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -119,6 +120,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 110–110, §3(a)(2), Nov. 5, 2007, 121 Stat. 1033, which directed amendment of the analysis for this chapter by adding item 1720F at the end, was executed by adding item 1720F after item 1720E, to reflect the probable intent of Congress.
 
 2006—Pub. L. 109–461, title II, §211(a)(4), Dec. 22, 2006, 120 Stat. 3419, added item 1745.
 

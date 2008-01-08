@@ -28,7 +28,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### Effective Date
 
-Section 506(n) of Pub. L. 92–318 provided that: “The amendments made by this section \[enacting this section, amending sections 329, 331, 343, 349, 361a, 361c, and1626 of this title and sections 582a–3 and 582a–7 of Title 16, and enacting provisions set out as notes under this section and section 301 of this title\] shall be effective after June 30, 1970.”
+Section 506(n) of Pub. L. 92–318 provided that: “The amendments made by this section \[enacting this section, amending sections 329, 331, 343, 349, 361a, 361c, and 1626 of this title and sections 582a–3 and 582a–7 of Title 16, and enacting provisions set out as notes under this section and section 301 of this title\] shall be effective after June 30, 1970.”
 
 #### State Consent
 

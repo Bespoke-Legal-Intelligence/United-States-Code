@@ -14,7 +14,7 @@ To the extent feasible, the program established under subsection (a) of this sec
 
 &emsp;(3) include instruction in Native American studies.
 
-(Pub. L. 94–437, title I, §113, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4796; amended Pub. L. 102–573, title I, §§114(b), 117(b)(5), Oct. 29, 1992, 106 Stat. 4543, 4544; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 94–437, title I, §113, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4796;amended Pub. L. 102–573, title I, §§114(b), 117(b)(5), Oct. 29, 1992, 106 Stat. 4543, 4544; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### References in Text
 

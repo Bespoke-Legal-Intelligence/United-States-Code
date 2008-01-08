@@ -38,7 +38,7 @@
 
 (C) The Assistant Secretary may approve that portion of the amount requested by a State in its application under subparagraph (A) which the Assistant Secretary determines has been justified in such application.
 
-(D) Amounts which any State may receive in any fiscal year under this paragraph may not exceed three-fourths of 1 percent of the sum of the amounts allotted under section 3024(a) of this title to such State to carry out the State plan for such fiscal year.
+(D) Amounts which any State may receive in any fiscal year under this paragraph may not exceed three-fourths of 1 percent of the sum of the amounts allotted under section 3024(a) of thistitle to such State to carry out the State plan for such fiscal year.
 
 (E) No application by a State under subparagraph (A) shall be approved unless it contains assurances that no amounts received by the State under this paragraph will be used to hire any individual to fill a job opening created by the action of the State in laying off or terminating the employment of any regular employee not supported under this chapter in anticipation of filling the vacancy so created by hiring an employee to be supported through use of amounts received under this paragraph.
 
@@ -94,7 +94,7 @@ The amounts of any State's allotment under subsection (b) of this section for an
 
 A prior section 3028, Pub. L. 89–73, title III, §308, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44; Pub. L. 94–135, title I, §§108, 112(c), Nov. 28, 1975, 89 Stat. 717, 719, related to model projects, prior to the general amendment of this subchapter by Pub. L. 95–478.
 
-Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §306, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 43; Pub. L. 94–135, title I, §107, Nov. 28, 1975, 89 Stat. 716, which was classified to section 3026 of this title prior to repeal by Pub. L. 95–478.
+Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §306, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 43;Pub. L. 94–135, title I, §107, Nov. 28, 1975, 89 Stat. 716, which was classified to section 3026 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
 
@@ -140,7 +140,7 @@ Subsec. (b)(5)(A). Pub. L. 100–175, §182(<i>l</i>)(5), substituted “allotte
 
 Pub. L. 100–175, §129(c)(2)(A), substituted “received under subsection (a)(1)” for “received under subsection (a)”.
 
-Subsec. (b)(5)(B). Pub. L. 100–175, §182(<i>l</i>)(6), substituted provision that State may elect to transfer notmore than 30 percent of funds allotted for any fiscal year for provision that State may elect to transfer not more than 27 percent of funds allotted for fiscal year 1985, not more than 29 percent of funds allotted for fiscal year 1986, and not more than 30 percent of funds allotted for fiscal year 1987.
+Subsec. (b)(5)(B). Pub. L. 100–175, §182(<i>l</i>)(6), substituted provision that State may elect to transfer not more than 30 percent of funds allotted for any fiscal year for provision that State may elect to transfer not more than 27 percent of funds allotted for fiscal year 1985, not more than 29 percent of funds allotted for fiscal year 1986, and not more than 30 percent of funds allotted for fiscal year 1987.
 
 Pub. L. 100–175, §182(<i>l</i>)(5), substituted “allotted” for “appropriated”.
 

@@ -4,7 +4,7 @@
 
 (2) In no event shall the percentage adjustment taking effect under paragraph (1) in any calendar year (before rounding), in any salary rate, exceed the percentage adjustment taking effect in such calendar year under section 5303 of title 5 in the rates of pay under the General Schedule.
 
-(b) Subsection (a) shall not apply to the extent it would reduce the salary of any individual whose compensation may not, under section 1 of article III of the Constitution of the United States, be diminished during such individual's continuance in office.
+(b) Subsection (a) shall not apply to the extent it would reduce the salary of any individualwhose compensation may not, under section 1 of article III of the Constitution of the United States, be diminished during such individual's continuance in office.
 
 (Added Pub. L. 94–82, title II, §205(a)(1), Aug. 9, 1975, 89 Stat. 422; amended Pub. L. 101–194, title VII, §704(a)(2)(A), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 103–356, title I, §101(4), Oct. 13, 1994, 108 Stat. 3411.)
 
@@ -34,7 +34,13 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub. L. 101–194, set out as a note under section 5318 of Title 5, Government Organization and Employees.
 
+#### References in Div. D of Pub. L. 110–161
+
+Pub. L. 110–161, div. D, title VII, §749, Dec. 26, 2007, 121 Stat. 2035, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any title other than title IV \[121 Stat. 1990\] or VIII \[121 Stat. 2035\] shall not apply to such title IV or VIII.”
+
 #### Salary Adjustments
+
+Pub. L. 110–161, div. D, title III, §305, Dec. 26, 2007, 121 Stat. 1989, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. D of Pub. L. 110–161, see Tables for classification and see section 749 of Pub. L. 110–161, set out as a note above\], Justices and judges of the United States are authorized during fiscal year 2008, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
 Pub. L. 109–115, div. A, title IV, §405, Nov. 30, 2005, 119 Stat. 2470, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. A of Pub. L. 109–115, see Tables for classification\], Justices and judges of the United States are authorized during fiscal year 2006, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
@@ -50,7 +56,7 @@ Pub. L. 107–77, title III, §305, Nov. 28, 2001, 115 Stat. 783, provided in pa
 
 Pub. L. 106–553, §1(a)(2) \[title III, §309\], Dec. 21, 2000, 114 Stat. 2762, 2762A–89, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2001, to receive a salary adjustment in accordance with 28 U.S.C. 461, only if for the purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), adjustments under section 5303 of title 5, United States Code, shall take effect in fiscal year 2001”.
 
-Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §304\], Nov. 29, 1999, 113 Stat. 1535, 1501A–36, provided in part that:“Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2000, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
+Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §304\], Nov. 29, 1999, 113 Stat. 1535, 1501A–36, provided in part that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2000, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
 
 Pub. L. 105–119, title III, §306, Nov. 26, 1997, 111 Stat. 2493, provided in part that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], justices and judges of the United States are authorized during fiscal year 1998, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
 
@@ -60,7 +66,7 @@ Pub. L. 102–140, title III, §305, Oct. 28, 1991, 105 Stat. 810, provided that
 
 Pub. L. 101–520, title III, §321, Nov. 5, 1990, 104 Stat. 2285, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during calendar year 1991 to receive a salary adjustment in accordance with 28 U.S.C. section 461.”
 
-Pub. L. 101–194, title VII, §703(a)(3), Nov. 30, 1989, 103 Stat. 1768, set out as a note under section 5318 of Title 5, Government Organization and Employees, provided that effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
+Pub. L. 101–194, title VII, §703(a)(3), Nov. 30, 1989, 103 Stat. 1768, set out as a note under section 5318 of Title 5, Government Organization and Employees, providedthat effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
 
 For purposes of section 140 of Pub. L. 97–92 (set out below), appropriate salary increases were authorized for Federal judges and Justices of the Supreme Court pursuant to section 702(a) of Pub. L. 101–194 which provided that effective for pay periods beginning on or after Nov. 30, 1989, the rate of basic pay for any office or position in the judicial branch of the Government shall be determined as if section 620(b) of Pub. L. 100–440 (5 U.S.C. 5303 note) and section 619(b) of Pub. L. 101–136 (5 U.S.C. 5303 note) had never been enacted, see section 702 of Pub. L. 101–194, set out as a note under section 5303 of Title 5.
 

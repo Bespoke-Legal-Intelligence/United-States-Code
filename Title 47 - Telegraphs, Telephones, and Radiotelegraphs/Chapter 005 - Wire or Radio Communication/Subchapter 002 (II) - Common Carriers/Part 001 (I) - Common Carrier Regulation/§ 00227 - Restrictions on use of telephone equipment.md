@@ -152,7 +152,7 @@ As used in this section—
 
 #### (3) Use of database permitted
 
-&emsp;The regulations required by paragraph (2) may require the establishment and operationof a single national database to compile a list of telephone numbers of residential subscribers who object to receiving telephone solicitations, and to make that compiled list and parts thereof available for purchase. If the Commission determines to require such a database, such regulations shall—
+&emsp;The regulations required by paragraph (2) may require the establishment and operation of a single national database to compile a list of telephone numbers of residential subscribers who object to receiving telephone solicitations, and to make that compiled list and parts thereof available for purchase. If the Commission determines to require such a database, such regulations shall—
 
 &emsp;&emsp;(A) specify a method by which the Commission will select an entity to administer such database;
 
@@ -168,7 +168,7 @@ As used in this section—
 
 &emsp;&emsp;(G) specify (i) the methods by which any person desiring to make or transmit telephone solicitations will obtain access to the database, by area code or local exchange prefix, as required to avoid calling the telephone numbers of subscribers included in such database; and (ii) the costs to be recovered from such persons;
 
-&emsp;&emsp;(H) specify the methods for recovering, from persons accessing such database, the costs involved in identifying, collecting, updating, disseminating, and selling, and other activities relating to, the operations of the database that are incurred by the entities carrying out those activities;
+&emsp;&emsp;(H) specify the methods for recovering, from persons accessing such database, thecosts involved in identifying, collecting, updating, disseminating, and selling, and other activities relating to, the operations of the database that are incurred by the entities carrying out those activities;
 
 &emsp;&emsp;(I) specify the frequency with which such database will be updated and specify the method by which such updating will take effect for purposes of compliance with the regulations prescribed under this subsection;
 

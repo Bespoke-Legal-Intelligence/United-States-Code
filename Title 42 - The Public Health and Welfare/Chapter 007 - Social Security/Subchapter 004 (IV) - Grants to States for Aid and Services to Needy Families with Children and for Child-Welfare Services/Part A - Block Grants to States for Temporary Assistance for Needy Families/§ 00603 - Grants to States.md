@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each eligible State shall be entitled to receive from the Secretary, for each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and 2003, a grant in an amount equal to the State family assistance grant.
+&emsp;&emsp;Each eligible State shall be entitled to receive from the Secretary, for each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and2003, a grant in an amount equal to the State family assistance grant.
 
 #### (B) State family assistance grant
 
@@ -22,7 +22,7 @@
 
 #### (i) Use of funds
 
-&emsp;&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary may use the funds made available under subparagraph (D) for the purpose of conducting and supporting researchand demonstration projects by public or private entities, and providing technical assistance to States, Indian tribes and tribal organizations, and such other entities as the Secretary may specify that are receiving a grant under another provision of this part.
+&emsp;&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary may use the funds made available under subparagraph (D) for the purpose of conducting and supporting research and demonstration projects by public or private entities, and providing technical assistance to States, Indian tribes and tribal organizations, and such other entities as the Secretary may specify that are receiving a grant under another provision of this part.
 
 #### (ii) Limitations
 
@@ -78,7 +78,7 @@
 
 #### (iii) Reports
 
-&emsp;&emsp;&emsp;The Secretary may require a recipient of funds awarded under this subparagraph to provide the Secretary with such information as the Secretary deems relevant to enable the Secretary to facilitate and oversee the administration of any project for which funds are provided under this subparagraph.
+&emsp;&emsp;&emsp;The Secretary may require a recipient of funds awarded under this subparagraph to provide the Secretary with such information as the Secretary deems relevant to enable the Secretary to facilitate andoversee the administration of any project for which funds are provided under this subparagraph.
 
 #### (C) Limitation on use of funds for activities promoting responsible fatherhood
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the level of welfare spending per poor person by the State for the immediately preceding fiscal year is less than the national average level of State welfare spending per poor person for such preceding fiscal year; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the population growth rate of the State (as determined by the Bureau of the Census) for the most recent fiscal year for which information is available exceeds the average population growth rate for all States (as so determined) for such most recent fiscal year.
+&emsp;&emsp;&emsp;&emsp;(II) the population growth rate of the State (as determined by the Bureau ofthe Census) for the most recent fiscal year for which information is available exceeds the average population growth rate for all States (as so determined) for such most recent fiscal year.
 
 #### (ii) State must qualify in fiscal year 1998
 
@@ -290,7 +290,7 @@
 
 #### (II) Minimum allotment
 
-&emsp;&emsp;&emsp;&emsp;The allotment of a welfare-to-work State (other than Guam, the Virgin Islands, or American Samoa) for a fiscalyear shall not be less than 0.25 percent of the available amount for the fiscal year.
+&emsp;&emsp;&emsp;&emsp;The allotment of a welfare-to-work State (other than Guam, the Virgin Islands, or American Samoa) for a fiscal year shall not be less than 0.25 percent of the available amount for the fiscal year.
 
 #### (III) Pro rata reduction
 
@@ -340,7 +340,7 @@
 
 #### (III) Projects to help long-term recipients of assistance enter unsubsidized jobs
 
-&emsp;&emsp;&emsp;&emsp;The Governor of a State to which a grant is made under this subparagraph may distribute not more than 15 percent of the grant funds (plus any amount required to be distributed under this subclause by reason of subclause (II)(bb)) to projects that appear likely to help long-term recipients of assistance under the State program funded under this part (whether in effect before or after the amendments made by section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 first applied to the State) enter unsubsidized employment.
+&emsp;&emsp;&emsp;&emsp;The Governor of a State to which a grant is made under this subparagraph may distribute not more than 15 percent of the grant funds (plus any amount required to be distributed under this subclause by reason of subclause (II)(bb)) to projects that appear likely to help long-term recipients of assistance under theState program funded under this part (whether in effect before or after the amendments made by section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 first applied to the State) enter unsubsidized employment.
 
 #### (vii) Administration
 
@@ -400,7 +400,7 @@
 
 #### (iii) Determination of grant amount
 
-&emsp;&emsp;&emsp;In determining the amount of a grant to be made under this subparagraph for a project proposed by an applicant, the Secretary of Labor shall provide the applicant with an amount sufficient to ensure that the project has a reasonable opportunity to be successful, taking into account the number of long-term recipients of assistance under a State program funded under this part, the level of unemployment, the job opportunities and job growth, the poverty rate, and such other factors as the Secretary of Labor deems appropriate, in the area to be served by the project.
+&emsp;&emsp;&emsp;In determining the amount of a grant to be made under this subparagraph for a project proposed by an applicant, the Secretary of Labor shall provide the applicant with an amount sufficient to ensure thatthe project has a reasonable opportunity to be successful, taking into account the number of long-term recipients of assistance under a State program funded under this part, the level of unemployment, the job opportunities and job growth, the poverty rate, and such other factors as the Secretary of Labor deems appropriate, in the area to be served by the project.
 
 #### (iv) Consideration of needs of rural areas and cities with large concentrations of poverty
 
@@ -412,7 +412,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) 25 percent of the sum of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (H) for the fiscal year, minus thetotal of the amounts reserved pursuant to subparagraphs (E), (F), and (G) for the fiscal year; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (H) for the fiscal year, minus the total of the amounts reserved pursuant to subparagraphs (E), (F), and (G) for the fiscal year; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) any amount reserved pursuant to subparagraph (E) for the immediately preceding fiscal year that has not been obligated; and
 
@@ -464,7 +464,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) The minor child is eligible for, or is receiving, assistance under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], benefits under the supplemental security income program under subchapter XVI of this chapter, medical assistance under subchapter XIX of this chapter, or child health assistance under subchapter XXI of this chapter.
 
-&emsp;&emsp;&emsp;&emsp;(III) In the case of a noncustodial parent who becomes enrolled in the project on or after November 29, 1999, the noncustodial parent is in compliance with the terms of an oral or written personal responsibility contract entered into among the noncustodial parent, the entity, and (unless the entity demonstrates to the Secretary that the entity is not capable of coordinating with such agency) the agency responsible for administering the State plan under part D of this subchapter, which was developed taking into account the employment and child support status of the noncustodial parent, which was entered into not later than 30 (or, at the option of the entity, not later than 90) days after the noncustodial parent was enrolled in the project, and which, at a minimum, includes the following:
+&emsp;&emsp;&emsp;&emsp;(III) In the case of a noncustodial parent who becomes enrolled in the projecton or after November 29, 1999, the noncustodial parent is in compliance with the terms of an oral or written personal responsibility contract entered into among the noncustodial parent, the entity, and (unless the entity demonstrates to the Secretary that the entity is not capable of coordinating with such agency) the agency responsible for administering the State plan under part D of this subchapter, which was developed taking into account the employment and child support status of the noncustodial parent, which was entered into not later than 30 (or, at the option of the entity, not later than 90) days after the noncustodial parent was enrolled in the project, and which, at a minimum, includes the following:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) A commitment by the noncustodial parent to cooperate, at the earliest opportunity, in the establishment of the paternity of the minor child, through voluntary acknowledgement or other procedures, and in the establishment of a child support order.
 
@@ -514,7 +514,7 @@
 
 #### (vii) Prohibition against use of grant funds for any other fund matching requirement
 
-&emsp;&emsp;&emsp;An entity to which funds are provided under this paragraph shall not use any part of the funds, nor any part of State expenditures made to match the funds, to fulfill any obligation of any State, political subdivision, or private industry council to contribute funds under subsection (b) ofthis section or section 618 of this title or any other provision of this chapter or other Federal law.
+&emsp;&emsp;&emsp;An entity to which funds are provided under this paragraph shall not use any part of the funds, nor any part of State expenditures made to match the funds, to fulfill any obligation of any State, political subdivision, or private industry council to contribute funds under subsection (b) of this section or section 618 of this title or any other provision of this chapter or other Federal law.
 
 #### (viii) Deadline for expenditure
 
@@ -654,7 +654,7 @@
 
 #### (vi) Nonpreemption of State law
 
-&emsp;&emsp;&emsp;The provisions of this subparagraph shall not be construed to preempt any provision of State law that affords greater protections to employees or to other participants engaged in work activities under a program funded under this part than is afforded by such provisions of this subparagraph.
+&emsp;&emsp;&emsp;The provisions of this subparagraph shall not be construed to preempt any provision of State law that affords greater protections to employees or to other participantsengaged in work activities under a program funded under this part than is afforded by such provisions of this subparagraph.
 
 #### (J) Information disclosure
 
@@ -744,7 +744,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title (other than the expenditures described in subclause (I)(bb) of such section)) under the State program funded under this part for the fiscal year; plus
 
-&emsp;&emsp;&emsp;&emsp;(II) any amount paid to the State under paragraph (3) during the fiscalyear that is expended by the State under the State program funded under this part.
+&emsp;&emsp;&emsp;&emsp;(II) any amount paid to the State under paragraph (3) during the fiscal year that is expended by the State under the State program funded under this part.
 
 #### (C) Adjustment of State remittances
 
@@ -812,7 +812,7 @@ The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, ref
 
 #### Prior Provisions
 
-A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, titleV, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
+A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
 
@@ -984,7 +984,7 @@ Subsec. (a)(2)(C)(i)(I)(bb). Pub. L. 105–33, §5502(c)(1)(A), substituted “t
 
 Subsec. (a)(2)(C)(i)(II). Pub. L. 105–33, §5502(c)(1)(B), substituted “calendar” for “fiscal” wherever appearing.
 
-Subsec. (a)(2)(C)(i)(II)(aa). Pub. L. 105–33, §5502(b)(3)(A)(ii), substituted “illegitimacy ratio of” for“number of out-of-wedlock births that occurred in” in two places and “calculate the illegitimacy ratio” for “calculate the number of out-of-wedlock births”.
+Subsec. (a)(2)(C)(i)(II)(aa). Pub. L. 105–33, §5502(b)(3)(A)(ii), substituted “illegitimacy ratio of” for “number of out-of-wedlock births that occurred in” in two places and “calculate the illegitimacy ratio” for “calculate the number of out-of-wedlock births”.
 
 Subsec. (a)(2)(C)(ii). Pub. L. 105–33, §5502(c)(2), substituted “calendar years” for “fiscal years”.
 

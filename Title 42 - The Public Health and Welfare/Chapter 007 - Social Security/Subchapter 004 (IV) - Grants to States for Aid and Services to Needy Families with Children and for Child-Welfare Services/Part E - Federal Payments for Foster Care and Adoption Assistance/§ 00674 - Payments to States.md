@@ -22,7 +22,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 &emsp;&emsp;&emsp;(iii) to the extent practicable, have the capability of interfacing with, and retrieving information from, the State data collection system that collects information relating to the eligibility of individuals under part A of this subchapter (for the purposes of facilitating verification of eligibility of foster children); and
 
-&emsp;&emsp;&emsp;(iv) are determined by the Secretary to be likely to provide more efficient, economical, and effective administration of the programs carried out under a State plan approved under part B of this subchapter or this part; and
+&emsp;&emsp;&emsp;(iv) are determined by the Secretary to be likely to provide more efficient, economical, and effective administration ofthe programs carried out under a State plan approved under part B of this subchapter or this part; and
 
 &emsp;&emsp;(D) 50 percent of so much of such expenditures as are for the operation of the statewide mechanized data collection and information retrieval systems referred to in subparagraph (C); and
 

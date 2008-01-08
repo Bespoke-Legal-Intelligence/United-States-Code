@@ -32,7 +32,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 &emsp;&emsp;For purposes of subparagraph (A), the basis amount determined under this subparagraph shall be an amount equal to the grossed-up basis determined under subparagraph (A) of paragraph (1) multiplied by a fraction—
 
-&emsp;&emsp;&emsp;(i) the numerator of which is the percentage of stock (by value) in the targetcorporation attributable to the purchasing corporation's nonrecently purchased stock, and
+&emsp;&emsp;&emsp;(i) the numerator of which is the percentage of stock (by value) in the target corporation attributable to the purchasing corporation's nonrecently purchased stock, and
 
 &emsp;&emsp;&emsp;(ii) the denominator of which is 100 percent minus the percentage referred to in clause (i).
 
@@ -112,7 +112,7 @@ If a purchasing corporation makes qualified stock purchases with respect to the 
 
 #### (1) When made
 
-&emsp;Except as otherwise provided in regulations, an election under this section shall be made not later than the 15th day of the 9th month beginning after the month in which the acquisition date occurs.
+&emsp;Except as otherwise provided in regulations, an election under this section shall be madenot later than the 15th day of the 9th month beginning after the month in which the acquisition date occurs.
 
 #### (2) Manner
 
@@ -272,7 +272,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) regulations providing for the coordination of the provisions of this section with the provision of this title relating to foreign corporations and their shareholders.
 
-(Added Pub. L. 97–248, title II, §224(a), Sept. 3, 1982, 96 Stat. 485; amended Pub. L. 97–448, title III, §306(a)(8)(A)(i), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title VII, §712(k)(1)–(5)(D), (6), (7), July 18, 1984, 98 Stat. 948–952; Pub. L. 99–514, title VI, §631(b), (e)(5), title XII, §1275(c)(6), title XVIII, §§1804(e)(8)(A), 1899A(7), Oct. 22, 1986, 100 Stat. 2272, 2273, 2599, 2804, 2958; Pub. L. 100–647, title I, §§1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, 102 Stat. 3403, 3535, 3581; Pub. L. 101–508, title XI, §11323(c)(1), Nov. 5, 1990, 104 Stat. 1388–465; Pub. L. 108–27, title III, §302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763; Pub. L. 108–357, title VIII, §839(a), Oct. 22, 2004, 118 Stat. 1597.)
+(Added Pub. L. 97–248, title II, §224(a), Sept. 3, 1982, 96 Stat. 485; amended Pub. L. 97–448, titleIII, §306(a)(8)(A)(i), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title VII, §712(k)(1)–(5)(D), (6), (7), July 18, 1984, 98 Stat. 948–952; Pub. L. 99–514, title VI, §631(b), (e)(5), title XII, §1275(c)(6), title XVIII, §§1804(e)(8)(A), 1899A(7), Oct. 22, 1986, 100 Stat. 2272, 2273, 2599, 2804, 2958; Pub. L. 100–647, title I, §§1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, 102 Stat. 3403, 3535, 3581; Pub. L. 101–508, title XI, §11323(c)(1), Nov. 5, 1990, 104 Stat. 1388–465; Pub. L. 108–27, title III, §302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763; Pub. L. 108–357, title VIII, §839(a), Oct. 22, 2004, 118 Stat. 1597.)
 
 #### Amendment of Section
 
@@ -352,7 +352,7 @@ Subsec. (h)(1). Pub. L. 98–369, §712(k)(5)(C), included within 12-month acqui
 
 Subsec. (h)(3)(A)(ii). Pub. L. 98–369, §712(k)(5)(D), included references to sections 354, 355, and 356 and in defining “purchase” provided that the stock not be acquired in any other transaction described in regulations in which the transferor does not recognize the entire amount of the gain or loss realized on the transaction.
 
-Subsec. (h)(3)(B). Pub. L. 98–369, §712(k)(5)(A), substituted in heading “under subsection (a)” for “of stock of subsidiaries” and in text “The term ‘purchase’ includes any deemed purchase under subsection (a)(2). The acquisition date for a corporation which is deemed purchased under subsection (a)(2) shall be determined under regulations prescribed by the Secretary” for “If stock in a corporation is acquired by purchase (within the meaning of subparagraph (A)) and, as a result of such acquisition, the corporation making such purchase is treated (by reason of section 318(a)) as owningstock in a 3rd corporation, the corporation making such purchase shall be treated as having purchased such stock in such 3rd corporation. The corporation making such purchase shall be treated as purchasing stock in the 3rd corporation by reason of the preceding sentence on the first day on which the purchasing corporation is considered under section 318(a) as owning such stock”.
+Subsec. (h)(3)(B). Pub. L. 98–369, §712(k)(5)(A), substituted in heading “under subsection (a)” for “of stock of subsidiaries” and in text “The term ‘purchase’ includes any deemed purchase under subsection (a)(2). The acquisition date for a corporation which is deemed purchased under subsection (a)(2) shall be determined under regulations prescribed by the Secretary” for “If stock in a corporation is acquired by purchase (within the meaning of subparagraph (A)) and, as a result of such acquisition, the corporation making such purchase is treated (by reason of section 318(a)) as owning stock in a 3rd corporation, the corporation making such purchase shall be treated as having purchased such stock in such 3rd corporation. The corporation making such purchase shall be treated as purchasing stock in the 3rd corporation by reason of the preceding sentence on the first day on which the purchasing corporation is considered under section 318(a) as owning such stock”.
 
 Subsec. (h)(3)(C). Pub. L. 98–369, §712(k)(5)(B), added subpar. (C).
 

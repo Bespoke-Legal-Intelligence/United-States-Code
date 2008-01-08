@@ -1,20 +1,26 @@
 ### §2209b. Availability of appropriations
 
-New obligational authority provided for the following appropriation items in this Act shall remain available until expended: Animal and Plant Health Inspection Service, the contingency fund to meet emergency conditions, information technology infrastructure, fruit fly program, emerging plant pests, boll weevil program, low pathogen avian influenza program, up to $33,340,000 in animal health monitoring and surveillance for the animal identification system, up to $1,500,000 in the scrapie program for indemnities, up to $3,000,000 in the emergency management systems program for the vaccine bank, up to $1,000,000 for wildlife services methods development, up to $1,000,000 of the wildlife services operations program for aviation safety, and up to 25 percent of the screwworm program; Food Safety and Inspection Service, field automation and information management project;Cooperative State Research, Education, and Extension Service, funds for competitive research grants (7 U.S.C. 450i(b)), funds for the Research, Education, and Economics Information System, and funds for the Native American Institutions Endowment Fund; Farm Service Agency, salaries and expenses funds made available to county committees; Foreign Agricultural Service, middle-income country training program, and up to $2,000,000 of the Foreign Agricultural Service appropriation solely for the purpose of offsetting fluctuations in international currency exchange rates, subject to documentation by the Foreign Agricultural Service.
+New obligational authority provided for the following appropriation items in this Act shall remain available until expended: Public Law 480 \[7 U.S.C. 1691 et seq.\]; Mutual and Self-Help Housing; Watershed and Flood Prevention Operations; Resource Conservation and Development; Colorado River Basin Salinity Control Program; Animal and Plant Health Inspection Service, the contingency fund to meet emergency conditions, Integrated Systems Acquisition Project, the reserve fund for the Grasshopper and Mormon Cricket Control Programs, and buildings and facilities; Agricultural Stabilization and Conservation Service, salaries and expenses funds made available to county committees; the Federal Crop Insurance Corporation Fund; Agricultural Research Service, buildings and facilities; Cooperative State Research Service, buildings and facilities; Office of International Cooperation and Development, Middle-Income Country Training Program; Dairy Indemnity Program; higher education graduate fellowships grants under section 3152(b)(6) of this title; capacity building grants to colleges eligible to receive funds under the Act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including Tuskegee University; and buildings and facilities, Food and Drug Administration: <i>Provided</i>, That, on and after October 28, 1991, such appropriations are authorized to remain available until expended.
 
-(Pub. L. 109–97, title VII, §704, Nov. 10, 2005, 119 Stat. 2149.)
+(Pub. L. 102–142, title VII, §708, Oct. 28, 1991, 105 Stat. 911.)
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 109–97, Nov. 10, 2005, 119 Stat. 2120, known as the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2006. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 102–142, Oct. 28, 1991, 105 Stat. 878, known as the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
 
-#### Codification
+Public Law 480, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, known as the Agricultural Trade Development and Assistance Act of 1954, which is classified generally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
-Section is from the appropriation act cited as the credit to this section.
+Act of August 30, 1890, referred to in text, is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-#### Prior Provisions
+#### Similar Provisions
 
-Provisions similar to those in this section were contained in the following prior appropriation acts:
+Provisions similar to those in this section were contained in the following appropriation acts:
+
+Pub. L. 110–161, div. A, title VII, §702, Dec. 26, 2007, 121 Stat. 1874.
+
+Pub. L. 109–289, div. B, title II, §20113, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 15.
+
+Pub. L. 109–97, title VII, §704, Nov. 10, 2005, 119 Stat. 2149.
 
 Pub. L. 108–447, div. A, title VII, §704, Dec. 8, 2004, 118 Stat. 2838.
 
@@ -41,8 +47,6 @@ Pub. L. 103–330, title VII, §705, Sept. 30, 1994, 108 Stat. 2466.
 Pub. L. 103–111, title VII, §706, Oct. 21, 1993, 107 Stat. 1078.
 
 Pub. L. 102–341, title VII, §706, Aug. 14, 1992, 106 Stat. 907.
-
-Pub. L. 102–142, title VII, §708, Oct. 28, 1991, 105 Stat. 911.
 
 Pub. L. 101–506, title VI, §608, Nov. 5, 1990, 104 Stat. 1346.
 

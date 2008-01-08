@@ -78,7 +78,7 @@ A prior section 10325, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1347, provided 
 
 Section 10326, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1348, related to limitations in rulemaking proceedings related to rail carriers.
 
-Section 10327, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1348; Pub. L. 96–258, §1(2), June 3, 1980, 94 Stat. 425; Pub. L. 96–296, §25(e), July 1, 1980, 94 Stat. 818; Pub. L. 97–375, title I, §113, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 104–66, title II, §2101, Dec. 21, 1995, 109 Stat. 730, related toCommission action and appellate procedure in rail carrier proceedings.
+Section 10327, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1348; Pub. L. 96–258, §1(2), June 3, 1980, 94 Stat. 425; Pub. L. 96–296, §25(e), July 1, 1980, 94 Stat. 818; Pub. L. 97–375, title I, §113, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 104–66, title II, §2101, Dec. 21, 1995, 109 Stat. 730, related to Commission action and appellate procedure in rail carrier proceedings.
 
 Section 10328, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1350; Pub. L. 97–261, §28(b), Sept. 20, 1982, 96 Stat. 1128; Pub. L. 99–521, §5(a), Oct. 22, 1986, 100 Stat. 2994, related to intervention in Commission proceedings.
 

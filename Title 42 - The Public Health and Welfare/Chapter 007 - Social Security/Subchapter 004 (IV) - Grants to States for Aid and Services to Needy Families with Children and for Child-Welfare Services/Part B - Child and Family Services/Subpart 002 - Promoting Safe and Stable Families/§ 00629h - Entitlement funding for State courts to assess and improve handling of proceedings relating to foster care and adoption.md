@@ -64,7 +64,7 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 #### (B) Formula
 
-&emsp;&emsp;The amount described in this subparagraph for any fiscal year is the amount that bears the same ratio to the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title) for the fiscal year (reduced by the dollar amount specified in subparagraph (A) of this paragraph for the fiscal year) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) for such a grant.
+&emsp;&emsp;The amount described in this subparagraph for any fiscal year is the amount thatbears the same ratio to the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title) for the fiscal year (reduced by the dollar amount specified in subparagraph (A) of this paragraph for the fiscal year) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) for such a grant.
 
 #### (2) Grants for improved data collection and training
 
@@ -78,7 +78,7 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 #### (d) Federal share
 
-Each highest State court which receives funds paid under this section may use such funds topay not more than 75 percent of the cost of activities under this section in each of fiscal years 2002 through 2011.
+Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2002 through 2011.
 
 #### (e) Funding for grants for improved data collection and training
 
@@ -130,7 +130,7 @@ Subsec. (a)(1)(A). Pub. L. 107–133, §107(d)(1)(B), made technical amendment t
 
 Subsec. (a)(2). Pub. L. 107–133, §107(a)(1), added par. (2) and struck out former par. (2) which read as follows: “to implement changes deemed necessary as a result of the assessments.”
 
-Subsec. (c)(1). Pub. L. 107–133, §107(a)(2), (b), inserted “and improvement” after “assessment” and substituted “for each of fiscal years 2002 through 2006, from the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title), of an amount equal to the sum of $85,000 plus the amount described in paragraph (2) of this subsection for the fiscal year.” for “for each of fiscal years 1995 through 2001, from amounts reserved pursuant to section 629(d)(2) of this title, of an amount equal to the sum of—
+Subsec. (c)(1). Pub. L. 107–133, §107(a)(2), (b), inserted “and improvement” after “assessment” and substituted “for each of fiscal years 2002 through 2006, from the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant tosection 629g(b)(2) of this title), of an amount equal to the sum of $85,000 plus the amount described in paragraph (2) of this subsection for the fiscal year.” for “for each of fiscal years 1995 through 2001, from amounts reserved pursuant to section 629(d)(2) of this title, of an amount equal to the sum of—
 
 &emsp;“(A) for fiscal year 1995, $75,000 plus the amount described in paragraph (2) for fiscal year 1995; and
 

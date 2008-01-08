@@ -50,7 +50,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;&emsp;(I) older individuals residing in rural areas;
 
-&emsp;&emsp;&emsp;(II) older individuals with greatest economic need (with particular attention tolow-income minority individuals and older individuals residing in rural areas);
+&emsp;&emsp;&emsp;(II) older individuals with greatest economic need (with particular attention to low-income minority individuals and older individuals residing in rural areas);
 
 &emsp;&emsp;&emsp;(III) older individuals with greatest social need (with particular attention to low-income minority individuals and older individuals residing in rural areas);
 
@@ -160,7 +160,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;(C) demonstrate that a loss or diminution in the quantity or quality of the services provided, or to be provided, under this subchapter by such agency has not resulted and will not result from such contract or such relationship;
 
-&emsp;&emsp;(D) demonstrate that the quantity or quality of the services to be provided under thissubchapter by such agency will be enhanced as a result of such contract or such relationship; and
+&emsp;&emsp;(D) demonstrate that the quantity or quality of the services to be provided under this subchapter by such agency will be enhanced as a result of such contract or such relationship; and
 
 &emsp;&emsp;(E) on the request of the Assistant Secretary or the State, for the purpose of monitoring compliance with this chapter (including conducting an audit), disclose all sources and expenditures of funds such agency receives or expends to provide services to older individuals;
 
@@ -232,7 +232,7 @@ An area agency on aging may not require any provider of legal assistance under t
 
 (1) If the head of a State agency finds that an area agency on aging has failed to comply with Federal or State laws, including the area plan requirements of this section, regulations, or policies, the State may withhold a portion of the funds to the area agency on aging available under this subchapter.
 
-(2)(A) The head of a State agency shall not make a final determination withholding fundsunder paragraph (1) without first affording the area agency on aging due process in accordance with procedures established by the State agency.
+(2)(A) The head of a State agency shall not make a final determination withholding funds under paragraph (1) without first affording the area agency on aging due process in accordance with procedures established by the State agency.
 
 (B) At a minimum, such procedures shall include procedures for—
 
@@ -252,7 +252,7 @@ An area agency on aging may not require any provider of legal assistance under t
 
 The Economic Opportunity Act of 1964, referred to in subsec. (a)(6)(C)(ii)(I), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. Section 210 of the Act was classified to section 2790 of this title prior to repeal by Pub. L. 97–35. For complete classification of this Act to the Code, see Tables.
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XX of the Act are classified generally to subchapters XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. TitlesXIX and XX of the Act are classified generally to subchapters XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
@@ -376,7 +376,7 @@ Subsec. (a)(14). Pub. L. 106–501, §305(a)(13), added par. (14). Former par. (
 
 Subsec. (a)(15). Pub. L. 106–501, §305(a)(13), added par. (15) relating to assurances that preference in receiving services under this subchapter would not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship not being carried out to implement this subchapter.
 
-Subsec. (a)(17) to (20). Pub. L. 106–501, §305(a)(14), struck out pars. (17) to (20) which required each area plan to provide: in par. (17), assurances that projects in the planning and service area would reasonably accommodate particular dietary needs of participants, in par. (18), assurances that the area agency on aging would coordinate its services under this subchapter with services provided under subchapter X of this chapter, in par. (19), assurance that the area agency on aging would pursue activities to increase access by older individuals who are Native Americans to all aging programs and benefits provided by the agency, and, in par. (20), that case management services provided under this subchapter through the area agency on aging would be coordinated with and not duplicate other Federal and State programs and would be provided by a public agency or a nonprofit private agency either not providing services other than case management services or located in a rural area and having obtained a waiver of that requirement.
+Subsec. (a)(17) to (20). Pub. L. 106–501, §305(a)(14), struck out pars. (17) to (20) which required each area plan to provide: in par. (17), assurances that projects in the planning and service area would reasonably accommodate particular dietary needs of participants, in par. (18), assurances that the area agency on aging would coordinate its services under this subchapter with services provided under subchapter X of this chapter, in par. (19), assurance that the area agency on aging would pursue activities to increase access by older individuals who are Native Americans to all aging programs and benefits provided by the agency, and, in par. (20), that case management services provided under this subchapter through the area agency on aging would be coordinated with and not duplicate other Federal andState programs and would be provided by a public agency or a nonprofit private agency either not providing services other than case management services or located in a rural area and having obtained a waiver of that requirement.
 
 Subsec. (b). Pub. L. 106–501, §305(b), struck out par. (1) designation before “Each State”, inserted “and had conducted a timely public hearing upon request” before period at end, and struck out par. (2) which related to public notice and hearing requirements applicable to an area agency on aging before it could request a waiver of the requirement described in subsec. (a)(2) and requirements of a State agency with regard to granting the waiver to an area agency on aging.
 
@@ -460,7 +460,7 @@ Subsec. (e). Pub. L. 102–375, §306(g), added subsec. (e).
 
 1988—Subsec. (a)(1). Pub. L. 100–628 substituted “such area,” for “such area,,” before “and the number of older Indians”.
 
-1987—Subsec. (a). Pub. L. 100–175, §182(e)(3), struck out last sentence which read as follows: “For purposes of clause (5)(A), the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threaten his or her capacity to live independently.”
+1987—Subsec. (a). Pub. L. 100–175, §182(e)(3), struck out last sentence which read as follows: “For purposes of clause (5)(A), the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureauof the Census and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threaten his or her capacity to live independently.”
 
 Subsec. (a)(1). Pub. L. 100–175, §134(a)(2), inserted “, and the number of older Indians residing in such area,” before last reference to “and” in parenthetical.
 
@@ -540,7 +540,7 @@ Subsec. (b). Pub. L. 97–115, §6(c), struck out par. (1) providing that each S
 
 Amendment by section 306 of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
-Amendment by section 306 of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(2) of Pub. L. 102–375, set out as a note under section 3001 of this title.
+Amendment by section 306 of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section905(b)(2) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1987 Amendment
 

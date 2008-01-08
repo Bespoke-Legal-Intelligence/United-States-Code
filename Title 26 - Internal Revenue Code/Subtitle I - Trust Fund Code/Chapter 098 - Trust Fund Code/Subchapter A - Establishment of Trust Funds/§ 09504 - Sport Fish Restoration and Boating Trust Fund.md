@@ -218,7 +218,7 @@ Subsec. (b)(2). Pub. L. 101–508, §11211(i)(3), amended par. (2) generally. Pr
 
 Subsec. (b)(2). Pub. L. 100–448, §6(c)(3), substituted “(as in effect on October 1, 1988)” for “(as in effect on June 1, 1984)”.
 
-Subsec. (c). Pub. L. 100–448, §6(a)(2), substituted provisions authorizing expenditures before Apr. 1, 1994, to carry out the purposes of section 13106 of title 46 as in effect on Oct. 1, 1988, for provisions which had authorized expenditures before Apr. 1, 1989, to carry out the purposes of that section as in effect on June 1, 1984.
+Subsec. (c). Pub. L. 100–448, §6(a)(2), substituted provisions authorizing expenditures before Apr. 1, 1994, tocarry out the purposes of section 13106 of title 46 as in effect on Oct. 1, 1988, for provisions which had authorized expenditures before Apr. 1, 1989, to carry out the purposes of that section as in effect on June 1, 1984.
 
 #### Effective Date of 2005 Amendments
 

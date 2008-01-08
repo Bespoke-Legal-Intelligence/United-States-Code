@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (3) Sales which may give rise to suit under section 16(b) of the Securities Exchange Act of 1934
 
-&emsp;So long as the sale of property at a profit could subject a person to suit under section16(b) of the Securities Exchange Act of 1934, such person's rights in such property are—
+&emsp;So long as the sale of property at a profit could subject a person to suit under section 16(b) of the Securities Exchange Act of 1934, such person's rights in such property are—
 
 &emsp;&emsp;(A) subject to a substantial risk of forfeiture, and
 
@@ -84,7 +84,7 @@ This section shall not apply to—
 
 #### (f) Holding period
 
-In determining the period for which the taxpayer has held property to which subsection (a) applies, there shall be included only the period beginning at the first time his rights in such property are transferable or are not subject to a substantial risk of forfeiture, whichever occurs earlier.
+In determining the period for which the taxpayer has held property to which subsection (a) applies, there shall be included only the period beginning at the first time his rights in such property are transferable or are not subject to asubstantial risk of forfeiture, whichever occurs earlier.
 
 #### (g) Certain exchanges
 
@@ -162,7 +162,7 @@ Section 321(d) of Pub. L. 91–172 provided that: “The amendments made by subs
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -202,7 +202,7 @@ Deficiencies.—If the assessment of any deficiency of tax resulting from the ap
 
 #### Time for Making Certain Section 83(b) Elections
 
-Section 556 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1855(b), Oct. 22, 1986, 100 Stat.2095, 2882, provided that: “In the case of any transfer of property in connection with the performance of services on or before November 18, 1982, the election permitted by section 83(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] may be made, notwithstanding paragraph (2) of such section 83(b), with the income tax return for any taxable year ending after July 18, 1984, and beginning before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986 if—
+Section 556 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1855(b), Oct. 22, 1986, 100 Stat. 2095, 2882, provided that: “In the case of any transfer of property in connection with the performance of services on or before November 18, 1982, the election permitted by section 83(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] may be made, notwithstanding paragraph (2) of such section 83(b), with the income tax return for any taxable year ending after July 18, 1984, and beginning before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986 if—
 
 &emsp;“(1) the amount paid for such property was not less than its fair market value at the time of transfer (determined without regard to any restriction other than a restriction which by its terms will never lapse), and
 

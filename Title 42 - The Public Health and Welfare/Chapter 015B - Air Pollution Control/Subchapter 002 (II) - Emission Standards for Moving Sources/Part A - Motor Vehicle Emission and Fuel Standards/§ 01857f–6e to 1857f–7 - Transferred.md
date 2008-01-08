@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 1857f–6e, act July 14, 1955, ch. 360, title II, §212, as added Dec. 31, 1970, Pub. L. 91–604, §10(c), 84 Stat. 1700; amended Apr. 9, 1973, Pub. L. 93–15, §1(b), 87Stat. 11; June 22, 1974, Pub. L. 93–319, §13(b), 88 Stat. 265, which related to low emission vehicles, was transferred to section 7546 of this title.
+Section 1857f–6e, act July 14, 1955, ch. 360, title II, §212, as added Dec. 31, 1970, Pub. L. 91–604, §10(c), 84 Stat. 1700; amended Apr. 9, 1973, Pub. L. 93–15, §1(b), 87 Stat. 11; June 22, 1974, Pub. L. 93–319, §13(b), 88 Stat. 265, which related to low emission vehicles, was transferred to section 7546 of this title.
 
 Section 1857f–6f, act July 14, 1955, ch. 360, title II, §213, as added June 22, 1974, Pub. L. 93–319, §10, 88 Stat. 261; amended S. Res. 4, Feb. 4, 1977, which related to fuel economy for new vehicles, was transferred to section 7547 of this title.
 

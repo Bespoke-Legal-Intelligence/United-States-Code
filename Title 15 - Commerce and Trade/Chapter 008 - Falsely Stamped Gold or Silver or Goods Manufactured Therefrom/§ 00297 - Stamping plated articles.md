@@ -16,7 +16,7 @@ Whenever any person, firm, corporation, or association, being a manufacturer or 
 
 &emsp;(A) Apply or cause to be applied to that article a trademark of such persons, which has been duly registered or applied for registration under the laws of the United States within thirty days after an article bearing the trademark is placed in commerce or imported into the United States, or the name of such person; and
 
-&emsp;(B) if such article of merchandise is composed of two or more parts which are complete in themselves but which are not identical in quality, and any one of such parts bears such a quality mark or stamp, apply or cause to be applied to each other part of that article of merchandise a quality mark or stamp of like pattern and size disclosing the quality of that other part.
+&emsp;(B) if such article of merchandise is composed of two or more parts which are complete in themselves but which are not identical in quality, and any one of such parts bears such a quality mark or stamp, apply or cause to beapplied to each other part of that article of merchandise a quality mark or stamp of like pattern and size disclosing the quality of that other part.
 
 > Each identifying trademark or name applied to any article of merchandise in compliance with clause (A) of this subsection shall be applied to that article by the same means as that used in applying the quality mark or stamp appearing thereon, in type or lettering at least as large as that used in such quality mark or stamp, and in a position as close as possible to that quality mark or stamp. For the purposes of this subsection, the term “State” includes the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the District of Columbia.
 

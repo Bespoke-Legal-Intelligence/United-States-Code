@@ -14,7 +14,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 #### (c) Financial assistance
 
-(1)(A) The Secretary shall make grants to the State of Nevada and any affected unit of local government for the purpose of participating in activities required by this section and section 10137 of this title or authorized by written agreement entered into pursuant to section 10137(c) of this title. Any salary or travel expense that would ordinarily be incurred by such State or affected unit of local government, may not be considered eligible for funding under this paragraph.
+(1)(A) The Secretary shall make grants to the State of Nevada and any affected unit of localgovernment for the purpose of participating in activities required by this section and section 10137 of this title or authorized by written agreement entered into pursuant to section 10137(c) of this title. Any salary or travel expense that would ordinarily be incurred by such State or affected unit of local government, may not be considered eligible for funding under this paragraph.
 
 (B) The Secretary shall make grants to the State of Nevada and any affected unit of local government for purposes of enabling such State or affected unit of local government—
 
@@ -74,7 +74,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 #### (d) Additional notification and consultation
 
-Whenever the Secretary is required under any provision of this chapter to notify or consult with the governing body of an affected Indian tribe where a site is located, the Secretary shall also notify or consult with, as the case may be, the Governor of the State in which such reservation is located.
+Whenever the Secretary is required under any provision of this chapter to notify or consultwith the governing body of an affected Indian tribe where a site is located, the Secretary shall also notify or consult with, as the case may be, the Governor of the State in which such reservation is located.
 
 (Pub. L. 97–425, title I, §116, Jan. 7, 1983, 96 Stat. 2220; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5032(a), Dec. 22, 1987, 101 Stat. 1330–241.)
 

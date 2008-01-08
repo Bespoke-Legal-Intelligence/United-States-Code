@@ -1,0 +1,126 @@
+### §6694. Understatement of taxpayer's liability by tax return preparer
+
+#### (a) Understatement due to unreasonable positions
+
+#### (1) In general
+
+&emsp;Any tax return preparer who prepares any return or claim for refund with respect to which any part of an understatement of liability is due to a position described in paragraph (2) shall pay a penalty with respect to each such return or claim in an amount equal to the greater of—
+
+&emsp;&emsp;(A) $1,000, or
+
+&emsp;&emsp;(B) 50 percent of the income derived (or to be derived) by the tax return preparer with respect to the return or claim.
+
+#### (2) Unreasonable position
+
+&emsp;A position is described in this paragraph if—
+
+&emsp;&emsp;(A) the tax return preparer knew (or reasonably should have known) of the position,
+
+&emsp;&emsp;(B) there was not a reasonable belief that the position would more likely than not be sustained on its merits, and
+
+&emsp;&emsp;(C)(i) the position was not disclosed as provided in section 6662(d)(2)(B)(ii), or
+
+&emsp;&emsp;(ii) there was no reasonable basis for the position.
+
+#### (3) Reasonable cause exception
+
+&emsp;No penalty shall be imposed under this subsection if it is shown that there is reasonable cause for the understatement and the tax return preparer acted in good faith.
+
+#### (b) Understatement due to willful or reckless conduct
+
+#### (1) In general
+
+&emsp;Any tax return preparer who prepares any return or claim for refund with respect to which any part of an understatement of liability is due to a conduct described in paragraph (2) shall pay a penalty with respect to each such return or claim in an amount equal to the greater of—
+
+&emsp;&emsp;(A) $5,000, or
+
+&emsp;&emsp;(B) 50 percent of the income derived (or to be derived) by the tax return preparer with respect to the return or claim.
+
+#### (2) Willful or reckless conduct
+
+&emsp;Conduct described in this paragraph is conduct by the tax return preparer which is—
+
+&emsp;&emsp;(A) a willful attempt in any manner to understate the liability for tax on the return or claim, or
+
+&emsp;&emsp;(B) a reckless or intentional disregard of rules or regulations.
+
+#### (3) Reduction in penalty
+
+&emsp;The amount of any penalty payable by any person by reason of this subsection for any return or claim for refund shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).
+
+#### (c) Extension of period of collection where preparer pays 15 percent of penalty
+
+#### (1) In general
+
+&emsp;If, within 30 days after the day on which notice and demand of any penalty under subsection (a) or (b) is made against any person who is a tax return preparer, such person pays an amount which is not less than 15 percent of the amount of such penalty and files a claim for refund of the amount so paid, no levy or proceeding in court for the collection of the remainder of such penalty shall be made, begun, or prosecuted until the final resolution of a proceeding begun as provided in paragraph (2). Notwithstanding the provisions of section 7421(a), the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court. Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).
+
+#### (2) Preparer must bring suit in district court to determine his liability for penalty
+
+&emsp;If, within 30 days after the day on which his claim for refund of any partial payment of any penalty under subsection (a) or (b) is denied (or, if earlier, within 30 days after the expiration of 6 months after the day on which he filed the claim for refund), the tax return preparer fails to begin a proceeding in the appropriate United States district court for the determination of his liability for such penalty, paragraph (1) shall cease to apply with respect to such penalty, effective on the day following the close of the applicable 30-day period referred to in this paragraph.
+
+#### (3) Suspension of running of period of limitations on collection
+
+&emsp;The running of the period of limitations provided in section 6502 on the collection by levy or by a proceeding in court in respect of any penalty described in paragraph (1) shall be suspended for the period during which the Secretary is prohibited from collecting by levy or a proceeding in court.
+
+#### (d) Abatement of penalty where taxpayer's liability not understated
+
+If at any time there is a final administrative determination or a final judicial decision that there was no understatement of liability in the case of any return or claim for refund with respect to which a penalty under subsection (a) or (b) has been assessed, such assessment shall be abated, and if any portion of such penalty has been paid the amount so paid shall be refunded to the person who made such payment as an overpayment of tax without regard to any period of limitations which, but for this subsection, would apply to the making of such refund.
+
+#### (e) Understatement of liability defined
+
+For purposes of this section, the term “understatement of liability” means any understatement of the net amount payable with respect to any tax imposed by this title or any overstatement of the net amount creditable or refundable with respect to any such tax. Except as otherwise provided in subsection (d), the determination of whether or not there is an understatement of liability shall be made without regard to any administrative or judicial action involving the taxpayer.
+
+#### (f) Cross reference
+
+&emsp;&emsp;<b>For definition of tax return preparer, see section 7701(a)(36).</b>
+
+(Added Pub. L. 94–455, title XII, §1203(b)(1), Oct. 4, 1976, 90 Stat. 1689; amended Pub. L. 101–239, title VII, §§7732(a), 7737(a), Dec. 19, 1989, 103 Stat. 2402, 2404; Pub. L. 110–28, title VIII, §8246(a)(2)(F)(i), (b), May 25, 2007, 121 Stat. 201, 203.)
+
+#### Codification
+
+Another section 6694, relating to failure to file information with respect to carryover basis property, which was added by Pub. L. 94–455, §2005(d)(2), was renumbered section 6698 by Pub. L. 95–600, renumbered section 6698A by Pub. L. 96–222, and repealed by Pub. L. 96–223.
+
+#### Amendments
+
+2007—Pub. L. 110–28, §8246(a)(2)(F)(i)(I), substituted “tax return preparer” for “income tax return preparer” in section catchline.
+
+Subsec. (a). Pub. L. 110–28, §8246(b), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If—
+
+&emsp;“(1) any part of any understatement of liability with respect to any return or claim for refund is due to a position for which there was not a realistic possibility of being sustained on its merits,
+
+&emsp;“(2) any person who is an income tax return preparer with respect to such return or claim knew (or reasonably should have known) of such position, and
+
+&emsp;“(3) such position was not disclosed as provided in section 6662(d)(2)(B)(ii) or was frivolous,
+
+> such person shall pay a penalty of $250 with respect to such return or claim unless it is shown that there is reasonable cause for the understatement and such person acted in good faith.”
+
+Subsec. (b). Pub. L. 110–28, §8246(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due—
+
+&emsp;“(1) to a willful attempt in any manner to understate the liability for tax by a person who is an income tax return preparer with respect to such return or claim, or
+
+&emsp;“(2) to any reckless or intentional disregard of rules or regulations by any such person,
+
+> such person shall pay a penalty of $1,000 with respect to such return or claim. With respect to any return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).”
+
+Subsec. (c)(1). Pub. L. 110–28, §8246(a)(2)(F)(i)(II), substituted “a tax return preparer” for “an income tax return preparer”.
+
+Subsec. (c)(2). Pub. L. 110–28, §8246(a)(2)(F)(i)(III), substituted “the tax return preparer” for “the income tax return preparer”.
+
+Subsec. (e). Pub. L. 110–28, §8246(a)(2)(F)(i)(IV), substituted “this title” for “subtitle A”.
+
+Subsec. (f). Pub. L. 110–28, §8246(a)(2)(F)(i)(V), substituted “tax return preparer” for “income tax return preparer”.
+
+1989—Subsec. (a). Pub. L. 101–239, §7732(a), substituted “Understatements due to unrealistic positions” for “Negligent or intentional disregard of rules and regulations” in heading and amended text generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due to the negligent or intentional disregard of rules and regulations by any person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $100 with respect to such return or claim.”
+
+Subsec. (b). Pub. L. 101–239, §7732(a), substituted “Willful or reckless conduct” for “Willful understatement of liability” in heading and amended text generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due to a willful attempt in any manner to understate the liability for a tax by a person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $500 with respect to such return or claim. With respect to any return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).”
+
+Subsec. (c)(1). Pub. L. 101–239, §7737(a), inserted at end “Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).”
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub. L. 110–28, set out as a note under section 6060 of this title.
+
+#### Effective Date of 1989 Amendment
+
+Section 7732(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to documents prepared after December 31, 1989.”
+

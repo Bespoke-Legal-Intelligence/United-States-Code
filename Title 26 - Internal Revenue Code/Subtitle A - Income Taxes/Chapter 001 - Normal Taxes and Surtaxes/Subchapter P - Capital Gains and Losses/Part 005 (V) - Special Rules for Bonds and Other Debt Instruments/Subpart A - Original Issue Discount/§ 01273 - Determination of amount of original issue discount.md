@@ -76,7 +76,7 @@ For purposes of subsection (b)—
 
 #### (1) Initial offering price; price paid by the first buyer
 
-&emsp;The terms “initial offering price” and “price paid by the first buyer” include the aggregatepayments made by the purchaser under the purchase agreement, including modifications thereof.
+&emsp;The terms “initial offering price” and “price paid by the first buyer” include the aggregate payments made by the purchaser under the purchase agreement, including modifications thereof.
 
 #### (2) Treatment of investment units
 

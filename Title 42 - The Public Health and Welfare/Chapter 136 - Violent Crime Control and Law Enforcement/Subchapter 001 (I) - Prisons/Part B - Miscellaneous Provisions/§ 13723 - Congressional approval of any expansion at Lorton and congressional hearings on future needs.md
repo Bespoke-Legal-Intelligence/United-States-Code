@@ -24,5 +24,5 @@ Section 446 of the District of Columbia Home Rule Act, referred to in subsec. (a
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as anote under section 4246 of Title 18, Crimes and Criminal Procedure.
 

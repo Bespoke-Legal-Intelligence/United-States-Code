@@ -28,7 +28,7 @@ The Secretary may award grants, cooperative agreements and contracts and provide
 
 #### (c) Dissemination of criteria
 
-In carrying out this section, the Secretary shall develop a procedure for disseminating the Fetal Alcohol Syndrome and Fetal Alcohol Effect diagnostic criteria developed pursuant to section 705 of the ADAMHA Reorganization Act to health care providers, educators, social workers, child welfare workers, and other individuals.
+In carrying out this section, the Secretary shall develop a procedure for disseminating theFetal Alcohol Syndrome and Fetal Alcohol Effect diagnostic criteria developed pursuant to section 705 of the ADAMHA Reorganization Act to health care providers, educators, social workers, child welfare workers, and other individuals.
 
 #### (d) National Task Force
 
@@ -50,7 +50,7 @@ In carrying out this section, the Secretary shall develop a procedure for dissem
 
 &emsp;&emsp;(A) advise Federal, State and local programs and research concerning Fetal Alcohol Syndrome and Fetal Alcohol Effect, including programs and research concerning education and public awareness for relevant service providers, school-age children, women at-risk, and the general public, medical diagnosis, interventions for women at-risk of giving birth to children with Fetal Alcohol Syndrome and Fetal Alcohol Effect, and beneficial services for individuals with Fetal Alcohol Syndrome and Fetal Alcohol Effect and their families;
 
-&emsp;&emsp;(B) coordinate its efforts with the Interagency Coordinating Committee on FetalAlcohol Syndrome of the Department of Health and Human Services; and
+&emsp;&emsp;(B) coordinate its efforts with the Interagency Coordinating Committee on Fetal Alcohol Syndrome of the Department of Health and Human Services; and
 
 &emsp;&emsp;(C) report on a biennial basis to the Secretary and relevant committees of Congress on the current and planned activities of the participating agencies.
 
@@ -100,7 +100,7 @@ Findings.—Congress finds that—
 
 &emsp;“(9) researchers have determined that the possibility of giving birth to a baby with Fetal Alcohol Syndrome or Fetal Alcohol Effect increases in proportion to the amount and frequency of alcohol consumed by a pregnant woman, and that stopping alcohol consumption at any point in the pregnancy reduces the emotional, physical, and mental consequences of alcohol exposure to the baby; and
 
-&emsp;“(10) though approximately 1 out of every 5 pregnant women drink alcohol during their pregnancy, we know of no safe dose of alcohol during pregnancy, or of any safe time to drink during pregnancy, thus, it is in the best interest of the Nation for the Federal Government to take an active role in encouraging all women to abstain from alcohol consumption during pregnancy.
+&emsp;“(10) though approximately 1 out of every 5 pregnant women drink alcohol during their pregnancy, we know of no safe dose of alcohol during pregnancy, or of any safe time to drink during pregnancy, thus, it is in the best interest of the Nation for the FederalGovernment to take an active role in encouraging all women to abstain from alcohol consumption during pregnancy.
 
 “(c)
 

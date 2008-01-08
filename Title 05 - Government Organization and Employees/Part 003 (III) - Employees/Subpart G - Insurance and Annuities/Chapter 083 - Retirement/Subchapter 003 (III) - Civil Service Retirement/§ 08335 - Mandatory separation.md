@@ -1,20 +1,20 @@
 ### §8335. Mandatory separation
 
-(a) An air traffic controller shall be separated from the service on the last day of the month in which he becomes 56 years of age or completes the age and service requirements for an annuity under section 8336(e), whichever occurs later. The Secretary, under such regulations as he may prescribe, may exempt a controller having exceptional skills and experience as a controller from the automatic separation provisions of this subsection until that controller becomes 61 years of age. The Secretary shall notify the controller in writing of the date of separation at least 60 days before that date. Action to separate the controller is not effective, without the consent of the controller, until the last day of the month in which the 60-day notice expires. For purposes of this subsection, the term “air traffic controller” or “controller” has the meaning given to it under section 8331(29)(A).
+(a) An air traffic controller shall be separated from the service on the last day of the month in which he becomes 56 years of age or completes the age and service requirements for an annuity under section 8336(e), whichever occurs later. The Secretary, under such regulations as he may prescribe, may exempt a controller having exceptional skills and experience as a controller from the automatic separation provisions of this subsection until that controller becomes 61 years of age. The Secretary shall notify the controller in writing of the date of separation at least 60 days before that date. Action to separate the controller is not effective, without the consent of the controller, until the last day of the month in which the 60-day notice expires. For purposes of this subsection, the term “air traffic controller” or “controller” has the meaning given to it under section 8331(29)(A).<sup>1</sup>
 
-(b)(1) A law enforcement officer, firefighter, or nuclear materials courier who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which that officer, firefighter, or courier, as the case may be, becomes 57 years of age or completes 20 years of service if then over that age. The head of the agency, when in his judgment the public interest so requires, may exempt such an employee from automatic separation under this subsection until that employee becomes 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days in advance thereof. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
+(b)(1) A law enforcement officer, firefighter, nuclear materials courier, or customs and border protection officer who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which that officer, firefighter, or courier, as the case may be, becomes 57 years of age or completes 20 years of service if then over that age. The head of the agency, when in his judgment the public interest so requires, may exempt such an employee from automatic separation under this subsection until that employee becomes 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days in advance thereof. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
 
-(2) <sup>1</sup> In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting “65 years of age” for “60 years of age”. The authority to grant exemptions in accordance withthe preceding sentence shall cease to be available after December 31, 2009.
+(2) <sup>2</sup> In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting “65 years of age” for “60 years of age”. The authority to grant exemptions in accordance with the preceding sentence shall cease to be available after December 31, 2009.
 
-(2) <sup>1</sup> In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting “65 years of age” for “60 years of age”. The Federal Bureau of Investigation may not grant more than 50 exemptions in any fiscal year in accordance with the preceding sentence, and the authority to grant such exemptions shall cease to be available after September 30, 2007.
+(2) <sup>2</sup> In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting “65 years of age” for “60 years of age”. The Federal Bureau of Investigation may not grant more than 50 exemptions in any fiscal year in accordance with the preceding sentence, and the authority to grant such exemptions shall cease to be available after September 30, 2007.
 
 (c) A member of the Capitol Police who is otherwise eligible for immediate retirement under section 8336(m) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Capitol Police Board, when in its judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Board shall notify the member in writing of the date of separation at least 60 days in advance thereof. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
 
 (d) A member of the Supreme Court Police who is otherwise eligible for immediate retirement under section 8336(n) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Marshal of the Supreme Court of the United States, when in his judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Marshal shall notify the member in writing of the date of separation at least 60 days in advance thereof. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
 
-(f) <sup>2</sup> The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or the Supreme Court Police) from automatic separation under this section when he determines the public interest so requires.
+(f) <sup>3</sup> The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or the Supreme Court Police) from automatic separation under this section when he determines the public interest so requires.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 92–297, §4, May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §4, July 12, 1974, 88 Stat. 356; Pub. L. 95–256, §5(c), Apr. 6, 1978, 92 Stat. 191; Pub. L. 96–70, title III, §3302(e)(3), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 101–428, §2(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–509, title V, §529 \[title IV, §409(a)\], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, §2(60), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, §307(a), July 22, 1994, 108 Stat. 1441; Pub. L. 105–261, div. C, title XXXI, §3154(d), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §141(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–27, §2(a), Aug. 20, 2001, 115 Stat. 207; Pub. L. 107–67, title VI, §640(a), Nov. 12, 2001, 115 Stat. 554; Pub. L. 108–7, div. J, title VI, §648(a), Feb. 20, 2003, 117 Stat. 474; Pub. L. 108–176, title II, §226(a)(3)(A), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 108–447, div. B, title I, §112(a), Dec. 8, 2004, 118 Stat. 2868; Pub. L. 108–458, title II, §2005(a), Dec. 17, 2004, 118 Stat. 3704.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 92–297, §4, May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §4, July 12, 1974, 88 Stat. 356; Pub. L. 95–256, §5(c), Apr. 6, 1978, 92 Stat. 191; Pub. L. 96–70, title III, §3302(e)(3), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 101–428, §2(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–509, title V, §529 \[title IV, §409(a)\], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, §2(60), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, §307(a), July 22, 1994, 108 Stat. 1441; Pub. L. 105–261, div. C, title XXXI, §3154(d), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §141(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–27, §2(a), Aug. 20, 2001, 115 Stat. 207; Pub. L. 107–67, title VI, §640(a), Nov. 12, 2001, 115 Stat. 554; Pub. L. 108–7, div. J, title VI, §648(a), Feb. 20, 2003, 117 Stat. 474; Pub. L. 108–176, title II, §226(a)(3)(A), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 108–447, div. B, title I, §112(a), Dec. 8, 2004, 118 Stat. 2868; Pub. L. 108–458, title II, §2005(a), Dec. 17, 2004, 118 Stat. 3704; Pub. L. 110–161, div. E, title V, §535(a)(3), Dec. 26, 2007, 121 Stat. 2075.)
 
 Historical and Revision Notes
 
@@ -38,7 +38,11 @@ Standard changes are made to conform with the definitions applicable and style o
 
 For definition of Secretary, referred to in subsec. (a), see section 2109 of this title.
 
+Section 8331(29)(A), referred to in subsec. (a), was redesignated as section 8331(30)(A) by Pub. L. 110–161, div. E, title V, §535(a)(1)(A), Dec. 26, 2007, 121 Stat. 2075.
+
 #### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 110–161 substituted “nuclear materials courier, or customs and border protection officer” for “or nuclear materials courier” in first sentence.
 
 2004—Subsec. (b). Pub. L. 108–447, §112(a)(1), and Pub. L. 108–458, §2005(a)(1), amended subsec. (b) identically, designating existing provisions as par. (1).
 
@@ -100,6 +104,10 @@ Subsecs. (f), (g). Pub. L. 95–256, §5(c)(2), redesignated subsecs. (f) and (g
 
 1972—Subsec. (f). Pub. L. 92–297 added subsec. (f).
 
+#### Effective Date of 2007 Amendment; Transition Rules
+
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
+
 #### Effective Date of 2003 Amendments
 
 Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
@@ -150,7 +158,7 @@ Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see sect
 
 #### Exemption Process To Delay Mandatory Retirement for Air Traffic Controllers
 
-Pub. L. 108–199, div. F, title I, Jan. 23, 2004, 118 Stat. 282, provided in part: “That not later than March 1,2004, the Secretary of Transportation, in consultation with the Administrator of the Federal Aviation Administration, shall issue final regulations, pursuant to 5 U.S.C. 8335, establishing an exemption process allowing individual air traffic controllers to delay mandatory retirement until the employee reaches no later than 61 years of age”.
+Pub. L. 108–199, div. F, title I, Jan. 23, 2004, 118 Stat. 282, provided in part: “That not later than March 1, 2004, the Secretary of Transportation, in consultation with the Administrator of the Federal Aviation Administration, shall issue final regulations, pursuant to 5 U.S.C. 8335, establishing an exemption process allowing individual air traffic controllers to delay mandatory retirement until the employee reaches no later than 61 years of age”.
 
 #### Nonapplicability of Subsection (a) to Air Traffic Controllers Appointed Before January 1, 1987
 
@@ -176,7 +184,9 @@ Section 2 of Pub. L. 96–347 provided that: “Section 8335(a) of title 5, Unit
 
 Section 8 of Pub. L. 92–297 provided that: “Section 8335(f) of title 5, United States Code, as added by this Act, does not apply to a person appointed as an air traffic controller by the Department of Transportation before the date of enactment of this Act \[May 16, 1972\].”
 
-<i><sup>1</sup></i><i> So in original. Two pars. (2) have been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(e)”.</i>
+<i><sup>2</sup></i><i> So in original. Two pars. (2) have been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “(e)”.</i>
 

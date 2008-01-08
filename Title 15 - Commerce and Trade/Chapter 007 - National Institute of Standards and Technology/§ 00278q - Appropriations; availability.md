@@ -8,11 +8,11 @@ Appropriations to carry out the provisions of this chapter may remain available 
 
 Section was formerly classified to section 278h of this title prior to renumbering by Pub. L. 107–305.
 
-Another section 32 of act Mar. 3, 1901, ch. 872, is set out as a Short Title note under section 271 of this title.
+Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 34 and is set out as a Short Title note under section 271 of this title.
 
 #### Amendments
 
-1980—Pub. L. 96–461 substituted “Appropriations” for “(a) Appropriations” and struck out subsec. (b) whichauthorized appropriations to carry out provisions of this chapter, including the Working Capital Fund referred to in section 278b(a) of this title, but excluding section 278f of this title, of such sums as may be necessary for each of the fiscal years 1979 and 1980.
+1980—Pub. L. 96–461 substituted “Appropriations” for “(a) Appropriations” and struck out subsec. (b) which authorized appropriations to carry out provisions of this chapter, including the Working Capital Fund referred to in section 278b(a) of this title, but excluding section 278f of this title, of such sums as may be necessary for each of the fiscal years 1979 and 1980.
 
 1978—Pub. L. 95–322 designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -28,7 +28,7 @@
 
 (f) The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
 
-(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, §6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336, §3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, §1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §312, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, §4, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 107–273, div. C, title I, §11020(b)(3), Nov. 2, 2002, 116 Stat. 1827.)
+(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, §6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336,§3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, §1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §312, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, §4, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 107–273, div. C, title I, §11020(b)(3), Nov. 2, 2002, 116 Stat. 1827.)
 
 #### Historical and Revision Notes
 

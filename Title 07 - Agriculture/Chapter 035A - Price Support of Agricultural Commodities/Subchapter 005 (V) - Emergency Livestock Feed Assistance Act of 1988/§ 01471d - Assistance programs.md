@@ -64,7 +64,7 @@ This Act, referred to in subsecs. (a)(2)(A) and (b)(2), is act Oct. 31, 1949, ch
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–82, §201, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a) of this section, the Secretary may provide for the furnishing of the feed grain through a dealer or manufacturer and the replacing of the feed grain so furnished from feed grain owned by the Commodity Credit Corporation.”
+1989—Subsec. (b). Pub. L. 101–82, §201, amended subsec. (b) generally. Prior to amendment, subsec. (b) readas follows: “If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a) of this section, the Secretary may provide for the furnishing of the feed grain through a dealer or manufacturer and the replacing of the feed grain so furnished from feed grain owned by the Commodity Credit Corporation.”
 
 Subsec. (f). Pub. L. 101–82, §202, added subsec. (f).
 

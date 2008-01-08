@@ -16,7 +16,7 @@ In determining, for the purposes of this chapter, the price for which an article
 
 &emsp;&emsp;(C) sold (otherwise than through an arm's length transaction) at less than the fair market price,
 
-> &emsp;the tax under this chapter shall (if based on the price for which the article is sold) be computed on the price for which such articles aresold, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. In the case of an article sold at retail, the computation under the preceding sentence shall be on whichever of the following prices is the lower: (i) the price for which such article is sold, or (ii) the highest price for which such articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. This paragraph shall not apply if paragraph (2) applies.
+> &emsp;the tax under this chapter shall (if based on the price for which the article is sold) be computed on the price for which such articles are sold, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. In the case of an article sold at retail, the computation under the preceding sentence shall be on whichever of the following prices is the lower: (i) the price for which such article is sold, or (ii) the highest price for which such articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. This paragraph shall not apply if paragraph (2) applies.
 
 #### (2) Special rule
 
@@ -96,7 +96,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;&emsp;(C) is intended to be refunded to the purchaser or any subsequent vendee in reimbursement of costs incurred for local advertising.
 
-> &emsp;In the case of any such charge (or portion thereof) which is not so refunded before the first day of the fifth calendar month following the calendar year during which the article was sold, the exclusion provided by the preceding sentence shall cease to apply as of such first day.
+> &emsp;In the case of any such charge (or portion thereof) which is not so refunded before the first day of the fifth calendar month following the calendar year during which the article was sold, the exclusion provided by the precedingsentence shall cease to apply as of such first day.
 
 #### (2) Aggregate amount which may be excluded
 
@@ -136,7 +136,7 @@ Subsec. (b)(5), (6). Pub. L. 98–369, §735(c)(6)(C), (E), redesignated par. (6
 
 Subsec. (f). Pub. L. 98–369, §735(c)(6)(F), struck out subsec. (f) which related to certain trucks incorporating used components.
 
-1978—Subsec. (b)(1). Pub. L. 95–458 substituted “article sold at retail (other than an article the sale ofwhich is taxable under section 4061(a)), the computation” for “article sold at retail, the computation” and inserted provision requiring the computation of tax on articles taxable under section 4061(a) which are sold at retail to be a percentage, but not greater than 100% of the actual selling price based on the highest price for which the articles are sold by manufacturers and producers in the ordinary course of trade, determined without regard to individual manufacturer's or producer's cost.
+1978—Subsec. (b)(1). Pub. L. 95–458 substituted “article sold at retail (other than an article the sale of which is taxable under section 4061(a)), the computation” for “article sold at retail, the computation” and inserted provision requiring the computation of tax on articles taxable under section 4061(a) which are sold at retail to be a percentage, but not greater than 100% of the actual selling price based on the highest price for which the articles are sold by manufacturers and producers in the ordinary course of trade, determined without regard to individual manufacturer's or producer's cost.
 
 1976—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -162,7 +162,7 @@ Subsec. (b)(3). Pub. L. 89–44, §208(b), struck out par. (3) which related to 
 
 Subsec. (c). Pub. L. 89–44, §207(a), struck out “that portion of the total tax which is proportionate to the portion of the total amount to be paid represented by such payment” in text following par. (4) and inserted in lieu thereof “a percentage of such payment equal to the rate of tax in effect on the date such payment is due”.
 
-Subsec. (e)(1). Pub. L. 89–44, §207(b)(1), substituted “total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)) for “total tax”.
+Subsec. (e)(1). Pub. L. 89–44, §207(b)(1), substituted “total tax which would be payable if such installmentaccounts had not been sold or otherwise disposed of (computed as provided in subsection (c)) for “total tax”.
 
 Subsec. (e)(2). Pub. L. 89–44, §207(b)(2), substituted, as factor (A) in the formula for computing the maximum amount, the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment for the amount for which such accounts are sold, and, as factor (B) in the formula, the rate of tax on the date that such unpaid installment payment is or was due for the rate of tax which applied on the day on which the transaction giving rise to such installment accounts took place.
 
@@ -214,7 +214,7 @@ Section 932(b) of Pub. L. 91–172 provided that: “The amendment made by subse
 
 Amendment by section 207(a), (b) of Pub. L. 89–44 effective June 22, 1965, and amendment by section 208 of Pub. L. 89–44 applicable with respect to articles sold on or after June 22, 1965, except insofar as such amendments related to the taxes imposed by sections 4061(b), 4091, or 4131 and, as to such taxes, applicable with respect to articles sold on or after January 1, 1966, see section 701(a) of Pub. L. 89–44, set out as a note under section 4161 of this title.
 
-Section 801(e) of Pub. L. 89–44 provided that: “The amendments made by subsections (a), (b), and (d) \[amending this section and sections 4063, 4221, and 6416 of this title\] shall apply with respect to articles sold on or after the day after the date of the enactment of thisAct \[June 21, 1965\]. The amendment made by subsection (c) \[amending section 4221 of this title\] shall apply with respect to articles sold on or after January 1, 1965.”
+Section 801(e) of Pub. L. 89–44 provided that: “The amendments made by subsections (a), (b), and (d) \[amending this section and sections 4063, 4221, and 6416 of this title\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\]. The amendment made by subsection (c) \[amending section 4221 of this title\] shall apply with respect to articles sold on or after January 1, 1965.”
 
 #### Effective Date of 1962 Amendments
 

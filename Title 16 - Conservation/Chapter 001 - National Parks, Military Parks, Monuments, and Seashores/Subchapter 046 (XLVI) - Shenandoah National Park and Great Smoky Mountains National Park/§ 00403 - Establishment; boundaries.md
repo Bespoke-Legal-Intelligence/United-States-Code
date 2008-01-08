@@ -1,6 +1,6 @@
 ### §403. Establishment; boundaries
 
-When title to lands within the areas hereinafter referred to shall have been vested in the United States in fee simple there are established, dedicated, and set apart as public parks for the benefit and enjoyment of the people, the tract of land in the Blue Ridge, in the State of Virginia, being approximately five hundred and twenty-one thousand acres recommended by the Secretary of the Interior in his report of April 14, 1926, which area, or any part or parts thereof as may be accepted on behalf of the United States in accordance with the provisions hereof, shall be known as the Shenandoah National Park; and the tract of land in the Great Smoky Mountains in the States of North Carolina and Tennessee being approximately seven hundred and four thousand acres, recommended by the Secretary of the Interior in his report of April 14, 1926, which area, or any part or parts thereof as may be accepted on behalf of the United States in accordance with the provisions hereof, shall be known as the Great Smoky Mountains National Park: <i>Provided</i>, That the United States shall not purchase by appropriation of public moneys any land within the aforesaid areas, but that such lands shall be secured by the United States only by public or private donation.
+When title to lands within the areas hereinafter referred to shall have been vested in the United States in fee simple there are established, dedicated, and set apart as public parksfor the benefit and enjoyment of the people, the tract of land in the Blue Ridge, in the State of Virginia, being approximately five hundred and twenty-one thousand acres recommended by the Secretary of the Interior in his report of April 14, 1926, which area, or any part or parts thereof as may be accepted on behalf of the United States in accordance with the provisions hereof, shall be known as the Shenandoah National Park; and the tract of land in the Great Smoky Mountains in the States of North Carolina and Tennessee being approximately seven hundred and four thousand acres, recommended by the Secretary of the Interior in his report of April 14, 1926, which area, or any part or parts thereof as may be accepted on behalf of the United States in accordance with the provisions hereof, shall be known as the Great Smoky Mountains National Park: <i>Provided</i>, That the United States shall not purchase by appropriation of public moneys any land within the aforesaid areas, but that such lands shall be secured by the United States only by public or private donation.
 
 (May 22, 1926, ch. 363, §1, 44 Stat. 616.)
 
@@ -26,7 +26,7 @@ Pub. L. 102–393, title V, §533, Oct. 6, 1992, 106 Stat. 1763, provided that:
 
 “(a)
 
-In General.—Subject to subsection (b), the Secretary of the Interior may transfer certain land locatedin the Shenandoah National Park and described in subsection (c) to the Secretary of the Treasury for use by the Secretary of the Treasury as a United States Customs Service Canine Enforcement Training Center.
+In General.—Subject to subsection (b), the Secretary of the Interior may transfer certain land located in the Shenandoah National Park and described in subsection (c) to the Secretary of the Treasury for use by the Secretary of the Treasury as a United States Customs Service Canine Enforcement Training Center.
 
 “(b)
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) was not filed or given; or
 
-&emsp;&emsp;&emsp;(ii) was filed or given after the date on which such return, report, or notice was last due, under applicable law or under any extension, and after two years before the date of the filing of the petition; or
+&emsp;&emsp;&emsp;(ii) was filed or given after the date on which such return, report, or notice waslast due, under applicable law or under any extension, and after two years before the date of the filing of the petition; or
 
 &emsp;&emsp;(C) with respect to which the debtor made a fraudulent return or willfully attempted in any manner to evade or defeat such tax;
 
@@ -82,7 +82,7 @@
 
 &emsp;(14B) incurred to pay fines or penalties imposed under Federal election law;
 
-&emsp;(15) to a spouse, former spouse, or child of the debtor and not of the kind described in paragraph (5) that is incurred by the debtor in the course of a divorce or separation or in connection with a separation agreement, divorce decree or other order of a court of record, or a determination made in accordance with State or territorial law by a governmental unit;
+&emsp;(15) to a spouse, former spouse, or child of the debtor and not of the kind described inparagraph (5) that is incurred by the debtor in the course of a divorce or separation or in connection with a separation agreement, divorce decree or other order of a court of record, or a determination made in accordance with State or territorial law by a governmental unit;
 
 &emsp;(16) for a fee or assessment that becomes due and payable after the order for relief to a membership association with respect to the debtor's interest in a unit that has condominium ownership, in a share of a cooperative corporation, or a lot in a homeowners association, for as long as the debtor or the trustee has a legal, equitable, or possessory ownership interest in such unit, such corporation, or such lot, but nothing in this paragraph shall except from discharge the debt of a debtor for a membership association fee or assessment for a period arising before entry of the order for relief in a pending or subsequent bankruptcy case;
 
@@ -124,7 +124,7 @@
 
 (e) Any institution-affiliated party of an insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e),\(h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35,title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801; Pub. L. 109–8, title II, §§215, 220, 224(c), title III, §§301, 310, 314(a), title IV, §412, title VII, §714, title XII, §§1209, 1235, title XIV, §1404(a), title XV, §1502(a)(2), Apr. 20, 2005, 119 Stat. 54, 59, 64, 75, 84, 88, 107, 128, 194, 204, 215, 216.)
 
 #### Historical and Revision Notes
 
@@ -156,7 +156,7 @@ Nondischargeable debts: The House amendment retains the basic categories of nond
 
 In the case of individuals in liquidation under chapter 7 or in reorganization under chapter 11 of title 11, section 1141(d)(2) incorporates by reference the exceptions to discharge continued in section 523. Different rules concerning the discharge of taxes where a partnership or corporation reorganizes under chapter 11, apply under section 1141.
 
-The House amendment also deletes the reduction rule contained in section 523(e) of the Senate amendment. Under that rule, the amount of an otherwise nondischargeable tax liability would be reduced by the amount which a governmental tax authority could have collected from the debtor's estate if it had filed a timely claim against the estate but which it did not collect because no such claim was filed. This provision is deleted in order not to effectively compel a tax authority to file claim against the estate in “no asset” cases, along with a dischargeability petition. In no-asset cases, therefore, if the tax authority is not potentially penalized by failing to file a claim, the debtor in such cases will have a better opportunity to choose theprepayment forum, bankruptcy court or the Tax Court, in which to litigate his personal liability for a nondischargeable tax.
+The House amendment also deletes the reduction rule contained in section 523(e) of the Senate amendment.Under that rule, the amount of an otherwise nondischargeable tax liability would be reduced by the amount which a governmental tax authority could have collected from the debtor's estate if it had filed a timely claim against the estate but which it did not collect because no such claim was filed. This provision is deleted in order not to effectively compel a tax authority to file claim against the estate in “no asset” cases, along with a dischargeability petition. In no-asset cases, therefore, if the tax authority is not potentially penalized by failing to file a claim, the debtor in such cases will have a better opportunity to choose the prepayment forum, bankruptcy court or the Tax Court, in which to litigate his personal liability for a nondischargeable tax.
 
 The House amendment also adopts the Senate amendment provision limiting the nondischargeability of punitive tax penalties, that is, penalties other than those which represent collection of a principal amount of tax liability through the form of a “penalty.” Under the House amendment, tax penalties which are basically punitive in nature are to be nondischargeable only if the penalty is computed by reference to a related tax liability which is nondischargeable or, if the amount of the penalty is not computed by reference to a tax liability, the transaction or event giving rise to the penalty occurred during the 3-year period ending on the date of the petition.
 
@@ -216,7 +216,7 @@ Paragraph (7) excepts from discharge a debt for a fine, penalty, or forfeiture p
 
 Paragraph (8) \[enacted as (9)\] excepts from discharge debts that the debtor owed before a previous bankruptcy case concerning the debtor in which the debtor was denied a discharge other than on the basis of the six-year bar.
 
-Subsection (d) is new. It provides protection to a consumer debtor that dealt honestly with a creditor who sought to have a debt excepted from discharge on grounds of falsity in the incurring of the debt. The debtor is entitled to costs of and a reasonable attorney's fee for the proceeding to determine the dischargeability of a debt under subsection (a)(2), if the creditor initiated the proceeding and the debt was determined to be dischargeable. The court is permitted to award any actual pecuniary loss that the debtor may have suffered as a result of the proceeding (such as loss of a day's pay). The purpose of the provision is to discourage creditors from initiating false financial statement exception to discharge actions in the hopes of obtaining a settlement from an honest debtor anxious to save attorney's fees. Such practices impair the debtor's fresh start.
+Subsection (d) is new. It provides protection to a consumer debtor that dealt honestly with a creditor who sought to have a debt excepted from discharge on grounds of falsity in the incurring of the debt. The debtor is entitled to costs of and a reasonable attorney's fee for the proceeding to determine the dischargeability of a debt under subsection (a)(2), if the creditor initiated the proceeding and the debt was determined to be dischargeable. The court is permitted to award any actual pecuniary loss that the debtor may have suffered as a result of the proceeding (such as loss of a day's pay). The purpose of the provision is to discourage creditors from initiating false financial statement exception to discharge actions in the hopes of obtaininga settlement from an honest debtor anxious to save attorney's fees. Such practices impair the debtor's fresh start.
 
 #### References in Text
 
@@ -224,7 +224,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified gen
 
 Section 103 of the Truth in Lending Act, referred to in subsec. (a)(2)(C)(ii)(I), is classified to section 1602 of Title 15, Commerce and Trade.
 
-The Bankruptcy Act, referred to in subsecs. (a)(10) and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, asamended, which was classified generally to former Title 11. Sections 14c and 17a of the Bankruptcy Act were classified to sections 32(c) and 35(a) of former Title 11.
+The Bankruptcy Act, referred to in subsecs. (a)(10) and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11. Sections 14c and 17a of the Bankruptcy Act were classified to sections 32(c) and 35(a) of former Title 11.
 
 Section 408(b)(1) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(18)(A), is classified to section 1108(b)(1) of Title 29, Labor.
 
@@ -378,7 +378,7 @@ Subsec. (d). Pub. L. 98–353, §307(b), substituted “the court shall grant ju
 
 Pub. L. 109–8, title XIV, §1404(b), Apr. 20, 2005, 119 Stat. 215, provided that: “The amendment made by subsection (a) \[amending this section\] is effective beginning July 30, 2002.”
 
-Amendment by sections 215, 220, 224(c), 301, 310, 314(a), 412, 714, 1209, 1235, and 1502(a)(2) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by sections 215, 220, 224(c), 301, 310, 314(a), 412, 714, 1209, 1235, and 1502(a)(2) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 

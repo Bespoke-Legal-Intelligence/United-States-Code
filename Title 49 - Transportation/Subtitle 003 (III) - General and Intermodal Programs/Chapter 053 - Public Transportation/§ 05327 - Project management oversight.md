@@ -160,7 +160,7 @@ This amends 49:5327(c) to correct an erroneous cross-reference.
 
 #### References in Text
 
-The National Capital Transportation Act of 1969, referred to in subsecs. (a) and (d), is Pub. L. 91–143, Dec. 9, 1969, 83 Stat. 320, as amended, which amended section 24 of Title 12, Banks and Banking, and section 684 of former Title 40, Public Buildings, Property, and Works, and repealed sections 651, 652, 661 to 665, 671, 682, and 683 of former Title 40 and provisions set out as notes under section 651 of former Title 40. Section 14(b) of that Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
+The National Capital Transportation Act of 1969, referred to in subsecs. (a) and (d), is Pub. L. 91–143, Dec. 9, 1969, 83 Stat. 320, as amended, which amended section 24 of Title 12, Banks and Banking, and section 684 of former Title 40, Public Buildings, Property, and Works, and repealed sections 651, 652, 661 to 665, 671, 682, and 683of former Title 40 and provisions set out as notes under section 651 of former Title 40. Section 14(b) of that Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

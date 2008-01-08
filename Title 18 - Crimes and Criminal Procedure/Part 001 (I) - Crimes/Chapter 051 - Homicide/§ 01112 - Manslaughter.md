@@ -8,11 +8,11 @@ Involuntary—In the commission of an unlawful act not amounting to a felony, or
 
 (b) Within the special maritime and territorial jurisdiction of the United States,
 
-Whoever is guilty of voluntary manslaughter, shall be fined under this title or imprisoned not more than ten years, or both;
+Whoever is guilty of voluntary manslaughter, shall be fined under this title or imprisoned not more than 15 years, or both;
 
-Whoever is guilty of involuntary manslaughter, shall be fined under this title or imprisoned not more than six years, or both.
+Whoever is guilty of involuntary manslaughter, shall be fined under this title or imprisoned not more than 8 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 103–322, title XXXII, §320102, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2109, 2147; Pub. L. 104–294, title VI, §604(b)(13), Oct. 11, 1996, 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 103–322, title XXXII, §320102, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2109, 2147; Pub. L. 104–294, title VI, §604(b)(13), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 110–177, title II, §207, Jan. 7, 2008, 121 Stat. 2538.)
 
 #### Historical and Revision Notes
 
@@ -25,6 +25,8 @@ The special maritime and territorial jurisdiction provision was added in view of
 Minor changes were made in phraseology.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–177 substituted “15 years” for “ten years” in second par. and “8 years” for “six years” in last par.
 
 1996—Subsec. (b). Pub. L. 104–294 repealed Pub. L. 103–322, §320102(2). See 1994 Amendment note below.
 

@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;(i) cash,
 
-&emsp;&emsp;&emsp;(ii) obligations of the United States or of a State or political subdivision thereof, and stock or obligations of a corporation which is an instrumentality of the United States or of a State or political subdivision thereof, but not including obligationsthe interest on which is excludable from gross income under section 103,
+&emsp;&emsp;&emsp;(ii) obligations of the United States or of a State or political subdivision thereof, and stock or obligations of a corporation which is an instrumentality of the United States or of a State or political subdivision thereof, but not including obligations the interest on which is excludable from gross income under section 103,
 
 &emsp;&emsp;&emsp;(iii) certificates of deposit in, or obligations of, a corporation organized under a State law which specifically authorizes such corporation to insure the deposits or share accounts of member associations,
 
@@ -186,7 +186,7 @@
 
 #### (A) Foreign estate
 
-&emsp;&emsp;The term “foreign estate” means an estate the income of which, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.
+&emsp;&emsp;The term “foreign estate” means an estate the income of which, from sources withoutthe United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.
 
 #### (B) Foreign trust
 
@@ -230,7 +230,7 @@
 
 &emsp;&emsp;(F) A corporation engaged in the furnishing or sale of transportation by a water carrier subject to jurisdiction under subchapter II of chapter 135 of title 49.
 
-&emsp;&emsp;(G) A rail carrier subject to part A of subtitle IV of title 49, if (i) substantially all ofits railroad properties have been leased to another such railroad corporation or corporations by an agreement or agreements entered into before January 1, 1954, (ii) each lease is for a term of more than 20 years, and (iii) at least 80 percent or more of its gross income (computed without regard to dividends and capital gains and losses) for the taxable year is derived from such leases and from sources described in subparagraphs (A) through (F), inclusive. For purposes of the preceding sentence, an agreement for lease of railroad properties entered into before January 1, 1954, shall be considered to be a lease including such term as the total number of years of such agreement may, unless sooner terminated, be renewed or continued under the terms of the agreement, and any such renewal or continuance under such agreement shall be considered part of the lease entered into before January 1, 1954.
+&emsp;&emsp;(G) A rail carrier subject to part A of subtitle IV of title 49, if (i) substantially all of its railroad properties have been leased to another such railroad corporation or corporations by an agreement or agreements entered into before January 1, 1954, (ii) each lease is for a term of more than 20 years, and (iii) at least 80 percent or more of its gross income (computed without regard to dividends and capital gains and losses) for the taxable year is derived from such leases and from sources described in subparagraphs (A) through (F), inclusive. For purposes of the preceding sentence, an agreement for lease of railroad properties entered into before January 1, 1954, shall be considered to be a lease including such term as the total number of years of such agreement may, unless sooner terminated, be renewed or continued under the terms of the agreement, and any such renewal or continuance under such agreement shall be considered part of the lease entered into before January 1, 1954.
 
 &emsp;&emsp;(H) A common parent corporation which is a common carrier by railroad subject to part A of subtitle IV of title 49 if at least 80 percent of its gross income (computed without regard to capital gains or losses) is derived directly or indirectly from sources described in subparagraphs (A) through (F), inclusive. For purposes of the preceding sentence, dividends and interest, and income from leases described in subparagraph (G), received from a regulated public utility shall be considered as derived from sources described in subparagraphs (A) through (F), inclusive, if the regulated public utility is a member of an affiliated group (as defined in section 1504) which includes the common parent corporation.
 
@@ -242,15 +242,15 @@
 
 &emsp;The term “enrolled actuary” means a person who is enrolled by the Joint Board for the Enrollment of Actuaries established under subtitle C of the title III of the Employee Retirement Income Security Act of 1974.
 
-#### (36) Income tax return preparer
+#### (36) Tax return preparer
 
 #### (A) In general
 
-&emsp;&emsp;The term “income tax return preparer” means any person who prepares for compensation, or who employs one or more persons to prepare for compensation, any return of tax imposed by subtitle A or any claim for refund of tax imposed by subtitle A. For purposes of the preceding sentence, the preparation of a substantial portion of a return or claim for refund shall be treated as if it were the preparation of such return or claim for refund.
+&emsp;&emsp;The term “tax return preparer” means any person who prepares for compensation, or who employs one or more persons to prepare for compensation, any return of tax imposed by this title or any claim for refund of tax imposed by this title. For purposes of the preceding sentence, the preparation of a substantial portion of a return or claim for refund shall be treated as if it were the preparation of such return or claim for refund.
 
 #### (B) Exceptions
 
-&emsp;&emsp;A person shall not be an “income tax return preparer” merely because such person—
+&emsp;&emsp;A person shall not be an <sup>3</sup> “tax return preparer” merely because such person—
 
 &emsp;&emsp;&emsp;(i) furnishes typing, reproducing, or other mechanical assistance,
 
@@ -288,7 +288,7 @@
 
 #### (B) Special rule for Alaska Natives
 
-&emsp;&emsp;No determination under subparagraph (A) with respect to Alaska Natives shall grant or defer any status or powers other thanthose enumerated in section 7871. Nothing in the Indian Tribal Governmental Tax Status Act of 1982, or in the amendments made thereby, shall validate or invalidate any claim by Alaska Natives of sovereign authority over lands or people.
+&emsp;&emsp;No determination under subparagraph (A) with respect to Alaska Natives shall grant or defer any status or powers other than those enumerated in section 7871. Nothing in the Indian Tribal Governmental Tax Status Act of 1982, or in the amendments made thereby, shall validate or invalidate any claim by Alaska Natives of sovereign authority over lands or people.
 
 #### (41) TIN
 
@@ -378,7 +378,7 @@
 
 #### (B) Nonresident alien
 
-&emsp;&emsp;An individual is a nonresident alien if such individual is neither a citizen of the UnitedStates nor a resident of the United States (within the meaning of subparagraph (A)).
+&emsp;&emsp;An individual is a nonresident alien if such individual is neither a citizen of the United States nor a resident of the United States (within the meaning of subparagraph (A)).
 
 #### (2) Special rules for first and last year of residency
 
@@ -474,7 +474,7 @@
 
 &emsp;&emsp;&emsp;(i) such individual is an exempt individual for such day, or
 
-&emsp;&emsp;&emsp;(ii) such individual was unable to leave the United States on such day because of a medical condition which arose while suchindividual was present in the United States.
+&emsp;&emsp;&emsp;(ii) such individual was unable to leave the United States on such day because of a medical condition which arose while such individual was present in the United States.
 
 #### (4) First-year election
 
@@ -556,7 +556,7 @@
 
 #### (ii) Limitation on students
 
-&emsp;&emsp;&emsp;For any calendar year after the 5th calendar year for which an individual was an exempt individual under clause (ii) or (iii) of subparagraph (A), such individual shall not be treated as an exempt individual by reason of clause (iii) of subparagraph (A), unless such individual establishes to the satisfaction of the Secretary that such individual does not intend to permanently reside in the United States and that suchindividual meets the requirements of subparagraph (D)(ii).
+&emsp;&emsp;&emsp;For any calendar year after the 5th calendar year for which an individual was an exempt individual under clause (ii) or (iii) of subparagraph (A), such individual shall not be treated as an exempt individual by reason of clause (iii) of subparagraph (A), unless such individual establishes to the satisfaction of the Secretary that such individual does not intend to permanently reside in the United States and that such individual meets the requirements of subparagraph (D)(ii).
 
 #### (6) Lawful permanent resident
 
@@ -676,7 +676,7 @@ For purposes of chapter 1—
 
 #### (C) Cogeneration facility
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “cogeneration facility” means a facility which uses the same energy source for the sequential generation of electrical or mechanical power in combination with steam, heat, or other forms of useful energy.
+&emsp;&emsp;For purposes of subparagraph (A), the term “cogeneration facility” means a facilitywhich uses the same energy source for the sequential generation of electrical or mechanical power in combination with steam, heat, or other forms of useful energy.
 
 #### (D) Alternative energy facility
 
@@ -726,7 +726,7 @@ For purposes of chapter 1—
 
 &emsp;&emsp;(A) such property is operated by or for an organization described in paragraph (3) or (4) of section 501(c), and
 
-&emsp;&emsp;(B) at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B))\(as in effect on the day before the date of the enactment of the Revenue Reconcilation <sup>3</sup> Act of 1990).
+&emsp;&emsp;(B) at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B)) (as in effect on the day before the date of the enactment of the Revenue Reconcilation <sup>4</sup> Act of 1990).
 
 #### (6) Regulations
 
@@ -936,7 +936,7 @@ For purposes of this title, any organization which is otherwise a convention or 
 
 &emsp;&emsp;<b>For effect of cross references in this title, see section 7806(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(<i>l</i>)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(<i>l</i>)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(<i>l</i>)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(<i>l</i>)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089; Pub. L. 110–28, title VIII, §8246(a)(1), May 25, 2007, 121 Stat. 200.)
 
 #### Amendment of Section
 
@@ -948,7 +948,7 @@ Section 401 of the National Housing Act, referred to in subsec. (a)(19)(A), (32)
 
 Part A and part B of title I of the Housing Act of 1949, referred to in subsec. (a)(19)(C)(vi), which were classified generally to part A (§1450 et seq.) and part B (§1469 et seq.) of subchapter II of chapter 8A of Title 42, The Public Health and Welfare, were omitted from the Code pursuant to section 5316 of Title 42, which terminated authority to make new loans and grants under title I of that Act after Jan. 1, 1975.
 
-Section 103 of the Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a)(19)(C)(vi), which was classified to section 3303 of Title 42, was omitted from the Code pursuant to section5316 of Title 42, which terminated authority to make new loans and grants under title I (§101 et seq.) of that Act after Jan. 1, 1975.
+Section 103 of the Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a)(19)(C)(vi), which was classified to section 3303 of Title 42, was omitted from the Code pursuant to section 5316 of Title 42, which terminated authority to make new loans and grants under title I (§101 et seq.) of that Act after Jan. 1, 1975.
 
 The Internal Revenue Code of 1939, referred to in subsec. (a)(29), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
@@ -973,6 +973,12 @@ The date of the enactment of the Commodity Futures Modernization Act of 2000, re
 Sections 1207(f) and 1222 of Pub. L. 109–280, which directed the amendment of section 7701 without specifying the act to be amended, were executed to this section, which is section 7701 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+2007—Subsec. (a)(36). Pub. L. 110–28, §8246(a)(1)(A), which directed the striking out of “income” in heading, was executed by substituting “Tax” for “Income tax” to reflect the probable intent of Congress.
+
+Pub. L. 110–28, §8246(a)(1)(A), struck out “income” before “tax return preparer” in subpar. (A) and in introductory provisions of subpar. (B).
+
+Subsec. (a)(36)(A). Pub. L. 110–28, §8246(a)(1)(B), substituted “this title” for “subtitle A” in two places.
 
 2006—Subsec. (a)(49). Pub. L. 109–280, §1207(f), added par. (49). See Codification note above.
 
@@ -1212,6 +1218,10 @@ Subsec. (a)(12). Pub. L. 86–778 designated existing provisions as par. (A) and
 
 Subsec. (a)(10). Pub. L. 86–70, §22(h), substituted “Territory of Hawaii” for “Territories”.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub. L. 110–28, set out as a note under section 6060 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 1207(f) of Pub. L. 109–280 effective Jan. 1, 2007, see section 1207(g)(1) of Pub. L. 109–280, set out as a note under section 4041 of this title.
@@ -1246,7 +1256,7 @@ Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts 
 
 #### Effective Date of 1997 Amendment
 
-Section 1151(b) of Pub. L. 105–34 provided that: “Any regulations issued with respect to the amendment made by subsection (a) \[amending this section\] shall apply to partnerships created or organized after the date determined under section 7805(b) of the Internal Revenue Code of 1986 (without regard to paragraph (2) thereof) with respect to such regulations.”
+Section 1151(b) of Pub. L. 105–34 provided that: “Any regulations issued with respect to the amendmentmade by subsection (a) \[amending this section\] shall apply to partnerships created or organized after the date determined under section 7805(b) of the Internal Revenue Code of 1986 (without regard to paragraph (2) thereof) with respect to such regulations.”
 
 Section 1174(c) of Pub. L. 105–34 provided that:
 
@@ -1308,7 +1318,7 @@ Amendment by section 11812(b)(13) of Pub. L. 101–508 applicable to property pl
 
 #### Effective Date of 1989 Amendment
 
-Section 603 of title VI of Pub. L. 101–194 provided that: “The amendments made by this title \[amending this section, sections 31–1 and 441i of Title 2, The Congress, and title V of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees\] shall take effect on January 1, 1991. Such amendments shall ceaseto be effective if the provisions of section 703 \[5 U.S.C. 5318 note\] are subsequently repealed, in which case the laws in effect before such amendments shall be deemed to be reenacted.”
+Section 603 of title VI of Pub. L. 101–194 provided that: “The amendments made by this title \[amending this section, sections 31–1 and 441i of Title 2, The Congress, and title V of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees\] shall take effect on January 1, 1991. Such amendments shall cease to be effective if the provisions of section 703 \[5 U.S.C. 5318 note\] are subsequently repealed, in which case the laws in effect before such amendments shall be deemed to be reenacted.”
 
 #### Effective Date of 1988 Amendment
 
@@ -1464,7 +1474,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -1506,5 +1516,7 @@ Effective Date.—The provisions of this section shall apply to taxable years en
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Reconciliation”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “a”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “Reconciliation”.</i>
 

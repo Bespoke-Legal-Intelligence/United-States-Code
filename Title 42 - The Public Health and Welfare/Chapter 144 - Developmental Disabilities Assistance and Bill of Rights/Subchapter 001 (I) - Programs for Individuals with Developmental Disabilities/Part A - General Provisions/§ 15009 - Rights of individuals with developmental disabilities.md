@@ -38,7 +38,7 @@ Congress makes the following findings respecting the rights of individuals with 
 
 &emsp;&emsp;&emsp;(III) the facilities of such programs provide for the humane care of the residents of the facilities, are sanitary, and protect their rights; and
 
-&emsp;&emsp;(iii) in the case of nonresidential programs, that assure that the care provided by such programs is appropriate to the individuals served by the programs.
+&emsp;&emsp;(iii) in the case of nonresidential programs, that assure that the care provided bysuch programs is appropriate to the individuals served by the programs.
 
 #### (b) Clarification
 

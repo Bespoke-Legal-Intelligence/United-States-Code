@@ -24,7 +24,7 @@
 
 (1) The Attorney General and the Secretaries of Education and Health and Human Services of the United States may provide and, upon request of the Government of Guam, shall provide appropriate training, technical assistance and equipment to the Government of Guam to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or territorial drug or other substance abuse law.
 
-(2) There are authorized to be appropriated $500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Guam to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to carry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
+(2) There are authorized to be appropriated $500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Guam to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, tocarry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
 
 (3) There are authorized to be appropriated to the Government of Guam $500,000 for grants to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General for drug abuse law enforcement equipment.
 
@@ -50,7 +50,7 @@
 
 #### (d) Puerto Rico
 
-(1) There are authorized to be appropriated for grants to the Government of Puerto Rico $7,000,000 for fiscal year 1989 and $2,000,000 annually thereafter for grants to the Government of Puerto Rico to carry out the purposes of sections 1494 to 1494c of this title to be expended inaccordance with a plan approved by the Executive Director of the White House Task Force on Puerto Rico in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.
+(1) There are authorized to be appropriated for grants to the Government of Puerto Rico $7,000,000 for fiscal year 1989 and $2,000,000 annually thereafter for grants to the Government of Puerto Rico to carry out the purposes of sections 1494 to 1494c of this title to be expended in accordance with a plan approved by the Executive Director of the White House Task Force on Puerto Rico in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to remain available until expended.
 
 (2) The United States Customs Service should station an aerostat in Puerto Rico.
 
@@ -100,7 +100,7 @@ Subsec. (a)(4). Pub. L. 100–690, §9302(3), added par. (4).
 
 Subsec. (b)(1). Pub. L. 100–690, §9303(1), substituted “Secretaries of Education and” for “Secretary of” and inserted “and, upon request of the Government of Guam, shall provide appropriate training,” after “may provide” and “or other substance” after “drug”.
 
-Subsec. (b)(2). Pub. L. 100–690, §9303(2), substituted “$500,000 for fiscal year 1989 and annually thereafter forgrants to the Government of Guam to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to carry out the purposes of sections 1494 to 1494c of this title, to” for “$1,000,000 to carry out paragraph (1). Funds appropriated under this paragraph shall”.
+Subsec. (b)(2). Pub. L. 100–690, §9303(2), substituted “$500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Guam to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to carry out the purposes of sections 1494 to 1494c of this title, to” for “$1,000,000 to carry out paragraph (1). Funds appropriated under this paragraph shall”.
 
 Subsec. (b)(3). Pub. L. 100–690, §9303(3), added par. (3).
 
@@ -138,7 +138,7 @@ Subsec. (f). Pub. L. 100–690, §9307, added subsec. (f).
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security,and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -2,7 +2,7 @@
 
 #### (a) Claims against partition of joint reservation
 
-Any claim challenging the partition of the joint reservation pursuant to section 1300i–1 ofthis title or any other provision of this subchapter as having effected a taking under the fifth amendment of the United States Constitution or as otherwise having provided inadequate compensation shall be brought, pursuant to section 1491 or 1505 of title 28, in the United States Court of Federal Claims. The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection.
+Any claim challenging the partition of the joint reservation pursuant to section 1300i–1 of this title or any other provision of this subchapter as having effected a taking under the fifth amendment of the United States Constitution or as otherwise having provided inadequate compensation shall be brought, pursuant to section 1491 or 1505 of title 28, in the United States Court of Federal Claims. The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection.
 
 #### (b) Limitations on claims
 
@@ -16,7 +16,7 @@ Any claim challenging the partition of the joint reservation pursuant to section
 
 (1) The Secretary shall prepare and submit to the Congress a report describing the final decision in any claim brought pursuant to subsection (b) of this section against the United States or its officers, agencies, or instrumentalities.
 
-(2) Such report shall be submitted no later than 180 days after the entry of final judgment in such litigation. The report shall include any recommendations of the Secretary for action by Congress, including, but not limited to, any supplemental funding proposals necessary to implement the terms of this subchapter and any modifications to the resource and management authorities established by this subchapter. Notwithstanding the provisions of section 2517 of title 28, any judgment entered against the United States shall not be paid for 180 days after the entry of judgment; and, if the Secretary of the Interior submits a report to Congress pursuant to this section, then payment shall be made no earlier than 120 days after submission of the report.
+(2) Such report shall be submitted no later than 180 days after the entry of final judgment in such litigation. The report shall include any recommendations of the Secretary for action byCongress, including, but not limited to, any supplemental funding proposals necessary to implement the terms of this subchapter and any modifications to the resource and management authorities established by this subchapter. Notwithstanding the provisions of section 2517 of title 28, any judgment entered against the United States shall not be paid for 180 days after the entry of judgment; and, if the Secretary of the Interior submits a report to Congress pursuant to this section, then payment shall be made no earlier than 120 days after submission of the report.
 
 (Pub. L. 100–580, §14, Oct. 31, 1988, 102 Stat. 2936; Pub. L. 101–301, §9(4), May 24, 1990, 104 Stat. 211; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

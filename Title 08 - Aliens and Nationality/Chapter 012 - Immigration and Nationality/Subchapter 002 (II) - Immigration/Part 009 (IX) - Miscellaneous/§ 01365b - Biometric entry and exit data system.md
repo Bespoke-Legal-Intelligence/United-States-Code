@@ -224,37 +224,33 @@ Not later than 1 year after December 17, 2004, the Secretary of Homeland Securit
 
 &emsp;In this subsection, the term “registered traveler program” means any program designed to expedite the travel of previously screened and known travelers across the borders of the United States.
 
-#### (3) Registered travel program
+#### (3) International registered traveler program
 
 #### (A) In general
 
-&emsp;&emsp;As soon as is practicable, the Secretary shall develop and implement a registered traveler program to expedite the processing of registered travelers who enter and exit the United States.
+&emsp;&emsp;The Secretary of Homeland Security shall establish an international registered traveler program that incorporates available technologies, such as biometrics and e-passports, and security threat assessments to expedite the screening and processing of international travelers, including United States Citizens and residents, who enter and exit the United States. The program shall be coordinated with the United States Visitor and Immigrant Status Indicator Technology program, other pre-screening initiatives, and the Visa Waiver Program.
 
-#### (B) Participation
+#### (B) Fees
 
-&emsp;&emsp;The registered traveler program shall include as many participants as practicable by—
+&emsp;&emsp;The Secretary may impose a fee for the program established under subparagraph (A) and may modify such fee from time to time. The fee may not exceed the aggregate costs associated with the program and shall be credited to the Department of Homeland Security for purposes of carrying out the program. Amounts so credited shall remain available until expended.
 
-&emsp;&emsp;&emsp;(i) minimizing the cost of enrollment;
+#### (C) Rulemaking
+
+&emsp;&emsp;Within 365 days after December 26, 2007, the Secretary shall initiate a rulemaking to establish the program, criteria for participation, and the fee for the program.
+
+#### (D) Implementation
+
+&emsp;&emsp;Not later than 2 years after December 26, 2007, the Secretary shall establish a phased-implementation of a biometric-based international registered traveler program in conjunction with the United States Visitor and Immigrant Status Indicator Technology entry and exit system, other pre-screening initiatives, and the Visa Waiver Program at United States airports with the highest volume of international travelers.
+
+#### (E) Participation
+
+&emsp;&emsp;The Secretary shall ensure that the international registered traveler program includes as many participants as practicable by—
+
+&emsp;&emsp;&emsp;(i) establishing a reasonable cost of enrollment;
 
 &emsp;&emsp;&emsp;(ii) making program enrollment convenient and easily accessible; and
 
 &emsp;&emsp;&emsp;(iii) providing applicants with clear and consistent eligibility guidelines.
-
-#### (C) Integration
-
-&emsp;&emsp;The registered traveler program shall be integrated into the automated biometric entry and exit data system described in this section.
-
-#### (D) Review and evaluation
-
-&emsp;&emsp;In developing the registered traveler program, the Secretary shall—
-
-&emsp;&emsp;&emsp;(i) review existing programs or pilot projects designed to expedite the travel of registered travelers across the borders of the United States;
-
-&emsp;&emsp;&emsp;(ii) evaluate the effectiveness of the programs described in clause (i), the costs associated with such programs, and the costs to travelers to join such programs;
-
-&emsp;&emsp;&emsp;(iii) increase research and development efforts to accelerate the development and implementation of a single registered traveler program; and
-
-&emsp;&emsp;&emsp;(iv) review the feasibility of allowing participants to enroll in the registered traveler program at consular offices.
 
 #### (4) Report
 
@@ -264,23 +260,29 @@ Not later than 1 year after December 17, 2004, the Secretary of Homeland Securit
 
 There are authorized to be appropriated to the Secretary, for each of the fiscal years 2005 through 2009, such sums as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 108–458, title VII, §7208, Dec. 17, 2004, 118 Stat. 3817.)
+(Pub. L. 108–458, title VII, §7208, Dec. 17, 2004, 118 Stat. 3817; Pub. L. 110–161, div. E, title V, §565, Dec. 26, 2007, 121 Stat. 2091.)
 
 #### References in Text
 
 The Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (b)(1), is div. C of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–546. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1101 of this title and Tables.
 
-The Immigration and Naturalization Service Data Management Improvement Act of 2000, referred to in subsec. (b)(2), is Pub. L. 106–215, June 15, 2000, 114 Stat. 337, which amended section 1365a of this title and enacted provisions set out as notes under sections 1101 and 1365a of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
+The Immigration and Naturalization Service Data Management Improvement Act of 2000, referred to insubsec. (b)(2), is Pub. L. 106–215, June 15, 2000, 114 Stat. 337, which amended section 1365a of this title and enacted provisions set out as notes under sections 1101 and 1365a of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
 
 The Visa Waiver Permanent Program Act, referred to in subsec. (b)(3), is Pub. L. 106–396, Oct. 30, 2000, 114 Stat. 1637. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
 
-The Enhanced Border Security and Visa Entry Reform Act of 2002, referred to in subsec. (b)(4), is Pub. L. 107–173, May 14, 2002, 116 Stat. 543, as amended, which isclassified principally to chapter 15 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+The Enhanced Border Security and Visa Entry Reform Act of 2002, referred to in subsec. (b)(4), is Pub. L. 107–173, May 14, 2002, 116 Stat. 543, as amended, which is classified principally to chapter 15 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 The Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in subsec. (b)(5), was Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272. Pub. L. 107–56 was renamed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act by Pub. L. 109–177, title I, §101(b), Mar. 9, 2006, 120 Stat. 194. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+
+December 26, 2007, referred to in subsec. (k)(3)(C), (D), was in the original “the date of enactment of this paragraph” and was translated a meaning the date of enactment of Pub. L. 110–161, which amended subsec. (k)(3) of this section generally, to reflect the probable intent of Congress.
 
 #### Codification
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### Amendments
+
+2007—Subsec. (k)(3). Pub. L. 110–161 amended heading and text of par. (3) generally. Prior to amendment, text related to development and implementation of a registered traveler program.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(Public Law 106–215)”.</i>
 

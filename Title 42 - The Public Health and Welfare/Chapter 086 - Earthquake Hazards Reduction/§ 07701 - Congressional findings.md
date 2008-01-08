@@ -14,7 +14,7 @@ The Congress finds and declares the following:
 
 &emsp;(6) The vulnerability of buildings, lifelines, public works, and industrial and emergency facilities can be reduced through proper earthquake resistant design and construction practices. The economy and efficacy of such procedures can be substantially increased through research and development.
 
-&emsp;(7) Programs and practices of departments and agencies of the United States are important to the communities they serve; some functions, such as emergency communicationsand national defense, and lifelines, such as dams, bridges, and public works, must remain in service during and after an earthquake. Federally owned, operated, and influenced structures and lifelines should serve as models for how to reduce and minimize hazards to the community.
+&emsp;(7) Programs and practices of departments and agencies of the United States are important to the communities they serve; some functions, such as emergency communications and national defense, and lifelines, such as dams, bridges, and public works, must remain in service during and after an earthquake. Federally owned, operated, and influenced structures and lifelines should serve as models for how to reduce and minimize hazards to the community.
 
 &emsp;(8) The implementation of earthquake hazards reduction measures would, as an added benefit, also reduce the risk of loss, destruction, and disruption from other natural hazards and manmade hazards, including hurricanes, tornadoes, accidents, explosions, landslides, building and structural cave-ins, and fires.
 

@@ -46,7 +46,7 @@ Ban on awarding contracts.—The Comptroller General shall distribute each name 
 
 &emsp;(3)
 
-Judicial review.—A person aggrieved by the Secretary's action under this subsection or subsection (b) may file with the appropriateUnited States court of appeals a petition for review of the Secretary's action within 60 days after receiving notice of the Secretary's action. The clerk of the court immediately shall send a copy of the petition to the Secretary. The Secretary then shall file with the court the record on which the action is based. The findings of fact by the Secretary, if supported by substantial evidence, are final. The court may enter a decree enforcing, modifying, modifying and enforcing, or setting aside any part of, the order of the Secretary or the appropriate Government agency. The judgment of the court may be reviewed by the Supreme Court as provided in section 1254 of title 28.
+Judicial review.—A person aggrieved by the Secretary's action under this subsection or subsection (b) may file with the appropriate United States court of appeals a petition for review of the Secretary's action within 60 days after receiving notice of the Secretary's action. The clerk of the court immediately shall send a copy of the petition to the Secretary. The Secretary then shall file with the court the record on which the action is based. The findings of fact by the Secretary, if supported by substantial evidence, are final. The court may enter a decree enforcing, modifying, modifying and enforcing, or setting aside any part of, the order of the Secretary or the appropriate Government agency. The judgment of the court may be reviewed by the Supreme Court as provided in section 1254 of title 28.
 
 (d)
 

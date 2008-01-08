@@ -20,7 +20,7 @@ Pub. L. 102–367, §1, Sept. 7, 1992, 106 Stat. 1021, provided that: “This Ac
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–235, §1, Dec. 12, 1991, 105 Stat. 1806, provided that: “This Act \[enacting section 1737 of this title, amending sections 1503, 1514, 1531 to 1533, and 1604 of this title, and enacting provisions set out as notes under sections 1501, 1514, and 1737 of this title\] may be cited as the ‘Nontraditional Employment for Women Act’.”
+Pub. L. 102–235, §1, Dec. 12, 1991, 105 Stat. 1806, provided that: “This Act \[enacting section 1737 of thistitle, amending sections 1503, 1514, 1531 to 1533, and 1604 of this title, and enacting provisions set out as notes under sections 1501, 1514, and 1737 of this title\] may be cited as the ‘Nontraditional Employment for Women Act’.”
 
 #### Short Title of 1988 Amendments
 

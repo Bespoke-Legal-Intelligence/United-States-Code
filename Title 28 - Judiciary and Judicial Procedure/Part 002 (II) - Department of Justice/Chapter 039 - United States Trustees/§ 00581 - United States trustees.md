@@ -136,7 +136,7 @@ Application of Amendments to Judicial Districts.—
 
 &emsp;“(1)
 
-Certain regions not currently served by united states trustees.—(A) The amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not—
+Certain regions not currently served by united states trustees.—(A) The amendments madeby subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not—
 
 &emsp;&emsp;“(i) become effective in or with respect to a judicial district specified in subparagraph (B) until, or
 
@@ -272,7 +272,7 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 &emsp;&emsp;“(I) commenced before the effective date of this Act, and
 
-&emsp;&emsp;“(II) pending in a judicial district in the State of Alabama or the State of North Carolina before any election made under subparagraph (A) by such district becomes effective,
+&emsp;&emsp;“(II) pending in a judicial district in the State of Alabama or the State of North Carolina before anyelection made under subparagraph (A) by such district becomes effective,
 
 > &emsp;the amendments made by section 113 \[amending section 586 of this title\] and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply until the expiration of the 1-year period beginning on the date such election becomes effective.
 
@@ -370,7 +370,7 @@ Information and Documents Relating to Bankruptcy Cases and United States Trustee
 
 “(a)
 
-Rules Relating to the United States Trustee System.—If a United States trustee is not authorized, before the effective date of this Act, to be appointed for a judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, then part X of the Bankruptcy Rules \[11 U.S.C. App.\] shall not apply to cases in such district until the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] become effective under section 302 of this Act in such district.
+Rules Relating to the United States Trustee System.—If a United States trustee is not authorized, before the effective date of this Act, to be appointed fora judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, then part X of the Bankruptcy Rules \[11 U.S.C. App.\] shall not apply to cases in such district until the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] become effective under section 302 of this Act in such district.
 
 “(b)
 
@@ -488,7 +488,7 @@ Availability to Certain Governmental Entities.—Unlimited access to information
 
 Fees for Other Users.—(1) The entity which is awarded a contract to provide the electronic case management system demonstrated under this project may, under guidelines established by the Director of the Executive Office for the United States Trustees in the provisions of such contract, collect reasonable fees from assets of the estate of the debtor in bankruptcy for providing notices and services to the court and trustees under the demonstration project.
 
-“(2) Access to information maintained in electronic case files pursuant to the demonstration project may be provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordance with the guidelines established by the Director of the Executive Office for the United States Trustees in suchcontract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
+“(2) Access to information maintained in electronic case files pursuant to the demonstration project may be provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordance with the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
 
 “(h)
 

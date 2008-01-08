@@ -13,6 +13,7 @@ Another prior part H, entitled “National Library of Medicine”, as added by a
 
 - [&sect; 00273 - Organ procurement organizations](%C2%A7%2000273%20-%20Organ%20procurement%20organizations.md)
 - [&sect; 00273a - National living donor mechanisms](%C2%A7%2000273a%20-%20National%20living%20donor%20mechanisms.md)
+- [&sect; 00273b - Report on the long-term health effects of living organ donation](%C2%A7%2000273b%20-%20Report%20on%20the%20long-term%20health%20effects%20of%20living%20organ%20donation.md)
 - [&sect; 00274 - Organ procurement and transplantation network](%C2%A7%2000274%20-%20Organ%20procurement%20and%20transplantation%20network.md)
 - [&sect; 00274a - Scientific registry](%C2%A7%2000274a%20-%20Scientific%20registry.md)
 - [&sect; 00274b - General provisions respecting grants and contracts](%C2%A7%2000274b%20-%20General%20provisions%20respecting%20grants%20and%20contracts.md)

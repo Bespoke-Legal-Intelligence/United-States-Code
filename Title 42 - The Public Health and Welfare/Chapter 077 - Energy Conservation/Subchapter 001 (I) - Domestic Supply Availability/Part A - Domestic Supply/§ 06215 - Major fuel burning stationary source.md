@@ -10,7 +10,7 @@ No Governor of a State may issue any order or rule pursuant to section 7425 of t
 
 #### (b) Petition to President
 
-(1) The Governor of any State may petition the President to exercise the President's authorities pursuant to section 7425 of this title with respect to any major fuel burning stationary source located in such State.
+(1) The Governor of any State may petition the President to exercise the President's authorities pursuant to section 7425 of this titlewith respect to any major fuel burning stationary source located in such State.
 
 (2) Any petition under paragraph (1) shall include documentation which could support a finding that significant local or regional economic disruption or unemployment would result from use by such source of—
 

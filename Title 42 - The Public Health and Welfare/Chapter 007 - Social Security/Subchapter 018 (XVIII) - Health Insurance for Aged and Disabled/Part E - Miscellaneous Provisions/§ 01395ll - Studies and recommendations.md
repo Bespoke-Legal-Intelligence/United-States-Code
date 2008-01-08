@@ -226,7 +226,7 @@ Pub. L. 100–360, title II, §208, July 1, 1988, 102 Stat. 732, as amended by P
 
 #### Study To Develop a Strategy for Quality Review and Assurance
 
-Section 9313(d) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(A), Dec. 22, 1987, 101 Stat. 1330–133, directed Secretary of Health and Human Services to arrange, with the National Academy of Sciences or other appropriate nonprofit private entity, for a study to design a strategy for reviewing and assuring the quality of care for which payment may be made under this subchapter, specified items to be included in the study, and directed Secretary to submit to Congress, not later than Jan. 1, 1990, a report on the study with recommendations with respect to strengthening quality assurancees and review activities for services furnished under the medicare program.
+Section 9313(d) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(A), Dec. 22, 1987, 101 Stat. 1330–133, directed Secretary of Health and Human Services to arrange, with the National Academy of Sciences or other appropriate nonprofit private entity, for a study to design a strategy for reviewing and assuring the quality of care for which payment may be made under this subchapter, specified items to be included in the study, and directed Secretary to submit to Congress, not later than Jan. 1, 1990, a report on the study with recommendations with respect to strengthening quality assurances and review activities for services furnished under the medicare program.
 
 #### Special Treatment of States Formerly Under Waiver
 
@@ -238,7 +238,7 @@ Pub. L. 96–499, title IX, §931(f), Dec. 5, 1980, 94 Stat. 2634, which related
 
 #### Legislative Recommendations Regarding Reimbursement for Optometrists’ Services
 
-Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursementunder title XVIII of the Social Security Act \[this subchapter\] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
+Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursement under title XVIII of the Social Security Act \[this subchapter\] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
 
 #### Demonstration Projects, Studies, and Reports: Nutritional Therapy, Second Opinion Cost-Sharing, Services of Registered Dietitians, Services of Clinical Social Workers, Orthopedic Shoes, Respiratory Therapy Services, and Foot Conditions; Grants, Payments, and Expenditures
 
@@ -250,7 +250,7 @@ Pub. L. 96–265, title V, §506, June 9, 1980, 94 Stat. 475, authorized Secreta
 
 #### Report to Congress With Respect to Urban or Rural Comprehensive Mental Health Centers and Centers for Treatment of Alcoholism and Drug Abuse; Submission No Later Than June 13, 1978
 
-Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
+Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13,1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
 
 #### Study and Review by Comptroller General of Administrative Structure for Processing Medicare Claims; Report to Congress
 

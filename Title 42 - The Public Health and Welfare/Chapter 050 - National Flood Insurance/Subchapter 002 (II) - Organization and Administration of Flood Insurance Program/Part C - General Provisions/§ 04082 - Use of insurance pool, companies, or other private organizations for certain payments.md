@@ -14,7 +14,7 @@ In order to provide for maximum efficiency in the administration of the flood in
 
 #### (b) Terms and conditions of contract
 
-Any contract with the pool or an insurance company or other private organization under this section may contain such terms and conditions as the Director finds necessary or appropriate for carrying out responsibilities under subsection (a) of this section, and may provide for payment of any costs which the Director determines are incidental to carrying out such responsibilities which are covered by the contract.
+Any contract with the pool or an insurance company or other private organization under this section may contain such terms and conditions as the Director finds necessary or appropriate for carrying out responsibilities undersubsection (a) of this section, and may provide for payment of any costs which the Director determines are incidental to carrying out such responsibilities which are covered by the contract.
 
 #### (c) Competitive bidding
 

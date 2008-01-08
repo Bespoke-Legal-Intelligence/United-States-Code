@@ -68,7 +68,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(B) the consumer received the offer of credit or insurance because the consumer satisfied the criteria for credit worthiness <sup>2</sup> or insurability under which the consumer was selected for the offer;
 
-&emsp;&emsp;(C) if applicable, the credit or insurance may not be extended if, after the consumer responds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness <sup>2</sup> or insurability or does not furnish any required collateral;
+&emsp;&emsp;(C) if applicable, the credit or insurance may not be extended if, after the consumerresponds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness <sup>2</sup> or insurability or does not furnish any required collateral;
 
 &emsp;&emsp;(D) the consumer has a right to prohibit information contained in the consumer's file with any consumer reporting agency from being used in connection with any credit or insurance transaction that is not initiated by the consumer; and
 
@@ -84,7 +84,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (3) Maintaining criteria on file
 
-&emsp;A person who makes an offer of credit or insurance to a consumer under a credit or insurance transaction described in paragraph (1) shall maintain on file the criteria used to select the consumer to receive the offer, all criteria bearing on credit worthiness <sup>2</sup> or insurability, as applicable, that are the basis for determining whether or not to extend credit or insurance pursuant to the offer, and any requirement for the furnishing of collateral as a condition of the extension of credit or insurance, until the expiration of the 3-year periodbeginning on the date on which the offer is made to the consumer.
+&emsp;A person who makes an offer of credit or insurance to a consumer under a credit or insurance transaction described in paragraph (1) shall maintain on file the criteria used to select the consumer to receive the offer, all criteria bearing on credit worthiness <sup>2</sup> or insurability, as applicable, that are the basis for determining whether or not to extend credit or insurance pursuant to the offer, and any requirement for the furnishing of collateral as a condition of the extension of credit or insurance, until the expiration of the 3-year period beginning on the date on which the offer is made to the consumer.
 
 #### (4) Authority of Federal agencies regarding unfair or deceptive acts or practices not affected
 
@@ -130,7 +130,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (2) Applicability
 
-&emsp;The prohibitions of this subsection shall apply to all persons collecting a debt described in paragraph (1) after the date of a notification under paragraph (1).
+&emsp;The prohibitions of this subsection shall apply to all persons collecting a debt describedin paragraph (1) after the date of a notification under paragraph (1).
 
 #### (3) Rule of construction
 
@@ -154,7 +154,7 @@ If a person acting as a debt collector (as that term is defined in subchapter V 
 
 #### (1) In general
 
-&emsp;Subject to rules prescribed as provided in paragraph (6), if any person uses a consumerreport in connection with an application for, or a grant, extension, or other provision of, credit on material terms that are materially less favorable than the most favorable terms available to a substantial proportion of consumers from or through that person, based in whole or in part on a consumer report, the person shall provide an oral, written, or electronic notice to the consumer in the form and manner required by regulations prescribed in accordance with this subsection.
+&emsp;Subject to rules prescribed as provided in paragraph (6), if any person uses a consumer report in connection with an application for, or a grant, extension, or other provision of, credit on material terms that are materially less favorable than the most favorable terms available to a substantial proportion of consumers from or through that person, based in whole or in part on a consumer report, the person shall provide an oral, written, or electronic notice to the consumer in the form and manner required by regulations prescribed in accordance with this subsection.
 
 #### (2) Timing
 

@@ -36,7 +36,7 @@
 
 #### (4) Acquisition planning
 
-&emsp;In the event that a Federal department or agency determines that compliance with the standards issued by the Access Board under paragraph (2) relating to procurement imposes an undue burden, the documentation by thedepartment or agency supporting the procurement shall explain why compliance creates an undue burden.
+&emsp;In the event that a Federal department or agency determines that compliance with the standards issued by the Access Board under paragraph (2) relating to procurement imposes an undue burden, the documentation by the department or agency supporting the procurement shall explain why compliance creates an undue burden.
 
 #### (5) Exemption for national security systems
 
@@ -106,7 +106,7 @@ This section shall not be construed to limit any right, remedy, or procedure oth
 
 #### Codification
 
-“Section 11101(6) of title 40” substituted in subsec. (a)(2)(A)(i) for “section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3))” and “section 11103(a) of title 40” substituted in subsec. (a)(5) for “section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 11101(6) of title 40” substituted in subsec. (a)(2)(A)(i) for “section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3))” and “section 11103(a) of title 40” substituted in subsec. (a)(5) for “section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)” on authorityof Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

@@ -70,7 +70,7 @@ Except as otherwise provided, in this chapter:
 
 #### (9) Consolidated State application
 
-&emsp;The term “consolidated State application” means an application submitted by a Stateeducational agency pursuant to section 7842 of this title.
+&emsp;The term “consolidated State application” means an application submitted by a State educational agency pursuant to section 7842 of this title.
 
 #### (10) Consolidated State plan
 
@@ -258,7 +258,7 @@ Except as otherwise provided, in this chapter:
 
 #### (C) BIA schools
 
-&emsp;&emsp;The term includes an elementary school or secondary school funded by the Bureau of Indian Affairs but only to the extent that including the school makes the school eligible for programs for which specific eligibility is not provided to the school in another provision of law and the school does not have a student population that is smaller than the student population of the local educational agency receiving assistance under this chapter with the smallest student population, except that the school shall not be subject to the jurisdiction of any State educational agency other than the Bureau of Indian Affairs.
+&emsp;&emsp;The term includes an elementary school or secondary school funded by the Bureau of Indian Affairs but only to the extent that including the school makes the school eligible for programs for which specific eligibility is not provided to the school in another provision of law and the school does not have a student population that is smaller than thestudent population of the local educational agency receiving assistance under this chapter with the smallest student population, except that the school shall not be subject to the jurisdiction of any State educational agency other than the Bureau of Indian Affairs.
 
 #### (D) Educational service agencies
 
@@ -326,7 +326,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;(vii) advance teacher understanding of effective instructional strategies that are—
 
-&emsp;&emsp;&emsp;&emsp;(I) based on scientifically based research (except that this subclause shallnot apply to activities carried out under part D of subchapter II of this chapter); and
+&emsp;&emsp;&emsp;&emsp;(I) based on scientifically based research (except that this subclause shall not apply to activities carried out under part D of subchapter II of this chapter); and
 
 &emsp;&emsp;&emsp;&emsp;(II) strategies for improving student academic achievement or substantially increasing the knowledge and teaching skills of teachers; and
 
@@ -334,7 +334,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) State academic content standards, student academic achievement standards, and assessments; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the curricula and programs tied to the standards described in subclause (I) except that this subclause shall not apply to activities described in clauses (ii) and (iii) of section 6623(3)(B) <sup>2</sup> of this title;
+&emsp;&emsp;&emsp;&emsp;(II) the curricula and programs tied to the standards described in subclause (I) except that this subclause shall notapply to activities described in clauses (ii) and (iii) of section 6623(3)(B) <sup>2</sup> of this title;
 
 &emsp;&emsp;&emsp;(ix) are developed with extensive participation of teachers, principals, parents, and administrators of schools to be served under this chapter;
 
@@ -394,7 +394,7 @@ Except as otherwise provided, in this chapter:
 
 #### (38) Secondary school
 
-&emsp;The term “secondary school” means a nonprofit institutional day or residential school,including a public secondary charter school, that provides secondary education, as determined under State law, except that the term does not include any education beyond grade 12.
+&emsp;The term “secondary school” means a nonprofit institutional day or residential school, including a public secondary charter school, that provides secondary education, as determined under State law, except that the term does not include any education beyond grade 12.
 
 #### (39) Secretary
 

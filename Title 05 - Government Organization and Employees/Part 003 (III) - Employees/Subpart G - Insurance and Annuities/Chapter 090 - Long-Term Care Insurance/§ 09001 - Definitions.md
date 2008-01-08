@@ -52,7 +52,7 @@ Qualified relative.—The term “qualified relative” means each of the follow
 
 &emsp;&emsp;(B) A parent, stepparent, or parent-in-law of an individual described in paragraph (1) or (3).
 
-&emsp;&emsp;(C) A child (including an adopted child, a stepchild, or, to the extent the Office of Personnel Management by regulation provides, a foster child) of an individual described in paragraph (1), (2), (3), or (4), if such child is at least 18 years of age.
+&emsp;&emsp;(C) A child (including an adopted child, a stepchild, or, to the extent the Office of Personnel Management by regulation provides,a foster child) of an individual described in paragraph (1), (2), (3), or (4), if such child is at least 18 years of age.
 
 &emsp;&emsp;(D) An individual having such other relationship to an individual described in paragraph (1), (2), (3), or (4) as the Office may by regulation prescribe.
 
@@ -70,7 +70,7 @@ State.—The term “State” includes the District of Columbia.
 
 &emsp;(9)
 
-Qualified long-term care insurance contract.—The term “qualified long-termcare insurance contract” has the meaning given such term by section 7702B of the Internal Revenue Code of 1986.
+Qualified long-term care insurance contract.—The term “qualified long-term care insurance contract” has the meaning given such term by section 7702B of the Internal Revenue Code of 1986.
 
 &emsp;(10)
 

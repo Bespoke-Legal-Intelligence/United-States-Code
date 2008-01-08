@@ -28,7 +28,7 @@ No renewal of an existing station license in the broadcast or the common carrier
 
 #### (e) Operation of certain radio stations without individual licenses
 
-(1) Notwithstanding any license requirement established in this chapter, if the Commission determines that such authorization serves the public interest, convenience, and necessity, the Commission may by rule authorize the operation of radio stations without individual licenses in the following radio services: (A) the citizens band radio service; (B) the radio control service; (C) the aviation radio service for aircraft stations operated on domestic flights whensuch aircraft are not otherwise required to carry a radio station; and (D) the maritime radio service for ship stations navigated on domestic voyages when such ships are not otherwise required to carry a radio station.
+(1) Notwithstanding any license requirement established in this chapter, if the Commission determines that such authorization serves the public interest, convenience, and necessity, the Commission may by rule authorize the operation of radio stations without individual licenses in the following radio services: (A) the citizens band radio service; (B) the radio control service; (C) the aviation radio service for aircraft stations operated on domestic flights when such aircraft are not otherwise required to carry a radio station; and (D) the maritime radio service for ship stations navigated on domestic voyages when such ships are not otherwise required to carry a radio station.
 
 (2) Any radio station operator who is authorized by the Commission to operate without an individual license shall comply with all other provisions of this chapter and with rules prescribed by the Commission under this chapter.
 
@@ -42,7 +42,7 @@ Notwithstanding any other provision of law, (1) any holder of a broadcast licens
 
 #### Amendments
 
-2004—Subsec. (c)(3). Pub. L. 108–447, §213(1), substituted “any administrative or judicial hearing” for “any hearing” and inserted “or section 402” after “section 405”.
+2004—Subsec. (c)(3). Pub. L. 108–447, §213(1), substituted “any administrative or judicial hearing” for“any hearing” and inserted “or section 402” after “section 405”.
 
 Subsec. (f). Pub. L. 108–447, §213(2), added subsec. (f).
 

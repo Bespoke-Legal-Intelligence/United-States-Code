@@ -10,7 +10,7 @@ Prohibition.—A subsidy may not be awarded or paid to a contractor under the op
 
 (b)
 
-Waiver.—A person may apply to the Secretary of Transportation for a waiver of subsection (a). Before deciding on the waiver, the Secretary shall give the applicant and other interested persons an opportunity for a hearing.The Secretary may not grant the waiver if the Secretary finds it would—
+Waiver.—A person may apply to the Secretary of Transportation for a waiver of subsection (a). Before deciding on the waiver, the Secretary shall give the applicant and other interested persons an opportunity for a hearing. The Secretary may not grant the waiver if the Secretary finds it would—
 
 &emsp;(1) result in unfair competition to a person operating exclusively in the domestic intercoastal or coastwise service; or
 

@@ -18,7 +18,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) Nonimmigrant status violators
 
-&emsp;&emsp;&emsp;Any alien who was admitted as a nonimmigrant and who has failed to maintain the nonimmigrant status in which the alien was admitted or to which it was changed under section 1258 of this title, or to comply with the conditions of any such status, is deportable.
+&emsp;&emsp;&emsp;Any alien who was admitted as a nonimmigrant and who has failed to maintain the nonimmigrant status in which thealien was admitted or to which it was changed under section 1258 of this title, or to comply with the conditions of any such status, is deportable.
 
 #### (ii) Violators of conditions of entry
 
@@ -28,7 +28,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any alien with permanent resident status on a conditional basis under section 1186a of this title (relating to conditional permanent resident status for certain alien spouses and sons and daughters) orunder section 1186b of this title (relating to conditional permanent resident status for certain alien entrepreneurs, spouses, and children) who has had such status terminated under such respective section is deportable.
+&emsp;&emsp;&emsp;Any alien with permanent resident status on a conditional basis under section 1186a of this title (relating to conditional permanent resident status for certain alien spouses and sons and daughters) or under section 1186b of this title (relating to conditional permanent resident status for certain alien entrepreneurs, spouses, and children) who has had such status terminated under such respective section is deportable.
 
 #### (ii) Exception
 
@@ -78,7 +78,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;&emsp;Any alien who—
 
-&emsp;&emsp;&emsp;&emsp;(I) is convicted of a crime involving moral turpitude committed within five years (or 10 years in the case of an alien provided lawful permanent resident status under section 1255(j) of this title) after the date of admission, and
+&emsp;&emsp;&emsp;&emsp;(I) is convicted of a crime involving moral turpitude committed within fiveyears (or 10 years in the case of an alien provided lawful permanent resident status under section 1255(j) of this title) after the date of admission, and
 
 &emsp;&emsp;&emsp;&emsp;(II) is convicted of a crime for which a sentence of one year or longer may be imposed,
 
@@ -228,7 +228,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (B) Exception
 
-&emsp;&emsp;In the case of an alien who voted in a Federal, State, or local election (including an initiative, recall, or referendum) in violation of a lawful restriction of voting to citizens, if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of such violation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such violation.
+&emsp;&emsp;In the case of an alien who voted in a Federal, State, or local election (including an initiative, recall, or referendum) in violation of a lawful restriction of voting to citizens, if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of such violation that he or she was a citizen, the alien shallnot be considered to be deportable under any provision of this subsection based on such violation.
 
 #### (7) Waiver for victims of domestic violence
 
@@ -450,7 +450,7 @@ Subsec. (a)(20). Pub. L. 99–603 added par. (20).
 
 Subsec. (g). Pub. L. 99–639, §2(b)(2), added subsec. (g).
 
-1981—Subsec. (f). Pub. L. 97–116 designated existing provision as par. (1)(A), substituted provision authorizing discretionary waiver of deportation based on visa fraud or misrepresentation in the case of an alien, other than an alien described in subsec. (a)(19) of this section, who is the spouse, parent, or child of a citizen of the United States or of an alien lawfully admitted to the United States for permanent residence and who was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such entry except for those grounds specified in section 1182(a)(14), (20), and (21) of this title which were a direct result of that fraud or misrepresentation, with relief available to those who have made innocent, as well as fraudulent, misrepresentations, for provision requiring mandatory waiver of deportation based on visa fraud or misrepresentation at the time of entry in the case of an alien who is the spouse, parent, or child of a United States citizen or of an alien lawfully admitted for permanent residence who is otherwise admissible, and added pars. (1)(B) and (2).
+1981—Subsec. (f). Pub. L. 97–116 designated existing provision as par. (1)(A), substituted provision authorizing discretionary waiver of deportation based on visa fraud or misrepresentation in the case of an alien, other than an alien described in subsec. (a)(19) of this section, who is the spouse, parent, or child of a citizenof the United States or of an alien lawfully admitted to the United States for permanent residence and who was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such entry except for those grounds specified in section 1182(a)(14), (20), and (21) of this title which were a direct result of that fraud or misrepresentation, with relief available to those who have made innocent, as well as fraudulent, misrepresentations, for provision requiring mandatory waiver of deportation based on visa fraud or misrepresentation at the time of entry in the case of an alien who is the spouse, parent, or child of a United States citizen or of an alien lawfully admitted for permanent residence who is otherwise admissible, and added pars. (1)(B) and (2).
 
 1978—Subsec. (a)(19). Pub. L. 95–549 added par. (19).
 
@@ -512,7 +512,7 @@ Section 435(b) of Pub. L. 104–132 provided that: “The amendment made by subs
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 203(b) of Pub. L. 103–416 applicable to convictions occurring before, on, or after Oct. 25, 1994, see section 203(c) of Pub. L. 103–416, set out as an Effective and Termination Dates of 1994 Amendments note under section 1182 of this title.
+Amendment by section 203(b) of Pub. L. 103–416 applicable to convictions occurring before, on, or after Oct. 25, 1994, see section 203(c) of Pub. L. 103–416, set out asan Effective and Termination Dates of 1994 Amendments note under section 1182 of this title.
 
 Amendment by section 219(g) of Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 

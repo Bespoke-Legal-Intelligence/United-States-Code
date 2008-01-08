@@ -24,7 +24,7 @@
 
 Any credit allowed by subsection (a) for any amount withheld under section 3406 shall be allowed for the taxable year of the recipient of the income in which the income is received.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 12; Pub. L. 94–455, title XIX, §1906(b)(13)(D), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §§302(a), 308(a),Sept. 3, 1982, 96 Stat. 585, 591; Pub. L. 97–354, §3(i)(4), Oct. 19, 1982, 96 Stat. 1691; Pub. L. 97–448, title III, §306(b)(1), Jan. 12, 1983, 96 Stat. 2405; Pub. L. 98–67, title I, §§102(a), 104(d)(2), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–369, div. A, title IV, §471(c), title VII, §714(j)(2), July 18, 1984, 98 Stat. 826, 962.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 12; Pub. L. 94–455, title XIX, §1906(b)(13)(D), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §§302(a), 308(a), Sept. 3, 1982, 96 Stat. 585, 591; Pub. L. 97–354, §3(i)(4), Oct. 19, 1982, 96 Stat. 1691; Pub. L. 97–448, title III, §306(b)(1), Jan. 12, 1983, 96 Stat. 2405; Pub. L. 98–67, title I, §§102(a), 104(d)(2), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–369, div. A, title IV, §471(c), title VII, §714(j)(2), July 18, 1984, 98 Stat. 826, 962.)
 
 #### Amendments
 

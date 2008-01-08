@@ -24,7 +24,7 @@ Authority of the Secretary.—The Secretary is authorized to use funds appropria
 
 (b)
 
-Drugs and Driver Behavior.—In addition to the research authorized by subsection (a), theSecretary, in consultation with other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
+Drugs and Driver Behavior.—In addition to the research authorized by subsection (a), the Secretary, in consultation with other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
 
 &emsp;(1) The relationship between the consumption and use of drugs and their effect upon highway safety and drivers of motor vehicles.
 
@@ -86,7 +86,7 @@ Subsec. (g). Pub. L. 109–59, §2003(b), added subsec. (g).
 
 Subsec. (b)(3), (4). Pub. L. 105–178, §2002(b)(1), added pars. (3) and (4).
 
-1991—Subsec. (a). Pub. L. 102–240, §2003(a), added subsec. (a) and struck out former subsec. (a) which read asfollows: “The Secretary is authorized to use funds appropriated to carry out this subsection to carry out safety research which he is authorized to conduct by subsection (a) of section 307 of this title. In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel, (2) research fellowships in highway safety, (3) development of improved accident investigation procedures, (4) emergency service plans, (5) demonstration projects, and (6) related activities which the Secretary deems will promote the purposes of this section. The Secretary shall assure that no fees are charged for any meetings or services attendant thereto or other activities relating to training and education of highway safety personnel.”
+1991—Subsec. (a). Pub. L. 102–240, §2003(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary is authorized to use funds appropriated to carry out this subsection to carry out safety research which he is authorized to conduct by subsection (a) of section 307 of this title. In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel, (2) research fellowships in highway safety, (3) development of improved accident investigation procedures, (4) emergency service plans, (5) demonstration projects, and (6) related activities which the Secretary deems will promote the purposes of this section. The Secretary shall assure that no fees are charged for any meetings or services attendant thereto or other activities relating to training and education of highway safety personnel.”
 
 Subsec. (b). Pub. L. 102–240, §2003(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary, in consultation with such other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
 
@@ -126,7 +126,7 @@ Pub. L. 109–59, title II, §2013, Aug. 10, 2005, 119 Stat. 1539, provided that
 
 “(a)
 
-Illicit Drug.—In this section, the term ‘illicit drug’ includes substances listed in schedules I through V of section 112(e) \[202(c)\] of the Controlled Substances Act (21 U.S.C. 812) not obtained by a legal and valid prescription.
+Illicit Drug.—In this section, the term ‘illicit drug’ includes substances listed in schedules I throughV of section 112(e) \[202(c)\] of the Controlled Substances Act (21 U.S.C. 812) not obtained by a legal and valid prescription.
 
 “(b)
 
@@ -396,7 +396,7 @@ Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub
 
 #### Appropriations Authorizations
 
-Section 208(b) of Pub. L. 93–87 provided that: “There is authorized to be appropriated to carry out theamendments made by this section \[amending this section\] by the National Highway Traffic Safety Administration, out of the Highway Trust Fund, the sum of $10,000,000 per fiscal year for each of the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976.”
+Section 208(b) of Pub. L. 93–87 provided that: “There is authorized to be appropriated to carry out the amendments made by this section \[amending this section\] by the National Highway Traffic Safety Administration, out of the Highway Trust Fund, the sum of $10,000,000 per fiscal year for each of the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976.”
 
 Section 226(b) of Pub. L. 93–87 provided that: “For the purpose of carrying out the amendment made by subsection (a) of this section \[amending this section\], there is authorized to be appropriated $10,000,000 out of the Highway Trust Fund.”
 

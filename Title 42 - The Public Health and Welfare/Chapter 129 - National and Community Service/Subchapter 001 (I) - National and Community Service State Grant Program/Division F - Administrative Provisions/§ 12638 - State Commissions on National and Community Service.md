@@ -54,7 +54,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (3) Corporation representative
 
-&emsp;The representative of the Corporation designated under section 12651f(c) of this title for a State shall be an ex officio nonvoting member of the State Commission or alternative administrative entity for that State, unless the State permits the representative to serve as avoting member of the State Commission or alternative administrative entity.
+&emsp;The representative of the Corporation designated under section 12651f(c) of this title for a State shall be an ex officio nonvoting member of the State Commission or alternative administrative entity for that State, unless the State permits the representative to serve as a voting member of the State Commission or alternative administrative entity.
 
 #### (4) Ex officio State representatives
 
@@ -258,7 +258,7 @@ The Community Services Block Grant Act, referred to in subsec. (i)(1), is subtit
 
 #### Prior Provisions
 
-A prior section 12638, Pub. L. 101–610, title I, §178, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–10, §8(1), Mar. 12, 1991, 105 Stat. 31, provided that States applying for assistance under this subchapter be encouraged to establish a State Advisory Board for National and Community Service and set out additional provisions for membership and duties of such boards, prior to repeal by Pub. L. 103–82, §201(a).
+A prior section 12638, Pub. L. 101–610, title I, §178, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–10, §8(1), Mar. 12,1991, 105 Stat. 31, provided that States applying for assistance under this subchapter be encouraged to establish a State Advisory Board for National and Community Service and set out additional provisions for membership and duties of such boards, prior to repeal by Pub. L. 103–82, §201(a).
 
 #### Amendments
 
@@ -278,7 +278,7 @@ Section 201(d) of Pub. L. 103–82 provided that:
 
 “(1)
 
-Use of alternatives to state commission.—If a State does not have a State Commission on National and Community Service that satisfies the requirements specified in section 178 of the National and CommunityService Act of 1990 \[42 U.S.C. 12638\], as amended by subsection (a), the Corporation for National and Community Service may authorize the chief executive officer of the State to use an existing agency of the State to perform the duties otherwise reserved to a State Commission under subsection (e) of such section.
+Use of alternatives to state commission.—If a State does not have a State Commission on National and Community Service that satisfies the requirements specified in section 178 of the National and Community Service Act of 1990 \[42 U.S.C. 12638\], as amended by subsection (a), the Corporation for National and Community Service may authorize the chief executive officer of the State to use an existing agency of the State to perform the duties otherwise reserved to a State Commission under subsection (e) of such section.
 
 “(2)
 

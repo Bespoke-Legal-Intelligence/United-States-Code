@@ -18,5 +18,5 @@ Annual report to the Secretary.—The Secretary shall require, as a condition of
 
 “(2)
 
-Biennial reports to the Congress.—The Secretary shall submit biennial reports to the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the use of Federal assistance provided to the Commission and the States under this subtitle. Each biennial report shall evaluate the success of such assistance in implementing this subtitle.”
+Biennial reports to the Congress.—The Secretary shall submit biennial reports to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the use of Federal assistance provided to the Commission and the States under this subtitle. Each biennial report shall evaluate the success of such assistance in implementing this subtitle.”
 

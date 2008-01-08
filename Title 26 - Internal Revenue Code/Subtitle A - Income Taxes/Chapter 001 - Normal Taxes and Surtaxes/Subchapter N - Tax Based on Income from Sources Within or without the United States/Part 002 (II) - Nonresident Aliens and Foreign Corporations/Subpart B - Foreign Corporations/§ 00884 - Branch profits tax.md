@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) income not includible in gross income under paragraph (1) or (2) of section 883(a),
 
-&emsp;&emsp;(B) income treated as effectively connected with the conduct of a trade or business within the United States under section 921(d) or 926(b),<sup>1</sup>
+&emsp;&emsp;(B) income treated as effectively connected with the conduct of a trade or business within the United States under section 921(d) or 926(b) (as in effect before their repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000),
 
 &emsp;&emsp;(C) gain on the disposition of a United States real property interest described in section 897(c)(1)(A)(ii),
 
@@ -208,17 +208,19 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalent amount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer's U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 99–514, title XII, §1241(a), Oct. 22, 1986, 100 Stat. 2576; amended Pub. L. 100–647, title I, §1012(q)(1)(A), (2)–(6), (14), title VI, §6133(b), Nov. 10, 1988, 102 Stat. 3522–3525, 3721; Pub. L. 104–188, title I, §1704(f)(3)(A), Aug. 20, 1996, 110 Stat. 1879.)
+(Added Pub. L. 99–514, title XII, §1241(a), Oct. 22, 1986, 100 Stat. 2576; amended Pub. L. 100–647, title I, §1012(q)(1)(A), (2)–(6), (14), title VI, §6133(b), Nov. 10, 1988, 102 Stat. 3522–3525, 3721; Pub. L. 104–188, title I, §1704(f)(3)(A), Aug. 20, 1996, 110Stat. 1879; Pub. L. 110–172, §11(g)(8), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### References in Text
 
-Sections 921 and 926, referred to in subsec. (d)(2)(B), were repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
+The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (d)(2)(B), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 1 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 884 was renumbered section 885 of this title.
 
 #### Amendments
+
+2007—Subsec. (d)(2)(B). Pub. L. 110–172 inserted “(as in effect before their repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” before comma at end.
 
 1996—Subsec. (f)(1). Pub. L. 104–188, §1704(f)(3)(A)(ii), substituted “reasonably expected to be allocable interest” for “reasonably expected to be deductible under section 882 in computing the effectively connected taxable income of such foreign corporation” in closing provisions.
 
@@ -284,7 +286,5 @@ Section 1012(q)(1)(B) of Pub. L. 100–647, as amended by Pub. L. 101–239, tit
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1241(a) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+For nonapplication of amendment by section 1241(a) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

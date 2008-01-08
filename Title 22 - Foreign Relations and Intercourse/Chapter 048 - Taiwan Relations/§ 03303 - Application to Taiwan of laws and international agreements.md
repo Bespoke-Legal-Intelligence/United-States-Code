@@ -14,7 +14,7 @@ The application of subsection (a) of this section shall include, but shall not b
 
 &emsp;(3)(A) The absence of diplomatic relations and recognition with respect to Taiwan shall not abrogate, infringe, modify, deny, or otherwise affect in any way any rights or obligations (including but not limited to those involving contracts, debts, or property interests of any kind) under the laws of the United States heretofore or hereafter acquired by or with respect to Taiwan.
 
-&emsp;(B) For all purposes under the laws of the United States, including actions in any court in the United States, recognition of the People's Republic of China shall not affect in any way the ownership of or other rights or interests in properties, tangible and intangible, and other things of value, owned or held on or prior to December 31, 1978, or thereafter acquired or earned by the governing authorities on Taiwan.
+&emsp;(B) For all purposes under the laws of the United States, including actions in any courtin the United States, recognition of the People's Republic of China shall not affect in any way the ownership of or other rights or interests in properties, tangible and intangible, and other things of value, owned or held on or prior to December 31, 1978, or thereafter acquired or earned by the governing authorities on Taiwan.
 
 &emsp;(4) Whenever the application of the laws of the United States depends upon the law that is or was applicable on Taiwan or compliance therewith, the law applied by the people on Taiwan shall be considered the applicable law for that purpose.
 

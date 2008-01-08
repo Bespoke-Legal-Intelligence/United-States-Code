@@ -92,7 +92,7 @@ Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub.
 
 #### Weatherization Assistance Grants Cost Sharing
 
-Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 976, provided in part: “That, hereafter, Indian tribal direct grantees of weatherization assistance shall not be required to provide matching funds.”
+Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 976, provided in part: “That, hereafter, Indian tribal directgrantees of weatherization assistance shall not be required to provide matching funds.”
 
 Provisions of Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–180, which provided that sums appropriated for weatherization assistance grants were to be contingent on a cost share of 25 percent by each participating State or other qualified participant, were repealed by Pub. L. 106–469, title VI, §601(a), Nov. 9, 2000, 114 Stat. 2040.
 

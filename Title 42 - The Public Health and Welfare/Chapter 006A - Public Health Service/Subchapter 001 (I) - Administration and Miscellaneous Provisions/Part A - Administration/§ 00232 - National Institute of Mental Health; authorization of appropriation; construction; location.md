@@ -6,7 +6,7 @@ There is authorized to be appropriated a sum not to exceed $7,500,000 for the er
 
 #### References in Text
 
-This Act, referred to in text, is act July 3, 1946, ch. 538, 60 Stat. 421, as amended, known as the National Mental Health Act, which enacted sections 232 and 242a of this title, amended sections 201, 209, 210, 215, 218, 219, 241, 244, and 246 of this title, and enacted provisions set out as notes under section 201 of this title. For complete classification of this Act to the Code, see Short Title of 1946 Amendment note set out under section 201 of this title and Tables.
+This Act, referred to in text, is act July 3, 1946, ch. 538, 60 Stat. 421, as amended, known as the NationalMental Health Act, which enacted sections 232 and 242a of this title, amended sections 201, 209, 210, 215, 218, 219, 241, 244, and 246 of this title, and enacted provisions set out as notes under section 201 of this title. For complete classification of this Act to the Code, see Short Title of 1946 Amendment note set out under section 201 of this title and Tables.
 
 #### Codification
 
@@ -14,7 +14,7 @@ Section was enacted as a part of the National Mental Health Act, and not as a pa
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg.Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, §2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 

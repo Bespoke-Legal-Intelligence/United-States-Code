@@ -20,7 +20,7 @@ If the taxpayer has gain from a constructive ownership transaction with respect 
 
 #### (3) Applicable Federal rate
 
-&emsp;For purposes of paragraph (2), the applicable Federal rate is the applicable Federal rate determined under section 1274(d) (compoundedsemiannually) which would apply to a debt instrument with a term equal to the period the transaction was open.
+&emsp;For purposes of paragraph (2), the applicable Federal rate is the applicable Federal rate determined under section 1274(d) (compounded semiannually) which would apply to a debt instrument with a term equal to the period the transaction was open.
 
 #### (4) No credits against increase in tax
 
@@ -62,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;(F) a common trust fund,
 
-&emsp;&emsp;(G) a passive foreign investment company (as defined in section 1297 without regard to subsection (e) thereof),<sup>1</sup>
+&emsp;&emsp;(G) a passive foreign investment company (as defined in section 1297 without regard to subsection (d) thereof), and
 
 &emsp;&emsp;(H) a REMIC.
 
@@ -114,15 +114,17 @@ Except as provided in regulations prescribed by the Secretary, if a constructive
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations—
 
 &emsp;(1) to permit taxpayers to mark to market constructive ownership transactions in lieu of applying this section, and
 
 &emsp;(2) to exclude certain forward contracts which do not convey substantially all of the economic return with respect to a financial asset.
 
-(Added Pub. L. 106–170, title V, §534(a), Dec. 17, 1999, 113 Stat. 1931; amended Pub. L. 108–357, title IV, §413(c)(23), Oct. 22, 2004, 118 Stat. 1509.)
+(Added Pub. L. 106–170, title V, §534(a), Dec. 17, 1999, 113 Stat. 1931; amended Pub. L. 108–357, title IV, §413(c)(23), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 110–172, §11(a)(23), (24)(B), Dec. 29, 2007, 121 Stat. 2486.)
 
 #### Amendments
+
+2007—Subsec. (c)(2)(G). Pub. L. 110–172 substituted “subsection (d)” for “subsection (e)” and inserted “and” at end.
 
 2004—Subsec. (c)(2)(H) to (J). Pub. L. 108–357 redesignated subpar. (J) as (H) and struck out former subpars. (H) and (I), which included foreign personal holding company and foreign investment company (as defined in section 1246(b)) within definition of “pass-thru entity”.
 

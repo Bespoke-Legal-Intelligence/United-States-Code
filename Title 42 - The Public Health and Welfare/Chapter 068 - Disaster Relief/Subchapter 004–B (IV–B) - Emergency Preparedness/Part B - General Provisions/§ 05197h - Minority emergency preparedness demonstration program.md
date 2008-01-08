@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall establish a minority emergency preparedness demonstration program toresearch and promote the capacity of minority communities to provide data, information, and awareness education by providing grants to or executing contracts or cooperative agreements with eligible nonprofit organizations to establish and conduct such programs.
+The Director shall establish a minority emergency preparedness demonstration program to research and promote the capacity of minority communities to provide data, information, and awareness education by providing grants to or executing contracts or cooperative agreements with eligible nonprofit organizations to establish and conduct such programs.
 
 #### (b) Activities supported
 

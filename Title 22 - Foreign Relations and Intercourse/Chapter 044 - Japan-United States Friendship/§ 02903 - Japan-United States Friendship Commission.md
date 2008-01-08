@@ -6,7 +6,7 @@ There is established a commission to be known as the Japan-United States Friends
 
 &emsp;(1) the members of the United States Panel of the Joint Committee on United States-Japan Cultural and Educational Cooperation;
 
-&emsp;(2) two Members of the House of Representatives, to be appointed at the beginning of each Congress or upon the occurrence of a vacancy during a Congress by the Speaker of the House of Representatives;
+&emsp;(2) two Members of the House of Representatives, to be appointed at the beginning of eachCongress or upon the occurrence of a vacancy during a Congress by the Speaker of the House of Representatives;
 
 &emsp;(3) two Members of the Senate, to be appointed at the beginning of each Congress or upon the occurrence of a vacancy during a Congress by the President pro tempore of the Senate;
 

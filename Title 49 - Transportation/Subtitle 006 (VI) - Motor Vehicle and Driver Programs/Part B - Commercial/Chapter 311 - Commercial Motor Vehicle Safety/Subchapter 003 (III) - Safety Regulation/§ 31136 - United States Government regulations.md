@@ -14,7 +14,7 @@ Minimum Safety Standards.—Subject to section 30103(a) of this title, the Secre
 
 (b)
 
-Eliminating and Amending Existing Regulations.—The Secretary may not eliminate or amend an existing motor carrier safety regulation related only to the maintenance, equipment, loading, or operation (including routing) of vehicles carrying material found to be hazardous under section 5103 of this title until an equivalent or more stringent regulation has been prescribed under section 5103.
+Eliminating and Amending Existing Regulations.—The Secretary may not eliminate oramend an existing motor carrier safety regulation related only to the maintenance, equipment, loading, or operation (including routing) of vehicles carrying material found to be hazardous under section 5103 of this title until an equivalent or more stringent regulation has been prescribed under section 5103.
 
 (c)
 
@@ -28,7 +28,7 @@ Procedures and Considerations.—(1) A regulation under this section shall be pr
 
 (d)
 
-Effect of Existing Regulations.—If the Secretary does not prescribe regulations on commercial motor vehicle safety under this section, regulations on commercial motor vehicle safety prescribed by the Secretary before October 30, 1984, and in effect on October 30, 1984,shall be deemed in this subchapter to be regulations prescribed by the Secretary under this section.
+Effect of Existing Regulations.—If the Secretary does not prescribe regulations on commercial motor vehicle safety under this section, regulations on commercial motor vehicle safety prescribed by the Secretary before October 30, 1984, and in effect on October 30, 1984, shall be deemed in this subchapter to be regulations prescribed by the Secretary under this section.
 
 (e)
 
@@ -124,7 +124,7 @@ Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that
 
 #### Interstate Van Operations
 
-Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: “The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled.”
+Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: “The Federal motor carrier safetyregulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled.”
 
 #### Authority To Promulgate Safety Standards for Retrofitting
 
@@ -140,7 +140,7 @@ Exemptions.—
 
 &emsp;“(1)
 
-Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 \[of title 49, United States Code\] regarding maximum driving and on-duty time for drivers usedby motor carriers shall not apply during planting and harvest periods, as determined by each State, to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of the commodities or the distribution point for the farm supplies.
+Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 \[of title 49, United States Code\] regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of the commodities or the distribution point for the farm supplies.
 
 &emsp;“(2)
 
@@ -208,7 +208,7 @@ Utility service vehicle.—The term ‘utility service vehicle’ means any comm
 
 &emsp;&emsp;“(A) used in the furtherance of repairing, maintaining, or operating any structures or any other physical facilities necessary for the delivery of public utility services, including the furnishing of electric, gas, water, sanitary sewer, telephone, and television cable or community antenna service;
 
-&emsp;&emsp;“(B) while engaged in any activity necessarily related to the ultimate delivery of such public utility services to consumers, including travel or movement to, from, upon, or between activity sites (including occasional travel or movement outside the service area necessitated by any utility emergency as determined by the utility provider); and
+&emsp;&emsp;“(B) while engaged in any activity necessarily related to the ultimate delivery of such public utilityservices to consumers, including travel or movement to, from, upon, or between activity sites (including occasional travel or movement outside the service area necessitated by any utility emergency as determined by the utility provider); and
 
 &emsp;&emsp;“(C) except for any occasional emergency use, operated primarily within the service area of a utility's subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility.
 
@@ -226,7 +226,7 @@ Emergency Condition Requiring Immediate Response.—
 
 &emsp;“(1)
 
-Propane or pipeline emergency.—A regulation prescribed under section 31136 or 31502 of title 49,United States Code, shall not apply to a driver of a commercial motor vehicle which is used primarily in the transportation of propane winter heating fuel or a driver of a motor vehicle used to respond to a pipeline emergency if such regulations would prevent the driver from responding to an emergency condition requiring immediate response.
+Propane or pipeline emergency.—A regulation prescribed under section 31136 or 31502 of title 49, United States Code, shall not apply to a driver of a commercial motor vehicle which is used primarily in the transportation of propane winter heating fuel or a driver of a motor vehicle used to respond to a pipeline emergency if such regulations would prevent the driver from responding to an emergency condition requiring immediate response.
 
 &emsp;“(2)
 
@@ -288,7 +288,7 @@ Approval Criteria.—The Secretary shall select States to participate in the pil
 
 “(c)
 
-Participation in Program.—Upon approval of an application of a State under this section, the Secretaryshall permit the State to participate in the pilot program for an initial period of 15 days during the winter heating season of the State (as determined by the Governor and the Secretary). If, after the last day of such 15-day period, the Secretary finds that a State's continued participation in the program is consistent with this section and has resulted in no significant adverse impact on public safety and is in the public interest, the Secretary shall extend the State's participation in the program for periods of up to 30 additional days during such heating season.
+Participation in Program.—Upon approval of an application of a State under this section, the Secretary shall permit the State to participate in the pilot program for an initial period of 15 days during the winter heating season of the State (as determined by the Governor and the Secretary). If, after the last day of such 15-day period, the Secretary finds that a State's continued participation in the program is consistent with this section and has resulted in no significant adverse impact on public safety and is in the public interest, the Secretary shall extend the State's participation in the program for periods of up to 30 additional days during such heating season.
 
 “(d)
 

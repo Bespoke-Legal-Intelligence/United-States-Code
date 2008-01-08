@@ -378,6 +378,14 @@ Section 405 of Pub. L. 90–77 provided that:
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–157, §1(a), Dec. 26, 2007, 121 Stat. 1831, provided that: “This Act \[enacting section 5317A of this title, amending sections 1114, 1160, 2306, 2408, and 3485 of this title and section 653 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 2306 and 2408 of this title\] may be cited as the ‘Dr. James Allen Veteran Vision Equity Act of 2007’.”
+
+Pub. L. 110–111, §1, Nov. 5, 2007, 121 Stat. 1035, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2007’.”
+
+Pub. L. 110–110, §1, Nov. 5, 2007, 121 Stat. 1031, provided that: “This Act \[enacting section 1720F of this title and provisions set out as a note under section 1720F of this title\] may be cited as the ‘Joshua Omvig Veterans Suicide Prevention Act’.”
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–461, §1(a), Dec. 22, 2006, 120 Stat. 3403, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Benefits, Health Care, and Information Technology Act of 2006’.”
@@ -412,7 +420,7 @@ Pub. L. 108–363, §1, Oct. 25, 2004, 118 Stat. 1705, provided that: “This Ac
 
 #### Short Title of 2003 Amendments
 
-Pub. L. 108–183, §1(a), Dec. 16, 2003, 117 Stat. 2651, provided that: “This Act \[enacting sections 1821, 4113, 5109B, and 7112 of this title and section 657f of Title 15, Commerce and Trade, amending sections 103, 107, 315, 544, 1104, 1112, 1303, 1311, 1322, 1729A, 1804, 1811, 1831, 1834, 1917, 1952, 1974, 2101, 2102, 2303, 2307, 2402, 2408, 3015, 3452, 3462, 3471, 3485, 3512, 3532, 3534, 3542, 3564, 3675, 3687, 3692, 3702, 3729, 3732, 3733, 3902, 4102A, 5101, 5102, 5103, 5121, 5301, 5317, 5318, 6105, and 7723 of this title, repealing sections 3698 and 3699 of this title, enacting provisions set out as notes under sections 103, 107, 1154, 1917, 2102, 2402,3452, 3462, 3485, 3512, 3532, 3698, 3729, 4102A, 4113, 5101, 5102, 5103, 5121, 6105, and 7723 of this title, amending provisions set out as a note under section 103 of this title, and repealing provisions set out as a note under section 5101 of this title\] may be cited as the ‘Veterans Benefits Act of 2003’.”
+Pub. L. 108–183, §1(a), Dec. 16, 2003, 117 Stat. 2651, provided that: “This Act \[enacting sections 1821, 4113, 5109B, and 7112 of this title and section 657f of Title 15, Commerce and Trade, amending sections 103, 107, 315, 544, 1104, 1112, 1303, 1311, 1322, 1729A, 1804, 1811, 1831, 1834, 1917, 1952, 1974, 2101, 2102, 2303, 2307, 2402, 2408, 3015, 3452, 3462, 3471, 3485, 3512, 3532, 3534, 3542, 3564, 3675, 3687, 3692, 3702, 3729, 3732, 3733, 3902, 4102A, 5101, 5102, 5103, 5121, 5301, 5317, 5318, 6105, and 7723 of this title, repealing sections 3698 and 3699 of this title, enacting provisions set out as notes under sections 103, 107, 1154, 1917, 2102, 2402, 3452, 3462, 3485, 3512, 3532, 3698, 3729, 4102A, 4113, 5101, 5102, 5103, 5121, 6105, and 7723 of this title, amending provisions set out as a note under section 103 of this title, and repealing provisions set out as a note under section 5101 of this title\] may be cited as the ‘Veterans Benefits Act of 2003’.”
 
 Pub. L. 108–170, §1(a), Dec. 6, 2003, 117 Stat. 2042, provided that: “This Act \[enacting sections 7307 and 7364A of this title, amending sections 516, 1701, 1710, 1710A, 1712, 1718, 1720, 1722A, 1734, 2041, 2065, 7303, 7316, 7321, 7366, 7368, 7401 to 7405, 7409, 7421, 7454, 7802, 8104, 8107, 8121, 8153, and 8163 to 8165 of this title and section 1680f of Title 25, Indians, enacting provisions set out as notes under sections 7316, 7401, 7454, and 8121 of this title and section 1680f of Title 25, and amending provisions set out as notes under sections 1710B and 1712A of this title\] may be cited as the ‘Veterans Health Care, Capital Asset, and Business Improvement Act of 2003’.”
 
@@ -462,7 +470,7 @@ Pub. L. 106–117, title X, §1001, Nov. 30, 1999, 113 Stat. 1587, provided that
 
 Pub. L. 105–368, §1(a), Nov. 11, 1998, 112 Stat. 3315, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Programs Enhancement Act of 1998’.”
 
-Pub. L. 105–368, title VIII, §801, Nov. 11, 1998, 112 Stat. 3352, provided that: “This title \[enacting sections 7671 to 7676 and 7681 to 7684 of this title, amending sections 7601 to 7604, 7632, and 7636 of this title, and repealingprovisions set out as a note under section 7601 of this title\] may be cited as the ‘Department of Veterans Affairs Health Care Personnel Incentive Act of 1998’.”
+Pub. L. 105–368, title VIII, §801, Nov. 11, 1998, 112 Stat. 3352, provided that: “This title \[enacting sections 7671 to 7676 and 7681 to 7684 of this title, amending sections 7601 to 7604, 7632, and 7636 of this title, and repealing provisions set out as a note under section 7601 of this title\] may be cited as the ‘Department of Veterans Affairs Health Care Personnel Incentive Act of 1998’.”
 
 Pub. L. 105–277, div. C, title XVI, §1601, Oct. 21, 1998, 112 Stat. 2681–742, provided that: “This title \[enacting section 1118 of this title, amending sections 1113 and 1117 of this title, and enacting provisions set out as a note under section 1117 of this title\] may be cited as the ‘Persian Gulf War Veterans Act of 1998’.”
 
@@ -526,7 +534,7 @@ Pub. L. 102–568, §1(a), Oct. 29, 1992, 106 Stat. 4320, provided that: “This
 
 Pub. L. 102–568, title I, §101, Oct. 29, 1992, 106 Stat. 4321, provided that: “This title \[see Tables for classification\] may be cited as the ‘Dependency and Indemnity Compensation Reform Act of 1992’.”
 
-Pub. L. 102–547, §1, Oct. 28, 1992, 106 Stat. 3633, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Home Loan Program Amendments of 1992’.”
+Pub. L. 102–547, §1, Oct. 28, 1992, 106 Stat. 3633, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Veterans Home Loan Program Amendments of 1992’.”
 
 Pub. L. 102–510, §1, Oct. 24, 1992, 106 Stat. 3318, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1992’.”
 
@@ -536,7 +544,7 @@ Pub. L. 102–405, §1(a), Oct. 9, 1992, 106 Stat. 1972, provided that: “This 
 
 Pub. L. 102–152, §1(a), Nov. 12, 1991, 105 Stat. 985, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Compensation Rate Amendments of 1991’.”
 
-Pub. L. 102–127, §1, Oct. 10, 1991, 105 Stat. 619, provided that: “This Act \[see Tables for classification\] may becited as the ‘Veterans’ Educational Assistance Amendments of 1991’.”
+Pub. L. 102–127, §1, Oct. 10, 1991, 105 Stat. 619, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Educational Assistance Amendments of 1991’.”
 
 Section 1(a) of Pub. L. 102–86 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Programs Improvement Act of 1991’.”
 
@@ -796,7 +804,7 @@ Pub. L. 96–22, title IV, §402, June 13, 1979, 93 Stat. 63, authorized Adminis
 
 #### Disability Compensation or Dependency and Indemnity Compensation Award; Effective Date
 
-Section 6(b) of Pub. L. 91–621 provided effective date for an award by Veteran's Administration arising from injury or death occurring prior to Dec. 31, 1970, and based on a claim arising from amendments made to pars. (21)(C) and (25)(F) of this section and section 5305 of this title, prior to repeal by Pub. L. 107–372, title II, §271(3), Dec. 19, 2002, 116 Stat. 3094.
+Section 6(b) of Pub. L. 91–621 provided effective date for an award by Veteran's Administration arising frominjury or death occurring prior to Dec. 31, 1970, and based on a claim arising from amendments made to pars. (21)(C) and (25)(F) of this section and section 5305 of this title, prior to repeal by Pub. L. 107–372, title II, §271(3), Dec. 19, 2002, 116 Stat. 3094.
 
 #### Proc. No. 4373. Terminal Date Respecting Service During Vietnam Era
 
@@ -804,7 +812,7 @@ Proc. No. 4373, May 7, 1975, 40 F.R. 20257, provided:
 
 The Congress has provided that entitlement to certain veterans benefits be limited to persons serving in the Armed Forces during the period, beginning August 5, 1964, referred to as the Vietnam era. The President is authorized to determine the last day on which a person must have entered the active military, naval, or air service during that period.
 
-The signing of the cease-fire agreements and implementing protocols on January 27, 1973, between theUnited States of America and the Republic of Vietnam, on the one hand, and the Democratic Republic of Vietnam and the Provisional Revolutionary Government of the Republic of South Vietnam on the other hand, has terminated active participation by the Armed Forces of the United States in the Vietnam conflict.
+The signing of the cease-fire agreements and implementing protocols on January 27, 1973, between the United States of America and the Republic of Vietnam, on the one hand, and the Democratic Republic of Vietnam and the Provisional Revolutionary Government of the Republic of South Vietnam on the other hand, has terminated active participation by the Armed Forces of the United States in the Vietnam conflict.
 
 NOW, THEREFORE, I, GERALD R. FORD, President of the United States of America, by virtue of the authority vested in me by Section 101(29) of Title 38 of the United States Code, do hereby proclaim, for the purposes of said Section 101(29), that May 7, 1975, is designated as the last day of the “Vietnam era.”
 

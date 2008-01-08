@@ -24,7 +24,7 @@ Within six months after October 31, 1994, the Secretary shall send to the Commis
 
 #### (c) Disposal of surplus Federal property
 
-(1) Effective upon October 31, 1994, and until all State School lands identified in paragraph (b)(1) of this section are acquired, no Federal lands or interests therein within the State of California may be disposed of from Federal ownership unless—
+(1) Effective upon October 31, 1994, and until all State School lands identified in paragraph\(b)(1) of this section are acquired, no Federal lands or interests therein within the State of California may be disposed of from Federal ownership unless—
 
 &emsp;(A) the Secretary is notified of the availability of such lands or interest therein;
 
@@ -53,8 +53,4 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2
 The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (d), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of Title 10 and Tables.
 
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which amended section 2687 of Title 10 and enacted provisions set out as a note under section 2687 of Title 10.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -106,7 +106,7 @@ Amendment by Pub. L. 95–600 applicable to payments made after Dec. 31, 1978, s
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–834 applicable to payments of dividends and interest made on or after Jan. 1, 1963,and to payments of amounts described in section 6044(b) of this title made on or after Jan. 1, 1963. with respect to patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after Jan. 1, 1963, see section 19(h) of Pub. L. 87–834, set out as a note under section 6042 of this title.
+Amendment by Pub. L. 87–834 applicable to payments of dividends and interest made on or after Jan. 1, 1963, and to payments of amounts described in section 6044(b) of this title made on or after Jan. 1, 1963. with respect to patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after Jan. 1, 1963, see section 19(h) of Pub. L. 87–834, set out as a note under section 6042 of this title.
 
 #### Allowance of Electronic 1099's
 

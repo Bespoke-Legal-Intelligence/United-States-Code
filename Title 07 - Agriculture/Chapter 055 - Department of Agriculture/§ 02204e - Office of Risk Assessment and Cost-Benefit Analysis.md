@@ -16,7 +16,7 @@ The Director shall ensure that any regulatory analysis that is conducted under t
 
 &emsp;&emsp;(B) the costs associated with the implementation of, and compliance with, the regulation;
 
-&emsp;&emsp;(C) where appropriate and meaningful, a comparison of that risk relative to other similar risks regulated by the Department or other Federal Agency, resulting from comparable activities and exposure pathways (such comparisons should consider relevant distinctions among risks, such as the voluntary or involuntary nature of risks and the preventability or nonpreventability of risks); and
+&emsp;&emsp;(C) where appropriate and meaningful, a comparison of that risk relative to othersimilar risks regulated by the Department or other Federal Agency, resulting from comparable activities and exposure pathways (such comparisons should consider relevant distinctions among risks, such as the voluntary or involuntary nature of risks and the preventability or nonpreventability of risks); and
 
 &emsp;&emsp;(D) the quantitative and qualitative benefits of the regulation, including the reduction or prevention of risk expected from the regulation.
 

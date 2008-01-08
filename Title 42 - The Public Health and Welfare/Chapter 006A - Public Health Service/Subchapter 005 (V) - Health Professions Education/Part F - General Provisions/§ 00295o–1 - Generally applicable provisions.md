@@ -56,7 +56,7 @@ Training programs conducted with amounts received under this subchapter shall me
 
 #### (g) Preference or priority considerations
 
-In considering a preference or priority for funding which is based on outcome measures foran eligible entity under this subchapter, the Secretary may also consider the future ability of the eligible entity to meet the outcome preference or priority through improvements in the eligible entity's program design.
+In considering a preference or priority for funding which is based on outcome measures for an eligible entity under this subchapter, the Secretary may also consider the future ability of the eligible entity to meet the outcome preference or priority through improvements in the eligible entity's program design.
 
 #### (h) Analytic activities
 

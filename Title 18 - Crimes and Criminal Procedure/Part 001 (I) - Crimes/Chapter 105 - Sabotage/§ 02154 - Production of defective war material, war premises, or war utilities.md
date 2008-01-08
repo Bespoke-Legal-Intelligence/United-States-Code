@@ -20,7 +20,7 @@ Minor changes were made in phraseology.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1954—Act Sept. 3, 1954, made section applicable in time of national emergency, and enlarged its scope bybringing “war premises, or war utilities” within jurisdiction of section.
+1954—Act Sept. 3, 1954, made section applicable in time of national emergency, and enlarged its scope by bringing “war premises, or war utilities” within jurisdiction of section.
 
 1953—Subsec. (a). Act June 30, 1953, inserted “or defense activities” after “carrying on the war”.
 

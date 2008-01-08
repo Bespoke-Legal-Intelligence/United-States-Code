@@ -20,7 +20,7 @@ Subsec. (b). Pub. L. 94–502, §310(16), substituted “the person's” for “
 
 1972—Subsec. (a). Pub. L. 92–540, §312(1), inserted provision requiring the Administrator to pay in accordance with the provisions of section 1780 of this title.
 
-Subsec. (b). Pub. L. 92–540, §312(2), (3), redesignated subsec. (d) as (b). Former subsec. (b), which provided for the payment of the educational assistance allowance, pursuant to section 1732 of this title, to the eligible person only for a period of his enrollment as approved bythe Administrator subject to certain limitations, was struck out.
+Subsec. (b). Pub. L. 92–540, §312(2), (3), redesignated subsec. (d) as (b). Former subsec. (b), which provided for the payment of the educational assistance allowance, pursuant to section 1732 of this title, to the eligible person only for a period of his enrollment as approved by the Administrator subject to certain limitations, was struck out.
 
 Subsec. (c). Pub. L. 92–540, §312(2), struck out subsec. (c) which authorized the Administrator, pursuant to regulations, to determine enrollment in, pursuit of, and attendance at, any program of education or course by an eligible person.
 

@@ -20,7 +20,7 @@ Penalty for diversion of aviation revenues.—The amount of a civil penalty asse
 
 (4)
 
-Aviation security violations.—Notwithstanding paragraph (1) of this subsection, the maximum civil penalty for violating chapter 449 or another requirement under this title administered by the Under Secretary of Transportation for Security shall be $10,000; except that the maximum civil penalty shall be $25,000 in the case of a person operating an aircraft for the transportation of passengers or property for compensation (except an individual serving as an airman).
+Aviation security violations.—Notwithstanding paragraph (1) of this subsection, the maximum civil penalty for violating chapter 449 shall be $10,000; except that the maximum civil penalty shall be $25,000 in the case of a person operating an aircraft for the transportation of passengers or property for compensation (except an individual serving as an airman).
 
 (5)
 
@@ -28,7 +28,7 @@ Penalties applicable to individuals and small business concerns.—
 
 &emsp;(A) An individual (except an airman serving as an airman) or small business concern is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
-&emsp;&emsp;(i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
+&emsp;&emsp;(i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section44502 (b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
 
 &emsp;&emsp;(ii) a regulation prescribed or order issued under any provision to which clause (i) applies.
 
@@ -44,9 +44,13 @@ Penalties applicable to individuals and small business concerns.—
 
 &emsp;&emsp;(v) a violation of section 40127 or section 41705, relating to discrimination.
 
-&emsp;(C) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section41719 committed by an individual or small business concern shall be $5,000 instead of $1,000.
+&emsp;(C) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41719 committed by an individual or small business concern shall be $5,000 instead of $1,000.
 
 &emsp;(D) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary by an individual or small business concern that is intended to afford consumer protection to commercial air transportation passengers shall be $2,500 for each violation.
+
+(6)
+
+Failure To <sup>1</sup> Collect <sup>1</sup> Airport <sup>1</sup> Security <sup>1</sup> Badges <sup>1</sup>.—Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
 
 (b)
 
@@ -80,7 +84,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723) or section 46301(b), 46302 (for a violation relating to section 46504), 46318, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), 46302 <sup>1</sup> (except for a violation relating to section 46504), 46303,<sup>1</sup> or a regulation prescribed or order issued under such chapter 449. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723) or section 46301(b), 46302 (for a violation relating to section 46504), 46318, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), 46302 <sup>2</sup> (except for a violation relating to section 46504), 46303,<sup>2</sup> or a regulation prescribed or order issued under such chapter 449. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
 
 (3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
@@ -180,7 +184,7 @@ Nonapplication.—(1) This section does not apply to the following when performi
 
 Small Business Concern Defined.—In this section, the term “small business concern” has the meaning given that term in section 3 of the Small Business Act (15 U.S.C. 632).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558; Pub. L. 108–458, title IV, §4027(a), Dec. 17, 2004, 118 Stat. 3727.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558; Pub. L. 108–458, title IV, §4027(a), Dec. 17, 2004, 118 Stat. 3727; Pub. L. 110–53, title XIII, §1302(b), Aug. 3, 2007, 121 Stat. 392; Pub. L. 110–161, div. E, title V, §542, Dec. 26, 2007, 121 Stat. 2079.)
 
 Historical and Revision Notes
 
@@ -358,13 +362,19 @@ This makes a conforming amendment to 49:46301(a)(3).
 
 #### Pub. L. 104–287, §5(77)(D)–(F)
 
-These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the codification enacted by section 1of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1231), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act (Public Law 103–272, 108 Stat. 745), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
+These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1231), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act (Public Law 103–272, 108 Stat. 745), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
 
 #### References in Text
+
+The date of enactment of this paragraph, referred to in subsec. (a)(6), is the date of enactment of Pub. L. 110–161, which was approved Dec. 26, 2007.
 
 The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (d)(4)(A), (8), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+
+2007—Subsec. (a)(4). Pub. L. 110–53 struck out “or another requirement under this title administered by the Under Secretary of Transportation for Security” after “chapter 449”.
+
+Subsec. (a)(6). Pub. L. 110–161 added par. (6).
 
 2004—Subsec. (d)(2). Pub. L. 108–458, §4027(a)(1)–(3), substituted “46302 (for a violation relating to section 46504),” for “46302, 46303,”, “The Secretary of Homeland Security may” for “The Under Secretary of Transportation for Security may”, “44909), 46302 (except for a violation relating to section 46504), 46303,” for “44909)”, and “The Secretary of Homeland Security or” for “The Under Secretary or”.
 
@@ -540,11 +550,13 @@ Amendment by section 207(c) of Pub. L. 103–305 effective Feb. 1, 1995, see sec
 
 #### Savings Provision
 
-Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: “Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[Pub. L. 85–726\] as in effect on July 31, 1992, shall continue in effect on and after such dateof enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment.”
+Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: “Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[Pub. L. 85–726\] as in effect on July 31, 1992, shall continue in effect on and after such date of enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment.”
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

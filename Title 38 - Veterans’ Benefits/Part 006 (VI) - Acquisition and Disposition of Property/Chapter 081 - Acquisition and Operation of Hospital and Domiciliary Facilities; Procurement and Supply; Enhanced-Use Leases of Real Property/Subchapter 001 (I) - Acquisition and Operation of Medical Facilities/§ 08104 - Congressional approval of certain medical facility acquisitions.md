@@ -10,9 +10,9 @@
 
 &emsp;(B) The term “major medical facility lease” means a lease for space for use as a new medical facility at an average annual rental of more than $600,000.
 
-(b) Whenever the President or the Secretary submit to the Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)) or a major medical facility lease (as defined in subsection (a)(3)(B)), theSecretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
+(b) Whenever the President or the Secretary submit to the Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)) or a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
-&emsp;(1) A detailed description of the medical facility to be constructed, altered, leased, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under section 8111 of this title.
+&emsp;(1) A detailed description of the medical facility to be constructed, altered, leased, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with theDepartment of Defense under section 8111 of this title.
 
 &emsp;(2) An estimate of the cost to the United States of the construction, alteration, lease, or other acquisition of such facility (including site costs, if applicable).
 

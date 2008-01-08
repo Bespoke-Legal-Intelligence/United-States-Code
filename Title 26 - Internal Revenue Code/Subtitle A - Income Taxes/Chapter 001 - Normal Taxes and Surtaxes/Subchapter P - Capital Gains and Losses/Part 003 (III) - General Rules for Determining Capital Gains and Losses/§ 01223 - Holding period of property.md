@@ -42,11 +42,11 @@ For purposes of this subtitle—
 
 &emsp;(11) In determining the period for which the taxpayer has held qualified replacement property (within the meaning of section 1042(b)) the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale of qualified securities (within the meaning of section 1042(b)), there shall be included the period for which such qualified securities had been held by the taxpayer.
 
-&emsp;(12) In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1043 in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property had been held as of the date of such sale.
+&emsp;(12) In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1043 in the nonrecognition of any part of the gain realized onthe sale of other property, there shall be included the period for which such other property had been held as of the date of such sale.
 
 &emsp;(13) Except for purposes of sections 1202(a)(2), 1202(c)(2)(A), 1400B(b), and 1400F(b), in determining the period for which the taxpayer has held property the acquisition of which resulted under section 1045 or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property has been held as of the date of such sale.
 
-&emsp;(14) If the security to which a securities futures contract (as defined in section 1234B) relates (other than a contract to which section1256 applies) is acquired in satisfaction of such contract, in determining the period for which the taxpayer has held such security, there shall be included the period for which the taxpayer held such contract if such contract was a capital asset in the hands of the taxpayer.
+&emsp;(14) If the security to which a securities futures contract (as defined in section 1234B) relates (other than a contract to which section 1256 applies) is acquired in satisfaction of such contract, in determining the period for which the taxpayer has held such security, there shall be included the period for which the taxpayer held such contract if such contract was a capital asset in the hands of the taxpayer.
 
 &emsp;(15)
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provisions of the
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 

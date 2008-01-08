@@ -90,7 +90,7 @@ Section 108(d) of Pub. L. 96–364, as amended by Pub. L. 98–369, div. A, titl
 
 &emsp;“(2) subsection (a)(2) of such section shall not apply with respect to any cessation of contribution obligations occurring before September 26, 1980, and
 
-&emsp;“(3) in applying subsection (b) of such section, the employer's contribution base units for any plan year ending before September 26, 1980, shall be deemed tobe equal to the employer's contribution base units for the last plan year ending before such date.”
+&emsp;“(3) in applying subsection (b) of such section, the employer's contribution base units for any plan year ending before September 26, 1980, shall be deemed to be equal to the employer's contribution base units for the last plan year ending before such date.”
 
 #### Liability of Certain Employers Announcing Publicly Before December 13, 1979, Total Cessation of Covered Operations at a Facility in a State; Amount, Coverage, Determinative Factors, Etc.
 

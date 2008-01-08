@@ -38,7 +38,7 @@ Par. (6). Pub. L. 106–469, §102(2), struck out par. (6) which read as follows
 
 Pub. L. 106–469, §1, Nov. 9, 2000, 114 Stat. 2029, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Energy Act of 2000’.”
 
-Pub. L. 106–469, title I, §101, Nov. 9, 2000, 114 Stat. 2029, provided that: “This title \[amending this section and sections 6231, 6232, 6234, 6239 to 6241, 6245 to 6247, 6249, 6249a, 6251, 6276 and 6285 of this title, repealing sections 6211, 6214, 6233, 6235 to 6238, 6244, 6249b, 6261 to 6264, 6281 and 6282 of this title, and repealing provisions set out as notes under section 2071 of Title 50, Appendix, War and National Defense\] may be cited as the ‘Energy Policy and Conservation Act Amendments of 2000’.”
+Pub. L. 106–469, title I, §101, Nov. 9, 2000, 114 Stat. 2029, provided that: “This title \[amending this section and sections 6231, 6232, 6234, 6239 to 6241, 6245 to 6247, 6249, 6249a, 6251, 6276 and 6285 of this title, repealing sections 6211, 6214, 6233, 6235 to 6238, 6244, 6249b, 6261 to 6264,6281 and 6282 of this title, and repealing provisions set out as notes under section 2071 of Title 50, Appendix, War and National Defense\] may be cited as the ‘Energy Policy and Conservation Act Amendments of 2000’.”
 
 #### Short Title of 1998 Amendment
 
@@ -134,7 +134,7 @@ Exchange.—The term ‘exchange’ means an agreement that—
 
 &emsp;“(4)
 
-Industry trade association.—The term ‘industry trade association’ means an organization described in paragraph (3) or (6) of section 501(c) of theInternal Revenue Code of 1986 \[26 U.S.C. 501(c)(3), (6)\] that is exempt from taxation under section 501(a) of that Code and is organized for the purpose of representing the oilheat industry.
+Industry trade association.—The term ‘industry trade association’ means an organization described in paragraph (3) or (6) of section 501(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3), (6)\] that is exempt from taxation under section 501(a) of that Code and is organized for the purpose of representing the oilheat industry.
 
 &emsp;“(5)
 
@@ -266,7 +266,7 @@ Termination or Suspension.—
 
 &emsp;“(1)
 
-In general.—On the initiative of the Alliance or on petition to the Alliance by retail marketers and wholesale distributors representing 25 percent of the volume of oilheat or weighted No. 1 distillate and No. 2 dyed distillate in each class, the Alliance shall, at its own expense, hold a referendum, to be conducted by an independent auditing firm selected by the Alliance, to determine whether the oilheat industry favors termination or suspension of the Alliance.
+In general.—On the initiative of the Alliance or on petition to the Alliance by retail marketers and wholesale distributors representing 25 percent of the volume of oilheat or weighted No. 1 distillate and No. 2 dyed distillate in each class, the Alliance shall, at its own expense, hold a referendum, to be conductedby an independent auditing firm selected by the Alliance, to determine whether the oilheat industry favors termination or suspension of the Alliance.
 
 &emsp;“(2)
 
@@ -760,7 +760,7 @@ Meritorious case.—In a case in Federal court in which the court grants a publi
 
 &emsp;“(2)
 
-Nonmeritorious case.—In any case under subsection (d) in which the court determines a complaint under subsection (b) to be frivolous and without merit, the prevailing party shall be entitled to recover an attorney's fee.
+Nonmeritorious case.—In any case under subsection (d) in which the court determines a complaintunder subsection (b) to be frivolous and without merit, the prevailing party shall be entitled to recover an attorney's fee.
 
 “(f)
 
@@ -810,7 +810,7 @@ Secs. 7 and 8. Revoked by Ex. Ord. No. 12919, §904(a)(7), June 3, 1994, 59 F.R.
 
 Sec. 9. All orders, regulations, circulars or other directives issued and all other action taken prior to the date of this order that would be valid under the authority delegated by this Order, are hereby confirmed and ratified and shall be deemed to have been issued under this order.
 
-Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretary, shall develop, with the concurrence of the Director of the Office of Management and Budget, and in consultation with the Secretary of Defense, the Secretary of Housing and Urban Development, the Administrator of Veterans’ Affairs, the Administrator of General Services, and the heads of such other Executive agencies as he deems appropriate, the ten-year plan for energy conservation with respect to Government buildings, as provided by section 381(a)(2) of the Energy Policy and Conservation Act (42 U.S.C. 6361(a)(2)).
+Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretary, shall develop, with the concurrence of the Director of the Office of Management and Budget, and in consultation with the Secretary of Defense, the Secretary of Housing and UrbanDevelopment, the Administrator of Veterans’ Affairs, the Administrator of General Services, and the heads of such other Executive agencies as he deems appropriate, the ten-year plan for energy conservation with respect to Government buildings, as provided by section 381(a)(2) of the Energy Policy and Conservation Act (42 U.S.C. 6361(a)(2)).
 
 (2) The goals established in subsection (b) shall apply to the following categories of Federally-owned buildings: (i) office buildings, (ii) hospitals, (iii) schools, (iv) prison facilities, (v) multi-family dwellings, (vi) storage facilities, and (vii) such other categories of buildings for which the Administrator determines the establishment of energy-efficiency performance goals is feasible.
 
@@ -850,9 +850,9 @@ Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretar
 
 #### Executive Order No. 12759
 
-Ex. Ord. No. 12759, Apr. 17, 1991, 56 F.R. 16257, as amended by Ex. Ord. No. 12902, §701, Mar. 8, 1994, 59 F.R. 11471, which provided for minimization of petroleum use in Federal facilities, vehicle fuel efficiency outreach programs, and Federal vehicle fuel efficiency, was revoked by Ex. Ord. No. 13123, §604, June 3, 1999, 64 F.R. 30859, set out as a note under section 8251 of this title.
+Ex. Ord. No. 12759, Apr. 17, 1991, 56 F.R. 16257, as amended by Ex. Ord. No. 12902, §701, Mar. 8, 1994, 59 F.R. 11471, which provided for minimization of petroleumuse in Federal facilities, vehicle fuel efficiency outreach programs, and Federal vehicle fuel efficiency, was revoked by Ex. Ord. No. 13123, §604, June 3, 1999, 64 F.R. 30859, formerly set out as a note under section 8251 of this title.
 
 #### Executive Order No. 12902
 
-Ex. Ord. No. 12902, Mar. 8, 1994, 59 F.R. 11463, which directed executive agencies to implement programs to reduce energy consumption, increase energy efficiency, and conserve water, was revoked by Ex. Ord. No. 13123, §604, June 3, 1999, 64 F.R. 30859, set out as a note under section 8251 of this title.
+Ex. Ord. No. 12902, Mar. 8, 1994, 59 F.R. 11463, which directed executive agencies to implement programs to reduce energy consumption, increase energy efficiency, and conserve water, was revoked by Ex. Ord. No. 13123, §604, June 3, 1999, 64 F.R. 30859, formerly set out as a note under section 8251 of this title.
 

@@ -10,7 +10,7 @@ It is the purpose of this subpart to enhance the delivery, quality, and accounta
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may, from funds appropriated under section 1070f–6 of this title make grants to, or enter into contracts or cooperative agreements with, eligible partnerships to carry out the authorized activities described in section 1070f–3 of this title.
+&emsp;&emsp;The Secretary may, from funds appropriated under section 1070f–6 of this titlemake grants to, or enter into contracts or cooperative agreements with, eligible partnerships to carry out the authorized activities described in section 1070f–3 of this title.
 
 #### (B) Duration
 

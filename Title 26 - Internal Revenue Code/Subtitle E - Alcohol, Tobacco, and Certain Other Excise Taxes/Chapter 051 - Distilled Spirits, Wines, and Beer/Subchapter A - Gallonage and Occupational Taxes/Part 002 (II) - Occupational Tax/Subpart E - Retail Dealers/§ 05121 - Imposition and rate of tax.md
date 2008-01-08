@@ -8,9 +8,11 @@ Every retail dealer in liquors shall pay a special tax of $250 a year.
 
 Every retail dealer in beer shall pay a special tax of $250 a year.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1343; amended Pub. L. 94–455, title XIX,§1905(a)(9), (b)(3)(C), Oct. 4, 1976, 90 Stat. 1819, 1822; Pub. L. 100–203, title X, §10512(c), Dec. 22, 1987, 101 Stat. 1330–448.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1343; amended Pub. L. 94–455, title XIX, §1905(a)(9), (b)(3)(C), Oct. 4, 1976, 90 Stat. 1819, 1822; Pub. L. 100–203, title X, §10512(c), Dec. 22, 1987, 101 Stat. 1330–448.)
 
 #### Repeal of Section and Amendment and Redesignation of Section 5114 as 5121
+
+<i>Pub. L. 110–172, §11(a)(31), Dec. 29, 2007, 121 Stat. 2487, provided that: “Subpart C of part II of subchapter A of chapter 51 is amended by redesignating section 5432 (relating to recordkeeping by wholesale dealers) as section 5121.” See note below.</i>
 
 <i>Pub. L. 109–59, title XI, §11125(a)(1)(D), (b)(5), (c), Aug. 10, 2005, 119 Stat. 1953, 1954, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date:</i>
 

@@ -8,7 +8,7 @@ Whoever willfully secretes, mutilates, obliterates, or destroys—
 
 > before the lapse of (1) five years after such disposition of termination inventory by such war contractor or government agency, or (2) five years after the final settlement of such war contract, whichever applicable period is longer, shall be fined under this title or imprisoned not more than five years, or both.
 
-The Administrator of General Services, by regulation, may authorize the destruction ofsuch records upon such terms and conditions as he deems appropriate, including the requirement for the making and retaining of photographs or microphotographs, which shall have the same force and effect as the originals thereof.
+The Administrator of General Services, by regulation, may authorize the destruction of such records upon such terms and conditions as he deems appropriate, including the requirement for the making and retaining of photographs or microphotographs, which shall have the same force and effect as the originals thereof.
 
 The definitions of terms in section 103 of Title 41 shall apply to similar terms used in this section.
 

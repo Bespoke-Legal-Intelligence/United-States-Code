@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1937—Subsec. (a). Act May 20, 1937, struck out provisions which required radio stations on shipboard to beequipped to transmit radio communications or signals of distress on the frequency specified by the Commission, with apparatus capable of transmitting and receiving messages over a distance of at least 100 miles by day or night.
+1937—Subsec. (a). Act May 20, 1937, struck out provisions which required radio stations on shipboard to be equipped to transmit radio communications or signals of distress on the frequency specified by the Commission, with apparatus capable of transmitting and receiving messages over a distance of at least 100 miles by day or night.
 

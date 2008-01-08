@@ -26,7 +26,7 @@ Areas of national need shall initially include, but shall not be limited to, the
 
 Provisions similar to this section were contained in section 1135a–11 of this title, prior to repeal by Pub. L. 105–244.
 
-A prior section 1138c, Pub. L. 89–329, title XI, §1144, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106Stat. 789; amended Pub. L. 103–382, title III, §391(e)(10), Oct. 20, 1994, 108 Stat. 4023, related to applications for grants, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
+A prior section 1138c, Pub. L. 89–329, title XI, §1144, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 789; amended Pub. L. 103–382, title III, §391(e)(10), Oct. 20, 1994, 108 Stat. 4023, related to applications for grants, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
 A prior section 744 of Pub. L. 89–329 was classified to section 1132c–3 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
 

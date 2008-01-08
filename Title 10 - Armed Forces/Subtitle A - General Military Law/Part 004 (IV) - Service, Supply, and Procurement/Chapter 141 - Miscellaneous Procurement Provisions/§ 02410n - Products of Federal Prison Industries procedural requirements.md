@@ -46,7 +46,7 @@ Protection of Classified and Sensitive Information.—The Secretary of Defense m
 
 &emsp;&emsp;(C) other utilities; or
 
-&emsp;(3) any personal or financial information about any individual private citizen, includinginformation relating to such person's real property however described, without the prior consent of the individual.
+&emsp;(3) any personal or financial information about any individual private citizen, including information relating to such person's real property however described, without the prior consent of the individual.
 
 (g)
 
@@ -54,7 +54,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term “competitive procedures” has the meaning given such term in section 2302(2) of this title.
 
-&emsp;(2) The term “market research” means obtaining specific information about the price, quality, and time of delivery of products available in the private sector through a variety of means, which may include—
+&emsp;(2) The term “market research” means obtaining specific information about the price,quality, and time of delivery of products available in the private sector through a variety of means, which may include—
 
 &emsp;&emsp;(A) contacting knowledgeable individuals in government and industry;
 

@@ -34,3 +34,7 @@ A prior section 6843, Pub. L. 89–10, title III, §3133, as added Pub. L. 103�
 
 A prior section 3123 of Pub. L. 89–10 was classified to section 6833 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

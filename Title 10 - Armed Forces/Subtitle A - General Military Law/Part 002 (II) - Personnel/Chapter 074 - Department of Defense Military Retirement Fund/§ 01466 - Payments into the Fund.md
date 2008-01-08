@@ -30,13 +30,13 @@
 
 (3) The Secretary of Defense shall promptly certify the amount determined under paragraph (2) each year to the Secretary of the Treasury.
 
-(c)(1) The Secretary of Defense shall pay into the Fund at the beginning of each fiscal year such amount as may be necessary to pay the cost to the Fund for that fiscal year resulting from the repeal, as of October 1, 1999, of section 5532 of title 5, including any actuarial loss to the Fund resulting from increased benefits paid from the Fund that are not fully covered by the payments made to the Fund for that fiscal year under subsections (a) and (b).
+(c)(1) The Secretary of Defense shall pay into the Fund at the beginning of each fiscal year such amount as may be necessary to pay the cost to the Fund for that fiscal year resulting from the repeal, as of October 1, 1999, of section 5532 of title 5, including any actuarial loss to the Fund resulting from increased benefits paid from the Fund that are not fully covered by thepayments made to the Fund for that fiscal year under subsections (a) and (b).
 
 (2) Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.
 
 (3) The Department of Defense Retirement Board of Actuaries shall determine, for each armed force, the amount required under paragraph (1) to be deposited in the Fund each fiscal year.
 
-(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, §101(c) \[title IX, §§9103(3), 9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §§9103(3), 9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, §661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§4(a)(1), 7(a)(3), Apr. 21,1987, 101 Stat. 274, 275; Pub. L. 106–65, div. A, title VI, §651(b), Oct. 5, 1999, 113 Stat. 664; Pub. L. 108–136, div. A, title VI, §641(c)(5), Nov. 24, 2003, 117 Stat. 1516; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §591(b), Oct. 17, 2006, 120 Stat. 2233.)
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, §101(c) \[title IX, §§9103(3), 9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §§9103(3), 9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, §661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§4(a)(1), 7(a)(3), Apr. 21, 1987, 101 Stat. 274, 275; Pub. L. 106–65, div. A, title VI, §651(b), Oct. 5, 1999, 113 Stat. 664; Pub. L. 108–136, div. A, title VI, §641(c)(5), Nov. 24, 2003, 117 Stat. 1516; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §591(b), Oct. 17, 2006, 120 Stat. 2233.)
 
 #### References in Text
 

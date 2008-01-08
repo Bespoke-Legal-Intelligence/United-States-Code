@@ -1,8 +1,8 @@
 ### §566. Powers and duties
 
-(a) It is the primary role and mission of the United States Marshals Service to provide for the security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals and the Court of International Trade.
+(a) It is the primary role and mission of the United States Marshals Service to provide for the security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals, the Court of International Trade, and the United States Tax Court, as provided by law.
 
-(b) The United States marshal of each district is the marshal of the district court and of the court of appeals when sitting in that district,and of the Court of International Trade holding sessions in that district, and may, in the discretion of the respective courts, be required to attend any session of court.
+(b) The United States marshal of each district is the marshal of the district court and of the court of appeals when sitting in that district, and of the Court of International Trade holding sessions in that district, and may, in the discretion of the respective courts, be required to attend any session of court.
 
 (c) Except as otherwise provided by law or Rule of Procedure, the United States Marshals Service shall execute all lawful writs, process, and orders issued under the authority of the United States, and shall command all necessary assistance to execute its duties.
 
@@ -26,15 +26,23 @@
 
 (h) The United States marshals shall pay such office expenses of United States Attorneys as may be directed by the Attorney General.
 
-(Added Pub. L. 100–690, title VII, §7608(a)(1), Nov. 18, 1988, 102 Stat. 4514.)
+(i) The Director of the United States Marshals Service shall consult with the Judicial Conference of the United States on a continuing basis regarding the security requirements for the judicial branch of the United States Government, to ensure that the views of the Judicial Conference regarding the security requirements for the judicial branch of the Federal Government are taken into account when determining staffing levels, setting priorities for programs regarding judicial security, and allocating judicial security resources. In this paragraph, the term “judicial security” includes the security of buildings housing the judiciary, the personal security of judicial officers, the assessment of threats made to judicial officers, and the protection of all other judicial personnel. The United States Marshals Service retains final authority regarding security requirements for the judicial branch of the Federal Government.
+
+(Added Pub. L. 100–690, title VII, §7608(a)(1), Nov. 18, 1988, 102 Stat. 4514; amended Pub. L. 110–177, title I, §§101(a), 102(a), Jan. 7, 2008, 121 Stat. 2534, 2535.)
 
 #### Prior Provisions
 
 A prior section 566, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 92–310, title II, §206(b), June 6, 1972, 86 Stat. 203, provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by Pub. L. 100–690, §7608(a)(1).
 
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–177, §102(a), substituted “, the Court of International Trade, and the United States Tax Court, as provided by law” for “and the Court of International Trade”.
+
+Subsec. (i). Pub. L. 110–177, §101(a), added subsec. (i).
+
 #### Fugitive Apprehension Task Forces
 
-Pub. L. 106–544, §6, Dec. 19, 2000, 114 Stat. 2718, provided that:
+Pub. L. 106–544, §6, Dec. 19, 2000, 114 Stat. 2718, as amended by Pub. L. 110–177, title V, §507, Jan. 7, 2008, 121 Stat. 2543, provided that:
 
 “(a)
 
@@ -42,7 +50,7 @@ In General.—The Attorney General shall, upon consultation with appropriate Dep
 
 “(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Attorney General for the United States Marshals Service to carry out the provisions of this section $30,000,000 for the fiscal year 2001, $5,000,000 for fiscal year 2002, and $5,000,000 for fiscal year 2003.
+Authorization of Appropriations.—There are authorized to be appropriated to the Attorney General for the United States Marshals Service to carry out the provisions of this section $30,000,000 for the fiscal year 2001, $5,000,000 for fiscal year 2002, $5,000,000 for fiscal year 2003, and $10,000,000 for each of fiscal years 2008 through 2012.
 
 “(c)
 

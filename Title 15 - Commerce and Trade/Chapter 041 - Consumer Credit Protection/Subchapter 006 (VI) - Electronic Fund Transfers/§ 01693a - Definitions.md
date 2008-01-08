@@ -16,7 +16,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(A) any check guarantee or authorization service which does not directly result in a debit or credit to a consumer's account: <sup>1</sup>
 
-&emsp;&emsp;(B) any transfer of funds, other than those processed by automated clearinghouse, made by a financial institution on behalf of a consumer by means of a service that transfers funds held at either Federal Reserve banks or other depository institutions and which is not designed primarily to transfer funds on behalf of a consumer;
+&emsp;&emsp;(B) any transfer of funds, other than those processed by automated clearinghouse, made by a financial institution on behalf of a consumer by means of a service that transfers funds held at either Federal Reserve banks or other depository institutions and which isnot designed primarily to transfer funds on behalf of a consumer;
 
 &emsp;&emsp;(C) any transaction the primary purpose of which is the purchase or sale of securities or commodities through a broker-dealer registered with or regulated by the Securities and Exchange Commission;
 
@@ -34,7 +34,7 @@ As used in this subchapter—
 
 &emsp;(10) the term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any political subdivision of any of the foregoing; and
 
-&emsp;(11) the term “unauthorized electronic fund transfer” means an electronic fund transferfrom a consumer's account initiated by a person other than the consumer without actual authority to initiate such transfer and from which the consumer receives no benefit, but the term does not include any electronic fund transfer (A) initiated by a person other than the consumer who was furnished with the card, code, or other means of access to such consumer's account by such consumer, unless the consumer has notified the financial institution involved that transfers by such other person are no longer authorized, (B) initiated with fraudulent intent by the consumer or any person acting in concert with the consumer, or (C) which constitutes an error committed by a financial institution.
+&emsp;(11) the term “unauthorized electronic fund transfer” means an electronic fund transfer from a consumer's account initiated by a person other than the consumer without actual authority to initiate such transfer and from which the consumer receives no benefit, but the term does not include any electronic fund transfer (A) initiated by a person other than the consumer who was furnished with the card, code, or other means of access to such consumer's account by such consumer, unless the consumer has notified the financial institution involved that transfers by such other person are no longer authorized, (B) initiated with fraudulent intent by the consumer or any person acting in concert with the consumer, or (C) which constitutes an error committed by a financial institution.
 
 (Pub. L. 90–321, title IX, §903, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728.)
 

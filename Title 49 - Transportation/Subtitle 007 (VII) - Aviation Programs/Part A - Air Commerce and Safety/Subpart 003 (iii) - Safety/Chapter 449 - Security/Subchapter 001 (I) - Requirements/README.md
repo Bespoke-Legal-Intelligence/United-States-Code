@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—REQUIREMENTS
 
-<i><sup>1</sup></i><i> So in original. Probably should be “be”.</i>
-
 <i><sup>1</sup></i><i> Editorially supplied. Section added by Pub. L. 107–71 without corresponding amendment of chapter analysis.</i>
 
 
@@ -34,3 +32,4 @@
 - [&sect; 44923 - Airport security improvement projects](%C2%A7%2044923%20-%20Airport%20security%20improvement%20projects.md)
 - [&sect; 44924 - Repair station security](%C2%A7%2044924%20-%20Repair%20station%20security.md)
 - [&sect; 44925 - Deployment and use of detection equipment at airport screening checkpoints](%C2%A7%2044925%20-%20Deployment%20and%20use%20of%20detection%20equipment%20at%20airport%20screening%20checkpoints.md)
+- [&sect; 44926 - Appeal and redress process for passengers wrongly delayed or prohibited from boarding a flight](%C2%A7%2044926%20-%20Appeal%20and%20redress%20process%20for%20passengers%20wrongly%20delayed%20or%20prohibited%20from%20boarding%20a%20flight.md)

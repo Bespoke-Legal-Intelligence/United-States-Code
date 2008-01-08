@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The President, taking into account the financial resources of a country, may waive payments of principal and interest that such country would otherwise be required to make to the Commodity Credit Corporation under dollar sales agreements under subchapter II of this chapter if—
+The President, taking into account the financial resources of a country, may waive paymentsof principal and interest that such country would otherwise be required to make to the Commodity Credit Corporation under dollar sales agreements under subchapter II of this chapter if—
 
 &emsp;(1) that country is a least developed country; and
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Agriculture, in consultation with FoodAssistance Policy Council and Department of the Treasury, by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+Functions of President under this section delegated to Secretary of Agriculture, in consultation with Food Assistance Policy Council and Department of the Treasury, by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
 #### Renegotiation of Payment Terms of Loans for Sale of Agricultural Commodities
 

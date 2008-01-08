@@ -18,7 +18,7 @@ The Secretary of State shall serve as the Director of the United States National
 
 #### (d) Powers
 
-The Director may utilize the administrative authorities otherwise available to the Secretaryof State in carrying out the responsibilities of the Director set forth in this chapter.
+The Director may utilize the administrative authorities otherwise available to the Secretary of State in carrying out the responsibilities of the Director set forth in this chapter.
 
 #### (e) Implementation
 
@@ -28,7 +28,7 @@ The President is authorized to implement and carry out the provisions of this ch
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2), (d), and (e), was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
+This chapter, referred to in subsecs. (b)(2), (d), and (e), was in the original “this Act” and was translatedas reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
 #### Ex. Ord. No. 13128. Implementation of the Chemical Weapons Convention and the Chemical Weapons Convention Implementation Act
 
@@ -56,7 +56,7 @@ Sec. 6. The Departments of State, Defense, Commerce, and Energy, and other agenc
 
 Sec. 7. The USNA, in coordination with the interagency group designated in section 2 of this order, is authorized to determine whether disclosure of confidential business information pursuant to section 404(c) of the Act \[22 U.S.C. 6744(c)\] is in the national interest. Disclosure will not be permitted if contrary to national security or law enforcement needs.
 
-Sec. 8. In order to take additional steps with respect to the proliferation of weapons of mass destruction and means of delivering them and the national emergency described and declared in Executive Order 12938 of November 14, 1994 \[50 U.S.C. 1701 note\], as amended by Executive Order 13094 of July 30, 1998, section 3 of Executive Order 12938, as amended, is amended to add a new subsection (e) to read as follows:
+Sec. 8. In order to take additional steps with respect to the proliferation of weapons of mass destruction and means of delivering them and the national emergency described and declared in Executive Order 12938 of November 14, 1994 \[listed in a table under section 1701 of Title 50, War and National Defense\], as amended by Executive Order 13094 of July 30, 1998, section 3 of Executive Order 12938, as amended, is amended to add a new subsection (e) to read as follows:
 
 &emsp;“(e) the Secretary of Commerce shall impose and enforce such restrictions on the importation of chemicals into the United States as may be necessary to carry out the requirements of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction.”
 

@@ -18,7 +18,7 @@ Whoever knowingly uses the mails for the mailing, carriage in the mails, or deli
 
 The term “indecent”, as used in this section includes matter of a character tending to incite arson, murder, or assassination.
 
-(June 25, 1948, ch. 645, 62 Stat. 768; June 28, 1955, ch. 190, §§1, 2, 69 Stat. 183; Pub. L. 85–796, §1, Aug. 28, 1958, 72 Stat. 962; Pub. L. 91–662, §§3, 5(b), 6(3), Jan. 8, 1971, 84 Stat. 1973, 1974; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 768; June 28, 1955, ch. 190, §§1, 2, 69 Stat. 183; Pub. L. 85–796, §1,Aug. 28, 1958, 72 Stat. 962; Pub. L. 91–662, §§3, 5(b), 6(3), Jan. 8, 1971, 84 Stat. 1973, 1974; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

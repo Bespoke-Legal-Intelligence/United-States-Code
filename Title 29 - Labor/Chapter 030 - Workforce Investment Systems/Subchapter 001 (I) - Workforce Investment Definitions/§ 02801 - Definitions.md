@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Area vocational education school
 
-&emsp;The term “area vocational education school” has the meaning given the term “area career and technical education school” in section 2302 of title 20.
+&emsp;The term “area vocational education school” has the meaning given the term “areacareer and technical education school” in section 2302 of title 20.
 
 #### (4) Basic skills deficient
 
@@ -378,6 +378,10 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–140, title X, §1001, Dec. 19, 2007, 121 Stat. 1748, provided that: “This title \[amending section 2916of this title\] may be cited as the ‘Green Jobs Act of 2007’.”
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–281, §1, Sept. 22, 2006, 120 Stat. 1173, provided that: “This Act \[enacting section 2918a of this title, amending section 2939 of this title, section 1701u of Title 12, Banks and Banking, section 4183 of Title 25, Indians, and section 12870 of Title 42, The Public Health and Welfare, repealing sections 12899 to 12899i of Title 42, and enacting provisions set out as notes under section 2918a of this title and section 1701u of Title 12\] may be cited as the ‘YouthBuild Transfer Act’.”
@@ -420,7 +424,7 @@ Sec. 2. <i>Establishment of the Council on the 21st Century Workforce.</i>
 
 &emsp;(ii) The Council shall be composed of not more than 13 members who shall be appointed by the President. The membership shall include individuals who represent the views of business and labor organizations, Federal, State, and local governments, academicians and educators, and such other associations and entities as the President determines are appropriate. In addition, the Secretary of Labor and the Director of the Office of Personnel Management shall serve as ex officio members representing the views of the Federal Government. The Secretary of Labor shall be the Chairperson of the Council.
 
-(b) <i>Functions of the Council</i>. The Council shall provide information and advice to the President through theSecretary of Labor, the Office of the 21st Century Workforce within the Department of Labor, and other appropriate Federal officials relating to issues affecting the 21st century workforce. These activities shall include:
+(b) <i>Functions of the Council</i>. The Council shall provide information and advice to the President through the Secretary of Labor, the Office of the 21st Century Workforce within the Department of Labor, and other appropriate Federal officials relating to issues affecting the 21st century workforce. These activities shall include:
 
 &emsp;(i) assessing the effects of rapid technological changes, demographic trends, globalization, changes in work processes, and the need for new and enhanced skills for workers, employers, and other related sectors of society;
 
@@ -440,7 +444,7 @@ Sec. 2. <i>Establishment of the Council on the 21st Century Workforce.</i>
 
 &emsp;(iii) Each member of the Council who is not an officer or employee of the Federal Government shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Federal service (5 U.S.C. 5701–5707).
 
-&emsp;(iv) The Department of Labor shall make available appropriate funding and administrative support to assist the Council in carrying out the functions under this section, including necessary office space, equipment, supplies, staff, and services. The Secretary of Labor shall perform the functions of the President under the Federal Advisory Committee Act (5 U.S.C. App.), as amended, except that of reporting to the Congress, with respect to the Council in accordance with the guidelines and procedures established by the Administrator of General Services.
+&emsp;(iv) The Department of Labor shall make available appropriate funding and administrative support to assist the Council in carrying out the functions under this section, including necessary office space, equipment, supplies, staff, and services. The Secretary of Labor shall perform the functions of the President under the Federal Advisory Committee Act (5 U.S.C.App.), as amended, except that of reporting to the Congress, with respect to the Council in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 &emsp;(v) The heads of executive agencies shall, to the extent permitted by law, provide the Council with such information as it may require for purposes of carrying out the functions described in this section.
 

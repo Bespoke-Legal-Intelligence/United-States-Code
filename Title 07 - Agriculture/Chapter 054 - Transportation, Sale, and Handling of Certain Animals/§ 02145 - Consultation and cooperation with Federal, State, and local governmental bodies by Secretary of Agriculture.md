@@ -4,7 +4,7 @@
 
 (b) The Secretary is authorized to cooperate with the officials of the various States or political subdivisions thereof in carrying out the purposes of this chapter and of any State, local, or municipal legislation or ordinance on the same subject.
 
-(Pub. L. 89–544, §15, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, §16, Dec. 24, 1970, 84 Stat. 1563; Pub. L. 94–279, §11, Apr. 22, 1976, 90 Stat. 419; Pub. L. 98–443, §9(i), Oct. 4, 1984, 98 Stat. 1708;Pub. L. 99–198, title XVII, §1757, Dec. 23, 1985, 99 Stat. 1650; Pub. L. 104–88, title III, §312, Dec. 29, 1995, 109 Stat. 948.)
+(Pub. L. 89–544, §15, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, §16, Dec. 24, 1970, 84 Stat. 1563; Pub. L. 94–279, §11, Apr. 22, 1976, 90 Stat. 419; Pub. L. 98–443, §9(i), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–198, title XVII, §1757, Dec. 23, 1985, 99 Stat. 1650; Pub. L. 104–88, title III, §312, Dec. 29, 1995, 109 Stat. 948.)
 
 #### Amendments
 

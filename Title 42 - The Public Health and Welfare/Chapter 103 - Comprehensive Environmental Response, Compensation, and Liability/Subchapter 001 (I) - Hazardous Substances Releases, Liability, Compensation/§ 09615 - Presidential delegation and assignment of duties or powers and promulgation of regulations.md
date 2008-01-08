@@ -46,7 +46,7 @@ Sec. 2. <i>Response and Related Authorities</i>. (a) The functions vested in the
 
 (c)(1) The functions vested in the President by Sections 104(a) and the second sentence of 126(b) of the Act \[42 U.S.C. 9604(a), 9626(b)\], to the extent they require permanent relocation of residents, businesses, and community facilities or temporary evacuation and housing of threatened individuals not otherwise provided for, are delegated to the Director of the Federal Emergency Management Agency.
 
-(2) Subject to subsection (b) of this Section, the functions vested in the President by Sections 117(a) and (c), and 119 of the Act \[42 U.S.C. 9617(a), (c), 9619\], to the extent such authority is needed to carry out the functions delegated under paragraph (1) of this subsection, are delegated to the Director of the Federal Emergency Management Agency.
+(2) Subject to subsection (b) of this Section, the functions vested in the President by Sections 117(a) and (c), and 119 of the Act \[42 U.S.C. 9617(a), (c), 9619\], to the extent such authority is needed to carry out the functions delegated under paragraph (1) of this subsection,are delegated to the Director of the Federal Emergency Management Agency.
 
 (d) Subject to subsections (a), (b) and (c) of this Section, the functions vested in the President by Sections 104(a), (b) and (c)(4), 113(k), 117(a) and (c), 119, and 121 of the Act \[42 U.S.C. 9604(a), (b), (c)(4), 9613(k), 9617(a), (c), 9619, 9621\] are delegated to the Secretaries of Defense and Energy, with respect to releases or threatened releases where either the release is on or the sole source of the release is from any facility or vessel under the jurisdiction, custody or control of their departments, respectively, including vessels bare-boat chartered and operated. These functions must be exercised consistent with the requirements of Section 120 of the Act \[42 U.S.C. 9620\].
 
@@ -114,7 +114,7 @@ Sec. 6. <i>Litigation</i>. (a) Notwithstanding any other provision of this Order
 
 (d) The functions vested in the President by Sections \[sic\] 310(d) and (e) of the Act \[42 U.S.C. 9659(d), (e)\], relating to promulgation of regulations, are delegated to the Administrator.
 
-Sec. 7. <i>Financial Responsibility</i>. (a) The functions vested in the President by Section 107(k)(4)(B) of the Act \[42 U.S.C. 9607(k)(4)(B)\] are delegated to the Secretary ofthe Treasury. The Administrator will provide the Secretary with such technical information and assistance as the Administrator may have available.
+Sec. 7. <i>Financial Responsibility</i>. (a) The functions vested in the President by Section 107(k)(4)(B) of the Act \[42 U.S.C. 9607(k)(4)(B)\] are delegated to the Secretary of the Treasury. The Administrator will provide the Secretary with such technical information and assistance as the Administrator may have available.
 
 (b)(1) The functions vested in the President by Section 108(a)(1) of the Act \[42 U.S.C. 9608(a)(1)\] are delegated to the Coast Guard.
 

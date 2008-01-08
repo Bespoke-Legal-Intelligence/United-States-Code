@@ -118,7 +118,7 @@ Subsec. (c)(2)(A), (B). Pub. L. 106–419, §103(d)(3), added subpars. (A) and (
 
 “(A) whose initial obligated period of active duty is less than three years;
 
-“(B) who, beginning on the date of the commencement of the person's initial obligated period of suchduty, serves a continuous period of active duty of not less than three years; and”.
+“(B) who, beginning on the date of the commencement of the person's initial obligated period of such duty, serves a continuous period of active duty of not less than three years; and”.
 
 Subsec. (g). Pub. L. 106–419, §105(b)(3), added subsec. (g). Former subsec. (g) relating to an individual who has been paid a basic educational assistance allowance under section 3014(b) of this title redesignated (h).
 
@@ -150,7 +150,7 @@ Subsec. (e)(1)(B). Pub. L. 105–114, §401(b)(2), added subpar. (B).
 
 1993—Subsecs. (c) to (g). Pub. L. 103–66, §12009(d)(1), (2), made technical amendments to directory language of Pub. L. 102–568, §§301(c), 307(a). See 1992 Amendment note below.
 
-Subsec. (g). Pub. L. 103–66, §12009(a), struck out par. (1) and par. (2) designation, redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and substituted “paragraph (1)” for “subparagraph (A)” in par. (2). Prior to amendment, par. (1) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in the monthly rates payable under subsections (a)(1) and (b)(1) of this section equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
+Subsec. (g). Pub. L. 103–66, §12009(a), struck out par. (1) and par. (2) designation, redesignated subpars. (A)and (B) of former par. (2) as pars. (1) and (2), respectively, and substituted “paragraph (1)” for “subparagraph (A)” in par. (2). Prior to amendment, par. (1) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in the monthly rates payable under subsections (a)(1) and (b)(1) of this section equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
 
 1992—Subsec. (a). Pub. L. 102–568, §307(b)(1), substituted “(f), and (g)” for “and (f)” in introductory provisions.
 
@@ -202,7 +202,7 @@ Subsec. (b). Pub. L. 100–689, §103(b)(3), inserted reference to section 1418 
 
 #### Effective Date of 2001 Amendment
 
-Amendment by section 7(b)(2)(A) of Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediately afterthe enactment of Pub. L. 106–419, see section 7(b)(3) of Pub. L. 107–14, set out as a note under section 3014 of this title.
+Amendment by section 7(b)(2)(A) of Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediately after the enactment of Pub. L. 106–419, see section 7(b)(3) of Pub. L. 107–14, set out as a note under section 3014 of this title.
 
 Amendment by section 7(c)(3) of Pub. L. 107–14 effective as if included in the enactment of section 105 of Pub. L. 106–419, see section 7(c)(4) of Pub. L. 107–14, set out as a note under section 3011 of this title.
 

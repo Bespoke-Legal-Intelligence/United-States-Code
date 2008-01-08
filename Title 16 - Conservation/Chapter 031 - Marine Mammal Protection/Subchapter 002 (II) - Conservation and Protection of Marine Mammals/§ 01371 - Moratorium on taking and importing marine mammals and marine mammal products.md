@@ -2,7 +2,7 @@
 
 #### (a) Imposition; exceptions
 
-There shall be a moratorium on the taking and importation of marine mammals and marinemammal products, commencing on the effective date of this chapter, during which time no permit may be issued for the taking of any marine mammal and no marine mammal or marine mammal product may be imported into the United States except in the following cases:
+There shall be a moratorium on the taking and importation of marine mammals and marine mammal products, commencing on the effective date of this chapter, during which time no permit may be issued for the taking of any marine mammal and no marine mammal or marine mammal product may be imported into the United States except in the following cases:
 
 &emsp;(1) Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking, and importation for purposes of scientific research, public display, photography for educational or commercial purposes, or enhancing the survival or recovery of a species or stock, or for importation of polar bear parts (other than internal organs) taken in sport hunts in Canada. Such permits, except permits issued under section 1374(c)(5) of this title, may be issued if the taking or importation proposed to be made is first reviewed by the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III of this chapter. The Commission and Committee shall recommend any proposed taking or importation, other than importation under section 1374(c)(5) of this title, which is consistent with the purposes and policies of section 1361 of this title. If the Secretary issues such a permit for importation, the Secretary shall issue to the importer concerned a certificate to that effect in such form as the Secretary of the Treasury prescribes, and such importation may be made upon presentation of the certificate to the customs officer concerned.
 
@@ -28,7 +28,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;&emsp;&emsp;(II) for the purposes of tracking and verifying compliance with the minimum requirements established by the Secretary in regulations promulgated under section 1385(f) of this title; or
 
-&emsp;&emsp;&emsp;(ii) after taking into consideration such information, findings of the Inter-American Tropical Tuna Commission, and any other relevant information, including information that a nation is consistently failing to take enforcement actions on violations which diminish the effectiveness of the International Dolphin Conservation Program, the Secretary, in consultationwith the Secretary of State, finds that the harvesting nation is not in compliance with the International Dolphin Conservation Program.
+&emsp;&emsp;&emsp;(ii) after taking into consideration such information, findings of the Inter-American Tropical Tuna Commission, and any other relevant information, including information that a nation is consistently failing to take enforcement actions on violations which diminish the effectiveness of the International Dolphin Conservation Program, the Secretary, in consultation with the Secretary of State, finds that the harvesting nation is not in compliance with the International Dolphin Conservation Program.
 
 &emsp;&emsp;(D) shall require the government of any intermediary nation to certify and provide reasonable proof to the Secretary that it has not imported, within the preceding six months, any yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation to the United States under subparagraph (B);
 
@@ -62,7 +62,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(D) The authority to deter marine mammals pursuant to subparagraph (A) applies to all marine mammals, including all stocks designated as depleted under this chapter.
 
-&emsp;(5)(A)(i) Upon request therefor by citizens of the United States who engage in a specifiedactivity (other than commercial fishing) within a specified geographical region, the Secretary shall allow, during periods of not more than five consecutive years each, the incidental, but not intentional, taking by citizens while engaging in that activity within that region of small numbers of marine mammals of a species or population stock if the Secretary, after notice (in the Federal Register and in newspapers of general circulation, and through appropriate electronic media, in the coastal areas that may be affected by such activity) and opportunity for public comment—
+&emsp;(5)(A)(i) Upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specified geographical region, the Secretary shall allow, during periods of not more than five consecutive years each, the incidental, but not intentional, taking by citizens while engaging in that activity within that region of small numbers of marine mammals of a species or population stock if the Secretary, after notice (in the Federal Register and in newspapers of general circulation, and through appropriate electronic media, in the coastal areas that may be affected by such activity) and opportunity for public comment—
 
 &emsp;&emsp;(I) finds that the total of such taking during each five-year (or less) period concerned will have a negligible impact on such species or stock and will not have an unmitigable adverse impact on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) of this section or section 1379(f) of this title or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 (16 U.S.C. 916 et seq.), pursuant to section 1382(c) of this title; and
 
@@ -100,7 +100,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;(III) requirements pertaining to the monitoring and reporting of such taking by harassment, including requirements for the independent peer review of proposed monitoring plans or other research proposals where the proposed activity may affect the availability of a species or stock for taking for subsistence uses pursuant to subsection (b) of this section or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title.
 
-&emsp;(iii) The Secretary shall publish a proposed authorization not later than 45 days after receiving an application under this subparagraph and request public comment through notice in the Federal Register, newspapers of general circulation, and appropriate electronic media and to all locally affected communities for a period of 30 days after publication. Not later than 45 days after the close of the public comment period, if the Secretary makes the findings set forth in clause (i), the Secretary shall issue an authorization with appropriate conditions to meet the requirements of clause (ii).
+&emsp;(iii) The Secretary shall publish a proposed authorization not later than 45 days after receiving an application under this subparagraph and request public comment through notice in the Federal Register, newspapers of general circulation, and appropriate electronic media and to all locally affected communities for a period of 30 days after publication. Not later than 45 days after the close of the public comment period, if the Secretary makes the findings set forth in clause (i), the Secretary shall issue an authorization with appropriateconditions to meet the requirements of clause (ii).
 
 &emsp;(iv) The Secretary shall modify, suspend, or revoke an authorization if the Secretary finds that the provisions of clauses (i) or (ii) are not being met.
 
@@ -138,11 +138,11 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(6)(A) A marine mammal product may be imported into the United States if the product—
 
-&emsp;&emsp;(i) was legally possessed and exported by any citizen of the United States in conjunction with travel outside the United States,provided that the product is imported into the United States by the same person upon the termination of travel;
+&emsp;&emsp;(i) was legally possessed and exported by any citizen of the United States in conjunction with travel outside the United States, provided that the product is imported into the United States by the same person upon the termination of travel;
 
 &emsp;&emsp;(ii) was acquired outside of the United States as part of a cultural exchange by an Indian, Aleut, or Eskimo residing in Alaska; or
 
-&emsp;&emsp;(iii) is owned by a Native inhabitant of Russia, Canada, or Greenland and is imported for noncommercial purposes in conjunction with travel within the United States or as part of a cultural exchange with an Indian, Aleut, or Eskimo residing in Alaska.
+&emsp;&emsp;(iii) is owned by a Native inhabitant of Russia, Canada, or Greenland and is imported for noncommercial purposes in conjunction with travel within the United States or as part of a cultural exchange withan Indian, Aleut, or Eskimo residing in Alaska.
 
 &emsp;(B) For the purposes of this paragraph, the term—
 

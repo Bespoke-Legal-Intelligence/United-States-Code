@@ -6,7 +6,7 @@ It shall be unlawful for any person to—
 
 &emsp;(1) manufacture for sale, offer for sale, distribute in commerce, or import into the United States any consumer product which is not in conformity with an applicable consumer product safety standard under this chapter;
 
-&emsp;(2) manufacture for sale, offer for sale, distribute in commerce, or import into the United States any consumer product which has been declared a banned hazardous product by a rule under this chapter;
+&emsp;(2) manufacture for sale, offer for sale, distribute in commerce, or import into theUnited States any consumer product which has been declared a banned hazardous product by a rule under this chapter;
 
 &emsp;(3) fail or refuse to permit access to or copying of records, or fail or refuse to establish or maintain records, or fail or refuse to make reports or provide information, or fail or refuse to permit entry or inspection, as required under this chapter or rule thereunder;
 

@@ -50,7 +50,7 @@ The Director of the National Cancer Institute shall be appointed by the Presiden
 
 &emsp;&emsp;(i) if the direct cost of the grant or cooperative agreement to be made does not exceed $50,000, such grant or cooperative agreement may be made only if such grant or cooperative agreement has been recommended after technical and scientific peer review required by regulations under section 289a of this title, and
 
-&emsp;&emsp;(ii) if the direct cost of the grant or cooperative agreement to be made exceeds $50,000, such grant or cooperative agreement may be made only if such grant or cooperative agreement has been recommended after technical and scientific peer review required by regulations under section 289a of this title and is recommended under section 284a(a)(3)(A)(ii) of this title by the advisory council for the national research institute involved; and
+&emsp;&emsp;(ii) if the direct cost of the grant or cooperative agreement to be made exceeds $50,000, such grant or cooperative agreementmay be made only if such grant or cooperative agreement has been recommended after technical and scientific peer review required by regulations under section 289a of this title and is recommended under section 284a(a)(3)(A)(ii) of this title by the advisory council for the national research institute involved; and
 
 &emsp;(C) shall, subject to section 300cc–40b(d)(2) of this title, receive from the President and the Office of Management and Budget directly all funds appropriated by the Congress for obligation and expenditure by the Institute.
 

@@ -32,7 +32,7 @@ Section 3311(a) of this title may not be construed as conferring Congressional a
 
 #### (3) Presidential determination
 
-&emsp;The President, on the basis of the report submitted by the Trade Representative underparagraph (2), shall determine with which foreign country or countries, if any, the United States should seek to negotiate a free trade area agreement or agreements.
+&emsp;The President, on the basis of the report submitted by the Trade Representative under paragraph (2), shall determine with which foreign country or countries, if any, the United States should seek to negotiate a free trade area agreement or agreements.
 
 #### (4) Recommendations on future free trade area negotiations
 

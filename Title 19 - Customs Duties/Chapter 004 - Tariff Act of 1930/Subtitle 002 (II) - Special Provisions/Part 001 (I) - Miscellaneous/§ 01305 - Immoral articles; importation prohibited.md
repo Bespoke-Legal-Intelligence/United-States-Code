@@ -52,7 +52,7 @@ Provisions in substantially the same language as those in this section were made
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–449 inserted proviso at end of first par. directing that, “effective January 1, 1993, this section shall not apply to any lottery ticket, printed paper that may be used as a lottery ticket, or advertisement of any lottery, that is printed in Canada for use in connection with a lottery conducted in the United States”.
+1988—Subsec. (a). Pub. L. 100–449 inserted proviso at end of first par. directing that, “effective January 1, 1993, this section shall not apply to any lottery ticket, printed paper that may be used as a lottery ticket, or advertisement of any lottery, that is printed in Canadafor use in connection with a lottery conducted in the United States”.
 
 Pub. L. 100–418, §1901(a)(1), designated second par. of subsec. (a) as subsec. (b) “Enforcement procedures”.
 

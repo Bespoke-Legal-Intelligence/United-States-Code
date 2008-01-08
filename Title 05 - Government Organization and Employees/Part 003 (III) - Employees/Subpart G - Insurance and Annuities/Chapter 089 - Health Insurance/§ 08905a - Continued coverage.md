@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) is separated from service, whether voluntarily or involuntarily, except that if the separation is involuntary, this section shall not apply if the separation is for gross misconduct (as defined under regulations which the Office of Personnel Management shall prescribe); and
 
-&emsp;&emsp;(B) would not otherwise be eligible for any benefits under this chapter (determinedwithout regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract);
+&emsp;&emsp;(B) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract);
 
 &emsp;(2) any individual who—
 
@@ -142,7 +142,7 @@
 
 &emsp;(C) provisions relating to the termination of continued coverage, except that continued coverage under this section may not (subject to paragraph (3)) extend beyond the date which is 36 months after the date on which the qualifying event under this subsection (the date of divorce, annulment, or legal separation, as the case may be) occurs; and
 
-&emsp;(D) provisions designed to ensure that any coverage pursuant to this subsection does not adversely affect any eligibility for coverage which the individual involved might otherwisehave under this chapter (including as a result of any change in personal circumstances) if this subsection had not been enacted.
+&emsp;(D) provisions designed to ensure that any coverage pursuant to this subsection does not adversely affect any eligibility for coverage which the individual involved might otherwise have under this chapter (including as a result of any change in personal circumstances) if this subsection had not been enacted.
 
 (3) In the case of an individual—
 
@@ -210,7 +210,7 @@ Subsec. (d)(4). Pub. L. 102–484, §4438(a)(3), added par. (4).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title XI, §1101(c), Oct. 28, 2004, 118 Stat. 2072, provided that: “The amendments made by this section \[amending this section and section 8906 of this title\] shall apply with respect to Federal employees called or ordered to active duty on or after September 14, 2001.”
+Pub. L. 108–375, div. A, title XI, §1101(c), Oct. 28, 2004, 118 Stat. 2072, provided that: “The amendments made by this section \[amending this section and section 8906of this title\] shall apply with respect to Federal employees called or ordered to active duty on or after September 14, 2001.”
 
 #### Effective Date of 1999 Amendment
 

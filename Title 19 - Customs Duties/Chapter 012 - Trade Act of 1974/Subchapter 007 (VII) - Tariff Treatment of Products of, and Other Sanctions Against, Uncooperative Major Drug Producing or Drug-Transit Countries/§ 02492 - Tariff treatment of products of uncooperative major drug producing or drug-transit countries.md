@@ -46,7 +46,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;(vi) increase cooperation with United States drug enforcement officials; and
 
-&emsp;(vii) where applicable, increase participation in extradition treaties, mutual legal assistance provisions directed at money laundering,sharing of evidence, and other initiatives for cooperative drug enforcement.
+&emsp;(vii) where applicable, increase participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.
 
 (C) A country which in the previous year was designated as a major drug producing country or a major drug-transit country may not be determined to be cooperating fully under subparagraph (A)(i) unless it has in place a bilateral narcotics agreement with the United States or a multilateral agreement which achieves the objectives of subparagraph (B).
 

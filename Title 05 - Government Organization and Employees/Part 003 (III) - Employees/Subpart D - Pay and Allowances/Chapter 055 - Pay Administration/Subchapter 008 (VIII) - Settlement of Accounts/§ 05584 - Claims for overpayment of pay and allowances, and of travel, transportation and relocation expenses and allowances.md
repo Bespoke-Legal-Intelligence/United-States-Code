@@ -20,7 +20,7 @@
 
 &emsp;(3) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of three years immediately following the date on which the erroneous payment of allowances was discovered or three years immediately following October 2, 1972, whichever is later;
 
-&emsp;(4) in the case of employees of the Government Printing Office, the Library of Congress,the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered or 3 years immediately following July 25, 1974, whichever is later; or
+&emsp;(4) in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered or 3 years immediately following July 25, 1974, whichever is later; or
 
 &emsp;(5) in the case of a claim involving an erroneous payment of travel, transportation or relocation expenses and allowances, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment was discovered.
 
@@ -56,7 +56,7 @@
 
 &emsp;(2) the Director of the Office of Management and Budget, with respect to any other agency or employee.
 
-(Added Pub. L. 90–616, §1(a), Oct. 21, 1968, 82 Stat. 1212; amended Pub. L. 92–453, §3(1), Oct. 2, 1972, 86 Stat. 760; Pub. L. 93–359, §1, July 25, 1974, 88 Stat. 393; Pub. L. 96–54, §2(a)(35), Aug. 14, 1979, 93 Stat. 383; Pub. L. 99–224, §1(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–702, title X, §1009(a), Nov. 19, 1988, 102 Stat. 4667; Pub. L. 102–190, div. A, title VI, §657(a), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §103(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 109–55, title I, §1100(a), Aug. 2, 2005, 119 Stat. 577.)
+(Added Pub. L. 90–616, §1(a), Oct. 21, 1968, 82 Stat. 1212; amended Pub. L. 92–453, §3(1), Oct. 2, 1972, 86 Stat. 760; Pub. L. 93–359, §1, July 25, 1974, 88 Stat. 393; Pub. L. 96–54, §2(a)(35), Aug. 14, 1979, 93 Stat. 383; Pub. L. 99–224, §1(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–702, title X, §1009(a), Nov. 19,1988, 102 Stat. 4667; Pub. L. 102–190, div. A, title VI, §657(a), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §103(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 109–55, title I, §1100(a), Aug. 2, 2005, 119 Stat. 577.)
 
 #### Amendments
 

@@ -4,7 +4,7 @@ Not later than April 1, 1996, and annually thereafter, the Secretary shall prepa
 
 &emsp;(1) details for the previous 10-year period the catches and exports to the United States of highly migratory species (including tunas, swordfish, marlin and sharks) from Nations fishing on Atlantic stocks of such species that are subject to management by the Commission;
 
-&emsp;(2) identifies those fishing Nations whose harvests are inconsistent with conservation and management recommendations of the Commission;
+&emsp;(2) identifies those fishing Nations whose harvests are inconsistent with conservationand management recommendations of the Commission;
 
 &emsp;(3) describes reporting requirements established by the Secretary to ensure that imported fish products are in compliance with all international management measures, including minimum size requirements, established by the Commission and other international fishery organizations to which the United States is a party; and
 
@@ -19,4 +19,8 @@ A prior section 11 of Pub. L. 94–70 was renumbered section 13 and is set out a
 #### Amendments
 
 1998—Pub. L. 105–384 made technical amendment to style of heading and section designation in original act.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

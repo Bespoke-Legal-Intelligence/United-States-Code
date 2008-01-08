@@ -178,7 +178,7 @@ In general.—Notwithstanding any other provision of law, during the period that
 
 &emsp;&emsp;“(B)
 
-Application to health care clearinghouses.—For purposes of this paragraph, during the period described in subparagraph (A), an entity that processes or facilitates the processing of information in connection with a transaction described insubparagraph (C) and that otherwise would be treated as a health care clearinghouse shall be treated as a health care clearinghouse without regard to whether the processing or facilitation produces (or is required to produce) standard data elements or a standard transaction as required by part 162 of title 45, Code of Federal Regulations.
+Application to health care clearinghouses.—For purposes of this paragraph, during the period described in subparagraph (A), an entity that processes or facilitates the processing of information in connection with a transaction described in subparagraph (C) and that otherwise would be treated as a health care clearinghouse shall be treated as a health care clearinghouse without regard to whether the processing or facilitation produces (or is required to produce) standard data elements or a standard transaction as required by part 162 of title 45, Code of Federal Regulations.
 
 &emsp;&emsp;“(C)
 

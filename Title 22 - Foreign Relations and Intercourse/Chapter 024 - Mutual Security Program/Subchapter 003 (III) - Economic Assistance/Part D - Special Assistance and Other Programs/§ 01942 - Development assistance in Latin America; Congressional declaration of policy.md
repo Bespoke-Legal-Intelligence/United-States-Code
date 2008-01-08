@@ -4,7 +4,7 @@
 
 &emsp;(1) the historic, economic, political, and geographic relationships among the American Republics are unique and of special significance and, as appropriate, should be so recognized in future legislation;
 
-&emsp;(2) although governmental forms differ among the American Republics, the peoples of all the Americas are dedicated to the creation and maintenance of governments which will promote individual freedom;
+&emsp;(2) although governmental forms differ among the American Republics, the peoples of all the Americas are dedicated to the creationand maintenance of governments which will promote individual freedom;
 
 &emsp;(3) the interests of the American Republics are so interrelated that sound social and economic progress in each is of importance to all and that lack of it in any American Republic may have serious repercussions in others;
 
@@ -58,7 +58,7 @@ Pub. L. 93–189, §36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–
 
 “(c) Any transfer under subsection (a)(1) shall be in the amounts, and in available currencies, determined in consultation with the Inter-American Foundation, to be required for its program purposes.
 
-“(d) The revision of the Social Progress Trust Fund Agreement pursuant to this section shall provide that the President or his delegate shall specify, from time to time, after consultation with the Inter-American Development Bank, the particular currencies to be used in making the transfer or utilization described in this section.
+“(d) The revision of the Social Progress Trust Fund Agreement pursuant to this section shall provide that the President or his delegate shall specify, from time to time, after consultation with the Inter-American Development Bank, the particular currencies to be usedin making the transfer or utilization described in this section.
 
 “(e) \[Repealed. Pub. L. 97–113, title VII, §734(a)(9), Dec. 29, 1981, 95 Stat. 1560\].”
 

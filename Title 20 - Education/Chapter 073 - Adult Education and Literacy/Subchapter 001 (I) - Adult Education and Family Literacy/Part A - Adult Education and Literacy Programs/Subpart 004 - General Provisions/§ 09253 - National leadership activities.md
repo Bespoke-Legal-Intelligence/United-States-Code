@@ -12,7 +12,7 @@ The Secretary shall establish and carry out a program of national leadership act
 
 &emsp;(2) Funding national leadership activities that are not described in paragraph (1), either directly or through grants, contracts, or cooperative agreements awarded on a competitive basis to or with postsecondary educational institutions, public or private organizations or agencies, or consortia of such institutions, organizations, or agencies, such as—
 
-&emsp;&emsp;(A) developing, improving, and identifying the most successful methods and techniques for addressing the education needs of adults, including instructional practices using phonemic awareness, systematic phonics, fluency, and reading comprehension, based on the work of the National Institute of Child Health and Human Development;
+&emsp;&emsp;(A) developing, improving, and identifying the most successful methods and techniques for addressing the education needs of adults, including instructional practices using phonemic awareness, systematic phonics, fluency, and reading comprehension, based on the work of the Eunice Kennedy Shriver National Institute of Child Health and Human Development;
 
 &emsp;&emsp;(B) increasing the effectiveness of, and improving the quality of, adult education and literacy activities, including family literacy services;
 
@@ -40,9 +40,11 @@ The Secretary shall establish and carry out a program of national leadership act
 
 &emsp;&emsp;(H) other activities designed to enhance the quality of adult education and literacy activities nationwide.
 
-(Pub. L. 105–220, title II, §243, Aug. 7, 1998, 112 Stat. 1078; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(e)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417.)
+(Pub. L. 105–220, title II, §243, Aug. 7, 1998, 112 Stat. 1078; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(e)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417; Pub. L. 110–154, §1(c)(2), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### Amendments
+
+2007—Par. (2)(A). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
 
 1998—Par. (2)(B). Pub. L. 105–277 substituted “quality” for “qualify”.
 

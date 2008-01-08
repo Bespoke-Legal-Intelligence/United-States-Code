@@ -10,7 +10,7 @@ Section 360, act Oct. 22, 1919, ch. 77, §9, 41 Stat. 295, authorized Secretary 
 
 #### Savings Provision
 
-Sections repealed subject to valid rights and obligations existing on Aug. 11, 1964, see section 1 of Pub. L.88–417, set out as a note under sections 351 to 355 of this title.
+Sections repealed subject to valid rights and obligations existing on Aug. 11, 1964, see section 1 of Pub. L. 88–417, set out as a note under sections 351 to 355 of this title.
 
 #### Processing of Pending Applications
 

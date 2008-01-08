@@ -44,7 +44,7 @@ As used in section 300ff–21 of this title, the term “home- and community-bas
 
 &emsp;&emsp;(B) nursing home and other long term care facilities.
 
-(July 1, 1944, ch. 373, title XXVI, §2614, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 589; amended Pub. L. 109–415, title II, §§201(c)(2), 204(a), (b), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2788, 2796, 2820.)
+(July 1, 1944, ch. 373, title XXVI, §2614, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 589; amended Pub. L. 109–415, title II,§§201(c)(2), 204(a), (b), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2788, 2796, 2820.)
 
 #### Repeal of Section
 

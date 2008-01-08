@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-From amounts made available under section 1030(2) of this title for a fiscal year, the Secretary is authorized to award grants under thissection, on a competitive basis, to eligible partnerships to enable the eligible partnerships to carry out the activities described in subsections (d) and (e) of this section.
+From amounts made available under section 1030(2) of this title for a fiscal year, the Secretary is authorized to award grants under this section, on a competitive basis, to eligible partnerships to enable the eligible partnerships to carry out the activities described in subsections (d) and (e) of this section.
 
 #### (b) Definitions
 
@@ -70,7 +70,7 @@ An eligible partnership that receives a grant under this section shall use the g
 
 #### (3) Professional development
 
-&emsp;Creating opportunities for enhanced and ongoing professional development that improvesthe academic content knowledge of teachers in the subject areas in which the teachers are certified to teach or in which the teachers are working toward certification to teach, and that promotes strong teaching skills.
+&emsp;Creating opportunities for enhanced and ongoing professional development that improves the academic content knowledge of teachers in the subject areas in which the teachers are certified to teach or in which the teachers are working toward certification to teach, and that promotes strong teaching skills.
 
 #### (e) Allowable uses of funds
 

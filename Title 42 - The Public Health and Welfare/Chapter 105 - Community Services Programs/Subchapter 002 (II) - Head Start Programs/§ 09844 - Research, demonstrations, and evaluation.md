@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) foster continuous improvement in the quality of the Head Start programs under this subchapter and in their effectiveness in enabling participating children and their families to succeed in school and otherwise; and
 
-&emsp;&emsp;(B) use the Head Start programs to develop, test, and disseminate new ideas and approaches for addressing the needs of low-income preschool children (including children with disabilities) and their families and communities (including demonstrations of innovative noncenter-based program models such as home-based and mobile programs), and otherwise to further the purposes of this subchapter.
+&emsp;&emsp;(B) use the Head Start programs to develop, test, and disseminate new ideas basedon existing scientifically valid research, for addressing the needs of low-income preschool children (including children with disabilities, homeless children, children who have been abused or neglected, and children in foster care) and their families and communities (including demonstrations of innovative non-center-based program models such as home-based and mobile programs), and otherwise to further the purposes of this subchapter.
 
 #### (2) Plan
 
@@ -20,7 +20,7 @@ The Secretary, in order to conduct research, demonstration, and evaluation activ
 
 &emsp;(1) may carry out such activities directly, or through grants to, or contracts or cooperative agreements with, public or private entities;
 
-&emsp;(2) shall, to the extent appropriate, undertake such activities in collaboration withother Federal agencies, and with non-Federal agencies, conducting similar activities;
+&emsp;(2) shall, to the extent appropriate, undertake such activities in collaboration with other Federal agencies, and with non-Federal agencies, conducting similar activities;
 
 &emsp;(3) shall ensure that evaluation of activities in a specific program or project is conducted by persons not directly involved in the operation of such program or project;
 
@@ -58,33 +58,21 @@ The research, demonstration, and evaluation activities under this subchapter sha
 
 &emsp;(4) assist in developing knowledge concerning the factors that promote or inhibit healthy development and effective functioning of children and their families both during and following participation in a Head Start program;
 
-&emsp;(5) permit comparisons of children and families participating in Head Start programs with children and families receiving other child care, early childhood education, or child development services and with other appropriate control groups;
+&emsp;(5)(A) identify successful strategies that promote good oral health and provide effective linkages to quality dental services through pediatric dental referral networks, for infants and toddlers participating in Early Head Start programs and children participating in other Head Start programs; and
 
-&emsp;(6) contribute to understanding the characteristics and needs of population groups eligible for services provided under this subchapter and the impact of such services on the individuals served and the communities in which such services are provided;
+&emsp;(B) identify successful strategies that promote good vision health through vision screenings for such infants, toddlers, and children, and referrals for appropriate followup care for those identified as having a vision problem;
 
-&emsp;(7) provide for disseminating and promoting the use of the findings from such research, demonstration, and evaluation activities;
+&emsp;(6) permit comparisons of children and families participating in Head Start programs with children and families receiving other child care, early childhood education and development or services <sup>1</sup> programs and with other appropriate control groups;
 
-&emsp;(8) promote exploration of areas in which knowledge is insufficient, and that will otherwise contribute to fulfilling the purposes of this subchapter;
+&emsp;(7) contribute to understanding the characteristics and needs of population groups eligible for services provided under this subchapter and the impact of such services on the individuals served and the communities in which such services are provided;
 
-&emsp;(9) study the experiences of small, medium, and large States with Head Start programs in order to permit comparisons of children participating in the programs with eligible children who did not participate in the programs, which study—
+&emsp;(8) provide for disseminating and promoting the use of the findings from such research, demonstration, and evaluation activities;
 
-&emsp;&emsp;(A) may include the use of a data set that existed prior to the initiation of the study; and
+&emsp;(9) promote exploration of areas in which knowledge is insufficient, and that will otherwise contribute to fulfilling the purposes of this subchapter; and
 
-&emsp;&emsp;(B) shall compare the educational achievement, social adaptation, and health status of the participating children and the eligible nonparticipating children; and
+&emsp;(10)(A) contribute to understanding the impact of Head Start services delivered in classrooms which include both children with disabilities and children without disabilities, on all of the children; and
 
-&emsp;(10) provide for—
-
-&emsp;&emsp;(A) using the Survey of Income and Program Participation to conduct an analysis of the different income levels of Head Start participants compared to comparable persons who did not attend Head Start programs;
-
-&emsp;&emsp;(B) using the National Longitudinal Survey of Youth, which began gathering data in 1988 on children who attended Head Start programs, to examine the wide range of outcomes measured within the Survey, including outcomes related to cognitive, socio-emotional, behavioral, and academic development;
-
-&emsp;&emsp;(C) using the Survey of Program Dynamics, the new longitudinal survey required by section 614 of this title, to begin annual reporting, through the duration of the Survey, on Head Start program attendees’ academic readiness performance and improvements;
-
-&emsp;&emsp;(D) ensuring that the Survey of Program Dynamics is linked with the National Longitudinal Survey of Youth at least once by the use of a common performance test, to be determined by the expert panel, for the greater national usefulness of the National Longitudinal Survey of Youth database; and
-
-&emsp;&emsp;(E) disseminating the results of the analysis, examination, reporting, and linkage described in subparagraphs (A) through (D) to persons conducting other studies under this subchapter.
-
-> The Secretary shall ensure that an appropriate entity carries out a study described in paragraph (9), and prepares and submits to the appropriate committees of Congress a report containing the results of the study, not later than September 30, 2002.
+&emsp;(B) disseminate promising practices for increasing the availability and quality of such services and such classrooms.
 
 #### (e) Longitudinal studies
 
@@ -94,7 +82,7 @@ In developing priorities for research, demonstration, and evaluation activities 
 
 &emsp;(2) examine factors related to improving the quality of the Head Start programs and the preparation the programs provide for children and their families to function effectively in schools and other settings in the years following participation in such a program; and
 
-&emsp;(3) as appropriate, permit comparison of children and families participating in Head Start programs with children and families receiving other child care, early childhood education, or child development services, and with other appropriate control groups.
+&emsp;(3) as appropriate, permit comparison of children and families participating in Head Start programs with children and families receiving other early childhood education and development services or programs, and with other appropriate control groups.
 
 #### (f) Ownership of results
 
@@ -188,41 +176,217 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 &emsp;&emsp;The organization shall prepare and submit to the Secretary a final report containing the findings of the research.
 
-#### (C) Transmittal of reports to Congress
+#### (C) Transmittal of report to Congress
 
-#### (i) In general
-
-&emsp;&emsp;&emsp;The Secretary shall transmit, to the committees described in clause (ii), the first interim report by September 30, 1999, the second interim report by September 30, 2001, and the final report by September 30, 2003.
-
-#### (ii) Committees
-
-&emsp;&emsp;&emsp;The committees referred to in clause (i) are the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
+&emsp;&emsp;Not later than September 30, 2009, the Secretary shall transmit the final report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 #### (8) Definition
 
 &emsp;In this subsection, the term “impact”, used with respect to a Head Start program, means a difference in an outcome for a participant in the program that would not have occurred without the participation in the program.
 
-#### (h) Quality improvement study
+#### (h) Limited English proficient children
 
 #### (1) Study
 
-&emsp;The Secretary shall conduct a study regarding the use and effects of use of the quality improvement funds made available under section 9835(a)(3) of this title since fiscal year 1991.
+&emsp;Not later than 1 year after December 12, 2007, the Secretary shall conduct a study on the status of limited English proficient children and their families participating in Head Start programs (including Early Head Start programs).
 
 #### (2) Report
 
-&emsp;The Secretary shall prepare and submit to Congress not later than September 2000 a report containing the results of the study, including information on—
+&emsp;The Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than September 30, 2010, a report containing the results of the study, including information on—
 
-&emsp;&emsp;(A) the types of activities funded with the quality improvement funds;
+&emsp;&emsp;(A) the demographics of limited English proficient children from birth through age 5, including the number of such children receiving Head Start services and Early Head Start services, and the geographic distribution of children described in this subparagraph;
 
-&emsp;&emsp;(B) the extent to which the use of the quality improvement funds has accomplished the goals of section 9835(a)(3)(B) of this title;
+&emsp;&emsp;(B) the nature of the Head Start services and of the Early Head Start services provided to limited English proficient children and their families, including the types, content, duration, intensity, and costs of family services, language assistance, and educational services;
 
-&emsp;&emsp;(C) the effect of use of the quality improvement funds on teacher training, salaries, benefits, recruitment, and retention; and
+&emsp;&emsp;(C) procedures in Head Start programs and Early Head Start programs for the assessment of language needs and the transition of limited English proficient children to kindergarten, including the extent to which such programs meet the requirements of section 9837a of this title for limited English proficient children;
 
-&emsp;&emsp;(D) the effect of use of the quality improvement funds on the development of children receiving services under this subchapter.
+&emsp;&emsp;(D) the qualifications and training provided to Head Start teachers and Early Head Start teachers who serve limited English proficient children and their families;
 
-(Pub. L. 97–35, title VI, §649, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §107, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §117(a), Nov. 3, 1990, 104 Stat. 1233; Pub. L. 103–252, title I, §116, May 18, 1994, 108 Stat. 646; Pub. L. 105–244, title I, §102(a)(13)(G), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–285, title I, §116, Oct. 27, 1998, 112 Stat. 2723.)
+&emsp;&emsp;(E) the languages in which Head Start teachers and Early Head Start teachers are fluent, in relation to the population, and instructional needs, of the children served;
+
+&emsp;&emsp;(F) the rate of progress made by limited English proficient children and their families in Head Start programs and in Early Head Start programs, including—
+
+&emsp;&emsp;&emsp;(i) the rate of progress made by limited English proficient children toward meeting the additional educational standards described in section 9836a(a)(1)(B)(ii) of this title while enrolled in such programs;
+
+&emsp;&emsp;&emsp;(ii) a description of the type of assessment or assessments used to determine the rate of progress made by limited English proficient children;
+
+&emsp;&emsp;&emsp;(iii) the correlation between such progress and the type and quality of instruction and educational programs provided to limited English proficient children; and
+
+&emsp;&emsp;&emsp;(iv) the correlation between such progress and the health and family services provided by such programs to limited English proficient children and their families; and
+
+&emsp;&emsp;(G) the extent to which Head Start programs and Early Head Start programs makeuse of funds under section 9835(a)(2)(D) of this title to improve the quality of such services provided to limited English proficient children and their families.
+
+#### (i) Research and evaluation activities relevant to diverse communities
+
+For purposes of conducting the study described in subsection (h), activities described in section 9835(<i>l</i>)(5)(A) of this title, and other research and evaluation activities relevant to limited English proficient children and their families, migrant and seasonal farmworker families, and other families from diverse populations served by Head Start programs, the Secretary shall award, on a competitive basis, funds from amounts made available under section 9835(a)(2)(D) of this title to 1 or more organizations with a demonstrated capacity for serving and studying the populations involved.
+
+#### (j) Review of assessments
+
+#### (1) Application of study
+
+&emsp;When the study on Developmental Outcomes and Assessments for Young Children by the National Academy of Sciences is made available to the Secretary, the Secretary shall—
+
+&emsp;&emsp;(A) integrate the results of the study, as appropriate and in accordance with paragraphs (2) and (3), into each assessment used in Head Start programs; and
+
+&emsp;&emsp;(B) use the results of the study to develop, inform, and revise as appropriate the standards and measures described in section 9836a of this title, consistent with section 9836a(a)(2)(C)(ii) of this title.
+
+#### (2) Inform and revise
+
+&emsp;In informing and revising any assessment used in the Head Start programs, the Secretary shall—
+
+&emsp;&emsp;(A) receive recommendations from the Panel on Developmental Outcomes and Assessments for Young Children of the National Academy of Sciences; and
+
+&emsp;&emsp;(B) with respect to the development or refinement of such assessment, ensure—
+
+&emsp;&emsp;&emsp;(i) consistency with relevant, nationally recognized professional and technical standards;
+
+&emsp;&emsp;&emsp;(ii) validity and reliability for all purposes for which assessments under this subchapter are designed and used;
+
+&emsp;&emsp;&emsp;(iii) developmental and linguistic appropriateness of such assessments for children assessed, including children who are limited English proficient; and
+
+&emsp;&emsp;&emsp;(iv) that the results can be used to improve the quality of, accountability of, and training and technical assistance in, Head Start programs.
+
+#### (3) Additional requirements
+
+&emsp;The Secretary, in carrying out the process described in paragraph (2), shall ensure that—
+
+&emsp;&emsp;(A) staff administering any assessments under this subchapter have received appropriate training to administer such assessments;
+
+&emsp;&emsp;(B) appropriate accommodations for children with disabilities and children who are limited English proficient are made;
+
+&emsp;&emsp;(C) the English and Spanish (and any other language, as appropriate) forms of such assessments are valid and reliable in the languages in which they are administered; and
+
+&emsp;&emsp;(D) such assessments are not used to exclude children from Head Start programs.
+
+#### (4) Suspended implementation of national reporting system
+
+&emsp;The Secretary shall suspend implementation and terminate further development and use of the National Reporting System.
+
+#### (k) Indian Head Start study
+
+The Secretary shall—
+
+&emsp;(1) work in collaboration with the Head Start agencies that carry out Indian Head Start programs, the Indian Head Start collaboration director, and other appropriate entities, including tribal governments and the National Indian Head Start Directors Association—
+
+&emsp;&emsp;(A) to undertake a study or set of studies designed to focus on the American Indian and Alaska Native Head Start-eligible population, with a focus on issues such as curriculum development, availability and need for services, appropriate research methodologies and measures for these populations, and best practices for teaching and educating American Indian and Alaska Native Head Start Children;
+
+&emsp;&emsp;(B) to accurately determine the number of children nationwide who are eligible to participate in Indian Head Start programs each year;
+
+&emsp;&emsp;(C) to document how many of these children are receiving Head Start services each year;
+
+&emsp;&emsp;(D) to the extent practicable, to ensure that access to Indian Head Start programs for eligible children is comparable to access to other Head Start programs for other eligible children; and
+
+&emsp;&emsp;(E) to make the funding decisions required in section 9835(a)(4)(D)(ii) of this title, after completion of the studies required in that section, taking into account—
+
+&emsp;&emsp;&emsp;(i) the Federal government's <sup>2</sup> unique trust responsibility to American Indians and Alaska Natives;
+
+&emsp;&emsp;&emsp;(ii) limitations faced by tribal communities in accessing non-Federal sources of funding to supplement Federal funding for early childhood programs; and
+
+&emsp;&emsp;&emsp;(iii) other factors that uniquely and adversely impact children in American Indian and Alaska Native communities such as highly elevated poverty, unemployment and violent crime rates, as well as depressed levels of educational achievement and limited access to non-Federal health, social and educational resources;
+
+&emsp;(2) in carrying out paragraph (1), consult with the Secretary of Education about the Department of Education's systems for collecting and reporting data about, and maintaining records on, American Indian and Alaska Native students;
+
+&emsp;(3) not later than 9 months after the effective date of this subsection, publish in the Federal Register a notice of how the Secretary plans to carry out paragraph (1) and shall provide a period for public comment. To the extent practicable, the Secretary shall consider comments received before submitting a report to the Congress;
+
+&emsp;(4) not later than 1 year after the effective date of this subsection, submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, detailing how the Department of Health and Human Services plans to carry out paragraph (1);
+
+&emsp;(5) through regulation, ensure the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary, by Head Start agencies that carry out Indian Head Start programs, and by State Directors of Head Start Collaboration, by the Indian Head Start Collaboration Project Director and by other appropriate entities pursuant to this subsection (such regulations shall provide the policies, protections, and rights equivalent to those provided a parent, student, or educational agency or institution under section 1232g of title 20); and
+
+&emsp;(6) ensure that nothing in this subsection shall be construed to authorize the development of a nationwide database of personally identifiable information on individuals involved in studies or other collections of data under this subsection.
+
+#### (<i>l</i>) Migrant and seasonal Head Start program study
+
+#### (1) Data
+
+&emsp;In order to increase access to Head Start services for children of migrant and seasonal farmworkers, the Secretary shall work in collaboration with providers of migrant and seasonal Head Start programs, the Secretary of Agriculture, the Secretary of Labor, the Bureau of Migrant Health, and the Secretary of Education to—
+
+&emsp;&emsp;(A) collect, report, and share data, within a coordinated system, on children of migrant and seasonal farmworkers and their families, including health records and educational documents of such children, in order to adequately account for the number of children of migrant and seasonal farmworkers who are eligible for Head Start services and determine how many of such children receive the services; and
+
+&emsp;&emsp;(B) identify barriers that prevent children of migrant and seasonal farmworkers who are eligible for Head Start services from accessing Head Start services, and develop a plan for eliminating such barriers, including certain requirements relating to tracking, health records, and educational documents, and increasing enrollment.
+
+#### (2) Publication of plan
+
+&emsp;Not later than 1 year after December 12, 2007, the Secretary shall publish in the Federal Register a notice about how the Secretary plans to implement the activities identified in paragraph (1) and shall provide a period for public comment. To the extent practicable, the Secretary shall consider comments received before implementing any of the activities identified in paragraph (1).
+
+#### (3) Report
+
+&emsp;Not later than 18 months after December 12, 2007, and annually thereafter, the Secretary shall submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate detailing how the Secretary plans to implement the activities identified in paragraph (1), including the progress made in reaching out to and serving eligible children of migrant and seasonal farmworkers, and information on States where such children are still underserved.
+
+#### (4) Protection of confidentiality
+
+&emsp;The Secretary shall, through regulation, ensure the protection of the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary, by Head Start agencies that carry out migrant or seasonal Head Start programs, by the State director of Head Start Collaboration, and by the Migrant and Seasonal Farmworker Collaboration project Director (such regulations shall provide the policies, protections, and rights equivalent to those provided a parent, student, or educational agency or institution under section 1232g of title 20).
+
+#### (5) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed to authorize the development of a nationwide database of personally identifiable data, information, or records on individuals involved in studies or other collections of data under this subsection.
+
+#### (m) Program emergency preparedness
+
+#### (1) Purpose
+
+&emsp;The purpose of this subsection is to evaluate the emergency preparedness of the Head Start programs, including Early Head Start programs, and make recommendations for how Head Start shall enhance its readiness to respond to an emergency.
+
+#### (2) Study
+
+&emsp;The Secretary shall evaluate the Federal, State, and local preparedness of Head Start programs, including Early Head Start programs, to respond appropriately in the event of a large-scale emergency, such as the hurricanes Katrina, Rita, and Wilma, the terrorist attacks of September 11, 2001, or other incidents where assistance may be warranted under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+
+#### (3) Report to Congress
+
+&emsp;Not later than 18 months after December 12, 2007, the Secretary shall prepare and submit to Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions ofthe Senate a report containing the results of the evaluation required under paragraph (2), including—
+
+&emsp;&emsp;(A) recommendations for improvements to Federal, State, and local preparedness and response capabilities to large-scale emergencies, including those that were developed in response to hurricanes Katrina, Rita, and Wilma, as they relate to Head Start programs, including Early Head Start programs, and the Secretary's plan to implement such recommendations;
+
+&emsp;&emsp;(B) an evaluation of the procedures for informing families of children in Head Start programs about the program protocols for response to a large-scale emergency, including procedures for communicating with such families in the event of a large-scale emergency;
+
+&emsp;&emsp;(C) an evaluation of such procedures for staff training on State and local evacuation and emergency protocols; and
+
+&emsp;&emsp;(D) an evaluation of procedures for Head Start agencies and the Secretary to coordinate with appropriate Federal, State, and local emergency management agencies in the event of a large scale emergency and recommendations to improve such procedures.
+
+(Pub. L. 97–35, title VI, §649, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §107, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §117(a), Nov. 3, 1990, 104 Stat. 1233; Pub. L. 103–252, title I, §116, May 18, 1994, 108 Stat. 646; Pub. L. 105–244, title I, §102(a)(13)(G), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–285, title I, §116, Oct. 27, 1998, 112 Stat. 2723; Pub. L. 110–134, §20, Dec. 12, 2007, 121 Stat. 1435.)
+
+#### References in Text
+
+The effective date of this subsection, referred to in subsec. (k)(3), (4), probably means the date of enactment of Pub. L. 110–134, which enacted subsec. (k) of this section and was approved Dec. 12, 2007.
+
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (m)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (a)(1)(B). Pub. L. 110–134, §20(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “use the Head Start programs to develop, test, and disseminate new ideas and approaches for addressing the needs of low-income preschool children (including children with disabilities) and their families and communities (including demonstrations of innovative noncenter-based program models such as home-based and mobile programs), and otherwise to further the purposes of this subchapter.”
+
+Subsec. (d). Pub. L. 110–134, §20(2)(F), struck out concluding provisions which read as follows: “The Secretary shall ensure that an appropriate entity carries out a study described in paragraph (9), and prepares and submits to the appropriate committees of Congress a report containing the results of the study, not later than September 30, 2002.”
+
+Subsec. (d)(5). Pub. L. 110–134, §20(2)(E), added par. (5). Former par. (5) redesignated (6).
+
+Pub. L. 110–134, §20(2)(C), substituted “early childhood education and development or services programs” for “early childhood education, or child development services”.
+
+Subsec. (d)(6), (7). Pub. L. 110–134, §20(2)(D), redesignated pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+
+Subsec. (d)(8). Pub. L. 110–134, §20(2)(D), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Pub. L. 110–134, §20(2)(A), inserted “and” at end.
+
+Subsec. (d)(9). Pub. L. 110–134, §20(2)(B), (D), redesignated par. (8) as (9) and struck out former par. (9) which read as follows: “study the experiences of small, medium, and large States with Head Start programs in order to permit comparisons of children participating in the programs with eligible children who did not participate in the programs, which study—
+
+&emsp;“(A) may include the use of a data set that existed prior to the initiation of the study; and
+
+&emsp;“(B) shall compare the educational achievement, social adaptation, and health status of the participating children and the eligible nonparticipating children; and”
+
+Subsec. (d)(10). Pub. L. 110–134, §20(2)(B), added par. (10) and struck out former par. (10) which provided for using the Survey of Income and Program Participation to conduct certain analyses, the National Longitudinal Survey of Youth to examine certain outcomes, and the Survey of Program Dynamics to begin certain annual reporting.
+
+Subsec. (e)(3). Pub. L. 110–134, §20(3), substituted “early childhood education and development services or programs” for “child care, early childhood education, or child development services”.
+
+Subsec. (g)(7)(C). Pub. L. 110–134, §20(4), amended subpar. (C) generally. Prior to amendment, text read as follows:
+
+“(i)
+
+In general.—The Secretary shall transmit, to the committees described in clause (ii), the first interim report by September 30, 1999, the second interim report by September 30, 2001, and the final report by September 30, 2003.
+
+“(ii)
+
+Committees.—The committees referred to in clause (i) are the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.”
+
+Subsecs. (h) to (m). Pub. L. 110–134, §20(5), added subsecs. (h) to (m) and struck out former subsec. (h) which related to quality improvement study.
 
 1998—Subsec. (c)(3). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
@@ -234,17 +398,13 @@ Subsec. (d)(9), (10). Pub. L. 105–285, §116(1)(A), (B), (E), added pars. (9) 
 
 Subsecs. (g), (h). Pub. L. 105–285, §116(2), added subsecs. (g) and (h).
 
-1994—Pub. L. 103–252 substituted “Research, demonstrations, and evaluation” for “Research, demonstration, pilot projects, studies, and reports” in section catchline and amended text generally, substituting provisions requiring Secretary to conduct a research, demonstration, and evaluation program to continually improve Head Start programs and develop innovative ways to further purposes of this subchapter, consult with others on the program, consider longitudinal studies in developing priorities for program, and ensure all products of program become United States property and defining objectives of program, for provisions authorizing the Secretary to provide financial assistance through contracts and grants for research, demonstration or pilot projects to develop new approaches to further purposes of this subchapter, directing Secretary toestablish plan for approval of such projects, restricting combination of funds appropriated under this subchapter with other appropriations to make a single grant, requiring Secretary to conduct study of approaches to provide early, continuous, and comprehensive intervention to low-income or at-risk children and study of family day care in compliance with performance standards and to report results of studies to Congress.
+1994—Pub. L. 103–252 substituted “Research, demonstrations, and evaluation” for “Research, demonstration, pilot projects, studies, and reports” in section catchline and amended text generally, substituting provisions requiring Secretary to conduct a research, demonstration, and evaluation program to continually improve Head Start programs and develop innovative ways to further purposes of this subchapter, consult with others on the program, consider longitudinal studies in developing priorities for program, and ensure all products of program become United States property and defining objectives of program, for provisions authorizing the Secretary to provide financial assistance through contracts and grants for research, demonstration or pilot projects to develop new approaches to further purposes of this subchapter, directing Secretary to establish plan for approval of such projects, restricting combination of funds appropriated under this subchapter with other appropriations to make a single grant, requiring Secretary to conduct study of approaches to provide early, continuous, and comprehensive intervention to low-income or at-risk children and study of family day care in compliance with performance standards and to report results of studies to Congress.
 
 1990—Pub. L. 101–501, §117(a)(1), substituted “Research, demonstration, pilot projects, studies, and reports” for “Research, demonstration, and pilot projects” in section catchline.
 
 Subsecs. (d) to (f). Pub. L. 101–501, §117(a)(2), added subsecs. (d) to (f).
 
 1984—Subsec. (c). Pub. L. 98–558 added subsec. (c).
-
-#### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1998 Amendment
 
@@ -261,4 +421,8 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 #### Study of Full-Day and Full-Year Head Start Programs
 
 Section 126 of Pub. L. 103–252 directed Secretary of Health and Human Services to conduct a study of extent to which Head Start programs address the need for Head Start services during a full working day or full calendar year among eligible low-income families with preschool children and to submit a report to Congress not later than Jan. 31, 1997.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “services or”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

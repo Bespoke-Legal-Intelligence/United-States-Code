@@ -194,7 +194,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (ii) Right to match highest bid
 
-&emsp;&emsp;&emsp;If the highest bidder is a person who is only eligible to bid under clause (i)(III), the Indian tribe that has jurisdiction over the parcel, if any, shall have the right to match the highest bid and acquire the parcel, but only if—
+&emsp;&emsp;&emsp;If the highest bidder is a person who is only eligible to bid under clause (i)(III),the Indian tribe that has jurisdiction over the parcel, if any, shall have the right to match the highest bid and acquire the parcel, but only if—
 
 &emsp;&emsp;&emsp;&emsp;(I) prior to the date of the sale, the governing body of such tribe has adopted a tribal law or resolution reserving its right to match the bids of such nonmember bidders in partition sales under this subsection and delivered a copy of such law or resolution to the Secretary; and
 
@@ -254,7 +254,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;(i) commence a civil action in the United States district court for the district in which the parcel of land is located; and
 
-&emsp;&emsp;&emsp;(ii) request that the court issue an order for ejectment or any other appropriateremedy necessary for the partition of the land by sale.
+&emsp;&emsp;&emsp;(ii) request that the court issue an order for ejectment or any other appropriate remedy necessary for the partition of the land by sale.
 
 #### (B) Federal role
 
@@ -336,7 +336,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 #### Severability
 
-Invalidity of any provision of Pub. L. 108–374 not to affect validity of remaining provisions, except thateach of subcls. (II), (III), or (IV) of subsection (c)(2)(I)(i) of this section deemed to be inseverable from the other two, such that invalidity of any one subcl. renders the other two without effect, see section 9 of Pub. L. 108–374, as amended, set out as a note under section 2201 of this title.
+Invalidity of any provision of Pub. L. 108–374 not to affect validity of remaining provisions, except that each of subcls. (II), (III), or (IV) of subsection (c)(2)(I)(i) of this section deemed to be inseverable from the other two, such that invalidity of any one subcl. renders the other two without effect, see section 9 of Pub. L. 108–374, as amended, set out as a note under section 2201 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(2)(C),”.</i>
 

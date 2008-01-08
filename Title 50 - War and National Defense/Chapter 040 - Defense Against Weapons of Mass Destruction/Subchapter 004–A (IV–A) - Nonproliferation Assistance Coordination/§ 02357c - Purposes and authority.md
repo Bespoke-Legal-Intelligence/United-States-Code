@@ -32,7 +32,7 @@ In carrying out the responsibilities described in subsection (a) of this section
 
 &emsp;(5) encourage companies and nongovernmental organizations involved in nonproliferation efforts of the independent states of the former Soviet Union or other countries of concern to voluntarily report these efforts to it;
 
-&emsp;(6) direct the preparation of analyses on issues and problems relating to the coordination between the United States and other countries with respect to nonproliferation efforts, and particularly such efforts in the independent states of the former Soviet Union; and
+&emsp;(6) direct the preparation of analyses on issues and problems relating to the coordinationbetween the United States and other countries with respect to nonproliferation efforts, and particularly such efforts in the independent states of the former Soviet Union; and
 
 &emsp;(7) consider, and make recommendations to the President with respect to, proposals for such new legislation or regulations relating to United States nonproliferation efforts as may be necessary.
 

@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(I) An urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\].
 
-&emsp;&emsp;(J) Any entity receiving assistance under subchapter XXIV of this chapter (other than a State or unit of local government or an entity described in subparagraph (D)), but only if the entity is certified by the Secretary pursuant to paragraph (7).
+&emsp;&emsp;(J) Any entity receiving assistance under subchapter XXIV of this chapter (other than a State or unit of local government or an entity described in subparagraph (D)), but onlyif the entity is certified by the Secretary pursuant to paragraph (7).
 
 &emsp;&emsp;(K) An entity receiving funds under section 247c of this title (relating to treatment of sexually transmitted diseases) or section 247b(j)(2) <sup>1</sup> of this title (relating to treatment of tuberculosis) through a State or unit of local government, but only if the entity is certified by the Secretary pursuant to paragraph (7).
 
@@ -90,7 +90,7 @@
 
 #### (6) Treatment of distinct units of hospitals
 
-&emsp;In the case of a covered entity that is a distinct part of a hospital, the hospital shall notbe considered a covered entity under this paragraph unless the hospital is otherwise a covered entity under this subsection.
+&emsp;In the case of a covered entity that is a distinct part of a hospital, the hospital shall not be considered a covered entity under this paragraph unless the hospital is otherwise a covered entity under this subsection.
 
 #### (7) Certification of certain covered entities
 

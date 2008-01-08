@@ -22,7 +22,7 @@ Notwithstanding section 6013(d)(3)—
 
 &emsp;&emsp;(C) the other individual filing the joint return establishes that in signing the return he or she did not know, and had no reason to know, that there was such understatement;
 
-&emsp;&emsp;(D) taking into account all the facts and circumstances, it is inequitable to hold the other individual liable for the deficiency in tax for such taxable year attributable to such understatement; and
+&emsp;&emsp;(D) taking into account all the facts and circumstances, it is inequitable to hold theother individual liable for the deficiency in tax for such taxable year attributable to such understatement; and
 
 &emsp;&emsp;(E) the other individual elects (in such form as the Secretary may prescribe) the benefits of this subsection not later than the date which is 2 years after the date the Secretary has begun collection activities with respect to the individual making the election,
 
@@ -88,11 +88,11 @@ Notwithstanding section 6013(d)(3)—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For purposes of clause (i), except as provided in subclause (II), any transferwhich is made after the date which is 1 year before the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent shall be presumed to have as its principal purpose the avoidance of tax or payment of tax.
+&emsp;&emsp;&emsp;&emsp;For purposes of clause (i), except as provided in subclause (II), any transfer which is made after the date which is 1 year before the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent shall be presumed to have as its principal purpose the avoidance of tax or payment of tax.
 
 #### (II) Exceptions
 
-&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply to any transfer pursuant to a decree of divorce or separate maintenance or a written instrument incident to such a decree or to any transfer which an individual establishes did not have as its principal purpose the avoidance of tax or payment of tax.
+&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply to any transfer pursuant to a decree of divorceor separate maintenance or a written instrument incident to such a decree or to any transfer which an individual establishes did not have as its principal purpose the avoidance of tax or payment of tax.
 
 #### (d) Allocation of deficiency
 
@@ -162,7 +162,7 @@ For purposes of subsection (c)—
 
 #### (ii) Authority to enjoin collection actions
 
-&emsp;&emsp;&emsp;Notwithstanding the provisions of section 7421(a), the beginning of such levy or proceeding during the time the prohibition under clause (i) is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Courtshall have no jurisdiction under this subparagraph to enjoin any action or proceeding unless a timely petition has been filed under subparagraph (A) and then only in respect of the amount of the assessment to which the election under subsection (b) or (c) relates or to which the request under subsection (f) relates.
+&emsp;&emsp;&emsp;Notwithstanding the provisions of section 7421(a), the beginning of such levy or proceeding during the time the prohibition under clause (i) is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this subparagraph to enjoin any action or proceeding unless a timely petition has been filed under subparagraph (A) and then only in respect of the amount of the assessment to which the election under subsection (b) or (c) relates or to which the request under subsection (f) relates.
 
 #### (2) Suspension of running of period of limitations
 

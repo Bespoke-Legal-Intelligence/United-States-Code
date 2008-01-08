@@ -72,7 +72,7 @@ Transition for Certain Reserve Warrant Officers Serving in a Higher Temporary Gr
 
 > shall be considered to have been recommended by a board convened under section 598 \[now 12242\] of title 10, United States Code, for promotion to the permanent grade equivalent to the grade in which the warrant officer is serving or for which that warrant officer has been recommended for promotion, as the case may be.
 
-“(B) The date of rank of a warrant officer referred to in subparagraph (A)(i) who is promoted to the grade in which that warrant officer is considered under such subparagraph to have been recommended for promotion is the date of the temporary appointment of that warrant officer in that grade.
+“(B) The date of rank of a warrant officer referred to in subparagraph (A)(i) who is promoted to the grade in which that warrant officer is considered under suchsubparagraph to have been recommended for promotion is the date of the temporary appointment of that warrant officer in that grade.
 
 “(2) A reserve warrant officer of the Coast Guard who on the effective date of this section—
 

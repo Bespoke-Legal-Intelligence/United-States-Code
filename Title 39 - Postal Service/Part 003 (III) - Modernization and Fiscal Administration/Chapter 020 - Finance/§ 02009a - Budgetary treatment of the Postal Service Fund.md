@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, the receipts and disbursements of th
 
 &emsp;(2) shall be exempt from any general budget limitation imposed by statute on expenditures and net lending (budget outlays) of the United States Government; and
 
-&emsp;(3) shall be exempt from any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985, and shall not be counted for purposes of calculating the deficit under section 3(6) of the Congressional Budget and Impoundment Control Act of 1974 for purposes of comparison with the maximum deficit amount under the Balanced Budget and Emergency Deficit Control Act of 1985 nor counted in calculating the excess deficit for purposes of sections 251 and 252 <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985, for any fiscal year.
+&emsp;(3) shall be exempt from any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985, and shall not be counted for purposes of calculating the deficit under section 3(6) of the Congressional Budget and Impoundment Control Act of 1974 for purposes of comparison with the maximum deficit amount under the Balanced Budget and Emergency Deficit Control Act of 1985 nor counted in calculating the excess deficit for purposes of sections 251 and 252 <sup>1</sup> of theBalanced Budget and Emergency Deficit Control Act of 1985, for any fiscal year.
 
 (Added Pub. L. 101–239, title IV, §4001(a)(1), Dec. 19, 1989, 103 Stat. 2133.)
 

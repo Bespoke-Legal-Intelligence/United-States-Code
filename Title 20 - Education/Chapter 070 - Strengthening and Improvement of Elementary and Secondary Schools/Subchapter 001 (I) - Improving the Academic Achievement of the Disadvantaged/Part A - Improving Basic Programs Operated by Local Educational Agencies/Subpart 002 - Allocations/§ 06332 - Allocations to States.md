@@ -14,7 +14,7 @@ Of the amount appropriated under section 6302(a) of this title to carry out this
 
 #### (1) In general
 
-&emsp;If the sums available under this subpart for any fiscal year are insufficient to pay the full amounts that all local educational agencies in States are eligible to receive under sections 6333, 6334, and 6335 of this title for such year,the Secretary shall ratably reduce the allocations to such local educational agencies, subject to subsections (c) and (d) of this section.
+&emsp;If the sums available under this subpart for any fiscal year are insufficient to pay the full amounts that all local educational agencies in States are eligible to receive under sections 6333, 6334, and 6335 of this title for such year, the Secretary shall ratably reduce the allocations to such local educational agencies, subject to subsections (c) and (d) of this section.
 
 #### (2) Additional funds
 

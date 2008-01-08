@@ -54,7 +54,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (3) Actions brought by individuals and businesses
 
-&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution orany Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
+&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution or any Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
 
 #### (e) Recoupment
 
@@ -120,7 +120,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (iii) Denial of assistance
 
-&emsp;&emsp;&emsp;No appropriated funds may be used for the purpose of providing economic assistance, providing military assistance or grant military education and training, orextending military credits or making guarantees to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;No appropriated funds may be used for the purpose of providing economic assistance, providing military assistance or grant military education and training, or extending military credits or making guarantees to a country described in subparagraph (A).
 
 #### (iv) Sanctions under Export Administration Act of 1979
 
@@ -128,7 +128,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (v) International financial assistance
 
-&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance byinternational financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
 
 #### (vi) Termination of assistance under Foreign Assistance Act of 1961
 
@@ -203,4 +203,8 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 The Arms Export Control Act, referred to in subsec. (e)(2)(B)(i), (3)(B)(i), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (e)(3)(B)(vi), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

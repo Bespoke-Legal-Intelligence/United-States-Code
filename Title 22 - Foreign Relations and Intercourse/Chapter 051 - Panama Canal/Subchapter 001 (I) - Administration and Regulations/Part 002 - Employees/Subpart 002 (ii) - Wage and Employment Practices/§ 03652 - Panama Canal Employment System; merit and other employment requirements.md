@@ -26,7 +26,7 @@ The Commission shall establish a Panama Canal Employment System and prescribe th
 
 The Commission may exclude any employee or position from coverage under any provision of this subpart, other than the interchange rights extended under subsection (a)(4) of this section.
 
-(Pub. L. 96–70, title I, §1212, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV,§3530(a), Sept. 23, 1996, 110 Stat. 2862; Pub. L. 105–85, div. C, title XXXV, §§3523(d), 3550(d)(5), Nov. 18, 1997, 111 Stat. 2065, 2074; Pub. L. 105–261, div. A, title XXXV, §§3507(c), 3512(a)(2), Oct. 17, 1998, 112 Stat. 2269, 2271.)
+(Pub. L. 96–70, title I, §1212, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV, §3530(a), Sept. 23, 1996, 110 Stat. 2862; Pub. L. 105–85, div. C, title XXXV, §§3523(d), 3550(d)(5), Nov. 18, 1997, 111 Stat. 2065, 2074; Pub. L. 105–261, div. A, title XXXV, §§3507(c), 3512(a)(2), Oct. 17, 1998, 112 Stat. 2269, 2271.)
 
 #### References in Text
 
@@ -42,7 +42,7 @@ The Panama Canal Commission Authorization Act for Fiscal Year 1999, referred to 
 
 1998—Subsec. (b)(3). Pub. L. 105–261, §3512(a)(2), inserted “the” after “by the head of”.
 
-Pub. L. 105–261, §3507(c), substituted “the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 1999” for “the Panama Canal Transition Facilitation Act of 1997”.
+Pub. L. 105–261, §3507(c), substituted “the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 Stat. 2062), or thePanama Canal Commission Authorization Act for Fiscal Year 1999” for “the Panama Canal Transition Facilitation Act of 1997”.
 
 1997—Subsec. (b)(3). Pub. L. 105–85, §3550(d)(5), substituted “as in effect on September 22, 1996” for “as last in effect before September 23, 1996”.
 

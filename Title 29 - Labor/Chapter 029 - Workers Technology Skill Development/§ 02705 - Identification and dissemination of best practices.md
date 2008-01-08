@@ -4,7 +4,7 @@
 
 #### (1) Information
 
-&emsp;The Secretary, in cooperation and after consultation with the Secretary of Commerce,shall assist workers, worker organizations, and employers in successfully adopting advanced workplace technologies, and advanced workplace practices by identifying, collecting, and disseminating information on best workplace practices and workplace assessment tools, including—
+&emsp;The Secretary, in cooperation and after consultation with the Secretary of Commerce, shall assist workers, worker organizations, and employers in successfully adopting advanced workplace technologies, and advanced workplace practices by identifying, collecting, and disseminating information on best workplace practices and workplace assessment tools, including—
 
 &emsp;&emsp;(A) methods, techniques, and successful models of labor-management cooperation and of worker and worker organization participation in the development, evaluation, selection, and implementation of new and advanced workplace technologies, and advanced workplace practices;
 
@@ -26,7 +26,7 @@
 
 #### (b) Distribution
 
-The information and materials developed under this section shall be distributed through an appropriate entity designated by the Secretary of Commerce to the Regional Centers for the Transfer of Manufacturing Technology, to the Manufacturing Outreach Center, to other technology training entities, and directly to others as determined appropriate by the Secretary of Labor and the Secretary of Commerce.
+The information and materials developed under this section shall be distributed throughan appropriate entity designated by the Secretary of Commerce to the Regional Centers for the Transfer of Manufacturing Technology, to the Manufacturing Outreach Center, to other technology training entities, and directly to others as determined appropriate by the Secretary of Labor and the Secretary of Commerce.
 
 (Pub. L. 103–382, title V, §546, Oct. 20, 1994, 108 Stat. 4055.)
 

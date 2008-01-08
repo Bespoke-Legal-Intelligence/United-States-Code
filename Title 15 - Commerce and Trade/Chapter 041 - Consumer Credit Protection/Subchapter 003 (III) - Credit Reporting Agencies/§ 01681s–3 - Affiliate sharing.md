@@ -56,7 +56,7 @@ A notice or other disclosure under this section may be coordinated and consolida
 
 #### (c) User requirements
 
-Requirements with respect to the use by a person of information received from another person related to it by common ownership or affiliated by corporate control, such as the requirements of this section, constitute requirements with respect to the exchange of information among persons affiliated by common ownership or common corporate control, within the meaning of section 1681t(b)(2) of this title.
+Requirements with respect to the use by a person of information received from another personrelated to it by common ownership or affiliated by corporate control, such as the requirements of this section, constitute requirements with respect to the exchange of information among persons affiliated by common ownership or common corporate control, within the meaning of section 1681t(b)(2) of this title.
 
 #### (d) Definitions
 
@@ -76,7 +76,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Solicitation
 
-&emsp;The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a) of this section, and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the generalpublic or determined not to be a solicitation by the regulations prescribed under this section.
+&emsp;The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a) of this section, and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
 
 (Pub. L. 90–321, title VI, §624, as added Pub. L. 108–159, title II, §214(a)(2), Dec. 4, 2003, 117 Stat. 1980.)
 
@@ -156,7 +156,7 @@ Reports.—
 
 &emsp;“(A)
 
-Initial report.—Not later than 3 years after the date of enactment of this Act \[Dec. 4, 2003\], the Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly submit a report to the Congress on the results of the initial study conducted in accordance with this subsection, together with any recommendations for legislative or regulatory action.
+Initial report.—Not later than 3 years after the date of enactment of this Act \[Dec. 4, 2003\], theFederal banking agencies, the National Credit Union Administration, and the Commission shall jointly submit a report to the Congress on the results of the initial study conducted in accordance with this subsection, together with any recommendations for legislative or regulatory action.
 
 &emsp;“(B)
 

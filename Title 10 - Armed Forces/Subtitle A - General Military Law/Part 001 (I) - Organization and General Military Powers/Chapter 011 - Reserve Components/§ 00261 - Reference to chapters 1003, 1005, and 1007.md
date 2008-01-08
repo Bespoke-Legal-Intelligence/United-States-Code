@@ -12,7 +12,7 @@ Section 261, act Aug. 10, 1956, ch. 1041, 70A Stat. 10, named the reserve compon
 
 Section 262, acts Aug. 10, 1956, ch. 1041, 70A Stat. 10; Dec. 1, 1967, Pub. L. 90–168, §2(5), 81 Stat. 521, related to purpose of reserve components. See section 10102 of this title.
 
-Section 263, act Aug. 10, 1956, ch. 1041, 70A Stat. 11, related to basic policy for ordering Army National Guard of the United States and Air National Guard of the United States into Federal service. See section 10103 of this title.
+Section 263, act Aug. 10, 1956, ch. 1041, 70A Stat. 11, related to basic policy for ordering Army National Guard of the United States and Air National Guard of theUnited States into Federal service. See section 10103 of this title.
 
 Section 264, acts Aug. 10, 1956, ch. 1041, 70A Stat. 11; Dec. 1, 1967, Pub. L. 90–168, §2(6), 81 Stat. 521; Nov. 19, 1969, Pub. L. 91–121, title III, §303, 83 Stat. 206; Oct. 20, 1978, Pub. L. 95–485, title IV, §406(a), 92 Stat. 1616; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(7)(A), (B), 98 Stat. 2622, authorized Secretaries of each armed force to designate officers to be responsible for reserve affairs and assigned responsibility for providing personnel and logistic support for reserves. See sections 10203 and 18501 of this title.
 

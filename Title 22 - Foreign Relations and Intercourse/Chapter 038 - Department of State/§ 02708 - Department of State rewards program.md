@@ -28,7 +28,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 &emsp;&emsp;(B) the killing or kidnapping of—
 
-&emsp;&emsp;&emsp;(i) any officer, employee, or contract employee of the United States Governmentwhile such individual is engaged in official duties, or on account of that individual's official duties, in connection with the enforcement of United States narcotics laws or the implementing of United States narcotics control objectives; or
+&emsp;&emsp;&emsp;(i) any officer, employee, or contract employee of the United States Government while such individual is engaged in official duties, or on account of that individual's official duties, in connection with the enforcement of United States narcotics laws or the implementing of United States narcotics control objectives; or
 
 &emsp;&emsp;&emsp;(ii) a member of the immediate family of any such individual on account of that individual's official duties, in connection with the enforcement of United States narcotics laws or the implementing of United States narcotics control objectives; or
 
@@ -244,6 +244,10 @@ Subsec. (g). Pub. L. 99–399, §502(a)(1), (b), redesignated former subsec. (f)
 
 Subsecs. (h), (i). Pub. L. 99–399, §502(d), added subsecs. (h) and (i).
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
@@ -282,11 +286,11 @@ Procedures.—
 
 &emsp;“(2) Before making a reward under this section in a matter over which there is Federal criminal jurisdiction, the Secretary of State shall obtain the concurrence of the Attorney General.
 
-&emsp;“(3) Rewards under this section shall be subject to any requirements or limitations that apply to rewards under section 36 of the State Department BasicAuthorities Act of 1956 (22 U.S.C. 2708) with respect to the ineligibility of government employees for rewards, maximum reward amount, and procedures for the approval and certification of rewards for payment.
+&emsp;“(3) Rewards under this section shall be subject to any requirements or limitations that apply to rewards under section 36 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708) with respect to the ineligibility of government employees for rewards, maximum reward amount, and procedures for the approval and certification of rewards for payment.
 
 “(c)
 
-Reference.—(1) For the purposes of subsection (a), the statute of the International Criminal Tribunal for the Former Yugoslavia means the Annex to the Report of the Secretary General of the United Nations pursuant to paragraph 2 of Security Council Resolution 827 (1993) (S/25704).
+Reference.—(1) For the purposes of subsection (a), the statute of the International Criminal Tribunal for the Former Yugoslavia means the Annex to the Report of the Secretary General of the United Nationspursuant to paragraph 2 of Security Council Resolution 827 (1993) (S/25704).
 
 “(2) For the purposes of subsection (a), the statute of the International Criminal Tribunal for Rwanda means the statute contained in the annex to Security Council Resolution 955 of November 8, 1994.
 

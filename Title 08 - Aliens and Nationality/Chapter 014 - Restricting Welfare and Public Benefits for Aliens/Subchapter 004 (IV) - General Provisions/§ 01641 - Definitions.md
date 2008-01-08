@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided in this chapter, the terms used in this chapter have the samemeaning given such terms in section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\].
+Except as otherwise provided in this chapter, the terms used in this chapter have the same meaning given such terms in section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\].
 
 #### (b) Qualified alien
 
@@ -58,7 +58,7 @@ For purposes of this chapter, the term “qualified alien” includes—
 
 After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General's sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms “battery” and “extreme cruelty”, and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual's need for benefits under a specific Federal, State, or local program.
 
-(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V,§§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, §1508, Oct. 28, 2000, 114 Stat. 1530.)
+(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, §1508, Oct. 28, 2000, 114 Stat. 1530.)
 
 #### References in Text
 
@@ -104,7 +104,7 @@ Subsec. (c)(1)(B)(iii). Pub. L. 104–208, §308(g)(8)(E), substituted “cancel
 
 Amendment by section 5302(c)(3) of Pub. L. 105–33 effective, except as otherwise provided, as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as a note under section 1612 of this title.
 
-Amendment by sections 5562, 5571(a)–(c), 5581(b)(6), (7) of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
+Amendment by sections 5562, 5571(a)–(c), 5581(b)(6), (7) of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L.104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
 #### Effective Date of 1996 Amendment
 

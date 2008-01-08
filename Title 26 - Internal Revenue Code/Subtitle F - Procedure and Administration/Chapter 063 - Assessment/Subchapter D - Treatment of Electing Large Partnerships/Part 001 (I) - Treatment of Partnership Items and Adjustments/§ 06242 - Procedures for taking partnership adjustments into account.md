@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If any partnership adjustment with respect to any partnership item takes effect (within the meaning of subsection (d)(2)) during anypartnership taxable year and if an election under paragraph (2) does not apply to such adjustment, such adjustment shall be taken into account in determining the amount of such item for the partnership taxable year in which such adjustment takes effect. In applying this title to any person who is (directly or indirectly) a partner in such partnership during such partnership taxable year, such adjustment shall be treated as an item actually arising during such taxable year.
+&emsp;If any partnership adjustment with respect to any partnership item takes effect (within the meaning of subsection (d)(2)) during any partnership taxable year and if an election under paragraph (2) does not apply to such adjustment, such adjustment shall be taken into account in determining the amount of such item for the partnership taxable year in which such adjustment takes effect. In applying this title to any person who is (directly or indirectly) a partner in such partnership during such partnership taxable year, such adjustment shall be treated as an item actually arising during such taxable year.
 
 #### (2) Partnership liable in certain cases
 

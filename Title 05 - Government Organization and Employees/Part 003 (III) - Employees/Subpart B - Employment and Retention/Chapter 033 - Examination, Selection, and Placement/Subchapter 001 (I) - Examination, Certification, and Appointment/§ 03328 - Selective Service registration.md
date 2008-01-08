@@ -8,7 +8,7 @@
 
 > shall be ineligible for appointment to a position in an Executive agency.
 
-(b) The Office of Personnel Management, in consultation with the Director of the Selective Service System, shall prescribe regulations to carry out this section. Such regulations shall include provisions prescribing procedures for the adjudication of determinations of whether a failure to register was knowing and willful. Such procedures shall require that such a determination may not be made if the individual concerned shows by a preponderance of the evidence that the failure to register was neither knowing nor willful. Such procedures may provide that determinations of eligibility under the requirements of this section shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.
+(b) The Office of Personnel Management, in consultation with the Director of the Selective Service System, shall prescribe regulations to carry out this section. Such regulations shall include provisions prescribing procedures for theadjudication of determinations of whether a failure to register was knowing and willful. Such procedures shall require that such a determination may not be made if the individual concerned shows by a preponderance of the evidence that the failure to register was neither knowing nor willful. Such procedures may provide that determinations of eligibility under the requirements of this section shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.
 
 (Added Pub. L. 99–145, title XVI, §1622(a)(1), Nov. 8, 1985, 99 Stat. 777; amended Pub. L. 100–180, div. A, title XII, §1249, Dec. 4, 1987, 101 Stat. 1167.)
 

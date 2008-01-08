@@ -52,7 +52,7 @@ As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
 
 &emsp;(15) the term “Administrator” means the Administrator of General Services.
 
-(Added Pub. L. 94–575, §2(a)(1), Oct. 21, 1976, 90 Stat. 2723; amended Pub. L. 98–497, title I, §107(b)(13), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 107–217, §3(<i>l</i>)(2), Aug. 21, 2002, 116 Stat. 1301.)
+(Added Pub. L. 94–575, §2(a)(1), Oct. 21, 1976, 90 Stat. 2723; amended Pub. L. 98–497, title I,§107(b)(13), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 107–217, §3(<i>l</i>)(2), Aug. 21, 2002, 116 Stat. 1301.)
 
 #### Prior Provisions
 
@@ -108,7 +108,7 @@ Funds Returned to Miscellaneous Receipts of the Department of the Treasury.—
 
 “(e)
 
-Reporting Requirement.—The National Archives and Records Administration shall provide quarterly reports to the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Reform of the House of Representatives on the operation of the Records Center Revolving Fund.”
+Reporting Requirement.—The National Archives and Records Administration shall provide quarterly reports to the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Reform \[now Oversight and Government Reform\] of the House of Representatives on the operation of the Records Center Revolving Fund.”
 
 #### Federal Records Management Provisions Without Effect on Authorities and Responsibilities of Administrator of General Services, Joint Committee, or Government Printing Office
 

@@ -168,7 +168,7 @@
 
 &emsp;&emsp;(D) to provide support in the development of the individualized plan for employment;
 
-&emsp;&emsp;(E) to provide support and expertise in obtaining information about rehabilitationand independent living programs, services, and resources that are appropriate; and
+&emsp;&emsp;(E) to provide support and expertise in obtaining information about rehabilitation and independent living programs, services, and resources that are appropriate; and
 
 &emsp;&emsp;(F) to understand the provisions of this chapter, particularly provisions relating to employment, supported employment, and independent living.
 
@@ -246,7 +246,7 @@
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
 
-(Pub. L. 93–112, title III, §303, as added Pub. L. 105–220, title IV, §406, Aug. 7, 1998, 112 Stat. 1190;amended Pub. L. 108–446, title III, §305(h)(5), (6), Dec. 3, 2004, 118 Stat. 2805.)
+(Pub. L. 93–112, title III, §303, as added Pub. L. 105–220, title IV, §406, Aug. 7, 1998, 112 Stat. 1190; amended Pub. L. 108–446, title III, §305(h)(5), (6), Dec. 3, 2004, 118 Stat. 2805.)
 
 #### References in Text
 

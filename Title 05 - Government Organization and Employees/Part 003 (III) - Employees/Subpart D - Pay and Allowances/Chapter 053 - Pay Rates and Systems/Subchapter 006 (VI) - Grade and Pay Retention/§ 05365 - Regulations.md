@@ -22,7 +22,7 @@ A prior section 5365, added Pub. L. 91–34, §1(a), June 30, 1969, 83 Stat. 41;
 
 2004—Subsec. (b). Pub. L. 108–411 inserted “(subject to any conditions or limitations the Office may establish)” after “provisions of this subchapter” in introductory provisions.
 
-1990—Subsec. (b). Pub. L. 101–508 inserted at end “Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).”
+1990—Subsec. (b). Pub. L. 101–508 inserted at end “Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in theDepartment of Defense or the Coast Guard, respectively, that is not described in section 2105(c).”
 
 #### Effective Date of 2004 Amendment
 
@@ -34,5 +34,5 @@ Amendment by Pub. L. 101–508 applicable with respect to any individual who, on
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

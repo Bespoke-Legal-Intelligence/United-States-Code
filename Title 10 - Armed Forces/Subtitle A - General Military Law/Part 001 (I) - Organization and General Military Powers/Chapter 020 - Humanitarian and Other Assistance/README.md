@@ -21,7 +21,7 @@ Chapter was comprised of subchapter I, sections 401 to 404, and subchapter II, s
 
 2006—Pub. L. 109–364, div. A, title XII, §1203(b)(2), Oct. 17, 2006, 120 Stat. 2415, added item 407.
 
-1996—Pub. L. 104–106, div. A, title X, §1061(g)(2), title XIII, §1301(b), Feb. 10, 1996, 110 Stat. 443, 473, which directed amendment of table of sections at beginning of subchapter I of this chapter by striking out item 403 and adding item 405, were executed by striking out item 403 “International peacekeeping activities” andadding item 405 in analysis for this chapter to reflect the probable intent of Congress and amendments by Pub. L. 104–106, §571(c)(1), (2). See below.
+1996—Pub. L. 104–106, div. A, title X, §1061(g)(2), title XIII, §1301(b), Feb. 10, 1996, 110 Stat. 443, 473, which directed amendment of table of sections at beginning of subchapter I of this chapter by striking out item 403 and adding item 405, were executed by striking out item 403 “International peacekeeping activities” and adding item 405 in analysis for this chapter to reflect the probable intent of Congress and amendments by Pub. L. 104–106, §571(c)(1), (2). See below.
 
 Pub. L. 104–106, div. A, title V, §571(c)(1), (2), Feb. 10, 1996, 110 Stat. 353, struck out subchapter analysis, consisting of items for subchapter I “Humanitarian Assistance” and subchapter II “Civil-Military Cooperation” and struck out subchapter I heading “HUMANITARIAN ASSISTANCE”.
 

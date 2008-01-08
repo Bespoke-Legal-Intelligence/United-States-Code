@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b) of this section, on the date on which a country ceases to be a NAFTA country, the provisions of this title <sup>1</sup> (other than this section) and the amendments made by this title <sup>1</sup> shall cease to have effect with respect to that country.
+Except as provided in subsection (b) of this section, on the date on which a country ceases to be a NAFTA country, the provisions of thistitle <sup>1</sup> (other than this section) and the amendments made by this title <sup>1</sup> shall cease to have effect with respect to that country.
 
 #### (b) Transition provisions
 

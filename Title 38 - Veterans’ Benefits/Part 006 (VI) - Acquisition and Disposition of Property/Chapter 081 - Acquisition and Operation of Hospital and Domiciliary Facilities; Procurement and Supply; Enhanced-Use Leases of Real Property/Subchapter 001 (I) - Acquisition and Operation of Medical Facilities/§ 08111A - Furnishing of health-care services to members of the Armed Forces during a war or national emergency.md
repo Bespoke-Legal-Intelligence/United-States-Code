@@ -1,8 +1,8 @@
 ### §8111A. Furnishing of health-care services to members of the Armed Forces during a war or national emergency
 
-(a)(1) During and immediately following a period of war, or a period of national emergencydeclared by the President or the Congress that involves the use of the Armed Forces in armed conflict, the Secretary may furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty.
+(a)(1) During and immediately following a period of war, or a period of national emergency declared by the President or the Congress that involves the use of the Armed Forces in armed conflict, the Secretary may furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty.
 
-(2)(A) During and immediately following a disaster or emergency referred to in subparagraph (B), the Secretary may furnish hospital care and medical services to members of the Armed Forces on active duty responding to or involved in that disaster or emergency.
+(2)(A) During and immediately following a disaster or emergency referred to in subparagraph\(B), the Secretary may furnish hospital care and medical services to members of the Armed Forces on active duty responding to or involved in that disaster or emergency.
 
 (B) A disaster or emergency referred to in this subparagraph is any disaster or emergency as follows:
 
@@ -48,7 +48,7 @@ Section 2811(b) of the Public Health Service Act, referred to in subsec. (a)(2)(
 
 #### Amendments
 
-2006—Subsec. (a)(2)(B)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L.109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Subsec. (a)(2)(B)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(a)(8), substituted “Robert T.” for “Robert B.”.
 

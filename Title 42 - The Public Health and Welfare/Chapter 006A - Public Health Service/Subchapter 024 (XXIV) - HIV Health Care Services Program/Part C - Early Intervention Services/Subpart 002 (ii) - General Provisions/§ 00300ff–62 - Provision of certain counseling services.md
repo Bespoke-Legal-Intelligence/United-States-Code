@@ -36,7 +36,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;&emsp;(B) on the availability in the geographic area of appropriate health care, mental health care, and social and support services, including providing referrals for such services, as appropriate;
 
-&emsp;&emsp;(C)(i) that explains the benefits of locating and counseling any individual by whom the infected individual may have been exposed to HIV/AIDS, hepatitis B, or hepatitis C andany individual whom the infected individual may have exposed to HIV/AIDS, hepatitis B, or hepatitis C; and
+&emsp;&emsp;(C)(i) that explains the benefits of locating and counseling any individual by whom the infected individual may have been exposed to HIV/AIDS, hepatitis B, or hepatitis C and any individual whom the infected individual may have exposed to HIV/AIDS, hepatitis B, or hepatitis C; and
 
 &emsp;&emsp;(ii) that emphasizes it is the duty of infected individuals to disclose their infected status to their sexual partners and their partners in the sharing of hypodermic needles; that provides advice to infected individuals on the manner in which such disclosures can be made; and that emphasizes that it is the continuing duty of the individuals to avoid any behaviors that will expose others to HIV/AIDS, hepatitis B, or hepatitis C; and
 

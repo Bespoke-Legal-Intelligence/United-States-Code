@@ -30,7 +30,7 @@ Subject to the provisions of this section and consistent with the purpose of thi
 
 &emsp;(A) Nothing in this chapter shall be construed to prohibit the Board from requiring, to the extent and under circumstances considered appropriate by the Board, that affiliates of an applicant be subject to certain obligations of the applicant as a condition to the approval or maintenance of a loan guarantee under this chapter.
 
-&emsp;(B) If any provision of this chapter or the application of such provision to any person or entity or circumstance is held to be invalid by a court of competent jurisdiction, the remainder of this chapter, or the application of such provision to such person or entity or circumstance other than those as to which it is held invalid, shall not be affected thereby.
+&emsp;(B) If any provision of this chapter or the application of such provision to any person orentity or circumstance is held to be invalid by a court of competent jurisdiction, the remainder of this chapter, or the application of such provision to such person or entity or circumstance other than those as to which it is held invalid, shall not be affected thereby.
 
 #### (c) Authority limited by appropriations acts
 
@@ -40,7 +40,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 #### (1) In general
 
-&emsp;The Board shall utilize the underwriting criteria developed under subsection (g) of thissection, and any relevant information provided by the departments and agencies with which the Board consults under section 1102 of this title, to determine which loans may be eligible for a loan guarantee under this chapter.
+&emsp;The Board shall utilize the underwriting criteria developed under subsection (g) of this section, and any relevant information provided by the departments and agencies with which the Board consults under section 1102 of this title, to determine which loans may be eligible for a loan guarantee under this chapter.
 
 #### (2) Prerequisites
 
@@ -104,7 +104,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 #### (A) Priority considerations
 
-&emsp;&emsp;To the maximum extent practicable, the Board shall give priority in the approval ofloan guarantees under this chapter in the following order:
+&emsp;&emsp;To the maximum extent practicable, the Board shall give priority in the approval of loan guarantees under this chapter in the following order:
 
 &emsp;&emsp;&emsp;(i) First, to projects that will serve households in nonserved areas. In considering such projects, the Board shall balance projects that will serve the largest number of households with projects that will serve remote, isolated communities (including noncontiguous States) in areas that are unlikely to be served through market mechanisms.
 
@@ -168,7 +168,7 @@ Within the period provided for under subsection (b)(1) of this section, the Boar
 
 #### (A) In general
 
-&emsp;&emsp;The Board shall determine the amount of any credit risk premium to be accepted with respect to a loan guarantee under this chapter on the basis of—
+&emsp;&emsp;The Board shall determine the amount of any credit risk premium to be accepted withrespect to a loan guarantee under this chapter on the basis of—
 
 &emsp;&emsp;&emsp;(i) the financial and economic circumstances of the applicant for the loan guarantee, including the amount of collateral offered;
 

@@ -68,7 +68,7 @@ If a State elects to carry out a Program, within the State or a political subdiv
 
 #### (B) Termination
 
-&emsp;&emsp;If the State does not submit a plan under subparagraph (A) or carry out a plan approved by the Secretary, the Secretary shall terminate the approval of the State agency operating the Program and the State agencyshall be ineligible to operate a future Program.
+&emsp;&emsp;If the State does not submit a plan under subparagraph (A) or carry out a plan approved by the Secretary, the Secretary shall terminate the approval of the State agency operating the Program and the State agency shall be ineligible to operate a future Program.
 
 #### (f) Rules and procedures
 

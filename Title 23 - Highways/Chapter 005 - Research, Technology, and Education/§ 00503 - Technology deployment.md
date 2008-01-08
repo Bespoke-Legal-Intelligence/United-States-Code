@@ -166,7 +166,7 @@ Grants, cooperative agreements, and contracts.—
 
 &emsp;&emsp;(A)
 
-In general.—Under the program, the Secretary shall make grants to, and enter into cooperative agreements and contracts with, States, other Federal agencies, universities and colleges, private sector entities, and nonprofit organizations for research, development, and technology transfer for innovative safety technologies.
+In general.—Under the program, the Secretary shall make grants to, and enterinto cooperative agreements and contracts with, States, other Federal agencies, universities and colleges, private sector entities, and nonprofit organizations for research, development, and technology transfer for innovative safety technologies.
 
 &emsp;&emsp;(B)
 
@@ -180,7 +180,7 @@ Technology and information transfer.—The Secretary shall take such action as i
 
 Promotional Authority.—Funds authorized to be appropriated for necessary expenses for administration and operation of the Federal Highway Administration shall be available to purchase promotional items of nominal value for use in the recruitment of individuals and to promote the programs of the Federal Highway Administration.
 
-(Added Pub. L. 105–178, title V, §5103, June 9, 1998, 112 Stat. 427; amended Pub. L. 109–59, titleV, §§5202(b)(1), (2), 5203(a), (b)(1), (c)(1), (d), Aug. 10, 2005, 119 Stat. 1786–1789.)
+(Added Pub. L. 105–178, title V, §5103, June 9, 1998, 112 Stat. 427; amended Pub. L. 109–59, title V, §§5202(b)(1), (2), 5203(a), (b)(1), (c)(1), (d), Aug. 10, 2005, 119 Stat. 1786–1789.)
 
 #### References in Text
 

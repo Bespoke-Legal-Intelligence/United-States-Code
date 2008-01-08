@@ -20,7 +20,7 @@ Such committee shall consist of not more than fifteen persons and such persons s
 
 #### (c) Compensation and travel expenses
 
-Members of the committee shall, while attending conferences or meetings thereof, be entitled to receive compensation at a rate fixed by the Director but not exceeding $100 per day, including traveltime, and while so serving away fromtheir homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under section 5703 of title 5 for persons in the Government service employed intermittently.
+Members of the committee shall, while attending conferences or meetings thereof, be entitled to receive compensation at a rate fixed by the Director but not exceeding $100 per day, including traveltime, and while so serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under section 5703 of title 5 for persons in the Government service employed intermittently.
 
 (Pub. L. 90–448, title XIII, §1318, Aug. 1, 1968, 82 Stat. 581; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
 

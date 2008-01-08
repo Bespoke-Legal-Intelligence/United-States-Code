@@ -68,7 +68,7 @@ In addition to amounts otherwise available under this section for such purposes,
 
 &emsp;(2) $600,000 shall be for the Organization of American States (OAS) Inter-American Drug Abuse Control Commission (CICAD) Legal Development Project, except that the proportion which such amount bears to the total amount of contributions to this specific project may not exceed the proportion which the United States contribution to the budget of the Organization of American States for that fiscal year bears to the total contributions to the budget of the Organization of American States for that fiscal year; and
 
-&emsp;(3) $400,000 shall be for the Organization of American States (OAS) Inter-American Drug Abuse Control Commission (CICAD) Law Enforcement Training Project, except that the proportion which such amount bears to thetotal amount of contributions to this specific project may not exceed the proportion which the United States contribution to the budget of the Organization of American States for that fiscal year bears to the total contributions to the budget of the Organization of American States for that fiscal year.
+&emsp;(3) $400,000 shall be for the Organization of American States (OAS) Inter-American Drug Abuse Control Commission (CICAD) Law Enforcement Training Project, except that the proportion which such amount bears to the total amount of contributions to this specific project may not exceed the proportion which the United States contribution to the budget of the Organization of American States for that fiscal year bears to the total contributions to the budget of the Organization of American States for that fiscal year.
 
 #### (k) Authorization of appropriations for Global Alliance for Vaccines and Immunizations
 

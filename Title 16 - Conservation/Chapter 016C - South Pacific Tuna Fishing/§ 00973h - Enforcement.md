@@ -30,7 +30,7 @@ The provisions of this chapter shall be enforced by the Secretary in cooperation
 
 &emsp;&emsp;(ii) board, and search or inspect, any fishing vessel which is subject to the provisions of this chapter; or
 
-&emsp;&emsp;(iii) seize samples of fish or items for evidence (other than the vessel or its fishinggear or equipment) related to any violation of any provision of this chapter;
+&emsp;&emsp;(iii) seize samples of fish or items for evidence (other than the vessel or its fishing gear or equipment) related to any violation of any provision of this chapter;
 
 &emsp;&emsp;(iv) order a vessel into the most convenient port of the United States for investigation when an investigation has been requested by a Pacific Island Party in accordance with the Treaty and when such an order is necessary to gather information for such an investigation;
 

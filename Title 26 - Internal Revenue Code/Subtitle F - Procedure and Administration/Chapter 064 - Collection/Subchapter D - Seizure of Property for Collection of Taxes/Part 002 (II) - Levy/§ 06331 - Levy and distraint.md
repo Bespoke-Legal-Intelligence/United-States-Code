@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-If any person liable to pay any tax neglects or refuses to pay the same within 10 days after notice and demand, it shall be lawful for the Secretary to collect such tax (and such further sum as shall be sufficient to cover the expenses of the levy) by levy upon all property and rights to property (except such property as is exempt under section 6334) belonging to such person or on which there is a lien provided in this chapter for the payment of such tax. Levy may be made upon the accrued salary or wages of any officer, employee, or elected official, of the United States, the District of Columbia, or any agency or instrumentality of the United States or the District of Columbia, by serving a notice of levy on the employer (as defined in section 3401(d)) of such officer, employee, or elected official. If the Secretary makes a finding that the collection of such tax is in jeopardy, notice and demand for immediate payment of such tax may be made by the Secretary and, upon failure or refusal to pay such tax, collection thereof by levy shall be lawful without regard to the 10-day period provided in this section.
+If any person liable to pay any tax neglects or refuses to pay the same within 10 days after notice and demand, it shall be lawful for the Secretary to collect such tax (and such further sum as shall be sufficient to cover the expenses of the levy) by levy upon all property and rights to property (except such property as is exempt under section 6334) belonging to such person oron which there is a lien provided in this chapter for the payment of such tax. Levy may be made upon the accrued salary or wages of any officer, employee, or elected official, of the United States, the District of Columbia, or any agency or instrumentality of the United States or the District of Columbia, by serving a notice of levy on the employer (as defined in section 3401(d)) of such officer, employee, or elected official. If the Secretary makes a finding that the collection of such tax is in jeopardy, notice and demand for immediate payment of such tax may be made by the Secretary and, upon failure or refusal to pay such tax, collection thereof by levy shall be lawful without regard to the 10-day period provided in this section.
 
 #### (b) Seizure and sale of property
 
@@ -206,7 +206,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 &emsp;&emsp;<b>(3) For release and notice of release of levy, see section 6343.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 783; Pub. L. 89–719, title I, §104(a), Nov. 2, 1966, 80 Stat. 1135; Pub. L. 92–178, title II, §211(a), Dec. 10, 1971, 85 Stat. 520; Pub. L. 94–455, title XII, §1209(d)(1), (2), (4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1710, 1711, 1834; Pub. L. 97–248, title III, §349(a), Sept. 3, 1982, 96 Stat. 639; Pub. L. 98–369, div. A, title VII, §714(<i>o</i>), July 18, 1984, 98 Stat. 964; Pub. L. 100–647, title VI, §6236(a), (b), (d), Nov. 10, 1988, 102 Stat. 3737, 3739; Pub. L. 105–34, title X, §1024(a), Aug. 5, 1997, 111 Stat. 923; Pub. L. 105–206, title III, §§3433(a), 3444(a), 3462(b), titleVI, §6010(f), July 22, 1998, 112 Stat. 759, 762, 765, 814; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 107–147, title IV, §416(e)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–357, title VIII, §887(a), Oct. 22, 2004, 118 Stat. 1641.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 783; Pub. L. 89–719, title I, §104(a), Nov. 2, 1966, 80 Stat. 1135; Pub. L. 92–178, title II, §211(a), Dec. 10, 1971, 85 Stat. 520; Pub. L. 94–455, title XII, §1209(d)(1), (2), (4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1710, 1711, 1834; Pub. L. 97–248, title III, §349(a), Sept. 3, 1982, 96 Stat. 639; Pub. L. 98–369, div. A, title VII, §714(<i>o</i>), July 18, 1984, 98 Stat. 964; Pub. L. 100–647, title VI, §6236(a), (b), (d), Nov. 10, 1988, 102 Stat. 3737, 3739; Pub. L. 105–34, title X, §1024(a), Aug. 5, 1997, 111 Stat. 923; Pub. L. 105–206, title III, §§3433(a), 3444(a), 3462(b), title VI, §6010(f), July 22, 1998, 112 Stat. 759, 762, 765, 814; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 107–147, title IV, §416(e)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–357, title VIII, §887(a), Oct. 22, 2004, 118 Stat. 1641.)
 
 #### References in Text
 
@@ -290,7 +290,7 @@ Pub. L. 105–206, title III, §3462(e), July 22, 1998, 112 Stat. 766, provided 
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and sections 6159 and 7122 of this title\] shall apply to proposed offers-in-compromise and installment agreements submitted after the date of the enactment of this Act \[July 22, 1998\].
+In general.—The amendments made by this section \[amending this section and sections 6159 and 7122of this title\] shall apply to proposed offers-in-compromise and installment agreements submitted after the date of the enactment of this Act \[July 22, 1998\].
 
 “(2)
 

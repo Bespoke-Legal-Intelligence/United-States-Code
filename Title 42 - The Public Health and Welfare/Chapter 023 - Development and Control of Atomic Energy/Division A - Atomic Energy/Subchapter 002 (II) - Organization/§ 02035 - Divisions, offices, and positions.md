@@ -26,7 +26,7 @@ Provisions similar to this section were contained in section 1802(a)(4)(B) of th
 
 #### Amendments
 
-1967—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, who would be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate, and substituted “other program division” for “such division”.
+1967—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, whowould be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate, and substituted “other program division” for “such division”.
 
 1964—Subsec. (a). Pub. L. 88–426, §306(f)(4), struck out provisions which prescribed the compensation of directors of program divisions.
 

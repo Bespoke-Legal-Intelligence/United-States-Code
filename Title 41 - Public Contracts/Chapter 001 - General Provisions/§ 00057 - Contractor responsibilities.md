@@ -46,5 +46,5 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date
 
-Subsecs. (a) and (b) effective with respect to contract solicitations issued by an agency, department, or other establishment of the Federal Government on or after the date which is 90 days after Nov. 7, 1986, and subsec. (c) effective with respect to conduct described in section 53 of this title which occurs on or after Nov. 7, 1986, see section 3 of Pub. L. 99–634, set out as an Effective Date of 1986 Amendment note under section 51 of this title.
+Subsecs. (a) and (b) effective with respect to contract solicitations issued by an agency, department, or otherestablishment of the Federal Government on or after the date which is 90 days after Nov. 7, 1986, and subsec. (c) effective with respect to conduct described in section 53 of this title which occurs on or after Nov. 7, 1986, see section 3 of Pub. L. 99–634, set out as an Effective Date of 1986 Amendment note under section 51 of this title.
 

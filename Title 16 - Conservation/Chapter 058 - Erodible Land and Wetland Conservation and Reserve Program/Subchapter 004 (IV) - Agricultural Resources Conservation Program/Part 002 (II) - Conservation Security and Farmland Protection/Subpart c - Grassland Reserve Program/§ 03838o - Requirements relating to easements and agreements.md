@@ -64,7 +64,7 @@ An easement or rental agreement under subsection (a) of this section shall—
 
 #### (1) In general
 
-&emsp;The Secretary shall prescribe the terms of a restoration agreement by which grassland,land that contains forbs, or shrubland that is subject to an easement or rental agreement entered into under the program shall be restored.
+&emsp;The Secretary shall prescribe the terms of a restoration agreement by which grassland, land that contains forbs, or shrubland that is subject to an easement or rental agreement entered into under the program shall be restored.
 
 #### (2) Requirements
 

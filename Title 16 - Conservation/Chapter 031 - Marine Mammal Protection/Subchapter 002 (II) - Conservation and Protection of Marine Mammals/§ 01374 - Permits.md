@@ -32,13 +32,13 @@ Any permit issued under this section shall—
 
 &emsp;(ii) is registered or holds a license issued under 7 U.S.C. 2131 et seq.; and
 
-&emsp;(iii) maintains facilities for the public display of marine mammals that are open to the public on a regularly scheduled basis and thataccess to such facilities is not limited or restricted other than by charging of an admission fee.
+&emsp;(iii) maintains facilities for the public display of marine mammals that are open to the public on a regularly scheduled basis and that access to such facilities is not limited or restricted other than by charging of an admission fee.
 
 (B) A permit under this paragraph shall grant to the person to which it is issued the right, without obtaining any additional permit or authorization under this chapter, to—
 
 &emsp;(i) take, import, purchase, offer to purchase, possess, or transport the marine mammal that is the subject of the permit; and
 
-&emsp;(ii) sell, export, or otherwise transfer possession of the marine mammal, or offer to sell, export, or otherwise transfer possession of the marine mammal—
+&emsp;(ii) sell, export, or otherwise transfer possession of the marine mammal, or offer to sell,export, or otherwise transfer possession of the marine mammal—
 
 &emsp;&emsp;(I) for the purpose of public display, to a person that meets the requirements of clauses (i), (ii), and (iii) of subparagraph (A);
 
@@ -86,7 +86,7 @@ Any permit issued under this section shall—
 
 &emsp;(i) taking or importation is likely to contribute significantly to maintaining or increasing distribution or numbers necessary to ensure the survival or recovery of the species or stock; and
 
-&emsp;(ii) taking or importation is consistent (I) with any conservation plan adopted by the Secretary under section 1383b(b) of this title or any recovery plan developed under section 1533(f) of this title for the species or stock, or (II) if there is no conservation or recovery plan in place, with the Secretary's evaluation of the actions required to enhance the survival or recovery of the species or stock in light of the factors that would be addressed in a conservation plan or a recovery plan.
+&emsp;(ii) taking or importation is consistent (I) with any conservation plan adopted by the Secretary under section 1383b(b) of this title or any recovery plan developed under section 1533(f) of this title for the species or stock, or (II) if there is no conservation or recovery plan in place, with the Secretary's evaluation of the actions required to enhance the survivalor recovery of the species or stock in light of the factors that would be addressed in a conservation plan or a recovery plan.
 
 (B) A permit issued in accordance with this paragraph may allow the captive maintenance of a marine mammal from a depleted species or stock only if the Secretary—
 
@@ -188,7 +188,7 @@ Any permit issued under this section shall—
 
 &emsp;(C) if, in the case of a permit under subsection (c)(5) of this section authorizing importation of polar bear parts, the Secretary, in consultation with the appropriate authority in Canada, determines that the sustainability of Canada's polar bear population stocks are being adversely affected or that sport hunting may be having a detrimental effect on maintaining polar bear population stocks throughout their range.
 
-(2) Whenever the Secretary shall propose any modification, suspension, or revocation of a permit under this subsection, the permittee shall be afforded opportunity, after due notice, for a hearing by the Secretary with respect to such proposed modification, suspension, or revocation. Such proposed action by the Secretary shall not take effect until a decision is issued by him after such hearing. Any action taken by the Secretary after such a hearing is subject to judicial review on the same basis as is any action taken by him with respect to a permit application under paragraph (5) of subsection (d) of this section.
+(2) Whenever the Secretary shall propose any modification, suspension, or revocation of a permit under this subsection, the permittee shallbe afforded opportunity, after due notice, for a hearing by the Secretary with respect to such proposed modification, suspension, or revocation. Such proposed action by the Secretary shall not take effect until a decision is issued by him after such hearing. Any action taken by the Secretary after such a hearing is subject to judicial review on the same basis as is any action taken by him with respect to a permit application under paragraph (5) of subsection (d) of this section.
 
 (3) Notice of the modification, suspension, or revocation of any permit by the Secretary shall be published in the Federal Register within ten days from the date of the Secretary's decision.
 
@@ -258,7 +258,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Modification of Permits Existing Prior to April 30, 1994
 

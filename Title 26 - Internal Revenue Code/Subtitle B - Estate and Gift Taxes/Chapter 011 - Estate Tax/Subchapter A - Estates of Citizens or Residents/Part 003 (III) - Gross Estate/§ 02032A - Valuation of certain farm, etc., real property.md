@@ -82,7 +82,7 @@
 
 #### (C) Coordination with recapture
 
-&emsp;&emsp;For purposes of subsection (c)(6)(B)(i), if the requirements of paragraph (1)(C)(ii) are met with respect to any decedent by reason of subparagraph (A), the period ending on the date on which the continuous period taken into account under subparagraph (A) began shall be treated as the period immediately before the decedent's death.
+&emsp;&emsp;For purposes of subsection (c)(6)(B)(i), if the requirements of paragraph (1)(C)(ii) are met with respect to any decedent by reason of subparagraph (A), the period ending onthe date on which the continuous period taken into account under subparagraph (A) began shall be treated as the period immediately before the decedent's death.
 
 #### (5) Special rules for surviving spouses
 
@@ -298,7 +298,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the average annual effective interest rate for all new Federal Land Bank loans.
 
-> &emsp;&emsp;For purposes of the preceding sentence, each average annual computation shall be madeon the basis of the 5 most recent calendar years ending before the date of the decedent's death.
+> &emsp;&emsp;For purposes of the preceding sentence, each average annual computation shall be made on the basis of the 5 most recent calendar years ending before the date of the decedent's death.
 
 #### (B) Value based on net share rental in certain cases
 
@@ -518,9 +518,9 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 (Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997, 111 Stat. 845, 853, 854, 860, 1045; Pub. L. 108–311, title II, §207(22), Oct. 4, 2004, 118 Stat. 1178.)
 
-#### Adjustment of Decrease in Value of Qualified Real Property for Decedents Dying in Calendar Year 2007
+#### Adjustment of Decrease in Value of Qualified Real Property for Decedents Dying in Calendar Year 2008
 
-<i>For adjustment of aggregate decrease in value of qualified real property resulting from election under this section for estates of decedents dying in calendar year 2007, see section 3.31 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of aggregate decrease in value of qualified real property resulting from election under this section for estates of decedents dying in calendar year 2008, see section 3.31 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -546,7 +546,7 @@ Subsec. (d)(3). Pub. L. 105–34, §1313(a), amended heading and text of par. (3
 
 &emsp;&emsp;“(i) the notice of election, as filed, does not contain all required information, or
 
-&emsp;&emsp;“(ii) signatures of 1 or more persons required to enter into the agreement described in paragraph (2) are not included on the agreement as filed, or theagreement does not contain all required information,
+&emsp;&emsp;“(ii) signatures of 1 or more persons required to enter into the agreement described in paragraph (2) are not included on the agreement as filed, or the agreement does not contain all required information,
 
 > the executor will have a reasonable period of time (not exceeding 90 days) after notification of such failures to provide such information or agreements.”
 
@@ -654,7 +654,7 @@ Waiver of statute of limitations.—If on the date of the enactment of this Act 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) ofPub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -758,7 +758,7 @@ Effective Date.—The provisions of this section shall not apply to the estate o
 
 “(d)
 
-Special Rule for Certain Estate.—Notwithstanding subsection (a)(2), the provisions of this section shall apply to the estate of an individual who died on January 30, 1984, and with respect to which—
+Special Rule for Certain Estate.—Notwithstanding subsection (a)(2), the provisions of this sectionshall apply to the estate of an individual who died on January 30, 1984, and with respect to which—
 
 &emsp;“(1) a Federal estate tax return was filed on October 30, 1984, electing current use valuation, and
 

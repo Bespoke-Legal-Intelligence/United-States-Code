@@ -64,7 +64,7 @@ Unobligated balances of budget authority carried over from prior fiscal years, e
 
 #### (2) Limitation
 
-&emsp;The President may not use the authority provided by paragraph (1) unless the President notifies the Congress of the manner in which such authority will be exercised on or before the date specified in section 904(a) of this title for the budget year.
+&emsp;The President may not use the authority provided by paragraph (1) unless the Presidentnotifies the Congress of the manner in which such authority will be exercised on or before the date specified in section 904(a) of this title for the budget year.
 
 #### (g) Other programs and activities
 
@@ -480,7 +480,7 @@ Subsec. (g)(1). Pub. L. 99–509 inserted item relating to dual benefits payment
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that beginsafter the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of Title 12, Banks and Banking.
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of Title 12, Banks and Banking.
 
 #### Effective Date of 1996 Amendments
 

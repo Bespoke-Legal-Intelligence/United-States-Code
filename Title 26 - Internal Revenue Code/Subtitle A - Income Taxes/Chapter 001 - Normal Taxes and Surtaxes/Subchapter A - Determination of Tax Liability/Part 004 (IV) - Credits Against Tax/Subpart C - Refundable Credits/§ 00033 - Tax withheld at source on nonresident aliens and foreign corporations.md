@@ -1,6 +1,6 @@
 ### §33. Tax withheld at source on nonresident aliens and foreign corporations
 
-There shall be allowed as a credit against the tax imposed by this subtitle the amount of tax withheld at source under subchapter A of chapter 3 (relating to withholding of tax on nonresident aliens and on foreign corporations).
+There shall be allowed as a credit against the tax imposed by this subtitle the amount of taxwithheld at source under subchapter A of chapter 3 (relating to withholding of tax on nonresident aliens and on foreign corporations).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 13, §32; renumbered §33 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(j), July 18, 1984, 98 Stat. 826, 832.)
 

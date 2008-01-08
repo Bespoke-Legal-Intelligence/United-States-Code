@@ -46,7 +46,7 @@
 
 #### (4) Partnerships; trusts
 
-&emsp;For purposes of paragraphs (1)(C)(ii) and (iii), (1)(F), and (1)(G), the ownership of profitsor beneficial interests shall be determined in accordance with the rules for constructive ownership of stock provided in section 267(c) (other than paragraph (3) thereof), except that section 267(c)(4) shall be treated as providing that the members of the family of an individual are the members within the meaning of subsection (d).
+&emsp;For purposes of paragraphs (1)(C)(ii) and (iii), (1)(F), and (1)(G), the ownership of profits or beneficial interests shall be determined in accordance with the rules for constructive ownership of stock provided in section 267(c) (other than paragraph (3) thereof), except that section 267(c)(4) shall be treated as providing that the members of the family of an individual are the members within the meaning of subsection (d).
 
 #### (b) Foundation manager
 

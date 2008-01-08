@@ -58,7 +58,7 @@
 
 #### (B) Application of MA rules
 
-&emsp;&emsp;In establishing such process, the Secretary shall use rules similar to (and coordinatedwith) the rules for enrollment, disenrollment, termination, and change of enrollment with an MA–PD plan under the following provisions of section 1395w–21 of this title:
+&emsp;&emsp;In establishing such process, the Secretary shall use rules similar to (and coordinated with) the rules for enrollment, disenrollment, termination, and change of enrollment with an MA–PD plan under the following provisions of section 1395w–21 of this title:
 
 #### (i) Residence requirements
 
@@ -78,7 +78,7 @@
 
 #### (v) Guaranteed issue and renewal
 
-&emsp;&emsp;&emsp;Section 1395w–21(g) of this title (other than paragraph (2) of such section and clause (i) and the second sentence of clause (ii) of paragraph (3)(C) of such section), relating to guaranteed issue and renewal.
+&emsp;&emsp;&emsp;Section 1395w–21(g) of this title (other than paragraph (2) of such section andclause (i) and the second sentence of clause (ii) of paragraph (3)(C) of such section), relating to guaranteed issue and renewal.
 
 #### (vi) Marketing material and application forms
 

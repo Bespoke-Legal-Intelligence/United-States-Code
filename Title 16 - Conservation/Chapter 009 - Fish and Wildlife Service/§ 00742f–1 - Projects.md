@@ -34,5 +34,9 @@ Par. (3). Pub. L. 108–327, §3(4), substituted “after October 16, 2004, and 
 
 Par. (4). Pub. L. 108–327, §3(5), substituted “for each fiscal year through fiscal year 2009” for “each of fiscal years 1999 through 2002”.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 <i><sup>1</sup></i><i> So in original.</i>
 

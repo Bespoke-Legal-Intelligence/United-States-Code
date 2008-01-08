@@ -18,7 +18,7 @@ Members Who Previously Served in Grade Higher Than Retired Grade.—(1) A retire
 
 (2) A retired member ordered to active duty in a grade that is higher than the member's retired grade pursuant to subsection (a) shall be treated for purposes of section 690 of this title as if the member was promoted to that higher grade while on that tour of active duty.
 
-(3) If, upon being released from that tour of active duty, such a retired member has served on active duty satisfactorily, as determined by the Secretary concerned, for not less than a total of 36 months in a grade that is a higher grade than the member's retired grade, the member is entitled to placement on the retired list in that grade.
+(3) If, upon being released from that tour of active duty, such a retired member has served on active duty satisfactorily, as determined by theSecretary concerned, for not less than a total of 36 months in a grade that is a higher grade than the member's retired grade, the member is entitled to placement on the retired list in that grade.
 
 (d)
 
@@ -42,5 +42,5 @@ Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set o
 
 #### Applicability
 
-Pub. L. 107–314, div. A, title V, §503(b)(2), Dec. 2, 2002, 116 Stat. 2531, provided that: “The provisions of section 689(d) of title 10, United States Code, shall apply withrespect to an officer ordered to active duty under section 501 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 589) before the date of the enactment of this Act \[Dec. 2, 2002\] in the same manner as such provisions apply to an officer ordered to active duty under section 688 of such title.”
+Pub. L. 107–314, div. A, title V, §503(b)(2), Dec. 2, 2002, 116 Stat. 2531, provided that: “The provisions of section 689(d) of title 10, United States Code, shall apply with respect to an officer ordered to active duty under section 501 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 589) before the date of the enactment of this Act \[Dec. 2, 2002\] in the same manner as such provisions apply to an officer ordered to active duty under section 688 of such title.”
 

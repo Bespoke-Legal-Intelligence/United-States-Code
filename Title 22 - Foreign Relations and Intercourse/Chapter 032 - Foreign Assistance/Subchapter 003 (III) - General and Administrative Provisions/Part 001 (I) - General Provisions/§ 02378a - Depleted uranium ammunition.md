@@ -20,6 +20,10 @@ The prohibition contained in subsection (a) of this section shall not apply with
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
+#### Codification
+
+Another section 620J of Pub. L. 87–195 is classified to section 2378d of this title.
+
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.

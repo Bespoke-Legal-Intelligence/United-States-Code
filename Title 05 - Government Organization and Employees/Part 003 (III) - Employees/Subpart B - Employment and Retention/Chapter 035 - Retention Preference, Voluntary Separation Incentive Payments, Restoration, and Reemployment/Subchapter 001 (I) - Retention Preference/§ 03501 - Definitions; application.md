@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(C) on November 30, 1964, he was employed in a position to which this subchapter applies and thereafter he continued to be so employed without a break in service of more than 30 days.
 
-(b) Except as otherwise provided by this subsection and section 3504 of this title, this subchapter applies to each employee in or under an Executive agency. This subchapter does not apply to an employee whose appointment is required by Congress to be confirmed by, or madewith the advice and consent of, the Senate or to a member of the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+(b) Except as otherwise provided by this subsection and section 3504 of this title, this subchapter applies to each employee in or under an Executive agency. This subchapter does not apply to an employee whose appointment is required by Congress to be confirmed by, or made with the advice and consent of, the Senate or to a member of the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 94–183, §2(8), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title IV, §404(a), Oct. 13, 1978, 92 Stat. 1165; Pub. L. 100–325, §2(e), May 30, 1988, 102 Stat. 581; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406.)
 

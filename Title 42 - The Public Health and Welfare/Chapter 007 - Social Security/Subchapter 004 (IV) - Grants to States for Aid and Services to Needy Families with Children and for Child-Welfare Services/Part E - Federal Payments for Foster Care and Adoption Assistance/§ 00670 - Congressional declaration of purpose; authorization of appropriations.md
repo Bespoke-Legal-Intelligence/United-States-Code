@@ -1,8 +1,8 @@
 ### §670. Congressional declaration of purpose; authorization of appropriations
 
-For the purpose of enabling each State to provide, in appropriate cases, foster care and transitional independent living programs for children who otherwise would have been eligible for assistance under the State's plan approved under part A of this subchapter (as such plan was in effect on June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums as may be necessary to carry out the provisions of this part. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans under this part.
+For the purpose of enabling each State to provide, in appropriate cases, foster care and transitional independent living programs for children who otherwise would have been eligible forassistance under the State's plan approved under part A of this subchapter (as such plan was in effect on June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums as may be necessary to carry out the provisions of this part. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Secretary, State plans under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §470, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94Stat. 501; amended Pub. L. 99–272, title XII, §12307(d), Apr. 7, 1986, 100 Stat. 297; Pub. L. 99–514, title XVII, §1711(c)(1), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 104–193, title I, §108(d)(1), Aug. 22, 1996, 110 Stat. 2166.)
+(Aug. 14, 1935, ch. 531, title IV, §470, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 99–272, title XII, §12307(d), Apr. 7, 1986, 100 Stat. 297; Pub. L. 99–514, title XVII, §1711(c)(1), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 104–193, title I, §108(d)(1), Aug. 22, 1996, 110 Stat. 2166.)
 
 #### References in Text
 
@@ -274,7 +274,7 @@ Final report.—Not later than 90 days after the termination of all grants award
 
 “(g)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section, $10,000,000 for the period of fiscal years 2001 through 2005.
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section,$10,000,000 for the period of fiscal years 2001 through 2005.
 
 #### “SEC. 5. GRANTS TO REDUCE PENDING BACKLOGS OF ABUSE AND NEGLECT CASES TO PROMOTE PERMANENCY FOR ABUSED AND NEGLECTED CHILDREN.
 
@@ -374,5 +374,5 @@ Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–23
 
 #### Study of Foster Care and Adoption Assistance Programs; Report to Congress Not Later Than October 1, 1983
 
-Section 101(b) of Pub. L. 96–272 directed Secretary of Health, Education, and Welfare to conduct a study of programs of foster care and adoption assistance established under part IV–E of the Social Security Act (this part) and submit to Congress, not later than Oct. 1, 1983, a full and complete report thereon, together with his recommendations as to (A) whether such part IV–E should be continued, and if so, (B) the changes (if any) which should be made in such part IV–E.
+Section 101(b) of Pub. L. 96–272 directed Secretary of Health, Education, and Welfare to conduct a study of programs of foster care and adoption assistance established under part IV–E of the Social Security Act (this part) and submit to Congress, not later than Oct. 1,1983, a full and complete report thereon, together with his recommendations as to (A) whether such part IV–E should be continued, and if so, (B) the changes (if any) which should be made in such part IV–E.
 

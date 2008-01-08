@@ -74,7 +74,7 @@ Evidence on hearings.—For purposes of applying section 3190 of title 18, Unite
 
 &emsp;“(3)
 
-Payment of fees and costs.—(A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and theInternational Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
+Payment of fees and costs.—(A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
 
 &emsp;“(B) The authority of subparagraph (A) may be exercised only to the extent and in the amounts provided in advance in appropriations Acts.
 
@@ -100,7 +100,7 @@ International tribunal for rwanda.—The term ‘International Tribunal for Rwan
 
 &emsp;“(3)
 
-Agreement between the united states and the international tribunal for yugoslavia.—The term ‘Agreement Between the United States and the International Tribunal for Yugoslavia’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Law in the Territory of the Former Yugoslavia, signed at The Hague, October 5, 1994.
+Agreement between the united states and the international tribunal for yugoslavia.—Theterm ‘Agreement Between the United States and the International Tribunal for Yugoslavia’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Law in the Territory of the Former Yugoslavia, signed at The Hague, October 5, 1994.
 
 &emsp;“(4)
 
@@ -194,6 +194,7 @@ The United States currently has bilateral extradition treaties with the followin
 | Ireland | July 13, 1983 | Dec. 15, 1984 | TIAS 10813. |
 | Israel DDec. 10, 1962 DDec. 5, 1963 D14 UST 1707. |  |  |  |
 | &nbsp; |  | Apr. 11, 1967 | 18 UST 382. |
+| &nbsp; | July 6, 2005 | Jan. 10, 2007 | &nbsp; |
 | Italy | Oct. 13, 1983 | Sept. 24, 1984 | TIAS 10837. |
 | Jamaica | June 14, 1983 | July 7, 1991 | &nbsp; |
 | Japan | Mar. 3, 1978 | Mar. 26, 1980 | 31 UST 892. |
@@ -268,6 +269,7 @@ The United States currently has bilateral extradition treaties with the followin
 | Tuvalu DJune 8, 1972 DJan. 21, 1977 D28 UST 227. |  |  |  |
 | &nbsp; |  | Apr. 25, 1980 | 32 UST 1310. |
 | United Kingdom | June 8, 1972June 25, 1985 | Jan. 21, 1977Dec. 23, 1986 | 28 UST 227.TIAS. |
+| &nbsp; | Mar. 31, 2003 | Apr. 26, 2007 |  |
 | Uruguay | Apr. 6, 1973 | Apr. 11, 1984 | TIAS 10850. |
 | Venezuela | Jan. 19, 21, 1922 | Apr. 14, 1923 | 43 Stat. 1698. |
 | Yugoslavia <sup>1</sup> | Oct. 25, 1901 | June 12, 1902 | 32 Stat. 1890. |

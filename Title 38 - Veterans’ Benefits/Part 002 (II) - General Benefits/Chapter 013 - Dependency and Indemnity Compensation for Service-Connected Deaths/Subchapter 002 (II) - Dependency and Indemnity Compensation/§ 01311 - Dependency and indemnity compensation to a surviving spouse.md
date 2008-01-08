@@ -228,7 +228,7 @@ Pub. L. 106–117 struck out subsec. (e) which provided that the termination by 
 
 Subsec. (a)(2). Pub. L. 105–98, §5(a)(2), substituted “$185” for “$169”.
 
-Subsec. (a)(3). Pub. L. 105–98, §5(b), inserted table entries for pay grades E–1 to E–6, generally upgraded monthly rates in table for pay grades E–7 to E–9, W–1 to W–4, and O–1 to O–10, substituted “section 402 of this title” for “section 1302 of this title” and “$1,044” for“$943” in footnote 1, and substituted “section 402 of this title” for “section 1302 of this title” and “$1,941” for “$1,753” in footnote 2.
+Subsec. (a)(3). Pub. L. 105–98, §5(b), inserted table entries for pay grades E–1 to E–6, generally upgraded monthly rates in table for pay grades E–7 to E–9, W–1 to W–4, and O–1 to O–10, substituted “section 402 of this title” for “section 1302 of this title” and “$1,044” for “$943” in footnote 1, and substituted “section 402 of this title” for “section 1302 of this title” and “$1,941” for “$1,753” in footnote 2.
 
 Subsec. (b). Pub. L. 105–98, §5(c), substituted “$215 for each such child.” for “$100 for each such child during fiscal year 1993, $150 for each such child during fiscal year 1994, and $200 for each such child thereafter.”
 

@@ -8,7 +8,7 @@
 
 (B) Such projects, as described in the State plans submitted by State agencies, may include—
 
-&emsp;(i) medical and other scientific, technical, methodological, and other investigations into the nature of disability, methods of analyzing it, and restorative techniques, including basic research where related to rehabilitation techniques or services;
+&emsp;(i) medical and other scientific, technical, methodological, and other investigations intothe nature of disability, methods of analyzing it, and restorative techniques, including basic research where related to rehabilitation techniques or services;
 
 &emsp;(ii) studies and analysis of industrial, vocational, social, recreational, psychiatric, psychological, economic, and other factors affecting rehabilitation of individuals with disabilities;
 
@@ -170,7 +170,7 @@
 
 &emsp;(iv) demonstrate and evaluate methods of community outreach for individuals with spinal cord injuries and community education in connection with the problems of such individuals in areas such as housing, transportation, recreation, employment, and community activities.
 
-(C) In awarding grants under this paragraph, the Director shall take into account the location of any proposed Spinal Cord Injury Centerand the appropriate geographic and regional allocation of such Centers.
+(C) In awarding grants under this paragraph, the Director shall take into account the location of any proposed Spinal Cord Injury Center and the appropriate geographic and regional allocation of such Centers.
 
 (5) Research grants may be used to conduct a program for end-stage renal disease research, to include support of projects and demonstrations for providing special services (including transplantation and dialysis), artificial kidneys, and supplies necessary for the rehabilitation of individuals with such disease and which will—
 
@@ -184,7 +184,7 @@
 
 (6) Research grants may be used to conduct a program for international rehabilitation research, demonstration, and training for the purpose of developing new knowledge and methods in the rehabilitation of individuals with disabilities in the United States, cooperating with and assisting in developing and sharing information found useful in other nations in the rehabilitation of individuals with disabilities, and initiating a program to exchange experts and technical assistance in the field of rehabilitation of individuals with disabilities with other nations as a means of increasing the levels of skill of rehabilitation personnel.
 
-(7) Research grants may be used to conduct a research program concerning the use of existing telecommunications systems (including telephone, television, satellite, radio, and other similar systems) which have the potential for substantially improving service delivery methods, and the development of appropriate programming to meet the particular needs of individuals with disabilities.
+(7) Research grants may be used to conduct a research program concerning the use of existingtelecommunications systems (including telephone, television, satellite, radio, and other similar systems) which have the potential for substantially improving service delivery methods, and the development of appropriate programming to meet the particular needs of individuals with disabilities.
 
 (8) Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans’ Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federal agencies, and private industry in areas of joint interest involving rehabilitation.
 
@@ -242,7 +242,7 @@
 
 &emsp;(ii) identification of models for service provider training and evaluation and certification of the effectiveness of the models;
 
-&emsp;(iii) identification and dissemination of outcome measurement models for the assessment of rehabilitation technology products and services; and
+&emsp;(iii) identification and dissemination of outcome measurement models for the assessmentof rehabilitation technology products and services; and
 
 &emsp;(iv) development and testing of research-based tools to enhance consumer decisionmaking about rehabilitation technology products and services.
 

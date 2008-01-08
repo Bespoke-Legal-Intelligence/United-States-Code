@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Commodity Credit Corporation shall establish and carry out a program to encouragethe development, maintenance, and expansion of commercial export markets for agricultural commodities through cost-share assistance to eligible trade organizations that implement a foreign market development program.
+The Commodity Credit Corporation shall establish and carry out a program to encourage the development, maintenance, and expansion of commercial export markets for agricultural commodities through cost-share assistance to eligible trade organizations that implement a foreign market development program.
 
 #### (b) Type of assistance
 
@@ -96,7 +96,7 @@ An eligible trade organization shall be—
 
 &emsp;&emsp;&emsp;(iii) a nonprofit trade association; and
 
-&emsp;&emsp;(C) may be used by a United States trade association, cooperative, or small business for individual branded promotional activity related to a United States branded product, if the beneficiaries of the activity have provided funds for the activity in an amountthat is at least equivalent to the amount of assistance provided under this section.
+&emsp;&emsp;(C) may be used by a United States trade association, cooperative, or small business for individual branded promotional activity related to a United States branded product, if the beneficiaries of the activity have provided funds for the activity in an amount that is at least equivalent to the amount of assistance provided under this section.
 
 #### (g) Level of marketing assistance
 
@@ -176,7 +176,7 @@ Contribution level.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—The Secretary should require a minimum contribution level of 10 percent from an eligible trade organization that receives assistance for nonbranded promotion.
+In general.—The Secretary should require a minimum contribution level of 10 percent froman eligible trade organization that receives assistance for nonbranded promotion.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -188,7 +188,7 @@ Additionality.—The Secretary should require each participant in the program to
 
 &emsp;&emsp;“(E)
 
-Independent audits.—If as a result of an evaluation or audit of activities of a participant under the program, the Secretary determines that a further review is justified in order to ensure compliance with the requirements of the program, theSecretary should require the participant to contract for an independent audit of the program activities, including activities of any subcontractor.
+Independent audits.—If as a result of an evaluation or audit of activities of a participant under the program, the Secretary determines that a further review is justified in order to ensure compliance with the requirements of the program, the Secretary should require the participant to contract for an independent audit of the program activities, including activities of any subcontractor.
 
 &emsp;“(3)
 

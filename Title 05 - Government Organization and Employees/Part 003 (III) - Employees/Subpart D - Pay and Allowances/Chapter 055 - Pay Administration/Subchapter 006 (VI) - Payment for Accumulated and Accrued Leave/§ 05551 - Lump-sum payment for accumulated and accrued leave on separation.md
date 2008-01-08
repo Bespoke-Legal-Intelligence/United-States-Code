@@ -8,7 +8,7 @@
 
 (2) A position referred to in paragraph (1) is a position in a department or agency of the Federal Government outside the Department of Defense or a Department of Defense position that is not located at a Department of Defense installation being closed or realigned as described in section 6304(d)(3) of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 93–181, §1, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–519, §2, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–499, title IV, §402(a), Dec. 5, 1980, 94 Stat. 2605; Pub. L. 101–508, title VII, §7202(g), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 102–138, title I, §147(b)(1), Oct. 28, 1991, 105 Stat. 669; Pub. L.104–201, div. A, title XVI, §1611(a), Sept. 23, 1996, 110 Stat. 2738; Pub. L. 106–518, title III, §310, Nov. 13, 2000, 114 Stat. 2420.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 93–181, §1, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–519, §2, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–499, title IV, §402(a), Dec. 5, 1980, 94 Stat. 2605; Pub. L. 101–508, title VII, §7202(g), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 102–138, title I, §147(b)(1), Oct. 28, 1991, 105 Stat. 669; Pub. L. 104–201, div. A, title XVI, §1611(a), Sept. 23, 1996, 110 Stat. 2738; Pub. L. 106–518, title III, §310, Nov. 13, 2000, 114 Stat. 2420.)
 
 Historical and Revision Notes
 
@@ -66,7 +66,7 @@ Section 1611(b) of Pub. L. 104–201 provided that: “Subsection (c) of section
 
 #### Effective Date of 1991 Amendment
 
-Section 147(b)(2) of Pub. L. 102–138 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to service as part of a tour of duty or extension thereof commencing on or after the date of enactment of this Act \[Oct. 28, 1991\].”
+Section 147(b)(2) of Pub. L. 102–138 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply with respect to service as part of a tour of duty or extension thereof commencing on or after the date of enactment of this Act \[Oct. 28, 1991\].”
 
 #### Effective Date of 1990 Amendment
 

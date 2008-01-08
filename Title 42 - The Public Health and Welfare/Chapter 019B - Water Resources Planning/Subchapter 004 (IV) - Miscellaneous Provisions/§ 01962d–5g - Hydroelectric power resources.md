@@ -2,7 +2,7 @@
 
 #### (a) Study; plan
 
-The Secretary of the Army, acting through the Chief of Engineers, is authorized and directed to conduct a study of the most efficient methods of utilizing the hydroelectric power resources at water resource development projects under the jurisdiction of the Secretary of the Army and to prepare a plan based upon the findings of such study. Such study shall include, but not be limited to, an analysis of—
+The Secretary of the Army, acting through the Chief of Engineers, is authorized and directed to conduct a study of the most efficient methods of utilizing the hydroelectric power resources at water resource development projects under the jurisdiction of the Secretary of theArmy and to prepare a plan based upon the findings of such study. Such study shall include, but not be limited to, an analysis of—
 
 &emsp;(1) the physical potential for hydroelectric development, giving consideration to the economic, social, environmental and institutional factors which will affect the realization of physical potential;
 
@@ -54,5 +54,5 @@ Pub. L. 100–676, §42, Nov. 17, 1988, 102 Stat. 4040, directed Secretary to co
 
 #### Water Quality Effects of Hydroelectric Facilities
 
-Pub. L. 100–676, §43, Nov. 17, 1988, 102 Stat. 4040, directed Secretary, in cooperation with Administrator of Environmental Protection Agency, to undertake a study of water quality effects of hydroelectric facilities owned and operated by Corps of Engineers, which was to be transmitted to Congress within 2 years of Nov. 17, 1988, and was to consider and include information for each such Corps of Engineers hydroelectric facility pertaining to: relevant water quality standards including dissolved oxygen; water quality monitoring data; possible options and projected costs of measures required to improve the quality of water released from eachsuch facility where justified; and recommendations with respect to such study results.
+Pub. L. 100–676, §43, Nov. 17, 1988, 102 Stat. 4040, directed Secretary, in cooperation with Administrator of Environmental Protection Agency, to undertake a study of water quality effects of hydroelectric facilities owned and operated by Corps of Engineers, which was to be transmitted to Congress within 2 years of Nov. 17, 1988, and was to consider and include information for each such Corps of Engineers hydroelectric facility pertaining to: relevant water quality standards including dissolved oxygen; water quality monitoring data; possible options and projected costs of measures required to improve the quality of water released from each such facility where justified; and recommendations with respect to such study results.
 

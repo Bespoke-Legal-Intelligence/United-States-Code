@@ -20,7 +20,7 @@ Land and interests in land owned by the State of Mississippi or a political subd
 
 #### (2) Marking
 
-&emsp;The Secretary may mark sites associated with the Siege and Battle of Corinth National Historic Landmark, as designated on May 6,1991, if the sites are determined by the Secretary to be protected by State or local governmental agencies.
+&emsp;The Secretary may mark sites associated with the Siege and Battle of Corinth National Historic Landmark, as designated on May 6, 1991, if the sites are determined by the Secretary to be protected by State or local governmental agencies.
 
 #### (3) Administration
 

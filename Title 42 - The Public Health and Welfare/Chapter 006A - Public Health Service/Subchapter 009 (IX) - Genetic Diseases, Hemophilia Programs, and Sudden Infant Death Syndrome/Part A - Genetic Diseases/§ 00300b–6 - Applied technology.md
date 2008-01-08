@@ -4,7 +4,7 @@ The Secretary, acting through an identifiable administrative unit, shall—
 
 &emsp;(1) conduct epidemiological assessments and surveillance of genetic diseases to define the scope and extent of such diseases and the need for programs for the diagnosis, treatment, and control of such diseases, screening for such diseases, and the counseling of persons with such diseases;
 
-&emsp;(2) on the basis of the assessments and surveillance described in paragraph (1), develop for use by the States programs which combinein an effective manner diagnosis, treatment, and control of such diseases, screening for such diseases, and counseling of persons with such diseases; and
+&emsp;(2) on the basis of the assessments and surveillance described in paragraph (1), develop for use by the States programs which combine in an effective manner diagnosis, treatment, and control of such diseases, screening for such diseases, and counseling of persons with such diseases; and
 
 &emsp;(3) on the basis of the assessments and surveillance described in paragraph (1), provide technical assistance to States to implement the programs developed under paragraph (2) and train appropriate personnel for such programs.
 

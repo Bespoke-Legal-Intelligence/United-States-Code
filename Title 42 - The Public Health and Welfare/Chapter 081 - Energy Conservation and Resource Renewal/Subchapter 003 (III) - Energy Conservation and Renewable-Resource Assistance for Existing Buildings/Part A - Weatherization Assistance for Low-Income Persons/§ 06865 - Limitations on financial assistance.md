@@ -124,7 +124,7 @@ Subsec. (c)(1). Pub. L. 106–469, §601(b)(3)(A), (B), in introductory provisio
 
 Subsec. (c)(1)(E). Pub. L. 106–469, §601(b)(3)(C)–(E), added subpar. (E).
 
-Subsec. (c)(3). Pub. L. 106–469, §601(b)(4), in introductory provisions, substituted “2000, the $2,500 per dwelling unit average” for “1991, the $1,600 per dwelling unit limitation” and “average amount” for “limitationamount”, in subpar. (A), substituted “average” for “limitation”, and, in subpar. (B), inserted “the” after “beginning of”.
+Subsec. (c)(3). Pub. L. 106–469, §601(b)(4), in introductory provisions, substituted “2000, the $2,500 per dwelling unit average” for “1991, the $1,600 per dwelling unit limitation” and “average amount” for “limitation amount”, in subpar. (A), substituted “average” for “limitation”, and, in subpar. (B), inserted “the” after “beginning of”.
 
 Subsec. (c)(4). Pub. L. 106–469, §601(b)(5), struck out par. (4), which required the Secretary, upon State application, to establish a separate average per dwelling unit limitation for dwelling units in the State.
 

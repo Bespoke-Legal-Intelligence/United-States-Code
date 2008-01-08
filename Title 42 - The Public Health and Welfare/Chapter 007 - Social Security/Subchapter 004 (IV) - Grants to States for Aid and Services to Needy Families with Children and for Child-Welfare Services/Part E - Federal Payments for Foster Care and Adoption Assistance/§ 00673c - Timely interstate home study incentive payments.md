@@ -72,7 +72,7 @@ In this section:
 
 #### (1) Home study
 
-&emsp;The term “home study” means an evaluation of a home environment conducted in accordance with applicable requirements of the State in which the home is located, to determine whether a proposed placement of a child would meet the individual needs of the child, including the child's safety, permanency, health, well-being, and mental, emotional, and physical development.
+&emsp;The term “home study” means an evaluation of a home environment conducted in accordance with applicable requirements of the State in which the home is located, to determine whether a proposed placement of a childwould meet the individual needs of the child, including the child's safety, permanency, health, well-being, and mental, emotional, and physical development.
 
 #### (2) Interstate home study
 

@@ -24,7 +24,7 @@ Section 905 \[enacted as section 921(b)\] adopts the procedures for selection of
 
 #### house report no. 95–595
 
-Subsection (a) is derived from section 85(a) \[section 405(a) of former title 11\], second sentence, of current law. There is no substantive change in the law. The subsection permits a municipality that does not have its own officers to be moved into chapter 9 by the action of the body or board that has authority to levy taxes for the municipality.
+Subsection (a) is derived from section 85(a) \[section 405(a) of former title 11\], second sentence, of currentlaw. There is no substantive change in the law. The subsection permits a municipality that does not have its own officers to be moved into chapter 9 by the action of the body or board that has authority to levy taxes for the municipality.
 
 Subsection (b) permits a party in interest to object to the filing of the petition not later than 15 days after notice. This provision tracks the third sentence of section 85(a) \[section 405(a) of former title 11\], except that the provision for publication in section 85(a) is left to the Rules (see Rule 9–14), and therefore the determinative date is left less definite.
 

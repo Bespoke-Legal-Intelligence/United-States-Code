@@ -2,7 +2,7 @@
 
 #### (a) Treatment of commercial space transportation services as commercial item under acquisition laws
 
-Acquisitions of space transportation services by the Federal Government shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space transportation services shall be considered to be a commercial item.
+Acquisitions of space transportation services by the Federal Government shall be carried outin accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space transportation services shall be considered to be a commercial item.
 
 #### (b) Safety standards
 

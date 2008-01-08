@@ -28,7 +28,7 @@
 
 &emsp;(3) develop and maintain an ongoing process to—
 
-&emsp;&emsp;(A) ensure that information resources management operations and decisions are integrated with organizational planning, budget, financial management, human resources management, and program decisions;
+&emsp;&emsp;(A) ensure that information resources management operations and decisions are integrated with organizational planning,budget, financial management, human resources management, and program decisions;
 
 &emsp;&emsp;(B) in cooperation with the agency Chief Financial Officer (or comparable official), develop a full and accurate accounting of information technology expenditures, related expenses, and results; and
 
@@ -192,7 +192,7 @@ The date of enactment of the Small Business Paperwork Relief Act of 2002, referr
 
 #### Prior Provisions
 
-A prior section 3506, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2819; amended Pub. L. 99–500, §101(m)\[title VIII, §816\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–338, and Pub. L. 99–591, §101(m) \[title VIII, §816\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–338, related to Federal agency responsibilities prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3506, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2819; amended Pub. L. 99–500, §101(m) \[title VIII, §816\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–338, and Pub. L. 99–591, §101(m) \[title VIII, §816\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–338, related to Federal agency responsibilities prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3506, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for determination of necessity for information and hearing thereon, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3508 of this title.
 
@@ -272,7 +272,7 @@ Sec. 3. <i>Responsibilities of Agency Heads</i>. (a) The head of each agency sha
 
 (2) cooperate to the fullest extent with the Chair by making available such information, support, and assistance, including personnel, as the Chair may request to support the accomplishment of the tasks assigned herein, consistent with applicable law.
 
-(b) The heads of executive departments and the agencies designated by the Chair under section 2(a) of this order shall identify a responsible official to representthe head of the executive department or agency on the Council with sufficient authority and experience to commit agency resources to address the Y2K problem.
+(b) The heads of executive departments and the agencies designated by the Chair under section 2(a) of this order shall identify a responsible official to represent the head of the executive department or agency on the Council with sufficient authority and experience to commit agency resources to address the Y2K problem.
 
 Sec. 4. <i>Responsibilities of Interagency and Executive Office Councils</i>. Interagency councils and councils within the Executive Office of the President, including the President's Management Council, the Chief Information Officers Council, the Chief Financial Officers Council, the President's Council on Integrity and Efficiency, the Executive Council on Integrity and Efficiency, the National Science and Technology Council, the National Performance Review, the National Economic Council, the Domestic Policy Council, and the National Security Council shall provide assistance and support to the Chair upon the Chair's request.
 

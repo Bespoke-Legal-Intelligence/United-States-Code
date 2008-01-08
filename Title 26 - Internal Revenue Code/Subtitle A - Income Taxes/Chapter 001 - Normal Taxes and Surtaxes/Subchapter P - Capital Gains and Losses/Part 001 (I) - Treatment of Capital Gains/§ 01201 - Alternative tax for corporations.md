@@ -128,7 +128,7 @@ Amendment by Pub. L. 104–188 effective as if included in the provision of the 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to taxable years beginning on or after Jan. 1, 1993, see section 13221(d) of Pub. L. 103–66, set out as a note under section 11 of this title.
+Amendment by Pub. L. 103–66 applicable to taxable years beginning on or after Jan. 1, 1993, see section13221(d) of Pub. L. 103–66, set out as a note under section 11 of this title.
 
 #### Effective Date of 1988 Amendment
 

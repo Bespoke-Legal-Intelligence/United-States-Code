@@ -10,7 +10,7 @@ It is the purpose of this subchapter to establish a National Institute of Justic
 
 &emsp;(4) identifying programs of proven effectiveness, programs having a record of proven success, or programs which offer a high probability of improving the functioning of the criminal justice system.
 
-> The Institute shall have authority to engage in and encourage research and development to improve and strengthen the criminal justice system and related aspects of the civil justice system and to disseminate the results of such efforts to Federal, State, and local governments, to evaluate the effectiveness of programs funded under this chapter, to develop and demonstrate new or improved approaches and techniques, to improve and strengthen the administration of justice, and to identify programs or projects carried out under this chapter which have demonstrated success in improving the quality of justice systems and which offer the likelihood of success if continued or repeated. In carrying out the provisions of this subchapter, the Institute shall give primary emphasis to the problems of State and local justice systems and shall insure that there is a balance between basic and applied research.
+> The Institute shall have authority to engage in and encourage research and development to improve and strengthen the criminal justice system and related aspects of the civil justice system and to disseminate the results of such efforts to Federal, State, and local governments, to evaluate the effectiveness of programs funded under this chapter, to develop and demonstratenew or improved approaches and techniques, to improve and strengthen the administration of justice, and to identify programs or projects carried out under this chapter which have demonstrated success in improving the quality of justice systems and which offer the likelihood of success if continued or repeated. In carrying out the provisions of this subchapter, the Institute shall give primary emphasis to the problems of State and local justice systems and shall insure that there is a balance between basic and applied research.
 
 (Pub. L. 90–351, title I, §201, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1172; amended Pub. L. 98–473, title II, §604(a), Oct. 12, 1984, 98 Stat. 2078.)
 
@@ -186,7 +186,7 @@ Mails.—The Commission may use the United States mails in the same manner and u
 
 “The Commission shall cease to exist upon the expiration of the 60-day period beginning on the date on which the Commission submits its report under section 3407.”
 
-Pub. L. 101–515, title II, §211(B), Nov. 5, 1990, 104 Stat. 2122, as amended by Pub. L. 103–322, title XXVI, §260001,Sept. 13, 1994, 108 Stat. 2088; Pub. L. 104–316, title I, §122(m), Oct. 19, 1996, 110 Stat. 3838, provided that:
+Pub. L. 101–515, title II, §211(B), Nov. 5, 1990, 104 Stat. 2122, as amended by Pub. L. 103–322, title XXVI, §260001, Sept. 13, 1994, 108 Stat. 2088; Pub. L. 104–316, title I, §122(m), Oct. 19, 1996, 110 Stat. 3838, provided that:
 
 “(B)(a) This subsection may be cited as the ‘National Commission to Support Law Enforcement Act’.
 

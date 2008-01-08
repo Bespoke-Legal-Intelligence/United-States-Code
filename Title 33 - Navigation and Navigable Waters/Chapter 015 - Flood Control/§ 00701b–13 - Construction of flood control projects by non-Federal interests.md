@@ -68,11 +68,11 @@ In the case of any study or design documents for a flood control project that we
 
 #### (A) Reimbursement or credit
 
-&emsp;&emsp;For work (including work associated with studies, planning, design, and construction) carried out by a non-Federal interest with respect to a project described in subsection (f) of this section, the Secretary shall, subject to the availability of appropriations, reimburse, without interest, the non-Federal interest an amount equal to the estimated Federal share of the cost of such work, or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work, if such work is later recommended by the Chief of Engineers and approved by the Secretary.
+&emsp;&emsp;For work (including work associated with studies, planning, design, and construction) carried out by a non-Federal interest with respect to a project described in subsection\(f) of this section, the Secretary shall, subject to the availability of appropriations, reimburse, without interest, the non-Federal interest an amount equal to the estimated Federal share of the cost of such work, or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work, if such work is later recommended by the Chief of Engineers and approved by the Secretary.
 
 #### (B) Credit
 
-&emsp;&emsp;If the non-Federal interest for a project described in subsection (f) of this sectioncarries out work before completion of a reconnaissance study by the Secretary and if such work is determined by the Secretary to be compatible with the project later recommended by the Secretary, the Secretary shall credit the non-Federal interest for its share of the cost of the project for such work.
+&emsp;&emsp;If the non-Federal interest for a project described in subsection (f) of this section carries out work before completion of a reconnaissance study by the Secretary and if such work is determined by the Secretary to be compatible with the project later recommended by the Secretary, the Secretary shall credit the non-Federal interest for its share of the cost of the project for such work.
 
 #### (3) Matters to be considered in reviewing plans
 
@@ -140,21 +140,55 @@ For the purpose of demonstrating the potential advantages and effectiveness of n
 
 &emsp;The project for flood control, White Oak Bayou watershed, Texas.
 
+#### (12) <sup>1</sup> Perris, California
+
+&emsp;The project for flood control, Perris, California.
+
+#### (13) Thornton Reservoir, Cook County, Illinois
+
+&emsp;An element of the project for flood control, Chicagoland Underflow Plan, Illinois.
+
+#### (14) Larose to Golden Meadow, Louisiana
+
+&emsp;The project for flood control, Larose to Golden Meadow, Louisiana.
+
+#### (15) Buffalo Bayou, Texas
+
+&emsp;A project for flood control, Buffalo Bayou, Texas, to provide an alternative to the project authorized by the first section of the River and Harbor Act of June 20, 1938 (52 Stat. 804) and modified by section 3a of the Flood Control Act of August 11, 1939 (53 Stat. 1414).
+
+#### (16) Halls Bayou, Texas
+
+&emsp;A project for flood control, Halls Bayou, Texas, to provide an alternative to the project for flood control, Buffalo Bayou and tributaries, Texas, authorized by section 101(a)(21) of the Water Resources Development Act of 1990 (104 Stat. 4610).
+
+#### (17) Menomonee River Watershed, Wisconsin
+
+&emsp;The project for the Menomonee River Watershed, Wisconsin, including—
+
+&emsp;&emsp;(A) the Underwood Creek diversion facility project (Milwaukee County Grounds); and
+
+&emsp;&emsp;(B) the Greater Milwaukee Rivers watershed project.
+
 #### (g) Treatment of flood damage prevention measures
 
 For the purposes of this section, flood damage prevention measures at or in the vicinity of Morgan City and Berwick, Louisiana, shall be treated as an authorized separable element of the Atchafalaya Basin feature of the project for flood control, Mississippi River and Tributaries.
 
-(Pub. L. 104–303, title II, §211, Oct. 12, 1996, 110 Stat. 3681; Pub. L. 106–53, title II, §223, Aug. 17, 1999, 113 Stat. 296; Pub. L. 106–60, title VI, §606, Sept. 29, 1999, 113 Stat. 501.)
+(Pub. L. 104–303, title II, §211, Oct. 12, 1996, 110 Stat. 3681; Pub. L. 106–53, title II, §223, Aug. 17, 1999, 113 Stat. 296; Pub. L. 106–60, title VI, §606, Sept. 29, 1999, 113 Stat. 501; Pub. L. 110–114, title V, §5157, Nov. 8, 2007, 121 Stat. 1257.)
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-Section 101 of the Water Resources Development Act of 1990, referred to in subsec. (f)(1), (2), (6), is section 101 of Pub. L. 101–640, title I, Nov. 28, 1990, 104 Stat. 4605, which is not classified to the Code.
+Section 101 of the Water Resources Development Act of 1990, referred to in subsec. (f)(1), (2), (6), (16), is section 101 of Pub. L. 101–640, title I, Nov. 28, 1990, 104 Stat. 4605, which is not classified to the Code.
 
-Section 101(13) of the Water Resources Development Act of 1992, referred to in subsec. (f)(5), is section 101(13)of Pub. L. 102–580, title I, Oct. 31, 1992, 106 Stat. 4803, which is not classified to the Code.
+Section 101(13) of the Water Resources Development Act of 1992, referred to in subsec. (f)(5), is section 101(13) of Pub. L. 102–580, title I, Oct. 31, 1992, 106 Stat. 4803, which is not classified to the Code.
+
+The first section of the River and Harbor Act of June 20, 1938, referred to in subsec. (f)(15), is section 1 of act June 20, 1938, ch. 535, 52 Stat. 802, which is classified in part to section 540 of this title.
+
+Section 3a of the Flood Control Act of August 11, 1939, referred to in subsec. (f)(15), is section 3a of act Aug. 11, 1939, ch. 699, 53 Stat. 1414, which is not classified to the Code.
 
 #### Amendments
+
+2007—Subsec. (f)(12) to (17). Pub. L. 110–114 added pars. (12) to (17).
 
 1999—Subsec. (d)(1). Pub. L. 106–53, §223(a)(1), added subpar. (A), designated existing provisions as subpar. (B), inserted subpar. heading, and substituted “under subsection (c)” for “pursuant to subsection (b) or (c)”.
 
@@ -167,4 +201,6 @@ Subsec. (e)(2)(A). Pub. L. 106–60, which directed the amendment of subpar. (A)
 Pub. L. 106–53, §223(b)(2), in subpar. heading, inserted “or credit” after “Reimbursement” and, in text, substituted “subject to the availability of appropriations” for “subject to amounts being made available in advance in appropriations Acts” and inserted “, or provide credit (depending on the request of the non-Federal interest) for the non-Federal share of such work,” after “the cost of such work”.
 
 Subsec. (e)(6). Pub. L. 106–53, §223(b)(3), added par. (6).
+
+<i><sup>1</sup></i><i> So in original. There are no pars. designated “(9)”, “(10)”, or “(11)”.</i>
 

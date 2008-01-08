@@ -16,7 +16,7 @@
 
 #### (4) Solicitation
 
-&emsp;It shall be unlawful for any person willfully to offer any item of material value in exchange for any return or return information (as defined in section 6103(b)) and to receive asa result of such solicitation any such return or return information. Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
+&emsp;It shall be unlawful for any person willfully to offer any item of material value in exchange for any return or return information (as defined in section 6103(b)) and to receive as a result of such solicitation any such return or return information. Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
 
 #### (5) Shareholders
 
@@ -48,7 +48,7 @@ Any person who willfully divulges or makes known software (as defined in section
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or under section 6104(c)” after “6103” in subsec. (a)(2) of section 7213, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7213 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+2006—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or under section 6104(c)” after “6103” in subsec. (a)(2) of section 7213, without specifying the act to be amended, was executed by making the insertion insubsec. (a)(2) of this section, which is section 7213 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 2003—Subsec. (a)(2). Pub. L. 108–173, §811(c)(2)(C), substituted “(19), or (20)” for “or (19)”.
 
@@ -84,7 +84,7 @@ Pub. L. 97–248 inserted “(i)(3)(B)(i),” after “under subsection (d),”.
 
 1980—Subsec. (a)(2). Pub. L. 96–611, §11(a)(4)(A), substituted “(<i>l</i>)(6), (7), or (8)” for “(<i>l</i>)(6) or (7)”.
 
-Pub. L. 96–499 substituted “person (not described in paragraph (1))” for “officer, employee, or agent, or former officer, employee, or agent, of any State (as defined in section 6103(b)(5)), any local child support enforcement agency, any educational institution, or any State food stamp agency (as defined in section6103(<i>l</i>)(7)(C)” and “(m)(4) of section 6103” for “(m)(4)(B) of section 6103”.
+Pub. L. 96–499 substituted “person (not described in paragraph (1))” for “officer, employee, or agent, or former officer, employee, or agent, of any State (as defined in section 6103(b)(5)), any local child support enforcement agency, any educational institution, or any State food stamp agency (as defined in section 6103(<i>l</i>)(7)(C)” and “(m)(4) of section 6103” for “(m)(4)(B) of section 6103”.
 
 Pub. L. 96–265, §408(a)(2)(D), as amended by Pub. L. 96–611, §11(a)(2)(B)(iv), substituted “subsection (d), (<i>l</i>)(6), (7), or (8), or (m)(4)(B)” for “subsection (d), (<i>l</i>)(6) or (7), or (m)(4)(B)”.
 
@@ -170,5 +170,5 @@ Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pu
 
 #### Clarification of Congressional Intent as to Scope of Amendments by Section 2653 of Pub. L. 98–369
 
-For provisions that nothing in amendments by section 2653 of Pub. L. 98–369 be construed as exempting debts of corporations or any other category of persons from application of such amendments, with such amendments to extend to all Federal agencies (as defined in such amendments), see section 9402(b) of Pub.L. 98–369, set out as a note under section 6402 of this title.
+For provisions that nothing in amendments by section 2653 of Pub. L. 98–369 be construed as exempting debts of corporations or any other category of persons from application of such amendments, with such amendments to extend to all Federal agencies (as defined in such amendments), see section 9402(b) of Pub. L. 98–369, set out as a note under section 6402 of this title.
 

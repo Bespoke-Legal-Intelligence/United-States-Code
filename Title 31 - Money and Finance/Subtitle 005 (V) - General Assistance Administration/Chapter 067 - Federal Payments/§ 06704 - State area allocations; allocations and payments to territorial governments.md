@@ -40,9 +40,9 @@ Relative income factor.—The relative income factor of a State is a fraction in
 
 Relative rate of labor force.—The relative rate of the labor force unemployed in a State is a fraction in which—
 
-&emsp;&emsp;(A) the numerator is the percentage of the labor force of the State that is unemployed in the calendar year preceding the payment period (as determined by the Secretary of Labor for general statistical purposes); and
+&emsp;&emsp;(A) the numerator is the percentage of the labor force of the State that is unemployed in the calendar year preceding the paymentperiod (as determined by the Secretary of Labor for general statistical purposes); and
 
-&emsp;&emsp;(B) the denominator is the percentage of the labor force of the United States that isunemployed in the calendar year preceding the payment period (as determined by the Secretary of Labor for general statistical purposes).
+&emsp;&emsp;(B) the denominator is the percentage of the labor force of the United States that is unemployed in the calendar year preceding the payment period (as determined by the Secretary of Labor for general statistical purposes).
 
 (c)
 

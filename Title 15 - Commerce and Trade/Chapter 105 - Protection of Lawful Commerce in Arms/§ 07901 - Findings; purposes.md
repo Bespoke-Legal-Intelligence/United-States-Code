@@ -42,7 +42,7 @@ The purposes of this chapter are as follows:
 
 #### References in Text
 
-The Gun Control Act of 1968, referred to in subsec. (a)(4), is Pub. L. 90–618, Oct. 22, 1968, 82 Stat. 1213, asamended. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Gun Control Act of 1968, referred to in subsec. (a)(4), is Pub. L. 90–618, Oct. 22, 1968, 82 Stat. 1213, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 The National Firearms Act, referred to in subsec. (a)(4), is classified generally to chapter 53 (§5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26.
 

@@ -2,7 +2,7 @@
 
 #### (a) Deferred annuity
 
-A participant who separates from the Agency may, upon separation or at any time before the commencement of an annuity under this subchapter, elect—
+A participant who separates from the Agency may, upon separation or at any time before thecommencement of an annuity under this subchapter, elect—
 
 &emsp;(1) to have the participant's contributions to the fund returned to the participant in accordance with section 2071(a) of this title; or
 

@@ -40,7 +40,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 #### (A) Default collection activities
 
-&emsp;&emsp;The term “default collection activities” means activities of a guaranty agency that are directly related to the collection of the loan on which a default claim has been paid to the participating lender, including the due diligence activities required pursuant to regulations of the Secretary.
+&emsp;&emsp;The term “default collection activities” means activities of a guaranty agency thatare directly related to the collection of the loan on which a default claim has been paid to the participating lender, including the due diligence activities required pursuant to regulations of the Secretary.
 
 #### (B) Default aversion activities
 

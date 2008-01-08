@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;The term “qualified military benefit” includes a travel benefit provided under section 2613 of title 10, United States Code (as in effect on the date of the enactment of this paragraph).
 
-(Added Pub. L. 99–514, title XI, §1168(a), Oct. 22, 1986, 100 Stat. 2512; amended Pub. L. 100–647, titleI, §1011B(f)(1), (2)(A), (3), Nov. 10, 1988, 102 Stat. 3489, 3490; Pub. L. 108–121, title I, §§102(b)(1), (2), 106(a), (b)(1), Nov. 11, 2003, 117 Stat. 1337–1339; Pub. L. 108–375, div. A, title V, §585(b)(1), (2)(A), Oct. 28, 2004, 118 Stat. 1931, 1932.)
+(Added Pub. L. 99–514, title XI, §1168(a), Oct. 22, 1986, 100 Stat. 2512; amended Pub. L. 100–647, title I, §1011B(f)(1), (2)(A), (3), Nov. 10, 1988, 102 Stat. 3489, 3490; Pub. L. 108–121, title I, §§102(b)(1), (2), 106(a), (b)(1), Nov. 11, 2003, 117 Stat. 1337–1339; Pub. L. 108–375, div. A, title V, §585(b)(1), (2)(A), Oct. 28, 2004, 118 Stat. 1931, 1932.)
 
 #### References in Text
 

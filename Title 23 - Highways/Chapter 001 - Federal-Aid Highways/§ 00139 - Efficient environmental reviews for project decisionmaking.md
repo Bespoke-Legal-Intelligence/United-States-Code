@@ -42,7 +42,7 @@ Project sponsor.—The term “project sponsor” means the agency or other enti
 
 &emsp;(8)
 
-State transportation department.—The term “State transportation department” means any statewide agency of a State with responsibility for one or more modes of transportation.
+State transportation department.—The term “State transportation department” means any statewide agency of a State withresponsibility for one or more modes of transportation.
 
 (b)
 
@@ -62,7 +62,7 @@ Lead Agencies.—
 
 &emsp;(1)
 
-Federal lead agency.—The Department of Transportation shall be the Federal leadagency in the environmental review process for a project.
+Federal lead agency.—The Department of Transportation shall be the Federal lead agency in the environmental review process for a project.
 
 &emsp;(2)
 
@@ -136,7 +136,7 @@ Concurrent reviews.—Each Federal agency shall, to the maximum extent practicab
 
 (e)
 
-Project Initiation.—The project sponsor shall notify the Secretary of the type of work, termini, length and general location of the proposed project, together with a statement of any Federal approvals anticipated to be necessary for the proposed project, for the purpose of informing the Secretary that the environmental review process should be initiated.
+Project Initiation.—The project sponsor shall notify the Secretary of the type of work,termini, length and general location of the proposed project, together with a statement of any Federal approvals anticipated to be necessary for the proposed project, for the purpose of informing the Secretary that the environmental review process should be initiated.
 
 (f)
 
@@ -336,7 +336,7 @@ Limitations.—Nothing in this section shall preempt or interfere with—
 
 &emsp;&emsp;(A) any practice of seeking, considering, or responding to public comment; or
 
-&emsp;&emsp;(B) any power, jurisdiction, responsibility, or authority that a Federal, State, or localgovernment agency, metropolitan planning organization, Indian tribe, or project sponsor has with respect to carrying out a project or any other provisions of law applicable to projects, plans, or programs.
+&emsp;&emsp;(B) any power, jurisdiction, responsibility, or authority that a Federal, State, or local government agency, metropolitan planning organization, Indian tribe, or project sponsor has with respect to carrying out a project or any other provisions of law applicable to projects, plans, or programs.
 
 (<i>l</i>)
 

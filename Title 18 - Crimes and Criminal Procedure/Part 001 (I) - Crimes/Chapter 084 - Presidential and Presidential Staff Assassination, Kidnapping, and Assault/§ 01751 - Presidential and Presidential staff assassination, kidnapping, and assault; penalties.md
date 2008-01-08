@@ -12,7 +12,7 @@
 
 (f) The terms “President-elect” and “Vice-President-elect” as used in this section shall mean such persons as are the apparent successful candidates for the offices of President and Vice President, respectively, as ascertained from the results of the general elections held to determine the electors of President and Vice President in accordance with title 3, United States Code, sections 1 and 2.
 
-(g) The Attorney General of the United States, in his discretion is authorized to pay an amountnot to exceed $100,000 for information and services concerning a violation of subsection (a)(1). Any officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his official duties shall not be eligible for payment under this subsection.
+(g) The Attorney General of the United States, in his discretion is authorized to pay an amount not to exceed $100,000 for information and services concerning a violation of subsection (a)(1). Any officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his official duties shall not be eligible for payment under this subsection.
 
 (h) If Federal investigative or prosecutive jurisdiction is asserted for a violation of this section, such assertion shall suspend the exercise of jurisdiction by a State or local authority, under any applicable State or local law, until Federal action is terminated.
 

@@ -36,7 +36,7 @@ In this section, the term “juvenile subjected to trafficking” means a United
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary of Health and Human Services to carry out this section $5,000,000 for each of the fiscal years 2006 and 2007.
+There are authorized to be appropriated to the Secretary of Health and Human Services tocarry out this section $5,000,000 for each of the fiscal years 2006 and 2007.
 
 (Pub. L. 109–164, title II, §203, Jan. 10, 2006, 119 Stat. 3570.)
 

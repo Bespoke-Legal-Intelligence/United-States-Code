@@ -108,7 +108,7 @@ Extension of waiver authority.—
 
 &emsp;&emsp;“(iii) if the waiver authority granted under such subsection (c) is extended after application of clauses (i) and (ii), the expiration date for such authority is July 3, 1991; and
 
-&emsp;&emsp;“(iv) only joint resolutions described in section 153(a) of the Trade Act of 1974 \[section 2193(a) of this title\] (as amended by subsection (a)) that areintroduced in the House of Representatives or the Senate on or after the date of the enactment of this Act may be considered by either body.”
+&emsp;&emsp;“(iv) only joint resolutions described in section 153(a) of the Trade Act of 1974 \[section 2193(a) of this title\] (as amended by subsection (a)) that are introduced in the House of Representatives or the Senate on or after the date of the enactment of this Act may be considered by either body.”
 
 #### Effective Date of 1979 Amendment
 
@@ -155,6 +155,8 @@ Ex. Ord. No. 13079, Apr. 7, 1998, 63 F.R. 17309.—Vietnam.
 Ex. Ord. No. 13220, July 2, 2001, 66 F.R. 35527.—Republic of Belarus.
 
 Ex. Ord. No. 13314, Aug. 8, 2003, 68 F.R. 48249.—Turkmenistan.
+
+Ex. Ord. No. 13437, June 28, 2007, 72 F.R. 36339.—Turkmenistan.
 
 #### Presidential Determinations Relating to Waivers
 
@@ -269,4 +271,6 @@ Determination No. 2004–32, June 3, 2004, 69 F.R. 32429.—Turkmenistan.
 Determination No. 2004–33, June 3, 2004, 69 F.R. 32431.—Republic of Belarus.
 
 Determination No. 2004–34, June 3, 2004, 69 F.R. 32433.—Vietnam.
+
+Determination No. 2007–24, June 28, 2007, 72 F.R. 37421.—Turkmenistan.
 

@@ -64,7 +64,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
 
 “(a)
 
-In General.—The full equalization of allotments within the meaning of section 7 of the Act entitled ‘An Act to provide for the equalization of allotments on theAgua Caliente (Palm Springs) Reservation in California, and for other purposes’, approved September 21, 1959, commonly known as the ‘Agua Caliente Equalization Act of 1959’ (25 U.S.C. 957) is deemed to have been completed.
+In General.—The full equalization of allotments within the meaning of section 7 of the Act entitled ‘An Act to provide for the equalization of allotments on the Agua Caliente (Palm Springs) Reservation in California, and for other purposes’, approved September 21, 1959, commonly known as the ‘Agua Caliente Equalization Act of 1959’ (25 U.S.C. 957) is deemed to have been completed.
 
 “(b)
 

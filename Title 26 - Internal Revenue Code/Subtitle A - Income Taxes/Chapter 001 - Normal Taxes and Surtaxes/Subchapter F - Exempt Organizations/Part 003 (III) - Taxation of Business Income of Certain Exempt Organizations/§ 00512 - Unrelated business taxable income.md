@@ -44,7 +44,7 @@ For purposes of this title—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of any organization described in paragraph (9), (17), or (20) of section 501(c), a set-aside for any purpose specified in clause (ii) of subparagraph (B) may be taken into account under subparagraph (B) only to the extent that such set-aside does not result in an amount of assets set asidefor such purpose in excess of the account limit determined under section 419A (without regard to subsection (f)(6) thereof) for the taxable year (not taking into account any reserve described in section 419A(c)(2)(A) for post-retirement medical benefits).
+&emsp;&emsp;&emsp;In the case of any organization described in paragraph (9), (17), or (20) of section 501(c), a set-aside for any purpose specified in clause (ii) of subparagraph (B) may be taken into account under subparagraph (B) only to the extent that such set-aside does not result in an amount of assets set aside for such purpose in excess of the account limit determined under section 419A (without regard to subsection (f)(6) thereof) for the taxable year (not taking into account any reserve described in section 419A(c)(2)(A) for post-retirement medical benefits).
 
 #### (ii) Treatment of existing reserves for post-retirement medical or life insurance benefits
 
@@ -226,7 +226,7 @@ Related persons.—The Secretary shall prescribe such rules as may be necessary 
 
 &emsp;&emsp;(C) less than 10 percent of the net income of which for each taxable year is used for activities which are not related to the purpose constituting the basis for the religious order's exemption,
 
-> &emsp;there shall be excluded all gross income derived from such trade or business and all deductions directly connected with the carrying on of such trade or business, so long as it is established to the satisfaction of the Secretary that the rates or other charges for such services are competitive with rates or other charges charged for similar services by persons not exempt from taxation.
+> &emsp;there shall be excluded all gross income derived from such trade or business and all deductions directly connected with the carryingon of such trade or business, so long as it is established to the satisfaction of the Secretary that the rates or other charges for such services are competitive with rates or other charges charged for similar services by persons not exempt from taxation.
 
 &emsp;(16)(A) Notwithstanding paragraph (5)(B), there shall be excluded all gains or losses from the sale, exchange, or other disposition of any real property described in subparagraph (B) if—
 
@@ -382,7 +382,7 @@ Eligible remediation expenditures.—For purposes of this paragraph—
 
 In general.—The term “eligible remediation expenditures” means, with respect to any qualifying brownfield property, any amount paid or incurred by the eligible taxpayer to an unrelated third person to obtain a Phase I environmental site assessment of the property, and any amount so paid or incurred after the date of the certification described in subparagraph (C)(i) for goods and services necessary to obtain a certification described in subparagraph (D)(i) with respect to such property, including expenditures—
 
-&emsp;&emsp;&emsp;&emsp;(I) to manage, remove, control, contain, abate, or otherwise remediate ahazardous substance, pollutant, or contaminant on the property,
+&emsp;&emsp;&emsp;&emsp;(I) to manage, remove, control, contain, abate, or otherwise remediate a hazardous substance, pollutant, or contaminant on the property,
 
 &emsp;&emsp;&emsp;&emsp;(II) to obtain a Phase II environmental site assessment of the property, including any expenditure to monitor, sample, study, assess, or otherwise evaluate the release, threat of release, or presence of a hazardous substance, pollutant, or contaminant on the property,
 
@@ -424,7 +424,7 @@ Qualifying partnership.—The term “qualifying partnership” means a partners
 
 &emsp;&emsp;&emsp;&emsp;(II) satisfies the requirements of subparagraphs (B)(i), (C), (D), and (E), if “qualified partnership” is substituted for “eligible taxpayer” each place it appears therein (except subparagraph (D)(iii)), and
 
-&emsp;&emsp;&emsp;&emsp;(III) is not an organization which would be prevented from constituting an eligible taxpayer by reason of subparagraph (B)(ii).
+&emsp;&emsp;&emsp;&emsp;(III) is not an organization which would be prevented from constituting aneligible taxpayer by reason of subparagraph (B)(ii).
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -506,7 +506,7 @@ Termination.—Except for purposes of determining the average eligible remediati
 
 #### (3) Dues
 
-&emsp;For purposes of this subsection, the term “dues” means any payment (whether or notdesignated as dues) which is required to be made in order to be recognized by the organization as a member of the organization.
+&emsp;For purposes of this subsection, the term “dues” means any payment (whether or not designated as dues) which is required to be made in order to be recognized by the organization as a member of the organization.
 
 #### (e) Special rules applicable to S corporations
 
@@ -534,9 +534,9 @@ Termination.—Except for purposes of determining the average eligible remediati
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L. 88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825; Pub. L. 108–357, title II, §233(d), title III, §319(c), title VII, §702(a), Oct. 22, 2004, 118 Stat. 1434, 1472, 1540; Pub. L. 109–135, title IV, §412(dd), (ee)(1), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XII, §1205(a), Aug. 17, 2006, 120 Stat. 1066.)
 
-#### Adjustment of Amount of Annual Dues Threshold for Taxable Years Beginning in 2007
+#### Adjustment of Amount of Annual Dues Threshold for Taxable Years Beginning in 2008
 
-<i>For adjustment of maximum amount of annual dues paid to agricultural or horticultural organizations under subsection (d)(1) of this section for taxable years beginning in 2007, see section 3.26 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of maximum amount of annual dues paid to agricultural or horticultural organizations under subsection (d)(1) of this section for taxable years beginning in 2008, see section 3.26 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -716,7 +716,7 @@ Transitional rule.—If—
 
 “(3)
 
-Reasonable basis.—For purposes of paragraph (2), an organization shall be treated as having a reasonable basis for not treating membership dues as income derived in an unrelated trade or business if the taxpayer's treatment of such dues was in reasonable reliance on any of the following:
+Reasonable basis.—For purposes of paragraph (2), an organization shall be treated as having a reasonable basis for not treating membership dues as incomederived in an unrelated trade or business if the taxpayer's treatment of such dues was in reasonable reliance on any of the following:
 
 &emsp;“(A) Judicial precedent, published rulings, technical advice with respect to the organization, or a letter ruling to the organization.
 
@@ -796,7 +796,7 @@ Pub. L. 108–357, title VII, §702(c), Oct. 22, 2004, 118 Stat. 1546, provided 
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-Section 1951(b)(8)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], income received in a taxable year beginning after December 31, 1975, shall be excluded from gross income in determining unrelated business taxable income, if such income would have been excluded by paragraph (13) or (14) of section 512(b) if received in a taxable year beginning before such date. Any deductions directly connected with income excluded under the preceding sentence in determining unrelated business taxable income shall also be excluded for such purpose.”
+Section 1951(b)(8)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], income received in a taxable year beginning after December 31, 1975, shall be excluded from gross income in determining unrelated business taxable income, if such income would have been excluded by paragraph (13) or (14) of section 512(b) if received in ataxable year beginning before such date. Any deductions directly connected with income excluded under the preceding sentence in determining unrelated business taxable income shall also be excluded for such purpose.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

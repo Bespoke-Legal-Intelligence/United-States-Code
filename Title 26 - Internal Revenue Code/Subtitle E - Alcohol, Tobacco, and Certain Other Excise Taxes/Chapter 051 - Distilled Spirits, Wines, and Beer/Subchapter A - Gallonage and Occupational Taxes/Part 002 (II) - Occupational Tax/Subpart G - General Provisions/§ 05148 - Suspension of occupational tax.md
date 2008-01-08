@@ -12,7 +12,7 @@ For purposes of subsection (a), the suspension period is the period beginning on
 
 #### Repeal of Section
 
-<i>Pub. L. 109–59, title XI, §11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that,</i><i>effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is repealed.</i>
+<i>Pub. L. 109–59, title XI, §11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is repealed.</i>
 
 #### Prior Provisions
 

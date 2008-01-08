@@ -32,7 +32,7 @@
 
 (k)(1) Except as provided in this section and section 505, the time and manner of filing tax returns and the items of income, gain, loss, deduction, and credit of any taxpayer shall be determined under applicable nonbankruptcy law.
 
-(2) For Federal tax purposes, the provisions of this section are subject to the Internal RevenueCode of 1986 and other applicable Federal nonbankruptcy law.
+(2) For Federal tax purposes, the provisions of this section are subject to the Internal Revenue Code of 1986 and other applicable Federal nonbankruptcy law.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2565; Pub. L. 98–353, title III, §438, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, §§257(g), 283(c), Oct. 27, 1986, 100 Stat. 3114, 3116; Pub. L. 103–394, title V, §501(d)(4), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 109–8, title VII, §719(a)(1), Apr. 20, 2005, 119 Stat. 131.)
 
@@ -76,7 +76,7 @@ Subsection (g)(1)(A) indicates that neither gain nor loss is recognized on the t
 
 Subsection (g)(2) provides that any of the three kinds of transferees specified in paragraph (1) take the property with the same character, holding period, and basis in the hands of the transferor at the time of such transfer. The transferor's basis may be adjusted under section 346(j)(5) even if the discharge of indebtedness occurs after the transfer of property. Of course, no adjustment will occur if the transfer is from the debtor to the estate or if the transfer is from an entity that is not discharged.
 
-Subsection (h) provides that the creation of the estate of an individual under chapter 7 or 11 of title 11 as a separate taxable entity does not affect the number of taxable years for purposes of computing loss carryoversor carrybacks. The section applies with respect to carryovers or carrybacks of the debtor transferred into the estate under section 346(i)(1) of title 11 or back to the debtor under section 346(i)(2) of title 11.
+Subsection (h) provides that the creation of the estate of an individual under chapter 7 or 11 of title 11 as a separate taxable entity does not affect the number of taxable years for purposes of computing loss carryovers or carrybacks. The section applies with respect to carryovers or carrybacks of the debtor transferred into the estate under section 346(i)(1) of title 11 or back to the debtor under section 346(i)(2) of title 11.
 
 Subsection (i)(1) states a general rule that an estate that is a separate taxable entity nevertheless succeeds to all tax attributes of the debtor. The six enumerated attributes are illustrative and not exhaustive.
 
@@ -124,11 +124,11 @@ Subsec. (j)(7). Pub. L. 99–554, §283(c), substituted “owed” for “owned�
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -1,6 +1,6 @@
 ### §912. Office of Rural Health Policy
 
-(a) There shall be established in the Department of Health and Human Services (in this section referred to as the “Department”) an Office of Rural Health Policy (in this section referred to as the “Office”). The Office shall be headed by a Director, who shall advise the Secretary on the effects of current policies and proposed statutory, regulatory, administrative, and budgetary changes in the programs established under subchapters XVIII and XIX of this chapter on the financial viability of small rural hospitals, the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, and access to (and the quality of) health care in rural areas.
+(a) There shall be established in the Department of Health and Human Services (in this section referred to as the “Department”) an Office of Rural Health Policy (in this section referredto as the “Office”). The Office shall be headed by a Director, who shall advise the Secretary on the effects of current policies and proposed statutory, regulatory, administrative, and budgetary changes in the programs established under subchapters XVIII and XIX of this chapter on the financial viability of small rural hospitals, the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, and access to (and the quality of) health care in rural areas.
 
 (b) In addition to advising the Secretary with respect to the matters specified in subsection (a) of this section, the Director, through the Office, shall—
 
@@ -16,7 +16,7 @@
 
 &emsp;(3) coordinate the activities within the Department that relate to rural health care,
 
-&emsp;(4) provide information to the Secretary and others in the Department with respect to the activities, of other Federal departments andagencies, that relate to rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion, and
+&emsp;(4) provide information to the Secretary and others in the Department with respect to the activities, of other Federal departments and agencies, that relate to rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion, and
 
 &emsp;(5) administer grants, cooperative agreements, and contracts to provide technical assistance and other activities as necessary to support activities related to improving health care in rural areas.
 

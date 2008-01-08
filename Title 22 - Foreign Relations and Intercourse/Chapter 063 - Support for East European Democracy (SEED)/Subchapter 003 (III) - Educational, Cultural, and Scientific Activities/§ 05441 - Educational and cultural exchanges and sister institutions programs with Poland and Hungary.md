@@ -16,7 +16,7 @@ The United States should take all appropriate action to establish binational Ful
 
 #### (c) Reciprocal cultural centers
 
-The President should consider the establishment of reciprocal cultural centers in Polandand the United States and in Hungary and the United States to facilitate government-funded and privately-funded cultural exchanges.
+The President should consider the establishment of reciprocal cultural centers in Poland and the United States and in Hungary and the United States to facilitate government-funded and privately-funded cultural exchanges.
 
 #### (d) Sister institutions programs
 

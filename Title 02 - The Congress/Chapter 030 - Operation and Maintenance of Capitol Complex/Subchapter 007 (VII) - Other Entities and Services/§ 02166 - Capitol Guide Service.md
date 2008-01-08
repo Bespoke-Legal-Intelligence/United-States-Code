@@ -14,7 +14,7 @@ The Capitol Guide Board is authorized—
 
 &emsp;(1) with the prior approval of the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives, to establish and revise such number of positions of Guide in the Capitol Guide Service as the Board considers necessary to carry out effectively the activities of the Capitol Guide Service;
 
-&emsp;(2) to appoint, on a permanent basis, without regard to political affiliation, and solely on the basis of fitness to perform their duties, a Chief Guide, a Deputy Chief Guide, and an Assistant Chief Guide, and, in addition, such number of Guides as may be authorized under subparagraph (1) of this subsection;
+&emsp;(2) to appoint, on a permanent basis, without regard to political affiliation, and solely on the basis of fitness to perform their duties, aChief Guide, a Deputy Chief Guide, and an Assistant Chief Guide, and, in addition, such number of Guides as may be authorized under subparagraph (1) of this subsection;
 
 &emsp;(3) to prescribe their duties and responsibilities;
 
@@ -60,7 +60,7 @@ The Capitol Guide Board may take appropriate disciplinary action, including, whe
 
 (4) In no case shall the acceptance of personal services under this section result in the reduction of pay or displacement of any employee of the Capitol Guide Service.
 
-(Pub. L. 91–510, title IV, §441, Oct. 26, 1970, 84 Stat. 1190; Pub. L. 95–94, title I, Aug. 5, 1977, 91Stat. 671; Pub. L. 104–186, title II, §221(17), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 104–279, Oct. 9, 1996, 110 Stat. 3358.)
+(Pub. L. 91–510, title IV, §441, Oct. 26, 1970, 84 Stat. 1190; Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 671; Pub. L. 104–186, title II, §221(17), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 104–279, Oct. 9, 1996, 110 Stat. 3358.)
 
 #### Codification
 

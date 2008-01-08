@@ -7,6 +7,7 @@
 | [2452\.](%C2%A7%2002452%20-%20Authorization%20of%20activities.md) | Authorization of activities. |
 | [2452a.](%C2%A7%2002452a%20-%20Exchange%20program%20with%20countries%20in%20transition%20from%20totalitarianism%20to%20democracy.md) | Exchange program with countries in transition from totalitarianism to democracy. |
 | [2452b.](%C2%A7%2002452b%20-%20International%20expositions.md) | International expositions. |
+| [2452c.](%C2%A7%2002452c%20-%20Program%20to%20provide%20grants%20to%20American-sponsored%20schools%20in%20predominantly%20Muslim%20countries%20to%20provide%20scholarships.md) | Program to provide grants to American-sponsored schools in predominantly Muslim countries to provide scholarships. |
 | [2453\.](%C2%A7%2002453%20-%20Agreements%20with%20foreign%20governments%20and%20international%20organizations.md) | Agreements with foreign governments and international organizations. |
 | [2454\.](%C2%A7%2002454%20-%20Administration.md) | Administration. |
 | [2455\.](%C2%A7%2002455%20-%20Appropriations.md) | Appropriations. |
@@ -33,6 +34,7 @@
 - [&sect; 02452 - Authorization of activities](%C2%A7%2002452%20-%20Authorization%20of%20activities.md)
 - [&sect; 02452a - Exchange program with countries in transition from totalitarianism to democracy](%C2%A7%2002452a%20-%20Exchange%20program%20with%20countries%20in%20transition%20from%20totalitarianism%20to%20democracy.md)
 - [&sect; 02452b - International expositions](%C2%A7%2002452b%20-%20International%20expositions.md)
+- [&sect; 02452c - Program to provide grants to American-sponsored schools in predominantly Muslim countries to provide scholarships](%C2%A7%2002452c%20-%20Program%20to%20provide%20grants%20to%20American-sponsored%20schools%20in%20predominantly%20Muslim%20countries%20to%20provide%20scholarships.md)
 - [&sect; 02453 - Agreements with foreign governments and international organizations](%C2%A7%2002453%20-%20Agreements%20with%20foreign%20governments%20and%20international%20organizations.md)
 - [&sect; 02454 - Administration](%C2%A7%2002454%20-%20Administration.md)
 - [&sect; 02455 - Appropriations](%C2%A7%2002455%20-%20Appropriations.md)

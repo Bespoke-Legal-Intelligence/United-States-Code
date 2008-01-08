@@ -40,7 +40,7 @@ By virtue of the authority vested in me by the first section of the Act of July 
 
 Section 1. <i>Definitions</i>. As used in these regulations, the term:
 
-(1) “Retired ships’ officer and retired crew member” means a noncommissioned ships’ officer or crew member of a vessel of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] who either was on active duty as a vessel employee on July 19, 1963, and whose employment as such vessel employee was continuous from that date until the date of his retirement, or who had retired as a vessel employee on or before July 19, 1963.
+(1) “Retired ships’ officer and retired crew member” means a noncommissioned ships’ officer or crew member of a vessel of the Coast and Geodetic Survey \[nowNational Oceanic and Atmospheric Administration\] who either was on active duty as a vessel employee on July 19, 1963, and whose employment as such vessel employee was continuous from that date until the date of his retirement, or who had retired as a vessel employee on or before July 19, 1963.
 
 (2) “Active duty ships’ officer and active duty crew member” means a noncommissioned ships’ officer or crew member on active duty as a vessel employee of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] on July 19, 1963, and whose employment as such vessel employee has been continuous from that time.
 

@@ -126,7 +126,7 @@ Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “Fo
 
 1992—Subsec. (d)(3). Pub. L. 102–580 added par. (3).
 
-1987—Subsec. (d). Pub. L. 100–26 designated existing first sentence requiring each officer named in subsec. (a) to perform prescribed duties as par. (1), designatedexisting second sentence permitting the Chief of Engineers to accept orders to provide services to another department, agency, or governmental instrumentality as par. (2), and substituted “United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
+1987—Subsec. (d). Pub. L. 100–26 designated existing first sentence requiring each officer named in subsec. (a) to perform prescribed duties as par. (1), designated existing second sentence permitting the Chief of Engineers to accept orders to provide services to another department, agency, or governmental instrumentality as par. (2), and substituted “United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
 
 &emsp;“(A) the work to be undertaken on behalf of non-Federal interests involves Federal assistance and the head of the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers; and
 
@@ -151,6 +151,96 @@ Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “Fo
 1966—Subsec. (a). Pub. L. 89–718 struck out cls. (2) to (8) naming the Chief Signal Officer, Adjutant General, Quartermaster General, Chief of Finance, Chief of Ordnance, Chief Chemical Officer, and Chief of Transportation respectively, and redesignated cls. (9) to (11) as (2) to (4), respectively.
 
 1965—Subsec. (b). Pub. L. 89–288 provided Surgeon General, while so serving, with grade of lieutenant general.
+
+#### Corps of Engineers; Annual Budget Submission
+
+Pub. L. 110–161, div. C, title I, §114, Dec. 26, 2007, 121 Stat. 1944, provided that: “All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: <i>Provided</i>, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congress but shall be submitted separately from the budget justifications documents.”
+
+#### Chief of Engineers; Fiscal Transparency Report
+
+Pub. L. 110–114, title II, §2027, Nov. 8, 2007, 121 Stat. 1079, provided that:
+
+“(a)
+
+In General.—On the third Tuesday of January of each year beginning January 2008, the Chief of Engineers shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
+
+&emsp;“(1) the expenditures by the Corps for the preceding fiscal year and estimated expenditures by the Corps for the current fiscal year; and
+
+&emsp;“(2) for projects and activities that are not scheduled for completion in the current fiscal year, the estimated expenditures by the Corps necessary in the following fiscal year for each project or activity to maintain the same level of effort being achieved in the current fiscal year.
+
+“(b)
+
+Contents.—In addition to the information described in subsection (a), the report shall contain a detailed accounting of the following information:
+
+&emsp;“(1) With respect to activities carried out with funding provided under the Construction appropriations account for the Secretary \[of the Army\], information on—
+
+&emsp;&emsp;“(A) projects currently under construction, including—
+
+&emsp;&emsp;&emsp;“(i) allocations to date;
+
+&emsp;&emsp;&emsp;“(ii) the number of years remaining to complete construction;
+
+&emsp;&emsp;&emsp;“(iii) the estimated annual Federal cost to maintain that construction schedule; and
+
+&emsp;&emsp;&emsp;“(iv) a list of projects the Corps of Engineers expects to complete during the current fiscal year; and
+
+&emsp;&emsp;“(B) projects for which there is a signed partnership agreement and completed planning, engineering, and design, including—
+
+&emsp;&emsp;&emsp;“(i) the number of years the project is expected to require for completion; and
+
+&emsp;&emsp;&emsp;“(ii) estimated annual Federal cost to maintain that construction schedule.
+
+&emsp;“(2) With respect to operation and maintenance of the inland and intracoastal waterways identified by section 206 of the Inland Waterways Revenue Act of 1978 (33 U.S.C. 1804)—
+
+&emsp;&emsp;“(A) the estimated annual cost to maintain each waterway for the authorized reach and at the authorized depth;
+
+&emsp;&emsp;“(B) the estimated annual cost of operation and maintenance of locks and dams to ensure navigation without interruption; and
+
+&emsp;&emsp;“(C) the actual expenditures to maintain each waterway.
+
+&emsp;“(3) With respect to activities carried out with funding provided under the Investigations appropriations account for the Secretary—
+
+&emsp;&emsp;“(A) the number of active studies;
+
+&emsp;&emsp;“(B) the number of completed studies not yet authorized for construction;
+
+&emsp;&emsp;“(C) the number of initiated studies; and
+
+&emsp;&emsp;“(D) the number of studies expected to be completed during the fiscal year.
+
+&emsp;“(4) Funding received and estimates of funds to be received for interagency and international support activities under section 234 of the Water Resources Development Act of 1996 (33 U.S.C. 2323a).
+
+&emsp;“(5) Recreation fees and lease payments.
+
+&emsp;“(6) Hydropower and water storage receipts.
+
+&emsp;“(7) Deposits into the Inland Waterways Trust Fund and the Harbor Maintenance Trust Fund.
+
+&emsp;“(8) Other revenues and fees collected by the Corps of Engineers.
+
+&emsp;“(9) With respect to permit applications and notifications, a list of individual permit applications and nationwide permit notifications, including—
+
+&emsp;&emsp;“(A) the date on which each permit application is filed;
+
+&emsp;&emsp;“(B) the date on which each permit application is determined to be complete;
+
+&emsp;&emsp;“(C) the date on which any permit application is withdrawn; and
+
+&emsp;&emsp;“(D) the date on which the Corps of Engineers grants or denies each permit.
+
+&emsp;“(10) With respect to projects that are authorized but for which construction is not complete, a list of such projects for which no funds have been allocated for the 5 preceding fiscal years, including, for each project—
+
+&emsp;&emsp;“(A) the authorization date;
+
+&emsp;&emsp;“(B) the last allocation date;
+
+&emsp;&emsp;“(C) the percentage of construction completed;
+
+&emsp;&emsp;“(D) the estimated cost remaining until completion of the project; and
+
+&emsp;&emsp;“(E) a brief explanation of the reasons for the delay.”
+
+\[Reference to “partnership agreement” deemed to be reference to “cooperation agreement”, see section 2003(f)(3) of Pub. L. 110–114, set out as a note under section 1962d–5b of Title 42, The Public Health and Welfare.\]
 
 #### Chief of Engineers; Work or Services for Other Federal Departments and Agencies
 

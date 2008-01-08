@@ -2,7 +2,7 @@
 
 Loans made by any agency or instrumentality of the Federal Government (not including an eligible Community Development Finance Institution), or by an organization of Indians from funds borrowed from the United States, and loans the interest on which is not included in gross income for the purposes of chapter 1 of title 26 shall not be eligible for guaranty or insurance hereunder.
 
-(Pub. L. 93–262, title II, §206, Apr. 12, 1974, 88 Stat. 80; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 109–221, title IV, §401(c), May 12, 2006, 120 Stat. 342.)
+(Pub. L. 93–262, title II, §206, Apr. 12, 1974, 88 Stat. 80; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095; Pub. L. 109–221, title IV, §401(c), May 12, 2006, 120 Stat. 342.)
 
 #### Amendments
 

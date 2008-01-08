@@ -30,7 +30,7 @@ The President or the Secretary (on the basis of recommendations received from th
 
 #### (d) Presentation of award
 
-The presentation of the award shall be made by the President or the Secretary with such ceremonies as the President or the Secretary considers proper.
+The presentation of the award shall be made by the President or the Secretary with suchceremonies as the President or the Secretary considers proper.
 
 #### (e) Publication of award
 

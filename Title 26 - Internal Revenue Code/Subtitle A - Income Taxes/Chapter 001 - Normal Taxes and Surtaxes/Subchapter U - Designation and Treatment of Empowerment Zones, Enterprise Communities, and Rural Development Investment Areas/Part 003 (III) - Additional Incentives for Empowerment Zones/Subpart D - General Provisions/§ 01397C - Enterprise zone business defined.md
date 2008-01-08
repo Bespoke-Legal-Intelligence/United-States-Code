@@ -16,7 +16,7 @@ For purposes of this section, the term “qualified business entity” means, wi
 
 &emsp;(2) at least 50 percent of the total gross income of such entity is derived from the active conduct of such business,
 
-&emsp;(3) a substantial portion of the use of the tangible property of such entity (whetherowned or leased) is within an empowerment zone,
+&emsp;(3) a substantial portion of the use of the tangible property of such entity (whether owned or leased) is within an empowerment zone,
 
 &emsp;(4) a substantial portion of the intangible property of such entity is used in the active conduct of any such business,
 

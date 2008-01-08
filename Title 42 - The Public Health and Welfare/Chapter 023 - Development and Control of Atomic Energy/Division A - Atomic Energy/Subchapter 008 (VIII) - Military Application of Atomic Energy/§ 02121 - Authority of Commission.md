@@ -6,7 +6,7 @@ The Commission is authorized to—
 
 &emsp;(1) conduct experiments and do research and development work in the military application of atomic energy;
 
-&emsp;(2) engage in the production of atomic weapons, or atomic weapon parts, except that such activities shall be carried on only to the extent that the express consent and direction of the President of the United States has been obtained, which consent and direction shall be obtained at least once each year;
+&emsp;(2) engage in the production of atomic weapons, or atomic weapon parts, except that such activities shall be carried on only to the extent that the express consent and direction of the President of the United States has beenobtained, which consent and direction shall be obtained at least once each year;
 
 &emsp;(3) provide for safe storage, processing, transportation, and disposal of hazardous waste (including radioactive waste) resulting from nuclear materials production, weapons production and surveillance programs, and naval nuclear propulsion programs;
 
@@ -218,7 +218,7 @@ Pub. L. 103–160, div. C, title XXXI, §3136, Nov. 30, 1993, 107 Stat. 1946, ex
 
 #### Stockpile Stewardship Program
 
-Pub. L. 105–85, div. C, title XXXI, §3156, Nov. 18, 1997, 111 Stat. 2045, expressed findings of Congress and policyof United States about the direction and conduct of the stockpile stewardship program, prior to repeal by Pub. L. 105–261, div. C, title XXXI, §3157, Oct. 17, 1998, 112 Stat. 2257.
+Pub. L. 105–85, div. C, title XXXI, §3156, Nov. 18, 1997, 111 Stat. 2045, expressed findings of Congress and policy of United States about the direction and conduct of the stockpile stewardship program, prior to repeal by Pub. L. 105–261, div. C, title XXXI, §3157, Oct. 17, 1998, 112 Stat. 2257.
 
 Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042, which was formerly set out as a note under this section, was renumbered section 4201 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2521 of Title 50, War and National Defense.
 
@@ -304,7 +304,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 
 &emsp;“(ii) within the 60-day period beginning on the date that Congress receives the certification, Congress does not agree to a joint resolution described in subparagraph (B).
 
-“(B) For the purposes of subparagraph (A), ‘joint resolution’ means only a joint resolution introduced after the date on which the Congress receives the certification referred to in that subparagraph the matterafter the resolving clause of which is as follows: ‘The Congress disapproves the testing of a nuclear weapon covered by the certification of the President dated          .’ (the blank space being appropriately filled in).
+“(B) For the purposes of subparagraph (A), ‘joint resolution’ means only a joint resolution introduced after the date on which the Congress receives the certification referred to in that subparagraph the matter after the resolving clause of which is as follows: ‘The Congress disapproves the testing of a nuclear weapon covered by the certification of the President dated          .’ (the blank space being appropriately filled in).
 
 “(3) The President may authorize the United Kingdom to conduct in the United States, within a period covered by an annual report, one test of a nuclear weapon if the President determines that it is in the national interests of the United States to do so. Such a test shall be considered as one of the tests within the maximum number of tests that the United States is permitted to conduct during that period under paragraph (1)(B).
 

@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Appointment.—Notwithstanding any other provision of this title, the conservator or receiver who files the petition shall be thetrustee under this chapter, unless the Board designates an alternative trustee.
+Appointment.—Notwithstanding any other provision of this title, the conservator or receiver who files the petition shall be the trustee under this chapter, unless the Board designates an alternative trustee.
 
 &emsp;(2)
 

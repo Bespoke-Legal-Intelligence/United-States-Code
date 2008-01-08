@@ -30,7 +30,7 @@ Act Aug. 4, 1947, ch. 479, 61 Stat. 752, provided for the procurement and furnis
 
 #### Public International Organizations Designated by Statute
 
-The following organizations to be considered public international organizations for purposes of this section:
+The following organizations shall be considered public international organizations for purposes of this section:
 
 &emsp;The Global Fund to Fight AIDS, Tuberculosis and Malaria. See section 7622 of this title.
 
@@ -147,6 +147,8 @@ International Wheat Advisory Committee (International Wheat Council), Ex. Ord. N
 Interparliamentary Union, Ex. Ord. No. 13097, Aug. 7, 1998, 63 F.R. 43065.
 
 Israel-United States Binational Industrial Research and Development Foundation, Ex. Ord. No. 12956, Mar. 13, 1995, 60 F.R. 14199.
+
+ITER International Fusion Energy Organization, Ex. Ord. No. 13451, Nov. 19, 2007, 72 F.R. 65653.
 
 Korean Peninsula Energy Development Organization, Ex. Ord. No. 12997, Apr. 1, 1996, 61 F.R. 14949.
 

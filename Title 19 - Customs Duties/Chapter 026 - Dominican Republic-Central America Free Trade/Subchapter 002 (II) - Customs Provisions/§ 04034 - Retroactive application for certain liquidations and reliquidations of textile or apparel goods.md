@@ -14,7 +14,7 @@ Notwithstanding section 1514 of this title or any other provision of law, and su
 
 &emsp;(3) for which customs duties in excess of the applicable rate of duty for that good set out in the Schedule of the United States to Annex 3.3 of the Agreement were paid,
 
-> shall be liquidated or reliquidated at the applicable rate of duty for that good set out in theSchedule of the United States to Annex 3.3 of the Agreement, and the Secretary of the Treasury shall refund any excess customs duties paid with respect to such entry.
+> shall be liquidated or reliquidated at the applicable rate of duty for that good set out in the Schedule of the United States to Annex 3.3 of the Agreement, and the Secretary of the Treasury shall refund any excess customs duties paid with respect to such entry.
 
 #### (b) Eligible country
 

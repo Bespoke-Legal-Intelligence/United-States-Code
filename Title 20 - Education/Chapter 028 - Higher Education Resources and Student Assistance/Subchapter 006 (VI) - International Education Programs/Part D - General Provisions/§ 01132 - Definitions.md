@@ -26,7 +26,7 @@ As used in this subchapter—
 
 All references to individuals or organizations, unless the context otherwise requires, mean individuals who are citizens or permanent residents of the United States or organizations which are organized or incorporated in the United States.
 
-(Pub. L. 89–329, title VI, §631, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 736; amended Pub. L. 105–244, title I, §102(b)(8), title VI, §604(a), Oct. 7, 1998, 112 Stat. 1622, 1786.)
+(Pub. L. 89–329, title VI, §631, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 736;amended Pub. L. 105–244, title I, §102(b)(8), title VI, §604(a), Oct. 7, 1998, 112 Stat. 1622, 1786.)
 
 #### References in Text
 

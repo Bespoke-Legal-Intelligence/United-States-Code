@@ -50,7 +50,7 @@
 
 &emsp;(B) The term “land area of the United States” includes the land area of any territory, commonwealth, or possession of the United States.
 
-(c) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available to any Federal, State, or local civilian law enforcement agency to operate equipment for purposes other than described in subsection (b)(2) only to the extent that such support does not involve direct participation by such personnel in a civilian law enforcement operation unless such direct participation is otherwise authorized by law.
+(c) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available to any Federal, State, or local civilian law enforcement agency to operate equipment for purposes other than described in subsection (b)(2) only to the extent that such support does not involve directparticipation by such personnel in a civilian law enforcement operation unless such direct participation is otherwise authorized by law.
 
 (Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 98–525, title XIV, §1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, §3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, §1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, §1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, §1042, Oct. 23, 1992, 106 Stat. 2492; Pub. L. 105–277, div. B, title II, §201, Oct. 21, 1998, 112 Stat. 2681–567; Pub. L. 106–65, div. A, title X, §1066(a)(4), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–304, §17(a)(1), Oct. 6, 2006, 120 Stat. 1706.)
 
@@ -58,7 +58,7 @@
 
 The Controlled Substances Act, referred to in subsec. (b)(4)(A)(i), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (b)(4)(A)(i), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of theAct to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (b)(4)(A)(i), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of the Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(4)(A)(iii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
@@ -122,9 +122,11 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 #### Funds for Young Marines Program
 
-Pub. L. 109–289, div. A, title VIII, §8028, Sept. 29, 2006, 120 Stat. 1279, provided that: “Notwithstanding any other provision of law, funds available during the current fiscal year and hereafter for ‘Drug Interdiction and Counter-Drug Activities, Defense’ may be obligated for the Young Marines program.”
+Pub. L. 110–116, div. A, title VIII, §8030, Nov. 13, 2007, 121 Stat. 1321, provided that: “Notwithstanding any other provision of law, funds available during the current fiscal year and hereafter for ‘Drug Interdiction and Counter-Drug Activities, Defense’ may be obligated for the Young Marines program.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–289, div. A, title VIII, §8028, Sept. 29, 2006, 120 Stat. 1279.
 
 Pub. L. 109–148, div. A, title VIII, §8033, Dec. 30, 2005, 119 Stat. 2705.
 
@@ -172,9 +174,11 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
 
-Pub. L. 109–289, div. A, title VIII, §8045(a), Sept. 29, 2006, 120 Stat. 1283, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 110–116, div. A, title VIII, §8048(a), Nov. 13, 2007, 121 Stat. 1325, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–289, div. A, title VIII, §8045(a), Sept. 29, 2006, 120 Stat. 1283.
 
 Pub. L. 109–148, div. A, title VIII, §8052(a), Dec. 30, 2005, 119 Stat. 2709.
 
@@ -264,7 +268,7 @@ Limited Waiver of Prohibition.—Notwithstanding section 376 of title 10, United
 
 “(f)
 
-Conduct of Training or Operation To Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant tosection 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564 \[10 U.S.C. 124 note\])) for the purpose of aiding civilian law enforcement agencies.
+Conduct of Training or Operation To Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564 \[10 U.S.C. 124 note\])) for the purpose of aiding civilian law enforcement agencies.
 
 “(g)
 

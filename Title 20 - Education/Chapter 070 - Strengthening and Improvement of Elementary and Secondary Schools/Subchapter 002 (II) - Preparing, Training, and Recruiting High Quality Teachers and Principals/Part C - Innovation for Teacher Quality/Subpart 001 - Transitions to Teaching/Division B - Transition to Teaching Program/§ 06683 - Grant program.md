@@ -52,7 +52,7 @@ In making such a grant, the Secretary shall give priority to a partnership or co
 
 #### (e) Duration of grants
 
-The Secretary may make grants under this section for periods of 5 years. At the end of the5-year period for such a grant, the grant recipient may apply for an additional grant under this section.
+The Secretary may make grants under this section for periods of 5 years. At the end of the 5-year period for such a grant, the grant recipient may apply for an additional grant under this section.
 
 #### (f) Equitable distribution
 

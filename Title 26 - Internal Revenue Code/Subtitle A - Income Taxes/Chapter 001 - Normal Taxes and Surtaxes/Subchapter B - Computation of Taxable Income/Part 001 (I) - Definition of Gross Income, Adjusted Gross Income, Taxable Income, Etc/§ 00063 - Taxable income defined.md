@@ -102,7 +102,7 @@ For purposes of this subtitle, the term “itemized deductions” means the dedu
 
 &emsp;&emsp;(B) the taxpayer and his spouse consent in writing to the assessment (within such period as may be agreed on with the Secretary) of any deficiency, to the extent attributable to such change of election, even though at the time of the filing of such consent the assessment of such deficiency would otherwise be prevented by the operation of any law or rule of law.
 
-> &emsp;This paragraph shall not apply if the tax liability of the taxpayer's spouse for the taxable year corresponding to the taxable year of thetaxpayer has been compromised under section 7122.
+> &emsp;This paragraph shall not apply if the tax liability of the taxpayer's spouse for the taxable year corresponding to the taxable year of the taxpayer has been compromised under section 7122.
 
 #### (f) Aged or blind additional amounts
 
@@ -138,9 +138,9 @@ For purposes of this section, marital status shall be determined under section 7
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167.)
 
-#### Standard Deduction Adjustments for Taxable Years Beginning in 2007
+#### Standard Deduction Adjustments for Taxable Years Beginning in 2008
 
-<i>For adjustment of standard deduction, limitation on standard deduction, and additional amounts under subsections (c)(2), (5) and (f) of this section for taxable years beginning in 2007, see section 3.11 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of standard deduction, limitation on standard deduction, and additional</i><i>amounts under subsections (c)(2), (5) and (f) of this section for taxable years beginning in 2008, see section 3.11 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -274,7 +274,7 @@ Subsec. (i). Pub. L. 99–514, §102(a), in amending section generally, struck o
 
 1981—Subsec. (b)(1)(C). Pub. L. 97–34, §121(b)(1), added subpar. (C).
 
-Subsec. (d). Pub. L. 97–34, §104(b), substituted a blanket reference to individuals to whom subsection (a), (b), (c), or (d) of section 1 applies and the maximum amount of taxable income on which no tax is imposed by the applicable subsection of section 1 for provisions specifically referring to amounts of $3,400 in the case of (A) a joint return under section 6013, or (B) a surviving spouse (as defined in section 2(a)), $2,300 in the case ofan individual who is not married and who is not a surviving spouse (as so defined), and $1,700 in the case of a married individual filing a separate return.
+Subsec. (d). Pub. L. 97–34, §104(b), substituted a blanket reference to individuals to whom subsection (a), (b), (c), or (d) of section 1 applies and the maximum amount of taxable income on which no tax is imposed by the applicable subsection of section 1 for provisions specifically referring to amounts of $3,400 in the case of (A) a joint return under section 6013, or (B) a surviving spouse (as defined in section 2(a)), $2,300 in the case of an individual who is not married and who is not a surviving spouse (as so defined), and $1,700 in the case of a married individual filing a separate return.
 
 Subsec. (e)(2). Pub. L. 97–34, §111(b)(4), substituted “section 911(d)(2)” for “section 911(b)” in provisions following subpar. (B).
 

@@ -2,13 +2,13 @@
 
 #### (a) Purpose
 
-The purpose of this section is to provide homeownership and rental housing opportunities for very low-income, low-income, and moderate-income families.
+The purpose of this section is to provide homeownership and rental housing opportunities forvery low-income, low-income, and moderate-income families.
 
 #### (b) Funding and limitations of program
 
 #### (1) Duration of program
 
-&emsp;The provisions of this section shall be effective, subject to the provisions of paragraph (2),only during the 3-year period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A).
+&emsp;The provisions of this section shall be effective, subject to the provisions of paragraph (2), only during the 3-year period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A).
 
 #### (2) Annual fiscal limitations
 
@@ -58,7 +58,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 &emsp;&emsp;(B) public agencies or nonprofit organizations that agree to (i) make the property available for occupancy by and maintain it as affordable for low-income families (including low-income families with members who are veterans) for the remaining useful life of such property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (4), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months.
 
-> &emsp;The restrictions described in clause (i) of subparagraph (B) shall be contained in the deed or other recorded instrument. If, upon the expiration of such 180-day period, no qualifying household, public agency, or nonprofit organization has made a bona fide offer to purchase the property, the Corporation may offer to sellthe property to any purchaser. The Corporation shall actively market eligible single family properties for sale to low-income families and to low-income families with members who are veterans.
+> &emsp;The restrictions described in clause (i) of subparagraph (B) shall be contained in the deed orother recorded instrument. If, upon the expiration of such 180-day period, no qualifying household, public agency, or nonprofit organization has made a bona fide offer to purchase the property, the Corporation may offer to sell the property to any purchaser. The Corporation shall actively market eligible single family properties for sale to low-income families and to low-income families with members who are veterans.
 
 #### (3) Recapture of profits from resale
 
@@ -98,7 +98,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (5) Extension of restricted offer periods
 
-&emsp;The Corporation may provide notice to clearinghouses regarding, and offer for sale under the provisions of paragraphs (1) through (4), any eligible multifamily housing property—
+&emsp;The Corporation may provide notice to clearinghouses regarding, and offer for saleunder the provisions of paragraphs (1) through (4), any eligible multifamily housing property—
 
 &emsp;&emsp;(A) in which no qualifying multifamily purchaser has expressed serious interest during the period referred to in paragraph (2), or
 
@@ -156,7 +156,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (1) In general
 
-&emsp;With respect to properties under paragraph (2), rents charged to tenants for units made available for occupancy by very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the median income for the area, as determined by the Secretary, with adjustment for family size. Rents charged to tenants for units made available for occupancy by low-income families other than very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area,as determined by the Secretary, with adjustment for family size.
+&emsp;With respect to properties under paragraph (2), rents charged to tenants for units made available for occupancy by very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the median income for the area, as determined by the Secretary, with adjustment for family size. Rents charged to tenants for units made available for occupancy by low-income families other than very low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for family size.
 
 #### (2) Applicability
 
@@ -326,7 +326,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (B) Multiple-unit purchases
 
-&emsp;&emsp;If any nonprofit organization, public agency, or for-profit entity purchases more than 1 eligible condominium property as a part of the same negotiation or purchase, the Corporation may (in the discretion of the Corporation) waive the requirement under subparagraph (A) and provide instead that not less than 35 percent of all eligible condominium properties purchased shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or (ii) made available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause\(i) of the preceding sentence shall be contained in the deed or other recorded instrument.
+&emsp;&emsp;If any nonprofit organization, public agency, or for-profit entity purchases more than 1 eligible condominium property as a part of the same negotiation or purchase, the Corporation may (in the discretion of the Corporation) waive the requirement under subparagraph (A) and provide instead that not less than 35 percent of all eligible condominium properties purchased shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or (ii)made available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
 
 #### (C) Sale to other purchasers
 
@@ -380,7 +380,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 &emsp;The agreement required under paragraph (1) shall provide a plan for—
 
-&emsp;&emsp;(A) a program unifying all activities and responsibilities of the Corporation and theResolution Trust Corporation, and the design of the unified program shall take into consideration the substantial experience of the Resolution Trust Corporation regarding—
+&emsp;&emsp;(A) a program unifying all activities and responsibilities of the Corporation and the Resolution Trust Corporation, and the design of the unified program shall take into consideration the substantial experience of the Resolution Trust Corporation regarding—
 
 &emsp;&emsp;&emsp;(i) seller financing;
 
@@ -542,9 +542,9 @@ For purposes of this section:
 
 #### (D) Ineligible residential property
 
-&emsp;&emsp;The term “ineligible residential property” includes ineligible single family properties, ineligible multifamily housing properties, and ineligible condominium properties.
+&emsp;&emsp;The term “ineligible residential property” includes ineligible single family properties,ineligible multifamily housing properties, and ineligible condominium properties.
 
-(Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6,1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### References in Text
 
@@ -592,7 +592,7 @@ Subsec. (q). Pub. L. 103–204, §14(a)(2), added subsec. (q).
 
 Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read as follows: “that has an appraised value that does not exceed the applicable dollar amount set forth in the first sentence of section 203(b)(2) of the National Housing Act (which may, in the discretion of the Corporation, take into consideration any increase of such amount for high-cost areas).”
 
-Subsec. (p)(5)(B). Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read as follows: “that has an appraised value that does not exceed the applicable dollar amount set forth in section 221(d)(3)(ii) of the National Housing Act for elevator-type structures (which may, in the discretion of the Corporation, take into consideration any increase of such amount for high-cost areas).”
+Subsec. (p)(5)(B). Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read as follows: “that has an appraised value that does not exceed theapplicable dollar amount set forth in section 221(d)(3)(ii) of the National Housing Act for elevator-type structures (which may, in the discretion of the Corporation, take into consideration any increase of such amount for high-cost areas).”
 
 Subsec. (p)(7)(B). Pub. L. 102–550 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “that has an appraised value that does not exceed the applicable dollar amount specified in the first sentence of section 203(b)(2) of the National Housing Act, as such dollar amount is increased on an area-by-area basis under such section for areas with high prevailing housing sales prices, except that for purposes of this paragraph no such increase may exceed 150 percent of the dollar amount specified in section 203(b)(2).”
 

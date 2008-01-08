@@ -34,7 +34,7 @@
 
 (c) The Administrator of General Services shall periodically, but at least every 2 years, submit to the Director of the Office of Management and Budget an analysis of estimated total agency payments for such items as travel and transportation of people, average costs and duration of trips, and purposes of official travel; and of estimated total agency payments for employee relocation. This analysis shall be based on a sampling survey of agencies each of which spent more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. Agencies shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L.99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L. 99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829.)
 
 Historical and Revision Notes
 
@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 99–234 added subsec. (c).
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of this title.
+Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of this title.
 
 #### Regulations; Time for Issuance
 

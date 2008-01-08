@@ -28,7 +28,7 @@ An agreement described in subsection (a) of this section shall—
 
 #### (2) Special rule
 
-&emsp;For purposes of satisfying the requirement of paragraph (1), a scholarship recipient shall work in a law enforcement position in theState that awarded the scholarship for not less than 6 months but shall not be required to work in such a position for more than 2 years.
+&emsp;For purposes of satisfying the requirement of paragraph (1), a scholarship recipient shall work in a law enforcement position in the State that awarded the scholarship for not less than 6 months but shall not be required to work in such a position for more than 2 years.
 
 (Pub. L. 103–322, title XX, §200209, Sept. 13, 1994, 108 Stat. 2060.)
 

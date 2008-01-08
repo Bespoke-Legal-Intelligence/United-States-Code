@@ -2,7 +2,7 @@
 
 (a) The willful failure of a prisoner to remain within the extended limits of his confinement, or to return within the time prescribed to an institution or facility designated by the Attorney General, shall be deemed an escape from the custody of the Attorney General punishable as provided in chapter 35 of this title.
 
-(b)(1) The Attorney General shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to prisonerswho have been convicted of felony offenses against the United States and who are confined at a facility which is a residential community treatment center located in the geographical area in which such agency has jurisdiction, the following information maintained by the Bureau of Prisons (to the extent that the Bureau of Prisons maintains such information)—
+(b)(1) The Attorney General shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to prisoners who have been convicted of felony offenses against the United States and who are confined at a facility which is a residential community treatment center located in the geographical area in which such agency has jurisdiction, the following information maintained by the Bureau of Prisons (to the extent that the Bureau of Prisons maintains such information)—
 
 &emsp;(A) the names of such prisoners;
 
@@ -24,7 +24,7 @@
 
 &emsp;the term “relative” shall mean a spouse, child (including stepchild, adopted child or child as to whom the prisoner, though not a natural parent, has acted in the place of a parent), parent (including a person who, though not a natural parent, has acted in the place of a parent), brother, or sister.
 
-(June 25, 1948, ch. 645, 62 Stat. 850; Pub. L. 89–176, §1, Sept. 10, 1965, 79 Stat. 674; Pub. L. 93–209, Dec. 28, 1973, 87 Stat. 907; Pub. L. 98–473, title II, §218(a), Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–646, §57(a), Nov. 10, 1986, 100 Stat. 3611.)
+(June 25, 1948, ch. 645, 62 Stat. 850; Pub. L. 89–176, §1, Sept. 10, 1965, 79 Stat. 674; Pub. L. 93–209, Dec.28, 1973, 87 Stat. 907; Pub. L. 98–473, title II, §218(a), Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–646, §57(a), Nov. 10, 1986, 100 Stat. 3611.)
 
 #### Historical and Revision Notes
 

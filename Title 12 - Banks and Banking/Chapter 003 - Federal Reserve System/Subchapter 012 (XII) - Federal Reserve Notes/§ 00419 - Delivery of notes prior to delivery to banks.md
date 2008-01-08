@@ -1,6 +1,6 @@
 ### §419. Delivery of notes prior to delivery to banks
 
-When such notes have been prepared, the notes shall be delivered to the Board of Governors ofthe Federal Reserve System subject to the order of the Secretary of the Treasury for the delivery of such notes in accordance with this chapter.
+When such notes have been prepared, the notes shall be delivered to the Board of Governors of the Federal Reserve System subject to the order of the Secretary of the Treasury for the delivery of such notes in accordance with this chapter.
 
 (Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 267; May 29, 1920, ch. 214, §1, 41 Stat. 654; Pub. L. 103–325, title VI, §602(g)(4), Sept. 23, 1994, 108 Stat. 2293.)
 

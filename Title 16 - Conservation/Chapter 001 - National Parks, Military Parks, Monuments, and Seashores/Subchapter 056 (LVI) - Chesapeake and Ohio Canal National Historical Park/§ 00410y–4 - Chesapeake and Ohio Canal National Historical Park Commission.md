@@ -12,7 +12,7 @@ The Commission shall be composed of nineteen members appointed by the Secretary 
 
 &emsp;(2) Eight members to be appointed from recommendations submitted by the Governor of the State of Maryland, the Governor of the State of West Virginia, the Governor of the Commonwealth of Virginia, and the Mayor of the District of Columbia, of which two members shall be appointed from recommendations submitted by each such Governor or Mayor, as the case may be; and
 
-&emsp;(3) Three members to be appointed by the Secretary, one of whom shall be designated Chairman of the Commission and two of whomshall be members of regularly constituted conservation organizations.
+&emsp;(3) Three members to be appointed by the Secretary, one of whom shall be designated Chairman of the Commission and two of whom shall be members of regularly constituted conservation organizations.
 
 #### (c) Vacancies
 

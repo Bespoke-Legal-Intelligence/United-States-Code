@@ -56,7 +56,7 @@ In this chapter:
 
 &emsp;The term “seller” means, with respect to a qualified product—
 
-&emsp;&emsp;(A) an importer (as defined in section 921(a)(9) of title 18) who is engaged in the business as such an importer in interstate or foreign commerce and who is licensed to engage in business as such an importer under chapter 44 of title 18;
+&emsp;&emsp;(A) an importer (as defined in section 921(a)(9) of title 18) who is engaged in thebusiness as such an importer in interstate or foreign commerce and who is licensed to engage in business as such an importer under chapter 44 of title 18;
 
 &emsp;&emsp;(B) a dealer (as defined in section 921(a)(11) of title 18) who is engaged in the business as such a dealer in interstate or foreign commerce and who is licensed to engage in business as such a dealer under chapter 44 of title 18; or
 

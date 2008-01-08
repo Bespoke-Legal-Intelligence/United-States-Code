@@ -58,7 +58,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 (2) The Secretary shall, during September of each year <sup>1</sup> determine and promulgate the dollar amount which shall be applicable for premiums for months occurring in the following year. Subject to paragraphs (4) and (5), the amount of an individual's monthly premium under this section shall be equal to the monthly actuarial rate determined under paragraph (1) for that following year. Any amount determined under the preceding sentence which is not a multiple of $1 shall be rounded to the nearest multiple of $1 (or, if it is a multiple of 50 cents but not a multiple of $1, to the next higher multiple of $1).
 
-(3) Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium under this section, he shall,at the time such promulgation is announced, issue a public statement setting forth the actuarial assumptions and bases employed by him in arriving at the amount of an adequate actuarial rate for individuals 65 and older as provided in paragraph (1).
+(3) Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium under this section, he shall, at the time such promulgation is announced, issue a public statement setting forth the actuarial assumptions and bases employed by him in arriving at the amount of an adequate actuarial rate for individuals 65 and older as provided in paragraph (1).
 
 (4)(A) In the case of an individual described in subparagraph (B), the monthly premium for a month shall be reduced by the applicable reduction percent specified in the following table:
 
@@ -120,7 +120,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(iii) the person had been married to an individual for a period of at least 1 year (at the time of such individual's death) if (I) the individual was described in clause (i) at the time of the individual's death, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the individual's death; or
 
-&emsp;(iv) the person is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of the divorce) if (I) the individual was described in clause (i) at the time of the divorce, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the divorce.
+&emsp;(iv) the person is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of thedivorce) if (I) the individual was described in clause (i) at the time of the divorce, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the divorce.
 
 (C) For purposes of subparagraph (B)(i)(I), the term “qualified State or local government retirement system” means a retirement system that—
 
@@ -132,7 +132,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 (6)(A) In the case where a State, a political subdivision of a State, or an agency or instrumentality of a State or political subdivision thereof determines to pay, for the life of each individual, the monthly premiums due under paragraph (1) on behalf of each of the individuals in a qualified State or local government retiree group who meets the conditions of subsection (a) of this section, the amount of any increase otherwise applicable under section 1395r(b) of this title (as applied and modified by subsection (c)(6) of this section) with respect to the monthly premium for benefits under this part for an individual who is a member of such group shall be reduced by the total amount of taxes paid under section 3101(b) of the Internal Revenue Code of 1986 by such individual and under section 3111(b) of such Code by the employers of such individual on behalf of such individual with respect to employment (as defined in section 3121(b) of such Code).
 
-(B) For purposes of this paragraph, the term “qualified State or local government retireegroup” means all of the individuals who retire prior to a specified date that is before January 1, 2002, from employment in one or more occupations or other broad classes of employees of—
+(B) For purposes of this paragraph, the term “qualified State or local government retiree group” means all of the individuals who retire prior to a specified date that is before January 1, 2002, from employment in one or more occupations or other broad classes of employees of—
 
 &emsp;(i) the State;
 
@@ -282,7 +282,7 @@ Pub. L. 97–248, title I, §125, Sept. 3, 1982, 96 Stat. 365, provided that:
 
 &emsp;“(B) on October 1, 1981, if the individual files a request for this subparagraph to apply and pays the monthly premiums for the months so covered.
 
-“(2) The coverage period under the respective program of an individual described in subsection (a) whoenrolled in the respective program before the enrollment period described in that subsection shall be retroactively extended to October 1, 1981, if the individual files a request before January 1, 1983, for such retroactive extension and pays the monthly premiums for the months so covered.
+“(2) The coverage period under the respective program of an individual described in subsection (a) who enrolled in the respective program before the enrollment period described in that subsection shall be retroactively extended to October 1, 1981, if the individual files a request before January 1, 1983, for such retroactive extension and pays the monthly premiums for the months so covered.
 
 “(c)(1) For purposes of section 1839(d) of the Social Security Act \[section 1395r(d) of this title\] with respect to the monthly premium for months after September 1981, if an individual described in subsection (a) has enrolled in the insurance program under part B of title XVIII of the Social Security Act \[part B of this subchapter\] at any time before the end of the enrollment period described in subsection (a), any month (before the end of that enrollment period) in which he was not enrolled in that program shall not be treated as a month in which he could have been enrolled in the program.
 

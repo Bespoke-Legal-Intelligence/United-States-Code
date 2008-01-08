@@ -38,7 +38,7 @@ In order to receive any grant, loan, or work assistance under this subchapter an
 
 (3) A student who—
 
-&emsp;(A) is carrying at least one-half the normal full-time work load for the course of studythat the student is pursuing, as determined by an eligible institution, and
+&emsp;(A) is carrying at least one-half the normal full-time work load for the course of study that the student is pursuing, as determined by an eligible institution, and
 
 &emsp;(B) is enrolled in a course of study necessary for enrollment in a program leading to a degree or certificate,
 
@@ -114,7 +114,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 #### (4) Review
 
-&emsp;In the case of such an individual who is not a citizen or national of the United States, if the statement described in paragraph (1) is submitted but the documentation required under paragraph (2) is not presented or if the documentation required under paragraph (2)(A) is presented but such documentation is not verified under paragraph (3)—
+&emsp;In the case of such an individual who is not a citizen or national of the United States, ifthe statement described in paragraph (1) is submitted but the documentation required under paragraph (2) is not presented or if the documentation required under paragraph (2)(A) is presented but such documentation is not verified under paragraph (3)—
 
 &emsp;&emsp;(A) the institution—
 
@@ -160,7 +160,7 @@ Notwithstanding any other provision of law, a student shall be eligible until Se
 
 &emsp;(1) is a citizen of any one of the Freely Associated States and attends an institution of higher education in a State or a public or nonprofit private institution of higher education in the Freely Associated States; or
 
-&emsp;(2) meets the requirements of subsection (a)(5) of this section and attends a public ornonprofit private institution of higher education in any one of the Freely Associated States.
+&emsp;(2) meets the requirements of subsection (a)(5) of this section and attends a public or nonprofit private institution of higher education in any one of the Freely Associated States.
 
 #### (k) Special rule for correspondence courses
 
@@ -210,7 +210,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;(2) If there is a determination by the Secretary that the social security number provided to an eligible institution by a student is incorrect, the institution shall deny or terminate the student's eligibility for any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 until such time as the student provides documented evidence of a social security number that is determined by the institution to be correct.
 
-&emsp;(3) If there is a determination by the Secretary that the social security number provided to an eligible institution by a student is incorrect, and a correct social security number cannot be provided by such student, and a loan has been guaranteed for such student under part B of this subchapter, the institution shall notify and instruct the lender and guaranty agency making and guaranteeing the loan, respectively, to cease further disbursements of the loan, but such guaranty shall not be voided or otherwise nullified with respect to such disbursements made before the datethat the lender and the guaranty agency receives such notice.
+&emsp;(3) If there is a determination by the Secretary that the social security number provided to an eligible institution by a student is incorrect, and a correct social security number cannot be provided by such student, and a loan has been guaranteed for such student under part B of this subchapter, the institution shall notify and instruct the lender and guaranty agency making and guaranteeing the loan, respectively, to cease further disbursements of the loan, but such guaranty shall not be voided or otherwise nullified with respect to such disbursements made before the date that the lender and the guaranty agency receives such notice.
 
 &emsp;(4) Nothing in this subsection shall permit the Secretary to take any compliance, disallowance, penalty, or other regulatory action against—
 
@@ -285,7 +285,7 @@ Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 S
 
 2006—Subsec. (a)(6). Pub. L. 109–171, §8021(a), added par. (6).
 
-Subsec. (<i>l</i>)(1)(A). Pub. L. 109–171, §8020(c)(1), struck out “for a program of study of 1 year or longer” after“recognized certificate” and “unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of the total amount of all courses at the institution” before period at end.
+Subsec. (<i>l</i>)(1)(A). Pub. L. 109–171, §8020(c)(1), struck out “for a program of study of 1 year or longer” after “recognized certificate” and “unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of the total amount of all courses at the institution” before period at end.
 
 Subsec. (<i>l</i>)(1)(B). Pub. L. 109–171, §8020(c)(2), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “An institution of higher education referred to in subparagraph (A) is an institution of higher education—
 

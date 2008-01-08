@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(II) developed and implemented interim assessments; and
 
-&emsp;&emsp;&emsp;(III) made substantial progress (as determined by the Secretary) toward developingand implementing the performance standards and final aligned assessments described in clause (i), and toward having local educational agencies in the State produce the profiles described in clause (i);
+&emsp;&emsp;&emsp;(III) made substantial progress (as determined by the Secretary) toward developing and implementing the performance standards and final aligned assessments described in clause (i), and toward having local educational agencies in the State produce the profiles described in clause (i);
 
 &emsp;&emsp;(B) holds local educational agencies and schools accountable for meeting the educational goals described in the local applications submitted under paragraph (4) and for engaging in technical assistance and corrective actions consistent with section 1116 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6316\], for the local educational agencies and schools that do not make adequate yearly progress as described in section 1111(b)(2) of such Act \[20 U.S.C. 6311(b)(2)\]; and
 
@@ -82,11 +82,11 @@
 
 &emsp;&emsp;&emsp;(ii) describe the purposes and overall expected results of waiving each such requirement;
 
-&emsp;&emsp;&emsp;(iii) describe, for each school year, specific, measurable, educational goals for each local educational agency or school affected by the proposed waiver, and for the students served by the local educational agency or school who are affected by the waiver;
+&emsp;&emsp;&emsp;(iii) describe, for each school year, specific, measurable, educational goals foreach local educational agency or school affected by the proposed waiver, and for the students served by the local educational agency or school who are affected by the waiver;
 
 &emsp;&emsp;&emsp;(iv) explain why the waiver will assist the local educational agency or school in reaching such goals; and
 
-&emsp;&emsp;&emsp;(v) in the case of an application from a local educational agency, describe how thelocal educational agency will meet the requirements of paragraph (8).
+&emsp;&emsp;&emsp;(v) in the case of an application from a local educational agency, describe how the local educational agency will meet the requirements of paragraph (8).
 
 #### (B) Evaluation of applications
 
@@ -154,7 +154,7 @@
 
 #### (B) Performance review
 
-&emsp;&emsp;Three years after the date a State is designated an Ed-Flex Partnership State, the Secretary shall review the performance of the State educational agency in granting waivers of Federal statutory or regulatory requirements as described in paragraph\(1)(A) and shall terminate such agency's authority to grant such waivers if the Secretary determines, after notice and an opportunity for a hearing, that such agency's performance (including performance with respect to meeting the objectives described in paragraph (3)(A)(iii)) has been inadequate to justify continuation of such authority.
+&emsp;&emsp;Three years after the date a State is designated an Ed-Flex Partnership State, the Secretary shall review the performance of the State educational agency in granting waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) and shall terminate such agency's authority to grant such waivers if the Secretary determines, after notice and an opportunity for a hearing, that such agency's performance (including performance with respect to meeting the objectives described in paragraph (3)(A)(iii)) has been inadequate to justify continuation of such authority.
 
 #### (C) Renewal
 
@@ -224,7 +224,7 @@ The Secretary and the State educational agency may not waive under subsection (a
 
 &emsp;&emsp;(I) applicable civil rights requirements; and
 
-&emsp;(2) unless the underlying purposes of the statutory requirements of the program for which a waiver is granted continue to be met to the satisfaction of the Secretary.
+&emsp;(2) unless the underlying purposes of the statutory requirements of the program forwhich a waiver is granted continue to be met to the satisfaction of the Secretary.
 
 #### (d) Treatment of existing Ed-Flex Partnership States
 
@@ -286,7 +286,7 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
 2006—Subsec. (b)(2). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
-2002—Subsec. (b). Pub. L. 107–110 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “The statutory or regulatory requirements referred to in subsection (a)(1)(A) of this section are any such requirements for programs carried out under the following provisions:
+2002—Subsec. (b). Pub. L. 107–110 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The statutory or regulatory requirements referred to in subsection (a)(1)(A) of this section are any such requirements for programs carried out under the following provisions:
 
 &emsp;“(1) Title I of the Elementary and Secondary Education Act of 1965 (other than subsections (a) and (c) of section 1116 of such Act).
 

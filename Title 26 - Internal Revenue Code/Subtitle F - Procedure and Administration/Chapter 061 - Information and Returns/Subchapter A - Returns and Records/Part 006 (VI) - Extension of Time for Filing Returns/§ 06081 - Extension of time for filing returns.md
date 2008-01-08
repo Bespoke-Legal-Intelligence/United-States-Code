@@ -6,7 +6,7 @@ The Secretary may grant a reasonable extension of time for filing any return, de
 
 #### (b) Automatic extension for corporation income tax returns
 
-An extension of 3 months for the filing of the return of income taxes imposed by subtitle A shall be allowed any corporation if, in such manner and at such time as the Secretary may by regulations prescribe, there is filed on behalf of such corporation the form prescribed by the Secretary, and if such corporation pays, on or before the date prescribed for payment of the tax, the amount properly estimated as its tax; but this extension may be terminated at any time by the Secretary by mailing to the taxpayer notice of such termination at least 10 days prior to the date for termination fixed in such notice.
+An extension of 3 months for the filing of the return of income taxes imposed by subtitle Ashall be allowed any corporation if, in such manner and at such time as the Secretary may by regulations prescribe, there is filed on behalf of such corporation the form prescribed by the Secretary, and if such corporation pays, on or before the date prescribed for payment of the tax, the amount properly estimated as its tax; but this extension may be terminated at any time by the Secretary by mailing to the taxpayer notice of such termination at least 10 days prior to the date for termination fixed in such notice.
 
 #### (c) Cross references
 

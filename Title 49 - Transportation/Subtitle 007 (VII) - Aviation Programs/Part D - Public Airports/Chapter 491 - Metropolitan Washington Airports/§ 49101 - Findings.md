@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(6) any change in status of the 2 airports must take into account the interest of nearby communities, the traveling public, air carriers, general aviation, airport employees, and other interested groups, as well as the interests of the United States Government and State governments involved;
 
-&emsp;(7) in recognition of a perceived limited need for a Federal role in the management of these airports and the growing local interest, the Secretary of Transportation has recommended a transfer of authority from the Federal to the local/State level that is consistent with themanagement of major airports elsewhere in the United States;
+&emsp;(7) in recognition of a perceived limited need for a Federal role in the management of these airports and the growing local interest, the Secretary of Transportation has recommended a transfer of authority from the Federal to the local/State level that is consistent with the management of major airports elsewhere in the United States;
 
 &emsp;(8) an operating authority with representation from local jurisdictions, similar to authorities at all major airports in the United States, will improve communications with local officials and concerned residents regarding noise at the Metropolitan Washington Airports;
 

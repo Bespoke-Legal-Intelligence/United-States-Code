@@ -54,7 +54,7 @@ Pub. L. 104–106, §4322(b)(6), inserted “(as in effect on September 30, 1995
 
 Pub. L. 104–106, §4321(a)(7), made technical amendment to Pub. L. 103–355, §2352(b). See 1994 Amendment note below.
 
-1994—Subsec. (a). Pub. L. 103–355, §2351(a)(1), as amended by Pub. L. 104–106, §4321(a)(6), inserted after second sentence “Each claim by a contractor againstthe government relating to a contract and each claim by the government against a contractor relating to a contract shall be submitted within 6 years after the accrual of the claim. The preceding sentence does not apply to a claim by the government against a contractor that is based on a claim by the contractor involving fraud.”
+1994—Subsec. (a). Pub. L. 103–355, §2351(a)(1), as amended by Pub. L. 104–106, §4321(a)(6), inserted after second sentence “Each claim by a contractor against the government relating to a contract and each claim by the government against a contractor relating to a contract shall be submitted within 6 years after the accrual of the claim. The preceding sentence does not apply to a claim by the government against a contractor that is based on a claim by the contractor involving fraud.”
 
 Subsec. (c). Pub. L. 103–355, §2351(b), substituted “$100,000” for “$50,000” wherever appearing.
 
@@ -84,7 +84,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Section 907(a)(2) of Pub. L. 102–572 provided that: “The amendment made by paragraph (1)(B) \[amending this section\] shall be effective with respect to all claims filed before, on, or after the date of the enactment of this Act \[Oct. 29, 1992\], except for those claims which, before such date of enactment, have been the subject of an appeal to an agency board of contract appeals or a suit in the United States Claims Court.”
 
-Section 907(a)(4) of Pub. L. 102–572 provided that: “The amendments made by paragraph (1)(A) \[amending this section\] shall be effective with respect to certifications executed more than 60 days after the effective date of amendments to the Federal Acquisition Regulation implementing the amendments made by paragraph (1)(A) with respect to the certification of claims.” \[For effective date of implementing regulations, see 59 F.R. 11368, Mar. 10, 1994.\]
+Section 907(a)(4) of Pub. L. 102–572 provided that: “The amendments made by paragraph (1)(A) \[amending this section\] shall be effective with respect to certifications executed more than 60 days after the effective date of amendments to the Federal Acquisition Regulation implementing the amendments made by paragraph (1)(A) with respect to the certification of claims.” \[Foreffective date of implementing regulations, see 59 F.R. 11368, Mar. 10, 1994.\]
 
 #### Effect of Contract Provisions Providing for Submission of Claims Earlier Than Six Years After Accrual
 

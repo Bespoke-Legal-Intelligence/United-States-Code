@@ -12,7 +12,7 @@ For purposes of subsection (a) of this section, a corporation or other entity sh
 
 #### (c) Prospective application
 
-No person shall become ineligible under this section for production adjustment payments, price support program loans, payments or benefits as the result of the production of a crop of an agricultural commodity planted, or commodity program or conservation reserve contract entered into, before December 22, 1987.
+No person shall become ineligible under this section for production adjustment payments,price support program loans, payments or benefits as the result of the production of a crop of an agricultural commodity planted, or commodity program or conservation reserve contract entered into, before December 22, 1987.
 
 (Pub. L. 99–198, title X, §1001C, as added Pub. L. 100–203, title I, §1306, Dec. 22, 1987, 101 Stat. 1330–19; amended Pub. L. 101–624, title XI, §1111(b), Nov. 28, 1990, 104 Stat. 3498; Pub. L. 103–66, title I, §1101(b)(3)(B), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(c)(2), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, §1603(c)(3), May 13, 2002, 116 Stat. 215.)
 
@@ -36,7 +36,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 2002—Subsec. (a). Pub. L. 107–171 inserted “title I of the Farm Security and Rural Investment Act of 2002,” after “made available under”.
 
-1996—Subsec. (a). Pub. L. 104–127 substituted “Any person” for “For each of the 1991 through 1997 crops, any person”, substituted “loans or payments madeavailable under the Agricultural Market Transition Act,” for “production adjustment payments, price support program loans, payments, or benefits made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.),”, and struck out “during the 1989 through 1997 crop years” before “, with respect to any commodity produced”.
+1996—Subsec. (a). Pub. L. 104–127 substituted “Any person” for “For each of the 1991 through 1997 crops, any person”, substituted “loans or payments made available under the Agricultural Market Transition Act,” for “production adjustment payments, price support program loans, payments, or benefits made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.),”, and struck out “during the 1989 through 1997 crop years” before “, with respect to any commodity produced”.
 
 1993—Subsec. (a). Pub. L. 103–66 substituted “1997” for “1995” in two places.
 

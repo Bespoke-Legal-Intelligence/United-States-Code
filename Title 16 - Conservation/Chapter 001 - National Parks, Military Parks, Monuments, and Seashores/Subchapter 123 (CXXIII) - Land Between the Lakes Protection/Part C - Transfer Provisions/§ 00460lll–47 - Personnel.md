@@ -90,7 +90,7 @@ The Tennessee Valley Authority—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Eligible employees hired by the Forest Service shall become members of the Civil Service Retirement System (CSRS) Offset Plan and shall have the option to transfer into the Federal Employees Retirement System (FERS) within six months of their date of transfer. Such employees shall have the option at any time to receive credit in CSRS Offset or FERS for all of their TVA service in accordance with applicable procedures. Any deposits necessary to receive credit for such service shall be considered transfers to a qualified plan for purposes of favorable tax treatment of such amount under title 26.
+&emsp;&emsp;&emsp;Eligible employees hired by the Forest Service shall become members of the CivilService Retirement System (CSRS) Offset Plan and shall have the option to transfer into the Federal Employees Retirement System (FERS) within six months of their date of transfer. Such employees shall have the option at any time to receive credit in CSRS Offset or FERS for all of their TVA service in accordance with applicable procedures. Any deposits necessary to receive credit for such service shall be considered transfers to a qualified plan for purposes of favorable tax treatment of such amount under title 26.
 
 #### (ii) Funding shortfall
 

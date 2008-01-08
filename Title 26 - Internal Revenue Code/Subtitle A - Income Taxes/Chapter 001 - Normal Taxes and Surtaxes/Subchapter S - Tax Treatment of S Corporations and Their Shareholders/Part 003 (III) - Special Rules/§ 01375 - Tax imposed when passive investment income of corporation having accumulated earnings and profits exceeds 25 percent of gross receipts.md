@@ -8,7 +8,7 @@ If for the taxable year an S corporation has—
 
 &emsp;(2) gross receipts more than 25 percent of which are passive investment income,
 
-> then there is hereby imposed a tax on the income of such corporation for such taxable year. Such tax shall be computed by multiplying the excess net passive income by the highest rate of tax specified in section 11(b).
+> then there is hereby imposed a tax on the income of such corporation for such taxable year.Such tax shall be computed by multiplying the excess net passive income by the highest rate of tax specified in section 11(b).
 
 #### (b) Definitions
 
@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (B) Limitation
 
-&emsp;&emsp;The amount of the excess net passive income for any taxable year shall not exceedthe amount of the corporation's taxable income for such taxable year as determined under section 63(a)—
+&emsp;&emsp;The amount of the excess net passive income for any taxable year shall not exceed the amount of the corporation's taxable income for such taxable year as determined under section 63(a)—
 
 &emsp;&emsp;&emsp;(i) without regard to the deductions allowed by part VIII of subchapter B (other than the deduction allowed by section 248, relating to organization expenditures), and
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -118,5 +118,5 @@ Amendment by section 721(v) of Pub. L. 98–369 effective as if included in the 
 
 #### Effective Date
 
-This section applicable to taxable years beginning after Dec. 31, 1982, except that in the case of a taxableyear beginning during 1982, this section and sections 1362(d)(3) and 1366(f)(3) of this title shall apply, and section 1372(e)(5) of this title as in effect on the day before Oct. 19, 1982, shall not apply, see section 6(a), (b)(3) of Pub. L. 97–354, set out as a note under section 1361 of this title.
+This section applicable to taxable years beginning after Dec. 31, 1982, except that in the case of a taxable year beginning during 1982, this section and sections 1362(d)(3) and 1366(f)(3) of this title shall apply, and section 1372(e)(5) of this title as in effect on the day before Oct. 19, 1982, shall not apply, see section 6(a), (b)(3) of Pub. L. 97–354, set out as a note under section 1361 of this title.
 

@@ -30,7 +30,7 @@ Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this sub
 
 (2) A person domiciled in a country contiguous to the United States and providing transportation to which a minimum level of financial responsibility under this section applies shall have evidence of financial responsibility in the motor vehicle when the person is providing the transportation. If evidence of financial responsibility is not in the vehicle, the Secretary of Transportation and the Secretary of the Treasury shall deny entry of the vehicle into the United States.
 
-(3) A motor carrier may obtain the required amount of financial responsibility from more than one source provided the cumulative amount is equal to the minimum requirements of this section.
+(3) A motor carrier may obtain the required amount of financial responsibility from morethan one source provided the cumulative amount is equal to the minimum requirements of this section.
 
 (4)
 

@@ -6,7 +6,7 @@ There shall be assigned, from time to time, to the Comptroller of the Currency, 
 
 #### References in Text
 
-The bureau, referred to in text, is known as the Office of the Comptroller of the Currency.
+The bureau referred to in text is known as the Office of the Comptroller of the Currency.
 
 #### Codification
 

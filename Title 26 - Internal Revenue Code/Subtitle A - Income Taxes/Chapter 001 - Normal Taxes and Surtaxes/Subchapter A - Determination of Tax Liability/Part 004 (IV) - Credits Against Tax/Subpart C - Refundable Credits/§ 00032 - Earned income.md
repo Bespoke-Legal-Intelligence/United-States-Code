@@ -98,7 +98,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such individual's principal place of abode is in the United States for more than one-half of such taxable year,
 
-&emsp;&emsp;&emsp;&emsp;(II) such individual (or, if the individual is married, either the individual or the individual's spouse) has attained age 25 but not attained age 65 before the close of the taxable year, and
+&emsp;&emsp;&emsp;&emsp;(II) such individual (or, if the individual is married, either the individual orthe individual's spouse) has attained age 25 but not attained age 65 before the close of the taxable year, and
 
 &emsp;&emsp;&emsp;&emsp;(III) such individual is not a dependent for whom a deduction is allowable under section 151 to another taxpayer for any taxable year beginning in the same calendar year as such taxable year.
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (4) Treatment of military personnel stationed outside the United States
 
-&emsp;For purposes of paragraphs (1)(A)(ii)(I) and (3)(C), the principal place of abode of a member of the Armed Forces of the United States shall be treated as in the United States during any period during which such member is stationed outside the United States while serving on extended active duty with the Armed Forces of the United States. For purposes of the preceding sentence, the term “extended active duty” means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period.
+&emsp;For purposes of paragraphs (1)(A)(ii)(I) and (3)(C), the principal place of abode of a member of the Armed Forces of the United Statesshall be treated as in the United States during any period during which such member is stationed outside the United States while serving on extended active duty with the Armed Forces of the United States. For purposes of the preceding sentence, the term “extended active duty” means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period.
 
 #### (d) Married individuals
 
@@ -316,11 +316,11 @@ For purposes of—
 
 Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
 
-(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1),\(b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917; Pub. L. 107–16, title II, §201(c)(3), title III, §303(a)–(f), (h), June 7, 2001, 115 Stat. 47, 55–57; Pub. L. 107–147, title IV, §416(a)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title I, §104(b), title II, §205, Oct. 4, 2004, 118 Stat. 1169, 1176; Pub. L. 109–135, title III, §302(a), Dec. 21, 2005, 119 Stat. 2608; Pub. L. 109–432, div. A, title I, §106(a), Dec. 20, 2006, 120 Stat. 2938.)
+(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917; Pub. L. 107–16, title II, §201(c)(3), title III, §303(a)–(f), (h), June 7, 2001, 115 Stat. 47, 55–57; Pub. L. 107–147, title IV, §416(a)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title I, §104(b), title II, §205, Oct. 4, 2004, 118 Stat. 1169, 1176; Pub. L. 109–135, title III, §302(a), Dec. 21, 2005, 119 Stat. 2608; Pub. L. 109–432, div. A, title I, §106(a), Dec. 20, 2006, 120 Stat. 2938.)
 
-#### Earned Income Taxable Credit Adjustment for Taxable Years Beginning in 2007
+#### Earned Income Taxable Credit Adjustment for Taxable Years Beginning in 2008
 
-<i>For adjustment of earned income tax credit under this section for taxable years beginning in 2007, see section 3.07 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of earned income tax credit under this section for taxable years beginning in 2008, see section 3.07 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -334,7 +334,7 @@ The Social Security Act, referred to in subsecs. (c)(2)(B)(v) and (m), is act Au
 
 The date of the enactment of this clause, referred to in subsec. (c)(2)(B)(vi)(I), is the date of enactment of Pub. L. 108–311, which was approved Oct. 4, 2004.
 
-The United States Housing Act of 1937, referred to in subsec. (<i>l</i>)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (<i>l</i>)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to theCode, see Short Title note under section 1437 of Title 42 and Tables.
 
 The Housing Act of 1949, referred to in subsec. (<i>l</i>)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
@@ -518,7 +518,7 @@ Subsec. (c)(3)(D)(i). Pub. L. 103–465, §742(a), amended heading and text of c
 
 Subsec. (c)(4). Pub. L. 103–465, §721(a), added par. (4).
 
-1993—Subsec. (a). Pub. L. 103–66, §13131(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the sum of—
+1993—Subsec. (a). Pub. L. 103–66, §13131(a), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: “In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the sum of—
 
 &emsp;“(1) the basic earned income credit, and
 
@@ -702,7 +702,7 @@ Amendment by sections 6003(b) and 6010(p)(1), (2) of Pub. L. 105–206 effective
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 101(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 101(e) of Pub. L. 105–34, set out as an Effective Date note under section 24 of this title.
+Amendment by section 101(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, seesection 101(e) of Pub. L. 105–34, set out as an Effective Date note under section 24 of this title.
 
 Amendment by section 312(d)(2) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
@@ -778,7 +778,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by sections 104(b)(1)(B) and 111(a)–(d)(1) of Pub. L. 99–514 applicable to taxable years beginningafter Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by sections 104(b)(1)(B) and 111(a)–(d)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 1272(d)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
@@ -808,7 +808,7 @@ Section 201 of Pub. L. 96–222 provided that: “Except as otherwise provided i
 
 Section 104(f) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
 
-Section 105(g)(1) of Pub. L. 95–600 provided that: “The amendments made by subsections (a) and (d) \[amending this section and section 6012 of this title\] shall apply to taxable years beginning after December 31, 1978.”
+Section 105(g)(1) of Pub. L. 95–600 provided that: “The amendments made by subsections (a) and (d) \[amendingthis section and section 6012 of this title\] shall apply to taxable years beginning after December 31, 1978.”
 
 #### Effective Date of 1978 Amendment; Election of Prior Law
 

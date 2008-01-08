@@ -40,7 +40,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (C) Gross insurance income
 
-&emsp;&emsp;For purposes of subparagraphs (A) and (B), the term “gross insurance income” means any item of gross income taken into accountin determining insurance income under section 953.
+&emsp;&emsp;For purposes of subparagraphs (A) and (B), the term “gross insurance income” means any item of gross income taken into account in determining insurance income under section 953.
 
 #### (4) Exception for certain income subject to high foreign taxes
 
@@ -96,13 +96,19 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (F) Income from notional principal contracts
 
-&emsp;&emsp;Any item of income, gain, deduction, or loss from a notional principal contract entered into for purposes of hedging any item described in any preceding subparagraph shall not be taken into account for purposes of this subparagraph but shall be taken into account under such other subparagraph.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Net income from notional principal contracts.
+
+#### (ii) Coordination with other categories of foreign personal holding company income
+
+&emsp;&emsp;&emsp;Any item of income, gain, deduction, or loss from a notional principal contract entered into for purposes of hedging any item described in any preceding subparagraph shall not be taken into account for purposes of this subparagraph but shall be taken into account under such other subparagraph.
 
 #### (G) Payments in lieu of dividends
 
 &emsp;&emsp;Payments in lieu of dividends which are made pursuant to an agreement to which section 1058 applies.
 
-#### (I) <sup>3</sup> Personal service contracts
+#### (H) Personal service contracts
 
 &emsp;&emsp;(i) Amounts received under a contract under which the corporation is to furnish personal services if—
 
@@ -130,7 +136,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 &emsp;&emsp;&emsp;(i) any item of income, gain, deduction, or loss (other than any item described in subparagraph (A), (E), or (G) of paragraph (1)) from any transaction (including hedging transactions and transactions involving physical settlement) entered into in the ordinary course of such dealer's trade or business as such a dealer, and
 
-&emsp;&emsp;&emsp;(ii) if such dealer is a dealer in securities (within the meaning of section 475), any interest or dividend or equivalent amount described in subparagraph (E) or (G) of paragraph (1) from any transaction (including any hedging transaction or transaction described in section 956(c)(2)(J)) entered into in the ordinary course of such dealer's trade or business as such a dealer in securities, but only if the income from the transaction is attributable to activities of the dealer in the country under the laws of which the dealer is created or organized (or in the case of a qualified business unit described in section 989(a), is attributable to activities of the unit in the country in which the unit both maintains its principal office and conducts substantial business activity).
+&emsp;&emsp;&emsp;(ii) if such dealer is a dealer in securities (within the meaning of section 475), any interest or dividend or equivalent amount described in subparagraph (E) or (G) of paragraph (1) from any transaction (including any hedging transaction or transaction described in section 956(c)(2)(I)) entered into in the ordinary course of suchdealer's trade or business as such a dealer in securities, but only if the income from the transaction is attributable to activities of the dealer in the country under the laws of which the dealer is created or organized (or in the case of a qualified business unit described in section 989(a), is attributable to activities of the unit in the country in which the unit both maintains its principal office and conducts substantial business activity).
 
 #### (3) Certain income received from related persons
 
@@ -190,9 +196,13 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, dividends, interest, rents, and royalties received or accrued from a controlled foreign corporation which is a related person shall not be treated as foreign personal holding company income to the extent attributable or properly allocable (determined under rules similar to the rules of subparagraphs (C) and (D) of section 904(d)(3)) to income of the related person which is neither subpart F income nor income treated as effectively connected with the conduct of a trade or business in the United States. For purposes of this subparagraph, interest shall include factoring income which is treated as income equivalent to interest for purposes of paragraph (1)(E). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph, including such regulations as may be necessary or appropriate to prevent the abuse of the purposes of this paragraph.
+&emsp;&emsp;For purposes of this subsection, dividends, interest, rents, and royalties received or accrued from a controlled foreign corporationwhich is a related person shall not be treated as foreign personal holding company income to the extent attributable or properly allocable (determined under rules similar to the rules of subparagraphs (C) and (D) of section 904(d)(3)) to income of the related person which is neither subpart F income nor income treated as effectively connected with the conduct of a trade or business in the United States. For purposes of this subparagraph, interest shall include factoring income which is treated as income equivalent to interest for purposes of paragraph (1)(E). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph, including such regulations as may be necessary or appropriate to prevent the abuse of the purposes of this paragraph.
 
-#### (B) Application
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply in the case of any interest, rent, or royalty to the extent such interest, rent, or royalty creates (or increases) a deficit which under section 952(c) may reduce the subpart F income of the payor or another controlled foreign corporation.
+
+#### (C) Application
 
 &emsp;&emsp;Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005, and before January 1, 2009, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
 
@@ -416,7 +426,7 @@ For purposes of this section—
 
 #### (6) Coordination with exception for dealers
 
-&emsp;Paragraph (1) shall not apply to income described in subsection (c)(2)(C)(ii) of a dealer in securities (within the meaning of section 475) which is an eligible controlled foreign corporation described in paragraph (2)(B)(iii).
+&emsp;Paragraph (1) shall not apply to income described in subsection (c)(2)(C)(ii) of a dealer insecurities (within the meaning of section 475) which is an eligible controlled foreign corporation described in paragraph (2)(B)(iii).
 
 #### (7) Anti-abuse rules
 
@@ -456,7 +466,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) received from a person other than a related person (within the meaning of subsection (d)(3)) and derived from the investments made by a qualifying insurance company or a qualifying insurance company branch of its reserves allocable to exempt contracts or of 80 percent of its unearned premiums from exempt contracts (as both are determined in the manner prescribed under paragraph (4)), or
 
-&emsp;&emsp;(B) received from a person other than a related person (within the meaning of subsection (d)(3)) and derived from investments made by a qualifying insurance company ora qualifying insurance company branch of an amount of its assets allocable to exempt contracts equal to—
+&emsp;&emsp;(B) received from a person other than a related person (within the meaning of subsection (d)(3)) and derived from investments made by a qualifying insurance company or a qualifying insurance company branch of an amount of its assets allocable to exempt contracts equal to—
 
 &emsp;&emsp;&emsp;(i) in the case of property, casualty, or health insurance contracts, one-third of its premiums earned on such insurance contracts during the taxable year (as defined in section 832(b)(4)), and
 
@@ -516,7 +526,7 @@ For purposes of this section—
 
 &emsp;For purposes of this subsection, any term used in this subsection which is also used in section 953(e) shall have the meaning given such term by section 953.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII,§7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61; Pub. L. 108–357, title IV, §§412(a), 413(b)(2), 414(a)–(c), 415(a), (b), (c)(2), 416(a), Oct. 22, 2004, 118 Stat. 1505, 1506, 1510, 1511; Pub. L. 109–135, title IV, §§403(m), 412(<i>ll</i>), (mm), Dec. 21, 2005, 119 Stat. 2626, 2639; Pub. L. 109–222, title I, §103(a)(2), (b)(1), May 17, 2006, 120 Stat. 346; Pub. L. 109–432, div. A, title IV, §426(a)(1), Dec. 20, 2006, 120 Stat. 2974.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61; Pub. L. 108–357, title IV, §§412(a), 413(b)(2), 414(a)–(c), 415(a), (b), (c)(2), 416(a), Oct. 22, 2004, 118 Stat. 1505, 1506, 1510, 1511; Pub. L. 109–135, title IV, §§403(m), 412(<i>ll</i>), (mm), Dec. 21, 2005, 119 Stat. 2626, 2639; Pub. L. 109–222, title I, §103(a)(2), (b)(1), May 17, 2006, 120 Stat. 346; Pub. L. 109–432, div. A, title IV, §426(a)(1), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 110–172, §§4(a), 11(a)(19), (20), (g)(15)(B), Dec. 29, 2007, 121 Stat. 2475, 2486, 2491.)
 
 #### References in Text
 
@@ -524,9 +534,17 @@ Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in
 
 #### Amendments
 
+2007—Subsec. (c)(1)(F). Pub. L. 110–172, §11(a)(19), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any item of income, gain, deduction, or loss from a notional principal contract entered into for purposes of hedging any item described in any preceding subparagraph shall not be taken into account for purposes of this subparagraph but shall be taken into account under such other subparagraph.”
+
+Subsec. (c)(1)(H), (I). Pub. L. 110–172, §11(a)(20), redesignated subpar. (I) as (H).
+
+Subsec. (c)(2)(C)(ii). Pub. L. 110–172, §11(g)(15)(B), substituted “section 956(c)(2)(I)” for “section 956(c)(2)(J)”.
+
+Subsec. (c)(6)(B), (C). Pub. L. 110–172, §4(a), added subpar. (B) and redesignated former subpar. (B) as (C).
+
 2006—Subsec. (c)(6). Pub. L. 109–222, §103(b)(1), added par.(6).
 
-Subsec. (c)(6)(A). Pub. L. 109–432, in first sentence, substituted “which is neither subpart F income nor income treated as effectively connected with the conduct of a trade or business in the United States” for “which is not subpart F income” and, in last sentence, substituted “The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph, including such regulations as may be necessary or appropriate to prevent the abuse of the purposes of this paragraph” for “The Secretary shall prescribe such regulations as may be appropriate to prevent the abuse of the purposes of this paragraph”.
+Subsec. (c)(6)(A). Pub. L. 109–432, in first sentence, substituted “which is neither subpart F income nor income treated as effectively connected with the conduct of a trade or business in the United States” for “which is not subpart F income” and, in last sentence, substituted “The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph, including such regulations as may be necessary or appropriate to prevent the abuse of thepurposes of this paragraph” for “The Secretary shall prescribe such regulations as may be appropriate to prevent the abuse of the purposes of this paragraph”.
 
 Subsec. (h)(9). Pub. L. 109–222, §103(a)(2), substituted “January 1, 2009” for “January 1, 2007”.
 
@@ -584,7 +602,7 @@ Subsec. (e)(2). Pub. L. 105–277, §1005(d), inserted “or” at end of subpar
 
 Subsec. (e)(2)(C). Pub. L. 105–277, §4003(j), substituted “(h)(9)” for “(h)(8)”.
 
-Pub. L. 105–277, §1005(d), struck out subpar. (C) which read as follows: “in the case of taxable years described in subsection (h)(9), the active conduct by a controlled foreign corporation of a banking, financing, insurance,or similar business, but only if the corporation is predominantly engaged in the active conduct of such business (within the meaning of subsection (h)(3)) or is a qualifying insurance company.”
+Pub. L. 105–277, §1005(d), struck out subpar. (C) which read as follows: “in the case of taxable years described in subsection (h)(9), the active conduct by a controlled foreign corporation of a banking, financing, insurance, or similar business, but only if the corporation is predominantly engaged in the active conduct of such business (within the meaning of subsection (h)(3)) or is a qualifying insurance company.”
 
 Subsec. (h). Pub. L. 105–277, §1005(a), amended heading and text of subsec. (h) generally. Prior to amendment, text consisted of pars. (1) to (9) relating to special rule for income derived in active conduct of banking, financing, or similar businesses, principles for determining applicable income, meaning of “predominantly engaged” for purposes of the special rule, methods of determining unearned premiums and reserves, definitions of certain terms for purposes of subsec. (h), anti-abuse rules, coordination with section 953 of this title, and taxable year applicability of subsec. (h).
 
@@ -608,7 +626,7 @@ Subsec. (c)(3)(C). Pub. L. 103–66, §13233(a)(1), added subpar. (C).
 
 Subsec. (d)(4). Pub. L. 103–66, §13239(d), added par. (4).
 
-Subsec. (f). Pub. L. 103–66, §13235(b), inserted at end of concluding provisions “Except as provided in paragraph (1), such term shall not include any dividend or interest income which is foreign personal holding company income (as defined in subsection (c)).”
+Subsec. (f). Pub. L. 103–66, §13235(b), inserted at end of concluding provisions “Except as provided in paragraph\(1), such term shall not include any dividend or interest income which is foreign personal holding company income (as defined in subsection (c)).”
 
 Subsec. (g)(1). Pub. L. 103–66, §13235(a)(3)(A), inserted at end “Such term shall not include any foreign personal holding company income (as defined in subsection (c)).”
 
@@ -716,6 +734,10 @@ Subsecs. (f), (g). Pub. L. 94–12, §602(c)(2), (d)(1)(G), added subsecs. (f) a
 
 1969—Subsec. (b)(4). Pub. L. 91–172 inserted reference to a foreign corporation which is an acquired corporation, and made the effecting of a transaction giving rise to foreign base income through the controlled foreign corporation subject to the Secretary's power to disallow inclusion of any item of such income where such inclusion will have one of the effects prescribed by this section.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by section 4(a) of Pub. L. 110–172 effective as if included in the provisions of the Tax Increase Prevention and Reconciliation Act of 2005, Pub. L. 109–222, to which such amendment relates, with certain exceptions, see section 4(d) of Pub. L. 110–172, set out as a note under section 355 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–432, div. A, title IV, §426(a)(2), Dec. 20, 2006, 120 Stat. 2974, provided that: “The amendments made by this subsection \[amending this section\] shall take effect as if included in section 103(b) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
@@ -724,7 +746,7 @@ Pub. L. 109–222, title I, §103(b)(2), May 17, 2006, 120 Stat. 347, provided t
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 403(m) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which suchamendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendment by section 403(m) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -826,7 +848,7 @@ Phase-in percentage.—For purposes of subparagraph (A):
 | :--- | ---: |
 | &nbsp;<b>“In the case of taxable</b> | <b>The phase-in</b> |
 | &nbsp;&nbsp;<b>years beginning in:</b> | <b>percentage is:</b> |
-| 1987 | 75   |
+| 1987 | 75&nbsp;&nbsp; |
 | 1988 | 50&nbsp;&nbsp; |
 | 1989 | 25\. |
 
@@ -840,7 +862,7 @@ Qualified controlled foreign insurer.—For purposes of this paragraph, the term
 
 &emsp;“(D)
 
-Qualified reinsurance income.—For purposes of this paragraph, the term ‘qualified reinsurance income’ means any insurance income attributable to risks (other than risks described in section 953(a) or 954(e) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) assumed under a reinsurance contract. For purposes of this subparagraph, insurance income shall mean the underwriting income (as defined in section 832(b)(3) of such Code) and investment income derived from an amount of assets (to be segregated and separately identified) equivalent to the ordinary and necessary insurance reserves and necessary surplus equal to 1/3 of earned premium attributable to such contracts. For purposes of this paragraph, the amount of qualified reinsurance income shall not exceed the amount of insurance income from reinsurance contracts for calendar year 1985. In the case of controlled foreign corporations described in subparagraph (C)(ii), the preceding sentence shall not apply and the qualified reinsurance income of any such corporation shall not exceed such corporation's proportionate share of $27,000,000 (determined on the basis of respective amounts of qualified reinsurance income determined without regard to this subparagraph).”
+Qualified reinsurance income.—For purposes of this paragraph, the term ‘qualified reinsurance income’ means any insurance income attributable to risks (other than risks described in section 953(a) or 954(e) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) assumed under a reinsurance contract. For purposes of this subparagraph, insurance income shall mean the underwriting income (as defined in section 832(b)(3) of such Code) and investment income derived from an amount of assets (to be segregated and separately identified) equivalent to the ordinary and necessary insurance reserves and necessary surplus equal to 1/3 of earned premium attributable to such contracts. For purposes of this paragraph, the amount of qualified reinsurance income shall not exceed the amount of insurance income from reinsurance contracts forcalendar year 1985. In the case of controlled foreign corporations described in subparagraph (C)(ii), the preceding sentence shall not apply and the qualified reinsurance income of any such corporation shall not exceed such corporation's proportionate share of $27,000,000 (determined on the basis of respective amounts of qualified reinsurance income determined without regard to this subparagraph).”
 
 Amendment by section 1223(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1223(c) of Pub. L. 99–514, set out as a note under section 864 of this title.
 
@@ -901,6 +923,4 @@ Effective Date.—The amendment made by this section shall apply to dividends re
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>3</sup></i><i> So in original. No subpar. (H) has been enacted.</i>
 

@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—GENERAL
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 110–53 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -10,7 +12,7 @@
 - [&sect; 20103 - General authority](%C2%A7%2020103%20-%20General%20authority.md)
 - [&sect; 20104 - Emergency authority](%C2%A7%2020104%20-%20Emergency%20authority.md)
 - [&sect; 20105 - State participation](%C2%A7%2020105%20-%20State%20participation.md)
-- [&sect; 20106 - National uniformity of regulation](%C2%A7%2020106%20-%20National%20uniformity%20of%20regulation.md)
+- [&sect; 20106 - Preemption](%C2%A7%2020106%20-%20Preemption.md)
 - [&sect; 20107 - Inspection and investigation](%C2%A7%2020107%20-%20Inspection%20and%20investigation.md)
 - [&sect; 20108 - Research, development, testing, and training](%C2%A7%2020108%20-%20Research%2C%20development%2C%20testing%2C%20and%20training.md)
 - [&sect; 20109 - Employee protections](%C2%A7%2020109%20-%20Employee%20protections.md)

@@ -2,7 +2,7 @@
 
 #### (a) Currencies received in payment for nonmilitary assistance; foreign obligations
 
-Except as otherwise provided in this chapter or other Acts, foreign currencies received either (1) as a result of the furnishing of nonmilitary assistance under the Mutual Security Act of 1954, as amended, or any Act repealed thereby, and unobligated on September 3, 1961, or (2) on or after September 4, 1961, as a result of the furnishing of nonmilitary assistance under the Mutual Security Act of 1954, as amended, or any Act repealed thereby, or (3) as a result of the furnishing of assistance under subchapter I of this chapter, which are in excess of amounts reserved under authority of section 2455(d) of this title or any other Act relating to educational and cultural exchanges, may be sold by the Secretary of the Treasury to agencies of the United States Government for payment of their obligations outside the United States, and the United States dollars received as reimbursement shall be deposited into miscellaneous receipts of theTreasury. Foreign currencies so received which are in excess of the amounts so reserved and of the requirements of the United States Government in payment of its obligations outside the United States, as such requirements may be determined from time to time by the President, shall be available for the authorized purposes of subchapter I of this chapter in such amounts as may be specified from time to time in appropriation Acts.
+Except as otherwise provided in this chapter or other Acts, foreign currencies received either (1) as a result of the furnishing of nonmilitary assistance under the Mutual Security Act of 1954, as amended, or any Act repealed thereby, and unobligated on September 3, 1961, or (2) on or after September 4, 1961, as a result of the furnishing of nonmilitary assistance under the Mutual Security Act of 1954, as amended, or any Act repealed thereby, or (3) as a result of the furnishing of assistance under subchapter I of this chapter, which are in excess of amounts reserved under authority of section 2455(d) of this title or any other Act relating to educational and cultural exchanges, may be sold by the Secretary of the Treasury to agencies of the United States Government for payment of their obligations outside the United States, and the United States dollars received as reimbursement shall be deposited into miscellaneous receipts of the Treasury. Foreign currencies so received which are in excess of the amounts so reserved and of the requirements of the United States Government in payment of its obligations outside the United States, as such requirements may be determined from time to time by the President, shall be available for the authorized purposes of subchapter I of this chapter in such amounts as may be specified from time to time in appropriation Acts.
 
 #### (b) United States operations abroad; excess foreign currencies
 
@@ -18,7 +18,7 @@ In addition to funds otherwise available, excess foreign currencies, as defined 
 
 #### (d) Reciprocal release of dollar value equivalents
 
-In furnishing assistance under this chapter to the government of any country in which the United States owns excess foreign currencies as defined in subsection (b) of this section, except those currencies generated under the Agricultural Trade Development and Assistance Act of 1954, as amended \[7 U.S.C. 1691 et seq.\], the President shall endeavor to obtain from the recipient country an agreement for the release, on such terms and conditions as the President shall determine, of an amount of such currencies up to the equivalent of the dollar value of assistance furnished by the United States for programs as may be mutually agreed upon by the recipient country and the United States to carry out the purposes for which new funds authorized by this chapter would themselves be available.
+In furnishing assistance under this chapter to the government of any country in which the United States owns excess foreign currencies as defined in subsection (b) of this section, except those currencies generated under the Agricultural Trade Development and Assistance Act of 1954, as amended \[7 U.S.C. 1691 et seq.\], the President shall endeavor to obtain from the recipient country an agreement for the release, on such terms and conditions as the President shall determine, of an amount of such currencies up to the equivalent of the dollar value of assistance furnished by the United States for programs as may be mutually agreed upon by the recipient country and the United States to carryout the purposes for which new funds authorized by this chapter would themselves be available.
 
 (Pub. L. 87–195, pt. III, §612, Sept. 4, 1961, 75 Stat. 443; Pub. L. 88–205, pt. III, §301(d), Dec. 16, 1963, 77 Stat. 385; Pub. L. 88–633, pt. III, §301(c), Oct. 7, 1964, 78 Stat. 1012; Pub. L. 88–638, §2(1), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–171, pt. III, §301(b), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(e), Sept. 19, 1966, 80 Stat. 805; Pub. L. 91–175, pt. III, §302, Dec. 30, 1969, 83 Stat. 820.)
 
@@ -54,63 +54,69 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Separate Accounts for Local Currencies and Cash Transfers
 
-Pub. L. 109–102, title V, §529, Nov. 14, 2005, 119 Stat. 2206, provided that:
+Pub. L. 110–161, div. J, title VI, §628, Dec. 26, 2007, 121 Stat. 2325, provided that:
 
 “(a)
 
-Separate Accounts for Local Currencies.—(1) If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development shall—
+Separate Accounts for Local Currencies.—
 
-&emsp;“(A) require that local currencies be deposited in a separate account established by that government;
+&emsp;“(1) If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development shall—
 
-&emsp;“(B) enter into an agreement with that government which sets forth—
+&emsp;&emsp;“(A) require that local currencies be deposited in a separate account established by that government;
 
-&emsp;&emsp;“(i) the amount of the local currencies to be generated; and
+&emsp;&emsp;“(B) enter into an agreement with that government which sets forth—
 
-&emsp;&emsp;“(ii) the terms and conditions under which the currencies so deposited may be utilized, consistent with this section; and
+&emsp;&emsp;&emsp;“(i) the amount of the local currencies to be generated; and
 
-&emsp;“(C) establish by agreement with that government the responsibilities of the United States Agency for International Development and that government to monitor and account for deposits into and disbursements from the separate account.
+&emsp;&emsp;&emsp;“(ii) the terms and conditions under which the currencies so deposited may be utilized, consistent with this section; and
 
-“(2)
+&emsp;&emsp;“(C) establish by agreement with that government the responsibilities of the United States Agency for International Development and that government to monitor and account for deposits into and disbursements from the separate account.
+
+&emsp;“(2)
 
 Uses of local currencies.—As may be agreed upon with the foreign government, local currencies deposited in a separate account pursuant to subsection (a), or an equivalent amount of local currencies, shall be used only—
 
-&emsp;“(A) to carry out chapter 1 or 10 of part I or chapter 4 of part II (as the case may be), for such purposes as—
+&emsp;&emsp;“(A) to carry out chapter 1 or 10 of part I or chapter 4 of part II (as the case may be), for such purposes as—
 
-&emsp;&emsp;“(i) project and sector assistance activities; or
+&emsp;&emsp;&emsp;“(i) project and sector assistance activities; or
 
-&emsp;&emsp;“(ii) debt and deficit financing; or
+&emsp;&emsp;&emsp;“(ii) debt and deficit financing; or
 
-&emsp;“(B) for the administrative requirements of the United States Government.
+&emsp;&emsp;“(B) for the administrative requirements of the United States Government.
 
-“(3)
+&emsp;“(3)
 
 Programming accountability.—The United States Agency for International Development shall take all necessary steps to ensure that the equivalent of the local currencies disbursed pursuant to subsection (a)(2)(A) from the separate account established pursuant to subsection (a)(1) are used for the purposes agreed upon pursuant to subsection (a)(2).
 
-“(4)
+&emsp;“(4)
 
 Termination of assistance programs.—Upon termination of assistance to a country under chapter 1 or 10 of part I or chapter 4 of part II (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government.
 
-“(5)
+&emsp;“(5)
 
 Reporting requirement.—The Administrator of the United States Agency for International Development shall report on an annual basis as part of the justification documents submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used and/or to be used for such purpose in each applicable country.
 
 “(b)
 
-Separate Accounts for Cash Transfers.—(1) If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle them with any other funds.
+Separate Accounts for Cash Transfers.—
 
-“(2)
+&emsp;“(1) If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle them with any other funds.
 
-Applicability of other provisions of law.—Such funds may be obligated and expended notwithstanding provisions of law which are inconsistent with the nature of this assistance including provisions which are referenced in the Joint Explanatory Statement of the Committee of Conference accompanying House Joint Resolution 648 (House Report No. 98–1159).
+&emsp;“(2)
 
-“(3)
+Applicability of other provisions of law.—Such funds may be obligated and expended notwithstanding provisions of law which are inconsistentwith the nature of this assistance including provisions which are referenced in the Joint Explanatory Statement of the Committee of Conference accompanying House Joint Resolution 648 (House Report No. 98–1159).
+
+&emsp;“(3)
 
 Notification.—At least 15 days prior to obligating any such cash transfer or nonproject sector assistance, the President shall submit a notification through the regular notification procedures of the Committees on Appropriations, which shall include a detailed description of how the funds proposed to be made available will be used, with a discussion of the United States interests that will be served by the assistance (including, as appropriate, a description of the economic policy reforms that will be promoted by such assistance).
 
-“(4)
+&emsp;“(4)
 
 Exemption.—Nonproject sector assistance funds may be exempt from the requirements of subsection (b)(1) only through the notification procedures of the Committees on Appropriations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–102, title V, §529, Nov. 14, 2005, 119 Stat. 2206.
 
 Pub. L. 108–447, div. D, title V, §529, Dec. 8, 2004, 118 Stat. 3003.
 

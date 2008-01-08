@@ -36,7 +36,7 @@ Except as provided in subsection (e) of this section, the Secretary shall annual
 
 #### (e) Quarterly reports for fiscal year 1989
 
-For fiscal year 1989, the report required in subsection (d) of this section shall, not less thanquarterly, be prepared and submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
+For fiscal year 1989, the report required in subsection (d) of this section shall, not less than quarterly, be prepared and submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
 (July 1, 1944, ch. 373, title XXIII, §2302, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3063.)
 
@@ -126,7 +126,7 @@ Ex. Ord. No. 12963, June 14, 1995, 60 F.R. 31905, as amended by Ex. Ord. No. 130
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the Secretary of Health and Human Services to exercise her discretion as follows:
 
-Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (the “Secretary”) shall establish an HIV/AIDS Advisory Council (the “Advisory Council”or the “Council”), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (the “Secretary”) shall establish an HIV/AIDS Advisory Council (the “Advisory Council” or the “Council”), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
 
 (b) The Secretary shall designate a Chairperson from among the members of the Advisory Council.
 

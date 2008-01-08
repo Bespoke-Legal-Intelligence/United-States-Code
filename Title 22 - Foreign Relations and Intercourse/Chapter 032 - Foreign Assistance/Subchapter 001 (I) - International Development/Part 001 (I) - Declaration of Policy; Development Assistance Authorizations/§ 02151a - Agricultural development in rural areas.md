@@ -2,7 +2,7 @@
 
 #### (a) Authorization to President to furnish assistance; appropriations
 
-(1) In recognition of the fact that the great majority of the people of developing countries live in rural areas and are dependent on agriculture and agricultural-related pursuits for their livelihood, the President is authorized to furnish assistance, on such terms and conditions as he may determine, for agriculture, rural development, and nutrition—
+(1) In recognition of the fact that the great majority of the people of developing countries live in rural areas and are dependent on agriculture and agricultural-related pursuits fortheir livelihood, the President is authorized to furnish assistance, on such terms and conditions as he may determine, for agriculture, rural development, and nutrition—
 
 &emsp;(A) to alleviate starvation, hunger, and malnutrition;
 

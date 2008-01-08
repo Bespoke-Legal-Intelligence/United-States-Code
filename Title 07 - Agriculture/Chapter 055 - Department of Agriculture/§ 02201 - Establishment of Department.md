@@ -62,7 +62,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 
 “(k) The functions of the Secretary of the Interior under section 10 of the Act of March 1, 1911 (36 Stat. 962; 16 U.S.C. 519), with respect to sales of small tracts of acquired national forest lands found chiefly valuable for agriculture.
 
-“(<i>l</i>) The functions of the Secretary of the Interior under section 402 of Reorganization Plan Numbered 3 of1946 (60 Stat. 1099), section 3 of the Act of September 1, 1949 (63 Stat. 683; 30 U.S.C. 192c), the Act of June 30, 1950 (64 Stat. 311; 16 U.S.C. 508b), section 3 of the Act of June 28, 1952 (66 Stat. 285), or otherwise, with respect to the use and disposal from lands under the jurisdiction of the Secretary of Agriculture of those mineral materials which the Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under the Act of July 31, 1947 (61 Stat. 681), as amended by the Act of July 23, 1955 (69 Stat. 367; 30 U.S.C. 601 and the following).
+“(<i>l</i>) The functions of the Secretary of the Interior under section 402 of Reorganization Plan Numbered 3 of 1946 (60 Stat. 1099), section 3 of the Act of September 1, 1949 (63 Stat. 683; 30 U.S.C. 192c), the Act of June 30, 1950 (64 Stat. 311; 16 U.S.C. 508b), section 3 of the Act of June 28, 1952 (66 Stat. 285), or otherwise, with respect to the use and disposal from lands under the jurisdiction of the Secretary of Agriculture of those mineral materials which the Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under the Act of July 31, 1947 (61 Stat. 681), as amended by the Act of July 23, 1955 (69 Stat. 367; 30 U.S.C. 601 and the following).
 
 “
 
@@ -72,7 +72,7 @@ Sec. 2(a). In no case covered by subsections (a), (b), (e), (g), and (h) of sect
 
 “(c) Nothing in subsection (1) of section 1 hereof shall be construed to authorize the Secretary of Agriculture to dispose of coal, phosphate, sodium, potassium, oil, oil shale, gas, or sulfur, or to dispose of any minerals which would be subject to disposal under the mining laws if said laws were applicable to the lands in which the minerals are situated.
 
-“(d) Upon approval by the Secretary of Agriculture pursuant to the provisions of this Act of any exchange or sale, respectively, of national forest lands under the provisions of law referred to in subsections (a), (b), (e), (f), (g), and (j) of section 1, hereof, the Secretary of the Interior, upon the recommendation of the Secretary of Agriculture, shall issue the patent therefor.
+“(d) Upon approval by the Secretary of Agriculture pursuant to the provisions of this Act of any exchangeor sale, respectively, of national forest lands under the provisions of law referred to in subsections (a), (b), (e), (f), (g), and (j) of section 1, hereof, the Secretary of the Interior, upon the recommendation of the Secretary of Agriculture, shall issue the patent therefor.
 
 “(e) All conveyances under the Act referred to in subsection (h) of section 1 hereof of national forest lands reserved from the public domain shall, upon recommendation of the Secretary of Agriculture, be made by the Secretary of the Interior.”
 

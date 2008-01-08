@@ -8,7 +8,7 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 #### (1) In general
 
-&emsp;A State may develop and submit to the appropriate Secretaries a State unified plan for 2 or more of the activities or programs set forth in paragraph (2), except that the State may include in the plan the activities described in paragraph (2)(A) only with the prior approval of the legislature of the State. The State unified plan shall cover one or more of the activities set forth in subparagraphs (A) through (D) of paragraph (2) and may cover one or more of the activities set forth in subparagraphs (E) through (O) of paragraph (2). For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.
+&emsp;A State may develop and submit to the appropriate Secretaries a State unified plan for 2 or more of the activities or programs set forth in paragraph (2), except that the Statemay include in the plan the activities described in paragraph (2)(A) only with the prior approval of the legislature of the State. The State unified plan shall cover one or more of the activities set forth in subparagraphs (A) through (D) of paragraph (2) and may cover one or more of the activities set forth in subparagraphs (E) through (O) of paragraph (2). For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.
 
 #### (2) Activities
 
@@ -72,13 +72,13 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 #### (A) In general
 
-&emsp;&emsp;A portion of the State unified plan covering an activity or program described in subsection (b) of this section that is submitted to the appropriate Secretary under this section shall be considered to be approved by the appropriate Secretary at the end of the 90-day period beginning on the day the appropriate Secretary receives the portion, unless the appropriate Secretary makes a written determination, during the 90-day period, that the portion is not consistent with the requirements of the Federal statute authorizing the activity or program including the criteria for approval of a plan or application,if any, under such statute or the plan is not consistent with the requirements of subsection (c)(3) of this section.
+&emsp;&emsp;A portion of the State unified plan covering an activity or program described in subsection (b) of this section that is submitted to the appropriate Secretary under this section shall be considered to be approved by the appropriate Secretary at the end of the 90-day period beginning on the day the appropriate Secretary receives the portion, unless the appropriate Secretary makes a written determination, during the 90-day period, that the portion is not consistent with the requirements of the Federal statute authorizing the activity or program including the criteria for approval of a plan or application, if any, under such statute or the plan is not consistent with the requirements of subsection (c)(3) of this section.
 
 #### (B) Special rule
 
 &emsp;&emsp;In subparagraph (A), the term “criteria for approval of a State plan”, relating to activities carried out under title I \[29 U.S.C. 2801 et seq.\] or II \[20 U.S.C. 9201 et seq.\] or under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), includes a requirement for agreement between the State and the appropriate Secretary regarding State performance measures, including levels of performance.
 
-(Pub. L. 105–220, title V, §501, Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 109–270, §2(h)(7)–(9), Aug. 12, 2006, 120 Stat. 748.)
+(Pub. L. 105–220, title V, §501, Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §401(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 109–270, §2(h)(7)–(9), Aug. 12, 2006, 120 Stat. 748.)
 
 #### References in Text
 

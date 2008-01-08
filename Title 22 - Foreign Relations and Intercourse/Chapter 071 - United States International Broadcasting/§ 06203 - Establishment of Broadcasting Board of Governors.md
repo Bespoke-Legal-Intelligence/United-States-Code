@@ -18,7 +18,7 @@
 
 #### (B) Respect for journalistic integrity of broadcasters
 
-&emsp;&emsp;The Inspector General shall respect the journalistic integrity of all the broadcasterscovered by this chapter and may not evaluate the philosophical or political perspectives reflected in the content of broadcasts.
+&emsp;&emsp;The Inspector General shall respect the journalistic integrity of all the broadcasters covered by this chapter and may not evaluate the philosophical or political perspectives reflected in the content of broadcasts.
 
 #### (b) Composition of Board
 
@@ -42,7 +42,7 @@ Members of the Board appointed by the President shall be citizens of the United 
 
 #### (e) Compensation
 
-Members of the Board, while attending meetings of the Board or while engaged in duties relating to such meetings or in other activities of the Board pursuant to this section (including travel time) shall be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level IV of the Executive Schedule under section 5315 of title 5. While away from their homes or regular places of business, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The Secretary of State shall not be entitled to any compensation under this chapter, but may be allowed travel expenses as provided under this subsection.
+Members of the Board, while attending meetings of the Board or while engaged in duties relating to such meetings or in other activities of the Board pursuant to this section (includingtravel time) shall be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level IV of the Executive Schedule under section 5315 of title 5. While away from their homes or regular places of business, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The Secretary of State shall not be entitled to any compensation under this chapter, but may be allowed travel expenses as provided under this subsection.
 
 #### (f) Decisions
 

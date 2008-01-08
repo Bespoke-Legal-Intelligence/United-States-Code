@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(J) The extent to which State and local fiscal accounting requirements under this subchapter affect the flexibility of schoolwide programs.
 
-&emsp;&emsp;(K) The implementation and impact of the professional development activities assistedunder this subchapter and subchapter II of this chapter on instruction, student academic achievement, and teacher qualifications.
+&emsp;&emsp;(K) The implementation and impact of the professional development activities assisted under this subchapter and subchapter II of this chapter on instruction, student academic achievement, and teacher qualifications.
 
 &emsp;&emsp;(L) The extent to which the assistance made available under this subchapter, including funds under section 6302 of this title, is targeted to disadvantaged students, schools, and local educational agencies with the greatest need.
 
@@ -211,4 +211,8 @@ A prior section 1501 of Pub. L. 89–10 was classified to section 2911 of this t
 #### Amendments
 
 2002—Subsec. (a)(3). Pub. L. 107–279 substituted “section 9622 of this title” for “section 9010 of this title”.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

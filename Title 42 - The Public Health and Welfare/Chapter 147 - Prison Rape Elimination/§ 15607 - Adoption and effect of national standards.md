@@ -8,7 +8,7 @@
 
 #### (2) Independent judgment
 
-&emsp;The standards referred to in paragraph (1) shall be based upon the independent judgmentof the Attorney General, after giving due consideration to the recommended national standards provided by the Commission under section 15606(e) of this title, and being informed by such data, opinions, and proposals that the Attorney General determines to be appropriate to consider.
+&emsp;The standards referred to in paragraph (1) shall be based upon the independent judgment of the Attorney General, after giving due consideration to the recommended national standards provided by the Commission under section 15606(e) of this title, and being informed by such data, opinions, and proposals that the Attorney General determines to be appropriate to consider.
 
 #### (3) Limitation
 
@@ -16,7 +16,7 @@
 
 #### (4) Transmission to States
 
-&emsp;Within 90 days of publishing the final rule under paragraph (1), the Attorney General shall transmit the national standards adopted under such paragraph to the chief executive of each State, the head of the department of corrections of each State, and to the appropriate authorities in those units of local government who oversee operations in one or more prisons.
+&emsp;Within 90 days of publishing the final rule under paragraph (1), the Attorney Generalshall transmit the national standards adopted under such paragraph to the chief executive of each State, the head of the department of corrections of each State, and to the appropriate authorities in those units of local government who oversee operations in one or more prisons.
 
 #### (b) Applicability to Federal Bureau of Prisons
 

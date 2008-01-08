@@ -2,7 +2,7 @@
 
 The Secretary of Education is charged with the supervision of public business relating to Gallaudet University.
 
-(R.S. §441; Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422; 1940 Reorg. Plan No. IV, §11, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234; 1953 Reorg. Plan No. 1, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; June 18, 1954, ch. 324, §1, 68 Stat. 265; Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(2)(M), title V, §507, 93Stat. 677, 692; Aug. 4, 1986, Pub. L. 99–371, title I, §101(a), 100 Stat. 781.)
+(R.S. §441; Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422; 1940 Reorg. Plan No. IV, §11, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234; 1953 Reorg. Plan No. 1, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; June 18, 1954, ch. 324, §1, 68 Stat. 265; Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(2)(M), title V, §507, 93 Stat. 677, 692; Aug. 4, 1986, Pub. L. 99–371, title I, §101(a), 100 Stat. 781.)
 
 #### Codification
 

@@ -34,7 +34,7 @@ The following consumer products, excluding those consumer products designed sole
 
 &emsp;(13) Fluorescent lamp ballasts.
 
-&emsp;(14) General service fluorescent lamps and incandescent reflector lamps.
+&emsp;(14) General service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps.
 
 &emsp;(15) Showerheads, except safety shower showerheads.
 
@@ -44,7 +44,9 @@ The following consumer products, excluding those consumer products designed sole
 
 &emsp;(18) Urinals.
 
-&emsp;(19) Any other type of consumer product which the Secretary classifies as a covered product under subsection (b) of this section.
+&emsp;(19) Metal halide lamp fixtures.
+
+&emsp;(20) Any other type of consumer product which the Secretary classifies as a covered product under subsection (b) of this section.
 
 #### (b) Special classification of consumer product
 
@@ -62,13 +64,17 @@ The following consumer products, excluding those consumer products designed sole
 
 &emsp;(C) The term “household” shall be defined under rules of the Secretary.
 
-(Pub. L. 94–163, title III, §322, Dec. 22, 1975, 89 Stat. 918; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §§3, 11(b)(1), Mar. 17, 1987, 101 Stat. 105, 125; Pub. L. 100–357, §2(b), June 28, 1988, 102 Stat. 672; Pub. L. 102–486,title I, §123(c), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 105–388, §5(a)(3), Nov. 13, 1998, 112 Stat. 3478.)
+(Pub. L. 94–163, title III, §322, Dec. 22, 1975, 89 Stat. 918; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §§3, 11(b)(1), Mar. 17, 1987, 101 Stat. 105, 125; Pub. L. 100–357, §2(b), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(c), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 105–388, §5(a)(3), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 110–140, title III, §§321(a)(2), 324(b), Dec. 19, 2007, 121 Stat. 1577, 1593.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (a)(14). Pub. L. 110–140, §321(a)(2), inserted “, general service incandescent lamps,” after “fluorescent lamps”.
+
+Subsec. (a)(19), (20). Pub. L. 110–140, §324(b), added par. (19) and redesignated former par. (19) as (20).
 
 1998—Subsec. (b)(2)(A). Pub. L. 105–388 inserted closing quotation marks after “type of product”.
 
@@ -109,6 +115,10 @@ This chapter, referred to in subsec. (b)(1)(A), was in the original “this Act�
 Subsec. (b). Pub. L. 100–12, §11(b)(1), inserted heading.
 
 1978—Subsecs. (a)(14), (b)(1), (2)(C). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Energy Efficiency Labeling for Windows and Window Systems
 
@@ -200,7 +210,7 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 “(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those luminaires for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of luminaire (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
-“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
+“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for whichthe Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
 
 “(4) For purposes of section 327(a) of such Act, the term ‘this part’ includes this subsection to the extent necessary to carry out this subsection.”
 

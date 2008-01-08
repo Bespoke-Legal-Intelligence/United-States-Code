@@ -44,7 +44,7 @@ Period of Availability.—Notwithstanding section 118(b), funds made available t
 
 (f)
 
-Applicability.—All provisions of this chapter that are applicable to the National HighwaySystem, other than provisions relating to apportionment formula and Federal share, shall apply to funds made available to carry out this section, except as determined by the Secretary to be inconsistent with this section.
+Applicability.—All provisions of this chapter that are applicable to the National Highway System, other than provisions relating to apportionment formula and Federal share, shall apply to funds made available to carry out this section, except as determined by the Secretary to be inconsistent with this section.
 
 (Added Pub. L. 93–87, title I, §126(a), Aug. 13, 1973, 87 Stat. 263; amended Pub. L. 94–280, title I, §130, May 5, 1976, 90 Stat. 440; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §1801(a), Aug. 10, 2005, 119 Stat. 1455.)
 

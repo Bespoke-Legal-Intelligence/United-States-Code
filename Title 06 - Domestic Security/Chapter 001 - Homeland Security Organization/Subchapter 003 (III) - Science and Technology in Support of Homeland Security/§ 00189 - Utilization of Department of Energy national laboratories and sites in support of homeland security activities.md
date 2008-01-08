@@ -54,7 +54,7 @@ In connection with any utilization of the Department of Energy national laborato
 
 #### (e) Reimbursement of costs
 
-In the case of an activity carried out by the operator of a Department of Energy nationallaboratory or site in connection with any utilization of such laboratory or site under this section, the Department of Homeland Security shall reimburse the Department of Energy for costs of such activity through a method under which the Secretary of Energy waives any requirement for the Department of Homeland Security to pay administrative charges or personnel costs of the Department of Energy or its contractors in excess of the amount that the Secretary of Energy pays for an activity carried out by such contractor and paid for by the Department of Energy.
+In the case of an activity carried out by the operator of a Department of Energy national laboratory or site in connection with any utilization of such laboratory or site under this section, the Department of Homeland Security shall reimburse the Department of Energy for costs of such activity through a method under which the Secretary of Energy waives any requirement for the Department of Homeland Security to pay administrative charges or personnel costs of the Department of Energy or its contractors in excess of the amount that the Secretary of Energy pays for an activity carried out by such contractor and paid for by the Department of Energy.
 
 #### (f) Laboratory directed research and development by the Department of Energy
 
@@ -66,7 +66,7 @@ There is established within the Directorate of Science and Technology an Office 
 
 #### (h) Department of Energy coordination on homeland security related research
 
-The Secretary of Energy shall ensure that any research, development, test, and evaluation activities conducted within the Department of Energy that are directly or indirectly related to homeland security are fully coordinated with the Secretary to minimize duplication of effort and maximize the effective application of Federal budget resources.
+The Secretary of Energy shall ensure that any research, development, test, and evaluation activities conducted within the Department of Energy that are directly or indirectly related to homeland security are fully coordinated with the Secretary to minimize duplication of effortand maximize the effective application of Federal budget resources.
 
 (Pub. L. 107–296, title III, §309, Nov. 25, 2002, 116 Stat. 2172.)
 

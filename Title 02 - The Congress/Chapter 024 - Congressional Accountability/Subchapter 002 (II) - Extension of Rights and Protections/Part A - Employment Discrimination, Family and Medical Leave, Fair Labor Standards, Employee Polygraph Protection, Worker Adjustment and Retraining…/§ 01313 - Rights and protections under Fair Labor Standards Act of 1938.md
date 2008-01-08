@@ -8,7 +8,7 @@
 
 #### (2) Interns
 
-&emsp;For the purposes of this section, the term “covered employee” does not include an intern as defined in regulations under subsection (c) of this section.
+&emsp;For the purposes of this section, the term “covered employee” does not include an internas defined in regulations under subsection (c) of this section.
 
 #### (3) Compensatory time
 

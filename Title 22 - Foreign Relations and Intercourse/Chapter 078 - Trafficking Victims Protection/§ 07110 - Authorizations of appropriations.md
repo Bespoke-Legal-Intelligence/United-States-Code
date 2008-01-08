@@ -22,7 +22,7 @@ To carry out the purposes of section 7105(b) of this title, there are authorized
 
 #### (C) Prosecution and meeting minimum standards
 
-&emsp;&emsp;To carry out the purposes of section 2152d of this title, there are authorized to be appropriated $10,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007 to assist in promoting prosecution of traffickers and otherwise to assist countries in meeting theminimum standards described in section 7106 of this title, including $250,000 for each such fiscal year to carry out training activities for law enforcement officers, prosecutors, and members of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
+&emsp;&emsp;To carry out the purposes of section 2152d of this title, there are authorized to be appropriated $10,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007 to assist in promoting prosecution of traffickers and otherwise to assist countries in meeting the minimum standards described in section 7106 of this title, including $250,000 for each such fiscal year to carry out training activities for law enforcement officers, prosecutors, and members of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
 
 #### (2) Voluntary contributions to OSCE
 

@@ -8,7 +8,7 @@ General Rule.—Except as provided under subsection (b), a member of the armed f
 
 Exceptions.—The Secretary concerned may prohibit the wearing of an item of religious apparel—
 
-&emsp;(1) in circumstances with respect to which the Secretary determines that the wearing ofthe item would interfere with the performance of the member's military duties; or
+&emsp;(1) in circumstances with respect to which the Secretary determines that the wearing of the item would interfere with the performance of the member's military duties; or
 
 &emsp;(2) if the Secretary determines, under regulations under subsection (c), that the item of apparel is not neat and conservative.
 

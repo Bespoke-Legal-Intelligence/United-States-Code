@@ -20,7 +20,7 @@ Use of Noncompetitive Procedures for Certain Small Contracts.—For purposes of 
 
 (c)
 
-Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—For purposes of meeting the goals under subsection\(a), and in accordance with this section, a contracting officer of the Department may award a contract to a small business concern owned and controlled by veterans using procedures other than competitive procedures if—
+Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—For purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department may award a contract to a small business concern owned and controlled by veterans using procedures other than competitive procedures if—
 
 &emsp;(1) such concern is determined to be a responsible source with respect to performance of such contract opportunity;
 

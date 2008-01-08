@@ -1,0 +1,28 @@
+### §17354. Annual report
+
+#### (a) Report required
+
+Not later than March 31, 2008, and each March 31 thereafter, the Foundation shall submit to the appropriate congressional committees a report on the implementation of this part during the prior fiscal year.
+
+#### (b) Contents
+
+The report required by subsection (a) shall include—
+
+&emsp;(1) the total financial resources available to the Foundation during the year, including appropriated funds, the value and source of any gifts or donations accepted pursuant to section 17355(a)(6) of this title, and any other resources;
+
+&emsp;(2) a description of the Board's policy priorities for the year and the basis upon which competitive grant proposals were solicited and awarded to nongovernmental institutions and other organizations;
+
+&emsp;(3) a list of grants made to nongovernmental institutions and other organizations that includes the identity of the institutional recipient, the dollar amount, and the results of the program; and
+
+&emsp;(4) the total administrative and operating expenses of the Foundation for the year, as well as specific information on—
+
+&emsp;&emsp;(A) the number of Foundation employees and the cost of compensation for Board members, Foundation employees, and personal service contractors;
+
+&emsp;&emsp;(B) costs associated with securing the use of real property for carrying out the functions of the Foundation;
+
+&emsp;&emsp;(C) total travel expenses incurred by Board members and Foundation employees in connection with Foundation activities; and
+
+&emsp;&emsp;(D) total representational expenses.
+
+(Pub. L. 110–140, title IX, §924, Dec. 19, 2007, 121 Stat. 1736.)
+

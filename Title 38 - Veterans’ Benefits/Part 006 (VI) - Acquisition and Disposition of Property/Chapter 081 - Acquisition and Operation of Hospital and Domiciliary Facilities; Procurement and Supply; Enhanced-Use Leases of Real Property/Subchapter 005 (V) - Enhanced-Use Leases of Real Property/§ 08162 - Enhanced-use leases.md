@@ -24,7 +24,7 @@
 
 (2) The term of an enhanced-use lease may not exceed 75 years.
 
-(3)(A) Each enhanced-use lease shall be for fair consideration, as determined by the Secretary. Consideration under such a lease may be provided in whole or in part through consideration in-kind.
+(3)(A) Each enhanced-use lease shall be for fair consideration, as determined by the Secretary.Consideration under such a lease may be provided in whole or in part through consideration in-kind.
 
 (B) Consideration in-kind may include provision of goods or services of benefit to the Department, including construction, repair, remodeling, or other physical improvements of Department facilities, maintenance of Department facilities, or the provision of office, storage, or other usable space.
 
@@ -34,7 +34,7 @@
 
 &emsp;(B) use minor construction funds for capital contribution payments.
 
-(c)(1) Subject to paragraph (2), the entering into an enhanced-use lease covering any land or improvement described in section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) shall be considered to be prohibited by that section unless specifically authorized by law.
+(c)(1) Subject to paragraph (2), the entering into an enhanced-use lease covering any land or improvement described in section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008 shall be considered to be prohibited by such sections unless specifically authorized by law.
 
 (2) The entering into an enhanced-use lease by the Secretary covering any land or improvement described in such section 421(b)(2) shall not be considered to be prohibited under that section if under the lease—
 
@@ -52,13 +52,17 @@
 
 &emsp;(D) over one-half of the children to whom child-care services are provided are required to be children of employees of the Department.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(5), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, §4(i)(1), Dec. 15, 2003, 117 Stat. 2642.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(5), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, §4(i)(1), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 110–161, div. I, title II, §224(c), Dec. 26, 2007, 121 Stat. 2272.)
 
 #### References in Text
 
 Section 421(b) of the Veterans’ Benefits and Services Act of 1988, referred to in subsecs. (a)(1) and (c), is section 421(b) of Pub. L. 100–322, title IV, May 20, 1988, 102 Stat. 553, which is not classified to the Code.
 
+Section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008, referred to in subsec. (c)(1), is section 224(a) of title II of div. I of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 2272, which is not classified to the Code.
+
 #### Amendments
+
+2007—Subsec. (c)(1). Pub. L. 110–161 inserted “or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008” after “section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553)” and substituted “such sections” for “that section”.
 
 2003—Subsec. (a)(3). Pub. L. 108–178 struck out comma after “of title 40”.
 
@@ -79,6 +83,10 @@ Subsec. (b)(2). Pub. L. 106–117, §208(b)(1), substituted “may not exceed 75
 &emsp;“(B) 20 years, in the case of a lease not described in subparagraph (A).”
 
 Subsec. (b)(4). Pub. L. 106–117, §208(b)(2), added par. (4) and struck out former par. (4) which read as follows: “Any payment by the Secretary for the use of space or services by the Department on property that has been leased under this subchapter may only be made from funds appropriated to the Department for the activity that uses the space or services. No other such payment may be made by the Secretary to a lessee under an enhanced-use lease unless the authority to make the payment is provided in advance in an appropriation Act.”
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–161, div. I, title II, §224(d), Dec. 26, 2007, 121 Stat. 2272, provided that: “This section \[amending this section\], including the amendment made by this section, shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
 
 #### Effective Date of 2003 Amendment
 

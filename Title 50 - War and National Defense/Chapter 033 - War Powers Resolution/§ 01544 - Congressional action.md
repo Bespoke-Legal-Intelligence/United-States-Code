@@ -14,7 +14,3 @@ Notwithstanding subsection (b) of this section, at any time that United States A
 
 (Pub. L. 93–148, §5, Nov. 7, 1973, 87 Stat. 556.)
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

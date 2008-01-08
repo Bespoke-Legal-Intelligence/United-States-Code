@@ -2,7 +2,7 @@
 
 (a) Any person, agency, or other entity proposing to develop a storage or disposal facility, including a test disposal facility, for high-level radioactive wastes, non-high-level radioactive wastes including transuranium contaminated wastes, or irradiated nuclear reactor fuel, shall notify the Commission as early as possible after the commencement of planning for a particular proposed facility. The Commission shall in turn notify the Governor and the State legislature of the State of proposed situs whenever the Commission has knowledge of such proposal.
 
-(b) The Commission is authorized and directed to prepare a report on means for improving theopportunities for State participation in the process for siting, licensing, and developing nuclear waste storage or disposal facilities. Such report shall include detailed consideration of a program to provide grants through the Commission to any State, and the advisability of such a program, for the purpose of conducting an independent State review of any proposal to develop a nuclear waste storage or disposal facility identified in subsection (a) of this section within such State. On or before March 1, 1979, the Commission shall submit the report to the Congress including recommendations for improving the opportunities for State participation together with any necessary legislative proposals.
+(b) The Commission is authorized and directed to prepare a report on means for improving the opportunities for State participation in the process for siting, licensing, and developing nuclear waste storage or disposal facilities. Such report shall include detailed consideration of a program to provide grants through the Commission to any State, and the advisability of such a program, for the purpose of conducting an independent State review of any proposal to develop a nuclear waste storage or disposal facility identified in subsection (a) of this section within such State. On or before March 1, 1979, the Commission shall submit the report to the Congress including recommendations for improving the opportunities for State participation together with any necessary legislative proposals.
 
 (Pub. L. 95–601, §14, Nov. 6, 1978, 92 Stat. 2953.)
 
@@ -62,7 +62,7 @@ Pub. L. 96–368, Oct. 1, 1980, 94 Stat. 1347, as amended by Pub. L. 102–154, 
 
 &emsp;&emsp;“(D) prepare required environmental impact analyses of the project.
 
-&emsp;“(4) The Secretary shall enter into a cooperative agreement with the State in accordance with the Federal Grant and Cooperative Agreement Act of 1977 \[see section 6301 et seq. of Title 31, Money and Finance\] under which the State will carry out the following:
+&emsp;“(4) The Secretary shall enter into a cooperative agreement with the State in accordance with the Federal Grant and Cooperative Agreement Act of 1977\[see section 6301 et seq. of Title 31, Money and Finance\] under which the State will carry out the following:
 
 &emsp;&emsp;“(A) The State will make available to the Secretary the facilities of the Center and the high level radioactive waste at the Center which are necessary for the completion of the project. The facilities and the waste shall be made available without the transfer of title and for such period as may be required for completion of the project.
 

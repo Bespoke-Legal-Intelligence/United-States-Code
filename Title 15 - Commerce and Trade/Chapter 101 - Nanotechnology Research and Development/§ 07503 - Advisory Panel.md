@@ -44,3 +44,7 @@ Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

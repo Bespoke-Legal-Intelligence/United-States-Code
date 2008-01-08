@@ -18,9 +18,11 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(G) an individual employed by a county committee established under section 590h(b) of title 16;
 
-&emsp;&emsp;(H) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838); and
+&emsp;&emsp;(H) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838);
 
-&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph;
+&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph; and
+
+&emsp;&emsp;(J) an individual who is employed by the Roosevelt Campobello International Park Commission and is a citizen of the United States,
 
 > &emsp;but does not include—
 
@@ -90,7 +92,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(iii) who is otherwise entitled to an annuity or any portion of an annuity as a former spouse under a retirement system for Government employees,
 
-> &emsp;except that such term shall not include any such unremarried former spouse of a former employee whose marriage was dissolved after the former employee's separation from the service (other than by retirement); and
+> &emsp;except that such term shall not include any such unremarried former spouse of a formeremployee whose marriage was dissolved after the former employee's separation from the service (other than by retirement); and
 
 &emsp;(11) “qualified clinical social worker” means an individual—
 
@@ -102,7 +104,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(ii) meets equivalent requirements (as prescribed by the Office).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>),June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, §3(a), Oct. 19, 1998, 112 Stat. 2366.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, §3(a), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 110–74, §1, Aug. 9, 2007, 121 Stat. 723.)
 
 Historical and Revision Notes<br>1966
 
@@ -172,6 +174,8 @@ The date of enactment of section 8903a of this title, referred to in par. (8)(B)
 
 #### Amendments
 
+2007—Par. (1)(J). Pub. L. 110–74 added subpar. (J).
+
 1998—Par. (7). Pub. L. 105–266 substituted “organization and an association of organizations or other entities described in this paragraph sponsoring a health benefits plan;” for “organization;”.
 
 1992—Par. (3)(A)(iv). Pub. L. 102–378, §2(75)(A), substituted “8347(q)(2)” for “8347(p)(2)”.
@@ -204,7 +208,7 @@ Par. (11). Pub. L. 99–251 added par. (11).
 
 Par. (9). Pub. L. 96–179, §2(2)–(4), added par. (9).
 
-1979—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employee for the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
+1979—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employeefor the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
 
 Pub. L. 96–54 struck out cl. (G) which related to coverage of a United States Commissioner as an “employee”, and redesignated cl. (H) as (G).
 
@@ -308,7 +312,7 @@ Individuals currently under continued coverage.—An individual who, as of the e
 
 &emsp;“(3)
 
-Unmarried dependent children.—An individual who, as of the enrollment eligibility date, is covered as an unmarried dependent child under a health benefits plan administered by the Overseas Private Investment Corporation and who is not a member offamily as defined under section 8901(5) of title 5, United States Code—
+Unmarried dependent children.—An individual who, as of the enrollment eligibility date, is covered as an unmarried dependent child under a health benefits plan administered by the Overseas Private Investment Corporation and who is not a member of family as defined under section 8901(5) of title 5, United States Code—
 
 &emsp;&emsp;“(A) shall be deemed to be entitled to continued coverage under section 8905a of such title as though the individual had ceased to meet the requirements for being considered an unmarried dependent child under chapter 89 of such title as of such date; and
 
@@ -482,7 +486,7 @@ Administration and Regulations.—The Office of Personnel Management—
 
 #### Continued Coverage Under Certain Federal Employee Benefit Programs for Certain Employees of Saint Elizabeths Hospital
 
-For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of this title.
+For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of this title.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

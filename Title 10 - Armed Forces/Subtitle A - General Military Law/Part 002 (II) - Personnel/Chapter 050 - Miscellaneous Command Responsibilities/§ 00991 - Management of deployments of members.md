@@ -58,7 +58,7 @@ National Security Waiver Authority.—The Secretary of the military department c
 
 (e)
 
-Inapplicability to Coast Guard.—This section does not apply to a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+Inapplicability to Coast Guard.—This section does not apply to a member of the CoastGuard when the Coast Guard is not operating as a service in the Navy.
 
 (Added Pub. L. 106–65, div. A, title V, §586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, §515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, §541(a), Nov. 24, 2003, 117 Stat. 1475.)
 

@@ -38,7 +38,7 @@ The requirements of subsection (a) of this section shall not apply—
 
 #### (c) Assets of plan not to inure to benefit of employer; allowable purposes of holding plan assets
 
-(1) Except as provided in paragraph (2), (3), or (4) or subsection (d) of this section, or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under section 420 of title 26 (as in effect on October 22, 2004), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
+(1) Except as provided in paragraph (2), (3), or (4) or subsection (d) of this section, or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under section 420 of title 26 (as in effect on August 17, 2006), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
 
 (2)(A) In the case of a contribution, or a payment of withdrawal liability under part 1 of subtitle E of subchapter III of this chapter—
 
@@ -60,15 +60,13 @@ The requirements of subsection (a) of this section shall not apply—
 
 (Pub. L. 93–406, title I, §403, Sept. 2, 1974, 88 Stat. 876; Pub. L. 96–364, title III, §310, title IV, §§402(b)(2), 410(a), 411(c), Sept. 26, 1980, 94 Stat. 1296, 1299, 1308; Pub. L. 100–203, title IX, §9343(c), Dec. 22, 1987, 101 Stat. 1330–372; Pub. L. 101–239, title VII, §§7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(a), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(B), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 106–170, title V, §535(a)(2)(B), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(b)(2), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(2), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §107(a)(11), Aug. 17, 2006, 120 Stat. 819.)
 
-#### Amendment of Subsection (c)(1)
-
-<i>Pub. L. 109–280, title I, §107(a)(11), (e), Aug. 17, 2006, 120 Stat. 819, 820, provided that, applicable to plan years beginning after 2007, subsection (c)(1) of this section is amended by substituting “August 17, 2006” for “October 22, 2004”.</i>
-
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (b)(4), (6), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (c)(1). Pub. L. 109–280 substituted “August 17, 2006” for “October 22, 2004”.
 
 2004—Subsec. (c)(1). Pub. L. 108–357 substituted “October 22, 2004” for “April 10, 2004”.
 

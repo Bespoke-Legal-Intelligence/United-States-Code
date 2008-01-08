@@ -20,7 +20,7 @@
 
 (d) Not more than one prisoner-of-war medal may be issued to a person. However, for each succeeding service that would otherwise justify the issuance of such a medal, the Secretary concerned may issue a suitable device to be worn as the Secretary determines.
 
-(e) For a person to be eligible for issuance of a prisoner-of-war medal, the person's conduct must have been honorable for the period of captivity which serves as the basis for the issuance.
+(e) For a person to be eligible for issuance of a prisoner-of-war medal, the person's conductmust have been honorable for the period of captivity which serves as the basis for the issuance.
 
 (f) If a person dies before the issuance of a prisoner-of-war medal to which he is entitled, the medal may be issued to the person's representative, as designated by the Secretary concerned.
 

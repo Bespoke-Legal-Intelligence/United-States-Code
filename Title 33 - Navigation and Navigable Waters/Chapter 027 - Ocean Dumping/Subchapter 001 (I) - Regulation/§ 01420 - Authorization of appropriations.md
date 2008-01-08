@@ -8,7 +8,7 @@ There are authorized to be appropriated, for purposes of carrying out this subch
 
 1992—Pub. L. 102–580 substituted “for fiscal year 1993 and not to exceed $14,000,000 for each of the fiscal years 1994, 1995, 1996, and 1997, to remain available until expended” for “for each of fiscal years 1989, 1990, and 1991”.
 
-1988—Pub. L. 100–536 amended section generally, substituting provisions authorizing appropriations not to exceed $12,000,000 for each of fiscal years 1989, 1990, and 1991, for provisions authorizing appropriations for fiscal years 1973 to 1982.
+1988—Pub. L. 100–536 amended section generally, substituting provisions authorizing appropriations not to exceed $12,000,000 for each of fiscal years 1989, 1990, and1991, for provisions authorizing appropriations for fiscal years 1973 to 1982.
 
 1981—Pub. L. 97–16 increased to $4,213,000 from $2,000,000 the authorization of appropriation for fiscal year 1982.
 

@@ -146,7 +146,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (L) Noninterference
 
-&emsp;&emsp;The plan shall provide assurances that the designated State agency, and any other agency, office, or entity of the State, will not interfere with the advocacy, capacity building, and systemic change activities,budget, personnel, State plan development, or plan implementation of the Council, except that the designated State agency shall have the authority necessary to carry out the responsibilities described in section 15025(d)(3) of this title.
+&emsp;&emsp;The plan shall provide assurances that the designated State agency, and any other agency, office, or entity of the State, will not interfere with the advocacy, capacity building, and systemic change activities, budget, personnel, State plan development, or plan implementation of the Council, except that the designated State agency shall have the authority necessary to carry out the responsibilities described in section 15025(d)(3) of this title.
 
 #### (M) State quality assurance
 

@@ -5,6 +5,7 @@
 | [31\.](%C2%A7%2000031%20-%20Compensation%20of%20Members%20of%20Congress.md) | Compensation of Members of Congress. |
 | 31–1. | Repealed. |
 | 31–2. | Gifts and travel. |
+| 31–3. | Guidelines relating to restrictions on registered lobbyist participation in travel and disclosure. |
 | [31a.](%C2%A7%2000031a%20-%20Repealed.%20Mar.%202%2C%201955%2C%20ch.%209%2C%20%C2%A74%28b%29%2C%2069%20Stat.%2011%2C%20eff.%20Mar.%201%2C%201955.md) | Repealed. |
 | 31a–1. | Expense allowance of Majority and Minority Leaders of Senate; expense allowance of Majority and Minority Whips; methods of payment; taxability. |
 | 31a–2. | Representation Allowance Account for Majority and Minority Leaders of Senate. |
@@ -97,6 +98,7 @@
 - [&sect; 00031 - Compensation of Members of Congress](%C2%A7%2000031%20-%20Compensation%20of%20Members%20of%20Congress.md)
 - [&sect; 00031&#8211;1 - Repealed. Pub. L. 102&#8211;90, title I, &sect;6(c), Aug. 14, 1991, 105 Stat. 451](%C2%A7%2000031%E2%80%931%20-%20Repealed.%20Pub.%20L.%20102%E2%80%9390%2C%20title%20I%2C%20%C2%A76%28c%29%2C%20Aug.%2014%2C%201991%2C%20105%20Stat.%20451.md)
 - [&sect; 00031&#8211;2 - Gifts and travel](%C2%A7%2000031%E2%80%932%20-%20Gifts%20and%20travel.md)
+- [&sect; 00031&#8211;3 - Guidelines relating to restrictions on registered lobbyist participation in travel and disclosure](%C2%A7%2000031%E2%80%933%20-%20Guidelines%20relating%20to%20restrictions%20on%20registered%20lobbyist%20participation%20in%20travel%20and%20disclosure.md)
 - [&sect; 00031a - Repealed. Mar. 2, 1955, ch. 9, &sect;4(b), 69 Stat. 11, eff. Mar. 1, 1955](%C2%A7%2000031a%20-%20Repealed.%20Mar.%202%2C%201955%2C%20ch.%209%2C%20%C2%A74%28b%29%2C%2069%20Stat.%2011%2C%20eff.%20Mar.%201%2C%201955.md)
 - [&sect; 00031a&#8211;1 - Expense allowance of Majority and Minority Leaders of Senate; expense allowance of Majority and Minority Whips; methods of payment&#8230;](%C2%A7%2000031a%E2%80%931%20-%20Expense%20allowance%20of%20Majority%20and%20Minority%20Leaders%20of%20Senate%3B%20expense%20allowance%20of%20Majority%20and%20Minority%20Whips%3B%20methods%20of%20payment%E2%80%A6.md)
 - [&sect; 00031a&#8211;2 - Representation Allowance Account for Majority and Minority Leaders of Senate](%C2%A7%2000031a%E2%80%932%20-%20Representation%20Allowance%20Account%20for%20Majority%20and%20Minority%20Leaders%20of%20Senate.md)

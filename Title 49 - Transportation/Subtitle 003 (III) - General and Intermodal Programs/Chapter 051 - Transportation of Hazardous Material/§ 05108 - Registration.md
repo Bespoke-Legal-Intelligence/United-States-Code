@@ -96,7 +96,7 @@ Relationship to Other Laws.—(1) Chapter 35 of title 44 does not apply to an ac
 
 (B) Subsections (a)–(h) of this section do not apply to a department, agency, or instrumentality of the United States Government, an authority of a State or political subdivision of a State, an Indian tribe, or an employee of a department, agency, instrumentality, or authority carrying out official duties.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 765; Pub. L. 103–311, title I, §§104, 117(a)(3), 119(d)(1), Aug. 26, 1994, 108 Stat. 1673, 1678, 1680; Pub. L. 105–102, §2(3), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–225, §7(b)(1), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 109–59, title VII, §§7109(a)–(c), (e), (f), 7114(d)(3), 7126, Aug. 10, 2005, 119 Stat. 1897, 1898, 1900, 1909.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 765; Pub. L. 103–311, title I, §§104, 117(a)(3), 119(d)(1),Aug. 26, 1994, 108 Stat. 1673, 1678, 1680; Pub. L. 105–102, §2(3), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–225, §7(b)(1), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 109–59, title VII, §§7109(a)–(c), (e), (f), 7114(d)(3), 7126, Aug. 10, 2005, 119 Stat. 1897, 1898, 1900, 1909.)
 
 Historical and Revision Notes
 

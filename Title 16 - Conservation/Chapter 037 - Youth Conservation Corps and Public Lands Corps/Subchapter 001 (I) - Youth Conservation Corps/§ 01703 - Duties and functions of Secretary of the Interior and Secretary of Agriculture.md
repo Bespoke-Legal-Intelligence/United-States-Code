@@ -4,7 +4,7 @@
 
 In carrying out this subchapter, the Secretary of the Interior and the Secretary of Agriculture shall—
 
-&emsp;(1) determine the areas under their administrative jurisdictions which are appropriate for carrying out the programs using employees of the Corps;
+&emsp;(1) determine the areas under their administrative jurisdictions which are appropriate forcarrying out the programs using employees of the Corps;
 
 &emsp;(2) determine with other Federal agencies the areas under the administrative jurisdiction of these agencies which are appropriate for carrying out programs using members of the Corps, and determine and select appropriate work and education programs and projects for participation by members of the Corps;
 

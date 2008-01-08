@@ -28,7 +28,7 @@ Section was classified to section 166b–3b of former Title 40, prior to the ena
 
 2002—Subsec. (c). Pub. L. 107–117 added subsec. (c).
 
-2001—Subsec. (a). Pub. L. 107–68, §129(c)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Effective as of the first day of the first applicable pay period beginning on or after November 5, 1990, the compensation of the Director of Engineering (under the Architect of the Capitol) shall be equal to such rate as the Architect considers appropriate, not toexceed 90 percent of the highest total rate of pay for the Senior Executive Service under chapter 53 of title 5 for the locality involved.”
+2001—Subsec. (a). Pub. L. 107–68, §129(c)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Effective as of the first day of the first applicable pay period beginning on or after November 5, 1990, the compensation of the Director of Engineering (under the Architect of the Capitol) shall be equal to such rate as the Architect considers appropriate, not to exceed 90 percent of the highest total rate of pay for the Senior Executive Service under chapter 53 of title 5 for the locality involved.”
 
 Subsecs. (b), (c). Pub. L. 107–68, §129(c)(1), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
@@ -58,7 +58,7 @@ Subsecs. (b), (c). Pub. L. 107–68, §129(c)(1), redesignated subsec. (c) as (b
 
 1997—Subsec. (a). Pub. L. 105–55, §311(a), substituted “such rate as the Architect considers appropriate, not to exceed 90 percent of the highest total rate of pay for the Senior Executive Service under chapter 53 of title 5 for the locality involved” for “the rate of basic pay payable for level V of the Executive Schedule”.
 
-Subsec. (b)(1). Pub. L. 105–55, §311(b)(1), struck out at end “For purposes of the preceding sentence, ‘the maximum rate allowable for the Senior Executive Service’ means the highest rate of basic pay that may be set for the Senior Executive Service under section 5382(b) of title 5.”
+Subsec. (b)(1). Pub. L. 105–55, §311(b)(1), struck out at end “For purposes of the preceding sentence, ‘the maximum rate allowable for the Senior Executive Service’ means the highest rate of basic pay that may be set forthe Senior Executive Service under section 5382(b) of title 5.”
 
 Subsec. (b)(1)(A), (B). Pub. L. 105–55, §311(b)(2), substituted “the highest total rate of pay for the Senior Executive Service under chapter 53 of title 5 for the locality involved” for “the maximum rate allowable for the Senior Executive Service”.
 

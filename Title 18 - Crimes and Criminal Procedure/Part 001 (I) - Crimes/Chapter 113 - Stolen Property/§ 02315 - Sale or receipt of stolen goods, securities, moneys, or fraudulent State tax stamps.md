@@ -34,5 +34,5 @@ Pub. L. 100–690, §7057(b), struck out “or by a bank or corporation of any f
 
 1986—Pub. L. 99–646 substituted “receives, possesses, conceals” for “receives, conceals” and “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” for “moving as, or which are part of, or which constitute interstate or foreign commerce” in first and second pars.
 
-1961—Pub. L. 87–371 inserted “or tax stamps” after “securities”, wherever appearing, in second par., and “or tax stamp” after “security”, wherever appearing,in third par., and substituted “moneys, or fraudulent State tax stamps” for “or monies” in section catchline.
+1961—Pub. L. 87–371 inserted “or tax stamps” after “securities”, wherever appearing, in second par., and “or tax stamp” after “security”, wherever appearing, in third par., and substituted “moneys, or fraudulent State tax stamps” for “or monies” in section catchline.
 

@@ -52,11 +52,14 @@
 | [138\.](%C2%A7%2000138%20-%20Medicare%20Advantage%20MSA.md) | Medicare Advantage MSA. |
 | [139\.](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md) | Disaster relief payments. |
 | [139A.](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md) | Federal subsidies for prescription drug plans. |
+| [139B.](%C2%A7%2000139B%20-%20Benefits%20provided%20to%20volunteer%20firefighters%20and%20emergency%20medical%20responders.md) | Benefits provided to volunteer firefighters and emergency medical responders. |
 | [140\.](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md) | Cross references to other Acts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 110–142, §5(b), Dec. 20, 2007, 121 Stat. 1806, added item 139B.
 
 2004—Pub. L. 108–357, title I, §101(b)(3), Oct. 22, 2004, 118 Stat. 1423, struck out item 114 “Extraterritorial income”.
 
@@ -76,7 +79,7 @@ Pub. L. 105–33, title IV, §4006(b)(3), Aug. 5, 1997, 111 Stat. 334, added ite
 
 1992—Pub. L. 102–486, title XIX, §1912(b), Oct. 24, 1992, 106 Stat. 3016, added items 136 and 137 and struck out former item 136 “Cross references to other Acts”.
 
-1990—Pub. L. 101–508, title XI, §11801(b)(2), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 110 “Income taxes paid by lessee corporation”, item 113 “Mustering-out payments for members of the Armed Forces”, item 114 “Sports programs conducted for the American National Red Cross”, item 124 “Qualified transportation provided by employer”, and item 128 “Interest on certain savings certificates”.
+1990—Pub. L. 101–508, title XI, §11801(b)(2), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 110 “Income taxes paid by lessee corporation”, item 113 “Mustering-out payments for members of the Armed Forces”, item114 “Sports programs conducted for the American National Red Cross”, item 124 “Qualified transportation provided by employer”, and item 128 “Interest on certain savings certificates”.
 
 1988—Pub. L. 100–647, title I, §1013(a)(37), title VI, §6009(c)(4), Nov. 10, 1988, 102 Stat. 3544, 3690, substituted “Interest on State and local bonds” for “Interest on certain governmental obligations” in item 103, struck out item 103A “Mortgage subsidy bonds”, added item 135 and redesignated former item 135 “Cross references to other Acts” as item 136.
 
@@ -210,4 +213,5 @@ No inference.—Nothing in this Act \[see Tables for classification\] shall be c
 - [&sect; 00138 - Medicare Advantage MSA](%C2%A7%2000138%20-%20Medicare%20Advantage%20MSA.md)
 - [&sect; 00139 - Disaster relief payments](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md)
 - [&sect; 00139A - Federal subsidies for prescription drug plans](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md)
+- [&sect; 00139B - Benefits provided to volunteer firefighters and emergency medical responders](%C2%A7%2000139B%20-%20Benefits%20provided%20to%20volunteer%20firefighters%20and%20emergency%20medical%20responders.md)
 - [&sect; 00140 - Cross references to other Acts](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md)

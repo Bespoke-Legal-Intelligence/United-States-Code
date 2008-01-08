@@ -96,7 +96,7 @@
 
 #### (4) Amendments to declaration
 
-&emsp;The Secretary may through publication in the Federal Register amend any portion of a declaration under paragraph (1). Such anamendment shall not retroactively limit the applicability of subsection (a) of this section with respect to the administration or use of the covered countermeasure involved.
+&emsp;The Secretary may through publication in the Federal Register amend any portion of a declaration under paragraph (1). Such an amendment shall not retroactively limit the applicability of subsection (a) of this section with respect to the administration or use of the covered countermeasure involved.
 
 #### (5) Certain disclosures
 
@@ -164,7 +164,7 @@
 
 #### (4) Defense for acts or omissions taken pursuant to Secretary's declaration
 
-&emsp;Notwithstanding any other provision of law, a program planner or qualified person shall not have engaged in “willful misconduct” as a matter of law where such program planner orqualified person acted consistent with applicable directions, guidelines, or recommendations by the Secretary regarding the administration or use of a covered countermeasure that is specified in the declaration under subsection (b) of this section, provided either the Secretary, or a State or local health authority, was provided with notice of information regarding serious physical injury or death from the administration or use of a covered countermeasure that is material to the plaintiff's alleged loss within 7 days of the actual discovery of such information by such program planner or qualified person.
+&emsp;Notwithstanding any other provision of law, a program planner or qualified person shall not have engaged in “willful misconduct” as a matter of law where such program planner or qualified person acted consistent with applicable directions, guidelines, or recommendations by the Secretary regarding the administration or use of a covered countermeasure that is specified in the declaration under subsection (b) of this section, provided either the Secretary, or a State or local health authority, was provided with notice of information regarding serious physical injury or death from the administration or use of a covered countermeasure that is material to the plaintiff's alleged loss within 7 days of the actual discovery of such information by such program planner or qualified person.
 
 #### (5) Exclusion for regulated activity of manufacturer or distributor
 
@@ -184,7 +184,7 @@
 
 #### (i) Enforcement action
 
-&emsp;&emsp;&emsp;The term “enforcement action” means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct, of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
+&emsp;&emsp;&emsp;The term “enforcement action” means a criminal prosecution, an action seeking aninjunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct, of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
 
 #### (ii) Covered remedy
 
@@ -288,7 +288,7 @@
 
 #### (B) Standard
 
-&emsp;&emsp;Notwithstanding any other provision of law, the court in an action under subsection (d) of this section shall permit discovery only with respect to matters directly related to material issues contested in such action, and the court shall compel a response to a discovery request (including a request for admission, an interrogatory, a request for production of documents, or any other form of discovery request) under Rule 37, Federal Rules of Civil Procedure, only if the court finds that the requesting party needs the information sought to prove or defend as to amaterial issue contested in such action and that the likely benefits of a response to such request equal or exceed the burden or cost for the responding party of providing such response.
+&emsp;&emsp;Notwithstanding any other provision of law, the court in an action under subsection (d) of this section shall permit discovery only with respect to matters directly related to material issues contested in such action, and the court shall compel a response to a discovery request (including a request for admission, an interrogatory, a request for production of documents, or any other form of discovery request) under Rule 37, Federal Rules of Civil Procedure, only if the court finds that the requesting party needs the information sought to prove or defend as to a material issue contested in such action and that the likely benefits of a response to such request equal or exceed the burden or cost for the responding party of providing such response.
 
 #### (7) Reduction in award of damages for collateral source benefits
 
@@ -384,7 +384,7 @@ In this section:
 
 #### (5) Person
 
-&emsp;The term “person” includes an individual, partnership, corporation, association, entity, or public or private corporation, including a Federal, State, or local government agency or department.
+&emsp;The term “person” includes an individual, partnership, corporation, association, entity, or public or private corporation, including aFederal, State, or local government agency or department.
 
 #### (6) Program planner
 
@@ -434,7 +434,7 @@ In this section:
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(8)(B), (c)(5)(A), (B)(i), (ii)(I), (C)(i), and (i)(7)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Chapter V ofthe Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(8)(B), (c)(5)(A), (B)(i), (ii)(I), (C)(i), and (i)(7)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (e)(6)(B), (9), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

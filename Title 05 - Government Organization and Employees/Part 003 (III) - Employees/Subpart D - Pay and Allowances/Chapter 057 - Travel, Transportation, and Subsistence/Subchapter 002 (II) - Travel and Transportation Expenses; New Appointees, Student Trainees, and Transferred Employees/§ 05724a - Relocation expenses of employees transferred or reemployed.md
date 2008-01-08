@@ -52,7 +52,7 @@
 
 (8) Under regulations prescribed under section 5738, an agency may pay to or on behalf of an employee who transfers in the interest of the Government expenses of property management services, instead of expenses under paragraph (1) or (2) of this subsection for sale of the employee's residence, when the agency determines that such transfer is advantageous and cost-effective for the Government.
 
-(e) Under regulations prescribed under section 5738, an agency may pay to or on behalf of an employee who transfers in the interest of theGovernment, the expenses of property management services when the employee transfers to a post of duty outside the United States. Such payment shall terminate upon return of the employee to an official station within the United States.
+(e) Under regulations prescribed under section 5738, an agency may pay to or on behalf of an employee who transfers in the interest of the Government, the expenses of property management services when the employee transfers to a post of duty outside the United States. Such payment shall terminate upon return of the employee to an official station within the United States.
 
 (f)(1) Under regulations prescribed under section 5738 and subject to paragraph (2), an employee who is reimbursed under subsections (a) through (e) of this section or section 5724(a) of this title is entitled to an amount for miscellaneous expenses—
 
@@ -130,7 +130,7 @@ Subsec. (f)(1). Pub. L. 105–264, §7(8), substituted “Under regulations pres
 
 Subsec. (i). Pub. L. 105–264, §7(9), struck out subsec. (i) which read as follows: “Subsections (a), (b), and (c) shall be implemented under regulations issued under section 5738 of this title.”
 
-Subsec. (j). Pub. L. 105–264, §6(5), struck out subsec. (j) which read as follows: “For purposes of subsections (c), (d), and (e), the term ‘United States’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the UnitedStates pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”
+Subsec. (j). Pub. L. 105–264, §6(5), struck out subsec. (j) which read as follows: “For purposes of subsections (c), (d), and (e), the term ‘United States’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”
 
 1997—Subsec. (j). Pub. L. 105–85, which directed the amendment of subsec. (j) by inserting “and” after “Northern Mariana Islands,” and by substituting “United States.” for “United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”, effective Jan. 1, 1999, could not be executed because subsec. (j) did not appear subsequent to amendment by Pub. L. 105–264. See 1998 Amendment note above.
 
@@ -154,7 +154,7 @@ Subsecs. (f) to (j). Pub. L. 104–201, §1718, added subsecs. (f) to (j).
 
 Subsec. (a)(2). Pub. L. 99–234, §105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title”.
 
-Subsec. (a)(3). Pub. L. 99–234, §105(2), (3), substituted “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title” and “daily rates and amounts” for “average daily rates”.
+Subsec. (a)(3). Pub. L. 99–234, §105(2), (3), substituted “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702of this title” and “daily rates and amounts” for “average daily rates”.
 
 1983—Subsec. (a)(3). Pub. L. 98–151, §118(a)(5)(A), in first sentence substituted “60 days” for “30 days”.
 

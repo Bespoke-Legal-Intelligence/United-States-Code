@@ -88,7 +88,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A Medicare+Choice organization may not deny, limit, or condition the coverage or provision of benefits under this part, for individuals permitted to be enrolled with the organization under this part, based on any health status-related factor described in section 300gg–1(a)(1) of this title. The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.
+&emsp;&emsp;A Medicare+Choice organization may not deny, limit, or condition the coverage or provision of benefits under this part, for individuals permitted to be enrolled with theorganization under this part, based on any health status-related factor described in section 300gg–1(a)(1) of this title. The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.
 
 #### (B) Construction
 
@@ -220,7 +220,7 @@
 
 &emsp;&emsp;(B) the plan has contracts or agreements (other than deemed contracts or agreements under subsection (j)(6) of this section) with a sufficient number and range of providers within such category to provide covered services under the terms of the plan,
 
-> &emsp;or a combination of both. The previous sentence shall not be construed as restricting the persons from whom enrollees under such a plan may obtain covered benefits, except that, if a plan entirely meets such requirement with respect to a category of health care professional or provider on the basis of subparagraph\(B), it may provide for a higher beneficiary copayment in the case of health care professionals and providers of that category who do not have contracts or agreements (other than deemed contracts or agreements under subsection (j)(6) of this section) to provide covered services under the terms of the plan.
+> &emsp;or a combination of both. The previous sentence shall not be construed as restricting the persons from whom enrollees under such a plan may obtain covered benefits, except that, if a plan entirely meets such requirement with respect to a category of health care professional or provider on the basis of subparagraph (B), it may provide for a higher beneficiary copayment in the case of health care professionals and providers of that category who do not have contracts or agreements (other than deemed contracts or agreements under subsection (j)(6) of this section) to provide covered services under the terms of the plan.
 
 #### (e) Quality improvement program
 
@@ -242,7 +242,7 @@
 
 #### (ii) Application to MA regional plans
 
-&emsp;&emsp;&emsp;The Secretary shall establish as appropriate by regulation requirements for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality for MA organizations with respect to MA regional plans. Such requirements may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans.
+&emsp;&emsp;&emsp;The Secretary shall establish as appropriate by regulation requirements for thecollection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality for MA organizations with respect to MA regional plans. Such requirements may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans.
 
 #### (iii) Application to preferred provider organizations
 
@@ -294,7 +294,7 @@
 
 &emsp;&emsp;&emsp;(vi) Subsection (j) of this section (relating to provider participation rules).
 
-&emsp;&emsp;&emsp;(vii) The requirements described in section 1395w–104(j) of this title, to the extentsuch requirements apply under section 1395w–131(c) of this title.
+&emsp;&emsp;&emsp;(vii) The requirements described in section 1395w–104(j) of this title, to the extent such requirements apply under section 1395w–131(c) of this title.
 
 #### (C) Timely action on applications
 
@@ -314,7 +314,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (A) In general
 
-&emsp;&emsp;A Medicare+Choice organization shall have a procedure for making determinations regarding whether an individual enrolled with the plan of the organization under this part is entitled to receive a health service under this section and the amount (if any) that the individual is required to pay with respect to such service. Subject to paragraph (3), such procedures shall provide for such determination to be made on a timely basis.
+&emsp;&emsp;A Medicare+Choice organization shall have a procedure for making determinations regarding whether an individual enrolled with the plan of the organization under thispart is entitled to receive a health service under this section and the amount (if any) that the individual is required to pay with respect to such service. Subject to paragraph (3), such procedures shall provide for such determination to be made on a timely basis.
 
 #### (B) Explanation of determination
 
@@ -358,7 +358,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (4) Independent review of certain coverage denials
 
-&emsp;The Secretary shall contract with an independent, outside entity to review and resolve in a timely manner reconsiderations that affirm denial of coverage, in whole or in part.The provisions of section 1395ff(c)(5) of this title shall apply to independent outside entities under contract with the Secretary under this paragraph.
+&emsp;The Secretary shall contract with an independent, outside entity to review and resolve in a timely manner reconsiderations that affirm denial of coverage, in whole or in part. The provisions of section 1395ff(c)(5) of this title shall apply to independent outside entities under contract with the Secretary under this paragraph.
 
 #### (5) Appeals
 
@@ -428,7 +428,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (B) “Physician incentive plan” defined
 
-&emsp;&emsp;In this paragraph, the term “physician incentive plan” means any compensation arrangement between a Medicare+Choice organization and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the organization under this part.
+&emsp;&emsp;In this paragraph, the term “physician incentive plan” means any compensation arrangement between a Medicare+Choice organization and a physician or physician groupthat may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the organization under this part.
 
 #### (5) Limitation on provider indemnification
 
@@ -480,7 +480,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a physician or other entity (other than a provider of services) that does not have a contract establishing payment amounts for services furnished to an individual enrolled under this part with a Medicare+Choice organization described in section 1395w–21(a)(2)(A) of this title or with an organization offering an MSA plan shall accept as payment in full for covered services under this subchapter that are furnished to such an individual the amounts that the physician or other entity could collect if the individual were not so enrolled. Any penalty or other provision of law that applies tosuch a payment with respect to an individual entitled to benefits under this subchapter (but not enrolled with a Medicare+Choice organization under this part) also applies with respect to an individual so enrolled.
+&emsp;Except as provided in paragraph (2), a physician or other entity (other than a provider of services) that does not have a contract establishing payment amounts for services furnished to an individual enrolled under this part with a Medicare+Choice organization described in section 1395w–21(a)(2)(A) of this title or with an organization offering an MSA plan shall accept as payment in full for covered services under this subchapter that are furnished to such an individual the amounts that the physician or other entity could collect if the individual were not so enrolled. Any penalty or other provision of law that applies to such a payment with respect to an individual entitled to benefits under this subchapter (but not enrolled with a Medicare+Choice organization under this part) also applies with respect to an individual so enrolled.
 
 #### (2) Application to Medicare+Choice private fee-for-service plans
 
@@ -620,7 +620,7 @@ Subsec. (e)(1). Pub. L. 108–173, §722(a)(2), reenacted heading without change
 
 Pub. L. 108–173, §233(a)(1), inserted “(other than MSA plans)” after “plans”.
 
-Subsec. (e)(2). Pub. L. 108–173, §722(a)(2), amended par. (2) generally, substituting provisions relating to chronic care improvement programs for provisions relatingto elements of the quality assurance program of an organization with respect to a Medicare+Choice plan.
+Subsec. (e)(2). Pub. L. 108–173, §722(a)(2), amended par. (2) generally, substituting provisions relating to chronic care improvement programs for provisions relating to elements of the quality assurance program of an organization with respect to a Medicare+Choice plan.
 
 Subsec. (e)(2)(A). Pub. L. 108–173, §233(a)(2)(B), struck out “, a non-network MSA plan,” after “fee-for-service plan” in introductory provisions.
 

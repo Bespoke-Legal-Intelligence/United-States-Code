@@ -38,6 +38,10 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;&emsp;Subparagraph (A) shall be applied without regard to any sale or exchange before May 7, 1997.
 
+#### (4) Special rule for certain sales by surviving spouses
+
+&emsp;In the case of a sale or exchange of property by an unmarried individual whose spouse is deceased on the date of such sale, paragraph (1) shall be applied by substituting “$500,000” for “$250,000” if such sale occurs not later than 2 years after the date of death of such spouse and the requirements of paragraph (2)(A) were met immediately before such date of death.
+
 #### (c) Exclusion for taxpayers failing to meet certain requirements
 
 #### (1) In general
@@ -86,7 +90,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (B) Property used by former spouse pursuant to divorce decree, etc.
 
-&emsp;&emsp;Solely for purposes of this section, an individual shall be treated as using property as such individual's principal residence during any period of ownership while such individual's spouse or former spouse is granted useof the property under a divorce or separation instrument (as defined in section 71(b)(2)).
+&emsp;&emsp;Solely for purposes of this section, an individual shall be treated as using property assuch individual's principal residence during any period of ownership while such individual's spouse or former spouse is granted use of the property under a divorce or separation instrument (as defined in section 71(b)(2)).
 
 #### (4) Tenant-stockholder in cooperative housing corporation
 
@@ -210,6 +214,10 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;&emsp;&emsp;An election under subparagraph (A) may be revoked at any time.
 
+#### (E) Termination with respect to employees of intelligence community
+
+&emsp;&emsp;Clause (iii) of subparagraph (A) shall not apply with respect to any sale or exchange after December 31, 2010.
+
 #### (10) Property acquired in like-kind exchange
 
 &emsp;If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property is determined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
@@ -226,11 +234,7 @@ This section shall not apply to any sale or exchange with respect to which the t
 
 For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>1</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) in determining the holding period of such property) had been so owned and used.
 
-(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 417(e) of Pub. L. 109–432, see Effective and Termination Dates of 2006 Amendment note below.</i>
+(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966; Pub. L. 110–142, §7(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–172, §11(a)(11)(A), Dec. 29, 2007, 121 Stat. 2485.)
 
 #### Amendment of Subsection (d)
 
@@ -270,9 +274,13 @@ A prior section 121 was renumbered section 140 of this title.
 
 #### Amendments
 
-2006—Subsec. (d)(9). Pub. L. 109–432, §417(d), (e), temporarily substituted “Uniformed services, Foreign Service, and intelligence community” for “Members of uniformed services and Foreign Service” in heading. See Effective and Termination Dates of 2006 Amendment note below.
+2007—Subsec. (b)(4). Pub. L. 110–142 added par. (4).
 
-Subsec. (d)(9)(A). Pub. L. 109–432, §417(a), (e), temporarily substituted “duty—
+Subsec. (d)(9)(E). Pub. L. 110–172 added subpar. (E).
+
+2006—Subsec. (d)(9). Pub. L. 109–432, §417(d), substituted “Uniformed services, Foreign Service, and intelligence community” for “Members of uniformed services and Foreign Service” in heading.
+
+Subsec. (d)(9)(A). Pub. L. 109–432, §417(a), substituted “duty—
 
 &emsp;“(i) as a member of the uniformed services,
 
@@ -280,11 +288,11 @@ Subsec. (d)(9)(A). Pub. L. 109–432, §417(a), (e), temporarily substituted “
 
 &emsp;“(iii) as an employee of the intelligence community.”
 
-> for “duty as a member of the uniformed services or of the Foreign Service of the United States.” See Effective and Termination Dates of 2006 Amendment note below.
+> for “duty as a member of the uniformed services or of the Foreign Service of the United States.”
 
-Subsec. (d)(9)(C)(iv), (v). Pub. L. 109–432, §417(b), (e), temporarily added cl. (iv) and redesignated former cl. (iv) as (v). See Effective and Termination Dates of 2006 Amendment note below.
+Subsec. (d)(9)(C)(iv), (v). Pub. L. 109–432, §417(b), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-Subsec. (d)(9)(C)(vi). Pub. L. 109–432, §417(c), (e), temporarily added cl. (vi). See Effective and Termination Dates of 2006 Amendment note below.
+Subsec. (d)(9)(C)(vi). Pub. L. 109–432, §417(c), added cl. (vi).
 
 2005—Subsec. (d)(10). Pub. L. 109–135, §403(ee)(2), amended heading and text of par. (10) relating to property acquired in like-kind exchange generally. Prior to amendment, text read as follows: “If a taxpayer acquired property in an exchange to which section 1031 applied, subsection (a) shall not apply to the sale or exchange of such property if it occurs during the 5-year period beginning with the date of the acquisition of such property.”
 
@@ -338,9 +346,13 @@ Subsec. (d)(8). Pub. L. 95–600, §404(b), added par. (8).
 
 Subsecs. (c), (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-#### Effective and Termination Dates of 2006 Amendment
+#### Effective Date of 2007 Amendment
 
-Pub. L. 109–432, div. A, title IV, §417(e), Dec. 20, 2006, 120 Stat. 2966, provided that: “The amendments made by this section \[amending this section\] shall apply tosales or exchanges after the date of the enactment of this Act \[Dec. 20, 2006\] and before January 1, 2011.”
+Pub. L. 110–142, §7(b), Dec. 20, 2007, 121 Stat. 1806, provided that: “The amendment made by this section\[amending this section\] shall apply to sales or exchanges after December 31, 2007.”
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–432, div. A, title IV, §417(e), Dec. 20, 2006, 120 Stat. 2966, as amended by Pub. L. 110–172, §11(a)(11)(B), Dec. 29, 2007, 121 Stat. 2485, provided that: “The amendments made by this section \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[Dec. 20, 2006\].”
 
 #### Effective Date of 2005 Amendment
 
@@ -430,11 +442,11 @@ Section 1404(b) of Pub. L. 94–455 provided that: “The amendment made by subs
 
 #### Effective Date
 
-Section 206(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[enacting this section, redesignating former section 121 as 122, and amending sections 1033, 1034, and 6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date.”
+Section 206(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[enacting this section, redesignating former section 121 as 122, andamending sections 1033, 1034, and 6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date.”
 
 #### Sense of Congress Concerning Tax Treatment of Principal Residence of Members of Armed Forces While Away From Home on Active Duty
 
-Pub. L. 105–261, div. A, title X, §1074, Oct. 17, 1998, 112 Stat. 2138, provided that: “It is the sense of Congressthat a member of the Armed Forces should be treated for purposes of section 121 of the Internal Revenue Code of 1986 as using property as a principal residence during any continuous period that the member is serving on active duty for 180 days or more with the Armed Forces, but only if the member used the property as a principal residence for any period during or immediately before that period of active duty.”
+Pub. L. 105–261, div. A, title X, §1074, Oct. 17, 1998, 112 Stat. 2138, provided that: “It is the sense of Congress that a member of the Armed Forces should be treated for purposes of section 121 of the Internal Revenue Code of 1986 as using property as a principal residence during any continuous period that the member is serving on active duty for 180 days or more with the Armed Forces, but only if the member used the property as a principal residence for any period during or immediately before that period of active duty.”
 
 #### Transitional Rule in Case of Sale or Exchange of Residence Before July 26, 1981
 

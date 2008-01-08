@@ -10,7 +10,7 @@ The Secretary shall provide for jurisdictions to submit applications for approva
 
 &emsp;&emsp;(A) is developed by the jurisdiction;
 
-&emsp;&emsp;(B) takes into consideration comments from the public hearing, any other public comments on the proposed program, andcomments from current and prospective residents who would be affected; and
+&emsp;&emsp;(B) takes into consideration comments from the public hearing, any other public comments on the proposed program, and comments from current and prospective residents who would be affected; and
 
 &emsp;&emsp;(C) identifies each term or condition for which the jurisdiction is requesting waiver under section 1437bbb–3(a)(1) of this title;
 
@@ -66,7 +66,7 @@ The Secretary shall provide for jurisdictions to submit applications for approva
 
 #### (3) Agreement
 
-&emsp;The Secretary shall offer to enter into an agreement with each jurisdiction approved for participation in the program under this subchapter providing for assistance pursuant to this subchapter for a period in accordance with section 1437bbb–1(b) of this title and incorporating a requirement that the jurisdiction achieve a particular level of performance in each of the areas for which performance standards are established under paragraph (4)(A) of this subsection. If the Secretary and the jurisdiction enter into an agreement, the Secretary shall provide any covered housing assistance for the jurisdiction in the manner authorized under this subchapter. The Secretary may not provide covered housing assistance for a jurisdiction in the manner authorized under this subchapter unless the Secretary and jurisdiction enter into an agreement under this paragraph.
+&emsp;The Secretary shall offer to enter into an agreement with each jurisdiction approved forparticipation in the program under this subchapter providing for assistance pursuant to this subchapter for a period in accordance with section 1437bbb–1(b) of this title and incorporating a requirement that the jurisdiction achieve a particular level of performance in each of the areas for which performance standards are established under paragraph (4)(A) of this subsection. If the Secretary and the jurisdiction enter into an agreement, the Secretary shall provide any covered housing assistance for the jurisdiction in the manner authorized under this subchapter. The Secretary may not provide covered housing assistance for a jurisdiction in the manner authorized under this subchapter unless the Secretary and jurisdiction enter into an agreement under this paragraph.
 
 #### (4) Performance standards
 

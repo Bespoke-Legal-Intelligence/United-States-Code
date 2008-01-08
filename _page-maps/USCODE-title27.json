@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title27",
- "package": "USCODE-2006-title27",
+ "package": "USCODE-2007-title27",
  "pieces": [
   {
    "id": "27_",
@@ -711,6 +711,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2006-title27 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2007-title27 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 27 - Intoxicating Liquors"
 }

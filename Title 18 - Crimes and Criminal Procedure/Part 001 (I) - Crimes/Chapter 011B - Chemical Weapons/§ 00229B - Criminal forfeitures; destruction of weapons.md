@@ -10,7 +10,7 @@ Property Subject to Criminal Forfeiture.—Any person convicted under section 22
 
 &emsp;(3) any of the property used in any manner or part, to commit, or to facilitate the commission of, such violation.
 
-> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to section 229A(a), that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by section 229A(a), a defendant who derived profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
+> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to section 229A(a), that the person forfeit to the United States all property described in this subsection. In lieu of a fineotherwise authorized by section 229A(a), a defendant who derived profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
 
 (b)
 
@@ -30,7 +30,7 @@ Temporary restraining orders.—
 
 &emsp;&emsp;(A)
 
-In general.—For the purposes of forfeiture proceedings under this section, atemporary restraining order may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if, in addition to the circumstances described in section 413(e)(2) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(e)(2)), the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and exigent circumstances exist that place the life or health of any person in danger.
+In general.—For the purposes of forfeiture proceedings under this section, a temporary restraining order may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if, in addition to the circumstances described in section 413(e)(2) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(e)(2)), the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and exigent circumstances exist that place the life or health of any person in danger.
 
 &emsp;&emsp;(B)
 

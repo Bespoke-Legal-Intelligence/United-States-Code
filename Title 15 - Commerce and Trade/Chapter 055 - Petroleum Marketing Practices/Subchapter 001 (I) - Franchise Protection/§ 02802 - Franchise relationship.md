@@ -76,7 +76,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 &emsp;(C) A failure by the franchisee to operate the marketing premises in a clean, safe, and healthful manner, if the franchisee failed to do so on two or more previous occasions and the franchisor notified the franchisee of such failures.
 
-&emsp;(D) In the case of any franchise entered into prior to June 19, 1978, (the unexpired term of which, on such date, is 3 years or longer) and, in the case of any franchise entered into or renewed on or after such date (the term of which was 3 years or longer, or with respect to which the franchisee was offered a term of 3 years orlonger), a determination made by the franchisor in good faith and in the normal course of business, if—
+&emsp;(D) In the case of any franchise entered into prior to June 19, 1978, (the unexpired term of which, on such date, is 3 years or longer) and, in the case of any franchise entered into or renewed on or after such date (the term of which was 3 years or longer, or with respect to which the franchisee was offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business, if—
 
 &emsp;&emsp;(i) such determination is—
 
@@ -130,7 +130,7 @@ As used in subsection (b)(2)(C) of this section, the term “an event which is r
 
 &emsp;&emsp;&emsp;(i) made a bona fide offer to sell, transfer, or assign to the franchisee the interest of the franchisor in any improvements or equipment located on the premises; or
 
-&emsp;&emsp;&emsp;(ii) if applicable, offered the franchisee a right of first refusal (for at least 45 days) of an offer, made by another person, to purchase the interest of the franchisor in the improvements and equipment.
+&emsp;&emsp;&emsp;(ii) if applicable, offered the franchisee a right of first refusal (for at least 45 days)of an offer, made by another person, to purchase the interest of the franchisor in the improvements and equipment.
 
 &emsp;(5) condemnation or other taking, in whole or in part, of the marketing premises pursuant to the power of eminent domain;
 

@@ -98,7 +98,7 @@
 
 #### (A) Treatment of certain entities with authority to borrow from United States
 
-&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, any entity with statutory authority to borrow from the United States shall be treated as an instrumentality of the United States. Except inthe case of an exempt facility bond, a qualified small issue bond, and a qualified student loan bond, nothing in the preceding sentence shall be construed as treating the District of Columbia or any possession of the United States as an instrumentality of the United States.
+&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, any entity with statutory authority to borrow from the United States shall be treated as an instrumentality of the United States. Except in the case of an exempt facility bond, a qualified small issue bond, and a qualified student loan bond, nothing in the preceding sentence shall be construed as treating the District of Columbia or any possession of the United States as an instrumentality of the United States.
 
 #### (B) Federally insured deposit or account
 
@@ -436,7 +436,7 @@ The date of the enactment of this subsection, referred to in subsec. (d)(6), is 
 
 2006—Subsec. (f)(1). Pub. L. 109–222, §508(d)(1), substituted “paragraphs (2), (3), (4), and (5)” for “paragraphs (2) and (3)”.
 
-Subsec. (f)(2)(A). Pub. L. 109–222, §508(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “The requirements of this paragraph are met with respect to an issue if the issuer reasonably expects that as of the close of the 3-year period beginning on the date of issuance of the issue, at least 95 percent ofthe net proceeds of the issue (as of the close of such period) will have been used directly or indirectly to make or finance loans to ultimate borrowers.”
+Subsec. (f)(2)(A). Pub. L. 109–222, §508(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “The requirements of this paragraph are met with respect to an issue if the issuer reasonably expects that as of the close of the 3-year period beginning on the date of issuance of the issue, at least 95 percent of the net proceeds of the issue (as of the close of such period) will have been used directly or indirectly to make or finance loans to ultimate borrowers.”
 
 Subsec. (f)(4) to (6). Pub. L. 109–222, §508(b), added pars. (4) and (5) and redesignated former par. (4) as (6). Former par. (5) redesignated (7).
 

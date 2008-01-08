@@ -234,7 +234,7 @@ In this section—
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(16), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(16), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -278,7 +278,7 @@ Subsec. (b)(13) to (17). Pub. L. 108–375, §3602(9), added pars. (13) to (17).
 
 Subsec. (d). Pub. L. 108–375, §3602(10), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “In this section, the term ‘State’ includes the District of Columbia and the Commonwealth of Puerto Rico.”
 
-Subsec. (e)(1). Pub. L. 108–375, §3602(11), substituted “There are authorized to be appropriated for the purposes of this section $900,000,000 for fiscal year 2005, $950,000,000 for fiscal year 2006, and $1,000,000,000 for each of the fiscal years 2007 through 2009.” for “There are authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section.”
+Subsec. (e)(1). Pub. L. 108–375, §3602(11), substituted “There are authorized to be appropriated for the purposes of this section $900,000,000 for fiscal year 2005, $950,000,000 for fiscal year 2006, and $1,000,000,000 for each of the fiscal years 2007 through 2009.” for “Thereare authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section.”
 
 2003—Subsec. (b)(2). Pub. L. 108–169, §205(a)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 

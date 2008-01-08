@@ -28,7 +28,7 @@
 
 #### (b) Initiation of investigations
 
-By no later than the date which is 21 days after the date on which a report is submitted to the appropriate congressional committees under subsection (a)(1) of this section, the Trade Representative shall initiate under section 2412(b)(1) of this title investigations under this subchapter with respect to all of the priority foreign country practices identified.
+By no later than the date which is 21 days after the date on which a report is submitted to the appropriate congressional committees under subsection (a)(1) of this section, the Trade Representative shall initiate under section 2412(b)(1)of this title investigations under this subchapter with respect to all of the priority foreign country practices identified.
 
 #### (c) Agreements for elimination of barriers
 
@@ -82,7 +82,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 #### Part I: Identification of Trade Expansion Priorities
 
-Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the submission of the National Trade Estimate Report required by section 181(b) of the Act (19 U.S.C. 2241(b)) for 1999, 2000, and 2001, the United States Trade Representative (Trade Representative) shall review United States trade expansion priorities and identify priority foreign country practices, the elimination of which is likely to have the most significant potential to increase United States exports, either directly or through the establishment of a beneficial precedent. The Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, and shall publish in the Federal Register, a report on the priority foreign country practices identified.
+Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the submission of the National Trade Estimate Report required by section 181(b) of the Act (19 U.S.C. 2241(b)) for 1999, 2000, and 2001, the United States Trade Representative (Trade Representative) shall review United States trade expansion priorities and identify priority foreign country practices, the elimination of which is likely to have the most significant potential to increase United States exports, either directly or through the establishment of a beneficial precedent.The Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, and shall publish in the Federal Register, a report on the priority foreign country practices identified.
 
 (b) In identifying priority foreign country practices under paragraph (a) of this section, the Trade Representative shall take into account all relevant factors, including:
 
@@ -102,7 +102,7 @@ Sec. 3. <i>Initiation of Investigations</i>. Within 90 days of the submission of
 
 #### Part II: Identification of Discriminatory Government Procurement Practices
 
-Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the submission of the National Trade Estimate Report for 1999, 2000, and 2001, the Trade Representative shall submit to the Committees on Finance and on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committees on Ways and Means and Government Reform and Oversight of the House of Representatives, and shall publish in the Federal Register, a report on the extent to which foreign countries discriminate against U.S. products or services in making government procurements.
+Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the submission of the National Trade Estimate Report for 1999, 2000, and 2001, the Trade Representative shall submit to the Committees on Finance and on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committees on Ways and Means and Government Reform and Oversight \[now Committee on Oversight and Government Reform\] of the House of Representatives, and shall publish in the Federal Register, a report on the extent to which foreign countries discriminate against U.S. products or services in making government procurements.
 
 (b) In the report, the Trade Representative shall identify countries that:
 

@@ -112,5 +112,5 @@ Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1382, provided in part: “T
 
 #### Termination of Trust Territory of the Pacific Islands
 
-For termination of Trust Territory of the Pacific Islands and the Trusteeship Agreement, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+For termination of Trust Territory of the Pacific Islands and the Trusteeship Agreement, see note set outpreceding section 1681 of Title 48, Territories and Insular Possessions.
 

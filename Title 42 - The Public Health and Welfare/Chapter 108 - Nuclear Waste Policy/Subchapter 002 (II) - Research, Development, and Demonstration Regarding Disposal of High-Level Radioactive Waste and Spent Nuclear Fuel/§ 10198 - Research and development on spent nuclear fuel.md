@@ -16,7 +16,7 @@ To carry out the programs described in subsection (a) of this section, the Secre
 
 #### (c) Dry storage research and development
 
-(1) The consultative and technical assistance referred to in subsection (b)(2) of this section may include, but shall not be limited to, the establishment of a research and development program for the dry storage of not more than 300 metric tons of spent nuclear fuel at facilities owned by the Federal Government on January 7, 1983. The purpose of such program shall be to collect necessary data to assist the utilities involved in the licensing process.
+(1) The consultative and technical assistance referred to in subsection (b)(2) of this section may include, but shall not be limited to, the establishment of a research and development program for the dry storage of not more than 300metric tons of spent nuclear fuel at facilities owned by the Federal Government on January 7, 1983. The purpose of such program shall be to collect necessary data to assist the utilities involved in the licensing process.
 
 (2) To the extent available, and consistent with the provisions of section 10155 of this title, the Secretary shall provide spent nuclear fuel for the research and development program authorized in this subsection from spent nuclear fuel received by the Secretary for storage under section 10155 of this title. Such spent nuclear fuel shall not be subject to the provisions of section 10155(e) of this title.
 
@@ -28,7 +28,7 @@ The total contribution from the Secretary from Federal funds and the use of Fede
 
 The spent nuclear fuel storage program authorized in section 10155 of this title shall not be construed to authorize the use of research development or demonstration facilities owned by the Department unless—
 
-&emsp;(1) a period of 30 calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than 3 calendar days to a day certain)has passed after the Secretary has transmitted to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a written report containing a full and complete statement concerning (A) the facility involved; (B) any necessary modifications; (C) the cost thereof; and (D) the impact on the authorized research and development program; or
+&emsp;(1) a period of 30 calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than 3 calendar days to a day certain) has passed after the Secretary has transmitted to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a written report containing a full and complete statement concerning (A) the facility involved; (B) any necessary modifications; (C) the cost thereof; and (D) the impact on the authorized research and development program; or
 
 &emsp;(2) each such committee, before the expiration of such period, has transmitted to the Secretary a written notice to the effect that such committee has no objection to the proposed use of such facility.
 
@@ -40,5 +40,5 @@ The spent nuclear fuel storage program authorized in section 10155 of this title
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

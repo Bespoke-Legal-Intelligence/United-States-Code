@@ -2,7 +2,7 @@
 
 #### (a) Appointment; duties
 
-Within 120 days of July 29, 1975, the Secretary shall appoint and organize a National Advisory Council on Migrant Health (hereinafter in thissubsection referred to as the “Council”) which shall advise, consult with, and make recommendations to, the Secretary on matters concerning the organization, operation, selection, and funding of migrant health centers and other entities under grants and contracts under section 254b <sup>1</sup> of this title.
+Within 120 days of July 29, 1975, the Secretary shall appoint and organize a National Advisory Council on Migrant Health (hereinafter in this subsection referred to as the “Council”) which shall advise, consult with, and make recommendations to, the Secretary on matters concerning the organization, operation, selection, and funding of migrant health centers and other entities under grants and contracts under section 254b <sup>1</sup> of this title.
 
 #### (b) Membership
 
@@ -130,7 +130,7 @@ Section 7 of Pub. L. 92–218 provided that:
 
 “(a) This Act and the amendments made by this Act \[enacting sections 286a to 286g and 289<i>l</i> of this title, amending this section and sections 241, 282, 283, and 284 of this title, and enacting provisions set out as notes under sections 281 and 286 of this title\] shall take effect sixty days after the date of enactment of this Act \[Dec. 23, 1971\] or on such prior date after the date of enactment of this Act as the President shall prescribe and publish in the Federal Register.
 
-“(b) The first sentence of section 454 of the Public Health Service Act \[section 289<i>l</i> of this title\] (added by section 5 of this Act) shall apply only with respect to appointments made after the effective date of this Act (as prescribed by subsection (a)).
+“(b) The first sentence of section 454 of the Public Health Service Act \[section 289<i>l</i> of this title\] (added bysection 5 of this Act) shall apply only with respect to appointments made after the effective date of this Act (as prescribed by subsection (a)).
 
 “(c) Notwithstanding the provisions of subsection (a), members of the National Cancer Advisory Board (authorized under section 410B of the Public Health Service Act, as added by this Act) \[section 286f of this title\] may be appointed, in the manner provided for in such section, at any time after the date of enactment of this Act \[Dec. 23, 1971\]. Such officers shall be compensated from the date they first take office, at the rates provided for in such section 410B \[section 286f of this title\].”
 

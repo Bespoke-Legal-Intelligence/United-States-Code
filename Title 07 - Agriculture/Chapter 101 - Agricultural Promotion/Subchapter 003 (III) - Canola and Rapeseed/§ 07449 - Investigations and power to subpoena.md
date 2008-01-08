@@ -32,7 +32,7 @@ Process may be served on a person in the judicial district in which the person r
 
 #### (f) Hearing site
 
-The site of a hearing held under section 7447 or 7448 of this title shall be in the judicial district where the person affected by the hearing resides or has a principal place of business.
+The site of a hearing held under section 7447 or 7448 of this title shall be in the judicial districtwhere the person affected by the hearing resides or has a principal place of business.
 
 (Pub. L. 104–127, title V, §540, Apr. 4, 1996, 110 Stat. 1062.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The Secretary shall conduct in the Service, and encourage, cooperate with, and render assistance to other appropriate public authorities, scientific institutions, and scientists in the conduct of, and promote the coordination of, research, investigations, experiments, demonstrations, and studies relating to the causes, diagnosis, treatment, control, and prevention of physical and mental diseases and impairments of man, including water purification, sewagetreatment, and pollution of lakes and streams. In carrying out the foregoing the Secretary is authorized to—
+The Secretary shall conduct in the Service, and encourage, cooperate with, and render assistance to other appropriate public authorities, scientific institutions, and scientists in the conduct of, and promote the coordination of, research, investigations, experiments, demonstrations, and studies relating to the causes, diagnosis, treatment, control, and prevention of physical and mental diseases and impairments of man, including water purification, sewage treatment, and pollution of lakes and streams. In carrying out the foregoing the Secretary is authorized to—
 
 &emsp;(1) collect and make available through publications and other appropriate means, information as to, and the practical application of, such research and other activities;
 
@@ -38,7 +38,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 &emsp;(B) information concerning the nature of such exposure and the estimated number of persons exposed to such substances;
 
-&emsp;(C) a statement identifying (i) each substance contained in the list under subparagraph (A) for which no effluent, ambient, or exposure standard has been established by a Federal agency, and (ii) for each effluent, ambient, or exposure standard established by a Federal agency with respect to a substance contained in the list under subparagraph (A), the extent to which, on the basis of available medical, scientific, or other data, such standard, and the implementation of such standard by the agency, decreases the risk to public health from exposure to the substance; and
+&emsp;(C) a statement identifying (i) each substance contained in the list under subparagraph (A) for which no effluent, ambient, or exposure standard has been established by a Federal agency, and (ii) for each effluent, ambient, or exposure standard established by a Federal agency with respect to a substance contained in the list under subparagraph (A), the extent to which, on the basis of availablemedical, scientific, or other data, such standard, and the implementation of such standard by the agency, decreases the risk to public health from exposure to the substance; and
 
 &emsp;(D) a description of (i) each request received during the year involved—
 
@@ -78,13 +78,13 @@ Subsec. (c). Pub. L. 99–660 added subsec. (c).
 
 1985—Subsec. (a)(3). Pub. L. 99–158, §3(a)(5)(A), substituted “as are recommended by the advisory council to the entity of the Department supporting such projects or, in the case of mental health projects, by the National Advisory Mental Health Council; and make, upon recommendation of the advisory council to the appropriate entity of the Department or the National Advisory Mental Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research” for “as are recommended by the National Advisory Health Council, or, with respect to cancer, recommended by the National Cancer Advisory Board, or, with respect to mental health, recommended by the National Advisory Mental Health Council, or with respect to heart, blood vessel, lung, and blood diseases and blood resources, recommended by the National Heart, Lung, and Blood Advisory Council, or, with respect to dental diseases and conditions, recommended by the National Advisory Dental Research Council; and include in the grants for any such project grants of penicillin and other antibiotic compounds for use in such project; and make, upon recommendation of the National Advisory Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research: <i>Provided</i>, That such uniform percentage, not to exceed 15 per centum, as the Secretary may determine, of the amounts provided for grants for research projects for any fiscal year through the appropriations for the National Institutes of Health may be transferred from such appropriations to a separate account to be available for such research grants-in-aid for such fiscal year”.
 
-Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted “recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers” for “recommendation of the National Advisory Health Council, or, with respect to cancer, upon recommendation of the National Cancer Advisory Board, or, with respect to mental health, upon recommendation of the National Advisory Mental Health Council, or, with respect to heart, blood vessel, lung, and blood diseases and blood resources, upon recommendation of the National Heart, Lung and Blood Advisory Council, or, with respect to dental diseases and conditions, upon recommendations of the National Advisory Dental Research Council, such additional means as he deems”.
+Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted “recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers” for “recommendation of the National AdvisoryHealth Council, or, with respect to cancer, upon recommendation of the National Cancer Advisory Board, or, with respect to mental health, upon recommendation of the National Advisory Mental Health Council, or, with respect to heart, blood vessel, lung, and blood diseases and blood resources, upon recommendation of the National Heart, Lung and Blood Advisory Council, or, with respect to dental diseases and conditions, upon recommendations of the National Advisory Dental Research Council, such additional means as he deems”.
 
 1978—Pub. L. 95–622 designated existing provisions as subsec. (a), redesignated former pars. (a) to (h) as (1) to (8), respectively, substituted “Secretary” for “Surgeon General” wherever appearing, and inserted following par. (8) provisions relating to authority of Secretary to make available to individuals and entities substances and living organisms, and added subsec. (b).
 
 1976—Subsecs. (c), (h). Pub. L. 94–278 substituted “heart, blood vessel, lung, and blood diseases and blood resources” for “heart diseases” and “National Heart, Lung and Blood Advisory Council” for “National Heart and Lung Advisory Council”.
 
-1974—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted “researchprojects” for “research or research training projects” in two places, “general support of their research” for “general support of their research and research training programs” and “research grants-in-aid” for “research and research training program grants-in-aid”. Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
+1974—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted “research projects” for “research or research training projects” in two places, “general support of their research” for “general support of their research and research training programs” and “research grants-in-aid” for “research and research training program grants-in-aid”. Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
 
 Subsec. (d). Pub. L. 93–348, §104(a)(1)(C), redesignated subsec. (e) as (d).
 
@@ -152,7 +152,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 
 
 #### Female Genital Mutilation
 
-Pub. L. 104–134, title I, §101(d) \[title V, §520\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–250; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that:
+Pub. L. 104–134, title I, §101(d) \[title V, §520\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–250; renumbered title I,Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that:
 
 “(a) Congress finds that—
 
@@ -216,5 +216,51 @@ Pub. L. 97–414, §7, Jan. 4, 1983, 96 Stat. 2059, as amended by Pub. L. 109–
 
 #### Termination of Advisory Committees
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that anadvisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+#### Ex. Ord. No. 13435. Expanding Approved Stem Cell Lines in Ethically Responsible Ways
+
+Ex. Ord. No. 13435, June 20, 2007, 72 F.R. 34591, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to provide leadership with respect to research on pluripotent stem cells derived by ethically responsible techniques so that the potential of pluripotent stem cells can be explored without violating human dignity or demeaning human life, it is hereby ordered as follows:
+
+Section 1. <i>Research on Alternative Sources of Pluripotent Stem Cells</i>. (a) The Secretary of Health and Human Services (Secretary) shall conduct and support research on the isolation, derivation, production, and testing of stem cells that are capable of producing all or almost all of the cell types of the developing body and may result in improved understanding of or treatments for diseases and other adverse health conditions, but are derived without creating a human embryo for research purposes or destroying, discarding, or subjecting to harm a human embryo or fetus.
+
+(b) Within 90 days of this order, the Secretary, after such consultation with the Director of the National Institutes of Health (Director), shall issue a plan, including such mechanisms as requests for proposals, requests for applications, program announcements and other appropriate means, to implement subsection (a) of this section, that:
+
+(i) specifies and reflects a determination of the extent to which specific techniques may require additional basic or animal research to ensure that any research involving human cells using these techniques is clearly consistent with the standards established under this order and applicable law;
+
+(ii) prioritizes research with the greatest potential for clinical benefit;
+
+(iii) takes into account techniques outlined by the President's Council on Bioethics, and any other appropriate techniques and research, provided they clearly meet the standard set forth in subsection (a) of this section;
+
+(iv) renames the “Human Embryonic Stem Cell Registry” the “Human Pluripotent Stem Cell Registry;” \[sic\] and
+
+(v) adds to the registry new human pluripotent stem cell lines that clearly meet the standard set forth in subsection (a) of this section.
+
+(c) Not later than December 31 of each year, the Secretary shall report to the President on the activities carried out under this order during the past fiscal year, including a description of the research carried out or supported by the Department of Health and Human Services, including the National Institutes of Health, and other developments in the science of pluripotent stem cells not derived from human embryos.
+
+Sec. 2. <i>Policy</i>. The activities undertaken and supported by and under the direction of the Secretary shall be clearly consistent with the following policies and principles:
+
+(a) the purposes of this order are (i) to direct the Department of Health and Human Services, including the National Institutes of Health, to intensify peer reviewed research that may result in improved understanding of or treatments for diseases and other adverse health conditions, and (ii) to promote the derivation of human pluripotent stem cell lines from a variety of alternative sources while clearly meeting the standard set forth in section 1(a) of this order;
+
+(b) it is critical to establish moral and ethical boundaries to allow the Nation to move forward vigorously with medical research, while also maintaining the highest ethical standards and respecting human life and human dignity;
+
+(c) the destruction of nascent life for research violates the principle that no life should be used as a mere means for achieving the medical benefit of another;
+
+(d) human embryos and fetuses, as living members of the human species, are not raw materials to be exploited or commodities to be bought and sold; and
+
+(e) the Federal Government has a duty to exercise responsible stewardship of taxpayer funds, both supporting important medical research and respecting ethical and moral boundaries.
+
+Sec. 3. <i>Interpretation of this Order</i>. (a) For purposes of this order, the term “human embryo” shall mean any organism, not protected as a human subject under 45 CFR 46 as of the date of this order, that is derived by fertilization, parthenogenesis, cloning, or any other means from one or more human gametes or human diploid cells.
+
+(b) For purposes of this order, the term “subjecting to harm a human embryo” shall mean subjecting such an embryo to risk of injury or death greater than that allowed for research on fetuses in utero under 45 CFR 46.204(b) and section 498(b) of the Public Health Service Act (42 U.S.C. 289g(b)) as of the date of this order.
+
+(c) Nothing in this order shall be construed to affect any policy, guideline, or regulation regarding embryonic stem cell research, human cloning by somatic cell nuclear transfer, or any other research not specifically authorized by this order, or to forbid the use of existing stem cell lines deemed eligible for other federally funded research in accordance with the presidential policy decision of August 9, 2001, for research specifically authorized by this order.
+
+Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) This order is not intended to, and does not, create any right, benefit, or privilege, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

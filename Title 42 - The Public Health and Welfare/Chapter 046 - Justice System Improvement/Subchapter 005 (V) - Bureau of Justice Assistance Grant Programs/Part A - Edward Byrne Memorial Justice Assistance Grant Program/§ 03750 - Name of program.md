@@ -20,7 +20,7 @@ The Department of Justice Appropriations Authorization Act, Fiscal Years 2006 th
 
 Prior sections 3750a to 3750d were repealed by Pub. L. 109–162, title XI, §1111(b)(2), (d), Jan. 5, 2006, 119 Stat. 3101, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
 
-Section 3750a, Pub. L. 102–519, title I, §130, Oct. 25, 1992, 106 Stat. 3386, related to the purpose of former sections 3750a to 3750d, to supplement the provisions of the Edward Byrne Memorial State and Local Law Enforcement Assistance Program to help States to curb motor vehicle thefts and related violence, and authorization of grants to Anti Car Theft Committees.
+Section 3750a, Pub. L. 102–519, title I, §130, Oct. 25, 1992, 106 Stat. 3386, related to the purpose of former sections 3750a to 3750d, to supplement the provisions of the Edward Byrne Memorial State and Local Law Enforcement Assistance Program to help States to curb motorvehicle thefts and related violence, and authorization of grants to Anti Car Theft Committees.
 
 Section 3750b, Pub. L. 102–519, title I, §131, Oct. 25, 1992, 106 Stat. 3386, related to application for grants.
 

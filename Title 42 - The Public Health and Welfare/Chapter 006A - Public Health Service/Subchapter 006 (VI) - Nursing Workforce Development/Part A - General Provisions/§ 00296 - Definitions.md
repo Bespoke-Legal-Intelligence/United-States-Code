@@ -26,7 +26,7 @@ As used in this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “accredited” when applied to anyprogram of nurse education means a program accredited by a recognized body or bodies, or by a State agency, approved for such purpose by the Secretary of Education and when applied to a hospital, school, college, or university (or a unit thereof) means a hospital, school, college, or university (or a unit thereof) which is accredited by a recognized body or bodies, or by a State agency, approved for such purpose by the Secretary of Education. For the purpose of this paragraph, the Secretary of Education shall publish a list of recognized accrediting bodies, and of State agencies, which the Secretary of Education determines to be reliable authority as to the quality of education offered.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “accredited” when applied to any program of nurse education means a program accredited by a recognized body or bodies, or by a State agency, approved for such purpose by the Secretary of Education and when applied to a hospital, school, college, or university (or a unit thereof) means a hospital, school, college, or university (or a unit thereof) which is accredited by a recognized body or bodies, or by a State agency, approved for such purpose by the Secretary of Education. For the purpose of this paragraph, the Secretary of Education shall publish a list of recognized accrediting bodies, and of State agencies, which the Secretary of Education determines to be reliable authority as to the quality of education offered.
 
 #### (B) New programs
 

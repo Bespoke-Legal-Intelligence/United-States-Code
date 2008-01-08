@@ -70,7 +70,7 @@ Relief.—In any action under subparagraph (A), the court may award appropriate 
 
 Rules of Construction.—Nothing in this section shall be construed—
 
-&emsp;(1) to prohibit any expressive conduct (including peaceful picketing or other peaceful demonstration) protected from legal prohibition by the First Amendment to the Constitution;
+&emsp;(1) to prohibit any expressive conduct (including peaceful picketing or other peacefuldemonstration) protected from legal prohibition by the First Amendment to the Constitution;
 
 &emsp;(2) to create new remedies for interference with activities protected by the free speech or free exercise clauses of the First Amendment to the Constitution, occurring outside a facility, regardless of the point of view expressed, or to limit any existing legal remedies for such interference;
 

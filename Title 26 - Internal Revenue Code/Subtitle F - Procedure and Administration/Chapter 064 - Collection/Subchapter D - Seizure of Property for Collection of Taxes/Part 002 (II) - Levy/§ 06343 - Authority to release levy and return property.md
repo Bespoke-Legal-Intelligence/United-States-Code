@@ -44,7 +44,7 @@ Interest shall be allowed and paid at the overpayment rate established under sec
 
 &emsp;(1) in a case described in subsection (b)(2), from the date the Secretary receives the money to a date (to be determined by the Secretary) preceding the date of return by not more than 30 days, or
 
-&emsp;(2) in a case described in subsection (b)(3), from the date of the sale of the property to a date (to be determined by the Secretary) preceding the date of return by not more than 30 days.
+&emsp;(2) in a case described in subsection (b)(3), from the date of the sale of the property to adate (to be determined by the Secretary) preceding the date of return by not more than 30 days.
 
 #### (d) Return of property in certain cases
 

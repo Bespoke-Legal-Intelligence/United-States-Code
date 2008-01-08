@@ -10,7 +10,7 @@ If—
 
 &emsp;(3) five or fewer individuals who are in control of a corporation transfer, directly or indirectly, after June 12, 1963, property (other than money) to a transferee corporation,
 
-> and the transferee corporation was created for the purpose of acquiring such property or was not actively engaged in business at the time of such acquisition, and if after such transfer the transferor or transferors are in control of such transferee corporation during any part of the taxable year of such transferee corporation, then for such taxable year of such transferee corporation the Secretary may (except as may be otherwise determined under subsection (c)) disallow the benefits of the rates contained in section 11(b) which are lower than the highest rate specified in such section, or the accumulated earnings credit provided in paragraph (2) or (3) of section 535(c), unless such transferee corporation shall establish by the clear preponderance of the evidence that the securing of such benefits or credit was not a major purpose of such transfer.
+> and the transferee corporation was created for the purpose of acquiring such property or was not actively engaged in business at the time of such acquisition, and if after such transfer the transferor or transferors are in control of such transferee corporation during any part of the taxable year of such transferee corporation, then for such taxable year of such transferee corporation the Secretary may (except as may be otherwise determined under subsection (c))disallow the benefits of the rates contained in section 11(b) which are lower than the highest rate specified in such section, or the accumulated earnings credit provided in paragraph (2) or (3) of section 535(c), unless such transferee corporation shall establish by the clear preponderance of the evidence that the securing of such benefits or credit was not a major purpose of such transfer.
 
 #### (b) Control
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1964 Amendment
 
-Section 235(d) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) and (c) \[enactingsections 1561 to 1563 of this title and amending sections 269, 441, and 802 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[amending this section\] shall apply with respect to transfers made after June 12, 1963.”
+Section 235(d) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) and (c) \[enacting sections 1561 to 1563 of this title and amending sections 269, 441, and 802 of this title\] shall apply with respect to taxable years ending after December 31, 1963. The amendment made by subsection (b) \[amending this section\] shall apply with respect to transfers made after June 12, 1963.”
 
 #### Effective Date of 1958 Amendment
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 85–866 applicable with respect to taxable years beginning
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

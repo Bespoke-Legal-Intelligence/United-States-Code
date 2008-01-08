@@ -60,7 +60,7 @@ In this subchapter:
 
 #### (9) Person
 
-&emsp;The term “person” has the meaning given the term in section 101 of the ComprehensiveEnvironmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
+&emsp;The term “person” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
 #### (10) Pollutant or contaminant
 
@@ -72,7 +72,7 @@ In this subchapter:
 
 #### (12) Release
 
-&emsp;The term “release” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
+&emsp;The term “release” has the meaning given the term in section 101 of the ComprehensiveEnvironmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
 #### (13) Response action
 

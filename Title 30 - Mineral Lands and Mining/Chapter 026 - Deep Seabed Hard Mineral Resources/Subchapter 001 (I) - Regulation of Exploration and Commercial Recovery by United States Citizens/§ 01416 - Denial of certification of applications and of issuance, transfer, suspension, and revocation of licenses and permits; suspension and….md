@@ -6,7 +6,7 @@
 
 (2) The Administrator may—
 
-&emsp;(A) in addition to, or in lieu of, the imposition of any civil penalty under section 1462(a) of this title, or in addition to the imposition of any fine under section 1463 of this title, suspend or revoke any license or permit issued under this chapter, or suspend or modify any particular activities under such a license or permit, if the licensee or permittee, as the case may be, substantially fails to comply with any provision of this chapter, any regulation issued under this chapter, or any term, condition, or restriction of the license or permit; and
+&emsp;(A) in addition to, or in lieu of, the imposition of any civil penalty under section 1462(a) of this title, or in addition to the imposition of any fine under section 1463 of this title, suspend or revoke any license or permit issued under this chapter, or suspend or modify anyparticular activities under such a license or permit, if the licensee or permittee, as the case may be, substantially fails to comply with any provision of this chapter, any regulation issued under this chapter, or any term, condition, or restriction of the license or permit; and
 
 &emsp;(B) suspend or modify particular activities under any license or permit, if the President determines that such suspension or modification is necessary (i) to avoid any conflict with any international obligation of the United States established by any treaty or convention in force with respect to the United States, or (ii) to avoid any situation which may reasonably be expected to lead to a breach of international peace and security involving armed conflict.
 
@@ -16,7 +16,7 @@
 
 &emsp;(B) if the reason for the proposed denial, suspension, modification, or revocation is a deficiency which the applicant, licensee, or permittee can correct, affords the applicant, licensee, or permittee a reasonable time, but not more than 180 days from the date of the notice or such longer period as the Administrator may establish for good cause shown, to correct such deficiency.
 
-(4) The Administrator shall deny issuance or transfer of, or suspend or revoke, any license or permit or order the suspension or modificationof particular activities under a license or permit—
+(4) The Administrator shall deny issuance or transfer of, or suspend or revoke, any license or permit or order the suspension or modification of particular activities under a license or permit—
 
 &emsp;(A) on the thirtieth day after the date of the notice given to the applicant, licensee, or permittee under paragraph (3)(A) unless before such day the applicant, licensee, or permittee requests a review of the proposed denial, suspension, modification, or revocation; or
 

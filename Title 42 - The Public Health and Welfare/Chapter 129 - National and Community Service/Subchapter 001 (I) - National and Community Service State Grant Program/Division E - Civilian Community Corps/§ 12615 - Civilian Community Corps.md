@@ -16,7 +16,7 @@ Upon the establishment of the Civilian Community Corps Demonstration Program, th
 
 #### (3) Application for membership
 
-&emsp;To be selected to become a Corps member an individual shall submit an application to theDirector or to any other office as the Director may designate, at such time, in such manner, and containing such information as the Director shall require. At a minimum, the application shall contain information about the work experience of the applicant and sufficient information to enable the Director, or the superintendent of the appropriate camp, to determine whether selection of the applicant for membership in the Corps is appropriate.
+&emsp;To be selected to become a Corps member an individual shall submit an application to the Director or to any other office as the Director may designate, at such time, in such manner, and containing such information as the Director shall require. At a minimum, the application shall contain information about the work experience of the applicant and sufficient information to enable the Director, or the superintendent of the appropriate camp, to determine whether selection of the applicant for membership in the Corps is appropriate.
 
 #### (c) Organization of Corps into units
 

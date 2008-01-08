@@ -20,7 +20,7 @@ The first report under subsections (a), (b), and (c) shall be submitted not late
 
 #### Prior Provisions
 
-A prior section 403A of act July 1, 1944, was renumbered section 403C and is classified to section 283a–3 of this title.
+A prior section 403A of act July 1, 1944, was renumbered section 403D and is classified to section 283a–3 of this title.
 
 #### Effective Date
 

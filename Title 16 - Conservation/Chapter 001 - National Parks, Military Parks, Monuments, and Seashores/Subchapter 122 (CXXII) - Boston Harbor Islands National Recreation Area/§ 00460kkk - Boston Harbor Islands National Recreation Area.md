@@ -34,7 +34,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(i) The areas depicted on the map referenced in subparagraph (A).
 
-&emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in the city of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
+&emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in thecity of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
 
 #### (3) Land acquisition
 
@@ -84,7 +84,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(B) One individual, appointed by the Commandant of the Coast Guard <sup>1</sup>
 
-&emsp;&emsp;(C) Two individuals, appointed by the Secretary, after consideration of recommendations by the Governor of Massachusetts, to represent the Department of EnvironmentalManagement and the Metropolitan District Commission.
+&emsp;&emsp;(C) Two individuals, appointed by the Secretary, after consideration of recommendations by the Governor of Massachusetts, to represent the Department of Environmental Management and the Metropolitan District Commission.
 
 &emsp;&emsp;(D) One individual, appointed by the Secretary, after consideration of recommendations by the Chair, to represent the Massachusetts Port Authority.
 
@@ -162,7 +162,7 @@ For the purposes of this section—
 
 #### (1) In general
 
-&emsp;Within three years after November 12, 1996, the Partnership shall submit to the Secretarya management plan for the recreation area to be developed and implemented by the Partnership.
+&emsp;Within three years after November 12, 1996, the Partnership shall submit to the Secretary a management plan for the recreation area to be developed and implemented by the Partnership.
 
 #### (2) Contents of plan
 
@@ -242,7 +242,7 @@ For the purposes of this section—
 
 #### (2) Matching requirement
 
-&emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
+&emsp;Amounts appropriated in any fiscal year to carry out this section may only be expendedon a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
 (Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567.)
 
@@ -271,4 +271,8 @@ Subsec. (g)(1). Pub. L. 106–176, §126(5), substituted “and revenue-raising 
 Subsec. (h)(2). Pub. L. 106–176, §126(6), substituted “ratio” for “ration”.
 
 1998—Subsec. (c)(3). Pub. L. 105–355 added par. (3).
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

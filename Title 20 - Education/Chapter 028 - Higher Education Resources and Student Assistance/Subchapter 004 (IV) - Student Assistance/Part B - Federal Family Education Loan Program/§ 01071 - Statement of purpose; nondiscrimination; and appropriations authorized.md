@@ -38,7 +38,7 @@ For the purpose of carrying out this part—
 
 The program established under this part shall be referred to as the “Robert T. Stafford Federal Student Loan Program”. Loans made pursuant to sections 1077 and 1078 of this title shall be known as “Federal Stafford Loans”.
 
-(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673; Pub. L. 109–171, title VIII, §8004(a), Feb. 8, 2006, 120 Stat. 158.)
+(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat.1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673; Pub. L. 109–171, title VIII, §8004(a), Feb. 8, 2006, 120 Stat. 158.)
 
 #### References in Text
 

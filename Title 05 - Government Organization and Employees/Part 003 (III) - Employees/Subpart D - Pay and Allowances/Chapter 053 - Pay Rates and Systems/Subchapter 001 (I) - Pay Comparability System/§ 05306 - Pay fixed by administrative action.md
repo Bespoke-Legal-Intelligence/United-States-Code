@@ -14,7 +14,7 @@
 
 > may be adjusted, by the appropriate authority concerned, effective at the beginning of the first applicable pay period commencing on or after the day on which a pay adjustment becomes effective under section 5303 (or prior provision of law), by whichever of the following methods the appropriate authority concerned considers appropriate—
 
-&emsp;(i) by an amount or amounts not in excess of the pay adjustment provided under section 5303 for corresponding rates of pay in the appropriate schedule or scale of pay;
+&emsp;(i) by an amount or amounts not in excess of the pay adjustment provided under section5303 for corresponding rates of pay in the appropriate schedule or scale of pay;
 
 &emsp;(ii) if there are no corresponding rates of pay, by an amount or amounts equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to the amount of the pay adjustment provided under section 5303; or
 

@@ -12,7 +12,7 @@ A contact lens prescription shall expire—
 
 #### (b) Special rules for prescriptions of less than 1 year
 
-If a prescription expires in less than 1 year, the reasons for the judgment referred to in subsection (a)(3) shall be documented in the patient's medical record. In no circumstance shall the prescription expiration date be less than the period of time recommended by the prescriberfor a reexamination of the patient that is medically necessary.
+If a prescription expires in less than 1 year, the reasons for the judgment referred to in subsection (a)(3) shall be documented in the patient's medical record. In no circumstance shall the prescription expiration date be less than the period of time recommended by the prescriber for a reexamination of the patient that is medically necessary.
 
 #### (c) Definition
 

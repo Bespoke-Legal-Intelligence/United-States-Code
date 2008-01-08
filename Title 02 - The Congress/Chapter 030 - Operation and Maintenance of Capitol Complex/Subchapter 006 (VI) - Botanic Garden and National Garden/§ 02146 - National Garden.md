@@ -14,7 +14,7 @@ The Architect of the Capitol, subject to the direction of the Joint Committee on
 
 (2) The Secretary of the Treasury shall invest any portion of the account designated in paragraph (1) that, as determined by the Architect, is not required to meet current expenses. Each investment shall be made in an interest-bearing obligation of the United States or an obligation guaranteed both as to principal and interest by the United States that, as determined by the Architect, has a maturity date suitable for the purposes of the account. The Secretary of the Treasury shall credit interest earned on the obligations to the account.
 
-(3) Receipts, obligations, and expenditures of funds under this section shall be included in annual estimates submitted by the Architect for the operation and maintenance of the Botanic Garden and such funds shall be expended by the Architect, without regard to section 5 of title 41, for the purposes of this section after approval in appropriation Acts. All such sums shall remain available until expended, without fiscal year limitation.
+(3) Receipts, obligations, and expenditures of funds under this section shall be included in annual estimates submitted by the Architect for the operation and maintenance of the Botanic Garden and such funds shall be expended by the Architect, without regard to section 5 of title 41,for the purposes of this section after approval in appropriation Acts. All such sums shall remain available until expended, without fiscal year limitation.
 
 #### (c) Donations of personal services
 
@@ -58,7 +58,7 @@ Pub. L. 102–392, title II, §201, Oct. 6, 1992, 106 Stat. 1716, as amended by 
 
 “(a) Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c) \[now 2 U.S.C. 2146\], not more than $16,500,000 shall be accepted and not more than $16,500,000 of the amounts accepted shall be available for obligation by the Architect of the Capitol for constructing, equipping, and maintaining the National Garden.
 
-“(b) The Architect of the Capitol is authorized to solicit, receive, accept, and hold amounts under section 307E(a)(2) of the Legislative Branch AppropriationsAct, 1989 (40 U.S.C. 216c(a)(2)) \[now 2 U.S.C. 2146(a)(2)\] in excess of the $16,500,000 authorized under subsection (a), but such amounts (and any interest thereon) shall not be expended by the Architect without approval in appropriation Acts as required under section 307E(b)(3) of such Act (40 U.S.C. 216c(b)(3)) \[now 2 U.S.C. 2146(b)(3)\].”
+“(b) The Architect of the Capitol is authorized to solicit, receive, accept, and hold amounts under section 307E(a)(2) of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c(a)(2)) \[now 2 U.S.C. 2146(a)(2)\] in excess of the $16,500,000 authorized under subsection (a), but such amounts (and any interest thereon) shall not be expended by the Architect without approval in appropriation Acts as required under section 307E(b)(3) of such Act (40 U.S.C. 216c(b)(3)) \[now 2 U.S.C. 2146(b)(3)\].”
 
 #### Renovation of Conservatory of Botanic Garden
 

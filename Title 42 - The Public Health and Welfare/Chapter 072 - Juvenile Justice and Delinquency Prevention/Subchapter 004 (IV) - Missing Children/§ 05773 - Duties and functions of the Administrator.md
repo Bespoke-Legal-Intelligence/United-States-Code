@@ -88,7 +88,7 @@ The Administrator, either by making grants to or entering into contracts with pu
 
 Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
-(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172.)
+(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L.107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172.)
 
 #### Prior Provisions
 

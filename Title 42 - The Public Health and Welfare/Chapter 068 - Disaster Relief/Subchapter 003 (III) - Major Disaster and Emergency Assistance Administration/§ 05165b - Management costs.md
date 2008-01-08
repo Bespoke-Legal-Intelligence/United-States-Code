@@ -2,7 +2,7 @@
 
 #### (a) Definition of management cost
 
-In this section, the term “management cost” includes any indirect cost, any administrativeexpense, and any other expense not directly chargeable to a specific project under a major disaster, emergency, or disaster preparedness or mitigation activity or measure.
+In this section, the term “management cost” includes any indirect cost, any administrative expense, and any other expense not directly chargeable to a specific project under a major disaster, emergency, or disaster preparedness or mitigation activity or measure.
 
 #### (b) Establishment of management cost rates
 

@@ -4,7 +4,7 @@ In furtherance of the purposes of sections 398 and 398a of this title, providing
 
 North Offshore Area
 
-Beginning at the hereinafter lettered point A on the shore of Cruz Bay, a corner in the Virgin Islands National Park boundary, being also a corner of lot F, Cruz Bay, added to the park by order of designation signed June 29, 1960, by the Assistant Secretary of the Interior pursuant to sections 398 and 398a of this title, and published in the Federal Register of July 7, 1960, the said corner being the terminus of the course recited therein as “north 58 degrees 50 minutes west a distance of 20.0 feet, more or less, along Government land to a point;” for the third call in the metes and bounds description lot F, Cruz Bay.
+Beginning at the hereinafter lettered point A on the shore of Cruz Bay, a corner in the Virgin Islands National Park boundary, being also a corner of lot F, Cruz Bay, added to the park byorder of designation signed June 29, 1960, by the Assistant Secretary of the Interior pursuant to sections 398 and 398a of this title, and published in the Federal Register of July 7, 1960, the said corner being the terminus of the course recited therein as “north 58 degrees 50 minutes west a distance of 20.0 feet, more or less, along Government land to a point;” for the third call in the metes and bounds description lot F, Cruz Bay.
 
 From the initial point A, distances in nautical miles, along direct courses between the hereinafter lettered points at geographic positions (latitudes north, longitudes west):
 

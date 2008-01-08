@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term “weapon of mass destruction” means any weapon or device that is intended, or has the capability, to cause death or serious bodily injury to a significant number of people through the release, dissemination, or impact of—
+&emsp;(1) The term “weapon of mass destruction” means any weapon or device that is intended, or has the capability, to cause death or serious bodily injury to a significant number of peoplethrough the release, dissemination, or impact of—
 
 &emsp;&emsp;(A) toxic or poisonous chemicals or their precursors;
 

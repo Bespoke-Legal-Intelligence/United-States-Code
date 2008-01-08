@@ -132,5 +132,5 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Regulations
 
-Secretary of Defense to prescribe regulations required for purposes of this section, as amended by Pub. L. 109–364, not later than Mar. 1, 2007, see section 673(d) of Pub. L. 109–364, set out as a note under section 4837 of this title.
+Secretary of Defense to prescribe regulations required for purposes of this section, as amended by Pub.L. 109–364, not later than Mar. 1, 2007, see section 673(d) of Pub. L. 109–364, set out as a note under section 4837 of this title.
 

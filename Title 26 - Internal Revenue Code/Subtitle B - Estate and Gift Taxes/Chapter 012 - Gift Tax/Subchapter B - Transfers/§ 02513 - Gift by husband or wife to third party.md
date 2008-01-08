@@ -18,7 +18,7 @@
 
 #### (2) Time
 
-&emsp;Such consent may be so signified at any time after the close of the calendar year inwhich the gift was made, subject to the following limitations—
+&emsp;Such consent may be so signified at any time after the close of the calendar year in which the gift was made, subject to the following limitations—
 
 &emsp;&emsp;(A) The consent may not be signified after the 15th day of April following the close of such year, unless before such 15th day no return has been filed for such year by either spouse, in which case the consent may not be signified after a return for such year is filed by either spouse.
 

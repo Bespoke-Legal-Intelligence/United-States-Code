@@ -60,7 +60,7 @@ In implementing subsection (a) of this section, the Secretary—
 
 #### (2) Multiple owners
 
-&emsp;If more than one Indian owner requests an interest under paragraph (1), the Secretaryshall convey the interest to the Indian owner who owns the largest percentage of the undivided interest in the parcel of trust or restricted land involved.
+&emsp;If more than one Indian owner requests an interest under paragraph (1), the Secretary shall convey the interest to the Indian owner who owns the largest percentage of the undivided interest in the parcel of trust or restricted land involved.
 
 #### (3) Limitation
 

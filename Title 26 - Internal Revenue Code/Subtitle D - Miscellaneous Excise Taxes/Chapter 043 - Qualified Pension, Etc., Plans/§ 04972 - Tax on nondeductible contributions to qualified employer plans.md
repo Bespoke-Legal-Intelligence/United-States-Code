@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;In determining the amount of nondeductible contributions for any taxable year, there shall not be taken into account—
 
-&emsp;&emsp;(A) so much of the contributions to 1 or more defined contribution plans which arenot deductible when contributed solely because of section 404(a)(7) as does not exceed the amount of contributions described in section 401(m)(4)(A), or
+&emsp;&emsp;(A) so much of the contributions to 1 or more defined contribution plans which are not deductible when contributed solely because of section 404(a)(7) as does not exceed the amount of contributions described in section 401(m)(4)(A), or
 
 &emsp;&emsp;(B) so much of the contributions to a simple retirement account (within the meaning of section 408(p)) or a simple plan (within the meaning of section 401(k)(11)) which are not deductible when contributed solely because such contributions are not made in connection with a trade or business of the employer.
 
@@ -222,7 +222,7 @@ For special rules on applicability of amendments by subtitles A (§§101–107) 
 
 #### Increase in Amount for Plan Termination Insurance Under Employee Retirement Insurance Security Act of 1974
 
-Section 1011A(e)(5) of Pub. L. 100–647 provided that: “In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) by which, as of the close of the plan year with or within which such taxable year begins—
+Section 1011A(e)(5) of Pub. L. 100–647 provided that: “In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) bywhich, as of the close of the plan year with or within which such taxable year begins—
 
 &emsp;“(A) the liabilities of such plan (determined as if the plan had terminated as of such time), exceed
 

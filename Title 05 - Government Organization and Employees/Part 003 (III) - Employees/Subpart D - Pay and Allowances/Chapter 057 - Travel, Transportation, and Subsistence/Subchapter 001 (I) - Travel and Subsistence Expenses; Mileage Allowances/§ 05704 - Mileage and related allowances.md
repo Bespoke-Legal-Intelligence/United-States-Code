@@ -50,7 +50,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1994—Pub. L. 103–329 amended text generally. Prior to amendment, text read as follows:
 
-“(a) Under regulations prescribed under section 5707 of this title, an employee who is engaged on officialbusiness for the Government is entitled to not in excess of—
+“(a) Under regulations prescribed under section 5707 of this title, an employee who is engaged on official business for the Government is entitled to not in excess of—
 
 &emsp;“(1) 20 cents a mile for the use of a privately owned motorcycle;
 

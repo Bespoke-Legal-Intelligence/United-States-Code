@@ -100,7 +100,7 @@ The changes correct typographical errors.
 
 1985—Par. (1). Pub. L. 99–145 inserted “and stable” after “permanent nature”.
 
-1980—Par. (3)(B)(iv). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982,except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect”.
+1980—Par. (3)(B)(iv). Pub. L. 96–513 substituted “after September 14, 1978” for “during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect”.
 
 Pub. L. 96–343 added cl. (iv).
 

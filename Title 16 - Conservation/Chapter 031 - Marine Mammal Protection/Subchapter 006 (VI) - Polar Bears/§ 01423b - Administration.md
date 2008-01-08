@@ -32,7 +32,7 @@ The Secretary, acting through the Director of the United States Fish and Wildlif
 
 #### (2) Ordinances and regulations
 
-&emsp;If necessary to carry out this subchapter and the Agreement, and to improve compliancewith any annual taking limit or other restriction on taking adopted by the Commission and implemented by the Secretary in accordance with this subchapter, the Secretary may promulgate regulations that adopt any ordinance or regulation that restricts the taking of polar bears for subsistence purposes if the ordinance or regulation has been promulgated by the Alaska Nanuuq Commission.
+&emsp;If necessary to carry out this subchapter and the Agreement, and to improve compliance with any annual taking limit or other restriction on taking adopted by the Commission and implemented by the Secretary in accordance with this subchapter, the Secretary may promulgate regulations that adopt any ordinance or regulation that restricts the taking of polar bears for subsistence purposes if the ordinance or regulation has been promulgated by the Alaska Nanuuq Commission.
 
 (Pub. L. 92–522, title V, §503, as added Pub. L. 109–479, title IX, §902(a), Jan. 12, 2007, 120 Stat. 3662.)
 

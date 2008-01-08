@@ -84,6 +84,10 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(2),
 
 1996—Subsec. (e). Pub. L. 104–287 substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.

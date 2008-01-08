@@ -2,11 +2,11 @@
 
 #### (a) Fisheries disaster relief
 
-(1) At the discretion of the Secretary or at the request of the Governor of an affected State ora fishing community, the Secretary shall determine whether there is a commercial fishery failure due to a fishery resource disaster as a result of—
+(1) At the discretion of the Secretary or at the request of the Governor of an affected State or a fishing community, the Secretary shall determine whether there is a commercial fishery failure due to a fishery resource disaster as a result of—
 
 &emsp;(A) natural causes;
 
-&emsp;(B) man-made causes beyond the control of fishery managers to mitigate through conservation and management measures, including regulatory restrictions (including those imposed as a result of judicial action) imposed to protect human health or the marine environment; or
+&emsp;(B) man-made causes beyond the control of fishery managers to mitigate through conservation and management measures, including regulatory restrictions (including those imposed as a result of judicial action) imposedto protect human health or the marine environment; or
 
 &emsp;(C) undetermined causes.
 
@@ -134,11 +134,11 @@ Basis for recommendations.—The Secretary shall base the recommendations made w
 
 #### (4) Participation contracts
 
-&emsp;The Secretary shall contract with each person participating in a program, and each such contract shall, in addition to including suchother matters as the Secretary deems necessary and appropriate to effectively implement each program (including penalties for contract non-performance) be consistent with the framework and implementing regulations and all other applicable law.
+&emsp;The Secretary shall contract with each person participating in a program, and each such contract shall, in addition to including such other matters as the Secretary deems necessary and appropriate to effectively implement each program (including penalties for contract non-performance) be consistent with the framework and implementing regulations and all other applicable law.
 
 #### (5) Reduction auctions
 
-&emsp;Each program not involving fair market assessment shall involve a reduction auction that scores the reduction price of each bid offer by the data relevant to each bidder under an appropriate fisheries productivity factor. If the Secretary accepts bids, the Secretary shall accept responsive bids in the rank order of their bid scores, starting with the bid whose reduction price is the lowest percentage of the productivity factor, and successively accepting each additional responsive bid in rank order until either there are no more responsive bids or acceptance of the next bid would cause the total value of bids accepted to exceed the amount of funds available for the program.
+&emsp;Each program not involving fair market assessment shall involve a reduction auction that scores the reduction price of each bid offer by the data relevant to each bidder under an appropriate fisheries productivity factor. If the Secretary accepts bids, the Secretary shallaccept responsive bids in the rank order of their bid scores, starting with the bid whose reduction price is the lowest percentage of the productivity factor, and successively accepting each additional responsive bid in rank order until either there are no more responsive bids or acceptance of the next bid would cause the total value of bids accepted to exceed the amount of funds available for the program.
 
 #### (6) Bid invitations
 
@@ -186,7 +186,7 @@ Pub. L. 109–479, title I, §112(b), Jan. 12, 2007, 120 Stat. 3601, provided th
 
 #### Study of Federal Investment in Fisheries
 
-Section 116(b) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The Secretary of Commerce shall establish a task force comprised of interested parties to study and report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives within 2 years of the date of enactment of this Act \[Oct. 11, 1996\] on the role of the Federal Government in—
+Pub. L. 104–297, title I, §116(b), Oct. 11, 1996, 110 Stat. 3603, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The Secretary of Commerce shall establish a task force comprised of interested parties to study and report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives within 2 years of the date of enactment of this Act \[Oct. 11, 1996\] on the role of the Federal Government in—
 
 &emsp;“(1) subsidizing the expansion and contraction of fishing capacity in fishing fleets managed under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.); and
 

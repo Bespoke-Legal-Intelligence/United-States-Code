@@ -9,7 +9,7 @@
 
 #### Amendments
 
-2006—Pub. L. 109–177, title VI, §602(b)(2), Mar. 9, 2006, 120 Stat. 252, substituted “Restricted building or grounds” for “Temporary residences and offices of the President and others” in item 1752.
+2006—Pub. L. 109–177, title VI, §602(b)(2), Mar. 9, 2006, 120 Stat. 252, substituted “Restricted building orgrounds” for “Temporary residences and offices of the President and others” in item 1752.
 
 1994—Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “KIDNAPPING” for “KIDNAPING” in chapter heading, to reflect the probable intent of Congress.
 

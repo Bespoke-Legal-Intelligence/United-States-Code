@@ -2,7 +2,7 @@
 
 (a)
 
-Applications.—(1) A person may apply to the Secretary of Transportation for a license or transfer of a license under this chapter in the form and way the Secretary prescribes. Consistent with the public health and safety, safety ofproperty, and national security and foreign policy interests of the United States, the Secretary, not later than 180 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D),<sup>1</sup> shall issue or transfer a license if the Secretary decides in writing that the applicant complies, and will continue to comply, with this chapter and regulations prescribed under this chapter. The Secretary shall inform the applicant of any pending issue and action required to resolve the issue if the Secretary has not made a decision not later than 120 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D).<sup>1</sup> The Secretary shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a written notice not later than 30 days after any occurrence when the Secretary has not taken action on a license application within the deadline established by this subsection.
+Applications.—(1) A person may apply to the Secretary of Transportation for a license or transfer of a license under this chapter in the form and way the Secretary prescribes. Consistent with the public health and safety, safety of property, and national security and foreign policy interests of the United States, the Secretary, not later than 180 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D),<sup>1</sup> shall issue or transfer a license if the Secretary decides in writing that the applicant complies, and will continue to comply, with this chapter and regulations prescribed under this chapter. The Secretary shall inform the applicant of any pending issue and action required to resolve the issue if the Secretary has not made a decision not later than 120 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D).<sup>1</sup> The Secretary shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a written notice not later than 30 days after any occurrence when the Secretary has not taken action on a license application within the deadline established by this subsection.
 
 (2) In carrying out paragraph (1), the Secretary may establish procedures for safety approvals of launch vehicles, reentry vehicles, safety systems, processes, services, or personnel (including approval procedures for the purpose of protecting the health and safety of crews and space flight participants, to the extent permitted by subsections (b) and (c)) that may be used in conducting licensed commercial space launch or reentry activities.
 
@@ -154,7 +154,7 @@ Subsec. (d). Pub. L. 108–492, §2(c)(14), (15), redesignated subsec. (c) as (d
 
 1998—Subsec. (a). Pub. L. 105–303, §102(a)(6)(B), substituted “accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D)” for “receiving an application” in two places.
 
-Pub. L. 105–303, §102(a)(6)(A), (C), designated existing provisions as par. (1), inserted “The Secretary shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce,Science, and Transportation of the Senate a written notice not later than 30 days after any occurrence when a license is not issued within the deadline established by this subsection.” at end of par. (1), and added par. (2).
+Pub. L. 105–303, §102(a)(6)(A), (C), designated existing provisions as par. (1), inserted “The Secretary shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a written notice not later than 30 days after any occurrence when a license is not issued within the deadline established by this subsection.” at end of par. (1), and added par. (2).
 
 Subsec. (b)(1). Pub. L. 105–303, §102(a)(6)(D), inserted “or a reentry site, or the reentry of a reentry vehicle,” after “operation of a launch site”.
 
@@ -163,6 +163,10 @@ Subsec. (b)(2)(A). Pub. L. 105–303, §102(a)(6)(E), substituted “, operatio
 Subsec. (b)(2)(D). Pub. L. 105–303, §102(a)(6)(F)–(H), added subpar. (D).
 
 Subsec. (b)(3). Pub. L. 105–303, §102(a)(6)(I), inserted “, including the requirement to obtain a license,” after “waive a requirement”.
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1998 Amendment
 

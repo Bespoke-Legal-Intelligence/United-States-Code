@@ -54,7 +54,7 @@ A vessel owner is not eligible for compensation under this section with respect 
 
 &emsp;(B) 25 percent of any resulting economic loss.
 
-> Any amount determined pursuant to subparagraph (A) or (B) shall be reduced to the extent that evidence indicates that negligence by the vessel owner or operator contributed to the cause or the extent of the damage, loss, or destruction and shall be further reduced by the amount of compensation, if any, that the vessel owner or operator has received or will receive with respect to the damage, loss, destruction, or resulting economic loss through insurance, pursuant to any other provision of law, or otherwise.
+> Any amount determined pursuant to subparagraph (A) or (B) shall be reduced to the extent that evidence indicates that negligence by the vessel owner or operator contributed to the cause or the extent of the damage, loss, or destruction and shall be further reduced by the amount of compensation, if any, that the vesselowner or operator has received or will receive with respect to the damage, loss, destruction, or resulting economic loss through insurance, pursuant to any other provision of law, or otherwise.
 
 (3) The initial determination made by the Secretary under paragraph (1) with respect to any application shall—
 
@@ -98,7 +98,7 @@ Any person who willfully makes any false or misleading statement or representati
 
 #### References in Text
 
-Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802), referred to in subsec. (a)(1), contained a prior par. (8) defining “fishery conservation zone” which was repealed and a new par. defining “exclusive economic zone” was added by Pub. L. 99–659, title I, §101(a), Nov. 14, 1986, 100 Stat. 3706.
+Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802), referred to insubsec. (a)(1), contained a prior par. (8) defining “fishery conservation zone” which was repealed and a new par. defining “exclusive economic zone” was added by Pub. L. 99–659, title I, §101(a), Nov. 14, 1986, 100 Stat. 3706.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
@@ -172,7 +172,7 @@ Special Provisions.—(1) Notwithstanding any other provision of law—
 
 &emsp;“(A) any application or filing timely made under subsection (a) shall be treated by the Secretary of Commerce as an application timely made under such section 10(c)(1) \[subsec. (c)(1) of this section\], or as a filing timely made under such section 405(a) \[43 U.S.C. 1845(a)\], as the case may be, with respect to the damage, loss, or destruction claimed; and
 
-&emsp;“(B) any claim for fishing gear loss that was pending on June 1, 1980, before the United States-Union of Soviet Socialist Republics Fisheries Claims Board or the American-Spanish Fisheries Board shall be treated by the Secretary of Commerce as a timely application made, on the date of the enactment of this title \[Dec. 22, 1980\], under such section 10(c)(1) \[subsec. (c)(1) of this section\] for compensation for such loss.”
+&emsp;“(B) any claim for fishing gear loss that was pending on June 1, 1980, before the United States-Union ofSoviet Socialist Republics Fisheries Claims Board or the American-Spanish Fisheries Board shall be treated by the Secretary of Commerce as a timely application made, on the date of the enactment of this title \[Dec. 22, 1980\], under such section 10(c)(1) \[subsec. (c)(1) of this section\] for compensation for such loss.”
 
 #### Timely Applications for Compensation
 

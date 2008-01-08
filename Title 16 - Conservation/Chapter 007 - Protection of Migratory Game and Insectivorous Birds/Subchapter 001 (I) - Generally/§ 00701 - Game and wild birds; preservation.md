@@ -42,7 +42,7 @@ Sec. 2. <i>Definitions</i>. For purposes of this order:
 
 (g) “Federal agency” means an executive department or agency, but does not include independent establishments as defined by 5 U.S.C. 104.
 
-(h) “Action” means a program, activity, project, official policy (such as a rule or regulation), or formal plan directly carried out by a Federal agency. Each Federal agency will further define what the term “action” means with respect to its own authorities and what programs should be included in the agency-specific Memoranda of Understanding required by this order. Actions delegated to or assumed by nonfederal entities, or carried out by nonfederal entities with Federal assistance, are not subject to this order. Such actions, however, continue to be subject to the Migratory Bird Treaty Act.
+(h) “Action” means a program, activity, project, official policy (such as a rule or regulation), or formal plan directly carried out by a Federal agency. Each Federalagency will further define what the term “action” means with respect to its own authorities and what programs should be included in the agency-specific Memoranda of Understanding required by this order. Actions delegated to or assumed by nonfederal entities, or carried out by nonfederal entities with Federal assistance, are not subject to this order. Such actions, however, continue to be subject to the Migratory Bird Treaty Act.
 
 (i) “Species of concern” refers to those species listed in the periodic report “Migratory Nongame Birds of Management Concern in the United States,” priority migratory bird species as documented by established plans (such as Bird Conservation Regions in the North American Bird Conservation Initiative or Partners in Flight physiographic areas), and those species listed in 50 C.F.R. 17.11.
 
@@ -96,7 +96,7 @@ Sec. 4. <i>Council for the Conservation of Migratory Birds</i>. (a) The Secretar
 
 Sec. 5. <i>Application and Judicial Review</i>. (a) This order and the MOU to be developed by the agencies do not require changes to current contracts, permits, or other third party agreements.
 
-(b) This order is intended only to improve the internal management of the executive branch and does notcreate any right or benefit, substantive or procedural, separately enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+(b) This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, separately enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

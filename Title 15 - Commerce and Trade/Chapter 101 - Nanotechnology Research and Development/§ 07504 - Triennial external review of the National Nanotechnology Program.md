@@ -32,7 +32,7 @@ The Director of the National Nanotechnology Coordination Office shall enter into
 
 #### (b) Study on molecular self-assembly
 
-As part of the first triennial review conducted in accordance with subsection (a), the National Research Council shall conduct a one-time studyto determine the technical feasibility of molecular self-assembly for the manufacture of materials and devices at the molecular scale.
+As part of the first triennial review conducted in accordance with subsection (a), the National Research Council shall conduct a one-time study to determine the technical feasibility of molecular self-assembly for the manufacture of materials and devices at the molecular scale.
 
 #### (c) Study on the responsible development of nanotechnology
 
@@ -55,4 +55,8 @@ As part of the first triennial review conducted in accordance with subsection (a
 The Director of the National Nanotechnology Coordination Office shall transmit the results of any evaluation for which it made arrangements under subsection (a) to the Advisory Panel, the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science upon receipt. The first such evaluation shall be transmitted no later than June 10, 2005, with subsequent evaluations transmitted to the Committees every 3 years thereafter.
 
 (Pub. L. 108–153, §5, Dec. 3, 2003, 117 Stat. 1928.)
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

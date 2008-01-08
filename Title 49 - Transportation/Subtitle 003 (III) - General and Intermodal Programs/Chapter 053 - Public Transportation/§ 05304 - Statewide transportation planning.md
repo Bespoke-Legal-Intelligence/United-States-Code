@@ -6,7 +6,7 @@ General Requirements.—
 
 &emsp;(1)
 
-Development of plans and programs.—To accomplish the objectives stated in section5303(a), each State shall develop a statewide transportation plan and a statewide transportation improvement program for all areas of the State, subject to section 5303.
+Development of plans and programs.—To accomplish the objectives stated in section 5303(a), each State shall develop a statewide transportation plan and a statewide transportation improvement program for all areas of the State, subject to section 5303.
 
 &emsp;(2)
 
@@ -318,7 +318,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (j), is Pu
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
+2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted ofsubsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
 
 1998—Subsec. (a). Pub. L. 105–178, §3005(d)(1), as added by Pub. L. 105–206, §9009(c)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

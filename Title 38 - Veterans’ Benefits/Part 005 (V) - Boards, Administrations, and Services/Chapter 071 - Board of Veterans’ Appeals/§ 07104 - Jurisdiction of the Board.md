@@ -20,7 +20,7 @@
 
 &emsp;(B) send a copy of its written decision to the authorized representative by any means reasonably likely to provide the authorized representative with a copy of the decision within the same time a copy would be expected to reach the authorized representative if sent by first-class mail.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, §4004; Pub. L. 87–97, §1, July 20, 1961, 75 Stat. 215; Pub. L. 100–687, div. A, title I, §101(b), title II, §§203(a), 204, 205, Nov. 18, 1988, 102 Stat. 4106, 4110, 4111; renumbered §7104 and amended Pub. L.102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(g)(2), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), (c), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–271, §§7(b)(1), 8, July 1, 1994, 108 Stat. 743; Pub. L. 104–275, title V, §509, Oct. 9, 1996, 110 Stat. 3344.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, §4004; Pub. L. 87–97, §1, July 20, 1961, 75 Stat. 215; Pub. L. 100–687, div. A, title I, §101(b), title II, §§203(a), 204, 205, Nov. 18, 1988, 102 Stat. 4106, 4110, 4111; renumbered §7104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(g)(2), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), (c), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–271, §§7(b)(1), 8, July 1, 1994, 108 Stat. 743; Pub. L. 104–275, title V, §509, Oct. 9, 1996, 110 Stat. 3344.)
 
 #### Amendments
 

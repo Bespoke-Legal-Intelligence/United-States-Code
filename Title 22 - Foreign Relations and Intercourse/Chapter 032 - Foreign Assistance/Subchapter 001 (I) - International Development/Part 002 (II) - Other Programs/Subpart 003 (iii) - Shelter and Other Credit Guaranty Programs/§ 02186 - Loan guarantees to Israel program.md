@@ -24,7 +24,7 @@ Guarantees may be issued under this section only to support activities in the ge
 
 #### (d) Limitation on guarantee amount
 
-The amount of authorized but unissued guarantees that the President is authorized to issue as specified in subsection (b) of this section shall be reduced by an amount equal to the amount extended or estimated to have been extended by the Government of Israel during the previous year for activities which the President determines are inconsistent with the objectives of this section or understandings reached between the United States Government and the Government of Israel regarding the implementation of the loan program. The President shall submit a report to Congress no later than September 30 of each fiscal year during the pendency of the program specifying the amount calculated under this subsection and that will be deducted from the amount of guarantees authorized to be issued in the next fiscal year.
+The amount of authorized but unissued guarantees that the President is authorized to issue as specified in subsection (b) of this section shall be reduced by an amount equal to the amountextended or estimated to have been extended by the Government of Israel during the previous year for activities which the President determines are inconsistent with the objectives of this section or understandings reached between the United States Government and the Government of Israel regarding the implementation of the loan program. The President shall submit a report to Congress no later than September 30 of each fiscal year during the pendency of the program specifying the amount calculated under this subsection and that will be deducted from the amount of guarantees authorized to be issued in the next fiscal year.
 
 #### (e) Fees
 
@@ -60,7 +60,7 @@ It is the sense of the Congress that, as agreed between the two Governments and 
 
 #### (j) Goods and services
 
-During the pendency of the loan program authorized under this section, it is anticipated that, in the context of the economic reforms undertaken pursuant to subsections (h) and (i) of this section, Israel's increased population due to its absorption of immigrants, and the liberalization by the Government of Israel of its trade policy with the United States, the amount of United States investment goods and services purchased for use in or with respect to the country of Israel will substantially increase.
+During the pendency of the loan program authorized under this section, it is anticipated that, in the context of the economic reforms undertaken pursuant to subsections (h) and (i) of this section, Israel's increased population due to its absorption of immigrants, and the liberalization by the Government of Israel of its tradepolicy with the United States, the amount of United States investment goods and services purchased for use in or with respect to the country of Israel will substantially increase.
 
 #### (k) Reports
 
@@ -88,15 +88,7 @@ The Federal Credit Reform Act of 1990, referred to in subsecs. (e)(1) and (<i>l<
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (g)(3), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### subpart iv—overseas private investment corporation
-
-<i><sup>1</sup></i><i> So in original. Probably should be “issued”.</i>
 

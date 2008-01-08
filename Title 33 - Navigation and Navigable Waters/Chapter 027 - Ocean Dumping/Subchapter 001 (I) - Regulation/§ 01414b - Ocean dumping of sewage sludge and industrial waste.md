@@ -6,7 +6,7 @@
 
 &emsp;Notwithstanding any other provision of law—
 
-&emsp;&emsp;(A) on and after the 270th day after November 18, 1988, no person (including a person described in section 1414a(a)(1)(C) of this title) shall dump into ocean waters, or transport for the purpose of dumping into oceanwaters, sewage sludge or industrial waste, unless such person—
+&emsp;&emsp;(A) on and after the 270th day after November 18, 1988, no person (including a person described in section 1414a(a)(1)(C) of this title) shall dump into ocean waters, or transport for the purpose of dumping into ocean waters, sewage sludge or industrial waste, unless such person—
 
 &emsp;&emsp;&emsp;(i) has entered into a compliance agreement or enforcement agreement which meets the requirements of subsection (c)(2) or (3) of this section, as applicable; and
 
@@ -72,7 +72,7 @@
 
 #### (1) In general
 
-&emsp;As a condition of issuing a permit under section 1412 of this title which authorizes a person to transport or dump sewage sludge or industrial waste, the Administrator shall require that, before the issuance of such permit,the person and the State in which the person is located enter into with the Administrator—
+&emsp;As a condition of issuing a permit under section 1412 of this title which authorizes a person to transport or dump sewage sludge or industrial waste, the Administrator shall require that, before the issuance of such permit, the person and the State in which the person is located enter into with the Administrator—
 
 &emsp;&emsp;(A) a compliance agreement which meets the requirements of paragraph (2); or
 
@@ -262,7 +262,7 @@
 
 #### (2) Deposits into State water pollution control revolving fund
 
-&emsp;(A) Amounts paid to a State pursuant to subsection (b)(2)(D), (d)(2)(C)(ii), or (e)(2)(C) of this section shall be deposited into the water pollution control revolving fund established by the State pursuant to title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\].
+&emsp;(A) Amounts paid to a State pursuant to subsection (b)(2)(D), (d)(2)(C)(ii), or (e)(2)(C) ofthis section shall be deposited into the water pollution control revolving fund established by the State pursuant to title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\].
 
 &emsp;(B) Amounts deposited into a State water pollution control revolving fund pursuant to this paragraph—
 
@@ -286,7 +286,7 @@
 
 &emsp;&emsp;(ii) for providing assistance to any person in the State who was not required to pay such penalties for construction of treatment works (as defined in section 212 of the Federal Water Pollution Control Act \[33 U.S.C. 1292\]) which are publicly owned.
 
-&emsp;(B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) of this sectionwhich are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
+&emsp;(B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) of this section which are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
 
 &emsp;&emsp;(i) shall not be used by the State to provide assistance to the person who paid such amounts;
 
@@ -332,7 +332,7 @@
 
 &emsp;The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) of this section shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
 
-&emsp;&emsp;(A) the efforts of each person located in the State to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
+&emsp;&emsp;(A) the efforts of each person located in the State to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied withdeadlines established by the schedule included in such agreement;
 
 &emsp;&emsp;(B) activity of the State regarding permits for the construction and operation of each alternative system; and
 
@@ -418,7 +418,7 @@ For purposes of this section—
 
 This Act, referred to in subsecs. (a)(2), (d)(1), (e)(3)(A), (f)(1)(A)(i), (B), and (k)(1), (5)(B), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
 
-The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C), (3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C), (3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 Subsection (j)(4) of this section, referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
 

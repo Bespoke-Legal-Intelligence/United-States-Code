@@ -30,7 +30,7 @@ An individual having information derived as a result of a check under subsection
 
 #### (f) Criminal penalties
 
-An individual who knowingly exceeds the authority in subsection (b), or knowingly releasesinformation in violation of subsection (e), shall be imprisoned not more than 10 years or fined under title 18, or both.
+An individual who knowingly exceeds the authority in subsection (b), or knowingly releases information in violation of subsection (e), shall be imprisoned not more than 10 years or fined under title 18, or both.
 
 #### (g) Child welfare agency defined
 

@@ -24,7 +24,7 @@ For each State in which there are no State certification or licensure assessment
 
 #### (3) National system of teacher certification prohibited
 
-&emsp;Nothing in this part shall be construed to permit, allow, encourage, or authorize theSecretary to establish or support any national system of teacher certification.
+&emsp;Nothing in this part shall be construed to permit, allow, encourage, or authorize the Secretary to establish or support any national system of teacher certification.
 
 (Pub. L. 89–329, title II, §209, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1635; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080.)
 

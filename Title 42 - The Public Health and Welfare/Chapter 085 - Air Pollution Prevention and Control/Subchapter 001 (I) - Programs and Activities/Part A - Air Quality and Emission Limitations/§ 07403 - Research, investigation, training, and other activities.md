@@ -44,7 +44,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;(2) Establishment of a national network to monitor, collect, and compile data with quantification of certainty in the status and trends of air emissions, deposition, air quality, surface water quality, forest condition, and visibility impairment, and to ensure the comparability of air quality data collected in different States and obtained from different nations.
 
-&emsp;(3) Development of improved methods and technologies for sampling, measurement, monitoring, analysis, and modeling to increaseunderstanding of the sources of ozone percursors,<sup>1</sup> ozone formation, ozone transport, regional influences on urban ozone, regional ozone trends, and interactions of ozone with other pollutants. Emphasis shall be placed on those techniques which—
+&emsp;(3) Development of improved methods and technologies for sampling, measurement, monitoring, analysis, and modeling to increase understanding of the sources of ozone percursors,<sup>1</sup> ozone formation, ozone transport, regional influences on urban ozone, regional ozone trends, and interactions of ozone with other pollutants. Emphasis shall be placed on those techniques which—
 
 &emsp;&emsp;(A) improve the ability to inventory emissions of volatile organic compounds and nitrogen oxides that contribute to urban air pollution, including anthropogenic and natural sources;
 
@@ -88,7 +88,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 &emsp;(3) Development of improved atmospheric dispersion models and monitoring systems and networks for evaluating and quantifying exposure to and effects of multiple environmental stresses associated with air pollution.
 
-&emsp;(4) Evaluation of the effects of air pollution on water quality, including assessments of the short-term and long-term ecological effects ofacid deposition and other atmospherically derived pollutants on surface water (including wetlands and estuaries) and groundwater.
+&emsp;(4) Evaluation of the effects of air pollution on water quality, including assessments of the short-term and long-term ecological effects of acid deposition and other atmospherically derived pollutants on surface water (including wetlands and estuaries) and groundwater.
 
 &emsp;(5) Evaluation of the effects of air pollution on forests, materials, crops, biological diversity, soils, and other terrestrial and aquatic systems exposed to air pollutants.
 
@@ -128,7 +128,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 #### (g) Pollution prevention and emissions control
 
-In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
+In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interestgroups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
 
 &emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
 
@@ -148,7 +148,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 (3) The Director shall assure that such programs shall not conflict with research undertaken by the Administrator.
 
-(4) There are authorized to be appropriated to the National Institute of Environmental HealthSciences such sums as may be necessary to carry out the purposes of this subsection.
+(4) There are authorized to be appropriated to the National Institute of Environmental Health Sciences such sums as may be necessary to carry out the purposes of this subsection.
 
 #### (i) Coordination of research
 
@@ -176,7 +176,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;&emsp;(i) continuous monitoring of emissions of precursors of acid deposition;
 
-&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere, and models that describe the response of ecosystems to acid deposition; and
+&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere,and models that describe the response of ecosystems to acid deposition; and
 
 &emsp;&emsp;(iii) analysis of the costs, benefits, and effectiveness of the acid deposition control program.
 
@@ -206,7 +206,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 #### (k) Air pollution conferences
 
-If, in the judgment of the Administrator, an air pollution problem of substantial significancemay result from discharge or discharges into the atmosphere, the Administrator may call a conference concerning this potential air pollution problem to be held in or near one or more of the places where such discharge or discharges are occurring or will occur. All interested persons shall be given an opportunity to be heard at such conference, either orally or in writing, and shall be permitted to appear in person or by representative in accordance with procedures prescribed by the Administrator. If the Administrator finds, on the basis of the evidence presented at such conference, that the discharge or discharges if permitted to take place or continue are likely to cause or contribute to air pollution subject to abatement under this part, the Administrator shall send such findings, together with recommendations concerning the measures which the Administrator finds reasonable and suitable to prevent such pollution, to the person or persons whose actions will result in the discharge or discharges involved; to air pollution agencies of the State or States and of the municipality or municipalities where such discharge or discharges will originate; and to the interstate air pollution control agency, if any, in the jurisdictional area of which any such municipality is located. Such findings and recommendations shall be advisory only, but shall be admitted together with the record of the conference, as part of the proceedings under subsections (b), (c), (d), (e), and (f) of section 7408 of this title.
+If, in the judgment of the Administrator, an air pollution problem of substantial significance may result from discharge or discharges into the atmosphere, the Administrator may call a conference concerning this potential air pollution problem to be held in or near one or more of the places where such discharge or discharges are occurring or will occur. All interested persons shall be given an opportunity to be heard at such conference, either orally or in writing, and shall be permitted to appear in person or by representative in accordance with procedures prescribed by the Administrator. If the Administrator finds, on the basis of the evidence presented at such conference, that the discharge or discharges if permitted to take place or continue are likely to cause or contribute to air pollution subject to abatement under this part, the Administrator shall send such findings, together with recommendations concerning the measures which the Administrator finds reasonable and suitable to prevent such pollution, to the person or persons whose actions will result in the discharge or discharges involved; to air pollution agencies of the State or States and of the municipality or municipalities where such discharge or discharges will originate; and to the interstate air pollution control agency, if any, in the jurisdictional area of which any such municipality is located. Such findings and recommendations shall be advisory only, but shall be admitted together with the record of the conference, as part of the proceedings under subsections (b), (c), (d), (e), and (f) of section 7408 of this title.
 
 (July 14, 1955, ch. 360, title I, §103, formerly §3, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 394; renumbered §103 and amended Pub. L. 89–272, title I, §§101(3), 103, Oct. 20, 1965, 79 Stat. 992, 996; Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 486; Pub. L. 91–604, §§2(a), 4(2), 15(a)(2), (c)(2), Dec. 31, 1970, 84 Stat. 1676, 1689, 1710, 1713; Pub. L. 95–95, title I, §101(a), (b), Aug. 7, 1977, 91 Stat. 686, 687; Pub. L. 101–549, title IX, §901(a)–(c), Nov. 15, 1990, 104 Stat. 2700–2703.)
 
@@ -256,7 +256,7 @@ Subsec. (f). Pub. L. 91–604, §2(a), added subsec. (f).
 
 Subsec. (c). Pub. L. 90–148 struck out provision for promulgation of criteria in the case of particular air pollution agents present in the air in certain quantities reflecting the latest scientific knowledge and allowing for availability and revision and provided for recommendation by Secretary of air quality criteria.
 
-Subsec. (e). Pub. L. 90–148 substituted references to subsections (d), (e), and (f) of section 7415 of this titlefor references to subsections (c), (d), and (e) of section 7415 of this title in provision for admission of advisory findings and recommendations together with the record of the conference and made such findings and recommendations part of the proceedings of the conference, not merely part of the record of proceedings.
+Subsec. (e). Pub. L. 90–148 substituted references to subsections (d), (e), and (f) of section 7415 of this title for references to subsections (c), (d), and (e) of section 7415 of this title in provision for admission of advisory findings and recommendations together with the record of the conference and made such findings and recommendations part of the proceedings of the conference, not merely part of the record of proceedings.
 
 1965—Subsec. (a)(5). Pub. L. 89–272, §103(3), added par. (5).
 
@@ -294,7 +294,7 @@ Section 901(e) of Pub. L. 101–549 directed Administrator of Environmental Prot
 
 Section 901(g) of Pub. L. 101–549 provided that:
 
-“(1) The Administrator of the Environmental Protection Agency shall sponsor monitoring and research and submit to Congress annual and periodic assessment reports on—
+“(1) The Administrator of the Environmental Protection Agency shall sponsor monitoring and research andsubmit to Congress annual and periodic assessment reports on—
 
 &emsp;“(A) the occurrence and effects of acid deposition on surface waters located in that part of the United States west of the Mississippi River;
 
@@ -304,9 +304,9 @@ Section 901(g) of Pub. L. 101–549 provided that:
 
 “(2) The Administrator of the Environmental Protection Agency shall analyze data generated from the studies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate research and utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west of the Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1).”
 
-#### Consultation With Committee on Science of House of Representatives
+#### Consultation With Committee on Science and Technology of House of Representatives
 
-Section 101(c) of Pub. L. 95–95 provided that: “The Administrator of the Environmental Protection Agency shall consult with the House Committee on Science and Technology \[now Committee on Science\] on the environmental and atmospheric research, development, and demonstration aspects of this Act \[see Short Title of 1977 Amendment note set out under section 7401 of this title\]. In addition, the reports and studies required by this Act that relate to research, development, and demonstration issues shall be transmitted to the Committee on Science and Technology \[now Committee on Science\] at the same time they are made available to other committees of the Congress.”
+Section 101(c) of Pub. L. 95–95 provided that: “The Administrator of the Environmental Protection Agency shall consult with the House Committee on Science and Technology on the environmental and atmospheric research, development, and demonstration aspects of this Act \[see Short Title of 1977 Amendment note set out under section 7401 of this title\]. In addition, the reports and studies required by this Act that relate to research, development, and demonstration issues shall be transmitted to the Committee on Science and Technology at the same time they are made available to other committees of the Congress.”
 
 #### Study of Substances Discharged From Exhausts of Motor Vehicles
 

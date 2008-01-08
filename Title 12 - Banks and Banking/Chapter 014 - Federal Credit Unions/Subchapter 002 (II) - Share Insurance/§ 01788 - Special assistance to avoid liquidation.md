@@ -6,7 +6,7 @@
 
 (2) Whenever in the judgment of the Board such action will reduce the risk or avert a threatened loss to the fund and will facilitate a merger or consolidation of an insured credit union with another insured credit union, or will facilitate the sale of the assets of an open or closed insured credit union to and assumption of its liability by another person, the Board may, upon such terms and conditions as it may determine, make loans secured in whole or in part by assets of an open or closed insured credit union, which loans may be in subordination to the rights of members and creditors of such credit union, or the Board may purchase any of such assets or may guarantee any person against loss by reason of its assuming the liabilities and purchasing the assets of an open or closed insured credit union. For purposes of this paragraph, the term “person” means any credit union, individual, partnership, corporation, trust, estate, cooperative, association, government or governmental subdivision or agency, or other entity.
 
-(3) No agreement which tends to diminish or defeat the right, title, or interest of the Board, in any asset acquired by it under this subsection, either as security for a loan or by purchase, shall be valid against the Board unless such agreement—
+(3) No agreement which tends to diminish or defeat the right, title, or interest of the Board,in any asset acquired by it under this subsection, either as security for a loan or by purchase, shall be valid against the Board unless such agreement—
 
 &emsp;(A) shall be in writing;
 
@@ -20,7 +20,7 @@
 
 For the protection of the Fund, the Board, without regard to the Federal Property and Administrative Services Act of 1949, may—
 
-&emsp;(1) deal with, complete, reconstruct, rent, renovate, modernize, insure, make contractsfor the management of, sell for cash or credit, or lease, in its discretion, any real property acquired or held by it under this section; and
+&emsp;(1) deal with, complete, reconstruct, rent, renovate, modernize, insure, make contracts for the management of, sell for cash or credit, or lease, in its discretion, any real property acquired or held by it under this section; and
 
 &emsp;(2) assign or sell at public or private sale, or otherwise dispose of, any evidence of debt, contract, claim, personal property, or security assigned to or held by it under this section.
 

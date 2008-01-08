@@ -48,7 +48,7 @@ Under this section, an entity shall—
 
 &emsp;&emsp;&emsp;(i) safely screen for and/or recognize domestic violence, dating violence, sexual assault, and stalking;
 
-&emsp;&emsp;&emsp;(ii) understand the impact of domestic violence or sexual assault on children and protective actions taken by a nonabusing parent or caretaker in response to violence against anyone in the household; and
+&emsp;&emsp;&emsp;(ii) understand the impact of domestic violence or sexual assault on children andprotective actions taken by a nonabusing parent or caretaker in response to violence against anyone in the household; and
 
 &emsp;&emsp;&emsp;(iii) link new parents with existing community resources in communities where resources exist; and
 

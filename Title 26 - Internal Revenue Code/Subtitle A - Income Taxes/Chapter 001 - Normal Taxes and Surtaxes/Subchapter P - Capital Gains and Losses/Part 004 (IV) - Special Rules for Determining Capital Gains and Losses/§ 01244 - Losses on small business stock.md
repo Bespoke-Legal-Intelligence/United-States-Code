@@ -40,7 +40,7 @@ For any taxable year the aggregate amount treated by the taxpayer by reason of t
 
 #### (C) Nonapplication where deductions exceed gross income
 
-&emsp;&emsp;Paragraph (1)(C) shall not apply with respect to any corporation if, for the period taken into account for purposes of paragraph (1)(C), the amount of the deductions allowed by this chapter (other than by sections 172, 243, 244, and 245) exceeds the amount of gross income.
+&emsp;&emsp;Paragraph (1)(C) shall not apply with respect to any corporation if, for the periodtaken into account for purposes of paragraph (1)(C), the amount of the deductions allowed by this chapter (other than by sections 172, 243, 244, and 245) exceeds the amount of gross income.
 
 #### (3) Small business corporation defined
 
@@ -118,7 +118,7 @@ Section 345(e) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §1
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to stock issued after November 6, 1978.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection\] shall apply to stock issued after November 6, 1978.
 
 “(2)
 

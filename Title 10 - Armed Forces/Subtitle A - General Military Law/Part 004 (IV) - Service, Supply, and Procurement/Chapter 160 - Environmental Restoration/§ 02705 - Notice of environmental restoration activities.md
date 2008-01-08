@@ -46,7 +46,7 @@ Technical Assistance.—(1) The Secretary may, upon the request of the technical
 
 (2) The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee or restoration advisory board only if—
 
-&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
+&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsiblefor overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
 
 &emsp;(B) the technical assistance—
 

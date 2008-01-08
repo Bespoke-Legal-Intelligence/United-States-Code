@@ -52,5 +52,3 @@ Section 256(a)(2) of Pub. L. 102–190 provided that:
 
 Section 101(c) \[title X, §912(b), (c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 912(b), (c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, directed Comptroller General to conduct a study of national defense role of federally funded research and development centers and submit a report to Congress not later than one year after Oct. 18, 1986.
 
-§2368
-

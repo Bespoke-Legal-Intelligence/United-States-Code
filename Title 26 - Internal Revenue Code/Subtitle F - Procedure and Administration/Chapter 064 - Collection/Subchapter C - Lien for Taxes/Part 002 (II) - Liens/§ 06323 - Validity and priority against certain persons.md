@@ -160,7 +160,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 Even though notice of a lien imposed by section 6321 has been filed, such lien shall not be valid with respect to a security interest which came into existence after tax lien filing by reason of disbursements made before the 46th day after the date of tax lien filing, or (if earlier) before the person making such disbursements had actual notice or knowledge of tax lien filing, but only if such security interest—
 
-&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section 6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
+&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
 
 &emsp;(2) is protected under local law against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation.
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of real property, the fact of refiling is entered and recorded in an index to the extent required by subsection (f)(4); and
 
-&emsp;&emsp;(B) in any case in which, 90 days or more prior to the date of a refiling of notice oflien under subparagraph (A), the Secretary received written information (in the manner prescribed in regulations issued by the Secretary) concerning a change in the taxpayer's residence, if a notice of such lien is also filed in accordance with subsection (f) in the State in which such residence is located.
+&emsp;&emsp;(B) in any case in which, 90 days or more prior to the date of a refiling of notice of lien under subparagraph (A), the Secretary received written information (in the manner prescribed in regulations issued by the Secretary) concerning a change in the taxpayer's residence, if a notice of such lien is also filed in accordance with subsection (f) in the State in which such residence is located.
 
 #### (3) Required refiling period
 
@@ -324,7 +324,7 @@ For purposes of this section and section 6324—
 
 #### (4) Cost-of-living adjustment
 
-&emsp;In the case of notices of liens imposed by section 6321 which are filed in any calendaryear after 1998, each of the dollar amounts under paragraph (4) or (7) of subsection (b) shall be increased by an amount equal to—
+&emsp;In the case of notices of liens imposed by section 6321 which are filed in any calendar year after 1998, each of the dollar amounts under paragraph (4) or (7) of subsection (b) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -354,9 +354,9 @@ For purposes of this section and section 6324—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 88–272, title II, §236(a), (c)(1), Feb. 26, 1964, 78 Stat. 127, 128; Pub. L. 89–493, §17(a), July 5, 1966, 80 Stat. 266; Pub. L. 89–719, title I, §101(a), Nov. 2, 1966, 80 Stat. 1125; Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX, §2008(c), Oct. 4, 1976, 90 Stat. 1688, 1834, 1892; Pub. L. 95–600, title VII, §702(q)(1), (2), Nov. 6, 1978, 92 Stat. 2937, 2938; Pub. L. 99–514, title XV, §1569(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title I, §1015(s)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), Nov. 5, 1990, 104 Stat. 1388–458, 1388–519; Pub. L. 104–168, title V, §501(a), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(A), title III, §3435(a), (b), July 22, 1998, 112 Stat. 704, 760, 761.)
 
-#### Adjustment of Applicable Dollar Amounts in Determining Validity of Federal Tax Liens for Calendar Year 2007
+#### Adjustment of Applicable Dollar Amounts in Determining Validity of Federal Tax Liens for Calendar Year 2008
 
-<i>For adjustment of applicable dollar amounts under subsection (b)(4), (7) of this section in determining validity of certain Federal tax liens for calendar year 2007, see section 3.37 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of applicable dollar amounts under subsection (b)(4), (7) of this section in determining validity of certain Federal tax liens for calendar year 2008, see section 3.36 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 
@@ -400,7 +400,7 @@ Subsec. (i)(3). Pub. L. 94–455, §1202(h)(2), struck out par. (3) which relate
 
 1966—Subsec. (a). Pub. L. 89–719 redesignated as subsec. (a) that part of former subsec. (a) which preceded pars. (1) to (3) thereof, and, in subsec. (a) as so redesignated, substituted holder of a security interest, mechanic's lienor, and judgment lien creditor for mortgagee, pledgee, and judgment creditor, struck out reference to an exception provided in subsecs. (c) and (d), and inserted reference to requirements of subsec. (f).
 
-Subsec. (a)(3). Pub. L. 89–493 substituted the Recorder of Deeds of the District of Columbia for the clerk of theUnited States District Court for the District of Columbia.
+Subsec. (a)(3). Pub. L. 89–493 substituted the Recorder of Deeds of the District of Columbia for the clerk of the United States District Court for the District of Columbia.
 
 Subsec. (b)(1). Pub. L. 89–719 redesignated provisions of subsec. (c)(1) as subsec. (b)(1) and substituted “holder of a security interest” for “mortgagee and pledgee” and purchaser of such security interest for purchaser of such security for any adequate and full consideration in money or money's worth.
 

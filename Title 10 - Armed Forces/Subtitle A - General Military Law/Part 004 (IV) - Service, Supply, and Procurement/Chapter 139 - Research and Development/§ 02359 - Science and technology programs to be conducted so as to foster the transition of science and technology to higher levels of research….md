@@ -2,7 +2,7 @@
 
 (a)
 
-Policy.—Each official specified in subsection (b) shall ensure that the management and conduct of the science and technology programs under the authority of that official are carried out in a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
+Policy.—Each official specified in subsection (b) shall ensure that the management and conduct of the science and technology programs under the authority of that official arecarried out in a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
 
 (b)
 

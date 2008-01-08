@@ -196,7 +196,7 @@ Ruling requests.—The amendments made by this section shall not apply to distri
 
 &emsp;“(B)
 
-Plans adopted before july 23, 1982.—The amendments made by this section shall not apply todistributions made pursuant to a plan of partial liquidation adopted before July 23, 1982.
+Plans adopted before july 23, 1982.—The amendments made by this section shall not apply to distributions made pursuant to a plan of partial liquidation adopted before July 23, 1982.
 
 &emsp;“(C)
 

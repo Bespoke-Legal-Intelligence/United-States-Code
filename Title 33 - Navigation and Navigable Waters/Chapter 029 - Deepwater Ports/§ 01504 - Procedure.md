@@ -2,7 +2,7 @@
 
 #### (a) Regulations; issuance, amendment, or rescission; scope
 
-The Secretary shall, as soon as practicable after January 3, 1975, and after consultation with other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
+The Secretary shall, as soon as practicable after January 3, 1975, and after consultationwith other Federal agencies, issue regulations to carry out the purposes and provisions of this chapter in accordance with the provisions of section 553 of title 5, without regard to subsection (a) thereof. Such regulations shall pertain to, but need not be limited to, application, issuance, transfer, renewal, suspension, and termination of licenses. Such regulations shall provide for full consultation and cooperation with all other interested Federal agencies and departments and with any potentially affected coastal State, and for consideration of the views of any interested members of the general public. The Secretary is further authorized, consistent with the purposes and provisions of this chapter, to amend or rescind any such regulation.
 
 #### (b) Additional regulations; criteria for site evaluation and preconstruction testing
 
@@ -12,7 +12,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 (1) Any person making an application under this chapter shall submit detailed plans to the Secretary. Within 21 days after the receipt of an application, the Secretary shall determine whether the application appears to contain all of the information required by paragraph (2) hereof. If the Secretary determines that such information appears to be contained in the application, the Secretary shall, no later than 5 days after making such a determination, publish notice of the application and a summary of the plans in the Federal Register. If the Secretary determines that all of the required information does not appear to be contained in the application, the Secretary shall notify the applicant and take no further action with respect to the application until such deficiencies have been remedied.
 
-(2) Each application shall include such financial, technical, and other information as the Secretary deems necessary or appropriate. Suchinformation shall include, but need not be limited to—
+(2) Each application shall include such financial, technical, and other information as the Secretary deems necessary or appropriate. Such information shall include, but need not be limited to—
 
 &emsp;(A) the name, address, citizenship, telephone number, and the ownership interest in the applicant, of each person having any ownership interest in the applicant of greater than 3 per centum;
 
@@ -54,7 +54,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 #### (e) Recommendations to Secretary of Transportation; application for all Federal authorizations; copies of application to Federal agencies and departments with jurisdiction; recommendation of approval or disapproval and of manner of amendment to comply with laws or regulations
 
-(1) Not later than 30 days after January 3, 1975, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chief of Engineers of the United States Army Corps of Engineers, the Administrator of the National Oceanic and Atmospheric Administration, and the heads of any other Federal departmentor agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports shall transmit to the Secretary written comments as to their expertise or statutory responsibilities pursuant to this chapter or any other Federal law.
+(1) Not later than 30 days after January 3, 1975, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chief of Engineers of the United States Army Corps of Engineers, the Administrator of the National Oceanic and Atmospheric Administration, and the heads of any other Federal department or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports shall transmit to the Secretary written comments as to their expertise or statutory responsibilities pursuant to this chapter or any other Federal law.
 
 (2) An application filed with the Secretary shall constitute an application for all Federal authorizations required for ownership, construction, and operation of a deepwater port. At the time notice of any application is published pursuant to subsection (c) of this section, the Secretary shall forward a copy of such application to those Federal agencies and departments with jurisdiction over any aspect of such ownership, construction, or operation for comment, review, or recommendation as to conditions and for such other action as may be required by law. Each agency or department involved shall review the application and, based upon legal considerations within its area of responsibility, recommend to the Secretary, the approval or disapproval of the application not later than 45 days after the last public hearing on a proposed license for a designated application area. In any case in which the agency or department recommends disapproval, it shall set forth in detail the manner in which the application does not comply with any law or regulation within its area of responsibility and shall notify the Secretary how the application may be amended so as to bring it into compliance with the law or regulation involved.
 
@@ -82,7 +82,7 @@ A license may be issued only after public notice and public hearings in accordan
 
 &emsp;(A) to an adjacent coastal State (or combination of States), any political subdivision thereof, or agency or instrumentality, including a wholly owned corporation of any such government;
 
-&emsp;(B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii)an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
+&emsp;(B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii) an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
 
 &emsp;(C) to any other person.
 

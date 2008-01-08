@@ -234,7 +234,7 @@ Appointment criteria.—
 
 &emsp;&emsp;“(A)
 
-Time for initial appointments.—Appointments under paragraph (1) shall be made within 30days after the date of enactment of this Act \[Dec. 2, 1997\].
+Time for initial appointments.—Appointments under paragraph (1) shall be made within 30 days after the date of enactment of this Act \[Dec. 2, 1997\].
 
 &emsp;&emsp;“(B)
 
@@ -278,7 +278,7 @@ Meetings.—Each meeting of the Council, other than a meeting at which proprieta
 
 “(f)
 
-Access to Information.—Amtrak shall make available to the Council all information the Council requires to carry out its duties under this section. The Council shall establish appropriate procedures to ensure against the public disclosure of any information obtained under this subsection that is a trade secret or commercial or financial information that is privileged or confidential.
+Access to Information.—Amtrak shall make available to the Council all information the Council requires to carry out its duties under this section. TheCouncil shall establish appropriate procedures to ensure against the public disclosure of any information obtained under this subsection that is a trade secret or commercial or financial information that is privileged or confidential.
 
 “(g)
 

@@ -34,7 +34,7 @@
 
 &emsp;If the President makes a certification with respect to a country pursuant to paragraph (1)(B), the President shall include in such certification—
 
-&emsp;&emsp;(A) a full and complete description of the vital national interests placed at risk if United States bilateral assistance to that country is terminated pursuant to this section and multilateral development bank assistance is not provided to such country; and
+&emsp;&emsp;(A) a full and complete description of the vital national interests placed at risk if United States bilateral assistance to thatcountry is terminated pursuant to this section and multilateral development bank assistance is not provided to such country; and
 
 &emsp;&emsp;(B) a statement weighing the risk described in subparagraph (A) against the risks posed to the vital national interests of the United States by the failure of such country to cooperate fully with the United States in combating narcotics or to take adequate steps to combat narcotics on its own.
 
@@ -44,7 +44,7 @@ The President may make a certification under subsection (b)(1)(A) of this sectio
 
 #### (d) Congressional review
 
-Subsection (e) of this section shall apply if, within 30 calendar days after receipt of a certification submitted under subsection (b) of this section at the time of submission of the reportrequired by section 2291h(a) of this title, the Congress enacts a joint resolution disapproving the determination of the President contained in such certification.
+Subsection (e) of this section shall apply if, within 30 calendar days after receipt of a certification submitted under subsection (b) of this section at the time of submission of the report required by section 2291h(a) of this title, the Congress enacts a joint resolution disapproving the determination of the President contained in such certification.
 
 #### (e) Denial of assistance for countries decertified
 
@@ -100,7 +100,7 @@ Subsec. (a)(2). Pub. L. 109–177, §722(b)(2), inserted “or country identifie
 
 1995—Pub. L. 104–66, §1112(d)(1), struck out “for fiscal year 1995” after “certification procedures” in section catchline.
 
-Subsec. (i). Pub. L. 104–66, §1112(d)(2), struck out heading and text of subsec. (i). Text read as follows: “This section applies only during fiscal year 1995. Section 2291k of this title does not apply during that fiscal year.”
+Subsec. (i). Pub. L. 104–66, §1112(d)(2), struck out heading and text of subsec. (i). Text read as follows:“This section applies only during fiscal year 1995. Section 2291k of this title does not apply during that fiscal year.”
 
 1994—Pub. L. 103–447, §101(g)(1)(A), substituted “for fiscal year 1995” for “for fiscal years 1993 and 1994” in section catchline.
 
@@ -175,4 +175,16 @@ Determination of President of the United States, No. 90–12, Feb. 28, 1990, 55 
 Determination of President of the United States, No. 89–11, Feb. 28, 1989, 54 F.R. 9413.
 
 Determination of President of the United States, No. 88–10, Feb. 29, 1988, 53 F.R. 11487.
+
+#### Presidential Determination Under Section 490(b)(1)(A) of the Foreign Assistance Act Relating to the Largest Exporting and Importing Countries of Certain Precursor Chemicals
+
+Determination of President of the United States, No. 2007–14, Feb. 28, 2007, 72 F.R. 10881, provided:
+
+Memorandum for the Secretary of State
+
+Pursuant to section 490(b)(1)(A) of the Foreign Assistance Act, I hereby determine that the top five exporting and importing countries of pseudoephedrine and ephedrine in 2005 (Belgium, China, Germany, India, Indonesia, Mexico, Singapore, South Africa, South Korea, Switzerland, Taiwan, and the United Kingdom) have cooperated fully with the United States or have taken adequate steps on their own to achieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances.
+
+You are directed to publish this determination in the Federal Register, and are authorized and directed to transmit to the Congress the report under section 722 of the Combat Methamphetamine Epidemic Act \[of 2005\].
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

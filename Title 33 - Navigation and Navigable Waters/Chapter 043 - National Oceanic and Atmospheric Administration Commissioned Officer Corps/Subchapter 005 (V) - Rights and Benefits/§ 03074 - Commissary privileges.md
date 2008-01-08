@@ -10,7 +10,7 @@ The Secretary may purchase ration supplies for messes, stores, uniforms, accoute
 
 #### (c) Surviving spouses’ rights
 
-Rights extended to members of the uniformed services in this section are extended to their surviving spouses and to such others as are designated by the Secretary concerned.
+Rights extended to members of the uniformed services in this section are extended to theirsurviving spouses and to such others as are designated by the Secretary concerned.
 
 (Pub. L. 107–372, title II, §264, Dec. 19, 2002, 116 Stat. 3093.)
 

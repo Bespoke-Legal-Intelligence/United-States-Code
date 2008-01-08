@@ -1,0 +1,50 @@
+### §104e. Posting of travel and financial disclosure reports on public website of Clerk of the House of Representatives
+
+#### (a) Requiring posting on Internet
+
+The Clerk of the House of Representatives shall post on the public Internet site of the Office of the Clerk, in a format that is searchable, sortable, and downloadable, to the extent technically practicable, each of the following:
+
+&emsp;(1) The advance authorizations, certifications, and disclosures filed with respect to transportation, lodging, and related expenses for travel under clause 5(b) of rule XXV of the Rules of the House of Representatives by Members (including Delegates and Resident Commissioners to the Congress), officers, and employees of the House.
+
+&emsp;(2) The reports filed under section 103(h)(1) of the Ethics in Government Act of 1978 by Members of the House of Representatives (including Delegates and Resident Commissioners to the Congress).
+
+#### (b) Applicability and timing
+
+#### (1) Applicability
+
+&emsp;Subject to paragraph (2), subsection (a) shall apply with respect to information received by the Clerk of the House of Representatives on or after September 14, 2007.
+
+#### (2) Timing
+
+&emsp;The Clerk of the House of Representatives shall—
+
+&emsp;&emsp;(A) not later than August 1, 2008, post the information required by subsection (a) that the Clerk receives by June 1, 2008; and
+
+&emsp;&emsp;(B) not later than the end of each 45-day period occurring after information is required to be posted under subparagraph (A), post the information required by subsection (a) that the Clerk has received since the last posting under this subsection.
+
+#### (3) Omission of personally identifiable information
+
+&emsp;Members of the House of Representatives (including Delegates and Resident Commissioners to the Congress) shall be permitted to omit personally identifiable information not required to be disclosed on the reports posted on the public Internet site under this section (such as home address, Social Security numbers, personal bank account numbers, home telephone, and names of children) prior to the posting of such reports on such public Internet site.
+
+#### (4) Assistance in protecting personal information
+
+&emsp;The Clerk of the House of Representatives, in consultation with the Committee on Standards of Official Conduct, shall include in any informational materials concerning any disclosure that will be posted on the public Internet site under this section an explanation of the procedures for protecting personally identifiable information as described in this section.
+
+#### (c) Retention
+
+The Clerk shall maintain the information posted on the public Internet site of the Office of the Clerk under this section for a period of 6 years after receiving the information.
+
+(Pub. L. 110–81, title III, §304, Sept. 14, 2007, 121 Stat. 752.)
+
+#### References in Text
+
+Section 103(h)(1) of the Ethics in Government Act of 1978, referred to in subsec. (a)(2), is section 103(h)(1) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Exercise of Rulemaking Authority
+
+Pub. L. 110–81, title III, §306, Sept. 14, 2007, 121 Stat. 754, provided that: “The provisions of this title \[enacting this section\] are adopted by the House of Representatives—
+
+&emsp;“(1) as an exercise of the rulemaking power of the House; and
+
+&emsp;“(2) with full recognition of the constitutional right of the House to change those rules at any time, in the same manner, and to the same extent as in the case of any other rule of the House.”
+

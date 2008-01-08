@@ -2,7 +2,7 @@
 
 #### (a) Plan for continued operational program; submittal to Congress
 
-Consistent with and in furtherance of the purposes of the Division of Cultural Research of the Southwest Cultural Resources Center, operated by the National Park Service, the Secretary shall continue such research and data gathering activities as may be appropriate to further the purposes of this subchapter and knowledge of the Chaco culture. The Secretary shall submit in writing within six months of the effective date of this section, to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a plan for the continued operational program of the Division. The Secretary is authorized and encouraged to establish a committee composed of professional archeologists and others with related professional expertise including the designee of the Governor of the State of New Mexico to advise the Secretary in matters related to the surveying, excavation, curation, interpretation, protection, and management of the cultural resources of the historical park and archeological protection sites.
+Consistent with and in furtherance of the purposes of the Division of Cultural Research of the Southwest Cultural Resources Center, operated by the National Park Service, the Secretary shall continue such research and data gathering activities as may be appropriate to further the purposes of this subchapter and knowledge ofthe Chaco culture. The Secretary shall submit in writing within six months of the effective date of this section, to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a plan for the continued operational program of the Division. The Secretary is authorized and encouraged to establish a committee composed of professional archeologists and others with related professional expertise including the designee of the Governor of the State of New Mexico to advise the Secretary in matters related to the surveying, excavation, curation, interpretation, protection, and management of the cultural resources of the historical park and archeological protection sites.
 
 #### (b) Computer-generated data base; furnishing of information to Federal and private groups
 
@@ -20,7 +20,7 @@ The effective date of this section, referred to in subsec. (a), probably means t
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### Cooperative Agreements for Curation and Research
 

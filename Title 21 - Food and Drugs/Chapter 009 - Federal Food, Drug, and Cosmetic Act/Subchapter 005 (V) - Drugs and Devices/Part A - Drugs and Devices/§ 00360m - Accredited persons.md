@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In making a recommendation to the Secretary under paragraph (1), an accreditedperson shall notify the Secretary in writing of the reasons for the recommendation.
+&emsp;&emsp;In making a recommendation to the Secretary under paragraph (1), an accredited person shall notify the Secretary in writing of the reasons for the recommendation.
 
 #### (B) Time period for review
 
@@ -98,7 +98,7 @@
 
 #### (c) Duration
 
-The authority provided by this section terminates October 1, 2007.
+The authority provided by this section terminates October 1, 2012.
 
 #### (d) Report
 
@@ -126,9 +126,11 @@ Not later than January 10, 2007, the Secretary shall conduct a study based on th
 
 &emsp;(11) any suggestions for continuation, modification (including contraction or expansion of device eligibility), or termination of this section that the Secretary determines to be appropriate.
 
-(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609.)
+(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852.)
 
 #### Amendments
+
+2007—Subsec. (c). Pub. L. 110–85 substituted “2012” for “2007”.
 
 2002—Subsec. (c). Pub. L. 107–250, §202(1), substituted “The authority provided by this section terminates October 1, 2007.” for “The authority provided by this section terminates—
 
@@ -162,5 +164,5 @@ Evaluation of program.—Not later than 6 months prior to the date on which, pur
 
 “(2)
 
-Inclusion of certain devices within program.—Not later than 3 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall submit to the Committee onCommerce of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(a)(3)(A)\] (relating to class II devices for which clinical data are required in reports under section 510(k) \[21 U.S.C. 360(k)\]) should be removed.”
+Inclusion of certain devices within program.—Not later than 3 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(a)(3)(A)\] (relating to class II devices for which clinical data are required in reports under section 510(k) \[21 U.S.C. 360(k)\]) should be removed.”
 

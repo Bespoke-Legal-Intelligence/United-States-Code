@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements and Submission.—Except as provided in this section and sections 60114 and 60121 of this title, the Secretary of Transportation may not prescribe or enforcesafety standards and practices for an intrastate pipeline facility or intrastate pipeline transportation to the extent that the safety standards and practices are regulated by a State authority (including a municipality if the standards and practices apply to intrastate gas pipeline transportation) that submits to the Secretary annually a certification for the facilities and transportation that complies with subsections (b) and (c) of this section.
+General Requirements and Submission.—Except as provided in this section and sections 60114 and 60121 of this title, the Secretary of Transportation may not prescribe or enforce safety standards and practices for an intrastate pipeline facility or intrastate pipeline transportation to the extent that the safety standards and practices are regulated by a State authority (including a municipality if the standards and practices apply to intrastate gas pipeline transportation) that submits to the Secretary annually a certification for the facilities and transportation that complies with subsections (b) and (c) of this section.
 
 (b)
 
@@ -42,7 +42,7 @@ Application.—A certification in effect under this section does not apply to sa
 
 (e)
 
-Monitoring.—The Secretary may monitor a safety program established under this section to ensure that the program complies with the certification. A State authority shall cooperate with the Secretary under this subsection.
+Monitoring.—The Secretary may monitor a safety program established under this sectionto ensure that the program complies with the certification. A State authority shall cooperate with the Secretary under this subsection.
 
 (f)
 

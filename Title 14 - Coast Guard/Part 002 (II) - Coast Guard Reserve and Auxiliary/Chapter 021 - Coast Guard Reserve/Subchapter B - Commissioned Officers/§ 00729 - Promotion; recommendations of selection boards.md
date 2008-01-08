@@ -42,7 +42,7 @@
 
 (i) A Reserve officer whose name is on a list of selectees for promotion shall, unless that officer's promotion is lawfully withheld, be tendered an appointment in the next higher grade on the date a vacancy occurs, or as soon thereafter as practicable in the grade to which the officer was selected for promotion or, if promotion was determined in accordance with a running mate system, at the same time, or as soon thereafter as practicable, as that officer's running mate is tendered a similar appointment.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1010; amended Pub. L. 97–417, §2(13), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 106–398, §1 \[\[div. A\], title V, §502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–99; Pub. L. 107–295, title IV, §411(a), Nov. 25, 2002, 116 Stat. 2118.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1010; amended Pub. L. 97–417, §2(13), Jan. 4, 1983,96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 106–398, §1 \[\[div. A\], title V, §502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–99; Pub. L. 107–295, title IV, §411(a), Nov. 25, 2002, 116 Stat. 2118.)
 
 #### Prior Provisions
 

@@ -6,7 +6,7 @@ The Council is authorized—
 
 &emsp;(2) to enter into contracts and acquire materials and supplies necessary for its operation to such extent or in such amounts as are provided for in appropriation Acts;
 
-&emsp;(3) to publish, consistent with title 44, or arrange to publish critical materials information that it deems to be useful to the public and private industry to the extent that such publication is consistent with the national defense and economic interest;
+&emsp;(3) to publish, consistent with title 44, or arrange to publish critical materials information that it deems to be useful to the publicand private industry to the extent that such publication is consistent with the national defense and economic interest;
 
 &emsp;(4) to utilize such services or personnel as may be provided to the Council on a nonreimbursable basis by any agency of the United States; and
 

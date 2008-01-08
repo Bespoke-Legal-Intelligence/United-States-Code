@@ -18,9 +18,11 @@ There are the following officers, appointed by the President, by and with the ad
 
 &emsp;(7) A Director of the Office of Counternarcotics Enforcement.
 
-&emsp;(8) Not more than 12 Assistant Secretaries.
+&emsp;(8) An Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department.
 
-&emsp;(9) A General Counsel, who shall be the chief legal officer of the Department.
+&emsp;(9) Not more than 12 Assistant Secretaries.
+
+&emsp;(10) A General Counsel, who shall be the chief legal officer of the Department.
 
 #### (b) Inspector General
 
@@ -52,13 +54,15 @@ There shall be in the Department a Chief Financial Officer, as provided in chapt
 
 Subject to the provisions of this chapter, every officer of the Department shall perform the functions specified by law for the official's office or prescribed by the Secretary.
 
-(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935.)
+(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334.)
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2007—Subsec. (a)(8) to (10). Pub. L. 110–53 added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
 
 2006—Subsec. (a)(2) to (4). Pub. L. 109–295, §612(b)(2), (3), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “An Under Secretary for Information Analysis and Infrastructure Protection.”
 

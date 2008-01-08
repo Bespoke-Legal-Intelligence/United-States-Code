@@ -2,7 +2,7 @@
 
 #### (a) Joint projects; transfers of appropriations; contracts or grants; criteria
 
-(1) The Secretary is authorized to enter into arrangements with other Federal agencies tojointly carry out projects of common interest, to transfer to such agencies funds appropriated under any applicable program, and to receive and use funds from such agencies, for projects of common interest.
+(1) The Secretary is authorized to enter into arrangements with other Federal agencies to jointly carry out projects of common interest, to transfer to such agencies funds appropriated under any applicable program, and to receive and use funds from such agencies, for projects of common interest.
 
 (2) Funds transferred or received pursuant to paragraph (1) shall be used only in accordance with the statutes authorizing the appropriation of such funds, and shall be made available by contract or grant only to recipients eligible to receive such funds under such statutes.
 
@@ -12,7 +12,7 @@
 
 #### (b) Joint applications
 
-The Secretary may develop the criteria for, and require the submission of, joint applications under two or more applicable programs under which funds are awarded on a competitive basis, and may jointly review and approve such applications separately from other applications under such programs, when the Secretary determines that such joint awards are necessary to address a special need consistent with the purposes and authorized activities of each such program. Any applicant for such a joint award shall meet the eligibility requirements of each such program.
+The Secretary may develop the criteria for, and require the submission of, joint applications under two or more applicable programs under which funds are awarded on a competitive basis, and may jointly review and approve such applications separately from other applications under such programs, when the Secretary determines that such joint awards are necessary toaddress a special need consistent with the purposes and authorized activities of each such program. Any applicant for such a joint award shall meet the eligibility requirements of each such program.
 
 #### (c) Limitations on joint funding
 
@@ -45,8 +45,6 @@ A prior section 430 of Pub. L. 90–247 was renumbered section 436, and is class
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1972 Amendment; Inconsistent Provisions Ineffective
 

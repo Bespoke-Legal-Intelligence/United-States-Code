@@ -174,6 +174,7 @@
 | 247d–3b. | Partnerships for State and regional hospital preparedness to improve surge capacity. |
 | 247d–4. | Revitalizing the Centers for Disease Control and Prevention. |
 | 247d–5. | Combating antimicrobial resistance. |
+| 247d–5a. | Identification of clinically susceptible concentrations of antimicrobials. |
 | 247d–6. | Public health countermeasures to a bioterrorist attack. |
 | 247d–6a. | Authority for use of certain procedures regarding qualified countermeasure research and development activities. |
 | 247d–6b. | Strategic National Stockpile and security countermeasure procurements. |
@@ -395,6 +396,7 @@ I74subpart 1—biological products
 | :--- | ---: |
 | [273\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%20-%20Organ%20Transplants/%C2%A7%2000273%20-%20Organ%20procurement%20organizations.md) | Organ procurement organizations. |
 | [273a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%20-%20Organ%20Transplants/%C2%A7%2000273a%20-%20National%20living%20donor%20mechanisms.md) | National living donor mechanisms. |
+| [273b.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%20-%20Organ%20Transplants/%C2%A7%2000273b%20-%20Report%20on%20the%20long-term%20health%20effects%20of%20living%20organ%20donation.md) | Report on the long-term health effects of living organ donation. |
 | [274\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%20-%20Organ%20Transplants/%C2%A7%2000274%20-%20Organ%20procurement%20and%20transplantation%20network.md) | Organ procurement and transplantation network. |
 | [274a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%20-%20Organ%20Transplants/%C2%A7%2000274a%20-%20Scientific%20registry.md) | Scientific registry. |
 | [274b.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%20-%20Organ%20Transplants/%C2%A7%2000274b%20-%20General%20provisions%20respecting%20grants%20and%20contracts.md) | General provisions respecting grants and contracts. |
@@ -697,11 +699,11 @@ I74subpart 1—national cancer institute
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 7—national institute of child health and human development
+#### subpart 7—eunice kennedy shriver national institute of child health and human development
 
 |  |  |
 | :--- | ---: |
-| [285g.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20007%20-%20National%20Institute%20of%20Child%20Health%20and%20Human%20Development/%C2%A7%2000285g%20-%20Purpose%20of%20Institute.md) | Purpose of Institute. |
+| [285g.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20007%20-%20Eunice%20Kennedy%20Shriver%20National%20Institute%20of%20Child%20Health%20and%20Human%20Development/%C2%A7%2000285g%20-%20Purpose%20of%20Institute.md) | Purpose of Institute. |
 | 285g–1. | Sudden infant death syndrome research. |
 | 285g–2. | Mental retardation research. |
 | 285g–3. | Associate Director for Prevention; appointment; function. |
@@ -1594,10 +1596,10 @@ I74subpart 1—health professions workforce information and analysis
 |  |  |
 | :--- | ---: |
 | [300d.](Subchapter%20010%20%28X%29%20-%20Trauma%20Care/Part%20A%20-%20General%20Authority%20and%20Duties%20of%20Secretary/%C2%A7%2000300d%20-%20Establishment.md) | Establishment. |
-| 300d–1. | Repealed. |
-| 300d–2. | Clearinghouse on Trauma Care and Emergency Medical Services. |
+| 300d–1, 300d–2. | Repealed. |
 | 300d–3. | Establishment of programs for improving trauma care in rural areas. |
 | 300d–4. | Emergency medical services. |
+| 300d–5. | Competitive grants for the improvement of trauma care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1610,7 +1612,7 @@ I74subpart 1—health professions workforce information and analysis
 | 300d–13. | Requirements with respect to carrying out purpose of allotments. |
 | 300d–14. | Requirement of submission to Secretary of trauma plan and certain information. |
 | 300d–15. | Restrictions on use of payments. |
-| 300d–16. | Requirement of reports by States. |
+| 300d–16. | Repealed. |
 | 300d–17. | Requirement of submission of application containing certain agreements and assurances. |
 | 300d–18. | Determination of amount of allotment. |
 | 300d–19. | Failure to comply with agreements. |

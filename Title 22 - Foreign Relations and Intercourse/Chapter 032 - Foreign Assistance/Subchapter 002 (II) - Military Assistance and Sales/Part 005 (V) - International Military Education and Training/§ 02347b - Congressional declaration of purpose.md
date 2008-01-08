@@ -8,7 +8,7 @@ Education and training activities conducted under this part shall be designed—
 
 &emsp;(3) to increase the awareness of nationals of foreign countries participating in such activities of basic issues involving internationally recognized human rights.
 
-(Pub. L. 87–195, pt. II, §543, as added Pub. L. 94–329, title I, §106(a), June 30, 1976, 90 Stat. 733; amended Pub. L. 95–384, §11(b), Sept. 26, 1978, 92 Stat. 736.)
+(Pub. L. 87–195, pt. II, §543, as added Pub. L. 94–329, title I, §106(a), June 30, 1976, 90 Stat. 733;amended Pub. L. 95–384, §11(b), Sept. 26, 1978, 92 Stat. 736.)
 
 #### Amendments
 

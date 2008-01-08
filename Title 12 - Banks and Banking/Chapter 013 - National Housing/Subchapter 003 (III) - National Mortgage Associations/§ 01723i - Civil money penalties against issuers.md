@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(I) Submission to the Association of a false certification either on its own behalf or on behalf of another person or entity.
 
-&emsp;&emsp;(J) Failure to comply with an agreement, certification, or condition of approval setforth on, or applicable to, the application for approval as an issuer of securities under section 1721(g) of this title.
+&emsp;&emsp;(J) Failure to comply with an agreement, certification, or condition of approval set forth on, or applicable to, the application for approval as an issuer of securities under section 1721(g) of this title.
 
 &emsp;&emsp;(K) Violation of any provisions of this subchapter or any implementing regulation, handbook, or participant letter issued under authority of this subchapter.
 

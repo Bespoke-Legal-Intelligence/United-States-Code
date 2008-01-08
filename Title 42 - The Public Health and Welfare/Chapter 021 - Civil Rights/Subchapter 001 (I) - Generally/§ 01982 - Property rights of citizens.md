@@ -80,7 +80,7 @@ Sec. 501. \[Revoked. Ex. Ord. No. 12259, Dec. 31, 1980, 46 F.R. 1253; Ex. Ord. N
 
 Sec. 502. (a) The Committee shall take such steps as it deems necessary and appropriate to promote the coordination of the activities of departments and agencies under this order. In so doing, the Committee shall consider the overall objectives of Federal legislation relating to housing and the right of every individual to participate without discrimination because of race, color, religion (creed), sex, disability, familial status or national origin in the ultimate benefits of the Federal programs subject to this order.
 
-(b) The Committee may confer with representatives of any department or agency, State or local public agency, civic, industry, or labor group, or any other group directly or indirectly affected by this order; examine the relevant rules, regulations, procedures, policies, and practices of any department or agency subject to this order and make such recommendations as may be necessary or desirable to achieve the purposes of this order.
+(b) The Committee may confer with representatives of any department or agency, State or local public agency, civic, industry, or labor group, or any other group directly or indirectly affected by this order; examine the relevant rules, regulations, procedures, policies, and practices of any department or agency subjectto this order and make such recommendations as may be necessary or desirable to achieve the purposes of this order.
 
 (c) The Committee shall encourage educational programs by civic, educational, religious, industry, labor, and other nongovernmental groups to eliminate the basic causes of discrimination in housing and related facilities provided with Federal assistance.
 

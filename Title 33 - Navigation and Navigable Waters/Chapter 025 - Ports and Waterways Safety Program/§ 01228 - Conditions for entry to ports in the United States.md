@@ -12,7 +12,7 @@ No vessel, subject to the provisions of chapter 37 of title 46, shall operate in
 
 &emsp;(4) does not comply with any applicable vessel traffic service requirements; or
 
-&emsp;(5) is manned by one or more officers who are licensed by a certificating state which the Secretary has determined, pursuant to section 9101 of title 46, does not have standards for licensing and certification of seafarers which are comparable to or more stringent than United States standards or international standards which are accepted by the United States; or
+&emsp;(5) is manned by one or more officers who are licensed by a certificating state which the Secretary has determined, pursuant to section 9101 of title 46, does not have standards for licensing and certification of seafarers which are comparable to or more stringent than United States standards or internationalstandards which are accepted by the United States; or
 
 &emsp;(6) is not manned in compliance with manning levels as determined by the Secretary to be necessary to insure the safe navigation of the vessel; or
 
@@ -20,7 +20,7 @@ No vessel, subject to the provisions of chapter 37 of title 46, shall operate in
 
 #### (b) Exceptions
 
-The Secretary may allow provisional entry of a vessel not in compliance with subsection (a) of this section, if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is not unsafe or a threat to the marine environment, and if such entry is necessary for the safety of the vessel or persons aboard. In addition, paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall not apply if the owner or operator of such vesselproves, to the satisfaction of the Secretary, that such vessel is no longer unsafe or a threat to the marine environment, and is no longer in violation of any applicable law, treaty, regulation or condition, as appropriate. Clauses (5) and (6) of subsection (a) of this section shall become applicable eighteen months after October 17, 1978.
+The Secretary may allow provisional entry of a vessel not in compliance with subsection (a) of this section, if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is not unsafe or a threat to the marine environment, and if such entry is necessary for the safety of the vessel or persons aboard. In addition, paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall not apply if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is no longer unsafe or a threat to the marine environment, and is no longer in violation of any applicable law, treaty, regulation or condition, as appropriate. Clauses (5) and (6) of subsection (a) of this section shall become applicable eighteen months after October 17, 1978.
 
 (Pub. L. 92–340, §9, as added Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1476; amended Pub. L. 101–380, title IV, §4106(c), Aug. 18, 1990, 104 Stat. 514.)
 

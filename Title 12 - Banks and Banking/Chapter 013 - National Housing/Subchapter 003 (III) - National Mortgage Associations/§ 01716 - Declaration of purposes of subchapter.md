@@ -40,7 +40,7 @@ Subsec. (a)(1)(G). Act June 30, 1953, §13(a), substituted in first sentence “
 
 1952—Subsec. (a)(1). Act July 14, 1952, §3(a)(1), authorized the FNMA to purchase Government-insured or guaranteed home mortgages other than defense or disaster mortgages if they are insured after Feb. 29, 1952.
 
-Subsec. (a)(1)(E). Act July 14, 1952, §3(a)(2), (3), changed the base date from Apr. 30, 1948 to Feb. 29, 1952, and exempted defense or disaster mortgages from the limitation of this subparagraph.
+Subsec. (a)(1)(E). Act July 14, 1952, §3(a)(2), (3), changed the base date from Apr. 30, 1948 to Feb. 29, 1952,and exempted defense or disaster mortgages from the limitation of this subparagraph.
 
 Subsec. (a)(1)(G). Act July 14, 1952, §3(a)(4), increased the FNMA commitment powers from $252,000,000 to $1,152,000,000 outstanding at any one time if the commitments relate to defense or disaster mortgages.
 

@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of law, where funds are made available by more than one Federal agency to be used by any agency, organization, institution, or individual to carry out a Federal juvenile delinquency program or activity, any one of the Federal agencies providing funds may be requested by the Administrator to act for all in administering the funds advanced whenever the Administrator finds the program or activity to be exceptionally effective or for which the Administrator finds exceptional need. In such cases, a single non-Federal share requirement may be established according to the proportion of funds advanced by each Federal agency, and the Administrator may order any such agency to waive any technical grant or contract requirement (as defined in such regulations) which is inconsistent with the similar requirement of the administering agency or which the administering agency does not impose.
 
-(Pub. L. 93–415, title II, §205, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 95–115, §3(c), Oct. 3, 1977, 91Stat. 1049; Pub. L. 96–509, §19(e), Dec. 8, 1980, 94 Stat. 2763.)
+(Pub. L. 93–415, title II, §205, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 95–115, §3(c), Oct. 3, 1977, 91 Stat. 1049; Pub. L. 96–509, §19(e), Dec. 8, 1980, 94 Stat. 2763.)
 
 #### Amendments
 

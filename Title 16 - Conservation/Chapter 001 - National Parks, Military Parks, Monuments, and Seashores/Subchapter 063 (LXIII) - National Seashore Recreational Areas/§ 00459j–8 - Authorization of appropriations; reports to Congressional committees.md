@@ -30,7 +30,3 @@ Subsec. (b). Pub. L. 103–437, §6(m)(2), struck out at end “Within three yea
 
 1988—Subsec. (b). Pub. L. 100–564 substituted “$2.6 million in addition to the sums previously appropriated” for “not more than $500,000”.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

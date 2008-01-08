@@ -6,7 +6,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (1) In general
 
-&emsp;A person (as defined in section 1308(e)(2)(A) of this title) that receives farm program payments (as described in paragraphs (1) and (2) of this section as being subject to limitation) for a crop year may not also hold, directly or indirectly, substantial beneficial interests in more than two entities (as defined in section 1308(e)(2)(A)(ii) of this title) engaged in farm operations that also receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title. A person that does not receive suchpayments for a crop year may not hold, directly or indirectly, substantial beneficial interests in more than three entities that receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title.
+&emsp;A person (as defined in section 1308(e)(2)(A) of this title) that receives farm program payments (as described in paragraphs (1) and (2) of this section as being subject to limitation) for a crop year may not also hold, directly or indirectly, substantial beneficial interests in more than two entities (as defined in section 1308(e)(2)(A)(ii) of this title) engaged in farm operations that also receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title. A person that does not receive such payments for a crop year may not hold, directly or indirectly, substantial beneficial interests in more than three entities that receive such payments as separate persons, for the purposes of the application of the limitations under section 1308 of this title.
 
 #### (2) Minimal beneficial interests
 
@@ -64,7 +64,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (C) Entities making significant contributions
 
-&emsp;&emsp;If a general partnership, joint venture, or similar entity (as determined by the Secretary) separately makes a significant contribution (based on the total value of the farming operation involved) of capital, equipment, or land, and the standards provided in clauses (ii) and (iii) of paragraph (A), as applied to the entity, are met by theentity, the partners or members making a significant contribution of personal labor or active personal management shall be considered to be actively engaged in farming with respect to the farming operation involved.
+&emsp;&emsp;If a general partnership, joint venture, or similar entity (as determined by the Secretary) separately makes a significant contribution (based on the total value of the farming operation involved) of capital, equipment, or land, and the standards provided in clauses (ii) and (iii) of paragraph (A), as applied to the entity, are met by the entity, the partners or members making a significant contribution of personal labor or active personal management shall be considered to be actively engaged in farming with respect to the farming operation involved.
 
 #### (D) Equipment and personal labor
 
@@ -104,7 +104,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (6) Growers of hybrid seed
 
-&emsp;To determine whether a person growing hybrid seed under contract shall be considered to be actively engaged in farming, the Secretary shall not take into consideration the existence of a hybrid seed contract.
+&emsp;To determine whether a person growing hybrid seed under contract shall be considered to be actively engaged in farming, the Secretaryshall not take into consideration the existence of a hybrid seed contract.
 
 (Pub. L. 99–198, title X, §1001A, as added and amended Pub. L. 100–203, title I, §§1301(a)(3), 1302, Dec. 22, 1987, 101 Stat. 1330–12, 1330–14; Pub. L. 101–624, title XI, §1111(d), (f), Nov. 28, 1990, 104 Stat. 3498, 3499; Pub. L. 102–237, title I, §118(c), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 104–127, title I, §115(c)(1), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, §1603(c)(1), May 13, 2002, 116 Stat. 215.)
 

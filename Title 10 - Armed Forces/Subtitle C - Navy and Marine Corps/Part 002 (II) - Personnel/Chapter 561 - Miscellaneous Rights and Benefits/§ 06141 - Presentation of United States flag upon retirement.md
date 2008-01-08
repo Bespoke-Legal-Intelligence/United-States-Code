@@ -26,5 +26,3 @@ A prior section 6141, act Aug. 10, 1956, ch. 1041, 70A Stat. 382, related to dat
 
 Section applicable with respect to releases from active duty described in this section, sections 3681 and 8681 of this title, and section 516 of Title 14, Coast Guard, on or after Oct. 1, 1998, see section 644(e) of Pub. L. 105–261, set out as a note under section 3681 of this title.
 
-§6142
-

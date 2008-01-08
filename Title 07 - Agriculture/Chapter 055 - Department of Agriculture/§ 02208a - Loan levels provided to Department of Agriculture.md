@@ -1,6 +1,6 @@
 ### §2208a. Loan levels provided to Department of Agriculture
 
-On and after November 10, 2005, loan levels provided in this or any other Appropriations Act to the Department of Agriculture shall be considered estimates, not limitations.
+On and after November 10, 2005, loan levels provided in this or any other Appropriations Actto the Department of Agriculture shall be considered estimates, not limitations.
 
 (Pub. L. 109–97, title VII, §710, Nov. 10, 2005, 119 Stat. 2150.)
 

@@ -22,7 +22,7 @@ Employment Investigation Requirement.—(1)(A) The Under Secretary of Transporta
 
 Background checks of current employees.—
 
-&emsp;(i) A new background check (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
+&emsp;(i) A new background check (including a criminal history record check and a review ofavailable law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
 
 &emsp;(ii) The Under Secretary may provide by order (without regard to the provisions of chapter 5 of title 5, United States Code) for a phased-in implementation of the requirements of this subparagraph.
 
@@ -302,7 +302,7 @@ Section 304(b) of Pub. L. 104–264 provided that: “The amendment made by subs
 
 Amendment by section 502(a) of Pub. L. 104–264 applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see section 502(d) of Pub. L. 104–264, set out as a note under section 30305 of this title.
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Transfer of Functions
 

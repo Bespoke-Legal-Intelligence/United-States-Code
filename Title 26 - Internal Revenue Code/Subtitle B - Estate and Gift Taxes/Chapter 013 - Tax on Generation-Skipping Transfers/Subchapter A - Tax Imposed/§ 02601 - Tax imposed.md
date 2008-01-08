@@ -82,7 +82,7 @@ In general.—In the case of any tax imposed by chapter 13 of the Internal Reven
 
 &emsp;“(2)
 
-Waiver of statute of limitations.—If on the date of the enactment of this Act \[Oct. 22, 1986\] (or at any time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of paragraph (1) is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claimtherefore \[sic\] is filed before the date 1 year after the date of the enactment of this Act.
+Waiver of statute of limitations.—If on the date of the enactment of this Act \[Oct. 22, 1986\] (or at any time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of paragraph (1) is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the date 1 year after the date of the enactment of this Act.
 
 “(d)
 
@@ -108,7 +108,7 @@ Election.—An election under paragraph (1) shall be made at such time and in su
 
 \[Pub. L. 101–508, title XI, §11703(c)(3), Nov. 5, 1990, 104 Stat. 1388–517, provided that: “Subparagraph (C) of section 1433(b)(2) of the Tax Reform Act of 1986 \[Pub. L. 99–514, set out above\] shall not exempt any generation-skipping transfer from the amendments made by subtitle D of title XVI of such Act \[probably means subtitle D (§§1431–1433) of title XIV of Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] to the extent such transfer is attributable to property transferred by gift or by reason of the death of another person to the decedent (or trust) referred to in such subparagraph after August 3, 1990.”\]
 
-\[Section 1014(h)(3)(B) of Pub. L. 100–647 provided that: “Clause (iii) of section 1443(b)(3)(B) \[1433(b)(3)(B)\] of the Reform Act \[Pub. L. 99–514, set out above\] (as amended by subparagraph (A)) shall apply only to transfers after June 10, 1987.”\]
+\[Section 1014(h)(3)(B) of Pub. L. 100–647 provided that: “Clause (iii) of section 1443(b)(3)(B) \[1433(b)(3)(B)\] of the Reform Act \[Pub. L. 99–514, set out above\] (as amendedby subparagraph (A)) shall apply only to transfers after June 10, 1987.”\]
 
 \[Section 1014(h)(5) of Pub. L. 100–647 provided that: “Subparagraph (C) of section 1433(b)(2) of the Reform Act \[Pub. L. 99–514, set out above\] shall not exempt any direct skip from the amendments made by subtitle D of title XIV of the Reform Act \[Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] if—
 

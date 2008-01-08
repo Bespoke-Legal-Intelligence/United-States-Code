@@ -32,7 +32,7 @@ There is established within the Department of Education, the Historically Black 
 
 &emsp;&emsp;(C) a member may continue to serve after the expiration of a term until a successor is appointed.
 
-(Pub. L. 89–329, title III, §347, formerly title VII, §727, as added Pub. L. 102–325, title VII, §704,July 23, 1992, 106 Stat. 746; renumbered title III, §347, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), 306(e), Oct. 7, 1998, 112 Stat. 1636, 1647.)
+(Pub. L. 89–329, title III, §347, formerly title VII, §727, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 746; renumbered title III, §347, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), 306(e), Oct. 7, 1998, 112 Stat. 1636, 1647.)
 
 #### Codification
 

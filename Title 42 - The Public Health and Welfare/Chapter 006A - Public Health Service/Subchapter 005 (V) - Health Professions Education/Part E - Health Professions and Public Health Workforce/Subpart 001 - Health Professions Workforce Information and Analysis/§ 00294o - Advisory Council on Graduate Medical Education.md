@@ -60,7 +60,7 @@ Any vacancy in the Council shall not affect its power to function.
 
 #### (g) Compensation
 
-Each member of the Council who is not otherwise employed by the United States Government shall receive compensation at a rate equal to the daily rate prescribed for GS–18 under the General Schedule under section 5332 of title 5 for each day, including traveltime,<sup>1</sup> such member is engaged in the actual performance of duties as a member of the Council. A member of the Council who is an officer or employee of the United States Government shall serve without additional compensation. All members of the Council shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties.
+Each member of the Council who is not otherwise employed by the United States Government shall receive compensation at a rate equal to the daily rate prescribed for GS–18 under the General Schedule under section 5332 of title 5 for each day, including traveltime,<sup>1</sup> such member is engaged in the actual performance of duties as a member of the Council. A member of the Councilwho is an officer or employee of the United States Government shall serve without additional compensation. All members of the Council shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties.
 
 #### (h) Certain authorities and duties
 
@@ -138,9 +138,11 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Funding for Council on Graduate Medical Education
 
-Pub. L. 109–149, title II, §219, Dec. 30, 2005, 119 Stat. 2861, provided that: “Notwithstanding any other provisions of law, funds made available in this Act \[see Tables for classification\] may be used to continue operating the Council on Graduate Medical Education established by section 301 of Public Law 102–408 \[now section 762 of act July 1, 1944, which is classified to this section\].”
+Pub. L. 110–161, div. G, title II, §217, Dec. 26, 2007, 121 Stat. 2187, provided that: “Notwithstanding any other provisions of law, funds made available in this Act \[div. G of Pub. L. 110–161, see Tables for classification\] may be used to continue operating the Council on Graduate Medical Education established by section 301 of Public Law 102–408 \[now section 762 of act July 1, 1944, which is classified to this section\].”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–149, title II, §219, Dec. 30, 2005, 119 Stat. 2861.
 
 Pub. L. 108–447, div. F, title II, §218, Dec. 8, 2004, 118 Stat. 3141.
 

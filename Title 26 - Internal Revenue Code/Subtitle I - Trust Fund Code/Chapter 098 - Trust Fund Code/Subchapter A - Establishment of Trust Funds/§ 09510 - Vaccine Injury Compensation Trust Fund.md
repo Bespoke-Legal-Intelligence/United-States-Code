@@ -8,7 +8,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (1) In general
 
-&emsp;There are hereby appropriated to the Vaccine Injury Compensation Trust Fundamounts equivalent to the net revenues received in the Treasury from the tax imposed by section 4131 (relating to tax on certain vaccines).
+&emsp;There are hereby appropriated to the Vaccine Injury Compensation Trust Fund amounts equivalent to the net revenues received in the Treasury from the tax imposed by section 4131 (relating to tax on certain vaccines).
 
 #### (2) Net revenues
 
@@ -58,7 +58,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (2) Coordination with other provisions
 
-&emsp;Nothing in the National Childhood Vaccine Injury Act of 1986 (or in any amendment made by such Act) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Vaccine Injury Compensation Trust Fund.
+&emsp;Nothing in the National Childhood Vaccine Injury Act of 1986 (or in any amendment madeby such Act) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Vaccine Injury Compensation Trust Fund.
 
 #### (3) Order in which unpaid claims to be paid
 
@@ -86,7 +86,7 @@ Subsec. (c)(1)(A). Pub. L. 106–170, §523(b)(2), substituted “December 31, 1
 
 Pub. L. 105–277, §1504(a)(2), which directed amendment of subsec. (b) by adding a new par. (3) at the end, was repealed by Pub. L. 106–170, §523(b)(1).
 
-Subsec. (c)(1). Pub. L. 105–277, §4003(d)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Amounts in the Vaccine Injury Compensation Trust Fund shall be available, as provided in appropriation Acts, only for the payment ofcompensation under subtitle 2 of title XXI of the Public Health Service Act (as in effect on the date of the enactment of this section) for vaccine-related injury or death with respect to vaccines administered after September 30, 1988, or for the payment of all expenses of administration (but not in excess of $6,000,000 for any fiscal year) incurred by the Federal Government in administering such subtitle.”
+Subsec. (c)(1). Pub. L. 105–277, §4003(d)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Amounts in the Vaccine Injury Compensation Trust Fund shall be available, as provided in appropriation Acts, only for the payment of compensation under subtitle 2 of title XXI of the Public Health Service Act (as in effect on the date of the enactment of this section) for vaccine-related injury or death with respect to vaccines administered after September 30, 1988, or for the payment of all expenses of administration (but not in excess of $6,000,000 for any fiscal year) incurred by the Federal Government in administering such subtitle.”
 
 Pub. L. 105–277, §1504(a)(1), which directed the general amendment of par. (1), was repealed by Pub. L. 106–170, §523(b)(1).
 

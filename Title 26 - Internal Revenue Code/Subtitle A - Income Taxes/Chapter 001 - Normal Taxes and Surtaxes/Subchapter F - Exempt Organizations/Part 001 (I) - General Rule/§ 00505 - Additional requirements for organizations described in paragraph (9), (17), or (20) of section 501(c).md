@@ -46,7 +46,7 @@
 
 #### (5) Highly compensated individual
 
-&emsp;For purposes of this subsection, the determination as to whether an individual is a highly compensated individual shall be made under rules similar to the rules for determining whether an individual is a highly compensated employee (within the meaning of section 414(q)).
+&emsp;For purposes of this subsection, the determination as to whether an individual is ahighly compensated individual shall be made under rules similar to the rules for determining whether an individual is a highly compensated employee (within the meaning of section 414(q)).
 
 #### (6) Compensation
 
@@ -128,7 +128,7 @@ Subsec. (c)(2). Pub. L. 99–514, §1899A(16), substituted “July 18, 1984” f
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
+Amendment by Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub.L. 107–16, set out as a note under section 415 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -150,7 +150,7 @@ Amendment by section 1114(b)(16) of Pub. L. 99–514 applicable to years beginni
 
 Amendment by section 1151(e)(2)(B), (g)(6), (j)(3) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
-Amendment by section 1851(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in theprovisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1851(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 

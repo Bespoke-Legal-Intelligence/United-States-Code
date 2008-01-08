@@ -14,7 +14,7 @@ For the amendments made by this section, referred to in subsec. (c), see Codific
 
 The National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (c), is Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2315. For complete classification of this Act to the Code, see Tables. See, also, Codification note below.
 
-Section 221(a) of the Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c), is section 221(a)of Pub. L. 102–228, which is set out as a note under section 2551 of this title. See Codification note below.
+Section 221(a) of the Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c), is section 221(a) of Pub. L. 102–228, which is set out as a note under section 2551 of this title. See Codification note below.
 
 #### Codification
 

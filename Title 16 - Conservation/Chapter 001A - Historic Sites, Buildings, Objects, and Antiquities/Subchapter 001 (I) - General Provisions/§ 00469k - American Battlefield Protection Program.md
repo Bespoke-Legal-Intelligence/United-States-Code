@@ -58,7 +58,7 @@ The purpose of this section is to assist citizens, public and private institutio
 
 #### (4) Non-federal share
 
-&emsp;The non-Federal share of the total cost of acquiring an interest in an eligible site under this subsection shall be not less than 50 percent.
+&emsp;The non-Federal share of the total cost of acquiring an interest in an eligible site underthis subsection shall be not less than 50 percent.
 
 #### (5) Limitation on land use
 

@@ -46,7 +46,7 @@ The Secretary of Agriculture, under such rules and regulations as he may prescri
 
 #### (g) Designation, marking, and supervision of harvesting; personnel
 
-Designation, marking when necessary, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture. Such persons shall have no personal interest in the purchase or harvest of such products and shall not be directly or indirectly in the employment of the purchaser thereof.
+Designation, marking when necessary, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted bypersons employed by the Secretary of Agriculture. Such persons shall have no personal interest in the purchase or harvest of such products and shall not be directly or indirectly in the employment of the purchaser thereof.
 
 #### (h) Utilization standards, methods of measurement, and harvesting practices; monetary deposits by purchasers of salvage harvests; nature, purposes and availability of designated fund; return of surplus to Treasury
 
@@ -70,7 +70,7 @@ The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to i
 
 This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, known as the National Forest Management Act of 1976. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
-The Small Business Act, referred to in subsec. (i)(1), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (i)(1), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 #### Amendments
 

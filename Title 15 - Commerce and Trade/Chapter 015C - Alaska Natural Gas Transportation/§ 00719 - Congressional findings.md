@@ -8,7 +8,7 @@ The Congress finds and declares that—
 
 &emsp;(3) the expeditious construction of a viable natural gas transportation system for delivery of Alaska natural gas to United States markets is in the national interest; and
 
-&emsp;(4) the determinations whether to authorize a transportation system for delivery of Alaska natural gas to the contiguous States and, if so, which system to select, involve questions ofthe utmost importance respecting national energy policy, international relations, national security, and economic and environmental impact, and therefore should appropriately be addressed by the Congress and the President in addition to those Federal officers and agencies assigned functions under law pertaining to the selection, construction, and initial operation of such a system.
+&emsp;(4) the determinations whether to authorize a transportation system for delivery of Alaska natural gas to the contiguous States and, if so, which system to select, involve questions of the utmost importance respecting national energy policy, international relations, national security, and economic and environmental impact, and therefore should appropriately be addressed by the Congress and the President in addition to those Federal officers and agencies assigned functions under law pertaining to the selection, construction, and initial operation of such a system.
 
 (Pub. L. 94–586, §2, Oct. 22, 1976, 90 Stat. 2903.)
 

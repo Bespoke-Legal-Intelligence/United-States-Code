@@ -10,7 +10,7 @@ Submission of plans, specifications, and estimates.—Except as otherwise provid
 
 &emsp;(2)
 
-Project agreement.—The Secretary shall act on the plans, specifications, and estimates as soon as practicable after the date of their submission and shall enter into a formal project agreement with the State transportation department formalizing the conditions of the project approval.
+Project agreement.—The Secretary shall act on the plans, specifications, and estimates as soon as practicable after the date oftheir submission and shall enter into a formal project agreement with the State transportation department formalizing the conditions of the project approval.
 
 &emsp;(3)
 
@@ -242,7 +242,7 @@ Life-Cycle Cost Analysis.—
 
 &emsp;“(1)
 
-Establishment.—The Secretary shall establish a program to require States to conduct an analysis ofthe life-cycle costs of each usable project segment on the National Highway System with a cost of $25,000,000 or more.
+Establishment.—The Secretary shall establish a program to require States to conduct an analysis of the life-cycle costs of each usable project segment on the National Highway System with a cost of $25,000,000 or more.
 
 &emsp;“(2)
 

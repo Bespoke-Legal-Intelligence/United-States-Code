@@ -56,7 +56,7 @@ Subsections (b) and (c) \[enacted as section 549(c)\] are derived from section 2
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–8, §104, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to the commencement of a case under this title by an individual whose debts are primarily consumer debts, the clerk shall give written notice to such individual that indicates each chapter of this title under which such individual may proceed.”
+2005—Subsec. (b). Pub. L. 109–8, §104, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to the commencement of a case under this title by an individual whose debts are primarilyconsumer debts, the clerk shall give written notice to such individual that indicates each chapter of this title under which such individual may proceed.”
 
 Subsec. (c). Pub. L. 109–8, §315(a)(1) designated existing provisions as par. (1), struck out “, but the failure of such notice to contain such information shall not invalidate the legal effect of such notice” after “number of the debtor”, and added par. (2).
 

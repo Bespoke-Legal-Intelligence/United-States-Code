@@ -12,11 +12,11 @@ The United States Government shall provide or employ counsel, and pay counsel fe
 
 #### Codification
 
-Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections. The section enacted by Pub. L. 109–148, butnot the section enacted by Pub. L. 109–163, was amended by Pub. L. 109–366, see 2006 Amendment notes below. The text of this section is based on the text of section 1004 of Pub. L. 109–148 as amended by Pub. L. 109–366.
+Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections. The section enacted by Pub. L. 109–148, but not the section enacted by Pub. L. 109–163, was amended by Pub. L. 109–366, see 2006 Amendment notes below. The text of this section is based on the text of section 1004 of Pub. L. 109–148 as amended by Pub. L. 109–366.
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–366, §8(a)(3), which directed the insertion of “whether before United States courts or agencies, foreign courts or agencies, or international courts or agencies,” after “described in that subsection”, was executed by making insertion after “described in that subsection,”, to reflect the probable intent of Congress.
+2006—Subsec. (b). Pub. L. 109–366, §8(a)(3), which directed the insertion of “whether before United States courts or agencies, foreign courts or agencies, or international courts or agencies,” after “described in that subsection”, was executed by making insertion after“described in that subsection,”, to reflect the probable intent of Congress.
 
 Pub. L. 109–366, §8(a)(1), (2), substituted “shall provide” for “may provide” and inserted “or investigation” after “criminal prosecution”.
 

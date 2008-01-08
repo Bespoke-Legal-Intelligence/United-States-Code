@@ -8,9 +8,5 @@ There shall be established in the Department a Domestic Nuclear Detection Office
 
 The Office shall be headed by a Director for Domestic Nuclear Detection, who shall be appointed by the President.
 
-(Pub. L. 107–296, title XVIII, §1801, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1932.)
-
-#### Codification
-
-Another section 1801 of Pub. L. 107–296 is classified to section 571 of this title.
+(Pub. L. 107–296, title XIX, §1901, formerly title XVIII, §1801, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1932; renumbered title XIX, §1901, Pub. L. 110–53, title I, §104(a)(1), (2), Aug. 3, 2007, 121 Stat. 294.)
 

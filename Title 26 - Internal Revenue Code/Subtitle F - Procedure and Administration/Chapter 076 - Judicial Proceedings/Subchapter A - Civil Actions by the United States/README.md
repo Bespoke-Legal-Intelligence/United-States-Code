@@ -8,7 +8,7 @@
 | [7404\.](%C2%A7%2007404%20-%20Authority%20to%20bring%20civil%20action%20for%20estate%20taxes.md) | Authority to bring civil action for estate taxes. |
 | [7405\.](%C2%A7%2007405%20-%20Action%20for%20recovery%20of%20erroneous%20refunds.md) | Action for recovery of erroneous refunds. |
 | [7406\.](%C2%A7%2007406%20-%20Disposition%20of%20judgments%20and%20moneys%20recovered.md) | Disposition of judgments and moneys recovered. |
-| [7407\.](%C2%A7%2007407%20-%20Action%20to%20enjoin%20income%20tax%20return%20preparers.md) | Action to enjoin income tax return preparers. |
+| [7407\.](%C2%A7%2007407%20-%20Action%20to%20enjoin%20tax%20return%20preparers.md) | Action to enjoin tax return preparers. |
 | [7408\.](%C2%A7%2007408%20-%20Actions%20to%20enjoin%20specified%20conduct%20related%20to%20tax%20shelters%20and%20reportable%20transactions.md) | Actions to enjoin specified conduct related to tax shelters and reportable transactions. |
 | [7409\.](%C2%A7%2007409%20-%20Action%20to%20enjoin%20flagrant%20political%20expenditures%20of%20section%20501%28c%29%283%29%20organizations.md) | Action to enjoin flagrant political expenditures of section 501(c)(3) organizations. |
 | [7410\.](%C2%A7%2007410%20-%20Cross%20references.md) | Cross references. |
@@ -16,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2007—Pub. L. 110–28, title VIII, §8246(a)(2)(I)(ii), May 25, 2007, 121 Stat. 202, substituted “tax return preparers” for “income tax return preparers” in item 7407.
 
 2004—Pub. L. 108–357, title VIII, §820(b)(2), Oct. 22, 2004, 118 Stat. 1585, added item 7408 and struck out former item 7408 “Action to enjoin promoters of abusive tax shelters, etc.”
 
@@ -38,7 +40,7 @@
 - [&sect; 07404 - Authority to bring civil action for estate taxes](%C2%A7%2007404%20-%20Authority%20to%20bring%20civil%20action%20for%20estate%20taxes.md)
 - [&sect; 07405 - Action for recovery of erroneous refunds](%C2%A7%2007405%20-%20Action%20for%20recovery%20of%20erroneous%20refunds.md)
 - [&sect; 07406 - Disposition of judgments and moneys recovered](%C2%A7%2007406%20-%20Disposition%20of%20judgments%20and%20moneys%20recovered.md)
-- [&sect; 07407 - Action to enjoin income tax return preparers](%C2%A7%2007407%20-%20Action%20to%20enjoin%20income%20tax%20return%20preparers.md)
+- [&sect; 07407 - Action to enjoin tax return preparers](%C2%A7%2007407%20-%20Action%20to%20enjoin%20tax%20return%20preparers.md)
 - [&sect; 07408 - Actions to enjoin specified conduct related to tax shelters and reportable transactions](%C2%A7%2007408%20-%20Actions%20to%20enjoin%20specified%20conduct%20related%20to%20tax%20shelters%20and%20reportable%20transactions.md)
 - [&sect; 07409 - Action to enjoin flagrant political expenditures of section 501(c)(3) organizations](%C2%A7%2007409%20-%20Action%20to%20enjoin%20flagrant%20political%20expenditures%20of%20section%20501%28c%29%283%29%20organizations.md)
 - [&sect; 07410 - Cross references](%C2%A7%2007410%20-%20Cross%20references.md)

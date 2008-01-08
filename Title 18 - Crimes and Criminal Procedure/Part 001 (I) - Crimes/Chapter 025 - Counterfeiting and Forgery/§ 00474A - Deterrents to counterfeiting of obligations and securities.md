@@ -2,7 +2,7 @@
 
 (a) Whoever has in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury, is guilty of a class B felony.
 
-(b) Whoever has in his control or possession, after a distinctive counterfeit deterrent has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States by publication in the Federal Register, any essentially identical feature or device adapted to the making of any such obligation or security, except under the authority of the Secretary of the Treasury, is guilty of a class B felony.
+(b) Whoever has in his control or possession, after a distinctive counterfeit deterrent has been adopted by the Secretary of the Treasuryfor the obligations and other securities of the United States by publication in the Federal Register, any essentially identical feature or device adapted to the making of any such obligation or security, except under the authority of the Secretary of the Treasury, is guilty of a class B felony.
 
 (c) As used in this section—
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) in which the United States has an exclusive property interest; or
 
-&emsp;&emsp;(B) which is not otherwise in commercial use or in the public domain and which the Secretary designates as being necessary inpreventing the counterfeiting of obligations or other securities of the United States.
+&emsp;&emsp;(B) which is not otherwise in commercial use or in the public domain and which the Secretary designates as being necessary in preventing the counterfeiting of obligations or other securities of the United States.
 
 (Added Pub. L. 102–550, title XV, §1553(a), Oct. 28, 1992, 106 Stat. 4070; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §648(a)\], title II, §2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470.)
 

@@ -24,7 +24,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, 
 
 The mining laws of the United States, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
 
-Ex. Ord. No. 9908, eff. Dec. 5, 1947, 12 F.R. 8223; Ex. Ord. No. 9701 eff. Mar. 7, 1946, 11 F.R. 2369, and Ex. Ord. No. 9613, eff. Sept. 13, 1945, 10 F.R. 11789, referred to in subsec. (b), related to reservation of source material in certain lands owned by the United States; reservation of rights to fissionable materials in lands owned by the United States; and withdrawal and reservation for the use of the United States lands containing radio-active mineral substances. Ex. Ord. No. 10596, eff. Feb. 15, 1955, 20 F.R. 1007, revoked Ex. Ord. No. 9908, which had revoked Ex. Ord. No. 9701, which had earlier revoked Ex. Ord. No. 9613.
+Ex. Ord. No. 9908, eff. Dec. 5, 1947, 12 F.R. 8223; Ex. Ord. No. 9701 eff. Mar. 7, 1946, 11 F.R. 2369, and Ex. Ord.No. 9613, eff. Sept. 13, 1945, 10 F.R. 11789, referred to in subsec. (b), related to reservation of source material in certain lands owned by the United States; reservation of rights to fissionable materials in lands owned by the United States; and withdrawal and reservation for the use of the United States lands containing radio-active mineral substances. Ex. Ord. No. 10596, eff. Feb. 15, 1955, 20 F.R. 1007, revoked Ex. Ord. No. 9908, which had revoked Ex. Ord. No. 9701, which had earlier revoked Ex. Ord. No. 9613.
 
 #### Prior Provisions
 
@@ -32,5 +32,5 @@ Provisions similar to this section were contained in section 1805(b)(7) of this 
 
 #### Amendments
 
-1958—Subsec. (b). Pub. L. 85–681 provided a general release of reservations of fissionable materials or sourcematerials under acquired lands of the United States as well as public lands.
+1958—Subsec. (b). Pub. L. 85–681 provided a general release of reservations of fissionable materials or source materials under acquired lands of the United States as well as public lands.
 

@@ -55,7 +55,7 @@ Pub. L. 109–364, div. A, title XI, §1104, Oct. 17, 2006, 120 Stat. 2409, prov
 
 “(a)
 
-Quarterly Reports on Details and Fellowships of Long Duration.—Not later than 120 days afterthe date of the enactment of this Act \[Oct. 17, 2006\], and quarterly thereafter, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the members of the Armed Forces and civilian employees of the Department of Defense who, as of the date of such report, have served continuously in the Legislative Branch for more than 12 consecutive months in one or a combination of covered legislative details or fellowships.
+Quarterly Reports on Details and Fellowships of Long Duration.—Not later than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\], and quarterly thereafter, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the members of the Armed Forces and civilian employees of the Department of Defense who, as of the date of such report, have served continuously in the Legislative Branch for more than 12 consecutive months in one or a combination of covered legislative details or fellowships.
 
 “(b)
 

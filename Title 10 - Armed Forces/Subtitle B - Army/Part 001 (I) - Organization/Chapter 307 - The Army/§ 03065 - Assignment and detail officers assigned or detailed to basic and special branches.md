@@ -56,5 +56,3 @@ In subsection (d), the words “basic or special branch” are substituted for t
 
 In subsection (e), the words “No officer \* \* \* may be \* \* \* unless he is” are substituted for the words “officers of the Army \* \* \* shall \* \* \* possess”. The last 16 words of the first sentence are substituted for the Act of June 28, 1950, ch. 383, Title IV, §404(e), 64 Stat. 274. The last sentence is substituted for 10:1g(f) (1st 9 words).
 
-§3066
-

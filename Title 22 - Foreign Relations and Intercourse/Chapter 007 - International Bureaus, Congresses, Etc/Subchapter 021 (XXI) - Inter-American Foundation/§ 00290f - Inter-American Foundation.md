@@ -58,7 +58,7 @@ Upon termination of the corporate life of the Foundation all of its assets shall
 
 #### (g) Board of directors; number, term, and appointment
 
-The management of the Foundation shall be vested in a board of directors (hereafter in this section referred to as the “Board”) composed of nine members appointed by the President, by and with the advice and consent of the Senate, one of whom he shall designate to serve as Chairman of the Board and one of whom he shall designate to serve as Vice Chairman of the Board. Six members of the Board shall be appointed from private life. Three members of the Board shall be appointed from among officers or employees of agencies of the United States concerned with inter-American affairs. Members of the Board shall be appointed for terms of six years, except that of the members first appointed two shall be appointed for terms of two years and two shall be appointed for terms of four years, as designated by the President at the time of their appointment. A member of the Board appointed to fill a vacancy occurring prior to the expiration of the term for which hispredecessor was appointed shall be appointed only for the remainder of such term; but upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified. Members of the Board shall be eligible for reappointment. All individuals appointed to the Board shall possess an understanding of and sensitivity to community level development processes. No more than 5 members of the Board may be members of any one political party.
+The management of the Foundation shall be vested in a board of directors (hereafter in this section referred to as the “Board”) composed of nine members appointed by the President, by and with the advice and consent of the Senate, one of whom he shall designate to serve as Chairman of the Board and one of whom he shall designate to serve as Vice Chairman of the Board. Six members of the Board shall be appointed from private life. Three members of the Board shall be appointed from among the following: officers or employees of agencies of the United States concerned with inter-American affairs, the United States Executive Director of the Inter-American Development Bank, or the Alternate Executive Director of the Inter-American Development Bank. Members of the Board shall be appointed for terms of six years, except that of the members first appointed two shall be appointed for terms of two years and two shall be appointed for terms of four years, as designated by the President at the time of their appointment. A member of the Board appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term; but upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified. Members of the Board shall be eligible for reappointment. All individuals appointed to the Board shall possess an understanding of and sensitivity to community level development processes. No more than 5 members of the Board may be members of any one political party.
 
 #### (h) Reimbursement of expenses
 
@@ -110,7 +110,7 @@ The Foundation, including its franchise and income, shall be exempt from taxatio
 
 (1) Notwithstanding any other provision of law, not to exceed an aggregate amount of $50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
 
-(2) There are authorized to be appropriated $28,800,000 for fiscal year 1992 and $31,000,000 forfiscal year 1993 to carry out this section. Amounts appropriated under this paragraph are authorized to remain available until expended.
+(2) There are authorized to be appropriated $28,800,000 for fiscal year 1992 and $31,000,000 for fiscal year 1993 to carry out this section. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
 #### (t) Application of chapter 91 of title 31
 
@@ -128,7 +128,7 @@ Funds made available to the Foundation may be used for the expenses described in
 
 Funds made available to the Foundation may be used for printing and binding without regard to section 501 of title 44.
 
-(Pub. L. 91–175, pt. IV, §401, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. IV, §406(2)–(5), Feb. 7, 1972, 86 Stat. 34; Pub. L. 95–105, title V, §508, Aug. 17, 1977, 91 Stat. 859; Pub. L. 97–241, title V, §501, Aug. 24, 1982, 96 Stat. 297; Pub. L. 98–164, title X, §1001, Nov. 22, 1983, 97 Stat. 1051; Pub. L. 99–83, title VII, §708, Aug. 8, 1985, 99 Stat. 243; Pub. L. 99–529, title II, §202(e), title IV, §403(a), Oct. 24, 1986, 100 Stat. 3012, 3019; Pub. L. 101–246, title VI, §601, Feb. 16, 1990, 104 Stat. 73; Pub. L. 102–138, title I, §173(a), (b)(1), (c), (d), Oct. 28, 1991, 105 Stat. 679, 680.)
+(Pub. L. 91–175, pt. IV, §401, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. IV, §406(2)–(5), Feb. 7, 1972, 86 Stat. 34; Pub. L. 95–105, title V, §508, Aug. 17, 1977, 91 Stat. 859; Pub. L. 97–241, title V, §501, Aug. 24, 1982, 96 Stat. 297; Pub. L. 98–164, title X, §1001, Nov. 22, 1983, 97 Stat. 1051; Pub. L. 99–83, title VII, §708, Aug. 8, 1985, 99 Stat. 243; Pub. L. 99–529, title II, §202(e), title IV, §403(a), Oct. 24, 1986, 100 Stat. 3012, 3019; Pub. L. 101–246, title VI, §601, Feb. 16, 1990, 104 Stat. 73; Pub. L. 102–138, title I, §173(a), (b)(1), (c), (d), Oct. 28, 1991, 105 Stat. 679, 680; Pub. L. 110–38, §1, June 21, 2007, 121 Stat. 230.)
 
 #### References in Text
 
@@ -141,6 +141,8 @@ Repeal of section by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(c)
 In subsec. (t), “chapter 91 of title 31” substituted for “the Government Corporation Control Act \[31 U.S.C. 841 et seq.\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2007—Subsec. (g). Pub. L. 110–38 amended third sentence generally. Prior to amendment, third sentence read as follows: “Three members of the Board shall be appointed from among officers or employees of agencies of the United States concerned with inter-American affairs.”
 
 1991—Subsec. (g). Pub. L. 102–138, §173(b)(1), inserted provision at end that all individuals appointed to the Board possess an understanding of and sensitivity to community level development processes and that no more than 5 members of the Board be of any one political party.
 
@@ -186,7 +188,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Short Title
 
-Part IV of Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 821, as amended by Pub. L. 92–226, pt. IV, §406(1), Feb. 7, 1972,86 Stat. 34, which enacted this section, designated as the “Inter-American Foundation Act”.
+Part IV of Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 821, as amended by Pub. L. 92–226, pt. IV, §406(1), Feb. 7, 1972, 86 Stat. 34, which enacted this section, designated as the “Inter-American Foundation Act”.
 
 #### Abolition of Inter-American Foundation
 

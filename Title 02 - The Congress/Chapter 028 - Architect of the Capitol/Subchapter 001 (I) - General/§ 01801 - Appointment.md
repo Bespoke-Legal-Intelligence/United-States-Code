@@ -66,5 +66,5 @@ Plan by architect in response.—After the Comptroller General submits the study
 
 #### Accounting and Financial Management System
 
-Pub. L. 107–68, title I, §132, Nov. 12, 2001, 115 Stat. 581, which directed the Architect of the Capitol to developand maintain an accounting and financial management system, including financial reporting and internal controls, was from the Legislative Branch Appropriations Act, 2002.
+Pub. L. 107–68, title I, §132, Nov. 12, 2001, 115 Stat. 581, which directed the Architect of the Capitol to develop and maintain an accounting and financial management system, including financial reporting and internal controls, was from the Legislative Branch Appropriations Act, 2002.
 

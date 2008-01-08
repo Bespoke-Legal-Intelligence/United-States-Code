@@ -62,7 +62,7 @@ An order approving a physical search under this section shall—
 
 (1)(A) Notwithstanding any other provision of this subchapter, whenever the Attorney General reasonably makes the determination specified in subparagraph (B), the Attorney General may authorize the execution of an emergency physical search if—
 
-&emsp;(i) a judge having jurisdiction under section 1803 of this title is informed by the Attorney General or the Attorney General's designee at the time of such authorization that the decision has been made to execute an emergency search, and
+&emsp;(i) a judge having jurisdiction under section 1803 of this title is informed by the AttorneyGeneral or the Attorney General's designee at the time of such authorization that the decision has been made to execute an emergency search, and
 
 &emsp;(ii) an application in accordance with this subchapter is made to that judge as soon as practicable but not more than 72 hours after the Attorney General authorizes such search.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General, through the Office on Violence Against Women, shall fund efforts to develop education curricula for tribal court judges to ensure that all tribal courts have relevant information about promising practices,procedures, policies, and law regarding tribal court responses to adult and youth domestic violence, dating violence, sexual assault, and stalking.
+The Attorney General, through the Office on Violence Against Women, shall fund efforts to develop education curricula for tribal court judges to ensure that all tribal courts have relevant information about promising practices, procedures, policies, and law regarding tribal court responses to adult and youth domestic violence, dating violence, sexual assault, and stalking.
 
 #### (b) Eligible entities
 

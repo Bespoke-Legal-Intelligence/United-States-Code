@@ -53,8 +53,6 @@
 
 2006—Pub. L. 109–364, div. A, title VIII, §807(a)(2), div. B, title XXVIII, §2851(c)(2), Oct. 17, 2006, 120 Stat. 2315, 2495, added item 2410p and struck out items 2388 “Liquid fuels and natural gas: contracts for storage, handling, or distribution”, 2394 “Contracts for energy or fuel for military installations”, 2394a “Procurement of energy systems using renewable forms of energy”, 2398 “Procurement of gasohol as motor vehicle fuel”, 2398a “Procurement of fuel derived from coal, oil shale, and tar sands”, 2404 “Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority”, and 2410c “Preference for energy efficient electric equipment”.
 
-&nbsp;
-
 Pub. L. 109–163, div. A, title VIII, §815(d)(2), Jan. 6, 2006, 119 Stat. 3382, substituted “Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles” for “Requirement for authorization by law of certain contracts relating to vessels and aircraft” in item 2401.
 
 2005—Pub. L. 109–58, title III, §369(q)(2), Aug. 8, 2005, 119 Stat. 733, added item 2398a.

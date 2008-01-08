@@ -28,7 +28,7 @@
 
 (c) If the President establishes or designates an office, agency, activity, or command in the Department of Defense of a kind other than those described in paragraphs (1) through (9) of subsection (b), the President shall notify Congress not later than 60 days thereafter.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §131; renumbered §111 and amended Pub. L. 99–433, title I, §101(a)(2), (b), Oct. 1, 1986, 100 Stat. 994, 995.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §131; renumbered §111 and amendedPub. L. 99–433, title I, §101(a)(2), (b), Oct. 1, 1986, 100 Stat. 994, 995.)
 
 Historical and Revision Notes
 
@@ -110,7 +110,7 @@ Pub. L. 105–85, div. A, title X, §1081, Nov. 18, 1997, 111 Stat. 1916, provid
 
 “(a)
 
-Applicability of Certain Pay Authorities.—(1) An individual who is a member of a commission or panel specified in subsection (b) and is an annuitant otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the commission or panel is not subject to the provisions of that section with respect to such membership.
+Applicability of Certain Pay Authorities.—(1) An individual who is a member of a commission orpanel specified in subsection (b) and is an annuitant otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the commission or panel is not subject to the provisions of that section with respect to such membership.
 
 “(2) An individual who is a member of a commission or panel specified in subsection (b) and is a member or former member of a uniformed service is not subject to the provisions of subsections (b) and (c) of section 5532 of such title with respect to membership on the commission or panel.
 
@@ -180,7 +180,7 @@ Pub. L. 101–510, div. A, title XIII, §1321, Nov. 5, 1990, 104 Stat. 1670, pro
 
 #### Restoration of Certain Reporting Requirements of Title 10 Terminated by Goldwater-Nichols Act
 
-Pub. L. 101–510, div. A, title XIII, §1323, Nov. 5, 1990, 104 Stat. 1672, restored effectiveness of following report and notification provisions previously terminated by section 602(c) of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, Pub. L. 99–433, formerly set out below: (1) the quarterly report required by section 127(c) of this title relating to emergency and extraordinary expenses, (2) the notifications requiredby section 2672a(b) of this title relating to urgent acquisitions of interests in land, (3) the notifications required by section 7308(c) of this title relating to the transfer or gift of obsolete, condemned, or captured vessels, and (4) the notifications required by section 7309(b) of this title relating to construction or repair of vessels in foreign shipyards.
+Pub. L. 101–510, div. A, title XIII, §1323, Nov. 5, 1990, 104 Stat. 1672, restored effectiveness of following report and notification provisions previously terminated bysection 602(c) of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, Pub. L. 99–433, formerly set out below: (1) the quarterly report required by section 127(c) of this title relating to emergency and extraordinary expenses, (2) the notifications required by section 2672a(b) of this title relating to urgent acquisitions of interests in land, (3) the notifications required by section 7308(c) of this title relating to the transfer or gift of obsolete, condemned, or captured vessels, and (4) the notifications required by section 7309(b) of this title relating to construction or repair of vessels in foreign shipyards.
 
 #### Goldwater-Nichols Department of Defense Reorganization Act of 1986; Congressional Declaration of Policy
 

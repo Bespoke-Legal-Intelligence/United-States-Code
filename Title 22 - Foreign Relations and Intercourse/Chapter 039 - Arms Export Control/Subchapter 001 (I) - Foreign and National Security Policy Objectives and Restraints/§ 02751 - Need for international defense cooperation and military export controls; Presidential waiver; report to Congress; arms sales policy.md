@@ -10,7 +10,7 @@ It is the sense of the Congress that all such sales be approved only when they a
 
 It shall be the policy of the United States to exert leadership in the world community to bring about arrangements for reducing the international trade in implements of war and to lessen the danger of outbreak of regional conflict and the burdens of armaments. United States programs for or procedures governing the export, sale, and grant of defense articles and defense services to foreign countries and international organizations shall be administered in a manner which will carry out this policy.
 
-It is the sense of the Congress that the President should seek to initiate multilateral discussions for the purpose of reaching agreements among the principal arms suppliers and arms purchasers and other countries with respect to the control of the international trade in armaments. It is further the sense of Congress thatthe President should work actively with all nations to check and control the international sale and distribution of conventional weapons of death and destruction and to encourage regional arms control arrangements. In furtherance of this policy, the President should undertake a concerted effort to convene an international conference of major arms-supplying and arms-purchasing nations which shall consider measures to limit conventional arms transfers in the interest of international peace and stability.
+It is the sense of the Congress that the President should seek to initiate multilateral discussions for the purpose of reaching agreements among the principal arms suppliers and arms purchasers and other countries with respect to the control of the international trade in armaments. It is further the sense of Congress that the President should work actively with all nations to check and control the international sale and distribution of conventional weapons of death and destruction and to encourage regional arms control arrangements. In furtherance of this policy, the President should undertake a concerted effort to convene an international conference of major arms-supplying and arms-purchasing nations which shall consider measures to limit conventional arms transfers in the interest of international peace and stability.
 
 It is the sense of the Congress that the aggregate value of defense articles and defense services—
 
@@ -66,11 +66,11 @@ Pub. L. 105–194, §1, July 14, 1998, 112 Stat. 627, provided that: “This Act
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589,2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
+Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
 
 #### Short Title
 
-Pub. L. 90–629, as amended by section 201(a) of Pub. L. 94–329, provided: “That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] may be cited as the ‘Arms Export Control Act’.”
+Pub. L. 90–629, as amended by section 201(a) of Pub. L. 94–329, provided: “That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title,repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] may be cited as the ‘Arms Export Control Act’.”
 
 #### Man-Portable Air Defense Systems (MANPADS)
 
@@ -88,7 +88,7 @@ Determination Relating to Sanctions.—
 
 In general.—If the President determines that a foreign government knowingly transfers MANPADS to a foreign government described in paragraph (2) or a terrorist organization, the President shall—
 
-&emsp;&emsp;“(A) submit forthwith to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report containing such determination; and
+&emsp;&emsp;“(A) submit forthwith to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report containing such determination; and
 
 &emsp;&emsp;“(B) impose forthwith on the transferring foreign government the sanctions described in subsection (c).
 
@@ -112,7 +112,7 @@ Sanctions Described.—The sanctions referred to in subsection (b)(1)(B) are the
 
 “(d)
 
-Waiver.—Notwithstanding any other provision of law, sanctions shall not be imposed on a transferring foreign government under this section if the President determines and certifies in writing to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate that the furnishing of the assistance, sales, licensing, or financing that would otherwise be suspended as a result of the imposition of such sanctions is important to the national security interests of the United States.
+Waiver.—Notwithstanding any other provision of law, sanctions shall not be imposed on a transferring foreign government under this section if the President determines and certifies in writing to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate that the furnishing of the assistance, sales, licensing, or financing that would otherwise be suspended as a result of the imposition of such sanctions is important to the national security interests of the United States.
 
 “(e)
 
@@ -188,7 +188,7 @@ In general.—As soon as practicable, but not later than the date of completion 
 
 &emsp;“(2)
 
-Certification acceptance.—Under the process, the Administrator shall accept the certification of the Department of Homeland Security that a missile defense system is effective and functional to defend commercial aircraft against MANPADSs.
+Certification acceptance.—Under the process, the Administrator shall accept the certification ofthe Department of Homeland Security that a missile defense system is effective and functional to defend commercial aircraft against MANPADSs.
 
 &emsp;“(3)
 
@@ -248,7 +248,7 @@ Definitions.—In this section, the following definitions apply:
 
 Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—
 
-&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on International Relations, and the Committee on Transportation and Infrastructure of the House of Representatives; and
+&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on International Relations \[now Committee on Foreign Affairs\], and the Committee on Transportation and Infrastructure of the House of Representatives; and
 
 &emsp;&emsp;“(B) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Commerce, Science, and Transportation of the Senate.
 
@@ -352,7 +352,7 @@ Termination of waiver.—The President may, at any time, terminate any waiver gr
 
 Definitions.—As used in this section—
 
-&emsp;“(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives; and
+&emsp;“(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives; and
 
 “(2) the terms ‘defense article’ and ‘defense service’ have the meanings given to such terms by paragraphs (3) and (4), respectively, of section 47 of the Arms Export Control Act \[22 U.S.C. 2794(3), (4)\].
 
@@ -492,7 +492,7 @@ Termination of Committee.—The committee shall cease to exist at the end of Sep
 
 &emsp;&emsp;“(A) the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
 
-&emsp;&emsp;“(B) the Committee on Armed Services \[now Committee on National Security\], the Committee on Appropriations, the Committee on Foreign Affairs \[now Committee on International Relations\], and the Permanent Select Committee on Intelligence of the House of Representatives.
+&emsp;&emsp;“(B) the Committee on Armed Services \[now Committee on National Security\], the Committee on Appropriations, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 &emsp;“(2) The term ‘intelligence community’ has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a).”
 
@@ -550,7 +550,7 @@ Pub. L. 95–92, §26, Aug. 4, 1977, 91 Stat. 625, provided that: “In accordan
 
 #### Review by President of Categories and Arms Sales Controls on Lethal and Non-Lethal Items
 
-Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, directed President to undertake a review of all regulations relating to arms control for the purpose of defining and categorizing lethal and non-lethal products and establishing the appropriate level of control for each category.
+Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, directed President to undertake a review of all regulations relating to arms control for the purpose of defining andcategorizing lethal and non-lethal products and establishing the appropriate level of control for each category.
 
 #### Study of United States Arms Sales Policies and Practices by President; Report to Congress
 
@@ -610,7 +610,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (d) Those under Sections 22(a), 29, 30 and 30A of the Act \[22 U.S.C. 2762(a), 2769, 2770, 2770a\] to the Secretary of Defense.
 
-(e) Those under Section 23 of the Act \[22 U.S.C. 2763\] and section 571 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[22 U.S.C. 2763 note\], to the Secretary of Defense, to be exercised in consultation with the Secretary of State and the Secretary of the Treasury, except that the President shall determine any rate of interest to be charged which is less than the market rate of interest.
+(e) Those under Section 23 of the Act \[22 U.S.C. 2763\] and section 571 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[22 U.S.C. 2763 note\], to the Secretary of Defense, to be exercised in consultation with the Secretary of State and the Secretary of the Treasury, except that the President shall determineany rate of interest to be charged which is less than the market rate of interest.
 
 (f) Those under Sections 24, 27, and 28 of the Act \[22 U.S.C. 2764, 2767, former 2768\] to the Secretary of Defense. The Secretary of Defense, in implementing the functions delegated to him under Sections 24 and 27 \[22 U.S.C. 2764, 2767\], shall consult with the Secretary of State and the Secretary of the Treasury.
 

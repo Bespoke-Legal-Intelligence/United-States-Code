@@ -30,7 +30,7 @@ The standards and guidelines required by subsection (a) of this section shall in
 
 In developing standards and guidelines required by subsections (a) and (b) of this section, the Institute shall—
 
-&emsp;(1) consult with other agencies and offices (including, but not limited to, the Director of the Office of Management and Budget, the Departments of Defense and Energy, the National Security Agency, the Government Accountability Office, and the Secretary of Homeland Security) to assure—
+&emsp;(1) consult with other agencies and offices (including, but not limited to, the Director ofthe Office of Management and Budget, the Departments of Defense and Energy, the National Security Agency, the Government Accountability Office, and the Secretary of Homeland Security) to assure—
 
 &emsp;&emsp;(A) use of appropriate information security policies, procedures, and techniques, in order to improve information security and avoid unnecessary and costly duplication of effort; and
 
@@ -124,7 +124,7 @@ A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 &emsp;&emsp;“(A) those systems excluded by section 2315 of title 10 or section 3502(9) of title 44; and
 
-&emsp;&emsp;“(B) those systems which are protected at all times by procedures established for informationwhich has been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy,
+&emsp;&emsp;“(B) those systems which are protected at all times by procedures established for information which has been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy,
 
 > the primary purpose of which standards and guidelines shall be to control loss and unauthorized modification or disclosure of sensitive information in such systems and to prevent computer-related fraud and misuse;
 
@@ -196,7 +196,7 @@ Intramural Security Research.—As part of the research activities conducted in 
 
 “(f)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary $1,060,000 for fiscal year 2003 and $1,090,000 for fiscal year 2004 to enable the Computer System Security and Privacy Advisory Board, established by section 278g–4 of this title, to identify emerging issues, including research needs, related to computer security, privacy, and cryptography and, as appropriate, to convene public meetings on those subjects, receive presentations, and publish reports, digests, and summaries for public distribution on those subjects.”
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary $1,060,000 for fiscal year 2003 and $1,090,000 for fiscal year 2004 to enable the Computer System Security and Privacy Advisory Board, established by section 278g–4 of this title, to identify emerging issues, including research needs, related to computer security, privacy, and cryptography and, as appropriate, to convene public meetings on those subjects, receive presentations,and publish reports, digests, and summaries for public distribution on those subjects.”
 
 Pub. L. 107–296 added text of section and struck out former text, as added by Pub. L. 107–347, which read:
 
@@ -318,7 +318,7 @@ Subsec. (b)(4) to (6). Pub. L. 104–106, §5607(a)(2)(C), redesignated pars. (4
 
 Subsec. (d)(1)(B)(v). Pub. L. 104–106, §5607(a)(3)(A), struck out “as defined by regulations issued by the Administrator for General Services pursuant to section 759 of title 40” after “related resources”.
 
-Subsec. (d)(2). Pub. L. 104–106, §5607(a)(3)(B), substituted “system’ ” for “system’—”, struck out “(A)”before “means”, substituted “function;” for “function; and”, and struck out subpar. (B) which read as follows: “includes automatic data processing equipment as that term is defined in section 759(a)(2) of title 40;”.
+Subsec. (d)(2). Pub. L. 104–106, §5607(a)(3)(B), substituted “system’ ” for “system’—”, struck out “(A)” before “means”, substituted “function;” for “function; and”, and struck out subpar. (B) which read as follows: “includes automatic data processing equipment as that term is defined in section 759(a)(2) of title 40;”.
 
 1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” in introductory provisions of subsecs. (a) and (b) and wherever appearing in closing provisions of subsec. (c).
 

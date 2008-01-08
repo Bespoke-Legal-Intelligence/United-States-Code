@@ -46,7 +46,7 @@ Authority.—Using appropriated funds, other than funds available for compensati
 
 “(b)
 
-Performance by Contract.—Examinations under the authority provided in subsection (a) shall be conducted pursuant to contracts entered into and administered by the Under Secretary for Benefits.
+Performance by Contract.—Examinations under the authority provided in subsection (a) shall beconducted pursuant to contracts entered into and administered by the Under Secretary for Benefits.
 
 “(c)
 

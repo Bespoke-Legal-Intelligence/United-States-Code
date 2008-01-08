@@ -68,7 +68,7 @@ For purposes of this section, the term “qualified debt instrument” means any
 
 &emsp;&emsp;&emsp;(ii) the CPI for calendar year 1988.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the CPI for any calendar year is the average of the Consumer Price Index as of the close of the 12-month period ending on September 30 of such calendar year.
+> &emsp;&emsp;For purposes of the preceding sentence, the CPI for any calendar year is the average of the Consumer Price Index as of the close ofthe 12-month period ending on September 30 of such calendar year.
 
 #### (e) Regulations
 

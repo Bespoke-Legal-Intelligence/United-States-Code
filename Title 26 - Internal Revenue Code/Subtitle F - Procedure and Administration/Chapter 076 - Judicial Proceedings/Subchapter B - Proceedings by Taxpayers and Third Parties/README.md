@@ -8,7 +8,7 @@
 | [7424\.](%C2%A7%2007424%20-%20Intervention.md) | Intervention. |
 | [7425\.](%C2%A7%2007425%20-%20Discharge%20of%20liens.md) | Discharge of liens. |
 | [7426\.](%C2%A7%2007426%20-%20Civil%20actions%20by%20persons%20other%20than%20taxpayers.md) | Civil actions by persons other than taxpayers. |
-| [7427\.](%C2%A7%2007427%20-%20Income%20tax%20return%20preparers.md) | Income tax return preparers. |
+| [7427\.](%C2%A7%2007427%20-%20Tax%20return%20preparers.md) | Tax return preparers. |
 | [7428\.](%C2%A7%2007428%20-%20Declaratory%20judgments%20relating%20to%20status%20and%20classification%20of%20organizations%20under%20section%20501%28c%29%283%29%2C%20etc.md) | Declaratory judgments relating to status and classification of organizations under section 501(c)(3), etc. |
 | [7429\.](%C2%A7%2007429%20-%20Review%20of%20jeopardy%20levy%20or%20assessment%20procedures.md) | Review of jeopardy levy or assessment procedures. |
 | [7430\.](%C2%A7%2007430%20-%20Awarding%20of%20costs%20and%20certain%20fees.md) | Awarding of costs and certain fees. |
@@ -25,6 +25,8 @@
 
 #### Amendments
 
+2007—Pub. L. 110–28, title VIII, §8246(a)(2)(J)(ii), May 25, 2007, 121 Stat. 202, substituted “Tax return preparers” for “Income tax return preparers” in item 7427.
+
 2004—Pub. L. 108–357, title VIII, §881(b)(2), Oct. 22, 2004, 118 Stat. 1626, added item 7433A.
 
 1997—Pub. L. 105–35, §3(d)(5), Aug. 5, 1997, 111 Stat. 1106, inserted “inspection or” before “disclosure” in item 7431.
@@ -39,7 +41,7 @@ Pub. L. 105–34, title XIV, §1454(b)(4), Aug. 5, 1997, 111 Stat. 1057, added i
 
 1976—Pub. L. 94–455, title XII, §§1203(b)(2)(B), 1204(c)(13), title XIII, §1306(b)(6), Oct. 4, 1976, 90 Stat. 1690, 1699, 1719, added items 7427 to 7429 and redesignated former item 7427 as 7430.
 
-1966—Pub. L. 89–719, title I, §110(d)(1), (2), Nov. 2, 1966, 80 Stat. 1145, inserted “and Third Parties” in subchapter heading, substituted “Intervention” for “Civil action to clear title to property” in item 7424, added items 7425 and 7426, and redesignated former item 7425 as 7427.
+1966—Pub. L. 89–719, title I, §110(d)(1), (2), Nov. 2, 1966, 80 Stat. 1145, inserted “and Third Parties” in subchapter heading, substituted “Intervention” for “Civilaction to clear title to property” in item 7424, added items 7425 and 7426, and redesignated former item 7425 as 7427.
 
 
 ---
@@ -52,7 +54,7 @@ Pub. L. 105–34, title XIV, §1454(b)(4), Aug. 5, 1997, 111 Stat. 1057, added i
 - [&sect; 07424 - Intervention](%C2%A7%2007424%20-%20Intervention.md)
 - [&sect; 07425 - Discharge of liens](%C2%A7%2007425%20-%20Discharge%20of%20liens.md)
 - [&sect; 07426 - Civil actions by persons other than taxpayers](%C2%A7%2007426%20-%20Civil%20actions%20by%20persons%20other%20than%20taxpayers.md)
-- [&sect; 07427 - Income tax return preparers](%C2%A7%2007427%20-%20Income%20tax%20return%20preparers.md)
+- [&sect; 07427 - Tax return preparers](%C2%A7%2007427%20-%20Tax%20return%20preparers.md)
 - [&sect; 07428 - Declaratory judgments relating to status and classification of organizations under section 501(c)(3), etc](%C2%A7%2007428%20-%20Declaratory%20judgments%20relating%20to%20status%20and%20classification%20of%20organizations%20under%20section%20501%28c%29%283%29%2C%20etc.md)
 - [&sect; 07429 - Review of jeopardy levy or assessment procedures](%C2%A7%2007429%20-%20Review%20of%20jeopardy%20levy%20or%20assessment%20procedures.md)
 - [&sect; 07430 - Awarding of costs and certain fees](%C2%A7%2007430%20-%20Awarding%20of%20costs%20and%20certain%20fees.md)

@@ -18,7 +18,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 1\. The Secretary of the Interior is hereby designated and empowered to perform the following-described functions of the President without the approval, ratification, or other action of the President:
 
-(a) The authority vested in the President by section 1 of the act of July 10, 1935, ch. 375, 49 Stat. 477 \[see 16 U.S.C. 19e to 19n\], to appoint members of the National Park Trust Fund Board.
+(a) The authority vested in the President by section 1 of the act of July 10, 1935, ch. 375, 49 Stat. 477 \[see 16U.S.C. 19e to 19n\], to appoint members of the National Park Trust Fund Board.
 
 (b) The authority vested in the President by section 2059 of the Revised Statutes \[25 U.S.C. 62\] to discontinue any Indian agency, or transfer the same, from the place or tribe designated by law to such other place or tribe as the public service may require.
 
@@ -68,7 +68,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 #### Ex. Ord. No. 10289. Delegation of Functions to Secretary of the Treasury
 
-Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 10583, Dec. 18, 1954, 19 F.R. 8725; Ex. Ord. No. 10882, July 18, 1960, 25 F.R. 6869; Ex. Ord. No. 11110, June 4, 1963, 28 F.R. 5605; Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 10583, Dec. 18, 1954, 19 F.R.8725; Ex. Ord. No. 10882, July 18, 1960, 25 F.R. 6869; Ex. Ord. No. 11110, June 4, 1963, 28 F.R. 5605; Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 1\. The Secretary of the Treasury is hereby designated and empowered to perform the following-described functions of the President without the approval, ratification, or other action of the President:
 
@@ -76,7 +76,7 @@ Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 105
 
 (b) The authority vested in the President by section 1 of the Anti-Smuggling Act of August 5, 1935, c. 438, 49 Stat. 517 \[19 U.S.C. 1701\], (1) to find and declare that at any place or within any area on the high seas adjacent to but outside customs waters any vessel or vessels hover or are being kept off the coast of the United States and that, by virtue of the presence of any such vessel or vessels at such place or within such area, the unlawful introduction or removal into or from the United States of any merchandise or person is being, or may be, occasioned, promoted, or threatened, (2) to find and declare that certain waters on the high seas are in such proximity to such vessel or vessels that such unlawful introduction or removal of merchandise or persons may be carried on by or to or from such vessel or vessels, and (3) to find and declare that, within any customs-enforcement area, the circumstances no longer exist which gave rise to the declaration of such area as a customs-enforcement area.
 
-(c) The authority vested in the President by section 1 of the Act of August 26, 1985, Public Law 98–89, 97 Stat. 510 (46 U.S.C. 3101); to suspend the provisions of law requiring the inspection of foreign-built vessels admitted to American registry.
+(c) The authority vested in the President by section 1 of the Act of August 26, 1985 \[1983\], Public Law 98–89, 97 Stat. 510 (46 U.S.C. 3101); to suspend the provisions of law requiring the inspection of foreign-built vessels admitted to American registry.
 
 (d) The authority vested in the President by section 5 of the act of May 28, 1908, ch. 212, 35 Stat. 425, as amended (46 U.S.C. Appendix 104) \[now 46 U.S.C. 60504\], to determine (as a prerequisite to the extension of reciprocal privileges by the Commissioner of Customs) that yachts used and employed exclusively as pleasure vessels and belonging to any resident of the United States are allowed to arrive at and depart from any foreign port and to cruise in the waters of such port without entering or clearing at the custom-house thereof and without the payment of any charges for entering or clearing, dues, duty per ton, tonnage taxes, or charges for cruising licenses.
 
@@ -106,7 +106,7 @@ Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 105
 
 4\. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise”.
 
-5\. All actions heretofore taken by the President in respect of the matters affected by this order and in forceat the time of the issuance of this order, including regulations prescribed by the President in respect of such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
+5\. All actions heretofore taken by the President in respect of the matters affected by this order and in force at the time of the issuance of this order, including regulations prescribed by the President in respect of such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
 #### Ex. Ord. No. 10530. Delegation of Miscellaneous Functions
 
@@ -162,7 +162,7 @@ Section 1. The Secretary of Defense, and, as designated by the said Secretary fo
 
 (c) The authority vested in the President by the act of May 22, 1928, ch. 688, 45 Stat. 712 \[10 U.S.C. 6152\], to approve regulations governing the advancement of public funds to naval personnel when required to meet expenses of officers and men detailed on emergency shore duty.
 
-(d) The authority vested in the President by the act of June 22, 1938, ch. 567, 52 Stat. 839, as amended \[10 U.S.C. 5083, 5133, 5148, 5201\], section 201(a) of the act of August 25, 1941, ch. 409, 55 Stat. 680 \[10 U.S.C. 5063, 5064\], section 3 of the act of December 28, 1945, ch. 604, 59 Stat. 666, as amended \[10 U.S.C. 5138\], section 2 of the act of August 1, 1946, ch. 727, 60 Stat. 779 \[10 U.S.C. 5150\], and section 7(a) of the act of March 5, 1948, ch. 98, 62 Stat. 68 \[see Department of Defense Reorganization Order set out as a note under 10 U.S.C. 5111\], to authorize, in his discretion, for any officer of the Regular Navy or Marine Corps who retires while serving as Chief of Naval Operations, as Chief of a Bureau of theNavy Department, as Judge Advocate General of the Navy, as Commandant of the Marine Corps, as Director of Budgets and Reports, as Chief of the Dental Division, as Chief of Naval Research, or as Chief of Naval Material, or while serving in a lower rank if he has previously served in any of such offices two and one-half years or more, retirement in the highest grade or rank in which he so served and with retired pay based on that rank.
+(d) The authority vested in the President by the act of June 22, 1938, ch. 567, 52 Stat. 839, as amended \[10 U.S.C. 5083, 5133, 5148, 5201\], section 201(a) of the act ofAugust 25, 1941, ch. 409, 55 Stat. 680 \[10 U.S.C. 5063, 5064\], section 3 of the act of December 28, 1945, ch. 604, 59 Stat. 666, as amended \[10 U.S.C. 5138\], section 2 of the act of August 1, 1946, ch. 727, 60 Stat. 779 \[10 U.S.C. 5150\], and section 7(a) of the act of March 5, 1948, ch. 98, 62 Stat. 68 \[see Department of Defense Reorganization Order set out as a note under 10 U.S.C. 5111\], to authorize, in his discretion, for any officer of the Regular Navy or Marine Corps who retires while serving as Chief of Naval Operations, as Chief of a Bureau of the Navy Department, as Judge Advocate General of the Navy, as Commandant of the Marine Corps, as Director of Budgets and Reports, as Chief of the Dental Division, as Chief of Naval Research, or as Chief of Naval Material, or while serving in a lower rank if he has previously served in any of such offices two and one-half years or more, retirement in the highest grade or rank in which he so served and with retired pay based on that rank.
 
 (e) The authority vested in the President by the act of June 15, 1940, ch. 374, 54 Stat. 400, to prescribe from time to time the number of warrant and commissioned warrant officers for the Marine Corps.
 
@@ -258,7 +258,7 @@ Sec. 2. The Secretary of Defense, and, when designated by the Secretary of Defen
 
 (b) The authority vested in the President by the act of June 24, 1948, ch. 616, 62 Stat. 583 \[10 U.S.C. 6957\], with respect to Filipinos.
 
-Sec. 3. The Secretary of Defense, and, when designated by the Secretary of Defense for such purpose,the Secretary of the Air Force are hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the first section of the said act of June 26, 1946, as made applicable to the United States Air Force Academy by section 5 of the act of April 1, 1954, ch. 127, 68 Stat. 48 \[10 U.S.C. 9344\], to designate persons from the American Republics (other than the United States) and Canada who may be permitted to receive instruction at the United States Air Force Academy.
+Sec. 3. The Secretary of Defense, and, when designated by the Secretary of Defense for such purpose, the Secretary of the Air Force are hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the first section of the said act of June 26, 1946, as made applicable to the United States Air Force Academy by section 5 of the act of April 1, 1954, ch. 127, 68 Stat. 48 \[10 U.S.C. 9344\], to designate persons from the American Republics (other than the United States) and Canada who may be permitted to receive instruction at the United States Air Force Academy.
 
 Sec. 4. The Secretary of Commerce is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the act of August 9, 1946, ch. 928, 60 Stat. 961 \[former 46 U.S.C. 1126b\], to designate persons from the American Republics (other than the United States) who may be permitted to receive instruction in the United States Merchant Marine Cadet Corps and at the United States Merchant Marine Academy at Kings Point, New York.
 
@@ -324,7 +324,7 @@ Section 1. The Secretary of Commerce is hereby designated and empowered to perfo
 
 (d) The authority vested in the President by section 229(c) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3029(c)), to temporarily promote any officer one grade.
 
-(e) The authority vested in the President by section 243(b) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3043(b)), to defer the retirement of an officer of the National Oceanic and Atmospheric Administration serving in a rank above that of captain who has attained 62 years of age, but such a deferment may not extend beyond the first day of the month in which the officer becomes 64 years of age.
+(e) The authority vested in the President by section 243(b) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3043(b)), to defer the retirement of an officer of the National Oceanic and Atmospheric Administration serving in a rank above that ofcaptain who has attained 62 years of age, but such a deferment may not extend beyond the first day of the month in which the officer becomes 64 years of age.
 
 (f) The authority vested in the President by section 244 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3044), to retire from the active service any commissioned officer of the National Oceanic and Atmospheric Administration, upon his own application, who has completed 20 years of active service, of which at least 10 years was service as a commissioned officer.
 
@@ -434,7 +434,7 @@ Section 1. The Secretary of Defense, and, as designated by the said Secretary fo
 
 (4) The authority vested in the President by sections 565 and 599 \[now 12243\] of title 10, United States Code, to suspend, in time of war or emergency, any provision of law relative to promotion and mandatory retirement or separation of warrant officers of the armed forces.
 
-(5) The authority vested in the President by sections 4337 and 9337 of title 10, United States Code, to appointthe chaplains at the United States Military and Air Force Academies.
+(5) The authority vested in the President by sections 4337 and 9337 of title 10, United States Code, to appoint the chaplains at the United States Military and Air Force Academies.
 
 (6) The authority vested in the President by sections 4302(a) and 9302(a) of title 10, United States Code, to approve regulations concerning instruction of enlisted members of the Army and Air Force.
 
@@ -492,7 +492,7 @@ Section 1. (a) Except with respect to facilities covered by Executive Order Nos.
 
 (c) The Secretary of State may also consult with such other department and agency heads and with such state and local government officials as he deems appropriate with respect to each application. All federal government officials consulted by the Secretary of State pursuant to this section shall provide such information and render such assistance as he may request, consistent with their competence and authority.
 
-(d) If the Secretary of State finds, after consideration of the views obtained pursuant to subsections (b) and (c), that issuance of a permit to the applicant would serve the national interest, he shall prepare a permit, in such form and with such terms and conditions as the national interest may in his judgment require, and shall notify the officials required to be consulted under subsection (b) above of his proposed determination that the permit be issued.
+(d) If the Secretary of State finds, after consideration of the views obtained pursuant to subsections (b) and (c), that issuance of a permit to the applicant would serve the national interest, he shall prepare a permit,in such form and with such terms and conditions as the national interest may in his judgment require, and shall notify the officials required to be consulted under subsection (b) above of his proposed determination that the permit be issued.
 
 (e) If the Secretary of State finds, after consideration of the views obtained pursuant to subsections (b) and (c), that issuance of a permit to the applicant would not serve the national interest, he shall notify the officials required to be consulted under subsection (b) above of his proposed determination that the application be denied.
 
@@ -546,7 +546,7 @@ Section 1. <i>General Services Administration</i>. The Administrator of General 
 
 (10) The authority of the President under 5 U.S.C. 5728 (a) and (b) to prescribe the regulations provided for therein, relating to the payment by an agency from its appropriations of the expenses of round trip travel of an employee, and the transportation of his immediate family, in described circumstances.
 
-(11) The authority of the President under 5 U.S.C. 5729(a) and (b) to prescribe the regulations provided for therein, relating to (i) the payment by an agency from its appropriations of the expenses of transporting the immediate family of an employee and of shipping his household goods and personal effects, and (ii) the reimbursement from its appropriations by an agency of anemployee for the proper transportation expense of returning his immediate family and household goods and personal effects, both in described circumstances.
+(11) The authority of the President under 5 U.S.C. 5729(a) and (b) to prescribe the regulations provided for therein, relating to (i) the payment by an agency from its appropriations of the expenses of transporting the immediate family of an employee and of shipping his household goods and personal effects, and (ii) the reimbursement from its appropriations by an agency of an employee for the proper transportation expense of returning his immediate family and household goods and personal effects, both in described circumstances.
 
 (12) The authority of the President under 5 U.S.C. 5731(a) to prescribe the regulations provided for therein, relating to certifications respecting transportation accommodations.
 
@@ -656,7 +656,7 @@ References to Administrator of Veterans’ Affairs and to Veterans’ Administra
 
 Ex. Ord. No. 11690, Dec. 14, 1972, 37 F.R. 26815, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States, Part II of Reorganization Plan No. 2 of 1970 \[set out in 5 U.S.C. App.\], and as President of the United States, it is ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States, Part II of Reorganization Plan No. 2 of 1970 \[set out in 5 U.S.C.App.\], and as President of the United States, it is ordered as follows:
 
 Section 1. <i>Functions of the Executive Director of the Domestic Council</i>. In addition to the functions heretofore assigned, the Executive Director of the Domestic Council shall assist the President with respect to intergovernmental relations generally. In addition, he shall:
 
@@ -736,7 +736,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12152, Aug. 14, 1979, 44 F.R. 48143, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 301 of Title 3 of the United States Code, and in order to ensure the continued delegation of certain functions which had been previouslyassigned but which are now vested directly in the President by virtue of H.R. 4616 \[Pub. L. 96–54, Aug. 14, 1979, 93 Stat. 381\] that I have signed into law today, it is hereby ordered that the functions vested in the President by Sections 305(b), 4111(b), and 4112(a) of Title 5 of the United States Code are hereby delegated to the Director of the Office of Management and Budget.
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 301 of Title 3 of the United States Code, and in order to ensure the continued delegation of certain functions which had been previously assigned but which are now vested directly in the President by virtue of H.R. 4616 \[Pub. L. 96–54, Aug. 14, 1979, 93 Stat. 381\] that I have signed into law today, it is hereby ordered that the functions vested in the President by Sections 305(b), 4111(b), and 4112(a) of Title 5 of the United States Code are hereby delegated to the Director of the Office of Management and Budget.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -846,7 +846,7 @@ Section 1. The functions of the President of submitting certain recurring report
 
 13\. Report on Proliferation of Missiles and Essential Components of Nuclear, Biological, Chemical, and Radiological Weapons, consistent with section 1308(a) of Public Law 107–228 (50 U.S.C. 2368(a));
 
-14\. Report on the National Emergency With Respect to Proliferation of Weapons of Mass Destruction, Executive Order 12938 \[50 U.S.C. 1701 note\], consistent with section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c), and section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c);
+14\. Report on the National Emergency With Respect to Proliferation of Weapons of Mass Destruction, Executive Order 12938 \[listed in a table under section 1701 of Title 50, War and National Defense\], consistent with section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c), and section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c);
 
 15\. Report on Adherence to and Compliance With Arms Control Agreements and Nonproliferation Agreements and Commitments, consistent with section 403 of Public Law 87–297, as amended (22 U.S.C. 2593a);
 
@@ -858,37 +858,37 @@ Section 1. The functions of the President of submitting certain recurring report
 
 (b) The Secretary of the Treasury shall submit the following reports:
 
-1\. Report on the National Emergency With Respect to Libya, Executive Order 12543 \[formerly 50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+1\. Report on the National Emergency With Respect to Libya, Executive Order 12543 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-2\. Report on the National Emergency With Respect to the Western Balkans, Executive Order 13219 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+2\. Report on the National Emergency With Respect to the Western Balkans, Executive Order 13219 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-3\. Report on the National Emergency With Respect to the Risk of Nuclear Proliferation Relating to the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons of the Government of the Russian Federation, Executive Order 13159 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+3\. Report on the National Emergency With Respect to the Risk of Nuclear Proliferation Relating to the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons of the Government of the Russian Federation, Executive Order 13159 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-4\. Report on the National Emergency With Respect to Burma, Executive Order 13047 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+4\. Report on the National Emergency With Respect to Burma, Executive Order 13047 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-5\. Report on the National Emergency With Respect to Middle East Terrorism, Executive Order 12947 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+5\. Report on the National Emergency With Respect to Middle East Terrorism, Executive Order 12947 \[listed in a table under section 1701 of Title 50\], consistent withsection 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-6\. Report on the National Emergency With Respect to the 1979 Iranian Emergency and Assets Blocking, Executive Order 12170 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+6\. Report on the National Emergency With Respect to the 1979 Iranian Emergency and Assets Blocking, Executive Order 12170 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-7\. Report on the National Emergency With Respect to Iranian Petroleum Resources, Executive Order 12957 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+7\. Report on the National Emergency With Respect to Iranian Petroleum Resources, Executive Order 12957 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-8\. Report on the National Emergency With Respect to Significant Narcotics Traffickers Centered in Colombia, Executive Order 12978 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+8\. Report on the National Emergency With Respect to Significant Narcotics Traffickers Centered in Colombia, Executive Order 12978 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-9\. Report on the National Emergency With Respect to Persons Who Commit, Threaten to Commit, or Support Terrorism, Executive Order 13224 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+9\. Report on the National Emergency With Respect to Persons Who Commit, Threaten to Commit, or Support Terrorism, Executive Order 13224 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-10\. Report on the National Emergency With Respect to Sierra Leone and Liberia, Executive Order 13194 \[formerly 50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+10\. Report on the National Emergency With Respect to Sierra Leone and Liberia, Executive Order 13194 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-11\. Report on the National Emergency With Respect to Sudan, Executive Order 13067 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+11\. Report on the National Emergency With Respect to Sudan, Executive Order 13067 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-12\. Report on the National Emergency With Respect to Iraq, Executive Order 12722 \[formerly 50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+12\. Report on the National Emergency With Respect to Iraq, Executive Order 12722 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-13\. Report on the National Emergency With Respect to the Development Fund for Iraq, Executive Order 13303 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+13\. Report on the National Emergency With Respect to the Development Fund for Iraq, Executive Order 13303 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 14\. Classified Report on the Status of Sanctions Imposed on Significant Foreign Narcotics Traffickers, consistent with section 804(d) of Public Law 106–120 (21 U.S.C. 1903(d));
 
 15\. Report on Telecommunications Payments Made to Cuba Pursuant to Department of the Treasury Specific Licenses, consistent with section 1705(e)(6) of Public Law 102–484, as amended by Public Law 104–114 (22 U.S.C. 6004(e)(6));
 
-16\. Report on the National Emergency With Respect to Persons Undermining Democratic Processes or Institutions in Zimbabwe, Executive Order 13288 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c); and
+16\. Report on the National Emergency With Respect to Persons Undermining Democratic Processes or Institutions in Zimbabwe, Executive Order 13288 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c); and
 
 17\. Report on International Debt Relief, consistent with section 1000(a)(5) of Public Law 106–113 \[113 Stat. 1501A–313\].
 
@@ -898,7 +898,7 @@ Section 1. The functions of the President of submitting certain recurring report
 
 2\. Report on the National Emergency With Respect to Terrorist Attacks on the United States, Proclamation 7463 of September 14, 2001 \[50 U.S.C. 1621 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c).
 
-(d) The Secretary of Commerce shall submit the Report on the National Emergency Caused by the Lapse of the Export Administration Act of 1979, Executive Order 13222 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c).
+(d) The Secretary of Commerce shall submit the Report on the National Emergency Caused by the Lapse of the Export Administration Act of 1979, Executive Order 13222 \[listed in a table under section 1701 of Title 50\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c).
 
 (e) The Director of Central Intelligence shall submit the following reports:
 
@@ -936,7 +936,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13337, Apr. 30, 2004, 69 F.R. 25299, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and in order to amend Executive Order 11423 of August 16, 1968, as amended \[set out above\], and to further the policy of my Administration as stated in Executive Order 13212 of May 18, 2001, as amended \[42 U.S.C. 13201 note\], to expedite reviews of permits as necessary to accelerate the completion of energy production and transmission projects, and to provide a systematic method for evaluating and permitting the constructionand maintenance of certain border crossings for land transportation, including motor and rail vehicles, that do not require construction or maintenance of facilities connecting the United States with a foreign country, while maintaining safety, public health, and environmental protections, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and in order to amend Executive Order 11423 of August 16, 1968, as amended \[set out above\], and to further the policy of my Administration as stated in Executive Order 13212 of May 18, 2001, as amended \[42 U.S.C. 13201 note\], to expedite reviews of permits as necessary to accelerate the completion of energy production and transmission projects, and to provide a systematic method for evaluating and permitting the construction and maintenance of certain border crossings for land transportation, including motor and rail vehicles, that do not require construction or maintenance of facilities connecting the United States with a foreign country, while maintaining safety, public health, and environmental protections, it is hereby ordered as follows:
 
 Section 1. (a) Except with respect to facilities covered by Executive Order 10485 of September 3, 1953 \[15 U.S.C. 717b note\], and Executive Order 10530 of May 10, 1954 \[set out above\], the Secretary of State is hereby designated and empowered to receive all applications for Presidential permits, as referred to in Executive Order 11423, as amended, for the construction, connection, operation, or maintenance, at the borders of the United States, of facilities for the exportation or importation of petroleum, petroleum products, coal, or other fuels to or from a foreign country.
 
@@ -1058,9 +1058,9 @@ Memorandum for the Secretary of State\[,\] the Secretary of Defense\[,\] the Dir
 
 By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code:
 
-1\. The reporting functions of the President under sections 4026(a)(4)(A), 4026(c)(2), 7104(e)(4)(A), 7202(d), 7204(c)(1)–(2), and 7120 \[118 Stat. 3803\] of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 118 Stat. 3638) (the “Act”) \[8 U.S.C. 1777(d), 22 U.S.C. 2656 note, 2751 note, 7555\] are hereby assigned to the Secretary of State.
+1\. The reporting functions of the President under sections 4026(a)(4)(A), 4026(c)(2), 7104(e)(4)(A), 7202(d) \[now 7202(g)\], 7204(c)(1)–(2), and 7120 \[118 Stat. 3803\] of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 118 Stat. 3638) (the “Act”) \[8 U.S.C. 1777(g), 22 U.S.C. 2656 note, 2751 note, 7555\] are hereby assigned to the Secretary of State.
 
-The reporting function under section 7202(d) of the Act \[8 U.S.C. 1777(d)\] on the Human Smuggling andTrafficking Center shall be coordinated with the Attorney General and the Secretary of Homeland Security.
+The reporting function under section 7202(d) \[now 7202(g)\] of the Act \[8 U.S.C. 1777(g)\] on the Human Smuggling and Trafficking Center shall be coordinated with the Attorney General and the Secretary of Homeland Security.
 
 Heads of departments and agencies shall, to the extent permitted by law, furnish to the Secretary of State information the Secretary requests to perform such functions, in the format and on the schedule specified by the Secretary.
 

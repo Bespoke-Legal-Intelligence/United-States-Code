@@ -34,17 +34,29 @@ Incitement Offense.—Whoever in a circumstance described in subsection (d) dire
 
 Required Circumstance for Offenses.—The circumstance referred to in subsections (a) and (c) is that—
 
-&emsp;(1) the offense is committed within the United States; or
+&emsp;(1) the offense is committed in whole or in part within the United States;
 
-&emsp;(2) the alleged offender is a national of the United States (as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101)).
+&emsp;(2) the alleged offender is a national of the United States (as that term is defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101));
+
+&emsp;(3) the alleged offender is an alien lawfully admitted for permanent residence in the United States (as that term is defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101));
+
+&emsp;(4) the alleged offender is a stateless person whose habitual residence is in the United States; or
+
+&emsp;(5) after the conduct required for the offense occurs, the alleged offender is brought into, or found in, the United States, even if that conduct occurred outside the United States.
 
 (e)
 
 Nonapplicability of Certain Limitations.—Notwithstanding section 3282 of this title, in the case of an offense under subsection (a)(1), an indictment may be found, or information instituted, at any time without limitation.
 
-(Added Pub. L. 100–606, §2(a), Nov. 4, 1988, 102 Stat. 3045; amended Pub. L. 103–322, title VI, §60003(a)(13), Sept. 13, 1994, 108 Stat. 1970; Pub. L. 107–273, div. B, title IV, §4002(a)(4), (b)(7), Nov. 2, 2002, 116 Stat. 1806, 1808.)
+(Added Pub. L. 100–606, §2(a), Nov. 4, 1988, 102 Stat. 3045; amended Pub. L. 103–322, title VI, §60003(a)(13), Sept. 13, 1994, 108 Stat. 1970; Pub. L. 107–273, div. B, title IV, §4002(a)(4), (b)(7), Nov. 2, 2002, 116 Stat. 1806, 1808; Pub. L. 110–151, §2, Dec. 21, 2007, 121 Stat. 1821.)
 
 #### Amendments
+
+2007—Subsec. (d). Pub. L. 110–151 added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: “The circumstance referred to in subsections (a) and (c) is that—
+
+&emsp;“(1) the offense is committed within the United States; or
+
+&emsp;“(2) the alleged offender is a national of the United States (as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101)).”
 
 2002—Subsec. (b)(1). Pub. L. 107–273, §4002(b)(7), substituted “subsection (a)(1),” for “subsection (a)(1),,”.
 

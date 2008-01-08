@@ -6,7 +6,7 @@
 
 #### (A) Application to first sales
 
-&emsp;&emsp;For purposes of section 1(b) of the Natural Gas Act \[15 U.S.C. 717(b)\], the provisions of the Natural Gas Act \[15 U.S.C. 717 et seq.\], and the jurisdiction of the Commissionunder such Act shall not apply to any natural gas solely by reason of any first sale of such natural gas.
+&emsp;&emsp;For purposes of section 1(b) of the Natural Gas Act \[15 U.S.C. 717(b)\], the provisions of the Natural Gas Act \[15 U.S.C. 717 et seq.\], and the jurisdiction of the Commission under such Act shall not apply to any natural gas solely by reason of any first sale of such natural gas.
 
 #### (B) Authorized sales or assignments
 
@@ -76,7 +76,7 @@
 
 #### (2) Recovery of just and reasonable prices paid
 
-&emsp;For purposes of sections 4 and 5 of the Natural Gas Act \[15 U.S.C. 717c, 717d\], the Commission may not deny any interstate pipeline recovery of any amount paid with respect to any purchase of natural gas if, under subsection (b)of this section, such amount is deemed to be just and reasonable for purposes of sections 4 and 5 of such Act, except to the extent the Commission determines that the amount paid was excessive due to fraud, abuse, or similar grounds.
+&emsp;For purposes of sections 4 and 5 of the Natural Gas Act \[15 U.S.C. 717c, 717d\], the Commission may not deny any interstate pipeline recovery of any amount paid with respect to any purchase of natural gas if, under subsection (b) of this section, such amount is deemed to be just and reasonable for purposes of sections 4 and 5 of such Act, except to the extent the Commission determines that the amount paid was excessive due to fraud, abuse, or similar grounds.
 
 (Pub. L. 95–621, title VI, §601, Nov. 9, 1978, 92 Stat. 3409; Pub. L. 101–60, §3(a)(7), (b)(7), July 26, 1989, 103 Stat. 158, 159.)
 

@@ -18,7 +18,7 @@ The Corps shall consist of individuals between the ages of 16 and 25, inclusive,
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of entering into contracts and cooperative agreements under paragraph\(1), the Secretary may give preference to qualified youth or conservation corps located in a specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged to carry out projects within the area.
+&emsp;&emsp;For purposes of entering into contracts and cooperative agreements under paragraph (1), the Secretary may give preference to qualified youth or conservation corps located in a specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged to carry out projects within the area.
 
 #### (B) Priority projects
 
@@ -60,7 +60,7 @@ Each appropriate conservation project carried out under this subchapter on eligi
 
 #### Amendments
 
-2005—Subsec. (b). Pub. L. 109–154, §2(g)(1)(A), substituted “Corps by the Secretary” for “Corps by the Secretary of the Interior or the Secretary of Agriculture” and “Secretary may” for “Secretaries may” in two places.
+2005—Subsec. (b). Pub. L. 109–154, §2(g)(1)(A), substituted “Corps by the Secretary” for “Corps by theSecretary of the Interior or the Secretary of Agriculture” and “Secretary may” for “Secretaries may” in two places.
 
 Subsec. (c). Pub. L. 109–154, §2(b), designated existing provisions as par. (1), inserted heading, substituted “The Secretary is” for “The Secretary of the Interior and the Secretary of Agriculture are”, and added par. (2).
 

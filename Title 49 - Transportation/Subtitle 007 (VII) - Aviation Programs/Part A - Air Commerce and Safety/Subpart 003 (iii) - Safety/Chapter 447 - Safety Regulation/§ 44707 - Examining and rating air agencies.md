@@ -86,7 +86,7 @@ DOT To Request Information From Air Carriers and Repair Facilities.—
 
 &emsp;“(1)
 
-Collection of information.—The Secretary, by regulation, shall require air carriers, foreign aircarriers, domestic repair facilities, and foreign repair facilities to submit such information as the Secretary may require in order to assess balance of trade and safety issues with respect to work performed on aircraft used by air carriers, foreign air carriers, United States corporate operators, and foreign corporate operators.
+Collection of information.—The Secretary, by regulation, shall require air carriers, foreign air carriers, domestic repair facilities, and foreign repair facilities to submit such information as the Secretary may require in order to assess balance of trade and safety issues with respect to work performed on aircraft used by air carriers, foreign air carriers, United States corporate operators, and foreign corporate operators.
 
 &emsp;“(2)
 

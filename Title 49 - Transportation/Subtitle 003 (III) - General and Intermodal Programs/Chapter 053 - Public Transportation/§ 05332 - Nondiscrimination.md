@@ -16,7 +16,7 @@ Compliance.—(1) The Secretary of Transportation shall take affirmative action 
 
 (d)
 
-Authority of Secretary for Noncompliance.—If a person does not comply with subsection (b) of this section within a reasonabletime after receiving notice, the Secretary shall—
+Authority of Secretary for Noncompliance.—If a person does not comply with subsection (b) of this section within a reasonable time after receiving notice, the Secretary shall—
 
 &emsp;(1) direct that no further financial assistance of the United States Government under this chapter be provided to the person;
 

@@ -38,7 +38,7 @@ Responsibility for Response Actions.—
 
 Basic responsibility.—The Secretary shall carry out (in accordance with the provisions of this chapter and CERCLA) all response actions with respect to releases of hazardous substances from each of the following:
 
-&emsp;&emsp;(A) Each facility or site owned by, leased to, or otherwise possessed by the United States and under the jurisdiction of the Secretary.
+&emsp;&emsp;(A) Each facility or site owned by, leased to, or otherwise possessed by the UnitedStates and under the jurisdiction of the Secretary.
 
 &emsp;&emsp;(B) Each facility or site which was under the jurisdiction of the Secretary and owned by, leased to, or otherwise possessed by the United States at the time of actions leading to contamination by hazardous substances.
 
@@ -46,7 +46,7 @@ Basic responsibility.—The Secretary shall carry out (in accordance with the pr
 
 &emsp;(2)
 
-Other responsible parties.—Paragraph (1) shall not apply to a removal or remedialaction if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 (relating to settlements) of CERCLA (42 U.S.C. 9622).
+Other responsible parties.—Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 (relating to settlements) of CERCLA (42 U.S.C. 9622).
 
 &emsp;(3)
 
@@ -112,7 +112,7 @@ Limitation of accrual of rights of action under bonds.—If, under applicable Fe
 
 &emsp;(3)
 
-Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement ofany response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
+Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
 
 &emsp;(4)
 
@@ -346,7 +346,7 @@ Section 325 of Pub. L. 104–201 provided that:
 
 “(a)
 
-Authority.—The Secretary of Defense may, to the extent possible and practical, develop and implement, as part of the Defense Environmental Restoration Program provided for in chapter 160 of title 10, United States Code, a land use plan for any defense site selected by the Secretary under subsection (b).
+Authority.—The Secretary of Defense may, to the extent possible and practical, develop and implement, as part of the Defense Environmental Restoration Program provided for in chapter 160 of title 10,United States Code, a land use plan for any defense site selected by the Secretary under subsection (b).
 
 “(b)
 
@@ -354,7 +354,7 @@ Selection of Sites.—The Secretary may select up to 10 defense sites, from amon
 
 “(c)
 
-Requirement To Consult With Review Committee or Advisory Board.—In developing a land use plan under this section, the Secretary shall consult with a technical review committee established pursuant to section 2705(c) of title 10, United States Code, a restoration advisory board established pursuant to section2705(d) of such title, a local land use redevelopment authority, or another appropriate State agency.
+Requirement To Consult With Review Committee or Advisory Board.—In developing a land use plan under this section, the Secretary shall consult with a technical review committee established pursuant to section 2705(c) of title 10, United States Code, a restoration advisory board established pursuant to section 2705(d) of such title, a local land use redevelopment authority, or another appropriate State agency.
 
 “(d) 50-
 
@@ -393,8 +393,6 @@ Section 321(a)(2) of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, 
 &emsp;“(i) the Secretary certifies to Congress that the payment of the amount under this subparagraph is essential for the management of the Defense Environmental Restoration Program under chapter 160 of title 10, United States Code; and
 
 &emsp;“(ii) a period of 60 days has expired after the date on which the certification is received by Congress.”
-
-z
 
 #### Environmental Education and Training Program for Defense Personnel
 
@@ -642,7 +640,7 @@ Repayment.—(1) Any individual receiving scholarship assistance from the Secret
 
 &emsp;“(B) such other method as is provided by law for the recovery of amounts owing to the United States.
 
-“(3) The Secretary of Defense may waive in whole or in part a required repayment under this subsection if the Secretary determines that the recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
+“(3) The Secretary of Defense may waive in whole or in part a required repayment under this subsection ifthe Secretary determines that the recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
 
 “(4) The total amount of scholarship assistance provided to an individual under this section, for purposes of repayment under this subsection, shall bear interest at the applicable rate of interest under section 427A(c) of the Higher Education Act of 1965 (20 U.S.C. 1077a(c)).
 
@@ -736,7 +734,7 @@ Selection of Installations and Facilities.—(1) For participation in the pilot 
 
 “(2)(A) Except as provided in subparagraph (B), the selections under paragraph (1) shall be made not later than 60 days after the date of the enactment of this Act.
 
-“(B) The selections under paragraph (1) of military installations described in subparagraph (B)(ii) of suchparagraph shall be made not later than 60 days after the date on which the deadline (set forth in section 2904(b) of such Act) for enacting a joint resolution of disapproval with respect to the report transmitted by the President has passed.
+“(B) The selections under paragraph (1) of military installations described in subparagraph (B)(ii) of such paragraph shall be made not later than 60 days after the date on which the deadline (set forth in section 2904(b) of such Act) for enacting a joint resolution of disapproval with respect to the report transmitted by the President has passed.
 
 “(3) The installations and facilities selected under paragraph (1) shall be representative of—
 
@@ -900,7 +898,7 @@ Section 345 of Pub. L. 101–510 provided that:
 
 “(a)
 
-DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—(1) In addition to the functions of the advisory committee established pursuant to section 356(c) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[Pub. L. 101–189\] (10 U.S.C. 2701 note), it shall be the function of the Committee to study (A) the use of methyl chloroform, hydrochlorofluorcarbons (HCFCs), and carbon tetrachloride by the Department of Defense and by contractors in the performance of contracts for the Department of Defense, and (B) the costs and feasibility of using alternative compounds or technologies for methyl chloroform, HCFCs, and carbon tetrachloride.
+DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—(1) In addition to the functions of the advisory committee established pursuant to section 356(c) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[Pub. L. 101–189\] (10 U.S.C. 2701 note), it shall be the function of theCommittee to study (A) the use of methyl chloroform, hydrochlorofluorcarbons (HCFCs), and carbon tetrachloride by the Department of Defense and by contractors in the performance of contracts for the Department of Defense, and (B) the costs and feasibility of using alternative compounds or technologies for methyl chloroform, HCFCs, and carbon tetrachloride.
 
 “(2) Within 120 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that specify the use of methyl chloroform, HCFCs, or carbon tetrachloride.
 

@@ -20,7 +20,7 @@
 
 &emsp;(B) statements such as “federally supervised repayment plan” or “Federal debt restructuring help” or other similar statements that could lead a reasonable consumer to believe that debt counseling was being offered when in fact the services were directed to providing bankruptcy assistance with a chapter 13 plan or other form of bankruptcy relief under this title.
 
-(2) An advertisement, directed to the general public, indicating that the debt relief agency provides assistance with respect to credit defaults, mortgage foreclosures, eviction proceedings, excessive debt, debt collection pressure, or inability to pay any consumer debt shall—
+(2) An advertisement, directed to the general public, indicating that the debt relief agencyprovides assistance with respect to credit defaults, mortgage foreclosures, eviction proceedings, excessive debt, debt collection pressure, or inability to pay any consumer debt shall—
 
 &emsp;(A) disclose clearly and conspicuously in such advertisement that the assistance may involve bankruptcy relief under this title; and
 

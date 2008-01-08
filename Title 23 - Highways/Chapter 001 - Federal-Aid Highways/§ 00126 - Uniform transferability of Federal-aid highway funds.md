@@ -6,7 +6,7 @@ General Rule.—Notwithstanding any other provision of law but subject to subsec
 
 (b)
 
-Application to Certain Set-Asides.—No funds may be transferred under this section that are subject to the last sentence of section 133(d)(1) <sup>1</sup> or to section 104(f) or to section 133(d)(3). The maximum amount that a State may transfer under this section of the State's set-aside under section 133(d)(1) <sup>1</sup> or 133(d)(2) for a fiscal year may not exceed 25 percent of (1) the amount of such set-aside, less (2) the amount of the State's set-aside under such section for fiscal year 1997.
+Application to Certain Set-Asides.—No funds may be transferred under this section that are subject to the last sentence of section 133(d)(1) <sup>1</sup> or to section 104(f) or to section133(d)(3). The maximum amount that a State may transfer under this section of the State's set-aside under section 133(d)(1) <sup>1</sup> or 133(d)(2) for a fiscal year may not exceed 25 percent of (1) the amount of such set-aside, less (2) the amount of the State's set-aside under such section for fiscal year 1997.
 
 (c)
 

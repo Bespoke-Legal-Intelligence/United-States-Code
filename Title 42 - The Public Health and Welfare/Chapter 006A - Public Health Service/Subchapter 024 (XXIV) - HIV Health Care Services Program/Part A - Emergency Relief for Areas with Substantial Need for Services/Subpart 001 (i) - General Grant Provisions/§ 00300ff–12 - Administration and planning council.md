@@ -182,7 +182,7 @@ Promptly after the date of the submission of the report required in section 501(
 
 #### (e) Training guidance and materials
 
-The Secretary shall provide to each chief elected official receiving a grant under section300ff–11(a) of this title guidelines and materials for training members of the planning council under paragraph (1) regarding the duties of the council.
+The Secretary shall provide to each chief elected official receiving a grant under section 300ff–11(a) of this title guidelines and materials for training members of the planning council under paragraph (1) regarding the duties of the council.
 
 (July 1, 1944, ch. 373, title XXVI, §2602, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 577; amended Pub. L. 102–531, title III, §312(d)(26), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §3(b)(1), May 20, 1996, 110 Stat. 1347; Pub. L. 106–345, title I, §§101–102(c), 103, Oct. 20, 2000, 114 Stat. 1320–1323; Pub. L. 109–415, title I, §§106(b), 107(b), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2780, 2783, 2820.)
 
@@ -192,7 +192,7 @@ The Secretary shall provide to each chief elected official receiving a grant und
 
 #### References in Text
 
-Subpart II of part C of this subchapter, referred to in subsec. (b)(2)(J), was redesignated subpart I of part C of this subchapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
+Subpart II of part C of this subchapter, referred to in subsec. (b)(2)(J), was redesignated subpart I of part C ofthis subchapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
 
 The Social Security Act, referred to in subsec. (b)(4)(C)(v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

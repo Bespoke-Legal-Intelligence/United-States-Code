@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title35",
- "package": "USCODE-2006-title35",
+ "package": "USCODE-2007-title35",
  "pieces": [
   {
    "id": "35_",
@@ -476,14 +476,10 @@
      ]
     ],
     [
-     "I",
-     476,
-     [
-      [
-       99,
-       "[Page 25]"
-      ]
-     ]
+     "L",
+     474,
+     "[Page 25]",
+     true
     ],
     [
      "L",
@@ -493,10 +489,10 @@
     ],
     [
      "I",
-     658,
+     660,
      [
       [
-       213,
+       109,
        "[Page 27]"
       ]
      ]
@@ -512,20 +508,20 @@
    "id": "35_42",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 28]",
-     true
-    ],
-    [
      "I",
-     92,
+     6,
      [
       [
-       100,
-       "[Page 29]"
+       564,
+       "[Page 28]"
       ]
      ]
+    ],
+    [
+     "L",
+     90,
+     "[Page 29]",
+     true
     ]
    ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 004 - Patent Fees; Funding; Search Systems/§ 00042 - Patent and Trademark Office funding.md",
@@ -565,10 +561,14 @@
    "id": "35_101",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 30]",
-     true
+     "I",
+     12,
+     [
+      [
+       852,
+       "[Page 30]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00101 - Inventions patentable.md",
@@ -581,10 +581,14 @@
    "id": "35_102",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 31]",
-     true
+     "I",
+     48,
+     [
+      [
+       215,
+       "[Page 31]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00102 - Conditions for patentability; novelty and loss of right to patent.md",
@@ -598,7 +602,7 @@
    "marks": [
     [
      "L",
-     40,
+     36,
      "[Page 32]",
      true
     ]
@@ -613,24 +617,16 @@
    "id": "35_104",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       303,
-       "[Page 33]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 33]",
+     true
     ],
     [
-     "I",
-     90,
-     [
-      [
-       108,
-       "[Page 34]"
-      ]
-     ]
+     "L",
+     84,
+     "[Page 34]",
+     true
     ]
    ],
    "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00104 - Invention made abroad.md",
@@ -662,7 +658,7 @@
    "marks": [
     [
      "L",
-     44,
+     38,
      "[Page 35]",
      true
     ],
@@ -973,7 +969,7 @@
      22,
      [
       [
-       381,
+       215,
        "[Page 48]"
       ]
      ]
@@ -2585,6 +2581,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2006-title35 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2007-title35 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 35 - Patents"
 }

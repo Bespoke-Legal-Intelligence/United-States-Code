@@ -2,7 +2,7 @@
 
 #### (a) Cooperation with banks and other financial institutions
 
-Wherever practicable the operations of a small business investment company, including the generation of business, may be undertaken in cooperation with banks or other investors or lenders, incorporated or unincorporated, and any servicing or initial investigation required for loans or acquisitions of securities by the company under the provisions of this chapter may be handled through such banks or other investors or lenders on a fee basis. Any small business investment company may receive fees for services rendered to such banks and other investors and lenders.
+Wherever practicable the operations of a small business investment company, including thegeneration of business, may be undertaken in cooperation with banks or other investors or lenders, incorporated or unincorporated, and any servicing or initial investigation required for loans or acquisitions of securities by the company under the provisions of this chapter may be handled through such banks or other investors or lenders on a fee basis. Any small business investment company may receive fees for services rendered to such banks and other investors and lenders.
 
 #### (b) Use of advisory services; depository or fiscal agents; investment of funds
 
@@ -88,7 +88,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 (3) A State law or constitutional provision shall be preempted for purposes of paragraph (2) with respect to any loan if such loan is made before the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the provisions of this subsection to apply with respect to loans made in such State, except that such State law or constitutional or other provision shall be preempted in the case of a loan made, on or after the date on which such law is adopted or such certification is made, pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.
 
-(4)(A) If the maximum rate of interest authorized under paragraph (2) on any loan made by a small business investment company exceeds the rate which would be authorized by applicable State law if such State law were not preempted for purposes of this subsection, the charging of interest at any rate in excess of the rate authorized by paragraph (2) shall be deemed a forfeiture of the greater of (i) all interest which the loan carries with it, or (ii) all interest which has been agreed to be paid thereon.
+(4)(A) If the maximum rate of interest authorized under paragraph (2) on any loan made by a small business investment company exceeds the rate which would be authorized by applicable State law if such State law were not preempted for purposes of this subsection, the charging of interest at any rate in excess of the rate authorized by paragraph (2) shall be deemed a forfeiture of the greater of (i) all interest which theloan carries with it, or (ii) all interest which has been agreed to be paid thereon.
 
 (B) In the case of any loan with respect to which there is a forfeiture of interest under subparagraph (A), the person who paid the interest may recover from a small business investment company making such loan an amount equal to twice the amount of the interest paid on such loan. Such interest may be recovered in a civil action commenced in a court of appropriate jurisdiction not later than two years after the most recent payment of interest.
 
@@ -98,7 +98,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 For definition of “this chapter”, referred to in subsecs. (a) to (h), see References in Text note set out under section 661 of this title.
 
-The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
+The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
 
 The Investment Company Act of 1940, referred to in subsec. (g)(2)(J), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 

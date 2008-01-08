@@ -32,7 +32,7 @@ Except as limited by subsection (c) of this section, there shall be deposited in
 
 &emsp;(4) any money ordered to be paid into the Fund under section 3671(c)(2) of title 18; and
 
-&emsp;(5) any gifts, bequests, or donations to the Fund from private entities or individuals, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—
+&emsp;(5) any gifts, bequests, or donations to the Fund from private entities or individuals,which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—
 
 &emsp;&emsp;(A) attaches conditions inconsistent with applicable laws or regulations; or
 
@@ -50,7 +50,7 @@ The Fund shall be available as follows:
 
 &emsp;(2)(A) Except as provided in subparagraph (B), the first $10,000,000 deposited in the Fund shall be available for grants under section 10603a of this title.
 
-&emsp;(B)(i) For any fiscal year for which the amount deposited in the Fund is greater than the amount deposited in the Fund for fiscalyear 1998, the $10,000,000 referred to in subparagraph (A) plus an amount equal to 50 percent of the increase in the amount from fiscal year 1998 shall be available for grants under section 10603a of this title.
+&emsp;(B)(i) For any fiscal year for which the amount deposited in the Fund is greater than the amount deposited in the Fund for fiscal year 1998, the $10,000,000 referred to in subparagraph (A) plus an amount equal to 50 percent of the increase in the amount from fiscal year 1998 shall be available for grants under section 10603a of this title.
 
 &emsp;(ii) Amounts available under this subparagraph for any fiscal year shall not exceed $20,000,000.
 
@@ -100,7 +100,7 @@ As used in this section, the term “offenses against the United States” does 
 
 #### References in Text
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (b)(1)(B)(i), is act June 25, 1938, ch. 680, 52Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (b)(1)(B)(i), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
 Section 3613 of title 18, referred to in subsec. (b)(1)(B)(iv), was repealed effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), by Pub. L. 98–473, title II, §§212(a)(2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended.
 
@@ -166,7 +166,7 @@ Subsec. (d)(2). Pub. L. 105–119, §109(a)(2), substituted “The first” for 
 
 Subsec. (d)(3)(B). Pub. L. 104–132, §236, substituted “section 10603(a) of this title” for “section 10603a of this title”.
 
-Subsec. (d)(4). Pub. L. 104–132, §232(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Director may retain any portion of the Fund that was deposited during a fiscal year that is in excess of 110 percent of the total amount deposited inthe Fund during the preceding fiscal year as a reserve for use in a year in which the Fund falls below the amount available in the previous year. Such reserve may not exceed $20,000,000.”
+Subsec. (d)(4). Pub. L. 104–132, §232(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Director may retain any portion of the Fund that was deposited during a fiscal year that is in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as a reserve for use in a year in which the Fund falls below the amount available in the previous year. Such reserve may not exceed $20,000,000.”
 
 Subsec. (d)(5). Pub. L. 104–208 added par. (5).
 
@@ -276,7 +276,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101 of Pub. 
 
 #### Effective Date of 1988 Amendment
 
-Section 7129 of Pub. L. 100–690, as amended by Pub. L. 101–647, title V, §505, Nov. 29, 1990, 104 Stat. 4822, provided that: “The amendments made by this chapter \[probably means this subtitle, subtitle D (§§7121–7130) oftitle VII of Pub. L. 100–690, enacting section 10605 of this title, amending this section and sections 10602 to 10604 of this title, and enacting provisions set out as a note under this section\] shall not apply with respect to a State compensation program that was an eligible State crime victim compensation program on the date of the enactment of this Act \[Nov. 18, 1988\] until October 1, 1991.”
+Section 7129 of Pub. L. 100–690, as amended by Pub. L. 101–647, title V, §505, Nov. 29, 1990, 104 Stat. 4822, provided that: “The amendments made by this chapter \[probably means this subtitle, subtitle D (§§7121–7130) of title VII of Pub. L. 100–690, enacting section 10605 of this title, amending this section and sections 10602 to 10604 of this title, and enacting provisions set out as a note under this section\] shall not apply with respect to a State compensation program that was an eligible State crime victim compensation program on the date of the enactment of this Act \[Nov. 18, 1988\] until October 1, 1991.”
 
 #### Effective Date
 
@@ -308,9 +308,11 @@ Pub. L. 107–56, title VI, §621(e), Oct. 26, 2001, 115 Stat. 371, provided tha
 
 #### Limitation on Amounts Available for Obligation
 
-Pub. L. 109–108, title VI, §612, Nov. 22, 2005, 119 Stat. 2336, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established under 42 U.S.C. 10601 in any fiscal year in excess of $625,000,000 shall not be available for obligation until the following fiscal year.”
+Pub. L. 110–161, div. B, title V, §513, Dec. 26, 2007, 121 Stat. 1926, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established under 42 U.S.C. 10601 in any fiscal year in excess of $590,000,000 shall not be available for obligation until the following fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–108, title VI, §612, Nov. 22, 2005, 119 Stat. 2336.
 
 Pub. L. 108–447, div. B, title VI, §616, Dec. 8, 2004, 118 Stat. 2915.
 
@@ -334,7 +336,7 @@ Section 109(b) of Pub. L. 105–119 provided that: “Any unobligated sums hithe
 
 #### Retroactive Transfer to Fund
 
-Section 7130 of Pub. L. 100–690 provided that: “An amount equivalent to those sums which would have been placed in the Fund under section 1402(b) of the Victims of Crime Act \[subsec. (b) of this section\], but for the effect of section 1402(c)(2) of such Act, is hereby transferred to the Fund from any sums not appropriated from the general treasury.”
+Section 7130 of Pub. L. 100–690 provided that: “An amount equivalent to those sums which would have been placed in the Fund under section 1402(b) of the Victims of Crime Act \[subsec. (b) of this section\], but for the effect of section 1402(c)(2) of such Act, is herebytransferred to the Fund from any sums not appropriated from the general treasury.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

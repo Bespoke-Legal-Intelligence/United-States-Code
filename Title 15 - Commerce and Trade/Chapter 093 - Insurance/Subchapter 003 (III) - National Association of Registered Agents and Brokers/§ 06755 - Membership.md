@@ -8,7 +8,7 @@
 
 #### (2) Ineligibility for suspension or revocation of license
 
-&emsp;Notwithstanding paragraph (1), a State-licensed insurance producer shall not be eligible to become a member if a State insurance regulator has suspended or revoked such producer's license in that State during the 3-year period preceding the date on which such producer applies for membership.
+&emsp;Notwithstanding paragraph (1), a State-licensed insurance producer shall not be eligible to become a member if a State insurance regulator has suspended or revoked such producer'slicense in that State during the 3-year period preceding the date on which such producer applies for membership.
 
 #### (3) Resumption of eligibility
 

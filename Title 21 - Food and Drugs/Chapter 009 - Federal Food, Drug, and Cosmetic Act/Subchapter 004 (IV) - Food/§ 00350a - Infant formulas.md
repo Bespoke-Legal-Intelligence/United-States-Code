@@ -94,11 +94,11 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (2) After the first production of an infant formula subject to subsection (c) of this section, and before the introduction into interstate commerce of such formula, the manufacturer of such formula shall submit to the Secretary, in such form as may be prescribed by the Secretary, a written verification which summarizes test results and records demonstrating that such formula complies with the requirements of subsections (b)(1), (b)(2)(A), (b)(2)(B)(i), (b)(2)(B)(iii), (b)(3)(A), (b)(3)(C), and (i) of this section.
 
-(3) If the manufacturer of an infant formula for commercial or charitable distribution for human consumption determines that a change in the formulation of the formula or a change in the processing of the formula may affect whether the formula is adulterated under subsection (a) of this section, the manufacturer shall, before the first processing of such formula, make the submission to the Secretary required by paragraph (1).
+(3) If the manufacturer of an infant formula for commercial or charitable distribution for human consumption determines that a change in the formulation of the formula or a change in the processing of the formula may affect whether the formula is adulterated under subsection\(a) of this section, the manufacturer shall, before the first processing of such formula, make the submission to the Secretary required by paragraph (1).
 
 #### (e) Additional notice requirements for manufacturer
 
-(1) If the manufacturer of an infant formula has knowledge which reasonably supports the conclusion that an infant formula which has been processed by the manufacturer and whichhas left an establishment subject to the control of the manufacturer—
+(1) If the manufacturer of an infant formula has knowledge which reasonably supports the conclusion that an infant formula which has been processed by the manufacturer and which has left an establishment subject to the control of the manufacturer—
 
 &emsp;(A) may not provide the nutrients required by subsection (i) of this section, or
 

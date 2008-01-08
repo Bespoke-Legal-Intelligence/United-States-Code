@@ -96,7 +96,7 @@
 
 #### (ii) Other elections
 
-&emsp;&emsp;&emsp;An election under clause (i)(II) or (ii) of subparagraph (A) may be made on a timelyfiled gift tax return for the calendar year for which the election is to become effective.
+&emsp;&emsp;&emsp;An election under clause (i)(II) or (ii) of subparagraph (A) may be made on a timely filed gift tax return for the calendar year for which the election is to become effective.
 
 #### (d) Retroactive allocations
 
@@ -134,7 +134,7 @@
 
 #### (1) In general
 
-&emsp;Any portion of an individual's GST exemption which has not been allocated within the time prescribed by subsection (a) shall be deemed to be allocated as follows—
+&emsp;Any portion of an individual's GST exemption which has not been allocated within thetime prescribed by subsection (a) shall be deemed to be allocated as follows—
 
 &emsp;&emsp;(A) first, to property which is the subject of a direct skip occurring at such individual's death, and
 

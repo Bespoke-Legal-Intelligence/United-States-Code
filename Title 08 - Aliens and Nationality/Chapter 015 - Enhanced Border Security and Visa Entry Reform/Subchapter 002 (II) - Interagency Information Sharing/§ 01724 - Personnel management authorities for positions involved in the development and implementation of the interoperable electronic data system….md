@@ -30,3 +30,7 @@ The authority of this section shall terminate upon the implementation of the Chi
 
 Level III of the Executive Schedule, referred to in subsec. (b), is set out in section 5314 of Title 5, Government Organization and Employees.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

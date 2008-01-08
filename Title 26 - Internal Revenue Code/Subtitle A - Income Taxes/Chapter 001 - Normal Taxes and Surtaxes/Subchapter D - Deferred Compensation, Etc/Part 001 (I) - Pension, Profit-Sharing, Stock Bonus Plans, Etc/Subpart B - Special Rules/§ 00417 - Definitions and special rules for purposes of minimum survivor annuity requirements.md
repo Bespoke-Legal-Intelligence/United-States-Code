@@ -8,9 +8,11 @@
 
 &emsp;&emsp;(A) under the plan, each participant—
 
-&emsp;&emsp;&emsp;(i) may elect at any time during the applicable election period to waive the qualified joint and survivor annuity form of benefit or the qualified preretirement survivor annuity form of benefit (or both), and
+&emsp;&emsp;&emsp;(i) may elect at any time during the applicable election period to waive the qualified joint and survivor annuity form of benefit or the qualified preretirement survivor annuity form of benefit (or both),
 
-&emsp;&emsp;&emsp;(ii) may revoke any such election at any time during the applicable election period, and
+&emsp;&emsp;&emsp;(ii) if the participant elects a waiver under clause (i), may elect the qualified optional survivor annuity at any time during the applicable election period, and
+
+&emsp;&emsp;&emsp;(iii) may revoke any such election at any time during the applicable election period, and
 
 &emsp;&emsp;(B) the plan meets the requirements of paragraphs (2), (3), and (4) of this subsection.
 
@@ -30,7 +32,7 @@
 
 &emsp;&emsp;Each plan shall provide to each participant, within a reasonable period of time before the annuity starting date (and consistent with such regulations as the Secretary may prescribe), a written explanation of—
 
-&emsp;&emsp;&emsp;(i) the terms and conditions of the qualified joint and survivor annuity,
+&emsp;&emsp;&emsp;(i) the terms and conditions of the qualified joint and survivor annuity and of the qualified optional survivor annuity,
 
 &emsp;&emsp;&emsp;(ii) the participant's right to make, and the effect of, an election under paragraph (1) to waive the joint and survivor annuity form of benefit,
 
@@ -56,7 +58,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) A reasonable period ending after section 401(a)(11) applies to the participant.
 
-&emsp;&emsp;&nbsp;In the case of a participant who separates from service before attaining age 35, the applicable period shall be a reasonable period after separation.
+&emsp;&emsp;&nbsp;In the case of a participant who separates from service before attaining age 35, theapplicable period shall be a reasonable period after separation.
 
 #### (4) Requirement of spousal consent for using plan assets as security for loans
 
@@ -70,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The requirements of this subsection shall not apply with respect to the qualified joint and survivor annuity form of benefit or the qualified preretirement survivor annuityform of benefit, as the case may be, if such benefit may not be waived (or another beneficiary selected) and if the plan fully subsidizes the costs of such benefit.
+&emsp;&emsp;The requirements of this subsection shall not apply with respect to the qualified joint and survivor annuity form of benefit or the qualified preretirement survivor annuity form of benefit, as the case may be, if such benefit may not be waived (or another beneficiary selected) and if the plan fully subsidizes the costs of such benefit.
 
 #### (B) Definition
 
@@ -188,31 +190,35 @@ For purposes of this section and section 401(a)(11)—
 
 #### (A) In general
 
-#### (i) Present value
+&emsp;&emsp;For purposes of paragraphs (1) and (2), the present value shall not be less than the present value calculated by using the applicable mortality table and the applicable interest rate.
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), for purposes of paragraphs (1) and (2), the present value shall not be less than the present value calculated by using the applicable mortality table and the applicable interest rate.
+#### (B) Applicable mortality table
 
-#### (ii) Definitions
+&emsp;&emsp;For purposes of subparagraph (A), the term “applicable mortality table” means a mortality table, modified as appropriate by the Secretary, based on the mortality table specified for the plan year under subparagraph (A) of section 430(h)(3) (without regard to subparagraph (C) or (D) of such section).
 
-&emsp;&emsp;&emsp;For purposes of clause (i)—
+#### (C) Applicable interest rate
 
-#### (I) Applicable mortality table
+&emsp;&emsp;For purposes of subparagraph (A), the term “applicable interest rate” means the adjusted first, second, and third segment rates applied under rules similar to the rules of section 430(h)(2)(C) for the month before the date of the distribution or such other time as the Secretary may by regulations prescribe.
 
-&emsp;&emsp;&emsp;&emsp;The term “applicable mortality table” means the table prescribed by the Secretary. Such table shall be based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on the date as of which present value is being determined (without regard to any other subparagraph of section 807(d)(5)).
+#### (D) Applicable segment rates
 
-#### (II) Applicable interest rate
+&emsp;&emsp;For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) if—
 
-&emsp;&emsp;&emsp;&emsp;The term “applicable interest rate” means the annual rate of interest on 30-year Treasury securities for the month before the date of distribution or such other time as the Secretary may by regulations prescribe.
+&emsp;&emsp;&emsp;(i) section 430(h)(2)(D) were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section,
 
-#### (B) Exception
+&emsp;&emsp;&emsp;(ii) section 430(h)(2)(G)(i)(II) were applied by substituting “section417(e)(3)(A)(ii)(II)” for “section 412(b)(5)(B)(ii)(II)”, and
 
-&emsp;&emsp;In the case of a distribution from a plan that was adopted and in effect before the date of the enactment of the Retirement Protection Act of 1994, the present value of any distribution made before the earlier of—
+&emsp;&emsp;&emsp;(iii) the applicable percentage under section 430(h)(2)(G) were determined in accordance with the following table:
 
-&emsp;&emsp;&emsp;(i) the later of the date a plan amendment applying subparagraph (A) is adopted or made effective, or
+&nbsp;
 
-&emsp;&emsp;&emsp;(ii) the first day of the first plan year beginning after December 31, 1999,
-
-> &emsp;&emsp;shall be calculated, for purposes of paragraphs (1) and (2), using the interest rate determined under the regulations of the Pension Benefit Guaranty Corporation for determining the present value of a lump sum distribution on plan termination that were in effect on September 1, 1993, and using the provisions of the plan as in effect on the day before such date of enactment; but only if such provisions of the plan met the requirements of section 417(e)(3) as in effect on the day before such date of enactment.
+| &nbsp; | &nbsp; |
+| :--- | ---: |
+| <b>In the case of plan years beginning in:</b> | <b>The applicable percentage is:</b> |
+| &nbsp;2008 | &nbsp;20 percent&nbsp;&nbsp; |
+| &nbsp;2009 | &nbsp;40 percent&nbsp;&nbsp; |
+| &nbsp;2010 | &nbsp;60 percent&nbsp;&nbsp; |
+| &nbsp;2011 | &nbsp;80 percent. |
 
 #### (f) Other definitions and special rules
 
@@ -256,89 +262,45 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;In prescribing regulations under this section and section 401(a)(11), the Secretary shall consult with the Secretary of Labor.
 
+#### (g) Definition of qualified optional survivor annuity
+
+#### (1) In general
+
+&emsp;For purposes of this section, the term “qualified optional survivor annuity” means an annuity—
+
+&emsp;&emsp;(A) for the life of the participant with a survivor annuity for the life of the spouse which is equal to the applicable percentage of the amount of the annuity which is payable during the joint lives of the participant and the spouse, and
+
+&emsp;&emsp;(B) which is the actuarial equivalent of a single annuity for the life of the participant.
+
+> &emsp;Such term also includes any annuity in a form having the effect of an annuity described in the preceding sentence.
+
+#### (2) Applicable percentage
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (1), if the survivor annuity percentage—
+
+&emsp;&emsp;&emsp;(i) is less than 75 percent, the applicable percentage is 75 percent, and
+
+&emsp;&emsp;&emsp;(ii) is greater than or equal to 75 percent, the applicable percentage is 50 percent.
+
+#### (B) Survivor annuity percentage
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “survivor annuity percentage” means the percentage which the survivor annuity under the plan's qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.
+
 (Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056.)
-
-#### Amendment of Section
-
-<i>Pub. L. 109–280, title X, §1004(a), (c), Aug. 17, 2006, 120 Stat. 1053, 1055, provided that, applicable to plan years beginning after Dec. 31, 2007, with special rule for collectively bargained plans, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(1)(A), by substituting a comma for “, and” in clause (i), by redesignating clause (ii) as (iii), and by adding a new clause (ii) to read as follows:</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) if the participant elects a waiver under clause (i), may elect the qualified optional survivor annuity at any time during the applicable election period, and”;</i>
-
-<i>(2) in subsection (a)(3)(A)(i), by inserting “and of the qualified optional survivor annuity” before the comma at the end; and</i>
-
-<i>(3) by adding subsection (g) at the end to read as follows:</i>
-
-#### <i>(g) Definition of qualified optional survivor annuity</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>For purposes of this section, the term “qualified optional survivor annuity” means an annuity—</i>
-
-&emsp;&emsp;<i>(A) for the life of the participant with a survivor annuity for the life of the spouse which is equal to the applicable percentage of the amount of the annuity which is payable during the joint lives of the participant and the spouse, and</i>
-
-&emsp;&emsp;<i>(B) which is the actuarial equivalent of a single annuity for the life of the participant.</i>
-
-> &emsp;<i>Such term also includes any annuity in a form having the effect of an annuity described in the preceding sentence.</i>
-
-#### <i>(2) Applicable percentage</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>For purposes of paragraph (1), if the survivor annuity percentage—</i>
-
-&emsp;&emsp;&emsp;<i>(i) is less than 75 percent, the applicable percentage is 75 percent, and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) is greater than or equal to 75 percent, the applicable percentage is 50 percent.</i>
-
-#### <i>(B) Survivor annuity percentage</i>
-
-&emsp;&emsp;<i>For purposes of subparagraph (A), the term “survivor annuity percentage” means the percentage which the survivor annuity under the plan's qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.</i>
-
-<i>Pub. L. 109–280, title III, §302(b), (c), Aug. 17, 2006, 120 Stat. 920, 921, provided that, applicable with respect to plan years beginning after Dec. 31, 2007, subsection (e)(3) of this section is amended to read as follows:</i>
-
-#### <i>(3) Determination of present value</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>For purposes of paragraphs (1) and (2), the present value shall not be less than the present value calculated by using the applicable mortality table and the applicable interest rate.</i>
-
-#### <i>(B) Applicable mortality table</i>
-
-&emsp;&emsp;<i>For purposes of subparagraph (A), the term “applicable mortality table” means a mortality table, modified as appropriate by the Secretary, based on the mortality table specified for the plan year under subparagraph (A) of section 430(h)(3) (without regard to subparagraph (C) or (D) of such section).</i>
-
-#### <i>(C) Applicable interest rate</i>
-
-&emsp;&emsp;<i>For purposes of subparagraph (A), the term “applicable interest rate” means the adjusted</i><i>first, second, and third segment rates applied under rules similar to the rules of section 430(h)(2)(C) for the month before the date of the distribution or such other time as the Secretary may by regulations prescribe.</i>
-
-#### <i>(D) Applicable segment rates</i>
-
-&emsp;&emsp;<i>For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) if—</i>
-
-&emsp;&emsp;&emsp;<i>(i) section 430(h)(2)(D) were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section,</i>
-
-&emsp;&emsp;&emsp;<i>(ii) section 430(h)(2)(G)(i)(II) were applied by substituting “section 417(e)(3)(A)(ii)(II)” for “section 412(b)(5)(B)(ii)(II)”, and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) the applicable percentage under section 430(h)(2)(G) were determined in accordance with the following table:</i>
-
-&nbsp;
-
-| &nbsp; | &nbsp; |
-| :--- | ---: |
-| <b>In the case of plan years beginning in:</b> | <b>The applicable percentage is:</b> |
-| &nbsp;2008 | &nbsp;20 percent&nbsp;&nbsp; |
-| &nbsp;2009 | &nbsp;40 percent&nbsp;&nbsp; |
-| &nbsp;2010 | &nbsp;60 percent&nbsp;&nbsp; |
-| &nbsp;2011 | &nbsp;80 percent. |
-
-#### References in Text
-
-The date of the enactment of the Retirement Protection Act of 1994, referred to in subsec. (e)(3)(B), is the date of enactment of subtitle F (§§750–781) of title VII of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
 
-2006—Subsec. (a)(6)(A). Pub. L. 109–280, §1102(a)(1)(A), substituted “180-day” for “90-day”.
+2006—Subsec. (a)(1)(A)(ii), (iii). Pub. L. 109–280, §1004(a)(1), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsec. (a)(3)(A)(i). Pub. L. 109–280, §1004(a)(3), inserted “and of the qualified optional survivor annuity” before comma at end.
+
+Subsec. (a)(6)(A). Pub. L. 109–280, §1102(a)(1)(A), substituted “180-day” for “90-day”.
+
+Subsec. (e)(3). Pub. L. 109–280, §302(b), reenacted heading without change and amended text of par. (3) generally, substituting provisions relating to determination of present value by using the applicable mortality table and the applicable interest rate, provisions defining “applicable mortality table” and “applicable interest rate”, and provisions relating to determination of the adjusted first, second, and third segment rates, for provisions relating to determination of present value, provisions defining “applicable mortality table” and “applicable interest rate”, and provisions stating exception for a distribution from a plan that was adoptedand in effect before the date of the enactment of the Retirement Protection Act of 1994.
+
+Subsec. (g). Pub. L. 109–280, §1004(a)(2), added subsec. (g).
 
 2002—Subsec. (e)(1). Pub. L. 107–147, §411(r)(1)(A), substituted “exceed the amount that can be distributed without the participant's consent under section 411(a)(11)” for “exceed the dollar limit under section 411(a)(11)(A)”.
 
@@ -424,7 +386,7 @@ Section 1451(c) of Pub. L. 104–188 provided that: “The amendments made by th
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of this title.
+Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994,except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of this title.
 
 #### Effective Date of 1989 Amendment
 

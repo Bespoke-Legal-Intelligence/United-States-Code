@@ -10,7 +10,7 @@ The Board shall prescribe rules and regulations regarding employees and other pe
 
 #### (c) Exclusion from zone of goods or process of treatment
 
-The Board may at any time order the exclusion from the zone of any goods or process of treatment that in its judgment is detrimental to the public interest, health, or safety.
+The Board may at any time order the exclusion from the zone of any goods or process oftreatment that in its judgment is detrimental to the public interest, health, or safety.
 
 #### (d) Retail trade within zone
 

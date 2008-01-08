@@ -148,7 +148,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) In general
 
-&emsp;&emsp;The Board may impose sanctions under this section on a registered accounting firmor upon the supervisory personnel of such firm, if the Board finds that—
+&emsp;&emsp;The Board may impose sanctions under this section on a registered accounting firm or upon the supervisory personnel of such firm, if the Board finds that—
 
 &emsp;&emsp;&emsp;(i) the firm has failed reasonably to supervise an associated person, either as required by the rules of the Board relating to auditing or quality control standards, or otherwise, with a view to preventing violations of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance of audit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission under this Act, or professional standards; and
 
@@ -166,7 +166,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) Association with a public accounting firm
 
-&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any registered public accounting firm, or for any registered public accounting firm that knew, or, in the exercise of reasonable care should have known, of the suspension or bar, to permit such an association, without the consent of the Board or the Commission.
+&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any registered public accounting firm, or for any registered publicaccounting firm that knew, or, in the exercise of reasonable care should have known, of the suspension or bar, to permit such an association, without the consent of the Board or the Commission.
 
 #### (B) Association with an issuer
 

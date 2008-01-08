@@ -6,7 +6,7 @@ No department, agency, or instrumentality of the Federal Government or of any St
 
 #### (b) Costs incurred in civil actions
 
-(1) Petitioners may be required to bear the costs of legal counsel or advisors, court costs incurred in connection with their petitions, and travel costs for the return of the child involved and any accompanying persons, except as provided in paragraphs (2) and (3).
+(1) Petitioners may be required to bear the costs of legal counsel or advisors, court costs incurred in connection with their petitions, and travel costs for the return of the child involvedand any accompanying persons, except as provided in paragraphs (2) and (3).
 
 (2) Subject to paragraph (3), legal fees or court costs incurred in connection with an action brought under section 11603 of this title shall be borne by the petitioner unless they are covered by payments from Federal, State, or local legal assistance or other programs.
 

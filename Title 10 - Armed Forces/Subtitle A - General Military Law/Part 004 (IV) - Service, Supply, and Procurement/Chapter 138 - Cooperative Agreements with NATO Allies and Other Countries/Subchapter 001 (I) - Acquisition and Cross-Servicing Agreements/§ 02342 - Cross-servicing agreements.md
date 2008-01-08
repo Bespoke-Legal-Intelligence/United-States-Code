@@ -48,6 +48,10 @@ Subsec. (c). Pub. L. 103–337, §1317(b)(3), substituted “or international or
 
 1985—Pub. L. 99–145 renumbered section 2322 of this title as this section and substituted “section 2343” for “section 2323”.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under section 2341 of this title.

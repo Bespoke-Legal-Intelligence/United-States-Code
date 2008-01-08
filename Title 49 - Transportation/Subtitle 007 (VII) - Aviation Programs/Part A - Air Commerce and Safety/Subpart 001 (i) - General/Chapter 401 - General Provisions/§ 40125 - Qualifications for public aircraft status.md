@@ -10,7 +10,7 @@ Commercial purposes.—The term “commercial purposes” means the transportati
 
 &emsp;(2)
 
-Governmental function.—The term “governmental function” means an activity undertaken by a government, such as national defense, intelligence missions, firefighting, search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, or biological or geological resource management.
+Governmental function.—The term “governmental function” means an activityundertaken by a government, such as national defense, intelligence missions, firefighting, search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, or biological or geological resource management.
 
 &emsp;(3)
 

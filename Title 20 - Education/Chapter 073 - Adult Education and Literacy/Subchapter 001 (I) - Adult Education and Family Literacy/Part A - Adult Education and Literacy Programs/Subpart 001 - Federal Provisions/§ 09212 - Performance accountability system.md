@@ -46,7 +46,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (ii) Identification in State plan
 
-&emsp;&emsp;&emsp;Each eligible agency shall identify, in the State plan submitted under section 9224 of this title, expected levels of performance for each of the core indicators of performance for the first 3 program years covered by the State plan.
+&emsp;&emsp;&emsp;Each eligible agency shall identify, in the State plan submitted under section9224 of this title, expected levels of performance for each of the core indicators of performance for the first 3 program years covered by the State plan.
 
 #### (iii) Agreement on eligible agency adjusted levels of performance for first 3 years
 

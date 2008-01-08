@@ -6,7 +6,7 @@ The Secretary may enter into contracts, financial assistance agreements, and suc
 
 #### (b) Transfer of projects
 
-Nothing in this subchapter authorizes the transfer of pre-existing facilities or pre-existing components of any water system from Federal to private ownership or from private to Federal ownership.
+Nothing in this subchapter authorizes the transfer of pre-existing facilities or pre-existingcomponents of any water system from Federal to private ownership or from private to Federal ownership.
 
 #### (c) Federal reclamation law
 

@@ -4,13 +4,21 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;(1) The term “Federal agency” means each authority of the Government of the United States, whether or not it is within or subject to review by another agency.
 
-&emsp;(2) The term “energy savings” means a reduction in the cost of energy, water, or wastewater treatment, from a base cost established through a methodology set forth in the contract, used in an existing federally owned building or buildings or other federally owned facilities as a result of—
+&emsp;(2) The term “energy savings” means—
 
-&emsp;&emsp;(A) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services;
+&emsp;&emsp;(A) a reduction in the cost of energy, water, or wastewater treatment, from a base cost established through a methodology set forth in the contract, used in an existing federally owned building or buildings or other federally owned facilities as a result of—
 
-&emsp;&emsp;(B) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federally owned building or buildings or other federally owned facilities; or
+&emsp;&emsp;&emsp;(i) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services;
 
-&emsp;&emsp;(C) the increased efficient use of existing water sources in either interior or exterior applications.
+&emsp;&emsp;&emsp;(ii) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federally owned building or buildings or other federally owned facilities; or
+
+&emsp;&emsp;&emsp;(iii) the increased efficient use of existing water sources in either interior or exterior applications;
+
+&emsp;&emsp;(B) the increased efficient use of an existing energy source by cogeneration or heat recovery;
+
+&emsp;&emsp;(C) if otherwise authorized by Federal or State law (including regulations), the sale or transfer of electrical or thermal energy generated on-site from renewable energy sources or cogeneration, but in excess of Federal needs, to utilities or non-Federal energy users; and
+
+&emsp;&emsp;(D) the increased efficient use of existing water sources in interior or exterior applications.
 
 &emsp;(3) The terms “energy savings contract” and “energy savings performance contract” mean a contract that provides for the performance of services for the design, acquisition, installation, testing, and, where appropriate, operation, maintenance, and repair, of an identified energy or water conservation measure or series of measures at 1 or more locations. Such contracts shall, with respect to an agency facility that is a public building (as such term is defined in section 3301 of title 40), be in compliance with the prospectus requirements and procedures of section 3307 of title 40.
 
@@ -18,11 +26,13 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;&emsp;(A) an energy conservation measure, as defined in section 8259 of this title; or
 
-&emsp;&emsp;(B) a water conservation measure that improves the efficiency of water use, is life-cycle cost-effective, and involves water conservation, water recycling or reuse, more efficient treatment of wastewater or stormwater, improvements in operation or maintenance efficiencies, retrofit activities, or other related activities, not at a Federal hydroelectric facility.
+&emsp;&emsp;(B) a water conservation measure that improves the efficiency of water use, is life-cycle cost-effective, and involves water conservation, water recycling or reuse, more efficient treatment of wastewater or stormwater, improvements in operation or maintenance efficiencies, retrofit activities, orother related activities, not at a Federal hydroelectric facility.
 
-(Pub. L. 95–619, title VIII, §804, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 143; amended Pub. L. 102–486, title I, §155(b), Oct. 24, 1992, 106 Stat. 2855; Pub. L. 105–388, §4(b), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 108–375, div. A, title X, §1090(c)–(e), Oct. 28, 2004, 118 Stat. 2067.)
+(Pub. L. 95–619, title VIII, §804, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 143; amended Pub. L. 102–486, title I, §155(b), Oct. 24, 1992, 106 Stat. 2855; Pub. L. 105–388, §4(b), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 108–375, div. A, title X, §1090(c)–(e), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 110–140, title V, §515, Dec. 19, 2007, 121 Stat. 1659.)
 
 #### Amendments
+
+2007—Par. (2). Pub. L. 110–140 substituted “means—” for “means” in introductory provisions, inserted subpar. (A) designation before “a reduction”, redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), respectively, and added subpars. (B) to (D).
 
 2004—Par. (2). Pub. L. 108–375, §1090(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘energy savings’ means a reduction in the cost of energy, from a base cost established through a methodology set forth in the contract, utilized in an existing federally owned building or buildings or other federally owned facilities as a result of—
 
@@ -47,4 +57,8 @@ Par. (1). Pub. L. 102–486, §155(b)(2), substituted “The” for “the” an
 Par. (2). Pub. L. 102–486, §155(b)(3), substituted “The term” for “the term”.
 
 Pars. (3), (4). Pub. L. 102–486, §155(b)(4), added pars. (3) and (4).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

@@ -22,7 +22,7 @@ Pub. L. 105–244, title IV, §480A, Oct. 7, 1998, 112 Stat. 1732, provided that
 
 “(a)
 
-In General.—Except as provided in subsection (b), the amendments made by this part \[part F (§§471–480A) of title IV of Pub. L. 105–244, amending thissection and sections 1087<i>ll</i> to 1087tt and 1087vv of this title\] are effective on the date of enactment of this Act \[Oct. 7, 1998\].
+In General.—Except as provided in subsection (b), the amendments made by this part \[part F (§§471–480A) of title IV of Pub. L. 105–244, amending this section and sections 1087<i>ll</i> to 1087tt and 1087vv of this title\] are effective on the date of enactment of this Act \[Oct. 7, 1998\].
 
 “(b)
 
@@ -74,7 +74,7 @@ Required Subjects of Study.—In performing the study, the Advisory Committee sh
 
 &emsp;“(5) whether the nature and timing of the application required in section 483 (a)(1) of the Higher Education Act of 1965 (20 U.S.C. 1090(a)(1)), eligibility and award determination, financial aid processing, and funds delivery can be streamlined further for students and families, institutions, and States;
 
-&emsp;“(6) whether it is feasible to allow students to complete only those limited sections of the financial aid application that apply to their specific circumstances and the State in which they reside;
+&emsp;“(6) whether it is feasible to allow students to complete only those limited sections of the financial aidapplication that apply to their specific circumstances and the State in which they reside;
 
 &emsp;“(7) whether a widely disseminated printed form, or the use of an Internet or other electronic means, can be developed to notify individuals of an estimation of their approximate eligibility for grant, work-study, and loan assistance upon completion and verification of the simplified application form;
 
@@ -100,7 +100,7 @@ Forms design expert.—With the goal of making significant changes to the form t
 
 &emsp;“(3)
 
-Congressional consultation.—The Advisory Committee shall consult on a regular basis with the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate in carrying out the feasibility study required by this subsection.
+Congressional consultation.—The Advisory Committee shall consult on a regular basis with the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate in carrying out the feasibility study required by this subsection.
 
 &emsp;“(4)
 
@@ -112,7 +112,7 @@ Reports.—
 
 &emsp;“(1)
 
-Interim report.—The Advisory Committee shall, not later than 6 months after the date of enactment of this Act \[Jan. 23, 2004\], prepare and submit an interim report containing any such legislative changes as the Advisory Committee recommends to reform and simplify the needs analysis under part F of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087kk et seq.) and forms and other requirements under such title to the Committee on Education and the Workforce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Secretary of Education.
+Interim report.—The Advisory Committee shall, not later than 6 months after the date of enactment of this Act \[Jan. 23, 2004\], prepare and submit an interim report containing any such legislative changes as the Advisory Committee recommends to reform and simplify the needs analysis under part F of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087kk et seq.) and forms and other requirements under such title to the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Secretary of Education.
 
 &emsp;“(2)
 
@@ -120,7 +120,7 @@ Final report.—The Advisory Committee shall, not later than 1 year after the da
 
 “(f)
 
-Implementation.—The Secretary of Education shall consult with the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate and shall subsequently initiate a redesign of the form required by section 483 of the Higher Education Act of 1965 (20 U.S.C. 1090). Such redesign shall include the testing of alternative simplified versions of the free Federal form. The Secretary shall keep the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate fully and currently informed on the progress of these efforts.
+Implementation.—The Secretary of Education shall consult with the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate and shall subsequently initiate a redesign of the form required by section 483 of the Higher Education Act of 1965 (20 U.S.C. 1090). Such redesign shall include the testing of alternative simplified versions of the free Federal form. The Secretary shall keep the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate fully and currently informed on the progress of these efforts.
 
 “(g)
 

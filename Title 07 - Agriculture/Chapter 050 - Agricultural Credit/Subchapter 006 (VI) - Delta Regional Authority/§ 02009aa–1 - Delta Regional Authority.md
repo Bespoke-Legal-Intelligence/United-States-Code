@@ -94,7 +94,7 @@
 
 The Authority shall—
 
-&emsp;(1) develop, on a continuing basis, comprehensive and coordinated plans and programs to establish priorities and approve grants for the economic development of the region, giving due consideration to other Federal, State, and local planning and development activities in the region;
+&emsp;(1) develop, on a continuing basis, comprehensive and coordinated plans and programsto establish priorities and approve grants for the economic development of the region, giving due consideration to other Federal, State, and local planning and development activities in the region;
 
 &emsp;(2) not later than 220 days after December 21, 2000, establish priorities in a development plan for the region (including 5-year regional outcome targets);
 

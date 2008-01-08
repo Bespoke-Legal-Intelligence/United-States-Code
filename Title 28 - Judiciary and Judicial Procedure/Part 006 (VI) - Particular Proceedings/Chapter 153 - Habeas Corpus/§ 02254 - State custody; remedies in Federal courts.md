@@ -36,7 +36,7 @@
 
 (f) If the applicant challenges the sufficiency of the evidence adduced in such State court proceeding to support the State court's determination of a factual issue made therein, the applicant, if able, shall produce that part of the record pertinent to a determination of the sufficiency of the evidence to support such determination. If the applicant, because of indigency or other reason is unable to produce such part of the record, then the State shall produce such part of the record and the Federal court shall direct the State to do so by order directed to an appropriate State official. If the State cannot provide such pertinent part of the record, then the court shall determine under the existing facts and circumstances what weight shall be given to the State court's factual determination.
 
-(g) A copy of the official records of the State court, duly certified by the clerk of such court to be a true and correct copy of a finding, judicial opinion, or other reliable written indicia showing such a factual determination by the State court shall be admissible in the Federal court proceeding.
+(g) A copy of the official records of the State court, duly certified by the clerk of such courtto be a true and correct copy of a finding, judicial opinion, or other reliable written indicia showing such a factual determination by the State court shall be admissible in the Federal court proceeding.
 
 (h) Except as provided in section 408 of the Controlled Substances Act, in all proceedings brought under this section, and any subsequent proceedings on review, the court may appoint counsel for an applicant who is or becomes financially unable to afford counsel, except as provided by a rule promulgated by the Supreme Court pursuant to statutory authority. Appointment of counsel under this section shall be governed by section 3006A of title 18.
 
@@ -88,7 +88,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2254 CASES IN THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective February 1, 1977, as amended to January 3, 2007)</i>
+#### (<i>Effective February 1, 1977, as amended to January 8, 2008)</i>
 
 Rule
 
@@ -302,11 +302,11 @@ Subdivision (c). The amendment takes into account 28 U.S.C. §1746, enacted afte
 
 The language of Rule 2 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as described below.
 
-Revised Rule 2(c)(5) has been amended by removing the requirement that the petition be signed personally by the petitioner. As reflected in 28 U.S.C. §2242, an application for habeas corpus relief may be filed by the person who is seeking relief, or by someone acting on behalf of that person. <i>See, e.g., Whitmore v. Arkansas</i>, 495 U.S. 149 (1990) (discussion of requisites for “next friend” standing in petition for habeas corpus). Thus, under the, \[sic\] amended rule the petition may be signed by petitioner personally or by someone acting on behalf of the petitioner, assuming that the person is authorized to do so, for example, an attorney for the petitioner. The Committee envisions that the courts will apply third-party, or “next-friend,” standing analysis in deciding whether the signer was actually authorized to sign the petition on behalf of the petitioner.
+Revised Rule 2(c)(5) has been amended by removing the requirement that the petition be signed personally by the petitioner. As reflected in 28 U.S.C. §2242, an application for habeas corpus relief may be filed by the person who is seeking relief, or by someone acting on behalf of that person. <i>See, e.g., Whitmore v. Arkansas</i>, 495 U.S. 149 (1990) (discussion of requisites for “next friend” standing in petition for habeas corpus). Thus, under the, \[sic\] amended rule the petition may be signed by petitioner personally or by someone acting on behalf of the petitioner, assuming that the person is authorized to do so, for example, an attorney for the petitioner.The Committee envisions that the courts will apply third-party, or “next-friend,” standing analysis in deciding whether the signer was actually authorized to sign the petition on behalf of the petitioner.
 
 The language in new Rule 2(d) has been changed to reflect that a petitioner must substantially follow the standard form, which is appended to the rules, or a form provided by the court. The current rule, Rule 2(c), seems to indicate a preference for the standard “national” form. Under the amended rule, there is no stated preference. The Committee understood that current practice in some courts is that if the petitioner first files a petition using the national form, the courts may then ask the petitioner to supplement it with the local form.
 
-Current Rule 2(e), which provided for returning an insufficient petition, has been deleted. The Committee believed that the approach in Federal Rule of Civil Procedure 5(e) was more appropriate for dealing with petitions that do not conform to the form requirements of the rule. That Rule provides that the clerk may not refuse to accept a filing solely for the reason that it fails to comply with these rules or local rules. Before the adoption of a one-year statute of limitations in the Antiterrorism and Effective Death Penalty Act of 1996,110 Stat. 1214, the petitioner suffered no penalty, other than delay, if the petition was deemed insufficient. Now that a one-year statute of limitations applies to petitions filed under §2254, <i>see</i> 28 U.S.C. §2244(d)(1), the court's dismissal of a petition because it is not in proper form may pose a significant penalty for a petitioner, who may not be able to file another petition within the one-year limitations period. Now, under revised Rule 3(b), the clerk is required to file a petition, even though it may otherwise fail to comply with the provisions in revised Rule 2(c). The Committee believed that the better procedure was to accept the defective petition and require the petitioner to submit a corrected petition that conforms to Rule 2(c).
+Current Rule 2(e), which provided for returning an insufficient petition, has been deleted. The Committee believed that the approach in Federal Rule of Civil Procedure 5(e) was more appropriate for dealing with petitions that do not conform to the form requirements of the rule. That Rule provides that the clerk may not refuse to accept a filing solely for the reason that it fails to comply with these rules or local rules. Before the adoption of a one-year statute of limitations in the Antiterrorism and Effective Death Penalty Act of 1996, 110 Stat. 1214, the petitioner suffered no penalty, other than delay, if the petition was deemed insufficient. Now that a one-year statute of limitations applies to petitions filed under §2254, <i>see</i> 28 U.S.C. §2244(d)(1), the court's dismissal of a petition because it is not in proper form may pose a significant penalty for a petitioner, who may not be able to file another petition within the one-year limitations period. Now, under revised Rule 3(b), the clerk is required to file a petition, even though it may otherwise fail to comply with the provisions in revised Rule 2(c). The Committee believed that the better procedure was to accept the defective petition and require the petitioner to submit a corrected petition that conforms to Rule 2(c).
 
 <i>Changes Made After Publication and Comments</i>. The Committee changed Rule 2(c)(2) to read “state the facts” rather then \[sic\] “briefly summarize the facts.” As one commentator noted, the current language may actually mislead the petitioner and is also redundant. The Committee modified Rule 2(c)(5) to emphasize that any person, other than the petitioner, who signs the petition must be authorized to do so; the revised rule now specifically cites §2242. The Note was changed to reflect that point.
 
@@ -392,9 +392,9 @@ It has been suggested that an answer should be required in every habeas proceedi
 
 In the event an answer is ordered under rule 4, the court is accorded greater flexibility than under §2243 in determining within what time period an answer must be made. Under §2243, the respondent must make a return within three days after being so ordered, with additional time of up to forty days allowed under the Federal Rules of Civil Procedure, Rule 81(a)(2), for good cause. In view of the widespread state of work overload in prosecutors’ offices (see, <i>e.g., Allen</i>, 424 F.2d at 141), additional time is granted in some jurisdictions as a matter of course. Rule 4, which contains no fixed time requirement, gives the court the discretion to take into account various factors such as the respondent's workload and the availability of transcripts before determining a time within which an answer must be made.
 
-Rule 4 authorizes the judge to “take such other action as the judge deems appropriate.” This is designed to afford the judge flexibility in a case where either dismissal or an order to answer may be inappropriate. For example, the judge may want to authorize the respondent to make a motion to dismiss based upon information furnished by respondent, which may show that petitioner's claims have already been decided on the merits in a federal court; that petitioner has failed to exhaust state remedies; that the petitioner is not in custody within the meaning of 28 U.S.C. §2254; or that a decision in the matter is pending in state court. In these situations, a dismissal may be called for on procedural grounds, which may avoid burdening the respondent with the necessity of filing an answer on the substantive merits of the petition. In other situations, the judge may want to consider a motion from respondent to make the petition more certain. Or the judge may want to dismiss some allegations in the petition, requiring the respondent to answer only those claims which appear to have some arguable merit.
+Rule 4 authorizes the judge to “take such other action as the judge deems appropriate.” This is designedto afford the judge flexibility in a case where either dismissal or an order to answer may be inappropriate. For example, the judge may want to authorize the respondent to make a motion to dismiss based upon information furnished by respondent, which may show that petitioner's claims have already been decided on the merits in a federal court; that petitioner has failed to exhaust state remedies; that the petitioner is not in custody within the meaning of 28 U.S.C. §2254; or that a decision in the matter is pending in state court. In these situations, a dismissal may be called for on procedural grounds, which may avoid burdening the respondent with the necessity of filing an answer on the substantive merits of the petition. In other situations, the judge may want to consider a motion from respondent to make the petition more certain. Or the judge may want to dismiss some allegations in the petition, requiring the respondent to answer only those claims which appear to have some arguable merit.
 
-Rule 4 requires that a copy of the petition and any order be served by certified mail on the respondent and the attorney general of the state involved. See 28 U.S.C. §2252. Presently, the respondent often does not receive a copy of the petition unless the court directsan answer under 28 U.S.C. §2243. Although the attorney general is served, he is not required to answer if it is more appropriate for some other agency to do so. Although the rule does not specifically so provide, it is assumed that copies of the court orders to respondent will be mailed to petitioner by the court.
+Rule 4 requires that a copy of the petition and any order be served by certified mail on the respondent and the attorney general of the state involved. See 28 U.S.C. §2252. Presently, the respondent often does not receive a copy of the petition unless the court directs an answer under 28 U.S.C. §2243. Although the attorney general is served, he is not required to answer if it is more appropriate for some other agency to do so. Although the rule does not specifically so provide, it is assumed that copies of the court orders to respondent will be mailed to petitioner by the court.
 
 #### Committee Notes on Rules—2004 Amendment
 
@@ -448,13 +448,13 @@ The answer must respond to the allegations of the petition. While some districts
 
 The answer must also state whether the petitioner has exhausted his state remedies. This is a prerequisite to eligibility for the writ under 28 U.S.C. §2254(b) and applies to every ground the petitioner raises. Most form petitions now in use contain questions requiring information relevant to whether the petitioner has exhausted his remedies. However, the exhaustion requirement is often not understood by the unrepresented petitioner. The attorney general has both the legal expertise and access to the record and thus is in a much better position to inform the court on the matter of exhaustion of state remedies. An alleged failure to exhaust state remedies as to any ground in the petition may be raised by a motion by the attorney general, thus avoiding the necessity of a formal answer as to that ground.
 
-The rule requires the answer to indicate what transcripts are available, when they can be furnished, and also what proceedings have been recorded and not transcribed. This will serve to inform the court and petitioner as to what factual allegations can be checked against the actual transcripts. The transcripts include pretrial transcripts relating, for example, to pretrial motions to suppress; transcripts of the trial or guilty plea proceeding; and transcripts of any post-conviction proceedings which may have taken place. The respondent is required to furnish those portions of the transcripts which he believes relevant. The court may order the furnishing of additional portions of the transcripts upon the request of petitioner or upon the court's own motion.
+The rule requires the answer to indicate what transcripts are available, when they can be furnished, and also what proceedings have been recorded and not transcribed. This will serve to inform the court and petitioner as to what factual allegations can be checked against the actual transcripts. The transcripts include pretrial transcripts relating, for example, to pretrial motions to suppress; transcripts of the trial or guiltyplea proceeding; and transcripts of any post-conviction proceedings which may have taken place. The respondent is required to furnish those portions of the transcripts which he believes relevant. The court may order the furnishing of additional portions of the transcripts upon the request of petitioner or upon the court's own motion.
 
 Where transcripts are unavailable, the rule provides that a narrative summary of the evidence may be submitted.
 
 Rule 5 (and the general procedure set up by this entire set of rules) does not contemplate a traverse to the answer, except under special circumstances. See advisory committee note to rule 9. Therefore, the old common law assumption of verity of the allegations of a return until impeached, as codified in 28 U.S.C. §2248, is no longer applicable. The meaning of the section, with its exception to the assumption “to the extent that the judge finds from the evidence that they (the allegations) are not true,” has given attorneys and courts a great deal of difficulty. It seems that when the petition and return pose an issue of fact, no traverse is required; <i>Stewart v. Overholser</i>, 186 F.2d 339 (D.C. Cir. 1950).
 
-&emsp;We read §2248 of the Judicial Code as not requiring a traverse when a factual issue has been clearlyframed by the petition and the return or answer. This section provides that the allegations of a return or answer to an order to show cause shall be accepted as true if not traversed, except to the extent the judge finds from the evidence that they are not true. This contemplates that where the petition and return or answer do present an issue of fact material to the legality of detention, evidence is required to resolve that issue despite the absence of a traverse. This reference to evidence assumes a hearing on issues raised by the allegations of the petition and the return or answer to the order to show cause.
+&emsp;We read §2248 of the Judicial Code as not requiring a traverse when a factual issue has been clearly framed by the petition and the return or answer. This section provides that the allegations of a return or answer to an order to show cause shall be accepted as true if not traversed, except to the extent the judge finds from the evidence that they are not true. This contemplates that where the petition and return or answer do present an issue of fact material to the legality of detention, evidence is required to resolve that issue despite the absence of a traverse. This reference to evidence assumes a hearing on issues raised by the allegations of the petition and the return or answer to the order to show cause.
 
 #### 186 F.2d at 342, n. 5
 
@@ -498,7 +498,7 @@ Deposition Expenses. If the respondent is granted leave to take a deposition, th
 
 #### Advisory Committee Note
 
-This rule prescribes the procedures governing discovery in habeas corpus cases. Subdivision (a) provides that any party may utilize the processes of discovery available under the Federal Rules of Civil Procedure (rules 26–37) if, and to the extent that, the judge allows. It also provides for the appointment of counsel for a petitioner who qualifies for this when counsel is necessary for effective utilization of discovery procedures permitted by the judge.
+This rule prescribes the procedures governing discovery in habeas corpus cases. Subdivision (a) providesthat any party may utilize the processes of discovery available under the Federal Rules of Civil Procedure (rules 26–37) if, and to the extent that, the judge allows. It also provides for the appointment of counsel for a petitioner who qualifies for this when counsel is necessary for effective utilization of discovery procedures permitted by the judge.
 
 Subdivision (a) is consistent with <i>Harris v. Nelson</i>, 394 U.S. 286 (1969). In that case the court noted,
 
@@ -512,7 +512,7 @@ Subdivision (a) is consistent with <i>Harris v. Nelson</i>, 394 U.S. 286 (1969).
 
 #### 394 U.S. at 299
 
-The court concluded that the issue of discovery in habeas corpus cases could best be dealt with as part of aneffort to provide general rules of practice for habeas corpus cases:
+The court concluded that the issue of discovery in habeas corpus cases could best be dealt with as part of an effort to provide general rules of practice for habeas corpus cases:
 
 &emsp;In fact, it is our view that the rulemaking machinery should be invoked to formulate rules of practice with respect to federal habeas corpus and §2255 proceedings, on a comprehensive basis and not merely one confined to discovery. The problems presented by these proceedings are materially different from those dealt with in the Federal Rules of Civil Procedure and the Federal Rules of Criminal Procedure, and reliance upon usage and the opaque language of Civil Rule 81(a)(2) is transparently inadequate. In our view the results of a meticulous formulation and adoption of special rules for federal habeas corpus and §2255 proceedings would promise much benefit.
 
@@ -598,7 +598,7 @@ The language in current Rule 7(d), which deals with authentication of materials 
 
 (a)
 
-Determining Whether to Hold a Hearing. If the petition is not dismissed, the judge must review the answer, any transcripts and records of state-court proceedings, and any materials submitted under Rule 7 to determine whether an evidentiary hearing is warranted.
+Determining Whether to Hold a Hearing. If the petition is not dismissed, the judge mustreview the answer, any transcripts and records of state-court proceedings, and any materials submitted under Rule 7 to determine whether an evidentiary hearing is warranted.
 
 (b)
 
@@ -606,7 +606,7 @@ Reference to a Magistrate Judge. A judge may, under 28 U.S.C. §636(b), refer th
 
 (c)
 
-Appointing Counsel; Time of Hearing. If an evidentiary hearing is warranted, the judge must appoint an attorney to represent a petitioner who qualifies to have counsel appointedunder 18 U.S.C. §3006A. The judge must conduct the hearing as soon as practicable after giving the attorneys adequate time to investigate and prepare. These rules do not limit the appointment of counsel under §3006A at any stage of the proceeding.
+Appointing Counsel; Time of Hearing. If an evidentiary hearing is warranted, the judge must appoint an attorney to represent a petitioner who qualifies to have counsel appointed under 18 U.S.C. §3006A. The judge must conduct the hearing as soon as practicable after giving the attorneys adequate time to investigate and prepare. These rules do not limit the appointment of counsel under §3006A at any stage of the proceeding.
 
 (As amended Pub. L. 94–426, §2(5), Sept. 28, 1976, 90 Stat. 1334; Pub. L. 94–577, §2(a)(1), (b)(1), Oct. 21, 1976, 90 Stat. 2730, 2731; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
@@ -798,7 +798,7 @@ Finally, the title of Rule 9 has been changed to reflect the fact that the only 
 
 #### Amendments by Public Law
 
-1976—Subd. (a). Pub. L. 94–426, §2(7), struck out provision which established a rebuttable presumption of prejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
+1976—Subd. (a). Pub. L. 94–426, §2(7), struck out provision which established a rebuttable presumption ofprejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
 
 Subd. (b). Pub. L. 94–426, §2(8), substituted “constituted an abuse of the writ” for “is not excusable”.
 
@@ -854,7 +854,7 @@ Habeas corpus proceedings are characterized as civil in nature. See <i>e.g., Fis
 
 #### 394 U.S. at 290
 
-> The court then went on to consider the contention that the “conformity” provision of Rule 81(a)(2) should be rigidly applied so that the civil rules would be applicable only to the extent that habeas corpus practice had conformed to the practice in civil actions at the time of the adoption of the Federal Rules of Civil Procedure on September 16, 1938. The court said:
+> The court then went on to consider the contention that the “conformity” provision of Rule 81(a)(2) should be rigidly applied so that the civil rules would be applicable only to the extent that habeas corpus practice hadconformed to the practice in civil actions at the time of the adoption of the Federal Rules of Civil Procedure on September 16, 1938. The court said:
 
 > &emsp;Although there is little direct evidence, relevant to the present problem, of the purpose of the “conformity” provision of Rule 81(a)(2), the concern of the draftsmen, as a general matter, seems to have been to provide for the continuing applicability of the “civil” rules in their new form to those areas of practice in habeas corpus and other enumerated proceedings in which the “specified” proceedings had theretofore utilized the modes of civil practice. Otherwise, those proceedings were to be considered outside of the scope of the rules without prejudice, of course, to the use of particular rules by analogy or otherwise, where appropriate.
 
@@ -1016,7 +1016,7 @@ Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Form No. 9
 
-#### \[Omitted as obsolete\]
+#### \[Abrogated Apr. 30, 2007, eff. Dec. 1, 2007.\]
 
 <i>Changes Made After Publication and Comments—Forms Accompanying Rules Governing §2254 and §2255 Proceedings</i>. Responding to a number of comments from the public, the Committee deleted from both sets of official forms the list of possible grounds of relief. The Committee made additional minor style corrections to the forms.
 

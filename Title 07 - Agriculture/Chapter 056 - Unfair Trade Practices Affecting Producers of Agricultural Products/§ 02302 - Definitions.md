@@ -6,7 +6,7 @@ When used in this chapter—
 
 (b) The term “producer” means a person engaged in the production of agricultural products as a farmer, planter, rancher, dairyman, fruit, vegetable, or nut grower.
 
-(c) The term “association of producers” means any association of producers of agriculturalproducts engaged in marketing, bargaining, shipping, or processing as defined in section 1141j(a) of title 12, or in section 291 of this title.
+(c) The term “association of producers” means any association of producers of agricultural products engaged in marketing, bargaining, shipping, or processing as defined in section 1141j(a) of title 12, or in section 291 of this title.
 
 (d) The term “person” includes individuals, partnerships, corporations, and associations.
 

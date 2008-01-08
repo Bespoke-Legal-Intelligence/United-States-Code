@@ -3,6 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [3701\.](%C2%A7%2003701%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93473%2C%20title%20II%2C%20%C2%A7602%2C%20Oct.%2012%2C%201984%2C%2098%20Stat.%202077.md) | Repealed. |
+| [3702\.](%C2%A7%2003702%20-%20State%20and%20local%20governments%20to%20consider%20courts.md) | State and local governments to consider courts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,6 +23,7 @@
 | [3712h.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003712h%20-%20Office%20of%20Audit%2C%20Assessment%2C%20and%20Management.md) | Office of Audit, Assessment, and Management. |
 | [3713\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003713%20-%20State%20grant%20program%20for%20training%20and%20prosecution%20of%20computer%20crimes.md) | State grant program for training and prosecution of computer crimes. |
 | [3714\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003714%20-%20Grant%20program%20for%20State%20and%20local%20domestic%20preparedness%20support.md) | Grant program for State and local domestic preparedness support. |
+| [3714a.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003714a%20-%20Grants%20to%20States%20for%20threat%20assessment%20databases.md) | Grants to States for threat assessment databases. |
 | [3715\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003715%20-%20Office%20of%20Justice%20Programs%20grants%2C%20cooperative%20agreements%2C%20and%20contracts.md) | Office of Justice Programs grants, cooperative agreements, and contracts. |
 | [3715a.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003715a%20-%20Consolidation%20of%20financial%20management%20systems%20of%20Office%20of%20Justice%20Programs.md) | Consolidation of financial management systems of Office of Justice Programs. |
 
@@ -209,6 +211,7 @@ I74subpart 1—grants to public and private entities
 | [3796b.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796b%20-%20Definitions.md) | Definitions. |
 | [3796c.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796c%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | 3796c–1. | Expedited payment for public safety officers involved in the prevention, investigation, rescue, or recovery efforts related to a terrorist attack. |
+| 3796c–2. | Funds available for appeals and expenses of representation of hearing examiners. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -520,6 +523,7 @@ Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising th
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 03701 - Repealed. Pub. L. 98&#8211;473, title II, &sect;602, Oct. 12, 1984, 98 Stat. 2077](%C2%A7%2003701%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93473%2C%20title%20II%2C%20%C2%A7602%2C%20Oct.%2012%2C%201984%2C%2098%20Stat.%202077.md)
+- [&sect; 03702 - State and local governments to consider courts](%C2%A7%2003702%20-%20State%20and%20local%20governments%20to%20consider%20courts.md)
 - [Subchapter 001 (I) - Office of Justice Programs](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/README.md)
 - [Subchapter 002 (II) - National Institute of Justice](Subchapter%20002%20%28II%29%20-%20National%20Institute%20of%20Justice/README.md)
 - [Subchapter 003 (III) - Bureau of Justice Statistics](Subchapter%20003%20%28III%29%20-%20Bureau%20of%20Justice%20Statistics/README.md)

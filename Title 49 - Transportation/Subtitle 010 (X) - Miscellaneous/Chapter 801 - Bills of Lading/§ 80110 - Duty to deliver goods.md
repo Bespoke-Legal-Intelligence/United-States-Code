@@ -12,7 +12,7 @@ General Rules.—Except to the extent a common carrier establishes an excuse pro
 
 (b)
 
-Persons to Whom Goods May Be Delivered.—Subject to section 80111 of this title, a common carrier may deliver the goods covered by a bill of lading to—
+Persons to Whom Goods May Be Delivered.—Subject to section 80111 of this title, acommon carrier may deliver the goods covered by a bill of lading to—
 
 &emsp;(1) a person entitled to their possession;
 

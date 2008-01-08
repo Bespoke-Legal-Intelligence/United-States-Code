@@ -36,7 +36,7 @@ There is established in the Treasury of the United States an account to be known
 
 #### (1) Critical emerging agricultural and rural issues
 
-&emsp;The Secretary shall use the funds in the Account for research, extension, and educationgrants (referred to in this section as “grants”) to address critical emerging agricultural and rural issues related to—
+&emsp;The Secretary shall use the funds in the Account for research, extension, and education grants (referred to in this section as “grants”) to address critical emerging agricultural and rural issues related to—
 
 &emsp;&emsp;(A) future food production;
 
@@ -140,7 +140,7 @@ The Secretary may make a grant under this section to—
 
 #### (8) Buildings and facilities
 
-&emsp;Funds made available for grants under this section shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement and architect fees).
+&emsp;Funds made available for grants under this section shall not be used for the constructionof a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement and architect fees).
 
 (Pub. L. 105–185, title IV, §401, June 23, 1998, 112 Stat. 564; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(c)(2)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7205(a), May 13, 2002, 116 Stat. 439; Pub. L. 109–171, title I, §1501, Feb. 8, 2006, 120 Stat. 7.)
 

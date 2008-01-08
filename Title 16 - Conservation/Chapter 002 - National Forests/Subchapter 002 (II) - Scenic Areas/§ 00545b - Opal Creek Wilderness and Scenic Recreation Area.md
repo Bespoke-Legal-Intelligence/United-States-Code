@@ -208,7 +208,7 @@ The purposes of this section are—
 
 #### (D) Public trail access
 
-&emsp;&emsp;The management plan may include public trail access through section 28, township 8 south, range 5 east, Willamette Meridian, to Battle Ax Creek, Opal Pool and other areasin the Opal Creek Wilderness and the Opal Creek Scenic Recreation Area.
+&emsp;&emsp;The management plan may include public trail access through section 28, township 8 south, range 5 east, Willamette Meridian, to Battle Ax Creek, Opal Pool and other areas in the Opal Creek Wilderness and the Opal Creek Scenic Recreation Area.
 
 #### (11) Participation
 
@@ -354,7 +354,7 @@ The purposes of this section are—
 
 &emsp;(A) The exchange directed by this subsection shall be consummated not later than 120 days after the date Rosboro offers and conveys the property described in paragraph (2) to the United States.
 
-&emsp;(B) The authority provided by this subsection shall lapse of <sup>6</sup> Rosboro fails to offer the land described in paragraph (2) within 2 years after November 12, 1996.
+&emsp;(B) The authority provided by this subsection shall lapse of <sup>6</sup> Rosboro fails to offerthe land described in paragraph (2) within 2 years after November 12, 1996.
 
 #### (6) Challenge
 
@@ -418,13 +418,17 @@ Provisions substantially identical to the text of this section were enacted by t
 
 2000—Subsec. (c)(1)(A). Pub. L. 106–176 struck out “of 1964” after “Wilderness Act”.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Short Title
 
 Pub. L. 104–208, div. B, title I, §101, Sept. 30, 1996, 110 Stat. 3009–523, provided that: “This title \[see Codification note above\] may be cited as the ‘Opal Creek Wilderness and Opal Creek Scenic Recreation Area Act of 1996’.”
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

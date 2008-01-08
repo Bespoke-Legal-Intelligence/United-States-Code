@@ -36,7 +36,7 @@ For a plan to be acceptable pursuant to subsection (b) of this section, the plan
 
 #### (e) Plan review
 
-Upon receipt of the plan from an eligible entity, the Secretary shall consult with the Secretary of each Federal department providing funds to be used to implement the plan, and with the entity submitting the plan. The parties so consulting shall identify any waivers of statutory requirements or of Federal departmental regulations, policies, or procedures necessary to enable the entity to implement the plan. Notwithstanding any other provision of law, the Secretary of the affected department shall havethe authority to waive any regulation, policy, or procedure promulgated by that department that has been so identified by the entity or department, unless the Secretary of the affected department determines that such a waiver is inconsistent with the objectives of this subpart or those provisions of the statute from which the program involved derives authority that are specifically applicable to Indian students.
+Upon receipt of the plan from an eligible entity, the Secretary shall consult with the Secretary of each Federal department providing funds to be used to implement the plan, and with the entity submitting the plan. The parties so consulting shall identify any waivers of statutory requirements or of Federal departmental regulations, policies, or procedures necessary to enable the entity to implement the plan. Notwithstanding any other provision of law, the Secretary of the affected department shall have the authority to waive any regulation, policy, or procedure promulgated by that department that has been so identified by the entity or department, unless the Secretary of the affected department determines that such a waiver is inconsistent with the objectives of this subpart or those provisions of the statute from which the program involved derives authority that are specifically applicable to Indian students.
 
 #### (f) Plan approval
 
@@ -118,5 +118,9 @@ The Education Amendments of 1978, referred to in subsecs. (g)(1) and (p)(1), is 
 
 #### Prior Provisions
 
-A prior section 7426, Pub. L. 89–10, title VII, §7116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3723, related to applications for grants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6914 of this title.
+A prior section 7426, Pub. L. 89–10, title VII, §7116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3723, related to applications for grants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6914 of this title.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives and Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

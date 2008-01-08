@@ -8,7 +8,7 @@ Inventory Required.—(1) The Secretary of Defense shall develop and maintain an
 
 &emsp;(A) A unique identifier for the defense site.
 
-&emsp;(B) An appropriate record showing the location, boundaries, and extent of the defense site, including identification of the State and political subdivisions of the State in which the defense site is located and any Tribal lands encompassed by the defense site.
+&emsp;(B) An appropriate record showing the location, boundaries, and extent of the defensesite, including identification of the State and political subdivisions of the State in which the defense site is located and any Tribal lands encompassed by the defense site.
 
 &emsp;(C) Known persons and entities, other than a military department, with any current ownership interest or control of lands encompassed by the defense site.
 
@@ -41,8 +41,6 @@ Site Prioritization.—(1) The Secretary shall develop, in consultation with rep
 (c)
 
 Updates and Availability.—(1) The Secretary shall annually update the inventory and site prioritization list to reflect new information that becomes available. The inventory shall be available in published and electronic form.
-
-z
 
 (2) The Secretary shall work with communities adjacent to a defense site to provide information concerning conditions at the site and response activities. At a minimum, the Secretary shall provide the site inventory information and site prioritization list to appropriate Federal, State, tribal, and local officials, and, to the extent the Secretary considers appropriate, to civil defense or emergency management agencies and the public.
 

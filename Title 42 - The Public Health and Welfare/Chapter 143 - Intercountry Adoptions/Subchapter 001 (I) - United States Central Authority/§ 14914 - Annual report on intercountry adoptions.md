@@ -30,6 +30,10 @@ Each report under subsection (a) of this section shall set forth with respect to
 
 2006—Subsec. (b)(3). Pub. L. 109–288 substituted “622(b)(12)” for “622(b)(14)”.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under parts B and E of subchapter IV of chapter 7 of this title for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.

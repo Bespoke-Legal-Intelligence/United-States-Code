@@ -48,7 +48,7 @@ Subsecs. (e), (f). Pub. L. 103–182, §381(a)(3), added subsecs. (e) and (f).
 
 #### Effective Date of 1993 Amendment
 
-Section 381(e) of title III of Pub. L. 103–182 provided that: “The provisions of this subtitle \[subtitle G (§381) of title III of Pub. L. 103–182, amending this section, sections 2512 and 2518 of this title, and provisions set out as a note under section 903 of Title 7, Agriculture\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].”
+Section 381(e) of title III of Pub. L. 103–182 provided that: “The provisions of this subtitle \[subtitle G (§381)of title III of Pub. L. 103–182, amending this section, sections 2512 and 2518 of this title, and provisions set out as a note under section 903 of Title 7, Agriculture\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].”
 
 #### Termination Date of 1988 Amendment
 
@@ -84,7 +84,7 @@ Responsibilities
 
 1–104. The Trade Representative shall determine, from time to time, the dollar equivalent of 150,000 Special Drawing Right units and shall publish that determination in the Federal Register. Procurement of less than 150,000 Special Drawing Right units is not subject to the Agreement or this Order (Article I:1(b) of the Agreement).
 
-1–105. In order to ensure coordination of international trade policy with regard to the implementation of theAgreement, agencies shall consult in advance with the Trade Representative about negotiations with foreign governments or instrumentalities which concern government procurement.
+1–105. In order to ensure coordination of international trade policy with regard to the implementation of the Agreement, agencies shall consult in advance with the Trade Representative about negotiations with foreign governments or instrumentalities which concern government procurement.
 
 #### 1–2.
 

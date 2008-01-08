@@ -6,7 +6,7 @@ Nothing herein contained shall affect any valid claim, location, or entry existi
 
 #### References in Text
 
-Herein, referred to in text, means act Aug. 1, 1916, which is classified to sections 391, 393 and 394 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act Aug. 1, 1916, which is classified to sections 391, 393 and 394 of thistitle. For complete classification of this Act to the Code, see Tables.
 
 The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
 

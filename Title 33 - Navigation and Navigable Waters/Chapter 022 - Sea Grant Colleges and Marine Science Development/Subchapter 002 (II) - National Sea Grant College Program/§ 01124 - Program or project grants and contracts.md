@@ -20,7 +20,7 @@ The Secretary may make special grants under this subsection to implement the obj
 
 &emsp;(3) the same or equivalent benefit cannot be obtained through the award of a contract or grant under subsection (a) of this section.
 
-> The total amount which may be provided for grants under this subsection during any fiscal year shall not exceed an amount equal to 1 percent of the total funds appropriated for such year pursuant to section 1131 of this title.
+> The total amount which may be provided for grants under this subsection during any fiscalyear shall not exceed an amount equal to 1 percent of the total funds appropriated for such year pursuant to section 1131 of this title.
 
 #### (c) Eligibility and procedure
 

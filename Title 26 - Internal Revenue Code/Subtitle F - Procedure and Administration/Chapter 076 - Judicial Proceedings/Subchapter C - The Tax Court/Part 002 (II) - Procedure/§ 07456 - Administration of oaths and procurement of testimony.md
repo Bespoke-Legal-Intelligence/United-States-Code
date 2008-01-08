@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the efficient administration of the functions vested in the Tax Court or any division thereof, any judge or special trial judge of the Tax Court, the clerk of the court or his deputies, as such, or any other employee of the Tax Court designated in writing for the purpose by the chief judge, may administer oaths, and any judge or special trial judge of the Tax Court may examine witnesses and require, by subpoena ordered by the Tax Court or any division thereof and signed by the judge or special trial judge (or by the clerk of the Tax Court or by any other employee of the Tax Court when acting as deputy clerk)—
+For the efficient administration of the functions vested in the Tax Court or any divisionthereof, any judge or special trial judge of the Tax Court, the clerk of the court or his deputies, as such, or any other employee of the Tax Court designated in writing for the purpose by the chief judge, may administer oaths, and any judge or special trial judge of the Tax Court may examine witnesses and require, by subpoena ordered by the Tax Court or any division thereof and signed by the judge or special trial judge (or by the clerk of the Tax Court or by any other employee of the Tax Court when acting as deputy clerk)—
 
 &emsp;(1) the attendance and testimony of witnesses, and the production of all necessary returns, books, papers, documents, correspondence, and other evidence, from any place in the United States at any designated place of hearing, or
 
@@ -22,11 +22,13 @@ The Tax Court and each division thereof shall have power to punish by fine or im
 
 &emsp;(3) disobedience or resistance to its lawful writ, process, order, rule, decree, or command.
 
-> It shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for any district in which the Tax Court is sitting shall, when requested by the chief judge of the Tax Court, attend any session of the Tax Court in such district.
+> It shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for any district in which the Tax Court is sitting shall, when requested by the chief judge of the Tax Court, attend any session of the Tax Court in such district and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 885; Pub. L. 91–172, title IX, §§956, 958, Dec. 30, 1969, 83 Stat. 732, 734; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §336(b)(1), title V, §502(c), Nov. 6, 1978, 92 Stat. 2841, 2879; Pub. L. 96–222, title I, §105(a)(1)(B), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–164, title I, §153(a), Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, §402(c)(13), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–362, title I, §106(c), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, §§463(a), 464(a)–(c), July 18, 1984, 98 Stat. 824; Pub. L. 99–514, title XV, §§1555(a), 1556(b)(1), Oct. 22, 1986, 100 Stat. 2754, 2755.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 885; Pub. L. 91–172, title IX, §§956, 958, Dec. 30, 1969, 83 Stat. 732, 734; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §336(b)(1), title V, §502(c), Nov. 6, 1978, 92 Stat. 2841, 2879; Pub. L. 96–222, title I, §105(a)(1)(B), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–164, title I, §153(a), Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, §402(c)(13), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–362, title I, §106(c), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, §§463(a), 464(a)–(c), July 18, 1984, 98 Stat. 824; Pub. L. 99–514, title XV, §§1555(a), 1556(b)(1), Oct. 22, 1986, 100 Stat. 2754, 2755; Pub. L. 110–177, title I, §102(b), Jan. 7, 2008, 121 Stat. 2535.)
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–177 inserted before period at end of concluding provisions “and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court”.
 
 1986—Subsec. (c). Pub. L. 99–514, §1556(b)(1), redesignated subsec. (e) as (c). Former subsec. (c), which provided for the appointment of special trial judges, was struck out.
 
@@ -42,7 +44,7 @@ Subsec. (c). Pub. L. 98–369, §464(b), substituted “Special trial judges” 
 
 Subsec. (d). Pub. L. 98–369, §464(c), substituted “Special trial judges” for “Commissioners” in heading, and substituted “special trial judges” for “commissioners” and “special trial judge” for “commissioner” in provisions following par. (4).
 
-Pub. L. 98–369, §463(a), in amending subsec. (d) generally, struck out “and” at end of par. (2), substituted “any proceeding” for “any other proceeding” and “$10,000; and” for “$5,000,” in par. (3), added par. (4), and substituted “any proceeding described in paragraph (1), (2), or (3), subject to such conditions and review as the court may provide” for “any such proceeding, subject to such conditions and review as the court may by rule provide” in provisions following par. (4).
+Pub. L. 98–369, §463(a), in amending subsec. (d) generally, struck out “and” at end of par. (2), substituted “any proceeding” for “any other proceeding” and“$10,000; and” for “$5,000,” in par. (3), added par. (4), and substituted “any proceeding described in paragraph (1), (2), or (3), subject to such conditions and review as the court may provide” for “any such proceeding, subject to such conditions and review as the court may by rule provide” in provisions following par. (4).
 
 1982—Subsec. (c). Pub. L. 97–362, §106(c)(2), struck out provision that the chief judge may assign proceedings under sections 6226, 6228(a), 7428, 7463, 7476, 7477, and 7478 to be heard by the commissioners of the court, and that the court may authorize a commissioner to make the decision of the court with respect to such proceedings, subject to such conditions and review as the court may by rule provide. See subsec. (d) of this section.
 
@@ -95,6 +97,10 @@ Amendment by section 502(c) of Pub. L. 95–600 effective Nov. 6, 1978, see sect
 #### Effective Date of 1969 Amendment
 
 Amendment by Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub. L. 91–172, set out as a note under section 7441 of this title.
+
+#### Reimbursement
+
+Pub. L. 110–177, title I, §102(c), Jan. 7, 2008, 121 Stat. 2535, provided that: “The United States Tax Court shall reimburse the United States Marshals Service for protection provided under the amendments made by this section \[amending this section and section 566 of Title 28, Judiciary and Judicial Procedure\].”
 
 #### References to Commissioners Deemed References to Special Trial Judges
 

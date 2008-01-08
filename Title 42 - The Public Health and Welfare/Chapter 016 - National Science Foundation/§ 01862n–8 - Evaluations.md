@@ -44,6 +44,10 @@ This Act, referred to in subsec. (b), is Pub. L. 107–368, Dec. 19, 2002, 116 S
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Definitions
 
 For definitions of terms used in this section, see section 4 of Pub. L. 107–368, set out as a note under section 1862n of this title.

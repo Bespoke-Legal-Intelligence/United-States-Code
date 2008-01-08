@@ -6,11 +6,15 @@ The Secretary may make grants to public and nonprofit private entities for the p
 
 #### (b) Identification and referral of domestic violence
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that training programs under subsection (a) of this section will provide education and training in identifying and referring cases of domestic violence.
+The Secretary may make a grant under subsection (a) only if the applicant involved agrees that the training programs under subsection (a) will provide education and training in identifying and referring cases of domestic violence.
 
 #### (c) Authorization of appropriations
 
-For the purpose of carrying out this section, there is authorized to be appropriated $400,000 for each of the fiscal years 1993 through 1995.
+For the purpose of carrying out this section, there is authorized to be appropriated $400,000 for each of the fiscal years 2008 though 2012.
 
-(July 1, 1944, ch. 373, title XII, §1251, as added Pub. L. 102–408, title III, §304, Oct. 13, 1992, 106 Stat. 2084.)
+(July 1, 1944, ch. 373, title XII, §1251, as added Pub. L. 102–408, title III, §304, Oct. 13, 1992, 106 Stat. 2084; amended Pub. L. 110–23, §13, May 3, 2007, 121 Stat. 98.)
+
+#### Amendments
+
+2007—Pub. L. 110–23 amended section generally. Prior to amendment, section related to residency training programs in emergency medicine and authorized appropriations for fiscal years 1993 through 1995.
 

@@ -110,8 +110,6 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 
 1980—Pub. L. 96–513, title V, §511(75), Dec. 12, 1980, 94 Stat. 2926, inserted “formal” before “advertising” in item 2304.
 
-§2301
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

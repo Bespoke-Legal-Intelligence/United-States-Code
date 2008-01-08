@@ -8,7 +8,7 @@ In carrying out his duties under this chapter the Secretary may conduct any inve
 
 &emsp;(2) to administer oaths;
 
-&emsp;(3) to require by subpena the attendance and testimony of witnesses and the production ofall books, papers, production and financial records, documents, matter, and materials, as the Secretary may request;
+&emsp;(3) to require by subpena the attendance and testimony of witnesses and the production of all books, papers, production and financial records, documents, matter, and materials, as the Secretary may request;
 
 &emsp;(4) to order testimony to be taken by deposition before any person who is designated by the Secretary and who has the power to administer oaths, and to compel testimony and the production of evidence in the same manner as authorized under paragraph (3) of this subsection; and
 

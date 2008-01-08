@@ -54,5 +54,9 @@ Pub. L. 106–541, title II, §209(b), Dec. 11, 2000, 114 Stat. 2591, provided t
 
 Section 202(c)(2) of Pub. L. 104–303 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to any project or separable element thereof with respect to which the Secretary and the non-Federal interest have not entered into a project cooperation agreement on or before the date of the enactment of this Act \[Oct. 12, 1996\].”
 
+#### Reference to Project Cooperation Agreement Deemed Reference to Project Partnership Agreement
+
+Reference to “project cooperation agreement” deemed to be reference to “project partnership agreement”, see section 2003(f)(2) of Pub. L. 110–114, set out as a note under section 1962d–5b of Title 42, The Public Health and Welfare.
+
 <i><sup>1</sup></i><i> So in original.</i>
 

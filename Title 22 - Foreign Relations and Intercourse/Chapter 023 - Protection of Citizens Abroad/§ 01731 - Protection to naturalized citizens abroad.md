@@ -12,7 +12,7 @@ Section was formerly classified to section 903a of Title 8, Aliens and Nationali
 
 #### Equitable Treatment by United States of Its Citizens Living Abroad
 
-Pub. L. 95–426, title VI, §611, Oct. 7, 1978, 92 Stat. 989, as amended by Pub. L. 96–60, title IV, §407, Aug. 15, 1979,93 Stat. 405; Pub. L. 97–241, title V, §505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: “The Congress finds that—
+Pub. L. 95–426, title VI, §611, Oct. 7, 1978, 92 Stat. 989, as amended by Pub. L. 96–60, title IV, §407, Aug. 15, 1979, 93 Stat. 405; Pub. L. 97–241, title V, §505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: “The Congress finds that—
 
 &emsp;“(1) United States citizens living abroad should be provided fair and equitable treatment by the United States Government with regard to taxation, citizenship of progeny, veterans’ benefits, voting rights, Social Security benefits, and other obligations, rights, and benefits; and
 

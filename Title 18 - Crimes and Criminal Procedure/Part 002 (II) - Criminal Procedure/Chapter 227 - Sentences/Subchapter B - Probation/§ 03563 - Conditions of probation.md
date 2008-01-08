@@ -72,7 +72,7 @@ Discretionary Conditions.—The court may provide, as further conditions of a se
 
 &emsp;(20) comply with the terms of any court order or order of an administrative process pursuant to the law of a State, the District of Columbia, or any other possession or territory of the United States, requiring payments by the defendant for the support and maintenance of a child or of a child and the parent with whom the child is living;
 
-&emsp;(21) be ordered deported by a United States district court, or United States magistrate judge, pursuant to a stipulation entered into by the defendant and the United States under section 238(d)(5) of the Immigration and Nationality Act, except that, in the absence of a stipulation, the United States district court or a United States magistrate judge, may order deportation as a condition of probation, if, after notice and hearing pursuant to such section, the Attorney General demonstrates by clear and convincing evidence that the alien is deportable;
+&emsp;(21) be ordered deported by a United States district court, or United States magistratejudge, pursuant to a stipulation entered into by the defendant and the United States under section 238(d)(5) of the Immigration and Nationality Act, except that, in the absence of a stipulation, the United States district court or a United States magistrate judge, may order deportation as a condition of probation, if, after notice and hearing pursuant to such section, the Attorney General demonstrates by clear and convincing evidence that the alien is deportable;
 
 &emsp;(22) satisfy such other conditions as the court may impose or; <sup>1</sup>
 
@@ -96,7 +96,7 @@ Results of Drug Testing.—The results of a drug test administered in accordance
 
 The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(8) and (b)(23), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
 
-Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a)(9), is classified tosection 14135a of Title 42, The Public Health and Welfare.
+Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a)(9), is classified to section 14135a of Title 42, The Public Health and Welfare.
 
 Section 238(d)(5) of the Immigration and Nationality Act, referred to in subsec. (b)(21), is classified to section 1228(d)(5) of Title 8, Aliens and Nationality.
 
@@ -120,7 +120,7 @@ Subsec. (b)(23). Pub. L. 109–248, §210(a)(3), added par. (23).
 
 Subsec. (a)(3) to (5). Pub. L. 107–273, §4002(c)(1), repealed Pub. L. 104–294, §601(k)(1), (2). See 1996 Amendment notes below.
 
-Subsec. (e). Pub. L. 107–273, §4002(e)(12)(B), made technical correction to directory language of Pub. L. 107–273, §115(a)(8)(B)(ii). See 1997 Amendment note below.
+Subsec. (e). Pub. L. 107–273, §4002(e)(12)(B), made technical correction to directory language of Pub. L.107–273, §115(a)(8)(B)(ii). See 1997 Amendment note below.
 
 2000—Subsec. (a)(9). Pub. L. 106–546 added par. (9).
 

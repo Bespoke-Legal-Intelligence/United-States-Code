@@ -14,7 +14,7 @@
 
 #### (2) Annual report
 
-&emsp;Each State shall annually prepare and submit to the Secretary a report on the measured performance of the State and the eligible entities in the State. Prior to the participation of the State in the performance measurement system, the State shall include in the report any information collected by the State relating to such performance. Each State shall also include in the report an accounting of the expenditure of funds received by the State through the community services block grant program, including an accounting of funds spent on administrative costs by the State and the eligible entities, and funds spent by eligible entities on the direct delivery of local services, and shall include information on the number of and characteristics of clients served under this chapter in the State, based on data collected from the eligible entities. The State shall also include in the report a summary describing the training and technical assistance offered by the State under section 9915(a)(3) of this title during the year covered by the report.
+&emsp;Each State shall annually prepare and submit to the Secretary a report on the measured performance of the State and the eligible entities in the State. Prior to the participation of the State in the performance measurementsystem, the State shall include in the report any information collected by the State relating to such performance. Each State shall also include in the report an accounting of the expenditure of funds received by the State through the community services block grant program, including an accounting of funds spent on administrative costs by the State and the eligible entities, and funds spent by eligible entities on the direct delivery of local services, and shall include information on the number of and characteristics of clients served under this chapter in the State, based on data collected from the eligible entities. The State shall also include in the report a summary describing the training and technical assistance offered by the State under section 9915(a)(3) of this title during the year covered by the report.
 
 #### (b) Secretary's accountability and reporting requirements
 
@@ -49,6 +49,8 @@
 (Pub. L. 97–35, title VI, §678E, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2746.)
 
 #### Change of Name
+
+Committee on Education and the Workforce of the House of Representatives changed to Committee on Education and Labor of the House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

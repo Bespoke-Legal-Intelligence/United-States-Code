@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense is hereby authorized, under such regulations as he may prescribe, to lend to the Boy Scouts of America, for the use and accommodation of Scouts, Scouters, and officials who attend any national or world Boy Scout Jamboree, such cots, blankets, commissary equipment, flags, refrigerators, and other equipment and without reimbursement, furnish services and expendable medical supplies, as may be necessary or useful to the extent that items are in stock and items or services are available.
 
-(b) Such equipment is authorized to be delivered at such time prior to the holding of any national or world Boy Scout Jamboree, and to be returned at such time after the close of any such jamboree, as may be agreed upon by the Secretary of Defense and the Boy Scouts of America. No expense shall be incurred by the UnitedStates Government for the delivery, return, rehabilitation, or replacement of such equipment.
+(b) Such equipment is authorized to be delivered at such time prior to the holding of any national or world Boy Scout Jamboree, and to bereturned at such time after the close of any such jamboree, as may be agreed upon by the Secretary of Defense and the Boy Scouts of America. No expense shall be incurred by the United States Government for the delivery, return, rehabilitation, or replacement of such equipment.
 
 (c) The Secretary of Defense, before delivering such property, shall take from the Boy Scouts of America, good and sufficient bond for the safe return of such property in good order and condition, and the whole without expense to the United States.
 

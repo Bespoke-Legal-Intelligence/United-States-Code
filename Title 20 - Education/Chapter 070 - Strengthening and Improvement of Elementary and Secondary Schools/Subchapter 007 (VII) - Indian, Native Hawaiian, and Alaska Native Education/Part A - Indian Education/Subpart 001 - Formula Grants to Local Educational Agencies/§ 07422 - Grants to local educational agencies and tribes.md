@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants, from allocations made under section 7423 of this title, to local educational agencies and Indian tribes, in accordance with this section and section 7423 of this title.
+The Secretary may make grants, from allocations made under section 7423 of this title, tolocal educational agencies and Indian tribes, in accordance with this section and section 7423 of this title.
 
 #### (b) Local educational agencies
 

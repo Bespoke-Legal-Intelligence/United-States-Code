@@ -14,9 +14,9 @@
 
 #### (1) In general
 
-&emsp;Subject to subsections (d)(3)(C) and (e) of this section, the amount of payment determined under this section for the billing and payment code for a drug or biological (based on a minimum dosage unit) is, subject to applicable deductible and coinsurance—
+&emsp;Subject to paragraph (7) and subsections (d)(3)(C) and (e) of this section, the amount of payment determined under this section for the billing and payment code for a drug or biological (based on a minimum dosage unit) is, subject to applicable deductible and coinsurance—
 
-&emsp;&emsp;(A) in the case of a multiple source drug (as defined in subsection (c)(6)(C) of this section), 106 percent of the amount determined under paragraph (3); or
+&emsp;&emsp;(A) in the case of a multiple source drug (as defined in subsection (c)(6)(C) of this section), 106 percent of the amount determined under paragraph (3) for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008; or
 
 &emsp;&emsp;(B) in the case of a single source drug or biological (as defined in subsection (c)(6)(D) of this section), 106 percent of the amount determined under paragraph (4).
 
@@ -28,7 +28,7 @@
 
 #### (B) Unit defined
 
-&emsp;&emsp;In this section, the term “unit” means, with respect to each National Drug Code (including package size) associated with a drug or biological, the lowest identifiable quantity (such as a capsule or tablet, milligram of molecules, or grams) of the drug or biological that is dispensed, exclusive of any diluent without reference to volume measures pertaining to liquids. For years after 2004, the Secretary may establish the unitfor a manufacturer to report and methods for counting units as the Secretary determines appropriate to implement this section.
+&emsp;&emsp;In this section, the term “unit” means, with respect to each National Drug Code (including package size) associated with a drug or biological, the lowest identifiable quantity (such as a capsule or tablet, milligram of molecules, or grams) of the drug or biological that is dispensed, exclusive of any diluent without reference to volume measures pertaining to liquids. For years after 2004, the Secretary may establish the unit for a manufacturer to report and methods for counting units as the Secretary determines appropriate to implement this section.
 
 #### (3) Multiple source drug
 
@@ -48,15 +48,53 @@
 
 #### (A) Average sales price
 
-&emsp;&emsp;The average sales price as determined using the methodology applied under paragraph (3) for all National Drug Codes assigned to such drug or biological product.
+&emsp;&emsp;The average sales price as determined using the methodology applied under paragraph (3) for single source drugs and biologicals furnished before April 1, 2008, and using the methodology applied under paragraph (6) for single source drugs and biologicals furnished on or after April 1, 2008, for all National Drug Codes assigned to such drug or biological product.
 
 #### (B) Wholesale acquisition cost (WAC)
 
-&emsp;&emsp;The wholesale acquisition cost (as defined in subsection (c)(6)(B) of this section) using the methodology applied under paragraph (3) for all National Drug Codes assigned to such drug or biological product.
+&emsp;&emsp;The wholesale acquisition cost (as defined in subsection (c)(6)(B) of this section) using the methodology applied under paragraph (3) for single source drugs and biologicals furnished before April 1, 2008, and using the methodology applied under paragraph (6) for single source drugs and biologicals furnished on or after April 1, 2008, for all National Drug Codes assigned to such drug or biological product.
 
 #### (5) Basis for payment amount
 
 &emsp;The payment amount shall be determined under this subsection based on information reported under subsection (f) of this section and without regard to any special packaging, labeling, or identifiers on the dosage form or product or package.
+
+#### (6) Use of volume-weighted average sales prices in calculation of average sales price
+
+#### (A) In general
+
+&emsp;&emsp;For all drug products included within the same multiple source drug billing and payment code, the amount specified in this paragraph is the volume-weighted average of the average sales prices reported under section 1396r–8(b)(3)(A)(iii) of this title determined by—
+
+&emsp;&emsp;&emsp;(i) computing the sum of the products (for each National Drug Code assigned to such drug products) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the manufacturer's average sales price (as defined in subsection (c)), determined by the Secretary without dividing such price by the total number of billing units for the National Drug Code for the billing and payment code; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the total number of units specified under paragraph (2) sold; and
+
+&emsp;&emsp;&emsp;(ii) dividing the sum determined under clause (i) by the sum of the products (for each National Drug Code assigned to such drug products) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the total number of units specified under paragraph (2) sold; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the total number of billing units for the National Drug Code for the billing and payment code.
+
+#### (B) Billing unit defined
+
+&emsp;&emsp;For purposes of this subsection, the term “billing unit” means the identifiable quantity associated with a billing and payment code, as established by the Secretary.
+
+#### (7) Special rule
+
+&emsp;Beginning with April 1, 2008, the payment amount for—
+
+&emsp;&emsp;(A) each single source drug or biological described in section 1395u(<i>o</i>)(1)(G) of this title that is treated as a multiple source drug because of the application of subsection (c)(6)(C)(ii) is the lower of—
+
+&emsp;&emsp;&emsp;(i) the payment amount that would be determined for such drug or biological applying such subsection; or
+
+&emsp;&emsp;&emsp;(ii) the payment amount that would have been determined for such drug or biological if such subsection were not applied; and
+
+&emsp;&emsp;(B) a multiple source drug described in section 1395u(<i>o</i>)(1)(G) of this title (excluding a drug or biological that is treated as a multiple source drug because of the application of such subsection) is the lower of—
+
+&emsp;&emsp;&emsp;(i) the payment amount that would be determined for such drug or biological taking into account the application of such subsection; or
+
+&emsp;&emsp;&emsp;(ii) the payment amount that would have been determined for such drug or biological if such subsection were not applied.
 
 #### (c) Manufacturer's average sales price
 
@@ -96,7 +134,7 @@
 
 #### (A) In general on a quarterly basis
 
-&emsp;&emsp;The manufacturer's average sales price, for a drug or biological of a manufacturer, shall be calculated by such manufacturer under this subsection on a quarterly basis. In making such calculation insofar as there is a lag in the reporting of the information on rebates and chargebacks under paragraph (3) so that adequate data are not available on a timely basis, the manufacturer shall apply a methodology based on a 12-month rolling average for the manufacturer to estimate costs attributable to rebates and chargebacks. For years after 2004, the Secretary may establish a uniform methodology under this subparagraph to estimate and apply such costs.
+&emsp;&emsp;The manufacturer's average sales price, for a drug or biological of a manufacturer, shall be calculated by such manufacturer under this subsection on a quarterly basis. In making such calculation insofar as thereis a lag in the reporting of the information on rebates and chargebacks under paragraph (3) so that adequate data are not available on a timely basis, the manufacturer shall apply a methodology based on a 12-month rolling average for the manufacturer to estimate costs attributable to rebates and chargebacks. For years after 2004, the Secretary may establish a uniform methodology under this subparagraph to estimate and apply such costs.
 
 #### (B) Updates in payment amounts
 
@@ -104,7 +142,7 @@
 
 #### (C) Use of contractors; implementation
 
-&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the paymentamount under subsection (b) of this section. Notwithstanding any other provision of law, the Secretary may implement, by program instruction or otherwise, any of the provisions of this section.
+&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the payment amount under subsection (b) of this section. Notwithstanding any other provision of law, the Secretary may implement, by program instruction or otherwise, any of the provisions of this section.
 
 #### (6) Definitions and other rules
 
@@ -256,7 +294,19 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;(5) the disclosure of the average manufacturer price by reason of an adjustment under subsection (d)(3)(C) or (e) of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8, 2003, 117 Stat. 2239.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8,2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500.)
+
+#### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 110–173, §112(b)(1), inserted “paragraph (7) and” after “Subject to” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 110–173, §112(a)(1), inserted “for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008” after “paragraph (3)”.
+
+Subsec. (b)(4)(A), (B). Pub. L. 110–173, §112(a)(2), inserted “for single source drugs and biologicals furnished before April 1, 2008, and using the methodology applied under paragraph (6) for single source drugs and biologicals furnished on or after April 1, 2008,” after “paragraph (3)”.
+
+Subsec. (b)(6). Pub. L. 110–173, §112(a)(3), added par. (6).
+
+Subsec. (b)(7). Pub. L. 110–173, §112(b)(2), added par. (7).
 
 #### Report on Sales to Pharmacy Benefit Managers
 
@@ -276,7 +326,7 @@ Pub. L. 108–173, title III, §303(c)(3), Dec. 8, 2003, 117 Stat. 2245, provide
 
 “(A)
 
-Study.—The Inspector General of the Department of Health and Human Services shall conduct astudy on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularly large practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).
+Study.—The Inspector General of the Department of Health and Human Services shall conduct a study on the ability of physician practices in the specialties of hematology, hematology/oncology, and medical oncology of different sizes, especially particularly large practices, to obtain drugs and biologicals for the treatment of cancer patients at 106 percent of the average sales price for the drugs and biologicals. In conducting the study, the Inspector General shall conduct an audit of a representative sample of such practices to determine the adequacy of reimbursement under section 1847A of the Social Security Act \[this section\], as added by paragraph (1).
 
 “(B)
 

@@ -8,13 +8,13 @@ In General.—Whoever—
 
 &emsp;(2) forcibly assaults or intimidates any person who formerly served as a person designated in section 1114 on account of the performance of official duties during such person's term of service,
 
-> shall, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases, be fined under this title or imprisoned not more than 8 years, or both.
+> shall, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and where such acts involve physical contact with the victim of that assault or the intent to commit another felony, be fined under this title or imprisoned not more than 8 years, or both.
 
 (b)
 
 Enhanced Penalty.—Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 100–690, title VI, §6487(a), Nov. 18, 1988, 102 Stat. 4386; Pub. L. 103–322, title XXXII, §320101(a), Sept. 13, 1994, 108 Stat. 2108; Pub. L. 104–132, title VII, §727(c), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 107–273, div. C, title I, §11008(b), Nov. 2, 2002, 116 Stat. 1818.)
+(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 100–690, title VI, §6487(a), Nov. 18, 1988, 102 Stat. 4386; Pub. L. 103–322, title XXXII, §320101(a), Sept. 13, 1994, 108 Stat. 2108; Pub. L. 104–132, title VII, §727(c), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 107–273, div. C, title I, §11008(b), Nov. 2, 2002, 116 Stat. 1818; Pub. L. 110–177, title II, §208(b), Jan. 7, 2008, 121 Stat. 2538.)
 
 #### Historical and Revision Notes
 
@@ -27,6 +27,8 @@ Also the words “Bureau of Animal Industry of the Department of Agriculture” 
 The punishment provision of section 254 of title 18, U.S.C., 1940 ed., was adopted as the latest expression of Congressional intent. This consolidation eliminates a serious incongruity in punishment and application.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–177 substituted “where such acts involve physical contact with the victim of that assault or the intent to commit another felony” for “in all other cases” in concluding provisions.
 
 2002—Subsec. (a). Pub. L. 107–273, §11008(b)(1), substituted “8” for “three” in concluding provisions.
 

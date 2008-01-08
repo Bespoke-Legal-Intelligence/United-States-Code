@@ -6,7 +6,7 @@ Not later than 2 years after October 24, 1992, the Secretary shall submit a repo
 
 &emsp;(2) the recommendations made in chapter 9 of the 1991 National Academy of Sciences report entitled “Policy Implications of Greenhouse Warming”, including an analysis of the benefits and costs of each recommendation;
 
-&emsp;(3) the extent to which the United States is responding, compared with other countries, to the recommendations made in chapter 9 of the 1991 National Academy of Sciences report;
+&emsp;(3) the extent to which the United States is responding, compared with other countries, tothe recommendations made in chapter 9 of the 1991 National Academy of Sciences report;
 
 &emsp;(4) the feasibility of reducing the generation of greenhouse gases;
 

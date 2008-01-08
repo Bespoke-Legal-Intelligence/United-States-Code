@@ -20,11 +20,11 @@ The Attorney General may bring an action for the recovery of charges that have n
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-(Pub. L. 91–577, title I, §31, Dec. 24, 1970, 84 Stat. 1545; Pub. L. 96–574, §10, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 100–203, title I, §1505, Dec. 22, 1987, 101 Stat. 1330–28.)
+(Pub. L. 91–577, title I, §31, Dec. 24, 1970, 84 Stat. 1545; Pub. L. 96–574, §10, Dec. 22, 1980, 94 Stat.3350; Pub. L. 100–203, title I, §1505, Dec. 22, 1987, 101 Stat. 1330–28.)
 
 #### Amendments
 
-1987—Pub. L. 100–203 amended section generally. Prior to amendment, section read as follows: “The Secretaryshall, under such regulations as he may prescribe, charge and collect reasonable fees for services performed under this chapter. Such fees shall be deposited into the Treasury as miscellaneous receipts. There are hereby authorized to be appropriated such funds as may be necessary to carry out the provisions of this chapter.”
+1987—Pub. L. 100–203 amended section generally. Prior to amendment, section read as follows: “The Secretary shall, under such regulations as he may prescribe, charge and collect reasonable fees for services performed under this chapter. Such fees shall be deposited into the Treasury as miscellaneous receipts. There are hereby authorized to be appropriated such funds as may be necessary to carry out the provisions of this chapter.”
 
 1980—Pub. L. 96–574 substituted provisions relating to deposit of fees and authorization of appropriations for provisions relating to recovering of fees, initial capital of the fund, and charging of fees.
 

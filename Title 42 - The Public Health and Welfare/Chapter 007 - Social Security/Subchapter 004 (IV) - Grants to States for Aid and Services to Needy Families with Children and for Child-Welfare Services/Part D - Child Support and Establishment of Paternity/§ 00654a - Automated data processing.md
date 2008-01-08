@@ -110,7 +110,7 @@ The State shall use the automated system required by this section to extract inf
 
 #### (3) Temporary family assistance and medicaid agencies
 
-&emsp;Exchanging information with State agencies (of the State and of other States) administering programs funded under part A of this subchapter, programs operated under a State plan approved under subchapter XIX of this chapter, and other programs designated by the Secretary, as necessary to perform State agency responsibilities under this part and under such programs.
+&emsp;Exchanging information with State agencies (of the State and of other States) administering programs funded under part A of this subchapter, programs operated under a State planapproved under subchapter XIX of this chapter, and other programs designated by the Secretary, as necessary to perform State agency responsibilities under this part and under such programs.
 
 #### (4) Intrastate and interstate information comparisons
 

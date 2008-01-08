@@ -1,6 +1,6 @@
 ### §6221. Tax treatment determined at partnership level
 
-Except as otherwise provided in this subchapter, the tax treatment of any partnershipitem (and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item) shall be determined at the partnership level.
+Except as otherwise provided in this subchapter, the tax treatment of any partnership item (and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item) shall be determined at the partnership level.
 
 (Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 648; amended Pub. L. 105–34, title XII, §1238(a), Aug. 5, 1997, 111 Stat. 1026.)
 

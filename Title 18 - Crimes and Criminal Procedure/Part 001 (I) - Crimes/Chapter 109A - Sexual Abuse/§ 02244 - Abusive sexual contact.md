@@ -2,7 +2,7 @@
 
 (a)
 
-Sexual Conduct in Circumstances Where Sexual Acts Are Punished by This Chapter.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General, knowingly engages in or causes sexual contact with or by another person, if so to do would violate—
+Sexual Conduct in Circumstances Where Sexual Acts Are Punished by This Chapter.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in or causes sexual contact with or by another person, if so to do would violate—
 
 &emsp;(1) subsection (a) or (b) of section 2241 of this title had the sexual contact been a sexual act, shall be fined under this title, imprisoned not more than ten years, or both;
 
@@ -16,19 +16,21 @@ Sexual Conduct in Circumstances Where Sexual Acts Are Punished by This Chapter.�
 
 (b)
 
-In Other Circumstances.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General, knowingly engages in sexual contact with another person without that otherperson's permission shall be fined under this title, imprisoned not more than two years, or both.
+In Other Circumstances.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in sexual contact with another person without that other person's permission shall be fined under this title, imprisoned not more than two years, or both.
 
 (c)
 
 Offenses Involving Young Children.—If the sexual contact that violates this section (other than subsection (a)(5)) is with an individual who has not attained the age of 12 years, the maximum term of imprisonment that may be imposed for the offense shall be twice that otherwise provided in this section.
 
-(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3622, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 100–690, title VII, §7058(a), Nov. 18, 1988, 102 Stat. 4403; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 105–314, title III, §302, Oct. 30, 1998, 112 Stat. 2979; Pub. L. 109–162, title XI, §1177(a)(5), (b)(2), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§206(a)(2), 207(2), July 27, 2006, 120 Stat. 613, 615.)
+(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3622, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 100–690, title VII, §7058(a), Nov. 18, 1988, 102 Stat. 4403; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 105–314, title III, §302, Oct. 30, 1998, 112 Stat. 2979; Pub. L. 109–162, title XI, §1177(a)(5), (b)(2), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§206(a)(2), 207(2), July 27, 2006, 120 Stat. 613, 615; Pub. L. 110–161, div. E, title V, §554, Dec. 26, 2007, 121 Stat. 2082.)
 
 #### Codification
 
 Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2244.
 
 #### Amendments
+
+2007—Subsecs. (a), (b). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General”.
 
 2006—Subsec. (a). Pub. L. 109–248, §207(2), inserted comma after “Attorney General” in introductory provisions.
 

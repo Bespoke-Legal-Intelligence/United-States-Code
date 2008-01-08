@@ -18,7 +18,7 @@ A majority of the current voting membership of the Board shall constitute a quor
 
 #### (e) Meetings
 
-The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board by majority vote of the Board of Directors and that vacancy filled in accordance with subsection (b) of this section.
+The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings,that individual may be removed from the Board by majority vote of the Board of Directors and that vacancy filled in accordance with subsection (b) of this section.
 
 #### (f) Reimbursement of expenses
 

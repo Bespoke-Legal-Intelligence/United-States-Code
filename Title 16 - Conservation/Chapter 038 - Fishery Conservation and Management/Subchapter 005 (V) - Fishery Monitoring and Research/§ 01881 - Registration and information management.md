@@ -18,7 +18,7 @@ The Secretary shall, in cooperation with the Secretary of the department in whic
 
 &emsp;(7) minimize the paperwork required for vessels registered under the system;
 
-&emsp;(8) include all species of fish within the geographic areas of authority of the Councils andall fishing vessels including charter fishing vessels, but excluding recreational fishing vessels;
+&emsp;(8) include all species of fish within the geographic areas of authority of the Councils and all fishing vessels including charter fishing vessels, but excluding recreational fishing vessels;
 
 &emsp;(9) require United States fish processors, and fish dealers and other first ex-vessel purchasers of fish that are subject to the proposed system, to submit information (other than economic information) which may be necessary to meet the goals of the proposed system; and
 
@@ -145,6 +145,10 @@ A prior section 1881, Pub. L. 94–265, title IV, §401, Apr. 13, 1976, 90 Stat.
 #### Amendments
 
 2007—Subsec. (g). Pub. L. 109–479 added subsec. (g) and struck out former subsec. (g) which required a report to Congress.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Transfer of Functions
 

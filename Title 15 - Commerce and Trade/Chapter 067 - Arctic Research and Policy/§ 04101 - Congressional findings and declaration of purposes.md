@@ -38,7 +38,7 @@
 
 (b) The purposes of this chapter are—
 
-&emsp;(1) to establish national policy, priorities, and goals and to provide a Federal program plan for basic and applied scientific research with respect to the Arctic, including natural resources and materials, physical, biological and health sciences, and social and behavioral sciences;
+&emsp;(1) to establish national policy, priorities, and goals and to provide a Federal programplan for basic and applied scientific research with respect to the Arctic, including natural resources and materials, physical, biological and health sciences, and social and behavioral sciences;
 
 &emsp;(2) to establish an Arctic Research Commission to promote Arctic research and to recommend Arctic research policy;
 

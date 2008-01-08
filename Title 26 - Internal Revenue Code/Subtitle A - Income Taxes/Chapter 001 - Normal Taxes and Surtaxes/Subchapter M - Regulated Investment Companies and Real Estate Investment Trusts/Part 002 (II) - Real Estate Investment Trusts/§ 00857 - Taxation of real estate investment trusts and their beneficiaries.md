@@ -96,7 +96,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (A) Imposition of tax
 
-&emsp;&emsp;A tax is hereby imposed for each taxable year on the net income from foreclosure property of every real estate investmenttrust. Such tax shall be computed by multiplying the net income from foreclosure property by the highest rate of tax specified in section 11(b).
+&emsp;&emsp;A tax is hereby imposed for each taxable year on the net income from foreclosure property of every real estate investment trust. Such tax shall be computed by multiplying the net income from foreclosure property by the highest rate of tax specified in section 11(b).
 
 #### (B) Net income from foreclosure property
 
@@ -226,7 +226,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;Clause (i) shall not apply to any service rendered by a taxable REIT subsidiary of a real estate investment trust to a tenant of such trust if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such subsidiary renders a significant amount of similar services to persons other than such trust and tenants of such trust who are unrelated (within themeaning of section 856(d)(8)(F)) to such subsidiary, trust, and tenants, but
+&emsp;&emsp;&emsp;&emsp;(I) such subsidiary renders a significant amount of similar services to persons other than such trust and tenants of such trust who are unrelated (within the meaning of section 856(d)(8)(F)) to such subsidiary, trust, and tenants, but
 
 &emsp;&emsp;&emsp;&emsp;(II) only to the extent the charge for such service so rendered is substantially comparable to the charge for the similar services rendered to persons referred to in subclause (I).
 
@@ -274,9 +274,13 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 > &emsp;&emsp;then any loss on the sale or exchange of such share or interest shall, to the extent of the amount described in clause (i), be treated as a long-term capital loss.
 
-#### (B) Determination of holding period
+#### (B) Determination of holding periods
 
-&emsp;&emsp;For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer has held any share of stock or beneficial interest; except that “6 months” shall be substituted for the number of days specified in subparagraph (B) <sup>1</sup> of section 246(c)(3).
+&emsp;&emsp;For purposes of this paragraph, in determining the period for which the taxpayer has held any share of stock or beneficial interest—
+
+&emsp;&emsp;&emsp;(i) the rules of paragraphs (3) and (4) of section 246(c) shall apply, and
+
+&emsp;&emsp;&emsp;(ii) there shall not be taken into account any day which is more than 6 months after the date on which such share or interest becomes ex-dividend.
 
 #### (C) Exception for losses incurred under periodic liquidation plans
 
@@ -412,17 +416,15 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;<b>For provisions relating to excise tax based on certain real estate investment trust taxable income not distributed during the taxable year, see section 4981.</b>
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, §302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, §402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, §243(c), (e), (f)(4), title III, §321(a), title IV, §418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639.)
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, §302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, §402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, §243(c), (e), (f)(4), title III, §321(a), title IV, §418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639; Pub. L. 110–172, §11(a)(17)(B), Dec. 29, 2007, 121 Stat. 2486.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
-#### References in Text
-
-Section 246(c)(3) of this title, referred to in subsec. (b)(8)(B), was amended by Pub. L. 105–34, title X, §1015(b)(2), Aug. 5, 1997, 111 Stat. 922, to strike out subpar. (B) and redesignate subpar. (C) as (B).
-
 #### Amendments
+
+2007—Subsec. (b)(8)(B). Pub. L. 110–172 amended heading and text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer has held any share of stock or beneficial interest; except that ‘6 months’ shall be substituted for the number of days specified in subparagraph (B) of section 246(c)(3).”
 
 2005—Subsec. (b)(2)(E). Pub. L. 109–135, §403(d)(3), substituted “section 856(c)(7)(C), and section 856(g)(5)” for “section 856(c)(7)(B)(iii), and section 856(g)(1).”
 
@@ -646,7 +648,7 @@ Amendment by section 566(a)(2), (b) of Pub. L. 106–170 applicable to distribut
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -722,11 +724,9 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years beginning
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable with respect to dividends received after Dec. 31, 1964, in taxable years ending after such date, see section 201(e) of Pub. L. 88–272, set out as a note under section 22 of this title.
+Amendment by Pub. L. 88–272 applicable with respect to dividends received after Dec. 31, 1964, in taxableyears ending after such date, see section 201(e) of Pub. L. 88–272, set out as a note under section 22 of this title.
 
 #### Effective Date
 
 Section applicable with respect to taxable years of real estate investment trusts beginning after Dec. 31, 1960, see section 10(k) of Pub. L. 86–779, set out as a note under section 856 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

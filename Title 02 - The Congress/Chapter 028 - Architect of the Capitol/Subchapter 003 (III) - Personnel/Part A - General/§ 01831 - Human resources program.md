@@ -34,7 +34,7 @@ This section may be cited as the “Architect of the Capitol Human Resources Act
 
 &emsp;&emsp;(E) A formal performance appraisal system which will permit the accurate evaluation of job performance on the basis of objective criteria for all Architect of the Capitol employees.
 
-&emsp;&emsp;(F) A fair and equitable system to address unacceptable conduct and performance byArchitect of the Capitol employees, including a general statement of violations, sanctions, and procedures which shall be made known to all employees, and a formal grievance procedure.
+&emsp;&emsp;(F) A fair and equitable system to address unacceptable conduct and performance by Architect of the Capitol employees, including a general statement of violations, sanctions, and procedures which shall be made known to all employees, and a formal grievance procedure.
 
 &emsp;&emsp;(G) A program to provide services to deal with mental health, alcohol abuse, drug abuse, and other employee problems, and which ensures employee confidentiality.
 
@@ -54,7 +54,7 @@ This section may be cited as the “Architect of the Capitol Human Resources Act
 
 #### (2) Evaluation and reporting
 
-&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensure that the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) of this section and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
+&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensurethat the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) of this section and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
 
 #### (3) Application of laws
 
@@ -75,6 +75,10 @@ Section is comprised of section 312 of Pub. L. 103–283. Subsec. (f) of section
 #### Savings Provision
 
 Section 504(c)(1) of Pub. L. 104–1 provided in part that subsec. (e) of this section is repealed, except as provided in section 1435 of this title.
+
+#### Flexible Work Schedules
+
+Pub. L. 110–161, div. H, title I, §1302, Dec. 26, 2007, 121 Stat. 2242, provided that: “Notwithstanding section 6101 of title 5, United States Code, the Architect of the Capitol may establish and conduct a pilot program to test flexible work schedules within the Architect of the Capitol and Botanic Garden. Such pilot program shall be in accordance with chapter 61 of title 5, United States Code. This authority shall terminate effective September 30, 2008.”
 
 #### Temporary Employees; Benefits
 
@@ -100,7 +104,7 @@ Pub. L. 107–68, title I, §133(a), Nov. 12, 2001, 115 Stat. 581, as amended by
 
 &emsp;“(D) An individual who becomes employed by the Architect of the Capitol after the date of the enactment of this Act \[Nov. 12, 2001\] who exercises in writing, prior to the individual's employment, an option offered by the Architect to receive pay and benefits under an alternative system which does not provide the benefits described in paragraph (1), except that under such an option the Architect shall be required to provide the individual with the benefits described in paragraph (1) as soon as the individual's period of service as a temporary employee exceeds 1 year in length.
 
-&emsp;“(E) An individual who is covered by a collective bargaining agreement entered into by the Architect of the Capitol establishing terms and conditions ofemployment which include eligibility for life insurance, health insurance, retirement, and other benefits.
+&emsp;“(E) An individual who is covered by a collective bargaining agreement entered into by the Architect of the Capitol establishing terms and conditions of employment which include eligibility for life insurance, health insurance, retirement, and other benefits.
 
 “(3) Nothing in this subsection may be construed to require the Architect of the Capitol to provide duplicative benefits for any employee.
 

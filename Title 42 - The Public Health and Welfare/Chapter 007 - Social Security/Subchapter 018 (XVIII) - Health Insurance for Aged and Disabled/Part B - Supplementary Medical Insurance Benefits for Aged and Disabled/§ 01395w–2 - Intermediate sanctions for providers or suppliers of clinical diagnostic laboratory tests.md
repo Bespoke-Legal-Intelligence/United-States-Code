@@ -22,7 +22,7 @@
 
 (B) The sanctions specified in subparagraph (A) are in addition to sanctions otherwise available under State or Federal law.
 
-(3) The Secretary shall develop and implement specific procedures with respect to when and how each of the intermediate sanctions developed under paragraph (1) is to be applied, the amounts of any penalties, and the severity of each of these penalties. Such procedures shall be designed so as to minimize the time between identification of violations and imposition of these sanctions and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
+(3) The Secretary shall develop and implement specific procedures with respect to when andhow each of the intermediate sanctions developed under paragraph (1) is to be applied, the amounts of any penalties, and the severity of each of these penalties. Such procedures shall be designed so as to minimize the time between identification of violations and imposition of these sanctions and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1846, as added Pub. L. 100–203, title IV, §4064(d)(1), Dec. 22, 1987, 101 Stat. 1330–111; amended Pub. L. 100–360, title II, §203(e)(4), title IV, §411(g)(3)(G), July 1, 1988, 102 Stat. 725, 784; Pub. L. 100–485, title VI, §608(d)(22)(C), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title IV, §4154(e)(2), Nov. 5, 1990, 104 Stat. 1388–86.)
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) ofPub. L. 100–485, set out as a note under section 704 of this title.
+Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
 Amendment by section 203(e)(4) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
 

@@ -4,7 +4,7 @@ In addition to any authorities otherwise available, the Secretary of State in th
 
 #### (a) Utilization of other Federal agencies; transfers of supplies, equipment, and surplus property
 
-utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of the Federal Property and Administrative Services Act of 1949, as amended; <sup>1</sup>
+utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisionsof the Federal Property and Administrative Services Act of 1949, as amended; <sup>1</sup>
 
 #### (b) Employment of personnel
 
@@ -62,7 +62,7 @@ The General Schedule, referred to in subsec. (b), is set out under section 5332 
 
 Subsec. (a). Pub. L. 105–277, §1223(13)(B), (C), substituted “Department of State” for “Agency” and “Secretary of State” for “Director”, and struck out “It is the intent of this section that the Director rely upon the Department of State for general administrative services in the United States and abroad to the extent agreed upon between the Secretary of State and the Director.” after “may appear desirable.”
 
-Subsec. (b). Pub. L. 105–277, §1223(13)(B), (D)(i), in introductory provisions, substituted “Secretary of State” for “Director” and struck out “appoint officers and employees, including attorneys, for the Agency in accordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities,” before “appoint and fix”.
+Subsec. (b). Pub. L. 105–277, §1223(13)(B), (D)(i), in introductory provisions, substituted “Secretary ofState” for “Director” and struck out “appoint officers and employees, including attorneys, for the Agency in accordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities,” before “appoint and fix”.
 
 Subsec. (b)(1). Pub. L. 105–277, §1223(13)(D)(ii), substituted “subsection” for “exception” in introductory provisions.
 
@@ -86,7 +86,7 @@ Subsec. (j). Pub. L. 105–277, §1223(13)(F), redesignated subsec. (j) as (i).
 
 “(2) the Director shall make adequate provision for administrative review of any determination to suspend or dismiss any officer or employee appointed under the foregoing exception; and
 
-“(3) an officer or employee of the Agency serving under a career or career conditional appointment onAugust 17, 1977, may not be involuntarily deprived, while employed by the Agency, of any rights normally granted such officer or employee in the competitive service;”.
+“(3) an officer or employee of the Agency serving under a career or career conditional appointment on August 17, 1977, may not be involuntarily deprived, while employed by the Agency, of any rights normally granted such officer or employee in the competitive service;”.
 
 1991—Subsecs. (h) to (j). Pub. L. 102–228 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 

@@ -8,7 +8,7 @@ The Attorney General shall use not more than 5 percent of the funds available un
 
 A grant under this part <sup>1</sup> may be renewed for up to 2 additional years after the first fiscal year during which the recipient receives its initial grant under this part,<sup>1</sup> subject to the availability of funds, if—
 
-&emsp;(1) the Attorney General determines that the funds made available to the recipient duringthe previous years were used in a manner required under the approved application; and
+&emsp;(1) the Attorney General determines that the funds made available to the recipient during the previous years were used in a manner required under the approved application; and
 
 &emsp;(2) the Attorney General determines that an additional grant is necessary to implement the community prosecution program described in the comprehensive plan required by section 13863 of this title.
 

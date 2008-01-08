@@ -16,7 +16,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;&emsp;(ii) after the end of the last fiscal year covered by a set of goals, will perform a final review of progress toward accomplishment of the goals, and on the basis of the final review (I) will prepare, transmit to the Secretary, and make available to the public a final report on progress toward accomplishment of the goals, and (II) will develop (in consultation with the entities required to be consulted pursuant to subsection (b) of this section) and add to the plan a statement of the goals intended to be accomplished by the end of the 5th succeeding fiscal year;
 
-&emsp;(3) provides for coordination, to the extent feasible and appropriate, of the provision of services under the plan and the provision ofservices or benefits under other Federal or federally assisted programs serving the same populations;
+&emsp;(3) provides for coordination, to the extent feasible and appropriate, of the provision of services under the plan and the provision of services or benefits under other Federal or federally assisted programs serving the same populations;
 
 &emsp;(4) contains assurances that not more than 10 percent of expenditures under the plan for any fiscal year with respect to which the State is eligible for payment under section 629d of this title for the fiscal year shall be for administrative costs, and that the remaining expenditures shall be for programs of family preservation services, community-based family support services, time-limited family reunification services, and adoption promotion and support services, with significant portions of such expenditures for each such program;
 
@@ -64,7 +64,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 #### (1) In general
 
-&emsp;The Secretary shall approve a plan that meets the requirements of subsection (a) of this section only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, time-limited family reunification, and adoption promotion and support services).
+&emsp;The Secretary shall approve a plan that meets the requirements of subsection (a) of this section only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, time-limitedfamily reunification, and adoption promotion and support services).
 
 #### (2) Plans of Indian tribes or tribal consortia
 
@@ -80,7 +80,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 The Secretary shall compile the reports required under subsection (a)(8)(B) and, not later than September 30 of each year, submit such compilation to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16,1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244.)
+(Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244.)
 
 #### Prior Provisions
 

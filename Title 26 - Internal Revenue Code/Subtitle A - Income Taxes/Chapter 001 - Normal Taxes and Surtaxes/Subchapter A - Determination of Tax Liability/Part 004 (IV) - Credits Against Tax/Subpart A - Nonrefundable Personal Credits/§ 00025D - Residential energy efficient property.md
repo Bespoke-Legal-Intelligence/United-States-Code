@@ -34,7 +34,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (2) Rule for other years
 
-&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, if the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a)(1) for such taxable year reduced by the sum of the credits allowable under this subpart (other than thissection and sections 23, 24, and 25B), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
+&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, if the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a)(1) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, and 25B), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
 
 #### (d) Definitions
 
@@ -112,7 +112,7 @@ Allocation of expenditures.—The expenditures allocated to any individual for t
 
 #### (7) Allocation in certain cases
 
-&emsp;If less than 80 percent of the use of an item is for nonbusiness purposes, only that portionof the expenditures for such item which is properly allocable to use for nonbusiness purposes shall be taken into account.
+&emsp;If less than 80 percent of the use of an item is for nonbusiness purposes, only that portion of the expenditures for such item which is properly allocable to use for nonbusiness purposes shall be taken into account.
 
 #### (8) When expenditure made; amount of expenditure
 
@@ -164,7 +164,7 @@ Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to whichsuch amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(E) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 

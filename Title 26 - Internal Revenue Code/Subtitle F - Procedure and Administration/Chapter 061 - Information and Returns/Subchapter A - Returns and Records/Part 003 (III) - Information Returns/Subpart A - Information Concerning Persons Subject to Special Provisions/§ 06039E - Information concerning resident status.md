@@ -28,7 +28,7 @@ Any individual failing to provide a statement required under subsection (a) shal
 
 #### (d) Information to be provided to Secretary
 
-Notwithstanding any other provision of law, any agency of the United States which collects (or is required to collect) the statement under subsection (a) shall—
+Notwithstanding any other provision of law, any agency of the United States which collects\(or is required to collect) the statement under subsection (a) shall—
 
 &emsp;(1) provide any such statement to the Secretary, and
 

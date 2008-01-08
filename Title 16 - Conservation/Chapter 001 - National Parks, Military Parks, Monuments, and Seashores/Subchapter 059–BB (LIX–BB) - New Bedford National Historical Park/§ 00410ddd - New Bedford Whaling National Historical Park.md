@@ -104,7 +104,7 @@ To ensure that the contribution of Alaska Natives to the history of whaling in t
 
 #### (f) General management plan
 
-Not later than the end of the second fiscal year beginning after November 12, 1996, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for the park and shall implement such plan as soon as practically possible. The plan shall be prepared in accordance with section 1a–7(b) of this title and other applicable law.
+Not later than the end of the second fiscal year beginning after November 12, 1996, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for thepark and shall implement such plan as soon as practically possible. The plan shall be prepared in accordance with section 1a–7(b) of this title and other applicable law.
 
 #### (g) Authorization of appropriations
 
@@ -118,7 +118,7 @@ Not later than the end of the second fiscal year beginning after November 12, 19
 
 &emsp;&emsp;(A) not more than $5,000,000 may be appropriated for construction, restoration, and rehabilitation of visitor and interpretive facilities, and directional and visitor orientation signage;
 
-&emsp;&emsp;(B) none of the funds authorized to be appropriated by this section may be used forthe operation or maintenance of the Schooner Ernestina; and
+&emsp;&emsp;(B) none of the funds authorized to be appropriated by this section may be used for the operation or maintenance of the Schooner Ernestina; and
 
 &emsp;&emsp;(C) not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2) of this section.
 
@@ -143,4 +143,8 @@ Subsec. (g). Pub. L. 106–176, §111(a)(4), redesignated subsec. (f) as (g).
 Subsec. (g)(1). Pub. L. 106–176, §111(a)(5)(A), substituted “subsection (d) of this section.” for “section 3(D).”
 
 Subsec. (g)(2)(C). Pub. L. 106–176, §111(a)(5)(B), substituted “cooperative agreements under subsection (e)(2) of this section” for “cooperative grants under subsection (d)(2) of this section”.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

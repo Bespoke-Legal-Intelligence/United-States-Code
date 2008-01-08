@@ -80,6 +80,7 @@
 | [59f.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059f%20-%20Boston%20Inner%20Harbor%20and%20Fort%20Point%20Channel%2C%20Massachusetts.md) | Boston Inner Harbor and Fort Point Channel, Massachusetts. |
 | [59g.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059g%20-%20Steele%20and%20Washington%20Bayous%2C%20and%20Lake%20Washington%2C%20Mississippi.md) | Steele and Washington Bayous, and Lake Washington, Mississippi. |
 | [59h.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059h%20-%20Northern%20Embarcadero%20area%2C%20San%20Francisco%2C%20California.md) | Northern Embarcadero area, San Francisco, California. |
+| 59h–1. | San Francisco, California, waterfront area. |
 | [59i.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059i%20-%20Patapsco%20River%2C%20Maryland.md) | Patapsco River, Maryland. |
 | [59j.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059j%20-%20Delaware%20River%2C%20Philadelphia%20County%2C%20Pennsylvania%3B%20permanent%20structures.md) | Delaware River, Philadelphia County, Pennsylvania; permanent structures. |
 | 59j–1. | Declaration of nonnavigability for portions of the Delaware River. |

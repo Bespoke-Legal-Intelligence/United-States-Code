@@ -86,7 +86,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### (1) In general
 
-&emsp;The Trust shall give thorough consideration to the provision of appropriate opportunities for public use and recreation that are consistent with the other purposes under section 698v–3(b) of this title. The Trust is expressly authorized to construct and upgrade roads and bridges, and provide other facilities for activities including, but not limited to camping and picnicking, hiking, and cross country skiing. Roads, trails, bridges, and recreational facilities constructed within the Preserve shall meet public safety standards applicable to units of the National Forest System and the State of New Mexico.
+&emsp;The Trust shall give thorough consideration to the provision of appropriate opportunities for public use and recreation that are consistent with the other purposes under section 698v–3(b) of this title. The Trust is expressly authorized to construct and upgrade roads andbridges, and provide other facilities for activities including, but not limited to camping and picnicking, hiking, and cross country skiing. Roads, trails, bridges, and recreational facilities constructed within the Preserve shall meet public safety standards applicable to units of the National Forest System and the State of New Mexico.
 
 #### (2) Fees
 
@@ -168,7 +168,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### (iii) Cooperative agreement
 
-&emsp;&emsp;&emsp;To the extent generally authorized at other units of the National Forest System, the Secretary shall provide the services to be carried out pursuant to the plan under a cooperative agreement entered into between the Secretary and the Trust.
+&emsp;&emsp;&emsp;To the extent generally authorized at other units of the National Forest System,the Secretary shall provide the services to be carried out pursuant to the plan under a cooperative agreement entered into between the Secretary and the Trust.
 
 #### (B) Reimbursable services
 
@@ -178,7 +178,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### References in Text
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f)(1), is Pub.L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 The American Indian Religious Freedom Act, referred to in subsec. (f)(5), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 

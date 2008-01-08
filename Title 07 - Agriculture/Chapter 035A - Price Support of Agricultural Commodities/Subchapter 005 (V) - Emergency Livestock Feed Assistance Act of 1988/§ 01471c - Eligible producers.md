@@ -2,7 +2,7 @@
 
 #### (a) Qualifying livestock producers
 
-(1) If the Secretary determines that a livestock emergency exists in a State, county, or area, qualifying livestock producers located insuch State, county, or area, or in a contiguous county as provided for in section 1471a(b) of this title, shall be eligible (under application procedures established by the Secretary) for emergency feed assistance under this subchapter in accordance with this subsection.
+(1) If the Secretary determines that a livestock emergency exists in a State, county, or area, qualifying livestock producers located in such State, county, or area, or in a contiguous county as provided for in section 1471a(b) of this title, shall be eligible (under application procedures established by the Secretary) for emergency feed assistance under this subchapter in accordance with this subsection.
 
 (2) For the purposes of this subsection, a “qualifying livestock producer” is a livestock producer who has suffered a substantial loss in feed normally produced on the farm for such producer's livestock as a result of the livestock emergency and, as a result, does not have sufficient feed that has adequate nutritive value and is suitable for each of such producer's particular types of livestock (as of the date of the request, or initiation of consideration, for a determination of a livestock emergency under section 1471b of this title) for the estimated duration of the emergency.
 
@@ -28,7 +28,7 @@ Section effective 15 days after Aug. 11, 1988, with subsec. (c) of this section 
 
 #### Inapplicability of Section
 
-Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(12) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicableto milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(12) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 

@@ -10,9 +10,9 @@
 
 &emsp;(4) the term “Government Securities Investment Fund” means the Government Securities Investment Fund established under subsection (b)(1)(A);
 
-&emsp;(5) the term “International Stock Index Investment Fund” means the International Stock Index Investment Fund established under subsection (b)(1)(E);
+&emsp;(5) the term “International Stock Index Investment Fund” means the InternationalStock Index Investment Fund established under subsection (b)(1)(E);
 
-&emsp;(6) the term “net worth” means capital, paid-in and contributed surplus, unassignedsurplus, contingency reserves, group contingency reserves, and special reserves;
+&emsp;(6) the term “net worth” means capital, paid-in and contributed surplus, unassigned surplus, contingency reserves, group contingency reserves, and special reserves;
 
 &emsp;(7) the term “plan” means an employee benefit plan, as defined in section 3(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(3));
 
@@ -76,7 +76,7 @@
 
 (2)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which is a reasonably complete representation of the United States equity markets.
 
-(B) The Common Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index selected under subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the Common Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares ofthat stock by the aggregate market value of all shares of all stocks included in such index.
+(B) The Common Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index selected under subparagraph (A). The portfolio shall be designed such that, to the extent practicable,the percentage of the Common Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
 
 (3)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which represents the United States equity markets excluding the common stocks included in the Common Stock Index Investment Fund.
 
@@ -114,7 +114,7 @@
 
 &emsp;(B) the net amount of interest actually earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period.
 
-(5) On each business day during the debt limit suspension period, the Executive Director shall notify the Secretary of the Treasury of the amounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
+(5) On each business day during the debt limit suspension period, the Executive Director shallnotify the Secretary of the Treasury of the amounts, by maturity, that would have been invested or redeemed each day had the debt issuance suspension period not occurred.
 
 (6) For purposes of this subsection and subsection (h) of this section—
 

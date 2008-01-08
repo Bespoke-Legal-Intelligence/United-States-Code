@@ -50,11 +50,11 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 (3) Within 45 days of the close of the public comment period, the Secretary, in consultation with the Council, shall analyze the public comment received and publish final regulations for implementing such plan.
 
-(4) If the Secretary remands a plan or plan amendment to the Council for failure to meetthe requirements of this section, the Council may resubmit such plan or plan amendment at any time after taking action the Council believes will address the defects identified by the Secretary. Any plan or plan amendment resubmitted to the Secretary will be treated as an original plan submitted to the Secretary under paragraph (1) of this subsection.
+(4) If the Secretary remands a plan or plan amendment to the Council for failure to meet the requirements of this section, the Council may resubmit such plan or plan amendment at any time after taking action the Council believes will address the defects identified by the Secretary. Any plan or plan amendment resubmitted to the Secretary will be treated as an original plan submitted to the Secretary under paragraph (1) of this subsection.
 
 #### (d) Fishery Observer Fund
 
-There is established in the Treasury a North Pacific Fishery Observer Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purpose of carrying out the provisions of this section, subject to the restrictions in subsection (b)(2) of this section. The Fund shall consist of all monies deposited into it in accordance with this section. Sums in the Fund that are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+There is established in the Treasury a North Pacific Fishery Observer Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purpose of carrying out the provisions of thissection, subject to the restrictions in subsection (b)(2) of this section. The Fund shall consist of all monies deposited into it in accordance with this section. Sums in the Fund that are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
 #### (e) Special provisions regarding observers
 
@@ -96,11 +96,11 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (1) The North Pacific Council shall submit to the Secretary by October 1, 1998 a report on the advisability of requiring the full retention by fishing vessels and full utilization by United States fish processors of economic discards in fisheries under its jurisdiction if such economic discards, or the mortality of such economic discards, cannot be avoided. The report shall address the projected impacts of such requirements on participants in the fishery and describe any full retention and full utilization requirements that have been implemented.
 
-(2) The report shall address the advisability of measures to minimize processing waste, including standards setting minimum percentages which must be processed for human consumption. For the purpose of the report, “processing waste” means that portion of any fish which is processed and which could be used for humanconsumption or other commercial use, but which is not so used.
+(2) The report shall address the advisability of measures to minimize processing waste, including standards setting minimum percentages which must be processed for human consumption. For the purpose of the report, “processing waste” means that portion of any fish which is processed and which could be used for human consumption or other commercial use, but which is not so used.
 
 #### (j) Bering Sea and Aleutian Islands crab rationalization
 
-(1) By not later than January 1, 2005, the Secretary shall approve and hereafter <sup>2</sup> implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendments including those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, and implementing any subsequent program amendments approved by the Council.
+(1) By not later than January 1, 2005, the Secretary shall approve and hereafter <sup>2</sup> implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendmentsincluding those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, and implementing any subsequent program amendments approved by the Council.
 
 (2) Notwithstanding any other provision of this chapter, in carrying out paragraph (1) the Secretary shall approve all parts of the Program referred to in such paragraph. Further, no part of such Program may be implemented if, as approved by the North Pacific Fishery Management Council, individual fishing quotas, processing quotas, community development quota allocation, voluntary cooperatives, binding arbitration, regional landing and processing requirements, community protections, economic data collection, or the loan program for crab fishing vessel captains and crew members, is invalidated subject to a judicial determination not subject to judicial appeal. If the Secretary determines that a processor has leveraged its Individual Processor Quota shares to acquire a harvesters open-delivery “B shares”, the processor's Individual Processor Quota shares shall be forfeited.
 
@@ -134,7 +134,7 @@ In subsec. (j)(4), “sections 53735 and 53702(b) of title 46” substituted for
 
 2007—Subsec. (a). Pub. L. 109–479, §214(1), substituted “any fishery under the Council's jurisdiction except a salmon fishery” for “all fisheries under the Council's jurisdiction except salmon fisheries” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–479, §214(2), added par. (2) and struck out former par. (2) which read as follows:“establishes a system of fees to pay for the costs of implementing the plan.”
+Subsec. (a)(2). Pub. L. 109–479, §214(2), added par. (2) and struck out former par. (2) which read as follows: “establishes a system of fees to pay for the costs of implementing the plan.”
 
 Subsec. (b)(2)(A). Pub. L. 109–479, §214(3), substituted “observers, or electronic monitoring systems,” for “observers”.
 

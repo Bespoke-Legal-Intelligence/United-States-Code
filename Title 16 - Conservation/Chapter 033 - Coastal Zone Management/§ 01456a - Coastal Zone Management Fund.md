@@ -86,7 +86,7 @@ Subsec. (b)(3). Pub. L. 95–372, §501(b)(2), added par. (3). Former par. (3) r
 
 Subsec. (b)(4). Pub. L. 95–372, §501(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 95–372, §501(b)(1), (c), redesignated par. (4) as (5) and, in par. (5) as so redesignated, struck out in subpar. (B)(i) provisions relating to the unavailability of adequate financing under any other subsection and inserted provisions following subpar. (B)(ii) authorizing the Secretary to describe the geographic areas in which the public facilities and public services referred to in subpar. (B)(i) shall be presumed to be required as a result of outer Continental Shelf energy activities for purposes of disbursing the proceeds of grants under this subsection. Former par. (5) redesignated (6).
+Subsec. (b)(5). Pub. L. 95–372, §501(b)(1), (c), redesignated par. (4) as (5) and, in par. (5) as so redesignated, struck out in subpar. (B)(i) provisions relating to the unavailability of adequate financing under any other subsection and inserted provisions following subpar. (B)(ii) authorizing the Secretary to describe the geographic areas in which the public facilities and public services referred to in subpar. (B)(i) shall be presumed to be required as a result of outer Continental Shelf energy activities for purposes of disbursing the proceedsof grants under this subsection. Former par. (5) redesignated (6).
 
 Subsec. (b)(6). Pub. L. 95–372, §501(b)(1), redesignated par. (5) as (6) and, in par. (6) as so redesignated, in provisions preceding subpar. (A) and in subpar. (B) substituted “paragraph (5)” for “paragraph (4)”.
 

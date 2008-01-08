@@ -90,7 +90,7 @@ Manufacturer Requirement.—(1) Each manufacturer of a new passenger motor vehic
 
 (c)
 
-Vehicle Content Percentage by Assembly Plant.—A manufacturer may display separately on the label required by subsection (b)the domestic content of a vehicle based on the assembly plant. Such display shall occur after the matter required to be in the label by subsection (b)(1)(A).
+Vehicle Content Percentage by Assembly Plant.—A manufacturer may display separately on the label required by subsection (b) the domestic content of a vehicle based on the assembly plant. Such display shall occur after the matter required to be in the label by subsection (b)(1)(A).
 
 (d)
 

@@ -44,7 +44,7 @@ In preparing the plan required under subsection (a), the Secretary shall be guid
 
 #### (d) Implementation
 
-The Secretary shall, subject to the availability of appropriations for such purpose, work on an ongoing basis with representatives of the Department of Labor, workforce bargaining units,and States and local communities in carrying out a plan required under subsection (a).
+The Secretary shall, subject to the availability of appropriations for such purpose, work on an ongoing basis with representatives of the Department of Labor, workforce bargaining units, and States and local communities in carrying out a plan required under subsection (a).
 
 #### (e) Plan updates
 
@@ -66,7 +66,7 @@ Not later than one year after issuing a plan referred to in subsection (a) and o
 
 In this section, the term “Department of Energy defense nuclear facility” means—
 
-&emsp;(1) a production facility or utilization facility (as those terms are defined in section 2014 of title 42) that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the tritium loading facility at Savannah River, South Carolina, the 236 H facility at Savannah River, South Carolina; and the Mound Laboratory, Ohio), but the term does not include any facility that does not conduct atomic energy defense activities and does not include any facility or activity covered by Executive Order Number 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
+&emsp;(1) a production facility or utilization facility (as those terms are defined in section 2014 of title 42) that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the tritium loading facility at Savannah River,South Carolina, the 236 H facility at Savannah River, South Carolina; and the Mound Laboratory, Ohio), but the term does not include any facility that does not conduct atomic energy defense activities and does not include any facility or activity covered by Executive Order Number 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
 
 &emsp;(2) a nuclear waste storage or disposal facility that is under the control or jurisdiction of the Secretary;
 

@@ -2,7 +2,7 @@
 
 #### (a) Basic pay for levels II and III of Executive Schedule
 
-The Chairman of the Council, if not otherwise a paid officer or employee of the Federal Government, shall be paid at the rate not to exceed the rate of basic pay provided for level II of the Executive Schedule. The other members of the Council, if not otherwise paid officers or employees of the Federal Government, shall be paid at a per diem rate comparable to the rate not to exceed the rate of basic pay provided for level III of the Executive Schedule.
+The Chairman of the Council, if not otherwise a paid officer or employee of the Federal Government, shall be paid at the rate not to exceed the rate of basic pay provided for level II of the Executive Schedule. The other members of the Council, if not otherwise paid officers or employees of the Federal Government, shall be paid at a per diem rate comparable to the rate not toexceed the rate of basic pay provided for level III of the Executive Schedule.
 
 #### (b) Reimbursement of travel expenses for attendance at meetings
 

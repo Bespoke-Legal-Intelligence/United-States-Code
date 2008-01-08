@@ -86,11 +86,7 @@ Pub. L. 102–266 added Pub. L. 102–145, §118. See 1991 Amendment note below.
 
 1987—Subsec. (a). Pub. L. 100–202 substituted “1988” for “1987” in par. (B).
 
-1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591 inserted provision authorizing the President to waive the requirements of par. (3) with respect to a lease which ismade in exchange with the lessee for a lease on substantially reciprocal terms of defense articles for the Department of Defense and providing exceptions to such waiver authority.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591 inserted provision authorizing the President to waive the requirements of par. (3) with respect to a lease which is made in exchange with the lessee for a lease on substantially reciprocal terms of defense articles for the Department of Defense and providing exceptions to such waiver authority.
 
 #### Effective Date of 1996 Amendment
 

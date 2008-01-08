@@ -20,6 +20,12 @@ In this subchapter:
 
 (Pub. L. 88–74, §2, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1176; amended Pub. L. 107–171, title VII, §§7214, 7308(b), May 13, 2002, 116 Stat. 448, 455.)
 
+#### Prior Provisions
+
+A prior section 390, Pub. L. 88–74, §1, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, §1416(3), Sept. 29, 1977, 91 Stat. 996; Pub. L. 99–198, title XIV, §1411(a), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of policy, prior to the general amendment of this subchapter by Pub. L. 104–127.
+
+A prior section 2 of Pub. L. 88–74 was classified to section 390a of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
+
 #### Amendments
 
 2002—Par. (3). Pub. L. 107–171, §7214, reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘food and agricultural sciences’ means—
@@ -39,12 +45,6 @@ In this subchapter:
 &emsp;“(G) germ plasm collection and preservation.”
 
 Par. (5). Pub. L. 107–171, §7308(b), struck out heading and text of par. (5). Text read as follows: “The term ‘task force’ means the Strategic Planning Task Force established under section 390b of this title.”
-
-#### Prior Provisions
-
-A prior section 390, Pub. L. 88–74, §1, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, §1416(3), Sept. 29, 1977, 91 Stat. 996; Pub. L. 99–198, title XIV, §1411(a), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of policy, prior to the general amendment of this subchapter by Pub. L. 104–127.
-
-A prior section 2 of Pub. L. 88–74 was classified to section 390a of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Effective Date
 

@@ -6,11 +6,11 @@ Information acquired from a physical search conducted pursuant to this subchapte
 
 #### (b) Notice of search and identification of property seized, altered, or reproduced
 
-Where a physical search authorized and conducted pursuant to section 1824 of this title involves the residence of a United States person, and, at any time after the search the Attorney General determines there is no national security interest in continuing to maintain the secrecy of the search, the Attorney General shall provide notice to the United States person whose residence was searched of the fact of the searchconducted pursuant to this chapter and shall identify any property of such person seized, altered, or reproduced during such search.
+Where a physical search authorized and conducted pursuant to section 1824 of this title involves the residence of a United States person, and, at any time after the search the Attorney General determines there is no national security interest in continuing to maintain the secrecy of the search, the Attorney General shall provide notice to the United States person whose residence was searched of the fact of the search conducted pursuant to this chapter and shall identify any property of such person seized, altered, or reproduced during such search.
 
 #### (c) Statement for disclosure
 
-No information acquired pursuant to this subchapter shall be disclosed for law enforcement purposes unless such disclosure is accompanied by a statement that such information, or any information derived therefrom, may only be used in a criminal proceeding with the advance authorization of the Attorney General.
+No information acquired pursuant to this subchapter shall be disclosed for law enforcementpurposes unless such disclosure is accompanied by a statement that such information, or any information derived therefrom, may only be used in a criminal proceeding with the advance authorization of the Attorney General.
 
 #### (d) Notification by United States
 
@@ -44,7 +44,7 @@ Orders granting motions or requests under subsection (h) of this section, decisi
 
 #### (j) Notification of emergency execution of physical search; contents; postponement, suspension, or elimination
 
-(1) If an emergency execution of a physical search is authorized under section 1824(d) <sup>1</sup> of this title and a subsequent order approving the search is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to the search as the judge may determine in his discretion it is in the interests of justice to serve, notice of—
+(1) If an emergency execution of a physical search is authorized under section 1824(d) <sup>1</sup> of this title and a subsequent order approving the search is not obtained, the judge shall cause to be served on any United States person named inthe application and on such other United States persons subject to the search as the judge may determine in his discretion it is in the interests of justice to serve, notice of—
 
 &emsp;(A) the fact of the application;
 

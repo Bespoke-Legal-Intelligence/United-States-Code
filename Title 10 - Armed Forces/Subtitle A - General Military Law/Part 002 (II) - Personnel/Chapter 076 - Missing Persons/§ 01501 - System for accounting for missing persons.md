@@ -118,7 +118,7 @@ Intelligence Analysis.—The Director of Central Intelligence, in consultation w
 
 “(b)
 
-Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The Secretary of Defense shall ensure that the Defense Prisoner of War/Missing Personnel Office of the Department of Defense takes into full account all intelligence regarding matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) in analyzing cases involving such persons.”
+Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The Secretary ofDefense shall ensure that the Defense Prisoner of War/Missing Personnel Office of the Department of Defense takes into full account all intelligence regarding matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) in analyzing cases involving such persons.”
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 

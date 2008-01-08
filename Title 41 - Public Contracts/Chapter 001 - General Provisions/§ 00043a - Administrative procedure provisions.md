@@ -10,7 +10,7 @@ All wage determinations under section 35(a) of this title shall be made on the r
 
 #### (c) Judicial review
 
-Notwithstanding the inclusion of any stipulations required by any provision of sections 35 to45 of this title in any contract subject to said sections, any interested person shall have the right of judicial review of any legal question which might otherwise be raised, including, but not limited to, wage determinations and the interpretation of the terms “locality” and “open market”.
+Notwithstanding the inclusion of any stipulations required by any provision of sections 35 to 45 of this title in any contract subject to said sections, any interested person shall have the right of judicial review of any legal question which might otherwise be raised, including, but not limited to, wage determinations and the interpretation of the terms “locality” and “open market”.
 
 (June 30, 1936, ch. 881, §10, as added June 30, 1952, ch. 530, title III, §301, 66 Stat. 308; amended Pub. L. 103–355, title VII, §7201(2), (3), Oct. 13, 1994, 108 Stat. 3378; Pub. L. 104–106, div. D, title XLIII, §4321(f)(2), Feb. 10, 1996, 110 Stat. 675.)
 

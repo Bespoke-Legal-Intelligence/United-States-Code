@@ -58,7 +58,7 @@ Section 401 of Pub. L. 104–43 provided that: “The Congress finds that—
 
 &emsp;“(11) the President should continue to review all agreements between the United States and Canada to identify other actions that may be taken to convince Canada that any reinstatement of the transit license fee would be against Canada's long-term interests, and should immediately implement any actions which the President deems appropriate if Canada reinstates the fee;
 
-&emsp;“(12) the President should continue to convey to Canada in the strongest terms that the United States will not now, nor at any time in the future, tolerate any action by Canada which would impede or otherwise restrict the right of passage of vessels of the United States in a manner inconsistent with international law; and
+&emsp;“(12) the President should continue to convey to Canada in the strongest terms that the United Stateswill not now, nor at any time in the future, tolerate any action by Canada which would impede or otherwise restrict the right of passage of vessels of the United States in a manner inconsistent with international law; and
 
 &emsp;“(13) the United States should continue its efforts to seek expeditious agreement with Canada on appropriate fishery conservation and management measures that can be implemented through the Pacific Salmon Treaty to address issues of mutual concern.”
 

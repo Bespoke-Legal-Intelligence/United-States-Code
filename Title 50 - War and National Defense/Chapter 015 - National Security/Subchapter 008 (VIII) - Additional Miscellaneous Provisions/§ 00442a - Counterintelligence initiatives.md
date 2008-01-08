@@ -14,7 +14,7 @@
 
 #### (c) Completion of financial disclosure statements required for access to certain classified information
 
-(1) The Director of National Intelligence shall establish and implement a process by whicheach head of an element of the intelligence community directs that all employees of that element, in order to be granted access to classified information referred to in subsection (a) of section 1.3 of Executive Order No. 12968 (August 2, 1995; 60 Fed. Reg. 40245; 50 U.S.C. 435 note), submit financial disclosure forms as required under subsection (b) of such section.
+(1) The Director of National Intelligence shall establish and implement a process by which each head of an element of the intelligence community directs that all employees of that element, in order to be granted access to classified information referred to in subsection (a) of section 1.3 of Executive Order No. 12968 (August 2, 1995; 60 Fed. Reg. 40245; 50 U.S.C. 435 note), submit financial disclosure forms as required under subsection (b) of such section.
 
 (2) The Director shall carry out paragraph (1) through the Office of the National Counterintelligence Executive.
 

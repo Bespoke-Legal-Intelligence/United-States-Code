@@ -132,7 +132,7 @@ For purposes of this section, the term “negligence” includes any failure to 
 
 &emsp;&emsp;&emsp;&emsp;(I) the taxpayer establishes that none of such pricing methods was likely to result in a price that would clearly reflect income, the taxpayer used another pricing method to determine such price, and such other pricing method was likely to result in a price that would clearly reflect income,
 
-&emsp;&emsp;&emsp;&emsp;(II) the taxpayer has documentation (which was in existence as of the time offiling the return) which sets forth the determination of such price in accordance with such other method and which establishes that the requirements of subclause (I) were satisfied, and
+&emsp;&emsp;&emsp;&emsp;(II) the taxpayer has documentation (which was in existence as of the time of filing the return) which sets forth the determination of such price in accordance with such other method and which establishes that the requirements of subclause (I) were satisfied, and
 
 &emsp;&emsp;&emsp;&emsp;(III) the taxpayer provides such documentation to the Secretary within 30 days of request for such documentation.
 
@@ -296,7 +296,7 @@ Pub. L. 108–357, title VIII, §812(f), Oct. 22, 2004, 118 Stat. 1580, as amend
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section6662A of this title and amending this section and section 6664 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 6662A of this title and amending this section and section 6664 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].
 
 “(2)
 

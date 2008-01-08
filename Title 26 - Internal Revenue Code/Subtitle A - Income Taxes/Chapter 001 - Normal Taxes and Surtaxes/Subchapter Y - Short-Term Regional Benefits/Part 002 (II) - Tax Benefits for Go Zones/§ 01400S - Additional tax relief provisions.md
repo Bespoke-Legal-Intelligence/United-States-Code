@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in paragraph (2), section 170(b) shall not apply to qualifiedcontributions and such contributions shall not be taken into account for purposes of applying subsections (b) and (d) of section 170 to other contributions.
+&emsp;Except as otherwise provided in paragraph (2), section 170(b) shall not apply to qualified contributions and such contributions shall not be taken into account for purposes of applying subsections (b) and (d) of section 170 to other contributions.
 
 #### (2) Treatment of excess contributions
 
@@ -16,7 +16,7 @@
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Any qualified contribution shall be allowed only to the extent that the aggregate of such contributions does not exceed the excess of the taxpayer's contribution base (as defined in subparagraph (F) of section 170(b)(1)) over the amount of all other charitable contributions allowed under section 170(b)(1).
+&emsp;&emsp;&emsp;Any qualified contribution shall be allowed only to the extent that the aggregate of such contributions does not exceed the excess of the taxpayer's contribution base (as defined in subparagraph (G) of section 170(b)(1)) over the amount of all other charitable contributions allowed under section 170(b)(1).
 
 #### (ii) Carryover
 
@@ -114,7 +114,7 @@ In the case of any taxpayer determined by the Secretary to be affected by the Pr
 
 &emsp;&emsp;&emsp;(i) in the Wilma GO Zone, or
 
-&emsp;&emsp;&emsp;(ii) in the Hurricane Wilma disaster area (but outside the Wilma GO Zone) and such individual was displaced from such principal place of abode by reason of Hurricane Wilma.
+&emsp;&emsp;&emsp;(ii) in the Hurricane Wilma disaster area (but outside the Wilma GO Zone) and suchindividual was displaced from such principal place of abode by reason of Hurricane Wilma.
 
 #### (3) Applicable date
 
@@ -156,5 +156,9 @@ In the case of any taxpayer determined by the Secretary to be affected by the Pr
 
 With respect to taxable years beginning in 2005 or 2006, the Secretary may make such adjustments in the application of the internal revenue laws as may be necessary to ensure that taxpayers do not lose any deduction or credit or experience a change of filing status by reason of temporary relocations by reason of Hurricane Katrina, Hurricane Rita, or Hurricane Wilma. Any adjustments made under the preceding sentence shall ensure that an individual is not taken into account by more than one taxpayer with respect to the same tax benefit.
 
-(Added Pub. L. 109–135, title II, §201(a), Dec. 21, 2005, 119 Stat. 2604.)
+(Added Pub. L. 109–135, title II, §201(a), Dec. 21, 2005, 119 Stat. 2604; amended Pub. L. 110–172, §11(a)(14)(C), Dec. 29, 2007, 121 Stat. 2485.)
+
+#### Amendments
+
+2007—Subsec. (a)(2)(A)(i). Pub. L. 110–172 substituted “subparagraph (G)” for “subparagraph (F)”.
 

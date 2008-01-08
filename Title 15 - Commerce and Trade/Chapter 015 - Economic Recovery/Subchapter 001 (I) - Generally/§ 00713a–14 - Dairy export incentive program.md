@@ -38,7 +38,7 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 #### (e) Payment rates; publication in Federal Register or other public announcement
 
-(1) The payments made under the program shall be made at a rate or rates established or approved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, the world price of the dairy products, and any additional amount that may be required to assist in the development of world markets for United States dairy products.
+(1) The payments made under the program shall be made at a rate or rates established orapproved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, the world price of the dairy products, and any additional amount that may be required to assist in the development of world markets for United States dairy products.
 
 (2) Any such rate established or approved by the Secretary shall be published in the Federal Register or publicly announced through other appropriate means, and shall be at a level or levels as will encourage the exportation of United States dairy products by entities.
 

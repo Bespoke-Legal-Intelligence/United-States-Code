@@ -48,7 +48,7 @@ Transactions involving scrap paper, scrap plastic, scrap glass, scrap textiles, 
 
 (2) For purposes of paragraph (1)(C), melting of scrap metal does not include the thermal separation of 2 or more materials due to differences in their melting points (referred to as “sweating”).
 
-(3) For purposes of this subsection, the term “scrap metal” means bits and pieces of metal parts (e.g., bars, turnings, rods, sheets, wire) or metal pieces that may be combined together with bolts or soldering (e.g., radiators, scrap automobiles, railroad box cars), which when worn or superfluous can be recycled, except for scrap metals that the Administrator excludes from this definition by regulation.
+(3) For purposes of this subsection, the term “scrap metal” means bits and pieces of metalparts (e.g., bars, turnings, rods, sheets, wire) or metal pieces that may be combined together with bolts or soldering (e.g., radiators, scrap automobiles, railroad box cars), which when worn or superfluous can be recycled, except for scrap metals that the Administrator excludes from this definition by regulation.
 
 #### (e) Transactions involving batteries
 
@@ -78,7 +78,7 @@ Transactions involving spent lead-acid batteries, spent nickel-cadmium batteries
 
 &emsp;(C) the person failed to exercise reasonable care with respect to the management and handling of the recyclable material (including adhering to customary industry practices current at the time of the recycling transaction designed to minimize, through source control, contamination of the recyclable material by hazardous substances).
 
-(2) For purposes of this subsection, an objectively reasonable basis for belief shall be determined using criteria that include (but are not limited to) the size of the person's business, customary industry practices (including customary industry practices current at the time of the recycling transaction designed to minimize, through source control, contamination of the recyclable material by hazardous substances), the price paid in the recycling transaction, and the ability of the person to detect the nature of the consuming facility's operations concerning its handling, processing, reclamation, or othermanagement activities associated with the recyclable material.
+(2) For purposes of this subsection, an objectively reasonable basis for belief shall be determined using criteria that include (but are not limited to) the size of the person's business, customary industry practices (including customary industry practices current at the time of the recycling transaction designed to minimize, through source control, contamination of the recyclable material by hazardous substances), the price paid in the recycling transaction, and the ability of the person to detect the nature of the consuming facility's operations concerning its handling, processing, reclamation, or other management activities associated with the recyclable material.
 
 (3) For purposes of this subsection, a requirement to obtain a permit applicable to the handling, processing, reclamation, or other management activities associated with recyclable material shall be deemed to be a substantive provision.
 

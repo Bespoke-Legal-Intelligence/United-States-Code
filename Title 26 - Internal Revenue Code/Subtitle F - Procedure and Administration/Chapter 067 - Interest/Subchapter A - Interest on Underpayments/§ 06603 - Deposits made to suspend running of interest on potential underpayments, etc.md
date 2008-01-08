@@ -70,5 +70,5 @@ In general.—The amendments made by this section \[enacting this section\] shal
 
 “(2)
 
-Coordination with deposits made under revenue procedure 84–58.—In the case of an amount held by the Secretary of the Treasury or his delegate on the date of the enactment of this Act as a deposit in thenature of a cash bond deposit pursuant to Revenue Procedure 84–58, the date that the taxpayer identifies such amount as a deposit made pursuant to section 6603 of the Internal Revenue Code (as added by this Act) shall be treated as the date such amount is deposited for purposes of such section 6603.”
+Coordination with deposits made under revenue procedure 84–58.—In the case of an amount held by the Secretary of the Treasury or his delegate on the date of the enactment of this Act as a deposit in the nature of a cash bond deposit pursuant to Revenue Procedure 84–58, the date that the taxpayer identifies such amount as a deposit made pursuant to section 6603 of the Internal Revenue Code (as added by this Act) shall be treated as the date such amount is deposited for purposes of such section 6603.”
 

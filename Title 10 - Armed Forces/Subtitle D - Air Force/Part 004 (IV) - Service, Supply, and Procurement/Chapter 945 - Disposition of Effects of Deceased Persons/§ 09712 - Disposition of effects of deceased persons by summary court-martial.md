@@ -126,5 +126,3 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-§9713
-

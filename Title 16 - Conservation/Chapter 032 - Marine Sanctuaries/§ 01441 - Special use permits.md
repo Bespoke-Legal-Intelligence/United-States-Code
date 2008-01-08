@@ -68,7 +68,7 @@ Each person issued a permit under this section shall submit an annual report to 
 
 #### (g) Fishing
 
-Nothing in this section shall be considered to require a person to obtain a permit under thissection for the conduct of any fishing activities in a national marine sanctuary.
+Nothing in this section shall be considered to require a person to obtain a permit under this section for the conduct of any fishing activities in a national marine sanctuary.
 
 (Pub. L. 92–532, title III, §310, as added Pub. L. 100–627, title II, §203(3), Nov. 7, 1988, 102 Stat. 3214; amended Pub. L. 106–513, §11, Nov. 13, 2000, 114 Stat. 2389.)
 

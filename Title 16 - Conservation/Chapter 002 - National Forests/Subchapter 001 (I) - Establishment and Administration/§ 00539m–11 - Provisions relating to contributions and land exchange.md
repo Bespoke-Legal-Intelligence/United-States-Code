@@ -74,7 +74,7 @@
 
 #### (5) Maximum reimbursement
 
-&emsp;No party shall be reimbursed in excess of $750,000 under this section, and the totalamount reimbursed in accordance with this section shall not exceed $3,000,000.
+&emsp;No party shall be reimbursed in excess of $750,000 under this section, and the total amount reimbursed in accordance with this section shall not exceed $3,000,000.
 
 (Pub. L. 108–7, div. F, title IV, §413, Feb. 20, 2003, 117 Stat. 292.)
 
@@ -85,6 +85,10 @@ Sections 539m to 539m–12 of this title, referred to in subsecs. (a)(1)(B) and 
 Section 1716(b) of title 43, referred to in subsec. (b)(2), was in the original “section 206(b) of the Federal Land Policy and Management Act” and was translated as reading “section 206(b) of the Federal Land Policy and Management Act of 1976” to reflect the probable intent of Congress.
 
 The Equal Access to Justice Act, referred to in subsec. (d)(2), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 504 of Title 5, Government Organization and Employees, and Tables.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “28”.</i>
 

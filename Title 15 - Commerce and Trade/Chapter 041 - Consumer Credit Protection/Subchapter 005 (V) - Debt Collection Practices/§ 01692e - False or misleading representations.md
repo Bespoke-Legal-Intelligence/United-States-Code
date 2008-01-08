@@ -36,7 +36,7 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 &emsp;(13) The false representation or implication that documents are legal process.
 
-&emsp;(14) The use of any business, company, or organization name other than the true name of the debt collector's business, company, or organization.
+&emsp;(14) The use of any business, company, or organization name other than the true name ofthe debt collector's business, company, or organization.
 
 &emsp;(15) The false representation or implication that documents are not legal process forms or do not require action by the consumer.
 

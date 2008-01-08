@@ -4,7 +4,7 @@ Section 591, R.S. §5208; acts July 12, 1882, ch. 290, §13, 22 Stat. 166; Sept.
 
 Section 592, R.S. §5209; acts Sept. 26, 1918, ch. 177, §7, 40 Stat. 972; Aug. 23, 1935, ch. 614, title III, §316, 49 Stat. 712, related to embezzlement. See sections 334, 656, and 1005 of Title 18, Crimes and Criminal Procedure.
 
-Section 593, acts Dec. 23, 1913, ch. 6, §22(a), 38 Stat. 272; Sept. 26, 1918, ch. 177, §5, 40 Stat. 970; Feb. 25, 1927, ch. 191, §15, 44 Stat. 1232; Aug. 23, 1935, ch. 614, title III, §326(a), 49 Stat. 715, related to loans and gratuities.
+Section 593, acts Dec. 23, 1913, ch. 6, §22(a), 38 Stat. 272; Sept. 26, 1918, ch. 177, §5, 40 Stat. 970; Feb. 25, 1927,ch. 191, §15, 44 Stat. 1232; Aug. 23, 1935, ch. 614, title III, §326(a), 49 Stat. 715, related to loans and gratuities.
 
 Section 594, acts Dec. 23, 1913, ch. 6, §22(b), 38 Stat. 272; Sept. 26, 1918, ch. 177, §5, 40 Stat. 970; Aug. 23, 1935, ch. 614, title III, §326(b), 49 Stat. 716, related to bank examiners performing other services for compensation and disclosure of information. See sections 1906 and 1909 of Title 18, Crimes and Criminal Procedure.
 

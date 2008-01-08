@@ -24,7 +24,7 @@ A local educational agency that receives a grant under subsection (a) of this se
 
 #### (c) Application
 
-To be eligible to receive an <sup>1</sup> grant under this section, a local educational agency shall submitan application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+To be eligible to receive an <sup>1</sup> grant under this section, a local educational agency shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 (Pub. L. 89–10, title II, §2351, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1666.)
 

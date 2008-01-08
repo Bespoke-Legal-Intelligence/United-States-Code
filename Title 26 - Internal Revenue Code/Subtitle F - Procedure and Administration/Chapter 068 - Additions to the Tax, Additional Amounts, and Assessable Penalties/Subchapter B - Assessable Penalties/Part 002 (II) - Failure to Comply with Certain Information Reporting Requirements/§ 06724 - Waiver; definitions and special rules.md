@@ -48,7 +48,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iii) section 6045(a) or (d) (relating to returns of brokers),
 
-&emsp;&emsp;&emsp;(iv) section 6050H(a) (relating to mortgage interest received in trade or business from individuals),
+&emsp;&emsp;&emsp;(iv) section 6050H(a) or (h)(1) (relating to mortgage interest received in trade or business from individuals),
 
 &emsp;&emsp;&emsp;(v) section 6050I(a) or (g)(1) (relating to cash received in trade or business, etc.),
 
@@ -116,7 +116,7 @@ For purposes of this part—
 
 &emsp;&emsp;(J) section 6050A(b) (relating to reporting requirements of certain fishing boat operators),
 
-&emsp;&emsp;(K) section 6050H(d) relating <sup>3</sup> to returns relating to mortgage interest received in trade or business from individuals),
+&emsp;&emsp;(K) section 6050H(d) or (h)(2) relating <sup>3</sup> to returns relating to mortgage interest received in trade or business from individuals),
 
 &emsp;&emsp;(L) section 6050I(e) or paragraph (4) or (5) of section 6050I(g) (relating to cash received in trade or business, etc.),
 
@@ -190,7 +190,7 @@ For purposes of this part—
 
 If any partnership return under section 6031(a) is required under section 6011(e) to be filed on magnetic media or in other machine-readable form, for purposes of this part, each schedule required to be included with such return with respect to each partner shall be treated as a separate information return.
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, title I, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII, §§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388–465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908; Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(<i>o</i>)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819; Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962; Pub. L. 108–357, title VIII, §§805(b), 853(d)(2)(L), (M), Oct. 22, 2004, 118 Stat. 1574, 1613; Pub. L. 109–280, title VIII, §844(d)(2), title XII, §1211(b)(1), Aug. 17, 2006, 120 Stat. 1012, 1073; Pub. L. 109–432, div. A, title IV, §403(c)(1), (2), Dec. 20, 2006, 120 Stat. 2955.)
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, title I, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII, §§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388–465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908; Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(<i>o</i>)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819; Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962; Pub. L. 108–357, title VIII, §§805(b),853(d)(2)(L), (M), Oct. 22, 2004, 118 Stat. 1574, 1613; Pub. L. 109–280, title VIII, §844(d)(2), title XII, §1211(b)(1), Aug. 17, 2006, 120 Stat. 1012, 1073; Pub. L. 109–432, div. A, title IV, §403(c)(1), (2), Dec. 20, 2006, 120 Stat. 2955; Pub. L. 110–172, §11(b)(2), Dec. 29, 2007, 121 Stat. 2488.)
 
 #### Codification
 
@@ -200,6 +200,10 @@ Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 10
 
 #### Amendments
 
+2007—Subsec. (d)(1)(B)(iv). Pub. L. 110–172, §11(b)(2)(A), inserted “or (h)(1)” after “section 6050H(a)”.
+
+Subsec. (d)(2)(K). Pub. L. 110–172, §11(b)(2)(B), inserted “or (h)(2)” after “section 6050H(d)”.
+
 2006—Subsec. (d)(1)(B)(xiv) to (xvi). Pub. L. 109–280, §1211(b)(1), added cl. (xiv) and redesignated former cls. (xiv) and (xv) as (xv) and (xvi), respectively. Former cl. (xvi) redesignated (xvii). See Codification note above.
 
 Subsec. (d)(1)(B)(xvii). Pub. L. 109–432, §403(c)(1), which directed amendment of cl. (xvii) by striking out “or” at end, could not be executed because “or” did not appear subsequent to amendment by Pub. L. 109–280, §844(d)(2)(A). See below.
@@ -208,7 +212,7 @@ Pub. L. 109–280, §1211(b)(1), redesignated cl. (xvi) as (xvii). Former cl. (x
 
 Pub. L. 109–280, §844(d)(2)(A), struck out “or” at end.
 
-Subsec. (d)(1)(B)(xviii). Pub. L. 109–432, §403(c)(1), which directed amendment of cl. (xviii) by substituting “or” for “and” at end, could not be executed because“and” did not appear at end subsequent to amendment by Pub. L. 109–280, §844(d)(2)(A). See below.
+Subsec. (d)(1)(B)(xviii). Pub. L. 109–432, §403(c)(1), which directed amendment of cl. (xviii) by substituting “or” for “and” at end, could not be executed because “and” did not appear at end subsequent to amendment by Pub. L. 109–280, §844(d)(2)(A). See below.
 
 Pub. L. 109–280, §1211(b)(1), redesignated cl. (xvii) as (xviii). Former cl. (xviii) redesignated (xix) relating to section 264(f)(5)(A)(iv). See Codification note above.
 
@@ -412,6 +416,10 @@ Pub. L. 100–418, §1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A) 
 
 Subsec. (d)(2)(B). Pub. L. 100–647, §1015(a), substituted “6031(b) or (c)” for “6031(b)”.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Tax Relief and Health Care Act of 2006, Pub. L. 109–432, to which such amendment relates, see section 11(b)(3) of Pub. L. 110–172, set out as a note under section 168 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–432 applicable to calendar years beginning after Dec. 20, 2006, see section 403(d) of Pub. L. 109–432, set out as a note under section 6039 of this title.
@@ -502,7 +510,7 @@ In general.—In the case of fuel—
 
 &emsp;&emsp;“(iii) with respect to which a claim is not permitted to be filed for any quarter under section 6427(i) of the 1986 Code,
 
-> &emsp;the Secretary of the Treasury or the Secretary's delegate shall pay (with interest) to such person the amount of tax imposed on such fuel under section4091 of the 1986 Code (to the extent not attributable to amounts described in section 6427(<i>l</i>)(3) of the 1986 Code) if claim therefor is filed not later than June 30, 1989. Not more than 1 claim may be filed under the preceding sentence and such claim shall not be taken into account under section 6427(i) of the 1986 Code. Any claim for refund filed under this paragraph shall be considered a claim for refund under section 6427(<i>l</i>) of the 1986 Code.
+> &emsp;the Secretary of the Treasury or the Secretary's delegate shall pay (with interest) to such person the amount of tax imposed on such fuel under section 4091 of the 1986 Code (to the extent not attributable to amounts described in section 6427(<i>l</i>)(3) of the 1986 Code) if claim therefor is filed not later than June 30, 1989. Not more than 1 claim may be filed under the preceding sentence and such claim shall not be taken into account under section 6427(i) of the 1986 Code. Any claim for refund filed under this paragraph shall be considered a claim for refund under section 6427(<i>l</i>) of the 1986 Code.
 
 &emsp;“(B)
 

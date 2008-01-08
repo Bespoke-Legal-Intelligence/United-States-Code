@@ -6,7 +6,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 &emsp;(1) the trust instrument—
 
-&emsp;&emsp;(A) except as provided in regulations prescribed by the Secretary, requires that atleast 1 trustee of the trust be an individual citizen of the United States or a domestic corporation, and
+&emsp;&emsp;(A) except as provided in regulations prescribed by the Secretary, requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation, and
 
 &emsp;&emsp;(B) provides that no distribution (other than a distribution of income) may be made from the trust unless a trustee who is an individual citizen of the United States or a domestic corporation has the right to withhold from such distribution the tax imposed by this section on such distribution,
 
@@ -92,7 +92,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (7) Treatment of tax
 
-&emsp;For purposes of section 2056(d), any tax paid under paragraph (1) shall be treated as a taxpaid under section 2001 with respect to the estate of the decedent.
+&emsp;For purposes of section 2056(d), any tax paid under paragraph (1) shall be treated as a tax paid under section 2001 with respect to the estate of the decedent.
 
 #### (8) Lien for tax
 
@@ -110,7 +110,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (B) Section 303
 
-&emsp;&emsp;If the estate of the surviving spouse meets the requirements of section 303 with respect to any property described in subparagraph (A), for purposes of section 303, the tax imposed by paragraph (1)(B) with respect to such property shall be treated as a Federal estate tax payable with respect to the estate of the surviving spouse.
+&emsp;&emsp;If the estate of the surviving spouse meets the requirements of section 303 with respect to any property described in subparagraph (A), for purposes of section 303, the tax imposed by paragraph (1)(B) with respect to such property shall be treated as a Federalestate tax payable with respect to the estate of the surviving spouse.
 
 #### (C) Section 6161(a)(2)
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (d) Election
 
-An election under this section with respect to any trust shall be made by the executor on the return of the tax imposed by section 2001. Suchan election, once made, shall be irrevocable. No election may be made under this section on any return if such return is filed more than one year after the time prescribed by law (including extensions) for filing such return.
+An election under this section with respect to any trust shall be made by the executor on the return of the tax imposed by section 2001. Such an election, once made, shall be irrevocable. No election may be made under this section on any return if such return is filed more than one year after the time prescribed by law (including extensions) for filing such return.
 
 #### (e) Regulations
 
@@ -190,7 +190,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 Subsec. (c)(3). Pub. L. 105–34, §1312(a), added par. (3).
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §11702(g)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
+1990—Subsec. (a)(1). Pub. L. 101–508, §11702(g)(2)(A), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
 
 Subsec. (b)(2)(B)(ii). Pub. L. 101–508, §11704(a)(15), substituted “therefor” for “therefore” in concluding provisions.
 
@@ -252,7 +252,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to estates of decedents dying after Nov. 10, 1988, see section 5033(d)(1) of Pub. L. 100–647, setout as an Effective Date of 1988 Amendment note under section 2056 of this title.
+Section applicable to estates of decedents dying after Nov. 10, 1988, see section 5033(d)(1) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 2056 of this title.
 
 #### Transitional Rule
 

@@ -78,9 +78,9 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified zone academy” means any public school (or academic program within a public school) which is established by and operated under the supervision of an eligible local education agency to provide education or training below the postsecondary level if—
+&emsp;&emsp;The term “qualified zone academy” means any public school (or academic programwithin a public school) which is established by and operated under the supervision of an eligible local education agency to provide education or training below the postsecondary level if—
 
-&emsp;&emsp;&emsp;(i) such public school or program (as the case may be) is designed in cooperationwith business to enhance the academic curriculum, increase graduation and employment rates, and better prepare students for the rigors of college and the increasingly complex workforce,
+&emsp;&emsp;&emsp;(i) such public school or program (as the case may be) is designed in cooperation with business to enhance the academic curriculum, increase graduation and employment rates, and better prepare students for the rigors of college and the increasingly complex workforce,
 
 &emsp;&emsp;&emsp;(ii) students in such public school or program (as the case may be) will be subject to the same academic standards and assessments as other students educated by the eligible local education agency,
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (3) Failure to spend required amount of bond proceeds within 5 years
 
-&emsp;To the extent that less than 95 percent of the proceeds of such issue are expended by the close of the 5-year period beginning on the date of issuance (or if an extension has been obtained under paragraph (2), by the close of the extended period), the issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section 142.
+&emsp;To the extent that less than 95 percent of the proceeds of such issue are expended by the close of the 5-year period beginning on the date of issuance (or if an extension has beenobtained under paragraph (2), by the close of the extended period), the issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section 142.
 
 #### (g) Special rules relating to arbitrage
 

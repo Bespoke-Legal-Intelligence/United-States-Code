@@ -12,7 +12,7 @@
 
 #### (3) Authorizing payment for drugs not covered under rebate agreements
 
-&emsp;Paragraph (1), and section 1396b(i)(10)(A) of this title, shall not apply to the dispensing of a single source drug or innovator multiple source drug if (A)(i) the State has made a determination that the availability of the drug is essential to the health of beneficiaries under the State plan for medical assistance; (ii) such drug has been given a rating of 1–A by the Food and Drug Administration; and (iii)(I) the physician has obtained approval for use of the drug in advance of its dispensing in accordance with a prior authorization program described in subsection (d) of this section, or (II) the Secretary has reviewed and approved the State's determination under subparagraph (A); or (B) the Secretary determines that in the first calendar quarter of 1991, there were extenuating circumstances.
+&emsp;Paragraph (1), and section 1396b(i)(10)(A) of this title, shall not apply to the dispensing of a single source drug or innovator multiple source drug if (A)(i) the State has made a determination that the availability of the drug is essential to the health of beneficiaries under the State plan for medical assistance; (ii) such drug has been given a rating of 1–A bythe Food and Drug Administration; and (iii)(I) the physician has obtained approval for use of the drug in advance of its dispensing in accordance with a prior authorization program described in subsection (d) of this section, or (II) the Secretary has reviewed and approved the State's determination under subparagraph (A); or (B) the Secretary determines that in the first calendar quarter of 1991, there were extenuating circumstances.
 
 #### (4) Effect on existing agreements
 
@@ -38,7 +38,7 @@
 
 #### (ii) State agency
 
-&emsp;&emsp;&emsp;Each such single State agency shall provide a means by which a covered entity shall indicate on any drug reimbursement claims form (or format, where electronic claims management is used) that a unit of the drug that is the subject of the form issubject to an agreement under section 256b of this title, and not submit to any manufacturer a claim for a rebate payment under subsection (b) of this section with respect to such a drug.
+&emsp;&emsp;&emsp;Each such single State agency shall provide a means by which a covered entity shall indicate on any drug reimbursement claims form (or format, where electronic claims management is used) that a unit of the drug that is the subject of the form is subject to an agreement under section 256b of this title, and not submit to any manufacturer a claim for a rebate payment under subsection (b) of this section with respect to such a drug.
 
 #### (D) Effect of subsequent amendments
 
@@ -60,7 +60,7 @@
 
 #### (C) Determination of compliance
 
-&emsp;&emsp;A manufacturer is deemed to meet the requirements of this paragraph if the manufacturer establishes to the satisfaction of the Secretary that the manufacturer would comply (and has offered to comply) with the provisions of section 8126 of title 38, (as in effect immediately after November 4, 1992) and would have entered into an agreement under such section (as such section was in effect at such time), but for a legislative change in such section after November 4, 1992.
+&emsp;&emsp;A manufacturer is deemed to meet the requirements of this paragraph if the manufacturer establishes to the satisfaction of the Secretary that the manufacturer would comply (and has offered to comply) with the provisions of section 8126 of title 38, (as in effectimmediately after November 4, 1992) and would have entered into an agreement under such section (as such section was in effect at such time), but for a legislative change in such section after November 4, 1992.
 
 #### (7) Requirement for submission of utilization data for certain physician administered drugs
 
@@ -96,7 +96,7 @@
 
 #### (B) Offset against medical assistance
 
-&emsp;&emsp;Amounts received by a State under this section (or under an agreement authorizedby the Secretary under subsection (a)(1) of this section or an agreement described in subsection (a)(4) of this section) in any quarter shall be considered to be a reduction in the amount expended under the State plan in the quarter for medical assistance for purposes of section 1396b(a)(1) of this title.
+&emsp;&emsp;Amounts received by a State under this section (or under an agreement authorized by the Secretary under subsection (a)(1) of this section or an agreement described in subsection (a)(4) of this section) in any quarter shall be considered to be a reduction in the amount expended under the State plan in the quarter for medical assistance for purposes of section 1396b(a)(1) of this title.
 
 #### (2) State provision of information
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) on the average manufacturer price (as defined in subsection (k)(1)) for covered outpatient drugs for the rebate period under the agreement (including for all such drugs that are sold under a new drug application approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(c)\]); and
 
-&emsp;&emsp;&emsp;&emsp;(II) for single source drugs and innovator multiple source drugs (including all such drugs that are sold under a new drug application approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act), on the manufacturer's best price (as defined in subsection (c)(1)(C)) for such drugs for the rebate period under the agreement;
+&emsp;&emsp;&emsp;&emsp;(II) for single source drugs and innovator multiple source drugs (including allsuch drugs that are sold under a new drug application approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act), on the manufacturer's best price (as defined in subsection (c)(1)(C)) for such drugs for the rebate period under the agreement;
 
 &emsp;&emsp;&emsp;(ii) not later than 30 days after the date of entering into an agreement under this section on the average manufacturer price (as defined in subsection (k)(1) of this section) as of October 1, 1990 <sup>2</sup> for each of the manufacturer's covered outpatient drugs (including for such drugs that are sold under a new drug application approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act); and
 
@@ -142,7 +142,7 @@
 
 #### (i) Failure to provide timely information
 
-&emsp;&emsp;&emsp;In the case of a manufacturer with an agreement under this section that fails toprovide information required under subparagraph (A) on a timely basis, the amount of the penalty shall be increased by $10,000 for each day in which such information has not been provided and such amount shall be paid to the Treasury, and, if such information is not reported within 90 days of the deadline imposed, the agreement shall be suspended for services furnished after the end of such 90-day period and until the date such information is reported (but in no case shall such suspension be for a period of less than 30 days).
+&emsp;&emsp;&emsp;In the case of a manufacturer with an agreement under this section that fails to provide information required under subparagraph (A) on a timely basis, the amount of the penalty shall be increased by $10,000 for each day in which such information has not been provided and such amount shall be paid to the Treasury, and, if such information is not reported within 90 days of the deadline imposed, the agreement shall be suspended for services furnished after the end of such 90-day period and until the date such information is reported (but in no case shall such suspension be for a period of less than 30 days).
 
 #### (ii) False information
 
@@ -204,7 +204,7 @@
 
 &emsp;&emsp;Except as provided in paragraph (2), the amount of the rebate specified in this subsection for a rebate period (as defined in subsection (k)(8) of this section) with respect to each dosage form and strength of a single source drug or an innovator multiple source drug shall be equal to the product of—
 
-&emsp;&emsp;&emsp;(i) the total number of units of each dosage form and strength paid for under theState plan in the rebate period (as reported by the State); and
+&emsp;&emsp;&emsp;(i) the total number of units of each dosage form and strength paid for under the State plan in the rebate period (as reported by the State); and
 
 &emsp;&emsp;&emsp;(ii) subject to subparagraph (B)(ii), the greater of—
 
@@ -394,7 +394,7 @@
 
 &emsp;&emsp;(B) Except as provided in subparagraph (C), the formulary includes the covered outpatient drugs of any manufacturer which has entered into and complies with an agreement under subsection (a) of this section (other than any drug excluded from coverage or otherwise restricted under paragraph (2)).
 
-&emsp;&emsp;(C) A covered outpatient drug may be excluded with respect to the treatment of a specific disease or condition for an identified population (if any) only if, based on the drug's labeling (or, in the case of a drug the prescribed use of which is not approved under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] but is a medically accepted indication, based on information from the appropriate compendia described in subsection (k)(6) of this section), the excluded drug does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome of such treatment for such population over other drugs included in the formulary and there is a written explanation (available to the public) of the basis for the exclusion.
+&emsp;&emsp;(C) A covered outpatient drug may be excluded with respect to the treatment of a specific disease or condition for an identified population (if any) only if, based on the drug's labeling (or, in the case of a drug the prescribed use of which is not approved under the Federal Food, Drug, and CosmeticAct \[21 U.S.C. 301 et seq.\] but is a medically accepted indication, based on information from the appropriate compendia described in subsection (k)(6) of this section), the excluded drug does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome of such treatment for such population over other drugs included in the formulary and there is a written explanation (available to the public) of the basis for the exclusion.
 
 &emsp;&emsp;(D) The State plan permits coverage of a drug excluded from the formulary (other than any drug excluded from coverage or otherwise restricted under paragraph (2)) pursuant to a prior authorization program that is consistent with paragraph (5).
 
@@ -430,7 +430,7 @@
 
 #### (3) Effect on State maximum allowable cost limitations
 
-&emsp;This section shall not supersede or affect provisions in effect prior to January 1, 1991, or after December 31, 1994, relating to any maximum allowable cost limitation established by a State for payment by the State for covered outpatient drugs, and rebates shall be made under this section without regard to whetheror not payment by the State for such drugs is subject to such a limitation or the amount of such a limitation.
+&emsp;This section shall not supersede or affect provisions in effect prior to January 1, 1991, or after December 31, 1994, relating to any maximum allowable cost limitation established by a State for payment by the State for covered outpatient drugs, and rebates shall be made under this section without regard to whether or not payment by the State for such drugs is subject to such a limitation or the amount of such a limitation.
 
 #### \[(4)\] <sup>3</sup> Establishment of upper payment limits
 
@@ -642,7 +642,7 @@
 
 (1) Covered outpatient drugs dispensed by health maintenance organizations, including medicaid managed care organizations that contract under section 1396b(m) of this title, are not subject to the requirements of this section.
 
-(2) The State plan shall provide that a hospital (providing medical assistance under such plan) that dispenses covered outpatient drugs using drug formulary systems, and bills the plan no more than the hospital's purchasing costs for covered outpatient drugs (as determined under the State plan) shall not be subject to the requirements of this section.
+(2) The State plan shall provide that a hospital (providing medical assistance under such plan) that dispenses covered outpatient drugs using drug formulary systems, and bills the plan nomore than the hospital's purchasing costs for covered outpatient drugs (as determined under the State plan) shall not be subject to the requirements of this section.
 
 (3) Nothing in this subsection shall be construed as providing that amounts for covered outpatient drugs paid by the institutions described in this subsection should not be taken into account for purposes of determining the best price as described in subsection (c) of this section.
 
@@ -706,7 +706,7 @@ In this section—
 
 &emsp;&emsp;(H) Renal dialysis.
 
-> &emsp;Such term also does not include any such drug or product for which a National Drug Code number is not required by the Food and Drug Administration or a drug or biological <sup>9</sup> used for a medical indication which is not a medically accepted indication. Any drug, biological product, or insulin excluded from the definition of such term as a result of this paragraph shall be treated as a covered outpatient drug for purposes of determining the best price (as defined in subsection (c)(1)(C) of this section) for such drug, biological product, or insulin.
+> &emsp;Such term also does not include any such drug or product for which a National Drug Code number is not required by the Food and Drug Administration or a drug or biological <sup>9</sup> used for a medical indication which is not a medically accepted indication. Any drug, biological product, or insulin excluded from the definition of such term as a result of this paragraph shall be treated as a covered outpatient drug for purposes of determining the best price (asdefined in subsection (c)(1)(C) of this section) for such drug, biological product, or insulin.
 
 #### (4) Nonprescription drugs
 
@@ -774,7 +774,7 @@ In this section—
 
 &emsp;The term “State agency” means the agency designated under section 1396a(a)(5) of this title to administer or supervise the administration of the State plan for medical assistance.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1927, as added Pub. L. 101–508, title IV, §4401(a)(3), Nov. 5, 1990, 104 Stat. 1388–143; amended Pub. L. 102–585, title VI, §601(a)–(c), Nov. 4, 1992, 106 Stat. 4962–4964; Pub. L. 103–18, §2(a), Apr. 12, 1993, 107 Stat. 54; Pub. L. 103–66, title XIII, §13602(a), Aug. 10, 1993, 107 Stat. 613; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(x), 4756, Aug. 5, 1997, 111 Stat. 493, 527; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§606(a), 608(u)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396, 1501A–398; Pub. L. 108–173, title I, §§101(e)(4), (9), 103(e)(1), 105(b), title III, §303(i)(4), title IX, §900(e)(1)(K), (L), title X, §1002, Dec. 8, 2003, 117 Stat. 2151, 2152, 2159, 2166, 2254, 2372, 2431; Pub. L. 109–91, title I, §104(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–171, title VI, §§6001(a)–(c)(2), (d)–(f)(2), 6002(a), 6003(a), (b), 6004(a), Feb. 8, 2006, 120 Stat. 54–61; Pub. L. 109–432, div. B, title IV, §405(c)(2)(A)(ii), Dec. 20, 2006, 120 Stat. 3000.)
+(Aug. 14, 1935, ch. 531, title XIX, §1927, as added Pub. L. 101–508, title IV, §4401(a)(3), Nov. 5, 1990, 104 Stat. 1388–143; amended Pub. L. 102–585, title VI, §601(a)–(c), Nov. 4, 1992, 106 Stat. 4962–4964; Pub. L. 103–18, §2(a), Apr. 12, 1993, 107 Stat. 54; Pub. L. 103–66, title XIII, §13602(a), Aug. 10, 1993, 107 Stat. 613; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(x), 4756, Aug. 5, 1997, 111 Stat. 493,527; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§606(a), 608(u)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396, 1501A–398; Pub. L. 108–173, title I, §§101(e)(4), (9), 103(e)(1), 105(b), title III, §303(i)(4), title IX, §900(e)(1)(K), (L), title X, §1002, Dec. 8, 2003, 117 Stat. 2151, 2152, 2159, 2166, 2254, 2372, 2431; Pub. L. 109–91, title I, §104(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–171, title VI, §§6001(a)–(c)(2), (d)–(f)(2), 6002(a), 6003(a), (b), 6004(a), Feb. 8, 2006, 120 Stat. 54–61; Pub. L. 109–432, div. B, title IV, §405(c)(2)(A)(ii), Dec. 20, 2006, 120 Stat. 3000.)
 
 #### References in Text
 
@@ -912,7 +912,7 @@ Subsec. (k)(7)(A)(i). Pub. L. 103–66, §13602(a)(2)(B)(iv), substituted “reb
 
 Subsec. (k)(8), (9). Pub. L. 103–66, §13602(a)(2)(B)(v), added par. (8) and redesignated former par. (8) as (9).
 
-1992—Subsec. (a)(1). Pub. L. 102–585, §601(b)(1), substituted “manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6)” for “manufacturer)”.
+1992—Subsec. (a)(1). Pub. L. 102–585, §601(b)(1), substituted “manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchasedby a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6)” for “manufacturer)”.
 
 Subsec. (a)(5), (6). Pub. L. 102–585, §601(b)(2), added pars. (5) and (6).
 
@@ -960,7 +960,7 @@ Amendment by section 1000(a)(6) \[title VI, §608(u)\] of Pub. L. 106–113 effe
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed onor after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
+Amendment by Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
 
 #### Effective Date of 1993 Amendments
 

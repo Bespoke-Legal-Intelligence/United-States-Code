@@ -74,3 +74,7 @@ The Foreign Assistance Act of 1961, referred to in par. (13)(A), is Pub. L. 87�
 
 2006—Par. (13)(A). Pub. L. 109–364 struck out “or 5” before “of part II”.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

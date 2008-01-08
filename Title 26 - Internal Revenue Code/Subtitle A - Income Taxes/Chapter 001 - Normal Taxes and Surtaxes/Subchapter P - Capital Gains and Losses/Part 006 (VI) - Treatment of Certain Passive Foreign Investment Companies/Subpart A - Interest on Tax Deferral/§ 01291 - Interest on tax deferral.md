@@ -218,7 +218,7 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 #### (B) Excess distribution taxes
 
-&emsp;&emsp;The term “excess distribution taxes” means, with respect to any distribution, the portion of the creditable foreign taxes with respect to such distribution which is attributable (on a pro rata basis) to the portion of such distribution which is an excess distribution.
+&emsp;&emsp;The term “excess distribution taxes” means, with respect to any distribution, theportion of the creditable foreign taxes with respect to such distribution which is attributable (on a pro rata basis) to the portion of such distribution which is an excess distribution.
 
 #### (C) Section 1248 gain
 

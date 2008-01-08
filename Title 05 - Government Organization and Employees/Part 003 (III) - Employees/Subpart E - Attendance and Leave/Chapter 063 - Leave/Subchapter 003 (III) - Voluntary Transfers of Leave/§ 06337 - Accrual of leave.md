@@ -30,7 +30,7 @@
 
 &emsp;(B) if there remains, as of the date the emergency so terminates, any leave which became available to such employee under paragraph (1)(B), such leave shall cease to be available for any purpose.
 
-(d) Nothing in this section shall be considered to prevent, with respect to a continuing medicalemergency, further transfers of leave for use after leave accrued under this section has been exhausted by the employee.
+(d) Nothing in this section shall be considered to prevent, with respect to a continuing medical emergency, further transfers of leave for use after leave accrued under this section has been exhausted by the employee.
 
 (Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2837; amended Pub. L. 103–103, §4, Oct. 8, 1993, 107 Stat. 1022.)
 

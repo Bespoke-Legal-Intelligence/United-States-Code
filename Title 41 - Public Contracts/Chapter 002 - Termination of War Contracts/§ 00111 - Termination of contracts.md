@@ -4,7 +4,7 @@
 
 In order to facilitate the efficient use of materials, manpower, and facilities for war and civilian purposes, each contracting agency—
 
-&emsp;(1) shall provide its prime contractors with notice of termination of their prime contracts as far in advance of the cessation of work thereunder as is feasible and consistent with the national security without permitting unneeded production or performance;
+&emsp;(1) shall provide its prime contractors with notice of termination of their prime contracts as far in advance of the cessation of work thereunder as is feasible and consistent withthe national security without permitting unneeded production or performance;
 
 &emsp;(2) shall establish procedures whereby prime contractors shall provide affected subcontractors with immediate notice of termination; and
 

@@ -2,13 +2,25 @@
 
 #### (a) General rule
 
-Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as the Secretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
+Every person who is a manufacturer or importer of a device intended for human use shall establish and maintain such records, make such reports, and provide such information, as theSecretary may by regulation reasonably require to assure that such device is not adulterated or misbranded and to otherwise assure its safety and effectiveness. Regulations prescribed under the preceding sentence—
 
 &emsp;(1) shall require a device manufacturer or importer to report to the Secretary whenever the manufacturer or importer receives or otherwise becomes aware of information that reasonably suggests that one of its marketed devices—
 
 &emsp;&emsp;(A) may have caused or contributed to a death or serious injury, or
 
-&emsp;&emsp;(B) has malfunctioned and that such device or a similar device marketed by the manufacturer or importer would be likely to cause or contribute to a death or serious injury if the malfunction were to recur;
+&emsp;&emsp;(B) has malfunctioned and that such device or a similar device marketed by the manufacturer or importer would be likely to cause or contribute to a death or serious injury if the malfunction were to recur, which report under this subparagraph—
+
+&emsp;&emsp;&emsp;(i) shall be submitted in accordance with part 803 of title 21, Code of Federal Regulations (or successor regulations), unless the Secretary grants an exemption or variance from, or an alternative to, a requirement under such regulations pursuant to section 803.19 of such part, if the device involved is—
+
+&emsp;&emsp;&emsp;&emsp;(I) a class III device;
+
+&emsp;&emsp;&emsp;&emsp;(II) a class II device that is permanently implantable, is life supporting, or is life sustaining; or
+
+&emsp;&emsp;&emsp;&emsp;(III) a type of device which the Secretary has, by notice published in the Federal Register or letter to the person who is the manufacturer or importer of the device, indicated should be subject to such part 803 in order to protect the public health;
+
+&emsp;&emsp;&emsp;(ii) shall, if the device is not subject to clause (i), be submitted in accordance with criteria established by the Secretary for reports made pursuant to this clause, which criteria shall require the reports to be in summary form and made on a quarterly basis; or
+
+&emsp;&emsp;&emsp;(iii) shall, if the device is imported into the United States and for which part 803 of title 21, Code of Federal Regulations (or successor regulations) requires an importer to submit a report to the manufacturer, be submitted by the importer to the manufacturer in accordance with part 803 of title 21, Code of Federal Regulations (or successor regulations) <sup>1</sup>
 
 &emsp;(2) shall define the term “serious injury” to mean an injury that—
 
@@ -38,13 +50,13 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 &emsp;&emsp;&emsp;(ii) on a periodic basis,
 
-> &emsp;unless such report or information is necessary to determine if the device should be reclassified or if the device is adulterated or misbranded. and <sup>1</sup>
+> &emsp;unless such report or information is necessary to determine if the device should be reclassified or if the device is adulterated or misbranded. and <sup>2</sup>
 
 > In prescribing such regulations, the Secretary shall have due regard for the professional ethics of the medical profession and the interests of patients. The prohibitions of paragraph (7) of this subsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient. The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.
 
 #### (b) User reports
 
-(1)(A) Whenever a device user facility receives or otherwise becomes aware of information that reasonably suggests that a device has or may have caused or contributed to the death of a patient of the facility, the facility shall, as soon as practicable but not later than 10 working days after becoming aware of the information, report the information to the Secretary and, if the identity of the manufacturer is known, to the manufacturer of the device. In the case of deaths, the Secretary may by regulation prescribe a shorter period for the reporting of such information.
+(1)(A) Whenever a device user facility receives or otherwise becomes aware of information that reasonably suggests that a device has or may have caused or contributed to the death of a patient of the facility, the facility shall, as soon as practicable but not later than 10 working days after becoming aware of the information, report the information to the Secretary and, if the identity of the manufacturer is known, to the manufacturer of the device. In the case ofdeaths, the Secretary may by regulation prescribe a shorter period for the reporting of such information.
 
 (B) Whenever a device user facility receives or otherwise becomes aware of—
 
@@ -136,7 +148,11 @@ Subsection (a) of this section shall not apply to—
 
 (2) Any patient receiving a device subject to tracking under paragraph (1) may refuse to release, or refuse permission to release, the patient's name, address, social security number, or other identifying information for the purpose of tracking.
 
-#### (f) Reports of removals and corrections
+#### (f) Unique device identification system
+
+The Secretary shall promulgate regulations establishing a unique device identification system for medical devices requiring the label of devices to bear a unique identifier, unless the Secretary requires an alternative placement or provides an exception for a particular device or type of device. The unique identifier shall adequately identify the device through distribution and use, and may include information on the lot or serial number.
+
+#### (g) Reports of removals and corrections
 
 (1) Except as provided in paragraph (2), the Secretary shall by regulation require a manufacturer or importer of a device to report promptly to the Secretary any correction or removal of a device undertaken by such manufacturer or importer if the removal or correction was undertaken—
 
@@ -150,9 +166,13 @@ Subsection (a) of this section shall not apply to—
 
 (3) For purposes of paragraphs (1) and (2), the terms “correction” and “removal” do not include routine servicing.
 
-(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347.)
+(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854.)
 
 #### Amendments
+
+2007—Subsec. (a)(1)(B). Pub. L. 110–85, §227, substituted “were to recur, which report under this subparagraph—” for “were to recur;” and added cls. (i) to (iii).
+
+Subsecs. (f), (g). Pub. L. 110–85, §226(a), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 1997—Subsec. (a). Pub. L. 105–115, §213(a)(1)(A), (F), in introductory provisions, substituted “manufacturer or importer” for “manufacturer, importer, or distributor” and, in closing provisions, inserted at end “The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.”
 
@@ -288,5 +308,7 @@ Section 2(e) of Pub. L. 101–629 directed Comptroller General of the United Sta
 
 Section 2(f) of Pub. L. 101–629 directed Secretary of Health and Human Services, not later than 36 months after Nov. 28, 1990, to prepare and submit to appropriate committees of Congress a report containing an evaluation of the requirements of 21 U.S.C. 360i(b), consisting of an evaluation of the safety benefits of the requirements, the burdens placed on the Food and Drug Administration and on device user facilities by the requirements, and the cost-effectiveness of the requirements and recommendations for legislative reform.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

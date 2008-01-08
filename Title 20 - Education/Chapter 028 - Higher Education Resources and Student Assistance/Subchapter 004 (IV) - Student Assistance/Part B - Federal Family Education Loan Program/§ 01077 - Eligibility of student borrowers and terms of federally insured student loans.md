@@ -4,7 +4,7 @@
 
 Except as provided in section 1078–3 of this title, a loan by an eligible lender shall be insurable by the Secretary under the provisions of this part only if—
 
-&emsp;(1) made to a student who (A) is an eligible student under section 1091 of this title, (B) hasagreed to notify promptly the holder of the loan concerning any change of address, and (C) is carrying at least one-half the normal full-time academic workload for the course of study the student is pursuing (as determined by the institution); and
+&emsp;(1) made to a student who (A) is an eligible student under section 1091 of this title, (B) has agreed to notify promptly the holder of the loan concerning any change of address, and (C) is carrying at least one-half the normal full-time academic workload for the course of study the student is pursuing (as determined by the institution); and
 
 &emsp;(2) evidenced by a note or other written agreement which—
 
@@ -96,7 +96,7 @@ Subsec. (a)(2)(G) to (I). Pub. L. 102–325, §414(c)(1), struck out “and” a
 
 Subsec. (a)(3). Pub. L. 102–325, §414(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted to allow the Secretary to require checks to be made co-payable to the institution and the borrower or to prohibit the disbursement of loan proceeds by means other than by check; and”.
 
-Subsec. (c). Pub. L. 102–325, §414(c)(2), (e), substituted “Special repayment rules” for “Minimum repayment rate” in heading and in text “Except as provided in subsection (a)(2)(H) of this section, the total” for “The total” and “(but in no instance less than the amount of interest due and payable)” for “, except that in the case of a husband and wife, both of whom have such loans outstanding, the total of the combined payments for such a couple during any year shall not be less than $600 or the balance of all such loans, whichever is less”.
+Subsec. (c). Pub. L. 102–325, §414(c)(2), (e), substituted “Special repayment rules” for “Minimum repayment rate” in heading and in text “Except as provided in subsection (a)(2)(H) of this section, the total” for “The total” and “(but in no instance less than the amount ofinterest due and payable)” for “, except that in the case of a husband and wife, both of whom have such loans outstanding, the total of the combined payments for such a couple during any year shall not be less than $600 or the balance of all such loans, whichever is less”.
 
 1991—Subsec. (a)(2)(A). Pub. L. 102–164, §601(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “is made without security and without endorsement, except that if the borrower is a minor and such note or other written agreement executed by the borrower would not, under the applicable law, create a binding obligation, endorsement may be required;”.
 
@@ -104,7 +104,7 @@ Subsec. (d). Pub. L. 102–164, §602(a), added subsec. (d).
 
 1989—Subsec. (a)(2)(C)(i). Pub. L. 101–239, §2002(a)(1), inserted before semicolon at end “, except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program”.
 
-Subsec. (a)(4). Pub. L. 101–239, §2004(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “in the case of any loan made for any period of enrollment that ends more than 180 days (or 6 months)after the date disbursement is scheduled to occur, and for an amount of $1,000 or more, the proceeds of the loan will, subject to subsection (b) of this section, be disbursed directly by the lender in two or more installments, none of which exceeds one-half of the loan, with the second installment being disbursed after not less than one-third of such period (except as necessary to permit the second installment to be disbursed at the beginning of the second semester, quarter, or similar division of such period of enrollment).”
+Subsec. (a)(4). Pub. L. 101–239, §2004(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “in the case of any loan made for any period of enrollment that ends more than 180 days (or 6 months) after the date disbursement is scheduled to occur, and for an amount of $1,000 or more, the proceeds of the loan will, subject to subsection (b) of this section, be disbursed directly by the lender in two or more installments, none of which exceeds one-half of the loan, with the second installment being disbursed after not less than one-third of such period (except as necessary to permit the second installment to be disbursed at the beginning of the second semester, quarter, or similar division of such period of enrollment).”
 
 1988—Subsec. (a)(2)(C)(v). Pub. L. 100–369, §7(c), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

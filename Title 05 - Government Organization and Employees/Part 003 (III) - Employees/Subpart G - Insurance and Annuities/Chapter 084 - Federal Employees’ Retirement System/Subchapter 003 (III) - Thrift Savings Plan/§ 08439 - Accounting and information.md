@@ -14,7 +14,7 @@
 
 &emsp;(B) the amounts paid out of the Thrift Savings Fund with respect to such individual under this subchapter.
 
-(3) Pursuant to regulations prescribed by the Executive Director, the Executive Director shallallocate to each account an amount equal to a pro rata share of the net earnings and net losses from each investment of sums in the Thrift Savings Fund attributable to sums credited to such account, reduced by an appropriate share of the administrative expenses paid out of the net earnings under section 8437(d) of this title, as determined by the Executive Director.
+(3) Pursuant to regulations prescribed by the Executive Director, the Executive Director shall allocate to each account an amount equal to a pro rata share of the net earnings and net losses from each investment of sums in the Thrift Savings Fund attributable to sums credited to such account, reduced by an appropriate share of the administrative expenses paid out of the net earnings under section 8437(d) of this title, as determined by the Executive Director.
 
 (b)(1) For the purposes of this subsection, the term “qualified public accountant” shall have the same meaning as provided in section 103(a)(3)(D) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1023(a)(3)(D)).
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 106–361 effective at the earliest practicable date after 
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as an Effective Date note under section 8440e of this title.
+Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L.106–65, as amended, set out as an Effective Date note under section 8440e of this title.
 
 #### Effective Date of 1996 Amendment
 

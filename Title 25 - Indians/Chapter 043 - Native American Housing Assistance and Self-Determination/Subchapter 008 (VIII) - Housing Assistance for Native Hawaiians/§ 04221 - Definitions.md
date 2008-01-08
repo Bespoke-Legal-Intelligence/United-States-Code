@@ -86,7 +86,7 @@ Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted substantially id
 
 Pub. L. 104–330, title VIII, §808, as added by Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2979, provided that: “Except as otherwise expressly provided in this title \[enacting this subchapter\], this title shall take effect on the date of the enactment of the American Homeownership and Economic Opportunity Act of 2000 \[Pub. L. 106–569, approved Dec. 27, 2000\].”
 
-Pub. L. 104–330, title VIII, §808, as added by Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2885, provided that: “Except as otherwise expressly provided in this title \[enacting this subchapter\], this title shall take effect on the date of the enactment of the Native American Housing Assistance and Self-Determination Amendments of 2000 \[probably should be the Hawaiian Homelands Ownership Act of 2000, title II of Pub. L. 106–568, approved Dec. 27, 2000\].”
+Pub. L. 104–330, title VIII, §808, as added by Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2885, provided that: “Except as otherwise expressly provided in this title \[enacting this subchapter\], this title shall take effect on the date of the enactment of the NativeAmerican Housing Assistance and Self-Determination Amendments of 2000 \[probably should be the Hawaiian Homelands Ownership Act of 2000, title II of Pub. L. 106–568, approved Dec. 27, 2000\].”
 
 #### Findings
 

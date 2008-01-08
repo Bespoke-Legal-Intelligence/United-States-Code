@@ -136,7 +136,7 @@ Federal share.—
 
 &emsp;&emsp;(A)
 
-In general.—The Federal share of the cost of activities carried out under a cooperative research and development agreemententered into under this subsection shall not exceed 50 percent, except that if there is substantial public interest or benefit, the Secretary may approve a greater Federal share.
+In general.—The Federal share of the cost of activities carried out under a cooperative research and development agreement entered into under this subsection shall not exceed 50 percent, except that if there is substantial public interest or benefit, the Secretary may approve a greater Federal share.
 
 &emsp;&emsp;(B)
 
@@ -294,7 +294,7 @@ In general.—Not later than July 31, 2006, and July 31 of every second year the
 
 &emsp;(2)
 
-Comparison with prior reports.—Each report under paragraph (1) shall provide the means, including all necessary information, to relate and compare the conditions and service measures used in the previous biennial reports.
+Comparison with prior reports.—Each report under paragraph (1) shall provide themeans, including all necessary information, to relate and compare the conditions and service measures used in the previous biennial reports.
 
 (i)
 
@@ -532,7 +532,7 @@ Program Stages.—
 
 &emsp;“(1)
 
-First stage.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall establish a national policy for the use of commercial remote sensing products and spatialinformation technologies in national transportation infrastructure development and construction.
+First stage.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall establish a national policy for the use of commercial remote sensing products and spatial information technologies in national transportation infrastructure development and construction.
 
 &emsp;“(2)
 
@@ -666,7 +666,7 @@ Objectives.—The objectives of the program are—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) to aggregate data into reports for multipoint data distribution techniques; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) with respect to part I of the program under subparagraph (C), to use an advanced information system designed and monitored by anentity with experience with the Department of Transportation in the design and monitoring of high-reliability, mission-critical voice and data systems.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) with respect to part I of the program under subparagraph (C), to use an advanced information system designed and monitored by an entity with experience with the Department of Transportation in the design and monitoring of high-reliability, mission-critical voice and data systems.
 
 &emsp;&emsp;“(C)
 
@@ -1004,7 +1004,7 @@ In general.—The Secretary shall issue guidelines and requirements for the eval
 
 &emsp;&emsp;“(B)
 
-Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the evaluator so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under this subtitle.
+Objectivity and independence.—The guidelines and requirements issued under subparagraph\(A) shall include provisions to ensure the objectivity and independence of the evaluator so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under this subtitle.
 
 &emsp;&emsp;“(C)
 
@@ -1064,7 +1064,7 @@ Use of standards development organizations.—In carrying out this section, the 
 
 “(b)
 
-Report on Critical Standards.—Not later than June 1, 1999, the Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science of the House of Representatives identifying which standards are critical to ensuring national interoperability or critical to the development of other standards and specifying the status of the development of each standard identified.
+Report on Critical Standards.—Not later than June 1, 1999, the Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science and Technology\] of the House of Representatives identifying which standards are critical to ensuring national interoperability or critical to the development of other standards and specifying the status of the development of each standard identified.
 
 “(c)
 
@@ -1280,7 +1280,7 @@ In general.—The Secretary shall continue to support the Urban Consortium's ITS
 
 &emsp;“(2)
 
-Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section5001(a)(5) of this Act \[112 Stat. 420\], $500,000 per fiscal year shall be available to carry out this paragraph.
+Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(5) of this Act \[112 Stat. 420\], $500,000 per fiscal year shall be available to carry out this paragraph.
 
 “(c)
 
@@ -1388,7 +1388,7 @@ Annual Report to Congress.—Not later than 180 days after the date of the enact
 
 Authorization of Appropriations.—The Secretary shall expend from administrative and research funds deducted under section 104(a) of this title \[probably means section 104(a) of Title 23, Highways\] at least $3,000,000 for each of fiscal years 1992, 1993, 1994, 1995, and 1996 to carry out subsection (b).”
 
-\[For termination, effective May 15, 2000, of annual reporting provisions in section 6016(e) of Pub. L. 102–240, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title31, Money and Finance, and page 139 of House Document No. 103–7.\]
+\[For termination, effective May 15, 2000, of annual reporting provisions in section 6016(e) of Pub. L. 102–240, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 139 of House Document No. 103–7.\]
 
 #### Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States
 

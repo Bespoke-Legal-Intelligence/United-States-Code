@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in subsec. (a) of this section were contained in Pub. L. 94–106, title VIII, §820(a), Oct. 7, 1975, 89 Stat. 544, prior to repeal by Pub. L. 98–525, §§1403(c), 1404, eff. Oct. 1, 1985.
+Provisions similar to those in subsec. (a) of this section were contained in Pub. L. 94–106, title VIII, §820(a),Oct. 7, 1975, 89 Stat. 544, prior to repeal by Pub. L. 98–525, §§1403(c), 1404, eff. Oct. 1, 1985.
 
 Provisions similar to those in subsec. (b) of this section were contained in the following appropriation acts:
 

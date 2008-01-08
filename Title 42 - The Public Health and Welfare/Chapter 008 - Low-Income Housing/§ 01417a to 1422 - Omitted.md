@@ -4,7 +4,7 @@
 
 Sections 1417a to 1422 were omitted in the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
-Section 1417a, act Sept. 1, 1937, ch. 896, §17, as added Aug. 1, 1968, Pub. L. 90–448, title XVII, §1719(c), 82 Stat. 610, set forth additional functions, powers, and duties of the Secretary. See section 1437h of this title.
+Section 1417a, act Sept. 1, 1937, ch. 896, §17, as added Aug. 1, 1968, Pub. L. 90–448, title XVII, §1719(c), 82 Stat.610, set forth additional functions, powers, and duties of the Secretary. See section 1437h of this title.
 
 Section 1418, act Sept. 1, 1937, ch. 896, §18, 50 Stat. 897, authorized all assets and receipts of the Authority to remain available until expended. See section 1437h of this title.
 

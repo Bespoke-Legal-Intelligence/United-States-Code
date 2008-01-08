@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(G) professional development activities for educators, including—
 
-&emsp;&emsp;&emsp;(i) the development of programs to prepare prospective teachers to address the unique needs of Native Hawaiian students within the context of Native Hawaiian culture, language, and traditions;
+&emsp;&emsp;&emsp;(i) the development of programs to prepare prospective teachers to address theunique needs of Native Hawaiian students within the context of Native Hawaiian culture, language, and traditions;
 
 &emsp;&emsp;&emsp;(ii) in-service programs to improve the ability of teachers who teach in schools with concentrations of Native Hawaiian students to meet those students’ unique needs; and
 
@@ -128,7 +128,7 @@ Not more than 5 percent of funds provided to a recipient of a grant or contract 
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(3)(D)(iii), is title VI of Pub. L.91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(3)(D)(iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Prior Provisions
 

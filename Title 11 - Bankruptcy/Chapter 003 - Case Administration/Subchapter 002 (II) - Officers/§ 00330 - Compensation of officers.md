@@ -8,7 +8,7 @@
 
 (2) The court may, on its own motion or on the motion of the United States Trustee, the United States Trustee for the District or Region, the trustee for the estate, or any other party in interest, award compensation that is less than the amount of compensation that is requested.
 
-(3) In determining the amount of reasonable compensation to be awarded to an examiner, trustee under chapter 11, or professional person, the court shall consider the nature, the extent,and the value of such services, taking into account all relevant factors, including—
+(3) In determining the amount of reasonable compensation to be awarded to an examiner, trustee under chapter 11, or professional person, the court shall consider the nature, the extent, and the value of such services, taking into account all relevant factors, including—
 
 &emsp;(A) the time spent on such services;
 

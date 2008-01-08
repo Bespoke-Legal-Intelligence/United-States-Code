@@ -12,7 +12,7 @@ For purposes of this subtitle, in the case of a corporation—
 
 &emsp;&emsp;(B) the amount treated as ordinary income under section 1250 (determined without regard to this paragraph),
 
-> &emsp;shall be treated as gain which is ordinary income under section 1250 and shall be recognized notwithstanding any other provision of this title. Under regulations prescribed by the Secretary, the provisions of this paragraph shall not apply to the disposition of any property to the extent section 1250(a) does not apply to such disposition by reason of section 1250(d).
+> &emsp;shall be treated as gain which is ordinary income under section 1250 and shall be recognized notwithstanding any other provision ofthis title. Under regulations prescribed by the Secretary, the provisions of this paragraph shall not apply to the disposition of any property to the extent section 1250(a) does not apply to such disposition by reason of section 1250(d).
 
 #### (2) Reduction in percentage depletion
 
@@ -26,17 +26,7 @@ For purposes of this subtitle, in the case of a corporation—
 
 &emsp;The amount allowable as a deduction under this chapter (determined without regard to this section) with respect to any financial institution preference item shall be reduced by 20 percent.
 
-#### (4) Certain FSC income
-
-In the case of taxable years beginning after December 31, 1984, section 923(a) <sup>1</sup> shall be applied with respect to any FSC by substituting—
-
-&emsp;&emsp;(A) “30 percent” for “32 percent” in paragraph (2), and
-
-&emsp;&emsp;(B) “15/23” for “16/23” in paragraph (3).
-
-> &emsp;If all of the stock in the FSC is not held by 1 or more C corporations throughout the taxable year, under regulations, proper adjustments shall be made in the application of the preceding sentence to take into account stock held by persons other than C corporations.
-
-#### (5) Amortization of pollution control facilities
+#### (4) Amortization of pollution control facilities
 
 &emsp;If an election is made under section 169 with respect to any certified pollution control facility, the amortizable basis of such facility for purposes of such section shall be reduced by 20 percent.
 
@@ -76,7 +66,7 @@ For purposes of this subtitle—
 
 #### (1) Accelerated cost recovery deduction
 
-&emsp;Section 168 shall apply with respect to that portion of the basis of any property not taken into account under section 169 by reason of subsection (a)(5).
+&emsp;Section 168 shall apply with respect to that portion of the basis of any property not taken into account under section 169 by reason of subsection (a)(4).
 
 #### (2) 1250 Recapture
 
@@ -122,13 +112,19 @@ For purposes of this section—
 
 &emsp;The terms “section 1245 property” and “section 1250 property” have the meanings given such terms by sections 1245(a)(3) and 1250(c), respectively.
 
-(Added Pub. L. 97–248, title II, §204(a), Sept. 3, 1982, 96 Stat. 423; amended Pub. L. 97–354, §5(a)(27), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title III, §306(a)(2), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §68(a), (b), title VII, §712(a)(1)(A), (2)–(4), July 18, 1984, 98 Stat. 588, 946; Pub. L. 99–514, title II, §201(d)(5), title IV, §§411(a), (b)(2)(C)(ii), 412(b)(1), title IX, §§901(b)(4), (d)(4)(C), 902(c), title XVIII, §§1804(k)(1), (3)(A), 1854(c)(1), 1876(b)(1), Oct. 22, 1986, 100 Stat. 2140, 2225, 2227, 2378, 2380, 2382, 2809, 2878, 2898; Pub. L. 100–418, title I, §1941(b)(5), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1009(b)(4), (5), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 101–508, title XI, §11801(c)(12)(B), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1602(b)(1), 1616(b)(5), Aug. 20, 1996, 110 Stat. 1833, 1856.)
-
-#### References in Text
-
-Section 923, referred to in subsec. (a)(4), was repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
+(Added Pub. L. 97–248, title II, §204(a), Sept. 3, 1982, 96 Stat. 423; amended Pub. L. 97–354, §5(a)(27), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title III, §306(a)(2), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §68(a), (b), title VII, §712(a)(1)(A), (2)–(4), July 18, 1984, 98 Stat. 588, 946; Pub. L. 99–514, title II, §201(d)(5), title IV, §§411(a), (b)(2)(C)(ii), 412(b)(1), title IX, §§901(b)(4), (d)(4)(C), 902(c), title XVIII, §§1804(k)(1), (3)(A), 1854(c)(1), 1876(b)(1), Oct. 22, 1986, 100 Stat. 2140, 2225, 2227, 2378, 2380, 2382, 2809, 2878, 2898; Pub. L. 100–418, title I, §1941(b)(5), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1009(b)(4), (5), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 101–508, title XI, §11801(c)(12)(B), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1602(b)(1), 1616(b)(5), Aug. 20, 1996, 110 Stat. 1833, 1856; Pub. L. 110–172, §11(g)(6), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### Amendments
+
+2007—Subsec. (a)(4), (5). Pub. L. 110–172, §11(g)(6)(A), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “In the case of taxable years beginning after December 31, 1984, section 923(a) shall be applied with respect to any FSC by substituting—
+
+&emsp;“(A) ‘30 percent’ for ‘32 percent’ in paragraph (2), and
+
+&emsp;“(B) ‘15/23’ for ‘16/23’ in paragraph (3).
+
+> If all of the stock in the FSC is not held by 1 or more C corporations throughout the taxable year, under regulations, proper adjustments shall be made in the application of the preceding sentence to take into account stock held by persons other than C corporations.”
+
+Subsec. (c)(1). Pub. L. 110–172, §11(g)(6)(B), substituted “subsection (a)(4)” for “subsection (a)(5)”.
 
 1996—Subsec. (e)(1)(B)(i). Pub. L. 104–188, §1616(b)(5), struck out “or to which section 593 applies” after “585(a)(2))”.
 
@@ -250,7 +246,7 @@ Amendment by sections 1804(k)(3)(A), 1854(c)(1), and 1876(b)(1) of Pub. L. 99–
 
 #### Effective Date of 1984 Amendment
 
-Section 68(e) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1804(k)(2), Oct. 22, 1986, 100 Stat. 2095, 2809, provided that:
+Pub. L. 98–369, div. A, title I, §68(e), July 18, 1984, 98 Stat. 588, as amended by Pub. L. 99–514, §2, title XVIII, §1804(k)(2), Oct. 22, 1986, 100 Stat. 2095, 2809, provided that:
 
 “(1)
 
@@ -262,7 +258,7 @@ gain.—The amendments made by this section to section 291(a)(1) of the Internal
 
 “(3)
 
-Pollution control facilities.—The amendments made by this section to section 291(a)(5) of such Code, and so much of the amendment made by subsection (c)(1) of this section \[amending section 57 of this title\] as relates to pollution control facilities, shall apply to property placed in service after December 31, 1984, in taxable years ending after such date.
+Pollution control facilities.—The amendments made by this section to section 291(a)(5) \[now 291(a)(4)\] of such Code, and so much of the amendment made by subsection (c)(1) of this section \[amending section 57 of this title\] as relates to pollution control facilities, shall apply to property placed in service after December 31, 1984, in taxable years ending after such date.
 
 “(4)
 
@@ -280,7 +276,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date
 
-Section 204(d) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, §204(d), Sept. 3, 1982, 96 Stat. 427, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -292,7 +288,7 @@ Gain.—Section 291(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C.
 
 “(3)
 
-Pollution control facilities.—Section 291(a)(5) of such Code shall apply to property placed in service after December 31, 1982, in taxable years ending after such date.
+Pollution control facilities.—Section 291(a)(5) \[now 291(a)(4)\] of such Code shall apply to property placed in service after December 31, 1982, in taxable years ending after such date.
 
 “(4)
 

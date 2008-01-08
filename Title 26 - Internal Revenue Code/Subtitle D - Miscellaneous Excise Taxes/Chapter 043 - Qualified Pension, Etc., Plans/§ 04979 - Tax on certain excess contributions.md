@@ -36,39 +36,33 @@ For purposes of this section, the term “plan” means—
 
 > Such term includes any plan which, at any time, has been determined by the Secretary to be such a plan.
 
-#### (f) No tax where excess distributed within 21/2 months of close of year
+#### (f) No tax where excess distributed within specified period after close of year
 
 #### (1) In general
 
-&emsp;No tax shall be imposed under this section on any excess contribution or excess aggregate contribution, as the case may be, to the extent such contribution (together with any income allocable thereto) is distributed (or, if forfeitable, is forfeited) before the close of the first 21/2 months of the following plan year.
+&emsp;No tax shall be imposed under this section on any excess contribution or excess aggregate contribution, as the case may be, to the extent such contribution (together with any income allocable thereto through the end of the plan year for which the contribution was made) isdistributed (or, if forfeitable, is forfeited) before the close of the first 21/2 months (6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3))) of the following plan year.
 
 #### (2) Year of inclusion
 
-#### (A) In general
-
-&emsp;&emsp;Except as provided in subparagraph (B), any amount distributed as provided in paragraph (1) shall be treated as received and earned by the recipient in his taxable year for which such contribution was made.
-
-#### (B) De minimis distributions
-
-&emsp;&emsp;If the total excess contributions and excess aggregate contributions distributed to a recipient under a plan for any plan year are less than $100, such distributions (and any income allocable thereto) shall be treated as earned and received by the recipient in his taxable year in which such distributions were made.
+&emsp;Any amount distributed as provided in paragraph (1) shall be treated as earned and received by the recipient in the recipient's taxable year in which such distributions were made.
 
 (Added Pub. L. 99–514, title XI, §1117(b)(1), Oct. 22, 1986, 100 Stat. 2461; amended Pub. L. 100–647, title I, §1011(<i>l</i>)(8)–(11), Nov. 10, 1988, 102 Stat. 3470, 3471; Pub. L. 109–280, title IX, §902(e)(1)–(3)(A), Aug. 17, 2006, 120 Stat. 1038.)
 
-#### Amendment of Subsection (f)
-
-<i>Pub. L. 109–280, title IX, §902(e)(1)–(3)(A), (g), Aug. 17, 2006, 120 Stat. 1038, 1039, provided that, applicable to plan years beginning after Dec. 31, 2007, subsection (f) of this section is amended as follows:</i>
-
-<i>(1) in heading, by substituting “specified period after” for “21/2 months of”;</i>
-
-<i>(2) in paragraph (1), by inserting “through the end of the plan year for which the contribution was made” after “thereto” and “(6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3)))” after “21/2 months”; and</i>
-
-<i>(3) by amending paragraph (2) to read as follows:</i>
-
-#### <i>(2) Year of inclusion</i>
-
-&emsp;<i>Any amount distributed as provided in paragraph (1) shall be treated as earned and received by the recipient in the recipient's taxable year in which such distributions were made.</i>
-
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–280, §902(e)(1)(B), substituted “specified period after” for “21/2 months of” in heading.
+
+Subsec. (f)(1). Pub. L. 109–280, §902(e)(1)(A), (3)(A), inserted “through the end of the plan year for which the contribution was made” after “thereto” and “(6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3)))” after “21/2 months”.
+
+Subsec. (f)(2). Pub. L. 109–280, §902(e)(2), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows:
+
+“(A)
+
+In general.—Except as provided in subparagraph (B), any amount distributed as provided in paragraph (1) shall be treated as received and earned by the recipient in his taxable year for which such contribution was made.
+
+“(B)
+
+De minimis distributions.—If the total excess contributions and excess aggregate contributions distributed to a recipient under a plan for any plan year are less than $100, such distributions (and any income allocable thereto) shall be treated as earned and received by the recipient in his taxable year in which such distributions were made.”
 
 1988—Subsec. (a)(1). Pub. L. 100–647, §1011(<i>l</i>)(8), struck out “a cash or deferred arrangement which is part of” after “contributions under”.
 

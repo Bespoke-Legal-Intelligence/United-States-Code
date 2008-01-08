@@ -28,7 +28,7 @@ The plan developed by the President pursuant to subsection (a)(2) of this sectio
 
 #### (e) Authorization of appropriations
 
-In addition to funds authorized in any other law, there is authorized to be appropriated to the President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2) of this section.
+In addition to funds authorized in any other law, there is authorized to be appropriated tothe President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2) of this section.
 
 (Pub. L. 94–163, title III, §381, Dec. 22, 1975, 89 Stat. 939; Pub. L. 95–619, title V, §501, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3275, 3288; Pub. L. 100–615, §2(b), Nov. 5, 1988, 102 Stat. 3189.)
 
@@ -58,7 +58,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 Responsibilities of Executive Agencies
 
-1–101. Executive agencies shall promote the use of ridesharing (carpools, vanpools, privately leased buses, public transportation, and other multi-occupancy modes of travel) by personnel working at Federal facilities. Agency actions pursuant to this Order shall beconsistent with Circular A–118 issued by the Office of Management and Budget.
+1–101. Executive agencies shall promote the use of ridesharing (carpools, vanpools, privately leased buses, public transportation, and other multi-occupancy modes of travel) by personnel working at Federal facilities. Agency actions pursuant to this Order shall be consistent with Circular A–118 issued by the Office of Management and Budget.
 
 1–102. Agencies shall establish an annual ridesharing goal tailored to each facility, and expressed as a percentage of fulltime personnel working at that facility who use ridesharing in the commute between home and work. Agencies that share facilities or that are within easy walking distance of one another should coordinate their efforts to develop and implement ridesharing opportunities.
 

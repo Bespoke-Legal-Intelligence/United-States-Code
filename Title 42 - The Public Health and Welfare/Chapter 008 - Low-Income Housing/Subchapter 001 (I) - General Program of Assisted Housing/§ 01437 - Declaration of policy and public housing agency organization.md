@@ -130,7 +130,7 @@ Pub. L. 104–204, title II, §201(d), Sept. 26, 1996, 110 Stat. 2893, provided 
 
 Pub. L. 104–134, title I, §101(e) \[title II, §201(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by this subsection \[amending section 1437<i>l</i> of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
-Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subsection \[amending section 1437p of this title and provisions set out as a note under section 1437c of this title\] and by sections 1002(a), (b), and (c) of Public Law 104–19 \[amending sections 1437c, 1437p, and 1437aaa–3 of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subsection \[amending section 1437p of this title and provisions setout as a note under section 1437c of this title\] and by sections 1002(a), (b), and (c) of Public Law 104–19 \[amending sections 1437c, 1437p, and 1437aaa–3 of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
 Pub. L. 104–99, title IV, §402(e), Jan. 26, 1996, 110 Stat. 43, which provided that amendments made by section 402(a) to (d) and (f) of Pub. L. 104–99 were also to apply to public housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and an Indian housing authority, was repealed by Pub. L. 105–276, title V, §595(e)(16), Oct. 21, 1998, 112 Stat. 2659.
 
@@ -152,15 +152,17 @@ Section 527 of Pub. L. 101–625 provided that: “In accordance with section 20
 
 #### Applicability of 1989 Amendments; Indian Housing
 
-Pub. L. 101–235, title I, §101(d), Dec. 15, 1989, 103 Stat. 1990, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937\[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) of this section \[amending section 1439 of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+Pub. L. 101–235, title I, §101(d), Dec. 15, 1989, 103 Stat. 1990, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) of this section \[amending section 1439 of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
 Pub. L. 101–235, title I, §104(c), Dec. 15, 1989, 103 Stat. 1998, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by subsection (a) \[amending section 1439 of this title\] and the provisions of subsection (b) of this section \[set out as an Effective Date of 1989 Amendment note under section 1439 of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
 #### Reports on Number and Cost of Federally Assisted Units
 
-Pub. L. 109–115, div. A, title III, §314, Nov. 30, 2005, 119 Stat. 2463, provided that: “The Secretary of Housing and Urban Development shall submit an annual report no later than August 30, 2006 and annually thereafter to the House and Senate Committees on Appropriations regarding the number of Federally assisted units under lease and the per unit cost of these units to the Department of Housing and Urban Development.”
+Pub. L. 110–161, div. K, title II, §211, Dec. 26, 2007, 121 Stat. 2433, provided that: “The Secretary of Housing and Urban Development shall submit an annual report no later than August 30, 2008 and annually thereafter to the House and Senate Committees on Appropriations regarding the number of Federally assisted units under lease and the per unit cost of these units to the Department of Housing and Urban Development.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–115, div. A, title III, §314, Nov. 30, 2005, 119 Stat. 2463.
 
 Pub. L. 108–447, div. I, title II, §214, Dec. 8, 2004, 118 Stat. 3318.
 

@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(viii) improving the participation of parents of children with disabilities in the education of their children; and
 
-&emsp;&emsp;&emsp;(ix) resolving disagreements between education personnel and parents throughalternate dispute resolution activities, including mediation.
+&emsp;&emsp;&emsp;(ix) resolving disagreements between education personnel and parents through alternate dispute resolution activities, including mediation.
 
 #### (3) Interim and final reports
 

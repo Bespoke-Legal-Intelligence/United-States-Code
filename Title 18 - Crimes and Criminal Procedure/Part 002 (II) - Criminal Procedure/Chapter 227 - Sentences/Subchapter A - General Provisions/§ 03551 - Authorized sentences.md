@@ -100,7 +100,7 @@ Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as am
 
 \[For purposes of section 235(b) of Pub. L. 98–473, set out above, as it relates to chapter 311 of this title and the Parole Commission, references to “ten years” or “ten-year period” are deemed to be references to “fifteen years” or “fifteen-year period”, respectively, see section 2(a) of Pub. L. 104–232, set out as a note under section 4201 of this title.\]
 
-\[Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, provided that: “For the purposes of section 235(b) of Public Law 98–473 \[set out above\] as it relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference insuch section to ‘five years’ or a ‘five-year period’ shall be deemed a reference to ‘ten years’ or a ‘ten-year period’, respectively.”\]
+\[Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, provided that: “For the purposes of section 235(b) of Public Law 98–473 \[set out above\] as it relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘five years’ or a ‘five-year period’ shall be deemed a reference to ‘ten years’ or a ‘ten-year period’, respectively.”\]
 
 #### Short Title of 2005 Amendment
 

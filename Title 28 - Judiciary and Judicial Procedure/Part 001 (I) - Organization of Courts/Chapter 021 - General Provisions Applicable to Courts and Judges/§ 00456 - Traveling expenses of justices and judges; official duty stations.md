@@ -54,7 +54,7 @@ Numerous changes were made in phraseology.
 
 Those provisions of this section which related to the Tax Court were eliminated by Senate amendment, therefore section 1102(d) of title 26, U.S.C., was not one of the sources of this section as finally enacted.
 
-As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 303, which was classified to title 28, U.S.C., 1946 ed., §296a, became one of the sources of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
+As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 303, which was classified to title 28,U.S.C., 1946 ed., §296a, became one of the sources of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
 
 #### Amendments
 

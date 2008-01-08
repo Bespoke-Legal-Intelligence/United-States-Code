@@ -36,7 +36,7 @@ The deadline for application pursuant to this section shall be established at on
 
 (3) Persons added to the Settlement Roll pursuant to appeals under this subsection shall not be considered in the calculations made pursuant to section 1300i–3 of this title.
 
-(4) For the sole purpose of preparing the Settlement Roll under this section, the Yurok Transition Team and the Hoopa Valley Business Council may review applications, make recommendations which the Secretary shall accept unless conflicting or erroneous, and may appeal the Secretary's decisions concerning the Settlement Roll. Full disclosure of relevant recordsshall be made to the Team and to the Council notwithstanding any other provision of law.
+(4) For the sole purpose of preparing the Settlement Roll under this section, the Yurok Transition Team and the Hoopa Valley Business Council may review applications, make recommendations which the Secretary shall accept unless conflicting or erroneous, and may appeal the Secretary's decisions concerning the Settlement Roll. Full disclosure of relevant records shall be made to the Team and to the Council notwithstanding any other provision of law.
 
 #### (e) Effect of exclusion from roll
 

@@ -8,9 +8,9 @@
 
 (d) An employee who is separated from the service, except by removal for cause on charges of misconduct or delinquency—
 
-&emsp;(1) after completing 25 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, or nuclear materials courier, or any combination of such service totaling at least 25 years, or
+&emsp;(1) after completing 25 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, nuclear materials courier, or customs and border protection officer, or any combination of such service totaling at least 25 years, or
 
-&emsp;(2) after becoming 50 years of age and completing 20 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, or nuclear materials courier, or any combination of such service totaling at least 20 years,
+&emsp;(2) after becoming 50 years of age and completing 20 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, nuclear materials courier, or customs and border protection officer, or any combination of such service totaling at least 20 years,
 
 > is entitled to an annuity.
 
@@ -44,7 +44,7 @@
 
 &emsp;(C) for an individual whose date of birth is after December 31, 1952, and before January 1, 1965, 56 years of age;
 
-&emsp;(D) for an individual whose date of birth is after December 31, 1964, and before January 1,1970, 56 years of age plus the number of months in the age increase factor determined under paragraph (2)(B); and
+&emsp;(D) for an individual whose date of birth is after December 31, 1964, and before January 1, 1970, 56 years of age plus the number of months in the age increase factor determined under paragraph (2)(B); and
 
 &emsp;(E) for an individual whose date of birth is after December 31, 1969, 57 years of age.
 
@@ -52,9 +52,11 @@
 
 (B) For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1965 through 1969, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1965 and ending with December of the year in which the date of birth occurs.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, §105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, §3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, §3154(g), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, §105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, §3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, §3154(g), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 110–161, div. E, title V, §535(b)(2), Dec. 26, 2007, 121 Stat. 2076.)
 
 #### Amendments
+
+2007—Subsec. (d)(1), (2). Pub. L. 110–161 substituted “nuclear materials courier, or customs and border protection officer,” for “or nuclear materials courier,”.
 
 2000—Subsec. (d). Pub. L. 106–553 inserted “or Supreme Court Police” after “Capitol Police” in pars. (1) and (2).
 
@@ -63,6 +65,10 @@
 1990—Subsec. (d)(1), (2). Pub. L. 101–428 substituted “officer, member of the Capitol Police,” for “officer”.
 
 1986—Subsec. (g). Pub. L. 99–556 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2007 Amendment; Transition Rules
+
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
 
 #### Effective Date of 2000 Amendment
 

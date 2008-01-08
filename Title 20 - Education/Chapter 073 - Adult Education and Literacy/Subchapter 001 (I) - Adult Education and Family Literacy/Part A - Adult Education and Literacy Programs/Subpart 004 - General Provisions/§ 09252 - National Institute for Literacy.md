@@ -10,7 +10,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 &emsp;(3) serves as a national resource for adult education and literacy programs by—
 
-&emsp;&emsp;(A) providing the best and most current information available, including the work of the National Institute of Child Health and Human Development in the area of phonemic awareness, systematic phonics, fluency, and reading comprehension, to all recipients of Federal assistance that focuses on reading, including programs under titles I and VII of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq. and 7401 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and this Act; and
+&emsp;&emsp;(A) providing the best and most current information available, including the work ofthe Eunice Kennedy Shriver National Institute of Child Health and Human Development in the area of phonemic awareness, systematic phonics, fluency, and reading comprehension, to all recipients of Federal assistance that focuses on reading, including programs under titles I and VII of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq. and 7401 et seq.), the Head Start Act (42 U.S.C. 9831 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and this Act; and
 
 &emsp;&emsp;(B) supporting the creation of new ways to offer services of proven effectiveness.
 
@@ -52,7 +52,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 &emsp;&emsp;(C) to coordinate the support of reliable and replicable research and development on literacy and basic skills in families and adults across Federal agencies, especially with the Office of Educational Research and Improvement in the Department of Education, and to carry out basic and applied research and development on topics that are not being investigated by other organizations or agencies, such as the special literacy needs of individuals with learning disabilities;
 
-&emsp;&emsp;(D) to collect and disseminate information on methods of advancing literacy that showgreat promise, including phonemic awareness, systematic phonics, fluency, and reading comprehension based on the work of the National Institute of Child Health and Human Development;
+&emsp;&emsp;(D) to collect and disseminate information on methods of advancing literacy that show great promise, including phonemic awareness, systematic phonics, fluency, and reading comprehension based on the work of the Eunice Kennedy Shriver National Institute of Child Health and Human Development;
 
 &emsp;&emsp;(E) to provide policy and technical assistance to Federal, State, and local entities for the improvement of policy and programs relating to literacy;
 
@@ -158,7 +158,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 #### (2) Rules
 
-&emsp;The Board shall establish written rules setting forth the criteria to be used by the Institute in determining whether the acceptance of contributions of services, money, or property whether real or personal, tangible or intangible, would reflect unfavorably upon the ability of the Institute or any employee to carry out the responsibilities of the Institute or employee, or official duties, in a fair and objective manner, or would compromise the integrity or the appearance of the integrity of the Institute's programs or any official involved in those programs.
+&emsp;The Board shall establish written rules setting forth the criteria to be used by the Institute in determining whether the acceptance of contributions of services, money, or propertywhether real or personal, tangible or intangible, would reflect unfavorably upon the ability of the Institute or any employee to carry out the responsibilities of the Institute or employee, or official duties, in a fair and objective manner, or would compromise the integrity or the appearance of the integrity of the Institute's programs or any official involved in those programs.
 
 #### (g) Mails
 
@@ -190,7 +190,7 @@ The Institute shall submit a report biennially to the Committee on Education and
 
 Any amounts appropriated to the Secretary, the Secretary of Labor, the Secretary of Health and Human Services, or any other department that participates in the Institute for purposes that the Institute is authorized to perform under this section may be provided to the Institute for such purposes.
 
-(Pub. L. 105–220, title II, §242, Aug. 7, 1998, 112 Stat. 1073.)
+(Pub. L. 105–220, title II, §242, Aug. 7, 1998, 112 Stat. 1073; Pub. L. 110–154, §1(c)(2), Dec. 21, 2007, 121 Stat. 1827.)
 
 #### References in Text
 
@@ -212,9 +212,15 @@ Level IV of the Executive Schedule, referred to in subsec. (i), is set out in se
 
 Provisions similar to this section were contained in section 1213c of this title prior to repeal by Pub. L. 105–220.
 
+#### Amendments
+
+2007—Subsecs. (a)(3)(A), (c)(1)(D). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Termination of Advisory Boards
 
@@ -222,5 +228,5 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 #### Office of Educational Research and Improvement
 
-The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
+The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishingthe Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
 

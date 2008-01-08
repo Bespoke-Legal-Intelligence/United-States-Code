@@ -44,7 +44,7 @@ To conduct, assist, foster, and direct studies and informational programs design
 
 #### (f) Increasing consumer education
 
-To conduct and cooperate in consumer education for the more effective utilization and greater consumption of agricultural products: <i>Provided</i>, That no money appropriated under the authority of this chapter shall be used to pay for newspaper or periodical advertising space or radio time in carrying out the purposes of this section and subsection (e) of this section.
+To conduct and cooperate in consumer education for the more effective utilization andgreater consumption of agricultural products: <i>Provided</i>, That no money appropriated under the authority of this chapter shall be used to pay for newspaper or periodical advertising space or radio time in carrying out the purposes of this section and subsection (e) of this section.
 
 #### (g) Collection and dissemination of marketing information
 
@@ -110,7 +110,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 Section 304 of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, Government Organization and Employees, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of 1961 Reorg. Plan No. 7.
 
-United States Maritime Commission abolished by 1950 Reorg. Plan No. 21, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix of Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, such Board having created by that Plan as an agency within Department of Commerce with an independentstatus in some respects, and transferred remainder of such Commission's functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, head of Maritime Administration, which likewise was established by Plan in Department of Commerce with provision that chairman of said Federal Maritime Board should, ex officio, be such Administrator.
+United States Maritime Commission abolished by 1950 Reorg. Plan No. 21, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix of Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, such Board having created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of such Commission's functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, head of Maritime Administration, which likewise was established by Plan in Department of Commerce with provision that chairman of said Federal Maritime Board should, ex officio, be such Administrator.
 
 Executive and administrative functions of Maritime Commission transferred to Chairman of Maritime Commission by 1949 Reorg. Plan No. 6, eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1069, set out in the Appendix to Title 5.
 
@@ -270,7 +270,7 @@ Report.—The Secretary of Agriculture shall report to Congress on the research 
 
 &emsp;“(3) Provide for a comment period after a formal petition to change grade standards has been made to enable all interested parties to submit information. The Secretary of Agriculture shall evaluate the information and consider it in the revision process.
 
-&emsp;“(4) Provide interested parties with annual status reports during the period 1992 through 1994, updated upon request, on all pending grade standard changes the Department of Agriculture is considering.
+&emsp;“(4) Provide interested parties with annual status reports during the period 1992 through 1994, updatedupon request, on all pending grade standard changes the Department of Agriculture is considering.
 
 #### “SEC. 1354. AUTHORIZATION OF APPROPRIATIONS.
 

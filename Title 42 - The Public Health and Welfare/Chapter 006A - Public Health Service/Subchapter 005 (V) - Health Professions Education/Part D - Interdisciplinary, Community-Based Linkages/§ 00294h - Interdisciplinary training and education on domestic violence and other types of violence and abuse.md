@@ -68,7 +68,7 @@ There is authorized to be appropriated to carry out this section, $3,000,000 for
 
 #### Prior Provisions
 
-A prior section 294h, act July 1, 1944, ch. 373, title VII, §735, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2263; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(c)(5), 91 Stat. 390; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(e)(4)(B), 95 Stat. 911; Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035, related to functions, powers, and duties of the Secretary under the Federal student loan insurance program, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292j of this title.
+A prior section 294h, act July 1, 1944, ch. 373, title VII, §735, as added Oct. 12, 1976, Pub. L. 94–484, title IV,§401(b)(3), 90 Stat. 2263; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(c)(5), 91 Stat. 390; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(e)(4)(B), 95 Stat. 911; Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035, related to functions, powers, and duties of the Secretary under the Federal student loan insurance program, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292j of this title.
 
 A prior section 294i, act July 1, 1944, ch. 373, title VII, §771, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2049, authorized grants to educational entities offering programs in health administration, hospital administration, or health policy analysis and planning, prior to the general amendment of this part by Pub. L. 105–392.
 

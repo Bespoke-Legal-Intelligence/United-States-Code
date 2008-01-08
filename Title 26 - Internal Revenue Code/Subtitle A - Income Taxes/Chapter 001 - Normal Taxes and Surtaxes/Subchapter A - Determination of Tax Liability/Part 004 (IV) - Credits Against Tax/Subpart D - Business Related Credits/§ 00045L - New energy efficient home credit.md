@@ -62,9 +62,9 @@ A dwelling unit meets the energy saving requirements of this subsection if such 
 
 &emsp;&emsp;(B) to have building envelope component improvements account for at least 1/5 of such 50 percent,
 
-&emsp;(2) a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (section <sup>1</sup> 3280 of title 24, Code of Federal Regulations) and which meets the requirements of paragraph (1), or
+&emsp;(2) a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations) and which meets the requirements of paragraph (1), or
 
-&emsp;(3) a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (section <sup>1</sup> 3280 of title 24, Code of Federal Regulations) and which—
+&emsp;(3) a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations) and which—
 
 &emsp;&emsp;(A) meets the requirements of paragraph (1) applied by substituting “30 percent” for “50 percent” both places it appears therein and by substituting “1/3” for “1/5” in subparagraph (B) thereof, or
 
@@ -92,7 +92,7 @@ For purposes of this section, expenditures taken into account under section 47 o
 
 This section shall not apply to any qualified new energy efficient home acquired after December 31, 2008.
 
-(Added Pub. L. 109–58, title XIII, §1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, §205, Dec. 20, 2006, 120 Stat. 2945.)
+(Added Pub. L. 109–58, title XIII, §1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, §205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(7), Dec. 29, 2007, 121 Stat. 2485.)
 
 #### References in Text
 
@@ -102,11 +102,11 @@ The National Appliance Energy Conservation Act of 1987, referred to in subsec. (
 
 #### Amendments
 
+2007—Subsec. (c)(2), (3). Pub. L. 110–172 substituted “part 3280” for “section 3280” in par. (2) and in introductory provisions of par. (3).
+
 2006—Subsec. (g). Pub. L. 109–432 substituted “2008” for “2007”.
 
 #### Effective Date
 
 Section applicable to qualified new energy efficient homes acquired after Dec. 31, 2005, in taxable years ending after such date, see section 1332(f) of Pub. L. 109–58, set out as an Effective Date of 2005 Amendments note under section 38 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “part”.</i>
 

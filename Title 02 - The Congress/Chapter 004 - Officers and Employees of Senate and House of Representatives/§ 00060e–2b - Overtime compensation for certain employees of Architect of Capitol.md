@@ -6,7 +6,7 @@ For overtime pay purposes, per diem and per hour employees under the Office of t
 
 #### References in Text
 
-Section 6102 of title 5, referred to in text, was repealed by Pub. L. 92–392, §7(a), Aug. 19, 1972, 86 Stat. 573,and reenacted as section 6101(a)(1) of Title 5, Government Organization and Employees.
+Section 6102 of title 5, referred to in text, was repealed by Pub. L. 92–392, §7(a), Aug. 19, 1972, 86 Stat. 573, and reenacted as section 6101(a)(1) of Title 5, Government Organization and Employees.
 
 Sections 60e–3 and 60e–4 of this title, referred to in text, were omitted from the Code.
 

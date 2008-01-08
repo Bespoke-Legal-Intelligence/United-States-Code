@@ -1,9 +1,7 @@
 
-10 U.S.C.<br>United States Code, 2006 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
+10 U.S.C.<br>United States Code, 2007 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 10—ARMED FORCES
-
-<b><i>Sections 101 to 1805 appear in this volume</i></b>
 
 <i>This title was enacted by act Aug. 10, 1956, ch. 1041, §1, 70A Stat. 1</i>
 

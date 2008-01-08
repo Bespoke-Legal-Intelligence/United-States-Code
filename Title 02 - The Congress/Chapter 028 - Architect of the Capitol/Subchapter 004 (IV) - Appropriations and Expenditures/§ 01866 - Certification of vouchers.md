@@ -6,5 +6,5 @@ It shall not be a duty of the Architect of the Capitol to certify any pay roll o
 
 #### Codification
 
-Section was classified to section 174e of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 174e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 

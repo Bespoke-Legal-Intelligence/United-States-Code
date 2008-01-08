@@ -12,7 +12,7 @@ With respect to any function, power, or duty, or any program or activity, that i
 
 Not later than 1 year after November 25, 2002, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the implementation of this subchapter. The report shall—
 
-&emsp;(1) provide an accounting of the amounts and sources of funding available to the Office tocarry out its mission under existing authorizations and appropriations, and set forth the future funding needs of the Office; and
+&emsp;(1) provide an accounting of the amounts and sources of funding available to the Office to carry out its mission under existing authorizations and appropriations, and set forth the future funding needs of the Office; and
 
 &emsp;(2) include such other information and recommendations as the Attorney General considers appropriate.
 

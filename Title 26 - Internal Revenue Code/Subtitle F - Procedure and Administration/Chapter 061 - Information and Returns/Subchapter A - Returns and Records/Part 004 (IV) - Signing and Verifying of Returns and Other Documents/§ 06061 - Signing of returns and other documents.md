@@ -18,7 +18,7 @@ Except as otherwise provided by subsection (b) and sections 6062 and 6063, any r
 
 #### (2) Treatment of alternative methods
 
-&emsp;Notwithstanding any other provision of law, any return, declaration, statement, or otherdocument filed and verified, signed, or subscribed under any method adopted under paragraph (1)(B) shall be treated for all purposes (both civil and criminal, including penalties for perjury) in the same manner as though signed or subscribed.
+&emsp;Notwithstanding any other provision of law, any return, declaration, statement, or other document filed and verified, signed, or subscribed under any method adopted under paragraph (1)(B) shall be treated for all purposes (both civil and criminal, including penalties for perjury) in the same manner as though signed or subscribed.
 
 #### (3) Published guidance
 

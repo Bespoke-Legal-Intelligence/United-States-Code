@@ -134,7 +134,7 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(4), is t
 
 #### Codification
 
-Amendments by Pub. L. 99–509, title VIII, §8031(c), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (c) and (d) of thissection were not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
+Amendments by Pub. L. 99–509, title VIII, §8031(c), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (c) and (d) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
 
@@ -142,7 +142,7 @@ Amendments by Pub. L. 99–509, title VIII, §8031(c), Oct. 21, 1986, 100 Stat. 
 
 1990—Subsec. (d). Pub. L. 101–380 substituted at end “For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting ‘100 percent’ for ‘80 percent’ shall be treated as 1 taxpayer.” for “Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”
 
-1989—Subsec. (d). Pub. L. 101–239 inserted at end “The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”
+1989—Subsec. (d). Pub. L. 101–239 inserted at end “The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline LiabilityFund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”
 
 1986—Subsec. (c). Pub. L. 99–499 added subsec. (c) and redesignated former subsec. (c) as (d).
 

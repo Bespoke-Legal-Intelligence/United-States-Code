@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a provider-sponsored organization that seeks to offer a Medicare+Choice plan in a State, the Secretary shall waivethe requirement of paragraph (1) that the organization be licensed in that State if—
+&emsp;&emsp;In the case of a provider-sponsored organization that seeks to offer a Medicare+Choice plan in a State, the Secretary shall waive the requirement of paragraph (1) that the organization be licensed in that State if—
 
 &emsp;&emsp;&emsp;(i) the organization files an application for such waiver with the Secretary by not later than November 1, 2002, and
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) the standards or review process imposed by the State as a condition of approval of the license imposes any material requirements, procedures, or standards (other than solvency requirements) to such organizations that are not generally applicable to other entities engaged in a substantially similar business, or
 
-&emsp;&emsp;&emsp;(ii) the State requires the organization, as a condition of licensure, to offer any product or plan other than a Medicare+�Choice plan.
+&emsp;&emsp;&emsp;(ii) the State requires the organization, as a condition of licensure, to offer anyproduct or plan other than a Medicare+�Choice plan.
 
 #### (D) Denial of application based on application of solvency requirements
 

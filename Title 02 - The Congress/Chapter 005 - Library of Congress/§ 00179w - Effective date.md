@@ -1,6 +1,6 @@
 ### §179w. Effective date
 
-The provisions of sections 179<i>l</i> to 179w of this title shall be effective for 13 years beginning on October 11, 1996. The provisions of sections 179<i>l</i> to 179w of this title shall apply to any copy of any film, including those copies of films selected for inclusion in the National Film Registry under the National Film Preservation Act of 1988 and the National Film Preservation Act of 1992, except that any film so selected under either Act shall be deemed to have been selected for the National Film Registry under sections 179<i>l</i> to 179w of this title.
+The provisions of sections 179<i>l</i> to 179w of this title shall be effective for 13 years beginning on October 11, 1996. The provisions of sections 179<i>l</i>to 179w of this title shall apply to any copy of any film, including those copies of films selected for inclusion in the National Film Registry under the National Film Preservation Act of 1988 and the National Film Preservation Act of 1992, except that any film so selected under either Act shall be deemed to have been selected for the National Film Registry under sections 179<i>l</i> to 179w of this title.
 
 (Pub. L. 104–285, title I, §113, Oct. 11, 1996, 110 Stat. 3382; Pub. L. 109–9, title III, §302(e), Apr. 27, 2005, 119 Stat. 226.)
 

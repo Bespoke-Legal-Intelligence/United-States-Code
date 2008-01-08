@@ -232,7 +232,7 @@ Pub. L. 107–295, title I, §110(b), Nov. 25, 2002, 116 Stat. 2091, provided th
 
 #### Report on Foreign-flag Vessels
 
-Pub. L. 107–295, title I, §112, Nov. 25, 2002, 116 Stat. 2092, provided that: “Within 6 months after the date of enactment of this Act \[Nov. 25, 2002\] and every year thereafter, the Secretary of the department in whichthe Coast Guard is operating, in consultation with the Secretary of State, shall provide a report to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives that lists the following information:
+Pub. L. 107–295, title I, §112, Nov. 25, 2002, 116 Stat. 2092, provided that: “Within 6 months after the date of enactment of this Act \[Nov. 25, 2002\] and every year thereafter, the Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of State, shall provide a report to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives that lists the following information:
 
 &emsp;“(1) A list of all nations whose flag vessels have entered United States ports in the previous year.
 

@@ -24,7 +24,7 @@
 
 #### (1) Curatorial Advisory Board
 
-&emsp;There is established a Board which shall be chaired by the Senate Curator. The CuratorialAdvisory Board shall provide advice and assistance to the Commission on the acquisition, care, and disposition of items for or within the United States Senate Collection, and on such other matters as the Commission determines appropriate.
+&emsp;There is established a Board which shall be chaired by the Senate Curator. The Curatorial Advisory Board shall provide advice and assistance to the Commission on the acquisition, care, and disposition of items for or within the United States Senate Collection, and on such other matters as the Commission determines appropriate.
 
 #### (2) Additional advisory boards
 
@@ -70,7 +70,7 @@
 
 #### (5) Terms for additional advisory board members
 
-&emsp;Members appointed to the other advisory boards created under paragraph (2) shall serve for terms as stated in their appointment, but no longer than a term of 4 years, except that any member may be reappointed upon the expiration of their term.
+&emsp;Members appointed to the other advisory boards created under paragraph (2) shall servefor terms as stated in their appointment, but no longer than a term of 4 years, except that any member may be reappointed upon the expiration of their term.
 
 #### (6) Regulations
 
@@ -112,7 +112,7 @@
 
 #### (B) Type of obligation
 
-&emsp;&emsp;Each investment required by this paragraph shall be made in an interest bearingobligation of the United States or an obligation guaranteed as to the principal and interest by the United States that, as determined by the Commission, has a maturity suitable for the fund.
+&emsp;&emsp;Each investment required by this paragraph shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to the principal and interest by the United States that, as determined by the Commission, has a maturity suitable for the fund.
 
 #### (C) Commission approval
 

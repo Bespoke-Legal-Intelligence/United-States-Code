@@ -100,7 +100,7 @@ Limitations.—
 
 &emsp;&emsp;(B) will serve to encourage further cooperation between the recipient State or local agency and Federal law enforcement agencies.
 
-&emsp;(5) Amounts transferred by the Attorney General pursuant to section 524(c)(1) of title28, or by the Postmaster General pursuant to section 2003 of title 39, and deposited into the Fund pursuant to subsection (d), shall be available for Federal law enforcement related purposes of the Department of the Treasury law enforcement organizations.
+&emsp;(5) Amounts transferred by the Attorney General pursuant to section 524(c)(1) of title 28, or by the Postmaster General pursuant to section 2003 of title 39, and deposited into the Fund pursuant to subsection (d), shall be available for Federal law enforcement related purposes of the Department of the Treasury law enforcement organizations.
 
 (c)
 
@@ -210,7 +210,7 @@ Appropriations.—
 
 Retention or Transfer of Property.—
 
-&emsp;(1) The Secretary may, with respect to any property forfeited under any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury—
+&emsp;(1) The Secretary may, with respect to any property forfeited under any law (other than section 7301 or 7302 of the Internal RevenueCode of 1986) enforced or administered by the Department of the Treasury—
 
 &emsp;&emsp;(A) retain any of the property for official use; or
 
@@ -238,7 +238,7 @@ Regulations.—The Secretary may prescribe such rules and regulations as may be 
 
 Customs Forfeiture Fund.—Notwithstanding any other provision of law—
 
-&emsp;(1) during any period when forfeited currency and proceeds from forfeitures under anylaw (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury or the United States Coast Guard, are required to be deposited in the Fund pursuant to this section—
+&emsp;(1) during any period when forfeited currency and proceeds from forfeitures under any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury or the United States Coast Guard, are required to be deposited in the Fund pursuant to this section—
 
 &emsp;&emsp;(A) all moneys required to be deposited in the Customs Forfeiture Fund pursuant to section 613A of the Tariff Act of 1930 (19 U.S.C. 1613b) shall instead be deposited in the Fund; and
 
@@ -362,7 +362,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 ofTitle 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Unavailable Collections
 

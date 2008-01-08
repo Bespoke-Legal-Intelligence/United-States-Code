@@ -26,7 +26,7 @@ Pub. L. 107–171, title III, §3208, May 13, 2002, 116 Stat. 302, provided that
 
 “(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit to the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate a report on the feasibility of instituting a program under which the Secretary would charge and retain a fee to cover the costs incurred by the Department of Agriculture, acting through the Foreign Agricultural Service or any successor agency, in providing persons with commercial services provided outside the United States.
+In General.—Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit to the Committee on Agriculture, and the Committee on International Relations \[now Committee on Foreign Affairs\], of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate a report on the feasibility of instituting a program under which the Secretary would charge and retain a fee to cover the costs incurred by the Department of Agriculture, acting through the Foreign Agricultural Service or any successor agency, in providing persons with commercial services provided outside the United States.
 
 “(b)
 

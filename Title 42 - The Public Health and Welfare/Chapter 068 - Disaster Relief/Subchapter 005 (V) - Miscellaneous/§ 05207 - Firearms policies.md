@@ -2,7 +2,7 @@
 
 #### (a) Prohibition on confiscation of firearms
 
-No officer or employee of the United States (including any member of the uniformed services), or person operating pursuant to or undercolor of Federal law, or receiving Federal funds, or under control of any Federal official, or providing services to such an officer, employee, or other person, while acting in support of relief from a major disaster or emergency, may—
+No officer or employee of the United States (including any member of the uniformed services), or person operating pursuant to or under color of Federal law, or receiving Federal funds, or under control of any Federal official, or providing services to such an officer, employee, or other person, while acting in support of relief from a major disaster or emergency, may—
 
 &emsp;(1) temporarily or permanently seize, or authorize seizure of, any firearm the possession of which is not prohibited under Federal, State, or local law, other than for forfeiture in compliance with Federal law or as evidence in a criminal investigation;
 
@@ -20,7 +20,7 @@ Nothing in this section shall be construed to prohibit any person in subsection 
 
 #### (1) In general
 
-&emsp;Any individual aggrieved by a violation of this section may seek relief in an action at law, suit in equity, or other proper proceeding for redress against any person who subjects such individual, or causes such individual to be subjected, to the deprivation of any of the rights, privileges, or immunities secured by this section.
+&emsp;Any individual aggrieved by a violation of this section may seek relief in an action atlaw, suit in equity, or other proper proceeding for redress against any person who subjects such individual, or causes such individual to be subjected, to the deprivation of any of the rights, privileges, or immunities secured by this section.
 
 #### (2) Remedies
 

@@ -30,7 +30,7 @@ The Secretary shall prepare and submit to the Committee on Education and the Wor
 
 #### (d) Academic achievement assessment
 
-Each local educational agency or specially qualified agency that receives a grant under thissubpart for a fiscal year shall administer an assessment that is consistent with section 6311(b)(3) of this title.
+Each local educational agency or specially qualified agency that receives a grant under this subpart for a fiscal year shall administer an assessment that is consistent with section 6311(b)(3) of this title.
 
 #### (e) Determination regarding continuing participation
 
@@ -54,5 +54,9 @@ Prior sections 7352 and 7353 were omitted in the general amendment of this subch
 
 Section 7352, Pub. L. 89–10, title VI, §6302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3711, related to administrative authority. See section 7215a of this title.
 
-Section 7353, Pub. L. 89–10, title VI, §6303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3711, related to local applications for allocations of funds. See section 7215b of this title.
+Section 7353, Pub. L. 89–10, title VI, §6303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3711,related to local applications for allocations of funds. See section 7215b of this title.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

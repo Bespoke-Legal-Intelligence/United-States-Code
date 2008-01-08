@@ -12,7 +12,7 @@
 
 &emsp;(3) shall receive, revise, and have recorded the proceedings of courts of inquiry and military commissions.
 
-(d) Under regulations prescribed by the Secretary of Defense, the Secretary of the Army, in selecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or Assistant Judge Advocate General, shall ensure that theofficer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
+(d) Under regulations prescribed by the Secretary of Defense, the Secretary of the Army, in selecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or Assistant Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
 (e) No officer or employee of the Department of Defense may interfere with—
 
@@ -20,7 +20,7 @@
 
 &emsp;(2) the ability of judge advocates of the Army assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 164; Pub. L. 85–861, §33(a)(18), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 103–337, div. A, title V, §504(a), Oct. 5, 1994, 108 Stat. 2750; Pub. L. 108–375, div. A, title V, §574(a), Oct. 28, 2004, 118 Stat. 1921; Pub. L. 109–163, div. A, title V, §508(a), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 164; Pub. L. 85–861, §33(a)(18), Sept. 2, 1958, 72 Stat. 1565; Pub.L. 103–337, div. A, title V, §504(a), Oct. 5, 1994, 108 Stat. 2750; Pub. L. 108–375, div. A, title V, §574(a), Oct. 28, 2004, 118 Stat. 1921; Pub. L. 109–163, div. A, title V, §508(a), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440.)
 
 Historical and Revision Notes<br>1956
 

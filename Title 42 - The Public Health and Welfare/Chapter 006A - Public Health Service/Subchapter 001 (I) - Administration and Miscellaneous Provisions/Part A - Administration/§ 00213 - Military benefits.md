@@ -50,13 +50,13 @@ The Servicemembers Civil Relief Act, referred to in subsec. (e), is act Oct. 17,
 
 1976—Subsec. (e). Pub. L. 94–278 added subsec. (e).
 
-1956—Act Aug. 1, 1956, amended section generally to extend all rights, privileges, immunities, and benefits provided for commissioned officers of the Army or their surviving beneficiaries to commissioned officers of the Service, with the exception of retired pay and uniform allowances, when performing duty under certain circumstances, and to provide that active service of commissioned officers shall be deemed to be active military service in the Armed Forces for the purposes of all laws administered by the Veterans’ Administration (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
+1956—Act Aug. 1, 1956, amended section generally to extend all rights, privileges, immunities, and benefits provided for commissioned officers of the Army or their surviving beneficiaries to commissioned officers of the Service, with the exception of retired pay and uniform allowances, when performing duty under certain circumstances, and to provide that active service of commissioned officers shall be deemed to be active militaryservice in the Armed Forces for the purposes of all laws administered by the Veterans’ Administration (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
 
 1954—Subsec. (a)(1). Act July 15, 1954, struck out “burial payments in the event of death,” after “limited to,”.
 
 #### Effective Date of 1956 Amendment; Applicability
 
-Section 501(b)(2) of act Aug. 1, 1956, provided that: “The amendment made by this subsection \[amending this section\] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[act July 16, 1952, ch. 875, 66 Stat. 633\], (C)shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[section 402(i) of this title\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
+Section 501(b)(2) of act Aug. 1, 1956, provided that: “The amendment made by this subsection \[amending this section\] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[act July 16, 1952, ch. 875, 66 Stat. 633\], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[section 402(i) of this title\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
 
 #### Transfer of Functions
 

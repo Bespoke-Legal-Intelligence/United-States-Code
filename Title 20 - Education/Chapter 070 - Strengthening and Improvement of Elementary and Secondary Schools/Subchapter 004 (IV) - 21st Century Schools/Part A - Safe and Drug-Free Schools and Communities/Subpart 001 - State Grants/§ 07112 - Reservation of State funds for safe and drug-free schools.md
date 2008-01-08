@@ -12,7 +12,7 @@
 
 #### (2) Priority
 
-&emsp;In making such grants and contracts under this section, a chief executive officer shall give priority to programs and activities that prevent illegal drug use and violence for—
+&emsp;In making such grants and contracts under this section, a chief executive officer shallgive priority to programs and activities that prevent illegal drug use and violence for—
 
 &emsp;&emsp;(A) children and youth who are not normally served by State educational agencies or local educational agencies; or
 

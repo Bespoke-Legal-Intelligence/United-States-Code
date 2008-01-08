@@ -28,7 +28,3 @@ This Act, referred to in subsec. (a), is Pub. L. 100–89, Aug. 18, 1987, 101 St
 
 1994—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources of the House of Representatives” for “Interior and Insular Affairs”.
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

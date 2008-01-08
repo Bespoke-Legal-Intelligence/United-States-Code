@@ -76,7 +76,7 @@ Subsec. (d)(1). Pub. L. 108–375, §552(b)(1)(A)(i), (c)(1), in introductory pr
 
 Subsec. (d)(1)(B). Pub. L. 108–375, §552(b)(1)(A)(ii), inserted “for any department or agency for which regular appropriations are made” after “made available”.
 
-Subsec. (d)(1)(C) to (F). Pub. L. 108–375, §552 (b)(1)(A)(iii), added subpars. (C) to (F).
+Subsec. (d)(1)(C) to (F). Pub. L. 108–375, §552(b)(1)(A)(iii), added subpars. (C) to (F).
 
 Subsec. (d)(2). Pub. L. 108–375, §552(b)(1)(B), (c)(2), added par. (2) and struck out former par. (2) which read as follows: “The limitation established in subsection (b) applies to the following:
 

@@ -6,7 +6,7 @@ It is the sense of the Congress that no State agency and no private person shoul
 
 #### (b) Presidential action
 
-The President shall take such reasonable measures as may be available to promote the observance by State agencies and private persons, in carrying out standards-related activities, of requirements equivalent to those imposed on Federal agencies under section 2532 of this title, and of procedures that provide for notification,participation, and publication with respect to such activities.
+The President shall take such reasonable measures as may be available to promote the observance by State agencies and private persons, in carrying out standards-related activities, of requirements equivalent to those imposed on Federal agencies under section 2532 of this title, and of procedures that provide for notification, participation, and publication with respect to such activities.
 
 (Pub. L. 96–39, title IV, §403, July 26, 1979, 93 Stat. 243.)
 

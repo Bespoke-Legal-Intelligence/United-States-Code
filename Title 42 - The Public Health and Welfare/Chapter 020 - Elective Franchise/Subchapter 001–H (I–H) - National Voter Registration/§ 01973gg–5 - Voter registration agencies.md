@@ -14,7 +14,7 @@
 
 (B) Voter registration agencies designated under subparagraph (A) may include—
 
-&emsp;(i) State or local government offices such as public libraries, public schools, offices of city and county clerks (including marriage license bureaus), fishing and hunting license bureaus, government revenue offices, unemployment compensation offices, and offices not described in paragraph (2)(B) that provide services to persons with disabilities; and
+&emsp;(i) State or local government offices such as public libraries, public schools, offices of city and county clerks (including marriage license bureaus), fishing and hunting license bureaus, government revenue offices, unemploymentcompensation offices, and offices not described in paragraph (2)(B) that provide services to persons with disabilities; and
 
 &emsp;(ii) Federal and nongovernmental offices, with the agreement of such offices.
 
@@ -84,7 +84,7 @@ All departments, agencies, and other entities of the executive branch of the Fed
 
 (1) Subject to paragraph (2), a completed registration application accepted at a voter registration agency shall be transmitted to the appropriate State election official not later than 10 days after the date of acceptance.
 
-(2) If a registration application is accepted within 5 days before the last day for registration to vote in an election, the application shall be transmitted to the appropriate State election official not later than 5 days after the date of acceptance.
+(2) If a registration application is accepted within 5 days before the last day for registration to vote in an election, the application shall be transmitted to the appropriate State electionofficial not later than 5 days after the date of acceptance.
 
 (Pub. L. 103–31, §7, May 20, 1993, 107 Stat. 80.)
 

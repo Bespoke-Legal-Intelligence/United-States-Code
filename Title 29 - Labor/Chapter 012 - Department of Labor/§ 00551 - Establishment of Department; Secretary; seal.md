@@ -14,7 +14,7 @@ Section was formerly classified to section 611 of Title 5 prior to the general r
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–619, §1, Nov. 6, 1986, 100 Stat. 3491, provided that: “This Act \[amending sections 552 and 553 of thistitle and sections 5313 to 5316 of Title 5, Government Organization and Employees, repealing section 3 of Reorganization Plan No. 6 of 1950, set out in the Appendix to Title 5, and enacting provisions set out as notes under sections 552 and 553 of this title and section 5316 of Title 5\] may be cited as the ‘Department of Labor Executive Level Conforming Amendments of 1986’.”
+Pub. L. 99–619, §1, Nov. 6, 1986, 100 Stat. 3491, provided that: “This Act \[amending sections 552 and 553 of this title and sections 5313 to 5316 of Title 5, Government Organization and Employees, repealing section 3 of Reorganization Plan No. 6 of 1950, set out in the Appendix to Title 5, and enacting provisions set out as notes under sections 552 and 553 of this title and section 5316 of Title 5\] may be cited as the ‘Department of Labor Executive Level Conforming Amendments of 1986’.”
 
 #### Transfer of Functions
 

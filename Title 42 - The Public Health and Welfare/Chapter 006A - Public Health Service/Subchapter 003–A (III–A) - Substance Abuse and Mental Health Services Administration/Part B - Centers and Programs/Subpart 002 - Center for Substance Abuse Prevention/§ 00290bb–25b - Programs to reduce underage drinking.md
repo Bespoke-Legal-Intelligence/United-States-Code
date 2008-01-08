@@ -60,7 +60,7 @@ It is the sense of the Congress that:
 
 #### (E) Consultations
 
-&emsp;&emsp;The Committee shall actively seek the input of and shall consult with all appropriate and interested parties, including States, public health research and interest groups, foundations, and alcohol beverage industry trade associations and companies.
+&emsp;&emsp;The Committee shall actively seek the input of and shall consult with all appropriate and interested parties, includingStates, public health research and interest groups, foundations, and alcohol beverage industry trade associations and companies.
 
 #### (F) Annual report
 
@@ -132,7 +132,7 @@ It is the sense of the Congress that:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) community-based, school-based, and higher-education-based programs to prevent underage drinking;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) underage drinking prevention programs that target youth within the juvenile justice and child welfare systems; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) underage drinking prevention programs that target youth within thejuvenile justice and child welfare systems; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) other State efforts or programs as deemed appropriate.
 
@@ -192,7 +192,7 @@ It is the sense of the Congress that:
 
 #### (D) Uses of funds
 
-&emsp;&emsp;Each eligible entity that receives a grant under this paragraph shall use the grantfunds to carry out the activities described in such entity's application submitted pursuant to subparagraph (C). Grants under this paragraph shall not exceed $50,000 per year and may not exceed four years.
+&emsp;&emsp;Each eligible entity that receives a grant under this paragraph shall use the grant funds to carry out the activities described in such entity's application submitted pursuant to subparagraph (C). Grants under this paragraph shall not exceed $50,000 per year and may not exceed four years.
 
 #### (E) Supplement not supplant
 

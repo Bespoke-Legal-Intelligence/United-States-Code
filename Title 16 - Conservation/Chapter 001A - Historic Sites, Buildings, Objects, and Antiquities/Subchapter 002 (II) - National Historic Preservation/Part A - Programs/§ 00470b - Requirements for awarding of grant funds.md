@@ -40,7 +40,7 @@ The total administrative costs, direct and indirect, charged for carrying out St
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(2), is Pub. L. 88–578, Sept. 3,1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(2), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
 #### Amendments
 
@@ -50,7 +50,7 @@ The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(2),
 
 Subsec. (b). Pub. L. 102–575, §4009(2), which directed amendment of subsec. (b) by striking out “, in which case a grant to the National Trust may include funds for the maintenance, repair, and administration of the property in a manner satisfactory for the Secretary”, was executed by striking out “, in which case a grant to the National Trust may include funds for the maintenance, repair, and administration of the property in a manner satisfactory to the Secretary” after “United States” to reflect the probable intent of Congress.
 
-Subsecs. (d) and (e). Pub. L. 102–575, §4009(3), added subsec. (d), relating to availability, and subsec. (e).
+Subsecs. (d), (e). Pub. L. 102–575, §4009(3), added subsec. (d), relating to availability, and subsec. (e).
 
 1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

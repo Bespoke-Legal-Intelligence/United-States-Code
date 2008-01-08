@@ -96,7 +96,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “Alaska natural gas” means natural gas entering the Alaska natural gas pipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well—
 
-&emsp;&emsp;&emsp;(i) located in the area of the State of Alaska lying north of 64 degrees Northlatitude, determined by excluding the area of the Alaska National Wildlife Refuge (including the continental shelf thereof within the meaning of section 638(1)), and
+&emsp;&emsp;&emsp;(i) located in the area of the State of Alaska lying north of 64 degrees North latitude, determined by excluding the area of the Alaska National Wildlife Refuge (including the continental shelf thereof within the meaning of section 638(1)), and
 
 &emsp;&emsp;&emsp;(ii) pursuant to the applicable State and Federal pollution prevention, control, and permit requirements from such area (including the continental shelf thereof within the meaning of section 638(1)).
 

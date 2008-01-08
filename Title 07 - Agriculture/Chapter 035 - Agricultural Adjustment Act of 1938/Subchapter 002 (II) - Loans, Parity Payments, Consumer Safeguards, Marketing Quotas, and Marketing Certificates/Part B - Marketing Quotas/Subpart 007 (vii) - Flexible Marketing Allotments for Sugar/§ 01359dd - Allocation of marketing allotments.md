@@ -58,7 +58,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding subparagraphs (A) and (C) of section 1359cc(e)(3) of this title, to accommodate an allocation under clause (i) to a new processor located in a new entrant mainland State, the Secretary shall provide the new entrant mainland State with an allotment.
+&emsp;&emsp;&emsp;&emsp;Notwithstanding subparagraphs (A) and (C) of section 1359cc(e)(3) of thistitle, to accommodate an allocation under clause (i) to a new processor located in a new entrant mainland State, the Secretary shall provide the new entrant mainland State with an allotment.
 
 #### (II) Effect on other allotments
 
@@ -88,7 +88,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (B) Quantity
 
-&emsp;&emsp;The quantity of an allocation made for a beet sugar processor for a crop year undersubparagraph (A) shall bear the same ratio to the quantity of allocations made for all beet sugar processors for the crop year as the adjusted weighted average quantity of beet sugar produced by the processor (as determined under subparagraphs (C) and (D)) bears to the total of the adjusted weighted average quantities of beet sugar produced by all processors (as so determined).
+&emsp;&emsp;The quantity of an allocation made for a beet sugar processor for a crop year under subparagraph (A) shall bear the same ratio to the quantity of allocations made for all beet sugar processors for the crop year as the adjusted weighted average quantity of beet sugar produced by the processor (as determined under subparagraphs (C) and (D)) bears to the total of the adjusted weighted average quantities of beet sugar produced by all processors (as so determined).
 
 #### (C) Weighted average quantity
 
@@ -120,7 +120,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a processor that opened a sugar beet processing factory, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is opened by the processor;
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a processor that closed a sugar beet processing factory, decreased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is closed by the processor;
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a processor that closed a sugar beet processing factory, decreased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processorsduring the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is closed by the processor;
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of a processor that constructed a molasses desugarization facility, increased by 0.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each molasses desugarization facility that is constructed by the processor; and
 

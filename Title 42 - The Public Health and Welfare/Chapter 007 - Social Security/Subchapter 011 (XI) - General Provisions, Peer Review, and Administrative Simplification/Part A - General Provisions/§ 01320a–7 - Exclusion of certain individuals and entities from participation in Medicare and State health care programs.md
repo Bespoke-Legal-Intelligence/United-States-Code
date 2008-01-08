@@ -42,7 +42,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (3) Misdemeanor conviction relating to controlled substance
 
-&emsp;Any individual or entity that has been convicted, under Federal or State law, of a criminal offense consisting of a misdemeanor relating to the unlawful manufacture, distribution,prescription, or dispensing of a controlled substance.
+&emsp;Any individual or entity that has been convicted, under Federal or State law, of a criminal offense consisting of a misdemeanor relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
 
 #### (4) License revocation or suspension
 
@@ -108,7 +108,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (10) Failure to supply requested information on subcontractors and suppliers
 
-&emsp;Any disclosing entity (as defined in section 1320a–3(a)(2) of this title) that fails to supply\(within such period as may be specified by the Secretary in regulations) upon request specifically addressed to the entity by the Secretary or by the State agency administering or supervising the administration of a State health care program—
+&emsp;Any disclosing entity (as defined in section 1320a–3(a)(2) of this title) that fails to supply (within such period as may be specified by the Secretary in regulations) upon request specifically addressed to the entity by the Secretary or by the State agency administering or supervising the administration of a State health care program—
 
 &emsp;&emsp;(A) full and complete information as to the ownership of a subcontractor (as defined by the Secretary in regulations) with whom the entity has had, during the previous 12 months, business transactions in an aggregate amount in excess of $25,000, or
 
@@ -150,7 +150,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;(i) that has been convicted of any offense described in subsection (a) of this section or in paragraph (1), (2), or (3) of this subsection; or
 
-&emsp;&emsp;(ii) that has been excluded from participation under a program under subchapter XVIII of this chapter or under a State health care program.
+&emsp;&emsp;(ii) that has been excluded from participation under a program under subchapterXVIII of this chapter or under a State health care program.
 
 #### (c) Notice, effective date, and period of exclusion
 
@@ -218,7 +218,7 @@ The Secretary shall—
 
 (1) Subject to paragraph (2), any individual or entity that is excluded (or directed to be excluded) from participation under this section is entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
 
-(2) Unless the Secretary determines that the health or safety of individuals receiving serviceswarrants the exclusion taking effect earlier, any individual or entity that is the subject of an adverse determination under subsection (b)(7) of this section shall be entitled to a hearing by an administrative law judge (as provided under section 405(b) of this title) on the determination under subsection (b)(7) of this section before any exclusion based upon the determination takes effect.
+(2) Unless the Secretary determines that the health or safety of individuals receiving services warrants the exclusion taking effect earlier, any individual or entity that is the subject of an adverse determination under subsection (b)(7) of this section shall be entitled to a hearing by an administrative law judge (as provided under section 405(b) of this title) on the determination under subsection (b)(7) of this section before any exclusion based upon the determination takes effect.
 
 (3) The provisions of section 405(h) of this title shall apply with respect to this section and sections 1320a–7a, 1320a–8, and 1320c–5 of this title to the same extent as it is applicable with respect to subchapter II of this chapter, except that, in so applying such section and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary.
 
@@ -348,7 +348,7 @@ Subsec. (d)(3)(B). Pub. L. 100–203, §4118(e)(2), designated existing provisio
 
 Subsec. (i). Pub. L. 100–203, §4118(e)(5)(A), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “an individual or entity” for “a physician or other individual” in introductory provisions.
 
-Pub. L. 100–203, §4118(e)(5)(B), as added by Pub. L. 100–360, §411(k)(10)(D), which directed amendment of pars. (1) to (4) by substituting “individual or entity” for “physician or other individual” each place it appears, was executed by substituting “individual or entity” for “physician or individual” in pars. (1) to (4) as the probable intent of Congress.
+Pub. L. 100–203, §4118(e)(5)(B), as added by Pub. L. 100–360, §411(k)(10)(D), which directed amendment of pars. (1) to (4) by substituting “individual or entity”for “physician or other individual” each place it appears, was executed by substituting “individual or entity” for “physician or individual” in pars. (1) to (4) as the probable intent of Congress.
 
 Subsec. (i)(4). Pub. L. 100–203, §4118(e)(5)(C), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “first offender, deferred adjudication, or other arrangement or program” for “first offender or other program”.
 
@@ -370,7 +370,7 @@ Amendments by section 4331(c) of Pub. L. 105–33 effective Aug. 5, 1997, see se
 
 #### Effective Date of 1996 Amendment
 
-Section 218 of Pub. L. 104–191 provided that: “Except as otherwise provided, the amendments made by thissubtitle \[subtitle B, §§211–218, of title II of Pub. L. 104–191, amending this section and sections 1320a–7b, 1320c–5, and 1395mm of this title\] shall take effect January 1, 1997.”
+Section 218 of Pub. L. 104–191 provided that: “Except as otherwise provided, the amendments made by this subtitle \[subtitle B, §§211–218, of title II of Pub. L. 104–191, amending this section and sections 1320a–7b, 1320c–5, and 1395mm of this title\] shall take effect January 1, 1997.”
 
 #### Effective Date of 1994 Amendment
 
@@ -420,7 +420,7 @@ Clarification of Medicaid Moratorium.—The amendments made by section 9 of this
 
 “(f)
 
-Treatment of Certain Denials of Payment.—For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[subsec. (b)(8)(B)(iii) of this section\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participation under a program under title XVIII \[subchapter XVIII of this chapter\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[section 1395y(d) of this title\], as in effect before the effective date specified in subsection (a).”
+Treatment of Certain Denials of Payment.—For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[subsec. (b)(8)(B)(iii) of this section\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participationunder a program under title XVIII \[subchapter XVIII of this chapter\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[section 1395y(d) of this title\], as in effect before the effective date specified in subsection (a).”
 
 #### Effective Date of 1986 Amendment
 

@@ -12,7 +12,7 @@ The functions and activities of the program shall include, at a minimum—
 
 &emsp;(2) demonstration of the design and conduct of environmental field studies and assessments;
 
-&emsp;(3) development of environmental education programs and curriculum, including programs and curriculum to meet the needs of diverse ethnic and cultural groups;
+&emsp;(3) development of environmental education programs and curriculum, including programsand curriculum to meet the needs of diverse ethnic and cultural groups;
 
 &emsp;(4) sponsorship and management of international exchanges of teachers and other educational professionals between the United States, Canada, and Mexico involved in environmental programs and issues;
 

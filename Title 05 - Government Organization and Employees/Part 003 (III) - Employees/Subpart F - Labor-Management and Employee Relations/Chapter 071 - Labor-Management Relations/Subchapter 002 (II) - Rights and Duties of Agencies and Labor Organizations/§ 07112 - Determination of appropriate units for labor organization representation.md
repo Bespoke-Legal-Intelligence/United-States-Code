@@ -14,7 +14,7 @@
 
 &emsp;(5) both professional employees and other employees, unless a majority of the professional employees vote for inclusion in the unit;
 
-&emsp;(6) any employee engaged in intelligence, counterintelligence, investigative, or security work which directly affects national security; or
+&emsp;(6) any employee engaged in intelligence, counterintelligence, investigative, or securitywork which directly affects national security; or
 
 &emsp;(7) any employee primarily engaged in investigation or audit functions relating to the work of individuals employed by an agency whose duties directly affect the internal security of the agency, but only if the functions are undertaken to ensure that the duties are discharged honestly and with integrity.
 

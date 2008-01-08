@@ -16,7 +16,7 @@ The Secretary may enter into agreements with any owner of property with national
 
 &emsp;(B) the Commission to assist the Commission in establishing the index and the standards and criteria required by section 410cc–32 of this title.
 
-(2) The Secretary may provide to any owner of property within the park or preservation district, the Commission, the Commonwealth of Massachusetts, the city of Lowell, and any otherFederal entity or any institution such technical assistance as the Secretary considers appropriate to carry out the purpose of this subchapter.
+(2) The Secretary may provide to any owner of property within the park or preservation district, the Commission, the Commonwealth of Massachusetts, the city of Lowell, and any other Federal entity or any institution such technical assistance as the Secretary considers appropriate to carry out the purpose of this subchapter.
 
 (Pub. L. 95–290, title II, §203, June 5, 1978, 92 Stat. 294.)
 

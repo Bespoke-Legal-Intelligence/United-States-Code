@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an eligible crop described in paragraph (2), the Secretary of Agricultureshall operate a noninsured crop disaster assistance program to provide coverage equivalent to the catastrophic risk protection otherwise available under section 1508(b) of this title. The Secretary shall carry out this section through the Consolidated Farm Service Agency (in this section referred to as the “Agency”).
+&emsp;In the case of an eligible crop described in paragraph (2), the Secretary of Agriculture shall operate a noninsured crop disaster assistance program to provide coverage equivalent to the catastrophic risk protection otherwise available under section 1508(b) of this title. The Secretary shall carry out this section through the Consolidated Farm Service Agency (in this section referred to as the “Agency”).
 
 #### (2) Eligible crops
 
@@ -158,7 +158,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;&emsp;The term “qualifying gross revenues” means—
 
-&emsp;&emsp;&emsp;(i) if a majority of the gross revenue of the person is received from farming, ranching, and forestry operations, the gross revenue from the farming, ranching, and forestry operations of the person; and
+&emsp;&emsp;&emsp;(i) if a majority of the gross revenue of the person is received from farming,ranching, and forestry operations, the gross revenue from the farming, ranching, and forestry operations of the person; and
 
 &emsp;&emsp;&emsp;(ii) if less than a majority of the gross revenue of the person is received from farming, ranching, and forestry operations, the gross revenue of the person from all sources.
 

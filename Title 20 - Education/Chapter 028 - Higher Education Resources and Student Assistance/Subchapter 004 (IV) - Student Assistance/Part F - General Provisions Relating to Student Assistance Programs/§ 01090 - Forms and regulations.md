@@ -8,7 +8,7 @@
 
 #### (2) Charges to students and parents for use of form prohibited
 
-&emsp;The common financial reporting form prescribed by the Secretary under paragraph (1) shall be produced, distributed, and processed by the Secretary and no parent or student shall be charged a fee for the collection, processing, or delivery of financial aid through the use of such form. The need and eligibility of a student for financial assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter) may only be determined by using the form developed by the Secretary pursuant to paragraph (1) of this subsection. No student may receive assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter), except by use of the form developed by the Secretary pursuant to this section. No data collected on a form for which a fee is charged shall be used to complete the form prescribed under paragraph (1).
+&emsp;The common financial reporting form prescribed by the Secretary under paragraph (1) shall be produced, distributed, and processed by the Secretary and no parent or student shall be charged a fee for the collection, processing, or delivery of financial aid through the use of such form. The need and eligibility of a student for financial assistance under parts A through D of this subchapter and part C ofsubchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter) may only be determined by using the form developed by the Secretary pursuant to paragraph (1) of this subsection. No student may receive assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter), except by use of the form developed by the Secretary pursuant to this section. No data collected on a form for which a fee is charged shall be used to complete the form prescribed under paragraph (1).
 
 #### (3) Distribution of data
 
@@ -34,7 +34,7 @@
 
 &emsp;(E) All approved contractors shall be required to adhere to all editing, processing, and reporting requirements established by the Secretary to ensure consistency.
 
-&emsp;(F) No approved contractor shall enter into exclusive arrangements with guarantors, lenders, secondary markets, or institutions of higher education for the purpose of reselling or sharing of data collected for the multiple data entry process. All data collected under a contract issued by the Secretary pursuant to this paragraph for the multiple data entryprocess is the exclusive property of the Secretary and may not be transferred to a third party by an approved contractor without the Secretary's express written approval.
+&emsp;(F) No approved contractor shall enter into exclusive arrangements with guarantors, lenders, secondary markets, or institutions of higher education for the purpose of reselling or sharing of data collected for the multiple data entry process. All data collected under a contract issued by the Secretary pursuant to this paragraph for the multiple data entry process is the exclusive property of the Secretary and may not be transferred to a third party by an approved contractor without the Secretary's express written approval.
 
 #### (5) Electronic forms
 
@@ -72,7 +72,7 @@ Copies of all rules, regulations, guidelines, instructions, and application form
 
 #### (d) Toll-free information
 
-The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing the application form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to theservices provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education that is authorized under section 1485(d)(2)(C) of this title.
+The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing the application form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to the services provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education that is authorized under section 1485(d)(2)(C) of this title.
 
 #### (e) Preparer
 
@@ -90,7 +90,7 @@ A prior section 1090, Pub. L. 89–329, title IV, §483, as added Pub. L. 96–3
 
 Subsec. (a)(1). Pub. L. 105–244, §482(a)(2)(D), struck out at end “For the purpose of collecting eligibility and other data for the purpose of part B of this subchapter, the Secretary shall develop a separate, identifiable loan application document (pursuant to section 1082(m) of this title) that applicants or institutions in which the students are enrolled or accepted for enrollment shall submit directly to eligible lenders and on which the applicant shall clearly indicate a choice of a lender.”
 
-Pub. L. 105–244, §482(a)(2)(C), substituted “The Secretary shall include on the form developed under this subsection such data items as the Secretary determines are appropriate for inclusion. Such items shall be selected in consultation with States to assist in the awarding of State financial assistance. In no case shall the number of such data items be less than the number included on the form on October 7, 1998.” for “The Secretary may include on the form developed pursuant to this paragraph not more than eight nonfinancial data items selected in consultation with the States to assist the States in awarding State student financial assistance.”
+Pub. L. 105–244, §482(a)(2)(C), substituted “The Secretary shall include on the form developed under thissubsection such data items as the Secretary determines are appropriate for inclusion. Such items shall be selected in consultation with States to assist in the awarding of State financial assistance. In no case shall the number of such data items be less than the number included on the form on October 7, 1998.” for “The Secretary may include on the form developed pursuant to this paragraph not more than eight nonfinancial data items selected in consultation with the States to assist the States in awarding State student financial assistance.”
 
 Pub. L. 105–244, §482(a)(2)(A), (B), substituted “A through D” for “A, C, and D” and struck out “and to determine the need of a student for the purpose of part B of this subchapter” after “part A of this subchapter)”.
 
@@ -140,7 +140,9 @@ Subsecs. (b) to (f). Pub. L. 100–50, §15(6), added subsec. (b) and redesignat
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1998 Amendment
 

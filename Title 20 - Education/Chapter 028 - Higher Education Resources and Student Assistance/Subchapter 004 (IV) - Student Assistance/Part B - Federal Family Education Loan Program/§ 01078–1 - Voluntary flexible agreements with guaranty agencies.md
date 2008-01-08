@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Subject to paragraph (2),<sup>1</sup> the Secretary may enter into a voluntary, flexible agreement with a guaranty agency under this section, in lieu of agreements with a guaranty agency under subsections (b) and (c) of section 1078 of this title. The Secretary may waive or modify any requirement under such subsections, except that the Secretary may not waive—
+&emsp;Subject to paragraph (2),<sup>1</sup> the Secretary may enter into a voluntary, flexible agreement with a guaranty agency under this section, in lieu of agreements with a guaranty agency under subsections (b) and (c) of section 1078 of this title. The Secretary may waive or modifyany requirement under such subsections, except that the Secretary may not waive—
 
 &emsp;&emsp;(A) any statutory requirement pertaining to the terms and conditions attached to student loans or default claim payments made to lenders;
 
@@ -128,9 +128,11 @@ Subsec. (a)(4). Pub. L. 109–171, §8014(f)(4), struck out par. (4), which requ
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date
 

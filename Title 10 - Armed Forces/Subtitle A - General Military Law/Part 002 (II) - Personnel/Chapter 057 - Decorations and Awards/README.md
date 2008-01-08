@@ -47,6 +47,10 @@ Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 1965—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
 
+#### Promotional Materials and Recognition Items for Participants in Operation Enduring Freedom or Operation Iraqi Freedom
+
+Pub. L. 110–116, div. A, title VIII, §8099, Nov. 13, 2007, 121 Stat. 1337, provided that: “Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary's jurisdiction who, as determined by the Secretary, participates in Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations.”
+
 #### Report on Department of Defense Process for Awarding Decorations
 
 Pub. L. 109–364, div. A, title V, §557, Oct. 17, 2006, 120 Stat. 2219, provided that:
@@ -79,7 +83,7 @@ Pub. L. 108–234, §1, May 28, 2004, 118 Stat. 655, provided that:
 
 “(a)
 
-Requirement.—The President shall establish a campaign medal specifically to recognize service by members of the uniformed services in Operation Enduring Freedom and a separate campaign medal specifically to recognize service by members of the uniformed services in Operation Iraqi Freedom.
+Requirement.—The President shall establish a campaign medal specifically to recognize service bymembers of the uniformed services in Operation Enduring Freedom and a separate campaign medal specifically to recognize service by members of the uniformed services in Operation Iraqi Freedom.
 
 “(b)
 
@@ -95,7 +99,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(1) During the period of the Cold War, from the end of World War II until the collapse of the Soviet Union in 1991, the United States and the Soviet Union engaged in a global military rivalry.
 
-&emsp;“(2) This rivalry, potentially the most dangerous military confrontation in the history of mankind, hascome to a close without a direct superpower military conflict.
+&emsp;“(2) This rivalry, potentially the most dangerous military confrontation in the history of mankind, has come to a close without a direct superpower military conflict.
 
 &emsp;“(3) Military and civilian personnel of the Department of Defense, personnel in the intelligence community, members of the foreign service, and other officers and employees of the United States faithfully performed their duties during the Cold War.
 
@@ -151,7 +155,7 @@ Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, as amended by Ex. Ord. No. 132
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
-Section 1. There is established a Vice Presidential Service Badge to be awarded in the name of the Vice President of the United States of America to members of the Army, Navy, Marine Corps, Air Force, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service who have been assigned to duty in the Office of the Vice President for a period of at least one year subsequent to December 19, 1974, or who have been assigned to perform duties predominantly for the Vice President for a period of at least one year subsequent to January 20, 2001, in the implementation of Public Law 93–346, as amended \[3 U.S.C. 111 note\], or in military units and support facilities to which section 1 of Executive Order 12793 of March 20, 1992, as amended \[set out below\], refers.
+Section 1. There is established a Vice Presidential Service Badge to be awarded in the name of the Vice President of the United States of America to members of the Army, Navy, Marine Corps, Air Force, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service who have been assigned toduty in the Office of the Vice President for a period of at least one year subsequent to December 19, 1974, or who have been assigned to perform duties predominantly for the Vice President for a period of at least one year subsequent to January 20, 2001, in the implementation of Public Law 93–346, as amended \[3 U.S.C. 111 note\], or in military units and support facilities to which section 1 of Executive Order 12793 of March 20, 1992, as amended \[set out below\], refers.
 
 Sec. 2. The Vice Presidential Service Badge may be awarded, upon recommendation of the Vice President's designee (with the concurrence of the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers), by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security, to military personnel of their respective services who have been assigned to duty in the Office of the Vice President and, in the case of members of the commissioned corps of the National Oceanic and Atmospheric Administration or the commissioned corps of the Public Health Service so assigned, by the Secretary of Commerce or the Secretary of Health and Human Services, respectively.
 
@@ -203,7 +207,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate (“Certificate”) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President (“EOP”). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
 
-Sec. 2. <i>Presidential Service Badge</i>. The Presidential Service Badge (“Badge”) is hereby continued, the design of which accompanies and is hereby made a part ofthis order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
+Sec. 2. <i>Presidential Service Badge</i>. The Presidential Service Badge (“Badge”) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
 
 Sec. 3. Only one Certificate may be awarded to an individual.
 

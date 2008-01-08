@@ -26,11 +26,11 @@ Proposals under paragraph (1)(A) of subsection (a) of this section shall include
 
 #### (c) Initial submission of proposals
 
-Under the requirements established under subsection (a)(1)(A) of this section, initial proposals for the installation of solar energy equipment in Federal buildings selected under subsection (a)(1)(A) of this section shall be submitted notlater than 180 days after the date of promulgation of the rule under subsection (a)(1) of this section.
+Under the requirements established under subsection (a)(1)(A) of this section, initial proposals for the installation of solar energy equipment in Federal buildings selected under subsection (a)(1)(A) of this section shall be submitted not later than 180 days after the date of promulgation of the rule under subsection (a)(1) of this section.
 
 #### (d) Program to disseminate information to Federal procurement and loan officers
 
-In order to more widely disseminate information about the program under this part and under part B and the benefits of renewable energy and energy efficiency technology, the Secretary shall establish a program which includes site visits and technical briefings, to disseminate such information to Federal procurement officers and Federal loan officers. The Secretary shall utilize available funds for the program under this subsection.
+In order to more widely disseminate information about the program under this part and under part B and the benefits of renewable energy and energy efficiency technology, the Secretary shall establish a program which includes site visits and technical briefings, to disseminate such information to Federal procurementofficers and Federal loan officers. The Secretary shall utilize available funds for the program under this subsection.
 
 (Pub. L. 95–619, title V, §523, Nov. 9, 1978, 92 Stat. 3276; Pub. L. 101–218, §8(a), Dec. 11, 1989, 103 Stat. 1868.)
 

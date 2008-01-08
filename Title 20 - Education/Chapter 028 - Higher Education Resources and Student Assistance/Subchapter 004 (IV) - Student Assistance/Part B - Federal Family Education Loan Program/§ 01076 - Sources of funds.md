@@ -1,6 +1,6 @@
 ### §1076. Sources of funds
 
-Loans made by eligible lenders in accordance with this part shall be insurable by the Secretary whether made from funds fully owned by the lender or from funds held by the lender in a trust or similar capacity and available for such loans.
+Loans made by eligible lenders in accordance with this part shall be insurable by the Secretary whether made from funds fully owned bythe lender or from funds held by the lender in a trust or similar capacity and available for such loans.
 
 (Pub. L. 89–329, title IV, §426, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1361.)
 

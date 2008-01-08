@@ -2,7 +2,7 @@
 
 #### (a) General
 
-Any lot or parcel which is part of a tract of real property in the hands of a taxpayer otherthan a C corporation shall not be deemed to be held primarily for sale to customers in the ordinary course of trade or business at the time of sale solely because of the taxpayer having subdivided such tract for purposes of sale or because of any activity incident to such subdivision or sale, if—
+Any lot or parcel which is part of a tract of real property in the hands of a taxpayer other than a C corporation shall not be deemed to be held primarily for sale to customers in the ordinary course of trade or business at the time of sale solely because of the taxpayer having subdivided such tract for purposes of sale or because of any activity incident to such subdivision or sale, if—
 
 &emsp;(1) such tract, or any lot or parcel thereof, had not previously been held by such taxpayer primarily for sale to customers in the ordinary course of trade or business (unless such tract at such previous time would have been covered by this section) and, in the same taxable year in which the sale occurs, such taxpayer does not so hold any other real property; and
 
@@ -52,7 +52,7 @@ Subsec. (a)(2)(A). Pub. L. 104–188, §1314(b), inserted “an S corporation wh
 
 Subsec. (d). Pub. L. 94–455, §1901(a)(138), struck out effective date provision making the section applicable only with respect to sales of property occurring after Dec. 31, 1953, except that for purposes of subsec. (c) defining tract of real property and for determining the number of sales under subsec. (b)(1) of this section, all sales of lots and parcels from any tract of real property during the period of 5 years before Dec. 31, 1953, shall be taken into account, except as provided in subsec. (c).
 
-1971—Subsec. (a). Pub. L. 91–686, §2(a)(1), substituted “other than a corporation” for “(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinarycourse of trade or business and only in the case of property described in the last sentence of subsection (b)(3))”.
+1971—Subsec. (a). Pub. L. 91–686, §2(a)(1), substituted “other than a corporation” for “(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))”.
 
 Subsec. (b). Pub. L. 91–686, §2(a)(2), struck out sentence which made subpars. (B) and (C) inapplicable in the case of property acquired through the foreclosure of a lien thereon which secured the payment of an indebtedness to the taxpayer or (in the case of a corporation) to a creditor who has transferred the foreclosure bid to the taxpayer in exchange for all of its stock and other consideration and in the case of property adjacent to such property if 80 percent of the real property owned by the taxpayer was property described in the first part of the sentence.
 

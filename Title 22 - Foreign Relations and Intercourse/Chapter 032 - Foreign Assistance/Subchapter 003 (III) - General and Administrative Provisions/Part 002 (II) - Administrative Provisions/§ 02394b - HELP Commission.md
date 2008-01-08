@@ -6,7 +6,7 @@ This section may be cited as the “HELP Commission Act”.
 
 #### (b) Findings
 
-(1) The Congress finds that, despite the long-standing efforts and resources of the United States dedicated to helping needy people around the world, despair remains and in many areas is growing.
+(1) The Congress finds that, despite the long-standing efforts and resources of the UnitedStates dedicated to helping needy people around the world, despair remains and in many areas is growing.
 
 (2) Therefore, a commission should be established to bring together the best minds associated with development and humanitarian assistance to make a comprehensive review of—
 
@@ -74,7 +74,7 @@ This section may be cited as the “HELP Commission Act”.
 
 (5) The President shall designate one of the members of the Commission not currently in Government service as the Chair of the Commission.
 
-(6) In order to facilitate the workload of the Commission, the Commission shall divide the membership of the Commission into three subcommittees representing the different regions of the world to which the United States provides development assistance, the membership of each subcommittee to be proportional to the percentage of United States development assistance provided to the region represented by the subcommittee. Each subcommittee shall elect one of its members as Chair of the subcommittee.
+(6) In order to facilitate the workload of the Commission, the Commission shall divide the membership of the Commission into three subcommittees representing the different regions of the world to which the United States providesdevelopment assistance, the membership of each subcommittee to be proportional to the percentage of United States development assistance provided to the region represented by the subcommittee. Each subcommittee shall elect one of its members as Chair of the subcommittee.
 
 (7)(A) Eleven members of the Commission shall constitute a quorum for purposes of transacting the business of the Commission. The Commission shall meet at the call of the Chair.
 
@@ -114,7 +114,7 @@ This section may be cited as the “HELP Commission Act”.
 
 #### (f) Report of Commission
 
-(1) Not later than 2 years after the members of the Commission are appointed under subsection (d)(1) of this section, the Commission shall submit a report to the President, the Secretary of State, the Committee on Appropriations and theCommittee on International Relations of the House of Representatives, and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, setting forth its findings and recommendations under section <sup>1</sup> (c)(2).
+(1) Not later than 2 years after the members of the Commission are appointed under subsection (d)(1) of this section, the Commission shall submit a report to the President, the Secretary of State, the Committee on Appropriations and the Committee on International Relations of the House of Representatives, and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, setting forth its findings and recommendations under section <sup>1</sup> (c)(2).
 
 (2) The report may be submitted in classified form, together with a public summary of recommendations, if the classification of information would further the purposes of this section.
 
@@ -207,6 +207,10 @@ The Foreign Assistance Act of 1961, referred to in subsec. (h)(1), is Pub. L. 87
 #### Codification
 
 Section was enacted as the HELP Commission Act, and also as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2004, and the Consolidated Appropriations Act, 2004, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Assignment of Functions Implementing the HELP Commission Act
 

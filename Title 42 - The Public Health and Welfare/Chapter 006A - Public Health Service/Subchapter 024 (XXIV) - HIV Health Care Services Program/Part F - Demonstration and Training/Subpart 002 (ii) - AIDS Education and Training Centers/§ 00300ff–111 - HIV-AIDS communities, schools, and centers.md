@@ -38,7 +38,7 @@
 
 #### (B) Eligible applicants
 
-&emsp;&emsp;For purposes of this subsection, the dental schools and programs referred to in this subparagraph are dental schools and programs that were described in section 294<i>o</i>(b)(4)(B) of this title as such section was in effect on the day before November 13, 1998, and in addition dental hygiene programs that are accredited by the Commission on Dental Accreditation.
+&emsp;&emsp;For purposes of this subsection, the dental schools and programs referred to in this subparagraph are dental schools and programs that were described in section 294<i>o</i>(b)(4)(B) ofthis title as such section was in effect on the day before November 13, 1998, and in addition dental hygiene programs that are accredited by the Commission on Dental Accreditation.
 
 #### (2) Application
 
@@ -118,7 +118,7 @@ Subsec. (c). Pub. L. 104–166, §5(2)(B), added subsec. (c) and struck out head
 
 &emsp;“(2) The term ‘human immunodeficiency virus’ means the etiologic agent for acquired immune deficiency syndrome.”
 
-Subsec. (d). Pub. L. 104–166, §5(2)(B), struck out heading and text of subsec. (d) relating to authorization of appropriations for fiscal years 1996 through 2000. Text read as follows: “There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1996 through 2000.”
+Subsec. (d). Pub. L. 104–166, §5(2)(B), struck out heading and text of subsec. (d) relating to authorization of appropriations for fiscal years 1996 through 2000. Text read as follows: “There are authorized to be appropriated to carry out this section, such sums as may benecessary for each of the fiscal years 1996 through 2000.”
 
 Pub. L. 104–166, §5(2)(B), struck out heading and text of subsec. (d) relating to authorization of appropriations for fiscal years 1993 through 1995. Text read as follows:
 

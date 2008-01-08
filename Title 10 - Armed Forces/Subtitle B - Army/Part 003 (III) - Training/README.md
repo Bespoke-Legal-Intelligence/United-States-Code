@@ -20,4 +20,5 @@
 
 - [Chapter 401 - Training Generally](Chapter%20401%20-%20Training%20Generally/README.md)
 - [Chapter 403 - United States Military Academy](Chapter%20403%20-%20United%20States%20Military%20Academy/README.md)
+- [Chapter 405 - Repealed](Chapter%20405%20-%20Repealed/README.md)
 - [Chapter 407 - Schools and Camps](Chapter%20407%20-%20Schools%20and%20Camps/README.md)

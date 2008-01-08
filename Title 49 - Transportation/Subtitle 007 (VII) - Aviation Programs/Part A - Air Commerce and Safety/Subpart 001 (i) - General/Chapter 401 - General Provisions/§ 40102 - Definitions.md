@@ -122,7 +122,7 @@ General Definitions.—In this part—
 
 &emsp;(30) “mail” means United States mail and foreign transit mail.
 
-&emsp;(31) “medium hub airport” means a commercial service airport (as defined in section 47102)that has at least 0.25 percent but less than 1.0 percent of the passenger boardings.
+&emsp;(31) “medium hub airport” means a commercial service airport (as defined in section 47102) that has at least 0.25 percent but less than 1.0 percent of the passenger boardings.
 
 &emsp;(32) “navigable airspace” means airspace above the minimum altitudes of flight prescribed by regulations under this subpart and subpart III of this part, including airspace needed to ensure safety in the takeoff and landing of aircraft.
 

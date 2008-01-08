@@ -1,7 +1,5 @@
 ### \[§§8781 to 8787. Repealed. Pub. L. 96–513, title II, §213, Dec. 12, 1980, 94 Stat. 2885\]
 
-§8787
-
 Section 8781, acts Aug. 10, 1956, ch. 1041, 70A Stat. 542; July 12, 1960, Pub. L. 86–616, §7(a), 74 Stat. 391, authorized Secretary of Air Force to convene at any time a board of officers to review record of any commissioned officer on active list of Regular Air Force to determine whether he should be required, because of substandard performance of duty, to show cause for his retention on active list. See section 1181(a) of this title.
 
 Section 8782, acts Aug. 10, 1956, ch. 1041, 70A Stat. 543; July 12, 1960, Pub. L. 86–616, §7(a), 74 Stat. 391, provided for boards of inquiry, composed of three or more officers, to be convened at such places as Secretary of Air Force prescribes, to receive evidence and make findings and recommendations whether an officer, required to show cause under section 8781 of this title, should be retained on active list of Regular Air Force. See section 1182 of this title.
@@ -19,8 +17,4 @@ Section 8787, added Pub. L. 86–616, §7(a), July 12, 1960, 74 Stat. 392, provi
 #### Effective Date of Repeal
 
 Repeal effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
-
-§8791
-
-### <b>\[CHAPTER 860—REPEALED\]</b>
 

@@ -18,5 +18,5 @@ Minor changes were made in phraseology.
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–217, §1, Oct. 1, 1996, 110 Stat. 3020, provided that: “This Act \[amending section 2119 of this title\] may be cited as the ‘Carjacking Correction Act of 1996’.”
+Pub. L. 104–217, §1, Oct. 1, 1996, 110 Stat. 3020, provided that: “This Act \[amending section 2119 of this title\]may be cited as the ‘Carjacking Correction Act of 1996’.”
 

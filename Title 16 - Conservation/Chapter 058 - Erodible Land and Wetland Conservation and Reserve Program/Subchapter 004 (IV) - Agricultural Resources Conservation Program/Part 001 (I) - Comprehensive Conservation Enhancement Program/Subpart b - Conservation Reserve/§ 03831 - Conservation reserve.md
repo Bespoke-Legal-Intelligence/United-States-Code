@@ -74,7 +74,7 @@ The Secretary may maintain up to 39,200,000 acres in the conservation reserve at
 
 #### (A) In general
 
-&emsp;&emsp;In the case of land devoted to hardwood trees, shelterbelts, windbreaks, or wildlife corridors under a contract entered into under this subpart after October 1, 1990, and land devoted to such uses under contracts modified under section 3835a of this title, the owner or operator of the land may, within the limitations prescribed under this section, specify the duration of the contract.
+&emsp;&emsp;In the case of land devoted to hardwood trees, shelterbelts, windbreaks, or wildlifecorridors under a contract entered into under this subpart after October 1, 1990, and land devoted to such uses under contracts modified under section 3835a of this title, the owner or operator of the land may, within the limitations prescribed under this section, specify the duration of the contract.
 
 #### (B) Hardwood trees
 
@@ -142,7 +142,7 @@ For purposes of this subpart, alfalfa and other multi-year grasses and legumes i
 
 &emsp;&emsp;An owner or operator may not enroll in the conservation reserve under this subsection—
 
-&emsp;&emsp;&emsp;(i) any wetland, or land on a floodplain, that is, or is adjacent to, a perennial riverine system wetland identified on the finalnational wetland inventory map of the Secretary of the Interior; or
+&emsp;&emsp;&emsp;(i) any wetland, or land on a floodplain, that is, or is adjacent to, a perennial riverine system wetland identified on the final national wetland inventory map of the Secretary of the Interior; or
 
 &emsp;&emsp;&emsp;(ii) in the case of an area that is not covered by the final national inventory map, any wetland, or land on a floodplain, that is adjacent to a perennial stream identified on a 1-24,000 scale map of the United States Geological Survey.
 
@@ -158,7 +158,7 @@ For purposes of this subpart, alfalfa and other multi-year grasses and legumes i
 
 #### (ii) Relationship to program maximum
 
-&emsp;&emsp;&emsp;Subject to clause (iii), for the purposes of subsection (d) of this section, any acreage enrolled in the conservation reserve under this subsection shall be considered acres maintained in the conservation reserve.
+&emsp;&emsp;&emsp;Subject to clause (iii), for the purposes of subsection (d) of this section, any acreage enrolled in the conservation reserveunder this subsection shall be considered acres maintained in the conservation reserve.
 
 #### (iii) Relationship to other enrolled acreage
 
@@ -248,7 +248,7 @@ In determining the acceptability of contract offers under this subpart, the Secr
 
 #### (2) Program
 
-&emsp;During calendar year 2006, the Secretary shall carry out an emergency pilot program in States that the Secretary determines have suffered damage to merchantable timber in counties affected by hurricanes during the 2005 calendar year.
+&emsp;The Secretary shall carry out an emergency pilot program in States that the Secretary determines have suffered damage to merchantable timber in counties affected by hurricanes during the 2005 calendar year.
 
 #### (3) Eligible acreage
 
@@ -334,7 +334,7 @@ In determining the acceptability of contract offers under this subpart, the Secr
 
 &emsp;&emsp;&emsp;In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5.
 
-(Pub. L. 99–198, title XII, §1231, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 238; amended Pub. L. 109–148, div. B, title I, §107(a), Dec. 30, 2005, 119 Stat. 2750; Pub. L. 109–234, title III, §3022, June 15, 2006, 120 Stat. 478.)
+(Pub. L. 99–198, title XII, §1231, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 238; amended Pub. L. 109–148, div. B, title I, §107(a), Dec. 30, 2005, 119 Stat. 2750; Pub. L. 109–234, title III, §3022, June 15, 2006, 120 Stat. 478; Pub. L. 110–28, title IV, §4101, May 25, 2007, 121 Stat. 152.)
 
 #### Codification
 
@@ -342,9 +342,11 @@ December 30, 2005, referred to in subsec. (k)(3)(I)(i), was in the original “t
 
 #### Prior Provisions
 
-A prior section 3831, Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, §332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–387, §1(a) \[title XI, §1102(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75; Pub. L. 107–76, title VII, §758(a), Nov. 28, 2001, 115 Stat. 741, related to a conservation reserve program to be formulated and carried out by the Secretary through the 2002 calendar year, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 3831, Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, §332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994; Pub. L.106–387, §1(a) \[title XI, §1102(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75; Pub. L. 107–76, title VII, §758(a), Nov. 28, 2001, 115 Stat. 741, related to a conservation reserve program to be formulated and carried out by the Secretary through the 2002 calendar year, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 #### Amendments
+
+2007—Subsec. (k)(2). Pub. L. 110–28 substituted “The” for “During calendar year 2006, the”.
 
 2006—Subsec. (k)(3)(G). Pub. L. 109–234 substituted “$504,100,000” for “$404,100,000”.
 

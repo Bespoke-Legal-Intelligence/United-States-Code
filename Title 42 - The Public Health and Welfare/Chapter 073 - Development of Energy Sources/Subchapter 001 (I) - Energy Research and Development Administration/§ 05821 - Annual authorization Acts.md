@@ -8,7 +8,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 (1) Funds appropriated pursuant to an annual authorization Act for “Operating expenses” may be used for—
 
-&emsp;(A) the construction or acquisition of any facilities, or major items of equipment, whichmay be required at locations other than installations of the Administration, for the performance of research, development, and demonstration activities, and
+&emsp;(A) the construction or acquisition of any facilities, or major items of equipment, which may be required at locations other than installations of the Administration, for the performance of research, development, and demonstration activities, and
 
 &emsp;(B) grants to any organization for purchase or construction of research facilities.
 
@@ -118,7 +118,7 @@ Pub. L. 88–332, §104, June 30, 1964, 78 Stat. 229.
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 

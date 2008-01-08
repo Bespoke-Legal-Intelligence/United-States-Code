@@ -88,7 +88,7 @@ Subsec. (e). Pub. L. 108–357, §804(e)(4), redesignated subsec. (e) as (d).
 
 Subsec. (f). Pub. L. 108–357, §804(e)(4), struck out heading and text of subsec. (f). Text read as follows: “In lieu of applying the last sentence of subsection (a), any individual who is required to provide a statement under this section by reason of section 877(e)(1) shall provide such statement with the return of tax imposed by chapter 1 for the taxable year during which the event described in such section occurs.”
 
-Subsec. (g). Pub. L. 108–357, §804(e)(4), struck out heading and text of subsec. (g). Text read as follows: “The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.”
+Subsec. (g). Pub. L. 108–357, §804(e)(4), struck out heading and text of subsec. (g). Text read as follows:“The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.”
 
 1997—Pub. L. 105–34 renumbered section 6039F as this section.
 

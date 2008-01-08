@@ -36,7 +36,7 @@ The President may authorize the Department of Defense, with the assistance of th
 
 In addition to the cooperation authorized in subsections (a) and (b) of this section, the President may authorize the Commission, with the assistance of the Department of Defense, to cooperate with another nation and—
 
-&emsp;(1) to exchange with that nation Restricted Data concerning atomic weapons: <i>Provided</i>, That communication of such Restricted Data to that nation is necessary to improve its atomic weapon design, development, or fabrication capability and provided that nation has made substantial progress in the development of atomic weapons; and
+&emsp;(1) to exchange with that nation Restricted Data concerning atomic weapons: <i>Provided</i>,That communication of such Restricted Data to that nation is necessary to improve its atomic weapon design, development, or fabrication capability and provided that nation has made substantial progress in the development of atomic weapons; and
 
 &emsp;(2) to communicate or exchange with that nation Restricted Data concerning research, development, or design, of military reactors,
 

@@ -20,7 +20,7 @@
 
 #### (ii) Resolution
 
-&emsp;&emsp;&emsp;The resolution referred to in clause (i) is the Fair Employment Practices Resolution (House Resolution 558 of the One Hundredth Congress, as agreed to October 4, 1988), as incorporated into the Rules of the House of Representatives of the One Hundred Second Congress as Rule LI,<sup>1</sup> or any other provision that continues in effect the provisions of such resolution.
+&emsp;&emsp;&emsp;The resolution referred to in clause (i) is the Fair Employment Practices Resolution (House Resolution 558 of the One Hundredth Congress, as agreed to October 4, 1988), as incorporated into the Rules of theHouse of Representatives of the One Hundred Second Congress as Rule LI,<sup>1</sup> or any other provision that continues in effect the provisions of such resolution.
 
 #### (C) Exercise of rulemaking power
 

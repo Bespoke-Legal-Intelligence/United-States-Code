@@ -6,7 +6,7 @@ The purposes of sections 1494 to 1494c of this title are to improve enforcement 
 
 #### Amendments
 
-1988—Pub. L. 100–690 inserted “and the Trust Territory of the Pacific Islands (or successor governments)” after “commonwealths of the United States”, “and other substance” before “prevention”, and “associated” before “insular areas.”.
+1988—Pub. L. 100–690 inserted “and the Trust Territory of the Pacific Islands (or successor governments)”after “commonwealths of the United States”, “and other substance” before “prevention”, and “associated” before “insular areas.”.
 
 #### Short Title of 1988 Amendment
 

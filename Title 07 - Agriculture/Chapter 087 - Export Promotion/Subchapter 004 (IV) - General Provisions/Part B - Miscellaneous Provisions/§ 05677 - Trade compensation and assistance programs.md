@@ -6,7 +6,7 @@ Except as provided in subsection (f) of this section, notwithstanding any other 
 
 #### (b) Compensation or provision of funds
 
-Under a program, the Secretary shall, based on an evaluation by the Secretary of the method most likely to produce the greatest compensatory benefit for producers of the commodity involved in the suspension—
+Under a program, the Secretary shall, based on an evaluation by the Secretary of the methodmost likely to produce the greatest compensatory benefit for producers of the commodity involved in the suspension—
 
 &emsp;(1) compensate producers of the commodity by making payments available to producers, as provided by subsection (c)(1) of this section; or
 

@@ -28,7 +28,7 @@ The agencies covered by this section are the following:
 
 #### (c) Plan elements
 
-The plan transmitted under subsection (a) of this section shall contain, consistent with thischapter, such elements as the President deems appropriate, including elements that—
+The plan transmitted under subsection (a) of this section shall contain, consistent with this chapter, such elements as the President deems appropriate, including elements that—
 
 &emsp;(1) identify the functions of each covered agency that will be transferred to the Department under the plan;
 
@@ -44,7 +44,7 @@ The plan transmitted under subsection (a) of this section shall contain, consist
 
 In addition to applicable provisions of subsection (c) of this section, the reorganization plan transmitted under this section for the Agency for International Development—
 
-&emsp;(1) may provide for the abolition of the Agency for International Development and the transfer of all its functions to the Department of State; or
+&emsp;(1) may provide for the abolition of the Agency for International Development and thetransfer of all its functions to the Department of State; or
 
 &emsp;(2) in lieu of the abolition and transfer of functions under paragraph (1)—
 

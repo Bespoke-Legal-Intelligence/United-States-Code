@@ -2,7 +2,7 @@
 
 #### (a) Covered programs
 
-Notwithstanding any other provision of law, none of the funds authorized to be appropriated by this part shall be available for the United States proportionate share for programs for Burma, North Korea, Syria, Libya, Iran, Cuba, or the Palestine Liberation Organization or for projects whose purpose is to provide benefits to the Palestine Liberation Organization or entities associated with it, or at the discretion of the President, Communist countries listed in section 2370(f) of this title.
+Notwithstanding any other provision of law, none of the funds authorized to be appropriated by this part shall be available for the United States proportionate share for programs for Burma, North Korea, Syria, Iran, Cuba, or the Palestine Liberation Organization or for projects whose purpose is to provide benefits to the Palestine Liberation Organization or entities associated with it, or at the discretion of the President, Communist countries listed in section 2370(f) of this title.
 
 #### (b) Review and report by Secretary of State
 
@@ -34,13 +34,15 @@ The Secretary of State—
 
 (2) A determination made by the Secretary of State under paragraph (1) shall be effective for the 1-year period beginning on the date of the determination.
 
-(Pub. L. 87–195, pt. I, §307, as added Pub. L. 99–83, title IV, §403, Aug. 8, 1985, 99 Stat. 219; amended Pub. L. 103–236, title IV, §431(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 105–277, div. A, §101(d) \[title V, §516\], div. G, subdiv. B, title XXVIII, §2809(a), Oct. 21, 1998, 112 Stat. 2681–150, 2681–174, 2681–849; Pub. L. 107–228, div. B, title XIII, §1342, Sept. 30, 2002, 116 Stat. 1451; Pub. L. 109–13, div. A, title II, §2101, May 11, 2005, 119 Stat. 266.)
+(Pub. L. 87–195, pt. I, §307, as added Pub. L. 99–83, title IV, §403, Aug. 8, 1985, 99 Stat. 219; amended Pub. L. 103–236, title IV, §431(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 105–277, div. A, §101(d) \[title V, §516\], div. G, subdiv. B, title XXVIII, §2809(a), Oct. 21, 1998, 112 Stat. 2681–150, 2681–174, 2681–849; Pub. L. 107–228, div. B, title XIII, §1342, Sept. 30, 2002, 116 Stat. 1451; Pub. L. 109–13, div. A, title II, §2101, May 11, 2005, 119 Stat. 266; Pub. L. 110–161, div. J, title VI, §616, Dec. 26, 2007, 121 Stat. 2320.)
 
 #### References in Text
 
 Section 3 of the Foreign Relations Authorization Act, Fiscal Year 2003, referred to in subsec. (d)(1), is section 3 of Pub. L. 107–228, which is set out as a note under section 2651 of this title.
 
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 110–161 struck out “Libya,” after “Syria,”.
 
 2005—Subsec. (a). Pub. L. 109–13 struck out “Iraq,” after “Burma,”.
 

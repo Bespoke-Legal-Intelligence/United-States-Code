@@ -10,7 +10,7 @@
 
 &emsp;As part of the plan described in section 6311 of this title, each State educational agency receiving assistance under this part shall develop a plan to ensure that all teachers teaching in core academic subjects within the State are highly qualified not later than the end of the 2005–2006 school year. Such plan shall establish annual measurable objectives for each local educational agency and school that, at a minimum—
 
-&emsp;&emsp;(A) shall include an annual increase in the percentage of highly qualified teachers at each local educational agency and school, to ensure that all teachers teaching in core academic subjects in each public elementary school and secondary school are highly qualified not later than the end of the 2005–2006 school year;
+&emsp;&emsp;(A) shall include an annual increase in the percentage of highly qualified teachers ateach local educational agency and school, to ensure that all teachers teaching in core academic subjects in each public elementary school and secondary school are highly qualified not later than the end of the 2005–2006 school year;
 
 &emsp;&emsp;(B) shall include an annual increase in the percentage of teachers who are receiving high-quality professional development to enable such teachers to become highly qualified and successful classroom teachers; and
 

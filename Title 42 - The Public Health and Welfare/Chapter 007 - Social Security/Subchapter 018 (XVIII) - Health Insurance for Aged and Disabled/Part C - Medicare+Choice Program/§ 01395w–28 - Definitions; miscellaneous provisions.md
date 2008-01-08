@@ -34,7 +34,7 @@ In this part—
 
 &emsp;&emsp;The term “MSA plan” means a Medicare+�Choice plan that—
 
-&emsp;&emsp;&emsp;(i) provides reimbursement for at least the items and services described in section 1395w–22(a)(1) of this title in a year butonly after the enrollee incurs countable expenses (as specified under the plan) equal to the amount of an annual deductible (described in subparagraph (B));
+&emsp;&emsp;&emsp;(i) provides reimbursement for at least the items and services described in section 1395w–22(a)(1) of this title in a year but only after the enrollee incurs countable expenses (as specified under the plan) equal to the amount of an annual deductible (described in subparagraph (B));
 
 &emsp;&emsp;&emsp;(ii) counts as such expenses (for purposes of such deductible) at least all amounts that would have been payable under parts A and B of this subchapter, and that would have been payable by the enrollee as deductibles, coinsurance, or copayments, if the enrollee had elected to receive benefits through the provisions of such parts; and
 
@@ -136,7 +136,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(A) is described in section 501(c)(8) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Act;
 
-&emsp;&emsp;(B) is affiliated with, carries out the tenets of, and shares a religious bond with, a church or convention or association of churches or an affiliated group of churches;
+&emsp;&emsp;(B) is affiliated with, carries out the tenets of, and shares a religious bond with, achurch or convention or association of churches or an affiliated group of churches;
 
 &emsp;&emsp;(C) offers, in addition to a Medicare+�Choice religious fraternal benefit society plan, health coverage to individuals not entitled to benefits under this subchapter who are members of such church, convention, or group; and
 
@@ -148,9 +148,9 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (f) Restriction on enrollment for specialized MA plans for special needs individuals
 
-In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2009, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
+In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2010, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496.)
 
 #### References in Text
 
@@ -159,6 +159,8 @@ Parts A and B of this subchapter, referred to in subsec. (b)(3)(A), are classifi
 The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2007—Subsec. (f). Pub. L. 110–173 substituted “2010” for “2009”.
 
 2003—Subsec. (b)(4), (5). Pub. L. 108–173, §221(b)(1), added pars. (4) and (5).
 

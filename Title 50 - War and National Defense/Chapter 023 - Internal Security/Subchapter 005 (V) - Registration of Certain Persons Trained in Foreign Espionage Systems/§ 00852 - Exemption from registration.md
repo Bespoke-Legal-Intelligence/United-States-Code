@@ -8,7 +8,7 @@ The registration requirements of section 851 of this title do not apply to any p
 
 &emsp;(c) who has made full disclosure of such knowledge, instruction, or assignment to officials within an agency of the United States Government having responsibilities in the field of intelligence, which disclosure has been made a matter of record in the files of such agency, and concerning whom a written determination has been made by the Attorney General or the Director of Central Intelligence that registration would not be in the interest of national security;
 
-&emsp;(d) whose knowledge of, or receipt of instruction or assignment in, the espionage, counterespionage, or sabotage service or tactics of agovernment of a foreign country or of a foreign political party, is a matter of record in the files of an agency of the United States Government having responsibilities in the field of intelligence and concerning whom a written determination is made by the Attorney General or the Director of Central Intelligence, based on all information available, that registration would not be in the interest of national security;
+&emsp;(d) whose knowledge of, or receipt of instruction or assignment in, the espionage, counterespionage, or sabotage service or tactics of a government of a foreign country or of a foreign political party, is a matter of record in the files of an agency of the United States Government having responsibilities in the field of intelligence and concerning whom a written determination is made by the Attorney General or the Director of Central Intelligence, based on all information available, that registration would not be in the interest of national security;
 
 &emsp;(e) who is a duly accredited diplomatic or consular officer of a foreign government, who is so recognized by the Department of State, while he is engaged exclusively in activities which are recognized by the Department of State as being within the scope of the functions of such officer, and any member of his immediate family who resides with him;
 
@@ -30,7 +30,7 @@ Section was not enacted as part of the Internal Security Act of 1950 which compr
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

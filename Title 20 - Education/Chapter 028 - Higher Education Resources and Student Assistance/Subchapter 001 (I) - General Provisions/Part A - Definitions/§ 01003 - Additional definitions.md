@@ -70,7 +70,7 @@ In this chapter:
 
 #### (A) State
 
-&emsp;&emsp;The term “State” includes, in addition to the several States of the United States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
+&emsp;&emsp;The term “State” includes, in addition to the several States of the United States, theCommonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
 
 #### (B) Freely Associated States
 

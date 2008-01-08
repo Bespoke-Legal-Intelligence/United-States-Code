@@ -44,7 +44,7 @@ Subsec. (a)(6). Pub. L. 102–83 substituted “1562(a)–(c)” for “562(a)�
 
 1984—Pub. L. 98–369, §§531(a)(1), 543(a), successively renumbered sections 132 and 133 of this title as this section.
 
-Subsec. (a)(6) to (8). Pub. L. 98–369, §2661(<i>o</i>)(2), struck out par. (6) relating to railroad retirement annuities and pensions, struck out par. (7) relating to railroad unemployment benefits, and redesignated par. (8) as (6).
+Subsec. (a)(6) to (8). Pub. L. 98–369, §2661(<i>o</i>)(2), struck out par. (6) relating to railroad retirement annuitiesand pensions, struck out par. (7) relating to railroad unemployment benefits, and redesignated par. (8) as (6).
 
 1983—Pub. L. 97–473 successively renumbered sections 130 and 131 of this title as this section.
 

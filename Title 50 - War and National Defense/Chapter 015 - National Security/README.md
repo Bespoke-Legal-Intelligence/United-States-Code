@@ -126,6 +126,7 @@
 | [415a.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415a%20-%20Specificity%20of%20National%20Intelligence%20Program%20budget%20amounts%20for%20counterterrorism%2C%20counterproliferation%2C%20counternarcotics%2C%20and%E2%80%A6.md) | Specificity of National Intelligence Program budget amounts for counterterrorism, counterproliferation, counternarcotics, and counterintelligence. |
 | 415a–1. | Budget treatment of costs of acquisition of major systems by the intelligence community. |
 | [415b.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415b%20-%20Dates%20for%20submittal%20of%20various%20annual%20and%20semiannual%20reports%20to%20the%20congressional%20intelligence%20committees.md) | Dates for submittal of various annual and semiannual reports to the congressional intelligence committees. |
+| [415c.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415c%20-%20Availability%20to%20public%20of%20certain%20intelligence%20funding%20information.md) | Availability to public of certain intelligence funding information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -150,7 +151,7 @@
 | [432\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files/%C2%A7%2000432%20-%20Operational%20files%20of%20the%20National%20Geospatial-Intelligence%20Agency.md) | Operational files of the National Geospatial-Intelligence Agency. |
 | [432a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files/%C2%A7%2000432a%20-%20Operational%20files%20of%20the%20National%20Reconnaissance%20Office.md) | Operational files of the National Reconnaissance Office. |
 | [432b.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files/%C2%A7%2000432b%20-%20Operational%20files%20of%20the%20National%20Security%20Agency.md) | Operational files of the National Security Agency. |
-| [432c.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files/%C2%A7%2000432c%20-%20Operational%20files%20of%20the%20Defense%20Intelligence%20Agency.md) | Operational files of the Defense Intelligence Agency. |
+| [432c.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files/%C2%A7%2000432c%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

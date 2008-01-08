@@ -598,3 +598,7 @@ A prior section 1111 of Pub. L. 89–10 was classified to section 2768 of this t
 
 2002—Subsec. (c)(2). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

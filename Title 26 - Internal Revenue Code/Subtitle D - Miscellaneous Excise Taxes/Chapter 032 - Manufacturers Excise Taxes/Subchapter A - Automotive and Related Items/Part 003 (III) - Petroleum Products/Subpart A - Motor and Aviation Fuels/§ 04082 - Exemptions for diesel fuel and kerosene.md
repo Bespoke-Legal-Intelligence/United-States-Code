@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The tax imposed by section 4081 (other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export) shall not apply to diesel fuel and kerosene—
+The tax imposed by section 4081 shall not apply to diesel fuel and kerosene—
 
 &emsp;(1) which the Secretary determines is destined for a nontaxable use,
 
@@ -58,17 +58,33 @@ Paragraph (2) of subsection (a) shall not apply with respect to any diesel fuel 
 
 #### (e) Kerosene removed into an aircraft
 
-In the case of kerosene which is exempt from the tax imposed by section 4041(c) (other than by reason of a prior imposition of tax) and which is removed from any refinery or terminal directly into the fuel tank of an aircraft, the rate of tax under section 4081(a)(2)(A)(iii) shall be zero. For purposes of this subsection, any removal described in section 4081(a)(3)(A) shall be treated as a removal from a terminal but only if such terminal is located within a secure area of an airport.
+In the case of kerosene which is exempt from the tax imposed by section 4041(c) (other than by reason of a prior imposition of tax) and which is removed from any refinery or terminal directly into the fuel tank of an aircraft—
 
-#### (f) Regulations
+&emsp;(1) the rate of tax under section 4081(a)(2)(A)(iii) shall be zero, and
+
+&emsp;(2) if such aircraft is employed in foreign trade or trade between the United States and any of its possessions, the increase in such rate under section 4081(a)(2)(B) shall be zero.
+
+> For purposes of this subsection, any removal described in section 4081(a)(3)(A) shall be treated as a removal from a terminal but only if such terminal is located within a secure area of an airport.
+
+#### (f) Exception for Leaking Underground Storage Tank Trust Fund financing rate
+
+#### (1) In general
+
+&emsp;Subsection (a) shall not apply to the tax imposed under section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate.
+
+#### (2) Exception for export, etc.
+
+&emsp;Paragraph (1) shall not apply with respect to any fuel if the Secretary determines that such fuel is destined for export or for use by the purchaser as supplies for vessels (within the meaning of section 4221(d)(3)) employed in foreign trade or trade between the United States and any of its possessions.
+
+#### (g) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary to carry out this section, including regulations requiring the conspicuous labeling of retail diesel fuel and kerosene pumps and other delivery facilities to assure that persons are aware of which fuel is available only for nontaxable uses.
 
-#### (g) Cross reference
+#### (h) Cross reference
 
 &emsp;&emsp;<b>For tax on train and certain bus uses of fuel purchased tax-free, see subsections (a)(1) and (d)(3) of section 4041.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, §201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, §802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 104–188, title I, §1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, §1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, §6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, §241(a)(2)(B), title VIII, §§851(d)(2), 853(a)(5), 854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, §1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, §420(b)(2), Dec. 20, 2006, 120 Stat. 2969.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Pub. L. 86–342, title II, §201(e)(1), (2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 89–44, title VIII, §802(a)(1), (b)(1), June 21, 1965, 79 Stat. 159; Pub. L. 91–258, title II, §205(c)(6), May 21, 1970, 84 Stat. 242; Pub. L. 98–369, div. A, title VII, §§733(a), 734(c)(1), July 18, 1984, 98 Stat. 977, 979; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2775; Pub. L. 103–66, title XIII, §13242(a), Aug. 10, 1993, 107 Stat. 517; Pub. L. 104–188, title I, §1801(a), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title X, §1032(c)(1), (2), (e)(3)(A), Aug. 5, 1997, 111 Stat. 933, 935; Pub. L. 105–206, title VI, §6010(h)(3), (4), July 22, 1998, 112 Stat. 815; Pub. L. 108–357, title II, §241(a)(2)(B), title VIII, §§851(d)(2), 853(a)(5), 854(a), 857(a), Oct. 22, 2004, 118 Stat. 1438, 1608, 1611, 1615, 1617; Pub. L. 109–58, title XIII, §1362(b)(1), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11161(a)(4)(A), (E), (b)(3)(C), Aug. 10, 2005, 119 Stat. 1970, 1971; Pub. L. 109–432, div. A, title IV, §420(b)(2), Dec. 20, 2006, 120 Stat. 2969; Pub. L. 110–172, §§6(d)(2)(B), (C), 11(a)(28), Dec. 29, 2007, 121 Stat. 2480, 2481, 2487.)
 
 #### References in Text
 
@@ -77,6 +93,24 @@ Subsection (i) of section 211 of the Clean Air Act, referred to in subsec. (c)(1
 The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
 #### Amendments
+
+2007—Subsec. (a). Pub. L. 110–172, §6(d)(2)(B)(i), struck out “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export)” after “section 4081” in introductory provisions.
+
+Subsec. (b). Pub. L. 110–172, §11(a)(28), reenacted heading without change and amended text generally. Priorto amendment, text read as follows: “For purposes of this section, the term ‘nontaxable use’ means—
+
+&emsp;“(1) any use which is exempt from the tax imposed by section 4041(a)(1) other than by reason of a prior imposition of tax,
+
+&emsp;“(2) any use in a train, and
+
+&emsp;“(3) any use described in section 4041(a)(1)(C)(iii)(II).
+
+> The term ‘nontaxable use’ does not include the use of kerosene in an aircraft and such term shall not include any use described in section 6421(e)(2)(C).” See 2004 Amendment notes below.
+
+Subsec. (e). Pub. L. 110–172, §6(d)(2)(C)(ii), designated last sentence as concluding provisions.
+
+Pub. L. 110–172, §6(d)(2)(C)(i), substituted “an aircraft—” and pars. (1) and (2) for “an aircraft, the rate of tax under section 4081(a)(2)(A)(iii) shall be zero.”
+
+Subsecs. (f) to (h). Pub. L. 110–172, §6(d)(2)(B)(ii), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 2006—Subsec. (d)(2)(B). Pub. L. 109–432 substituted “6427(<i>l</i>)(5)(B)” for “6427(<i>l</i>)(6)(B)”.
 
@@ -157,6 +191,10 @@ Subsec. (d)(2). Pub. L. 89–44, §802(b)(1), struck out “and give a bond” a
 1959—Subsec. (a). Pub. L. 86–342, §201(e)(1), inserted reference to wholesale distributor.
 
 Subsec. (d). Pub. L. 86–342, §201(e)(2), added subsec. (d).
+
+#### Effective Date of 2007 Amendment
+
+Amendments by section 6(d)(2)(B), (C)(i) of Pub. L. 110–172 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendments relate, and amendment by section 6(d)(2)(C)(ii) of Pub. L. 110–172 effective as if included in section 11161 of the SAFETEA–LU, Pub. L. 109–59, seesection 6(e) of Pub. L. 110–172, set out as a note under section 30C of this title.
 
 #### Effective Date of 2006 Amendment
 

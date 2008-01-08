@@ -18,7 +18,7 @@
 
 &emsp;(6) service performed by any individual as an employee paid from nonappropriated funds of an instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) that is not otherwise creditable, if the individual elects (in accordance with regulations prescribed by the Office) to have such service credited under this paragraph.
 
-> Paragraph (5) shall not apply in the case of any employee as to whom subsection (g) (or, to the extent subchapter III of chapter 83 is involved, section 8332(n)) otherwise applies.
+> Paragraph (5) shall not apply in the case of any employee as to whom subsection (g) (or, to theextent subchapter III of chapter 83 is involved, section 8332(n)) otherwise applies.
 
 (c)(1) Except as provided in paragraphs (2), (3), and (5), an employee or Member shall be allowed credit for—
 
@@ -72,7 +72,7 @@
 
 (e) Credit shall be allowed for periods of approved leave without pay granted an employee to serve as a full-time officer or employee of an organization composed primarily of employees (as defined by section 8331(1) or 8401(11)), subject to the employee arranging to pay, through the employee's employing agency, within 60 days after commencement of such leave without pay, amounts equal to the retirement deductions and agency contributions which would be applicable under sections 8422(a) and 8423(a), respectively, if the employee were in pay status. If the election and all payments provided by this subsection are not made, the employee may not receive credit for the periods of leave without pay, notwithstanding the third sentence of subsection (d).
 
-(f)(1) An employee or Member who has received a refund of retirement deductions under subchapter III of chapter 83 with respect to any service described in subsection (b)(2) or (b)(3) may not be allowed credit for such service under this chapter unless such employee or Member deposits an amount equal to 1.3 percent of basic pay for such service, with interest. A deposit under this paragraph may be made only with respect to a refund received pursuant to an application filed with the Office before the date on which the employee or Member first becomes subject to this chapter.
+(f)(1) An employee or Member who has received a refund of retirement deductions under subchapter III of chapter 83 with respect to any service described in subsection (b)(2) or (b)(3) may not be allowed credit for such service under this chapter unless such employee or Member deposits an amount equal to 1.3 percent of basic pay for such service, with interest. A depositunder this paragraph may be made only with respect to a refund received pursuant to an application filed with the Office before the date on which the employee or Member first becomes subject to this chapter.
 
 (2) An employee or Member may not be allowed credit under this chapter for any service described in subsection (b)(3) for which retirement deductions under subchapter III of chapter 83 have not been made, unless such employee or Member deposits an amount equal to 1.3 percent of basic pay for such service, with interest.
 
@@ -106,7 +106,39 @@
 
 (2) Service credited under subsection (b)(6) may not also be credited under any other retirement system provided for employees paid from nonappropriated funds of a nonappropriated fund instrumentality.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A,§901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, §1132(b)(1), Dec. 28, 2001, 115 Stat. 1243.)
+(<i>l</i>)(1) Notwithstanding any other provision of this chapter, the service of an individual finally convicted of an offense described in paragraph (2) shall not be taken into account for purposes of this chapter, except that this sentence applies only to service rendered as a Member (irrespective of when rendered). Any such individual (or other person determined under section 8424(d), if applicable) shall be entitled to be paid so much of such individual's lump-sum credit as is attributable to service to which the preceding sentence applies.
+
+(2) An offense described in this paragraph is any offense described in section 8332(<i>o</i>)(2)(B) for which the following apply:
+
+&emsp;(A) Every act or omission of the individual (referred to in paragraph (1)) that is needed to satisfy the elements of the offense occurs while the individual is a Member.
+
+&emsp;(B) Every act or omission of the individual that is needed to satisfy the elements of the offense directly relates to the performance of the individual's official duties as a Member.
+
+&emsp;(C) The offense is committed after the date of enactment of this subsection.
+
+(3) An individual convicted of an offense described in paragraph (2) shall not, after the dateof the final conviction, be eligible to participate in the retirement system under this chapter while serving as a Member.
+
+(4) The Office of Personnel Management shall prescribe any regulations necessary to carry out this subsection. Such regulations shall include—
+
+&emsp;(A) provisions under which interest on any lump-sum payment under the second sentence of paragraph (1) shall be limited in a manner similar to that specified in the last sentence of section 8316(b); and
+
+&emsp;(B) provisions under which the Office may provide for—
+
+&emsp;&emsp;(i) the payment, to the spouse or children of any individual referred to in the first sentence of paragraph (1), of any amounts which (but for this clause) would otherwise have been nonpayable by reason of such first sentence, subject to paragraph (5); and
+
+&emsp;&emsp;(ii) an appropriate adjustment in the amount of any lump-sum payment under the second sentence of paragraph (1) to reflect the application of clause (i).
+
+(5) Regulations to carry out clause (i) of paragraph (4)(B) shall include provisions to ensure that the authority to make any payment under such clause to the spouse or children of an individual shall be available only to the extent that the application of such clause is considered necessary and appropriate taking into account the totality of the circumstances, including the financial needs of the spouse or children, whether the spouse or children participated in an offense described in paragraph (2) of which such individual was finally convicted, and what measures, if any, may be necessary to ensure that the convicted individual does not benefit from any such payment.
+
+(6) For purposes of this subsection—
+
+&emsp;(A) the terms “finally convicted” and “final conviction” refer to a conviction (i) which has not been appealed and is no longer appealable because the time for taking an appeal has expired, or (ii) which has been appealed and the appeals process for which is completed;
+
+&emsp;(B) the term “Member” has the meaning given such term by section 2106, notwithstanding section 8401(20); and
+
+&emsp;(C) the term “child” has the meaning given such term by section 8441.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A, §901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, §1132(b)(1), Dec. 28, 2001, 115 Stat. 1243; Pub. L. 110–81, title IV, §401(b), Sept. 14, 2007, 121 Stat. 756.)
 
 #### References in Text
 
@@ -128,7 +160,11 @@ The Peace Corps Act, referred to in subsec. (h), is Pub. L. 87–293, Sept. 22, 
 
 The date of enactment of this paragraph, referred to in subsec. (i)(1), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
 
+The date of enactment of this subsection, referred to in subsec. (<i>l</i>)(2)(C), is the date of enactment of Pub. L. 110–81, which was approved Sept. 14, 2007.
+
 #### Amendments
+
+2007—Subsec. (<i>l</i>). Pub. L. 110–81 added subsec. (<i>l</i>).
 
 2001—Subsec. (b)(6). Pub. L. 107–107, §1132(b)(1)(A), added par. (6).
 
@@ -190,7 +226,7 @@ Amendment by Pub. L. 102–242 applicable with respect to any individual who tra
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an employee or member who dieson or after the 180th day after Oct. 27, 1986, and to other survivors upon application, see section 502(c) of Pub. L. 99–556, set out as a note under section 8332 of this title.
+Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an employee or member who dies on or after the 180th day after Oct. 27, 1986, and to other survivors upon application, see section 502(c) of Pub. L. 99–556, set out as a note under section 8332 of this title.
 
 #### Transfer of Functions
 

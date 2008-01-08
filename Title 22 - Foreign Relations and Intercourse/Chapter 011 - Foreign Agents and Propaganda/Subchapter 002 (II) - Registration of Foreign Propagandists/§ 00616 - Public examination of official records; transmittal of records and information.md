@@ -12,7 +12,21 @@ The Attorney General shall, promptly upon receipt, transmit one copy of every re
 
 The Attorney General is authorized to furnish to departments and agencies in the executive branch and committees of the Congress such information obtained by him in the administration of this subchapter, including the names of registrants under this subchapter, copies of registration statements, or parts thereof, or other documents or information filed under this subchapter, as may be appropriate in the light of the purposes of this subchapter.
 
-(June 8, 1938, ch. 327, §6, 52 Stat. 633; Apr. 29, 1942, ch. 263, §1, 56 Stat. 256; Pub. L. 89–486, §6, July 4, 1966, 80 Stat. 247; Pub. L. 104–65, §9(7), Dec. 19, 1995, 109 Stat. 700.)
+#### (d) Public database of registration statements and updates
+
+#### (1) In general
+
+&emsp;The Attorney General shall maintain, and make available to the public over the Internet, without a fee or other access charge, in a searchable, sortable, and downloadable manner, to the extent technically practicable, an electronic database that—
+
+&emsp;&emsp;(A) includes the information contained in registration statements and updates filed under this subchapter; and
+
+&emsp;&emsp;(B) is searchable and sortable, at a minimum, by each of the categories of information described in section 612(a) of this title.
+
+#### (2) Accountability
+
+&emsp;The Attorney General shall make each registration statement and update filed in electronic form pursuant to section 612(g) of this title available for public inspection over the Internet as soon as technically practicable after the registration statement or update is filed.
+
+(June 8, 1938, ch. 327, §6, 52 Stat. 633; Apr. 29, 1942, ch. 263, §1, 56 Stat. 256; Pub. L. 89–486, §6, July 4, 1966, 80 Stat. 247; Pub. L. 104–65, §9(7), Dec. 19, 1995, 109 Stat. 700; Pub. L. 110–81, title II, §212(b), Sept. 14, 2007, 121 Stat. 749.)
 
 #### Prior Provisions
 
@@ -21,6 +35,8 @@ Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section re
 Provisions on this subject were contained in section 614 of this title prior to general amendment of act June 8, 1938, by act Apr. 29, 1942.
 
 #### Amendments
+
+2007—Subsec. (d). Pub. L. 110–81 added subsec. (d).
 
 1995—Subsec. (a). Pub. L. 104–65, §9(7)(A), struck out “and all statements concerning the distribution of political propaganda” after “all registration statements”.
 
@@ -31,6 +47,10 @@ Subsec. (c). Pub. L. 104–65, §9(7)(C), struck out “copies of political prop
 1966—Pub. L. 89–486 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 1942—Act Apr. 29, 1942, amended section generally.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–81 effective on the 90th day after Sept. 14, 2007, see section 212(c) of Pub. L. 110–81, set out as a note under section 612 of this title.
 
 #### Effective Date of 1995 Amendment
 

@@ -176,7 +176,7 @@ Mere change in form of business.—Subsection (a) shall not apply to any change 
 
 &emsp;“(4)
 
-Treatment of certain acquisitions of right to the crop.—The acquisition of a direct or indirectinterest in 80 percent or more of the crop from any land shall be treated as an acquisition of such land.
+Treatment of certain acquisitions of right to the crop.—The acquisition of a direct or indirect interest in 80 percent or more of the crop from any land shall be treated as an acquisition of such land.
 
 #### “SEC. 5. DEFINITIONS AND SPECIAL RULES.
 
@@ -232,7 +232,7 @@ Regulations.—The Secretary of the Treasury or his delegate (after consultation
 
 #### Cancellation of Certain Student Loans
 
-Pub. L. 94–455, title XXI, §2117, Oct. 4, 1976, 90 Stat. 1911, as amended by Pub. L. 95–600, title I, §162, Nov. 6, 1978, 92 Stat. 2810; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that no amount be included in gross income of an individual for purposes of 26 U.S.C. 61 by reason of the discharge made before Jan. 1, 1983 of the indebtedness of the individual under a student loan if the discharge was pursuant to a provision of the loan under which the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain geographical areas or for certain classes of employers.
+Pub. L. 94–455, title XXI, §2117, Oct. 4, 1976, 90 Stat. 1911, as amended by Pub. L. 95–600, title I, §162, Nov. 6, 1978, 92 Stat. 2810; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that no amount be included in gross income of an individual for purposes of 26 U.S.C. 61 by reason of the discharge made before Jan. 1, 1983 of the indebtedness of the individual under a studentloan if the discharge was pursuant to a provision of the loan under which the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain geographical areas or for certain classes of employers.
 
 #### Regulations Relating to Tax Treatment of Certain Prepublication Expenditures of Publishers
 

@@ -88,5 +88,3 @@ For effective date of amendment by Pub. L. 86–174 see note set out under secti
 
 Transfer of functions of Offices of Bureau Chiefs, see note set out under section 5111 of this title.
 
-§5134
-

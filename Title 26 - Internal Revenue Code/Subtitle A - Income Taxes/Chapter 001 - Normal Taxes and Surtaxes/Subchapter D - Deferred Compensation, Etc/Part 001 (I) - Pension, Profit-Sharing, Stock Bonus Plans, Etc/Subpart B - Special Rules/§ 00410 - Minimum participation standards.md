@@ -68,7 +68,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of paragraph (1), in the case of a nonvested participant, years of servicewith the employer or employers maintaining the plan before any period of consecutive 1-year breaks in service shall not be required to be taken into account in computing the period of service if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
+&emsp;&emsp;&emsp;For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-year breaks in service shall not be required to be taken into account in computing the period of service if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 5, or
 
@@ -164,7 +164,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “benefit percentage” means the employer-provided contribution orbenefit of an employee under all qualified plans maintained by the employer, expressed as a percentage of such employee's compensation (within the meaning of section 414(s)).
+&emsp;&emsp;&emsp;The term “benefit percentage” means the employer-provided contribution or benefit of an employee under all qualified plans maintained by the employer, expressed as a percentage of such employee's compensation (within the meaning of section 414(s)).
 
 #### (ii) Period for computing percentage
 
@@ -294,7 +294,7 @@
 
 &emsp;&emsp;(A) a governmental plan (within the meaning of section 414(d)),
 
-&emsp;&emsp;(B) a church plan (within the meaning of section 414(e)) with respect to which the election provided by subsection (d) of this section has not been made,
+&emsp;&emsp;(B) a church plan (within the meaning of section 414(e)) with respect to which theelection provided by subsection (d) of this section has not been made,
 
 &emsp;&emsp;(C) a plan which has not at any time after September 2, 1974, provided for employer contributions, and
 
@@ -312,7 +312,7 @@
 
 &emsp;An election under this subsection with respect to any church plan shall be binding with respect to such plan, and, once made, shall be irrevocable.
 
-(Added Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898; amended Pub. L. 94–455, title XIX, §§1901(a)(61), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–605, title II, §225(a), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–397, title II, §202(a), (d)(1), (e)(1), Aug. 23, 1984, 98 Stat. 1436–1438; Pub. L. 99–509, title IX, §9203(a)(2), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XI, §§1112(a), 1113(c), (d)(A), Oct. 22, 1986, 100 Stat. 2440, 2447; Pub. L. 100–647, title I,§1011(h)(1), (2), (11), title III, §3021(a)(13)(B), Nov. 10, 1988, 102 Stat. 3464, 3467, 3631; Pub. L. 101–239, title VII, §7841(d)(6), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–34, title XV, §1505(a)(3), Aug. 5, 1997, 111 Stat. 1063; Pub. L. 109–280, title IV, §402(h)(1), Aug. 17, 2006, 120 Stat. 927.)
+(Added Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898; amended Pub. L. 94–455, title XIX, §§1901(a)(61), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–605, title II, §225(a), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–397, title II, §202(a), (d)(1), (e)(1), Aug. 23, 1984, 98 Stat. 1436–1438; Pub. L. 99–509, title IX, §9203(a)(2), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XI, §§1112(a), 1113(c), (d)(A), Oct. 22, 1986, 100 Stat. 2440, 2447; Pub. L. 100–647, title I, §1011(h)(1), (2), (11), title III, §3021(a)(13)(B), Nov. 10, 1988, 102 Stat. 3464, 3467, 3631; Pub. L. 101–239, title VII, §7841(d)(6), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–34, title XV, §1505(a)(3), Aug. 5, 1997, 111 Stat. 1063; Pub. L. 109–280, title IV, §402(h)(1), Aug. 17, 2006, 120 Stat. 927.)
 
 #### References in Text
 
@@ -540,7 +540,7 @@ Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 For provisions directing that if any amendments made by section 9203(a)(2) of Pub. L. 99–509 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 9204 of Pub. L. 99–509, set out as a note under section 623 of Title 29, Labor.
 

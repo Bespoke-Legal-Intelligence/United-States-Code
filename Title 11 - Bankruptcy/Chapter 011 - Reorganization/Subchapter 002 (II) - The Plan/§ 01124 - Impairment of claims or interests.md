@@ -72,7 +72,7 @@ Par. (2)(D), (E). Pub. L. 109–8, §328(b)(2)–(4), added subpar. (D) and rede
 
 &emsp;&emsp;“(ii) any fixed price at which the debtor, under the terms of such security, may redeem such security from such holder.”
 
-1984—Par. (2)(A). Pub. L. 98–353, §508(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “cures any such default, other than a default of a kind specified in section 365(b)(2) of thistitle, that occurred before or after the commencement of the case under this title;”.
+1984—Par. (2)(A). Pub. L. 98–353, §508(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “cures any such default, other than a default of a kind specified in section 365(b)(2) of this title, that occurred before or after the commencement of the case under this title;”.
 
 Par. (3)(B)(i). Pub. L. 98–353, §508(2), substituted “or” for “and”.
 

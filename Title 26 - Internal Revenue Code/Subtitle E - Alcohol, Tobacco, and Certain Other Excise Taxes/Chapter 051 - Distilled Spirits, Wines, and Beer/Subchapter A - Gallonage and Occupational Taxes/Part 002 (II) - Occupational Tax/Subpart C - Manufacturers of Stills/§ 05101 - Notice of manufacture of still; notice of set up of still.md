@@ -12,7 +12,7 @@
 
 #### (b) Penalties, etc.
 
-&emsp;&emsp;<b>(1) For penalty and forfeiture for failure to give notice of manufacture, or for setting up a still with</b><b>out first giving notice, when required by the Secretary, see sections 5615(2) and 5687.</b>
+&emsp;&emsp;<b>(1) For penalty and forfeiture for failure to give notice of manufacture, or for setting up a still without first giving notice, when required by the Secretary, see sections 5615(2) and 5687.</b>
 
 &emsp;&emsp;<b>(2) For penalty and forfeiture for failure to register still or distilling apparatus when set up, see section 5601(a)(1) and 5615(1).</b>
 
@@ -26,7 +26,7 @@ Another prior section 5101, act Aug. 16, 1954, ch. 736, 68A Stat. 617, consisted
 
 #### Effective Date
 
-Section 456 of part II (§§451–456) of subtitle D of title IV of division A of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1845, Oct. 22, 1986, 100 Stat. 2856, provided that:
+Section 456 of part II (§§451–456) of subtitle D of title IV of division A of Pub. L. 98–369, as amended by Pub.L. 99–514, title XVIII, §1845, Oct. 22, 1986, 100 Stat. 2856, provided that:
 
 “(a)
 

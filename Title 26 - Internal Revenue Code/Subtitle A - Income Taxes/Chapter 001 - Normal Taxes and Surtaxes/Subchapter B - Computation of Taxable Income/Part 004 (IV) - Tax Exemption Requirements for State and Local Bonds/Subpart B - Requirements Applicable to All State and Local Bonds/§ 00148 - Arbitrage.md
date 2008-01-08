@@ -120,7 +120,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of an electric utility, electricity distribution services,
 
-&emsp;&emsp;&emsp;(ii) any area within a county contiguous to the area described in clause (i) in which retail customers of such utility are located if such area is not also served by another utility providing natural gas or electricity services, as the case may be, and
+&emsp;&emsp;&emsp;(ii) any area within a county contiguous to the area described in clause (i) in whichretail customers of such utility are located if such area is not also served by another utility providing natural gas or electricity services, as the case may be, and
 
 &emsp;&emsp;&emsp;(iii) any area recognized as the service area of such utility under State or Federal law.
 
@@ -192,7 +192,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (3) Due date of payments under paragraph (2)
 
-&emsp;Except to the extent provided by the Secretary, the amount which is required to be paid to the United States by the issuer shall be paid in installments which are made at least once every 5 years. Each installment shall be in an amount which ensures that 90 percent of the amount described in paragraph (2) with respect to the issue at the time payment of such installment is required will have been paid to the United States. The last installment shall be made no later than 60 days after the day on which the last bond of the issue is redeemed and shall be in an amount sufficient to pay the remaining balance of the amount described in paragraph (2) with respect to such issue. A series of issues which are redeemed during a 6-month period (or such longer period as the Secretary may prescribe) shall be treated (at the election of the issuer) as 1 issue for purposes of the preceding sentence if no bond which is part of any issue in such series has a maturity of more than 270 days or is a private activity bond. In the case of a tax and revenue anticipation bond, the last installment shall not be required to be made before the date 8 months after the date of issuance of the issue of which the bond is a part.
+&emsp;Except to the extent provided by the Secretary, the amount which is required to be paid to the United States by the issuer shall be paid in installments which are made at least once every 5 years. Each installment shall be in an amount which ensures that 90 percent of the amount described in paragraph (2) with respect to the issue at the time payment of such installment is required will have been paid to the United States. The last installment shall be made no later than 60 days after the day on which the last bond of the issue is redeemed and shall be in an amount sufficient to pay the remaining balance of the amount described in paragraph (2) with respect to such issue. A series of issues which are redeemed during a 6-month period (or such longer period as the Secretary may prescribe)shall be treated (at the election of the issuer) as 1 issue for purposes of the preceding sentence if no bond which is part of any issue in such series has a maturity of more than 270 days or is a private activity bond. In the case of a tax and revenue anticipation bond, the last installment shall not be required to be made before the date 8 months after the date of issuance of the issue of which the bond is a part.
 
 #### (4) Special rules for applying paragraph (2)
 
@@ -390,7 +390,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (III) Coordination with rebate requirement on refunding bonds
 
-&emsp;&emsp;&emsp;&emsp;The requirements of paragraph (2) shall be treated as met with respect toearnings for any period if a penalty is paid under clause (vii) or (viii) with respect to such earnings for such period.
+&emsp;&emsp;&emsp;&emsp;The requirements of paragraph (2) shall be treated as met with respect to earnings for any period if a penalty is paid under clause (vii) or (viii) with respect to such earnings for such period.
 
 #### (xiv) Determination of initial temporary period
 
@@ -458,7 +458,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(IV) no refunding bond has a maturity date which is later than the date which is 30 years after the date the original bond was issued.
 
-&emsp;&emsp;&nbsp;Subclause (III) shall not apply if the average maturity of the issue of which the original bond was a part (and of the issue of which the bonds to be refunded are apart) is 3 years or less. For purposes of this clause, average maturity shall be determined in accordance with section 147(b)(2)(A).
+&emsp;&emsp;&nbsp;Subclause (III) shall not apply if the average maturity of the issue of which the original bond was a part (and of the issue of which the bonds to be refunded are a part) is 3 years or less. For purposes of this clause, average maturity shall be determined in accordance with section 147(b)(2)(A).
 
 #### (vi) Refundings of bonds issued under law prior to Tax Reform Act of 1986
 

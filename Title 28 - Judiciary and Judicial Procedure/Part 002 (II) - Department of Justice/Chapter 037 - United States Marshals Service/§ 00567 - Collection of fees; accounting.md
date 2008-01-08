@@ -38,7 +38,7 @@ The provision of section 578a of title 28, U.S.C., 1940 ed., requiring that fees
 
 #### Prior Provisions
 
-A prior section 567, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620, related to expenses of marshals,prior to repeal by Pub. L. 100–690, §7608(a)(1). See section 565 of this title.
+A prior section 567, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620, related to expenses of marshals, prior to repeal by Pub. L. 100–690, §7608(a)(1). See section 565 of this title.
 
 #### Amendments
 

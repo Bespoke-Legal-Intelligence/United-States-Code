@@ -18,7 +18,7 @@ As used in this chapter the term “Federal supervisory agency” means—
 
 1989—Par. (3). Pub. L. 101–73, §744(h)(2), inserted reference to State savings associations.
 
-Par. (4). Pub. L. 101–73, §744(h)(1), substituted “Director of the Office of Thrift Supervision” for “FederalHome Loan Bank Board”, struck out “and loan” after “Federal savings”, and struck out “associations, and institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” before period at end.
+Par. (4). Pub. L. 101–73, §744(h)(1), substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”, struck out “and loan” after “Federal savings”, and struck out “associations, and institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” before period at end.
 
 #### Effective Date of 2004 Amendment
 

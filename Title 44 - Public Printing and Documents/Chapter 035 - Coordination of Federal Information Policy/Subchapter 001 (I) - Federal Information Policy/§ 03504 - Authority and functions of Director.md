@@ -134,7 +134,7 @@
 
 &emsp;(4) ensure, through the review of agency budget proposals, information resources management plans and other means—
 
-&emsp;&emsp;(A) agency integration of information resources management plans, program plansand budgets for acquisition and use of information technology; and
+&emsp;&emsp;(A) agency integration of information resources management plans, program plans and budgets for acquisition and use of information technology; and
 
 &emsp;&emsp;(B) the efficiency and effectiveness of inter-agency information technology initiatives to improve agency performance and the accomplishment of agency missions; and
 
@@ -184,7 +184,7 @@ Subsec. (h)(2). Pub. L. 105–85, §1073(h)(5)(B), substituted “division E of 
 
 1996—Subsec. (g)(2). Pub. L. 104–106, §5131(e)(1)(A), substituted “sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 5131 of the Information Technology Management Reform Act of 1996, and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
-Subsec. (g)(3). Pub. L. 104–106, §5131(e)(1)(B), substituted “the standards and guidelines promulgated under section 5131 of the Information Technology Management Reform Act of 1996 and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+Subsec. (g)(3). Pub. L. 104–106, §5131(e)(1)(B), substituted “the standards and guidelines promulgatedunder section 5131 of the Information Technology Management Reform Act of 1996 and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
 Subsec. (h)(1)(B). Pub. L. 104–106, §5605(b), substituted “section 5131 of the Information Technology Management Reform Act of 1996” for “section 111(d) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(d))”.
 

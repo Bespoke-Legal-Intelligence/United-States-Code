@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (B) Qualified agri-biodiesel production
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified agri-biodiesel production” meansany agri-biodiesel which is produced by an eligible small agri-biodiesel producer, and which during the taxable year—
+&emsp;&emsp;For purposes of this paragraph, the term “qualified agri-biodiesel production” means any agri-biodiesel which is produced by an eligible small agri-biodiesel producer, and which during the taxable year—
 
 &emsp;&emsp;&emsp;(i) is sold by such producer to another person—
 
@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (c) Coordination with credit against excise tax
 
-The amount of the credit determined under this section with respect to any biodiesel shall be properly reduced to take into account any benefit provided with respect to such biodiesel solely by reason of the application of section 6426 or 6427(e).
+The amount of the credit determined under this section with respect to any biodiesel shallbe properly reduced to take into account any benefit provided with respect to such biodiesel solely by reason of the application of section 6426 or 6427(e).
 
 #### (d) Definitions and special rules
 
@@ -262,7 +262,7 @@ Subsec. (b)(5)(B). Pub. L. 109–135 struck out “(determined without regard to
 
 Subsec. (d)(3)(C),(D). Pub. L. 109–58, §1345(d)(3), added subpar. (C) and redesignated former subpar. (C) as (D). The words following “subsection (b)(5)(B),” in subpar. (C) are shown as a flush provision notwithstanding directory language showing them as part of cl. (ii), to reflect the probable intent of Congress.
 
-Subsec. (e). Pub. L. 109–58, §1345(c), added subsec. (e). The words following “subparagraph (A) for the taxable year,” in subsec. (e)(6)(B)(iii) are shown as a flush provision notwithstanding directory language showingthem as part of subcl. (II), to reflect the probable intent of Congress. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 109–58, §1345(c), added subsec. (e). The words following “subparagraph (A) for the taxable year,” in subsec. (e)(6)(B)(iii) are shown as a flush provision notwithstanding directory language showing them as part of subcl. (II), to reflect the probable intent of Congress. Former subsec. (e) redesignated (f).
 
 Pub. L. 109–58, §1344(a), substituted “2008” for “2006”.
 
@@ -282,5 +282,5 @@ Pub. L. 109–58, title XIII, §1346(c), Aug. 8, 2005, 119 Stat. 1056, provided 
 
 #### Effective Date
 
-Section applicable to fuel produced, and sold or used, after Dec. 31, 2004, in taxable years ending after such date, see section 302(d) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 38 of this title.
+Section applicable to fuel produced, and sold or used, after Dec. 31, 2004, in taxable years ending after suchdate, see section 302(d) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 38 of this title.
 

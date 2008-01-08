@@ -72,7 +72,7 @@ Section 19 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 668), re
 
 The provisions of the Act of August 12, 1968 (42 U.S.C. 4151–4156), referred to in subsec. (b)(8), probably means Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (b)(10), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (b)(10), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Reorganization Plan numbered 14 of 1950 (title 5, appendix), referred to in subsec. (d)(2), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5.
 

@@ -18,13 +18,13 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(7) exchange of funds without regard to section 3651 <sup>1</sup> of the Revised Statutes (31 U.S.C. 543) and loss by exchange;
 
-&emsp;(8) expenditures (not to exceed $50,000 in any fiscal year except as may otherwise be provided in an appropriation or other Act) of a confidential character other than entertainment: <i>Provided</i>, That a certificate of the amount of each such expenditure, the nature of which it is considered inadvisable to specify, shall be made by the head of the agencyprimarily responsible for administering subchapter I of this chapter or such person as he may designate, and every such certificate shall be deemed a sufficient voucher for the amount therein specified;
+&emsp;(8) expenditures (not to exceed $50,000 in any fiscal year except as may otherwise be provided in an appropriation or other Act) of a confidential character other than entertainment: <i>Provided</i>, That a certificate of the amount of each such expenditure, the nature of which it is considered inadvisable to specify, shall be made by the head of the agency primarily responsible for administering subchapter I of this chapter or such person as he may designate, and every such certificate shall be deemed a sufficient voucher for the amount therein specified;
 
 &emsp;(9) insurance of official motor vehicles or aircraft acquired for use in foreign countries;
 
 &emsp;(10) rent or lease outside the United States for not to exceed ten years of offices, buildings, grounds, and quarters, including living quarters to house personnel, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made available for use to the United States Government outside the United States; and costs of fuel, water, and utilities for such properties;
 
-&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities carried out with funds covered by this subsection;
+&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from theirhomes participating in activities carried out with funds covered by this subsection;
 
 &emsp;(12) purchase of uniforms;
 
@@ -98,7 +98,7 @@ Section 2399a of this title, referred to in subsec. (i), was repealed by Pub. L.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), andVIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### References to Part I Deemed To Include Section 2293
 
@@ -110,7 +110,7 @@ In subsec. (a)(2), “section 1346(a) and (c) of title 31” substituted for “
 
 #### Amendments
 
-2002—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: “expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage.”
+2002—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: “expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods,and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage.”
 
 1989—Subsec. (g). Pub. L. 101–167 inserted “or the Arms Export Control Act” after “subchapter II of this chapter” in introductory provisions.
 

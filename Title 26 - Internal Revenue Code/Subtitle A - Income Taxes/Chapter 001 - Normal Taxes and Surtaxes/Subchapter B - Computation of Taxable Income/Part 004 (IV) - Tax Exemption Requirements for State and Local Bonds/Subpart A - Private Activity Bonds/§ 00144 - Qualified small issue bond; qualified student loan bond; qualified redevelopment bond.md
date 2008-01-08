@@ -74,7 +74,7 @@
 
 #### (F) Aggregate amount of capital expenditures where there is urban development action grant
 
-&emsp;&emsp;In the case of any issue 95 percent or more of the net proceeds of which are to be used to provide facilities with respect to which an urban development action grant has beenmade under section 119 of the Housing and Community Development Act of 1974, capital expenditures of not to exceed $10,000,000 shall not be taken into account for purposes of applying subparagraph (A)(ii). This subparagraph shall not apply to bonds issued after December 31, 2006.
+&emsp;&emsp;In the case of any issue 95 percent or more of the net proceeds of which are to be used to provide facilities with respect to which an urban development action grant has been made under section 119 of the Housing and Community Development Act of 1974, capital expenditures of not to exceed $10,000,000 shall not be taken into account for purposes of applying subparagraph (A)(ii). This subparagraph shall not apply to bonds issued after December 31, 2006.
 
 #### (G) Additional capital expenditures not taken into account
 
@@ -336,7 +336,7 @@ For purposes of this part—
 
 #### (ii) Designation percentage
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “designation percentage” means, with respect to any area, the percentage (determined at the time such area is designated) which the assessed value of real property located in such area is of the total assessed value of all real property located within the jurisdiction of the governmental unit which designated such area.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “designation percentage” means,with respect to any area, the percentage (determined at the time such area is designated) which the assessed value of real property located in such area is of the total assessed value of all real property located within the jurisdiction of the governmental unit which designated such area.
 
 #### (iii) Exception where bonds not outstanding
 
@@ -386,13 +386,13 @@ Section 119 of the Housing and Community Development Act of 1974, referred to in
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (a)(10)(B)(ii)(II), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by Pub. L. 99–498, title IV,§402(a), Oct. 17, 1986, 100 Stat. 1386, which is classified to section 1078–2 of Title 20, does not contain a par. (1). Section 438 of that Act is classified to section 1087–1 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386, which is classified to section 1078–2 of Title 20, does not contain a par. (1). Section 438 of that Act is classified to section 1087–1 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, prior to the general revision of subchapter V of chapter 6A by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of revised subchapter V of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Prior Provisions
 
-A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c), title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related to method for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
+A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c), title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related to method for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23,1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
 

@@ -34,7 +34,7 @@ For purposes of this subchapter—
 
 &emsp;(E) In estimating net present values, the discount rate shall be the average interest rate on marketable Treasury securities of similar maturity to the cash flows of the direct loan or loan guarantee for which the estimate is being made.
 
-&emsp;(F) When funds are obligated for a direct loan or loan guarantee, the estimated cost shall be based on the current assumptions, adjusted to incorporate the terms of the loan contract, for the fiscal year in which the funds are obligated.
+&emsp;(F) When funds are obligated for a direct loan or loan guarantee, the estimated cost shall be based on the current assumptions, adjusted to incorporate the terms of the loancontract, for the fiscal year in which the funds are obligated.
 
 &emsp;(6) The term “credit program account” means the budget account into which an appropriation to cover the cost of a direct loan or loan guarantee program is made and from which such cost is disbursed to the financing account.
 

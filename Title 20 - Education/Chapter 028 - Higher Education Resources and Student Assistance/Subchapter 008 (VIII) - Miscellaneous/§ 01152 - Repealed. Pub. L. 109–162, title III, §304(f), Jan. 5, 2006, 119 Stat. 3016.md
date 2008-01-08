@@ -4,5 +4,5 @@ Section, Pub. L. 105–244, title VIII, §826, Oct. 7, 1998, 112 Stat. 1815; Pub
 
 #### Effective Date of Repeal
 
-Repeal effective beginning fiscal year 2007, see section 4 of Pub. L. 109–162, as added by Pub. L. 109–271, §1(b), Aug. 12, 2006, 120 Stat. 750, set out as an Effective Date of 2006 Amendment note under section 3793 of Title 42, The Public Health and Welfare.
+Repeal effective beginning fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 3793 of Title 42, The Public Health and Welfare.
 

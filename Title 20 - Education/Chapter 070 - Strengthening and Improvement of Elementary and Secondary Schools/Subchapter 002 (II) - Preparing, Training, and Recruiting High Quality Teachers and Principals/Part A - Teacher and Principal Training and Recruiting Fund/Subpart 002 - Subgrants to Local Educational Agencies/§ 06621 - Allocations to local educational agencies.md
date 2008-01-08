@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;From the funds reserved by a State under section 6613(a)(1) of this title, the State educational agency shall allocate to each local educational agency in the State an amount equal to the total amount that such agency received for fiscal year 2001 under—
+&emsp;&emsp;From the funds reserved by a State under section 6613(a)(1) of this title, the State educational agency shall allocate to each local educational agency in the State an amountequal to the total amount that such agency received for fiscal year 2001 under—
 
 &emsp;&emsp;&emsp;(i) section 2203(1)(B) of this Act (as in effect on the day before January 8, 2002); and
 

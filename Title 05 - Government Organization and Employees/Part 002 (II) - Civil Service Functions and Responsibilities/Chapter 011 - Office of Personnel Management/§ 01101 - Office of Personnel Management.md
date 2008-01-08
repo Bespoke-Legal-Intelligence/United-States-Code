@@ -48,7 +48,7 @@ Pub. L. 108–458, title VIII, §8403(b), Dec. 17, 2004, 118 Stat. 3870, provide
 
 “(1)
 
-Definition.—In this section, the term ‘major party’ has the meaning given that term under section9002(6) of the Internal Revenue Code of 1986 \[26 U.S.C. 9002(6)\].
+Definition.—In this section, the term ‘major party’ has the meaning given that term under section 9002(6) of the Internal Revenue Code of 1986 \[26 U.S.C. 9002(6)\].
 
 “(2)
 
@@ -144,7 +144,7 @@ Pub. L. 108–136, div. A, title XI, §1127, Nov. 24, 2003, 117 Stat. 1640, prov
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, an agency or other employing entity of theGovernment which provides or plans to provide a flexible spending account option for its employees shall not impose any fee with respect to any of its employees in order to defray the administrative costs associated therewith.
+In General.—Notwithstanding any other provision of law, an agency or other employing entity of the Government which provides or plans to provide a flexible spending account option for its employees shall not impose any fee with respect to any of its employees in order to defray the administrative costs associated therewith.
 
 “(b)
 
@@ -152,7 +152,7 @@ Offset of Administrative Costs.—Each such agency or employing entity that offe
 
 “(c)
 
-Reports.—(1) The Office shall submit a report to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate no later than March 31, 2004, specifying the administrative costs associated with the Governmentwide program (referred to in subsection (b)) for fiscal year 2003, as well as the projected administrative costs of such program for each of the 5 fiscal years thereafter.
+Reports.—(1) The Office shall submit a report to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate no later than March 31, 2004, specifying the administrative costs associated with the Governmentwide program (referred to in subsection (b)) for fiscal year 2003, as well as the projected administrative costs of such program for each of the 5 fiscal years thereafter.
 
 “(2) At the end of each of the first 3 calendar years in which an agency or other employing entity offers a flexible spending account option under this section, such agency or entity shall submit a report to the Office of Management and Budget showing the amount of its employment tax savings in such year which are attributable to such option, net of administrative fees paid under subsection (b).”
 
@@ -198,7 +198,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(B) Notwithstanding any other provisions, eligibility requirements relating to International Services Agencies shall remain at least as inclusive as existing requirements. Any voluntary agency or federated group which attains national eligibility under subparagraph (A), and any voluntary agency which is a member of the International Services Agencies, shall be considered to have satisfied any requirements relating to ‘local presence’.
 
-“(3)(A) If a federated group is eligible to receive donations in a Combined Federal Campaign, whether on a national level (pursuant to certification by the Office)or a local level (pursuant to certification by the local Federal coordinating committee), each voluntary agency which is a member of such group may, upon certification by the federated group, be considered eligible to participate on such national or local level, as the case may be.
+“(3)(A) If a federated group is eligible to receive donations in a Combined Federal Campaign, whether on a national level (pursuant to certification by the Office) or a local level (pursuant to certification by the local Federal coordinating committee), each voluntary agency which is a member of such group may, upon certification by the federated group, be considered eligible to participate on such national or local level, as the case may be.
 
 “(B) Notwithstanding any provision of subparagraph (A)—
 
@@ -352,7 +352,7 @@ The functions of the Director shall include, but not be limited to, the followin
 
 (b) Advising the President, as the President may request, on any matters pertaining to civilian employment now within the jurisdiction of the United States Civil Service Commission;
 
-(c) Executing, administering and enforcing the Civil Service rules and regulations of the President and the Office and the statutes governing the same, and other activities of the Office including retirement and classification activities except to the extent such functions remain vested in the Merit Systems Protection Board pursuant to Section 202 of this Plan, or are transferred to the Special Counsel pursuant to Section 204 of this Plan. The Director shall provide the public, where appropriate, a reasonable opportunity to comment and submit written views on the implementation and interpretation of such rules and regulations;
+(c) Executing, administering and enforcing the Civil Service rules and regulations of the President and the Office and the statutes governing the same, and other activities of the Office including retirement and classification activities except to the extent such functions remain vested in the Merit Systems Protection Board pursuant to Section 202 of this Plan, or are transferred to the Special Counsel pursuant to Section 204 of this Plan. The Director shall provide the public, where appropriate, a reasonable opportunity to comment andsubmit written views on the implementation and interpretation of such rules and regulations;
 
 (d) Conducting or otherwise providing for studies and research for the purpose of assuring improvements in personnel management, and recommending to the President actions to promote an efficient Civil Service and a systematic application of the merit system principles, including measures relating to the selection, promotion, transfer, performance, pay, conditions of service, tenure, and separations of employees; and
 
@@ -410,7 +410,7 @@ The Board shall accept appeals from agency actions effected prior to the effecti
 
 (d) When in the judgment of the Special Counsel, such personnel practices exist, he shall report his findings and recommendations to the Chairman of the Merit Systems Protection Board, the agency affected, and to the Office of Personnel Management, and may report such findings to the President.
 
-(e) When in the judgment of the Special Counsel, the results of an investigation would warrant the taking of disciplinary action against an employee who is withinthe jurisdiction of the Board, the Special Counsel shall prepare charges against such employee and present them with supporting documentation to the Board. Evidence supporting the need for disciplinary action against a Presidential appointee shall be submitted by the Special Counsel to the President.
+(e) When in the judgment of the Special Counsel, the results of an investigation would warrant the taking of disciplinary action against an employee who is within the jurisdiction of the Board, the Special Counsel shall prepare charges against such employee and present them with supporting documentation to the Board. Evidence supporting the need for disciplinary action against a Presidential appointee shall be submitted by the Special Counsel to the President.
 
 (f) The Special Counsel may appoint personnel necessary to assist in the performance of his functions.
 
@@ -424,7 +424,7 @@ Federal Register.
 
 #### Sec. 301. Establishment of the Federal Labor Relations Authority
 
-(a) There is hereby established, as an independent establishment in the Executive Branch, the Federal Labor Relations Authority (the “Authority”). The Authority shall be composed of three members, one of whom shall be Chairman, not more than two of whom may be adherents of the same political party, and none of whom may hold another office or position in the Government of the United States except where provided by law or by the President.
+(a) There is hereby established, as an independent establishment in the Executive Branch, the FederalLabor Relations Authority (the “Authority”). The Authority shall be composed of three members, one of whom shall be Chairman, not more than two of whom may be adherents of the same political party, and none of whom may hold another office or position in the Government of the United States except where provided by law or by the President.
 
 (b) Members of the Authority shall be appointed by the President, by and with the advice and consent of the Senate. The President shall designate one member to serve as Chairman of the Authority, who shall be compensated at the rate now or hereafter provided for level III of the Executive Schedule \[5 U.S.C. 5314\]. The other members shall be compensated at the rate now or hereafter provided for level IV of the Executive Schedule \[5 U.S.C. 5315\].
 
@@ -754,7 +754,7 @@ Redesignations
 
 12105
 
-2–102. <i>Merit Systems Protection Board</i>. The provisions of Section 3(e) of Executive Order No. 10774 \[set out as anote under section 2025 of Title 22, Foreign Relations and Intercourse\], and Executive Order No. 11787 \[formerly set out as a note under section 7701 of this title\], are hereby amended and revised by substituting the words “Merit Systems Protection Board” for the words “Civil Service Commission” or “Commission” when used as a reference to the Civil Service Commission wherever such words appear.
+2–102. <i>Merit Systems Protection Board</i>. The provisions of Section 3(e) of Executive Order No. 10774 \[set out as a note under section 2025 of Title 22, Foreign Relations and Intercourse\], and Executive Order No. 11787 \[formerly set out as a note under section 7701 of this title\], are hereby amended and revised by substituting the words “Merit Systems Protection Board” for the words “Civil Service Commission” or “Commission” when used as a reference to the Civil Service Commission wherever such words appear.
 
 2–103. \[Amended Civil Service Rules under section 101 of Ex. Ord. No. 10577, formerly set out as a note under section 3301 of this title.\]
 

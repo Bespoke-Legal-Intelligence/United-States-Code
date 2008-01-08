@@ -2,7 +2,7 @@
 
 #### (a) Projects
 
-The Secretary shall address priority substance abuse treatment needs of regional and national significance (as determined under subsection (b) of this section) through the provision of or through assistance for—
+The Secretary shall address priority substance abuse treatment needs of regional and nationalsignificance (as determined under subsection (b) of this section) through the provision of or through assistance for—
 
 &emsp;(1) knowledge development and application projects for treatment and rehabilitation and the conduct or support of evaluations of such projects;
 

@@ -154,7 +154,7 @@ Section 6(b) of Pub. L. 93–490 provided that: “The amendment made by this se
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 501(c) of Pub. L. 89–44 applicable on and after July 1, 1965, see section 701(d) of Pub. L. 89–44, set out as a note under section 5701 of this title.
+Amendment by section 501(c) of Pub. L. 89–44 applicable on and after July 1, 1965, see section 701(d) of Pub.L. 89–44, set out as a note under section 5701 of this title.
 
 Section 806(d)(1) of Pub. L. 89–44 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 1965.”
 

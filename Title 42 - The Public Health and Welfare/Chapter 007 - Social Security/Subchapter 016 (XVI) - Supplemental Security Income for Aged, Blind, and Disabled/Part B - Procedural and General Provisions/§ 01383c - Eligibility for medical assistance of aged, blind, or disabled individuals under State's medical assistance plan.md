@@ -6,7 +6,7 @@ The Commissioner of Social Security may enter into an agreement with any State w
 
 #### (b) Preservation of benefit status for certain disabled widows and widowers
 
-(1) An eligible disabled widow or widower (described in paragraph (2)) who is entitled to a widow's or widower's insurance benefit based on a disability for any month under section 402(e) or (f) of this title but is not eligible for benefits under this subchapter in that month, and who applies for the protection of this subsectionunder paragraph (3), shall be deemed for purposes of subchapter XIX of this chapter to be an individual with respect to whom benefits under this subchapter are paid in that month if he or she—
+(1) An eligible disabled widow or widower (described in paragraph (2)) who is entitled to a widow's or widower's insurance benefit based on a disability for any month under section 402(e) or (f) of this title but is not eligible for benefits under this subchapter in that month, and who applies for the protection of this subsection under paragraph (3), shall be deemed for purposes of subchapter XIX of this chapter to be an individual with respect to whom benefits under this subchapter are paid in that month if he or she—
 
 &emsp;(A) has been continuously entitled to such widow's or widower's insurance benefits from the first month for which the increase described in paragraph (2)(C) was reflected in such benefits through the month involved, and
 
@@ -46,7 +46,7 @@ If any individual who has attained the age of 18 and is receiving benefits under
 
 &emsp;(A) shall be deemed to be a recipient of supplemental security income benefits under this subchapter if such person received such a benefit for the month before the month in which such person began to receive a benefit described in paragraph (1)(A), and
 
-&emsp;(B) shall be deemed to be a recipient of State supplementary payments of the type referred to in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) if such person received such a payment for the month before the month in which such person began to receive a benefit described in paragraph (1)(A),
+&emsp;(B) shall be deemed to be a recipient of State supplementary payments of the type referredto in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) if such person received such a payment for the month before the month in which such person began to receive a benefit described in paragraph (1)(A),
 
 > for so long as such person (i) would be eligible for such supplemental security income benefits, or such State supplementary payments (or payments of the type described in section 212(a) of Public Law 93–66), in the absence of benefits described in paragraph (1)(A), and (ii) is not entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter.
 
@@ -56,7 +56,7 @@ If any individual who has attained the age of 18 and is receiving benefits under
 
 Section 134 of the Social Security Amendments of 1983 (Public Law 98–21), referred to in subsec. (b)(2)(C), is section 134 of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 97, which amended section 402 of this title and enacted provisions set out as a note under section 402 of this title.
 
-Section 212(a) of Public Law 93–66, referred to in subsecs. (b)(4) and (d)(1)(B), (2), is section 212(a) of Pub. L.93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212(a) of Public Law 93–66, referred to in subsecs. (b)(4) and (d)(1)(B), (2), is section 212(a) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
 The effective date of this subsection, referred to in subsec. (c)(1), is July 1, 1987, except as otherwise provided. See section 10(b) of Pub. L. 99–643, set out as an Effective Date of 1986 Amendments note under section 1396a of this title.
 
@@ -106,7 +106,7 @@ Section 9116(e) of Pub. L. 100–203 provided that: “The amendments made by su
 
 Amendment by Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub. L. 99–643, set out as a note under section 1396a of this title.
 
-Section 12202(c) of Pub. L. 99–272 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not have the effect of deeming an individual eligible for medical assistance for any month which begins less than two months after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Section 12202(c) of Pub. L. 99–272 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not have the effect of deeming an individual eligible for medical assistance for any month whichbegins less than two months after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 #### Effective Date
 
@@ -118,7 +118,7 @@ Section 9116(b) of Pub. L. 100–203 provided that: “The Secretary of Health a
 
 #### State Determinations
 
-Section 9116(c) of Pub. L. 100–203 provided that: “Any determination required under section 1634(d) of the Social Security Act \[subsec. (d) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] (or State supplementary payments) in the absence ofbenefits under section 202 \[section 402 of this title\] shall be made by the appropriate State agency.”
+Section 9116(c) of Pub. L. 100–203 provided that: “Any determination required under section 1634(d) of the Social Security Act \[subsec. (d) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] (or State supplementary payments) in the absence of benefits under section 202 \[section 402 of this title\] shall be made by the appropriate State agency.”
 
 Section 6(b) of Pub. L. 99–643 provided that: “Any determination required under section 1634(c) of the Social Security Act \[subsec. (c) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] in the absence of children's benefits (or an increase thereof) shall be made by the appropriate State agency.”
 

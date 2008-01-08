@@ -42,9 +42,9 @@ Subsec. (e). Pub. L. 94–433, §405(3), substituted “such person's” for “
 
 Subsec. (a). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who died in the active service for provisions determining the basic pay of a veteran who died in the active service as that prescribed on Jan. 1, 1957, or on the date of his death (whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
 
-Subsec. (b). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who did not die in the active service for provisions determining the basic pay of a veteran who did not die in the active service as that prescribed on Jan. 1, 1957, or on the date of his death (whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
+Subsec. (b). Pub. L. 91–96 substituted provisions determining the pay grade of a veteran who did not die inthe active service for provisions determining the basic pay of a veteran who did not die in the active service as that prescribed on Jan. 1, 1957, or on the date of his death (whichever is the later date) for a member of a uniformed service on active duty of the same rank and years of service.
 
-Subsec. (c). Pub. L. 91–96 redesignated former subsec. (c)(1) as (c) and substituted “pay grade” for “basic pay”and “assigned” for “entitled”. Former subsec. (c)(2) redesignated (e).
+Subsec. (c). Pub. L. 91–96 redesignated former subsec. (c)(1) as (c) and substituted “pay grade” for “basic pay” and “assigned” for “entitled”. Former subsec. (c)(2) redesignated (e).
 
 Subsec. (d). Pub. L. 91–96 substituted provisions determining the applicability of a higher pay grade of a veteran who had served six months or more in a pay grade higher than that specified in subsec. (a) or (b) for provisions determining the basic pay of a veteran who had served six months or more in a rank higher than that specified in the former provisions of subsec. (a) or (b).
 

@@ -56,15 +56,23 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;&emsp;(ii) other affected interests.
 
-#### (2) Projects
+#### (2) Reconnaissance studies
+
+&emsp;Before planning, designing, or constructing a project under paragraph (3), the Secretary shall carry out a reconnaissance study—
+
+&emsp;&emsp;(A) to identify methods of restoring the fishery, ecosystem, and beneficial uses of the Great Lakes; and
+
+&emsp;&emsp;(B) to determine whether planning of a project under paragraph (3) should proceed.
+
+#### (3) Projects
 
 &emsp;The Secretary shall plan, design, and construct projects to support the restoration of the fishery, ecosystem, and beneficial uses of the Great Lakes.
 
-#### (3) Evaluation program
+#### (4) Evaluation program
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall develop a program to evaluate the success of the projects carried out under paragraph (2) in meeting fishery and ecosystem restoration goals.
+&emsp;&emsp;The Secretary shall develop a program to evaluate the success of the projects carriedout under paragraph (3) in meeting fishery and ecosystem restoration goals.
 
 #### (B) Studies
 
@@ -86,17 +94,17 @@ No activity under this section shall affect the date of completion of any other 
 
 #### (2) Project planning, design, construction, and evaluation
 
-&emsp;The Federal share of the cost of planning, design, construction, and evaluation of a project under paragraph (2) or (3) of subsection (c) of this section shall be 65 percent.
+&emsp;Except for reconnaissance studies, the Federal share of the cost of planning, design, construction, and evaluation of a project under paragraph (3) or (4) of subsection (c) of this section shall be 65 percent.
 
 #### (3) Non-Federal share
 
 #### (A) Credit for land, easements, and rights-of-way
 
-&emsp;&emsp;The Secretary shall credit the non-Federal interest for the value of any land, easement, right-of-way, dredged material disposal area, or relocation provided for carrying out a project under subsection (c)(2) of this section.
+&emsp;&emsp;The Secretary shall credit the non-Federal interest for the value of any land, easement, right-of-way, dredged material disposal area, or relocation provided for carrying out a project under subsection (c)(3).
 
 #### (B) Form
 
-&emsp;&emsp;The non-Federal interest may provide up to 50 percent of the non-Federal share required under paragraphs (1) and (2) in the form of services, materials, supplies, or other in-kind contributions.
+&emsp;&emsp;The non-Federal interest may provide up to 100 percent of the non-Federal share required under paragraphs (1) and (2) in the form of services, materials, supplies, or other in-kind contributions.
 
 #### (4) Operation and maintenance
 
@@ -104,7 +112,7 @@ No activity under this section shall affect the date of completion of any other 
 
 #### (5) Non-Federal interests
 
-&emsp;Notwithstanding section 1962d–5b of this title, for any project carried out under this section, a non-Federal interest may include a private interest and a nonprofit entity.
+&emsp;In accordance with section 1962d–5b of this title, for any project carried out under this section, a non-Federal interest may include a private interest and a nonprofit entity.
 
 #### (g) Authorization of appropriations
 
@@ -116,7 +124,7 @@ No activity under this section shall affect the date of completion of any other 
 
 &emsp;There is authorized to be appropriated to carry out paragraphs (2) and (3) of subsection (c) of this section $100,000,000.
 
-(Pub. L. 106–541, title V, §506, Dec. 11, 2000, 114 Stat. 2645.)
+(Pub. L. 106–541, title V, §506, Dec. 11, 2000, 114 Stat. 2645; Pub. L. 110–114, title V, §5011, Nov. 8, 2007, 121 Stat. 1194.)
 
 #### References in Text
 
@@ -125,6 +133,16 @@ The Great Lakes Basin Compact, referred to in subsec. (b)(2), is not classified 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Planning Act which comprises this chapter.
+
+#### Amendments
+
+2007—Subsec. (c)(2) to (4). Pub. L. 110–114, §5011(a), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “paragraph (3)” for “paragraph (2)” in subpar. (A) of par. (4).
+
+Subsec. (f)(2). Pub. L. 110–114, §5011(b)(1), substituted “Except for reconnaissance studies, the Federal share” for “The Federal share” and “(3) or (4)” for “(2) or (3)”.
+
+Subsec. (f)(3). Pub. L. 110–114, §5011(b)(2), substituted “subsection (c)(3)” for “subsection (c)(2)” in subpar. (A) and “100 percent” for “50 percent” in subpar. (B).
+
+Subsec. (f)(5). Pub. L. 110–114, §5011(b)(3), substituted “In accordance with” for “Notwithstanding”.
 
 #### Definitions
 

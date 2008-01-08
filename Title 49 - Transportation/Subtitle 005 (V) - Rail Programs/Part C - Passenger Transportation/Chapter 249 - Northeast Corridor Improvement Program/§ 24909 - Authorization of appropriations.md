@@ -98,7 +98,7 @@ Availability of Amounts.—Amounts appropriated under subsection (a)(1) and (2)(
 
 (g)
 
-Authorizations Increased by Prior Year Deficiencies.—An amount greater than that authorized for a fiscal year may be appropriated to the extent that the amount appropriated for any prior fiscal year is less than the amount authorized for that year.
+Authorizations Increased by Prior Year Deficiencies.—An amount greater than that authorized for a fiscal year may be appropriated to the extent that the amount appropriated for anyprior fiscal year is less than the amount authorized for that year.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 937.)
 
@@ -210,7 +210,7 @@ In subsection (g), the text of 45:854(a) (3d, 5th, and last sentences) is omitte
 
 #### References in Text
 
-Section 24902 of this title, referred to in subsecs. (a)(1), (2)(A), (E), was amended by Pub. L. 105–134, title IV, §405(b)(1), Dec. 2, 1997, 111 Stat. 2586, and, as so amended, subsec. (a) of that section was repealed andsubsecs. (b), (j), and (m) were redesignated (a), (g), and (j), respectively.
+Section 24902 of this title, referred to in subsecs. (a)(1), (2)(A), (E), was amended by Pub. L. 105–134, title IV, §405(b)(1), Dec. 2, 1997, 111 Stat. 2586, and, as so amended, subsec. (a) of that section was repealed and subsecs. (b), (j), and (m) were redesignated (a), (g), and (j), respectively.
 
 Act of February 28, 1975 (Public Law 94–6, 89 Stat. 11), referred to in subsec. (b), provided appropriations for interim operating assistance for Federal Railroad Administration of Department of Transportation in chapter II which is not classified to the Code.
 

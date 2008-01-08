@@ -50,7 +50,7 @@ The Administrator of General Services shall provide to the Council, on a reimbur
 
 (6) Any discussion held by any subcouncil shall not be subject to the provisions of the Federal Advisory Committee Act, except that a Federal representative shall attend all subcouncil meetings.
 
-(7) Any subcouncil shall terminate 30 days after making recommendations, unless the Council specifically requests that the subcouncil continue in operation.
+(7) Any subcouncil shall terminate 30 days after making recommendations, unless theCouncil specifically requests that the subcouncil continue in operation.
 
 #### (h) Applicability of Advisory Committee Act
 
@@ -60,7 +60,7 @@ The provisions of subsections (e) and (f) of section 10,<sup>1</sup> of the Fede
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

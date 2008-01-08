@@ -146,7 +146,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (C) Inspection
 
-&emsp;&emsp;After making a determination described in subparagraph (A), the Bureau health and safety officer and the individual designated by the tribe shall conduct an inspection of the conditions of such facility in order to determine whether conditions at such facility constitute an immediate hazard to health and safety. Such inspection shall be completed as expeditiously as practicable, but not later than 20 days after the date on which the action described in subparagraph (A) is taken.
+&emsp;&emsp;After making a determination described in subparagraph (A), the Bureau health and safety officer and the individual designated by the tribe shall conduct an inspection of the conditions of such facility in order to determine whether conditions at such facility constitute an immediate hazard to health and safety. Such inspection shall be completed as expeditiously as practicable, butnot later than 20 days after the date on which the action described in subparagraph (A) is taken.
 
 #### (D) Failure to concur
 
@@ -212,7 +212,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (2) Requirements for certain uses
 
-&emsp;No funds shall be withheld from the distribution to the budget of any school operated under contract or grant by the Bureau for maintenance or any other facilities or road-related purpose, unless such school has consented, as a modification to the contract or in writing for grants schools, to the withholding of such funds, including the amount thereof, the purpose for which the funds will be used, and the timeline for the services to be provided. The school may, at the end of any fiscal year, cancel an agreement under this paragraph upon giving the Bureau 30 days notice of its intent to do so.
+&emsp;No funds shall be withheld from the distribution to the budget of any school operatedunder contract or grant by the Bureau for maintenance or any other facilities or road-related purpose, unless such school has consented, as a modification to the contract or in writing for grants schools, to the withholding of such funds, including the amount thereof, the purpose for which the funds will be used, and the timeline for the services to be provided. The school may, at the end of any fiscal year, cancel an agreement under this paragraph upon giving the Bureau 30 days notice of its intent to do so.
 
 #### (g) No reduction in Federal funding
 
@@ -235,6 +235,10 @@ Another prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92
 #### Amendments
 
 2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives and Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Use of Tribal Priority Allocations Funds for School Facilities
 

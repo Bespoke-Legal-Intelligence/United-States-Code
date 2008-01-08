@@ -24,7 +24,7 @@ Schedule II.—
 
 &emsp;(A) The drug or other substance has a high potential for abuse.
 
-&emsp;(B) The drug or other substance has a currently accepted medical use in treatment inthe United States or a currently accepted medical use with severe restrictions.
+&emsp;(B) The drug or other substance has a currently accepted medical use in treatment in the United States or a currently accepted medical use with severe restrictions.
 
 &emsp;(C) Abuse of the drug or other substances may lead to severe psychological or physical dependence.
 
@@ -334,7 +334,7 @@ Schedule III
 
 &emsp;(3) Not more than 300 milligrams of dihydrocodeinone per 100 milliliters or not more than 15 milligrams per dosage unit, with a fourfold or greater quantity of an isoquinoline alkaloid of opium.
 
-&emsp;(4) Not more than 300 milligrams of dihydrocodeinone per 100 milliliters or not more than 15 milligrams per dosage unit, with one ormore active, nonnarcotic ingredients in recognized therapeutic amounts.
+&emsp;(4) Not more than 300 milligrams of dihydrocodeinone per 100 milliliters or not more than 15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
 &emsp;(5) Not more than 1.8 grams of dihydrocodeine per 100 milliliters or not more than 90 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
@@ -424,7 +424,7 @@ Pub. L. 106–172, §§2, 3(a), Feb. 18, 2000, 114 Stat. 7, 8, provided that:
 
 &emsp;“(4) If taken for human consumption, common industrial chemicals such as gamma butyrolactone and 1.4-butanediol are swiftly converted by the body into GHB. Illicit use of these and other GHB analogues and precursor chemicals is a significant and growing law enforcement problem.
 
-&emsp;“(5) A human pharmaceutical formulation of gamma hydroxybutyric acid is being developed as a treatment for cataplexy, a serious and debilitating disease. Cataplexy, which causes sudden and total loss of muscle control, affects about 65 percent of theestimated 180,000 Americans with narcolepsy, a sleep disorder. People with cataplexy often are unable to work, drive a car, hold their children or live a normal life.
+&emsp;“(5) A human pharmaceutical formulation of gamma hydroxybutyric acid is being developed as a treatment for cataplexy, a serious and debilitating disease. Cataplexy, which causes sudden and total loss of muscle control, affects about 65 percent of the estimated 180,000 Americans with narcolepsy, a sleep disorder. People with cataplexy often are unable to work, drive a car, hold their children or live a normal life.
 
 &emsp;“(6) Abuse of illicit GHB is an imminent hazard to public safety that requires immediate regulatory action under the Controlled Substances Act (21 U.S.C. 801 et seq.).
 
@@ -436,7 +436,7 @@ Emergency Scheduling of GHB.—
 
 &emsp;“(1)
 
-In general.—The Congress finds that the abuse of illicit gamma hydroxybutyric acid is an imminent hazard to the public safety. Accordingly, the Attorney General, notwithstanding sections 201(a), 201(b), 201(c), and 202 of the Controlled Substances Act \[21 U.S.C. 811(a)–(c), 812\], shall issue, not later than 60 days after the date of the enactment of this Act \[Feb. 18, 2000\], a final order that schedules such drug (together with its salts, isomers, and salts of isomers) in the same schedule under section 202(c) of the Controlled Substances Act as would apply to a scheduling of a substance by the Attorney General under section 201(h)(1) of such Act (relating to imminent hazards to the public safety), except as follows:
+In general.—The Congress finds that the abuse of illicit gamma hydroxybutyric acid is an imminent hazard to the public safety. Accordingly, the Attorney General, notwithstanding sections 201(a), 201(b), 201(c), and 202 of the Controlled Substances Act \[21 U.S.C. 811(a)–(c), 812\], shall issue, not later than 60 days after the date of the enactment of this Act \[Feb. 18, 2000\], a final order that schedules such drug (together with its salts, isomers, and salts of isomers) in the same schedule under section 202(c) of the Controlled Substances Act as would apply to a scheduling of a substance by the Attorney General under section201(h)(1) of such Act (relating to imminent hazards to the public safety), except as follows:
 
 &emsp;&emsp;“(A) For purposes of any requirements that relate to the physical security of registered manufacturers and registered distributors, the final order shall treat such drug, when the drug is manufactured, distributed, or possessed in accordance with an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i)\] (whether the exemption involved is authorized before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), as being in the same schedule as that recommended by the Secretary of Health and Human Services for the drug when the drug is the subject of an authorized investigational new drug application (relating to such section 505(i)). The recommendation referred to in the preceding sentence is contained in the first paragraph of the letter transmitted on May 19, 1999, by such Secretary (acting through the Assistant Secretary for Health) to the Attorney General (acting through the Deputy Administrator of the Drug Enforcement Administration), which letter was in response to the letter transmitted by the Attorney General (acting through such Deputy Administrator) on September 16, 1997. In publishing the final order in the Federal Register, the Attorney General shall publish a copy of the letter that was transmitted by the Secretary of Health and Human Services.
 

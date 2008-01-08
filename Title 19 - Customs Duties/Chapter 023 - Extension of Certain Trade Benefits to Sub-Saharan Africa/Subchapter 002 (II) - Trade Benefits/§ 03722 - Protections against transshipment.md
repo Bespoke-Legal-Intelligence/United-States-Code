@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) agrees to require all producers and exporters of covered articles in that country to maintain complete records of the production and the export of covered articles, including materials used in the production, for at least 2 years after the production or export (as the case may be); and
 
-&emsp;&emsp;(F) agrees to report, on a timely basis, at the request of the United States CustomsService, documentation establishing the country of origin of covered articles as used by that country in implementing an effective visa system.
+&emsp;&emsp;(F) agrees to report, on a timely basis, at the request of the United States Customs Service, documentation establishing the country of origin of covered articles as used by that country in implementing an effective visa system.
 
 #### (2) Country of origin documentation
 
@@ -92,7 +92,7 @@ This chapter, referred to in subsec. (b)(4), was in the original “this Act”,
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Authority
 

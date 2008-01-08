@@ -14,7 +14,7 @@ Pub. L. 106–505, title III, §305, Nov. 13, 2000, 114 Stat. 2335, provided tha
 
 “(a)
 
-Authorization of Appropriations.—There is authorized to be appropriated $100,000,000 for fiscal year 2000, and such sums as may be necessary for each subsequent fiscal year, to enable the Secretary of Health and Human Services, acting through the Director of the National Center for Research Resources, to provide for the continued operation of the Shared Instrumentation Grant Program (initiated in fiscal year 1992 under the authority of section 479 of the Public Health Service Act (42 U.S.C. 287 et seq.)).
+Authorization of Appropriations.—There is authorized to be appropriated $100,000,000 for fiscal year 2000, and such sums as may be necessary for each subsequent fiscal year, to enable the Secretary of Health and Human Services, acting through the Director of the National Center for Research Resources, to provide for thecontinued operation of the Shared Instrumentation Grant Program (initiated in fiscal year 1992 under the authority of section 479 of the Public Health Service Act (42 U.S.C. 287 et seq.)).
 
 “(b)
 

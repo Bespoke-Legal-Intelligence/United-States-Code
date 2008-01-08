@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (ii) No foreclosure
 
-&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
+&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of theguarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
 
 #### (B) Requirements
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (C) Limitation on outstanding aggregate principal amount
 
-&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 1997 through 2007 with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for such fiscal year.
+&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 2008 through 2012 with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for such fiscal year.
 
 #### (6) Liabilities
 
@@ -178,11 +178,11 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (7) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to the Guarantee Fund to carry out this section such sums as may be necessary for each of fiscal years 1997 through 2007.
+&emsp;There are authorized to be appropriated to the Guarantee Fund to carry out this section such sums as may be necessary for each of fiscal years 2008 through 2012.
 
 #### (j) Requirements for standard housing
 
-The Secretary shall, by regulation, establish housing safety and quality standards for use under this section. Such standards shall provide sufficient flexibility to permit the use of various designs and materials in housing acquired with loans guaranteed under this section. The standards shall require each dwelling unit in any housing so acquired to—
+The Secretary shall, by regulation, establish housing safety and quality standards for useunder this section. Such standards shall provide sufficient flexibility to permit the use of various designs and materials in housing acquired with loans guaranteed under this section. The standards shall require each dwelling unit in any housing so acquired to—
 
 &emsp;(1) be decent, safe, sanitary, and modest in size and design;
 
@@ -268,7 +268,7 @@ Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indi
 
 &emsp;(9) The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
-(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §2(d), Nov. 13, 2002, 116 Stat. 2053.)
+(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat.2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §2(d), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–37, §2, June 18, 2007, 121 Stat. 229.)
 
 #### References in Text
 
@@ -276,19 +276,21 @@ The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934
 
 The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (<i>l</i>)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (<i>l</i>)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Indian Self-Determination and Education Assistance Act of 1975, referred to in subsec. (<i>l</i>)(8), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (<i>l</i>)(8), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Codification
 
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+2007—Subsec. (i)(5)(C),(7). Pub. L. 110–37 substituted “fiscal years 2008 through 2012” for “fiscal years 1997 through 2007”.
 
 2002—Subsec. (i)(5)(C), (7). Pub. L. 107–292 substituted “each of fiscal years 1997 through 2007” for “each fiscal year”.
 
@@ -320,7 +322,7 @@ Subsec. (h)(1)(A)(ii). Pub. L. 104–330, §701(d)(1)(B), added cl. (ii) and str
 
 Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted “restricted Indian land, the mortgagee or” for “tribal allotted or trust land,”, in second sentence substituted “mortgagee or the Secretary” for “Secretary” in two places, and struck out heading and text of former par. (2). Text read as follows: “Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
 
-Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year.”
+Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscalyear only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year.”
 
 Subsec. (i)(5)(B). Pub. L. 104–330, §701(j)(2), inserted at end “Any amounts appropriated pursuant to this subparagraph shall remain available until expended.”
 

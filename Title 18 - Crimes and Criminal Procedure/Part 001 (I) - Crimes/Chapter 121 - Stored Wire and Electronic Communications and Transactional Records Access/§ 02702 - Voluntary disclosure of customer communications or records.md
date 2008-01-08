@@ -8,7 +8,7 @@ Prohibitions.—Except as provided in subsection (b) or (c)—
 
 &emsp;(2) a person or entity providing remote computing service to the public shall not knowingly divulge to any person or entity the contents of any communication which is carried or maintained on that service—
 
-&emsp;&emsp;(A) on behalf of, and received by means of electronic transmission from (or created by means of computer processing of communications received by means of electronic transmission from), a subscriber or customer of such service;
+&emsp;&emsp;(A) on behalf of, and received by means of electronic transmission from (or created bymeans of computer processing of communications received by means of electronic transmission from), a subscriber or customer of such service;
 
 &emsp;&emsp;(B) solely for the purpose of providing storage or computer processing services to such subscriber or customer, if the provider is not authorized to access the contents of any such communications for purposes of providing any services other than storage or computer processing; and
 

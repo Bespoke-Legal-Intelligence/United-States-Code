@@ -40,7 +40,7 @@ Subsec. (e). Pub. L. 95–176 redesignated former subsec. (b) as par. (1) and ad
 
 1971—Subsec. (a). Pub. L. 91–659, §2(c)(1), struck out requirements that withdrawn distilled spirits be returned when found unsuitable, in bulk containers, before processing and before removal from the original container and permitted return of withdrawn distilled spirits other than products to which any alcoholic ingredients other than such distilled spirits have been added and made additional authorization under section 5234(a)(1)(B) for mingling returned distilled spirits.
 
-Subsec. (b). Pub. L. 91–659, §2(c)(2), (3), repealed subsec. (b) which provided for definition of “original container in which such distilled spirits were withdrawn from bonded premises” in the case of distilled spiritswithdrawn by pipeline. Former subsec. (c) redesignated (b).
+Subsec. (b). Pub. L. 91–659, §2(c)(2), (3), repealed subsec. (b) which provided for definition of “original container in which such distilled spirits were withdrawn from bonded premises” in the case of distilled spirits withdrawn by pipeline. Former subsec. (c) redesignated (b).
 
 1965—Subsec. (a). Pub. L. 89–44 inserted reference to destruction to redistillation, denaturation, and mingling in second sentence on list of options which might be used in disposing of returned distilled spirits.
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days after Nov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
+Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days afterNov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
 
 #### Effective Date of 1971 Amendment
 

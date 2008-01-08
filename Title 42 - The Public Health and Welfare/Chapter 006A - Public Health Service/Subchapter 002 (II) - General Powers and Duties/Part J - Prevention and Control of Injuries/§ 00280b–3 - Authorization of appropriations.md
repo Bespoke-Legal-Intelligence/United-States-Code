@@ -6,7 +6,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 #### Prior Provisions
 
-A prior section 280b–3, act July 1, 1944, ch. 373, title III, §393, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1060; amended Mar. 13, 1970, Pub. L. 91–212, §§2(a), 3, 10(d)(2), 84 Stat. 63, 64, 67, related to grants for construction of medical library facilities, prior to repeal by Pub. L. 93–353, title II, §202(d), July 23, 1974, 88 Stat. 372.
+A prior section 280b–3, act July 1, 1944, ch. 373, title III, §393, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79Stat. 1060; amended Mar. 13, 1970, Pub. L. 91–212, §§2(a), 3, 10(d)(2), 84 Stat. 63, 64, 67, related to grants for construction of medical library facilities, prior to repeal by Pub. L. 93–353, title II, §202(d), July 23, 1974, 88 Stat. 372.
 
 #### Amendments
 

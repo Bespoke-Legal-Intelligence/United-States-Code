@@ -42,7 +42,7 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;(7) United States bilateral assistance shall recognize that the prosperity of developing countries and effective development efforts require the adoption of an overall strategy that promotes the development, production, and efficient utilization of energy and, therefore, consideration shall be given to the full implications of such assistance on the price, availability, and consumption of energy in recipient countries.
 
-&emsp;(8) United States cooperation in development should be carried out to the maximum extent possible through the private sector, including those institutions which already have ties in the developing areas, such as educational institutions, cooperatives, credit unions, free labor unions, and private and voluntary agencies.
+&emsp;(8) United States cooperation in development should be carried out to the maximum extent possible through the private sector, including those institutions which already have ties in the developing areas, such as educational institutions, cooperatives, creditunions, free labor unions, and private and voluntary agencies.
 
 &emsp;(9) To the maximum extent practicable, United States private investment should be encouraged in economic and social development programs to which the United States lends support.
 

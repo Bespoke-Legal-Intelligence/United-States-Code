@@ -18,5 +18,5 @@ Pub. L. 105–277, div. G, subdiv. B, title XXV, §2503(d), Oct. 21, 1998, 112 S
 
 #### Termination of United States Membership in Bureau of Interparliamentary Union
 
-Pub. L. 105–277, div. G, subdiv. B, title XXV, §2503(a), Oct. 21, 1998, 112 Stat. 2681–836, provided that: “Unless the Secretary of State certifies to Congress that the United States will be assessed not more than $500,000 for its annual contribution to the Bureau of the Interparliamentary Union during fiscal year 1999, then effective October 1, 1999, the authority for further participation by the United States in the Bureau shall terminate in accordance with subsection (d) \[set out above\].” \[The Secretary of State did not make the required certification.\]
+Pub. L. 105–277, div. G, subdiv. B, title XXV, §2503(a), Oct. 21, 1998, 112 Stat. 2681–836, provided that: “Unlessthe Secretary of State certifies to Congress that the United States will be assessed not more than $500,000 for its annual contribution to the Bureau of the Interparliamentary Union during fiscal year 1999, then effective October 1, 1999, the authority for further participation by the United States in the Bureau shall terminate in accordance with subsection (d) \[set out above\].” \[The Secretary of State did not make the required certification.\]
 

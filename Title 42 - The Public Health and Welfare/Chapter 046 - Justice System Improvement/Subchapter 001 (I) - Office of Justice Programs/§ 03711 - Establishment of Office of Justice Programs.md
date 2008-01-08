@@ -30,7 +30,7 @@ Pub. L. 108–414, §1, Oct. 30, 2004, 118 Stat. 2327, provided that: “This Ac
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–182, §1, Dec. 15, 2003, 117 Stat. 2649, provided that: “This Act \[amending section 3796 of thistitle\] may be cited as the ‘Hometown Heroes Survivors Benefits Act of 2003’.”
+Pub. L. 108–182, §1, Dec. 15, 2003, 117 Stat. 2649, provided that: “This Act \[amending section 3796 of this title\] may be cited as the ‘Hometown Heroes Survivors Benefits Act of 2003’.”
 
 #### Short Title of 2002 Amendments
 
@@ -88,7 +88,7 @@ Section 1 of Pub. L. 96–157 provided: “That this Act \[enacting this chapter
 
 #### Short Title of 1976 Amendments
 
-Pub. L. 94–503, §1, Oct. 15, 1976, 90 Stat. 2407, provided: “That this Act \[enacting sections 3726 and 3739 of this title, amending this section, sections 3701, 3721, 3723, 3724, 3725, 3731, 3732, 3733, 3734, 3736, 3737, 3738, 3742, 3750b, 3750d, 3751, 3755, 3757, 3763, 3766, 3767, 3768, 3769, 3781, 5633, 5635, and 5671 of this title, and sections 5108, 5315, and 5316 of Title 5, Government Organization and Employees, repealing section 3760 of this title, and enactingprovisions set out as notes under sections 501, 509, and 532 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Crime Control Act of 1976’.”
+Pub. L. 94–503, §1, Oct. 15, 1976, 90 Stat. 2407, provided: “That this Act \[enacting sections 3726 and 3739 of this title, amending this section, sections 3701, 3721, 3723, 3724, 3725, 3731, 3732, 3733, 3734, 3736, 3737, 3738, 3742, 3750b, 3750d, 3751, 3755, 3757, 3763, 3766, 3767, 3768, 3769, 3781, 5633, 5635, and 5671 of this title, and sections 5108, 5315, and 5316 of Title 5, Government Organization and Employees, repealing section 3760 of this title, and enacting provisions set out as notes under sections 501, 509, and 532 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Crime Control Act of 1976’.”
 
 Pub. L. 94–430, §1, Sept. 29, 1976, 90 Stat. 1346, provided: “That this Act \[enacting sections 3796 to 3796c of this title, amending section 3768 of this title, and enacting provisions set out as notes under section 3796 of this title\] may be cited as the ‘Public Safety Officers’ Benefits Act of 1976’.”
 

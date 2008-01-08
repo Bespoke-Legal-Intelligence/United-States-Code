@@ -14,7 +14,7 @@ Notwithstanding any other provision of this chapter, the Secretary may not deny 
 
 &emsp;(4) the State proposes to carry out or carries out a State procedure through which the persons responsible for selecting eligible providers for purposes of subchapter II of this chapter are permitted to determine that a provider shall not be selected to provide both intake services under section 2864(d)(2) of this title and training services under section 2864(d)(4) of this title, under prior consistent State laws;
 
-&emsp;(5) the State proposes to designate or designates a State board, or proposes to assign or assigns functions and roles of the State board (including determining the time periods for development and submission of a State planrequired under section 2822 of this title), for purposes of subchapter II of this chapter in accordance with prior consistent State laws; or
+&emsp;(5) the State proposes to designate or designates a State board, or proposes to assign or assigns functions and roles of the State board (including determining the time periods for development and submission of a State plan required under section 2822 of this title), for purposes of subchapter II of this chapter in accordance with prior consistent State laws; or
 
 &emsp;(6) a local board in the State proposes to use or carry out, uses, or carries out a local plan (including assigning functions and roles of the local board) for purposes of subchapter II of this chapter in accordance with the authorities and requirements applicable to local plans and private industry councils under prior consistent State laws.
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) which would have been distributed with respect to the stock which such shareholder owns (within the meaning of section 958(a)) in such corporation if on the last day, in its taxable year, on which the corporation is a controlled foreign corporation it had distributed pro rata to its shareholders an amount (i) which bears the same ratio to its subpart F income for the taxable year, as (ii) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year, reduced by
 
-&emsp;&emsp;(B) the amount of distributions received by any other person during such year as a dividend with respect to such stock, but only to the extent of the dividend which wouldhave been received if the distribution by the corporation had been the amount (i) which bears the same ratio to the subpart F income of such corporation for the taxable year, as (ii) the part of such year during which such shareholder did not own (within the meaning of section 958(a)) such stock bears to the entire year.
+&emsp;&emsp;(B) the amount of distributions received by any other person during such year as a dividend with respect to such stock, but only to the extent of the dividend which would have been received if the distribution by the corporation had been the amount (i) which bears the same ratio to the subpart F income of such corporation for the taxable year, as (ii) the part of such year during which such shareholder did not own (within the meaning of section 958(a)) such stock bears to the entire year.
 
 > &emsp;For purposes of subparagraph (B), any gain included in the gross income of any person as a dividend under section 1248 shall be treated as a distribution received by such person with respect to the stock involved.
 
@@ -38,29 +38,27 @@
 
 For purposes of this subpart, the term “United States shareholder” means, with respect to any foreign corporation, a United States person (as defined in section 957(c)) who owns (within the meaning of section 958(a)), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation.
 
-#### (c) Foreign trade income not taken into account
-
-#### (1) In general
-
-&emsp;The foreign trade income of a FSC and any deductions which are apportioned or allocated to such income shall not be taken into account under this subpart.
-
-#### (2) Foreign trade income
-
-&emsp;For purposes of this subsection, the term “foreign trade income” has the meaning given such term by section 923(b),<sup>1</sup> but does not include section 923(a)(2) <sup>1</sup> non-exempt income (within the meaning of section 927(d)(6)).<sup>1</sup>
-
-#### (d) Coordination with passive foreign investment company provisions
+#### (c) Coordination with passive foreign investment company provisions
 
 If, but for this subsection, an amount would be included in the gross income of a United States shareholder for any taxable year both under subsection (a)(1)(A)(i) and under section 1293 (relating to current taxation of income from certain passive foreign investment companies), such amount shall be included in the gross income of such shareholder only under subsection (a)(1)(A).
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1006; amended Pub. L. 94–12, title VI, §602(a)(3)(B), (c)(3), (4), (d)(2), Mar. 29, 1975, 89 Stat. 58, 62; Pub. L. 94–455, title XIX, §1901(a)(119), Oct. 4, 1976, 90 Stat. 1784; Pub. L. 98–369, div. A, title I, §132(c)(1), title VIII, §801(d)(4), July 18, 1984, 98 Stat. 666, 996; Pub. L. 99–514, title XII, §1235(c), title XVIII, §1876(c)(2), Oct. 22, 1986, 100 Stat. 2574, 2898; Pub. L. 100–647, title I, §1012(i)(15), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 103–66, title XIII, §§13231(a), 13232(c), Aug. 10, 1993, 107 Stat. 495, 502; Pub. L. 104–188, title I, §1501(a)(1), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1112(a)(1), Aug. 5, 1997, 111 Stat. 969; Pub. L. 108–357, title IV, §413(c)(16), Oct. 22, 2004, 118 Stat. 1508.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1006; amended Pub. L. 94–12, title VI, §602(a)(3)(B), (c)(3), (4), (d)(2), Mar. 29, 1975, 89 Stat. 58, 62; Pub. L. 94–455, title XIX, §1901(a)(119), Oct. 4, 1976, 90 Stat. 1784; Pub. L. 98–369, div. A, title I, §132(c)(1), title VIII, §801(d)(4), July 18, 1984, 98 Stat. 666, 996; Pub. L. 99–514, title XII, §1235(c), title XVIII, §1876(c)(2),Oct. 22, 1986, 100 Stat. 2574, 2898; Pub. L. 100–647, title I, §1012(i)(15), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 103–66, title XIII, §§13231(a), 13232(c), Aug. 10, 1993, 107 Stat. 495, 502; Pub. L. 104–188, title I, §1501(a)(1), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1112(a)(1), Aug. 5, 1997, 111 Stat. 969; Pub. L. 108–357, title IV, §413(c)(16), Oct. 22, 2004, 118 Stat. 1508; Pub. L. 110–172, §11(g)(13), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### References in Text
 
 The Tax Reduction Act of 1975, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, as amended, which was enacted Mar. 29, 1975. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 1 of this title and Tables.
 
-Sections 923 and 927, referred to in subsec. (c)(2), were repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
-
 #### Amendments
+
+2007—Subsecs. (c), (d). Pub. L. 110–172 redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows:
+
+“(1)
+
+In general.—The foreign trade income of a FSC and any deductions which are apportioned or allocated to such income shall not be taken into account under this subpart.
+
+“(2)
+
+Foreign trade income.—For purposes of this subsection, the term ‘foreign trade income’ has the meaning given such term by section 923(b), but does not include section 923(a)(2) non-exempt income (within the meaning of section 927(d)(6)).”
 
 2004—Subsecs. (c) to (f). Pub. L. 108–357 redesignated subsecs. (e) and (f) as (c) and (d), respectively, and struck out former subsecs. (c) and (d), which related to coordination of provisions with election of a foreign investment company to distribute income and coordination with foreign personal holding company provisions, respectively.
 
@@ -80,7 +78,7 @@ Subsec. (a)(4). Pub. L. 103–66, §13232(c)(2), struck out heading and text of 
 
 Subsec. (f). Pub. L. 99–514, §1235(c), added subsec. (f).
 
-1984—Subsec. (d). Pub. L. 98–369, §132(c)(1), amended subsec. (d) generally, substituting provision that, if aUnited States shareholder is required to include in gross income an amount under both subsec. (a)(1)(A)(ii) of this section and section 551(b) of this title, such amount be included only under subsec. (a)(1)(A)(ii) of this section for provision that, if a United States shareholder is subject to tax under section 551(b) of this title, such shareholder not be required to include as gross income any amount under subsec. (a) of this section.
+1984—Subsec. (d). Pub. L. 98–369, §132(c)(1), amended subsec. (d) generally, substituting provision that, if a United States shareholder is required to include in gross income an amount under both subsec. (a)(1)(A)(ii) of this section and section 551(b) of this title, such amount be included only under subsec. (a)(1)(A)(ii) of this section for provision that, if a United States shareholder is subject to tax under section 551(b) of this title, such shareholder not be required to include as gross income any amount under subsec. (a) of this section.
 
 Subsec. (e). Pub. L. 98–369, §801(d)(4), added subsec. (e).
 
@@ -139,6 +137,4 @@ Section 12(c) of Pub. L. 87–834 provided that: “The amendments made by this 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -106,7 +106,7 @@ Notwithstanding any other provision of law, to further assist developing countri
 
 &emsp;&emsp;&emsp;(v) marketing crop yields to prospective purchasers (including businesses and individuals) for local needs and export; and
 
-&emsp;&emsp;(D) programs that promote the exchange of agricultural knowledge and expertise through the exchange of American and foreign agricultural producers have been effective in promoting improved agricultural techniques and food security and the extension of additional resources to such farmer-to-farmer exchanges is warranted.
+&emsp;&emsp;(D) programs that promote the exchange of agricultural knowledge and expertise through the exchange of American and foreign agricultural producers have been effective in promoting improved agriculturaltechniques and food security and the extension of additional resources to such farmer-to-farmer exchanges is warranted.
 
 #### (2) Goals for programs carried out in sub-Saharan African and Caribbean Basin countries
 

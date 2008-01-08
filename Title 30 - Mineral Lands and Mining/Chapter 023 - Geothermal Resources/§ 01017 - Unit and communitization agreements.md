@@ -38,7 +38,7 @@ The Secretary may require that any unit agreement authorized by this section tha
 
 #### (d) Exclusion from determination of holding or control
 
-Any land that is subject to a unit agreement approved or prescribed by the Secretary under this section shall not be considered in determining holdings or control under section 1006 of this title.
+Any land that is subject to a unit agreement approved or prescribed by the Secretary underthis section shall not be considered in determining holdings or control under section 1006 of this title.
 
 #### (e) Pooling of certain land
 

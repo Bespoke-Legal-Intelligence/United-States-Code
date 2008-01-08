@@ -4,7 +4,7 @@
 
 #### (1) Parallel terms, conditions, benefits, and amounts
 
-&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall have the same terms, conditions, and benefits, and be available in the same amounts, as loansmade to borrowers under sections 1078, 1078–2, 1078–3, and 1078–8 of this title.
+&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall have the same terms, conditions, and benefits, and be available in the same amounts, as loans made to borrowers under sections 1078, 1078–2, 1078–3, and 1078–8 of this title.
 
 #### (2) Designation of loans
 
@@ -174,11 +174,25 @@
 
 #### (C) Consolidation loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaidprincipal balance of the loan that is equal to the lesser of—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
 
-&emsp;&emsp;&emsp;(i) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent; or
+&emsp;&emsp;&emsp;(i) the weighted average of the interest rates on the loans consolidated, rounded tothe nearest higher one-eighth of one percent; or
 
 &emsp;&emsp;&emsp;(ii) 8.25 percent.
+
+#### (D) Reduced rates for undergraduate FDSL
+
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection and subparagraph (A) of this paragraph, for Federal Direct Stafford Loans made to undergraduate students for which the first disbursement is made on or after July 1, 2006, and before July 1, 2012, the applicable rate of interest shall be as follows:
+
+&emsp;&emsp;&emsp;(i) For a loan for which the first disbursement is made on or after July 1, 2006, and before July 1, 2008, 6.8 percent on the unpaid principal balance of the loan.
+
+&emsp;&emsp;&emsp;(ii) For a loan for which the first disbursement is made on or after July 1, 2008, and before July 1, 2009, 6.0 percent on the unpaid principal balance of the loan.
+
+&emsp;&emsp;&emsp;(iii) For a loan for which the first disbursement is made on or after July 1, 2009, and before July 1, 2010, 5.6 percent on the unpaid principal balance of the loan.
+
+&emsp;&emsp;&emsp;(iv) For a loan for which the first disbursement is made on or after July 1, 2010, and before July 1, 2011, 4.5 percent on the unpaid principal balance of the loan.
+
+&emsp;&emsp;&emsp;(v) For a loan for which the first disbursement is made on or after July 1, 2011, and before July 1, 2012, 3.4 percent on the unpaid principal balance of the loan.
 
 #### (8) Repayment incentives
 
@@ -238,7 +252,7 @@
 
 #### (4) Alternative repayment plans
 
-&emsp;The Secretary may provide, on a case by case basis, an alternative repayment plan to a borrower of a loan made under this part who demonstrates to the satisfaction of the Secretary that the terms and conditions of the repayment plans available under paragraph (1) are not adequate to accommodate the borrower's exceptional circumstances. In designingsuch alternative repayment plans, the Secretary shall ensure that such plans do not exceed the cost to the Federal Government, as determined on the basis of the present value of future payments by such borrowers, of loans made using the plans available under paragraph (1).
+&emsp;The Secretary may provide, on a case by case basis, an alternative repayment plan to a borrower of a loan made under this part who demonstrates to the satisfaction of the Secretary that the terms and conditions of the repayment plans available under paragraph (1) are not adequate to accommodate the borrower's exceptional circumstances. In designing such alternative repayment plans, the Secretary shall ensure that such plans do not exceed the cost to the Federal Government, as determined on the basis of the present value of future payments by such borrowers, of loans made using the plans available under paragraph (1).
 
 #### (5) Repayment after default
 
@@ -278,6 +292,22 @@
 
 &emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
 
+#### (7) Maximum repayment period
+
+&emsp;In calculating the extended period of time for which an income contingent repayment plan under this subsection may be in effect for a borrower, the Secretary shall include all time periods during which a borrower of loans under part B, part C, or part D—
+
+&emsp;&emsp;(A) is not in default on any loan that is included in the income contingent repayment plan; and
+
+&emsp;&emsp;(B)(i) is in deferment due to an economic hardship described in section 1085(<i>o</i>) of this title;
+
+&emsp;&emsp;(ii) makes monthly payments under paragraph (1) or (6) of section 1098e(b) of this title;
+
+&emsp;&emsp;(iii) makes monthly payments of not less than the monthly amount calculated under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A), based on a 10-year repayment period, when the borrower first made the election described in section 1098e(b)(1) of this title;
+
+&emsp;&emsp;(iv) makes payments of not less than the payments required under a standard repayment plan under section 1078(b)(9)(A)(i) of this title or subsection (d)(1)(A) with a repayment period of 10 years; or
+
+&emsp;&emsp;(v) makes payments under an income contingent repayment plan under subsection (d)(1)(D).
+
 #### (f) Deferment
 
 #### (1) Effect on principal and interest
@@ -306,11 +336,13 @@
 
 &emsp;&emsp;(B) not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
 
-&emsp;&emsp;(C) not in excess of 3 years during which the borrower—
+&emsp;&emsp;(C) during which the borrower—
 
 &emsp;&emsp;&emsp;(i) is serving on active duty during a war or other military operation or national emergency; or
 
-&emsp;&emsp;&emsp;(ii) is performing qualifying National Guard duty during a war or other military operation or national emergency; or
+&emsp;&emsp;&emsp;(ii) is performing qualifying National Guard duty during a war or other military operation or national emergency,
+
+> &emsp;&emsp;and for the 180-day period following the demobilization date for the service described in clause (i) or (ii); or
 
 &emsp;&emsp;(D) not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085(<i>o</i>) of this title, that the borrower has experienced or will experience an economic hardship.
 
@@ -368,15 +400,67 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (2) Forbearance
 
-&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessation of all payments on the loan other than thepayments of interest on the loan that are made under that paragraph.
+&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessation of all payments on the loan other than the payments of interest on the loan that are made under that paragraph.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164.)
+#### (m) Repayment plan for public service employees
+
+#### (1) In general
+
+&emsp;The Secretary shall cancel the balance of interest and principal due, in accordance with paragraph (2), on any eligible Federal Direct Loan not in default for a borrower who—
+
+&emsp;&emsp;(A) has made 120 monthly payments on the eligible Federal Direct Loan after October 1, 2007, pursuant to any one or a combination of the following—
+
+&emsp;&emsp;&emsp;(i) payments under an income-based repayment plan under section 1098e of this title;
+
+&emsp;&emsp;&emsp;(ii) payments under a standard repayment plan under subsection (d)(1)(A), based on a 10-year repayment period;
+
+&emsp;&emsp;&emsp;(iii) monthly payments under a repayment plan under subsection (d)(1) or (g) of not less than the monthly amount calculated under subsection (d)(1)(A), based on a 10-year repayment period; or
+
+&emsp;&emsp;&emsp;(iv) payments under an income contingent repayment plan under subsection (d)(1)(D); and
+
+&emsp;&emsp;(B)(i) is employed in a public service job at the time of such forgiveness; and
+
+&emsp;&emsp;(ii) has been employed in a public service job during the period in which the borrower makes each of the 120 payments described in subparagraph (A).
+
+#### (2) Loan cancellation amount
+
+&emsp;After the conclusion of the employment period described in paragraph (1), the Secretary shall cancel the obligation to repay the balance of principal and interest due as of the time of such cancellation, on the eligible Federal Direct Loans made to the borrower under this part.
+
+#### (3) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Eligible Federal Direct Loan
+
+&emsp;&emsp;The term “eligible Federal Direct Loan” means a Federal Direct Stafford Loan, Federal Direct PLUS Loan, or Federal Direct Unsubsidized Stafford Loan, or a Federal Direct Consolidation Loan.
+
+#### (B) Public service job
+
+&emsp;&emsp;The term “public service job” means—
+
+&emsp;&emsp;&emsp;(i) a full-time job in emergency management, government, military service, public safety, law enforcement, public health, public education (including early childhood education), social work in a public child or family service agency, public interest law services (including prosecution or public defense or legal advocacy in low-income communities at a nonprofit organization), public child care, public service for individuals with disabilities, public service for the elderly, public library sciences, school-based library sciences and other school-based services, or at an organization that is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title; or
+
+&emsp;&emsp;&emsp;(ii) teaching as a full-time faculty member at a Tribal College or University as defined in section 1059c(b) of this title and other faculty teaching in high-needs areas, as determined by the Secretary.
+
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21,2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800.)
+
+#### Amendment of Subsection (d)(1)(D)
+
+<i>Pub. L. 110–84, §203(b)(3), (c)(1), Sept. 27, 2007, 121 Stat. 795, provided that, effective July 1, 2009, subsection (d)(1)(D) of this section is amended by inserting “made on behalf of a dependent student” after “PLUS loan”.</i>
 
 #### References in Text
 
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+
+2007—Subsec. (b)(7)(D). Pub. L. 110–84, §201(b), added subpar. (D).
+
+Subsec. (e)(7). Pub. L. 110–84, §205, added par. (7).
+
+Subsec. (f)(2)(C). Pub. L. 110–84, §202(b), struck out “not in excess of 3 years” before “during” in introductory provisions, substituted comma for “; or” at end of cl. (ii), and inserted concluding provisions.
+
+Subsec. (m). Pub. L. 110–84, §401, added subsec. (m).
 
 2006—Subsec. (a)(1). Pub. L. 109–171, §8009(d)(1), inserted “1078–3,” after “1078–2,”.
 
@@ -436,11 +520,19 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted “Federal 
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by sections 201(b), 202(b), 205, and 401 of Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as a note under section 1070a of this title.
+
+Amendment by section 203(b)(3) of Pub. L. 110–84 effective July 1, 2009, see section 203(c)(1) of Pub. L. 110–84, set out as a note under section 1078–3 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
-Amendment by section 8007(b) of Pub. L. 109–171 applicable with respect to loans for which the first disbursement is made on or after July 1, 2001, see section 8007(f) of Pub. L. 109–171, set out as a note under section 1078 of this title.
+Amendment by section 8007(b) of Pub. L. 109–171 applicable with respect to all loans under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.), see section 8007(f) of Pub. L. 109–171, set out as a note under section 1078 of this title.
 
 #### Effective Date of 2002 Amendment
 

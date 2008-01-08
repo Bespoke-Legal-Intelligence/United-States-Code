@@ -224,7 +224,7 @@ Pub. L. 103–411, §3(b), Oct. 25, 1994, 108 Stat. 4237, provided that:
 
 “(1)
 
-In general.—The Administrator of the Federal Aviation Administration may grant an exemption to any unit of Federal, State, or local government from any requirement of part A of subtitle VII of title 49, United States Code, that would otherwise be applicable to current or future aircraft of such unit of government as a result of the amendment made by subsection (a) of this section \[amending section 40102 of this title\].
+In general.—The Administrator of the Federal Aviation Administration may grant an exemption to any unit of Federal, State, or local government from any requirement of part A of subtitle VII of title 49,United States Code, that would otherwise be applicable to current or future aircraft of such unit of government as a result of the amendment made by subsection (a) of this section \[amending section 40102 of this title\].
 
 “(2)
 

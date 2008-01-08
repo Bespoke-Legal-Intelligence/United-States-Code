@@ -24,7 +24,7 @@ Eligibility for an annuity increase under this section shall be governed by the 
 
 &emsp;(2) Effective from its commencing date, an annuity payable from the fund to an annuitant's survivor (other than a child entitled to an annuity under section 2031(d) of this title) shall be increased by the total percentage increase the annuitant was receiving under this section at death.
 
-&emsp;(3) For purposes of computing the annuity of a child under section 2031(d) of this title that commences after October 31, 1969, the dollar amounts specified in section 2031(d)(3) of this title shall each be increased by the total percentage increases allowed and in force under this section on or after such day and, in the case of a deceased annuitant, the percentages specified in that section shall be increased bythe total percent allowed and in force to the annuitant under this section on or after such day.
+&emsp;(3) For purposes of computing the annuity of a child under section 2031(d) of this title that commences after October 31, 1969, the dollar amounts specified in section 2031(d)(3) of this title shall each be increased by the total percentage increases allowed and in force under this section on or after such day and, in the case of a deceased annuitant, the percentages specified in that section shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
 
 #### (c) Limitation
 
@@ -50,7 +50,7 @@ The monthly annuity installment, after adjustment under this section, shall be r
 
 #### (2) “Pay” defined
 
-&emsp;For purposes of paragraph (1), the term “pay” means the rate of salary or basic pay as payable under any provision of law, including any provision of law limiting the expenditure of appropriated funds.
+&emsp;For purposes of paragraph (1), the term “pay” means the rate of salary or basic pay as payable under any provision of law, includingany provision of law limiting the expenditure of appropriated funds.
 
 (Pub. L. 88–643, title II, §291, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3240; amended Pub. L. 103–178, title II, §202(a)(14), Dec. 3, 1993, 107 Stat. 2027.)
 

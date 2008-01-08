@@ -90,7 +90,7 @@ In this section:
 
 #### References in Text
 
-The Single Audit Act of 1984, referred to in subsec. (g), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act of 1984, referred to in subsec. (g), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under section 7501 of Title 31. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
 
 Section 334, referred to in subsec. (h)(1)(A), is section 334 of Pub. L. 105–220, which is set out as a note under section 2701 of this title. However, section 334 does not contain a subsec. (a)(2)(B) and does not define the term “poverty line”. “Poverty line” is defined for purposes of this chapter in section 2801 of this title.
 

@@ -4,5 +4,5 @@ Section, added Pub. L. 89–809, title I, §104(h)(4)(A), Nov. 13, 1966, 80 Stat
 
 #### Effective Date of Repeal
 
-Repeal effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which it relates, see section 403(nn) of Pub. L. 109–135, set out as an Effective Date of 2005 Amendment note under section 26 of this title.
+Repeal effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, towhich it relates, see section 403(nn) of Pub. L. 109–135, set out as an Effective Date of 2005 Amendment note under section 26 of this title.
 

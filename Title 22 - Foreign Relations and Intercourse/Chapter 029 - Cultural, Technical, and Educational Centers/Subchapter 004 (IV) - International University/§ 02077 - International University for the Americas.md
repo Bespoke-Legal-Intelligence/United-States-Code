@@ -14,7 +14,7 @@ The Secretary of State, in consultation with other governments in the Western He
 
 &emsp;&emsp;(A) has demonstrated a commitment to economic integration and democratic values though <sup>1</sup> its policies and programs; and
 
-&emsp;&emsp;(B) has expressed an interest in that location being chosen as a site and has agreed to contribute some amount of assistance, either in cash or kind, toward the costs of developing the institution.
+&emsp;&emsp;(B) has expressed an interest in that location being chosen as a site and has agreed tocontribute some amount of assistance, either in cash or kind, toward the costs of developing the institution.
 
 #### (c) Faculty, students, and curriculum
 

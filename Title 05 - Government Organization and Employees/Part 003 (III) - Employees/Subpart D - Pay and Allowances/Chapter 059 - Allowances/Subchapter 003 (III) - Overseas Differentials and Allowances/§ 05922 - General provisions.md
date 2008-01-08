@@ -24,7 +24,7 @@
 
 &emsp;(3) other related matters.
 
-(d) When a quarters allowance or allowance related to education under this subchapter, or quarters furnished in Government-owned or controlled buildings under section 5912, would be furnished to an employee but for the death ofthe employee, such allowances or quarters may be furnished or continued for the purpose of allowing any child of the employee to complete the current school year at post or away from post notwithstanding the employee's death.
+(d) When a quarters allowance or allowance related to education under this subchapter, or quarters furnished in Government-owned or controlled buildings under section 5912, would be furnished to an employee but for the death of the employee, such allowances or quarters may be furnished or continued for the purpose of allowing any child of the employee to complete the current school year at post or away from post notwithstanding the employee's death.
 
 (e) When an allowance related to education away from post under this subchapter would be authorized with respect to an employee but for the evacuation or authorized departure status of the post, such an allowance may be furnished or continued for the purpose of allowing any dependent children of such employee to complete the current school year.
 
@@ -82,5 +82,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Delegation of Functions
 
-Secretary of State empowered to prescribe regulations, see section 1(b) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of this title.
+Secretary of State empowered to prescribe regulations, see section 1(b) of Ex. Ord. No. 10903, Jan. 11, 1961,26 F.R. 217, set out as a note under section 5921 of this title.
 

@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall adjust the payment amount under subparagraph (A)(i) and the amount specified under subparagraph (B)(i), (B)(ii), and (B)(iii) for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, including adjustment for health status under paragraph (3), so as to ensureactuarial equivalence. The Secretary may add to, modify, or substitute for such adjustment factors if such changes will improve the determination of actuarial equivalence.
+&emsp;&emsp;&emsp;The Secretary shall adjust the payment amount under subparagraph (A)(i) and the amount specified under subparagraph (B)(i), (B)(ii), and (B)(iii) for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, including adjustment for health status under paragraph (3), so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such adjustment factors if such changes will improve the determination of actuarial equivalence.
 
 #### (ii) Application during phase-out of budget neutrality factor
 
@@ -86,7 +86,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount of payment under this subsection may be retroactively adjusted totake into account any difference between the actual number of individuals enrolled with an organization under this part and the number of such individuals estimated to be so enrolled in determining the amount of the advance payment.
+&emsp;&emsp;The amount of payment under this subsection may be retroactively adjusted to take into account any difference between the actual number of individuals enrolled with an organization under this part and the number of such individuals estimated to be so enrolled in determining the amount of the advance payment.
 
 #### (B) Special rule for certain enrollees
 
@@ -160,7 +160,7 @@
 
 #### (A) For 2005
 
-&emsp;&emsp;The Secretary shall determine, and shall announce (in a manner intended to providenotice to interested parties), not later than the second Monday in May of 2004, with respect to each MA payment area, the following:
+&emsp;&emsp;The Secretary shall determine, and shall announce (in a manner intended to provide notice to interested parties), not later than the second Monday in May of 2004, with respect to each MA payment area, the following:
 
 #### (i) MA capitation rates
 
@@ -304,7 +304,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In determining the area-specific Medicare+Choice capitation rate under subparagraph (A) for a year (beginningwith 1998), the annual per capita rate of payment for 1997 determined under section 1395mm(a)(1)(C) of this title shall be adjusted to exclude from the rate the applicable percent (specified in clause (ii)) of the payment adjustments described in subparagraph (C).
+&emsp;&emsp;&emsp;In determining the area-specific Medicare+Choice capitation rate under subparagraph (A) for a year (beginning with 1998), the annual per capita rate of payment for 1997 determined under section 1395mm(a)(1)(C) of this title shall be adjusted to exclude from the rate the applicable percent (specified in clause (ii)) of the payment adjustments described in subparagraph (C).
 
 #### (ii) Applicable percent
 
@@ -400,7 +400,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In this part, the “national per capita Medicare+Choice growth percentage” for a year is the percentage determined by the Secretary, by March 1st before the beginning of the year involved, to reflect the Secretary's estimate of the projected per capita rate of growth in expenditures under this subchapter for an individual entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, reduced by the number of percentage points specified in subparagraph (B) for the year. Separate determinations may be made for aged enrollees, disabled enrollees, and enrollees with end-stage renal disease.
+&emsp;&emsp;In this part, the “national per capita Medicare+Choice growth percentage” for ayear is the percentage determined by the Secretary, by March 1st before the beginning of the year involved, to reflect the Secretary's estimate of the projected per capita rate of growth in expenditures under this subchapter for an individual entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, reduced by the number of percentage points specified in subparagraph (B) for the year. Separate determinations may be made for aged enrollees, disabled enrollees, and enrollees with end-stage renal disease.
 
 #### (B) Adjustment
 
@@ -504,7 +504,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 &emsp;(1) election under this part of a Medicare+�Choice plan offered by a Medicare+Choice organization—
 
-&emsp;&emsp;(A) payment for such services until the date of the individual's discharge shall be made under this subchapter through theMedicare+Choice plan or the original medicare fee-for-service program option described in section 1395w–21(a)(1)(A) of this title (as the case may be) elected before the election with such organization,
+&emsp;&emsp;(A) payment for such services until the date of the individual's discharge shall be made under this subchapter through the Medicare+Choice plan or the original medicare fee-for-service program option described in section 1395w–21(a)(1)(A) of this title (as the case may be) elected before the election with such organization,
 
 &emsp;&emsp;(B) the elected organization shall not be financially responsible for payment for such services until the date after the date of the individual's discharge, and
 
@@ -808,7 +808,7 @@ Subsec. (c)(5). Pub. L. 106–554, §1(a)(6) \[title VI, §607(b)\], substituted
 
 Subsec. (c)(7). Pub. L. 106–554, §1(a)(6) \[title VI, §611(a)\], amended heading and text of par. (7) generally. Prior to amendment, text read as follows: “If the Secretary makes a determination with respect to coverage under this subchapter that the Secretary projects will result in a significant increase in the costs to Medicare+Choice of providing benefits under contracts under this part (for periods after any period described in section 1395w–22(a)(5) of this title), the Secretary shall adjust appropriately the payments to such organizations under this part.”
 
-Subsec. (i)(1). Pub. L. 106–554, §1(a)(6) \[title VI, §608(a)\], in introductory provisions, inserted “, or filednotice with the Secretary as of October 3, 2000, that they will not be offering such a plan as of January 1, 2001” after “January 1, 2000”.
+Subsec. (i)(1). Pub. L. 106–554, §1(a)(6) \[title VI, §608(a)\], in introductory provisions, inserted “, or filed notice with the Secretary as of October 3, 2000, that they will not be offering such a plan as of January 1, 2001” after “January 1, 2000”.
 
 1999—Subsec. (a)(1)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §512(1)\], substituted “subsections (e), (g), and (i) of this section” for “subsections (e) and (f) of this section”.
 
@@ -912,7 +912,7 @@ Announcement of Revised Medicare+Choice Payment Rates.—Within 2 weeks after th
 
 “(b)
 
-Reentry Into Program Permitted for Medicare+Choice Programs.—A Medicare+Choice organization that provided notice to the Secretary of Health and Human Services before the date of the enactment of this Act \[Dec. 21, 2000\] that it was terminating its contract under part C of title XVIII of the Social Security Act \[this part\] or was reducing the service area of a Medicare+Choice plan offered under such part shall be permitted to continue participation under such part, or to maintain the service area of such plan, for 2001 if it submits the Secretary with the information described in section 1854(a)(1) of the Social Security Act (42 U.S.C. 1395w–24(a)(1)) within 2 weeks after the date revised rates are announced by the Secretary under subsection (a).
+Reentry Into Program Permitted for Medicare+Choice Programs.—A Medicare+Choice organization that provided notice to the Secretary of Health and Human Services before the date of the enactment of this Act \[Dec. 21, 2000\] that it was terminating its contract under part C of title XVIII of the Social Security Act \[this part\] or was reducing the service area of a Medicare+Choice plan offered under such part shall be permitted to continue participation under such part, or to maintain the service area of such plan, for2001 if it submits the Secretary with the information described in section 1854(a)(1) of the Social Security Act (42 U.S.C. 1395w–24(a)(1)) within 2 weeks after the date revised rates are announced by the Secretary under subsection (a).
 
 “(c)
 
@@ -1070,7 +1070,7 @@ Medicare Payment Areas Covered by Project.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall designate, in accordance with the recommendations of the Competitive Pricing Advisory Committee under paragraphs (2) and (3), medicare payment areas as areas in which the project under this subchapter will be conducted. In this section, the term ‘Competitive Pricing Advisory Committee’ means the Competitive Pricing Advisory Committee established under section 4012(a).
+In general.—The Secretary shall designate, in accordance with the recommendations of the Competitive Pricing Advisory Committee under paragraphs (2) and (3), medicare payment areas as areas inwhich the project under this subchapter will be conducted. In this section, the term ‘Competitive Pricing Advisory Committee’ means the Competitive Pricing Advisory Committee established under section 4012(a).
 
 &emsp;“(2)
 
@@ -1174,7 +1174,7 @@ Appointment of Area Advisory Committee.—Upon the designation of an area for in
 
 “(c)
 
-Special application.—Notwithstanding section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.), the Competitive Pricing Advisory Commission and any area advisory committee (described in subsection (b)) may meet as soon as the members of the commission or committee, respectively, are appointed.”
+Special application.—Notwithstanding section 9(c) of the Federal Advisory Committee Act (5 U.S.C.App.), the Competitive Pricing Advisory Commission and any area advisory committee (described in subsection (b)) may meet as soon as the members of the commission or committee, respectively, are appointed.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “parts”.</i>
 

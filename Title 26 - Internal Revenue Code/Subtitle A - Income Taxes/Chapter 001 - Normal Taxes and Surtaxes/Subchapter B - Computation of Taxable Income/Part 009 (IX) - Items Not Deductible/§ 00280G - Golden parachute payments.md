@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) in the ownership of a substantial portion of the assets of the corporation, and
 
-&emsp;&emsp;&emsp;(ii) the aggregate present value of the payments in the nature of compensation to (or for the benefit of) such individual which are contingent on such change equals or exceeds an amount equal to 3 times the base amount.
+&emsp;&emsp;&emsp;(ii) the aggregate present value of the payments in the nature of compensation to (or for the benefit of) such individual which are contingent on such changeequals or exceeds an amount equal to 3 times the base amount.
 
 > &emsp;&emsp;For purposes of clause (ii), payments not treated as parachute payments under paragraph (4)(A), (5), or (6) shall not be taken into account.
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

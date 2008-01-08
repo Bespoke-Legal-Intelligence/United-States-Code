@@ -8,7 +8,7 @@ In this chapter, the following definitions apply:
 
 #### (2) Estuary
 
-&emsp;The term “estuary” means a part of a river or stream or other body of water that has an unimpaired connection with the open sea and where the sea water is measurably diluted with fresh water derived from land drainage. The term also includes near coastal waters and wetlands of the Great Lakes that are similar in form and function to estuaries, including the area located in the Great Lakes biogeographic region and designated as a National Estuarine Research Reserve under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) as of November 7, 2000.
+&emsp;The term “estuary” means a part of a river or stream or other body of water that has an unimpaired connection with the open sea and where the sea water is measurably diluted with fresh water derived from land drainage. The term also includes near coastal waters and wetlands of the Great Lakes that are similar in form and function to estuaries, including the area located in the Great Lakes biogeographic region and designated as a National Estuarine Research Reserve under theCoastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) as of November 7, 2000.
 
 #### (3) Estuary habitat
 
@@ -52,7 +52,7 @@ In this chapter, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;The term “estuary habitat restoration plan” means any Federal or State plan for restoration of degraded estuary habitat that was developed with the substantial participation of appropriate public and private stakeholders.
+&emsp;&emsp;The term “estuary habitat restoration plan” means any Federal, State, or regional plan for restoration of degraded estuary habitat that was developed with the substantial participation of appropriate public and private stakeholders.
 
 #### (B) Included plans and programs
 
@@ -82,9 +82,13 @@ In this chapter, the following definitions apply:
 
 &emsp;The term “State” means the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Illinois, Indiana, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Virginia, Washington, and Wisconsin, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, American Samoa, and Guam.
 
-(Pub. L. 106–457, title I, §103, Nov. 7, 2000, 114 Stat. 1958.)
+(Pub. L. 106–457, title I, §103, Nov. 7, 2000, 114 Stat. 1958; Pub. L. 110–114, title V, §5017(b), Nov. 8, 2007, 121 Stat. 1197.)
 
 #### References in Text
 
-The Coastal Zone Management Act of 1972, referred to in pars. (2) and (6)(B)(iii), is title III of Pub. L. 89–454 asadded by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in pars. (2) and (6)(B)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+
+#### Amendments
+
+2007—Par. (6)(A). Pub. L. 110–114 substituted “Federal, State, or regional” for “Federal or State”.
 

@@ -44,7 +44,7 @@ The import relief that the President is authorized to provide under this section
 
 &emsp;(2) the President determines that the affected industry has undertaken adjustment and requires an extension of the period of the import relief;
 
-> the President, after obtaining the advice of the International Trade Commission, may extend the period of the import relief for not more than 1 year, if the duty applied during the initial period of the relief is substantially reduced at the beginning of the extension period.
+> the President, after obtaining the advice of the International Trade Commission, may extendthe period of the import relief for not more than 1 year, if the duty applied during the initial period of the relief is substantially reduced at the beginning of the extension period.
 
 #### (e) Rate on Mexican articles after termination of import relief
 

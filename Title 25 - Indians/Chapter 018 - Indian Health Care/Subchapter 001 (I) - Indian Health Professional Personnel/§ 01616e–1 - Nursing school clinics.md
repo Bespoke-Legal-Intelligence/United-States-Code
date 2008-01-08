@@ -20,7 +20,7 @@ The Secretary may award grants under this section in such amounts and subject to
 
 #### (d) Design
 
-The clinics established under this section shall be designed to provide nursing students with astructured clinical experience that is similar in nature to that provided by residency training programs for physicians.
+The clinics established under this section shall be designed to provide nursing students with a structured clinical experience that is similar in nature to that provided by residency training programs for physicians.
 
 #### (e) Regulations
 

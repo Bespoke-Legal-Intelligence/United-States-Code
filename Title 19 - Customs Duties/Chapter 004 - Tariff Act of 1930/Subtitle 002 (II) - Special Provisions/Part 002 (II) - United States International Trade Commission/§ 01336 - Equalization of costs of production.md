@@ -16,7 +16,7 @@ Commencing thirty days after the date of any presidential proclamation of approv
 
 #### (e) Ascertainment of differences in costs of production
 
-In ascertaining under this section the differences in costs of production, the commission shall take into consideration, in so far as it finds it practicable:
+In ascertaining under this section the differences in costs of production, the commissionshall take into consideration, in so far as it finds it practicable:
 
 #### (1) In the case of a domestic article
 
@@ -70,7 +70,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 1979—Subsec. (b). Pub. L. 96–39, §202(a)(2)(A), struck out subsec. (b) which related to the setting of ad valorem rates based upon the American selling price of domestic articles as would be necessary to equalize differences in the costs of production.
 
-Subsec. (c). Pub. L. 96–39, §202(a)(2)(B), substituted “changes in classification specified in any report” for “changes in classification and in basis of value specified in any report”.
+Subsec. (c). Pub. L. 96–39, §202(a)(2)(B), substituted “changes in classification specified in any report” for“changes in classification and in basis of value specified in any report”.
 
 Subsec. (d). Pub. L. 96–39, §202(a)(2)(C), substituted “changes in classification specified in the report” for “changes in classification or in basis of value specified in the report”.
 

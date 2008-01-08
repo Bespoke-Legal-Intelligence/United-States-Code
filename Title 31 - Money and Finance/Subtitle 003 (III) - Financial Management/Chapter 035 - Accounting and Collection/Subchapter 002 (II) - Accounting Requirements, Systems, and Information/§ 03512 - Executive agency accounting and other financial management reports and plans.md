@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(ii) of Government corporations;
 
-&emsp;(D) a summary of reports on internal accounting and administrative control systems submitted to the President and the Congress under the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public Law 97–255);
+&emsp;(D) a summary of reports on internal accounting and administrative control systems submitted to the President and the Congressunder the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public Law 97–255);
 
 &emsp;(E) a listing of agencies whose financial management systems do not comply substantially with the requirements of Section <sup>1</sup> 3(a) <sup>2</sup> the Federal Financial Management Improvement Act of 1996, and a summary statement of the efforts underway to remedy the noncompliance; and
 
@@ -80,7 +80,7 @@
 
 &emsp;(C) revenues and expenditures applicable to agency operations are recorded and accounted for properly so that accounts and reliable financial and statistical reports may be prepared and accountability of the assets may be maintained.
 
-(2) Standards the Comptroller General prescribes under this subsection shall includestandards to ensure the prompt resolution of all audit findings.
+(2) Standards the Comptroller General prescribes under this subsection shall include standards to ensure the prompt resolution of all audit findings.
 
 (d)(1) In consultation with the Comptroller General, the Director of the Office of Management and Budget—
 
@@ -198,7 +198,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §113(b)(last sentence); added Sept. 8, 1
 
 In subsections (b)(1) and (c)(1)(A), the words “the requirements of” are omitted as surplus.
 
-In subsection (b)(1), before clause (A), the words “the head of” are added for consistency in the revised title and with other titles of the United States Code. Theword “provide” is omitted as surplus. In clause (B), the word “all” is substituted for “funds, property, and other” to eliminate unnecessary words.
+In subsection (b)(1), before clause (A), the words “the head of” are added for consistency in the revised title and with other titles of the United States Code. The word “provide” is omitted as surplus. In clause (B), the word “all” is substituted for “funds, property, and other” to eliminate unnecessary words.
 
 In subsection (c)(1)(A), the words “the head of each executive agency shall follow” are substituted for “agencies” for clarity and consistency in the revised title and with other titles of the Code.
 
@@ -232,7 +232,7 @@ Subsecs. (d) to (f). Pub. L. 97–452 redesignated former subsecs. (b) to (d) as
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Short Title
 

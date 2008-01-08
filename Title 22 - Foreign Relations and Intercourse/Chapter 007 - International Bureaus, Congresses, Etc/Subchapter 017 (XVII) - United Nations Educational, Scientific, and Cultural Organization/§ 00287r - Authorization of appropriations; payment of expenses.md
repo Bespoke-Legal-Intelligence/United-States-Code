@@ -16,7 +16,7 @@ The Subsistence Expenses Act of 1926, as amended, referred to in clause (b), was
 
 In clause (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In clauses (b) and (c), “section 5731 of title 5” and “section 5912 of title 5” substituted for “section 10 of the Act of March 3, 1933 (U.S.C., title 5, sec. 73b)” and“the Act approved June 26, 1930 (U.S.C., title 5, sec. 118a)”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+In clauses (b) and (c), “section 5731 of title 5” and “section 5912 of title 5” substituted for “section 10 of the Act of March 3, 1933 (U.S.C., title 5, sec. 73b)” and “the Act approved June 26, 1930 (U.S.C., title 5, sec. 118a)”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 In clause (k), “section 501 of title 44” substituted for “section 11 of the Act of March 1, 1919 (44 U.S.C. 111)” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, the first section of which enacted Title 44, Public Printing and Documents.
 

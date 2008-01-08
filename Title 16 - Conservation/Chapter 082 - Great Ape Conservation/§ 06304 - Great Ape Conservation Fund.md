@@ -50,7 +50,7 @@ There is established in the Multinational Species Conservation Fund a separate a
 
 #### (2) Adjustments
 
-&emsp;Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
+&emsp;Proper adjustment shall be made in amounts subsequently transferred to the extent priorestimates were in excess of or less than the amounts required to be transferred.
 
 #### (e) Acceptance and use of donations
 

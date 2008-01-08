@@ -94,7 +94,7 @@ The Director shall provide to the Advisory Council such staff, information, and 
 
 #### (j) Duration
 
-Notwithstanding section 14(a) of the Federal Advisory Committee Act, the Advisory Councilshall continue in existence until otherwise provided by law.
+Notwithstanding section 14(a) of the Federal Advisory Committee Act, the Advisory Council shall continue in existence until otherwise provided by law.
 
 (July 1, 1944, ch. 373, title IX, §931, formerly §921, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1663; amended Pub. L. 108–173, title IX, §900(e)(2)(D), Dec. 8, 2003, 117 Stat. 2372; renumbered §931, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424.)
 

@@ -12,7 +12,7 @@ Section 2572c, Pub. L. 87–415, title I, §105, as added Pub. L. 89–15, §4(a
 
 Section 2573, Pub. L. 87–415, title I, §106, formerly 103, Mar. 15, 1962, 76 Stat. 25; renumbered §106, Pub. L. 89–15, §4(a), Apr. 26, 1965, 79 Stat. 75; amended Pub. L. 90–636, §2, Oct. 24, 1968, 82 Stat. 1352, made provision for a labor market information and job matching program.
 
-Section 2574, Pub. L. 87–415, title I, §107, formerly 104, Mar. 15, 1962, 76 Stat. 25; renumbered §107, Pub. L. 89–15, §4(a), Apr. 26, 1965, 79 Stat. 75, directed Secretary of Labor to make reports to President and Congress pertaining to manpower requirements, resources, utilization, and training.
+Section 2574, Pub. L. 87–415, title I, §107, formerly 104, Mar. 15, 1962, 76 Stat. 25; renumbered §107, Pub. L. 89–15,§4(a), Apr. 26, 1965, 79 Stat. 75, directed Secretary of Labor to make reports to President and Congress pertaining to manpower requirements, resources, utilization, and training.
 
 #### Effective Date of Repeal
 

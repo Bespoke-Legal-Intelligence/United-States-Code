@@ -4,13 +4,9 @@
 
 (b) Omitted.
 
-(c) No employee of the Department of Labor or the Department of the Treasury shall administer or enforce this subchapter or the Internal Revenue Code of 1986 with respect to any employee benefit plan under which he is a participant or beneficiary, any employee organization of which he is a member, or any employer organization in which he has an interest. This subsection does not apply to an employee benefit plan which covers only employees of the United States.
+(c) No employee of the Department of Labor or the Department of the Treasury shall administer or enforce this subchapter or title 26 with respect to any employee benefit plan under which he is a participant or beneficiary, any employee organization of which he is a member, or any employer organization in which he has an interest. This subsection does not apply to an employee benefit plan which covers only employees of the United States.
 
 (Pub. L. 93–406, title I, §507, Sept. 2, 1974, 88 Stat. 894; Pub. L. 101–239, title VII, §7891(a), Dec. 19, 1989, 103 Stat. 2445.)
-
-#### References in Text
-
-The Internal Revenue Code of 1986, referred to in subsec. (c), is classified generally to Title 26, Internal Revenue Code.
 
 #### Codification
 
@@ -18,7 +14,7 @@ Subsec. (b) of this section amended section 5108 of Title 5, Government Organiza
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1989—Subsec. (c). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1989 Amendment
 

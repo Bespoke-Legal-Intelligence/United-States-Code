@@ -32,7 +32,7 @@ Any determination concerning the location of a chancery under subsection (b)(2) 
 
 &emsp;(1) The international obligation of the United States to facilitate the provision of adequate and secure facilities for foreign missions in the Nation's Capital.
 
-&emsp;(2) Historic preservation, as determined by the Board of Zoning Adjustment in carrying out this section; and in order to ensure compatibility with historic landmarks and districts, substantial compliance with District of Columbia and Federal regulations governing historic preservation shall be required with respect to new construction and to demolition of or alteration to historic landmarks.
+&emsp;(2) Historic preservation, as determined by the Board of Zoning Adjustment in carryingout this section; and in order to ensure compatibility with historic landmarks and districts, substantial compliance with District of Columbia and Federal regulations governing historic preservation shall be required with respect to new construction and to demolition of or alteration to historic landmarks.
 
 &emsp;(3) The adequacy of off-street or other parking and the extent to which the area will be served by public transportation to reduce parking requirements, subject to such special security requirements as may be determined by the Secretary, after consultation with Federal agencies authorized to perform protective services.
 
@@ -44,7 +44,7 @@ Any determination concerning the location of a chancery under subsection (b)(2) 
 
 #### (e) Consistency of regulations, proceedings, and other actions; review and comment by National Planning Commission
 
-(1) Regulations, proceedings, and other actions of the National Capital Planning Commission,the Zoning Commission for the District of Columbia, and the Board of Zoning Adjustment affecting the location, replacement, or expansion of chanceries shall be consistent with this section (including the criteria set out in subsection (d) of this section) and shall reflect the policy of this chapter.
+(1) Regulations, proceedings, and other actions of the National Capital Planning Commission, the Zoning Commission for the District of Columbia, and the Board of Zoning Adjustment affecting the location, replacement, or expansion of chanceries shall be consistent with this section (including the criteria set out in subsection (d) of this section) and shall reflect the policy of this chapter.
 
 (2) Proposed actions of the Zoning Commission concerning implementation of this section shall be referred to the National Capital Planning Commission for review and comment.
 

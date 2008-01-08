@@ -4,7 +4,7 @@
 
 (b)(1) The term “Leader's Representation Allowance” means the Representation Allowance Account for the Majority and Minority Leaders established by section 31a–2 of this title.
 
-(2) The term “Leader's Expense Allowance”, when used in reference to the Majority or Minority Leader of the Senate, refers to the moneys available, for any fiscal year, to such Leaderas an expense allowance and the appropriation account from which such moneys are funded.
+(2) The term “Leader's Expense Allowance”, when used in reference to the Majority or Minority Leader of the Senate, refers to the moneys available, for any fiscal year, to such Leader as an expense allowance and the appropriation account from which such moneys are funded.
 
 (Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 422.)
 

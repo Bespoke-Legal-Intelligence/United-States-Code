@@ -2,11 +2,11 @@
 
 #### (a) Apportionment
 
-The Secretary shall apportion the amount reserved under section 9903(b)(1) of this title foreach fiscal year on the basis of need among Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+The Secretary shall apportion the amount reserved under section 9903(b)(1) of this title for each fiscal year on the basis of need among Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
 #### (b) Application
 
-Each jurisdiction to which subsection (a) of this section applies may receive a grant under this section for the amount apportioned under subsection (a) of this section on submitting to the Secretary, and obtaining approval of, an application, containing provisions that describe the programs for which assistance is sought under this section, that is prepared in accordance with, and contains the information described in, section 9908 of this title.
+Each jurisdiction to which subsection (a) of this section applies may receive a grant underthis section for the amount apportioned under subsection (a) of this section on submitting to the Secretary, and obtaining approval of, an application, containing provisions that describe the programs for which assistance is sought under this section, that is prepared in accordance with, and contains the information described in, section 9908 of this title.
 
 (Pub. L. 97–35, title VI, §675A, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2730.)
 

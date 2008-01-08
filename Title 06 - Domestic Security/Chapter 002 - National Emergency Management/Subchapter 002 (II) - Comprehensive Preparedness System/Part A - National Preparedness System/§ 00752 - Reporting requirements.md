@@ -14,13 +14,25 @@
 
 &emsp;&emsp;(B) the results of the comprehensive assessment carried out under section 749 of this title;
 
-&emsp;&emsp;(C) a review of the inventory described in section 751(a) of this title; and
+&emsp;&emsp;(C) a review of the inventory described in section 751 of this title, including the number and type of credentialed personnel in each category of personnel trained and ready to respond to a natural disaster, act of terrorism, or other man-made disaster;
 
 &emsp;&emsp;(D) an assessment of resource needs to meet preparedness priorities established under section 746(e) of this title, including—
 
 &emsp;&emsp;&emsp;(i) an estimate of the amount of Federal, State, local, and tribal expenditures required to attain the preparedness priorities; and
 
-&emsp;&emsp;&emsp;(ii) the extent to which the use of Federal assistance during the preceding fiscal year achieved the preparedness priorities.
+&emsp;&emsp;&emsp;(ii) the extent to which the use of Federal assistance during the preceding fiscal year achieved the preparedness priorities;
+
+&emsp;&emsp;(E) an evaluation of the extent to which grants administered by the Department, including grants under title XX of the Homeland Security Act of 2002 \[6 U.S.C. 601 et seq.\]—
+
+&emsp;&emsp;&emsp;(i) have contributed to the progress of State, local, and tribal governments in achieving target capabilities; and
+
+&emsp;&emsp;&emsp;(ii) have led to the reduction of risk from natural disasters, acts of terrorism, or other man-made disasters nationally and in State, local, and tribal jurisdictions; and
+
+&emsp;&emsp;(F) a discussion of whether the list of credentialed personnel of the Agency described in section 751(b)(2) of this title—
+
+&emsp;&emsp;&emsp;(i) complies with the strategic human capital plan developed under section 10102 of title 5; and
+
+&emsp;&emsp;&emsp;(ii) is sufficient to respond to a natural disaster, act of terrorism, or other man-made disaster, including a catastrophic incident.
 
 #### (b) Catastrophic resource report
 
@@ -46,7 +58,7 @@
 
 &emsp;&emsp;(G) State, local, and tribal government catastrophic incident preparedness; and
 
-&emsp;&emsp;(H) covering increases in the fixed costs or expenses of the Agency, including rent or property acquisition costs or expenses, taxes, contributions to the working capital fund of the Department, and security costs for the year after the year in which such estimate is submitted.
+&emsp;&emsp;(H) covering increases in the fixed costs or expenses of the Agency, including rent or property acquisition costs or expenses, taxes, contributions to the working capital fund of the Department, and security costsfor the year after the year in which such estimate is submitted.
 
 #### (c) State preparedness report
 
@@ -62,11 +74,25 @@
 
 &emsp;&emsp;(B) an assessment of current capability levels and a description of target capability levels; and
 
-&emsp;&emsp;(C) an assessment of resource needs to meet the preparedness priorities established under section 746(e) of this title, including—
+&emsp;&emsp;(C) a discussion of the extent to which target capabilities identified in the applicable State homeland security plan and other applicable plans remain unmet and an assessment of resources needed to meet the preparedness priorities established under section 746(e) of this title, including—
 
 &emsp;&emsp;&emsp;(i) an estimate of the amount of expenditures required to attain the preparedness priorities; and
 
 &emsp;&emsp;&emsp;(ii) the extent to which the use of Federal assistance during the preceding fiscal year achieved the preparedness priorities.
 
-(Pub. L. 109–295, title VI, §652, Oct. 4, 2006, 120 Stat. 1429.)
+(Pub. L. 109–295, title VI, §652, Oct. 4, 2006, 120 Stat. 1429; Pub. L. 110–53, title I, §103, title IV, §406, Aug. 3, 2007, 121 Stat. 293, 304.)
+
+#### References in Text
+
+The Homeland Security Act of 2002, referred to in subsec. (a)(2)(E), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XX of the Act is classified generally to subchapter XV (§601 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+#### Amendments
+
+2007—Subsec. (a)(2)(C). Pub. L. 110–53, §406(1), substituted “section 751 of this title, including the number and type of credentialed personnel in each category of personnel trained and ready to respond to a natural disaster, act of terrorism, or other man-made disaster” for “section 751(a) of this title”.
+
+Subsec. (a)(2)(E). Pub. L. 110–53, §103(a), added subpar. (E).
+
+Subsec. (a)(2)(F). Pub. L. 110–53, §406(2)–(4), added subpar. (F).
+
+Subsec. (c)(2)(C). Pub. L. 110–53, §103(b), which directed amendment of subpar. (D) by substituting “a discussion of the extent to which target capabilities identified in the applicable State homeland security plan and other applicable plans remain unmet and an assessment of resources needed” for “an assessment of resource needs”, was executed by making the substitution in subpar. (C) to reflect the probable intent of Congress.
 

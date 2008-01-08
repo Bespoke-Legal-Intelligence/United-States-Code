@@ -34,7 +34,7 @@ For the purposes of this part—
 
 (1) The “allotment percentage” for any State shall be 100 per centum less that percentage which bears the same ratio to 50 per centum as the per capita income of such State bears to the per capita income of the United States, except that (A) the allotment percentage shall in no case be more than 75 per centum or less than 331/3 per centum, and (B) the allotment percentage for the Commonwealth of Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Virgin Islands shall be 75 per centum.
 
-(2) The allotment percentages shall be determined by the Surgeon General between July 1 and September 30 of each even-numbered year, on the basis of the average of the per capita incomes of each of the States and of the United States for the three most recent consecutive years for which satisfactory data are available from the Department of Commerce, and the States shall be notified promptly thereof. Such determination shall be conclusive for each of the two fiscal years in the period beginning July 1 next succeeding such determination.
+(2) The allotment percentages shall be determined by the Surgeon General between July 1 and September 30 of each even-numbered year, on the basis of the average of the per capita incomes of each of the States and of the United States for the three most recent consecutiveyears for which satisfactory data are available from the Department of Commerce, and the States shall be notified promptly thereof. Such determination shall be conclusive for each of the two fiscal years in the period beginning July 1 next succeeding such determination.
 
 (3) The population of the several States shall be determined on the basis of the latest figures certified by the Department of Commerce.
 
@@ -64,7 +64,7 @@ For the purposes of this part—
 
 #### (f) Request by State to transfer portion of allotment
 
-In accordance with regulations, any State may file with the Surgeon General a request that a specified portion of an allotment to it under this part for grants for construction of any type of facility, or for modernization of facilities, be added to the corresponding allotment of another State for the purpose of meeting a portion of the Federal share of the cost of a project for the construction of a facility of that type in such other State, or for modernization of a facility in such other State, as the case may be. If it is found by the Surgeon General (or, in the case of a rehabilitation facility, by the Surgeon General and the Secretary) that construction or modernization of the facility with respect to which the request is made would meet needs of the State making the request and that use of the specified portion of such State's allotment, as requested by it, would assist in carrying out thepurposes of this subchapter, such portion of such State's allotment shall be added to the corresponding allotment of the other State, to be used for the purpose referred to above.
+In accordance with regulations, any State may file with the Surgeon General a request that a specified portion of an allotment to it under this part for grants for construction of any type of facility, or for modernization of facilities, be added to the corresponding allotment of another State for the purpose of meeting a portion of the Federal share of the cost of a project for the construction of a facility of that type in such other State, or for modernization of a facility in such other State, as the case may be. If it is found by the Surgeon General (or, in the case of a rehabilitation facility, by the Surgeon General and the Secretary) that construction or modernization of the facility with respect to which the request is made would meet needs of the State making the request and that use of the specified portion of such State's allotment, as requested by it, would assist in carrying out the purposes of this subchapter, such portion of such State's allotment shall be added to the corresponding allotment of the other State, to be used for the purpose referred to above.
 
 (July 1, 1944, ch. 373, title VI, §602, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 448; amended Pub. L. 90–574, title IV, §402(b), Oct. 15, 1968, 82 Stat. 1011; Pub. L. 91–296, title I, §§103(a), (b), 104, 116(a), 119(a)–(c), 122, June 30, 1970, 84 Stat. 338, 341, 343, 344.)
 
@@ -126,7 +126,7 @@ Section 122 of Pub. L. 91–296 provided that the amendment made by that section
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855,80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -134,7 +134,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Availability of Funds for Obligation From Allotment for Administration of Plan
 
-Pub. L. 93–641, §5(b), Jan. 4, 1975, 88 Stat. 2274, provided that any State having in the fiscal year ending June 30, 1975 or the next fiscal year funds available for obligation from its allotments under section 291a et seq. of this title, may in such fiscal year use for the proper and efficient administration during such year of its State plan an amount of such funds not exceeding 4 percentum of such funds or $100,000, whichever is less.
+Pub. L. 93–641, §5(b), Jan. 4, 1975, 88 Stat. 2274, provided that any State having in the fiscal year endingJune 30, 1975 or the next fiscal year funds available for obligation from its allotments under section 291a et seq. of this title, may in such fiscal year use for the proper and efficient administration during such year of its State plan an amount of such funds not exceeding 4 percentum of such funds or $100,000, whichever is less.
 
 #### Allotment Study; Report to Congress
 

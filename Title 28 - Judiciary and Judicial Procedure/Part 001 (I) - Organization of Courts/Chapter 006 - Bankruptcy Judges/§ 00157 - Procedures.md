@@ -64,7 +64,7 @@
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1994 Amendment
 

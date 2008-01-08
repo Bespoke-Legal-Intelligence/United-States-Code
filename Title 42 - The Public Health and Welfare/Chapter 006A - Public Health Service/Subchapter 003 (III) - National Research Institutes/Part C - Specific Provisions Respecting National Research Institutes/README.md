@@ -11,7 +11,7 @@ Part C—Specific Provisions Respecting National Research Institutes
 - [Subpart 004 - National Institute of Arthritis and Musculoskeletal and Skin Diseases](Subpart%20004%20-%20National%20Institute%20of%20Arthritis%20and%20Musculoskeletal%20and%20Skin%20Diseases/README.md)
 - [Subpart 005 - National Institute on Aging](Subpart%20005%20-%20National%20Institute%20on%20Aging/README.md)
 - [Subpart 006 - National Institute of Allergy and Infectious Diseases](Subpart%20006%20-%20National%20Institute%20of%20Allergy%20and%20Infectious%20Diseases/README.md)
-- [Subpart 007 - National Institute of Child Health and Human Development](Subpart%20007%20-%20National%20Institute%20of%20Child%20Health%20and%20Human%20Development/README.md)
+- [Subpart 007 - Eunice Kennedy Shriver National Institute of Child Health and Human Development](Subpart%20007%20-%20Eunice%20Kennedy%20Shriver%20National%20Institute%20of%20Child%20Health%20and%20Human%20Development/README.md)
 - [Subpart 008 - National Institute of Dental Research](Subpart%20008%20-%20National%20Institute%20of%20Dental%20Research/README.md)
 - [Subpart 009 - National Eye Institute](Subpart%20009%20-%20National%20Eye%20Institute/README.md)
 - [Subpart 010 - National Institute of Neurological Disorders and Stroke](Subpart%20010%20-%20National%20Institute%20of%20Neurological%20Disorders%20and%20Stroke/README.md)

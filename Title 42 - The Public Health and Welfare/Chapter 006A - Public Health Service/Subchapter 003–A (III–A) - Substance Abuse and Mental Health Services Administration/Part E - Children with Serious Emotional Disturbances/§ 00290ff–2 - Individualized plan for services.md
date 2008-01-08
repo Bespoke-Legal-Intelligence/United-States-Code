@@ -16,7 +16,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that, wi
 
 &emsp;(2) ensure that the plan is consistent with such individualized education program and provides for coordinating services under the plan with services under such program; and
 
-&emsp;(3) ensure that the memorandum of understanding entered into under section 290ff–1(d)(3)(B) of this title regarding such Act \[20 U.S.C. 1400 et seq.\] includes provisions regarding compliance with this subsection.
+&emsp;(3) ensure that the memorandum of understanding entered into under section 290ff–1(d)(3)(B) of this title regarding such Act\[20 U.S.C. 1400 et seq.\] includes provisions regarding compliance with this subsection.
 
 #### (d) Contents of plan
 

@@ -98,7 +98,7 @@ Notwithstanding any other provision of law, Federal funds appropriated for the g
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each local school board, and any agency school board that serves as a local school board for any grant or contract school, shall ensure that each individual who is a new member of the school board receives, within 1 year after the individual becomes a member of the school board, 40 hours of training relevant to that individual's service on the board.
+&emsp;&emsp;&emsp;Each local school board, and any agency school board that serves as a local school board for any grant or contract school, shall ensure that each individual who is a new member of the school board receives, within 1 year after the individual becomes a member of the school board, 40 hours oftraining relevant to that individual's service on the board.
 
 #### (ii) Types of training
 

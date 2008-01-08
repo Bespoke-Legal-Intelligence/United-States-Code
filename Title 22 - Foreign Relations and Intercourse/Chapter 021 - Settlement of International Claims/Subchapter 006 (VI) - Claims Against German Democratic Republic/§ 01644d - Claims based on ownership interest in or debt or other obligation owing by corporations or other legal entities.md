@@ -10,7 +10,7 @@ A claim under section 1644b of this title based upon a direct ownership interest
 
 #### (c) Indirect ownership
 
-A claim under section 1644b of this title for losses based upon an indirect ownership interest in a corporation, association, or other entity, shall be considered, subject to the other provisions of this subchapter, only if at least 25 per centum of the entire ownership interest thereof, at the time of such loss, was vested in nationals of the United States.
+A claim under section 1644b of this title for losses based upon an indirect ownership interest in a corporation, association, or other entity,shall be considered, subject to the other provisions of this subchapter, only if at least 25 per centum of the entire ownership interest thereof, at the time of such loss, was vested in nationals of the United States.
 
 #### (d) Computation of award
 

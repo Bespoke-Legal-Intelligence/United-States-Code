@@ -1,6 +1,6 @@
 ### §10144. Ready Reserve: Individual Ready Reserve
 
-(a) Within the Ready Reserve of each of the reserve components there is an Individual Ready Reserve. The Individual Ready Reserve consists of those members of the Ready Reserve who are not in the Selected Reserve or the inactive National Guard.
+(a) Within the Ready Reserve of each of the reserve components there is an Individual Ready Reserve. The Individual Ready Reserve consists of those members of the Ready Reserve who arenot in the Selected Reserve or the inactive National Guard.
 
 (b)(1) Within the Individual Ready Reserve of each reserve component there is a category of members, as designated by the Secretary concerned, who are subject to being ordered to active duty involuntarily in accordance with section 12304 of this title. A member may not be placed in that mobilization category unless—
 

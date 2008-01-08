@@ -118,9 +118,11 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
 
-Pub. L. 109–289, div. A, title VIII, §8033, Sept. 29, 2006, 120 Stat. 1281, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 110–116, div. A, title VIII, §8035, Nov. 13, 2007, 121 Stat. 1322, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 109–289, div. A, title VIII, §8033, Sept. 29, 2006, 120 Stat. 1281.
 
 Pub. L. 109–148, div. A, title VIII, §8038, Dec. 30, 2005, 119 Stat. 2707.
 

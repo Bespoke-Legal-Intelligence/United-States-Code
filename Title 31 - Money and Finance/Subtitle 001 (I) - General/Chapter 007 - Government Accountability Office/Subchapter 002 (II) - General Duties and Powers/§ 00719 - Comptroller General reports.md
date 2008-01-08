@@ -162,7 +162,7 @@ In subsection (b)(2), the words “at any time” are omitted as surplus.
 
 In subsection (c), the word “agency” is substituted for “department or establishment” and “departments and establishments” because of section 701 of the revised title. In clause (1), the words “in any year” are omitted as surplus. In clause (2)(A), the word “audits” is substituted for “examination” for consistency. In clause (2)(B), the words “by an agency” are substituted for “departmental” because of the restatement. The word “officials” is substituted for “officers” for consistency.
 
-In subsection (d), before clause (1), the word “written” is omitted as surplus. In clause (1), the words “Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms” are substituted for “General Accounting Office, the Internal Revenue Service, and the Bureau of Alcohol, Tobacco, and Firearms” for consistency. In clauses (2) and (3), the words “or other examination or review” are omitted as surplus.
+In subsection (d), before clause (1), the word “written” is omitted as surplus. In clause (1), the words “Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms” are substituted for “GeneralAccounting Office, the Internal Revenue Service, and the Bureau of Alcohol, Tobacco, and Firearms” for consistency. In clauses (2) and (3), the words “or other examination or review” are omitted as surplus.
 
 In subsections (e) and (g), the words “Governmental Affairs . . . of the Senate” are substituted for “Government Operations . . . of the two Houses” in 31:60(last sentence) and “Government Operations of the . . . Senate” in 31:1172 because of Rule 25.1(k) of the Standing Rules of the Senate (S. Doc. 96–1, 96th Cong., 1st Sess.).
 
@@ -170,7 +170,7 @@ In subsection (e), the words “carried out under section 712(3) of this title�
 
 In subsection (f), the word “President” is substituted for “Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
-In subsection (g), before clause (1), the words “Comptroller General” are substituted for “General Accounting Office” in 31:1172 for consistency. In clause (3), the words “committee of Congress” are substituted for “other committee of the House or Senate, or any joint committee of the two Houses” for consistency and to eliminate unnecessary words. The words in the parentheses are included for consistency with section 101 of the revised title. The word “establishment” in 31:1157 isomitted as surplus. Clause (4) is substituted for 31:1173 to eliminate unnecessary words.
+In subsection (g), before clause (1), the words “Comptroller General” are substituted for “General Accounting Office” in 31:1172 for consistency. In clause (3), the words “committee of Congress” are substituted for “other committee of the House or Senate, or any joint committee of the two Houses” for consistency and to eliminate unnecessary words. The words in the parentheses are included for consistency with section 101 of the revised title. The word “establishment” in 31:1157 is omitted as surplus. Clause (4) is substituted for 31:1173 to eliminate unnecessary words.
 
 In subsection (h)(1), the words “once . . . calendar”, “of the General Accounting Office”, “immediately”, and “cumulative” are omitted as surplus.
 
@@ -200,7 +200,7 @@ Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were 
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Termination of Reporting Requirements
 

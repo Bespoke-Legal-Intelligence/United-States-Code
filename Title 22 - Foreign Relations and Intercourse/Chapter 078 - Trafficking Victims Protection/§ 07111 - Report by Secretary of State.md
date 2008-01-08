@@ -12,3 +12,7 @@ At least 15 days prior to voting for a new or reauthorized peacekeeping mission 
 
 Section was enacted as part of the Trafficking Victims Protection Reauthorization Act of 2005, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

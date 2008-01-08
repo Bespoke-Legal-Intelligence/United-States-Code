@@ -54,7 +54,7 @@ Subsec. (a)(6). Pub. L. 108–36, §201(1)(B), (D), redesignated par. (8) as (6)
 
 Subsec. (a)(7). Pub. L. 108–36, §201(1)(D), redesignated par. (9) as (7). Former par. (7) redesignated (5).
 
-Subsec. (a)(7)(A). Pub. L. 108–36, §201(1)(C), added subpar. (A) and struck out former subpar. (A) which readas follows: “currently, 40,000 children are free for adoption and awaiting placement;”.
+Subsec. (a)(7)(A). Pub. L. 108–36, §201(1)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “currently, 40,000 children are free for adoption and awaiting placement;”.
 
 Subsec. (a)(8) to (10). Pub. L. 108–36, §201(1)(D), redesignated pars. (8) to (10) as (6) to (8), respectively.
 
@@ -80,7 +80,7 @@ Subsec. (b). Pub. L. 104–235, §211(2), substituted “conditions, by providin
 
 1984—Pub. L. 98–457, §201(a), (b)(1), in provisions before par. (1), inserted “the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and that some such children are in need of placement in permanent, adoptive homes, that” and substituted “should not have medically indicated treatment withheld from them, nor be maintained in foster care” for “should not be maintained in foster care” and “children with special needs, including disabled infants with life-threatening conditions, by” for “children with special needs by”.
 
-Par. (2). Pub. L. 98–457, §201(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “providing a mechanism for the Department of Health and Human Services to (A) promote quality standards for adoption services (including pre-placement, post-placement, and post-adoption counseling and standards to protect the rights of children in need of adoption), and (B) provide for a national adoption and foster care information data gathering and analysis system and a national adoption information exchange system to bring together children who would benefit by adoption and qualified prospective adoptive parents who are seeking such children.”
+Par. (2). Pub. L. 98–457, §201(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “providing a mechanism for the Department of Health and Human Services to (A) promote quality standardsfor adoption services (including pre-placement, post-placement, and post-adoption counseling and standards to protect the rights of children in need of adoption), and (B) provide for a national adoption and foster care information data gathering and analysis system and a national adoption information exchange system to bring together children who would benefit by adoption and qualified prospective adoptive parents who are seeking such children.”
 
 #### Study of Interjurisdictional Adoption Issues
 

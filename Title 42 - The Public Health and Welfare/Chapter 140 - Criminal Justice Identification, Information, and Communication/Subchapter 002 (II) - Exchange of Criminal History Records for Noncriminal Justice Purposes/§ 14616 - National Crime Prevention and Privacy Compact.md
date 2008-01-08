@@ -226,7 +226,7 @@ Any record obtained under this Compact may be used only for the official purpose
 
 &emsp;(2) require that subsequent record checks are requested to obtain current information whenever a new need arises; and
 
-&emsp;(3) ensure that record entries that may not legally be used for a particular noncriminal justice purpose are deleted from the response and, if no information authorized for release remains, an appropriate “no record” response is communicated to the requesting official.
+&emsp;(3) ensure that record entries that may not legally be used for a particular noncriminaljustice purpose are deleted from the response and, if no information authorized for release remains, an appropriate “no record” response is communicated to the requesting official.
 
 ### ARTICLE V—RECORD REQUEST PROCEDURES
 
@@ -306,7 +306,7 @@ The Council shall be composed of 15 members, each of whom shall be appointed by 
 
 &emsp;From its membership, the Council shall elect a Chairman and a Vice Chairman of the Council, respectively. Both the Chairman and Vice Chairman of the Council—
 
-&emsp;&emsp;(A) shall be a Compact officer, unless there is no Compact officer on the Council who is willing to serve, in which case the Chairman may be an at-large member; and
+&emsp;&emsp;(A) shall be a Compact officer, unless there is no Compact officer on the Council who iswilling to serve, in which case the Chairman may be an at-large member; and
 
 &emsp;&emsp;(B) shall serve a 2-year term and may be reelected to only 1 additional 2-year term.
 
@@ -344,7 +344,7 @@ This Compact shall take effect upon being entered into by 2 or more States as be
 
 #### (a) Relation of Compact to certain FBI activities
 
-Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI's collection and dissemination of criminal history records and the advisory function of the FBI's advisorypolicy board chartered under the Federal Advisory Committee Act (5 U.S.C. App.) for all purposes other than noncriminal justice.
+Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI's collection and dissemination of criminal history records and the advisory function of the FBI's advisory policy board chartered under the Federal Advisory Committee Act (5 U.S.C. App.) for all purposes other than noncriminal justice.
 
 #### (b) No authority for nonappropriated expenditures
 

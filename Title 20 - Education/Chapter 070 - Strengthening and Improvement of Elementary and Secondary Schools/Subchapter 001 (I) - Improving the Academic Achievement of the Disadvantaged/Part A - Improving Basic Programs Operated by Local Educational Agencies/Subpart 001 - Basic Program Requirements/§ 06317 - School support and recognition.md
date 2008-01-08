@@ -62,7 +62,7 @@ Priority.—The State educational agency shall give priority to the approach des
 
 &emsp;&emsp;&emsp;(i) review and analyze all facets of the school's operation, including the design and operation of the instructional program, and assist the school in developing recommendations for improving student performance in that school;
 
-&emsp;&emsp;&emsp;(ii) collaborate with parents and school staff and the local educational agencyserving the school in the design, implementation, and monitoring of a plan that, if fully implemented, can reasonably be expected to improve student performance and help the school meet its goals for improvement, including adequate yearly progress under section 6311(b)(2)(B) of this title;
+&emsp;&emsp;&emsp;(ii) collaborate with parents and school staff and the local educational agency serving the school in the design, implementation, and monitoring of a plan that, if fully implemented, can reasonably be expected to improve student performance and help the school meet its goals for improvement, including adequate yearly progress under section 6311(b)(2)(B) of this title;
 
 &emsp;&emsp;&emsp;(iii) evaluate, at least semiannually, the effectiveness of school personnel assigned to the school, including identifying outstanding teachers and principals, and make findings and recommendations to the school, the local educational agency, and, where appropriate, the State educational agency; and
 

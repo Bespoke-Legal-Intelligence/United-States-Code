@@ -100,5 +100,5 @@ Information Gathering.—In carrying out the studies under this section, the pro
 
 “(g)
 
-Consultation and Coordination.—In preparing the studies under this section the Administrator shall consult and coordinate with the Secretary of Energy, the Administrators of the National Aeronautics and Space Administration and the National Oceanic andAtmospheric Administration, and the heads of other relevant Federal agencies and departments. In the case of the studies under subsections (a), (b), and (e), such consultation and coordination shall include the Secretary of Agriculture.”
+Consultation and Coordination.—In preparing the studies under this section the Administrator shall consult and coordinate with the Secretary of Energy, the Administrators of the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, and the heads of other relevant Federal agencies and departments. In the case of the studies under subsections (a), (b), and (e), such consultation and coordination shall include the Secretary of Agriculture.”
 

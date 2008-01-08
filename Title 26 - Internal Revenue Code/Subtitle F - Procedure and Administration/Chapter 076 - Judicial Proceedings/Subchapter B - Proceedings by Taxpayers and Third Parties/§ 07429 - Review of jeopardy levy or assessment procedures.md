@@ -10,7 +10,7 @@
 
 #### (B) Information to taxpayer
 
-&emsp;&emsp;Within 5 days after the day on which such an assessment or levy is made, the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relied in making such assessment or levy.
+&emsp;&emsp;Within 5 days after the day on which such an assessment or levy is made, the Secretaryshall provide the taxpayer with a written statement of the information upon which the Secretary relied in making such assessment or levy.
 
 #### (2) Request for review
 

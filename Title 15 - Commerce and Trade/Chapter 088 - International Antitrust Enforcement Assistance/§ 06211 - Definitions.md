@@ -34,7 +34,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;&emsp;(ii) adequate action is not taken both to minimize any harm resulting from the violation and to ensure that the confidentiality required under such agreement or such memorandum is not violated again.
 
-&emsp;&emsp;(H) Terms and conditions that specifically provide that if the confidentiality required under such agreement or such memorandum is violated with respect to antitrust evidence, notice of the violation will be given—
+&emsp;&emsp;(H) Terms and conditions that specifically provide that if the confidentiality required under such agreement or such memorandumis violated with respect to antitrust evidence, notice of the violation will be given—
 
 &emsp;&emsp;&emsp;(i) by the foreign antitrust authority promptly to the Attorney General or the Commission with respect to antitrust evidence provided by the Attorney General or the Commission, respectively, and
 

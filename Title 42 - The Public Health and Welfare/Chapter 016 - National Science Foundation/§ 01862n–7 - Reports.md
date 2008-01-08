@@ -46,13 +46,17 @@ Not later than 3 months after December 19, 2002, the Director shall enter into a
 
 #### (2) Report on ways to improve funding
 
-&emsp;Within one year after December 19, 2002, the Director shall submit to the Committee on Science of the House of Representatives, theCommittee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate a report on recommendations on how the Foundation can improve funding to minority-serving institutions.
+&emsp;Within one year after December 19, 2002, the Director shall submit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate a report on recommendations on how the Foundation can improve funding to minority-serving institutions.
 
 (Pub. L. 107–368, §18, Dec. 19, 2002, 116 Stat. 3061.)
 
 #### Codification
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Definitions
 

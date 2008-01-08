@@ -40,7 +40,7 @@ In general.—If a motor carrier knows that the gross cargo weight of an intermo
 
 &emsp;(2)
 
-Reimbursement.—If the operator of a leased vehicle transporting a container or trailer subject to this chapter is fined because of a violation of a State's gross vehicle weight laws or regulations and the lessee motor carrier cannot establish that it tendered to the operator the notice required by paragraph (1) of this subsection, then the operator shall be entitled to reimbursement from the motor carrier in the amount of any fine and court costs resulting from the failure of the motor carrier to tender the notice to the operator.
+Reimbursement.—If the operator of a leased vehicle transporting a container or trailer subject to this chapter is fined because of a violation of a State's gross vehicle weight laws or regulations and the lessee motor carrier cannot establish that it tendered to the operator the notice required by paragraph (1) of this subsection, then the operator shall be entitled to reimbursement from the motorcarrier in the amount of any fine and court costs resulting from the failure of the motor carrier to tender the notice to the operator.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 860; Pub. L. 104–291, title II, §205, Oct. 11, 1996, 110 Stat. 3456.)
 

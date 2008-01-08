@@ -22,9 +22,11 @@ Transmission to Congress of Prospectus of Proposed Project.—To secure consider
 
 &emsp;(4) with respect to any project for the construction, alteration, or acquisition of any building, a statement by the Administrator that suitable space owned by the Government is not available and that suitable rental space is not available at a price commensurate with that to be afforded through the proposed action;
 
-&emsp;(5) a statement by the Administrator of the economic and other justifications for not acquiring a building identified to the Administrator under section 3303(c) of this title as suitable for the public building needs of the Government; and
+&emsp;(5) a statement by the Administrator of the economic and other justifications for not acquiring a building identified to the Administrator under section 3303(c) of this title as suitable for the public building needs of the Government;
 
-&emsp;(6) a statement of rents and other housing costs currently being paid by the Government for federal agencies to be housed in the building to be constructed, altered, or acquired, or the space to be leased.
+&emsp;(6) a statement of rents and other housing costs currently being paid by the Government for federal agencies to be housed in the building to be constructed, altered, or acquired, or the space to be leased; and
+
+&emsp;(7) with respect to any prospectus for the construction, alteration, or acquisition of any building or space to be leased, an estimate of the future energy performance of the building or space and a specific description of the use of energy efficient and renewable energy systems, including photovoltaic systems, in carrying out the project.
 
 (c)
 
@@ -39,6 +41,10 @@ Rescission of Approval.—If an appropriation is not made within one year after 
 Emergency Leases by the Administrator.—This section does not prevent the Administrator from entering into emergency leases during any period declared by the President to require emergency leasing authority. An emergency lease may not be for more than 180 days without approval of a prospectus for the lease in accordance with subsection (a).
 
 (f)
+
+Minimum Performance Requirements for Leased Space.—With respect to space to be leased, the Administrator shall include, to the maximum extent practicable, minimum performance requirements requiring energy efficiency and the use of renewable energy.
+
+(g)
 
 Limitation on Leasing Certain Space.—
 
@@ -56,15 +62,15 @@ In general.—The Administrator may not lease space to accommodate any of the fo
 
 Exception.—The Administrator may lease space with respect to which paragraph (1) applies if the Administrator—
 
-&emsp;&emsp;(A) decides, for reasons set forth in writing, that leasing the space is necessary to meet requirements which cannot be met in public buildings; and
+&emsp;&emsp;(A) decides, for reasons set forth in writing, that leasing the space is necessary tomeet requirements which cannot be met in public buildings; and
 
 &emsp;&emsp;(B) submits the reasons to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(g)
+(h)
 
 Dollar Amount Adjustment.—The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161; Pub. L. 110–140, title III, §323(a), (b), Dec. 19, 2007, 121 Stat. 1589, 1590.)
 
 Historical and Revision Notes
 
@@ -117,4 +123,14 @@ In subsection (c), the words “if any” and “as the case may be” are omitt
 In subsection (d), the words “at any time thereafter” are omitted as unnecessary.
 
 In subsection (f)(2)(A), the word “first” is omitted as unnecessary.
+
+#### Amendments
+
+2007—Subsec. (b)(7). Pub. L. 110–140, §323(a), added par. (7).
+
+Subsecs. (f) to (h). Pub. L. 110–140, §323(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

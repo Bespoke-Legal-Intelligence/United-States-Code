@@ -30,7 +30,7 @@ Pub. L. 108–199, §417, which directed amendment of section 312 of the Nationa
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–155, §201(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Appropriations for the Administration for fiscal year 2005 and thereafter shall be made in three accounts, ‘Exploration capabilities’, ‘Science, aeronautics and exploration’, and an account foramounts appropriated for the necessary expenses of the Office of Inspector General. Appropriations shall remain available for 2 fiscal years. Each account shall include the planned full costs of the Administration's related activities.”
+2005—Subsec. (a). Pub. L. 109–155, §201(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Appropriations for the Administration for fiscal year 2005 and thereafter shall be made in three accounts, ‘Exploration capabilities’, ‘Science, aeronautics and exploration’, and an account for amounts appropriated for the necessary expenses of the Office of Inspector General. Appropriations shall remain available for 2 fiscal years. Each account shall include the planned full costs of the Administration's related activities.”
 
 Subsec. (b). Pub. L. 109–155, §201(2), designated existing provisions as par. (1) and added par. (2).
 

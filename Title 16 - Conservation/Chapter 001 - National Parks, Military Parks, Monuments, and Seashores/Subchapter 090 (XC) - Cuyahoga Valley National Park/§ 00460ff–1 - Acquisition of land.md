@@ -18,7 +18,7 @@ When any tract of land is only partly within the boundaries of the park, the Sec
 
 #### (e) “Improved property” defined; determination by Secretary
 
-For the purposes of this subchapter, the term “improved property” means: (i) a detached single family dwelling, the construction of which was begun before January 1, 1975 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures necessary to the dwelling which are situated on the land so designated, or (ii) property developed for agricultural uses, together with any structures accessory thereto which were so used on or before January 1, 1975. An determining when and to what extent a property is to be considered an “improved property”, the Secretary shall take into consideration the manner of use of such buildings and lands prior to January 1, 1975, and shall designate such lands as are reasonably necessary for the continued enjoyment of the property in the same manner and to the same extent as existed prior to such date. In applying this subsection with respect to lands and interests therein added to the park by action of the Ninety-fifth Congress, the date “January 1, 1978,” shall be substituted for the date “January 1, 1975,” in each place it appears.
+For the purposes of this subchapter, the term “improved property” means: (i) a detached single family dwelling, the construction of which was begun before January 1, 1975 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to bereasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures necessary to the dwelling which are situated on the land so designated, or (ii) property developed for agricultural uses, together with any structures accessory thereto which were so used on or before January 1, 1975. In determining when and to what extent a property is to be considered an “improved property”, the Secretary shall take into consideration the manner of use of such buildings and lands prior to January 1, 1975, and shall designate such lands as are reasonably necessary for the continued enjoyment of the property in the same manner and to the same extent as existed prior to such date. In applying this subsection with respect to lands and interests therein added to the park by action of the Ninety-fifth Congress, the date “January 1, 1978,” shall be substituted for the date “January 1, 1975,” in each place it appears.
 
 #### (f) Retention by owner of right of use and occupancy for noncommercial residential or agricultural purposes; terms; payment of fair market value; termination by Secretary for use inconsistent with statutory purpose
 
@@ -44,7 +44,7 @@ Subsec. (a). Pub. L. 106–291, §149(b), substituted “The park shall” for �
 
 1994—Subsec. (a). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
 
-1992—Subsec. (b). Pub. L. 102–431 substituted “within the boundaries of the recreation area may be acquiredonly by donation or exchange for equal value. In determining the exchange value of lands of the State or any political subdivision thereof under this subsection, the Secretary shall not include in the value of those lands amounts paid from the land and water conservation fund, if any, for the original acquisition of those lands by the State or political subdivision” for “may be acquired only by donation”.
+1992—Subsec. (b). Pub. L. 102–431 substituted “within the boundaries of the recreation area may be acquired only by donation or exchange for equal value. In determining the exchange value of lands of the State or any political subdivision thereof under this subsection, the Secretary shall not include in the value of those lands amounts paid from the land and water conservation fund, if any, for the original acquisition of those lands by the State or political subdivision” for “may be acquired only by donation”.
 
 1986—Subsec. (a). Pub. L. 99–606, §16(1), (2), substituted “numbered 644–80,054 and dated July 1986” for “numbered 655–90,001–A and dated May 1978” and inserted provisions relating to City of Akron Lands on the map referred to in first sentence offered as donations or privately owned, and revision of such map.
 
@@ -57,10 +57,6 @@ Subsec. (b). Pub. L. 99–606, §16(3), inserted provisions prohibiting acquisit
 Subsec. (e). Pub. L. 95–625, §315(d), provided for substitution of date “January 1, 1978” for “January 1, 1975” wherever appearing in application of the subsec. to lands and interests therein added to the recreation area by action of the Ninety-fifth Congress.
 
 1976—Subsec. (a). Pub. L. 94–578 substituted “ ‘Boundary Map, Cuyahoga Valley National Recreation Area, Ohio’, numbered 90,000–A, and dated September 1976” for “ ‘Boundary Map, Cuyahoga Valley National Recreation Area, Ohio’, numbered NRA–CUYA–20,000–A, and dated December 1974”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

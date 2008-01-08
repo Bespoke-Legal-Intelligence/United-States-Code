@@ -30,7 +30,7 @@ The law of the nearest adjacent coastal State, now in effect or hereafter adopte
 
 (2) Except in a situation involving force majeure, a licensee shall not permit a vessel registered in or flying the flag of a foreign state to call at or otherwise utilize a deepwater port licensed under this chapter unless—
 
-&emsp;(A)(i) the foreign state involved, by specific agreement with the United States, has agreed to recognize the jurisdiction of the United States over the vessels registered in or flying the flag of that state and persons on boardsuch vessels in accordance with the provisions of paragraph (1) of this subsection, while the vessel is located within the safety zone, or
+&emsp;(A)(i) the foreign state involved, by specific agreement with the United States, has agreed to recognize the jurisdiction of the United States over the vessels registered in or flying the flag of that state and persons on board such vessels in accordance with the provisions of paragraph (1) of this subsection, while the vessel is located within the safety zone, or
 
 &emsp;(ii) the foreign state has not objected to the application of the jurisdiction of the United States to any vessel, or persons on board such vessel, while the vessel is located within the safety zone; and
 
@@ -62,7 +62,7 @@ Section 19(f) of Pub. L. 93–627 amended section 1333(a)(2) of Title 43, Public
 
 Subsec. (c)(1). Pub. L. 98–419, §5(b), added par. (1). Former cl. (1) redesignated cl. (A)(i) of par. (2).
 
-Subsec. (c)(2). Pub. L. 98–419, §5(b), redesignated existing provisions of subsec. (c) as par. (2)(A)(i) and (B) thereof, substituted reference to provisions of par. (1) for former reference to provisions of this chapter in par. (2)(A)(i) as so redesignated, and added par. (2)(A)(ii).
+Subsec. (c)(2). Pub. L. 98–419, §5(b), redesignated existing provisions of subsec. (c) as par. (2)(A)(i) and (B) thereof, substituted reference to provisions of par. (1) for former reference to provisions of this chapter inpar. (2)(A)(i) as so redesignated, and added par. (2)(A)(ii).
 
 Subsec. (c)(3). Pub. L. 98–419, §5(b), added par. (3).
 

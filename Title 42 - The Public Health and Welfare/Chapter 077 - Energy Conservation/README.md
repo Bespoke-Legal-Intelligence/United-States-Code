@@ -175,14 +175,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—Industrial Energy Conservation
+#### Part C—Industrial Energy Efficiency
 
 |  |  |
 | :--- | ---: |
-| 6341 to 6347. Repealed or Omitted. |  |
-| [6348\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Conservation/%C2%A7%2006348%20-%20Energy%20efficiency%20in%20industrial%20facilities.md) | Energy efficiency in industrial facilities. |
-| [6349\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Conservation/%C2%A7%2006349%20-%20Process-oriented%20industrial%20energy%20efficiency.md) | Process-oriented industrial energy efficiency. |
-| [6350\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Conservation/%C2%A7%2006350%20-%20Industrial%20insulation%20and%20audit%20guidelines.md) | Industrial insulation and audit guidelines. |
+| [6341\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006341%20-%20Definitions.md) | Definitions. |
+| [6342\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006342%20-%20Survey%20and%20registry.md) | Survey and registry. |
+| [6343\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006343%20-%20Waste%20energy%20recovery%20incentive%20grant%20program.md) | Waste energy recovery incentive grant program. |
+| [6344\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006344%20-%20Additional%20incentives%20for%20recovery%2C%20use%2C%20and%20prevention%20of%20industrial%20waste%20energy.md) | Additional incentives for recovery, use, and prevention of industrial waste energy. |
+| [6345\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006345%20-%20Clean%20Energy%20Application%20Centers.md) | Clean Energy Application Centers. |
+| 6346, 6347. Repealed or Omitted. |  |
+| [6348\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006348%20-%20Energy%20efficiency%20in%20industrial%20facilities.md) | Energy efficiency in industrial facilities. |
+| [6349\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006349%20-%20Process-oriented%20industrial%20energy%20efficiency.md) | Process-oriented industrial energy efficiency. |
+| [6350\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006350%20-%20Industrial%20insulation%20and%20audit%20guidelines.md) | Industrial insulation and audit guidelines. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -209,6 +214,7 @@
 | [6371f.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371f%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [6371g.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371g%20-%20Allocation%20of%20grants.md) | Allocation of grants. |
 | [6371h.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371h%20-%20Administration%3B%20detailed%20description%20in%20annual%20report.md) | Administration; detailed description in annual report. |
+| 6371h–1. | Energy sustainability and efficiency grants and loans for institutions. |
 | [6371i.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371i%20-%20Records.md) | Records. |
 | [6371j.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371j%20-%20Application%20of%20sections%203141%E2%80%933144%2C%203146%2C%20and%203147%20of%20title%2040.md) | Application of sections 3141–3144, 3146, and 3147 of title 40. |
 
@@ -248,6 +254,7 @@
 | [6374b.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20H%20-%20Encouraging%20Use%20of%20Alternative%20Fuels/%C2%A7%2006374b%20-%20Alternative%20fuels%20bus%20program.md) | Alternative fuels bus program. |
 | [6374c.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20H%20-%20Encouraging%20Use%20of%20Alternative%20Fuels/%C2%A7%2006374c%20-%20Omitted.md) | Omitted. |
 | [6374d.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20H%20-%20Encouraging%20Use%20of%20Alternative%20Fuels/%C2%A7%2006374d%20-%20Studies%20and%20reports.md) | Studies and reports. |
+| [6374e.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20H%20-%20Encouraging%20Use%20of%20Alternative%20Fuels/%C2%A7%2006374e%20-%20Federal%20fleet%20conservation%20requirements.md) | Federal fleet conservation requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

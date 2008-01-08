@@ -1,0 +1,40 @@
+### §321<i>l</i>. Guidance and recommendations
+
+#### (a) In general
+
+Consistent with their responsibilities and authorities under law, as of the day before August 3, 2007, the Administrator and the Assistant Secretary for Infrastructure Protection, in consultation with the private sector, may develop guidance or recommendations and identify best practices to assist or foster action by the private sector in—
+
+&emsp;(1) identifying potential hazards and assessing risks and impacts;
+
+&emsp;(2) mitigating the impact of a wide variety of hazards, including weapons of mass destruction;
+
+&emsp;(3) managing necessary emergency preparedness and response resources;
+
+&emsp;(4) developing mutual aid agreements;
+
+&emsp;(5) developing and maintaining emergency preparedness and response plans, and associated operational procedures;
+
+&emsp;(6) developing and conducting training and exercises to support and evaluate emergency preparedness and response plans and operational procedures;
+
+&emsp;(7) developing and conducting training programs for security guards to implement emergency preparedness and response plans and operations procedures; and
+
+&emsp;(8) developing procedures to respond to requests for information from the media or the public.
+
+#### (b) Issuance and promotion
+
+Any guidance or recommendations developed or best practices identified under subsection (a) shall be—
+
+&emsp;(1) issued through the Administrator; and
+
+&emsp;(2) promoted by the Secretary to the private sector.
+
+#### (c) Small business concerns
+
+In developing guidance or recommendations or identifying best practices under subsection (a), the Administrator and the Assistant Secretary for Infrastructure Protection shall take into consideration small business concerns (under the meaning given that term in section 632 of title 15), including any need for separate guidance or recommendations or best practices, as necessary and appropriate.
+
+#### (d) Rule of construction
+
+Nothing in this section may be construed to supersede any requirement established under any other provision of law.
+
+(Pub. L. 107–296, title V, §523, as added Pub. L. 110–53, title IX, §901(a), Aug. 3, 2007, 121 Stat. 364.)
+

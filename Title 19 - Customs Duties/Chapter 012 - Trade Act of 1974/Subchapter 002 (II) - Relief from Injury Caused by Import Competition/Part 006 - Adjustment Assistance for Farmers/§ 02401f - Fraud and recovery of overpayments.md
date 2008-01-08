@@ -40,3 +40,7 @@ Whoever makes a false statement of a material fact knowing it to be false, or kn
 
 (Pub. L. 93–618, title II, §297, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 952.)
 
+#### Termination Date
+
+No adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+

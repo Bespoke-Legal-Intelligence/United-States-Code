@@ -95,3 +95,6 @@
 - [&sect; 00390h&#8211;18 - Irvine basin groundwater and surface water improvement projects](%C2%A7%2000390h%E2%80%9318%20-%20Irvine%20basin%20groundwater%20and%20surface%20water%20improvement%20projects.md)
 - [&sect; 00390h&#8211;19 - Williamson County, Texas, water recycling and reuse project](%C2%A7%2000390h%E2%80%9319%20-%20Williamson%20County%2C%20Texas%2C%20water%20recycling%20and%20reuse%20project.md)
 - [&sect; 00390h&#8211;20 - Hawaii reclamation projects](%C2%A7%2000390h%E2%80%9320%20-%20Hawaii%20reclamation%20projects.md)
+- [&sect; 00390h&#8211;21 - Inland Empire regional water recycling project](%C2%A7%2000390h%E2%80%9321%20-%20Inland%20Empire%20regional%20water%20recycling%20project.md)
+- [&sect; 00390h&#8211;22 - Cucamonga Valley water recycling project](%C2%A7%2000390h%E2%80%9322%20-%20Cucamonga%20Valley%20water%20recycling%20project.md)
+- [&sect; 00390h&#8211;23 - Southern California desert region integrated water and economic sustainability plan](%C2%A7%2000390h%E2%80%9323%20-%20Southern%20California%20desert%20region%20integrated%20water%20and%20economic%20sustainability%20plan.md)

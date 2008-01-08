@@ -6,7 +6,7 @@ The purpose of this section is to provide funding to develop, implement, and dem
 
 #### (b) Development, implementation and demonstration
 
-The Secretary may enter into a memorandum of agreement with a State educational agency,an institution of higher education, or a consortia of State educational agencies or institutions of higher education, to develop, implement, and demonstrate teacher certification programs for members of the Armed Forces described in section 6673(a)(1)(B) of this title for the purpose of assisting such members to consider and prepare for a career as a highly qualified elementary school teacher, secondary school teacher, or vocational or technical teacher upon retirement from the Armed Forces.
+The Secretary may enter into a memorandum of agreement with a State educational agency, an institution of higher education, or a consortia of State educational agencies or institutions of higher education, to develop, implement, and demonstrate teacher certification programs for members of the Armed Forces described in section 6673(a)(1)(B) of this title for the purpose of assisting such members to consider and prepare for a career as a highly qualified elementary school teacher, secondary school teacher, or vocational or technical teacher upon retirement from the Armed Forces.
 
 #### (c) Program elements
 

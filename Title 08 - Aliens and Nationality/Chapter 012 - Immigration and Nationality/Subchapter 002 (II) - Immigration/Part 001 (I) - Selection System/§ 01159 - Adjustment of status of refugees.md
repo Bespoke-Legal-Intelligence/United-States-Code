@@ -28,7 +28,7 @@ The Secretary of Homeland Security or the Attorney General, in the Secretary's o
 
 &emsp;(5) is admissible (except as otherwise provided under subsection (c) of this section) as an immigrant under this chapter at the time of examination for adjustment of such alien.
 
-> Upon approval of an application under this subsection, the Secretary of Homeland Security or the Attorney General shall establish a record of the alien's admission for lawful permanent residence as of the date one year before the date of the approval of the application.
+> Upon approval of an application under this subsection, the Secretary of Homeland Security orthe Attorney General shall establish a record of the alien's admission for lawful permanent residence as of the date one year before the date of the approval of the application.
 
 #### (c) Coordination with section 1182
 

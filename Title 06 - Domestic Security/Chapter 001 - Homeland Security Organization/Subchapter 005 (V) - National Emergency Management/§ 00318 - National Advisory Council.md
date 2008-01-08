@@ -6,13 +6,19 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (b) Responsibilities
 
-The National Advisory Council shall advise the Administrator on all aspects of emergency management. The National Advisory Council shall incorporate State, local, and tribal government and private sector input in the development and revision of the national preparedness goal, the national preparedness system, the National Incident Management System, the National Response Plan, and other related plans and strategies.
+#### (1) In general
+
+&emsp;The National Advisory Council shall advise the Administrator on all aspects of emergency management. The National Advisory Council shall incorporate State, local, and tribal government and private sector input in the development and revision of the national preparedness goal, the national preparedness system, the National Incident Management System, the National Response Plan, and other related plans and strategies.
+
+#### (2) Consultation on grants
+
+&emsp;To ensure input from and coordination with State, local, and tribal governments and emergency response providers, the Administrator shall regularly consult and work with the National Advisory Council on the administration and assessment of grant programs administered by the Department, including with respect to the development of program guidance and the development and evaluation of risk-assessment methodologies, as appropriate.
 
 #### (c) Membership
 
 #### (1) In general
 
-&emsp;The members of the National Advisory Council shall be appointed by the Administrator, and shall, to the extent practicable,represent a geographic (including urban and rural) and substantive cross section of officials, emergency managers, and emergency response providers from State, local, and tribal governments, the private sector, and nongovernmental organizations, including as appropriate—
+&emsp;The members of the National Advisory Council shall be appointed by the Administrator, and shall, to the extent practicable, represent a geographic (including urban and rural) and substantive cross section of officials, emergency managers, and emergency response providers from State, local, and tribal governments, the private sector, and nongovernmental organizations, including as appropriate—
 
 &emsp;&emsp;(A) members selected from the emergency management field and emergency response providers, including fire service, law enforcement, hazardous materials response, emergency medical services, and emergency management personnel, or organizations representing such individuals;
 
@@ -62,7 +68,7 @@ The National Advisory Council shall advise the Administrator on all aspects of e
 
 &emsp;Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the National Advisory Council.
 
-(Pub. L. 107–296, title V, §508, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1403.)
+(Pub. L. 107–296, title V, §508, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1403; amended Pub. L. 110–53, title I, §102(a), Aug. 3, 2007, 121 Stat. 293.)
 
 #### References in Text
 
@@ -71,6 +77,10 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 #### Prior Provisions
 
 A prior section 508 of Pub. L. 107–296 was renumbered section 519 and is classified to section 321h of this title.
+
+#### Amendments
+
+2007—Subsec. (b). Pub. L. 110–53 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 #### Effective Date
 

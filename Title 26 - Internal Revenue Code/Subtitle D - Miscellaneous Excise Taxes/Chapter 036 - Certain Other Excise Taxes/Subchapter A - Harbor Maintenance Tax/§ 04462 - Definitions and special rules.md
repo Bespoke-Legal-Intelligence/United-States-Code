@@ -146,7 +146,7 @@ No tax shall be imposed under this subchapter on any nonprofit organization or c
 
 #### (i) Regulations
 
-The Secretary may prescribe such additional regulations as may be necessary to carry out thepurposes of this subchapter including, but not limited to, regulations—
+The Secretary may prescribe such additional regulations as may be necessary to carry out the purposes of this subchapter including, but not limited to, regulations—
 
 &emsp;(1) providing for the manner and method of payment and collection of the tax imposed by this subchapter,
 

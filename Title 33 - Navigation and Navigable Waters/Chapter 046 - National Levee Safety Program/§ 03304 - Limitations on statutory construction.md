@@ -1,0 +1,10 @@
+### §3304. Limitations on statutory construction
+
+Nothing in this chapter shall be construed as—
+
+&emsp;(1) creating any liability of the United States or its officers or employees for the recovery of damages caused by an action or failure to act; or
+
+&emsp;(2) relieving an owner or operator of a levee of a legal duty, obligation, or liability incident to the ownership or operation of a levee.
+
+(Pub. L. 110–114, title IX, §9005, Nov. 8, 2007, 121 Stat. 1290.)
+

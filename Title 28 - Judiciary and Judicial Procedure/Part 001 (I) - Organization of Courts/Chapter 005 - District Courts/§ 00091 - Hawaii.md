@@ -32,7 +32,7 @@ Changes were made in phraseology.
 
 #### Effective Date of 1959 Amendment
 
-Section 14 of Pub. L. 86–3 provided that the amendments of sections 91, 373, 1252, 1293, and 1294 of this title, sections 3771 and 3772 of Title 18, Crimes and Criminal Procedure, and section 644a of Title 48, Territories and Insular Possessions, the repeal of sections 536, 539, 634, 634a, and 645 of title 48, and notes set out under sections 371 and 373 of this title, are effective on admission of the State of Hawaii into the Union. See Admission of Hawaii as State note below.
+Section 14 of Pub. L. 86–3 provided that the amendments of sections 91, 373, 1252, 1293, and 1294 of thistitle, sections 3771 and 3772 of Title 18, Crimes and Criminal Procedure, and section 644a of Title 48, Territories and Insular Possessions, the repeal of sections 536, 539, 634, 634a, and 645 of title 48, and notes set out under sections 371 and 373 of this title, are effective on admission of the State of Hawaii into the Union. See Admission of Hawaii as State note below.
 
 #### Canton and Enderbury Islands; Sovereignty of Kiribati
 
@@ -44,7 +44,7 @@ Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance o
 
 #### Court of the United States; District Judges
 
-Section 9(a) of Pub. L. 86–3 provided that: “The United States District Court for the District of Hawaiiestablished by and existing under title 28 of the United States Code shall thence forth be a court of the United States with judicial power derived from article III, section 1, of the Constitution of the United States: <i>Provided, however</i>, That the terms of office of the district judges for the district of Hawaii then in office shall terminate upon the effective date of this section and the President, pursuant to sections 133 and 134 of title 28, United States Code, as amended by this Act, shall appoint, by and with the advice and consent of the Senate, two district judges for the said district who shall hold office during good behavior.”
+Section 9(a) of Pub. L. 86–3 provided that: “The United States District Court for the District of Hawaii established by and existing under title 28 of the United States Code shall thence forth be a court of the United States with judicial power derived from article III, section 1, of the Constitution of the United States: <i>Provided, however</i>, That the terms of office of the district judges for the district of Hawaii then in office shall terminate upon the effective date of this section and the President, pursuant to sections 133 and 134 of title 28, United States Code, as amended by this Act, shall appoint, by and with the advice and consent of the Senate, two district judges for the said district who shall hold office during good behavior.”
 
 Section 9 of Pub. L. 86–3 provided in part that subsec. (a) of that section should be effective upon the admission of the State of Hawaii into the Union.
 

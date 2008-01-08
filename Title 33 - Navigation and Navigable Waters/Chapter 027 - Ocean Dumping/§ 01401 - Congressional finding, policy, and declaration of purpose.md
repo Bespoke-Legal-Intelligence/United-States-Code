@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 93–254 added subsec. (c).
 
 #### Effective Date of 1974 Amendment
 
-Section 2 of Pub. L. 93–254 provided in part that amendment of subsecs. (b) and (c) of this section and sections 1402, 1411, and 1412(a), other than last sentence of subsec. (a), of this title, by Pub. L. 93–254 shall become effective Mar. 22, 1974.
+Section 2 of Pub. L. 93–254 provided in part that amendment of subsecs. (b) and (c) of this section andsections 1402, 1411, and 1412(a), other than last sentence of subsec. (a), of this title, by Pub. L. 93–254 shall become effective Mar. 22, 1974.
 
 #### Short Title of 1988 Amendment
 

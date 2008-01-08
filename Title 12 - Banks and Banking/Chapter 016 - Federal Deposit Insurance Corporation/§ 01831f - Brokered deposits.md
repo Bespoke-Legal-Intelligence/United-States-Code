@@ -10,7 +10,7 @@ Any renewal of an account in any troubled institution and any rollover of any am
 
 #### (c) Waiver authority
 
-The Corporation may, on a case-by-case basis and upon application by an insured depository institution which is adequately capitalized (but not well capitalized), waive the applicability of subsection (a) of this section upon a finding thatthe acceptance of such deposits does not constitute an unsafe or unsound practice with respect to such institution.
+The Corporation may, on a case-by-case basis and upon application by an insured depository institution which is adequately capitalized (but not well capitalized), waive the applicability of subsection (a) of this section upon a finding that the acceptance of such deposits does not constitute an unsafe or unsound practice with respect to such institution.
 
 #### (d) Limited exception for certain conservatorships
 
@@ -92,7 +92,7 @@ An insured depository institution that is undercapitalized, as defined in sectio
 
 &emsp;(2) in the market area in which such deposits would otherwise be accepted.
 
-(Sept. 21, 1950, ch. 967, §2\[29\], as added Pub. L. 101–73, title II, §224(a), Aug. 9, 1989, 103 Stat. 273; amended Pub. L. 102–242, title III, §301(a), (c), Dec. 19, 1991, 105 Stat. 2343, 2345; Pub. L. 102–550, title XVI, §1605(a)(1), Oct. 28, 1992, 106 Stat. 4084;Pub. L. 103–325, title III, §337, Sept. 23, 1994, 108 Stat. 2235.)
+(Sept. 21, 1950, ch. 967, §2\[29\], as added Pub. L. 101–73, title II, §224(a), Aug. 9, 1989, 103 Stat. 273; amended Pub. L. 102–242, title III, §301(a), (c), Dec. 19, 1991, 105 Stat. 2343, 2345; Pub. L. 102–550, title XVI, §1605(a)(1), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §337, Sept. 23, 1994, 108 Stat. 2235.)
 
 #### Amendments
 

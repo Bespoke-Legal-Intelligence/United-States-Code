@@ -90,5 +90,5 @@ Elements of Report.—At a minimum, the report shall include or address the foll
 
 “(c)
 
-Annual Updates.—The Secretary of Defense shall update the report required under subsection (a)annually. The annual updates shall be submitted to Congress at or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31, United States Code.”
+Annual Updates.—The Secretary of Defense shall update the report required under subsection (a) annually. The annual updates shall be submitted to Congress at or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31, United States Code.”
 

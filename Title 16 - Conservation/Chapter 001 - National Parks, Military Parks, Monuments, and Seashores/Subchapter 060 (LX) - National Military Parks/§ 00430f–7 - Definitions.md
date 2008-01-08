@@ -4,7 +4,7 @@ In sections 430f–6 to 430f–12 of this title:
 
 #### (1) Map
 
-&emsp;The term “Map” means the map entitled “Park Boundary-Corinth Unit”, numbered 304/80,007, and dated October 1998.
+&emsp;The term “Map” means the map entitled “Park Boundary-Corinth Unit”, numbered 304A/80009, and dated April 2007.
 
 #### (2) Park
 
@@ -18,5 +18,9 @@ In sections 430f–6 to 430f–12 of this title:
 
 &emsp;The term “Unit” means the Corinth Unit of Shiloh National Military Park established under section 430f–8 of this title.
 
-(Pub. L. 106–271, §3, Sept. 22, 2000, 114 Stat. 793.)
+(Pub. L. 106–271, §3, Sept. 22, 2000, 114 Stat. 793; Pub. L. 110–161, div. F, title I, §127(1), Dec. 26, 2007, 121 Stat. 2122.)
+
+#### Amendments
+
+2007—Par. (1). Pub. L. 110–161 substituted “304A/80009, and dated April 2007” for “304/80,007, and dated October 1998”.
 

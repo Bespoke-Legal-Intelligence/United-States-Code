@@ -32,7 +32,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle,and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
 
 #### Effective Date
 

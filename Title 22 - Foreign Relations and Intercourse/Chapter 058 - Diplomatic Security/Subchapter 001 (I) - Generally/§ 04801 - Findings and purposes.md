@@ -8,7 +8,7 @@ The Congress finds and declares that—
 
 &emsp;(2) conditions confronting United States Government personnel and missions abroad are fraught with security concerns which will continue for the foreseeable future; and
 
-&emsp;(3) the resources now available to counter acts of terrorism and protect and secure United States Government personnel and missions abroad, as well as foreign officials and missions in the United States, are inadequate to meet the mounting threat to such personnel and facilities.
+&emsp;(3) the resources now available to counter acts of terrorism and protect and secure United States Government personnel and missions abroad, as well as foreign officials andmissions in the United States, are inadequate to meet the mounting threat to such personnel and facilities.
 
 #### (b) Purposes
 

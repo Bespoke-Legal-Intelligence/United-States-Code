@@ -24,7 +24,7 @@ In this part (except chapter 329 and except as provided in section 33101)—
 
 &emsp;&emsp;(B) importing motor vehicles or motor vehicle equipment for resale.
 
-&emsp;(6) “model”, when describing a passenger motor vehicle, means a category of passengermotor vehicles based on the size, style, and type of a make of vehicle.
+&emsp;(6) “model”, when describing a passenger motor vehicle, means a category of passenger motor vehicles based on the size, style, and type of a make of vehicle.
 
 &emsp;(7) “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public streets, roads, and highways, but does not include a vehicle operated only on a rail line.
 

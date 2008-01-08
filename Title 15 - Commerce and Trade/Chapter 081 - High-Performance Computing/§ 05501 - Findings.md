@@ -80,7 +80,7 @@ Pub. L. 105–305, §7(a), Oct. 28, 1998, 112 Stat. 2924, provided that: “For 
 
 &emsp;“(1)
 
-Geographic penalty.—The term ‘geographic penalty’ means the imposition of costs on users of theInternet in rural or other locations, attributable to the distance of the user from network facilities, the low population density of the area in which the user is located, or other factors, that are disproportionately greater than the costs imposed on users in locations closer to such facilities or on users in locations with significantly greater population density.
+Geographic penalty.—The term ‘geographic penalty’ means the imposition of costs on users of the Internet in rural or other locations, attributable to the distance of the user from network facilities, the low population density of the area in which the user is located, or other factors, that are disproportionately greater than the costs imposed on users in locations closer to such facilities or on users in locations with significantly greater population density.
 
 &emsp;“(2)
 

@@ -4,7 +4,7 @@ All moneys received from the sale and disposal of public lands in Arizona, Calif
 
 The provisions of the Act entitled “An Act appropriating the receipts from the sale and disposal of public lands in certain States and Territories to the construction of irrigation works for the reclamation of arid lands,” approved June seventeenth, nineteen hundred and two, be, and the same are hereby, extended so as to include and apply to the State of Texas, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands..<sup>1</sup>
 
-(June 17, 1902, ch. 1093, §1, 32 Stat. 388; June 12, 1906, ch. 3288, 34 Stat. 259; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 99–396, §17, Aug. 27, 1986, 100 Stat. 843.)
+(June 17, 1902, ch. 1093, §1 (part), 32 Stat. 388; June 12, 1906, ch. 3288, 34 Stat. 259; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 99–396, §17, Aug. 27, 1986, 100 Stat. 843.)
 
 #### References in Text
 
@@ -20,7 +20,7 @@ The first paragraph of this section is comprised of act June 17, 1902, and the s
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, withpower to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
 Words “officers designated by the Secretary of the Interior” substituted for “registers” on authority of section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
 

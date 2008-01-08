@@ -136,7 +136,7 @@ The 1983 amendment by Pub. L. 98–151 is based on section 202(a) of H.R. 2992, 
 
 2004—Subsec. (b). Pub. L. 108–332 inserted after fourth sentence of introductory provisions “Wherever applicable, a description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur, including the descriptions of such acts required under section 2151n(d)(8) of this title.”
 
-2002—Subsec. (b). Pub. L. 107–228, §683(b), in introductory provisions, inserted after sixth sentence “Each report under this section shall also include (i) wherever applicable, a description of the nature and extent of the compulsory recruitment and conscription of individuals under the age of 18 by armed forces of the government of the country, government-supported paramilitaries, or other armed groups, the participation of such individuals in such groups, and the nature and extent that such individuals take a direct part in hostilities, (ii) what steps, if any, taken by the government of the country to eliminate such practices, and\(iii) such other information related to the use by such government of individuals under the age of 18 as soldiers, as determined to be appropriate by the Secretary of State.”
+2002—Subsec. (b). Pub. L. 107–228, §683(b), in introductory provisions, inserted after sixth sentence “Each report under this section shall also include (i) wherever applicable, a description of the nature and extent of the compulsory recruitment and conscription of individuals under the age of 18 by armed forces of the government of the country, government-supported paramilitaries, or other armed groups, the participation of such individuals in such groups, and the nature and extent that such individuals take a direct part in hostilities, (ii) what steps, if any, taken by the government of the country to eliminate such practices, and (iii) such other information related to the use by such government of individuals under the age of 18 as soldiers, as determined to be appropriate by the Secretary of State.”
 
 Pub. L. 107–228, §665(b), in introductory provisions, inserted after fourth sentence “Such report shall also include, for each country with respect to which the report indicates that extrajudicial killings, torture, or other serious violations of human rights have occurred in the country, the extent to which the United States has taken or will take action to encourage an end to such practices in the country.”
 
@@ -158,7 +158,7 @@ Pub. L. 103–236 substituted “Democracy, Human Rights, and Labor” for “Hu
 
 1987—Subsec. (b). Pub. L. 100–204 inserted after first sentence “Wherever applicable, such report shall include information on practices regarding coercion in population control, including coerced abortion and involuntary sterilization.”
 
-1985—Subsec. (a)(2). Pub. L. 99–64 inserted “and the chairman of the Committee on Banking, Housing, and Urban Affairs of the Senate (when licenses are to be issued pursuant to the Export Administration Act of 1979).”
+1985—Subsec. (a)(2). Pub. L. 99–64 inserted “and the chairman of the Committee on Banking, Housing, andUrban Affairs of the Senate (when licenses are to be issued pursuant to the Export Administration Act of 1979).”
 
 Subsec. (g). Pub. L. 99–83 added subsec. (g).
 
@@ -183,10 +183,6 @@ Subsec. (d)(2)(A). Pub. L. 95–384, §§10(b)(1), 12(b), substituted “(econom
 1977—Subsecs. (b), (c)(1). Pub. L. 95–105 substituted “Assistant Secretary of State” for “Coordinator”.
 
 1976—Pub. L. 94–329 restricted the power of the President by eliminating the extraordinary circumstances exception to termination of assistance for gross violations of recognized human rights, directed the Secretary of State, as part of the presentation materials for an assistance program, to transmit a full and complete report to Congress on the human rights practices of the proposed recipient country and, within 30 days of a request by Congress, to supply information concerning the human rights practices of a country receiving assistance for determination as to whether the assistance should be continued, restricted, or terminated, and defined “security assistance”.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 2004 Amendment
 

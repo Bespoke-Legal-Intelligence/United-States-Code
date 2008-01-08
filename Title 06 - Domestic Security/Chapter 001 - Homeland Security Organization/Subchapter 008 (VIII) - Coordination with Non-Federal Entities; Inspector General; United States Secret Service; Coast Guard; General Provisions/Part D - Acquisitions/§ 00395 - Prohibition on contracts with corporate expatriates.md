@@ -82,3 +82,5 @@ Subsec. (d). Pub. L. 108–334, §523(4), substituted “national” for “home
 
 2003—Subsec. (d). Pub. L. 108–7 struck out “, or to prevent the loss of any jobs in the United States or prevent the Government from incurring any additional costs that otherwise would not occur” before period at end.
 
+<i><sup>1</sup></i><i> So in original.</i>
+

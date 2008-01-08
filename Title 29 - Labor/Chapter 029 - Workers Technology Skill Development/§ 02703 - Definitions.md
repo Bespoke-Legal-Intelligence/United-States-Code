@@ -10,7 +10,7 @@ As used in this chapter:
 
 &emsp;The term “advanced workplace technologies” includes—
 
-&emsp;&emsp;(A) numerically controlled machine tools, robots, automated process control equipment, computerized flexible manufacturing systems, associated computer software, and other technology for improving the manufacturing and industrial production of goodsand commercial services, which advance the state-of-the-art; or
+&emsp;&emsp;(A) numerically controlled machine tools, robots, automated process control equipment, computerized flexible manufacturing systems, associated computer software, and other technology for improving the manufacturing and industrial production of goods and commercial services, which advance the state-of-the-art; or
 
 &emsp;&emsp;(B) novel industrial and commercial techniques and processes not previously generally available that improve quality, productivity, and practices, including engineering design, quality assurance, concurrent engineering, continuous process production technology, inventory management, upgraded worker skills, communications with customers and suppliers, and promotion of sustainable economic growth.
 

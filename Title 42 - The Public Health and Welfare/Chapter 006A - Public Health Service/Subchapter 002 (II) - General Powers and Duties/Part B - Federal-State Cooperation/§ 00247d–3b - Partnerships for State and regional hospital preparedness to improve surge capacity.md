@@ -20,7 +20,7 @@ To be eligible for an award under subsection (a), an entity shall—
 
 &emsp;&emsp;(III) one or more States and one or more political subdivisions; and
 
-&emsp;(B) prepare, in consultation with the Chief Executive Officer and the lead health officialsof the State, District, or territory in which the hospital and health care facilities described in subparagraph (A) are located, and submit to the Secretary, an application at such time, in such manner, and containing such information as the Secretary may require; or
+&emsp;(B) prepare, in consultation with the Chief Executive Officer and the lead health officials of the State, District, or territory in which the hospital and health care facilities described in subparagraph (A) are located, and submit to the Secretary, an application at such time, in such manner, and containing such information as the Secretary may require; or
 
 &emsp;(2)(A) be an entity described in section 247d–3a(b)(1) of this title; and
 
@@ -98,11 +98,13 @@ The requirements of section 247d–3a(g), (j), and (k) of this title shall apply
 
 #### (B) Amount
 
-&emsp;&emsp;The Secretary shall determine the amount of an award to each entity described in subparagraph (A) in the same manner as such amounts are determined under section 247d–3a(h) of this title.
+&emsp;&emsp;The Secretary shall determine the amount of an award to each entity described in subparagraph (A) in the same manner as such amounts are determined under section 247d–3a(i) of this title.
 
-(July 1, 1944, ch. 373, title III, §319C–2, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 624; amended Pub. L. 109–417, title III, §305, Dec. 19, 2006, 120 Stat. 2861.)
+(July 1, 1944, ch. 373, title III, §319C–2, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 624; amended Pub. L. 109–417, title III, §305, Dec. 19, 2006, 120 Stat. 2861; Pub. L. 110–85, title XI, §1104(1), Sept. 27, 2007, 121 Stat. 975.)
 
 #### Amendments
+
+2007—Subsec. (j)(3)(B). Pub. L. 110–85 substituted “section 247d–3a(i)” for “section 247d–3a(h)”.
 
 2006—Pub. L. 109–417 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (i) relating to partnerships for community and hospital preparedness.
 

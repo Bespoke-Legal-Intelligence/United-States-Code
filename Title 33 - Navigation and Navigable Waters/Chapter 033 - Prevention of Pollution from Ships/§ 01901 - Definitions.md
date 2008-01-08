@@ -28,7 +28,7 @@
 
 &emsp;(11) “submersible” means a submarine, or any other vessel designed to operate under water; and
 
-&emsp;(12) “terminal” means an onshore facility or an offshore structure located in the navigablewaters of the United States or subject to the jurisdiction of the United States and used, or intended to be used, as a port or facility for the transfer or other handling of a harmful substance.
+&emsp;(12) “terminal” means an onshore facility or an offshore structure located in the navigable waters of the United States or subject to the jurisdiction of the United States and used, or intended to be used, as a port or facility for the transfer or other handling of a harmful substance.
 
 (b) For purposes of this chapter, the requirements of Annex V shall apply to the navigable waters of the United States, as well as to all other waters and vessels over which the United States has jurisdiction.
 
@@ -112,7 +112,7 @@ Pub. L. 108–293, title VI, §623, Aug. 9, 2004, 118 Stat. 1063, provided that:
 
 “(a)
 
-Extension of Interim Authority.—The Secretary of the Department in which the Coast Guard is operating shall continue to implement and enforce United States Coast Guard 1997 Enforcement Policy for Cargo Residues on the Great Lakes (hereinafter in this section referred to as the ‘Policy’) or revisions thereto,in accordance with that policy, for the purpose of regulating incidental discharges from vessels of residues of dry bulk cargo into the waters of the Great Lakes under the jurisdiction of the United States, until the earlier of—
+Extension of Interim Authority.—The Secretary of the Department in which the Coast Guard is operating shall continue to implement and enforce United States Coast Guard 1997 Enforcement Policy for Cargo Residues on the Great Lakes (hereinafter in this section referred to as the ‘Policy’) or revisions thereto, in accordance with that policy, for the purpose of regulating incidental discharges from vessels of residues of dry bulk cargo into the waters of the Great Lakes under the jurisdiction of the United States, until the earlier of—
 
 &emsp;“(1) the date regulations are promulgated under subsection (b) for the regulation of incidental discharges from vessels of dry bulk cargo residue into the waters of the Great Lakes under the jurisdiction of the United States; or
 
@@ -156,7 +156,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 #### “SEC. 1403. PROHIBITION ON DISCHARGE OF UNTREATED SEWAGE.
 
-“No person shall discharge any untreated sewage from a cruise vessel into the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve.
+“No person shall discharge any untreated sewage from a cruise vessel into the waters of the AlexanderArchipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve.
 
 #### “SEC. 1404. LIMITATIONS ON DISCHARGE OF TREATED SEWAGE OR GRAYWATER.
 
@@ -230,7 +230,7 @@ Classes of penalties.—
 
 &emsp;&emsp;“(A)
 
-Class i.—The amount of a class I civil penalty under this section may not exceed $10,000 per violation, except that the maximum amount of any class I civil penalty under this section shall not exceed $25,000. Before assessing a civil penalty under this clause, the Secretary or Administrator, as the case may be, shall give to the person to be assessed such penalty written notice of the Secretary's or Administrator's proposal to assess the penalty and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the proposed penalty. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
+Class i.—The amount of a class I civil penalty under this section may not exceed $10,000 perviolation, except that the maximum amount of any class I civil penalty under this section shall not exceed $25,000. Before assessing a civil penalty under this clause, the Secretary or Administrator, as the case may be, shall give to the person to be assessed such penalty written notice of the Secretary's or Administrator's proposal to assess the penalty and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the proposed penalty. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
 
 &emsp;&emsp;“(B)
 
@@ -338,7 +338,7 @@ In general.—Whenever on the basis of any information available to him the Admi
 
 &emsp;“(2)
 
-Copies of orders, service.—A copy of any order issued under this subsection shall be sent immediately by the Administrator to the State of Alaska. In any case in which an order under this subsection is issued to a corporation, a copy of such order shall be served on any appropriate corporate officer. Any order issued under this subsection shall beby personal service, shall state with reasonable specificity the nature of the violation, and shall specify a time for compliance not to exceed 30 days in the case of a violation of an interim compliance schedule or operation and maintenance requirement and not to exceed a time the Administrator determines to be reasonable in the case of a violation of a final deadline, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
+Copies of orders, service.—A copy of any order issued under this subsection shall be sent immediately by the Administrator to the State of Alaska. In any case in which an order under this subsection is issued to a corporation, a copy of such order shall be served on any appropriate corporate officer. Any order issued under this subsection shall be by personal service, shall state with reasonable specificity the nature of the violation, and shall specify a time for compliance not to exceed 30 days in the case of a violation of an interim compliance schedule or operation and maintenance requirement and not to exceed a time the Administrator determines to be reasonable in the case of a violation of a final deadline, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
 
 “(h)
 

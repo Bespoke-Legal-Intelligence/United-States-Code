@@ -108,7 +108,7 @@ Availability of Information to Boards.—(1) In conducting proceedings in an inq
 
 Recommendation on Status.—(1) Upon completion of an inquiry under this section, a board shall make a recommendation as to the current whereabouts and status of each missing person covered by the inquiry.
 
-(2) A board may not recommend under paragraph (1) that a person be declared dead unlessin making the recommendation the board complies with section 1507 of this title.
+(2) A board may not recommend under paragraph (1) that a person be declared dead unless in making the recommendation the board complies with section 1507 of this title.
 
 (j)
 
@@ -156,7 +156,7 @@ Subsec. (i)(1). Pub. L. 105–85, §1073(a)(30), substituted “this section” 
 
 &emsp;“(A) In the case of a board that will inquire into the whereabouts and status of one or more members of the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
 
-&emsp;“(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractors of the Department of Defense (and no members of the armed forces), the board shall be composed of—
+&emsp;“(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractorsof the Department of Defense (and no members of the armed forces), the board shall be composed of—
 
 &emsp;&emsp;“(i) not less than three employees of the Department of Defense whose rate of annual pay is equal to or greater than the rate of annual pay payable for grade GS–13 of the General Schedule under section 5332 of title 5; and
 

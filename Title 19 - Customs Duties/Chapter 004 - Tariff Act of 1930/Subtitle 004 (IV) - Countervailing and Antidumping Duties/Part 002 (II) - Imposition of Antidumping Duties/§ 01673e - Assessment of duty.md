@@ -18,7 +18,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (1) General rule
 
-&emsp;If the Commission, in its final determination under section 1673d(b) of this title, finds material injury or threat of material injury which, but for the suspension of liquidation under section 1673b(d)(2) of this title would have led to a finding of material injury, then entries of the subject merchandise, the liquidation of which has been suspended under section 1673b(d)(2) of this title, shall be subject to the imposition of antidumping duties under section 1673 of this title.
+&emsp;If the Commission, in its final determination under section 1673d(b) of this title, finds material injury or threat of material injury which, but for the suspension of liquidation under section 1673b(d)(2) of this title would have led to a finding of material injury, then entries of the subject merchandise, the liquidation of which has been suspended under section1673b(d)(2) of this title, shall be subject to the imposition of antidumping duties under section 1673 of this title.
 
 #### (2) Special rule
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, andto reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

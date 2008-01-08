@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of this part, except as otherwise provided in this section, the term “qualified501(c)(3) bond” means any private activity bond issued as part of an issue if—
+For purposes of this part, except as otherwise provided in this section, the term “qualified 501(c)(3) bond” means any private activity bond issued as part of an issue if—
 
 &emsp;(1) all property which is to be provided by the net proceeds of the issue is to be owned by a 501(c)(3) organization or a governmental unit, and
 
@@ -92,7 +92,7 @@ For purposes of this section, the term “qualified hospital bond” means any b
 
 &emsp;&emsp;&emsp;(i) the 1st use of property is pursuant to taxable financing,
 
-&emsp;&emsp;&emsp;(ii) there was a reasonable expectation (at the time such taxable financing wasprovided) that such financing would be replaced by tax-exempt financing, and
+&emsp;&emsp;&emsp;(ii) there was a reasonable expectation (at the time such taxable financing was provided) that such financing would be replaced by tax-exempt financing, and
 
 &emsp;&emsp;&emsp;(iii) the taxable financing is in fact so replaced within a reasonable period after the taxable financing was provided,
 

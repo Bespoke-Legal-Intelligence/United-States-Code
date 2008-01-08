@@ -2,7 +2,7 @@
 
 No loan guaranties shall be made, or interest assistance contract entered into, pursuant to this subchapter, after the expiration of fiscal year 1993.
 
-(Pub. L. 93–410, title II, §203, Sept. 3, 1974, 88 Stat. 1087; Pub. L. 96–294, title VI, §641(2), June 30, 1980, 94 Stat. 769; Pub. L. 102–558, title III, §301, Oct. 28, 1992, 106 Stat. 4224.)
+(Pub. L. 93–410, title II, §203, Sept. 3, 1974, 88 Stat. 1087; Pub. L. 96–294, title VI, §641(2), June30, 1980, 94 Stat. 769; Pub. L. 102–558, title III, §301, Oct. 28, 1992, 106 Stat. 4224.)
 
 #### Amendments
 

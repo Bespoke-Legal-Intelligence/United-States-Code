@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) notifying the appropriate United States attorney of matters which relate to the occurrence of any action which may constitute a crime under the laws of the United States and, on the request of the United States attorney, assisting the United States attorney in carrying out prosecutions based on such action;
 
-&emsp;&emsp;(G) monitoring the progress of cases under title 11 and taking such actions as the United States trustee deems to be appropriate to prevent undue delay in such progress;
+&emsp;&emsp;(G) monitoring the progress of cases under title 11 and taking such actions as theUnited States trustee deems to be appropriate to prevent undue delay in such progress;
 
 &emsp;&emsp;(H) in small business cases (as defined in section 101 of title 11), performing the additional duties specified in title 11 pertaining to such cases; and
 
@@ -96,7 +96,7 @@
 
 (4) The Attorney General shall prescribe procedures to implement this subsection.
 
-(f)(1) The United States trustee for each district is authorized to contract with auditors toperform audits in cases designated by the United States trustee, in accordance with the procedures established under section 603(a) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005.
+(f)(1) The United States trustee for each district is authorized to contract with auditors to perform audits in cases designated by the United States trustee, in accordance with the procedures established under section 603(a) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005.
 
 (2)(A) The report of each audit referred to in paragraph (1) shall be filed with the court and transmitted to the United States trustee. Each report shall clearly and conspicuously specify any material misstatement of income or expenditures or of assets identified by the person performing the audit. In any case in which a material misstatement of income or expenditures or of assets has been reported, the clerk of the district court (or the clerk of the bankruptcy court if one is certified under section 156(b) of this title) shall give notice of the misstatement to the creditors in the case.
 
@@ -144,7 +144,7 @@ Subsec. (a)(3). Pub. L. 99–554, §113(a)(2), substituted “title 11 by, whene
 
 Subsec. (a)(5). Pub. L. 99–554, §113(a)(3), inserted “and this title, and such duties consistent with title 11 and this title as the Attorney General may prescribe” after “title 11”.
 
-Subsec. (b). Pub. L. 99–554, §113(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the number of cases under chapter 13 of title 11 commenced in a particular judicial district so warrant, the United States trustee for such district may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustee, in cases under such chapter. The United States trustee for such district shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.”
+Subsec. (b). Pub. L. 99–554, §113(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the number of cases under chapter 13 of title 11 commenced in a particular judicial district sowarrant, the United States trustee for such district may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustee, in cases under such chapter. The United States trustee for such district shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.”
 
 Subsec. (d). Pub. L. 99–554, §113(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under subsection (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 13 of title 11.”
 

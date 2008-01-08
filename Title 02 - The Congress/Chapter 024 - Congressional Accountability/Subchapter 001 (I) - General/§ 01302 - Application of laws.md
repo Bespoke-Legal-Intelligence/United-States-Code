@@ -34,7 +34,7 @@ The following laws shall apply, as prescribed by this chapter, to the legislativ
 
 #### (2) Board report
 
-&emsp;Beginning on December 31, 1996, and every 2 years thereafter, the Board shall report on (A) whether or to what degree the provisions described in paragraph (1) are applicable or inapplicable to the legislative branch, and (B) with respect to provisions inapplicable to the legislative branch, whether such provisions should be made applicable to the legislative branch. The presiding officers of the House of Representatives and the Senate shall cause each such report to be printed in the Congressional Record and each such report shall be referred to the committees of the House of Representatives and the Senate with jurisdiction.
+&emsp;Beginning on December 31, 1996, and every 2 years thereafter, the Board shall report on (A)whether or to what degree the provisions described in paragraph (1) are applicable or inapplicable to the legislative branch, and (B) with respect to provisions inapplicable to the legislative branch, whether such provisions should be made applicable to the legislative branch. The presiding officers of the House of Representatives and the Senate shall cause each such report to be printed in the Congressional Record and each such report shall be referred to the committees of the House of Representatives and the Senate with jurisdiction.
 
 #### (3) Reports of congressional committees
 

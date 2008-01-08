@@ -22,7 +22,7 @@ The Secretary may issue and have outstanding at any one time notes and other obl
 
 #### Prior Provisions
 
-A prior section 4 of act Sept. 1, 1937, ch. 896, 50 Stat. 889, as amended, provided for assistance of officers, etc.,of other agencies and transfer of property to the Authority and was classified to section 1404 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
+A prior section 4 of act Sept. 1, 1937, ch. 896, 50 Stat. 889, as amended, provided for assistance of officers, etc., of other agencies and transfer of property to the Authority and was classified to section 1404 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
 

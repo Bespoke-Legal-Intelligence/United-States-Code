@@ -366,7 +366,13 @@ Administrative provisions.—For purposes of subtitle F, the taxes imposed by th
 
 #### (ii) Lodging facility
 
-&emsp;&emsp;&emsp;The term “lodging facility” means a hotel, motel, or other establishment more than one-half of the dwelling units in which are used on a transient basis.
+&emsp;&emsp;&emsp;The term “lodging facility” means a—
+
+&emsp;&emsp;&emsp;&emsp;(I) hotel,
+
+&emsp;&emsp;&emsp;&emsp;(II) motel, or
+
+&emsp;&emsp;&emsp;&emsp;(III) other establishment more than one-half of the dwelling units in which are used on a transient basis.
 
 #### (iii) Customary amenities and facilities
 
@@ -384,7 +390,7 @@ Administrative provisions.—For purposes of subtitle F, the taxes imposed by th
 
 #### (1) Foreclosure property defined
 
-&emsp;For purposes of this part, the term “foreclosure property” means any real property (including interests in real property), and any personal property incident to such real property, acquired by the real estate investment trust as the result of such trust having bid in such property at foreclosure, or having otherwise reduced such property to ownership or possession by agreement or process of law, after there was default (or default was imminent) on a lease of such property or on an indebtedness which such property secured. Such term does not include property acquired by the real estate investment trust as a result of indebtedness arising from the sale or other disposition of property of the trust described in section 1221(a)(1) which was not originally acquired as foreclosure property.
+&emsp;For purposes of this part, the term “foreclosure property” means any real property (including interests in real property), and any personal property incident to such real property, acquired by the real estate investment trust as the result of such trust having bid in such property at foreclosure, or having otherwise reduced such property to ownership or possession by agreement or process of law, after there was default (or default was imminent) on a lease of such property or on an indebtedness which such property secured. Such term does not include property acquired by the real estate investment trust as a result of indebtedness arising from the sale or other disposition of property of the trust describedin section 1221(a)(1) which was not originally acquired as foreclosure property.
 
 #### (2) Grace period
 
@@ -682,7 +688,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) securities having a value of more than 35 percent of the total value of the outstanding securities of such corporation.
 
-> &emsp;The preceding sentence shall not apply to a qualified REIT subsidiary (as defined in subsection (i)(2)). The rule of section 856(c)(7) shall apply for purposes of subparagraph (B).
+> &emsp;The preceding sentence shall not apply to a qualified REIT subsidiary (as defined in subsection (i)(2)). For purposes of subparagraph (B), securities described in subsection (m)(2)(A) shall not be taken into account.
 
 #### (3) Exceptions
 
@@ -758,7 +764,7 @@ For purposes of this part—
 
 &emsp;&emsp;For purposes of applying subclause (III) of subsection (c)(4)(B)(iii)—
 
-&emsp;&emsp;&emsp;(i) a trust's interest as a partner in a partnership (as defined in section7701(a)(2)) shall not be considered a security, and
+&emsp;&emsp;&emsp;(i) a trust's interest as a partner in a partnership (as defined in section 7701(a)(2)) shall not be considered a security, and
 
 &emsp;&emsp;&emsp;(ii) the trust shall be deemed to own its proportionate share of each of the assets of the partnership.
 
@@ -800,7 +806,7 @@ For purposes of this part—
 
 &emsp;&emsp;If the successor of a trust to which this paragraph applies acquires securities in a transaction to which section 381 applies, such trusts shall be treated as a single entity for purposes of determining the holding period of such securities under subparagraph (A).
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940–1943, 1948, 1949; Pub. L. 106–554, §1(a)(7) \[title III, §319(9), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title II, §243(a), (b), (d), (f)(1)–(3), title VIII, §835(b)(4), Oct. 22, 2004, 118 Stat. 1439, 1441–1444, 1593; Pub. L. 109–135, title IV, §§403(d)(1), (2), 412(hh), Dec. 21, 2005, 119 Stat. 2620, 2622, 2639.)
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940–1943, 1948, 1949; Pub. L. 106–554, §1(a)(7) \[title III, §319(9), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title II, §243(a), (b), (d), (f)(1)–(3), title VIII, §835(b)(4), Oct. 22, 2004, 118 Stat. 1439, 1441–1444, 1593; Pub. L. 109–135, title IV, §§403(d)(1), (2), 412(hh), Dec. 21, 2005, 119 Stat. 2620, 2622, 2639; Pub. L. 110–172, §§9(b), 11(a)(18), Dec. 29, 2007, 121 Stat. 2484, 2486.)
 
 #### References in Text
 
@@ -813,6 +819,10 @@ The date of the enactment of this subparagraph, referred to in subsec. (m)(3)(B)
 Section 243 of the American Jobs Creation Act of 2004, referred to in subsec. (m)(6)(A)(ii), is section 243 of Pub. L. 108–357, which amended this section and sections 857 and 860 of this title and enacted provisions set out as a note under this section.
 
 #### Amendments
+
+2007—Subsec. (d)(9)(D)(ii). Pub. L. 110–172, §9(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘lodging facility’ means a hotel, motel, or other establishment more than one-half of the dwelling units in which are used on a transient basis.”
+
+Subsec. (<i>l</i>)(2). Pub. L. 110–172, §11(a)(18), in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: “The rule of section 856(c)(7) shall apply for purposes of subparagraph (B).”
 
 2005—Subsec. (c)(7). Pub. L. 109–135, §403(d)(1), reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) to (C) relating to rules of application for a corporation, trust, or association that fails to satisfy the requirements of paragraph (4) of this subsection.
 
@@ -892,7 +902,7 @@ Subsec. (c)(5). Pub. L. 105–34, §1255(a)(3), redesignated par. (6) as (5). Fo
 
 Subsec. (c)(5)(G). Pub. L. 105–34, §1258, amended heading and text of subpar. (G) generally. Prior to amendment, text read as follows: “Except to the extent provided by regulations, any—
 
-&emsp;“(i) payment to a real estate investment trust under a bona fide interest rate swap or cap agreement entered into by the real estate investment trust to hedge any variable rate indebtedness of such trust incurred or to be incurred to acquire or carry real estate assets, and
+&emsp;“(i) payment to a real estate investment trust under a bona fide interest rate swap or cap agreemententered into by the real estate investment trust to hedge any variable rate indebtedness of such trust incurred or to be incurred to acquire or carry real estate assets, and
 
 &emsp;“(ii) any gain from the sale or other disposition of such agreement,
 
@@ -902,7 +912,7 @@ Pub. L. 105–34, §1255(b)(1), struck out “and such agreement shall be treate
 
 Subsec. (c)(6), (7). Pub. L. 105–34, §1255(a)(3), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-Subsec. (c)(8). Pub. L. 105–34, §1255(a)(2), struck out heading and text of par. (8). Text read as follows: “Inthe case of the taxable year in which a real estate investment trust is completely liquidated, there shall not be taken into account under paragraph (4) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.”
+Subsec. (c)(8). Pub. L. 105–34, §1255(a)(2), struck out heading and text of par. (8). Text read as follows: “In the case of the taxable year in which a real estate investment trust is completely liquidated, there shall not be taken into account under paragraph (4) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.”
 
 Subsec. (d)(2). Pub. L. 105–34, §1252(a), added subpar. (C) and struck out former subpar. (C) and concluding provisions which read as follows:
 
@@ -978,7 +988,7 @@ Subsec. (d)(2). Pub. L. 99–514, §663(a), (b)(3), inserted reference to par. (
 
 Subsec. (d)(6). Pub. L. 99–514, §663(b)(1), added par. (6).
 
-Subsec. (f). Pub. L. 99–514, §663(b)(2), amended subsec. (f) generally, restating former introductory provisionsand par. (1) as introductory provisions of par. (1) and as subpar. (A), restating provisions of par. (2), adding subpar. (1)(B), and striking out former concluding provisions which read as follows: “The provisions of this subsection shall apply only with respect to amounts received or accrued pursuant to loans made after May 27, 1976. For purposes of the preceding sentence, a loan is considered to be made before May 28, 1976, if such loan is made pursuant to a binding commitment entered into before May 28, 1976.”
+Subsec. (f). Pub. L. 99–514, §663(b)(2), amended subsec. (f) generally, restating former introductory provisions and par. (1) as introductory provisions of par. (1) and as subpar. (A), restating provisions of par. (2), adding subpar. (1)(B), and striking out former concluding provisions which read as follows: “The provisions of this subsection shall apply only with respect to amounts received or accrued pursuant to loans made after May 27, 1976. For purposes of the preceding sentence, a loan is considered to be made before May 28, 1976, if such loan is made pursuant to a binding commitment entered into before May 28, 1976.”
 
 Subsec. (h). Pub. L. 99–514, §661(a)(2), added subsec. (h).
 
@@ -1038,6 +1048,10 @@ Subsec. (e). Pub. L. 93–625, §6(a), added subsec. (e).
 
 Subsec. (d). Pub. L. 88–554 inserted reference to subparagraph (C) of section 318(a)(3) of this title.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by section 9(b) of Pub. L. 110–172 effective as if included in the provision of the Tax Relief Extension Act of 1999, Pub. L. 106–170, to which such amendment relates, see section 9(c) of Pub. L. 110–172, set out as a note under section 45 of this title.
+
 #### Effective Date of 2005 Amendment
 
 Amendments by section 403(d)(1), (2) of Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
@@ -1050,7 +1064,7 @@ Pub. L. 108–357, title II, §243(g), Oct. 22, 2004, 118 Stat. 1445, as amended
 
 Subsections (a)
 
-and (b).—The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 2000.
+and (b).—The amendments made by subsections (a) and (b) \[amending this section\] shallapply to taxable years beginning after December 31, 2000.
 
 “(2)
 
@@ -1158,7 +1172,7 @@ Section 13149(b) of Pub. L. 103–66 provided that: “The amendment made by thi
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(p)(4)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Section 1006(p)(4)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
 Amendment by section 1006(p)(1), (3), (5), (q), (t)(11) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -1170,7 +1184,7 @@ Section 669 of subtitle G (§§661–668) of title VI of Pub. L. 99–514, as am
 
 “(a)
 
-General Rule.—Except as otherwise provided in this section, the amendments made by this subtitle \[amending this section and sections 857 to 860, 4981, and6697 of this title\] shall apply to taxable years beginning after December 31, 1986.
+General Rule.—Except as otherwise provided in this section, the amendments made by this subtitle \[amending this section and sections 857 to 860, 4981, and 6697 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
 “(b)
 
@@ -1222,7 +1236,7 @@ Section 6(e) of Pub. L. 93–625, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Effective Date of 1964 Amendments
 
-Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of sections 302 and 304 of this title, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
+Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of sections 302 and 304 of thistitle, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
 
 Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(<i>l</i>) of Pub. L. 88–272, set out as a note under section 316 of this title.
 
@@ -1232,7 +1246,7 @@ Section 10(k) of Pub. L. 86–779 provided that: “The amendments made by this 
 
 #### Study Relating To Taxable REIT Subsidiaries
 
-Pub. L. 106–170, title V, §547, Dec. 17, 1999, 113 Stat. 1947, provided that: “The Secretary of the Treasury shall conduct a study to determine how many taxableREIT subsidiaries are in existence and the aggregate amount of taxes paid by such subsidiaries. The Secretary shall submit a report to the Congress describing the results of such study.”
+Pub. L. 106–170, title V, §547, Dec. 17, 1999, 113 Stat. 1947, provided that: “The Secretary of the Treasury shall conduct a study to determine how many taxable REIT subsidiaries are in existence and the aggregate amount of taxes paid by such subsidiaries. The Secretary shall submit a report to the Congress describing the results of such study.”
 
 #### Trust Not Disqualified in Certain Cases Where Income Tests Not Met
 

@@ -28,5 +28,5 @@ Pub. L. 102–73, §2, July 25, 1991, 105 Stat. 333, stated findings of Congress
 
 #### Definitions
 
-Pub. L. 102–73, §3, July 25, 1991, 105 Stat. 334, defined the term “literacy” for purposes of Pub. L. 102–73, prior to repeal by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079.
+Pub. L. 102–73, §3, July 25, 1991, 105 Stat. 334, defined the term “literacy” for purposes of Pub. L. 102–73, priorto repeal by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079.
 

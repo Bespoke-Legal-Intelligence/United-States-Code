@@ -74,5 +74,3 @@ Subsec. (i). Pub. L. 103–160, §1105(b)(1), substituted “Periodic Audits” 
 
 1991—Subsec. (g)(1). Pub. L. 102–190 inserted “(1)” before “Upon request”.
 
-§2609
-

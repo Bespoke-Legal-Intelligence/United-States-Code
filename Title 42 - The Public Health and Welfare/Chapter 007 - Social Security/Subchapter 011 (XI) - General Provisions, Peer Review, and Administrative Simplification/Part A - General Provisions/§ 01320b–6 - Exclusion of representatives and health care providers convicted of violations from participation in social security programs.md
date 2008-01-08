@@ -60,7 +60,7 @@ The Commissioner shall—
 
 &emsp;(B) there are reasonable assurances that the types of actions which formed the basis for the original exclusion have not recurred and will not recur.
 
-(3) The Commissioner shall promptly notify each State agency employed for the purpose ofmaking disability determinations under section 421 or 1383b(a) of this title of the fact and circumstances of each termination of exclusion made under this subsection.
+(3) The Commissioner shall promptly notify each State agency employed for the purpose of making disability determinations under section 421 or 1383b(a) of this title of the fact and circumstances of each termination of exclusion made under this subsection.
 
 #### (g) Availability of records of excluded representatives and health care providers
 
@@ -106,7 +106,7 @@ For purposes of this section:
 
 #### References in Text
 
-Section 212(b) of Public Law 93–66, referred to in subsec. (j)(2), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212(b) of Public Law 93–66, referred to in subsec. (j)(2), is section 212(b) of Pub. L. 93–66, title II, July9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
 #### Prior Provisions
 

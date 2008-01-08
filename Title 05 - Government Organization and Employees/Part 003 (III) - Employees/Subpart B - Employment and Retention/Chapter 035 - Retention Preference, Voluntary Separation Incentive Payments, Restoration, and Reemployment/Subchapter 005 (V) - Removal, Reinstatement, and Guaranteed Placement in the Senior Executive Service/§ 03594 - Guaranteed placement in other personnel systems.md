@@ -4,7 +4,7 @@
 
 (b) A career appointee who has completed the probationary period under section 3393(d) of this title, and who—
 
-&emsp;(1) is removed from the Senior Executive Service for less than fully successful executiveperformance as determined under subchapter II of chapter 43 of this title; or
+&emsp;(1) is removed from the Senior Executive Service for less than fully successful executive performance as determined under subchapter II of chapter 43 of this title; or
 
 &emsp;(2) is removed from the Senior Executive Service under paragraph (4) or (5) of section 3595(b) of this title;
 

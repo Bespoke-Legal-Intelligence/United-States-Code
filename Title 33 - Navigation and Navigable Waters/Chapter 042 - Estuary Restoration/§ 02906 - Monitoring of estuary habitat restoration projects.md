@@ -14,7 +14,7 @@ The Under Secretary, in consultation with the Council, shall develop standard da
 
 #### (d) Coordination of data
 
-The Under Secretary shall compile information that pertains to estuary habitat restoration projects from other Federal, State, and local sources and that meets the quality control requirements and data standards established under this section.
+The Under Secretary shall have general data compilation, coordination, and analysis responsibilities to carry out this chapter and in support of the strategy developed under this section, including compilation of information that pertains to estuary habitat restoration projects from other Federal, State, and local sources and that meets the quality control requirements and data standards established under this section.
 
 #### (e) Use of existing programs
 
@@ -24,5 +24,9 @@ The Under Secretary shall use existing programs within the National Oceanic and 
 
 The Under Secretary shall make the information collected and maintained under this section available to the public.
 
-(Pub. L. 106–457, title I, §107, Nov. 7, 2000, 114 Stat. 1964.)
+(Pub. L. 106–457, title I, §107, Nov. 7, 2000, 114 Stat. 1964; Pub. L. 110–114, title V, §5017(e), Nov. 8, 2007, 121 Stat. 1198.)
+
+#### Amendments
+
+2007—Subsec. (d). Pub. L. 110–114 substituted “have general data compilation, coordination, and analysis responsibilities to carry out this chapter and in support of the strategy developed under this section, including compilation of” for “compile”.
 

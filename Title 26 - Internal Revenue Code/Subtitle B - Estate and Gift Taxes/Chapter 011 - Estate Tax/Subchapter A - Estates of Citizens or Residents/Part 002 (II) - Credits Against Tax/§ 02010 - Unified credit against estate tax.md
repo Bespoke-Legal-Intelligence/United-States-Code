@@ -90,7 +90,7 @@ Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, seesection 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1981 Amendment
 

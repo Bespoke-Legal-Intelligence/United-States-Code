@@ -12,7 +12,7 @@
 
 #### (3) Designation
 
-&emsp;Within 60 calendar days after the receipt of a request under paragraph (2), the Secretaryshall determine whether the drug that is the subject of the request meets the criteria described in paragraph (1). If the Secretary finds that the drug meets the criteria, the Secretary shall designate the drug as a fast track product and shall take such actions as are appropriate to expedite the development and review of the application for approval of such product.
+&emsp;Within 60 calendar days after the receipt of a request under paragraph (2), the Secretary shall determine whether the drug that is the subject of the request meets the criteria described in paragraph (1). If the Secretary finds that the drug meets the criteria, the Secretary shall designate the drug as a fast track product and shall take such actions as are appropriate to expedite the development and review of the application for approval of such product.
 
 #### (b) Approval of application for fast track product
 

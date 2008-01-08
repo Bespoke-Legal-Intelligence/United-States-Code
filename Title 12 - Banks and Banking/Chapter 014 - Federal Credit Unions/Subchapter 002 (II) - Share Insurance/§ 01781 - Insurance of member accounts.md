@@ -6,7 +6,7 @@ The Board, as hereinafter provided, shall insure the member accounts of all Fede
 
 #### (b) Application; agreement
 
-Application for insurance of member accounts shall be made immediately by each Federal credit union and may be made at any time by aState credit union or a credit union operating under the jurisdiction of the Department of Defense. Applications for such insurance shall be in such form as the Board shall provide and shall contain an agreement by the applicant—
+Application for insurance of member accounts shall be made immediately by each Federal credit union and may be made at any time by a State credit union or a credit union operating under the jurisdiction of the Department of Defense. Applications for such insurance shall be in such form as the Board shall provide and shall contain an agreement by the applicant—
 
 &emsp;(1) to pay the reasonable cost of such examinations as the Board may deem necessary in connection with determining the eligibility of the applicant for insurance: <i>Provided</i>, That examinations required under subchapter I of this chapter shall be so conducted that the information derived therefrom may be utilized for share insurance purposes, and examinations conducted by State regulatory agencies shall be utilized by the Board for such purposes to the maximum extent feasible;
 

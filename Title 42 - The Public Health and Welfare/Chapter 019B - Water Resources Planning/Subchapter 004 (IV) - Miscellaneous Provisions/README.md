@@ -12,7 +12,7 @@
 - [&sect; 01962d&#8211;4 - Northeastern United States water supply](%C2%A7%2001962d%E2%80%934%20-%20Northeastern%20United%20States%20water%20supply.md)
 - [&sect; 01962d&#8211;5 - Water resources development projects involving navigation, flood control, and shore protection](%C2%A7%2001962d%E2%80%935%20-%20Water%20resources%20development%20projects%20involving%20navigation%2C%20flood%20control%2C%20and%20shore%20protection.md)
 - [&sect; 01962d&#8211;5a - Reimbursement to States](%C2%A7%2001962d%E2%80%935a%20-%20Reimbursement%20to%20States.md)
-- [&sect; 01962d&#8211;5b - Water resources projects; written agreement requirement](%C2%A7%2001962d%E2%80%935b%20-%20Water%20resources%20projects%3B%20written%20agreement%20requirement.md)
+- [&sect; 01962d&#8211;5b - Written agreement requirement for water resources projects](%C2%A7%2001962d%E2%80%935b%20-%20Written%20agreement%20requirement%20for%20water%20resources%20projects.md)
 - [&sect; 01962d&#8211;5c - Non-Federal public bodies, installment construction payments](%C2%A7%2001962d%E2%80%935c%20-%20Non-Federal%20public%20bodies%2C%20installment%20construction%20payments.md)
 - [&sect; 01962d&#8211;5d - Authorization of Secretary of the Army to contract with States and political subdivisions for increased law enforcement services&#8230;](%C2%A7%2001962d%E2%80%935d%20-%20Authorization%20of%20Secretary%20of%20the%20Army%20to%20contract%20with%20States%20and%20political%20subdivisions%20for%20increased%20law%20enforcement%20services%E2%80%A6.md)
 - [&sect; 01962d&#8211;5e - Wetland areas](%C2%A7%2001962d%E2%80%935e%20-%20Wetland%20areas.md)

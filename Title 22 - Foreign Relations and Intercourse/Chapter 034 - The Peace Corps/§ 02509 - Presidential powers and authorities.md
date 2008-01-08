@@ -16,7 +16,7 @@ In furtherance of the purposes of this chapter, the President may—
 
 #### (b) Claim settlements
 
-Notwithstanding any other provision of law, whenever the President determines that it will further the purposes of this chapter, the President, under such regulations as he may prescribe, may settle and pay, in an amount not exceeding $20,000, any claim against the United States, for loss of or damage to real or personal property (including loss of occupancy or use thereof) belonging to, or for personal injury or death of, any person not a citizen or resident of the United States, where such claim arises abroad out of the act or omission of any Peace Corps employee or out of the act or omission of any volunteer, but only if such claim is presented in writing within one year after it accrues. Any amount paid in settlement of any claim under this subsection shall be accepted by the claimant in full satisfaction thereof and shall bar any further action or proceeding thereon.
+Notwithstanding any other provision of law, whenever the President determines that it will further the purposes of this chapter, the President, under such regulations as he may prescribe, may settle and pay, in an amount not exceeding $20,000, any claim against the United States, for loss of or damage to real or personal property (including loss of occupancy or use thereof) belonging to, or for personal injury or death of, any person not a citizen or resident of the United States, where such claim arises abroad out of the act or omission of any Peace Corps employee or out of the act or omission of any volunteer, but only if such claim is presented in writing within one year after it accrues. Any amount paid in settlement of any claim under this subsection shall be accepted by the claimant in full satisfaction thereof andshall bar any further action or proceeding thereon.
 
 #### (c) Five-year contract authority
 
@@ -36,7 +36,7 @@ Any officer of the United States Government carrying out functions under this ch
 
 #### (g) Reimbursement for commodities, services, and facilities
 
-In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to such agency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actualcost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similar commodities, services, or facilities, except that where such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
+In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to such agency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actual cost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similar commodities, services, or facilities, except that where such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
 
 #### (h) Hospitalization and medical treatment for Foreign Service local employees
 
@@ -54,7 +54,7 @@ The provisions of section 2702 of this title shall apply to volunteers and perso
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, seeShort Title note set out under section 2501 of this title and Tables.
 
 The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note preceding section 1211 of Title 50, Appendix.
 
@@ -94,7 +94,7 @@ Funds available to President under this chapter allocated to and functions of Pr
 
 #### Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection
 
-Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authorities provided by the amendmentsmade by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
+Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authorities provided by the amendments made by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
 
 #### Waiver of Certain Laws by President Under Subsec. (d)
 

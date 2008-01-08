@@ -2,7 +2,7 @@
 
 Congress finds that—
 
-&emsp;(1) the Bureau of Land Management has authority under the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) to sell land identified for disposal under its land use planning;
+&emsp;(1) the Bureau of Land Management has authority under the Federal Land Policy andManagement Act of 1976 (43 U.S.C. 1701 et seq.) to sell land identified for disposal under its land use planning;
 
 &emsp;(2) the Bureau of Land Management has authority under that Act to exchange Federal land for non-Federal land if the exchange would be in the public interest;
 
@@ -48,5 +48,5 @@ The Federal Land Policy and Management Act of 1976, referred to in pars. (1) to 
 
 #### Short Title
 
-Pub. L. 106–248, title II, §201, July 25, 2000, 114 Stat. 613, provided that: “This title \[enacting this chapter\]may be cited as the ‘Federal Land Transaction Facilitation Act’.”
+Pub. L. 106–248, title II, §201, July 25, 2000, 114 Stat. 613, provided that: “This title \[enacting this chapter\] may be cited as the ‘Federal Land Transaction Facilitation Act’.”
 

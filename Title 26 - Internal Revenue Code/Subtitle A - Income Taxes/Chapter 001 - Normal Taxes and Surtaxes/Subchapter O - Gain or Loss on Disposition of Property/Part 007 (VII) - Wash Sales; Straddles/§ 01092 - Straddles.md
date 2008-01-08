@@ -18,11 +18,17 @@
 
 &emsp;&emsp;In the case of any straddle which is an identified straddle—
 
-&emsp;&emsp;&emsp;(i) paragraph (1) shall not apply with respect to identified positions comprising the identified straddle,
+&emsp;&emsp;&emsp;(i) paragraph (1) shall not apply with respect to positions comprising the identified straddle,
 
-&emsp;&emsp;&emsp;(ii) if there is any loss with respect to any identified position of the identified straddle, the basis of each of the identified offsetting positions in the identified straddle shall be increased by an amount which bears the same ratio to the loss as the unrecognized gain with respect to such offsetting position bears to the aggregate unrecognized gain with respect to all such offsetting positions, and
+&emsp;&emsp;&emsp;(ii) if there is any loss with respect to any position of the identified straddle, the basis of each of the offsetting positions in the identified straddle shall be increased by an amount which bears the same ratio to the loss as the unrecognized gain with respect to such offsetting position bears to the aggregate unrecognized gain with respect to all such offsetting positions,
 
-&emsp;&emsp;&emsp;(iii) any loss described in clause (ii) shall not otherwise be taken into account for purposes of this title.
+&emsp;&emsp;&emsp;(iii) if the application of clause (ii) does not result in an increase in the basis of any offsetting position in the identified straddle, the basis of each of the offsetting positions in the identified straddle shall be increased in a manner which—
+
+&emsp;&emsp;&emsp;&emsp;(I) is reasonable, consistent with the purposes of this paragraph, and consistently applied by the taxpayer, and
+
+&emsp;&emsp;&emsp;&emsp;(II) results in an aggregate increase in the basis of such offsetting positions which is equal to the loss described in clause (ii), and
+
+&emsp;&emsp;&emsp;(iv) any loss described in clause (ii) shall not otherwise be taken into account for purposes of this title.
 
 #### (B) Identified straddle
 
@@ -38,9 +44,15 @@
 
 &emsp;&emsp;&emsp;(iii) which is not part of a larger straddle.
 
-#### (C) Regulations
+> &emsp;&emsp;A straddle shall be treated as clearly identified for purposes of clause (i) only if such identification includes an identification of the positions in the straddle which are offsetting with respect <sup>1</sup> other positions in the straddle.
 
-&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph. Such regulations or other guidance may specify the proper methods for clearly identifying a straddle as an identified straddle (and for identifying the positions comprising such straddle), the rules for the application of this section to a taxpayer which fails to comply with those identification requirements, and the ordering rules in cases where a taxpayer disposes (or otherwise ceases to be the holder) of any part of any position which is part of an identified straddle.
+#### (C) Application to liabilities and obligations
+
+&emsp;&emsp;Except as otherwise provided by the Secretary, rules similar to the rules of clauses (ii) and (iii) of subparagraph (A) shall apply for purposes of this paragraph with respect to any position which is, or has been, a liability or obligation.
+
+#### (D) Regulations
+
+&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph. Such regulations or other guidance may specify the proper methods for clearly identifying a straddle as an identified straddle (and for identifying the positions comprising such straddle), the rules for the application of this section to a taxpayer which fails to comply with those identification requirements, the rules for the application of this section to a position which is or has been a liability or obligation, methods of loss allocation which satisfy the requirements of subparagraph (A)(iii), and the ordering rules in cases where a taxpayer disposes (or otherwise ceases to be the holder) of any part of any position which is part of an identified straddle.
 
 #### (3) Unrecognized gain
 
@@ -56,7 +68,7 @@
 
 #### (B) Special rule for identified straddles
 
-&emsp;&emsp;For purposes of paragraph (2)(A)(ii), the unrecognized gain with respect to any identified offsetting position shall be the excess of the fair market value of the position at the time of the determination over the fair market value of the position at the time the taxpayer identified the position as a position in an identified straddle.
+&emsp;&emsp;For purposes of paragraph (2)(A)(ii), the unrecognized gain with respect to any offsetting position shall be the excess of the fair market value of the position at the time of the determination over the fair market value of the position at the time the taxpayer identified the position as a position in an identified straddle.
 
 #### (C) Reporting of gain
 
@@ -156,7 +168,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(vi) there are such other factors (or satisfaction of subjective or objective tests) as the Secretary may by regulations prescribe as indicating that such positions are offsetting.
 
-> &emsp;&emsp;For purposes of the preceding sentence, 2 or more positions shall be treated as describedin clause (i), (ii), (iii), or (vi) only if the value of 1 or more of such positions ordinarily varies inversely with the value of 1 or more other such positions.
+> &emsp;&emsp;For purposes of the preceding sentence, 2 or more positions shall be treated as described in clause (i), (ii), (iii), or (vi) only if the value of 1 or more of such positions ordinarily varies inversely with the value of 1 or more other such positions.
 
 #### (B) Presumption may be rebutted
 
@@ -238,7 +250,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) such stock or option was not held by the taxpayer for 30 days or more after the closing of such options or the disposition of such stock.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the rules of paragraphs (3) (other than subparagraph (B) <sup>1</sup> thereof) and (4) of section 246(c) shall apply in determining the period for which the taxpayer holds the stock.
+> &emsp;&emsp;For purposes of the preceding sentence, the rules of paragraphs (3) (other than subparagraph (B) <sup>2</sup> thereof) and (4) of section 246(c) shall apply in determining the period for which the taxpayer holds the stock.
 
 #### (F) Strike price
 
@@ -250,7 +262,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the closing price of such stock on the most recent day on which such stock was traded before the date on which such option was granted, or
 
-&emsp;&emsp;&emsp;(ii) the opening price of such stock on the day on which such option was granted, but only if such price is greater than 110percent of the price determined under clause (i).
+&emsp;&emsp;&emsp;(ii) the opening price of such stock on the day on which such option was granted, but only if such price is greater than 110 percent of the price determined under clause (i).
 
 #### (H) Regulations
 
@@ -354,13 +366,27 @@ If a taxpayer holds any stock and grants a qualified covered call option to purc
 
 &emsp;&emsp;<b>For provision requiring capitalization of certain interest and carrying charges where there is a straddle, see section 263(g).</b>
 
-(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719; Pub. L. 105–34, title XII, §1271(b)(9), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 106–170, title V, §532(c)(1)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 108–357, title VIII, §888(a)–(c)(1), Oct. 22, 2004, 118 Stat. 1642, 1643; Pub. L. 109–135, title IV, §403(ii), Dec. 21, 2005, 119 Stat. 2632.)
+(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719; Pub. L. 105–34, title XII, §1271(b)(9), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 106–170, title V, §532(c)(1)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 108–357, title VIII, §888(a)–(c)(1), Oct. 22, 2004, 118 Stat. 1642, 1643; Pub. L. 109–135, title IV, §403(ii), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–172, §7(d), Dec. 29, 2007, 121 Stat. 2482.)
 
 #### References in Text
 
 Section 246(c)(3) of this title, referred to in subsec. (c)(4)(E), was amended by Pub. L. 105–34, title X, §1015(b)(2), Aug. 5, 1997, 111 Stat. 922, by striking out subpar. (B) and redesignating subpar. (C) as (B).
 
 #### Amendments
+
+2007—Subsec. (a)(2)(A)(i). Pub. L. 110–172, §7(d)(2)(B)(i), substituted “positions” for “identified positions”.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 110–172, §7(d)(2)(B)(ii), (iii), substituted “any position” for “any identified position” and “the offsetting positions” for “the identified offsetting positions”.
+
+Pub. L. 110–172, §7(d)(1), struck out “and” at end.
+
+Subsec. (a)(2)(A)(iii), (iv). Pub. L. 110–172, §7(d)(1), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+Subsec. (a)(2)(B). Pub. L. 110–172, §7(d)(2)(A), inserted concluding provisions.
+
+Subsec. (a)(2)(C), (D). Pub. L. 110–172, §7(d)(3), (4), added subpar. (C), redesignated former subpar. (C) as (D), and inserted “the rules for the application of this section to a position which is or has been a liability or obligation, methods of loss allocation which satisfy the requirements of subparagraph (A)(iii),” before “and the ordering rules” in subpar. (D).
+
+Subsec. (a)(3)(B). Pub. L. 110–172, §7(d)(2)(C), substituted “offsetting position” for “identified offsetting position”.
 
 2005—Subsec. (a)(2). Pub. L. 109–135 added subpar. (C) and struck out concluding provisions of subpar. (B) which read as follows: “The Secretary shall prescribe regulations which specify the proper methods for clearly identifying a straddle as an identified straddle (and the positions comprising such straddle), which specify the rules for the application of this section for a taxpayer which fails to properly identify the positions of an identified straddle, and which specify the ordering rules in cases where a taxpayer disposes of less than an entire position which is part of an identified straddle.”
 
@@ -437,6 +463,18 @@ Subsec. (a)(3)(B)(i)(II). Pub. L. 97–448, §105(a)(1)(C), substituted “unrec
 Subsec. (c)(2)(C). Pub. L. 97–448, §105(a)(4), substituted “subsection (a)(2)(B)” for “subsection (a)(3)(B)”.
 
 Subsec. (d)(4). Pub. L. 97–448, §105(a)(3), substituted “a straddle at least 1 (but not all) of the positions of which are regulated futures contracts, the provisions of this section shall apply” for “a straddle— (A) at lease 1 (but not all) of the positions of which are regulated futures contracts, and (B) with respect to which the taxpayer has elected not to have the provisions of section 1256 apply, the provisions of this section shall apply”.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–172, §7(e), Dec. 29, 2007, 121 Stat. 2483, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 45, 45H, 179B, 280C, 470, 1016, and 6501 of this title\] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which they relate.
+
+“(2)
+
+Identification requirement of amendment related to section 888 of the american jobs creation act of 2004.—The amendment made by subsection (d)(2)(A) \[amending this section\] shall apply to straddles acquired after the date of the enactment of this Act \[Dec. 29, 2007\].”
 
 #### Effective Date of 2005 Amendment
 

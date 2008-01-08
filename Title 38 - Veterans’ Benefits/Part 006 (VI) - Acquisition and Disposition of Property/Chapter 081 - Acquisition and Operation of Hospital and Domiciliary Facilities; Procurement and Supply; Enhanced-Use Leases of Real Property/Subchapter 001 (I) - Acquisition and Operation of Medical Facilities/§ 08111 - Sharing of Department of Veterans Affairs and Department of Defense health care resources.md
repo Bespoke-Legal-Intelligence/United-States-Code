@@ -30,7 +30,7 @@ Joint Incentives Program.—(1) Pursuant to subsection (b)(4), the two Secretari
 
 Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements.—(1) To implement the recommendations made by the Department of Veterans Affairs-Department of Defense Joint Executive Committee with respect to health care resources, as well as to carry out other health care contracts and agreements for coordination and sharing initiatives as they consider appropriate, the two Secretaries shall jointly issue guidelines and policy directives. Such guidelines and policies shall provide for coordination and sharing that—
 
-&emsp;(A) is consistent with the health care responsibilities of the Department of VeteransAffairs under this title and with the health care responsibilities of the Department of Defense under chapter 55 of title 10;
+&emsp;(A) is consistent with the health care responsibilities of the Department of Veterans Affairs under this title and with the health care responsibilities of the Department of Defense under chapter 55 of title 10;
 
 &emsp;(B) will not adversely affect the range of services, the quality of care, or the established priorities for care provided by either Department; and
 
@@ -82,7 +82,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 (4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shall include in the annual report under this subsection for each year through 2008 the following:
 
-&emsp;(A) A description of the measures taken, or planned to be taken, to implement the health resources sharing project under section 722 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and any cost savings anticipated, or cost sharing achieved, at facilities participating in the project, including information on improvements in access to care, quality, and timeliness, as well as impediments encountered and legislative recommendations to ameliorate such impediments.
+&emsp;(A) A description of the measures taken, or planned to be taken, to implement the healthresources sharing project under section 722 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and any cost savings anticipated, or cost sharing achieved, at facilities participating in the project, including information on improvements in access to care, quality, and timeliness, as well as impediments encountered and legislative recommendations to ameliorate such impediments.
 
 &emsp;(B) A description of the use of the waiver authority provided by section 722(d)(1) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314), including—
 
@@ -122,7 +122,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made byPub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Subsec. (b)(1). Pub. L. 109–461, §1004(a)(6), substituted “into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31” for “into the strategic and performance plan of each Department under the Government Performance and Results Act of 1993”.
 
@@ -390,7 +390,7 @@ Pub. L. 102–585, title II, Nov. 4, 1992, 106 Stat. 4949, as amended by Pub. L.
 
 “(a)
 
-Authority.—The Secretary of Veterans Affairs may enter into an agreement with the Secretary of Defense under this section to expand the availability of health-care sharing arrangements with the Department of Defense under section 8111(c) of title 38, United States Code. Under such an agreement—
+Authority.—The Secretary of Veterans Affairs may enter into an agreement with the Secretary of Defense under this section to expand the availability of health-care sharing arrangements with the Departmentof Defense under section 8111(c) of title 38, United States Code. Under such an agreement—
 
 &emsp;“(1) the head of a Department of Veterans Affairs medical facility may enter into agreements under section 8111(d) of that title with (A) the head of a Department of Defense medical facility, (B) with any other official of the Department of Defense responsible for the provision of care under chapter 55 of title 10, United States Code, to persons who are covered beneficiaries under that chapter, in the region of the Department of Veterans Affairs medical facility, or (C) with a contractor of the Department of Defense responsible for the provision of care under chapter 55 of title 10, United States Code, to persons who are covered beneficiaries under that chapter, in the region of the Department of Veterans Affairs medical facility; and
 

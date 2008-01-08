@@ -10,3 +10,7 @@ The report described in subsection (a) of this section shall be submitted in cla
 
 (Pub. L. 107–327, title II, §205, Dec. 4, 2002, 116 Stat. 2808.)
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

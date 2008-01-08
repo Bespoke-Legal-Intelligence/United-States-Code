@@ -32,7 +32,7 @@ In promulgating a general notice of proposed rulemaking or a final rule for whic
 
 #### (c) Preparation in conjunction with other statement
 
-Any agency may prepare any statement required under subsection (a) of this section in conjunction with or as a part of any other statement or analysis, provided that the statement or analysis satisfies the provisions of subsection (a) of this section.
+Any agency may prepare any statement required under subsection (a) of this section inconjunction with or as a part of any other statement or analysis, provided that the statement or analysis satisfies the provisions of subsection (a) of this section.
 
 (Pub. L. 104–4, title II, §202, Mar. 22, 1995, 109 Stat. 64.)
 

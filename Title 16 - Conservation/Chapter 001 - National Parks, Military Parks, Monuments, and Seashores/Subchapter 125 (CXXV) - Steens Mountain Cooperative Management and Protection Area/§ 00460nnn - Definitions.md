@@ -60,13 +60,13 @@ In this subchapter:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000,114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 Part D of this subchapter, referred to in par. (1), probably should be a reference to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
 
 #### Short Title
 
-Pub. L. 106–399, §1(a), Oct. 30, 2000, 114 Stat. 1655, provided that: “This Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title and amending section 1274 of this title\] may be cited as the ‘Steens Mountain Cooperative Management and Protection Act of 2000’.”
+Pub. L. 106–399, §1(a), Oct. 30, 2000, 114 Stat. 1655, provided that: “This Act \[enacting this subchapter andprovisions listed in a table of Wilderness Areas set out under section 1132 of this title and amending section 1274 of this title\] may be cited as the ‘Steens Mountain Cooperative Management and Protection Act of 2000’.”
 
 #### Purposes
 

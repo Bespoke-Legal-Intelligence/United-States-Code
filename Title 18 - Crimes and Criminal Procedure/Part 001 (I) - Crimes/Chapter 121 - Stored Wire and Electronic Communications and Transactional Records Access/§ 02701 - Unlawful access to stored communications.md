@@ -64,5 +64,5 @@ Section 202 of title II of Pub. L. 99–508 provided that: “This title and the
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–618, §1, Nov. 5, 1988, 102 Stat. 3195, provided that: “This Act \[enacting section 2710 of this title and renumbering former section 2710 as 2711 of thistitle\] may be cited as the ‘Video Privacy Protection Act of 1988’.”
+Pub. L. 100–618, §1, Nov. 5, 1988, 102 Stat. 3195, provided that: “This Act \[enacting section 2710 of this title and renumbering former section 2710 as 2711 of this title\] may be cited as the ‘Video Privacy Protection Act of 1988’.”
 

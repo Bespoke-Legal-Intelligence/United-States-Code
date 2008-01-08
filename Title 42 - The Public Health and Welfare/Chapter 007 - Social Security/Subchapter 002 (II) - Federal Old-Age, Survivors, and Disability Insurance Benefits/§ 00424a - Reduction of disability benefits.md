@@ -148,7 +148,7 @@ Section 12109(b) of Pub. L. 99–272 provided that:
 
 “(1) The amendment made by subsection (a)(1) \[amending this section\] shall be effective as though it had been included or reflected in the amendment made by section 2208(a)(3) of the Omnibus Budget Reconciliation Act of 1981 \[Pub. L. 97–35, amending this section\].
 
-“(2) The amendment made by subsection (a)(2) \[amending this section\] shall apply only with respect to monthly benefits payable on the basis of the wages andself-employment income of individuals who become disabled (within the meaning of section 223(d) of the Social Security Act \[section 423(d) of this title\]) after the month in which this Act is enacted \[April 1986\].”
+“(2) The amendment made by subsection (a)(2) \[amending this section\] shall apply only with respect to monthly benefits payable on the basis of the wages and self-employment income of individuals who become disabled (within the meaning of section 223(d) of the Social Security Act \[section 423(d) of this title\]) after the month in which this Act is enacted \[April 1986\].”
 
 #### Effective Date of 1981 Amendment
 

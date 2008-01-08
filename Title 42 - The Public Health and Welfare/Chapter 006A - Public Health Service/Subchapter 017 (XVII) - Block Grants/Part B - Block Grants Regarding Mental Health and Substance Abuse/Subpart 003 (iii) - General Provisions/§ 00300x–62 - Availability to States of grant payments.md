@@ -14,7 +14,7 @@ In General.—Subject to subsection (b) of this section, any amounts paid to a S
 
 “(b)
 
-Exception Regarding Noncompliance of Subgrantees.—If a State has in accordance with subsection (a) of this section obligated amounts paid to the State under the program involved, in any case in which the Secretary determines that the obligation consists of a grant or contract awarded by the State, and that the State has terminated or reduced the amount of such financial assistance on the basis of the failure of the recipient of the assistance to comply with the terms upon which the assistance was conditioned—
+Exception Regarding Noncompliance of Subgrantees.—If a State has in accordance with subsection (a) of this section obligated amounts paid to the State under the program involved, in any case in which the Secretary determines that the obligation consists of a grant or contract awarded by the State, and that the State has terminated or reduced theamount of such financial assistance on the basis of the failure of the recipient of the assistance to comply with the terms upon which the assistance was conditioned—
 
 &emsp;“(1) the amounts involved shall be available for reobligation by the State through September 30 of the fiscal year following the fiscal year for which the amounts were paid to the State; and
 

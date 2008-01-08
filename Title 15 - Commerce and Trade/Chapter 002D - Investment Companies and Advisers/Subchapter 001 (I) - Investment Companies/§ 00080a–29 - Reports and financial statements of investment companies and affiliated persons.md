@@ -56,7 +56,7 @@ The Commission may, by rule, require that semiannual reports containing the info
 
 #### (g) Certificate of independent public accountants
 
-Financial statements contained in annual reports required pursuant to subsections (a) and\(e) of this section, if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
+Financial statements contained in annual reports required pursuant to subsections (a) and (e) of this section, if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
 
 #### (h) Duties and liabilities of affiliated persons
 
@@ -88,7 +88,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is act June 
 
 Subsec. (e). Pub. L. 105–353, §301(c)(5)(B), substituted “semiannually” for “semi-annually” in introductory provisions.
 
-Subsecs. (g) to (j). Pub. L. 105–353, §301(c)(5)(C), redesignated subsecs. (g) and (h), relating to disclosure to church plan participants and notice to Commission, respectively, as (i) and (j), respectively.
+Subsecs. (g) to (j). Pub. L. 105–353, §301(c)(5)(C), redesignated subsecs. (g) and (h), relating to disclosure tochurch plan participants and notice to Commission, respectively, as (i) and (j), respectively.
 
 1996—Subsec. (b)(1). Pub. L. 104–290, §206(1), added par. (1) and struck out former par. (1) which read as follows: “such information and documents (other than financial statements) as the Commission may require, on a semi-annual or quarterly basis, to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and”.
 

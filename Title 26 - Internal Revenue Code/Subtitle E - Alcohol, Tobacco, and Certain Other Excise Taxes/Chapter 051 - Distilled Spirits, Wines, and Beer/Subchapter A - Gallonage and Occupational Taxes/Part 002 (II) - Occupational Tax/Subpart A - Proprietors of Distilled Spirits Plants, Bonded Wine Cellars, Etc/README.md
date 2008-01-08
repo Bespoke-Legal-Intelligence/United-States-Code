@@ -28,7 +28,7 @@ Another prior section 5083, act Aug. 16, 1954, ch. 736, 68A Stat. 616, enumerate
 
 Section 5084, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1339, made cross references to other provisions relating to rectification.
 
-Another prior section 5084, act Aug. 16, 1954, ch. 736, 68A Stat. 616, made cross references to other provisions relating to rectification, prior to the general revision of this chapter by Pub. L. 85–859.
+Another prior section 5084, act Aug. 16, 1954, ch. 736, 68A Stat. 616, made cross references to other provisionsrelating to rectification, prior to the general revision of this chapter by Pub. L. 85–859.
 
 
 ---

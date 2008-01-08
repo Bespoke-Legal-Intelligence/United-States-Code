@@ -28,7 +28,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;In the case of any assessment of interest on—
 
-&emsp;&emsp;(A) any deficiency attributable in whole or in part to any unreasonable error or delay by an officer or employee of the Internal Revenue Service (acting in his official capacity) in performing a ministerial or managerial act, or
+&emsp;&emsp;(A) any deficiency attributable in whole or in part to any unreasonable error or delay by an officer or employee of the InternalRevenue Service (acting in his official capacity) in performing a ministerial or managerial act, or
 
 &emsp;&emsp;(B) any payment of any tax described in section 6212(a) to the extent that any unreasonable error or delay in such payment is attributable to such an officer or employee being erroneous or dilatory in performing a ministerial or managerial act,
 
@@ -66,7 +66,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an individual who files a return of tax imposed by subtitle A for a taxable year on or before the due date for the return (including extensions), if the Secretary does not provide a notice to the taxpayer specifically stating the taxpayer's liability and the basis for the liability before the close of the 18-month period beginning on the later of—
+&emsp;&emsp;In the case of an individual who files a return of tax imposed by subtitle A for a taxable year on or before the due date for the return (including extensions), if the Secretary does not provide a notice to the taxpayer specifically stating the taxpayer's liability and the basis for the liability before the close of the 36-month period beginning on the later of—
 
 &emsp;&emsp;&emsp;(i) the date on which the return is filed; or
 
@@ -100,7 +100,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;For purposes of this subsection, the term “suspension period” means the period—
 
-&emsp;&emsp;(A) beginning on the day after the close of the 18-month period under paragraph (1); and
+&emsp;&emsp;(A) beginning on the day after the close of the 36-month period under paragraph (1); and
 
 &emsp;&emsp;(B) ending on the date which is 21 days after the date on which notice described in paragraph (1)(A) is provided by the Secretary.
 
@@ -128,13 +128,15 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;<b>For authority to suspend running of interest, etc. by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1712, 1834; Pub. L. 96–589, §6(b)(2), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 99–514, title XV, §1563(a), Oct. 22, 1986, 100 Stat. 2762; Pub. L. 100–647, title I, §1015(n), title VI, §6229(a), Nov. 10, 1988, 102 Stat. 3572, 3733; Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1457, 1464; Pub. L. 105–206, title III, §§3305(a), 3309(a), July 22, 1998, 112 Stat. 743, 745; Pub. L. 105–277, div. J, title IV, §4003(e)(2), Oct. 21, 1998,112 Stat. 2681–909; Pub. L. 107–134, title I, §112(d)(1), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–357, title VIII, §903(a)–(c), Oct. 22, 2004, 118 Stat. 1652; Pub. L. 109–135, title III, §303(b)(1), Dec. 21, 2005, 119 Stat. 2609.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1712, 1834; Pub. L. 96–589, §6(b)(2), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 99–514, title XV, §1563(a), Oct. 22, 1986, 100 Stat. 2762; Pub. L. 100–647, title I, §1015(n), title VI, §6229(a), Nov. 10, 1988, 102 Stat. 3572, 3733; Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1457, 1464; Pub. L. 105–206, title III, §§3305(a), 3309(a), July 22, 1998, 112 Stat. 743, 745; Pub. L. 105–277, div. J, title IV, §4003(e)(2), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–134, title I, §112(d)(1), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–357, title VIII, §903(a)–(c), Oct. 22, 2004, 118 Stat. 1652; Pub. L. 109–135, title III, §303(b)(1), Dec. 21, 2005, 119 Stat. 2609; Pub. L. 110–28, title VIII, §8242(a), May 25, 2007, 121 Stat. 200.)
 
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (f)(3), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
 #### Amendments
+
+2007—Subsec. (g)(1)(A), (3)(A). Pub. L. 110–28 substituted “36-month period” for “18-month period”.
 
 2005—Subsec. (g)(1). Pub. L. 109–135 inserted at end “If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.”
 
@@ -182,6 +184,10 @@ Subsec. (f). Pub. L. 100–647, §6229(a), added subsec. (f).
 
 Subsec. (d). Pub. L. 94–455, §1212(a), added subsec. (d).
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–28, title VIII, §8242(b), May 25, 2007, 121 Stat. 200, provided that: “The amendments made by this section \[amending this section\] shall apply to notices provided by the Secretary of the Treasury, or his delegate, after the date which is 6 months after the date of the enactment of this Act \[May 25, 2007\].”
+
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–135, title III, §303(b)(2), Dec. 21, 2005, 119 Stat. 2609, provided that: “The amendment made by this subsection \[amending this section\] shall apply to documents provided on or after the date of the enactment of this Act \[Dec. 21, 2005\].”
@@ -218,7 +224,7 @@ Participants in settlement initiatives.—Clause (i) shall not apply to any tran
 
 &emsp;&emsp;&emsp;“(II) the taxpayer has entered into a settlement agreement pursuant to such an initiative.
 
-&nbsp;&nbsp;Subclause (I) shall not apply to any taxpayer if, after January 23, 2006, the taxpayer withdraws from, or terminates, participation in the initiative or the Secretary of the Treasury or the Secretary's delegate determines that a settlement agreement will not be reached pursuant to the initiative within a reasonable period of time.
+&nbsp;&nbsp;Subclause (I) shall not apply to any taxpayer if, after January 23, 2006, the taxpayer withdraws from, or terminates, participation in the initiativeor the Secretary of the Treasury or the Secretary's delegate determines that a settlement agreement will not be reached pursuant to the initiative within a reasonable period of time.
 
 &emsp;&emsp;“(iii)
 
@@ -242,7 +248,7 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub.L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Pub. L. 105–206, title III, §3305(b), July 22, 1998, 112 Stat. 743, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[July 22, 1998\].”
 

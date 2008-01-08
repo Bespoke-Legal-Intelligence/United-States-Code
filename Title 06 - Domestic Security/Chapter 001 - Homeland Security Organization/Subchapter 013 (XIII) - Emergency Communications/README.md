@@ -2,7 +2,7 @@
 
 #### Codification
 
-This subchapter is comprised of title XVIII of Pub. L. 107–296, as added by Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat. 1433. Another title XVIII of Pub. L. 107–296 was added by Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1932, and is classified to subchapter XIV (§591 et seq.) of this chapter.
+This subchapter is comprised of title XVIII of Pub. L. 107–296, as added by Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat. 1433. Another title XVIII of Pub. L. 107–296 was renumbered title XIX and is classified to subchapter XIV (§591 et seq.) of this chapter.
 
 
 ---
@@ -17,3 +17,5 @@ This subchapter is comprised of title XVIII of Pub. L. 107–296, as added by Pu
 - [&sect; 00576 - Emergency Communications Preparedness Center](%C2%A7%2000576%20-%20Emergency%20Communications%20Preparedness%20Center.md)
 - [&sect; 00577 - Urban and other high risk area communications capabilities](%C2%A7%2000577%20-%20Urban%20and%20other%20high%20risk%20area%20communications%20capabilities.md)
 - [&sect; 00578 - Definition](%C2%A7%2000578%20-%20Definition.md)
+- [&sect; 00579 - Interoperable Emergency Communications Grant Program](%C2%A7%2000579%20-%20Interoperable%20Emergency%20Communications%20Grant%20Program.md)
+- [&sect; 00580 - Border interoperability demonstration project](%C2%A7%2000580%20-%20Border%20interoperability%20demonstration%20project.md)

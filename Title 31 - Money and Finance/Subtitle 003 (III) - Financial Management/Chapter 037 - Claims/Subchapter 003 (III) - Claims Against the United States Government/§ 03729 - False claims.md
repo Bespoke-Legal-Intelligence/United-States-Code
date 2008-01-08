@@ -10,7 +10,7 @@ Liability for Certain Acts.—Any person who—
 
 &emsp;(3) conspires to defraud the Government by getting a false or fraudulent claim allowed or paid;
 
-&emsp;(4) has possession, custody, or control of property or money used, or to be used, by the Government and, intending to defraud the Government or willfully to conceal the property, delivers, or causes to be delivered, less property than the amount for which the person receives a certificate or receipt;
+&emsp;(4) has possession, custody, or control of property or money used, or to be used, by theGovernment and, intending to defraud the Government or willfully to conceal the property, delivers, or causes to be delivered, less property than the amount for which the person receives a certificate or receipt;
 
 &emsp;(5) authorized to make or deliver a document certifying receipt of property used, or to be used, by the Government and, intending to defraud the Government, makes or delivers the receipt without completely knowing that the information on the receipt is true;
 

@@ -172,7 +172,7 @@ Matters covered.—The report shall address the following issues:
 
 &emsp;&emsp;“(B) The extent to which such advisory and assistance services are provided by the same contractors under recurring contracts.
 
-&emsp;&emsp;“(C) The rationale for contracting for advisory and assistance services that will be needed on a continuing basis, rather than performing the services inside the Federal Government.
+&emsp;&emsp;“(C) The rationale for contracting for advisory and assistance services that will be needed on acontinuing basis, rather than performing the services inside the Federal Government.
 
 &emsp;&emsp;“(D) The contract types and oversight mechanisms used by the Federal Government in contracts for advisory and assistance services and the extent to which such contract types and oversight mechanisms are adequate to protect the interests of the Government and taxpayers.
 
@@ -184,5 +184,5 @@ Committees.—The committees described in this paragraph are the following:
 
 &emsp;&emsp;“(A) The Committees on Armed Services and on Homeland Security and Governmental Affairs of the Senate.
 
-&emsp;&emsp;“(B) The Committees on Armed Services and on Government Reform of the House of Representatives.”
+&emsp;&emsp;“(B) The Committees on Armed Services and on Government Reform \[now Oversight and Government Reform\] of the House of Representatives.”
 

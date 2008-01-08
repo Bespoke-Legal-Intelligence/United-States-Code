@@ -60,6 +60,10 @@ This chapter, referred to in subsecs. (b) and (c)(2), was in the original “thi
 
 Section is comprised of section 5 of Pub. L. 109–449. Subsec. (a) of section 5 of Pub. L. 109–449 amended section 1914 of this title.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 <i><sup>1</sup></i><i> See Codification note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The word “identifies” probably should follow “a report that”.</i>

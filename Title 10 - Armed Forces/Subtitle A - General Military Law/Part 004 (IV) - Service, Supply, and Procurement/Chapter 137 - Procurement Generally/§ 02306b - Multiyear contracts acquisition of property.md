@@ -260,6 +260,8 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 110–116, div. A, title VIII, §8010, Nov. 13, 2007, 121 Stat. 1315.
+
 Pub. L. 109–289, div. A, title VIII, §8008, Sept. 29, 2006, 120 Stat. 1273.
 
 Pub. L. 109–148, div. A, title VIII, §8008, Dec. 30, 2005, 119 Stat. 2698.

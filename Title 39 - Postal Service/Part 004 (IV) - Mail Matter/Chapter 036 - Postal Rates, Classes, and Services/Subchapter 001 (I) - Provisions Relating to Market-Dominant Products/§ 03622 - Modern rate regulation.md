@@ -46,7 +46,7 @@ Factors.—In establishing or revising such system, the Postal Regulatory Commis
 
 &emsp;(8) the relative value to the people of the kinds of mail matter entered into the postal system and the desirability and justification for special classifications and services of mail;
 
-&emsp;(9) the importance of providing classifications with extremely high degrees of reliability and speed of delivery and of providing those that do not require high degrees of reliability and speed of delivery;
+&emsp;(9) the importance of providing classifications with extremely high degrees of reliability and speed of delivery and of providingthose that do not require high degrees of reliability and speed of delivery;
 
 &emsp;(10) the desirability of special classifications for both postal users and the Postal Service in accordance with the policies of this title, including agreements between the Postal Service and postal users, when available on public and reasonable terms to similarly situated mailers, that—
 
@@ -142,7 +142,7 @@ Workshare Discounts.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term “workshare discount” refers to rate discounts provided to mailers for the presorting,prebarcoding, handling, or transportation of mail, as further defined by the Postal Regulatory Commission under subsection (a).
+Definition.—In this subsection, the term “workshare discount” refers to rate discounts provided to mailers for the presorting, prebarcoding, handling, or transportation of mail, as further defined by the Postal Regulatory Commission under subsection (a).
 
 &emsp;(2)
 

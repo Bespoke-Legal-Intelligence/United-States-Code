@@ -6,7 +6,7 @@ As used in the part—
 
 &emsp;&emsp;(A) an Executive agency as defined in section 105 of title 5; and
 
-&emsp;&emsp;(B) each entity specified in paragraphs (B) through (H) of subsection (1) of section 5721 of title 5.
+&emsp;&emsp;(B) each entity specified in subparagraphs (B) through (I) of subsection (1) of section 5721 of title 5.
 
 &emsp;(2) The term “Federal building” means any building or other structure owned in whole or part by the United States or any Federal agency, including any such structure occupied by a Federal agency under a lease-acquisition agreement under which the United States or a Federal agency will receive fee simple title under the terms of such agreement without further negotiation.
 
@@ -18,5 +18,9 @@ As used in the part—
 
 &emsp;(6) The term “Secretary” means the Secretary of Energy.
 
-(Pub. L. 95–619, title V, §521, Nov. 9, 1978, 92 Stat. 3275.)
+(Pub. L. 95–619, title V, §521, Nov. 9, 1978, 92 Stat. 3275; Pub. L. 110–161, div. H, title I, §1303(b), Dec. 26, 2007, 121 Stat. 2242.)
+
+#### Amendments
+
+2007—Par. (1)(B). Pub. L. 110–161 substituted “subparagraphs (B) through (I)” for “paragraphs (B) through (H)”.
 

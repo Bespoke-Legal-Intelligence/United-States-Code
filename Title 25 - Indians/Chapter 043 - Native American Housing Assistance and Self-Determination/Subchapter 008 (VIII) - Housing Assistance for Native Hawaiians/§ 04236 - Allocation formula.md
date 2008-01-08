@@ -6,7 +6,7 @@ The Secretary shall, by regulation issued not later than the expiration of the 6
 
 #### (b) Factors for determination of need
 
-The formula under subsection (a) of this section shall be based on factors that reflect the needs for assistance for affordable housing activities, including—
+The formula under subsection (a) of this section shall be based on factors that reflect theneeds for assistance for affordable housing activities, including—
 
 &emsp;(1) the number of low-income dwelling units owned or operated at the time pursuant to a contract between the Director and the Secretary;
 

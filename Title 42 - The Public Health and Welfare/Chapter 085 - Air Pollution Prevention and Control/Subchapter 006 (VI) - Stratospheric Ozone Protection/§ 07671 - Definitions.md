@@ -38,13 +38,13 @@ As used in this subchapter—
 
 #### (7) Import
 
-&emsp;The term “import” means to land on, bring into, or introduce into, or attempt to land on,bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+&emsp;The term “import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
 #### (8) Medical device
 
 &emsp;The term “medical device” means any device (as defined in the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321)), diagnostic product, drug (as defined in the Federal Food, Drug, and Cosmetic Act), and drug delivery system—
 
-&emsp;&emsp;(A) if such device, product, drug, or drug delivery system utilizes a class I or class II substance for which no safe and effective alternative has been developed, and where necessary, approved by the Commissioner; and
+&emsp;&emsp;(A) if such device, product, drug, or drug delivery system utilizes a class I or class IIsubstance for which no safe and effective alternative has been developed, and where necessary, approved by the Commissioner; and
 
 &emsp;&emsp;(B) if such device, product, drug, or drug delivery system, has, after notice and opportunity for public comment, been approved and determined to be essential by the Commissioner in consultation with the Administrator.
 

@@ -208,6 +208,16 @@ Report.—Not later than December 31, 2005, the Secretary of Agriculture shall s
 
 #### Conservation Corridor Demonstration Program
 
+Pub. L. 110–114, title V, §5059, Nov. 8, 2007, 121 Stat. 1215, provided that:
+
+“(a)
+
+Assistance.—The Secretary \[of the Army\] may provide technical assistance to the Secretary of Agriculture for use in carrying out the Conservation Corridor Demonstration Program established under subtitle G of title II of the Farm Security and Rural Investment Act of 2002 (16 U.S.C. 3801 note; 116 Stat. 275).
+
+“(b)
+
+Coordination and Integration.—In carrying out water resources projects in the States on the Delmarva Peninsula, the Secretary \[of the Army\] shall coordinate and integrate those projects, to the maximum extent practicable, with any activities carried out to implement a conservation corridor plan approved by the Secretary of Agriculture under section 2602 of the Farm Security and Rural Investment Act of 2002 (16 U.S.C. 3801 note; 116 Stat. 275).”
+
 Pub. L. 107–171, title II, subtitle G, May 13, 2002, 116 Stat. 275, provided that:
 
 #### “SEC. 2601. DEFINITIONS.
@@ -284,7 +294,7 @@ Voluntary actions.—Actions taken under the plan—
 
 &emsp;“(2)
 
-Land of high conservation value.—Criteria specified in the plan ensure that land enrolled in each conservation program incorporated through the plan are of exceptionally high conservation value, as determined by the Secretary.
+Land of high conservation value.—Criteria specified in the plan ensure that land enrolled in each conservation program incorporated through the planare of exceptionally high conservation value, as determined by the Secretary.
 
 &emsp;“(3)
 

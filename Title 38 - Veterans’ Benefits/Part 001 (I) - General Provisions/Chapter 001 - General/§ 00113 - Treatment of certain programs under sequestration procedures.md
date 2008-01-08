@@ -38,7 +38,7 @@
 
 (c)(1) A benefit under section 2301, 2302, 2303, 2306, or 2308 of this title that is subject to reduction under a sequestration order or sequestration law shall be paid in accordance with the rates determined under the sequestration order or law (if any) in effect on the date of the death of the veteran concerned.
 
-(2) A benefit paid to, or on behalf of, an eligible veteran for pursuit of a program of education or training under chapter 30, 31, 34, 35, or 36 of this title that is subject to a sequestrationorder or a sequestration law shall be paid in accordance with the rates determined under the sequestration order or law (if any) in effect during the period of education or training for which the benefit is paid.
+(2) A benefit paid to, or on behalf of, an eligible veteran for pursuit of a program of education or training under chapter 30, 31, 34, 35, or 36 of this title that is subject to a sequestration order or a sequestration law shall be paid in accordance with the rates determined under the sequestration order or law (if any) in effect during the period of education or training for which the benefit is paid.
 
 (3) In implementation of a sequestration order or law with respect to each account from which a benefit described in paragraph (1) or (2) of this subsection is paid (including the making of determinations of the amounts by which such benefits are to be reduced), the total of the amounts (as estimated by the Secretary after consultation with the Director of the Congressional Budget Office) by which payments of such benefit will be reduced by reason of such paragraph after the last day of the period during which such order or law is in effect shall be deemed to be additional reductions in the payments of such benefit made, and in new budget authority for such payments, during such period.
 
@@ -96,7 +96,7 @@ Subsecs. (e) to (g). Pub. L. 100–198, §12(a)(2), redesignated subsecs. (f) an
 
 &emsp;“(2) The total amount of the loans for which commitments were made during the fiscal year through the end of such preceding month.
 
-&emsp;“(3) The Administrator's estimates as to the total amounts of the loans for which commitments would, in the absence of any limits on such commitments or guarantees, be made during (A) the month in which the report is required to be submitted, and (B) the succeeding months of the fiscal year.”
+&emsp;“(3) The Administrator's estimates as to the total amounts of the loans for which commitments would, in the absence of any limits on such commitments or guarantees, be made during (A) the month in whichthe report is required to be submitted, and (B) the succeeding months of the fiscal year.”
 
 #### Effective Date of 1987 Amendment
 

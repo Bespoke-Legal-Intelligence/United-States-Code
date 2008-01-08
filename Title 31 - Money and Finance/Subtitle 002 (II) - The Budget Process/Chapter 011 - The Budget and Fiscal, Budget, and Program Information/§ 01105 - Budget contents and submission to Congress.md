@@ -94,7 +94,7 @@
 
 &emsp;(34) with respect to the amount of appropriations requested for use by the Export-Import Bank of the United States, a separate statement of the amount requested for its program budget, the amount requested for its administrative expenses, and of the amount requested for its administrative expenses, the amount requested for technology expenses.
 
-&emsp;(33) <sup>2</sup> (A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
+&emsp;(33) <sup>2</sup> (A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year,the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
 
 &emsp;&emsp;(I) summaries of the total amount of such appropriations or new obligational authority and outlays requested for homeland security;
 
@@ -110,7 +110,7 @@
 
 &emsp;(B) In this paragraph, consistent with the Office of Management and Budget's June 2002 “Annual Report to Congress on Combatting Terrorism”, the term “homeland security” refers to those activities that detect, deter, protect against, and respond to terrorist attacks occurring within the United States and its territories.
 
-&emsp;(C) In implementing this paragraph, including determining what Federal activities or accounts constitute homeland security for purposes of budgetary classification, the Office of Management and Budget is directed to consult periodically, but at least annually, with theHouse and Senate Budget Committees, the House and Senate Appropriations Committees, and the Congressional Budget Office.
+&emsp;(C) In implementing this paragraph, including determining what Federal activities or accounts constitute homeland security for purposes of budgetary classification, the Office of Management and Budget is directed to consult periodically, but at least annually, with the House and Senate Budget Committees, the House and Senate Appropriations Committees, and the Congressional Budget Office.
 
 (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
@@ -288,7 +288,7 @@ June 10, 1921, ch. 18, §202, 42 Stat. 21.
 
 In the section, the word “current” is substituted for “in progress”, and the word “prior” is substituted for “last completed”, for consistency in the revised title.
 
-In subsection (a), before clause (1), the text of 31:19 is omitted as superseded by the broader authority of 31:11(a)(5). The words “for the following fiscal year” are added for clarity. The words “summary and supportinginformation” are substituted for “summary data and text, and supporting detail” in the introductory matter of 31:11(a) for consistency. The words “in such form and detail as the President may determine” are omitted as unnecessary because of the authority of the President under section 1104(a) of the revised title to prepare the budget. The words “The President shall . . . in each budget the following” are substituted for “The Budget transmitted pursuant to subsection (a) of this section for each fiscal year shall” in 31:11(d)–(f), (h), and (i) because of the restatement. The word “President” is substituted for “Office of Management and Budget” in 31:25 because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words “in connection with the budget presentation for fiscal year 1964 and each succeeding year thereafter” are omitted as executed.
+In subsection (a), before clause (1), the text of 31:19 is omitted as superseded by the broader authority of 31:11(a)(5). The words “for the following fiscal year” are added for clarity. The words “summary and supporting information” are substituted for “summary data and text, and supporting detail” in the introductory matter of 31:11(a) for consistency. The words “in such form and detail as the President may determine” are omitted as unnecessary because of the authority of the President under section 1104(a) of the revised title to prepare the budget. The words “The President shall . . . in each budget the following” are substituted for “The Budget transmitted pursuant to subsection (a) of this section for each fiscal year shall” in 31:11(d)–(f), (h), and (i) because of the restatement. The word “President” is substituted for “Office of Management and Budget” in 31:25 because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words “in connection with the budget presentation for fiscal year 1964 and each succeeding year thereafter” are omitted as executed.
 
 In subsection (a)(1), the words “information on” are added for clarity.
 
@@ -334,7 +334,7 @@ In subsection (b), the words “for such years” in 31:11(a)(5)(words after 2d 
 
 In subsection (c), the words “new taxes, loans, or other” are omitted as being included in “appropriate action”. The words “in effect” are substituted for “existing” for consistency. The word “aggregate” is omitted as surplus.
 
-In subsection (d), the words “When the President submits a budget or supporting information about a budget, the President” are substituted for “The Budget transmitted pursuant to subsection (a) of this section for any fiscal year, or the supporting detail transmitted in connection therewith” because of the restatement. The word “changes” is substituted for “amendments and revisions” to eliminate unnecessary words.
+In subsection (d), the words “When the President submits a budget or supporting information about a budget, the President” are substituted for “The Budget transmitted pursuant to subsection (a) of this sectionfor any fiscal year, or the supporting detail transmitted in connection therewith” because of the restatement. The word “changes” is substituted for “amendments and revisions” to eliminate unnecessary words.
 
 1983
 
@@ -522,7 +522,7 @@ Certification.—With respect to any medicare funding legislation or any amendme
 
 Fallback Procedure for Floor Consideration if the House Fails to Vote on Final Passage by July 30.—
 
-&emsp;“(1) After July 30 of any year during which the President is required to submit proposed legislation to Congress under section 1105(h) of title 31, United States Code, unless the House of Representatives has voted on final passage of any medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A), then, after the expiration of not less than 30 calendar days (and concurrently 5 legislative days), it is in order to move to discharge any committee to which medicare funding legislation which has such a certification and which has been referred to such committee for 30 calendar days from further consideration of the legislation.
+&emsp;“(1) After July 30 of any year during which the President is required to submit proposed legislation to Congress under section 1105(h) of title 31, United States Code, unless the House of Representatives hasvoted on final passage of any medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A), then, after the expiration of not less than 30 calendar days (and concurrently 5 legislative days), it is in order to move to discharge any committee to which medicare funding legislation which has such a certification and which has been referred to such committee for 30 calendar days from further consideration of the legislation.
 
 &emsp;“(2) A motion to discharge may be made only by an individual favoring the legislation, may be made only if supported by one-fifth of the total membership of the House (a quorum being present), and is highly privileged in the House. Debate thereon shall be limited to not more than one hour, the time to be divided in the House equally between those favoring and those opposing the motion. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
@@ -536,7 +536,7 @@ Floor Consideration in the House of Discharged Legislation.—
 
 &emsp;“(1) In the House, not later than 3 legislative days after any committee has been discharged from further consideration of legislation under subsection (c), the Speaker shall resolve the House into the Committee of the Whole for consideration of the legislation.
 
-&emsp;“(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). Allpoints of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
+&emsp;“(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
 
 &emsp;“(3) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any such legislation shall be decided without debate.
 
@@ -604,7 +604,7 @@ Discharge.—
 
 &emsp;“(1)
 
-In general.—If the Committee on Finance has not reported medicare funding legislation described in subsection (c)(1) by June 30 of a year in which the President is required to submit medicare funding legislation to Congress under section 1105(h) of title 31, United States Code, then any Senator may move to discharge the Committee of any single medicare funding legislation measure. Only one such motion shall be in order in any session of Congress.
+In general.—If the Committee on Finance has not reported medicare funding legislation described in subsection (c)(1) by June 30 of a year in which the President is required to submit medicare funding legislation to Congress under section 1105(h) of title 31, United States Code, then any Senator may move to discharge the Committee of any single medicarefunding legislation measure. Only one such motion shall be in order in any session of Congress.
 
 &emsp;“(2)
 
@@ -628,7 +628,7 @@ Rules of the Senate.—This section is enacted by the Senate—
 
 &emsp;“(1) as an exercise of the rulemaking power of the Senate and as such it is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of a bill described in this paragraph, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
 
-&emsp;“(2) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, inthe same manner, and to the same extent as in the case of any other rule of the Senate.”
+&emsp;“(2) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.”
 
 \[For definition of “7-fiscal-year reporting period” as used in section 804 of Pub. L. 108–173, set out above, see section 801(a)(3) of Pub. L. 108–173, set out as a note under section 1395i of Title 42, The Public Health and Welfare.\]
 
@@ -716,7 +716,7 @@ Submission of 2
 
 “(c)
 
-Report.—Not later than October 1, 1988, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and to the Committee onMerchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives a report containing—
+Report.—Not later than October 1, 1988, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and to the Committee on Merchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives a report containing—
 
 &emsp;“(1) the Secretary's views on the advantages and disadvantages of operating the Coast Guard on a 2-year budget cycle;
 
@@ -772,13 +772,13 @@ For provisions requiring information about Deficit Reduction Fund, including a s
 
 #### Budget Control
 
-For provisions requiring annual review of direct spending and receipts to be part of each budget submitted under subsec. (a) of this section, see Ex. Ord. No. 12857, §3, Aug. 4, 1993, 58 F.R. 42181, set out as a note under section 900 of Title 2, The Congress.
+For provisions requiring annual review of direct spending and receipts to be part of each budget submitted under subsec. (a) of this section, see Ex. Ord. No. 12857, §3, Aug. 4, 1993, 58 F.R. 42181, formerly set out as a note under section 900 of Title 2, The Congress.
 
 #### Ex. Ord. No. 6715. Filing of Functional Organization Charts With the Director of the Bureau of the Budget
 
 Ex. Ord. No. 6715, May 23, 1934, provided:
 
-(1) Each executive department, independent establishment, and emergency agency shall file with the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\] a functional organization chart, indicating its various existing bureaus, divisions, sections, etc., and containing a description of the functions respectively performed, and shall file such additional charts from time to time, as may be necessary to show all changes made therein.
+(1) Each executive department, independent establishment, and emergency agency shall file with the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\] a functional organization chart, indicating its various existing bureaus, divisions, sections, etc., and containing a description of the functions respectively performed, and shall file suchadditional charts from time to time, as may be necessary to show all changes made therein.
 
 (2) Every executive department, independent establishment, and emergency agency hereafter created shall within 5 days after the appointment of the head thereof file a preliminary functional organization chart with the Director of the Bureau of the Budget.
 

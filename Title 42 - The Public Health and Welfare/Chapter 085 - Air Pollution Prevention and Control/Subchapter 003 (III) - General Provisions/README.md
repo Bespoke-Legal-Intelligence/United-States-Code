@@ -36,3 +36,4 @@
 - [&sect; 07625a - Statutory construction](%C2%A7%2007625a%20-%20Statutory%20construction.md)
 - [&sect; 07626 - Authorization of appropriations](%C2%A7%2007626%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 07627 - Air pollution from Outer Continental Shelf activities](%C2%A7%2007627%20-%20Air%20pollution%20from%20Outer%20Continental%20Shelf%20activities.md)
+- [&sect; 07628 - Demonstration grant program for local governments](%C2%A7%2007628%20-%20Demonstration%20grant%20program%20for%20local%20governments.md)

@@ -6,9 +6,9 @@ In General.—A citizen of the United States owning or leasing an eligible vesse
 
 (b)
 
-Allowable Purpose.—The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels, built in the United States and documented under the laws of the United States, for operation in the United States foreign, Great Lakes, or noncontiguous domestic trade or in the fisheries of the United States.
+Allowable Purpose.—The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels, built in the United States and documented under the laws of the United States, for operation in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1593.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1593; Pub. L. 110–140, title XI, §1122(b), Dec. 19, 2007, 121 Stat. 1762.)
 
 Historical and Revision Notes
 
@@ -29,4 +29,12 @@ June 29, 1936, ch. 858, title VI, §607(a) (1st sentence), (2d sentence related 
 53503(b)
 
 46 App.:1177(a) (2d sentence related to purpose).
+
+#### Amendments
+
+2007—Subsec. (b). Pub. L. 110–140 substituted “noncontiguous domestic, or short sea transportation trade” for “or noncontiguous domestic trade”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

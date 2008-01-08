@@ -2,15 +2,15 @@
 
 #### (a) Maintenance of civil action by franchisee against franchisor; jurisdiction and venue; time for commencement of action
 
-If a franchisor fails to comply with the requirements of section 2802 or 2803 of this title, the franchisee may maintain a civil action against such franchisor. Such action may be brought, without regard to the amount in controversy, in the district court of the United States in any judicial district in which the principal place of business of such franchisor is located or in which such franchisee is doing business, except that no such action may be maintained unless commenced within 1 year after the later of—
+If a franchisor fails to comply with the requirements of section 2802, 2803, or 2807 of this title, the franchisee may maintain a civil action against such franchisor. Such action may be brought, without regard to the amount in controversy, in the district court of the United States in any judicial district in which the principal place of business of such franchisor is located or in which such franchisee is doing business, except that no such action may be maintained unless commenced within 1 year after the later of—
 
 &emsp;(1) the date of termination of the franchise or nonrenewal of the franchise relationship; or
 
-&emsp;(2) the date the franchisor fails to comply with the requirements of section 2802 or 2803 of this title.
+&emsp;(2) the date the franchisor fails to comply with the requirements of section 2802, 2803, or 2807 of this title.
 
 #### (b) Equitable relief by court; bond requirements; grounds for nonexercise of court's equitable powers
 
-(1) In any action under subsection (a) of this section, the court shall grant such equitable relief as the court determines is necessary to remedy the effects of any failure to comply with therequirements of section 2802 or 2803 of this title, including declaratory judgment, mandatory or prohibitive injunctive relief, and interim equitable relief.
+(1) In any action under subsection (a) of this section, the court shall grant such equitable relief as the court determines is necessary to remedy the effects of any failure to comply with the requirements of section 2802, 2803, or 2807 of this title, including declaratory judgment, mandatory or prohibitive injunctive relief, and interim equitable relief.
 
 (2) Except as provided in paragraph (3), in any action under subsection (a) of this section, the court shall grant a preliminary injunction if—
 
@@ -42,7 +42,7 @@ In any action under subsection (a) of this section, the franchisee shall have th
 
 &emsp;(A) consistent with the Federal Rules of Civil Procedure, to actual damages;
 
-&emsp;(B) in the case of any such action which is based upon conduct of the franchisor which was in willful disregard of the requirements of section 2802 or 2803 of this title, or the rights of the franchisee thereunder, to exemplary damages, where appropriate; and
+&emsp;(B) in the case of any such action which is based upon conduct of the franchisor which was in willful disregard of the requirements of section 2802, 2803, or 2807 of this title, or the rights of the franchisee thereunder, to exemplary damages, where appropriate; and
 
 &emsp;(C) to reasonable attorney and expert witness fees to be paid by the franchisor, unless the court determines that only nominal damages are to be awarded to such franchisee, in which case the court, in its discretion, need not direct that such fees be paid by the franchisor.
 
@@ -80,7 +80,7 @@ In any action under subsection (a) of this section, the franchisee shall have th
 
 (2) No provision of any franchise shall be valid or enforceable if the provision specifies that the interpretation or enforcement of the franchise shall be governed by the law of any State other than the State in which the franchisee has the principal place of business of the franchisee.
 
-(Pub. L. 95–297, title I, §105, June 19, 1978, 92 Stat. 331; Pub. L. 103–371, §4, Oct. 19, 1994, 108 Stat. 3485.)
+(Pub. L. 95–297, title I, §105, June 19, 1978, 92 Stat. 331; Pub. L. 103–371, §4, Oct. 19, 1994, 108 Stat. 3485; Pub. L. 110–140, title II, §241(b), Dec. 19, 2007, 121 Stat. 1540.)
 
 #### References in Text
 
@@ -88,5 +88,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 
 #### Amendments
 
+2007—Subsecs. (a), (b)(1), (d)(1)(B). Pub. L. 110–140 substituted “2802, 2803, or 2807” for “2802 or 2803” wherever appearing.
+
 1994—Subsec. (f). Pub. L. 103–371 added subsec. (f).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

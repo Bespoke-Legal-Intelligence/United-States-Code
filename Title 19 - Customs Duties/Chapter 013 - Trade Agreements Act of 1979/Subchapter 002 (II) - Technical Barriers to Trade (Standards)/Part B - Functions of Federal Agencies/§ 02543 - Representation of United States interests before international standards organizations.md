@@ -48,7 +48,7 @@ The Secretary concerned shall—
 
 #### (c) Representation of United States interests by Federal agencies
 
-With respect to any international standards organization before which the interests of the United States are represented by one or more Federal agencies that are officially recognized by that organization for such purpose, the Secretary concerned shall—
+With respect to any international standards organization before which the interests of theUnited States are represented by one or more Federal agencies that are officially recognized by that organization for such purpose, the Secretary concerned shall—
 
 &emsp;(1) encourage cooperation among interested Federal agencies with a view toward facilitating the development of a uniform position with respect to the technical activities with which the organization is concerned;
 

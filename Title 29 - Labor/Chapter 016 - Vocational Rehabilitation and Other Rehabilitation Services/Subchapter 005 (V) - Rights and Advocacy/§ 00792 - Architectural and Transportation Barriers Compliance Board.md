@@ -64,7 +64,7 @@
 
 It shall be the function of the Access Board to—
 
-&emsp;(1) ensure compliance with the standards prescribed pursuant to the Act entitled “An Act to ensure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968; 42 U.S.C. 4151 et seq.) (includingthe application of such Act to the United States Postal Service), including enforcing all standards under such Act, and ensuring that all waivers and modifications to the standards are based on findings of fact and are not inconsistent with the provisions of this section;
+&emsp;(1) ensure compliance with the standards prescribed pursuant to the Act entitled “An Act to ensure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968; 42 U.S.C. 4151 et seq.) (including the application of such Act to the United States Postal Service), including enforcing all standards under such Act, and ensuring that all waivers and modifications to the standards are based on findings of fact and are not inconsistent with the provisions of this section;
 
 &emsp;(2) develop advisory information for, and provide appropriate technical assistance to, individuals or entities with rights or duties under regulations prescribed pursuant to this subchapter or titles II and III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq. and 12181 et seq.) with respect to overcoming architectural, transportation, and communication barriers;
 
@@ -74,7 +74,7 @@ It shall be the function of the Access Board to—
 
 &emsp;&emsp;(B) minimum guidelines and requirements for the standards issued pursuant to titles II and III of the Americans with Disabilities Act of 1990;
 
-&emsp;&emsp;(C) guidelines for accessibility of telecommunications equipment and customer premises equipment under section 255 of title 47; and
+&emsp;&emsp;(C) guidelines for accessibility of telecommunications equipment and customerpremises equipment under section 255 of title 47; and
 
 &emsp;&emsp;(D) standards for accessible electronic and information technology under section 794d of this title;
 
@@ -150,7 +150,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
 
-(Pub. L. 93–112, title V, §502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, §2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, §118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, §1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, §151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, §103(d)(2)(C), title VI, §601, title X, §1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, §206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, §6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(30), title V, §504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, §408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, §203(a), Nov. 13, 1998, 112 Stat. 3653; Pub. L. 108–364, §3(b)(3), Oct. 25, 2004, 118 Stat. 1737.)
+(Pub. L. 93–112, title V, §502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, §2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, §118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, §1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, §151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, §103(d)(2)(C), title VI, §601, title X, §1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II,§206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, §6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(30), title V, §504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, §408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, §203(a), Nov. 13, 1998, 112 Stat. 3653; Pub. L. 108–364, §3(b)(3), Oct. 25, 2004, 118 Stat. 1737.)
 
 #### References in Text
 
@@ -220,7 +220,7 @@ Subsec. (b). Pub. L. 102–569, §504(c), amended subsec. (b) generally, substit
 
 Subsec. (c). Pub. L. 102–569, §102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 102–569, §504(d)(1), in first sentence, substituted “The Access Board shall conduct” for “In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carryout its functions under subsections (b) and (c) of this section, and shall conduct” and “to ensure compliance” for “to insure compliance”.
+Subsec. (d)(1). Pub. L. 102–569, §504(d)(1), in first sentence, substituted “The Access Board shall conduct” for “In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carry out its functions under subsections (b) and (c) of this section, and shall conduct” and “to ensure compliance” for “to insure compliance”.
 
 Subsec. (d)(3). Pub. L. 102–569, §504(d)(2), struck out par. (3) which read as follows: “The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph. The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section.”
 
@@ -280,7 +280,7 @@ Pub. L. 99–506, §103(d)(2)(C), substituted “individuals with handicaps” f
 
 Subsec. (h)(1). Pub. L. 99–506, §103(d)(2)(C), substituted reference to individuals with handicaps for reference to handicapped individuals.
 
-Subsec. (i). Pub. L. 99–506, §601(c), which directed the substitution of “of the fiscal years 1987, 1988, 1989, 1990, and 1991,” for “fiscal year ending before October 1, 1986,” was executed by making the substitution for “fiscal year ending before October 1, 1986.,” as the probable intent of Congress. See 1984 Amendment note below.
+Subsec. (i). Pub. L. 99–506, §601(c), which directed the substitution of “of the fiscal years 1987, 1988, 1989, 1990, and 1991,” for “fiscal year ending before October 1,1986,” was executed by making the substitution for “fiscal year ending before October 1, 1986.,” as the probable intent of Congress. See 1984 Amendment note below.
 
 1984—Subsec. (i). Pub. L. 98–221 substituted “October 1, 1986.” for “October 1, 1982”.
 
@@ -338,7 +338,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### Extension of Vocational Rehabilitation Programs Through Fiscal Year Ending September 30, 1978; Effective Date of 1976 Amendment
 
-For contingency provisions relating to the extensions of program authorizations and to the effective date ofsuch extensions, see section 11(a), (b)(1), and (c) of Pub. L. 94–230, set out as a note under section 720 of this title.
+For contingency provisions relating to the extensions of program authorizations and to the effective date of such extensions, see section 11(a), (b)(1), and (c) of Pub. L. 94–230, set out as a note under section 720 of this title.
 
 #### Termination of Advisory Panels
 

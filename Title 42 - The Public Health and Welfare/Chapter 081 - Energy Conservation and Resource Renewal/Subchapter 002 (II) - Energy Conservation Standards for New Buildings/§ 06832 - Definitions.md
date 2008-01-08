@@ -12,7 +12,7 @@ As used in this subchapter:
 
 &emsp;(5) The term “Federal agency” means any department, agency, corporation, or other entity or instrumentality of the executive branch of the Federal Government, including the United States Postal Service, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation.
 
-&emsp;(6) The term “Federal building” means any building to be constructed by, or for the use of, any Federal agency which is not legally subject to State or local building codes or similar requirements.
+&emsp;(6) The term “Federal building” means any building to be constructed by, or for the use of, any Federal agency. Such term shall include buildings built for the purpose of being leased by a Federal agency, and privatized military housing.
 
 &emsp;(7) The term “Federal financial assistance” means (A) any form of loan, grant, guarantee, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance (other than general or special revenue sharing or formula grants made to States) approved by any Federal officer or agency; or (B) any loan made or purchased by any bank, savings and loan association, or similar institution subject to regulation by the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration.
 
@@ -34,7 +34,7 @@ As used in this subchapter:
 
 &emsp;(16) The term “ASHRAE” means the American Society of Heating, Refrigerating, and Air-Conditioning Engineers.
 
-(Pub. L. 94–385, title III, §303, Aug. 14, 1976, 90 Stat. 1145; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 97–35, title X, §1041(a), Aug. 13, 1981, 95 Stat. 621; Pub. L. 100–242, title V, §570(c), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 102–486, title I, §101(a)(1), Oct. 24, 1992, 106 Stat. 2782.)
+(Pub. L. 94–385, title III, §303, Aug. 14, 1976, 90 Stat. 1145; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 97–35, title X, §1041(a), Aug. 13, 1981, 95 Stat. 621; Pub. L. 100–242, title V, §570(c), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 102–486, title I,§101(a)(1), Oct. 24, 1992, 106 Stat. 2782; Pub. L. 110–140, title IV, §433(b), Dec. 19, 2007, 121 Stat. 1614.)
 
 #### Codification
 
@@ -42,11 +42,17 @@ Par. (1) of this section which read “The term ‘Administrator’ means the Ad
 
 #### Amendments
 
+2007—Par. (6). Pub. L. 110–140 struck out “which is not legally subject to State or local building codes or similar requirements” after “any Federal agency” and inserted at end “Such term shall include buildings built for the purpose of being leased by a Federal agency, and privatized military housing.”
+
 1992—Pars. (9) to (16). Pub. L. 102–486 redesignated pars. (10) to (13) as (9) to (12), respectively, added pars. (13) to (16), and struck out former par. (9) which read as follows: “The term ‘voluntary performance standards’ means an energy consumption goal or goals to be met without specification of the methods, materials, and processes to be employed in achieving that goal or goals, but including statements of the requirements, criteria and evaluation methods to be used, and any necessary commentary.”
 
 1988—Par. (11). Pub. L. 100–242 substituted “Secretary of Energy” for “Secretary of Housing and Urban Development”.
 
 1981—Par. (9). Pub. L. 97–35 inserted “voluntary” before “performance standards”.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Effective Date of 1981 Amendment
 

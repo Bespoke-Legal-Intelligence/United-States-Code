@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) in a position of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5 of the Code of Federal Regulations.
 
-(b) No senior politically appointed officer may receive an award under the provisions of this subchapter during a Presidential election period.
+(b) No senior politically appointed officer may receive an award under the provisions of thissubchapter during a Presidential election period.
 
 (Added Pub. L. 103–425, §2(a), Oct. 31, 1994, 108 Stat. 4369.)
 

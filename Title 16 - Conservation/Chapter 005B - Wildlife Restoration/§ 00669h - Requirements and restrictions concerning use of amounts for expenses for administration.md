@@ -84,3 +84,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 2000—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter and the Migratory Bird Conservation Act, the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the city of Washington and elsewhere, to be taken from the eligible lists of the Civil Service; to rent or construct buildings outside of the city of Washington; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the purposes of this chapter.”
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

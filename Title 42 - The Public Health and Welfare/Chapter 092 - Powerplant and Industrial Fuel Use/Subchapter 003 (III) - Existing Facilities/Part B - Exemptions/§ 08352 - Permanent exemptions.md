@@ -60,7 +60,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 #### (g) Permanent exemption for intermediate load powerplants
 
-(1) After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A on the use ofpetroleum by a powerplant, the Secretary may, by order, grant a permanent exemption under this subsection, if he finds that the petitioner has demonstrated that—
+(1) After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A on the use of petroleum by a powerplant, the Secretary may, by order, grant a permanent exemption under this subsection, if he finds that the petitioner has demonstrated that—
 
 &emsp;(A) the Administrator of the Environmental Protection Agency (or the appropriate State air pollution control agency) certifies to the Secretary that the use by such powerplant of coal or any available alternate fuel as a primary energy source will cause or contribute to a concentration, in an air quality control region or any area within such region, of a pollutant for which any national ambient air quality standard is or would be exceeded for such area;
 

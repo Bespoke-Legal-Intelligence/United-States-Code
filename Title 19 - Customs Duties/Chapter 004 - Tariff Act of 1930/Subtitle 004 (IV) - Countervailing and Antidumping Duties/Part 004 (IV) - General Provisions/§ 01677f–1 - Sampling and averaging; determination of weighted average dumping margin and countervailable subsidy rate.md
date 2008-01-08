@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of determining the export price (or constructed export price) under section 1677a of this title or the normal value under section 1677b of this title, and in carrying out reviews under section 1675 of this title, the administering authority may—
+For purposes of determining the export price (or constructed export price) under section 1677a of this title or the normal value under section 1677b of this title, and in carrying out reviewsunder section 1675 of this title, the administering authority may—
 
 &emsp;(1) use averaging and statistically valid samples, if there is a significant volume of sales of the subject merchandise or a significant number or types of products, and
 
@@ -40,7 +40,7 @@ The authority to select averages and statistically valid samples shall rest excl
 
 #### (B) Exception
 
-&emsp;&emsp;The administering authority may determine whether the subject merchandise isbeing sold in the United States at less than fair value by comparing the weighted average of the normal values to the export prices (or constructed export prices) of individual transactions for comparable merchandise, if—
+&emsp;&emsp;The administering authority may determine whether the subject merchandise is being sold in the United States at less than fair value by comparing the weighted average of the normal values to the export prices (or constructed export prices) of individual transactions for comparable merchandise, if—
 
 &emsp;&emsp;&emsp;(i) there is a pattern of export prices (or constructed export prices) for comparable merchandise that differ significantly among purchasers, regions, or periods of time, and
 

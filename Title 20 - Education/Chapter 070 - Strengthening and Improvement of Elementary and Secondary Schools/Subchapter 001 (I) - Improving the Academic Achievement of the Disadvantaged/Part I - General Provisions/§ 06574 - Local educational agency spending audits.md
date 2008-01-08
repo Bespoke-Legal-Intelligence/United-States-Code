@@ -14,3 +14,7 @@ Not later than 3 months after the completion of the audits under subsection (a) 
 
 (Pub. L. 89–10, title I, §1904, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1619.)
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

@@ -44,7 +44,7 @@
 
 (8)(A) Any party aggrieved by an order of the Commission dismissing a complaint filed by such party under paragraph (1), or by a failure of the Commission to act on such complaint during the 120-day period beginning on the date the complaint is filed, may file a petition with the United States District Court for the District of Columbia.
 
-(B) Any petition under subparagraph (A) shall be filed, in the case of a dismissal of a complaint by the Commission, within 60 days after the date of the dismissal.
+(B) Any petition under subparagraph (A) shall be filed, in the case of a dismissal of a complaintby the Commission, within 60 days after the date of the dismissal.
 
 (C) In any proceeding under this paragraph the court may declare that the dismissal of the complaint or the failure to act is contrary to law, and may direct the Commission to conform with such declaration within 30 days, failing which the complainant may bring, in the name of such complainant, a civil action to remedy the violation involved in the original complaint.
 
@@ -60,7 +60,7 @@
 
 #### (b) Notice to persons not filing required reports prior to institution of enforcement action; publication of identity of persons and unfiled reports
 
-Before taking any action under subsection (a) of this section against any person who has failed to file a report required under section434(a)(2)(A)(iii) of this title for the calendar quarter immediately preceding the election involved, or in accordance with section 434(a)(2)(A)(i) of this title, the Commission shall notify the person of such failure to file the required reports. If a satisfactory response is not received within 4 business days after the date of notification, the Commission shall, pursuant to section 438(a)(7) of this title, publish before the election the name of the person and the report or reports such person has failed to file.
+Before taking any action under subsection (a) of this section against any person who has failed to file a report required under section 434(a)(2)(A)(iii) of this title for the calendar quarter immediately preceding the election involved, or in accordance with section 434(a)(2)(A)(i) of this title, the Commission shall notify the person of such failure to file the required reports. If a satisfactory response is not received within 4 business days after the date of notification, the Commission shall, pursuant to section 438(a)(7) of this title, publish before the election the name of the person and the report or reports such person has failed to file.
 
 #### (c) Reports by Attorney General of apparent violations
 
@@ -122,7 +122,7 @@ Another prior section 309 of Pub. L. 92–225 was renumbered section 312, and is
 
 Subsec. (a)(6)(C). Pub. L. 107–155, §315(a)(2), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
 
-Subsec. (d)(1)(A). Pub. L. 107–155, §312(a), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Any person who knowingly and willfully commits a violation of any provision of this Act which involves the making, receiving, or reporting of any contribution or expenditure aggregating $2,000 or more during a calendar year shall be fined, or imprisoned for not more than one year, or both. The amount of this fine shall not exceed the greater of $25,000 or 300 percent of any contribution or expenditure involved in such violation.”
+Subsec. (d)(1)(A). Pub. L. 107–155, §312(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Any person who knowingly and willfully commits a violation of any provision of this Act which involves the making, receiving, or reporting of any contribution or expenditure aggregating $2,000 or more during a calendar year shall be fined, or imprisoned for not more than one year, or both. The amount of this fine shall not exceed the greater of $25,000 or 300 percent of any contribution or expenditure involved in such violation.”
 
 Subsec. (d)(1)(D). Pub. L. 107–155, §315(b), added subpar. (D).
 

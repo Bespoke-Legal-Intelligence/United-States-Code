@@ -44,7 +44,7 @@ Subsection (a) and paragraph (1) of subsection (c) shall not apply to any bona f
 
 For purposes of this section and section 2038, any transfer from any portion of a trust during any period that such portion was treated under section 676 as owned by the decedent by reason of a power in the grantor (determined without regard to section 672(e)) shall be treated as a transfer made directly by the decedent.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 381; Pub. L. 87–834, §18(a)(2)(C), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2001(a)(5), Oct. 4, 1976, 90 Stat. 1848; Pub. L. 95–600, title VII, §702(f)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §§403(b)(3)(B), 424(a), Aug. 13, 1981, 95 Stat. 301, 317; Pub. L. 97–448, title I, §104(a)(9), (d)(1)(A), (C), (2), Jan. 12, 1983, 96 Stat. 2381, 2383; Pub. L. 105–34, title XIII, §1310(a), Aug. 5, 1997, 111 Stat. 1043; Pub. L. 106–554, §1(a)(7) \[title III, §319(14)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 381; Pub. L. 87–834, §18(a)(2)(C), Oct. 16, 1962, 76 Stat. 1052;Pub. L. 94–455, title XX, §2001(a)(5), Oct. 4, 1976, 90 Stat. 1848; Pub. L. 95–600, title VII, §702(f)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §§403(b)(3)(B), 424(a), Aug. 13, 1981, 95 Stat. 301, 317; Pub. L. 97–448, title I, §104(a)(9), (d)(1)(A), (C), (2), Jan. 12, 1983, 96 Stat. 2381, 2383; Pub. L. 105–34, title XIII, §1310(a), Aug. 5, 1997, 111 Stat. 1043; Pub. L. 106–554, §1(a)(7) \[title III, §319(14)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
 
 #### Amendments
 

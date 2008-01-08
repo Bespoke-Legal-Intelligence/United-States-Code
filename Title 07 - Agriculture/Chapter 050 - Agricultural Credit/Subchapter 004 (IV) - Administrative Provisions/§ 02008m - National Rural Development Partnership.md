@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Agency with rural responsibilities
 
-&emsp;The term “agency with rural responsibilities” means any executive agency (as definedin section 105 of title 5) that implements a Federal law, or administers a program, targeted at or having a significant impact on rural areas.
+&emsp;The term “agency with rural responsibilities” means any executive agency (as defined in section 105 of title 5) that implements a Federal law, or administers a program, targeted at or having a significant impact on rural areas.
 
 #### (2) Coordinating Committee
 

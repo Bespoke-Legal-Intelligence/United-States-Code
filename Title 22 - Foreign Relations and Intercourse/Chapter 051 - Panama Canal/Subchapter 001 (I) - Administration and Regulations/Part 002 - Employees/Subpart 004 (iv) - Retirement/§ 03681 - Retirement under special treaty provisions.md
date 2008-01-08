@@ -24,7 +24,7 @@ The amount paid to the Social Security System of the Republic of Panama with res
 
 #### (c) Purchase of nontransferable deferred annuity; employees entitled to participate
 
-(1) Pursuant to paragraph 2(b) of Annex C to the Agreement in Implementation of Article IV of the Panama Canal Treaty of 1977, the President, or the President's designee, shall purchase from a source determined by the President to be appropriate, in accordance with such regulations as the President or the President's designee may prescribe, and to such extent or in such amounts as may be provided in advance in appropriation Acts, a nontransferable deferred annuity for the benefit of each employee of an agency or instrumentality of the Government of the United States in the Republic of Panama—
+(1) Pursuant to paragraph 2(b) of Annex C to the Agreement in Implementation of Article IV of the Panama Canal Treaty of 1977, the President, or the President's designee, shall purchasefrom a source determined by the President to be appropriate, in accordance with such regulations as the President or the President's designee may prescribe, and to such extent or in such amounts as may be provided in advance in appropriation Acts, a nontransferable deferred annuity for the benefit of each employee of an agency or instrumentality of the Government of the United States in the Republic of Panama—
 
 &emsp;(A) who is not a citizen of the United States;
 

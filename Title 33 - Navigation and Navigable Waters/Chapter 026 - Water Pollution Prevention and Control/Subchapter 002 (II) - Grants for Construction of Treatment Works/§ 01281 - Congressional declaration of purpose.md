@@ -34,7 +34,7 @@ The Administrator shall encourage waste treatment management which combines “o
 
 #### (g) Grants to construct publicly owned treatment works
 
-(1) The Administrator is authorized to make grants to any State, municipality, or intermunicipal or interstate agency for the construction of publicly owned treatment works. On and after October 1, 1984, grants under this subchapter shall be made only for projects for secondary treatment or more stringent treatment, or any cost effective alternative thereto, new interceptors and appurtenances, and infiltration-in-flow correction. Notwithstanding the preceding sentences, the Administrator may make grants on and after October 1, 1984, for (A) any project within the definition set forth in section 1292(2) of this title, other than for a project referred to in the preceding sentence, and (B) any purpose for which a grant may be made under sections <sup>1</sup> 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution), except that not more than 20 per centum (as determined by the Governor of the State) of the amount allotted to a State under section 1285 of this title for any fiscal year shall be obligated in such State under authority of this sentence.
+(1) The Administrator is authorized to make grants to any State, municipality, or intermunicipal or interstate agency for the construction of publicly owned treatment works. On and after October 1, 1984, grants under this subchapter shall be made only for projects for secondary treatment or more stringent treatment, or any cost effective alternative thereto, new interceptors and appurtenances, and infiltration-in-flow correction. Notwithstanding the preceding sentences, the Administrator may make grants on and after October 1, 1984, for (A) any project within the definition set forth in section 1292(2) of this title, other than for a project referred to in the preceding sentence, and (B) any purpose for which a grant may be made under sections <sup>1</sup> 1329(h) and (i) of this title (including any innovative and alternative approaches for the control of nonpoint sources of pollution), except that not more than 20 per centum (as determined by the Governor of the State) of the amount allotted to a State under section 1285 of this title for any fiscal year shallbe obligated in such State under authority of this sentence.
 
 (2) The Administrator shall not make grants from funds authorized for any fiscal year beginning after June 30, 1974, to any State, municipality, or intermunicipal or interstate agency for the erection, building, acquisition, alteration, remodeling, improvement, or extension of treatment works unless the grant applicant has satisfactorily demonstrated to the Administrator that—
 
@@ -42,7 +42,7 @@ The Administrator shall encourage waste treatment management which combines “o
 
 &emsp;(B) as appropriate, the works proposed for grant assistance will take into account and allow to the extent practicable the application of technology at a later date which will provide for the reclaiming or recycling of water or otherwise eliminate the discharge of pollutants.
 
-(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows tothe satisfaction of the Administrator that each sewer collection system discharging into such treatment works is not subject to excessive infiltration.
+(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows to the satisfaction of the Administrator that each sewer collection system discharging into such treatment works is not subject to excessive infiltration.
 
 (4) The Administrator is authorized to make grants to applicants for treatment works grants under this section for such sewer system evaluation studies as may be necessary to carry out the requirements of paragraph (3) of this subsection. Such grants shall be made in accordance with rules and regulations promulgated by the Administrator. Initial rules and regulations shall be promulgated under this paragraph not later than 120 days after October 18, 1972.
 
@@ -130,7 +130,7 @@ Subsec. (n). Pub. L. 97–117, §5, added subsec. (n).
 
 Subsec. (<i>o</i>). Pub. L. 97–117, §6, added subsec. (<i>o</i>).
 
-1980—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercialwastes to the extent attributable to the Federal share of the cost of construction.
+1980—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
 
 Subsec. (k). Pub. L. 96–483, §3, added subsec. (k).
 
@@ -240,7 +240,7 @@ Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 762.
 
 Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1372.
 
-Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided inpart: “That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \[“
+Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \[“
 
 Environmental Protection Agency” and “
 

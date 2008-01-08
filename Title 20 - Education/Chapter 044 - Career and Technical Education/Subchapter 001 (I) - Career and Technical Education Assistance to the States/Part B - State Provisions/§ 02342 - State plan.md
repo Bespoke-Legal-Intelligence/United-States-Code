@@ -16,7 +16,7 @@
 
 #### (3) Hearing process
 
-&emsp;The eligible agency shall conduct public hearings in the State, after appropriate andsufficient notice, for the purpose of affording all segments of the public and interested organizations and groups (including charter school authorizers and organizers consistent with State law, employers, labor organizations, parents, students, and community organizations), an opportunity to present their views and make recommendations regarding the State plan. A summary of such recommendations and the eligible agency's response to such recommendations shall be included in the State plan.
+&emsp;The eligible agency shall conduct public hearings in the State, after appropriate and sufficient notice, for the purpose of affording all segments of the public and interested organizations and groups (including charter school authorizers and organizers consistent with State law, employers, labor organizations, parents, students, and community organizations), an opportunity to present their views and make recommendations regarding the State plan. A summary of such recommendations and the eligible agency's response to such recommendations shall be included in the State plan.
 
 #### (b) Plan development
 
@@ -150,7 +150,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(C) ensure that students who participate in such career and technical education programs are taught to the same challenging academic proficiencies as are taught to all other students;
 
-&emsp;(8) describes how the eligible agency will annually evaluate the effectiveness of such career and technical education programs, and describe, to the extent practicable, how the eligible agency is coordinating such programs to ensure nonduplication with other Federal programs;
+&emsp;(8) describes how the eligible agency will annually evaluate the effectiveness of such career and technical education programs, anddescribe, to the extent practicable, how the eligible agency is coordinating such programs to ensure nonduplication with other Federal programs;
 
 &emsp;(9) describes the eligible agency's program strategies for special populations, including a description of how individuals who are members of the special populations—
 
@@ -212,7 +212,7 @@ The State plan shall include information that—
 
 #### (3) Consultation
 
-&emsp;The eligible agency shall develop the portion of each State plan relating to the amount and uses of any funds proposed to be reserved for adult career and technical education, postsecondary career and technical education, tech prep education, and secondary career and technical education after consultation with the State agency responsible for supervision of community colleges, technical institutes, or other 2-year postsecondary institutions primarily engaged in providing postsecondary career and technical education, and the State agency responsible for secondary education. If a State agency finds that a portion of the final State plan is objectionable, the State agency shall file such objections with the eligible agency. The eligible agency shall respond to any objections of the State agency in the State plan submitted to the Secretary.
+&emsp;The eligible agency shall develop the portion of each State plan relating to the amount and uses of any funds proposed to be reserved for adult career and technical education, postsecondary career and technical education, tech prep education, and secondary career and technical education after consultation with the State agency responsible for supervision of community colleges, technical institutes, or other 2-year postsecondary institutions primarily engaged in providing postsecondary career and technical education, and the State agency responsible for secondary education. Ifa State agency finds that a portion of the final State plan is objectionable, the State agency shall file such objections with the eligible agency. The eligible agency shall respond to any objections of the State agency in the State plan submitted to the Secretary.
 
 #### (4) Timeframe
 

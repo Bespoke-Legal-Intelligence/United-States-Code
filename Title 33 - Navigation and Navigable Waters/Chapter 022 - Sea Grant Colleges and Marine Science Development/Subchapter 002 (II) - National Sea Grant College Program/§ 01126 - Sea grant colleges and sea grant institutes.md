@@ -70,3 +70,7 @@ Subject to any regulations prescribed or guidelines established by the Secretary
 
 1987—Subsec. (a)(2)(A), (3)(A), (B). Pub. L. 100–220 substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

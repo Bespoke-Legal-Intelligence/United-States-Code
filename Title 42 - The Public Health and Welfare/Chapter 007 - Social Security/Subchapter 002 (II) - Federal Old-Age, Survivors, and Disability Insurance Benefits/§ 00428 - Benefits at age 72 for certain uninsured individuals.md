@@ -64,7 +64,7 @@ For purposes of subsections (t) and (u) of section 402 of this title, and of sec
 
 There are authorized to be appropriated to the Federal Old-Age and Survivors Insurance Trust Fund for the fiscal year ending June 30, 1969, and for each fiscal year thereafter, such sums as the Commissioner of Social Security deems necessary on account of—
 
-&emsp;(1) payments made under this section during the second preceding fiscal year and all fiscal years prior thereto to individuals who, as of the beginning of the calendar year in which falls the month for which payment was made, had less than 3 quarters of coverage,
+&emsp;(1) payments made under this section during the second preceding fiscal year and all fiscal years prior thereto to individuals who, as ofthe beginning of the calendar year in which falls the month for which payment was made, had less than 3 quarters of coverage,
 
 &emsp;(2) the additional administrative expenses resulting from the payments described in paragraph (1), and
 
@@ -222,7 +222,7 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 
 #### Increases To Take Into Account General Benefit Increases
 
-Section 305(e) of Pub. L. 98–21 provided that: “The Secretary shall increase the amounts specified in section 228 of the Social Security Act \[this section\], as amended by this section, to take into account any general benefit increases (as referred to in section 215(i)(3) of such Act \[section 415(i)(3) of this title\]), and any increases under section 215(i) of such Act, which have occurred after June 1974 or may hereafter occur.”
+Section 305(e) of Pub. L. 98–21 provided that: “The Secretary shall increase the amounts specified in section 228 of the Social Security Act \[this section\], asamended by this section, to take into account any general benefit increases (as referred to in section 215(i)(3) of such Act \[section 415(i)(3) of this title\]), and any increases under section 215(i) of such Act, which have occurred after June 1974 or may hereafter occur.”
 
 #### Special $50 Payment Under Tax Reduction Act of 1975
 

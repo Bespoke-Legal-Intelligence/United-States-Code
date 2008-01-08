@@ -16,7 +16,7 @@
 
 > A program to test innovative procurement methods and procedures may not be carried out unless approved by the heads of the executive agencies selected to carry out such program.
 
-(b) If the Administrator determines that it is necessary to waive the application of any provision of law in order to carry out a proposed program to test innovative procurement methods and procedures under subsection (a) of this section, the Administrator shall transmit notice of the proposed program to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate and request that such committees take such action as may be necessary to provide that such provision of law does not apply with respect to the proposed program. The notification to Congress shall include a description of the proposed program (including the scope and purpose of the proposed program), the procedures to be followed in carrying out the proposed program, the provisions of law affected and any provision of law the application of which must be waived in order to carry out the proposed program, and the executive agencies involved in carrying out the proposed program.
+(b) If the Administrator determines that it is necessary to waive the application of any provision of law in order to carry out a proposed program to test innovative procurement methods and procedures under subsection (a) of this section, the Administrator shall transmit notice of the proposed program to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate and request that such committees take such action as may be necessary to provide that such provision of law does not apply with respect to the proposed program. The notification to Congress shall include a description of the proposed program (including the scope and purpose of the proposed program), the procedures to be followed in carrying out the proposed program, the provisions of law affected and any provision of law the application of which must be waived in order to carry out theproposed program, and the executive agencies involved in carrying out the proposed program.
 
 (Pub. L. 93–400, §15, as added Pub. L. 98–191, §7, Dec. 1, 1983, 97 Stat. 1329; amended Pub. L. 104–201, div. A, title X, §1074(f)(2), Sept. 23, 1996, 110 Stat. 2661.)
 
@@ -32,7 +32,7 @@ A prior section 15 of Pub. L. 93–400 amended sections 474, 481, and 487 of for
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Test Program for Executive Agencies
 
@@ -116,7 +116,7 @@ Measurable Test Criteria.—The Administrator shall require each agency conducti
 
 Test Plan.—At least 270 days before a test may be conducted under this section, the Administrator shall—
 
-&emsp;“(1) provide a detailed test plan, including lists of any regulations that are to be waived, and any written determination under subsection (h)(1)(B) to the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate;
+&emsp;“(1) provide a detailed test plan, including lists of any regulations that are to be waived, and any written determination under subsection (h)(1)(B) to the Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate;
 
 &emsp;“(2) provide a copy of the plan to the appropriate authorization and appropriations committees of the House of Representatives and the Senate; and
 

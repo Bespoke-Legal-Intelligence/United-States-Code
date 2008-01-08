@@ -14,7 +14,7 @@ The Corporation may purchase or lease and hold such real and personal property a
 
 #### (d) Suit
 
-The Corporation, subject to the provisions of section 1508(j) of this title, may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against theCorporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
+The Corporation, subject to the provisions of section 1508(j) of this title, may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
 
 #### (e) Bylaws and regulations
 
@@ -56,7 +56,7 @@ The Corporation shall have such powers as may be necessary or appropriate for th
 
 #### (<i>l</i>) Contracts
 
-The Corporation may enter into and carry out contracts or agreements, and issue regulations, necessary in the conduct of its business, as determined by the Board. State and local laws or rules shall not apply to contracts, agreements, or regulations of the Corporation or the parties thereto to the extent that such contracts, agreements, or regulations provide that such laws or rules shall not apply, or to the extent that such laws or rules are inconsistent with such contracts, agreements, or regulations.
+The Corporation may enter into and carry out contracts or agreements, and issue regulations,necessary in the conduct of its business, as determined by the Board. State and local laws or rules shall not apply to contracts, agreements, or regulations of the Corporation or the parties thereto to the extent that such contracts, agreements, or regulations provide that such laws or rules shall not apply, or to the extent that such laws or rules are inconsistent with such contracts, agreements, or regulations.
 
 #### (m) Submission of certain information
 
@@ -124,7 +124,7 @@ The Secretary and the Corporation are each authorized to issue such regulations 
 
 #### (2) Notice requirement
 
-&emsp;In providing financial assistance to, or entering into any contract with, any entity for the purchase of equipment and products to carry out this chapter, the Corporation, to the greatest extent practicable, shall provide to the entity a notice describing the statement made in paragraph (1).
+&emsp;In providing financial assistance to, or entering into any contract with, any entity forthe purchase of equipment and products to carry out this chapter, the Corporation, to the greatest extent practicable, shall provide to the entity a notice describing the statement made in paragraph (1).
 
 #### (r) Procedures for responding to certain inquiries
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 96–365 effective Sept. 26, 1980, see section 112 of Pub. 
 
 #### Regulations
 
-Section 1403(c)(2) of Pub. L. 103–66 provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 10, 1993\], the Secretary of Agriculture shall publish, for public comment, proposed regulations to implement the amendments made by this section\[amending this section and sections 1508 and 1508a of this title\].”
+Section 1403(c)(2) of Pub. L. 103–66 provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 10, 1993\], the Secretary of Agriculture shall publish, for public comment, proposed regulations to implement the amendments made by this section \[amending this section and sections 1508 and 1508a of this title\].”
 
 #### Transfer of Functions
 
@@ -360,7 +360,7 @@ Information.—
 
 &emsp;“(1)
 
-Privacy.—In conducting the evaluation required by this section, the Comptroller General andthe Corporation shall maintain the privacy of proprietary information.
+Privacy.—In conducting the evaluation required by this section, the Comptroller General and the Corporation shall maintain the privacy of proprietary information.
 
 &emsp;“(2)
 

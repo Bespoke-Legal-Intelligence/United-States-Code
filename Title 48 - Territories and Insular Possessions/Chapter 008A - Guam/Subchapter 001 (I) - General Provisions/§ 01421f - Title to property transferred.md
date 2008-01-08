@@ -6,7 +6,7 @@ The title to all property, real and personal, owned by the United States and emp
 
 #### (b) Other property not reserved
 
-All other property, real and personal, owned by the United States in Guam, not reserved by the President of the United States within ninety days after August 1, 1950, is placed under the control of the government of Guam, to be administered for the benefit of the people of Guam, and the legislature shall have authority, subject to such limitations as may be imposed upon its acts by this chapter or subsequent Act of the Congress, to legislate with respect to such property, real and personal, in such manner as it may deem desirable.
+All other property, real and personal, owned by the United States in Guam, not reserved by the President of the United States within ninety days after August 1, 1950, is placed under thecontrol of the government of Guam, to be administered for the benefit of the people of Guam, and the legislature shall have authority, subject to such limitations as may be imposed upon its acts by this chapter or subsequent Act of the Congress, to legislate with respect to such property, real and personal, in such manner as it may deem desirable.
 
 #### (c) Secretary of the Interior; sale or lease
 
@@ -93,7 +93,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the said section 28 o
 
 All of those lands which have been selected by the Secretary of the Navy for transfer or sale pursuant to the act of November 15, 1945, 59 Stat. 584, to persons in replacement of lands acquired for military or naval purposes in Guam, a list and description of such lands being on file in the Department of the Navy.
 
-3\. In addition to the personal property described in paragraph 1(e) hereof, there is hereby reserved to the United States all personal property of the United States in Guam, except that which is transferred to the government of Guam by or pursuant to section 28 (a) of the Organic Act of Guam, which on the date of this order is in the custody or control of the Department of the Army, the Department of the Navy, the Department of the Air Force, the Coast Guard, or any other department or agency of the United States; and all such personal property shall remain in the custody and control of the department or agency having custody and control thereof on the date of this order.
+3\. In addition to the personal property described in paragraph 1(e) hereof, there is hereby reserved to the United States all personal property of the UnitedStates in Guam, except that which is transferred to the government of Guam by or pursuant to section 28 (a) of the Organic Act of Guam, which on the date of this order is in the custody or control of the Department of the Army, the Department of the Navy, the Department of the Air Force, the Coast Guard, or any other department or agency of the United States; and all such personal property shall remain in the custody and control of the department or agency having custody and control thereof on the date of this order.
 
 Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

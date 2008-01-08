@@ -18,11 +18,11 @@ The Secretary, after consulting with the Salt River Bay National Historical Park
 
 &emsp;(B) Proposals for visitor use facilities to be developed for the park.
 
-&emsp;(C) Plans for management of the natural and cultural resources of the park, with particular emphasis on the preservation of both the cultural and natural resources and long-term scientific study of terrestrial, marine, and archeological resources, giving high priority to the enforcement of the provisions of the Archeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the park. The natural and cultural resources management plans shall be prepared in consultation with the Virgin Islands Division of Archeology and Historic Preservation.
+&emsp;(C) Plans for management of the natural and cultural resources of the park, with particular emphasis on the preservation of both the cultural and natural resources and long-term scientific study of terrestrial, marine, and archeological resources, giving high priority to the enforcement of the provisions of the Archeological <sup>1</sup> Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the park. The natural and cultural resources management plans shall be prepared in consultation with the Virgin Islands Division of Archeology and Historic Preservation.
 
 &emsp;(D) Proposals for assessing the potential operation and supply of park concessions by qualified Virgin Islands-owned businesses.
 
-&emsp;(E) Plans for the training of personnel in accordance with subsection (e) <sup>1</sup> of this section.
+&emsp;(E) Plans for the training of personnel in accordance with subsection (e) <sup>2</sup> of this section.
 
 #### (d) Training assistance
 
@@ -42,9 +42,7 @@ The National Historic Preservation Act, referred to in subsec. (c)(2)(C), is Pub
 
 1994—Subsec. (c)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-#### Change of Name
+<i><sup>1</sup></i><i> So in original. Probably should be “Archaeological”.</i>
 
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(d)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be subsection “(d)”.</i>
 

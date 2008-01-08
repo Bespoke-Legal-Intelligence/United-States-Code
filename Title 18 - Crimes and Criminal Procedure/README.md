@@ -1,5 +1,5 @@
 
-18 U.S.C.<br>United States Code, 2006 Edition<br>Title 18 - CRIMES AND CRIMINAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+18 U.S.C.<br>United States Code, 2007 Edition<br>Title 18 - CRIMES AND CRIMINAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 18—CRIMES AND CRIMINAL PROCEDURE
 

@@ -14,7 +14,7 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;(3) shall, in consultation with the heads of the national research institutes and national centers, be responsible for program coordination across the national research institutes and national centers, including conducting priority-setting reviews, to ensure that the research portfolio of the National Institutes of Health is balanced and free of unnecessary duplication, and takes advantage of collaborative, cross-cutting research;
 
-&emsp;(4) shall assemble accurate data to be used to assess research priorities, including information to better evaluate scientific opportunity, public health burdens, and progress in reducing health disparities;
+&emsp;(4) shall assemble accurate data to be used to assess research priorities, including information to better evaluate scientific opportunity, public health burdens, and progress in reducing minority and other health disparities;
 
 &emsp;(5) shall ensure that scientifically based strategic planning is implemented in support of research priorities as determined by the agencies of the National Institutes of Health;
 
@@ -78,9 +78,11 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;(20) may accept voluntary and uncompensated services;
 
-&emsp;(21) may perform such other administrative functions as the Secretary determines are needed to effectively carry out this subchapter; and
+&emsp;(21) may perform such other administrative functions as the Secretary determines are needed to effectively carry out this subchapter;
 
-&emsp;(22) may appoint physicians, dentists, and other health care professionals, subject to the provisions of title 5 relating to appointments and classifications in the competitive service, and may compensate such professionals subject to the provisions of chapter 74 of title 38.
+&emsp;(22) may appoint physicians, dentists, and other health care professionals, subject to the provisions of title 5 relating to appointmentsand classifications in the competitive service, and may compensate such professionals subject to the provisions of chapter 74 of title 38; and
+
+&emsp;(23) shall designate a contact point or office to help innovators and physicians identify sources of funding available for pediatric medical device development.
 
 > The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (16). The members of such a group shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of such group. Not more than one-fourth of the members of any such group shall be officers or employees of the United States.
 
@@ -94,7 +96,7 @@ The Director of NIH may make available to individuals and entities, for biomedic
 
 (2)(A) Except as provided in subparagraph (B), experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed, in accordance with title 5, for their travel to and from their place of service and for other expenses associated with their assignment.
 
-(B) Expenses specified in subparagraph (A) shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Secretary. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the UnitedStates. The Secretary may waive in whole or in part a right of recovery under this subparagraph.
+(B) Expenses specified in subparagraph (A) shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Secretary. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the United States. The Secretary may waive in whole or in part a right of recovery under this subparagraph.
 
 #### (e) Dissemination of research information
 
@@ -148,7 +150,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 (3) The data bank shall include the following:
 
-&emsp;(A) A registry of clinical trials (whether federally or privately funded) of experimental treatments for serious or life-threatening diseases and conditions under regulations promulgated pursuant to section 355(i) of title 21,which provides a description of the purpose of each experimental drug, either with the consent of the protocol sponsor, or when a trial to test effectiveness begins. Information provided shall consist of eligibility criteria for participation in the clinical trials, a description of the location of trial sites, a point of contact for those wanting to enroll in the trial, and a description of whether, and through what procedure, the manufacturer or sponsor of the investigation of a new drug will respond to requests for protocol exception, with appropriate safeguards, for single-patient and expanded protocol use of the new drug, particularly in children, and shall be in a form that can be readily understood by members of the public. Such information shall be forwarded to the data bank by the sponsor of the trial not later than 21 days after the approval of the protocol.
+&emsp;(A) A registry of clinical trials (whether federally or privately funded) of experimental treatments for serious or life-threatening diseases and conditions under regulations promulgated pursuant to section 355(i) of title 21, which provides a description of the purpose of each experimental drug, either with the consent of the protocol sponsor, or when a trial to test effectiveness begins. Information provided shall consist of eligibility criteria for participation in the clinical trials, a description of the location of trial sites, a point of contact for those wanting to enroll in the trial, and a description of whether, and through what procedure, the manufacturer or sponsor of the investigation of a new drug will respond to requests for protocol exception, with appropriate safeguards, for single-patient and expanded protocol use of the new drug, particularly in children, and shall be in a form that can be readily understood by members of the public. Such information shall be forwarded to the data bank by the sponsor of the trial not later than 21 days after the approval of the protocol.
 
 &emsp;(B) Information pertaining to experimental treatments for serious or life-threatening diseases and conditions that may be available—
 
@@ -162,7 +164,599 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 (5) Fees collected under section 379h of title 21 shall not be used in carrying out this subsection.
 
-#### (j) Day care for children of employees
+#### (j) Expanded clinical trial registry data bank
+
+#### (1) Definitions; requirement
+
+#### (A) Definitions
+
+&emsp;&emsp;In this subsection:
+
+#### (i) Applicable clinical trial
+
+&emsp;&emsp;&emsp;The term “applicable clinical trial” means an applicable device clinical trial or an applicable drug clinical trial.
+
+#### (ii) Applicable device clinical trial
+
+&emsp;&emsp;&emsp;The term “applicable device clinical trial” means—
+
+&emsp;&emsp;&emsp;&emsp;(I) a prospective clinical study of health outcomes comparing an intervention with a device subject to section 360(k), 360e, or 360j(m) of title 21 against a control in human subjects (other than a small clinical trial to determine the feasibility of a device, or a clinical trial to test prototype devices where the primary outcome measure relates to feasibility and not to health outcomes); and
+
+&emsp;&emsp;&emsp;&emsp;(II) a pediatric postmarket surveillance as required under section 360<i>l</i> of title 21.
+
+#### (iii) Applicable drug clinical trial
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The term “applicable drug clinical trial” means a controlled clinical investigation, other than a phase I clinical investigation, of a drug subject to section 355 of title 21 or to section 262 of this title.
+
+#### (II) Clinical investigation
+
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term “clinical investigation” has the meaning given that term in section 312.3 of title 21, Code of Federal Regulations (or any successor regulation).
+
+#### (III) Phase I
+
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term “phase I” has the meaning given that term in section 312.21 of title 21, Code of Federal Regulations (or any successor regulation).
+
+#### (iv) Clinical trial information
+
+&emsp;&emsp;&emsp;The term “clinical trial information” means, with respect to an applicable clinical trial, those data elements that the responsible party is required to submit under paragraph (2) or under paragraph (3).
+
+#### (v) Completion date
+
+&emsp;&emsp;&emsp;The term “completion date” means, with respect to an applicable clinical trial, the date that the final subject was examined or received an intervention for the purposes of final collection of data for the primary outcome, whether the clinical trial concluded according to the prespecified protocol or was terminated.
+
+#### (vi) Device
+
+&emsp;&emsp;&emsp;The term “device” means a device as defined in section 321(h) of title 21.
+
+#### (vii) Drug
+
+&emsp;&emsp;&emsp;The term “drug” means a drug as defined in section 321(g) of title 21 or a biological product as defined in section 262 of this title.
+
+#### (viii) Ongoing
+
+&emsp;&emsp;&emsp;The term “ongoing” means, with respect to a clinical trial of a drug or a device and to a date, that—
+
+&emsp;&emsp;&emsp;&emsp;(I) 1 or more patients is enrolled in the clinical trial; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the date is before the completion date of the clinical trial.
+
+#### (ix) Responsible party
+
+&emsp;&emsp;&emsp;The term “responsible party”, with respect to a clinical trial of a drug or device, means—
+
+&emsp;&emsp;&emsp;&emsp;(I) the sponsor of the clinical trial (as defined in section 50.3 of title 21, Code of Federal Regulations (or any successor regulation)); or
+
+&emsp;&emsp;&emsp;&emsp;(II) the principal investigator of such clinical trial if so designated by a sponsor, grantee, contractor, or awardee, so long as the principal investigator is responsible for conducting the trial, has access to and control over the data from the clinical trial, has the right to publish the results of the trial, and has the ability to meet all of the requirements under this subsection for the submission of clinical trial information.
+
+#### (B) Requirement
+
+&emsp;&emsp;The Secretary shall develop a mechanism by which the responsible party for each applicable clinical trial shall submit the identity and contact information of such responsible party to the Secretary at the time of submission of clinical trial information under paragraph (2).
+
+#### (2) Expansion of clinical trial registry data bank with respect to clinical trial information
+
+#### (A) In general
+
+#### (i) Expansion of data bank
+
+&emsp;&emsp;&emsp;To enhance patient enrollment and provide a mechanism to track subsequent progress of clinical trials, the Secretary, acting through the Director of NIH, shall expand, in accordance with this subsection, the clinical trials registry of the data bank described under subsection (i)(1) (referred to in this subsection as the “registry data bank”). The Director of NIH shall ensure that the registry data bank is made publicly available through the Internet.
+
+#### (ii) Content
+
+&emsp;&emsp;&emsp;The clinical trial information required to be submitted under this paragraph for an applicable clinical trial shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) descriptive information, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a brief title, intended for the lay public;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a brief summary, intended for the lay public;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the primary purpose;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the study design;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) for an applicable drug clinical trial, the study phase;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) study type;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(gg) the primary disease or condition being studied, or the focus of the study;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(hh) the intervention name and intervention type;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ii) the study start date;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(jj) the expected completion date;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(kk) the target number of subjects; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(<i>ll</i>) outcomes, including primary and secondary outcome measures;
+
+&emsp;&emsp;&emsp;&emsp;(II) recruitment information, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) eligibility criteria;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) gender;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) age limits;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) whether the trial accepts healthy volunteers;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) overall recruitment status;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) individual site status; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(gg) in the case of an applicable drug clinical trial, if the drug is not approved under section 355 of title 21 or licensed under section 262 of this title, specify whether or not there is expanded access to the drug under section 360bbb of title 21 for those who do not qualify for enrollment in the clinical trial and how to obtain information about such access;
+
+&emsp;&emsp;&emsp;&emsp;(III) location and contact information, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the name of the sponsor;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the responsible party, by official title; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the facility name and facility contact information (including the city, State, and zip code for each clinical trial location, or a toll-free number through which such location information may be accessed); and
+
+&emsp;&emsp;&emsp;&emsp;(IV) administrative data (which the Secretary may make publicly available as necessary), including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the unique protocol identification number;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) other protocol identification numbers, if any; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the Food and Drug Administration IND/IDE protocol number and the record verification date.
+
+#### (iii) Modifications
+
+&emsp;&emsp;&emsp;The Secretary may by regulation modify the requirements for clinical trial information under this paragraph, if the Secretary provides a rationale for why such a modification improves and does not reduce such clinical trial information.
+
+#### (B) Format and structure
+
+#### (i) Searchable categories
+
+&emsp;&emsp;&emsp;The Director of NIH shall ensure that the public may, in addition to keyword searching, search the entries in the registry data bank by 1 or more of the following criteria:
+
+&emsp;&emsp;&emsp;&emsp;(I) The disease or condition being studied in the clinical trial, using Medical Subject Headers (MeSH) descriptors.
+
+&emsp;&emsp;&emsp;&emsp;(II) The name of the intervention, including any drug or device being studied in the clinical trial.
+
+&emsp;&emsp;&emsp;&emsp;(III) The location of the clinical trial.
+
+&emsp;&emsp;&emsp;&emsp;(IV) The age group studied in the clinical trial, including pediatric subpopulations.
+
+&emsp;&emsp;&emsp;&emsp;(V) The study phase of the clinical trial.
+
+&emsp;&emsp;&emsp;&emsp;(VI) The sponsor of the clinical trial, which may be the National Institutes of Health or another Federal agency, a private industry source, or a university or other organization.
+
+&emsp;&emsp;&emsp;&emsp;(VII) The recruitment status of the clinical trial.
+
+&emsp;&emsp;&emsp;&emsp;(VIII) The National Clinical Trial number or other study identification for the clinical trial.
+
+#### (ii) Additional searchable category
+
+&emsp;&emsp;&emsp;Not later than 18 months after September 27, 2007, the Director of NIH shall ensure that the public may search the entries of the registry data bank by the safety issue, if any, being studied in the clinical trial as a primary or secondary outcome.
+
+#### (iii) Other elements
+
+&emsp;&emsp;&emsp;The Director of NIH shall also ensure that the public may search the entries of the registry data bank by such other elements as the Director deems necessary on an ongoing basis.
+
+#### (iv) Format
+
+&emsp;&emsp;&emsp;The Director of the NIH shall ensure that the registry data bank is easily used by the public, and that entries are easily compared.
+
+#### (C) Data submission
+
+&emsp;&emsp;The responsible party for an applicable clinical trial, including an applicable drug clinical trial for a serious or life-threatening disease or condition, that is initiated after, or is ongoing on the date that is 90 days after, September 27, 2007, shall submit to the Director of NIH for inclusion in the registry data bank the clinical trial information described in of <sup>1</sup> subparagraph (A)(ii) not later than the later of—
+
+&emsp;&emsp;&emsp;(i) 90 days after September 27, 2007;
+
+&emsp;&emsp;&emsp;(ii) 21 days after the first patient is enrolled in such clinical trial; or
+
+&emsp;&emsp;&emsp;(iii) in the case of a clinical trial that is not for a serious or life-threatening disease or condition and that is ongoing on September 27, 2007, 1 year after September 27, 2007.
+
+#### (D) Posting of data
+
+#### (i) Applicable drug clinical trial
+
+&emsp;&emsp;&emsp;The Director of NIH shall ensure that clinical trial information for an applicable drug clinical trial submitted in accordance with this paragraph is posted in the registry data bank not later than 30 days after such submission.
+
+#### (ii) Applicable device clinical trial
+
+&emsp;&emsp;&emsp;The Director of NIH shall ensure that clinical trial information for an applicable device clinical trial submitted in accordance with this paragraph is posted publicly in the registry data bank—
+
+&emsp;&emsp;&emsp;&emsp;(I) not earlier than the date of clearance under section 360(k) of title 21, or approval under section 360e or 360j(m) of title 21, as applicable, for a device that was not previously cleared or approved, and not later than 30 days after such date; or
+
+&emsp;&emsp;&emsp;&emsp;(II) for a device that was previously cleared or approved, not later than 30 days after the clinical trial information under paragraph (3)(C) is required to be posted by the Secretary.
+
+#### (3) Expansion of registry data bank to include results of clinical trials
+
+#### (A) Linking registry data bank to existing results
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Beginning not later than 90 days after September 27, 2007, for those clinical trials that form the primary basis of an efficacy claim or are conducted after the drug involved is approved or after the device involved is cleared or approved, the Secretary shall ensure that the registry data bank includes links to results information as described in clause (ii) for such clinical trial—
+
+&emsp;&emsp;&emsp;&emsp;(I) not earlier than 30 days after the date of the approval of the drug involved or clearance or approval of the device involved; or
+
+&emsp;&emsp;&emsp;&emsp;(II) not later than 30 days after the results information described in clause (ii) becomes publicly available.
+
+#### (ii) Required information
+
+#### (I) FDA information
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall ensure that the registry data bank includes links to the following information:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) If an advisory committee considered at a meeting an applicable clinical trial, any posted Food and Drug Administration summary document regarding such applicable clinical trial.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) If an applicable drug clinical trial was conducted under section 355a or 355c of title 21, a link to the posted Food and Drug Administration assessment of the results of such trial.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Food and Drug Administration public health advisories regarding the drug or device that is the subject of the applicable clinical trial, if any.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) For an applicable drug clinical trial, the Food and Drug Administration action package for approval document required under section 355(<i>l</i>)(2) of title 21.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) For an applicable device clinical trial, in the case of a premarket application under section 360e of title 21, the detailed summary of information respecting the safety and effectiveness of the device required under section 360j(h)(1) of title 21, or, in the case of a report under section 360(k) of title 21, the section 360(k) summary of the safety and effectiveness data required under section 807.95(d) of title 21, Code of Federal Regulations (or any successor regulation).
+
+#### (II) NIH information
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall ensure that the registry data bank includes links to the following information:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) Medline citations to any publications focused on the results of an applicable clinical trial.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) The entry for the drug that is the subject of an applicable drug clinical trial in the National Library of Medicine database of structured product labels, if available.
+
+#### (iii) Results for existing data bank entries
+
+&emsp;&emsp;&emsp;The Secretary may include the links described in clause (ii) for data bank entries for clinical trials submitted to the data bank prior to September 27, 2007, as available.
+
+#### (B) Inclusion of results
+
+&emsp;&emsp;The Secretary, acting through the Director of NIH, shall—
+
+&emsp;&emsp;&emsp;(i) expand the registry data bank to include the results of applicable clinical trials (referred to in this subsection as the “registry and results data bank”);
+
+&emsp;&emsp;&emsp;(ii) ensure that such results are made publicly available through the Internet;
+
+&emsp;&emsp;&emsp;(iii) post publicly a glossary for the lay public explaining technical terms related to the results of clinical trials; and
+
+&emsp;&emsp;&emsp;(iv) in consultation with experts on risk communication, provide information with the information included under subparagraph (C) in the registry and results data bank to help ensure that such information does not mislead the patients or the public.
+
+#### (C) Basic results
+
+&emsp;&emsp;Not later than 1 year after September 27, 2007, the Secretary shall include in the registry and results data bank the following elements for drugs that are approved under section 355 of title 21 or licensed under section 262 of this title and devices that are cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21:
+
+#### (i) Demographic and baseline characteristics of patient sample
+
+&emsp;&emsp;&emsp;A table of the demographic and baseline data collected overall and for each arm of the clinical trial to describe the patients who participated in the clinical trial, including the number of patients who dropped out of the clinical trial and the number of patients excluded from the analysis, if any.
+
+#### (ii) Primary and secondary outcomes
+
+&emsp;&emsp;&emsp;The primary and secondary outcome measures as submitted under paragraph (2)(A)(ii)(I)(<i>ll</i>), and a table of values for each of the primary and secondary outcome measures for each arm of the clinical trial, including the results of scientifically appropriate tests of the statistical significance of such outcome measures.
+
+#### (iii) Point of contact
+
+&emsp;&emsp;&emsp;A point of contact for scientific information about the clinical trial results.
+
+#### (iv) Certain agreements
+
+&emsp;&emsp;&emsp;Whether there exists an agreement (other than an agreement solely to comply with applicable provisions of law protecting the privacy of participants) between the sponsor or its agent and the principal investigator (unless the sponsor is an employer of the principal investigator) that restricts in any manner the ability of the principal investigator, after the completion date of the trial, to discuss the results of the trial at a scientific meeting or any other public or private forum, or to publish in a scientific or academic journal information concerning the results of the trial.
+
+#### (D) Expanded registry and results data bank
+
+#### (i) Expansion by rulemaking
+
+&emsp;&emsp;&emsp;To provide more complete results information and to enhance patient access to and understanding of the results of clinical trials, not later than 3 years after September 27, 2007, the Secretary shall by regulation expand the registry and results data bank as provided under this subparagraph.
+
+#### (ii) Clinical trials
+
+#### (I) Approved products
+
+&emsp;&emsp;&emsp;&emsp;The regulations under this subparagraph shall require the inclusion of the results information described in clause (iii) for—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) each applicable drug clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this title; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) each applicable device clinical trial for a device that is cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21.
+
+#### (II) Unapproved products
+
+&emsp;&emsp;&emsp;&emsp;The regulations under this subparagraph shall establish whether or not the results information described in clause (iii) shall be required for—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) an applicable drug clinical trial for a drug that is not approved under section 355 of title 21 and not licensed under section 262 of this title (whether approval or licensure was sought or not); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an applicable device clinical trial for a device that is not cleared under section 360(k) of title 21 and not approved under section 360e or section 360j(m) of title 21 (whether clearance or approval was sought or not).
+
+#### (iii) Required elements
+
+&emsp;&emsp;&emsp;The regulations under this subparagraph shall require, in addition to the elements described in subparagraph (C), information within each of the following categories:
+
+&emsp;&emsp;&emsp;&emsp;(I) A summary of the clinical trial and its results that is written in non-technical, understandable language for patients, if the Secretary determines that such types of summary can be included without being misleading or promotional.
+
+&emsp;&emsp;&emsp;&emsp;(II) A summary of the clinical trial and its results that is technical in nature, if the Secretary determines that such types of summary can be included without being misleading or promotional.
+
+&emsp;&emsp;&emsp;&emsp;(III) The full protocol or such information on the protocol for the trial as may be necessary to help to evaluate the results of the trial.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Such other categories as the Secretary determines appropriate.
+
+#### (iv) Results submission
+
+&emsp;&emsp;&emsp;The results information described in clause (iii) shall be submitted to the Director of NIH for inclusion in the registry and results data bank as provided by subparagraph (E), except that the Secretary shall by regulation determine—
+
+&emsp;&emsp;&emsp;&emsp;(I) whether the 1-year period for submission of clinical trial information described in subparagraph (E)(i) should be increased from 1 year to a period not to exceed 18 months;
+
+&emsp;&emsp;&emsp;&emsp;(II) whether the clinical trial information described in clause (iii) should be required to be submitted for an applicable clinical trial for which the clinical trial information described in subparagraph (C) is submitted to the registry and results data bank before the effective date of the regulations issued under this subparagraph; and
+
+&emsp;&emsp;&emsp;&emsp;(III) in the case when the clinical trial information described in clause (iii) is required to be submitted for the applicable clinical trials described in clause (ii)(II), the date by which such clinical trial information shall be required to be submitted, taking into account—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the certification process under subparagraph (E)(iii) when approval, licensure, or clearance is sought; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) whether there should be a delay of submission when approval, licensure, or clearance will not be sought.
+
+#### (v) Additional provisions
+
+&emsp;&emsp;&emsp;The regulations under this subparagraph shall also establish—
+
+&emsp;&emsp;&emsp;&emsp;(I) a standard format for the submission of clinical trial information under this paragraph to the registry and results data bank;
+
+&emsp;&emsp;&emsp;&emsp;(II) additional information on clinical trials and results that is written in nontechnical, understandable language for patients;
+
+&emsp;&emsp;&emsp;&emsp;(III) considering the experience under the pilot quality control project described in paragraph (5)(C), procedures for quality control, including using representative samples, with respect to completeness and content of clinical trial information under this subsection, to help ensure that data elements are not false or misleading and are non-promotional;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the appropriate timing and requirements for updates of clinical trial information, and whether and, if so, how such updates should be tracked;
+
+&emsp;&emsp;&emsp;&emsp;(V) a statement to accompany the entry for an applicable clinical trial when the primary and secondary outcome measures for such clinical trial are submitted under paragraph (4)(A) after the date specified for the submission of such information in paragraph (2)(C); and
+
+&emsp;&emsp;&emsp;&emsp;(VI) additions or modifications to the manner of reporting of the data elements established under subparagraph (C).
+
+#### (vi) Consideration of world health organization data set
+
+&emsp;&emsp;&emsp;The Secretary shall consider the status of the consensus data elements set for reporting clinical trial results of the World Health Organization when issuing the regulations under this subparagraph.
+
+#### (vii) Public meeting
+
+&emsp;&emsp;&emsp;The Secretary shall hold a public meeting no later than 18 months after September 27, 2007, to provide an opportunity forinput from interested parties with regard to the regulations to be issued under this subparagraph.
+
+#### (E) Submission of results information
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clauses (iii), (iv), (v), and (vi) the responsible party for an applicable clinical trial that is described in clause (ii) shall submit to the Director of NIH for inclusion in the registry and results data bank the clinical trial information described in subparagraph (C) not later than 1 year, or such other period as may be provided by regulation under subparagraph (D), after the earlier of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the estimated completion date of the trial as described in paragraph (2)(A)(ii)(I)(jj)); <sup>2</sup> or
+
+&emsp;&emsp;&emsp;&emsp;(II) the actual date of completion.
+
+#### (ii) Clinical trials described
+
+&emsp;&emsp;&emsp;An applicable clinical trial described in this clause is an applicable clinical trial subject to—
+
+&emsp;&emsp;&emsp;&emsp;(I) paragraph (2)(C); and
+
+&emsp;&emsp;&emsp;&emsp;(II)(aa) subparagraph (C); or
+
+&emsp;&emsp;&emsp;&emsp;(bb) the regulations issued under subparagraph (D).
+
+#### (iii) Delayed submission of results with certification
+
+&emsp;&emsp;&emsp;If the responsible party for an applicable clinical trial submits a certification that clause (iv) or (v) applies to such clinical trial, the responsible party shall submit to the Director of NIH for inclusion in the registry and results data bank the clinical trial information described in subparagraphs (C) and (D) as required under the applicable clause.
+
+#### (iv) Seeking initial approval of a drug or device
+
+&emsp;&emsp;&emsp;With respect to an applicable clinical trial that is completed before the drug is initially approved under section 355 of title 21 or initially licensed under section 262 of this title, or the device is initially cleared under section 360(k) or initially approved under section 360e or 360j(m) of title 21, the responsible party shall submit to the Director of NIH for inclusion in the registry and results data bank the clinical trial information described in subparagraphs (C) and (D) not later than 30 days after the drug or device is approved under such section 355, licensed under such section 262, cleared under such section 360(k), or approved under such section 360e or 360j(m), as applicable.
+
+#### (v) Seeking approval of a new use for the drug or device
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;With respect to an applicable clinical trial where the manufacturer of the drug or device is the sponsor of an applicable clinical trial, and such manufacturer has filed, or will file within 1 year, an application seeking approval under section 355 of title 21, licensing under section 262 of this title, or clearance under section 360(k), or approval under section 360e or 360j(m) of title 21 for the use studied in such clinical trial (which use is not included in the labeling of the approved drug or device), then the responsible party shall submit to the Director of NIH for inclusion in the registry and results data bank the clinical trial information described in subparagraphs (C) and (D) on the earlier of the date that is 30 days after the date—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the new use of the drug or device is approved under such section 355, licensed under such section 262, cleared under such section 360(k), or approved under such section 360e or 360j(m);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the Secretary issues a letter, such as a complete response letter, not approving the submission or not clearing the submission, a not approvable letter, or a not substantially equivalent letter for the new use of the drug or device under such section 355, 262, 360(k), 360e, or 360j(m); or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) except as provided in subclause (III), the application or premarket notification under such section 355, 262, 360(k), 360e, or 360j(m) is withdrawn without resubmission for no less than 210 days.
+
+#### (II) Requirement that each clinical trial in application be treated the same
+
+&emsp;&emsp;&emsp;&emsp;If a manufacturer makes a certification under clause (iii) that this clause applies with respect to a clinical trial, the manufacturer shall make such a certification with respect to each applicable clinical trial that is required to be submitted in an application or report for licensure, approval, or clearance (under section 262 of this title or section 355, 360(k), 360e, or 360j(m) of title 21, as applicable) of the use studied in the clinical trial.
+
+#### (III) Two-year limitation
+
+&emsp;&emsp;&emsp;&emsp;The responsible party shall submit to the Director of NIH for inclusion in the registry and results data bank the clinical trial information subject to subclause (I) on the date that is 2 years after the date a certification under clause (iii) was made to the Director of NIH, if an action referred to in item (aa), (bb), or (cc) of subclause (I) has not occurred by such date.
+
+#### (vi) Extensions
+
+&emsp;&emsp;&emsp;The Director of NIH may provide an extension of the deadline for submission of clinical trial information under clause (i) if the responsible party for the trial submits to the Director a written request that demonstrates good cause for the extension and provides an estimate of the date on which the information will be submitted. The Director of NIH may grant more than one such extension for a clinical trial.
+
+#### (F) Notice to Director of NIH
+
+&emsp;&emsp;The Commissioner of Food and Drugs shall notify the Director of NIH when there is an action described in subparagraph (E)(iv) or item (aa), (bb), or (cc) of subparagraph (E)(v)(I) with respect to an application or a report that includes a certification required under paragraph (5)(B) of such action not later than 30 days after such action.
+
+#### (G) Posting of data
+
+&emsp;&emsp;The Director of NIH shall ensure that the clinical trial information described in subparagraphs (C) and (D) for an applicable clinical trial submitted in accordance with this paragraph is posted publicly in the registry and results database not later than 30 days after such submission.
+
+#### (H) Waivers regarding certain clinical trial results
+
+&emsp;&emsp;The Secretary may waive any applicable requirements of this paragraph for an applicable clinical trial, upon a written request from the responsible party, if the Secretary determines that extraordinary circumstances justify the waiver and that providing the waiver is consistent with the protection of public health, or in the interest of national security. Not later than 30 days after any part of a waiver is granted, the Secretary shall notify, in writing, the appropriate committees of Congress of the waiver and provide an explanation for why the waiver was granted.
+
+#### (I) Adverse events
+
+#### (i) Regulations
+
+&emsp;&emsp;&emsp;Not later than 18 months after September 27, 2007, the Secretary shall by regulation determine the best method for including in the registry and results data bank appropriate results information on serious adverse and frequent adverse events for drugs described in subparagraph (C) in a manner and form that is useful and not misleading to patients, physicians, and scientists.
+
+#### (ii) Default
+
+&emsp;&emsp;&emsp;If the Secretary fails to issue the regulation required by clause (i) by the date that is 24 months after September 27, 2007, clause (iii) shall take effect.
+
+#### (iii) Additional elements
+
+&emsp;&emsp;&emsp;Upon the application of clause (ii), the Secretary shall include in the registry and results data bank for drugs described in subparagraph (C), in addition to the clinical trial information described in subparagraph (C), the following elements:
+
+#### (I) Serious adverse events
+
+&emsp;&emsp;&emsp;&emsp;A table of anticipated and unanticipated serious adverse events grouped by organ system, with number and frequency of such event in each arm of the clinical trial.
+
+#### (II) Frequent adverse events
+
+&emsp;&emsp;&emsp;&emsp;A table of anticipated and unanticipated adverse events that are not included in the table described in subclause (I) that exceed a frequency of 5 percent within any arm of the clinical trial, grouped by organ system, with number and frequency of such event in each arm of the clinical trial.
+
+#### (iv) Posting of other information
+
+&emsp;&emsp;&emsp;In carrying out clause (iii), the Secretary shall, in consultation with experts in risk communication, post with the tables information to enhance patient understanding and to ensure such tables do not mislead patients or the lay public.
+
+#### (v) Relation to subparagraph (C)
+
+&emsp;&emsp;&emsp;Clinical trial information included in the registry and results data bank pursuant to this subparagraph is deemed to be clinical trial information included in such data bank pursuant to subparagraph (C).
+
+#### (4) Additional submissions of clinical trial information
+
+#### (A) Voluntary submissions
+
+&emsp;&emsp;A responsible party for a clinical trial that is not an applicable clinical trial, or that is an applicable clinical trial that is not subject to paragraph (2)(C), may submit complete clinical trial information described in paragraph (2) or paragraph (3) provided the responsible party submits clinical trial information for each applicable clinical trial that is required to be submitted under section 262 of this title or under section 355, 360(k), 360e, or 360j(m) of title 21 in an application or report for licensure, approval, or clearance of the drug or device for the use studied in the clinical trial.
+
+#### (B) Required submissions
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding paragraphs (2) and (3) and subparagraph (A), in any case in which the Secretary determines for a specific clinical trial described in clause (ii) that posting in the registry and results data bank of clinical trial information for such clinical trial is necessary to protect the public health—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Secretary may require by notification that such information be submitted to the Secretary in accordance with paragraphs (2) and (3) except with regard to timing of submission;
+
+&emsp;&emsp;&emsp;&emsp;(II) unless the responsible party submits a certification under paragraph (3)(E)(iii), such information shall be submitted not later than 30 days after the date specified by the Secretary in the notification; and
+
+&emsp;&emsp;&emsp;&emsp;(III) failure to comply with the requirements under subclauses (I) and (II) shall be treated as a violation of the corresponding requirement of such paragraphs.
+
+#### (ii) Clinical trials described
+
+&emsp;&emsp;&emsp;A clinical trial described in this clause is—
+
+&emsp;&emsp;&emsp;&emsp;(I) an applicable clinical trial for a drug that is approved under section 355of title 21 or licensed under section 262 of this title or for a device that is cleared under section 360(k) of title 21 or approved under section 360e or section 360j(m) of title 21, whose completion date is on or after the date 10 years before September 27, 2007; or
+
+&emsp;&emsp;&emsp;&emsp;(II) an applicable clinical trial that is described by both by <sup>3</sup> paragraph (2)(C) and paragraph (3)(D)(ii)(II)).<sup>4</sup>
+
+#### (C) Updates to clinical trial data bank
+
+#### (i) Submission of updates
+
+&emsp;&emsp;&emsp;The responsible party for an applicable clinical trial shall submit to the Director of NIH for inclusion in the registry and results data bank updates to reflect changes to the clinical trial information submitted under paragraph (2). Such updates—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall be provided not less than once every 12 months, unless there were no changes to the clinical trial information during the preceding 12-month period;
+
+&emsp;&emsp;&emsp;&emsp;(II) shall include identification of the dates of any such changes;
+
+&emsp;&emsp;&emsp;&emsp;(III) not later than 30 days after the recruitment status of such clinical trial changes, shall include an update of the recruitment status; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) not later than 30 days after the completion date of the clinical trial, shall include notification to the Director that such clinical trial is complete.
+
+#### (ii) Public availability of updates
+
+&emsp;&emsp;&emsp;The Director of NIH shall make updates submitted under clause (i) publicly available in the registry data bank. Except with regard to overall recruitment status, individual site status, location, and contact information, the Director of NIH shall ensure that updates to elements required under subclauses (I) to (V) of paragraph (2)(A)(ii) do not result in the removal of any information from the original submissions or any preceding updates, and information in such databases is presented in a manner that enables users to readily access each original element submission and to track the changes made by the updates. The Director of NIH shall provide a link from the table of primary and secondary outcomes required under paragraph (3)(C)(ii) to the tracked history required under this clause of the primary and secondary outcome measures submitted under paragraph (2)(A)(ii)(I)(<i>ll</i>).
+
+#### (5) Coordination and compliance
+
+#### (A) Clinical trials supported by grants from Federal agencies
+
+#### (i) Grants from certain Federal agencies
+
+&emsp;&emsp;&emsp;If an applicable clinical trial is funded in whole or in part by a grant from any agency of the Department of Health and Human Services, including the Food and Drug Administration, the National Institutes of Health, or the Agency for Healthcare Research and Quality, any grant or progress report forms required under such grant shall include a certification that the responsible party has made all required submissions to the Director of NIH under paragraphs (2) and (3).
+
+#### (ii) Verification by Federal agencies
+
+&emsp;&emsp;&emsp;The heads of the agencies referred to in clause (i), as applicable, shall verify that the clinical trial information for each applicable clinical trial for which a grantee is the responsible party has been submitted under paragraphs (2) and (3) before releasing any remaining funding for a grant or funding for a future grant to such grantee.
+
+#### (iii) Notice and opportunity to remedy
+
+&emsp;&emsp;&emsp;If the head of an agency referred to in clause (i), as applicable, verifies that a grantee has not submitted clinical trial information as described in clause (ii), such agency head shall provide notice to such grantee of such non-compliance and allow such grantee 30 days to correct such non-compliance and submit the required clinical trial information.
+
+#### (iv) Consultation with other Federal agencies
+
+&emsp;&emsp;&emsp;The Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) consult with other agencies that conduct research involving human subjects in accordance with any section of part 46 of title 45, Code of Federal Regulations (or any successor regulations), to determine if any such research is an applicable clinical trial; and
+
+&emsp;&emsp;&emsp;&emsp;(II) develop with such agencies procedures comparable to those described in clauses (i), (ii), and (iii) to ensure that clinical trial information for such applicable clinical trial is submitted under paragraphs (2) and (3).
+
+#### (B) Certification to accompany drug, biological product, and device submissions
+
+&emsp;&emsp;At the time of submission of an application under section 355 of title 21, section 360e of title 21, section 360j(m) of title 21, or section 262 of this title, or submission of a report under section 360(k) of title 21, such application or submission shall be accompanied by a certification that all applicable requirements of this subsection have been met. Where available, such certification shall include the appropriate National Clinical Trial control numbers.
+
+#### (C) Quality control
+
+#### (i) Pilot quality control project
+
+&emsp;&emsp;&emsp;Until the effective date of the regulations issued under paragraph (3)(D), the Secretary, acting through the Director of NIH and the Commissioner of Food and Drugs, shall conduct a pilot project to determine the optimal method of verification to help to ensure that the clinical trial information submitted under paragraph (3)(C) is non-promotional and is notfalse or misleading in any particular under subparagraph (D). The Secretary shall use the publicly available information described in paragraph (3)(A) and any other information available to the Secretary about applicable clinical trials to verify the accuracy of the clinical trial information submitted under paragraph (3)(C).
+
+#### (ii) Notice of compliance
+
+&emsp;&emsp;&emsp;If the Secretary determines that any clinical trial information was not submitted as required under this subsection, or was submitted but is false or misleading in any particular, the Secretary shall notify the responsible party and give such party an opportunity to remedy such noncompliance by submitting the required revised clinical trial information not later than 30 days after such notification.
+
+#### (D) Truthful clinical trial information
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The clinical trial information submitted by a responsible party under this subsection shall not be false or misleading in any particular.
+
+#### (ii) Effect
+
+&emsp;&emsp;&emsp;Clause (i) shall not have the effect of—
+
+&emsp;&emsp;&emsp;&emsp;(I) requiring clinical trial information with respect to an applicable clinical trial to include information from any source other than such clinical trial involved; or
+
+&emsp;&emsp;&emsp;&emsp;(II) requiring clinical trial information described in paragraph (3)(D) to be submitted for purposes of paragraph (3)(C).
+
+#### (E) Public notices
+
+#### (i) Notice of violations
+
+&emsp;&emsp;&emsp;If the responsible party for an applicable clinical trial fails to submit clinical trial information for such clinical trial as required under paragraphs (2) or (3), the Director of NIH shall include in the registry and results data bank entry for such clinical trial a notice—
+
+&emsp;&emsp;&emsp;&emsp;(I) that the responsible party is not in compliance with this chapter by—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) failing to submit required clinical trial information; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) submitting false or misleading clinical trial information;
+
+&emsp;&emsp;&emsp;&emsp;(II) of the penalties imposed for the violation, if any; and
+
+&emsp;&emsp;&emsp;&emsp;(III) whether the responsible party has corrected the clinical trial information in the registry and results data bank.
+
+#### (ii) Notice of failure to submit primary and secondary outcomes
+
+&emsp;&emsp;&emsp;If the responsible party for an applicable clinical trial fails to submit the primary and secondary outcomes as required under section 2(A)(ii)(I)(<i>ll</i>),<sup>5</sup> the Director of NIH shall include in the registry and results data bank entry for such clinical trial a notice that the responsible party is not in compliance by failing to register the primary and secondary outcomes in accordance with this chapter, and that the primary and secondary outcomes were not publicly disclosed in the database before conducting the clinical trial.
+
+#### (iii) Failure to submit statement
+
+&emsp;&emsp;&emsp;The notice under clause (i) for a violation described in clause (i)(I)(aa) shall include the following statement: “The entry for this clinical trial was not complete at the time of submission, as required by law. This may or may not have any bearing on the accuracy of the information in the entry.”.
+
+#### (iv) Submission of false information statement
+
+&emsp;&emsp;&emsp;The notice under clause (i) for a violation described in clause (i)(I)(bb) shall include the following statement: “The entry for this clinical trial was found to be false or misleading and therefore not in compliance with the law.”.
+
+#### (v) Non-submission of statement
+
+&emsp;&emsp;&emsp;The notice under clause (ii) for a violation described in clause (ii) shall include the following statement: “The entry for this clinical trial did not contain information on the primary and secondary outcomes at the time of submission, as required by law. This may or may not have any bearing on the accuracy of the information in the entry.”.
+
+#### (vi) Compliance searches
+
+&emsp;&emsp;&emsp;The Director of NIH shall provide that the public may easily search the registry and results data bank for entries that include notices required under this subparagraph.
+
+#### (6) Limitation on disclosure of clinical trial information
+
+#### (A) In general
+
+&emsp;&emsp;Nothing in this subsection (or under section 552 of title 5) shall require the Secretary to publicly disclose, by any means other than the registry and results data bank, information described in subparagraph (B).
+
+#### (B) Information described
+
+&emsp;&emsp;Information described in this subparagraph is—
+
+&emsp;&emsp;&emsp;(i) information submitted to the Director of NIH under this subsection, or information of the same general nature as (or integrally associated with) the information so submitted; and
+
+&emsp;&emsp;&emsp;(ii) information not otherwise publicly available, including because it is protected from disclosure under section 552 of title 5.
+
+#### (7) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to carry out this subsection $10,000,000 for each fiscal year.
+
+#### (k) Day care for children of employees
 
 (1) The Director of NIH may establish a program to provide day care services for the employees of the National Institutes of Health similar to those services provided by other Federal agencies (including the availability of day care service on a 24-hour-a-day basis).
 
@@ -170,7 +764,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 (3) For purposes regarding the provision of day care services, the Director of NIH may enter into rental or lease purchase agreements.
 
-#### (k) Council of Councils
+#### (<i>l</i>) Council of Councils
 
 #### (1) Establishment
 
@@ -224,7 +818,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office.
 
-(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amendedPub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI, §601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–109, §15(c)(2), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 109–482, title I, §§102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, 120 Stat. 3681, 3683, 3684, 3687.)
+(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amended Pub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI, §601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–109, §15(c)(2), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 109–482, title I, §§102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, 120 Stat. 3681, 3683, 3684, 3687; Pub. L. 110–85, title III, §304(a), title VIII, §801(a), title XI, §1104(2), Sept. 27, 2007, 121 Stat. 863, 904, 975.)
 
 #### References in Text
 
@@ -258,7 +852,11 @@ Subsec. (b)(2), (3). Pub. L. 109–482, §102(b), added pars. (2) and (3) and st
 
 “(3) shall assure that research at or supported by the National Institutes of Health is subject to review in accordance with section 289a of this title;”.
 
-Subsec. (b)(4) to (22). Pub. L. 109–482, §102(a)(1)–(4), (b), added pars. (4) to (13), redesignated former pars. (4) to (11) and (14) as (14) to (22), respectively, in par. (21), inserted “and” at end, and struck out former pars. (12) and (13) which read as follows:
+Subsec. (b)(4). Pub. L. 110–85, §1104(2), inserted “minority and other” after “reducing”.
+
+Pub. L. 109–482, §102(b), added par. (4). Former par. (4) redesignated (14).
+
+Subsec. (b)(5) to (22). Pub. L. 109–482, §102(a)(1)–(4), (b), added pars. (5) to (13), redesignated former pars. (4) to (11) and (14) as (14) to (22), respectively, in par. (21) inserted “and” at end, and struck out former pars. (12) and (13) which read as follows:
 
 “(12) after consultation with the Director of the Office of Research on Women's Health, shall ensure that resources of the National Institutes of Health are sufficiently allocated for projects of research on women's health that are identified under section 287d(b) of this title;
 
@@ -268,13 +866,19 @@ Subsec. (b)(4) to (22). Pub. L. 109–482, §102(a)(1)–(4), (b), added pars. (
 
 &emsp;“(B) which does not consist of residency training of physicians or other health professionals; and”.
 
+Subsec. (b)(23). Pub. L. 110–85, §304(a), added par. (23).
+
 Subsec. (i). Pub. L. 109–482, §102(c), redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to discretionary fund for use by the Director of NIH to carry out activities authorized in this chapter.
 
 Subsec. (i)(5). Pub. L. 109–482, §103(b)(1), struck out first sentence which read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary.”
 
-Subsecs. (j), (k). Pub. L. 109–482, §102(c)(2), (d), added subsec. (k) and redesignated former subsec. (k) as (j).
+Subsecs. (j), (k). Pub. L. 110–85, §801(a), added subsec. (j) and redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
 
-Subsec. (<i>l</i>). Pub. L. 109–482, §102(c)(1), struck out subsec. (<i>l</i>) which read as follows: “The Director of NIH shall carry out the program established in part F of subchapter X of this chapter (relating to interagency research on trauma).”
+Pub. L. 109–482, §102(c)(2), (d), added subsec. (k) and redesignated former subsec. (k) as (j).
+
+Subsec. (<i>l</i>). Pub. L. 110–85, §801(a)(1), redesignated subsec. (k) as (<i>l</i>).
+
+Pub. L. 109–482, §102(c)(1), struck out subsec. (<i>l</i>) which read as follows: “The Director of NIH shall carry out the program established in part F of subchapter X of this chapter (relating to interagency research on trauma).”
 
 2002—Subsec. (j)(3)(A). Pub. L. 107–109, which directed the amendment of the first sentence of subsec. (j)(3)(A) by substituting “trial sites,” for “trial sites, and” and “in the trial, and a description of whether, and through what procedure, the manufacturer or sponsor of the investigation of a new drug will respond to requests for protocol exception, with appropriate safeguards, for single-patient and expanded protocol use of the new drug, particularly in children,” for “in the trial,”, was executed by making the substitutions in the second sentence, to reflect the probable intent of Congress.
 
@@ -324,6 +928,80 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 Pub. L. 109–482, title I, §103(c), Jan. 15, 2007, 120 Stat. 3689, provided that: “The amendment of a program by a provision of subsection (b) \[amending this section and sections 283a, 283d, 283g to 283i, 284e to 284j, 284<i>l</i>, 284m, 285a–9, 285a–10, 285b–7a, 285b–7b, 285c–9, 285d–6a, 285d–8, 285e–10, 285e–10a, 285f–2, 285f–3, 285g–5, 285g–9, 285g–10, 285n, 285<i>o</i>, 285<i>o</i>–2, 285<i>o</i>–4, 285p, 285r, 286a–1, 287a–2, 287a–3, 287a–4, 287c–11, 287c–31 to 287c–33, 288, 288–1, and 288–5a of this title and repealing sections 285a–8, 285b–8, 285e–11, and 286a–2 of this title\] may not be construed as terminating the authority of the Federal agency involved to carry out the program.”
 
+#### Demonstration Grants for Improving Pediatric Device Availability
+
+Pub. L. 110–85, title III, §305, Sept. 27, 2007, 121 Stat. 863, provided that:
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Request for proposals.—Not later than 90 days after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary of Health and Human Services shall issue a request for proposals for 1 or more grants or contracts to nonprofit consortia for demonstration projects to promote pediatric device development.
+
+&emsp;“(2)
+
+Determination on grants or contracts.—Not later than 180 days after the date the Secretary of Health and Human Services issues a request for proposals under paragraph (1), the Secretary shall make a determination on the grants or contracts under this section.
+
+“(b)
+
+Application.—A nonprofit consortium that desires to receive a grant or contract under this section shall submit an application to the Secretary of Health and Human Services at such time, in such manner, and containing such information as the Secretary may require.
+
+“(c)
+
+Use of Funds.—A nonprofit consortium that receives a grant or contract under this section shall facilitate the development, production, and distribution of pediatric medical devices by—
+
+&emsp;“(1) encouraging innovation and connecting qualified individuals with pediatric device ideas with potential manufacturers;
+
+&emsp;“(2) mentoring and managing pediatric device projects through the development process, including product identification, prototype design, device development, and marketing;
+
+&emsp;“(3) connecting innovators and physicians to existing Federal and non-Federal resources, including resources from the Food and Drug Administration, the National Institutes of Health, the Small Business Administration, the Department of Energy, the Department of Education, the National Science Foundation, the Department of Veterans Affairs, the Agency for Healthcare Research and Quality, and the National Institute of Standards and Technology;
+
+&emsp;“(4) assessing the scientific and medical merit of proposed pediatric device projects; and
+
+&emsp;“(5) providing assistance and advice as needed on business development, personnel training, prototype development, postmarket needs, and other activities consistent with the purposes of this section.
+
+“(d)
+
+Coordination.—
+
+&emsp;“(1)
+
+National institutes of health.—Each consortium that receives a grant or contract under this section shall—
+
+&emsp;&emsp;“(A) coordinate with the National Institutes of Health's pediatric device contact point or office, designated under section 402(b)(23) of the Public Health Service Act \[subsec. (b)(23) of this section\], as added by section 304(a) of this Act; and
+
+&emsp;&emsp;“(B) provide to the National Institutes of Health any identified pediatric device needs that the consortium lacks sufficient capacity to address or those needs in which the consortium has been unable to stimulate manufacturer interest.
+
+&emsp;“(2)
+
+Food and drug administration.—Each consortium that receives a grant or contract under this section shall coordinate with the Commissioner of Food and Drugs and device companies to facilitate the application for approval or clearance of devices labeled for pediatric use.
+
+&emsp;“(3)
+
+Effectiveness and outcomes.—Each consortium that receives a grant or contract under this section shall annually report to the Secretary of Health and Human Services on the status of pediatric device development, production, and distribution that has been facilitated by the consortium.
+
+“(e)
+
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 2008 through 2012.”
+
+#### Surveillances
+
+Pub. L. 110–85, title VIII, §801(c), Sept. 27, 2007, 121 Stat. 921, provided that: “Not later than 12 months after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary of Health and Human Services shall issue guidance on how the requirements of section 402(j) of the Public Health Service Act \[subsec. (j) of this section\], as added by this section, apply to a pediatric postmarket surveillance described in paragraph (1)(A)(ii)(II) of such section 402(j) that is not a clinical trial.”
+
+#### Preemption
+
+Pub. L. 110–85, title VIII, §801(d), Sept. 27, 2007, 121 Stat. 922, provided that:
+
+“(1)
+
+In general.—Upon the expansion of the registry and results data bank under section 402(j)(3)(D) of the Public Health Service Act \[subsec. (j)(3)(D) of this section\], as added by this section, no State or political subdivision of a State may establish or continue in effect any requirement for the registration of clinical trials or for the inclusion of information relating to the results of clinical trials in a database.
+
+“(2)
+
+Rule of construction.—The fact of submission of clinical trial information, if submitted in compliance with subsection (j) of section 402 of the Public Health Service Act (as amended by this section), that relates to a use of a drug or device not included in the official labeling of the approved drug or device shall not be construed by the Secretary of Health and Human Services or in any administrative or judicial proceeding, as evidence of a new intended use of the drug or device that is different from the intended use of the drug or device set forth in the official labeling of the drug or device. The availability of clinical trial information through the registry and results data bank under such subsection (j), if submitted in compliance with such subsection, shall not be considered as labeling, adulteration, or misbranding of the drug or device under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).”
+
 #### Collaboration and Report
 
 Pub. L. 105–115, title I, §113(b), Nov. 21, 1997, 111 Stat. 2312, directed the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Commissioner of Food and Drugs to collaborate to determine the feasibility of including device investigations within the scope of the data bank under subsec. (j) of this section, with the Secretary to report to Congress, not later than two years after Nov. 21, 1997, on the public health need, if any, for inclusion of device investigations within the scope of the data bank under subsec. (j), and on the adverse impact, if any, on device innovation and research in the United States if information relating to such device investigations was required to be publicly disclosed.
@@ -342,7 +1020,7 @@ Section 1901(a) of Pub. L. 103–43 provided that: “The Secretary of Health an
 
 #### Personnel Study of Recruitment, Retention and Turnover
 
-Section 1905 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of National Institutes of Health, to conduct a study to review the retention, recruitment, vacancy and turnover rates of support staff, including firefighters, law enforcement, procurement officers, technicians, nurses and clerical employees, to ensure that National Institutes of Health is adequately supporting conduct of efficient, effective and high quality research for the American public, and to submit a report to Congress on results of such study not later than 1 year after June 10, 1993.
+Section 1905 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director ofNational Institutes of Health, to conduct a study to review the retention, recruitment, vacancy and turnover rates of support staff, including firefighters, law enforcement, procurement officers, technicians, nurses and clerical employees, to ensure that National Institutes of Health is adequately supporting conduct of efficient, effective and high quality research for the American public, and to submit a report to Congress on results of such study not later than 1 year after June 10, 1993.
 
 #### Chronic Pain Conditions
 
@@ -355,4 +1033,14 @@ Section 1912 of Pub. L. 103–43 directed Secretary of Health and Human Services
 #### Master Plan for Physical Infrastructure for Research
 
 Section 2002 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequate buildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
+
+<i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
+
+<i><sup>4</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “paragraph (2)(A)(ii)(I)(ll),”.</i>
 

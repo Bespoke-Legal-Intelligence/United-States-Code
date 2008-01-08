@@ -4,13 +4,13 @@
 
 (b) An employee who is separated from the service after becoming 60 years of age and completing 20 years of service is entitled to an annuity.
 
-(c)(1) An employee who is separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer, firefighter, or nuclear materials courier, or any combination of such service totaling at least 20 years, is entitled to an annuity.
+(c)(1) An employee who is separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer, firefighter, nuclear materials courier, or customs and border protection officer, or any combination of such service totaling at least 20 years, is entitled to an annuity.
 
 (2) An employee is entitled to an annuity if the employee—
 
 &emsp;(A) was a law enforcement officer or firefighter employed by the Panama Canal Company or the Canal Zone Government at any time during the period beginning March 31, 1979, and ending September 30, 1979; and
 
-&emsp;(B) is separated from the service before January 1, 2000, after becoming 48 years of age and completing 18 years of service as a law enforcement officer or firefighter, or any combination of such service totaling at least 18 years.
+&emsp;(B) is separated from the service before January 1, 2000, after becoming 48 years of age andcompleting 18 years of service as a law enforcement officer or firefighter, or any combination of such service totaling at least 18 years.
 
 (d) An employee who—
 
@@ -46,7 +46,7 @@
 
 > after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity. For purposes of paragraph (1) of this subsection, separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function shall not be considered to be a removal for cause on charges of misconduct or delinquency. Notwithstanding the first sentence of this subsection, an employee described in paragraph (1) of this subsection is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee's agency for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
 
-(e) An employee who is voluntarily or involuntarily separated from the service, except by removal for cause on charges of misconduct or delinquency, after completing 25 years of service as an air traffic controller or after becoming 50years of age and completing 20 years of service as an air traffic controller, is entitled to an annuity.
+(e) An employee who is voluntarily or involuntarily separated from the service, except by removal for cause on charges of misconduct or delinquency, after completing 25 years of service as an air traffic controller or after becoming 50 years of age and completing 20 years of service as an air traffic controller, is entitled to an annuity.
 
 (f) An employee who is separated from the service after becoming 62 years of age and completing 5 years of service is entitled to an annuity.
 
@@ -60,7 +60,7 @@
 
 (i)(1) An employee of the Panama Canal Commission or of an Executive agency conducting operations in the Canal Zone or Republic of Panama who is separated from the service before January 1, 2000, who was employed by the Canal Zone Government or the Panama Canal Company at any time during the period beginning March 31, 1979, and ending September 30, 1979, and who has had continuous Panama Canal service, without a break in service of more than 3 days, from that time until separation, is entitled to an annuity if the employee is separated—
 
-&emsp;(A) involuntarily, after completing 20 years of service or after becoming 48 years of age and completing 18 years of service, if the separation is a result of the implementation of any provision of the Panama Canal Treaty of 1977 and related agreements; or
+&emsp;(A) involuntarily, after completing 20 years of service or after becoming 48 years of ageand completing 18 years of service, if the separation is a result of the implementation of any provision of the Panama Canal Treaty of 1977 and related agreements; or
 
 &emsp;(B) voluntarily, after completing 23 years of service or after becoming 48 years of age and completing 18 years of service.
 
@@ -126,9 +126,9 @@
 
 (<i>l</i>) A judge of the United States Court of Appeals for the Armed Forces who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after completing the term of service for which he was appointed as a judge of such court is entitled to an annuity. A judge who is separated from the service before becoming 60 years of age is entitled to a reduced annuity.
 
-(m) A member of the Capitol Police who is separated from the service after becoming 50 years of age and completing 20 years of service as a member of the Capitol Police or as a law enforcement officer, or any combination of such service totaling at least 20 years, is entitled to an annuity.
+(m) A member of the Capitol Police who is separated from the service after becoming 50 years of age and completing 20 years of service as a member of the Capitol Police as a law enforcement officer, or as a customs and border protection officer, or any combination of such service totaling at least 20 years, is entitled to an annuity.
 
-(n) A member of the Supreme Court Police who is separated from the service after becoming 50 years of age and completing 20 years of service as a member of the Supreme Court Police or as a law enforcement officer, or any combination of such service totaling at least 20 years, is entitled to an annuity.
+(n) A member of the Supreme Court Police who is separated from the service after becoming 50 years of age and completing 20 years of service as a member of the Supreme Court Police as a law enforcement officer, or as a customs and border protection officer, or any combination of such service totaling at least 20 years, is entitled to an annuity.
 
 (<i>o</i>) An annuity or reduced annuity authorized by this section is computed under section 8339 of this title.
 
@@ -196,7 +196,7 @@
 
 &emsp;&emsp;(iv) to reduce the number of high-grade, managerial, supervisory, or similar positions.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(<i>l</i>), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §§306(c)(3), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–320; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title X, §1048(i)(5), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–296, title XIII, §§1313(b)(1), 1321(a)(4)(A), Nov. 25, 2002, 116 Stat. 2294, 2297.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov.8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(<i>l</i>), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §§306(c)(3), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–320; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title X, §1048(i)(5), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–296, title XIII, §§1313(b)(1), 1321(a)(4)(A), Nov. 25, 2002, 116 Stat. 2294, 2297; Pub. L. 110–161, div. E, title V, §535(a)(4), Dec. 26, 2007, 121 Stat. 2075.)
 
 Historical and Revision Notes<br>1966
 
@@ -254,6 +254,10 @@ The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii
 
 #### Amendments
 
+2007—Subsec. (c)(1). Pub. L. 110–161, §535(a)(4)(A), substituted “nuclear materials courier, or customs and border protection officer” for “or nuclear materials courier”.
+
+Subsecs. (m), (n). Pub. L. 110–161, §535(a)(4)(B), substituted “as a law enforcement officer, or as a customs and border protection officer,” for “or as a law enforcement officer,”.
+
 2002—Subsec. (d)(2). Pub. L. 107–296, §1313(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “except in the case of an employee who is separated from the service under a program carried out under subsection (p), while serving in a geographic area designated by the Office of Personnel Management, is separated from the service voluntarily during a period in which the Office determines that—
 
 &emsp;“(A) the agency in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function; and
@@ -298,7 +302,7 @@ Subsec. (h)(2), (3). Pub. L. 101–194, §506(b)(7)(B), (C), substituted “for 
 
 1988—Subsec. (h)(3). Pub. L. 100–325 added par. (3).
 
-1987—Subsec. (k). Pub. L. 100–53 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “A bankruptcy judge who is separated from service, except by removal, after becoming sixty-two years of age and completing ten years of service as a bankruptcy judge is entitled to an annuity.”
+1987—Subsec. (k). Pub. L. 100–53 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “A bankruptcy judge who is separated from service, except by removal, after becoming sixty-two yearsof age and completing ten years of service as a bankruptcy judge is entitled to an annuity.”
 
 1985—Subsec. (j)(3)(A). Pub. L. 99–190 substituted “10 years” for “5 years”.
 
@@ -348,9 +352,13 @@ Subsecs. (e) to (h). Pub. L. 92–297 added subsec. (e) and redesignated former 
 
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 3508 of Title 20, Education.
 
+#### Effective Date of 2007 Amendment; Transition Rules
+
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
+
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 2000 Amendment
 
@@ -376,7 +384,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–53 effective Oct. 1, 1987, and applicable to bankruptcy judges and United States magistrate judges in office on that date and to individuals subsequently appointed to such positions to whom this chapter otherwise applies, see section 3 of Pub. L. 100–53, as amended, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 100–53 effective Oct. 1, 1987, and applicable to bankruptcy judges and United Statesmagistrate judges in office on that date and to individuals subsequently appointed to such positions to whom this chapter otherwise applies, see section 3 of Pub. L. 100–53, as amended, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1984 Amendments
 

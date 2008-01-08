@@ -18,7 +18,7 @@ Public Law 84–99, referred to in subsec. (b), is act June 28, 1955, ch. 194, 6
 
 #### Codification
 
-Section was enacted as part of the Dam Safety Act of 1986, and also as part of the Water Resources Development Act of 1986, and not as part of Pub. L. 92–367 which comprises this subchapter.
+Section was enacted as part of the Dam Safety Act of 1986, and also as part of the Water Resources Development Act of 1986, and not as part of the National Dam Safety Program Act which comprises this subchapter.
 
 #### “Secretary” Defined
 

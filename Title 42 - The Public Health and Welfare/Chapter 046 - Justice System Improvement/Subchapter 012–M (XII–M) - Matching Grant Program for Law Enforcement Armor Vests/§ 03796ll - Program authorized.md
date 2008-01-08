@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The Director of the Bureau of Justice Assistance is authorized to make grants to States, units of local government, and Indian tribes to purchase armor vests for use by State, local, and tribal law enforcement officers.
+The Director of the Bureau of Justice Assistance is authorized to make grants to States, units of local government, and Indian tribes to purchase armor vests for use by State, local, and tribal law enforcement officers and State and local court officers.
 
 #### (b) Uses of funds
 
 Grants awarded under this section shall be—
 
-&emsp;(1) distributed directly to the State, unit of local government, or Indian tribe; and
+&emsp;(1) distributed directly to the State, unit of local government, State or local court, or Indian tribe; and
 
 &emsp;(2) used for the purchase of armor vests for law enforcement officers in the jurisdiction of the grantee.
 
@@ -56,7 +56,7 @@ A qualifying State, unit of local government, or Indian tribe may not receive mo
 
 Funds available under this subchapter shall be awarded, without regard to subsection (c) of this section, to each qualifying unit of local government with fewer than 100,000 residents. Any remaining funds available under this subchapter shall be awarded to other qualifying applicants.
 
-(Pub. L. 90–351, title I, §2501, as added Pub. L. 105–181, §3(a)(3), June 16, 1998, 112 Stat. 513; amended Pub. L. 106–517, §3(a), (b), Nov. 13, 2000, 114 Stat. 2407, 2408.)
+(Pub. L. 90–351, title I, §2501, as added Pub. L. 105–181, §3(a)(3), June 16, 1998, 112 Stat. 513; amended Pub. L. 106–517, §3(a), (b), Nov. 13, 2000, 114 Stat. 2407, 2408; Pub. L. 110–177, title III, §302(d), Jan. 7, 2008, 121 Stat. 2539.)
 
 #### References in Text
 
@@ -67,6 +67,10 @@ The Departments of Commerce, Justice, and State, the Judiciary, and Related Agen
 A prior section 2501 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–177, §302(d)(1), inserted “and State and local court officers” after “tribal law enforcement officers”.
+
+Subsec. (b)(1). Pub. L. 110–177, §302(d)(2), inserted “State or local court,” after “government,”.
 
 2000—Subsec. (f). Pub. L. 106–517, §3(a), designated first sentence as par. (1), inserted par. heading, substituted “subsection (a) of this section—” and subpars. (A) and (B) for “subsection (a) of this section may not exceed 50 percent.”, and designated second sentence as par. (2) and inserted par. heading.
 

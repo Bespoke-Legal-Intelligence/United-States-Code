@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Price cap contract
 
-&emsp;The term “price cap contract” means a contract between a retailer and a consumer underwhich the retailer charges the consumer the market price for propane, kerosene, or heating oil, but the cost of the propane, kerosene, or heating oil may exceed a maximum amount stated in the contract.
+&emsp;The term “price cap contract” means a contract between a retailer and a consumer under which the retailer charges the consumer the market price for propane, kerosene, or heating oil, but the cost of the propane, kerosene, or heating oil may exceed a maximum amount stated in the contract.
 
 #### (b) Assistance
 

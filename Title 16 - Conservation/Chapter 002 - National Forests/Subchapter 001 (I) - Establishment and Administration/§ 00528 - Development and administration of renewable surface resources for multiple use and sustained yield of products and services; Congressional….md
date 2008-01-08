@@ -92,7 +92,7 @@ Treatment of fees.—Funds collected under subsection (c) shall not be taken int
 
 “(g)
 
-Reporting Requirements.—As soon as practicable after the end of each fiscal year in which the Secretary of Agriculture collects fees under subsection (c) or expends funds from the special account under subsection (f), the Secretary shall submit to the Congress a report summarizing the activities of the Secretary under the pilot program, including the funds generated under subsection (c), the expenses incurred to carry out the pilot program, and the expenditures made from the special account during that fiscal year.
+Reporting Requirements.—As soon as practicable after the end of each fiscal year in which the Secretary of Agriculture collects fees under subsection (c) or expends funds from the special account under subsection (f), the Secretary shall submit to the Congress a report summarizing the activities of the Secretary under the pilot program, including the fundsgenerated under subsection (c), the expenses incurred to carry out the pilot program, and the expenditures made from the special account during that fiscal year.
 
 “(h)
 

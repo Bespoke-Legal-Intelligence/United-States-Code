@@ -52,7 +52,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(i) if the workshop or institute is conducted during a 2-week period, the followup training shall be conducted for a period of not less than 4 days; and
 
-&emsp;&emsp;&emsp;(ii) if the followup training is for teachers in rural school districts, the followuptraining may be conducted through distance learning.
+&emsp;&emsp;&emsp;(ii) if the followup training is for teachers in rural school districts, the followup training may be conducted through distance learning.
 
 (Pub. L. 89–10, title II, §2201, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1642.)
 

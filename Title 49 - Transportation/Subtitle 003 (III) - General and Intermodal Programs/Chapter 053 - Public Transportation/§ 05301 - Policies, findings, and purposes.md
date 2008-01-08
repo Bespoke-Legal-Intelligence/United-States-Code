@@ -54,7 +54,7 @@ General Purposes.—The purposes of this chapter are—
 
 &emsp;(3) to assist States and local governments and their authorities in financing areawide public transportation systems that are to be operated by public transportation companies or private companies engaged in public transportation as decided by local needs;
 
-&emsp;(4) to provide financial assistance to State and local governments and their authorities tohelp carry out national goals related to mobility for elderly individuals, individuals with disabilities, and economically disadvantaged individuals; and
+&emsp;(4) to provide financial assistance to State and local governments and their authorities to help carry out national goals related to mobility for elderly individuals, individuals with disabilities, and economically disadvantaged individuals; and
 
 &emsp;(5) to establish a partnership that allows a community, with financial assistance from the Government, to satisfy its public transportation requirements.
 

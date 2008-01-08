@@ -40,7 +40,7 @@
 
 #### (iii) Deadline
 
-&emsp;&emsp;&emsp;The Secretary shall determine whether the workers in the group are eligible for the alternative trade adjustment assistance program by the date specified in section 2273(a) of this title.
+&emsp;&emsp;&emsp;The Secretary shall determine whether the workers in the group are eligible forthe alternative trade adjustment assistance program by the date specified in section 2273(a) of this title.
 
 #### (B) Individual eligibility
 
@@ -98,5 +98,5 @@ Section applicable to petitions for certification filed under this part or part 
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

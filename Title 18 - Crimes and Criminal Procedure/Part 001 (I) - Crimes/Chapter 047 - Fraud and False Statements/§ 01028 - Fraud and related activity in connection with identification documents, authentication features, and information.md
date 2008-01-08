@@ -6,7 +6,7 @@
 
 &emsp;(2) knowingly transfers an identification document, authentication feature, or a false identification document knowing that such document or feature was stolen or produced without lawful authority;
 
-&emsp;(3) knowingly possesses with intent to use unlawfully or transfer unlawfully five or more identification documents (other than those issued lawfully for the use of the possessor), authentication features, or false identification documents;
+&emsp;(3) knowingly possesses with intent to use unlawfully or transfer unlawfully five or moreidentification documents (other than those issued lawfully for the use of the possessor), authentication features, or false identification documents;
 
 &emsp;(4) knowingly possesses an identification document (other than one issued lawfully for the use of the possessor), authentication feature, or a false identification document, with the intent such document or feature be used to defraud the United States;
 
@@ -24,7 +24,7 @@
 
 &emsp;(1) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment for not more than 15 years, or both, if the offense is—
 
-&emsp;&emsp;(A) the production or transfer of an identification document, authentication feature,or false identification document that is or appears to be—
+&emsp;&emsp;(A) the production or transfer of an identification document, authentication feature, or false identification document that is or appears to be—
 
 &emsp;&emsp;&emsp;(i) an identification document or authentication feature issued by or under the authority of the United States; or
 
@@ -262,7 +262,7 @@ Pub. L. 106–578, §2, Dec. 28, 2000, 114 Stat. 3075, provided that:
 
 “(a)
 
-In General.—The Attorney General and the Secretary of the Treasury shall establish a coordinatingcommittee to ensure, through existing interagency task forces or other means, that the creation and distribution of false identification documents (as defined in section 1028(d)(3) \[now 1028(d)(4)\] of title 18, United States Code, as added by section 3(2) of this Act) is vigorously investigated and prosecuted.
+In General.—The Attorney General and the Secretary of the Treasury shall establish a coordinating committee to ensure, through existing interagency task forces or other means, that the creation and distribution of false identification documents (as defined in section 1028(d)(3) \[now 1028(d)(4)\] of title 18, United States Code, as added by section 3(2) of this Act) is vigorously investigated and prosecuted.
 
 “(b)
 

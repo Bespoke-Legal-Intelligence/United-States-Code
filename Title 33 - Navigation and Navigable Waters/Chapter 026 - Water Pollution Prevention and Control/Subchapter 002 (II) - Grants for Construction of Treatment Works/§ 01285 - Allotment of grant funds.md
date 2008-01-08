@@ -12,9 +12,9 @@ Sums authorized to be appropriated pursuant to section 1287 of this title for ea
 
 #### (c) Funds for fiscal years during period October 1, 1977, and September 30, 1981; funds for fiscal years 1982 to 1990; determination of amount
 
-(1) Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years during the period beginning October 1, 1977, and ending September 30, 1981, shall be allotted for each such year by the Administrator not later than the tenth day which begins after December 27, 1977. Notwithstanding any other provision of law, sums authorized for the fiscal years ending September 30, 1978, September 30, 1979, September 30, 1980, and September 30, 1981, shall be allotted in accordance with table 3 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives.
+(1) Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscalyears during the period beginning October 1, 1977, and ending September 30, 1981, shall be allotted for each such year by the Administrator not later than the tenth day which begins after December 27, 1977. Notwithstanding any other provision of law, sums authorized for the fiscal years ending September 30, 1978, September 30, 1979, September 30, 1980, and September 30, 1981, shall be allotted in accordance with table 3 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives.
 
-(2) Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years 1982, 1983, 1984, and 1985 shall be allotted for each such year by the Administrator not later than the tenth day which begins after December 29, 1981. Notwithstanding any other provision of law, sums authorized for the fiscal year ending September 30, 1982, shall be allotted in accordance with table 3 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives. Sums authorized for the fiscal years ending September 30, 1983, September 30, 1984, September 30, 1985, and September 30, 1986,shall be allotted in accordance with the following table:
+(2) Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years 1982, 1983, 1984, and 1985 shall be allotted for each such year by the Administrator not later than the tenth day which begins after December 29, 1981. Notwithstanding any other provision of law, sums authorized for the fiscal year ending September 30, 1982, shall be allotted in accordance with table 3 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives. Sums authorized for the fiscal years ending September 30, 1983, September 30, 1984, September 30, 1985, and September 30, 1986, shall be allotted in accordance with the following table:
 
 &nbsp;
 
@@ -168,7 +168,7 @@ The Administrator shall set aside from funds authorized for each fiscal year beg
 
 #### (i) Set-aside for innovative and alternative projects
 
-Not less than 1/2 of 1 percent of funds allotted to a State for each of the fiscal years ending September 30, 1979, through September 30, 1990, under subsection (c) of this section shall be expended only for increasing the Federal share of grants for construction of treatment works utilizing innovative processes and techniques pursuant to section 1282(a)(2) of this title. Including the expenditures authorized by the preceding sentence, a total of 2 percent of the funds allotted to a State for each of the fiscal years ending September 30, 1979, and September 30, 1980, and 3 percent of the funds allotted to a State for the fiscal year ending September 30, 1981, under subsection (c) of this section shall be expended only for increasing grants for construction of treatment works pursuant to section 1282(a)(2) of this title. Including the expenditures authorized by the first sentence of this subsection, a total (as determined by the Governor of the State) of not less than 4 percent nor more than 71/2 percent of the funds allotted to such State under subsection (c) of this section for each of the fiscal years ending September 30, 1982, through September 30, 1990, shall be expended only for increasing the Federal share of grants for construction of treatment works pursuant to section 1282(a)(2) of this title.
+Not less than 1/2 of 1 percent of funds allotted to a State for each of the fiscal years ending September 30, 1979, through September 30, 1990, under subsection (c) of this section shall be expended only for increasing the Federal share of grants for construction of treatment works utilizing innovative processes and techniques pursuant to section 1282(a)(2) of this title. Including the expenditures authorized by the preceding sentence, a total of 2 percent of the funds allotted to a State for each of the fiscal years ending September 30, 1979, and September 30, 1980, and 3 percent of the funds allotted to a State for the fiscal year ending September 30, 1981, under subsection (c) of this section shall be expended only for increasing grants for construction of treatment works pursuant to section 1282(a)(2) of this title. Including the expenditures authorized bythe first sentence of this subsection, a total (as determined by the Governor of the State) of not less than 4 percent nor more than 71/2 percent of the funds allotted to such State under subsection (c) of this section for each of the fiscal years ending September 30, 1982, through September 30, 1990, shall be expended only for increasing the Federal share of grants for construction of treatment works pursuant to section 1282(a)(2) of this title.
 
 #### (j) Water quality management plan; reservation of funds for nonpoint source management
 
@@ -222,7 +222,7 @@ The Administrator shall allot to the State of New York from sums authorized to b
 
 #### (4) Treatment of certain body of water
 
-&emsp;For purposes of this section and section 1281(n) of this title, Newark Bay, New Jersey, and the portion of the Passaic River up to Little Falls, in the vicinity of Beatties Dam, shall be treated as a marine bay and estuary.
+&emsp;For purposes of this section and section 1281(n) of this title, Newark Bay, New Jersey,and the portion of the Passaic River up to Little Falls, in the vicinity of Beatties Dam, shall be treated as a marine bay and estuary.
 
 #### (m) Discretionary deposits into State water pollution control revolving funds
 
@@ -302,7 +302,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.)to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
+Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

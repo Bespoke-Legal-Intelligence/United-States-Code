@@ -36,7 +36,7 @@ The Secretary of Transportation shall carry out a program to provide grants to S
 
 #### (2) Eligible activities
 
-&emsp;A grant under this subsection may be used by a State to support the implementation of systems that use changeable message signs or other motorist information systems to notify motorists about abductions of children. Such support may include the purchase and installation of changeable message signs or other motorist information systems to notify motorists about abductions of children.
+&emsp;A grant under this subsection may be used by a State to support the implementation of systems that use changeable message signs or other motorist information systems to notifymotorists about abductions of children. Such support may include the purchase and installation of changeable message signs or other motorist information systems to notify motorists about abductions of children.
 
 #### (d) Federal share
 

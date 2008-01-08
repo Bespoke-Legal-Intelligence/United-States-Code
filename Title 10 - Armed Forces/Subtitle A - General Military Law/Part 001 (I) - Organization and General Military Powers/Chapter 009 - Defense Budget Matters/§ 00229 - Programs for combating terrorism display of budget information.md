@@ -68,7 +68,7 @@ Submission of information.—As part of the budget justification materials submi
 
 &emsp;&emsp;“(A) The information described in paragraph (2) for the fiscal year for which the budget justification materials are submitted, the fiscal year during which the materials are submitted, and the preceding fiscal year.
 
-&emsp;&emsp;“(B) The information described in paragraph (2) for each of the fiscal years covered by the future-years defense program for the fiscal year in which the report is submitted based on estimates of any amounts required to meet each of the requirements under subsection (a) that are not met for that fiscalyear and are deferred to the future-years defense program.
+&emsp;&emsp;“(B) The information described in paragraph (2) for each of the fiscal years covered by the future-years defense program for the fiscal year in which the report is submitted based on estimates of any amounts required to meet each of the requirements under subsection (a) that are not met for that fiscal year and are deferred to the future-years defense program.
 
 &emsp;&emsp;“(C) A consolidated budget justification summary of the information submitted under subparagraphs (A) and (B).
 
@@ -151,6 +151,4 @@ Operations Covered.—The operations referred to in subsection (a) are the follo
 “(c)
 
 Requirement for Comprehensiveness.—For the purpose of providing a full and complete accounting of the costs and expenditures under subsection (a) for an operation specified in subsection (b), the Secretary shall account in the quarterly submission under subsection (a) for all costs and expenditures that are reasonably attributable to that operation, including personnel costs.”
-
-§230
 

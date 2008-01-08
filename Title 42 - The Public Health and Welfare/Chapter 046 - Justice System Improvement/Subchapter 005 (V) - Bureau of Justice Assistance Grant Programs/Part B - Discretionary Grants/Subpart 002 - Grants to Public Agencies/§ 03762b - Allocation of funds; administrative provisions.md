@@ -2,7 +2,7 @@
 
 #### (a) Allocation of funds
 
-Of the total amount appropriated for this subpart in any fiscal year, 80 percent shall be used to make grants under section 3762a(a)(1) of this title, 10 percent shall be used to make grants under section 3762a(a)(2) of this title, and 10 percent shall be used to make grants under section 3762a(a)(3) of this title.
+Of the total amount appropriated for this subpart in any fiscal year, 70 percent shall be used to make grants under section 3762a(a)(1) of this title, 10 percent shall be used to make grants under section 3762a(a)(2) of this title, 10 percent shall be used to make grants under section 3762a(a)(3) of this title, and 10 percent for section 3762a(a)(4) of this title.
 
 #### (b) Limit on grant share of cost
 
@@ -20,13 +20,15 @@ The Director shall—
 
 &emsp;&emsp;(B) request applications for grants under this subpart.
 
-(Pub. L. 90–351, title I, §516, as added Pub. L. 101–647, title XVIII, §1801(a)(7), Nov. 29, 1990, 104 Stat. 4848; amended Pub. L. 103–322, title XXXIII, §330001(b)(2), Sept. 13, 1994, 108 Stat. 2138.)
+(Pub. L. 90–351, title I, §516, as added Pub. L. 101–647, title XVIII, §1801(a)(7), Nov. 29, 1990, 104 Stat. 4848; amended Pub. L. 103–322, title XXXIII, §330001(b)(2), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 110–177, title III, §302(b), Jan. 7, 2008, 121 Stat. 2539.)
 
 #### Prior Provisions
 
 For prior section 516 of Pub. L. 90–351, see note set out preceding section 3750 of this title.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–177 substituted “70” for “80” and “3762a(a)(2) of this title, 10” for “3762a(a)(2) ofthis title, and 10” and inserted “, and 10 percent for section 3762a(a)(4) of this title” before period at end.
 
 1994—Subsec. (a). Pub. L. 103–322, §330001(b)(2)(A), substituted “10 percent shall be used to make grants under section” for “10 percent for section” in two places.
 

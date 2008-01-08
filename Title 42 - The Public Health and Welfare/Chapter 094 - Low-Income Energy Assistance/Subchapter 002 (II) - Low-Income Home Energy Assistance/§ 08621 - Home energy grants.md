@@ -48,7 +48,7 @@ Subsec. (d). Pub. L. 105–285, §302(c), designated existing provisions as par.
 
 Subsec. (e). Pub. L. 105–285, §302(d), substituted “There is authorized” for “There are authorized” and “(other than subsection (e) of such section)” for “(other than subsection (g))”.
 
-1994—Subsec. (a). Pub. L. 103–252, §302, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Health and Human Services is authorized to make grants, in accordance with the provisions of this subchapter, to States to assist eligible households to meet the costs of home energy.”
+1994—Subsec. (a). Pub. L. 103–252, §302, amended subsec. (a) generally. Prior to amendment, subsec. (a) readas follows: “The Secretary of Health and Human Services is authorized to make grants, in accordance with the provisions of this subchapter, to States to assist eligible households to meet the costs of home energy.”
 
 Subsec. (b). Pub. L. 103–252, §§303(a)(1), 311(c)(1)(A), substituted “this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999” for “this subchapter (other than section 8626a of this title) $2,307,000,000 for fiscal year 1990, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993, 1994, and 1995” and struck out second period at end.
 

@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (1) Members of the Armed Forces
 
-&emsp;Gross income does not include compensation received for active service as a member of the Armed Forces of the United States for any month during any part of which such member is in a missing status (as defined in section 551(2) of title 37, United States Code) during the Vietnam conflict as a result of such conflict, other than a period with respect to which it is officially determined under section 552(c) of such title 37 that he is officially absent from his post of duty without authority.
+&emsp;Gross income does not include compensation received for active service as a member of theArmed Forces of the United States for any month during any part of which such member is in a missing status (as defined in section 551(2) of title 37, United States Code) during the Vietnam conflict as a result of such conflict, other than a period with respect to which it is officially determined under section 552(c) of such title 37 that he is officially absent from his post of duty without authority.
 
 #### (2) Civilian employees
 

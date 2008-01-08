@@ -50,7 +50,7 @@ A State operating a program funded under this part may apply to a family the rul
 
 #### (B) Exception relating to subchapter XX programs
 
-&emsp;&emsp;All amounts paid to a State under this part that are used to carry out State programs pursuant to subchapter XX of this chapter shall be used only for programs and services to children or their families whose income is less than 200 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
+&emsp;&emsp;All amounts paid to a State under this part that are used to carry out State programs pursuant to subchapter XX of thischapter shall be used only for programs and services to children or their families whose income is less than 200 percent of the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
 #### (e) Authority to reserve certain amounts for assistance
 
@@ -62,7 +62,7 @@ A State to which a grant is made under section 603 of this title may use the gra
 
 #### (g) Implementation of electronic benefit transfer system
 
-A State to which a grant is made under section 603 of this title is encouraged to implement an electronic benefit transfer system for providing assistance under the State program fundedunder this part, and may use the grant for such purpose.
+A State to which a grant is made under section 603 of this title is encouraged to implement an electronic benefit transfer system for providing assistance under the State program funded under this part, and may use the grant for such purpose.
 
 #### (h) Use of funds for individual development accounts
 
@@ -276,7 +276,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rulesrelating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Assets for Independence
 
@@ -362,7 +362,7 @@ In general.—The term ‘individual development account’ means a trust create
 
 &emsp;&emsp;“(B)
 
-Custodial accounts.—For purposes of subparagraph (A), a custodial account shall be treated as a trust if the assets of the custodial account are held by a bank (as defined in section 408(n) of the Internal Revenue Code of 1986 \[26 U.S.C. 408(n)\]) or another person who demonstrates, to the satisfaction of the Secretary, that the manner in which such person will administer the custodial account will be consistent with the requirements of this title, and if the custodial account would, except for the fact that it is not a trust, constitute an individual development account described in subparagraph (A). For purposes of this title, in the case of a custodial account treated as a trust by reason of the preceding sentence, the custodian of that custodial account shall be treated as the trustee of the account.
+Custodial accounts.—For purposes of subparagraph (A), a custodial account shall be treated as a trust if the assets of the custodial account are held by a bank (as defined in section 408(n) of the Internal Revenue Code of 1986 \[26 U.S.C. 408(n)\]) or another person who demonstrates, to the satisfaction of the Secretary, that the manner in which such person will administer the custodial account will be consistent with the requirements of this title, and if the custodial account would, except for the fact that it is not a trust, constitute an individual development account described in subparagraph (A). For purposes of this title, in the case of a custodial account treated as a trust by reason of thepreceding sentence, the custodian of that custodial account shall be treated as the trustee of the account.
 
 &emsp;“(6)
 
@@ -388,7 +388,7 @@ In general.—The term ‘qualified entity’ means—
 
 &emsp;&emsp;&emsp;(bb) an organization designated as a community development financial institution by the Secretary of the Treasury (or the Community Development Financial Institutions Fund); and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(II) can demonstrate a collaborative relationship with a local community-based organizationwhose activities are designed to address poverty in the community and the needs of community members for economic independence and stability.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(II) can demonstrate a collaborative relationship with a local community-based organization whose activities are designed to address poverty in the community and the needs of community members for economic independence and stability.
 
 &emsp;&emsp;“(B)
 
@@ -626,7 +626,7 @@ Investment.—A qualified entity shall invest the amounts in its Reserve Fund th
 
 &emsp;“(3)
 
-Limitation on uses.—Not more than 15 percent of the amounts provided to a qualified entity under section 406(b) shall be used by the qualified entity for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1), of which not less than 2 percent of the amounts shall be used by the qualified entity for the purposes described in paragraph (1)(D). Of the total amount specified in this paragraph, not more than 7.5 percent shall be used for administrative functions under paragraph (1)(C), including program management, reporting requirements, recruitment and enrollment of individuals, and monitoring. The remainder of the total amount specified in this paragraph (not including the amount specified for use for the purposes described in paragraph (1)(D)) shall be used for nonadministrative functions described in paragraph (1)(A), including case management, budgeting, economic literacy, and credit counseling. If the cost of nonadministrative functions described in paragraph (1)(A) is less than 5.5 percent of the total amount specified in this paragraph, such excess funds may be used for administrative functions. If two ormore qualified entities are jointly administering a project, no qualified entity shall use more than its proportional share for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1).
+Limitation on uses.—Not more than 15 percent of the amounts provided to a qualified entity under section 406(b) shall be used by the qualified entity for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1), of which not less than 2 percent of the amounts shall be used by the qualified entity for the purposes described in paragraph (1)(D). Of the total amount specified in this paragraph, not more than 7.5 percent shall be used for administrative functions under paragraph (1)(C), including program management, reporting requirements, recruitment and enrollment of individuals, and monitoring. The remainder of the total amount specified in this paragraph (not including the amount specified for use for the purposes described in paragraph (1)(D)) shall be used for nonadministrative functions described in paragraph (1)(A), including case management, budgeting, economic literacy, and credit counseling. If the cost of nonadministrative functions described in paragraph (1)(A) is less than 5.5 percent of the total amount specified in this paragraph, such excess funds may be used for administrative functions. If two or more qualified entities are jointly administering a project, no qualified entity shall use more than its proportional share for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1).
 
 “(d)
 
@@ -712,7 +712,7 @@ Reimbursement.—An individual shall reimburse an individual development account
 
 #### “SEC. 411. LOCAL CONTROL OVER DEMONSTRATION PROJECTS.
 
-“A qualified entity under this title, other than a State or local government agency or a tribal government, shall, subject to the provisions of section 413, have sole authority over the administration of the project. The Secretary may prescribe only such regulations or guidelines with respect to demonstration projects conducted under this title as are necessary to ensure compliance with the approved applications and the requirements of this title.
+“A qualified entity under this title, other than a State or local government agency or a tribal government, shall, subject to the provisions of section 413, have sole authority over the administration of the project. The Secretary may prescribe only such regulations or guidelines with respect to demonstration projects conducted under this title as are necessary toensure compliance with the approved applications and the requirements of this title.
 
 #### “SEC. 412. ANNUAL PROGRESS REPORTS.
 
@@ -822,7 +822,7 @@ Reports by the Secretary.—
 
 &emsp;“(1)
 
-Interim reports.—Not later than 90 days after the end of the project year in which the Secretary first authorizes a qualified entity to conduct a demonstration project under this title, and every 12 months thereafter until all demonstration projects conducted under this title are completed, the Secretary shall submit to Congress an interim report setting forth the results of the reports submitted pursuant to section 412(b).
+Interim reports.—Not later than 90 days after the end of the project year in which the Secretary first authorizes a qualified entity to conduct a demonstration project under this title, and every 12 months thereafter until all demonstration projects conducted under this title are completed, the Secretary shall submit to Congress an interim reportsetting forth the results of the reports submitted pursuant to section 412(b).
 
 &emsp;“(2)
 

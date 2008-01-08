@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 &emsp;(1) “alluvial valley floors” means the unconsolidated stream laid deposits holding streams where water availability is sufficient for subirrigation or flood irrigation agricultural activities but does not include upland areas which are generally overlain by a thin veneer of colluvial deposits composed chiefly of debris from sheet erosion, deposits by unconcentrated runoff or slope wash, together with talus, other mass movement accumulation and windblown deposits;
 
-&emsp;(2) “approximate original contour” means that surface configuration achieved by backfilling and grading of the mined area so that the reclaimed area, including any terracing or access roads, closely resembles the general surface configuration of the land prior to mining and blends into and complements the drainage pattern of the surrounding terrain, with all highwalls and spoil piles eliminated; water impoundments may be permitted wherethe regulatory authority determines that they are in compliance with section 1265(b)(8) of this title;
+&emsp;(2) “approximate original contour” means that surface configuration achieved by backfilling and grading of the mined area so that the reclaimed area, including any terracing or access roads, closely resembles the general surface configuration of the land prior to mining and blends into and complements the drainage pattern of the surrounding terrain, with all highwalls and spoil piles eliminated; water impoundments may be permitted where the regulatory authority determines that they are in compliance with section 1265(b)(8) of this title;
 
 &emsp;(3) “commerce” means trade, traffic, commerce, transportation, transmission, or communication among the several States, or between a State and any other place outside thereof, or between points in the same State which directly or indirectly affect interstate commerce;
 
@@ -34,7 +34,7 @@ For the purposes of this chapter—
 
 &emsp;(16) “permit applicant” or “applicant” means a person applying for a permit;
 
-&emsp;(17) “permit area” means the area of land indicated on the approved map submitted by the operator with his application, which area of land shall be covered by the operator's bond as required by section 1259 of this title and shall be readily identifiable by appropriate markers on the site;
+&emsp;(17) “permit area” means the area of land indicated on the approved map submitted by the operator with his application, which area of land shall be covered by the operator's bond asrequired by section 1259 of this title and shall be readily identifiable by appropriate markers on the site;
 
 &emsp;(18) “permittee” means a person holding a permit;
 
@@ -50,7 +50,7 @@ For the purposes of this chapter—
 
 &emsp;(24) “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, and Guam;
 
-&emsp;(25) “State program” means a program established by a State pursuant to section 1253 of this title to regulate surface coal mining and reclamation operations, on lands within such State in accord with the requirements ofthis chapter and regulations issued by the Secretary pursuant to this chapter;
+&emsp;(25) “State program” means a program established by a State pursuant to section 1253 of this title to regulate surface coal mining and reclamation operations, on lands within such State in accord with the requirements of this chapter and regulations issued by the Secretary pursuant to this chapter;
 
 &emsp;(26) “State regulatory authority” means the department or agency in each State which has primary responsibility at the State level for administering this chapter;
 
@@ -78,7 +78,7 @@ For the purposes of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which enacted this chapter and amended section 1114 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat.445, which enacted this chapter and amended section 1114 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
 
 #### Amendments
 

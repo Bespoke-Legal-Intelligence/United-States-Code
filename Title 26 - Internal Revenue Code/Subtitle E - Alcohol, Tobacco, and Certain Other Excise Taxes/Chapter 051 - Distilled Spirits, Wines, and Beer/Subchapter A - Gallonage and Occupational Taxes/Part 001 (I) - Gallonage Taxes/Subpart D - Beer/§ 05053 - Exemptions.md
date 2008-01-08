@@ -84,7 +84,7 @@ Section 1414(d) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 Section 1418(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Section 1419(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendarquarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Section 1419(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1978 Amendment
 

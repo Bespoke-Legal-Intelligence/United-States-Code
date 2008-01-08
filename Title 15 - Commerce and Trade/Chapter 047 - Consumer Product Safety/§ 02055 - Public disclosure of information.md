@@ -48,7 +48,7 @@
 
 (7) If the Commission finds that, in the administration of this Act, it has made public disclosure of inaccurate or misleading information which reflects adversely upon the safety of any consumer product or class of consumer products, or the practices of any manufacturer, private labeler, distributor, or retailer of consumer products, it shall, in a manner equivalent to that in which such disclosure was made, take reasonable steps to publish a retraction of such inaccurate or misleading information.
 
-(8) If, after the commencement of a rulemaking or the initiation of an adjudicatory proceeding, the Commission decides to terminatethe proceeding before taking final action, the Commission shall, in a manner equivalent to that in which such commencement or initiation was publicized, take reasonable steps to make known the decision to terminate.
+(8) If, after the commencement of a rulemaking or the initiation of an adjudicatory proceeding, the Commission decides to terminate the proceeding before taking final action, the Commission shall, in a manner equivalent to that in which such commencement or initiation was publicized, take reasonable steps to make known the decision to terminate.
 
 #### (c) Communications with manufacturers
 
@@ -100,7 +100,7 @@ Subsec. (e). Pub. L. 101–608, §112(c), added subsec. (e).
 
 1981—Subsec. (a)(1). Pub. L. 97–35 amended par. (1) generally, substituting “shall be construed” for “shall be deemed”.
 
-Subsec. (a)(2). Pub. L. 97–35 amended par. (2) generally, substituting “title 18, or subject to section 552(b)(4) of title 5, shall be considered confidential and shall not be disclosed” for “title 18 shall be considered confidential and shall not be disclosed, except that such information may be disclosed to other officers oremployees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this chapter shall authorize the withholding of information by the Commission or any officer or employee under its control from the duly authorized committees of the Congress”.
+Subsec. (a)(2). Pub. L. 97–35 amended par. (2) generally, substituting “title 18, or subject to section 552(b)(4) of title 5, shall be considered confidential and shall not be disclosed” for “title 18 shall be considered confidential and shall not be disclosed, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this chapter shall authorize the withholding of information by the Commission or any officer or employee under its control from the duly authorized committees of the Congress”.
 
 Subsec. (a)(3) to (8). Pub. L. 97–35 added pars. (3) to (8).
 

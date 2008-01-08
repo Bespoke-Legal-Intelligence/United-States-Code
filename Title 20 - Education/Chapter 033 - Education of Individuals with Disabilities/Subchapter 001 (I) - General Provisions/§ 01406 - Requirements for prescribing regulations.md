@@ -10,7 +10,7 @@ The Secretary may not implement, or publish in final form, any regulation prescr
 
 &emsp;(1) violates or contradicts any provision of this chapter; or
 
-&emsp;(2) procedurally or substantively lessens the protections provided to children with disabilities under this chapter, as embodied in regulations in effect on July 20, 1983 (particularly as such protections related to parental consent to initial evaluation or initial placement in special education, least restrictive environment, related services, timelines, attendance of evaluation personnel at individualized education program meetings, or qualifications of personnel), except to the extent that such regulation reflects the clear and unequivocal intent of Congress in legislation.
+&emsp;(2) procedurally or substantively lessens the protections provided to children with disabilities under this chapter, as embodied in regulations in effect on July 20, 1983 (particularly as such protections related to parental consent to initial evaluation or initial placement in special education, least restrictive environment, related services, timelines, attendance of evaluation personnel at individualized education program meetings, or qualifications ofpersonnel), except to the extent that such regulation reflects the clear and unequivocal intent of Congress in legislation.
 
 #### (c) Public comment period
 
@@ -52,7 +52,7 @@ Any written response by the Secretary under subsection (d) regarding a policy, q
 
 #### Prior Provisions
 
-A prior section 1406, Pub. L. 91–230, title VI, §607, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 47, related to requirements for prescribing regulations,prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1406, Pub. L. 91–230, title VI, §607, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 47, related to requirements for prescribing regulations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another section 1406, Pub. L. 91–230, title VI, §607, as added Pub. L. 94–142, §6(a), Nov. 29, 1975, 89 Stat. 795; amended Pub. L. 98–199, §§3(b), 5, Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title IV, §401, Oct. 8, 1986, 100 Stat. 1172; Pub. L. 100–630, title I, §101(c), Nov. 7, 1988, 102 Stat. 3290, related to grants for removal of architectural barriers, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

@@ -8,7 +8,7 @@ The Secretary may make grants to encourage cooperative arrangements—
 
 &emsp;(2) with funds available to carry out part B of this subchapter, between institutions eligible for assistance under part B of this subchapter and institutions not receiving assistance under this subchapter;
 
-> for the activities described in section 1057(b) of this title or section 1062 of this title, as the case may be, so that the resources of the cooperatinginstitutions might be combined and shared to achieve the purposes of such parts and avoid costly duplicative efforts and to enhance the development of part A and part B eligible institutions.
+> for the activities described in section 1057(b) of this title or section 1062 of this title, as the case may be, so that the resources of the cooperating institutions might be combined and shared to achieve the purposes of such parts and avoid costly duplicative efforts and to enhance the development of part A and part B eligible institutions.
 
 #### (b) Priority
 

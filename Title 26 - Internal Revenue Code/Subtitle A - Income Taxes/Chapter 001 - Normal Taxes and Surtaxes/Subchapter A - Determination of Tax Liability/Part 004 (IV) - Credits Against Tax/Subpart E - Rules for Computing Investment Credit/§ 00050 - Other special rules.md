@@ -28,7 +28,7 @@ Under regulations prescribed by the Secretary—
 
 #### (A) In general
 
-&emsp;&emsp;If during any taxable year any building to which section 47(d) applied ceases (by reason of sale or other disposition, cancellation or abandonment of contract, or otherwise) to be, with respect to the taxpayer, property which, when placed in service, will be a qualified rehabilitated building, then the tax under this chapter for such taxable yearshall be increased by an amount equal to the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero the credit determined under this subpart with respect to such building.
+&emsp;&emsp;If during any taxable year any building to which section 47(d) applied ceases (by reason of sale or other disposition, cancellation or abandonment of contract, or otherwise) to be, with respect to the taxpayer, property which, when placed in service, will be a qualified rehabilitated building, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero the credit determined under this subpart with respect to such building.
 
 #### (B) Certain excess credit recaptured
 
@@ -40,7 +40,7 @@ Under regulations prescribed by the Secretary—
 
 #### (D) Coordination with paragraph (1)
 
-&emsp;&emsp;If, after property is placed in service, there is a disposition or other cessation described in paragraph (1), then paragraph (1) shall be applied as if any credit which was allowable by reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
+&emsp;&emsp;If, after property is placed in service, there is a disposition or other cessation described in paragraph (1), then paragraph (1) shall be applied as if any credit which was allowableby reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
 
 #### (E) Special rules
 
@@ -106,7 +106,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (3) Property used by certain tax-exempt organization
 
-&emsp;No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter unless suchproperty is used predominantly in an unrelated trade or business the income of which is subject to tax under section 511. If the property is debt-financed property (as defined in section 514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section 514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit.
+&emsp;No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter unless such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section 511. If the property is debt-financed property (as defined in section 514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section 514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit.
 
 #### (4) Property used by governmental units or foreign persons or entities
 
@@ -192,7 +192,7 @@ For purposes of this subpart, rules similar to the rules of the following provis
 
 > Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995.
 
-(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug.20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(<i>o</i>), Dec. 21, 2005, 119 Stat. 2638.)
+(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(<i>o</i>), Dec. 21, 2005, 119 Stat. 2638.)
 
 #### References in Text
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 108–357 applicable with respect to expenditures paid or i
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 

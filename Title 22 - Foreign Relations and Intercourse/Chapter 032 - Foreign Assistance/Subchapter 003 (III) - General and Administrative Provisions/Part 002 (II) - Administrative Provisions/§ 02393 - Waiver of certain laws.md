@@ -2,7 +2,7 @@
 
 #### (a) Contracts and expenditure of funds
 
-Whenever the President determines it to be in furtherance of the purposes of this chapter, the functions authorized under this chapter may be performed without regard to such provisions of law (other than the Renegotiation Act of 1951, as amended (50 U.S.C. App. 1211 et seq.) regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the President may specify.
+Whenever the President determines it to be in furtherance of the purposes of this chapter, thefunctions authorized under this chapter may be performed without regard to such provisions of law (other than the Renegotiation Act of 1951, as amended (50 U.S.C. App. 1211 et seq.) regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the President may specify.
 
 #### (b) Neutrality laws
 
@@ -78,7 +78,7 @@ Sec. 2. With respect to purchases authorized to be made outside the limits of th
 
 Sec. 3. With respect to cost-type contracts heretofore or hereafter made with non-profit institutions under which no fee is charged or paid, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
 
-Sec. 4. With respect to contracts heretofore or hereafter made, other than those described in Section 3 of this order, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof, if the Secretary of State or the Administrator of the United States Agency for International Development (with respect to functions vested in or delegated to the Administrator) determines in each case that such action is necessary to protect the foreign policy interests of the United States.
+Sec. 4. With respect to contracts heretofore or hereafter made, other than those described in Section 3 of this order, amendments and modifications of such contracts may be made with or without consideration andmay be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof, if the Secretary of State or the Administrator of the United States Agency for International Development (with respect to functions vested in or delegated to the Administrator) determines in each case that such action is necessary to protect the foreign policy interests of the United States.
 
 Sec. 5. Executive Order No. 10784 of October 1, 1958, and Executive Order No. 10845 of October 12, 1959, are hereby superseded.
 

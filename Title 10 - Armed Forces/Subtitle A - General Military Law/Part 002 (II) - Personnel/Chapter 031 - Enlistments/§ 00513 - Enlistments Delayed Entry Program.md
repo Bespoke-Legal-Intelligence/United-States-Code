@@ -10,7 +10,7 @@
 
 (d) This section shall be carried out under regulations to be prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 101–189, div. A, title V, §501(a)(1), Nov. 29, 1989, 103 Stat. 1435; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(2), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–201, div. A, title V, §512, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 106–65, div. A, title V, §572(a), Oct. 5, 1999, 113 Stat. 623; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(A), Jan. 6, 2006, 119 Stat. 3233.)
+(Added Pub. L. 101–189, div. A, title V, §501(a)(1), Nov. 29, 1989, 103 Stat. 1435; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(2), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–201, div. A, title V,§512, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 106–65, div. A, title V, §572(a), Oct. 5, 1999, 113 Stat. 623; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(A), Jan. 6, 2006, 119 Stat. 3233.)
 
 #### References in Text
 

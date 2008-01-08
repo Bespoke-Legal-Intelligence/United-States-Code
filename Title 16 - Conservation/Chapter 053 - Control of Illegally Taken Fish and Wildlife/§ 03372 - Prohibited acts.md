@@ -60,7 +60,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 #### (1) In general
 
-&emsp;Subsection (a)(2)(C) of this section does not apply to importation, exportation, transportation, sale, receipt, acquisition, or purchase of an animal of a prohibited wildlife species, by a person that, under regulations prescribed under paragraph (3), is described in paragraph (2) with respect to that species.
+&emsp;Subsection (a)(2)(C) of this section does not apply to importation, exportation, transportation, sale, receipt, acquisition, or purchase of an animal of a prohibited wildlife species, by a person that, under regulations prescribedunder paragraph (3), is described in paragraph (2) with respect to that species.
 
 #### (2) Persons described
 

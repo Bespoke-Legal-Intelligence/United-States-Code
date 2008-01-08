@@ -56,7 +56,7 @@ Pars. (1) to (5). Pub. L. 108–176, §101(a)(2), added pars. (1) to (4) and str
 
 2000—Pub. L. 106–181 substituted “shall be—” along with pars. (1) to (5) and concluding provisions for “shall be $2,410,000,000 for the fiscal year ending September 30, 1999.”
 
-1999—Pub. L. 106–59 substituted “$2,410,000,000 for the fiscal year ending September 30, 1999.” for “$2,050,000,000 for the period beginning October 1, 1998 and ending August 6, 1999.”
+1999—Pub. L. 106–59 substituted “$2,410,000,000 for the fiscal year ending September 30, 1999.” for“$2,050,000,000 for the period beginning October 1, 1998 and ending August 6, 1999.”
 
 Pub. L. 106–31 substituted “$2,050,000,000 for the period beginning October 1, 1998 and ending August 6, 1999.” for “$1,607,000,000 for the 8-month period beginning October 1, 1998.”.
 

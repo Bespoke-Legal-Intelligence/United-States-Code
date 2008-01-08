@@ -84,7 +84,7 @@ The provisions of subsection (a) of this section may not be superseded except by
 
 (2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of a particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 
-(3) A complainant that alleges that the National Security Agency has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
+(3) A complainant that alleges that the National Security Agency has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, thecourt's review shall be limited to determining the following:
 
 &emsp;(A) Whether the National Security Agency has conducted the review required by paragraph (1) before the expiration of the 10-year period beginning on November 24, 2003, or before the expiration of the 10-year period beginning on the date of the most recent review.
 

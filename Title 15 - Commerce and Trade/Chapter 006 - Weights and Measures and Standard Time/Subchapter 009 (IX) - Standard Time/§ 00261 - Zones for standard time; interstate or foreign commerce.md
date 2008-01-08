@@ -1,10 +1,18 @@
 ### §261. Zones for standard time; interstate or foreign commerce
 
-For the purpose of establishing the standard time of the United States, the territory of the United States shall be divided into nine zones in the manner provided in this section. Except as provided in section 260a(a) of this title, the standard time of the first zone shall be based on the mean solar time of the sixtieth degree of longitude west from Greenwich; that of the second zone on the seventy-fifth degree; that of the third zone on the ninetieth degree; that of the fourth zone on the one hundred and fifth degree; that of the fifth zone on the one hundred and twentieth degree; that of the sixth zone on the one hundred and thirty-fifth degree; that of the seventh zone on the one hundred and fiftieth degree; that of the eighth zone on the one hundred and sixty-fifth degree; and that of the ninth zone on the one hundred and fiftieth meridian of longitude east from Greenwich..<sup>1</sup> The limits of each zone shall be defined by an order of the Secretary of Transportation, having regard for the convenience of commerce and the existing junction points and division points of common carriers engaged in interstate or foreign commerce, and any such order may be modified from time to time. As used in sections 261 to 264 of this title, the term “interstate or foreign commerce” means commerce between a State, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States and any place outside thereof.
+#### (a) In general
 
-(Mar. 19, 1918, ch. 24, §1, 40 Stat. 450; Pub. L. 89–387, §4(a), Apr. 13, 1966, 80 Stat. 108; Pub. L. 97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 106–564, §1(a), Dec. 23, 2000, 114 Stat. 2811.)
+For the purpose of establishing the standard time of the United States, the territory of the United States shall be divided into nine zones in the manner provided in this section. Except as provided in section 260a(a) of this title, the standard time of the first zone shall be Coordinated Universal Time retarded by 4 hours; that of the second zone retarded by 5 hours; that of the third zone retarded by 6 hours; that of the fourth zone retarded by 7 hours; that of the fifth zone retarded <sup>1</sup> 8 hours; that of the sixth zone retarded by 9 hours; that of the seventh zone retarded by 10 hours; that of the eighth zone retarded by 11 hours; and that of the ninth zone shall be Coordinated Universal Time advanced by 10 hours. The limits of each zone shall be defined by an order of the Secretary of Transportation, having regard for the convenience of commerce and the existing junction points and division points of common carriers engaged in interstate or foreign commerce, and any such order may be modified from time to time. As used in sections 261 to 264 of this title, the term “interstate or foreign commerce” means commerce between a State, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States and any place outside thereof.
+
+#### (b) Coordinated Universal Time defined
+
+In this section, the term “Coordinated Universal Time” means the time scale maintained through the General Conference of Weights and Measures and interpreted or modified for the United States by the Secretary of Commerce in coordination with the Secretary of the Navy.
+
+(Mar. 19, 1918, ch. 24, §1, 40 Stat. 450; Pub. L. 89–387, §4(a), Apr. 13, 1966, 80 Stat. 108; Pub. L. 97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 106–564, §1(a), Dec. 23, 2000, 114 Stat. 2811; Pub. L. 110–69, title III, §3013(c)(3), Aug. 9, 2007, 121 Stat. 598.)
 
 #### Amendments
+
+2007—Pub. L. 110–69 designated existing provisions as subsec. (a), inserted heading, substituted second sentence for former second sentence which read as follows: “Except as provided in section 260a(a) of this title, the standard time of the first zone shall be based on the mean solar time of the sixtieth degree of longitude west from Greenwich; that of the second zone on the seventy-fifth degree; that of the third zone on the ninetieth degree; that of the fourth zone on the one hundred and fifth degree; that of the fifth zone on the one hundred and twentieth degree; that of the sixth zone on the one hundred and thirty-fifth degree; that of the seventh zone on the one hundred and fiftieth degree; that of the eighth zone on the one hundred and sixty-fifth degree; and that of the ninth zone on the one hundred and fiftieth meridian of longitude east from Greenwich..”, and added subsec. (b).
 
 2000—Pub. L. 106–564, in first sentence, substituted “nine zones” for “eight zones” and, in second sentence, substituted “; that of the eighth” for “; and that of the eighth” and inserted before period at end “; and that of the ninth zone on the one hundred and fiftieth meridian of longitude east from Greenwich.”
 
@@ -28,5 +36,5 @@ Act Mar. 31, 1949, ch. 43, 63 Stat. 29, authorized the Board of Commissioners \[
 
 Act Sept. 25, 1945, ch. 388, 59 Stat. 537, provided, that, notwithstanding the provisions of act Jan. 20, 1942, ch. 7, 56 Stat. 9, which provided for war time, the standard time for each zone as provided for in sections 261 to 264 of this title should again become effective as of Sept. 30, 1945, at 2:00 A.M.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “by”.</i>
 

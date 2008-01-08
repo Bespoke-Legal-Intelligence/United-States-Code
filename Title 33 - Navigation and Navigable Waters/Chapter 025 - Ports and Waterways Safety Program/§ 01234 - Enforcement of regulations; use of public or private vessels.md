@@ -2,7 +2,7 @@
 
 To enforce such regulations the Commandant of the Coast Guard may detail any public vessel in the service of the Coast Guard and make use of any private vessel tendered gratuitously for the purpose, or upon the request of the Commandant of the Coast Guard the head of any other department may enforce the regulations issued under sections 1233 and 1235 of this title by means of any public vessel of such department and of any private vessel tendered gratuitously for the purpose.
 
-(Apr. 28, 1908, ch. 151, §2, 35 Stat. 69; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1946 Reorg. Plan No. 3,§§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097.)
+(Apr. 28, 1908, ch. 151, §2, 35 Stat. 69; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097.)
 
 #### Codification
 

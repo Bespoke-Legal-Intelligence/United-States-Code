@@ -4,7 +4,7 @@
 
 #### (b) Prohibition of public officials and public authorities from imposition of certain requirements contrary to religious beliefs or moral convictions
 
-The receipt of any grant, contract, loan, or loan guarantee under the Public Health ServiceAct \[42 U.S.C. 201 et seq.\], the Community Mental Health Centers Act \[42 U.S.C. 2689 et seq.\], or the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6000 et seq.\] by any individual or entity does not authorize any court or any public official or other public authority to require—
+The receipt of any grant, contract, loan, or loan guarantee under the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Community Mental Health Centers Act \[42 U.S.C. 2689 et seq.\], or the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6000 et seq.\] by any individual or entity does not authorize any court or any public official or other public authority to require—
 
 &emsp;(1) such individual to perform or assist in the performance of any sterilization procedure or abortion if his performance or assistance in the performance of such procedure or abortion would be contrary to his religious beliefs or moral convictions; or
 
@@ -50,7 +50,7 @@ The Community Mental Health Centers Act, referred to in subsecs. (b), (c)(1), an
 
 The Developmental Disabilities Services and Facilities Construction Act, referred to in subsecs. (b) and (c)(1), is title I of Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, as renamed by Pub. L. 91–518, title II, §207(a), Oct. 30, 1970, 84 Stat. 1327. Title I of Pub. L. 88–164, which was subsequently renamed the Developmental Disabilities Assistance and Bill of Rights Act by Pub. L. 95–602, title V, §502, Nov. 6, 1978, 92 Stat. 3003, and amended generally by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, was classified generally to chapter 75 (§6000 et seq.) of this title, prior to repeal by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. For complete classification of this Act to the Code, see Tables.
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (e), is Pub. L.106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (e), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
 #### Codification
 

@@ -24,7 +24,7 @@ Program components.—In carrying out the program, the Secretary shall—
 
 &emsp;&emsp;(i) utilize for purposes of cost-benefit analyses, current, actual, site-specific data, forecast estimates, or airport master plan data provided by a facility owner or operator and verified by the Secretary; and
 
-&emsp;&emsp;(ii) approve for participation only facilities willing to fund a pro rata share of the operating costs of the air traffic control tower to achieve a 1-to-1 benefit-to-cost ratio using actual site-specific contract tower operating costs in any case in which there is an operating air traffic control tower, as required for eligibility under the Contract Tower Program.
+&emsp;&emsp;(ii) approve for participation only facilities willing to fund a pro rata share of the operating costs of the air traffic control tower to achieve a 1-to-1 benefit-to-costratio using actual site-specific contract tower operating costs in any case in which there is an operating air traffic control tower, as required for eligibility under the Contract Tower Program.
 
 &emsp;(C)
 
@@ -138,7 +138,7 @@ In subsection (b)(2), the word “Secretary” is substituted for “Administrat
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–176, §105(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Transportation shall ensure that an agreement under thissubchapter with a State or a political subdivision of a State to allow the State or subdivision to operate an airport facility in the State or subdivision relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the State or subdivision in operating the airport facility.”
+2003—Subsec. (a). Pub. L. 108–176, §105(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Transportation shall ensure that an agreement under this subchapter with a State or a political subdivision of a State to allow the State or subdivision to operate an airport facility in the State or subdivision relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the State or subdivision in operating the airport facility.”
 
 Subsec. (b)(2). Pub. L. 108–176, §105(2), added par. (2) and struck out former par. (2) which read as follows: “The Secretary may make a contract, on a sole source basis, with a State or a political subdivision of a State to allow the State or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the State or subdivision has the capability to comply with the requirements of this paragraph. The contract shall require that the State or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.”
 

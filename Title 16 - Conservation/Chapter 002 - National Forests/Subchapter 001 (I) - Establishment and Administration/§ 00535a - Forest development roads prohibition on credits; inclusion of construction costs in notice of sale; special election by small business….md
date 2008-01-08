@@ -8,7 +8,7 @@ In financing any forest development road pursuant to section 535 of this title, 
 
 (1) Whenever the Secretary of Agriculture makes a determination that a forest development road referred to in subsection (a) of this section shall be constructed or paid for, in whole or in part, by a purchaser of national forest timber or other forest products, the Secretary shall include notice of the determination in the notice of sale of the timber or other forest products. The notice of sale shall contain, or announce the availability of, sufficient information related to the road described in the notice to permit a prospective bidder on the sale to calculate the likely cost that would be incurred by the bidder to construct or finance the construction of the road so that the bidder may reflect such cost in the bid.
 
-(2) If there is an increase or decrease in the cost of roads constructed by the timber purchaser, caused by variations in quantities, changes or modifications subsequent to the sale of timber made in accordance with applicable timber sale contract provisions, then an adjustment to the price paid for timber harvested bythe purchaser shall be made. The adjustment shall be applied by the Secretary as soon as practicable after any such design change is implemented.
+(2) If there is an increase or decrease in the cost of roads constructed by the timber purchaser, caused by variations in quantities, changes or modifications subsequent to the sale of timber made in accordance with applicable timber sale contract provisions, then an adjustment to the price paid for timber harvested by the purchaser shall be made. The adjustment shall be applied by the Secretary as soon as practicable after any such design change is implemented.
 
 #### (c) Special election by small business concerns
 
@@ -46,5 +46,5 @@ For any forest development road that is constructed or paid for by a purchaser o
 
 #### References in Text
 
-The Small Business Act, referred to in subsec. (c)(1), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (c)(1), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 

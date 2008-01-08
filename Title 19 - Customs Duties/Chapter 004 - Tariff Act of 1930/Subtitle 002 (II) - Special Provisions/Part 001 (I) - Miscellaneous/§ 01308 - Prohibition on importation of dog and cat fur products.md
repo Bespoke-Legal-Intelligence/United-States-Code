@@ -26,7 +26,7 @@ In this section:
 
 #### (6) Dog or cat fur product
 
-&emsp;The term “dog or cat fur product” means any item of merchandise which consists, or is composed in whole or in part, of any dog fur, cat fur, or both.
+&emsp;The term “dog or cat fur product” means any item of merchandise which consists, or iscomposed in whole or in part, of any dog fur, cat fur, or both.
 
 #### (7) Person
 

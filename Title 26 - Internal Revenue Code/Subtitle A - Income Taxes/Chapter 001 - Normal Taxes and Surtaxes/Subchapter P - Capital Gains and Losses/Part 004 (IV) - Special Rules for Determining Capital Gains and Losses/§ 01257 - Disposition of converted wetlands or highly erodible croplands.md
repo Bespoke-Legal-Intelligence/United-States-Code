@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (2) Highly erodible cropland
 
-&emsp;The term “highly erodible cropland” means any highly erodible cropland (as defined in section 1201(6) <sup>1</sup> of the Food Security Act of 1985 (16 U.S.C. 3801(6))), if at any time the taxpayer used such land for farming purposes (other than the grazing of animals).
+&emsp;The term “highly erodible cropland” means any highly erodible cropland (as defined in section 1201(6) <sup>1</sup> of the Food Security Act of1985 (16 U.S.C. 3801(6))), if at any time the taxpayer used such land for farming purposes (other than the grazing of animals).
 
 #### (3) Treatment of successors
 

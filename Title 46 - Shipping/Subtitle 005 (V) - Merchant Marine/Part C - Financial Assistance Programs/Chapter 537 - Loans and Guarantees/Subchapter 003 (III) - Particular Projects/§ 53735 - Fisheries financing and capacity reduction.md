@@ -20,7 +20,7 @@ Requirements of Obligations.—A debt obligation guaranteed under this section s
 
 &emsp;(4) have such maturity (not to exceed 20 years), take such form, and contain such conditions as the Secretary determines necessary for the program to which they relate;
 
-&emsp;(5) have as the exclusive source of repayment (subject to the second sentence of subsection (d)(2)) and as the exclusive paymentsecurity, the fishing fees established under the program; and
+&emsp;(5) have as the exclusive source of repayment (subject to the second sentence of subsection (d)(2)) and as the exclusive payment security, the fishing fees established under the program; and
 
 &emsp;(6) at the discretion of the Secretary be issued in the public market or sold to the Federal Financing Bank.
 

@@ -11,3 +11,4 @@ Part A—Death Benefits
 - [&sect; 03796b - Definitions](%C2%A7%2003796b%20-%20Definitions.md)
 - [&sect; 03796c - Administrative provisions](%C2%A7%2003796c%20-%20Administrative%20provisions.md)
 - [&sect; 03796c&#8211;1 - Expedited payment for public safety officers involved in the prevention, investigation, rescue, or recovery efforts related to a&#8230;](%C2%A7%2003796c%E2%80%931%20-%20Expedited%20payment%20for%20public%20safety%20officers%20involved%20in%20the%20prevention%2C%20investigation%2C%20rescue%2C%20or%20recovery%20efforts%20related%20to%20a%E2%80%A6.md)
+- [&sect; 03796c&#8211;2 - Funds available for appeals and expenses of representation of hearing examiners](%C2%A7%2003796c%E2%80%932%20-%20Funds%20available%20for%20appeals%20and%20expenses%20of%20representation%20of%20hearing%20examiners.md)

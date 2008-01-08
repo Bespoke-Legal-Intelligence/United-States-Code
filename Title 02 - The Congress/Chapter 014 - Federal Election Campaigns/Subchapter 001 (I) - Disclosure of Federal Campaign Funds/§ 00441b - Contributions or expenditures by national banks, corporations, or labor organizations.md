@@ -6,7 +6,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 #### (b) Definitions; particular activities prohibited or allowed
 
-(1) For the purposes of this section the term “labor organization” means any organization ofany kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
+(1) For the purposes of this section the term “labor organization” means any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
 
 (2) For purposes of this section and section 79<i>l</i>(h) of title 15,<sup>1</sup> the term “contribution or expenditure” includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes any direct or indirect payment, distribution, loan, advance, deposit, or gift of money, or any services, or anything of value (except a loan of money by a national or State bank made in accordance with the applicable banking laws and regulations and in the ordinary course of business) to any candidate, campaign committee, or political party or organization, in connection with any election to any of the offices referred to in this section or for any applicable electioneering communication, but shall not include (A) communications by a corporation to its stockholders and executive or administrative personnel and their families or by a labor organization to its members and their families on any subject; (B) nonpartisan registration and get-out-the-vote campaigns by a corporation aimed at its stockholders and executive or administrative personnel and their families, or by a labor organization aimed at its members and their families; and (C) the establishment, administration, and solicitation of contributions to a separate segregated fund to be utilized for political purposes by a corporation, labor organization, membership organization, cooperative, or corporation without capital stock.
 
@@ -34,7 +34,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 (6) Any corporation, including its subsidiaries, branches, divisions, and affiliates, that utilizes a method of soliciting voluntary contributions or facilitating the making of voluntary contributions, shall make available such method, on written request and at a cost sufficient only to reimburse the corporation for the expenses incurred thereby, to a labor organization representing any members working for such corporation, its subsidiaries, branches, divisions, and affiliates.
 
-(7) For purposes of this section, the term “executive or administrative personnel” means individuals employed by a corporation who are paid on a salary, rather than hourly, basis and who have policymaking, managerial, professional, or supervisory responsibilities.
+(7) For purposes of this section, the term “executive or administrative personnel” means individuals employed by a corporation who arepaid on a salary, rather than hourly, basis and who have policymaking, managerial, professional, or supervisory responsibilities.
 
 #### (c) Rules relating to electioneering communications
 

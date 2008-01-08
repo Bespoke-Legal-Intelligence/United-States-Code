@@ -70,7 +70,7 @@ Any plan submitted to the Secretary under subsection (a) of this section shallâ€
 
 &emsp;(5) provide a detailed description of the manner in which the Commission intends to implement the grant and loan programs under section 410ccâ€“33 of this title, including information relating to the estimated amount of such grants and the manner in which such grants shall be awarded by the Commission;
 
-&emsp;(6) provide for a transportation program by which the Commission shall provide, directlyor by agreement with any person or any public or private entity, transportation services and facilities for park and preservation district visitors, including barge equipment, docking facilities, and local rail facilities;
+&emsp;(6) provide for a transportation program by which the Commission shall provide, directly or by agreement with any person or any public or private entity, transportation services and facilities for park and preservation district visitors, including barge equipment, docking facilities, and local rail facilities;
 
 &emsp;(7) provide for educational and cultural programs to encourage appreciation of the resources of the park and preservation district; and
 

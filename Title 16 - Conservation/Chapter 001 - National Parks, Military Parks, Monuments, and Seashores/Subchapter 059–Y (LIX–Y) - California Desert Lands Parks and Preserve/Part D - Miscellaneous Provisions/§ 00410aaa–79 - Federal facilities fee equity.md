@@ -18,7 +18,3 @@ Following completion of the report in subsection (b) of this section, the Secret
 
 (Pub. L. 103–433, title VII, §709, Oct. 31, 1994, 108 Stat. 4500.)
 
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

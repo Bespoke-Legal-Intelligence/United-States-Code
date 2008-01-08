@@ -30,7 +30,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Supplemental funds
 
-&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease ona building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
+&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease on a building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
 
 #### (3) Exemption
 
@@ -106,7 +106,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (3) Applicability of selection criteria
 
-&emsp;The Secretary may determine not to apply certain of the selection criteria established pursuant to paragraph (2) when awarding grants for demolition only, tenant-based assistance only, or other specific categories of revitalization activities. This section may not be construed to require any application for a grant under this section to include demolition of public housing or to preclude use of grant amounts for rehabilitation or rebuilding of any housing on an existing site.
+&emsp;The Secretary may determine not to apply certain of the selection criteria establishedpursuant to paragraph (2) when awarding grants for demolition only, tenant-based assistance only, or other specific categories of revitalization activities. This section may not be construed to require any application for a grant under this section to include demolition of public housing or to preclude use of grant amounts for rehabilitation or rebuilding of any housing on an existing site.
 
 #### (f) Cost limits
 
@@ -172,7 +172,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Supportive services
 
-&emsp;The term “supportive services” includes all activities that will promote upward mobility, self-sufficiency, and improved quality of life for the residents of the public housing project involved, including literacy training, job training, day care, transportation, and economic development activities.
+&emsp;The term “supportive services” includes all activities that will promote upward mobility, self-sufficiency, and improved quality of life for the residents of the public housing projectinvolved, including literacy training, job training, day care, transportation, and economic development activities.
 
 #### (k) Grantee reporting
 
@@ -196,7 +196,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (1) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2003.
+&emsp;There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2008.
 
 #### (2) Technical assistance and program oversight
 
@@ -256,7 +256,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (A) Application
 
-&emsp;&emsp;Pursuant to subsection (e)(1) of this section, the Secretary shall provide for smaller communities to apply for grants under this subsection, except that the Secretary may establish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
+&emsp;&emsp;Pursuant to subsection (e)(1) of this section, the Secretary shall provide for smaller communities to apply for grants under this subsection, except that the Secretary mayestablish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
 
 #### (B) Selection criteria
 
@@ -298,9 +298,9 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (<i>o</i>) Sunset
 
-No assistance may be provided under this section after September 30, 2006.
+No assistance may be provided under this section after September 30, 2008.
 
-(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §215, Feb. 20, 2003, 117 Stat. 504; Pub. L. 108–186, title IV, §§402(a), (b), (d), (e), 403, Dec. 16, 2003, 117 Stat. 2693, 2694.)
+(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §215, Feb. 20, 2003, 117 Stat. 504; Pub. L. 108–186, title IV, §§402(a), (b), (d), (e), 403, Dec. 16, 2003, 117 Stat. 2693, 2694; Pub. L. 109–289, div. B, title II, §21045, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 54; Pub. L. 110–161, div. K, title II, §224, Dec. 26, 2007, 121 Stat. 2437.)
 
 #### References in Text
 
@@ -309,6 +309,14 @@ Section 1437<i>l</i> of this title, referred to in subsec. (j)(2)(A)(iv), was re
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (j)(2)(A)(iv), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Amendments
+
+2007—Subsec. (m)(1). Pub. L. 110–161, §224(1), which directed substitution of “2008” for “2003”, was executed by making the substitution for “2007”, to reflect the probable intent of Congress and the amendment by Pub. L. 109–289, §21045(1), as added by Pub. L. 110–5. See below.
+
+Pub. L. 109–289, §21045(1), as added by Pub. L. 110–5, substituted “2007” for “2003”.
+
+Subsec. (<i>o</i>). Pub. L. 110–161, §224(2), substituted “September 30, 2008” for “September 30, 2007”.
+
+Pub. L. 109–289, §21045(2), as added by Pub. L. 110–5, substituted “September 30, 2007” for “September 30, 2006”.
 
 2003—Subsec. (a). Pub. L. 108–186, §403(a), inserted concluding provisions.
 

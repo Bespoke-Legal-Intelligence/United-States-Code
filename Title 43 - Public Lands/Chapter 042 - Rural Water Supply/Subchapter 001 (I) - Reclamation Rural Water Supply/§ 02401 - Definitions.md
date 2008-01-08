@@ -54,7 +54,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “rural water supply project” means a project that is designed to serve a community or group of communities, each of which has a population of not more than 50,000 inhabitants, which may include Indian tribes and tribal organizations, dispersed homesites, or rural areas with domestic, industrial, municipal, and residential water.
+&emsp;&emsp;The term “rural water supply project” means a project that is designed to serve a community or group of communities, each of which has a population of not more than 50,000 inhabitants, which may include Indian tribes and tribal organizations, dispersedhomesites, or rural areas with domestic, industrial, municipal, and residential water.
 
 #### (B) Inclusion
 

@@ -180,7 +180,7 @@ In general.—In order to guard against money laundering through financial insti
 
 &emsp;(2)
 
-Regulations.—The Secretary of the Treasury, after consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is not subject to the provisions of the rules contained in part 103 of title 31, of the Code ofFederal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.
+Regulations.—The Secretary of the Treasury, after consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is not subject to the provisions of the rules contained in part 103 of title 31, of the Code of Federal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.
 
 &emsp;(3)
 
@@ -258,7 +258,7 @@ Prohibition on United States Correspondent Accounts With Foreign Shell Banks.—
 
 &emsp;(1)
 
-In general.—A financial institution described in subparagraphs (A) through (G) of section 5312(a)(2) (in this subsection referred to as a “covered financial institution”) shall not establish, maintain, administer, or manage a correspondent account in the United States for, or on behalf of, a foreign bank that does not have a physical presence in any country.
+In general.—A financial institution described in subparagraphs (A) through (G) of section 5312(a)(2) (in this subsection referredto as a “covered financial institution”) shall not establish, maintain, administer, or manage a correspondent account in the United States for, or on behalf of, a foreign bank that does not have a physical presence in any country.
 
 &emsp;(2)
 
@@ -352,7 +352,7 @@ Termination upon receipt of notice.—A covered financial institution shall term
 
 &emsp;&emsp;&emsp;(ii)
 
-Limitation on liability.—A covered financial institution shall not be liable toany person in any court or arbitration proceeding for terminating a correspondent relationship in accordance with this subsection.
+Limitation on liability.—A covered financial institution shall not be liable to any person in any court or arbitration proceeding for terminating a correspondent relationship in accordance with this subsection.
 
 &emsp;&emsp;&emsp;(iii)
 

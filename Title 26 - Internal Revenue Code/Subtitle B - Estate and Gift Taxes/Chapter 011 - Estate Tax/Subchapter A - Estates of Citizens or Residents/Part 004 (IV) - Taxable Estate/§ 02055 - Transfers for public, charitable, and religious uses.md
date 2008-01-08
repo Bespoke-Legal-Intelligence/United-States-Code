@@ -32,7 +32,7 @@ The amount of the deduction under this section for any transfer shall not exceed
 
 (1) No deduction shall be allowed under this section for a transfer to or for the use of an organization or trust described in section 508(d) or 4948(c)(4) subject to the conditions specified in such sections.
 
-(2) Where an interest in property (other than an interest described in section 170(f)(3)(B))passes or has passed from the decedent to a person, or for a use, described in subsection (a), and an interest (other than an interest which is extinguished upon the decedent's death) in the same property passes or has passed (for less than an adequate and full consideration in money or money's worth) from the decedent to a person, or for a use, not described in subsection (a), no deduction shall be allowed under this section for the interest which passes or has passed to the person, or for the use, described in subsection (a) unless—
+(2) Where an interest in property (other than an interest described in section 170(f)(3)(B)) passes or has passed from the decedent to a person, or for a use, described in subsection (a), and an interest (other than an interest which is extinguished upon the decedent's death) in the same property passes or has passed (for less than an adequate and full consideration in money or money's worth) from the decedent to a person, or for a use, not described in subsection (a), no deduction shall be allowed under this section for the interest which passes or has passed to the person, or for the use, described in subsection (a) unless—
 
 &emsp;(A) in the case of a remainder interest, such interest is in a trust which is a charitable remainder annuity trust or a charitable remainder unitrust (described in section 664) or a pooled income fund (described in section 642(c)(5)), or
 
@@ -110,7 +110,7 @@ Statute of limitations.—The period for assessing any deficiency of any tax att
 
 &emsp;(H)
 
-Regulations.—The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including regulations providing such adjustments in the application of the provisions ofsection 508 (relating to special rules relating to section 501(c)(3) organizations), subchapter J (relating to estates, trusts, beneficiaries, and decedents), and chapter 42 (relating to private foundations) as may be necessary by reason of the qualified reformation.
+Regulations.—The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including regulations providing such adjustments in the application of the provisions of section 508 (relating to special rules relating to section 501(c)(3) organizations), subchapter J (relating to estates, trusts, beneficiaries, and decedents), and chapter 42 (relating to private foundations) as may be necessary by reason of the qualified reformation.
 
 &emsp;(I)
 
@@ -166,29 +166,7 @@ Contributions to donor advised funds.—A deduction otherwise allowed under subs
 
 A deduction shall be allowed under subsection (a) in respect of any transfer of a qualified real property interest (as defined in section 170(h)(2)(C)) which meets the requirements of section 170(h) (without regard to paragraph (4)(A) thereof).
 
-#### (g) Valuation of subsequent gifts
-
-#### (1) In general
-
-&emsp;In the case of any additional contribution, the fair market value of such contribution shall be determined by using the lesser of—
-
-&emsp;&emsp;(A) the fair market value of the property at the time of the initial fractional contribution, or
-
-&emsp;&emsp;(B) the fair market value of the property at the time of the additional contribution.
-
-#### (2) Definitions
-
-&emsp;For purposes of this paragraph—
-
-#### (A) Additional contribution
-
-&emsp;&emsp;The term “additional contribution” means a bequest, legacy, devise, or transfer described in subsection (a) of any interest in a property with respect to which the decedent had previously made an initial fractional contribution.
-
-#### (B) Initial fractional contribution
-
-&emsp;&emsp;The term “initial fractional contribution” means, with respect to any decedent, any charitable contribution of an undivided portion of the decedent's entire interest in any tangible personal property for which a deduction was allowed under section 170.
-
-#### (h) Cross references
+#### (g) Cross references
 
 &emsp;&emsp;<b>(1) For option as to time for valuation for purpose of deduction under this section, see section 2032.</b>
 
@@ -198,7 +176,7 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;<b>(4) For treatment of gifts and bequests for the benefit of the Naval Historical Center as gifts or bequests to or for the use of the United States, see section 7222 of title 10, United States Code.</b>
 
-&emsp;&emsp;<b>(5) For treatment of gifts and bequests to or for the benefit of National Park Foundation as gifts or</b><b>bequests to or for the use of the United States, see section 8 of the Act of December 18, 1967 (16 U.S.C. 191).</b>
+&emsp;&emsp;<b>(5) For treatment of gifts and bequests to or for the benefit of National Park Foundation as gifts or bequests to or for the use of the United States, see section 8 of the Act of December 18, 1967 (16 U.S.C. 191).</b>
 
 &emsp;&emsp;<b>(6) For treatment of gifts, devises, or bequests accepted by the Secretary of State, the Director of the International Communication Agency, or the Director of the United States International Development Cooperation Agency as gifts, devises, or bequests to or for the use of the United States, see section 25 of the State Department Basic Authorities Act of 1956.</b>
 
@@ -214,17 +192,39 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;<b>(12) For treatment of gifts and bequests to or for the use of Indian tribal governments (or their subdivisions), see section 7871.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 390; Aug. 6, 1956, ch. 1020, §1, 70 Stat. 1075; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, §201(d)(1), (4)(A), Dec. 30, 1969, 83 Stat. 560, 561; Pub. L. 91–614, title I, §101(c), Dec. 31, 1970, 84 Stat. 1836; Pub. L. 93–483, §3(a), Oct. 26, 1974, 88 Stat. 1457; Pub. L. 94–455, title XIII, §§1304(a), 1307(d)(1)(B)(ii), (C), 1313(b)(2), title XIX, §§1902(a)(4), (12)(A), 1906(b)(13)(A), title XX, §2009(b)(4)(B), (C), title XXI, §2124(e)(2), Oct. 4, 1976, 90 Stat. 1715, 1727, 1730, 1804, 1805, 1834, 1894, 1919; Pub. L. 95–600, title V, §514(a), Nov. 6, 1978, 92 Stat. 2883; Pub. L. 96–222, title I, §105(a)(4)(A), Apr. 1, 1980, 94 Stat. 219; Pub. L. 96–465, title II, §2206(e)(4), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 96–605, title III, §301(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title IV, §423(a), Aug. 13, 1981, 95 Stat. 316; Pub. L. 97–248, title II, §286(b)(2), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), (2), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–473, title II, §202(b)(5), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§1022(a), 1032(b)(2), July 18, 1984, 98 Stat. 1026, 1033; Pub. L. 99–514, title XIV, §1422(a), Oct. 22, 1986, 100 Stat. 2716; Pub. L. 100–203, title X, §10711(a)(3), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 104–201, div. A, title X, §1073(b)(3), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 105–34, title X, §1089(b)(3), (5), title XV, §1530(c)(7), Aug. 5, 1997, 111 Stat. 960, 961, 1078; Pub. L. 109–280, title XII, §§1218(b), 1234(b), Aug. 17, 2006, 120 Stat. 1081, 1100.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 390; Aug. 6, 1956, ch. 1020, §1, 70 Stat. 1075; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, §201(d)(1), (4)(A), Dec. 30, 1969, 83 Stat. 560, 561; Pub. L. 91–614, title I, §101(c), Dec. 31, 1970, 84 Stat. 1836; Pub. L. 93–483, §3(a), Oct. 26, 1974, 88 Stat. 1457; Pub. L. 94–455, title XIII, §§1304(a), 1307(d)(1)(B)(ii), (C), 1313(b)(2), title XIX, §§1902(a)(4), (12)(A), 1906(b)(13)(A), title XX, §2009(b)(4)(B), (C), title XXI, §2124(e)(2), Oct. 4, 1976, 90 Stat. 1715, 1727, 1730, 1804, 1805, 1834, 1894, 1919; Pub. L. 95–600, title V, §514(a), Nov. 6, 1978, 92 Stat. 2883; Pub. L. 96–222, title I, §105(a)(4)(A), Apr. 1, 1980, 94 Stat. 219; Pub. L. 96–465, title II, §2206(e)(4), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 96–605, title III, §301(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title IV, §423(a), Aug. 13, 1981, 95 Stat. 316; Pub. L. 97–248, title II, §286(b)(2), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), (2), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–473, title II, §202(b)(5), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§1022(a), 1032(b)(2), July 18, 1984, 98 Stat. 1026, 1033; Pub. L. 99–514, title XIV, §1422(a), Oct. 22, 1986, 100 Stat. 2716; Pub. L. 100–203, title X, §10711(a)(3), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 104–201, div. A, title X, §1073(b)(3), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 105–34, title X, §1089(b)(3), (5), title XV, §1530(c)(7), Aug. 5, 1997, 111 Stat. 960, 961, 1078; Pub. L. 109–280, title XII, §§1218(b), 1234(b), Aug. 17, 2006, 120 Stat. 1081, 1100; Pub. L. 110–172, §3(d)(1), Dec. 29, 2007, 121 Stat. 2474.)
 
 #### References in Text
 
-Section 25 of the State Department Basic Authorities Act of 1956, referred to in subsec. (h)(6), is classified to section 2697 of Title 22, Foreign Relations and Intercourse.
+Section 25 of the State Department Basic Authorities Act of 1956, referred to in subsec. (g)(6), is classified to section 2697 of Title 22, Foreign Relations and Intercourse.
 
 #### Codification
 
 Sections 1218(b) and 1234(b) of Pub. L. 109–280, which directed the amendment of section 2055 without specifying the act to be amended, were executed to this section, which is section 2055 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+2007—Subsecs. (g), (h). Pub. L. 110–172 redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows:
+
+“(1)
+
+In general.—In the case of any additional contribution, the fair market value of such contribution shall be determined by using the lesser of—
+
+&emsp;“(A) the fair market value of the property at the time of the initial fractional contribution, or
+
+&emsp;“(B) the fair market value of the property at the time of the additional contribution.
+
+“(2)
+
+Definitions.—For purposes of this paragraph—
+
+&emsp;“(A)
+
+Additional contribution.—The term ‘additional contribution’ means a bequest, legacy, devise, or transfer described in subsection (a) of any interest in a property with respect to which the decedent had previously made an initial fractional contribution.
+
+&emsp;“(B)
+
+Initial fractional contribution.—The term ‘initial fractional contribution’ means, with respect to any decedent, any charitable contribution of an undivided portion of the decedent's entire interest in any tangible personal property for which a deduction was allowed under section 170.”
 
 2006—Subsec. (e)(5). Pub. L. 109–280, §1234(b), added par. (5). See Codification note above.
 
@@ -264,7 +264,7 @@ Subsec. (f)(5). Pub. L. 96–465, among other changes, inserted references to th
 
 1978—Subsec. (e)(3). Pub. L. 95–600 inserted “or (B)” before “of paragraph (2)”, substituted “on or before December 31, 1978” for “on or before December 31, 1977” wherever appearing and “which meets the requirements of such subparagraph (a) or (B) (as the case may be),” for “which is a charitable remainder annuity trust, a charitable remainder unitrust (described in section 664), or a pooled income fund (described in section 642(c)(5)),”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§1307(d)(1)(B)(ii), (C), 1313(b)(2), 1902(a)(12)(A), 2009(b)(4)(B), (C), struck out “(including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)” after “or transfers” in provisions preceding par. (1), struck out “Territory,” after “State,” in par. (1), inserted “, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment),” after “encouragement of art” and substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation,” in par. (2), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation,” in par. (3), and, in provisions following par. (4), substituted “a qualified disclaimer” for “an irrevocable disclaimer” and “such qualified disclaimer” for “such irrevocable disclaimer”.
+1976—Subsec. (a). Pub. L. 94–455, §§1307(d)(1)(B)(ii), (C), 1313(b)(2), 1902(a)(12)(A), 2009(b)(4)(B), (C), struck out “(including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)” after “or transfers” in provisions preceding par. (1), struck out “Territory,” after “State,” in par. (1), inserted “, or to foster national or international amateur sportscompetition (but only if no part of its activities involve the provision of athletic facilities or equipment),” after “encouragement of art” and substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation,” in par. (2), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation,” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation,” in par. (3), and, in provisions following par. (4), substituted “a qualified disclaimer” for “an irrevocable disclaimer” and “such qualified disclaimer” for “such irrevocable disclaimer”.
 
 Subsec. (b). Pub. L. 94–455, §1902(a)(4)(A), struck out provisions under which a bequest in trust, if the surviving spouse of the decedent was entitled for life to all of the net income from the trust and the surviving spouse had a power of appointment over the corpus of that trust exercisable by will in favor of, among others, organizations described in subsec. (a)(2), could be deemed a transfer to the organization by the decedent under certain conditions.
 
@@ -291,6 +291,10 @@ Subsec. (e). Pub. L. 91–172, §201(d)(1), substituted substantive provisions f
 #### Change of Name
 
 International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2006 Amendment
 

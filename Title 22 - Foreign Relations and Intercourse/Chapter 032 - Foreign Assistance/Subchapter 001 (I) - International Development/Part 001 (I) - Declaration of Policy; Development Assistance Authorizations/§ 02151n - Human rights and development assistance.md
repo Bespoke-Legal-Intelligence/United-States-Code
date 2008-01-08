@@ -44,7 +44,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;(B) the extent to which each country enforces such policies, including the adequacy of the resources and oversight dedicated to such policies;
 
-&emsp;(4) the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutionsvoted on at the Commission's annual session during the period covered during the preceding year;
+&emsp;(4) the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission's annual session during the period covered during the preceding year;
 
 &emsp;(5) the extent to which each country has extended protection to refugees, including the provision of first asylum and resettlement;
 
@@ -54,7 +54,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(8) wherever applicable, a description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur during the preceding year, including descriptions of—
 
-&emsp;&emsp;(A) acts of physical violence against, or harassment of <sup>2</sup> Jewish people, and acts of violence against, or vandalism of <sup>2</sup> Jewish community institutions, including schools, synagogues, and cemeteries;
+&emsp;&emsp;(A) acts of physical violence against, or harassment of <sup>2</sup> Jewish people, and acts of violence against, or vandalism of <sup>2</sup> Jewishcommunity institutions, including schools, synagogues, and cemeteries;
 
 &emsp;&emsp;(B) instances of propaganda in government and nongovernment media that attempt to justify or promote racial hatred or incite acts of violence against Jewish people;
 
@@ -100,7 +100,7 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 &emsp;&emsp;(v) What steps the government of that country has taken to assist victims of such trafficking, including efforts to prevent victims from being further victimized by traffickers, government officials, or others, grants of relief from deportation, and provision of humanitarian relief, including provision of mental and physical health care and shelter.
 
-&emsp;&emsp;(vi) Whether the government of that country is cooperating with governments of othercountries to extradite traffickers when requested, or, to the extent that such cooperation would be inconsistent with the laws of such country or with extradition treaties to which such country is a party, whether the government of that country is taking all appropriate measures to modify or replace such laws and treaties so as to permit such cooperation.
+&emsp;&emsp;(vi) Whether the government of that country is cooperating with governments of other countries to extradite traffickers when requested, or, to the extent that such cooperation would be inconsistent with the laws of such country or with extradition treaties to which such country is a party, whether the government of that country is taking all appropriate measures to modify or replace such laws and treaties so as to permit such cooperation.
 
 &emsp;&emsp;(vii) Whether the government of that country is assisting in international investigations of transnational trafficking networks and in other cooperative efforts to combat severe forms of trafficking in persons.
 
@@ -164,7 +164,7 @@ Subsec. (c). Pub. L. 103–236 substituted “Assistant Secretary of State for D
 
 1993—Subsec. (e). Pub. L. 103–149 struck out “(1)” before “The President is authorized” and struck out par. (2) which authorized grants to nongovernmental organizations in South Africa promoting political, economic, social, juridical, and humanitarian efforts to foster a just society and to help victims of apartheid.
 
-Subsecs. (f), (g). Pub. L. 103–149 struck out subsec. (f) which authorized assistance to political detainees andprisoners and support for black-led community organizations in South Africa and subsec. (g) which authorized assistance to families of victims of violence in South Africa.
+Subsecs. (f), (g). Pub. L. 103–149 struck out subsec. (f) which authorized assistance to political detainees and prisoners and support for black-led community organizations in South Africa and subsec. (g) which authorized assistance to families of victims of violence in South Africa.
 
 1990—Subsec. (b). Pub. L. 101–513, §599D, added subsec. (b) prohibiting assistance to governments failing to protect children from exploitation, abuse or conscription.
 
@@ -180,7 +180,7 @@ Subsec. (f)(2)(B). Pub. L. 99–631 substituted “subsection” for “paragrap
 
 Subsec. (g). Pub. L. 99–440, §202(b), added subsec. (g).
 
-1983—Subsec. (e). Pub. L. 98–164, §1002(a), designated existing provisions as par. (1), substituted “$3,000,000 of the funds made available under this part and part IV of subchapter II of this chapter for each fiscal year” for “$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983”, and added par. (2).
+1983—Subsec. (e). Pub. L. 98–164, §1002(a), designated existing provisions as par. (1), substituted “$3,000,000 ofthe funds made available under this part and part IV of subchapter II of this chapter for each fiscal year” for “$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983”, and added par. (2).
 
 1981—Subsec. (e). Pub. L. 97–113 substituted “each of the fiscal years 1982 and 1983” for “the fiscal year 1981”.
 
@@ -201,10 +201,6 @@ Pub. L. 95–88, §111(a), inserted references to the formulation of development
 Subsec. (d). Pub. L. 95–88, §111(a), substituted provisions directing the Secretary of State to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by January 31 of each year, a full and complete report regarding the status of internationally recognized human rights in countries that receive development assistance and the steps which the Administrator has taken to alter United States development assistance programs in any country because of human rights considerations for provisions directing the President to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, in the annual presentation materials on proposed economic development assistance programs, a full and complete report regarding the steps he has taken to carry out the provisions of this section.
 
 Subsec. (e). Pub. L. 95–88, §111(b), added subsec. (e).
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 2004 Amendment
 
@@ -230,9 +226,9 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-#### Separate Report
+#### Annual Report on Advancing Freedom and Democracy
 
-Pub. L. 107–228, div. A, title VI, §665(c), Sept. 30, 2002, 116 Stat. 1407, provided that: “The information to be included in the report required by sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d), 2304(b)\] pursuant to the amendments made by subsections (a) and (b) \[amending this section and section 2304 of this title\] may be submitted by the Secretary as a separate report. If the Secretary elects to submit such information as a separate report, such report shall be submitted not later than 30 days after the date of submission of the report required by section \[sic\] 116(d) and 502B(b) of the Foreign Assistance Act of 1961.”
+Pub. L. 107–228, div. A, title VI, §665(c), Sept. 30, 2002, 116 Stat. 1407, as amended by Pub. L. 110–53, title XXI, §2121(b), (d), Aug. 3, 2007, 121 Stat. 532, provided that: “The information to be included in the report required by sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d), 2304(b)\] pursuant to the amendments made by subsections (a) and (b) \[amending this section and section 2304 of this title\] may be submitted by the Secretary as a separate report entitled the Annual Report on Advancing Freedom and Democracy. If the Secretary elects to submit such information as a separate report, such report shall be submitted not later than 90 days after the date of submission of the report required by section \[sic\] 116(d) and 502B(b) of the Foreign Assistance Act of 1961.”
 
 \[For definition of “Secretary” as used in section 665(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
@@ -256,7 +252,7 @@ Pub. L. 107–228, div. A, title VI, §702, Sept. 30, 2002, 116 Stat. 1420, prov
 
 &emsp;“(8) Cooperating with requests by the United States to obtain full and free access to persons who may be eligible for admission to the United States as refugees or immigrants, and allowing such persons to leave Vietnam without being subjected to extortion or other corrupt practices.”
 
-\[For definitions of “Secretary” and “appropriate congressional committees” as used in section 702 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definitions of “Secretary” and “appropriate congressional committees” as used in section 702 of Pub. L.107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 #### Assistance for Promoting Religious Freedom
 

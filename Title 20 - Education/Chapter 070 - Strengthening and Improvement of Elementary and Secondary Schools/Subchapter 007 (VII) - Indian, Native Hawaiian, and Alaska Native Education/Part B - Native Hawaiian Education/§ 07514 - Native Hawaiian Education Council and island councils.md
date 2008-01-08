@@ -78,7 +78,7 @@ The Secretary shall make a direct grant to the Education Council to carry out th
 
 #### (g) Administrative provisions relating to Education Council and island councils
 
-The Education Council and each island council shall meet at the call of the chairperson of the appropriate council, or upon the request of the majority of the members of the appropriate council, but in any event not less often than four times during each calendar year. The provisions of the Federal Advisory Committee Act shall not apply to the Education Council and each island council.
+The Education Council and each island council shall meet at the call of the chairperson of theappropriate council, or upon the request of the majority of the members of the appropriate council, but in any event not less often than four times during each calendar year. The provisions of the Federal Advisory Committee Act shall not apply to the Education Council and each island council.
 
 #### (h) Compensation
 
@@ -97,4 +97,8 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 #### Prior Provisions
 
 A prior section 7514, Pub. L. 89–10, title VII, §7204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3738, related to applications for grants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7259b of this title.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

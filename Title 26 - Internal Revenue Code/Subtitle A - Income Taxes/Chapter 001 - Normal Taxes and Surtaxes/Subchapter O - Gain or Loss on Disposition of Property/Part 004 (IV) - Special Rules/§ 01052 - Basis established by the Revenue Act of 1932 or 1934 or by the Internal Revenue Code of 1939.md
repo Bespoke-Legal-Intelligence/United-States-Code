@@ -10,7 +10,7 @@ If the property was acquired, after February 28, 1913, in any taxable year begin
 
 #### (c) Internal Revenue Code of 1939
 
-If the property was acquired, after February 28, 1913, in a transaction to which the Internal Revenue Code of 1939 applied, and the basis thereof, for purposes of the Internal Revenue Code of 1939, was prescribed by section 113(a)(6), (7), (8), (13), (15), (18), (19), or (23) of such code, then for purposes of this subtitle the basis shallbe the same as the basis therein prescribed in the Internal Revenue Code of 1939.
+If the property was acquired, after February 28, 1913, in a transaction to which the Internal Revenue Code of 1939 applied, and the basis thereof, for purposes of the Internal Revenue Code of 1939, was prescribed by section 113(a)(6), (7), (8), (13), (15), (18), (19), or (23) of such code, then for purposes of this subtitle the basis shall be the same as the basis therein prescribed in the Internal Revenue Code of 1939.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 310.)
 

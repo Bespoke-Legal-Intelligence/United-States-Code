@@ -28,7 +28,7 @@ As used in this subchapter:
 
 (2) The term “franchise relationship” means the respective motor fuel marketing or distribution obligations and responsibilities of a franchisor and a franchisee which result from the marketing of motor fuel under a franchise.
 
-(3) The term “franchisor” means a refiner or distributor (as the case may be) who authorizes or permits, under a franchise, a retailer or distributor to use a trademark in connection with the sale, consignment, or distribution of motor fuel.
+(3) The term “franchisor” means a refiner or distributor (as the case may be) who authorizes or permits, under a franchise, a retailer or distributor to use a trademark in connection withthe sale, consignment, or distribution of motor fuel.
 
 (4) The term “franchisee” means a retailer or distributor (as the case may be) who is authorized or permitted, under a franchise, to use a trademark in connection with the sale, consignment, or distribution of motor fuel.
 
@@ -82,11 +82,17 @@ As used in this subchapter:
 
 (19) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
 
-(Pub. L. 95–297, title I, §101, June 19, 1978, 92 Stat. 322; Pub. L. 103–371, §6, Oct. 19, 1994, 108 Stat. 3486.)
+(Pub. L. 95–297, title I, §101, June 19, 1978, 92 Stat. 322; Pub. L. 103–371, §6, Oct. 19, 1994, 108 Stat. 3486; Pub. L. 110–140, title II, §241(c)(1), Dec. 19, 2007, 121 Stat. 1540.)
 
 #### Amendments
 
+2007—Par. (13)(C). Pub. L. 110–140 aligned margins.
+
 1994—Par. (13)(C). Pub. L. 103–371 added subpar. (C).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Short Title of 1994 Amendment
 

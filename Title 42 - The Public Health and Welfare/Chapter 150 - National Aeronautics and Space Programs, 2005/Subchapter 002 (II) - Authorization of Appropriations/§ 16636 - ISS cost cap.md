@@ -14,3 +14,7 @@ Thirty days after the transmittal of the report described in subsection (a), sec
 
 Section 202 of the National Aeronautics and Space Administration Act of 2000, referred to in subsec. (b), means section 202 of the National Aeronautics and Space Administration Authorization Act of 2000, Pub. L. 106–391, which was set out in a note under section 2451 of this title prior to being repealed by subsec. (b), effective thirty days after Dec. 1, 2006, the date of the transmittal referred to in subsec. (b).
 
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

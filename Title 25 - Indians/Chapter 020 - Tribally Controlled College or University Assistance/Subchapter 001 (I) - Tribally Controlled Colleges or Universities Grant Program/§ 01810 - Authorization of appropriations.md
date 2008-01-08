@@ -6,7 +6,7 @@
 
 (3) There is authorized to be appropriated for the purpose of carrying out sections 1812(b) and 1813 of this title, $10,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
-(4) Funds appropriated pursuant to the authorizations under this section for the fiscal year 1999 and for each of the succeeding 4 fiscal years shall be transferred by the Secretary of the Treasury through the most expeditious method available, with each of the tribally controlled colleges or universities being designated as its own certifying agency.
+(4) Funds appropriated pursuant to the authorizations under this section for the fiscal year 1999 and for each of the succeeding 4 fiscal years shall be transferred by the Secretary of the Treasury through the most expeditious methodavailable, with each of the tribally controlled colleges or universities being designated as its own certifying agency.
 
 (b)(1) For the purpose of affording adequate notice of funding available under this chapter, amounts appropriated in an appropriation Act for any fiscal year to carry out this chapter shall become available for obligation on July 1 of that fiscal year and shall remain available until September 30 of the succeeding fiscal year.
 

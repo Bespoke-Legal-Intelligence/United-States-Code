@@ -80,7 +80,7 @@ The first report submitted under subsection (a) of this section shall be submitt
 
 #### (h) Limitation on use of funds until submission of multiyear plan
 
-Not more than 10 percent of fiscal year 2001 Cooperative Threat Reduction funds may be obligated or expended until the Secretary of Defense submits to Congress an updated version of the multiyear plan for fiscal year 2001 required to be submitted under section 1205 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 22 U.S.C. 5952 note).
+Not more than 10 percent of fiscal year 2001 Cooperative Threat Reduction funds may be obligated or expended until the Secretary of Defense submits to Congress an updated version ofthe multiyear plan for fiscal year 2001 required to be submitted under section 1205 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 22 U.S.C. 5952 note).
 
 #### (i) Report on Russian nonstrategic nuclear arms
 
@@ -102,7 +102,7 @@ Section 1205 of the National Defense Authorization Act for Fiscal Year 1995, ref
 
 #### Codification
 
-Section is comprised of section 1 \[\[div. A\], title XIII, §1308\] of Pub. L. 106–398. Section 1 \[\[div. A\], title XIII,§1308(g)\] of Pub. L. 106–398 repealed section 5956 of this title, repealed section 1206 of Pub. L. 104–106 which was set out in a note under section 5955 of this title, repealed, effective on the date the Secretary of Defense submits to Congress an updated version of the multiyear plan for fiscal year 2001 as described in subsec. (h) of this section, section 1205 of Pub. L. 103–337, 108 Stat. 2883, which is set out in part as a note under section 5952 of this title, amended section 1312 of Pub. L. 106–65 which is set out as a note under section 5955 of this title, and repealed sections 1203 of Pub. L. 103–337, 108 Stat. 2882, and 1307 of Pub. L. 106–65, 113 Stat. 795, which are not classified to the Code.
+Section is comprised of section 1 \[\[div. A\], title XIII, §1308\] of Pub. L. 106–398. Section 1 \[\[div. A\], title XIII, §1308(g)\] of Pub. L. 106–398 repealed section 5956 of this title, repealed section 1206 of Pub. L. 104–106 which was set out in a note under section 5955 of this title, repealed, effective on the date the Secretary of Defense submits to Congress an updated version of the multiyear plan for fiscal year 2001 as described in subsec. (h) of this section, section 1205 of Pub. L. 103–337, 108 Stat. 2883, which is set out in part as a note under section 5952 of this title, amended section 1312 of Pub. L. 106–65 which is set out as a note under section 5955 of this title, and repealed sections 1203 of Pub. L. 103–337, 108 Stat. 2882, and 1307 of Pub. L. 106–65, 113 Stat. 795, which are not classified to the Code.
 
 Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the Cooperative Threat Reduction Act of 1993 which comprises this chapter.
 
@@ -156,7 +156,7 @@ Committees Specified.—The committees to which annual reports are to be submitt
 
 &emsp;“(1) The Committee on Armed Services, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate.
 
-&emsp;“(2) The Committee on Armed Services, the Permanent Select Committee on Intelligence, and the Committee on International Relations of the House of Representatives.”
+&emsp;“(2) The Committee on Armed Services, the Permanent Select Committee on Intelligence, and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.”
 
 #### Comprehensive Inventory of Russian Tactical Nuclear Weapons
 

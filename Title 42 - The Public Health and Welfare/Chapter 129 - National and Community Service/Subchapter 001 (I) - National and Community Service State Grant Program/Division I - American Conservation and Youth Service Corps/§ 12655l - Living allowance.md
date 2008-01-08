@@ -12,7 +12,7 @@
 
 #### (3) Maximum living allowance
 
-&emsp;The total amount of an annual living allowance that may be provided to a participant ina full-time youth corps program that receives assistance under this division shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
+&emsp;The total amount of an annual living allowance that may be provided to a participant in a full-time youth corps program that receives assistance under this division shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
 
 #### (4) Waiver or reduction of living allowance
 
@@ -38,7 +38,7 @@
 
 #### (c) Health insurance
 
-In addition to the living allowance provided under subsection (a) of this section, program agencies are encouraged to provide health insurance to each participant in a full-time youth corps program who does not otherwise have access to health insurance.
+In addition to the living allowance provided under subsection (a) of this section, program agencies are encouraged to provide health insurance to each participant in a full-time youthcorps program who does not otherwise have access to health insurance.
 
 #### (d) Facilities, services, and supplies
 

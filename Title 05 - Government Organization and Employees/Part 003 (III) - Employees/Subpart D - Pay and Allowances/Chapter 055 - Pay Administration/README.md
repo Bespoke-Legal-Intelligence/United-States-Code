@@ -188,6 +188,10 @@ Pub. L. 90–588, §2(c), Oct. 17, 1968, 82 Stat. 1152, added item 5519.
 
 1967—Pub. L. 90–83, §1(23), (26)(B), (28), (30), (35), Sept. 11, 1967, 81 Stat. 200, 201, 203, inserted items 5534a, 5595 and 5596, included Sunday rates in item 5544, Sunday and hazardous duty differential in item 5545 and Sundays in item 5546, substituted “Severance Pay and Back Pay” for “Back Pay” in heading of subchapter IX, and struck out items 5591 to 5594.
 
+#### Payment to Person Filling Position After Vote By Senate Not To Approve Person's Nomination
+
+Pub. L. 110–161, div. D, title VII, §709, Dec. 26, 2007, 121 Stat. 2021, provided that: “Hereafter, no part of any appropriation contained in this or any other Act shall be paid to any person for the filling of any position for which he or she has been nominated after the Senate has voted not to approve the nomination of said person.”
+
 
 ---
 

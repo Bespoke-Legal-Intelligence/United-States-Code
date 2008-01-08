@@ -22,7 +22,7 @@ Eligible Entities.—The conveyance of surplus real property under this section 
 
 (c)
 
-Reversionary Interest and Other Deed Requirements.—(1) The deed of conveyance of any surplus real property conveyed under this section shall require the property to be used andmaintained for the conservation of natural resources in perpetuity. If the Secretary concerned determines at any time that the property is not being used or maintained for such purpose, then, at the option of the Secretary, all or any portion of the property shall revert to the United States.
+Reversionary Interest and Other Deed Requirements.—(1) The deed of conveyance of any surplus real property conveyed under this section shall require the property to be used and maintained for the conservation of natural resources in perpetuity. If the Secretary concerned determines at any time that the property is not being used or maintained for such purpose, then, at the option of the Secretary, all or any portion of the property shall revert to the United States.
 
 (2) The deed of conveyance may permit the recipient of the property—
 

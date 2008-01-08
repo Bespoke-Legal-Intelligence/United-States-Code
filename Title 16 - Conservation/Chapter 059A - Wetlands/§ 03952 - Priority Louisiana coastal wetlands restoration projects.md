@@ -4,7 +4,7 @@
 
 #### (1) Preparation of list
 
-&emsp;Within forty-five days after November 29, 1990, the Secretary shall convene the TaskForce to initiate a process to identify and prepare a list of coastal wetlands restoration projects in Louisiana to provide for the long-term conservation of such wetlands and dependent fish and wildlife populations in order of priority, based on the cost-effectiveness of such projects in creating, restoring, protecting, or enhancing coastal wetlands, taking into account the quality of such coastal wetlands, with due allowance for small-scale projects necessary to demonstrate the use of new techniques or materials for coastal wetlands restoration.
+&emsp;Within forty-five days after November 29, 1990, the Secretary shall convene the Task Force to initiate a process to identify and prepare a list of coastal wetlands restoration projects in Louisiana to provide for the long-term conservation of such wetlands and dependent fish and wildlife populations in order of priority, based on the cost-effectiveness of such projects in creating, restoring, protecting, or enhancing coastal wetlands, taking into account the quality of such coastal wetlands, with due allowance for small-scale projects necessary to demonstrate the use of new techniques or materials for coastal wetlands restoration.
 
 #### (2) Task Force procedures
 
@@ -56,9 +56,9 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 &emsp;&emsp;(B) identification, by map or other means, of coastal areas in Louisiana in need of coastal wetlands restoration projects;
 
-&emsp;&emsp;(C) identification of high priority coastal wetlands restoration projects in Louisiana needed to address the areas identified in subparagraph (B) and that would provide for the long-term conservation of restored wetlands and dependent fish and wildlife populations;
+&emsp;&emsp;(C) identification of high priority coastal wetlands restoration projects in Louisiananeeded to address the areas identified in subparagraph (B) and that would provide for the long-term conservation of restored wetlands and dependent fish and wildlife populations;
 
-&emsp;&emsp;(D) a listing of such coastal wetlands restoration projects, in order of priority, to be submitted annually, incorporating anyproject identified previously in lists produced and submitted under subsection (a) of this section;
+&emsp;&emsp;(D) a listing of such coastal wetlands restoration projects, in order of priority, to be submitted annually, incorporating any project identified previously in lists produced and submitted under subsection (a) of this section;
 
 &emsp;&emsp;(E) a detailed description of each proposed coastal wetlands restoration project, including a justification for including such project on the list;
 

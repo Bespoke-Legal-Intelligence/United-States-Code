@@ -14,7 +14,7 @@ It shall be unlawful for any person to serve or act as investment adviser of a r
 
 #### (b) Written contract with company for sale by principal underwriter of security of which company is issuer; contents
 
-It shall be unlawful for any principal underwriter for a registered open-end company tooffer for sale, sell, or deliver after sale any security of which such company is the issuer, except pursuant to a written contract with such company, which contract—
+It shall be unlawful for any principal underwriter for a registered open-end company to offer for sale, sell, or deliver after sale any security of which such company is the issuer, except pursuant to a written contract with such company, which contract—
 
 &emsp;(1) shall continue in effect for a period more than two years from the date of its execution, only so long as such continuance is specifically approved at least annually by the board of directors or by vote of a majority of the outstanding voting securities of such company; and
 
@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 91–547, §8(b), struck out introductory phrase “After o
 
 Subsec. (c). Pub. L. 91–547, §8(c), made it the duty of the directors of a registered investment company to request and evaluate, and the duty of an investment adviser to such company to furnish, such information as may reasonably be necessary to evaluate the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company, substituted “interested persons” for “affiliated persons”, and struck out “except a written agreement which was in effect prior to March 15, 1940,” after “written or oral,”, item (1) designation following “have been approved” and item “or (2) by the vote of a majority of the outstanding voting securities of such company” after “any such party,”, and inserted “the vote” in phrase “by the vote of a majority”, and provision respecting voting “cast in person at a meeting called for the purpose of voting on such approval”.
 
-Subsecs. (d) to (f). Pub. L. 91–547, §8(d), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which prohibited any person after March 15, 1945, from acting as investment adviser to, or principal underwriter for, any registered investment company pursuant to a written contract in effect prior to March 15, 1940, unless such contract was renewed prior to March 15, 1945, in such form as to make it comply with subsecs. (a) or (b).
+Subsecs. (d) to (f). Pub. L. 91–547, §8(d), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which prohibited any person after March 15, 1945, from acting as investment adviser to, or principal underwriter for, any registered investment company pursuant to a written contract ineffect prior to March 15, 1940, unless such contract was renewed prior to March 15, 1945, in such form as to make it comply with subsecs. (a) or (b).
 
 #### Effective Date of 1975 Amendment
 

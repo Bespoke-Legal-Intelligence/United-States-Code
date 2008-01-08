@@ -6,7 +6,7 @@ All reports to or by the Administrator relevant to the Agency's program of resea
 
 #### (b) Transmittal of jurisdictional information
 
-The Administrator shall keep the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate fully and currently informed with respect to mattersfalling within or related to the jurisdiction of the committees.
+The Administrator shall keep the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate fully and currently informed with respect to matters falling within or related to the jurisdiction of the committees.
 
 #### (c) Comment by Government agencies and the public
 
@@ -32,7 +32,7 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

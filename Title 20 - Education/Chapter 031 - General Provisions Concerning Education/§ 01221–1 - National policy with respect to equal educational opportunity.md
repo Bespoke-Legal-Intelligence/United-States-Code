@@ -18,7 +18,7 @@ Section 2(c) of Pub. L. 93–380 provided that:
 
 #### Study of Civilian Aviation Training Programs
 
-Pub. L. 102–325, title XIV, §1410, July 23, 1992, 106 Stat. 821, directed Secretary of Education to enter into appropriate arrangements with National Academy of Sciences Commission on Behavioral and Social Sciences and Education to study civilian aviation training programs needed to satisfy workforce requirements of commercial aviation industry in year 2000 and beyond, directed Secretary to request that National Academy of Sciences Commission on Behavioral and Social Sciences and Education submit an interim report to Secretary and Congress within 1 year after July 23, 1992, and directed that the study be completed within 2 years of July 23, 1992, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, §1410, July 23, 1992, 106 Stat. 821, directed Secretary of Education to enter intoappropriate arrangements with National Academy of Sciences Commission on Behavioral and Social Sciences and Education to study civilian aviation training programs needed to satisfy workforce requirements of commercial aviation industry in year 2000 and beyond, directed Secretary to request that National Academy of Sciences Commission on Behavioral and Social Sciences and Education submit an interim report to Secretary and Congress within 1 year after July 23, 1992, and directed that the study be completed within 2 years of July 23, 1992, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### National Commission on Independent Higher Education
 
@@ -38,7 +38,7 @@ Pub. L. 99–498, title XIII, §1321, Oct. 17, 1986, 100 Stat. 1584, as amended 
 
 #### Study of Classroom Use of Volunteers
 
-Pub. L. 99–498, title XIII, §1341, Oct. 17, 1986, 100 Stat. 1587, as amended by Pub. L. 100–50, §23(7), June 3, 1987,101 Stat. 362, directed National Academy of Sciences to conduct a thorough study of how volunteers could best be used in the classroom with the study to (1) feasibility of using recipients of student loans as part of repayment of such loans, (2) use of older Americans as such volunteers, (3) use of business persons and other professionals as volunteers, and (4) place of incentives to encourage volunteerism, and with National Academy of Sciences to prepare and submit to Congress a report, together with a description of programs on use of volunteers and with such recommendations as deemed appropriate not later than one year after entering into a contract to conduct the study, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, §1341, Oct. 17, 1986, 100 Stat. 1587, as amended by Pub. L. 100–50, §23(7), June 3, 1987, 101 Stat. 362, directed National Academy of Sciences to conduct a thorough study of how volunteers could best be used in the classroom with the study to (1) feasibility of using recipients of student loans as part of repayment of such loans, (2) use of older Americans as such volunteers, (3) use of business persons and other professionals as volunteers, and (4) place of incentives to encourage volunteerism, and with National Academy of Sciences to prepare and submit to Congress a report, together with a description of programs on use of volunteers and with such recommendations as deemed appropriate not later than one year after entering into a contract to conduct the study, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Native Hawaiian Education Study
 

@@ -18,11 +18,21 @@
 
 #### (2) Compensation
 
-&emsp;The Chair may fix the compensation of the Executive Director. The rate of pay for the Executive Director may not exceed the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.
+#### (A) Authority to fix compensation
+
+&emsp;&emsp;The Chair may fix the compensation of the Executive Director.
+
+#### (B) Limitation
+
+&emsp;&emsp;The rate of pay for the Executive Director may not exceed the lesser of—
+
+&emsp;&emsp;&emsp;(i) the highest annual rate of compensation of any officer of the Senate; or
+
+&emsp;&emsp;&emsp;(ii) the highest annual rate of compensation of any officer of the House of Representatives.
 
 #### (3) Term
 
-&emsp;The term of office of the Executive Director shall be a single term of 5 years, except that the first Executive Director shall have a single term of 7 years.
+&emsp;The term of office of the Executive Director shall be not more than 2 terms of 5 years, except that the first Executive Director shall have a single term of 7 years.
 
 #### (4) Duties
 
@@ -36,11 +46,21 @@
 
 #### (2) Term
 
-&emsp;The term of office of a Deputy Executive Director shall be a single term of 5 years, except that the first Deputy Executive Directors shall have a single term of 6 years.
+&emsp;The term of office of a Deputy Executive Director shall be not more than 2 terms of 5 years, except that the first Deputy Executive Directors shall have a single term of 6 years.
 
 #### (3) Compensation
 
-&emsp;The Chair may fix the compensation of the Deputy Executive Directors. The rate of pay for a Deputy Executive Director may not exceed 96 percent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.
+#### (A) Authority to fix compensation
+
+&emsp;&emsp;The Chair may fix the compensation of the Deputy Executive Directors.
+
+#### (B) Limitation
+
+&emsp;&emsp;The rate of pay for a Deputy Executive Director may not exceed 96 percent of the lesser of—
+
+&emsp;&emsp;&emsp;(i) the highest annual rate of compensation of any officer of the Senate; or
+
+&emsp;&emsp;&emsp;(ii) the highest annual rate of compensation of any officer of the House of Representatives.
 
 #### (4) Duties
 
@@ -54,7 +74,17 @@
 
 #### (2) Compensation
 
-&emsp;The Chair may fix the compensation of the General Counsel. The rate of pay for the General Counsel may not exceed the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.
+#### (A) Authority to fix compensation
+
+&emsp;&emsp;The Chair may fix the compensation of the General Counsel.
+
+#### (B) Limitation
+
+&emsp;&emsp;The rate of pay for the General Counsel may not exceed the lesser of—
+
+&emsp;&emsp;&emsp;(i) the highest annual rate of compensation of any officer of the Senate; or
+
+&emsp;&emsp;&emsp;(ii) the highest annual rate of compensation of any officer of the House of Representatives.
 
 #### (3) Duties
 
@@ -70,7 +100,7 @@
 
 #### (5) Term
 
-&emsp;The term of office of the General Counsel shall be a single term of 5 years.
+&emsp;The term of office of the General Counsel shall be not more than 2 terms of 5 years.
 
 #### (6) Removal
 
@@ -90,7 +120,7 @@
 
 #### (B) Statement of reasons for removal
 
-&emsp;&emsp;In removing the General Counsel, the Speaker of the House of Representatives and the President pro tempore of the Senate shall state in writing to the General Counsel the specific reasons for the removal.
+&emsp;&emsp;In removing the General Counsel, the Speaker of the House of Representatives andthe President pro tempore of the Senate shall state in writing to the General Counsel the specific reasons for the removal.
 
 #### (d) Other staff
 
@@ -98,17 +128,33 @@ The Executive Director shall appoint, and fix the compensation of, and may remov
 
 #### (e) Detailed personnel
 
-The Executive Director may, with the prior consent of the department or agency of the Federal Government concerned, use on a reimbursable or nonreimbursable basis the services of personnel of any such department or agency, including the services of members or personnel of the General Accounting Office Personnel Appeals Board.<sup>1</sup>
+The Executive Director may, with the prior consent of the department or agency of the Federal Government concerned, use on a reimbursable or nonreimbursable basis the services of personnel of any such department or agency, including the services of members or personnel of the Government Accountability Office Personnel Appeals Board.
 
 #### (f) Consultants
 
 In carrying out the functions of the Office, the Executive Director may procure the temporary (not to exceed 1 year) or intermittent services of consultants.
 
-(Pub. L. 104–1, title III, §302, Jan. 23, 1995, 109 Stat. 26.)
+(Pub. L. 104–1, title III, §302, Jan. 23, 1995, 109 Stat. 26; Pub. L. 110–161, div. H, title I, §1101(b), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, §2(a), Dec. 26, 2007, 121 Stat. 2459.)
 
-#### Change of Name
+#### Amendments
 
-General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
+2007—Subsec. (a)(2). Pub. L. 110–161, §1101(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Chair may fix the compensation of the Executive Director. The rate of pay for the Executive Director may not exceed the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.”
+
+Subsec. (a)(3). Pub. L. 110–164, §2(a)(1), substituted “not more than 2 terms” for “a single term” the first time appearing.
+
+Subsec. (b)(2). Pub. L. 110–164, §2(a)(2), substituted “not more than 2 terms” for “a single term” the first time appearing.
+
+Subsec. (b)(3). Pub. L. 110–161, §1101(b)(2), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Chair may fix the compensation of the Deputy Executive Directors. The rate of pay for a Deputy Executive Director may not exceed 96 percent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.”
+
+Subsec. (c)(2). Pub. L. 110–161, §1101(b)(3), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Chair may fix the compensation of the General Counsel. The rate of pay for the General Counsel may not exceed the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5.”
+
+Subsec. (c)(5). Pub. L. 110–164, §2(a)(3), substituted “not more than 2 terms” for “a single term”.
+
+Subsec. (e). Pub. L. 110–161, §1101(b)(4), substituted “Government Accountability Office” for “General Accounting Office”.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–164, §2(b), Dec. 26, 2007, 121 Stat. 2459, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to an individual who is first appointed to the position of Executive Director, Deputy Executive Director, or General Counsel of the Office of Compliance after the date of the enactment of this Act \[Dec. 26, 2007\].”
 
 #### Permitting Current Executive Director, Deputy Executive Directors, and General Counsel of Office of Compliance To Serve One Additional Term
 
@@ -125,6 +171,4 @@ Deputy Executive Directors.—Notwithstanding section 302(b)(2) of such Act (2 U
 “(c)
 
 General Counsel.—Notwithstanding section 302(c)(5) of such Act (2 U.S.C. 1382(c)(5)), the individual serving as General Counsel of the Office of Compliance as of the date of the enactment of this Act may serve one additional term.”
-
-<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

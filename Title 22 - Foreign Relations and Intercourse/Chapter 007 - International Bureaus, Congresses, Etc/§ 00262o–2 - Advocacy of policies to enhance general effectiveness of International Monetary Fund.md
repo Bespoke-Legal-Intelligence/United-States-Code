@@ -60,7 +60,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(11) Vigorously promote recognition by the International Monetary Fund that macroeconomic developments and policies can affect and be affected by environmental conditions and policies, and urge the International Monetary Fund to encourage member countries to pursue macroeconomic stability while promoting environmental protection.
 
-&emsp;(12) Facilitate greater International Monetary Fund transparency, including by enhancing accessibility of the International Monetary Fund and its staff, fostering a more open release policy toward working papers, past evaluations, and other International Monetary Fund documents, seeking to publish all Letters of Intent to the International Monetary Fund and Policy Framework Papers, and establishing a more open release policy regarding Article IV consultations.
+&emsp;(12) Facilitate greater International Monetary Fund transparency, including by enhancing accessibility of the International Monetary Fund and its staff, fostering a more open release policy toward working papers, pastevaluations, and other International Monetary Fund documents, seeking to publish all Letters of Intent to the International Monetary Fund and Policy Framework Papers, and establishing a more open release policy regarding Article IV consultations.
 
 &emsp;(13) Facilitate greater International Monetary Fund accountability and enhance International Monetary Fund self-evaluation by vigorously promoting review of the effectiveness of the Office of Internal Audit and Inspection and the Executive Board's external evaluation pilot program and, if necessary, the establishment of an operations evaluation department modeled on the experience of the International Bank for Reconstruction and Development, guided by such key principles as usefulness, credibility, transparency, and independence.
 
@@ -90,7 +90,7 @@ To the extent that it would assist in achieving the goals described in subsectio
 
 #### Additional Provisions Relating to International Monetary Fund
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–317, provided that:
+Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–317, as amended by Pub. L. 110–161, div. H, title I, §1502(a), Dec. 26, 2007, 121 Stat. 2250, provided that:
 
 “(a)
 
@@ -98,7 +98,7 @@ Publication of IMF Operational Budgets.—The Secretary of the Treasury shall in
 
 “(b)
 
-Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—The Secretary of the Treasury shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of United States participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
+Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—The Secretary of the Treasury shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of United States participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
 
 “(c)
 
@@ -108,11 +108,7 @@ Continuation of Forgoing of Reimbursement of IMF for Expenses of Administering E
 
 No Gold Sales by International Monetary Fund Without Prior Authorization by the Congress.—(1) \[Amended section 286c of this title.\]
 
-“(2) Not less than 30 days prior to the entrance by the United States into international negotiations for the purpose of reaching agreement on the disposition of Fund gold whereby resources of the Fund would be used for the special benefit of a single member, or of a particular segment of the membership of the Fund, the Secretary of the Treasury shall consult with the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations of the House of Representatives and the Committees on Foreign Relations, on Appropriations, and on Banking, Housing and Urban Affairs of the Senate.
-
-“(e)
-
-Annual Report by GAO on Consistency of IMF Practices With Statutory Policies.—The Comptroller General of the United States shall annually prepare and submit to the Congress of the United States a written report on the extent to which the practices of the International Monetary Fund are consistent with the policies of the United States, as expressly contained in Federal law applicable to the International Monetary Fund.”
+“(2) Not less than 30 days prior to the entrance by the United States into international negotiations for the purpose of reaching agreement on the disposition of Fund gold whereby resources of the Fund would be used for the special benefit of a single member, or of a particular segment of the membership of the Fund, the Secretary of the Treasury shall consult with the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committees on Foreign Relations, on Appropriations, and on Banking, Housing and Urban Affairs of the Senate.”
 
 #### Definitions
 

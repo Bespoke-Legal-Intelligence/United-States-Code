@@ -24,7 +24,7 @@ The President may accept and use in furtherance of the purposes of this chapter,
 
 #### (f) Admission of alien participants
 
-Alien participants in any program of furnishing technical information and assistance underthis chapter may be admitted to the United States if otherwise qualified as nonimmigrants under section 1101(a)(15) of title 8, for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General.
+Alien participants in any program of furnishing technical information and assistance under this chapter may be admitted to the United States if otherwise qualified as nonimmigrants under section 1101(a)(15) of title 8, for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General.
 
 #### (g) Powers and authorities of the President with respect to loans
 
@@ -82,7 +82,7 @@ The Administrator of the agency primarily responsible for administering subchapt
 
 (4) At the close of each fiscal year the Administrator of the Agency shall transfer out of the fund to the miscellaneous receipts account of the Treasury of the United States such amounts as the Administrator determines to be in excess of the needs of the fund.
 
-(5) The fund may be charged with the current value of supplies and equipment returned to theworking capital of the fund by a post, activity, or agency, and the proceeds shall he <sup>1</sup> credited to current applicable appropriations.
+(5) The fund may be charged with the current value of supplies and equipment returned to the working capital of the fund by a post, activity, or agency, and the proceeds shall he <sup>1</sup> credited to current applicable appropriations.
 
 (Pub. L. 87–195, pt. III, §635, Sept. 4, 1961, 75 Stat. 456; Pub. L. 87–565, pt. III, §302(g), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(e), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(g), Sept. 6, 1965, 79 Stat. 660; Pub. L. 89–583, pt. III, §302(d), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(i), Nov. 14, 1967, 81 Stat. 461; Pub. L. 95–424, title I, §102(g)(2)(G), Oct. 6, 1978, 92 Stat. 943; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 106–264, title III, §301, Aug. 19, 2000, 114 Stat. 760; Pub. L. 106–309, title IV, §404, Oct. 17, 2000, 114 Stat. 1098; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

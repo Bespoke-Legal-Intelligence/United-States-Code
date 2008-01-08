@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(E) for use in the Near East, not to exceed $6,930,000, of which not to exceed $1,890,000 may be appropriated for the fiscal year 1967;
 
-&emsp;&emsp;(F) for facilities for the United States Information Agency, not to exceed $615,000, ofwhich not to exceed $430,000 may be appropriated for the fiscal year 1967;
+&emsp;&emsp;(F) for facilities for the United States Information Agency, not to exceed $615,000, of which not to exceed $430,000 may be appropriated for the fiscal year 1967;
 
 &emsp;&emsp;(G) for facilities for agricultural and defense attache�AE1 housing, not to exceed $800,000, of which not to exceed $400,000 may be appropriated for the fiscal year 1967;
 
@@ -108,7 +108,7 @@ Date of enactment of this section, referred to in subsec. (d), probably means th
 
 Subsec. (j). Pub. L. 94–350, §109(2), added subsec. (j).
 
-1975—Subsec. (g)(1). Pub. L. 94–141, §171(a), substituted “$850,000” for “$2,190,000” in subpar. (A),“$240,000” for “$375,000” in subpar. (B), “$682,000” for “$4,780,000” in subpar. (C), “$1,243,000” for “$2,585,000” in subpar. (D), and “$10,433,000” for “$3,518,000” in subpar. (E).
+1975—Subsec. (g)(1). Pub. L. 94–141, §171(a), substituted “$850,000” for “$2,190,000” in subpar. (A), “$240,000” for “$375,000” in subpar. (B), “$682,000” for “$4,780,000” in subpar. (C), “$1,243,000” for “$2,585,000” in subpar. (D), and “$10,433,000” for “$3,518,000” in subpar. (E).
 
 Subsec. (h). Pub. L. 94–141, §171(b)(1), added subsec. (h). Former subsec. (h) redesignated (i).
 

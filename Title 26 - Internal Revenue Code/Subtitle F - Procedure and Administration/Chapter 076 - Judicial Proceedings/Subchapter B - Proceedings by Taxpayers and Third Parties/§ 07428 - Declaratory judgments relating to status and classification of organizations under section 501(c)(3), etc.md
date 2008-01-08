@@ -16,7 +16,7 @@ In a case of actual controversy involving—
 
 &emsp;(2) a failure by the Secretary to make a determination with respect to an issue referred to in paragraph (1),
 
-> upon the filing of an appropriate pleading, the United States Tax Court, the United States Court of Federal Claims, or the district court of the United States for the District of Columbia may make a declaration with respect to such initial qualification or continuing qualification or with respect to such initial classification or continuing classification. Any such declaration shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. For purposes of this section, a determination with respect to a continuing qualification or continuing classification includesany revocation of or other change in a qualification or classification.
+> upon the filing of an appropriate pleading, the United States Tax Court, the United States Court of Federal Claims, or the district court of the United States for the District of Columbia may make a declaration with respect to such initial qualification or continuing qualification or with respect to such initial classification or continuing classification. Any such declaration shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. For purposes of this section, a determination with respect to a continuing qualification or continuing classification includes any revocation of or other change in a qualification or classification.
 
 #### (b) Limitations
 
@@ -98,7 +98,7 @@ Subsecs. (b)(2), (c)(1)(C)(iii). Pub. L. 102–572, §902(b)(2), substituted “
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable to notices and returns with respect to annual periods beginningafter 2006, see section 1223(f) of Pub. L. 109–280, set out as a note under section 6033 of this title.
+Amendment by Pub. L. 109–280 applicable to notices and returns with respect to annual periods beginning after 2006, see section 1223(f) of Pub. L. 109–280, set out as a note under section 6033 of this title.
 
 #### Effective Date of 2004 Amendment
 

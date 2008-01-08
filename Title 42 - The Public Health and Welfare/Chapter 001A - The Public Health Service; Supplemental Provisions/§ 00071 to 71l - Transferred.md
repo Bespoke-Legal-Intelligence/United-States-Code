@@ -22,7 +22,7 @@ Section 71h, act Apr. 9, 1930, ch. 125, §7, 46 Stat. 151, which provided for ap
 
 Section 71i, act Apr. 9, 1930, ch. 125, §8, 46 Stat. 151, which provided for disability pay for commissioned officers, was transferred to section 66 of this title.
 
-Section 71j, act Apr. 9, 1930, ch. 125, §9, 46 Stat. 151, which provided for promotions and pay and allowancesof commissioned officers, was transferred to section 37 of this title.
+Section 71j, act Apr. 9, 1930, ch. 125, §9, 46 Stat. 151, which provided for promotions and pay and allowances of commissioned officers, was transferred to section 37 of this title.
 
 Section 71k, act Apr. 9, 1930, ch. 125, §10(a), 46 Stat. 152, which provided titles for officers other than medical officers of Service, was transferred to section 35 of this title.
 

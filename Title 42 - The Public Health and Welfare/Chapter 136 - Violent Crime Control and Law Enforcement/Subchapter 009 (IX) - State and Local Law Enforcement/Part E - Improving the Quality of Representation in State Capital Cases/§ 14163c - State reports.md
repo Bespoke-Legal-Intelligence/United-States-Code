@@ -30,7 +30,7 @@ With respect to the funds provided under section 14163 of this title, a report u
 
 &emsp;&emsp;&emsp;(v) monitor the performance and training program attendance of appointed attorneys, and remove from the roster attorneys who fail to deliver effective representation or fail to comply with such requirements as such program, entity, or selection committee or similar entity may establish regarding participation in training programs, in accordance with section 14163(e)(2)(E) of this title; and
 
-&emsp;&emsp;&emsp;(vi) ensure funding for the cost of competent legal representation by the defense team and outside experts selected by counsel, in accordance with section 14163(e)(2)(F) of this title, including a statement setting forth—
+&emsp;&emsp;&emsp;(vi) ensure funding for the cost of competent legal representation by the defenseteam and outside experts selected by counsel, in accordance with section 14163(e)(2)(F) of this title, including a statement setting forth—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the State employs a public defender program under section 14163(e)(1)(A) of this title, the salaries received by the attorneys employed by such program and the salaries received by attorneys in the prosecutor's office in the jurisdiction;
 

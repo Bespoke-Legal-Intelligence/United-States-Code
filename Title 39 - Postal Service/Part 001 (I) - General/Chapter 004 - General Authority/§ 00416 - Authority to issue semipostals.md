@@ -60,7 +60,7 @@ Regulations.—
 
 &emsp;(1)
 
-In general.—Except as provided in subsection (c), the Postal Service shall prescribe any regulations necessary to carry out this section, including provisions relating to—
+In general.—Except as provided in subsection (c), the Postal Service shall prescribeany regulations necessary to carry out this section, including provisions relating to—
 
 &emsp;&emsp;(A) which office or other authority within the Postal Service shall be responsible for making the decisions described in subsection (d)(2);
 
@@ -78,7 +78,7 @@ Annual Reports.—
 
 &emsp;(1)
 
-In general.—The Postmaster General shall include in each report rendered undersection 2402, with respect to any period during any portion of which this section is in effect, information concerning the operation of any program established under this section.
+In general.—The Postmaster General shall include in each report rendered under section 2402, with respect to any period during any portion of which this section is in effect, information concerning the operation of any program established under this section.
 
 &emsp;(2)
 

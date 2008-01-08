@@ -10,7 +10,7 @@ The Secretary shall, from time to time, prepare and transmit to the Committee on
 
 #### (c) Prohibited statutory constructions
 
-Nothing in this section shall be construed as diminishing the authority of the Secretary under sections 461 to 467 of this title or as authorizing the Secretary to establish any national memorial, creation of which is hereby expressly reserved to the Congress.
+Nothing in this section shall be construed as diminishing the authority of the Secretaryunder sections 461 to 467 of this title or as authorizing the Secretary to establish any national memorial, creation of which is hereby expressly reserved to the Congress.
 
 #### (d) Authorization of appropriations
 
@@ -21,8 +21,4 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 #### Amendments
 
 1994—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -6,7 +6,7 @@ After October 1, 2008, the Secretary of Transportation may not approve an applic
 
 &emsp;(2) to impose a passenger facility fee under section 40117 of this title.
 
-(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213; amended Pub. L. 106–181, title II, §231(h), Apr. 5, 2000, 114 Stat. 115; Pub. L. 108–176, title VIII, §804, Dec. 12, 2003, 117 Stat. 2587.)
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213; amended Pub. L. 106–181, title II,§231(h), Apr. 5, 2000, 114 Stat. 115; Pub. L. 108–176, title VIII, §804, Dec. 12, 2003, 117 Stat. 2587.)
 
 Historical and Revision Notes
 

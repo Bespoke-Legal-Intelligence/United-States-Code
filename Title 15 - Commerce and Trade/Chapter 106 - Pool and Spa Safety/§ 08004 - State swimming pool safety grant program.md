@@ -1,0 +1,52 @@
+### §8004. State swimming pool safety grant program
+
+#### (a) In general
+
+Subject to the availability of appropriations authorized by subsection (e), the Commission shall establish a grant program to provide assistance to eligible States.
+
+#### (b) Eligibility
+
+To be eligible for a grant under the program, a State shall—
+
+&emsp;(1) demonstrate to the satisfaction of the Commission that it has a State statute, or that, after December 19, 2007, it has enacted a statute, or amended an existing statute, and provides for the enforcement of,<sup>1</sup> a law that—
+
+&emsp;&emsp;(A) except as provided in section 8005(a)(1)(A)(i) of this title, applies to all swimming pools in the State; and
+
+&emsp;&emsp;(B) meets the minimum State law requirements of section 8005 of this title; and
+
+&emsp;(2) submit an application to the Commission at such time, in such form, and containing such additional information as the Commission may require.
+
+#### (c) Amount of grant
+
+The Commission shall determine the amount of a grant awarded under this chapter, and shall consider—
+
+&emsp;(1) the population and relative enforcement needs of each qualifying State; and
+
+&emsp;(2) allocation of grant funds in a manner designed to provide the maximum benefit from the program in terms of protecting children from drowning or entrapment, and, in making that allocation, shall give priority to States that have not received a grant under this chapter in a preceding fiscal year.
+
+#### (d) Use of grant funds
+
+A State receiving a grant under this section shall use—
+
+&emsp;(1) at least 50 percent of amounts made available to hire and train enforcement personnel for implementation and enforcement of standards under the State swimming pool and spa safety law; and
+
+&emsp;(2) the remainder—
+
+&emsp;&emsp;(A) to educate pool construction and installation companies and pool service companies about the standards;
+
+&emsp;&emsp;(B) to educate pool owners, pool operators, and other members of the public about the standards under the swimming pool and spa safety law and about the prevention of drowning or entrapment of children using swimming pools and spas; and
+
+&emsp;&emsp;(C) to defray administrative costs associated with such training and education programs.
+
+#### (e) Authorization of appropriations
+
+There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended. Any amounts appropriated pursuant to this subsection that remain unexpended and unobligated at the end of fiscal year 2010 shall be retained by the Commission and credited to the appropriations account that funds enforcement of the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\].
+
+(Pub. L. 110–140, title XIV, §1405, Dec. 19, 2007, 121 Stat. 1796.)
+
+#### References in Text
+
+The Consumer Product Safety Act, referred to in subsec. (e), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+

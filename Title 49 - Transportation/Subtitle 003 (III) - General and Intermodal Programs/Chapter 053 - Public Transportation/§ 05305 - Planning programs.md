@@ -10,7 +10,7 @@ General Authority.—
 
 &emsp;(1)
 
-Grants and agreements.—Under criteria established by the Secretary, the Secretarymay award grants to States, authorities of the States, metropolitan planning organizations, and local governmental authorities, and make agreements with other departments, agencies, or instrumentalities of the Government to—
+Grants and agreements.—Under criteria established by the Secretary, the Secretary may award grants to States, authorities of the States, metropolitan planning organizations, and local governmental authorities, and make agreements with other departments, agencies, or instrumentalities of the Government to—
 
 &emsp;&emsp;(A) develop transportation plans and programs;
 
@@ -170,7 +170,7 @@ Subsec. (d)(1). Pub. L. 105–178, §3006(d), as amended by Pub. L. 105–206, �
 
 “(B) In cooperation with the metropolitan planning organization designated for a transportation management area, the State shall select the projects to be carried out in the area of the National Highway System or under the Bridge and Interstate Maintenance programs.”
 
-Subsec. (e)(2). Pub. L. 105–178, §3006(e)(1), added par. (2) and struck out former par. (2) which read as follows: “If the Secretary does not certify before October 1, 1993, that a metropolitan planning organization is carrying out its responsibilities, the Secretary may withhold any part of the apportionment under section 104(b)(3) of title 23 attributed to the relevant metropolitan area under section 133(d)(3) of title 23 and capital amounts apportioned under section 5336 of this title. If an organization remains uncertified for more than 2 consecutive years after September 30, 1994, 20 percent of that apportionment and capital amounts shall be withheld. The withheld apportionments shall be restored when the Secretary certifies the organization.”
+Subsec. (e)(2). Pub. L. 105–178, §3006(e)(1), added par. (2) and struck out former par. (2) which read as follows:“If the Secretary does not certify before October 1, 1993, that a metropolitan planning organization is carrying out its responsibilities, the Secretary may withhold any part of the apportionment under section 104(b)(3) of title 23 attributed to the relevant metropolitan area under section 133(d)(3) of title 23 and capital amounts apportioned under section 5336 of this title. If an organization remains uncertified for more than 2 consecutive years after September 30, 1994, 20 percent of that apportionment and capital amounts shall be withheld. The withheld apportionments shall be restored when the Secretary certifies the organization.”
 
 Subsec. (e)(4). Pub. L. 105–178, §3006(e)(2), added par. (4).
 

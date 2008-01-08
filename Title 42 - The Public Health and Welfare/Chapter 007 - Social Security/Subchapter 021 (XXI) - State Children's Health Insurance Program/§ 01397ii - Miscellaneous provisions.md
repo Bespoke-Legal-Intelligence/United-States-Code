@@ -14,13 +14,13 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Commerce shall make appropriate adjustments to the annual Current Population Survey conducted by the Bureau of the Census in order to produce statistically reliable annual State data on the number of low-income children who do not have health insurance coverage, so that real changes in the uninsurance rates of children can reasonably be detected. The Current Population Survey should produce data under this subsection that categorizes such children by family income, age, and race or ethnicity. The adjustments made to produce such data shall include,where appropriate, expanding the sample size used in the State sampling units, expanding the number of sampling units in a State, and an appropriate verification element.
+&emsp;The Secretary of Commerce shall make appropriate adjustments to the annual Current Population Survey conducted by the Bureau of the Census in order to produce statistically reliable annual State data on the number of low-income children who do not have health insurance coverage, so that real changes in the uninsurance rates of children can reasonably be detected. The Current Population Survey should produce data under this subsection that categorizes such children by family income, age, and race or ethnicity. The adjustments made to produce such data shall include, where appropriate, expanding the sample size used in the State sampling units, expanding the number of sampling units in a State, and an appropriate verification element.
 
 #### (2) Appropriation
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2000 and each fiscal year thereafter for the purpose of carrying out this subsection.
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2000 and each fiscal year thereafter for the purpose of carrying out this subsection (except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended).
 
-(Aug. 14, 1935, ch. 531, title XXI, §2109, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§703(a), 705(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–400, 1501A–403.)
+(Aug. 14, 1935, ch. 531, title XXI, §2109, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§703(a), 705(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–400, 1501A–403; Pub. L. 110–173, title II, §205, Dec. 29, 2007, 121 Stat. 2514.)
 
 #### References in Text
 
@@ -31,6 +31,8 @@ The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 194
 The Internal Revenue Code of 1986, referred to in subsec. (a)(1), is classified generally to Title 26, Internal Revenue Code. Subtitle K of such Code appears at section 9801 et seq. of Title 26.
 
 #### Amendments
+
+2007—Subsec. (b)(2). Pub. L. 110–173 inserted before period at end “(except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended)”.
 
 1999—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(6) \[title VII, §705(c)(1)\], substituted “title I” for “title II” before “of the Employee Retirement Income Security Act of 1974,”.
 

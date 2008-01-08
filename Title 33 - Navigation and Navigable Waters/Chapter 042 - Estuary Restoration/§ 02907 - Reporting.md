@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-At the end of the third and fifth fiscal years following November 7, 2000, the Secretary, after considering the advice and recommendations of the Council, shall transmit to Congress a report on the results of activities carried out under this chapter.
+Not later than September 30, 2008, and every 2 years thereafter, the Secretary, after considering the advice and recommendations of the Council, shall transmit to Congress a report on the results of activities carried out under this chapter.
 
 #### (b) Contents of report
 
 A report under subsection (a) of this section shall include—
 
-&emsp;(1) data on the number of acres of estuary habitat restored under this chapter, including descriptions of, and partners involved with,projects selected, in progress, and completed under this chapter that comprise those acres;
+&emsp;(1) data on the number of acres of estuary habitat restored under this chapter, including descriptions of, and partners involved with, projects selected, in progress, and completed under this chapter that comprise those acres;
 
 &emsp;(2) information from the database established under section 2906(b) of this title related to ongoing monitoring of projects to ensure that short-term and long-term restoration goals are achieved;
 
@@ -20,5 +20,9 @@ A report under subsection (a) of this section shall include—
 
 &emsp;(6) a review of the measures taken to provide the information described in paragraphs (1) through (3) to persons with responsibility for assisting in the restoration of estuary habitat.
 
-(Pub. L. 106–457, title I, §108, Nov. 7, 2000, 114 Stat. 1965.)
+(Pub. L. 106–457, title I, §108, Nov. 7, 2000, 114 Stat. 1965; Pub. L. 110–114, title V, §5017(f), Nov. 8, 2007, 121 Stat. 1198.)
+
+#### Amendments
+
+2007—Subsec. (a). Pub. L. 110–114 substituted “Not later than September 30, 2008, and every 2 years thereafter” for “At the end of the third and fifth fiscal years following November 7, 2000”.
 

@@ -4,7 +4,7 @@
 
 #### (1) Requirement for persons other than individuals
 
-&emsp;No person, other than an individual, shall be considered a responsible source, under the meaning of such term as defined in section 403(8) of this title, for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in section 403(11) of this title) by any Federal agency, other than a contract for the procurement of commercial items (as defined in section 403(12) of this title), unless such person agrees to provide a drug-free workplace by—
+&emsp;No person, other than an individual, shall be considered a responsible source, under the meaning of such term as defined in section 403(8) of this title, for the purposes of being awarded a contract for the procurement of any property or services of a value greater thanthe simplified acquisition threshold (as defined in section 403(11) of this title) by any Federal agency, other than a contract for the procurement of commercial items (as defined in section 403(12) of this title), unless such person agrees to provide a drug-free workplace by—
 
 &emsp;&emsp;(A) publishing a statement notifying employees that the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance is prohibited in the person's workplace and specifying the actions that will be taken against employees for violations of such prohibition;
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) the contractor violates the requirements of subparagraph (A), (B), (C), (D), (E), or (F) of subsection (a)(1) of this section; or
 
-&emsp;&emsp;(B) such a number of employees of such contractor have been convicted of violationsof criminal drug statutes for violations occurring in the workplace as to indicate that the contractor has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a) of this section.
+&emsp;&emsp;(B) such a number of employees of such contractor have been convicted of violations of criminal drug statutes for violations occurring in the workplace as to indicate that the contractor has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a) of this section.
 
 #### (2) Conduct of suspension, termination, and debarment proceedings
 

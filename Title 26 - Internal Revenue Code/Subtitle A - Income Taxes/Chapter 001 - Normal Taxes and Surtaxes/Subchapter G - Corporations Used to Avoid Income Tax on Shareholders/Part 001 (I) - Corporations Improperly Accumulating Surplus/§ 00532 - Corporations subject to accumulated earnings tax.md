@@ -44,7 +44,7 @@ Section 1124 of Pub. L. 105–34 provided that: “The amendments made by this s
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as an Effective Date note under section 1291 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31,1986, see section 1235(h) of Pub. L. 99–514, set out as an Effective Date note under section 1291 of this title.
 
 #### Effective Date of 1984 Amendment
 

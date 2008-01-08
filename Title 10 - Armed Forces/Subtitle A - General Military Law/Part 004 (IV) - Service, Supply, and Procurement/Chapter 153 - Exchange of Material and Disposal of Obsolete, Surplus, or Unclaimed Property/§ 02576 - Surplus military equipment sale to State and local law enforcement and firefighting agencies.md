@@ -24,8 +24,6 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Pub. L. 106–181, title VII, §740, Apr. 5, 2000, 114 Stat. 173, as amended by Pub. L. 107–296, title XVII, §1704(e)(6), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title X, §§1051, 1062(i), Dec. 2, 2002, 116 Stat. 2648, 2651, provided that:
 
-z
-
 “(a)
 
 Authority.—
@@ -76,7 +74,7 @@ Contents.—The regulations shall—
 
 “(e)
 
-Additional Terms and Conditions.—The Secretary of Defense may require such other terms and conditions in connection with each sale of aircraft andaircraft parts under this section as the Secretary considers appropriate for such sale. Such terms and conditions shall meet the requirements of regulations prescribed under subsection (d).
+Additional Terms and Conditions.—The Secretary of Defense may require such other terms and conditions in connection with each sale of aircraft and aircraft parts under this section as the Secretary considers appropriate for such sale. Such terms and conditions shall meet the requirements of regulations prescribed under subsection (d).
 
 “(f)
 

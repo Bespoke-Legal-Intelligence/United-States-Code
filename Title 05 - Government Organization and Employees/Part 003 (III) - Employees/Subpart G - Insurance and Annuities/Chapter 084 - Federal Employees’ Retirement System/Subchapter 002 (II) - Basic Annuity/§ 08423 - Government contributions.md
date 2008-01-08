@@ -10,7 +10,7 @@
 
 &emsp;(B) the product of—
 
-&emsp;&emsp;(i) the normal-cost percentage, as determined for Members, Congressional employees, law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, air traffic controllers, military reserve technicians, and employees under sections 302 and 303 of the Central Intelligence Agency Retirement Act, multiplied by
+&emsp;&emsp;(i) the normal-cost percentage, as determined for Members, Congressional employees, law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, and employees under sections 302 and 303 of the Central Intelligence Agency Retirement Act, multiplied by
 
 &emsp;&emsp;(ii) the aggregate amount of basic pay payable by the agency, for the period involved, to employees and Members (under clause (i)) who are within such agency.
 
@@ -18,11 +18,11 @@
 
 (3) Contributions under this subsection shall be paid—
 
-&emsp;(A) in the case of law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, air traffic controllers, military reserve technicians, and other employees, from the appropriation or fund used to pay such law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, air traffic controllers, military reserve technicians, or other employees, respectively;
+&emsp;(A) in the case of law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, and other employees, from the appropriation or fund used to pay such law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, or other employees, respectively;
 
 &emsp;(B) in the case of elected officials, from an appropriation or fund available for payment of other salaries of the same office or establishment; and
 
-&emsp;(C) in the case of employees of the legislative branch paid by the Chief AdministrativeOfficer of the House of Representatives, from the applicable accounts of the House of Representatives.
+&emsp;(C) in the case of employees of the legislative branch paid by the Chief Administrative Officer of the House of Representatives, from the applicable accounts of the House of Representatives.
 
 (4) A contribution to the Fund under this subsection shall be deposited under such procedures as the Comptroller General of the United States may prescribe.
 
@@ -54,13 +54,15 @@
 
 (c) Under regulations prescribed by the Office, the head of an agency may request reconsideration of any amount determined to be payable with respect to such agency under subsection (a) or (b). Any such request shall be referred to the Board of Actuaries of the Civil Service Retirement System. The Board of Actuaries shall review the computations of the Office and may make any adjustment with respect to any such amount which the Board determines appropriate. A determination by the Board of Actuaries under this subsection shall be final.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378, §2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, §215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, §3154(j), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(4)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378, §2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, §215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, §3154(j), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(4)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–161, div. E, title V, §535(b)(5), Dec. 26, 2007, 121 Stat. 2076.)
 
 #### References in Text
 
 Sections 302 and 303 of the Central Intelligence Agency Retirement Act, referred to in subsec. (a)(1)(B)(i), are classified to sections 2152 and 2153, respectively, of Title 50, War and National Defense.
 
 #### Amendments
+
+2007—Subsec. (a)(1)(B)(i), (3)(A). Pub. L. 110–161 inserted “customs and border protection officers,” after “nuclear materials couriers,” wherever appearing.
 
 2006—Subsec. (b)(1)(B). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
@@ -73,6 +75,10 @@ Sections 302 and 303 of the Central Intelligence Agency Retirement Act, referred
 1992—Subsec. (a)(1)(B)(i). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
 Pub. L. 102–378 substituted “multiplied” for “multipled”.
+
+#### Effective Date of 2007 Amendment; Transition Rules
+
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
 
 #### Effective Date of 2000 Amendment
 

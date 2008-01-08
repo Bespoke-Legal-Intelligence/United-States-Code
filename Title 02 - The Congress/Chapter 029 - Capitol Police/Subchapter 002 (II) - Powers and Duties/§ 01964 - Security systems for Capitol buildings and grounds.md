@@ -16,7 +16,7 @@ Capitol Buildings and Grounds” in title I of the Legislative Branch Appropriat
 
 #### (b) Transfer of responsibility to Capitol Police Board
 
-Effective October 1, 1995, the responsibility for design and installation of security systems for the Capitol buildings and grounds is transferred from the Architect of the Capitol to the Capitol Police Board. Such design and installation shall be carried out under the direction of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, and without regard to section 5 of title 41. On and after October 1, 1995, any alteration to a structural, mechanical, or architectural feature of the Capitol buildings and grounds that is required for a security system under the preceding sentence may be carried out only with the approval of the Architect of the Capitol.
+Effective October 1, 1995, the responsibility for design and installation of security systems forthe Capitol buildings and grounds is transferred from the Architect of the Capitol to the Capitol Police Board. Such design and installation shall be carried out under the direction of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, and without regard to section 5 of title 41. On and after October 1, 1995, any alteration to a structural, mechanical, or architectural feature of the Capitol buildings and grounds that is required for a security system under the preceding sentence may be carried out only with the approval of the Architect of the Capitol.
 
 #### (c) Transfer of positions to Capitol Police
 
@@ -40,7 +40,7 @@ The paragraph under the heading “
 
 capitol buildings”, under the general headings “JOINT ITEMS”, “ARCHITECT OF THE CAPITOL”, and “
 
-Capitol Buildings and Grounds” in title I of the Legislative Branch Appropriations Act, 1995, referred to in subsec. (a)(2)(A), is contained in Pub. L. 103–283, title I, July 22,1994, 108 Stat. 1423, 1434, and is not classified to the Code.
+Capitol Buildings and Grounds” in title I of the Legislative Branch Appropriations Act, 1995, referred to in subsec. (a)(2)(A), is contained in Pub. L. 103–283, title I, July 22, 1994, 108 Stat. 1423, 1434, and is not classified to the Code.
 
 This Act, referred to in subsec. (a)(2)(A), is Pub. L. 104–53, Nov. 19, 1995, 109 Stat. 514, known as the Legislative Branch Appropriations Act, 1996. Provisions under such headings in this Act appear at 109 Stat. 527, and are not classified to the Code.
 

@@ -22,7 +22,7 @@ For purposes of subsection (a) of this section the recoverable amount is the exc
 
 &emsp;&emsp;(C) the present value at the time of termination of the participant's future benefits guaranteed under this subchapter as if the benefits commenced in the form described in paragraph (3).
 
-&emsp;(3) The form of benefit for purposes of this subsection shall be the monthly benefit the participant would have received during the consecutive 12-month period, if he had elected at the time of the first payment made during the 3-year period, to receive his interest in the plan as a monthly benefit in the form of a life annuity commencing at the time of such first payment.
+&emsp;(3) The form of benefit for purposes of this subsection shall be the monthly benefit the participant would have received during theconsecutive 12-month period, if he had elected at the time of the first payment made during the 3-year period, to receive his interest in the plan as a monthly benefit in the form of a life annuity commencing at the time of such first payment.
 
 #### (c) Payments made on or after death or disability of participant; waiver of recovery in case of hardship
 

@@ -26,7 +26,7 @@ Preliminary injunctive relief.—In any civil action with respect to prison cond
 
 Prisoner release order.—(A) In any civil action with respect to prison conditions, no court shall enter a prisoner release order unless—
 
-&emsp;&emsp;(i) a court has previously entered an order for less intrusive relief that has failed to remedy the deprivation of the Federal right sought to be remedied through the prisoner release order; and
+&emsp;&emsp;(i) a court has previously entered an order for less intrusive relief that has failed to remedy the deprivation of the Federal rightsought to be remedied through the prisoner release order; and
 
 &emsp;&emsp;(ii) the defendant has had a reasonable amount of time to comply with the previous court orders.
 
@@ -84,7 +84,7 @@ Consent decrees.—In any civil action with respect to prison conditions, the co
 
 Private settlement agreements.—(A) Nothing in this section shall preclude parties from entering into a private settlement agreement that does not comply with the limitations on relief set forth in subsection (a), if the terms of that agreement are not subject to court enforcement other than the reinstatement of the civil proceeding that the agreement settled.
 
-&emsp;(B) Nothing in this section shall preclude any party claiming that a private settlementagreement has been breached from seeking in State court any remedy available under State law.
+&emsp;(B) Nothing in this section shall preclude any party claiming that a private settlement agreement has been breached from seeking in State court any remedy available under State law.
 
 (d)
 
@@ -110,7 +110,7 @@ Automatic stay.—Any motion to modify or terminate prospective relief made unde
 
 &emsp;(3)
 
-Postponement of automatic stay.—The court may postpone the effective date of an automatic stay specified in subsection (e)(2)(A) for not more than 60 days for good cause. No postponement shall be permissible because of general congestion of the court's calendar.
+Postponement of automatic stay.—The court may postpone the effective date of an automatic stay specified in subsection\(e)(2)(A) for not more than 60 days for good cause. No postponement shall be permissible because of general congestion of the court's calendar.
 
 &emsp;(4)
 

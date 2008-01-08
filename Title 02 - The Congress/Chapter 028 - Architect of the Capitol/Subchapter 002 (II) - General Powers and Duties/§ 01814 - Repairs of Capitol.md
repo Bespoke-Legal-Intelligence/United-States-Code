@@ -46,7 +46,7 @@ Pub. L. 102–392, title III, §305, Oct. 6, 1992, 106 Stat. 1721, as amended by
 
 “(b) As used in this section—
 
-&emsp;“(1) the term ‘agency of the legislative branch’ means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office; and
+&emsp;“(1) the term ‘agency of the legislative branch’ means the Office of the Architect of the Capitol, theBotanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office; and
 
 &emsp;“(2) the term ‘telecommunications system’ means an electronic system for voice, data, or image communication, including any associated cable and switching equipment.
 

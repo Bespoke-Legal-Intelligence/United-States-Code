@@ -20,7 +20,7 @@ Inspections and Investigations.—
 
 In general.—A designated officer, employee, or agent of the Secretary—
 
-&emsp;&emsp;(A) may inspect and investigate, at a reasonable time and in a reasonable manner, records and property relating to a function described in section 5103(b)(1);
+&emsp;&emsp;(A) may inspect and investigate, at a reasonable time and in a reasonable manner,records and property relating to a function described in section 5103(b)(1);
 
 &emsp;&emsp;(B) except in the case of packaging immediately adjacent to its hazardous material contents, may gain access to, open, and examine a package offered for, or in, transportation when the officer, employee, or agent has an objectively reasonable and articulable belief that the package may contain a hazardous material;
 
@@ -72,7 +72,7 @@ Opportunity for review.—After taking action under paragraph (1), the Secretary
 
 &emsp;(4)
 
-Expiration of effectiveness of order.—If a petition for review of an action is filed under paragraph (3) and the review under thatparagraph is not completed by the end of the 30-day period beginning on the date the petition is filed, the action shall cease to be effective at the end of such period unless the Secretary determines, in writing, that the imminent hazard providing a basis for the action continues to exist.
+Expiration of effectiveness of order.—If a petition for review of an action is filed under paragraph (3) and the review under that paragraph is not completed by the end of the 30-day period beginning on the date the petition is filed, the action shall cease to be effective at the end of such period unless the Secretary determines, in writing, that the imminent hazard providing a basis for the action continues to exist.
 
 &emsp;(5)
 
@@ -100,7 +100,7 @@ Facility, Staff, and Reporting System on Risks, Emergencies, and Actions.—(1) 
 
 &emsp;(C) conduct a continuous review on all aspects of transporting hazardous material to decide on and take appropriate actions to ensure safe transportation of hazardous material.
 
-(2) Paragraph (1) of this subsection does not prevent the Secretary from making a contract with a private entity for use of a supplemental reporting system and information center operated and maintained by the contractor.
+(2) Paragraph (1) of this subsection does not prevent the Secretary from making a contractwith a private entity for use of a supplemental reporting system and information center operated and maintained by the contractor.
 
 (g)
 
@@ -174,7 +174,7 @@ In subsection (b), before clause (1), the words “requirements under” are omi
 
 In subsection (c)(1), before clause (A), the words “enter upon . . . and examine” and “of persons to the extent such records and properties” are omitted as surplus. In clause (B), the words “or shipment by any person” are omitted as surplus.
 
-In subsection (d)(1), before clause (A), the words “establish and” are omitted as executed. In clause (B), thewords “capable of” are substituted for “so as to be able to” to eliminate unnecessary words. The words “technical and other” and “of communities” are omitted as surplus. The words “and employees” are added for consistency in the revised title and with other titles of the Code. In clause (C), the words “in order” and “to be able to” are omitted as surplus.
+In subsection (d)(1), before clause (A), the words “establish and” are omitted as executed. In clause (B), the words “capable of” are substituted for “so as to be able to” to eliminate unnecessary words. The words “technical and other” and “of communities” are omitted as surplus. The words “and employees” are added for consistency in the revised title and with other titles of the Code. In clause (C), the words “in order” and “to be able to” are omitted as surplus.
 
 In subsection (e), before clause (1), the words “prepare and” and “comprehensive” are omitted as surplus. In clause (1), the word “thorough” is omitted as surplus. In clause (2), the words “in effect” are omitted as surplus. In clause (3), the words “granted or maintained” are omitted as surplus. In clause (6), the words “additional . . . as are deemed necessary or” are omitted as surplus.
 

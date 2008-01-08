@@ -14,7 +14,7 @@ In furtherance of sections 426 to 426j of this title, the boundary of Stones Riv
 
 (3)(A) Except for property which the Secretary determines to be necessary for the purposes of administration, development, access, or public use, an owner of improved property which is used solely for noncommercial residential purposes on the date of its acquisition by the Secretary may retain, as a condition of such acquisition, a right of use and occupancy of the property for such residential purposes. The right retained may be for a definite term which shall not exceed 25 years or, in lieu thereof, for a term ending at the death of the owner or the death of the spouse, whichever is later. The owner shall elect the term to be retained. The Secretary shall pay the owner the fair market value of the property on the date of such acquisition, less the fair market value of the term retained by the owner.
 
-(B) Any right of use and occupancy retained pursuant to this section may, during its existence, be conveyed or transferred, but all rights of use and occupancy shall be subject to such terms and conditions as the Secretary deems appropriate to assure the use of the property in accordance with the purposes of sections 426n to 426p of this title. Upon his determination that the property, or any portion thereof, has ceasedto be so used in accordance with such terms and conditions, the Secretary may terminate the right of use and occupancy by tendering to the holder of such right an amount equal to the fair market value, as of the date of the tender, of that portion of the right which remains unexpired on the date of termination.
+(B) Any right of use and occupancy retained pursuant to this section may, during its existence, be conveyed or transferred, but all rights of use and occupancy shall be subject to such terms and conditions as the Secretary deems appropriate to assure the use of the property in accordance with the purposes of sections 426n to 426p of this title. Upon his determination that the property, or any portion thereof, has ceased to be so used in accordance with such terms and conditions, the Secretary may terminate the right of use and occupancy by tendering to the holder of such right an amount equal to the fair market value, as of the date of the tender, of that portion of the right which remains unexpired on the date of termination.
 
 (C) This paragraph applies only to owners who have reached the age of majority.
 
@@ -33,8 +33,4 @@ The Comprehensive Environmental Response, Compensation, and Liability Act, refer
 1991—Subsec. (a). Pub. L. 102–225, §1(1), substituted “numbered 327/80,004B, and dated November 1991” for “numbered 327/80,001, and dated March 1987”.
 
 Subsec. (b). Pub. L. 102–225, §1(2), designated existing provisions as par. (1) and added pars. (2) and (3).
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

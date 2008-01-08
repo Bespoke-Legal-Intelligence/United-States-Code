@@ -56,7 +56,7 @@ Subsec. (f). Pub. L. 106–469, §103(13)(B), amended subsec. (f) generally. Pri
 
 Subsec. (g). Pub. L. 106–469, §103(13)(C), substituted “development” for “implementation” and struck out “Plan” after “Strategic Petroleum Reserve”.
 
-Subsecs. (h), (i). Pub. L. 106–469, §103(13)(D), struck out subsecs. (h) and (i) which related to use of interim storage facilities and environmental considerations for existing facilities, and report to Congress on results of negotiations for enlargement of Strategic Petroleum Reserve to one billion barrels.
+Subsecs. (h), (i). Pub. L. 106–469, §103(13)(D), struck out subsecs. (h) and (i) which related to use of interimstorage facilities and environmental considerations for existing facilities, and report to Congress on results of negotiations for enlargement of Strategic Petroleum Reserve to one billion barrels.
 
 Subsec. (j). Pub. L. 106–469, §103(13)(E), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “No later than 24 months after September 15, 1990, the Secretary shall amend the Strategic Petroleum Reserve Plan to prescribe plans for completion of storage of one billion barrels of petroleum product in the Reserve. Such amendment shall comply with the provisions of this section and shall detail the Secretary's plans for the design, construction, leasing or other acquisition, and fill of storage and related facilities of the Reserve to achieve such one billion barrels of storage. Such amendment shall not be subject to the congressional review procedures contained in section 6421 of this title. In assessing alternatives in the development of such plans, the Secretary shall consider leasing privately owned storage facilities.”
 
@@ -68,7 +68,7 @@ Subsec. (k). Pub. L. 101–383, §9, added subsec. (k).
 
 Subsec. (<i>l</i>). Pub. L. 101–383, §11, added subsec. (<i>l</i>).
 
-1985—Subsec. (e). Pub. L. 99–58 amended subsec. (e) generally, substituting provisions directing that amendments transmitted pursuant to subsec. (d) of thissection not become effective until 60 days after transmittal except in the case of enumerated presidential determinations for provisions which had formerly empowered Congress to disapprove of transmitted proposals and amendments in accordance with the procedures specified in section 6421 of this title.
+1985—Subsec. (e). Pub. L. 99–58 amended subsec. (e) generally, substituting provisions directing that amendments transmitted pursuant to subsec. (d) of this section not become effective until 60 days after transmittal except in the case of enumerated presidential determinations for provisions which had formerly empowered Congress to disapprove of transmitted proposals and amendments in accordance with the procedures specified in section 6421 of this title.
 
 1982—Subsec. (f)(5). Pub. L. 97–229, §4(b)(1), added par. (5).
 

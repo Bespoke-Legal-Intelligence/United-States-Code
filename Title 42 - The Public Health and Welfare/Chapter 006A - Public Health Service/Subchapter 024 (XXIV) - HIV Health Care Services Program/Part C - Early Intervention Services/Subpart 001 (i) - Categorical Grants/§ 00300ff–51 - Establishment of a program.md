@@ -108,7 +108,7 @@ Notification of waiver status.—When informing an applicant that a grant under 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may not make a grant under subsection (a) unless the applicant forthe grant agrees that each of the early intervention services specified in paragraph (2) will be available through the grantee. With respect to compliance with such agreement, such a grantee may expend the grant to provide the early intervention services directly, and may expend the grant to enter into agreements with public or nonprofit private entities, or private for-profit entities if such entities are the only available provider of quality HIV care in the area, under which the entities provide the services.
+&emsp;&emsp;The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that each of the early intervention services specified in paragraph (2) will be available through the grantee. With respect to compliance with such agreement, such a grantee may expend the grant to provide the early intervention services directly, and may expend the grant to enter into agreements with public or nonprofit privateentities, or private for-profit entities if such entities are the only available provider of quality HIV care in the area, under which the entities provide the services.
 
 #### (B) Other requirements
 

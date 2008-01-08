@@ -28,7 +28,7 @@ An application submitted under subsection (b) of this section shall—
 
 #### (d) Use
 
-A grant, contract, or agreement made or entered into under this section shall be used for the development of a public information campaign that may include public service announcements, paid educational messages for print media, public transit advertising, electronic broadcast media, and any other mode of conveying information that the Secretary determines to be appropriate.
+A grant, contract, or agreement made or entered into under this section shall be used for the development of a public information campaign that may include public service announcements, paid educational messages for printmedia, public transit advertising, electronic broadcast media, and any other mode of conveying information that the Secretary determines to be appropriate.
 
 #### (e) Criteria
 

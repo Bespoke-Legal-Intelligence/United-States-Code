@@ -14,5 +14,5 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Short Title
 
-Section 701(a) of title VII of Pub. L. 91–609, as amended by Pub. L. 95–128, title VI, §601(a)(1), Oct. 12, 1977, 91Stat. 1142, provided that: “This title \[enacting this chapter, amending sections 1453, 1460, and 1492, of this title, sections 371 and 1464 of Title 12, Banks and Banking, and section 461 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under section 1453 of this title\] may be cited as the ‘National Urban Policy and New Community Development Act of 1970’.”
+Section 701(a) of title VII of Pub. L. 91–609, as amended by Pub. L. 95–128, title VI, §601(a)(1), Oct. 12, 1977, 91 Stat. 1142, provided that: “This title \[enacting this chapter, amending sections 1453, 1460, and 1492, of this title, sections 371 and 1464 of Title 12, Banks and Banking, and section 461 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under section 1453 of this title\] may be cited as the ‘National Urban Policy and New Community Development Act of 1970’.”
 

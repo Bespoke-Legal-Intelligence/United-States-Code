@@ -6,7 +6,7 @@
 
 &emsp;(2) agreements and programs which will facilitate the exchange of information and data relating to solar energy resource assessment and solar energy technologies.
 
-(b) The National Science Foundation is authorized to encourage, to the maximum extentpracticable and consistent with the other objectives of this subchapter, international participation and cooperation in the development and maintenance of programs of education to carry out the policy set forth in section 5558 of this title.
+(b) The National Science Foundation is authorized to encourage, to the maximum extent practicable and consistent with the other objectives of this subchapter, international participation and cooperation in the development and maintenance of programs of education to carry out the policy set forth in section 5558 of this title.
 
 (Pub. L. 93–473, §11, Oct. 26, 1974, 88 Stat. 1437.)
 

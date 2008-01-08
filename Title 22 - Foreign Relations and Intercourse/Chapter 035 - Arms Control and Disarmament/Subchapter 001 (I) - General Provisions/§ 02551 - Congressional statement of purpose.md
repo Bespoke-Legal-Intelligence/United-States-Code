@@ -96,7 +96,7 @@ Promotes democracy.—The government of the country—
 
 &emsp;&emsp;“(C) promotes the rule of law and provides its nationals the same rights that they would be afforded under the United States Constitution if they were United States citizens; and
 
-&emsp;&emsp;“(D) promotes the strengthening of political, legislative, and civil institutions of democracy, as wellas autonomous institutions to monitor the conduct of public officials and to combat corruption.
+&emsp;&emsp;“(D) promotes the strengthening of political, legislative, and civil institutions of democracy, as well as autonomous institutions to monitor the conduct of public officials and to combat corruption.
 
 &emsp;“(2)
 
@@ -148,7 +148,7 @@ Reports to Congress.—
 
 &emsp;“(1)
 
-Report relating to negotiations.—Not later than 6 months after the commencement of the negotiations under subsection (a), and not later than the end of every 6-month period thereafter until an agreement described in subsection (a) is concluded, the President shall report to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate on the progress made during these negotiations.
+Report relating to negotiations.—Not later than 6 months after the commencement of the negotiations under subsection (a), and not later than the end of every 6-month period thereafter until an agreement described in subsection (a) is concluded, the President shall report to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate on the progress made during these negotiations.
 
 &emsp;“(2)
 
@@ -164,7 +164,7 @@ Section 717(b) of Pub. L. 103–236 provided that not later than Dec. 31, 1995, 
 
 #### Soviet Weapons Destruction
 
-Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L. 102–484, div. A, title XIV, §1421(a)(2), (3), Oct. 23, 1992, 106 Stat. 2565; Pub. L. 103–236, title I, §139(17), Apr. 30, 1994, 108 Stat. 398; Pub. L. 104–106, div. A, title XII, §1204, Feb. 10, 1996, 110 Stat. 470, provided that:
+Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L. 102–484, div. A, title XIV, §1421(a)(2), (3), Oct. 23, 1992, 106 Stat. 2565; Pub. L. 103–236, title I, §139(17), Apr. 30, 1994, 108 Stat. 398; Pub. L. 104–106, div. A, title XII, §1204, Feb. 10, 1996, 110 Stat. 470; Pub. L. 110–53, title XVIII, §1811(1), Aug. 3, 2007, 121 Stat. 492, provided that:
 
 #### “part a—short title
 
@@ -186,23 +186,7 @@ Findings.—The Congress finds—
 
 &emsp;“(3) that it is in the national security interests of the United States (A) to facilitate on a priority basis the transportation, storage, safeguarding, and destruction of nuclear and other weapons in the Soviet Union, its republics, and any successor entities, and (B) to assist in the prevention of weapons proliferation.
 
-“(b)
-
-Exclusions.—United States assistance in destroying nuclear and other weapons under this title may not be provided to the Soviet Union, any of its republics, or any successor entity unless the President certifies to the Congress that the proposed recipient is committed to—
-
-&emsp;“(1) making a substantial investment of its resources for dismantling or destroying such weapons;
-
-&emsp;“(2) forgoing any military modernization program that exceeds legitimate defense requirements and forgoing the replacement of destroyed weapons of mass destruction;
-
-&emsp;“(3) forgoing any use of fissionable and other components of destroyed nuclear weapons in new nuclear weapons;
-
-&emsp;“(4) facilitating United States verification of weapons destruction carried out under section 212;
-
-&emsp;“(5) complying with all relevant arms control agreements; and
-
-&emsp;“(6) observing internationally recognized human rights, including the protection of minorities.
-
-“(c) As part of a transmission to Congress under subsection (b) of a certification that a proposed recipient of United States assistance under this title is committed to carrying out the matters specified in each of paragraphs (1) through (6) of that subsection, the President shall include a statement setting forth, in unclassified form (together with a classified annex if necessary), the determination of the President, with respect to each such paragraph, as to whether that proposed recipient is at that time in fact carrying out the matter specified in that paragraph.
+“\[(b), (c) Repealed. Pub. L. 110–53, title XVIII, §1811(1), Aug. 3, 2007, 121 Stat. 492.\]
 
 #### “SEC. 212. AUTHORITY FOR PROGRAM TO FACILITATE SOVIET WEAPONS DESTRUCTION.
 

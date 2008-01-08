@@ -12,7 +12,7 @@
 
 > The Secretary of the department concerned may provide by regulation for the waiver of the provisions of paragraphs (2) and (3), or of either of such paragraphs, in those cases in which the application of such paragraphs, or either of them, would be against equity and good conscience or against the public interest.
 
-(c) The right to return to a position in the United States granted under this section shall be without reduction in the seniority, status, and tenure held by the employee immediately before his assignment to duty outside the United States and the employee shall be placed, not later than 30 days after the date on which he is determined to be immediately available to exercise such right in accordance with the following provisions:
+(c) The right to return to a position in the United States granted under this section shall be without reduction in the seniority, status,and tenure held by the employee immediately before his assignment to duty outside the United States and the employee shall be placed, not later than 30 days after the date on which he is determined to be immediately available to exercise such right in accordance with the following provisions:
 
 &emsp;(1) The employee shall be placed in the position which he held immediately before his assignment to duty outside the United States, if such position exists.
 
@@ -22,7 +22,7 @@
 
 &emsp;(4) If, within 90 days after his placement in a position under paragraph (3) a vacant existing position or new continuing position, for which the employee is qualified, is available for the purposes of this section in the department concerned, in the same geographical area as, with rights and benefits equal to the rights and benefits of, and in a grade equal to the grade of, the position which he held immediately before his assignment to duty outside the United States, the employee shall be placed in such vacant existing position or new continuing position.
 
-&emsp;(5) If, within the 90-day period referred to in paragraphs (3) and (4), the employee cannot beplaced in a position under paragraph (4), he shall be reassigned or separated under the regulations prescribed by the Office of Personnel Management to carry out sections 3501–3503 of title 5.
+&emsp;(5) If, within the 90-day period referred to in paragraphs (3) and (4), the employee cannot be placed in a position under paragraph (4), he shall be reassigned or separated under the regulations prescribed by the Office of Personnel Management to carry out sections 3501–3503 of title 5.
 
 &emsp;(6) If there is a termination of or material change in the activity in which the former position of the employee (referred to in paragraph (1)) was located, he shall be placed, in the manner provided by paragraphs (2), (3), and (4), as applicable, in a position in the department concerned in a geographical area other than the geographical area in which such former position was located.
 
@@ -90,7 +90,7 @@ Ex. Ord. No. 10895, Nov. 25, 1960, 25 F.R. 12165, provided:
 
 By virtue of the authority vested in me by section 1586(f) of title 10 of the United States Code, and as President of the United States, and having determined that such action is necessary in the national interest, it is ordered as follows:
 
-Section 1. Assignment of an employee to duty in the State of Alaska or Hawaii under regulations prescribed pursuant to section 1586 of title 10 of the United States Code shall be held and considered for the purposes ofthat section, to be an assignment to duty outside the United States.
+Section 1. Assignment of an employee to duty in the State of Alaska or Hawaii under regulations prescribed pursuant to section 1586 of title 10 of the United States Code shall be held and considered for the purposes of that section, to be an assignment to duty outside the United States.
 
 Sec. 2. The Secretary of Defense shall from time to time, and at least annually, consider the need for continuing this order in effect, and he shall recommend the revocation thereof at such time as he may deem such action advisable.
 

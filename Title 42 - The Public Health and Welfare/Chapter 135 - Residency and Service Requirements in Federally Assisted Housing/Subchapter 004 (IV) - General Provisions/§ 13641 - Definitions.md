@@ -30,7 +30,7 @@ For purposes of this title: <sup>1</sup>
 
 #### (4) Owner
 
-&emsp;The term “owner” means, with respect to federally assisted housing, the entity or private person, including a cooperative or public housing agency, that has the legal right to lease or sublease dwelling units in such housing.
+&emsp;The term “owner” means, with respect to federally assisted housing, the entity or private person, including a cooperative or publichousing agency, that has the legal right to lease or sublease dwelling units in such housing.
 
 #### (5) Secretary
 

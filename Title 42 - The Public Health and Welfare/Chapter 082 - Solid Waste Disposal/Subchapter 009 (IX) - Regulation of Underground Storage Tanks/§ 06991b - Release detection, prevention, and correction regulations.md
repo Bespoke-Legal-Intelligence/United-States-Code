@@ -64,7 +64,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (f) Effective dates
 
-(1) Regulations issued pursuant to subsections (c) and (d) of this section, and standards issued pursuant to subsection (e) of this section, for underground storage tanks containing regulatedsubstances defined in section 6991(7)(B) of this title (petroleum, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure) shall be effective not later than thirty months after November 8, 1984.
+(1) Regulations issued pursuant to subsections (c) and (d) of this section, and standards issuedpursuant to subsection (e) of this section, for underground storage tanks containing regulated substances defined in section 6991(7)(B) of this title (petroleum, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure) shall be effective not later than thirty months after November 8, 1984.
 
 (2) Standards issued pursuant to subsection (e) of this section (entitled “New Tank Performance Standards”) for underground storage tanks containing regulated substances defined in section 6991(7)(A) of this title shall be effective not later than thirty-six months after November 8, 1984.
 
@@ -114,7 +114,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (3) Priority of corrective actions
 
-&emsp;The Administrator (or a State pursuant to paragraph (7)) shall give priority in undertaking corrective actions under this subsection, and in issuing orders requiring ownersor operators to undertake such actions, to releases of petroleum from underground storage tanks which pose the greatest threat to human health and the environment.
+&emsp;The Administrator (or a State pursuant to paragraph (7)) shall give priority in undertaking corrective actions under this subsection, and in issuing orders requiring owners or operators to undertake such actions, to releases of petroleum from underground storage tanks which pose the greatest threat to human health and the environment.
 
 #### (4) Corrective action orders
 
@@ -168,7 +168,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (v) Misrepresentation
 
-&emsp;&emsp;&emsp;If an owner or operator provides false information or otherwise misrepresents their financial situation under clause (ii), the Administrator (or the State pursuantto paragraph (7)) shall seek full recovery of the costs of all such actions pursuant to the provisions of subparagraph (A) without consideration of the factors in subparagraph (B).
+&emsp;&emsp;&emsp;If an owner or operator provides false information or otherwise misrepresentstheir financial situation under clause (ii), the Administrator (or the State pursuant to paragraph (7)) shall seek full recovery of the costs of all such actions pursuant to the provisions of subparagraph (A) without consideration of the factors in subparagraph (B).
 
 #### (7) State authorities
 
@@ -210,7 +210,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (11) Facilities without financial responsibility
 
-&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or aState pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
+&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph\(6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
 
 #### (12) Remediation of oxygenated fuel contamination
 

@@ -40,13 +40,13 @@
 
 The General Schedule, referred to in subsec. (a)(3)(B), is set out under section 5332 of this title.
 
-#### Amendments
-
-2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
-
 #### Prior Provisions
 
 A prior section 3345, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 425; Pub. L. 100–398, §7(a)(1), (2), Aug. 17, 1988, 102 Stat. 988, provided for details to office of head of Executive agency or military department, prior to repeal by Pub. L. 105–277, div. C, title I, §151(b), (d)(1), Oct. 21, 1998, 112 Stat. 2681–611, 2681–616, effective 30 days after Oct. 21, 1998.
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
 #### Effective Date
 
@@ -70,11 +70,11 @@ Immediate application of time limitation.—Notwithstanding subparagraph (A), fo
 
 &emsp;“(C)
 
-Certain nominations.—If the President submits to the Senate the nomination of any personafter the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and section 3349d of title 5, United States Code (as amended by this section).”
+Certain nominations.—If the President submits to the Senate the nomination of any person after the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and section 3349d of title 5, United States Code (as amended by this section).”
 
 #### Order of Succession Within Department of Homeland Security
 
-For order of succession within the Department of Homeland Security, see Ex. Ord. No. 13286, §88, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+For order of succession within the Department of Homeland Security, see Ex. Ord. No. 13286, §88, Feb. 28, 2003, 68 F.R. 10632, as amended, set out as a note under section 111 of Title 6, Domestic Security.
 
 #### Executive Order No. 10513
 
@@ -152,7 +152,7 @@ Section 1. <i>Succession To Act as the Secretary of the Army.</i>
 
 &emsp;(3) The Chief of Staff of the Army.
 
-(b) In the event of the absence or temporary disability of the Secretary of the Army, the incumbents holding the Department of the Army positions designated in paragraph (a) of this section, in the order indicated,shall act for and exercise the powers of the Secretary of the Army.
+(b) In the event of the absence or temporary disability of the Secretary of the Army, the incumbents holding the Department of the Army positions designated in paragraph (a) of this section, in the order indicated, shall act for and exercise the powers of the Secretary of the Army.
 
 &emsp;(1) The designation of an Acting Secretary of the Army under this subsection applies only for the duration of the Secretary's absence or disability, and does not affect the authority of the Secretary to resume the powers of the Secretary's office.
 
@@ -622,7 +622,7 @@ Ex. Ord. No. 13370, Jan. 13, 2005, 70 F.R. 3137, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America and pursuant to the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
 
-Section 1. During any period when the Director of the Office of Management and Budget (Director) and the Deputy Director of the Office of Management and Budget (Deputy Director) have died, resigned, or otherwise become unable to perform the functions and dutiesof the office of Director, the following officers of the Office of Management and Budget, in the order listed, shall perform the functions and duties of the office of Director, if they are eligible to act as Director under the provisions of the Federal Vacancies Reform Act of 1998, until such time as at least one of the officers mentioned above is able to perform the functions and duties of the office of Director:
+Section 1. During any period when the Director of the Office of Management and Budget (Director) and the Deputy Director of the Office of Management and Budget (Deputy Director) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Director, the following officers of the Office of Management and Budget, in the order listed, shall perform the functions and duties of the office of Director, if they are eligible to act as Director under the provisions of the Federal Vacancies Reform Act of 1998, until such time as at least one of the officers mentioned above is able to perform the functions and duties of the office of Director:
 
 &emsp;Deputy Director for Management;
 
@@ -814,7 +814,7 @@ Sec. 2. Order of Succession.
 
 (g) Chief Information Officer, Office of the Director of National Intelligence.
 
-Sec. 3. National Security Act of 1947. This memorandum shall not supercede the authority of the Principal Deputy Director of National Intelligence to act for, and exercise the powers of, the Director of National Intelligence during the absence or disability of the Director of National Intelligence or during a vacancy in the position of Director of National Intelligence, (National Security Act of 1947, as amended, 50 U.S.C. 403–3a).
+Sec. 3. National Security Act of 1947. This memorandum shall not supercede the authority of the Principal Deputy Director of National Intelligence to act for, and exercise the powers of, the Director of National Intelligence during the absence or disability of the Directorof National Intelligence or during a vacancy in the position of Director of National Intelligence, (National Security Act of 1947, as amended, 50 U.S.C. 403–3a).
 
 Sec. 4. Exceptions.
 
@@ -887,6 +887,90 @@ Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed 
 Sec. 3. The Memorandum for the Attorney General of March 19, 2002, entitled “Designation of Officers of the Department of Justice,” is hereby revoked.
 
 Sec. 4. The Attorney General is authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the Federal Bureau of Investigation
+
+Memorandum of President of the United States, Feb. 9, 2007, 72 F.R. 7343, provided:
+
+Memorandum for the Director of the Federal Bureau of Investigation
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345, <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. During any period when the Director of the Federal Bureau of Investigation (Director) has died, resigned, or otherwise become unable to perform the functions and duties of the office of the Director, the following officials of the Federal Bureau of Investigation, in the order listed, shall perform the functions and duties of the office of the Director of the Federal Bureau of Investigation, until such time as the Director is able to perform the functions and duties of the office of Director of the Federal Bureau of Investigation:
+
+(a) Deputy Director of the Federal Bureau of Investigation;
+
+(b) Associate Deputy Director of the Federal Bureau of Investigation;
+
+(c) Executive Assistant Director of the National Security Branch;
+
+(d) Executive Assistant Director for Criminal, Cyber, Response and Services; and
+
+(e) The Assistant Directors of the Federal Bureau of Investigation, in the order listed:
+
+(1) Assistant Director, Counterterrorism Division;
+
+(2) Assistant Director, Criminal Investigative Division;
+
+(3) Assistant Director, Counterintelligence Division;
+
+(4) Assistant Director, Washington Field Office;
+
+(5) Assistant Director, New York Field Office; and
+
+(6) Assistant Director, Los Angeles Field Office.
+
+Sec. 2. <i>Exceptions.</i>
+
+(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as the Director pursuant to this memorandum.
+
+(b) No individual shall act as Director unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting Director.
+
+Sec. 3. <i>Judicial Review</i>. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 4. The Director of the Federal Bureau of Investigation is authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the Office of the United States Trade Representative To Act as the United States Trade Representative
+
+Memorandum of President of the United States, Feb. 20, 2007, 72 F.R. 8085, provided:
+
+Memorandum for the United States Trade Representative
+
+By the authority vested in me as President under the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345, <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession.</i>
+
+During any period when the United States Trade Representative (USTR) has died, resigned, or otherwise becomes unable to perform the functions and duties of the office of the United States Trade Representative, the following officers of the Office of the United States Trade Representative, in the order listed, shall perform the functions and duties of the USTR, until such time as the USTR is able to perform the functions and duties of that office;
+
+(a) Deputy United States Trade Representatives (stationed in Washington, D.C.; in order of their length of service as a Deputy USTR);
+
+(b) Deputy United States Trade Representative (stationed in Geneva);
+
+(c) General Counsel;
+
+(d) Chief Negotiator for Agriculture;
+
+(e) Deputy General Counsel; and
+
+(f) Deputy Chief of Mission (stationed in Geneva).
+
+Sec. 2. <i>Exceptions.</i>
+
+(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as the USTR pursuant to this memorandum.
+
+(b) No individual shall act as USTR unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting USTR.
+
+Sec. 3. <i>Judicial Review</i>. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 4. <i>Publication</i>. You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

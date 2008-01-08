@@ -36,7 +36,7 @@ Congress makes the following findings:
 
 &emsp;(17) Traditional arms control efforts assume large state efforts with detectable manufacturing programs and weapons production programs, but are ineffective in monitoring and controlling smaller, though potentially more dangerous, unconventional proliferation efforts.
 
-&emsp;(18) Conventional counterproliferation efforts would do little to detect or prevent therapid development of a capability to suddenly manufacture several hundred chemical or biological weapons with nothing but commercial supplies and equipment.
+&emsp;(18) Conventional counterproliferation efforts would do little to detect or prevent the rapid development of a capability to suddenly manufacture several hundred chemical or biological weapons with nothing but commercial supplies and equipment.
 
 &emsp;(19) The United States lacks adequate planning and countermeasures to address the threat of nuclear, radiological, biological, and chemical terrorism.
 
@@ -106,7 +106,7 @@ Expiration.—The authority to accept, retain, and use contributions under this 
 
 Pub. L. 109–163, div. A, title X, §1052(a)–(c), Jan. 6, 2006, 119 Stat. 3434, reestablished the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack (see below) with the same membership that the Commission had as of the date the Commission's report was submitted, provided that Commissioners could elect to terminate service, and defined “Commission charter”.
 
-Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, §1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434,3435; Pub. L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403, established the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, directed the Commission to assess the vulnerability of electric-dependent military systems and other electric-dependent systems in the United States to an electromagnetic pulse attack and to submit to Congress, not later than Sept. 30, 2007, a final report on the assessment, and provided that the Commmission terminate 30 days after submission of the report.
+Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, §1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435; Pub. L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403, established the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, directed the Commission to assess the vulnerability of electric-dependent military systems and other electric-dependent systems in the United States to an electromagnetic pulse attack and to submit to Congress, not later than Sept. 30, 2007, a final report on the assessment, and provided that the Commmission terminate 30 days after submission of the report.
 
 #### Domestic Preparedness for Defense Against Weapons of Mass Destruction
 
@@ -138,7 +138,7 @@ Threat and Risk Assessments.—Assistance to Federal, State, and local agencies 
 
 “(b)
 
-Conduct of Assessments.—The Department of Justice, as lead Federal agency for domestic crisis management in response to terrorism involving weapons of mass destruction, shall—
+Conduct of Assessments.—The Department of Justice, as lead Federal agency for domestic crisismanagement in response to terrorism involving weapons of mass destruction, shall—
 
 &emsp;“(1) conduct any threat and risk assessment performed under subsection (a) in coordination with appropriate Federal, State, and local agencies; and
 

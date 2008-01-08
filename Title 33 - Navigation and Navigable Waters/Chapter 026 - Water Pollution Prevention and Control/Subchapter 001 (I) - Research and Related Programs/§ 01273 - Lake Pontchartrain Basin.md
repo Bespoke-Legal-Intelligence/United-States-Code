@@ -64,3 +64,7 @@ Another section 121 of act June 30, 1948, was renumbered section 122 and is clas
 
 2006—Subsec. (f)(1). Pub. L. 109–392 substituted “2011” for “2005”.
 
+#### Management Conference
+
+Pub. L. 110–114, title V, §5084, Nov. 8, 2007, 121 Stat. 1228, provided that: “For purposes of carrying out section 121 of the Federal Water Pollution Control Act (33 U.S.C. 1273), the Lake Pontchartrain, Louisiana, basin stakeholders conference convened by the Environmental Protection Agency, National Oceanic and Atmospheric Administration, and United States Geological Survey on February 25, 2002, shall be treated as being a management conference convened under section 320 of such Act (33 U.S.C. 1330).”
+

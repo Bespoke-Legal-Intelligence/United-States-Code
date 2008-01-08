@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, a plan is not eligible for an overburden credit for a plan year if the Secretary finds that the plan's current contribution base for any plan year was reduced, without a corresponding reduction in the plan's unfunded vested benefits attributable to pay status participants, as a result of a change in an agreement providing for employer contributions under the plan.
+&emsp;Notwithstanding any other provision of this section, a plan is not eligible for an overburden credit for a plan year if the Secretaryfinds that the plan's current contribution base for any plan year was reduced, without a corresponding reduction in the plan's unfunded vested benefits attributable to pay status participants, as a result of a change in an agreement providing for employer contributions under the plan.
 
 #### (2) Treatment of certain withdrawals
 

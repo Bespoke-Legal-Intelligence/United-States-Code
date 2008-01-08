@@ -20,7 +20,7 @@
 
 &emsp;(3) such other data, analyses, and evaluations as the Director, acting on the advice of the Committee on Equal Opportunities in Science and Engineering, determines appropriate to carry out the Foundation's functions as well as the policies and programs of sections 1885 to 1885d of this title.
 
-(Pub. L. 96–516, §37, Dec. 12, 1980, 94 Stat. 3013; Pub. L. 99–159, title I, §111(b)(9), Nov. 22, 1985, 99 Stat. 893; Pub. L. 108–360, title II, §208, Oct. 25, 2004, 118 Stat. 1679.)
+(Pub. L. 96–516, §37, Dec. 12, 1980, 94 Stat. 3013; Pub. L. 99–159, title I, §111(b)(9), Nov. 22, 1985, 99Stat. 893; Pub. L. 108–360, title II, §208, Oct. 25, 2004, 118 Stat. 1679.)
 
 #### References in Text
 

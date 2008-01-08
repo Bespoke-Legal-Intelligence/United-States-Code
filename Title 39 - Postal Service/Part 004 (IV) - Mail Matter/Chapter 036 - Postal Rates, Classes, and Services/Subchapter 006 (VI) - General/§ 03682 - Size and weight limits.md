@@ -2,7 +2,7 @@
 
 The Postal Service may establish size and weight limitations for mail matter in the market-dominant category of mail consistent with regulations the Postal Regulatory Commission may prescribe under section 3622. The Postal Service may establish size and weight limitations for mail matter in the competitive category of mail consistent with its authority under section 3632.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765; Pub. L. 96–70, title I, §1331(e)(4), Sept. 27, 1979, 93 Stat. 482; Pub. L. 97–242, §1(a), Aug. 24, 1982, 96 Stat.300; Pub. L. 109–435, title X, §1010(b), Dec. 20, 2006, 120 Stat. 3261.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765; Pub. L. 96–70, title I, §1331(e)(4), Sept. 27, 1979, 93 Stat. 482; Pub. L. 97–242, §1(a), Aug. 24, 1982, 96 Stat. 300; Pub. L. 109–435, title X, §1010(b), Dec. 20, 2006, 120 Stat. 3261.)
 
 #### Amendments
 

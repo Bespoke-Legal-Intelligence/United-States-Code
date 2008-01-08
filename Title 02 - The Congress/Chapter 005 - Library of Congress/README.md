@@ -27,6 +27,7 @@
 | [140\.](%C2%A7%2000140%20-%20Employees%3B%20fitness.md) | Employees; fitness. |
 | [141\.](%C2%A7%2000141%20-%20Allocation%20of%20responsibilities%20for%20Library%20buildings%20and%20grounds.md) | Allocation of responsibilities for Library buildings and grounds. |
 | [141a.](%C2%A7%2000141a%20-%20Design%2C%20installation%2C%20and%20maintenance%20of%20security%20systems%3B%20transfer%20of%20responsibility.md) | Design, installation, and maintenance of security systems; transfer of responsibility. |
+| [141b.](%C2%A7%2000141b%20-%20Collections%2C%20physical%20security%2C%20control%2C%20and%20preservation%20of%20order%20and%20decorum%20within%20the%20library.md) | Collections, physical security, control, and preservation of order and decorum within the library. |
 | [142\.](%C2%A7%2000142%20-%20Omitted.md) | Omitted. |
 | [142a.](%C2%A7%2000142a%20-%20Office%20of%20administrative%20assistant%20and%20disbursing%20officer%20in%20Library%20of%20Congress%20abolished%3B%20transfer%20of%20duties%20to%20appointee%20of%20Librarian.md) | Office of administrative assistant and disbursing officer in Library of Congress abolished; transfer of duties to appointee of Librarian. |
 | [142b.](%C2%A7%2000142b%20-%20Certifying%20officers%20of%20the%20Library%20of%20Congress%3B%20accountability%3B%20relief%20by%20Comptroller%20General.md) | Certifying officers of the Library of Congress; accountability; relief by Comptroller General. |
@@ -43,6 +44,7 @@
 | [143\.](%C2%A7%2000143%20-%20Appropriations%20for%20Library%20Building%20and%20Grounds.md) | Appropriations for Library Building and Grounds. |
 | [143a.](%C2%A7%2000143a%20-%20Disbursement%20of%20funds.md) | Disbursement of funds. |
 | [143b.](%C2%A7%2000143b%20-%20Payments%20in%20advance%20for%20subscriptions%20or%20other%20charges.md) | Payments in advance for subscriptions or other charges. |
+| [143c.](%C2%A7%2000143c%20-%20Use%20of%20other%20library%20funds%20to%20make%20payments.md) | Use of other library funds to make payments. |
 | [144\.](%C2%A7%2000144%20-%20Copies%20of%20Statutes%20at%20Large.md) | Copies of Statutes at Large. |
 | [145\.](%C2%A7%2000145%20-%20Copies%20of%20journals%20and%20documents.md) | Copies of journals and documents. |
 | [145a.](%C2%A7%2000145a%20-%20Periodical%20binding%20of%20printed%20hearings%20of%20committee%20testimony.md) | Periodical binding of printed hearings of committee testimony. |
@@ -152,6 +154,7 @@
 - [&sect; 00140 - Employees; fitness](%C2%A7%2000140%20-%20Employees%3B%20fitness.md)
 - [&sect; 00141 - Allocation of responsibilities for Library buildings and grounds](%C2%A7%2000141%20-%20Allocation%20of%20responsibilities%20for%20Library%20buildings%20and%20grounds.md)
 - [&sect; 00141a - Design, installation, and maintenance of security systems; transfer of responsibility](%C2%A7%2000141a%20-%20Design%2C%20installation%2C%20and%20maintenance%20of%20security%20systems%3B%20transfer%20of%20responsibility.md)
+- [&sect; 00141b - Collections, physical security, control, and preservation of order and decorum within the library](%C2%A7%2000141b%20-%20Collections%2C%20physical%20security%2C%20control%2C%20and%20preservation%20of%20order%20and%20decorum%20within%20the%20library.md)
 - [&sect; 00142 - Omitted](%C2%A7%2000142%20-%20Omitted.md)
 - [&sect; 00142a - Office of administrative assistant and disbursing officer in Library of Congress abolished; transfer of duties to appointee of Librarian](%C2%A7%2000142a%20-%20Office%20of%20administrative%20assistant%20and%20disbursing%20officer%20in%20Library%20of%20Congress%20abolished%3B%20transfer%20of%20duties%20to%20appointee%20of%20Librarian.md)
 - [&sect; 00142b - Certifying officers of the Library of Congress; accountability; relief by Comptroller General](%C2%A7%2000142b%20-%20Certifying%20officers%20of%20the%20Library%20of%20Congress%3B%20accountability%3B%20relief%20by%20Comptroller%20General.md)
@@ -168,6 +171,7 @@
 - [&sect; 00143 - Appropriations for Library Building and Grounds](%C2%A7%2000143%20-%20Appropriations%20for%20Library%20Building%20and%20Grounds.md)
 - [&sect; 00143a - Disbursement of funds](%C2%A7%2000143a%20-%20Disbursement%20of%20funds.md)
 - [&sect; 00143b - Payments in advance for subscriptions or other charges](%C2%A7%2000143b%20-%20Payments%20in%20advance%20for%20subscriptions%20or%20other%20charges.md)
+- [&sect; 00143c - Use of other library funds to make payments](%C2%A7%2000143c%20-%20Use%20of%20other%20library%20funds%20to%20make%20payments.md)
 - [&sect; 00144 - Copies of Statutes at Large](%C2%A7%2000144%20-%20Copies%20of%20Statutes%20at%20Large.md)
 - [&sect; 00145 - Copies of journals and documents](%C2%A7%2000145%20-%20Copies%20of%20journals%20and%20documents.md)
 - [&sect; 00145a - Periodical binding of printed hearings of committee testimony](%C2%A7%2000145a%20-%20Periodical%20binding%20of%20printed%20hearings%20of%20committee%20testimony.md)

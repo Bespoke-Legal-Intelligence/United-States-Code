@@ -1,6 +1,6 @@
 ### §619a. Cotton tax, time for payment
 
-The processing tax authorized by section 609 of this title, when levied upon cotton, shall be payable ninety days after the filing of the processor's report: <i>Provided</i>, That, under regulations to be prescribed by the Secretary of the Treasury, the time for payment of such tax upon cotton may be extended, but in no case to exceed six months from the date of the filing of the report.
+The processing tax authorized by section 609 of this title, when levied upon cotton, shall be payable ninety days after the filing of the processor's report: <i>Provided</i>, That, under regulationsto be prescribed by the Secretary of the Treasury, the time for payment of such tax upon cotton may be extended, but in no case to exceed six months from the date of the filing of the report.
 
 (May 17, 1935, ch. 131, title I, §2, 49 Stat. 281.)
 

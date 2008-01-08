@@ -34,7 +34,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 #### (2) Amount amortizable
 
-&emsp;The amortizable bond premium of the taxable year shall be the amount of the bond premium attributable to such year. In the case of a bond to which paragraph (1)(B)(ii) applies and which has a call date, the amount of bond premium attributable to the taxable year inwhich the bond is called shall include an amount equal to the excess of the amount of the adjusted basis (for determining loss on sale or exchange) of such bond as of the beginning of the taxable year over the amount received on redemption of the bond or (if greater) the amount payable on maturity.
+&emsp;The amortizable bond premium of the taxable year shall be the amount of the bond premium attributable to such year. In the case of a bond to which paragraph (1)(B)(ii) applies and which has a call date, the amount of bond premium attributable to the taxable year in which the bond is called shall include an amount equal to the excess of the amount of the adjusted basis (for determining loss on sale or exchange) of such bond as of the beginning of the taxable year over the amount received on redemption of the bond or (if greater) the amount payable on maturity.
 
 #### (3) Method of determination
 
@@ -98,7 +98,7 @@ Except as provided in regulations, in the case of any taxable bond—
 
 #### Amendments
 
-2004—Subsec. (c)(2). Pub. L. 108–357, §413(c)(2)(B), which directed amendment of par. (2) by striking out“, or foreign personal holding company”, was executed by striking out “or foreign personal holding company” after “the common trust fund”, to reflect the probable intent of Congress.
+2004—Subsec. (c)(2). Pub. L. 108–357, §413(c)(2)(B), which directed amendment of par. (2) by striking out “, or foreign personal holding company”, was executed by striking out “or foreign personal holding company” after “the common trust fund”, to reflect the probable intent of Congress.
 
 Pub. L. 108–357, §413(c)(2)(A), struck out “, or by a foreign personal holding company, as defined in section 552” after “section 584(a)”.
 
@@ -160,7 +160,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 “(2)
 
-Revocation of election.—In the case of a taxpayer with respect to whom an election is in effect on the date of enactment of this Act \[Oct. 22, 1986\], under section 171(c) of the Internal Revenue Code of 1986, such election shall apply to obligations acquired after the date of the enactment of this Act only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations.”
+Revocation of election.—In the case of a taxpayer with respect to whom an election is in effect on the date of enactment of this Act \[Oct. 22, 1986\], under section 171(c) of the Internal Revenue Code of 1986, such election shall apply to obligations acquired after thedate of the enactment of this Act only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations.”
 
 Section 1803(a)(11)(C) of Pub. L. 99–514 provided that:
 

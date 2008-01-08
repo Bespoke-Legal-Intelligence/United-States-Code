@@ -6,7 +6,7 @@
 
 &emsp;(1) shall be imprisoned not more than 5 years, or fined in the amount set forth in this title, or both, if the offense consists of the reproduction or distribution, including by electronic means, during any 180-day period, of at least 10 copies or phonorecords, of 1 or more copyrighted works, which have a total retail value of more than $2,500;
 
-&emsp;(2) shall be imprisoned not more than 10 years, or fined in the amount set forth in this title, or both, if the offense is a second or subsequent offense under paragraph (1); and
+&emsp;(2) shall be imprisoned not more than 10 years, or fined in the amount set forth in thistitle, or both, if the offense is a second or subsequent offense under paragraph (1); and
 
 &emsp;(3) shall be imprisoned not more than 1 year, or fined in the amount set forth in this title, or both, in any other case.
 
@@ -92,7 +92,7 @@ Subsecs. (c) to (e). Pub. L. 105–147, §2(d)(3), added subsecs. (c) and (d) an
 
 &emsp;&emsp;“(A) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of more than one hundred but less than one thousand phonorecords or copies infringing the copyright in one or more sound recordings; or
 
-&emsp;&emsp;“(B) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of more than seven but less than sixty-five copies infringing the copyright in one or more motion pictures or other audiovisual works; and
+&emsp;&emsp;“(B) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, ofmore than seven but less than sixty-five copies infringing the copyright in one or more motion pictures or other audiovisual works; and
 
 &emsp;“(3) shall be fined not more than $25,000 or imprisoned for not more than one year, or both, in any other case.”
 

@@ -8,7 +8,7 @@
 
 (d) The program under this section shall terminate on December 31, 2011.
 
-(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2286, §1773; renumbered §2033 andamended Pub. L. 107–95, §§5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919; Pub. L. 109–444, §2(d), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §704(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468.)
+(Added Pub. L. 105–114, title II, §202(a), Nov. 21, 1997, 111 Stat. 2286, §1773; renumbered §2033 and amended Pub. L. 107–95, §§5(b)(1), (f), 8(b), Dec. 21, 2001, 115 Stat. 918, 919; Pub. L. 109–444, §2(d), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title VII, §704(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3440, 3468.)
 
 #### Amendments
 

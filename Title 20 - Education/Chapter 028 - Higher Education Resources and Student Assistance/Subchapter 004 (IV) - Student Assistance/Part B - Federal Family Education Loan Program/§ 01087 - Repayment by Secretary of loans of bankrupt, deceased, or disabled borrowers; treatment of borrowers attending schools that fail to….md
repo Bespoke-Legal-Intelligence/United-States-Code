@@ -18,7 +18,7 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 #### (1) In general
 
-&emsp;If a borrower who received, on or after January 1, 1986, a loan made, insured, or guaranteed under this part and the student borrower, or the student on whose behalf a parent borrowed, is unable to complete the program in which such student is enrolled due to the closure of the institution or if such student's eligibility to borrow under this part was falsely certified by the eligible institution or was falsely certified as a result of a crime of identity theft, or if the institution failed to make a refund of loan proceeds which the institution owed to such student's lender, then the Secretary shall discharge the borrower's liability on the loan (including interest and collection fees) by repaying the amount owed on the loan and shall subsequently pursue any claim available to such borrower against the institution and its affiliates and principals or settle the loan obligation pursuant to the financial responsibility authority under subpart 3 of part G of this subchapter. In the case of a discharge based upon a failure to refund, the amount of the discharge shall not exceed that portion of the loan which should have been refunded. The Secretary shall report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate annually as to the dollar amount of loan discharges attributable to failures to make refunds.
+&emsp;If a borrower who received, on or after January 1, 1986, a loan made, insured, or guaranteed under this part and the student borrower, or the student on whose behalf a parent borrowed, is unable to complete the program in which such student is enrolled due to the closure of the institution or if such student's eligibility to borrow under this part was falsely certified by the eligible institution or was falsely certified as a result of a crime of identity theft, or if the institution failed to make a refund of loan proceeds which the institution owed to such student's lender, then the Secretary shall discharge the borrower's liability on the loan (including interest and collection fees) by repaying the amount owed on the loan and shall subsequently pursue any claim available to such borrower against the institution and its affiliates and principals or settle theloan obligation pursuant to the financial responsibility authority under subpart 3 of part G of this subchapter. In the case of a discharge based upon a failure to refund, the amount of the discharge shall not exceed that portion of the loan which should have been refunded. The Secretary shall report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate annually as to the dollar amount of loan discharges attributable to failures to make refunds.
 
 #### (2) Assignment
 
@@ -68,6 +68,8 @@ Subsec. (c)(4). Pub. L. 103–208, §2(c)(65), inserted at end “The amount dis
 
 #### Change of Name
 
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 2006 Amendment
@@ -80,7 +82,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

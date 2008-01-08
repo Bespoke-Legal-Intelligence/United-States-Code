@@ -8,7 +8,7 @@
 
 #### (b) Subcontracts
 
-(1) The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to subcontracts under either a contract for the procurement of commercial items or a subcontract for the procurement of commercial items. A provision of law that is properly included on the list pursuant to paragraph (2) may not be construed as applicable to such subcontracts. Nothing in this section shall be construed to render inapplicable to subcontracts under a contract for the procurement of commercial items any provision of law that is not included on such list.
+(1) The Federal Acquisition Regulation shall include a list of provisions of law that are inapplicable to subcontracts under either a contractfor the procurement of commercial items or a subcontract for the procurement of commercial items. A provision of law that is properly included on the list pursuant to paragraph (2) may not be construed as applicable to such subcontracts. Nothing in this section shall be construed to render inapplicable to subcontracts under a contract for the procurement of commercial items any provision of law that is not included on such list.
 
 (2) A provision of law described in subsection (c) of this section shall be included on the list of inapplicable provisions of law required by paragraph (1) unless the Federal Acquisition Regulatory Council makes a written determination that it would not be in the best interest of the Federal Government to exempt subcontracts under a contract for the procurement of commercial items from the applicability of the provision.
 
@@ -34,5 +34,5 @@ In the event that a provision of law described in subsection (c) of this section
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
-Section 8003(b) of Pub. L. 103–355 provided that: “No petition may be filed under section 34(d) of the Officeof Federal Procurement Policy Act \[41 U.S.C. 430(d)\], as added by subsection (a), until after the date occurring 6 months after the date of the enactment of this Act \[Oct. 13, 1994\].”
+Section 8003(b) of Pub. L. 103–355 provided that: “No petition may be filed under section 34(d) of the Office of Federal Procurement Policy Act \[41 U.S.C. 430(d)\], as added by subsection (a), until after the date occurring 6 months after the date of the enactment of this Act \[Oct. 13, 1994\].”
 

@@ -1,6 +1,6 @@
 ### §1424b. Judge of District Court; appointment, tenure, removal, and compensation; appointment of United States attorney and marshal
 
-(a) The President shall, by and with the advice and consent of the Senate, appoint a judge for the District Court of Guam who shall hold office for the term of ten years and until his successor is chosen and qualified unless sooner removed by the President for cause. The judge shall receive a salary payable by the United States which shall be at the rate prescribed for judges of the United States district courts.
+(a) The President shall, by and with the advice and consent of the Senate, appoint a judge forthe District Court of Guam who shall hold office for the term of ten years and until his successor is chosen and qualified unless sooner removed by the President for cause. The judge shall receive a salary payable by the United States which shall be at the rate prescribed for judges of the United States district courts.
 
 The Chief Judge of the Ninth Judicial Circuit of the United States may assign a judge of a local court of record or a judge of the High Court of the Trust Territory of the Pacific Islands or a circuit or district judge of the ninth circuit or a recalled senior judge of the District Court of Guam or of the District Court for the Northern Mariana Islands, or the Chief Justice of the United States may assign any other United States circuit or district judge with the consent of the judge so assigned and of the chief judge of his circuit, to serve temporarily as a judge in the District Court of Guam whenever it is made to appear that such an assignment is necessary for the proper dispatch of the business of the court.
 
@@ -32,5 +32,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Extension of Term of District Judges; Applicability; Effective Date
 
-Section 1004 of Pub. L. 98–454 provided that: “The provisions of sections 706(a), 802(a), and 901(a) of this Act\[amending sections 1614, 1424b, and 1821, respectively, of this title\] extending the terms of district court judges of the Virgin Islands, Guam, and the Northern Mariana Islands, respectively, from eight to ten years shall be applicable to the judges of those courts holding office on the effective date of this Act \[Oct. 5, 1984\].”
+Section 1004 of Pub. L. 98–454 provided that: “The provisions of sections 706(a), 802(a), and 901(a) of this Act \[amending sections 1614, 1424b, and 1821, respectively, of this title\] extending the terms of district court judges of the Virgin Islands, Guam, and the Northern Mariana Islands, respectively, from eight to ten years shall be applicable to the judges of those courts holding office on the effective date of this Act \[Oct. 5, 1984\].”
 

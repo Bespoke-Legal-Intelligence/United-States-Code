@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 108–357, §855(a), added subsec. (e).
 
 Pub. L. 108–357, title VIII, §855(b), Oct. 22, 2004, 118 Stat. 1616, provided that: “The amendment made by this section \[amending this section\] shall apply to penalties assessed after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
-Pub. L. 108–357, title VIII, §856(c), Oct. 22, 2004, 118 Stat. 1617, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §856(c), Oct. 22, 2004, 118 Stat. 1617, provided that: “The amendments made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1997 Amendment
 

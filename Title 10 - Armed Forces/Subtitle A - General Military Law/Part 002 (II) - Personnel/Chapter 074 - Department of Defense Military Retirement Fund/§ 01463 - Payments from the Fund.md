@@ -8,7 +8,7 @@
 
 &emsp;(3) retainer pay payable to members of the Fleet Reserve and Fleet Marine Corps Reserve;
 
-&emsp;(4) benefits payable under programs under the jurisdiction of the Department of Defensethat provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425, and section 5 of Public Law 96–402; and
+&emsp;(4) benefits payable under programs under the jurisdiction of the Department of Defense that provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425, and section 5 of Public Law 96–402; and
 
 &emsp;(5) amounts payable under section 1408(h) of this title.
 

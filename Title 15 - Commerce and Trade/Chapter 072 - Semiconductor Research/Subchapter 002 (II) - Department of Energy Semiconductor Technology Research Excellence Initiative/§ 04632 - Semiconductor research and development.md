@@ -8,7 +8,7 @@ This section may be cited as the “National Advisory Committee on Semiconductor
 
 (1) The Congress finds and declares that—
 
-&emsp;(A) semiconductor technology is playing an ever-increasing role in United States industrial and commercial products and processes,making secure domestic sources of state-of-the-art semiconductors highly desirable;
+&emsp;(A) semiconductor technology is playing an ever-increasing role in United States industrial and commercial products and processes, making secure domestic sources of state-of-the-art semiconductors highly desirable;
 
 &emsp;(B) modern weapons systems are highly dependent on leading edge semiconductor devices, and it is counter to the national security interest to be heavily dependent upon foreign sources for this technology;
 
@@ -72,7 +72,7 @@ There is hereby created in the executive branch of the Government an independent
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to carry out the purposes of this section such sums as may be necessary for the fiscal years 1988, 1989, 1990, 1991, 1992, and 1993.
+There are authorized to be appropriated to carry out the purposes of this section such sumsas may be necessary for the fiscal years 1988, 1989, 1990, 1991, 1992, and 1993.
 
 (Pub. L. 100–418, title V, §5142, Aug. 23, 1988, 102 Stat. 1444; Pub. L. 102–245, title I, §105(f), Feb. 14, 1992, 106 Stat. 12.)
 

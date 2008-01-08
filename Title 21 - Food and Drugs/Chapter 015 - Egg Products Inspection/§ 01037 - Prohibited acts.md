@@ -28,7 +28,7 @@
 
 &emsp;(5) knowingly possess, without promptly notifying the Secretary or his representative, any official device or any counterfeit, simulated, forged, or improperly altered official certificate or any device or label, or any eggs or egg products bearing any counterfeit, simulated, forged, or improperly altered official mark;
 
-&emsp;(6) knowingly make any false statement in any shipper's certificate or other nonofficialor official certificate provided for in the regulations prescribed by the Secretary;
+&emsp;(6) knowingly make any false statement in any shipper's certificate or other nonofficial or official certificate provided for in the regulations prescribed by the Secretary;
 
 &emsp;(7) knowingly represent that any article has been inspected or exempted, under this chapter, when, in fact, it has, respectively, not been so inspected or exempted; and
 

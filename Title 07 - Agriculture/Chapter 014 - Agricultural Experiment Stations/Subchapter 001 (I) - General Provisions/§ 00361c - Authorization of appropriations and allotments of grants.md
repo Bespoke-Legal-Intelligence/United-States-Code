@@ -8,7 +8,7 @@ There are authorized to be appropriated for the purposes of sections 361a to 361
 
 (1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the “Regional research fund, Office of Experiment Stations” shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3) of this section, and the said fund shall be designated “Regional research fund, State agricultural experiment stations,” and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: <i>Provided</i>, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
 
-(2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
+(2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to thisparagraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
 
 #### (c) Allotment of additional sums
 
@@ -72,7 +72,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (1) Peer review
 
-&emsp;Research carried out under subsection (c)(3) of this section shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered to satisfy the merit review requirements of section 7613(e) of this title.
+&emsp;Research carried out under subsection (c)(3) of this section shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered tosatisfy the merit review requirements of section 7613(e) of this title.
 
 #### (2) Plan of work
 
@@ -128,7 +128,7 @@ Act of July 2, 1862, referred to in subsec. (i)(1), is act July 2, 1862, ch. 130
 
 #### Codification
 
-Section is based on first sentence of section 3 of act Mar. 2, 1887, which was formerly classified to section 368 of this title. See section 361g of this title. The second sentence of said section 3 was reenacted in act Feb. 24, 1925, ch. 308, §3, 43 Stat. 971, and was classified to former section 366 of this title which was repealed by act Aug. 11, 1955, ch. 790, §2, 69 Stat. 674.
+Prior to being amended generally by act Aug. 11, 1955, ch. 790, §1, 69 Stat. 671, section 3 of act Mar. 2, 1887, which comprises this section, consisted of two sentences. The first sentence was classified to former section 368 of this title. The second sentence was superseded by act Feb. 24, 1925, ch. 308, §3, 43 Stat. 971, which was classified to former section 366 of this title and was repealed by act Aug. 11, 1955, ch. 790, §2, 69 Stat. 674.
 
 #### Amendments
 
@@ -144,7 +144,7 @@ Pub. L. 105–185, §104(a)(1)(A), redesignated par. 3 as (3).
 
 Subsec. (c)(4), (5). Pub. L. 105–185, §104(a)(1)(A), redesignated par. 5 as (4).
 
-Subsec. (d). Pub. L. 105–185, §203(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “Of any amount in excess of $90,000 available under sections 361a to 361i of this title for allotment to any State, exclusive of the regional research fund, State agricultural experiment stations, no allotment and no payments thereof shall be made in excess of the amount which the State makes available out of its own funds for research and for the establishment and maintenance of facilities necessary for the prosecution of such research: <i>And provided further</i>, That if any State fails to make available for such research purposes for any fiscal year a sum equal to the amount in excess of $90,000 to which it may be entitled for such year, the remainder of such amount shall be withheld by the Secretary of Agriculture and reapportioned among the States.”
+Subsec. (d). Pub. L. 105–185, §203(a), added subsec. (d) and struck out former subsec. (d) which read as follows:“Of any amount in excess of $90,000 available under sections 361a to 361i of this title for allotment to any State, exclusive of the regional research fund, State agricultural experiment stations, no allotment and no payments thereof shall be made in excess of the amount which the State makes available out of its own funds for research and for the establishment and maintenance of facilities necessary for the prosecution of such research: <i>And provided further</i>, That if any State fails to make available for such research purposes for any fiscal year a sum equal to the amount in excess of $90,000 to which it may be entitled for such year, the remainder of such amount shall be withheld by the Secretary of Agriculture and reapportioned among the States.”
 
 Subsec. (d)(1). Pub. L. 105–277, §101(a) \[title VII, §753(d)(1)\], substituted “Except as provided in paragraph (4), no” for “No”.
 

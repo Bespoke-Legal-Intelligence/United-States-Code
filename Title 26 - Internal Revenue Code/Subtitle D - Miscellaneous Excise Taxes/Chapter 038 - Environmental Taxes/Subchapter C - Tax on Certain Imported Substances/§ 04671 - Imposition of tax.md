@@ -8,7 +8,7 @@ There is hereby imposed a tax on any taxable substance sold or used by the impor
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the amount of the tax imposed by subsection (a)with respect to any taxable substance shall be the amount of the tax which would have been imposed by section 4661 on the taxable chemicals used as materials in the manufacture or production of such substance if such taxable chemicals had been sold in the United States for use in the manufacture or production of such taxable substance.
+&emsp;Except as provided in paragraph (2), the amount of the tax imposed by subsection (a) with respect to any taxable substance shall be the amount of the tax which would have been imposed by section 4661 on the taxable chemicals used as materials in the manufacture or production of such substance if such taxable chemicals had been sold in the United States for use in the manufacture or production of such taxable substance.
 
 #### (2) Rate where importer does not furnish information to Secretary
 
@@ -16,7 +16,7 @@ There is hereby imposed a tax on any taxable substance sold or used by the impor
 
 #### (3) Authority to prescribe rate in lieu of paragraph (2) rate
 
-&emsp;The Secretary may prescribe for each taxable substance a tax which, if prescribed, shall apply in lieu of the tax specified in paragraph (2) with respect to such substance. The tax prescribed by the Secretary shall be equal to the amount of tax which would be imposed by subsection (a) with respect to the taxable substance if such substance were produced using the predominant method of production of such substance.
+&emsp;The Secretary may prescribe for each taxable substance a tax which, if prescribed, shall apply in lieu of the tax specified in paragraph (2) with respect to such substance. The tax prescribed by the Secretary shall be equal tothe amount of tax which would be imposed by subsection (a) with respect to the taxable substance if such substance were produced using the predominant method of production of such substance.
 
 #### (c) Exemptions for substances taxed under sections 4611 and 4661
 

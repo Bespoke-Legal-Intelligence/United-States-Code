@@ -10,7 +10,7 @@ A State may expend payments received under section 731 of this title—
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in par. (1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in par. (1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For completeclassification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 

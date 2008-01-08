@@ -28,7 +28,7 @@ Action by Chief Judge Following Review.—After expeditiously reviewing a compla
 
 &emsp;(2) conclude the proceeding if the chief judge finds that appropriate corrective action has been taken or that action on the complaint is no longer necessary because of intervening events.
 
-> The chief judge shall transmit copies of the written order to the complainant and to thejudge whose conduct is the subject of the complaint.
+> The chief judge shall transmit copies of the written order to the complainant and to the judge whose conduct is the subject of the complaint.
 
 (c)
 

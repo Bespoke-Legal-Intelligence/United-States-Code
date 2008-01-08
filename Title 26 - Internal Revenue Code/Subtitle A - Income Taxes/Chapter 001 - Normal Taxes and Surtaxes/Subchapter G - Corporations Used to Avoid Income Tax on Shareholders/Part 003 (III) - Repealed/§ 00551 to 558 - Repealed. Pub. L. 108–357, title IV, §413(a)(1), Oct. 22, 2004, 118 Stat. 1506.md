@@ -6,7 +6,7 @@ Section 552, acts Aug. 16, 1954, ch. 736, 68A Stat. 195; Pub. L. 94–455, title
 
 Section 553, acts Aug. 16, 1954, ch. 736, 68A Stat. 195; Pub. L. 86–435, §1(e), Apr. 22, 1960, 74 Stat. 78; Pub. L. 88–272, title II, §225(e), Feb. 26, 1964, 78 Stat. 85; Pub. L. 94–455, title XIX, §1901(b)(32)(F), Oct. 4, 1976, 90 Stat. 1800; Pub. L. 99–514, title VI, §645(a)(3), Oct. 22, 1986, 100 Stat. 2291, related to determination of foreign personal holding company income.
 
-Section 554, acts Aug. 16, 1954, ch. 736, 68A Stat. 196; Pub. L. 88–272, title II, §225(e), Feb. 26, 1964, 78 Stat. 86; Pub. L. 98–369, div. A, title I, §132(a), July 18, 1984, 98 Stat. 665, related to constructive ownership of stockand treatment of convertible securities as outstanding stock.
+Section 554, acts Aug. 16, 1954, ch. 736, 68A Stat. 196; Pub. L. 88–272, title II, §225(e), Feb. 26, 1964, 78 Stat. 86; Pub. L. 98–369, div. A, title I, §132(a), July 18, 1984, 98 Stat. 665, related to constructive ownership of stock and treatment of convertible securities as outstanding stock.
 
 Section 555, act Aug. 16, 1954, ch. 736, 68A Stat. 196, related to determination of gross income of foreign personal holding companies.
 

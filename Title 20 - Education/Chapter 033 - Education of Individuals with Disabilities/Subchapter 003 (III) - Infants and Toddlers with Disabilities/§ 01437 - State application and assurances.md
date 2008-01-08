@@ -84,7 +84,7 @@ The Secretary may not disapprove such an application unless the Secretary determ
 
 #### (d) Subsequent State application
 
-If a State has on file with the Secretary a policy, procedure, or assurance that demonstrates that the State meets a requirement of this section, including any policy or procedure filed under this subchapter (as in effect before December 3, 2004), the Secretary shall consider the State to have met the requirement for purposes of receiving a grant under this subchapter.
+If a State has on file with the Secretary a policy, procedure, or assurance that demonstrates that the State meets a requirement of this section, including any policy or procedure filedunder this subchapter (as in effect before December 3, 2004), the Secretary shall consider the State to have met the requirement for purposes of receiving a grant under this subchapter.
 
 #### (e) Modification of application
 

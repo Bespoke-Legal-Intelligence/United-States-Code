@@ -32,7 +32,7 @@ In this subchapter:
 
 &emsp;The term “court-based” and “court-related personnel” mean persons working in the court, whether paid or volunteer, including—
 
-&emsp;&emsp;(A) clerks, special masters, domestic relations officers, administrators, mediators, custody evaluators, guardians ad litem, lawyers, negotiators, probation, parole, interpreters, victim assistants, victim advocates, and judicial, administrative, or any other professionals or personnel similarly involved in the legal process;
+&emsp;&emsp;(A) clerks, special masters, domestic relations officers, administrators, mediators, custody evaluators, guardians ad litem, lawyers, negotiators, probation, parole, interpreters, victim assistants, victim advocates, and judicial, administrative, or any otherprofessionals or personnel similarly involved in the legal process;
 
 &emsp;&emsp;(B) court security personnel;
 
@@ -90,7 +90,7 @@ In this subchapter:
 
 #### (13) Indian tribe
 
-&emsp;The term “Indian tribe” means a tribe, band, pueblo, nation, or other organized groupor community of Indians, including any Alaska Native village or regional or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term “Indian tribe” means a tribe, band, pueblo, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (14) Indian law enforcement
 
@@ -408,7 +408,7 @@ Pub. L. 109–162, title II, §201, Jan. 5, 2006, 119 Stat. 2993, provided that:
 
 &emsp;“(11) Problems of domestic violence are exacerbated for immigrants when spouses control the immigration status of their family members, and abusers use threats of refusal to file immigration papers and threats to deport spouses and children as powerful tools to prevent battered immigrant women from seeking help, trapping battered immigrant women in violent homes because of fear of deportation.
 
-&emsp;“(12) Battered immigrant women who attempt to flee abusive relationships may not have access to bilingual shelters or bilingual professionals, and face restrictions on public or financial assistance. They may also lack assistance of a certified interpreter in court, when reporting complaints to the police or a9–1–1 operator, or even in acquiring information about their rights and the legal system.
+&emsp;“(12) Battered immigrant women who attempt to flee abusive relationships may not have access to bilingual shelters or bilingual professionals, and face restrictions on public or financial assistance. They may also lack assistance of a certified interpreter in court, when reporting complaints to the police or a 9–1–1 operator, or even in acquiring information about their rights and the legal system.
 
 &emsp;“(13) More than 500 men and women call the National Domestic Violence Hotline every day to get immediate, informed, and confidential assistance to help deal with family violence.
 
@@ -442,5 +442,5 @@ Pub. L. 109–162, title III, §301, Jan. 5, 2006, 119 Stat. 3003, provided that
 
 &emsp;“(9) Of college women who said they had been the victims of rape or attempted rape, 12.8 percent of completed rapes, 35 percent of attempted rapes, and 22.9 percent of threatened rapes took place on a date. Almost 60 percent of the completed rapes that occurred on campus took place in the victim's residence.
 
-&emsp;“(10) According to a 3-year study of student-athletes at 10 Division I universities, male athletes made up only 3.3 percent of the general male university population, but they accounted for 19 percent of the students reported for sexual assault and 35 percent of domestic violence perpetrators.”
+&emsp;“(10) According to a 3-year study of student-athletes at 10 Division I universities, male athletes made up only 3.3 percent of the general male universitypopulation, but they accounted for 19 percent of the students reported for sexual assault and 35 percent of domestic violence perpetrators.”
 

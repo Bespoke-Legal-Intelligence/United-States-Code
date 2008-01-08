@@ -82,7 +82,7 @@ Section 703 of Pub. L. 96–417 provided that:
 
 #### Effect on Pending Cases
 
-Section 704 of Pub. L. 96–417 provided that: “Nothing in this Act \[see section 1 of Pub. L. 96–417, set out asa Short Title of 1980 Amendment note under section 1 of this title\] shall cause the dismissal of any action commenced prior to the date of enactment of this Act \[Oct. 10, 1980\] under jurisdictional statutes relating to the Customs Court or the Court of Customs and Patent Appeals as in effect immediately prior to such date of enactment \[Oct. 10, 1980\].”
+Section 704 of Pub. L. 96–417 provided that: “Nothing in this Act \[see section 1 of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title\] shall cause the dismissal of any action commenced prior to the date of enactment of this Act \[Oct. 10, 1980\] under jurisdictional statutes relating to the Customs Court or the Court of Customs and Patent Appeals as in effect immediately prior to such date of enactment \[Oct. 10, 1980\].”
 
 #### Tennessee Valley Authority Legal Representation
 

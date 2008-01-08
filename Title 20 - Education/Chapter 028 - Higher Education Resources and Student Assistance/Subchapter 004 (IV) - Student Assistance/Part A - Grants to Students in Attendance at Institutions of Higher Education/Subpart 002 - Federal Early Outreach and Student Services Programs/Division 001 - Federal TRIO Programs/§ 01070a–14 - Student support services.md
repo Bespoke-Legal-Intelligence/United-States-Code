@@ -80,7 +80,7 @@ In approving applications for student support services projects under this divis
 
 &emsp;(2) require an assurance that the remaining students participating in the project proposed to be carried out under any application be low-income individuals, first generation college students, or individuals with disabilities;
 
-&emsp;(3) require an assurance that not less than one-third of the individuals with disabilities participating in the project be low-income individuals;
+&emsp;(3) require an assurance that not less than one-third of the individuals with disabilitiesparticipating in the project be low-income individuals;
 
 &emsp;(4) require that there be a determination by the institution, with respect to each participant in such project, that the participant has a need for academic support in order to pursue successfully a program of education beyond secondary school;
 

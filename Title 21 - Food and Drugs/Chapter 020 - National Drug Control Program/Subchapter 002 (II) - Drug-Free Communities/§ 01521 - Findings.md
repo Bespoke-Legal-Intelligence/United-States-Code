@@ -16,7 +16,7 @@ Congress finds the following:
 
 &emsp;(B)(i) during the 13-year period beginning with 1979, monthly use of illegal drugs among youth 12 to 17 years of age declined by over 70 percent; and
 
-&emsp;(ii) data suggests that if parents would simply talk to their children regularly about the dangers of substance abuse, use among youth could be expected to decline by as much as 30 percent.
+&emsp;(ii) data suggests that if parents would simply talk to their children regularly about thedangers of substance abuse, use among youth could be expected to decline by as much as 30 percent.
 
 &emsp;(7) Community anti-drug coalitions throughout the United States are successfully developing and implementing comprehensive, long-term strategies to reduce substance abuse among youth on a sustained basis.
 
@@ -64,11 +64,11 @@ Pub. L. 107–82, §1(a), Dec. 14, 2001, 115 Stat. 814, provided that: “Congre
 
 &emsp;&emsp;&emsp;“(iii) treatment sources report an increase in admissions with marijuana as the primary drug of abuse—and adolescents outnumber other age groups entering treatment for marijuana;
 
-&emsp;&emsp;&emsp;“(iv) 80 percent of Pulse Check sources reported increased availability of club drugs, with ecstasy\(MDMA) and ketamine the most widely cited club drugs and seven sources reporting that powder cocaine is being used as a club drug by young adults;
+&emsp;&emsp;&emsp;“(iv) 80 percent of Pulse Check sources reported increased availability of club drugs, with ecstasy (MDMA) and ketamine the most widely cited club drugs and seven sources reporting that powder cocaine is being used as a club drug by young adults;
 
 &emsp;&emsp;&emsp;“(v) ecstasy abuse and trafficking is expanding, no longer confined to the ‘rave’ scene;
 
-&emsp;&emsp;&emsp;“(vi) the sale and use of club drugs has grown from nightclubs and raves to high schools, the streets, neighborhoods, open venues, and younger ages;
+&emsp;&emsp;&emsp;“(vi) the sale and use of club drugs has grown from nightclubs and raves to high schools, thestreets, neighborhoods, open venues, and younger ages;
 
 &emsp;&emsp;&emsp;“(vii) ecstasy users often are unknowingly purchasing adulterated tablets or some other substance sold as MDMA; and
 

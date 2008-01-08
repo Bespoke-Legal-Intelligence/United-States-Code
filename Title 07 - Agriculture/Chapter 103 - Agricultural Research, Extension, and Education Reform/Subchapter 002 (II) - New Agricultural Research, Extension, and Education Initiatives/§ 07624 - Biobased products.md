@@ -80,13 +80,9 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 
 #### Amendments
 
-2002—Subsec. (d)(2) to (4). Pub. L. 107–171, §6201(d)(4), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “A recipient of funding from the Alternative Agricultural Research and Commercialization Corporation established under section 5902 of this title.”
+2002—Subsec. (d)(2) to (4). Pub. L. 107–171, §6201(d)(4), redesignated pars. (3) and (4) as (2) and (3), respectively,and struck out former par. (2) which read as follows: “A recipient of funding from the Alternative Agricultural Research and Commercialization Corporation established under section 5902 of this title.”
 
 Subsec. (e)(2). Pub. L. 107–171, §7124(a), substituted “2007” for “2001”.
 
 Subsec. (h). Pub. L. 107–171, §7124(b), substituted “2007” for “2002”.
-
-#### Ex. Ord. No. 13134. Developing and Promoting Biobased Products and Bioenergy
-
-Ex. Ord. No. 13134, Aug. 12, 1999, 64 F.R. 44639, as amended, was transferred and is set out as a note under section 8601 of this title.
 

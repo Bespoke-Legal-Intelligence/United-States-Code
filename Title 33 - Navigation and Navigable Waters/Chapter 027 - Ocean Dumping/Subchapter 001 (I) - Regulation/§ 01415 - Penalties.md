@@ -26,7 +26,7 @@ The Attorney General or his delegate may bring actions for equitable relief to e
 
 #### (e) Liability of vessels in rem
 
-A vessel, except a public vessel within the meaning of section 13 of the Federal Water Pollution Control Act, as amended, used in a violation, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation a consenting party or privy to such violation.
+A vessel, except a public vessel within the meaning of section 13 of the Federal Water Pollution Control Act, as amended, used in a violation, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of theUnited States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation a consenting party or privy to such violation.
 
 #### (f) Revocation and suspension of permits
 
@@ -44,7 +44,7 @@ If the provisions of any permit issued under section 1412 or 1413 of this title 
 
 &emsp;(C) if the Administrator has commenced action to impose a penalty pursuant to subsection (a) of this section, or if the Administrator, or the Secretary, has initiated permit revocation or suspension proceedings under subsection (f) of this section; or
 
-&emsp;(D) if the United States has commenced and is diligently prosecuting a criminal action in acourt of the United States or a State to redress a violation of this subchapter.
+&emsp;(D) if the United States has commenced and is diligently prosecuting a criminal action in a court of the United States or a State to redress a violation of this subchapter.
 
 (3)(A) Any suit under this subsection may be brought in the judicial district in which the violation occurs.
 

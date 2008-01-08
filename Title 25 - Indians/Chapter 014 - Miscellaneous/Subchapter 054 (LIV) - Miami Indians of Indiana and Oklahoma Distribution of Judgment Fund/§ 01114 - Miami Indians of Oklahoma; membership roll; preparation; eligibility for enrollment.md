@@ -4,7 +4,7 @@ For the purpose of determining entitlement to the judgment awarded in Indian Cla
 
 (a) They were born on or prior to, and living on, October 14, 1966; and
 
-(b) Their name or the name of an ancestor from whom they claim eligibility appears on any of the rolls cited in section 1113(b) of this title, or on the roll of the Western Miami Tribe of Indians of June 12, 1891, prepared and completed pursuant to the Act of March 3, 1891 (26 Stat. 1000).
+(b) Their name or the name of an ancestor from whom they claim eligibility appears on any of the rolls cited in section 1113(b) of thistitle, or on the roll of the Western Miami Tribe of Indians of June 12, 1891, prepared and completed pursuant to the Act of March 3, 1891 (26 Stat. 1000).
 
 (Pub. L. 89–659, §4, Oct. 14, 1966, 80 Stat. 909.)
 

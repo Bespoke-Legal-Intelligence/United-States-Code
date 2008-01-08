@@ -6,7 +6,7 @@
 
 &emsp;(2) to permit reallocation of funds approved for the establishment of congregate services in existing public housing projects and projects assisted under section 1701q of title 12 if the services are not established within six months of the notification date of funding approval;
 
-&emsp;(3) to assure that where such funding has been approved for the establishment of congregate services for public housing projects and projects assisted under section 1701q of title 12 under construction or approved for construction, these services shall be in placeat the start of the project's occupancy by tenants requiring such services for maintaining independent living;
+&emsp;(3) to assure that where such funding has been approved for the establishment of congregate services for public housing projects and projects assisted under section 1701q of title 12 under construction or approved for construction, these services shall be in place at the start of the project's occupancy by tenants requiring such services for maintaining independent living;
 
 &emsp;(4) to establish accounting and other standards in order to prevent any fraudulent or inappropriate use of funds under this chapter; and
 

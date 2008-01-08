@@ -69,13 +69,14 @@
 | [9835\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009835%20-%20Allotment%20of%20funds.md) | Allotment of funds. |
 | [9835a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009835a%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93252%2C%20title%20I%2C%20%C2%A7106%2C%20May%2018%2C%201994%2C%20108%20Stat.%20629.md) | Repealed. |
 | [9836\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009836%20-%20Designation%20of%20Head%20Start%20agencies.md) | Designation of Head Start agencies. |
-| [9836a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009836a%20-%20Quality%20standards%3B%20monitoring%20of%20Head%20Start%20agencies%20and%20programs.md) | Quality standards; monitoring of Head Start agencies and programs. |
+| [9836a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009836a%20-%20Standards%3B%20monitoring%20of%20Head%20Start%20agencies%20and%20programs.md) | Standards; monitoring of Head Start agencies and programs. |
 | [9837\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009837%20-%20Powers%20and%20functions%20of%20Head%20Start%20agencies.md) | Powers and functions of Head Start agencies. |
-| [9837a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009837a%20-%20Head%20Start%20transition.md) | Head Start transition. |
+| [9837a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009837a%20-%20Head%20Start%20transition%20and%20alignment%20with%20K%E2%80%9312%20education.md) | Head Start transition and alignment with K–12 education. |
+| [9837b.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009837b%20-%20Head%20Start%20collaboration%3B%20State%20early%20education%20and%20care.md) | Head Start collaboration; State early education and care. |
 | [9838\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009838%20-%20Submission%20of%20plans%20to%20chief%20executive%20officer.md) | Submission of plans to chief executive officer. |
 | [9839\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009839%20-%20Administrative%20requirements%20and%20standards.md) | Administrative requirements and standards. |
 | [9840\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009840%20-%20Participation%20in%20Head%20Start%20programs.md) | Participation in Head Start programs. |
-| [9840a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009840a%20-%20Early%20Head%20Start%20programs%20for%20families%20with%20infants%20and%20toddlers.md) | Early Head Start programs for families with infants and toddlers. |
+| [9840a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009840a%20-%20Early%20Head%20Start%20programs.md) | Early Head Start programs. |
 | [9841\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009841%20-%20Appeals%2C%20notice%2C%20hearing%2C%20and%20mediation%3B%20alternative%20agency%20for%20Indian%20tribe.md) | Appeals, notice, hearing, and mediation; alternative agency for Indian tribe. |
 | [9842\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009842%20-%20Records%20and%20audits.md) | Records and audits. |
 | [9843\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009843%20-%20Technical%20assistance%20and%20training.md) | Technical assistance and training. |
@@ -89,7 +90,9 @@
 | [9850\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009850%20-%20Limitation%20with%20respect%20to%20certain%20unlawful%20activities.md) | Limitation with respect to certain unlawful activities. |
 | [9851\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009851%20-%20Political%20activities.md) | Political activities. |
 | [9852\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009852%20-%20Advance%20funding.md) | Advance funding. |
-| [9852a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009852a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93285%2C%20title%20I%2C%20%C2%A7118%2C%20Oct.%2027%2C%201998%2C%20112%20Stat.%202727.md) | Repealed. |
+| [9852a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009852a%20-%20Parental%20consent%20requirement%20for%20nonemergency%20intrusive%20physical%20examinations.md) | Parental consent requirement for nonemergency intrusive physical examinations. |
+| [9852b.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009852b%20-%20Centers%20of%20Excellence%20in%20Early%20Childhood.md) | Centers of Excellence in Early Childhood. |
+| [9852c.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009852c%20-%20General%20provisions.md) | General provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

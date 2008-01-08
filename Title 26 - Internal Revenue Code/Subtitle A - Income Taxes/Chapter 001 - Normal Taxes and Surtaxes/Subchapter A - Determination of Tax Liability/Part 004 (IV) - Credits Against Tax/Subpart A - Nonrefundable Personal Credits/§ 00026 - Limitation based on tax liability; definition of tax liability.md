@@ -12,9 +12,9 @@
 
 > &emsp;For purposes of subparagraph (B), the taxpayer's tentative minimum tax for any taxable year beginning during 1999 shall be treated as being zero.
 
-#### (2) Special rule for taxable years 2000 through 2006
+#### (2) Special rule for taxable years 2000 through 2007
 
-&emsp;For purposes of any taxable year beginning during 2000, 2001, 2002, 2003, 2004, 2005, or 2006, the aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of—
+&emsp;For purposes of any taxable year beginning during 2000, 2001, 2002, 2003, 2004, 2005, 2006, or 2007, the aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of—
 
 &emsp;&emsp;(A) the taxpayer's regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27(a), and
 
@@ -68,15 +68,19 @@ For purposes of this part—
 
 &emsp;&emsp;(R) section 138(c)(2) (relating to penalty for distributions from Medicare Advantage MSA not used for qualified medical expenses if minimum balance not maintained),
 
-&emsp;&emsp;(S) section 223(f)(4) (relating to additional tax on health savings account distributions not used for qualified medical expenses), and
+&emsp;&emsp;(S) sections 106(e)(3)(A)(ii), 223(b)(8)(B)(i)(II), and 408(d)(9)(D)(i)(II) (relating to certain failures to maintain high deductible health plan coverage),
 
-&emsp;&emsp;(T) subsections (a)(1)(B)(i) and (b)(4)(A) of section 409A (relating to interest and additional tax with respect to certain deferred compensation).
+&emsp;&emsp;(T) section 170(<i>o</i>)(3)(B) (relating to recapture of certain deductions for fractional gifts),
+
+&emsp;&emsp;(U) section 223(f)(4) (relating to additional tax on health savings account distributions not used for qualified medical expenses), and
+
+&emsp;&emsp;(V) subsections (a)(1)(B)(i) and (b)(4)(A) of section 409A (relating to interest and additional tax with respect to certain deferred compensation).
 
 #### (c) Tentative minimum tax
 
 For purposes of this part, the term “tentative minimum tax” means the amount determined under section 55(b)(1).
 
-(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628; Pub. L. 107–16, title II, §§201(b)(2)(D), 202(f)(2)(C), title VI, §618(b)(2)(C), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–22, §1(b)(2)(A), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §§415(a), 417(23)(B), title VI, §601(a), Mar. 9, 2002, 116 Stat. 54, 57, 59; Pub. L. 108–311, title III, §312(a), title IV, §§401(a)(1), 408(a)(5)(A), Oct. 4, 2004, 118 Stat. 1181, 1183, 1191; Pub. L. 109–135, title IV, §§403(hh)(1), 412(c), Dec. 21, 2005, 119 Stat. 2631, 2636; Pub. L. 109–222, title III, §302(a), May 17, 2006, 120 Stat. 353.)
+(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI,§1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628; Pub. L. 107–16, title II, §§201(b)(2)(D), 202(f)(2)(C), title VI, §618(b)(2)(C), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–22, §1(b)(2)(A), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §§415(a), 417(23)(B), title VI, §601(a), Mar. 9, 2002, 116 Stat. 54, 57, 59; Pub. L. 108–311, title III, §312(a), title IV, §§401(a)(1), 408(a)(5)(A), Oct. 4, 2004, 118 Stat. 1181, 1183, 1191; Pub. L. 109–135, title IV, §§403(hh)(1), 412(c), Dec. 21, 2005, 119 Stat. 2631, 2636; Pub. L. 109–222, title III, §302(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §3(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–172, §11(a)(3), Dec. 29, 2007, 121 Stat. 2484.)
 
 #### Amendment of Section
 
@@ -87,6 +91,10 @@ For purposes of this part, the term “tentative minimum tax” means the amount
 Section 860K, referred to in subsec. (b)(2)(P), was repealed by Pub. L. 108–357, title VIII, §835(a), Oct. 22, 2004, 118 Stat. 1593.
 
 #### Amendments
+
+2007—Subsec. (a)(2). Pub. L. 110–166 substituted “2007” for “2006” in heading and “2006, or 2007” for “or 2006” in introductory provisions.
+
+Subsec. (b)(2)(S) to (V). Pub. L. 110–172 added subpars. (S) and (T) and redesignated former subpars. (S) and (T) as (U) and (V), respectively.
 
 2006—Subsec. (a)(2). Pub. L. 109–222 substituted “2006” for “2005” in heading and “2005, or 2006” for “or 2005” in introductory provisions.
 
@@ -188,6 +196,10 @@ Pub. L. 99–514, §701(c)(1)(B)(iv), added subpar. (J).
 
 Subsec. (c). Pub. L. 99–514, §701(c)(1)(C), amended subsec. (c) generally, substituting provisions relating to tentative minimum tax for provisions referring to section 55(c) of this title for similar rule for alternative minimum tax for taxpayers other than corporations.
 
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–166, §3(b), Dec. 26, 2007, 121 Stat. 2461, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–222, title III, §302(b), May 17, 2006, 120 Stat. 353, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
@@ -246,7 +258,7 @@ Section 1621(d) of Pub. L. 104–188 provided that: “The amendments made by th
 
 Amendment by section 7811(c)(1), (2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
-Section 7823 of Pub. L. 101–239 provided that: “Except as otherwise provided in this part \[part II (§§7821–7823) of subtitle H of title VII of Pub. L. 101–239, amending this section and sections 453A, 842, 1503, 6427, 6655, 6863, 7519, 7611, 9502, 9503, and 9508 of this title and enacting provisions set out as notes under sections 56 and 7519 of this title\], any amendment made by this part shall take effect as if included in the provision of the 1987 Act \[Pub. L. 100–203, title X\] to which such amendment relates.”
+Section 7823 of Pub. L. 101–239 provided that: “Except as otherwise provided in this part \[part II (§§7821–7823) of subtitle H of title VII of Pub. L. 101–239, amending this section and sections 453A, 842, 1503, 6427, 6655, 6863, 7519, 7611, 9502, 9503, and 9508 of this title and enacting provisions set out as notes under sections 56 and 7519 of this title\], any amendment made by this part shalltake effect as if included in the provision of the 1987 Act \[Pub. L. 100–203, title X\] to which such amendment relates.”
 
 #### Effective Date of 1988 Amendment
 
@@ -276,7 +288,7 @@ Section applicable to taxable years beginning after Dec. 31, 1983, and to carryb
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(c)(1) of Pub. L. 99–514 notwithstanding any treaty obligation ofthe United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(c)(1) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Treatment of Tax Imposed Under Former Section 409(c)
 

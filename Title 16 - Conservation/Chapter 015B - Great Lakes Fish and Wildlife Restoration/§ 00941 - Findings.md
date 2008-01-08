@@ -8,7 +8,7 @@ The Congress finds and declares the following:
 
 &emsp;(3) The availability of a suitable forage base is essential to lake trout, walleye, yellow perch, and other recreational and commercially valuable fishery resources of the Great Lakes Basin. Protecting and restoring productive fish habitat, including by protecting water quality, is essential to the successful recovery of Great Lakes Basin fishery resources.
 
-&emsp;(4) The Great Lakes Basin contains important breeding and migration habitat for all types of migratory birds. Many migratory bird species dependent on deteriorating Great Lakes Basin habitat have suffered serious population declines in recent years.
+&emsp;(4) The Great Lakes Basin contains important breeding and migration habitat for all types of migratory birds. Many migratory birdspecies dependent on deteriorating Great Lakes Basin habitat have suffered serious population declines in recent years.
 
 &emsp;(5) Over 80 percent of the original wetlands in the Great Lakes Basin have been destroyed and such losses continue at a rate of 20,000 acres annually.
 

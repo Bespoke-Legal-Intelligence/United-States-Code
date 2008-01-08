@@ -52,7 +52,7 @@ Streamlining reports of condition.—
 
 &emsp;(A)
 
-Review of information and schedules.—Before the end of the 1-year period beginning on October 13, 2006, and before the end of each 5-year period thereafter, each Federal banking agency shall, in conjunction with the other relevant Federal banking agencies, review the information and schedules that are required to be filed by an insured depositoryinstitution in a report of condition required under paragraph (3).
+Review of information and schedules.—Before the end of the 1-year period beginning on October 13, 2006, and before the end of each 5-year period thereafter, each Federal banking agency shall, in conjunction with the other relevant Federal banking agencies, review the information and schedules that are required to be filed by an insured depository institution in a report of condition required under paragraph (3).
 
 &emsp;(B)
 
@@ -276,7 +276,7 @@ Reduction or elimination of information found to be unnecessary.—After complet
 
 &emsp;&emsp;Any insured depository institution which—
 
-&emsp;&emsp;&emsp;(i) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit the certified statement under paragraph (1) within the period of time required under paragraph (1) or submits a false or misleading certified statement; or
+&emsp;&emsp;&emsp;(i) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to submit the certified statement under paragraph (1) within the period of time required under paragraph (1)or submits a false or misleading certified statement; or
 
 &emsp;&emsp;&emsp;(ii) submits the statement at a time which is minimally after the time required in such paragraph,
 
@@ -528,7 +528,7 @@ Public Comment.—Upon receiving notice of a proposed acquisition, the appropria
 
 &emsp;(A) The identity, personal history, business background and experience of each person by whom or on whose behalf the acquisition is to be made, including his material business activities and affiliations during the past five years, and a description of any material pending legal or administrative proceedings in which he is a party and any criminal indictment or conviction of such person by a State or Federal court.
 
-&emsp;(B) A statement of the assets and liabilities of each person by whom or on whose behalf theacquisition is to be made, as of the end of the fiscal year for each of the five fiscal years immediately preceding the date of the notice, together with related statements of income and source and application of funds for each of the fiscal years then concluded, all prepared in accordance with generally accepted accounting principles consistently applied, and an interim statement of the assets and liabilities for each such person, together with related statements of income and source and application of funds, as of a date not more than ninety days prior to the date of the filing of the notice.
+&emsp;(B) A statement of the assets and liabilities of each person by whom or on whose behalf the acquisition is to be made, as of the end of the fiscal year for each of the five fiscal years immediately preceding the date of the notice, together with related statements of income and source and application of funds for each of the fiscal years then concluded, all prepared in accordance with generally accepted accounting principles consistently applied, and an interim statement of the assets and liabilities for each such person, together with related statements of income and source and application of funds, as of a date not more than ninety days prior to the date of the filing of the notice.
 
 &emsp;(C) The terms and conditions of the proposed acquisition and the manner in which the acquisition is to be made.
 
@@ -734,7 +734,7 @@ Assessment; etc.—Any penalty imposed under subparagraph (A), (B), or (C) shall
 
 &emsp;(F)
 
-Hearing.—The depository institution or other person against whom any penalty is assessed under this paragraph shall be afforded an agency hearing if such institution or other person submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this paragraph.
+Hearing.—The depository institution or other person against whom any penalty is assessed under this paragraph shall be afforded an agency hearing if such institution or other person submits a request for such hearing within 20 days after the issuance of the noticeof assessment. Section 1818(h) of this title shall apply to any proceeding under this paragraph.
 
 &emsp;(G)
 
@@ -828,7 +828,7 @@ For purposes of this section:
 
 #### (4) Transferability
 
-&emsp;No right, title, or interest of any insured depository institution in or with respect to its pro rata share of the secondary reserve shall be assignable or transferable whether by operation of law or otherwise, except to the extent that the Corporation may provide for transfer of such pro rata share in cases of merger or consolidation, transfer of bulk assets or assumption of liabilities, and similar transactions, as defined by the Corporation for purposes of this paragraph.
+&emsp;No right, title, or interest of any insured depository institution in or with respect to its pro rata share of the secondary reserve shall be assignable or transferable whether by operation of law or otherwise, except to the extent that the Corporation may provide for transfer of such pro rata share in cases of merger orconsolidation, transfer of bulk assets or assumption of liabilities, and similar transactions, as defined by the Corporation for purposes of this paragraph.
 
 #### (5) Pro rata distribution on termination of insured status
 
@@ -874,7 +874,7 @@ For purposes of this section:
 
 When requested by the Director of the Office of Thrift Supervision, the Corporation shall collect on behalf of the Director assessments on savings associations levied by the Director under section 1467 of this title. The Corporation shall be reimbursed for its actual costs for the collection of such assessments. Any such assessments by the Director shall be in addition to any amounts assessed by the Corporation, the Financing Corporation, and the Resolution Funding Corporation.
 
-(Sept. 21, 1950, ch. 967, §2\[7\], 64 Stat. 876; Pub. L. 86–671, §§2, 3, July 14, 1960, 74 Stat. 547–551; Pub. L. 88–593, Sept. 12, 1964, 78 Stat. 940; Pub. L. 89–695, title II, §201, title III, §301(b), Oct. 16, 1966, 80 Stat. 1046, 1055; Pub. L. 91–151, §7(a)(2), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(g), (h), Dec. 31, 1970, 84 Stat. 1812; Pub. L. 93–495, title I, §§101(a)(2), 102(a)(2), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(8)–(13), Sept. 17, 1978, 92 Stat. 617, 618; Pub. L. 95–630, title III, §§302, 310, title VI, §602, title IX, §901, Nov. 10, 1978, 92 Stat. 3676, 3678, 3683, 3693; Pub. L. 96–221, title III, §308(a)(1)(B), (d), Mar. 31, 1980, 94 Stat. 147, 148; Pub. L. 97–110, title I, §103(b), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §§113(d)–(f), (q), 117, title IV, §429, Oct. 15, 1982, 96 Stat. 1473, 1475, 1479, 1527; Pub. L. 99–570, title I, §1360, Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §505(a), Aug. 10, 1987, 101 Stat. 633; Pub. L. 101–73, title II, §§201, 208, title IX, §§905(c), 907(d), 911(c), 931(a), Aug. 9, 1989, 103 Stat. 187, 206, 460, 468, 479, 493; Pub. L. 101–508, title II, §§2002–2004, Nov. 5, 1990, 104 Stat. 1388–14—1388–16; Pub. L. 102–242, title I, §§103(b), 104, 113(c)(1), 141(c), title II, §§205, 232(b), 233(c), title III, §§302(a), (b), (e)(3), (4), formerly (e)(2), (3), 311(a)(2), (b)(3), 313(a), title IV, §474, Dec. 19, 1991, 105 Stat. 2238, 2247, 2277, 2292, 2310, 2314, 2345, 2348, 2349, 2363, 2365, 2368, 2386; Pub. L. 102–550, title IX, §931(a), (b), title XVI, §§1603(a)(1), (3), 1604(b)(1), (3), 1605(a)(2), (5)(A), (6), (b)(1), (2), 1606(i)(1), Oct. 28, 1992, 106 Stat. 3888, 4078, 4083, 4085–4087, 4089; Pub. L. 102–558, title III, §§303(a), (b)(1), (3), (6)(A), (7), (8), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 103–204, §§8(h), 38(a), Dec. 17, 1993, 107 Stat. 2388, 2416; Pub. L. 103–325, title III, §§305(b), 308(b), 348, title VI, §602(a)(4)–(10), Sept. 23, 1994, 108 Stat. 2217, 2218, 2241, 2288; Pub. L. 104–208, div. A, title II, §§2226, 2703(b), 2704(d)(6)(B), (14)(G), 2706–2708, Sept. 30, 1996, 110 Stat. 3009–417, 3009–485, 3009–488, 3009–491, 3009–496, 3009–497; Pub. L. 106–569, title XII, §1231(a), Dec. 27, 2000, 114 Stat. 3036; Pub. L. 108–386, §8(a)(2), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2104(a), (b), (d), 2105(a), 2106, 2107(a), 2108, Feb. 8, 2006, 120 Stat. 9, 12–16, 19; Pub. L. 109–173, §§2(b), 3(a)(1)–(5), 8(a)(8), (9), Feb. 15, 2006, 119 Stat. 3602, 3605, 3611; Pub. L. 109–351, title VI, §604, title VII, §§705, 707(a), Oct. 13, 2006, 120 Stat. 1980, 1987.)
+(Sept. 21, 1950, ch. 967, §2\[7\], 64 Stat. 876; Pub. L. 86–671, §§2, 3, July 14, 1960, 74 Stat. 547–551; Pub. L. 88–593, Sept. 12, 1964, 78 Stat. 940; Pub. L. 89–695, title II, §201, title III, §301(b), Oct. 16, 1966, 80 Stat. 1046, 1055; Pub. L. 91–151, §7(a)(2), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(g), (h), Dec. 31, 1970, 84 Stat. 1812; Pub. L. 93–495, title I, §§101(a)(2), 102(a)(2), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(8)–(13), Sept. 17, 1978, 92 Stat. 617, 618; Pub. L. 95–630, title III, §§302, 310, title VI, §602, title IX, §901, Nov. 10, 1978, 92 Stat. 3676, 3678, 3683, 3693; Pub. L. 96–221, title III, §308(a)(1)(B), (d), Mar. 31, 1980, 94 Stat. 147, 148; Pub. L. 97–110, title I, §103(b), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §§113(d)–(f), (q), 117, title IV, §429, Oct. 15, 1982, 96 Stat. 1473, 1475, 1479, 1527; Pub. L. 99–570, title I, §1360, Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §505(a), Aug. 10, 1987, 101 Stat. 633; Pub. L. 101–73, title II, §§201, 208, title IX, §§905(c), 907(d), 911(c), 931(a), Aug. 9, 1989, 103 Stat. 187, 206, 460, 468, 479, 493; Pub. L. 101–508, title II, §§2002–2004, Nov. 5, 1990, 104 Stat. 1388–14—1388–16; Pub. L. 102–242, title I, §§103(b), 104, 113(c)(1), 141(c), title II, §§205, 232(b), 233(c), title III, §§302(a), (b), (e)(3), (4), formerly (e)(2), (3), 311(a)(2), (b)(3), 313(a), title IV, §474, Dec. 19, 1991, 105 Stat. 2238, 2247, 2277, 2292, 2310, 2314, 2345, 2348, 2349, 2363, 2365, 2368, 2386; Pub. L. 102–550, title IX, §931(a), (b), title XVI, §§1603(a)(1), (3),1604(b)(1), (3), 1605(a)(2), (5)(A), (6), (b)(1), (2), 1606(i)(1), Oct. 28, 1992, 106 Stat. 3888, 4078, 4083, 4085–4087, 4089; Pub. L. 102–558, title III, §§303(a), (b)(1), (3), (6)(A), (7), (8), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 103–204, §§8(h), 38(a), Dec. 17, 1993, 107 Stat. 2388, 2416; Pub. L. 103–325, title III, §§305(b), 308(b), 348, title VI, §602(a)(4)–(10), Sept. 23, 1994, 108 Stat. 2217, 2218, 2241, 2288; Pub. L. 104–208, div. A, title II, §§2226, 2703(b), 2704(d)(6)(B), (14)(G), 2706–2708, Sept. 30, 1996, 110 Stat. 3009–417, 3009–485, 3009–488, 3009–491, 3009–496, 3009–497; Pub. L. 106–569, title XII, §1231(a), Dec. 27, 2000, 114 Stat. 3036; Pub. L. 108–386, §8(a)(2), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2104(a), (b), (d), 2105(a), 2106, 2107(a), 2108, Feb. 8, 2006, 120 Stat. 9, 12–16, 19; Pub. L. 109–173, §§2(b), 3(a)(1)–(5), 8(a)(8), (9), Feb. 15, 2006, 119 Stat. 3602, 3605, 3611; Pub. L. 109–351, title VI, §604, title VII, §§705, 707(a), Oct. 13, 2006, 120 Stat. 1980, 1987.)
 
 #### References in Text
 
@@ -1008,7 +1008,7 @@ Subsec. (b)(2)(E). Pub. L. 104–208, §2704(d)(6)(B)(iii), which directed the r
 
 Subsec. (b)(2)(E)(iii). Pub. L. 104–208, §2707, as amended by Pub. L. 106–569, added cl. (iii).
 
-Subsec. (b)(2)(F) to (H). Pub. L. 104–208, §2704(d)(6)(B)(iii), which directed the striking of subpar. (F) and the redesignation of subpars. (G) and (H) as (D) and (E), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (b)(2)(F) to (H). Pub. L. 104–208, §2704(d)(6)(B)(iii), which directed the striking of subpar.\(F) and the redesignation of subpars. (G) and (H) as (D) and (E), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (b)(3). Pub. L. 104–208, §2704(d)(14)(G)(vii)(I), which directed substitution of “fund” for “funds” in heading, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
@@ -1020,7 +1020,7 @@ Subsec. (b)(3)(C), (D). Pub. L. 104–208, §2704(d)(14)(G)(vii)(VI), which dire
 
 Subsec. (b)(6). Pub. L. 104–208, §2704(d)(14)(G)(viii), which directed the amendment of par. (6) by substituting “any such assessment is necessary” for “any such assessment” in introductory provisions, striking subpar. (A) designation, introductory provisions, and subpar. (B), redesignating cls. (i) to (iii) of subpar. (A) as subpars. (A) to (C), respectively, realigning margins, and substituting period for “; and” at end of subpar. (C), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (e). Pub. L. 104–208, §2706, inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “The Corporation (1) may refund to an insured depository institution any payment of assessment in excess of the amount due to the Corporation or (2) may credit such excess toward the payment of the assessment next becoming due fromsuch depository institution and upon succeeding assessments until the credit is exhausted.”
+Subsec. (e). Pub. L. 104–208, §2706, inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “The Corporation (1) may refund to an insured depository institution any payment of assessment in excess of the amount due to the Corporation or (2) may credit such excess toward the payment of the assessment next becoming due from such depository institution and upon succeeding assessments until the credit is exhausted.”
 
 Subsec. (j)(9)(A). Pub. L. 104–208, §2226(1), substituted “foreign bank, or any affiliate thereof,” for “financial institution and any affiliate of any financial institution” and “by the foreign bank or any affiliate thereof” for “by the financial institution and such institution's affiliates”.
 
@@ -1286,7 +1286,7 @@ Subsec. (j)(15). Pub. L. 101–73, §905(c), inserted at end “The resignation,
 
 Subsec. (j)(16). Pub. L. 101–73, §907(d), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “Any person who willfully violates any provision of this subsection, or any regulation or order issued by the appropriate Federal banking agency pursuant thereto, shall forfeit and pay a civil penalty of not more than $10,000 per day for each day during which such violation continues. The appropriate Federal banking agency shall have authority to assess such a civil penalty, after giving notice and an opportunity to the person to submit data, views, and arguments, and after giving due consideration to the appropriateness of the penalty with respect to the size of financial resources and good faith of the person charged, the gravity of the violation, and any data, views, and arguments submitted. The agency may collect such civil penalty by agreement with the person or by bringing an action in the appropriate United States district court, except that in any such action, the person against whom the penalty has been assessed shall have a right to trial de novo.”
 
-Subsec. (j)(17). Pub. L. 101–73, §208(12), amended par. (17) generally. Prior to amendment, par. (17) read as follows: “This subsection shall not apply to a transaction subject to section 1842 or section 1828 of this title. This subsection shall not apply to an insured Federal savings bank.”
+Subsec. (j)(17). Pub. L. 101–73, §208(12), amended par. (17) generally. Prior to amendment, par. (17) read asfollows: “This subsection shall not apply to a transaction subject to section 1842 or section 1828 of this title. This subsection shall not apply to an insured Federal savings bank.”
 
 Subsec. (j)(18). Pub. L. 101–73, §208(13), added par. (18).
 
@@ -1358,7 +1358,7 @@ Subsec. (j)(6). Pub. L. 89–695, §201, repealed par. (6) definition of “appr
 
 1964—Subsec. (j). Pub. L. 88–593 added subsec. (j).
 
-1960—Subsec. (a). Pub. L. 86–671, §2, amended subsec. (a) generally, and among other changes, provided for reports of condition, the form, contents, date of making, number, and publication of the reports of condition, declaration and attestation of officers, penalties, access to reports, computation of deposit liabilities, segregation and classification of deposits and definitions. Former provisions of the subsection relating to rate and amount of assessment, assessment base and deductions therefrom, form and contents of certified statements, and payment of assessments, are either covered or superseded by provisions incorporated in subsecs. (b)(1), (3), (4), (6) including the last paragraph, and (c)(3) of this section.
+1960—Subsec. (a). Pub. L. 86–671, §2, amended subsec. (a) generally, and among other changes, provided for reports of condition, the form, contents, date of making, number, and publication of the reports of condition, declaration and attestation of officers, penalties, access to reports, computation of deposit liabilities, segregation and classification of deposits and definitions. Former provisions of the subsection relating to rate and amount of assessment, assessment base and deductions therefrom, form and contents of certified statements, and payment of assessments, are eithercovered or superseded by provisions incorporated in subsecs. (b)(1), (3), (4), (6) including the last paragraph, and (c)(3) of this section.
 
 Subsec. (b). Pub. L. 86–671, §2, amended subsec. (b) generally, and among other changes, provided for the computation of assessments, the rate and amount, the base, additions and deductions, records and definition. Former provisions of the subsection relating to filing of certified statements of assessment base and amounts due and payment thereof are incorporated in subsec. (c)(1) of this section.
 
@@ -1506,7 +1506,7 @@ Transition Provisions.—
 
 &emsp;“(1)
 
-Continuation of existing assessment regulations.—No provision of this subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1811 of this title\] or any amendment made by this subtitle shall be construed as affecting the authority of the Corporation to set or collect deposit insurance assessments pursuant to any regulations in effect before the effective date of the final regulations prescribed under subsection (a).
+Continuation of existing assessment regulations.—No provision of this subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, see Short Title of 2006 Amendment note set out under section 1811 of this title\] or any amendment made by this subtitle shall be construed as affecting the authority of the Corporation to set or collect deposit insuranceassessments pursuant to any regulations in effect before the effective date of the final regulations prescribed under subsection (a).
 
 &emsp;“(2)
 

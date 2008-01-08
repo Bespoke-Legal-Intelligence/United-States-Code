@@ -42,7 +42,7 @@ Subject to the allocation of funds described in subsection (d), amounts in the F
 
 #### (d) Regional allocation
 
-The Secretary shall, every 2 years, apportion monies from the Fund among the eight Council regions according to recommendations of the Councils, based on regional priorities identified through the Council process, except that no region shall receive less than 5 percent of the Fund in each allocation period.
+The Secretary shall, every 2 years, apportion monies from the Fund among the eight Councilregions according to recommendations of the Councils, based on regional priorities identified through the Council process, except that no region shall receive less than 5 percent of the Fund in each allocation period.
 
 #### (e) Limitation on the use of the Fund
 

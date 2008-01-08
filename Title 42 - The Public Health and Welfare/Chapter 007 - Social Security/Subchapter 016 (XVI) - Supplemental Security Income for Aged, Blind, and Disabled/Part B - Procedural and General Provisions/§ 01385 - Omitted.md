@@ -6,7 +6,7 @@ Section, act Aug. 14, 1935, ch. 531, title XVI, §1605, as added July 25, 1962, 
 
 #### Puerto Rico, Guam, and Virgin Islands
 
-Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by section 301 of Pub. L. 92–603, eff. Jan. 1, 1974, was not applicable to Puerto Rico, Guam, and the Virgin Islands. See section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1605 of the Social Security Act \[this section\] as it existed prior to reenactment of this subchapter by Pub. L. 92–603, and as amended, continues to apply and to read as follows:
+Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by section 301 of Pub. L. 92–603,eff. Jan. 1, 1974, was not applicable to Puerto Rico, Guam, and the Virgin Islands. See section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1605 of the Social Security Act \[this section\] as it existed prior to reenactment of this subchapter by Pub. L. 92–603, and as amended, continues to apply and to read as follows:
 
 #### §1385. Definitions
 

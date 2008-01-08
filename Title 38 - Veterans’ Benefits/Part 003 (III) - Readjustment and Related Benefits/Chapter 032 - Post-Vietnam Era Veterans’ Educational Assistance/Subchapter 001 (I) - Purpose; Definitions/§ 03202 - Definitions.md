@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 &emsp;(A) has the meaning given such term in section 3452(b) of this title, and
 
-&emsp;(B) includes (i) a full-time program of apprenticeship or other on-job training approved as provided in clause (1) or (2), as appropriate, of section 3687(a) of this title, and (ii) in the case of an individual who is not serving on active duty, a cooperative program (as defined in section 3482(a)(2) of this title).
+&emsp;(B) includes (i) a full-time program of apprenticeship or other on-job training approvedas provided in clause (1) or (2), as appropriate, of section 3687(a) of this title, and (ii) in the case of an individual who is not serving on active duty, a cooperative program (as defined in section 3482(a)(2) of this title).
 
 (3) The term “participant” is a person who is participating in the educational benefits program established under this chapter.
 

@@ -30,7 +30,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (iii) Appeal of random selection
 
-&emsp;&emsp;&emsp;A random selection or denial by the Secretary of a beginning farmer or rancher forfarm inventory property under this subparagraph shall be final and not administratively appealable.
+&emsp;&emsp;&emsp;A random selection or denial by the Secretary of a beginning farmer or rancher for farm inventory property under this subparagraph shall be final and not administratively appealable.
 
 #### (iv) Combining and dividing of property
 
@@ -108,7 +108,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (d) Easements; condemnations
 
-With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for thedistrict, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
+With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
 
 #### (e) Real property located within Indian reservation; conservation practices; adverse effects prohibition
 
@@ -216,7 +216,7 @@ Foreclosure procedures.—
 
 Notice to borrower.—If an Indian borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), not less than 30 days before a foreclosure sale of the property, the Secretary shall provide the Indian borrower-owner with the option of—
 
-&emsp;&emsp;(aa) requiring the Secretary to assign the loan and security instruments to the Secretary of the Interior, if the Secretary of the Interior agrees to an assignment releasingthe Secretary of Agriculture from all further responsibility for collection of any amounts with regard to the loan secured by the real property; or
+&emsp;&emsp;(aa) requiring the Secretary to assign the loan and security instruments to the Secretary of the Interior, if the Secretary of the Interior agrees to an assignment releasing the Secretary of Agriculture from all further responsibility for collection of any amounts with regard to the loan secured by the real property; or
 
 &emsp;&emsp;(bb) requiring the Secretary to assign the loan and security instruments to the tribe having jurisdiction over the reservation in which the real property is located, if the tribe agrees to the assignment.
 
@@ -278,7 +278,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 (B) Releases under such paragraph shall be made to qualified borrowers who have responded to the notice within 30 days after receipt.
 
-(C) Within 12 months after a borrower has requested restructuring under section 2001 of this title, the Secretary shall make a final determination on the request. Notwithstanding the 12-month limitation provided for in paragraph (3), releases shall continue to be made to the borrower until a denial or dismissal of the application of the borrower for restructuring under section 2001 of this title is made. The amount ofessential household and farm operating expenses which may be released to any borrower eligible for such releases after 12 months may exceed $18,000, by an amount proportionate to the period of time beyond 12 months before a final determination is made by the Secretary.
+(C) Within 12 months after a borrower has requested restructuring under section 2001 of this title, the Secretary shall make a final determination on the request. Notwithstanding the 12-month limitation provided for in paragraph (3), releases shall continue to be made to the borrower until a denial or dismissal of the application of the borrower for restructuring under section 2001 of this title is made. The amount of essential household and farm operating expenses which may be released to any borrower eligible for such releases after 12 months may exceed $18,000, by an amount proportionate to the period of time beyond 12 months before a final determination is made by the Secretary.
 
 (6) If a borrower is required to plan for or to report on how proceeds from the sale of collateral property will be used, the Secretary shall—
 
@@ -372,7 +372,7 @@ Subsec. (e)(4). Pub. L. 104–127, §638(3)(E), redesignated par. (7) as (4). Fo
 
 Subsec. (e)(5). Pub. L. 104–127, §638(3)(D), (E), redesignated par. (8) as (5) and struck out former par. (5) which read as follows:
 
-“(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable for sale under subsection (c) of this section. Such land shall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under section 1925 of this title.
+“(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable forsale under subsection (c) of this section. Such land shall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under section 1925 of this title.
 
 “(B) The Secretary shall dispose of such subdivided farmland in accordance with this subsection.”
 
@@ -412,7 +412,7 @@ Subsec. (g)(5). Pub. L. 104–127, §639(3), struck out par. (5) which read as f
 
 &emsp;“(A) establish wetland conservation easements on wetland that was converted prior to December 23, 1985, in a quantity that is less than 10 percent of the existing croplands available for production of agricultural commodities on the particular parcel; and
 
-&emsp;“(B) if the reduction provided in subparagraph (A) is not applicable, or is not sufficient to ensure thatthe particular parcel would be a marketable agricultural production unit, amend the wetland conservation easements established on the wetlands that have been frequently planted to agricultural commodities to permit the production of agricultural commodities (consistent with title XII of the Food Security Act of 1985) on the wetlands, to the extent necessary to maintain the parcel as a marketable agricultural production unit.”
+&emsp;“(B) if the reduction provided in subparagraph (A) is not applicable, or is not sufficient to ensure that the particular parcel would be a marketable agricultural production unit, amend the wetland conservation easements established on the wetlands that have been frequently planted to agricultural commodities to permit the production of agricultural commodities (consistent with title XII of the Food Security Act of 1985) on the wetlands, to the extent necessary to maintain the parcel as a marketable agricultural production unit.”
 
 Subsec. (g)(6), (7). Pub. L. 104–127, §639(4), (5), redesignated pars. (6) and (7) as (3) and (4), respectively.
 
@@ -434,7 +434,7 @@ Subsec. (e)(1)(F). Pub. L. 102–237, §501(f)(2), added subpar. (F).
 
 Subsec. (c)(1). Pub. L. 101–624, §2303(c)(2), inserted “or the Rural Development Administration” after “Farmers Home Administration”.
 
-Subsec. (c)(2)(A), (B). Pub. L. 101–624, §1813(e)(1), added subpar. (A) and subpar. (B) introductory provisions, redesignated former subpars. (A) through (D) as cls. (i) through (iv), respectively, of subpar. (B), and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the Secretary shall sell suitable farmland administered under this subchapter to operators (as of the time immediately after such contract for sale or lease is entered into) of not larger than family sized farms, as determined by the county committee. In selling such land, the county committee shall—”.
+Subsec. (c)(2)(A), (B). Pub. L. 101–624, §1813(e)(1), added subpar. (A) and subpar. (B) introductory provisions, redesignated former subpars. (A) through (D) ascls. (i) through (iv), respectively, of subpar. (B), and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the Secretary shall sell suitable farmland administered under this subchapter to operators (as of the time immediately after such contract for sale or lease is entered into) of not larger than family sized farms, as determined by the county committee. In selling such land, the county committee shall—”.
 
 Subsec. (c)(2)(B)(ii). Pub. L. 101–624, §1813(g)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “offer suitable land at a price not greater than that which reflects the appraised market value of such land;”.
 
@@ -502,7 +502,7 @@ Amendment by section 638 of Pub. L. 104–127 effective Apr. 4, 1996, but not ap
 
 #### Effective Date of 1992 Amendment
 
-Section 516(h)(2) of Pub. L. 102–552 provided that: “The amendments made by paragraph (1) of this subsection \[amending section 501(f) of Pub. L. 102–237, see 1992 Amendment note above\] shall take effect immediately after section 501(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[probably should be Food, Agriculture, Conservation, and Trade Act Amendments of 1991 \[Pub. L. 102–237\]\] took effect.”
+Section 516(h)(2) of Pub. L. 102–552 provided that: “The amendments made by paragraph (1) of this subsection \[amending section 501(f) of Pub. L. 102–237, see1992 Amendment note above\] shall take effect immediately after section 501(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[probably should be Food, Agriculture, Conservation, and Trade Act Amendments of 1991 \[Pub. L. 102–237\]\] took effect.”
 
 #### Effective Date of 1990 Amendment
 

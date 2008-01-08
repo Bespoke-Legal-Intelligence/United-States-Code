@@ -6,7 +6,7 @@ No grant may be made under this part, and no contract may be entered into under 
 
 #### (b) Special rule
 
-Each applicant for a grant or contract under this part shall submit the application for comment to the local educational agency serving students who will participate in the program to be carried out under the grant or contract, and include those comments, if any, with the application to the Secretary.
+Each applicant for a grant or contract under this part shall submit the application for comment to the local educational agency serving students who will participate in the program tobe carried out under the grant or contract, and include those comments, if any, with the application to the Secretary.
 
 (Pub. L. 89–10, title VII, §7206, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1941.)
 

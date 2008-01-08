@@ -10,7 +10,7 @@ Not later than September 30, 2004, the Secretary shall promulgate such regulatio
 
 #### (c) Partnerships with States
 
-In promulgating the regulations, the Secretary shall, to the maximum extent practicable, enter into partnerships with States withenforcement infrastructure to assist in the administration of this subchapter.
+In promulgating the regulations, the Secretary shall, to the maximum extent practicable, enter into partnerships with States with enforcement infrastructure to assist in the administration of this subchapter.
 
 (Aug. 14, 1946, ch. 966, title II, §284, as added Pub. L. 107–171, title X, §10816, May 13, 2002, 116 Stat. 535.)
 

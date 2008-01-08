@@ -1,7 +1,5 @@
 ### \[§§5891 to 5906. Repealed. Pub. L. 103–337, div. A, title XVI, §1629(b)(2), Oct. 5, 1994, 108 Stat. 2963\]
 
-§5906
-
 Section 5891, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1499; amended Pub. L. 90–130, §1(20)(A), Nov. 8, 1967, 81 Stat. 379; Pub. L. 96–513, title V, §503(32), Dec. 12, 1980, 94 Stat. 2913; Pub. L. 98–525, title V, §533(e), Oct. 19, 1984, 98 Stat. 2528, related to officers in active status in Naval Reserve and Marine Corps Reserve who could be promoted under this chapter. See section 14301 et seq. of this title.
 
 Section 5892, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1500; amended Pub. L. 96–513, title V, §503(33), Dec. 12, 1980, 94 Stat. 2914; Pub. L. 104–106, div. A, title XV, §1501(c)(27), Feb. 10, 1996, 110 Stat. 500, related to numbers of officers in each grade in Naval Reserve and Marine Corps Reserve that could be promoted. See section 14001 et seq. of this title.
@@ -45,6 +43,4 @@ Section 5906, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1506; am
 #### Effective Date of Repeal
 
 Repeal effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
-
-§5907
 

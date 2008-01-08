@@ -1,5 +1,5 @@
 
-3 U.S.C.<br>United States Code, 2006 Edition<br>Title 3 - THE PRESIDENT<br>From the U.S. Government Publishing Office, www.gpo.gov
+3 U.S.C.<br>United States Code, 2007 Edition<br>Title 3 - THE PRESIDENT<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 3—THE PRESIDENT
 

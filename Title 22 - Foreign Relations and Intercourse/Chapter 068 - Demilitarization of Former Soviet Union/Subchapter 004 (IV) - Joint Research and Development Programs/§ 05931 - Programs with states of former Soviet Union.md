@@ -10,7 +10,7 @@ The Congress encourages the Secretary of Defense to participate actively in join
 
 &emsp;(4) To provide access for United States businesses to sophisticated new technologies, talented researchers, and potential new markets within the independent states of the former Soviet Union.
 
-&emsp;(5) To provide productive research and development opportunities within the independent states of the former Soviet Union that offer scientists and engineers alternatives to emigration and help prevent proliferation of weapons technologies and the dissolution of the technological infrastructure of those states.
+&emsp;(5) To provide productive research and development opportunities within the independent states of the former Soviet Union that offerscientists and engineers alternatives to emigration and help prevent proliferation of weapons technologies and the dissolution of the technological infrastructure of those states.
 
 (Pub. L. 102–484, div. A, title XIV, §1441, Oct. 23, 1992, 106 Stat. 2566; Pub. L. 103–160, div. A, title XI, §1182(c)(4), Nov. 30, 1993, 107 Stat. 1772.)
 

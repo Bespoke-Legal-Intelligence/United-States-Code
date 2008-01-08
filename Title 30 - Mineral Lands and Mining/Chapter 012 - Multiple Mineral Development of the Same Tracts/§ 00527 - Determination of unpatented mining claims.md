@@ -20,7 +20,7 @@ Such notice shall describe the lands covered by such application, offer, permit,
 
 &emsp;(4) Whether such claimant is a locator or purchaser under such location; and
 
-&emsp;(5) The name and address of such claimant and names and addresses so far as known to the claimant of any other person or persons claiming any interest or interests in or under such unpatented mining claim;
+&emsp;(5) The name and address of such claimant and names and addresses so far as known tothe claimant of any other person or persons claiming any interest or interests in or under such unpatented mining claim;
 
 > such failure shall be conclusively deemed (i) to constitute a waiver and relinquishment by such mining claimant of any and all right, title, and interest under such mining claim as to, but only as to, Leasing Act minerals, and (ii) to constitute a consent by such mining claimant that such mining claim and any patent issued therefor, shall be subject to the reservation specified in section 524 of this title, and (iii) to preclude thereafter any assertion by such mining claimant of any right or title to or interest in any Leasing Act mineral by reason of such mining claim.
 

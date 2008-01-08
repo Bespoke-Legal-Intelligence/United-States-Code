@@ -24,7 +24,7 @@ A candidate country should be considered to be an eligible country for purposes 
 
 &emsp;&emsp;(A) encourage citizens and firms to participate in global trade and international capital markets;
 
-&emsp;&emsp;(B) promote private sector growth and the sustainable management of natural resources;
+&emsp;&emsp;(B) promote private sector growth;
 
 &emsp;&emsp;(C) strengthen market forces in the economy; and
 
@@ -32,9 +32,11 @@ A candidate country should be considered to be an eligible country for purposes 
 
 &emsp;(3) investments in the people of such country, particularly women and children, including programs that—
 
-&emsp;&emsp;(A) promote broad-based primary education; and
+&emsp;&emsp;(A) promote broad-based primary education;
 
-&emsp;&emsp;(B) strengthen and build capacity to provide quality public health and reduce child mortality.
+&emsp;&emsp;(B) strengthen and build capacity to provide quality public health and reduce child mortality; and
+
+&emsp;&emsp;(C) promote the protection of biodiversity and the transparent and sustainable management and use of natural resources.
 
 #### (c) Selection by the Board
 
@@ -60,9 +62,15 @@ The criteria and methodology submitted by the Board to Congress and published in
 
 As appropriate, the Board, acting through the Chief Executive Officer, shall review the eligibility criteria and methodology and modify such criteria and methodology in subsequent years consistent with section 7707(b) of this title.
 
-(Pub. L. 108–199, div. D, title VI, §607, Jan. 23, 2004, 118 Stat. 216.)
+(Pub. L. 108–199, div. D, title VI, §607, Jan. 23, 2004, 118 Stat. 216; Pub. L. 110–161, div. J, title VI, §699I(a), Dec. 26, 2007, 121 Stat. 2372.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (c)(2)(C), was in the original “this title”, meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
+
+#### Amendments
+
+2007—Subsec. (b)(2)(B). Pub. L. 110–161, §699I(a)(1), struck out “and the sustainable management of natural resources” after “growth”.
+
+Subsec. (b)(3)(C). Pub. L. 110–161, §699I(a)(2), added subpar. (C).
 

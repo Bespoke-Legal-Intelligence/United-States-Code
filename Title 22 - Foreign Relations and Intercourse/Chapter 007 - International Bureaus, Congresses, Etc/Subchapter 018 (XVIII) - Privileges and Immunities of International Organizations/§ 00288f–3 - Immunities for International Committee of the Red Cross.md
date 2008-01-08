@@ -10,5 +10,5 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 #### Executive Order
 
-For executive orders relating to extension of certain privileges, exemptions, and immunities to public international organizations, see notes set out under section 288 of this title.
+For executive orders designating certain international organizations as public international organizations entitled to enjoy the privileges, exemptions, and immunities conferred by the International Organizations Immunities Act (this subchapter), see notes set out under section 288 of this title.
 

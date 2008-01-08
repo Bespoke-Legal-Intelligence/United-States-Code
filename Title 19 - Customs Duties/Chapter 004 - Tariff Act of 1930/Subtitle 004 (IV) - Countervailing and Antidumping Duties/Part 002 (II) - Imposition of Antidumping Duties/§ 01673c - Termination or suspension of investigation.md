@@ -6,7 +6,7 @@
 
 #### (A) Withdrawal of petition
 
-&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may be terminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner orby the administering authority if the investigation was initiated under section 1673a(a) of this title.
+&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may be terminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner or by the administering authority if the investigation was initiated under section 1673a(a) of this title.
 
 #### (B) Refiling of petition
 
@@ -120,7 +120,7 @@ Before an investigation may be suspended under subsection (b) or (c) of this sec
 
 &emsp;&emsp;&emsp;(ii) if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case with respect to such merchandise, that suspension of liquidation shall terminate, and
 
-&emsp;&emsp;&emsp;(iii) the administering authority shall refund any cash deposit and release any bond or other security deposited under section 1673b(d)(1)(B) of this title.
+&emsp;&emsp;&emsp;(iii) the administering authority shall refund any cash deposit and release anybond or other security deposited under section 1673b(d)(1)(B) of this title.
 
 #### (B) Other agreements
 
@@ -182,7 +182,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 &emsp;&emsp;(B) if the investigation was not completed, resume the investigation as if its affirmative preliminary determination were made on the date of its determination under this paragraph,
 
-&emsp;&emsp;(C) if the investigation was completed under subsection (g) of this section, issue an antidumping duty order under section 1673e(a) of this title effective with respect to entries of merchandise liquidation of which was suspended,
+&emsp;&emsp;(C) if the investigation was completed under subsection (g) of this section, issue anantidumping duty order under section 1673e(a) of this title effective with respect to entries of merchandise liquidation of which was suspended,
 
 &emsp;&emsp;(D) if it considers the violation to be intentional, notify the Commissioner of Customs who shall take appropriate action under paragraph (2), and
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, andto reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

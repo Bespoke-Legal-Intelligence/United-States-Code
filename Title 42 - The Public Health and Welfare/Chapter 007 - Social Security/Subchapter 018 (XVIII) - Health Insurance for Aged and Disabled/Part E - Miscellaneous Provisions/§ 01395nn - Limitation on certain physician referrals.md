@@ -36,7 +36,7 @@ Subsection (a)(1) of this section shall not apply in the following cases:
 
 &emsp;&emsp;&emsp;(i) personally by the referring physician, personally by a physician who is a member of the same group practice as the referring physician, or personally by individuals who are directly supervised by the physician or by another physician in the group practice, and
 
-&emsp;&emsp;&emsp;(ii)(I) in a building in which the referring physician (or another physician who is a member of the same group practice) furnishes physicians’ services unrelated tothe furnishing of designated health services, or
+&emsp;&emsp;&emsp;(ii)(I) in a building in which the referring physician (or another physician who is a member of the same group practice) furnishes physicians’ services unrelated to the furnishing of designated health services, or
 
 &emsp;&emsp;&emsp;(II) in the case of a referring physician who is a member of a group practice, in another building which is used by the group practice—
 
@@ -152,7 +152,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (2) Bona fide employment relationships
 
-&emsp;Any amount paid by an employer to a physician (or an immediate family member of such physician) who has a bona fide employment relationship with the employer for the provision of services if—
+&emsp;Any amount paid by an employer to a physician (or an immediate family member of suchphysician) who has a bona fide employment relationship with the employer for the provision of services if—
 
 &emsp;&emsp;(A) the employment is for identifiable services,
 
@@ -192,7 +192,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a physician incentive plan (as defined in clause (ii)) between a physician and an entity, the compensation maybe determined in a manner (through a withhold, capitation, bonus, or otherwise) that takes into account directly or indirectly the volume or value of any referrals or other business generated between the parties, if the plan meets the following requirements:
+&emsp;&emsp;&emsp;In the case of a physician incentive plan (as defined in clause (ii)) between a physician and an entity, the compensation may be determined in a manner (through a withhold, capitation, bonus, or otherwise) that takes into account directly or indirectly the volume or value of any referrals or other business generated between the parties, if the plan meets the following requirements:
 
 &emsp;&emsp;&emsp;&emsp;(I) No specific payment is made directly or indirectly under the plan to a physician or a physician group as an inducement to reduce or limit medically necessary services provided with respect to a specific individual enrolled with the entity.
 
@@ -222,7 +222,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;In the case of an isolated financial transaction, such as a one-time sale of property or practice, if—
 
-&emsp;&emsp;(A) the requirements described in subparagraphs (B) and (C) of paragraph (2) are met with respect to the entity in the same manner as they apply to an employer, and
+&emsp;&emsp;(A) the requirements described in subparagraphs (B) and (C) of paragraph (2) are metwith respect to the entity in the same manner as they apply to an employer, and
 
 &emsp;&emsp;(B) the transaction meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
@@ -280,7 +280,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (4) Civil money penalty and exclusion for circumvention schemes
 
-&emsp;Any physician or other entity that enters into an arrangement or scheme (such as a cross-referral arrangement) which the physician or entity knows or should know has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of this section, shall be subject to a civil money penalty of not more than $100,000 for each such arrangement or scheme. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;Any physician or other entity that enters into an arrangement or scheme (such as a cross-referral arrangement) which the physician or entity knows or should know has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of this section, shall be subject to a civil money penalty of not more than $100,000 for each such arrangement or scheme. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penaltyor proceeding under section 1320a–7a(a) of this title.
 
 #### (5) Failure to report information
 
@@ -382,7 +382,7 @@ For purposes of this section:
 
 #### (C) Clarification respecting certain services integral to a consultation by certain specialists
 
-&emsp;&emsp;A request by a pathologist for clinical diagnostic laboratory tests and pathologicalexamination services, a request by a radiologist for diagnostic radiology services, and a request by a radiation oncologist for radiation therapy, if such services are furnished by (or under the supervision of) such pathologist, radiologist, or radiation oncologist pursuant to a consultation requested by another physician does not constitute a “referral” by a “referring physician”.
+&emsp;&emsp;A request by a pathologist for clinical diagnostic laboratory tests and pathological examination services, a request by a radiologist for diagnostic radiology services, and a request by a radiation oncologist for radiation therapy, if such services are furnished by (or under the supervision of) such pathologist, radiologist, or radiation oncologist pursuant to a consultation requested by another physician does not constitute a “referral” by a “referring physician”.
 
 #### (6) Designated health services
 
@@ -438,7 +438,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(iii) for which the type of categories described in subparagraph (A) at any time on or after such date is no different than the type of such categories as of such date;
 
-&emsp;&emsp;&emsp;(iv) for which any increase in the number of beds occurs only in the facilities on the main campus of the hospital and does not exceed 50 percent of the number of beds in the hospital as of November 18, 2003, or 5 beds, whichever is greater; and
+&emsp;&emsp;&emsp;(iv) for which any increase in the number of beds occurs only in the facilities on the main campus of the hospital and does notexceed 50 percent of the number of beds in the hospital as of November 18, 2003, or 5 beds, whichever is greater; and
 
 &emsp;&emsp;&emsp;(v) that meets such other requirements as the Secretary may specify.
 
@@ -496,7 +496,7 @@ Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec
 
 1990—Subsec. (b)(4), (5). Pub. L. 101–508, §4207(e)(2), formerly §4027(e)(2), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “October 1, 1991” for “1 year after December 19, 1989” in second sentence and inserted at end “The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type.”
+Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “October 1, 1991” for “1 year after December 19, 1989” in second sentence andinserted at end “The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type.”
 
 Subsec. (f)(2). Pub. L. 101–508, §4207(e)(3)(A), formerly §4027(e)(3)(A), as renumbered by Pub. L. 103–432, §160(d)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the names and all of the medicare provider numbers of the physicians who are interested investors or who are immediate relatives of interested investors.”
 

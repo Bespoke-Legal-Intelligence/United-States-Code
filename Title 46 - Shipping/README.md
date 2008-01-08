@@ -1,5 +1,5 @@
 
-46 U.S.C.<br>United States Code, 2006 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
+46 U.S.C.<br>United States Code, 2007 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 46—SHIPPING
 

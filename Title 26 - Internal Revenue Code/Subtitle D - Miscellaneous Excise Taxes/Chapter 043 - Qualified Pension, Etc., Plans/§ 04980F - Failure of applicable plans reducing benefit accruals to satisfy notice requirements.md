@@ -54,7 +54,7 @@ The following shall be liable for the tax imposed by subsection (a):
 
 #### (1) In general
 
-&emsp;If an applicable pension plan is amended to provide for a significant reduction in the rate of future benefit accrual, the plan administrator shall provide the notice described in paragraph (2) to each applicable individual (and to each employee organization representing applicable individuals).
+&emsp;If an applicable pension plan is amended to provide for a significant reduction in the rate of future benefit accrual, the plan administrator shall provide the notice described in paragraph (2) to each applicable individual (and to each employee organization representing applicable individuals) and to each employer who has an obligation to contribute to the plan.
 
 #### (2) Notice
 
@@ -110,11 +110,9 @@ The Secretary may by regulations allow any notice under subsection (e) to be pro
 
 (Added Pub. L. 107–16, title VI, §659(a)(1), June 7, 2001, 115 Stat. 137; amended Pub. L. 107–147, title IV, §411(u)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title V, §502(c)(2), Aug. 17, 2006, 120 Stat. 941.)
 
-#### Amendment of Subsection (e)(1)
-
-<i>Pub. L. 109–280, title V, §502(c)(2), (d), Aug. 17, 2006, 120 Stat. 941, provided that, applicable to plan years beginning after Dec. 31, 2007, subsection (e)(1) of this section is amended by inserting “and to each employer who has an obligation to contribute to the plan” before the period at the end.</i>
-
 #### Amendments
+
+2006—Subsec. (e)(1). Pub. L. 109–280 inserted “and to each employer who has an obligation to contribute to the plan” before period at end.
 
 2002—Subsec. (e)(1). Pub. L. 107–147, §411(u)(1)(A), substituted “the notice described in paragraph (2)” for “written notice”.
 

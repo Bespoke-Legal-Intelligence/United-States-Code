@@ -142,7 +142,7 @@ The Secretary may award grants to, and enter into contracts with, States or publ
 
 #### (3) Risk and safety assessment tools
 
-&emsp;The Secretary may award grants under this subsection to entities for projects that provide for the development of research-based strategies for risk and safety assessments relating to child abuse and neglect.
+&emsp;The Secretary may award grants under this subsection to entities for projects that providefor the development of research-based strategies for risk and safety assessments relating to child abuse and neglect.
 
 #### (4) Training
 
@@ -254,7 +254,11 @@ Subsecs. (b), (c). Pub. L. 98–457, §105(c), redesignated subsec. (c) as (b) a
 
 Subsec. (b). Pub. L. 95–266, §105(3), substituted provisions relating to review of the plan by the Advisory Board and submission to the President and Congress of a final plan, for provisions relating to a report by the Advisory Board on assisted programs, etc., and submission to the President and Congress.
 
-Subsec. (c). Pub. L. 95–266, §105(3), substituted provisions setting forth compensation and travel expense allowance authorizations for members of the Board, forprovisions authorizing use of appropriated funds for required report.
+Subsec. (c). Pub. L. 95–266, §105(3), substituted provisions setting forth compensation and travel expense allowance authorizations for members of the Board, for provisions authorizing use of appropriated funds for required report.
+
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Child Abuse and Disability
 

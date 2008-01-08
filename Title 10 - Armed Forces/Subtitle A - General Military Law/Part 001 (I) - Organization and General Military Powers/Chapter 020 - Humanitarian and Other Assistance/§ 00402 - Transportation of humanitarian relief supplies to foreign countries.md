@@ -50,6 +50,10 @@ Subsecs. (d), (e). Pub. L. 108–136, §312(a), added subsec. (d) and redesignat
 
 1990—Subsec. (d). Pub. L. 101–510 substituted “Not later than July 31 each year” for “At the end of each six-month period” and “the 12-month period ending on the preceding June 30” for “such six-month period”.
 
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of Title 22, Foreign Relations and Intercourse.
@@ -60,7 +64,7 @@ Pub. L. 106–309, title IV, §403, Oct. 17, 2000, 114 Stat. 1097, provided that
 
 “(a)
 
-Priority for Disaster Relief Assistance.—In processing applications for the transportation of humanitarian assistance abroad under section 402 of title 10, United States Code, the Administrator of the United States Agency for International Development shall afford a priority to applications for the transportation of disaster relief assistance.
+Priority for Disaster Relief Assistance.—In processing applications for the transportation of humanitarian assistance abroad under section 402 of title 10, United States Code, the Administrator of the UnitedStates Agency for International Development shall afford a priority to applications for the transportation of disaster relief assistance.
 
 “(b)
 

@@ -120,7 +120,7 @@ Agency.—The term ‘Agency’ means the United States Agency for International
 
 Designated congressional committees.—The term ‘designated congressional committees’ means—
 
-&emsp;&emsp;“(A) the Committee on International Relations and the Committee on Small Business of the House of Representatives; and
+&emsp;&emsp;“(A) the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Small Business of the House of Representatives; and
 
 &emsp;&emsp;“(B) the Committee on Foreign Relations and the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate.”
 

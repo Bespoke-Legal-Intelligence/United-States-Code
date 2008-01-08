@@ -4,7 +4,7 @@
 
 #### (1) Suspension of payments
 
-&emsp;The Corporation may in accordance with the provisions of this subchapter, suspend or terminate payments under a contract or grant providing assistance under this subchapter, or revoke the designation of positions, related to the grant or contract, as approved national service positions, whenever the Corporation determines there is a material failure to comply with this subchapter or the applicableterms and conditions of any such grant or contract issued pursuant to this subchapter.
+&emsp;The Corporation may in accordance with the provisions of this subchapter, suspend or terminate payments under a contract or grant providing assistance under this subchapter, or revoke the designation of positions, related to the grant or contract, as approved national service positions, whenever the Corporation determines there is a material failure to comply with this subchapter or the applicable terms and conditions of any such grant or contract issued pursuant to this subchapter.
 
 #### (2) Procedures to ensure assistance
 
@@ -94,7 +94,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 &emsp;&emsp;(C) prohibition of the placement described in paragraph (5); and
 
-&emsp;&emsp;(D) in a case in which the grievance involves a violation of subsection (a) or (b) of section 12637 of this title and the employerof the displaced employee is the recipient of assistance under this subchapter—
+&emsp;&emsp;(D) in a case in which the grievance involves a violation of subsection (a) or (b) of section 12637 of this title and the employer of the displaced employee is the recipient of assistance under this subchapter—
 
 &emsp;&emsp;&emsp;(i) reinstatement of the displaced employee to the position held by such employee prior to displacement;
 

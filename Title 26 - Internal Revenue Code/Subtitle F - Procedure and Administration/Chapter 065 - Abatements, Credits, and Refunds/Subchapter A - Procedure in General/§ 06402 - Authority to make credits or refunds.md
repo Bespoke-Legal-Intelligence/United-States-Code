@@ -128,7 +128,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (f) Review of reductions
 
-No court of the United States shall have jurisdiction to hear any action, whether legal orequitable, brought to restrain or review a reduction authorized by subsection (c), (d), or (e). No such reduction shall be subject to review by the Secretary in an administrative proceeding. No action brought against the United States to recover the amount of any such reduction shall be considered to be a suit for refund of tax. This subsection does not preclude any legal, equitable, or administrative action against the Federal agency or State to which the amount of such reduction was paid or any such action against the Commissioner of Social Security which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act.
+No court of the United States shall have jurisdiction to hear any action, whether legal or equitable, brought to restrain or review a reduction authorized by subsection (c), (d), or (e). No such reduction shall be subject to review by the Secretary in an administrative proceeding. No action brought against the United States to recover the amount of any such reduction shall be considered to be a suit for refund of tax. This subsection does not preclude any legal, equitable, or administrative action against the Federal agency or State to which the amount of such reduction was paid or any such action against the Commissioner of Social Security which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act.
 
 #### (g) Federal agency
 
@@ -168,7 +168,7 @@ The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), and (f), i
 
 1998—Subsec. (a). Pub. L. 105–206, §3711(c)(1), substituted “(c), (d), and (e)” for “(c) and (d)”.
 
-Subsec. (d)(2). Pub. L. 105–206, §3711(c)(2), substituted “and before such overpayment is reduced pursuant to subsection (e) and before such overpayment” for “and before such overpayment”.
+Subsec. (d)(2). Pub. L. 105–206, §3711(c)(2), substituted “and before such overpayment is reduced pursuant tosubsection (e) and before such overpayment” for “and before such overpayment”.
 
 Subsec. (e). Pub. L. 105–206, §3711(a), added subsec. (e). Former subsec. (e) redesignated (f).
 
@@ -192,7 +192,7 @@ Subsec. (k). Pub. L. 105–206, §3711(a), redesignated subsec. (j) as (k).
 
 Subsec. (e). Pub. L. 104–193, §110(<i>l</i>)(7)(C), which directed amendment by adding subsec. (e), reading as follows: “
 
-Collection of Overpayments Under Title IV–A of the Social Security Act.—The amount of any overpayment to be refunded to the person making the overpayment shall be reduced (after reductions pursuant to subsections (c) and (d), but before a credit against future liability for an internal revenue tax) inaccordance with section 405(e) of the Social Security Act (concerning recovery of overpayments to individuals under State plans approved under part A of title IV of such Act).”, was repealed by Pub. L. 105–33.
+Collection of Overpayments Under Title IV–A of the Social Security Act.—The amount of any overpayment to be refunded to the person making the overpayment shall be reduced (after reductions pursuant to subsections (c) and (d), but before a credit against future liability for an internal revenue tax) in accordance with section 405(e) of the Social Security Act (concerning recovery of overpayments to individuals under State plans approved under part A of title IV of such Act).”, was repealed by Pub. L. 105–33.
 
 Subsec. (f). Pub. L. 104–193, §110(<i>l</i>)(7)(B), which directed amendment by redesignating subsec. (e) as (f), was repealed by Pub. L. 105–33.
 

@@ -50,7 +50,7 @@
 
 &emsp;A regulation issued under this subsection may require any person that is subject to the regulation to—
 
-&emsp;&emsp;(A) arrange to make available one or more storage facilities to receive and store thepesticide to which the recall program applies, and inform the Administrator of the location of each such facility;
+&emsp;&emsp;(A) arrange to make available one or more storage facilities to receive and store the pesticide to which the recall program applies, and inform the Administrator of the location of each such facility;
 
 &emsp;&emsp;(B) accept and store at such a facility those existing stocks of such pesticide that are tendered by any other person who obtained the pesticide directly or indirectly from the person that is subject to such regulation;
 
@@ -126,7 +126,7 @@
 
 #### (2) Compliance
 
-&emsp;The Administrator shall require compliance with the regulations referred to in paragraph\(1) not later than 5 years after the effective date of this subsection.
+&emsp;The Administrator shall require compliance with the regulations referred to in paragraph (1) not later than 5 years after the effective date of this subsection.
 
 #### (f) Pesticide residue removal
 

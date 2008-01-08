@@ -135,7 +135,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;The term “imported taxable product” means any product (other than an ozone-depleting chemical) entered into the United States for consumption, use, or warehousing if anyozone-depleting chemical was used as material in the manufacture or production of such product.
+&emsp;The term “imported taxable product” means any product (other than an ozone-depleting chemical) entered into the United States for consumption, use, or warehousing if any ozone-depleting chemical was used as material in the manufacture or production of such product.
 
 #### (2) De minimis exception
 
@@ -229,7 +229,7 @@ For purposes of this subchapter—
 
 #### (1) Fractional parts of a pound
 
-&emsp;In the case of a fraction of a pound, the tax imposed by this subchapter shall be the same fraction of the amount of such tax imposed on a whole pound.
+&emsp;In the case of a fraction of a pound, the tax imposed by this subchapter shall be the samefraction of the amount of such tax imposed on a whole pound.
 
 #### (2) Disposition of revenues from Puerto Rico and the Virgin Islands
 

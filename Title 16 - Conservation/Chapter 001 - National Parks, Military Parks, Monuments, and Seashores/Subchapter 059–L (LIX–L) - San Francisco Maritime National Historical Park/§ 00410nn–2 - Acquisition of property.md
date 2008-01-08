@@ -16,7 +16,7 @@ Lands, and interests in lands, within the boundaries of the park which are owned
 
 (1)
 
-Historic vessels and other property.—In furtherance of the administration of the park, the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, or exchange such property as may be appropriate to carry out the purposes of this subchapter, including vessels, heavy marine equipment, and drydock facilities. The Secretary shall notify the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate in writing not less than 90 days before acquisition of any large historic vessel. Such notification shall indicate the estimated cost of preservation, restoration if appropriate, and maintenance of the vessel concerned.
+Historic vessels and other property.—In furtherance of the administration of the park,the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, or exchange such property as may be appropriate to carry out the purposes of this subchapter, including vessels, heavy marine equipment, and drydock facilities. The Secretary shall notify the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate in writing not less than 90 days before acquisition of any large historic vessel. Such notification shall indicate the estimated cost of preservation, restoration if appropriate, and maintenance of the vessel concerned.
 
 (2)
 
@@ -27,8 +27,4 @@ Acquisition Limitation.—The Secretary shall not acquire any historic vessel pu
 #### Amendments
 
 1994—Subsec. (d)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

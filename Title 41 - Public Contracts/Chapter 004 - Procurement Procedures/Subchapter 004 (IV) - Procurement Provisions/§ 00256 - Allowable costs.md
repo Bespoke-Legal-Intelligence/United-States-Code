@@ -6,7 +6,7 @@ An executive agency shall require that a covered contract provide that if the co
 
 #### (b) Penalty for violation of cost principle
 
-(1) If the executive agency determines that a cost submitted by a contractor in its proposal for settlement is expressly unallowable under a cost principle referred to in subsection (a) of this section that defines the allowability of specific selected costs, the executive agency shallassess a penalty against the contractor in an amount equal to—
+(1) If the executive agency determines that a cost submitted by a contractor in its proposal for settlement is expressly unallowable under a cost principle referred to in subsection (a) of this section that defines the allowability of specific selected costs, the executive agency shall assess a penalty against the contractor in an amount equal to—
 
 &emsp;(A) the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted; plus
 
@@ -194,7 +194,7 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 (5)(A) Except as provided in subparagraph (C), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the United States or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if such costs are not disallowable under paragraph (1), but only to the extent provided in subparagraph (B).
 
-(B)(i) The amount of the costs allowable under subparagraph (A) in any case may not exceed the amount equal to 80 percent of the amount of the costs incurred, to the extent that such costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
+(B)(i) The amount of the costs allowable under subparagraph (A) in any case may not exceed the amount equal to 80 percent of the amount ofthe costs incurred, to the extent that such costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
 
 (ii) Regulations issued for the purpose of clause (i) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the United States as a party, and such other factors as may be appropriate.
 
@@ -222,7 +222,7 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 #### (<i>l</i>) “Covered contract” defined
 
-(1) In this section, the term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by an executive agency, except that such term does not include a fixed-price contract without cost incentives orany firm, fixed price contract for the purchase of commercial items.
+(1) In this section, the term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by an executive agency, except that such term does not include a fixed-price contract without cost incentives or any firm, fixed price contract for the purchase of commercial items.
 
 (2) Effective on October 1 of each year that is divisible by five, the amount set forth in paragraph (1) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
@@ -272,7 +272,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date
 
-Section effective with respect to contracts awarded after Nov. 19, 1988, see section 8(e) of Pub. L. 100–700, set out as an Effective and Termination Dates of 1988 Amendment note under section 2324 of Title 10, Armed Forces.
+Section effective with respect to contracts awarded after Nov. 19, 1988, see section 8(e) of Pub. L. 100–700, setout as an Effective and Termination Dates of 1988 Amendment note under section 2324 of Title 10, Armed Forces.
 
 #### Revision of Cost Principle Relating to Entertainment, Gift, and Recreation Costs for Contractor Employees
 

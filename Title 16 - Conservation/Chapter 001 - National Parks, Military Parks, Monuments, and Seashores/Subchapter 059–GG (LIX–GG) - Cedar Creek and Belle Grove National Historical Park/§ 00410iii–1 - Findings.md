@@ -2,7 +2,7 @@
 
 Congress finds the following:
 
-&emsp;(1) The Battle of Cedar Creek, also known as the battle of Belle Grove, was a major event ofthe Civil War and the history of this country. It represented the end of the Civil War's Shenandoah Valley campaign of 1864 and contributed to the reelection of President Abraham Lincoln and the eventual outcome of the war.
+&emsp;(1) The Battle of Cedar Creek, also known as the battle of Belle Grove, was a major event of the Civil War and the history of this country. It represented the end of the Civil War's Shenandoah Valley campaign of 1864 and contributed to the reelection of President Abraham Lincoln and the eventual outcome of the war.
 
 &emsp;(2) 2,500 acres of the Cedar Creek Battlefield and Belle Grove Plantation were designated a national historic landmark in 1969 because of their ability to illustrate and interpret important eras and events in the history of the United States. The Cedar Creek Battlefield, Belle Grove Manor House, the Heater House, and Harmony Hall (a National Historic Landmark) are also listed on the Virginia Landmarks Register.
 

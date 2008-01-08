@@ -74,7 +74,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (III) Grandfather provision
 
-&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the recertification under subclause (I) shall only apply with respect to the eligibility of an alien for a program for months beginning on or after the date of recertification, if on August 22, 1996, the alien is lawfully residing in any State and is receiving benefits under such program on August 22, 1996.
+&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the recertification under subclause (I) shall only apply with respect to the eligibility of an alien for a program formonths beginning on or after the date of recertification, if on August 22, 1996, the alien is lawfully residing in any State and is receiving benefits under such program on August 22, 1996.
 
 #### (E) Aliens receiving SSI on August 22, 1996
 
@@ -154,7 +154,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law and except as provided in section 1613 of this title and paragraph (2), a State is authorized to determine the eligibility of an alien who is a qualified alien (as defined in section 1641 of this title) for any designated Federal program (as defined in paragraph (3)).
+&emsp;Notwithstanding any other provision of law and except as provided in section 1613 of this title and paragraph (2), a State is authorized to determine the eligibility of an alien who isa qualified alien (as defined in section 1641 of this title) for any designated Federal program (as defined in paragraph (3)).
 
 #### (2) Exceptions
 
@@ -240,7 +240,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### References in Text
 
-Section 243 of such Act, referred to in subsecs. (a)(2)(A)(iii) and (b)(2)(A)(i)(III), (ii)(III), is section 243of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsecs. (a)(2)(A)(iii) and (b)(2)(A)(i)(III), (ii)(III), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsecs. (a)(2)(A)(iv) and (b)(2)(A)(i)(IV), (ii)(IV), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
@@ -255,6 +255,8 @@ The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b
 The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
+This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
 Section 212(b) of Public Law 93–66, referred to in subsec. (a)(3)(A), is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 

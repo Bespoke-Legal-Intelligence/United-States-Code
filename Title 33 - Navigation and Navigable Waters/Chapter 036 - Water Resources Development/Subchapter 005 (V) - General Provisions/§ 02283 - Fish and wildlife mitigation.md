@@ -26,17 +26,69 @@
 
 #### (c) Allocation of mitigation costs
 
-Costs incurred after November 17, 1986, including lands, easements, rights-of-way, and relocations, for implementation and operation, maintenance, and rehabilitation to mitigate damages to fish and wildlife shall be allocated among authorized project purposes in accordance with applicable cost allocation procedures, and shall be subject to cost sharing or reimbursement to the same extent as such other project costs are shared or reimbursed, except that when such costs are covered by contracts entered into prior to November 17, 1986, such costs shall not be recovered without the consent of the non-Federal interests or until such contracts are complied with or renegotiated.
+Costs incurred after November 17, 1986, including lands, easements, rights-of-way, and relocations, for implementation and operation, maintenance, and rehabilitation to mitigate damages to fish and wildlife shall be allocated among authorized project purposes in accordance with applicable cost allocation procedures, and shall be subject to cost sharing or reimbursement to the same extent as such other project costs are shared or reimbursed, except that when such costs are covered by contracts entered into prior to November 17, 1986, such costs shall not be recovered without the consent of the non-Federalinterests or until such contracts are complied with or renegotiated.
 
 #### (d) Mitigation plans as part of project proposals
 
 #### (1) In general
 
-&emsp;After November 17, 1986, the Secretary shall not submit any proposal for the authorization of any water resources project to the Congress unless such report contains (A) a recommendation with a specific plan to mitigate fish and wildlife losses created by such project, or (B) a determination by the Secretary that such project will have negligible adverse impact on fish and wildlife. Specific mitigation plans shall ensure that impacts to bottomland hardwood forests are mitigated in-kind, to the extent possible. In carrying out this subsection, the Secretary shall consult with appropriate Federal and non-Federal agencies.
+&emsp;After November 17, 1986, the Secretary shall not submit any proposal for the authorization of any water resources project to Congress in any report, and shall not select a project alternative in any report, unless such report contains (A) a recommendation with a specific plan to mitigate fish and wildlife losses created by such project, or (B) a determination by the Secretary that such project will have negligible adverse impact on fish and wildlife. Specific mitigation plans shall ensure that impacts to bottomland hardwood forests are mitigated in-kind, and other habitat types are mitigated to not less than in-kind conditions, to the extent possible. In carrying out this subsection, the Secretary shall consult with appropriate Federal and non-Federal agencies.
 
 #### (2) Design of mitigation projects
 
 &emsp;The Secretary shall design mitigation projects to reflect contemporary understanding of the science of mitigating the adverse environmental impacts of water resources projects.
+
+#### (3) Mitigation requirements
+
+#### (A) In general
+
+&emsp;&emsp;To mitigate losses to flood damage reduction capabilities and fish and wildlife resulting from a water resources project, the Secretary shall ensure that the mitigation plan for each water resources project complies with the mitigation standards and policies established pursuant to the regulatory programs administered by the Secretary.
+
+#### (B) Inclusions
+
+&emsp;&emsp;A specific mitigation plan for a water resources project under paragraph (1) shall include, at a minimum—
+
+&emsp;&emsp;&emsp;(i) a plan for monitoring the implementation and ecological success of each mitigation measure, including the cost and duration of any monitoring, and, to the extent practicable, a designation of the entities that will be responsible for the monitoring;
+
+&emsp;&emsp;&emsp;(ii) the criteria for ecological success by which the mitigation will be evaluated and determined to be successful based on replacement of lost functions and values of the habitat, including hydrologic and vegetative characteristics;
+
+&emsp;&emsp;&emsp;(iii) a description of the land and interests in land to be acquired for the mitigation plan and the basis for a determination that the land and interests are available for acquisition;
+
+&emsp;&emsp;&emsp;(iv) a description of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the types and amount of restoration activities to be conducted;
+
+&emsp;&emsp;&emsp;&emsp;(II) the physical action to be undertaken to achieve the mitigation objectives within the watershed in which such losses occur and, in any case in which the mitigation will occur outside the watershed, a detailed explanation for undertaking the mitigation outside the watershed; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the functions and values that will result from the mitigation plan; and
+
+&emsp;&emsp;&emsp;(v) a contingency plan for taking corrective actions in cases in which monitoring demonstrates that mitigation measures are not achieving ecological success in accordance with criteria under clause (ii).
+
+#### (C) Responsibility for monitoring
+
+&emsp;&emsp;In any case in which it is not practicable to identify in a mitigation plan for a water resources project the entity responsible for monitoring at the time of a final report of the Chief of Engineers or other final decision document for the project, such entity shall be identified in the partnership agreement entered into with the non-Federal interest under section 1962d–5b of title 42.
+
+#### (4) Determination of success
+
+#### (A) In general
+
+&emsp;&emsp;A mitigation plan under this subsection shall be considered to be successful at the time at which the criteria under paragraph (3)(B)(ii) are achieved under the plan, as determined by monitoring under paragraph (3)(B)(i).
+
+#### (B) Consultation
+
+&emsp;&emsp;In determining whether a mitigation plan is successful under subparagraph (A), the Secretary shall consult annually with appropriate Federal agencies and each State in which the applicable project is located on at least the following:
+
+&emsp;&emsp;&emsp;(i) The ecological success of the mitigation as of the date on which the report is submitted.
+
+&emsp;&emsp;&emsp;(ii) The likelihood that the mitigation will achieve ecological success, as defined in the mitigation plan.
+
+&emsp;&emsp;&emsp;(iii) The projected timeline for achieving that success.
+
+&emsp;&emsp;&emsp;(iv) Any recommendations for improving the likelihood of success.
+
+#### (5) Monitoring
+
+&emsp;Mitigation monitoring shall continue until it has been demonstrated that the mitigation has met the ecological success criteria.
 
 #### (e) First enhancement costs as Federal costs
 
@@ -58,7 +110,7 @@ Fish and wildlife enhancement measures carried out as part of the project for At
 
 The provisions of subsections (a), (b), and (d) of this section shall be deemed to supplement the responsibility and authority of the Secretary pursuant to the Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], and nothing in this section is intended to affect that Act.
 
-(Pub. L. 99–662, title IX, §906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, §333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, §221, Aug. 17, 1999, 113 Stat. 295; Pub. L. 106–541, title II, §224(a), Dec. 11, 2000, 114 Stat. 2597.)
+(Pub. L. 99–662, title IX, §906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, §333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, §221, Aug. 17, 1999, 113 Stat. 295; Pub. L. 106–541, title II, §224(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, §2036(a), Nov. 8, 2007, 121 Stat. 1092.)
 
 #### References in Text
 
@@ -71,6 +123,10 @@ The Flood Control Act of 1965, referred to in subsec. (f), is title II of Pub. L
 The Fish and Wildlife Coordination Act referred to in subsec. (g), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
 
 #### Amendments
+
+2007—Subsec. (d)(1). Pub. L. 110–114, §2036(a)(1), (2), substituted “to Congress in any report, and shall not select a project alternative in any report,” for “to the Congress” and inserted “, and other habitat types are mitigated to not less than in-kind conditions” after “mitigated in-kind”.
+
+Subsec. (d)(3) to (5). Pub. L. 110–114, §2036(a)(3), added pars. (3) to (5).
 
 2000—Subsec. (d). Pub. L. 106–541 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, realigned margins, substituted “November 17, 1986” for “the date of enactment of this Act”, redesignated former cls. (1) and (2) as (A) and (B), respectively, and added par. (2).
 

@@ -92,7 +92,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (B) Preference for nutrition providers
 
-&emsp;&emsp;In contracting for or otherwise providing for meal services under this paragraph, eachcongregate services program shall give preference to any provider of meal services who—
+&emsp;&emsp;In contracting for or otherwise providing for meal services under this paragraph, each congregate services program shall give preference to any provider of meal services who—
 
 &emsp;&emsp;&emsp;(i) receives assistance under title III of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq.\]; or
 
@@ -164,7 +164,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (B) Other residents and nonresidents
 
-&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housing projects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e) of this section. Such fees shall be in an amount equal to the cost of providing the services.
+&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housingprojects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e) of this section. Such fees shall be in an amount equal to the cost of providing the services.
 
 #### (8) Direct and indirect provision of services
 
@@ -218,7 +218,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;(3) a description of qualifying supportive services that can reasonably be expected to be made available to eligible residents over a 5-year period;
 
-&emsp;(4) a firm commitment from one or more sources of assistance ensuring that some or allof the qualifying supportive services identified under paragraph (3) will be provided for not less than 1 year following the completion of activities assisted under subsection (d) of this section;
+&emsp;(4) a firm commitment from one or more sources of assistance ensuring that some or all of the qualifying supportive services identified under paragraph (3) will be provided for not less than 1 year following the completion of activities assisted under subsection (d) of this section;
 
 &emsp;(5) a description of public or private sources of assistance that are likely to fund or provide qualifying supportive services, including evidence of any intention to provide assistance expressed by State and local governments, private foundations, and other organizations (including for-profit and nonprofit organizations);
 
@@ -282,7 +282,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (B) Exceptions
 
-&emsp;&emsp;(i) For any congregate services program that was receiving assistance under a contract under the Congregate Housing ServicesAct of 1978 \[42 U.S.C. 8001 et seq.\] on November 28, 1990,<sup>6</sup> the unit of general local government or nonprofit housing sponsor, in coordination with a local government with respect to such program shall not be subject to the requirement to provide supplemental contributions under subparagraph (A)(i) (for such program) for the 6-year period beginning on the expiration of the contract for such assistance. The Secretary concerned shall require each such program to maintain, for such 6-year period, the same dollar amount of annual contributions in support of the services eligible for assistance under this section as were contributed to such program during the year preceding November 28, 1990.<sup>6</sup>
+&emsp;&emsp;(i) For any congregate services program that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 28, 1990,<sup>6</sup> the unit of general local government or nonprofit housing sponsor, in coordination with a local government with respect to such program shall not be subject to the requirement to provide supplemental contributions under subparagraph (A)(i) (for such program) for the 6-year period beginning on the expiration of the contract for such assistance. The Secretary concerned shall require each such program to maintain, for such 6-year period, the same dollar amount of annual contributions in support of the services eligible for assistance under this section as were contributed to such program during the year preceding November 28, 1990.<sup>6</sup>
 
 &emsp;&emsp;(ii) To the extent that the limitations under subsection (d)(7) of this section regarding the percentage of income eligible residents may pay for services will result in collected fees for any congregate services program of less than 10 percent of the cost of providing the program, 50 percent of such remaining costs shall be provided by the recipient of amounts under the contract and 50 percent of such remaining costs shall be provided by the Secretary concerned under such contract.
 
@@ -320,7 +320,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (3) Eligibility and priority for 1978 Act recipients
 
-&emsp;Notwithstanding any other provision of this section, any public housing agency, housing assisted under section 1701q of title 12, or nonprofit corporation that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 5, 1990,<sup>8</sup> shall (subject to approval and allocation of sufficient amounts under the Congregate Housing Services Act of 1978 and appropriations Acts under such Act) receive assistance under the Congregate Housing Services Act of 1978 for the remainder of the term of the contract for assistance for such agency or corporation under such Act, and shall receive priority for assistance underthis section after the expiration of such period.
+&emsp;Notwithstanding any other provision of this section, any public housing agency, housing assisted under section 1701q of title 12, or nonprofit corporation that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 5, 1990,<sup>8</sup> shall (subject to approval and allocation of sufficient amounts under the Congregate Housing Services Act of 1978 and appropriations Acts under such Act) receive assistance under the Congregate Housing Services Act of 1978 for the remainder of the term of the contract for assistance for such agency or corporation under such Act, and shall receive priority for assistance under this section after the expiration of such period.
 
 #### (4) Administrative cost limitation
 
@@ -372,7 +372,7 @@ For purposes of this section:
 
 &emsp;(15) The term “professional assessment committee” means a committee established under subsection (e)(3)(B) of this section.
 
-&emsp;(16) The term “qualifying supportive services” means new or significantly expanded services that the Secretary deems essential toenable eligible residents to live independently and avoid unnecessary institutionalization. Such services may include but not be limited to (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance (which may include, but is not limited to, aid given to eligible residents in grooming, dressing, and other activities which maintain personal appearance and hygiene); (D) transportation services; (E) health-related services; and (F) personal emergency response systems; the owner may provide the qualifying services directly to eligible residents or may, by contract or lease, provide such services through other appropriate agencies or providers.
+&emsp;(16) The term “qualifying supportive services” means new or significantly expanded services that the Secretary deems essential to enable eligible residents to live independently and avoid unnecessary institutionalization. Such services may include but not be limited to (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance (which may include, but is not limited to, aid given to eligible residents in grooming, dressing, and other activities which maintain personal appearance and hygiene); (D) transportation services; (E) health-related services; and (F) personal emergency response systems; the owner may provide the qualifying services directly to eligible residents or may, by contract or lease, provide such services through other appropriate agencies or providers.
 
 &emsp;(17) The term “Secretary concerned” means—
 
@@ -430,7 +430,7 @@ The Secretary of Housing and Urban Development and the Secretary of Agriculture 
 
 #### (<i>o</i>) Reserve fund
 
-The Secretary may reserve not more than 5 percent of the amounts made available in eachfiscal year to supplement grants awarded to owners under this section when, in the determination of the Secretary, such supplemental adjustments are required to maintain adequate levels of services to eligible residents.
+The Secretary may reserve not more than 5 percent of the amounts made available in each fiscal year to supplement grants awarded to owners under this section when, in the determination of the Secretary, such supplemental adjustments are required to maintain adequate levels of services to eligible residents.
 
 (Pub. L. 101–625, title VIII, §802, Nov. 28, 1990, 104 Stat. 4304; Pub. L. 102–550, title VI, §§604(a), (b), 672, Oct. 28, 1992, 106 Stat. 3805, 3826.)
 

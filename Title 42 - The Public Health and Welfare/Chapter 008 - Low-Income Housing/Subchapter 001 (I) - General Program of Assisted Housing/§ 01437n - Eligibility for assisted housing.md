@@ -74,7 +74,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (2) Jurisdictions served by multiple PHAs
 
-&emsp;In the case of any 2 or more public housing agencies that administer tenant-based assistance under section 1437f of this title with respect solely to identical geographical areas,such agencies shall be treated as a single public housing agency for purposes of paragraph (1).
+&emsp;In the case of any 2 or more public housing agencies that administer tenant-based assistance under section 1437f of this title with respect solely to identical geographical areas, such agencies shall be treated as a single public housing agency for purposes of paragraph (1).
 
 #### (c) Income eligibility for project-based section 1437f assistance
 
@@ -130,11 +130,11 @@ Notwithstanding any other provision of law, a public housing agency shall establ
 
 &emsp;(2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
-(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title II, §213, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV,§402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069.)
+(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title II, §213, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069.)
 
 #### References in Text
 
-Section 1437d(s) of this title, referred to in subsec. (a)(3)(B)(iii), probably should be a reference to section 1437d(r) of this title. Pub. L. 105–276, title V, §§525, 575(d), 576(d)(1)(B), Oct. 21, 1998, 112 Stat. 2568, 2637, 2640, amended section 1437d by adding a subsec. (s) relating to site-based waiting lists and a subsec. (t) relating to authority to require access to criminal records and then redesignated those subsecs. (s) and (t) as (r) and (s), respectively.
+Section 1437d(s) of this title, referred to in subsec. (a)(3)(B)(iii), probably should be a reference to section 1437d(r) of this title. Pub. L. 105–276, title V, §§525, 575(d), 576(d)(1)(B), Oct. 21, 1998, 112 Stat. 2568, 2637, 2640, amended section 1437d by adding a subsec. (s) relating to site-based waiting lists and a subsec. (t) relating toauthority to require access to criminal records and then redesignated those subsecs. (s) and (t) as (r) and (s), respectively.
 
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (c)(6)(B), (G), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
@@ -198,7 +198,7 @@ Pub. L. 105–276, title V, §513(b), Oct. 21, 1998, 112 Stat. 2547, provided th
 
 #### Effective and Termination Dates of 1996 Amendments
 
-Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 

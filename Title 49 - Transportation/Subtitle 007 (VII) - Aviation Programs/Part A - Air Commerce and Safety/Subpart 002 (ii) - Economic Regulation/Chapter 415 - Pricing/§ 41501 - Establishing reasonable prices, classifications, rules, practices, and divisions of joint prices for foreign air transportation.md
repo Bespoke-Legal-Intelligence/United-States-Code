@@ -4,7 +4,7 @@ Every air carrier and foreign air carrier shall establish, comply with, and enfo
 
 &emsp;(1) reasonable prices, classifications, rules, and practices related to foreign air transportation; and
 
-&emsp;(2) for joint prices established for foreign air transportation, reasonable divisions of thoseprices among the participating air carriers or foreign air carriers without unreasonably discriminating against any of those carriers.
+&emsp;(2) for joint prices established for foreign air transportation, reasonable divisions of those prices among the participating air carriers or foreign air carriers without unreasonably discriminating against any of those carriers.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1132.)
 

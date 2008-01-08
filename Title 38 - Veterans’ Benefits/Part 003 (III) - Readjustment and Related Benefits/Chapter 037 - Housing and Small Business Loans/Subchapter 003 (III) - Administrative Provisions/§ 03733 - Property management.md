@@ -1,6 +1,6 @@
 ### §3733. Property management
 
-(a)(1) Of the number of purchases made during any fiscal year of real property acquired by theSecretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary in order to maintain the effective functioning of the loan guaranty program.
+(a)(1) Of the number of purchases made during any fiscal year of real property acquired by the Secretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary in order to maintain the effective functioning of the loan guaranty program.
 
 (2) After September 30, 1990, the percentage limitations described in paragraph (1) of this subsection shall have no effect.
 

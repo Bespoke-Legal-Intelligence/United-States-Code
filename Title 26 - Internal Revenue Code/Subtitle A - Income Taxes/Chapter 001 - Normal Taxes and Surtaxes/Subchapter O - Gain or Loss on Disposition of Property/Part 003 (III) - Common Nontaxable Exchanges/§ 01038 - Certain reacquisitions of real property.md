@@ -112,7 +112,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1980 Amendment
 
-Section 6(c) of Pub. L. 96–471 provided: “The amendment made by section 4 \[amending this section\] shall apply to acquisitions of real property by the taxpayer after the date of the enactment of this Act \[Oct. 19, 1980\].”
+Section 6(c) of Pub. L. 96–471 provided: “The amendment made by section 4 \[amending this section\] shallapply to acquisitions of real property by the taxpayer after the date of the enactment of this Act \[Oct. 19, 1980\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -126,7 +126,7 @@ Section 2(c) of Pub. L. 88–570 provided that:
 
 “(1) The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Sept. 2, 1964\].
 
-“(2) If the taxpayer makes an election under this paragraph, the amendments made by this section \[enacting this section\] shall also apply to taxable yearsbeginning after December 31, 1957, except that such amendments shall not apply with respect to any reacquisition of real property in a taxable year for which the assessment of a deficiency, or the credit or refund of an overpayment, is prevented on the date of the enactment of this Act \[Sept. 2, 1964\] by the operation of any law or rule of law. An election under this paragraph shall be made within one year after the date of the enactment of this Act and shall be made in such form and manner as the Secretary of the Treasury or his delegate shall prescribe by regulations.
+“(2) If the taxpayer makes an election under this paragraph, the amendments made by this section \[enacting this section\] shall also apply to taxable years beginning after December 31, 1957, except that such amendments shall not apply with respect to any reacquisition of real property in a taxable year for which the assessment of a deficiency, or the credit or refund of an overpayment, is prevented on the date of the enactment of this Act \[Sept. 2, 1964\] by the operation of any law or rule of law. An election under this paragraph shall be made within one year after the date of the enactment of this Act and shall be made in such form and manner as the Secretary of the Treasury or his delegate shall prescribe by regulations.
 
 “(3) If an election is made by the taxpayer under paragraph (2), and if the assessment of a deficiency, or the credit or refund of an overpayment, for any taxable year to which such election applies is not prevented on the date of the enactment of this Act \[Sept. 2, 1964\] by the operation of any law or rule of law—
 

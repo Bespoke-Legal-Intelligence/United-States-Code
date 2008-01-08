@@ -16,7 +16,7 @@
 
 &emsp;(2) the term “business premises or property” includes conveyances and storage facilities; and
 
-&emsp;(3) the term “significant bodily injury” means bodily injury which involves a risk ofdeath, significant physical pain, protracted and obvious disfigurement, or a protracted loss or impairment of the function of a bodily member, organ, or mental or sensory faculty.
+&emsp;(3) the term “significant bodily injury” means bodily injury which involves a risk of death, significant physical pain, protracted and obvious disfigurement, or a protracted loss or impairment of the function of a bodily member, organ, or mental or sensory faculty.
 
 (Added Pub. L. 98–305, §2, May 31, 1984, 98 Stat. 221; amended Pub. L. 103–322, title XXXIII, §330016(1)(O)–(Q), Sept. 13, 1994, 108 Stat. 2148.)
 

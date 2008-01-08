@@ -40,7 +40,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (2) The Secretary of the Treasury is directed to pay from the employment security administration account into the Treasury as miscellaneous receipts the amount estimated by him which will be expended during a three-month period by the Treasury Department for the performance of its functions under—
 
-&emsp;(A) this subchapter and subchapters III and XII of this chapter, including the expenses of banks for servicing unemployment benefit payment and clearing accounts which are offset by the maintenance of balances of Treasury funds with such banks,
+&emsp;(A) this subchapter and subchapters III and XII of this chapter, including the expenses of banks for servicing unemployment benefitpayment and clearing accounts which are offset by the maintenance of balances of Treasury funds with such banks,
 
 &emsp;(B) the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\], and
 
@@ -54,7 +54,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (C) Each estimate of net receipts under this paragraph shall be based upon a tax rate of 0.6 percent.
 
-(4) For purposes of paragraphs (1)(A)(ii) and (1)(B)(iii) the amount authorized to be made available out of the employment security administration account for any fiscal year after June 30, 1972, shall reflect the proportion of the total cost of administering the system of public employment offices in accordance with the Actof June 6, 1933, as amended \[29 U.S.C. 49 et seq.\], and of the necessary expenses of the Department of Labor for the performance of its functions under the provisions of such Act, as the President determines is an appropriate charge to the employment security administration account, and reflects in his annual budget for such year. The President's determination, after consultation with the Secretary, shall take into account such factors as the relationship between employment subject to State laws and the total labor force in the United States, the number of claimants and the number of job applicants, and such other factors as he finds relevant.
+(4) For purposes of paragraphs (1)(A)(ii) and (1)(B)(iii) the amount authorized to be made available out of the employment security administration account for any fiscal year after June 30, 1972, shall reflect the proportion of the total cost of administering the system of public employment offices in accordance with the Act of June 6, 1933, as amended \[29 U.S.C. 49 et seq.\], and of the necessary expenses of the Department of Labor for the performance of its functions under the provisions of such Act, as the President determines is an appropriate charge to the employment security administration account, and reflects in his annual budget for such year. The President's determination, after consultation with the Secretary, shall take into account such factors as the relationship between employment subject to State laws and the total labor force in the United States, the number of claimants and the number of job applicants, and such other factors as he finds relevant.
 
 (5)(A) There are authorized to be appropriated out of the employment security administration account to carry out program integrity activities, in addition to any amounts available under paragraph (1)(A)(i)—
 
@@ -148,7 +148,7 @@ Subsec. (g). Pub. L. 102–318, §531(d)(2), struck out subsec. (g) which read a
 
 1991—Subsec. (c)(1)(A)(iii), (B)(iv). Pub. L. 102–83 substituted reference to section 4103 of title 38 for reference to section 2003 of title 38.
 
-1987—Subsec. (c)(3)(C). Pub. L. 100–203, §9154(c)(2), substituted “a tax rate of 0.6 percent” for “(i) a tax rate of 0.6 percent in the case of any calendar year for whichthe rate of tax under section 3301 of the Federal Unemployment Tax Act is 6.0 percent, and (ii) a tax rate of 0.8 percent in the case of any calendar year for which the rate of tax under such section is 6.2 percent”.
+1987—Subsec. (c)(3)(C). Pub. L. 100–203, §9154(c)(2), substituted “a tax rate of 0.6 percent” for “(i) a tax rate of 0.6 percent in the case of any calendar year for which the rate of tax under section 3301 of the Federal Unemployment Tax Act is 6.0 percent, and (ii) a tax rate of 0.8 percent in the case of any calendar year for which the rate of tax under such section is 6.2 percent”.
 
 Subsec. (g). Pub. L. 100–203, §9154(a), added subsec. (g).
 

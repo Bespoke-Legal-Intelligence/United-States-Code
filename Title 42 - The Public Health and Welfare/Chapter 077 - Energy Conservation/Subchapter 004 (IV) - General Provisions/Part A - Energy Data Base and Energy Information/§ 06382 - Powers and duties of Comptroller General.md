@@ -12,7 +12,7 @@ For the purpose of carrying out his authority under section 6381 of this titleâ€
 
 &emsp;&emsp;(C) administer oaths.
 
-&emsp;(2) the Comptroller General, or any officer or employee duly designated by the ComptrollerGeneral, upon presenting appropriate credentials and a written notice from the Comptroller General to the owner, operator, or agent in charge, mayâ€”
+&emsp;(2) the Comptroller General, or any officer or employee duly designated by the Comptroller General, upon presenting appropriate credentials and a written notice from the Comptroller General to the owner, operator, or agent in charge, mayâ€”
 
 &emsp;&emsp;(A) enter, at reasonable times, any business premise or facility; and
 
@@ -20,7 +20,7 @@ For the purpose of carrying out his authority under section 6381 of this titleâ€
 
 #### (b) Information in possession of Federal agencies
 
-The Comptroller General shall have access to any energy information within the possession of any Federal agency (other than the Internal Revenue Service) as is necessary to carry out his authority under this section.
+The Comptroller General shall have access to any energy information within the possession ofany Federal agency (other than the Internal Revenue Service) as is necessary to carry out his authority under this section.
 
 #### (c) Transmission of examination results to Federal agencies
 

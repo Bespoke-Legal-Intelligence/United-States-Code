@@ -1,6 +1,6 @@
 ### §8432. Contributions
 
-(a)(1) An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect,be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
+(a)(1) An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee's or Member's basic pay forsuch pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
 
 (2) The maximum percentage allowable under this paragraph shall be determined in accordance with the following table:
 
@@ -78,7 +78,7 @@
 
 &emsp;(E) Nothing in this paragraph shall affect paragraph (3).
 
-(c)(1)(A) At the time prescribed by the Executive Director, but no later than 12 days after the end of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
+(c)(1)(A) At the time prescribed by the Executive Director, but no later than 12 days after the end of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the ThriftSavings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
 
 (B) In the case of each employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the total basic pay paid to such employee or Member for that period of service.
 
@@ -194,7 +194,7 @@ Section 204 of the Federal Employees’ Retirement Contribution Temporary Adjust
 
 #### Amendments
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–469, §1(b), designated existing provisions as cl. (i), substituted “may”for “shall be afforded a reasonable period every 6 months to elect to”, struck out second sentence which read “An election to make such contributions shall remain in effect until modified or terminated.”, and added cl. (ii).
+2004—Subsec. (b)(1)(A). Pub. L. 108–469, §1(b), designated existing provisions as cl. (i), substituted “may” for “shall be afforded a reasonable period every 6 months to elect to”, struck out second sentence which read “An election to make such contributions shall remain in effect until modified or terminated.”, and added cl. (ii).
 
 Subsec. (b)(2)(A), (C). Pub. L. 108–469, §1(d)(2)(A), (B), substituted “until the date” for “until the second period”.
 

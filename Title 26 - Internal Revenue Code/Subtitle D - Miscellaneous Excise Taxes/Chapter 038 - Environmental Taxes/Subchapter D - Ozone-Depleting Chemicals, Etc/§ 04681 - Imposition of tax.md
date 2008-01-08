@@ -68,7 +68,7 @@ A prior section 4681, added Pub. L. 96–510, title II, §231(a), Dec. 11, 1980,
 
 Subsec. (b)(1)(C). Pub. L. 105–34 struck out heading and text of subpar. (C). Text read as follows: “The base tax amount for purposes of subparagraph (A) with respect to any sale or use of an ozone-depleting chemical during a calendar year after the last year specified in the table under subparagraph (B) applicable to such chemical shall be the base tax amount for such last year increased by 45 cents for each year after such last year.”
 
-1992—Subsec. (b)(1)(B). Pub. L. 102–486 amended subpar. (B) generally, substituting present provisions for former provisions which provided for base tax amounts in cl. (i) of initially listed chemicals for 1990 to 1994 and in cl. (ii) of newly listed chemicals for 1991 to 1995.
+1992—Subsec. (b)(1)(B). Pub. L. 102–486 amended subpar. (B) generally, substituting present provisions forformer provisions which provided for base tax amounts in cl. (i) of initially listed chemicals for 1990 to 1994 and in cl. (ii) of newly listed chemicals for 1991 to 1995.
 
 1990—Subsec. (b)(1)(B). Pub. L. 101–508 amended subpar. (B) generally, designating existing provision as cl. (i), inserting “with respect to any ozone-depleting chemical other than a newly listed chemical (as defined in section 4682(d)(3)(C))”, and adding cl. (ii).
 

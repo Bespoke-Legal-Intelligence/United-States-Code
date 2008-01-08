@@ -54,7 +54,7 @@ Pub. L. 108–334, title V, §518, Oct. 18, 2004, 118 Stat. 1318.
 
 #### Ex. Ord. No. 13286. Amendment of Executive Orders, and Other Actions, in Connection With the Transfer of Certain Functions to the Secretary of Homeland Security
 
-Ex. Ord. No. 13286, Feb. 28, 2003, 68 F.R. 10619, provided:
+Ex. Ord. No. 13286, Feb. 28, 2003, 68 F.R. 10619, as amended by Ex. Ord. No. 13442, §1, Aug. 13, 2007, 72 F.R. 45877, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Homeland Security Act of 2002 (Public Law 107–296) \[see Tables for classification\] and section 301 of title 3, United States Code, and in order to reflect the transfer of certain functions to, and other responsibilities vested in, the Secretary of Homeland Security, the transfer of certain agencies and agency components to the Department of Homeland Security, and the delegation of appropriate responsibilities to the Secretary of Homeland Security, it is hereby ordered as follows:
 
@@ -100,7 +100,7 @@ Sec. 20. \[Amended Ex. Ord. No. 12985, set out as a note preceding section 1121 
 
 Sec. 21. \[Amended Ex. Ord. No. 12982, set out as a note under section 12304 of Title 10, Armed Forces.\]
 
-Sec. 22. \[Amended Ex. Ord. No. 12978, set out as a note under section 1701 of Title 50, War and National Defense.\]
+Sec. 22. \[Amended Ex. Ord. No. 12978, listed in a table under section 1701 of Title 50, War and National Defense.\]
 
 Sec. 23. \[Amended Ex. Ord. No. 12977, set out as a note under section 121 of Title 40, Public Buildings, Property, and Works.\]
 
@@ -242,31 +242,49 @@ The Commandant and the Assistant Commandant for Intelligence of the Coast Guard 
 
 Sec. 88. <i>Order of Succession.</i>
 
-Subject to the provisions of subsection (b) of this section, the officers named in subsection (a) of this section, in the order listed, shall act as, and perform the functions and duties of, the office of Secretary of Homeland Security (“Secretary”) during any period in which the Secretary has died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary.
+Subject to the provisions of subsection (b) of this section, the officers named in subsection (a) of this section, in the order listed, shall act as, and perform the functions and duties of the office of, the Secretary of Homeland Security (Secretary), if they are eligible to act as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>. (Vacancies Act), during any period in which the Secretary has died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary.
 
 (a) Order of Succession.
 
-&emsp;(i) Deputy Secretary of Homeland Security;
+(i) Deputy Secretary of Homeland Security;
 
-&emsp;(ii) Under Secretary for Border and Transportation Security;
+(ii) Under Secretary for National Protection and Programs;
 
-&emsp;(iii) Under Secretary for Emergency Preparedness and Response;
+(iii) Under Secretary for Management;
 
-&emsp;(iv) Under Secretary for Information Analysis and Infrastructure Protection;
+(iv) Assistant Secretary of Homeland Security (Policy);
 
-&emsp;(v) Under Secretary for Management;
+(v) Under Secretary for Science and Technology;
 
-&emsp;(vi) Under Secretary for Science and Technology;
+(vi) General Counsel;
 
-&emsp;(vii) General Counsel; and
+(vii) Assistant Secretary of Homeland Security (Transportation Security Administration);
 
-&emsp;(viii) Assistant Secretaries in the Department in the order of their date of appointment as such.
+(viii) Administrator of the Federal Emergency Management Agency;
+
+(ix) Commissioner of U.S. Customs and Border Protection;
+
+(x) Assistant Secretary of Homeland Security (U.S. Immigration and Customs Enforcement);
+
+(xi) Director of U.S. Citizenship and Immigration Services;
+
+(xii) Chief Financial Officer;
+
+(xiii) Regional Administrator, Region V, Federal Emergency Management Agency;
+
+(xiv) Regional Administrator, Region VI, Federal Emergency Management Agency;
+
+(xv) Regional Administrator, Region VII, Federal Emergency Management Agency;
+
+(xvi) Regional Administrator, Region IX, Federal Emergency Management Agency; and
+
+(xvii) Regional Administrator, Region I, Federal Emergency Management Agency.
 
 (b) Exceptions.
 
-&emsp;(i) No individual who is serving in an office listed in subsection (a) in an acting capacity shall act as Secretary pursuant to this section.
+(i) No individual who is serving in an office listed in subsection (a) in an acting capacity, by virtue of so serving, shall act as Secretary pursuant to this section.
 
-&emsp;(ii) Notwithstanding the provisions of this section, the President retains discretion, to the extent permitted by the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., to depart from this order in designating an acting Secretary.
+(ii) Notwithstanding the provisions of this section, the President retains discretion, to the extent permitted by the Vacancies Act, to depart from this order in designating an acting Secretary.
 
 Sec. 89. <i>Savings Provision.</i>
 
@@ -284,29 +302,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a) and (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
-#### Ex. Ord. No. 13362. Designation of Additional Officers for the Department of Homeland Security Order of Succession
+#### Executive Order No. 13362
 
-Ex. Ord. No. 13362, Nov. 29, 2004, 69 F.R. 70173, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America and pursuant to the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
-
-Section 1. During any period when the Secretary of Homeland Security (Secretary), the Deputy Secretary of Homeland Security, and the officers designated to perform the functions and duties of the office of Secretary by section 88 of Executive Order 13286 of February 28, 2003 (“Amendment of Executive Orders, and Other Actions, in Connection With the Transfer of Certain Functions to the Secretary of Homeland Security”) \[set out as a note above\], have died, resigned, or otherwise become unable to perform the functions and duties of the office of Secretary, the following officers of the Department of Homeland Security, in the order listed, shall perform the functions and duties of the office of Secretary, if they are eligible to act as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, until such time as at least one of the officers mentioned above is able to perform the functions and duties of the office of Secretary:
-
-Director, Region V, Federal Emergency Management Agency;
-
-Director, Region VI, Federal Emergency Management Agency;
-
-Director, Region VII, Federal Emergency Management Agency;
-
-Director, Region VIII, Federal Emergency Management Agency; and
-
-Director, Region X, Federal Emergency Management Agency.
-
-Sec. 2. <b>Exceptions.</b>
-
-(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Secretary pursuant to this order.
-
-(b) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Secretary.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13362, Nov. 29, 2004, 69 F.R. 70173, which designated additional officers for the Department of Homeland Security order of succession, was revoked by Ex. Ord. No. 13442, §2, Aug. 13, 2007, 72 F.R. 45878.
 

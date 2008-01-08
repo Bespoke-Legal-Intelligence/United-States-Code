@@ -2,7 +2,7 @@
 
 Appropriations for the Agricultural Research Service shall be available for the operation and maintenance of aircraft and the purchase of not to exceed one for replacement only and pursuant to section 2250 of this title for the construction, alteration, and repair of buildings and improvements.
 
-(Pub. L. 109–97, title I, Nov. 10, 2005, 119 Stat. 2124.)
+(Pub. L. 110–161, div. A, title I, Dec. 26, 2007, 121 Stat. 1849.)
 
 #### Codification
 
@@ -13,6 +13,8 @@ Section was formerly classified to section 568a of Title 5 prior to the general 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 109–97, title I, Nov. 10, 2005, 119 Stat. 2124.
 
 Pub. L. 108–447, div. A, title I, Dec. 8, 2004, 118 Stat. 2815.
 

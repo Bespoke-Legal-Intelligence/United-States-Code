@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The Trade and Development Agency shall be an agency of the United States under the foreignpolicy guidance of the Secretary of State. The purpose of the Trade and Development Agency is to promote United States private sector participation in development projects in developing and middle-income countries, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment.
+The Trade and Development Agency shall be an agency of the United States under the foreign policy guidance of the Secretary of State. The purpose of the Trade and Development Agency is to promote United States private sector participation in development projects in developing and middle-income countries, with special emphasis on economic sectors with significant United States export potential, such as energy, transportation, telecommunications, and environment.
 
 #### (b) Authority to provide assistance
 
@@ -64,7 +64,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 #### (2) Independent audit
 
-&emsp;An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not laterthan 61/2 months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
+&emsp;An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not later than 61/2 months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
 
 #### (3) Audit by Comptroller General
 
@@ -72,7 +72,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 #### (4) Availability of information
 
-&emsp;All books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Trade and Development Agency and the accountant who conducts the audit under paragraph (2), which are necessary for purposes of this subsection, shall be made available to the representatives of the Government Accountability Office designated by the Comptroller General.
+&emsp;All books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Trade and Development Agency and the accountant who conducts the audit under paragraph (2), which are necessaryfor purposes of this subsection, shall be made available to the representatives of the Government Accountability Office designated by the Comptroller General.
 
 #### (f) Funding
 
@@ -135,10 +135,6 @@ Subsecs. (b) to (d). Pub. L. 100–418, §2204(b)(2), added subsecs. (b) and (c)
 1977—Pub. L. 95–88 struck out provisions authorizing the President to use up to $1,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1975 and $2,000,000 in the fiscal year 1976, and inserted provisions authorizing the President to use $2,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1978.
 
 1975—Pub. L. 94–161 increased usable funds in fiscal year 1976 to $2,000,000 from $1,000,000 and authorized use of $2,000,000 in fiscal year 1977.
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Section 202(a), (e) of Pub. L. 102–549 provided that:
 

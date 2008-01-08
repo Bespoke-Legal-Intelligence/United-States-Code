@@ -2,7 +2,7 @@
 
 #### (a) Advice on additional members
 
-(1) The Advisory Board on Radiation and Worker Health under section 7384<i>o</i> of this titleshall advise the President whether there is a class of employees at any Department of Energy facility who likely were exposed to radiation at that facility but for whom it is not feasible to estimate with sufficient accuracy the radiation dose they received.
+(1) The Advisory Board on Radiation and Worker Health under section 7384<i>o</i> of this title shall advise the President whether there is a class of employees at any Department of Energy facility who likely were exposed to radiation at that facility but for whom it is not feasible to estimate with sufficient accuracy the radiation dose they received.
 
 (2) The advice of the Advisory Board on Radiation and Worker Health under paragraph (1) shall be based on exposure assessments by radiation health professionals, information provided by the Department of Energy, and such other information as the Advisory Board considers appropriate.
 

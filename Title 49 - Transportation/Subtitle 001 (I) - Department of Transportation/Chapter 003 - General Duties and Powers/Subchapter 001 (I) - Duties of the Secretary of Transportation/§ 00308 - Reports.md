@@ -28,7 +28,7 @@
 
 (2) In reporting to Congress under this subsection, the Secretary shall prepare a complete assessment of public transportation facilities in the United States. The Secretary also shall assess future needs for those facilities and estimate future capital requirements and operation and maintenance requirements for one-year, 5-year, and 10-year periods at specified levels of service.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–362, title XV, §1502(c), Nov. 10, 1998, 112 Stat. 3295.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4;Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–362, title XV, §1502(c), Nov. 10, 1998, 112 Stat. 3295.)
 
 Historical and Revision Notes
 
@@ -110,7 +110,7 @@ Subsecs. (d), (e). Pub. L. 98–216, §2(1)(A)(iii), added subsecs. (d) and (e).
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reporting provisions contained in subsecs. (a) and (b) of this section and, as subsequently amended, subsec. (e) of this section, are listed, respectively, as the 11th item on page 133, the last item on page 132, and the 5th item on page 138), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reporting provisions contained in subsecs. (a) and (b) of this section and, as subsequently amended, subsec. (e) of this section, are listed, respectively, as the 11th item on page 133, the last item on page 132, and the 5th item on page 138), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Annual Report on Safety Enforcement Activities of Federal Aviation Administration
 

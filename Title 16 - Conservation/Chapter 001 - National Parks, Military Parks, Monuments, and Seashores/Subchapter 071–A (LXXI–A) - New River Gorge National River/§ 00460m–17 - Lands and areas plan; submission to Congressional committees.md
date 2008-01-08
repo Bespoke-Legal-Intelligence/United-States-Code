@@ -2,7 +2,7 @@
 
 Within two years from November 10, 1978, the Secretary shall submit, in writing, to the House Committee on Interior and Insular Affairs, the Senate Committee on Energy and Natural Resources and the Committees on Appropriations of the United States Congress, a detailed plan which shall indicate—
 
-&emsp;(i) the lands and areas which he deems essential to the protection and public enjoyment ofthe natural, scenic, and historic values and objects of this national river;
+&emsp;(i) the lands and areas which he deems essential to the protection and public enjoyment of the natural, scenic, and historic values and objects of this national river;
 
 &emsp;(ii) the lands which he has previously acquired by purchase, donation, exchange, or transfer for the purpose of this national river;
 
@@ -14,5 +14,5 @@ Within two years from November 10, 1978, the Secretary shall submit, in writing,
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

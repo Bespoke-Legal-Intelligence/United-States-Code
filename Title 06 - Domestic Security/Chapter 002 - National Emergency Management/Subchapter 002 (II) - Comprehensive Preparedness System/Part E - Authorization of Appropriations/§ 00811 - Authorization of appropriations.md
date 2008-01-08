@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to carry out this title <sup>1</sup> and the amendments made by this title for the administration and operations of the Agency—
 
-&emsp;(1) for fiscal year 2008, an amount equal to the amount appropriated for fiscal year 2007for administration and operations of the Agency, multiplied by 1.1;
+&emsp;(1) for fiscal year 2008, an amount equal to the amount appropriated for fiscal year 2007 for administration and operations of the Agency, multiplied by 1.1;
 
 &emsp;(2) for fiscal year 2009, an amount equal to the amount described in paragraph (1), multiplied by 1.1; and
 

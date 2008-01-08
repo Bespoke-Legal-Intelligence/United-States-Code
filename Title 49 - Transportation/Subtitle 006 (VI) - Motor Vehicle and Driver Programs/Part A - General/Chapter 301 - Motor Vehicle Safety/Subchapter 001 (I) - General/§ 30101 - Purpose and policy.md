@@ -26,13 +26,17 @@ Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
 
 The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–140, title I, §101, Dec. 19, 2007, 121 Stat. 1498, provided that: “This subtitle \[subtitle A (§§101–113) of title I of Pub. L. 110–140, enacting section 32304A of this title, amending sections 32308, 32901 to 32904, 32905, 32906, 32908, and 32912 of this title, and enacting provisions set out as notes under sections 32902, 32904, and 32908 of this title\] may be cited as the ‘Ten-in-Ten Fuel Economy Act’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–59, title IV, §4001, Aug. 10, 2005, 119 Stat. 1714, provided that: “This title \[see Tables for classification\] may be cited as the ‘Motor Carrier Safety Reauthorization Act of 2005’.”
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–414, §1, Nov. 1, 2000, 114 Stat. 1800, provided that: “This Act \[enacting section 30170 of this title, amending sections 30115, 30117, 30118, 30120, 30165, and 30166 of this title, and enacting provisions set outas notes under sections 30111, 30115, 30118, 30123, and 30127 of this title\] may be cited as the ‘Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act’.”
+Pub. L. 106–414, §1, Nov. 1, 2000, 114 Stat. 1800, provided that: “This Act \[enacting section 30170 of thistitle, amending sections 30115, 30117, 30118, 30120, 30165, and 30166 of this title, and enacting provisions set out as notes under sections 30111, 30115, 30118, 30123, and 30127 of this title\] may be cited as the ‘Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act’.”
 
 #### Short Title of 1998 Amendment
 
@@ -136,7 +140,7 @@ Specific procedure.—
 
 &emsp;&emsp;“(A)
 
-Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advancenotice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
+Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice thereasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advance notice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
 
 &emsp;&emsp;“(B)
 
@@ -212,7 +216,7 @@ Amendment or Repeal of Standard.—The Secretary may amend the standard describe
 
 Ex. Ord. No. 11357, June 6, 1967, 32 F.R. 8225, provided:
 
-By virtue of the authority vested in me as President of the United States by Section 201 of the Highway Safety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\],and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], it is hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
+By virtue of the authority vested in me as President of the United States by Section 201 of the HighwaySafety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\], and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], it is hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

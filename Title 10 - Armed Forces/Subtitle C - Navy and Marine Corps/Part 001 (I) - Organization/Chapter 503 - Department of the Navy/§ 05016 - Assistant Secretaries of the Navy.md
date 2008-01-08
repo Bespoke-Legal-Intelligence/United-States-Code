@@ -1,6 +1,6 @@
 ### §5016. Assistant Secretaries of the Navy
 
-(a) There are four Assistant Secretaries of the Navy. They shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
+(a) There are four Assistant Secretaries of the Navy. They shall be appointed from civilian lifeby the President, by and with the advice and consent of the Senate.
 
 (b)(1) The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of the Navy may prescribe.
 

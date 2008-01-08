@@ -6,23 +6,25 @@ In the case of any firm which is small (within the meaning of the Small Business
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary $16,000,000 for each of fiscal years 2003 through 2007, to carry out the Secretary's functions under this part in connection with furnishing adjustment assistance to firms. Amounts appropriated under this subsection shall remain available until expended.
+There are authorized to be appropriated to the Secretary $16,000,000 for each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007, to carry out the Secretary's functions under this part in connection with furnishing adjustment assistance to firms. Amounts appropriated under this subsection shall remain available until expended.
 
 #### (c) Transfer of unexpended appropriations
 
 The unexpended balances of appropriations authorized by section 1912(d) <sup>1</sup> of this title are transferred to the Secretary to carry out his functions under this part.
 
-(Pub. L. 93–618, title II, §256, Jan. 3, 1975, 88 Stat. 2032; Pub. L. 97–35, title XXV, §2524, Aug. 13, 1981, 95 Stat. 892; Pub. L. 99–272, title XIII, §13008(b), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(2), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. J, title I, §1012(c), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(b), 131, Aug. 6, 2002, 116 Stat. 936, 946; Pub. L. 108–429, title II, §2004(a)(3), Dec. 3, 2004, 118 Stat. 2589.)
+(Pub. L. 93–618, title II, §256, Jan. 3, 1975, 88 Stat. 2032; Pub. L. 97–35, title XXV, §2524, Aug. 13, 1981, 95 Stat. 892; Pub. L. 99–272, title XIII, §13008(b), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(2), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. J, title I, §1012(c), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(b), 131, Aug. 6, 2002, 116 Stat. 936, 946; Pub. L. 108–429, title II, §2004(a)(3), Dec. 3, 2004, 118 Stat. 2589; Pub. L. 110–89, §1(b), Sept. 28, 2007, 121 Stat. 982.)
 
 #### References in Text
 
-The Small Business Act, referred to in subsec. (a), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (a), is Pub. L. 85–536, §2 (1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 Section 2342(d) of this title, referred to in subsec. (a), was redesignated section 2342(c) of this title by Pub. L. 99–272, title XIII, §13006(a)(2), Apr. 7, 1986, 100 Stat. 304.
 
 Section 1912 of this title, referred to in subsec. (c), was repealed by section 602(e) of Pub. L. 93–618. See section 2341 et seq. of this title for successor provisions.
 
 #### Amendments
+
+2007—Subsec. (b). Pub. L. 110–89 inserted “and $4,000,000 for the 3-month period beginning on October 1, 2007,” after “2007,”.
 
 2004—Subsec. (b). Pub. L. 108–429 deemed amendment by Pub. L. 107–210, §111(b), never to have been enacted. See 2002 Amendment note below.
 
@@ -42,6 +44,10 @@ Pub. L. 107–210, §111(b), substituted “October 1, 2001, and ending Septembe
 
 1981—Subsec. (b). Pub. L. 97–35 inserted provisions relating to payment of principal, interest, and reasonable costs, incident to defaults on guaranteed loans and provisions relating to direct loans and commitments to guarantee loans.
 
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–89 effective Oct. 1, 2007, see section 1(e) of Pub. L. 110–89, set out as a note under section 2317 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 2 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
@@ -60,7 +66,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except as otherwise provid
 
 #### Termination Date
 
-No technical assistance to be provided under this part after Sept. 30, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No technical assistance to be provided under this part after Dec. 31, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

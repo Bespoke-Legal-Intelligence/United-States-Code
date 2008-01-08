@@ -88,7 +88,7 @@ Other Responsibilities of the Federal Departments and Agencies
 
 1–401. The head of each department and agency shall designate a high level official to have the responsibility for the participation and cooperation of that department or agency in carrying out this Executive order. This person may be the same person who is the department or agency's representative to the Committee.
 
-1–402. To the extent permitted by law, each department and agency upon request by the Chairperson shall furnish information, assistance and reports and otherwise cooperate with the Chairperson and the Committee in the performance of their functions hereunder. Each department or agency shall ensure that systematic data collection processes are capable of providing the Committee current data helpful in evaluating and promoting the efforts herein described.
+1–402. To the extent permitted by law, each department and agency upon request by the Chairperson shall furnish information, assistance and reports and otherwise cooperate with the Chairperson and the Committee in the performance of their functions hereunder.Each department or agency shall ensure that systematic data collection processes are capable of providing the Committee current data helpful in evaluating and promoting the efforts herein described.
 
 1–403. The officials designated under Section 1–401, when so requested, shall review the policies and programs of the women's business enterprise program, and shall keep the Chairperson informed of proposed budget, plans and programs of their departments or agencies affecting women's business enterprise.
 

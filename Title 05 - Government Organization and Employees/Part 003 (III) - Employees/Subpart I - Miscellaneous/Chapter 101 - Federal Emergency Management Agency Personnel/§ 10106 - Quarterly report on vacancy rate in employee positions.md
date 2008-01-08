@@ -6,7 +6,7 @@ Initial Report.—
 
 &emsp;(1)
 
-In general.—Not later than 3 months after the date of enactment of this chapter, the Administrator shall develop and submit to the appropriate committees of Congress a report on the vacancies in employee positions of the Agency.
+In general.—Not later than 3 months after the date of enactment of this chapter,the Administrator shall develop and submit to the appropriate committees of Congress a report on the vacancies in employee positions of the Agency.
 
 &emsp;(2)
 

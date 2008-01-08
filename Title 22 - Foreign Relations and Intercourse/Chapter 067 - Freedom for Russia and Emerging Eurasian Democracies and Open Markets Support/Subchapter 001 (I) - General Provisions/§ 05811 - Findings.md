@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(4) failure to meet the opportunities presented by these developments could threaten United States national security interests and jeopardize substantial savings in United States defense that these developments have made possible;
 
-&emsp;(5) the independent states of the former Soviet Union face unprecedented environmentalproblems that jeopardize the quality of life and the very existence of not only their own peoples but also the peoples of other countries, and it is incumbent on the international community to assist the independent states in addressing these problems and in promoting sustainable use of resources and development;
+&emsp;(5) the independent states of the former Soviet Union face unprecedented environmental problems that jeopardize the quality of life and the very existence of not only their own peoples but also the peoples of other countries, and it is incumbent on the international community to assist the independent states in addressing these problems and in promoting sustainable use of resources and development;
 
 &emsp;(6) the success of United States assistance for the independent states of the former Soviet Union depends on—
 
@@ -82,7 +82,7 @@ Purposes of Assistance.—The assistance under this section shall be available f
 
 &emsp;“(1) To assist the people of the Republic of Belarus in their pursuit of freedom, democracy, and human rights and in their aspiration to join the European community of democracies.
 
-&emsp;“(2) To encourage free, fair, and transparent presidential, parliamentary, and local elections in Belarus, conducted in a manner consistent withinternationally accepted standards and under the supervision of internationally recognized observers and independent domestic observers.
+&emsp;“(2) To encourage free, fair, and transparent presidential, parliamentary, and local elections in Belarus, conducted in a manner consistent with internationally accepted standards and under the supervision of internationally recognized observers and independent domestic observers.
 
 &emsp;“(3) To assist in the development of a democratic political culture and civil society in Belarus.
 
@@ -192,7 +192,7 @@ Blocking of assets.—It is the sense of Congress that the President should bloc
 
 &emsp;&emsp;“(A) are owned, in whole or in part, by the Government of Belarus, or by any member or family member closely linked to any member of the senior leadership of the Government of Belarus, or any person who through his or her business dealings with senior leadership of the Government of Belarus derives significant financial benefit from policies or actions, including electoral fraud, human rights abuses, or corruption, that undermine or injure democratic institutions or impede the transition to democracy in Belarus; and
 
-&emsp;&emsp;“(B) are in the United States, or in the possession or control of the Government of the United Statesor of any United States financial institution, including any branch or office of such financial institution that is located outside the United States.
+&emsp;&emsp;“(B) are in the United States, or in the possession or control of the Government of the United States or of any United States financial institution, including any branch or office of such financial institution that is located outside the United States.
 
 &emsp;“(2)
 
@@ -274,7 +274,7 @@ Form.—A report transmitted pursuant to subsection (a) shall be in unclassified
 
 &emsp;“(1)
 
-Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 &emsp;“(2) OSCE.—The term ‘OSCE’ means the Organization for Security and Cooperation in Europe.
 

@@ -54,5 +54,5 @@ Subsection (c) is substituted for “or after such time as an appropriate vessel
 
 #### References in Text
 
-Section 1004(5) of the Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6903(5)), referred to in subsec. (a), probably means section 1004(5) of the SolidWaste Disposal Act (42 U.S.C. 6903(5)), as added by section 2 of the Resource Conservation and Recovery Act of 1976, Pub. L. 94–580.
+Section 1004(5) of the Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6903(5)), referred to in subsec. (a), probably means section 1004(5) of the Solid Waste Disposal Act (42 U.S.C. 6903(5)), as added by section 2 of the Resource Conservation and Recovery Act of 1976, Pub. L. 94–580.
 

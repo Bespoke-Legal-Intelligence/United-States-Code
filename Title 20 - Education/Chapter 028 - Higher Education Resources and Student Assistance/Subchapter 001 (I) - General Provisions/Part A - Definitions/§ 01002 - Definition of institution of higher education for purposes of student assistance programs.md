@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses (excluding courses offered by telecommunications as defined in section 1091(<i>l</i>)(4) of this title), unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-year program of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
 
-&emsp;&emsp;(C) has a student enrollment in which more than 25 percent of the students are incarcerated, except that the Secretary may waive the limitation contained in this subparagraph for a nonprofit institution that provides a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree, or an associate's degree or a postsecondary diploma, respectively; or
+&emsp;&emsp;(C) has a student enrollment in which more than 25 percent of the students are incarcerated, except that the Secretary may waive the limitation contained in this subparagraph for a nonprofit institution that provides a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree, or an associate'sdegree or a postsecondary diploma, respectively; or
 
 &emsp;&emsp;(D) has a student enrollment in which more than 50 percent of the students do not have a secondary school diploma or its recognized equivalent, and does not provide a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree or an associate's degree, respectively, except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that the institution exceeds such limitation because the institution serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a secondary school diploma or its recognized equivalent.
 
@@ -124,7 +124,7 @@ Provisions similar to this section were contained in section 1088(a) to (c) of t
 
 A prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 459, related to partnership agreements required for grant eligibility, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1278, defined terms “continuing education”, “adult learner”, “eligible institution”, and “qualified entity”, prior to the general amendment of this subchapter by Pub. L. 102–325.
+Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100Stat. 1278, defined terms “continuing education”, “adult learner”, “eligible institution”, and “qualified entity”, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1374, provided for establishment of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

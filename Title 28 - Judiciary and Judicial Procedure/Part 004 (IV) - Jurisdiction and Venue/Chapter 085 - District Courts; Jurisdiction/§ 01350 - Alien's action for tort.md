@@ -42,7 +42,7 @@ Statute of Limitations.—No action shall be maintained under this section unles
 
 “(a)
 
-Extrajudicial Killing.—For the purposes of this Act, the term ‘extrajudicial killing’ means a deliberated killing not authorized by a previous judgment pronounced by a regularly constituted court affording all the judicial guarantees which are recognized as indispensable by civilized peoples. Such term, however, does not include any such killing that, under international law, is lawfully carried out under the authority of a foreign nation.
+Extrajudicial Killing.—For the purposes of this Act, the term ‘extrajudicial killing’ means a deliberated killing not authorized by a previous judgment pronounced by a regularly constituted court affordingall the judicial guarantees which are recognized as indispensable by civilized peoples. Such term, however, does not include any such killing that, under international law, is lawfully carried out under the authority of a foreign nation.
 
 “(b)
 

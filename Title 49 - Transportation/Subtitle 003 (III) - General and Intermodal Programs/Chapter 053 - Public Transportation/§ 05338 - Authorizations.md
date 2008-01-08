@@ -82,7 +82,7 @@ Planning.—
 
 &emsp;&emsp;(A)
 
-Trust fund.—For fiscal year 2005, $63,364,000 shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5303, 5304, 5305, and 5313(b), as in effect on the day before the date of enactment of the Federal Public Transportation Act of 2005.
+Trust fund.—For fiscal year 2005, $63,364,000 shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5303, 5304, 5305, and 5313(b), as in effect on the day before thedate of enactment of the Federal Public Transportation Act of 2005.
 
 &emsp;&emsp;(B)
 
@@ -182,7 +182,7 @@ In general.—There shall be available from the Mass Transit Account of the High
 
 Allocation of funds.—Of the amounts made available under paragraph (1)—
 
-&emsp;&emsp;(A) $95,000,000 for fiscal year 2006, $99,000,000 for fiscal year 2007, $107,000,000 forfiscal year 2008, and $113,500,000 for fiscal year 2009 shall be available to carry out section 5305;
+&emsp;&emsp;(A) $95,000,000 for fiscal year 2006, $99,000,000 for fiscal year 2007, $107,000,000 for fiscal year 2008, and $113,500,000 for fiscal year 2009 shall be available to carry out section 5305;
 
 &emsp;&emsp;(B) $3,466,681,000 for fiscal year 2006, $3,606,175,000 for fiscal year 2007, $3,910,843,000 for fiscal year 2008, and $4,160,365,000 for fiscal year 2009 shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
 
@@ -192,7 +192,7 @@ Allocation of funds.—Of the amounts made available under paragraph (1)—
 
 &emsp;&emsp;(E) $822,250,000 for fiscal year 2006, $855,500,000 for fiscal year 2007, $927,750,000 for fiscal year 2008, and $984,000,000 for fiscal year 2009 shall be available to carry out section 5309(m)(2)(C);
 
-&emsp;&emsp;(F) $112,000,000 for fiscal year 2006, $117,000,000 for fiscal year 2007, $127,000,000 for fiscal year 2008, and $133,500,000 for fiscal year 2009 shall be available to provide financial assistance for services for elderly persons and persons with disabilities under section 5310;
+&emsp;&emsp;(F) $112,000,000 for fiscal year 2006, $117,000,000 for fiscal year 2007, $127,000,000 forfiscal year 2008, and $133,500,000 for fiscal year 2009 shall be available to provide financial assistance for services for elderly persons and persons with disabilities under section 5310;
 
 &emsp;&emsp;(G) $388,000,000 for fiscal year 2006, $404,000,000 for fiscal year 2007, $438,000,000 for fiscal year 2008, and $465,000,000 for fiscal year 2009 shall be available to provide financial assistance for other than urbanized areas under section 5311;
 
@@ -1418,7 +1418,7 @@ Trauma care system research and development.—$500,000 in each of fiscal years 
 
 &emsp;“(14)
 
-Transportation infrastructure and logistics research.—$500,000 in each of fiscal years 2006through 2009 for transportation infrastructure and logistics research at the University of Alabama in Huntsville.
+Transportation infrastructure and logistics research.—$500,000 in each of fiscal years 2006 through 2009 for transportation infrastructure and logistics research at the University of Alabama in Huntsville.
 
 &emsp;“(15)
 
@@ -1434,7 +1434,7 @@ Intelligent transportation system pilot project.—$465,000 in each of fiscal ye
 
 &emsp;“(18)
 
-Regional public safety training center.—$500,000 in each of fiscal years 2006 through 2009 for a regional public safety training center at the Lehigh-Carbon Community College.
+Regional public safety training center.—$500,000 in each of fiscal years 2006 through 2009 for aregional public safety training center at the Lehigh-Carbon Community College.
 
 &emsp;“(19)
 
@@ -1486,7 +1486,7 @@ Special rule.—If the institutions identified in paragraph (1) are selected pur
 
 #### Programs of Federal Transit Administration; Limitation on Obligations
 
-Pub. L. 109–115, div. A, title I, §140, Nov. 30, 2005, 119 Stat. 2420, provided that: “The limitations on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation.”
+Pub. L. 109–115, div. A, title I, §140, Nov. 30, 2005, 119 Stat. 2420, which provided that the limitations on obligations for the programs of the Federal Transit Administration were not to apply to any authority under this section previously made available for obligation, or to any other authority previously made available for obligation, was from the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
 Similar provisions were contained in the following prior appropriation acts:
 

@@ -134,7 +134,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 #### (4) Payment of expenses
 
-&emsp;Expenses incurred under paragraph (3) shall be paid by a board using assessments collected under section 7416 of this title, earnings obtained from assessments, and other income ofthe board. Any funds borrowed by the board shall be expended only for startup costs and capital outlays.
+&emsp;Expenses incurred under paragraph (3) shall be paid by a board using assessments collected under section 7416 of this title, earnings obtained from assessments, and other income of the board. Any funds borrowed by the board shall be expended only for startup costs and capital outlays.
 
 #### (5) Limitation on spending
 
@@ -212,7 +212,7 @@ In accordance with section 7401(c) of this title, each order shall require the b
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained under paragraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
+&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained underparagraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
 
 #### (B) Disclosure
 

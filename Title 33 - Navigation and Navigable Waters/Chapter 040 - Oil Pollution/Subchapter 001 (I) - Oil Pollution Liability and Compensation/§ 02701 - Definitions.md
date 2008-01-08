@@ -32,7 +32,7 @@ For the purposes of this Act, the term—
 
 &emsp;(15) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, but not including any Alaska Native regional or village corporation, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and has governmental authority over lands belonging to or controlled by the tribe;
 
-&emsp;(16) “lessee” means a person holding a leasehold interest in an oil or gas lease on lands beneath navigable waters (as that term is defined in section 1301(a) of title 43) or on submerged lands of the Outer Continental Shelf,granted or maintained under applicable State law or the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
+&emsp;(16) “lessee” means a person holding a leasehold interest in an oil or gas lease on lands beneath navigable waters (as that term is defined in section 1301(a) of title 43) or on submerged lands of the Outer Continental Shelf, granted or maintained under applicable State law or the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
 
 &emsp;(17) “liable” or “liability” shall be construed to be the standard of liability which obtains under section 1321 of this title;
 
@@ -50,7 +50,7 @@ For the purposes of this Act, the term—
 
 &emsp;(24) “onshore facility” means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land within the United States other than submerged land;
 
-&emsp;(25) the term “Outer Continental Shelf facility” means an offshore facility which is located, in whole or in part, on the Outer Continental Shelf and is or was used for one or more of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil produced from the Outer Continental Shelf;
+&emsp;(25) the term “Outer Continental Shelf facility” means an offshore facility which is located, in whole or in part, on the Outer Continental Shelf and is or was used for one ormore of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil produced from the Outer Continental Shelf;
 
 &emsp;(26) “owner or operator”—
 
@@ -118,7 +118,7 @@ For the purposes of this Act, the term—
 
 &emsp;(30) “remove” or “removal” means containment and removal of oil or a hazardous substance from water and shorelines or the taking of other actions as may be necessary to minimize or mitigate damage to the public health or welfare, including, but not limited to, fish, shellfish, wildlife, and public and private property, shorelines, and beaches;
 
-&emsp;(31) “removal costs” means the costs of removal that are incurred after a discharge of oil has occurred or, in any case in which there is a substantial threat of a discharge of oil, the costs to prevent, minimize, or mitigate oil pollution from such an incident;
+&emsp;(31) “removal costs” means the costs of removal that are incurred after a discharge of oil has occurred or, in any case in which there is a substantial threat of a discharge of oil,the costs to prevent, minimize, or mitigate oil pollution from such an incident;
 
 &emsp;(32) “responsible party” means the following:
 

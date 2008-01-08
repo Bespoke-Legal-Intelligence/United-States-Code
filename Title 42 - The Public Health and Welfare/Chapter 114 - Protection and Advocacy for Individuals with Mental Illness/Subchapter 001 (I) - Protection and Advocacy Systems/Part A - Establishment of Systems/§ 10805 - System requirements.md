@@ -34,7 +34,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;&emsp;(iii) with respect to whom a complaint has been received by the system or with respect to whom as a result of monitoring or other activities (either of which result from a complaint or other evidence) there is probable cause to believe that such individual has been subject to abuse or neglect; and
 
-&emsp;&emsp;(C) any individual with a mental illness, who has a legal guardian, conservator, orother legal representative, with respect to whom a complaint has been received by the system or with respect to whom there is probable cause to believe the health or safety of the individual is in serious and immediate jeopardy, whenever—
+&emsp;&emsp;(C) any individual with a mental illness, who has a legal guardian, conservator, or other legal representative, with respect to whom a complaint has been received by the system or with respect to whom there is probable cause to believe the health or safety of the individual is in serious and immediate jeopardy, whenever—
 
 &emsp;&emsp;&emsp;(i) such representative has been contacted by such system upon receipt of the name and address of such representative;
 
@@ -72,7 +72,7 @@ The Secretary and the agency of a State which administers its State plan under t
 
 &emsp;(i) members (to be selected no later than October 1, 1990) who broadly represent or are knowledgeable about the needs of the clients served by the system; and
 
-&emsp;(ii) in the case of a governing authority organized as a private non-profit entity, members who broadly represent or are knowledgeable about the needs of the clients served by the system including the chairperson of the advisory council of such system.
+&emsp;(ii) in the case of a governing authority organized as a private non-profit entity, members who broadly represent or are knowledgeable about the needs of the clients served bythe system including the chairperson of the advisory council of such system.
 
 > As used in this subparagraph, the term “members who broadly represent or are knowledgeable about the needs of the clients served by the system” shall be construed to include individuals who have received or are receiving mental health services and family members of such individuals.
 

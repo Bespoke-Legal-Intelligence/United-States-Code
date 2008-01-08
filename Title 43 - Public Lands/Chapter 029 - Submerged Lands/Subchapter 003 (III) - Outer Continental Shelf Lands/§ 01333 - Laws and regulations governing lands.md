@@ -22,7 +22,7 @@ With respect to disability or death of an employee resulting from any injury occ
 
 #### (c) National Labor Relations Act applicable
 
-For the purposes of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], any unfair labor practice, as defined in such Act, occurring upon any artificial island, installation, or other device referred to in subsection (a) of this section shall be deemed to have occurred within the judicial district of the State, the laws of which apply to such artificial island, installation, or other device pursuant to such subsection, except that until the President determines the areas within which such State lawsare applicable, the judicial district shall be that of the State nearest the place of location of such artificial island, installation, or other device.
+For the purposes of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], any unfair labor practice, as defined in such Act, occurring upon any artificial island, installation, or other device referred to in subsection (a) of this section shall be deemed to have occurred within the judicial district of the State, the laws of which apply to such artificial island, installation, or other device pursuant to such subsection, except that until the President determines the areas within which such State laws are applicable, the judicial district shall be that of the State nearest the place of location of such artificial island, installation, or other device.
 
 #### (d) Coast Guard regulations; marking of artificial islands, installations, and other devices; failure of owner suitably to mark according to regulations
 
@@ -36,7 +36,7 @@ The authority of the Secretary of the Army to prevent obstruction to navigation 
 
 #### (f) Provisions as nonexclusive
 
-The specific application by this section of certain provisions of law to the subsoil and seabed of the outer Continental Shelf and the artificial islands, installations, and other devices referred to in subsection (a) of this section or to acts or offenses occurring or committed thereon shall not give rise to any inference that the application to such islands and structures, acts, or offenses of any other provision of law is not intended.
+The specific application by this section of certain provisions of law to the subsoil and seabed of the outer Continental Shelf and the artificial islands, installations, and other devices referredto in subsection (a) of this section or to acts or offenses occurring or committed thereon shall not give rise to any inference that the application to such islands and structures, acts, or offenses of any other provision of law is not intended.
 
 (Aug. 7, 1953, ch. 345, §4, 67 Stat. 462; Pub. L. 93–627, §19(f), Jan. 3, 1975, 88 Stat. 2146; Pub. L. 95–372, title II, §203, Sept. 18, 1978, 92 Stat. 635; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
@@ -70,7 +70,7 @@ Subsecs. (f), (g). Pub. L. 95–372, §203(e)(3), (h), redesignated subsec. (g) 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “settling”.</i>
 

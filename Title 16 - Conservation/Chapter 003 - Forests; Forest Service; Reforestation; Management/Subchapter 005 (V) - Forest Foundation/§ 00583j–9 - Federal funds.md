@@ -26,9 +26,7 @@ Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1577.
 
 #### Authorized Investments
 
-Pub. L. 109–54, title III, Aug. 2, 2005, 119 Stat. 538, provided in part: “That authorized investments of Federal funds held by the \[National Forest\] Foundation may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
-
-Similar provisions were contained in the following prior appropriation acts:
+Provisions similar to the proviso in this section were contained in the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2006, Pub. L. 109–54, title III, Aug. 2, 2005, 119 Stat. 538, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions also were contained in the following prior appropriations acts:
 
 Pub. L. 108–447, div. E, title II, Dec. 8, 2004, 118 Stat. 3079.
 

@@ -16,7 +16,7 @@ For the purposes of this chapter:
 
 &emsp;(7) The term “Secretary” means the Secretary of the Interior.
 
-&emsp;(8) The term “State” means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.
+&emsp;(8) The term “State” means the State fish and wildlife agency, which shall be construed to mean any department, or any division ofany department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.
 
 &emsp;(9) The term “wetlands conservation project” means—
 
@@ -47,4 +47,8 @@ Par. (6). Pub. L. 107–308, §8(a)(5), inserted “, and by the Secretary of S
 Par. (9)(A). Pub. L. 107–308, §4(1), inserted “of a wetland ecosystem and associated habitat” after “including water rights,”.
 
 Par. (9)(B). Pub. L. 107–308, §4(2), substituted “and associated habitat” for “and other habitat”.
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

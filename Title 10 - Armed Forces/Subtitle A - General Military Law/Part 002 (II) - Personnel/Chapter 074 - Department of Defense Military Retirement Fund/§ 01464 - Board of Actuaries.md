@@ -8,7 +8,7 @@
 
 (3) A member of the Board who is not otherwise an employee of the United States is entitled to receive pay at the daily equivalent of the annual rate of basic pay of the highest rate of basic pay then currently being paid under the General Schedule of subchapter III of chapter 53 of title 5, for each day the member is engaged in the performance of duties vested in the Board and is entitled to travel expenses, including a per diem allowance, in accordance with section 5703 of title 5.
 
-(b) The Board shall report to the Secretary of Defense annually on the actuarial status of the Fund and shall furnish its advice and opinion on matters referred to it by the Secretary.
+(b) The Board shall report to the Secretary of Defense annually on the actuarial status of theFund and shall furnish its advice and opinion on matters referred to it by the Secretary.
 
 (c) The Board shall review valuations of the Fund under section 1465(c) of this title and under chapter 95 of title 31 and shall report periodically, not less than once every four years, to the President and Congress on the status of the Fund. The Board shall include in such reports recommendations for such changes as in the Board's judgment are necessary to protect the public interest and maintain the Fund on a sound actuarial basis.
 

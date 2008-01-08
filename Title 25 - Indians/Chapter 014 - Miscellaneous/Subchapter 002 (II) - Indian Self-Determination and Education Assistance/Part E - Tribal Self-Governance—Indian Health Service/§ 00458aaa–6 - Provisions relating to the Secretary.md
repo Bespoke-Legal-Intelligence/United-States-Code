@@ -40,7 +40,7 @@
 
 #### (ii) Reassumption
 
-&emsp;&emsp;&emsp;If the Secretary reassumes operation of a program, service, function, or activity (or portion thereof) under this subparagraph, the Secretary shall provide the Indian tribe with a hearing on the record not later than 10 days after such reassumption.
+&emsp;&emsp;&emsp;If the Secretary reassumes operation of a program, service, function, or activity\(or portion thereof) under this subparagraph, the Secretary shall provide the Indian tribe with a hearing on the record not later than 10 days after such reassumption.
 
 #### (D) Hearings
 

@@ -10,7 +10,7 @@
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–107, §505(a)(3)(A), substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,” and inserted at end “The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion.”
+2001—Subsec. (a). Pub. L. 107–107, §505(a)(3)(A), substituted “Whenever the needs of the service require,the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,” and inserted at end “The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion.”
 
 Subsec. (b). Pub. L. 107–107, §505(a)(3)(B), substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,”.
 
@@ -246,7 +246,7 @@ I74“officers serving in a temporary grade below vice admiral or lieutenant gen
 
 &emsp;“(3) recommended for promotion or promoted to a grade under section 5787 of such title, as in effect before the effective date of this Act.
 
-“(c)(1) Any delay of a promotion of an officer referred to in clause (2) of subsection (a) that was in effect on September 14, 1981, under the laws and regulations ineffect on such date, shall continue in effect on and after September 15, 1981, as if such promotion had been delayed under section 624(d) of title 10, United States Code, as added by this Act.
+“(c)(1) Any delay of a promotion of an officer referred to in clause (2) of subsection (a) that was in effect on September 14, 1981, under the laws and regulations in effect on such date, shall continue in effect on and after September 15, 1981, as if such promotion had been delayed under section 624(d) of title 10, United States Code, as added by this Act.
 
 “(2) Any action to remove from a promotion list the name of an officer referred to in clause (2) of subsection (a) which was initiated before September 15, 1981, under the laws and regulations in effect before such date shall continue on and after such date as if such removal action had been initiated under section 629 of title 10, United States Code, as added by this Act.
 
@@ -348,7 +348,7 @@ I74“officers serving in a temporary grade below vice admiral or lieutenant gen
 
 > shall not be subject to the provisions of chapter 36 of title 10, United States Code, as added by this Act, relating to selection for promotion and promotion to the next higher grade.
 
-“(2) Officers to whom this subsection applies become entitled to hold the permanent grade of rear admiralunder the circumstances prescribed for entitlement to the basic pay of a rear admiral of the upper half under the provisions of subsections (a) through (d) of section 202 of title 37, United States Code, as in effect on the day before the effective date of this Act \[Sept. 15, 1981\]. For the purposes of this subsection, officers serving in the permanent grade of rear admiral or commodore in accordance with subsection (a) shall be considered as serving in the grade of rear admiral, as such grade was in effect on the day before the effective date of this Act.
+“(2) Officers to whom this subsection applies become entitled to hold the permanent grade of rear admiral under the circumstances prescribed for entitlement to the basic pay of a rear admiral of the upper half under the provisions of subsections (a) through (d) of section 202 of title 37, United States Code, as in effect on the day before the effective date of this Act \[Sept. 15, 1981\]. For the purposes of this subsection, officers serving in the permanent grade of rear admiral or commodore in accordance with subsection (a) shall be considered as serving in the grade of rear admiral, as such grade was in effect on the day before the effective date of this Act.
 
 “(e) Unless entitled to a higher grade under another provision of law, an officer of the Navy who on the day before the effective date of this Act \[Sept. 15, 1981\]—
 
@@ -472,7 +472,7 @@ I74“establishment of initial active-duty lists
 
 #### “officers serving in grades above major general or rear admiral
 
-“Sec. 623. (a) Any officer who on the day before the effective date of this Act \[Sept. 15, 1981\] held a temporary appointment in the grade of lieutenant general or general under section 3066, 5232, or 8066 of title 10, United States Code, or a temporary appointment in the grade of vice admiral or admiral under section 5231 of such title, shall on and after such date be considered to be serving in such grade as if such appointment hadbeen made under section 601 of such title, as added by this Act.
+“Sec. 623. (a) Any officer who on the day before the effective date of this Act \[Sept. 15, 1981\] held a temporary appointment in the grade of lieutenant general or general under section 3066, 5232, or 8066 of title 10, United States Code, or a temporary appointment in the grade of vice admiral or admiral under section 5231 of such title, shall on and after such date be considered to be serving in such grade as if such appointment had been made under section 601 of such title, as added by this Act.
 
 “(b)(1) Any designation of a position as a position of importance and responsibility made by the President under section 3066 or 8066 of title 10, United States Code, before the effective date of this Act \[Sept. 15, 1981\], shall remain in effect, unless changed by the President, as a designation of such position as a position of importance and responsibility under section 601 of such title, as added by this Act.
 
@@ -516,7 +516,7 @@ I74“establishment of initial active-duty lists
 
 #### “transition to officer grade-strength tables during fiscal year 1981
 
-“Sec. 627. For the fiscal year ending on September 30, 1981, the maximum number of officers authorized to be serving on active duty as of the end of such fiscal year in each of the grades of major, lieutenant colonel, and colonel for the Army, Air Force, and Marine Corps, and in each of the grades of lieutenant commander, commander, and captain for the Navy, under section 523 of title 10, United States Code, as added by this Act, is increased by the number equal to one-half the difference between (1) the actual number of officers of that armed force serving on active duty in that grade on September 30, 1980 (excluding officers in categories specified in subsection (b) of such section), and (2) the number specified in the table contained in such section for such armed force and grade based upon the total number of commissioned officers of such armed force on active duty on September 30, 1981 (excluding officers in categories specified in subsection (b) of such section).
+“Sec. 627. For the fiscal year ending on September 30, 1981, the maximum number of officers authorized to be serving on active duty as of the end of such fiscal year in each of the grades of major, lieutenant colonel, and colonel for the Army, Air Force, and Marine Corps, and in each of the grades of lieutenant commander, commander, and captain for the Navy, under section 523 of title 10, United States Code, as added by this Act, is increased by the number equal to one-half the difference between (1) the actual number of officers of that armedforce serving on active duty in that grade on September 30, 1980 (excluding officers in categories specified in subsection (b) of such section), and (2) the number specified in the table contained in such section for such armed force and grade based upon the total number of commissioned officers of such armed force on active duty on September 30, 1981 (excluding officers in categories specified in subsection (b) of such section).
 
 #### “right of commissioned officers with permanent enlisted or warrant officer status to retire in highest enlisted or warrant officer grade held
 

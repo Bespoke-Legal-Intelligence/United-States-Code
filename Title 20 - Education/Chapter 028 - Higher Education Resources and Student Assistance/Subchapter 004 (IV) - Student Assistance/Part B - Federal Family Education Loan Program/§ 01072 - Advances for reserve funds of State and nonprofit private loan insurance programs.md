@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(iii) the proceeds of earnings on advances made under this section; or
 
-&emsp;&emsp;(B) any amount which is required to be maintained in such fund pursuant to State law or regulation, or by agreement with lenders, as a reserve against the insurance of outstanding loans.
+&emsp;&emsp;(B) any amount which is required to be maintained in such fund pursuant to State law or regulation, or by agreement withlenders, as a reserve against the insurance of outstanding loans.
 
 > &emsp;Except as provided in section 1078(c)(9)(E) or (F) of this title, such unencumbered non-Federal portion shall not be subject to recall, repayment, or recovery by the Secretary.
 
@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;The total of the advances from the sums appropriated pursuant to paragraph (4)(A) of section 1071(b) of this title to nonprofit private institutions and organizations for the benefit of students in any State and to such State may not exceed an amount which bears the same ratio to such sums as the population of such State aged 18 to 22, inclusive, bears to the population of all the States aged 18 to 22 inclusive, but such advances may otherwise be insuch amounts as the Secretary determines will best achieve the purposes for which they are made. The amount available for advances to any State shall not be less than $25,000 and any additional funds needed to meet this requirement shall be derived by proportionately reducing (but not below $25,000) the amount available for advances to each of the remaining States.
+&emsp;The total of the advances from the sums appropriated pursuant to paragraph (4)(A) of section 1071(b) of this title to nonprofit private institutions and organizations for the benefit of students in any State and to such State may not exceed an amount which bears the same ratio to such sums as the population of such State aged 18 to 22, inclusive, bears to the population of all the States aged 18 to 22 inclusive, but such advances may otherwise be in such amounts as the Secretary determines will best achieve the purposes for which they are made. The amount available for advances to any State shall not be less than $25,000 and any additional funds needed to meet this requirement shall be derived by proportionately reducing (but not below $25,000) the amount available for advances to each of the remaining States.
 
 #### (2) Calculation of population
 
@@ -76,7 +76,7 @@
 
 &emsp;Except as provided in paragraph (7), advances pursuant to this subsection shall be made to a State—
 
-&emsp;&emsp;(A) in the case of a State which is actively carrying on a program under an agreement pursuant to section 1078(b) of this title which was entered into before October 12, 1976, upon such date as such State may request, but not before October 1, 1977, and on the same day of each of the 2 succeeding calendar years after the date so requested; and
+&emsp;&emsp;(A) in the case of a State which is actively carrying on a program under an agreementpursuant to section 1078(b) of this title which was entered into before October 12, 1976, upon such date as such State may request, but not before October 1, 1977, and on the same day of each of the 2 succeeding calendar years after the date so requested; and
 
 &emsp;&emsp;(B) in the case of a State which enters into an agreement pursuant to section 1078(b) of this title on or after October 12, 1976, or which is not actively carrying on a program under an agreement pursuant to such section on such date, upon such date as such State may request, but not before October 1, 1977, and on the same day of each of the 4 succeeding calendar years after the date so requested of the advance.
 
@@ -184,7 +184,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;(B) If the reserve ratio of any guaranty agency as computed under subparagraph (A) exceeds 2.0 percent, the agency's required share shall include so much of the amounts held in the agency's reserve funds as exceed a reserve ratio of 2.0 percent.
 
-&emsp;&emsp;(C) If any additional amount is required to be recalled under paragraph (1) (after deducting the total of the required shares calculated under subparagraph (B)), such additional amount shall be obtained by imposing on each guaranty agency an equal percentage reduction in the amount of the agency's reserve funds remaining after deduction of the amount recalled under subparagraph (B), except that such percentage reduction underthis subparagraph shall not result in the agency's reserve ratio being reduced below 0.58 percent. The equal percentage reduction shall be the percentage obtained by dividing—
+&emsp;&emsp;(C) If any additional amount is required to be recalled under paragraph (1) (after deducting the total of the required shares calculated under subparagraph (B)), such additional amount shall be obtained by imposing on each guaranty agency an equal percentage reduction in the amount of the agency's reserve funds remaining after deduction of the amount recalled under subparagraph (B), except that such percentage reduction under this subparagraph shall not result in the agency's reserve ratio being reduced below 0.58 percent. The equal percentage reduction shall be the percentage obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the additional amount required to be recalled (after deducting the total of the required shares calculated under subparagraph (B)), by
 
@@ -248,7 +248,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (C) Use of sanctions collections
 
-&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary undersubsection (g)(1)(C) of this section during such period that do not exceed a guaranty agency's next installment under paragraph (4)—
+&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subsection (g)(1)(C) of this section during such period that do not exceed a guaranty agency's next installment under paragraph (4)—
 
 &emsp;&emsp;&emsp;(i) shall be used to satisfy the agency's next installment; and
 
@@ -316,7 +316,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (C) Special rule
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the percentage reduction under subparagraph (B) shall not result in the depletion of the reserve funds of any agency which charges the 1.0 percent insurance premium pursuant to section 1078(b)(1)(H) of this title below an amount equal to the amount of lender claim payments paid during the 90 days prior to the date of the return under this subsection. If any additional amount is required to be returned after deducting the total of the required shares under subparagraph (B) and as a result of the preceding sentence, such additional amount shall be obtained by imposing on each guaranty agency to which the preceding sentence does not apply, an equal percentage reduction in the amount of the agency's remaining reserve funds.
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the percentage reduction under subparagraph (B) shall not result in the depletion of the reserve funds of any agency which charges the 1.0 percent insurance premium pursuant to section 1078(b)(1)(H) of this titlebelow an amount equal to the amount of lender claim payments paid during the 90 days prior to the date of the return under this subsection. If any additional amount is required to be returned after deducting the total of the required shares under subparagraph (B) and as a result of the preceding sentence, such additional amount shall be obtained by imposing on each guaranty agency to which the preceding sentence does not apply, an equal percentage reduction in the amount of the agency's remaining reserve funds.
 
 #### (4) Offset of required shares
 
@@ -330,7 +330,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;(B) does not include buildings, equipment, or other nonliquid assets.
 
-(Pub. L. 89–329, title IV, §422, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1354; amended Pub. L. 100–203, title III, §§3001(a),3002(a), Dec. 22, 1987, 101 Stat. 1330–36, 1330–38; Pub. L. 102–325, title IV, §§412, 416(p)(8), July 23, 1992, 106 Stat. 511, 527; Pub. L. 103–66, title IV, §§4041(a), (2)(A), 4042, Aug. 10, 1993, 107 Stat. 354, 357; Pub. L. 103–208, §2(c)(1), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–33, title VI, §6101(a), Aug. 5, 1997, 111 Stat. 648; Pub. L. 105–244, title IV, §412, Oct. 7, 1998, 112 Stat. 1673.)
+(Pub. L. 89–329, title IV, §422, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1354; amended Pub. L. 100–203, title III, §§3001(a), 3002(a), Dec. 22, 1987, 101 Stat. 1330–36, 1330–38; Pub. L. 102–325, title IV, §§412, 416(p)(8), July 23, 1992, 106 Stat. 511, 527; Pub. L. 103–66, title IV, §§4041(a), (2)(A), 4042, Aug. 10, 1993, 107 Stat. 354, 357; Pub. L. 103–208, §2(c)(1), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–33, title VI, §6101(a), Aug. 5, 1997, 111 Stat. 648; Pub. L. 105–244, title IV, §412, Oct. 7, 1998, 112 Stat. 1673.)
 
 #### Codification
 

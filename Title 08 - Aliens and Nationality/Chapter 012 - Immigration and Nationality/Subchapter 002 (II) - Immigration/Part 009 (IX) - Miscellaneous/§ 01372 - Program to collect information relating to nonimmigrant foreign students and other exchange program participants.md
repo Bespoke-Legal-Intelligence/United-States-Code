@@ -4,7 +4,7 @@
 
 #### (1) Program
 
-&emsp;The Attorney General, in consultation with the Secretary of State and the Secretary ofEducation, shall develop and conduct a program to collect from approved institutions of higher education, other approved educational institutions, and designated exchange visitor programs in the United States the information described in subsection (c) of this section with respect to aliens who—
+&emsp;The Attorney General, in consultation with the Secretary of State and the Secretary of Education, shall develop and conduct a program to collect from approved institutions of higher education, other approved educational institutions, and designated exchange visitor programs in the United States the information described in subsection (c) of this section with respect to aliens who—
 
 &emsp;&emsp;(A) have the status, or are applying for the status, of nonimmigrants under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title; and
 
@@ -120,7 +120,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 #### (B) Use
 
-&emsp;&emsp;Fees collected under paragraph (1) shall be deposited as offsetting receipts into the Immigration Examinations Fee Account (established under section 1356(m) of this title) and shall remain available until expended for the Attorney General to reimburse any appropriation the amount paid out of which is for expenses in carrying out this section. Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a) of this section.
+&emsp;&emsp;Fees collected under paragraph (1) shall be deposited as offsetting receipts into the Immigration Examinations Fee Account (established under section 1356(m) of this title) and shall remain available until expendedfor the Attorney General to reimburse any appropriation the amount paid out of which is for expenses in carrying out this section. Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a) of this section.
 
 #### (5) Proof of payment
 
@@ -136,7 +136,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 #### (f) Joint report
 
-Not later than 4 years after the commencement of the program established under subsection (a) of this section, the Attorney General, the Secretary of State, and the Secretary ofEducation shall jointly submit to the Committees on the Judiciary of the Senate and the House of Representatives a report on the operations of the program and the feasibility of expanding the program to cover the nationals of all countries.
+Not later than 4 years after the commencement of the program established under subsection (a) of this section, the Attorney General, the Secretary of State, and the Secretary of Education shall jointly submit to the Committees on the Judiciary of the Senate and the House of Representatives a report on the operations of the program and the feasibility of expanding the program to cover the nationals of all countries.
 
 #### (g) Worldwide applicability of program
 
@@ -218,7 +218,7 @@ Subsec. (e)(4)(A). Pub. L. 106–553 inserted before period at end of second sen
 
 Pub. L. 106–396, §404(4)(A), inserted before period at end of second sentence “, except that, in the case of an alien admitted under section 1101(a)(15)(J) of this title as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $40”. See amendment note above.
 
-Subsec. (e)(4)(B). Pub. L. 106–396, §404(4)(B), inserted at end “Such expenses include, but are not necessarilylimited to, those incurred by the Secretary of State in connection with the program under subsection (a) of this section.”
+Subsec. (e)(4)(B). Pub. L. 106–396, §404(4)(B), inserted at end “Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a) of this section.”
 
 Subsec. (e)(5), (6). Pub. L. 106–396, §404(5), added pars. (5) and (6).
 

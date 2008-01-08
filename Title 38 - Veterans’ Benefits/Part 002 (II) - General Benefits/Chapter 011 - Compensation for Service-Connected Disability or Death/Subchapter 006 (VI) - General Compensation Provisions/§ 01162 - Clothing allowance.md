@@ -112,7 +112,7 @@ Amendment by Pub. L. 100–227 effective Dec. 1, 1987, see section 107 of Pub. L
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–576 effective Dec. 1, 1986, but not effective unless benefit amounts payable under section 401 et seq. of Title 42, The Public Health and Welfare, are increased effective Dec. 1, 1986, as a result of a determination under section 415(i) of Title 42, see section 107 of Pub. L. 99–576, set out as a note under section 1114 of this title.
+Amendment by Pub. L. 99–576 effective Dec. 1, 1986, but not effective unless benefit amounts payable undersection 401 et seq. of Title 42, The Public Health and Welfare, are increased effective Dec. 1, 1986, as a result of a determination under section 415(i) of Title 42, see section 107 of Pub. L. 99–576, set out as a note under section 1114 of this title.
 
 Amendment by Pub. L. 99–238 effective Dec. 1, 1985, see section 107 of Pub. L. 99–238, set out as a note under section 1114 of this title.
 

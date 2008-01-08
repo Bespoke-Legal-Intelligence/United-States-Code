@@ -14,7 +14,7 @@
 
 #### (A) Implementation deadline
 
-&emsp;&emsp;The Secretary shall implement the program under this section so that discount cards and transitional assistance are first available by not later than 6 months after December 8, 2003.
+&emsp;&emsp;The Secretary shall implement the program under this section so that discountcards and transitional assistance are first available by not later than 6 months after December 8, 2003.
 
 #### (B) Expediting implementation
 
@@ -108,7 +108,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term “transitional assistance eligible individual” means a discount card eligible individual who resides in one of the 50 States or the District of Columbia and whose income (as determined under subsection (f)(1)(B) of this section) is not more than 135 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section) applicable to the family size involved (as determined under subsection (f)(1)(B) of this section).
+&emsp;&emsp;Subject to subparagraph (B), the term “transitional assistance eligible individual” means a discount card eligible individual who resides in one of the 50 States or theDistrict of Columbia and whose income (as determined under subsection (f)(1)(B) of this section) is not more than 135 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section) applicable to the family size involved (as determined under subsection (f)(1)(B) of this section).
 
 #### (B) Exclusion of individuals with certain prescription drug coverage
 
@@ -158,7 +158,7 @@ For purposes of this section:
 
 #### (iii) Additional exceptions
 
-&emsp;&emsp;&emsp;The Secretary shall permit an individual to change the endorsed discount card program in which the individual is enrolled in the case of an individual who changes residence to be outside the service area of such program and in such other exceptional cases as the Secretary may provide (taking into account the circumstances for special election periods under section 1395w–21(e)(4) of this title). Under the previous sentence, the Secretary may consider a change in residential setting (such as placement in a nursing facility) or enrollment in or disenrollment from a plan under part C of this subchapter throughwhich the individual was enrolled in an endorsed program to be an exceptional circumstance.
+&emsp;&emsp;&emsp;The Secretary shall permit an individual to change the endorsed discount card program in which the individual is enrolled in the case of an individual who changes residence to be outside the service area of such program and in such other exceptional cases as the Secretary may provide (taking into account the circumstances for special election periods under section 1395w–21(e)(4) of this title). Under the previous sentence, the Secretary may consider a change in residential setting (such as placement in a nursing facility) or enrollment in or disenrollment from a plan under part C of this subchapter through which the individual was enrolled in an endorsed program to be an exceptional circumstance.
 
 #### (D) Disenrollment
 
@@ -172,7 +172,7 @@ For purposes of this section:
 
 #### (E) Application to certain enrollees
 
-&emsp;&emsp;In the case of a discount card eligible individual who is enrolled in a plan described in section 1395w–21(a)(2)(A) of this title or under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is offered by an organization that also is a prescription discount card sponsor that offers an endorsed discount card program under which the individual may be enrolled and that has made an election to apply the special rules under subsection (h)(9)(B) of this section for such an endorsed program, the individual may only enroll in such an endorsed discount card program offered by that sponsor.
+&emsp;&emsp;In the case of a discount card eligible individual who is enrolled in a plan described insection 1395w–21(a)(2)(A) of this title or under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is offered by an organization that also is a prescription discount card sponsor that offers an endorsed discount card program under which the individual may be enrolled and that has made an election to apply the special rules under subsection (h)(9)(B) of this section for such an endorsed program, the individual may only enroll in such an endorsed discount card program offered by that sponsor.
 
 #### (2) Enrollment fees
 
@@ -360,7 +360,7 @@ For purposes of this section:
 
 #### (iii) Information from Secretary of the Treasury
 
-&emsp;&emsp;&emsp;Financial information made available to the Secretary under section 6103(<i>l</i>)(19) of title 26 in order to verify the eligibility of individuals who provide such certification.
+&emsp;&emsp;&emsp;Financial information made available to the Secretary under section 6103(<i>l</i>)(19) of the Internal Revenue Code of 1986 in order to verify the eligibility of individuals who provide such certification.
 
 #### (C) Verification in cases of medicaid enrollees
 
@@ -370,7 +370,7 @@ For purposes of this section:
 
 #### (ii) Availability of information for verification purposes
 
-&emsp;&emsp;&emsp;As a condition of provision of Federal financial participation to a State that is one of the 50 States or the District of Columbia under subchapter XIX of this chapter, for purposes of carrying out this section, the State shall provide the information it submits to the Secretary relating to such subchapter in a manner specified by the Secretary that permits the Secretary to identify individuals who are described in subsection (b)(1)(B) of this section or are transitional assistance eligible individuals or special transitional assistance eligible individuals.
+&emsp;&emsp;&emsp;As a condition of provision of Federal financial participation to a State that is oneof the 50 States or the District of Columbia under subchapter XIX of this chapter, for purposes of carrying out this section, the State shall provide the information it submits to the Secretary relating to such subchapter in a manner specified by the Secretary that permits the Secretary to identify individuals who are described in subsection (b)(1)(B) of this section or are transitional assistance eligible individuals or special transitional assistance eligible individuals.
 
 #### (4) Reconsideration
 
@@ -538,7 +538,7 @@ For purposes of this section:
 
 #### (3) Service area encompassing entire States
 
-&emsp;&emsp;Except as provided in paragraph (9), if a prescription drug card sponsor that offers an endorsed program enrolls in the program individuals residing in any part of a State, the sponsor must permit any discount card eligible individual residing in any portion of the State to enroll in the program.
+&emsp;Except as provided in paragraph (9), if a prescription drug card sponsor that offers an endorsed program enrolls in the program individuals residing in any part of a State, the sponsor must permit any discount card eligible individual residing in any portion of the State to enroll in the program.
 
 #### (4) Savings to medicare beneficiaries
 
@@ -582,7 +582,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an organization that is offering a plan under part C of this subchapter orenrollment under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is seeking to be a prescription drug card sponsor under this section, the organization may elect to apply the special rules under subparagraph (B) with respect to enrollees in any plan described in section 1395w–21(a)(2)(A) of this title that it offers or under such contract and an endorsed discount card program it offers, but only if it limits enrollment under such program to individuals enrolled in such plan or under such contract.
+&emsp;&emsp;In the case of an organization that is offering a plan under part C of this subchapter or enrollment under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is seeking to be a prescription drug card sponsor under this section, the organization may elect to apply the special rules under subparagraph (B) with respect to enrollees in any plan described in section 1395w–21(a)(2)(A) of this title that it offers or under such contract and an endorsed discount card program it offers, but only if it limits enrollment under such program to individuals enrolled in such plan or under such contract.
 
 #### (B) Special rules
 
@@ -652,7 +652,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;There is created within the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title an account to be known as the “Transitional Assistance Account” (in this subsection referred to as the “Account”).
+&emsp;&emsp;There is created within the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title an account to be known as the “TransitionalAssistance Account” (in this subsection referred to as the “Account”).
 
 #### (B) Funds
 
@@ -696,6 +696,8 @@ Parts A and B of this subchapter, referred to in subsecs. (b)(1)(A)(i) and (j)(2
 
 Part C of this subchapter, referred to in subsecs. (b)(2)(B)(i), (c)(1)(C)(iii), (g)(7), and (h)(1)(A)(iv), (9), is classified to section 1395w–21 et seq. of this title.
 
+The Internal Revenue Code of 1986, referred to in subsec. (f)(3)(B)(iii), is classified generally to Title 26, Internal Revenue Code.
+
 Part C of subchapter XI of this chapter, referred to in subsec. (h)(6)(A), is classified to section 1320d et seq. of this title.
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (h)(6)(A), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
@@ -718,5 +720,5 @@ Pub. L. 108–173, title I, §105(c), Dec. 8, 2003, 117 Stat. 2166, provided tha
 
 &emsp;“(4)(A) There shall be no judicial review of a determination not to endorse, or enter into a contract, with a prescription drug card sponsor under section 1860D–31 of the Social Security Act.
 
-&emsp;“(B) In the case of any order issued to enjoin any provision of section 1860D–31 of the Social Security Act (or of \[sic\] any provision of this section \[amending sections 1395r, 1395t, and 1396r–8 of this title and sections 6103 and 7213 of Title 26, Internal Revenue Code\]), such order shall not affect any other provisionof such section (or of this section) and all such provisions shall be treated as severable.”
+&emsp;“(B) In the case of any order issued to enjoin any provision of section 1860D–31 of the Social Security Act (or of \[sic\] any provision of this section \[amending sections 1395r, 1395t, and 1396r–8 of this title and sections 6103 and 7213 of Title 26, Internal Revenue Code\]), such order shall not affect any other provision of such section (or of this section) and all such provisions shall be treated as severable.”
 

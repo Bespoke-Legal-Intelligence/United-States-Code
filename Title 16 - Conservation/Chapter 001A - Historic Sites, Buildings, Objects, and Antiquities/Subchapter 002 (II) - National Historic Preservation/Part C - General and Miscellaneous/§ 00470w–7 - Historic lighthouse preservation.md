@@ -48,7 +48,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 &emsp;&emsp;(C) the eligible entity to which the historic light station is conveyed under this section shall not interfere or allow interference in any manner with any Federal aid to navigation, nor hinder activities required for the operation and maintenance of any Federal aid to navigation, without the express written permission of the head of the agency responsible for maintaining the Federal aid to navigation;
 
-&emsp;&emsp;(D) the eligible entity to which the historic light station is conveyed under this section shall, at its own cost and expense,use and maintain the historic light station in accordance with this subchapter, the Secretary of the Interior's Standards for the Treatment of Historic Properties, 36 CFR part 68, and other applicable laws, and any proposed changes to the historic light station shall be reviewed and approved by the Secretary in consultation with the State Historic Preservation Officer of the State in which the historic light station is located, for consistency with 36 CFR part 800.5(a)(2)(vii), and the Secretary of the Interior's Standards for Rehabilitation, 36 CFR part 67.7;
+&emsp;&emsp;(D) the eligible entity to which the historic light station is conveyed under this section shall, at its own cost and expense, use and maintain the historic light station in accordance with this subchapter, the Secretary of the Interior's Standards for the Treatment of Historic Properties, 36 CFR part 68, and other applicable laws, and any proposed changes to the historic light station shall be reviewed and approved by the Secretary in consultation with the State Historic Preservation Officer of the State in which the historic light station is located, for consistency with 36 CFR part 800.5(a)(2)(vii), and the Secretary of the Interior's Standards for Rehabilitation, 36 CFR part 67.7;
 
 &emsp;&emsp;(E) the eligible entity to which the historic light station is conveyed under this section shall make the historic light station available for education, park, recreation, cultural or historic preservation purposes for the general public at reasonable times and under reasonable conditions;
 
@@ -86,13 +86,13 @@ In order to provide a national historic light station program, the Secretary sha
 
 &emsp;&emsp;(B) is conveying it to another person by sale, gift, or any other manner,
 
-> &emsp;the Secretary shall review the terms of the executed or proposed conveyance to ensure that any new owner is capable of or is complying with any and all conditions of the original conveyance. The Secretary may require the parties to the conveyance and relevant Federal agencies to provide such information as is necessary to complete this review. If the Secretary determines that the new owner has not or is unable to comply with those conditions, the Secretary shall immediately advise the Administrator, who shall invoke any reversionary interest or take such other action as may be necessary to protect the interests of the United States.
+> &emsp;the Secretary shall review the terms of the executed or proposed conveyance to ensure that any new owner is capable of or is complying with any and all conditions of the original conveyance. The Secretary may require the parties to the conveyance and relevant Federal agencies to provide such information as isnecessary to complete this review. If the Secretary determines that the new owner has not or is unable to comply with those conditions, the Secretary shall immediately advise the Administrator, who shall invoke any reversionary interest or take such other action as may be necessary to protect the interests of the United States.
 
 #### (d) Description of property
 
 #### (1) In general
 
-&emsp;The Administrator shall prepare the legal description of any historic light station conveyed under this section. The Administrator, in consultation with the Commandant, United States Coast Guard, and the Secretary, mayretain all right, title, and interest of the United States in and to any historical artifact, including any lens or lantern, that is associated with the historic light station and located at the light station at the time of conveyance. Wherever possible, such historical artifacts should be used in interpreting that station. In cases where there is no method for preserving lenses and other artifacts and equipment in situ, priority should be given to preservation or museum entities most closely associated with the station, if they meet loan requirements.
+&emsp;The Administrator shall prepare the legal description of any historic light station conveyed under this section. The Administrator, in consultation with the Commandant, United States Coast Guard, and the Secretary, may retain all right, title, and interest of the United States in and to any historical artifact, including any lens or lantern, that is associated with the historic light station and located at the light station at the time of conveyance. Wherever possible, such historical artifacts should be used in interpreting that station. In cases where there is no method for preserving lenses and other artifacts and equipment in situ, priority should be given to preservation or museum entities most closely associated with the station, if they meet loan requirements.
 
 #### (2) Artifacts
 
@@ -156,7 +156,7 @@ Section 416(d) of the Coast Guard Authorization Act of 1998, referred to in subs
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

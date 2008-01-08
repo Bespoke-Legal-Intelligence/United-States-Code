@@ -112,7 +112,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 “(e)
 
-Allocation of Funds to Facilities.—The Secretary shall allocate funds appropriated pursuant to the authorization of appropriations in subsection (d) to individual medical facilities of the Department in such amounts as the Secretary determines appropriate, based upon proposals submitted by such facilities for the use of such funds for improvements to the support of the provision of caregiver assistance services. Special consideration should be given to rural facilities, including those without a long-term care facility of the Department.
+Allocation of Funds to Facilities.—The Secretary shall allocate funds appropriated pursuant to the authorization of appropriations in subsection (d) to individual medical facilities of the Department in such amounts as the Secretary determines appropriate, based upon proposals submitted by such facilities for the use of such funds for improvements to the supportof the provision of caregiver assistance services. Special consideration should be given to rural facilities, including those without a long-term care facility of the Department.
 
 “(f)
 

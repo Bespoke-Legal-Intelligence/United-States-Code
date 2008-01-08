@@ -18,7 +18,7 @@
 
 (1) No grant may be made to a hospital unless an application therefor is submitted to and approved by the Secretary. Such an application shall be in such form and submitted in such manner as the Secretary may prescribe and shall include—
 
-&emsp;(A) a description of each service to be discontinued and, if a part of a hospital is to bediscontinued or converted to another use in connection with such discontinuance, a description of such part;
+&emsp;(A) a description of each service to be discontinued and, if a part of a hospital is to be discontinued or converted to another use in connection with such discontinuance, a description of such part;
 
 &emsp;(B) an evaluation of the impact of such discontinuance and conversion on the provision of health care in the health service area in which such service is provided;
 
@@ -30,7 +30,7 @@
 
 (2)(A) The health systems agency for the health service area in which is located a hospital applying for a grant under the program shall (i) in making the review of the applicant's application under section 300<i>l</i>–2(e) <sup>1</sup> of this title, determine the need for each service or part proposed to be discontinued by the applicant, (ii) in the case of an application for the conversion of a facility, determine the need for each service which will be provided as a result of the conversion, and (iii) make a recommendation to the State Agency for the State in which the applicant is located respecting approval by the Secretary of the applicant's application.
 
-(B) A State Agency which has received a recommendation from a health systems agency under subparagraph (A) respecting an application shall, after consideration of such recommendation, make a recommendation to the Secretary respecting the approval by the Secretary of the application. A State Agency's recommendation under this subparagraph respecting the approval of an application (i) shall be based upon (I) the need for each service or part proposed to be discontinued by the applicant, (II) in the case of an application for the conversion of a facility, the need for each service which will be provided as a result of the conversion, and (III) such other criteria as the Secretary may prescribe, and (ii) shall be accompanied by the health systems agency's recommendation made with respect to the approval of the application.
+(B) A State Agency which has received a recommendation from a health systems agency under subparagraph (A) respecting an application shall, after consideration of such recommendation, make a recommendation to the Secretary respecting the approval by the Secretary of the application. A State Agency's recommendation under this subparagraph respecting the approval of an application (i) shall be based upon (I) the need for each service or part proposed to be discontinued by the applicant, (II) in the case of an application for the conversion ofa facility, the need for each service which will be provided as a result of the conversion, and (III) such other criteria as the Secretary may prescribe, and (ii) shall be accompanied by the health systems agency's recommendation made with respect to the approval of the application.
 
 (C) In determining, under subparagraphs (A) and (B), the need for the service (or services) or part proposed to be discontinued or converted by an applicant for a grant, a health systems agency and State Agency shall give special consideration to the unmet needs and existing access patterns of urban or rural poverty populations.
 
@@ -54,7 +54,7 @@
 
 &emsp;(B) one hundred and twenty days from such date if the Secretary of Labor has by regulation prescribed the circumstances under which the review will require at least one hundred and twenty days.
 
-> If within the applicable period, the Secretary of Labor does not notify the Secretary of Health and Human Services respecting his determination, the Secretary of Health and Human Services shall review the application to determine ifthe applicant has made the arrangements described in paragraph (1) and if such arrangements are satisfactory. The Secretary may not approve the application unless he determines that such arrangements have been made and that they are satisfactory.
+> If within the applicable period, the Secretary of Labor does not notify the Secretary of Health and Human Services respecting his determination, the Secretary of Health and Human Services shall review the application to determine if the applicant has made the arrangements described in paragraph (1) and if such arrangements are satisfactory. The Secretary may not approve the application unless he determines that such arrangements have been made and that they are satisfactory.
 
 #### (d) Records and audits requirements
 
@@ -80,7 +80,7 @@ Section 300<i>l</i>–2, of this title, referred to in subsec. (b)(2)(A), was re
 
 The National Labor Relations Act, referred to in subsec. (c)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
-Section 292e of this title, referred to in subsec. (d), was in the original a reference to section 705 of act July 1, 1944. Section 705 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 705 of act July 1, 1944, relating to eligibility of borrowers and terms of insured loans, and a new section 706, relating to certificates of loan insurance, which are classified to sections 292d and 292e, respectively, of this title.
+Section 292e of this title, referred to in subsec. (d), was in the original a reference to section 705 of act July 1, 1944. Section 705 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 705 of act July 1, 1944, relating to eligibility of borrowers and terms of insured loans, and a new section 706, relating to certificates ofloan insurance, which are classified to sections 292d and 292e, respectively, of this title.
 
 The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

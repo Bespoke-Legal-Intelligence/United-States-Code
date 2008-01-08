@@ -22,8 +22,6 @@
 
 1958—Pub. L. 85–861, §1(165), Sept. 2, 1958, 72 Stat. 1516, substituted “Air Force medical specialists” for “women medical specialists” in item 8207, inserted “Air Force Reserve; Air National Guard of United States” in item 8212, and added items 8217 to 8219 and 8230.
 
-§8201
-
 
 ---
 

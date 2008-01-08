@@ -84,7 +84,7 @@ The following sections of this chapter shall apply to States under this subchapt
 
 #### (f) Limitation of waiver authority
 
-Notwithstanding subsection (e)(2)(A) and section 1315(a) of this title, the Secretary may not approve a waiver, experimental, pilot, or demonstration project that would allow funds made available under this subchapter to be used to provide child health assistance or other health benefits coverage to a nonpregnant childless adult. For purposes of the preceding sentence, acaretaker relative (as such term is defined for purposes of carrying out section 1396u–1 of this title) shall not be considered a childless adult.
+Notwithstanding subsection (e)(2)(A) and section 1315(a) of this title, the Secretary may not approve a waiver, experimental, pilot, or demonstration project that would allow funds made available under this subchapter to be used to provide child health assistance or other health benefits coverage to a nonpregnant childless adult. For purposes of the preceding sentence, a caretaker relative (as such term is defined for purposes of carrying out section 1396u–1 of this title) shall not be considered a childless adult.
 
 (Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) \[title VIII, §803\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131.)
 

@@ -50,7 +50,7 @@ Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employmen
 
 Subsec. (b)(1)(A). Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
 
-Pub. L. 100–323, §5(1)–(3), designated existing provisions as subpar. (A), redesignated former cls. (A) and (B) as (i) and (ii), respectively, and substituted “, except as provided in subparagraph (B) of this paragraph, be a qualified veteran” for “be an eligible veteran” in cl. (i).
+Pub. L. 100–323, §5(1)–(3), designated existing provisions as subpar. (A), redesignated former cls. (A) and\(B) as (i) and (ii), respectively, and substituted “, except as provided in subparagraph (B) of this paragraph, be a qualified veteran” for “be an eligible veteran” in cl. (i).
 
 Subpar. (b)(1)(B). Pub. L. 100–323, §5(4), added subpar. (B).
 

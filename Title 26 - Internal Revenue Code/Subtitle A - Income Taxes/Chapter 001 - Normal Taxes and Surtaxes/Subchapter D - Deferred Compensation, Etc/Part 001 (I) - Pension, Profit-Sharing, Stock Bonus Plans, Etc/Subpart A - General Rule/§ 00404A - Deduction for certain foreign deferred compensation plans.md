@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;If—
 
-&emsp;&emsp;(A) the aggregate of the contributions paid during the taxable year reduced by any contributions not allowable as a deduction under paragraphs (1) and (2) of subsection (g), exceeds
+&emsp;&emsp;(A) the aggregate of the contributions paid during the taxable year reduced by any contributions not allowable as a deductionunder paragraphs (1) and (2) of subsection (g), exceeds
 
 &emsp;&emsp;(B) the amount allowable as a deduction under subsection (a) (determined without regard to subsection (d)),
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (2) Qualified reserve plan
 
-&emsp;The term “qualified reserve plan” means a qualified foreign plan with respect to which an election made by the taxpayer is in effect for the taxable year. An election under the preceding sentence shall be made in such manner and form as the Secretary may by regulations prescribe and, once made, may be revoked only with the consent of the Secretary.
+&emsp;The term “qualified reserve plan” means a qualified foreign plan with respect to which anelection made by the taxpayer is in effect for the taxable year. An election under the preceding sentence shall be made in such manner and form as the Secretary may by regulations prescribe and, once made, may be revoked only with the consent of the Secretary.
 
 #### (g) Other special rules
 
@@ -176,7 +176,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), principles similar to those set forth in paragraphs (3) and (7) of section 412(c) shall apply for purposes of this section.
+&emsp;&emsp;Except as provided in subparagraph (B), principles similar to those set forth in paragraphs (3) and (6) of section 431(c) shall apply for purposes of this section.
 
 #### (B) Interest rate for reserve plan
 
@@ -206,17 +206,15 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Added Pub. L. 96–603, §2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI, §1114(b)(8), title XVIII, §1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, §1012(b)(4), Nov. 10, 1988, 102 Stat. 3496; Pub. L. 109–280, title VIII, §801(c)(4), Aug. 17, 2006, 120 Stat. 995.)
 
-#### Amendment of Subsection (g)(3)(A)
-
-<i>Pub. L. 109–280, title VIII, §801(c)(4), (e)(1), Aug. 17, 2006, 120 Stat. 995, provided that, applicable to years beginning after Dec. 31, 2007, subsection (g)(3)(A) of this section is amended by substituting “paragraphs (3) and (6) of section 431(c)” for “paragraphs (3) and (7) of section 412(c)”.</i>
-
 #### Amendments
+
+2006—Subsec. (g)(3)(A). Pub. L. 109–280 substituted “paragraphs (3) and (6) of section 431(c)” for “paragraphs (3) and (7) of section 412(c)”.
 
 1988—Subsec. (d)(3). Pub. L. 100–647 inserted “except as provided in regulations,” after “qualified foreign plan,”.
 
 1986—Subsec. (a). Pub. L. 99–514, §1851(b)(2)(C)(iii), substituted “under this chapter” for “under section 162, 212, or 404” in par. (1) and “they would otherwise be deductible” for “they satisfy the conditions of section 162” in par. (2).
 
-Subsec. (g)(1)(A). Pub. L. 99–514, §1114(b)(8), substituted “a highly compensated employee (within the meaning of section 414(q))” for “an officer, shareholder, or highly compensated”.
+Subsec. (g)(1)(A). Pub. L. 99–514, §1114(b)(8), substituted “a highly compensated employee (within themeaning of section 414(q))” for “an officer, shareholder, or highly compensated”.
 
 #### Effective Date of 2006 Amendment
 

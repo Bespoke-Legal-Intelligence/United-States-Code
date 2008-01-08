@@ -20,7 +20,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(B) $750 multiplied by a fraction, the numerator of which is the contribution and benefit base (determined under section 230 of the Social Security Act \[42 U.S.C. 430\]) in effect at the time the plan terminates and the denominator of which is such contribution and benefit base in effect in calendar year 1974.
 
-> The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq.; 1381 et seq.\], and the regulationsthereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.
+> The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq.; 1381 et seq.\], and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.
 
 (4)(A) The actuarial value of a benefit, for purposes of this subsection, shall be determined in accordance with regulations prescribed by the corporation.
 
@@ -36,7 +36,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(i) owns the entire interest in an unincorporated trade or business,
 
-&emsp;(ii) in the case of a partnership, is a partner who owns, directly or indirectly, 50 percent or more of either the capital interest or the profits interest in such partnership, or
+&emsp;(ii) in the case of a partnership, is a partner who owns, directly or indirectly, 50 percent ormore of either the capital interest or the profits interest in such partnership, or
 
 &emsp;(iii) in the case of a corporation, owns, directly or indirectly, 50 percent or more in value of either the voting stock of that corporation or all the stock of that corporation.
 
@@ -140,7 +140,7 @@ Section 402(a)(1) of the Pension Protection Act of 2006, referred to in subsec. 
 
 Subsec. (b)(8). Pub. L. 109–280, §403(a), added par. (8).
 
-Subsec. (c)(3)(A). Pub. L. 109–280, §408(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Except as provided in subparagraph (C), for purposes of this subsection, the term ‘recovery ratio’ means the average ratio, with respect to prior plan terminations described in subparagraph (B), of—
+Subsec. (c)(3)(A). Pub. L. 109–280, §408(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (C), for purposes of this subsection, the term ‘recovery ratio’ means the average ratio, with respect to prior plan terminations described in subparagraph (B), of—
 
 &emsp;“(i) the value of the recovery of the corporation under section 1362, 1363, or 1364 of this title in connection with such prior terminations, to
 
@@ -202,7 +202,7 @@ Amendment by section 7881(f)(4), (5), (11) of Pub. L. 101–239 effective, excep
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Amendment by section 7894(g)(1), (3)(B) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) ofPub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7894(g)(1), (3)(B) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1987 Amendment
 

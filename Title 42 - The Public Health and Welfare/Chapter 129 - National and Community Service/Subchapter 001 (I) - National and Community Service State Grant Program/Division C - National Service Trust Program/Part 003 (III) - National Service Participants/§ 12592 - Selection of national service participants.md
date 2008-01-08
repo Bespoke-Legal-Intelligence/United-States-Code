@@ -50,7 +50,7 @@ The Corporation shall issue regulations regarding the manner and criteria by whi
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (d), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Titles I and II of the Act are classified generally to subchapters I (§4951 et seq.) and II (§5000 et seq.), respectively, of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16\(§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 Part D of this subchapter, as in effect on the day before September 21, 1993, referred to in subsec. (e)(2)(D), means former part D of this subchapter prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
 

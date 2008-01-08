@@ -20,7 +20,7 @@ The Congress finds that, through the use of various practices and procedures, ci
 
 &emsp;&emsp;&emsp;(II) more than 10,000 of the citizens of voting age of such political subdivision are members of a single language minority and are limited-English proficient; or
 
-&emsp;&emsp;&emsp;(III) in the case of a political subdivision that contains all or any part of an Indianreservation, more than 5 percent of the American Indian or Alaska Native citizens of voting age within the Indian reservation are members of a single language minority and are limited-English proficient; and
+&emsp;&emsp;&emsp;(III) in the case of a political subdivision that contains all or any part of an Indian reservation, more than 5 percent of the American Indian or Alaska Native citizens of voting age within the Indian reservation are members of a single language minority and are limited-English proficient; and
 
 &emsp;&emsp;&emsp;(ii) the illiteracy rate of the citizens in the language minority as a group is higher than the national illiteracy rate.
 
@@ -56,7 +56,7 @@ Any State or political subdivision subject to the prohibition of subsection (b) 
 
 #### (e) Definitions
 
-For purposes of this section, the term “language minorities” or “language minority group” means persons who are American Indian, Asian American, Alaskan Natives, or of Spanish heritage.
+For purposes of this section, the term “language minorities” or “language minoritygroup” means persons who are American Indian, Asian American, Alaskan Natives, or of Spanish heritage.
 
 (Pub. L. 89–110, title II, §203, as added Pub. L. 94–73, title III, §301, Aug. 6, 1975, 89 Stat. 402; amended Pub. L. 97–205, §§2(d), 4, June 29, 1982, 96 Stat. 134; Pub. L. 102–344, §2, Aug. 26, 1992, 106 Stat. 921; Pub. L. 109–246, §§7, 8, July 27, 2006, 120 Stat. 581.)
 

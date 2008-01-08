@@ -178,7 +178,7 @@ Additional Requirements.—(1) The Collection shall be preserved, protected, arc
 
 “(e)
 
-Oversight.—The Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
+Oversight.—The Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
 
 #### “SEC. 5. REVIEW, IDENTIFICATION, TRANSMISSION TO THE NATIONAL ARCHIVES, AND PUBLIC DISCLOSURE OF ASSASSINATION RECORDS BY GOVERNMENT OFFICES.
 
@@ -364,7 +364,7 @@ Removal of Review Board Member.—(1) No member of the Review Board shall be rem
 
 &emsp;“(B) by the action of the President for inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the member's duties.
 
-“(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report specifying the facts found and the grounds for the removal.
+“(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report specifying the facts found and the grounds for the removal.
 
 “(B) The President shall publish in the Federal Register a report submitted under paragraph (2)(A), except that the President may, if necessary to protect the rights of a person named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report until the completion of such pending cases or pursuant to privacy protection requirements in law.
 
@@ -420,7 +420,7 @@ Witness Immunity.—The Review Board shall be considered to be an agency of the 
 
 “(<i>l</i>)
 
-Oversight.—(1) The Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
+Oversight.—(1) The Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
 
 “(2) The Review Board shall have the duty to cooperate with the exercise of such oversight jurisdiction.
 
@@ -566,7 +566,7 @@ Notice to Public.—Every 30 calendar days, beginning on the date that is 60 cal
 
 “(f)
 
-Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
+Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations \[now Committee on Oversight and Government Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
 
 “(2) The first report shall be issued on the date that is 1 year after the date of enactment of this Act \[Oct. 26, 1992\], and subsequent reports every 12 months thereafter until termination of the Review Board.
 

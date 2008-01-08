@@ -44,3 +44,7 @@ Subsec. (b). Pub. L. 109–58, §364(a)(2), substituted “resource” for “re
 
 Subsec. (d). Pub. L. 109–58, §364(a)(3), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “There are authorized to be appropriated such sums as may be necessary to implement this section.”
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

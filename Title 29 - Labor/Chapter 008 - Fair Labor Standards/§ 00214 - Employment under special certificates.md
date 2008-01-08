@@ -2,7 +2,7 @@
 
 #### (a) Learners, apprentices, messengers
 
-The Secretary, to the extent necessary in order to prevent curtailment of opportunities for employment, shall by regulations or by orders provide for the employment of learners, of apprentices, and of messengers employed primarily in delivering letters and messages, under special certificates issued pursuant to regulations of the Secretary, at such wages lower than the minimum wage applicable under section 206 of this title and subject to such limitations as to time, number, proportion, and length of service as the Secretary shall prescribe.
+The Secretary, to the extent necessary in order to prevent curtailment of opportunities for employment, shall by regulations or by orders provide for the employment of learners, of apprentices, and of messengers employed primarily in delivering letters and messages, under special certificates issued pursuant to regulations of the Secretary, at such wages lower thanthe minimum wage applicable under section 206 of this title and subject to such limitations as to time, number, proportion, and length of service as the Secretary shall prescribe.
 
 #### (b) Students
 
@@ -34,7 +34,7 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 > For purpose of clauses (i), (ii), and (iii) of this subparagraph, the term “student hours of employment” means hours during which students are employed in a retail or service establishment under certificates issued under this subsection.
 
-(2) The Secretary, to the extent necessary in order to prevent curtailment of opportunities for employment, shall by special certificate issued under a regulation or order provide for the employment, at a wage rate not less than 85 per centum of the wage rate in effect under section 206(a)(5) of this title or not less than $1.30 an hour, whichever is the higher, of full-time students (regardless of age but in compliance with applicable child labor laws) in any occupation in agriculture.
+(2) The Secretary, to the extent necessary in order to prevent curtailment of opportunities for employment, shall by special certificate issued under a regulation or order provide for the employment, at a wage rate not less than 85 per centum of the wage rate in effect under section 206(a)(5) <sup>1</sup> of this title or not less than $1.30 an hour, whichever is the higher, of full-time students (regardless of age but in compliance with applicable child labor laws) in any occupation in agriculture.
 
 (3) The Secretary, to the extent necessary in order to prevent curtailment of opportunities for employment, shall by special certificate issued under a regulation or order provide for the employment by an institution of higher education, at a wage rate not less than 85 per centum of the otherwise applicable wage rate in effect under section 206 of this title or not less than $1.60 an hour, whichever is the higher, of full-time students (regardless of age but in compliance with applicable child labor laws) who are enrolled in such institution. The Secretary shall by regulation prescribe standards and requirements to insure that this paragraph will not create a substantial probability of reducing the full-time employment opportunities of persons other than those to whom the minimum wage rate authorized by this paragraph is applicable.
 
@@ -88,7 +88,7 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 &emsp;(i) the productivity of the employee or employees identified in the petition and the conditions under which such productivity was measured; and
 
-&emsp;(ii) the productivity of other employees performing work of essentially the same type and quality for other employers in the same vicinity.
+&emsp;(ii) the productivity of other employees performing work of essentially the same type andquality for other employers in the same vicinity.
 
 (E) The administrative law judge shall issue a decision within thirty days after the hearing provided for in subparagraph (B). Such action shall be deemed to be a final agency action unless within thirty days the Secretary grants a request to review the decision of the administrative law judge. Either the petitioner or the employer may request review by the Secretary within fifteen days of the date of issuance of the decision by the administrative law judge.
 
@@ -105,6 +105,8 @@ The Secretary may by regulation or order provide that sections 206 and 207 of th
 #### References in Text
 
 Effective date of the Fair Labor Standards Amendments of 1974, referred to in subsec. (b)(1)(B)(i), (ii), means May 1, 1974, except as otherwise specifically provided, under provisions of section 29(a) of Pub. L. 93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
+
+Section 206(a)(5) of this title, referred to in subsec. (b)(2), was redesignated section 206(a)(4) of this title by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
 #### Amendments
 
@@ -161,4 +163,6 @@ Secretary authorized to promulgate necessary rules, regulations, or orders on an
 #### Study of Wages Paid Handicapped Clients in Sheltered Workshops
 
 Section 605 of Pub. L. 89–601 instructed Secretary of Labor to commence a complete study of wage payments to handicapped clients of sheltered workshops and of feasibility of raising existing wage standards in such workshops. The Secretary was directed to report to Congress by July 1, 1967, findings of such study with appropriate recommendations.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -66,7 +66,7 @@
 
 &emsp;(B) shall contain a recital that such obligations are issued under this section, and such recital shall be conclusive evidence of the regularity of the issuance and sale of such obligations and of their validity;
 
-&emsp;(C) shall be lawful investments and may be accepted as security for all fiduciary, trust,and public funds, the investment or deposit of which shall be under the authority or control of any officer or agency of the Government of the United States, and the Secretary of the Treasury or any other officer or agency having authority over or control of any such fiduciary, trust, or public funds, may at any time sell any of the obligations of the Postal Service acquired under this section;
+&emsp;(C) shall be lawful investments and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of any officer or agency of the Government of the United States, and the Secretary of the Treasury or any other officer or agency having authority over or control of any such fiduciary, trust, or public funds, may at any time sell any of the obligations of the Postal Service acquired under this section;
 
 &emsp;(D) shall not be exempt either as to principal or interest from any taxation now or hereafter imposed by any State or local taxing authority; and
 
@@ -108,7 +108,7 @@
 
 (C)(i) Reports described under subparagraph (B)(i)(III) shall be submitted at such time and in such form, and shall include such information, as the Commission by rule requires.
 
-(ii) The Commission may, on its own motion or on request of an interested party, initiate proceedings (to be conducted in accordance with such rules as the Commission shall prescribe) to improve the quality, accuracy, or completeness of Postal Service information under subparagraph (B)(i)(III) whenever it shall appear that—
+(ii) The Commission may, on its own motion or on request of an interested party, initiate proceedings (to be conducted in accordance with such rules as the Commission shall prescribe) to improve the quality, accuracy, or completenessof Postal Service information under subparagraph (B)(i)(III) whenever it shall appear that—
 
 &emsp;(I) the quality of the information furnished in those reports has become significantly inaccurate or can be significantly improved; or
 

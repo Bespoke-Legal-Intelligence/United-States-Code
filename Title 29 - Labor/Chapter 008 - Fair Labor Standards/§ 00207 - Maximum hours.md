@@ -32,7 +32,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 > &emsp;and such employee receives compensation for employment in excess of forty hours in any workweek at a rate not less than one and one-half times the minimum wage rate applicable to him under section 206 of this title,
 
-> and if such employee receives compensation for employment in excess of twelve hours in anyworkday, or for employment in excess of fifty-six hours in any workweek, as the case may be, at a rate not less than one and one-half times the regular rate at which he is employed.
+> and if such employee receives compensation for employment in excess of twelve hours in any workday, or for employment in excess of fifty-six hours in any workweek, as the case may be, at a rate not less than one and one-half times the regular rate at which he is employed.
 
 #### (c), (d) Repealed. Pub. L. 93–259, §19(e), Apr. 8, 1974, 88 Stat. 66
 
@@ -70,7 +70,7 @@ As used in this section the “regular rate” at which an employee is employed 
 
 #### (f) Employment necessitating irregular hours of work
 
-No employer shall be deemed to have violated subsection (a) of this section by employing anyemployee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) of this section if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
+No employer shall be deemed to have violated subsection (a) of this section by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) of this section if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
 
 #### (g) Employment at piece rates
 
@@ -80,7 +80,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 &emsp;(2) in the case of an employee performing two or more kinds of work for which different hourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
 
-&emsp;(3) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: <i>Provided</i>, That the rate so established shall be authorized by regulation by the Administrator as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time;
+&emsp;(3) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: <i>Provided</i>, That the rate so established shall be authorized by regulation by the Administrator as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtimepremiums, in the particular work over a representative period of time;
 
 > and if (i) the employee's average hourly earnings for the workweek exclusive of payments described in paragraphs (1) through (7) of subsection (e) of this section are not less than the minimum hourly rate required by applicable law, and (ii) extra overtime compensation is properly computed and paid on other forms of additional pay required to be included in computing the regular rate.
 
@@ -218,7 +218,7 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 &emsp;(3) does not include job specific training.
 
-(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1,63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; Pub. L. 87–30, §6, May 5, 1961, 75 Stat. 69; Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, Sept. 23, 1966, 80 Stat. 835–837, 841, 842; Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, 88 Stat. 60, 62, 64, 66, 68; Pub. L. 99–150, §§2(a), 3(a)–(c)(1), Nov. 13, 1985, 99 Stat. 787, 789; Pub. L. 101–157, §7, Nov. 17, 1989, 103 Stat. 944; Pub. L. 104–26, §2, Sept. 6, 1995, 109 Stat. 264; Pub. L. 106–202, §2(a), (b), May 18, 2000, 114 Stat. 308, 309.)
+(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1, 63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; Pub. L. 87–30, §6, May 5, 1961, 75 Stat. 69; Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, Sept. 23, 1966, 80 Stat. 835–837, 841, 842; Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, 88 Stat. 60, 62, 64, 66, 68; Pub. L. 99–150, §§2(a), 3(a)–(c)(1), Nov. 13, 1985, 99 Stat. 787, 789; Pub. L. 101–157, §7, Nov. 17, 1989, 103 Stat. 944; Pub. L. 104–26, §2, Sept. 6, 1995, 109 Stat. 264; Pub. L. 106–202, §2(a), (b), May 18, 2000, 114 Stat. 308, 309.)
 
 #### References in Text
 
@@ -312,7 +312,7 @@ Pub. L. 106–202, §2(c), May 18, 2000, 114 Stat. 309, provided that: “The am
 
 #### Effective Date of 1995 Amendment
 
-Section 3 of Pub. L. 104–26 provided that: “The amendments made by section 2 \[amending this section\] shall apply after the date of the enactment of this Act \[Sept. 6, 1995\] and with respect to actions brought in a court after the date of the enactment of this Act.”
+Section 3 of Pub. L. 104–26 provided that: “The amendments made by section 2 \[amending this section\]shall apply after the date of the enactment of this Act \[Sept. 6, 1995\] and with respect to actions brought in a court after the date of the enactment of this Act.”
 
 #### Effective Date of 1985 Amendment
 

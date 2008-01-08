@@ -26,7 +26,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 > &emsp;&emsp;during the 60-day period preceding the effective date of the acquisition or change or continuation of control, so long as the collecting, reviewing, taking actions, or exercising authority by the State does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any other person based upon an association of such person with a depository institution;
 
-&emsp;&emsp;(B) any State from requiring any person that is acquiring control of an insurer domiciled in that State to maintain or restore the capital requirements of that insurer to the level required under the capital regulations of general applicability in that State to avoid the requirement of preparing and filing with the insurance regulatory authority of that State a plan to increase the capital of the insurer, except that any determination by the State insurance regulatory authority with respect to such requirement shall be made not later than 60 days after the date of notification under subparagraph (A); or
+&emsp;&emsp;(B) any State from requiring any person that is acquiring control of an insurer domiciled in that State to maintain or restorethe capital requirements of that insurer to the level required under the capital regulations of general applicability in that State to avoid the requirement of preparing and filing with the insurance regulatory authority of that State a plan to increase the capital of the insurer, except that any determination by the State insurance regulatory authority with respect to such requirement shall be made not later than 60 days after the date of notification under subparagraph (A); or
 
 &emsp;&emsp;(C) any State from restricting a change in the ownership of stock in an insurer, or a company formed for the purpose of controlling such insurer, after the conversion of the insurer from mutual to stock form so long as such restriction does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any other person based upon an association of such person with a depository institution.
 
@@ -204,6 +204,10 @@ This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f
 
 Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, as amended, which is classified generally to chapter 22 (§1971 et seq.) of Title 12, Banks and Banking.
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–160, §1(a), Dec. 26, 2007, 121 Stat. 1839, provided that: “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Terrorism Risk Insurance Program Reauthorization Act of 2007’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–144, §1, Dec. 22, 2005, 119 Stat. 2660, provided that: “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Terrorism Risk Insurance Extension Act of 2005’.”
@@ -214,7 +218,7 @@ Pub. L. 107–297, §1(a), Nov. 26, 2002, 116 Stat. 2322, provided that: “This
 
 #### Terrorism Insurance Program
 
-Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L. 109–144, §§2–8, Dec. 22, 2005, 119 Stat. 2660–2662, provided that:
+Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L. 109–144, §§2–8, Dec. 22, 2005, 119 Stat. 2660–2662; Pub. L. 110–160, §§2–5, Dec. 26, 2007, 121 Stat. 1839–1841, provided that:
 
 #### “SEC. 101. CONGRESSIONAL FINDINGS AND PURPOSE.
 
@@ -270,7 +274,7 @@ Certification.—The term ‘act of terrorism’ means any act that is certified
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the premises of a United States mission; and
 
-&emsp;&emsp;&emsp;“(iv) to have been committed by an individual or individuals acting on behalf of any foreign person or foreign interest, as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion.
+&emsp;&emsp;&emsp;“(iv) to have been committed by an individual or individuals, as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion.
 
 &emsp;&emsp;“(B)
 
@@ -348,7 +352,7 @@ Insurer deductible.—The term ‘insurer deductible’ means—
 
 &emsp;&emsp;“(E) for Program Year 4, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 4, multiplied by 17.5 percent;
 
-&emsp;&emsp;“(F) for Program Year 5, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 5, multiplied by 20 percent; and
+&emsp;&emsp;“(F) for Program Year 5 and each Program Year thereafter, the value of an insurer's direct earned premiums over the calendar year immediately preceding that Program Year, multiplied by 20 percent; and
 
 &emsp;&emsp;“(G) notwithstanding subparagraphs (A) through (F), for the Transition Period or any Program Year, if an insurer has not had a full year of operations during the calendar year immediately preceding such Period or Program Year, such portion of the direct earned premiums of the insurer as the Secretary determines appropriate, subject to appropriate methodologies established by the Secretary for measuring such direct earned premiums.
 
@@ -389,6 +393,10 @@ Program year 4.—The term ‘Program Year 4’ means the period beginning on Ja
 &emsp;&emsp;“(F)
 
 Program year 5.—The term ‘Program Year 5’ means the period beginning on January 1, 2007 and ending on December 31, 2007.
+
+&emsp;&emsp;“(G)
+
+Additional program years.—Except when used as provided in subparagraphs (B) through (F), the term ‘Program Year’ means, as the context requires, any of Program Year 1, Program Year 2, Program Year 3, Program Year 4, Program Year 5, or any of calendar years 2008 through 2014.
 
 &emsp;“(12)
 
@@ -474,9 +482,11 @@ Conditions for Federal Payments.—No payment may be made by the Secretary under
 
 &emsp;&emsp;“(C) in the case of any policy that is issued more than 90 days after the date of enactment of this Act, on a separate line item in the policy, at the time of offer, purchase, and renewal of the policy;
 
-&emsp;“(3) the insurer processes the claim for the insured loss in accordance with appropriate business practices, and any reasonable procedures that the Secretary may prescribe; and
+&emsp;“(3) in the case of any policy that is issued after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the insurer provides clear and conspicuous disclosure to the policyholder of the existence of the $100,000,000,000 cap under subsection (e)(2), at the time of offer, purchase, and renewal of the policy;
 
-&emsp;“(4) the insurer submits to the Secretary, in accordance with such reasonable procedures as the Secretary may establish—
+&emsp;“(4) the insurer processes the claim for the insured loss in accordance with appropriate business practices, and any reasonable procedures that the Secretary may prescribe; and
+
+&emsp;“(5) the insurer submits to the Secretary, in accordance with such reasonable procedures as the Secretary may establish—
 
 &emsp;&emsp;“(A) a claim for payment of the Federal share of compensation for insured losses under the Program;
 
@@ -526,7 +536,7 @@ Federal share.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Federal share of compensation under the Program to be paid by the Secretary for insured losses of an insurer during the Transition Period and each Program Year through Program Year 4 shall be equal to 90 percent, and during Program Year 5 shall be equal to 85 percent, of that portion of the amount of such insured losses that exceeds the applicable insurer deductible required to be paid during such Transition Period or such Program Year.
+In general.—The Federal share of compensation under the Program to be paid by the Secretary for insured losses of an insurer during the Transition Period and each Program Year through Program Year 4 shall be equal to 90 percent, and during Program Year 5 and each Program Yearthereafter shall be equal to 85 percent, of that portion of the amount of such insured losses that exceeds the applicable insurer deductible required to be paid during such Transition Period or such Program Year.
 
 &emsp;&emsp;“(B)
 
@@ -534,7 +544,7 @@ Program trigger.—In the case of a certified act of terrorism occurring after M
 
 &emsp;&emsp;&emsp;“(i) $50,000,000, with respect to such insured losses occurring in Program Year 4; or
 
-&emsp;&emsp;&emsp;“(ii) $100,000,000, with respect to such insured losses occurring in Program Year 5.
+&emsp;&emsp;&emsp;“(ii) $100,000,000, with respect to such insured losses occurring in Program Year 5 and any Program Year thereafter.
 
 &emsp;&emsp;“(C)
 
@@ -546,19 +556,31 @@ Cap on annual liability.—
 
 &emsp;&emsp;“(A)
 
-In general.—Notwithstanding paragraph (1) or any other provision of Federal or State law, if the aggregate insured losses exceed $100,000,000,000, during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any of Program Years 2 through 5 (until such time as the Congress may act otherwise with respect to such losses)—
+In general.—Notwithstanding paragraph (1) or any other provision of Federal or State law, if the aggregate insured losses exceed $100,000,000,000, during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any Program Year thereafter—
 
 &emsp;&emsp;&emsp;“(i) the Secretary shall not make any payment under this title for any portion of the amount of such losses that exceeds $100,000,000,000; and
 
-&emsp;&emsp;&emsp;“(ii) no insurer that has met its insurer deductible shall be liable for the payment of any portion of that amount that exceeds $100,000,000,000.
+&emsp;&emsp;&emsp;“(ii) no insurer that has met its insurer deductible shall be liable for the payment of any portion of the amount of such losses that exceeds $100,000,000,000.
 
 &emsp;&emsp;“(B)
 
-Insurer share.—For purposes of subparagraph (A), the Secretary shall determine the pro rata share of insured losses to be paid by each insurer that incurs insured losses under the Program.
+Insurer share.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—For purposes of subparagraph (A), the Secretary shall determine the pro rata share of insured losses to be paid by each insurer that incurs insured losses under the Program, except that, notwithstanding paragraph (1) or any other provision of Federal or State law, no insurer may be required to make any payment for insured losses in excess of its deductible under section 102(7) combined with its share of insured losses under paragraph (1)(A) of this subsection.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Regulations.—Not later than 240 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Secretary shall issue final regulations for determining the pro rata share of insured losses under the Program when insured losses exceed $100,000,000,000, in accordance with clause (i).
+
+&emsp;&emsp;&emsp;“(iii)
+
+Report to congress.—Not later than 120 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007, the Secretary shall provide a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the process to be used by the Secretary for determining the allocation of pro rata payments for insured losses under the Program when such losses exceed $100,000,000,000.
 
 &emsp;“(3)
 
-Notice to congress.—The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any of Program Years 2 through 5, and the Congress shall determine the procedures for and the source of any payments for such excess insured losses.
+Notice to congress.—The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any other Program Year. The Secretary shall provide an initial notice to Congress not later than 15 days after the date of an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will exceed $100,000,000,000.
 
 &emsp;“(4)
 
@@ -596,7 +618,7 @@ Insurance marketplace aggregate retention amount.—For purposes of paragraph (7
 
 &emsp;&emsp;&emsp;“(ii) the aggregate amount, for all insurers, of insured losses during such Program Year; and
 
-&emsp;&emsp;“(E) for Program Year 5, the lesser of—
+&emsp;&emsp;“(E) for Program Year 5 and any Program Year thereafter, the lesser of—
 
 &emsp;&emsp;&emsp;“(i) $27,500,000,000; and
 
@@ -624,7 +646,7 @@ No mandatory recoupment if uncompensated losses exceed insurance marketplace ret
 
 &emsp;&emsp;“(C)
 
-Mandatory establishment of surcharges to recoup mandatory recoupment amount.—The Secretary shall collect, for repayment of the Federal financial assistance provided in connection with all acts of terrorism (or acts of war, in the case of workers compensation) occurring during any of the periods referred to in any of subparagraphs (A) through (E) of paragraph (6), terrorism loss risk-spreading premiums in an amount equal to any mandatory recoupment amount for such period.
+Mandatory establishment of surcharges to recoup mandatory recoupment amount.—The Secretary shall collect, for repayment of the Federal financial assistance provided in connection with all acts of terrorism (or acts of war, in the case of workers compensation) occurring during any of the periods referred to in any of subparagraphs (A) through (E) of paragraph (6), terrorism loss risk-spreading premiums in an amount equal to 133 percent of any mandatory recoupment amount for such period.
 
 &emsp;&emsp;“(D)
 
@@ -637,6 +659,28 @@ Discretionary recoupment of remainder of financial assistance.—To the extent t
 &emsp;&emsp;&emsp;“(iii) the affordability of commercial insurance for small- and medium-sized businesses; and
 
 &emsp;&emsp;&emsp;“(iv) such other factors as the Secretary considers appropriate.
+
+&emsp;&emsp;“(E)
+
+Timing of mandatory recoupment.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—If the Secretary is required to collect terrorism loss risk-spreading premiums under subparagraph (C)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) for any act of terrorism that occurs on or before December 31, 2010, the Secretary shall collect all required premiums by September 30, 2012;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) for any act of terrorism that occurs between January 1 and December 31, 2011, the Secretary shall collect 35 percent of any required premiums by September 30, 2012, and the remainder by September 30, 2017; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) for any act of terrorism that occurs on or after January 1, 2012, the Secretary shall collect all required premiums by September 30, 2017.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Regulations required.—Not later than 180 days after the date of enactment of this subparagraph \[Dec. 26, 2007\], the Secretary shall issue regulations describing the procedures to be used for collecting the required premiums in the time periods referred to in clause (i).
+
+&emsp;&emsp;“(F)
+
+Notice of estimated losses.—Not later than 90 days after the date of an act of terrorism, the Secretary shall publish an estimate of aggregate insured losses, which shall be used as the basis for determining whether mandatory recoupment will be required under this paragraph. Such estimate shall be updated as appropriate, and at least annually.
 
 &emsp;“(8)
 
@@ -658,7 +702,7 @@ Collection.—The Secretary shall provide for insurers to collect terrorism loss
 
 &emsp;&emsp;“(C)
 
-Percentage limitation.—A terrorism loss risk-spreading premium (including any additional amount included in such premium on a discretionary basis pursuant to paragraph (7)(D)) may not exceed, on an annual basis, the amount equal to 3 percent of the premium charged for property and casualty insurance coverage under the policy.
+Percentage limitation.—A terrorism loss risk-spreading premium collected on a discretionary basis pursuant to paragraph (7)(D) may not exceed, on an annual basis, the amount equal to 3 percent of the premium charged for property and casualty insurance coverage under the policy.
 
 &emsp;&emsp;“(D) Adjustment for urban and smaller commercial and rural areas and different lines of insurance.—
 
@@ -674,7 +718,7 @@ Adjustments.—In determining the method and manner of imposing terrorism loss r
 
 &emsp;&emsp;&emsp;“(ii)
 
-Recoupment of adjustments.—Any mandatory recoupment amounts not collected by the Secretary because of adjustments under this subparagraph shall be recouped through additional terrorism loss risk-spreading premiums.
+Recoupment of adjustments.—Any mandatory recoupment amounts not collected by the Secretary because of adjustments under this subparagraph shall be recouped through additional terrorism loss risk-spreading premiums, in accordance with the timing requirements of paragraph (7)(E).
 
 &emsp;&emsp;“(E)
 
@@ -870,7 +914,7 @@ Preemption of state actions.—All State causes of action of any kind for proper
 
 &emsp;“(3)
 
-Substantive law.—The substantive law for decision in any such action described in paragraph (1)shall be derived from the law, including choice of law principles, of the State in which such act of terrorism occurred, unless such law is otherwise inconsistent with or preempted by Federal law.
+Substantive law.—The substantive law for decision in any such action described in paragraph (1) shall be derived from the law, including choice of law principles, of the State in which such act of terrorism occurred, unless such law is otherwise inconsistent with or preempted by Federal law.
 
 &emsp;“(4)
 
@@ -908,7 +952,7 @@ Effective Period.—This section shall apply only to actions described in subsec
 
 “(a)
 
-Termination of Program.—The Program shall terminate on December 31, 2007.
+Termination of Program.—The Program shall terminate on December 31, 2014.
 
 “(b)
 
@@ -940,15 +984,53 @@ Analysis of Market Conditions for Terrorism Risk Insurance.—
 
 &emsp;“(1)
 
-In general.—The President's Working Group on Financial Markets, in consultation with the National Association of Insurance Commissioners, representatives of the insurance industry, representatives of the securities industry, and representatives of policy holders, shall perform an analysis regarding the long-term availability and affordability of insurance for terrorism risk, including—
-
-&emsp;&emsp;“(A) group life coverage; and
-
-&emsp;&emsp;“(B) coverage for chemical, nuclear, biological, and radiological events.
+In general.—The President's Working Group on Financial Markets, in consultation with the National Association of Insurance Commissioners, representatives of the insurance industry, representatives of the securities industry, and representatives of policy holders, shall perform an ongoing analysis regarding the long-term availability and affordability of insurance for terrorism risk.
 
 &emsp;“(2)
 
-Report.—Not later than September 30, 2006, the President's Working Group on Financial Markets shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on its findings pursuant to the analysis conducted under subsection (a).”
+Report.—Not later than September 30, 2006, and thereafter in 2010 and 2013, the President's Working Group on Financial Markets shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on its findings pursuant to the analysis conducted under paragraph (1).
+
+“(f)
+
+Insurance for Nuclear, Biological, Chemical, and Radiological Terrorist Events.—
+
+&emsp;“(1)
+
+Study.—The Comptroller General of the United States shall examine—
+
+&emsp;&emsp;“(A) the availability and affordability of insurance coverage for losses caused by terrorist attacks involving nuclear, biological, chemical, or radiological materials;
+
+&emsp;&emsp;“(B) the outlook for such coverage in the future; and
+
+&emsp;&emsp;“(C) the capacity of private insurers and State workers compensation funds to manage risk associated with nuclear, biological, chemical, and radiological terrorist events.
+
+&emsp;“(2)
+
+Report.—Not later than 1 year after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing a detailed statement of the findings under paragraph (1), and recommendations for any legislative, regulatory, administrative, or other actions at the Federal, State, or local levels that the Comptroller General considers appropriate to expand the availability and affordability of insurance for nuclear, biological, chemical, or radiological terrorist events.
+
+“(g)
+
+Availability and Affordability of Terrorism Insurance in Specific Markets.—
+
+&emsp;“(1)
+
+Study.—The Comptroller General of the United States shall conduct a study to determine whether there are specific markets in the United States where there are unique capacity constraints on the amount of terrorism risk insurance available.
+
+&emsp;“(2)
+
+Elements of study.—The study required by paragraph (1) shall contain—
+
+&emsp;&emsp;“(A) an analysis of both insurance and reinsurance capacity in specific markets, including pricing and coverage limits in existing policies;
+
+&emsp;&emsp;“(B) an assessment of the factors contributing to any capacity constraints that are identified; and
+
+&emsp;&emsp;“(C) recommendations for addressing those capacity constraints.
+
+&emsp;“(3)
+
+Report.—Not later than 180 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit a report on the study required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.”
+
+\[Pub. L. 110–160, §4(b)(2), Dec. 26, 2007, 121 Stat. 1840, which directed amendment of section 103(e)(3) of Pub. L. 107–297, set out above, by substituting period for “ ‘and the Congress shall’ and all that follows through the end of the paragraph”, was executed by substituting period for “and the Congress shall” and all that followed through end of first sentence, to reflect the probable intent of Congress, in light of insertion of last sentence of par. (3) by Pub. L. 110–160, §4(b)(1).\]
 
 #### Termination of Trust Territory of the Pacific Islands
 

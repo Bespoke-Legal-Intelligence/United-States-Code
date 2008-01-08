@@ -10,7 +10,7 @@
 
 (4) Any individual described in section 2402(5) of this title who is buried in a veterans’ cemetery owned by a State.
 
-(5) Any individual who at the time of death was entitled to retired pay under chapter 1223 of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
+(5) Any individual who at the time of death was entitled to retired pay under chapter 1223 oftitle 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
 
 (b)(1) The Secretary shall furnish, when requested, an appropriate memorial headstone or marker for the purpose of commemorating an eligible individual whose remains are unavailable. Such a headstone or marker shall be furnished for placement in a national cemetery area reserved for that purpose under section 2403 of this title, a veterans’ cemetery owned by a State, or, in the case of a veteran, in a State, local, or private cemetery.
 
@@ -50,9 +50,9 @@
 
 (2) Any headstone or marker furnished under this subsection shall be delivered by the Secretary directly to the cemetery where the grave is located or to a receiving agent for delivery to the cemetery.
 
-(3) The authority to furnish a marker under this subsection expires on December 31, 2007.
+(3) The headstone or marker furnished under this subsection shall be the headstone or marker selected by the individual making the request from among all the headstones and markers made available by the Government for selection.
 
-(4) The headstone or marker furnished under this subsection shall be the headstone or marker selected by the individual making the request from among all the headstones and markers made available by the Government for selection.
+(4) In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased's status as a veteran, to be attached to a headstone or marker furnished at private expense.
 
 (e)(1) The Secretary of Veterans Affairs shall provide an outer burial receptacle for each new grave in an open cemetery under the control of the National Cemetery Administration in which remains are interred in a casket. The Secretary of the Army may provide an outer burial receptacle for such a grave in the Arlington National Cemetery.
 
@@ -70,7 +70,7 @@
 
 (4) Regulations or procedures under paragraph (2) may provide for the use of a voucher system, or other system of reimbursement approved by the Secretary (or, with respect to Arlington National Cemetery, the Secretary of the Army), for payment for outer burial receptacles other than grave liners provided under such regulations or procedures.
 
-(f)(1) When the Secretary has furnished a headstone or marker under subsection (a) for the unmarked grave of an individual, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
+(f)(1) When the Secretary has furnished a headstone or marker under subsection (a) for the unmarked grave of an individual, the Secretary shall, if feasible, add a memorial inscription tothat headstone or marker rather than furnishing a separate headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
 
 (2) When the Secretary has furnished a memorial headstone or marker under subsection (b) for purposes of commemorating a veteran or an individual who died in the active military, naval, or air service, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate memorial headstone or marker under that subsection for the surviving spouse or eligible dependent child of such individual.
 
@@ -80,9 +80,15 @@
 
 (3) A headstone or marker may not be furnished under subsection (d) for the grave of a person described in section 2411(b) of this title.
 
-(Added Pub. L. 93–43, §5(a)(2), June 18, 1973, 87 Stat. 80, §906; amended Pub. L. 95–476, title II, §203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, §303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, §502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, §344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, §313(b)(1), (3), title V, §§501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508, title VIII, §8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2306 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, §213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332; Pub. L. 105–368, title IV, §§401(a), (b), 403(c)(2), Nov. 11, 1998, 112 Stat. 3334, 3335, 3338; Pub. L. 107–103, title V, §502(a)–(c), Dec. 27, 2001, 115 Stat. 994, 995; Pub. L. 107–330, title II, §201(c), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 109–444, §2(f), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title IV, §§401(a), (b), 402, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3429, 3468.)
+(Added Pub. L. 93–43, §5(a)(2), June 18, 1973, 87 Stat. 80, §906; amended Pub. L. 95–476, title II, §203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, §303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, §502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, §344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, §313(b)(1), (3), title V, §§501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508, title VIII, §8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2306 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, §213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332; Pub. L. 105–368, title IV, §§401(a), (b), 403(c)(2), Nov. 11, 1998, 112 Stat. 3334, 3335, 3338; Pub. L. 107–103, title V, §502(a)–(c), Dec. 27, 2001, 115 Stat. 994, 995; Pub. L. 107–330, title II, §201(c), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 109–444, §2(f), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title IV, §§401(a), (b), 402, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3429, 3468; Pub. L. 110–157, title II, §§201, 203(a), Dec. 26, 2007, 121 Stat. 1832, 1833.)
 
 #### Amendments
+
+2007—Subsec. (d)(3), (4). Pub. L. 110–157, §203(a), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The authority to furnish a marker under this subsection expires on December 31, 2007.”
+
+Subsec. (d)(5). Pub. L. 110–157, §203(a)(2), redesignated par. (5) as (4).
+
+Pub. L. 110–157, §201, added par. (5).
 
 2006—Subsec. (b)(2)(C). Pub. L. 109–461, §401(a)(1), added subpar. (C).
 
@@ -158,7 +164,7 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “2403” for “1003” 
 
 1989—Subsecs. (a) to (c). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator”.
 
-Subsec. (d). Pub. L. 101–237, §501, substituted “cost of acquiring” for “actual costs incurred by or on behalf of such person in acquiring” in first sentence, inserted after first sentence “The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceasedindividual, as the case may be.”, and substituted “this subsection” for “the preceding sentence” in last sentence.
+Subsec. (d). Pub. L. 101–237, §501, substituted “cost of acquiring” for “actual costs incurred by or on behalf of such person in acquiring” in first sentence, inserted after first sentence “The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be.”, and substituted “this subsection” for “the preceding sentence” in last sentence.
 
 Pub. L. 101–237, §313(b)(1), substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
@@ -182,6 +188,8 @@ Subsecs. (c), (d). Pub. L. 95–476 added subsecs. (c) and (d).
 
 #### Effective Date of 2006 Amendment
 
+Pub. L. 110–157, title II, §203(b), Dec. 26, 2007, 121 Stat. 1833, provided that: “Notwithstanding subsection (d) of section 502 of the Veterans Education and Benefits Expansion Act of 2001 (Public Law 107–103; 115 Stat. 995; 38 U.S.C. 2306 note) or any other provision of law, the amendments made by that section and by subsections (a), (b), (c), (d), and (f) of section 402 of the Veterans Benefits, Health Care, and Information Technology Act of 2006 (Public Law 109–461; 120 Stat. 3429) \[amending this section\] shall take effect as of November 1, 1990, and shall apply with respect to headstones and markers for the graves of individuals dying on or after that date.”
+
 Pub. L. 109–461, title IV, §401(c), Dec. 22, 2006, 120 Stat. 3429, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to individuals dying after the date of the enactment of this Act \[Dec. 22, 2006\].”
 
 #### Effective Date of 2002 Amendment
@@ -189,6 +197,8 @@ Pub. L. 109–461, title IV, §401(c), Dec. 22, 2006, 120 Stat. 3429, provided t
 Amendment by Pub. L. 107–330 applicable with respect to deaths occurring on or after Dec. 6, 2002, see section 201(d) of Pub. L. 107–330, set out as a note under section 112 of this title.
 
 #### Effective Date of 2001 Amendment
+
+Amendment by section 502 of Pub. L. 107–103 effective Nov. 1, 1990, and applicable with respect to headstones and markers for the graves of individuals dying on or after that date, see section 203(b) of Pub. L. 110–157, set out as an Effective Date of 2006 Amendment note above.
 
 Pub. L. 107–103, title V, §502(d), Dec. 27, 2001, 115 Stat. 995, as amended by Pub. L. 107–330, title II, §203(a), Dec. 6, 2002, 116 Stat. 2824, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to markers for the graves of individuals dying on or after September 11, 2001.”
 
@@ -222,5 +232,9 @@ Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub
 
 #### Effective Date
 
-Section 10(c) of Pub. L. 93–43 provided that: “Clause (2) of section 5(a) \[enacting this section and section 907 \[now 2307\] of this title\] and sections 6 \[enacting provisions set out a note under section 2404 of this title\] and 7 \[repealing sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of Title 24, Hospitals and Asylums, and enacting provisions set out as notes under sections 271 to 276 of Title 24\] of this Act shall take effect September 1, 1973, or on such earlier date as the President may prescribe and publish in the Federal Register.”
+Section 10(c) of Pub. L. 93–43 provided that: “Clause (2) of section 5(a) \[enacting this section and section 907 \[now 2307\] of this title\] and sections 6 \[enacting provisions set out a note under section 2404 of this title\] and 7 \[repealing sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of Title 24, Hospitals and Asylums, and enacting provisions set out as notes under sections 271to 276 of Title 24\] of this Act shall take effect September 1, 1973, or on such earlier date as the President may prescribe and publish in the Federal Register.”
+
+#### Continuation of Authority
+
+Pub. L. 110–92, §162, as added by Pub. L. 110–149, §2, Dec. 21, 2007, 121 Stat. 1819, provided that: “Notwithstanding section 106 \[121 Stat. 990\], the authority provided by section 2306(d)(3) of title 38, United States Code, shall continue in effect through September 30, 2008.”
 

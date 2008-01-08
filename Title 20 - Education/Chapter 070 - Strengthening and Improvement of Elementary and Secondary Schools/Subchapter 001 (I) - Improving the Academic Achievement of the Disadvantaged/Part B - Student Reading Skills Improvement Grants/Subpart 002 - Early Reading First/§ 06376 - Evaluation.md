@@ -40,3 +40,7 @@ The Head Start Act, referred to in subsec. (c)(5), is subchapter B (§§635–65
 
 A prior section 1226 of Pub. L. 89–10 was classified to section 2796 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
+#### Change of Name
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

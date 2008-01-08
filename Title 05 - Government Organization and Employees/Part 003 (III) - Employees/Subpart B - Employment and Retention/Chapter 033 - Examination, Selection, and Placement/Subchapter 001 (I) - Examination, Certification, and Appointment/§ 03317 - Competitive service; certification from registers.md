@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 June 27, 1944, ch. 287, §8 (1st sentence and 2d proviso), 58 Stat. 389.
 
-In subsection (a), the word “authority” is substituted for “officer” in recognition of the several appointing authorities named in section 2105(a)(1). The words “in the competitive service” have been added for clarity. Application of the section to the excepted service in the executive branch and to the government of the District of Columbia, as provided in former section 858, is carried into section 3320.
+In subsection (a), the word “authority” is substituted for “officer” in recognition of the several appointing authorities named in section 2105(a)(1). The words “in the competitive service” have been added for clarity.Application of the section to the excepted service in the executive branch and to the government of the District of Columbia, as provided in former section 858, is carried into section 3320.
 
 In subsection (b), the word “thereafter” is omitted as unnecessary.
 

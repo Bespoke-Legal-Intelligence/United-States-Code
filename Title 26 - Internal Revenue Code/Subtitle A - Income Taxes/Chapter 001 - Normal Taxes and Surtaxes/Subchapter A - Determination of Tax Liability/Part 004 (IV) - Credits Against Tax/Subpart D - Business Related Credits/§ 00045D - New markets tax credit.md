@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) a substantial portion of the use of the tangible property of such entity (whether owned or leased) is within any low-income community,
 
-&emsp;&emsp;&emsp;(iii) a substantial portion of the services performed for such entity by its employees are performed in any low-income community,
+&emsp;&emsp;&emsp;(iii) a substantial portion of the services performed for such entity by its employeesare performed in any low-income community,
 
 &emsp;&emsp;&emsp;(iv) less than 5 percent of the average of the aggregate unadjusted bases of the property of such entity is attributable to collectibles (as defined in section 408(m)(2)) other than collectibles that are held primarily for sale to customers in the ordinary course of such business, and
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 &emsp;&emsp;(ii) in the case of a tract located within a metropolitan area, the median family income for such tract does not exceed 80 percent of the greater of statewide median family income or the metropolitan area median family income.
 
-> &emsp;Subparagraph (B) shall be applied using possessionwide median family income in thecase of census tracts located within a possession of the United States.
+> &emsp;Subparagraph (B) shall be applied using possessionwide median family income in the case of census tracts located within a possession of the United States.
 
 #### (2) Targeted populations
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 #### (3) Carryover of unused limitation
 
-&emsp;If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2014.
+&emsp;If the new markets tax credit limitation for any calendar year exceeds the aggregateamount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2014.
 
 #### (g) Recapture of credit in certain cases
 
@@ -234,7 +234,7 @@ For purposes of this section—
 
 #### (B) No credits against tax
 
-&emsp;&emsp;Any increase in tax under this subsection shall not be treated as a tax imposed by thischapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
+&emsp;&emsp;Any increase in tax under this subsection shall not be treated as a tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
 
 #### (h) Basis reduction
 
@@ -294,7 +294,7 @@ Section applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[titl
 
 #### Guidance on Allocation of National Limitation
 
-Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: “Not later than 120 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of the Treasury or the Secretary's delegate shall issue guidance which specifies—
+Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: “Not later than120 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of the Treasury or the Secretary's delegate shall issue guidance which specifies—
 
 &emsp;“(1) how entities shall apply for an allocation under section 45D(f)(2) of the Internal Revenue Code of 1986, as added by this section;
 

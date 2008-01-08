@@ -24,7 +24,7 @@ The provisions of this section shall apply to any action, within the provisions 
 
 #### (e) “Contractor” defined
 
-For purposes of this section, the term “contractor” includes a contractor or cost reimbursement subcontractor of any tier participating in the conduct of the United States atomic weapons testing program for the Department of Energy (or its predecessor agencies, including the Manhattan Engineer District, the Atomic Energy Commission, and the Energy Research and Development Administration). Such termalso includes facilities which conduct or have conducted research concerning health effects of ionizing radiation in connection with the testing under contract with the Department of Energy (or any of its predecessor agencies).
+For purposes of this section, the term “contractor” includes a contractor or cost reimbursement subcontractor of any tier participating in the conduct of the United States atomic weapons testing program for the Department of Energy (or its predecessor agencies, including the Manhattan Engineer District, the Atomic Energy Commission, and the Energy Research and Development Administration). Such term also includes facilities which conduct or have conducted research concerning health effects of ionizing radiation in connection with the testing under contract with the Department of Energy (or any of its predecessor agencies).
 
 (Pub. L. 107–314, div. D, title XLVIII, §4803, formerly Pub. L. 101–510, div. C, title XXXI, §3141, Nov. 5, 1990, 104 Stat. 1837; renumbered Pub. L. 107–314, div. D, title XLVIII, §4803, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(4), Nov. 24, 2003, 117 Stat. 1783.)
 
@@ -42,7 +42,7 @@ Section was formerly classified to section 2212 of Title 42, The Public Health a
 
 2003—Pub. L. 108–136, §3141(k)(4)(D)(i), made technical amendment to section catchline.
 
-Subsec. (d). Pub. L. 108–136, §3141(k)(4)(D)(ii), substituted “November 5, 1990,” for “the date of the enactment of this Act” in two places in the original, which for purposes of codification had been changed to “November 5, 1990,” thus requiring no change in text.
+Subsec. (d). Pub. L. 108–136, §3141(k)(4)(D)(ii), substituted “November 5, 1990,” for “the date of the enactment of this Act” in two places in the original, whichfor purposes of codification had been changed to “November 5, 1990,” thus requiring no change in text.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

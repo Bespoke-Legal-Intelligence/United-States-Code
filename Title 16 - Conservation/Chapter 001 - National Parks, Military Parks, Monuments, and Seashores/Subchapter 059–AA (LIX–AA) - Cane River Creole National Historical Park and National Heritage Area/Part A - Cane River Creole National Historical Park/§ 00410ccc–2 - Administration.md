@@ -6,7 +6,7 @@ The Secretary shall administer the historical park in accordance with this part 
 
 #### (b) Donations
 
-The Secretary may accept and retain donations of funds, property, or services from individuals, foundations, or other public or private entities for the purposes of providing programs, services, facilities, or technical assistance that further the purposes of this subchapter. Any funds donated to the Secretary pursuant to this subsection may be expended without further appropriation.
+The Secretary may accept and retain donations of funds, property, or services from individuals, foundations, or other public or private entities for the purposes of providing programs, services, facilities, or technical assistance thatfurther the purposes of this subchapter. Any funds donated to the Secretary pursuant to this subsection may be expended without further appropriation.
 
 #### (c) Interpretive center
 

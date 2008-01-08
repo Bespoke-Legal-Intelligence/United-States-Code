@@ -114,7 +114,7 @@ Any utilization and quality control peer review organization entering into a con
 
 &emsp;(16) The organization shall provide for a review and report to the Secretary when requested by the Secretary under section 1395dd(d)(3) of this title. The organization shall provide reasonable notice of the review to the physician and hospital involved. Within the time period permitted by the Secretary, the organization shall provide a reasonable opportunity for discussion with the physician and hospital involved, and an opportunity for the physician and hospital to submit additional information, before issuing its report to the Secretary under such section.
 
-&emsp;(17) The organization shall execute its responsibilities under subparagraphs (A) and (B) of paragraph (1) by offering to providers, practitioners, Medicare Advantage organizations offering Medicare Advantage plans under part C,<sup>3</sup> and prescription drug sponsors offering prescription drug plans under part D <sup>3</sup> quality improvement assistance pertaining to prescription drug therapy. For purposes of this part and subchapter XVIII of this chapter, the functions described in this paragraph shall be treated as a review function.
+&emsp;(17) The organization shall execute its responsibilities under subparagraphs (A) and (B) of paragraph (1) by offering to providers, practitioners, Medicare Advantage organizationsoffering Medicare Advantage plans under part C,<sup>3</sup> and prescription drug sponsors offering prescription drug plans under part D <sup>3</sup> quality improvement assistance pertaining to prescription drug therapy. For purposes of this part and subchapter XVIII of this chapter, the functions described in this paragraph shall be treated as a review function.
 
 #### (b) Review by physicians; physician's family defined
 
@@ -168,7 +168,7 @@ Subsec. (a)(17). Pub. L. 108–173, §109(b), added par. (17).
 
 Subsec. (e)(5). Pub. L. 108–173, §948(d), struck out par. (5) which read as follows: “In any review conducted under paragraph (2) or (3), the organization shall solicit the views of the patient involved (or the patient's representative).”
 
-2000—Subsec. (e)(2) to (4). Pub. L. 106–554 struck out pars. (2) to (4), which had: in par. (2), authorized peer review organization review of validity of hospital's determination that a patient no longer required inpatient hospital care but attending physician had not agreed with the hospital's determination; in par. (3), authorized review of the determination where patient or patient's representative had received a notice under par. (1) and requested the review; and in par. (4), directed that hospital could not charge patient for inpatient services furnished before noon of the day after the date the patient or representative received notice of the decision where request for review had been made not later than noon of the first working day after notice under par. (1) had been received and section 1395pp(a)(2) conditions had been met.
+2000—Subsec. (e)(2) to (4). Pub. L. 106–554 struck out pars. (2) to (4), which had: in par. (2), authorized peerreview organization review of validity of hospital's determination that a patient no longer required inpatient hospital care but attending physician had not agreed with the hospital's determination; in par. (3), authorized review of the determination where patient or patient's representative had received a notice under par. (1) and requested the review; and in par. (4), directed that hospital could not charge patient for inpatient services furnished before noon of the day after the date the patient or representative received notice of the decision where request for review had been made not later than noon of the first working day after notice under par. (1) had been received and section 1395pp(a)(2) conditions had been met.
 
 1994—Subsec. (a)(4)(B). Pub. L. 103–432, §171(h)(2), substituted “(or that is subject to review under section 1395ss(t)(3) of this title)” for “(or subject to review under section 1395ss(t) of this title)”.
 
@@ -328,7 +328,7 @@ Section 4358(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, 
 
 #### Effective Date of 1989 Amendments
 
-Section 6224(a)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to contracts entered into after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Section 6224(a)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 Section 6224(b)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 1320c–4 of this title\] shall apply to determinations by utilization and quality control peer review organizations with respect to which preliminary notifications were made under section 1154(a)(3)(B) of the Social Security Act \[subsec. (a)(3)(B) of this section\] more than 30 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
@@ -376,7 +376,7 @@ Section 9353(a)(6) of Pub. L. 99–509, as amended by Pub. L. 100–203, title I
 
 “(D) The amendment made by paragraph (3) \[amending this section\] becomes effective on the date of the enactment of this Act \[Oct. 21, 1986\].”
 
-Section 9353(c)(2) of Pub. L. 99–509 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to complaints received on or after the first day of the first month that begins more than 9 months after the date of the enactment of this Act \[Oct. 21, 1986\].”
+Section 9353(c)(2) of Pub. L. 99–509 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to complaints received on or afterthe first day of the first month that begins more than 9 months after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
 Section 9307(e) of Pub. L. 99–272 provided that: “The amendments made by this section \[amending this section and sections 1395u and 1395y of this title\] shall apply to services performed on or after April 1, 1986.”
 
@@ -396,7 +396,7 @@ For provisions relating to changes required to conform State regulatory programs
 
 #### Review and Analysis of Variations in Utilization of Hospital and Other Health Care Services
 
-Section 9353(a)(4) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall provide, to at least 12 utilization and quality control peer review organizations with contracts under part B of title XI of the Social Security Act \[this part\], data and data processing assistance to allow each of theseorganizations to review and analyze small-area variations, in the service area of the organization, in the utilization of hospital and other health care services for which payment is made under title XVIII of such Act \[subchapter XVIII of this chapter\].”
+Section 9353(a)(4) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall provide, to at least 12 utilization and quality control peer review organizations with contracts under part B of title XI of the Social Security Act \[this part\], data and data processing assistance to allow each of these organizations to review and analyze small-area variations, in the service area of the organization, in the utilization of hospital and other health care services for which payment is made under title XVIII of such Act \[subchapter XVIII of this chapter\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

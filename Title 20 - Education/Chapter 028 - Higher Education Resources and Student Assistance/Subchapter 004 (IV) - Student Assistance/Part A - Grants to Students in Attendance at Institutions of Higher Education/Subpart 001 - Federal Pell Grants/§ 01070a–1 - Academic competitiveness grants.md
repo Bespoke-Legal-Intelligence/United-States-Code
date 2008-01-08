@@ -1,6 +1,6 @@
 ### §1070a–1. Academic competitiveness grants
 
-#### (a) Academic Competitiveness Grant program
+#### (a) Academic competitiveness grant program
 
 #### (1) Academic competitiveness grants authorized
 
@@ -28,7 +28,7 @@
 
 #### (C) Report
 
-&emsp;&emsp;Not later than one year after February 8, 2006, the Council shall transmit a report toeach committee of Congress with jurisdiction over a Federal program identified under subparagraph (B)(i), detailing the findings and recommendations under subparagraph (B), including recommendations for legislative or administrative action.
+&emsp;&emsp;Not later than one year after February 8, 2006, the Council shall transmit a report to each committee of Congress with jurisdiction over a Federal program identified under subparagraph (B)(i), detailing the findings and recommendations under subparagraph (B), including recommendations for legislative or administrative action.
 
 #### (b) Designation
 

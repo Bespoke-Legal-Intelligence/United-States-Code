@@ -46,7 +46,7 @@ If an exchange would be within the provisions of subsection (a), of section 1035
 
 #### (d) Basis
 
-If property was acquired on an exchange described in this section, section 1035(a), section 1036(a), or section 1037(a), then the basis shall be the same as that of the property exchanged, decreased in the amount of any money received by the taxpayer and increased in the amount of gain or decreased in the amount of loss to the taxpayer that was recognized on such exchange. If the property so acquired consisted in part of the type of property permitted by this section, section 1035(a), section 1036(a), or section 1037(a), to be received without the recognition of gain or loss, and in part of other property, the basis provided in this subsection shall be allocated between the properties (other than money) received, and for the purpose of the allocation there shall be assigned to such other property an amount equivalent to its fair market value at the date of the exchange. For purposes of this section, section 1035(a), and section 1036(a), where as part of the consideration to the taxpayer another party to the exchange assumed (as determined under section 357(d)) a liability of the taxpayer, such assumption shall be considered as money received by the taxpayer on the exchange.
+If property was acquired on an exchange described in this section, section 1035(a), section 1036(a), or section 1037(a), then the basis shall be the same as that of the property exchanged, decreased in the amount of any money received by the taxpayer and increased in the amount of gain or decreased in the amount of loss to the taxpayer that was recognized on such exchange. If the property so acquired consisted in part of the type of property permitted by this section, section 1035(a), section 1036(a), or section 1037(a), to be received without the recognition of gain or loss, and in part of other property, the basis provided in this subsection shall be allocated between the properties (other than money) received, and for the purpose of the allocation there shall be assigned to such other property anamount equivalent to its fair market value at the date of the exchange. For purposes of this section, section 1035(a), and section 1036(a), where as part of the consideration to the taxpayer another party to the exchange assumed (as determined under section 357(d)) a liability of the taxpayer, such assumption shall be considered as money received by the taxpayer on the exchange.
 
 #### (e) Exchanges of livestock of different sexes
 
@@ -138,7 +138,7 @@ For purposes of this section—
 
 &emsp;&emsp;Property described in any subparagraph of section 168(g)(4) shall be treated as used predominantly in the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 302; Pub. L. 85–866, title I, §44, Sept. 2, 1958, 72 Stat. 1641; Pub. L. 86–346, title II, §201(c)–(e), Sept. 22, 1959, 73 Stat. 624; Pub. L. 91–172, title II, §212(c)(1), Dec. 30, 1969, 83 Stat. 571; Pub. L. 98–369, div. A, title I, §77(a), July 18, 1984, 98 Stat. 595; Pub. L. 99–514, title XVIII, §1805(d), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 101–239, title VII, §7601(a), Dec. 19, 1989, 103 Stat. 2370; Pub. L. 101–508, title XI, §§11701(h), 11703(d)(1), Nov. 5, 1990, 104 Stat. 1388–508, 1388–517; Pub. L. 105–34, title X, §1052(a), Aug. 5, 1997, 111 Stat. 940; Pub. L. 106–36, title III, §3001(c)(2), June 25, 1999, 113 Stat. 183; Pub. L. 109–135, title IV, §412(pp), Dec. 21, 2005, 119 Stat. 2640.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 302; Pub. L. 85–866, title I, §44, Sept. 2, 1958, 72 Stat. 1641; Pub. L. 86–346, title II, §201(c)–(e), Sept. 22, 1959, 73 Stat. 624; Pub. L. 91–172, title II, §212(c)(1), Dec. 30, 1969, 83 Stat. 571; Pub. L. 98–369, div. A, title I, §77(a), July 18, 1984, 98 Stat. 595; Pub. L. 99–514, title XVIII, §1805(d), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 101–239, title VII, §7601(a), Dec. 19, 1989, 103 Stat. 2370; Pub. L. 101–508, title XI, §§11701(h), 11703(d)(1), Nov. 5, 1990, 104 Stat. 1388–508, 1388–517; Pub. L. 105–34, title X, §1052(a), Aug. 5, 1997, 111 Stat. 940; Pub. L. 106–36, title III,§3001(c)(2), June 25, 1999, 113 Stat. 183; Pub. L. 109–135, title IV, §412(pp), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### Amendments
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 1997—Subsec. (h). Pub. L. 105–34 amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “For purposes of this section, real property located in the United States and real property located outside the United States are not property of a like kind.”
 
-1990—Subsec. (a)(2). Pub. L. 101–508, §11703(d)(1), inserted at end “For purposes of this section, an interest in a partnership which has in effect a valid electionunder section 761(a) to be excluded from the application of all of subchapter K shall be treated as an interest in each of the assets of such partnership and not as an interest in a partnership.”
+1990—Subsec. (a)(2). Pub. L. 101–508, §11703(d)(1), inserted at end “For purposes of this section, an interest in a partnership which has in effect a valid election under section 761(a) to be excluded from the application of all of subchapter K shall be treated as an interest in each of the assets of such partnership and not as an interest in a partnership.”
 
 Subsec. (f)(3). Pub. L. 101–508, §11701(h), substituted “section 267(b) or 707(b)(1)” for “section 267(b)”.
 
@@ -254,5 +254,5 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

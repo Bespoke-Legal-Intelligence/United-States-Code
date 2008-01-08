@@ -22,7 +22,7 @@ For purposes of this subchapter, an existing partnership shall be considered as 
 
 #### (B) Division of a partnership
 
-&emsp;&emsp;In the case of a division of a partnership into two or more partnerships, the resulting partnerships (other than any resulting partnership the members of which had an interest of 50 percent or less in the capital and profits of the prior partnership) shall, forpurposes of this section, be considered a continuation of the prior partnership.
+&emsp;&emsp;In the case of a division of a partnership into two or more partnerships, the resulting partnerships (other than any resulting partnership the members of which had an interest of 50 percent or less in the capital and profits of the prior partnership) shall, for purposes of this section, be considered a continuation of the prior partnership.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 244.)
 

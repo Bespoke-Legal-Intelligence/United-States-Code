@@ -96,13 +96,13 @@ For purposes of this section—
 
 &emsp;In the case of a taxpayer other than a corporation, the term “exemption amount” means—
 
-&emsp;&emsp;(A) $45,000 ($62,550 in the case of taxable years beginning in 2006) in the case of—
+&emsp;&emsp;(A) $45,000 ($66,250 in the case of taxable years beginning in 2007) in the case of—
 
 &emsp;&emsp;&emsp;(i) a joint return, or
 
 &emsp;&emsp;&emsp;(ii) a surviving spouse,
 
-&emsp;&emsp;(B) $33,750 ($42,500 in the case of taxable years beginning in 2006) in the case of an individual who—
+&emsp;&emsp;(B) $33,750 ($44,350 in the case of taxable years beginning in 2007) in the case of an individual who—
 
 &emsp;&emsp;&emsp;(i) is not a married individual, and
 
@@ -180,13 +180,13 @@ For purposes of this section—
 
 #### (4) Change date
 
-&emsp;For purposes of paragraph (2), the change date is the first day of the first taxable yearfor which the taxpayer ceases to be described in paragraph (1).
+&emsp;For purposes of paragraph (2), the change date is the first day of the first taxable year for which the taxpayer ceases to be described in paragraph (1).
 
 #### (5) Limitation on use of credit for prior year minimum tax liability
 
 &emsp;In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section 53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(3)(B) <sup>1</sup> shall apply for purposes of the preceding sentence.
 
-(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(<i>l</i>)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353.)
+(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(<i>l</i>)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461.)
 
 #### Amendment of Section
 
@@ -206,7 +206,11 @@ A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat.
 
 #### Amendments
 
-2006—Subsec. (d)(1)(A). Pub. L. 109–222, §301(a)(1), substituted “$62,550 in the case of taxable years beginning in 2006” for “$58,000 in the case of taxable years beginning in 2003, 2004, and 2005”.
+2007—Subsec. (d)(1)(A). Pub. L. 110–166, §2(a)(1), substituted “($66,250 in the case of taxable years beginning in 2007)” for “($62,550 in the case of taxable years beginning in 2006)” in introductory provisions.
+
+Subsec. (d)(1)(B). Pub. L. 110–166, §2(a)(2), substituted “($44,350 in the case of taxable years beginning in 2007)” for “($42,500 in the case of taxable years beginning in 2006)” in introductory provisions.
+
+2006—Subsec. (d)(1)(A). Pub. L. 109–222, §301(a)(1), substituted “$62,550 in the case of taxable years beginningin 2006” for “$58,000 in the case of taxable years beginning in 2003, 2004, and 2005”.
 
 Subsec. (d)(1)(B). Pub. L. 109–222, §301(a)(2), substituted “$42,500 in the case of taxable years beginning in 2006” for “$40,250 in the case of taxable years beginning in 2003, 2004, and 2005”.
 
@@ -329,6 +333,10 @@ Pub. L. 100–647, §1002(<i>l</i>)(27), substituted “subsection (j) or (k) of
 Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end “In the case of a taxpayer described in paragraph (1)(C)(i), alternative minimum taxable income shall be increased by the lesser of (i) 25 percent of the excess of alternative minimum taxable income (determined without regard to this sentence) over $155,000, or (ii) $20,000.”
 
 1986—Subsec. (c)(1). Pub. L. 99–514, §252(c), inserted “or section 42(j)”.
+
+#### Effective Date of 2007 Amendment
+
+Pub. L. 110–166, §2(b), Dec. 26, 2007, 121 Stat. 2461, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
 
 #### Effective Date of 2006 Amendment
 
@@ -472,7 +480,7 @@ Certain public utility.—
 
 &emsp;“(A) In the case of investment tax credits described in subparagraph (B) or (C), subsection 38(c)(3)(A)(ii) of the Internal Revenue Code of 1986 shall be applied by substituting ‘25 percent’ for ‘75 percent’, and section 38(c)(3)(B) of the Internal Revenue Code of 1986 shall be applied by substituting ‘75 percent’ for ‘25 percent’.
 
-&emsp;“(B) If, on September 25, 1985, a regulated electric utility owned an undivided interest, within the range of 1,111 and 1,149, in the ‘maximum dependable capacity, net, megawatts electric’ of an electric generating unit located in Illinois or Mississippi for which a binding written contract was in effect on December 31, 1980, then any investment tax credit with respect to such unit shall be described in this subparagraph. The aggregate amount of investment tax credits with respect to the unit in Mississippi allowed solely by reason of being described in this subparagraph shall not exceed $141,000,000.
+&emsp;“(B) If, on September 25, 1985, a regulated electric utility owned an undivided interest, within the range of 1,111 and 1,149, in the ‘maximum dependable capacity, net, megawatts electric’ of an electric generating unit located in Illinois or Mississippi for which a binding written contract was in effect on December 31, 1980, then any investment tax credit with respectto such unit shall be described in this subparagraph. The aggregate amount of investment tax credits with respect to the unit in Mississippi allowed solely by reason of being described in this subparagraph shall not exceed $141,000,000.
 
 &emsp;“(C) If, on September 25, 1985, a regulated electric utility owned an undivided interest, within the range of 1,104 and 1,111, in the ‘maximum dependable capacity, net, megawatts electric’ of an electric generating unit located in Louisiana for which a binding written contract was in effect on December 31, 1980, then any investment tax credit of such electric utility shall be described in this subparagraph. The aggregate amount of investment tax credits allowed solely by reason of being described by this subparagraph shall not exceed $20,000,000.
 
@@ -496,7 +504,7 @@ Section 1007(f)(1) of Pub. L. 100–647 provided that: “In the case of the tax
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

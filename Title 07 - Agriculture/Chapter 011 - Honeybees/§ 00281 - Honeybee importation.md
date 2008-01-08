@@ -20,7 +20,7 @@ As used in this chapter, the term “honeybee” means all life stages and the g
 
 #### Amendments
 
-1994—Pub. L. 103–465 amended section generally, substituting present provisions for former subsecs. (a) to (e) restricting importation of honeybees and honeybee semen into United States, providing for promulgation of rules and regulations as to such importation, providing for destruction or immediate exportation of nonexcepted honeybees or honeybee semen offered for import or intercepted, and defining “honeybee”.
+1994—Pub. L. 103–465 amended section generally, substituting present provisions for former subsecs. (a) to\(e) restricting importation of honeybees and honeybee semen into United States, providing for promulgation of rules and regulations as to such importation, providing for destruction or immediate exportation of nonexcepted honeybees or honeybee semen offered for import or intercepted, and defining “honeybee”.
 
 1993—Subsec. (a)(3). Pub. L. 103–182, §361(d)(2)(A), added par. (3).
 

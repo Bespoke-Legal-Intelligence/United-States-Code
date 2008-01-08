@@ -70,7 +70,7 @@ Section is comprised of section 803 of Pub. L. 101–194. Subsecs. (a) and (e) t
 
 #### Acceptance of Gifts; Amendments to Advisory Opinions
 
-Section 801(e) of Pub. L. 101–194 provided that: “The Committee on Standards of Official Conduct of the House of Representatives shall amend its advisory opinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed not in connection with gifts of lodging from coverage under clause 4 of rule XLIII \[now clause 4 of rule XXIII\] of the Rules of the House of Representatives.”
+Section 801(e) of Pub. L. 101–194 provided that: “The Committee on Standards of Official Conduct of the House of Representatives shall amend its advisoryopinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed not in connection with gifts of lodging from coverage under clause 4 of rule XLIII \[now clause 4 of rule XXIII\] of the Rules of the House of Representatives.”
 
 #### Noncampaign Use of Campaign Vehicles
 

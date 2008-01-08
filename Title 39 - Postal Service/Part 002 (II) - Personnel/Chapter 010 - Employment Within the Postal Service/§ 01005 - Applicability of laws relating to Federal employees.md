@@ -28,7 +28,7 @@
 
 (c) Officers and employees of the Postal Service shall be covered by subchapter I of chapter 81 of title 5, relating to compensation for work injuries.
 
-(d)(1) Officers and employees of the Postal Service (other than the Governors) shall be covered by chapters 83 and 84 of title 5. The PostalService shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in or determined under such chapter 83 and subchapter II of such chapter 84, respectively. The Postal Service shall pay into the Federal Retirement Thrift Savings Fund the amounts specified in or determined under subchapters III and VII of such chapter 84.
+(d)(1) Officers and employees of the Postal Service (other than the Governors) shall be covered by chapters 83 and 84 of title 5. The Postal Service shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in or determined under such chapter 83 and subchapter II of such chapter 84, respectively. The Postal Service shall pay into the Federal Retirement Thrift Savings Fund the amounts specified in or determined under subchapters III and VII of such chapter 84.
 
 (2) The provisions of subsections (i) and (<i>l</i>)(2) of section 8344 and subsections (f) and (i)(2) of section 8468 of title 5 shall apply with respect to the Postal Service. For purposes of so applying such provisions—
 
@@ -74,7 +74,7 @@ Section 3 of Pub. L. 93–349 provided that: “The effective date of this Act \
 
 #### Effective Date
 
-Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) ofPub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Transfer of Functions
 
@@ -82,5 +82,5 @@ Functions vested by statute in United States Civil Service Commission or Chairma
 
 #### Abatement of Actions
 
-Section 1(b)(2) of Pub. L. 100–90 provided that: “An action which is commenced under section 1005(a)(1)(B)of title 39, United States Code, before the effective date of the amendment made by subsection (a) \[see Effective Date of 1987 Amendment note above\] shall not abate by reason of the enactment of this Act \[amending this section and enacting provisions set out as a note above\]. Determinations with respect to any such action shall be made as if this Act had not been enacted.”
+Section 1(b)(2) of Pub. L. 100–90 provided that: “An action which is commenced under section 1005(a)(1)(B) of title 39, United States Code, before the effective date of the amendment made by subsection (a) \[see Effective Date of 1987 Amendment note above\] shall not abate by reason of the enactment of this Act \[amending this section and enacting provisions set out as a note above\]. Determinations with respect to any such action shall be made as if this Act had not been enacted.”
 

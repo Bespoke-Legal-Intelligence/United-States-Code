@@ -32,7 +32,7 @@ The Tennessee Valley Authority shall, to the maximum extent practicable, use cur
 
 #### (1) Disposition
 
-&emsp;Any personal property, including structures and facilities, that the Secretary determines cannot be efficiently managed and maintainedeither by the Forest Service or by lease or permit to other persons may be declared excess by the Secretary and—
+&emsp;Any personal property, including structures and facilities, that the Secretary determines cannot be efficiently managed and maintained either by the Forest Service or by lease or permit to other persons may be declared excess by the Secretary and—
 
 &emsp;&emsp;(A) sold by the Secretary on such terms and conditions as the Secretary may prescribe to achieve the maximum benefit to the Federal Government; or
 
@@ -46,7 +46,7 @@ The Tennessee Valley Authority shall, to the maximum extent practicable, use cur
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1)(B), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1)(B), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except fortitle III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

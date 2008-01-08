@@ -2,7 +2,7 @@
 
 #### (a) Emergency assistance; reports to Speaker of House and committees of Senate
 
-(1) Notwithstanding any other provision of law, the President is authorized to use funds made available to carry out any provision of this chapter (other than the provisions of part I of this subchapter) in order to provide, for any unanticipated contingencies, assistance authorized by subchapter I of this chapter in accordance with the provisions applicable to the furnishing of such assistance, except that the authority of this subsection may not be used to authorize the use of more than $25,000,000 during any fiscal year.
+(1) Notwithstanding any other provision of law, the President is authorized to use fundsmade available to carry out any provision of this chapter (other than the provisions of part I of this subchapter) in order to provide, for any unanticipated contingencies, assistance authorized by subchapter I of this chapter in accordance with the provisions applicable to the furnishing of such assistance, except that the authority of this subsection may not be used to authorize the use of more than $25,000,000 during any fiscal year.
 
 (2) The President shall report promptly to the Speaker of the House of Representatives and to the Committee on Foreign Relations and the Committee on Appropriations of the Senate each time he exercises the authority contained in this subsection.
 
@@ -16,7 +16,7 @@ No part of this fund shall be used to pay for any gifts to any officials of any 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -84,5 +84,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Appropriation for Disaster Relief of Unallocated Excess Foreign Currencies Held in Pakistan
 
-Section 6(b) of Pub. L. 91–652 authorized the appropriation of excess foreign currencies held in Pakistannot allocated on Jan. 5, 1971, for a period of one year from such date to help Pakistan withstand the disaster which had occurred.
+Section 6(b) of Pub. L. 91–652 authorized the appropriation of excess foreign currencies held in Pakistan not allocated on Jan. 5, 1971, for a period of one year from such date to help Pakistan withstand the disaster which had occurred.
 

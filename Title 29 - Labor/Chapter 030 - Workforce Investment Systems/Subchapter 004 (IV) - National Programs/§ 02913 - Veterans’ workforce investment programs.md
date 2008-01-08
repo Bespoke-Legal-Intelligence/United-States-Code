@@ -8,7 +8,7 @@
 
 #### (2) Conduct of programs
 
-&emsp;Programs supported under this section may be conducted through grants and contractswith public agencies and private nonprofit organizations, including recipients of Federal assistance under other provisions of this chapter, that the Secretary determines have an understanding of the unemployment problems of veterans described in paragraph (1), familiarity with the area to be served, and the capability to administer effectively a program of workforce investment activities for such veterans.
+&emsp;Programs supported under this section may be conducted through grants and contracts with public agencies and private nonprofit organizations, including recipients of Federal assistance under other provisions of this chapter, that the Secretary determines have an understanding of the unemployment problems of veterans described in paragraph (1), familiarity with the area to be served, and the capability to administer effectively a program of workforce investment activities for such veterans.
 
 #### (3) Required activities
 
@@ -212,7 +212,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 &emsp;&emsp;“(A) will not result in the displacement of currently employed workers (including partial displacement such as a reduction in the hours of nonovertime work, wages, or employment benefits); and
 
-&emsp;&emsp;“(B) will not be in a job (i) while any other individual is on layoff from the same or any substantially equivalent job, or (ii) the opening for which was created as a result of the employer having terminated the employment of any regular employee or otherwise having reduced its work force with the intention of hiring a veteran in such job under this Act.
+&emsp;&emsp;“(B) will not be in a job (i) while any other individual is on layoff from the same or any substantially equivalent job, or (ii) the opening for which was created as a result of the employer having terminated the employment of any regular employee or otherwise having reduced its work force with theintention of hiring a veteran in such job under this Act.
 
 &emsp;“(4) That the employer will not employ in the program of job training a veteran who is already qualified by training and experience for the job for which training is to be provided.
 
@@ -252,7 +252,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “payments to employers; overpayment
 
-“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period.
+“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section 9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period.
 
 “(2) The total amount that may be paid to an employer on behalf of a veteran participating in a program of job training under this Act is $10,000.
 
@@ -304,7 +304,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “inspection of records; investigations
 
-“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other recordsthat the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
+“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other records that the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
 
 “(b) The Administrator may monitor employers and veterans participating in programs of job training under this Act to determine compliance with the requirements established under this Act.
 
@@ -330,7 +330,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “(b)(1) The Secretary shall provide for a program under which—
 
-&emsp;“(A) except as provided in paragraph (2), a disabled veteran's outreach program specialist appointed under section 4103A(a) of title 38, United States Code, is assigned as a case manager for each veteran participating in a program of job training under this Act;
+&emsp;“(A) except as provided in paragraph (2), a disabled veteran's outreach program specialist appointed under section 4103A(a) of title 38, United States Code,is assigned as a case manager for each veteran participating in a program of job training under this Act;
 
 &emsp;“(B) the veteran has an in-person interview with the case manager not later than 60 days after entering into a program of training under this Act; and
 

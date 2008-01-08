@@ -24,7 +24,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 &emsp;&emsp;(A) contribute 8 hours per month of community service (not including political activities) within the community in which that adult resides; or
 
-&emsp;&emsp;(B) participate in an economic self-sufficiency program (as that term is defined in subsection (g) of this section) for 8 hours per month.
+&emsp;&emsp;(B) participate in an economic self-sufficiency program (as that term is defined insubsection (g) of this section) for 8 hours per month.
 
 #### (2) Exemptions
 
@@ -92,7 +92,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (1) Covered family
 
-&emsp;For purposes of this subsection, the term “covered family” means a family that (A) receives benefits for welfare or public assistance from a State or other public agency under a program for which the Federal, State, or local law relating to the program requires, as a condition of eligibility for assistance under the program, participation of a member of the family in an economic self-sufficiency program, and (B) resides in a public housing dwelling unit or is provided tenant-based assistance under section 1437f of this title.
+&emsp;For purposes of this subsection, the term “covered family” means a family that (A) receives benefits for welfare or public assistance from a State or other public agency under a program for which the Federal, State, or local law relating to the program requires, as a condition of eligibility for assistance under theprogram, participation of a member of the family in an economic self-sufficiency program, and (B) resides in a public housing dwelling unit or is provided tenant-based assistance under section 1437f of this title.
 
 #### (2) Decreases in income for failure to comply
 
@@ -140,7 +140,7 @@ A public housing agency shall incorporate into leases under section 1437d(<i>l</
 
 #### (f) Treatment of income
 
-Notwithstanding any other provision of this section, in determining the income of a family who resides in public housing or receives tenant-based assistance under section 1437f of this title, a public housing agency shall consider any decrease in the income of a family that results from the reduction of any welfare or public assistance benefits received by the family under any Federal, State, or local law regarding a program for such assistance if the family (or a member thereof, as applicable) has complied with the conditions for receiving such assistance and is unable to obtain employment notwithstanding such compliance.
+Notwithstanding any other provision of this section, in determining the income of a familywho resides in public housing or receives tenant-based assistance under section 1437f of this title, a public housing agency shall consider any decrease in the income of a family that results from the reduction of any welfare or public assistance benefits received by the family under any Federal, State, or local law regarding a program for such assistance if the family (or a member thereof, as applicable) has complied with the conditions for receiving such assistance and is unable to obtain employment notwithstanding such compliance.
 
 #### (g) Definition
 

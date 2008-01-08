@@ -60,7 +60,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 &emsp;&emsp;(A) the amount determined by multiplying the percent applicable to the participant under subsection (a) of this section by the basic pay payable to the participant for that pay period, over
 
-&emsp;&emsp;(B) the amount of the taxes deducted and withheld from such basic pay under section 3101(a) of title 26 (relating to old-age, survivors, and disability insurance) for that pay period.
+&emsp;&emsp;(B) the amount of the taxes deducted and withheld from such basic pay under section3101(a) of title 26 (relating to old-age, survivors, and disability insurance) for that pay period.
 
 (Pub. L. 88–643, title II, §211, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3202; amended Pub. L. 103–178, title II, §202(a)(3), Dec. 3, 1993, 107 Stat. 2026.)
 

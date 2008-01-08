@@ -64,19 +64,13 @@
 
 (ii) The amount determined under this clause for any plan year shall be an amount equal to $9.00 for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
 
-(iii) For purposes of clause (ii)—
+(iii) For purposes of clause (ii), the term “unfunded vested benefits” means, for a plan year, the excess (if any) of—
 
-&emsp;(I) Except as provided in subclause (II) or (III), the term “unfunded vested benefits” means the amount which would be the unfunded current liability (within the meaning of section 1082(d)(8)(A) of this title) if only vested benefits were taken into account.
+&emsp;(I) the funding target of the plan as determined under section 1083(d) of this title for the plan year by only taking into account vested benefits and by using the interest rate described in clause (iv), over
 
-&emsp;(II) The interest rate used in valuing vested benefits for purposes of subclause (I) shall be equal to the applicable percentage of the annual yield on 30-year Treasury securities for the month preceding the month in which the plan year begins. For purposes of this subclause, the applicable percentage is 80 percent for plan years beginning before July 1, 1997, 85 percent for plan years beginning after June 30, 1997, and before the 1st plan year to which the first tables prescribed under section 1082(d)(7)(C)(ii)(II) of this title apply, and 100 percent for such 1st plan year and subsequent plan years.
+&emsp;(II) the fair market value of plan assets for the plan year which are held by the plan on the valuation date.
 
-&emsp;(III) In the case of any plan year for which the applicable percentage under subclause (II) is 100 percent, the value of the plan's assets used in determining unfunded current liability under subclause (I) shall be their fair market value.
-
-&emsp;(IV) In the case of plan years beginning after December 31, 2001, and before January 1, 2004, subclause (II) shall be applied by substituting “100 percent” for “85 percent”. Subclause (III) shall be applied for such years without regard to the preceding sentence. Any reference to this clause or this subparagraph by any other sections or subsections (other than sections 1305, 1310, 1311, and 1343 of this title) shall be treated as a reference to this clause or this subparagraph without regard to this subclause.
-
-&emsp;(V) In the case of plan years beginning after December 31, 2003, and before January 1, 2008, the annual yield taken into account under subclause (II) shall be the annual rate of interest determined by the Secretary of the Treasury on amounts invested conservatively in long-term investment grade corporate bonds for the month preceding the month in which the plan year begins. For purposes of the preceding sentence, the Secretary of the Treasury shall determine such rate of interest on the basis of 2 or more indices that are selected periodically by the Secretary of the Treasury and that are in the top 3 quality levels available. The Secretary of the Treasury shall make the permissible range, and the indices and methodology used to determine the rate, publicly available.
-
-(iv) No premium shall be determined under this subparagraph for any plan year if, as of the close of the preceding plan year, contributions to the plan for the preceding plan year were not less than the full funding limitation for the preceding plan year under section 412(c)(7) of title 26.
+(iv) The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shall be equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under section 1083(h)(2)(C) of this title if section 1083(h)(2)(D) of this title were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.
 
 (F) For each plan year beginning in a calendar year after 2006, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
 
@@ -176,7 +170,7 @@ Coordination with section 1307.—
 
 &emsp;&emsp;&emsp;(I) premiums under this paragraph shall be due within 30 days after the beginning of any applicable 12-month period, and
 
-&emsp;&emsp;&emsp;(II) the designated payor shall be the person who is the contributing sponsor asof immediately before the termination date.
+&emsp;&emsp;&emsp;(II) the designated payor shall be the person who is the contributing sponsor as of immediately before the termination date.
 
 &emsp;&emsp;(ii) The fifth sentence of section 1307(a) of this title shall not apply in connection with premiums determined under this paragraph.
 
@@ -222,19 +216,7 @@ Coordination with section 1307.—
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
-(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928.)
-
-#### Amendment of Subsection (a)(3)(E)
-
-<i>Pub. L. 109–280, title IV, §401(a), Aug. 17, 2006, 120 Stat. 922, provided that, applicable with respect to plan years beginning after 2007, subsection (a)(3)(E) of this section is amended by striking out clauses (iii) and (iv) and by adding new clauses (iii) and (iv) to read as follows:</i>
-
-<i>(iii) For purposes of clause (ii), the term “unfunded vested benefits” means, for a plan year, the excess (if any) of—</i>
-
-&emsp;<i>(I) the funding target of the plan as determined under section 1083(d) of this title for the plan year by only taking into account vested benefits and by using the interest rate described in clause (iv), over</i>
-
-&emsp;<i>(II) the fair market value of plan assets for the plan year which are held by the plan on the valuation date.</i>
-
-<i>(iv) The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shall be equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under section 1083(h)(2)(C) of this title if section 1083(h)(2)(D) of this title were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.</i>
+(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26,1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928.)
 
 #### References in Text
 
@@ -252,7 +234,11 @@ Subsec. (a)(3)(B). Pub. L. 109–171, §8101(c), substituted “clause (iii) or 
 
 Subsec. (a)(3)(E)(i). Pub. L. 109–280, §405(a)(1), substituted “Except as provided in subparagraph (H), the additional” for “The additional”.
 
+Subsec. (a)(3)(E)(iii). Pub. L. 109–280, §401(a)(1), added cl. (iii) and struck out former cl. (iii), which defined “unfunded vested benefits” for purposes of clause (ii) and set forth provisions relating to the interest rate used in valuing vested benefits, the value of the plan's assets in the case of any plan year for which the applicable percentage is 100 percent, the applicable percentage in the case of plan years beginning after Dec. 31, 2001, and before Jan. 1, 2004, and the annual yield taken into account in the case of plan years beginning after Dec. 31, 2003, and before Jan. 1, 2008.
+
 Subsec. (a)(3)(E)(iii)(V). Pub. L. 109–280, §301(a)(3), substituted “2008” for “2006”.
+
+Subsec. (a)(3)(E)(iv). Pub. L. 109–280, §401(a)(1), added cl. (iv) and struck out former cl. (iv) which read as follows: “No premium shall be determined under this subparagraph for any plan year if, as of the close of the preceding plan year, contributions to the plan for the preceding plan year were not less than the full funding limitation for the preceding plan year under section 412(c)(7) of title 26.”
 
 Subsec. (a)(3)(F). Pub. L. 109–171, §8101(a)(1)(B), added subpar. (F).
 
@@ -292,7 +278,7 @@ Subsec. (c)(1)(A)(iv). Pub. L. 101–508, §12021(a)(2), added cl. (iv).
 
 Subsec. (c)(1)(A)(iii). Pub. L. 101–239, §7881(h)(2), realigned margin.
 
-1987—Subsec. (a)(3)(A)(i). Pub. L. 100–203, §9331(a), substituted “for plan years beginning after December31, 1987, an amount equal to the sum of $16 plus the additional premium (if any) determined under subparagraph (E)” for “for plan years beginning after December 31, 1985, an amount equal to $8.50”.
+1987—Subsec. (a)(3)(A)(i). Pub. L. 100–203, §9331(a), substituted “for plan years beginning after December 31, 1987, an amount equal to the sum of $16 plus the additional premium (if any) determined under subparagraph (E)” for “for plan years beginning after December 31, 1985, an amount equal to $8.50”.
 
 Subsec. (a)(3)(E). Pub. L. 100–203, §9331(b), added subpar. (E).
 
@@ -321,8 +307,6 @@ Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 2006 Amendment
 
@@ -394,7 +378,7 @@ Section 12021(c) of Pub. L. 101–508 provided that: “The amendments made by t
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1987 Amendment
 
@@ -418,7 +402,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Modification of Transition Rule to Pension Funding Requirements
 
-For modification of transition rule to pension funding requirements in the case of a plan that was not required to pay a variable rate premium for the plan year beginning in 1996, has not, in any plan year beginning after 1995, merged with another plan (other than a plan sponsored by an employer that was in 1996 within the controlled group of the plan sponsor), and is sponsored by a company that is engaged primarily in the interurban or interstate passenger bus service, see section 115(a)–(c) of Pub. L. 109–280, set out as a note under section 430 of Title 26, Internal Revenue Code.
+For modification of transition rule to pension funding requirements in the case of a plan that was not required to pay a variable rate premium for the plan year beginning in 1996, has not, in any plan year beginning after 1995, merged with another plan (other than a plan sponsored by an employer that was in 1996 within the controlled group of the plan sponsor), and is sponsoredby a company that is engaged primarily in the interurban or interstate passenger bus service, see section 115(a)–(c) of Pub. L. 109–280, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Applicability of This Section to Certain Plans Maintained by Commercial Airlines
 

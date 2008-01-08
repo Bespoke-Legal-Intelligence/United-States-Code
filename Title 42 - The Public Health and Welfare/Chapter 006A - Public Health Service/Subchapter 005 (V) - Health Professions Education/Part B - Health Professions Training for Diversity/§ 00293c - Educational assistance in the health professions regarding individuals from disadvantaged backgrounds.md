@@ -40,7 +40,7 @@ In making awards to eligible entities under subsection (a)(1) of this section, t
 
 &emsp;(2) Such formal agreements shall reflect the coordination of educational activities and support services, increased linkages, and the consolidation of resources within a specific geographic area.
 
-&emsp;(3) The design of the educational activities involved shall provide for the establishment of a competitive health professions applicant pool of individuals from disadvantaged backgrounds by enhancing the total preparation\(academic and social) of such individuals to pursue a health professions career.
+&emsp;(3) The design of the educational activities involved shall provide for the establishment of a competitive health professions applicant pool of individuals from disadvantaged backgrounds by enhancing the total preparation (academic and social) of such individuals to pursue a health professions career.
 
 &emsp;(4) The programs or activities under the award shall focus on developing a culturally competent health care workforce that will serve the unserved and underserved populations within the geographic area.
 

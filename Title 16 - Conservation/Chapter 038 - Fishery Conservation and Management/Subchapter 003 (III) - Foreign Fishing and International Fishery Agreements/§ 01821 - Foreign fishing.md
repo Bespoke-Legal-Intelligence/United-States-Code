@@ -82,7 +82,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 (E) The determinations required to be made under subparagraphs (A) and (D)(ii), and the apportionments required to be made under subparagraph (C), with respect to a foreign nation shall be based on—
 
-&emsp;(i) whether, and to what extent, such nation imposes tariff barriers or nontariff barriers on the importation, or otherwise restricts themarket access, of both United States fish and fishery products, particularly fish and fishery products for which the foreign nation has requested an allocation;
+&emsp;(i) whether, and to what extent, such nation imposes tariff barriers or nontariff barriers on the importation, or otherwise restricts the market access, of both United States fish and fishery products, particularly fish and fishery products for which the foreign nation has requested an allocation;
 
 &emsp;(ii) whether, and to what extent, such nation is cooperating with the United States in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation;
 
@@ -204,7 +204,7 @@ Notwithstanding any other provision of this subchapter, foreign fishing vessels 
 
 <i>(2) in subsection (e)(1)(E)(IV)\[iv\], by inserting “or special areas” immediately after “exclusive economic zone”;</i>
 
-<i>(3) in subsection (i), (A) by inserting “or special areas” immediately before the period at the end of paragraph (1)(A), (B) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(A), and (C) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(B); and</i>
+<i>(3) in subsection (i), (A) by inserting “or special areas” immediately before the period at the</i><i>end of paragraph (1)(A), (B) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(A), and (C) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(B); and</i>
 
 <i>(4) in subsection (j), (A) by inserting “, special areas,” immediately after “exclusive economic zone”, and (B) by inserting “, areas,” immediately after “such zone”.</i>
 
@@ -244,7 +244,7 @@ Subsec. (j). Pub. L. 104–297, §105(a)(4), redesignated subsec. (j) as (i).
 
 &emsp;“(2) all tariff and nontariff trade barriers imposed by such nations on the importation of such species from the United States.”
 
-1990—Subsec. (d). Pub. L. 101–627 amended subsec. (d) generally, limiting the total allowable level of foreignfishing, with respect to any fishery subject to the exclusive management authority of the United States, to only that part of the potential fishery yield which is not harvested by United States fishermen and deleting the alternative method of determining the total allowable level of foreign fishing based on the annual fishing level for each harvesting season after the 1980 harvesting season.
+1990—Subsec. (d). Pub. L. 101–627 amended subsec. (d) generally, limiting the total allowable level of foreign fishing, with respect to any fishery subject to the exclusive management authority of the United States, to only that part of the potential fishery yield which is not harvested by United States fishermen and deleting the alternative method of determining the total allowable level of foreign fishing based on the annual fishing level for each harvesting season after the 1980 harvesting season.
 
 1986—Subsecs. (a), (e)(1)(E)(iv). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone” in two places.
 
@@ -352,7 +352,7 @@ Regulations.—The regulations promulgated under subsection (b), shall be enforc
 
 #### Foreign Fishing for Atlantic Herring and Mackerel
 
-Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law—
+Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by Pub. L. 104–208, div. A, title I,§101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law—
 
 &emsp;“(1) no allocation may be made to any foreign nation or vessel under section 201 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) \[16 U.S.C. 1821\] in any fishery for which there is not a fishery management plan implemented in accordance with that Act \[16 U.S.C. 1801 et seq.\]; and
 

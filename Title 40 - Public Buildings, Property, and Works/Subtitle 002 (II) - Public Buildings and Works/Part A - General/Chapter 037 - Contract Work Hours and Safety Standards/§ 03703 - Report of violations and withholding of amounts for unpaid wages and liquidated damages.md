@@ -26,7 +26,7 @@ Payment.—The Comptroller General shall pay the amount administratively determi
 
 (c)
 
-Right of Action and Intervention Against Contractors and Sureties.—If the accrued payments withheld under the terms of the contract are insufficient to reimburse all the laborers and mechanics who have not been paid the wages required under this chapter, the laborers and mechanics, in the case of a department or agency of the Government, have the same right of action and intervention against the contractor and the contractor's sureties as is conferred by law on persons furnishing labor or materials. In those proceedings it is not a defense that the laborers and mechanics accepted or agreed to accept less than the required rate of wages or voluntarily made refunds.
+Right of Action and Intervention Against Contractors and Sureties.—If the accrued payments withheld under the terms of the contract are insufficient to reimburse all the laborers and mechanics who have not been paid the wages required under this chapter, the laborers and mechanics, in the case of a department or agency of the Government, have the same right of action and intervention against the contractor and the contractor's sureties as is conferred by law on persons furnishing labor or materials. In those proceedings it is not a defense that the laborers and mechanics accepted oragreed to accept less than the required rate of wages or voluntarily made refunds.
 
 (d)
 

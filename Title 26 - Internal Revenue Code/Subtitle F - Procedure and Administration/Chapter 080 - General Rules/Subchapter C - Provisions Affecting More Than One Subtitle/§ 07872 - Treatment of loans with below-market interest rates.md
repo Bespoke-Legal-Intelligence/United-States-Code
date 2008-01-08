@@ -100,7 +100,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subtitle A, in the case of a gift loan directly between individuals, the amount treated as retransferred by the borrower to the lender as of the close of any year shall not exceed the borrower's net investment income for such year.
+&emsp;&emsp;For purposes of subtitle A, in the case of a gift loan directly between individuals, theamount treated as retransferred by the borrower to the lender as of the close of any year shall not exceed the borrower's net investment income for such year.
 
 #### (B) Limitation not to apply where 1 of principal purposes is tax avoidance
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 #### (5) Demand loan
 
-&emsp;The term “demand loan” means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan if the benefits of the interest arrangements of such loan are not transferable and are conditioned on the future performance of substantial services by an individual. To theextent provided in regulations, such term also includes any loan with an indefinite maturity.
+&emsp;The term “demand loan” means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan if the benefits of the interest arrangements of such loan are not transferable and are conditioned on the future performance of substantial services by an individual. To the extent provided in regulations, such term also includes any loan with an indefinite maturity.
 
 #### (6) Term loan
 
@@ -488,7 +488,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Certain Israel or Polish Bonds Not Subject to Rules Relating to Below-Market Loans
 
-Section 1812(b)(5) of Pub. L. 99–514, as amended by Pub. L. 101–179, title III, §307(a), Nov. 28, 1989, 103 Stat. 1314, provided that: “Section 7872 of the Internal Revenue Code of 1954 \[now 1986\] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
+Section 1812(b)(5) of Pub. L. 99–514, as amended by Pub. L. 101–179, title III, §307(a), Nov. 28, 1989, 103 Stat.1314, provided that: “Section 7872 of the Internal Revenue Code of 1954 \[now 1986\] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
 
 &emsp;“(A) the obligation is payable in United States dollars, and
 

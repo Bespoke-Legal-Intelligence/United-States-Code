@@ -2,7 +2,7 @@
 
 #### (a) Payment; rate
 
-All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 31.5 cents per ton of coal produced by surface coal mining and 13.5 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 9 cents per ton, whichever is less.
+All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 31.5 cents per ton of coal produced by surface coal mining and 13.5cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 9 cents per ton, whichever is less.
 
 #### (b) Due date
 
@@ -46,7 +46,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;(D) To the extent not expended within 3 years after the date of any grant award under this paragraph (except for grants awarded during fiscal years 2008, 2009, and 2010 to the extent not expended within 5 years), such grant shall be available for expenditure by the Secretary under paragraph (5).
 
-(2) In making the grants referred to in paragraph (1)(C) and the grants referred to in paragraph (5), the Secretary shall ensure strict compliance by the States and Indian tribes with the priorities described in section 1233(a) of this title until a certification is made under section 1240a(a) of this title.
+(2) In making the grants referred to in paragraph (1)(C) and the grants referred to in paragraph (5), the Secretary shall ensure strict compliance by the States and Indian tribes with thepriorities described in section 1233(a) of this title until a certification is made under section 1240a(a) of this title.
 
 (3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraph (5) are authorized to be expended by the Secretary for any of the following:
 
@@ -84,7 +84,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (B) In this paragraph, the term “qualified hydrologic unit” means a hydrologic unit—
 
-&emsp;(i) in which the water quality has been significantly affected by acid mine drainage from coal mining practices in a manner that adversely impacts biological resources; and
+&emsp;(i) in which the water quality has been significantly affected by acid mine drainage fromcoal mining practices in a manner that adversely impacts biological resources; and
 
 &emsp;(ii) that contains land and water that are—
 
@@ -220,7 +220,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 #### (IV) Limitation
 
-&emsp;&emsp;&emsp;&emsp;The contributions required under this clause for calendar year 2006 shall not exceed the amount necessary for solvency of the plan described in paragraph (2)(C), measured as of December 31, 2006, and taking into account all assets held by the plan as of that date.
+&emsp;&emsp;&emsp;&emsp;The contributions required under this clause for calendar year 2006 shall notexceed the amount necessary for solvency of the plan described in paragraph (2)(C), measured as of December 31, 2006, and taking into account all assets held by the plan as of that date.
 
 #### (iii) Division
 

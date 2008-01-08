@@ -78,7 +78,7 @@ In appointing members of the Board, the President shall—
 
 #### (2) Adjustments in stipends
 
-&emsp;The amount of the stipend under paragraph (1)(A)(i) shall be adjusted by the same percentage, at the same time and manner, and subject to the same limitations as are applicable to adjustments under section 5318 of title 5.
+&emsp;The amount of the stipends under paragraph (1)(A) shall be adjusted by the same percentage, at the same time and manner, and subject to the same limitations as are applicable to adjustments under section 5318 of title 5.
 
 #### (g) Duties
 
@@ -174,11 +174,15 @@ In appointing members of the Board, the President shall—
 
 &emsp;On the recommendation of the chief executive officer, the Board shall approve the salaries of employees whose annual salaries would be in excess of the annual rate payable for positions at level IV of the Executive Schedule under section 5315 of title 5.
 
-(May 18, 1933, ch. 32, §2, as added Pub. L. 108–447, div. C, title VI, §601, Dec. 8, 2004, 118 Stat. 2963.)
+(May 18, 1933, ch. 32, §2, as added Pub. L. 108–447, div. C, title VI, §601, Dec. 8, 2004, 118 Stat. 2963; amended Pub. L. 110–161, div. C, title IV, §401, Dec. 26, 2007, 121 Stat. 1971.)
 
 #### Prior Provisions
 
 A prior section, act May 18, 1933, ch. 32, §2, 48 Stat. 59, related to the Directors of the Authority, prior to repeal by Pub. L. 108–447, div. C, title VI, §601, Dec. 8, 2004, 118 Stat. 2963.
+
+#### Amendments
+
+2007—Subsec. (f)(2). Pub. L. 110–161 substituted “stipends under paragraph (1)(A)” for “stipend under paragraph (1)(A)(i)”.
 
 #### Appointments; Effective Date; Transition
 

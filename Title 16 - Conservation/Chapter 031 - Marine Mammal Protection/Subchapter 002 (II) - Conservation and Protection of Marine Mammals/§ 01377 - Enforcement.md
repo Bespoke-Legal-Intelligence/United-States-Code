@@ -36,7 +36,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 (4) If with respect to any marine mammal or marine mammal product or other cargo so seized—
 
-&emsp;(A) a civil penalty is assessed under section 1375(a) of this title and no judicial action iscommenced to obtain the forfeiture of such mammal or product within thirty days after such assessment, such marine mammal or marine mammal product or other cargo shall be immediately returned to the owner or the consignee; or
+&emsp;(A) a civil penalty is assessed under section 1375(a) of this title and no judicial action is commenced to obtain the forfeiture of such mammal or product within thirty days after such assessment, such marine mammal or marine mammal product or other cargo shall be immediately returned to the owner or the consignee; or
 
 &emsp;(B) no conviction results from an alleged violation of section 1375(b) of this title, such marine mammal or marine mammal product or other cargo shall immediately be returned to the owner or consignee if the Secretary does not, with <sup>1</sup> thirty days after the final disposition of the case involving such alleged violation, commence proceedings for the assessment of a civil penalty under section 1375(a) of this title.
 

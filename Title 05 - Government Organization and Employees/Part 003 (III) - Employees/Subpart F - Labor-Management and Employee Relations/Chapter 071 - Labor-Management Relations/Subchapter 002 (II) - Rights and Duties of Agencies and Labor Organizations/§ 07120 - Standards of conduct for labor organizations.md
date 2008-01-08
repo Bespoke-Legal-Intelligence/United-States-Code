@@ -12,7 +12,7 @@
 
 (b) Notwithstanding the fact that a labor organization has adopted or subscribed to standards of conduct as provided in subsection (a) of this section, the organization is required to furnish evidence of its freedom from corrupt influences or influences opposed to basic democratic principles if there is reasonable cause to believe that—
 
-&emsp;(1) the organization has been suspended or expelled from, or is subject to other sanction,by a parent labor organization, or federation of organizations with which it had been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a) of this section; or
+&emsp;(1) the organization has been suspended or expelled from, or is subject to other sanction, by a parent labor organization, or federation of organizations with which it had been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a) of this section; or
 
 &emsp;(2) the organization is in fact subject to influences that would preclude recognition under this chapter.
 
@@ -20,7 +20,7 @@
 
 (d) The Assistant Secretary shall prescribe such regulations as are necessary to carry out the purposes of this section. Such regulations shall conform generally to the principles applied to labor organizations in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary. In any matter arising under this section, the Assistant Secretary may require a labor organization to cease and desist from violations of this section and require it to take such actions as he considers appropriate to carry out the policies of this section.
 
-(e) This chapter does not authorize participation in the management of a labor organization or acting as a representative of a labor organization by a management official, a supervisor, or a confidential employee, except as specifically provided in this chapter, or by an employee if the participation or activity would result in a conflict or apparent conflict of interest or would otherwise be incompatible with law or with the official duties of the employee.
+(e) This chapter does not authorize participation in the management of a labor organizationor acting as a representative of a labor organization by a management official, a supervisor, or a confidential employee, except as specifically provided in this chapter, or by an employee if the participation or activity would result in a conflict or apparent conflict of interest or would otherwise be incompatible with law or with the official duties of the employee.
 
 (f) In the case of any labor organization which by omission or commission has willfully and intentionally, with regard to any strike, work stoppage, or slowdown, violated section 7116(b)(7) of this title, the Authority shall, upon an appropriate finding by the Authority of such violation—
 

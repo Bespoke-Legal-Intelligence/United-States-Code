@@ -6,7 +6,7 @@ The Secretary shall designate prior to February 1, 1981, an appropriate organiza
 
 #### (b) Monitoring and management of program; agreements with other Federal departments and agencies
 
-The Secretary shall have the responsibility for monitoring and assuring proper management of the program. The Secretary may enter into agreements or arrangements with the NationalAeronautics and Space Administration, the Department of Transportation, the Environmental Protection Agency, or any other Federal department or agency, pursuant to which such department or agency shall conduct specified parts or aspects of the program as the Secretary deems necessary or appropriate and within the particular competence of such agency, to the extent that such agency has capabilities which would enable it to contribute to the success of the program and attainment of the purposes of this chapter.
+The Secretary shall have the responsibility for monitoring and assuring proper management of the program. The Secretary may enter into agreements or arrangements with the National Aeronautics and Space Administration, the Department of Transportation, the Environmental Protection Agency, or any other Federal department or agency, pursuant to which such department or agency shall conduct specified parts or aspects of the program as the Secretary deems necessary or appropriate and within the particular competence of such agency, to the extent that such agency has capabilities which would enable it to contribute to the success of the program and attainment of the purposes of this chapter.
 
 #### (c) Assurances respecting scope of program activities
 
@@ -44,7 +44,7 @@ In assuring the effective management of this program, the Secretary shall have s
 
 (4) The Secretary of Energy also shall include in the report required by section 3808 <sup>1</sup> of this title a detailed discussion of how each research and development contract, grant, or project funded under the authority of this chapter satisfies the requirement of this subsection.
 
-(5) Further, the Secretary of Energy in each annual budget submission to the Congress, or amendment thereto, for the programs authorized by this chapter shall describe how each identified research and development effort in such submission satisfies the requirements of this subsection.
+(5) Further, the Secretary of Energy in each annual budget submission to the Congress, oramendment thereto, for the programs authorized by this chapter shall describe how each identified research and development effort in such submission satisfies the requirements of this subsection.
 
 (6) The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to the enactment of this chapter, or with respect to any renewal or extension thereof.
 
@@ -62,7 +62,7 @@ Section 3808 of this title, referred to in subsec. (d)(4), was repealed by Pub. 
 
 #### Change of Name
 
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

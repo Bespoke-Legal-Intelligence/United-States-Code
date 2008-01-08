@@ -22,7 +22,7 @@ Depreciated actual cost.—The term “depreciated actual cost” of a vessel me
 
 &emsp;&emsp;(B) if the vessel was reconstructed or reconditioned, the sum of—
 
-&emsp;&emsp;&emsp;(i) the actual cost of the vessel depreciated on a straight line basis from thedate of delivery by the builder to the date of the reconstruction or reconditioning, using the original useful life of the vessel, and from the date of the reconstruction or reconditioning, using a useful life of the vessel determined by the Secretary; and
+&emsp;&emsp;&emsp;(i) the actual cost of the vessel depreciated on a straight line basis from the date of delivery by the builder to the date of the reconstruction or reconditioning, using the original useful life of the vessel, and from the date of the reconstruction or reconditioning, using a useful life of the vessel determined by the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) any amount paid or obligated to be paid for the reconstruction or reconditioning, depreciated on a straight line basis using a useful life of the vessel determined by the Secretary.
 
@@ -142,7 +142,7 @@ Vessel.—The term “vessel” means any type of vessel, whether in existence o
 
 &emsp;&emsp;(K) a pollution treatment, abatement, or control vessel;
 
-&emsp;&emsp;(L) a fishing vessel whose ownership meets the citizenship requirements under section50501 of this title for documenting vessels to operate in the coastwise trade; and
+&emsp;&emsp;(L) a fishing vessel whose ownership meets the citizenship requirements under section 50501 of this title for documenting vessels to operate in the coastwise trade; and
 
 &emsp;&emsp;(M) an ocean thermal energy conversion facility or plantship that is or will be documented under the laws of the United States.
 

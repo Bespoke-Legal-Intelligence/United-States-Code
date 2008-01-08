@@ -14,9 +14,13 @@ The Secretary shall conduct training and education programs for the employees of
 
 #### (b) Intramural fellowships and other training programs
 
-The Secretary, acting through the Commissioner, may, through fellowships and other training programs, conduct and support intramural research training for predoctoral and postdoctoral scientists and physicians.
+The Secretary, acting through the Commissioner, may, through fellowships and other training programs, conduct and support intramural research training for predoctoral and postdoctoral scientists and physicians. Any such fellowships and training programs under this section or under section 379dd(d)(2)(A)(ix) of this title may include provision by such scientists and physicians of services on a voluntary and uncompensated basis, as the Secretary determines appropriate. Such scientists and physicians shall be subject to all legal and ethical requirements otherwise applicable to officers or employees of the Department of Health and Human Services.
 
-(June 25, 1938, ch. 675, §742, as added Pub. L. 105–115, title IV, §408(a), Nov. 21, 1997, 111 Stat. 2371.)
+(June 25, 1938, ch. 675, §742, as added Pub. L. 105–115, title IV, §408(a), Nov. 21, 1997, 111 Stat. 2371; amended Pub. L. 110–85, title VI, §601(c), Sept. 27, 2007, 121 Stat. 897.)
+
+#### Amendments
+
+2007—Subsec. (b). Pub. L. 110–85 inserted at end “Any such fellowships and training programs under this section or under section 379dd(d)(2)(A)(ix) of this title may include provision by such scientists and physicians of services on a voluntary and uncompensated basis, as the Secretary determines appropriate. Such scientists and physicians shall be subject to all legal and ethical requirements otherwise applicable to officers or employees of the Department of Health and Human Services.”
 
 #### Effective Date
 

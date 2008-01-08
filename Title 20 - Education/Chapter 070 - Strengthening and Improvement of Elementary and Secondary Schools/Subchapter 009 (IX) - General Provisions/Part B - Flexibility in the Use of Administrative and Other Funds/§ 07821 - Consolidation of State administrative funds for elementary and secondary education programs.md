@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A State educational agency may consolidate the amounts specifically made available to it for State administration under one or more of the programs under paragraph (2) if the State educational agency can demonstrate that the majority of its resources are derived from non-Federal sources.
+&emsp;A State educational agency may consolidate the amounts specifically made available to it for State administration under one or more of the programs under paragraph (2) if the Stateeducational agency can demonstrate that the majority of its resources are derived from non-Federal sources.
 
 #### (2) Applicability
 

@@ -22,7 +22,7 @@ Waiting Period.—A person operating as a flight instructor, pilot school, or av
 
 (b)
 
-Interruption of Training.—If the Secretary of Homeland Security, more than 30 days after receiving notification under subsection (a) from a person providing training described in subsection (a), determines that the individual presents a risk to aviation or national security, the Secretary shall immediately notify the person providing the training of the determination and that person shall immediately terminate the training.
+Interruption of Training.—If the Secretary of Homeland Security, more than 30 days after receiving notification under subsection (a)from a person providing training described in subsection (a), determines that the individual presents a risk to aviation or national security, the Secretary shall immediately notify the person providing the training of the determination and that person shall immediately terminate the training.
 
 (c)
 
@@ -104,7 +104,7 @@ Use of overseas facilities.—In order to implement section 44939 of title 49, U
 
 “(3)
 
-Use of united states facilities.—If the Secretary of Homeland Security requires fingerprinting in the administration of section 44939 of title 49, United States Code, the Secretary may designate locations within the United States that will provide fingerprinting services to individuals covered by that section.”
+Use of united states facilities.—If the Secretary of Homeland Security requires fingerprinting inthe administration of section 44939 of title 49, United States Code, the Secretary may designate locations within the United States that will provide fingerprinting services to individuals covered by that section.”
 
 #### Report
 

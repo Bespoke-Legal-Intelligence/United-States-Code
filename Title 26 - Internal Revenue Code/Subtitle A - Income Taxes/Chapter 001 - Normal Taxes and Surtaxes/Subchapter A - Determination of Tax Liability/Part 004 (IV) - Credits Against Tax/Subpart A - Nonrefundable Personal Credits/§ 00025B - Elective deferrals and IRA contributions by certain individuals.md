@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the applicable percentage of so much of the qualified retirement savings contributions of the eligible individual for the taxable year as do not exceed $2,000.
+In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the applicable percentage of somuch of the qualified retirement savings contributions of the eligible individual for the taxable year as do not exceed $2,000.
 
 #### (b) Applicable percentage
 
@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (3) Inflation adjustment
 
-&emsp;In the case of any taxable year beginning in a calendar year after 2006, each of the dollaramounts in paragraph (1) shall be increased by an amount equal to—
+&emsp;In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraph (1) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -118,13 +118,13 @@ In the case of a taxable year to which section 26(a)(2) does not apply, the cred
 
 (Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003.)
 
-#### Inflation Adjusted Items for Taxable Years Beginning in 2007
+#### Inflation Adjusted Items for Taxable Years Beginning in 2008
 
-<i>For inflation adjustment of amounts in subsection (b) of this section used in determining the applicable percentage for calculating the credit for elective deferrals and IRA contributions by certain individuals, see section 3.06 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of amounts in subsection (b) of this section used in determining the applicable percentage for calculating the credit for elective deferrals and IRA contributions by certain individuals, see section 3.06 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and</i><i>Termination Dates of 2005 Amendment note below.</i>
+<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 #### Amendments
 

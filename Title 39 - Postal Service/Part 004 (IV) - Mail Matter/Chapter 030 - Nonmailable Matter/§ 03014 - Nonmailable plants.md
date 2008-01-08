@@ -34,7 +34,7 @@ In General.—This Act and the amendments made by this Act \[enacting this secti
 
 “(b)
 
-Regulations.—Nothing in this section shall prevent the United States Postal Service from taking any action which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act.”
+Regulations.—Nothing in this section shall prevent the United States Postal Service from taking anyaction which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

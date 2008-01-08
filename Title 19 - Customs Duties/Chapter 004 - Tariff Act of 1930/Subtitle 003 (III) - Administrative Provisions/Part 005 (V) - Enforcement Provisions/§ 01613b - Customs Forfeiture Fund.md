@@ -102,7 +102,7 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 (2)(A) Subject to subparagraph (B), there are authorized to be appropriated from the Fund not to exceed $20,000,000 for each fiscal year to carry out the purposes set forth in subsections (a)(3) and (b) of this section for such fiscal year.
 
-(B) Of the amount authorized to be appropriated under subparagraph (A), not to exceedthe following, shall be available to carry out the purposes set forth in subsection (a)(3) of this section:
+(B) Of the amount authorized to be appropriated under subparagraph (A), not to exceed the following, shall be available to carry out the purposes set forth in subsection (a)(3) of this section:
 
 &emsp;(i) $14,855,000 for fiscal year 1991.
 
@@ -190,7 +190,7 @@ Section 1152(b)(2) of Pub. L. 99–570, which had directed the repeal of this se
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

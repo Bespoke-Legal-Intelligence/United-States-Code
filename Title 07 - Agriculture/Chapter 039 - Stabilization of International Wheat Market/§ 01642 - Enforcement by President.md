@@ -64,5 +64,5 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Executive Order No. 11108
 
-Ex. Ord. No. 11108, May 22, 1963, 28 F.R. 5185, which delegated to Secretary of Agriculture authority of President under this chapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11108, May 22, 1963, 28 F.R. 5185, which delegated to Secretary of Agriculture authority ofPresident under this chapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

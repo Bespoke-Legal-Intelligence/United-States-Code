@@ -14,7 +14,7 @@ To assist the States in complying with section 6943(a)(3) of this title, not lat
 
 (B) Not later than eighteen months after the promulgation of revised criteria under subsection <sup>1</sup> 6944(a) of this title (as required by section 6949a(c) of this title), each State shall adopt and implement a permit program or other system or <sup>2</sup> prior approval and conditions, to assure that each solid waste management facility within such State which may receive hazardous household waste or hazardous waste due to the provision of section 6921(d) of this title for small quantity generators (otherwise not subject to the requirement for a permit under section 6925 of this title) will comply with the criteria revised under section 6944(a) of this title.
 
-(C) The Administrator shall determine whether each State has developed an adequate program under this paragraph. The Administratormay make such a determination in conjunction with approval, disapproval or partial approval of a State plan under section 6947 of this title.
+(C) The Administrator shall determine whether each State has developed an adequate program under this paragraph. The Administrator may make such a determination in conjunction with approval, disapproval or partial approval of a State plan under section 6947 of this title.
 
 (2)(A) In any State that the Administrator determines has not adopted an adequate program for such facilities under paragraph (1)(B) by the date provided in such paragraph, the Administrator may use the authorities available under sections 6927 and 6928 of this title to enforce the prohibition contained in subsection (a) of this section with respect to such facilities.
 

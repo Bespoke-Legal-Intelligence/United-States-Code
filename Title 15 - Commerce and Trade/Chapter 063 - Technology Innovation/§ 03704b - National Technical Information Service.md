@@ -12,7 +12,7 @@
 
 &emsp;(D) Employ such personnel as may be necessary to conduct the business of the Service.
 
-&emsp;(E) For the period of October 1, 1991 through September 30, 1992, only, retain and use all earned and unearned monies heretofore or hereafter received, including receipts, revenues, and advanced payments and deposits, tofund all obligations and expenses, including inventories and capital equipment.
+&emsp;(E) For the period of October 1, 1991 through September 30, 1992, only, retain and use all earned and unearned monies heretofore or hereafter received, including receipts, revenues, and advanced payments and deposits, to fund all obligations and expenses, including inventories and capital equipment.
 
 > An increase or decrease in the personnel of the Service shall not affect or be affected by any ceilings on the number or grade of personnel.
 
@@ -32,7 +32,7 @@
 
 #### (b) Director of the Service
 
-The management of the Service shall be vested in a Director who shall report to the Under Secretary of Commerce for Technology and the Secretary of Commerce.
+The management of the Service shall be vested in a Director who shall report to the Director of the National Institute of Standards and Technology and the Secretary of Commerce.
 
 #### (c) Advisory Board
 
@@ -88,9 +88,9 @@ The Secretary of Commerce, acting through the Service, shall—
 
 &emsp;(B) any joint venture or cooperative agreement which involves a financial incentive to the joint venturer or contractor; and
 
-&emsp;(C) any change in the operating plan submitted under paragraph (3)(B) which would resultin a variation from such plan with respect to expense levels of more than 10 percent.
+&emsp;(C) any change in the operating plan submitted under paragraph (3)(B) which would result in a variation from such plan with respect to expense levels of more than 10 percent.
 
-(Pub. L. 100–519, title II, §212, Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–140, title II, Oct. 28, 1991, 105 Stat. 804; Pub. L. 102–245, title V, §506(c), Feb. 14, 1992, 106 Stat. 27.)
+(Pub. L. 100–519, title II, §212, Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–140, title II, Oct. 28, 1991, 105 Stat. 804; Pub. L. 102–245, title V, §506(c), Feb. 14, 1992, 106 Stat. 27; Pub. L. 110–161, div. B, title I, §109, Dec. 26, 2007, 121 Stat. 1893.)
 
 #### References in Text
 
@@ -102,11 +102,13 @@ The Act entitled “An Act to provide for the dissemination of technological, sc
 
 #### Codification
 
-Section was enacted as part of the National Technical Information Act of 1988, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
+Section was enacted as part of the National Technical Information Act of 1988, and not as part of theStevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
 
 Subsec. (a)(4) of this section repealed subsec. (h) of section 3710 of this title.
 
 #### Amendments
+
+2007—Subsec. (b). Pub. L. 110–161 substituted “Director of the National Institute of Standards and Technology” for “Under Secretary of Commerce for Technology”.
 
 1992—Subsec. (e)(5). Pub. L. 102–245 inserted “, including producing and disseminating information products in electronic format” after “engineering information”.
 

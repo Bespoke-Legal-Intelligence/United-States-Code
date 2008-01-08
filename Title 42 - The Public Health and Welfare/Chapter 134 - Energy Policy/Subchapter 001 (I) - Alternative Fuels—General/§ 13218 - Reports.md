@@ -8,7 +8,7 @@
 
 &emsp;Not later than February 15, 2006, and annually thereafter for the next 14 years, the head of each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
 
-&emsp;&emsp;(A) summarizes the compliance by such Federal agency with the alternative fuel purchasing requirements for Federal fleets under this Act and Executive Order No. 13031; and
+&emsp;&emsp;(A) summarizes the compliance by such Federal agency with the alternative fuelpurchasing requirements for Federal fleets under this Act and Executive Order No. 13031; and
 
 &emsp;&emsp;(B) includes a plan of compliance that contains specific dates for achieving compliance using reasonable means.
 
@@ -44,7 +44,7 @@
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 102–486, Oct. 24, 1992, 102 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
-Executive Order No. 13031, referred to in subsec. (b)(1), (2)(A), was Ex. Ord. No. 13031, Dec. 13, 1996, 61 F.R. 66529, which was set out as a note under section 13212 of this title prior to revocation by Ex. Ord. No. 13149, §501, Apr. 21, 2000, 65 F.R. 24610, set out as a note under section 13212 of this title.
+Executive Order No. 13031, referred to in subsec. (b)(1), (2)(A), was Ex. Ord. No. 13031, Dec. 13, 1996, 61 F.R. 66529, which was set out as a note under section 13212 of this title prior to revocation by Ex. Ord. No. 13149, §501, Apr. 21, 2000, 65 F.R. 24610, formerly set out as a note under section 13212 of this title.
 
 #### Codification
 

@@ -74,7 +74,7 @@
 
 #### (A) Nonrecognition gain or loss
 
-&emsp;&emsp;No gain or loss shall be recognized to the transferor on the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC.
+&emsp;&emsp;No gain or loss shall be recognized to the transferor on the transfer of any property toa REMIC in exchange for regular or residual interests in such REMIC.
 
 #### (B) Adjusted bases of interests
 
@@ -82,7 +82,7 @@
 
 #### (C) Treatment of nonrecognized gain
 
-&emsp;&emsp;If the issue price of any regular or residual interest exceeds its adjusted basis as determined under subparagraph (B), for periods during which such interest is held by the transferor (or by any other person whosebasis is determined in whole or in part by reference to the basis of such interest in the hand of the transferor)—
+&emsp;&emsp;If the issue price of any regular or residual interest exceeds its adjusted basis as determined under subparagraph (B), for periods during which such interest is held by the transferor (or by any other person whose basis is determined in whole or in part by reference to the basis of such interest in the hand of the transferor)—
 
 &emsp;&emsp;&emsp;(i) in the case of a regular interest, such excess shall be included in gross income (as determined under rules similar to rules of section 1276(b)), and
 

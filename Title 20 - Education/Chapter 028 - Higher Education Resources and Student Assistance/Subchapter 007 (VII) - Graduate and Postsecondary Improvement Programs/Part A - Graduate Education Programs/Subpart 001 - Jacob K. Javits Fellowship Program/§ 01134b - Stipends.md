@@ -28,7 +28,7 @@ Section 1134j of this title, referred to in subsec. (b)(1), was repealed by Pub.
 
 Provisions similar to this section were contained in section 1134j of this title, prior to repeal by Pub. L. 105–244.
 
-A prior section 1134b, Pub. L. 89–329, title IX, §912, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 761, related to submission and contents of application for assistance, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
+A prior section 1134b, Pub. L. 89–329, title IX, §912, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106Stat. 761, related to submission and contents of application for assistance, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
 Another prior section 1134b, Pub. L. 89–329, title IX, §903, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1550, related to use of award funds, prior to the general amendment of part A of subchapter IX of this chapter by Pub. L. 102–325.
 

@@ -20,9 +20,11 @@ For the purpose of providing allotments to States under this section, subject to
 
 &emsp;(8) for fiscal year 2005, $4,050,000,000;
 
-&emsp;(9) for fiscal year 2006, $4,050,000,000; and
+&emsp;(9) for fiscal year 2006, $4,050,000,000;
 
-&emsp;(10) for fiscal year 2007, $5,000,000,000.
+&emsp;(10) for fiscal year 2007, $5,000,000,000; and
+
+&emsp;(11) for each of fiscal years 2008 and 2009, $5,000,000,000.
 
 #### (b) Allotments to 50 States and District of Columbia
 
@@ -166,7 +168,7 @@ For the purpose of providing allotments to States under this section, subject to
 
 #### (B) Appropriations
 
-&emsp;&emsp;For purposes of providing allotments pursuant to subparagraph (A), there is appropriated, out of any money in the Treasury not otherwise appropriated $32,000,000 for fiscal year 1999, $34,200,000 for each of fiscal years 2000 and 2001, $25,200,000 for each of fiscal years 2002 through 2004, $32,400,000 for each of fiscal years 2005 and 2006, and $40,000,000 for fiscal year 2007.
+&emsp;&emsp;For purposes of providing allotments pursuant to subparagraph (A), there is appropriated, out of any money in the Treasury not otherwise appropriated $32,000,000 for fiscal year 1999, $34,200,000 for each of fiscal years 2000 and 2001, $25,200,000 for each of fiscal years 2002 through 2004, $32,400,000 for each of fiscal years 2005 and 2006, and $40,000,000 for each of fiscal years 2007 through 2009.
 
 #### (d) Additional allotments to eliminate funding shortfalls
 
@@ -312,7 +314,7 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 #### (B) Shortfall State described
 
-&emsp;&emsp;For purposes of this paragraph, a shortfall State described in this subparagraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, subject to paragraph (4)(B) and on a monthly basis using the most recent data available to the Secretary as of such month, that the projected expenditures under such plan for such State for fiscal year 2007 will exceed the sum of—
+&emsp;&emsp;For purposes of this paragraph, a shortfall State described in this subparagraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the projected expenditures under such plan for such State for fiscal year 2007 will exceed the sum of—
 
 &emsp;&emsp;&emsp;(i) the amount of the State's allotments for each of fiscal years 2005 and 2006 that was not expended by the end of fiscal year 2006; and
 
@@ -326,7 +328,7 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 &emsp;&emsp;If the amounts available for redistribution under subparagraph (A) for a month are less than the total amounts of the estimated shortfalls determined for the month under that subparagraph, the amount computed under such subparagraph for each shortfall State shall be reduced proportionally.
 
-#### (2) Funding remainder of reduction of shortfall for fiscal year 2007 through redistribution of certain unused fiscal year 2005 allotments
+#### (2) Funding part of shortfall for fiscal year 2007 through redistribution of certain unused fiscal year 2005 allotments
 
 #### (A) In general
 
@@ -334,7 +336,7 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 #### (B) Shortfall State described
 
-&emsp;&emsp;For purposes of this paragraph, a shortfall State described in this subparagraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, subject to paragraph (4)(B) and on a monthly basis using the most recent data available to the Secretary as of March 31, 2007, that the projected expenditures under such plan for such State for fiscal year 2007 will exceed the sum of—
+&emsp;&emsp;For purposes of this paragraph, a shortfall State described in this subparagraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of March 31, 2007, that the projected expenditures under such plan for such State for fiscal year 2007 will exceed the sum of—
 
 &emsp;&emsp;&emsp;(i) the amount of the State's allotments for each of fiscal years 2005 and 2006 that was not expended by the end of fiscal year 2006;
 
@@ -348,7 +350,7 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 #### (D) Proration rule
 
-&emsp;&emsp;If the amounts available for redistribution under paragraph (3) for a month are less than the total amounts of the estimatedshortfalls determined for the month under subparagraph (A), the amount computed under such subparagraph for each shortfall State shall be reduced proportionally.
+&emsp;&emsp;If the amounts available for redistribution under paragraph (3) for a month are less than the total amounts of the estimated shortfalls determined for the month under subparagraph (A), the amount computed under such subparagraph for each shortfall State shall be reduced proportionally.
 
 #### (3) Treatment of certain States with fiscal year 2005 allotments unexpended at the end of the first half of fiscal year 2007
 
@@ -382,21 +384,27 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 &emsp;&emsp;&emsp;&emsp;(II) $20,000,000.
 
-#### (4) Special rules
+#### (4) Additional amounts to eliminate remainder of fiscal year 2007 funding shortfalls
 
-#### (A) Expenditures limited to coverage for populations eligible on October 1, 2006
+#### (A) In general
 
-&emsp;&emsp;A State shall use amounts redistributed under this subsection only for expenditures for providing child health assistance or other health benefits coverage for populations eligible for such assistance or benefits under the State child health plan (including under a waiver of such plan) on October 1, 2006.
+&emsp;&emsp;From the amounts provided in advance in appropriations Acts, the Secretary shall allot to each remaining shortfall State described in subparagraph (B) such amount as the Secretary determines will eliminate the estimated shortfall described in such subparagraph for the State for fiscal year 2007.
 
-#### (B) Regular FMAP for expenditures for coverage of nonchild populations
+#### (B) Remaining shortfall State described
 
-&emsp;&emsp;To the extent a State uses amounts redistributed under this subsection for expenditures for providing child health assistance or other health benefits coverage to an individual who is not a child or a pregnant woman, the Federal medical assistance percentage (as defined in the first sentence of section 1396d(b) of this title) applicable to the State for the fiscal year shall apply to such expenditures for purposes of making payments to the State under subsection (a) of section 1397ee of this title from such amounts.
+&emsp;&emsp;For purposes of subparagraph (A), a remaining shortfall State is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary as of May 25, 2007, that the projected Federal expenditures under such plan for the State for fiscal year 2007 will exceed the sum of—
+
+&emsp;&emsp;&emsp;(i) the amount of the State's allotments for each of fiscal years 2005 and 2006 that will not be expended by the end of fiscal year 2006;
+
+&emsp;&emsp;&emsp;(ii) the amount of the State's allotment for fiscal year 2007; and
+
+&emsp;&emsp;&emsp;(iii) the amounts, if any, that are to be redistributed to the State during fiscal year 2007 in accordance with paragraphs (1) and (2).
 
 #### (5) Retrospective adjustment
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may adjust the estimates and determinations made under paragraphs (1), (2), and (3) as necessary on the basis of the amounts reported by States not later than November 30, 2007, on CMS Form 64 or CMS Form 21, as the case may be and as approved by the Secretary, but in no case may the applicable amount described in paragraph (3)(C)(ii) exceed the amount determined by the Secretary on the basis of the most recent data available to the Secretary as of March 31, 2007.
+&emsp;&emsp;The Secretary may adjust the estimates and determinations made under paragraphs (1), (2), (3), and (4) as necessary on the basis of the amounts reported by States not later than November 30, 2007, on CMS Form 64 or CMS Form 21, as the case may be and as approved by the Secretary, but in no case may the applicable amount described in paragraph (3)(C)(ii) exceed the amount determined by the Secretary on the basis of the most recent data available to the Secretary as of March 31, 2007.
 
 #### (B) Funding of any retrospective adjustments only from unexpended 2005 allotments
 
@@ -412,17 +420,175 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 #### (6) 1-year availability; no further redistribution
 
-&emsp;Notwithstanding subsections (e) and (f), amounts redistributed to a State pursuant to this subsection for fiscal year 2007 shall only remain available for expenditure by the State through September 30, 2007, and any amounts of such redistributions that remain unexpended as of such date,<sup>2</sup> shall not be subject to redistribution under subsection (f). Nothing in the preceding sentence shall be construed as limiting the ability of the Secretary to adjustthe determinations made under paragraphs (1), (2), and (3) in accordance with paragraph (5).
+&emsp;Notwithstanding subsections (e) and (f), amounts redistributed or allotted to a State pursuant to this subsection for fiscal year 2007 shall only remain available for expenditure by the State through September 30, 2007, and any amounts of such redistributions or allotments that remain unexpended as of such date,<sup>2</sup> shall not be subject to redistribution under subsection (f). Nothing in the preceding sentence shall be construed as limiting the ability of the Secretary to adjust the determinations made under paragraphs (1), (2), (3), and (4) in accordance with paragraph (5).
 
 #### (7) Definition of State
 
 &emsp;For purposes of this subsection, the term “State” means a State that receives an allotment for fiscal year 2007 under subsection (b).
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698.)
+#### (i) Redistribution of unused fiscal year 2005 allotments to States with estimated funding shortfalls for fiscal year 2008
+
+#### (1) In general
+
+&emsp;Notwithstanding subsection (f) and subject to paragraphs (3) and (4), with respect to months beginning during fiscal year 2008, the Secretary shall provide for a redistribution under such subsection from the allotments for fiscal year 2005 under subsection (b) that are not expended by the end of fiscal year 2007, to a fiscal year 2008 shortfall State described in paragraph (2), such amount as the Secretary determines will eliminate the estimated shortfall described in such paragraph for such State for the month.
+
+#### (2) Fiscal year 2008 shortfall State described
+
+&emsp;A fiscal year 2008 shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the projected expenditures under such plan for such State for fiscal year 2008 will exceed the sum of—
+
+&emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2006 and 2007 that was not expended by the end of fiscal year 2007; and
+
+&emsp;&emsp;(B) the amount of the State's allotment for fiscal year 2008.
+
+#### (3) Funds redistributed in the order in which States realize funding shortfalls
+
+&emsp;The Secretary shall redistribute the amounts available for redistribution under paragraph (1) to fiscal year 2008 shortfall States described in paragraph (2) in the order in which such States realize monthly funding shortfalls under this subchapter for fiscal year 2008. The Secretary shall only make redistributions under this subsection to the extent that there are unexpended fiscal year 2005 allotments under subsection (b) available for such redistributions.
+
+#### (4) Proration rule
+
+&emsp;If the amounts available for redistribution under paragraph (1) are less than the total amounts of the estimated shortfalls determined for the month under that paragraph, the amount computed under such paragraph for each fiscal year 2008 shortfall State for the month shall be reduced proportionally.
+
+#### (5) Retrospective adjustment
+
+&emsp;The Secretary may adjust the estimates and determinations made to carry out this subsection as necessary on the basis of the amounts reported by States not later than November 30, 2007, on CMS Form 64 or CMS Form 21, as the case may be, and as approved by the Secretary.
+
+#### (6) 1–year availability; no further redistribution
+
+&emsp;Notwithstanding subsections (e) and (f), amounts redistributed to a State pursuant to this subsection for fiscal year 2008 shall only remain available for expenditure by the State through September 30, 2008, and any amounts of such redistributions that remain unexpended as of such date, shall not be subject to redistribution under subsection (f).
+
+#### (j) Additional allotments to eliminate funding shortfalls for fiscal year 2008
+
+#### (1) Appropriation; allotment authority
+
+&emsp;For the purpose of providing additional allotments described in subparagraphs (A) and (B) of paragraph (3), there is appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary, not to exceed $1,600,000,000 for fiscal year 2008.
+
+#### (2) Shortfall States described
+
+&emsp;For purposes of paragraph (3), a shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary as of November 30, 2007, that the Federal share amount of the projected expenditures under such plan for such State for fiscal year 2008 will exceed the sum of—
+
+&emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2006 and 2007 that will not be expended by the end of fiscal year 2007;
+
+&emsp;&emsp;(B) the amount, if any, that is to be redistributed to the State during fiscal year 2008 in accordance with subsection (i); and
+
+&emsp;&emsp;(C) the amount of the State's allotment for fiscal year 2008.
+
+#### (3) Allotments
+
+&emsp;In addition to the allotments provided under subsections (b) and (c), subject to paragraph (4), of the amount available for the additional allotments under paragraph (1) for fiscal year 2008, the Secretary shall allot—
+
+&emsp;&emsp;(A) to each shortfall State described in paragraph (2) not described in subparagraph (B), such amount as the Secretary determines will eliminate the estimated shortfall described in such paragraph for the State; and
+
+&emsp;&emsp;(B) to each commonwealth or territory described in subsection (c)(3), an amount equal to the percentage specified in subsection (c)(2) for the commonwealth or territory multiplied by 1.05 percent of the sum of the amounts determined for each shortfall State under subparagraph (A).
+
+#### (4) Proration rule
+
+&emsp;If the amounts available for additional allotments under paragraph (1) are less than the total of the amounts determined under subparagraphs (A) and (B) of paragraph (3), the amounts computed under such subparagraphs shall be reduced proportionally.
+
+#### (5) Retrospective adjustment
+
+&emsp;The Secretary may adjust the estimates and determinations made to carry out this subsection as necessary on the basis of the amounts reported by States not later than November 30, 2008, on CMS Form 64 or CMS Form 21, as the case may be, and as approved by the Secretary.
+
+#### (6) One-year availability; no redistribution of unexpended additional allotments
+
+&emsp;Notwithstanding subsections (e) and (f), amounts allotted to a State pursuant to this subsection for fiscal year 2008, subject to paragraph (5), shall only remain available for expenditure by the State through September 30, 2008. Any amounts of such allotments that remain unexpended as of such date shall not be subject to redistribution under subsection (f).
+
+#### (k) Redistribution of unused fiscal year 2006 allotments to States with estimated funding shortfalls during the first 2 quarters of fiscal year 2009
+
+#### (1) In general
+
+&emsp;Notwithstanding subsection (f) and subject to paragraphs (3) and (4), with respect to months beginning during the first 2 quarters of fiscal year 2009, the Secretary shall provide for a redistribution under such subsection from the allotments for fiscal year 2006 under subsection (b) that are not expended by the end of fiscal year 2008, to a fiscal year 2009 shortfall State described in paragraph (2), such amount as the Secretary determines will eliminate the estimated shortfall described in such paragraph for such State for the month.
+
+#### (2) Fiscal year 2009 shortfall State described
+
+&emsp;A fiscal year 2009 shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available tothe Secretary as of such month, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
+
+&emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2007 and 2008 that was not expended by the end of fiscal year 2008; and
+
+&emsp;&emsp;(B) the amount of the State's allotment for fiscal year 2009.
+
+#### (3) Funds redistributed in the order in which States realize funding shortfalls
+
+&emsp;The Secretary shall redistribute the amounts available for redistribution under paragraph (1) to fiscal year 2009 shortfall States described in paragraph (2) in the order in which such States realize monthly funding shortfalls under this subchapter for fiscal year 2009. The Secretary shall only make redistributions under this subsection to the extent that there are unexpended fiscal year 2006 allotments under subsection (b) available for such redistributions.
+
+#### (4) Proration rule
+
+&emsp;If the amounts available for redistribution under paragraph (1) are less than the total amounts of the estimated shortfalls determined for the month under that paragraph, the amount computed under such paragraph for each fiscal year 2009 shortfall State for the month shall be reduced proportionally.
+
+#### (5) Retrospective adjustment
+
+&emsp;The Secretary may adjust the estimates and determinations made to carry out this subsection as necessary on the basis of the amounts reported by States not later than May 31, 2009, on CMS Form 64 or CMS Form 21, as the case may be, and as approved by the Secretary.
+
+#### (6) Availability; no further redistribution
+
+&emsp;Notwithstanding subsections (e) and (f), amounts redistributed to a State pursuant to this subsection for the first 2 quarters of fiscal year 2009 shall only remain available for expenditure by the State through March 31, 2009, and any amounts of such redistributions that remain unexpended as of such date, shall not be subject to redistribution under subsection (f).
+
+#### (<i>l</i>) Additional allotments to eliminate funding shortfalls for the first 2 quarters of fiscal year 2009
+
+#### (1) Appropriation; allotment authority
+
+&emsp;For the purpose of providing additional allotments described in subparagraphs (A) and (B) of paragraph (3), there is appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary, not to exceed $275,000,000 for the first 2 quarters of fiscal year 2009.
+
+#### (2) Shortfall States described
+
+&emsp;For purposes of paragraph (3), a shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on the basis of the most recent data available to the Secretary, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
+
+&emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2007 and 2008 that will not be expended by the end of fiscal year 2008;
+
+&emsp;&emsp;(B) the amount, if any, that is to be redistributed to the State during fiscal year 2009 in accordance with subsection (k); and
+
+&emsp;&emsp;(C) the amount of the State's allotment for fiscal year 2009.
+
+#### (3) Allotments
+
+&emsp;In addition to the allotments provided under subsections (b) and (c), subject to paragraph (4), of the amount available for the additional allotments under paragraph (1) for the first 2 quarters of fiscal year 2009, the Secretary shall allot—
+
+&emsp;&emsp;(A) to each shortfall State described in paragraph (2) not described in subparagraph (B) such amount as the Secretary determines will eliminate the estimated shortfall described in such paragraph for the State; and
+
+&emsp;&emsp;(B) to each commonwealth or territory described in subsection (c)(3), an amount equal to the percentage specified in subsection (c)(2) for the commonwealth or territory multiplied by 1.05 percent of the sum of the amounts determined for each shortfall State under subparagraph (A).
+
+#### (4) Proration rule
+
+&emsp;If the amounts available for additional allotments under paragraph (1) are less than the total of the amounts determined under subparagraphs (A) and (B) of paragraph (3), the amounts computed under such subparagraphs shall be reduced proportionally.
+
+#### (5) Retrospective adjustment
+
+&emsp;The Secretary may adjust the estimates and determinations made to carry out this subsection as necessary on the basis of the amounts reported by States not later than May 31, 2009, on CMS Form 64 or CMS Form 21, as the case may be, and as approved by the Secretary.
+
+#### (6) Availability; no redistribution of unexpended additional allotments
+
+&emsp;Notwithstanding subsections (e) and (f), amounts allotted to a State pursuant to this subsection for fiscal year 2009, subject to paragraph (5), shall only remain available for expenditure by the State through March 31, 2009. Any amounts of such allotments that remain unexpended as of such date shall not be subject to redistribution under subsection (f).
+
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII,§§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510.)
 
 #### Amendments
 
-2007—Subsec. (h). Pub. L. 109–482 added subsec. (h).
+2007—Subsec. (a)(11). Pub. L. 110–173, §201(a)(1)(A), added par. (11).
+
+Subsec. (c)(4)(B). Pub. L. 110–173, §201(a)(1)(B), substituted “for each of fiscal years 2007 through 2009” for “for fiscal year 2007”.
+
+Subsec. (h). Pub. L. 109–482 added subsec. (h).
+
+Subsec. (h)(1)(B). Pub. L. 110–28, §7001(b)(1), struck out “subject to paragraph (4)(B) and” after “estimates,” in introductory provisions.
+
+Subsec. (h)(2). Pub. L. 110–28, §7001(a)(1), (b)(2), substituted “part” for “remainder of reduction” in heading and struck out “subject to paragraph (4)(B) and” after “estimates,” in introductory provisions of subpar. (B).
+
+Subsec. (h)(4). Pub. L. 110–28, §7001(a)(2), added par. (4) and struck out former par. (4). Former text read as follows:
+
+“(A)
+
+Expenditures limited to coverage for populations eligible on october 1, 2006.—A State shall use amounts redistributed under this subsection only for expenditures for providing child health assistance or other health benefits coverage for populations eligible for such assistance or benefits under the State child health plan (including under a waiver of such plan) on October 1, 2006.
+
+“(B)
+
+Regular fmap for expenditures for coverage of nonchild populations.—To the extent a State uses amounts redistributed under this subsection for expenditures for providing child health assistance or other health benefits coverage to an individual who is not a child or a pregnant woman, the Federal medical assistance percentage (as defined in the first sentence of section 1396d(b) of this title) applicable to the State for the fiscal year shall apply to such expenditures for purposes of making payments to the State under subsection (a) of section 1397ee of this title from such amounts.”
+
+Subsec. (h)(5)(A). Pub. L. 110–28, §7001(b)(3), substituted “(3), and (4)” for “and (3)”.
+
+Subsec. (h)(6). Pub. L. 110–28, §7001(b)(4), inserted “or allotted” after “redistributed” and “or allotments” after “redistributions” in first sentence and substituted “(3), and (4)” for “and (3)” in second sentence.
+
+Subsec. (i). Pub. L. 110–92 added subsec. (i).
+
+Subsec. (j) to (<i>l</i>). Pub. L. 110–173, §201(c)(1), added subsecs. (j) to (<i>l</i>).
 
 2006—Subsec. (a). Pub. L. 109–171, §6101(b)(1), inserted “subject to subsection (d),” after “under this section,” in introductory provisions.
 
@@ -511,6 +677,10 @@ Subsec. (c)(3)(C), (E). Pub. L. 105–100, §162(8)(C), substituted “The” fo
 Subsec. (d)(1). Pub. L. 105–100, §162(6)(A), substituted “for expenditures claimed by the State” for “for calendar quarters”.
 
 Subsec. (d)(2). Pub. L. 105–100, §162(6)(B), added par. (2) and struck out former par. (2) which read as follows: “the amount of payments under such section during such period that is attributable to the provision of medical assistance to a child for which payment is made under section 1396b(a)(1) of this title on the basis of an enhanced FMAP under section 1396d(b) of this title.”
+
+#### Termination Date of 2007 Amendment
+
+Pub. L. 110–92, §136(e), Sept. 29, 2007, 121 Stat. 995, which provided that the amendments made by subsecs. (c) and (d) of section 136, amending this section and section 1397ee of this title, were effective through Dec. 31, 2007, or, if earlier, the date of the enactment of an Act that provides funding for fiscal year 2008 and for one or more subsequent fiscal years for the Children's Health Insurance Program under this subchapter, was repealed by Pub. L. 110–173, title II, §201(b)(3), Dec. 29, 2007, 121 Stat. 2510.
 
 #### Effective Date of 2006 Amendment
 

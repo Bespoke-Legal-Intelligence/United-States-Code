@@ -14,7 +14,7 @@ The program under this section shall—
 
 &emsp;(3) maintain detection equipment in operational condition to fulfill the detection, forecasting, and warning requirements of this chapter;
 
-&emsp;(4) provide tsunami forecasting capability based on models and measurements, includingtsunami inundation models and maps for use in increasing the preparedness of communities, including through the TsunamiReady program;
+&emsp;(4) provide tsunami forecasting capability based on models and measurements, including tsunami inundation models and maps for use in increasing the preparedness of communities, including through the TsunamiReady program;
 
 &emsp;(5) maintain data quality and management systems to support the requirements of the program;
 
@@ -90,7 +90,7 @@ When deploying and maintaining tsunami detection technologies, the Administrator
 
 #### (g) Annual equipment certification
 
-At the same time Congress receives the budget justification documents in support of the President's annual budget request for each fiscal year, the Administrator shall transmit to theCommittee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives a certification that—
+At the same time Congress receives the budget justification documents in support of the President's annual budget request for each fiscal year, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives a certification that—
 
 &emsp;(1) identifies the tsunami detection equipment deployed pursuant to this chapter, as of December 31 of the preceding calendar year;
 
@@ -122,7 +122,7 @@ Not later than January 31, 2010, the Comptroller General of the United States sh
 
 &emsp;(2) evaluates the National Weather Service's ability to achieve continued improvements in the delivery of tsunami detection, forecasting, and warning services by assessing policies and plans for the evolution of modernization systems, models, and computational abilities (including the adoption of new technologies); and
 
-&emsp;(3) lists the contributions of funding or other resources to the program by other Federal agencies, particularly agencies participating in the program.
+&emsp;(3) lists the contributions of funding or other resources to the program by other Federalagencies, particularly agencies participating in the program.
 
 #### (j) External review
 
@@ -137,4 +137,8 @@ Not later than 3 months after January 12, 2007, the Administrator shall establis
 #### Codification
 
 Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially identical sections. This section is based on the text of section 804 of Pub. L. 109–479.
+
+#### Change of Name
+
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

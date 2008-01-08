@@ -48,7 +48,7 @@
 
 #### (5) Auction authority
 
-&emsp;If, after the amendment of an application pursuant to subsection (a)(1)(B) of this section, the Commission finds that the applicant is ineligible for grant of a license to provide cellular radiotelephone services for a ruralservice area or the applicant does not meet the requirements under paragraph (2) of this subsection, the Commission shall grant the license for which the applicant is the tentative selectee ( <sup>1</sup> pursuant to subsection (a)(1)(B) of this section by competitive bidding pursuant to section 309(j) of this title.
+&emsp;If, after the amendment of an application pursuant to subsection (a)(1)(B) of this section, the Commission finds that the applicant is ineligible for grant of a license to provide cellular radiotelephone services for a rural service area or the applicant does not meet the requirements under paragraph (2) of this subsection, the Commission shall grant the license for which the applicant is the tentative selectee ( <sup>1</sup> pursuant to subsection (a)(1)(B) of this section by competitive bidding pursuant to section 309(j) of this title.
 
 #### (c) Prohibition of transfer
 

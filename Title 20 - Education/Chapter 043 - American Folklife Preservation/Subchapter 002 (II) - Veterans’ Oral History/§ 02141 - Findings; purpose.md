@@ -10,13 +10,13 @@ Congress finds as follows:
 
 &emsp;(3) The Department of Veterans Affairs reports that there are almost 19,000,000 war veterans living in this Nation today.
 
-&emsp;(4) Today there are only approximately 3,400 living veterans of World War I, and of the some 6,000,000 veterans of World War II alive today, almost 1,500 die each day.
+&emsp;(4) Today there are only approximately 3,400 living veterans of World War I, and of thesome 6,000,000 veterans of World War II alive today, almost 1,500 die each day.
 
 &emsp;(5) Oral histories are of immeasurable value to historians, researchers, authors, journalists, film makers, scholars, students, and citizens of all walks of life.
 
 &emsp;(6) War veterans possess an invaluable resource in their memories of the conflicts in which they served, and can provide a rich history of our Nation and its people through the retelling of those memories, yet frequently those who served during times of conflict are reticent to family and friends about their experiences.
 
-&emsp;(7) It is in the Nation's best interest to collect and catalog oral histories of Americanwar veterans so that future generations will have original sources of information regarding the lives and times of those who served in war and the conditions under which they endured, so that Americans will always remember those who served in war and may learn first-hand of the heroics, tediousness, horrors, and triumphs of war.
+&emsp;(7) It is in the Nation's best interest to collect and catalog oral histories of American war veterans so that future generations will have original sources of information regarding the lives and times of those who served in war and the conditions under which they endured, so that Americans will always remember those who served in war and may learn first-hand of the heroics, tediousness, horrors, and triumphs of war.
 
 &emsp;(8) The Library of Congress, as the Nation's oldest Federal cultural institution and largest and most inclusive library in human history (with nearly 119,000,000 items in its multimedia collection) <sup>1</sup> is an appropriate repository to collect, preserve, and make available to the public an archive of these oral histories. The Library's American Folklife Center has expertise in the management of documentation projects and experience in the development of cultural and educational programs for the public.
 

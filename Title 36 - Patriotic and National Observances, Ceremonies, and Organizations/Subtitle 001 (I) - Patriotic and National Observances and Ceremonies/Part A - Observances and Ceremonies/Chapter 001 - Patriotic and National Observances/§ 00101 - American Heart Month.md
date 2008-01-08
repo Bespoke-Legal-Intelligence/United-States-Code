@@ -28,6 +28,10 @@ Dec. 30, 1963, Pub. L. 88–254, 77 Stat. 843.
 
 In clause (2), the words “chief executive officers” are substituted for “Governors”, and the words “territories, and possessions” are substituted for “territories”, for clarity and consistency in the revised title and with other titles of the United States Code.
 
+#### Short Title of 2007 Amendment
+
+Pub. L. 110–26, §1, May 11, 2007, 121 Stat. 103, provided that: “This Act \[enacting sections 300111 and 300112 of this title, amending sections 300101 to 300105, 300107, 300109, and 300110 of this title, renumbering former section 300111 of this title as section 300113 of this title, and enacting provisions set out as a note under section 300101 of this title\] may be cited as the ‘The American National Red Cross Governance Modernization Act of 2007’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–9, title III, §311, Apr. 27, 2005, 119 Stat. 226, provided that: “This subtitle \[subtitle B (§§311, 312) of title III of Pub. L. 109–9, amending sections 151703, 151705, 151706, and 151711 of this title\] may be cited as the ‘National Film Preservation Foundation Reauthorization Act of 2005’.”

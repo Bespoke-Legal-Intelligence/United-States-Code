@@ -14,7 +14,7 @@ In the case of an electing large partnership, except as provided in subsection (
 
 #### (1) In general
 
-&emsp;In the case of a disqualified person, the treatment under this chapter of such person's distributive share of any item of income, gain, loss, deduction, or credit attributable to any partnership oil or gas property shall be determined without regard to this part. Such person's distributive share of any such items shall be excluded for purposes of making determinations under sections 772 and 773.
+&emsp;In the case of a disqualified person, the treatment under this chapter of such person's distributive share of any item of income, gain,loss, deduction, or credit attributable to any partnership oil or gas property shall be determined without regard to this part. Such person's distributive share of any such items shall be excluded for purposes of making determinations under sections 772 and 773.
 
 #### (2) Disqualified person
 

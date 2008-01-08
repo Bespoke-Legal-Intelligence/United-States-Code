@@ -50,7 +50,7 @@ The advisory council shall meet at the call of the chairman or upon the request 
 
 #### (f) Executive secretary; staff; orientation and training for new members
 
-The Director of the Institute shall designate a member of the staff of the Institute to serve as the executive secretary of the advisory council. The Director of the Institute shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Director of the Institute shall provide orientation and training for new members of the advisory council to provide them with such information and training as may be appropriate for their effective participation in the functions of the advisory council.
+The Director of the Institute shall designate a member of the staff of the Institute to serve as the executive secretary of the advisory council. The Director of the Institute shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Director of the Institute shall provide orientation and trainingfor new members of the advisory council to provide them with such information and training as may be appropriate for their effective participation in the functions of the advisory council.
 
 #### (g) Material for inclusion in biennial report; additional reports
 

@@ -20,11 +20,11 @@ All committee hearings, records, data, charts, and files shall be kept separate 
 
 #### (f) Limitations on appointment of professional members
 
-No committee shall appoint to its staff any experts or other personnel detailed or assigned from any department or agency of the Government, except with the written permission of the Committee on Rules and Administration of the Senate or the Committee on House Oversight of the House of Representatives, as the case may be.
+No committee shall appoint to its staff any experts or other personnel detailed or assigned from any department or agency of the Government, except with the written permission of the Committee on Rules and Administration of the Senate or the Committee on House Oversight ofthe House of Representatives, as the case may be.
 
 #### (g) Appointments when no vacancy exists; payment from Senate contingent fund
 
-In any case in which a request for the appointment of a minority staff member under subsection (a) or subsection (c) of this section is made at any time when no vacancy exists towhich the appointment requested may be made—
+In any case in which a request for the appointment of a minority staff member under subsection (a) or subsection (c) of this section is made at any time when no vacancy exists to which the appointment requested may be made—
 
 &emsp;(1) the person appointed pursuant to such a request under subsection (a) of this section may serve in addition to any other professional staff members authorized by such subsection and may be paid from the contingent fund of the Senate until such time as such a vacancy occurs, at which time such person shall be considered to have been appointed to such vacancy; and
 
@@ -50,7 +50,7 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 (3) A committee providing assistance under this subsection shall obtain from any employee receiving such assistance such agreement with respect to continued employment with the committee as the committee may deem necessary to assure that it will receive the benefits of such employee's services upon completion of his training.
 
-(4) During any period for which an employee is separated from employment with a committeefor the purpose of undergoing training under this subsection, such employee shall be considered to have performed service (in nonpay status) as an employee of the committee at the rate of compensation received immediately prior to commencing such training (including any increases in compensation provided by law during the period of training) for the purposes of—
+(4) During any period for which an employee is separated from employment with a committee for the purpose of undergoing training under this subsection, such employee shall be considered to have performed service (in nonpay status) as an employee of the committee at the rate of compensation received immediately prior to commencing such training (including any increases in compensation provided by law during the period of training) for the purposes of—
 
 &emsp;(A) subchapter III (relating to civil service retirement) of chapter 83 of title 5,
 
@@ -96,9 +96,9 @@ Subsec. (j)(1). Pub. L. 104–186, §204(11), as amended by Pub. L. 105–55, §
 
 1988—Subsec. (i)(1). Pub. L. 100–458 inserted “or with respect to the administration of the affairs of the committee” before period at end.
 
-1971—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
+1971—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any otherclerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
 
-Subsec. (j)(1). Pub. L. 92–136, §5(b), authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of fundsdisbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
+Subsec. (j)(1). Pub. L. 92–136, §5(b), authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of funds disbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
 
 1970—Subsec. (a). Pub. L. 91–510, §301(a), restricted the provisions to standing committees of the Senate, deleting “and the House of Representatives” after “Senate”, increased numerical limitation of professional staff members from four to six, provided for appointment of two staff members by majority vote of minority members of a committee whenever majority of minority members so request and assignment of such appointees to such committee business as the minority members deem advisable, and substituted provision for termination of services of staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request for prior termination provision by majority vote of the committee.
 
@@ -168,7 +168,7 @@ Amendment by act Aug. 5, 1955, effective Aug. 1, 1955, see section 14 of that ac
 
 #### Effective Date
 
-Section 245 of title II of act Aug. 2, 1946, provided that: “This title \[see Tables for classification\] shalltake effect on the date of its enactment \[Aug. 2, 1946\]; except that sections 202(a), (b), (c), (e), (f), and (h), 222, 223, 224, and 243 shall take effect on the day on which the Eightieth Congress convenes \[Jan. 3, 1947\].”
+Section 245 of title II of act Aug. 2, 1946, provided that: “This title \[see Tables for classification\] shall take effect on the date of its enactment \[Aug. 2, 1946\]; except that sections 202(a), (b), (c), (e), (f), and (h), 222, 223, 224, and 243 shall take effect on the day on which the Eightieth Congress convenes \[Jan. 3, 1947\].”
 
 #### Short Title
 
@@ -222,7 +222,7 @@ S. Res. 243, One Hundredth Congress, July 1, 1987, provided: “That (a) there i
 
 “
 
-Sec. 2. (a) The Secretary shall appoint and fix the compensation of such personnel as may be necessary tocarry out the provisions of this resolution. The Director, with the approval of the Secretary, shall prescribe the duties and responsibilities of such personnel. If a Director is not appointed, the Office shall be headed by an Acting Director. The Secretary shall appoint and fix the compensation of the Acting Director.
+Sec. 2. (a) The Secretary shall appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this resolution. The Director, with the approval of the Secretary, shall prescribe the duties and responsibilities of such personnel. If a Director is not appointed, the Office shall be headed by an Acting Director. The Secretary shall appoint and fix the compensation of the Acting Director.
 
 “(b) The Majority and Minority Leaders of the Senate may each designate a Majority staff assistant and a Minority staff assistant to serve as their liaisons to the Office. Upon such designation, the Secretary shall appoint and fix the compensation of the Majority and Minority liaison assistants.
 

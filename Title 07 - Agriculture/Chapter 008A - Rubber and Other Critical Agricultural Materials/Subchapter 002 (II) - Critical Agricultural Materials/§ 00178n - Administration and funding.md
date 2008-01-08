@@ -16,7 +16,7 @@ Notwithstanding any other provision of this subchapter the authority to enter in
 
 Notwithstanding any other provision of this subchapter, the Secretaries and the Joint Commission shall limit their activities under this subchapter to critical agricultural materials other than native latex after the close of the fiscal year ending September 30, 1988.
 
-(Pub. L. 95–592, §16, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 98–284, §15, May 16, 1984, 98 Stat. 184;Pub. L. 101–624, title XVI, §1601(e), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, §881(b), Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title III, §301(c), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7138, May 13, 2002, 116 Stat. 436.)
+(Pub. L. 95–592, §16, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 98–284, §15, May 16, 1984, 98 Stat. 184; Pub. L. 101–624, title XVI, §1601(e), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, §881(b), Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title III, §301(c), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7138, May 13, 2002, 116 Stat. 436.)
 
 #### Amendments
 

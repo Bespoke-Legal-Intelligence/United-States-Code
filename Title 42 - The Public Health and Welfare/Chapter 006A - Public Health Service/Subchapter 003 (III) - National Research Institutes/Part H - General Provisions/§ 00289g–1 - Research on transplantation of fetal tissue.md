@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;In research carried out under subsection (a) of this section, human fetal tissue may beused only if the woman providing the tissue makes a statement, made in writing and signed by the woman, declaring that—
+&emsp;In research carried out under subsection (a) of this section, human fetal tissue may be used only if the woman providing the tissue makes a statement, made in writing and signed by the woman, declaring that—
 
 &emsp;&emsp;(A) the woman donates the fetal tissue for use in research described in subsection (a) of this section;
 

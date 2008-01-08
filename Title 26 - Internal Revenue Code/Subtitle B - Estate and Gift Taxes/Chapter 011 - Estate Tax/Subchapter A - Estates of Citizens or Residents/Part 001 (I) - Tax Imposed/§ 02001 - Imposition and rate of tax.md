@@ -129,7 +129,7 @@ If—
 
 > &emsp;For purposes of subparagraph (A), the value of an item shall be treated as shown on a return if the item is disclosed in the return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature of such item.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6,1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70.)
 
 #### Amendment of Section
 
@@ -137,7 +137,7 @@ If—
 
 #### Amendments
 
-2001—Subsec. (c)(1). Pub. L. 107–16, §§511(a), 901, temporarily substituted in table provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000 for provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000, and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (c)(1). Pub. L. 107–16, §§511(a), 901, temporarily substituted in table provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000 for provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus53% of the excess over $2,500,000, and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 107–16, §§511(c), 901, temporarily added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -199,7 +199,7 @@ Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts 
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
@@ -211,7 +211,7 @@ Section 506(e)(1) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI
 
 #### Effective Date of 1993 Amendment
 
-Section 13208(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 2101 of this title\] shall apply in the case of decedents dying and gifts made after December 31, 1992.”
+Section 13208(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 2101 of this title\] shall apply in thecase of decedents dying and gifts made after December 31, 1992.”
 
 #### Effective Date of 1987 Amendment
 

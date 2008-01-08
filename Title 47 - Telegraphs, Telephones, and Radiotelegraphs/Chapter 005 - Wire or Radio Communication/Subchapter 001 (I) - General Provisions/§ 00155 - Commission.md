@@ -6,7 +6,7 @@ The member of the Commission designated by the President as chairman shall be th
 
 #### (b) Organization of staff
 
-From time to time as the Commission may find necessary, the Commission shall organize its staff into (1) integrated bureaus, to function on the basis of the Commission's principal workload operations, and (2) such other divisional organizations as the Commission may deem necessary. Each such integrated bureau shall include such legal, engineering, accounting, administrative, clerical, and other personnel as the Commission may determine to be necessary to perform its functions.
+From time to time as the Commission may find necessary, the Commission shall organizeits staff into (1) integrated bureaus, to function on the basis of the Commission's principal workload operations, and (2) such other divisional organizations as the Commission may deem necessary. Each such integrated bureau shall include such legal, engineering, accounting, administrative, clerical, and other personnel as the Commission may determine to be necessary to perform its functions.
 
 #### (c) Delegation of functions; exceptions to initial orders; force, effect and enforcement of orders; administrative and judicial review; qualifications and compensation of delegates; assignment of cases; separation of review and investigative or prosecuting functions; secretary; seal
 
@@ -20,7 +20,7 @@ From time to time as the Commission may find necessary, the Commission shall org
 
 (5) In passing upon applications for review, the Commission may grant, in whole or in part, or deny such applications without specifying any reasons therefor. No such application for review shall rely on questions of fact or law upon which the panel of commissioners, individual commissioner, employee board, or individual employee has been afforded no opportunity to pass.
 
-(6) If the Commission grants the application for review, it may affirm, modify, or set asidethe order, decision, report, or action, or it may order a rehearing upon such order, decision, report, or action in accordance with section 405 of this title.
+(6) If the Commission grants the application for review, it may affirm, modify, or set aside the order, decision, report, or action, or it may order a rehearing upon such order, decision, report, or action in accordance with section 405 of this title.
 
 (7) The filing of an application for review under this subsection shall be a condition precedent to judicial review of any order, decision, report, or action made or taken pursuant to a delegation under paragraph (1) of this subsection. The time within which a petition for review must be filed in a proceeding to which section 402(a) of this title applies, or within which an appeal must be taken under section 402(b) of this title, shall be computed from the date upon which public notice is given of orders disposing of all applications for review filed in any case.
 

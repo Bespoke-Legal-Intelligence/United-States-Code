@@ -40,7 +40,7 @@ Whenever it is necessary to determine the taxable income of an individual to who
 
 &emsp;&emsp;<b>For computation of tax by Secretary, see section 6014.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 8; Pub. L. 88–272, title III, §301(a), Feb. 26, 1964, 78 Stat. 129; Pub. L. 91–172, title VIII, §803(c), Dec. 30, 1969, 83 Stat. 684; Pub. L. 94–12, title II, §201(c), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–455, title V, §501(a), Oct. 4, 1976, 90 Stat. 1558; Pub. L. 95–30, title I, §101(b),May 23, 1977, 91 Stat. 131; Pub. L. 95–600, title IV, §401(b)(1), Nov. 6, 1978, 92 Stat. 2867; Pub. L. 95–600, title II, §202(g), as added Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–222, title I, §108(a)(1)(E), Apr. 1, 1980, 94 Stat. 225; Pub. L. 97–34, title I, §§101(b)(2)(B), (C), (c)(2)(A), 121(c)(3), Aug. 13, 1981, 95 Stat. 183, 197; Pub. L. 99–514, title I, §§102(b), 141(b)(1), Oct. 22, 1986, 100 Stat. 2102, 2117.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 8; Pub. L. 88–272, title III, §301(a), Feb. 26, 1964, 78 Stat. 129; Pub. L. 91–172, title VIII, §803(c), Dec. 30, 1969, 83 Stat. 684; Pub. L. 94–12, title II, §201(c), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–455, title V, §501(a), Oct. 4, 1976, 90 Stat. 1558; Pub. L. 95–30, title I, §101(b), May 23, 1977, 91 Stat. 131; Pub. L. 95–600, title IV, §401(b)(1), Nov. 6, 1978, 92 Stat. 2867; Pub. L. 95–600, title II, §202(g), as added Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–222, title I, §108(a)(1)(E), Apr. 1, 1980, 94 Stat. 225; Pub. L. 97–34, title I, §§101(b)(2)(B), (C), (c)(2)(A), 121(c)(3), Aug. 13, 1981, 95 Stat. 183, 197; Pub. L. 99–514, title I, §§102(b), 141(b)(1), Oct. 22, 1986, 100 Stat. 2102, 2117.)
 
 #### Amendments
 
@@ -118,7 +118,7 @@ Section 108(a)(2) of Pub. L. 96–222 provided that:
 
 “(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1) \[amending this section and sections 119, 911, and 913 of this title\] shall take effect as if included in the Foreign Earned Income Act of 1978 \[Pub. L. 95–615\].
+In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1)\[amending this section and sections 119, 911, and 913 of this title\] shall take effect as if included in the Foreign Earned Income Act of 1978 \[Pub. L. 95–615\].
 
 “(B)
 

@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(F) The term “employed, carries on a vocation” includes employment that is full-time or part-time for a period of time exceeding 14 days or for an aggregate period of time exceeding 30 days during any calendar year, whether financially compensated, volunteered, or for the purpose of government or educational benefit.
 
-&emsp;&emsp;(G) The term “student” means a person who is enrolled on a full-time or part-time basis, in any public or private educational institution, including any secondary school, trade, or professional institution, or institution of higher education.
+&emsp;&emsp;(G) The term “student” means a person who is enrolled on a full-time or part-time basis, in any public or private educationalinstitution, including any secondary school, trade, or professional institution, or institution of higher education.
 
 #### (b) Registration requirement upon release, parole, supervised release, or probation
 
@@ -94,7 +94,7 @@ An approved State registration program established under this section shall cont
 
 #### (B) National reporting
 
-&emsp;&emsp;A State shall participate in the national database established under section 14072(b) of this title in accordance with guidelines issued by the Attorney General, includingtransmission of current address information and other information on registrants to the extent provided by the guidelines.
+&emsp;&emsp;A State shall participate in the national database established under section 14072(b) of this title in accordance with guidelines issued by the Attorney General, including transmission of current address information and other information on registrants to the extent provided by the guidelines.
 
 #### (3) Verification
 
@@ -202,7 +202,7 @@ Each requirement to register under this section shall be deemed to also require 
 
 #### (ii) Certain training programs
 
-&emsp;&emsp;&emsp;Prior to implementing this subsection, the Director shall study the feasibility of incorporating into the SOMA program the activities of any technical assistance or training program established as a result of section 13941 of this title. In a case in which incorporating such activities into the SOMA program will eliminate duplication of efforts or administrative costs, the Director shall take administrative actions, as allowable, and make recommendations to Congress to incorporate such activities into the SOMA program prior to implementing the SOMA program.
+&emsp;&emsp;&emsp;Prior to implementing this subsection, the Director shall study the feasibility of incorporating into the SOMA program the activities of any technical assistance or training program established as a result of section 13941 of this title. In a case in which incorporating such activities intothe SOMA program will eliminate duplication of efforts or administrative costs, the Director shall take administrative actions, as allowable, and make recommendations to Congress to incorporate such activities into the SOMA program prior to implementing the SOMA program.
 
 #### (3) Authorization of appropriations
 
@@ -240,7 +240,7 @@ Each requirement to register under this section shall be deemed to also require 
 
 #### Repeal of Section
 
-<i>Pub. L. 109–248, title I, §129, July 27, 2006, 120 Stat. 600, provided that, effective before the later of 3 years after July 27, 2006, or 1 year</i><i>after the date on which the software described in section 16923 of this title is available, this section is repealed.</i>
+<i>Pub. L. 109–248, title I, §129, July 27, 2006, 120 Stat. 600, provided that, effective before the later of 3 years after July 27, 2006, or 1 year after the date on which the software described in section 16923 of this title is available, this section is repealed.</i>
 
 #### References in Text
 
@@ -300,7 +300,7 @@ Subsec. (b)(3)(A)(i) to (iv). Pub. L. 105–119, §115(a)(2)(C)(ii), which direc
 
 “(iv) If the person fails to mail the verification form to the designated State law enforcement agency within 10 days after receipt of the form, the person shall be in violation of this section unless the person proves that the person has not changed the residence address.”
 
-Subsec. (b)(4). Pub. L. 105–119, §115(a)(2)(D), substituted “section shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and entered into the appropriate State records or data system” for “section reported to the designated State law enforcement agency shall be immediately reported to the appropriate law enforcement agency having jurisdiction where the person is residing. The designated law enforcement agency shall, if the person changes residence to another State, notify the law enforcement agencywith which the person must register in the new State, if the new State has a registration requirement”.
+Subsec. (b)(4). Pub. L. 105–119, §115(a)(2)(D), substituted “section shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and entered into the appropriate State records or data system” for “section reported to the designated State law enforcement agency shall be immediately reported to the appropriate law enforcement agency having jurisdiction where the person is residing. The designated law enforcement agency shall, if the person changes residence to another State, notify the law enforcement agency with which the person must register in the new State, if the new State has a registration requirement”.
 
 Subsec. (b)(5). Pub. L. 105–119, §115(a)(2)(E), substituted “and who moves to another State, shall report the change of address to the responsible agency in the State the person is leaving, and shall comply with any registration requirement in the new State of residence. The procedures of the State the person is leaving shall ensure that notice is provided promptly to an agency responsible for registration in the new State, if that State requires registration” for “shall register the new address with a designated law enforcement agency in another State to which the person moves not later than 10 days after such person establishes residence in the new State, if the new State has a registration requirement”.
 
@@ -404,7 +404,7 @@ Pub. L. 108–21, title VI, §604(c), Apr. 30, 2003, 117 Stat. 688, provided tha
 
 #### Study of Sex Offender Management Assistance Program
 
-Pub. L. 105–314, title VI, §607(b), Oct. 30, 1998, 112 Stat. 2986, provided that: “Not later than March 1, 2000, the Director shall conduct a study to assess the efficacy of the Sex Offender Management Assistance Program under section 170101(i) of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071(i)), as added by this section, and submit recommendations to Congress.”
+Pub. L. 105–314, title VI, §607(b), Oct. 30, 1998, 112 Stat. 2986, provided that: “Not later than March 1, 2000, the Director shall conduct a study to assess the efficacy ofthe Sex Offender Management Assistance Program under section 170101(i) of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071(i)), as added by this section, and submit recommendations to Congress.”
 
 #### Study of Hotlines
 

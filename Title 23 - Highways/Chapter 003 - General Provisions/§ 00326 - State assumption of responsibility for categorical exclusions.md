@@ -6,7 +6,7 @@ Categorical Exclusion Determinations.—
 
 &emsp;(1)
 
-In general.—The Secretary may assign, and a State may assume, responsibility for determining whether certain designated activities are included within classes of action identified in regulation by the Secretary that arecategorically excluded from requirements for environmental assessments or environmental impact statements pursuant to regulations promulgated by the Council on Environmental Quality under part 1500 of title 40, Code of Federal Regulations (as in effect on October 1, 2003).
+In general.—The Secretary may assign, and a State may assume, responsibility for determining whether certain designated activities are included within classes of action identified in regulation by the Secretary that are categorically excluded from requirements for environmental assessments or environmental impact statements pursuant to regulations promulgated by the Council on Environmental Quality under part 1500 of title 40, Code of Federal Regulations (as in effect on October 1, 2003).
 
 &emsp;(2)
 

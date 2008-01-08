@@ -278,7 +278,7 @@ An entity that receives a grant under this section may not use funds made availa
 
 &emsp;(6) for construction; or
 
-&emsp;(7) for expenditures for indirect costs (as determined by the Secretary), to the extent thatthe expenditures would exceed 15 percent of the total grant funds.
+&emsp;(7) for expenditures for indirect costs (as determined by the Secretary), to the extent that the expenditures would exceed 15 percent of the total grant funds.
 
 #### (m) Collaboration
 
@@ -296,7 +296,7 @@ The Secretary shall coordinate activities carried out under grant programs descr
 
 #### (<i>o</i>) Outreach activities
 
-The Secretary shall establish and implement procedures to carry out outreach activities to advise potential end users of telehealth services in rural areas, frontier communities, medically underserved areas, and medically underserved populations in each State about the grant programs described in subsection (b) of this section.
+The Secretary shall establish and implement procedures to carry out outreach activities toadvise potential end users of telehealth services in rural areas, frontier communities, medically underserved areas, and medically underserved populations in each State about the grant programs described in subsection (b) of this section.
 
 #### (p) Telehealth
 

@@ -8,7 +8,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(A)(i) Considerations of poverty alleviation and the reduction of barriers to economic and social progress should be incorporated into all Fund programs and all consultations under article IV of the Articles of Agreement of the Fund.
 
-&emsp;(ii) Preparation of Policy Framework Papers should be extended to all nations which haveFund programs and active Bank or International Development Association lending programs, and existence of a Policy Framework Paper should be a precondition for new lending to such nations by the Fund.
+&emsp;(ii) Preparation of Policy Framework Papers should be extended to all nations which have Fund programs and active Bank or International Development Association lending programs, and existence of a Policy Framework Paper should be a precondition for new lending to such nations by the Fund.
 
 &emsp;(iii) All Policy Framework Papers should articulate the principal poverty, economic, and social measures that the borrowing nation needs to address, and this portion of the Policy Framework Paper (or a summary thereof that includes specific measures and timing) should be made available when the Policy Framework Paper is submitted to the Executive Directors of the Bank and of the Fund for consideration.
 
@@ -42,7 +42,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (3) Ensuring policy options that increase the productive participation of the poor
 
-&emsp;The Fund should establish procedures that ensure the focus of future economic reform programs approved by the Fund on policy options that increase the productive participation of the poor in the economy.
+&emsp;The Fund should establish procedures that ensure the focus of future economic reformprograms approved by the Fund on policy options that increase the productive participation of the poor in the economy.
 
 #### (4) Public access to information
 

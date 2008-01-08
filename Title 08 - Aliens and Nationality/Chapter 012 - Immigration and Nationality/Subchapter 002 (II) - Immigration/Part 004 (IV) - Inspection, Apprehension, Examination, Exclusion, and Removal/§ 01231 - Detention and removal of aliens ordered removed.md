@@ -48,7 +48,7 @@
 
 &emsp;&emsp;The Attorney General is authorized to remove an alien in accordance with applicable procedures under this chapter before the alien has completed a sentence of imprisonment—
 
-&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>3</sup> and (II) the removal of the alien isappropriate and in the best interest of the United States; or
+&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>3</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
 
 &emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(iii) The country in which the alien has a residence.
 
-&emsp;&emsp;&emsp;(iv) A country with a government that will accept the alien into the country's territory if removal to each country described in a previous clause of this subparagraph is impracticable, inadvisable, or impossible.
+&emsp;&emsp;&emsp;(iv) A country with a government that will accept the alien into the country'sterritory if removal to each country described in a previous clause of this subparagraph is impracticable, inadvisable, or impossible.
 
 #### (2) Other aliens
 
@@ -186,7 +186,7 @@
 
 #### (C) Sustaining burden of proof; credibility determinations
 
-&emsp;&emsp;In determining whether an alien has demonstrated that the alien's life or freedom would be threatened for a reason described in subparagraph (A), the trier of fact shall determine whether the alien has sustained the alien's burden of proof, and shall makecredibility determinations, in the manner described in clauses (ii) and (iii) of section 1158(b)(1)(B) of this title.
+&emsp;&emsp;In determining whether an alien has demonstrated that the alien's life or freedom would be threatened for a reason described in subparagraph (A), the trier of fact shall determine whether the alien has sustained the alien's burden of proof, and shall make credibility determinations, in the manner described in clauses (ii) and (iii) of section 1158(b)(1)(B) of this title.
 
 #### (c) Removal of aliens arriving at port of entry
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;(iii) the alien has a nonimmigrant visa or other documentation authorizing the alien to apply for temporary admission to the United States and applies for admission not later than 120 days after the date the visa or documentation was issued;
 
-&emsp;&emsp;&emsp;(iv) the alien has a reentry permit and applies for admission not later than 120 days after the date of the alien's last inspection and admission;
+&emsp;&emsp;&emsp;(iv) the alien has a reentry permit and applies for admission not later than 120days after the date of the alien's last inspection and admission;
 
 &emsp;&emsp;&emsp;(v)(I) the alien has a nonimmigrant visa or other documentation authorizing the alien to apply for temporary admission to the United States or a reentry permit;
 
@@ -494,7 +494,7 @@ Section 387 of div. C of Pub. L. 104–208 provided that:
 
 “(a)
 
-Establishment.—The Attorney General and the Secretary of Defense shall establish one or more pilot programs for up to 2 years each to determine the feasibility of the use of military bases, available because of actions under a base closure law, as detention centers by the Immigration and Naturalization Service. In selecting real property at a military base for use as a detention center under the pilot program, the Attorney General and the Secretary shall consult with the redevelopment authority established for the military base and give substantial deference to the redevelopment plan prepared for the military base.
+Establishment.—The Attorney General and the Secretary of Defense shall establish one or more pilot programs for up to 2 years each to determine the feasibility of the use of military bases, available because of actions under a base closure law, as detention centers by the Immigration and Naturalization Service. In selecting real property at a military base for use as adetention center under the pilot program, the Attorney General and the Secretary shall consult with the redevelopment authority established for the military base and give substantial deference to the redevelopment plan prepared for the military base.
 
 “(b)
 

@@ -56,7 +56,7 @@ Findings.—Congress makes the following findings:
 
 “(b)
 
-Sense of Congress Regarding Success in Multilateral Organizations.—It is the sense of Congress that the Secretary of the Treasury should continue to promote the dissemination of international AML and CFT standards, and to press for full implementation of the FATF 40 + 8 Recommendations by all countries in order to curb financial risks and hinder terrorist financing around the globe. The efforts of the Secretary in this regard should include, where necessary or appropriate, multilateral action against countries whose counter-money laundering regimes and efforts against the financing of terrorism fall below recognized international standards.
+Sense of Congress Regarding Success in Multilateral Organizations.—It is the sense of Congress that the Secretary of the Treasury should continue to promote the dissemination of international AML and CFT standards, and to press for full implementation of the FATF 40 + 8 Recommendations by allcountries in order to curb financial risks and hinder terrorist financing around the globe. The efforts of the Secretary in this regard should include, where necessary or appropriate, multilateral action against countries whose counter-money laundering regimes and efforts against the financing of terrorism fall below recognized international standards.
 
 #### “SEC. 7702. DEFINITIONS.
 
@@ -116,7 +116,7 @@ Purposes.—The purposes of this title \[see Short Title of 2001 Amendment note 
 
 &emsp;“(4) to provide a clear national mandate for subjecting to special scrutiny those foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts that pose particular, identifiable opportunities for criminal abuse;
 
-&emsp;“(5) to provide the Secretary of the Treasury (in this title referred to as the ‘Secretary’) with broad discretion, subject to the safeguards provided by theAdministrative Procedure Act under title 5, United States Code \[5 U.S.C. 551 et seq., 701 et seq.\], to take measures tailored to the particular money laundering problems presented by specific foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts;
+&emsp;“(5) to provide the Secretary of the Treasury (in this title referred to as the ‘Secretary’) with broad discretion, subject to the safeguards provided by the Administrative Procedure Act under title 5, United States Code \[5 U.S.C. 551 et seq., 701 et seq.\], to take measures tailored to the particular money laundering problems presented by specific foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts;
 
 &emsp;“(6) to ensure that the employment of such measures by the Secretary permits appropriate opportunity for comment by affected financial institutions;
 
@@ -246,7 +246,7 @@ Beneficial ownership of personal holding companies.—The report described in pa
 
 #### Report on Need for Additional Legislation Relating to Informal Money Transfer Systems
 
-Pub. L. 107–56, title III, §359(d), Oct. 26, 2001, 115 Stat. 329, provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary of the Treasury shall report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system, counter money laundering and regulatory controls relating to underground money movement and banking systems, including whether thethreshold for the filing of suspicious activity reports under section 5318(g) of title 31, United States Code should be lowered in the case of such systems.”
+Pub. L. 107–56, title III, §359(d), Oct. 26, 2001, 115 Stat. 329, provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary of the Treasury shall report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system, counter money laundering and regulatory controls relating to underground money movement and banking systems, including whether the threshold for the filing of suspicious activity reports under section 5318(g) of title 31, United States Code should be lowered in the case of such systems.”
 
 #### Uniform State Licensing and Regulation of Check Cashing, Currency Exchange, and Money Transmitting Businesses
 
@@ -372,7 +372,7 @@ Pub. L. 102–550, title XV, §1564, Oct. 28, 1992, 106 Stat. 4073, provided tha
 
 “(a)
 
-Establishment.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representativesof the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 \[26 U.S.C. 6050I\].
+Establishment.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representatives of the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 \[26 U.S.C. 6050I\].
 
 “(b)
 

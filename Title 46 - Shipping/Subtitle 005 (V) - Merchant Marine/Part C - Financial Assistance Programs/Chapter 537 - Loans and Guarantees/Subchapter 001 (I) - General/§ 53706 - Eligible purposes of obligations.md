@@ -56,7 +56,7 @@ Non-Vessels Treated as Vessels.—An obligation guaranteed under subsection (a)(
 
 Priorities for Certain Vessels.—In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Secretary shall give priority to—
 
-&emsp;(1) a vessel that is otherwise eligible for a guarantee and is constructed with assistanceunder subtitle D of the Maritime Security Act of 2003 (46 U.S.C. 53101 note); and
+&emsp;(1) a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 (46 U.S.C. 53101 note); and
 
 &emsp;(2) after applying paragraph (1), a vessel that is otherwise eligible for a guarantee and that the Secretary of Defense determines—
 

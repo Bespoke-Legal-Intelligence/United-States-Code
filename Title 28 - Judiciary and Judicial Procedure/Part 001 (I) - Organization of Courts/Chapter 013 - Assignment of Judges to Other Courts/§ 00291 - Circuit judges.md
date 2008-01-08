@@ -18,7 +18,7 @@ Paragraph (d) of said section 17, making the section applicable to the United St
 
 Provisions of said sections 17 and 22 authorizing the senior Associate Justice to act in the absence of the Chief Justice of the United States were omitted as surplusage in view of specific authority to so act in section 3 of this title.
 
-The words in said section 17 “for such time as the business of such district court may require,” wereomitted as inconsistent with the language of said section 22 of title 28, U.S.C., 1940 ed., which employed the words “the public interest requires” and “from time to time and until he shall otherwise direct.” The revised section and sections 294 and 296 of this title make clear the power to make designation and assignment without any limitation of time, to revoke such designation and assignment and to make, from time to time, new designations and assignments.
+The words in said section 17 “for such time as the business of such district court may require,” were omitted as inconsistent with the language of said section 22 of title 28, U.S.C., 1940 ed., which employed the words “the public interest requires” and “from time to time and until he shall otherwise direct.” The revised section and sections 294 and 296 of this title make clear the power to make designation and assignment without any limitation of time, to revoke such designation and assignment and to make, from time to time, new designations and assignments.
 
 The term “chief judge” of the circuit was substituted for “senior circuit judge.” (See reviser's note under section 136 of this title.)
 

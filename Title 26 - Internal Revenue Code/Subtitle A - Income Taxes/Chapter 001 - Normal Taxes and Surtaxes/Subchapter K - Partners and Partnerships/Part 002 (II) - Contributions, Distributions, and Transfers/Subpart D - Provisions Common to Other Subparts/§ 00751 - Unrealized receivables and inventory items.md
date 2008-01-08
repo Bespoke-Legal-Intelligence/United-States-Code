@@ -26,7 +26,7 @@ The amount of any money, or the fair market value of any property, received by a
 
 &emsp;&emsp;(B) partnership property (including money) other than property described in subparagraph (A)(i) or (ii) in exchange for all or a part of his interest in partnership property described in subparagraph (A)(i) or (ii),
 
-> &emsp;such transactions shall, under regulations prescribed by the Secretary, be considered as a sale or exchange of such property between the distributee and the partnership (as constituted after the distribution).
+> &emsp;such transactions shall, under regulations prescribed by the Secretary, be considered as asale or exchange of such property between the distributee and the partnership (as constituted after the distribution).
 
 #### (2) Exceptions
 
@@ -56,7 +56,7 @@ For purposes of this subchapter, the term “unrealized receivables” includes,
 
 &emsp;(2) services rendered, or to be rendered.
 
-> For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)), franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) but only to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c), 1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section731, 732, or 741, as the case may be) such property had been sold by the partnership.
+> For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)), franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) but only to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c), 1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership.
 
 #### (d) Inventory items
 
@@ -86,7 +86,7 @@ In determining whether property of a partnership is—
 
 #### Amendments
 
-2004—Subsec. (d)(2) to (4). Pub. L. 108–357 inserted “and” at end of par. (2), redesignated par. (4) as (3) and substituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)”, and struck out former par. (3) which read as follows: “any other property of the partnership which, if sold or exchanged by the partnership, would result in a gain taxable under subsection (a) of section 1246 (relating to gain on foreign investment company stock), and”.
+2004—Subsec. (d)(2) to (4). Pub. L. 108–357 inserted “and” at end of par. (2), redesignated par. (4) as (3) andsubstituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)”, and struck out former par. (3) which read as follows: “any other property of the partnership which, if sold or exchanged by the partnership, would result in a gain taxable under subsection (a) of section 1246 (relating to gain on foreign investment company stock), and”.
 
 1999—Subsec. (d)(1). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
@@ -132,7 +132,7 @@ Subsec. (e). Pub. L. 95–600 added subsec. (e).
 
 1976—Subsec. (b)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c). Pub. L. 94–455, §§205(b), 1042(c)(2), 1101(d)(2), 1901(a)(93), 2110(a), in second sentence, inserted reference to stock in a DISC (as described in section 992(a)), reference to stock in certain foreign corporations (as described in section 1248), and reference to farm land (as defined in section 1252(a)), franchises, trademarks or trade names (referred to in section 1253(a)), and an oil or gas property (described in section1254), substituted “1252(a), 1253(a), or 1254(a)” for “or 1252(a)”, and inserted “1248(a),” after “1245(a),” and “995(c),” after “617(d)(1),”.
+Subsec. (c). Pub. L. 94–455, §§205(b), 1042(c)(2), 1101(d)(2), 1901(a)(93), 2110(a), in second sentence, inserted reference to stock in a DISC (as described in section 992(a)), reference to stock in certain foreign corporations (as described in section 1248), and reference to farm land (as defined in section 1252(a)), franchises, trademarks or trade names (referred to in section 1253(a)), and an oil or gas property (described in section 1254), substituted “1252(a), 1253(a), or 1254(a)” for “or 1252(a)”, and inserted “1248(a),” after “1245(a),” and “995(c),” after “617(d)(1),”.
 
 1969—Subsec. (c). Pub. L. 91–172, in second sentence, substituted “section 1250 property (as defined in section 1250(c)), farm recapture property (as defined in section 1251(e)(1)), and farm land (as defined in section 1252(a))”, and “1250(a), 1251(c), or 1252(a)”, for “and section 1250 property (as defined in section 1250(c))” and “1250(a)”, respectively.
 
@@ -208,7 +208,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12, 1966, but only in respect ofexpenditures paid or incurred after such date see section 3 of Pub. L. 89–570, set out as an Effective Date note under section 617 of this title.
+Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12, 1966, but only in respect of expenditures paid or incurred after such date see section 3 of Pub. L. 89–570, set out as an Effective Date note under section 617 of this title.
 
 #### Effective Date of 1964 Amendment
 

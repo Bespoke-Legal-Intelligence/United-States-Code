@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the National Institutes of Health (in this section referred to as the “Director”), shall establish a comprehensive program of conducting basic and clinical research on trauma (in this section referred to as the “Program”). The Program shall include research regarding the diagnosis, treatment, rehabilitation, and general management of trauma.
+The Secretary, acting through the Director of the National Institutes of Health (in this sectionreferred to as the “Director”), shall establish a comprehensive program of conducting basic and clinical research on trauma (in this section referred to as the “Program”). The Program shall include research regarding the diagnosis, treatment, rehabilitation, and general management of trauma.
 
 #### (b) Plan for Program
 
@@ -114,55 +114,9 @@ Subsec. (h)(4). Pub. L. 104–166, §2(2), added par. (4).
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a)of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Traumatic Brain Injury Study; Consensus Conference
 
-Pub. L. 104–166, §4, July 29, 1996, 110 Stat. 1448, as amended by Pub. L. 106–310, div. A, title XIII, §1302, Oct. 17, 2000, 114 Stat. 1138, provided that:
-
-“(a)
-
-Study.—
-
-&emsp;“(1)
-
-In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), acting through the appropriate agencies of the Public Health Service, shall conduct a study for the purpose of carrying out the following with respect to traumatic brain injury:
-
-&emsp;&emsp;“(A) In collaboration with appropriate State and local health-related agencies—
-
-&emsp;&emsp;&emsp;“(i)(I) determine the incidence and prevalence of traumatic brain injury in all age groups in the general population of the United States, including institutional settings; and
-
-&emsp;&emsp;&emsp;“(II) determine appropriate methodological strategies to obtain data on the incidence and prevalence of mild traumatic brain injury and report to Congress concerning such within 18 months of the date of the enactment of the Children's Health Act of 2000 \[Oct. 17, 2000\]; and
-
-&emsp;&emsp;&emsp;“(ii) develop a uniform reporting system under which States report incidents of traumatic brain injury.
-
-&emsp;&emsp;“(B) Identify common therapeutic interventions which are used for the rehabilitation of individuals with such injuries, and shall, subject to the availability of information, include an analysis of—
-
-&emsp;&emsp;&emsp;“(i) the effectiveness of each such intervention in improving the functioning, including return to work or school and community participation, of individuals with brain injuries;
-
-&emsp;&emsp;&emsp;“(ii) the comparative effectiveness of interventions employed in the course of rehabilitation of individuals with brain injuries to achieve the same or similar clinical outcome; and
-
-&emsp;&emsp;&emsp;“(iii) the adequacy of existing measures of outcomes and knowledge of factors influencing differential outcomes.
-
-&emsp;&emsp;“(C) Develop practice guidelines for the rehabilitation of traumatic brain injury at such time as appropriate scientific research becomes available.
-
-&emsp;“(2)
-
-Dates certain for reports.—
-
-&emsp;&emsp;“(A) Not later than 18 months after the date of the enactment of this Act \[July 29, 1996\], the Secretary shall submit to the Committee on Commerce of the House of Representatives, and to the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, a report describing the findings made as a result of carrying out paragraph (1)(A).
-
-&emsp;&emsp;“(B) Not later than 3 years after the date of the enactment of this Act, the Secretary shall submit to the Committees specified in subparagraph (A) a report describing the findings made as a result of carrying out subparagraphs (B) and (C) of paragraph (1).
-
-“(b)
-
-Consensus Conference.—The Secretary, acting through the Director of the National Center for Medical Rehabilitation Research within the National Institute for Child Health and Human Development, shall conduct a national consensus conference on managing traumatic brain injury and related rehabilitation concerns.
-
-“(c)
-
-Definition.—For purposes of this section, the term ‘traumatic brain injury’ means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to near drowning. The Secretary may revise the definition of such term as the Secretary determines necessary.
-
-“(d)
-
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2001 through 2005.”
+Pub. L. 104–166, §4, July 29, 1996, 110 Stat. 1448, as amended by Pub. L. 106–310, div. A, title XIII, §1302, Oct. 17, 2000, 114 Stat. 1138, required the Secretary of Health and Human Services to conduct a study of traumatic brain injuries, to submit a report to Congress within 18 months of July 29, 1996 on the findings of such study and a report within 3 years of that date on certain therapeutic interventions and guidelines developed in the study, and to conduct a national consensus conference on managing traumatic brain injury and related rehabilitation concerns.
 

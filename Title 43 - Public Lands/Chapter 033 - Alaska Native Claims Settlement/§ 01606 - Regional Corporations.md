@@ -10,7 +10,7 @@ For purposes of this chapter, the State of Alaska shall be divided by the Secret
 
 &emsp;(3) Northwest Alaska Native Association (Kotzebue);
 
-&emsp;(4) Association of Village Council Presidents (southwest coast, all villages in the Bethel area, including all villages on the Lower Yukon River and the Lower Kuskokwim River);
+&emsp;(4) Association of Village Council Presidents (southwest coast, all villages in the Bethel area, including all villages on the LowerYukon River and the Lower Kuskokwim River);
 
 &emsp;(5) Tanana Chiefs’ Conference (Koyukuk, Middle and Upper Yukon Rivers, Upper Kuskokwim, Tanana River);
 
@@ -54,7 +54,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 #### (1) Settlement Common Stock
 
-&emsp;(A) The Regional Corporation shall be authorized to issue such number of shares of Settlement Common Stock (divided into such classes as may be specified in the articles of incorporation to reflect the provisions of this chapter) as may be needed to issue one hundred shares of stock to each Native enrolled inthe region pursuant to section 1604 of this title.
+&emsp;(A) The Regional Corporation shall be authorized to issue such number of shares of Settlement Common Stock (divided into such classes as may be specified in the articles of incorporation to reflect the provisions of this chapter) as may be needed to issue one hundred shares of stock to each Native enrolled in the region pursuant to section 1604 of this title.
 
 &emsp;(B)(i) A Regional Corporation may amend its articles of incorporation to authorize the issuance of additional shares of Settlement Common Stock to—
 
@@ -136,7 +136,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;(B)(i) If the board of directors of a Regional Corporation intends to propose an amendment pursuant to paragraph (2) which would authorize the issuance of classes or series of stock that, singly or in combination, could cause the outstanding shares of Settlement Common Stock to represent less than a majority of the total voting power of the corporation for the purposes of electing directors, the shareholders of such corporation shall be expressly so informed.
 
-&emsp;(ii) Such information shall be transmitted to the shareholders in a separate disclosure statement or in another informational document in writing or in recorded sound form both in English and any Native language used by a shareholder of such corporation. Such statement or informational document shall be transmitted to the shareholders at least sixty days prior to the date on which such proposal is to be submitted for a vote.
+&emsp;(ii) Such information shall be transmitted to the shareholders in a separate disclosure statement or in another informational document in writing or in recorded sound form both in English and any Native language used by a shareholder of such corporation. Such statement or informational document shall betransmitted to the shareholders at least sixty days prior to the date on which such proposal is to be submitted for a vote.
 
 &emsp;(iii) If not later than thirty days after issuance of such disclosure statement or informational document the board of directors receives a prepared concise statement setting forth arguments in opposition to the proposed amendment together with a request for distribution thereof signed by the holders of at least 10 per centum of the outstanding shares of Settlement Common Stock, the board shall either distribute such statement to the shareholders or provide to the requesting shareholders a list of all shareholder's names and addresses so that the requesting shareholders may distribute such statement.
 
@@ -306,13 +306,13 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;(K) The consideration given for the purchase of Settlement Common Stock made pursuant to an offer to purchase that provides for such consideration may be in the form of cash, securities, or a combination of cash and securities, as determined by the board of directors of Cook Inlet Regional Corporation, in a manner consistent with an amendment made pursuant to subparagraph (B).
 
-&emsp;(L) Sale of Settlement Common Stock in accordance with this paragraph shall not diminish a shareholder's status as an Alaska Native or descendant of a Native for the purpose of qualifying for those programs, benefits andservices or other rights or privileges set out for the benefit of Alaska Natives and Native Americans. Proceeds from the sale of Settlement Common Stock shall not be excluded in determining eligibility for any needs-based programs that may be provided by Federal, State or local agencies.
+&emsp;(L) Sale of Settlement Common Stock in accordance with this paragraph shall not diminish a shareholder's status as an Alaska Native or descendant of a Native for the purpose of qualifying for those programs, benefits and services or other rights or privileges set out for the benefit of Alaska Natives and Native Americans. Proceeds from the sale of Settlement Common Stock shall not be excluded in determining eligibility for any needs-based programs that may be provided by Federal, State or local agencies.
 
 #### (i) Certain natural resource revenues; distribution among twelve Regional Corporations; computation of amount; subsection inapplicable to thirteenth Regional Corporation; exclusion from revenues
 
 (1)(A) Except as provided by subparagraph (B), 70 percent of all revenues received by each Regional Corporation from the timber resources and subsurface estate patented to it pursuant to this chapter shall be divided annually by the Regional Corporation among all twelve Regional Corporations organized pursuant to this section according to the number of Natives enrolled in each region pursuant to section 1604 of this title. The provisions of this subsection shall not apply to the thirteenth Regional Corporation if organized pursuant to subsection (c) hereof.
 
-(B) In the case of the sale, disposition, or other use of common varieties of sand, gravel, stone, pumice, peat, clay, or cinder resources made during a fiscal year ending after October 31, 1998, the revenues received by a Regional Corporation shall not be subject to division under subparagraph (A). Nothing in this subparagraph is intended to or shall be construed to alter the ownership of such sand, gravel, stone, pumice, peat, clay, or cinder resources.
+(B) In the case of the sale, disposition, or other use of common varieties of sand, gravel, stone, pumice, peat, clay, or cinder resources made during a fiscal year ending after October 31, 1998, the revenues received by a Regional Corporation shall not be subject to division under subparagraph (A). Nothing in this subparagraph is intended to or shall be construed toalter the ownership of such sand, gravel, stone, pumice, peat, clay, or cinder resources.
 
 (2) For purposes of this subsection, the term “revenues” does not include any benefit received or realized for the use of losses incurred or credits earned by a Regional Corporation.
 
@@ -338,7 +338,7 @@ The Regional Corporation may undertake on behalf of one or more of the Village C
 
 #### (<i>o</i>) Annual audit; place; availability of papers, things, or property to auditors to facilitate audits; verification of transactions; report to stockholders
 
-The accounts of the Regional Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of the State or the United States. The audits shall be conducted at the place or places where the accounts of the Regional Corporation are normally kept. All books, accounts, financial records, reports, files, and other papers, things, or property belonging to or in use by the Regional Corporation and necessary to facilitate the audits shall be available to the person or persons conductingthe audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agent, and custodians shall be afforded to such person or persons. Each audit report or a fair and reasonably detailed summary thereof shall be transmitted to each stockholder.
+The accounts of the Regional Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of the State or the United States. The audits shall be conducted at the place or places where the accounts of the Regional Corporation are normally kept. All books, accounts, financial records, reports, files, and other papers, things, or property belonging to or in use by the Regional Corporation and necessary to facilitate the audits shall be available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agent, and custodians shall be afforded to such person or persons. Each audit report or a fair and reasonably detailed summary thereof shall be transmitted to each stockholder.
 
 #### (p) Federal-State conflict of laws
 

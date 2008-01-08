@@ -66,7 +66,7 @@ Except for grants and contracts under section 11706 of this title, the Secretary
 
 #### (g) Annual private audit
 
-The Secretary shall allow as a cost of any grant made or contract entered into under thischapter the cost of an annual private audit conducted by a certified public accountant.
+The Secretary shall allow as a cost of any grant made or contract entered into under this chapter the cost of an annual private audit conducted by a certified public accountant.
 
 (Pub. L. 100–579, §8, Oct. 31, 1988, 102 Stat. 2921; Pub. L. 100–690, title II, §2308, Nov. 18, 1988, 102 Stat. 4228; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
 

@@ -32,7 +32,7 @@ The Workforce Investment Act of 1998, referred to in subsec. (a)(1)(C), is Pub. 
 
 2004—Subsec. (a)(2)(A). Pub. L. 108–429 substituted “assistance and appropriate” for “assistance, and appropriate”.
 
-2002—Subsec. (a). Pub. L. 107–210 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A petition for a certification of eligibility to apply for adjustment assistance under this subpart may be filed with the Secretary of Labor (hereinafter in thispart referred to as the ‘Secretary’) by a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) or by their certified or recognized union or other duly authorized representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that he has received the petition and initiated an investigation.”
+2002—Subsec. (a). Pub. L. 107–210 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A petition for a certification of eligibility to apply for adjustment assistance under this subpart may be filed with the Secretary of Labor (hereinafter in this part referred to as the ‘Secretary’) by a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) or by their certified or recognized union or other duly authorized representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that he has received the petition and initiated an investigation.”
 
 1993—Subsec. (a). Pub. L. 103–182 substituted “assistance under this subpart” for “assistance under this part”.
 
@@ -74,7 +74,7 @@ Reachback.—Notwithstanding paragraph (1), any worker—
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding this section.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding this section.
 
 #### Declaration of Policy; Sense of Congress
 

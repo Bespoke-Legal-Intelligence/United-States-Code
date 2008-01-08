@@ -12,7 +12,7 @@ Section 984, Pub. L. 89–287, §5, Oct. 22, 1965, 79 Stat. 1038; Pub. L. 90–4
 
 Section 985, Pub. L. 89–287, §6, Oct. 22, 1965, 79 Stat. 1039, limited annual and aggregate amounts available to individuals as loans and covered by insurance under this chapter.
 
-Section 986, Pub. L. 89–287, §7, Oct. 22, 1965, 79 Stat. 1039, provided for insurance coverage for loans made byeligible lenders, regardless of source of such loaned funds.
+Section 986, Pub. L. 89–287, §7, Oct. 22, 1965, 79 Stat. 1039, provided for insurance coverage for loans made by eligible lenders, regardless of source of such loaned funds.
 
 Section 987, Pub. L. 89–287, §8, Oct. 22, 1965, 79 Stat. 1039; Pub. L. 90–460, §2(c)(1), Aug. 3, 1968, 82 Stat. 634, set forth prerequisites of student eligibility and terms and conditions of note executed by student.
 

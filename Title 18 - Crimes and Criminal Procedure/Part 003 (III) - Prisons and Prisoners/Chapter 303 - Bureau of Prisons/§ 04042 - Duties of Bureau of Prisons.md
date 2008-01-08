@@ -92,7 +92,7 @@ Subsec. (c)(4). Pub. L. 109–248, §141(h), struck out par. (4) which read as f
 
 1997—Subsec. (a)(5). Pub. L. 105–119, §115(a)(8)(A)(i), substituted “subsections (b) and (c)” for “subsection (b)”.
 
-Subsec. (b)(4). Pub. L. 105–119, §115(a)(8)(A)(ii), struck out par. (4) which read as follows: “The notice providedunder this section shall be used solely for law enforcement purposes.”
+Subsec. (b)(4). Pub. L. 105–119, §115(a)(8)(A)(ii), struck out par. (4) which read as follows: “The notice provided under this section shall be used solely for law enforcement purposes.”
 
 Subsecs. (c), (d). Pub. L. 105–119, §115(a)(8)(A)(iv), added subsec. (c) and redesignated former subsec. (c) as (d).
 

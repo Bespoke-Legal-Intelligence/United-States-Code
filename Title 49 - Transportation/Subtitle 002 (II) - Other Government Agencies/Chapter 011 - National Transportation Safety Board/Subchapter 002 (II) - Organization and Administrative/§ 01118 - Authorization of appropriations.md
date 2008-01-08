@@ -6,7 +6,7 @@ In General.—There are authorized to be appropriated for the purposes of this c
 
 (b)
 
-Emergency Fund.—The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. In addition, there are authorized to be appropriated such sums as may be necessary to increase the fundto, and maintain the fund at, a level not to exceed $4,000,000.
+Emergency Fund.—The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. In addition, there are authorized to be appropriated such sums as may be necessary to increase the fund to, and maintain the fund at, a level not to exceed $4,000,000.
 
 (c)
 
@@ -68,7 +68,7 @@ In subsection (b)(2), the words “amounts equal to amounts expended annually ou
 
 Subsec. (c). Pub. L. 109–443, §8(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to appropriations and fees for the National Transportation Safety Board Academy.
 
-Subsec. (d). Pub. L. 109–443, §8(c), struck out heading and text of subsec. (d). Text read as follows: “The National Transportation Safety Board shall transmit an annual report to the Congress on the activities and operations of the National Transportation Safety Board Academy.”
+Subsec. (d). Pub. L. 109–443, §8(c), struck out heading and text of subsec. (d). Text read as follows: “The National Transportation Safety Board shall transmit anannual report to the Congress on the activities and operations of the National Transportation Safety Board Academy.”
 
 2003—Subsec. (a). Pub. L. 108–168, §2(a), struck out “and” after “fiscal year 2001,” and substituted “$73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, and $87,539,000 for fiscal year 2006. Such sums shall” for “such sums to”.
 

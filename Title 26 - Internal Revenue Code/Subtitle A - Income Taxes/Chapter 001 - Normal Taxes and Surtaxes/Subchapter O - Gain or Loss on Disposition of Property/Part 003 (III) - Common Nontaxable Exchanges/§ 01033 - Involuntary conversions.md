@@ -174,7 +174,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 &emsp;&emsp;&emsp;&emsp;(I) such proceeds shall be treated as received for the conversion of a single item of property, and
 
-&emsp;&emsp;&emsp;&emsp;(II) any property which is similar or related in service or use to the residence so converted (or contents thereof) shall be treated for purposes of subsection (a)(2) as property similar or related inservice or use to such single item of property.
+&emsp;&emsp;&emsp;&emsp;(II) any property which is similar or related in service or use to the residence so converted (or contents thereof) shall be treated for purposes of subsection (a)(2) as property similar or related in service or use to such single item of property.
 
 #### (B) Extension of replacement period
 
@@ -236,7 +236,7 @@ For purposes of this subtitle, if property is sold or otherwise transferred to t
 
 &emsp;&emsp;<b>(3) For exclusion from gross income of gain from involuntary conversion of principal residence, see section 121.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 303; June 29, 1956, ch. 464, §5(a), 70 Stat. 407; Pub. L. 85–866, title I, §§45, 46(a), Sept. 2, 1958, 72 Stat. 1641; Pub. L. 88–272, title II, §206(b)(3), Feb. 26, 1964, 78 Stat. 40; Pub. L. 91–172, title IX, §915(a), Dec. 30, 1969, 83 Stat. 723; Pub. L. 94–455, title XIX, §§1901(a)(128), 1906(b)(13)(A), title XXI, §§2127(a), 2140(a), Oct. 4, 1976, 90 Stat. 1785, 1834, 1920, 1932; Pub. L. 95–600, title IV, §404(c)(4), title V, §542(a), title VII, §703(j)(5), Nov. 6, 1978, 92 Stat. 2870, 2888, 2941; Pub. L. 97–34, title II, §202(d)(2), Aug. 13, 1981, 95 Stat. 221; Pub. L. 98–369, div. A, title IV, §474(r)(24), July 18, 1984, 98 Stat. 844; Pub. L. 101–508, title XI, §11813(b)(20), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13431(a), Aug. 10, 1993, 107 Stat. 567; Pub. L. 104–7, §3(a)(1), (b)(1), Apr. 11, 1995, 109 Stat. 94, 95; Pub. L. 104–188, title I, §§1119(a), (b), 1610(a), Aug. 20, 1996, 110 Stat. 1765, 1844; Pub. L. 105–34, title III, §312(d)(1), (7), title IX, §913(b), title X, §1087(a), Aug. 5, 1997, 111 Stat. 839, 840, 878, 959; Pub. L. 108–311, title IV, §408(a)(7)(C), Oct. 4,2004, 118 Stat. 1191; Pub. L. 108–357, title III, §311(a), (b), Oct. 22, 2004, 118 Stat. 1466, 1467; Pub. L. 109–7, §1(b), Apr. 15, 2005, 119 Stat. 22.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 303; June 29, 1956, ch. 464, §5(a), 70 Stat. 407; Pub. L. 85–866, title I, §§45, 46(a), Sept. 2, 1958, 72 Stat. 1641; Pub. L. 88–272, title II, §206(b)(3), Feb. 26, 1964, 78 Stat. 40; Pub. L. 91–172, title IX, §915(a), Dec. 30, 1969, 83 Stat. 723; Pub. L. 94–455, title XIX, §§1901(a)(128), 1906(b)(13)(A), title XXI, §§2127(a), 2140(a), Oct. 4, 1976, 90 Stat. 1785, 1834, 1920, 1932; Pub. L. 95–600, title IV, §404(c)(4), title V, §542(a), title VII, §703(j)(5), Nov. 6, 1978, 92 Stat. 2870, 2888, 2941; Pub. L. 97–34, title II, §202(d)(2), Aug. 13, 1981, 95 Stat. 221; Pub. L. 98–369, div. A, title IV, §474(r)(24), July 18, 1984, 98 Stat. 844; Pub. L. 101–508, title XI, §11813(b)(20), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13431(a), Aug. 10, 1993, 107 Stat. 567; Pub. L. 104–7, §3(a)(1), (b)(1), Apr. 11, 1995, 109 Stat. 94, 95; Pub. L. 104–188, title I, §§1119(a), (b), 1610(a), Aug. 20, 1996, 110 Stat. 1765, 1844; Pub. L. 105–34, title III, §312(d)(1), (7), title IX, §913(b), title X, §1087(a), Aug. 5, 1997, 111 Stat. 839, 840, 878, 959; Pub. L. 108–311, title IV, §408(a)(7)(C), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 108–357, title III, §311(a), (b), Oct. 22, 2004, 118 Stat. 1466, 1467; Pub. L. 109–7, §1(b), Apr. 15, 2005, 119 Stat. 22.)
 
 #### References in Text
 
@@ -302,7 +302,7 @@ Subsec. (k). Pub. L. 104–7, §3(b)(1), redesignated subsec. (j) as (k).
 
 1990—Subsec. (g)(3)(A). Pub. L. 101–508 struck out “with respect to which the investment credit determined under section 46(a) is or has been claimed or” after “to any property”.
 
-1984—Subsec. (g)(3)(A). Pub. L. 98–369 substituted “the investment credit determined under section 46(a)” for “the credit allowed by section 38 (relating to investment in certain depreciable property)”.
+1984—Subsec. (g)(3)(A). Pub. L. 98–369 substituted “the investment credit determined under section 46(a)” for“the credit allowed by section 38 (relating to investment in certain depreciable property)”.
 
 1981—Subsec. (g)(3)(A). Pub. L. 97–34 substituted “(relating to election to expense certain depreciable business assets)” for “(relating to additional first-year depreciation allowance for small business)”.
 
@@ -386,7 +386,7 @@ Amendment by section 703(j)(5) of Pub. L. 95–600 effective on Oct. 4, 1976, se
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(128) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(128) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Section 2127(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1970.”
 

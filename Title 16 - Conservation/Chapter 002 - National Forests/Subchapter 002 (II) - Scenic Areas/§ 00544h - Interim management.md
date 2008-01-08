@@ -14,7 +14,7 @@ Prior to the concurrence by the Secretary of land use ordinances prescribed by s
 
 #### (c) Review of development action
 
-Prior to the effective date of a land use ordinance for each county pursuant to section 544e of this title, and concurrence of the Secretary on a land use ordinance for each county pursuant to section 544f of this title, the Commission shall review all proposals for major development actions and new residential development in such county in the scenic area, except urban areas. The Commission shall allow major development actions and new residential development only if it determines that such development is consistent with the standards contained in section 544d of this title and the purposes of sections 544 to 544p of this title.
+Prior to the effective date of a land use ordinance for each county pursuant to section 544e of this title, and concurrence of the Secretary on a land use ordinance for each county pursuant to section 544f of this title, the Commission shall review all proposals for major development actions and new residential development in suchcounty in the scenic area, except urban areas. The Commission shall allow major development actions and new residential development only if it determines that such development is consistent with the standards contained in section 544d of this title and the purposes of sections 544 to 544p of this title.
 
 (Pub. L. 99–663, §10, Nov. 17, 1986, 100 Stat. 4291.)
 

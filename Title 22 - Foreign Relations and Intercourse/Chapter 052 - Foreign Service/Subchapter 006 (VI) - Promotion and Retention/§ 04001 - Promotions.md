@@ -44,7 +44,7 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 #### Amendments
 
-1999—Subsec. (c)(4), (5). Pub. L. 106–113 added pars. (4) and (5) and struck out former par. (4), which required report not later than Mar. 1 of each year, describing steps taken and planned in furtherance of compatibility and development of uniform procedures and consolidated personnel functions, specifying upper and lower limits planned for recruitment, retention, and advancement of members, and specifying numbers of members assigned to positions more than one grade higher or lower than the member.
+1999—Subsec. (c)(4), (5). Pub. L. 106–113 added pars. (4) and (5) and struck out former par. (4), which required report not later than Mar. 1 of each year, describing steps taken and planned in furtherance of compatibility and development of uniform procedures and consolidated personnel functions, specifying upper and lowerlimits planned for recruitment, retention, and advancement of members, and specifying numbers of members assigned to positions more than one grade higher or lower than the member.
 
 1994—Subsec. (b). Pub. L. 103–236, which directed amendment of par. (2) by striking “and” the last place it appears and by inserting “and other members of the Service” after “categories of career candidates,”, was executed by striking “and” after “categories of career members,” and making the insertion in concluding provisions below par. (2), to reflect the probable intent of Congress.
 

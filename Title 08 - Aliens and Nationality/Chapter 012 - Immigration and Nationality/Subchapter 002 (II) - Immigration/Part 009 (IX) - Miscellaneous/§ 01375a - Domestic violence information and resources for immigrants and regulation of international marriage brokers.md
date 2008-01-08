@@ -156,7 +156,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 #### (C) Penalty for misuse of information
 
-&emsp;&emsp;A person who knowingly discloses, uses, or causes to be used any information obtained by an international marriage broker as a result of the obligations imposed on it under paragraph (2) and this paragraph for any purpose other than the disclosures required under this paragraph shall be fined in accordance with title 18 or imprisoned not more than 1 year, or both. These penalties are in addition to any other civil or criminal liability under Federal or State law which a person may be subject to for the misuse of that information, including to threaten, intimidate, or harass any individual. Nothing in this section shall prevent the disclosure of such information to law enforcement or pursuant to a court order.
+&emsp;&emsp;A person who knowingly discloses, uses, or causes to be used any information obtained by an international marriage broker as a result of the obligations imposed on it under paragraph (2) and this paragraph for any purpose other than the disclosures required under this paragraph shall be fined in accordance with title 18 or imprisoned not more than 1 year, or both. These penalties are in addition to any other civil or criminal liability under Federal or State law which aperson may be subject to for the misuse of that information, including to threaten, intimidate, or harass any individual. Nothing in this section shall prevent the disclosure of such information to law enforcement or pursuant to a court order.
 
 #### (4) Limitation on disclosure
 
@@ -310,7 +310,7 @@ In this section:
 
 #### References in Text
 
-Section 3 of this Act, referred to in subsec. (e)(2), is section 3 of Pub. L. 109–162, which enacted sections 3796gg–2 and 13925 of Title 42, The Public Health and Welfare, amended sections 3796gg–3, 3796hh–4, 10420, 13975, and 14039 of Title 42, repealed former section 3796gg–2 of Title 42, and amended provisions set out as a note under section 3796gg–2 of Title 42.
+Section 3 of this Act, referred to in subsec. (e)(2), is section 3 of Pub. L. 109–162, which enacted sections 3796gg–2 and 13925 of Title 42, The Public Health and Welfare, amended sections 3796gg–3, 3796hh–4, 10420, 13975, and 14039 of Title 42, repealed former section3796gg–2 of Title 42, and amended provisions set out as a note under section 3796gg–2 of Title 42.
 
 Section 832, referred to in subsec. (f)(1)(A), (C), is section 832 of Pub. L. 109–162, which amended section 1184 of this title and enacted provisions set out as notes under section 1184 of this title.
 

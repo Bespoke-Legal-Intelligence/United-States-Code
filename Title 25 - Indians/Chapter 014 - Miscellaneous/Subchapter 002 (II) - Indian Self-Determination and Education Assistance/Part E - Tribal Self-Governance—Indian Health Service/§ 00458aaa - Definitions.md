@@ -8,7 +8,7 @@ In this part:
 
 &emsp;The term “construction project”—
 
-&emsp;&emsp;(A) means an organized noncontinuous undertaking to complete a specific set ofpredetermined objectives for the planning, environmental determination, design, construction, repair, improvement, or expansion of buildings or facilities, as described in a construction project agreement; and
+&emsp;&emsp;(A) means an organized noncontinuous undertaking to complete a specific set of predetermined objectives for the planning, environmental determination, design, construction, repair, improvement, or expansion of buildings or facilities, as described in a construction project agreement; and
 
 &emsp;&emsp;(B) does not include construction program administration and activities described in paragraphs (1) through (3) of section 450b(m) of this title, that may otherwise be included in a funding agreement under this part.
 
@@ -58,7 +58,7 @@ In this part:
 
 #### (b) Indian tribe
 
-In any case in which an Indian tribe has authorized another Indian tribe, an inter-tribal consortium, or a tribal organization to plan for or carry out programs, services, functions, or activities (or portions thereof) on its behalf under this part, the authorized Indian tribe, inter-tribal consortium, or tribal organization shall have the rights and responsibilities of the authorizing Indian tribe (except as otherwise provided in the authorizing resolution or in this part). In such event, the term “Indian tribe” as used in this part shall include such other authorized Indian tribe, inter-tribal consortium, or tribal organization.
+In any case in which an Indian tribe has authorized another Indian tribe, an inter-tribal consortium, or a tribal organization to plan for or carry out programs, services, functions, or activities (or portions thereof) on its behalf under this part, the authorized Indian tribe, inter-tribal consortium, or tribal organization shall have the rights and responsibilities of the authorizing Indian tribe (except as otherwise provided in the authorizing resolution or in this part). In suchevent, the term “Indian tribe” as used in this part shall include such other authorized Indian tribe, inter-tribal consortium, or tribal organization.
 
 (Pub. L. 93–638, title V, §501, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 712.)
 

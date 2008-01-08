@@ -36,7 +36,7 @@ Each member of the Board shall be appointed to serve for a term of three years e
 
 #### (d) Initial appointment; Chairman
 
-The members of the Board shall be appointed within ninety days of September 28, 1984. Themembers of the Board shall, at their first meeting, elect a Chairman.
+The members of the Board shall be appointed within ninety days of September 28, 1984. The members of the Board shall, at their first meeting, elect a Chairman.
 
 #### (e) Annual meetings and consultations with Secretary or designee
 

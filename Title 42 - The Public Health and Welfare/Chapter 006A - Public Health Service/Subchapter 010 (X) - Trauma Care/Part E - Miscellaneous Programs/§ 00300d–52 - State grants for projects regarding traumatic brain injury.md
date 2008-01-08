@@ -12,7 +12,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (2) Functions
 
-&emsp;An advisory board established under paragraph (1) shall advise and make recommendations to the State on ways to improve services coordination regarding traumatic brain injury. Such advisory boards shall encourage citizen participation through the establishment of public hearings and other types of community outreach programs. In developing recommendations under this paragraph, such boards shall consult with Federal, State, and local governmental agencies and with citizens groups and other private entities.
+&emsp;An advisory board established under paragraph (1) shall advise and make recommendations to the State on ways to improve services coordination regarding traumatic brain injury. Such advisory boards shall encourage citizen participation through the establishment of public hearings and other types ofcommunity outreach programs. In developing recommendations under this paragraph, such boards shall consult with Federal, State, and local governmental agencies and with citizens groups and other private entities.
 
 #### (3) Composition
 
@@ -114,13 +114,15 @@ For purposes of this section, the term “traumatic brain injury” means an acq
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-(July 1, 1944, ch. 373, title XII, §1252, as added Pub. L. 104–166, §3, July 29, 1996, 110 Stat. 1446; amended Pub. L. 106–310, div. A, title XIII, §1304, Oct. 17, 2000, 114 Stat. 1139.)
+(July 1, 1944, ch. 373, title XII, §1252, as added Pub. L. 104–166, §3, July 29, 1996, 110 Stat. 1446; amended Pub. L. 106–310, div. A, title XIII, §1304, Oct. 17, 2000, 114 Stat. 1139; Pub. L. 110–23, §14, May 3, 2007, 121 Stat. 99.)
 
 #### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (f)(2)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
+
+2007—Pub. L. 110–23, which directed amendment of section by striking “demonstration” in section catchline, could not be executed because the word “demonstration” did not appear after amendment by Pub. L. 106–310, §1304(1). See 2000 Amendment note below.
 
 2000—Pub. L. 106–310, §1304(1), struck out “demonstration” before “projects” in section catchline.
 

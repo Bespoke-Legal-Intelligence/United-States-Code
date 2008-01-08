@@ -30,7 +30,7 @@ Except as provided by subsection (d) of this section, payment shall be made in a
 
 #### (d) Billings; interest after due date, rates of interest and extension of due date
 
-If the President determines it to be in the national interest pursuant to subsection (b) of this section, billings for sales made under letters of offer issued under this section after June 30, 1976, may be dated and issued upon delivery of the defense article or rendering of the defense service and shall be due and payable upon receipt thereof by the purchasing country or international organization. Interest shall be charged on any net amount due and payable which is not paid within sixty days after the date of such billing. The rate of interest charged shall be a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding short-term obligations of the United States as of the last day of the month preceding the billing and shall be computed from the date of billing. The President may extend such sixty-day period to one hundred and twenty days if he determines that emergency requirements of the purchaser for acquisition of such defense articles or defense services exceed the ready availability to the purchaser of funds sufficient to pay the United States in full for them within such sixty-day period and submits that determination to the Congress together with a special emergency request for the authorization and appropriation of additional funds to finance such purchases under this chapter.
+If the President determines it to be in the national interest pursuant to subsection (b) of this section, billings for sales made under letters of offer issued under this section after June 30, 1976, may be dated and issued upon delivery of the defense article or rendering of the defense service and shall be due and payable upon receipt thereof by the purchasing country or international organization. Interest shall be charged on any net amount due and payable which is notpaid within sixty days after the date of such billing. The rate of interest charged shall be a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding short-term obligations of the United States as of the last day of the month preceding the billing and shall be computed from the date of billing. The President may extend such sixty-day period to one hundred and twenty days if he determines that emergency requirements of the purchaser for acquisition of such defense articles or defense services exceed the ready availability to the purchaser of funds sufficient to pay the United States in full for them within such sixty-day period and submits that determination to the Congress together with a special emergency request for the authorization and appropriation of additional funds to finance such purchases under this chapter.
 
 #### (e) Charges; reduction or waiver
 
@@ -76,7 +76,7 @@ Any contracts entered into between the United States and a foreign country under
 
 #### (g) North Atlantic Treaty Organization standardization agreements, similar agreements; reimbursement for costs; transmittal to Congress
 
-The President may enter into North Atlantic Treaty Organization standardization agreements in carrying out section 814 of the Act of October 7, 1975 (Public Law 94–106), and may enter into similar agreements with countries which are major non-NATO allies, for the cooperative furnishing of training on bilateral or multilateral basis, if the financial principles of such agreements are based on reciprocity. Such agreements shall include reimbursement for all direct costs but may exclude reimbursement for indirect costs, administrative surcharges, and costs of billeting of trainees (except to the extent that members of the United States Armed Forces occupying comparable accommodations are charged for such accommodations by the United States). Each such agreement shall be transmitted promptly to the Speaker of the House of Representatives and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate.
+The President may enter into North Atlantic Treaty Organization standardization agreements in carrying out section 814 of the Act of October 7, 1975 (Public Law 94–106), and may enter into similar agreements with countries which are major non-NATO allies, for the cooperative furnishing of training on bilateral or multilateral basis, if the financial principles of such agreements are based on reciprocity. Such agreements shall include reimbursement for alldirect costs but may exclude reimbursement for indirect costs, administrative surcharges, and costs of billeting of trainees (except to the extent that members of the United States Armed Forces occupying comparable accommodations are charged for such accommodations by the United States). Each such agreement shall be transmitted promptly to the Speaker of the House of Representatives and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate.
 
 #### (h) Reciprocal quality assurance, inspection, contract administrative services, and contract audit defense services; catalog data and services
 
@@ -132,7 +132,7 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 &emsp;&emsp;(ii) has available sufficient funds authorized and appropriated for such purpose; or
 
-&emsp;&emsp;(B)(i) is accepting the return of the defense article for subsequent transfer to another foreign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter; and
+&emsp;&emsp;(B)(i) is accepting the return of the defense article for subsequent transfer to anotherforeign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter; and
 
 &emsp;&emsp;(ii) has available sufficient funds provided by or on behalf of such other foreign government or international organization pursuant to a letter of offer and acceptance implemented in accordance with this chapter.
 
@@ -188,13 +188,13 @@ Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in 
 
 #### Codification
 
-Amendment by Pub. L. 98–473 is based on section 102 of S. 2346, Ninety-eighth Congress, as introduced in theSenate Feb. 27, 1984, which was enacted into permanent law by Pub. L. 98–473.
+Amendment by Pub. L. 98–473 is based on section 102 of S. 2346, Ninety-eighth Congress, as introduced in the Senate Feb. 27, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
 #### Amendments
 
 2005—Subsec. (h)(1)(A). Pub. L. 109–102, §534(<i>l</i>)(1), inserted “or the Governments of Australia, New Zealand, Japan, or Israel” after “North Atlantic Treaty Organization”.
 
-Subsec. (h)(2). Pub. L. 109–102, §534(<i>l</i>)(2), which directed the substitution of “, to any member of that Organization, or to the Governments of Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of Australia, New Zealand, Japan, or Israel” for “or to any member government that Organization if that Organization or member government”, was executed by making the substitution for “or to any member government of that Organization if that Organization or member government” to reflect the probable intent of Congress.
+Subsec. (h)(2). Pub. L. 109–102, §534(<i>l</i>)(2), which directed the substitution of “, to any member of that Organization, or to the Governments of Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of Australia, New Zealand, Japan, or Israel” for “or to any member government that Organization if that Organization or member government”, was executed by making thesubstitution for “or to any member government of that Organization if that Organization or member government” to reflect the probable intent of Congress.
 
 1999—Subsec. (a)(1). Pub. L. 106–113 inserted “and the Coast Guard” after “Department of Defense” in introductory provisions.
 
@@ -276,7 +276,7 @@ Subsec. (h). Pub. L. 96–533, §105(b)(1), substituted “defense articles, def
 
 1978—Subsec. (e)(1)(D). Pub. L. 95–384 added subpar. (D).
 
-1976—Subsec. (a). Pub. L. 94–329, §205, designated existing provisions as subsec. (a) and substituted provisions authorizing President to sell defense articles and defense services from Department of Defense stocks to eligible countries and international organizations who agree to pay specified values for such articles and services in United States dollars, for provisions requiring that payment for defense articles and defense services from stocks be made in advance, or if in the best interest of the United States as determined by the President, within a reasonable period not to exceed 120 days after delivery of the articles or rendering of the services.
+1976—Subsec. (a). Pub. L. 94–329, §205, designated existing provisions as subsec. (a) and substituted provisions authorizing President to sell defense articles and defense services from Department of Defense stocks to eligible countries and international organizations who agree to pay specified values for such articles and services in United States dollars, for provisions requiring that payment for defense articles and defense services from stocks be made in advance, or if in the best interest of the United States as determined by the President, within a reasonable period not to exceed 120 daysafter delivery of the articles or rendering of the services.
 
 Subsecs. (b) to (h). Pub. L. 94–329, §§205, 206, added subsecs. (b) to (h).
 

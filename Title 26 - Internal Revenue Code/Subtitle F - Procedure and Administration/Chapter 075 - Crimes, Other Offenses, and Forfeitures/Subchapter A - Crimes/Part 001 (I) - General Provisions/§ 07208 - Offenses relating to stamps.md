@@ -12,7 +12,7 @@ Any person who—
 
 #### (3) Use of mutilated, insufficient, or counterfeited stamps
 
-&emsp;Fraudulently uses, joins, fixes, or places to, with, or upon any vellum, parchment, paper,instrument, writing, package, or article, upon which any tax is imposed by this title,
+&emsp;Fraudulently uses, joins, fixes, or places to, with, or upon any vellum, parchment, paper, instrument, writing, package, or article, upon which any tax is imposed by this title,
 
 &emsp;&emsp;(A) any adhesive stamp, or the impression of any stamp, die, plate, or other article, which has been cut, torn, or removed from any other vellum, parchment, paper, instrument, writing, package, or article, upon which any tax is imposed by this title; or
 

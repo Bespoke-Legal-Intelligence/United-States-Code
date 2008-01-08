@@ -38,5 +38,3 @@ Pub. L. 96–342, title III, §302(a), Sept. 8, 1980, 94 Stat. 1082, as amended 
 
 Pub. L. 93–307, title IV, §401, June 8, 1974, 88 Stat. 234, as amended by Pub. L. 93–365, title VII, §705, Aug. 5, 1974, 88 Stat. 406, which provided that no volunteer for enlistment into the Armed Forces shall be denied enlistment solely because of his not having a high school diploma when his enlistment is needed to meet established strength requirements, was repealed and restated in sections 520(b) and 3262 of this title by Pub. L. 100–370, §1(a), July 19, 1988, 102 Stat. 840.
 
-§520a
-

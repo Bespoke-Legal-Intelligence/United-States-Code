@@ -10,7 +10,7 @@ In this section—
 
 #### (b) Declaration of violent crime and drug emergency areas
 
-If a major violent crime or drug-related emergency exists throughout a State or a part of a State, the President may declare the State or part of a State to be a violent crime or drug emergency area and may take appropriate actions authorized by this section.
+If a major violent crime or drug-related emergency exists throughout a State or a part of a State, the President may declare the State orpart of a State to be a violent crime or drug emergency area and may take appropriate actions authorized by this section.
 
 #### (c) Procedure
 
@@ -44,7 +44,7 @@ The Attorney General shall review a request submitted pursuant to this section, 
 
 The President may—
 
-&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federallaw (including personnel, equipment, supplies, facilities, financial assistance, and managerial, technical, and advisory services) in support of State and local assistance efforts; and
+&emsp;(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, financial assistance, and managerial, technical, and advisory services) in support of State and local assistance efforts; and
 
 &emsp;(2) provide technical and advisory assistance, including communications support and law enforcement-related intelligence information.
 

@@ -38,7 +38,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (d) Fortified fluid milk
 
-(1) Subject to the availability of appropriations to carry out this subsection, the Secretaryshall establish pilot projects in at least 25 school districts under which the milk offered by schools meets the fortification requirements of paragraph (3) for lowfat, skim, and other forms of fluid milk.
+(1) Subject to the availability of appropriations to carry out this subsection, the Secretary shall establish pilot projects in at least 25 school districts under which the milk offered by schools meets the fortification requirements of paragraph (3) for lowfat, skim, and other forms of fluid milk.
 
 (2) The Secretary shall make available to school districts information that compares the nutritional benefits of fluid milk that meets the fortification requirements of paragraph (3) and the nutritional benefits of other milk that is made available through the school lunch program established under this chapter.
 
@@ -166,7 +166,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a school conducting a pilot project under this subsection shall receive a total Federal reimbursement under the school breakfast program in an amount that is equal to the total Federal reimbursement for the school for the prior year under the program (adjusted to reflect changes in the series for food away from home of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor and adjusted for fluctuations in enrollment).
+&emsp;&emsp;Except as provided in subparagraph (B), a school conducting a pilot project under this subsection shall receive a total Federal reimbursement under the school breakfast program in an amount that is equal to the total Federal reimbursement for the school for the prior year under the program (adjusted to reflect changes in the series for food away from home of the Consumer Price Index for All Urban Consumers published bythe Bureau of Labor Statistics of the Department of Labor and adjusted for fluctuations in enrollment).
 
 #### (B) Excess needs
 
@@ -182,83 +182,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;&emsp;No amounts may be provided under this subsection unless specifically provided in appropriations Acts.
 
-#### (f) Simplified summer food programs
-
-#### (1) Definition of eligible State
-
-&emsp;In this subsection, the term “eligible State” means—
-
-&emsp;&emsp;(A) a State participating in the program under this subsection as of May 1, 2004; and
-
-&emsp;&emsp;(B) a State in which (based on data available in June 2005)—
-
-&emsp;&emsp;&emsp;(i) the percentage obtained by dividing—
-
-&emsp;&emsp;&emsp;&emsp;(I) the sum of—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the average daily number of children attending the summer food service program in the State in July 2003; and
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the average daily number of children receiving free or reduced price meals under the school lunch program in the State in July 2003; by
-
-&emsp;&emsp;&emsp;&emsp;(II) the average daily number of children receiving free or reduced price meals under the school lunch program in the State in March 2003; is less than
-
-&emsp;&emsp;&emsp;(ii) 75 percent of the percentage obtained by dividing—
-
-&emsp;&emsp;&emsp;&emsp;(I) the sum of—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the average daily number of children attending the summer food service program in all States in July 2003; and
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the average daily number of children receiving free or reduced price meals under the school lunch program in all States in July 2003; by
-
-&emsp;&emsp;&emsp;&emsp;(II) the average daily number of children receiving free or reduced price meals under the school lunch program in all States in March 2003.
-
-#### (2) Programs
-
-&emsp;The Secretary shall carry out a summer food program in each eligible State to increase the number of children participating in the summer food service program in the State.
-
-#### (3) Support levels for service institutions
-
-#### (A) Food service
-
-&emsp;&emsp;Under the program, a service institution in an eligible State shall receive the maximum amounts for food service under section 1761(b)(1) of this title without regard to the requirement under section 1761(b)(1)(A) of this title that payments shall equal the full cost of food service operations.
-
-#### (B) Administrative costs
-
-&emsp;&emsp;Under the program, a service institution in an eligible State shall receive the maximum amounts for administrative costs determined by the Secretary under section 1761(b)(4) of this title without regard to the requirement under section 1761(b)(3) of this title that payments to service institutions shall equal the full amount of State-approved administrative costs incurred.
-
-#### (C) Compliance
-
-&emsp;&emsp;A service institution that receives assistance under this subsection shall comply with all provisions of section 1761 of this title other than subsections (b)(1)(A) and (b)(3) of section 1761 of this title.
-
-#### (4) Maintenance of effort
-
-&emsp;Expenditures of funds from State and local sources for maintenance of a summer food service program shall not be diminished as a result of assistance from the Secretary received under this subsection.
-
-#### (5) Evaluation of programs
-
-#### (A) In general
-
-&emsp;&emsp;The Secretary, acting through the Administrator of the Food and Nutrition Service, shall conduct an evaluation of the program.
-
-#### (B) Content
-
-&emsp;&emsp;An evaluation under this paragraph shall describe—
-
-&emsp;&emsp;&emsp;(i) any effect on participation by children and service institutions in the summer food service program in the eligible State in which the program is carried out;
-
-&emsp;&emsp;&emsp;(ii) any effect of the program on the quality of the meals and supplements served in the eligible State in which the program is carried out; and
-
-&emsp;&emsp;&emsp;(iii) any effect of the program on program integrity.
-
-#### (6) Report
-
-&emsp;Not later than April 30, 2007, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes—
-
-&emsp;&emsp;(A) the evaluations completed by the Secretary under paragraph (5); and
-
-&emsp;&emsp;(B) any recommendations of the Secretary concerning the programs.
-
-#### (g) Fresh fruit and vegetable program
+#### (f) Fresh fruit and vegetable program
 
 #### (1) In general
 
@@ -322,7 +246,7 @@ Centers for Disease Control and Prevention” in title II of the Departments of 
 
 #### (B) Final report
 
-&emsp;&emsp;Not later than December 31, 2008, the Secretary, acting through the Administrator of the Food and Nutrition Service, shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a final report that describes the results of the program under this subsection.
+&emsp;&emsp;Not later than December 31, 2008, the Secretary, acting through the Administrator of the Food and Nutrition Service, shall submit to the Committee on Education and the Workforce of the House of Representativesand the Committee on Agriculture, Nutrition, and Forestry of the Senate a final report that describes the results of the program under this subsection.
 
 #### (6) Funding
 
@@ -348,7 +272,7 @@ Centers for Disease Control and Prevention” in title II of the Departments of 
 
 &emsp;&emsp;The Secretary may reallocate any amounts made available to carry out this subsection that are not obligated or expended, as determined by the Secretary.
 
-#### (h) Summer food service residential camp eligibility
+#### (g) Summer food service residential camp eligibility
 
 #### (1) In general
 
@@ -384,7 +308,7 @@ Centers for Disease Control and Prevention” in title II of the Departments of 
 
 &emsp;&emsp;Not later than March 31, 2006, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that evaluates the effect of this subsection on program participation and other factors, as determined by the Secretary.
 
-#### (i) Access to local foods and school gardens
+#### (h) Access to local foods and school gardens
 
 #### (1) In general
 
@@ -414,7 +338,7 @@ Centers for Disease Control and Prevention” in title II of the Departments of 
 
 &emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2004 through 2009.
 
-#### (j) Year-round services for eligible entities
+#### (i) Year-round services for eligible entities
 
 #### (1) In general
 
@@ -446,7 +370,7 @@ Centers for Disease Control and Prevention” in title II of the Departments of 
 
 &emsp;The Secretary shall provide to the State of California such sums as are necessary to carry out this subsection for each of fiscal years 2005 through 2009.
 
-#### (k) Free lunch and breakfast eligibility
+#### (j) Free lunch and breakfast eligibility
 
 #### (1) In general
 
@@ -460,7 +384,7 @@ Centers for Disease Control and Prevention” in title II of the Departments of 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 3 years after the implementation of this subsection, the Secretary shallconduct an evaluation to assess the impact of the changed income eligibility guidelines by comparing the school food authorities operating under this subsection to school food authorities not operating under this subsection.
+&emsp;&emsp;Not later than 3 years after the implementation of this subsection, the Secretary shall conduct an evaluation to assess the impact of the changed income eligibility guidelines by comparing the school food authorities operating under this subsection to school food authorities not operating under this subsection.
 
 #### (B) Impact assessment
 
@@ -498,19 +422,19 @@ Centers for Disease Control and Prevention” in title II of the Departments of 
 
 &emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection, to remain available until expended.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161.)
+(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880.)
 
 #### References in Text
 
 The Child Nutrition Act of 1966, referred to in subsecs. (a) and (e)(6), (7)(B)(ii), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
-The Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2004, referred to in subsec. (g)(3)(B)(ii), is Pub. L. 108–199, div. E, Jan. 23, 2004, 118 Stat. 226. Provisions under the headings “
+The Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2004, referred to in subsec. (f)(3)(B)(ii), is Pub. L. 108–199, div. E, Jan. 23, 2004, 118 Stat. 226. Provisions under the headings “
 
 Centers for Disease Control and Prevention” and “
 
 disease control, research, and training” in title II of the Act appear at 118 Stat. 238 and are not classified to the Code.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (k)(3)(B)(ii)(IV), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (j)(3)(B)(ii)(IV), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Codification
 
@@ -521,6 +445,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 18 of act June 4, 1946, which was classified to section 1767 of this title, was repealed.
 
 #### Amendments
+
+2007—Subsecs. (f) to (k). Pub. L. 110–161 redesignated subsecs. (g) to (k) as (f) to (j), respectively, and struck out former subsec. (f) which related to simplified summer food programs.
 
 2005—Subsec. (f)(1)(B). Pub. L. 109–97, §777(a)(1), substituted “June 2005” for “April 2004” in introductory provisions.
 
@@ -572,7 +498,7 @@ Subsec. (i). Pub. L. 105–336, §109(b), (c)(1), amended subsec. (i) generally 
 
 1996—Subsec. (d)(3) to (5). Pub. L. 104–193, §709(a), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which related to pilot program for schools with universal free lunch programs to use certain methods to determine number of free, reduced price, and paid meals to be provided.
 
-Subsec. (e)(1). Pub. L. 104–193, §709(b)(1), designated subpar. (A) as par. (1), substituted “Secretary may establish” for “Secretary shall establish”, and struck out subpar. (B) which read as follows: “The amount of a grant under subparagraph (A) shall be equal to the amount necessary to provide meals or supplements described in such subparagraph and shall be determined in accordance with reimbursement payment rates for meals and supplements under the child and adult care food program under section 1766 of this title.”
+Subsec. (e)(1). Pub. L. 104–193, §709(b)(1), designated subpar. (A) as par. (1), substituted “Secretary may establish” for “Secretary shall establish”, and struck out subpar. (B) which read as follows: “The amount of a grant under subparagraph (A) shall be equal to the amount necessary to provide meals or supplements described in such subparagraph and shall be determined in accordance with reimbursement payment rates formeals and supplements under the child and adult care food program under section 1766 of this title.”
 
 Subsec. (e)(5). Pub. L. 104–193, §709(b)(2), added heading and text of par. (5) and struck out former par. (5) which read as follows:
 
@@ -632,7 +558,11 @@ Subsec. (d). Pub. L. 95–627, §11(2), added subsec. (d).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–161 effective on Jan. 1 of the first full calendar year following Dec. 26, 2007, see section 738(c) of Pub. L. 110–161, set out as a note under section 1761 of this title.
 
 #### Effective Date of 2005 Amendment
 

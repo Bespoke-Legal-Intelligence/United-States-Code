@@ -28,7 +28,7 @@ In this section:
 
 #### (1) Requirement
 
-&emsp;To meet the requirements of an agency for an energy consuming product, the head of the agency shall, except as provided in paragraph (2), procure—
+&emsp;To meet the requirements of an agency for an energy consuming product in a product category covered by the Energy Star program or the Federal Energy Management Program for designated products, the head of the agency shall, except as provided in paragraph (2), procure—
 
 &emsp;&emsp;(A) an Energy Star product; or
 
@@ -38,7 +38,7 @@ In this section:
 
 &emsp;The head of an agency is not required to procure an Energy Star product or FEMP designated product under paragraph (1) if the head of the agency finds in writing that—
 
-&emsp;&emsp;(A) an Energy Star product or FEMP designated product is not cost-effective over the life of the product taking energy cost savings into account; or
+&emsp;&emsp;(A) an Energy Star product or FEMP designated product is not cost-effective over thelife of the product taking energy cost savings into account; or
 
 &emsp;&emsp;(B) no Energy Star product or FEMP designated product is reasonably available that meets the functional requirements of the agency.
 
@@ -48,13 +48,13 @@ In this section:
 
 #### (c) Listing of energy efficient products in Federal catalogs
 
-Energy Star products and FEMP designated products shall be clearly identified and prominently displayed in any inventory or listing of products by the General Services Administration or the Defense Logistics Agency. The General Services Administration or the Defense Logistics Agency shall supply only Energy Star products or FEMP designated products for all product categories covered by the Energy Star program or the Federal Energy Management Program, except in cases where the agency ordering a product specifies in writing that no Energy Star product or FEMP designated product is available to meet the buyer's functional requirements, or that no Energy Star product or FEMP designated product is cost-effective for the intended application over the life of the product, taking energy cost savings into account.
+Energy Star products and FEMP designated products shall be clearly identified and prominently displayed in any inventory or listing of products by the General Services Administration or the Defense Logistics Agency. The General Services Administration or the Defense Logistics Agency shall list in their catalogues, represent as available, and supply only Energy Star products or FEMP designated products for all product categories covered by the Energy Star program or the Federal Energy Management Program, except in cases in which the head of the agency ordering a product specifies in writing that no Energy Star product or FEMP designated product is available to meet the buyer's functional requirements, or that no Energy Star product or FEMP designated product is cost-effective for the intended application over the life of the product, taking energy cost savings into account.
 
 #### (d) Specific products
 
 (1) In the case of electric motors of 1 to 500 horsepower, agencies shall select only premium efficient motors that meet a standard designated by the Secretary. The Secretary shall designate such a standard not later than 120 days after August 8, 2005, after considering the recommendations of associated electric motor manufacturers and energy efficiency groups.
 
-(2) All Federal agencies are encouraged to take actions to maximize the efficiency of airconditioning and refrigeration equipment, including appropriate cleaning and maintenance, including the use of any system treatment or additive that will reduce the electricity consumed by air conditioning and refrigeration equipment. Any such treatment or additive must be—
+(2) All Federal agencies are encouraged to take actions to maximize the efficiency of air conditioning and refrigeration equipment, including appropriate cleaning and maintenance, including the use of any system treatment or additive that will reduce the electricity consumed by air conditioning and refrigeration equipment. Any such treatment or additive must be—
 
 &emsp;(A) determined by the Secretary to be effective in increasing the efficiency of air conditioning and refrigeration equipment without having an adverse impact on air conditioning performance (including cooling capacity) or equipment useful life;
 
@@ -64,9 +64,61 @@ Energy Star products and FEMP designated products shall be clearly identified an
 
 > &emsp;Results of testing described in subparagraph (C) shall be published in the Federal Register for public review and comment. For purposes of this section, a hardware device or primary refrigerant shall not be considered an additive.
 
-#### (e) Regulations
+#### (e) Federally-procured appliances with standby power
+
+#### (1) Definition of eligible product
+
+&emsp;In this subsection, the term “eligible product” means a commercially available, off-the-shelf product that—
+
+&emsp;&emsp;(A)(i) uses external standby power devices; or
+
+&emsp;&emsp;(ii) contains an internal standby power function; and
+
+&emsp;&emsp;(B) is included on the list compiled under paragraph (4).
+
+#### (2) Federal purchasing requirement
+
+&emsp;Subject to paragraph (3), if an agency purchases an eligible product, the agency shall purchase—
+
+&emsp;&emsp;(A) an eligible product that uses not more than 1 watt in the standby power consuming mode of the eligible product; or
+
+&emsp;&emsp;(B) if an eligible product described in subparagraph (A) is not available, the eligible product with the lowest available standby power wattage in the standby power consuming mode of the eligible product.
+
+#### (3) Limitation
+
+&emsp;The requirements of paragraph (2) shall apply to a purchase by an agency only if—
+
+&emsp;&emsp;(A) the lower-wattage eligible product is—
+
+&emsp;&emsp;&emsp;(i) lifecycle cost-effective; and
+
+&emsp;&emsp;&emsp;(ii) practicable; and
+
+&emsp;&emsp;(B) the utility and performance of the eligible product is not compromised by the lower wattage requirement.
+
+#### (4) Eligible products
+
+&emsp;The Secretary, in consultation with the Secretary of Defense, the Administrator of the Environmental Protection Agency, and the Administrator of General Services, shall compile a publicly accessible list of cost-effective eligible products that shall be subject to the purchasing requirements of paragraph (2).
+
+#### (f) Regulations
 
 Not later than 180 days after August 8, 2005, the Secretary shall issue guidelines to carry out this section.
 
-(Pub. L. 95–619, title V, §553, as added Pub. L. 109–58, title I, §104(a), Aug. 8, 2005, 119 Stat. 609.)
+(Pub. L. 95–619, title V, §553, as added Pub. L. 109–58, title I, §104(a), Aug. 8, 2005, 119 Stat. 609; amended Pub. L. 110–140, title V, §§524, 525(a), Dec. 19, 2007, 121 Stat. 1662, 1663.)
+
+#### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 110–140, §525(a)(1), inserted “in a product category covered by the Energy Star program or the Federal Energy Management Program for designated products” after “energy consuming product” in introductory provisions.
+
+Subsec. (c). Pub. L. 110–140, §525(a)(2), in second sentence, inserted “list in their catalogues, represent as available, and” after “shall” and substituted “in which the head of the agency” for “where the agency”.
+
+Subsecs. (e), (f). Pub. L. 110–140, §524, added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+#### Catalogue Listing Deadline
+
+Pub. L. 110–140, title V, §525(b), Dec. 19, 2007, 121 Stat. 1663, provided that: “Not later than 9 months after the date of enactment of this Act \[Dec. 19, 2007\], the General Services Administration and the Defense Logistics Agency shall ensure that the requirement established by the amendment made by subsection (a)(2)(A) \[amending this section\] has been fully complied with.”
 

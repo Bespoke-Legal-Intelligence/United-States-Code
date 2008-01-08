@@ -16,7 +16,7 @@ Any State may apply to the Secretary for reimbursement under this section for co
 
 #### (b) Applications
 
-Application for reimbursement under this section shall be made in such manner as the Secretary shall by regulation prescribe and shall contain such information as is necessary to enable the Secretary to determine whether the State meets the eligibility requirements set forth in subsection (c) of this section.
+Application for reimbursement under this section shall be made in such manner as the Secretary shall by regulation prescribe and shallcontain such information as is necessary to enable the Secretary to determine whether the State meets the eligibility requirements set forth in subsection (c) of this section.
 
 #### (c) Eligibility
 
@@ -78,7 +78,7 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 (4)(A) In computing the costs incurred by any State during any fiscal year in developing or revising conservation plans, in implementing approved conservation plans, or in implementing nongame fish and wildlife conservation actions approved under section 2904(c) or (d) of this title, for which reimbursement may be available under this section, the Secretary shall—
 
-&emsp;(i) take into account, in addition to each outlay, the value of inkind contributions and real and personal property received and applied during such year by the State for such purposes; and
+&emsp;(i) take into account, in addition to each outlay, the value of inkind contributions andreal and personal property received and applied during such year by the State for such purposes; and
 
 &emsp;(ii) not include any other Federal moneys received by such State and applied by it, directly or indirectly, for such purposes.
 

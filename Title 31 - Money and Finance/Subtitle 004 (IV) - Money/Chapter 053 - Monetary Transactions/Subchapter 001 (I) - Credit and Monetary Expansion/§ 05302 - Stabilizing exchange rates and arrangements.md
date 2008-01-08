@@ -1,6 +1,6 @@
 ### §5302. Stabilizing exchange rates and arrangements
 
-(a)(1) The Department of the Treasury has a stabilization fund. The fund is available to carry out this section, section 18 of the Bretton WoodsAgreement Act (22 U.S.C. 286e–3), and section 3 of the Special Drawing Rights Act (22 U.S.C. 286<i>o</i>), and for investing in obligations of the United States Government those amounts in the fund the Secretary of the Treasury, with the approval of the President, decides are not required at the time to carry out this section. Proceeds of sales and investments, earnings, and interest shall be paid into the fund and are available to carry out this section. However, the fund is not available to pay administrative expenses.
+(a)(1) The Department of the Treasury has a stabilization fund. The fund is available to carry out this section, section 18 of the Bretton Woods Agreement Act (22 U.S.C. 286e–3), and section 3 of the Special Drawing Rights Act (22 U.S.C. 286<i>o</i>), and for investing in obligations of the United States Government those amounts in the fund the Secretary of the Treasury, with the approval of the President, decides are not required at the time to carry out this section. Proceeds of sales and investments, earnings, and interest shall be paid into the fund and are available to carry out this section. However, the fund is not available to pay administrative expenses.
 
 (2) Subject to approval by the President, the fund is under the exclusive control of the Secretary, and may not be used in a way that direct control and custody pass from the President and the Secretary. Decisions of the Secretary are final and may not be reviewed by another officer or employee of the Government.
 
@@ -166,7 +166,7 @@ In General.—Notwithstanding any other provision of law, no loan, credit, guara
 
 “(b)
 
-Treatment of Classified or Privileged Material.—For purposes of the certification required by subsection (a)(5), the President shall specify, in the case of any document that is classified or subject to applicable privileges, that, while such document may not have been produced to the House of Representatives, in lieu thereof it has been produced to specified Members of Congress or their designees by mutual agreement among the President, the Speaker of the House, and the chairmen and ranking members of the Committee on Banking and Financial Services \[now Committee on Financial Services\], the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House.
+Treatment of Classified or Privileged Material.—For purposes of the certification required by subsection (a)(5), the President shall specify, in the case of any document that is classified or subject to applicable privileges, that, while such document may not have been produced to the House of Representatives, in lieu thereof it has been produced to specified Members of Congress or their designees by mutual agreement among the President, the Speaker of the House, and the chairmen and ranking members of the Committee on Banking and Financial Services \[now Committee on Financial Services\], the Committee on International Relations \[now Committee on Foreign Affairs\], and the Permanent Select Committee on Intelligence of the House.
 
 #### “SEC. 407. DEFINITIONS.
 
@@ -174,7 +174,7 @@ Treatment of Classified or Privileged Material.—For purposes of the certificat
 
 &emsp;“(1)
 
-Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committees on International Relations and Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives, the Committees on Foreign Relations and Banking, Housing, and Urban Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate.
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committees on International Relations \[now Committee on Foreign Affairs\] and Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives, the Committees on Foreign Relations and Banking, Housing, and Urban Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate.
 
 &emsp;“(2)
 

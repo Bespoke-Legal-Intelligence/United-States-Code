@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, the Administrator may provide agricu
 
 &emsp;The Administrator may not deny a request for funds submitted under this subsection because the program for which the funds are requested—
 
-&emsp;&emsp;(A) would be carried out by the eligible organization in a foreign country in which the Agency for International Development doesnot have a mission, office, or other presence; or
+&emsp;&emsp;(A) would be carried out by the eligible organization in a foreign country in which the Agency for International Development does not have a mission, office, or other presence; or
 
 &emsp;&emsp;(B) is not part of a development plan for the country prepared by the Agency.
 
@@ -134,7 +134,7 @@ Subsec. (e)(2). Pub. L. 104–127, §207(a)(2)(C), added par. (2) and struck out
 
 &emsp;“(C) the degree to which such funds will improve the provision of food assistance to foreign countries (particularly those in sub-Saharan Africa suffering from acute, long-term food shortages).”
 
-Subsec. (e)(3). Pub. L. 104–127, §207(a)(2)(D), substituted “an eligible organization, the Administrator may provide assistance to the eligible organization” for “a private voluntary organization or cooperative, the Administrator may provide assistance to that organization or cooperative”.
+Subsec. (e)(3). Pub. L. 104–127, §207(a)(2)(D), substituted “an eligible organization, the Administrator may provide assistance to the eligible organization” for “a private voluntary organization or cooperative,the Administrator may provide assistance to that organization or cooperative”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to furnishing commodities through friendly governments, agencies, and organizations, assistance for community and other self-help activities, and multiyear agreements for distribution of commodities through nonprofit voluntary agencies and cooperatives.
 
@@ -161,6 +161,10 @@ Subsec. (b). Pub. L. 95–88, §207(3), added subsec. (b).
 1963—Pub. L. 88–205 substituted “economic and community development” for “economic developments”.
 
 1960—Pub. L. 86–472 substituted “In order to facilitate the utilization of surplus agricultural commodities in meeting the requirements of needy peoples, and in order to promote economic development in underdeveloped areas in addition to that which can be accomplished under sections 1701 to 1704 and 1705 to 1709 of this title, the” for “The”.
+
+#### Change of Name
+
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1990 Amendments
 

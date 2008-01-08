@@ -4,7 +4,7 @@
 
 (b) The events referred to in subsection (a) of this section are—
 
-&emsp;(1) the State and district pay settlement funds pursuant to the terms of the SettlementAgreement for the case captioned Seminole Tribe of Indians of Florida v. State of Florida et al., or equivalent consideration by land exchange to the tribe; and
+&emsp;(1) the State and district pay settlement funds pursuant to the terms of the Settlement Agreement for the case captioned Seminole Tribe of Indians of Florida v. State of Florida et al., or equivalent consideration by land exchange to the tribe; and
 
 &emsp;(2) the State enacts appropriate legislation to carry out the commitments under the Settlement Agreement including the compact between the State, the district and the tribe, and the State and the district have given the waiver specified in paragraph 5c of such agreement.
 

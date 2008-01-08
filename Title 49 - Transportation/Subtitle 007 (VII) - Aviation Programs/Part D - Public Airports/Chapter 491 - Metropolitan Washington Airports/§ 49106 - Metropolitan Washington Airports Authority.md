@@ -34,7 +34,7 @@ General Authority.—(1) The Airports Authority shall be authorized—
 
 &emsp;(A) are not a debt of Virginia, the District of Columbia, or a political subdivision of Virginia or the District of Columbia; and
 
-&emsp;(B) may be secured by the Airports Authority's revenues generally, or exclusivelyfrom the income and revenues of certain designated projects whether or not any part of the projects are financed from the proceeds of the bonds.
+&emsp;(B) may be secured by the Airports Authority's revenues generally, or exclusively from the income and revenues of certain designated projects whether or not any part of the projects are financed from the proceeds of the bonds.
 
 (c)
 
@@ -84,7 +84,7 @@ Administrative.—To assist the Secretary in carrying out this chapter, the Secr
 
 (g)
 
-Review of Contracting Procedures.—The Comptroller General shall review contracts of the Airports Authority to decide whether the contracts were awarded by procedures that follow sound Government contracting principles and comply with section 49104(a)(4) of this title. The Comptroller General shall submit periodic reports of the conclusions reached as a result of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+Review of Contracting Procedures.—The Comptroller General shall review contracts of the Airports Authority to decide whether the contracts were awarded by procedures that follow sound Government contracting principles and comply with section 49104(a)(4) of this title. The Comptroller General shall submit periodicreports of the conclusions reached as a result of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 (Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2210; amended Pub. L. 105–225, §7(c)(1)(A), (B), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 106–181, title II, §231(i), Apr. 5, 2000, 114 Stat. 115.)
 

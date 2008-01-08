@@ -54,7 +54,7 @@ Each member of the Board shall serve for a term of 6 years, except that—
 
 &emsp;&emsp;&emsp;(iii) 6 years.
 
-&emsp;&emsp;(B) The terms of service of members initially appointed by the President pro tempore of the Senate shall expire as designated by the President pro tempore of the Senate at the time of nomination, 1 each at the end of—
+&emsp;&emsp;(B) The terms of service of members initially appointed by the President pro tempore of the Senate shall expire as designated by the President pro tempore of the Senateat the time of nomination, 1 each at the end of—
 
 &emsp;&emsp;&emsp;(i) 3 years; and
 
@@ -78,7 +78,7 @@ A member of the Board shall, for each day (including traveltime) during which th
 
 (1) The Board shall meet at the call of the Chairman (in consultation with the other members of the Board) not less than 4 times each year to consider a specific agenda of issues, as determined by the Chairman in consultation with the other members of the Board.
 
-(2) Four members of the Board (not more than 3 of whom may be of the same political party)shall constitute a quorum for purposes of conducting business.
+(2) Four members of the Board (not more than 3 of whom may be of the same political party) shall constitute a quorum for purposes of conducting business.
 
 #### (h) Federal Advisory Committee Act
 
@@ -128,7 +128,7 @@ Section 5528 of title V of Pub. L. 105–33 provided that:
 
 “(a)
 
-In General.—Except as provided in this section, the amendments made by this chapter \[chapter 2 (§§5521–5528) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1310, 1382, 1382c, 1382d, and 1383 of this title, and provisions set out as a note under section 1382 of this title and repealing provisions set out as notes under sections 425 and 1382 of this title\] shall take effect as if included in the enactment of title II of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2185).
+In General.—Except as provided in this section, the amendments made by this chapter \[chapter 2 (§§5521–5528) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1310, 1382, 1382c, 1382d, and 1383 of this title, and provisions set out as a note under section 1382 of this title and repealing provisions set out as notes under sections 425 and 1382 of this title\]shall take effect as if included in the enactment of title II of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2185).
 
 “(b)
 

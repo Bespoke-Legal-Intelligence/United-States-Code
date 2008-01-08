@@ -116,7 +116,7 @@ From the items of gross income specified in subsection (a) as being income from 
 
 #### (d) Special rule for application of subsection (a)(2)(B)
 
-For purposes of subsection (a)(2)(B), if the foreign corporation has no gross income from any source for the 3-year period (or part thereof) specified, the requirements of such subsection shall be applied with respect to the taxable year of such corporation in which the payment of the dividend is made.
+For purposes of subsection (a)(2)(B), if the foreign corporation has no gross income from anysource for the 3-year period (or part thereof) specified, the requirements of such subsection shall be applied with respect to the taxable year of such corporation in which the payment of the dividend is made.
 
 #### (e) Income from certain railroad rolling stock treated as income from sources within the United States
 
@@ -128,7 +128,7 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 &emsp;&emsp;(B) the use under such lease is expected to be use within the United States,
 
-> &emsp;all amounts includible in gross income by the taxpayer with respect to such railroad rollingstock (including gain from sale or other disposition of such railroad rolling stock) shall be treated as income from sources within the United States. The requirements of subparagraph (B) of the preceding sentence shall be treated as satisfied if the only expected use outside the United States is use by a person (whether or not a United States person) in Canada or Mexico on a temporary basis which is not expected to exceed a total of 90 days in any taxable year.
+> &emsp;all amounts includible in gross income by the taxpayer with respect to such railroad rolling stock (including gain from sale or other disposition of such railroad rolling stock) shall be treated as income from sources within the United States. The requirements of subparagraph (B) of the preceding sentence shall be treated as satisfied if the only expected use outside the United States is use by a person (whether or not a United States person) in Canada or Mexico on a temporary basis which is not expected to exceed a total of 90 days in any taxable year.
 
 #### (2) Paragraph (1) not to apply where lessor is a member of controlled group which includes a railroad
 
@@ -238,7 +238,7 @@ Subsecs. (e), (f). Pub. L. 99–514, §1212(d), redesignated subsec. (f) as (e) 
 
 1980—Subsec. (a)(5). Pub. L. 96–499 substituted “Disposition of United States real property interest” for “Sale or exchange of real property” in heading and “disposition of a United States real property interest (as defined in section 897(c))” for “sale or exchange of real property located in the United States” in text.
 
-Subsec. (e). Pub. L. 96–605 substituted provision directing that income from certain leased aircraft, vessels, and spacecraft be treated as income from sources within the United States for provision permitting thetaxpayer to elect to treat income from certain aircraft and vessels as income from sources within the United States and prescribing the manner of revocating such an election.
+Subsec. (e). Pub. L. 96–605 substituted provision directing that income from certain leased aircraft, vessels, and spacecraft be treated as income from sources within the United States for provision permitting the taxpayer to elect to treat income from certain aircraft and vessels as income from sources within the United States and prescribing the manner of revocating such an election.
 
 1978—Subsec. (a)(1)(F). Pub. L. 95–600, §540(a), designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -310,7 +310,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(17) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(17) of Pub. L. 101–508 applicable to property placed in service after Dec. 31,1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -430,7 +430,7 @@ For effective date of amendment by section 1051(h)(3) of Pub. L. 94–455, see s
 
 Amendment by section 1901(b)(26)(A), (B), (c)(7) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Amendment by section 1904(b)(10)(B) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after date of enactment of this Act \[Oct. 4, 1976\], see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by section 1904(b)(10)(B) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after date of enactment of this Act \[Oct. 4, 1976\], see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1975 Amendment
 
@@ -494,7 +494,7 @@ Certain amendments to apply notwithstanding treaties.—The following amendments
 
 “(3)
 
-Certain amendments not to apply to the extent inconsistent with treaties.—The following amendments made by the Reform Act \[Pub. L. 99–514\] shall not apply to the extent the application of such amendments would be contrary to any treaty obligation of the United States in effect on the date of the enactment of the Reform Act \[Oct. 22, 1986\]:
+Certain amendments not to apply to the extent inconsistent with treaties.—The followingamendments made by the Reform Act \[Pub. L. 99–514\] shall not apply to the extent the application of such amendments would be contrary to any treaty obligation of the United States in effect on the date of the enactment of the Reform Act \[Oct. 22, 1986\]:
 
 &emsp;“(A) The amendments made by section 1211 of the Reform Act \[enacting section 865 of this title and amending this section and sections 862 to 864, 871, 881, and 904 of this title\] to the extent—
 

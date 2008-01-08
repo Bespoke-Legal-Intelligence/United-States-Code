@@ -52,7 +52,7 @@ Section 808(e) of Pub. L. 105–85 provided that: “The amendments made by this
 
 #### Regulations
 
-Section 808(d) of Pub. L. 105–85 provided that: “Regulations implementing the amendments made by thissection \[see Effective Date note set out above\] shall be published in the Federal Register not later than the effective date of the amendments under subsection (e) \[see Effective Date note set out above\].”
+Section 808(d) of Pub. L. 105–85 provided that: “Regulations implementing the amendments made by this section \[see Effective Date note set out above\] shall be published in the Federal Register not later than the effective date of the amendments under subsection (e) \[see Effective Date note set out above\].”
 
 #### Exclusive Applicability of Provisions Limiting Allowability of Compensation for Certain Contractor Personnel
 

@@ -10,7 +10,7 @@ Determination to establish committee.—If after considering comments and applic
 
 &emsp;(2)
 
-Determination not to establish committee.—If after considering such comments and applications, the agency decides not to establish a negotiated rulemaking committee, the agency shall promptly publish notice of such decision and the reasons therefor in the Federal Register and, as appropriate, in trade or other specialized publications, a copy of whichshall be sent to any person who applied for, or nominated another person for membership on the negotiating <sup>1</sup> rulemaking committee to represent such interests with respect to the proposed rule.
+Determination not to establish committee.—If after considering such comments and applications, the agency decides not to establish a negotiated rulemaking committee, the agency shall promptly publish notice of such decision and the reasons therefor in the Federal Register and, as appropriate, in trade or other specialized publications, a copy of which shall be sent to any person who applied for, or nominated another person for membership on the negotiating <sup>1</sup> rulemaking committee to represent such interests with respect to the proposed rule.
 
 (b)
 
@@ -24,7 +24,7 @@ Administrative Support.—The agency shall provide appropriate administrative su
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to this title.
+The Federal Advisory Committee Act, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to this title.
 
 #### Amendments
 

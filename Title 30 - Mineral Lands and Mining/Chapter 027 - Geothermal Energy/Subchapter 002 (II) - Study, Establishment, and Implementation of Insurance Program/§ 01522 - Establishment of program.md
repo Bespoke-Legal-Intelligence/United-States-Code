@@ -20,7 +20,7 @@ For the purpose of this section—
 
 &emsp;(6) the term “reservoir” means the physical subsurface geologic structure which forms the natural repository for the undisturbed geothermal resource; and
 
-&emsp;(7) the term “person” means any public or private agency, institution, association, partnership, corporation, political subdivision, or other legal entity which is a United States citizen as determined by application of the test for United States citizenship contained in section 50501 of title 46, or in the first sentence of section 27A of the Merchant Marine Act, 1920 (46 U.S.C. 883–1(a)–(e)).<sup>1</sup>
+&emsp;(7) the term “person” means any public or private agency, institution, association, partnership, corporation, political subdivision, or other legal entity which is a United States citizen as determined by application of the testfor United States citizenship contained in section 50501 of title 46, or in the first sentence of section 27A of the Merchant Marine Act, 1920 (46 U.S.C. 883–1(a)–(e)).<sup>1</sup>
 
 #### (c) Eligibility for investment insurance
 
@@ -32,7 +32,7 @@ Any eligible person seeking investment insurance under this section shall file a
 
 #### (e) Determinations respecting application for insurance
 
-Unless the Secretary determines the risk proposed by the applicant is unreasonable, the Secretary, within ninety days after receipt of a satisfactory application, shall determine in writingand submit to the applicant (1) the risk which may cause loss of investment for the applicant; (2) the total investment subject to the risk; (3) the amount of the other insurance which is available at reasonable premiums for the purpose of indemnifying the applicant against the risk; (4) the amount of investment insurance available pursuant to this section, which shall be the difference between the total investment subject to the risk and the total other insurance determined to be available at reasonable premiums, but not in excess of the lesser of 90 per centum of, or $50,000,000 of, the loss of investment subject to the risk; and (5) any reasonable terms and conditions necessary for the prudent administration of the program, including reasonable premiums for the insurance pursuant to this section (which shall be deposited in the Geothermal Resources Development Fund).
+Unless the Secretary determines the risk proposed by the applicant is unreasonable, the Secretary, within ninety days after receipt of a satisfactory application, shall determine in writing and submit to the applicant (1) the risk which may cause loss of investment for the applicant; (2) the total investment subject to the risk; (3) the amount of the other insurance which is available at reasonable premiums for the purpose of indemnifying the applicant against the risk; (4) the amount of investment insurance available pursuant to this section, which shall be the difference between the total investment subject to the risk and the total other insurance determined to be available at reasonable premiums, but not in excess of the lesser of 90 per centum of, or $50,000,000 of, the loss of investment subject to the risk; and (5) any reasonable terms and conditions necessary for the prudent administration of the program, including reasonable premiums for the insurance pursuant to this section (which shall be deposited in the Geothermal Resources Development Fund).
 
 #### (f) Certificate of insurance; issuance, etc.
 
@@ -62,7 +62,7 @@ The Secretary may enter into agreements to reinsure any private insurer for any 
 
 #### References in Text
 
-Section 27A of the Merchant Marine Act, 1920, referred to in subsec. (b)(7), is section 27A of ch. 250 of act June 5, 1920, as added Pub. L. 85–902, Sept. 2, 1958, 72 Stat. 1736, which was classified to section 883–1 of the former Appendix to Title 46, Shipping, and was repealed and restated in section 12118 of Title 46, by Pub. L. 109–304, §§5, 19, Oct. 6, 2006, 120 Stat. 1491, 1710.
+Section 27A of the Merchant Marine Act, 1920, referred to in subsec. (b)(7), is section 27A of act June 5,1920, ch. 250, as added Pub. L. 85–902, Sept. 2, 1958, 72 Stat. 1736, which was classified to section 883–1 of the former Appendix to Title 46, Shipping, and was repealed and restated in section 12118 of Title 46, Shipping, by Pub. L. 109–304, §§5, 19, Oct. 6, 2006, 120 Stat. 1491, 1710.
 
 This Act, referred to in subsec. (i), is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, as amended, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under section 8801 of Title 42, The Public Health and Welfare, and Tables.
 

@@ -28,7 +28,7 @@
 
 &emsp;(B) payments made to States under subsection (e).
 
-(3) The reserve account may not exceed $4,000,000 on December 31 of any calendar year.Unobligated balances exceeding $4,000,000 on that date shall be deposited into the United States Treasury.
+(3) The reserve account may not exceed $4,000,000 on December 31 of any calendar year. Unobligated balances exceeding $4,000,000 on that date shall be deposited into the United States Treasury.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 149; Pub. L. 95–82, title VI, §610, Aug. 1, 1977, 91 Stat. 378; Pub. L. 96–513, title V, §511(91), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, §12(3)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–99, title IX, §910(a), Dec. 23, 1981, 95 Stat. 1386; Pub. L. 97–295, §1(33), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 98–407, title VIII, §809(a), Aug. 28, 1984, 98 Stat. 1522; Pub. L. 99–561, §4, Oct. 27, 1986, 100 Stat. 3151; Pub. L. 107–296, title XVII, §1704(b)(4), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title X, §1056(c)(6), Jan. 6, 2006, 119 Stat. 3439.)
 
@@ -131,6 +131,4 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-§2666
 

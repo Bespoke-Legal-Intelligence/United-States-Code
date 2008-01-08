@@ -20,7 +20,7 @@ Each housing plan under this section shall be in a form prescribed by the Secret
 
 #### (2) Goals and objectives
 
-&emsp;A statement of the goals and objectives of the Indian tribe to enable the tribe to serve the needs identified in paragraph (1) during the period.
+&emsp;A statement of the goals and objectives of the Indian tribe to enable the tribe to servethe needs identified in paragraph (1) during the period.
 
 #### (3) Activities plan
 

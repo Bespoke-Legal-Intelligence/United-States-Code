@@ -18,7 +18,7 @@ There shall be exempt from levy—
 
 #### (4) Unemployment benefits
 
-&emsp;Any amount payable to an individual with respect to his unemployment (including anyportion thereof payable with respect to dependents) under an unemployment compensation law of the United States, of any State, or of the District of Columbia or of the Commonwealth of Puerto Rico.
+&emsp;Any amount payable to an individual with respect to his unemployment (including any portion thereof payable with respect to dependents) under an unemployment compensation law of the United States, of any State, or of the District of Columbia or of the Commonwealth of Puerto Rico.
 
 #### (5) Undelivered mail
 
@@ -104,7 +104,7 @@ Notwithstanding any other law of the United States (including section 207 of the
 
 &emsp;&emsp;(B) 52.
 
-> &emsp;Unless the taxpayer submits to the Secretary a written and properly verified statementspecifying the facts necessary to determine the proper amount under subparagraph (A), subparagraph (A) shall be applied as if the taxpayer were a married individual filing a separate return with only 1 personal exemption.
+> &emsp;Unless the taxpayer submits to the Secretary a written and properly verified statement specifying the facts necessary to determine the proper amount under subparagraph (A), subparagraph (A) shall be applied as if the taxpayer were a married individual filing a separate return with only 1 personal exemption.
 
 #### (3) Individuals on basis other than weekly
 
@@ -152,9 +152,9 @@ Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 784; Pub. L. 85–840, title IV, §406, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 89–44, title VIII, §812(a), June 21, 1965, 79 Stat. 170; Pub. L. 89–719, title I, §104(c), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 91–172, title IX, §945(a), Dec. 30, 1969, 83 Stat. 729; Pub. L. 94–455, title XII, §1209(a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1709, 1710, 1834; Pub. L. 97–248, title III, §347(a), Sept. 3, 1982, 96 Stat. 638; Pub. L. 98–369, div. B, title VI, §2661(<i>o</i>)(5), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, title XV, §1565(a), Oct. 22, 1986, 100 Stat. 2763; Pub. L. 100–647, title I, §1015(<i>o</i>), title VI, §6236(c), Nov. 10, 1988, 102 Stat. 3572, 3738; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–168, title V, §502(a)–(c), July 30, 1996, 110 Stat. 1461; Pub. L. 104–193, title I, §110(<i>l</i>)(3), formerly §110(<i>l</i>)(6), Aug. 22, 1996, 110 Stat. 2173, renumbered and amended Pub. L. 105–33, title V, §5514(a)(2), (3), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title III, §312(d)(1), title X, §1025(a), Aug. 5, 1997, 111 Stat. 839, 924; Pub. L. 105–206, title III, §§3431(a)–(c), 3445(a), (b), July 22, 1998, 112 Stat. 758, 762, 763.)
 
-#### Adjustment of Applicable Dollar Value Amounts for Property Exempt From Levy for Calendar Year 2007
+#### Adjustment of Applicable Dollar Value Amounts for Property Exempt From Levy for Calendar Year 2008
 
-<i>For adjustment of applicable dollar value amounts under subsection (a)(2), (3) of this section for property exempt from levy for calendar year 2007, see section 3.38 of Revenue Procedure 2006–53, set out as a note under section 1 of this title.</i>
+<i>For adjustment of applicable dollar value amounts under subsection (a)(2), (3) of this section for property exempt from levy for calendar year 2008, see section 3.37 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -260,7 +260,7 @@ Subsec. (a)(6), (7). Pub. L. 89–719, §104(c)(2), added pars. (6) and (7).
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Reference to United States magistrate or to magistrate deemed to refer to United States magistratejudge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1998 Amendment
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 105–33 effective as if included in section 110 of the Per
 
 #### Effective Date of 1996 Amendments
 
-Amendment by section 110(<i>l</i>)(3) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts forterminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by section 110(<i>l</i>)(3) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 Section 502(d) of Pub. L. 104–168 provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after December 31, 1996.”
 

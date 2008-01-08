@@ -2,7 +2,7 @@
 
 #### (a) Authority of Director
 
-The Director of the Bureau of Justice Assistance is authorized to make grants and enter intocontracts with State and local criminal justice agencies and nonprofit organizations for the purposes of identifying, targeting, and removing criminal conspiracies and activities and terrorist conspiracies and activities spanning jurisdictional boundaries.
+The Director of the Bureau of Justice Assistance is authorized to make grants and enter into contracts with State and local criminal justice agencies and nonprofit organizations for the purposes of identifying, targeting, and removing criminal conspiracies and activities and terrorist conspiracies and activities spanning jurisdictional boundaries.
 
 #### (b) Purposes
 

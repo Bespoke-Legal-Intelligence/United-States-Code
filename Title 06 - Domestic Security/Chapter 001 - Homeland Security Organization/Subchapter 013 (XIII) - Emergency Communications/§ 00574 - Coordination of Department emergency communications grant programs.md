@@ -24,5 +24,5 @@ The Secretary, acting through the Director for Emergency Communications, shall e
 
 #### Codification
 
-Another section 1804 of Pub. L. 107–296 is classified to section 594 of this title.
+Another section 1804 of Pub. L. 107–296 was renumbered section 1904 and is classified to section 594 of this title.
 

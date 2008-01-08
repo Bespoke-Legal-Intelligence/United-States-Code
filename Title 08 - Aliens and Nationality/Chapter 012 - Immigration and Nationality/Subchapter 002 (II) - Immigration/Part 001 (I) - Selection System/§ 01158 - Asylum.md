@@ -44,7 +44,7 @@
 
 #### (ii) Sustaining burden
 
-&emsp;&emsp;&emsp;The testimony of the applicant may be sufficient to sustain the applicant's burden without corroboration, but only if the applicant satisfies the trier of fact that the applicant's testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant is a refugee. In determining whether the applicant has met the applicant's burden, the trier of fact may weigh the credible testimony along with other evidence of record. Where the trier of fact determines that the applicant should provide evidence that corroborates otherwise credible testimony,such evidence must be provided unless the applicant does not have the evidence and cannot reasonably obtain the evidence.
+&emsp;&emsp;&emsp;The testimony of the applicant may be sufficient to sustain the applicant's burden without corroboration, but only if the applicant satisfies the trier of fact that the applicant's testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant is a refugee. In determining whether the applicant has met the applicant's burden, the trier of fact may weigh the credible testimony along with other evidence of record. Where the trier of fact determines that the applicant should provide evidence that corroborates otherwise credible testimony, such evidence must be provided unless the applicant does not have the evidence and cannot reasonably obtain the evidence.
 
 #### (iii) Credibility determination
 
@@ -170,7 +170,7 @@
 
 #### (6) Frivolous applications
 
-&emsp;If the Attorney General determines that an alien has knowingly made a frivolous application for asylum and the alien has received the notice under paragraph (4)(A), the alien shall be permanently ineligible for any benefitsunder this chapter, effective as of the date of a final determination on such application.
+&emsp;If the Attorney General determines that an alien has knowingly made a frivolous application for asylum and the alien has received the notice under paragraph (4)(A), the alien shall be permanently ineligible for any benefits under this chapter, effective as of the date of a final determination on such application.
 
 #### (7) No private right of action
 
@@ -204,7 +204,7 @@ Pub. L. 109–13, div. B, title I, §101(h)(1), (2), May 11, 2005, 119 Stat. 305
 
 “(1) The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall take effect as if enacted on March 1, 2003.
 
-“(2) The amendments made by subsections (a)(3), (b), (c), and (d) \[amending this section and sections 1229a and 1231 of this title\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall apply to applications for asylum, withholding, or other relief from removal made on or after such date.”
+“(2) The amendments made by subsections (a)(3), (b), (c), and (d) \[amending this section and sections 1229a and 1231 of this title\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shallapply to applications for asylum, withholding, or other relief from removal made on or after such date.”
 
 #### Effective Date of 2002 Amendment
 

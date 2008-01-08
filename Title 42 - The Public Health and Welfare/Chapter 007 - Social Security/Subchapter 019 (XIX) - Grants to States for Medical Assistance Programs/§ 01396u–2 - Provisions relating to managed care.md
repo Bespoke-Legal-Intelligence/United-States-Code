@@ -64,7 +64,7 @@
 
 &emsp;&emsp;At the option of the State, a State shall be considered to meet the requirements of subparagraph (A) in the case of an individual residing in a rural area, if the State requires the individual to enroll with a managed care entity if such entity—
 
-&emsp;&emsp;&emsp;(i) permits the individual to receive such assistance through not less than two physicians or case managers (to the extentthat at least two physicians or case managers are available to provide such assistance in the area), and
+&emsp;&emsp;&emsp;(i) permits the individual to receive such assistance through not less than two physicians or case managers (to the extent that at least two physicians or case managers are available to provide such assistance in the area), and
 
 &emsp;&emsp;&emsp;(ii) permits the individual to obtain such assistance from any other provider in appropriate circumstances (as established by the State under regulations of the Secretary).
 
@@ -144,7 +144,7 @@
 
 #### (C) Comparative information
 
-&emsp;&emsp;A State that requires individuals to enroll with managed care entities under paragraph\(1)(A) shall annually (and upon request) provide, directly or through the managed care entity, to such individuals a list identifying the managed care entities that are (or will be) available and information (presented in a comparative, chart-like form) relating to the following for each such entity offered:
+&emsp;&emsp;A State that requires individuals to enroll with managed care entities under paragraph (1)(A) shall annually (and upon request) provide, directly or through the managed care entity, to such individuals a list identifying the managed care entities that are (or will be) available and information (presented in a comparative, chart-like form) relating to the following for each such entity offered:
 
 #### (i) Benefits and cost-sharing
 
@@ -298,7 +298,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each contract under section 1396b(m) of this title with a medicaid managed care organization shall provide for an annual (as appropriate) external independent review conducted by a qualified independent entity of the quality outcomes and timeliness of, and access to, the items and services for which the organization is responsible under the contract. The requirement for such a review shall not apply until after the date that the Secretary establishes the identification method described in clause (ii).
+&emsp;&emsp;&emsp;Each contract under section 1396b(m) of this title with a medicaid managed careorganization shall provide for an annual (as appropriate) external independent review conducted by a qualified independent entity of the quality outcomes and timeliness of, and access to, the items and services for which the organization is responsible under the contract. The requirement for such a review shall not apply until after the date that the Secretary establishes the identification method described in clause (ii).
 
 #### (ii) Qualifications of reviewer
 
@@ -370,7 +370,7 @@
 
 #### (B) Service market
 
-&emsp;&emsp;A managed care entity shall distribute marketing materials to the entire service area of such entity covered under the contract under section 1396b(m) of this title or section 1396d(t)(3) of this title.
+&emsp;&emsp;A managed care entity shall distribute marketing materials to the entire servicearea of such entity covered under the contract under section 1396b(m) of this title or section 1396d(t)(3) of this title.
 
 #### (C) Prohibition of tie-ins
 
@@ -404,7 +404,7 @@
 
 &emsp;&emsp;&emsp;(ii) imposes premiums or charges on enrollees in excess of the premiums or charges permitted under this subchapter;
 
-&emsp;&emsp;&emsp;(iii) acts to discriminate among enrollees on the basis of their health status or requirements for health care services, including expulsion or refusal to reenroll an individual, except as permitted by this subchapter, or engaging in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment with the organization by eligible individuals whose medical condition orhistory indicates a need for substantial future medical services;
+&emsp;&emsp;&emsp;(iii) acts to discriminate among enrollees on the basis of their health status or requirements for health care services, including expulsion or refusal to reenroll an individual, except as permitted by this subchapter, or engaging in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment with the organization by eligible individuals whose medical condition or history indicates a need for substantial future medical services;
 
 &emsp;&emsp;&emsp;(iv) misrepresents or falsifies information that is furnished—
 
@@ -560,7 +560,7 @@ GAO study and report on quality assurance and accreditation standards.—
 
 &emsp;“(A)
 
-Study.—The Comptroller General of the United States shall conduct a study and analysis of the quality assurance programs and accreditationstandards applicable to managed care entities operating in the private sector, or to such entities that operate under contracts under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.). Such study shall determine—
+Study.—The Comptroller General of the United States shall conduct a study and analysis of the quality assurance programs and accreditation standards applicable to managed care entities operating in the private sector, or to such entities that operate under contracts under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.). Such study shall determine—
 
 &emsp;&emsp;“(i) if such programs and standards include consideration of the accessibility and quality of the health care items and services delivered under such contracts to low-income individuals; and
 

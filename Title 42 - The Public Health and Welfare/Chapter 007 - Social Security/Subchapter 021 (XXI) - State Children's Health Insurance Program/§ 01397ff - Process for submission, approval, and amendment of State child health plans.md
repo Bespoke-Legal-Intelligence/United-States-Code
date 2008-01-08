@@ -38,7 +38,7 @@
 
 #### (i) Notice requirement
 
-&emsp;&emsp;&emsp;Any plan amendment that eliminates or restricts eligibility or benefits under the plan may not take effect unless the State certifies that it has provided prior public notice of the change, in a form and manner provided under applicable State law.
+&emsp;&emsp;&emsp;Any plan amendment that eliminates or restricts eligibility or benefits under theplan may not take effect unless the State certifies that it has provided prior public notice of the change, in a form and manner provided under applicable State law.
 
 #### (ii) Timely transmittal
 
@@ -70,7 +70,7 @@
 
 #### (2) Violations
 
-&emsp;The Secretary shall establish a process for enforcing requirements under this subchapter. Such process shall provide for the withholdingof funds in the case of substantial noncompliance with such requirements. In the case of an enforcement action against a State under this paragraph, the Secretary shall provide a State with a reasonable opportunity for correction before taking financial sanctions against the State on the basis of such an action.
+&emsp;The Secretary shall establish a process for enforcing requirements under this subchapter. Such process shall provide for the withholding of funds in the case of substantial noncompliance with such requirements. In the case of an enforcement action against a State under this paragraph, the Secretary shall provide a State with a reasonable opportunity for correction before taking financial sanctions against the State on the basis of such an action.
 
 #### (e) Continued approval
 

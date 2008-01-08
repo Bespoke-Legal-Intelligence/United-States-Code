@@ -10,15 +10,41 @@
 
 (C) Federal agencies may incur obligations pursuant to such contracts to finance energy conservation measures provided guaranteed savings exceed the debt service requirements.
 
-(D) A Federal agency may enter into a multiyear contract under this subchapter for a period not to exceed 25 years, without funding of cancellation charges before cancellation, if—
+(D) A Federal agency may enter into a multiyear contract under this subchapter for a period not to exceed 25 years beginning on the date of the delivery order, without funding of cancellation charges before cancellation, if—
 
 &emsp;(i) such contract was awarded in a competitive manner pursuant to subsection (b)(2) of this section, using procedures and methods established under this subchapter;
 
-&emsp;(ii) funds are available and adequate for payment of the costs of such contract for the first fiscal year;
+&emsp;(ii) funds are available and adequate for payment of the costs of such contract for the first fiscal year; and
 
-&emsp;(iii) 30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and
+&emsp;(iii) such contract is governed by part 17.1 of the Federal Acquisition Regulation promulgated under section 421 of title 41 or the applicable rules promulgated under this subchapter.
 
-&emsp;(iv) such contract is governed by part 17.1 of the Federal Acquisition Regulation promulgated under section 421 of title 41 or the applicable rules promulgated under this subchapter.
+(E)
+
+Funding options.—In carrying out a contract under this subchapter, a Federal agency may use any combination of—
+
+&emsp;(i) appropriated funds; and
+
+&emsp;(ii) private financing under an energy savings performance contract.
+
+(F)
+
+Promotion of contracts.—In carrying out this section, a Federal agency shall not—
+
+&emsp;(i) establish a Federal agency policy that limits the maximum contract term under subparagraph (D) to a period shorter than 25 years; or
+
+&emsp;(ii) limit the total amount of obligations under energy savings performance contracts or other private financing of energy savings measures.
+
+(G)
+
+Measurement and verification requirements for private financing.—
+
+&emsp;(i)
+
+In general.—In the case of energy savings performance contracts, the evaluations and savings measurement and verification required under paragraphs (2) and (4) of section 8253(f) of this title shall be used by a Federal agency to meet the requirements for the need for energy audits, calculation of energy savings, and any other evaluation of costs and savings needed to implement the guarantee of savings under this section.
+
+&emsp;(ii)
+
+Modification of existing contracts.—Not later than 18 months after December 19, 2007, each Federal agency shall, to the maximum extent practicable, modify any indefinite delivery and indefinite quantity energy savings performance contracts, and other indefinite delivery and indefinite quantity contracts using private financing, to conform to the amendments made by subtitle B of title V of the Energy Independence and Security Act of 2007.
 
 #### (b) Implementation
 
@@ -32,7 +58,7 @@
 
 &emsp;&emsp;(i) request statements of qualifications, which shall, at a minimum, include prior experience and capabilities of contractors to perform the proposed types of energy savings services and financial and performance information, from firms engaged in providing energy savings services; and
 
-&emsp;&emsp;(ii) from the statements received, designate and prepare a list, with an update atleast annually, of those firms that are qualified to provide energy savings services;
+&emsp;&emsp;(ii) from the statements received, designate and prepare a list, with an update at least annually, of those firms that are qualified to provide energy savings services;
 
 &emsp;(B) require each agency to use the list prepared by the Secretary pursuant to subparagraph (A)(ii) unless the agency elects to develop an agency list of firms qualified to provide energy savings performance services using the same selection procedures and methods as are required of the Secretary in preparing such lists; and
 
@@ -42,19 +68,29 @@
 
 &emsp;&emsp;(ii) select from such firms the most qualified firm to provide energy savings services based on technical and price proposals and any other relevant information;
 
-&emsp;&emsp;(iii) permit receipt of unsolicited proposals for energy savings performance contracting services from a firm that such agency has determined is qualified to provide such services under the procedures established pursuant to paragraph (1)(A), and require agency facility managers to place a notice in the Commerce Business Daily announcing they have received such a proposal and invite other similarly qualified firms to submit competing proposals; and
+&emsp;&emsp;(iii) permit receipt of unsolicited proposals for energy savings performance contracting services from a firm that such agency has determined is qualified to provide such services under the procedures established pursuant to paragraph (1)(A), and require agency facility managers to place a notice in the Commerce Business Daily announcing they have received such a proposal and inviteother similarly qualified firms to submit competing proposals; and
 
 &emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
 
 (3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by the board of contract appeals of the General Services Administration.
 
-#### (c) Sunset requirements
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611; Pub. L. 110–140, title V, §§511(a), 512–514, Dec. 19, 2007, 121 Stat. 1658, 1659.)
 
-The authority to enter into new contracts under this section shall cease to be effective on October 1, 2016.
+#### References in Text
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611.)
+The Energy Independence and Security Act of 2007, referred to in subsec. (a)(2)(G)(ii), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492. Subtitle B of title V of the Act enacted part A (§17131) of subchapter IV of chapter 152 of this title and amended this section and sections 8256, 8258, and 8287c of this title and section 2913 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Short Title note set out under section 17001 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (a)(2)(D). Pub. L. 110–140, §513(1), inserted “beginning on the date of the delivery order” after “25 years” in introductory provisions.
+
+Subsec. (a)(2)(D)(iii), (iv). Pub. L. 110–140, §511(a), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and”.
+
+Subsec. (a)(2)(E). Pub. L. 110–140, §512, added subpar. (E).
+
+Subsec. (a)(2)(F), (G). Pub. L. 110–140, §513(2), added subpars. (F) and (G).
+
+Subsec. (c). Pub. L. 110–140, §514, struck out subsec. (c). Text read as follows: “The authority to enter into new contracts under this section shall cease to be effective on October 1, 2016.”
 
 2005—Subsec. (c). Pub. L. 109–58 substituted “2016” for “2006”.
 
@@ -69,6 +105,10 @@ The authority to enter into new contracts under this section shall cease to be e
 Subsec. (c). Pub. L. 104–316 struck out par. (1) designation before “The authority to” and struck out par. (2) which required Comptroller General of the United States to report annually for five years on implementation of this section, including an assessment of various energy issues.
 
 1992—Pub. L. 102–486 inserted subsec. (a) designation and heading, designated existing provisions as par. (1), and added par. (2) and subsecs. (b) and (c).
+
+#### Effective Date of 2007 Amendment
+
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Effective Date of 1996 Amendment
 

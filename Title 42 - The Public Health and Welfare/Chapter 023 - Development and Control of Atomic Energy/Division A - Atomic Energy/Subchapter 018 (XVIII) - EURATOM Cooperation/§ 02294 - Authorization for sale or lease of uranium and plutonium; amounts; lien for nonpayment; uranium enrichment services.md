@@ -20,7 +20,7 @@ Section was enacted as part of the EURATOM Cooperation Act of 1958 which compris
 
 1973—Pub. L. 93–88 substituted “an amount of contained uranium 235 which does not exceed that necessary to support the fuel cycle of power reactors located within the Community having a total installed capacity of thirty-five thousand megawatts of electric energy, together with twenty-five thousand kilograms of contained uranium for other purposes” for “two hundred fifteen thousand kilograms of contained uranium 235”.
 
-1967—Pub. L. 90–190 increased from seventy thousand to two hundred fifteen thousand kilograms of contained uranium 235 and from five hundred to one thousand five hundred kilograms of plutonium respectively the amount of material authorized to be sold or leased to the Community, and inserted provision authorizing the Commission, after Dec. 31, 1968, to perform uranium enrichment services for the Community, pursuant to the provisions of section 2201(v)(B) of this title, in lieu of the sale or lease of such material.
+1967—Pub. L. 90–190 increased from seventy thousand to two hundred fifteen thousand kilograms of containeduranium 235 and from five hundred to one thousand five hundred kilograms of plutonium respectively the amount of material authorized to be sold or leased to the Community, and inserted provision authorizing the Commission, after Dec. 31, 1968, to perform uranium enrichment services for the Community, pursuant to the provisions of section 2201(v)(B) of this title, in lieu of the sale or lease of such material.
 
 1964—Pub. L. 88–394 increased the amount of contained uranium 235 from thirty thousand kilograms to seventy thousand kilograms, and plutonium, from nine kilograms to five hundred kilograms.
 

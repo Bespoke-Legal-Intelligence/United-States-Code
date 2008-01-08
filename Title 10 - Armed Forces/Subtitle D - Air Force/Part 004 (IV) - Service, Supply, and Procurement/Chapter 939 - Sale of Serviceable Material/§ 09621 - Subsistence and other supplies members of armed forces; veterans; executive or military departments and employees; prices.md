@@ -22,7 +22,7 @@
 
 &emsp;(1) at military installations outside the United States; and
 
-&emsp;(2) at military installations inside the United States where he determines that it isimpracticable for those civilian officers, employees, and persons to obtain those stores from private agencies without impairing the efficient operation of military activities.
+&emsp;(2) at military installations inside the United States where he determines that it is impracticable for those civilian officers, employees, and persons to obtain those stores from private agencies without impairing the efficient operation of military activities.
 
 > However, sales to those officers and employees inside the United States may be made only to those residing within military installations.
 

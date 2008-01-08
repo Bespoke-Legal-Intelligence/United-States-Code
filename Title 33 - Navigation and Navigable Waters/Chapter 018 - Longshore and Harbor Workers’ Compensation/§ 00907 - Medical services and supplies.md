@@ -30,7 +30,7 @@ The employee shall have the right to choose an attending physician authorized by
 
 (E) A provider of a service, appliance, or supply shall provide to the Secretary such information and certification as the Secretary may require to assure that this subsection is enforced.
 
-(2) Whenever the employer or carrier acquires knowledge of the employee's injury, through written notice or otherwise as prescribed by the chapter, the employer or carrier shall forthwith authorize medical treatment and care from a physician selected by an employee pursuant to subsection (b) of this section. An employee maynot select a physician who is on the list required by paragraph (1) of this subsection. An employee may not change physicians after his initial choice unless the employer, carrier, or deputy commissioner has given prior consent for such change. Such consent shall be given in cases where an employee's initial choice was not of a specialist whose services are necessary for and appropriate to the proper care and treatment of the compensable injury or disease. In all other cases, consent may be given upon a showing of good cause for change.
+(2) Whenever the employer or carrier acquires knowledge of the employee's injury, through written notice or otherwise as prescribed by the chapter, the employer or carrier shall forthwith authorize medical treatment and care from a physician selected by an employee pursuant to subsection (b) of this section. An employee may not select a physician who is on the list required by paragraph (1) of this subsection. An employee may not change physicians after his initial choice unless the employer, carrier, or deputy commissioner has given prior consent for such change. Such consent shall be given in cases where an employee's initial choice was not of a specialist whose services are necessary for and appropriate to the proper care and treatment of the compensable injury or disease. In all other cases, consent may be given upon a showing of good cause for change.
 
 #### (d) Request of treatment or services prerequisite to recovery of expenses; formal report of injury and treatment; suspension of compensation for refusal of treatment or examination; justification
 
@@ -56,7 +56,7 @@ An employee shall submit to a physical examination under subsection (e) of this 
 
 #### (g) Fees and charges for examinations, treatment, or service; limitation; regulations
 
-All fees and other charges for medical examinations, treatment, or service shall be limited to such charges as prevail in the community for such treatment, and shall be subject to regulation by the Secretary. The Secretary shall issue regulations limiting the nature and extent of medical expenses chargeable against the employer without authorization by the employer or the Secretary.
+All fees and other charges for medical examinations, treatment, or service shall be limitedto such charges as prevail in the community for such treatment, and shall be subject to regulation by the Secretary. The Secretary shall issue regulations limiting the nature and extent of medical expenses chargeable against the employer without authorization by the employer or the Secretary.
 
 #### (h) Third party liability
 
@@ -64,7 +64,7 @@ The liability of an employer for medical treatment as herein provided shall not 
 
 #### (i) Physicians’ ineligibility for subsection (e) physical examinations and reviews because of workmen's compensation claim employment or fee acceptance or participation
 
-Unless the parties to the claim agree, the Secretary shall not employ or select any physicianfor the purpose of making examinations or reviews under subsection (e) of this section who, during such employment, or during the period of two years prior to such employment, has been employed by, or accepted or participated in any fee relating to a workmen's compensation claim from any insurance carrier or any self-insurer.
+Unless the parties to the claim agree, the Secretary shall not employ or select any physician for the purpose of making examinations or reviews under subsection (e) of this section who, during such employment, or during the period of two years prior to such employment, has been employed by, or accepted or participated in any fee relating to a workmen's compensation claim from any insurance carrier or any self-insurer.
 
 #### (j) Procedure; judicial review
 
@@ -100,7 +100,7 @@ Subsec. (k). Pub. L. 98–426, §7(e), added subsec. (k).
 
 Subsec. (b). Pub. L. 92–576, substituted provisions for employee's choosing of an attending physician authorized by the Secretary, for prior provisions for such a choosing from a panel of physicians named by the employer and employer's selection of a physician for an employee when nature of injury requires immediate medical treatment and care for prior provisions for employer's selection of a physician from the panel; required Secretary's supervision of medical care rendered and periodic reports of medical care furnished; provided for initiative of the Secretary or the request of the employer for making change of hospitals or physicians and that the change be in the interest of the employee; provided for change of physicians pursuant to regulations of the Secretary; and deleted prior provision authorizing a second choice of a physician from the panel and for selection of physicians for specialized services.
 
-Subsec. (c). Pub. L. 92–576 substituted provisions respecting Secretary's designation of physicians in community authorized to render medical care and posting of their names for prior provisions respecting deputy commissioner's determination of size of panel of physicians (named by employer) following statutory criteria and approval of their qualifications, and requirement ofposting of names and addresses of physicians so as to afford reasonable notice.
+Subsec. (c). Pub. L. 92–576 substituted provisions respecting Secretary's designation of physicians in community authorized to render medical care and posting of their names for prior provisions respecting deputy commissioner's determination of size of panel of physicians (named by employer) following statutory criteria and approval of their qualifications, and requirement of posting of names and addresses of physicians so as to afford reasonable notice.
 
 Subsec. (d). Pub. L. 92–576 substituted the Secretary for the deputy commissioner as the person to exercise the various authorities, struck out introductory provisions respecting employer's failure to maintain a panel of physicians for examination purposes or to permit the employee to choose an attending physician from the panel and employee's procurement of treatment and services and selection of a physician at expense of employer, decreased from twenty to ten days the period within which to make the formal report of injury and treatment, and authorized suspension of compensation for refusal to submit to an examination by a physician of the employer.
 

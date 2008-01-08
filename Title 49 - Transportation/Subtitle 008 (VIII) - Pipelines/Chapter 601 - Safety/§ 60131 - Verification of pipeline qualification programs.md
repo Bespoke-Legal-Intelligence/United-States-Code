@@ -10,7 +10,7 @@ Standards and Criteria.—
 
 &emsp;(1)
 
-Development.—Not later than 1 year after the date of enactment of this section, the Secretary shall ensure that the Department of Transportation has in place standards and criteria for qualification programs referred to in subsection (a).
+Development.—Not later than 1 year after the date of enactment of this section, the Secretary shall ensure that the Department ofTransportation has in place standards and criteria for qualification programs referred to in subsection (a).
 
 &emsp;(2)
 

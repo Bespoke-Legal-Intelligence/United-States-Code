@@ -2,11 +2,11 @@
 
 #### (a) Declaration of policy
 
-With the purpose of preventing damage to the shores and beaches of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the United States, subject to sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to whichthe need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.
+With the purpose of preventing damage to the shores and beaches of the United States, its Territories and possessions and promoting and encouraging the healthful recreation of the people, it is declared to be the policy of the United States, subject to sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.
 
 #### (b) Federal contribution; maximum amount; exceptions
 
-The Federal contribution in the case of any project referred to in subsection (a) of this section shall not exceed one-half of the cost of the project, and the remainder shall be paid by the State, municipality, or other political subdivision in which the project is located, except that (1) the costs allocated to the restoration and protection of Federal property shall be borne fully by the Federal Government, (2) Federal participation in the cost of a project for restoration and protection of State, county, and other publicly owned shore parks and conservation areas may be, in the discretion of the Chief of Engineers, not more than 70 per centum of the total cost exclusive of land costs, when such areas: Include a zone which excludes permanent human habitation; include but are not limited to recreational beaches; satisfy adequate criteria for conservation and development of the natural resources of the environment; extend landward a sufficient distance to include, where appropriate, protective dunes, bluffs, or other natural features which serve to protect the uplands from damage; and provide essentially full park facilities for appropriate public use, all of which shall meet with the approval of the Chief of Engineers, and (3) Federal participation in the cost of a project providing hurricane protection may be, in the discretion of the Secretary <sup>1</sup> not more than 70 per centum of the total cost exclusive of land costs.
+The Federal contribution in the case of any project referred to in subsection (a) of this section shall not exceed one-half of the cost of the project, and the remainder shall be paid by the State, municipality, or other political subdivision in which the project is located, except that (1) the costs allocated to the restoration and protection of Federal property shall be borne fully by the Federal Government, (2) Federal participation in the cost of a project for restoration and protection of State, county, and otherpublicly owned shore parks and conservation areas may be, in the discretion of the Chief of Engineers, not more than 70 per centum of the total cost exclusive of land costs, when such areas: Include a zone which excludes permanent human habitation; include but are not limited to recreational beaches; satisfy adequate criteria for conservation and development of the natural resources of the environment; extend landward a sufficient distance to include, where appropriate, protective dunes, bluffs, or other natural features which serve to protect the uplands from damage; and provide essentially full park facilities for appropriate public use, all of which shall meet with the approval of the Chief of Engineers, and (3) Federal participation in the cost of a project providing hurricane protection may be, in the discretion of the Secretary <sup>1</sup> not more than 70 per centum of the total cost exclusive of land costs.
 
 #### (c) Periodic beach nourishment; “construction” defined
 
@@ -20,7 +20,7 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 #### (1) In general
 
-&emsp;No Federal contributions shall be made with respect to a project under sections 426e to 426h–1 of this title unless the plan therefor shall have been specifically adopted and authorized by Congress after investigation and study by the Coastal Engineering Research Center under the provisions of section 426 of this title as amended and supplemented, or, in the case of a small project under section 426g or 426h of this title, unless the plan therefor has been approved by the Chief of Engineers.
+&emsp;No Federal contributions shall be made with respect to a project under sections 426e to 426h–1 of this title unless the plan therefor shall have been specifically adopted and authorized by Congress after investigation and study by the Coastal Engineering Research Center under the provisions of section 426 of this title as amended and supplemented, or, in the case of a small project under section 426g or 426h <sup>2</sup> of this title, unless the plan therefor has been approved by the Chief of Engineers.
 
 #### (2) Studies
 
@@ -77,6 +77,10 @@ Shores other than public will be eligible for Federal assistance if there is ben
 &emsp;&emsp;In constructing a shore protection project or separable element under this paragraph, the Secretary shall, to the extent practicable, coordinate the project or element with any complementary project identified under paragraph (2)(C).
 
 (Aug. 13, 1946, ch. 960, §1, 60 Stat. 1056; July 28, 1956, ch. 768, 70 Stat. 702; Pub. L. 87–874, title I, §103(a)(1)–(3), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 88–172, §1, Nov. 7, 1963, 77 Stat. 304; Pub. L. 91–611, title II, §208, Dec. 31, 1970, 84 Stat. 1829; Pub. L. 104–303, title II, §227(a), (b), (e)(2)(A), (B), Oct. 12, 1996, 110 Stat. 3698, 3703.)
+
+#### References in Text
+
+Section 426h of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 110–114, title II, §2038(b), Nov. 8, 2007, 121 Stat. 1100.
 
 #### Codification
 
@@ -165,4 +169,6 @@ Pub. L. 101–640, title III, §309, Nov. 28, 1990, 104 Stat. 4638, provided tha
 &emsp;“(5) such other provisions as the Secretary may prescribe by regulation to prevent hazardous or environmentally damaging shoreline development.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Acquisition of Land by Condemnation for Certain Military Purposes.—(1) Subject to subsection (f), the Secretary of a military department may have proceedings brought in the name of the United States, in a court of proper jurisdiction, to acquire by condemnation any interest in land, including temporary use, needed for—
+Acquisition of Land by Condemnation for Certain Military Purposes.—(1) Subject to subsection (f), the Secretary of a military department may have proceedings brought in the name of the United States, in a court of properjurisdiction, to acquire by condemnation any interest in land, including temporary use, needed for—
 
 &emsp;(A) the site, construction, or operation of fortifications, coast defenses, or military training camps;
 

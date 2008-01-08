@@ -26,7 +26,7 @@ A group of workers (including workers in any agricultural firm or subdivision of
 
 &emsp;(1) a significant number or proportion of the workers in the workers’ firm or an appropriate subdivision of the firm have become totally or partially separated, or are threatened to become totally or partially separated;
 
-&emsp;(2) the workers’ firm (or subdivision) is a supplier or downstream producer to a firm (orsubdivision) that employed a group of workers who received a certification of eligibility under subsection (a) of this section, and such supply or production is related to the article that was the basis for such certification (as defined in subsection (c)(3) and (4) of this section); and
+&emsp;(2) the workers’ firm (or subdivision) is a supplier or downstream producer to a firm (or subdivision) that employed a group of workers who received a certification of eligibility under subsection (a) of this section, and such supply or production is related to the article that was the basis for such certification (as defined in subsection (c)(3) and (4) of this section); and
 
 &emsp;(3) either—
 
@@ -46,7 +46,7 @@ For purposes of this section—
 
 &emsp;(3)
 
-Downstream producer.—The term “downstream producer” means a firm that performs additional, value-added production processes for a firm or subdivision, including a firm that performs final assembly or finishing, directly for another firm (or subdivision), for articles that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm, if the certification of eligibility under subsection (a) of this section is based on an increase in imports from, or a shift in production to, Canada or Mexico.
+Downstream producer.—The term “downstream producer” means a firm that performs additional, value-added production processes for a firm or subdivision, including a firm that performs final assembly or finishing, directly for another firm (or subdivision), for articles that were the basis for a certificationof eligibility under subsection (a) of this section of a group of workers employed by such other firm, if the certification of eligibility under subsection (a) of this section is based on an increase in imports from, or a shift in production to, Canada or Mexico.
 
 &emsp;(4)
 
@@ -114,11 +114,11 @@ Amendment by Pub. L. 97–35 applicable to petitions filed on or after Oct. 1, 1
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Dec. 31, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Workers Covered by Certification Notwithstanding Other Law
 
-Section 1421(a)(1)(B) of Pub. L. 100–418 provided that: “Notwithstanding section 223(b) of the Trade Act of 1974 \[19 U.S.C. 2273(b)\], or any other provision of law, any certification made under subchapter A of chapter 2 of title II of such Act \[this subpart\] which—
+Section 1421(a)(1)(B) of Pub. L. 100–418 provided that: “Notwithstanding section 223(b) of the Trade Act of1974 \[19 U.S.C. 2273(b)\], or any other provision of law, any certification made under subchapter A of chapter 2 of title II of such Act \[this subpart\] which—
 
 &emsp;“(i) is made with respect to a petition filed before the date that is 90 days after the date of enactment of this Act \[Aug. 23, 1988\], and
 

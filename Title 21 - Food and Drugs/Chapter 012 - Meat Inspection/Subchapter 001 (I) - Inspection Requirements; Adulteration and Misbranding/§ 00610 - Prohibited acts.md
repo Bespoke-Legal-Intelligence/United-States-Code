@@ -16,13 +16,13 @@ No person, firm, or corporation shall, with respect to any cattle, sheep, swine,
 
 #### (d) Adulteration or misbranding
 
-&emsp;do, with respect to any such articles which are capable of use as human food, any actwhile they are being transported in commerce or held for sale after such transportation, which is intended to cause or has the effect of causing such articles to be adulterated or misbranded.
+&emsp;do, with respect to any such articles which are capable of use as human food, any act while they are being transported in commerce or held for sale after such transportation, which is intended to cause or has the effect of causing such articles to be adulterated or misbranded.
 
 (Mar. 4, 1907, ch. 2907, title I, §10, formerly 8th par., 34 Stat. 1262; renumbered §10 and amended Pub. L. 90–201, §§1, 7, Dec. 15, 1967, 81 Stat. 584, 589; Pub. L. 95–445, §3, Oct. 10, 1978, 92 Stat. 1069.)
 
 #### References in Text
 
-Act of August 27, 1958, referred to in subsec. (b), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, as amended, which is classified generally to chapter 48 (§1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
+Act of August 27, 1958, referred to in subsec. (b), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, as amended,which is classified generally to chapter 48 (§1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
 
 Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, §5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title.
 

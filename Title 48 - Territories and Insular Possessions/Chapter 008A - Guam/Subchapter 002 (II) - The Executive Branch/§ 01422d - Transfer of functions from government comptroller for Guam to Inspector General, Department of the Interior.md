@@ -14,7 +14,7 @@ The authority granted in paragraph (a) of this section shall extend to all activ
 
 #### (c) Transfer of personnel, assets, etc., of office of government comptroller for Guam to Office of Inspector General, Department of the Interior
 
-In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for Guam related to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
+In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office ofthe government comptroller for Guam related to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 
 (Aug. 1, 1950, ch. 512, §9–A, as added Pub. L. 97–357, title I, §104(b), Oct. 19, 1982, 96 Stat. 1706.)
 

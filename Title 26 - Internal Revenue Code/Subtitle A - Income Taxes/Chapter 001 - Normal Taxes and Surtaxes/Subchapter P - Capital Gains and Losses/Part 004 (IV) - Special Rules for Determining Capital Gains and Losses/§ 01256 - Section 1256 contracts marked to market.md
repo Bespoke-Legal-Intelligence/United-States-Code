@@ -146,7 +146,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 #### (1) Denial of capital gains treatment for property identified as part of a hedging transaction
 
-&emsp;For purposes of this title, gain from any property shall in no event be considered as gain from the sale or exchange of a capital asset if such property was at any time personal property (as defined in section 1092(d)(1)) identified under subsection (e)(2) by the taxpayer as being part of a hedging transaction.
+&emsp;For purposes of this title, gain from any property shall in no event be considered asgain from the sale or exchange of a capital asset if such property was at any time personal property (as defined in section 1092(d)(1)) identified under subsection (e)(2) by the taxpayer as being part of a hedging transaction.
 
 #### (2) Subsection (a)(3) not to apply to ordinary income property
 
@@ -156,7 +156,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this title, gain or loss from trading of section 1256 contracts shall betreated as gain or loss from the sale or exchange of a capital asset.
+&emsp;&emsp;For purposes of this title, gain or loss from trading of section 1256 contracts shall be treated as gain or loss from the sale or exchange of a capital asset.
 
 #### (B) Exception for certain hedging transactions
 
@@ -534,7 +534,7 @@ Definitions.—For purposes of this clause, the terms ‘regulated futures contr
 
 “(iii)
 
-Election by taxpayer with respect to positions held during taxable years ending after may 11, 1982.—In lieu of the election under clause (ii), a taxpayer may elect to have the amendments made by subparagraphs (B) and (C) \[amending subsec. (b) of this section to include foreign currency contracts and enacting subsec. (g) of this section, respectively\] applied to all positions held in taxable years ending after May 11, 1982, except that the provisions of section 509(a)(3) and (4) of the Economic Recovery Tax Act of 1981 \[set out below\] shall not apply.”
+Election by taxpayer with respect to positions held during taxable years ending after may 11, 1982.—In lieu of the election under clause (ii), a taxpayer may elect to have the amendments made by subparagraphs (B) and (C) \[amending subsec. (b) of this section to include foreign currency contracts and enacting subsec. (g) of this section, respectively\] appliedto all positions held in taxable years ending after May 11, 1982, except that the provisions of section 509(a)(3) and (4) of the Economic Recovery Tax Act of 1981 \[set out below\] shall not apply.”
 
 #### Effective Date of 1982 Amendment
 

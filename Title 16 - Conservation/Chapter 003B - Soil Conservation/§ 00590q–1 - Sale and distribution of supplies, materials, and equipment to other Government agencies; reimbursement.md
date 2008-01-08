@@ -6,7 +6,7 @@ The Soil Conservation Service subject to applicable regulations under the Federa
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except fortitle III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Codification
 

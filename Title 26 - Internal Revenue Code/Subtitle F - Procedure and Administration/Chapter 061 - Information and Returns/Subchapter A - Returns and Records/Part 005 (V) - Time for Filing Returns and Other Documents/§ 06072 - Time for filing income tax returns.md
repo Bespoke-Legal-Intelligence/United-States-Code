@@ -10,7 +10,7 @@ Returns of corporations under section 6012 made on the basis of the calendar yea
 
 #### (c) Returns by certain nonresident alien individuals and foreign corporations
 
-Returns made by nonresident alien individuals (other than those whose wages are subject to withholding under chapter 24) and foreign corporations (other than those having an office or place of business in the United States or a FSC or former FSC) under section 6012 on the basis of a calendar year shall be filed on or before the 15th day of June following the close of the calendar year and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the 6th month following the close of the fiscal year.
+Returns made by nonresident alien individuals (other than those whose wages are subject to withholding under chapter 24) and foreign corporations (other than those having an office or place of business in the United States or a former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)) under section 6012 on the basis of a calendar year shall be filed on or before the 15th day of June following the close of the calendar year and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the 6th month following the close of the fiscal year.
 
 #### (d) Returns of cooperative associations
 
@@ -26,9 +26,15 @@ In the case of an income tax return of—
 
 In the case of an income tax return of an organization exempt from taxation under section 501(a) (other than an employees’ trust described in section 401(a)), a return shall be filed on or before the 15th day of the 5th month following the close of the taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 87–834, §17(b)(3), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 92–178, title V, §504(b), Dec. 10, 1971, 85 Stat. 551; Pub. L. 94–455, title X, §1053(d)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1649, 1834; Pub. L. 95–628, §6(a), Nov. 10, 1978, 92 Stat. 3630; Pub. L. 98–369, div. A, title VIII, §801(d)(13), July 18, 1984, 98 Stat. 997.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 87–834, §17(b)(3), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 92–178, title V, §504(b), Dec. 10, 1971, 85 Stat. 551; Pub. L. 94–455, title X, §1053(d)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1649, 1834;Pub. L. 95–628, §6(a), Nov. 10, 1978, 92 Stat. 3630; Pub. L. 98–369, div. A, title VIII, §801(d)(13), July 18, 1984, 98 Stat. 997; Pub. L. 110–172, §11(g)(20), Dec. 29, 2007, 121 Stat. 2491.)
+
+#### References in Text
+
+The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+2007—Subsec. (c). Pub. L. 110–172 substituted “a former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “a FSC or former FSC”.
 
 1984—Subsec. (c). Pub. L. 98–369 inserted “or a FSC or former FSC” after “United States”.
 

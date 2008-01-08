@@ -33,11 +33,12 @@
 | [278j.](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md) | Studies by National Research Council. |
 | [278k.](%C2%A7%2000278k%20-%20Regional%20Centers%20for%20the%20Transfer%20of%20Manufacturing%20Technology.md) | Regional Centers for the Transfer of Manufacturing Technology. |
 | 278<i>l.</i> | Assistance to State technology programs. |
-| [278m.](%C2%A7%2000278m%20-%20Non-energy%20inventions%20program.md) | Non-energy inventions program. |
-| [278n.](%C2%A7%2000278n%20-%20Advanced%20Technology%20Program.md) | Advanced Technology Program. |
+| [278m.](%C2%A7%2000278m%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9369%2C%20title%20III%2C%20%C2%A73013%28d%29%2C%20Aug.%209%2C%202007%2C%20121%20Stat.%20599.md) | Repealed. |
+| [278n.](%C2%A7%2000278n%20-%20Technology%20Innovation%20Program.md) | Technology Innovation Program. |
 | 278<i>o.</i> | User fees. |
 | [278p.](%C2%A7%2000278p%20-%20Notice%20to%20Congress.md) | Notice to Congress. |
 | [278q.](%C2%A7%2000278q%20-%20Appropriations%3B%20availability.md) | Appropriations; availability. |
+| [278r.](%C2%A7%2000278r%20-%20Collaborative%20manufacturing%20research%20pilot%20grants.md) | Collaborative manufacturing research pilot grants. |
 | [279\.](%C2%A7%2000279%20-%20Absence%20of%20Director.md) | Absence of Director. |
 | 280, 281. | Repealed. |
 | [281a.](%C2%A7%2000281a%20-%20Structural%20failures.md) | Structural failures. |
@@ -83,11 +84,12 @@
 - [&sect; 00278j - Studies by National Research Council](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md)
 - [&sect; 00278k - Regional Centers for the Transfer of Manufacturing Technology](%C2%A7%2000278k%20-%20Regional%20Centers%20for%20the%20Transfer%20of%20Manufacturing%20Technology.md)
 - [&sect; 00278l - Assistance to State technology programs](%C2%A7%2000278l%20-%20Assistance%20to%20State%20technology%20programs.md)
-- [&sect; 00278m - Non-energy inventions program](%C2%A7%2000278m%20-%20Non-energy%20inventions%20program.md)
-- [&sect; 00278n - Advanced Technology Program](%C2%A7%2000278n%20-%20Advanced%20Technology%20Program.md)
+- [&sect; 00278m - Repealed. Pub. L. 110&#8211;69, title III, &sect;3013(d), Aug. 9, 2007, 121 Stat. 599](%C2%A7%2000278m%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9369%2C%20title%20III%2C%20%C2%A73013%28d%29%2C%20Aug.%209%2C%202007%2C%20121%20Stat.%20599.md)
+- [&sect; 00278n - Technology Innovation Program](%C2%A7%2000278n%20-%20Technology%20Innovation%20Program.md)
 - [&sect; 00278o - User fees](%C2%A7%2000278o%20-%20User%20fees.md)
 - [&sect; 00278p - Notice to Congress](%C2%A7%2000278p%20-%20Notice%20to%20Congress.md)
 - [&sect; 00278q - Appropriations; availability](%C2%A7%2000278q%20-%20Appropriations%3B%20availability.md)
+- [&sect; 00278r - Collaborative manufacturing research pilot grants](%C2%A7%2000278r%20-%20Collaborative%20manufacturing%20research%20pilot%20grants.md)
 - [&sect; 00279 - Absence of Director](%C2%A7%2000279%20-%20Absence%20of%20Director.md)
 - [&sect; 00280, 281 - Repealed. Pub. L. 100&#8211;418, title V, &sect;5113, Aug. 23, 1988, 102 Stat. 1432](%C2%A7%2000280%2C%20281%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93418%2C%20title%20V%2C%20%C2%A75113%2C%20Aug.%2023%2C%201988%2C%20102%20Stat.%201432.md)
 - [&sect; 00281a - Structural failures](%C2%A7%2000281a%20-%20Structural%20failures.md)

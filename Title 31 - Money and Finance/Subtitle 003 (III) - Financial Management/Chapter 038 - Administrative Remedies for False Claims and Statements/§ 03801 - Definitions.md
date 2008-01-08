@@ -8,9 +8,11 @@
 
 &emsp;&emsp;(B) a military department;
 
-&emsp;&emsp;(C) an establishment (as such term is defined in section 11(2) of the Inspector General Act of 1978) which is not an executive department; and
+&emsp;&emsp;(C) an establishment (as such term is defined in section 11(2) of the Inspector General Act of 1978) which is not an executive department;
 
-&emsp;&emsp;(D) the United States Postal Service;
+&emsp;&emsp;(D) the United States Postal Service; and
+
+&emsp;&emsp;(E) the National Science Foundation.<sup>1</sup>
 
 &emsp;(2) “authority head” means—
 
@@ -124,7 +126,7 @@
 
 &emsp;(2) a statement shall be considered made, presented, or submitted to an authority when such statement is actually made to an agent, fiscal intermediary, or other entity, including any State or political subdivision thereof, acting for or on behalf of such authority.
 
-(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1934; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–272, §4(f)(1)(Q), July 5, 1994, 108 Stat. 1362.)
+(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1934; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–272, §4(f)(1)(Q), July 5, 1994, 108 Stat. 1362; Pub. L. 110–69, title VII, §7017, Aug. 9, 2007, 121 Stat. 684.)
 
 #### References in Text
 
@@ -133,6 +135,8 @@ The Inspector General Act of 1978, referred to in subsec. (a)(1)(C), (4)(A), is 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3), (9), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2007—Subsec. (a)(1)(E). Pub. L. 110–69 added subpar. (E).
 
 1994—Subsec. (a)(7)(B)(ii). Pub. L. 103–272 substituted “section 3803 of this title” for “section 3803 of such title”.
 
@@ -173,4 +177,6 @@ Purposes.—The purposes of this subtitle \[see Short Title note above\] are—
 &emsp;“(1) to provide Federal agencies which are the victims of false, fictitious, and fraudulent claims and statements with an administrative remedy to recompense such agencies for losses resulting from such claims and statements, to permit administrative proceedings to be brought against persons who make, present, or submit such claims and statements, and to deter the making, presenting, and submitting of such claims and statements in the future; and
 
 &emsp;“(2) to provide due process protections to all persons who are subject to the administrative adjudication of false, fictitious, or fraudulent claims or statements.”
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

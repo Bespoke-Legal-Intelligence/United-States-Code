@@ -112,7 +112,7 @@ Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portabilityand Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
 #### Effective Date of 1996 Amendment
 

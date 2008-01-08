@@ -58,7 +58,7 @@ Prohibition on Minimum Principal Amount.—The Secretary may not establish, as a
 
 #### Amendments Not Shown in Text
 
-<i>Subsecs. (a) to (d) of this section were derived from sections 1273(c) and 1274(b)(2), (c)(1) (last sentence), and (i) of the former Appendix to this title, which were amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (D), Jan. 6, 2006, 119 Stat. 3555. For applicability of those amendments to this</i><i>section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Those provisions of the former Appendix to this title were amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+<i>Subsecs. (a) to (d) of this section were derived from sections 1273(c) and 1274(b)(2), (c)(1) (last sentence), and (i) of the former Appendix to this title, which were amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (D), Jan. 6, 2006, 119 Stat. 3555. For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Those provisions of the former Appendix to this title were amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
 
 Historical and Revision Notes
 

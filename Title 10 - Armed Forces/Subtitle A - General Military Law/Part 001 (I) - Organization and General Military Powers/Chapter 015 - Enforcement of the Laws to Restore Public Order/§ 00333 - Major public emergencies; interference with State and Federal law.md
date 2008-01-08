@@ -14,7 +14,7 @@ Use of Armed Forces in Major Public Emergencies.—(1) The President may employ 
 
 (2) A condition described in this paragraph is a condition that—
 
-&emsp;(A) so hinders the execution of the laws of a State or possession, as applicable, and of the United States within that State or possession, that any part or class of its people is deprived of a right, privilege, immunity, or protection named in the Constitution and secured by law, and the constituted authorities of that State or possession are unable, fail, or refuse to protect that right, privilege, or immunity, or to give that protection; or
+&emsp;(A) so hinders the execution of the laws of a State or possession, as applicable, and of theUnited States within that State or possession, that any part or class of its people is deprived of a right, privilege, immunity, or protection named in the Constitution and secured by law, and the constituted authorities of that State or possession are unable, fail, or refuse to protect that right, privilege, or immunity, or to give that protection; or
 
 &emsp;(B) opposes or obstructs the execution of the laws of the United States or impedes the course of justice under those laws.
 

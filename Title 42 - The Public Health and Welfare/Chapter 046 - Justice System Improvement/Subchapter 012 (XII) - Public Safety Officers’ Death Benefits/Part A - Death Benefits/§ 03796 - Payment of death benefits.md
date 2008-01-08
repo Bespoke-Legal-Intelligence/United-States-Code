@@ -108,7 +108,7 @@ A prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236
 
 2006—Subsec. (a)(4). Pub. L. 109–162, §1164(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “if there is no surviving spouse or surviving child, to the individual designated by such officer as beneficiary under such officer's most recently executed life insurance policy, provided that such individual survived such officer; or”.
 
-Subsec. (a)(6). Pub. L. 109–162, §1164(e), which directed amendment of section 1201(1)(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796(a))by adding par. (6) at end, was executed by adding par. (6) at end of subsec. (a) of this section to reflect the probable intent of Congress.
+Subsec. (a)(6). Pub. L. 109–162, §1164(e), which directed amendment of section 1201(1)(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796(a)) by adding par. (6) at end, was executed by adding par. (6) at end of subsec. (a) of this section to reflect the probable intent of Congress.
 
 Subsec. (m). Pub. L. 109–162, §1164(c), added subsec. (m).
 

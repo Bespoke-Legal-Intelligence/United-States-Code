@@ -10,3 +10,7 @@ Within one year of November 13, 1998, the Secretary shall report to the Committe
 
 (Pub. L. 105–391, title II, §203, Nov. 13, 1998, 112 Stat. 3500.)
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

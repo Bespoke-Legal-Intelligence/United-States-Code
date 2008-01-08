@@ -104,5 +104,5 @@ The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360,
 
 #### Effective Date
 
-Pub. L. 109–58, title XIII, §1323(c), Aug. 8, 2005, 119 Stat. 1015, provided that: “The amendments made by this section \[enacting this section and amending sections 263, 312, and 1245 of this title\] shall apply to properties placed in service after the date of the enactment of this Act \[Aug. 8, 2005\].”
+Pub. L. 109–58, title XIII, §1323(c), Aug. 8, 2005, 119 Stat. 1015, provided that: “The amendments made bythis section \[enacting this section and amending sections 263, 312, and 1245 of this title\] shall apply to properties placed in service after the date of the enactment of this Act \[Aug. 8, 2005\].”
 

@@ -20,7 +20,7 @@ The Secretary of Transportation, the Chairman of the Surface Transportation Boar
 
 Such trails may be designated and suitably marked as parts of the nationwide system of trails by the States, their political subdivisions, or other appropriate administering agencies with the approval of the Secretary of the Interior.
 
-(Pub. L. 90–543, §8, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–625, title V, §551(22), Nov. 10, 1978, 92 Stat. 3516; Pub. L. 98–11, title II, §208, Mar. 28, 1983, 97 Stat. 48; Pub. L. 104–88, title III, §317(1), Dec. 29, 1995, 109 Stat. 949.)
+(Pub. L. 90–543, §8, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–625, title V, §551(22), Nov. 10, 1978, 92 Stat.3516; Pub. L. 98–11, title II, §208, Mar. 28, 1983, 97 Stat. 48; Pub. L. 104–88, title III, §317(1), Dec. 29, 1995, 109 Stat. 949.)
 
 #### References in Text
 

@@ -36,7 +36,7 @@
 
 &emsp;(4) If no person covered by clauses (1)–(3) can be found, a person standing in loco parentis to the decedent.
 
-(d) When the remains of a decedent covered by section 1481 of this title, whose death occursafter January 1, 1961, are determined to be nonrecoverable, the person who would have been designated under subsection (c) to direct disposition of the remains if they had been recovered may be—
+(d) When the remains of a decedent covered by section 1481 of this title, whose death occurs after January 1, 1961, are determined to be nonrecoverable, the person who would have been designated under subsection (c) to direct disposition of the remains if they had been recovered may be—
 
 &emsp;(1) presented with a flag of the United States; however, if the person designated by subsection (c) is other than a parent of the deceased member, a flag of equal size may also be presented to the parents, and
 
@@ -202,7 +202,7 @@ Duties.—Except to the extent that the person designated to direct disposition 
 
 &emsp;&emsp;&emsp;“(i) travel with the remains during transportation; or
 
-&emsp;&emsp;&emsp;“(ii) meet the remains at the place to which transportation by air (or by rail or motor vehicle, if applicable) is made for the transfer of the remains;
+&emsp;&emsp;&emsp;“(ii) meet the remains at the place to which transportation by air (or by rail or motor vehicle,if applicable) is made for the transfer of the remains;
 
 &emsp;&emsp;“(B) shall provide appropriate honors at the arrival of the remains referred to in subparagraph (A)(ii) (unless airline or other security requirements do not permit such honors to be provided); and
 

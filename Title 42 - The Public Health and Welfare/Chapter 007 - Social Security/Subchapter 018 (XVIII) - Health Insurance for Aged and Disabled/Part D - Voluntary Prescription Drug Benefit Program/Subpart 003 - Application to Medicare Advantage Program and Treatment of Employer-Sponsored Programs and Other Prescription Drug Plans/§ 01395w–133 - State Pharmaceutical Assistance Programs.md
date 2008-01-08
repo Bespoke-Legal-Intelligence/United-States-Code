@@ -68,7 +68,7 @@ For purposes of this part, the term “State Pharmaceutical Assistance Program�
 
 #### (4) Special treatment under out-of-pocket rule
 
-&emsp;In applying section 1395w–102(b)(4)(C)(ii) of this title, expenses incurred under a StatePharmaceutical Assistance Program may be counted toward the annual out-of-pocket threshold.
+&emsp;In applying section 1395w–102(b)(4)(C)(ii) of this title, expenses incurred under a State Pharmaceutical Assistance Program may be counted toward the annual out-of-pocket threshold.
 
 #### (5) Construction
 

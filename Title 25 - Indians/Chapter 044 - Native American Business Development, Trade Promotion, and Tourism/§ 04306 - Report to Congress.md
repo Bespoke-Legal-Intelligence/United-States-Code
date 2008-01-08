@@ -14,3 +14,7 @@ Each report prepared under subsection (a) of this section shall include—
 
 (Pub. L. 106–464, §7, Nov. 7, 2000, 114 Stat. 2018.)
 
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+

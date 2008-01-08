@@ -48,8 +48,6 @@
 
 2006—Pub. L. 109–364, div. A, title V, §598(b)(2), Oct. 17, 2006, 120 Stat. 2237, struck out “; issuance of permanent ID card after attaining 75 years of age” after “retirees” in item 1060b.
 
-&nbsp;
-
 2004—Pub. L. 108–375, div. A, title V, §583(a)(2), Oct. 28, 2004, 118 Stat. 1929, added item 1060b.
 
 2003—Pub. L. 108–136, div. A, title XII, §1222(b), Nov. 24, 2003, 117 Stat. 1652, added item 1051b.

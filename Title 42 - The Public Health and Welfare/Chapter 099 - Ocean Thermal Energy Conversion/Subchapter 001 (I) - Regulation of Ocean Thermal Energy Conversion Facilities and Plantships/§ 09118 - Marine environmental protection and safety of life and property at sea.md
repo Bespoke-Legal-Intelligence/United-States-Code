@@ -6,7 +6,7 @@ The Secretary of the department in which the Coast Guard is operating shall, sub
 
 #### (b) Promotion of safety of life and property
 
-The Secretary of the department in which the Coast Guard is operating shall issue and enforce regulations, subject to recognized principles ofinternational law, with respect to lights and other warning devices, safety equipment, and other matters relating to the promotion of safety of life and property on any ocean thermal energy conversion facility or plantship licensed under this chapter.
+The Secretary of the department in which the Coast Guard is operating shall issue and enforce regulations, subject to recognized principles of international law, with respect to lights and other warning devices, safety equipment, and other matters relating to the promotion of safety of life and property on any ocean thermal energy conversion facility or plantship licensed under this chapter.
 
 #### (c) Marking components for protection of navigation
 
@@ -48,7 +48,7 @@ Subject to recognized principles of international law, the Secretary of the depa
 
 #### References in Text
 
-The Ship Mortgage Act, 1920, referred to in subsec. (e)(3), is section 30 of act June 5, 1920, ch. 250, 41 Stat. 1000, which was classified generally to chapter 25 (§911 et seq.) of former Title 46, Shipping, and was repealed by Pub. L. 100–710, title I, §106(b)(2), Nov. 23, 1988, 102 Stat. 4752, and reenacted by section 102(c) thereof as chapters 301 and 313 of Title 46, Shipping. Chapter 301 of Title 46, consisting solely of section 30101 which defined, among other terms, “vessel of the United States”, was subsequently repealed by Pub. L. 109–304, §6(b), Oct. 6, 2006, 120 Stat. 1509. For a definition of “vessel of the United States” as that term applies to Title 46, see section 116 of Title 46.
+The Ship Mortgage Act, 1920, referred to in subsec. (e)(3), is section 30 of act June 5, 1920, ch. 250, 41 Stat. 1000, which was classified generally to chapter 25 (§911 et seq.) of former Title 46, Shipping, and was repealed by Pub. L. 100–710, title I, §106(b)(2), Nov. 23, 1988, 102 Stat. 4752, and reenacted by section 102(c) thereof aschapters 301 and 313 of Title 46, Shipping. Chapter 301 of Title 46, consisting solely of section 30101 which defined, among other terms, “vessel of the United States”, was subsequently repealed by Pub. L. 109–304, §6(b), Oct. 6, 2006, 120 Stat. 1509. For a definition of “vessel of the United States” as that term applies to Title 46, see section 116 of Title 46.
 
 #### Amendments
 

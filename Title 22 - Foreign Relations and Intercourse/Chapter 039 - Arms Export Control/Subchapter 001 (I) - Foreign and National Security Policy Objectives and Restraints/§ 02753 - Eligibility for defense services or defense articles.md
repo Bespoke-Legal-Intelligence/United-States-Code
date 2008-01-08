@@ -12,7 +12,7 @@ No defense article or defense service shall be sold or leased by the United Stat
 
 &emsp;(4) the country or international organization is otherwise eligible to purchase or lease defense articles or defense services.
 
-> In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense articleunder consideration to that country. In addition, the President shall not give his consent under paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.
+> In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consentunder paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.
 
 #### (b) Necessity of consent by President
 
@@ -54,7 +54,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 #### (d) Submission of written certification to Congress; contents; classified material; effective date of consent; report to Congress; transfers not subject to procedures
 
-(1) Subject to paragraph (5), the President may not give his consent under paragraph (2) of subsection (a) of this section or under the third sentence of such subsection, or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more,unless the President submits to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate a written certification with respect to such proposed transfer containing—
+(1) Subject to paragraph (5), the President may not give his consent under paragraph (2) of subsection (a) of this section or under the third sentence of such subsection, or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, unless the President submits to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate a written certification with respect to such proposed transfer containing—
 
 &emsp;(A) the name of the country or international organization proposing to make such transfer,
 
@@ -150,7 +150,7 @@ Subsec. (d)(3)(A). Pub. L. 104–164, §141(b), designated existing provisions a
 
 &emsp;“(ii) at least 30 calendar days before such consent is given in the case of a transfer to any other country,
 
-> unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the nationalsecurity interests involved.” for “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
+> unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved.” for “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
 
 Subsec. (d)(3)(B), (C). Pub. L. 104–164, §141(b)(3), added subpars. (B) and (C).
 
@@ -210,7 +210,7 @@ Subsec. (e). Pub. L. 94–329, §§204(a), 304(b)(2), added subsec. (e).
 
 1974—Subsec. (d). Pub. L. 93–559 struck out first sentence provision respecting furnishing of sophisticated weapons to countries in violation of agreements pursuant to subsec. (a)(2) of this section, section 2314(a) of this title, or other similar provisions and substituted “in accordance with subsection (c) of this section” for “in accordance with this subsection”.
 
-1973—Subsec. (a). Pub. L. 93–189, §25(2)(A)–(C), in par. (2) inserted requirement not to use or permit the use of such articles for purposes other than those for whichfurnished, redesignated former par. (3) as (4), added a new par. (3), and following par. (4), as so redesignated, inserted provisions relating to Presidential consideration of requests prior to consent under par. (2).
+1973—Subsec. (a). Pub. L. 93–189, §25(2)(A)–(C), in par. (2) inserted requirement not to use or permit the use of such articles for purposes other than those for which furnished, redesignated former par. (3) as (4), added a new par. (3), and following par. (4), as so redesignated, inserted provisions relating to Presidential consideration of requests prior to consent under par. (2).
 
 Subsecs. (c), (d). Pub. L. 93–189, §25(2)(D), added subsecs. (c) and (d).
 
@@ -242,7 +242,7 @@ Pub. L. 105–277, div. A, §101(d) \[title V, §594\], Oct. 21, 1998, 112 Stat.
 
 “(a)
 
-Notification.—No less than 15 days prior to the export to any country identified pursuant to subparagraph (c) of any lethal defense article or service in the amount of $14,000,000 or less, the President shall provide a detailed notification to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and International Relations of the House of Representatives.
+Notification.—No less than 15 days prior to the export to any country identified pursuant to subparagraph (c) of any lethal defense article or service in the amount of $14,000,000 or less, the President shall provide a detailed notification to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
 
 “(b)
 

@@ -14,7 +14,7 @@ As used in this chapter—
 
 (f) The term “Government agency” means any executive department of the Government, or any administrative unit or subdivision thereof, any independent agency or any corporation owned or controlled by the United States in the executive branch of the Government, and includes any contracting agency.
 
-(g) The term “contracting agency” means any Government agency, which has been or hereaftermay be authorized to make contracts pursuant to section 611 <sup>1</sup> of Appendix to title 50, and includes the Reconstruction Finance Corporation and any corporation organized pursuant to the Reconstruction Finance Corporation Act, and the Secretary of Commerce.
+(g) The term “contracting agency” means any Government agency, which has been or hereafter may be authorized to make contracts pursuant to section 611 <sup>1</sup> of Appendix to title 50, and includes the Reconstruction Finance Corporation and any corporation organized pursuant to the Reconstruction Finance Corporation Act, and the Secretary of Commerce.
 
 (h) The term “termination claim” means any claim or demand by a war contractor for fair compensation for the termination of any war contract and any other claim under a terminated war contract, which regulations prescribed under this chapter authorize to be asserted and settled in connection with any termination settlement.
 
@@ -44,7 +44,7 @@ In subsec. (g), the Smaller War Plants Corporation was omitted from the definiti
 
 In subsec. (g), “Secretary of Commerce” substituted for “War Production Board” in view of transfer of War Production Board functions to Civilian Production Administration, then to Office of Temporary Controls, and then to Secretary of Commerce by Ex. Ord. Nos. 9638, 9809, and 9841.
 
-In subsec. (j), functions of Director of Contract Settlement transferred to Secretary of the Treasury by Ex. Ord. No. 9809, §8, and Reorg. Plan No. 1 of 1947, §201, were retransferred to Administrator of General Services by section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
+In subsec. (j), functions of Director of Contract Settlement transferred to Secretary of the Treasury by Ex. Ord. No. 9809, §8, and Reorg. Plan No. 1 of 1947, §201,were retransferred to Administrator of General Services by section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 #### Effective Date of Transfer of Functions
 

@@ -32,7 +32,7 @@ Scope.—The National ITS program plan shall—
 
 (b)
 
-Reporting.—The National ITS program plan shall be submitted and biennially updated as part of the transportation research and development strategic plan developed under section 508.
+Reporting.—The National ITS program plan shall be submitted and biennially updatedas part of the transportation research and development strategic plan developed under section 508.
 
 (Added Pub. L. 109–59, title V, §5301(a), Aug. 10, 2005, 119 Stat. 1804.)
 
@@ -58,7 +58,7 @@ Goals.—The goals of the intelligent transportation system program include—
 
 &emsp;“(2) achievement of national transportation safety goals, including the enhancement of safe operation of motor vehicles and nonmotorized vehicles and improved emergency response to a crash, with particular emphasis on decreasing the number and severity of collisions;
 
-&emsp;“(3) protection and enhancement of the natural environment and communities affected by surfacetransportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
+&emsp;“(3) protection and enhancement of the natural environment and communities affected by surface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
 
 &emsp;“(4) accommodation of the needs of all users of surface transportation systems, including operators of commercial motor vehicles, passenger motor vehicles, motorcycles, bicycles and pedestrians, including individuals with disabilities; and
 

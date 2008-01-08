@@ -4,7 +4,7 @@
 
 Establishment of Unified Carrier Registration System.—The Secretary, in cooperation with the States, representatives of the motor carrier, motor private carrier, freight forwarder, and broker industries and after notice and opportunity for public comment, shall issue within 1 year after the date of enactment of the Unified Carrier Registration Act of 2005 regulations to establish an online Federal registration system, to be named the “Unified Carrier Registration System”, to replace—
 
-&emsp;(1) the current Department of Transportation identification number system, the single State registration system under section 14504;
+&emsp;(1) the current Department of Transportation identification number system, the single State registration system under section 14504; <sup>1</sup>
 
 &emsp;(2) the registration system contained in this chapter and the financial responsibility information system under section 13906; and
 
@@ -44,7 +44,7 @@ Exceptions.—There shall be no fee charged under this paragraph—
 
 &emsp;&emsp;&emsp;(i) to any agency of the Federal Government or a State government or any political subdivision of any such government for the access to or retrieval of information and data from the Unified Carrier Registration System for its own use; or
 
-&emsp;&emsp;&emsp;(ii) to any representative of a motor carrier, motor private carrier, leasing company, broker, or freight forwarder (as eachis defined in section 14504a) for the access to or retrieval of the individual information related to such entity from the Unified Carrier Registration System for the individual use of such entity.
+&emsp;&emsp;&emsp;(ii) to any representative of a motor carrier, motor private carrier, leasing company, broker, or freight forwarder (as each is defined in section 14504a) for the access to or retrieval of the individual information related to such entity from the Unified Carrier Registration System for the individual use of such entity.
 
 (e)
 
@@ -66,15 +66,21 @@ This sets out the effective date of 49:13908.
 
 The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (a), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
+Section 14504, referred to in subsec. (a)(1), was repealed by Pub. L. 109–59, title IV, §4305(a), Aug. 10, 2005, 119 Stat. 1764; Pub. L. 110–53, title XV, §1537(a), Aug. 3, 2007, 121 Stat. 467, effective Jan. 1, 2008.
+
 The effective date of this section, referred to in subsec. (c), probably means the date of enactment of Pub. L. 109–59, which amended this section generally and was approved Aug. 10, 2005.
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended heading and text of section generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to issuance of regulations to replace the current Department of Transportation identification number system, the single State registration system under section 14504, the registration system contained in this chapter, and the financial responsibility information system under section 13906 with a single, online, Federal system.
+2005—Pub. L. 109–59 amended heading and text of section generally. Prior to amendment, text consisted ofsubsecs. (a) to (e) relating to issuance of regulations to replace the current Department of Transportation identification number system, the single State registration system under section 14504, the registration system contained in this chapter, and the financial responsibility information system under section 13906 with a single, online, Federal system.
 
 1996—Subsec. (d)(1). Pub. L. 104–287, §5(36)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 Subsec. (e). Pub. L. 104–287, §5(36)(B), substituted “January 1, 1996” for “the effective date of this section”.
+
+#### Regulations
+
+Pub. L. 110–53, title XV, §1537(b), Aug. 3, 2007, 121 Stat. 467, provided that: “Not later than October 1, 2007, the Federal Motor Carrier Safety Administration shall issue final regulations to establish the Unified Carrier Registration System, as required by section 13908 of title 49, United States Code, and set fees for the unified carrier registration agreement for calendar year 2007 or subsequent calendar years to be charged to motor carriers, motor private carriers, and freight forwarders under such agreement, as required by 14504a of title 49, United States Code.”
 
 #### Relationship to Other Laws
 

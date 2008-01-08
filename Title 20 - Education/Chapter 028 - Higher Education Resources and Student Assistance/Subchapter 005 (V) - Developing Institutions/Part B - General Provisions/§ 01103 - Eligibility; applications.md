@@ -16,7 +16,7 @@ Each Hispanic-serving institution desiring to receive assistance under this subc
 
 #### (2) Preliminary applications
 
-&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for use by Hispanic-serving institutions applying under this subchapter prior to the submission of the principal application.
+&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for useby Hispanic-serving institutions applying under this subchapter prior to the submission of the principal application.
 
 #### (c) Contents
 

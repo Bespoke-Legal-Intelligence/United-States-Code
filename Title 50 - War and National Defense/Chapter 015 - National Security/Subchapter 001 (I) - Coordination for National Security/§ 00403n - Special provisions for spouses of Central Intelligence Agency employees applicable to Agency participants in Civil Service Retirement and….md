@@ -18,7 +18,7 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 2004—Subsec. (b). Pub. L. 108–458 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
-1992—Subsec. (a). Pub. L. 102–496 substituted references to sections 2002, 2031 to 2035, 2052, 2071, and 2094 of this title for references in original to sections 204,221 to 225, 232, 234 and 263 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which were formerly set out in a note under section 403 of this title.
+1992—Subsec. (a). Pub. L. 102–496 substituted references to sections 2002, 2031 to 2035, 2052, 2071, and 2094 of this title for references in original to sections 204, 221 to 225, 232, 234 and 263 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which were formerly set out in a note under section 403 of this title.
 
 1987—Subsec. (a). Pub. L. 100–178, §402(b)(3), inserted “232(b),” before “234(c), 234(d),”.
 

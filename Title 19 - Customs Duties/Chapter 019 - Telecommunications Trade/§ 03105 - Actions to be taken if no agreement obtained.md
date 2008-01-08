@@ -32,7 +32,7 @@
 
 &emsp;(G) suspension, in whole or in part, of benefits accorded articles of such country under title V of the Trade Act of 1974 (19 U.S.C. 2461, et seq.).
 
-(2) Notwithstanding section 125 of the Trade Act of 1974 \[19 U.S.C. 2135\] and any other provision of law, if any portion of a trade agreement described in paragraph (1)(A) is terminated, withdrawn, or suspended under paragraph (1) with respect to any duty imposed by the United States on the products of a foreign country, the rate of such duty that shall apply to such products entered, or withdrawn from warehouse forconsumption, after the date on which such termination, withdrawal, or suspension takes effect shall be a rate determined by the President.
+(2) Notwithstanding section 125 of the Trade Act of 1974 \[19 U.S.C. 2135\] and any other provision of law, if any portion of a trade agreement described in paragraph (1)(A) is terminated, withdrawn, or suspended under paragraph (1) with respect to any duty imposed by the United States on the products of a foreign country, the rate of such duty that shall apply to such products entered, or withdrawn from warehouse for consumption, after the date on which such termination, withdrawal, or suspension takes effect shall be a rate determined by the President.
 
 #### (c) Negotiating period
 

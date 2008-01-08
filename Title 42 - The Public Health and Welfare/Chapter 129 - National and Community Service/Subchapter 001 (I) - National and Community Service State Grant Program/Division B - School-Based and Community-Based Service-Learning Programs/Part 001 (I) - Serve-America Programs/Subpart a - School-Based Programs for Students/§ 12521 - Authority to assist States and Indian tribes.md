@@ -26,7 +26,7 @@ The Corporation, in consultation with the Secretary of Education, may make grant
 
 &emsp;&emsp;&emsp;&emsp;(I) has a demonstrated expertise in the provision of services to meet unmet human, educational, environmental, or public safety needs;
 
-&emsp;&emsp;&emsp;&emsp;(II) was in existence at least 1 year before the date on which the organizationsubmitted an application under section 12526 of this title; and
+&emsp;&emsp;&emsp;&emsp;(II) was in existence at least 1 year before the date on which the organization submitted an application under section 12526 of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(III) will make projects available for participants, who shall be students; and
 
@@ -38,7 +38,7 @@ The Corporation, in consultation with the Secretary of Education, may make grant
 
 &emsp;&emsp;(B) the recruitment, training, supervision, and placement of service-learning coordinators who are participants in a program under division C of this subchapter or receive a national service educational award under division D of this subchapter,
 
-> &emsp;who will identify the community partners described in paragraph (2)(B) and assist in the design and implementation of a program described in paragraph (2); and
+> &emsp;who will identify the community partners described in paragraph (2)(B) and assist in thedesign and implementation of a program described in paragraph (2); and
 
 &emsp;(4) implementing, operating, or expanding school-based service-learning programs involving adult volunteers to utilize service-learning to improve the education of students, through State distribution of Federal funds made available under this part to local partnerships among—
 

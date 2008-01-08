@@ -24,7 +24,7 @@
 
 &emsp;For purposes of paragraph (1), the President may enter into—
 
-&emsp;&emsp;(A) a bilateral agreement with the State Party to apply the import restrictions setforth in section 2606 of this title to the archaeological or ethnological material of the State Party the pillage of which is creating the jeopardy to the cultural patrimony of the State Party found to exist under paragraph (1)(A); or
+&emsp;&emsp;(A) a bilateral agreement with the State Party to apply the import restrictions set forth in section 2606 of this title to the archaeological or ethnological material of the State Party the pillage of which is creating the jeopardy to the cultural patrimony of the State Party found to exist under paragraph (1)(A); or
 
 &emsp;&emsp;(B) a multilateral agreement with the State Party and with one or more other nations (whether or not a State Party) under which the United States will apply such restrictions, and the other nations will apply similar restrictions, with respect to such material.
 
@@ -124,7 +124,7 @@ Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, as amended by Ex. Ord. No. 1328
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Convention on Cultural Property Implementation Act (Title III of Public Law 97–446; hereinafter referred to as the “Act”) \[this chapter\], and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
-Section 1. <i>United States Information Agency</i>. The following functions conferred upon the President by the Act are hereby delegated to the Director of the United States Information Agency, acting in consultation with the Secretary of State and the Secretary of Homeland Security:
+Section 1. <i>United States Information Agency</i>. The following functions conferred upon the President by theAct are hereby delegated to the Director of the United States Information Agency, acting in consultation with the Secretary of State and the Secretary of Homeland Security:
 
 (a) The functions conferred by section 303(a)(1) \[19 U.S.C. 2602(a)(1)\] concerning determinations to be made prior to initiation of negotiations of bilateral or multilateral agreements.
 

@@ -20,7 +20,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(D) relating to Government-wide or multiagency responsibility of the Secretary affecting the rights, benefits, or obligations of individuals employed in agencies other than those which are authorized to utilize the Foreign Service personnel system;
 
-&emsp;(6) “confidential employee” means an employee who acts in a confidential capacitywith respect to an individual who formulates or effectuates management policies in the field of labor-management relations;
+&emsp;(6) “confidential employee” means an employee who acts in a confidential capacity with respect to an individual who formulates or effectuates management policies in the field of labor-management relations;
 
 &emsp;(7) “dues” means dues, fees, and assessments;
 
@@ -66,5 +66,5 @@ As used in this subchapter, the term—
 
 #### Amendments
 
-1994—Par. (8)(A). Pub. L. 103–236 inserted “a member of the Service who is a United States citizen (other than a family member) employed under section 3951 of this title,”.
+1994—Par. (8)(A). Pub. L. 103–236 inserted “a member of the Service who is a United States citizen (otherthan a family member) employed under section 3951 of this title,”.
 

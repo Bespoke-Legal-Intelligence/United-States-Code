@@ -116,7 +116,7 @@ Any separated affiliate under this section shall file with the Commission annual
 
 &emsp;&emsp;(G) Language translation or data format conversion.
 
-&emsp;&emsp;(H) The provision of information necessary for the management, control, or operation of a telephone company telecommunications system.
+&emsp;&emsp;(H) The provision of information necessary for the management, control, or operation ofa telephone company telecommunications system.
 
 &emsp;&emsp;(I) The provision of directory assistance that provides names, addresses, and telephone numbers and does not include advertising.
 

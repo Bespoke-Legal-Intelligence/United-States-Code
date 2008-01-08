@@ -6,7 +6,7 @@ In General.—It shall be unlawful for an employing office to intimidate, take r
 
 (b)
 
-Remedy.—A violation of subsection (a) may be remedied by any legal remedy available to redress the practice opposed by the coveredemployee or other violation of law as to which the covered employee initiated proceedings, made a charge, or engaged in other conduct protected under subsection (a).
+Remedy.—A violation of subsection (a) may be remedied by any legal remedy available to redress the practice opposed by the covered employee or other violation of law as to which the covered employee initiated proceedings, made a charge, or engaged in other conduct protected under subsection (a).
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4061.)
 

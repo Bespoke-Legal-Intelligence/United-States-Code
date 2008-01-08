@@ -1,6 +1,6 @@
 ### §1745. Insurance of mortgages on sales of Government housing; limits and conditions; Greenbelt towns; State housing
 
-Notwithstanding any of the provisions of this subchapter, the Secretary is authorized, upon application by the mortgagee, to insure or to make commitments to insure under section 1738 or section 1743 of this title any mortgage executed in connection with the sale by the Government, or any agency or official thereof, of any housing acquired or constructed under Public Law 849, Seventy-sixth Congress, as amended; Public Law 781, Seventy-sixth Congress, as amended; or Public Laws 9, 73, or 353, Seventy-seventh Congress, as amended (including any property acquired, held or constructed in connection with such housing or to serve the inhabitants thereof), without regard to—
+Notwithstanding any of the provisions of this subchapter, the Secretary is authorized, uponapplication by the mortgagee, to insure or to make commitments to insure under section 1738 or section 1743 of this title any mortgage executed in connection with the sale by the Government, or any agency or official thereof, of any housing acquired or constructed under Public Law 849, Seventy-sixth Congress, as amended; Public Law 781, Seventy-sixth Congress, as amended; or Public Laws 9, 73, or 353, Seventy-seventh Congress, as amended (including any property acquired, held or constructed in connection with such housing or to serve the inhabitants thereof), without regard to—
 
 &emsp;(1) any limit as to the time when any mortgage may be insured under this subchapter;
 

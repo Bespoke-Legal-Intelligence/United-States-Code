@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment of Director; compensation
 
-There shall be established within the Department an Office of Minority Economic Impact. The Office shall be headed by a Director, who shall be appointed by the President, by and withthe advice and consent of the Senate. The Director shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+There shall be established within the Department an Office of Minority Economic Impact. The Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
 
 #### (b) Advice to Secretary on effect of energy policies, regulations, and other actions of Department respecting minority participation in energy programs
 

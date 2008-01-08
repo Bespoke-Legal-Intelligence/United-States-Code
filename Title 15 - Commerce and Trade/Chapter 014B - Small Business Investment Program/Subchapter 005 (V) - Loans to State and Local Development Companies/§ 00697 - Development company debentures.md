@@ -2,7 +2,7 @@
 
 #### (a) Guarantees; Administration authority; regulatory terms and conditions; full faith and credit; subordination of debentures
 
-(1) Except as provided in subsection (b) of this section, the Administration may guarantee the timely payment of all principal and interest as scheduled on any debenture issued by any qualified State or local development company.
+(1) Except as provided in subsection (b) of this section, the Administration may guarantee the timely payment of all principal and interest asscheduled on any debenture issued by any qualified State or local development company.
 
 (2) Such guarantees may be made on such terms and conditions as the Administration may be regulation determine to be appropriate: <i>Provided</i>, That the Administration shall not decline to issue such guarantee when the ownership interests of the small business concern and the ownership interests of the property to be financed with the proceeds of a loan made pursuant to subsection (b)(1) of this section are not identical because one or more of the following classes of relatives have an ownership interest in either the small business concern or the property: father, mother, son, daughter, wife, husband, brother, or sister: <i>Provided further</i>, That the Administrator or his designee has determined on a case-by-case basis that such ownership interest, such guarantee, and the proceeds of such loan, will substantially benefit the small business concern.
 
@@ -38,7 +38,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 &emsp;&emsp;&emsp;(ii) 50 percent of the amount established under clause (i) in the case of a loan made during the 2-year period beginning on October 1, 2002, for the life of the loan; and
 
-&emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+&emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
 #### (c) Commercial loan interest rate
 
@@ -60,7 +60,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (3) Development company fee
 
-&emsp;The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+&emsp;The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be usedto offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
 #### (e) “Qualified State or local development company” defined; exception for rural company; authority
 
@@ -136,7 +136,7 @@ Subsec. (i). Pub. L. 107–100, §6(b)(2), added subsec. (i).
 
 2000—Subsec. (f). Pub. L. 106–554 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000.”
 
-1997—Subsec. (b)(7)(A). Pub. L. 105–135, §222(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
+1997—Subsec. (b)(7)(A). Pub. L. 105–135, §222(1), added subpar. (A) and struck out former subpar. (A) whichread as follows: “assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
 
 &emsp;“(i) 0.9375 percent per year of the outstanding balance of the loan; or
 

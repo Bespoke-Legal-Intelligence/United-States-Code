@@ -2,7 +2,7 @@
 
 #### (a) Penalty assessed as tax
 
-The penalties and liabilities provided by this subchapter shall be paid upon notice and demand by the Secretary, and shall be assessed and collected in the same manner as taxes. Except as otherwise provided, any reference in this title to “tax” imposed by this title shall be deemed also to refer to the penalties and liabilities provided by this subchapter.
+The penalties and liabilities provided by this subchapter shall be paid upon notice and demand by the Secretary, and shall be assessed and collected in the same manner as taxes. Except as otherwise provided, any reference in thistitle to “tax” imposed by this title shall be deemed also to refer to the penalties and liabilities provided by this subchapter.
 
 #### (b) Person defined
 

@@ -102,7 +102,7 @@
 
 (2)(A) The deductive value of the merchandise being appraised is whichever of the following prices (as adjusted under paragraph (3)) is appropriate depending upon when and in what condition the merchandise concerned is sold in the United States:
 
-&emsp;(i) If the merchandise concerned is sold in the condition as imported at or about the dateof importation of the merchandise being appraised, the price is the unit price at which the merchandise concerned is sold in the greatest aggregate quantity at or about such date.
+&emsp;(i) If the merchandise concerned is sold in the condition as imported at or about the date of importation of the merchandise being appraised, the price is the unit price at which the merchandise concerned is sold in the greatest aggregate quantity at or about such date.
 
 &emsp;(ii) If the merchandise concerned is sold in the condition as imported but not sold at or about the date of importation of the merchandise being appraised, the price is the unit price at which the merchandise concerned is sold in the greatest aggregate quantity after the date of importation of the merchandise being appraised but before the close of the 90th day after the date of such importation.
 
@@ -152,7 +152,7 @@
 
 #### (f) Value if other values cannot be determined or used
 
-(1) If the value of imported merchandise cannot be determined, or otherwise used for the purposes of this chapter, under subsections (b)through (e) of this section, the merchandise shall be appraised for the purposes of this chapter on the basis of a value that is derived from the methods set forth in such subsections, with such methods being reasonably adjusted to the extent necessary to arrive at a value.
+(1) If the value of imported merchandise cannot be determined, or otherwise used for the purposes of this chapter, under subsections (b) through (e) of this section, the merchandise shall be appraised for the purposes of this chapter on the basis of a value that is derived from the methods set forth in such subsections, with such methods being reasonably adjusted to the extent necessary to arrive at a value.
 
 (2) Imported merchandise may not be appraised, for the purposes of this chapter, on the basis of—
 
@@ -238,7 +238,7 @@ As used in this section—
 
 &emsp;&emsp;(A) merchandise that is identical in all respects to, and was produced in the same country and by the same person as, the merchandise being appraised; or
 
-&emsp;&emsp;(B) if merchandise meeting the requirements under subparagraph (A) cannot befound (or for purposes of applying subsection (b)(2)(B)(i) of this section, regardless of whether merchandise meeting such requirements can be found), merchandise that is identical in all respects to, and was produced in the same country as, but not produced by the same person as, the merchandise being appraised.
+&emsp;&emsp;(B) if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i) of this section, regardless of whether merchandise meeting such requirements can be found), merchandise that is identical in all respects to, and was produced in the same country as, but not produced by the same person as, the merchandise being appraised.
 
 > &emsp;Such term does not include merchandise that incorporates or reflects any engineering, development, artwork, design work, or plan or sketch that—
 
@@ -306,7 +306,7 @@ Section 2 of Pub. L. 96–490 provided in part that the amendment made by that s
 
 > and effective with respect to merchandise exported to the United States on or after that date”.
 
-\[For delegation of authority of the President to make the determinations required by pars. (1) to (3), above, to the United States Trade Representative, see Memorandum of the President, Dec. 17, 1980, 45 F.R. 83467.\]
+\[For delegation of authority of the President to make the determinations required by pars. (1) to (3), above, to the United States Trade Representative, see Memorandum of President of the United States, Dec. 17, 1980, 45 F.R. 83467.\]
 
 \[For determination of the United States Trade Representative that the conditions of pars. (1) to (3), above, were satisfied effective on Jan. 1, 1981, see Determination of United States Trade Representative, 46 F.R. 1073.\]
 

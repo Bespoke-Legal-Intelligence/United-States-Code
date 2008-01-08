@@ -34,7 +34,7 @@ Except as provided in this section, a risk retention group is exempt from any St
 
 “notice
 
-“This policy is issued by your risk retention group. Your risk retention group may not be subject to all of the insurance laws and regulations of your State. State insurance insolvency guaranty funds are not available for your risk retention group.”
+“This policy is issued by your risk retention group. Your risk retention group may not besubject to all of the insurance laws and regulations of your State. State insurance insolvency guaranty funds are not available for your risk retention group.”
 
 &emsp;(2) require or permit a risk retention group to participate in any insurance insolvency guaranty association to which an insurer licensed in the State is required to belong;
 
@@ -118,7 +118,7 @@ Nothing in this chapter shall be construed to affect the authority of any State 
 
 1986—Subsec. (a)(1)(C). Pub. L. 99–563, §12(c), struck out “product liability or completed operations” before “liability insurance losses”.
 
-Subsec. (a)(1)(D). Pub. L. 99–563, §5(b)(1), redesignated subpar. (E) as (D), substituted a semicolon for “, and, upon request, furnish such commissioner a copy of any financial report submitted by the risk retention group to the commissioners of the chartering or licensing jurisdiction;”, and struck out former subpar. (D) which read as follows: “submit to the appropriate authority reports and other information required of licensed insurers under the laws of a State relating solely to product liability or completed operations liability insurance losses and expenses;”.
+Subsec. (a)(1)(D). Pub. L. 99–563, §5(b)(1), redesignated subpar. (E) as (D), substituted a semicolon for “, and, upon request, furnish such commissioner a copy of any financial report submitted by the risk retention group to the commissioners of the chartering or licensing jurisdiction;”, and struck out former subpar. (D) whichread as follows: “submit to the appropriate authority reports and other information required of licensed insurers under the laws of a State relating solely to product liability or completed operations liability insurance losses and expenses;”.
 
 Subsec. (a)(1)(E). Pub. L. 99–563, §5(b)(1)(A), (c), redesignated subpar. (F) as (E), further redesignated cl. (ii) as (i), added cl. (ii), and struck out former cl. (i) which read as follows: “the commissioner has reason to believe the risk retention group is in a financially impaired condition; and”. Former subpar. (E) redesignated (D).
 

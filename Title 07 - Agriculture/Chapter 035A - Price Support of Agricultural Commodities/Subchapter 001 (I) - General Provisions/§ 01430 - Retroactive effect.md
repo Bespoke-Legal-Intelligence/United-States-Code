@@ -12,5 +12,5 @@ This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as 
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable tomilk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 

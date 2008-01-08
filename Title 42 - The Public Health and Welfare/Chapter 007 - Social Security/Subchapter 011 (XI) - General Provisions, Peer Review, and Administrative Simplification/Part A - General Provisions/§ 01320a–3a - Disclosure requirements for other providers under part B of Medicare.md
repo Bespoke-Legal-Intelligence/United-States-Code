@@ -84,7 +84,7 @@ Section 147(g) of Pub. L. 103–432 provided that: “Except as otherwise provid
 
 #### Effective Date
 
-Section 4164(b)(4) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §147(f)(7)(A)(ii), Oct. 31, 1994, 108 Stat. 4432, provided that: “The amendments made byparagraphs (1), (2), and (3) \[enacting this section and amending sections 1320a–7 and 1320a–7b of this title\] shall apply with respect to items or services furnished on or after—
+Section 4164(b)(4) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §147(f)(7)(A)(ii), Oct. 31, 1994, 108 Stat. 4432, provided that: “The amendments made by paragraphs (1), (2), and (3) \[enacting this section and amending sections 1320a–7 and 1320a–7b of this title\] shall apply with respect to items or services furnished on or after—
 
 &emsp;“(A) January 1, 1993, in the case of items or services furnished by a provider who, on or before the date of the enactment of this Act \[Nov. 5, 1990\], has furnished items or services for which payment may be made under part B of title XVIII of the Social Security Act \[part B of subchapter XVIII of this chapter\]; or
 

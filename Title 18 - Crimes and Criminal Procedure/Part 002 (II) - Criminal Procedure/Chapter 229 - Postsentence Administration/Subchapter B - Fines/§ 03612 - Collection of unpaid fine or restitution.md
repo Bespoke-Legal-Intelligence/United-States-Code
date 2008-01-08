@@ -76,7 +76,7 @@ Modification of interest by court.—If the court determines that the defendant 
 
 (g)
 
-Penalty for Delinquent Fine.—If a fine or restitution becomes delinquent, the defendant shall pay, as a penalty, an amount equal to 10 percent of the principal amount that is delinquent. If a fine or restitution becomes in default, the defendant shall pay, as a penalty, an additional amount equal to 15 percent of the principal amount that is in default.
+Penalty for Delinquent Fine.—If a fine or restitution becomes delinquent, the defendant shall pay, as a penalty, an amount equal to10 percent of the principal amount that is delinquent. If a fine or restitution becomes in default, the defendant shall pay, as a penalty, an additional amount equal to 15 percent of the principal amount that is in default.
 
 (h)
 
@@ -178,7 +178,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 Section 237 of Pub. L. 98–473 provided that:
 
-“(a)(1) Except as provided in paragraph (2), for each criminal fine for which the unpaid balance exceeds $100 as of the effective date of this Act \[see section 235 of Pub. L. 98–473, as amended, set out as a note under section 3551 of this title\], the Attorney General shall, within one hundred and twenty days, notify the person by certified mail of his obligation, within thirty days after notification, to—
+“(a)(1) Except as provided in paragraph (2), for each criminal fine for which the unpaid balance exceeds $100as of the effective date of this Act \[see section 235 of Pub. L. 98–473, as amended, set out as a note under section 3551 of this title\], the Attorney General shall, within one hundred and twenty days, notify the person by certified mail of his obligation, within thirty days after notification, to—
 
 &emsp;“(A) pay the fine in full;
 

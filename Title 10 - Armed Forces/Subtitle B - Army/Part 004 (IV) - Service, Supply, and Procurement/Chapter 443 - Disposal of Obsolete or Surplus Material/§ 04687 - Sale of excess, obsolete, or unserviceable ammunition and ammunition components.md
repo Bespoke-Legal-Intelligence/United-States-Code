@@ -56,5 +56,5 @@ Definitions.—In this section:
 
 #### Review of Initial Sales
 
-Pub. L. 105–85, div. A, title X, §1065(b), Nov. 18, 1997, 111 Stat. 1895, provided that for each of the first three fiscal years during which the Secretary of the Army sold ammunition or ammunition components under the authority of this section, the Director of the Army Audit Agency was to conduct a review of sales under this section and, not later than 180 days after the end of each fiscal year in which the review was conducted, the Secretary of the Army was to submit to Congress a report containing the results of the review for the fiscal year covered by the report.’
+Pub. L. 105–85, div. A, title X, §1065(b), Nov. 18, 1997, 111 Stat. 1895, provided that for each of the first three fiscal years during which the Secretary of the Army sold ammunition or ammunition components under the authority of this section, the Director of the Army Audit Agency was to conduct a review of sales under this section and, not later than 180 days after the end of each fiscal year in which the review was conducted, the Secretary of the Army was to submit to Congress a report containing the results of the review for the fiscal year covered by the report.
 

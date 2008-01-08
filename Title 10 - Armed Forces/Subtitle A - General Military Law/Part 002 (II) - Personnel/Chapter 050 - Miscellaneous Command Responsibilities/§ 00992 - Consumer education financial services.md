@@ -212,7 +212,7 @@ Primary State Jurisdiction.—To the extent that multiple State laws would other
 
 State Standards.—Congress intends that—
 
-&emsp;“(1) the States collectively work with the Secretary of Defense to ensure implementation of appropriate standards to protect members of the Armed Forces from dishonest and predatory insurance sales practices while on a military installation of the United States (including installations located outside of the United States); and
+&emsp;“(1) the States collectively work with the Secretary of Defense to ensure implementation of appropriate standards to protect members of the Armed Forces from dishonest and predatory insurance salespractices while on a military installation of the United States (including installations located outside of the United States); and
 
 &emsp;“(2) each State identify its role in promoting the standards described in paragraph (1) in a uniform manner, not later than 12 months after the date of enactment of this Act \[Sept. 29, 2006\].
 
@@ -236,7 +236,7 @@ Disclosure.—A disclosure in accordance with this section is a written disclosu
 
 &emsp;“(1) states that subsidized life insurance is available to the member of the Armed Forces from the Federal Government under the Servicemembers’ Group Life Insurance program (also referred to as ‘SGLI’), under subchapter III of chapter 19 of title 38, United States Code;
 
-&emsp;“(2) states the amount of insurance coverage available under the SGLI program, together with the coststo the member of the Armed Forces for such coverage;
+&emsp;“(2) states the amount of insurance coverage available under the SGLI program, together with the costs to the member of the Armed Forces for such coverage;
 
 &emsp;“(3) states that the life insurance product that is the subject of the disclosure is not offered or provided by the Federal Government, and that the Federal Government has in no way sanctioned, recommended, or encouraged the sale of the life insurance product being offered;
 
@@ -300,7 +300,7 @@ Reporting by Insurers.—Beginning 1 year after the date of enactment of this Ac
 
 Reporting by States.—It is the sense of Congress that, not later than 1 year after the date of enactment of this Act, the States should collectively implement a system to—
 
-&emsp;“(1) receive reports of disciplinary actions taken against persons that sell or solicit the sale of any life insurance product on any military installation of the United States by insurers or Federal or State government entities with respect to such sales or solicitations; and
+&emsp;“(1) receive reports of disciplinary actions taken against persons that sell or solicit the sale of any lifeinsurance product on any military installation of the United States by insurers or Federal or State government entities with respect to such sales or solicitations; and
 
 &emsp;“(2) disseminate such information to all other States and to the Secretary of Defense.
 
@@ -340,7 +340,7 @@ Timing.—
 
 &emsp;&emsp;“(A)
 
-Proposed regulations.—Not later than the expiration of the 60-day period beginning on the date of enactment of this Act \[Sept. 29, 2006\], theSecretary of Defense shall prepare and submit to the appropriate Committees of Congress a copy of the regulations required by this subsection that are proposed to be published for comment. The Secretary may not publish such regulations for comment in the Federal Register until the expiration of the 15-day period beginning on the date of such submission to the appropriate Committees of Congress.
+Proposed regulations.—Not later than the expiration of the 60-day period beginning on the date of enactment of this Act \[Sept. 29, 2006\], the Secretary of Defense shall prepare and submit to the appropriate Committees of Congress a copy of the regulations required by this subsection that are proposed to be published for comment. The Secretary may not publish such regulations for comment in the Federal Register until the expiration of the 15-day period beginning on the date of such submission to the appropriate Committees of Congress.
 
 &emsp;&emsp;“(B)
 

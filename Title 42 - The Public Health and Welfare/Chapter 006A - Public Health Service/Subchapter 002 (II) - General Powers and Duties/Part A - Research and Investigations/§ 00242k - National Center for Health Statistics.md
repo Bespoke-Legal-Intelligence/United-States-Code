@@ -30,7 +30,7 @@ In carrying out subsection (a) of this section, the Secretary, acting through th
 
 &emsp;(3) may undertake and support (by grant or contract) epidemiological research, demonstrations, and evaluations on the matters referred to in paragraph (1); and
 
-&emsp;(4) may collect, furnish, tabulate, and analyze statistics, and prepare studies, on mattersreferred to in paragraph (1) upon request of public and nonprofit private entities under arrangements under which the entities will pay the cost of the service provided.
+&emsp;(4) may collect, furnish, tabulate, and analyze statistics, and prepare studies, on matters referred to in paragraph (1) upon request of public and nonprofit private entities under arrangements under which the entities will pay the cost of the service provided.
 
 > Amounts appropriated to the Secretary from payments made under arrangements made under paragraph (4) shall be available to the Secretary for obligation until expended.
 
@@ -136,7 +136,7 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 &emsp;(A) The extent to which persons required to comply with part C of title XI of the Social Security Act are cooperating in implementing the standards adopted under such part.
 
-&emsp;(B) The extent to which such entities are meeting the security standards adopted under such part and the types of penalties assessed for noncompliance with such standards.
+&emsp;(B) The extent to which such entities are meeting the security standards adopted undersuch part and the types of penalties assessed for noncompliance with such standards.
 
 &emsp;(C) Whether the Federal and State Governments are receiving information of sufficient quality to meet their responsibilities under such part.
 
@@ -180,7 +180,7 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 Section 3509 of title 44, referred to in subsec. (j)(4), (5), which required submission of certain plans and forms for collection of information to the Director of the Office of Management and Budget for approval, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812. Pub. L. 104–13 subsequently enacted a new section 3509 of Title 44 relating to designation of a central collection agency. Provisions appearing in former section 3509 are contained in section 3507 of Title 44.
 
-The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is act Aug. 14, 1935, ch. 531, 49Stat. 620, as amended. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
@@ -194,7 +194,7 @@ Provisions similar to those comprising subsec. (h) of this section were containe
 
 Subsec. (n)(1). Pub. L. 105–340, §201(1), and Pub. L. 105–392, §201(b)(2), amended par. (1) identically, substituting “2003” for “1998”.
 
-Subsec. (n)(2). Pub. L. 105–392, §201(b)(3)(A), in first sentence, substituted “paragraphs (1) through (3) of subsection (m)” for “subsection (m)” and substituted “such sums as may be necessary for each of the fiscal years 1999 through 2003.” for “$5,000,000 for fiscal year 1991, $7,500,000 for fiscal year 1992, $10,000,000 for fiscal year 1993, and $10,000,000 for each of the fiscal years 1994 through 2003.”
+Subsec. (n)(2). Pub. L. 105–392, §201(b)(3)(A), in first sentence, substituted “paragraphs (1) through (3) of subsection (m)” for “subsection (m)” and substituted “such sums as may be necessary for each of the fiscal years 1999 through 2003.” for “$5,000,000 for fiscal year 1991, $7,500,000 for fiscal year 1992, $10,000,000 for fiscalyear 1993, and $10,000,000 for each of the fiscal years 1994 through 2003.”
 
 Pub. L. 105–340, §201(2), substituted “2003” for “1998”.
 

@@ -8,7 +8,7 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 #### (1) In general
 
-&emsp;In addition to other taxes, there is hereby imposed on the income of each employee a taxequal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee.
+&emsp;In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee.
 
 #### (2) Applicable percentage
 
@@ -72,7 +72,7 @@ Pub. L. 89–97 substituted “the rate of the tax imposed with respect to wages
 
 1963—Pub. L. 88–133 limited existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
-1959—Pub. L. 86–28 increased tax from 61/4 percent of compensation not in excess of $350 for any calendar month to 63/4 percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 71/4 percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after Dec. 31, 1964, by a number of percentage points equal at any given time to the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
+1959—Pub. L. 86–28 increased tax from 61/4 percent of compensation not in excess of $350 for any calendar month to 63/4 percent of the compensation not in excessof $400 for any calendar month for services rendered before Jan. 1, 1962, and to 71/4 percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after Dec. 31, 1964, by a number of percentage points equal at any given time to the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
 
 1954—Act Aug. 31, 1954, substituted “$350” for “$300”.
 
@@ -112,7 +112,7 @@ Section 6 of Pub. L. 89–212 provided that: “The amendments made by sections 
 
 Section 105(b)(4) of Pub. L. 89–97 provided that: “The amendments made by this subsection \[amending this section and sections 3211 and 3221 of this title\] shall be effective with respect to compensation paid for services rendered after December 31, 1965.”
 
-Amendment by section 111(c)(1) of Pub. L. 89–97 applicable to calendar year 1966, or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act \[this chapter\] provides for a maximum amount ofmonthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act \[section 3101 et seq. of this title\] provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
+Amendment by section 111(c)(1) of Pub. L. 89–97 applicable to calendar year 1966, or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act \[this chapter\] provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act \[section 3101 et seq. of this title\] provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1959 Amendment
 
@@ -120,7 +120,7 @@ Section 202 of Pub. L. 86–28 provided that: “The amendments made by section 
 
 #### Effective Date of 1954 Amendment
 
-Section 407 of act Aug. 31, 1954, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided that: “The amendments to the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by section 206 \[amending this section and sections 3202, 3211, 3221, and 3231 of this title\] shall become effective as if enacted as a part of the Internal Revenue Code of 1986.”
+Section 407 of act Aug. 31, 1954, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, providedthat: “The amendments to the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by section 206 \[amending this section and sections 3202, 3211, 3221, and 3231 of this title\] shall become effective as if enacted as a part of the Internal Revenue Code of 1986.”
 
 #### Separability
 

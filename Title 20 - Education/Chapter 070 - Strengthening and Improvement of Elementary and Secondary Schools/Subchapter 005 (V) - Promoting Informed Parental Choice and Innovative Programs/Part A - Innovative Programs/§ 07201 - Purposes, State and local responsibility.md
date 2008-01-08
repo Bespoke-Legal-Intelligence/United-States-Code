@@ -42,7 +42,7 @@ Section 7205, Pub. L. 89–10, title V, §5105, as added Pub. L. 103–382, titl
 
 Section 7206, Pub. L. 89–10, title V, §5106, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3692, related to applications and requirements. See section 7231d of this title.
 
-Section 7207, Pub. L. 89–10, title V, §5107, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3693, related to priority in approving applications. See section 7231e of this title.
+Section 7207, Pub. L. 89–10, title V, §5107, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3693,related to priority in approving applications. See section 7231e of this title.
 
 Section 7208, Pub. L. 89–10, title V, §5108, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3693, related to use of funds. See section 7231f of this title.
 

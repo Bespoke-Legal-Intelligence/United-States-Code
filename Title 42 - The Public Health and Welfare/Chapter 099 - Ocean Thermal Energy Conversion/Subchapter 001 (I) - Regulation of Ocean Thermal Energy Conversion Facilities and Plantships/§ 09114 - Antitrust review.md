@@ -6,7 +6,7 @@ Whenever any application for issuance, transfer, or renewal of any license is re
 
 #### (b) Issuance of license as constituting no defense for antitrust violations
 
-The issuance of a license under this chapter shall not be admissible in any way as a defense to any civil or criminal action for violation of the antitrust laws of the United States, norshall it in any way modify or abridge any private right of action under such laws. Nothing in this section shall be construed to bar the Attorney General or the Federal Trade Commission from challenging any anticompetitive situation involved in the ownership, construction, or operation of an ocean thermal energy conversion facility or plantship.
+The issuance of a license under this chapter shall not be admissible in any way as a defense to any civil or criminal action for violation of the antitrust laws of the United States, nor shall it in any way modify or abridge any private right of action under such laws. Nothing inthis section shall be construed to bar the Attorney General or the Federal Trade Commission from challenging any anticompetitive situation involved in the ownership, construction, or operation of an ocean thermal energy conversion facility or plantship.
 
 (Pub. L. 96–320, title I, §104, Aug. 3, 1980, 94 Stat. 983.)
 

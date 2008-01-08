@@ -40,7 +40,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 #### (e) Exceptions in or waiver of regulations
 
-The Secretary may, with respect to a contract entered into under this subchapter, make exceptions in the regulations promulgated to carry out this subchapter, or waive such regulations, if the Secretary finds that such exception orwaiver is in the best interest of the Indians served by the contract or is consistent with the policies of this subchapter, and is not contrary to statutory law. In reviewing each request, the Secretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in section 450f of this title.
+The Secretary may, with respect to a contract entered into under this subchapter, make exceptions in the regulations promulgated to carry out this subchapter, or waive such regulations, if the Secretary finds that such exception or waiver is in the best interest of the Indians served by the contract or is consistent with the policies of this subchapter, and is not contrary to statutory law. In reviewing each request, the Secretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in section 450f of this title.
 
 (Pub. L. 93–638, title I, §107, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–472, title II, §207, Oct. 5, 1988, 102 Stat. 2295; Pub. L. 101–644, title II, §203(f), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §105, Oct. 25, 1994, 108 Stat. 4269; Pub. L. 103–435, §22(a)(1), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–133, §1, Apr. 25, 1996, 110 Stat. 1320; Pub. L. 104–287, §6(e), Oct. 11, 1996, 110 Stat. 3399.)
 
@@ -72,7 +72,7 @@ Pub. L. 103–413, §105(1), added subsec. (b) and struck out former subsec. (b)
 
 “(4) Within ten months from October 5, 1988, the Secretary shall promulgate regulations to implement the provisions of such Act.”
 
-Subsec. (c). Pub. L. 103–437, §10(c)(2)(B), substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Senate and House of Representatives”.
+Subsec. (c). Pub. L. 103–437, §10(c)(2)(B), substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of theHouse of Representatives” for “Committees on Interior and Insular Affairs of the United States Senate and House of Representatives”.
 
 Subsecs. (d), (e). Pub. L. 103–413, §105(2), added subsecs. (d) and (e).
 
@@ -93,8 +93,6 @@ Subsec. (b). Pub. L. 100–472, §207(b), amended subsec. (b) generally. Prior t
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date and Construction of 1996 Amendment
 

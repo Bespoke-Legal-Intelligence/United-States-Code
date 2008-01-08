@@ -6,5 +6,5 @@ It is the policy of Congress that the amount of appropriated funds available dur
 
 #### Prior Provisions
 
-Provisions similar to those in this subchapter were contained in Pub. L. 101–189, div. A, title XV, Nov. 29, 1989, 103 Stat. 1589, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(2).
+Provisions similar to those in this subchapter were contained in Pub. L. 101–189, div. A, title XV, Nov. 29, 1989, 103 Stat. 1589, which was set out as a note undersection 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(2).
 

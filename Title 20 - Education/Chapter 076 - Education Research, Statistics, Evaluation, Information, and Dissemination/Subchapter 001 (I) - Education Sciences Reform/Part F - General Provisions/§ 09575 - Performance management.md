@@ -6,7 +6,7 @@ The Director shall ensure that all activities conducted or supported by the Inst
 
 &emsp;(2) Disseminating information in a timely fashion and in formats that are easily accessible and usable by researchers, practitioners, and the general public.
 
-&emsp;(3) Utilizing the most modern technology and other methods available, including arrangements to use data collected electronically by States and local educational agencies, to ensure the efficient collection and timelydistribution of information, including data and reports.
+&emsp;(3) Utilizing the most modern technology and other methods available, including arrangements to use data collected electronically by States and local educational agencies, to ensure the efficient collection and timely distribution of information, including data and reports.
 
 &emsp;(4) Establishing and measuring performance against a set of indicators for the quality of data collected, analyzed, and reported.
 

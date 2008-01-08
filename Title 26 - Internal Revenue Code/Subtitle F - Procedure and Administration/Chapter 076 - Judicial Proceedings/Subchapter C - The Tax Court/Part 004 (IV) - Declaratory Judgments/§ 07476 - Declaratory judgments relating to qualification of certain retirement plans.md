@@ -34,7 +34,7 @@ In a case of actual controversy involving—
 
 #### (5) Time for bringing action
 
-&emsp;If the Secretary sends by certified or registered mail notice of his determination with respect to the qualification of the plan to the persons referred to in paragraph (1) (or, in the case of employees referred to in paragraph (1), to any individual designated under regulations prescribed by the Secretary as a representative of such employee), no proceeding may be initiated under this section by any person unless the pleading is filed before the ninety-first day after the day after such notice is mailed to such person (or to his designated representative, in the case of an employee).
+&emsp;If the Secretary sends by certified or registered mail notice of his determination with respect to the qualification of the plan to the persons referred to in paragraph (1) (or, in the case of employees referred to in paragraph (1), to any individual designated under regulations prescribed by the Secretary as a representative of such employee), no proceeding may be initiated under this section by any person unless the pleading is filed before the ninety-firstday after the day after such notice is mailed to such person (or to his designated representative, in the case of an employee).
 
 #### (c) Retirement plan
 

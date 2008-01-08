@@ -10,5 +10,5 @@ The Banking Act of 1933, also known as the Glass-Steagall Act, 1933, referred to
 
 #### Right To Amend, Alter or Repeal; Separability
 
-Section 34 of act June 16, 1933, provided: “The right to alter, amend, or repeal this Act is hereby expressly reserved. If any provision of this act, or the applicationthereof to any person or circumstances, is held invalid, the remainder of the act, and the application of such provision to other persons or circumstances, shall not be affected thereby”.
+Section 34 of act June 16, 1933, provided: “The right to alter, amend, or repeal this Act is hereby expressly reserved. If any provision of this act, or the application thereof to any person or circumstances, is held invalid, the remainder of the act, and the application of such provision to other persons or circumstances, shall not be affected thereby”.
 

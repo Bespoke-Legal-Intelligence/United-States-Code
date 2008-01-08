@@ -46,7 +46,7 @@ Rule of Construction.—Nothing in this section shall be construed to affect the
 
 (f)
 
-Authorization of Appropriations.—There are authorized to be appropriated $60,000,000 foreach of the fiscal years 2007 through 2012 to carry out this section.
+Authorization of Appropriations.—There are authorized to be appropriated $60,000,000 for each of the fiscal years 2007 through 2012 to carry out this section.
 
 (Added Pub. L. 109–347, title I, §108(a), Oct. 13, 2006, 120 Stat. 1892.)
 

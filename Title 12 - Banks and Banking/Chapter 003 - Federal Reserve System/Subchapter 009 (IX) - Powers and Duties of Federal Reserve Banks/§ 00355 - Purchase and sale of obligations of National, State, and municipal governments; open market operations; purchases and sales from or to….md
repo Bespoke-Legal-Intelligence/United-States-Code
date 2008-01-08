@@ -10,7 +10,9 @@ Every Federal Reserve bank shall have power:
 
 #### References in Text
 
-Section 1463 of this title, referred to in text, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648.
+Section 1463 of this title, referred to in par. (1), was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648.
+
+This chapter, referred to in par. (1), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 #### Codification
 

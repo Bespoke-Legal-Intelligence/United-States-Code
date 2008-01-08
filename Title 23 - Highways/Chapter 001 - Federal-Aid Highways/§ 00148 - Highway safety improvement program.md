@@ -196,7 +196,7 @@ Identification and analysis of highway safety problems and opportunities.—As p
 
 &emsp;&emsp;&emsp;(iv) includes a means of identifying the relative severity of hazardous locations described in clause (iii) in terms of accidents, injuries, deaths, and traffic volume levels;
 
-&emsp;&emsp;(E)(i) determine priorities for the correction of hazardous road locations, sections,and elements (including railway-highway crossing improvements), as identified through crash data analysis;
+&emsp;&emsp;(E)(i) determine priorities for the correction of hazardous road locations, sections, and elements (including railway-highway crossing improvements), as identified through crash data analysis;
 
 &emsp;&emsp;(ii) identify opportunities for preventing the development of such hazardous conditions; and
 
@@ -310,7 +310,7 @@ The date of enactment of this section, referred to in subsec. (e)(2), probably m
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to ahighway safety improvement program for provisions relating to development of the Great River Road, a national scenic and recreational highway.
+2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to a highway safety improvement program for provisions relating to development of the Great River Road, a national scenic and recreational highway.
 
 1978—Subsec. (a)(5). Pub. L. 95–599, §125(b), inserted provision authorizing charging of a fee in certain cases to cover operational costs.
 

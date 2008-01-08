@@ -62,6 +62,30 @@ In general.—Except as provided under paragraph (2), titles I \[enacting this c
 
 Immediate enactment.—Sections 207, 214, and 215 \[set out in a note under section 3501 of this title\] shall take effect on the date of enactment of this Act \[Dec. 17, 2002\].”
 
+#### E-Government Initiatives Funding
+
+Pub. L. 110–161, div. D, title VII, §737, Dec. 26, 2007, 121 Stat. 2028, provided that:
+
+“(a) For fiscal year 2008, no funds shall be available for transfers or reimbursements to the E-Government initiatives sponsored by the Office of Management and Budget prior to 15 days following submission of a report to the Committees on Appropriations by the Director of the Office of Management and Budget and receipt of approval to transfer funds by the House and Senate Committees on Appropriations.
+
+“(b) Hereafter, any funding request for a new or ongoing E-Government initiative by any agency or agencies managing the development of an initiative shall include in justification materials submitted to the House and Senate Committees on Appropriations the information in subsection (d).
+
+“(c) Hereafter, any funding request by any agency or agencies participating in the development of an E-Government initiative and contributing funding for the initiative shall include in justification materials submitted to the House and Senate Committees on Appropriations—
+
+&emsp;“(1) the amount of funding contributed to each initiative by program office, bureau, or activity, as appropriate; and
+
+&emsp;“(2) the relevance of that use to that department or agency and each bureau or office within, which is contributing funds.
+
+“(d) The report in (a) and justification materials in (b) shall include at a minimum—
+
+&emsp;“(1) a description of each initiative including but not limited to its objectives, benefits, development status, risks, cost effectiveness (including estimated net costs or savings to the government), and the estimated date of full operational capability;
+
+&emsp;“(2) the total development cost of each initiative by fiscal year including costs to date, the estimated costs to complete its development to full operational capability, and estimated annual operations and maintenance costs; and
+
+&emsp;“(3) the sources and distribution of funding by fiscal year and by agency and bureau for each initiative including agency contributions to date and estimated future contributions by agency.
+
+“(e) No funds shall be available for obligation or expenditure for new E-Government initiatives without the explicit approval of the House and Senate Committees on Appropriations.”
+
 #### Findings and Purposes
 
 Pub. L. 107–347, §2, Dec. 17, 2002, 116 Stat. 2900, provided that:
@@ -92,7 +116,7 @@ Purposes.—The purposes of this Act \[see Tables for classification\] are the f
 
 &emsp;“(2) To promote use of the Internet and other information technologies to provide increased opportunities for citizen participation in Government.
 
-&emsp;“(3) To promote interagency collaboration in providing electronic Government services, where thiscollaboration would improve the service to citizens by integrating related functions, and in the use of internal electronic Government processes, where this collaboration would improve the efficiency and effectiveness of the processes.
+&emsp;“(3) To promote interagency collaboration in providing electronic Government services, where this collaboration would improve the service to citizens by integrating related functions, and in the use of internal electronic Government processes, where this collaboration would improve the efficiency and effectiveness of the processes.
 
 &emsp;“(4) To improve the ability of the Government to achieve agency missions and program performance goals.
 

@@ -40,7 +40,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### (A) In general
 
-&emsp;&emsp;Consistent with the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
+&emsp;&emsp;Consistent with the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribesand tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
 
 #### (B) Study
 
@@ -59,6 +59,10 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 2005—Par. (2). Pub. L. 109–58, which directed amendment of section 202 of the Native American Housing and Self-Determination Act of 1996 by inserting “improvement to achieve greater energy efficiency,” after “planning,” in par. (2), was executed by making the insertion in par. (2) of this section, which is section 202 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
 
 2002—Pars. (7), (8). Pub. L. 107–292 added pars. (7) and (8).
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date
 

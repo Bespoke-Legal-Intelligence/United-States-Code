@@ -10,7 +10,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(B) in the case of an individual who enrolls pursuant to such subsection (d) in the month in which he first satisfies such paragraph, the first day of the month following the month in which he so enrolls, or
 
-&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the month following the month in which he first satisfiessuch paragraph, the first day of the second month following the month in which he so enrolls, or
+&emsp;(C) in the case of an individual who enrolls pursuant to such subsection (d) in the month following the month in which he first satisfies such paragraph, the first day of the second month following the month in which he so enrolls, or
 
 &emsp;(D) in the case of an individual who enrolls pursuant to such subsection (d) more than one month following the month in which he satisfies such paragraph, the first day of the third month following the month in which he so enrolls, or
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 90–248 effective Apr. 1, 1968, see section 145(e) of Pub.
 
 #### Coverage Period; Termination Dates
 
-Pub. L. 90–97, §3(a), Sept. 30, 1967, 81 Stat. 249, provided that: “In the case of any individual who, pursuant to section 1838(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\], terminates his enrollment in the insurance program established under part B of titleXVIII of such Act \[this part\], his coverage period (as defined in section 1838(a) of such Act) \[subsec. (a) of this section\]—
+Pub. L. 90–97, §3(a), Sept. 30, 1967, 81 Stat. 249, provided that: “In the case of any individual who, pursuant to section 1838(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\], terminates his enrollment in the insurance program established under part B of title XVIII of such Act \[this part\], his coverage period (as defined in section 1838(a) of such Act) \[subsec. (a) of this section\]—
 
 &emsp;“(1) shall terminate at the close of December 31, 1967, if he filed his notice of termination before January 1, 1968, or
 

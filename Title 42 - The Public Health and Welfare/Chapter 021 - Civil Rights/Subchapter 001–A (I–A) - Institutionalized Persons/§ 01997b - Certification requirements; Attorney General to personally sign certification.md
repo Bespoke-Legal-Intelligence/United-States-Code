@@ -4,7 +4,7 @@
 
 &emsp;(1) that at least 49 calendar days previously the Attorney General has notified in writing the Governor or chief executive officer and attorney general or chief legal officer of the appropriate State or political subdivision and the director of the institution of—
 
-&emsp;&emsp;(A) the alleged conditions which deprive rights, privileges, or immunities secured or protected by the Constitution or laws of the United States and the alleged pattern or practice of resistance to the full enjoyment of such rights, privileges, or immunities;
+&emsp;&emsp;(A) the alleged conditions which deprive rights, privileges, or immunities secured orprotected by the Constitution or laws of the United States and the alleged pattern or practice of resistance to the full enjoyment of such rights, privileges, or immunities;
 
 &emsp;&emsp;(B) the supporting facts giving rise to the alleged conditions and the alleged pattern or practice, including the dates or time period during which the alleged conditions and pattern or practice of resistance occurred; and when feasible, the identity of all persons reasonably suspected of being involved in causing the alleged conditions and pattern or practice at the time of the certification, and the date on which the alleged conditions and pattern or practice were first brought to the attention of the Attorney General; and
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(C) the Attorney General is satisfied that the appropriate officials have had a reasonable time to take appropriate action to correct such conditions and pattern or practice, taking into consideration the time required to remodel or make necessary changes in physical facilities or relocate residents, reasonable legal or procedural requirements, the urgency of the need to correct such conditions, and other circumstances involved in correcting such conditions; and
 
-&emsp;(3) that the Attorney General believes that such an action by the United States is of general public importance and will materially further the vindication of rights, privileges, orimmunities secured or protected by the Constitution or laws of the United States.
+&emsp;(3) that the Attorney General believes that such an action by the United States is of general public importance and will materially further the vindication of rights, privileges, or immunities secured or protected by the Constitution or laws of the United States.
 
 (b) The Attorney General shall personally sign any certification made pursuant to this section.
 

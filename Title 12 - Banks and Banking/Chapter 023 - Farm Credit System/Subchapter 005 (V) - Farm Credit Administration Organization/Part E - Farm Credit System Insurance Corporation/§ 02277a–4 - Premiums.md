@@ -32,7 +32,7 @@
 
 #### (4) Definition of Government Sponsored Enterprise-guaranteed loan
 
-In this section and sections 2020(b) and 2277a–5(a) of this title, the term “Government Sponsored Enterprise-guaranteed loan” means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.
+&emsp;In this section and sections 2020(b) and 2277a–5(a) of this title, the term “Government Sponsored Enterprise-guaranteed loan” means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.
 
 #### (b) Amount in Fund exceeding secure base amount
 

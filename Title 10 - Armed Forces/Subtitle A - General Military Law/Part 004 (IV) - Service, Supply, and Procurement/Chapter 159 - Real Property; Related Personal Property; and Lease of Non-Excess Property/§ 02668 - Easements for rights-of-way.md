@@ -86,7 +86,7 @@ July 24, 1946, ch. 596, §7, 60 Stat. 643; Oct. 25, 1951, ch. 563, §101 (31st t
 
 43:931b (last sentence) \[43:931b is made applicable to the Navy by 50:171–1 (16th through 21st words)\].
 
-In subsection (a), the word “conditions” is omitted as covered by the word “terms”. The description of thepersons covered in the opening paragraph and the lands covered in clauses (1)–(10) is restated to reflect an opinion of the Judge Advocate General of the Army (JAGR 1952/3179, 27 Mar. 1952). The exceptions to clause (10) make express the fact that the revised section does not cover certain easements authorized by earlier law. The word “over” includes the word “across”. The words “of the United States”, “and empowered”, “acquired lands”, “jurisdiction and”, and “municipality” are omitted as surplusage. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico.
+In subsection (a), the word “conditions” is omitted as covered by the word “terms”. The description of the persons covered in the opening paragraph and the lands covered in clauses (1)–(10) is restated to reflect an opinion of the Judge Advocate General of the Army (JAGR 1952/3179, 27 Mar. 1952). The exceptions to clause (10) make express the fact that the revised section does not cover certain easements authorized by earlier law. The word “over” includes the word “across”. The words “of the United States”, “and empowered”, “acquired lands”, “jurisdiction and”, and “municipality” are omitted as surplusage. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico.
 
 In subsection (b), the words “for the easement” are substituted for the words “for the purpose for which granted”.
 

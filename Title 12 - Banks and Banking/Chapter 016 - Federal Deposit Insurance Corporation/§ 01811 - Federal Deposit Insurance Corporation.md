@@ -22,7 +22,7 @@ There is hereby established a Federal Deposit Insurance Corporation (hereinafter
 
 #### Codification
 
-The Federal Deposit Insurance Corporation was originally created as a part of the Federal Reserve Act byact June 16, 1933, ch. 89, §8, 48 Stat. 168, which added section 12B to the Federal Reserve Act, act Dec. 23, 1913, ch. 6, 38 Stat. 103, and was classified to section 264 of this title. Act Dec. 23, 1913, ch. 6, §12B, as added June 16, 1933, ch. 89, §8, 48 Stat. 168 has been amended by acts June 16, 1934, ch. 546, §1(1)–(10), 48 Stat. 969, 970; June 28, 1935, ch. 335, 49 Stat. 435; Aug. 23, 1935, ch. 614, §101, 49 Stat. 684; Apr. 21, 1936, ch. 244, 49 Stat. 1237; May 25, 1938, ch. 276, 52 Stat. 442; June 16, 1938, ch. 489, 52 Stat. 767; June 20, 1939, ch. 214, §2, 53 Stat. 842; Apr. 13, 1943, ch. 62, §1, 57 Stat. 65; Aug. 5, 1947, ch. 492, §§2, 4, 61 Stat. 773; June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948; Oct. 15, 1949, ch. 695, §4, 63 Stat. 880; Aug. 17, 1950, ch. 729, §§5–7, 64 Stat. 457.
+The Federal Deposit Insurance Corporation was originally created as a part of the Federal Reserve Act by act June 16, 1933, ch. 89, §8, 48 Stat. 168, which added section 12B to the Federal Reserve Act, act Dec. 23, 1913, ch. 6, 38 Stat. 103, and was classified to section 264 of this title. Act Dec. 23, 1913, ch. 6, §12B, as added June 16, 1933, ch. 89, §8, 48 Stat. 168 has been amended by acts June 16, 1934, ch. 546, §1(1)–(10), 48 Stat. 969, 970; June 28, 1935, ch. 335, 49 Stat. 435; Aug. 23, 1935, ch. 614, §101, 49 Stat. 684; Apr. 21, 1936, ch. 244, 49 Stat. 1237; May 25, 1938, ch. 276, 52 Stat. 442; June 16, 1938, ch. 489, 52 Stat. 767; June 20, 1939, ch. 214, §2, 53 Stat. 842; Apr. 13, 1943, ch. 62, §1, 57 Stat. 65; Aug. 5, 1947, ch. 492, §§2, 4, 61 Stat. 773; June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948; Oct. 15, 1949, ch. 695, §4, 63 Stat. 880; Aug. 17, 1950, ch. 729, §§5–7, 64 Stat. 457.
 
 Section 12B of the Federal Reserve Act was withdrawn from the Federal Reserve Act and made a separate Act by section 1 of act Sept. 21, 1950, and set out as this chapter.
 
@@ -168,7 +168,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(1) the Year 2000 computer problem poses a serious challenge to the American economy, including the Nation's banking and financial services industries;
 
-&emsp;“(2) thousands of banks, savings associations, and credit unions rely heavily on internal informationtechnology and computer systems, as well as outside service providers, for mission-critical functions, such as check clearing, direct deposit, accounting, automated teller machine networks, credit card processing, and data exchanges with domestic and international borrowers, customers, and other financial institutions; and
+&emsp;“(2) thousands of banks, savings associations, and credit unions rely heavily on internal information technology and computer systems, as well as outside service providers, for mission-critical functions, such as check clearing, direct deposit, accounting, automated teller machine networks, credit card processing, and data exchanges with domestic and international borrowers, customers, and other financial institutions; and
 
 &emsp;“(3) Federal financial regulatory agencies must have sufficient examination authority to ensure that the safety and soundness of the Nation's financial institutions will not be at risk.
 
@@ -520,7 +520,7 @@ In General.—The Comptroller General of the United States shall conduct a study
 
 “(b)
 
-Consultation and Cooperation With Other Agencies.—The Comptroller General shall determine the structure and methodology of the study under this section in consultation with and with the cooperation of the Secretary of Agriculture and the Farm Credit Administration (with respect to the Farm Credit Banks, the Banks for Cooperatives, and the Federal Agricultural Mortgage Corporation), the Secretary of Education (with respect to the Student Loan Marketing Association and the College Construction Loan Corporation), the Secretary of Housing and Urban Development (with respect to the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation), and the government-sponsored enterprises.
+Consultation and Cooperation With Other Agencies.—The Comptroller General shall determinethe structure and methodology of the study under this section in consultation with and with the cooperation of the Secretary of Agriculture and the Farm Credit Administration (with respect to the Farm Credit Banks, the Banks for Cooperatives, and the Federal Agricultural Mortgage Corporation), the Secretary of Education (with respect to the Student Loan Marketing Association and the College Construction Loan Corporation), the Secretary of Housing and Urban Development (with respect to the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation), and the government-sponsored enterprises.
 
 “(c)
 

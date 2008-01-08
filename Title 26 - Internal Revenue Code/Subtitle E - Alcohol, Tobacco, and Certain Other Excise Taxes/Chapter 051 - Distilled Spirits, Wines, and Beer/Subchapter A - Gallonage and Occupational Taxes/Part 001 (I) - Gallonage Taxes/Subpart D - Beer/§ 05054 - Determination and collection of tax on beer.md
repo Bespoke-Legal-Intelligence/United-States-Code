@@ -4,7 +4,7 @@
 
 #### (1) Beer produced in the United States; certain imported beer
 
-&emsp;Except as provided in paragraph (3), the tax imposed by section 5051 on beer produced in the United States, or imported into the United States and transferred to a brewery free of tax under section 5418, shall be determined at the time it is removed for consumption or sale, and shall be paid by the brewer thereof in accordance with section 5061.
+&emsp;Except as provided in paragraph (3), the tax imposed by section 5051 on beer produced inthe United States, or imported into the United States and transferred to a brewery free of tax under section 5418, shall be determined at the time it is removed for consumption or sale, and shall be paid by the brewer thereof in accordance with section 5061.
 
 #### (2) Beer imported into the United States
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into the United States or a foreign trade zone after Dec. 15, 1986,see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
+Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into the United States or a foreign trade zone after Dec. 15, 1986, see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
 
 #### Effective Date of 1978 Amendment
 

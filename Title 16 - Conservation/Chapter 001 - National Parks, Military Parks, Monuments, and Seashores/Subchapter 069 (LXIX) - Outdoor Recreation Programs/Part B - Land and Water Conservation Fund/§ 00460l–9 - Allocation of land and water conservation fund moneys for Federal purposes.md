@@ -18,7 +18,7 @@ Moneys appropriated from the fund for Federal purposes shall, unless otherwise a
 
 #### (b) Acquisition restrictions
 
-Appropriations from the fund pursuant to this section shall not be used for acquisition unless such acquisition is otherwise authorized by law:<i>Provided, however</i>, That appropriations from the fund may be used for preacquisition work in instances where authorization is imminent and where substantial monetary savings could be realized.
+Appropriations from the fund pursuant to this section shall not be used for acquisition unless such acquisition is otherwise authorized by law: <i>Provided, however</i>, That appropriations from the fund may be used for preacquisition work in instances where authorization is imminent and where substantial monetary savings could be realized.
 
 #### (c) Boundary changes; donations; authority of Secretary
 
@@ -64,7 +64,7 @@ Subsec. (c)(2)(C). Pub. L. 106–176, §120(b)(1), substituted “lands, waters,
 
 Subsec. (c)(2)(F). Pub. L. 106–176, §120(b)(2), substituted “lands, waters, or interests therein, or a portion of whose lands, waters, or interests therein,” for “lands, water, or interests therein, or a portion of whose lands, water, or interests therein,”.
 
-1996—Subsec. (a)(3). Pub. L. 104–333, §814(d)(2)(C), struck out at end “The Secretary of the Interior shall, prior to the expenditure of funds which would cause a statutory ceiling to be exceeded by $1,000,000 or more, and with respect to each expenditure of $1,000,000 ormore in excess of such a ceiling, provide written notice of such proposed expenditure not less than thirty calendar days in advance to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.”
+1996—Subsec. (a)(3). Pub. L. 104–333, §814(d)(2)(C), struck out at end “The Secretary of the Interior shall, prior to the expenditure of funds which would cause a statutory ceiling to be exceeded by $1,000,000 or more, and with respect to each expenditure of $1,000,000 or more in excess of such a ceiling, provide written notice of such proposed expenditure not less than thirty calendar days in advance to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.”
 
 Subsec. (c). Pub. L. 104–333, §814(b)(2)(B), as amended by Pub. L. 106–176, §129, designated existing provisions as par. (1) and added par. (2).
 
@@ -91,6 +91,10 @@ Subsec. (b). Pub. L. 94–422 reenacted subsec. (b) without change.
 1973—Subsec. (a)(1). Pub. L. 93–205 substituted reference to “Endangered species and threatened species” followed by a definition covering “lands, waters, or interests therein, the acquisition of which is authorized under section 1533(a) of this title, needed for the purpose of conserving endangered or threatened species of fish or wildlife or plants” for a reference to “Threatened species” followed by a definition covering “any national area which may be authorized for the preservation of species of fish or wildlife that are threatened with extinction”.
 
 1968—Subsec. (a). Pub. L. 90–401 struck out “in substantially the same proportion as the number of visitor-days in areas and projects hereinafter described for which admission fees are charged under section 460<i>l</i>–5 of this title” after “purposes and subpurposes” in text preceding par. (1).
+
+#### Change of Name
+
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1973 Amendment
 
